@@ -1,5 +1,5 @@
 {
-  "turno": 175,
+  "turno": 176,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
   "hora": "13:05",
@@ -7,7 +7,7 @@
   "nivel": 11,
   "exp": 30610,
   "exp_siguiente_nivel": 36000,
-  "fragmentos": 644,
+  "fragmentos": 44,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -27,14 +27,14 @@
   },
   "puntos_de_stat_sin_asignar": 35,
   "stats": {
-    "fuerza": 126,
-    "velocidad": 129,
-    "resistencia": 126,
-    "tecnica": 129,
-    "percepcion": 127,
-    "voluntad": 127,
-    "energia": 128,
-    "control": 127
+    "fuerza": 201,
+    "velocidad": 204,
+    "resistencia": 201,
+    "tecnica": 204,
+    "percepcion": 202,
+    "voluntad": 202,
+    "energia": 203,
+    "control": 202
   },
   "energia_actual_pct": 100,
   "eclipse": {

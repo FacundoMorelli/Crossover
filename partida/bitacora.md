@@ -174,3 +174,4 @@ T172 · Bleach · 25/08 · El equipo de avanzada se queda en Karakura. Facundo: 
 T173 · Bleach · 26/08 21:15 · Cena con todos. Anuncia que se va un tiempo y que vuelve en unas semanas.
 T174 · Dragon Ball · Año 774 · Cruza la Puerta. Llega cerca de la nave de Babidi. Don: Forma Cenit. Misión: que Vegeta siga vivo cuando Buu desaparezca.
 T175 · Dragon Ball · 13:05 · Observa por el ki: niveles de la nave. Majin Vegeta sale volando.
+T176 · Dragon Ball · 13:05 · +75 a todos los stats (600 F). Promedio ~202.
