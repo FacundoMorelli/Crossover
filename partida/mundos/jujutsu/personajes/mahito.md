@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T25 · 00:00 · Sale de la estación tras romper el hielo y camina por el campo gris hacia Yuji y Facundo. Marca III aún en el pecho.
 - T22 · 23:56 · Facundo lo marca otra vez (Marca III, estado: congelado) y se va escaleras arriba.
 - T21 · 23:55 · Facundo activa la Marca II desde el escalón: Mahito vuelve al instante a estar congelado entero, con la misma grieta. La Marca se consume.
 - T20 · 23:51-23:55 · Facundo lo marca (Marca II, estado: congelado). Descansa. A los cuatro minutos Mahito rompe el hielo inflándose desde adentro; queda con el número II en el pecho. Ya no sonríe del todo.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T14 · 23:48 · Facundo lo ciega con Destello Solar y lo parte con Rift. Mahito se recompone (el corte no toca su alma) y contraataca estirando el brazo hacia Facundo.
 - T13 · 23:48 · hall sur de la estación · sale del túnel cuando Facundo lo tasa. Había mirado todo desde la oscuridad.
 DIÁLOGOS CLAVE:
+- T25: "¡Yuuujiii! ¡Te estaba buscando!"
 - T20: "¿Qué me pusiste? ...Un número. ¿Me estás contando?"
 - T18: "¡Frío, frío, frío! Eso sí que fue molesto."
 - T16: "¿Y tú me vas a detener? ¿Solo? ¿Con un ojo que llora sangre y otro que no ve?"
@@ -25,4 +27,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: congelado otra vez (Marca II activada). Consciente. Gastó energía regenerándose.
+ESTADO: libre, caminando hacia Yuji por el campo gris. Marca III en el pecho. Gastó energía.
