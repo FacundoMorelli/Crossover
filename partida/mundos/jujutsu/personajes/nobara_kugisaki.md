@@ -37,3 +37,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que no es de ninguna escuela y dice no saber dónde está (T50); que su gato se llama Kase y viaja con él a todos lados (T49); su aspecto, que la sacó a Mahito de encima (T30), su nombre Facundo (T31).
 QUÉ PODERES DE FACUNDO VIO: Marea Lunar (T30).
 ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
+- T281 · 17/01/2019 21:40 · Sale de los dormitorios con una bolsa de basura; ve a Facundo; la suelta y le grita.
+- DIÁLOGO T281: "¡¿TÚ?! ¡¿Setenta días sin un mensaje y apareces así, como si nada?!"

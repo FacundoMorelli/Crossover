@@ -279,3 +279,4 @@ T277 · Jujutsu · 20:16 · Camina hasta Yuji en la zona arrasada. Yuji lo ve.
 T278 · Jujutsu · 20:20 · Yuji le cuenta: Gojo, Choso, Yuki muertos; Sukuna muerto; Megumi mal; Nanami sin brazo.
 T279 · Jujutsu · 20:23 · Mano en el hombro de Yuji. Llora. '¿Te vas a quedar?'
 T280 · Jujutsu · 20:48 · 'Me quedo un tiempo.' Ijichi viene a buscarlos; recuerda la orden de retención.
+T281 · Jujutsu · 21:40 · Llega a la escuela. Nobara lo ve.
