@@ -1,11 +1,11 @@
 {
-  "turno": 41,
+  "turno": 42,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:42",
+  "hora": "00:43",
   "edad": 18,
   "nivel": 3,
-  "exp": 2600,
+  "exp": 3200,
   "exp_siguiente_nivel": 4500,
   "fragmentos": 303,
   "plata_local": {
@@ -137,6 +137,18 @@
         "Sin Sukuna: no incluye al Rey de las Maldiciones ni los dedos",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Ira Estelar",
+      "de": "Yuki Tsukumo",
+      "mundo": "jujutsu",
+      "cuando": "T42, 01/11/2018 00:43",
+      "incluye": [
+        "Agrega masa virtual a sí mismo o a lo que toca/controla: golpes con peso de edificio sin perder velocidad",
+        "Garuda: shikigami propio en forma de látigo/serpiente al que puede cargar de masa",
+        "Aplicable a armas (Rift y Echo) y a otras técnicas",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -153,13 +165,6 @@
       "mision": "Responder a Aoi Todo qué tipo de mujer te gusta, y que la respuesta no lo aburra.",
       "dificultad": "MEDIA",
       "emitida": "T33"
-    },
-    {
-      "poder": "Ira Estelar — Yuki Tsukumo",
-      "mundo": "jujutsu",
-      "mision": "Que Yuki Tsukumo te pregunte qué tipo de mujer te gusta, y responderle con la verdad.",
-      "dificultad": "ALTA",
-      "emitida": "T39"
     }
   ],
   "misiones_de_copia_rechazadas": [],
