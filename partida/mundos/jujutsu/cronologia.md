@@ -38,6 +38,7 @@
 
 ## LO QUE CAMBIÓ
 - 23:49-23:55 · Facundo retiene a Mahito en el hall sur de la estación. Nanami sube solo hacia Yuji y Megumi sin Mahito detrás. (En el canon, Mahito lo mataba frente a Yuji ≈00:12.)
+- 00:10-00:12 · Llega Todo; pierde la mano izquierda (canon). Yuji conecta un Destello Negro. Nobara sigue en pie, con sus dos ojos. Mahito intenta expandir su dominio.
 - 23:57-23:58 · Nanami se desploma en la losa; Facundo y Yuji lo estabilizan. Despierta. Vivo.
 
 ## LO QUE PASÓ

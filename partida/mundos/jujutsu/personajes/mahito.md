@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T33 · 00:09-00:12 · En forma final, supera a Yuji. Llega Todo; con el Boogie Woogie lo desorientan. Le quita la mano izquierda a Todo con un toque. Recibe un Destello Negro de Yuji. Junta las manos para expandir su dominio.
 - T32 · 00:09 · Termina de transformarse: Cuerpo Espiritual Instantáneo de Matanza Distorsionada. Facundo lo tasa: amenaza muy alta.
 - T31 · 00:09 · Resonancia de Nobara + golpe de Yuji al mismo tiempo: daño fuerte en el alma. Cae de la varilla, encogido. Su cuerpo empieza a cambiar de forma de una manera nueva.
 - T30 · 00:08 · A medio metro de la cabeza de Nobara, la Marea Lunar lo arranca y lo lanza quince metros contra una varilla de hierro. Yuji llega encima.
@@ -25,6 +26,7 @@ ENCUENTROS:
 - T14 · 23:48 · Facundo lo ciega con Destello Solar y lo parte con Rift. Mahito se recompone (el corte no toca su alma) y contraataca estirando el brazo hacia Facundo.
 - T13 · 23:48 · hall sur de la estación · sale del túnel cuando Facundo lo tasa. Había mirado todo desde la oscuridad.
 DIÁLOGOS CLAVE:
+- T33: "Expansión de Dominio..."
 - T31: "...Ah. Ah, ya entiendo."
 - T30: "¡Tú otra vez!"
 - T29: "¡Ah, la chica de los clavos!"

@@ -1,8 +1,8 @@
 {
-  "turno": 32,
+  "turno": 33,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:09",
+  "hora": "00:12",
   "edad": 18,
   "nivel": 1,
   "exp": 700,
@@ -26,7 +26,7 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 38,
+  "energia_actual_pct": 41,
   "eclipse": {
     "maestria": 34,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo arde; ojo azul forzado otra vez: nublado espeso, ve sombras",
+  "ojos": "ojo rojo arde; ojo azul nublado, distingue formas",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -129,6 +129,13 @@
       "mision": "Que Nobara Kugisaki salga de Shibuya con sus dos ojos.",
       "dificultad": "MEDIA",
       "emitida": "T29"
+    },
+    {
+      "poder": "Boogie Woogie — Aoi Todo",
+      "mundo": "jujutsu",
+      "mision": "Responder a Aoi Todo qué tipo de mujer te gusta, y que la respuesta no lo aburra.",
+      "dificultad": "MEDIA",
+      "emitida": "T33"
     }
   ],
   "misiones_de_copia_rechazadas": [],

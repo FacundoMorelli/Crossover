@@ -31,3 +31,4 @@ T29 · Jujutsu · 00:08 · Observa: Yuji vs Mahito; doble; llega Nobara y lo da�
 T30 · Jujutsu · 00:08 · Marea Lunar a 40 m: aleja a Mahito de Nobara. Yuji le cae encima. Nobara lo ve.
 T31 · Jujutsu · 00:09 · Se presenta a Nobara y la manda con Yuji. Resonancia + golpe: Mahito cae. Empieza a transformarse.
 T32 · Jujutsu · 00:09 · Tasa a Mahito: forma final, amenaza muy alta.
+T33 · Jujutsu · 00:12 · Observa: Mahito final supera a Yuji; llega Todo (pierde la mano); Destello Negro; Mahito arma la señal de dominio. Misión de copia: Todo.
