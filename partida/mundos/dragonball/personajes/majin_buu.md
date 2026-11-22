@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T221 · 13:53 · En trance, ojos en blanco, la columna de vapor toma forma sobre la mansión. Ve a Facundo apenas.
 - T220 · 09:40-13:52 · Despierta, vuelve con Mr. Satán. Cura a un cachorro (Bee). 13:40: les disparan a Bee y a Mr. Satán; los cura. Furioso, echando vapor sin parar.
 - T203 · 19:20 · Se duerme sobre la roca de chocolate, roncando.
 - T202 · 18:58 · Facundo le dice que no es malo y le da dos bolsas más. Se calma, lo abraza y le pide a Vegeta que juegue bonito la próxima.

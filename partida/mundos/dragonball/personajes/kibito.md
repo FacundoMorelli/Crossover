@@ -2,6 +2,7 @@ NOMBRE: Kibito
 AFILIACIÓN: asistente de Shin
 FÍSICO: alto, piel roja, pelo blanco largo.
 ENCUENTROS:
+- T221 · 13:53 · Lleva a Facundo a la mansión con Kai Kai.
 - T220 · 13:52 · Aparece en el cañón del norte (Gohan le dijo dónde). Cuenta lo de los disparos y el vapor de Buu. Ofrece llevarlo con Kai Kai.
 - T210 · 00:05 · Se queda vigilando a Buu.
 - T203 · 19:05 · Llega con Shin. Mira a Buu dormido con desconfianza.

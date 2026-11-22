@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T221 · 13:53 · En el jardín, camisa ensangrentada, abrazando a Bee; ve llegar a Facundo.
 - T220 · 13:40 · Le disparan en la mansión; Buu lo cura.
 - T214 · 07:20 · (por TV) Conferencia: dice que domó al monstruo y que lo ayudó 'el muchacho del gato, mi discípulo'.
 - T190 · 14:13 · Le da a Facundo una tarjeta con su número de teléfono de la mansión.

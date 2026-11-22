@@ -219,3 +219,4 @@ T217 · Dragon Ball · 08:07 · Le propone a Vegeta entrenar. Vegeta acepta: 'sa
 T218 · Dragon Ball · 08:09 · Forma Cenit contra Vegeta SSJ2. Primer cruce: lo empuja y le congela el brazo.
 T219 · Dragon Ball · 08:23 · Pelea con Vegeta. Corte en X, Eclipse 50 (parte Eclipse). NIVEL 14. Vegeta: 'mañana a la misma hora'.
 T220 · Dragon Ball · 13:52 · Descansa en el cañón. Kibito: dispararon a Mr. Satán; Buu echa vapor.
+T221 · Dragon Ball · 13:53 · Kai Kai a la mansión de Mr. Satán. El vapor de Buu toma forma.
