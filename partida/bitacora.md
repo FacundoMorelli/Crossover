@@ -39,3 +39,4 @@ T37 · Jujutsu · 00:24 · Marea Lunar frena el hielo de Uraume antes de la losa
 T38 · Jujutsu · 00:25 · Rompe el hielo con Proporción. Kenjaku reconoce la técnica. Uraume le lanza estacas.
 T39 · Jujutsu · 00:26 · Esquiva y corta las estacas de Uraume. Llega Yuki Tsukumo. Misión de copia: Yuki.
 T40 · Jujutsu · 00:41 · Observa detrás de Yuki. Kenjaku libera maldiciones y escapa con Uraume. Yuki le pregunta quién es.
+T41 · Jujutsu · 00:42 · Se presenta a Yuki. Ella le pregunta qué tipo de mujer le gusta.

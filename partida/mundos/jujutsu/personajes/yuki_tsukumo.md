@@ -5,13 +5,15 @@ PODER VISTO POR FACUNDO: Ira Estelar (añade masa virtual a sí misma o a su shi
 EDAD EN ESTE MOMENTO DEL CANON: adulta (treinta y tantos)
 FÍSICO: alta, rubia, pelo largo, cuerpo atlético, chaqueta de motociclista.
 PERSONALIDAD Y FORMA DE HABLAR: desenfadada, directa, segura; pregunta "¿qué tipo de hombre te gusta?" / "¿qué tipo de mujer te gusta?".
-RELACIÓN CON FACUNDO: no se conocen.
+RELACIÓN CON FACUNDO: curiosidad divertida.
 ENCUENTROS:
+- T41 · 00:42 · Facundo le dice su nombre y que todavía no sabe dónde está. Ella se ríe, le dice que es Shibuya, Tokio, y le pregunta qué tipo de mujer le gusta.
 - T40 · 00:26-00:41 · Enfrenta a Kenjaku de palabra y en un choque breve; no logra detener su huida. Al terminar, se da vuelta hacia Facundo.
 - T39 · 00:26 · Cae del cielo sobre el campo congelado, aplasta los pilares de hielo de Uraume entre Facundo y Kenjaku.
 DIÁLOGOS CLAVE:
+- T41: "Shibuya, Tokio. O lo que queda." / "Facundo, ¿qué tipo de mujer te gusta?"
 - T40: "Bueno. Y tú, ¿quién eres?"
 - T39: "Así que tú eres el que anda usando la cara de Geto-kun."
-QUÉ SABE DE FACUNDO: nada (aterrizó cerca de él).
+QUÉ SABE DE FACUNDO: su nombre, que dice no saber dónde está (T41); lo vio pelear con Uraume (T39).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: frente a Kenjaku y Uraume.
