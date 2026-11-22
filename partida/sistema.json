@@ -1,8 +1,8 @@
 {
-  "turno": 157,
+  "turno": 158,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
-  "hora": "09:45",
+  "hora": "10:40",
   "edad": 18,
   "nivel": 8,
   "exp": 17210,
@@ -31,7 +31,7 @@
     "energia": 48,
     "control": 47
   },
-  "energia_actual_pct": 30,
+  "energia_actual_pct": 38,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -315,6 +315,13 @@
       "mision": "Que Gin Ichimaru abra los ojos delante de ti.",
       "dificultad": "ALTA",
       "emitida": "T138"
+    },
+    {
+      "poder": "Poder de Sōsuke Aizen (Kyōka Suigetsu, kidō, todo su poder de Shinigami)",
+      "mundo": "bleach",
+      "mision": "Que Sōsuke Aizen se vaya de la Sociedad de Almas con las manos vacías.",
+      "dificultad": "MUY ALTA",
+      "emitida": "T158"
     }
   ],
   "misiones_de_copia_rechazadas": [],

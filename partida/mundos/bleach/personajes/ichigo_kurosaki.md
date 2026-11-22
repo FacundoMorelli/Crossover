@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T158 · 09:45-10:35 · Pelea contra Byakuya (canon): bankai contra bankai, máscara de hollow un instante; último choque: gana Ichigo.
 - T157 · 09:45 · Cae en el claro entre Byakuya y Facundo, con el bankai: Tensa Zangetsu (espada negra delgada, abrigo negro). Le pide a Facundo que se lleve a Rukia; Byakuya es suyo.
 - T139 · 19/07 · Facundo pasa a su lado y le susurra 'nos vemos adentro'. Ichigo no entiende hasta que la puerta se cierra.
 - T138 · 19/07 · Facundo se cambia con él: aparece junto al grupo, lejos de la puerta.
@@ -33,6 +34,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T158: "Ya está. Se terminó."
 - T157: "Perdón por llegar tarde. ...Facundo. Llévate a Rukia. Este es mío."
 - T139: "¿Adentro? ¿Qué...?"
 - T134: "Voy a traerla de vuelta. ...¿Vienes?"

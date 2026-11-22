@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T158 · 10:38 · Escucha el aviso de Isane: Aizen vivo y traidor. Se aferra al brazo de Facundo.
 - T157 · 09:45 · Le dice a Byakuya que no va a ir.
 - T156 · 09:43 · Facundo aparece a su lado, la carga y salta por el precipicio con ella. Caen en un claro del bosque, al pie de la colina.
 - T153 · 09:41 · Facundo traza un Marco entre el Kikōō y el patíbulo y se cambia de lugar con ella (Boogie Woogie): Rukia aparece atada junto a Kyōraku, entre el 8.º Escuadrón. Facundo queda en el patíbulo detrás del Marco.

@@ -7,6 +7,7 @@ FÍSICO: flaco, pelo plateado, ojos siempre entrecerrados, sonrisa de zorro, hao
 PERSONALIDAD Y FORMA DE HABLAR: burlón, amable de manera inquietante, acento de Kioto.
 RELACIÓN CON FACUNDO: —
 ENCUENTROS:
+- T158 · 10:40 · Llega con Aizen y Tōsen al claro.
 - T154 · 09:42 · Aplaude.
 - T153 · 09:41 · Se ríe al ver a Facundo en el patíbulo.
 - T152 · 29/07 · En la colina, junto a los capitanes. Se burla de Rukia antes de la ejecución (canon). Mira hacia el 8.º Escuadrón y sonríe.
@@ -15,6 +16,7 @@ ENCUENTROS:
 - T137 · 19/07 · Su tajo rápido al brazo de Jidanbō choca contra una línea de Sakaime y rebota. Se ríe, reconoce a Facundo por el informe. Desenvaina y apunta a Ichigo para liberar Shinsō.
 - T136 · 19/07 · Aparece al otro lado de la Puerta Blanca cuando Jidanbō la levanta tras perder con Ichigo. Saluda sonriendo.
 DIÁLOGOS CLAVE:
+- T158: "Hola otra vez, el de la bufanda."
 - T154: "¡Bravo, bravo!"
 - T153: "¡Ja! ¡Lo sabía!"
 - T138: "¡Ja! ¡Te cambiaste! ¡Eso no estaba en el informe!"
