@@ -157,3 +157,4 @@ T155 · Bleach · 09:42 · Boogie Woogie con Yamamoto frente al golpe de Soi Fon
 T156 · Bleach · 09:44 · Boogie con Kyōraku, huye con Rukia por el precipicio. Byakuya los alcanza en el bosque.
 T157 · Bleach · 09:45 · Rukia dice que no. Llega Ichigo con bankai: 'llévate a Rukia, este es mío'.
 T158 · Bleach · 10:40 · Ichigo vence a Byakuya. Aizen revelado. Aizen, Gin y Tōsen aparecen ante Facundo: 'tienes algo que me pertenece'.
+T159 · Bleach · 10:41 · Toca la hoja de Kyōka Suigetsu (inmune). Huye con Rukia; Aizen lo atrapa con Bakudō 61.

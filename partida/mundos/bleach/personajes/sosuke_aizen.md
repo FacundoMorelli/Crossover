@@ -1,16 +1,18 @@
 NOMBRE: Sōsuke Aizen
 AFILIACIÓN: (ex) 5.º Escuadrón — traidor revelado
 RANGO: capitán (renegado)
-PODER VISTO POR FACUNDO: ninguno en acción (Tasación: Kyōka Suigetsu — hipnosis completa; kidō de alto nivel)
+PODER VISTO POR FACUNDO: Kyōka Suigetsu sellada (tocó la hoja); Bakudō 61 Rikujōkōrō (T159)
 EDAD EN ESTE MOMENTO DEL CANON: adulto (siglos)
 FÍSICO: alto, pelo castaño peinado hacia atrás (sin anteojos ahora), haori de capitán, sonrisa suave.
 PERSONALIDAD Y FORMA DE HABLAR: calmo, cortés, superior; todo lo tiene calculado.
 RELACIÓN CON FACUNDO: interés; sospecha que Facundo tiene el Hōgyoku.
 ENCUENTROS:
+- T159 · 10:41 · Facundo aparece a su lado y le pasa el dedo por la hoja de Kyōka Suigetsu cuando Aizen la saca a medias. Aizen se sorprende de verdad por primera vez. Facundo agarra a Rukia y huye; Aizen lo atrapa con Bakudō número 61 (Rikujōkōrō) en el aire.
 - T158 · 29/07 10:40 · Aparece en el claro con Gin y Tōsen tras el aviso de Isane (Central 46 muerta, Aizen vivo). Se dirige a Facundo.
 DIÁLOGOS CLAVE:
+- T159: "...Sabes eso." / "Bakudō número sesenta y uno. Rikujōkōrō." / "No te vas a ir con ella. Ni con lo que tienes."
 - T158: "Encantado. Sōsuke Aizen. Tú debes ser el humano que vació a Rukia Kuchiki antes de que yo llegara."
 - T158: "Tienes algo que me pertenece."
-QUÉ SABE DE FACUNDO: informes de Byakuya, Renji y Gin; que Rukia está vacía; deduce que Urahara sacó el Hōgyoku y que Facundo lo tiene o sabe dónde está.
+QUÉ SABE DE FACUNDO: que conoce el secreto de su espada (tocó la hoja, T159); informes de Byakuya, Renji y Gin; que Rukia está vacía; deduce que Urahara sacó el Hōgyoku y que Facundo lo tiene o sabe dónde está.
 QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco, Boogie Woogie, el tajo al Kikōō).
 ESTADO: frente a Facundo en el claro.

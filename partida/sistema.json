@@ -1,8 +1,8 @@
 {
-  "turno": 158,
+  "turno": 159,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
-  "hora": "10:40",
+  "hora": "10:41",
   "edad": 18,
   "nivel": 8,
   "exp": 17210,
@@ -31,7 +31,7 @@
     "energia": 48,
     "control": 47
   },
-  "energia_actual_pct": 38,
+  "energia_actual_pct": 33,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -630,7 +630,8 @@
         "Los objetos siguen sin venir con la copia."
       ],
       "recordatorio_permanente": "Se copia todo, incluidas las razas y sus transformaciones, sin sus desventajas; los objetos no se copian."
-    }
+    },
+    "inmunidad_kyoka_suigetsu": "T159: Facundo tocó la hoja de Kyōka Suigetsu antes de ver su liberación: es inmune a su hipnosis (regla del canon)."
   },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",

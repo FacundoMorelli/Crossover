@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Aizen · T159 · Facundo sabe que tocar la hoja anula Kyōka Suigetsu. Se sorprende una vez; no investiga cómo lo sabe. Gin y Tōsen lo escucharon.
 - Shunsui Kyōraku · T142 · leyó el informe de Byakuya en la reunión de capitanes; al ver un gato gigante en el hombro de un 'Shinigami' con gorra, deduce que es el humano del informe.
 - Ichigo · T139 · Facundo le susurró 'nos vemos adentro' antes de desaparecer. Nadie lo vio entrar.
 - Gin Ichimaru · T137 · lo reconoce por el informe de Byakuya (aspecto, gato, bufanda cortada). Vio la línea de Sakaime. Informará a Aizen.
