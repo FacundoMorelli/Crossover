@@ -75,6 +75,8 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Nadie sigue la orden de retención; los que la firmaron ya no están: Yuta (T289).
+- El último dedo de Sukuna apareció en Sendai, en la antigua escuela de Yuji: Ijichi (T289).
 - Sukuna, en el cuerpo de Megumi, mató a su hermana Tsumiki; Megumi lo vio desde adentro: Megumi (T285).
 - Megumi no sale de su cuarto desde hace días; Nanami está en la enfermería con Shoko por el brazo: Nobara (T282).
 - La orden de retención de los altos mandos nunca se anuló; con la guerra nadie se acordó: Ijichi (T280).

@@ -19,3 +19,5 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en el dormitorio, alterado.
 - T280 · 17/01/2019 20:48 · Yuji lo llama para que los lleve a la escuela. Llega, ve a Facundo, se pone pálido. Le recuerda que la orden de retención nunca se anuló.
 - DIÁLOGO T280: "¿F-Facundo-san? ¿Usted...?" / "La orden de los altos mandos... nunca se anuló. Nadie la firmó para anularla. Con todo lo que pasó, nadie se acordó."
+- T289 · 23/01 19:30 · Entra al comedor: el último dedo de Sukuna apareció en Sendai, en la antigua escuela de Yuji. Misión para Yuji, Megumi y Nobara.
+- DIÁLOGO T289: "Encontraron... el último dedo. En Sendai. En el almacén de su antigua secundaria, Itadori-kun."

@@ -90,3 +90,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T287 · 22:40 · Espía desde la puerta del cuarto de Megumi: lo ve comiendo.
 - T288 · 22:45 · Entra, se sienta en el piso. Propone ramen mañana los cuatro.
 - DIÁLOGO T288: "Mañana. Ramen. Los cuatro. En la ciudad. Yo invito."
+- T289 · 18-23/01 · Ramen (invita). Entrena con Facundo cada mañana. 23/01: noticia del último dedo en su antigua escuela; mira a Facundo.

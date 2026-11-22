@@ -21,3 +21,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que lo protege a Yuji y sabe que fue alumno de Gojo (T82); el decreto de los altos mandos (descripción, retener); lo vio congelar a Naoya desde el aire.
 QUÉ PODERES DE FACUNDO VIO: Marea Lunar + Escarcha Lunar sobre Naoya (T81).
 ESTADO: en la azotea. (Canon: tiene un pacto con Gojo; fingirá la ejecución.)
+- T289 · 21/01 · Vuelve de una misión. Lo saluda con alivio; le dice que nadie sigue la orden.
+- DIÁLOGO T289: "Me alegra verte. Nadie te va a buscar, tranquilo. Los que firmaron esa orden ya no están."

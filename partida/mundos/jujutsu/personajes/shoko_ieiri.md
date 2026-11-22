@@ -20,3 +20,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio llegar cargando a Nanami (T45). Vio el daño de sus ojos: uno quemado por dentro, otro congelado por dentro (T52). Deduce que su técnica le cobra en los ojos.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: atendiendo heridos en el puesto de mando.
+- T289 · 18/01 · Facundo la ve en la enfermería. Fuma en la ventana.
+- DIÁLOGO T289: "Tus ojos están mejor que la última vez. Raro."

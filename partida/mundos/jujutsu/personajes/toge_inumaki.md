@@ -16,3 +16,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su nombre (T60).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: brazo izquierdo vendado; vivo.
+- T289 · 19/01 · Lo saluda. "¡Salmón!"

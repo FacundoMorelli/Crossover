@@ -287,3 +287,4 @@ T285 · Jujutsu · 22:20 · Silencio con Megumi. Kase a su lado. Megumi habla de
 T286 · Jujutsu · 22:25 · Le habla a Megumi del futuro. Megumi pregunta por el curry.
 T287 · Jujutsu · 22:40 · Come con Megumi en el piso. Yuji y Nobara espían.
 T288 · Jujutsu · 22:45 · Yuji y Nobara entran. Yuji propone ramen mañana los cuatro.
+T289 · Jujutsu · 23/01 19:30 · Simula: ramen, Nanami, entrenamientos; Megumi mejora. El último dedo de Sukuna en Sendai.

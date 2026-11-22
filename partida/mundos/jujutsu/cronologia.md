@@ -67,3 +67,7 @@
 - Diciembre: Yuki muere contra Kenjaku; Tengen capturado. Sukuna toma el cuerpo de Megumi y mata a Yorozu (Tsumiki). (canon)
 - 24/12/2018 · Batalla de Shinjuku. Gojo liberado; muere contra Sukuna. Kashimo muere. Yuta mata a Kenjaku. Choso muere protegiendo a Yuji. CAMBIO: Nanami pelea y pierde el brazo izquierdo; vive. CAMBIO: Nobara pelea desde el principio y usa la Resonancia en el momento clave. Sukuna separado de Megumi y muerto. Uraume muere. (canon con cambios)
 - Enero 2019: reorganización del mundo de la hechicería. Shinjuku, zona de exclusión en reconstrucción. La orden de retención contra Facundo nunca se anuló, pero nadie la sigue.
+
+## DESPUÉS DE VOLVER
+- 18-23/01/2019 · (T289) Ramen los cuatro. Facundo visita a Nanami. Entrenan cada mañana. Megumi mejora.
+- 23/01/2019 · Aparece el último dedo de Sukuna en la antigua secundaria de Yuji en Sendai (canon: epílogo). Misión para Yuji, Megumi y Nobara.
