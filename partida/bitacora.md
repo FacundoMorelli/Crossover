@@ -272,3 +272,4 @@ T270 · Dragon Ball · 13:43 · Truco de Bee. Acepta la cena a las 20:00 en la m
 T271 · Dragon Ball · 20:15 · Cena en la mansión. Satán le propone ser su discípulo oficial. Videl: no.
 T272 · Dragon Ball · 20:18 · Rechaza ser discípulo oficial: se va y puede tardar meses. Buu triste.
 T273 · Dragon Ball · 20:40 · A Buu: 'muchos dulces, pero prometí volver'. Videl pide hablar en el balcón.
+T274 · Dragon Ball · 20:42 · Videl en el balcón: le pide que la entrene.
