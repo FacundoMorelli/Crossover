@@ -245,3 +245,4 @@ T243 · Dragon Ball · 08:18 · Pregunta por la Habitación del Tiempo. Vegeta e
 T244 · Dragon Ball · 09:20 · Templo Sagrado con Vegeta. Dende los cura. Popo: ¿cuánto tiempo? ¿y el gato?
 T245 · Dragon Ball · 09:25 · Entra un día a la Habitación del Tiempo con Vegeta. Kase con Dende.
 T246 · Dragon Ball · día 4 09:25 · Un año en la Habitación con Vegeta. TODAS LAS MAESTRÍAS A 100. NIVEL 22.
+T247 · Dragon Ball · 09:27 · Kase al hombro. Vegeta pide una última pelea antes de que se vaya.
