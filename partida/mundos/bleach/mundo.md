@@ -18,3 +18,4 @@ DON DE MUNDO: Zanpakutō Sakaime (ver sistema.json).
 - Pasaron 24 días. Orihime secuestrada (17/09). Ichigo, Uryū y Chad por partir a Hueco Mundo esta noche desde la tienda de Urahara. Aizen sin Hōgyoku: Arrancar imperfectos. Facundo no sabe nada de esto hasta enterarse.
 - T319 · Aizen pierde el brazo izquierdo: se lo corta él mismo para frenar la petrificación de Facundo (poder de Dabura). El brazo de piedra queda en la sala del trono.
 - T320 · Facundo petrifica a Aizen en la sala del trono de Las Noches (poder de Dabura). Aizen queda como estatua viva. Cambio total del canon: no hay invasión a Karakura falsa como en el canon (por ahora).
+- T337 · Barragan petrificado en la cúpula de Las Noches (saliva de Dabura). T338 · Facundo deja Hueco Mundo "a cargo" de Ulquiorra, que lo acepta a su manera. Starrk y Harribel no se movieron.

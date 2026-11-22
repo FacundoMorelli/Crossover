@@ -26,3 +26,5 @@ ESTADO: abriendo una Garganta, con Yammy al hombro.
 - DIÁLOGO T325: "La orden era proteger Las Noches. No dijo nada de proteger su cuerpo." / "Vete. Antes de que encuentre una razón para no dejarte."
 ESTADO: a cargo de Las Noches.
 - T337 · Deja de sentir el reiatsu de Barragan y sube a la cúpula. Ve a Barragan de piedra y a Ggio y Nirgge inconscientes. No escuchó lo que dijo Facundo de él.
+- T338 · Facundo le pide que cuide Hueco Mundo. Responde que aquí manda el más fuerte y que no necesita que se lo pidan; Starrk y Harribel no le obedecerán, y eso es asunto suyo. Echa a la Fracción de Barragan.
+- DIÁLOGO T338: "En Hueco Mundo no se cuida nada. Se ocupa. Y el que ocupa, manda." / "Váyanse. Esto ya no les sirve de nada."
