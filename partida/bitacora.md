@@ -265,3 +265,4 @@ T263 · Dragon Ball · 12:45 · A Roshi: 'proteger a la gente que quiero y segui
 T264 · Dragon Ball · 12:47 · Marron acaricia a Kase. La 18 pregunta cuándo se va.
 T265 · Dragon Ball · 12:48 · A la 18: 'en unos días'. Le pide que pase a despedirse.
 T266 · Dragon Ball · 13:15 · Torre de Karin. Karin y Kase se miran. ¿A qué viniste?
+T267 · Dragon Ball · 13:17 · 'Vine a conocerte.' Karin propone la prueba del jarrón.
