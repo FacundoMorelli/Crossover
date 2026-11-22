@@ -1,5 +1,5 @@
 {
-  "turno": 13,
+  "turno": 14,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
   "hora": "23:48",
@@ -26,9 +26,9 @@
     "energia": 32,
     "control": 31
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 88,
   "eclipse": {
-    "maestria": 30,
+    "maestria": 31,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "bien",
+  "ojos": "ojo rojo ardiendo, una lágrima de sangre",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -95,6 +95,13 @@
       "mision": "Que Kento Nanami te diga, con sus palabras, que hiciste un buen trabajo.",
       "dificultad": "MEDIA",
       "emitida": "T9"
+    },
+    {
+      "poder": "Transfiguración Ociosa — Mahito",
+      "mundo": "jujutsu",
+      "mision": "Que Mahito sienta miedo de ti.",
+      "dificultad": "ALTA",
+      "emitida": "T14"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -252,7 +259,23 @@
     },
     "ultimo_hito_de_catalogo": 0
   },
-  "reglas_ampliadas": {},
+  "reglas_ampliadas": {
+    "razas_se_copian": {
+      "reemplaza": "Sección 8, 'Las razas no se copian'",
+      "desde_turno": 14,
+      "reglas": [
+        "La copia incluye poderes y transformaciones raciales: Super Saiyajin y todas sus formas, Ozaru, regeneración namekiana, kagunes (con su kakuhou), hollowficación y formas de Hollow y Arrancar, alas, transformaciones de demonios y cualquier poder racial de cualquier mundo.",
+        "Se copian igual que todo: ver el poder en persona, cumplir la misión de copia, recibirlo entero con dominio total; funciona en todos los mundos.",
+        "Facundo no cambia de raza. El Sistema da el poder, no el cuerpo. Su físico normal no cambia; los rasgos de la transformación (pelo dorado, kagune, alas, máscara) aparecen solo mientras la usa.",
+        "Sin las desventajas de la raza: la cola saiyajin no lo debilita, el kagune no lo obliga a comer carne humana ni lo debilita con comida normal, la hollowficación no le hace perder el control; nada trae maldiciones, hambre, locura ni dependencias.",
+        "Las transformaciones con etapas (formas del Super Saiyajin, kakuja) se copian enteras aunque haya visto solo una.",
+        "Lo que se ve, se ve: si se transforma delante de alguien, lo vio; cada mundo lo interpreta a su manera. Se registra en conocimiento.md.",
+        "Se fusiona con todo como cualquier copia.",
+        "Los objetos siguen sin venir con la copia."
+      ],
+      "recordatorio_permanente": "Se copia todo, incluidas las razas y sus transformaciones, sin sus desventajas; los objetos no se copian."
+    }
+  },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",
     "momento_del_canon": "Incidente de Shibuya, cap. ~116: Megumi acaba de invocar a Mahoraga contra Shigemo; Sukuna (15 dedos, en Yuji) se acerca. Faltan minutos para el Santuario Malévolo (radio ~200 m). Después: Sukuna devuelve el control, Mahito mata a Nanami (cap. ~120), cae Nobara, Todo, Kenjaku absorbe a Mahito.",

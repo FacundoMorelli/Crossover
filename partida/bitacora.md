@@ -12,3 +12,4 @@ T10 · Jujutsu · 23:45 · Salta al hall y corta al transfigurado grande antes d
 T11 · Jujutsu · 23:46 · Se presenta a Nanami (lo manda Yuji). Corta a cinco transfigurados (+150 EXP, +5 F). Nanami pregunta por Itadori.
 T12 · Jujutsu · 23:47 · Confirma a Nanami que era Yuji y que Megumi vive. Nanami quiere ir al centro; casi cae. Kase mira el túnel.
 T13 · Jujutsu · 23:48 · Tasa el túnel. Mahito sale a la luz; había mirado todo. Amenaza alta. Nanami en guardia.
+T14 · Jujutsu · 23:48 · Destello Solar a Mahito y corte con Rift: lo parte, se recompone. Contraataque. Misión de copia: Transfiguración Ociosa. Regla ampliada: las razas se copian.

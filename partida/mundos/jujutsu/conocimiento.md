@@ -12,6 +12,8 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Mahito · T14 · recibió el Destello Solar de frente (luz cegadora que sale del ojo rojo de Facundo) y el corte de Rift. Lo interpreta como técnica maldita de luz y fuego ligada al ojo.
+- Kento Nanami · T14 · vio el fogonazo reflejado (de espaldas a Facundo, no quedó ciego) y el corte que partió a Mahito. Notó que salió de los ojos de Facundo.
 - Mahito · T11-T13 · vio desde el túnel a Facundo cortar a seis transfigurados con dos espadas (fuego y hielo). Escuchó el nombre "Facundo" y que viene de parte de Itadori.
 - Kento Nanami · T10 · vio a Facundo saltar desde la boca del subte y cortar a un transfigurado grande con dos espadas: una deja el corte quemado, la otra lo congela. Lo interpreta como herramientas malditas o técnica de elemento.
 - Yuji Itadori · T8 · vio a Facundo tocar a Megumi y dejarle un número romano (I) brillante en el pecho. Lo interpreta como una técnica maldita. No sabe qué hace.
