@@ -15,3 +15,5 @@
 - Nami y Zoro · T355 · Lo ven entrar a Arlong Park. No saben nada de él.
 ## QUIÉN VIO QUÉ PODERES
 - Arlong, oficiales, ~30 gyojin, Nami, Zoro · T356 · Vieron a Facundo sacar una "semilla" del sobretodo y a Zoro curarse entero al comerla. Lo explican como una medicina o fruta rara.
+- Arlong, oficiales, gyojin, Nami, Zoro · T357 · Vieron a Facundo controlar el agua de mar de la piscina. Lo explican como una Fruta del Diablo (correcto para este mundo). Arlong deduce que no sabe nadar (falso, pero es lo que cree).
+- Usopp (afuera) · T357 · Oyó los golpes de agua y los gritos; no vio nada.

@@ -1,13 +1,13 @@
 {
-  "turno": 356,
+  "turno": 357,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 1 (Islas Conomi)",
-  "hora": "15:15",
+  "hora": "15:16",
   "edad": 18,
   "nivel": 24,
-  "exp": 167310,
+  "exp": 167390,
   "exp_siguiente_nivel": 176000,
-  "fragmentos": 173697,
+  "fragmentos": 173705,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -41,7 +41,7 @@
     "energia": 236,
     "control": 235
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -166,7 +166,7 @@
     "onepiece": {
       "nombre": "Shio Shio no Mi (Fruta Marea Marea)",
       "tipo": "Fruta del Diablo, Paramecia (Don de Mundo)",
-      "maestria": 30,
+      "maestria": 31,
       "reglas": [
         "Controla el agua de mar: corrientes, olas, remolinos, mareas. Puede pararse y caminar sobre el mar y moverse bajo el agua como en tierra.",
         "Alcance en maestría 30: unos 300 m alrededor; olas de hasta 10 m. Crece con la maestría (+alcance, +volumen, +fuerza).",
@@ -790,6 +790,13 @@
       "fragmentos": 1000,
       "exp": 8000,
       "nota": "Escala élite (65-90); no pagó doble. Su Senescencia no deshace la piedra."
+    },
+    {
+      "mundo": "onepiece",
+      "quien": "8 gyojin menores de Arlong (aplastados por agua de mar a presión; inconscientes)",
+      "turno": 357,
+      "fragmentos": 8,
+      "exp": 80
     }
   ],
   "viaje": {
