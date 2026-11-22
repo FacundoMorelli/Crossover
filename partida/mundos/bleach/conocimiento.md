@@ -12,7 +12,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUIÉN VIO QUÉ PODERES
 - Byakuya, Renji, Ichigo, Rukia · T132 · Marea Lunar (gravedad aplastante desde el ojo azul de Facundo).
-- Byakuya, Renji, Ichigo, Rukia · T131 · vieron a Facundo moverse con pasos de luz azul (Hirenkyaku): Rukia y Byakuya lo reconocen como técnica Quincy.
+- Byakuya, Renji, Ichigo, Rukia · T131 · vieron a Facundo moverse muy rápido con Rukia en brazos (velocidad física, sin técnica). [Corregido T134: no mostró nada Quincy.]
 - Byakuya, Renji, Ichigo, Rukia · T127 · vieron el asfalto hundirse bajo los pies de Facundo cuando cargó a Sakaime (no saben qué es).
 - Byakuya, Renji, Ichigo, Rukia · T126 · Boogie Woogie (Facundo cambió de lugar a Byakuya e Ichigo con una palmada).
 - Byakuya, Renji, Rukia · T123 · Destello Solar (luz cegadora del ojo rojo de Facundo).
@@ -29,7 +29,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
-- Byakuya y Renji → Sociedad de Almas (Central 46, 6.º Escuadrón; desde 08/07): un humano llamado Facundo, sin reiatsu perceptible, con zanpakutō propia (líneas-frontera), luz cegadora del ojo, gravedad, cambio de lugar, pasos Quincy, una fuerza de peso imposible. Le cortó la bufanda al capitán Kuchiki. (Llegará a Aizen.)
+- Byakuya y Renji → Sociedad de Almas (Central 46, 6.º Escuadrón; desde 08/07): un humano llamado Facundo, sin reiatsu perceptible, con zanpakutō propia (líneas-frontera), luz cegadora del ojo, gravedad, cambio de lugar, mucha velocidad, una fuerza de peso imposible. Le cortó la bufanda al capitán Kuchiki. (Llegará a Aizen.)
 - Urahara → Rukia (T111): el Hōgyoku, el gigai, el plan; que Facundo tiene un lugar donde nada se encuentra y se ofreció a guardarlo.
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 

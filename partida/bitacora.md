@@ -132,3 +132,4 @@ T130 · Bleach · 23:22 · Recinto (Marco en el suelo) alrededor de él y Rukia.
 T131 · Bleach · 23:22 · Sale del Recinto con Rukia en brazos a un techo. Ichigo cae herido por un Byakurai.
 T132 · Bleach · 23:23 · Marea Lunar: aplasta los pétalos, a Renji y pone de rodillas a Byakuya, que se levanta igual.
 T133 · Bleach · 08/07 00:14 · Se desmaya. Rukia se entrega a cambio de sus vidas; se la llevan. Byakuya corta los poderes de Ichigo. Urahara despierta a Facundo.
+T134 · Bleach · 18/07 21:30 · Corrección: no mostró Quincy. Simula 10 días: Ichigo recupera poderes; entrenamientos (+400 EXP, +5 F). Senkaimon abierta.

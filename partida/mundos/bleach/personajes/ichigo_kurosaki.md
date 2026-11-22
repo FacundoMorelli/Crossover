@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T134 · 08-18/07 · Entrenamiento de Urahara: Ururu, corte de la Cadena del Destino, Pozo Destrozado; recupera poderes propios, máscara de hollow parcial; obtiene Zangetsu en shikai (canon). 18/07 21:30, frente a la Senkaimon, listo para ir.
 - T133 · 07/07 23:24 · Byakuya le corta los puntos de poder: pierde los poderes de Shinigami (canon). Queda tirado en la lluvia. Urahara lo recoge.
 - T131 · 23:22 · Ataca a Byakuya por la espalda mientras los pétalos caen. Recibe un Byakurai en el hombro; cae en la calle, herido, consciente.
 - T126 · 23:21 · Aparece de golpe a tres metros de Facundo, donde estaba Byakuya. No entiende nada.
@@ -27,6 +28,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T134: "Voy a traerla de vuelta. ...¿Vienes?"
 - T133: "Ru... kia..."
 - T131: "¡Ngh...! ¡Todavía no termino!"
 - T126: "¿Eh? ¿Qué...? ¡¿Cómo llegué acá?!"
@@ -45,4 +47,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: su nombre y que dice no saber dónde está (T90); lo vio en el hall desde la puerta: saltó, cortó al espíritu a medio volverse hollow, lo mandó a la Sociedad de Almas (T88). Aspecto, gato, katana.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
-ESTADO: sin poderes de Shinigami (puntos cortados); herido en el hombro; en la tienda de Urahara.
+ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir a la Sociedad de Almas.

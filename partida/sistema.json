@@ -1,13 +1,13 @@
 {
-  "turno": 133,
+  "turno": 134,
   "mundo_actual": "bleach",
-  "fecha_local": "8 de julio (año del canon, ~2001)",
-  "hora": "00:14",
+  "fecha_local": "18 de julio (año del canon, ~2001)",
+  "hora": "21:30",
   "edad": 18,
   "nivel": 7,
-  "exp": 15810,
+  "exp": 16210,
   "exp_siguiente_nivel": 17000,
-  "fragmentos": 890,
+  "fragmentos": 895,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 38,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -45,7 +45,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo arde leve; ojo azul nublado",
+  "ojos": "bien",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 43,
+      "maestria": 45,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -284,6 +284,13 @@
       "mision": "Que Byakuya Kuchiki envaine su espada frente a ti por decisión propia.",
       "dificultad": "MUY ALTA",
       "emitida": "T128"
+    },
+    {
+      "poder": "Poder de Kisuke Urahara (Benihime, kidō, todo lo que sabe hacer en combate)",
+      "mundo": "bleach",
+      "mision": "Que Kisuke Urahara te cuente, sin que se lo pidas, por qué se fue de la Sociedad de Almas.",
+      "dificultad": "ALTA",
+      "emitida": "T134"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -472,6 +479,13 @@
       "turno": 120,
       "fragmentos": 3,
       "exp": 200
+    },
+    {
+      "mundo": "bleach",
+      "quien": "entrenamientos con Yoruichi y Urahara, hollows menores (08-18/07)",
+      "turno": 134,
+      "fragmentos": 5,
+      "exp": 400
     }
   ],
   "viaje": {
@@ -500,7 +514,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 14
+        "dias_transcurridos": 25
       }
     },
     "puerta_abierta": true,
@@ -515,7 +529,9 @@
       }
     }
   },
-  "apodos": {},
+  "apodos": {
+    "bleach": "Bicolor (Yoruichi y Urahara; 'el señor Bicolor')"
+  },
   "tienda": {
     "catalogo_permanente": {
       "basica": {
@@ -605,6 +621,6 @@
     "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55).",
     "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá.",
     "uryu": "Uryū observa a Ichigo y a Facundo. Su desafío con el señuelo (cap. 34) se correrá a principios de julio. Ve en Facundo un misterio.",
-    "sociedad_de_almas": "Rukia arrestada el 07/07 23:25 y llevada a la Sociedad de Almas (canon). Byakuya informará a la Central 46 (controlada por Aizen en secreto) sobre 'un humano sin reiatsu perceptible con zanpakutō propia, técnicas de luz, gravedad, cambio de lugar y Quincy'. Aizen, al examinar a Rukia en prisión, descubrirá en días que el Hōgyoku ya no está en ella: deducirá que Urahara lo sacó, y sospechará del humano. La ejecución se fija igual (Aizen la quiere para cubrir sus pasos o la cancela: decidir según lo que pase). Ichigo perdió sus poderes (Byakuya cortó Hakusui y Saketsu, canon). Urahara lo reentrenará (10 días)."
+    "sociedad_de_almas": "Rukia arrestada el 07/07 23:25 y llevada a la Sociedad de Almas (canon). Byakuya informará a la Central 46 (controlada por Aizen en secreto) sobre 'un humano sin reiatsu perceptible con zanpakutō propia, técnicas de luz, gravedad, cambio de lugar y mucha velocidad'. Aizen, al examinar a Rukia en prisión, descubrirá en días que el Hōgyoku ya no está en ella: deducirá que Urahara lo sacó, y sospechará del humano. La ejecución se fija igual (Aizen la quiere para cubrir sus pasos o la cancela: decidir según lo que pase). Ichigo perdió sus poderes (Byakuya cortó Hakusui y Saketsu, canon). Urahara lo reentrenará (10 días). 10-15/07: Aizen confirma que Rukia está vacía; la ejecución se mantiene en el Sōkyoku (fecha: en ~25 días de la Sociedad de Almas) porque Aizen quiere ver si el Hōgyoku 'vuelve' o si alguien viene a rescatarla con él. Manda a Gin a averiguar sobre el humano."
   }
 }

@@ -7,6 +7,8 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T134 · 18/07 · (informado por Urahara) Condenada a muerte en el Sōkyoku. Fecha fijada.
+- T134 · 08/07 00:15 · Facundo ve el conejo que le dibujó en el vidrio.
 - T133 · 07/07 23:23-23:30 · Facundo le pide perdón y se desmaya en el techo. Ella baja a la calle y se entrega a Byakuya a cambio de que no maten a Ichigo ni a Facundo. Byakuya acepta. Se va con ellos por una Senkaimon. Antes de irse, le deja a Facundo (inconsciente) un dibujo de conejo hecho con su dedo en el vidrio empañado de una ventana.
 - T131 · 23:22 · Facundo la levanta en brazos y salta fuera del Recinto (las paredes lo dejan pasar) hasta un techo a 30 m. Los pétalos caen dentro de la caja vacía.
 - T130 · 23:22 · Queda encerrada con Facundo en el Recinto.

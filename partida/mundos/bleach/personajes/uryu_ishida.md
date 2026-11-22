@@ -7,6 +7,7 @@ FÍSICO: flaco, anteojos, pelo negro con flequillo, uniforme impecable; cruz Qui
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, frío, analítico; odia a los Shinigami.
 RELACIÓN CON FACUNDO: rival respetado a regañadientes.
 ENCUENTROS:
+- T134 · 08-18/07 · Entrena solo con el Guante Sanrei. Se presenta en la tienda el 18/07 para ir a la Sociedad de Almas.
 - T120 · 07/07 23:10 · Intercede por Rukia contra Renji. Pierde: herido en el pecho por Zabimaru, en el suelo.
 - T119 · 19:56-19:57 · Absorbe el reiatsu desbordado de Ichigo y lo dispara en una flecha gigante que raja la máscara del Menos. Le quedan las manos quemadas.
 - T118 · 19:55 · Ve el Cero deshacerse contra las líneas de Facundo.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T113 · 26-28/06 · Observa los entrenamientos desde el puente dos veces más.
 - T110 · 25/06 ~17:30 · Facundo ve a alguien con anteojos mirando el entrenamiento desde el puente. Se va cuando lo miran.
 DIÁLOGOS CLAVE:
+- T134: "No voy por Kuchiki-san. Voy porque un Quincy no le debe nada a nadie."
 - T119: "¡Suéltalo hacia mí, Kurosaki! ¡Yo lo apunto!"
 - T116: "...Ciento doce. No sé cómo, pero me ganaste." / "Eso no es un hollow común."
 - T115: "Ishida Uryū. Soy Quincy. Y odio a los Shinigami." / "Tú, el de la tele, también estás invitado. No sé qué eres, pero tienes una zanpakutō."
