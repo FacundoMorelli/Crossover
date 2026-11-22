@@ -397,3 +397,4 @@ T395 · One Piece · Going Merry · Promesa a Laboon, Log Pose, Mr. 9 y Miss Wed
 T396 · One Piece · Going Merry · "Ajá." Mr. 9 promete fiesta en Whisky Peak para los famosos.
 T397 · One Piece · Going Merry · Avisa que se va y que vuelve. La tripulación lo despide.
 T398 · Shingeki · Shiganshina · Se va del Going Merry. Nuevo mundo: Shingeki (Regreso a Shiganshina). Don: Titán de Ceniza. Misión: Erwin vivo al sótano.
+T399 · Shingeki · Shiganshina · Grita "¿Dónde estoy?". La escuadra de Hange lo ve y sospecha. Bertholdt salta para transformarse.
