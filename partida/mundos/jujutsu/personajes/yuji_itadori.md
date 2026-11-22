@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T70 · 11:30 · Le cuenta todo a Megumi. Discuten quién tiene la culpa.
 - T68 · 08:10-11:22 · Espera con Facundo. Megumi despierta; Yuji se lo presenta.
 - T67 · 08:09 · Festeja que Facundo entra a la escuela. Le cuenta que una camioneta lleva a los que pueden moverse a la escuela al mediodía; él quiere quedarse hasta que despierte Megumi.
 - T59 · 06:10 · Desayunan onigiris en el puesto. Llega Inumaki herido; Yuji se alivia de verlo vivo.
@@ -37,6 +38,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T70: "¡No! ¡Fue Sukuna! ¡Fue mi cuerpo!"
 - T67: "¡Ahora somos compañeros!" / "Yo me quedo hasta que Fushiguro despierte. ¿Tú?"
 - T57: "¡Facundo! Hablé con el director. Viene a las ocho. Quiere conocerte." / "Este es Choso. Dice que es mi hermano. Es... complicado."
 - T51: "Yo hablo con el director. Le salvaste la vida a Nanamin, no te va a decir que no."
