@@ -323,3 +323,4 @@ T321 · Bleach · Las Noches · Habla con Gin (su motivo). Tōsen libera el Bank
 T322 · Bleach · Las Noches · '¿Por qué, Tōsen?' Deshace el Bankai y cuenta su historia. '¿Qué justicia sigues?'
 T323 · Bleach · Las Noches · 'Se metieron con mis amigos.' Tōsen se rinde: pide ir ante Komamura.
 T324 · Bleach · Las Noches · Carga la estatua de Aizen; Gin y Tōsen lo siguen. Ulquiorra en el pasillo.
+T325 · Bleach · Las Noches · Ulquiorra queda a cargo de Las Noches. Cúpula: todos ven a Aizen de piedra.

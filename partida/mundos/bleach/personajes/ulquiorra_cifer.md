@@ -22,3 +22,6 @@ ESTADO: abriendo una Garganta, con Yammy al hombro.
 - T316 · Escolta a Facundo a la sala del trono.
 - T324 · En el pasillo afuera de la sala del trono. Ve a Aizen petrificado al hombro de Facundo. Inmóvil. Dice sus órdenes.
 - DIÁLOGO T324: "...Aizen-sama." / "Aizen-sama me ordenó una sola cosa para el caso de que algo así ocurriera: proteger Las Noches." / "No entiendo qué es el corazón. Pero entiendo una orden."
+- T325 · Facundo le encarga cuidar Las Noches. Se hace a un lado: su orden era Las Noches, no Aizen.
+- DIÁLOGO T325: "La orden era proteger Las Noches. No dijo nada de proteger su cuerpo." / "Vete. Antes de que encuentre una razón para no dejarte."
+ESTADO: a cargo de Las Noches.

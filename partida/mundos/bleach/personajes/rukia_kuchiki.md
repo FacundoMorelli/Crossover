@@ -102,3 +102,4 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - T308 · Facundo se pone delante de ella y se transforma (Ultra Instinto). Recibe a Nel.
 - T316 · Protesta porque Facundo va solo con Ulquiorra; se queda con los demás.
 - DIÁLOGO T316: "¡Es una trampa, idiota! ...Vuelve."
+- T325 · Ve la estatua de Aizen. Se queda boquiabierta.

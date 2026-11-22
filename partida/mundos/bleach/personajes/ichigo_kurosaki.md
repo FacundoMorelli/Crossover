@@ -74,3 +74,5 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - DIÁLOGO T302: "Cinco pasillos. Nos separamos. El que encuentre a Inoue, la saca."
 - T314 · En la cúpula, Ulquiorra le atraviesa el pecho (canon). Su reiatsu casi se apaga.
 - T315 · Orihime lo cura sobre la cúpula. Casi muerto.
+- T325 · Curado por Orihime. Ve a Facundo con Aizen de piedra y a Gin y Tōsen. En guardia.
+- DIÁLOGO T325: "¡¿Qué hacen ESOS aquí?!" / "...¿Eso es Aizen?"

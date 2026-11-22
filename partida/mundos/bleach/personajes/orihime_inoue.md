@@ -14,3 +14,4 @@ ESTADO: rescatada por Urahara.
 - DIÁLOGO T313: "¿Facundo-kun...? ¿Kuchiki-san? ¿Sado-kun?" / "¿Y Kurosaki-kun? ¿Está bien?" / "No debieron venir... Aizen-sama dijo que tú vendrías. Que te estaba esperando. Que yo era... la invitación."
 - T314 · Se cura la mejilla con Sōten Kisshun. Siente caer a Ichigo. Grita.
 - DIÁLOGO T314: "Sí... gracias." / "¡KUROSAKI-KUN!"
+- T325 · Terminó de curar a Ichigo. Ve la estatua.

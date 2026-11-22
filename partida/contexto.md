@@ -1,17 +1,17 @@
-TURNO: 324 | MUNDO: Bleach | 20/09 (Karakura) · noche eterna | Lugar: Las Noches, pasillo afuera de la sala del trono
+TURNO: 325 | MUNDO: Bleach | 20/09 (Karakura) · noche eterna | Lugar: Las Noches, sobre la cúpula
 MOMENTO DEL CANON: Arco Arrancar, víspera de Hueco Mundo. Facundo NO lo sabe todavía: Orihime secuestrada el 17/09; Ichigo, Uryū y Chad están por cruzar a Hueco Mundo desde la tienda de Urahara esta noche. Ver SECRETO.bleach_mientras_no_estaba y mundos/bleach/cronologia.md.
 FACUNDO: 18 años · Nivel 23 · EXP 156.910/160.000 · 172.517 Fragmentos · 115 puntos sin asignar · 0 yenes · Energía 88% · ULTRA INSTINTO DOMINADO · base · Ojos: bien · STATS ~234 · Maestrías 100 · Semillas 0
 PARA ESTE MUNDO: 'el Ryoka del Sōkyoku'; colaborador bajo observación del Gotei; Aizen quiere el Hōgyoku (lo tiene Facundo en el inventario); Ulquiorra sabe quién es. Velo: muestra reiatsu bajo.
 QUIÉN SABE QUÉ: ver mundos/bleach/conocimiento.md. Nadie sabe que viene de otro mundo.
 MISIÓN DE MUNDO: Bleach cumplida (T171). Viaje libre.
 ÚLTIMOS 5 TURNOS:
+- T325: le dice a Ulquiorra que se encargue de que no pase nada malo aquí, es su lugar; él va con los demás. Ulquiorra lo piensa: su orden era proteger Las Noches, no a Aizen-sama. Se hace a un lado. Suben a la cúpula: Ichigo ya curado, sentado, con Orihime al lado; Rukia, Chad, Nel. Todos ven a Facundo con Aizen de piedra al hombro, Gin y Tōsen detrás. Ichigo se pone de pie de un salto, Zangetsu en la mano: "¡¿Qué hacen ESOS aquí?!"
 - T324: les dice a Gin y Tōsen que vengan; carga la estatua de Aizen al hombro con cuidado (si se rompe, Aizen muere; no entra al inventario por estar vivo). Kase al otro hombro. Tōsen recoge su espada y la envaina; Gin camina con las manos en las mangas. Afuera de la puerta, en el pasillo, los espera Ulquiorra. Ve la estatua. Se queda inmóvil. Después dice que Aizen-sama le ordenó, si algo así pasaba, proteger Las Noches.
 - T323: le contesta a Tōsen: se metieron con sus amigos; no es quién para decir qué está bien o mal, pero sabe cuándo algo es malo para sus amigos, y Aizen lo era. "¿Qué quieres que hagamos?" Tōsen se queda callado, deja caer la espada. Se arrodilla. Pide que lo lleven ante Komamura, su amigo, el capitán del 7.º: que él lo juzgue.
 - T322: le pregunta a Tōsen por qué hace esto. Tōsen lo oye (el Bankai no lo afecta a él); se detiene. Deshace la cúpula: quiere que Facundo lo escuche. Cuenta lo de su amiga, una shinigami asesinada por su esposo, también shinigami, al que nadie castigó; la justicia de la Sociedad de Almas está podrida; Aizen era el camino sin sangre para cambiarla. Llora. Pregunta: "¿Y tú? ¿Qué justicia sigues?"
 - T321: le dice a Gin que ya tiene lo que siempre quiso, que él siempre lo supo, pero que el Seireitei no sabe nada y duda que lo perdonen; que Tōsen es otra cosa. Gin se sorprende una vez ("¿Cómo...?"), lo deja pasar; se le borra la sonrisa: pide que no se lo digan a Rangiku. Tōsen, ciego de furia, libera el Bankai: "Suzumushi Tsuishiki: Enma Kōrogi" — una cúpula negra se cierra alrededor de él y de Facundo.
 - T320: le dice a Aizen que estuvo de viaje, perdón, pero lo mejor es que quede petrificado. Aparece detrás de él y le escupe en la nuca. Aizen intenta un kidō, no llega: la piedra lo cubre entero en tres segundos, con media sonrisa congelada. Estatua viva en la sala del trono. +1.000 F, +10.000 EXP. Tōsen grita y desenvaina, furioso. Gin no se mueve: mira la estatua, abre los ojos y se ríe muy bajito.
-- T319: escupe a Aizen con el poder de Dabura. Aizen alcanza a levantar el brazo izquierdo: la saliva le pega en el antebrazo y la piedra trepa rápido hacia el hombro. Sin dudar, Aizen se corta su propio brazo a la altura del hombro con su espada. El brazo cae y termina de petrificarse en el piso. Aizen, sangrando, sonríe: "Fascinante." Gin abre los ojos; Tōsen da un paso atrás.
-PRESENTES EN ESCENA: Ulquiorra (en el pasillo, frente a ustedes), Gin, Tōsen. Aizen (estatua al hombro de Facundo). Kase.
+PRESENTES EN ESCENA: Ichigo (curado, en guardia), Orihime, Rukia, Chad, Nel, Gin, Tōsen. Aizen (estatua al hombro). Kase.
 VÍNCULOS ACTIVOS (Bleach): Ichigo (rival), Rukia, Uryū, Chad, Orihime, Urahara, Yoruichi, Kyōraku, Ukitake, Nanao, Renji; Byakuya (respeto frío).
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga). Quincy (Uryū). Shinsō (Gin). Aizen. Senbonzakura (Byakuya). Zabimaru (Renji). Todo Ichigo. Goku (todo: SSJ1-3, Dios, Blue, Ultra Instinto). Dabura.
 DONES: Manecilla Inversa (Jujutsu, 100). Sakaime (Bleach, 100). Forma Cenit (Dragon Ball, 100).
@@ -20,4 +20,4 @@ INVENTARIO CLAVE: Hōgyoku. Rift, Echo, Sakaime. Jarrón de Karin. Dibujo de Mar
 KASE: en el hombro.
 OTROS MUNDOS: Jujutsu (se fue 01/02/2019; prometió volver). Dragon Ball (se fue día 9 año 774; prometió volver a Buu). Completados 3/3. VIAJE LIBRE.
 HILOS ABIERTOS: Promesas: Buu, Kame House, Mr. Satán (DB); Megumi y todos (Jujutsu). Bleach: Aizen quiere el Hōgyoku. 110 puntos sin asignar.
-OBJETIVO: Ulquiorra ve la estatua de Aizen. Tiene órdenes de proteger Las Noches si algo así pasaba.
+OBJETIVO: Los demás ven a Aizen de piedra y a Gin y Tōsen contigo. Ichigo en guardia.
