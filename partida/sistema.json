@@ -1,8 +1,8 @@
 {
-  "turno": 373,
+  "turno": 374,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 1 (Islas Conomi)",
-  "hora": "16:10",
+  "fecha_local": "Día 2 (Islas Conomi)",
+  "hora": "09:10",
   "edad": 18,
   "nivel": 24,
   "exp": 175690,
@@ -41,7 +41,7 @@
     "energia": 236,
     "control": 235
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

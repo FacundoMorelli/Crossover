@@ -15,3 +15,5 @@
 - Mihawk de vuelta en el Grand Line. Buggy y Alvida se reagrupan. Smoker en Loguetown. Kuro derrotado (Syrup). Don Krieg derrotado (Baratie).
 - Día 1 15:22-15:31 · (T366-367) Zoro, curado, pelea contra Arlong; corte en el pecho a Arlong. CAMBIO: Luffy, Sanji y Yosaku llegan a Arlong Park montados en Momoo el Día 1.
 - Día 1 15:32-15:48 · (T369) Luffy vence a Arlong (debilitado por Facundo y Zoro), destruye el cuarto de mapas y parte la torre. Arlong Park cae el Día 1 (canon: Día 2). Nezumi y la confiscación del dinero de Nami todavía no ocurrieron: Nezumi vendrá igual (mañana) a buscar el dinero o a cobrar a Arlong.
+- Día 1 noche · Fiesta en Cocoyasi. Arlong encadenado en la comisaría de Genzo (despierto). Gyojin atados.
+- Día 2 09:00 · Nezumi llega al mandarinal de Nojiko con 6 marines por los 100M de Nami ("dinero robado"). Le apunta a Nojiko.

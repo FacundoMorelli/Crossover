@@ -30,3 +30,5 @@
 - Sombrero de Paja · T370 · Saben que Facundo se une y que "se va de vez en cuando por días, semanas o meses". No saben a dónde.
 - Sombrero de Paja · T371 · Saben su nombre: Facundo.
 - Aldeanos de Cocoyasi, Genzo · T371 · Ven Arlong Park en ruinas; los gyojin y los Sombrero de Paja cuentan (rumor) que "el del pelo de dos colores y el gato" tumbó a medio parque.
+- Aldeanos de Cocoyasi · T374 · En la fiesta se cuenta (rumor deformado) que el forastero del gato "voló sobre Arlong Park y aplastó a cien hombres-pez con una ola".
+- Nezumi · T374 · Oyó el rumor por sus soldados (que escucharon a los aldeanos de madrugada). No vio nada.

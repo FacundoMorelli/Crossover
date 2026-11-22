@@ -372,3 +372,4 @@ T370 · One Piece · Arlong Park · Desactiva UI. Se une a los Sombrero de Paja;
 T371 · One Piece · Arlong Park · Le dice su nombre a Luffy. Llegan los aldeanos con Genzo y Nojiko. Nojiko: "Así que saliste vivo."
 T372 · One Piece · Arlong Park · "Puede ser." Nojiko invita a la fiesta. Genzo agradece.
 T373 · One Piece · Arlong Park · "No me agradezcas." Genzo le palmea el hombro. Todos van a la fiesta.
+T374 · One Piece · Cocoyasi · Fiesta. Día 2: Nezumi llega al mandarinal por el dinero de Nami y le apunta a Nojiko.
