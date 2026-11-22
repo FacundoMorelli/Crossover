@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Goku, Gohan, Goten · T204 · Facundo les contó la pelea de Vegeta con Buu, el Final Flash, el enojo de Buu y que salvó a Vegeta con el cambio de lugar.
 - Goku · T196 · Facundo le dijo que de verdad no sabe dónde está. No pregunta más.
 - Goku y Vegeta · T188 · su nombre; Facundo les mostró su ki base real (nivel de Vegeta al llegar a la Tierra); no saben de la Forma Cenit ni de otras técnicas.
 - PÚBLICO (TV en vivo) · T184 · un joven de pelo blanco y azul con un gato aterriza en el ring del torneo con una criatura rosada.

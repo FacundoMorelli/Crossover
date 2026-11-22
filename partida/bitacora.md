@@ -202,3 +202,4 @@ T200 · Dragon Ball · 18:56 · Mira a Vegeta pelear con Buu. Final Flash; Buu e
 T201 · Dragon Ball · 18:57 · Boogie Woogie: salva a Vegeta del rayo de Buu (roca de chocolate). Buu, dolido.
 T202 · Dragon Ball · 18:58 · Más dulces a Buu (4 F). Buu perdona. Vegeta se va.
 T203 · Dragon Ball · 20:00 · Simula: Vegeta se va; Buu se duerme; llegan Shin y Kibito; vuelve Goku con Gohan y Goten.
+T204 · Dragon Ball · 20:04 · Le cuenta a Goku lo de Vegeta y Buu. Goku preocupado por la revancha.
