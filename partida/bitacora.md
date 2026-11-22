@@ -283,3 +283,4 @@ T281 · Jujutsu · 21:40 · Llega a la escuela. Nobara lo ve.
 T282 · Jujutsu · 21:42 · Perdón a Nobara. Puñetazo y abrazo. Megumi encerrado; Nanami en la enfermería.
 T283 · Jujutsu · 21:45 · Puerta de Megumi. 'Váyanse.'
 T284 · Jujutsu · 21:47 · Megumi abre. 'Si vienes a decirme que no fue mi culpa, ahórratelo.'
+T285 · Jujutsu · 22:20 · Silencio con Megumi. Kase a su lado. Megumi habla de Tsumiki.

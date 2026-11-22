@@ -75,6 +75,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Sukuna, en el cuerpo de Megumi, mató a su hermana Tsumiki; Megumi lo vio desde adentro: Megumi (T285).
 - Megumi no sale de su cuarto desde hace días; Nanami está en la enfermería con Shoko por el brazo: Nobara (T282).
 - La orden de retención de los altos mandos nunca se anuló; con la guerra nadie se acordó: Ijichi (T280).
 - Yuji (T278): Juego del Sacrificio; Sukuna tomó el cuerpo de Megumi; 24/12 Gojo liberado y muerto por Sukuna en Shinjuku; Choso murió en ese cruce protegiendo a Yuji; muertos también Yuki, Kashimo, Yaga (ejecutado); Yuji y Nobara separaron a Sukuna de Megumi y lo mataron; Megumi vivo, en la escuela, mal; Nobara bien; Nanami vivo sin el brazo izquierdo.

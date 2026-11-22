@@ -42,3 +42,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T270 (Dragon Ball) · Bee le hace una reverencia. Kase lo mira con desprecio y le da la espalda... pero no se va.
 - T275 (Dragon Ball) · Goten le da un beso en la cabeza en el templo. Kase lo permite.
 - T279 (Jujutsu) · Apoya la cabeza en la mejilla de Yuji mientras llora.
+- T285 (Jujutsu) · Se acuesta contra el pie de Megumi y deja que le ponga la mano en el lomo.

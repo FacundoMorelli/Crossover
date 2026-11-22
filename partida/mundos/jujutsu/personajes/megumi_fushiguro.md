@@ -34,3 +34,5 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T283 · 21:45 · Facundo golpea su puerta. Contesta sin abrir: "Váyanse." (No sabe que es Facundo.)
 - T284 · 21:47 · Abre la puerta al saber que es Facundo. No lo mira. Se sienta en el piso contra la pared. Foto boca abajo en el escritorio (Tsumiki).
 - DIÁLOGO T284: "Si vienes a decirme que no fue mi culpa, ahórratelo. Ya me lo dijeron todos."
+- T285 · 22:20 · Facundo se sienta a su lado en silencio media hora. Kase se acuesta contra su pie; Megumi le pone la mano en el lomo. Habla de Tsumiki.
+- DIÁLOGO T285: "...Gracias por no decir nada." / "Fue con mis manos. Lo vi todo desde adentro. Sentí el peso de ella cuando cayó. Todavía lo siento."
