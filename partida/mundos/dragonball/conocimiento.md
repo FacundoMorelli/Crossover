@@ -1,8 +1,8 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
-(nadie sabe nada; nadie lo vio llegar)
+- Vegeta, Goku · T177 · lo ven en el risco: joven de pelo blanco y azul con un gato; no sienten su ki (Velo).
 ## QUIÉN VIO QUÉ PODERES
-(nadie)
+- Vegeta, Goku · T177 · una línea plateada en el aire que hizo explotar la ráfaga de Vegeta.
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 (nadie)
 ## INFORMACIÓN QUE CIRCULÓ

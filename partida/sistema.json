@@ -1,8 +1,8 @@
 {
-  "turno": 176,
+  "turno": 177,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "13:05",
+  "hora": "13:06",
   "edad": 18,
   "nivel": 11,
   "exp": 30610,
@@ -36,7 +36,7 @@
     "energia": 203,
     "control": 202
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -78,7 +78,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 50,
+      "maestria": 51,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [

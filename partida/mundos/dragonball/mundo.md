@@ -6,4 +6,4 @@ ESCALA: este mundo está en otra escala (150+). Facundo, con promedio ~127, est�
 DON DE MUNDO: Forma Cenit (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
-(ninguno todavía)
+- T177 · La ráfaga de Majin Vegeta contra el público del torneo explota contra una línea de Sakaime en el desierto. (En el canon mataba a muchos espectadores.)
