@@ -1,0 +1,3 @@
+# Risco sobre el desierto de la nave de Babidi
+Meseta rocosa y seca, con pilares de piedra rojiza. Abajo, a unos 500 m, un círculo de tierra removida y la cúpula de una nave esférica medio enterrada, con una escotilla abierta. Junto a la nave, dos estatuas de piedra recientes: Krilin y Piccolo petrificados. Viento caliente, sin agua.
+VISITAS: T174 (llegada).

@@ -10,3 +10,6 @@ DON DE MUNDO: Zanpakutō Sakaime (ver sistema.json).
 - T154 · 29/07 · Facundo destruye el Sōkyoku (el Kikōō y la alabarda) frente a todos los capitanes. Rukia viva, escondida bajo el haori de Kyōraku. (En el canon lo hacían Ichigo, Ukitake y Kyōraku.)
 - T163 · 29/07 · Aizen se va a Hueco Mundo SIN el Hōgyoku (cambio enorme: en el canon lo extraía de Rukia). Herido por Facundo (frente y hombro).
 - T171 · 25/08 · Rukia vuelve a Karakura libre y con todos sus poderes. MISIÓN DE MUNDO CUMPLIDA. La Puerta está abierta.
+
+## ESTADO AL IRSE (26/08, 22:30)
+- Rukia en Karakura, entera, con el equipo de avanzada. Aizen en Hueco Mundo sin Hōgyoku (lo tiene Facundo en el inventario). Ulquiorra sabe quién es Facundo. Facundo: 'colaborador bajo observación' del Gotei. Prometió volver en unas semanas. Lo recuerdan todos los de Karakura y la Sociedad de Almas.

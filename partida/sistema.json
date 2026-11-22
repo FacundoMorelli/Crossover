@@ -1,8 +1,8 @@
 {
-  "turno": 173,
-  "mundo_actual": "bleach",
-  "fecha_local": "26 de agosto (año del canon, ~2001)",
-  "hora": "21:15",
+  "turno": 174,
+  "mundo_actual": "dragonball",
+  "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
+  "hora": "mediodía",
   "edad": 18,
   "nivel": 11,
   "exp": 30610,
@@ -18,6 +18,11 @@
       "moneda": "yenes",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 yenes"
+    },
+    "dragonball": {
+      "moneda": "zeni",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
   "puntos_de_stat_sin_asignar": 35,
@@ -98,6 +103,27 @@
         "Marco (cuatro líneas que cierran un plano-frontera)",
         "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"
       ]
+    },
+    "dragonball": {
+      "nombre": "Forma Cenit",
+      "tipo": "transformación de ki (nativa de Dragon Ball) + manejo del ki",
+      "maestria": 30,
+      "incluye_base": [
+        "Manejo del ki de este mundo: volar (Bukūjutsu), sentir el ki ajeno, ráfagas y ondas de ki, ocultar el propio (además del Velo)"
+      ],
+      "reglas": [
+        "Transformación: el pelo se le vuelve blanco y azul brillante, erguido, con un aura de llamas blancas y azules; los ojos (rojo y azul) brillan como brasas.",
+        "Multiplicador: x3 a todos los stats en maestría 30; +x1 cada 10 de maestría.",
+        "Duración: 10 minutos seguidos en maestría 30; +5 minutos cada 10 de maestría. Al terminar, cansancio fuerte (energía -30%).",
+        "Etapa superior: 'Cenit Eclipsado' en maestría 60 (multiplicador x2 sobre la Forma Cenit, duración a la mitad).",
+        "Sin desventajas: no lo vuelve agresivo ni le cambia la personalidad.",
+        "Funciona en todos los mundos."
+      ],
+      "forma_superior": {
+        "nombre": "Cenit Eclipsado",
+        "desbloqueo": 60,
+        "estado": "bloqueada"
+      }
     }
   },
   "velo": {
@@ -566,7 +592,8 @@
   "viaje": {
     "mundos_visitados": [
       "jujutsu",
-      "bleach"
+      "bleach",
+      "dragonball"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -574,12 +601,12 @@
     ],
     "viaje_libre": false,
     "mision_de_mundo_actual": {
-      "mundo": "bleach",
-      "mision": "Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes.",
-      "recompensa": "8.000 EXP · 200 Fragmentos · la Puerta",
+      "mundo": "dragonball",
+      "mision": "Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre.",
+      "recompensa": "10.000 EXP · 300 Fragmentos · la Puerta (y con ella, el VIAJE LIBRE)",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "cumplida (T171, 25/08)"
+      "estado": "activa"
     },
     "relojes": {
       "jujutsu": {
@@ -589,8 +616,14 @@
         "corre_desde": "T86 al ritmo de Facundo"
       },
       "bleach": {
-        "llegada": "23/06 20:40",
-        "dias_transcurridos": 63
+        "llegada": "23/06",
+        "salida": "26/08 22:30",
+        "dias_transcurridos_al_salir": 64,
+        "corre_desde": "T174 al ritmo de Facundo"
+      },
+      "dragonball": {
+        "llegada": "Año 774, día del 25.º Torneo, mediodía",
+        "dias_transcurridos": 0
       }
     },
     "puerta_abierta": true,
@@ -602,6 +635,14 @@
         "vence": "nunca",
         "cambiada": false,
         "estado": "cumplida (T55, 01/11/2018 05:58)"
+      },
+      "bleach": {
+        "mundo": "bleach",
+        "mision": "Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes.",
+        "recompensa": "8.000 EXP · 200 Fragmentos · la Puerta",
+        "vence": "nunca",
+        "cambiada": false,
+        "estado": "cumplida (T171, 25/08)"
       }
     }
   },
@@ -661,9 +702,9 @@
       "Gorra negra lisa": 1
     },
     "stock_rotativo": {
-      "Gigai de Urahara (cuerpo artificial de repuesto)": 60,
-      "Píldora de Soul Candy (Mod Soul de reemplazo, un uso)": 15,
-      "Reiatsu en botella (recupera 40% de energía)": 40
+      "Semilla del ermitaño (cura total y energía al 100%, un uso)": 120,
+      "Cápsula Hoi-Poi con casa de campaña": 15,
+      "Ropa de pelea de Kame House (gi naranja)": 5
     },
     "ultimo_hito_de_catalogo": 10
   },
@@ -691,7 +732,8 @@
     "lugar_de_llegada": "azotea de un edificio de oficinas en Shibuya 2-chome, al este de la estación, ~600 m del centro del futuro dominio de Sukuna",
     "apodos_pendientes": {
       "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa",
-      "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'."
+      "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'.",
+      "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa) / Vegeta: 'el insecto de dos colores'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
@@ -711,6 +753,8 @@
     "infiltracion": "Facundo entró al Seireitei por la Puerta Blanca Oeste el 19/07 sin que nadie lo viera. Gin cree que se quedó afuera con el grupo; lo nota al rato y no lo reporta enseguida (le divierte). Ichigo y el resto entran por el cañón de Kūkaku en ~2 días (canon).",
     "aizen": "Aizen se fue a Hueco Mundo sin el Hōgyoku (29/07). No puede crear Arrancar perfectos ni Espada fuertes sin él (solo los imperfectos con su investigación previa). Va a buscar a Facundo y a Urahara. Gin sigue con él (su plan secreto contra Aizen intacto). Sin Hōgyoku, Aizen crea Arrancar imperfectos con su investigación: más débiles que en el canon y sin Resurrección estable. Manda a Ulquiorra y Yammy a Karakura para encontrar a 'el humano de dos colores' y el Hōgyoku.",
     "rukia_mision": "Rukia se quedó en la Sociedad de Almas para recuperarse del todo y reconciliarse con Byakuya. Volverá a Karakura con poderes completos con el grupo de avanzada de Hitsugaya (canon arco 4, ~agosto/septiembre) o antes si algo la llama. Entonces se cumple la misión.",
-    "bleach_al_salir": "Si Facundo se va: Grimmjow ataca Karakura con su Fracción (canon, ~fin de agosto); el equipo de avanzada pelea; Rukia herida por Grimmjow (canon). Aizen, sin Hōgyoku, busca otro camino: investiga la Llave del Rey con 100.000 almas y fuerza un Hōgyoku artificial imperfecto; el ataque grande a Karakura se retrasa meses. Urahara vigila. Todos recuerdan a Facundo."
+    "bleach_al_salir": "Si Facundo se va: Grimmjow ataca Karakura con su Fracción (canon, ~fin de agosto); el equipo de avanzada pelea; Rukia herida por Grimmjow (canon). Aizen, sin Hōgyoku, busca otro camino: investiga la Llave del Rey con 100.000 almas y fuerza un Hōgyoku artificial imperfecto; el ataque grande a Karakura se retrasa meses. Urahara vigila. Todos recuerdan a Facundo. Facundo cruzó la Puerta el 26/08 a las 22:30, solo, en un callejón detrás de la tienda.",
+    "tercer_mundo": "dragonball (tirada 0.778 → cap. ~448, Z 254)",
+    "momento_del_canon_dragonball": "Saga Majin Buu: Babidi. Año 774, día del 25.º Torneo. Spopovich y Yamu robaron la energía de Gohan; el grupo (Goku, Vegeta, Gohan, Krilin, Piccolo, Shin, Kibito) llegó a la nave de Babidi; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave (Pui Pui, Yakon, Dabura vs Gohan), Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, muerte de Kibito, autodestrucción de Vegeta (PUNTO DE QUIEBRE DE LA MISIÓN)."
   }
 }

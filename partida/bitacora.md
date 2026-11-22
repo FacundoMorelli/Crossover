@@ -172,3 +172,4 @@ T170 · Bleach · 15:12 · Se niega. Ulquiorra confirmó quién es; se lleva a Y
 T171 · Bleach · 25/08 · Rukia vuelve a Karakura entera. MISIÓN DE MUNDO CUMPLIDA (+8.000 EXP, +200 F). NIVEL 11. Ojo del Eclipse. Puerta abierta. 2/3 mundos.
 T172 · Bleach · 25/08 · El equipo de avanzada se queda en Karakura. Facundo: 'colaborador bajo observación'.
 T173 · Bleach · 26/08 21:15 · Cena con todos. Anuncia que se va un tiempo y que vuelve en unas semanas.
+T174 · Dragon Ball · Año 774 · Cruza la Puerta. Llega cerca de la nave de Babidi. Don: Forma Cenit. Misión: que Vegeta siga vivo cuando Buu desaparezca.

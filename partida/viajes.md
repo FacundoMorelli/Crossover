@@ -30,3 +30,12 @@
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T171 · 25/08. Rukia volvió a Karakura libre y con sus poderes completos. +8.000 EXP, +200 F. Puerta abierta.
 - Mundos completados: 2/3 (Jujutsu Kaisen, Bleach).
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 3 | Dragon Ball | Año 774, día del 25.º Torneo, mediodía | Saga Majin Buu: nave de Babidi (cap. ~448) | Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. | Activa |
+
+## RELOJES (actualizado T174)
+- Jujutsu Kaisen: se fue el 05/11/2018 tras 5 días; corre.
+- Bleach: se fue el 26/08 22:30 tras 64 días; corre. Prometió volver en unas semanas.
+- Dragon Ball: llegada año 774.
