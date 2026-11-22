@@ -68,3 +68,4 @@
 - 20/09 01:10 · Garganta al Seireitei. Aizen (estatua) al Muken; Gin y Tōsen presos en el 1.º. Facundo alojado en el 8.º.
 - 21-22/09 · Interrogatorios. Gin cuenta el plan de Aizen y que Facundo tiene el Hōgyoku.
 - 23/09 10:00 · Yamamoto cita a Facundo ante los capitanes.
+- 23/09 10:20 · Yamamoto decide romper la estatua de Aizen al amanecer del 24/09 en el Muken. Facundo no objeta ("Aizen es suyo"). Juicio de Gin y Tōsen: esperará a la nueva Central 46.
