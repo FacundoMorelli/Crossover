@@ -353,3 +353,4 @@ T351 · One Piece · Conomi · Se despide de Ito y Mika con la mandarina. Sale a
 T352 · One Piece · Conomi · Mandarinal de Nojiko: encuentra a Usopp, que le apunta con la resortera.
 T353 · One Piece · Conomi · Le dice a Usopp que pagó el tributo y pregunta por el otro. Usopp: Zoro, capturado; vinieron por Nami. Sale Nojiko.
 T354 · One Piece · Conomi · Se presenta a Nojiko y Usopp y va a Arlong Park. Usopp lo sigue escondido. Kaneshiro lo reconoce en el portón.
+T355 · One Piece · Arlong Park · Entra. Arlong, sus oficiales, Nami y Zoro encadenado. Arlong le ofrece trabajo.

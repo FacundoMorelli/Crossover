@@ -11,3 +11,6 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T355 · Arlong Park · lo ve entrar. Lo mira fijo, sin decir nada.
+QUÉ SABE DE FACUNDO: nada; lo ve por primera vez.

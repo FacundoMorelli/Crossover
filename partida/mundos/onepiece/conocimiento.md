@@ -11,3 +11,5 @@
 - Usopp · T352 · Vio a Facundo en el mandarinal. No sabe nada de él.
 - Usopp · T353 · Facundo le dijo que no es de Arlong, que pagó el tributo y que hasta hace un rato no sabía dónde estaba.
 - Usopp y Nojiko · T354 · Saben su nombre (Facundo), que tiene "una misión" y que fue a Arlong Park.
+- Arlong y sus oficiales · T355 · Saben por Kaneshiro que Facundo pagó el tributo propio y el del viejo Ito y que tenía mucha plata. Lo ven en persona.
+- Nami y Zoro · T355 · Lo ven entrar a Arlong Park. No saben nada de él.
