@@ -358,3 +358,4 @@ T356 · One Piece · Arlong Park · Le da la última semilla del ermitaño a Zor
 T357 · One Piece · Arlong Park · Usa la Shio Shio no Mi: 8 gyojin fuera de combate. Arlong ordena tirarlo al mar.
 T358 · One Piece · Arlong Park · Se tira solo a la piscina y se para sobre el agua. Arlong se lanza al agua a pelear.
 T359 · One Piece · Arlong Park · Vuela con ki; Arlong falla. Chew le dispara balas de agua.
+T360 · One Piece · Arlong Park · "Qué miedo." Se tira al piso; las balas de Chew fallan. Hatchan y Kuroobi avanzan.
