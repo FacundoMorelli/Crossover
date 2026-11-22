@@ -1,8 +1,8 @@
 {
-  "turno": 101,
+  "turno": 102,
   "mundo_actual": "bleach",
   "fecha_local": "24 de junio (año del canon, ~2001)",
-  "hora": "15:42",
+  "hora": "15:46",
   "edad": 18,
   "nivel": 6,
   "exp": 11000,
@@ -233,6 +233,13 @@
       "mision": "Pelear en serio contra Yuta Okkotsu hasta que tenga que llamar a Rika completa.",
       "dificultad": "MUY ALTA",
       "emitida": "T83"
+    },
+    {
+      "poder": "Poder de Ichigo Kurosaki (poderes de Shinigami, reiatsu, zanpakutō y todo lo que lleva adentro)",
+      "mundo": "bleach",
+      "mision": "Que Ichigo Kurosaki te llame su rival.",
+      "dificultad": "ALTA",
+      "emitida": "T102"
     }
   ],
   "misiones_de_copia_rechazadas": [],

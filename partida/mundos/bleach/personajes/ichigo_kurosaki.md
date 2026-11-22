@@ -1,12 +1,13 @@
 NOMBRE: Ichigo Kurosaki
 AFILIACIÓN: Instituto Karakura, 1.er año; Shinigami sustituto
 RANGO: Shinigami sustituto (sin registro oficial)
-PODER VISTO POR FACUNDO: ninguno
+PODER VISTO POR FACUNDO: forma de Shinigami (shihakushō negro, zanpakutō enorme), velocidad (T102)
 EDAD EN ESTE MOMENTO DEL CANON: 15
 FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del instituto. Como Shinigami: shihakushō negro y una zanpakutō enorme.
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: acaba de verlo; curiosidad y desconfianza.
 ENCUENTROS:
+- T102 · 15:44 · Rukia le saca el alma del cuerpo con el guante (Gokon Tekkō). Sale como Shinigami con la zanpakutō gigante. Kon queda en el cuerpo. Corre hacia el parque con Facundo.
 - T101 · 24/06 15:42 · Llega con Rukia. Comenta que en la escuela no hablan de otra cosa que del 'loco de la espada' de la tele.
 - T90 · 20:47 · Facundo se presenta y pregunta dónde está. Ichigo: ciudad de Karakura. Se presenta.
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
