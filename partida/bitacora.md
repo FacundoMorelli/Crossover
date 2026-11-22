@@ -369,3 +369,4 @@ T367 · One Piece · Arlong Park · Zoro vs Arlong parejo. Llegan Luffy, Sanji y
 T368 · One Piece · Arlong Park · "Si lo vences, me uno." Luffy acepta. Luffy vs Arlong.
 T369 · One Piece · Arlong Park · Luffy vence a Arlong y parte la torre. MISIÓN DE MUNDO CUMPLIDA. Luffy reclama el trato.
 T370 · One Piece · Arlong Park · Desactiva UI. Se une a los Sombrero de Paja; avisa que se va a veces. Luffy acepta y le pregunta el nombre.
+T371 · One Piece · Arlong Park · Le dice su nombre a Luffy. Llegan los aldeanos con Genzo y Nojiko. Nojiko: "Así que saliste vivo."

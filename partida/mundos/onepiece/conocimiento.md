@@ -28,3 +28,5 @@
 - Luffy, Sanji, Yosaku · T367 · Ven a Facundo con el aura plateada en el patio destrozado.
 - Luffy, Zoro, Sanji, Nami, Arlong y gyojin · T368 · Oyeron el trato: si Luffy vence a Arlong, Facundo se une a su tripulación.
 - Sombrero de Paja · T370 · Saben que Facundo se une y que "se va de vez en cuando por días, semanas o meses". No saben a dónde.
+- Sombrero de Paja · T371 · Saben su nombre: Facundo.
+- Aldeanos de Cocoyasi, Genzo · T371 · Ven Arlong Park en ruinas; los gyojin y los Sombrero de Paja cuentan (rumor) que "el del pelo de dos colores y el gato" tumbó a medio parque.
