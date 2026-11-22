@@ -212,3 +212,4 @@ T210 · Dragon Ball · 00:35 · Vuela al Monte Paoz con Gohan y Goten. Milk lo r
 T211 · Dragon Ball · 00:45 · Milk lo hace pasar, le da de comer. Pregunta si estudia.
 T212 · Dragon Ball · 00:55 · 'No estudio, pero me gusta aprender.' Milk le ofrece dónde dormir.
 T213 · Dragon Ball · 07:10 · Duerme en la casita de Gohan. Goten lo despierta para el desayuno.
+T214 · Dragon Ball · 07:25 · Desayuno. Mr. Satán en TV: 'el muchacho del gato, mi discípulo'. APODO.

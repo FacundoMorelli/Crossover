@@ -1,8 +1,8 @@
 {
-  "turno": 213,
+  "turno": 214,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día siguiente al 25.º Torneo",
-  "hora": "07:10",
+  "hora": "07:25",
   "edad": 18,
   "nivel": 13,
   "exp": 48310,
@@ -678,7 +678,8 @@
     }
   },
   "apodos": {
-    "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'."
+    "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
+    "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa, desde T214)"
   },
   "tienda": {
     "catalogo_permanente": {
@@ -765,7 +766,7 @@
     "apodos_pendientes": {
       "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa",
       "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'.",
-      "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa) / Vegeta: 'el insecto de dos colores'."
+      "dragonball": "Revelado T214: 'El muchacho del gato'. Pendiente: Vegeta, 'el insecto de dos colores'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",

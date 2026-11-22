@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- PÚBLICO (TV) · T214 · Mr. Satán: 'el muchacho del gato', su 'discípulo', lo ayudó a domar al monstruo. (Mentira de Mr. Satán.)
 - Goten · T213 · su nombre (se lo dijo Gohan a la mañana).
 - Milk · T198 (tarde) · Goku le contó en el Monte Paoz que entrenaba con un muchacho fuerte que tiene un gato. · T184 · lo vio por TV con Buu.
 - Goten, Goku, Gohan · T206 · el gato se llama Kase (Facundo lo dijo).
