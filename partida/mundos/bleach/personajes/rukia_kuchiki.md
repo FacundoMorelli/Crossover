@@ -99,3 +99,4 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - DIÁLOGO T305: "Kaien-dono... me enseñó que el corazón... está donde está el vínculo." / "Estoy... bien..." (no lo está)
 - T306 · Come la semilla del ermitaño: curada entera. Siente caer el reiatsu de Chad.
 - DIÁLOGO T306: "¿Qué... qué es esto? Ni la Cuarta División..." / "¡Sado!"
+- T308 · Facundo se pone delante de ella y se transforma (Ultra Instinto). Recibe a Nel.

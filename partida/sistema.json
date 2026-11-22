@@ -1,5 +1,5 @@
 {
-  "turno": 307,
+  "turno": 308,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
@@ -429,7 +429,8 @@
         "Super Saiyajin, Super Saiyajin 2 y Super Saiyajin 3 (y las formas que Goku alcanzaría: incluidas por la regla de etapas) — poder racial, sin la cola débil ni el Ozaru descontrolado",
         "Kamehameha (todas sus variantes), Kaio-ken, Teletransportación (Shunkan Idō), Genkidama, Taiyōken",
         "Instinto de combate saiyajin: se hace más fuerte después de cada pelea dura (zenkai), sin necesidad de casi morir",
-        "Dominio total e inmediato"
+        "Dominio total e inmediato",
+        "Ultra Instinto (Migatte no Gokui): declarado por el jugador en T308; regla ampliada"
       ]
     },
     {
@@ -864,7 +865,8 @@
       ],
       "recordatorio_permanente": "Se copia todo, incluidas las razas y sus transformaciones, sin sus desventajas; los objetos no se copian."
     },
-    "inmunidad_kyoka_suigetsu": "T159: Facundo tocó la hoja de Kyōka Suigetsu antes de ver su liberación: es inmune a su hipnosis (regla del canon)."
+    "inmunidad_kyoka_suigetsu": "T159: Facundo tocó la hoja de Kyōka Suigetsu antes de ver su liberación: es inmune a su hipnosis (regla del canon).",
+    "ultra_instinto": "T308: el jugador declaró que Facundo usa Ultra Instinto, parte del poder de Goku copiado (aunque en el canon de Dragon Ball a esta altura Goku no lo tiene). Funciona: el cuerpo esquiva y responde solo, aura plateada, ojos plateados."
   },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",

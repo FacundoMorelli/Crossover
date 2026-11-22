@@ -17,6 +17,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Rukia, Nel, Nnoitra, Tesla · T308 · una transformación: aura plateada quieta, ojos plateados (Ultra Instinto). Lo interpretan como algo parecido a una liberación.
 - Rukia, Nel · T306 · una semilla que cura todo y devuelve el reiatsu al instante.
 - Rukia, Nel, Aaroniero · T304 · Destello Solar que llenó de luz la sala del 9.º Espada.
 - Ulquiorra, Chad, Orihime · T169 · vieron a Facundo mandar a Yammy a volar 200 m de un golpe de doble impacto. Ulquiorra lo registra todo con el ojo (se lo mostrará a Aizen).

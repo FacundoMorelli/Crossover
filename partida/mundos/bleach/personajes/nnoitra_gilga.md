@@ -9,4 +9,6 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T307: "¿Pelo de dos colores, un gato en el hombro? Tú eres el que tiene la piedrita de Aizen-sama." / "Órdenes: al del gato no se lo toca. Se lo deja llegar. Te está esperando." / "Pero a la enana de negro nadie dijo nada."
 QUÉ SABE DE FACUNDO: lo que Aizen dijo a las Espadas: pelo bicolor, gato, tiene el Hōgyoku; no tocarlo, dejarlo llegar.
+- T308 · Ve el Ultra Instinto. Ataca igual.
+- DIÁLOGO T308: "...¿Qué carajo es eso?" / "¡Jajaja! ¡Dijeron que no te tocara, nadie dijo que no pudiera divertirme!"
 ESTADO: activo.
