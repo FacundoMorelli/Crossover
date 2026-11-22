@@ -127,3 +127,4 @@ T125 · Bleach · 23:20 · Ichigo choca con Renji. Byakuya va por Facundo.
 T126 · Bleach · 23:21 · Boogie Woogie: cambia a Byakuya con Ichigo frente al ataque de Renji. Liberación cortada otra vez.
 T127 · Bleach · 23:21 · Ira Estelar en Sakaime (fusión sellada). Byakuya ataca a la garganta.
 T128 · Bleach · 23:21 · Bloquea y contraataca: corta la bufanda y el brazo de Byakuya. Byakuya libera Senbonzakura. Misión de copia: Byakuya.
+T129 · Bleach · 23:22 · Se intercambia con Renji: Byakuya frena los pétalos ante su teniente. Facundo junto a Rukia.

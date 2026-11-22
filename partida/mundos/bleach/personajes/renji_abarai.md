@@ -7,6 +7,7 @@ FÍSICO: pelo rojo largo atado en una coleta alta, tatuajes negros en la frente 
 PERSONALIDAD Y FORMA DE HABLAR: impulsivo, bravucón, leal; amigo de la infancia de Rukia.
 RELACIÓN CON FACUNDO: acaba de verlo.
 ENCUENTROS:
+- T129 · 23:22 · Facundo se intercambia con él: Renji aparece frente al río de pétalos de su capitán. Byakuya los frena a un palmo de su cara. Renji cae sentado.
 - T126 · 23:21 · Su Zabimaru, lanzada contra Ichigo, casi le da a su capitán (cambiado de lugar). Byakuya la desvía. Renji queda pálido.
 - T125 · 23:20 · Choca con Ichigo; retrocede dos metros, sorprendido por la fuerza.
 - T124 · 23:20 · Ve llegar a Ichigo, reconoce que tiene la espada de Rukia.
@@ -14,6 +15,7 @@ ENCUENTROS:
 - T121 · 23:19 · Facundo se presenta y traza una línea entre él y Rukia. Renji ataca la línea con Zabimaru: rebota. Se enfurece.
 - T120 · 07/07 23:18 · Calle cerca de la casa Kurosaki. Derrotó a Uryū con Zabimaru. Tiene a Rukia acorralada contra un poste. Facundo llega.
 DIÁLOGOS CLAVE:
+- T129: "¡¡CAPITÁN!!"
 - T126: "¡¿C-capitán?! ¡¿Cómo...?!"
 - T125: "¡¿Qué fuerza es esa?!"
 - T124: "Así que tú eres el que le robó los poderes a Rukia."
