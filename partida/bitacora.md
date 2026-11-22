@@ -425,3 +425,4 @@ T423 · Shingeki · Shiganshina · Vuelven al sótano. Moblit: Zeke despertó y 
 T424 · Shingeki · Shiganshina · Habla a solas con Zeke. Zeke pide ver a Eren a solas.
 T425 · Shingeki · Shiganshina · Zeke le cuenta el plan de eutanasia de los eldianos.
 T426 · Shingeki · Shiganshina · Pregunta por qué no hacer desaparecer a los titanes. Zeke: el odio seguiría.
+T427 · Shingeki · Shiganshina · Piedra de hielo como negociación. Zeke duda; pide que Eren escuche las dos versiones.

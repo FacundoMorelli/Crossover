@@ -16,3 +16,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T423 · Despierta encadenado; tranquilo. Pide hablar a solas "con el del gato".
 - T424 · A solas con Facundo: "yo también quiero salvar a los eldianos, de otra forma". Pide ver a Eren a solas.
 - T425 · Le cuenta su plan de eutanasia (esterilizar a los súbditos de Ymir con el Fundador y la sangre real). Pregunta qué opina Facundo.
+- T427 · Confirma a Facundo que la piedra de hielo y el combustible de Paradis son lo que el mundo quiere. Duda de su plan. Pide que Eren oiga las dos versiones.
