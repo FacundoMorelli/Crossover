@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuta Okkotsu · T81 · conoce el decreto (descripción, nombre); lo vio congelar a Naoya.
 - Naoya Zen'in · T78 · lo reconoce por la descripción del decreto de los altos mandos.
 - Megumi Fushiguro · T68 · lo vio al despertar; Yuji le dijo su nombre y que los salvó. Vio la Marca I en su propio pecho (no sabe qué es).
 - Maki Zen'in · T61 · lo vio en persona; por el rumor del puesto lo asocia con 'el que congeló a Mahito'.
@@ -27,6 +28,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Naoya, Yuji, Choso y Yuta Okkotsu · T81 · vieron la combinación Marea + Escarcha que encerró a Naoya en hielo.
 - Naoya, Yuji y Choso · T80 · vieron a Facundo usar un cambio de lugar al aplaudir (Yuji y Naoya lo reconocen como el Boogie Woogie de Todo) y un golpe de doble impacto (Yuji lo reconoce como su Puño Divergente). Yuji queda desconcertado.
 - Naoya Zen'in · T79 · recibió el Destello Solar y un corte de Rift. Lo informará al clan si sobrevive.
 - Yuji y Choso · 03-05/11 · lo vieron usar Rift y Echo, Proporción, Destello Solar y Marea Lunar contra maldiciones en Tokio. Algunos civiles rescatados vieron 'a un chico con espadas de fuego y hielo y un gato'.

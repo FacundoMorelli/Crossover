@@ -1,13 +1,13 @@
 {
-  "turno": 80,
+  "turno": 81,
   "mundo_actual": "jujutsu",
   "fecha_local": "05/11/2018",
-  "hora": "22:41",
+  "hora": "22:42",
   "edad": 18,
   "nivel": 6,
-  "exp": 10200,
+  "exp": 10900,
   "exp_siguiente_nivel": 13500,
-  "fragmentos": 461,
+  "fragmentos": 761,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -26,9 +26,9 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 71,
+  "energia_actual_pct": 56,
   "eclipse": {
-    "maestria": 37,
+    "maestria": 38,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo arde un poco",
+  "ojos": "ojo rojo arde un poco; ojo azul frío, algo nublado",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -193,7 +193,14 @@
   ],
   "misiones_de_copia_rechazadas": [],
   "fusion": {
-    "combinaciones_selladas": []
+    "combinaciones_selladas": [
+      {
+        "nombre": "(sin nombre) Marea Lunar + Escarcha Lunar",
+        "descripcion": "La Marea aplasta y clava al objetivo contra el suelo mientras la Escarcha congela todo lo húmedo o lo que toca; encierra en hielo bajo presión.",
+        "sellada": "T81",
+        "costo_primera_vez": "energía y ojo azul"
+      }
+    ]
   },
   "habilidades_del_sistema": [
     "Velo",
@@ -314,6 +321,14 @@
       "turno": 78,
       "fragmentos": 38,
       "exp": 600
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "Naoya Zen'in (inmovilizado en hielo)",
+      "turno": 81,
+      "fragmentos": 150,
+      "exp": 700,
+      "nota": "45-65; más fuerte que Facundo en la Tasación: pagaría doble, pero queda consciente: se paga al vencer (inmovilizado = vencido)"
     }
   ],
   "viaje": {
