@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T119 · 19:56-20:02 · Uryū le dice que suelte el reiatsu hacia él; Ichigo lo hace. Uryū lo dispara en una flecha gigante. El Menos se retira. Ichigo queda agotado, vivo.
 - T117 · 19:53-19:55 · Salta sobre el Menos Grande y le corta parte del pie. Su reiatsu empieza a desbordarse.
 - T116 · 03/07 · Caza hollows por toda Karakura. 71. Furioso con los dos.
 - T115 · 03/07 16:25 · Uryū lo desafía en el río. Acepta furioso.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T119: "¡Tómalo de una vez!" / (a Facundo, desde la calle) "...Oye. Gracias por lo de arriba."
 - T116: "¡No estaba contando!"
 - T115: "¿Y tú quién te crees que eres?"
 - T113: "¿Qué están tramando ustedes dos?"

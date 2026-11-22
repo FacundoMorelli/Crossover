@@ -7,6 +7,7 @@ FÍSICO: flaco, anteojos, pelo negro con flequillo, uniforme impecable; cruz Qui
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, frío, analítico; odia a los Shinigami.
 RELACIÓN CON FACUNDO: rival respetado a regañadientes.
 ENCUENTROS:
+- T119 · 19:56-19:57 · Absorbe el reiatsu desbordado de Ichigo y lo dispara en una flecha gigante que raja la máscara del Menos. Le quedan las manos quemadas.
 - T118 · 19:55 · Ve el Cero deshacerse contra las líneas de Facundo.
 - T117 · 19:53-19:55 · Dispara ráfagas a la máscara del Menos con poco efecto. Le grita a Ichigo.
 - T116 · 03/07 16:25-19:50 · Compite. Lleva la cuenta en voz alta. A las 19:50 admite que Facundo lo superó (112 contra 94). Ichigo, 71. Se abre la Garganta.
@@ -14,6 +15,7 @@ ENCUENTROS:
 - T113 · 26-28/06 · Observa los entrenamientos desde el puente dos veces más.
 - T110 · 25/06 ~17:30 · Facundo ve a alguien con anteojos mirando el entrenamiento desde el puente. Se va cuando lo miran.
 DIÁLOGOS CLAVE:
+- T119: "¡Suéltalo hacia mí, Kurosaki! ¡Yo lo apunto!"
 - T116: "...Ciento doce. No sé cómo, pero me ganaste." / "Eso no es un hollow común."
 - T115: "Ishida Uryū. Soy Quincy. Y odio a los Shinigami." / "Tú, el de la tele, también estás invitado. No sé qué eres, pero tienes una zanpakutō."
 

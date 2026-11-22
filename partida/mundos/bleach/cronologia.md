@@ -21,6 +21,7 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 03/07 19:57 · Ichigo y Uryū hacen retroceder al Menos Grande (canon). Facundo frenó su Cero antes.
 - 03/07 19:50 · Se abre la Garganta sobre Karakura: Menos Grande (canon).
 - 03/07 · Chad y Orihime despiertan sus poderes (canon). Urahara los rescata.
 - 03/07 16:25-19:50 · Competencia: Facundo 112, Uryū 94, Ichigo 71.
