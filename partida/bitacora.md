@@ -334,3 +334,4 @@ T332 · Bleach · Las Noches · "No, perdón, es nuestro." Barragan se ofende; S
 T333 · Bleach · Las Noches · "Qué aburridos." Ggio y Nirgge atacan a la vez.
 T334 · Bleach · Las Noches · Expansión de Dominio: Cuadrante del Retorno (primer uso). Revierte el ataque de Ggio y Nirgge una y otra vez.
 T335 · Bleach · Las Noches · Dentro del dominio: "Este es mi lugar..." Nadie de afuera siente nada. Ggio libera Tigre Estoque y ataca.
+T336 · Bleach · Las Noches · Deja inconscientes a Ggio y Nirgge, deshace el dominio. Barragan se levanta del trono. +600 EXP, +50 F.

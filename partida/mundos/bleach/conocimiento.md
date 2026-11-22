@@ -82,3 +82,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Barragan y su Fracción · T331 · Saben que Facundo petrificó a Aizen (rumor dentro de Las Noches + deducción al verlo junto a la estatua). No vieron sus poderes.
 - T334 · Todos los de la cúpula (Barragan y su Fracción, capitanes, Gin, Tōsen, el grupo de Ichigo) vieron levantarse una barrera negra que encerró a Facundo con Ggio y Nirgge. No vieron el interior. Nadie en Bleach conoce las Expansiones de Dominio: lo explican como un kidō de barrera desconocido.
 - Ggio Vega y Nirgge Parduoc · T334 · Adentro: vieron el reloj y sintieron que sus ataques se deshacían. Ggio sabe que "no es kidō".
+- T336 · Todos ven caer a Ggio y Nirgge inconscientes cuando la barrera se deshace, con Facundo intacto. Nadie sintió nada de adentro.

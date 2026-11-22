@@ -16,3 +16,4 @@ QUÉ SABE DE FACUNDO: que petrificó a Aizen (lo deduce al verlo armado junto a 
 QUÉ PODERES DE FACUNDO VIO: ninguno todavía (llegó después de la pelea con Kenpachi).
 ESTADO: activo, en la cúpula con su Fracción.
 - T332 · Facundo le niega la estatua ("es nuestro"). Se ofende: "En Hueco Mundo no hay nada que sea 'nuestro'. Todo es mío." Manda a Ggio y Nirgge por la piedra y por Facundo, "de rodillas". Ignora a Kenpachi.
+- T336 · Ve caer a Ggio y Nirgge inconscientes al deshacerse la barrera, sin haber sentido nada de adentro. Se levanta del trono por primera vez. Furioso; la Senescencia corroe la cúpula.

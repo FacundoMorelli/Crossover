@@ -1,13 +1,13 @@
 {
-  "turno": 335,
+  "turno": 336,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
-  "hora": "22:25 (Karakura)",
+  "hora": "22:26 (Karakura)",
   "edad": 18,
   "nivel": 23,
-  "exp": 158710,
+  "exp": 159310,
   "exp_siguiente_nivel": 160000,
-  "fragmentos": 172667,
+  "fragmentos": 172717,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -36,7 +36,7 @@
     "energia": 235,
     "control": 234
   },
-  "energia_actual_pct": 82,
+  "energia_actual_pct": 80,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -90,7 +90,7 @@
           "Declarado por el jugador (T335): nadie de afuera puede sentir lo que pasa adentro del dominio (ni reiatsu, ni sonido, ni ningún sentido de energía)."
         ],
         "usos": [
-          "T334 · 19/09 · cúpula de Las Noches · contra Ggio Vega y Nirgge Parduoc. Primer uso."
+          "T334 · 19/09 · cúpula de Las Noches · contra Ggio Vega y Nirgge Parduoc. Primer uso. Deshecho en T336 tras dejar inconscientes a los dos."
         ]
       },
       "marcas_activas": [],
@@ -745,6 +745,20 @@
       "turno": 330,
       "fragmentos": 150,
       "exp": 1800
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Ggio Vega, Fracción de Barragan (liberado, Tigre Estoque; inconsciente)",
+      "turno": 336,
+      "fragmentos": 25,
+      "exp": 300
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Nirgge Parduoc, Fracción de Barragan (inconsciente)",
+      "turno": 336,
+      "fragmentos": 25,
+      "exp": 300
     }
   ],
   "viaje": {
