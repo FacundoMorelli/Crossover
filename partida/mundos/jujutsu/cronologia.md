@@ -38,3 +38,6 @@
 
 ## LO QUE CAMBIÓ
 (nada todavía)
+
+## LO QUE PASÓ
+- 23:22 · Sukuna expande Santuario Malévolo sin barrera contra Mahoraga (canon, sin cambios). Facundo lo presencia desde Miyamasu-zaka.

@@ -1,13 +1,13 @@
 {
-  "turno": 2,
+  "turno": 3,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:17",
+  "hora": "23:22",
   "edad": 18,
   "nivel": 1,
-  "exp": 30,
+  "exp": 120,
   "exp_siguiente_nivel": 1000,
-  "fragmentos": 21,
+  "fragmentos": 24,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -103,6 +103,27 @@
       "mundo": "jujutsu",
       "quien": "humano transfigurado (obra de Mahito)",
       "turno": 2,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (pierna doblada)",
+      "turno": 3,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (pareja, 1)",
+      "turno": 3,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (pareja, vestido de enfermera)",
+      "turno": 3,
       "fragmentos": 1,
       "exp": 30
     }
