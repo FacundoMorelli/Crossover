@@ -249,3 +249,4 @@ T247 · Dragon Ball · 09:27 · Kase al hombro. Vegeta pide una última pelea an
 T248 · Dragon Ball · 09:30 · Dende: Piccolo y Krilin siguen de piedra. Karin, Roshi, Bulma.
 T249 · Dragon Ball · 10:15 · En el risco: Piccolo y Krilin de piedra. Grieta en el tobillo de Krilin.
 T250 · Dragon Ball · 10:16 · Marca I de la Manecilla Inversa sobre la estatua de Krilin.
+T251 · Dragon Ball · 10:30 · Marca II a Piccolo. Busca a Dabura: no está en la Tierra. Círculo con símbolos en la nave.
