@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuji Itadori · T23 · Nanami, al despertar, llamó a Facundo por su nombre delante de Yuji: ahora Yuji sabe que se llama Facundo y que Nanami lo conoce de la estación.
 - Mahito · Lo vio en persona (T10-T13, desde el túnel). Escuchó su nombre y que lo mandó Yuji. Escuchó que Megumi vive y está con Yuji en el centro.
 - Kento Nanami · Lo vio en persona (T10, 23:45, hall sur de la estación): joven de pelo blanco y azul, ojos de distinto color, cicatriz, gato en el hombro, dos espadas. Le salvó el lado ciego.
 - Kento Nanami · T11 · sabe su nombre, "Facundo" (él se lo dijo), y que dice venir de parte de Itadori. Lo vio cortar a cinco transfigurados en segundos.
@@ -12,6 +13,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Yuji Itadori · T23 · vio a Facundo marcar a Nanami con un IV brillante. Ya sabe que esos números son una técnica de Facundo; no sabe qué hacen.
 - Mahito · T21 · vivió la activación de la Marca II: el número se apagó y volvió a quedar congelado exactamente como antes, sin que Facundo lo tocara. Deduce que el número 'guarda' algo.
 - Mahito · T20 · sintió desde adentro del hielo que Facundo lo tocó y le dejó una marca (número II, brillante, visible con energía maldita). No sabe qué hace.
 - Mahito · T19 · Facundo lo congeló entero con Escarcha Lunar (estatua de hielo). Mahito está consciente adentro.

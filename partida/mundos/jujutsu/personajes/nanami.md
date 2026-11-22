@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: confianza incipiente; lo trata como a un joven al que no quiere ver morir.
 ENCUENTROS:
+- T23 · 23:57-23:58 · Facundo llega corriendo, lo marca (Marca IV) y, con Yuji, lo estabiliza: torniquete con la manga del sobretodo en el brazo izquierdo, vía aérea libre, piernas en alto. Nanami despierta. Pregunta por Fushiguro y por Mahito.
 - T22 · 23:56 · Facundo lo ve desde el borde de la estación: llegó a la losa de Megumi y se desplomó; Yuji grita su nombre.
 - T16 · 23:49 · Facundo le pide que vaya con Yuji y se planta entre Mahito y la escalera. Nanami le avisa que solo Itadori puede dañar el alma de Mahito, le ordena sobrevivir y sube la escalera rota hacia el norte.
 - T13 · 23:48 · Mahito sale del túnel. Nanami se pone en guardia.
@@ -15,10 +16,11 @@ ENCUENTROS:
 - T10 · 23:45 · Facundo salta y corta al transfigurado de tres brazos que le caía por el lado ciego. Nanami le pregunta quién es.
 - T9 · 23:44 · entrada sur de la estación de Shibuya, en ruinas · Facundo lo ve pelear contra transfigurados. Nanami todavía no lo vio.
 DIÁLOGOS CLAVE:
+- T23: "Itadori-kun... no grite. Todavía no estoy muerto." / "Facundo-kun. ¿Y Mahito?"
 - T16: "Sus cortes no llegan a su alma. Solo Itadori-kun puede hacer eso." / "Facundo-kun. Lo que haga a partir de ahora, hágalo para sobrevivir. No es un consejo."
 - T12: "Bien. Eso es... bien." / "Itadori-kun no debería estar solo ahora mismo."
 - T11: "¿Itadori-kun? ¿Está consciente? ¿Es él... o es el otro?"
 - T10: "Gracias. Ahora, ¿quién es usted?"
 QUÉ SABE DE FACUNDO: su aspecto, que pelea con dos espadas de fuego y hielo (T10), su nombre Facundo y que dice venir de parte de Itadori (T11).
 QUÉ PODERES DE FACUNDO VIO: las espadas Rift (corte quemado) y Echo (corte congelado), T10.
-ESTADO: llegó a la losa con Yuji y Megumi y se desplomó. Vivo. Al límite.
+ESTADO: consciente, estabilizado en el suelo junto a la losa. Quemaduras graves. No puede pelear. Vivo.

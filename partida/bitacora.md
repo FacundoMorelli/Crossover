@@ -21,3 +21,4 @@ T19 · Jujutsu · 23:51 · Corta a tres transfigurados (+90 EXP, +3 F). Congela 
 T20 · Jujutsu · 23:55 · Marca II sobre Mahito congelado. Descansa 4 min. Mahito rompe el hielo.
 T21 · Jujutsu · 23:55 · Activa la Marca II: Mahito vuelve a quedar congelado al instante. Marca consumida.
 T22 · Jujutsu · 23:56 · Marca III sobre Mahito congelado. Sube al borde. Ve a Nanami desplomado junto a Yuji y Megumi; Yuji grita.
+T23 · Jujutsu · 23:58 · Marca IV sobre Nanami. Con Yuji lo estabiliza; Nanami despierta.
