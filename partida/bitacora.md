@@ -389,3 +389,4 @@ T387 · One Piece · Loguetown · Armería: Zoro consigue Kitetsu y Yubashiri. I
 T388 · One Piece · Loguetown · Caminan con Zoro. Buggy toma la plaza para ejecutar a Luffy.
 T389 · One Piece · Loguetown · Ejecución frustrada por el rayo. Smoker atrapa a Luffy en la calle y reconoce a Facundo.
 T390 · One Piece · Loguetown · "Solo tengo una fruta." Dragon detiene a Smoker; el viento lleva a los demás al puerto. Facundo queda.
+T391 · One Piece · Loguetown · Pregunta quién es al encapuchado; respuesta vaga; desaparece. Smoker va por Facundo.
