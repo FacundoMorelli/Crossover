@@ -10,7 +10,7 @@ ENCUENTROS:
 - T250 · día 4 10:16 · Facundo marca su estatua con la Manecilla Inversa (Marca I).
 - T249 · día 4 10:15 · Facundo lo ve de piedra en el risco. Grieta fina en el tobillo.
 DIÁLOGOS CLAVE:
-- T258: "¡¿Cuatro días?! ¡¿Un año?! ¡¿Un monstruo con dulces?!" / "¿Y la 18? ¿Y Marron? ¿Están bien?"
+- T258: "¡¿Cuatro días?! ¡¿Un monstruo con dulces?!" / "¿Y la 18? ¿Y Marron? ¿Están bien?"
 - T257: "¿Eh? ¿Eh? ¡¿Qué pasó?! ¡¿Dónde están todos?!" / "¡Ay, mi tobillo!"
 QUÉ SABE DE FACUNDO: (T258) se llama Facundo; mató a Dabura y a Babidi; domó a Buu y destruyó su parte mala (él se lo contó). Lo vio en Forma Cenit.
 ESTADO: libre, de carne (T257); tobillo dolorido (la grieta).
