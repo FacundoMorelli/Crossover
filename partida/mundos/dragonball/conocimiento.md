@@ -1,6 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
-- Roshi · T262 · sintió el ki de Vegeta peleando esta mañana en el norte (el de Facundo no, por el Velo; deduce que peleaba con él por lo que contó Krilin), lo de Ciudad Satán por TV, y lo de Dabura por Krilin.
+- Roshi · T262 · sintió el ki de Vegeta peleando ayer (día 3) a la mañana en el norte contra algo que no sentía; deduce que era Facundo (pregunta, no afirma), lo de Ciudad Satán por TV, y lo de Dabura por Krilin.
 - Piccolo, Krilin · T259 · Facundo les dijo que Goku volvió al Otro Mundo y que la 18 y Marron están bien.
 - Piccolo, Krilin · T258 · su nombre; que mató a Dabura (por eso volvieron), a Babidi; el trato de Buu; la separación y destrucción del Buu malo (resumen de Facundo).
 - Dende, Mr. Popo · desde T177 · vieron desde el templo todo lo que hizo Facundo en la Tierra (Kami vigila el planeta).
