@@ -1,5 +1,5 @@
 {
-  "turno": 127,
+  "turno": 128,
   "mundo_actual": "bleach",
   "fecha_local": "7 de julio (año del canon, ~2001)",
   "hora": "23:21",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 76,
+  "energia_actual_pct": 72,
   "eclipse": {
     "maestria": 40,
     "partes_desbloqueadas": [
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 42,
+      "maestria": 43,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -275,6 +275,13 @@
       "mision": "Que Renji Abarai te reconozca, con sus palabras, como alguien digno de cuidar a Rukia.",
       "dificultad": "MEDIA",
       "emitida": "T121"
+    },
+    {
+      "poder": "Senbonzakura y poder de Shinigami de Byakuya Kuchiki (incluido el Bankai)",
+      "mundo": "bleach",
+      "mision": "Que Byakuya Kuchiki envaine su espada frente a ti por decisión propia.",
+      "dificultad": "MUY ALTA",
+      "emitida": "T128"
     }
   ],
   "misiones_de_copia_rechazadas": [],

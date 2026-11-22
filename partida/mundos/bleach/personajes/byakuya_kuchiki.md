@@ -1,12 +1,13 @@
 NOMBRE: Byakuya Kuchiki
 AFILIACIÓN: 6.º Escuadrón; líder del clan Kuchiki; hermano adoptivo de Rukia
 RANGO: capitán
-PODER VISTO POR FACUNDO: ninguno (Tasación: Senbonzakura, Paso Flash, kidō)
+PODER VISTO POR FACUNDO: Paso Flash, esgrima; Senbonzakura liberada (la hoja se deshace en mil pétalos-cuchillas) (T128)
 EDAD EN ESTE MOMENTO DEL CANON: adulto (siglos)
 FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de capitán.
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
-RELACIÓN CON FACUNDO: lo considera un estorbo que debe eliminar; le picó el orgullo.
+RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T128 · 23:21 · Su tajo choca contra Sakaime cargada de masa: el brazo se le dobla hacia atrás, la espada rebota. El contraataque de Facundo le corta el haori, la bufanda (Ginpaku Kazahana no Uginu) y un tajo fino en el brazo izquierdo. Retrocede con Paso Flash a veinte metros. Con los ojos fijos en el suelo, libera Senbonzakura.
 - T127 · 23:21 · Ve el asfalto hundirse bajo Facundo cuando carga Sakaime de masa. Ataca con Paso Flash sin liberar, directo a la garganta.
 - T126 · 23:21 · Con los ojos cerrados, a punto de decir 'Senbonzakura', Facundo lo intercambia con Ichigo (Boogie Woogie). Aparece frente al ataque de Zabimaru de Renji; lo desvía contra el asfalto. La liberación se corta otra vez. Abre los ojos: por primera vez muestra enojo.
 - T125 · 23:20 · Abre los ojos, enrojecidos. Mira a Ichigo y a Facundo.
@@ -15,6 +16,7 @@ ENCUENTROS:
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T128: "Esa bufanda vale más que la vida de diez humanos como tú." / "Chire, Senbonzakura."
 - T126: "...Renji." / (a Facundo) "Dos veces. Me interrumpiste dos veces."
 - T125: "Renji. Termina con el muchacho de pelo naranja. Del otro me encargo yo."
 - T123: "...Un truco de luz. Te arrepentirás de esto."
