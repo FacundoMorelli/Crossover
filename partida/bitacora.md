@@ -415,3 +415,4 @@ T413 · Shingeki · sótano · Erwin llega vivo al sótano. MISIÓN DE MUNDO CUM
 T414 · Shingeki · sótano · Leen los libros de Grisha. Erwin pregunta si viene del otro lado del mar.
 T415 · Shingeki · sótano · "Se podría decir que sí." Erwin le ofrece un lugar en la Legión.
 T416 · Shingeki · sótano · Le da la mano a Erwin. Se queda unos días. Hange quiere estudiarlo; Eren pregunta por el mar.
+T417 · Shingeki · sótano · Le describe el mar a Eren. Armin pregunta por el agua de fuego y lo demás.
