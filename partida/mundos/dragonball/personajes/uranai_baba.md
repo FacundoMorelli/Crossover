@@ -7,6 +7,7 @@ FÍSICO: anciana diminuta, sombrero de bruja violeta, nariz larga, sobre una bol
 PERSONALIDAD Y FORMA DE HABLAR: gruñona, puntual, interesada; habla con fastidio.
 RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
+- T209 · 00:00 · Se lleva a Goku.
 - T208 · 23:58 · Llega al páramo a buscar a Goku.
 DIÁLOGOS CLAVE:
 - T208: "¡Goku! Se terminó tu tiempo. ¡Y no me hagas esperar, que tengo sueño!"

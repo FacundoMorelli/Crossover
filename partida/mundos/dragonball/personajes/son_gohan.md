@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo negro corto, ropa de pelea violeta tipo Piccolo, rasguños.
 PERSONALIDAD: amable, estudioso, oxidado en pelea.
 ENCUENTROS:
+- T209 · 00:01 · Invita a Facundo a pasar la noche en el Monte Paoz.
 - T208 · 20:10-23:58 · Mira el entrenamiento con Goten en brazos.
 - T203 · 20:00 · Vuelve con Goku y Goten.
 - T198 · 15:00-17:52 · Mira el entrenamiento; hace una ronda con su padre y queda agotado. Se va con Goku al Monte Paoz.
@@ -14,5 +15,6 @@ ENCUENTROS:
 
 ESTADO: frente a la nave, recuperado por Kibito.
 DIÁLOGOS CLAVE:
+- T209: "Si no tienes dónde dormir... la casa es chica, pero mamá siempre cocina de más."
 - T196: "¡Papá! ¿Qué pasó acá? ¡Parece que cayó un meteorito!"
 - T180: "¡¿Mató a Babidi de un golpe?!"

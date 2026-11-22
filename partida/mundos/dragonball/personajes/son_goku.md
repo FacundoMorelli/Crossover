@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: confía en él (le encargó cuidar a Vegeta y a Buu, T207). amigo y rival; lo admira y le encanta pelear con él.
 ENCUENTROS:
+- T209 · 00:00 · Facundo le da la mano. Se va con Uranai Baba al Otro Mundo.
 - T208 · 20:10-23:58 · Entrena con Facundo hasta la medianoche (SSJ, SSJ2, un rato de SSJ3). Llega Baba. Se despide.
 - T207 · 20:09 · Facundo promete cuidar a Vegeta y a Buu. Goku agradece y propone seguir entrenando.
 - T206 · 20:08 · Le pide a Facundo que cuide que Vegeta y Buu no se maten cuando él ya no esté.
@@ -32,7 +33,7 @@ ENCUENTROS:
 - T175 · 12:20 · Vence a Yakon (explota de tanta energía) en el nivel 2. Sale de la nave detrás de Vegeta.
 
 QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
-ESTADO: frente a la nave de Babidi.
+ESTADO: en el Otro Mundo (desde 00:00 del día siguiente al Torneo). Antes: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
 - T208: "Fue el mejor último día que podía tener." / "¡Si alguna vez te mueres, búscame allá arriba! ¡Seguimos!"
 - T207: "¡Gracias! Eres un buen tipo, ¿sabes?" / "¡Bueno! ¡Todavía me quedan casi cuatro horas! ¿Seguimos?"
