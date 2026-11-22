@@ -8,3 +8,4 @@ DIÁLOGOS CLAVE:
 ESTADO: activo.
 - T327 · Pide la estatua para estudiarla.
 - DIÁLOGO T327: "Esa estatua irá a mi laboratorio, por supuesto."
+- T328 · Protesta porque la estatua va con Byakuya.

@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Byakuya, Kenpachi, Unohana, Isane, Mayuri, Gin, Tōsen, Ichigo, Rukia, Orihime, Chad · T328 · Facundo dijo: si rompen la estatua, Aizen muere; mientras él viva, Aizen sigue petrificado donde esté. (Deducción posible: si Facundo muere, Aizen se libera.)
 - Tōsen, Gin · T323 · Facundo actúa por sus amigos; dice que no es quién para juzgar el bien y el mal.
 - Gin · T321 · Facundo sabe que Gin quería matar a Aizen (por Rangiku). Gin se sorprende una vez y lo deja pasar.
 - Aizen, Gin, Tōsen · T320 · Facundo dijo que 'estuvo de viaje'.

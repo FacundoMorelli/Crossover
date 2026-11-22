@@ -53,3 +53,5 @@ QUÉ PODERES DE FACUNDO VIO: shikai de Sakaime (línea) (T121); Destello Solar d
 ESTADO: volvió a la Sociedad de Almas con Rukia. Herido en el brazo. Bufanda cortada.
 - T326 · Llega a Hueco Mundo por una Garganta con otros capitanes. Mira la estatua de Aizen. Mira a Facundo.
 - T327 · "Un mes. No es tanto." / "El Gotei se hará cargo de Aizen, de Ichimaru y de Tōsen. Entrégalos."
+- T328 · Recibe la estatua de Aizen; la sostiene con una red de pétalos de Senbonzakura.
+- DIÁLOGO T328: "Entendido. Nadie la tocará."
