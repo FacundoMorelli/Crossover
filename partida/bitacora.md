@@ -293,3 +293,4 @@ T291 · Jujutsu · 16:52 · Mira: los tres exorcizan la maldición. Yuji con el 
 T292 · Jujutsu · 16:54 · ECLIPSE: se traga el último dedo de Sukuna. Megumi respira.
 T293 · Jujutsu · 17:05 · 'Se llama Eclipse.' Yuji propone visitar la tumba de su abuelo.
 T294 · Jujutsu · 01/02 18:00 · Tumba de Wasuke; días con todos; Todo. Despedida en el portón. Listo para abrir la puerta.
+T295 · Bleach · 19/09 21:30 · VIAJE LIBRE: vuelve a Bleach, 24 días después. Siente al grupo en la tienda de Urahara; Orihime no está.

@@ -13,3 +13,6 @@ DON DE MUNDO: Zanpakutō Sakaime (ver sistema.json).
 
 ## ESTADO AL IRSE (26/08, 22:30)
 - Rukia en Karakura, entera, con el equipo de avanzada. Aizen en Hueco Mundo sin Hōgyoku (lo tiene Facundo en el inventario). Ulquiorra sabe quién es Facundo. Facundo: 'colaborador bajo observación' del Gotei. Prometió volver en unas semanas. Lo recuerdan todos los de Karakura y la Sociedad de Almas.
+
+## AL VOLVER (19/09, 21:30, T295)
+- Pasaron 24 días. Orihime secuestrada (17/09). Ichigo, Uryū y Chad por partir a Hueco Mundo esta noche desde la tienda de Urahara. Aizen sin Hōgyoku: Arrancar imperfectos. Facundo no sabe nada de esto hasta enterarse.

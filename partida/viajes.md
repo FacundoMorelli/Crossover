@@ -47,3 +47,4 @@
 - Jujutsu Kaisen: se fue el 05/11/2018 22:55. VUELVE el 17/01/2019 20:10 (73 días: 64 en Bleach + 9 en Dragon Ball). El año dentro de la Habitación del Tiempo no cuenta para los relojes.
 - Bleach: se fue el 26/08 22:30; corre (82 días al volver a Jujutsu).
 - Dragon Ball: se fue el día 9 del año 774, 19:05; corre desde T276. Prometió volver (Buu, Kame House).
+- (T295) Jujutsu: segunda salida 01/02/2019 18:05; corre. Bleach: VUELVE el 19/09 21:30 (24 días después: 9 en Dragon Ball + 15 en Jujutsu).

@@ -51,3 +51,10 @@
 - 26-28/06 · Entrenamientos de Facundo con Ichigo en el río. Uryū observa.
 - 24/06 · Facundo y Rukia pactan con Urahara; 25/06 Rukia se entera de todo y acepta.
 - 23/06 20:40 · Llega Facundo con Kase detrás del hospital abandonado.
+
+## MIENTRAS FACUNDO NO ESTABA (27/08 – 19/09) — simulado al volver (T295)
+- ~01/09 · Ataque no autorizado de Grimmjow y su fracción a Karakura (canon). CAMBIO: Arrancar imperfectos (sin Hōgyoku), más inestables. El equipo de avanzada los repele; Ichigo cae ante Grimmjow.
+- Septiembre · Ichigo entrena con los Vizard (Hirako) para dominar su hollow interior (canon). Rukia y Renji entrenan con Urahara. Orihime entrena en la Sociedad de Almas.
+- 17/09 · Ulquiorra intercepta a Orihime en el Dangai y se la lleva a Hueco Mundo (canon). CAMBIO: Aizen la quiere para intentar reconstruir un Hōgyoku con su rechazo de fenómenos, y como cebo para Facundo.
+- 18/09 · Yamamoto prohíbe el rescate; prepara la defensa de Karakura (canon).
+- 19/09 noche · Ichigo, Uryū y Chad en la tienda de Urahara; Urahara está por abrir la Garganta hacia Hueco Mundo (canon).

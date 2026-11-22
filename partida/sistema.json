@@ -1,8 +1,8 @@
 {
-  "turno": 294,
-  "mundo_actual": "jujutsu",
-  "fecha_local": "01/02/2019",
-  "hora": "18:00",
+  "turno": 295,
+  "mundo_actual": "bleach",
+  "fecha_local": "19/09",
+  "hora": "21:30",
   "edad": 18,
   "nivel": 22,
   "exp": 144810,
@@ -731,13 +731,14 @@
         "dias_transcurridos_al_salir": 5,
         "corre_desde": "T86 al ritmo de Facundo",
         "regreso": "17/01/2019 20:10 (T276): 73 días después de irse (64 en Bleach + 9 en Dragon Ball)",
-        "segunda_salida": "01/02/2019 ~18:00 (T294, pendiente de cruzar); estadía de 15 días"
+        "segunda_salida": "01/02/2019 18:05; corre desde T295"
       },
       "bleach": {
         "llegada": "23/06",
         "salida": "26/08 22:30",
         "dias_transcurridos_al_salir": 64,
-        "corre_desde": "T174 al ritmo de Facundo"
+        "corre_desde": "T174 al ritmo de Facundo",
+        "regreso": "19/09 21:30 (T295): 24 días después de irse (9 en Dragon Ball + 15 en Jujutsu)"
       },
       "dragonball": {
         "llegada": "Año 774, día del 25.º Torneo, mediodía",
@@ -845,9 +846,9 @@
       "Bolsa grande de golosinas variadas": 2
     },
     "stock_rotativo": {
-      "Herramienta maldita menor: talismán de barrera (bloquea maldiciones débiles 1 hora)": 20,
-      "Anteojos con lentes que ven energía maldita (para no hechiceros)": 15,
-      "Abrigo de invierno negro (Tokio)": 2
+      "Gigai simple (cuerpo artificial, sin supresión)": 40,
+      "Píldoras de alma (Gikongan) x3": 6,
+      "Capa de ocultamiento de reiatsu (de la tienda de Urahara)": 25
     },
     "ultimo_hito_de_catalogo": 20
   },
@@ -905,6 +906,7 @@
     "buu_malo": "T222: Facundo cortó con la Transfiguración Ociosa el hilo de alma entre el Buu gordo y el Buu malo. El Buu malo (flaco, gris, mudo, pura maldad) es ahora un ser separado; no puede volver a entrar en el Buu gordo por la vía del alma, pero SÍ puede comerlo con su rayo de dulce (absorción física) y volverse Super Buu. Poder: comparable al Buu gordo, más agresivo. Odia a quien lo separó. Regenera.",
     "habitacion_tiempo": "T246: salieron 09:25 del día 4. Vegeta agotó sus dos días. Facundo tiene un día más disponible.",
     "dabura": "Dabura sigue vivo, libre del control de Babidi desde T180. Volvió al Mundo de los Demonios por la nave/portal de Babidi (día 1, tarde). Mientras viva, Krilin y Piccolo siguen de piedra en el risco del desierto. Las estatuas siguen enteras.",
-    "jujutsu_mientras_no_estaba": "06/11/2018-17/01/2019 (simulado al volver, T276): canon con cambios. Tengen revela a Kenjaku; reglas del Juego del Sacrificio. Yaga ejecutado. Maki arrasa el clan Zen'in (Mai muere; Naoya muere y vuelve como maldición; Maki lo mata en Sakurajima). Juego del Sacrificio (nov-dic): Yuji y Megumi en Tokio n.º1 (Higuruma, Hakari, Kashimo, Takaba); Yuta en Sendai; NOBARA ACTIVA (con sus dos ojos) participa en la colonia de Tokio n.º2 con Panda y Kusakabe. NANAMI VIVO: apoyo y protección de civiles en Tokio. Yuki muere contra Kenjaku; Tengen capturado. Sukuna toma el cuerpo de Megumi (dic) y mata a Yorozu (Tsumiki). 24/12: Gojo liberado; Gojo vs Sukuna: Gojo muere. Kashimo muere. Yuta mata a Kenjaku. Choso muere protegiendo a Yuji. Nanami pelea en Shinjuku: pierde el brazo izquierdo, vive. Nobara usa la Resonancia en el momento clave; Yuji separa a Sukuna de Megumi; Sukuna muere. Uraume muere. Megumi vivo, recuperándose, deprimido. Después: los altos mandos, diezmados, reorganizados (Gakuganji y otros); la orden contra Facundo quedó en un cajón (nadie la ejecuta, nadie la anuló). Hoy 17/01/2019: Shinjuku zona de exclusión en reconstrucción; Yuji va seguido al lugar donde murió Choso."
+    "jujutsu_mientras_no_estaba": "06/11/2018-17/01/2019 (simulado al volver, T276): canon con cambios. Tengen revela a Kenjaku; reglas del Juego del Sacrificio. Yaga ejecutado. Maki arrasa el clan Zen'in (Mai muere; Naoya muere y vuelve como maldición; Maki lo mata en Sakurajima). Juego del Sacrificio (nov-dic): Yuji y Megumi en Tokio n.º1 (Higuruma, Hakari, Kashimo, Takaba); Yuta en Sendai; NOBARA ACTIVA (con sus dos ojos) participa en la colonia de Tokio n.º2 con Panda y Kusakabe. NANAMI VIVO: apoyo y protección de civiles en Tokio. Yuki muere contra Kenjaku; Tengen capturado. Sukuna toma el cuerpo de Megumi (dic) y mata a Yorozu (Tsumiki). 24/12: Gojo liberado; Gojo vs Sukuna: Gojo muere. Kashimo muere. Yuta mata a Kenjaku. Choso muere protegiendo a Yuji. Nanami pelea en Shinjuku: pierde el brazo izquierdo, vive. Nobara usa la Resonancia en el momento clave; Yuji separa a Sukuna de Megumi; Sukuna muere. Uraume muere. Megumi vivo, recuperándose, deprimido. Después: los altos mandos, diezmados, reorganizados (Gakuganji y otros); la orden contra Facundo quedó en un cajón (nadie la ejecuta, nadie la anuló). Hoy 17/01/2019: Shinjuku zona de exclusión en reconstrucción; Yuji va seguido al lugar donde murió Choso.",
+    "bleach_mientras_no_estaba": "27/08-19/09 (simulado al volver, T295). Aizen, sin Hōgyoku, solo tiene Arrancar imperfectos (Ulquiorra, Yammy, Grimmjow y su fracción, menos estables que en el canon). Su objetivo: el Hōgyoku y Facundo. 01/09 aprox: ataque no autorizado de Grimmjow y su fracción a Karakura (canon): el equipo de avanzada los repele; Ichigo, golpeado por Grimmjow, entrena con los Vizard (Hirako) a dominar la máscara. Rukia y Renji entrenan. Orihime entrena en la Sociedad de Almas. 17/09: Ulquiorra intercepta a Orihime en el Dangai y se la lleva a Hueco Mundo (canon): Aizen cree que su rechazo de fenómenos puede reconstruir un Hōgyoku (o al menos la usa de cebo para Facundo). Yamamoto prohíbe el rescate y prepara la defensa de Karakura. 19/09 noche: Ichigo, Uryū y Chad en la tienda de Urahara; Urahara está por abrir la Garganta hacia Hueco Mundo (canon). Rukia y Renji llegarán después."
   }
 }

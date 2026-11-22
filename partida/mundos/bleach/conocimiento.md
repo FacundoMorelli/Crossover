@@ -49,6 +49,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- 19/09: sintió al llegar a Ichigo, Uryū, Chad, Urahara y Yoruichi en la tienda, tensos, y una presión como de grieta en el sótano; no siente a Orihime en Karakura (T295).
 - Plan de Ukitake: una reliquia de la casa Shihōin para detener el Sōkyoku; necesita días: Ukitake se lo dijo (T149).
 - Ukitake (capitán del 13.º) piensa que la ejecución es injusta y busca algo para detener el Sōkyoku: Kyōraku se lo dijo (T146).
 - Ejecución de Rukia en el Sōkyoku en veinte días; la pena parece desproporcionada: Kyōraku se lo dijo (T145).

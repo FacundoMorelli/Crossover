@@ -8,3 +8,4 @@ ENCUENTROS:
 - T116 · 03/07 · Despierta las Shun Shun Rikka protegiendo a Tatsuki en la escuela (canon). Facundo no estuvo presente.
 QUÉ SABE DE FACUNDO: lo vio en la tele.
 ESTADO: rescatada por Urahara.
+- ESTADO (19/09): secuestrada por Ulquiorra (17/09), en Hueco Mundo. Facundo no lo sabe aún.
