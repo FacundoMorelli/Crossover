@@ -1,8 +1,8 @@
 {
-  "turno": 68,
+  "turno": 69,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "11:22",
+  "hora": "11:23",
   "edad": 18,
   "nivel": 5,
   "exp": 9600,
@@ -54,7 +54,8 @@
         "Costo en energía proporcional al tiempo transcurrido desde que se marcó y al tamaño de lo marcado.",
         "Límite propio: no revierte el alma ni la muerte. Si lo marcado murió, no vuelve. El daño al alma no se revierte.",
         "Ofensiva: puede marcar a un enemigo y revertirlo a un estado anterior (ej.: antes de cargar una técnica, antes de curarse).",
-        "Forma superior: Expansión de Dominio 'Cuadrante del Retorno' se desbloquea en maestría 70."
+        "Forma superior: Expansión de Dominio 'Cuadrante del Retorno' se desbloquea en maestría 70.",
+        "Facundo puede disolver una Marca sin activarla, sin costo (T69)."
       ],
       "forma_superior": {
         "nombre": "Cuadrante del Retorno",
@@ -62,11 +63,6 @@
         "estado": "bloqueada"
       },
       "marcas_activas": [
-        {
-          "n": "I",
-          "sobre": "Megumi Fushiguro (estado grabado: muy herido, inconsciente, 23:36 del 31/10)",
-          "vence": "01/11/2018 23:36"
-        },
         {
           "n": "IV",
           "sobre": "Kento Nanami (estado grabado: desplomado, quemaduras graves, inconsciente, vivo, 23:57 del 31/10)",

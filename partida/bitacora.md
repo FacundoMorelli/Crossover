@@ -67,3 +67,4 @@ T65 · Jujutsu · 08:05 · Atrapa el oso sin lastimarlo. Yaga repite la pregunta
 T66 · Jujutsu · 08:07 · 'A los que no pueden protegerse solos'. Yaga lo acepta en la escuela. COPIA: Cadáveres Malditos (+500 EXP).
 T67 · Jujutsu · 08:09 · Agradece a Yaga, busca a Kase, va con Yuji. Camioneta a la escuela al mediodía.
 T68 · Jujutsu · 11:22 · Espera con Yuji. Megumi despierta y pregunta quién es y qué es la Marca.
+T69 · Jujutsu · 11:23 · Se presenta a Megumi y disuelve la Marca I.
