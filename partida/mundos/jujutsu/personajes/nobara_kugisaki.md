@@ -39,3 +39,5 @@ QUÉ PODERES DE FACUNDO VIO: Marea Lunar (T30).
 ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T281 · 17/01/2019 21:40 · Sale de los dormitorios con una bolsa de basura; ve a Facundo; la suelta y le grita.
 - DIÁLOGO T281: "¡¿TÚ?! ¡¿Setenta días sin un mensaje y apareces así, como si nada?!"
+- T282 · 21:42 · Facundo le pide perdón. Le pega en el brazo, lo abraza un segundo. Le cuenta de Megumi (encerrado) y Nanami (enfermería).
+- DIÁLOGO T282: "¡Lejos! ¡LEJOS! ...Idiota." / "Megumi no sale del cuarto. Nanami-san está en la enfermería con Shoko-san, por el brazo. ¿A quién quieres ver primero?"
