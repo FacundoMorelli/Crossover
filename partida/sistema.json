@@ -1,13 +1,13 @@
 {
-  "turno": 309,
+  "turno": 310,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
   "edad": 18,
-  "nivel": 22,
-  "exp": 144810,
-  "exp_siguiente_nivel": 145000,
-  "fragmentos": 171357,
+  "nivel": 23,
+  "exp": 146810,
+  "exp_siguiente_nivel": 160000,
+  "fragmentos": 171507,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -25,16 +25,16 @@
       "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
-  "puntos_de_stat_sin_asignar": 110,
+  "puntos_de_stat_sin_asignar": 115,
   "stats": {
-    "fuerza": 232,
-    "velocidad": 235,
-    "resistencia": 232,
-    "tecnica": 235,
-    "percepcion": 233,
-    "voluntad": 233,
-    "energia": 234,
-    "control": 233
+    "fuerza": 233,
+    "velocidad": 236,
+    "resistencia": 233,
+    "tecnica": 236,
+    "percepcion": 234,
+    "voluntad": 234,
+    "energia": 235,
+    "control": 234
   },
   "energia_actual_pct": 100,
   "eclipse": {
@@ -706,6 +706,13 @@
       "fragmentos": 25000,
       "exp": 5000,
       "nota": "Escala 150+ a la mitad por ser compañero."
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Nnoitra Gilga, 5.ª Espada (inconsciente de un golpe)",
+      "turno": 310,
+      "fragmentos": 150,
+      "exp": 2000
     }
   ],
   "viaje": {

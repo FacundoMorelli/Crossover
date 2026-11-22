@@ -13,4 +13,5 @@ QUÉ SABE DE FACUNDO: lo que Aizen dijo a las Espadas: pelo bicolor, gato, tiene
 - DIÁLOGO T308: "...¿Qué carajo es eso?" / "¡Jajaja! ¡Dijeron que no te tocara, nadie dijo que no pudiera divertirme!"
 - T309 · Su arma falla por milímetros sin que Facundo se mueva (Ultra Instinto). Paralizado; después furioso.
 - DIÁLOGO T309: "...No te moviste. ¡No te moviste, maldito!"
-ESTADO: activo.
+- T310 · Facundo le da un golpe en el mentón: el Hierro se quiebra, vuela contra el techo, inconsciente.
+ESTADO: inconsciente (T310).
