@@ -79,3 +79,5 @@ QUÉ SABE DE FACUNDO: su nombre, Facundo (lo escuchó de Nanami, T23); su aspect
 QUÉ PODERES DE FACUNDO VIO: la Marca de la Manecilla Inversa sobre Megumi (T8), sin saber qué hace.
 ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T276 · 17/01/2019 20:10 · Facundo siente su energía maldita a ~400 m, dentro de la zona de exclusión de Shinjuku. (Yuji no lo siente: Velo.)
+- T277 · 17/01/2019 20:16 · En Shinjuku, frente a una pared con flores secas y una lata de jugo (lugar donde murió Choso; Facundo no lo sabe). Más flaco, cicatriz nueva en la mejilla. Ve a Facundo y se queda congelado.
+- DIÁLOGO T277: "...¿Facundo?"
