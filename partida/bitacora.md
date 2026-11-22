@@ -332,3 +332,4 @@ T330 · Bleach · Las Noches · Simula la pelea: Kenpachi a dos manos (kendo); E
 T331 · Bleach · Las Noches · "Sí, está bien." Unohana cura a Kenpachi (quiere revancha). Isane revisa a Ichigo y Rukia. Mayuri se va a la torre de Szayel. Byakuya llevará a Gin y Tōsen. Llega Barragan con su Fracción, en su trono: exige la estatua de Aizen.
 T332 · Bleach · Las Noches · "No, perdón, es nuestro." Barragan se ofende; Senescencia en el suelo. Kenpachi lo reta. Ggio y Nirgge avanzan.
 T333 · Bleach · Las Noches · "Qué aburridos." Ggio y Nirgge atacan a la vez.
+T334 · Bleach · Las Noches · Expansión de Dominio: Cuadrante del Retorno (primer uso). Revierte el ataque de Ggio y Nirgge una y otra vez.
