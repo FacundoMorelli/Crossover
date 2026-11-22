@@ -1,8 +1,8 @@
 {
-  "turno": 397,
-  "mundo_actual": "onepiece",
-  "fecha_local": "Día 9 (Grand Line, Cabo Gemelo)",
-  "hora": "16:05",
+  "turno": 398,
+  "mundo_actual": "shingeki",
+  "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
+  "hora": "10:40",
   "edad": 18,
   "nivel": 24,
   "exp": 175690,
@@ -28,6 +28,11 @@
       "moneda": "berries",
       "cantidad": 1000000,
       "cambio": "1 Fragmento = 12.000 berries"
+    },
+    "shingeki": {
+      "moneda": "monedas de la Corona (Paradis)",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 100 monedas de plata (fijado T398)"
     }
   },
   "puntos_de_stat_sin_asignar": 120,
@@ -179,6 +184,25 @@
         "nombre": "Despertar",
         "desbloqueo": 70,
         "estado": "bloqueado"
+      }
+    },
+    "shingeki": {
+      "nombre": "Titán de Ceniza",
+      "tipo": "Titán propio (Don de Mundo), fuera de los Nueve",
+      "maestria": 30,
+      "reglas": [
+        "Se transforma a voluntad, sin herirse y sin necesidad de un objetivo claro. Titán de 17 m, piel gris con grietas que brillan blanco y azul como brasas.",
+        "Transformaciones parciales: un brazo, piernas, una armadura de titán sobre el cuerpo humano.",
+        "Endurecimiento propio.",
+        "Muda: puede salir de la nuca y dejar el cuerpo de titán peleando solo, siguiendo su última orden, durante unos 10 minutos en maestría 30 (crece con la maestría).",
+        "Regeneración rápida, también en forma humana.",
+        "Sin las desventajas de su mundo: sin maldición de Ymir (13 años), no se hereda al morir, no está conectado a los Caminos: el Fundador no lo controla y nadie ve sus recuerdos. No convierte en titán puro a nadie.",
+        "Forma superior (maestría 70): Ceniza — el cuerpo de titán se deshace en una nube de ceniza ardiente que Facundo controla."
+      ],
+      "forma_superior": {
+        "nombre": "Ceniza",
+        "desbloqueo": 70,
+        "estado": "bloqueada"
       }
     }
   },
@@ -853,7 +877,8 @@
       "jujutsu",
       "bleach",
       "dragonball",
-      "onepiece"
+      "onepiece",
+      "shingeki"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -863,12 +888,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "onepiece",
-      "mision": "Que Villa Cocoyasi quede libre de Arlong sin que muera nadie de la aldea.",
-      "recompensa": "8.000 EXP · 200 Fragmentos",
+      "mundo": "shingeki",
+      "mision": "Que Erwin Smith llegue vivo al sótano de los Jaeger.",
+      "recompensa": "10.000 EXP · 300 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T369)"
+      "estado": "activa"
     },
     "relojes": {
       "jujutsu": {
@@ -896,6 +921,11 @@
       },
       "onepiece": {
         "llegada": "Día 1, 14:10, Islas Conomi (Arlong Park, cap. ~71)",
+        "corre": "al ritmo de Facundo",
+        "salida": "Día 9 16:07 (Going Merry, rumbo a Whisky Peak); corre desde T398"
+      },
+      "shingeki": {
+        "llegada": "Año 850, Operación de recuperación de Wall Maria, 10:40 (cap. ~77)",
         "corre": "al ritmo de Facundo"
       }
     },
@@ -998,9 +1028,9 @@
       "Bolsa grande de golosinas variadas": 2
     },
     "stock_rotativo": {
-      "Mapa marino del East Blue (actualizado)": 3,
-      "Log Pose": 20,
-      "Bolsa de mandarinas de Cocoyasi x10 (para el camino)": 1
+      "Equipo de maniobras tridimensionales (completo, con gas y hojas)": 30,
+      "Uniforme de la Legión de Reconocimiento": 2,
+      "Bengalas de señales (verde, roja, negra, amarilla) x10": 1
     },
     "ultimo_hito_de_catalogo": 20
   },
@@ -1036,7 +1066,8 @@
       "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa",
       "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'.",
       "dragonball": "Revelado T214: 'El muchacho del gato'. Pendiente: Vegeta, 'el insecto de dos colores'.",
-      "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'."
+      "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'.",
+      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
@@ -1076,7 +1107,10 @@
     "momento_del_canon_onepiece": "Arlong Park, cap. ~71. Nami se llevó el Going Merry y está en Arlong Park. Zoro, Usopp y Johnny llegaron a la isla: Zoro capturado por los gyojin y llevado a Arlong Park; Usopp noqueado por Nojiko, despierta en su casa. Luffy, Sanji y Yosaku todavía en el mar, a punto de someter a Momoo (llegan en unas horas). Nami tiene casi 100.000.000 de berries enterrados bajo el mandarinal. Nezumi (comprado por Arlong) vendrá a confiscarlos mañana. Luego: Nami 'mata' a Usopp, Nojiko herida por Nezumi, Nami se apuñala el tatuaje, pide ayuda a Luffy, pelea en Arlong Park.",
     "lugar_de_llegada_onepiece": "Loma con mandarinos silvestres entre Villa Cocoyasi y la costa de Arlong Park, junto al camino. A unos 800 m: dos gyojin bajan al pueblo a cobrar el tributo de un aldeano atrasado.",
     "onepiece_nezumi_informe": "Nezumi informa al Cuartel General (vía la 16.ª sucursal) en ~2 días: Arlong derrotado por Monkey D. Luffy (canon) y un segundo pirata de la misma tripulación, 'pelo blanco y azul, ojos de dos colores, un gato enorme, varias Frutas del Diablo (vuela, controla el agua, mueve cosas sin tocarlas)'. Exagera para cubrirse. Recompensas: Luffy 30.000.000 (canon); Facundo: cartel probable en el arco de Loguetown, monto a fijar por el motor (alto para East Blue). Apodo pendiente en los diarios.",
-    "onepiece_loguetown": "Loguetown, Día 8. Canon: Zoro a la armería de Ipponmatsu (Tashigi, Kitetsu, Yubashiri); Sanji mercado; Usopp munición; Nami ropa; Luffy a la plataforma de ejecución (~13:00 Buggy y Alvida lo capturan, ejecución ~14:30, rayo); Smoker y Tashigi en la base; Dragon en la ciudad, encapuchado. Tormenta grande por la tarde. CAMBIO posible: Smoker ya vio el cartel de Facundo (26M) y lo busca también."
+    "onepiece_loguetown": "Loguetown, Día 8. Canon: Zoro a la armería de Ipponmatsu (Tashigi, Kitetsu, Yubashiri); Sanji mercado; Usopp munición; Nami ropa; Luffy a la plataforma de ejecución (~13:00 Buggy y Alvida lo capturan, ejecución ~14:30, rayo); Smoker y Tashigi en la base; Dragon en la ciudad, encapuchado. Tormenta grande por la tarde. CAMBIO posible: Smoker ya vio el cartel de Facundo (26M) y lo busca también.",
+    "shingeki_tirada": "T398: mundo al azar entre 8 no visitados: shingeki. Momento: tirada 0.554 -> cap. ~77 de 139: El regreso a Shiganshina.",
+    "momento_del_canon_shingeki": "Cap. ~77. Shiganshina. Eren selló la puerta exterior. Reiner (Acorazado) inmovilizado por las lanzas relámpago de Hange en la ciudad. El Bestia (Zeke) lanzó un barril sobre la muralla: Bertholdt está sobre la muralla hablando con Armin. En minutos (cap. 78) Bertholdt se transforma en el Colosal sobre la ciudad: la explosión arrasa la escuadra de Hange; Moblit muere salvando a Hange. Después: Bestia lanza rocas (cap. 79), Erwin herido de muerte en la carga suicida (cap. 80); Levi vs Bestia; Pieck rescata a Zeke; Armin se carboniza; Eren saca a Bertholdt; Levi elige a Armin para el suero; Erwin muere (cap. 84).",
+    "lugar_de_llegada_shingeki": "Tejado de una casa de piedra del distrito de Shiganshina, a ~400 m de la muralla interior. Se ve: el Acorazado caído y humeante en la calle, la Legión en los tejados, la muralla con dos figuras arriba (Armin y Bertholdt), del otro lado el Bestia en el campo. Nadie los ve llegar."
   },
   "recompensa_onepiece": {
     "monto": 26000000,

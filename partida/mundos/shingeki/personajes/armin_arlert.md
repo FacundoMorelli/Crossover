@@ -1,0 +1,10 @@
+NOMBRE: Armin Arlert
+AFILIACIÓN: Legión (104.ª)
+EDAD EN ESTE MOMENTO DEL CANON: 15
+FÍSICO: Rubio, pelo corto.
+PERSONALIDAD Y FORMA DE HABLAR: Estratega, inseguro y valiente.
+RELACIÓN CON FACUNDO: no lo conoce.
+ENCUENTROS:
+QUÉ SABE DE FACUNDO: nada
+QUÉ PODERES DE FACUNDO VIO: ninguno
+ESTADO: activo

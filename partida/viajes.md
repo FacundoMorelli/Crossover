@@ -63,3 +63,17 @@
 - RECOMPENSA: 8.000 EXP · 200 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T369 · Día 1 15:48. Luffy vence a Arlong. +8.000 EXP, +200 F. Mundos completados: 4 (Jujutsu, Bleach, Dragon Ball, One Piece).
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 5 | Shingeki no Kyojin | Año 850, 10:40 | El regreso a Shiganshina (cap. ~77) | Que Erwin Smith llegue vivo al sótano de los Jaeger. | ACTIVA |
+
+## RELOJES (actualizado T398)
+- One Piece: salida Día 9 16:07, en el Going Merry rumbo a Whisky Peak. Prometió volver. Corre.
+- Bleach: corre desde 28/09. Jujutsu: corre desde 01/02/2019. Dragon Ball: corre desde día 9 año 774.
+- Shingeki: llegada año 850, 10:40, Shiganshina.
+
+### Shingeki no Kyojin
+- MISIÓN: Que Erwin Smith llegue vivo al sótano de los Jaeger.
+- RECOMPENSA: 10.000 EXP · 300 Fragmentos
+- VENCE: nunca · CAMBIADA: no

@@ -25,3 +25,4 @@
 - Día 8 15:00 · Zarpan de Loguetown en la tormenta. Ceremonia del barril (canon), con Facundo.
 - Día 9 · Montaña Reversa; Laboon; Crocus; Mr. 9 y Miss Wednesday noqueados por Luffy (canon).
 - Día 9 · Promesa de Luffy a Laboon (canon). Log Pose de Crocus. Mr. 9 y Miss Wednesday a bordo rumbo a Whisky Peak.
+- Día 9 16:07 · Facundo baja a la bodega del Going Merry y se va (puerta). Nadie lo ve cruzar. Prometió volver.

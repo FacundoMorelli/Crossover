@@ -1,0 +1,17 @@
+# CRONOLOGÍA — SHINGEKI (desde la llegada)
+## Lo que está pasando (10:40)
+- Shiganshina: Acorazado inmovilizado; Bertholdt habla con Armin sobre la muralla.
+## Lo que viene (canon, si nadie interviene)
+- Cap. 78: Bertholdt se transforma en el Colosal sobre la ciudad. Explosión: muere la escuadra de Hange; Moblit salva a Hange y muere. Eren vs Acorazado.
+- Cap. 79: el Bestia tira rocas trituradas: casas destruidas, reclutas muertos.
+- Cap. 80: carga suicida de Erwin y los reclutas; Erwin herido de muerte; Levi mutila al Bestia.
+- Cap. 81: Pieck (Carguero) rescata a Zeke. Armin se deja carbonizar; Eren saca a Bertholdt.
+- Cap. 82-83: la 104.ª y Hange derriban al Acorazado; Zeke y Pieck se llevan a Reiner.
+- Cap. 83-84: Levi elige a Armin para el suero; Armin devora a Bertholdt; Erwin muere.
+- Cap. 85-90: sótano, verdad de Marley; Hange comandante; un año después, el mar.
+## PUNTOS DE QUIEBRE
+- La explosión del Colosal (escuadra de Hange, Moblit).
+- La carga de Erwin; el suero (Erwin o Armin).
+- Zeke y Reiner escapan (si no, Marley pierde dos titanes más).
+## EN PARALELO
+- Marley; Ymir con los guerreros (devorada por Porco más adelante).
