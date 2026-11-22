@@ -16,5 +16,5 @@ COPIAS: Proporción 7:3 + Horas Extra (Nanami). Transfiguración Ociosa (Mahito)
 MISIONES DE COPIA ACTIVAS: ninguna.
 KASE: en el hombro.
 OTROS MUNDOS: ninguno visitado aún. Completados: 1/3.
-HILOS ABIERTOS: Duelo pendiente con Maki cuando se recupere. Yaga llega a las 8:00. Alojamiento: Yuji pedirá a Yaga un cuarto en el dormitorio de la escuela de Tokio. Marca IV sobre Nanami (estado: desplomado, vivo; vence 01/11 23:57). Marca III usada en T27. Marcas libres: 2.
+HILOS ABIERTOS: Duelo pendiente con Maki cuando se recupere. Cuarto en el dormitorio de la escuela (aceptado por Yaga). Altos mandos querrán saber quién es (Yaga se encarga). Marca IV sobre Nanami (vence 01/11 23:57). Marcas libres: 2. Puerta abierta.
 OBJETIVO: —
