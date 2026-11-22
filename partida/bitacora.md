@@ -399,3 +399,4 @@ T397 · One Piece · Going Merry · Avisa que se va y que vuelve. La tripulació
 T398 · Shingeki · Shiganshina · Se va del Going Merry. Nuevo mundo: Shingeki (Regreso a Shiganshina). Don: Titán de Ceniza. Misión: Erwin vivo al sótano.
 T399 · Shingeki · Shiganshina · Grita "¿Dónde estoy?". La escuadra de Hange lo ve y sospecha. Bertholdt salta para transformarse.
 T400 · Shingeki · Shiganshina · Atrapa a Bertholdt en el aire, amordazado con soga, antes de que se transforme.
+T401 · Shingeki · Shiganshina · Hange y Armin le explican dónde está y quién es Bertholdt. El Bestia lanza rocas.
