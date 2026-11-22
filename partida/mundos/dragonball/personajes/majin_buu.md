@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T202 · 18:58 · Facundo le dice que no es malo y le da dos bolsas más. Se calma, lo abraza y le pide a Vegeta que juegue bonito la próxima.
 - T201 · 18:57 · Su rayo convierte en chocolate una roca (Boogie Woogie). Facundo le dice que eso tampoco tiene que hacerlo. Se queja: Vegeta lo rompió; muerde el chocolate, enojado.
 - T200 · 18:44-18:56 · "Juega" con Vegeta: recibe todo riendo y se regenera. El Final Flash le vuela medio cuerpo; se regenera furioso, echando vapor. Apunta la antena a Vegeta para convertirlo en chocolate. (No lo considera matar.)
 - T199 · 18:43 · Recibe dos bolsas grandes de golosinas; se las come en segundos. Mira a Vegeta y le pregunta si quiere jugar.
@@ -19,6 +20,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T202: "¡Del gato bueno! ¡Del gato no es malo!" / "Pelo de fuego, la próxima juega bonito, ¿sí?"
 - T201: "¡Pero pelo de fuego rompió a Buu! ¡Rompió a Buu MUCHAS veces!" / "...Del gato también es malo con Buu?"
 - T200: "¡Jijiji! ¡Cosquillas!" / "Pelo de fuego no juega bonito... ¡Buu está ENOJADO!" / "¡Buu te convierte en chocolate!"
 - T199: "¡Del gato es el mejor!" / "¿Pelo de fuego quiere jugar con Buu?"

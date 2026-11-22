@@ -200,3 +200,4 @@ T198 · Dragon Ball · 18:41 · Simula: entrena con Goku toda la tarde (Cenit ma
 T199 · Dragon Ball · 18:43 · Le da golosinas a Buu (4 F). Buu le propone a Vegeta 'jugar'.
 T200 · Dragon Ball · 18:56 · Mira a Vegeta pelear con Buu. Final Flash; Buu enojado apunta la antena a Vegeta.
 T201 · Dragon Ball · 18:57 · Boogie Woogie: salva a Vegeta del rayo de Buu (roca de chocolate). Buu, dolido.
+T202 · Dragon Ball · 18:58 · Más dulces a Buu (4 F). Buu perdona. Vegeta se va.
