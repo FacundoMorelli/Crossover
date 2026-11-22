@@ -1,8 +1,8 @@
 {
-  "turno": 125,
+  "turno": 126,
   "mundo_actual": "bleach",
   "fecha_local": "7 de julio (año del canon, ~2001)",
-  "hora": "23:20",
+  "hora": "23:21",
   "edad": 18,
   "nivel": 7,
   "exp": 15810,
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 90,
+  "energia_actual_pct": 87,
   "eclipse": {
     "maestria": 40,
     "partes_desbloqueadas": [

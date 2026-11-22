@@ -11,6 +11,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Byakuya, Renji, Ichigo, Rukia · T126 · Boogie Woogie (Facundo cambió de lugar a Byakuya e Ichigo con una palmada).
 - Byakuya, Renji, Rukia · T123 · Destello Solar (luz cegadora del ojo rojo de Facundo).
 - Renji Abarai y Byakuya Kuchiki · T121 · vieron el shikai de Sakaime: una línea que Zabimaru no atraviesa. Lo informarán a la Sociedad de Almas si vuelven.
 - Rukia, Uryū, Ichigo · T118 · vieron a Facundo frenar el Cero de un Menos Grande con un cuadrado de líneas plateadas.

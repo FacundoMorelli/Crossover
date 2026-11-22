@@ -7,17 +7,19 @@ FÍSICO: pelo rojo largo atado en una coleta alta, tatuajes negros en la frente 
 PERSONALIDAD Y FORMA DE HABLAR: impulsivo, bravucón, leal; amigo de la infancia de Rukia.
 RELACIÓN CON FACUNDO: acaba de verlo.
 ENCUENTROS:
+- T126 · 23:21 · Su Zabimaru, lanzada contra Ichigo, casi le da a su capitán (cambiado de lugar). Byakuya la desvía. Renji queda pálido.
 - T125 · 23:20 · Choca con Ichigo; retrocede dos metros, sorprendido por la fuerza.
 - T124 · 23:20 · Ve llegar a Ichigo, reconoce que tiene la espada de Rukia.
 - T123 · 23:19 · Encandilado por el Destello Solar, de reojo.
 - T121 · 23:19 · Facundo se presenta y traza una línea entre él y Rukia. Renji ataca la línea con Zabimaru: rebota. Se enfurece.
 - T120 · 07/07 23:18 · Calle cerca de la casa Kurosaki. Derrotó a Uryū con Zabimaru. Tiene a Rukia acorralada contra un poste. Facundo llega.
 DIÁLOGOS CLAVE:
+- T126: "¡¿C-capitán?! ¡¿Cómo...?!"
 - T125: "¡¿Qué fuerza es esa?!"
 - T124: "Así que tú eres el que le robó los poderes a Rukia."
 - T123: "¡Mis ojos! ¡¿Qué fue eso?!"
 - T121: "¡¿Qué demonios es esto?! ¡Ruge, Zabimaru!"
 - T120: "¿Y tú quién eres? ¿Otro humano que juega a los héroes?"
 QUÉ SABE DE FACUNDO: su nombre; lo ve llegar; no siente su reiatsu; vio su shikai (T121).
-QUÉ PODERES DE FACUNDO VIO: shikai de Sakaime (línea) (T121); Destello Solar desde el ojo rojo (T123).
+QUÉ PODERES DE FACUNDO VIO: shikai de Sakaime (línea) (T121); Destello Solar desde el ojo rojo (T123); cambio de lugar al aplaudir (Boogie Woogie) (T126).
 ESTADO: en la calle con Zabimaru liberado.
