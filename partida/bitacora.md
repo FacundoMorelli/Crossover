@@ -269,3 +269,4 @@ T267 · Dragon Ball · 13:17 · 'Vine a conocerte.' Karin propone la prueba del 
 T268 · Dragon Ball · 13:18 · Le quita el jarrón a Karin. Agua común. Regalo: jarrón y una semilla.
 T269 · Dragon Ball · 13:40 · Se despide de Karin. Buu lo encuentra: cena esta noche en la mansión.
 T270 · Dragon Ball · 13:43 · Truco de Bee. Acepta la cena a las 20:00 en la mansión.
+T271 · Dragon Ball · 20:15 · Cena en la mansión. Satán le propone ser su discípulo oficial. Videl: no.

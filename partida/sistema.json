@@ -1,8 +1,8 @@
 {
-  "turno": 270,
+  "turno": 271,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
-  "hora": "13:43",
+  "hora": "20:15",
   "edad": 18,
   "nivel": 22,
   "exp": 139810,
@@ -36,7 +36,7 @@
     "energia": 234,
     "control": 233
   },
-  "energia_actual_pct": 70,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

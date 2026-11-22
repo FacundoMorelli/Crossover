@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T271 · 20:15 · En la cena le propone ser su discípulo oficial: especial de TV y exhibición en el estadio en una semana, y mucho dinero.
 - T235 · 21:00 · En la fiesta, en vivo, dice que su discípulo se queda un tiempo y después se va de viaje.
 - T237 · 00:00 · Termina la fiesta cantando en el escenario.
 - T235 · 20:00-21:30 · Fiesta: discurso épico, cuenta el Puñetazo Dinamita cuatro veces. Brinda por "su humilde discípulo".
@@ -25,6 +26,7 @@ ENCUENTROS:
 - T185 · 14:06 · Facundo pide hablar con él. Acepta temblando, haciéndose el valiente; se lo lleva a un costado del ring.
 - T184 · 14:05 · Isla Papaya, en el ring después de la final (ganó a la 18, pactado). Facundo aterriza con Majin Buu. Se paraliza del miedo, intenta posar.
 DIÁLOGOS CLAVE:
+- T271: "¡Cien millones de zeni! ¡Y tu cara en las cajas de cereal!" / "¡El campeón y su discípulo! ¡El mundo lo necesita!"
 - T232: "¡Mi humilde discípulo! ¡Aprendió de su maestro la humildad!" / "¡Esta noche, fiesta en la mansión! ¡Y tú eres el invitado de honor!"
 - T231: "¡Un monstruo horrible, gris, malvado! ¡Y PUM! ¡Puñetazo Dinamita! ¡Hasta el mar lo mandé!"
 - T230: "¡La prensa! ¡¿Qué les digo?! ¡¿Que fue un meteorito?! ¡¿Que fue mi Puñetazo Dinamita?!"

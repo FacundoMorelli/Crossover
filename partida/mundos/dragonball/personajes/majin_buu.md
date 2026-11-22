@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T271 · 20:00 · Cena; dejó "un poquito" para Facundo (media torta).
 - T270 · 13:43 · Facundo mira el truco de Bee y acepta la cena. Buu se va a avisar.
 - T269 · 13:40 · Encuentra a Facundo en la base de la Torre de Karin gritando 'DEL GATOOO'. Lo invita a cenar en la mansión esta noche (de parte de Mr. Satán). Quiere mostrarle un truco de Bee.
 - T237 · 06:45 · En el desayuno le da a Facundo un caramelo "para el camino".
