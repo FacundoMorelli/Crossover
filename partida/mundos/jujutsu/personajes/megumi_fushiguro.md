@@ -7,6 +7,7 @@ FÍSICO: pelo negro en punta, ojos azul oscuro, uniforme escolar.
 PERSONALIDAD Y FORMA DE HABLAR: serio, reservado, cortante, pragmático.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T7 · 23:35 · Yuji corre hacia él. Respira débil.
 - T5 · 23:33 · zona arrasada · Facundo lo ve inconsciente sobre una losa (aún no se acercó).
 DIÁLOGOS CLAVE: —
 QUÉ SABE DE FACUNDO: nada.

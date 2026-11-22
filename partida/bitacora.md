@@ -5,3 +5,4 @@ T3 · Jujutsu · 23:22 · Corta a tres transfigurados más (+90 EXP, +3 F). Va h
 T4 · Jujutsu · 23:26 · Se cubre detrás de un edificio de Miyamasu-zaka. Pasa la onda de escombros. Sukuna destruye a Mahoraga con una flecha de fuego. Silencio. El dominio termina.
 T5 · Jujutsu · 23:33 · Cruza el campo arrasado hacia el centro. Encuentra a Yuji Itadori de rodillas, con las marcas de Sukuna desapareciendo. Tasación automática. Yuji no lo vio.
 T6 · Jujutsu · 23:34 · Se acerca despacio a Yuji y lo saluda. Yuji se pone de pie, pregunta si está herido y si vio lo que pasó.
+T7 · Jujutsu · 23:35 · Facundo dice que vio y que no sabe dónde está. Yuji: es Shibuya, fue su culpa. Yuji ve a Megumi y corre; Megumi respira.
