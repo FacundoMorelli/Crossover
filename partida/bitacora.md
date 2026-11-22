@@ -184,3 +184,4 @@ T182 · Dragon Ball · 13:43 · Le da golosinas a Buu. Trato aceptado.
 T183 · Dragon Ball · 13:44 · Buu promete no matar a nadie (meñique). Shin advierte.
 T184 · Dragon Ball · 14:05 · Meñique con Buu. Vuelan a Isla Papaya. Aterrizan frente a Mr. Satán en vivo.
 T185 · Dragon Ball · 14:06 · Pide hablar con Mr. Satán. Acepta, temblando.
+T186 · Dragon Ball · 14:08 · Mr. Satán acepta; le da chocolates a Buu. Amigos.

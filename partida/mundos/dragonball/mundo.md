@@ -9,3 +9,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T177 · La ráfaga de Majin Vegeta contra el público del torneo explota contra una línea de Sakaime en el desierto. (En el canon mataba a muchos espectadores.)
 - T180 · Facundo mata a Babidi. Buu queda libre sin amo. Vegeta libre de la M. Shin y Kibito protegidos en un Recinto.
 - T182 · Buu acepta un trato con Facundo: no matar a cambio de dulces diarios.
+- T186 · Buu y Mr. Satán se hacen amigos el mismo día del despertar (en el canon tardaba días y antes Buu mataba a millones).
