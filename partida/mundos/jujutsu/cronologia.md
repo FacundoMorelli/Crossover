@@ -42,3 +42,4 @@
 ## LO QUE PASÓ
 - 23:22 · Sukuna expande Santuario Malévolo sin barrera contra Mahoraga (canon, sin cambios). Facundo lo presencia desde Miyamasu-zaka.
 - 23:25 · Sukuna destruye a Mahoraga con la flecha de fuego (canon). El dominio termina. Zona de ~200 m arrasada.
+- ≈23:30 · Sukuna devuelve el control a Yuji (canon). Megumi inconsciente cerca, sobre una losa.

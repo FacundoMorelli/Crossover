@@ -6,8 +6,9 @@ EDAD EN ESTE MOMENTO DEL CANON: 15
 FÍSICO: pelo negro en punta, ojos azul oscuro, uniforme escolar.
 PERSONALIDAD Y FORMA DE HABLAR: serio, reservado, cortante, pragmático.
 RELACIÓN CON FACUNDO: no se conocen.
-ENCUENTROS: —
+ENCUENTROS:
+- T5 · 23:33 · zona arrasada · Facundo lo ve inconsciente sobre una losa (aún no se acercó).
 DIÁLOGOS CLAVE: —
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
-ESTADO: muy herido; acaba de iniciar el ritual de Mahoraga contra Shigemo.
+ESTADO: inconsciente, muy herido, sobre una losa en la zona arrasada. Mahoraga destruido por Sukuna.
