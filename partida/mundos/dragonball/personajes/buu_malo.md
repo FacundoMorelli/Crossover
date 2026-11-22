@@ -7,6 +7,7 @@ FÍSICO: alto y flaco, piel gris oscura, ojos rojos sobre negro, antena en la fr
 PERSONALIDAD Y FORMA DE HABLAR: casi no habla; gruñe, sonríe con crueldad. Pura maldad.
 RELACIÓN CON FACUNDO: lo odia (lo cortó del cuerpo).
 ENCUENTROS:
+- T225 · 13:57 · Licht Regen destruye todas sus gotas dispersas. Queda solo el cuerpo principal; se regenera hasta el pecho, un brazo, media cara.
 - T224 · 13:56 · Su rayo convierte en chocolate la roca con la que Facundo se cambió. Recibe la flecha del Letzt Stil: le borra todo salvo las piernas y parte de la cadera; gotas grises dispersas por el jardín se arrastran para regenerarlo.
 - T223 · 13:55 · Ve al Buu gordo cambiar de lugar con una roca. Ve la Forma Cenit. Se ríe sin sonido y apunta la antena a Facundo.
 - T222 · 13:54 · Facundo lo separa del Buu gordo con la Transfiguración Ociosa. Se condensa como ser aparte, aterriza en el jardín y lo mira.

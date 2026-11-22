@@ -223,3 +223,4 @@ T221 · Dragon Ball · 13:53 · Kai Kai a la mansión de Mr. Satán. El vapor de
 T222 · Dragon Ball · 13:54 · Transfiguración Ociosa: separa al Buu malo del gordo. Buu malo suelto.
 T223 · Dragon Ball · 13:55 · Boogie Woogie al Buu gordo. Forma Cenit. El Buu malo le apunta la antena.
 T224 · Dragon Ball · 13:56 · Boogie Woogie (roca de chocolate). Letzt Stil + Cenit: flecha gigante, el Buu malo queda en piernas y gotas.
+T225 · Dragon Ball · 13:57 · Licht Regen: todas las gotas destruidas. Queda el cuerpo principal del Buu malo.

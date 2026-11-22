@@ -12,6 +12,7 @@
 - Goku · T178 · Facundo le pidió ayuda. Cree que salvó a la gente del torneo (deducción: la ráfaga iba hacia allá).
 - Vegeta, Goku · T177 · lo ven en el risco: joven de pelo blanco y azul con un gato; no sienten su ki (Velo).
 ## QUIÉN VIO QUÉ PODERES
+- Mr. Satán, Shin, Kibito, Buu malo · T225 · lluvia de miles de flechas de luz que borra cada gota sin tocar a nadie.
 - Mr. Satán, Shin, Kibito, Buu malo · T224 · Letzt Stil: alas de energía blanca, una cruz brillante, flecha gigante que abre un surco hasta el mar. (Lo interpretan como otra transformación.) Vecinos de Ciudad Satán ven el destello y el surco.
 - Mr. Satán, Shin, Kibito, Buu malo · T223 · Boogie Woogie (el Buu gordo cambia de lugar con una roca) y la Forma Cenit. Mr. Satán ve por primera vez la transformación.
 - Shin, Kibito, Mr. Satán, Buu malo · T222 · Facundo pone la mano en el pecho de Buu y el vapor se suelta como un ser aparte (Transfiguración Ociosa). Shin lo interpreta como una técnica que toca el alma.
