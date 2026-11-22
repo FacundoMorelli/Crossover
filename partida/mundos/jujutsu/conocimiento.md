@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Maki Zen'in · T61 · lo vio en persona; por el rumor del puesto lo asocia con 'el que congeló a Mahito'.
 - Shoko Ieiri · T52 · examinó sus ojos: daño por calor en el rojo, congelación en el azul, desde adentro. Deduce que su técnica le cuesta la vista.
 - Nobara y Yuji · T50 · Facundo les dijo que no es de ninguna escuela y que no sabe dónde está más allá de Tokio/Shibuya. Lo toman por un hechicero sin registro ('salvaje').
 - Yuji Itadori · T47 · cree que Facundo sabe de Sukuna porque lo vio con las marcas en el campo gris (T5, deducción de Yuji). Facundo le dijo que no fue su culpa.
@@ -51,6 +52,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Rumor del puesto de mando (madrugada 01/11): asistentes y alumnos de Kioto comentan que "un chico de pelo blanco y azul con un gato congeló a la maldición de las costuras y rompió su dominio con un fogonazo". Deformado: algunos dicen que lo mató. Lo escuchó Maki.
 - Yuji → Choso (madrugada 01/11, en el puesto de mando, por confianza): que Facundo lo ayudó contra Mahito, que congela y tiene una técnica de números, y que salvó a Nanami.
 - Yuji → Yaga (por teléfono, madrugada 01/11, para pedirle alojamiento): que Facundo es un hechicero sin escuela, que salvó a Nanami y a Megumi, que ayudó contra Mahito.
 (nada)
