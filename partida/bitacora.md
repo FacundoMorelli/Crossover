@@ -179,3 +179,4 @@ T177 · Dragon Ball · 13:06 · Línea de Sakaime: la ráfaga de Majin Vegeta ex
 T178 · Dragon Ball · 13:07 · Pide ayuda a Goku; Goku desvía un disparo y se lleva a Vegeta a pelear lejos.
 T179 · Dragon Ball · 13:40 · Observa Goku vs Vegeta. Despierta Majin Buu.
 T180 · Dragon Ball · 13:41 · Recinto para Shin y Kibito. Mata a Babidi. Le propone a Buu un trato de dulces.
+T181 · Dragon Ball · 13:42 · Propone a Buu dejar de matar por dulces diarios. Buu exige un dulce ya. Llegan Goku y Vegeta.

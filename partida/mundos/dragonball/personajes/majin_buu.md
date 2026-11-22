@@ -4,9 +4,11 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T181 · 13:42 · Facundo le propone: deja de querer matar gente y él le presenta a alguien que le dé muchos dulces todos los días. Buu lo piensa; pide un dulce ya mismo como prueba.
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T181: "¿Todos los días? ¿Muuuchos?" / "Buu no mata... si hay dulces. ¡Pero Buu quiere un dulce AHORA! ¡Si no, Buu se enoja!"
 - T180: "¡Babidi malo! ¡Babidi muerto! ¡Buu libre!" / "¿Dulces? ¡Buu ama los dulces! ¿Qué trato? ¡Dile a Buu!"
 - T179: "¡Buu! ¡Buu despierto! ¿Quién quiere jugar con Buu?"
 QUÉ SABE DE FACUNDO: nada.
