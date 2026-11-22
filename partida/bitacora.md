@@ -432,3 +432,4 @@ T430 · Shingeki · Shiganshina · Zeke explica los dos planes; Eren rechaza la 
 T431 · Shingeki · Shiganshina · Compra y saca una cámara de fotos y video (15 F).
 T432 · Shingeki · Shiganshina · Plan de grabar la vida en las murallas. Zeke: "Muéstrame."
 T433 · Shingeki · Shiganshina · Graba a Eren y la casa y lo muestra. Zeke ofrece ayudar a llevarlo al continente.
+T434 · Shingeki · Shiganshina · Volver a Trost. Erwin pregunta si puede llevar a todos.
