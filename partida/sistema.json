@@ -1,8 +1,8 @@
 {
-  "turno": 190,
+  "turno": 191,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:13",
+  "hora": "14:30",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
@@ -36,7 +36,7 @@
     "energia": 203,
     "control": 202
   },
-  "energia_actual_pct": 78,
+  "energia_actual_pct": 80,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [

@@ -1,18 +1,18 @@
-TURNO: 190 | MUNDO: Dragon Ball | Año 774 · día del 25.º Torneo | HORA: 14:13 | Lugar: Isla Papaya, ring del 25.º Torneo
+TURNO: 191 | MUNDO: Dragon Ball | Año 774 · día del 25.º Torneo | HORA: 14:30 | Lugar: páramo rocoso (lugar de entrenamiento de Goku)
 MOMENTO DEL CANON: Saga Majin Buu: Babidi (cap. ~448). Goku, Vegeta, Gohan, Shin y Kibito frente a la nave; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave, Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, autodestrucción de Vegeta.
-FACUNDO: 18 años · Nivel 11 · EXP 31.010/36.000 · 65 Fragmentos · 35 puntos sin asignar · 0 zeni · Energía 78% · Ojos: bien · STATS ~202 (Forma Cenit x3: ~606)
+FACUNDO: 18 años · Nivel 11 · EXP 31.010/36.000 · 65 Fragmentos · 35 puntos sin asignar · 0 zeni · Energía 80% · Ojos: bien · STATS ~202 (Forma Cenit x3: ~606)
 PARA ESTE MUNDO: salió en TV con Buu. Velo: mostró su ki base real a Goku y Vegeta. Ropa negra propia (sacó la del Seireitei).
 QUIÉN SABE QUÉ: Vegeta y Goku lo vieron en el risco (sin ki perceptible) y vieron la línea.
 MISIÓN DE MUNDO: Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. (activa) — completarla da VIAJE LIBRE (3/3).
 ÚLTIMOS 5 TURNOS:
+- T191: vuelan al páramo de Goku. Goku le pide que le muestre todo lo que tiene. Vegeta mira desde una roca.
 - T190: le recuerda a Buu la promesa; pregunta cómo comunicarse. Buu promete; no siente su ki, gritaría 'DEL GATOOO'. Mr. Satán le da la tarjeta con su teléfono. Goku: dejar un hilito de ki afuera para que lo encuentren.
 - T189: calma a Buu; acepta entrenar con Goku. Goku solo tiene hasta la medianoche (está muerto). Vegeta se suma para ver los 'trucos'.
 - T188: se presenta como Facundo; dice que están muy por encima y muestra su ki real (base). Goku: fuerte, como Vegeta al llegar a la Tierra; quiere entrenarlo. Vegeta: 'trucos sucios'.
 - T187: se acerca a Goku, le pide perdón y le pregunta dónde está. Goku se presenta: Isla Papaya, Torneo, la Tierra. Quiere pelear con él (misión de copia: Goku).
 - T186: le propone a Mr. Satán dar dulces a Buu a cambio de la fama de haberlo vencido y vuelto bueno. Mr. Satán acepta encantado y le da a Buu una caja de chocolates. Buu lo abraza: amigos.
 - T185: pide calma y hablar con Mr. Satán. Mr. Satán acepta, temblando; Videl se queda cerca. Buu espera sentado en el ring, con hambre.
-- T184: meñique con Buu. Vuela con él hasta Isla Papaya; Goku los sigue (Vegeta, de mala gana). Aterrizan en el ring frente a Mr. Satán, en vivo por TV. El público huye. Mr. Satán tiembla.
-PRESENTES EN ESCENA: Mr. Satán (en el ring, temblando). Majin Buu (a tu lado). Androide 18, Videl, Goten, Trunks (cerca del ring). Goku (en las gradas). Público huyendo. Cámaras de TV. Kase. (Shin, Kibito, Gohan, Dabura quedaron en el desierto; el Recinto se disuelve a los 10 min.)
+PRESENTES EN ESCENA: Goku (frente a Facundo, en base). Vegeta (en una roca, mirando). Kase. (Buu con Mr. Satán en Isla Papaya.)
 VÍNCULOS ACTIVOS: ninguno en este mundo.
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga). Quincy (Uryū). Shinsō (Gin). Aizen. Senbonzakura (Byakuya). Zabimaru (Renji). Todo Ichigo.
 DONES: Manecilla Inversa (Jujutsu). Sakaime (Bleach, maestría 50). Forma Cenit (Dragon Ball, maestría 30).

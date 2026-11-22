@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: curiosidad enorme; quiere pelear con él.
 ENCUENTROS:
+- T191 · 14:30 · Llegan al páramo. Goku se pone frente a Facundo en base y le pide que le muestre todo lo que tiene, sin guardarse nada.
 - T190 · 14:13 · Le explica a Facundo que si deja un poco de ki afuera, Buu lo puede encontrar.
 - T189 · 14:12 · Facundo acepta entrenar. Goku feliz; le cuenta que está muerto y solo tiene hasta la medianoche. Propone ir ya a un lugar vacío.
 - T188 · 14:11 · Facundo se presenta, dice que están muy por encima de él y muestra su ki real. Goku lo siente: fuerte, como Vegeta cuando llegó a la Tierra, pero lejos de ellos. Se entusiasma igual: quiere entrenarlo.
@@ -21,6 +22,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T191: "Primero, muéstrame lo que tienes. Todo. Sin guardarte nada, ¿sí?"
 - T190: "Si dejas un poquito de ki afuera, aunque sea un hilito, Buu te va a encontrar. Yo también."
 - T189: "¡Genial! Ah, pero tengo hasta la medianoche nomás. Estoy muerto, ¿sabes? Me dieron un día de permiso." / "¡Vamos ya! ¡Conozco un lugar!"
 - T188: "¡Facundo! ¡Ahora sí te siento! ¡Eres bastante fuerte! Como Vegeta cuando llegó a la Tierra." / "¡Con un poco de entrenamiento podrías subir muchísimo!"
