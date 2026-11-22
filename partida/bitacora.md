@@ -349,3 +349,4 @@ T347 · One Piece · Conomi · Paga 150.000 berries de tributo (cambió 20 F). K
 T348 · One Piece · Conomi · Paga lo que le falta al viejo Ito y le da el resto a Kaneshiro. Gyojin se van. Ito lo invita a pasar.
 T349 · One Piece · Conomi · Té con Ito. Le cuenta de Arlong, Gosa, el espadachín de pelo verde capturado y Nami. Le aconseja irse.
 T350 · One Piece · Conomi · Pregunta por otros piratas. Ito: carabela con cabeza de carnero en Arlong Park; bote en la costa norte. Mika vio a un chico de nariz larga en el mandarinal de Nojiko.
+T351 · One Piece · Conomi · Se despide de Ito y Mika con la mandarina. Sale al camino.
