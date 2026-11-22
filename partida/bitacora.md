@@ -390,3 +390,4 @@ T388 · One Piece · Loguetown · Caminan con Zoro. Buggy toma la plaza para eje
 T389 · One Piece · Loguetown · Ejecución frustrada por el rayo. Smoker atrapa a Luffy en la calle y reconoce a Facundo.
 T390 · One Piece · Loguetown · "Solo tengo una fruta." Dragon detiene a Smoker; el viento lleva a los demás al puerto. Facundo queda.
 T391 · One Piece · Loguetown · Pregunta quién es al encapuchado; respuesta vaga; desaparece. Smoker va por Facundo.
+T392 · One Piece · Going Merry · Teletransportación hasta Luffy. Zarpan en la tormenta. Ceremonia del barril: esperan el sueño de Facundo.

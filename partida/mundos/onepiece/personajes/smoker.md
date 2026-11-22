@@ -9,3 +9,4 @@ ENCUENTROS:
 - T389 · Día 8 · calle al puerto · aplasta a Luffy con la jutte; reconoce a Facundo por el cartel: "Ojos de Eclipse. Tú no te mueves."
 QUÉ SABE DE FACUNDO: el cartel (26M, informe de Nezumi: varias frutas).
 ESTADO: activo
+- T392 · Facundo desaparece frente a él diciendo "nos vemos, Smoker". Se queda solo bajo la lluvia.
