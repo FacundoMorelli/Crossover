@@ -1,8 +1,8 @@
 {
-  "turno": 434,
+  "turno": 435,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
-  "hora": "14:46",
+  "hora": "15:40",
   "edad": 18,
   "nivel": 25,
   "exp": 186890,
@@ -46,7 +46,7 @@
     "energia": 240,
     "control": 239
   },
-  "energia_actual_pct": 82,
+  "energia_actual_pct": 74,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

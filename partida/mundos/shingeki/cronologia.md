@@ -20,3 +20,4 @@
 - 11:45 · (T413) Erwin entra vivo al sótano de los Jaeger con Eren, Mikasa, Armin, Levi, Hange y Facundo. Tres libros y una fotografía (canon cap. 85, sin bajas).
 - 11:45-13:30 · (T414) Lectura de los libros de Grisha (canon cap. 85-88). Eren sabe que Zeke, preso arriba, es su medio hermano, y que le quedan ~8 años.
 - 13:42 · (T420) Facundo lleva a Erwin, Levi, Hange, Eren, Mikasa y Armin a la costa de Paradis. Ven el mar (canon: un año después, sin Erwin).
+- 15:40 · (T435) Toda la Legión y los cuatro prisioneros llegan a las afueras de Trost por la Teletransportación de Facundo (canon: llegaban con muchas bajas y días después). La frontera sigue sobre Shiganshina.
