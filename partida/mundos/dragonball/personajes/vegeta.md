@@ -1,13 +1,17 @@
 NOMBRE: Vegeta
 AFILIACIÓN: príncipe de los saiyajin; vive en la Corporación Cápsula
 RANGO: —
-PODER VISTO POR FACUNDO: ninguno
+PODER VISTO POR FACUNDO: su ki enorme (sentido); Super Saiyajin al salir (aura dorada)
 EDAD EN ESTE MOMENTO DEL CANON: 42
 FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul de combate y guantes/botas blancas.
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
-ENCUENTROS: —
-DIÁLOGOS CLAVE: —
+ENCUENTROS:
+- T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
+
+DIÁLOGOS CLAVE:
+- T175: "Kakarotto. Ahora sí vamos a pelear en serio."
+
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
-ESTADO: frente a la nave de Babidi, a punto de entrar.
+ESTADO: Majin Vegeta (controlado por Babidi a medias, por voluntad propia). Flotando sobre la nave, a punto de ir al torneo a matar gente para forzar a Goku a pelear.

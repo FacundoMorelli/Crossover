@@ -15,4 +15,5 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- 12:05-13:05 · Niveles de la nave (canon): Vegeta mata a Pui Pui; Goku vence a Yakon; Gohan vs Dabura. Babidi controla a Vegeta: Majin Vegeta sale volando de la nave.
 - Año 774, mediodía · Llega Facundo con Kase a un risco sobre el desierto donde está la nave de Babidi.
