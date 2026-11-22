@@ -121,3 +121,4 @@ T119 · Bleach · 20:02 · Observa: Ichigo y Uryū hacen retroceder al Menos. Ic
 T120 · Bleach · 07/07 23:18 · Simula días. Llegan Renji y Byakuya: Uryū caído, Rukia acorralada.
 T121 · Bleach · 23:19 · Se presenta y traza una línea entre Renji y Rukia. Zabimaru rebota. Byakuya desaparece del poste.
 T122 · Bleach · 23:19 · Bloquea la estocada de Byakuya. Byakuya empieza a liberar Senbonzakura.
+T123 · Bleach · 23:19 · Destello Solar a Byakuya: no llega a liberar Senbonzakura. Vuelve al poste, ciego.
