@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: más de un siglo (aspecto de adolescente; adulta por edad real — ver regla de romance: aspecto juvenil, NO opción romántica por prudencia).
 FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uniforme del instituto.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
-RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
+RELACIÓN CON FACUNDO: gratitud profunda y confianza; amistad.
 ENCUENTROS:
+- T165 · 10:54 · Llega hasta Facundo; él la saluda levantando la mano. Ella le pega un puñetazo en el hombro sano y después le agradece, como prometió en Karakura. Le cuenta que siente sus poderes volviendo. Dice que antes de decidir si vuelve a Karakura tiene que hablar con su hermano.
 - T160 · 10:41 · Aparece junto a Ichigo, a 30 m, donde estaba Byakuya.
 - T159 · 10:41 · Facundo la carga y huye; los seis rayos de luz de Aizen lo atrapan y ella cae al pasto.
 - T158 · 10:38 · Escucha el aviso de Isane: Aizen vivo y traidor. Se aferra al brazo de Facundo.
@@ -44,6 +45,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T165: "Eso por asustarme. Y esto..." / "Gracias. Te dije que te lo iba a agradecer cuando menos lo esperaras." / "No sé si vuelvo a Karakura. Primero tengo que hablar con nii-sama."
 - T160: "¡¿Ichigo?!"
 - T159: "¡Facundo!"
 - T157: "No, nii-sama. Esta vez no."

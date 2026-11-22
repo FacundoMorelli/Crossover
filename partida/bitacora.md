@@ -163,3 +163,4 @@ T161 · Bleach · 10:42 · Golpecito en la frente a Aizen: vuela 6 m. Gin abre l
 T162 · Bleach · 10:42 · Shinsō atraviesa el hombro de Aizen; rompe el Kurohitsugi. Facundo herido leve. Llegan Yoruichi y Soi Fon.
 T163 · Bleach · 10:50 · Aizen se va a Hueco Mundo sin el Hōgyoku. COPIA el poder de Aizen (+1.500 EXP). Yamamoto se vuelve hacia Facundo.
 T164 · Bleach · 10:52 · Pide perdón a Yamamoto. Sentencia de Rukia anulada. Perdonado por hoy.
+T165 · Bleach · 10:54 · Rukia le agradece. Decidirá si vuelve a Karakura tras hablar con Byakuya.
