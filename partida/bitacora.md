@@ -196,3 +196,4 @@ T194 · Dragon Ball · 14:46 · Goku trae semillas del ermitaño: recuperado al 
 T195 · Dragon Ball · 14:47 · Le muestra el Boogie Woogie a Goku (no era teletransportación).
 T196 · Dragon Ball · 14:50 · Llegan Shin, Kibito y Gohan. Shin advierte que dentro de Buu hay algo peor.
 T197 · Dragon Ball · 14:52 · Propone separar la parte mala de Buu. Shin: nadie sabe; si sale hay que destruirla al instante.
+T198 · Dragon Ball · 18:41 · Simula: entrena con Goku toda la tarde (Cenit maestría 40, Eclipse 47). Shin y Kibito vigilan a Buu. Goku y Gohan van al Monte Paoz. Buu llega gritando 'DEL GATOOO'; Vegeta en SSJ.

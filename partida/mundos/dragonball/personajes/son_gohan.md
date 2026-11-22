@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo negro corto, ropa de pelea violeta tipo Piccolo, rasguños.
 PERSONALIDAD: amable, estudioso, oxidado en pelea.
 ENCUENTROS:
+- T198 · 15:00-17:52 · Mira el entrenamiento; hace una ronda con su padre y queda agotado. Se va con Goku al Monte Paoz.
 - T196 · 14:50 · Llega con Shin. Saluda a su padre y mira a Facundo con curiosidad.
 - T180 · 13:41 · Ve todo desde la nave.
 - T175 · 12:40-13:00 · Pelea con Dabura en el nivel 3, parejo. Interrumpido cuando Vegeta sale.

@@ -15,6 +15,10 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- 18:41 · (T198) Majin Buu llega al páramo buscando a Facundo, con hambre. Vegeta se transforma en SSJ.
+- 17:52 · (T198) Goku se teletransporta con Gohan al Monte Paoz para ver a Milk y a Goten; promete volver a las 20:00.
+- 15:25 · (T198) Shin y Kibito se van a vigilar a Buu de lejos (mansión de Mr. Satán).
+- 15:00-17:50 · (T198) Entrenamiento de Facundo con Goku. Gohan hace una ronda con su padre y descubre lo oxidado que está. Vegeta entrena solo en SSJ2 sobre una meseta lejana.
 - 13:38 · Majin Buu despierta (canon), alimentado por la pelea Goku vs Vegeta.
 - 13:08-13:38 · Goku vs Majin Vegeta SSJ2 en la zona rocosa (canon).
 - 12:05-13:05 · Niveles de la nave (canon): Vegeta mata a Pui Pui; Goku vence a Yakon; Gohan vs Dabura. Babidi controla a Vegeta: Majin Vegeta sale volando de la nave.

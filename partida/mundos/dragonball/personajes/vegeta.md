@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T198 · 15:00-18:41 · Entrena solo en SSJ2 sobre una meseta lejana; no se acerca. Al llegar Buu, baja y se transforma en SSJ.
 - T197 · 14:52 · Escucha. Aprieta los puños.
 - T195 · 14:47 · Ve el Boogie Woogie de cerca.
 - T194 · 14:46 · Acepta una semilla de Goku sin decir nada. Mira a Facundo recuperarse.

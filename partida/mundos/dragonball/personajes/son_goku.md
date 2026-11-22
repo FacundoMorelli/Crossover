@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: amigo y rival; lo admira y le encanta pelear con él.
 ENCUENTROS:
+- T198 · 15:00-17:52 · Entrena con Facundo toda la tarde (en base, SSJ y SSJ2). Se sorprende de que use el Kamehameha y el Kaio-ken "igualito" que él. Se va con Gohan al Monte Paoz a ver a Milk y a Goten; promete volver a las 20:00.
 - T197 · 14:52 · Escucha a Shin. Se emociona.
 - T196 · 14:50 · Facundo le dice que no cree poder enseñarle y que de verdad no sabe dónde está. Goku lo deja pasar con una risa. Llegan Shin, Kibito y Gohan.
 - T195 · 14:47 · Había confundido el Boogie Woogie con teletransportación. Facundo se lo muestra cambiándose de lugar con él. Goku entiende que es distinto y quiere aprenderlo.

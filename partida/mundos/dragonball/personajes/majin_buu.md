@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T198 · 18:41 · Llega volando al páramo gritando "¡DEL GATOOO!". Tiene hambre; Mr. Satán está con la prensa.
 - T190 · 14:13 · Facundo le recuerda no lastimar ni matar a nadie y le pregunta cómo comunicarse. Buu promete otra vez; dice que no siente su ki y que lo buscaría gritando. Mr. Satán ofrece su teléfono.
 - T189 · 14:12 · Facundo le dice que están hablando. Buu se calma y vuelve con Mr. Satán.
 - T186 · 14:08 · Recibe una caja de chocolates de Mr. Satán. Lo abraza y lo levanta del piso. Decide que Mr. Satán es su amigo.
