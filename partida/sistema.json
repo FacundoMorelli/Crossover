@@ -1,5 +1,5 @@
 {
-  "turno": 310,
+  "turno": 311,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
@@ -218,14 +218,6 @@
     {
       "objeto": "Espada de Dabura (partida en dos)",
       "origen": "Mundo de los Demonios, T257"
-    },
-    {
-      "objeto": "Semilla del ermitaño (regalo de Karin)",
-      "origen": "dragonball, T268"
-    },
-    {
-      "objeto": "Jarrón del 'Agua Sagrada' (agua común; regalo de Karin)",
-      "origen": "dragonball, T268"
     },
     {
       "objeto": "Dibujo de Kase hecho por Marron (crayones)",
