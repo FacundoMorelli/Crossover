@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: acaba de verlo; curiosidad y desconfianza.
 ENCUENTROS:
+- T91 · 20:48-21:08 · Manda a Ichigo con su familia y lleva sola a Facundo a la tienda de Urahara.
 - T90 · 20:47 · Desconfía. Propone llevarlo a la tienda de Urahara para que 'alguien que sabe de cosas raras' lo vea.
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 

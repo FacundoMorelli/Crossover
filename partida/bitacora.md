@@ -89,3 +89,4 @@ T87 · Bleach · 20:43 · Entra al hospital por atrás. Ve a Kanonji hundir el b
 T88 · Bleach · 20:44 · Salta al hall en vivo y purifica al espíritu atado con Sakaime (konsō). Sale en TV.
 T89 · Bleach · 20:46 · Sale por atrás. Ichigo y Rukia lo alcanzan en el baldío.
 T90 · Bleach · 20:47 · Se presenta a Ichigo y Rukia. Rukia quiere llevarlo con Urahara.
+T91 · Bleach · 21:08 · Rukia lo lleva a la tienda de Urahara. Urahara no siente su reiatsu.
