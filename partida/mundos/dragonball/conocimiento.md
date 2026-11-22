@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- La 18 · T264 · que Facundo se va de viaje: lo vio en la TV (Mr. Satán en la fiesta, día 2).
 - Roshi · T263 · Facundo quiere usar su fuerza para proteger a los que quiere y seguir viajando.
 - Roshi · T262 · sintió el ki de Vegeta peleando ayer (día 3) a la mañana en el norte contra algo que no sentía; deduce que era Facundo (pregunta, no afirma), lo de Ciudad Satán por TV, y lo de Dabura por Krilin.
 - Piccolo, Krilin · T259 · Facundo les dijo que Goku volvió al Otro Mundo y que la 18 y Marron están bien.
