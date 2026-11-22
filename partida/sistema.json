@@ -1,5 +1,5 @@
 {
-  "turno": 137,
+  "turno": 138,
   "mundo_actual": "bleach",
   "fecha_local": "19 de julio (año del canon, ~2001)",
   "hora": "Sociedad de Almas · mediodía",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 90,
+  "energia_actual_pct": 84,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -291,6 +291,13 @@
       "mision": "Que Kisuke Urahara te cuente, sin que se lo pidas, por qué se fue de la Sociedad de Almas.",
       "dificultad": "ALTA",
       "emitida": "T134"
+    },
+    {
+      "poder": "Shinsō y poder de Shinigami de Gin Ichimaru (incluido el Bankai)",
+      "mundo": "bleach",
+      "mision": "Que Gin Ichimaru abra los ojos delante de ti.",
+      "dificultad": "ALTA",
+      "emitida": "T138"
     }
   ],
   "misiones_de_copia_rechazadas": [],

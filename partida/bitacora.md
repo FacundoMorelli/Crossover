@@ -136,3 +136,4 @@ T134 · Bleach · 18/07 21:30 · Corrección: no mostró Quincy. Simula 10 días
 T135 · Bleach · 19/07 · Cruza la Senkaimon. Rukongai Oeste. Cae Jidanbō frente a la Puerta Blanca.
 T136 · Bleach · 19/07 · Ichigo vence a Jidanbō; la puerta se levanta: aparece Gin Ichimaru.
 T137 · Bleach · 19/07 · Línea entre Gin y Jidanbō: salva el brazo del gigante. Gin libera Shinsō hacia Ichigo.
+T138 · Bleach · 19/07 · Boogie Woogie con Ichigo; recibe Shinsō con Sakaime y lo empuja 40 m. Misión de copia: Gin.
