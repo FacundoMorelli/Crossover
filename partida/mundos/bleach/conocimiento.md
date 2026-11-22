@@ -79,3 +79,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## T330 · Pelea con Kenpachi (vista por todos en la cúpula)
 - Byakuya, Unohana, Isane, Mayuri, Yachiru, Gin, Tōsen, Ichigo, Rukia, Orihime, Chad y Nel vieron que Facundo esquiva a Kenpachi sin parche, frena su corte a dos manos con una sola espada sin moverse y lo derrota con dos golpes. No usó el Eclipse. El Velo sigue mostrando reiatsu bajo: lo notan como una contradicción entre lo que sienten y lo que ven (Mayuri y Unohana, sobre todo).
+- Barragan y su Fracción · T331 · Saben que Facundo petrificó a Aizen (rumor dentro de Las Noches + deducción al verlo junto a la estatua). No vieron sus poderes.

@@ -1,8 +1,8 @@
 {
-  "turno": 330,
+  "turno": 331,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
-  "hora": "21:56 (Karakura)",
+  "hora": "22:24 (Karakura)",
   "edad": 18,
   "nivel": 23,
   "exp": 158710,
@@ -36,7 +36,7 @@
     "energia": 235,
     "control": 234
   },
-  "energia_actual_pct": 86,
+  "energia_actual_pct": 90,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -936,6 +936,7 @@
     "jujutsu_mientras_no_estaba": "06/11/2018-17/01/2019 (simulado al volver, T276): canon con cambios. Tengen revela a Kenjaku; reglas del Juego del Sacrificio. Yaga ejecutado. Maki arrasa el clan Zen'in (Mai muere; Naoya muere y vuelve como maldición; Maki lo mata en Sakurajima). Juego del Sacrificio (nov-dic): Yuji y Megumi en Tokio n.º1 (Higuruma, Hakari, Kashimo, Takaba); Yuta en Sendai; NOBARA ACTIVA (con sus dos ojos) participa en la colonia de Tokio n.º2 con Panda y Kusakabe. NANAMI VIVO: apoyo y protección de civiles en Tokio. Yuki muere contra Kenjaku; Tengen capturado. Sukuna toma el cuerpo de Megumi (dic) y mata a Yorozu (Tsumiki). 24/12: Gojo liberado; Gojo vs Sukuna: Gojo muere. Kashimo muere. Yuta mata a Kenjaku. Choso muere protegiendo a Yuji. Nanami pelea en Shinjuku: pierde el brazo izquierdo, vive. Nobara usa la Resonancia en el momento clave; Yuji separa a Sukuna de Megumi; Sukuna muere. Uraume muere. Megumi vivo, recuperándose, deprimido. Después: los altos mandos, diezmados, reorganizados (Gakuganji y otros); la orden contra Facundo quedó en un cajón (nadie la ejecuta, nadie la anuló). Hoy 17/01/2019: Shinjuku zona de exclusión en reconstrucción; Yuji va seguido al lugar donde murió Choso.",
     "bleach_mientras_no_estaba": "27/08-19/09 (simulado al volver, T295). Aizen, sin Hōgyoku, solo tiene Arrancar imperfectos (Ulquiorra, Yammy, Grimmjow y su fracción, menos estables que en el canon). Su objetivo: el Hōgyoku y Facundo. 01/09 aprox: ataque no autorizado de Grimmjow y su fracción a Karakura (canon): el equipo de avanzada los repele; Ichigo, golpeado por Grimmjow, entrena con los Vizard (Hirako) a dominar la máscara. Rukia y Renji entrenan. Orihime entrena en la Sociedad de Almas. 17/09: Ulquiorra intercepta a Orihime en el Dangai y se la lleva a Hueco Mundo (canon): Aizen cree que su rechazo de fenómenos puede reconstruir un Hōgyoku (o al menos la usa de cebo para Facundo). Yamamoto prohíbe el rescate y prepara la defensa de Karakura. 19/09 noche: Ichigo, Uryū y Chad en la tienda de Urahara; Urahara está por abrir la Garganta hacia Hueco Mundo (canon). Rukia y Renji llegarán después.",
     "aizen_plan": "Aizen ordenó a las Espadas: al del pelo bicolor y el gato, no matarlo; dejarlo llegar hasta él (quiere el Hōgyoku; Orihime es el cebo y su poder la herramienta para intentar 'reconstruir' uno si falla lo demás). A los demás intrusos, libre.",
-    "aizen_petrificado": "T320: Aizen, estatua viva en la sala del trono de Las Noches. Consciente adentro. La piedra solo se rompe si Facundo quiere o muere. Si alguien rompe la estatua, Aizen muere (como con Krilin y Piccolo)."
+    "aizen_petrificado": "T320: Aizen, estatua viva en la sala del trono de Las Noches. Consciente adentro. La piedra solo se rompe si Facundo quiere o muere. Si alguien rompe la estatua, Aizen muere (como con Krilin y Piccolo).",
+    "bleach_espada_tras_aizen": "T331: Con Aizen petrificado, Barragan reclama otra vez el trono de Hueco Mundo y viene a la cúpula con su Fracción (Abirama, Charlotte, Findorr, Ggio, Nirgge, Poww). Quiere la estatua como trofeo. Starrk y Harribel no se movieron todavía (Starrk duerme; Harribel espera con sus Fracción). Mayuri va hacia la torre de Szayel, donde Renji y Uryū pelean contra la 8.ª Espada (canon). Grimmjow herido, paradero no confirmado. Zommari vigila. Yammy en su torre."
   }
 }

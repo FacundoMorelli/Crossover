@@ -15,3 +15,4 @@ ESTADO: activo.
 - DIÁLOGO T330: "Jajaja... Me... me voló la mandíbula... ¡JAJAJAJA!"
 QUÉ PODERES DE FACUNDO VIO: esquivas imposibles (Ultra Instinto, sin saber qué es), esgrima de doble espada, fuerza para frenar su corte a dos manos sin moverse. Lo explica como "un tipo muy, muy fuerte".
 ESTADO (T330): herido leve (corte en el pecho, mandíbula golpeada), en el suelo. Yachiru sentada en su panza.
+- T331 · Unohana lo cura. Quiere revancha: "La próxima vez no te vas a quedar quieto. Te voy a hacer mover los pies aunque sea una vez."

@@ -329,3 +329,4 @@ T327 · Bleach · Las Noches · Saludo. Byakuya pide entregar a los tres. Mayuri
 T328 · Bleach · Las Noches · Entrega la estatua de Aizen a Byakuya. Kenpachi espera.
 T329 · Bleach · Las Noches · Pelea con Kenpachi. No lo toca. Kenpachi se saca el parche.
 T330 · Bleach · Las Noches · Simula la pelea: Kenpachi a dos manos (kendo); Echo lo bloquea sin moverse; Rift corte superficial + pomo al mentón. Kenpachi en el suelo, riéndose. +1.800 EXP, +150 F. Misión de copia: Kenpachi. Unohana pregunta si puede atenderlo.
+T331 · Bleach · Las Noches · "Sí, está bien." Unohana cura a Kenpachi (quiere revancha). Isane revisa a Ichigo y Rukia. Mayuri se va a la torre de Szayel. Byakuya llevará a Gin y Tōsen. Llega Barragan con su Fracción, en su trono: exige la estatua de Aizen.
