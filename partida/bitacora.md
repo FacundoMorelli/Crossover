@@ -256,3 +256,4 @@ T254 · Dragon Ball · 10:40 · Vuela al castillo. Dabura sale a recibirlo.
 T255 · Dragon Ball · 10:41 · Dabura: la piedra solo se rompe si muere. Desenvaina.
 T256 · Dragon Ball · 10:41 · Forma Cenit x10 frente a Dabura.
 T257 · Dragon Ball · 10:46 · Mata a Dabura. +50.000 F. Copia el poder de Dabura. Vuelve: Piccolo y Krilin de carne.
+T258 · Dragon Ball · 10:50 · Disuelve las marcas. Les resume todo a Piccolo y Krilin.

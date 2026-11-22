@@ -1,8 +1,8 @@
 {
-  "turno": 257,
+  "turno": 258,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
-  "hora": "10:46",
+  "hora": "10:50",
   "edad": 18,
   "nivel": 22,
   "exp": 139810,
@@ -82,22 +82,7 @@
         "desbloqueo": 70,
         "estado": "desbloqueada (T246)"
       },
-      "marcas_activas": [
-        {
-          "marca": "I",
-          "sobre": "Krilin (grabado como estatua de piedra con grieta)",
-          "cuando": "día 4 10:16 (T250)",
-          "vence": "día 5 10:16",
-          "ojo": "activarla lo devolvería a piedra"
-        },
-        {
-          "marca": "II",
-          "sobre": "Piccolo (grabado como estatua de piedra)",
-          "cuando": "día 4 10:17 (T251)",
-          "vence": "día 5 10:17",
-          "ojo": "activarla lo devolvería a piedra"
-        }
-      ],
+      "marcas_activas": [],
       "notas": [
         "T246: maestría 100. 10 Marcas simultáneas. Expansión de Dominio Cuadrante del Retorno desbloqueada."
       ]

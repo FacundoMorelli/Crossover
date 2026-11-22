@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Piccolo, Krilin · T258 · su nombre; que mató a Dabura (por eso volvieron), a Babidi; el trato de Buu; la separación y destrucción del Buu malo (resumen de Facundo).
 - Dende, Mr. Popo · desde T177 · vieron desde el templo todo lo que hizo Facundo en la Tierra (Kami vigila el planeta).
 - Vegeta · T242 · que Facundo se va a ir de viaje pronto: lo escuchó por TV (Mr. Satán en la fiesta, en vivo, día 2 21:00; Satán lo sabía por Facundo, T228).
 - Vegeta · T236 · Facundo le contó: era la parte mala de Buu; la destruyó él porque si no se comía al gordo y se volvía más fuerte.
