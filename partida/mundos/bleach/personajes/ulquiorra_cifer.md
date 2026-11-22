@@ -9,7 +9,9 @@ ENCUENTROS:
 - T169 · 15:11 · Ve a Yammy salir volando. No se mueve. Le habla a Facundo.
 - T168 · 22/08 15:10 · Llega a Karakura con Yammy por una Garganta, en un descampado. Busca al humano de dos colores.
 DIÁLOGOS CLAVE:
+- T170: "Yammy es basura. Lo que le pase a la basura no cambia lo que se me ordenó." / "Mi misión era confirmar que eras tú. Ya está confirmado. La próxima vez, no voy a pedir."
 - T169: "No sentí nada de ti. Y aun así, Yammy está en el suelo." / "Aizen-sama quiere algo que tú tienes. Dámelo, y me voy."
 - T168: "Yammy. No hace falta que comas a todos. Buscamos a uno solo."
 QUÉ SABE DE FACUNDO: lo que Aizen y Gin le contaron: aspecto, gato, que tiene el Hōgyoku o sabe dónde está.
-ESTADO: en el descampado.
+- T170 · 15:12 · Facundo se niega. Ulquiorra dice que Yammy es basura y que su misión era confirmar quién es. Va hasta el cráter, levanta a Yammy con una mano y abre una Garganta para irse.
+ESTADO: abriendo una Garganta, con Yammy al hombro.
