@@ -7,3 +7,5 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T326: "¿Eh? ¿Ya terminó? ¿Quién fue?"
 ESTADO: activo.
+- T327 · Desenvaina y reta a Facundo.
+- DIÁLOGO T327: "Tú. El de la estatua. Pelea conmigo."

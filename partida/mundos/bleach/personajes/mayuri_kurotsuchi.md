@@ -6,3 +6,5 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T326: "Qué espécimen tan interesante. ¿Quién lo hizo?"
 ESTADO: activo.
+- T327 · Pide la estatua para estudiarla.
+- DIÁLOGO T327: "Esa estatua irá a mi laboratorio, por supuesto."

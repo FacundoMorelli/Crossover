@@ -325,3 +325,4 @@ T323 · Bleach · Las Noches · 'Se metieron con mis amigos.' Tōsen se rinde: p
 T324 · Bleach · Las Noches · Carga la estatua de Aizen; Gin y Tōsen lo siguen. Ulquiorra en el pasillo.
 T325 · Bleach · Las Noches · Ulquiorra queda a cargo de Las Noches. Cúpula: todos ven a Aizen de piedra.
 T326 · Bleach · Las Noches · Explica lo de Gin y Tōsen. Llegan capitanes: Byakuya, Kenpachi, Unohana, Mayuri.
+T327 · Bleach · Las Noches · Saludo. Byakuya pide entregar a los tres. Mayuri quiere la estatua. Kenpachi reta.
