@@ -20,3 +20,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 ### Bleach
 - Turno 86 · Cruza la Puerta desde Shinjuku. Llega a Karakura, detrás del hospital abandonado. Don de Mundo: zanpakutō Sakaime.
 - Turno 114 · Guarda el Hōgyoku en el inventario dimensional.
+- Turno 135 · Cruza la Senkaimon a la Sociedad de Almas con Ichigo, Uryū, Chad, Orihime y Yoruichi.

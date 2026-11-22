@@ -7,6 +7,7 @@ FÍSICO: flaco, anteojos, pelo negro con flequillo, uniforme impecable; cruz Qui
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, frío, analítico; odia a los Shinigami.
 RELACIÓN CON FACUNDO: rival respetado a regañadientes.
 ENCUENTROS:
+- T135 · 19/07 · Cruza el Dangai con el grupo.
 - T134 · 08-18/07 · Entrena solo con el Guante Sanrei. Se presenta en la tienda el 18/07 para ir a la Sociedad de Almas.
 - T120 · 07/07 23:10 · Intercede por Rukia contra Renji. Pierde: herido en el pecho por Zabimaru, en el suelo.
 - T119 · 19:56-19:57 · Absorbe el reiatsu desbordado de Ichigo y lo dispara en una flecha gigante que raja la máscara del Menos. Le quedan las manos quemadas.

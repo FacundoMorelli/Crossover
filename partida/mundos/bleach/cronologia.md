@@ -21,6 +21,7 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 19/07 · El grupo (con Facundo y Kase) sale del Dangai en el Rukongai Oeste, Junrinan. Ichigo corre a la Puerta Blanca; cae Jidanbō (canon cap. 71-72).
 - 18/07 21:30 · Urahara abre la Senkaimon en el sótano (canon cap. 70). Ichigo, Uryū, Chad, Orihime y Yoruichi listos.
 - 08-18/07 · Urahara reentrena a Ichigo: recupera poderes propios y Zangetsu (canon). Yoruichi entrena a Chad y Orihime. Facundo entrena con Yoruichi y dos veces con Urahara.
 - 07/07 23:24-23:30 · Byakuya corta los puntos de Ichigo; Rukia se entrega y se va con Byakuya y Renji (canon). Facundo desmayado.
