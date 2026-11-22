@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Urahara y Yoruichi · T98 · Facundo sabe que hay algo poderoso dentro de Rukia y que el gato escucha. Urahara confirmó el Hōgyoku. No saben cómo lo sabe; no lo investigan.
 - PÚBLICO (TV en vivo, toda la región) · T88 · un joven alto de pelo blanco y azul, ojos de distinto color, con un gato enorme en el hombro y una katana, saltó del primer piso en pleno especial de Kanonji, cortó el aire y le sacó el bastón. Las cámaras no ven espíritus: parece que cortó nada.
 - Urahara · T91 · lo vio en la tele y en persona. No siente su reiatsu.
 - Ichigo y Rukia · T89 · lo siguieron al baldío. Vieron el konsō desde la puerta y la espada desaparecer de su mano.
@@ -18,5 +19,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Hōgyoku dentro de Rukia; el gigai la vuelve humana para esconderlo: Urahara lo confirmó (T98).
+- El gato negro habla (Yoruichi, nombre aún no dicho): lo escuchó hablar (T98).
 - Rukia dio sus poderes a Ichigo; es delito grave; no vuelven: Urahara y Rukia se lo dijeron (T95).
 - Shinigami, Sociedad de Almas, hollows, konsō y zanpakutō: Urahara se lo explicó (T93). Rukia es Shinigami: Rukia lo dio a entender (T90) y Urahara lo confirmó (T93).

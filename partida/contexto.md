@@ -1,10 +1,11 @@
-TURNO: 97 | MUNDO: Bleach | 23 de junio | HORA: 21:21 | Lugar: Urahara Shōten, trastienda
+TURNO: 98 | MUNDO: Bleach | 23 de junio | HORA: 21:23 | Lugar: Urahara Shōten, trastienda
 MOMENTO DEL CANON: Shinigami Sustituto, cap. ~26-27. Don Kanonji graba en el hospital; el espíritu atado está por volverse hollow. Ichigo (15) Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū, Menos Grande, arresto de Rukia (Renji y Byakuya).
 FACUNDO: 18 años · Nivel 6 · EXP 11.000/13.500 · 761 Fragmentos · 5 puntos sin asignar · 0 yenes · Energía 56% · Ojos: rojo arde leve; azul algo nublado
 PARA ESTE MUNDO: salió en TV en vivo como 'espontáneo con espada'. Velo: persona común. Uniforme negro de la escuela de Jujutsu (no significa nada acá).
 QUIÉN SABE QUÉ: Ichigo y Rukia saben su nombre y lo vieron hacer el konsō. PÚBLICO: salió en vivo por TV (aspecto, katana, gato). Los que ven espíritus pudieron ver el konsō.
 MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (activa)
 ÚLTIMOS 5 TURNOS:
+- T98: pregunta por lo que Rukia lleva adentro. Urahara confirma el Hōgyoku y el gigai que la vuelve humana. El gato negro sale y habla. Urahara pregunta qué piensa hacer Facundo.
 - T97: pide preguntar a solas. Rukia se va ofendida (mañana lo busca). Tessai cierra la tienda. Quedan solos (el gato negro está en el fondo).
 - T96: dice que Rukia le sirve para saber del mundo; sugiere que el reiatsu de Ichigo se llevó más poder del que ella tenía. Rukia lo cree posible. Urahara: 'teoría interesante', sin confirmar. Turno de Facundo.
 - T95: pregunta por qué Rukia 'está de vacaciones'. Urahara: le dio sus poderes a Ichigo, crimen grave; no vuelven. Rukia lo admite. Urahara pregunta por qué le interesa Rukia.
@@ -12,9 +13,8 @@ MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (
 - T93: acepta el trato sin contar todo. Urahara da el primer dato (Shinigami, Sociedad de Almas, hollows) y pregunta cómo se llama su espada.
 - T92: se presenta. Urahara lo hace pasar; Tessai sirve té. Urahara propone un trato: un dato por un dato.
 - T91: Rukia manda a Ichigo con su familia y lo lleva sola a la tienda. Urahara lo recibe; no siente su reiatsu. Kase y el gato negro se miran.
-- T90: se presenta y pregunta dónde está. Karakura. Ichigo y Rukia se presentan. Rukia quiere llevarlo a la tienda de Urahara.
 - T87: entra por atrás al hospital. Desde la baranda del primer piso ve a Kanonji hundir el bastón en el pecho del espíritu atado frente a cámaras en vivo. Se le forma una máscara.
-PRESENTES EN ESCENA: Urahara (solo con Facundo). Kase. (Gato negro en el fondo, fuera de vista.)
+PRESENTES EN ESCENA: Urahara. Gato negro (habla; sobre la mesa). Kase.
 VÍNCULOS ACTIVOS: ninguno en este mundo.
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga).
 MISIONES DE COPIA ACTIVAS: (Jujutsu, no vencen) Naoya — Proyección; Yuta — Rika completa.
