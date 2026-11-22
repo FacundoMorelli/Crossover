@@ -41,3 +41,4 @@
 - Smoker · T390 · Facundo dice que solo tiene una fruta. Smoker no le cree del todo.
 - Smoker · T392 · Facundo desapareció delante de sus ojos (Teletransportación). No sabe cómo. Lo registra como otra habilidad.
 - Luffy, Zoro, Sanji, Nami, Usopp · T392 · Facundo apareció de la nada al lado de Luffy en el muelle.
+- Sombrero de Paja · T393 · Sueño de Facundo: recorrer todo el mundo.
