@@ -379,3 +379,4 @@ T377 · One Piece · Mandarinal · Nezumi huye. Nami le cuenta lo del dinero y l
 T378 · One Piece · Mandarinal · Nami le explica el mundo con un mapa en la tierra.
 T379 · One Piece · Mandarinal · Pregunta cuándo zarpan. Nami: en unos días, rumbo a Loguetown.
 T380 · One Piece · Going Merry · Simula 3 días de fiesta y la partida. Carteles: Luffy 30M, "Ojos de Eclipse" Facundo 26M.
+T381 · One Piece · Going Merry · Ofrece dinero a la tripulación. Nami pregunta cuánto.
