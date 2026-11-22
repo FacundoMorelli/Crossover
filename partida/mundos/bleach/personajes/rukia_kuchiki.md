@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: gratitud profunda y confianza; amistad.
 ENCUENTROS:
+- T172 · 17:42 · Dice que va a vivir en el armario de Ichigo otra vez.
 - T171 · 25/08 17:40 · Llega a Karakura con el equipo de avanzada de Hitsugaya (canon). Con sus poderes completos y Sode no Shirayuki. Cae en el patio de la tienda de Urahara y busca a Facundo primero.
 - T166 · 29/07-05/08 · Habla con Byakuya: él le cuenta lo de Hisana y le pide perdón (canon). Decide quedarse en la Sociedad de Almas hasta tener sus poderes completos. Despide a Facundo en la Senkaimon; le promete volver a Karakura 'con todo lo que soy'.
 - T165 · 10:54 · Llega hasta Facundo; él la saluda levantando la mano. Ella le pega un puñetazo en el hombro sano y después le agradece, como prometió en Karakura. Le cuenta que siente sus poderes volviendo. Dice que antes de decidir si vuelve a Karakura tiene que hablar con su hermano.
@@ -47,6 +48,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T172: "Yo vuelvo al armario de Ichigo. Todavía no sabe que vine."
 - T171: "Te lo prometí. Entera." / "Mira." (libera Sode no Shirayuki: Tsugi no mai, Hakuren, contra el cielo)
 - T166: "Me quedo hasta que vuelva a ser yo. Entera. Después voy a Karakura. Te lo prometo."
 - T165: "Eso por asustarme. Y esto..." / "Gracias. Te dije que te lo iba a agradecer cuando menos lo esperaras." / "No sé si vuelvo a Karakura. Primero tengo que hablar con nii-sama."

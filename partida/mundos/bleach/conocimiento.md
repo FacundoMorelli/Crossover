@@ -40,6 +40,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Yamamoto → equipo de avanzada (25/08): Facundo es 'colaborador bajo observación' en Karakura.
 - [CORRECCIÓN T150] Kyōraku y Ukitake NO saben del inventario dimensional. Solo lo saben Urahara, Rukia, Yoruichi y Tessai. Se anuló la pregunta de Ukitake del T149.
 - Kyōraku → Ukitake (19/07, en secreto): el humano del informe está en el 8.º, vino por Rukia.
 - Byakuya y Renji → Sociedad de Almas (Central 46, 6.º Escuadrón; desde 08/07): un humano llamado Facundo, sin reiatsu perceptible, con zanpakutō propia (líneas-frontera), luz cegadora del ojo, gravedad, cambio de lugar, mucha velocidad, una fuerza de peso imposible. Le cortó la bufanda al capitán Kuchiki. (Llegará a Aizen.)

@@ -7,6 +7,7 @@ FÍSICO: pelo rojo largo atado en una coleta alta, tatuajes negros en la frente 
 PERSONALIDAD Y FORMA DE HABLAR: impulsivo, bravucón, leal; amigo de la infancia de Rukia.
 RELACIÓN CON FACUNDO: acaba de verlo.
 ENCUENTROS:
+- T172 · 17:42 · Anuncia que se queda a vivir en la tienda de Urahara.
 - T171 · 25/08 · Llega con el equipo de avanzada.
 - T166 · 02/08 · Recuperado, se cruza con Facundo; tras una pelea amistosa, le reconoce que es digno de cuidar a Rukia.
 - T133 · 07/07 23:25 · Se va con Byakuya y Rukia. Antes, mira el techo donde está Facundo.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T121 · 23:19 · Facundo se presenta y traza una línea entre él y Rukia. Renji ataca la línea con Zabimaru: rebota. Se enfurece.
 - T120 · 07/07 23:18 · Calle cerca de la casa Kurosaki. Derrotó a Uryū con Zabimaru. Tiene a Rukia acorralada contra un poste. Facundo llega.
 DIÁLOGOS CLAVE:
+- T172: "Yo me quedo acá. Urahara me debe una cama."
 - T171: "¡Oye, tramposo!"
 - T166: "Bah. Eres un tramposo con tus cambios de lugar... pero si Rukia confía en ti, yo también. Cuídala allá abajo si vuelve."
 - T133: "...La próxima vez, tú y yo, sin trucos."

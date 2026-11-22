@@ -170,3 +170,4 @@ T168 · Bleach · 22/08 15:10 · Simula: Ichigo lo llama rival (COPIA). Llegan U
 T169 · Bleach · 22/08 15:11 · Puño Divergente: Yammy fuera de combate (+600 EXP, +150 F). Ulquiorra pide el Hōgyoku.
 T170 · Bleach · 15:12 · Se niega. Ulquiorra confirmó quién es; se lleva a Yammy por una Garganta.
 T171 · Bleach · 25/08 · Rukia vuelve a Karakura entera. MISIÓN DE MUNDO CUMPLIDA (+8.000 EXP, +200 F). NIVEL 11. Ojo del Eclipse. Puerta abierta. 2/3 mundos.
+T172 · Bleach · 25/08 · El equipo de avanzada se queda en Karakura. Facundo: 'colaborador bajo observación'.
