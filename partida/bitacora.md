@@ -216,3 +216,4 @@ T214 · Dragon Ball · 07:25 · Desayuno. Mr. Satán en TV: 'el muchacho del gat
 T215 · Dragon Ball · 07:30 · No es discípulo de Satán. Gohan: Vegeta en las montañas del norte.
 T216 · Dragon Ball · 08:05 · Vuela al norte; encuentra a Vegeta entrenando en un cañón helado.
 T217 · Dragon Ball · 08:07 · Le propone a Vegeta entrenar. Vegeta acepta: 'saca la transformación'.
+T218 · Dragon Ball · 08:09 · Forma Cenit contra Vegeta SSJ2. Primer cruce: lo empuja y le congela el brazo.

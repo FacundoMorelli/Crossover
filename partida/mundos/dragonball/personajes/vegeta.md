@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T218 · 08:09 · Pelea contra Facundo en Forma Cenit. En el primer cruce sale despedido contra la pared y le congelan el antebrazo. Nota que el multiplicador es mayor que ayer. Rompe el hielo y sonríe.
 - T217 · 08:07 · Facundo le dice que vino a entrenar con él. Se burla; acepta. Le exige la transformación y que no se contenga.
 - T216 · 08:05 · Entrena solo en SSJ2 en un cañón helado del norte, rompiendo montañas. Ve llegar a Facundo. Le pregunta si vino a reírse.
 - T203 · 19:02 · Se va volando hacia el oeste, sin decir nada.
@@ -32,6 +33,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T218: "...Más fuerte que ayer. En una noche." / "Bien. Por fin algo que vale la pena."
 - T217: "¿Entrenar? ¿Tú? ¿Conmigo?" / "Saca esa transformación. Y si te contienes como hiciste con Kakarotto al principio, te mato."
 - T216: "¿Qué? ¿Viniste a reírte? ¿O Kakarotto te dejó de niñera?"
 - T201: "¡¿Quién te pidió nada?!"
@@ -50,6 +52,6 @@ DIÁLOGOS CLAVE:
 - T177: "¿Qué...? ¡¿Quién se atrevió?!" / "Un insecto sin ki... con dos colores en la cabeza."
 - T175: "Kakarotto. Ahora sí vamos a pelear en serio."
 
-QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
+QUÉ SABE DE FACUNDO: (T218) la transformación ahora multiplica más que ayer; tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En la zona rocosa con Goku.
