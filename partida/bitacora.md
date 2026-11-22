@@ -414,3 +414,4 @@ T412 · Shingeki · Shiganshina · Vuelven con Zeke y Pieck. Cuatro cambiantes c
 T413 · Shingeki · sótano · Erwin llega vivo al sótano. MISIÓN DE MUNDO CUMPLIDA. Libros de Grisha y la fotografía.
 T414 · Shingeki · sótano · Leen los libros de Grisha. Erwin pregunta si viene del otro lado del mar.
 T415 · Shingeki · sótano · "Se podría decir que sí." Erwin le ofrece un lugar en la Legión.
+T416 · Shingeki · sótano · Le da la mano a Erwin. Se queda unos días. Hange quiere estudiarlo; Eren pregunta por el mar.
