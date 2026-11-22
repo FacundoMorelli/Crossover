@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T31 · 00:09 · Golpea a Mahito sincronizado con la Resonancia de Nobara.
 - T29 · 00:02-00:08 · Pelea contra Mahito mientras Facundo descansa. Lo golpea varias veces; Mahito crea un doble que huye hacia el oeste. Yuji grita al ver a Nobara.
 - T28 · 00:02 · Le pega a la estatua de Mahito con todo: el hielo y el cuerpo estallan en pedazos. Mahito se rearma, dañado.
 - T27 · 00:01 · Las púas de Mahito desaparecen a centímetros de su cara: Facundo activó la Marca III. Yuji queda con el puño atrás frente a la estatua.
@@ -21,6 +22,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T31: "¡Kugisaki!"
 - T29: "¡Kugisaki! ¡No dejes que te toque!"
 - T28: "Entendido. Descansa los ojos. Yo me encargo."
 - T27: "¿Eso... eso lo hiciste tú?"

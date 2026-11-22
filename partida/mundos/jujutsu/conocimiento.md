@@ -2,7 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
-- Nobara Kugisaki · T30 · lo vio en persona: joven sentado en un bloque, de negro, pelo blanco y azul, ojo rojo con sangre seca, gato. Vio que Mahito salió despedido a un costado justo cuando iba a tocarla y que el aire hizo escarcha en línea desde ese joven. No sabe su nombre.
+- Nobara Kugisaki · T30 · lo vio en persona: joven sentado en un bloque, de negro, pelo blanco y azul, ojo rojo con sangre seca, gato. Vio que Mahito salió despedido a un costado justo cuando iba a tocarla y que el aire hizo escarcha en línea desde ese joven. Supo su nombre, "Facundo", en T31 (él se lo dijo).
 - Yuji Itadori · T28 · Facundo le confirmó que él lo congeló, y le dijo que usar su técnica le daña la vista: puede quedar ciego minutos, o un día si la usa mucho.
 - Yuji Itadori · T23 · Nanami, al despertar, llamó a Facundo por su nombre delante de Yuji: ahora Yuji sabe que se llama Facundo y que Nanami lo conoce de la estación.
 - Mahito · Lo vio en persona (T10-T13, desde el túnel). Escuchó su nombre y que lo mandó Yuji. Escuchó que Megumi vive y está con Yuji en el centro.
