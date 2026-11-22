@@ -20,6 +20,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Urahara → Rukia (T111): el Hōgyoku, el gigai, el plan; que Facundo tiene un lugar donde nada se encuentra y se ofreció a guardarlo.
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)

@@ -1,10 +1,11 @@
-TURNO: 110 | MUNDO: Bleach | 25 de junio | HORA: 20:35 | Lugar: Urahara Shōten, trastienda
+TURNO: 111 | MUNDO: Bleach | 25 de junio | HORA: 21:05 | Lugar: Urahara Shōten, trastienda
 MOMENTO DEL CANON: Shinigami Sustituto, cap. ~26-27. Don Kanonji graba en el hospital; el espíritu atado está por volverse hollow. Ichigo (15) Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū, Menos Grande, arresto de Rukia (Renji y Byakuya).
 FACUNDO: 18 años · Nivel 6 · EXP 11.360/13.500 · 765 Fragmentos · 5 puntos sin asignar · 0 yenes · Energía 83% · Ojos: bien
 PARA ESTE MUNDO: salió en TV en vivo como 'espontáneo con espada'. Velo: persona común. Uniforme negro de la escuela de Jujutsu (no significa nada acá).
 QUIÉN SABE QUÉ: Ichigo y Rukia saben su nombre y lo vieron hacer el konsō. PÚBLICO: salió en vivo por TV (aspecto, katana, gato). Los que ven espíritus pudieron ver el konsō.
 MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (activa)
 ÚLTIMOS 5 TURNOS:
+- T111: observa. Urahara le cuenta todo a Rukia; ella lo abofetea; él pide perdón. Rukia escucha el plan y le pregunta a Facundo por qué confiarle el Hōgyoku y qué gana él.
 - T110: simula hasta el 25/06 noche. Entrena con Ichigo 3 h en el río (+300 EXP, +3 F, Sakaime 34). Uryū mira desde el puente. Tessai trae a Rukia; Urahara la recibe para contarle todo.
 - T109: pide que sea antes de que vengan a buscarla. Urahara: cinco días para preparar la extracción. Mañana a la noche, después del entrenamiento, Facundo debe traer a Rukia para que Urahara le cuente todo.
 - T108: guarda el caramelo en el inventario. Urahara y Yoruichi lo buscan media hora: nada. Urahara acepta en principio: necesita días para preparar la extracción, y Rukia tiene que saberlo y aceptar.
@@ -12,7 +13,6 @@ MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (
 - T106: acepta entrenar con Ichigo (mañana después de clases, en el río) pero antes va a ver a Urahara. Urahara lo recibe.
 - T105: guarda la espada (la línea sigue en el aire unos minutos). Rukia le pide que entrene con Ichigo.
 - T104: corta al hollow con Sakaime mientras Ichigo cae: lo parten en cruz. Ichigo hace el konsō del niño y se queja: 'ese era mío'.
-- T103: libera a Sakaime y traza una línea frente al niño: el hollow la muerde, se rompe los dientes y raja la máscara. Se gira hacia Facundo. Ichigo salta en el aire. Rukia: 'eso es un shikai'.
 - T87: entra por atrás al hospital. Desde la baranda del primer piso ve a Kanonji hundir el bastón en el pecho del espíritu atado frente a cámaras en vivo. Se le forma una máscara.
 PRESENTES EN ESCENA: Urahara (sin sombrero). Rukia (sentándose). Yoruichi. Tessai. Kase.
 VÍNCULOS ACTIVOS: Urahara (anfitrión, trato por Sakaime). Yoruichi (curiosa). Rukia (desconfiada, lo buscará mañana). Ichigo (curioso).

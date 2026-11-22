@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: desconfianza práctica; quiere usarlo para entrenar a Ichigo.
 ENCUENTROS:
+- T111 · 25/06 20:35-21:05 · Urahara le cuenta todo: el Hōgyoku, que él lo creó, que lo escondió en ella cuando le vendió el gigai, que el gigai la vuelve humana. Rukia lo abofetea. Después escucha el plan: extraerlo y que Facundo lo guarde; sus poderes volverían. Se da vuelta hacia Facundo y le pregunta por qué debería confiarle eso.
 - T110 · 25/06 · Mira el entrenamiento y corrige a Ichigo a gritos. Al atardecer, Tessai le dice que Urahara quiere verla esa noche con Facundo. Manda a Ichigo a casa y va a la tienda.
 - T106 · 15:49 · Facundo acepta entrenar con Ichigo, pero antes va a hablar con Urahara. Rukia fija: mañana después de clases, junto al río.
 - T105 · 15:48 · Facundo guarda la espada. Rukia le dice que un shikai así necesita años; le pide que entrene con Ichigo, porque Ichigo no controla su reiatsu y ella ya no puede enseñarle peleando.
@@ -21,6 +22,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T111: "¿Usaste mi alma como caja fuerte?" / "¿Y tú? Te conozco hace dos días. ¿Por qué debería dejar que te lleves algo así? ¿Qué ganas tú?"
 - T110: "¡No con los brazos, idiota! ¡Con el centro!"
 - T106: "Mañana, después de clases. En la orilla del río. No llegues tarde."
 - T105: "Un Shinigami tarda años en escuchar el nombre de su zanpakutō. Tú la liberaste como si nada." / "Quiero que entrenes con Ichigo. Yo ya no puedo pelear con él."
@@ -33,6 +35,6 @@ DIÁLOGOS CLAVE:
 - T90: "Kuchiki Rukia." / "Hay alguien en esta ciudad que sabe de cosas raras. Un comerciante. Vendrás con nosotros."
 - T89: "Eso no era una espada común. ¿De qué escuadrón eres? ...No, no eres Shinigami. No llevas el uniforme."
 
-QUÉ SABE DE FACUNDO: su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
+QUÉ SABE DE FACUNDO: que puede guardar cosas donde nadie las encuentra y se ofreció a guardar el Hōgyoku (Urahara se lo contó, T111); que sabía del Hōgyoku antes que ella (deduce); su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
 ESTADO: entre la multitud con Ichigo.
