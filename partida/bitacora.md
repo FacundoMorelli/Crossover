@@ -360,3 +360,4 @@ T358 · One Piece · Arlong Park · Se tira solo a la piscina y se para sobre el
 T359 · One Piece · Arlong Park · Vuela con ki; Arlong falla. Chew le dispara balas de agua.
 T360 · One Piece · Arlong Park · "Qué miedo." Se tira al piso; las balas de Chew fallan. Hatchan y Kuroobi avanzan.
 T361 · One Piece · Arlong Park · Saca el arco Quincy. Hatchan y Kuroobi cargan igual.
+T362 · One Piece · Arlong Park · Dos flechas: Hatchan y Kuroobi fuera de combate. Arlong saca la Kiribachi.

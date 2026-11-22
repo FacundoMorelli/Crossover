@@ -1,13 +1,13 @@
 {
-  "turno": 361,
+  "turno": 362,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 1 (Islas Conomi)",
   "hora": "15:18",
   "edad": 18,
   "nivel": 24,
-  "exp": 167390,
+  "exp": 167690,
   "exp_siguiente_nivel": 176000,
-  "fragmentos": 173705,
+  "fragmentos": 173715,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -41,7 +41,7 @@
     "energia": 236,
     "control": 235
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -797,6 +797,20 @@
       "turno": 357,
       "fragmentos": 8,
       "exp": 80
+    },
+    {
+      "mundo": "onepiece",
+      "quien": "Hatchan (seis espadas rotas, contra el muro, inconsciente)",
+      "turno": 362,
+      "fragmentos": 5,
+      "exp": 150
+    },
+    {
+      "mundo": "onepiece",
+      "quien": "Kuroobi (atravesó la pared hasta el mar, inconsciente, flotando)",
+      "turno": 362,
+      "fragmentos": 5,
+      "exp": 150
     }
   ],
   "viaje": {
