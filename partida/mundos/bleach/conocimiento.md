@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Urahara, Rukia, Tessai, Yoruichi · T114 · Facundo tiene el Hōgyoku. Solo ellos cuatro lo saben.
 - Urahara y Yoruichi · T107 · Facundo ofreció esconder el Hōgyoku en un lugar propio inaccesible.
 - Urahara y Yoruichi · T98 · Facundo sabe que hay algo poderoso dentro de Rukia y que el gato escucha. Urahara confirmó el Hōgyoku. No saben cómo lo sabe; no lo investigan.
 - PÚBLICO (TV en vivo, toda la región) · T88 · un joven alto de pelo blanco y azul, ojos de distinto color, con un gato enorme en el hombro y una katana, saltó del primer piso en pleno especial de Kanonji, cortó el aire y le sacó el bastón. Las cámaras no ven espíritus: parece que cortó nada.

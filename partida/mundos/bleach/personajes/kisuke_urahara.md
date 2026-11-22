@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T114 · 23:45 · Ve desaparecer el Hōgyoku en el inventario de Facundo. Lo busca una última vez con su aparato: nada. Pasa a Rukia a un gigai nuevo sin supresión.
 - T113 · 26-29/06 · Trabaja día y noche en el sótano. 29/06 23:40: extrae el Hōgyoku del alma de Rukia en un círculo de kidō con Tessai. Lo sostiene en la palma, frente a Facundo.
 - T112 · 21:08 · Rukia acepta. Se levanta del piso. Fija la extracción para la noche del 29/06 en el sótano.
 - T111 · 20:35-21:05 · Le cuenta todo a Rukia. Recibe la bofetada sin moverse. Le pide perdón con una reverencia hasta el piso.
@@ -27,6 +28,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T114: "Se fue. De verdad se fue." / "Este gigai no le hace nada. Sus poderes van a volver solos. Semanas, tal vez."
 - T113: "Ahí está. Lo que nunca debí hacer."
 - T112: "Cuatro días. La noche del veintinueve, en el sótano."
 - T111: "No tengo excusa. Solo una razón, y no alcanza."

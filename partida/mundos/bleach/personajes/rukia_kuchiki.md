@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T114 · 23:48 · Urahara la pasa a un gigai nuevo, común. Se sienta en el círculo y siente, por primera vez en semanas, una chispa de reiatsu propio.
 - T113 · 26-28/06 · Corrige a Ichigo en los entrenamientos. Casi no le habla a Urahara. 29/06 23:40: se acuesta en el círculo de kidō del sótano para la extracción; Urahara saca el Hōgyoku.
 - T112 · 21:08 · Facundo dice que no gana nada, que solo quiere ayudarla. Rukia lo mira largo; acepta la extracción. Pone condiciones: que Ichigo no se entere todavía, y que Facundo se lo devuelva a Urahara si ella se lo pide algún día.
 - T111 · 25/06 20:35-21:05 · Urahara le cuenta todo: el Hōgyoku, que él lo creó, que lo escondió en ella cuando le vendió el gigai, que el gigai la vuelve humana. Rukia lo abofetea. Después escucha el plan: extraerlo y que Facundo lo guarde; sus poderes volverían. Se da vuelta hacia Facundo y le pregunta por qué debería confiarle eso.
@@ -24,6 +25,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T114: "...Lo siento. Es poco. Pero es mío."
 - T113: "Hazlo de una vez, Urahara."
 - T112: "Nadie ayuda por nada. ...Pero tú eres raro." / "Está bien. Lo hago. No por ti. Por mí, y porque no quiero que ese idiota pelee solo."
 - T111: "¿Usaste mi alma como caja fuerte?" / "¿Y tú? Te conozco hace dos días. ¿Por qué debería dejar que te lleves algo así? ¿Qué ganas tú?"
@@ -41,4 +43,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: que puede guardar cosas donde nadie las encuentra y se ofreció a guardar el Hōgyoku (Urahara se lo contó, T111); que sabía del Hōgyoku antes que ella (deduce); su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
-ESTADO: entre la multitud con Ichigo.
+ESTADO: sin Hōgyoku; en un gigai nuevo, común. Sus poderes empiezan a volver (semanas). Débil esta noche.

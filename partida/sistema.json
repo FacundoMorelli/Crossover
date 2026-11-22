@@ -1,8 +1,8 @@
 {
-  "turno": 113,
+  "turno": 114,
   "mundo_actual": "bleach",
   "fecha_local": "29 de junio (año del canon, ~2001)",
-  "hora": "23:40",
+  "hora": "23:48",
   "edad": 18,
   "nivel": 6,
   "exp": 11810,
@@ -126,6 +126,11 @@
     {
       "objeto": "Caramelo envuelto en papel rojo (de la tienda de Urahara, prueba)",
       "origen": "bleach, T108"
+    },
+    {
+      "objeto": "Hōgyoku (de Urahara)",
+      "origen": "bleach, extraído del alma de Rukia el 29/06 23:40 (T114)",
+      "nota": "Late, como si pensara. Fuera de todos los mundos: inaccesible para Aizen y para cualquiera."
     }
   ],
   "copias": [

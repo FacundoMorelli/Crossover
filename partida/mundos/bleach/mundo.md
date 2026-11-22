@@ -5,4 +5,4 @@ ESTADO: Ichigo (15) es Shinigami sustituto desde hace unas semanas; Rukia sin po
 DON DE MUNDO: Zanpakutō Sakaime (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
-(ninguno todavía)
+- T114 · 29/06 · El Hōgyoku de Urahara sale del alma de Rukia y queda en el inventario de Facundo, fuera de todos los mundos. Aizen ya no puede obtenerlo. Rukia, sin el gigai supresor, empieza a recuperar sus poderes.
