@@ -80,3 +80,4 @@ T78 · Jujutsu · 05/11 22:40 · Simula: tres días en Tokio cazando maldiciones
 T79 · Jujutsu · 22:40 · Destello Solar y corte de Rift a Naoya. Naoya contraataca con Proyección. Misión de copia: Naoya.
 T80 · Jujutsu · 22:41 · Boogie Woogie con un clavo y Puño Divergente a Naoya. Yuji reconoce su golpe.
 T81 · Jujutsu · 22:42 · Marea + Escarcha encierra a Naoya en hielo (+700 EXP, +300 F). Fusión sellada. Llega Yuta Okkotsu.
+T82 · Jujutsu · 22:43 · Se pone delante de Yuji. Yuta confirma que fue alumno de Gojo, desmaya a Naoya y pide confianza.
