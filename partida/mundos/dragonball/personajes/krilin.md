@@ -5,11 +5,13 @@ FÍSICO: bajo, pelo negro corto (ya no rapado), seis puntos en la frente, ropa d
 PERSONALIDAD Y FORMA DE HABLAR: simpático, nervioso, leal.
 RELACIÓN CON FACUNDO: ninguna (no lo conoce).
 ENCUENTROS:
+- T259 · 10:52 · Llora de alivio al saber que la 18 y Marron están bien. Invita a Facundo a Kame House.
 - T258 · 10:50 · Facundo le resume lo de Buu y Dabura. Shock y alivio. Pregunta por la 18 y Marron.
 - T257 · 10:46 · Vuelve a ser de carne al morir Dabura. Confundido, con un dolor en el tobillo.
 - T250 · día 4 10:16 · Facundo marca su estatua con la Manecilla Inversa (Marca I).
 - T249 · día 4 10:15 · Facundo lo ve de piedra en el risco. Grieta fina en el tobillo.
 DIÁLOGOS CLAVE:
+- T259: "¡Ven a Kame House! ¡El Maestro Roshi va a querer conocerte! ¡Y la 18 cocina! ...Bueno, a veces."
 - T258: "¡¿Cuatro días?! ¡¿Un monstruo con dulces?!" / "¿Y la 18? ¿Y Marron? ¿Están bien?"
 - T257: "¿Eh? ¿Eh? ¡¿Qué pasó?! ¡¿Dónde están todos?!" / "¡Ay, mi tobillo!"
 QUÉ SABE DE FACUNDO: (T258) se llama Facundo; mató a Dabura y a Babidi; domó a Buu y destruyó su parte mala (él se lo contó). Lo vio en Forma Cenit.
