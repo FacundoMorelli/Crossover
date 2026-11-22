@@ -45,3 +45,5 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - DIÁLOGO T289: "...Está bien. Ramen." / "Gracias. Por la otra noche."
 - T290 · 24/01/2019 · Misión en Sendai con Facundo: almacén de la secundaria Sugisawa.
 - T291 · 16:52 · Su perro distrae a la maldición. Da un paso atrás al ver el dedo.
+- T292 · 16:54 · Ve desaparecer el último dedo de Sukuna en el Eclipse. Suelta el aire; se le aflojan los hombros.
+- DIÁLOGO T292: "...Ya no está. Lo siento. No está en ningún lado."

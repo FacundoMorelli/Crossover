@@ -31,6 +31,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Yuji, Megumi, Nobara · T292 · el Eclipse: un punto negro que se traga el último dedo de Sukuna sin dejar residuo. Megumi siente que la energía del dedo desaparece por completo.
 - Naoya, Yuji, Choso y Yuta Okkotsu · T81 · vieron la combinación Marea + Escarcha que encerró a Naoya en hielo.
 - Naoya, Yuji y Choso · T80 · vieron a Facundo usar un cambio de lugar al aplaudir (Yuji y Naoya lo reconocen como el Boogie Woogie de Todo) y un golpe de doble impacto (Yuji lo reconoce como su Puño Divergente). Yuji queda desconcertado.
 - Naoya Zen'in · T79 · recibió el Destello Solar y un corte de Rift. Lo informará al clan si sobrevive.
