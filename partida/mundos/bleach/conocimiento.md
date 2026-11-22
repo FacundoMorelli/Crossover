@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Espadas (Nnoitra y otros) · antes de T307 · Aizen les describió a Facundo (pelo bicolor, gato, tiene el Hōgyoku) con información de Ulquiorra (22/08).
 - Ichigo, Rukia, Renji, Uryū, Chad, Orihime, Urahara, Yoruichi, Tessai, equipo de avanzada · T173 · Facundo les dijo que se va un tiempo, que no se preocupen por él ni por lo que tiene, que no se muera nadie y que seguro vuelve en unas semanas.
 - Aizen · T159 · Facundo sabe que tocar la hoja anula Kyōka Suigetsu. Se sorprende una vez; no investiga cómo lo sabe. Gin y Tōsen lo escucharon.
 - Shunsui Kyōraku · T142 · leyó el informe de Byakuya en la reunión de capitanes; al ver un gato gigante en el hombro de un 'Shinigami' con gorra, deduce que es el humano del informe.
@@ -51,6 +52,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Aizen ordenó a las Espadas no tocar a Facundo y dejarlo llegar a él; lo está esperando: Nnoitra (T307).
 - Rukia cree que Inoue puede ser un cebo para Facundo o que Aizen quiere usar su poder para rehacer el Hōgyoku (deducción de Rukia, T301).
 - Se llevaron a Orihime a Hueco Mundo; la Sociedad de Almas no va a ir; Ichigo, Uryū y Chad van ahora por la Garganta de Urahara: Ichigo y Urahara (T296).
 - 19/09: sintió al llegar a Ichigo, Uryū, Chad, Urahara y Yoruichi en la tienda, tensos, y una presión como de grieta en el sótano; no siente a Orihime en Karakura (T295).

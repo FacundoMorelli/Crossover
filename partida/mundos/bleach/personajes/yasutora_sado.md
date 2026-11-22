@@ -11,3 +11,4 @@ ESTADO: herido leve, rescatado por Urahara.
 - T296 · 21:38 · En el sótano. Asiente al ver a Facundo.
 - T297 · Cruza la Garganta con Facundo a Hueco Mundo.
 - T306 · Su reiatsu se desploma en otro sector de Las Noches (canon: Nnoitra lo derriba tras vencer a Gantenbainne).
+- T307 · Inconsciente, herido, vivo. Facundo y Rukia llegan.

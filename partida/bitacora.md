@@ -305,3 +305,4 @@ T303 · Bleach · Las Noches · Con Rukia por un pasillo. Sala oscura: 'Kaien Sh
 T304 · Bleach · Las Noches · Destello Solar: revela a Aaroniero. Rukia desenvaina.
 T305 · Bleach · Las Noches · Rukia mata a Aaroniero. Herida grave.
 T306 · Bleach · Las Noches · Semilla del ermitaño a Rukia: curada. Cae el reiatsu de Chad.
+T307 · Bleach · Las Noches · Chad caído. Nnoitra: Aizen ordenó dejarte llegar.
