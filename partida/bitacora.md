@@ -411,3 +411,4 @@ T409 · Shingeki · afuera · Distrae al Bestia; Levi lo derrota y saca a Zeke. 
 T410 · Shingeki · afuera · Bola de ki: derriba al Carguero; Pieck inconsciente. Zeke capturado le pregunta qué es.
 T411 · Shingeki · afuera · "Vine con una misión." Levi calla a Zeke y pide que cargue a Pieck.
 T412 · Shingeki · Shiganshina · Vuelven con Zeke y Pieck. Cuatro cambiantes capturados. Erwin va al sótano.
+T413 · Shingeki · sótano · Erwin llega vivo al sótano. MISIÓN DE MUNDO CUMPLIDA. Libros de Grisha y la fotografía.

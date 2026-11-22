@@ -17,3 +17,4 @@
 - Marley; Ymir con los guerreros (devorada por Porco más adelante).
 - T409 · Levi derrota al Bestia con Facundo de distracción; saca a Zeke de la nuca (sin piernas). El Carguero (Pieck) viene a rescatarlo.
 - 11:00-11:20 · (T412) Cuatro cambiantes de Marley capturados vivos: Reiner, Bertholdt, Zeke, Pieck. La Legión casi sin bajas. Erwin vivo y entero. Rumbo al sótano.
+- 11:45 · (T413) Erwin entra vivo al sótano de los Jaeger con Eren, Mikasa, Armin, Levi, Hange y Facundo. Tres libros y una fotografía (canon cap. 85, sin bajas).

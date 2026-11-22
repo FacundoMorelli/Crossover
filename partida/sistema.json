@@ -1,13 +1,13 @@
 {
-  "turno": 412,
+  "turno": 413,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
-  "hora": "11:20",
+  "hora": "11:45",
   "edad": 18,
   "nivel": 25,
-  "exp": 176890,
+  "exp": 186890,
   "exp_siguiente_nivel": 195000,
-  "fragmentos": 172990,
+  "fragmentos": 173290,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -913,7 +913,8 @@
       "jujutsu",
       "bleach",
       "dragonball",
-      "onepiece"
+      "onepiece",
+      "shingeki"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -922,7 +923,7 @@
       "recompensa": "10.000 EXP · 300 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa"
+      "estado": "CUMPLIDA (T413)"
     },
     "relojes": {
       "jujutsu": {

@@ -77,3 +77,4 @@
 - MISIÓN: Que Erwin Smith llegue vivo al sótano de los Jaeger.
 - RECOMPENSA: 10.000 EXP · 300 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- CUMPLIDA: T413 · 11:45. Erwin entra vivo al sótano. +10.000 EXP, +300 F. Mundos completados: 5.

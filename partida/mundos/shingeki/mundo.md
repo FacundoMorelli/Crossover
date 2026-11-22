@@ -9,3 +9,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T402 · Frontera de Hate no Sakaime sobre toda Shiganshina: las rocas del Bestia no entran (en el canon, mataban a casi todos los reclutas y herían a Erwin).
 - T404 · Reiner derrotado por Facundo de un golpe de dos dedos; inconsciente en la nuca del titán derrumbado.
 - T409-410 · Zeke capturado vivo por Levi; el Carguero derribado por Facundo antes de rescatarlo. Marley pierde (por ahora) al Acorazado, el Colosal, el Bestia y el Carguero. Cambio enorme del canon.
+- T413 · MISIÓN DE MUNDO CUMPLIDA: Erwin Smith llega vivo al sótano de los Jaeger.
