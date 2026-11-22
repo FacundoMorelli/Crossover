@@ -429,3 +429,4 @@ T427 · Shingeki · Shiganshina · Piedra de hielo como negociación. Zeke duda;
 T428 · Shingeki · Shiganshina · Va a buscar a Eren. Mikasa quiere ir; Armin advierte del contacto con sangre real.
 T429 · Shingeki · Shiganshina · Lleva a Eren con Zeke. Primeras palabras entre hermanos.
 T430 · Shingeki · Shiganshina · Zeke explica los dos planes; Eren rechaza la eutanasia y mira a Facundo.
+T431 · Shingeki · Shiganshina · Compra y saca una cámara de fotos y video (15 F).
