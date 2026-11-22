@@ -64,3 +64,7 @@
 - 20/09 · (T314) Ulquiorra derrota a Ichigo en la cúpula, le atraviesa el pecho (canon).
 - 20/09 · (T319-T320) Facundo le arranca a Aizen el brazo izquierdo (Aizen se lo corta) y lo petrifica en la sala del trono.
 - 20/09 · (T326) Llegan a Hueco Mundo Byakuya, Kenpachi, Unohana, Isane y Mayuri (enviados por Yamamoto; canon adelantado).
+- 19/09 noche · (T339) Mayuri mata a Szayel (canon) y salva a Renji y Uryū.
+- 20/09 01:10 · Garganta al Seireitei. Aizen (estatua) al Muken; Gin y Tōsen presos en el 1.º. Facundo alojado en el 8.º.
+- 21-22/09 · Interrogatorios. Gin cuenta el plan de Aizen y que Facundo tiene el Hōgyoku.
+- 23/09 10:00 · Yamamoto cita a Facundo ante los capitanes.

@@ -19,3 +19,4 @@ DIÁLOGOS CLAVE:
 - T153: "¿Quién se atreve a interrumpir el Sōkyoku?"
 QUÉ SABE DE FACUNDO: el informe de Byakuya. Ahora lo ve en el patíbulo.
 ESTADO: en el claro. Anuló la sentencia de Rukia.
+- T339 · 23/09 · Cita a Facundo a la sala de reuniones del 1.º ante los capitanes. Agradece formalmente la captura de Aizen. Sabe por Gin que Facundo tiene el Hōgyoku y le pregunta dónde está.

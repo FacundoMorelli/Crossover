@@ -337,3 +337,4 @@ T335 · Bleach · Las Noches · Dentro del dominio: "Este es mi lugar..." Nadie 
 T336 · Bleach · Las Noches · Deja inconscientes a Ggio y Nirgge, deshace el dominio. Barragan se levanta del trono. +600 EXP, +50 F.
 T337 · Bleach · Las Noches · Dice que Ulquiorra cuide Hueco Mundo. Escupe a Barragan: petrificado. NIVEL 24. +8.000 EXP, +1.000 F. Llega Ulquiorra.
 T338 · Bleach · Las Noches · Le deja Hueco Mundo a Ulquiorra. Pregunta si ya se van. Faltan Renji, Uryū y Mayuri en la torre de Szayel.
+T339 · Bleach · Seireitei · Simula 19-23/09: vuelta al Seireitei, Aizen al Muken, Gin cuenta lo del Hōgyoku. Yamamoto cita a Facundo y le pregunta por el Hōgyoku.
