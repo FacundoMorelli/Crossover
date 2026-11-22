@@ -292,6 +292,11 @@
     {
       "objeto": "Tarjeta con el número de Ijichi",
       "origen": "jujutsu, T294"
+    },
+    {
+      "objeto": "Paquete de comida de Sanji (arroz, carne seca, algo dulce, comida para Kase)",
+      "mundo": "onepiece",
+      "turno": 400
     }
   ],
   "copias": [
