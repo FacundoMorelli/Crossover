@@ -1,8 +1,8 @@
 {
-  "turno": 8,
+  "turno": 9,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:36",
+  "hora": "23:44",
   "edad": 18,
   "nivel": 1,
   "exp": 120,
@@ -88,7 +88,15 @@
   ],
   "inventario_dimensional": [],
   "copias": [],
-  "misiones_de_copia_activas": [],
+  "misiones_de_copia_activas": [
+    {
+      "poder": "Técnica de Proporción (Ratio 7:3) y Horas Extra — Kento Nanami",
+      "mundo": "jujutsu",
+      "mision": "Que Kento Nanami te diga, con sus palabras, que hiciste un buen trabajo.",
+      "dificultad": "MEDIA",
+      "emitida": "T9"
+    }
+  ],
   "misiones_de_copia_rechazadas": [],
   "fusion": {
     "combinaciones_selladas": []
@@ -212,6 +220,7 @@
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
-    "reloj_nanami": "Sukuna devuelve el control a Yuji ≈23:30. Yuji vaga por la zona arrasada; encuentra a Nanami ≈00:10 al sur de la estación (cerca de Dogenzaka/salida sur). Mahito está ahí. Si nadie interviene, Nanami muere ≈00:12."
+    "reloj_nanami": "Sukuna devuelve el control a Yuji ≈23:30. Yuji vaga por la zona arrasada; encuentra a Nanami ≈00:10 al sur de la estación (cerca de Dogenzaka/salida sur). Mahito está ahí. Si nadie interviene, Nanami muere ≈00:12.",
+    "mahito_posicion": "Mahito sigue a Nanami a distancia desde las vías del lado sur, esperando a Yuji. No vio a Facundo todavía."
   }
 }

@@ -7,3 +7,4 @@ T5 · Jujutsu · 23:33 · Cruza el campo arrasado hacia el centro. Encuentra a Y
 T6 · Jujutsu · 23:34 · Se acerca despacio a Yuji y lo saluda. Yuji se pone de pie, pregunta si está herido y si vio lo que pasó.
 T7 · Jujutsu · 23:35 · Facundo dice que vio y que no sabe dónde está. Yuji: es Shibuya, fue su culpa. Yuji ve a Megumi y corre; Megumi respira.
 T8 · Jujutsu · 23:36 · Marca I sobre Megumi (estado herido). Pregunta a Yuji por Nanami. Yuji lo cree hechicero; no sabe dónde está Nanami.
+T9 · Jujutsu · 23:44 · Deja a Yuji con Megumi. Llega a la entrada sur de la estación. Ve a Nanami peleando, quemado, contra transfigurados. Tasación. Misión de copia: Proporción 7:3.
