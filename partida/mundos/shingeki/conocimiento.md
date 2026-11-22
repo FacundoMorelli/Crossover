@@ -12,3 +12,4 @@
 - Toda la Legión en la ciudad, Eren · T404 · Vieron a Facundo con el pelo y un aura azules (Super Saiyajin Blue) derribar al Acorazado con dos dedos. Lo oyeron decirle a Eren "niño, no es necesario".
 - Levi, Erwin · T406 · La espada de Levi no corta la piel de Facundo (se mella).
 - Erwin, Levi (y los cercanos) · T407 · Saben su nombre: Facundo. Dice que no sabe nada de este mundo (Erwin lo anota; no lo investiga ahora).
+- Zeke · T409 · Vio a Facundo de cerca, volando sin equipo, con pelo azul. Si escapa, se lo informa a Marley.

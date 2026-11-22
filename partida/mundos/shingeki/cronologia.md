@@ -15,3 +15,4 @@
 - Zeke y Reiner escapan (si no, Marley pierde dos titanes más).
 ## EN PARALELO
 - Marley; Ymir con los guerreros (devorada por Porco más adelante).
+- T409 · Levi derrota al Bestia con Facundo de distracción; saca a Zeke de la nuca (sin piernas). El Carguero (Pieck) viene a rescatarlo.

@@ -407,3 +407,4 @@ T405 · Shingeki · Shiganshina · "El odio es malo, niño." Eren baja los puño
 T406 · Shingeki · Shiganshina · Las espadas de Levi no lo cortan. Llega Erwin y pregunta quién es y de qué lado está.
 T407 · Shingeki · Shiganshina · Se presenta. Erwin le explica las murallas y el sótano; pide a Bertholdt y lo invita.
 T408 · Shingeki · Shiganshina · Entrega a Bertholdt. Se ofrece a encargarse del Bestia; Erwin lo quiere vivo; Levi va con él.
+T409 · Shingeki · afuera · Distrae al Bestia; Levi lo derrota y saca a Zeke. El Carguero viene a rescatarlo.

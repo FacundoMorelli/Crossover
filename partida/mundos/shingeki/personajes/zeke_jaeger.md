@@ -8,3 +8,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T409 · Facundo vuela alrededor de su cabeza como distracción; Levi lo mutila y lo saca de la nuca.
+QUÉ SABE DE FACUNDO: lo vio flotar, la frontera, el pelo azul; sabe que derribó a Reiner y se llevó a Bertholdt.
+ESTADO: sin piernas, en manos de Levi.
