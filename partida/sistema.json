@@ -1,8 +1,8 @@
 {
-  "turno": 95,
+  "turno": 96,
   "mundo_actual": "bleach",
   "fecha_local": "23 de junio (año del canon, ~2001)",
-  "hora": "21:17",
+  "hora": "21:19",
   "edad": 18,
   "nivel": 6,
   "exp": 11000,
@@ -503,6 +503,7 @@
     "altos_mandos": "Decreto del 03/11: Gojo cómplice y expulsado; Yaga condenado a muerte; ejecución inmediata de Yuji (verdugo: Yuta Okkotsu, que la fingirá por pacto con Gojo). Agregado por el cambio: Facundo, hechicero no registrado presente en Shibuya, debe ser 'retenido para interrogatorio' y su técnica evaluada; si se resiste, tratado como usuario de maldiciones. Yaga ya no puede protegerlo.",
     "jujutsu_al_salir": "Facundo cruzó la Puerta el 05/11/2018 22:55. El canon sigue: 06/11 Yuta reporta a Yuji ejecutado y a Facundo 'escapado'; Naoya despierta y culpa a Facundo ante el clan Zen'in (lo quiere muerto). 07/11 reunión con Yuki y Tengen (Preparación Perfecta). Nanami vivo y en recuperación cambia el canon: participará en el Juego del Sacrificio. Nobara activa.",
     "segundo_mundo": "bleach (tirada 0.038 → cap. ~26)",
-    "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55)."
+    "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55).",
+    "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá."
   }
 }
