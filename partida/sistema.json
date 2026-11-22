@@ -1,8 +1,8 @@
 {
-  "turno": 418,
+  "turno": 419,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
-  "hora": "13:39",
+  "hora": "13:41",
   "edad": 18,
   "nivel": 25,
   "exp": 186890,
@@ -133,7 +133,7 @@
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
       "marcas_o_lineas_activas": [
-        "T402 Bankai Hate no Sakaime activo: frontera total alrededor de toda la muralla de Shiganshina y un poco más (declarado por el jugador, supera los 600 m), incluyendo a Erwin, Levi y los reclutas del lado de afuera. El Bestia, el Carguero y los titanes de la horda exterior, afuera. Nada entra salvo lo que Facundo permite."
+        "T402 Bankai Hate no Sakaime activo: frontera total alrededor de toda la muralla de Shiganshina y un poco más (declarado por el jugador, supera los 600 m), incluyendo a Erwin, Levi y los reclutas del lado de afuera. El Bestia, el Carguero y los titanes de la horda exterior, afuera. Nada entra salvo lo que Facundo permite. T419: declarado por el jugador: la frontera se queda en pie aunque Facundo se aleje."
       ],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",

@@ -417,3 +417,4 @@ T415 · Shingeki · sótano · "Se podría decir que sí." Erwin le ofrece un lu
 T416 · Shingeki · sótano · Le da la mano a Erwin. Se queda unos días. Hange quiere estudiarlo; Eren pregunta por el mar.
 T417 · Shingeki · sótano · Le describe el mar a Eren. Armin pregunta por el agua de fuego y lo demás.
 T418 · Shingeki · sótano · Ofrece llevarlos a ver el mundo en medio segundo. Erwin pregunta por la vuelta y la pared.
+T419 · Shingeki · sótano · "Así es." Seis de la Legión le ponen la mano en la espalda.
