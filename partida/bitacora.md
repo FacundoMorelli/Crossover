@@ -434,3 +434,4 @@ T432 · Shingeki · Shiganshina · Plan de grabar la vida en las murallas. Zeke:
 T433 · Shingeki · Shiganshina · Graba a Eren y la casa y lo muestra. Zeke ofrece ayudar a llevarlo al continente.
 T434 · Shingeki · Shiganshina · Volver a Trost. Erwin pregunta si puede llevar a todos.
 T435 · Shingeki · afuera de Trost · Teletransporta a toda la Legión y los prisioneros cerca de Trost. Erwin le ofrece una capa.
+T436 · Shingeki · Trost · Se pone la capa. Entran a Trost entre festejos. Erwin irá a Mitras mañana; le pregunta si va.

@@ -1,8 +1,8 @@
 {
-  "turno": 435,
+  "turno": 436,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
-  "hora": "15:40",
+  "hora": "17:30",
   "edad": 18,
   "nivel": 25,
   "exp": 186890,
@@ -305,6 +305,12 @@
       "mundo": "tienda del Sistema",
       "turno": 431,
       "precio": "15 F"
+    },
+    {
+      "objeto": "Capa verde de la Legión de Reconocimiento (regalo de Erwin)",
+      "mundo": "shingeki",
+      "turno": 436,
+      "nota": "puesta"
     }
   ],
   "copias": [
