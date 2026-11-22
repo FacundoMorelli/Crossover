@@ -1,8 +1,8 @@
 {
-  "turno": 382,
+  "turno": 383,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 6 (en el mar, East Blue)",
-  "hora": "10:50",
+  "hora": "10:55",
   "edad": 18,
   "nivel": 24,
   "exp": 175690,
@@ -26,7 +26,7 @@
     },
     "onepiece": {
       "moneda": "berries",
-      "cantidad": 12000000,
+      "cantidad": 0,
       "cambio": "1 Fragmento = 12.000 berries"
     }
   },

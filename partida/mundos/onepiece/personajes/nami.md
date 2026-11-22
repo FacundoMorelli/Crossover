@@ -16,3 +16,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada; lo ve por primera vez.
 - T369 · Ve a Luffy destruir su cuarto de mapas. Llora. Acepta.
 - T377 · Le cuenta a Facundo lo de los 100 millones bajo los mandarinos. "Gracias. De verdad."
+- T383 · Recibe 12M de Facundo para la tripulación ("úsenlo para lo que quieran"). Lo abraza. Se nombra tesorera.
