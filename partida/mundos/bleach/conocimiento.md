@@ -9,6 +9,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Ichigo, Rukia, Kon · T103 · vieron el shikai de Sakaime: una línea plateada suspendida en el aire que frenó en seco la mordida del hollow y le rajó los dientes. Rukia lo reconoce como un shikai.
 - Urahara, Rukia, Tessai, Yoruichi (gato) · T94 · vieron de cerca la zanpakutō Sakaime sellada. Urahara confirma que tiene alma propia.
 - Quien vea espíritus entre el público (Ichigo, Rukia, Chad parcialmente, Orihime parcialmente, Karin) · T88 · pudo ver en las pantallas/por las puertas a un joven cortar a un espíritu a medio volverse hollow y purificarlo. Las cámaras no captan al espíritu, pero los que ven almas a simple vista desde la puerta, sí.
 

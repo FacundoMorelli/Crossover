@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: acaba de verlo; curiosidad y desconfianza.
 ENCUENTROS:
+- T103 · 15:46 · Ve a Facundo liberar a Sakaime y trazar una línea que detiene al hollow.
 - T101 · 24/06 15:42 · Llega a la tienda con Ichigo después de clases. El celular de Rukia suena: hollow cerca. Le propone a Facundo ir a ver qué sabe hacer.
 - T97 · 21:20 · Facundo pide hablar a solas con Urahara. Rukia se ofende y se va a casa de Ichigo; le dice a Facundo que mañana lo busca.
 - T96 · 21:19 · Facundo sugiere que el reiatsu de Ichigo era mayor y se llevó más de lo que ella tenía. Rukia lo considera posible: el poder de Ichigo creció a una velocidad absurda.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T103: "...Eso es un shikai."
 - T101: "Perfecto. Vamos a ver qué sabes hacer."
 - T97: "Bien. Secretos entre hombres raros." / "Mañana te busco. No te vayas de la ciudad."
 - T96: "...Es posible. Yo solo quería darle la mitad. Pero el reiatsu de Ichigo es... no es normal."

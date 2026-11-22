@@ -101,3 +101,4 @@ T99 · Bleach · 21:26 · Urahara confirma que vendrán por Rukia. Ofrece cuarto
 T100 · Bleach · 21:30 · Acepta el cuarto en la tienda. El gato negro se llama Yoruichi.
 T101 · Bleach · 24/06 15:42 · Duerme; mañana tranquila en la tienda. Llegan Rukia e Ichigo; alarma de hollow.
 T102 · Bleach · 15:46 · Van al hollow. Ichigo sale como Shinigami. Hollow-lagarto persigue a un niño espíritu. Misión de copia: Ichigo.
+T103 · Bleach · 15:46 · Shikai de Sakaime: línea frente al niño. El hollow se rompe los dientes contra ella.
