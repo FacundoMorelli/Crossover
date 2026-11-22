@@ -427,3 +427,4 @@ T425 · Shingeki · Shiganshina · Zeke le cuenta el plan de eutanasia de los el
 T426 · Shingeki · Shiganshina · Pregunta por qué no hacer desaparecer a los titanes. Zeke: el odio seguiría.
 T427 · Shingeki · Shiganshina · Piedra de hielo como negociación. Zeke duda; pide que Eren escuche las dos versiones.
 T428 · Shingeki · Shiganshina · Va a buscar a Eren. Mikasa quiere ir; Armin advierte del contacto con sangre real.
+T429 · Shingeki · Shiganshina · Lleva a Eren con Zeke. Primeras palabras entre hermanos.
