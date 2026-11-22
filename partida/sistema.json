@@ -1,8 +1,8 @@
 {
-  "turno": 43,
+  "turno": 44,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:44",
+  "hora": "00:46",
   "edad": 18,
   "nivel": 3,
   "exp": 3700,
@@ -26,7 +26,7 @@
     "energia": 38,
     "control": 37
   },
-  "energia_actual_pct": 25,
+  "energia_actual_pct": 26,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [

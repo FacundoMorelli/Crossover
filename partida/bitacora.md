@@ -42,3 +42,4 @@ T40 · Jujutsu · 00:41 · Observa detrás de Yuki. Kenjaku libera maldiciones y
 T41 · Jujutsu · 00:42 · Se presenta a Yuki. Ella le pregunta qué tipo de mujer le gusta.
 T42 · Jujutsu · 00:43 · Responde a Yuki. COPIA: Ira Estelar (+600 EXP). Todo se acerca.
 T43 · Jujutsu · 00:44 · Responde a Todo. Todo lo declara su hermano. COPIA: Boogie Woogie (+500 EXP).
+T44 · Jujutsu · 00:46 · Corre a la losa con Yuki y Todo. Nanami débil. Shoko en el puesto de mando, a 2 km.

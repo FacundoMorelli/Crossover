@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T44 · 00:46 · Facundo llega a la losa con Yuki y Todo. Nanami está consciente a medias, con fiebre y la respiración débil; el torniquete aguanta.
 - T37 · 00:24 · La ola de hielo de Uraume se detiene a ~20 m de la losa, aplastada por la Marea Lunar de Facundo.
 - T25 · 00:00 · Le advierte a Yuji que no se deje llevar por la rabia. Se queda junto a la losa con Megumi.
 - T24 · 23:59 · Facundo le informa que Mahito está congelado en la estación y saldrá pronto. Nanami le dice "buen trabajo". Advierte que Mahito vendrá por Itadori.
@@ -19,6 +20,7 @@ ENCUENTROS:
 - T10 · 23:45 · Facundo salta y corta al transfigurado de tres brazos que le caía por el lado ciego. Nanami le pregunta quién es.
 - T9 · 23:44 · entrada sur de la estación de Shibuya, en ruinas · Facundo lo ve pelear contra transfigurados. Nanami todavía no lo vio.
 DIÁLOGOS CLAVE:
+- T44: "Tsukumo-san. ...Qué inoportuna, como siempre."
 - T25: "Itadori-kun. Pelee con la cabeza. Él quiere que pierda la calma."
 - T24: "Congeló a un espíritu maldito de grado especial y me compró media hora. ...Buen trabajo, Facundo-kun."
 - T23: "Itadori-kun... no grite. Todavía no estoy muerto." / "Facundo-kun. ¿Y Mahito?"
