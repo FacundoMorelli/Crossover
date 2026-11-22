@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T19 · 23:51 · Facundo corta a sus tres transfigurados y lo congela entero con Echo. Queda como estatua de hielo; el hielo empieza a crujir desde adentro.
 - T18 · 23:50 · Facundo esquiva el hacha y el puño; le congela el brazo-puño con Escarcha Lunar. Mahito se lo arranca, lo regenera y saca de su boca bolitas de carne: humanos transfigurados guardados que empiezan a crecer.
 - T16 · 23:49 · Facundo le corta el paso a la escalera mientras Nanami sube. Mahito, divertido, le pregunta si piensa detenerlo solo.
 - T15 · 23:49 · Facundo esquiva el brazo y lo estrella contra la pared del túnel con Marea Lunar. Mahito se levanta riendo y mira hacia la salida norte: recuerda que Yuji está en el centro.
@@ -20,4 +21,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: en el hall sur, frente a Facundo y Nanami.
+ESTADO: congelado entero en el hall sur; consciente, empujando desde adentro.

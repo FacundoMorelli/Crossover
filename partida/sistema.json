@@ -1,13 +1,13 @@
 {
-  "turno": 18,
+  "turno": 19,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:50",
+  "hora": "23:51",
   "edad": 18,
   "nivel": 1,
-  "exp": 310,
+  "exp": 400,
   "exp_siguiente_nivel": 1000,
-  "fragmentos": 0,
+  "fragmentos": 3,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -26,9 +26,9 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 77,
+  "energia_actual_pct": 62,
   "eclipse": {
-    "maestria": 32,
+    "maestria": 33,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo ardiendo (sangre seca); ojo azul frío, más nublado",
+  "ojos": "ojo rojo ardiendo (sangre seca); ojo azul cerrado, pestañas escarchadas, ciego de ese lado por unos minutos",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -188,6 +188,27 @@
       "mundo": "jujutsu",
       "quien": "humano transfigurado (hall sur)",
       "turno": 11,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (Isómero de Mahito)",
+      "turno": 19,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (Isómero de Mahito)",
+      "turno": 19,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (Isómero de Mahito)",
+      "turno": 19,
       "fragmentos": 1,
       "exp": 30
     }
