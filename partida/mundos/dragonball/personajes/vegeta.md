@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T246) un año de convivencia y peleas: rival respetado, casi un amigo, aunque nunca lo diría. (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T248 · 09:28 · Facundo le promete avisar antes de irse. Se va a la Corporación Cápsula.
 - T247 · 09:27 · Al salir, se prepara para ir a la Corporación Cápsula. Pregunta si Facundo se va a despedir antes de irse.
 - T246 · un año adentro (día 3 09:25 → día 4 09:25) · Entrena con Facundo en la Habitación del Tiempo. Perfecciona el SSJ2 (mucho más fuerte, sin forma nueva). Pelean casi todos los días; Facundo lo supera hacia el final. Agota sus dos días.
 - T245 · 09:25 · Entra con Facundo en la Habitación del Tiempo por un día (su último día disponible).

@@ -1,8 +1,8 @@
 {
-  "turno": 247,
+  "turno": 248,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
-  "hora": "09:27",
+  "hora": "09:30",
   "edad": 18,
   "nivel": 22,
   "exp": 131810,
@@ -830,6 +830,7 @@
     "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
     "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón.",
     "buu_malo": "T222: Facundo cortó con la Transfiguración Ociosa el hilo de alma entre el Buu gordo y el Buu malo. El Buu malo (flaco, gris, mudo, pura maldad) es ahora un ser separado; no puede volver a entrar en el Buu gordo por la vía del alma, pero SÍ puede comerlo con su rayo de dulce (absorción física) y volverse Super Buu. Poder: comparable al Buu gordo, más agresivo. Odia a quien lo separó. Regenera.",
-    "habitacion_tiempo": "T246: salieron 09:25 del día 4. Vegeta agotó sus dos días. Facundo tiene un día más disponible."
+    "habitacion_tiempo": "T246: salieron 09:25 del día 4. Vegeta agotó sus dos días. Facundo tiene un día más disponible.",
+    "dabura": "Dabura sigue vivo, libre del control de Babidi desde T180. Volvió al Mundo de los Demonios por la nave/portal de Babidi (día 1, tarde). Mientras viva, Krilin y Piccolo siguen de piedra en el risco del desierto. Las estatuas siguen enteras."
   }
 }

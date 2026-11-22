@@ -39,6 +39,7 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Piccolo y Krilin siguen de piedra en el risco del desierto; Dabura vive y se fue al Mundo de los Demonios; se curan si Dabura muere o con las Esferas del Dragón; Bulma tiene el radar; Karin y Yajirobe en la torre, Roshi en Kame House: Dende (T248).
 - Habitación del Espíritu y el Tiempo: en el Templo Sagrado (sobre la Torre de Karin); 1 día afuera = 1 año adentro; dos personas por vez; máximo dos días en toda la vida, quien se pasa queda encerrado; gravedad x10, temperaturas extremas. Vegeta usó un día: Vegeta (T243).
 - Dispararon a Mr. Satán y a Bee; Buu los curó y echa vapor; Shin cree que algo va a salir: Kibito (T220).
 - Vegeta no volvió a la Corporación Cápsula; está en las montañas del norte: Gohan (T215), sintiendo su ki.

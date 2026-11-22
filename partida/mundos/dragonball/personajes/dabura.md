@@ -5,6 +5,6 @@ PERSONALIDAD: frío, cruel, elegante.
 ENCUENTROS:
 - T180 · 13:41 · Al morir Babidi, el control mental se le apaga. Se queda quieto, evaluando.
 
-ESTADO: acaba de petrificar a Krilin y Piccolo; volvió a la nave.
+ESTADO: vivo, libre. Se fue al Mundo de los Demonios (día 1, tarde). Mientras viva, Krilin y Piccolo siguen de piedra.
 DIÁLOGOS CLAVE:
 - T180: "...Interesante."
