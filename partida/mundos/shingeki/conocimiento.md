@@ -23,3 +23,4 @@
 - Erwin, Levi, Hange, Eren, Mikasa, Armin · T422 · Facundo se ofreció a ir "al otro lado" a hablar cuando los prisioneros den información.
 - Zeke · T424 · Se presenta a Facundo: hijo de Grisha, jefe de guerreros. Le dice a Facundo que quiere hablar con Eren.
 - Facundo · T425 · Zeke le contó el plan de eutanasia. Nadie más en Paradis lo sabe (la Legión no lo oyó).
+- CORRECCIÓN T425 · Zeke NO sabe lo que Facundo le dijo a Eren en la playa (nadie que lo oyó habló con los guardias; Moblit no estuvo ahí). La frase se retira de la escena.
