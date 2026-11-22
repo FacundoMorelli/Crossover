@@ -5,11 +5,13 @@ PODER VISTO POR FACUNDO: ninguno (Tasación: Senbonzakura, Paso Flash, kidō)
 EDAD EN ESTE MOMENTO DEL CANON: adulto (siglos)
 FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de capitán.
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
-RELACIÓN CON FACUNDO: no lo mira.
+RELACIÓN CON FACUNDO: lo considera un estorbo que debe eliminar; le picó el orgullo.
 ENCUENTROS:
+- T122 · 23:19 · Aparece a la espalda de Facundo y tira una estocada a su pecho (a los puntos de la fuente de poder). Facundo se da vuelta y la bloquea con Sakaime. Byakuya retrocede un paso y levanta la espada en vertical para liberar Senbonzakura.
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T122: "Bloqueaste mi espada." / "No volverá a pasar. Chire..."
 - T121: "Otro humano con una zanpakutō. Qué vulgaridad."
 
 QUÉ SABE DE FACUNDO: su nombre; vio su shikai (T121); no siente su reiatsu.

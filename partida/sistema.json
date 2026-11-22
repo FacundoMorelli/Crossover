@@ -1,5 +1,5 @@
 {
-  "turno": 121,
+  "turno": 122,
   "mundo_actual": "bleach",
   "fecha_local": "7 de julio (año del canon, ~2001)",
   "hora": "23:19",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 95,
   "eclipse": {
     "maestria": 39,
     "partes_desbloqueadas": [
