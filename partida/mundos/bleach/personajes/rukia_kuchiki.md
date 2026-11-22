@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T131 · 23:22 · Facundo la levanta en brazos y salta fuera del Recinto (las paredes lo dejan pasar) hasta un techo a 30 m. Los pétalos caen dentro de la caja vacía.
 - T130 · 23:22 · Queda encerrada con Facundo en el Recinto.
 - T129 · 23:22 · Facundo aparece a su lado, junto a la línea, donde estaba Renji.
 - T124 · 23:20 · Ve llegar a Ichigo.
@@ -33,6 +34,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T131: "¡Bájame! ...No, no me bajes. ¡Ichigo!"
 - T130: "¡Arriba, Facundo! ¡No tiene techo!"
 - T124: "¡Ichigo, no! ¡Vete!"
 - T120: "Renji... Nii-sama."

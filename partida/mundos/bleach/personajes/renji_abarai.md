@@ -7,6 +7,7 @@ FÍSICO: pelo rojo largo atado en una coleta alta, tatuajes negros en la frente 
 PERSONALIDAD Y FORMA DE HABLAR: impulsivo, bravucón, leal; amigo de la infancia de Rukia.
 RELACIÓN CON FACUNDO: acaba de verlo.
 ENCUENTROS:
+- T131 · 23:22 · Va a recuperar a Zabimaru, enterrada junto al Recinto.
 - T129 · 23:22 · Facundo se intercambia con él: Renji aparece frente al río de pétalos de su capitán. Byakuya los frena a un palmo de su cara. Renji cae sentado.
 - T126 · 23:21 · Su Zabimaru, lanzada contra Ichigo, casi le da a su capitán (cambiado de lugar). Byakuya la desvía. Renji queda pálido.
 - T125 · 23:20 · Choca con Ichigo; retrocede dos metros, sorprendido por la fuerza.

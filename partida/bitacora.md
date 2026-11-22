@@ -129,3 +129,4 @@ T127 · Bleach · 23:21 · Ira Estelar en Sakaime (fusión sellada). Byakuya ata
 T128 · Bleach · 23:21 · Bloquea y contraataca: corta la bufanda y el brazo de Byakuya. Byakuya libera Senbonzakura. Misión de copia: Byakuya.
 T129 · Bleach · 23:22 · Se intercambia con Renji: Byakuya frena los pétalos ante su teniente. Facundo junto a Rukia.
 T130 · Bleach · 23:22 · Recinto (Marco en el suelo) alrededor de él y Rukia. Senbonzakura rebota; Byakuya va por arriba.
+T131 · Bleach · 23:22 · Sale del Recinto con Rukia en brazos a un techo. Ichigo cae herido por un Byakurai.

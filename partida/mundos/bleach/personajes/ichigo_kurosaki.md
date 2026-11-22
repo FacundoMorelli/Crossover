@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T131 · 23:22 · Ataca a Byakuya por la espalda mientras los pétalos caen. Recibe un Byakurai en el hombro; cae en la calle, herido, consciente.
 - T126 · 23:21 · Aparece de golpe a tres metros de Facundo, donde estaba Byakuya. No entiende nada.
 - T125 · 23:20 · Facundo le dice que son de la Sociedad de Almas y vienen por Rukia. Ichigo ataca a Renji; chocan espadas; Ichigo lo empuja dos metros.
 - T124 · 23:20 · Llega corriendo como Shinigami (Kon lo despertó). Ve a Uryū caído, a Rukia detrás de la línea, a Renji y a Byakuya. Se pone al lado de Facundo.
@@ -25,6 +26,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T131: "¡Ngh...! ¡Todavía no termino!"
 - T126: "¿Eh? ¿Qué...? ¡¿Cómo llegué acá?!"
 - T125: "Entonces no se la llevan."
 - T124: "¡Rukia!" / "¿Quiénes son estos tipos? ...Facundo, ¿los conoces?"
