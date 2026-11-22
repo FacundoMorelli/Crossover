@@ -1,13 +1,13 @@
 {
-  "turno": 9,
+  "turno": 10,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:44",
+  "hora": "23:45",
   "edad": 18,
   "nivel": 1,
-  "exp": 120,
+  "exp": 160,
   "exp_siguiente_nivel": 1000,
-  "fragmentos": 24,
+  "fragmentos": 25,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -141,6 +141,13 @@
       "turno": 3,
       "fragmentos": 1,
       "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado grande (tres brazos)",
+      "turno": 10,
+      "fragmentos": 1,
+      "exp": 40
     }
   ],
   "viaje": {
