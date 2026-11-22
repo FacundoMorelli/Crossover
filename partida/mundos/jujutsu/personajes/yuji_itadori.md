@@ -1,12 +1,13 @@
 NOMBRE: Yuji Itadori
 AFILIACIÓN: Escuela de Tokio, 1.er año
 RANGO: sin grado (recipiente de Sukuna)
-PODER VISTO POR FACUNDO: ninguno
+PODER VISTO POR FACUNDO: físico extraordinario, Puño Divergente (golpe con dos impactos, el de energía llega tarde), T26
 EDAD EN ESTE MOMENTO DEL CANON: 15
 FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el uniforme.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T26 · 00:01 · Facundo ciega a Mahito con Destello Solar; Yuji cruza el campo y le pega en la cara con el Puño Divergente. Mahito siente dolor en el alma.
 - T25 · 00:00 · Acepta ir con Facundo contra Mahito. Avanzan hacia el sur; Mahito aparece en el borde del campo.
 - T24 · 23:59 · Escucha que Mahito está en la estación. Se pone de pie con rabia (Junpei).
 - T23 · 23:57 · Facundo llega, marca a Nanami y lo ayuda a estabilizarlo. Nanami despierta. Yuji llora de alivio.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T26: "...No me gana. Ya no."
 - T25: "Vamos. Esta vez no se me escapa."
 - T24: "Mahito... ¿Está acá?"
 - T23: "¡Tú! ¡El del gato! ¡Ayúdame, no respira bien!"

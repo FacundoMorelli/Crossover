@@ -13,6 +13,8 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Yuji Itadori · T26 · vio de reojo el Destello Solar (no lo miró de frente): un fogonazo de luz que salió del ojo rojo de Facundo y cegó a Mahito.
+- Kento Nanami · T26 · vio el fogonazo desde la losa, a ~70 m.
 - Yuji y Nanami · T25 · Facundo les dijo que puede congelar a Mahito una vez más si se complica.
 - Nanami y Yuji · T24 · saben por boca de Facundo que dejó a Mahito congelado en la estación.
 - Yuji Itadori · T23 · vio a Facundo marcar a Nanami con un IV brillante. Ya sabe que esos números son una técnica de Facundo; no sabe qué hacen.

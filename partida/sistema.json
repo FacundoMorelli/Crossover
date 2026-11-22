@@ -1,8 +1,8 @@
 {
-  "turno": 25,
+  "turno": 26,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:00",
+  "hora": "00:01",
   "edad": 18,
   "nivel": 1,
   "exp": 700,
@@ -26,7 +26,7 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 54,
+  "energia_actual_pct": 49,
   "eclipse": {
     "maestria": 33,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo ardiendo leve; ojo azul borroso, mejorando",
+  "ojos": "ojo rojo sangra otra vez, arde fuerte; ojo azul borroso",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -120,6 +120,13 @@
       "mision": "Que Mahito sienta miedo de ti.",
       "dificultad": "ALTA",
       "emitida": "T14"
+    },
+    {
+      "poder": "Físico de Itadori y Puño Divergente — Yuji Itadori",
+      "mundo": "jujutsu",
+      "mision": "Pelear codo a codo con Yuji Itadori hasta que Mahito caiga.",
+      "dificultad": "MEDIA",
+      "emitida": "T26"
     }
   ],
   "misiones_de_copia_rechazadas": [],

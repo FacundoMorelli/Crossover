@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T26 · 00:01 · Cegado por el Destello Solar, recibe el Puño Divergente de Yuji en la cara: dolor real en el alma. Se recompone y contraataca inflándose (Repulsión Corporal).
 - T25 · 00:00 · Sale de la estación tras romper el hielo y camina por el campo gris hacia Yuji y Facundo. Marca III aún en el pecho.
 - T22 · 23:56 · Facundo lo marca otra vez (Marca III, estado: congelado) y se va escaleras arriba.
 - T21 · 23:55 · Facundo activa la Marca II desde el escalón: Mahito vuelve al instante a estar congelado entero, con la misma grieta. La Marca se consume.
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T14 · 23:48 · Facundo lo ciega con Destello Solar y lo parte con Rift. Mahito se recompone (el corte no toca su alma) y contraataca estirando el brazo hacia Facundo.
 - T13 · 23:48 · hall sur de la estación · sale del túnel cuando Facundo lo tasa. Había mirado todo desde la oscuridad.
 DIÁLOGOS CLAVE:
+- T26: "¡Eso dolió, Yuji! ¡Eso sí dolió!"
 - T25: "¡Yuuujiii! ¡Te estaba buscando!"
 - T20: "¿Qué me pusiste? ...Un número. ¿Me estás contando?"
 - T18: "¡Frío, frío, frío! Eso sí que fue molesto."
