@@ -38,3 +38,5 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - DIÁLOGO T285: "...Gracias por no decir nada." / "Fue con mis manos. Lo vi todo desde adentro. Sentí el peso de ella cuando cayó. Todavía lo siento."
 - T286 · 22:25 · Facundo le pone la mano en el hombro y le habla: no fue su culpa, todos lo quieren, salir con ellos, cambiar cómo sigue. Se enoja un segundo; después dice que Tsumiki le diría lo mismo. Pregunta por el curry.
 - DIÁLOGO T286: "Es fácil decirlo." / "...Tsumiki me diría lo mismo. Y peor. Me tiraría de la oreja." / "¿El curry... sigue afuera?"
+- T287 · 22:40 · Come con Facundo en el piso: todo el curry frío. Lee el papel de Yuji y casi se ríe.
+- DIÁLOGO T287: "Está horrible. Frío." (sigue comiendo) / "...Idiota", al leer el papel.

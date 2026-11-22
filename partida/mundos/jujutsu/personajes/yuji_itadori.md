@@ -87,3 +87,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - DIÁLOGO T279: "Perdón. No lloré en el entierro." / "¿Te vas a quedar? ¿Esta vez?"
 - T280 · 20:30 · Facundo dice que se queda un tiempo. Contento. Llama a Ijichi.
 - DIÁLOGO T280: "¡Ijichi-san! ¡Ven a Shinjuku! ¡No, no pasó nada malo! ...Ven y ya."
+- T287 · 22:40 · Espía desde la puerta del cuarto de Megumi: lo ve comiendo.

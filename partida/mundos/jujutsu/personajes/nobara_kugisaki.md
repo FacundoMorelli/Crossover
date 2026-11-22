@@ -41,3 +41,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - DIÁLOGO T281: "¡¿TÚ?! ¡¿Setenta días sin un mensaje y apareces así, como si nada?!"
 - T282 · 21:42 · Facundo le pide perdón. Le pega en el brazo, lo abraza un segundo. Le cuenta de Megumi (encerrado) y Nanami (enfermería).
 - DIÁLOGO T282: "¡Lejos! ¡LEJOS! ...Idiota." / "Megumi no sale del cuarto. Nanami-san está en la enfermería con Shoko-san, por el brazo. ¿A quién quieres ver primero?"
+- T287 · 22:40 · Espía desde la puerta del cuarto de Megumi: lo ve comiendo.
