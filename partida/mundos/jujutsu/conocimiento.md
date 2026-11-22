@@ -27,6 +27,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Naoya Zen'in · T79 · recibió el Destello Solar y un corte de Rift. Lo informará al clan si sobrevive.
 - Yuji y Choso · 03-05/11 · lo vieron usar Rift y Echo, Proporción, Destello Solar y Marea Lunar contra maldiciones en Tokio. Algunos civiles rescatados vieron 'a un chico con espadas de fuego y hielo y un gato'.
 - Uraume y Kenjaku · T38 · vieron a Facundo romper el hielo de un golpe en un punto exacto. Kenjaku reconoce el estilo de la técnica de Nanami (lo deduce: conoce la técnica de los hechiceros de Tokio).
 - Uraume y Kenjaku · T37 · vieron que Facundo aplastó la ola de hielo con una fuerza invisible a ~150 m y la frenó antes de la losa. Uraume lo registra como alguien que torció su técnica.
