@@ -62,3 +62,4 @@
 - MISIÓN: Que Villa Cocoyasi quede libre de Arlong sin que muera nadie de la aldea.
 - RECOMPENSA: 8.000 EXP · 200 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- CUMPLIDA: T369 · Día 1 15:48. Luffy vence a Arlong. +8.000 EXP, +200 F. Mundos completados: 4 (Jujutsu, Bleach, Dragon Ball, One Piece).

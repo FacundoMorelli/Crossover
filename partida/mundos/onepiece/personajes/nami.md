@@ -14,3 +14,4 @@ ESTADO: activo
 ENCUENTROS:
 - T355 · Arlong Park · lo ve entrar. Lo mira fijo, sin decir nada.
 QUÉ SABE DE FACUNDO: nada; lo ve por primera vez.
+- T369 · Ve a Luffy destruir su cuarto de mapas. Llora. Acepta.

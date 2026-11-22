@@ -1,13 +1,13 @@
 {
-  "turno": 368,
+  "turno": 369,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 1 (Islas Conomi)",
-  "hora": "15:32",
+  "hora": "15:50",
   "edad": 18,
   "nivel": 24,
-  "exp": 167690,
+  "exp": 175690,
   "exp_siguiente_nivel": 176000,
-  "fragmentos": 173715,
+  "fragmentos": 173915,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -501,6 +501,27 @@
       "mision": "Que Kenpachi Zaraki te corte en serio, con las dos manos, y que la hoja llegue a tu piel.",
       "dificultad": "MEDIA",
       "emitida": "T330"
+    },
+    {
+      "poder": "Gomu Gomu no Mi y todo el poder de Monkey D. Luffy (incluidas sus formas futuras)",
+      "mundo": "onepiece",
+      "mision": "Recibir un golpe de Luffy con todo su poder y seguir de pie.",
+      "dificultad": "MEDIA",
+      "emitida": "T369"
+    },
+    {
+      "poder": "Santoryu y todo el estilo de Roronoa Zoro (incluido lo que llegará a dominar)",
+      "mundo": "onepiece",
+      "mision": "Que Zoro te pida un duelo de espadas en serio, y aceptarlo.",
+      "dificultad": "MEDIA",
+      "emitida": "T369"
+    },
+    {
+      "poder": "Poder de Arlong (cuerpo de gyojin tiburón sierra, fuerza en el agua, dientes que se regeneran)",
+      "mundo": "onepiece",
+      "mision": "Que Arlong reconozca, con sus palabras, que un humano lo venció.",
+      "dificultad": "BAJA",
+      "emitida": "T369"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -823,7 +844,8 @@
     "mundos_completados": [
       "jujutsu",
       "bleach",
-      "dragonball"
+      "dragonball",
+      "onepiece"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -832,7 +854,7 @@
       "recompensa": "8.000 EXP · 200 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa"
+      "estado": "CUMPLIDA (T369)"
     },
     "relojes": {
       "jujutsu": {

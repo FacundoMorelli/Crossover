@@ -367,3 +367,4 @@ T365 · One Piece · Arlong Park · Marea Lunar: Arlong contra la torre. Pregunt
 T366 · One Piece · Arlong Park · Corta las cadenas de Zoro con Rift. Zoro vs Arlong.
 T367 · One Piece · Arlong Park · Zoro vs Arlong parejo. Llegan Luffy, Sanji y Yosaku sobre Momoo. Luffy invita a Facundo a su tripulación.
 T368 · One Piece · Arlong Park · "Si lo vences, me uno." Luffy acepta. Luffy vs Arlong.
+T369 · One Piece · Arlong Park · Luffy vence a Arlong y parte la torre. MISIÓN DE MUNDO CUMPLIDA. Luffy reclama el trato.

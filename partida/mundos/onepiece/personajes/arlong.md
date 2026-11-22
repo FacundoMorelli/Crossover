@@ -17,3 +17,4 @@ DIÁLOGOS CLAVE:
 - T355: "Shahahaha! Así que tú eres el humano que paga las deudas de otros humanos."
 QUÉ SABE DE FACUNDO: lo que le contaron Kaneshiro y el de boca de pez (pagó, tiene plata, forastero del gato).
 TASACIÓN (T355): x0,15 sobre Facundo (muy inferior). COPIABLE (poder racial gyojin y karate; la Kiribachi no, es objeto) · MISIÓN: BAJA.
+ESTADO (T369): derrotado por Luffy, inconsciente bajo los escombros de la torre.
