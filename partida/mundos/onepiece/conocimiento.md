@@ -10,3 +10,4 @@
 - Viejo Ito y Mika · T348 · Facundo pagó lo que les faltaba. Saben que es forastero, que tiene un gato enorme y que llevaba mucho dinero.
 - Usopp · T352 · Vio a Facundo en el mandarinal. No sabe nada de él.
 - Usopp · T353 · Facundo le dijo que no es de Arlong, que pagó el tributo y que hasta hace un rato no sabía dónde estaba.
+- Usopp y Nojiko · T354 · Saben su nombre (Facundo), que tiene "una misión" y que fue a Arlong Park.
