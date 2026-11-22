@@ -15,3 +15,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que petrificó a Aizen (lo deduce al verlo armado junto a la estatua y por los rumores de Las Noches; lo confirma al preguntar). Siente reiatsu bajo (Velo).
 QUÉ PODERES DE FACUNDO VIO: ninguno todavía (llegó después de la pelea con Kenpachi).
 ESTADO: activo, en la cúpula con su Fracción.
+- T332 · Facundo le niega la estatua ("es nuestro"). Se ofende: "En Hueco Mundo no hay nada que sea 'nuestro'. Todo es mío." Manda a Ggio y Nirgge por la piedra y por Facundo, "de rodillas". Ignora a Kenpachi.
