@@ -83,3 +83,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - T334 · Todos los de la cúpula (Barragan y su Fracción, capitanes, Gin, Tōsen, el grupo de Ichigo) vieron levantarse una barrera negra que encerró a Facundo con Ggio y Nirgge. No vieron el interior. Nadie en Bleach conoce las Expansiones de Dominio: lo explican como un kidō de barrera desconocido.
 - Ggio Vega y Nirgge Parduoc · T334 · Adentro: vieron el reloj y sintieron que sus ataques se deshacían. Ggio sabe que "no es kidō".
 - T336 · Todos ven caer a Ggio y Nirgge inconscientes cuando la barrera se deshace, con Facundo intacto. Nadie sintió nada de adentro.
+- T337 · Todos los de la cúpula vieron a Facundo petrificar a Barragan escupiéndole (como a Aizen, que ya sabían por la estatua). Escucharon que Facundo quiere que Ulquiorra cuide Hueco Mundo. Ulquiorra NO lo escuchó (llegó después); alguien se lo puede contar.

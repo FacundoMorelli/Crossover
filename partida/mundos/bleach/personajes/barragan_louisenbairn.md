@@ -17,3 +17,5 @@ QUÉ PODERES DE FACUNDO VIO: ninguno todavía (llegó después de la pelea con K
 ESTADO: activo, en la cúpula con su Fracción.
 - T332 · Facundo le niega la estatua ("es nuestro"). Se ofende: "En Hueco Mundo no hay nada que sea 'nuestro'. Todo es mío." Manda a Ggio y Nirgge por la piedra y por Facundo, "de rodillas". Ignora a Kenpachi.
 - T336 · Ve caer a Ggio y Nirgge inconscientes al deshacerse la barrera, sin haber sentido nada de adentro. Se levanta del trono por primera vez. Furioso; la Senescencia corroe la cúpula.
+- T337 · Facundo le dice que Hueco Mundo lo cuide Ulquiorra y le escupe. Petrificado entero (saliva de Dabura); su Senescencia envejece la superficie pero no deshace la piedra. Vivo adentro.
+ESTADO (T337): petrificado sobre la cúpula. Si se rompe, muere; mientras Facundo viva, sigue de piedra.

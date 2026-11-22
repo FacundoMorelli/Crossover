@@ -1,13 +1,13 @@
 {
-  "turno": 336,
+  "turno": 337,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
-  "hora": "22:26 (Karakura)",
+  "hora": "22:27 (Karakura)",
   "edad": 18,
-  "nivel": 23,
-  "exp": 159310,
-  "exp_siguiente_nivel": 160000,
-  "fragmentos": 172717,
+  "nivel": 24,
+  "exp": 167310,
+  "exp_siguiente_nivel": 176000,
+  "fragmentos": 173717,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -25,16 +25,16 @@
       "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
-  "puntos_de_stat_sin_asignar": 115,
+  "puntos_de_stat_sin_asignar": 120,
   "stats": {
-    "fuerza": 233,
-    "velocidad": 236,
-    "resistencia": 233,
-    "tecnica": 236,
-    "percepcion": 234,
-    "voluntad": 234,
-    "energia": 235,
-    "control": 234
+    "fuerza": 234,
+    "velocidad": 237,
+    "resistencia": 234,
+    "tecnica": 237,
+    "percepcion": 235,
+    "voluntad": 235,
+    "energia": 236,
+    "control": 235
   },
   "energia_actual_pct": 80,
   "eclipse": {
@@ -759,6 +759,14 @@
       "turno": 336,
       "fragmentos": 25,
       "exp": 300
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Barragan Louisenbairn, 2.ª Espada (petrificado entero con la saliva de Dabura; vivo adentro de la piedra)",
+      "turno": 337,
+      "fragmentos": 1000,
+      "exp": 8000,
+      "nota": "Escala élite (65-90); no pagó doble. Su Senescencia no deshace la piedra."
     }
   ],
   "viaje": {
@@ -962,6 +970,6 @@
     "bleach_mientras_no_estaba": "27/08-19/09 (simulado al volver, T295). Aizen, sin Hōgyoku, solo tiene Arrancar imperfectos (Ulquiorra, Yammy, Grimmjow y su fracción, menos estables que en el canon). Su objetivo: el Hōgyoku y Facundo. 01/09 aprox: ataque no autorizado de Grimmjow y su fracción a Karakura (canon): el equipo de avanzada los repele; Ichigo, golpeado por Grimmjow, entrena con los Vizard (Hirako) a dominar la máscara. Rukia y Renji entrenan. Orihime entrena en la Sociedad de Almas. 17/09: Ulquiorra intercepta a Orihime en el Dangai y se la lleva a Hueco Mundo (canon): Aizen cree que su rechazo de fenómenos puede reconstruir un Hōgyoku (o al menos la usa de cebo para Facundo). Yamamoto prohíbe el rescate y prepara la defensa de Karakura. 19/09 noche: Ichigo, Uryū y Chad en la tienda de Urahara; Urahara está por abrir la Garganta hacia Hueco Mundo (canon). Rukia y Renji llegarán después.",
     "aizen_plan": "Aizen ordenó a las Espadas: al del pelo bicolor y el gato, no matarlo; dejarlo llegar hasta él (quiere el Hōgyoku; Orihime es el cebo y su poder la herramienta para intentar 'reconstruir' uno si falla lo demás). A los demás intrusos, libre.",
     "aizen_petrificado": "T320: Aizen, estatua viva en la sala del trono de Las Noches. Consciente adentro. La piedra solo se rompe si Facundo quiere o muere. Si alguien rompe la estatua, Aizen muere (como con Krilin y Piccolo).",
-    "bleach_espada_tras_aizen": "T331: Con Aizen petrificado, Barragan reclama otra vez el trono de Hueco Mundo y viene a la cúpula con su Fracción (Abirama, Charlotte, Findorr, Ggio, Nirgge, Poww). Quiere la estatua como trofeo. Starrk y Harribel no se movieron todavía (Starrk duerme; Harribel espera con sus Fracción). Mayuri va hacia la torre de Szayel, donde Renji y Uryū pelean contra la 8.ª Espada (canon). Grimmjow herido, paradero no confirmado. Zommari vigila. Yammy en su torre."
+    "bleach_espada_tras_aizen": "T331: Con Aizen petrificado, Barragan reclama otra vez el trono de Hueco Mundo y viene a la cúpula con su Fracción (Abirama, Charlotte, Findorr, Ggio, Nirgge, Poww). Quiere la estatua como trofeo. Starrk y Harribel no se movieron todavía (Starrk duerme; Harribel espera con sus Fracción). Mayuri va hacia la torre de Szayel, donde Renji y Uryū pelean contra la 8.ª Espada (canon). Grimmjow herido, paradero no confirmado. Zommari vigila. Yammy en su torre. T337: Barragan petrificado. Su Fracción (Abirama, Charlotte, Findorr, Poww) en shock; Ggio y Nirgge inconscientes. Ulquiorra sube a la cúpula al dejar de sentir el reiatsu de Barragan."
   }
 }

@@ -335,3 +335,4 @@ T333 · Bleach · Las Noches · "Qué aburridos." Ggio y Nirgge atacan a la vez.
 T334 · Bleach · Las Noches · Expansión de Dominio: Cuadrante del Retorno (primer uso). Revierte el ataque de Ggio y Nirgge una y otra vez.
 T335 · Bleach · Las Noches · Dentro del dominio: "Este es mi lugar..." Nadie de afuera siente nada. Ggio libera Tigre Estoque y ataca.
 T336 · Bleach · Las Noches · Deja inconscientes a Ggio y Nirgge, deshace el dominio. Barragan se levanta del trono. +600 EXP, +50 F.
+T337 · Bleach · Las Noches · Dice que Ulquiorra cuide Hueco Mundo. Escupe a Barragan: petrificado. NIVEL 24. +8.000 EXP, +1.000 F. Llega Ulquiorra.

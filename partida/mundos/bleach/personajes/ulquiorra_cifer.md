@@ -25,3 +25,4 @@ ESTADO: abriendo una Garganta, con Yammy al hombro.
 - T325 · Facundo le encarga cuidar Las Noches. Se hace a un lado: su orden era Las Noches, no Aizen.
 - DIÁLOGO T325: "La orden era proteger Las Noches. No dijo nada de proteger su cuerpo." / "Vete. Antes de que encuentre una razón para no dejarte."
 ESTADO: a cargo de Las Noches.
+- T337 · Deja de sentir el reiatsu de Barragan y sube a la cúpula. Ve a Barragan de piedra y a Ggio y Nirgge inconscientes. No escuchó lo que dijo Facundo de él.
