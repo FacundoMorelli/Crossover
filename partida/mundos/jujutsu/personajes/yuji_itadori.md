@@ -95,3 +95,5 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T291 · 16:52 · Destello Negro: exorciza la maldición. Levanta el dedo con un trapo. Pregunta qué hacer con él.
 - DIÁLOGO T291: "¿Y ahora? La escuela lo va a guardar, pero... siempre alguien termina robándolos."
 - T292 · Deja el dedo en la caja; ve cómo desaparece. Se ríe, incrédulo.
+- T293 · Propone visitar la tumba de su abuelo Wasuke en Sendai antes de volver.
+- DIÁLOGO T293: "¡Genial!" / "Oigan... mi abuelo está enterrado aquí cerca. Hace mucho que no voy. ¿Me acompañan?"

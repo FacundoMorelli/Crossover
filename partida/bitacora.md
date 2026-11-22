@@ -291,3 +291,4 @@ T289 · Jujutsu · 23/01 19:30 · Simula: ramen, Nanami, entrenamientos; Megumi 
 T290 · Jujutsu · 24/01 16:40 · Sendai, antigua escuela de Yuji. Maldición en el almacén junto al dedo.
 T291 · Jujutsu · 16:52 · Mira: los tres exorcizan la maldición. Yuji con el último dedo: ¿qué hacemos?
 T292 · Jujutsu · 16:54 · ECLIPSE: se traga el último dedo de Sukuna. Megumi respira.
+T293 · Jujutsu · 17:05 · 'Se llama Eclipse.' Yuji propone visitar la tumba de su abuelo.

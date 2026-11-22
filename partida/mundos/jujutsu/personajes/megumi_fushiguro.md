@@ -47,3 +47,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T291 · 16:52 · Su perro distrae a la maldición. Da un paso atrás al ver el dedo.
 - T292 · 16:54 · Ve desaparecer el último dedo de Sukuna en el Eclipse. Suelta el aire; se le aflojan los hombros.
 - DIÁLOGO T292: "...Ya no está. Lo siento. No está en ningún lado."
+- T293 · "...Gracias." (por el dedo)

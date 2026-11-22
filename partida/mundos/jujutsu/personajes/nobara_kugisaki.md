@@ -50,3 +50,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - DIÁLOGO T291: "¡Nada de regenerarse en mi turno!"
 - T292 · Ve el Eclipse.
 - DIÁLOGO T292: "¿Y ESO qué fue?"
+- T293 · "¿Y los ojos? ¿Ya no te sangran?"

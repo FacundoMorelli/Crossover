@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuji, Megumi, Nobara · T293 · la técnica del punto negro se llama Eclipse y usa los dos ojos; la aprendió hace poco (Facundo se lo dijo).
 - Yuji, Ijichi · T280 · Facundo volvió y se queda un tiempo.
 - Yuji · T278 · Facundo volvió el 17/01/2019; dijo que cree que llegó tarde.
 - Yuji, Choso, Yuta · T85 · Facundo les dijo que se iba a hacer algo y no sabía cuándo volvía.
