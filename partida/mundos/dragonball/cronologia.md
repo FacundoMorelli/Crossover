@@ -15,6 +15,7 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- 23:58 · (T208) Uranai Baba llega al páramo a llevarse a Goku al Otro Mundo.
 - 20:00 · (T203) Goku vuelve al páramo con Gohan y Goten.
 - 19:20 · (T203) Buu se duerme en el páramo.
 - 19:05 · (T203) Shin y Kibito llegan al páramo.

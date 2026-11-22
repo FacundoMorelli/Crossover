@@ -206,3 +206,4 @@ T204 · Dragon Ball · 20:04 · Le cuenta a Goku lo de Vegeta y Buu. Goku preocu
 T205 · Dragon Ball · 20:06 · Goten acaricia a Kase.
 T206 · Dragon Ball · 20:08 · Kase presentado a Goten. Goku le pide cuidar a Vegeta y a Buu.
 T207 · Dragon Ball · 20:09 · Promete a Goku cuidar a Vegeta y a Buu. Goku propone seguir entrenando.
+T208 · Dragon Ball · 23:58 · Entrena con Goku hasta medianoche. NIVEL 13. Llega Baba por Goku.

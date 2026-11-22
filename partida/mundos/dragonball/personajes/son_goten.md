@@ -7,6 +7,7 @@ FÍSICO: niño, pelo negro en punta igual al de Goku, ropa de entrenamiento.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, tímido con desconocidos al principio, inocente; adora a su hermano y recién conoce a su papá.
 RELACIÓN CON FACUNDO: le cae bien (le dejó tocar al gato).
 ENCUENTROS:
+- T208 · 23:00 · Se duerme en brazos de Gohan mirando el entrenamiento.
 - T206 · 20:08 · Aprende que el gato se llama Kase.
 - T205 · 20:06 · Facundo le acerca a Kase despacio y le dice que primero lo deje oler. Kase se deja acariciar una vez. Goten, feliz.
 - T204 · 20:04 · Se acerca a Kase y le pregunta a Facundo si lo puede tocar.

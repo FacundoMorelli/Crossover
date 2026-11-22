@@ -1,12 +1,12 @@
 {
-  "turno": 207,
+  "turno": 208,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "20:09",
+  "hora": "23:58",
   "edad": 18,
-  "nivel": 12,
-  "exp": 41810,
-  "exp_siguiente_nivel": 43000,
+  "nivel": 13,
+  "exp": 48310,
+  "exp_siguiente_nivel": 50000,
   "fragmentos": 57,
   "plata_local": {
     "jujutsu": {
@@ -25,20 +25,20 @@
       "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
-  "puntos_de_stat_sin_asignar": 40,
+  "puntos_de_stat_sin_asignar": 45,
   "stats": {
-    "fuerza": 203,
-    "velocidad": 206,
-    "resistencia": 203,
-    "tecnica": 206,
-    "percepcion": 204,
-    "voluntad": 204,
-    "energia": 205,
-    "control": 204
+    "fuerza": 205,
+    "velocidad": 208,
+    "resistencia": 205,
+    "tecnica": 208,
+    "percepcion": 206,
+    "voluntad": 206,
+    "energia": 207,
+    "control": 206
   },
-  "energia_actual_pct": 50,
+  "energia_actual_pct": 15,
   "eclipse": {
-    "maestria": 47,
+    "maestria": 49,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -50,7 +50,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "bien (leve ardor)",
+  "ojos": "ardor fuerte; el rojo sangra un poco, el azul nublado",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -107,7 +107,7 @@
     "dragonball": {
       "nombre": "Forma Cenit",
       "tipo": "transformación de ki (nativa de Dragon Ball) + manejo del ki",
-      "maestria": 40,
+      "maestria": 43,
       "incluye_base": [
         "Manejo del ki de este mundo: volar (Bukūjutsu), sentir el ki ajeno, ráfagas y ondas de ki, ocultar el propio (además del Velo)"
       ],
@@ -125,7 +125,8 @@
         "estado": "bloqueada"
       },
       "notas": [
-        "T198: maestría 40 entrenando con Goku. Multiplicador x4, duración 15 min."
+        "T198: maestría 40 entrenando con Goku. Multiplicador x4, duración 15 min.",
+        "T208: maestría 43 entrenando con Goku hasta medianoche."
       ]
     }
   },
