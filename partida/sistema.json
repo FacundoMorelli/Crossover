@@ -1,5 +1,5 @@
 {
-  "turno": 159,
+  "turno": 160,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
   "hora": "10:41",
@@ -7,7 +7,7 @@
   "nivel": 8,
   "exp": 17210,
   "exp_siguiente_nivel": 21000,
-  "fragmentos": 894,
+  "fragmentos": 294,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -22,16 +22,16 @@
   },
   "puntos_de_stat_sin_asignar": 15,
   "stats": {
-    "fuerza": 46,
-    "velocidad": 49,
-    "resistencia": 46,
-    "tecnica": 49,
-    "percepcion": 47,
-    "voluntad": 47,
-    "energia": 48,
-    "control": 47
+    "fuerza": 121,
+    "velocidad": 124,
+    "resistencia": 121,
+    "tecnica": 124,
+    "percepcion": 122,
+    "voluntad": 122,
+    "energia": 123,
+    "control": 122
   },
-  "energia_actual_pct": 33,
+  "energia_actual_pct": 30,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [

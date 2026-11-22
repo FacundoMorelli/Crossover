@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T160 · 10:41 · Aparece junto a Ichigo, a 30 m, donde estaba Byakuya.
 - T159 · 10:41 · Facundo la carga y huye; los seis rayos de luz de Aizen lo atrapan y ella cae al pasto.
 - T158 · 10:38 · Escucha el aviso de Isane: Aizen vivo y traidor. Se aferra al brazo de Facundo.
 - T157 · 09:45 · Le dice a Byakuya que no va a ir.
@@ -43,6 +44,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T160: "¡¿Ichigo?!"
 - T159: "¡Facundo!"
 - T157: "No, nii-sama. Esta vez no."
 - T156: "¡Estás loco! ¡Le dijiste viejo al Capitán Comandante!"
