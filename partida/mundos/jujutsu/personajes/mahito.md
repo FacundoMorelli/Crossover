@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T21 · 23:55 · Facundo activa la Marca II desde el escalón: Mahito vuelve al instante a estar congelado entero, con la misma grieta. La Marca se consume.
 - T20 · 23:51-23:55 · Facundo lo marca (Marca II, estado: congelado). Descansa. A los cuatro minutos Mahito rompe el hielo inflándose desde adentro; queda con el número II en el pecho. Ya no sonríe del todo.
 - T19 · 23:51 · Facundo corta a sus tres transfigurados y lo congela entero con Echo. Queda como estatua de hielo; el hielo empieza a crujir desde adentro.
 - T18 · 23:50 · Facundo esquiva el hacha y el puño; le congela el brazo-puño con Escarcha Lunar. Mahito se lo arranca, lo regenera y saca de su boca bolitas de carne: humanos transfigurados guardados que empiezan a crecer.
@@ -23,4 +24,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: libre otra vez, con la Marca II en el pecho; gastó energía regenerándose. Cauto.
+ESTADO: congelado otra vez (Marca II activada). Consciente. Gastó energía regenerándose.

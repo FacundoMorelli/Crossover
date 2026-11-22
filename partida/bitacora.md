@@ -19,3 +19,4 @@ T17 · Jujutsu · 23:49 · Compra 30 puntos de stat (30 F) y los reparte parejo:
 T18 · Jujutsu · 23:50 · Esquiva; Escarcha Lunar congela el brazo de Mahito; se lo arranca y regenera. Isómero Polimórfico: tres transfigurados.
 T19 · Jujutsu · 23:51 · Corta a tres transfigurados (+90 EXP, +3 F). Congela a Mahito entero con Escarcha Lunar. Ojo azul ciego temporalmente.
 T20 · Jujutsu · 23:55 · Marca II sobre Mahito congelado. Descansa 4 min. Mahito rompe el hielo.
+T21 · Jujutsu · 23:55 · Activa la Marca II: Mahito vuelve a quedar congelado al instante. Marca consumida.

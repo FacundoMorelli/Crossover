@@ -1,5 +1,5 @@
 {
-  "turno": 20,
+  "turno": 21,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
   "hora": "23:55",
@@ -26,7 +26,7 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 64,
+  "energia_actual_pct": 56,
   "eclipse": {
     "maestria": 33,
     "partes_desbloqueadas": [
@@ -45,7 +45,7 @@
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
       "tipo": "técnica maldita innata",
-      "maestria": 31,
+      "maestria": 32,
       "reglas": [
         "Al tocar con energía maldita a una persona, objeto o lugar, deja una Marca (un número romano que solo se ve con energía maldita). Graba el estado exacto de lo marcado en ese instante.",
         "Al activar una Marca (a distancia, si la ve), lo marcado vuelve al estado grabado: heridas, roturas, posición si es un objeto, temperatura, todo.",
@@ -66,11 +66,6 @@
           "n": "I",
           "sobre": "Megumi Fushiguro (estado grabado: muy herido, inconsciente, 23:36 del 31/10)",
           "vence": "01/11/2018 23:36"
-        },
-        {
-          "n": "II",
-          "sobre": "Mahito (estado grabado: congelado entero, 23:51 del 31/10)",
-          "vence": "01/11/2018 23:51"
         }
       ]
     }
@@ -312,6 +307,7 @@
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
     "reloj_nanami": "Sukuna devuelve el control a Yuji ≈23:30. Yuji vaga por la zona arrasada; encuentra a Nanami ≈00:10 al sur de la estación (cerca de Dogenzaka/salida sur). Mahito está ahí. Si nadie interviene, Nanami muere ≈00:12.",
-    "mahito_posicion": "Mahito salió del túnel (T13). Vio a Facundo cortar a sus transfigurados. Curioso por él. Su alma: Mahito intenta 'ver' la forma del alma de Facundo y no puede leerla bien (Velo: no mide poder); le resulta rara."
+    "mahito_posicion": "Mahito salió del túnel (T13). Vio a Facundo cortar a sus transfigurados. Curioso por él. Su alma: Mahito intenta 'ver' la forma del alma de Facundo y no puede leerla bien (Velo: no mide poder); le resulta rara.",
+    "mahito_estado": "Recongelado por la Marca II (T21). Adentro, por primera vez esta noche, siente algo parecido a la inquietud: no entiende la técnica. Todavía no es miedo. Romperá el hielo en ~4 min (≈23:59)."
   }
 }
