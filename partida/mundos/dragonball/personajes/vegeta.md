@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T216 · 08:05 · Entrena solo en SSJ2 en un cañón helado del norte, rompiendo montañas. Ve llegar a Facundo. Le pregunta si vino a reírse.
 - T203 · 19:02 · Se va volando hacia el oeste, sin decir nada.
 - T202 · 18:58 · Ve a Buu calmarse con dulces. Se da vuelta para irse, rengo, sin mirar a nadie.
 - T201 · 18:57 · Facundo lo cambia de lugar con una roca (Boogie Woogie) y lo salva del rayo de Buu. Furioso por deberle algo.
@@ -30,6 +31,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T216: "¿Qué? ¿Viniste a reírte? ¿O Kakarotto te dejó de niñera?"
 - T201: "¡¿Quién te pidió nada?!"
 - T200: "¡Deja de reírte, gusano rosado!" / "¡FINAL FLASH!"
 - T197: "Si sale, es mío."

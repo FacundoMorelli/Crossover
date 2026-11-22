@@ -7,6 +7,7 @@ FÍSICO: niño, pelo negro en punta igual al de Goku, ropa de entrenamiento.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, tímido con desconocidos al principio, inocente; adora a su hermano y recién conoce a su papá.
 RELACIÓN CON FACUNDO: le cae bien (le dejó tocar al gato).
 ENCUENTROS:
+- T216 · 07:35 · Quiere ir con Facundo y Kase; Milk no lo deja.
 - T214 · 07:20 · Le da pan con manteca a Kase a escondidas de Milk.
 - T213 · 07:10 · Golpea la puerta de la casita: el desayuno está listo y quiere ver a Kase.
 - T208 · 23:00 · Se duerme en brazos de Gohan mirando el entrenamiento.
