@@ -1,13 +1,13 @@
 {
-  "turno": 168,
+  "turno": 169,
   "mundo_actual": "bleach",
   "fecha_local": "22 de agosto (año del canon, ~2001)",
-  "hora": "15:10",
+  "hora": "15:11",
   "edad": 18,
   "nivel": 9,
-  "exp": 22010,
+  "exp": 22610,
   "exp_siguiente_nivel": 25000,
-  "fragmentos": 294,
+  "fragmentos": 444,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -31,7 +31,7 @@
     "energia": 124,
     "control": 123
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -553,6 +553,13 @@
       "turno": 134,
       "fragmentos": 5,
       "exp": 400
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Yammy Llargo (Arrancar incompleto), de un Puño Divergente",
+      "turno": 169,
+      "fragmentos": 150,
+      "exp": 600
     }
   ],
   "viaje": {
