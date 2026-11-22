@@ -410,3 +410,4 @@ T408 · Shingeki · Shiganshina · Entrega a Bertholdt. Se ofrece a encargarse d
 T409 · Shingeki · afuera · Distrae al Bestia; Levi lo derrota y saca a Zeke. El Carguero viene a rescatarlo.
 T410 · Shingeki · afuera · Bola de ki: derriba al Carguero; Pieck inconsciente. Zeke capturado le pregunta qué es.
 T411 · Shingeki · afuera · "Vine con una misión." Levi calla a Zeke y pide que cargue a Pieck.
+T412 · Shingeki · Shiganshina · Vuelven con Zeke y Pieck. Cuatro cambiantes capturados. Erwin va al sótano.

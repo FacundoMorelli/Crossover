@@ -16,3 +16,4 @@
 ## EN PARALELO
 - Marley; Ymir con los guerreros (devorada por Porco más adelante).
 - T409 · Levi derrota al Bestia con Facundo de distracción; saca a Zeke de la nuca (sin piernas). El Carguero (Pieck) viene a rescatarlo.
+- 11:00-11:20 · (T412) Cuatro cambiantes de Marley capturados vivos: Reiner, Bertholdt, Zeke, Pieck. La Legión casi sin bajas. Erwin vivo y entero. Rumbo al sótano.
