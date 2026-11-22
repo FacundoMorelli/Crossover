@@ -314,3 +314,4 @@ T312 · Bleach · Las Noches · Se destransforma. Llega a la puerta de Orihime: 
 T313 · Bleach · Las Noches · Loly y Menoly inconscientes. Orihime: 'yo era la invitación'.
 T314 · Bleach · Las Noches · Orihime se cura. Cae el reiatsu de Ichigo (Ulquiorra).
 T315 · Bleach · Las Noches · Cúpula: Ichigo con el pecho atravesado; Orihime lo cura. Ulquiorra: 'Aizen te espera'.
+T316 · Bleach · Las Noches · Sala del trono. Aizen ofrece: Hōgyoku a cambio de todos y de Karakura.

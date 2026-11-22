@@ -100,3 +100,5 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - T306 · Come la semilla del ermitaño: curada entera. Siente caer el reiatsu de Chad.
 - DIÁLOGO T306: "¿Qué... qué es esto? Ni la Cuarta División..." / "¡Sado!"
 - T308 · Facundo se pone delante de ella y se transforma (Ultra Instinto). Recibe a Nel.
+- T316 · Protesta porque Facundo va solo con Ulquiorra; se queda con los demás.
+- DIÁLOGO T316: "¡Es una trampa, idiota! ...Vuelve."

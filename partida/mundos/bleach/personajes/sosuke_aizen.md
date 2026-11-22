@@ -23,4 +23,6 @@ DIÁLOGOS CLAVE:
 - T158: "Tienes algo que me pertenece."
 QUÉ SABE DE FACUNDO: que conoce el secreto de su espada (tocó la hoja, T159); informes de Byakuya, Renji y Gin; que Rukia está vacía; deduce que Urahara sacó el Hōgyoku y que Facundo lo tiene o sabe dónde está.
 QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco, Boogie Woogie, el tajo al Kikōō).
-ESTADO: en Hueco Mundo, sin el Hōgyoku. Herido en el hombro y la frente.
+- T316 · Recibe a Facundo en la sala del trono. Cicatriz fina en la frente. Le propone el Hōgyoku a cambio de dejar ir a Orihime y a todos, y no tocar Karakura.
+- DIÁLOGO T316: "Facundo-kun. Bienvenido a Las Noches." / "Esta cicatriz es tuya. La conservo. Es la única que tengo." / "Te propongo algo simple. El Hōgyoku. A cambio, Inoue Orihime y todos tus amigos se van de aquí caminando. Y Karakura sigue existiendo."
+ESTADO: en Las Noches, sin el Hōgyoku. Cicatriz en la frente.

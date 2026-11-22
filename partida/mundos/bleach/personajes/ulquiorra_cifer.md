@@ -19,3 +19,4 @@ ESTADO: abriendo una Garganta, con Yammy al hombro.
 - T314 · Vence a Ichigo en la cúpula (canon): le atraviesa el pecho con un Cero/la mano.
 - T315 · Sobre la cúpula, junto a Ichigo caído. Deja que Orihime lo cure. Invita a Facundo a la sala del trono de Aizen: lo escoltará.
 - DIÁLOGO T315: "Llegaste. Aizen-sama lo previó." / "Aizen-sama te espera en la sala del trono. Yo te escoltaré." / "Si te niegas, Aizen-sama irá a buscarte a Karakura. Con todo."
+- T316 · Escolta a Facundo a la sala del trono.
