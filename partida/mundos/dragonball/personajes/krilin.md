@@ -5,6 +5,7 @@ FÍSICO: bajo, pelo negro corto (ya no rapado), seis puntos en la frente, ropa d
 PERSONALIDAD Y FORMA DE HABLAR: simpático, nervioso, leal.
 RELACIÓN CON FACUNDO: ninguna (no lo conoce).
 ENCUENTROS:
+- T250 · día 4 10:16 · Facundo marca su estatua con la Manecilla Inversa (Marca I).
 - T249 · día 4 10:15 · Facundo lo ve de piedra en el risco. Grieta fina en el tobillo.
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: petrificado (Dabura). Grieta fina en el tobillo.
