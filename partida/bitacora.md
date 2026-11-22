@@ -383,3 +383,4 @@ T381 · One Piece · Going Merry · Ofrece dinero a la tripulación. Nami pregun
 T382 · One Piece · Going Merry · Cambia 1.000 F por 12M berries y los saca billete por billete. Nami pregunta cuánto es para el barco.
 T383 · One Piece · Going Merry · Le da los 12M a la tripulación. Nami tesorera. Le pregunta qué quiere comprar.
 T384 · One Piece · Going Merry · "Lo que vea." Nami le devuelve 1M para sus gastos. Loguetown en dos días.
+T385 · One Piece · Loguetown · Llegan a Loguetown. La tripulación se separa.

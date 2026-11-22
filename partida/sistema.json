@@ -1,8 +1,8 @@
 {
-  "turno": 384,
+  "turno": 385,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 6 (en el mar, East Blue)",
-  "hora": "11:00",
+  "fecha_local": "Día 8 (Loguetown)",
+  "hora": "09:30",
   "edad": 18,
   "nivel": 24,
   "exp": 175690,
@@ -1061,7 +1061,8 @@
     "onepiece_tirada": "Mundo elegido al azar (T345) entre los 9 no visitados: onepiece. Momento: tirada 0.061 -> cap. ~71 de 1172: arco Arlong Park.",
     "momento_del_canon_onepiece": "Arlong Park, cap. ~71. Nami se llevó el Going Merry y está en Arlong Park. Zoro, Usopp y Johnny llegaron a la isla: Zoro capturado por los gyojin y llevado a Arlong Park; Usopp noqueado por Nojiko, despierta en su casa. Luffy, Sanji y Yosaku todavía en el mar, a punto de someter a Momoo (llegan en unas horas). Nami tiene casi 100.000.000 de berries enterrados bajo el mandarinal. Nezumi (comprado por Arlong) vendrá a confiscarlos mañana. Luego: Nami 'mata' a Usopp, Nojiko herida por Nezumi, Nami se apuñala el tatuaje, pide ayuda a Luffy, pelea en Arlong Park.",
     "lugar_de_llegada_onepiece": "Loma con mandarinos silvestres entre Villa Cocoyasi y la costa de Arlong Park, junto al camino. A unos 800 m: dos gyojin bajan al pueblo a cobrar el tributo de un aldeano atrasado.",
-    "onepiece_nezumi_informe": "Nezumi informa al Cuartel General (vía la 16.ª sucursal) en ~2 días: Arlong derrotado por Monkey D. Luffy (canon) y un segundo pirata de la misma tripulación, 'pelo blanco y azul, ojos de dos colores, un gato enorme, varias Frutas del Diablo (vuela, controla el agua, mueve cosas sin tocarlas)'. Exagera para cubrirse. Recompensas: Luffy 30.000.000 (canon); Facundo: cartel probable en el arco de Loguetown, monto a fijar por el motor (alto para East Blue). Apodo pendiente en los diarios."
+    "onepiece_nezumi_informe": "Nezumi informa al Cuartel General (vía la 16.ª sucursal) en ~2 días: Arlong derrotado por Monkey D. Luffy (canon) y un segundo pirata de la misma tripulación, 'pelo blanco y azul, ojos de dos colores, un gato enorme, varias Frutas del Diablo (vuela, controla el agua, mueve cosas sin tocarlas)'. Exagera para cubrirse. Recompensas: Luffy 30.000.000 (canon); Facundo: cartel probable en el arco de Loguetown, monto a fijar por el motor (alto para East Blue). Apodo pendiente en los diarios.",
+    "onepiece_loguetown": "Loguetown, Día 8. Canon: Zoro a la armería de Ipponmatsu (Tashigi, Kitetsu, Yubashiri); Sanji mercado; Usopp munición; Nami ropa; Luffy a la plataforma de ejecución (~13:00 Buggy y Alvida lo capturan, ejecución ~14:30, rayo); Smoker y Tashigi en la base; Dragon en la ciudad, encapuchado. Tormenta grande por la tarde. CAMBIO posible: Smoker ya vio el cartel de Facundo (26M) y lo busca también."
   },
   "recompensa_onepiece": {
     "monto": 26000000,
