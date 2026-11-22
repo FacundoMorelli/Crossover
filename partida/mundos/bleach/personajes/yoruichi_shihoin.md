@@ -7,6 +7,7 @@ FÍSICO: gato negro de ojos dorados.
 PERSONALIDAD Y FORMA DE HABLAR: habla con voz grave masculina como gato; burlona, segura.
 RELACIÓN CON FACUNDO: curiosidad divertida; lo vigila.
 ENCUENTROS:
+- T156 · 09:43 · Aparece en la colina e intercepta a Soi Fon (canon: Yoruichi vs Soi Fon).
 - T135 · 19/07 · Guía al grupo por el Dangai. Le grita a Ichigo que se detenga.
 - T134 · 08-18/07 · Entrena a Chad y Orihime. Una noche le gana a Facundo una carrera por los techos. Va a guiar al grupo en la Sociedad de Almas.
 - T120 · 07/07 23:05 · Despierta a Facundo: dos reiatsu de la Sociedad de Almas en la ciudad, un capitán.

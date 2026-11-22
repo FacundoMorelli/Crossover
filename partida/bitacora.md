@@ -154,3 +154,4 @@ T152 · Bleach · 29/07 09:40 · Simula diez días escondido. Colina del Sōkyok
 T153 · Bleach · 09:41 · Marco contra el Kikōō y Boogie Woogie con Rukia. Facundo en el patíbulo, descubierto ante todos los capitanes.
 T154 · Bleach · 09:42 · Destruye el Sōkyoku. Saluda a los capitanes. NIVEL 8. Yamamoto manda a Soi Fon.
 T155 · Bleach · 09:42 · Boogie Woogie con Yamamoto frente al golpe de Soi Fon. 'Ahora soy el Capitán Comandante.' Yamamoto empieza a arder.
+T156 · Bleach · 09:44 · Boogie con Kyōraku, huye con Rukia por el precipicio. Byakuya los alcanza en el bosque.

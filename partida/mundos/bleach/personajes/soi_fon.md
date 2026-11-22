@@ -6,6 +6,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulta
 FÍSICO: menuda, pelo negro corto con dos trenzas largas envueltas en tela blanca, sin mangas.
 PERSONALIDAD Y FORMA DE HABLAR: fría, eficiente, desprecia a los débiles; venera a Yoruichi en secreto.
 ENCUENTROS:
+- T156 · 09:43 · Sale tras Facundo; una sombra negra la intercepta en el borde de la colina (Yoruichi).
 - T155 · 09:42 · Su estocada con Suzumebachi frena a un centímetro del pecho de Yamamoto: Facundo los cambió de lugar. Pálida de horror y furia.
 - T154 · 29/07 09:42 · Yamamoto le ordena capturar a Facundo. Desaparece de su lugar.
 DIÁLOGOS CLAVE:

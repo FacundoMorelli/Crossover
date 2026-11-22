@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T156 · 09:43 · Facundo aparece a su lado, la carga y salta por el precipicio con ella. Caen en un claro del bosque, al pie de la colina.
 - T153 · 09:41 · Facundo traza un Marco entre el Kikōō y el patíbulo y se cambia de lugar con ella (Boogie Woogie): Rukia aparece atada junto a Kyōraku, entre el 8.º Escuadrón. Facundo queda en el patíbulo detrás del Marco.
 - T152 · 29/07 09:40 · En el patíbulo de la colina del Sōkyoku. Pide que perdonen a los ryoka. Su reiatsu volvió a la mitad. El Sōkyoku se transforma en el Kikōō.
 - T134 · 18/07 · (informado por Urahara) Condenada a muerte en el Sōkyoku. Fecha fijada.
@@ -39,6 +40,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T156: "¡Estás loco! ¡Le dijiste viejo al Capitán Comandante!"
 - T153: "¡¿Facundo?! ¡¿Qué haces ahí arriba?!"
 - T152: "Gracias a todos. Ya no tengo miedo."
 - T133: "Nii-sama. Me voy contigo. Sin pelear. Pero a ellos dos no los tocas." / (a Facundo, inconsciente) "Idiota. Ya hiciste más que nadie."
