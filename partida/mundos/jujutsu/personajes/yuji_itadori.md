@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T50 · 01:30 · Escucha que Facundo no es de ninguna escuela.
 - T48 · 01:28 · Facundo le dice que sin él Nanami y Megumi estarían muertos. Yuji se ríe un poco, acaricia a Kase. Nobara llega con jugos.
 - T47 · 01:26 · Facundo le dice que no fue su culpa, que es algo que tiene adentro. Yuji le confirma que es Sukuna (supone que Facundo vio las marcas). Sigue cargando la culpa.
 - T46 · 01:24 · Se sienta al lado de Facundo en el puesto de mando. Le cuenta que Shoko dice que Nanami y Megumi van a vivir. Le agradece.

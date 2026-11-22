@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Nobara y Yuji · T50 · Facundo les dijo que no es de ninguna escuela y que no sabe dónde está más allá de Tokio/Shibuya. Lo toman por un hechicero sin registro ('salvaje').
 - Yuji Itadori · T47 · cree que Facundo sabe de Sukuna porque lo vio con las marcas en el campo gris (T5, deducción de Yuji). Facundo le dijo que no fue su culpa.
 - Aoi Todo · T43 · su nombre, su tipo de mujer; lo considera su hermano.
 - Yuki Tsukumo · T40 · lo vio quedarse detrás de ella; vio a Kenjaku hablarle ('el del fogonazo'). Deduce que se cruzó con él en la pelea.

@@ -48,3 +48,4 @@ T46 · Jujutsu · 01:24 · Descansa. Nanami estable, Megumi atendido. Yuji le ag
 T47 · Jujutsu · 01:26 · Le dice a Yuji que no fue su culpa. Yuji confirma que es Sukuna.
 T48 · Jujutsu · 01:28 · Consuela a Yuji. Nobara trae jugos y pregunta por Kase.
 T49 · Jujutsu · 01:29 · Presenta a Kase. Kase ignora a Nobara.
+T50 · Jujutsu · 01:30 · Dice que no es de ninguna escuela. Nobara pregunta dónde va a dormir.
