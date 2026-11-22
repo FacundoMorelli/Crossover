@@ -281,3 +281,4 @@ T279 · Jujutsu · 20:23 · Mano en el hombro de Yuji. Llora. '¿Te vas a quedar
 T280 · Jujutsu · 20:48 · 'Me quedo un tiempo.' Ijichi viene a buscarlos; recuerda la orden de retención.
 T281 · Jujutsu · 21:40 · Llega a la escuela. Nobara lo ve.
 T282 · Jujutsu · 21:42 · Perdón a Nobara. Puñetazo y abrazo. Megumi encerrado; Nanami en la enfermería.
+T283 · Jujutsu · 21:45 · Puerta de Megumi. 'Váyanse.'

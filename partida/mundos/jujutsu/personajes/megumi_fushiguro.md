@@ -30,3 +30,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su nombre; que la marca era su técnica (T69); Yuji le dijo que lo salvó a él y a Nanami (T69).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
+- ESTADO (17/01/2019): vivo; Sukuna usó su cuerpo semanas y mató a su hermana Tsumiki (Yorozu) con sus manos. Encerrado en su cuarto, deprimido.
+- T283 · 21:45 · Facundo golpea su puerta. Contesta sin abrir: "Váyanse." (No sabe que es Facundo.)
