@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T78 · 03/11-05/11 · En Tokio con Facundo y Choso: exorcizan maldiciones, salvan civiles, duermen en edificios vacíos. Yuji casi no habla. 05/11 22:40 aparece Naoya.
 - T77 · 07:15-07:50 · Sale con Facundo por el sendero del oeste. Llegan a la ruta vieja; Choso los espera.
 - T76 · 07:14 · Le pide a Nobara que se quede a cuidar a Megumi y a Nanami.
 - T75 · 07:13 · Facundo le dice que se van ya a buscar a Choso. Yuji duda (Megumi, Nanami, el director) y acepta.

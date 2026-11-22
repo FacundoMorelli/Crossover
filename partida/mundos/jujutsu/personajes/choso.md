@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: Manipulación de Sangre (Sangre Perforante), T36
 EDAD EN ESTE MOMENTO DEL CANON: más de 150 años (encarnado en 2018; aspecto de veinteañero)
 FÍSICO: pelo negro en dos coletas cortas, raya oscura sobre la nariz, ropa holgada.
 PERSONALIDAD Y FORMA DE HABLAR: serio, intenso, protector con sus "hermanos".
-RELACIÓN CON FACUNDO: desconfianza agradecida.
+RELACIÓN CON FACUNDO: confianza creciente; lo ve pelear junto a Yuji.
 ENCUENTROS:
+- T78 · 03/11-05/11 · En Tokio con Yuji y Facundo. Empieza a confiar en Facundo. 05/11 22:40 aparece Naoya.
 - T77 · 07:50 · Los encuentra en la ruta vieja. Yuji le cuenta la orden.
 - T74 · 01/11-03/11 · No puede entrar a la barrera de la escuela; acampa en el bosque de afuera y Yuji le lleva comida.
 - T58 · 06:02 · Facundo le dice que es un hechicero sin escuela, nada más. Choso lo acepta a medias, por Yuji.
@@ -21,5 +22,5 @@ DIÁLOGOS CLAVE:
 - T44: "¿Y tú quién eres?" (a Facundo)
 - T36: "¡Aléjate de mi hermano, Noritoshi Kamo!"
 QUÉ SABE DE FACUNDO: lo vio llegar con Yuki y Todo (T44); Yuji le contó esa noche que Facundo los ayudó contra Mahito y salvó a Nanami (T44-T57); su nombre (Yuji, T57).
-QUÉ PODERES DE FACUNDO VIO: ninguno.
+QUÉ PODERES DE FACUNDO VIO: Rift y Echo, Proporción, Destello Solar (contra maldiciones, 03-05/11).
 ESTADO: en el campo gris, junto a Yuji.

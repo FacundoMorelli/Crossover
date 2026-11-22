@@ -47,6 +47,8 @@
 - 23:57-23:58 · Nanami se desploma en la losa; Facundo y Yuji lo estabilizan. Despierta. Vivo.
 
 ## LO QUE PASÓ
+- 05/11 22:40 · Naoya encuentra a Yuji, Choso y Facundo en Shinjuku (canon: Naoya vs Choso; Yuta aparece después).
+- 03-05/11 · Yuji, Choso y Facundo prófugos en Tokio, exorcizando maldiciones.
 - 03/11 · Decreto de los altos mandos (canon + orden sobre Facundo).
 - 02/11 · Yaga citado por los altos mandos. Naobito sigue grave.
 - 01/11 16:00 · Traslado a la escuela de Tokio. Facundo recibe el cuarto 2-08.

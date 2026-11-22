@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Naoya Zen'in · T78 · lo reconoce por la descripción del decreto de los altos mandos.
 - Megumi Fushiguro · T68 · lo vio al despertar; Yuji le dijo su nombre y que los salvó. Vio la Marca I en su propio pecho (no sabe qué es).
 - Maki Zen'in · T61 · lo vio en persona; por el rumor del puesto lo asocia con 'el que congeló a Mahito'.
 - Shoko Ieiri · T52 · examinó sus ojos: daño por calor en el rojo, congelación en el azul, desde adentro. Deduce que su técnica le cuesta la vista.
@@ -26,6 +27,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Yuji y Choso · 03-05/11 · lo vieron usar Rift y Echo, Proporción, Destello Solar y Marea Lunar contra maldiciones en Tokio. Algunos civiles rescatados vieron 'a un chico con espadas de fuego y hielo y un gato'.
 - Uraume y Kenjaku · T38 · vieron a Facundo romper el hielo de un golpe en un punto exacto. Kenjaku reconoce el estilo de la técnica de Nanami (lo deduce: conoce la técnica de los hechiceros de Tokio).
 - Uraume y Kenjaku · T37 · vieron que Facundo aplastó la ola de hielo con una fuerza invisible a ~150 m y la frenó antes de la losa. Uraume lo registra como alguien que torció su técnica.
 - Mahito, Yuji, Todo, Nobara · T34 · vieron (o sufrieron) el Destello Solar que cortó la expansión de dominio de Mahito. Todo quedó encandilado unos segundos; Yuji alcanzó a cubrirse. Todo y Nobara notan que salió del ojo de Facundo.

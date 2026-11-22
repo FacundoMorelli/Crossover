@@ -1,13 +1,13 @@
 {
-  "turno": 77,
+  "turno": 78,
   "mundo_actual": "jujutsu",
-  "fecha_local": "03/11/2018",
-  "hora": "07:52",
+  "fecha_local": "05/11/2018",
+  "hora": "22:40",
   "edad": 18,
-  "nivel": 5,
-  "exp": 9600,
-  "exp_siguiente_nivel": 10000,
-  "fragmentos": 423,
+  "nivel": 6,
+  "exp": 10200,
+  "exp_siguiente_nivel": 13500,
+  "fragmentos": 461,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -15,18 +15,18 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 0,
+  "puntos_de_stat_sin_asignar": 5,
   "stats": {
-    "fuerza": 43,
-    "velocidad": 46,
-    "resistencia": 43,
-    "tecnica": 45,
-    "percepcion": 44,
-    "voluntad": 44,
-    "energia": 45,
-    "control": 44
+    "fuerza": 44,
+    "velocidad": 47,
+    "resistencia": 44,
+    "tecnica": 46,
+    "percepcion": 45,
+    "voluntad": 45,
+    "energia": 46,
+    "control": 45
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 81,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -299,6 +299,13 @@
       "fragmentos": 300,
       "exp": 600,
       "nota": "muy fuerte (45-65+), más fuerte que Facundo: doble"
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "~30 maldiciones sueltas en Tokio (grados 4 a 2), 03-05/11",
+      "turno": 78,
+      "fragmentos": 38,
+      "exp": 600
     }
   ],
   "viaje": {
@@ -320,7 +327,7 @@
     "relojes": {
       "jujutsu": {
         "llegada": "31/10/2018 23:14",
-        "dias_transcurridos": 2
+        "dias_transcurridos": 4
       }
     },
     "puerta_abierta": true

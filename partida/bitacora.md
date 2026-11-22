@@ -76,3 +76,4 @@ T74 · Jujutsu · 03/11 07:12 · Simula 2 días: escuela, cuarto 2-08. Ijichi tr
 T75 · Jujutsu · 07:13 · Decide irse con Yuji a buscar a Choso. Ijichi indica el sendero del oeste. Nobara sale.
 T76 · Jujutsu · 07:14 · Le cuenta a Nobara. Ella quiere ir; Yuji le pide que se quede.
 T77 · Jujutsu · 07:52 · Nobara se queda; le regala clavos y un muñeco. Sale por el sendero del oeste con Yuji; Choso los espera en la ruta.
+T78 · Jujutsu · 05/11 22:40 · Simula: tres días en Tokio cazando maldiciones (+600 EXP, +38 F, NIVEL 6). Aparece Naoya Zen'in.
