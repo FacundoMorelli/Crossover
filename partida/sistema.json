@@ -1,13 +1,13 @@
 {
-  "turno": 381,
+  "turno": 382,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 6 (en el mar, East Blue)",
-  "hora": "10:42",
+  "hora": "10:50",
   "edad": 18,
   "nivel": 24,
   "exp": 175690,
   "exp_siguiente_nivel": 176000,
-  "fragmentos": 173915,
+  "fragmentos": 172915,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -26,7 +26,7 @@
     },
     "onepiece": {
       "moneda": "berries",
-      "cantidad": 0,
+      "cantidad": 12000000,
       "cambio": "1 Fragmento = 12.000 berries"
     }
   },
