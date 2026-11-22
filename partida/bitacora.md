@@ -165,3 +165,4 @@ T163 · Bleach · 10:50 · Aizen se va a Hueco Mundo sin el Hōgyoku. COPIA el p
 T164 · Bleach · 10:52 · Pide perdón a Yamamoto. Sentencia de Rukia anulada. Perdonado por hoy.
 T165 · Bleach · 10:54 · Rukia le agradece. Decidirá si vuelve a Karakura tras hablar con Byakuya.
 T166 · Bleach · 05/08 · Simula: Byakuya envaina (COPIA Senbonzakura), Renji lo reconoce (COPIA Zabimaru), NIVEL 9. Rukia se queda. Vuelta a Karakura.
+T167 · Bleach · 05/08 · Niega haber sido él. Urahara pregunta en voz baja por el Hōgyoku.

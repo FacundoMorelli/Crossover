@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T167 · 16:22 · Facundo niega haber sido él ('otra persona con mi cara'). Urahara se ríe. Después, aparte, le pregunta en voz baja si lo que guardó sigue a salvo, y le cuenta que Aizen se fue sin él: 'eso cambia todo'.
 - T166 · 05/08 16:20 · Recibe al grupo en el sótano de la tienda.
 - T134 · 08-18/07 · Reentrena a Ichigo. Entrena a Facundo dos veces con Benihime 'para ver'. Abre la Senkaimon el 18/07 a las 21:30.
 - T133 · 08/07 00:10 · Llega con paraguas. Recoge a Ichigo y a Uryū (con Tessai). Sube al techo; despierta a Facundo.
@@ -33,6 +34,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T167: "Qué lástima. Quería felicitar a esa persona." / (bajo) "¿Sigue donde lo dejó? ...Aizen se fue sin él. Eso cambia todo, Facundo-san. Y lo pone a usted en una lista muy corta."
 - T166: "¡Bienvenidos, bienvenidos! ...Facundo-san. Dicen que le dijo 'viejito' al Capitán Comandante. Cuénteme todo."
 - T134: "Facundo-san. La puerta está abierta. La decisión es suya."
 - T133: "Buenas noches, Facundo-san. Se la llevaron. ...Pero lo que importa no se lo llevaron."

@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T167 · 16:22 · Se ríe por primera vez en días.
 - T166 · 29/07-05/08 · Se recupera en la Cuarta División; recibe la placa de sustituto. Vuelve a Karakura con el grupo.
 - T160 · 10:41 · Rukia aparece a su lado.
 - T158 · 09:45-10:35 · Pelea contra Byakuya (canon): bankai contra bankai, máscara de hollow un instante; último choque: gana Ichigo.
@@ -36,6 +37,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T167: "¡Con su cara y con su gato! ¡Claro!"
 - T160: "¡¿Rukia?! ¿De dónde saliste?"
 - T158: "Ya está. Se terminó."
 - T157: "Perdón por llegar tarde. ...Facundo. Llévate a Rukia. Este es mío."
