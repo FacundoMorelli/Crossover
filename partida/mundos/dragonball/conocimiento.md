@@ -42,6 +42,7 @@
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 (nadie)
 ## INFORMACIÓN QUE CIRCULÓ
+- T261 · Krilin le cuenta a Roshi, la 18, Oolong y la Tortuga que Facundo mató a Dabura y lo de Buu (lo que Facundo le contó en T258).
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
 - La petrificación de Dabura no se puede deshacer a voluntad; solo se rompe cuando él muere: Dabura (T255).
