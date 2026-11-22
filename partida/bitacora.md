@@ -395,3 +395,4 @@ T393 · One Piece · Going Merry · Sueño: recorrer todo el mundo. Rompen el ba
 T394 · One Piece · Cabo Gemelo · Montaña Reversa, Laboon, Crocus. Historia de Laboon. Laboon se golpea contra la Red Line.
 T395 · One Piece · Going Merry · Promesa a Laboon, Log Pose, Mr. 9 y Miss Wednesday a bordo. Ella reconoce a Facundo por el cartel.
 T396 · One Piece · Going Merry · "Ajá." Mr. 9 promete fiesta en Whisky Peak para los famosos.
+T397 · One Piece · Going Merry · Avisa que se va y que vuelve. La tripulación lo despide.
