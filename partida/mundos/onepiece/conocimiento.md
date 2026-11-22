@@ -34,3 +34,4 @@
 - Nezumi · T374 · Oyó el rumor por sus soldados (que escucharon a los aldeanos de madrugada). No vio nada.
 - Nezumi y 6 marines · T375 · Facundo atacó a un oficial de la Marina con una espada azul (Echo). Nezumi lo va a informar (motivo: venganza y cubrirse). Testigos: Nojiko, Nami.
 - Nezumi, 6 marines, Nojiko, Nami · T376 · Vieron el ojo azul de Facundo brillar y los rifles flotar y darse vuelta (Marea Lunar). Lo atribuyen a una Fruta del Diablo.
+- Nami y Nojiko · T378 · Facundo no conocía la geografía ni la historia del mundo (Grand Line, Roger). Lo notan; Nojiko pregunta una vez de dónde salió y no insiste.

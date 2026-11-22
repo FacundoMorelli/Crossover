@@ -376,3 +376,4 @@ T374 · One Piece · Cocoyasi · Fiesta. Día 2: Nezumi llega al mandarinal por 
 T375 · One Piece · Mandarinal · Corta la pistola y un bigote de Nezumi ("se me resbaló la mano"). Nezumi ordena disparar.
 T376 · One Piece · Mandarinal · Marea Lunar: rifles flotando apuntando a los marines. Nezumi amenaza con informar al Cuartel General.
 T377 · One Piece · Mandarinal · Nezumi huye. Nami le cuenta lo del dinero y le agradece.
+T378 · One Piece · Mandarinal · Nami le explica el mundo con un mapa en la tierra.
