@@ -1,13 +1,13 @@
 {
-  "turno": 103,
+  "turno": 104,
   "mundo_actual": "bleach",
   "fecha_local": "24 de junio (año del canon, ~2001)",
-  "hora": "15:46",
+  "hora": "15:47",
   "edad": 18,
   "nivel": 6,
-  "exp": 11000,
+  "exp": 11060,
   "exp_siguiente_nivel": 13500,
-  "fragmentos": 761,
+  "fragmentos": 762,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -31,7 +31,7 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 94,
   "eclipse": {
     "maestria": 38,
     "partes_desbloqueadas": [
@@ -380,6 +380,13 @@
       "fragmentos": 150,
       "exp": 700,
       "nota": "45-65; más fuerte que Facundo en la Tasación: pagaría doble, pero queda consciente: se paga al vencer (inmovilizado = vencido)"
+    },
+    {
+      "mundo": "bleach",
+      "quien": "hollow-lagarto del parque (compartido con Ichigo)",
+      "turno": 104,
+      "fragmentos": 1,
+      "exp": 60
     }
   ],
   "viaje": {
