@@ -422,3 +422,4 @@ T420 · Shingeki · costa · Teletransporta a la Legión al mar. Eren pregunta s
 T421 · Shingeki · costa · Le dice a Eren que busquen aliados afuera. Erwin lo considera. Eren pregunta qué pasa si los odian igual.
 T422 · Shingeki · costa · Convence a Eren de no actuar por odio; se ofrece a ir a hablar al otro lado. Erwin pide volver.
 T423 · Shingeki · Shiganshina · Vuelven al sótano. Moblit: Zeke despertó y pide hablar solo con Facundo.
+T424 · Shingeki · Shiganshina · Habla a solas con Zeke. Zeke pide ver a Eren a solas.

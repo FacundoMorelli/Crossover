@@ -14,3 +14,4 @@ QUÉ SABE DE FACUNDO: lo vio flotar, la frontera, el pelo azul; sabe que derrib�
 ESTADO: sin piernas, en manos de Levi.
 - T410 · Capturado por Levi; sin rescate (Carguero derribado por Facundo). Le pregunta a Facundo qué es: "No eres de esta isla."
 - T423 · Despierta encadenado; tranquilo. Pide hablar a solas "con el del gato".
+- T424 · A solas con Facundo: "yo también quiero salvar a los eldianos, de otra forma". Pide ver a Eren a solas.

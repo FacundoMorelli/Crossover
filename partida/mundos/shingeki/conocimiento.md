@@ -21,3 +21,4 @@
 - Erwin, Levi, Hange, Eren, Mikasa, Armin · T415 · Facundo dice "se podría decir que sí" (que viene del otro lado del mar) y que ya no sabe de dónde es. Lo entienden como "del continente". No investigan.
 - Erwin, Levi, Hange, Eren, Mikasa, Armin · T420 · Facundo los llevó de Shiganshina a la costa en un instante (Teletransportación).
 - Erwin, Levi, Hange, Eren, Mikasa, Armin · T422 · Facundo se ofreció a ir "al otro lado" a hablar cuando los prisioneros den información.
+- Zeke · T424 · Se presenta a Facundo: hijo de Grisha, jefe de guerreros. Le dice a Facundo que quiere hablar con Eren.
