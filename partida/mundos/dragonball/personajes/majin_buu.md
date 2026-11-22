@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T227 · 14:00 · Facundo le dice que podrá comer dulces con Mr. Satán y tener una vida normal. Feliz. Le cura los ojos con las manos. Pregunta si se queda a vivir con ellos.
 - T226 · 13:58 · Se despierta junto a la reja, sin vapor, confundido. Ve a Mr. Satán y a Bee.
 - T223 · 13:55 · Dormido, cambiado de lugar con una roca junto a la reja (Boogie Woogie).
 - T222 · 13:54 · Facundo le toca el pecho y corta el hilo del Buu malo. Deja de echar vapor y cae dormido en el pasto, sano.
@@ -26,6 +27,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T227: "¿Vida normal? ¿Con dulces? ¿TODOS los días?" / "¡Del gato está roto! ¡Buu arregla!" / "¿Del gato se queda a vivir con Buu y pelo de nube?"
 - T202: "¡Del gato bueno! ¡Del gato no es malo!" / "Pelo de fuego, la próxima juega bonito, ¿sí?"
 - T201: "¡Pero pelo de fuego rompió a Buu! ¡Rompió a Buu MUCHAS veces!" / "...Del gato también es malo con Buu?"
 - T200: "¡Jijiji! ¡Cosquillas!" / "Pelo de fuego no juega bonito... ¡Buu está ENOJADO!" / "¡Buu te convierte en chocolate!"
@@ -42,4 +44,4 @@ DIÁLOGOS CLAVE:
 - T179: "¡Buu! ¡Buu despierto! ¿Quién quiere jugar con Buu?"
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: aceptó el trato: no matar a cambio de dulces diarios. Contento. Quiere conocer 'al de los dulces'.
-RELACIÓN CON FACUNDO: lo quiere (le dio dulces); trato vigente.
+RELACIÓN CON FACUNDO: lo quiere mucho; lo considera su amigo, junto con Mr. Satán. Lo curó (T227).
