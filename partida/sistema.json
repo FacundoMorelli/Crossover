@@ -1,8 +1,8 @@
 {
-  "turno": 189,
+  "turno": 190,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:12",
+  "hora": "14:13",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
@@ -184,6 +184,10 @@
     {
       "objeto": "Botella de medicina para los ojos (de Ukitake)",
       "origen": "bleach, T166"
+    },
+    {
+      "objeto": "Tarjeta de Mr. Satán con el teléfono de su mansión",
+      "origen": "dragonball, T190"
     }
   ],
   "copias": [

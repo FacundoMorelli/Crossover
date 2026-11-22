@@ -188,3 +188,4 @@ T186 · Dragon Ball · 14:08 · Mr. Satán acepta; le da chocolates a Buu. Amigo
 T187 · Dragon Ball · 14:10 · Habla con Goku: Isla Papaya. Goku quiere pelear. Misión de copia: Goku.
 T188 · Dragon Ball · 14:11 · Se presenta y muestra su ki real. Goku quiere entrenarlo; Vegeta lo llama tramposo.
 T189 · Dragon Ball · 14:12 · Acepta entrenar con Goku (hasta medianoche). Vegeta se suma.
+T190 · Dragon Ball · 14:13 · Recuerda la promesa a Buu. Tarjeta de Mr. Satán. Goku: dejar un hilito de ki.
