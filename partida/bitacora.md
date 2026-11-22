@@ -119,3 +119,4 @@ T117 · Bleach · 19:55 · Observa: Ichigo corta el pie del Menos; Uryū dispara
 T118 · Bleach · 19:55 · Marco de cuatro líneas de Sakaime: frena el Cero del Menos Grande.
 T119 · Bleach · 20:02 · Observa: Ichigo y Uryū hacen retroceder al Menos. Ichigo agradece.
 T120 · Bleach · 07/07 23:18 · Simula días. Llegan Renji y Byakuya: Uryū caído, Rukia acorralada.
+T121 · Bleach · 23:19 · Se presenta y traza una línea entre Renji y Rukia. Zabimaru rebota. Byakuya desaparece del poste.

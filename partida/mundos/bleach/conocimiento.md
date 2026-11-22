@@ -11,6 +11,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Renji Abarai y Byakuya Kuchiki · T121 · vieron el shikai de Sakaime: una línea que Zabimaru no atraviesa. Lo informarán a la Sociedad de Almas si vuelven.
 - Rukia, Uryū, Ichigo · T118 · vieron a Facundo frenar el Cero de un Menos Grande con un cuadrado de líneas plateadas.
 - Uryū, Ichigo, Rukia y almas de Karakura · T116 · vieron a Facundo usar Rift y Echo (fuego y hielo), Sakaime y golpes al punto débil contra hollows. No usó el Eclipse a la vista salvo un Destello Solar en una plaza (lo vio Uryū).
 - Ichigo, Rukia, Uryū (desde el puente) · T110 · vieron a Facundo usar el shikai de Sakaime (líneas que frenan tajos) en el entrenamiento. Facundo no usó otros poderes.
