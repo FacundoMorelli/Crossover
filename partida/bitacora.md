@@ -282,3 +282,4 @@ T280 · Jujutsu · 20:48 · 'Me quedo un tiempo.' Ijichi viene a buscarlos; recu
 T281 · Jujutsu · 21:40 · Llega a la escuela. Nobara lo ve.
 T282 · Jujutsu · 21:42 · Perdón a Nobara. Puñetazo y abrazo. Megumi encerrado; Nanami en la enfermería.
 T283 · Jujutsu · 21:45 · Puerta de Megumi. 'Váyanse.'
+T284 · Jujutsu · 21:47 · Megumi abre. 'Si vienes a decirme que no fue mi culpa, ahórratelo.'

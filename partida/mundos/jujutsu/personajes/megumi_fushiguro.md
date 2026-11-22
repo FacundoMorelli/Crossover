@@ -32,3 +32,5 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - ESTADO (17/01/2019): vivo; Sukuna usó su cuerpo semanas y mató a su hermana Tsumiki (Yorozu) con sus manos. Encerrado en su cuarto, deprimido.
 - T283 · 21:45 · Facundo golpea su puerta. Contesta sin abrir: "Váyanse." (No sabe que es Facundo.)
+- T284 · 21:47 · Abre la puerta al saber que es Facundo. No lo mira. Se sienta en el piso contra la pared. Foto boca abajo en el escritorio (Tsumiki).
+- DIÁLOGO T284: "Si vienes a decirme que no fue mi culpa, ahórratelo. Ya me lo dijeron todos."
