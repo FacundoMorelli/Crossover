@@ -12,3 +12,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - DIÁLOGO T319: "¡Aizen-sama!"
 - T320 · Oye a Aizen petrificarse. Grita y desenvaina, furioso.
 - DIÁLOGO T320: "¡¿QUÉ LE HICISTE A AIZEN-SAMA?!"
+- T321 · Libera su Bankai contra Facundo: Suzumushi Tsuishiki: Enma Kōrogi.
+- DIÁLOGO T321: "¡No te lo perdonaré! ¡Bankai! ¡Suzumushi Tsuishiki: Enma Kōrogi!"

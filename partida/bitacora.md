@@ -319,3 +319,4 @@ T317 · Bleach · Las Noches · 'No sabes con quién hablas.' ULTRA INSTINTO DOM
 T318 · Bleach · Las Noches · 'Ya toqué tu espada.' Kyōka Suigetsu inútil. Aizen: '¿Qué quieres?'
 T319 · Bleach · Las Noches · Escupe a Aizen (Dabura). Aizen se corta el brazo izquierdo para no petrificarse.
 T320 · Bleach · Las Noches · AIZEN PETRIFICADO. +1.000 F. Tōsen furioso, Gin se ríe.
+T321 · Bleach · Las Noches · Habla con Gin (su motivo). Tōsen libera el Bankai: Enma Kōrogi.

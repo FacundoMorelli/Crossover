@@ -40,3 +40,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - T319 · Ve a Aizen cortarse el brazo. Abre los ojos del todo.
 - T320 · Ve a Aizen petrificado. No se mueve. Abre los ojos y se ríe muy bajito, solo.
 - DIÁLOGO T320: "...Je. Jejeje."
+- T321 · Facundo le dice que ya tiene lo que quería, que él siempre supo, que el Seireitei no lo sabe y duda que lo perdonen. Se sorprende una vez; pide que no se lo digan a Rangiku.
+- DIÁLOGO T321: "¿Cómo...?" / "...Bah. Da igual." / "Una cosa. A Rangiku no le digas nada. Que siga pensando que soy una serpiente. Es más fácil para ella."

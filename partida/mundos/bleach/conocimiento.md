@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Gin · T321 · Facundo sabe que Gin quería matar a Aizen (por Rangiku). Gin se sorprende una vez y lo deja pasar.
 - Aizen, Gin, Tōsen · T320 · Facundo dijo que 'estuvo de viaje'.
 - Aizen, Gin, Tōsen · T318 · Facundo sabe la regla de Kyōka Suigetsu (tocar la hoja) y tocó la de Aizen el 29/07: es inmune. (Aizen no pregunta cómo lo sabe.)
 - Espadas (Nnoitra y otros) · antes de T307 · Aizen les describió a Facundo (pelo bicolor, gato, tiene el Hōgyoku) con información de Ulquiorra (22/08).
