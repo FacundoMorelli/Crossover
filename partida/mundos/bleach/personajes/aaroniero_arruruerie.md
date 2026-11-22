@@ -12,4 +12,5 @@ NOTA: Tasación = la Tasación no revela el disfraz (misterio del canon): muestr
 - T304 · El Destello Solar llena la sala de luz: se le cae la forma de Kaien; queda la verdadera (cilindro de cristal con dos cráneos). Se tapa con la capa.
 - DIÁLOGO T304: (dos voces, aguda y grave) "¡¡LA LUZ!! ¡¿QUÉ HICISTE, BASURA?!"
 QUÉ PODERES DE FACUNDO VIO: Destello Solar.
-ESTADO: activo, expuesto.
+- T305 · Libera Glotonería; pelea con Rukia; ella lo mata congelado (canon).
+ESTADO: MUERTO (Rukia, T305).
