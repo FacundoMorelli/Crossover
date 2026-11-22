@@ -10,8 +10,7 @@ MISIÓN DE MUNDO: Que Kento Nanami vea el amanecer del 1 de noviembre. (activa)
 - T18: esquiva; Escarcha Lunar congela el brazo-puño de Mahito; él se lo arranca y lo regenera. Escupe tres bolitas de carne que crecen como transfigurados.
 - T17: compra 30 puntos de stat en la tienda (todos los Fragmentos) y los reparte parejo.
 - T16: se planta entre Mahito y la escalera; manda a Nanami con Yuji. Nanami avisa que solo Yuji daña el alma de Mahito, le ordena sobrevivir y sube. Mahito se burla.
-- T12: confirma que era Yuji, que está con Megumi en el centro y que Megumi vive. Nanami quiere ir; casi cae. Kase mira el túnel oscuro.
-PRESENTES EN ESCENA: Mahito (~6 m, recién salido del hielo, con la Marca II en el pecho). Kento Nanami (subiendo la escalera rota, sale de escena hacia el norte). Kase. (Yuji y Megumi quedaron en la losa, ~250 m al norte.)
+PRESENTES EN ESCENA: Mahito (~6 m, recién salido del hielo, con la Marca II en el pecho). (Nanami fue hacia Yuji y Megumi, ~250 m al norte.) Kase. (Yuji y Megumi quedaron en la losa, ~250 m al norte.)
 VÍNCULOS ACTIVOS: Yuji — recién lo ve; culpa y desconfianza leve.
 MISIONES DE COPIA ACTIVAS: Nanami (Proporción 7:3 + Horas Extra) — que Nanami diga que hizo un buen trabajo. Mahito (Transfiguración Ociosa) — que Mahito sienta miedo de él.
 KASE: en el piso, al lado de Facundo.
