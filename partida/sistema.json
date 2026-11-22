@@ -1,11 +1,11 @@
 {
-  "turno": 42,
+  "turno": 43,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:43",
+  "hora": "00:44",
   "edad": 18,
   "nivel": 3,
-  "exp": 3200,
+  "exp": 3700,
   "exp_siguiente_nivel": 4500,
   "fragmentos": 303,
   "plata_local": {
@@ -149,6 +149,17 @@
         "Aplicable a armas (Rift y Echo) y a otras técnicas",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Boogie Woogie",
+      "de": "Aoi Todo",
+      "mundo": "jujutsu",
+      "cuando": "T43, 01/11/2018 00:44",
+      "incluye": [
+        "Al aplaudir, intercambia la posición de dos objetivos con energía maldita (personas, objetos con energía, él mismo)",
+        "Puede aplaudir de cualquier forma (golpeándose el cuerpo, sin manos) y amagar aplausos sin cambio",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -158,13 +169,6 @@
       "mision": "Que Nobara Kugisaki salga de Shibuya con sus dos ojos.",
       "dificultad": "MEDIA",
       "emitida": "T29"
-    },
-    {
-      "poder": "Boogie Woogie — Aoi Todo",
-      "mundo": "jujutsu",
-      "mision": "Responder a Aoi Todo qué tipo de mujer te gusta, y que la respuesta no lo aburra.",
-      "dificultad": "MEDIA",
-      "emitida": "T33"
     }
   ],
   "misiones_de_copia_rechazadas": [],

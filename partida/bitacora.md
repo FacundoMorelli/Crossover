@@ -41,3 +41,4 @@ T39 · Jujutsu · 00:26 · Esquiva y corta las estacas de Uraume. Llega Yuki Tsu
 T40 · Jujutsu · 00:41 · Observa detrás de Yuki. Kenjaku libera maldiciones y escapa con Uraume. Yuki le pregunta quién es.
 T41 · Jujutsu · 00:42 · Se presenta a Yuki. Ella le pregunta qué tipo de mujer le gusta.
 T42 · Jujutsu · 00:43 · Responde a Yuki. COPIA: Ira Estelar (+600 EXP). Todo se acerca.
+T43 · Jujutsu · 00:44 · Responde a Todo. Todo lo declara su hermano. COPIA: Boogie Woogie (+500 EXP).

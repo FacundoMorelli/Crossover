@@ -5,15 +5,17 @@ PODER VISTO POR FACUNDO: Boogie Woogie (intercambia la posición de dos objetivo
 EDAD EN ESTE MOMENTO DEL CANON: 18
 FÍSICO: enorme, musculoso, pelo atado en un rodete alto, cicatriz en la frente, sin camisa bajo el saco abierto.
 PERSONALIDAD Y FORMA DE HABLAR: excéntrico, grandilocuente, considera a Yuji su "mejor amigo" (memorias imaginarias). Pregunta a todos qué tipo de mujer les gusta.
-RELACIÓN CON FACUNDO: no se conocen.
+RELACIÓN CON FACUNDO: lo considera su 'hermano' (el segundo, después de Yuji). Entusiasmo total.
 ENCUENTROS:
+- T43 · 00:44 · Facundo responde: altas, con buen trasero y mucha confianza. Todo llora de emoción, lo abraza con un brazo y lo declara su hermano también (después de Yuji).
 - T42 · 00:43 · Escucha la respuesta de Facundo a Yuki. Viene caminando hacia él.
 - T34 · 00:12 · Queda encandilado unos segundos por el Destello Solar. Ve que salió del ojo de Facundo.
 - T33 · 00:10-00:12 · Llega al campo gris, se une a Yuji contra Mahito. Pierde la mano izquierda por el toque de Mahito. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T43: "...Esa es la respuesta de un hombre de verdad." / "¡Brother número dos!"
 - T42: "¡Tú! ¡El del fogonazo! Eso fue muy vago."
 - T34: "¡Mis ojos! ...Qué intervención tan magnífica."
 - T33: "¡BROTHER! ¡Perdón por la demora!" / "¿Una mano? Un precio justo."
-QUÉ SABE DE FACUNDO: su aspecto, que cortó el dominio de Mahito con un fogonazo del ojo (T34), su nombre y su respuesta a Yuki (escuchó, T42).
+QUÉ SABE DE FACUNDO: su tipo de mujer (T43); su aspecto, que cortó el dominio de Mahito con un fogonazo del ojo (T34), su nombre y su respuesta a Yuki (escuchó, T42).
 QUÉ PODERES DE FACUNDO VIO: Destello Solar (T34).
 ESTADO: sin mano izquierda, de pie al lado de Yuji.

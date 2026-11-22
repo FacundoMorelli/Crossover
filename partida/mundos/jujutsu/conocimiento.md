@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Aoi Todo · T43 · su nombre, su tipo de mujer; lo considera su hermano.
 - Yuki Tsukumo · T40 · lo vio quedarse detrás de ella; vio a Kenjaku hablarle ('el del fogonazo'). Deduce que se cruzó con él en la pelea.
 - Yuki Tsukumo · T41 · sabe su nombre (él se lo dijo) y que dice no saber dónde está.
 - Yuki Tsukumo · T39 · lo vio de pasada al aterrizar: joven ensangrentado, un ojo congelado, espada roja. Nada más.
