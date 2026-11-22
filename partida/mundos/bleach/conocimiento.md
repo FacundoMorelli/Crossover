@@ -17,4 +17,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
-(nada todavía)
+- Shinigami, Sociedad de Almas, hollows, konsō y zanpakutō: Urahara se lo explicó (T93). Rukia es Shinigami: Rukia lo dio a entender (T90) y Urahara lo confirmó (T93).

@@ -1,10 +1,11 @@
-TURNO: 92 | MUNDO: Bleach | 23 de junio | HORA: 21:12 | Lugar: Urahara Shōten, trastienda
+TURNO: 93 | MUNDO: Bleach | 23 de junio | HORA: 21:14 | Lugar: Urahara Shōten, trastienda
 MOMENTO DEL CANON: Shinigami Sustituto, cap. ~26-27. Don Kanonji graba en el hospital; el espíritu atado está por volverse hollow. Ichigo (15) Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū, Menos Grande, arresto de Rukia (Renji y Byakuya).
 FACUNDO: 18 años · Nivel 6 · EXP 11.000/13.500 · 761 Fragmentos · 5 puntos sin asignar · 0 yenes · Energía 56% · Ojos: rojo arde leve; azul algo nublado
 PARA ESTE MUNDO: salió en TV en vivo como 'espontáneo con espada'. Velo: persona común. Uniforme negro de la escuela de Jujutsu (no significa nada acá).
 QUIÉN SABE QUÉ: Ichigo y Rukia saben su nombre y lo vieron hacer el konsō. PÚBLICO: salió en vivo por TV (aspecto, katana, gato). Los que ven espíritus pudieron ver el konsō.
 MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (activa)
 ÚLTIMOS 5 TURNOS:
+- T93: acepta el trato sin contar todo. Urahara da el primer dato (Shinigami, Sociedad de Almas, hollows) y pregunta cómo se llama su espada.
 - T92: se presenta. Urahara lo hace pasar; Tessai sirve té. Urahara propone un trato: un dato por un dato.
 - T91: Rukia manda a Ichigo con su familia y lo lleva sola a la tienda. Urahara lo recibe; no siente su reiatsu. Kase y el gato negro se miran.
 - T90: se presenta y pregunta dónde está. Karakura. Ichigo y Rukia se presentan. Rukia quiere llevarlo a la tienda de Urahara.

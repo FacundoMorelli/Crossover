@@ -91,3 +91,4 @@ T89 · Bleach · 20:46 · Sale por atrás. Ichigo y Rukia lo alcanzan en el bald
 T90 · Bleach · 20:47 · Se presenta a Ichigo y Rukia. Rukia quiere llevarlo con Urahara.
 T91 · Bleach · 21:08 · Rukia lo lleva a la tienda de Urahara. Urahara no siente su reiatsu.
 T92 · Bleach · 21:12 · Se presenta a Urahara. Té. Urahara propone un dato por un dato.
+T93 · Bleach · 21:14 · Trato con Urahara. Él explica el mundo y pregunta el nombre de la espada.
