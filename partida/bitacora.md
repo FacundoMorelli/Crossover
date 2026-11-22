@@ -217,3 +217,4 @@ T215 · Dragon Ball · 07:30 · No es discípulo de Satán. Gohan: Vegeta en las
 T216 · Dragon Ball · 08:05 · Vuela al norte; encuentra a Vegeta entrenando en un cañón helado.
 T217 · Dragon Ball · 08:07 · Le propone a Vegeta entrenar. Vegeta acepta: 'saca la transformación'.
 T218 · Dragon Ball · 08:09 · Forma Cenit contra Vegeta SSJ2. Primer cruce: lo empuja y le congela el brazo.
+T219 · Dragon Ball · 08:23 · Pelea con Vegeta. Corte en X, Eclipse 50 (parte Eclipse). NIVEL 14. Vegeta: 'mañana a la misma hora'.

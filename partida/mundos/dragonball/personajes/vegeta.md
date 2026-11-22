@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: su ki enorme (sentido); Super Saiyajin al salir (aura d
 EDAD EN ESTE MOMENTO DEL CANON: 42
 FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul de combate y guantes/botas blancas.
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
-RELACIÓN CON FACUNDO: no se conocen.
+RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T219 · 08:09-08:23 · Pelea 14 min contra la Forma Cenit. Pierde terreno; lanza un Big Bang Attack que Facundo parte con un corte en X. Termina en base, de pie, golpeado. Propone volver a pelear mañana a la misma hora.
 - T218 · 08:09 · Pelea contra Facundo en Forma Cenit. En el primer cruce sale despedido contra la pared y le congelan el antebrazo. Nota que el multiplicador es mayor que ayer. Rompe el hielo y sonríe.
 - T217 · 08:07 · Facundo le dice que vino a entrenar con él. Se burla; acepta. Le exige la transformación y que no se contenga.
 - T216 · 08:05 · Entrena solo en SSJ2 en un cañón helado del norte, rompiendo montañas. Ve llegar a Facundo. Le pregunta si vino a reírse.
@@ -33,6 +34,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T219: "¡BIG BANG ATTACK!" / "Mañana. A la misma hora. Y no traigas al gato a mirar."
 - T218: "...Más fuerte que ayer. En una noche." / "Bien. Por fin algo que vale la pena."
 - T217: "¿Entrenar? ¿Tú? ¿Conmigo?" / "Saca esa transformación. Y si te contienes como hiciste con Kakarotto al principio, te mato."
 - T216: "¿Qué? ¿Viniste a reírte? ¿O Kakarotto te dejó de niñera?"

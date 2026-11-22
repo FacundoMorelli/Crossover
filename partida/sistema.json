@@ -1,12 +1,12 @@
 {
-  "turno": 218,
+  "turno": 219,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día siguiente al 25.º Torneo",
-  "hora": "08:09",
+  "hora": "08:23",
   "edad": 18,
-  "nivel": 13,
-  "exp": 48310,
-  "exp_siguiente_nivel": 50000,
+  "nivel": 14,
+  "exp": 52310,
+  "exp_siguiente_nivel": 58000,
   "fragmentos": 57,
   "plata_local": {
     "jujutsu": {
@@ -25,32 +25,36 @@
       "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
-  "puntos_de_stat_sin_asignar": 45,
+  "puntos_de_stat_sin_asignar": 50,
   "stats": {
-    "fuerza": 205,
-    "velocidad": 208,
-    "resistencia": 205,
-    "tecnica": 208,
-    "percepcion": 206,
-    "voluntad": 206,
-    "energia": 207,
-    "control": 206
+    "fuerza": 207,
+    "velocidad": 210,
+    "resistencia": 207,
+    "tecnica": 210,
+    "percepcion": 208,
+    "voluntad": 208,
+    "energia": 209,
+    "control": 208
   },
-  "energia_actual_pct": 78,
+  "energia_actual_pct": 14,
   "eclipse": {
-    "maestria": 49,
+    "maestria": 50,
     "partes_desbloqueadas": [
       "Sol",
-      "Luna"
+      "Luna",
+      "Eclipse"
     ],
     "tecnicas": [
       "Destello Solar",
       "Marea Lunar",
       "Filo de Brasa",
       "Escarcha Lunar"
+    ],
+    "notas": [
+      "T219: maestría 50 contra Vegeta SSJ2. Desbloqueada la parte Eclipse (punto negro de gravedad). Cruzar las espadas: corte en X con un eclipse en el centro. Los ojos solo duelen si fuerza mucho."
     ]
   },
-  "ojos": "bien (leve ardor en el rojo)",
+  "ojos": "ardor; el rojo sangra un poco, el azul nublado",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -107,7 +111,7 @@
     "dragonball": {
       "nombre": "Forma Cenit",
       "tipo": "transformación de ki (nativa de Dragon Ball) + manejo del ki",
-      "maestria": 43,
+      "maestria": 46,
       "incluye_base": [
         "Manejo del ki de este mundo: volar (Bukūjutsu), sentir el ki ajeno, ráfagas y ondas de ki, ocultar el propio (además del Velo)"
       ],
@@ -126,7 +130,8 @@
       },
       "notas": [
         "T198: maestría 40 entrenando con Goku. Multiplicador x4, duración 15 min.",
-        "T208: maestría 43 entrenando con Goku hasta medianoche."
+        "T208: maestría 43 entrenando con Goku hasta medianoche.",
+        "T219: maestría 46 peleando con Vegeta."
       ]
     }
   },
