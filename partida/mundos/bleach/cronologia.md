@@ -69,3 +69,6 @@
 - 21-22/09 · Interrogatorios. Gin cuenta el plan de Aizen y que Facundo tiene el Hōgyoku.
 - 23/09 10:00 · Yamamoto cita a Facundo ante los capitanes.
 - 23/09 10:20 · Yamamoto decide romper la estatua de Aizen al amanecer del 24/09 en el Muken. Facundo no objeta ("Aizen es suyo"). Juicio de Gin y Tōsen: esperará a la nueva Central 46.
+- 24/09 amanecer · Yamamoto rompe la estatua de Aizen en el Muken. Aizen muere. (Cambio total del canon.)
+- 24/09 12:00 · Ichigo, Rukia, Orihime, Chad, Uryū y Facundo vuelven a Karakura por la puerta de Urahara.
+- 24-28/09 · Vida en Karakura. Facundo con los chicos. 28/09 18:40 · despedida en el río.
