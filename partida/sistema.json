@@ -1,13 +1,13 @@
 {
-  "turno": 402,
+  "turno": 403,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
-  "hora": "10:42",
+  "hora": "10:43",
   "edad": 18,
-  "nivel": 24,
-  "exp": 175690,
-  "exp_siguiente_nivel": 176000,
-  "fragmentos": 172915,
+  "nivel": 25,
+  "exp": 176090,
+  "exp_siguiente_nivel": 195000,
+  "fragmentos": 172940,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -35,16 +35,16 @@
       "cambio": "1 Fragmento = 100 monedas de plata (fijado T398)"
     }
   },
-  "puntos_de_stat_sin_asignar": 120,
+  "puntos_de_stat_sin_asignar": 135,
   "stats": {
-    "fuerza": 234,
-    "velocidad": 237,
-    "resistencia": 234,
-    "tecnica": 237,
-    "percepcion": 235,
-    "voluntad": 235,
-    "energia": 236,
-    "control": 235
+    "fuerza": 238,
+    "velocidad": 241,
+    "resistencia": 238,
+    "tecnica": 241,
+    "percepcion": 239,
+    "voluntad": 239,
+    "energia": 240,
+    "control": 239
   },
   "energia_actual_pct": 88,
   "eclipse": {
@@ -593,7 +593,8 @@
     "Ojo del Eclipse",
     "Préstamo",
     "Viaje libre",
-    "Fusión en caliente"
+    "Fusión en caliente",
+    "Doble Núcleo"
   ],
   "estilos_desbloqueados": [
     {
@@ -877,6 +878,13 @@
       "turno": 362,
       "fragmentos": 5,
       "exp": 150
+    },
+    {
+      "mundo": "shingeki",
+      "quien": "Bertholdt Hoover (Colosal), inconsciente en forma humana, amordazado",
+      "turno": 403,
+      "fragmentos": 25,
+      "exp": 400
     }
   ],
   "viaje": {

@@ -11,3 +11,4 @@ ESTADO: activo
 ENCUENTROS:
 - T400 · Facundo lo atrapa en el aire, amordazado con una soga, con las manos sujetas. No puede transformarse.
 QUÉ SABE DE FACUNDO: nada; lo ve flotar.
+ESTADO (T403): inconsciente, amordazado, en manos de Facundo.
