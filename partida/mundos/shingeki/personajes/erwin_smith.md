@@ -8,3 +8,6 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T406 · Baja de la muralla, frena a Levi y le pregunta a Facundo quién es y de qué lado está.
+QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.

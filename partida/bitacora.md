@@ -404,3 +404,4 @@ T402 · Shingeki · Shiganshina · Bankai Hate no Sakaime alrededor de toda la m
 T403 · Shingeki · Shiganshina · Bertholdt inconsciente. NIVEL 25 (Doble Núcleo). Reiner carga; Eren se transforma.
 T404 · Shingeki · Shiganshina · Super Saiyajin Blue; derriba al Acorazado con dos dedos. Eren se transformó igual.
 T405 · Shingeki · Shiganshina · "El odio es malo, niño." Eren baja los puños. Levi le pone las espadas al cuello.
+T406 · Shingeki · Shiganshina · Las espadas de Levi no lo cortan. Llega Erwin y pregunta quién es y de qué lado está.
