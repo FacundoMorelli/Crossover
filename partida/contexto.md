@@ -1,6 +1,6 @@
 TURNO: 46 | MUNDO: Jujutsu Kaisen | 01/11/2018 | HORA: 01:24 | Lugar: puesto de mando, límite de Shibuya con Minato
 MOMENTO DEL CANON (actualizado T40): Kenjaku escapó con Uraume y Gojo sellado; maldiciones sueltas por Tokio. Próximo arco: Exterminio de Itadori (orden de ejecución, Yuta verdugo). Antes: Sukuna devolvió el control a Yuji. Yuji en shock. Megumi inconsciente cerca. Después: Yuji vaga y encuentra a Nanami (≈00:10, al sur); Mahito lo mata (≈00:12).
-FACUNDO: 18 años · Nivel 3 · EXP 4.100/4.500 · 303 Fragmentos · 10 puntos sin asignar · 0 yenes · Energía 54% · Ojos: rojo arde leve; azul borroso, vuelve a ver
+FACUNDO: 18 años · Nivel 3 · EXP 4.100/4.500 · 303 Fragmentos · 10 puntos sin asignar · 0 yenes · Energía 30% · Ojos: azul ciego (deshelando); rojo borroso con colores
 PARA ESTE MUNDO: Velo: persona común. Sobretodo sin manga izquierda.
 QUIÉN SABE QUÉ: Nobara lo vio, vio la Marea Lunar y sabe su nombre. Yuji sabe su nombre y vio las Marcas I y IV. Mahito vio todo desde el túnel (nombre, espadas, que Yuji y Megumi están en el centro). Nanami sabe su nombre, que viene de parte de Yuji, y vio Rift y Echo. Yuji lo vio (aspecto, espadas, gato); vio la Marca I; lo cree hechicero; sabe que busca a Nanami.
 MISIÓN DE MUNDO: Que Kento Nanami vea el amanecer del 1 de noviembre. (activa)
