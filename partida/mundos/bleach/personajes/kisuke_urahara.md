@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T108 · 16:10-16:48 · Facundo guarda el caramelo en el inventario. Urahara intenta encontrarlo durante media hora con kidō de rastreo, aparatos, un mapa de reishi y el subsuelo de la tienda. No encuentra nada: ni rastro, ni espacio, ni pliegue. Acepta la idea en principio; pide pensar el procedimiento.
 - T107 · 16:10 · Facundo le ofrece esconder el Hōgyoku en un lugar donde 'ni el más fuerte del mundo podría sacar nada'. Urahara se interesa muchísimo; señala que sacarlo de Rukia es difícil pero posible y que, sin el Hōgyoku, el gigai ya no tendría que volverla humana: sus poderes podrían volver. Pide una demostración del lugar.
 - T106 · 16:08 · Recibe a Facundo de vuelta en la tienda.
 - T101 · 24/06 mañana · Estudia a Sakaime una hora en la trastienda con una lupa y un cuaderno, sin tocarla. Anota cosas en clave.
@@ -21,6 +22,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T108: "Nada. No está en este mundo, ni en la Sociedad de Almas, ni en Hueco Mundo, ni en el Dangai. No está en ningún lugar que yo conozca." / "Necesito unos días para preparar la extracción. Y Kuchiki-san tiene que saberlo todo y decir que sí."
 - T107: "Si el Hōgyoku sale de ella... ya no hace falta que se vuelva humana. Sus poderes podrían volver." / "Muéstreme ese lugar. Quiero intentar encontrar algo que usted guarde ahí."
 - T106: "¡Facundo-san! ¿Tan pronto? ¿Se olvidó algo, o se acordó de algo?"
 - T99: "Casi seguro. Y no van a mandar a un mensajero." / "Tengo un cuarto libre. A cambio, déjeme mirar a Sakaime de vez en cuando. Solo mirar."

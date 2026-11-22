@@ -1,8 +1,8 @@
 {
-  "turno": 107,
+  "turno": 108,
   "mundo_actual": "bleach",
   "fecha_local": "24 de junio (año del canon, ~2001)",
-  "hora": "16:10",
+  "hora": "16:48",
   "edad": 18,
   "nivel": 6,
   "exp": 11060,
@@ -122,6 +122,10 @@
     {
       "objeto": "Zanpakutō Sakaime (sellada)",
       "origen": "Don de Mundo, Bleach"
+    },
+    {
+      "objeto": "Caramelo envuelto en papel rojo (de la tienda de Urahara, prueba)",
+      "origen": "bleach, T108"
     }
   ],
   "copias": [
