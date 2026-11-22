@@ -354,3 +354,4 @@ T352 · One Piece · Conomi · Mandarinal de Nojiko: encuentra a Usopp, que le a
 T353 · One Piece · Conomi · Le dice a Usopp que pagó el tributo y pregunta por el otro. Usopp: Zoro, capturado; vinieron por Nami. Sale Nojiko.
 T354 · One Piece · Conomi · Se presenta a Nojiko y Usopp y va a Arlong Park. Usopp lo sigue escondido. Kaneshiro lo reconoce en el portón.
 T355 · One Piece · Arlong Park · Entra. Arlong, sus oficiales, Nami y Zoro encadenado. Arlong le ofrece trabajo.
+T356 · One Piece · Arlong Park · Le da la última semilla del ermitaño a Zoro: curado entero (herida de Mihawk cerrada). Arlong se levanta furioso.

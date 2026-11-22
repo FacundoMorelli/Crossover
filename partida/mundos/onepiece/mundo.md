@@ -6,3 +6,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
+- T356 · Día 1 · Zoro come una semilla del ermitaño: la herida de Mihawk se cierra entera y recupera toda su fuerza (en el canon pelea contra Hatchan con fiebre y la herida abierta).

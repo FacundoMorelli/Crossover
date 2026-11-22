@@ -13,3 +13,5 @@
 - Usopp y Nojiko · T354 · Saben su nombre (Facundo), que tiene "una misión" y que fue a Arlong Park.
 - Arlong y sus oficiales · T355 · Saben por Kaneshiro que Facundo pagó el tributo propio y el del viejo Ito y que tenía mucha plata. Lo ven en persona.
 - Nami y Zoro · T355 · Lo ven entrar a Arlong Park. No saben nada de él.
+## QUIÉN VIO QUÉ PODERES
+- Arlong, oficiales, ~30 gyojin, Nami, Zoro · T356 · Vieron a Facundo sacar una "semilla" del sobretodo y a Zoro curarse entero al comerla. Lo explican como una medicina o fruta rara.
