@@ -1,5 +1,5 @@
 {
-  "turno": 154,
+  "turno": 155,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
   "hora": "09:42",
@@ -31,7 +31,7 @@
     "energia": 48,
     "control": 47
   },
-  "energia_actual_pct": 38,
+  "energia_actual_pct": 35,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [

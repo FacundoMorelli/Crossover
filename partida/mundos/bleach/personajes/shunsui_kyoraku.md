@@ -7,6 +7,7 @@ FÍSICO: alto, barba de candado, pelo largo ondulado atado, sombrero de paja, ha
 PERSONALIDAD Y FORMA DE HABLAR: relajado, mujeriego, bebedor, perezoso en apariencia; agudo y peligroso.
 RELACIÓN CON FACUNDO: aliado discreto; lo esconde en su escuadrón y lo llevará con Ukitake.
 ENCUENTROS:
+- T155 · 09:42 · Ve a Yamamoto encenderse. Deja de reírse.
 - T154 · 09:42 · Se ríe a carcajadas detrás del sombrero.
 - T153 · 09:41 · Rukia aparece a su lado. Le corta las cuerdas con disimulo y la cubre con su haori rosa.
 - T152 · 20-28/07 · Esconde a Facundo en el 8.º. Sale a detener a Chad (canon, lo derrota sin matarlo). 29/07: lleva a Facundo, encapuchado, a la colina del Sōkyoku con el 8.º.
@@ -19,6 +20,7 @@ ENCUENTROS:
 - T143 · 13:21 · Facundo dice no saber de ningún humano y que es el nuevo integrante del 8.º. Kyōraku le sigue el juego, divertido. Llega Nanao.
 - T142 · 19/07 13:20 · Acostado en un techo con una botella de sake, mientras todos corren al oeste. Le habla a Facundo cuando pasa por debajo.
 DIÁLOGOS CLAVE:
+- T155: "Uy. Nuevo... eso fue demasiado."
 - T154: "¿'Viejos'? Ay, nuevo..."
 - T153: "Shh, pequeña Kuchiki. Quédate detrás de mí."
 - T152: "Quédate a mi lado. Cuando Jūshirō aparezca, yo me voy con él. El resto es tuyo."
