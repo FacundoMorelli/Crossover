@@ -1,8 +1,8 @@
 {
-  "turno": 193,
+  "turno": 194,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:42",
+  "hora": "14:46",
   "edad": 18,
   "nivel": 12,
   "exp": 36010,
@@ -36,7 +36,7 @@
     "energia": 204,
     "control": 203
   },
-  "energia_actual_pct": 8,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 44,
     "partes_desbloqueadas": [
@@ -50,7 +50,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "los dos ardiendo y sangrando; visión borrosa (forzados)",
+  "ojos": "bien (curados por la semilla)",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -188,6 +188,10 @@
     {
       "objeto": "Tarjeta de Mr. Satán con el teléfono de su mansión",
       "origen": "dragonball, T190"
+    },
+    {
+      "objeto": "Semilla del ermitaño (1)",
+      "origen": "regalo de Goku, T194"
     }
   ],
   "copias": [

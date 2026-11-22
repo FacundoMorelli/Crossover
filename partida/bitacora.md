@@ -192,3 +192,4 @@ T190 · Dragon Ball · 14:13 · Recuerda la promesa a Buu. Tarjeta de Mr. Satán
 T191 · Dragon Ball · 14:30 · Vuelan al páramo. Goku: 'muéstrame todo lo que tienes'.
 T192 · Dragon Ball · 14:31 · Forma Cenit. Golpe a Goku en base: retrocede 30 m. Goku se transforma en SSJ.
 T193 · Dragon Ball · 14:42 · Pelea con todo contra Goku: SSJ3, empate. COPIA Goku (+5.000 EXP). NIVEL 12. Energía 8%.
+T194 · Dragon Ball · 14:46 · Goku trae semillas del ermitaño: recuperado al 100%, una de reserva.
