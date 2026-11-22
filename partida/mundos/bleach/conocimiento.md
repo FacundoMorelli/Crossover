@@ -85,3 +85,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - T336 · Todos ven caer a Ggio y Nirgge inconscientes cuando la barrera se deshace, con Facundo intacto. Nadie sintió nada de adentro.
 - T337 · Todos los de la cúpula vieron a Facundo petrificar a Barragan escupiéndole (como a Aizen, que ya sabían por la estatua). Escucharon que Facundo quiere que Ulquiorra cuide Hueco Mundo. Ulquiorra NO lo escuchó (llegó después); alguien se lo puede contar.
 - Gin Ichimaru → Yamamoto y los interrogadores (22/09, T339) · Facundo tiene el Hōgyoku (Aizen se lo había dicho a sus Espada y a él). Motivo: se rindió y coopera. Desde el 23/09 lo saben todos los capitanes presentes en la reunión.
+- Capitanes y Yamamoto · T340 · Facundo dice que el Hōgyoku está "en un lugar donde nadie puede acceder". Saben eso, no qué lugar es.
