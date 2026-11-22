@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T101 · 24/06 mañana · Estudia a Sakaime una hora en la trastienda con una lupa y un cuaderno, sin tocarla. Anota cosas en clave.
 - T100 · 21:30 · Facundo acepta el trato. Urahara le muestra el cuarto de arriba.
 - T99 · 21:26 · Facundo dice que no hará nada malo y pregunta si vendrán a buscar a Rukia. Urahara confirma que es casi seguro (perdió contacto hace semanas; mandarán a alguien de su escuadrón o de su familia). Le ofrece quedarse en la tienda a cambio de dejarle estudiar a Sakaime.
 - T98 · 21:23 · Facundo le pregunta si no quiere que Rukia se recupere porque lo que lleva adentro es muy fuerte. Urahara se queda helado, pregunta una vez cómo lo sabe y lo deja pasar. Confirma: escondió el Hōgyoku en el alma de Rukia; el gigai la va volviendo humana para que nadie pueda encontrarlo. Pregunta qué va a hacer Facundo con eso.

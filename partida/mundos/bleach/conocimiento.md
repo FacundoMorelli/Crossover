@@ -16,7 +16,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
-(nada)
+- 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
 - Hōgyoku dentro de Rukia; el gigai la vuelve humana para esconderlo: Urahara lo confirmó (T98).

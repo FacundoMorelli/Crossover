@@ -1,8 +1,8 @@
 {
-  "turno": 100,
+  "turno": 101,
   "mundo_actual": "bleach",
-  "fecha_local": "23 de junio (año del canon, ~2001)",
-  "hora": "21:30",
+  "fecha_local": "24 de junio (año del canon, ~2001)",
+  "hora": "15:42",
   "edad": 18,
   "nivel": 6,
   "exp": 11000,
@@ -31,7 +31,7 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 56,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 38,
     "partes_desbloqueadas": [
@@ -45,7 +45,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo arde un poco; ojo azul frío, algo nublado",
+  "ojos": "bien",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -401,7 +401,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 0
+        "dias_transcurridos": 1
       }
     },
     "puerta_abierta": true,
