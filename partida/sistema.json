@@ -1,8 +1,8 @@
 {
-  "turno": 152,
+  "turno": 153,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
-  "hora": "09:40",
+  "hora": "09:41",
   "edad": 18,
   "nivel": 7,
   "exp": 16210,
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 70,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 45,
+      "maestria": 47,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -83,7 +83,8 @@
           "Corte de frontera: si traza una línea a través de un objetivo a menos de 3 m, separa el espacio a cada lado: corta lo que sea, sin importar la dureza.",
           "Límite propio: no puede trazar líneas dentro del cuerpo de alguien que no ve; la frontera no detiene lo que ya estaba del otro lado.",
           "Marco (descubierto T118): si las líneas cierran una figura (por ejemplo, un cuadrado), el plano encerrado también es frontera. Cuesta más energía.",
-          "Recinto (descubierto T130): un Marco trazado en el suelo alrededor de algo levanta paredes-frontera de la altura del largo de la línea (20 m en maestría 40). No tiene techo."
+          "Recinto (descubierto T130): un Marco trazado en el suelo alrededor de algo levanta paredes-frontera de la altura del largo de la línea (20 m en maestría 40). No tiene techo.",
+          "Sostener una frontera contra una fuerza descomunal (como el Kikōō) no la rompe, pero cada impacto le cobra energía a Facundo (T153)."
         ]
       },
       "bankai": {

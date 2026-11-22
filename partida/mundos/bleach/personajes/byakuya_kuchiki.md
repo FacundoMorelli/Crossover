@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T153 · 09:41 · Reconoce a Facundo en el patíbulo cuando se le cae la capucha.
 - T152 · 28-29/07 · Vence a Renji (bankai). En la colina, de pie, sin mirar a Rukia. Bufanda nueva.
 - T133 · 07/07 23:24-23:30 · Libre de la Marea al desmayarse Facundo. Corta los puntos de poder de Ichigo (Hakusui y Saketsu). Acepta la entrega de Rukia: no remata a Facundo. Se va por una Senkaimon con Rukia y Renji. Se lleva la mitad de su bufanda del suelo.
 - T132 · 23:23 · Marea Lunar de Facundo sobre la calle: los pétalos de Senbonzakura se aplastan contra el asfalto; Byakuya hinca una rodilla, resistiendo. Empieza a levantarse a pesar del peso.
@@ -22,6 +23,7 @@ ENCUENTROS:
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T153: "...Tú."
 - T133: "Muy bien. Que vivan. Ya no importan."
 - T132: "...Gravedad." / "Un Kuchiki no se arrodilla."
 - T131: "Hadō número cuatro. Byakurai."

@@ -14,6 +14,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- TODOS los capitanes y tenientes presentes en la colina (Yamamoto, Soi Fon, Gin, Unohana, Byakuya, Komamura, Kyōraku, y tenientes) · T153 · vieron a Facundo trazar un Marco que frena el Kikōō y cambiarse de lugar con Rukia. Se le cayó la capucha: lo vieron todos (pelo bicolor, gato). Ya no hay disfraz.
 - Kyōraku y Ukitake · T151 · Boogie Woogie (Facundo se cambió de lugar con Kyōraku). Facundo dijo que es 'una de muchas'.
 - Byakuya, Renji, Ichigo, Rukia · T132 · Marea Lunar (gravedad aplastante desde el ojo azul de Facundo).
 - Byakuya, Renji, Ichigo, Rukia · T131 · vieron a Facundo moverse muy rápido con Rukia en brazos (velocidad física, sin técnica). [Corregido T134: no mostró nada Quincy.]

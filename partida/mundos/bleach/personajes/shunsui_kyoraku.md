@@ -7,6 +7,7 @@ FÍSICO: alto, barba de candado, pelo largo ondulado atado, sombrero de paja, ha
 PERSONALIDAD Y FORMA DE HABLAR: relajado, mujeriego, bebedor, perezoso en apariencia; agudo y peligroso.
 RELACIÓN CON FACUNDO: aliado discreto; lo esconde en su escuadrón y lo llevará con Ukitake.
 ENCUENTROS:
+- T153 · 09:41 · Rukia aparece a su lado. Le corta las cuerdas con disimulo y la cubre con su haori rosa.
 - T152 · 20-28/07 · Esconde a Facundo en el 8.º. Sale a detener a Chad (canon, lo derrota sin matarlo). 29/07: lleva a Facundo, encapuchado, a la colina del Sōkyoku con el 8.º.
 - T151 · 23:37 · Facundo se intercambia con él con Boogie Woogie: Kyōraku aparece de pie en medio del cuarto. Se ríe.
 - T148 · 19/07 23:10 · Busca a Facundo en el cuarto del fondo. Le trae un haori del 8.º con capucha para taparse. Vienen de una reunión de capitanes interrumpida por la alarma.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T143 · 13:21 · Facundo dice no saber de ningún humano y que es el nuevo integrante del 8.º. Kyōraku le sigue el juego, divertido. Llega Nanao.
 - T142 · 19/07 13:20 · Acostado en un techo con una botella de sake, mientras todos corren al oeste. Le habla a Facundo cuando pasa por debajo.
 DIÁLOGOS CLAVE:
+- T153: "Shh, pequeña Kuchiki. Quédate detrás de mí."
 - T152: "Quédate a mi lado. Cuando Jūshirō aparezca, yo me voy con él. El resto es tuyo."
 - T151: "¡Oh! Eso es muy útil para escaparse de Nanao-chan."
 - T148: "Despierta, nuevo. Jūshirō nos espera. Ponte esto, la gorra me da vergüenza ajena."

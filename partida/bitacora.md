@@ -151,3 +151,4 @@ T149 · Bleach · 23:35 · Con Kyōraku en el Ugendō. Ukitake: reliquia Shihōi
 T150 · Bleach · 23:36 · Corrección: Ukitake no sabe del inventario. Pregunta qué más puede hacer Facundo.
 T151 · Bleach · 23:37 · Demuestra Boogie Woogie con Kyōraku. Ukitake lo quiere en la colina el día de la ejecución.
 T152 · Bleach · 29/07 09:40 · Simula diez días escondido. Colina del Sōkyoku: el Kikōō se forma sobre Rukia.
+T153 · Bleach · 09:41 · Marco contra el Kikōō y Boogie Woogie con Rukia. Facundo en el patíbulo, descubierto ante todos los capitanes.
