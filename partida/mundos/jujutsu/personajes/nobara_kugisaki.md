@@ -45,3 +45,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T288 · 22:45 · Entra al cuarto de Megumi, abre cortinas y ventana, lo reta por el olor.
 - DIÁLOGO T288: "¡Esto huele a cueva de oso! ¡Aire!"
 - T289 · 18-23/01 · Arrastra a Megumi a la peluquería. Entrena con Facundo. 23/01: escucha la misión.
+- T290 · 24/01/2019 · Misión en Sendai con Facundo: almacén de la secundaria Sugisawa.

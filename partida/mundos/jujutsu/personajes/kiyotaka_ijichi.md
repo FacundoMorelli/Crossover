@@ -21,3 +21,4 @@ ESTADO: en el dormitorio, alterado.
 - DIÁLOGO T280: "¿F-Facundo-san? ¿Usted...?" / "La orden de los altos mandos... nunca se anuló. Nadie la firmó para anularla. Con todo lo que pasó, nadie se acordó."
 - T289 · 23/01 19:30 · Entra al comedor: el último dedo de Sukuna apareció en Sendai, en la antigua escuela de Yuji. Misión para Yuji, Megumi y Nobara.
 - DIÁLOGO T289: "Encontraron... el último dedo. En Sendai. En el almacén de su antigua secundaria, Itadori-kun."
+- T290 · Acepta que Facundo vaya. Los lleva a Sendai; espera en el auto.
