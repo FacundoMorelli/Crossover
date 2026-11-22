@@ -51,3 +51,4 @@ T49 · Jujutsu · 01:29 · Presenta a Kase. Kase ignora a Nobara.
 T50 · Jujutsu · 01:30 · Dice que no es de ninguna escuela. Nobara pregunta dónde va a dormir.
 T51 · Jujutsu · 01:32 · Pide dónde quedarse. Yuji pedirá a Yaga un cuarto en el dormitorio. Shoko lo llama.
 T52 · Jujutsu · 01:36 · Shoko le cura los ojos. Pregunta por su técnica.
+T53 · Jujutsu · 01:37 · Agradece a Shoko. Ella le ofrece una camilla.
