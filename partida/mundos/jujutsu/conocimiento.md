@@ -51,6 +51,8 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Yuji → Choso (madrugada 01/11, en el puesto de mando, por confianza): que Facundo lo ayudó contra Mahito, que congela y tiene una técnica de números, y que salvó a Nanami.
+- Yuji → Yaga (por teléfono, madrugada 01/11, para pedirle alojamiento): que Facundo es un hechicero sin escuela, que salvó a Nanami y a Megumi, que ayudó contra Mahito.
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)

@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T57 · 06:01 · Facundo sale a buscarlo. Le cuenta que habló con Yaga: viene a las 8 y quiere conocerlo. Le presenta a Choso.
 - T54 · madrugada · Habla por teléfono con Yaga sobre Facundo: Yaga viene a las 8:00. Duerme en una camioneta del puesto.
 - T51 · 01:32 · Se ofrece a hablar con el director Yaga para que Facundo se quede en el dormitorio de la escuela de Tokio.
 - T50 · 01:30 · Escucha que Facundo no es de ninguna escuela.
@@ -33,6 +34,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T57: "¡Facundo! Hablé con el director. Viene a las ocho. Quiere conocerte." / "Este es Choso. Dice que es mi hermano. Es... complicado."
 - T51: "Yo hablo con el director. Le salvaste la vida a Nanamin, no te va a decir que no."
 - T48: "...Eso es trampa. No se le dice eso a alguien que está tratando de sentirse mal."
 - T47: "Sukuna. El Rey de las Maldiciones." / "Pero el cuerpo es mío. Las manos son mías."
