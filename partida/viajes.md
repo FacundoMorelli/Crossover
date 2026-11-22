@@ -48,3 +48,17 @@
 - Bleach: se fue el 26/08 22:30; corre (82 días al volver a Jujutsu).
 - Dragon Ball: se fue el día 9 del año 774, 19:05; corre desde T276. Prometió volver (Buu, Kame House).
 - (T295) Jujutsu: segunda salida 01/02/2019 18:05; corre. Bleach: VUELVE el 19/09 21:30 (24 días después: 9 en Dragon Ball + 15 en Jujutsu).
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 4 | One Piece | Día 1, 14:10 | Arlong Park (cap. ~71) | Que Villa Cocoyasi quede libre de Arlong sin que muera nadie de la aldea. | ACTIVA |
+
+## RELOJES (actualizado T345)
+- Bleach: tercera salida 28/09 18:42 (Karakura); corre. Aizen ejecutado; Facundo prometió volver.
+- Jujutsu: corre desde el 01/02/2019. Dragon Ball: corre desde el día 9 del año 774.
+- One Piece: llegada Día 1, 14:10, Islas Conomi.
+
+### One Piece
+- MISIÓN: Que Villa Cocoyasi quede libre de Arlong sin que muera nadie de la aldea.
+- RECOMPENSA: 8.000 EXP · 200 Fragmentos
+- VENCE: nunca · CAMBIADA: no

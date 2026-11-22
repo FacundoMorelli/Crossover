@@ -72,3 +72,4 @@
 - 24/09 amanecer · Yamamoto rompe la estatua de Aizen en el Muken. Aizen muere. (Cambio total del canon.)
 - 24/09 12:00 · Ichigo, Rukia, Orihime, Chad, Uryū y Facundo vuelven a Karakura por la puerta de Urahara.
 - 24-28/09 · Vida en Karakura. Facundo con los chicos. 28/09 18:40 · despedida en el río.
+- 28/09 18:42 · Facundo se despide en el río y cruza una puerta a otro mundo. Testigos: Ichigo, Rukia, Orihime, Chad, Uryū, Urahara, Yoruichi, Tessai, Jinta, Ururu, Kon.

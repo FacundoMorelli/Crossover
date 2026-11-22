@@ -343,3 +343,4 @@ T341 · Bleach · Seireitei · "Se queda ahí dentro, nada lo saca." Yamamoto ac
 T342 · Bleach · Seireitei · "Así es." Yamamoto ordena romper la estatua de Aizen mañana al amanecer. Pregunta si Facundo objeta.
 T343 · Bleach · Seireitei · "Es su elección, Aizen es suyo." Ejecución de Aizen al amanecer del 24. Kyōraku pregunta si irá.
 T344 · Bleach · Karakura · Simula 24-28/09 con los chicos. Aizen ejecutado por Yamamoto (24/09). Despedida en el río al atardecer.
+T345 · One Piece · Islas Conomi · Se despide en Karakura y cruza a un mundo nuevo: One Piece (Arlong Park). Don: Shio Shio no Mi. Misión: Cocoyasi libre sin muertos.
