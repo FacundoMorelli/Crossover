@@ -7,6 +7,7 @@ FÍSICO: pelo negro en punta, ojos azul oscuro, uniforme escolar.
 PERSONALIDAD Y FORMA DE HABLAR: serio, reservado, cortante, pragmático.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T45 · 01:05 · Llevado por Yuji (Choso controlando su sangre) al puesto de mando. Shoko lo pone en la fila siguiente.
 - T44 · 00:46 · Sigue inconsciente; Choso le controla la sangre de las heridas para que no se desangre.
 - T8 · 23:36 · Facundo lo marca con la Manecilla Inversa (Marca I). Sigue inconsciente.
 - T7 · 23:35 · Yuji corre hacia él. Respira débil.

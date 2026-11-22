@@ -43,3 +43,4 @@ T41 · Jujutsu · 00:42 · Se presenta a Yuki. Ella le pregunta qué tipo de muj
 T42 · Jujutsu · 00:43 · Responde a Yuki. COPIA: Ira Estelar (+600 EXP). Todo se acerca.
 T43 · Jujutsu · 00:44 · Responde a Todo. Todo lo declara su hermano. COPIA: Boogie Woogie (+500 EXP).
 T44 · Jujutsu · 00:46 · Corre a la losa con Yuki y Todo. Nanami débil. Shoko en el puesto de mando, a 2 km.
+T45 · Jujutsu · 01:06 · Carga a Nanami al puesto de mando. Nobara sale de Shibuya con sus dos ojos: COPIA Muñeco de Paja (+400 EXP). Shoko cura a Nanami.

@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T45 · 00:47-01:05 · Facundo lo carga a la espalda 2 km hasta el puesto de mando. Shoko empieza a curarlo.
 - T44 · 00:46 · Facundo llega a la losa con Yuki y Todo. Nanami está consciente a medias, con fiebre y la respiración débil; el torniquete aguanta.
 - T37 · 00:24 · La ola de hielo de Uraume se detiene a ~20 m de la losa, aplastada por la Marea Lunar de Facundo.
 - T25 · 00:00 · Le advierte a Yuji que no se deje llevar por la rabia. Se queda junto a la losa con Megumi.
@@ -30,4 +31,4 @@ DIÁLOGOS CLAVE:
 - T10: "Gracias. Ahora, ¿quién es usted?"
 QUÉ SABE DE FACUNDO: su aspecto, que pelea con dos espadas de fuego y hielo (T10), su nombre Facundo y que dice venir de parte de Itadori (T11).
 QUÉ PODERES DE FACUNDO VIO: las espadas Rift (corte quemado) y Echo (corte congelado), T10.
-ESTADO: consciente, estabilizado en el suelo junto a la losa. Quemaduras graves. No puede pelear. Vivo.
+ESTADO: en el puesto de mando, bajo tratamiento de Shoko Ieiri. Vivo.

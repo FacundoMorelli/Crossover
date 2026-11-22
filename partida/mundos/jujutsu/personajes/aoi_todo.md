@@ -7,6 +7,7 @@ FÍSICO: enorme, musculoso, pelo atado en un rodete alto, cicatriz en la frente,
 PERSONALIDAD Y FORMA DE HABLAR: excéntrico, grandilocuente, considera a Yuji su "mejor amigo" (memorias imaginarias). Pregunta a todos qué tipo de mujer les gusta.
 RELACIÓN CON FACUNDO: lo considera su 'hermano' (el segundo, después de Yuji). Entusiasmo total.
 ENCUENTROS:
+- T45 · Escolta al grupo; despeja una avenida con Boogie Woogie y golpes.
 - T43 · 00:44 · Facundo responde: altas, con buen trasero y mucha confianza. Todo llora de emoción, lo abraza con un brazo y lo declara su hermano también (después de Yuji).
 - T42 · 00:43 · Escucha la respuesta de Facundo a Yuki. Viene caminando hacia él.
 - T34 · 00:12 · Queda encandilado unos segundos por el Destello Solar. Ve que salió del ojo de Facundo.

@@ -7,6 +7,7 @@ FÍSICO: alta, rubia, pelo largo, cuerpo atlético, chaqueta de motociclista.
 PERSONALIDAD Y FORMA DE HABLAR: desenfadada, directa, segura; pregunta "¿qué tipo de hombre te gusta?" / "¿qué tipo de mujer te gusta?".
 RELACIÓN CON FACUNDO: simpatía; le cae bien.
 ENCUENTROS:
+- T45 · Escolta al grupo; aplasta las maldiciones del camino.
 - T44 · 00:46 · Llega a la losa. Dice que Shoko Ieiri está en el puesto de mando, a unos dos kilómetros, junto a Ijichi.
 - T42 · 00:43 · Facundo responde: mujeres fuertes y seguras de sí mismas. A Yuki le gusta la respuesta.
 - T41 · 00:42 · Facundo le dice su nombre y que todavía no sabe dónde está. Ella se ríe, le dice que es Shibuya, Tokio, y le pregunta qué tipo de mujer le gusta.

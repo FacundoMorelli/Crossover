@@ -1,11 +1,11 @@
 {
-  "turno": 44,
+  "turno": 45,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:46",
+  "hora": "01:06",
   "edad": 18,
   "nivel": 3,
-  "exp": 3700,
+  "exp": 4100,
   "exp_siguiente_nivel": 4500,
   "fragmentos": 303,
   "plata_local": {
@@ -26,7 +26,7 @@
     "energia": 38,
     "control": 37
   },
-  "energia_actual_pct": 26,
+  "energia_actual_pct": 22,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -160,17 +160,22 @@
         "Puede aplaudir de cualquier forma (golpeándose el cuerpo, sin manos) y amagar aplausos sin cambio",
         "Dominio total e inmediato"
       ]
-    }
-  ],
-  "misiones_de_copia_activas": [
+    },
     {
-      "poder": "Técnica del Muñeco de Paja (Resonancia, Horquilla) — Nobara Kugisaki",
+      "poder": "Técnica del Muñeco de Paja",
+      "de": "Nobara Kugisaki",
       "mundo": "jujutsu",
-      "mision": "Que Nobara Kugisaki salga de Shibuya con sus dos ojos.",
-      "dificultad": "MEDIA",
-      "emitida": "T29"
+      "cuando": "T45, 01/11/2018 01:05",
+      "incluye": [
+        "Clavos cargados de energía disparados con un martillo",
+        "Resonancia: con un pedazo del objetivo y un muñeco de paja, daña a distancia, también al alma",
+        "Horquilla: clavos que explotan a distancia",
+        "Los objetos (martillo, clavos, muñeco) no vienen con la copia: debe conseguirlos o usar sustitutos",
+        "Dominio total e inmediato"
+      ]
     }
   ],
+  "misiones_de_copia_activas": [],
   "misiones_de_copia_rechazadas": [],
   "fusion": {
     "combinaciones_selladas": []
