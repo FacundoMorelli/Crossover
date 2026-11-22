@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T245 · 09:25 · Entra con Facundo en la Habitación del Tiempo por un día (su último día disponible).
 - T244 · 09:20 · Vuela con Facundo al Templo Sagrado. Dende lo cura.
 - T243 · 08:18 · Le explica la Habitación del Tiempo. Ya usó un día (con Trunks, saga de Cell). Propone entrar con Facundo.
 - T242 · 08:09-08:16 · Siete minutos más; choque final Big Bang contra corte en X. Los dos quedan tirados en el hielo. Lo llama "Facundo" por primera vez.
@@ -45,6 +46,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T245: "Aquí no hay piedras."
 - T243: "La Habitación del Espíritu y el Tiempo. En el templo, arriba de todo." / "Si tú entras, yo entro contigo. No voy a dejar que salgas de ahí un año más fuerte que yo."
 - T242: "...Facundo." / "Ese payaso dijo en la tele que te vas de viaje." / "¿Cuándo?"
 - T241: "¡JAJAJA! ¡Rata tramposa!" / "¡Otra vez!"

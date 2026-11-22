@@ -243,3 +243,4 @@ T241 · Dragon Ball · 08:09 · Boogie Woogie: el Final Flash le pega a una roca
 T242 · Dragon Ball · 08:16 · Fin de la pelea con Vegeta: empate, los dos en el hielo. Vegeta lo llama por su nombre.
 T243 · Dragon Ball · 08:18 · Pregunta por la Habitación del Tiempo. Vegeta explica y quiere entrar con él.
 T244 · Dragon Ball · 09:20 · Templo Sagrado con Vegeta. Dende los cura. Popo: ¿cuánto tiempo? ¿y el gato?
+T245 · Dragon Ball · 09:25 · Entra un día a la Habitación del Tiempo con Vegeta. Kase con Dende.

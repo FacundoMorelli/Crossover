@@ -1,8 +1,8 @@
 {
-  "turno": 244,
+  "turno": 245,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 3 (dos días después del 25.º Torneo)",
-  "hora": "09:20",
+  "hora": "09:25",
   "edad": 18,
   "nivel": 17,
   "exp": 81810,
@@ -815,6 +815,7 @@
     "buu": "Con Babidi muerto, Buu no tiene amo ni amenaza de resello. Es libre y caprichoso. Le encantan los dulces. Si se aburre o se enoja, destruye. La marca M de Vegeta se apaga (Vegeta vuelve a ser él mismo). Dabura queda libre del control.",
     "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
     "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón.",
-    "buu_malo": "T222: Facundo cortó con la Transfiguración Ociosa el hilo de alma entre el Buu gordo y el Buu malo. El Buu malo (flaco, gris, mudo, pura maldad) es ahora un ser separado; no puede volver a entrar en el Buu gordo por la vía del alma, pero SÍ puede comerlo con su rayo de dulce (absorción física) y volverse Super Buu. Poder: comparable al Buu gordo, más agresivo. Odia a quien lo separó. Regenera."
+    "buu_malo": "T222: Facundo cortó con la Transfiguración Ociosa el hilo de alma entre el Buu gordo y el Buu malo. El Buu malo (flaco, gris, mudo, pura maldad) es ahora un ser separado; no puede volver a entrar en el Buu gordo por la vía del alma, pero SÍ puede comerlo con su rayo de dulce (absorción física) y volverse Super Buu. Poder: comparable al Buu gordo, más agresivo. Odia a quien lo separó. Regenera.",
+    "habitacion_tiempo": "T245: Facundo y Vegeta entran 09:25 del día 3; salen 09:25 del día 4. Adentro, un año. Vegeta agota su segundo día de vida en la habitación. Facundo tiene un día más disponible."
   }
 }

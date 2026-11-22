@@ -32,3 +32,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T211 (Dragon Ball) · Milk le sirve un plato de pescado. Come sin mirarla.
 - T214 (Dragon Ball) · Acepta pan con manteca de Goten debajo de la mesa.
 - T218 (Dragon Ball) · Salta a una saliente del cañón antes de la pelea con Vegeta.
+- T245 (Dragon Ball) · Se queda en el Templo Sagrado con Dende mientras Facundo pasa un día (un año) en la Habitación del Tiempo.
