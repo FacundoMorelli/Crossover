@@ -17,3 +17,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo que Yaga le dijo al registrarlo (estudiante transferido; salvó a Nanami); el rumor del puesto.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en el dormitorio, alterado.
+- T280 · 17/01/2019 20:48 · Yuji lo llama para que los lleve a la escuela. Llega, ve a Facundo, se pone pálido. Le recuerda que la orden de retención nunca se anuló.
+- DIÁLOGO T280: "¿F-Facundo-san? ¿Usted...?" / "La orden de los altos mandos... nunca se anuló. Nadie la firmó para anularla. Con todo lo que pasó, nadie se acordó."

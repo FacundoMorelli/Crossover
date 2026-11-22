@@ -85,3 +85,5 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - DIÁLOGO T278: "No sé si llegaste tarde. No sé si alguien llegó a tiempo." / "Choso... fue aquí. Se puso delante de mí." / "Megumi volvió. Pero no está bien."
 - T279 · 20:23 · Facundo le pone la mano en el hombro. Llora en silencio. Kase le apoya la cabeza en la mejilla. Pregunta si Facundo se va a quedar esta vez.
 - DIÁLOGO T279: "Perdón. No lloré en el entierro." / "¿Te vas a quedar? ¿Esta vez?"
+- T280 · 20:30 · Facundo dice que se queda un tiempo. Contento. Llama a Ijichi.
+- DIÁLOGO T280: "¡Ijichi-san! ¡Ven a Shinjuku! ¡No, no pasó nada malo! ...Ven y ya."
