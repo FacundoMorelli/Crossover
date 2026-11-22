@@ -82,3 +82,4 @@ T80 · Jujutsu · 22:41 · Boogie Woogie con un clavo y Puño Divergente a Naoya
 T81 · Jujutsu · 22:42 · Marea + Escarcha encierra a Naoya en hielo (+700 EXP, +300 F). Fusión sellada. Llega Yuta Okkotsu.
 T82 · Jujutsu · 22:43 · Se pone delante de Yuji. Yuta confirma que fue alumno de Gojo, desmaya a Naoya y pide confianza.
 T83 · Jujutsu · 22:47 · Observa: Yuta vence a Choso, finge la ejecución de Yuji y lo cura. Revela el pacto. Misión de copia: Yuta.
+T84 · Jujutsu · 22:49 · Yuta dirá que Facundo escapó. Reunión con Yuki para ver a Tengen en dos días.

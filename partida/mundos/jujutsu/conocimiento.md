@@ -59,6 +59,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Yuta → altos mandos (a reportar 06/11): Itadori ejecutado; el hechicero no registrado 'escapó'; Naoya encontrado inconsciente en hielo (no dice quién).
 - Facundo → Nobara (T76): los altos mandos quieren ejecutar a Yuji y retenerlo a él; se van.
 - Altos mandos (02-03/11): reciben informes del puesto de mando y de los asistentes: un hechicero no registrado, 'Facundo', pelo blanco y azul, gato, técnica de hielo/luz y números; peleó contra Mahito y Uraume. Decretan retenerlo.
 - Facundo → Yuji, Megumi y Nanami (T71, carpa médica): llama "Kenjaku" al hombre con el cuerpo de Geto. Se sorprenden una vez y lo adoptan. (Choso lo llamó 'Noritoshi Kamo' anoche.)
@@ -71,6 +72,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Reunión con Yuki para ir a ver a Tengen, en la escuela en dos días: Yuta se lo dijo (T84).
 - Pacto Yuta–Gojo y ejecución fingida de Yuji: lo vio y Yuta se lo dijo (T83).
 - Tengen: Megumi se lo mencionó como quien podría saber del Reino de la Prisión (T73).
 - Gojo sellado en el Reino de la Prisión (cubo) que Kenjaku se llevó: Nanami se lo dijo (T72); Facundo vio el cubo (T35-T40).
