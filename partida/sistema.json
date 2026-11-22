@@ -1,5 +1,5 @@
 {
-  "turno": 334,
+  "turno": 335,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "22:25 (Karakura)",
@@ -86,7 +86,8 @@
           "Golpe seguro: todo lo que está adentro queda marcado automáticamente desde el instante en que se cierra, sin límite de Marcas.",
           "Facundo puede revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera, sin el costo normal de activar una Marca.",
           "Mantiene el límite propio: no revierte el alma ni la muerte.",
-          "Desgaste: el de mantener el dominio, como cualquier Expansión."
+          "Desgaste: el de mantener el dominio, como cualquier Expansión.",
+          "Declarado por el jugador (T335): nadie de afuera puede sentir lo que pasa adentro del dominio (ni reiatsu, ni sonido, ni ningún sentido de energía)."
         ],
         "usos": [
           "T334 · 19/09 · cúpula de Las Noches · contra Ggio Vega y Nirgge Parduoc. Primer uso."
