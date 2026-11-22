@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Vegeta · T236 · Facundo le contó: era la parte mala de Buu; la destruyó él porque si no se comía al gordo y se volvía más fuerte.
 - Vegeta · T235 · sintió el ki del Buu malo (13:54-13:58) en la mansión de Satán y cómo desapareció; vio por TV el surco y a Facundo junto a Satán. Deduce que Facundo tuvo que ver.
 - Videl · T234 · deduce que Facundo hizo algo más de lo que dice (conoce a su padre; vio el surco). No sabe qué.
 - Buu, Mr. Satán, Shin, Kibito · T228 · Facundo se queda un tiempo y después se va (no dijo adónde).

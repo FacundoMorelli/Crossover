@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T236 · 21:38 · Facundo le explica que era la parte mala de Buu y por qué no esperó. Acepta a regañadientes. Confirma la pelea de mañana; quiere ver la técnica que lo borró. Se va.
 - T235 · 21:35 · Aterriza en la terraza de la mansión. Sintió a las 13:55 un ki maligno enorme y cómo desapareció. Pregunta qué fue.
 - T220 · 08:25 · Acepta la revancha de mañana. Se va hacia la Corporación Cápsula.
 - T219 · 08:09-08:23 · Pelea 14 min contra la Forma Cenit. Pierde terreno; lanza un Big Bang Attack que Facundo parte con un corte en X. Termina en base, de pie, golpeado. Propone volver a pelear mañana a la misma hora.
@@ -36,6 +37,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T236: "¿Que me hubieras dejado? ¿A mí? ¿Me estás haciendo un favor, insecto?" / "...Tsk. Mañana. A la misma hora. Y quiero ver eso que lo borró."
 - T235: "A las dos de la tarde sentí un ki. Maligno. Más grande que el de ese gordo." / "Y después, nada. Como si lo hubieran borrado. ¿Qué fue eso?"
 - T219: "¡BIG BANG ATTACK!" / "Mañana. A la misma hora. Y no traigas al gato a mirar."
 - T218: "...Más fuerte que ayer. En una noche." / "Bien. Por fin algo que vale la pena."
@@ -57,6 +59,6 @@ DIÁLOGOS CLAVE:
 - T177: "¿Qué...? ¡¿Quién se atrevió?!" / "Un insecto sin ki... con dos colores en la cabeza."
 - T175: "Kakarotto. Ahora sí vamos a pelear en serio."
 
-QUÉ SABE DE FACUNDO: (T218) la transformación ahora multiplica más que ayer; tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
+QUÉ SABE DE FACUNDO: (T236) que destruyó a la parte mala de Buu, que iba a comerse al gordo; (T218) la transformación ahora multiplica más que ayer; tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En la zona rocosa con Goku.

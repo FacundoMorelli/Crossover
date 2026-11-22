@@ -234,3 +234,4 @@ T232 · Dragon Ball · 14:12 · En vivo: 'lo hizo todo Mr. Satán'. Satán anunc
 T233 · Dragon Ball · 14:30 · Se queda a la fiesta. Habitación en la mansión. Videl entra a preguntar qué pasó de verdad.
 T234 · Dragon Ball · 19:40 · Videl no le cree; se va. Duerme. Mayordomo: fiesta a las 20:00.
 T235 · Dragon Ball · 21:35 · Fiesta en la mansión. Vegeta aparece en la terraza: ¿qué fue ese ki maligno?
+T236 · Dragon Ball · 21:38 · Le cuenta a Vegeta lo del Buu malo. Vegeta confirma la pelea de mañana.
