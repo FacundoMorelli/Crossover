@@ -4,6 +4,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17 (no opción romántica)
 FÍSICO: coletas negras, ropa de pelea, vendas en la cara (Spopovich la golpeó).
 PERSONALIDAD: valiente, directa, justiciera.
 ENCUENTROS:
+- T273 · 20:40 · Después de la cena, alcanza a Facundo en el pasillo y le pide hablar en el balcón.
 - T272 · 20:18 · Se relaja al escuchar que Facundo rechaza. Lo mira distinto.
 - T271 · 20:15 · En la cena, se opone a la propuesta de su padre.
 - T235 · 20:00-21:30 · En la fiesta, mira a Facundo de lejos toda la noche. No se acerca.
@@ -12,6 +13,7 @@ ENCUENTROS:
 - T186 · 14:08 · Ve a su padre abrazado por Buu. No sabe si reírse o llorar.
 - T185 · 14:06 · Se pone delante de su padre. Desconfía de Facundo; lo deja hablar con él a tres metros de distancia.
 DIÁLOGOS CLAVE:
+- T273: "Oye. ¿Podemos hablar? Afuera."
 - T271: "Papá, no." / "Él no es tu discípulo y lo sabes."
 - T234: "No te creo." / "...Pero mi papá está vivo. Así que gracias. Por lo que sea que hiciste."
 - T233: "Mi papá no hizo ese surco. Lo conozco. ¿Qué pasó de verdad?"
