@@ -27,3 +27,4 @@
 - Facundo · T427 · Sabe por Zeke que Paradis tiene los mayores yacimientos de piedra de hielo y combustible: lo que Marley y el mundo quieren.
 - Eren · T430 · Sabe por Zeke el plan de eutanasia y la propuesta de Facundo (negociar con recursos).
 - Zeke, Eren · T431 · Vieron a Facundo sacar del sobretodo una cámara chica de un tipo que no existe en ningún país (Zeke lo nota).
+- Zeke, Eren, Mikasa · T433 · Vieron a la cámara de Facundo grabar y reproducir imágenes que se mueven con sonido.

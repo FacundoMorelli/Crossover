@@ -431,3 +431,4 @@ T429 · Shingeki · Shiganshina · Lleva a Eren con Zeke. Primeras palabras entr
 T430 · Shingeki · Shiganshina · Zeke explica los dos planes; Eren rechaza la eutanasia y mira a Facundo.
 T431 · Shingeki · Shiganshina · Compra y saca una cámara de fotos y video (15 F).
 T432 · Shingeki · Shiganshina · Plan de grabar la vida en las murallas. Zeke: "Muéstrame."
+T433 · Shingeki · Shiganshina · Graba a Eren y la casa y lo muestra. Zeke ofrece ayudar a llevarlo al continente.
