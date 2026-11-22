@@ -7,6 +7,7 @@ FÍSICO: pelo negro en punta, ojos azul oscuro, uniforme escolar.
 PERSONALIDAD Y FORMA DE HABLAR: serio, reservado, cortante, pragmático.
 RELACIÓN CON FACUNDO: acaba de verlo; desconfianza natural.
 ENCUENTROS:
+- T71 · 11:31 · Escucha el nombre Kenjaku. Nanami le habla.
 - T70 · 11:30 · Yuji le cuenta lo del dominio de Sukuna, Nanami, Mahito, el falso Geto. Megumi se culpa por invocar a Mahoraga.
 - T69 · 11:23 · Facundo se presenta, le explica que la marca es su técnica y no le hace nada, y la disuelve. Yuji le cuenta que Facundo los salvó a él y a Nanami. Megumi agradece seco y pregunta qué pasó con Sukuna.
 - T68 · 11:22 · Despierta en la carpa. Ve a Yuji y después a Facundo. Nota el I brillante en su pecho y pregunta qué es y quién es él.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T7 · 23:35 · Yuji corre hacia él. Respira débil.
 - T5 · 23:33 · zona arrasada · Facundo lo ve inconsciente sobre una losa (aún no se acercó).
 DIÁLOGOS CLAVE:
+- T71: "¿Kenjaku?"
 - T70: "Si yo no hubiera invocado a Mahoraga, Sukuna no habría tenido que expandir su dominio."
 - T69: "...Gracias." / "Itadori. Lo último que recuerdo es a Sukuna. ¿Qué pasó después?"
 - T68: "Itadori... ¿estás bien? ¿Eres tú?" / "¿Y quién es él? ...¿Y qué es esto?" (por el I)

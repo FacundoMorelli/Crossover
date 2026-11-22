@@ -53,6 +53,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Facundo → Yuji, Megumi y Nanami (T71, carpa médica): llama "Kenjaku" al hombre con el cuerpo de Geto. Se sorprenden una vez y lo adoptan. (Choso lo llamó 'Noritoshi Kamo' anoche.)
 - Yuji → Megumi (T69, carpa médica): Facundo lo salvó a él y a Nanami, ayudó contra Mahito.
 - Shoko → Yaga (T63, 08:00, informe médico): Facundo llegó cargando a Nanami; su técnica le quema y congela los ojos por dentro.
 - Yuji → Maki e Inumaki (T62, segunda carpa, por gratitud): Facundo salvó a Nanami y a Megumi, ayudó contra Mahito.

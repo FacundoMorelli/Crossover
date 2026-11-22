@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T71 · 11:31 · Escucha el nombre Kenjaku. Nanami le habla; se le llenan los ojos de lágrimas.
 - T70 · 11:30 · Le cuenta todo a Megumi. Discuten quién tiene la culpa.
 - T68 · 08:10-11:22 · Espera con Facundo. Megumi despierta; Yuji se lo presenta.
 - T67 · 08:09 · Festeja que Facundo entra a la escuela. Le cuenta que una camioneta lleva a los que pueden moverse a la escuela al mediodía; él quiere quedarse hasta que despierte Megumi.
