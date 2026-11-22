@@ -123,3 +123,4 @@ T121 · Bleach · 23:19 · Se presenta y traza una línea entre Renji y Rukia. Z
 T122 · Bleach · 23:19 · Bloquea la estocada de Byakuya. Byakuya empieza a liberar Senbonzakura.
 T123 · Bleach · 23:19 · Destello Solar a Byakuya: no llega a liberar Senbonzakura. Vuelve al poste, ciego.
 T124 · Bleach · 23:20 · Llega Ichigo como Shinigami.
+T125 · Bleach · 23:20 · Ichigo choca con Renji. Byakuya va por Facundo.
