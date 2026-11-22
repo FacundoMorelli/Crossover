@@ -7,6 +7,7 @@ FÍSICO: pelo negro en punta, ojos azul oscuro, uniforme escolar.
 PERSONALIDAD Y FORMA DE HABLAR: serio, reservado, cortante, pragmático.
 RELACIÓN CON FACUNDO: desconfianza que se transforma en respeto pragmático.
 ENCUENTROS:
+- T74 · 01/11 tarde · Trasladado a la enfermería de la escuela.
 - T73 · 11:34 · Facundo dice que si Gojo es tan fuerte, conviene tenerlo libre. Megumi está de acuerdo y menciona a Tengen-sama como quien podría saber de objetos sellados así.
 - T72 · 11:33 · Pregunta a Facundo por qué quiere saberlo.
 - T71 · 11:31 · Escucha el nombre Kenjaku. Nanami le habla.

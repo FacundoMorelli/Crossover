@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T74 · 01/11 tarde · Trasladado a la enfermería de la escuela. Se recupera lento.
 - T72 · 11:33 · Explica que Gojo está sellado en el Reino de la Prisión, un objeto maldito que Kenjaku se llevó. No sabe cómo abrirlo.
 - T71 · 11:31 · Despierto, escucha la discusión. Respalda a Facundo: la culpa es de quien planeó todo. Les dice a Yuji y Megumi que no carguen con eso, que es trabajo de adultos.
 - T55 · 05:58 · Facundo abre la lona. Nanami ve el amanecer del 1 de noviembre. Habla de Malasia.

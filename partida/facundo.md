@@ -15,3 +15,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 35 · Mahito vencido junto a Yuji, Nobara y Todo. Copia el físico de Yuji y el Puño Divergente. Nivel 3.
 - Turno 55 · MISIÓN DE MUNDO CUMPLIDA: Nanami vio el amanecer. La Puerta se abre. Nivel 5. Habilidad: Recuerdo.
 - Turno 66 · Aceptado por Yaga como estudiante transferido de la Escuela de Tokio.
+- 01/11 · Se instala en el cuarto 2-08 del dormitorio de la escuela de Tokio. Uniforme negro de repuesto.

@@ -47,6 +47,9 @@
 - 23:57-23:58 · Nanami se desploma en la losa; Facundo y Yuji lo estabilizan. Despierta. Vivo.
 
 ## LO QUE PASÓ
+- 03/11 · Decreto de los altos mandos (canon + orden sobre Facundo).
+- 02/11 · Yaga citado por los altos mandos. Naobito sigue grave.
+- 01/11 16:00 · Traslado a la escuela de Tokio. Facundo recibe el cuarto 2-08.
 - 08:00 · Yaga llega al puesto de mando.
 - 07:00 · Megumi despierta brevemente; Shoko lo vuelve a dormir.
 - 05:58 · Amanecer. Nanami lo ve desde la carpa médica. (CAMBIO: vivo.)

@@ -1,8 +1,8 @@
 {
-  "turno": 73,
+  "turno": 74,
   "mundo_actual": "jujutsu",
-  "fecha_local": "01/11/2018",
-  "hora": "11:34",
+  "fecha_local": "03/11/2018",
+  "hora": "07:12",
   "edad": 18,
   "nivel": 5,
   "exp": 9600,
@@ -26,7 +26,7 @@
     "energia": 45,
     "control": 44
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -62,13 +62,7 @@
         "desbloqueo": 70,
         "estado": "bloqueada"
       },
-      "marcas_activas": [
-        {
-          "n": "IV",
-          "sobre": "Kento Nanami (estado grabado: desplomado, quemaduras graves, inconsciente, vivo, 23:57 del 31/10)",
-          "vence": "01/11/2018 23:57"
-        }
-      ]
+      "marcas_activas": []
     }
   },
   "velo": {
@@ -321,7 +315,7 @@
     "relojes": {
       "jujutsu": {
         "llegada": "31/10/2018 23:14",
-        "dias_transcurridos": 0
+        "dias_transcurridos": 2
       }
     },
     "puerta_abierta": true
@@ -408,6 +402,7 @@
     "mahito_posicion": "Mahito salió del túnel (T13). Vio a Facundo cortar a sus transfigurados. Curioso por él. Su alma: Mahito intenta 'ver' la forma del alma de Facundo y no puede leerla bien (Velo: no mide poder); le resulta rara.",
     "mahito_estado": "Recongelado por la Marca III (T27) frente a Yuji, en su forma normal; el daño al alma del golpe de Yuji sigue. Adentro: inquietud que se acerca al miedo hacia Facundo (no sabe cuándo ni cómo lo congela). Rompería el hielo en ~4 min.",
     "kenjaku": "Vio desde lejos los fogonazos de Facundo (Destello Solar) y la línea de escarcha; deduce que es un hechicero desconocido con técnica de ojo. Lo considera una variable a anotar. No sabe su nombre.",
-    "madrugada": "02:00-05:40: Yuji habló por teléfono con Yaga (viene a las 8:00). Yuki se fue a rastrear a Kenjaku. Todo y Kioto volvieron a su base temporal. Choso se quedó dormido sentado junto a la camioneta de Yuji. Altos mandos ya preparan la acusación contra Gojo y la reactivación de la ejecución de Yuji (canon: se anuncia en días)."
+    "madrugada": "02:00-05:40: Yuji habló por teléfono con Yaga (viene a las 8:00). Yuki se fue a rastrear a Kenjaku. Todo y Kioto volvieron a su base temporal. Choso se quedó dormido sentado junto a la camioneta de Yuji. Altos mandos ya preparan la acusación contra Gojo y la reactivación de la ejecución de Yuji (canon: se anuncia en días).",
+    "altos_mandos": "Decreto del 03/11: Gojo cómplice y expulsado; Yaga condenado a muerte; ejecución inmediata de Yuji (verdugo: Yuta Okkotsu, que la fingirá por pacto con Gojo). Agregado por el cambio: Facundo, hechicero no registrado presente en Shibuya, debe ser 'retenido para interrogatorio' y su técnica evaluada; si se resiste, tratado como usuario de maldiciones. Yaga ya no puede protegerlo."
   }
 }

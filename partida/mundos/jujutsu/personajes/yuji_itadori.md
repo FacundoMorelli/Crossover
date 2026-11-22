@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T74 · 01/11-03/11 · Vuelve a la escuela. Duerme mal. Entrena solo de madrugada. 03/11: Ijichi trae la orden de su ejecución.
 - T72 · 11:33 · Facundo le pone la mano en el hombro y pregunta dónde está Gojo. Yuji recuerda el cubo que Kenjaku se guardó.
 - T71 · 11:31 · Escucha el nombre Kenjaku. Nanami le habla; se le llenan los ojos de lágrimas.
 - T70 · 11:30 · Le cuenta todo a Megumi. Discuten quién tiene la culpa.
