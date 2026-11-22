@@ -16,3 +16,6 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 55 · MISIÓN DE MUNDO CUMPLIDA: Nanami vio el amanecer. La Puerta se abre. Nivel 5. Habilidad: Recuerdo.
 - Turno 66 · Aceptado por Yaga como estudiante transferido de la Escuela de Tokio.
 - 01/11 · Se instala en el cuarto 2-08 del dormitorio de la escuela de Tokio. Uniforme negro de repuesto.
+
+### Bleach
+- Turno 86 · Cruza la Puerta desde Shinjuku. Llega a Karakura, detrás del hospital abandonado. Don de Mundo: zanpakutō Sakaime.

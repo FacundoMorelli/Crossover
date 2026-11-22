@@ -17,3 +17,6 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - Turno 54 · Duerme toda la madrugada sobre el pecho de Facundo. Lo despierta con una pata en la cara antes del amanecer.
 - Turno 59 · Le roba a Yuji el salmón de un onigiri sin que se dé cuenta.
 - 01-03/11 · Adopta el alféizar del cuarto 2-08 como su lugar.
+
+### Bleach
+- Turno 86 · Cruza la Puerta con Facundo. Llega erizado: ve almas.

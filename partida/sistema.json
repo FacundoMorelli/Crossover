@@ -1,8 +1,8 @@
 {
-  "turno": 85,
-  "mundo_actual": "jujutsu",
-  "fecha_local": "05/11/2018",
-  "hora": "22:53",
+  "turno": 86,
+  "mundo_actual": "bleach",
+  "fecha_local": "23 de junio (año del canon, ~2001)",
+  "hora": "20:40",
   "edad": 18,
   "nivel": 6,
   "exp": 10900,
@@ -10,6 +10,11 @@
   "fragmentos": 761,
   "plata_local": {
     "jujutsu": {
+      "moneda": "yenes",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 yenes"
+    },
+    "bleach": {
       "moneda": "yenes",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 yenes"
@@ -63,6 +68,29 @@
         "estado": "bloqueada"
       },
       "marcas_activas": []
+    },
+    "bleach": {
+      "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
+      "tipo": "zanpakutō propia (Shikai y Bankai)",
+      "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
+      "maestria": 30,
+      "shikai": {
+        "comando": "Traza, Sakaime",
+        "efecto": [
+          "La hoja dibuja líneas en el aire que quedan suspendidas: son fronteras absolutas. Nada las cruza (ataques, cuerpos, energía) salvo lo que Facundo permite.",
+          "Líneas simultáneas: 3 en maestría 30 (+1 cada 10). Largo: hasta 10 m en maestría 30 (+10 m cada 10).",
+          "Duran hasta 10 minutos o hasta que Facundo las disuelve.",
+          "Corte de frontera: si traza una línea a través de un objetivo a menos de 3 m, separa el espacio a cada lado: corta lo que sea, sin importar la dureza.",
+          "Límite propio: no puede trazar líneas dentro del cuerpo de alguien que no ve; la frontera no detiene lo que ya estaba del otro lado."
+        ]
+      },
+      "bankai": {
+        "nombre": "Bankai: Hate no Sakaime (Frontera del Fin del Mundo)",
+        "desbloqueo": 60,
+        "estado": "bloqueado",
+        "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
+      },
+      "marcas_o_lineas_activas": []
     }
   },
   "velo": {
@@ -79,12 +107,21 @@
       "nombre": "Echo",
       "tipo": "Espada Gemela del Eclipse - Luna (azul)",
       "estilo_maestria": 30
+    },
+    {
+      "nombre": "Sakaime",
+      "tipo": "zanpakutō (Don de Mundo Bleach)",
+      "estilo_maestria": 30
     }
   ],
   "inventario_dimensional": [
     {
       "objeto": "Bolsa de clavos de Nobara (39; uno usado en T80) y un muñeco de paja",
       "origen": "jujutsu, regalo de Nobara (T77)"
+    },
+    {
+      "objeto": "Zanpakutō Sakaime (sellada)",
+      "origen": "Don de Mundo, Bleach"
     }
   ],
   "copias": [
@@ -340,27 +377,44 @@
   ],
   "viaje": {
     "mundos_visitados": [
-      "jujutsu"
+      "jujutsu",
+      "bleach"
     ],
     "mundos_completados": [
       "jujutsu"
     ],
     "viaje_libre": false,
     "mision_de_mundo_actual": {
-      "mundo": "jujutsu",
-      "mision": "Que Kento Nanami vea el amanecer del 1 de noviembre.",
-      "recompensa": "5.000 EXP · 120 Fragmentos · la Puerta",
+      "mundo": "bleach",
+      "mision": "Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes.",
+      "recompensa": "8.000 EXP · 200 Fragmentos · la Puerta",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "cumplida (T55, 01/11/2018 05:58)"
+      "estado": "activa"
     },
     "relojes": {
       "jujutsu": {
         "llegada": "31/10/2018 23:14",
-        "dias_transcurridos": 4
+        "salida": "05/11/2018 22:55",
+        "dias_transcurridos_al_salir": 5,
+        "corre_desde": "T86 al ritmo de Facundo"
+      },
+      "bleach": {
+        "llegada": "23/06 20:40",
+        "dias_transcurridos": 0
       }
     },
-    "puerta_abierta": true
+    "puerta_abierta": true,
+    "historial_misiones": {
+      "jujutsu": {
+        "mundo": "jujutsu",
+        "mision": "Que Kento Nanami vea el amanecer del 1 de noviembre.",
+        "recompensa": "5.000 EXP · 120 Fragmentos · la Puerta",
+        "vence": "nunca",
+        "cambiada": false,
+        "estado": "cumplida (T55, 01/11/2018 05:58)"
+      }
+    }
   },
   "apodos": {},
   "tienda": {
@@ -408,9 +462,9 @@
       "Celular local con línea": 5
     },
     "stock_rotativo": {
-      "Talismán de barrera menor (bloquea un golpe de grado 2)": 35,
-      "Gafas de visión de energía maldita (ver maldiciones sin poder propio)": 15,
-      "Vendas de sellado (para envolver un objeto maldito)": 25
+      "Gikongan (alma de reemplazo, un uso)": 20,
+      "Capa de reishi (te vuelve invisible a los ojos de las almas por 1 hora)": 40,
+      "Sello de konsō de bolsillo (envía un alma perdida a la Sociedad de Almas)": 8
     },
     "ultimo_hito_de_catalogo": 5
   },
@@ -436,7 +490,8 @@
     "momento_del_canon": "Incidente de Shibuya, cap. ~116: Megumi acaba de invocar a Mahoraga contra Shigemo; Sukuna (15 dedos, en Yuji) se acerca. Faltan minutos para el Santuario Malévolo (radio ~200 m). Después: Sukuna devuelve el control, Mahito mata a Nanami (cap. ~120), cae Nobara, Todo, Kenjaku absorbe a Mahito.",
     "lugar_de_llegada": "azotea de un edificio de oficinas en Shibuya 2-chome, al este de la estación, ~600 m del centro del futuro dominio de Sukuna",
     "apodos_pendientes": {
-      "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa"
+      "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa",
+      "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
@@ -445,6 +500,9 @@
     "mahito_estado": "Recongelado por la Marca III (T27) frente a Yuji, en su forma normal; el daño al alma del golpe de Yuji sigue. Adentro: inquietud que se acerca al miedo hacia Facundo (no sabe cuándo ni cómo lo congela). Rompería el hielo en ~4 min.",
     "kenjaku": "Vio desde lejos los fogonazos de Facundo (Destello Solar) y la línea de escarcha; deduce que es un hechicero desconocido con técnica de ojo. Lo considera una variable a anotar. No sabe su nombre.",
     "madrugada": "02:00-05:40: Yuji habló por teléfono con Yaga (viene a las 8:00). Yuki se fue a rastrear a Kenjaku. Todo y Kioto volvieron a su base temporal. Choso se quedó dormido sentado junto a la camioneta de Yuji. Altos mandos ya preparan la acusación contra Gojo y la reactivación de la ejecución de Yuji (canon: se anuncia en días).",
-    "altos_mandos": "Decreto del 03/11: Gojo cómplice y expulsado; Yaga condenado a muerte; ejecución inmediata de Yuji (verdugo: Yuta Okkotsu, que la fingirá por pacto con Gojo). Agregado por el cambio: Facundo, hechicero no registrado presente en Shibuya, debe ser 'retenido para interrogatorio' y su técnica evaluada; si se resiste, tratado como usuario de maldiciones. Yaga ya no puede protegerlo."
+    "altos_mandos": "Decreto del 03/11: Gojo cómplice y expulsado; Yaga condenado a muerte; ejecución inmediata de Yuji (verdugo: Yuta Okkotsu, que la fingirá por pacto con Gojo). Agregado por el cambio: Facundo, hechicero no registrado presente en Shibuya, debe ser 'retenido para interrogatorio' y su técnica evaluada; si se resiste, tratado como usuario de maldiciones. Yaga ya no puede protegerlo.",
+    "jujutsu_al_salir": "Facundo cruzó la Puerta el 05/11/2018 22:55. El canon sigue: 06/11 Yuta reporta a Yuji ejecutado y a Facundo 'escapado'; Naoya despierta y culpa a Facundo ante el clan Zen'in (lo quiere muerto). 07/11 reunión con Yuki y Tengen (Preparación Perfecta). Nanami vivo y en recuperación cambia el canon: participará en el Juego del Sacrificio. Nobara activa.",
+    "segundo_mundo": "bleach (tirada 0.038 → cap. ~26)",
+    "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55)."
   }
 }

@@ -84,3 +84,4 @@ T82 · Jujutsu · 22:43 · Se pone delante de Yuji. Yuta confirma que fue alumno
 T83 · Jujutsu · 22:47 · Observa: Yuta vence a Choso, finge la ejecución de Yuji y lo cura. Revela el pacto. Misión de copia: Yuta.
 T84 · Jujutsu · 22:49 · Yuta dirá que Facundo escapó. Reunión con Yuki para ver a Tengen en dos días.
 T85 · Jujutsu · 22:53 · Se despide de Yuji, Choso y Yuta y se va solo con Kase.
+T86 · Bleach · 23/06 20:40 · Cruza la Puerta. Llega a Karakura, detrás del hospital abandonado. Don: Sakaime. Misión: que Rukia vuelva libre y con poderes.
