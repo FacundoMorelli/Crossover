@@ -70,3 +70,5 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - DIÁLOGO T296: "¡¿Facundo?!" / "Se llevaron a Inoue. A Hueco Mundo. La Sociedad de Almas no va a mover un dedo. Vamos ahora." / "¿Vienes o no?"
 - T297 · Cruza la Garganta con Facundo a Hueco Mundo.
 - T298 · Les pega a Pesche y Dondochakka con la funda de Zangetsu creyendo que atacaban a Nel.
+- T302 · Rompe la pared de Las Noches con un Getsuga. Propone separarse en los cinco pasillos.
+- DIÁLOGO T302: "Cinco pasillos. Nos separamos. El que encuentre a Inoue, la saca."
