@@ -8,3 +8,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 ## HITOS
 ### Jujutsu Kaisen
 - Turno 1 · 31/10/2018 23:14 · Llega a Shibuya en pleno Incidente. Recibe el Don de Mundo "Manecilla Inversa".
+- Turno 2 · Nombra sus espadas: Rift (roja, Sol) y Echo (azul, Luna). Primer corte en este mundo: un humano transfigurado.

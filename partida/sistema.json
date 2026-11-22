@@ -1,18 +1,45 @@
 {
-  "turno": 1,
+  "turno": 2,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:14",
+  "hora": "23:17",
   "edad": 18,
-  "nivel": 1, "exp": 0, "exp_siguiente_nivel": 1000,
-  "fragmentos": 20,
-  "plata_local": {"jujutsu": {"moneda": "yenes", "cantidad": 0, "cambio": "1 Fragmento = 11.000 yenes"}},
+  "nivel": 1,
+  "exp": 30,
+  "exp_siguiente_nivel": 1000,
+  "fragmentos": 21,
+  "plata_local": {
+    "jujutsu": {
+      "moneda": "yenes",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 yenes"
+    }
+  },
   "puntos_de_stat_sin_asignar": 0,
-  "stats": {"fuerza":30,"velocidad":32,"resistencia":29,"tecnica":31,
-            "percepcion":31,"voluntad":32,"energia":32,"control":31},
+  "stats": {
+    "fuerza": 30,
+    "velocidad": 32,
+    "resistencia": 29,
+    "tecnica": 31,
+    "percepcion": 31,
+    "voluntad": 32,
+    "energia": 32,
+    "control": 31
+  },
   "energia_actual_pct": 100,
-  "eclipse": {"maestria": 30, "partes_desbloqueadas": ["Sol","Luna"],
-    "tecnicas": ["Destello Solar","Marea Lunar","Filo de Brasa","Escarcha Lunar"]},
+  "eclipse": {
+    "maestria": 30,
+    "partes_desbloqueadas": [
+      "Sol",
+      "Luna"
+    ],
+    "tecnicas": [
+      "Destello Solar",
+      "Marea Lunar",
+      "Filo de Brasa",
+      "Escarcha Lunar"
+    ]
+  },
   "ojos": "bien",
   "dones_de_mundo": {
     "jujutsu": {
@@ -29,26 +56,61 @@
         "Ofensiva: puede marcar a un enemigo y revertirlo a un estado anterior (ej.: antes de cargar una técnica, antes de curarse).",
         "Forma superior: Expansión de Dominio 'Cuadrante del Retorno' se desbloquea en maestría 70."
       ],
-      "forma_superior": {"nombre": "Cuadrante del Retorno", "desbloqueo": 70, "estado": "bloqueada"}
+      "forma_superior": {
+        "nombre": "Cuadrante del Retorno",
+        "desbloqueo": 70,
+        "estado": "bloqueada"
+      }
     }
   },
-  "velo": {"activo": true, "poder_mostrado": "persona común"},
+  "velo": {
+    "activo": true,
+    "poder_mostrado": "persona común"
+  },
   "armas": [
-    {"nombre": "Espada roja (sin nombre)", "tipo": "Espada Gemela del Eclipse - Sol", "estilo_maestria": 30, "nombre_propuesto": "Ascua"},
-    {"nombre": "Espada azul (sin nombre)", "tipo": "Espada Gemela del Eclipse - Luna", "estilo_maestria": 30, "nombre_propuesto": "Selene"}
+    {
+      "nombre": "Rift",
+      "tipo": "Espada Gemela del Eclipse - Sol (roja)",
+      "estilo_maestria": 30
+    },
+    {
+      "nombre": "Echo",
+      "tipo": "Espada Gemela del Eclipse - Luna (azul)",
+      "estilo_maestria": 30
+    }
   ],
-  "inventario_dimensional": ["Espada roja del Eclipse", "Espada azul del Eclipse"],
+  "inventario_dimensional": [],
   "copias": [],
   "misiones_de_copia_activas": [],
   "misiones_de_copia_rechazadas": [],
-  "fusion": {"combinaciones_selladas": []},
-  "habilidades_del_sistema": ["Velo", "Lengua de los mundos"],
-  "estilos_desbloqueados": [{"nombre": "Estilo propio de doble espada", "maestria": 30}],
+  "fusion": {
+    "combinaciones_selladas": []
+  },
+  "habilidades_del_sistema": [
+    "Velo",
+    "Lengua de los mundos"
+  ],
+  "estilos_desbloqueados": [
+    {
+      "nombre": "Estilo propio de doble espada",
+      "maestria": 30
+    }
+  ],
   "tecnicas_combinadas": [],
   "aptitudes_registradas": [],
-  "derrotados": [],
+  "derrotados": [
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (obra de Mahito)",
+      "turno": 2,
+      "fragmentos": 1,
+      "exp": 30
+    }
+  ],
   "viaje": {
-    "mundos_visitados": ["jujutsu"],
+    "mundos_visitados": [
+      "jujutsu"
+    ],
     "mundos_completados": [],
     "viaje_libre": false,
     "mision_de_mundo_actual": {
@@ -59,7 +121,12 @@
       "cambiada": false,
       "estado": "activa"
     },
-    "relojes": {"jujutsu": {"llegada": "31/10/2018 23:14", "dias_transcurridos": 0}}
+    "relojes": {
+      "jujutsu": {
+        "llegada": "31/10/2018 23:14",
+        "dias_transcurridos": 0
+      }
+    }
   },
   "apodos": {},
   "tienda": {
@@ -112,7 +179,9 @@
     "primer_mundo": "jujutsu (tirada 0.431)",
     "momento_del_canon": "Incidente de Shibuya, cap. ~116: Megumi acaba de invocar a Mahoraga contra Shigemo; Sukuna (15 dedos, en Yuji) se acerca. Faltan minutos para el Santuario Malévolo (radio ~200 m). Después: Sukuna devuelve el control, Mahito mata a Nanami (cap. ~120), cae Nobara, Todo, Kenjaku absorbe a Mahito.",
     "lugar_de_llegada": "azotea de un edificio de oficinas en Shibuya 2-chome, al este de la estación, ~600 m del centro del futuro dominio de Sukuna",
-    "apodos_pendientes": {"jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa"},
+    "apodos_pendientes": {
+      "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa"
+    },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final."
   }
