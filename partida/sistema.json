@@ -1,8 +1,8 @@
 {
-  "turno": 3,
+  "turno": 4,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:22",
+  "hora": "23:26",
   "edad": 18,
   "nivel": 1,
   "exp": 120,
@@ -204,6 +204,7 @@
       "jujutsu": "El Bicolor de Shibuya (si lo ven pelear en Shibuya) / 'Relojero' entre usuarios de maldiciones si ven la Manecilla Inversa"
     },
     "quien_sospecha": {},
-    "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final."
+    "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
+    "reloj_nanami": "Sukuna devuelve el control a Yuji ≈23:30. Yuji vaga por la zona arrasada; encuentra a Nanami ≈00:10 al sur de la estación (cerca de Dogenzaka/salida sur). Mahito está ahí. Si nadie interviene, Nanami muere ≈00:12."
   }
 }
