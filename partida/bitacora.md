@@ -254,3 +254,4 @@ T252 · Dragon Ball · 10:30 · Abre la tienda. Lotes de nivel 15 y 20 disponibl
 T253 · Dragon Ball · 10:32 · Llave de umbral (4.000 F). Mundo de los Demonios. Patrulla de demonios.
 T254 · Dragon Ball · 10:40 · Vuela al castillo. Dabura sale a recibirlo.
 T255 · Dragon Ball · 10:41 · Dabura: la piedra solo se rompe si muere. Desenvaina.
+T256 · Dragon Ball · 10:41 · Forma Cenit x10 frente a Dabura.
