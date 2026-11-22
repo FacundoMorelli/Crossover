@@ -10,3 +10,4 @@ T8 · Jujutsu · 23:36 · Marca I sobre Megumi (estado herido). Pregunta a Yuji 
 T9 · Jujutsu · 23:44 · Deja a Yuji con Megumi. Llega a la entrada sur de la estación. Ve a Nanami peleando, quemado, contra transfigurados. Tasación. Misión de copia: Proporción 7:3.
 T10 · Jujutsu · 23:45 · Salta al hall y corta al transfigurado grande antes de que toque a Nanami (+40 EXP, +1 F). Nanami pregunta quién es.
 T11 · Jujutsu · 23:46 · Se presenta a Nanami (lo manda Yuji). Corta a cinco transfigurados (+150 EXP, +5 F). Nanami pregunta por Itadori.
+T12 · Jujutsu · 23:47 · Confirma a Nanami que era Yuji y que Megumi vive. Nanami quiere ir al centro; casi cae. Kase mira el túnel.
