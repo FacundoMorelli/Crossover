@@ -1,8 +1,8 @@
 {
-  "turno": 38,
+  "turno": 39,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:25",
+  "hora": "00:26",
   "edad": 18,
   "nivel": 3,
   "exp": 2600,
@@ -18,15 +18,15 @@
   "puntos_de_stat_sin_asignar": 10,
   "stats": {
     "fuerza": 36,
-    "velocidad": 38,
+    "velocidad": 39,
     "resistencia": 35,
-    "tecnica": 37,
+    "tecnica": 38,
     "percepcion": 37,
     "voluntad": 37,
     "energia": 38,
     "control": 37
   },
-  "energia_actual_pct": 22,
+  "energia_actual_pct": 21,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -153,6 +153,13 @@
       "mision": "Responder a Aoi Todo qué tipo de mujer te gusta, y que la respuesta no lo aburra.",
       "dificultad": "MEDIA",
       "emitida": "T33"
+    },
+    {
+      "poder": "Ira Estelar — Yuki Tsukumo",
+      "mundo": "jujutsu",
+      "mision": "Que Yuki Tsukumo te pregunte qué tipo de mujer te gusta, y responderle con la verdad.",
+      "dificultad": "ALTA",
+      "emitida": "T39"
     }
   ],
   "misiones_de_copia_rechazadas": [],
