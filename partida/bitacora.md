@@ -56,3 +56,4 @@ T54 · Jujutsu · 05:41 · Duerme 4 h. Nanami despierto le pide abrir la lona pa
 T55 · Jujutsu · 05:58 · Abre la lona: Nanami ve el amanecer. MISIÓN DE MUNDO CUMPLIDA. Puerta abierta. +5.000 EXP, +120 F. NIVEL 5. Recuerdo.
 T56 · Jujutsu · 05:59 · Reparte 25 puntos: +3 a todo, +1 RES. FUE 43, VEL 46, RES 43, TÉC 45, PER 44, VOL 44, ENE 45, CON 44.
 T57 · Jujutsu · 06:01 · Busca a Yuji. Yaga viene a las 8. Conoce a Choso.
+T58 · Jujutsu · 06:02 · Se presenta a Choso. Choso lo acepta a medias.
