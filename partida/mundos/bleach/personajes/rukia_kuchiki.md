@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T124 · 23:20 · Ve llegar a Ichigo.
 - T120 · 04-07/07 · Su reiatsu vuelve de a poco (como un tercio). El 07/07 a la noche siente dos reiatsu conocidos y sale sola de la casa Kurosaki para que no encuentren a Ichigo. Renji la acorrala; Uryū intervino y perdió.
 - T118 · 19:55 · Ve a Facundo frenar el Cero con un cuadrado de líneas.
 - T117 · 19:55 · En la azotea junto a Facundo. Ve el Cero cargándose hacia ellos.
@@ -30,6 +31,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T124: "¡Ichigo, no! ¡Vete!"
 - T120: "Renji... Nii-sama."
 - T118: "Frenaste un Cero... con una línea."
 - T116: "Menos Grande... ¡¿Aquí?!"
