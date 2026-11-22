@@ -1,12 +1,12 @@
 {
-  "turno": 245,
+  "turno": 246,
   "mundo_actual": "dragonball",
-  "fecha_local": "Año 774 · día 3 (dos días después del 25.º Torneo)",
+  "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
   "hora": "09:25",
   "edad": 18,
-  "nivel": 17,
-  "exp": 81810,
-  "exp_siguiente_nivel": 85000,
+  "nivel": 22,
+  "exp": 131810,
+  "exp_siguiente_nivel": 145000,
   "fragmentos": 100357,
   "plata_local": {
     "jujutsu": {
@@ -25,42 +25,47 @@
       "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
-  "puntos_de_stat_sin_asignar": 75,
+  "puntos_de_stat_sin_asignar": 110,
   "stats": {
-    "fuerza": 214,
-    "velocidad": 217,
-    "resistencia": 214,
-    "tecnica": 217,
-    "percepcion": 215,
-    "voluntad": 215,
-    "energia": 216,
-    "control": 215
+    "fuerza": 232,
+    "velocidad": 235,
+    "resistencia": 232,
+    "tecnica": 235,
+    "percepcion": 233,
+    "voluntad": 233,
+    "energia": 234,
+    "control": 233
   },
-  "energia_actual_pct": 14,
+  "energia_actual_pct": 100,
   "eclipse": {
-    "maestria": 51,
+    "maestria": 100,
     "partes_desbloqueadas": [
       "Sol",
       "Luna",
-      "Eclipse"
+      "Eclipse",
+      "Corona"
     ],
     "tecnicas": [
       "Destello Solar",
       "Marea Lunar",
       "Filo de Brasa",
-      "Escarcha Lunar"
+      "Escarcha Lunar",
+      "Penumbra (60): el punto negro lanzado a distancia, del tamaño que elija",
+      "Anillo de Diamante (75): un anillo de luz blanca alrededor de un punto negro; todo lo que cruza el anillo se corta y lo de adentro cae al negro",
+      "Totalidad (90): Eclipse + Corona; una cúpula de 300 m donde la luz muere y la gravedad la decide Facundo"
     ],
     "notas": [
       "T219: maestría 50 contra Vegeta SSJ2. Desbloqueada la parte Eclipse (punto negro de gravedad). Cruzar las espadas: corte en X con un eclipse en el centro. Los ojos solo duelen si fuerza mucho.",
-      "T226: primer uso de la parte Eclipse (punto negro) para tragarse entero al Buu malo. Forzado: los dos ojos sangran."
+      "T226: primer uso de la parte Eclipse (punto negro) para tragarse entero al Buu malo. Forzado: los dos ojos sangran.",
+      "T246: maestría 100 en la Habitación del Tiempo (un año con Vegeta). Corona desbloqueada (70). Los ojos ya no sufren costo. Nombres de técnicas puestos por el motor; el jugador puede cambiarlos."
     ]
   },
-  "ojos": "bien (curados por Dende)",
+  "ojos": "bien (el Eclipse ya no los lastima)",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
       "tipo": "técnica maldita innata",
-      "maestria": 33,
+      "maestria": 100,
       "reglas": [
         "Al tocar con energía maldita a una persona, objeto o lugar, deja una Marca (un número romano que solo se ve con energía maldita). Graba el estado exacto de lo marcado en ese instante.",
         "Al activar una Marca (a distancia, si la ve), lo marcado vuelve al estado grabado: heridas, roturas, posición si es un objeto, temperatura, todo.",
@@ -75,15 +80,18 @@
       "forma_superior": {
         "nombre": "Cuadrante del Retorno",
         "desbloqueo": 70,
-        "estado": "bloqueada"
+        "estado": "desbloqueada (T246)"
       },
-      "marcas_activas": []
+      "marcas_activas": [],
+      "notas": [
+        "T246: maestría 100. 10 Marcas simultáneas. Expansión de Dominio Cuadrante del Retorno desbloqueada."
+      ]
     },
     "bleach": {
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 54,
+      "maestria": 100,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -100,19 +108,22 @@
       "bankai": {
         "nombre": "Bankai: Hate no Sakaime (Frontera del Fin del Mundo)",
         "desbloqueo": 60,
-        "estado": "bloqueado",
+        "estado": "desbloqueado (T246)",
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
       "marcas_o_lineas_activas": [],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
         "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"
+      ],
+      "notas": [
+        "T246: maestría 100. Shikai: 10 líneas simultáneas, hasta 80 m. Bankai Hate no Sakaime desbloqueado: zona de hasta 600 m (200 m en maestría 60, +100 m cada 10)."
       ]
     },
     "dragonball": {
       "nombre": "Forma Cenit",
       "tipo": "transformación de ki (nativa de Dragon Ball) + manejo del ki",
-      "maestria": 48,
+      "maestria": 100,
       "incluye_base": [
         "Manejo del ki de este mundo: volar (Bukūjutsu), sentir el ki ajeno, ráfagas y ondas de ki, ocultar el propio (además del Velo)"
       ],
@@ -127,12 +138,13 @@
       "forma_superior": {
         "nombre": "Cenit Eclipsado",
         "desbloqueo": 60,
-        "estado": "bloqueada"
+        "estado": "desbloqueada (T246)"
       },
       "notas": [
         "T198: maestría 40 entrenando con Goku. Multiplicador x4, duración 15 min.",
         "T208: maestría 43 entrenando con Goku hasta medianoche.",
-        "T219: maestría 46 peleando con Vegeta."
+        "T219: maestría 46 peleando con Vegeta.",
+        "T246: maestría 100. Forma Cenit x10, 45 minutos. Cenit Eclipsado desbloqueado: x20, 22 minutos y medio."
       ]
     }
   },
@@ -144,17 +156,17 @@
     {
       "nombre": "Rift",
       "tipo": "Espada Gemela del Eclipse - Sol (roja)",
-      "estilo_maestria": 32
+      "estilo_maestria": 100
     },
     {
       "nombre": "Echo",
       "tipo": "Espada Gemela del Eclipse - Luna (azul)",
-      "estilo_maestria": 32
+      "estilo_maestria": 100
     },
     {
       "nombre": "Sakaime",
       "tipo": "zanpakutō (Don de Mundo Bleach)",
-      "estilo_maestria": 40
+      "estilo_maestria": 100
     }
   ],
   "inventario_dimensional": [
@@ -443,12 +455,14 @@
     "Recuerdo",
     "Ojo del Eclipse",
     "Préstamo",
-    "Viaje libre"
+    "Viaje libre",
+    "Fusión en caliente"
   ],
   "estilos_desbloqueados": [
     {
       "nombre": "Estilo propio de doble espada",
-      "maestria": 30
+      "maestria": 100,
+      "nota": "150% (T246)"
     }
   ],
   "tecnicas_combinadas": [],
@@ -816,6 +830,6 @@
     "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
     "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón.",
     "buu_malo": "T222: Facundo cortó con la Transfiguración Ociosa el hilo de alma entre el Buu gordo y el Buu malo. El Buu malo (flaco, gris, mudo, pura maldad) es ahora un ser separado; no puede volver a entrar en el Buu gordo por la vía del alma, pero SÍ puede comerlo con su rayo de dulce (absorción física) y volverse Super Buu. Poder: comparable al Buu gordo, más agresivo. Odia a quien lo separó. Regenera.",
-    "habitacion_tiempo": "T245: Facundo y Vegeta entran 09:25 del día 3; salen 09:25 del día 4. Adentro, un año. Vegeta agota su segundo día de vida en la habitación. Facundo tiene un día más disponible."
+    "habitacion_tiempo": "T246: salieron 09:25 del día 4. Vegeta agotó sus dos días. Facundo tiene un día más disponible."
   }
 }

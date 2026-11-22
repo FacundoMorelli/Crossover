@@ -33,3 +33,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T214 (Dragon Ball) · Acepta pan con manteca de Goten debajo de la mesa.
 - T218 (Dragon Ball) · Salta a una saliente del cañón antes de la pelea con Vegeta.
 - T245 (Dragon Ball) · Se queda en el Templo Sagrado con Dende mientras Facundo pasa un día (un año) en la Habitación del Tiempo.
+- T246 (Dragon Ball) · Pasó el día entero sentado frente a la puerta de la Habitación, sin comer lo que le dio Dende hasta la noche.

@@ -7,6 +7,7 @@ FÍSICO: namekiano verde, antenas, túnica blanca con el símbolo de Kami, bast�
 PERSONALIDAD Y FORMA DE HABLAR: amable, educado, tímido, respetuoso.
 RELACIÓN CON FACUNDO: agradecido.
 ENCUENTROS:
+- T246 · día 4 09:25 · Cuidó a Kase un día. Kase no se movió de la puerta.
 - T245 · 09:25 · Se queda cuidando a Kase mientras Facundo entra en la Habitación.
 - T244 · 09:15 · Recibe a Facundo y a Vegeta. Los cura. Dice que vio desde el templo lo que pasó con Buu.
 DIÁLOGOS CLAVE:

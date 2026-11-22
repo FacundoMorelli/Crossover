@@ -15,6 +15,8 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- Día 4, 09:25 · (T246) Facundo y Vegeta salen de la Habitación del Tiempo tras un año adentro.
+- Día 3, 09:25 · (T245) Entran a la Habitación.
 - 13:58 · (T226) El Buu malo, destruido por el Eclipse. Fin de la amenaza de Majin Buu.
 - 13:54 · (T222) Facundo separa al Buu malo. El Buu gordo duerme.
 - 13:52 · (T220) Kibito encuentra a Facundo en el cañón del norte (indicación de Gohan).
