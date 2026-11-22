@@ -1,6 +1,6 @@
 TURNO: 210 | MUNDO: Dragon Ball | Año 774 · día siguiente al 25.º Torneo | HORA: 00:35 | Lugar: Monte Paoz, casa de los Son
 MOMENTO DEL CANON: Saga Majin Buu, desviada: Babidi muerto, Buu gordo amigo de Mr. Satán con el trato de los dulces. Goku volvió al Otro Mundo (medianoche). Dentro de Buu sigue el Buu original. Vegeta humillado, lejos al oeste.
-FACUNDO: 18 años · Nivel 13 · EXP 48.310/50.000 · 57 Fragmentos · 45 puntos sin asignar · 0 zeni · Energía 15% · Ojos: ardor fuerte (rojo sangra, azul nublado) · STATS ~206 · Cenit maestría 43 (x4, 15 min) · Eclipse 49
+FACUNDO: 18 años · Nivel 13 · EXP 48.310/50.000 · 57 Fragmentos · 45 puntos sin asignar · 0 zeni · Energía 12% · Ojos: ardor fuerte (rojo sangra, azul nublado) · STATS ~206 · Cenit maestría 43 (x4, 15 min) · Eclipse 49
 PARA ESTE MUNDO: salió en TV con Buu. Velo: mostró su ki base real a Goku y Vegeta. Ropa negra propia (sacó la del Seireitei).
 QUIÉN SABE QUÉ: Goku y Vegeta vieron casi todo en la pelea (T193). Gohan, Shin y Kibito lo vieron entrenar (Cenit, Eclipse, Kamehameha). Nadie sabe que viene de otro lado.
 MISIÓN DE MUNDO: Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. (activa) — completarla da VIAJE LIBRE (3/3).
