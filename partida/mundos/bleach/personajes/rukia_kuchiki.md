@@ -89,3 +89,5 @@ QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo 
 ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equipo de avanzada.
 - T300 · Hueco Mundo · Llega con Renji (enviados por Byakuya/Ukitake, canon), congela a Runuganga con Sode no Shirayuki. Ve a Facundo.
 - DIÁLOGO T300: "¡Ichigo, idiota! ¿Creías que...?" / "...¿Facundo?"
+- T301 · Hueco Mundo · Facundo pide perdón por tardar. Le pega en la canilla; sonríe. Aparte, le advierte que Aizen sabe que él tiene el Hōgyoku y que Inoue puede ser cebo o herramienta para rehacerlo (deducción suya).
+- DIÁLOGO T301: "¡Un mes! ¡Dijiste unas semanas!" / "Aizen no tiene el Hōgyoku. Y sabe quién lo tiene. Inoue puede ser un cebo para ti... o algo peor. Ten cuidado ahí adentro."

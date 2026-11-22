@@ -49,6 +49,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Rukia cree que Inoue puede ser un cebo para Facundo o que Aizen quiere usar su poder para rehacer el Hōgyoku (deducción de Rukia, T301).
 - Se llevaron a Orihime a Hueco Mundo; la Sociedad de Almas no va a ir; Ichigo, Uryū y Chad van ahora por la Garganta de Urahara: Ichigo y Urahara (T296).
 - 19/09: sintió al llegar a Ichigo, Uryū, Chad, Urahara y Yoruichi en la tienda, tensos, y una presión como de grieta en el sótano; no siente a Orihime en Karakura (T295).
 - Plan de Ukitake: una reliquia de la casa Shihōin para detener el Sōkyoku; necesita días: Ukitake se lo dijo (T149).

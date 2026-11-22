@@ -299,3 +299,4 @@ T297 · Bleach · Hueco Mundo · Cruza la Garganta con Ichigo, Uryū y Chad. Des
 T298 · Bleach · Hueco Mundo · Atrapa a Nel. Era un juego con Pesche y Dondochakka.
 T299 · Bleach · Hueco Mundo · Nel acaricia a Kase. Pesche ofrece guiarlos a Las Noches.
 T300 · Bleach · Hueco Mundo · Runuganga; Rukia y Renji llegan. Rukia ve a Facundo.
+T301 · Bleach · Hueco Mundo · Rukia: patada y sonrisa. Advierte: Aizen sabe que tiene el Hōgyoku.
