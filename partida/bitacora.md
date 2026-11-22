@@ -6,3 +6,4 @@ T4 · Jujutsu · 23:26 · Se cubre detrás de un edificio de Miyamasu-zaka. Pasa
 T5 · Jujutsu · 23:33 · Cruza el campo arrasado hacia el centro. Encuentra a Yuji Itadori de rodillas, con las marcas de Sukuna desapareciendo. Tasación automática. Yuji no lo vio.
 T6 · Jujutsu · 23:34 · Se acerca despacio a Yuji y lo saluda. Yuji se pone de pie, pregunta si está herido y si vio lo que pasó.
 T7 · Jujutsu · 23:35 · Facundo dice que vio y que no sabe dónde está. Yuji: es Shibuya, fue su culpa. Yuji ve a Megumi y corre; Megumi respira.
+T8 · Jujutsu · 23:36 · Marca I sobre Megumi (estado herido). Pregunta a Yuji por Nanami. Yuji lo cree hechicero; no sabe dónde está Nanami.

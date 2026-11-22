@@ -1,8 +1,8 @@
 {
-  "turno": 7,
+  "turno": 8,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:35",
+  "hora": "23:36",
   "edad": 18,
   "nivel": 1,
   "exp": 120,
@@ -26,7 +26,7 @@
     "energia": 32,
     "control": 31
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 30,
     "partes_desbloqueadas": [
@@ -60,7 +60,14 @@
         "nombre": "Cuadrante del Retorno",
         "desbloqueo": 70,
         "estado": "bloqueada"
-      }
+      },
+      "marcas_activas": [
+        {
+          "n": "I",
+          "sobre": "Megumi Fushiguro (estado grabado: muy herido, inconsciente, 23:36 del 31/10)",
+          "vence": "01/11/2018 23:36"
+        }
+      ]
     }
   },
   "velo": {
