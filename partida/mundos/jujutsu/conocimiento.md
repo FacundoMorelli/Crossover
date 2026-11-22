@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Shoko Ieiri · T52 · examinó sus ojos: daño por calor en el rojo, congelación en el azul, desde adentro. Deduce que su técnica le cuesta la vista.
 - Nobara y Yuji · T50 · Facundo les dijo que no es de ninguna escuela y que no sabe dónde está más allá de Tokio/Shibuya. Lo toman por un hechicero sin registro ('salvaje').
 - Yuji Itadori · T47 · cree que Facundo sabe de Sukuna porque lo vio con las marcas en el campo gris (T5, deducción de Yuji). Facundo le dijo que no fue su culpa.
 - Aoi Todo · T43 · su nombre, su tipo de mujer; lo considera su hermano.

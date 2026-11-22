@@ -1,8 +1,8 @@
 {
-  "turno": 51,
+  "turno": 52,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "01:32",
+  "hora": "01:36",
   "edad": 18,
   "nivel": 3,
   "exp": 4100,
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo: arde menos, ve borroso pero con colores; ojo azul: ciego, la escarcha del párpado se derrite",
+  "ojos": "ojo rojo: casi bien, leve ardor; ojo azul: congelación curada por Shoko, ve borroso y con halos, irá mejorando",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
