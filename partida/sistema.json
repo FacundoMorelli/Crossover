@@ -1,5 +1,5 @@
 {
-  "turno": 317,
+  "turno": 318,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
@@ -872,7 +872,8 @@
       "recordatorio_permanente": "Se copia todo, incluidas las razas y sus transformaciones, sin sus desventajas; los objetos no se copian."
     },
     "inmunidad_kyoka_suigetsu": "T159: Facundo tocó la hoja de Kyōka Suigetsu antes de ver su liberación: es inmune a su hipnosis (regla del canon).",
-    "ultra_instinto": "T309 (corrección del jugador): la copia de Goku incluye todo su poder, también las etapas futuras (Dios, Blue, Ultra Instinto), igual que pasó con Ichigo."
+    "ultra_instinto": "T309 (corrección del jugador): la copia de Goku incluye todo su poder, también las etapas futuras (Dios, Blue, Ultra Instinto), igual que pasó con Ichigo.",
+    "kyoka_suigetsu_inmune": "T318: el jugador declara que Facundo ya tocó la hoja de Kyōka Suigetsu (durante el choque del 29/07 en el claro del Sōkyoku, T160-T162). Regla del canon: quien toca la hoja antes de la hipnosis no queda bajo su efecto. Facundo es inmune a Kyōka Suigetsu."
   },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",

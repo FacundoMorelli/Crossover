@@ -27,4 +27,6 @@ QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco,
 - DIÁLOGO T316: "Facundo-kun. Bienvenido a Las Noches." / "Esta cicatriz es tuya. La conservo. Es la única que tengo." / "Te propongo algo simple. El Hōgyoku. A cambio, Inoue Orihime y todos tus amigos se van de aquí caminando. Y Karakura sigue existiendo."
 - T317 · Facundo se ríe del trato y activa Ultra Instinto Dominado. Aizen, Gin y Tōsen atacan: nada lo toca. Aizen deja de sonreír y empieza a liberar Kyōka Suigetsu.
 - DIÁLOGO T317: "Gin. Kaname." / "...Byakurai." / "Quiebra..."
-ESTADO: en Las Noches, sin el Hōgyoku. Cicatriz en la frente.
+- T318 · Facundo le recuerda que ya tocó su espada (29/07): Kyōka Suigetsu no le sirve. Se detiene, lo recuerda, baja la espada. Pregunta qué quiere.
+- DIÁLOGO T318: "...En el claro. Cuando cortaste mi kidō. Rozaste la hoja." / "Así que lo sabías. Qué interesante." / "Entonces dime, Facundo-kun. ¿Qué es lo que quieres?"
+ESTADO: en Las Noches, sin el Hōgyoku. Cicatriz en la frente. Sabe que Kyōka Suigetsu no funciona con Facundo.

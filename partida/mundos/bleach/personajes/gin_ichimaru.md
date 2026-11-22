@@ -35,3 +35,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - DIÁLOGO T316: "¡Hola, hola! El de la espada que me robó la forma."
 - T317 · Ataca con Shinsō a máxima velocidad: no lo toca. Abre los ojos.
 - DIÁLOGO T317: "...Ay. Ay, ay."
+- T318 · Se ríe nervioso al escuchar lo de la espada.
+- DIÁLOGO T318: "Ja... ja. Eso no estaba en el plan, ¿verdad, capitán?"

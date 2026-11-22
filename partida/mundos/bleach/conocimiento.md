@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Aizen, Gin, Tōsen · T318 · Facundo sabe la regla de Kyōka Suigetsu (tocar la hoja) y tocó la de Aizen el 29/07: es inmune. (Aizen no pregunta cómo lo sabe.)
 - Espadas (Nnoitra y otros) · antes de T307 · Aizen les describió a Facundo (pelo bicolor, gato, tiene el Hōgyoku) con información de Ulquiorra (22/08).
 - Ichigo, Rukia, Renji, Uryū, Chad, Orihime, Urahara, Yoruichi, Tessai, equipo de avanzada · T173 · Facundo les dijo que se va un tiempo, que no se preocupen por él ni por lo que tiene, que no se muera nadie y que seguro vuelve en unas semanas.
 - Aizen · T159 · Facundo sabe que tocar la hoja anula Kyōka Suigetsu. Se sorprende una vez; no investiga cómo lo sabe. Gin y Tōsen lo escucharon.
