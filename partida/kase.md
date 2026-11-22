@@ -29,3 +29,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - Turno 174 · Cruza la Puerta. Llega erizado: siente presiones enormes por todos lados.
 
 - T205 (Dragon Ball) · Se deja acariciar una vez por Goten, entre las orejas, después de olerle la mano. Después lo ignora.
+- T211 (Dragon Ball) · Milk le sirve un plato de pescado. Come sin mirarla.

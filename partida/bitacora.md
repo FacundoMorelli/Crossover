@@ -209,3 +209,4 @@ T207 · Dragon Ball · 20:09 · Promete a Goku cuidar a Vegeta y a Buu. Goku pro
 T208 · Dragon Ball · 23:58 · Entrena con Goku hasta medianoche. NIVEL 13. Llega Baba por Goku.
 T209 · Dragon Ball · 00:01 · Se despide de Goku. Gohan lo invita al Monte Paoz.
 T210 · Dragon Ball · 00:35 · Vuela al Monte Paoz con Gohan y Goten. Milk lo recibe.
+T211 · Dragon Ball · 00:45 · Milk lo hace pasar, le da de comer. Pregunta si estudia.
