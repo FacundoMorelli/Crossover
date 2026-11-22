@@ -3,3 +3,4 @@ Otro reino del universo de Dragon Ball. Cielo rojo oscuro, un sol violeta, llanu
 Acceso: Llave de umbral (T253). El paso de vuelta queda abierto donde Facundo llegó.
 VISITAS: T253.
 Castillo de Dabura: piedra negra, murallas con demonios armados, patio con una escalinata hacia un portón de hierro.
+T257: Dabura muere en el patio de su castillo. El paso de la Llave se cierra tras la vuelta de Facundo.

@@ -18,6 +18,8 @@
 - Goku · T178 · Facundo le pidió ayuda. Cree que salvó a la gente del torneo (deducción: la ráfaga iba hacia allá).
 - Vegeta, Goku · T177 · lo ven en el risco: joven de pelo blanco y azul con un gato; no sienten su ki (Velo).
 ## QUIÉN VIO QUÉ PODERES
+- Demonios del castillo · T257 · Facundo mata a Dabura con dos espadas cruzadas. (Información del Mundo de los Demonios; no llega a la Tierra salvo que alguien la cruce.)
+- Piccolo, Krilin · T257 · ven a Facundo en Forma Cenit (x10) salir de una línea brillante en el aire.
 - Dabura y los demonios de su castillo · T256 · Forma Cenit (x10).
 - Vegeta · T246 · durante un año en la Habitación vio todo lo que Facundo entrenó: Eclipse completo (Corona, Penumbra, Anillo de Diamante, Totalidad), Cenit Eclipsado, Bankai de Sakaime, Manecilla Inversa y su Dominio, el estilo de doble espada, técnicas copiadas.
 - Vegeta · T238 · el Eclipse (punto negro de gravedad) usado contra él.

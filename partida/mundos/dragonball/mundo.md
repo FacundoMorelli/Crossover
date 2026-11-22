@@ -14,3 +14,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T180/T196 · Kibito sigue vivo (en el canon, Buu lo mataba).
 - T222 · Facundo separa al Buu malo del Buu gordo con la Transfiguración Ociosa. En el canon, el Buu malo salía igual y se comía al gordo (Super Buu).
 - T226 · Facundo destruye al Buu malo (la esencia original de Majin Buu) con el Eclipse. No hay Super Buu, ni absorciones, ni Kid Buu, ni destrucción de la Tierra. Vegeta no se autodestruye. El Buu gordo sigue, bueno, con Mr. Satán y Bee.
+- T257 · Facundo mata a Dabura en el Mundo de los Demonios. Piccolo y Krilin vuelven a ser de carne (día 4). En el canon, volvían cuando Buu mataba a Dabura.
