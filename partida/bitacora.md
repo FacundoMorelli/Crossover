@@ -317,3 +317,4 @@ T315 · Bleach · Las Noches · Cúpula: Ichigo con el pecho atravesado; Orihime
 T316 · Bleach · Las Noches · Sala del trono. Aizen ofrece: Hōgyoku a cambio de todos y de Karakura.
 T317 · Bleach · Las Noches · 'No sabes con quién hablas.' ULTRA INSTINTO DOMINADO. Aizen, Gin y Tōsen fallan todo. Aizen va a liberar Kyōka Suigetsu.
 T318 · Bleach · Las Noches · 'Ya toqué tu espada.' Kyōka Suigetsu inútil. Aizen: '¿Qué quieres?'
+T319 · Bleach · Las Noches · Escupe a Aizen (Dabura). Aizen se corta el brazo izquierdo para no petrificarse.

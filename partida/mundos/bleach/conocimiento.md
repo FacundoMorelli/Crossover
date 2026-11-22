@@ -18,6 +18,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Aizen, Gin, Tōsen · T319 · saliva que convierte la carne en piedra y avanza (poder de Dabura). Aizen lo interpreta como algo ajeno a todo lo que conoce (deducción, no sabe de otros mundos).
 - Aizen, Gin, Tōsen · T317 · Ultra Instinto Dominado: aura plateada, esquiva todo sin moverse.
 - Chad · T311 · despierta curado; ve a Facundo con el aura plateada (Ultra Instinto) y a Nnoitra en el piso.
 - Rukia, Nel, Tesla · T310 · Facundo noquea a la 5.ª Espada de un solo golpe que nadie vio salir.

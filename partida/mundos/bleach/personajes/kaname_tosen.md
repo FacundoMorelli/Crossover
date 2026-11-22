@@ -8,3 +8,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - T317 · Ataca con Suzumushi: no lo toca. Nota que no siente nada donde debería estar Facundo.
 - DIÁLOGO T317: "No... no lo siento. No está ahí y está ahí."
 - T318 · Se tensa al escuchar que Facundo conoce el secreto de Kyōka Suigetsu.
+- T319 · Oye el brazo de piedra caer. Da un paso atrás.
+- DIÁLOGO T319: "¡Aizen-sama!"
