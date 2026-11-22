@@ -45,3 +45,4 @@ T43 · Jujutsu · 00:44 · Responde a Todo. Todo lo declara su hermano. COPIA: B
 T44 · Jujutsu · 00:46 · Corre a la losa con Yuki y Todo. Nanami débil. Shoko en el puesto de mando, a 2 km.
 T45 · Jujutsu · 01:06 · Carga a Nanami al puesto de mando. Nobara sale de Shibuya con sus dos ojos: COPIA Muñeco de Paja (+400 EXP). Shoko cura a Nanami.
 T46 · Jujutsu · 01:24 · Descansa. Nanami estable, Megumi atendido. Yuji le agradece.
+T47 · Jujutsu · 01:26 · Le dice a Yuji que no fue su culpa. Yuji confirma que es Sukuna.

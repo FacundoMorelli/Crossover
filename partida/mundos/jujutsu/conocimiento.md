@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuji Itadori · T47 · cree que Facundo sabe de Sukuna porque lo vio con las marcas en el campo gris (T5, deducción de Yuji). Facundo le dijo que no fue su culpa.
 - Aoi Todo · T43 · su nombre, su tipo de mujer; lo considera su hermano.
 - Yuki Tsukumo · T40 · lo vio quedarse detrás de ella; vio a Kenjaku hablarle ('el del fogonazo'). Deduce que se cruzó con él en la pelea.
 - Yuki Tsukumo · T41 · sabe su nombre (él se lo dijo) y que dice no saber dónde está.
@@ -49,3 +50,6 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
+
+## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Sukuna en Yuji: lo vio (marcas desapareciendo, T5) y Yuji se lo confirmó (T47).

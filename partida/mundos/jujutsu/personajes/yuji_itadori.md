@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T47 · 01:26 · Facundo le dice que no fue su culpa, que es algo que tiene adentro. Yuji le confirma que es Sukuna (supone que Facundo vio las marcas). Sigue cargando la culpa.
 - T46 · 01:24 · Se sienta al lado de Facundo en el puesto de mando. Le cuenta que Shoko dice que Nanami y Megumi van a vivir. Le agradece.
 - T40 · 00:40 · Sale del muro de hielo con Choso. Ve cómo se va el falso Geto.
 - T36 · 00:16-00:24 · Ve a Kenjaku absorber a Mahito. Choso llega a su lado.
@@ -28,6 +29,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T47: "Sukuna. El Rey de las Maldiciones." / "Pero el cuerpo es mío. Las manos son mías."
 - T46: "Ieiri-san dice que van a vivir. Los dos." / "Gracias. De verdad."
 - T36: "¡¿Quién eres tú?! ¡Geto-sensei está muerto!"
 - T35: "No te vas a ningún lado."
