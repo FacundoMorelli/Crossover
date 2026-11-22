@@ -4,8 +4,9 @@ PODER VISTO POR FACUNDO: SSJ, SSJ2, SSJ3, Kamehameha, Kaio-ken, Teletransportaci
 EDAD EN ESTE MOMENTO DEL CANON: 37 (muerto, con aureola; permiso de un día)
 FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
-RELACIÓN CON FACUNDO: amigo y rival; lo admira y le encanta pelear con él.
+RELACIÓN CON FACUNDO: confía en él (le encargó cuidar a Vegeta y a Buu, T207). amigo y rival; lo admira y le encanta pelear con él.
 ENCUENTROS:
+- T207 · 20:09 · Facundo promete cuidar a Vegeta y a Buu. Goku agradece y propone seguir entrenando.
 - T206 · 20:08 · Le pide a Facundo que cuide que Vegeta y Buu no se maten cuando él ya no esté.
 - T204 · 20:04 · Facundo le cuenta lo de Vegeta y Buu. Se ríe, después se pone serio: Vegeta va a volver por la revancha, y él ya no va a estar.
 - T203 · 20:00 · Vuelve con Gohan y Goten. Ve a Buu dormido, nota que el ki de Vegeta está lejos y bajo; pregunta qué pasó.
@@ -32,6 +33,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T207: "¡Gracias! Eres un buen tipo, ¿sabes?" / "¡Bueno! ¡Todavía me quedan casi cuatro horas! ¿Seguimos?"
 - T206: "¿Puedo pedirte algo? Cuando yo me vaya... no dejes que Vegeta y Buu se maten."
 - T204: "Conozco a Vegeta. No va a dejar esto así." / "Y a la medianoche yo ya no voy a estar."
 - T197: "¿Un Buu malo y fuerte? ...¿Más fuerte que el gordito?"
