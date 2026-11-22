@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T197 · 14:52 · Escucha. Aprieta los puños.
 - T195 · 14:47 · Ve el Boogie Woogie de cerca.
 - T194 · 14:46 · Acepta una semilla de Goku sin decir nada. Mira a Facundo recuperarse.
 - T193 · 14:41 · Ve a Goku transformarse en SSJ3 contra Facundo. Se queda helado; aprieta los puños.
@@ -23,6 +24,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T197: "Si sale, es mío."
 - T195: "Truco."
 - T194: "...Hmph."
 - T193: "...Un tercer nivel." / "Kakarotto... y ese insecto lo obligó a sacarlo."
