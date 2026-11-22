@@ -1,4 +1,5 @@
 # GRUPO — JUJUTSU KAISEN
-CON QUIÉN ANDA: Yuji Itadori, Nobara Kugisaki, Megumi Fushiguro (internado), Inumaki, Maki (internada), Choso (cerca de Yuji). Kase.
-BANDO: Escuela Técnica de Jujutsu de Tokio (aceptado por Yaga, T66).
-RANGO: estudiante transferido, sin grado asignado todavía. Cuarto 2-08 del dormitorio de la escuela de Tokio. Uniforme negro de repuesto (de Ijichi).
+CON QUIÉN ANDA: Yuji Itadori y Choso (prófugos). Kase.
+BANDO: estudiante de la escuela de Tokio (registrado por Yaga) pero con orden de retención de los altos mandos; prófugo junto a Yuji desde el 03/11.
+RANGO: sin grado.
+AMIGOS QUE QUEDARON EN LA ESCUELA: Nobara, Megumi, Nanami, Inumaki, Maki (hospital), Shoko, Ijichi.

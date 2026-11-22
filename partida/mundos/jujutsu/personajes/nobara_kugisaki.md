@@ -7,6 +7,7 @@ FÍSICO: pelo castaño anaranjado corto, ojos marrones, martillo y clavos.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, directa, malhablada, valiente.
 RELACIÓN CON FACUNDO: lo trata con confianza brusca; le cae bien aunque no lo admita.
 ENCUENTROS:
+- T77 · 07:15 · Acepta quedarse. Le da a Facundo una bolsa de clavos y un muñeco de paja. Le pega a Yuji en el hombro con el puño.
 - T76 · 07:14 · Se entera de la orden. Furiosa, agarra el martillo y dice que va con ellos. Yuji le pide que se quede con Megumi y Nanami.
 - T75 · 07:13 · Sale al pasillo en pijama al escuchar el escándalo.
 - T51 · 01:32 · Facundo pregunta si tienen dónde quedarse. Ella dice que el dormitorio de la escuela tiene cuartos vacíos, pero hace falta permiso del director Yaga.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T29 · 00:07 · Aparece por el oeste, pelea contra el doble de Mahito, usa Resonancia (daña al original). El original se le acerca por la espalda. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T77: "Más te vale que sea pronto, imbécil número dos." / "Toma. Por si te cruzas con algo que necesite un clavo."
 - T76: "¡¿Ejecutar?! ¡¿A este idiota?! ¡¿Quiénes se creen que son?!" / "Voy con ustedes. No se discute."
 - T75: "¿Qué es este escándalo a las siete de la mañana? ...¿Por qué tienen esas caras?"
 - T51: "Hay cuartos vacíos en el dormitorio. Muchos. Pero el director Yaga tiene que decir que sí."

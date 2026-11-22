@@ -1,8 +1,8 @@
 {
-  "turno": 76,
+  "turno": 77,
   "mundo_actual": "jujutsu",
   "fecha_local": "03/11/2018",
-  "hora": "07:14",
+  "hora": "07:52",
   "edad": 18,
   "nivel": 5,
   "exp": 9600,
@@ -26,7 +26,7 @@
     "energia": 45,
     "control": 44
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -81,7 +81,12 @@
       "estilo_maestria": 30
     }
   ],
-  "inventario_dimensional": [],
+  "inventario_dimensional": [
+    {
+      "objeto": "Bolsa de clavos de Nobara (unos 40) y un muñeco de paja",
+      "origen": "jujutsu, regalo de Nobara (T77)"
+    }
+  ],
   "copias": [
     {
       "poder": "Técnica de Proporción (Ratio 7:3) y Horas Extra",
