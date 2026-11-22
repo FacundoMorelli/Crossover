@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T231 · 14:09 · Por consejo de Facundo, le dice a la prensa en vivo que destruyó a un monstruo malvado con su Puñetazo Dinamita.
 - T230 · 14:06 · Oye llegar a la prensa y a la policía. Pánico: le pregunta a Facundo qué les dice.
 - T228 · 14:02 · Le ofrece a Facundo una habitación en la mansión mientras se quede.
 - T227 · 14:00 · Abraza a Buu, a Bee y a Facundo, llorando de alivio.
@@ -19,6 +20,7 @@ ENCUENTROS:
 - T185 · 14:06 · Facundo pide hablar con él. Acepta temblando, haciéndose el valiente; se lo lleva a un costado del ring.
 - T184 · 14:05 · Isla Papaya, en el ring después de la final (ganó a la 18, pactado). Facundo aterriza con Majin Buu. Se paraliza del miedo, intenta posar.
 DIÁLOGOS CLAVE:
+- T231: "¡Un monstruo horrible, gris, malvado! ¡Y PUM! ¡Puñetazo Dinamita! ¡Hasta el mar lo mandé!"
 - T230: "¡La prensa! ¡¿Qué les digo?! ¡¿Que fue un meteorito?! ¡¿Que fue mi Puñetazo Dinamita?!"
 - T228: "¡Tengo cuarenta y dos habitaciones! ¡Elige la que quieras! ¡Menos la mía!"
 - T227: "¡Muchacho! ¡Muchacho, eres... eres...! ¡Eres casi tan bueno como yo!"

@@ -229,3 +229,4 @@ T227 · Dragon Ball · 14:00 · Le promete a Buu una vida normal. Buu le cura lo
 T228 · Dragon Ball · 14:02 · 'Me quedo un tiempo y después me voy.' Buu pide meñique. Satán ofrece habitación.
 T229 · Dragon Ball · 14:04 · Meñique con Buu: promete volver. Shin agradece y se despide.
 T230 · Dragon Ball · 14:07 · Shin y Kibito se van. Llega la prensa a la mansión.
+T231 · Dragon Ball · 14:10 · Mr. Satán dice que fue su Puñetazo Dinamita. Periodista le pone el micrófono a Facundo.
