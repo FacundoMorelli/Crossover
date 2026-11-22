@@ -39,6 +39,7 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- La petrificación de Dabura no se puede deshacer a voluntad; solo se rompe cuando él muere: Dabura (T255).
 - Dabura no está en la Tierra: Facundo lo comprobó sintiendo el ki del planeta (T251). En la nave hay un círculo con símbolos en el piso del último nivel (lo vio, T251).
 - Piccolo y Krilin siguen de piedra en el risco del desierto; Dabura vive y se fue al Mundo de los Demonios; se curan si Dabura muere o con las Esferas del Dragón; Bulma tiene el radar; Karin y Yajirobe en la torre, Roshi en Kame House: Dende (T248).
 - Habitación del Espíritu y el Tiempo: en el Templo Sagrado (sobre la Torre de Karin); 1 día afuera = 1 año adentro; dos personas por vez; máximo dos días en toda la vida, quien se pasa queda encerrado; gravedad x10, temperaturas extremas. Vegeta usó un día: Vegeta (T243).
