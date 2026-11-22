@@ -368,3 +368,4 @@ T366 · One Piece · Arlong Park · Corta las cadenas de Zoro con Rift. Zoro vs 
 T367 · One Piece · Arlong Park · Zoro vs Arlong parejo. Llegan Luffy, Sanji y Yosaku sobre Momoo. Luffy invita a Facundo a su tripulación.
 T368 · One Piece · Arlong Park · "Si lo vences, me uno." Luffy acepta. Luffy vs Arlong.
 T369 · One Piece · Arlong Park · Luffy vence a Arlong y parte la torre. MISIÓN DE MUNDO CUMPLIDA. Luffy reclama el trato.
+T370 · One Piece · Arlong Park · Desactiva UI. Se une a los Sombrero de Paja; avisa que se va a veces. Luffy acepta y le pregunta el nombre.
