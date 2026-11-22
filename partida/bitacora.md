@@ -307,3 +307,4 @@ T305 · Bleach · Las Noches · Rukia mata a Aaroniero. Herida grave.
 T306 · Bleach · Las Noches · Semilla del ermitaño a Rukia: curada. Cae el reiatsu de Chad.
 T307 · Bleach · Las Noches · Chad caído. Nnoitra: Aizen ordenó dejarte llegar.
 T308 · Bleach · Las Noches · Delante de Rukia. ULTRA INSTINTO. Nnoitra ataca.
+T309 · Bleach · Las Noches · Quieto en Ultra Instinto: el arma de Nnoitra falla. (Corrección: copia de Goku = todo su poder, también etapas futuras.)
