@@ -1,12 +1,13 @@
 NOMBRE: Mahito
 AFILIACIÓN: maldiciones aliadas de Kenjaku
 RANGO: grado especial (espíritu maldito)
-PODER VISTO POR FACUNDO: Transfiguración Ociosa sobre su propio cuerpo (se recompone, estira el brazo, hacha y puño), T14-T17; Isómero Polimórfico del Alma (escupe humanos guardados que crecen), T18
+PODER VISTO POR FACUNDO: forma final (Cuerpo Espiritual Instantáneo de Matanza Distorsionada), T32; Transfiguración Ociosa sobre su propio cuerpo (se recompone, estira el brazo, hacha y puño), T14-T17; Isómero Polimórfico del Alma (escupe humanos guardados que crecen), T18
 EDAD EN ESTE MOMENTO DEL CANON: maldición nacida del odio humano (aspecto de veinteañero)
 FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holgada.
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T32 · 00:09 · Termina de transformarse: Cuerpo Espiritual Instantáneo de Matanza Distorsionada. Facundo lo tasa: amenaza muy alta.
 - T31 · 00:09 · Resonancia de Nobara + golpe de Yuji al mismo tiempo: daño fuerte en el alma. Cae de la varilla, encogido. Su cuerpo empieza a cambiar de forma de una manera nueva.
 - T30 · 00:08 · A medio metro de la cabeza de Nobara, la Marea Lunar lo arranca y lo lanza quince metros contra una varilla de hierro. Yuji llega encima.
 - T29 · 00:02-00:08 · Pelea con Yuji; recibe más golpes en el alma. Se divide y manda un doble hacia el oeste. El doble atrae a Nobara; la Resonancia de ella lo daña. El original corre hacia Nobara con la mano abierta.
@@ -38,4 +39,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: rearmado tras estallar; alma dañada por dos golpes de Yuji. Sin sonrisa.
+ESTADO: en su forma final, de pie en la arena, frente a Yuji. Alma dañada pero ahora más estable.
