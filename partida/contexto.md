@@ -1,10 +1,11 @@
-TURNO: 136 | MUNDO: Bleach | 19 de julio · Sociedad de Almas | HORA: mediodía | Lugar: Rukongai Oeste, Junrinan, frente a la Puerta Blanca Oeste
+TURNO: 137 | MUNDO: Bleach | 19 de julio · Sociedad de Almas | HORA: mediodía | Lugar: Rukongai Oeste, Junrinan, frente a la Puerta Blanca Oeste
 MOMENTO DEL CANON: Sociedad de Almas: la Infiltración (cap. 71-72). Llegada al Rukongai. Jidanbō custodia la Puerta Blanca Oeste. Después: Gin le corta el brazo a Jidanbō y cierra la puerta; Kūkaku y el cañón; Ikkaku, Renji, Kenpachi; muerte falsa de Aizen. Rukia en la Torre del Arrepentimiento.
-FACUNDO: 18 años · Nivel 7 · EXP 16.210/17.000 · 895 Fragmentos · 10 puntos sin asignar · 0 yenes · Energía 92% · Ojos: bien
+FACUNDO: 18 años · Nivel 7 · EXP 16.210/17.000 · 895 Fragmentos · 10 puntos sin asignar · 0 yenes · Energía 90% · Ojos: bien
 PARA ESTE MUNDO: salió en TV en vivo como 'espontáneo con espada'. Velo: persona común. Uniforme negro de la escuela de Jujutsu (no significa nada acá).
 QUIÉN SABE QUÉ: Byakuya y Renji informarán a la Sociedad de Almas sobre él. Ichigo y Rukia saben su nombre y lo vieron hacer el konsō. PÚBLICO: salió en vivo por TV (aspecto, katana, gato). Los que ven espíritus pudieron ver el konsō.
 MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (activa)
 ÚLTIMOS 5 TURNOS:
+- T137: traza una línea entre Gin y Jidanbō: el tajo de Gin al brazo del gigante rebota. Gin lo reconoce ('el del informe, el de la bufanda') y empieza a liberar Shinsō contra Ichigo.
 - T136: observa: Ichigo le parte las hachas a Jidanbō; Jidanbō levanta la puerta. Del otro lado está Gin Ichimaru, con la mano en la empuñadura.
 - T135: cruza la Senkaimon con el grupo. Dangai: corren del Kōtotsu. Rukongai Oeste. Ichigo corre a la puerta; cae Jidanbō del cielo y los muros caen alrededor del Seireitei.
 - T134: corrección: escapó por velocidad física, no Quincy. Simula 08-18/07: Urahara reentrena a Ichigo (Zangetsu). Facundo entrena con Yoruichi y Urahara (+400 EXP, +5 F, Sakaime 45). 18/07: Senkaimon abierta. Misión de copia: Urahara. Apodo: Bicolor.
@@ -12,7 +13,6 @@ MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (
 - T132: Marea Lunar sobre la calle (evitando a Ichigo): pétalos aplastados contra el asfalto, Renji boca abajo, Byakuya con una rodilla en el suelo, levantándose igual.
 - T131: atraviesa su propio Recinto con Rukia en brazos (velocidad física) y salta a un techo. Los pétalos destrozan la caja vacía. Ichigo ataca a Byakuya y cae con un Byakurai en el hombro. Byakuya mira al techo.
 - T130: traza un Marco en el suelo alrededor de él y Rukia: se levantan cuatro paredes-frontera de 20 m (Recinto, sin techo). Senbonzakura rebota. Byakuya manda los pétalos por arriba.
-- T129: Boogie Woogie con Renji: Renji queda frente a los pétalos; Byakuya los frena a un palmo de su cara. Facundo aparece junto a Rukia y la línea.
 - T118: traza cuatro líneas de 20 m en cuadrado (Marco): el plano encerrado es frontera. El Cero choca y se deshace. Energía 33%. El Menos queda desconcertado; el reiatsu de Ichigo sigue desbordándose.
 - T87: entra por atrás al hospital. Desde la baranda del primer piso ve a Kanonji hundir el bastón en el pecho del espíritu atado frente a cámaras en vivo. Se le forma una máscara.
 PRESENTES EN ESCENA: Gin Ichimaru (bajo la puerta levantada). Jidanbō (sosteniendo la puerta). Ichigo (frente a la puerta). Uryū, Chad, Orihime, Yoruichi (detrás). Kase.

@@ -135,3 +135,4 @@ T133 · Bleach · 08/07 00:14 · Se desmaya. Rukia se entrega a cambio de sus vi
 T134 · Bleach · 18/07 21:30 · Corrección: no mostró Quincy. Simula 10 días: Ichigo recupera poderes; entrenamientos (+400 EXP, +5 F). Senkaimon abierta.
 T135 · Bleach · 19/07 · Cruza la Senkaimon. Rukongai Oeste. Cae Jidanbō frente a la Puerta Blanca.
 T136 · Bleach · 19/07 · Ichigo vence a Jidanbō; la puerta se levanta: aparece Gin Ichimaru.
+T137 · Bleach · 19/07 · Línea entre Gin y Jidanbō: salva el brazo del gigante. Gin libera Shinsō hacia Ichigo.

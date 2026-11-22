@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Gin Ichimaru · T137 · lo reconoce por el informe de Byakuya (aspecto, gato, bufanda cortada). Vio la línea de Sakaime. Informará a Aizen.
 - Urahara, Rukia, Tessai, Yoruichi · T114 · Facundo tiene el Hōgyoku. Solo ellos cuatro lo saben.
 - Urahara y Yoruichi · T107 · Facundo ofreció esconder el Hōgyoku en un lugar propio inaccesible.
 - Urahara y Yoruichi · T98 · Facundo sabe que hay algo poderoso dentro de Rukia y que el gato escucha. Urahara confirmó el Hōgyoku. No saben cómo lo sabe; no lo investigan.
