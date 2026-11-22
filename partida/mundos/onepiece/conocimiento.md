@@ -18,3 +18,4 @@
 - Arlong, oficiales, gyojin, Nami, Zoro · T357 · Vieron a Facundo controlar el agua de mar de la piscina. Lo explican como una Fruta del Diablo (correcto para este mundo). Arlong deduce que no sabe nadar (falso, pero es lo que cree).
 - Usopp (afuera) · T357 · Oyó los golpes de agua y los gritos; no vio nada.
 - Todos en Arlong Park · T358 · Vieron que Facundo nada y se para sobre el agua de mar aunque tiene una Fruta del Diablo. Desconcierto: lo explican como "una fruta del mar que lo deja nadar" o un truco. Rumor posible.
+- Todos en Arlong Park · T359 · Vieron a Facundo volar (ki). Creen que es parte de su Fruta del Diablo o una segunda rareza.
