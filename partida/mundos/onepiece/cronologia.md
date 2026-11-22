@@ -23,3 +23,4 @@
 - Días 6-8 · En el mar. Día 8 09:30 · llegan a Loguetown. La tripulación se separa para comprar.
 - Día 8 13:00-14:40 · Buggy y Alvida intentan ejecutar a Luffy; rayo (canon). Smoker atrapa a Luffy en la calle al puerto. Dragon presente, encapuchado.
 - Día 8 15:00 · Zarpan de Loguetown en la tormenta. Ceremonia del barril (canon), con Facundo.
+- Día 9 · Montaña Reversa; Laboon; Crocus; Mr. 9 y Miss Wednesday noqueados por Luffy (canon).

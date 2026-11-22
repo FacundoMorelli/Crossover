@@ -1,16 +1,16 @@
-TURNO: 393 | MUNDO: One Piece | Día 8 · 15:22 | Lugar: Going Merry, rumbo a la Montaña Reversa
-MOMENTO DEL CANON: Fin de Loguetown (cap. 100). Rumbo a la Montaña Reversa y el Grand Line.
+TURNO: 394 | MUNDO: One Piece | Día 9 · 12:30 | Lugar: Grand Line, Cabo Gemelo, junto a Laboon
+MOMENTO DEL CANON: Arco Reverse Mountain (cap. 101-105). Laboon y Crocus. Mr. 9 y Miss Wednesday (Vivi, 16) a bordo pronto.
 FACUNDO: 18 años · Nivel 24 · EXP 175.690/176.000 · 172.915 Fragmentos · 120 puntos sin asignar · 1.000.000 berries · Energía 100% · Ojos: bien · STATS ~235 · Maestrías 100 (Shio Shio no Mi 31)
 PARA ESTE MUNDO: Pirata del Sombrero de Paja. Recompensa: 'Ojos de Eclipse' Facundo, 26.000.000 berries (Día 6). La Marina cree que tiene varias Frutas del Diablo. Velo: persona común.
 QUIÉN SABE QUÉ: nadie sabe nada.
 MISIÓN DE MUNDO: CUMPLIDA (T369). 4/4 completados.
 ÚLTIMOS 5 TURNOS:
+- T394: simula. Noche de tormenta; Día 9 entran a la Montaña Reversa (Luffy repara el timón con el brazo). Bajan; Laboon los traga. Adentro: Crocus, isla falsa pintada. Mr. 9 y Miss Wednesday atacan a Laboon con arpones; Luffy los noquea. Crocus seda a Laboon, los saca por un canal. En el Cabo Gemelo, Crocus cuenta la historia de Laboon: 50 años esperando a unos piratas del West Blue que nunca volvieron; se golpea contra la Red Line. "Nunca fui capaz de decírselo." Laboon vuelve a golpear la muralla.
 - T393: "Recorrer todo el mundo." Pone el pie en el barril; Kase apoya una pata. Luffy: "¡Vamos al Grand Line!" Todos pisan y rompen el barril. Rumbo a la Montaña Reversa.
 - T392: "Tienes razón. Nos vemos, Smoker." Teletransportación (Shunkan Idō) al ki de Luffy: aparece en el muelle junto a él. Smoker se queda solo en la calle (no lo vio irse). Zarpan en la tormenta; Nami y Usopp ya habían vencido a Mohji y Richie. Nami: la luz del faro marca el camino al Grand Line. Sanji pone un barril en cubierta: cada uno pone el pie y dice su sueño (Sanji All Blue, Zoro mejor espadachín, Nami mapa del mundo, Usopp valiente guerrero del mar, Luffy Rey de los Piratas). Todos miran a Facundo.
 - T391: "Mmm, ¿quién eres?" El encapuchado: "Alguien que tiene curiosidad por ver qué hacen ustedes con el mar." Suelta a Smoker y desaparece en una ráfaga. Smoker, libre, se vuelve hacia Facundo con la jutte: "El tipo se fue. Tú no."
 - T390: "Sí, solo tengo una fruta." Smoker: "¿Y volar y mover cosas qué es? ¿Talento?" Levanta la jutte. El encapuchado le agarra la muñeca desde atrás (canon): "Deja que se vaya." Smoker: "...Dragon." Ráfaga de viento huracanado barre la calle hacia el puerto: Luffy, Zoro, Sanji salen volando hacia el muelle. Facundo queda en pie (el viento no lo mueve). El encapuchado lo mira un segundo. Tasación: sin datos.
-- T389: va con Zoro y mira. Plaza tomada por Buggy y Alvida; Zoro y Sanji pelean contra los de Buggy y no llegan. Luffy en la plataforma: "¡Estoy muerto!" sonriendo. Rayo: la plataforma arde, Luffy libre (canon). Huyen bajo la lluvia. En la calle al puerto, Smoker (humo) aplasta a Luffy contra el suelo con la jutte. Smoker reconoce a Facundo: "Ojos de Eclipse. Tú no te mueves." Detrás de Smoker, un hombre encapuchado en la lluvia. Misiones de copia: Buggy, Smoker.
-PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji alrededor del barril, un pie arriba cada uno. Kase en el hombro.
+PRESENTES EN ESCENA: Crocus, Laboon (golpeándose contra la Red Line). Sombrero de Paja. Mr. 9 y Miss Wednesday inconscientes en el muelle. Kase.
 VÍNCULOS ACTIVOS (One Piece): Luffy (capitán, trato cumplido), Nami (muy agradecida), Zoro, Usopp, Sanji, Nojiko, Genzo, Ito y Mika.
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga). Quincy (Uryū). Shinsō (Gin). Aizen. Senbonzakura (Byakuya). Zabimaru (Renji). Todo Ichigo. Goku (todo). Dabura.
 DONES: Manecilla Inversa (Jujutsu, 100; dominio Cuadrante del Retorno). Sakaime (Bleach, 100). Forma Cenit (Dragon Ball, 100). Shio Shio no Mi (One Piece, 30).
@@ -19,4 +19,4 @@ INVENTARIO CLAVE: Hōgyoku. Rift, Echo, Sakaime. Jarrón de Karin. Dibujo de Mar
 KASE: sobre un barril, cerca de Zoro.
 OTROS MUNDOS: Jujutsu (se fue 01/02/2019). Dragon Ball (se fue día 9 año 774). Bleach (se fue 28/09 18:42). Completados 3/3. VIAJE LIBRE.
 HILOS ABIERTOS: Promesas: Buu, Kame House, Mr. Satán (DB); Megumi y todos (Jujutsu); volver a Karakura (Bleach). 120 puntos sin asignar. TRATO (T368): si Luffy vence a Arlong, Facundo se une a los Sombrero de Paja.
-OBJETIVO: Rumbo al Grand Line por la Montaña Reversa.
+OBJETIVO: Laboon se lastima contra la Red Line.

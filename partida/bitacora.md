@@ -392,3 +392,4 @@ T390 · One Piece · Loguetown · "Solo tengo una fruta." Dragon detiene a Smoke
 T391 · One Piece · Loguetown · Pregunta quién es al encapuchado; respuesta vaga; desaparece. Smoker va por Facundo.
 T392 · One Piece · Going Merry · Teletransportación hasta Luffy. Zarpan en la tormenta. Ceremonia del barril: esperan el sueño de Facundo.
 T393 · One Piece · Going Merry · Sueño: recorrer todo el mundo. Rompen el barril. Rumbo al Grand Line.
+T394 · One Piece · Cabo Gemelo · Montaña Reversa, Laboon, Crocus. Historia de Laboon. Laboon se golpea contra la Red Line.
