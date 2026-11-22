@@ -1,8 +1,8 @@
 {
-  "turno": 388,
+  "turno": 389,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 8 (Loguetown)",
-  "hora": "13:10",
+  "hora": "14:40",
   "edad": 18,
   "nivel": 24,
   "exp": 175690,
@@ -522,6 +522,20 @@
       "mision": "Que Arlong reconozca, con sus palabras, que un humano lo venció.",
       "dificultad": "BAJA",
       "emitida": "T369"
+    },
+    {
+      "poder": "Bara Bara no Mi (Buggy) y su estilo",
+      "mundo": "onepiece",
+      "mision": "Que Buggy te pida perdón de rodillas.",
+      "dificultad": "BAJA",
+      "emitida": "T389"
+    },
+    {
+      "poder": "Moku Moku no Mi (Smoker), Logia de humo, y su estilo con la jutte",
+      "mundo": "onepiece",
+      "mision": "Que Smoker te deje ir por voluntad propia.",
+      "dificultad": "MEDIA",
+      "emitida": "T389"
     }
   ],
   "misiones_de_copia_rechazadas": [],

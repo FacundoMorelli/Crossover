@@ -37,3 +37,4 @@
 - Nami y Nojiko · T378 · Facundo no conocía la geografía ni la historia del mundo (Grand Line, Roger). Lo notan; Nojiko pregunta una vez de dónde salió y no insiste.
 - PÚBLICO (Día 6) · Cartel de Facundo: nombre (Facundo), apodo 'Ojos de Eclipse', 26M, dibujo con el gato. Cualquiera con acceso al diario lo sabe. Origen: informe de Nezumi.
 - Sombrero de Paja · T382 · Vieron a Facundo sacar 12.000.000 de berries del sobretodo, billete por billete. Usopp: "fabrica plata". Lo atribuyen a la "fruta rara" o a un bolsillo sin fondo.
+- Smoker · T389 · Lo reconoce por el cartel. Sabe lo del informe de Nezumi.

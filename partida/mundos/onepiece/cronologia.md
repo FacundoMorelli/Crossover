@@ -21,3 +21,4 @@
 - Día 5 mañana · Zarpa el Going Merry con Luffy, Zoro, Nami, Usopp, Sanji, Facundo y Kase. Johnny y Yosaku se separan.
 - Día 6 10:40 · Diario: recompensas de Monkey D. Luffy (30M, canon) y 'Ojos de Eclipse' Facundo (26M, CAMBIO).
 - Días 6-8 · En el mar. Día 8 09:30 · llegan a Loguetown. La tripulación se separa para comprar.
+- Día 8 13:00-14:40 · Buggy y Alvida intentan ejecutar a Luffy; rayo (canon). Smoker atrapa a Luffy en la calle al puerto. Dragon presente, encapuchado.
