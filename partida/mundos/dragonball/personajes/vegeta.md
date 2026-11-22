@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T237 · 08:00 · Espera a Facundo en el cañón del norte con armadura nueva. Se transforma en SSJ2 y exige ver la técnica del punto negro.
 - T236 · 21:38 · Facundo le explica que era la parte mala de Buu y por qué no esperó. Acepta a regañadientes. Confirma la pelea de mañana; quiere ver la técnica que lo borró. Se va.
 - T235 · 21:35 · Aterriza en la terraza de la mansión. Sintió a las 13:55 un ki maligno enorme y cómo desapareció. Pregunta qué fue.
 - T220 · 08:25 · Acepta la revancha de mañana. Se va hacia la Corporación Cápsula.
@@ -37,6 +38,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T237: "Llegas tarde." (no llega tarde) / "Muéstramelo. El punto negro. Úsalo contra mí."
 - T236: "¿Que me hubieras dejado? ¿A mí? ¿Me estás haciendo un favor, insecto?" / "...Tsk. Mañana. A la misma hora. Y quiero ver eso que lo borró."
 - T235: "A las dos de la tarde sentí un ki. Maligno. Más grande que el de ese gordo." / "Y después, nada. Como si lo hubieran borrado. ¿Qué fue eso?"
 - T219: "¡BIG BANG ATTACK!" / "Mañana. A la misma hora. Y no traigas al gato a mirar."

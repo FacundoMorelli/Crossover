@@ -235,3 +235,4 @@ T233 · Dragon Ball · 14:30 · Se queda a la fiesta. Habitación en la mansión
 T234 · Dragon Ball · 19:40 · Videl no le cree; se va. Duerme. Mayordomo: fiesta a las 20:00.
 T235 · Dragon Ball · 21:35 · Fiesta en la mansión. Vegeta aparece en la terraza: ¿qué fue ese ki maligno?
 T236 · Dragon Ball · 21:38 · Le cuenta a Vegeta lo del Buu malo. Vegeta confirma la pelea de mañana.
+T237 · Dragon Ball · 08:00 (día 3) · Fin de la fiesta, noche en la mansión. Caramelo de Buu. Vegeta en el cañón pide ver el Eclipse.
