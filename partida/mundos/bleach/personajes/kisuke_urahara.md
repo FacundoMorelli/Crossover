@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T106 · 16:08 · Recibe a Facundo de vuelta en la tienda.
 - T101 · 24/06 mañana · Estudia a Sakaime una hora en la trastienda con una lupa y un cuaderno, sin tocarla. Anota cosas en clave.
 - T100 · 21:30 · Facundo acepta el trato. Urahara le muestra el cuarto de arriba.
 - T99 · 21:26 · Facundo dice que no hará nada malo y pregunta si vendrán a buscar a Rukia. Urahara confirma que es casi seguro (perdió contacto hace semanas; mandarán a alguien de su escuadrón o de su familia). Le ofrece quedarse en la tienda a cambio de dejarle estudiar a Sakaime.
@@ -19,6 +20,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T106: "¡Facundo-san! ¿Tan pronto? ¿Se olvidó algo, o se acordó de algo?"
 - T99: "Casi seguro. Y no van a mandar a un mensajero." / "Tengo un cuarto libre. A cambio, déjeme mirar a Sakaime de vez en cuando. Solo mirar."
 - T98: "...¿Cómo sabe eso?" / "No, no me conteste. No me lo diría." / "Se llama Hōgyoku. Lo creé yo. Y es demasiado peligroso para que exista." / "Lo que le pregunto es: ¿qué piensa hacer con eso?"
 - T97: "Claro que sí. Tessai-san, ¿cerraría la tienda?" / "Ahora sí. Lo escucho."
