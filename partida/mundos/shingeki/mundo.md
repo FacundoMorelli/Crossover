@@ -6,3 +6,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
 - T400 · Bertholdt NO se transforma en el Colosal sobre la ciudad: Facundo lo atrapa en el aire y lo amordaza con una soga. La escuadra de Hange y Moblit no mueren en la explosión (por ahora).
+- T402 · Frontera de Hate no Sakaime sobre toda Shiganshina: las rocas del Bestia no entran (en el canon, mataban a casi todos los reclutas y herían a Erwin).

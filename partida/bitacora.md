@@ -400,3 +400,4 @@ T398 · Shingeki · Shiganshina · Se va del Going Merry. Nuevo mundo: Shingeki 
 T399 · Shingeki · Shiganshina · Grita "¿Dónde estoy?". La escuadra de Hange lo ve y sospecha. Bertholdt salta para transformarse.
 T400 · Shingeki · Shiganshina · Atrapa a Bertholdt en el aire, amordazado con soga, antes de que se transforme.
 T401 · Shingeki · Shiganshina · Hange y Armin le explican dónde está y quién es Bertholdt. El Bestia lanza rocas.
+T402 · Shingeki · Shiganshina · Bankai Hate no Sakaime alrededor de toda la muralla. Las rocas del Bestia no entran. Reiner se levanta.

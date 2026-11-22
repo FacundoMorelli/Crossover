@@ -8,3 +8,4 @@
 ## QUIÉN VIO QUÉ PODERES
 - Armin, Hange, Moblit, escuadra de Hange, dos soldados, Eren (de lejos), Mikasa y la 104.ª (desde los tejados), Zeke (desde afuera) · T400 · Vieron a Facundo aparecer de la nada en el aire junto a Bertholdt y quedarse flotando sin equipo de maniobras. Lo explican como algo de titanes o algo imposible.
 - Facundo · T401 · Sabe por Hange que está en Shiganshina, Wall Maria, y que tiene al Titán Colosal; por Armin, que se llama Bertholdt y se transforma mordiéndose.
+- Toda la Legión, Reiner, Bertholdt, Zeke, Pieck (si mira) · T402 · Vieron a Facundo sacar una espada de la nada y levantar una cúpula/pared plateada transparente que detuvo las rocas del Bestia. Nadie en este mundo lo puede explicar: lo atribuyen a un poder de titán desconocido o al "Fundador".
