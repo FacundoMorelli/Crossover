@@ -1,15 +1,15 @@
-TURNO: 383 | MUNDO: One Piece | Día 6 · 10:55 | Lugar: Going Merry, en el mar rumbo a Loguetown
+TURNO: 384 | MUNDO: One Piece | Día 6 · 11:00 | Lugar: Going Merry, en el mar rumbo a Loguetown
 MOMENTO DEL CANON: Fin de Arlong Park, camino a Loguetown (cap. ~96). Recompensas publicadas.
-FACUNDO: 18 años · Nivel 24 · EXP 175.690/176.000 · 172.915 Fragmentos · 120 puntos sin asignar · 0 berries · Energía 100% · Ojos: bien · STATS ~235 · Maestrías 100 (Shio Shio no Mi 31)
+FACUNDO: 18 años · Nivel 24 · EXP 175.690/176.000 · 172.915 Fragmentos · 120 puntos sin asignar · 1.000.000 berries · Energía 100% · Ojos: bien · STATS ~235 · Maestrías 100 (Shio Shio no Mi 31)
 PARA ESTE MUNDO: Pirata del Sombrero de Paja. Recompensa: 'Ojos de Eclipse' Facundo, 26.000.000 berries (Día 6). La Marina cree que tiene varias Frutas del Diablo. Velo: persona común.
 QUIÉN SABE QUÉ: nadie sabe nada.
 MISIÓN DE MUNDO: CUMPLIDA (T369). 4/4 completados.
 ÚLTIMOS 5 TURNOS:
+- T384: "No sé, lo que vea." Nami le devuelve un fajo de 1.000.000 "para lo que veas" y le prohíbe dárselo a nadie más. Todos guardan los billetes en la bodega. Nami avisa: Loguetown en dos días si el viento ayuda. Luffy anuncia que quiere ver el lugar donde ejecutaron a Roger.
 - T383: "Úsenlo para lo que quieran." Da los 12M a la tripulación. Nami lo abraza fuerte y se nombra tesorera. Luffy pide presupuesto para carne; Sanji para la cocina y una nevera; Usopp despierta y pide herramientas y pólvora; Zoro, sake. Nami reparte en voz alta y anota. Nami a Facundo: "¿Y tú? ¿Qué quieres comprar en Loguetown?"
 - T382: "No sé." Cambia 1.000 F por 12.000.000 de berries y los saca billete por billete del sobretodo (1.200 billetes de 10.000). Se forma una montaña en cubierta. Usopp se desmaya. Luffy salta en la pila. Sanji deja caer el cigarrillo. Zoro abre los dos ojos. Nami de rodillas abrazando la pila, llorando de felicidad: "¿Cuánto de esto es para el barco?"
 - T381: "¿Necesitan dinero? Tengo para darles." Nami se da vuelta con los ojos en forma de berries: "¿No que se lo habías dado todo a los hombres-pez?" Luffy: "¡¿Para carne?!" Sanji: hace falta para provisiones del Grand Line. Nami: "¿Cuánto tienes?"
 - T380: simula Días 2-6. Fiesta tres días. Nami se tatúa mandarina y molinete. Arlong y sus gyojin entregados a un barco de la Marina de otra sucursal (Nezumi no volvió). Genzo le hace prometer a Luffy que no le borre la sonrisa a Nami. Johnny y Yosaku se despiden. Día 5 zarpan en el Going Merry; Nami salta a bordo robando billeteras. Mika llora por Kase. Día 6 10:40: la gaviota de noticias trae el diario con dos carteles: Monkey D. Luffy 30.000.000 y "Ojos de Eclipse" Facundo 26.000.000 (dibujo con Kase en el hombro). Luffy salta de alegría.
-- T379: "Jejeje. ¿Y cuándo salimos a la próxima isla?" Nami: en unos días; el pueblo va a seguir de fiesta y Luffy no se va hasta que no quede comida. Además tiene que despedirse de todos. Próxima isla: Loguetown, la ciudad donde nació y murió Gold Roger, última escala antes del Grand Line. Nojiko: "Tres días, calculo."
 PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji, en la cubierta del Going Merry. Kase.
 VÍNCULOS ACTIVOS (One Piece): Luffy (capitán, trato cumplido), Nami (muy agradecida), Zoro, Usopp, Sanji, Nojiko, Genzo, Ito y Mika.
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga). Quincy (Uryū). Shinsō (Gin). Aizen. Senbonzakura (Byakuya). Zabimaru (Renji). Todo Ichigo. Goku (todo). Dabura.
@@ -19,4 +19,4 @@ INVENTARIO CLAVE: Hōgyoku. Rift, Echo, Sakaime. Jarrón de Karin. Dibujo de Mar
 KASE: sobre un barril, cerca de Zoro.
 OTROS MUNDOS: Jujutsu (se fue 01/02/2019). Dragon Ball (se fue día 9 año 774). Bleach (se fue 28/09 18:42). Completados 3/3. VIAJE LIBRE.
 HILOS ABIERTOS: Promesas: Buu, Kame House, Mr. Satán (DB); Megumi y todos (Jujutsu); volver a Karakura (Bleach). 120 puntos sin asignar. TRATO (T368): si Luffy vence a Arlong, Facundo se une a los Sombrero de Paja.
-OBJETIVO: Nami pregunta qué quieres comprar en Loguetown.
+OBJETIVO: Loguetown en dos días.
