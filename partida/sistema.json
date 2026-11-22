@@ -1,8 +1,8 @@
 {
-  "turno": 63,
+  "turno": 64,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "08:04",
+  "hora": "08:05",
   "edad": 18,
   "nivel": 5,
   "exp": 9100,
@@ -175,7 +175,15 @@
       ]
     }
   ],
-  "misiones_de_copia_activas": [],
+  "misiones_de_copia_activas": [
+    {
+      "poder": "Cadáveres Malditos — Masamichi Yaga",
+      "mundo": "jujutsu",
+      "mision": "Que Masamichi Yaga te acepte en la escuela de Tokio.",
+      "dificultad": "MEDIA",
+      "emitida": "T64"
+    }
+  ],
   "misiones_de_copia_rechazadas": [],
   "fusion": {
     "combinaciones_selladas": []
