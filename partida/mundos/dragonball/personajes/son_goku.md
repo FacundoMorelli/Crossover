@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T179 · 13:08-13:38 · Pelea contra Majin Vegeta en SSJ2 en una zona rocosa al sur. Parejo. Se frenan cuando sienten el despertar de Buu.
 - T178 · 13:07 · Facundo le pide ayuda. Goku se pone entre Vegeta y el risco, desvía un disparo de Vegeta hacia Facundo con el antebrazo, y le propone a Vegeta pelear lejos. Le grita a Facundo que se quede ahí.
 - T177 · 13:06 · Ve la ráfaga de Vegeta explotar contra algo en el aire. Mira hacia el risco.
 - T175 · 12:20 · Vence a Yakon (explota de tanta energía) en el nivel 2. Sale de la nave detrás de Vegeta.

@@ -177,3 +177,4 @@ T175 · Dragon Ball · 13:05 · Observa por el ki: niveles de la nave. Majin Veg
 T176 · Dragon Ball · 13:05 · +75 a todos los stats (600 F). Promedio ~202.
 T177 · Dragon Ball · 13:06 · Línea de Sakaime: la ráfaga de Majin Vegeta explota antes del torneo. Vegeta y Goku lo ven.
 T178 · Dragon Ball · 13:07 · Pide ayuda a Goku; Goku desvía un disparo y se lleva a Vegeta a pelear lejos.
+T179 · Dragon Ball · 13:40 · Observa Goku vs Vegeta. Despierta Majin Buu.
