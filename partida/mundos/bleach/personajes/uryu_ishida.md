@@ -26,3 +26,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio en la tele (T88) y entrenando con Ichigo (T110).
 QUÉ PODERES DE FACUNDO VIO: Sakaime (líneas), Rift y Echo (fuego y hielo), Proporción (golpe al punto débil) contra hollows (T116).
 ESTADO: observando a Ichigo.
+- T296 · 21:38 · En el sótano, listo para Hueco Mundo. Ve a Facundo.
+- DIÁLOGO T296: "Llegas en el momento más inoportuno posible. Como siempre."

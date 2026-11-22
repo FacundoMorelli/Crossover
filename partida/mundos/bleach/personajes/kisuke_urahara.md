@@ -62,3 +62,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que dice tener un lugar donde esconder cosas que nadie puede sacar (T107); que sabe del Hōgyoku dentro de Rukia y de que el gato escucha (T98; no sabe cómo); el nombre de su zanpakutō, Sakaime, y que es real (T94); su nombre (T92); lo vio en la TV en vivo (T88); lo tiene enfrente; no puede sentir su reiatsu (Velo).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en su tienda.
+- T296 · 21:38 · Mantiene abierta la Garganta. Ve a Facundo; sonríe tras el abanico.
+- DIÁLOGO T296: "¡Vaya, vaya! ¡El señor Bicolor! Justo a tiempo para el tren." / "La Garganta se cierra en un minuto. No es una sugerencia."

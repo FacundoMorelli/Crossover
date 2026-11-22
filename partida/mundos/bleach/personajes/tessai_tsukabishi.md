@@ -8,3 +8,4 @@ ENCUENTROS:
 - T92 · 21:12 · Sirve té a Facundo y Rukia en la trastienda.
 QUÉ SABE DE FACUNDO: lo vio en la tele y en la tienda.
 ESTADO: en la tienda.
+- T296 · 21:36 · Abre la trampilla del sótano a Facundo sin preguntar.

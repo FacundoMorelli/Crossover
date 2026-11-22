@@ -35,3 +35,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que dice tener un lugar donde esconder cosas que nadie puede sacar (T107); lo vio llegar con Rukia; escuchó toda la charla; sabe que Facundo sabe del Hōgyoku (T98).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en la tienda, como gato.
+- T296 · 21:38 · En forma de gato, en el sótano. Mira a Kase.

@@ -8,3 +8,4 @@ ENCUENTROS:
 - T116 · 03/07 · Despierta el brazo derecho acorazado protegiendo a Karin de un hollow (canon). Facundo no estuvo presente.
 QUÉ SABE DE FACUNDO: lo vio en la tele.
 ESTADO: herido leve, rescatado por Urahara.
+- T296 · 21:38 · En el sótano. Asiente al ver a Facundo.
