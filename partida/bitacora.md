@@ -386,3 +386,4 @@ T384 · One Piece · Going Merry · "Lo que vea." Nami le devuelve 1M para sus g
 T385 · One Piece · Loguetown · Llegan a Loguetown. La tripulación se separa.
 T386 · One Piece · Loguetown · Sigue a Zoro. Zoro choca con Tashigi.
 T387 · One Piece · Loguetown · Armería: Zoro consigue Kitetsu y Yubashiri. Ipponmatsu pregunta a Facundo qué busca.
+T388 · One Piece · Loguetown · Caminan con Zoro. Buggy toma la plaza para ejecutar a Luffy.
