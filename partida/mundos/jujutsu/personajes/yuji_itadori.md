@@ -81,3 +81,5 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T276 · 17/01/2019 20:10 · Facundo siente su energía maldita a ~400 m, dentro de la zona de exclusión de Shinjuku. (Yuji no lo siente: Velo.)
 - T277 · 17/01/2019 20:16 · En Shinjuku, frente a una pared con flores secas y una lata de jugo (lugar donde murió Choso; Facundo no lo sabe). Más flaco, cicatriz nueva en la mejilla. Ve a Facundo y se queda congelado.
 - DIÁLOGO T277: "...¿Facundo?"
+- T278 · 20:20 · Le cuenta a Facundo lo que pasó (resumen). Le tiembla la voz con Choso.
+- DIÁLOGO T278: "No sé si llegaste tarde. No sé si alguien llegó a tiempo." / "Choso... fue aquí. Se puso delante de mí." / "Megumi volvió. Pero no está bien."

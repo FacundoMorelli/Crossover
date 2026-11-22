@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuji · T278 · Facundo volvió el 17/01/2019; dijo que cree que llegó tarde.
 - Yuji, Choso, Yuta · T85 · Facundo les dijo que se iba a hacer algo y no sabía cuándo volvía.
 - Yuta Okkotsu · T81 · conoce el decreto (descripción, nombre); lo vio congelar a Naoya.
 - Naoya Zen'in · T78 · lo reconoce por la descripción del decreto de los altos mandos.
@@ -73,6 +74,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Yuji (T278): Juego del Sacrificio; Sukuna tomó el cuerpo de Megumi; 24/12 Gojo liberado y muerto por Sukuna en Shinjuku; Choso murió en ese cruce protegiendo a Yuji; muertos también Yuki, Kashimo, Yaga (ejecutado); Yuji y Nobara separaron a Sukuna de Megumi y lo mataron; Megumi vivo, en la escuela, mal; Nobara bien; Nanami vivo sin el brazo izquierdo.
 - 17/01/2019: hubo una 'catástrofe de Shinjuku' el 24/12/2018; zona de exclusión, reconstrucción: noticiero público en pantalla (T276). Shinjuku arrasado: lo vio (T276).
 - Reunión con Yuki para ir a ver a Tengen, en la escuela en dos días: Yuta se lo dijo (T84).
 - Pacto Yuta–Gojo y ejecución fingida de Yuji: lo vio y Yuta se lo dijo (T83).
