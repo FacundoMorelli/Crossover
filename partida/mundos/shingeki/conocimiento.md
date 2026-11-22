@@ -13,3 +13,5 @@
 - Levi, Erwin · T406 · La espada de Levi no corta la piel de Facundo (se mella).
 - Erwin, Levi (y los cercanos) · T407 · Saben su nombre: Facundo. Dice que no sabe nada de este mundo (Erwin lo anota; no lo investiga ahora).
 - Zeke · T409 · Vio a Facundo de cerca, volando sin equipo, con pelo azul. Si escapa, se lo informa a Marley.
+- Levi, Zeke · T410 · Vieron a Facundo lanzar una bola de luz que voló medio cuerpo del Carguero.
+- Zeke · T410 · Deduce que Facundo "no es de esta isla" (no parece eldiano de Paradis ni marleyano; sus poderes no son de titán).

@@ -1,13 +1,13 @@
 {
-  "turno": 409,
+  "turno": 410,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
-  "hora": "10:58",
+  "hora": "10:59",
   "edad": 18,
   "nivel": 25,
-  "exp": 176490,
+  "exp": 176890,
   "exp_siguiente_nivel": 195000,
-  "fragmentos": 172965,
+  "fragmentos": 172990,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -46,7 +46,7 @@
     "energia": 240,
     "control": 239
   },
-  "energia_actual_pct": 83,
+  "energia_actual_pct": 82,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -890,6 +890,13 @@
       "mundo": "shingeki",
       "quien": "Reiner Braun (Acorazado): golpe de dos dedos en Super Saiyajin Blue; armadura del pecho hecha pedazos, titán derrumbado; Reiner inconsciente en la nuca",
       "turno": 404,
+      "fragmentos": 25,
+      "exp": 400
+    },
+    {
+      "mundo": "shingeki",
+      "quien": "Pieck Finger (Titán Carguero): una bola de ki le voló las patas delanteras y medio cuerpo; titán derrumbado; Pieck inconsciente en la nuca, viva",
+      "turno": 410,
       "fragmentos": 25,
       "exp": 400
     }

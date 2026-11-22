@@ -8,3 +8,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T400 · Bertholdt NO se transforma en el Colosal sobre la ciudad: Facundo lo atrapa en el aire y lo amordaza con una soga. La escuadra de Hange y Moblit no mueren en la explosión (por ahora).
 - T402 · Frontera de Hate no Sakaime sobre toda Shiganshina: las rocas del Bestia no entran (en el canon, mataban a casi todos los reclutas y herían a Erwin).
 - T404 · Reiner derrotado por Facundo de un golpe de dos dedos; inconsciente en la nuca del titán derrumbado.
+- T409-410 · Zeke capturado vivo por Levi; el Carguero derribado por Facundo antes de rescatarlo. Marley pierde (por ahora) al Acorazado, el Colosal, el Bestia y el Carguero. Cambio enorme del canon.
