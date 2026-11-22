@@ -39,3 +39,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T262 (Dragon Ball) · Marron le da pedacitos de pescado debajo de la mesa. Los acepta.
 - T264 (Dragon Ball) · Se deja acariciar por Marron y se pone panza arriba en la arena un segundo. Nunca lo había hecho con nadie más que Facundo.
 - T266 (Dragon Ball) · Se queda mirando fijo al maestro Karin; Karin le sostiene la mirada.
+- T270 (Dragon Ball) · Bee le hace una reverencia. Kase lo mira con desprecio y le da la espalda... pero no se va.

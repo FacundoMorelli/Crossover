@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T270 · 13:43 · Facundo mira el truco de Bee y acepta la cena. Buu se va a avisar.
 - T269 · 13:40 · Encuentra a Facundo en la base de la Torre de Karin gritando 'DEL GATOOO'. Lo invita a cenar en la mansión esta noche (de parte de Mr. Satán). Quiere mostrarle un truco de Bee.
 - T237 · 06:45 · En el desayuno le da a Facundo un caramelo "para el camino".
 - T235 · 20:00-21:30 · En la fiesta come una torta de tres pisos entera. Le lleva a Facundo una porción.
@@ -32,6 +33,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T270: "¡A las ocho! ¡Buu va a comer TODO! ...No, Buu deja un poquito para del gato."
 - T269: "¡Buu gritó en todo el mundo! ¡Buu encontró!" / "¡Pelo de nube dice cena! ¡Esta noche! ¡Con la hija enojona!" / "¡Bee sabe hacer un truco! ¡Mira, mira!"
 - T229: "¡Prometido! ¡Si del gato no vuelve, Buu se enoja! ...Un poquito."
 - T228: "¿Se va? ...¿Lejos?" / "Entonces del gato promete que vuelve. ¡Meñique!"
