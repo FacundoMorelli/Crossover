@@ -11,3 +11,4 @@
 - Toda la Legión, Reiner, Bertholdt, Zeke, Pieck (si mira) · T402 · Vieron a Facundo sacar una espada de la nada y levantar una cúpula/pared plateada transparente que detuvo las rocas del Bestia. Nadie en este mundo lo puede explicar: lo atribuyen a un poder de titán desconocido o al "Fundador".
 - Toda la Legión en la ciudad, Eren · T404 · Vieron a Facundo con el pelo y un aura azules (Super Saiyajin Blue) derribar al Acorazado con dos dedos. Lo oyeron decirle a Eren "niño, no es necesario".
 - Levi, Erwin · T406 · La espada de Levi no corta la piel de Facundo (se mella).
+- Erwin, Levi (y los cercanos) · T407 · Saben su nombre: Facundo. Dice que no sabe nada de este mundo (Erwin lo anota; no lo investiga ahora).

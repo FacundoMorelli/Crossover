@@ -11,3 +11,4 @@ ESTADO: activo
 ENCUENTROS:
 - T406 · Baja de la muralla, frena a Levi y le pregunta a Facundo quién es y de qué lado está.
 QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
+- T407 · Le explica el mundo de las murallas y el sótano. Pide a Bertholdt; invita a Facundo a acompañarlos al sótano.
