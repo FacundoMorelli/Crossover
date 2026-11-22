@@ -1,13 +1,13 @@
 {
-  "turno": 329,
+  "turno": 330,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
-  "hora": "21:50 (Karakura)",
+  "hora": "21:56 (Karakura)",
   "edad": 18,
   "nivel": 23,
-  "exp": 156910,
+  "exp": 158710,
   "exp_siguiente_nivel": 160000,
-  "fragmentos": 172517,
+  "fragmentos": 172667,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -36,7 +36,7 @@
     "energia": 235,
     "control": 234
   },
-  "energia_actual_pct": 88,
+  "energia_actual_pct": 86,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -460,6 +460,13 @@
       "mision": "Que Kisuke Urahara te cuente, sin que se lo pidas, por qué se fue de la Sociedad de Almas.",
       "dificultad": "ALTA",
       "emitida": "T134"
+    },
+    {
+      "poder": "Poder de Kenpachi Zaraki (reiatsu monstruoso, cuerpo de combate, crecimiento en pelea, kendo, su zanpakutō y lo que lleve dentro)",
+      "mundo": "bleach",
+      "mision": "Que Kenpachi Zaraki te corte en serio, con las dos manos, y que la hoja llegue a tu piel.",
+      "dificultad": "MEDIA",
+      "emitida": "T330"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -720,6 +727,13 @@
       "fragmentos": 1000,
       "exp": 10000,
       "nota": "Escala élite (65-90) sin Hōgyoku; no pagó doble."
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Kenpachi Zaraki, capitán del 11.º (sin parche, kendo a dos manos; corte superficial en el pecho y golpe de pomo al mentón; consciente, no se puede levantar)",
+      "turno": 330,
+      "fragmentos": 150,
+      "exp": 1800
     }
   ],
   "viaje": {

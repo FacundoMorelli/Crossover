@@ -11,3 +11,7 @@ DIÁLOGOS CLAVE:
 ESTADO: activo.
 - T327 · Desenvaina y reta a Facundo.
 - DIÁLOGO T327: "Tú. El de la estatua. Pelea conmigo."
+- T330 · Toma la espada con las dos manos (kendo). Facundo bloquea con Echo sin moverse; Rift le abre un corte superficial del pecho al hombro y el pomo de Echo lo manda volando. Derrotado: tirado de espaldas, riéndose, sin poder levantarse. Muy feliz.
+- DIÁLOGO T330: "Jajaja... Me... me voló la mandíbula... ¡JAJAJAJA!"
+QUÉ PODERES DE FACUNDO VIO: esquivas imposibles (Ultra Instinto, sin saber qué es), esgrima de doble espada, fuerza para frenar su corte a dos manos sin moverse. Lo explica como "un tipo muy, muy fuerte".
+ESTADO (T330): herido leve (corte en el pecho, mandíbula golpeada), en el suelo. Yachiru sentada en su panza.

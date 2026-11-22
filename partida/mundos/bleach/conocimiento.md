@@ -76,3 +76,6 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - El gato negro habla y se llama Yoruichi: ella se lo dijo (T100).
 - Rukia dio sus poderes a Ichigo; es delito grave; no vuelven: Urahara y Rukia se lo dijeron (T95).
 - Shinigami, Sociedad de Almas, hollows, konsō y zanpakutō: Urahara se lo explicó (T93). Rukia es Shinigami: Rukia lo dio a entender (T90) y Urahara lo confirmó (T93).
+
+## T330 · Pelea con Kenpachi (vista por todos en la cúpula)
+- Byakuya, Unohana, Isane, Mayuri, Yachiru, Gin, Tōsen, Ichigo, Rukia, Orihime, Chad y Nel vieron que Facundo esquiva a Kenpachi sin parche, frena su corte a dos manos con una sola espada sin moverse y lo derrota con dos golpes. No usó el Eclipse. El Velo sigue mostrando reiatsu bajo: lo notan como una contradicción entre lo que sienten y lo que ven (Mayuri y Unohana, sobre todo).
