@@ -20,6 +20,6 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
 - Hōgyoku dentro de Rukia; el gigai la vuelve humana para esconderlo: Urahara lo confirmó (T98).
-- El gato negro habla (Yoruichi, nombre aún no dicho): lo escuchó hablar (T98).
+- El gato negro habla y se llama Yoruichi: ella se lo dijo (T100).
 - Rukia dio sus poderes a Ichigo; es delito grave; no vuelven: Urahara y Rukia se lo dijeron (T95).
 - Shinigami, Sociedad de Almas, hollows, konsō y zanpakutō: Urahara se lo explicó (T93). Rukia es Shinigami: Rukia lo dio a entender (T90) y Urahara lo confirmó (T93).

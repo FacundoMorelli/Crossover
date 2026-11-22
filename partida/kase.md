@@ -20,3 +20,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 
 ### Bleach
 - Turno 86 · Cruza la Puerta con Facundo. Llega erizado: ve almas.
+- Turno 100 · Duerme en el alféizar del cuarto de la tienda de Urahara. Deja que Yoruichi duerma en el pasillo frente a la puerta.

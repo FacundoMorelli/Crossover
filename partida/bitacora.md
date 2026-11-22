@@ -98,3 +98,4 @@ T96 · Bleach · 21:19 · Teoría: el reiatsu de Ichigo se llevó más de lo que
 T97 · Bleach · 21:21 · Pide hablar a solas con Urahara. Rukia se va.
 T98 · Bleach · 21:23 · Pregunta por lo que Rukia lleva adentro. Urahara confirma el Hōgyoku. El gato negro habla.
 T99 · Bleach · 21:26 · Urahara confirma que vendrán por Rukia. Ofrece cuarto a cambio de estudiar a Sakaime.
+T100 · Bleach · 21:30 · Acepta el cuarto en la tienda. El gato negro se llama Yoruichi.
