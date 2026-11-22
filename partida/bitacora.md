@@ -142,3 +142,4 @@ T140 · Bleach · 19/07 · Se pone un shihakushō en un depósito del 7.º Escua
 T141 · Bleach · 19/07 · Se esconde; la patrulla no lo ve.
 T142 · Bleach · 19/07 13:20 · Gorra. Busca un capitán. Kyōraku le habla desde un techo.
 T143 · Bleach · 13:21 · Dice ser el nuevo del 8.º. Kyōraku le sigue el juego. Llega Nanao.
+T144 · Bleach · 13:22 · Da su nombre; Nanao reconoce el informe; Kyōraku lo cubre y lo invita a tomar té.

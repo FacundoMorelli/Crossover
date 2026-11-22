@@ -1,10 +1,11 @@
-TURNO: 143 | MUNDO: Bleach | 19 de julio · Sociedad de Almas | HORA: 13:21 | Lugar: Seireitei, calle del sector central-oeste
+TURNO: 144 | MUNDO: Bleach | 19 de julio · Sociedad de Almas | HORA: 13:22 | Lugar: Seireitei, calle del sector central-oeste
 MOMENTO DEL CANON: Sociedad de Almas: la Infiltración (cap. 71-72). Llegada al Rukongai. Jidanbō custodia la Puerta Blanca Oeste. Después: Gin le corta el brazo a Jidanbō y cierra la puerta; Kūkaku y el cañón; Ikkaku, Renji, Kenpachi; muerte falsa de Aizen. Rukia en la Torre del Arrepentimiento.
 FACUNDO: 18 años · Nivel 7 · EXP 16.210/17.000 · 894 Fragmentos · 10 puntos sin asignar · 0 yenes · Energía 82% · Ojos: bien
 PARA ESTE MUNDO: intruso en el Seireitei, disfrazado con un shihakushō. Velo: persona común. El pelo bicolor y el gato lo delatan si alguien leyó el informe de Byakuya.
 QUIÉN SABE QUÉ: Byakuya y Renji informarán a la Sociedad de Almas sobre él. Ichigo y Rukia saben su nombre y lo vieron hacer el konsō. PÚBLICO: salió en vivo por TV (aspecto, katana, gato). Los que ven espíritus pudieron ver el konsō.
 MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (activa)
 ÚLTIMOS 5 TURNOS:
+- T144: se presenta como 'Facundo, asiento 20, promoción del año pasado'. Nanao no lo encuentra y reconoce el nombre del informe. Kyōraku lo cubre y lo invita a tomar té adentro.
 - T143: dice no saber de ningún humano y ser el nuevo del 8.º. Kyōraku le sigue el juego. Llega la teniente Nanao Ise: 'no tenemos ingresos nuevos'.
 - T142: compra una gorra (1 F) y camina hacia el centro buscando a un capitán. Desde un techo, Shunsui Kyōraku (8.º) le habla: lo reconoce por el gato.
 - T141: se esconde detrás de los estantes. El Shinigami de la patrulla se asoma, no ve nada y sigue. Afuera, todo el Seireitei se moviliza hacia el oeste.
@@ -12,7 +13,6 @@ MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (
 - T139: le susurra a Ichigo 'nos vemos adentro' y entra por la puerta antes de que se cierre, sin que nadie lo vea. Solo con Kase dentro del Seireitei.
 - T138: Boogie Woogie con Ichigo: Facundo recibe Shinsō con Sakaime y sale despedido cuarenta metros por el suelo, de pie. Ichigo a salvo junto al grupo. Misión de copia: Gin.
 - T137: traza una línea entre Gin y Jidanbō: el tajo de Gin al brazo del gigante rebota. Gin lo reconoce ('el del informe, el de la bufanda') y empieza a liberar Shinsō contra Ichigo.
-- T136: observa: Ichigo le parte las hachas a Jidanbō; Jidanbō levanta la puerta. Del otro lado está Gin Ichimaru, con la mano en la empuñadura.
 - T118: traza cuatro líneas de 20 m en cuadrado (Marco): el plano encerrado es frontera. El Cero choca y se deshace. Energía 33%. El Menos queda desconcertado; el reiatsu de Ichigo sigue desbordándose.
 - T87: entra por atrás al hospital. Desde la baranda del primer piso ve a Kanonji hundir el bastón en el pecho del espíritu atado frente a cámaras en vivo. Se le forma una máscara.
 PRESENTES EN ESCENA: Shunsui Kyōraku (en el techo). Nanao Ise (teniente del 8.º, en el patio, con un libro). Kase.
