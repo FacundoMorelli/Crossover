@@ -25,3 +25,4 @@ T23 · Jujutsu · 23:58 · Marca IV sobre Nanami. Con Yuji lo estabiliza; Nanami
 T24 · Jujutsu · 23:59 · Informa a Nanami de Mahito. Nanami: 'buen trabajo'. COPIA: Proporción y Horas Extra (+300 EXP). Yuji se levanta con rabia.
 T25 · Jujutsu · 01/11 00:00 · Con Yuji avanza hacia Mahito. Nanami queda con Megumi. Mahito sale de la estación hacia ellos.
 T26 · Jujutsu · 00:01 · Destello Solar a Mahito; Yuji le pega con el Puño Divergente. Mahito contraataca. Misión de copia: Yuji.
+T27 · Jujutsu · 00:01 · Activa la Marca III: Mahito congelado otra vez frente a Yuji, las púas desaparecen.

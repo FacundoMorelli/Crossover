@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T27 · 00:01 · Las púas de Mahito desaparecen a centímetros de su cara: Facundo activó la Marca III. Yuji queda con el puño atrás frente a la estatua.
 - T26 · 00:01 · Facundo ciega a Mahito con Destello Solar; Yuji cruza el campo y le pega en la cara con el Puño Divergente. Mahito siente dolor en el alma.
 - T25 · 00:00 · Acepta ir con Facundo contra Mahito. Avanzan hacia el sur; Mahito aparece en el borde del campo.
 - T24 · 23:59 · Escucha que Mahito está en la estación. Se pone de pie con rabia (Junpei).
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T27: "¿Eso... eso lo hiciste tú?"
 - T26: "...No me gana. Ya no."
 - T25: "Vamos. Esta vez no se me escapa."
 - T24: "Mahito... ¿Está acá?"
