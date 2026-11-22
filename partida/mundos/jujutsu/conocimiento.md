@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuji, Choso, Yuta · T85 · Facundo les dijo que se iba a hacer algo y no sabía cuándo volvía.
 - Yuta Okkotsu · T81 · conoce el decreto (descripción, nombre); lo vio congelar a Naoya.
 - Naoya Zen'in · T78 · lo reconoce por la descripción del decreto de los altos mandos.
 - Megumi Fushiguro · T68 · lo vio al despertar; Yuji le dijo su nombre y que los salvó. Vio la Marca I en su propio pecho (no sabe qué es).

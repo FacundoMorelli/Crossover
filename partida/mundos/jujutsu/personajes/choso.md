@@ -7,6 +7,7 @@ FÍSICO: pelo negro en dos coletas cortas, raya oscura sobre la nariz, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: serio, intenso, protector con sus "hermanos".
 RELACIÓN CON FACUNDO: confianza creciente; lo ve pelear junto a Yuji.
 ENCUENTROS:
+- T85 · 22:50 · Se despide de Facundo con un asentimiento.
 - T83 · 22:44 · Vencido por Yuta y Rika (brazo de Rika) en segundos. Ve 'morir' a Yuji y grita. Queda en el piso.
 - T78 · 03/11-05/11 · En Tokio con Yuji y Facundo. Empieza a confiar en Facundo. 05/11 22:40 aparece Naoya.
 - T77 · 07:50 · Los encuentra en la ruta vieja. Yuji le cuenta la orden.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T40 · 00:40 · Sale del hielo protegiendo a Yuji.
 - T36 · 00:20 · Llega al campo gris y ataca al falso Geto con Sangre Perforante; lo llama "Noritoshi Kamo".
 DIÁLOGOS CLAVE:
+- T85: "Gracias por cuidar a mi hermano."
 - T83: "¡YUJI!"
 - T77: "Entonces vamos a Tokio. Ahí hay tanta gente y tantas maldiciones que nadie va a encontrar a nadie."
 - T58: "Eso no me dice nada. ...Pero a mi hermano le alcanza. Mientras no le hagas daño, a mí también."
