@@ -1,5 +1,5 @@
 {
-  "turno": 16,
+  "turno": 17,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
   "hora": "23:49",
@@ -7,7 +7,7 @@
   "nivel": 1,
   "exp": 310,
   "exp_siguiente_nivel": 1000,
-  "fragmentos": 30,
+  "fragmentos": 0,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -17,14 +17,14 @@
   },
   "puntos_de_stat_sin_asignar": 0,
   "stats": {
-    "fuerza": 30,
-    "velocidad": 33,
-    "resistencia": 29,
-    "tecnica": 31,
-    "percepcion": 31,
-    "voluntad": 32,
-    "energia": 32,
-    "control": 31
+    "fuerza": 34,
+    "velocidad": 36,
+    "resistencia": 33,
+    "tecnica": 35,
+    "percepcion": 35,
+    "voluntad": 35,
+    "energia": 36,
+    "control": 35
   },
   "energia_actual_pct": 82,
   "eclipse": {

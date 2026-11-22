@@ -1,10 +1,11 @@
-TURNO: 16 | MUNDO: Jujutsu Kaisen | 31/10/2018 (Halloween) | HORA: 23:49 | Lugar: entrada sur de la estación de Shibuya, en ruinas
+TURNO: 17 | MUNDO: Jujutsu Kaisen | 31/10/2018 (Halloween) | HORA: 23:49 | Lugar: entrada sur de la estación de Shibuya, en ruinas
 MOMENTO DEL CANON: Sukuna devolvió el control a Yuji. Yuji en shock. Megumi inconsciente cerca. Después: Yuji vaga y encuentra a Nanami (≈00:10, al sur); Mahito lo mata (≈00:12).
-FACUNDO: 18 años · Nivel 1 · EXP 310/1.000 · 30 Fragmentos · 0 yenes · Energía 82% · Ojos: rojo arde y sangra; azul frío, algo nublado
+FACUNDO: 18 años · Nivel 1 · EXP 310/1.000 · 0 Fragmentos · 0 yenes · Energía 82% · Ojos: rojo arde y sangra; azul frío, algo nublado
 PARA ESTE MUNDO: nadie lo vio. Velo: persona común. Cubierto de polvo.
 QUIÉN SABE QUÉ: Mahito vio todo desde el túnel (nombre, espadas, que Yuji y Megumi están en el centro). Nanami sabe su nombre, que viene de parte de Yuji, y vio Rift y Echo. Yuji lo vio (aspecto, espadas, gato); vio la Marca I; lo cree hechicero; sabe que busca a Nanami.
 MISIÓN DE MUNDO: Que Kento Nanami vea el amanecer del 1 de noviembre. (activa)
 ÚLTIMOS 5 TURNOS:
+- T17: compra 30 puntos de stat en la tienda (todos los Fragmentos) y los reparte parejo.
 - T16: se planta entre Mahito y la escalera; manda a Nanami con Yuji. Nanami avisa que solo Yuji daña el alma de Mahito, le ordena sobrevivir y sube. Mahito se burla.
 - T15: esquiva el brazo; Marea Lunar estrella a Mahito contra la pared del túnel. Mahito se ríe y mira hacia el norte: va a buscar a Yuji.
 - T14: Destello Solar + corte con Rift. Mahito partido, se recompone. Contraataca estirando el brazo. Misión de copia: Transfiguración Ociosa (que Mahito sienta miedo). Regla nueva: razas se copian.
