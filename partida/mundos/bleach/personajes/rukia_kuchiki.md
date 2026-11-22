@@ -87,3 +87,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que puede guardar cosas donde nadie las encuentra y se ofreció a guardar el Hōgyoku (Urahara se lo contó, T111); que sabía del Hōgyoku antes que ella (deduce); su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
 ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equipo de avanzada.
+- T300 · Hueco Mundo · Llega con Renji (enviados por Byakuya/Ukitake, canon), congela a Runuganga con Sode no Shirayuki. Ve a Facundo.
+- DIÁLOGO T300: "¡Ichigo, idiota! ¿Creías que...?" / "...¿Facundo?"

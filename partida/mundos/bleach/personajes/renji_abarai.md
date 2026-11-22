@@ -38,3 +38,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su nombre; lo ve llegar; no siente su reiatsu; vio su shikai (T121).
 QUÉ PODERES DE FACUNDO VIO: shikai de Sakaime (línea) (T121); Destello Solar desde el ojo rojo (T123); cambio de lugar al aplaudir (Boogie Woogie) (T126); Marea Lunar, gravedad desde el ojo azul (T132).
 ESTADO: volvió a la Sociedad de Almas.
+- T300 · Hueco Mundo · Llega con Rukia; destroza a Runuganga con Zabimaru. Ve a Facundo.
+- DIÁLOGO T300: "¡Ja! ¡Miren quién volvió!"

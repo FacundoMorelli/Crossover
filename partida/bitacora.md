@@ -298,3 +298,4 @@ T296 · Bleach · 21:38 · Sótano de Urahara: Garganta abierta. Orihime en Huec
 T297 · Bleach · Hueco Mundo · Cruza la Garganta con Ichigo, Uryū y Chad. Desierto, Las Noches. Una nena hollow perseguida.
 T298 · Bleach · Hueco Mundo · Atrapa a Nel. Era un juego con Pesche y Dondochakka.
 T299 · Bleach · Hueco Mundo · Nel acaricia a Kase. Pesche ofrece guiarlos a Las Noches.
+T300 · Bleach · Hueco Mundo · Runuganga; Rukia y Renji llegan. Rukia ve a Facundo.

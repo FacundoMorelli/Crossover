@@ -8,3 +8,4 @@ DIÁLOGOS CLAVE:
 ESTADO: golpeado.
 - T299 · Se suma a guiarlos.
 - DIÁLOGO T299: "¡Vamos todos, dosu!"
+- T300 · Tragado por Runuganga; liberado.

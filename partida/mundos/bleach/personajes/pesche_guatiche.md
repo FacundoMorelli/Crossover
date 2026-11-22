@@ -8,3 +8,4 @@ DIÁLOGOS CLAVE:
 ESTADO: golpeado.
 - T299 · Ofrece guiarlos a Las Noches, dramático.
 - DIÁLOGO T299: "¡¿Laz Nochez?! ...¡Bien! ¡Nozotroz conocemoz el dezierto como la palma de nueztra mano!"
+- T300 · Tragado por Runuganga; liberado.
