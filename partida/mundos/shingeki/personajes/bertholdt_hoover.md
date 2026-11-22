@@ -8,3 +8,6 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T400 · Facundo lo atrapa en el aire, amordazado con una soga, con las manos sujetas. No puede transformarse.
+QUÉ SABE DE FACUNDO: nada; lo ve flotar.

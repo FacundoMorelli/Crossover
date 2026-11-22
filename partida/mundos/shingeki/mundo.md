@@ -5,3 +5,4 @@ ESTADO: La Legión de Reconocimiento (Erwin, Levi, Hange, la 104.ª) en Shigansh
 DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
+- T400 · Bertholdt NO se transforma en el Colosal sobre la ciudad: Facundo lo atrapa en el aire y lo amordaza con una soga. La escuadra de Hange y Moblit no mueren en la explosión (por ahora).
