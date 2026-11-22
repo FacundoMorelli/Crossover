@@ -7,11 +7,13 @@ FÍSICO: alto, pelo castaño peinado hacia atrás (sin anteojos ahora), haori de
 PERSONALIDAD Y FORMA DE HABLAR: calmo, cortés, superior; todo lo tiene calculado.
 RELACIÓN CON FACUNDO: interés; sospecha que Facundo tiene el Hōgyoku.
 ENCUENTROS:
+- T162 · 10:42 · Por la rendija del Kurohitsugi sale una hoja estirada (Shinsō de Facundo) que le atraviesa el hombro izquierdo. El kidō se le rompe a medio cerrar. Retrocede con la mano en el hombro. Llegan Yoruichi y Soi Fon por detrás.
 - T161 · 10:42 · Facundo aparece a su espalda más rápido de lo que Aizen ve; cuando se da vuelta, le pega un golpecito con dos dedos en la frente. Aizen sale despedido seis metros y se le parte la piel de la frente. Primera vez en siglos que sangra frente a otros. Pierde la sonrisa. Invoca Hadō 90 Kurohitsugi sin encantamiento alrededor de Facundo.
 - T160 · 10:41 · Facundo corta los rayos de su Bakudō 61 con Sakaime. Con Boogie Woogie, cambia a Rukia por Byakuya: Byakuya aparece frente a Aizen; Rukia junto a Ichigo. Aizen no siente nada distinto en Facundo (Velo), pero algo en su postura le da mala espina.
 - T159 · 10:41 · Facundo aparece a su lado y le pasa el dedo por la hoja de Kyōka Suigetsu cuando Aizen la saca a medias. Aizen se sorprende de verdad por primera vez. Facundo agarra a Rukia y huye; Aizen lo atrapa con Bakudō número 61 (Rikujōkōrō) en el aire.
 - T158 · 29/07 10:40 · Aparece en el claro con Gin y Tōsen tras el aviso de Isane (Central 46 muerta, Aizen vivo). Se dirige a Facundo.
 DIÁLOGOS CLAVE:
+- T162: "...La espada de Gin."
 - T161: "..." / "Hadō número noventa. Kurohitsugi."
 - T160: "Cortaste mi kidō sin tocarlo... Interesante."
 - T159: "...Sabes eso." / "Bakudō número sesenta y uno. Rikujōkōrō." / "No te vas a ir con ella. Ni con lo que tienes."

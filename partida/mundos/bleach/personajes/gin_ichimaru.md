@@ -7,6 +7,7 @@ FÍSICO: flaco, pelo plateado, ojos siempre entrecerrados, sonrisa de zorro, hao
 PERSONALIDAD Y FORMA DE HABLAR: burlón, amable de manera inquietante, acento de Kioto.
 RELACIÓN CON FACUNDO: —
 ENCUENTROS:
+- T162 · 10:42 · Ve su propia técnica en manos de Facundo.
 - T161 · 10:42 · Ve a Aizen salir volando por un golpecito en la frente. Abre los ojos, apenas, un instante (celeste). Facundo lo ve.
 - T158 · 10:40 · Llega con Aizen y Tōsen al claro.
 - T154 · 09:42 · Aplaude.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T137 · 19/07 · Su tajo rápido al brazo de Jidanbō choca contra una línea de Sakaime y rebota. Se ríe, reconoce a Facundo por el informe. Desenvaina y apunta a Ichigo para liberar Shinsō.
 - T136 · 19/07 · Aparece al otro lado de la Puerta Blanca cuando Jidanbō la levanta tras perder con Ichigo. Saluda sonriendo.
 DIÁLOGOS CLAVE:
+- T162: "Eh. Esa es mía."
 - T161: "...Ay, ay."
 - T158: "Hola otra vez, el de la bufanda."
 - T154: "¡Bravo, bravo!"
