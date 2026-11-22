@@ -7,6 +7,7 @@ FÍSICO: alto, barba de candado, pelo largo ondulado atado, sombrero de paja, ha
 PERSONALIDAD Y FORMA DE HABLAR: relajado, mujeriego, bebedor, perezoso en apariencia; agudo y peligroso.
 RELACIÓN CON FACUNDO: aliado discreto; lo esconde en su escuadrón y lo llevará con Ukitake.
 ENCUENTROS:
+- T166 · 05/08 · Lo despide en la Senkaimon con Nanao.
 - T156 · 09:43 · Facundo se cambia de lugar con él: Kyōraku queda frente a Yamamoto encendido. Ukitake se pone a su lado. (Canon: Kyōraku y Ukitake vs Yamamoto.)
 - T155 · 09:42 · Ve a Yamamoto encenderse. Deja de reírse.
 - T154 · 09:42 · Se ríe a carcajadas detrás del sombrero.
@@ -21,6 +22,7 @@ ENCUENTROS:
 - T143 · 13:21 · Facundo dice no saber de ningún humano y que es el nuevo integrante del 8.º. Kyōraku le sigue el juego, divertido. Llega Nanao.
 - T142 · 19/07 13:20 · Acostado en un techo con una botella de sake, mientras todos corren al oeste. Le habla a Facundo cuando pasa por debajo.
 DIÁLOGOS CLAVE:
+- T166: "Si alguna vez quieres el puesto veinte del octavo de verdad, está libre."
 - T156: "Ahh... me toca a mí, ¿no?"
 - T155: "Uy. Nuevo... eso fue demasiado."
 - T154: "¿'Viejos'? Ay, nuevo..."

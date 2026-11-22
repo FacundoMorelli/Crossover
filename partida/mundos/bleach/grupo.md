@@ -1,4 +1,4 @@
 # GRUPO — BLEACH
-CON QUIÉN ANDA: solo con Kase, dentro del Seireitei (desde T139). El grupo (Ichigo, Uryū, Chad, Orihime, Yoruichi) quedó afuera, en el Rukongai.
-BANDO: aliado de Ichigo y Urahara; intruso (ryoka) para el Gotei 13.
-RANGO: ninguno.
+CON QUIÉN ANDA: Ichigo, Uryū, Chad, Orihime; huésped de Urahara. Kase.
+BANDO: aliado de Ichigo y Urahara; con permiso tácito del Gotei 13 tras el caso Aizen.
+AMIGOS EN LA SOCIEDAD DE ALMAS: Rukia, Kyōraku, Ukitake, Nanao, Renji; Byakuya (respeto frío).

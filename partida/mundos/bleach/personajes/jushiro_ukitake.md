@@ -7,12 +7,14 @@ FÍSICO: pelo blanco muy largo, cara amable y pálida, haori de capitán sobre u
 PERSONALIDAD Y FORMA DE HABLAR: amable, cálido, honesto; muy querido por sus subordinados; enfermo.
 RELACIÓN CON FACUNDO: acaba de conocerlo.
 ENCUENTROS:
+- T166 · 04/08 · Le da a Ichigo la Placa de Shinigami Sustituto (canon). A Facundo le regala una botella de medicina 'para los ojos'.
 - T164 · 10:52 · Sonríe detrás de Yamamoto; le hace una seña a Facundo de que se calle.
 - T156 · 09:43 · Se pone junto a Kyōraku frente a Yamamoto.
 - T154 · 09:43 · Llega corriendo a la colina con Sentarō, Kiyone y el escudo Shihōin. Ve el Sōkyoku destruido.
 - T151 · 23:37 · Ve el Boogie Woogie. Se ríe hasta toser. Dice que con eso y lo que hizo con Byakuya, tienen una oportunidad. Propone que el día de la ejecución Facundo esté en la colina, disfrazado en el 8.º.
 - T149 · 19/07 23:35 · Ugendō (casa sobre el estanque del 13.º). Recibe a Kyōraku y a Facundo. Tose sangre en un pañuelo. Les cuenta su plan: una reliquia de la casa Shihōin capaz de detener al Sōkyoku; tardará días en conseguirla sin que lo descubran.
 DIÁLOGOS CLAVE:
+- T166: "Para tus ojos. Me dijeron que te arden cuando haces luz."
 - T156: "Sensei. Esta vez no vamos a retroceder."
 - T154: "...Llegué tarde. O llegué temprano. No sé."
 - T151: "Una de muchas... Byakuya debe estar furioso." / "El día de la ejecución, quiero que estés en la colina del Sōkyoku. Si mi reliquia no llega a tiempo, vas a tener que ganar los minutos que falten."

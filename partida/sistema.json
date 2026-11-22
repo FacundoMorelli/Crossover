@@ -1,12 +1,12 @@
 {
-  "turno": 165,
+  "turno": 166,
   "mundo_actual": "bleach",
-  "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
-  "hora": "10:54",
+  "fecha_local": "5 de agosto (año del canon, ~2001)",
+  "hora": "16:20",
   "edad": 18,
-  "nivel": 8,
-  "exp": 19510,
-  "exp_siguiente_nivel": 21000,
+  "nivel": 9,
+  "exp": 21210,
+  "exp_siguiente_nivel": 25000,
   "fragmentos": 294,
   "plata_local": {
     "jujutsu": {
@@ -20,18 +20,18 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 15,
+  "puntos_de_stat_sin_asignar": 20,
   "stats": {
-    "fuerza": 121,
-    "velocidad": 124,
-    "resistencia": 121,
-    "tecnica": 124,
-    "percepcion": 122,
-    "voluntad": 122,
-    "energia": 123,
-    "control": 122
+    "fuerza": 122,
+    "velocidad": 125,
+    "resistencia": 122,
+    "tecnica": 125,
+    "percepcion": 123,
+    "voluntad": 123,
+    "energia": 124,
+    "control": 123
   },
-  "energia_actual_pct": 24,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -154,6 +154,10 @@
     {
       "objeto": "Haori del 8.º Escuadrón con capucha (puesto)",
       "origen": "regalo de Kyōraku, T148"
+    },
+    {
+      "objeto": "Botella de medicina para los ojos (de Ukitake)",
+      "origen": "bleach, T166"
     }
   ],
   "copias": [
@@ -291,6 +295,32 @@
         "El Hōgyoku NO viene (es un objeto; además ya lo tiene Facundo)",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Senbonzakura y poder de Shinigami de Byakuya Kuchiki",
+      "de": "Byakuya Kuchiki",
+      "mundo": "bleach",
+      "cuando": "T166, 31/07",
+      "incluye": [
+        "Shikai: la hoja se deshace en mil fragmentos-cuchilla controlados a voluntad",
+        "Bankai Senbonzakura Kageyoshi y sus formas (Senkei, Gōkei, Shūkei: Hakuteiken)",
+        "Paso Flash de élite, kidō de alto nivel (Byakurai, Danku, etc.)",
+        "Zanpakutō propia con ese poder",
+        "Dominio total e inmediato"
+      ]
+    },
+    {
+      "poder": "Zabimaru y poder de Shinigami de Renji Abarai",
+      "de": "Renji Abarai",
+      "mundo": "bleach",
+      "cuando": "T166, 02/08",
+      "incluye": [
+        "Shikai: hoja segmentada que se estira como látigo",
+        "Bankai Hihiō Zabimaru: esqueleto de serpiente gigante, Hikotsu Taihō (cañón de reiatsu)",
+        "Fuerza y resistencia de teniente",
+        "Zanpakutō propia con ese poder",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -314,20 +344,6 @@
       "mision": "Que Ichigo Kurosaki te llame su rival.",
       "dificultad": "ALTA",
       "emitida": "T102"
-    },
-    {
-      "poder": "Zabimaru y poder de Shinigami de Renji Abarai (incluido el Bankai)",
-      "mundo": "bleach",
-      "mision": "Que Renji Abarai te reconozca, con sus palabras, como alguien digno de cuidar a Rukia.",
-      "dificultad": "MEDIA",
-      "emitida": "T121"
-    },
-    {
-      "poder": "Senbonzakura y poder de Shinigami de Byakuya Kuchiki (incluido el Bankai)",
-      "mundo": "bleach",
-      "mision": "Que Byakuya Kuchiki envaine su espada frente a ti por decisión propia.",
-      "dificultad": "MUY ALTA",
-      "emitida": "T128"
     },
     {
       "poder": "Poder de Kisuke Urahara (Benihime, kidō, todo lo que sabe hacer en combate)",
@@ -558,7 +574,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 36
+        "dias_transcurridos": 43
       }
     },
     "puerta_abierta": true,
@@ -670,7 +686,7 @@
     "sociedad_de_almas": "Rukia arrestada el 07/07 23:25 y llevada a la Sociedad de Almas (canon). Byakuya informará a la Central 46 (controlada por Aizen en secreto) sobre 'un humano sin reiatsu perceptible con zanpakutō propia, técnicas de luz, gravedad, cambio de lugar y mucha velocidad'. Aizen, al examinar a Rukia en prisión, descubrirá en días que el Hōgyoku ya no está en ella: deducirá que Urahara lo sacó, y sospechará del humano. La ejecución se fija igual (Aizen la quiere para cubrir sus pasos o la cancela: decidir según lo que pase). Ichigo perdió sus poderes (Byakuya cortó Hakusui y Saketsu, canon). Urahara lo reentrenará (10 días). 10-15/07: Aizen confirma que Rukia está vacía; la ejecución se mantiene en el Sōkyoku (fecha: en ~25 días de la Sociedad de Almas) porque Aizen quiere ver si el Hōgyoku 'vuelve' o si alguien viene a rescatarla con él. Manda a Gin a averiguar sobre el humano. 20-28/07: canon con cambios menores: Ichigo vence a Ikkaku, Renji y empata con Kenpachi; Aizen finge su muerte (21/07); Hitsugaya vs Gin; Uryū vence a Mayuri y pierde sus poderes Quincy; Ichigo entrena bankai con Yoruichi; Renji (con bankai) pierde contra Byakuya; Kenpachi vs Tōsen y Komamura. La ejecución se adelanta al 29/07. Aizen (escondido, 'muerto') va a estar en la colina después; quiere ver quién trae el Hōgyoku. Ukitake consiguió el escudo Shihōin el 28/07 y viene con Sentarō y Kiyone.",
     "tiempo_sociedad_de_almas": "Para la partida, el tiempo corre igual que en Karakura; la fecha local se lleva como '19 de julio' (mundo humano). Ejecución de Rukia: plazo de ~14 días desde la llegada, que la Central 46 (Aizen) adelantará.",
     "infiltracion": "Facundo entró al Seireitei por la Puerta Blanca Oeste el 19/07 sin que nadie lo viera. Gin cree que se quedó afuera con el grupo; lo nota al rato y no lo reporta enseguida (le divierte). Ichigo y el resto entran por el cañón de Kūkaku en ~2 días (canon).",
-    "aizen": "Aizen se fue a Hueco Mundo sin el Hōgyoku (29/07). No puede crear Arrancar perfectos ni Espada fuertes sin él (solo los imperfectos con su investigación previa). Va a buscar a Facundo y a Urahara. Gin sigue con él (su plan secreto contra Aizen intacto)."
-  },
-  "heridas": "cortes de las lanzas del Kurohitsugi en el brazo izquierdo y el costado derecho (superficiales-moderados)"
+    "aizen": "Aizen se fue a Hueco Mundo sin el Hōgyoku (29/07). No puede crear Arrancar perfectos ni Espada fuertes sin él (solo los imperfectos con su investigación previa). Va a buscar a Facundo y a Urahara. Gin sigue con él (su plan secreto contra Aizen intacto).",
+    "rukia_mision": "Rukia se quedó en la Sociedad de Almas para recuperarse del todo y reconciliarse con Byakuya. Volverá a Karakura con poderes completos con el grupo de avanzada de Hitsugaya (canon arco 4, ~agosto/septiembre) o antes si algo la llama. Entonces se cumple la misión."
+  }
 }

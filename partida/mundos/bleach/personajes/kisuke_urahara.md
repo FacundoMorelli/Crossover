@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T166 · 05/08 16:20 · Recibe al grupo en el sótano de la tienda.
 - T134 · 08-18/07 · Reentrena a Ichigo. Entrena a Facundo dos veces con Benihime 'para ver'. Abre la Senkaimon el 18/07 a las 21:30.
 - T133 · 08/07 00:10 · Llega con paraguas. Recoge a Ichigo y a Uryū (con Tessai). Sube al techo; despierta a Facundo.
 - T120 · 04/07 · Explica a Chad, Orihime y Facundo lo que despertó en ellos. 07/07 23:05: Yoruichi le avisa a Facundo que llegaron dos Shinigami fuertes; Facundo sale.
@@ -32,6 +33,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T166: "¡Bienvenidos, bienvenidos! ...Facundo-san. Dicen que le dijo 'viejito' al Capitán Comandante. Cuénteme todo."
 - T134: "Facundo-san. La puerta está abierta. La decisión es suya."
 - T133: "Buenas noches, Facundo-san. Se la llevaron. ...Pero lo que importa no se lo llevaron."
 - T114: "Se fue. De verdad se fue." / "Este gigai no le hace nada. Sus poderes van a volver solos. Semanas, tal vez."

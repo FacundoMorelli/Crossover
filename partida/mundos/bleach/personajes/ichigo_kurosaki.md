@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T166 · 29/07-05/08 · Se recupera en la Cuarta División; recibe la placa de sustituto. Vuelve a Karakura con el grupo.
 - T160 · 10:41 · Rukia aparece a su lado.
 - T158 · 09:45-10:35 · Pelea contra Byakuya (canon): bankai contra bankai, máscara de hollow un instante; último choque: gana Ichigo.
 - T157 · 09:45 · Cae en el claro entre Byakuya y Facundo, con el bankai: Tensa Zangetsu (espada negra delgada, abrigo negro). Le pide a Facundo que se lleve a Rukia; Byakuya es suyo.

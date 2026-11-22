@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T166 · 31/07 · Se cruza con Facundo en la Cuarta División. Le dice que no tiene motivo para levantar la espada contra él; envaina Senbonzakura frente a él por decisión propia.
 - T161 · 10:42 · Ve el golpecito a Aizen. No dice nada. Se le escapa algo parecido a un resoplido.
 - T160 · 10:41 · Intercambiado con Rukia: aparece sentado en el pasto frente a Aizen. Se levanta, herido, y se pone entre Aizen y el lugar donde ahora está Rukia.
 - T158 · 10:35 · Pierde contra Ichigo. Admite la derrota y renuncia a ejecutar a Rukia (canon). Herido, en el claro.
@@ -29,6 +30,7 @@ ENCUENTROS:
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T166: "Ya no tengo motivo para levantar mi espada contra ti." / "La bufanda... la vas a pagar algún día."
 - T160: "...Aizen."
 - T158: "Tú ganas, Kurosaki Ichigo. Ya no voy a perseguir a Rukia."
 - T157: "Kurosaki Ichigo. Bankai en tres días. Imposible."
