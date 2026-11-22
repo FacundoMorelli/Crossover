@@ -8,3 +8,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T403 · ve a Bertholdt inconsciente en manos de Facundo; carga.
+- T404 · Facundo lo derriba de un golpe de dos dedos. Inconsciente en la nuca.
+ESTADO: inconsciente.

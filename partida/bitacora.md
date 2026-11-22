@@ -402,3 +402,4 @@ T400 · Shingeki · Shiganshina · Atrapa a Bertholdt en el aire, amordazado con
 T401 · Shingeki · Shiganshina · Hange y Armin le explican dónde está y quién es Bertholdt. El Bestia lanza rocas.
 T402 · Shingeki · Shiganshina · Bankai Hate no Sakaime alrededor de toda la muralla. Las rocas del Bestia no entran. Reiner se levanta.
 T403 · Shingeki · Shiganshina · Bertholdt inconsciente. NIVEL 25 (Doble Núcleo). Reiner carga; Eren se transforma.
+T404 · Shingeki · Shiganshina · Super Saiyajin Blue; derriba al Acorazado con dos dedos. Eren se transformó igual.

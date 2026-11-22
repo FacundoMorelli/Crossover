@@ -1,13 +1,13 @@
 {
-  "turno": 403,
+  "turno": 404,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · día de la Operación de recuperación de Wall Maria",
   "hora": "10:43",
   "edad": 18,
   "nivel": 25,
-  "exp": 176090,
+  "exp": 176490,
   "exp_siguiente_nivel": 195000,
-  "fragmentos": 172940,
+  "fragmentos": 172965,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -46,7 +46,7 @@
     "energia": 240,
     "control": 239
   },
-  "energia_actual_pct": 88,
+  "energia_actual_pct": 85,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -883,6 +883,13 @@
       "mundo": "shingeki",
       "quien": "Bertholdt Hoover (Colosal), inconsciente en forma humana, amordazado",
       "turno": 403,
+      "fragmentos": 25,
+      "exp": 400
+    },
+    {
+      "mundo": "shingeki",
+      "quien": "Reiner Braun (Acorazado): golpe de dos dedos en Super Saiyajin Blue; armadura del pecho hecha pedazos, titán derrumbado; Reiner inconsciente en la nuca",
+      "turno": 404,
       "fragmentos": 25,
       "exp": 400
     }

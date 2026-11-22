@@ -8,3 +8,5 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T404 · se transforma (ya se había mordido) aunque Facundo le dice que no hace falta; ve a Facundo derribar a Reiner con dos dedos.
