@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T184 · 13:45 · Se queda en el desierto con los brazos cruzados; después sigue a Goku, de mala gana.
 - T182 · 13:43 · No puede creer lo que ve.
 - T181 · 13:42 · Llega con Goku, sin la M. Ve a Facundo charlando con Buu.
 - T179 · 13:08-13:38 · Pelea contra Goku en SSJ2. Se frenan al sentir el despertar de Buu.

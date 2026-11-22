@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T184 · 13:45-14:05 · Sigue a Facundo y a Buu volando, por curiosidad. Aterriza en las gradas.
 - T182 · 13:43 · Se ríe al ver a Buu comer golosinas.
 - T181 · 13:42 · Llega volando con Vegeta; aterrizan a 30 m. Ven a Facundo hablando con Buu.
 - T179 · 13:08-13:38 · Pelea contra Majin Vegeta en SSJ2 en una zona rocosa al sur. Parejo. Se frenan cuando sienten el despertar de Buu.
