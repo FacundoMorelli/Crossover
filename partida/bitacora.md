@@ -138,3 +138,4 @@ T136 · Bleach · 19/07 · Ichigo vence a Jidanbō; la puerta se levanta: aparec
 T137 · Bleach · 19/07 · Línea entre Gin y Jidanbō: salva el brazo del gigante. Gin libera Shinsō hacia Ichigo.
 T138 · Bleach · 19/07 · Boogie Woogie con Ichigo; recibe Shinsō con Sakaime y lo empuja 40 m. Misión de copia: Gin.
 T139 · Bleach · 19/07 · Entra al Seireitei por la Puerta Blanca sin que nadie lo vea. Solo con Kase.
+T140 · Bleach · 19/07 · Se pone un shihakushō en un depósito del 7.º Escuadrón sin ser visto. Alerta de intrusos.

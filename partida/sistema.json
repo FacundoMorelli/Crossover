@@ -1,5 +1,5 @@
 {
-  "turno": 139,
+  "turno": 140,
   "mundo_actual": "bleach",
   "fecha_local": "19 de julio (año del canon, ~2001)",
   "hora": "Sociedad de Almas · mediodía",
@@ -137,6 +137,14 @@
       "objeto": "Hōgyoku (de Urahara)",
       "origen": "bleach, extraído del alma de Rukia el 29/06 23:40 (T114)",
       "nota": "Late, como si pensara. Fuera de todos los mundos: inaccesible para Aizen y para cualquiera."
+    },
+    {
+      "objeto": "Sobretodo negro sin manga, uniforme de Jujutsu, ropa propia",
+      "origen": "guardada al ponerse el shihakushō (T140)"
+    },
+    {
+      "objeto": "Shihakushō (uniforme de Shinigami) — puesto",
+      "origen": "bleach, tomado de un depósito de ropa del 7.º Escuadrón (T140)"
     }
   ],
   "copias": [
