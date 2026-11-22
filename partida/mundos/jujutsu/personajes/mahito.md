@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T22 · 23:56 · Facundo lo marca otra vez (Marca III, estado: congelado) y se va escaleras arriba.
 - T21 · 23:55 · Facundo activa la Marca II desde el escalón: Mahito vuelve al instante a estar congelado entero, con la misma grieta. La Marca se consume.
 - T20 · 23:51-23:55 · Facundo lo marca (Marca II, estado: congelado). Descansa. A los cuatro minutos Mahito rompe el hielo inflándose desde adentro; queda con el número II en el pecho. Ya no sonríe del todo.
 - T19 · 23:51 · Facundo corta a sus tres transfigurados y lo congela entero con Echo. Queda como estatua de hielo; el hielo empieza a crujir desde adentro.

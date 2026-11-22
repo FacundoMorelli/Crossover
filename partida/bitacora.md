@@ -20,3 +20,4 @@ T18 · Jujutsu · 23:50 · Esquiva; Escarcha Lunar congela el brazo de Mahito; s
 T19 · Jujutsu · 23:51 · Corta a tres transfigurados (+90 EXP, +3 F). Congela a Mahito entero con Escarcha Lunar. Ojo azul ciego temporalmente.
 T20 · Jujutsu · 23:55 · Marca II sobre Mahito congelado. Descansa 4 min. Mahito rompe el hielo.
 T21 · Jujutsu · 23:55 · Activa la Marca II: Mahito vuelve a quedar congelado al instante. Marca consumida.
+T22 · Jujutsu · 23:56 · Marca III sobre Mahito congelado. Sube al borde. Ve a Nanami desplomado junto a Yuji y Megumi; Yuji grita.

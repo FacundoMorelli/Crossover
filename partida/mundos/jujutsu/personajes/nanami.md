@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: confianza incipiente; lo trata como a un joven al que no quiere ver morir.
 ENCUENTROS:
+- T22 · 23:56 · Facundo lo ve desde el borde de la estación: llegó a la losa de Megumi y se desplomó; Yuji grita su nombre.
 - T16 · 23:49 · Facundo le pide que vaya con Yuji y se planta entre Mahito y la escalera. Nanami le avisa que solo Itadori puede dañar el alma de Mahito, le ordena sobrevivir y sube la escalera rota hacia el norte.
 - T13 · 23:48 · Mahito sale del túnel. Nanami se pone en guardia.
 - T12 · 23:47 · Facundo le confirma que era Yuji y que Megumi vive. Nanami decide ir al centro; da dos pasos y casi cae.
@@ -20,4 +21,4 @@ DIÁLOGOS CLAVE:
 - T10: "Gracias. Ahora, ¿quién es usted?"
 QUÉ SABE DE FACUNDO: su aspecto, que pelea con dos espadas de fuego y hielo (T10), su nombre Facundo y que dice venir de parte de Itadori (T11).
 QUÉ PODERES DE FACUNDO VIO: las espadas Rift (corte quemado) y Echo (corte congelado), T10.
-ESTADO: gravemente quemado (mitad izquierda), ojo izquierdo inutilizado. Subiendo hacia el campo gris para ir con Yuji y Megumi. Al límite.
+ESTADO: llegó a la losa con Yuji y Megumi y se desplomó. Vivo. Al límite.

@@ -1,8 +1,8 @@
 {
-  "turno": 21,
+  "turno": 22,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:55",
+  "hora": "23:56",
   "edad": 18,
   "nivel": 1,
   "exp": 400,
@@ -26,7 +26,7 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 56,
+  "energia_actual_pct": 55,
   "eclipse": {
     "maestria": 33,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo ardiendo leve; ojo azul: vuelve a ver formas y luces, borroso",
+  "ojos": "ojo rojo ardiendo leve; ojo azul borroso, mejorando",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -66,6 +66,11 @@
           "n": "I",
           "sobre": "Megumi Fushiguro (estado grabado: muy herido, inconsciente, 23:36 del 31/10)",
           "vence": "01/11/2018 23:36"
+        },
+        {
+          "n": "III",
+          "sobre": "Mahito (estado grabado: congelado entero, 23:56 del 31/10)",
+          "vence": "01/11/2018 23:56"
         }
       ]
     }
@@ -308,6 +313,6 @@
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
     "reloj_nanami": "Sukuna devuelve el control a Yuji ≈23:30. Yuji vaga por la zona arrasada; encuentra a Nanami ≈00:10 al sur de la estación (cerca de Dogenzaka/salida sur). Mahito está ahí. Si nadie interviene, Nanami muere ≈00:12.",
     "mahito_posicion": "Mahito salió del túnel (T13). Vio a Facundo cortar a sus transfigurados. Curioso por él. Su alma: Mahito intenta 'ver' la forma del alma de Facundo y no puede leerla bien (Velo: no mide poder); le resulta rara.",
-    "mahito_estado": "Recongelado por la Marca II (T21). Adentro, por primera vez esta noche, siente algo parecido a la inquietud: no entiende la técnica. Todavía no es miedo. Romperá el hielo en ~4 min (≈23:59)."
+    "mahito_estado": "Congelado (Marca II activada T21), marcado otra vez con III (T22). Romperá el hielo ≈23:59-00:00. Inquieto."
   }
 }

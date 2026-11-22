@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: acaba de verlo; desconfianza leve, culpa enorme.
 ENCUENTROS:
+- T22 · 23:56 · Nanami llega a la losa y cae; Yuji lo sostiene y grita su nombre. Facundo lo ve desde ~200 m.
 - T9 · 23:37 · Facundo le pide que se quede con Megumi. Yuji acepta; le pide que si encuentra a Nanamin, le diga que Fushiguro está vivo. Se queda en la losa.
 - T8 · 23:36 · Ve a Facundo marcar a Megumi. Facundo pregunta por Nanami. Yuji: no sabe dónde está; lo vio por última vez cerca de la estación, antes de desmayarse con Choso; cree que estaba con Maki y el viejo Zen'in.
 - T7 · 23:35 · Facundo le dice que sí vio y que no sabe dónde está. Yuji le dice que es Shibuya, que se vaya, que lo que pasó fue por su culpa. Ve a Megumi y corre hacia él.
