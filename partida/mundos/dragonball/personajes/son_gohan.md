@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo negro corto, ropa de pelea violeta tipo Piccolo, rasguños.
 PERSONALIDAD: amable, estudioso, oxidado en pelea.
 ENCUENTROS:
+- T275 · días 6-9 · Entrena con Videl y Facundo. Lo despide en el templo.
 - T220 · ~13:48 · Le dice a Kibito dónde está Facundo (cañón del norte).
 - T215 · 07:30 · Se ríe de Mr. Satán. Le pregunta a Facundo qué va a hacer hoy con Buu y con Vegeta.
 - T211 · 00:40 · Le explica a Milk que Facundo entrenó con papá todo el día.
@@ -19,6 +20,7 @@ ENCUENTROS:
 
 ESTADO: frente a la nave, recuperado por Kibito.
 DIÁLOGOS CLAVE:
+- T275: "Gracias por todo. Por papá, también."
 - T215: "Bienvenido al club." / "¿Y qué vas a hacer hoy? Shin sigue allá con Buu... y Vegeta no volvió a la Corporación Cápsula, siento su ki en las montañas del norte."
 - T209: "Si no tienes dónde dormir... la casa es chica, pero mamá siempre cocina de más."
 - T196: "¡Papá! ¿Qué pasó acá? ¡Parece que cayó un meteorito!"

@@ -15,6 +15,7 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- Días 5-9 · (T275) Facundo entrena a Videl (y Gohan). Despedidas. Día 8: última pelea con Vegeta. Día 9: despedida en el Templo Sagrado.
 - Día 4, 10:46 · (T257) Facundo mata a Dabura en su castillo. Piccolo y Krilin vuelven a ser de carne.
 - Día 1, tarde · (dato de T248) Dabura, libre, se va al Mundo de los Demonios. Piccolo y Krilin siguen petrificados en el risco.
 - Día 4, 09:25 · (T246) Facundo y Vegeta salen de la Habitación del Tiempo tras un año adentro.

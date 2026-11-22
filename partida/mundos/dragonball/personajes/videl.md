@@ -4,6 +4,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17 (no opción romántica)
 FÍSICO: coletas negras, ropa de pelea, vendas en la cara (Spopovich la golpeó).
 PERSONALIDAD: valiente, directa, justiciera.
 ENCUENTROS:
+- T275 · días 5-9 · Entrena con Facundo cada mañana; Gohan se suma desde el día 6. Mucho más fuerte: vuela sola, controla el ki, ráfagas. Lo despide en el templo.
 - T274 · 20:42 · En el balcón: agradece por su padre; sabe que Facundo hizo todo (deducción). Le pide que la entrene los días que le quedan.
 - T273 · 20:40 · Después de la cena, alcanza a Facundo en el pasillo y le pide hablar en el balcón.
 - T272 · 20:18 · Se relaja al escuchar que Facundo rechaza. Lo mira distinto.
@@ -14,6 +15,7 @@ ENCUENTROS:
 - T186 · 14:08 · Ve a su padre abrazado por Buu. No sabe si reírse o llorar.
 - T185 · 14:06 · Se pone delante de su padre. Desconfía de Facundo; lo deja hablar con él a tres metros de distancia.
 DIÁLOGOS CLAVE:
+- T275: "La próxima vez que vuelvas, te gano."
 - T274: "No soy tonta. Mi papá no puede ni con una cucaracha voladora. Fuiste tú. Todo." / "En el torneo, ese gordo, Spopovich, casi me mata y no pude hacer nada. Y cuando le dispararon a mi papá, yo no estaba." / "Entréname. Los días que te quedan."
 - T273: "Oye. ¿Podemos hablar? Afuera."
 - T271: "Papá, no." / "Él no es tu discípulo y lo sabes."

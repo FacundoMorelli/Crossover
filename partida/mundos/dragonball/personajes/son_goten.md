@@ -7,6 +7,7 @@ FÍSICO: niño, pelo negro en punta igual al de Goku, ropa de entrenamiento.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, tímido con desconocidos al principio, inocente; adora a su hermano y recién conoce a su papá.
 RELACIÓN CON FACUNDO: le cae bien (le dejó tocar al gato).
 ENCUENTROS:
+- T275 · día 7 · Llora en la despedida del Monte Paoz; le pide que le dé un beso a Kase de su parte. Va al templo el día 9.
 - T216 · 07:35 · Quiere ir con Facundo y Kase; Milk no lo deja.
 - T214 · 07:20 · Le da pan con manteca a Kase a escondidas de Milk.
 - T213 · 07:10 · Golpea la puerta de la casita: el desayuno está listo y quiere ver a Kase.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T204 · 20:04 · Se acerca a Kase y le pregunta a Facundo si lo puede tocar.
 - T203 · 20:00 · Llega con Goku y Gohan al páramo. Ve a Buu dormido y se esconde detrás de su papá. Mira a Kase con curiosidad.
 DIÁLOGOS CLAVE:
+- T275: "¡Chau, Kase! ¡Vuelve pronto!"
 - T213: "¡Señor Facundo! ¡Mamá dice que el desayuno está listo! ...¿Kase está despierto?"
 - T206: "¡Kase! ¡Hola, Kase!"
 - T205: "¡Es suavecito! ¡Hermano, es suavecito!" / "¿Cómo se llama?"

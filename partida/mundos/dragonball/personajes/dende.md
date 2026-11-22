@@ -7,11 +7,13 @@ FÍSICO: namekiano verde, antenas, túnica blanca con el símbolo de Kami, bast�
 PERSONALIDAD Y FORMA DE HABLAR: amable, educado, tímido, respetuoso.
 RELACIÓN CON FACUNDO: agradecido.
 ENCUENTROS:
+- T275 · día 9 · Organiza la despedida en el templo.
 - T248 · 09:30 · Facundo le pregunta qué conocer. Le cuenta lo de Piccolo y Krilin de piedra; sugiere Karin, Roshi, Bulma.
 - T246 · día 4 09:25 · Cuidó a Kase un día. Kase no se movió de la puerta.
 - T245 · 09:25 · Se queda cuidando a Kase mientras Facundo entra en la Habitación.
 - T244 · 09:15 · Recibe a Facundo y a Vegeta. Los cura. Dice que vio desde el templo lo que pasó con Buu.
 DIÁLOGOS CLAVE:
+- T275: "Siempre vas a ser bienvenido aquí."
 - T248: "El señor Piccolo y Krilin... siguen de piedra. En el risco del desierto, donde estaba la nave." / "Si se rompen, mueren."
 - T247: "No se movió de la puerta en todo el día. Ni para comer. Solo de noche probó un poquito."
 - T244: "Lo vi todo desde aquí. Gracias por salvar la Tierra." / "Quédense quietos, por favor."

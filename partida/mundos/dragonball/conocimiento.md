@@ -25,6 +25,7 @@
 - Goku · T178 · Facundo le pidió ayuda. Cree que salvó a la gente del torneo (deducción: la ráfaga iba hacia allá).
 - Vegeta, Goku · T177 · lo ven en el risco: joven de pelo blanco y azul con un gato; no sienten su ki (Velo).
 ## QUIÉN VIO QUÉ PODERES
+- Videl, Gohan · T275 · días de entrenamiento: manejo del ki, vuelo, Forma Cenit (en demostraciones).
 - Demonios del castillo · T257 · Facundo mata a Dabura con dos espadas cruzadas. (Información del Mundo de los Demonios; no llega a la Tierra salvo que alguien la cruce.)
 - Piccolo, Krilin · T257 · ven a Facundo en Forma Cenit (x10) salir de una línea brillante en el aire.
 - Dabura y los demonios de su castillo · T256 · Forma Cenit (x10).

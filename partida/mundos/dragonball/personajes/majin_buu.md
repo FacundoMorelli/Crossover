@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T275 · día 8 · Le regala una bolsa de caramelos para el viaje. Otra vez el meñique.
 - T273 · 20:20 · Facundo le dice que son muchos dulces pero que prometió volver. Se acuerda del meñique. Feliz.
 - T272 · 20:18 · Se entristece: "meses".
 - T271 · 20:00 · Cena; dejó "un poquito" para Facundo (media torta).
@@ -36,6 +37,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T275: "¡Meñique! ¡Del gato vuelve!"
 - T273: "¡Meñique! ¡Del gato prometió con meñique! ¡Entonces vuelve!"
 - T272: "¿Meses? ...¿Cuántos dulces son meses?"
 - T270: "¡A las ocho! ¡Buu va a comer TODO! ...No, Buu deja un poquito para del gato."

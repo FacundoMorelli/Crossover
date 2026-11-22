@@ -273,3 +273,4 @@ T271 · Dragon Ball · 20:15 · Cena en la mansión. Satán le propone ser su di
 T272 · Dragon Ball · 20:18 · Rechaza ser discípulo oficial: se va y puede tardar meses. Buu triste.
 T273 · Dragon Ball · 20:40 · A Buu: 'muchos dulces, pero prometí volver'. Videl pide hablar en el balcón.
 T274 · Dragon Ball · 20:42 · Videl en el balcón: le pide que la entrene.
+T275 · Dragon Ball · día 9 19:00 · Simula: entrena a Videl, despedidas, última pelea con Vegeta (gana, +25.000 F). Templo: listo para abrir la puerta.

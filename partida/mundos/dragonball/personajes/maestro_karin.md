@@ -5,6 +5,7 @@ FÍSICO: gato blanco antropomórfico, chiquito, con bastón de madera, ojos entr
 PERSONALIDAD Y FORMA DE HABLAR: sabio, tranquilo, un poco pícaro y tacaño con las semillas.
 RELACIÓN CON FACUNDO: le cae bien.
 ENCUENTROS:
+- T275 · día 9 · Despedida en la torre.
 - T269 · 13:25 · Facundo le agradece y se despide.
 - T268 · 13:18 · Facundo le quita el jarrón en un parpadeo. Le revela que el Agua Sagrada es agua común. Le regala el jarrón y una semilla.
 - T267 · 13:17 · Facundo dice que vino a conocerlo. Halagado. Le propone la prueba del jarrón, por diversión.

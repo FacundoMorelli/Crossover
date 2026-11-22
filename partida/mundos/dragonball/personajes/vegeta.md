@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T246) un año de convivencia y peleas: rival respetado, casi un amigo, aunque nunca lo diría. (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T275 · día 8 · Última pelea en el cañón del norte: Facundo gana. Día 9: aparece en el borde del templo, apartado, sin acercarse.
 - T248 · 09:28 · Facundo le promete avisar antes de irse. Se va a la Corporación Cápsula.
 - T247 · 09:27 · Al salir, se prepara para ir a la Corporación Cápsula. Pregunta si Facundo se va a despedir antes de irse.
 - T246 · un año adentro (día 3 09:25 → día 4 09:25) · Entrena con Facundo en la Habitación del Tiempo. Perfecciona el SSJ2 (mucho más fuerte, sin forma nueva). Pelean casi todos los días; Facundo lo supera hacia el final. Agota sus dos días.
@@ -49,6 +50,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T275: "La próxima." / "...No te mueras por ahí, insecto."
 - T247: "Cuando te vayas... no te vayas sin avisar. Quiero una última pelea."
 - T246: "Otra vez." (cada día, durante un año) / "No te creas nada. El año que viene te alcanzo." / "...Ha sido un buen año."
 - T245: "Aquí no hay piedras."

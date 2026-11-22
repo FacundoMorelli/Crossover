@@ -5,6 +5,7 @@ FÍSICO: namekiano alto, verde, antenas, turbante y capa blanca.
 PERSONALIDAD Y FORMA DE HABLAR: serio, seco, frío por fuera; mentor de Gohan.
 RELACIÓN CON FACUNDO: ninguna (no lo conoce).
 ENCUENTROS:
+- T275 · día 9 · Lo despide en el templo, en silencio, de brazos cruzados.
 - T259 · 10:52 · Agradece seco a Facundo y se va al Templo Sagrado.
 - T258 · 10:50 · Facundo le resume lo de Buu y Dabura. Baja la guardia. Siente a Gohan y Goten bien. Pregunta por qué no siente a Goku.
 - T257 · 10:46 · Vuelve a ser de carne al morir Dabura. Ve a un desconocido transformado frente a él; se pone en guardia.

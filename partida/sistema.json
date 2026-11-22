@@ -1,13 +1,13 @@
 {
-  "turno": 274,
+  "turno": 275,
   "mundo_actual": "dragonball",
-  "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
-  "hora": "20:42",
+  "fecha_local": "Año 774 · día 9 (ocho días después del 25.º Torneo)",
+  "hora": "19:00",
   "edad": 18,
   "nivel": 22,
-  "exp": 139810,
+  "exp": 144810,
   "exp_siguiente_nivel": 145000,
-  "fragmentos": 146357,
+  "fragmentos": 171357,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -230,6 +230,18 @@
     {
       "objeto": "Jarrón del 'Agua Sagrada' (agua común; regalo de Karin)",
       "origen": "dragonball, T268"
+    },
+    {
+      "objeto": "Dibujo de Kase hecho por Marron (crayones)",
+      "origen": "dragonball, T275"
+    },
+    {
+      "objeto": "Táper de comida de Milk",
+      "origen": "dragonball, T275"
+    },
+    {
+      "objeto": "Bolsa de caramelos de Buu",
+      "origen": "dragonball, T275"
     }
   ],
   "copias": [
@@ -685,6 +697,14 @@
       "fragmentos": 50000,
       "exp": 8000,
       "nota": "Escala 150+. No pagó doble: en Forma Cenit Facundo era más fuerte."
+    },
+    {
+      "mundo": "dragonball",
+      "quien": "Vegeta (SSJ2 perfeccionado), última pelea de despedida, en serio",
+      "turno": 275,
+      "fragmentos": 25000,
+      "exp": 5000,
+      "nota": "Escala 150+ a la mitad por ser compañero."
     }
   ],
   "viaje": {
@@ -715,7 +735,9 @@
       },
       "dragonball": {
         "llegada": "Año 774, día del 25.º Torneo, mediodía",
-        "dias_transcurridos": 0
+        "salida": "Año 774, día 9, ~19:00 (pendiente de cruzar)",
+        "dias_transcurridos_al_salir": 8,
+        "nota": "+1 año dentro de la Habitación del Tiempo (no cuenta para el reloj del mundo)"
       }
     },
     "puerta_abierta": true,
