@@ -232,3 +232,4 @@ T230 · Dragon Ball · 14:07 · Shin y Kibito se van. Llega la prensa a la mansi
 T231 · Dragon Ball · 14:10 · Mr. Satán dice que fue su Puñetazo Dinamita. Periodista le pone el micrófono a Facundo.
 T232 · Dragon Ball · 14:12 · En vivo: 'lo hizo todo Mr. Satán'. Satán anuncia fiesta e invita a Facundo.
 T233 · Dragon Ball · 14:30 · Se queda a la fiesta. Habitación en la mansión. Videl entra a preguntar qué pasó de verdad.
+T234 · Dragon Ball · 19:40 · Videl no le cree; se va. Duerme. Mayordomo: fiesta a las 20:00.
