@@ -1,5 +1,5 @@
 {
-  "turno": 55,
+  "turno": 56,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
   "hora": "05:58",
@@ -15,16 +15,16 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 25,
+  "puntos_de_stat_sin_asignar": 0,
   "stats": {
-    "fuerza": 40,
-    "velocidad": 43,
-    "resistencia": 39,
-    "tecnica": 42,
-    "percepcion": 41,
-    "voluntad": 41,
-    "energia": 42,
-    "control": 41
+    "fuerza": 43,
+    "velocidad": 46,
+    "resistencia": 43,
+    "tecnica": 45,
+    "percepcion": 44,
+    "voluntad": 44,
+    "energia": 45,
+    "control": 44
   },
   "energia_actual_pct": 72,
   "eclipse": {
