@@ -1,13 +1,13 @@
 {
-  "turno": 252,
+  "turno": 253,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
-  "hora": "10:30",
+  "hora": "10:32",
   "edad": 18,
   "nivel": 22,
   "exp": 131810,
   "exp_siguiente_nivel": 145000,
-  "fragmentos": 100357,
+  "fragmentos": 96357,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -231,6 +231,10 @@
     {
       "objeto": "Caramelo de Buu (envuelto en papel rosado)",
       "origen": "dragonball, regalo de Buu (T237)"
+    },
+    {
+      "objeto": "Llave de umbral (usada: paso abierto al Mundo de los Demonios; queda la vuelta)",
+      "origen": "tienda, T253"
     }
   ],
   "copias": [

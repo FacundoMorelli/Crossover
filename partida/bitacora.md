@@ -251,3 +251,4 @@ T249 · Dragon Ball · 10:15 · En el risco: Piccolo y Krilin de piedra. Grieta 
 T250 · Dragon Ball · 10:16 · Marca I de la Manecilla Inversa sobre la estatua de Krilin.
 T251 · Dragon Ball · 10:30 · Marca II a Piccolo. Busca a Dabura: no está en la Tierra. Círculo con símbolos en la nave.
 T252 · Dragon Ball · 10:30 · Abre la tienda. Lotes de nivel 15 y 20 disponibles.
+T253 · Dragon Ball · 10:32 · Llave de umbral (4.000 F). Mundo de los Demonios. Patrulla de demonios.
