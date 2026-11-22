@@ -1,11 +1,11 @@
 {
-  "turno": 87,
+  "turno": 88,
   "mundo_actual": "bleach",
   "fecha_local": "23 de junio (año del canon, ~2001)",
-  "hora": "20:43",
+  "hora": "20:44",
   "edad": 18,
   "nivel": 6,
-  "exp": 10900,
+  "exp": 11000,
   "exp_siguiente_nivel": 13500,
   "fragmentos": 761,
   "plata_local": {
@@ -31,7 +31,7 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 58,
+  "energia_actual_pct": 56,
   "eclipse": {
     "maestria": 38,
     "partes_desbloqueadas": [
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 30,
+      "maestria": 31,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -111,7 +111,7 @@
     {
       "nombre": "Sakaime",
       "tipo": "zanpakutō (Don de Mundo Bleach)",
-      "estilo_maestria": 30
+      "estilo_maestria": 31
     }
   ],
   "inventario_dimensional": [

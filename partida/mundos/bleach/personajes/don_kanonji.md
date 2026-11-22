@@ -7,8 +7,10 @@ FÍSICO: alto, bigote, lentes oscuros, traje blanco de cuello alto, bastón.
 PERSONALIDAD Y FORMA DE HABLAR: teatral, exagerado, grita "¡Bwahahaha!", buena intención.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T88 · 20:44 · Un joven salta desde el primer piso en pleno vivo, corta el aire frente a él con una katana y le arranca el bastón. Kanonji queda atónito.
 - T87 · 20:43 · Facundo lo ve desde la baranda del primer piso: le hunde el bastón al espíritu atado frente a cámaras.
-DIÁLOGOS CLAVE: —
-QUÉ SABE DE FACUNDO: nada.
+DIÁLOGOS CLAVE:
+- T88: "¡¿Q-quién eres tú, jovencito?! ¡¿Un enviado de los espíritus?!"
+QUÉ SABE DE FACUNDO: lo vio en persona (aspecto, katana, gato). Sintió que algo cambió en el aire cuando cortó (es médium real, débil).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: grabando su especial en el hospital.
