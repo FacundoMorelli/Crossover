@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T117 · 19:55 · En la azotea junto a Facundo. Ve el Cero cargándose hacia ellos.
 - T116 · 03/07 · Corre detrás de Ichigo con el celular avisando posiciones. Ve abrirse la Garganta.
 - T115 · 29/06 23:49 · Facundo le dice que no hace falta que le agradezca. Ella le contesta que igual lo va a hacer, algún día, cuando él no lo espere. 30/06-03/07: su reiatsu crece de a poco; vuelve a ver mejor a los hollows de lejos.
 - T114 · 23:48 · Urahara la pasa a un gigai nuevo, común. Se sienta en el círculo y siente, por primera vez en semanas, una chispa de reiatsu propio.

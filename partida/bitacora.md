@@ -115,3 +115,4 @@ T113 · Bleach · 29/06 23:40 · Simula: entrenamientos (+450 EXP, +6 F). Extrac
 T114 · Bleach · 23:48 · Guarda el Hōgyoku. Rukia en gigai nuevo siente su reiatsu volver.
 T115 · Bleach · 03/07 16:25 · Simula días tranquilos. Uryū se presenta, desafía a Ichigo y Facundo y rompe un señuelo.
 T116 · Bleach · 03/07 19:52 · Caza 112 hollows y gana la competencia. COPIA Quincy. NIVEL 7. Se abre la Garganta: Menos Grande.
+T117 · Bleach · 19:55 · Observa: Ichigo corta el pie del Menos; Uryū dispara. El Menos carga un Cero hacia la azotea de Facundo y Rukia.
