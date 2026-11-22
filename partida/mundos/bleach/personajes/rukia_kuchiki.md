@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: acaba de verlo; curiosidad y desconfianza.
 ENCUENTROS:
+- T97 · 21:20 · Facundo pide hablar a solas con Urahara. Rukia se ofende y se va a casa de Ichigo; le dice a Facundo que mañana lo busca.
 - T96 · 21:19 · Facundo sugiere que el reiatsu de Ichigo era mayor y se llevó más de lo que ella tenía. Rukia lo considera posible: el poder de Ichigo creció a una velocidad absurda.
 - T95 · 21:17 · Corrige a Urahara: no se los quitaron, los dio ella. Admite que sus poderes no vuelven.
 - T94 · 21:15 · Ve la zanpakutō de Facundo de cerca. Se queda helada.
@@ -15,6 +16,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T97: "Bien. Secretos entre hombres raros." / "Mañana te busco. No te vayas de la ciudad."
 - T96: "...Es posible. Yo solo quería darle la mitad. Pero el reiatsu de Ichigo es... no es normal."
 - T95: "Se los di yo. Nadie me los quitó." / "Deberían haber vuelto hace semanas. No vuelven."
 - T94: "Una zanpakutō... en manos de un humano que nadie entrenó. Como Ichigo."

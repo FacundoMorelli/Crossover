@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: curiosidad científica intensa.
 ENCUENTROS:
+- T97 · 21:21 · Acepta hablar a solas. Manda a Tessai al frente. Quedan solos en la trastienda (el gato negro escucha desde el fondo, sin que Urahara lo diga).
 - T96 · 21:19 · Escucha la teoría de Facundo. Dice 'una teoría interesante' sin confirmar ni negar. Le devuelve el turno.
 - T95 · 21:17 · Explica que Rukia le transfirió sus poderes a Ichigo, que es un delito grave en la Sociedad de Almas y que no se recuperan. Pregunta por qué le interesa Rukia.
 - T94 · 21:15 · Facundo le dice el nombre (Sakaime) y le muestra la espada. Urahara la mira sin tocarla: confirma que es una zanpakutō verdadera, con alma propia. Le da el turno de preguntar.
@@ -14,6 +15,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T97: "Claro que sí. Tessai-san, ¿cerraría la tienda?" / "Ahora sí. Lo escucho."
 - T96: "Una teoría muy interesante, Facundo-san." / "Su turno otra vez."
 - T95: "Transferir poderes a un humano es uno de los crímenes más graves de la Sociedad de Almas. Si la encuentran... bueno." / "Mi pregunta: ¿por qué le interesa tanto Kuchiki-san?"
 - T94: "Sakaime. La línea que separa una cosa de otra." / "Es una zanpakutō de verdad. Tiene alma. Y usted no es Shinigami. ...Esta noche no voy a dormir." / "Su turno."

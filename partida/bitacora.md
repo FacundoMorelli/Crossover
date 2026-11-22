@@ -95,3 +95,4 @@ T93 · Bleach · 21:14 · Trato con Urahara. Él explica el mundo y pregunta el 
 T94 · Bleach · 21:15 · Muestra Sakaime. Urahara confirma zanpakutō real.
 T95 · Bleach · 21:17 · Pregunta por Rukia. Urahara explica la transferencia de poderes; pregunta por qué le interesa Rukia.
 T96 · Bleach · 21:19 · Teoría: el reiatsu de Ichigo se llevó más de lo que Rukia tenía. Urahara no confirma.
+T97 · Bleach · 21:21 · Pide hablar a solas con Urahara. Rukia se va.
