@@ -10,3 +10,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 ENCUENTROS:
 - T404 · se transforma (ya se había mordido) aunque Facundo le dice que no hace falta; ve a Facundo derribar a Reiner con dos dedos.
+- T421 · Facundo le dice que matar a todos no sirve, que busquen aliados afuera. Duda: "¿Y si nos odian igual?"

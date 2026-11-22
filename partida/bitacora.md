@@ -419,3 +419,4 @@ T417 · Shingeki · sótano · Le describe el mar a Eren. Armin pregunta por el 
 T418 · Shingeki · sótano · Ofrece llevarlos a ver el mundo en medio segundo. Erwin pregunta por la vuelta y la pared.
 T419 · Shingeki · sótano · "Así es." Seis de la Legión le ponen la mano en la espalda.
 T420 · Shingeki · costa · Teletransporta a la Legión al mar. Eren pregunta si serán libres matando a todos los de afuera.
+T421 · Shingeki · costa · Le dice a Eren que busquen aliados afuera. Erwin lo considera. Eren pregunta qué pasa si los odian igual.
