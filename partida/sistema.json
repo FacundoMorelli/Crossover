@@ -1,8 +1,8 @@
 {
-  "turno": 28,
+  "turno": 29,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:02",
+  "hora": "00:08",
   "edad": 18,
   "nivel": 1,
   "exp": 700,
@@ -26,7 +26,7 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 41,
+  "energia_actual_pct": 45,
   "eclipse": {
     "maestria": 33,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo sangra otra vez, arde fuerte; ojo azul borroso",
+  "ojos": "ojo rojo arde, dejó de sangrar; ojo azul casi bien, leve neblina",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -122,6 +122,13 @@
       "mision": "Pelear codo a codo con Yuji Itadori hasta que Mahito caiga.",
       "dificultad": "MEDIA",
       "emitida": "T26"
+    },
+    {
+      "poder": "Técnica del Muñeco de Paja (Resonancia, Horquilla) — Nobara Kugisaki",
+      "mundo": "jujutsu",
+      "mision": "Que Nobara Kugisaki salga de Shibuya con sus dos ojos.",
+      "dificultad": "MEDIA",
+      "emitida": "T29"
     }
   ],
   "misiones_de_copia_rechazadas": [],
