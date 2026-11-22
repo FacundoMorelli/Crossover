@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: desconfianza profesional que se afloja; lo considera útil.
 ENCUENTROS:
+- T13 · 23:48 · Mahito sale del túnel. Nanami se pone en guardia.
 - T12 · 23:47 · Facundo le confirma que era Yuji y que Megumi vive. Nanami decide ir al centro; da dos pasos y casi cae.
 - T11 · 23:46 · Facundo se presenta y dice que lo manda Yuji; corta a los cinco transfigurados. Nanami baja el machete y pregunta por Itadori.
 - T10 · 23:45 · Facundo salta y corta al transfigurado de tres brazos que le caía por el lado ciego. Nanami le pregunta quién es.
