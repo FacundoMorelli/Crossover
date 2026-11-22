@@ -7,6 +7,7 @@ FÍSICO: pelo verde oscuro atado, anteojos (rotos), cuerpo atlético. Ahora: ven
 PERSONALIDAD Y FORMA DE HABLAR: dura, sarcástica, orgullosa, protectora con los suyos.
 RELACIÓN CON FACUNDO: interés competitivo; le propuso un duelo.
 ENCUENTROS:
+- T63 · 06:21 · Facundo acepta el duelo para cuando se recupere.
 - T62 · 06:20 · Facundo confirma que es él. Yuji le cuenta que salvó a Nanami y a Megumi. Maki le desafía a un duelo cuando se recupere.
 - T61 · 06:18 · Segunda carpa médica del puesto. Consciente, vendada. Naobito Zen'in en la camilla de al lado, inconsciente y grave. Inumaki la encuentra. Facundo la tasa.
 DIÁLOGOS CLAVE:

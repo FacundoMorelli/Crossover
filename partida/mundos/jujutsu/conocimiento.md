@@ -52,6 +52,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Shoko → Yaga (T63, 08:00, informe médico): Facundo llegó cargando a Nanami; su técnica le quema y congela los ojos por dentro.
 - Yuji → Maki e Inumaki (T62, segunda carpa, por gratitud): Facundo salvó a Nanami y a Megumi, ayudó contra Mahito.
 - Rumor del puesto de mando (madrugada 01/11): asistentes y alumnos de Kioto comentan que "un chico de pelo blanco y azul con un gato congeló a la maldición de las costuras y rompió su dominio con un fogonazo". Deformado: algunos dicen que lo mató. Lo escuchó Maki.
 - Yuji → Choso (madrugada 01/11, en el puesto de mando, por confianza): que Facundo lo ayudó contra Mahito, que congela y tiene una técnica de números, y que salvó a Nanami.

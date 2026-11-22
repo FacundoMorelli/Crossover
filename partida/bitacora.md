@@ -61,3 +61,4 @@ T59 · Jujutsu · 06:10 · Onigiris con Yuji y Choso. Llega Inumaki.
 T60 · Jujutsu · 06:11 · Se presenta a Inumaki.
 T61 · Jujutsu · 06:18 · Encuentran a Maki vendada en la segunda carpa. Rumor sobre Facundo circula en el puesto.
 T62 · Jujutsu · 06:20 · Se presenta a Maki. Ella lo desafía a un duelo cuando se recupere.
+T63 · Jujutsu · 08:04 · Acepta el duelo con Maki. Simula: llega Yaga y le pregunta para qué usa su poder.
