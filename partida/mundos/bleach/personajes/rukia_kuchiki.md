@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: más de un siglo (aspecto de adolescente; adulta por edad real — ver regla de romance: aspecto juvenil, NO opción romántica por prudencia).
 FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uniforme del instituto.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
-RELACIÓN CON FACUNDO: desconfianza práctica; quiere usarlo para entrenar a Ichigo.
+RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T112 · 21:08 · Facundo dice que no gana nada, que solo quiere ayudarla. Rukia lo mira largo; acepta la extracción. Pone condiciones: que Ichigo no se entere todavía, y que Facundo se lo devuelva a Urahara si ella se lo pide algún día.
 - T111 · 25/06 20:35-21:05 · Urahara le cuenta todo: el Hōgyoku, que él lo creó, que lo escondió en ella cuando le vendió el gigai, que el gigai la vuelve humana. Rukia lo abofetea. Después escucha el plan: extraerlo y que Facundo lo guarde; sus poderes volverían. Se da vuelta hacia Facundo y le pregunta por qué debería confiarle eso.
 - T110 · 25/06 · Mira el entrenamiento y corrige a Ichigo a gritos. Al atardecer, Tessai le dice que Urahara quiere verla esa noche con Facundo. Manda a Ichigo a casa y va a la tienda.
 - T106 · 15:49 · Facundo acepta entrenar con Ichigo, pero antes va a hablar con Urahara. Rukia fija: mañana después de clases, junto al río.
@@ -22,6 +23,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T112: "Nadie ayuda por nada. ...Pero tú eres raro." / "Está bien. Lo hago. No por ti. Por mí, y porque no quiero que ese idiota pelee solo."
 - T111: "¿Usaste mi alma como caja fuerte?" / "¿Y tú? Te conozco hace dos días. ¿Por qué debería dejar que te lleves algo así? ¿Qué ganas tú?"
 - T110: "¡No con los brazos, idiota! ¡Con el centro!"
 - T106: "Mañana, después de clases. En la orilla del río. No llegues tarde."

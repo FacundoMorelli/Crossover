@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T112 · 21:08 · Rukia acepta. Se levanta del piso. Fija la extracción para la noche del 29/06 en el sótano.
 - T111 · 20:35-21:05 · Le cuenta todo a Rukia. Recibe la bofetada sin moverse. Le pide perdón con una reverencia hasta el piso.
 - T110 · 25/06 20:35 · Recibe a Rukia y a Facundo en la trastienda, sin sombrero, con té servido. Yoruichi presente.
 - T109 · 16:50 · Acuerda apurar: cinco días para preparar la extracción. Mañana a la noche, después del entrenamiento, quiere hablar con Rukia en la tienda; le pide a Facundo que la traiga.
@@ -25,6 +26,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T112: "Cuatro días. La noche del veintinueve, en el sótano."
 - T111: "No tengo excusa. Solo una razón, y no alcanza."
 - T110: "Kuchiki-san. Siéntese, por favor. Le debo una historia."
 - T109: "Cinco días. No puedo hacerlo en menos sin arriesgar su alma." / "Mañana a la noche, tráigala. Se lo voy a contar yo."
