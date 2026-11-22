@@ -277,3 +277,4 @@ T275 · Dragon Ball · día 9 19:00 · Simula: entrena a Videl, despedidas, últ
 T276 · Jujutsu · 17/01/2019 20:10 · VIAJE LIBRE: vuelve a Jujutsu, 73 días después. Shinjuku arrasado. Siente a Yuji a 400 m.
 T277 · Jujutsu · 20:16 · Camina hasta Yuji en la zona arrasada. Yuji lo ve.
 T278 · Jujutsu · 20:20 · Yuji le cuenta: Gojo, Choso, Yuki muertos; Sukuna muerto; Megumi mal; Nanami sin brazo.
+T279 · Jujutsu · 20:23 · Mano en el hombro de Yuji. Llora. '¿Te vas a quedar?'

@@ -83,3 +83,5 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - DIÁLOGO T277: "...¿Facundo?"
 - T278 · 20:20 · Le cuenta a Facundo lo que pasó (resumen). Le tiembla la voz con Choso.
 - DIÁLOGO T278: "No sé si llegaste tarde. No sé si alguien llegó a tiempo." / "Choso... fue aquí. Se puso delante de mí." / "Megumi volvió. Pero no está bien."
+- T279 · 20:23 · Facundo le pone la mano en el hombro. Llora en silencio. Kase le apoya la cabeza en la mejilla. Pregunta si Facundo se va a quedar esta vez.
+- DIÁLOGO T279: "Perdón. No lloré en el entierro." / "¿Te vas a quedar? ¿Esta vez?"
