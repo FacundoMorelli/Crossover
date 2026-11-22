@@ -6,3 +6,4 @@
 - Año 774 · día siguiente al Torneo, 13:57 · Radio y TV: 'un rayo de luz partió la costa de Ciudad Satán desde la mansión del campeón'. Imágenes desde lejos de una figura con alas blancas sobre la mansión. (Público.)
 - Año 774 · día 2, 14:06 · TV en vivo: helicópteros sobre la mansión de Mr. Satán; 'jardín arrasado, un surco hasta el mar'. (Público.)
 - Año 774 · día 2, 14:09 · TV en vivo: Mr. Satán: 'Un monstruo malvado atacó mi casa y lo destruí con mi Puñetazo Dinamita. El surco lo hizo mi puño.' La prensa lo da por cierto. (Público.)
+- Año 774 · día 2, 14:11 · TV en vivo: 'el muchacho del gato' dice que no ayudó, que lo hizo todo Mr. Satán. Mr. Satán lo abraza: 'mi humilde discípulo'. Anuncia una fiesta esta noche en su mansión. (Público.)

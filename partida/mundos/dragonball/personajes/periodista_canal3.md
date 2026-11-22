@@ -4,4 +4,5 @@ FÍSICO: mujer joven, traje rosa, micrófono, muy insistente.
 ENCUENTROS:
 - T231 · 14:10 · Le pone el micrófono a Facundo en vivo: '¿Es usted el muchacho del gato? ¿El discípulo?'
 QUÉ SABE DE FACUNDO: lo vio en TV (T184) y escuchó a Mr. Satán llamarlo 'muchacho del gato, mi discípulo' (T214).
+- T232 · 14:11 · Facundo le dice que no ayudó; pierde interés y vuelve con Mr. Satán.
 ESTADO: bien.

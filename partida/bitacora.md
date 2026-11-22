@@ -230,3 +230,4 @@ T228 · Dragon Ball · 14:02 · 'Me quedo un tiempo y después me voy.' Buu pide
 T229 · Dragon Ball · 14:04 · Meñique con Buu: promete volver. Shin agradece y se despide.
 T230 · Dragon Ball · 14:07 · Shin y Kibito se van. Llega la prensa a la mansión.
 T231 · Dragon Ball · 14:10 · Mr. Satán dice que fue su Puñetazo Dinamita. Periodista le pone el micrófono a Facundo.
+T232 · Dragon Ball · 14:12 · En vivo: 'lo hizo todo Mr. Satán'. Satán anuncia fiesta e invita a Facundo.
