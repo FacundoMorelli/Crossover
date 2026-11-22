@@ -21,6 +21,8 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 03/07 16:25 · Uryū se presenta y rompe el señuelo (canon cap. 34, corrido unos días). Cientos de hollows hacia Karakura.
+- 30/06-02/07 · Rutina: entrenamientos, hollows menores. Rukia recupera reiatsu despacio.
 - 29/06 23:40 · CAMBIO: Urahara extrae el Hōgyoku del alma de Rukia (en el canon lo hacía Aizen en el Sōkyoku, arco 3).
 - 26-28/06 · Entrenamientos de Facundo con Ichigo en el río. Uryū observa.
 - 24/06 · Facundo y Rukia pactan con Urahara; 25/06 Rukia se entera de todo y acepta.

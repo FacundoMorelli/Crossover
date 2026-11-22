@@ -1,13 +1,13 @@
 {
-  "turno": 114,
+  "turno": 115,
   "mundo_actual": "bleach",
-  "fecha_local": "29 de junio (año del canon, ~2001)",
-  "hora": "23:48",
+  "fecha_local": "3 de julio (año del canon, ~2001)",
+  "hora": "16:25",
   "edad": 18,
   "nivel": 6,
-  "exp": 11810,
+  "exp": 12110,
   "exp_siguiente_nivel": 13500,
-  "fragmentos": 771,
+  "fragmentos": 775,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -249,6 +249,13 @@
       "mision": "Que Ichigo Kurosaki te llame su rival.",
       "dificultad": "ALTA",
       "emitida": "T102"
+    },
+    {
+      "poder": "Poder Quincy de Uryū Ishida (arco de reishi, Hirenkyaku, todo lo Quincy)",
+      "mundo": "bleach",
+      "mision": "Ganarle a Uryū Ishida en su propia competencia de hollows.",
+      "dificultad": "MEDIA",
+      "emitida": "T115"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -410,6 +417,13 @@
       "turno": 113,
       "fragmentos": 6,
       "exp": 450
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Ichigo (dos duelos de entrenamiento) y tres hollows menores, 30/06-02/07",
+      "turno": 115,
+      "fragmentos": 4,
+      "exp": 300
     }
   ],
   "viaje": {
@@ -438,7 +452,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 6
+        "dias_transcurridos": 10
       }
     },
     "puerta_abierta": true,

@@ -113,3 +113,4 @@ T111 · Bleach · 21:05 · Urahara le cuenta todo a Rukia; ella lo abofetea. Ruk
 T112 · Bleach · 21:08 · Rukia acepta la extracción (29/06 noche). Ichigo no debe saberlo todavía.
 T113 · Bleach · 29/06 23:40 · Simula: entrenamientos (+450 EXP, +6 F). Extracción del Hōgyoku en el sótano; Urahara se lo tiende.
 T114 · Bleach · 23:48 · Guarda el Hōgyoku. Rukia en gigai nuevo siente su reiatsu volver.
+T115 · Bleach · 03/07 16:25 · Simula días tranquilos. Uryū se presenta, desafía a Ichigo y Facundo y rompe un señuelo.
