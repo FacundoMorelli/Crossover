@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T235 · 20:00-21:30 · En la fiesta come una torta de tres pisos entera. Le lleva a Facundo una porción.
 - T229 · 14:04 · Facundo engancha el meñique y promete volver. Feliz.
 - T228 · 14:02 · Facundo le dice que se queda un tiempo y después se va. Triste; le extiende el meñique para que prometa volver a visitarlo.
 - T227 · 14:00 · Facundo le dice que podrá comer dulces con Mr. Satán y tener una vida normal. Feliz. Le cura los ojos con las manos. Pregunta si se queda a vivir con ellos.
