@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Shunsui Kyōraku · T142 · leyó el informe de Byakuya en la reunión de capitanes; al ver un gato gigante en el hombro de un 'Shinigami' con gorra, deduce que es el humano del informe.
 - Ichigo · T139 · Facundo le susurró 'nos vemos adentro' antes de desaparecer. Nadie lo vio entrar.
 - Gin Ichimaru · T137 · lo reconoce por el informe de Byakuya (aspecto, gato, bufanda cortada). Vio la línea de Sakaime. Informará a Aizen.
 - Urahara, Rukia, Tessai, Yoruichi · T114 · Facundo tiene el Hōgyoku. Solo ellos cuatro lo saben.

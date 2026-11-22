@@ -1,13 +1,13 @@
 {
-  "turno": 141,
+  "turno": 142,
   "mundo_actual": "bleach",
   "fecha_local": "19 de julio (año del canon, ~2001)",
-  "hora": "Sociedad de Almas · mediodía",
+  "hora": "Sociedad de Almas · 13:20",
   "edad": 18,
   "nivel": 7,
   "exp": 16210,
   "exp_siguiente_nivel": 17000,
-  "fragmentos": 895,
+  "fragmentos": 894,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -145,6 +145,10 @@
     {
       "objeto": "Shihakushō (uniforme de Shinigami) — puesto",
       "origen": "bleach, tomado de un depósito de ropa del 7.º Escuadrón (T140)"
+    },
+    {
+      "objeto": "Gorra negra lisa (puesta)",
+      "origen": "tienda del Sistema, T142, 1 F"
     }
   ],
   "copias": [
@@ -589,7 +593,8 @@
       "Botiquín": 2,
       "Cuerda (30 m)": 1,
       "Mapa de la zona": 1,
-      "Celular local con línea": 5
+      "Celular local con línea": 5,
+      "Gorra negra lisa": 1
     },
     "stock_rotativo": {
       "Gikongan (alma de reemplazo, un uso)": 20,
