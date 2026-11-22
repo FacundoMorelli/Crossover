@@ -14,3 +14,4 @@ T12 · Jujutsu · 23:47 · Confirma a Nanami que era Yuji y que Megumi vive. Nan
 T13 · Jujutsu · 23:48 · Tasa el túnel. Mahito sale a la luz; había mirado todo. Amenaza alta. Nanami en guardia.
 T14 · Jujutsu · 23:48 · Destello Solar a Mahito y corte con Rift: lo parte, se recompone. Contraataque. Misión de copia: Transfiguración Ociosa. Regla ampliada: las razas se copian.
 T15 · Jujutsu · 23:49 · Esquiva y estrella a Mahito contra la pared con Marea Lunar. Mahito ileso, mira hacia el norte: Yuji.
+T16 · Jujutsu · 23:49 · Se planta entre Mahito y la escalera; Nanami sube hacia Yuji tras ordenarle sobrevivir. Mahito se burla.
