@@ -3,6 +3,7 @@ AFILIACIÓN: dioses
 FÍSICO: piel lavanda, cresta blanca, pendientes Potara.
 PERSONALIDAD: serio, nervioso ante Buu.
 ENCUENTROS:
+- T210 · 00:05 · Se queda con Kibito vigilando a Buu dormido en el páramo.
 - T203 · 19:05 · Llega con Kibito; vieron la pelea de lejos. Agradece a Facundo haber detenido a Buu; preocupado: Buu se enojó.
 - T198 · 15:25 · Se va con Kibito a vigilar a Buu desde lejos.
 - T197 · 14:52 · Facundo propone sacar la parte mala de Buu y sellarla, porque el Buu actual no es malo. Shin explica: el Buu gordo es así porque absorbió al Gran Kaiosama, que era bondadoso; adentro sigue el Buu original. No conoce ninguna técnica para separarlos. Si se separara, la parte mala saldría libre y habría que destruirla de inmediato.

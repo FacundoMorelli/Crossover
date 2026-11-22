@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo negro corto, ropa de pelea violeta tipo Piccolo, rasguños.
 PERSONALIDAD: amable, estudioso, oxidado en pelea.
 ENCUENTROS:
+- T210 · 00:35 · Lleva a Facundo al Monte Paoz.
 - T209 · 00:01 · Invita a Facundo a pasar la noche en el Monte Paoz.
 - T208 · 20:10-23:58 · Mira el entrenamiento con Goten en brazos.
 - T203 · 20:00 · Vuelve con Goku y Goten.
