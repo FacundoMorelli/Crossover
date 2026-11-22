@@ -30,5 +30,5 @@ QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco,
 - T318 · Facundo le recuerda que ya tocó su espada (29/07): Kyōka Suigetsu no le sirve. Amagaba: lo sabía desde T159. Baja la espada. Pregunta qué quiere.
 - DIÁLOGO T318: "Lo sé. Tocaste la hoja en el claro, antes de todo. Quería ver si lo recordabas." / "Lo recuerdas. Bien." / "Entonces dime, Facundo-kun. ¿Qué es lo que quieres?"
 - T319 · Facundo le escupe (poder de Dabura). La piedra le trepa por el antebrazo izquierdo; se corta su propio brazo a la altura del hombro. Sangra. Sonríe.
-- DIÁLOGO T319: "...Fascinante." / "Una técnica que convierte la carne en piedra, y avanza. No es kidō. No es de este mundo... de ningún mundo que yo conozca."
+- DIÁLOGO T319: "...Fascinante." / "Una técnica que convierte la carne en piedra, y avanza. No es kidō. No es una técnica de hollow. No se parece a nada que yo conozca."
 ESTADO: en Las Noches, sin el Hōgyoku, SIN BRAZO IZQUIERDO (T319). Cicatriz en la frente. Sabe que Kyōka Suigetsu no funciona con Facundo.
