@@ -238,3 +238,4 @@ T236 · Dragon Ball · 21:38 · Le cuenta a Vegeta lo del Buu malo. Vegeta confi
 T237 · Dragon Ball · 08:00 (día 3) · Fin de la fiesta, noche en la mansión. Caramelo de Buu. Vegeta en el cañón pide ver el Eclipse.
 T238 · Dragon Ball · 08:03 · Cenit + Eclipse contra Vegeta. Vegeta se resiste a medio metro del punto negro.
 T239 · Dragon Ball · 08:05 · No cierra el Eclipse. Vegeta sale solo del tirón. 'Ahora sí. Ciérralo.'
+T240 · Dragon Ball · 08:09 · Cierra el Eclipse, sigue la pelea. Vegeta: Final Flash a quemarropa.
