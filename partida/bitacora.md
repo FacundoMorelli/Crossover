@@ -87,3 +87,4 @@ T85 · Jujutsu · 22:53 · Se despide de Yuji, Choso y Yuta y se va solo con Kas
 T86 · Bleach · 23/06 20:40 · Cruza la Puerta. Llega a Karakura, detrás del hospital abandonado. Don: Sakaime. Misión: que Rukia vuelva libre y con poderes.
 T87 · Bleach · 20:43 · Entra al hospital por atrás. Ve a Kanonji hundir el bastón en el espíritu atado; se forma la máscara.
 T88 · Bleach · 20:44 · Salta al hall en vivo y purifica al espíritu atado con Sakaime (konsō). Sale en TV.
+T89 · Bleach · 20:46 · Sale por atrás. Ichigo y Rukia lo alcanzan en el baldío.

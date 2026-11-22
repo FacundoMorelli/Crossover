@@ -3,6 +3,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
 - PÚBLICO (TV en vivo, toda la región) · T88 · un joven alto de pelo blanco y azul, ojos de distinto color, con un gato enorme en el hombro y una katana, saltó del primer piso en pleno especial de Kanonji, cortó el aire y le sacó el bastón. Las cámaras no ven espíritus: parece que cortó nada.
+- Ichigo y Rukia · T89 · lo siguieron al baldío. Vieron el konsō desde la puerta y la espada desaparecer de su mano.
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
