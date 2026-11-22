@@ -1,11 +1,11 @@
 {
-  "turno": 65,
+  "turno": 66,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "08:05",
+  "hora": "08:07",
   "edad": 18,
   "nivel": 5,
-  "exp": 9100,
+  "exp": 9600,
   "exp_siguiente_nivel": 10000,
   "fragmentos": 423,
   "plata_local": {
@@ -173,17 +173,21 @@
         "Los objetos (martillo, clavos, muñeco) no vienen con la copia: debe conseguirlos o usar sustitutos",
         "Dominio total e inmediato"
       ]
-    }
-  ],
-  "misiones_de_copia_activas": [
+    },
     {
-      "poder": "Cadáveres Malditos — Masamichi Yaga",
+      "poder": "Cadáveres Malditos",
+      "de": "Masamichi Yaga",
       "mundo": "jujutsu",
-      "mision": "Que Masamichi Yaga te acepte en la escuela de Tokio.",
-      "dificultad": "MEDIA",
-      "emitida": "T64"
+      "cuando": "T66, 01/11/2018 08:07",
+      "incluye": [
+        "Crear muñecos animados con energía maldita que actúan solos y pelean",
+        "Controlarlos a distancia",
+        "El método completo, incluido el secreto de los cadáveres malditos autónomos con alma propia (como Panda)",
+        "Dominio total e inmediato"
+      ]
     }
   ],
+  "misiones_de_copia_activas": [],
   "misiones_de_copia_rechazadas": [],
   "fusion": {
     "combinaciones_selladas": []
