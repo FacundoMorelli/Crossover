@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T46 · 01:24 · Estabilizado por Shoko; duerme en la camilla.
 - T45 · 00:47-01:05 · Facundo lo carga a la espalda 2 km hasta el puesto de mando. Shoko empieza a curarlo.
 - T44 · 00:46 · Facundo llega a la losa con Yuki y Todo. Nanami está consciente a medias, con fiebre y la respiración débil; el torniquete aguanta.
 - T37 · 00:24 · La ola de hielo de Uraume se detiene a ~20 m de la losa, aplastada por la Marea Lunar de Facundo.

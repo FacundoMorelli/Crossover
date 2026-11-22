@@ -15,4 +15,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE: —
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
-ESTADO: inconsciente, muy herido, sobre una losa en la zona arrasada. Mahoraga destruido por Sukuna.
+ESTADO: en el puesto de mando, bajo tratamiento de Shoko. Fuera de peligro según ella.

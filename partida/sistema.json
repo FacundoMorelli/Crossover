@@ -1,8 +1,8 @@
 {
-  "turno": 45,
+  "turno": 46,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "01:06",
+  "hora": "01:24",
   "edad": 18,
   "nivel": 3,
   "exp": 4100,
@@ -26,7 +26,7 @@
     "energia": 38,
     "control": 37
   },
-  "energia_actual_pct": 22,
+  "energia_actual_pct": 30,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo azul forzado al máximo: ciego, párpado congelado, sangra frío (puede durar horas); ojo rojo ve rojo oscuro y borroso",
+  "ojos": "ojo rojo: arde menos, ve borroso pero con colores; ojo azul: ciego, la escarcha del párpado se derrite",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
