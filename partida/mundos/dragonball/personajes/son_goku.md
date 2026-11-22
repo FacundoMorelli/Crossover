@@ -1,11 +1,12 @@
 NOMBRE: Son Goku
 AFILIACIÓN: Guerreros Z
-PODER VISTO POR FACUNDO: ninguno
+PODER VISTO POR FACUNDO: Super Saiyajin y SSJ2, ki enorme, velocidad (T175-T178)
 EDAD EN ESTE MOMENTO DEL CANON: 37 (muerto, con aureola; permiso de un día)
 FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
-RELACIÓN CON FACUNDO: no se conocen.
+RELACIÓN CON FACUNDO: curiosidad enorme; quiere pelear con él.
 ENCUENTROS:
+- T187 · 14:10 · Facundo le pide perdón y le pregunta dónde está. Goku se presenta, le explica: Isla Papaya, 25.º Torneo, la Tierra. Le pregunta el nombre y si quiere pelear con él, porque no siente su ki y le da curiosidad.
 - T184 · 13:45-14:05 · Sigue a Facundo y a Buu volando, por curiosidad. Aterriza en las gradas.
 - T182 · 13:43 · Se ríe al ver a Buu comer golosinas.
 - T181 · 13:42 · Llega volando con Vegeta; aterrizan a 30 m. Ven a Facundo hablando con Buu.
@@ -17,6 +18,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T187: "¡Hola! ¡Soy Goku!" / "Estás en Isla Papaya, en el Torneo de Artes Marciales. En la Tierra. ¿No sabías? ¡Jaja!" / "Oye... no siento nada de ti, pero frenaste a Vegeta. ¡Peleemos un rato!"
 - T182: "¡Jajaja! ¡Le gustan los dulces igual que a Goten!"
 - T181: "¿Eh? ¿Está hablando con él?"
 - T178: "¡Vegeta! ¡Tu pelea es conmigo, no con él!" / "¡Oye, tú, el del gato! ¡Gracias por salvar a la gente del torneo! ¡Quédate ahí!"

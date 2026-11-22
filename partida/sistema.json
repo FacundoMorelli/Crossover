@@ -1,8 +1,8 @@
 {
-  "turno": 186,
+  "turno": 187,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:08",
+  "hora": "14:10",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
@@ -384,6 +384,13 @@
       "mision": "Que Kisuke Urahara te cuente, sin que se lo pidas, por qué se fue de la Sociedad de Almas.",
       "dificultad": "ALTA",
       "emitida": "T134"
+    },
+    {
+      "poder": "Poder de Son Goku (Super Saiyajin y todas sus formas, Kamehameha, Kaio-ken, Teletransportación, Genkidama, todo)",
+      "mundo": "dragonball",
+      "mision": "Pelear con Son Goku en serio, sin que ninguno de los dos se contenga.",
+      "dificultad": "MUY ALTA",
+      "emitida": "T187"
     }
   ],
   "misiones_de_copia_rechazadas": [],

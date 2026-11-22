@@ -11,4 +11,4 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
-(nada todavía)
+- Está en la Tierra, Isla Papaya, 25.º Torneo: Goku se lo dijo (T187).
