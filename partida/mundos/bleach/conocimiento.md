@@ -55,6 +55,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Aizen le dijo a Orihime que Facundo vendría y que ella era 'la invitación': Orihime (T313).
 - Aizen ordenó a las Espadas no tocar a Facundo y dejarlo llegar a él; lo está esperando: Nnoitra (T307).
 - Rukia cree que Inoue puede ser un cebo para Facundo o que Aizen quiere usar su poder para rehacer el Hōgyoku (deducción de Rukia, T301).
 - Se llevaron a Orihime a Hueco Mundo; la Sociedad de Almas no va a ir; Ichigo, Uryū y Chad van ahora por la Garganta de Urahara: Ichigo y Urahara (T296).

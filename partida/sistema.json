@@ -1,13 +1,13 @@
 {
-  "turno": 312,
+  "turno": 313,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
   "edad": 18,
   "nivel": 23,
-  "exp": 146810,
+  "exp": 146910,
   "exp_siguiente_nivel": 160000,
-  "fragmentos": 171507,
+  "fragmentos": 171517,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -705,6 +705,13 @@
       "turno": 310,
       "fragmentos": 150,
       "exp": 2000
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Loly Aivirrne y Menoly Mallia (inconscientes)",
+      "turno": 313,
+      "fragmentos": 10,
+      "exp": 100
     }
   ],
   "viaje": {
