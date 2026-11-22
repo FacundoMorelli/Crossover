@@ -239,3 +239,4 @@ T237 · Dragon Ball · 08:00 (día 3) · Fin de la fiesta, noche en la mansión.
 T238 · Dragon Ball · 08:03 · Cenit + Eclipse contra Vegeta. Vegeta se resiste a medio metro del punto negro.
 T239 · Dragon Ball · 08:05 · No cierra el Eclipse. Vegeta sale solo del tirón. 'Ahora sí. Ciérralo.'
 T240 · Dragon Ball · 08:09 · Cierra el Eclipse, sigue la pelea. Vegeta: Final Flash a quemarropa.
+T241 · Dragon Ball · 08:09 · Boogie Woogie: el Final Flash le pega a una roca. Vegeta se ríe.
