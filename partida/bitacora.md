@@ -33,3 +33,4 @@ T31 · Jujutsu · 00:09 · Se presenta a Nobara y la manda con Yuji. Resonancia 
 T32 · Jujutsu · 00:09 · Tasa a Mahito: forma final, amenaza muy alta.
 T33 · Jujutsu · 00:12 · Observa: Mahito final supera a Yuji; llega Todo (pierde la mano); Destello Negro; Mahito arma la señal de dominio. Misión de copia: Todo.
 T34 · Jujutsu · 00:12 · Destello Solar rompe el dominio de Mahito. Mahito siente miedo: COPIA Transfiguración Ociosa (+800 EXP). NIVEL 2.
+T35 · Jujutsu · 00:16 · Observa: Yuji vence a Mahito. COPIA: físico de Yuji + Puño Divergente. +300 F, NIVEL 3. Aparece el falso Geto frente a Mahito.

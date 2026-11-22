@@ -1,13 +1,13 @@
 {
-  "turno": 34,
+  "turno": 35,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:12",
+  "hora": "00:16",
   "edad": 18,
-  "nivel": 2,
-  "exp": 1500,
-  "exp_siguiente_nivel": 2500,
-  "fragmentos": 3,
+  "nivel": 3,
+  "exp": 2600,
+  "exp_siguiente_nivel": 4500,
+  "fragmentos": 303,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -15,18 +15,18 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 5,
+  "puntos_de_stat_sin_asignar": 10,
   "stats": {
-    "fuerza": 35,
-    "velocidad": 37,
-    "resistencia": 34,
-    "tecnica": 36,
-    "percepcion": 36,
-    "voluntad": 36,
-    "energia": 37,
-    "control": 36
+    "fuerza": 36,
+    "velocidad": 38,
+    "resistencia": 35,
+    "tecnica": 37,
+    "percepcion": 37,
+    "voluntad": 37,
+    "energia": 38,
+    "control": 37
   },
-  "energia_actual_pct": 33,
+  "energia_actual_pct": 36,
   "eclipse": {
     "maestria": 35,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo forzado: sangra mucho, ve todo rojo oscuro y borroso; ojo azul nublado, distingue formas",
+  "ojos": "ojo rojo: dejó de sangrar a chorro, ve rojo oscuro y borroso; ojo azul: ve formas, algo más nítido",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -122,16 +122,24 @@
         "Defensa del alma propia contra la técnica",
         "Dominio total e inmediato; sin condiciones ni efectos secundarios"
       ]
+    },
+    {
+      "poder": "Físico de Itadori y Puño Divergente",
+      "de": "Yuji Itadori",
+      "mundo": "jujutsu",
+      "cuando": "T35, 01/11/2018 00:15",
+      "incluye": [
+        "Físico extraordinario de Yuji (fuerza, velocidad, resistencia y recuperación sobrehumanas, también sin energía maldita) — poder racial/de nacimiento, copiado por la regla ampliada; Facundo no cambia de cuerpo",
+        "Resistencia a venenos y objetos malditos propia de Yuji",
+        "Puño Divergente (impacto doble, el de energía con retraso)",
+        "Afinidad con el Destello Negro como la de Yuji (facilidad para entrar en la zona)",
+        "Golpes que dañan el alma ajena por haber percibido almas (en Yuji, por convivir con Sukuna; en Facundo, combinado con la Transfiguración Ociosa)",
+        "Sin Sukuna: no incluye al Rey de las Maldiciones ni los dedos",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
-    {
-      "poder": "Físico de Itadori y Puño Divergente — Yuji Itadori",
-      "mundo": "jujutsu",
-      "mision": "Pelear codo a codo con Yuji Itadori hasta que Mahito caiga.",
-      "dificultad": "MEDIA",
-      "emitida": "T26"
-    },
     {
       "poder": "Técnica del Muñeco de Paja (Resonancia, Horquilla) — Nobara Kugisaki",
       "mundo": "jujutsu",
@@ -254,6 +262,14 @@
       "turno": 19,
       "fragmentos": 1,
       "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "Mahito (forma final) — vencido junto a Yuji, Nobara y Todo",
+      "turno": 35,
+      "fragmentos": 300,
+      "exp": 600,
+      "nota": "muy fuerte (45-65+), más fuerte que Facundo: doble"
     }
   ],
   "viaje": {

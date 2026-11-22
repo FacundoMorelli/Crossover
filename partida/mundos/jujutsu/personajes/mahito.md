@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: miedo. No puede leer su alma y le rompió el dominio.
 ENCUENTROS:
+- T35 · 00:12-00:16 · Yuji lo vence a golpes. Pierde la forma final, queda chico, deforme, arrastrándose. Le llega Kenjaku de frente.
 - T34 · 00:12 · Facundo lo ciega con Destello Solar en plena señal de dominio: se le separan las manos y la expansión se rompe. Mira a Facundo con miedo por primera vez.
 - T33 · 00:09-00:12 · En forma final, supera a Yuji. Llega Todo; con el Boogie Woogie lo desorientan. Le quita la mano izquierda a Todo con un toque. Recibe un Destello Negro de Yuji. Junta las manos para expandir su dominio.
 - T32 · 00:09 · Termina de transformarse: Cuerpo Espiritual Instantáneo de Matanza Distorsionada. Facundo lo tasa: amenaza muy alta.
@@ -27,6 +28,7 @@ ENCUENTROS:
 - T14 · 23:48 · Facundo lo ciega con Destello Solar y lo parte con Rift. Mahito se recompone (el corte no toca su alma) y contraataca estirando el brazo hacia Facundo.
 - T13 · 23:48 · hall sur de la estación · sale del túnel cuando Facundo lo tasa. Había mirado todo desde la oscuridad.
 DIÁLOGOS CLAVE:
+- T35: "Geto... ¡Geto! Ayúdame..."
 - T34: "...¿Qué eres tú?"
 - T33: "Expansión de Dominio..."
 - T31: "...Ah. Ah, ya entiendo."
@@ -43,4 +45,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: en su forma final, de pie en la arena, frente a Yuji. Alma dañada pero ahora más estable.
+ESTADO: vencido; reducido y deforme, arrastrándose hacia Kenjaku.
