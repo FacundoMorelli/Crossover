@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T51 · 01:32 · Se ofrece a hablar con el director Yaga para que Facundo se quede en el dormitorio de la escuela de Tokio.
 - T50 · 01:30 · Escucha que Facundo no es de ninguna escuela.
 - T48 · 01:28 · Facundo le dice que sin él Nanami y Megumi estarían muertos. Yuji se ríe un poco, acaricia a Kase. Nobara llega con jugos.
 - T47 · 01:26 · Facundo le dice que no fue su culpa, que es algo que tiene adentro. Yuji le confirma que es Sukuna (supone que Facundo vio las marcas). Sigue cargando la culpa.
@@ -31,6 +32,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T51: "Yo hablo con el director. Le salvaste la vida a Nanamin, no te va a decir que no."
 - T48: "...Eso es trampa. No se le dice eso a alguien que está tratando de sentirse mal."
 - T47: "Sukuna. El Rey de las Maldiciones." / "Pero el cuerpo es mío. Las manos son mías."
 - T46: "Ieiri-san dice que van a vivir. Los dos." / "Gracias. De verdad."
