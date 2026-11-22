@@ -97,3 +97,4 @@ T95 · Bleach · 21:17 · Pregunta por Rukia. Urahara explica la transferencia d
 T96 · Bleach · 21:19 · Teoría: el reiatsu de Ichigo se llevó más de lo que Rukia tenía. Urahara no confirma.
 T97 · Bleach · 21:21 · Pide hablar a solas con Urahara. Rukia se va.
 T98 · Bleach · 21:23 · Pregunta por lo que Rukia lleva adentro. Urahara confirma el Hōgyoku. El gato negro habla.
+T99 · Bleach · 21:26 · Urahara confirma que vendrán por Rukia. Ofrece cuarto a cambio de estudiar a Sakaime.

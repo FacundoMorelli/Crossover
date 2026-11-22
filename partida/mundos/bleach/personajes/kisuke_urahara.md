@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: curiosidad y alarma; lo trata con cuidado.
 ENCUENTROS:
+- T99 · 21:26 · Facundo dice que no hará nada malo y pregunta si vendrán a buscar a Rukia. Urahara confirma que es casi seguro (perdió contacto hace semanas; mandarán a alguien de su escuadrón o de su familia). Le ofrece quedarse en la tienda a cambio de dejarle estudiar a Sakaime.
 - T98 · 21:23 · Facundo le pregunta si no quiere que Rukia se recupere porque lo que lleva adentro es muy fuerte. Urahara se queda helado, pregunta una vez cómo lo sabe y lo deja pasar. Confirma: escondió el Hōgyoku en el alma de Rukia; el gigai la va volviendo humana para que nadie pueda encontrarlo. Pregunta qué va a hacer Facundo con eso.
 - T97 · 21:21 · Acepta hablar a solas. Manda a Tessai al frente. Quedan solos en la trastienda (el gato negro escucha desde el fondo, sin que Urahara lo diga).
 - T96 · 21:19 · Escucha la teoría de Facundo. Dice 'una teoría interesante' sin confirmar ni negar. Le devuelve el turno.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T99: "Casi seguro. Y no van a mandar a un mensajero." / "Tengo un cuarto libre. A cambio, déjeme mirar a Sakaime de vez en cuando. Solo mirar."
 - T98: "...¿Cómo sabe eso?" / "No, no me conteste. No me lo diría." / "Se llama Hōgyoku. Lo creé yo. Y es demasiado peligroso para que exista." / "Lo que le pregunto es: ¿qué piensa hacer con eso?"
 - T97: "Claro que sí. Tessai-san, ¿cerraría la tienda?" / "Ahora sí. Lo escucho."
 - T96: "Una teoría muy interesante, Facundo-san." / "Su turno otra vez."
