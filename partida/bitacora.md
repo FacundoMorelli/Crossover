@@ -78,3 +78,4 @@ T76 · Jujutsu · 07:14 · Le cuenta a Nobara. Ella quiere ir; Yuji le pide que 
 T77 · Jujutsu · 07:52 · Nobara se queda; le regala clavos y un muñeco. Sale por el sendero del oeste con Yuji; Choso los espera en la ruta.
 T78 · Jujutsu · 05/11 22:40 · Simula: tres días en Tokio cazando maldiciones (+600 EXP, +38 F, NIVEL 6). Aparece Naoya Zen'in.
 T79 · Jujutsu · 22:40 · Destello Solar y corte de Rift a Naoya. Naoya contraataca con Proyección. Misión de copia: Naoya.
+T80 · Jujutsu · 22:41 · Boogie Woogie con un clavo y Puño Divergente a Naoya. Yuji reconoce su golpe.

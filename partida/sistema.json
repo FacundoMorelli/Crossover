@@ -1,8 +1,8 @@
 {
-  "turno": 79,
+  "turno": 80,
   "mundo_actual": "jujutsu",
   "fecha_local": "05/11/2018",
-  "hora": "22:40",
+  "hora": "22:41",
   "edad": 18,
   "nivel": 6,
   "exp": 10200,
@@ -26,7 +26,7 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 75,
+  "energia_actual_pct": 71,
   "eclipse": {
     "maestria": 37,
     "partes_desbloqueadas": [
@@ -83,7 +83,7 @@
   ],
   "inventario_dimensional": [
     {
-      "objeto": "Bolsa de clavos de Nobara (unos 40) y un muñeco de paja",
+      "objeto": "Bolsa de clavos de Nobara (39; uno usado en T80) y un muñeco de paja",
       "origen": "jujutsu, regalo de Nobara (T77)"
     }
   ],
