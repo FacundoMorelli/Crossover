@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T157 · 09:45 · Rukia le dice que no. Llega Ichigo con bankai.
 - T156 · 09:44 · Los sigue con Paso Flash y aterriza frente a ellos en el claro.
 - T154 · 09:42 · No se mueve. Mira a Rukia, escondida bajo el haori de Kyōraku.
 - T153 · 09:41 · Reconoce a Facundo en el patíbulo cuando se le cae la capucha.
@@ -25,6 +26,7 @@ ENCUENTROS:
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T157: "Kurosaki Ichigo. Bankai en tres días. Imposible."
 - T156: "Rukia. Ven aquí."
 - T153: "...Tú."
 - T133: "Muy bien. Que vivan. Ya no importan."

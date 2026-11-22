@@ -1,12 +1,13 @@
 NOMBRE: Ichigo Kurosaki
 AFILIACIÓN: Instituto Karakura, 1.er año; Shinigami sustituto
 RANGO: Shinigami sustituto (sin registro oficial)
-PODER VISTO POR FACUNDO: forma de Shinigami, zanpakutō enorme, velocidad, tajos cargados de reiatsu (T102-T110)
+PODER VISTO POR FACUNDO: forma de Shinigami, Zangetsu, velocidad, tajos cargados de reiatsu (T102-T110); Bankai Tensa Zangetsu (T157)
 EDAD EN ESTE MOMENTO DEL CANON: 15
 FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del instituto. Como Shinigami: shihakushō negro y una zanpakutō enorme.
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T157 · 09:45 · Cae en el claro entre Byakuya y Facundo, con el bankai: Tensa Zangetsu (espada negra delgada, abrigo negro). Le pide a Facundo que se lleve a Rukia; Byakuya es suyo.
 - T139 · 19/07 · Facundo pasa a su lado y le susurra 'nos vemos adentro'. Ichigo no entiende hasta que la puerta se cierra.
 - T138 · 19/07 · Facundo se cambia con él: aparece junto al grupo, lejos de la puerta.
 - T136 · 19/07 · Vence a Jidanbō partiéndole las hachas.
@@ -32,6 +33,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T157: "Perdón por llegar tarde. ...Facundo. Llévate a Rukia. Este es mío."
 - T139: "¿Adentro? ¿Qué...?"
 - T134: "Voy a traerla de vuelta. ...¿Vienes?"
 - T133: "Ru... kia..."
