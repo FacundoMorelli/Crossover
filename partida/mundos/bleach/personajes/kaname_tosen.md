@@ -10,3 +10,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - T318 · Se tensa al escuchar que Facundo conoce el secreto de Kyōka Suigetsu.
 - T319 · Oye el brazo de piedra caer. Da un paso atrás.
 - DIÁLOGO T319: "¡Aizen-sama!"
+- T320 · Oye a Aizen petrificarse. Grita y desenvaina, furioso.
+- DIÁLOGO T320: "¡¿QUÉ LE HICISTE A AIZEN-SAMA?!"

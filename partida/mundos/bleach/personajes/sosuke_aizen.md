@@ -31,4 +31,5 @@ QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco,
 - DIÁLOGO T318: "Lo sé. Tocaste la hoja en el claro, antes de todo. Quería ver si lo recordabas." / "Lo recuerdas. Bien." / "Entonces dime, Facundo-kun. ¿Qué es lo que quieres?"
 - T319 · Facundo le escupe (poder de Dabura). La piedra le trepa por el antebrazo izquierdo; se corta su propio brazo a la altura del hombro. Sangra. Sonríe.
 - DIÁLOGO T319: "...Fascinante." / "Una técnica que convierte la carne en piedra, y avanza. No es kidō. No es una técnica de hollow. No se parece a nada que yo conozca."
-ESTADO: en Las Noches, sin el Hōgyoku, SIN BRAZO IZQUIERDO (T319). Cicatriz en la frente. Sabe que Kyōka Suigetsu no funciona con Facundo.
+- T320 · Facundo aparece detrás de él y le escupe en la nuca. Intenta un kidō; no llega. Petrificado entero, con media sonrisa. Consciente adentro.
+ESTADO: PETRIFICADO (estatua viva, sala del trono de Las Noches). Sin brazo izquierdo. La piedra solo se rompe si Facundo quiere o muere. Si rompen la estatua, muere.

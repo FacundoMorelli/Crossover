@@ -62,3 +62,4 @@
 - 20/09 · (T305) Rukia mata a Aaroniero en Las Noches (canon), herida grave. Facundo presente.
 - 20/09 · (T306) Nnoitra derriba a Chad (canon).
 - 20/09 · (T314) Ulquiorra derrota a Ichigo en la cúpula, le atraviesa el pecho (canon).
+- 20/09 · (T319-T320) Facundo le arranca a Aizen el brazo izquierdo (Aizen se lo corta) y lo petrifica en la sala del trono.

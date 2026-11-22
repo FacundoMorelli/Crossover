@@ -1,13 +1,13 @@
 {
-  "turno": 319,
+  "turno": 320,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
   "edad": 18,
   "nivel": 23,
-  "exp": 146910,
+  "exp": 156910,
   "exp_siguiente_nivel": 160000,
-  "fragmentos": 171517,
+  "fragmentos": 172517,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -712,6 +712,14 @@
       "turno": 313,
       "fragmentos": 10,
       "exp": 100
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Sōsuke Aizen (petrificado entero, saliva de Dabura; vivo adentro de la piedra)",
+      "turno": 320,
+      "fragmentos": 1000,
+      "exp": 10000,
+      "nota": "Escala élite (65-90) sin Hōgyoku; no pagó doble."
     }
   ],
   "viaje": {
@@ -913,6 +921,7 @@
     "dabura": "Dabura sigue vivo, libre del control de Babidi desde T180. Volvió al Mundo de los Demonios por la nave/portal de Babidi (día 1, tarde). Mientras viva, Krilin y Piccolo siguen de piedra en el risco del desierto. Las estatuas siguen enteras.",
     "jujutsu_mientras_no_estaba": "06/11/2018-17/01/2019 (simulado al volver, T276): canon con cambios. Tengen revela a Kenjaku; reglas del Juego del Sacrificio. Yaga ejecutado. Maki arrasa el clan Zen'in (Mai muere; Naoya muere y vuelve como maldición; Maki lo mata en Sakurajima). Juego del Sacrificio (nov-dic): Yuji y Megumi en Tokio n.º1 (Higuruma, Hakari, Kashimo, Takaba); Yuta en Sendai; NOBARA ACTIVA (con sus dos ojos) participa en la colonia de Tokio n.º2 con Panda y Kusakabe. NANAMI VIVO: apoyo y protección de civiles en Tokio. Yuki muere contra Kenjaku; Tengen capturado. Sukuna toma el cuerpo de Megumi (dic) y mata a Yorozu (Tsumiki). 24/12: Gojo liberado; Gojo vs Sukuna: Gojo muere. Kashimo muere. Yuta mata a Kenjaku. Choso muere protegiendo a Yuji. Nanami pelea en Shinjuku: pierde el brazo izquierdo, vive. Nobara usa la Resonancia en el momento clave; Yuji separa a Sukuna de Megumi; Sukuna muere. Uraume muere. Megumi vivo, recuperándose, deprimido. Después: los altos mandos, diezmados, reorganizados (Gakuganji y otros); la orden contra Facundo quedó en un cajón (nadie la ejecuta, nadie la anuló). Hoy 17/01/2019: Shinjuku zona de exclusión en reconstrucción; Yuji va seguido al lugar donde murió Choso.",
     "bleach_mientras_no_estaba": "27/08-19/09 (simulado al volver, T295). Aizen, sin Hōgyoku, solo tiene Arrancar imperfectos (Ulquiorra, Yammy, Grimmjow y su fracción, menos estables que en el canon). Su objetivo: el Hōgyoku y Facundo. 01/09 aprox: ataque no autorizado de Grimmjow y su fracción a Karakura (canon): el equipo de avanzada los repele; Ichigo, golpeado por Grimmjow, entrena con los Vizard (Hirako) a dominar la máscara. Rukia y Renji entrenan. Orihime entrena en la Sociedad de Almas. 17/09: Ulquiorra intercepta a Orihime en el Dangai y se la lleva a Hueco Mundo (canon): Aizen cree que su rechazo de fenómenos puede reconstruir un Hōgyoku (o al menos la usa de cebo para Facundo). Yamamoto prohíbe el rescate y prepara la defensa de Karakura. 19/09 noche: Ichigo, Uryū y Chad en la tienda de Urahara; Urahara está por abrir la Garganta hacia Hueco Mundo (canon). Rukia y Renji llegarán después.",
-    "aizen_plan": "Aizen ordenó a las Espadas: al del pelo bicolor y el gato, no matarlo; dejarlo llegar hasta él (quiere el Hōgyoku; Orihime es el cebo y su poder la herramienta para intentar 'reconstruir' uno si falla lo demás). A los demás intrusos, libre."
+    "aizen_plan": "Aizen ordenó a las Espadas: al del pelo bicolor y el gato, no matarlo; dejarlo llegar hasta él (quiere el Hōgyoku; Orihime es el cebo y su poder la herramienta para intentar 'reconstruir' uno si falla lo demás). A los demás intrusos, libre.",
+    "aizen_petrificado": "T320: Aizen, estatua viva en la sala del trono de Las Noches. Consciente adentro. La piedra solo se rompe si Facundo quiere o muere. Si alguien rompe la estatua, Aizen muere (como con Krilin y Piccolo)."
   }
 }

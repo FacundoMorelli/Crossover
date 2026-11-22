@@ -38,3 +38,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - T318 · Se ríe nervioso al escuchar lo de la espada.
 - DIÁLOGO T318: "Ja... ja. Eso no estaba en el plan, ¿verdad, capitán?"
 - T319 · Ve a Aizen cortarse el brazo. Abre los ojos del todo.
+- T320 · Ve a Aizen petrificado. No se mueve. Abre los ojos y se ríe muy bajito, solo.
+- DIÁLOGO T320: "...Je. Jejeje."

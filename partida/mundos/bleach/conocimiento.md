@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Aizen, Gin, Tōsen · T320 · Facundo dijo que 'estuvo de viaje'.
 - Aizen, Gin, Tōsen · T318 · Facundo sabe la regla de Kyōka Suigetsu (tocar la hoja) y tocó la de Aizen el 29/07: es inmune. (Aizen no pregunta cómo lo sabe.)
 - Espadas (Nnoitra y otros) · antes de T307 · Aizen les describió a Facundo (pelo bicolor, gato, tiene el Hōgyoku) con información de Ulquiorra (22/08).
 - Ichigo, Rukia, Renji, Uryū, Chad, Orihime, Urahara, Yoruichi, Tessai, equipo de avanzada · T173 · Facundo les dijo que se va un tiempo, que no se preocupen por él ni por lo que tiene, que no se muera nadie y que seguro vuelve en unas semanas.
@@ -18,6 +19,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Gin, Tōsen · T320 · Facundo aparece detrás de Aizen sin que lo vean y lo petrifica entero.
 - Aizen, Gin, Tōsen · T319 · saliva que convierte la carne en piedra y avanza (poder de Dabura). Aizen lo interpreta como algo ajeno a todo lo que conoce (deducción, no sabe de otros mundos).
 - Aizen, Gin, Tōsen · T317 · Ultra Instinto Dominado: aura plateada, esquiva todo sin moverse.
 - Chad · T311 · despierta curado; ve a Facundo con el aura plateada (Ultra Instinto) y a Nnoitra en el piso.
