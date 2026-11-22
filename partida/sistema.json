@@ -1,8 +1,8 @@
 {
-  "turno": 202,
+  "turno": 203,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "18:58",
+  "hora": "20:00",
   "edad": 18,
   "nivel": 12,
   "exp": 41810,
@@ -36,7 +36,7 @@
     "energia": 205,
     "control": 204
   },
-  "energia_actual_pct": 38,
+  "energia_actual_pct": 50,
   "eclipse": {
     "maestria": 47,
     "partes_desbloqueadas": [
@@ -50,7 +50,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "irritados (ardor leve tras usar el Eclipse en el entrenamiento)",
+  "ojos": "bien (leve ardor)",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",

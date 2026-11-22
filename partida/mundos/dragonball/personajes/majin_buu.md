@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T203 · 19:20 · Se duerme sobre la roca de chocolate, roncando.
 - T202 · 18:58 · Facundo le dice que no es malo y le da dos bolsas más. Se calma, lo abraza y le pide a Vegeta que juegue bonito la próxima.
 - T201 · 18:57 · Su rayo convierte en chocolate una roca (Boogie Woogie). Facundo le dice que eso tampoco tiene que hacerlo. Se queja: Vegeta lo rompió; muerde el chocolate, enojado.
 - T200 · 18:44-18:56 · "Juega" con Vegeta: recibe todo riendo y se regenera. El Final Flash le vuela medio cuerpo; se regenera furioso, echando vapor. Apunta la antena a Vegeta para convertirlo en chocolate. (No lo considera matar.)
