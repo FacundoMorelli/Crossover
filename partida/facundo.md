@@ -23,3 +23,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 135 · Cruza la Senkaimon a la Sociedad de Almas con Ichigo, Uryū, Chad, Orihime y Yoruichi.
 - Turno 154 · Destruye el Sōkyoku frente a todos los capitanes del Gotei 13. Nivel 8.
 - Turno 160 · Gasta 600 Fragmentos en puntos de stat (+75 a todo). Promedio ~122: la cima de un mundo.
+- Turno 171 · MISIÓN DE MUNDO DE BLEACH CUMPLIDA: Rukia volvió a Karakura, libre y entera. Nivel 11. Ojo del Eclipse. Mundos completados: 2/3.

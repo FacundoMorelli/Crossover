@@ -1,13 +1,13 @@
 {
-  "turno": 170,
+  "turno": 171,
   "mundo_actual": "bleach",
-  "fecha_local": "22 de agosto (año del canon, ~2001)",
-  "hora": "15:12",
+  "fecha_local": "25 de agosto (año del canon, ~2001)",
+  "hora": "17:40",
   "edad": 18,
-  "nivel": 9,
-  "exp": 22610,
-  "exp_siguiente_nivel": 25000,
-  "fragmentos": 444,
+  "nivel": 11,
+  "exp": 30610,
+  "exp_siguiente_nivel": 36000,
+  "fragmentos": 644,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -20,18 +20,18 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 20,
+  "puntos_de_stat_sin_asignar": 35,
   "stats": {
-    "fuerza": 122,
-    "velocidad": 125,
-    "resistencia": 122,
-    "tecnica": 125,
-    "percepcion": 123,
-    "voluntad": 123,
-    "energia": 124,
-    "control": 123
+    "fuerza": 126,
+    "velocidad": 129,
+    "resistencia": 126,
+    "tecnica": 129,
+    "percepcion": 127,
+    "voluntad": 127,
+    "energia": 128,
+    "control": 127
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -380,7 +380,8 @@
   "habilidades_del_sistema": [
     "Velo",
     "Lengua de los mundos",
-    "Recuerdo"
+    "Recuerdo",
+    "Ojo del Eclipse"
   ],
   "estilos_desbloqueados": [
     {
@@ -568,7 +569,8 @@
       "bleach"
     ],
     "mundos_completados": [
-      "jujutsu"
+      "jujutsu",
+      "bleach"
     ],
     "viaje_libre": false,
     "mision_de_mundo_actual": {
@@ -577,7 +579,7 @@
       "recompensa": "8.000 EXP · 200 Fragmentos · la Puerta",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa"
+      "estado": "cumplida (T171, 25/08)"
     },
     "relojes": {
       "jujutsu": {
@@ -588,7 +590,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 60
+        "dias_transcurridos": 63
       }
     },
     "puerta_abierta": true,
@@ -639,6 +641,13 @@
         "Cristal de energía (recupera 50% al instante, guardable)": 60,
         "Colirio del Eclipse (cura por completo el daño de ojos de una pelea)": 90,
         "Técnica nueva para una copia (variante propia, a elección)": 1800
+      },
+      "lote_nivel_10": {
+        "Línea extra permanente para Sakaime (+1)": 300,
+        "Marca extra permanente para la Manecilla Inversa (+1)": 300,
+        "Desbloquear Bankai de Sakaime ya (sin esperar maestría 60)": 2500,
+        "Poción suprema (100% de energía y cura heridas leves)": 150,
+        "Colirio del Eclipse mayor (anula el daño de ojos de un día entero)": 200
       }
     },
     "cosas_comunes": {
@@ -652,11 +661,11 @@
       "Gorra negra lisa": 1
     },
     "stock_rotativo": {
-      "Gikongan (alma de reemplazo, un uso)": 20,
-      "Capa de reishi (te vuelve invisible a los ojos de las almas por 1 hora)": 40,
-      "Sello de konsō de bolsillo (envía un alma perdida a la Sociedad de Almas)": 8
+      "Gigai de Urahara (cuerpo artificial de repuesto)": 60,
+      "Píldora de Soul Candy (Mod Soul de reemplazo, un uso)": 15,
+      "Reiatsu en botella (recupera 40% de energía)": 40
     },
-    "ultimo_hito_de_catalogo": 5
+    "ultimo_hito_de_catalogo": 10
   },
   "reglas_ampliadas": {
     "razas_se_copian": {

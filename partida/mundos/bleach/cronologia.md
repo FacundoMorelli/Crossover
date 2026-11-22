@@ -21,6 +21,8 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 25/08 · Llega el equipo de avanzada de la Sociedad de Almas (Hitsugaya, Rangiku, Renji, Ikkaku, Yumichika, Rukia) (canon). Rukia, entera. Misión cumplida.
+- 22/08 · Ulquiorra se va con Yammy; muestra a Aizen lo que vio (canon).
 - 22/08 15:10 · Ulquiorra y Yammy (Arrancar imperfectos) llegan a Karakura buscando a Facundo. Yammy usa Gonzui; Tatsuki cae; Chad y Orihime llegan (canon adaptado).
 - 06-21/08 · Arco Arrancar comienza: Shinji Hirako en la clase de Ichigo (canon). Facundo entrena con Ichigo; Ichigo lo llama su rival (copia). Grand Fisher arrancar muere a manos de Isshin (canon).
 - 05/08 16:20 · Vuelta a Karakura por la Senkaimon (Ichigo, Uryū, Chad, Orihime, Yoruichi, Facundo). Rukia se queda en la Sociedad de Almas.

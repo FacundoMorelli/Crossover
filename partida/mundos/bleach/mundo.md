@@ -9,3 +9,4 @@ DON DE MUNDO: Zanpakutō Sakaime (ver sistema.json).
 - T121-T133 · 07/07 · Facundo pelea contra Byakuya y Renji: interrumpe dos veces la liberación de Senbonzakura, le corta la bufanda y el brazo a Byakuya. Se desmaya. Rukia se entrega igual (canon) a cambio de que no los maten.
 - T154 · 29/07 · Facundo destruye el Sōkyoku (el Kikōō y la alabarda) frente a todos los capitanes. Rukia viva, escondida bajo el haori de Kyōraku. (En el canon lo hacían Ichigo, Ukitake y Kyōraku.)
 - T163 · 29/07 · Aizen se va a Hueco Mundo SIN el Hōgyoku (cambio enorme: en el canon lo extraía de Rukia). Herido por Facundo (frente y hombro).
+- T171 · 25/08 · Rukia vuelve a Karakura libre y con todos sus poderes. MISIÓN DE MUNDO CUMPLIDA. La Puerta está abierta.

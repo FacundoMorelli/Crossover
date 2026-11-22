@@ -1,12 +1,13 @@
 NOMBRE: Rukia Kuchiki
 AFILIACIÓN: 13.º Escuadrón del Gotei 13 (sin asiento); clan Kuchiki (adoptada)
 RANGO: Shinigami sin asiento; sin poderes ahora (en gigai)
-PODER VISTO POR FACUNDO: ninguno
+PODER VISTO POR FACUNDO: Sode no Shirayuki (Tsugi no mai: Hakuren) (T171)
 EDAD EN ESTE MOMENTO DEL CANON: más de un siglo (aspecto de adolescente; adulta por edad real — ver regla de romance: aspecto juvenil, NO opción romántica por prudencia).
 FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uniforme del instituto.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: gratitud profunda y confianza; amistad.
 ENCUENTROS:
+- T171 · 25/08 17:40 · Llega a Karakura con el equipo de avanzada de Hitsugaya (canon). Con sus poderes completos y Sode no Shirayuki. Cae en el patio de la tienda de Urahara y busca a Facundo primero.
 - T166 · 29/07-05/08 · Habla con Byakuya: él le cuenta lo de Hisana y le pide perdón (canon). Decide quedarse en la Sociedad de Almas hasta tener sus poderes completos. Despide a Facundo en la Senkaimon; le promete volver a Karakura 'con todo lo que soy'.
 - T165 · 10:54 · Llega hasta Facundo; él la saluda levantando la mano. Ella le pega un puñetazo en el hombro sano y después le agradece, como prometió en Karakura. Le cuenta que siente sus poderes volviendo. Dice que antes de decidir si vuelve a Karakura tiene que hablar con su hermano.
 - T160 · 10:41 · Aparece junto a Ichigo, a 30 m, donde estaba Byakuya.
@@ -46,6 +47,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T171: "Te lo prometí. Entera." / "Mira." (libera Sode no Shirayuki: Tsugi no mai, Hakuren, contra el cielo)
 - T166: "Me quedo hasta que vuelva a ser yo. Entera. Después voy a Karakura. Te lo prometo."
 - T165: "Eso por asustarme. Y esto..." / "Gracias. Te dije que te lo iba a agradecer cuando menos lo esperaras." / "No sé si vuelvo a Karakura. Primero tengo que hablar con nii-sama."
 - T160: "¡¿Ichigo?!"
@@ -80,4 +82,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: que puede guardar cosas donde nadie las encuentra y se ofreció a guardar el Hōgyoku (Urahara se lo contó, T111); que sabía del Hōgyoku antes que ella (deduce); su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
-ESTADO: en la Sociedad de Almas, libre, recuperando sus poderes (más de la mitad). Promete volver a Karakura entera.
+ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equipo de avanzada.
