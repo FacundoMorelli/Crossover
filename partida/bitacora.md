@@ -364,3 +364,4 @@ T362 · One Piece · Arlong Park · Dos flechas: Hatchan y Kuroobi fuera de comb
 T363 · One Piece · Arlong Park · Ultra Instinto, se hace el dormido. Arlong no lo toca. Agarra a Zoro como rehén.
 T364 · One Piece · Arlong Park · Boogie Woogie: cambia de lugar con Zoro. Ahora Arlong lo tiene a él con la sierra al cuello.
 T365 · One Piece · Arlong Park · Marea Lunar: Arlong contra la torre. Pregunta a Zoro por su capitán. Zoro: Luffy vendrá; pide que lo desate.
+T366 · One Piece · Arlong Park · Corta las cadenas de Zoro con Rift. Zoro vs Arlong.

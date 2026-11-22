@@ -15,3 +15,4 @@ ENCUENTROS:
 - T355 · Arlong Park · encadenado y empapado tras tirarse al agua (canon). Ve entrar a Facundo; levanta una ceja.
 - T356 · Come la semilla del ermitaño que le da Facundo. Herida de Mihawk cerrada, energía al 100%. Sigue encadenado. Le debe una.
 DIÁLOGO T356: "¿Y tú quién demonios eres?"
+- T366 · Facundo le corta las cadenas con Rift: "Todo tuyo." Recupera sus espadas y enfrenta a Arlong.
