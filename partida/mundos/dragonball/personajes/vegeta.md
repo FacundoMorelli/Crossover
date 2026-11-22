@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T242 · 08:09-08:16 · Siete minutos más; choque final Big Bang contra corte en X. Los dos quedan tirados en el hielo. Lo llama "Facundo" por primera vez.
 - T241 · 08:09 · Su Final Flash a quemarropa le pega a una roca (Boogie Woogie). Se ríe a carcajadas.
 - T240 · 08:05-08:09 · Sigue la pelea cuerpo a cuerpo, pareja. Agarra a Facundo y carga un Final Flash a quemarropa.
 - T239 · 08:05 · Facundo no cierra el Eclipse. Sale solo del tirón, paso a paso, a pura fuerza. Satisfecho, le pide que lo cierre.
@@ -42,6 +43,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T242: "...Facundo." / "Ese payaso dijo en la tele que te vas de viaje." / "¿Cuándo?"
 - T241: "¡JAJAJA! ¡Rata tramposa!" / "¡Otra vez!"
 - T239: "...Ahora sí. Ciérralo." / "Nadie me arrastra. Nadie."
 - T238: "¡NO LO CIERRES! ¡Si lo cierras, te mato!"

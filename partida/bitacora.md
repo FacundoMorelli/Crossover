@@ -240,3 +240,4 @@ T238 · Dragon Ball · 08:03 · Cenit + Eclipse contra Vegeta. Vegeta se resiste
 T239 · Dragon Ball · 08:05 · No cierra el Eclipse. Vegeta sale solo del tirón. 'Ahora sí. Ciérralo.'
 T240 · Dragon Ball · 08:09 · Cierra el Eclipse, sigue la pelea. Vegeta: Final Flash a quemarropa.
 T241 · Dragon Ball · 08:09 · Boogie Woogie: el Final Flash le pega a una roca. Vegeta se ríe.
+T242 · Dragon Ball · 08:16 · Fin de la pelea con Vegeta: empate, los dos en el hielo. Vegeta lo llama por su nombre.

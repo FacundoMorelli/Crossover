@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T235 · 21:00 · En la fiesta, en vivo, dice que su discípulo se queda un tiempo y después se va de viaje.
 - T237 · 00:00 · Termina la fiesta cantando en el escenario.
 - T235 · 20:00-21:30 · Fiesta: discurso épico, cuenta el Puñetazo Dinamita cuatro veces. Brinda por "su humilde discípulo".
 - T233 · 14:25 · Lleva a Facundo a una habitación del segundo piso. Fiesta a las 20:00.

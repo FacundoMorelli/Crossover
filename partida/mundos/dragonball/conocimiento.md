@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Vegeta · T242 · que Facundo se va a ir de viaje pronto: lo escuchó por TV (Mr. Satán en la fiesta, en vivo, día 2 21:00; Satán lo sabía por Facundo, T228).
 - Vegeta · T236 · Facundo le contó: era la parte mala de Buu; la destruyó él porque si no se comía al gordo y se volvía más fuerte.
 - Vegeta · T235 · sintió el ki del Buu malo (13:54-13:58) en la mansión de Satán y cómo desapareció; vio por TV el surco y a Facundo junto a Satán. Deduce que Facundo tuvo que ver.
 - Videl · T234 · deduce que Facundo hizo algo más de lo que dice (conoce a su padre; vio el surco). No sabe qué.

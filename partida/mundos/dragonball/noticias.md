@@ -8,3 +8,4 @@
 - Año 774 · día 2, 14:09 · TV en vivo: Mr. Satán: 'Un monstruo malvado atacó mi casa y lo destruí con mi Puñetazo Dinamita. El surco lo hizo mi puño.' La prensa lo da por cierto. (Público.)
 - Año 774 · día 2, 14:11 · TV en vivo: 'el muchacho del gato' dice que no ayudó, que lo hizo todo Mr. Satán. Mr. Satán lo abraza: 'mi humilde discípulo'. Anuncia una fiesta esta noche en su mansión. (Público.)
 - Año 774 · día 2, 20:00-21:30 · TV en vivo: fiesta en la mansión de Mr. Satán. Fuegos artificiales. (Público.)
+- Año 774 · día 2, 21:00 · TV en vivo (fiesta): Mr. Satán: 'mi humilde discípulo se queda un tiempo y después se va de viaje, como todo gran guerrero'. (Público.)
