@@ -1,8 +1,8 @@
 {
-  "turno": 187,
+  "turno": 188,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:10",
+  "hora": "14:11",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
@@ -128,7 +128,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común"
+    "poder_mostrado": "real (base, sin Forma Cenit) ante Goku y Vegeta en Isla Papaya (T188)"
   },
   "armas": [
     {
