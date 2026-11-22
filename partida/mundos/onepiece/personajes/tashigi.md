@@ -8,3 +8,4 @@ ENCUENTROS:
 - T386 · Día 8 · choca con Zoro en la calle; se le caen los lentes. Ve la Wado Ichimonji.
 QUÉ SABE DE FACUNDO: todavía nada (sin lentes no lo vio bien). Pudo ver su cartel en la base.
 ESTADO: activa
+- T387 · Guía a Zoro a la armería. Mira a Facundo de reojo: "¿Nos conocemos?" No lo ubica todavía.

@@ -16,3 +16,4 @@ ENCUENTROS:
 - T356 · Come la semilla del ermitaño que le da Facundo. Herida de Mihawk cerrada, energía al 100%. Sigue encadenado. Le debe una.
 DIÁLOGO T356: "¿Y tú quién demonios eres?"
 - T366 · Facundo le corta las cadenas con Rift: "Todo tuyo." Recupera sus espadas y enfrenta a Arlong.
+- T387 · Consigue la Sandai Kitetsu (prueba la maldición con el brazo) y la Yubashiri (regalo de Ipponmatsu).
