@@ -17,3 +17,6 @@
 - Día 1 15:32-15:48 · (T369) Luffy vence a Arlong (debilitado por Facundo y Zoro), destruye el cuarto de mapas y parte la torre. Arlong Park cae el Día 1 (canon: Día 2). Nezumi y la confiscación del dinero de Nami todavía no ocurrieron: Nezumi vendrá igual (mañana) a buscar el dinero o a cobrar a Arlong.
 - Día 1 noche · Fiesta en Cocoyasi. Arlong encadenado en la comisaría de Genzo (despierto). Gyojin atados.
 - Día 2 09:00 · Nezumi llega al mandarinal de Nojiko con 6 marines por los 100M de Nami ("dinero robado"). Le apunta a Nojiko.
+- Días 2-4 · Fiesta. Nami se tatúa mandarina y molinete. Arlong y los gyojin entregados a la Marina (otra sucursal). Genzo: promesa de Luffy.
+- Día 5 mañana · Zarpa el Going Merry con Luffy, Zoro, Nami, Usopp, Sanji, Facundo y Kase. Johnny y Yosaku se separan.
+- Día 6 10:40 · Diario: recompensas de Monkey D. Luffy (30M, canon) y 'Ojos de Eclipse' Facundo (26M, CAMBIO).
