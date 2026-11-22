@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Buu, Mr. Satán, Shin, Kibito · T228 · Facundo se queda un tiempo y después se va (no dijo adónde).
 - Kibito · T220 · Facundo estaba en el cañón del norte (Gohan se lo dijo).
 - PÚBLICO (TV) · T214 · Mr. Satán: 'el muchacho del gato', su 'discípulo', lo ayudó a domar al monstruo. (Mentira de Mr. Satán.)
 - Goten · T213 · su nombre (se lo dijo Gohan a la mañana).

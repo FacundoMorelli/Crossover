@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T228 · 14:02 · Le ofrece a Facundo una habitación en la mansión mientras se quede.
 - T227 · 14:00 · Abraza a Buu, a Bee y a Facundo, llorando de alivio.
 - T226 · 13:58 · Ve desaparecer al Buu malo. Corre hacia el Buu gordo.
 - T224 · 13:56 · Se encuentra abrazando a Facundo en lugar de la roca. Lo suelta gritando. Ve el Letzt Stil.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T185 · 14:06 · Facundo pide hablar con él. Acepta temblando, haciéndose el valiente; se lo lleva a un costado del ring.
 - T184 · 14:05 · Isla Papaya, en el ring después de la final (ganó a la 18, pactado). Facundo aterriza con Majin Buu. Se paraliza del miedo, intenta posar.
 DIÁLOGOS CLAVE:
+- T228: "¡Tengo cuarenta y dos habitaciones! ¡Elige la que quieras! ¡Menos la mía!"
 - T227: "¡Muchacho! ¡Muchacho, eres... eres...! ¡Eres casi tan bueno como yo!"
 - T224: "¡¿Y LA ROCA?!"
 - T190: "¡Toma, muchacho! ¡El número de mi mansión! ¡Llama cuando quieras! ¡Pero no a la hora de la siesta!"

@@ -3,6 +3,7 @@ AFILIACIÓN: dioses
 FÍSICO: piel lavanda, cresta blanca, pendientes Potara.
 PERSONALIDAD: serio, nervioso ante Buu.
 ENCUENTROS:
+- T228 · 14:02 · Se acerca con Kibito a despedirse.
 - T226 · 13:58 · Busca el ki del Buu malo en todo el planeta: nada. Confirma que desapareció para siempre. Llora de alivio.
 - T222 · 13:54 · Ve a Facundo separar al Buu malo. Grita que hay que destruirlo ya.
 - T221 · 13:53 · En el jardín, tenso, mirando el vapor.

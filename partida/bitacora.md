@@ -226,3 +226,4 @@ T224 · Dragon Ball · 13:56 · Boogie Woogie (roca de chocolate). Letzt Stil + 
 T225 · Dragon Ball · 13:57 · Licht Regen: todas las gotas destruidas. Queda el cuerpo principal del Buu malo.
 T226 · Dragon Ball · 13:58 · ECLIPSE: se traga al Buu malo. MISIÓN DE MUNDO CUMPLIDA. +100.300 F. NIVEL 17. VIAJE LIBRE.
 T227 · Dragon Ball · 14:00 · Le promete a Buu una vida normal. Buu le cura los ojos.
+T228 · Dragon Ball · 14:02 · 'Me quedo un tiempo y después me voy.' Buu pide meñique. Satán ofrece habitación.
