@@ -130,3 +130,4 @@ T128 · Bleach · 23:21 · Bloquea y contraataca: corta la bufanda y el brazo de
 T129 · Bleach · 23:22 · Se intercambia con Renji: Byakuya frena los pétalos ante su teniente. Facundo junto a Rukia.
 T130 · Bleach · 23:22 · Recinto (Marco en el suelo) alrededor de él y Rukia. Senbonzakura rebota; Byakuya va por arriba.
 T131 · Bleach · 23:22 · Sale del Recinto con Rukia en brazos a un techo. Ichigo cae herido por un Byakurai.
+T132 · Bleach · 23:23 · Marea Lunar: aplasta los pétalos, a Renji y pone de rodillas a Byakuya, que se levanta igual.

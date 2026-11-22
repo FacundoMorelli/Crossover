@@ -11,6 +11,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Byakuya, Renji, Ichigo, Rukia · T132 · Marea Lunar (gravedad aplastante desde el ojo azul de Facundo).
 - Byakuya, Renji, Ichigo, Rukia · T131 · vieron a Facundo moverse con pasos de luz azul (Hirenkyaku): Rukia y Byakuya lo reconocen como técnica Quincy.
 - Byakuya, Renji, Ichigo, Rukia · T127 · vieron el asfalto hundirse bajo los pies de Facundo cuando cargó a Sakaime (no saben qué es).
 - Byakuya, Renji, Ichigo, Rukia · T126 · Boogie Woogie (Facundo cambió de lugar a Byakuya e Ichigo con una palmada).
