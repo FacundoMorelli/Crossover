@@ -16,6 +16,7 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Buu no considera 'matar' convertir a alguien en dulce: lo vio a punto de hacerlo con Vegeta (T200).
 - El Buu gordo es bueno porque absorbió al Gran Kaiosama; el Buu original sigue adentro; nadie sabe separarlos; si sale, hay que destruirlo sin dejar una célula: Shin (T197).
 - Dentro de Buu hay algo peor; un trato no lo contiene para siempre: Shin se lo dijo (T196).
 - Goku está muerto, con permiso hasta la medianoche: Goku se lo dijo (T189).

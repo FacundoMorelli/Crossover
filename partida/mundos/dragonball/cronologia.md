@@ -15,6 +15,7 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- 18:44-18:56 · (T200) Vegeta vs Buu en el páramo. Final Flash. Buu se enoja y apunta la antena a Vegeta.
 - 18:41 · (T198) Majin Buu llega al páramo buscando a Facundo, con hambre. Vegeta se transforma en SSJ.
 - 17:52 · (T198) Goku se teletransporta con Gohan al Monte Paoz para ver a Milk y a Goten; promete volver a las 20:00.
 - 15:25 · (T198) Shin y Kibito se van a vigilar a Buu de lejos (mansión de Mr. Satán).

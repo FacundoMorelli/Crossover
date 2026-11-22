@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T200 · 18:44-18:56 · Pelea con Buu en SSJ y SSJ2; no le hace nada duradero. Humillado, lanza un Final Flash; queda en base, agotado, de rodillas. Buu le apunta la antena.
 - T199 · 18:43 · Mira a Buu comer golosinas con desprecio; cuando Buu le propone jugar, sonríe.
 - T198 · 15:00-18:41 · Entrena solo en SSJ2 sobre una meseta lejana; no se acerca. Al llegar Buu, baja y se transforma en SSJ.
 - T197 · 14:52 · Escucha. Aprieta los puños.
@@ -26,6 +27,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T200: "¡Deja de reírte, gusano rosado!" / "¡FINAL FLASH!"
 - T197: "Si sale, es mío."
 - T195: "Truco."
 - T194: "...Hmph."
