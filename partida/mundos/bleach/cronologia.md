@@ -21,6 +21,7 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 29/07 10:52 · Yamamoto anula la sentencia de Rukia. Perdona a Facundo por hoy; los intrusos deben irse del Seireitei cuando sanen.
 - 29/07 10:48 · Aizen, Gin y Tōsen suben a Hueco Mundo por la Negación (canon) SIN el Hōgyoku.
 - 29/07 10:38 · Isane transmite a todos: la Central 46 está muerta hace días; Aizen está vivo y es el traidor (canon). 10:40: Aizen, Gin y Tōsen aparecen en el claro frente a Facundo y Rukia (cambio: en el canon iban a la colina por Rukia y el Hōgyoku).
 - 29/07 09:45-10:35 · Ichigo vence a Byakuya (canon).

@@ -7,6 +7,7 @@ FÍSICO: pelo blanco muy largo, cara amable y pálida, haori de capitán sobre u
 PERSONALIDAD Y FORMA DE HABLAR: amable, cálido, honesto; muy querido por sus subordinados; enfermo.
 RELACIÓN CON FACUNDO: acaba de conocerlo.
 ENCUENTROS:
+- T164 · 10:52 · Sonríe detrás de Yamamoto; le hace una seña a Facundo de que se calle.
 - T156 · 09:43 · Se pone junto a Kyōraku frente a Yamamoto.
 - T154 · 09:43 · Llega corriendo a la colina con Sentarō, Kiyone y el escudo Shihōin. Ve el Sōkyoku destruido.
 - T151 · 23:37 · Ve el Boogie Woogie. Se ríe hasta toser. Dice que con eso y lo que hizo con Byakuya, tienen una oportunidad. Propone que el día de la ejecución Facundo esté en la colina, disfrazado en el 8.º.

@@ -76,4 +76,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: que puede guardar cosas donde nadie las encuentra y se ofreció a guardar el Hōgyoku (Urahara se lo contó, T111); que sabía del Hōgyoku antes que ella (deduce); su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
-ESTADO: arrestada; llevada a la Sociedad de Almas (07/07 23:30). Sin Hōgyoku. Reiatsu a un tercio, creciendo. Condenada (en el canon, a muerte).
+ESTADO: libre; sentencia anulada (29/07). Sin Hōgyoku. Reiatsu a la mitad, creciendo.
