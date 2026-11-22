@@ -24,3 +24,4 @@
 - Día 8 13:00-14:40 · Buggy y Alvida intentan ejecutar a Luffy; rayo (canon). Smoker atrapa a Luffy en la calle al puerto. Dragon presente, encapuchado.
 - Día 8 15:00 · Zarpan de Loguetown en la tormenta. Ceremonia del barril (canon), con Facundo.
 - Día 9 · Montaña Reversa; Laboon; Crocus; Mr. 9 y Miss Wednesday noqueados por Luffy (canon).
+- Día 9 · Promesa de Luffy a Laboon (canon). Log Pose de Crocus. Mr. 9 y Miss Wednesday a bordo rumbo a Whisky Peak.
