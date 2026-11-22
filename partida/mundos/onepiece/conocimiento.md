@@ -24,3 +24,5 @@
 - Todos en Arlong Park · T364 · Vieron a Facundo aplaudir y cambiar de lugar con Zoro en un instante (Boogie Woogie). Lo atribuyen a la fruta.
 - Todos en Arlong Park · T365 · Vieron brillar el ojo azul de Facundo y a Arlong salir despedido por una fuerza invisible (Marea Lunar). Oyeron que Facundo quiere que el capitán de Zoro venza a Arlong.
 - Zoro · T365 · Sabe que Facundo quiere que Luffy derrote a Arlong y que "está haciendo tiempo".
+- Zoro → Luffy (T367) · "Un tipo raro. Vuela." Motivo: Luffy pregunta quién es. Fuente válida.
+- Luffy, Sanji, Yosaku · T367 · Ven a Facundo con el aura plateada en el patio destrozado.

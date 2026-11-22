@@ -11,3 +11,6 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T367 · Día 1 15:31 · Arlong Park · llega sobre Momoo; ve a Facundo; Zoro le dice que vuela. "¡Oye, tú! ¡Únete a mi tripulación!"
+QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un tipo raro, vuela").

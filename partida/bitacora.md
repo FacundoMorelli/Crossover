@@ -365,3 +365,4 @@ T363 · One Piece · Arlong Park · Ultra Instinto, se hace el dormido. Arlong n
 T364 · One Piece · Arlong Park · Boogie Woogie: cambia de lugar con Zoro. Ahora Arlong lo tiene a él con la sierra al cuello.
 T365 · One Piece · Arlong Park · Marea Lunar: Arlong contra la torre. Pregunta a Zoro por su capitán. Zoro: Luffy vendrá; pide que lo desate.
 T366 · One Piece · Arlong Park · Corta las cadenas de Zoro con Rift. Zoro vs Arlong.
+T367 · One Piece · Arlong Park · Zoro vs Arlong parejo. Llegan Luffy, Sanji y Yosaku sobre Momoo. Luffy invita a Facundo a su tripulación.

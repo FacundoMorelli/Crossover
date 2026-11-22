@@ -13,3 +13,4 @@
 - Si Facundo derrota a Arlong en lugar de Luffy, Nami no se une igual a los Sombrero de Paja.
 ## EN PARALELO
 - Mihawk de vuelta en el Grand Line. Buggy y Alvida se reagrupan. Smoker en Loguetown. Kuro derrotado (Syrup). Don Krieg derrotado (Baratie).
+- Día 1 15:22-15:31 · (T366-367) Zoro, curado, pelea contra Arlong; corte en el pecho a Arlong. CAMBIO: Luffy, Sanji y Yosaku llegan a Arlong Park montados en Momoo el Día 1.

@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T367 · llega con Luffy. Ve a Nami y se le van los ojos en corazones; después ve el patio destrozado.
