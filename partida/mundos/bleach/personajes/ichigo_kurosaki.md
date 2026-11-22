@@ -68,3 +68,4 @@ QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo 
 ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir a la Sociedad de Almas.
 - T296 · 19/09 21:38 · En el sótano de Urahara, listo para ir a Hueco Mundo. Ve volver a Facundo. Le cuenta lo de Orihime. "¿Vienes o no?"
 - DIÁLOGO T296: "¡¿Facundo?!" / "Se llevaron a Inoue. A Hueco Mundo. La Sociedad de Almas no va a mover un dedo. Vamos ahora." / "¿Vienes o no?"
+- T297 · Cruza la Garganta con Facundo a Hueco Mundo.

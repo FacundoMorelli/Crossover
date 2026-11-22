@@ -295,3 +295,4 @@ T293 · Jujutsu · 17:05 · 'Se llama Eclipse.' Yuji propone visitar la tumba de
 T294 · Jujutsu · 01/02 18:00 · Tumba de Wasuke; días con todos; Todo. Despedida en el portón. Listo para abrir la puerta.
 T295 · Bleach · 19/09 21:30 · VIAJE LIBRE: vuelve a Bleach, 24 días después. Siente al grupo en la tienda de Urahara; Orihime no está.
 T296 · Bleach · 21:38 · Sótano de Urahara: Garganta abierta. Orihime en Hueco Mundo. '¿Vienes o no?'
+T297 · Bleach · Hueco Mundo · Cruza la Garganta con Ichigo, Uryū y Chad. Desierto, Las Noches. Una nena hollow perseguida.

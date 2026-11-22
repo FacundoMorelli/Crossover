@@ -64,3 +64,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en su tienda.
 - T296 · 21:38 · Mantiene abierta la Garganta. Ve a Facundo; sonríe tras el abanico.
 - DIÁLOGO T296: "¡Vaya, vaya! ¡El señor Bicolor! Justo a tiempo para el tren." / "La Garganta se cierra en un minuto. No es una sugerencia."
+- T297 · Cierra la Garganta detrás de ellos.

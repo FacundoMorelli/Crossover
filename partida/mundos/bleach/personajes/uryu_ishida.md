@@ -28,3 +28,4 @@ QUÉ PODERES DE FACUNDO VIO: Sakaime (líneas), Rift y Echo (fuego y hielo), Pro
 ESTADO: observando a Ichigo.
 - T296 · 21:38 · En el sótano, listo para Hueco Mundo. Ve a Facundo.
 - DIÁLOGO T296: "Llegas en el momento más inoportuno posible. Como siempre."
+- T297 · Cruza la Garganta con Facundo a Hueco Mundo.
