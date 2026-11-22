@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T72 · 11:33 · Explica que Gojo está sellado en el Reino de la Prisión, un objeto maldito que Kenjaku se llevó. No sabe cómo abrirlo.
 - T71 · 11:31 · Despierto, escucha la discusión. Respalda a Facundo: la culpa es de quien planeó todo. Les dice a Yuji y Megumi que no carguen con eso, que es trabajo de adultos.
 - T55 · 05:58 · Facundo abre la lona. Nanami ve el amanecer del 1 de noviembre. Habla de Malasia.
 - T54 · 05:41 · Despierto en la camilla. Le pide a Facundo que abra la lona para ver amanecer.
@@ -25,6 +26,7 @@ ENCUENTROS:
 - T10 · 23:45 · Facundo salta y corta al transfigurado de tres brazos que le caía por el lado ciego. Nanami le pregunta quién es.
 - T9 · 23:44 · entrada sur de la estación de Shibuya, en ruinas · Facundo lo ve pelear contra transfigurados. Nanami todavía no lo vio.
 DIÁLOGOS CLAVE:
+- T72: "El Reino de la Prisión. Un objeto maldito con forma de cubo. Lo que entra ahí no sale, salvo que alguien lo abra desde afuera. Y no sé de nadie que sepa cómo."
 - T71: "Facundo-kun tiene razón." / "Ustedes son niños. Cargar con la culpa de esta noche es trabajo de adultos. Déjenmela a mí."
 - T55: "Siempre pensé que el próximo amanecer que valiera la pena lo iba a ver en una playa de Malasia." / "...Este no está mal."
 - T54: "Facundo-kun. ¿Podría abrir la lona? Quisiera verlo."

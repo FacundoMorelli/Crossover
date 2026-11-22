@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T72 · 11:33 · Facundo le pone la mano en el hombro y pregunta dónde está Gojo. Yuji recuerda el cubo que Kenjaku se guardó.
 - T71 · 11:31 · Escucha el nombre Kenjaku. Nanami le habla; se le llenan los ojos de lágrimas.
 - T70 · 11:30 · Le cuenta todo a Megumi. Discuten quién tiene la culpa.
 - T68 · 08:10-11:22 · Espera con Facundo. Megumi despierta; Yuji se lo presenta.
@@ -39,6 +40,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T72: "El cubo... El que se guardó en la manga. ¿Gojo-sensei está ahí adentro?"
 - T70: "¡No! ¡Fue Sukuna! ¡Fue mi cuerpo!"
 - T67: "¡Ahora somos compañeros!" / "Yo me quedo hasta que Fushiguro despierte. ¿Tú?"
 - T57: "¡Facundo! Hablé con el director. Viene a las ocho. Quiere conocerte." / "Este es Choso. Dice que es mi hermano. Es... complicado."

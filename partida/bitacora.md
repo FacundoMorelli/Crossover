@@ -70,3 +70,4 @@ T68 · Jujutsu · 11:22 · Espera con Yuji. Megumi despierta y pregunta quién e
 T69 · Jujutsu · 11:23 · Se presenta a Megumi y disuelve la Marca I.
 T70 · Jujutsu · 11:30 · Escucha a Yuji contarle todo a Megumi. Los dos se culpan.
 T71 · Jujutsu · 11:31 · Dice que la culpa es de Kenjaku. Nanami lo respalda.
+T72 · Jujutsu · 11:33 · Pregunta dónde está Gojo. Nanami: Reino de la Prisión, se lo llevó Kenjaku.
