@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T372 · Le agradece a Facundo y le tiende la mano. Sabe por Nami que es "de la tripulación de Luffy, llegó hoy".

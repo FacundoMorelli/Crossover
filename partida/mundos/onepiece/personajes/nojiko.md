@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 ENCUENTROS:
 - T353 · Día 1 · mandarinal · Sale de la casa con un balde, ve a Facundo con Usopp. "¿Otro más? ¿Quién eres tú?"
+- T372 · "Esta noche hay fiesta. Te debo mandarinas para toda la vida." Le rasca la cabeza a Kase.
