@@ -52,3 +52,4 @@ T50 · Jujutsu · 01:30 · Dice que no es de ninguna escuela. Nobara pregunta d�
 T51 · Jujutsu · 01:32 · Pide dónde quedarse. Yuji pedirá a Yaga un cuarto en el dormitorio. Shoko lo llama.
 T52 · Jujutsu · 01:36 · Shoko le cura los ojos. Pregunta por su técnica.
 T53 · Jujutsu · 01:37 · Agradece a Shoko. Ella le ofrece una camilla.
+T54 · Jujutsu · 05:41 · Duerme 4 h. Nanami despierto le pide abrir la lona para ver el amanecer.

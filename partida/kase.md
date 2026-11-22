@@ -14,3 +14,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - Turno 2 · Salta del hombro al bajar la escalera de incendio; espera sobre el techo de un taxi mientras Facundo corta al transfigurado.
 - Turno 3 · Vuelve al hombro. Al ver el santuario, se mete adentro del sobretodo de Facundo.
 - Turno 49 · Ignora a Nobara cuando intenta acariciarlo. Se deja rascar por Yuji.
+- Turno 54 · Duerme toda la madrugada sobre el pecho de Facundo. Lo despierta con una pata en la cara antes del amanecer.

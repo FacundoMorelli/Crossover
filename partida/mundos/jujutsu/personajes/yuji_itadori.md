@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T54 · madrugada · Habla por teléfono con Yaga sobre Facundo: Yaga viene a las 8:00. Duerme en una camioneta del puesto.
 - T51 · 01:32 · Se ofrece a hablar con el director Yaga para que Facundo se quede en el dormitorio de la escuela de Tokio.
 - T50 · 01:30 · Escucha que Facundo no es de ninguna escuela.
 - T48 · 01:28 · Facundo le dice que sin él Nanami y Megumi estarían muertos. Yuji se ríe un poco, acaricia a Kase. Nobara llega con jugos.
