@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: amigo y rival; lo admira y le encanta pelear con él.
 ENCUENTROS:
+- T196 · 14:50 · Facundo le dice que no cree poder enseñarle y que de verdad no sabe dónde está. Goku lo deja pasar con una risa. Llegan Shin, Kibito y Gohan.
 - T195 · 14:47 · Había confundido el Boogie Woogie con teletransportación. Facundo se lo muestra cambiándose de lugar con él. Goku entiende que es distinto y quiere aprenderlo.
 - T194 · 14:43-14:46 · Facundo pide algo para recuperarse. Goku se teletransporta a la Torre de Karin y vuelve con una bolsa de semillas del ermitaño. Le da una a Facundo, se come otra y le regala una de reserva. Le da otra a Vegeta (que la acepta sin decir nada).
 - T193 · 14:31-14:41 · Pelea en serio con Facundo: SSJ, SSJ2 y, al final, SSJ3 por primera vez delante de alguien en este mundo. Choque final: Kamehameha contra el último ataque de Facundo. Empate. Termina en base, sin aliento, riéndose.
@@ -26,6 +27,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T196: "¡Ah, bueno! ¡No importa! Yo tampoco sé dónde estoy la mitad del tiempo."
 - T195: "¡Ahhh! ¡No es lo mismo! ¡Tú cambias de lugar con alguien!" / "¡Qué técnica más rara! ¡Enséñamela! Yo te enseño la mía, ¿trato?"
 - T194: "¡Semillas del ermitaño! ¡Espera, voy y vuelvo!" / "Toma. Y guarda esta, por las dudas."
 - T193: "¡Super Saiyajin... 3!" / "¡Jajaja! ¡Hace años que no me divertía así!" / "Eres increíble, Facundo. ¿Cuánto tiempo me queda? ¡Uf, unas horas! ¡Te enseño a volar más rápido!"

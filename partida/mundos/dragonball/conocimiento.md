@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Goku · T196 · Facundo le dijo que de verdad no sabe dónde está. No pregunta más.
 - Goku y Vegeta · T188 · su nombre; Facundo les mostró su ki base real (nivel de Vegeta al llegar a la Tierra); no saben de la Forma Cenit ni de otras técnicas.
 - PÚBLICO (TV en vivo) · T184 · un joven de pelo blanco y azul con un gato aterriza en el ring del torneo con una criatura rosada.
 - Goku · T178 · Facundo le pidió ayuda. Cree que salvó a la gente del torneo (deducción: la ráfaga iba hacia allá).
@@ -14,5 +15,6 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Dentro de Buu hay algo peor; un trato no lo contiene para siempre: Shin se lo dijo (T196).
 - Goku está muerto, con permiso hasta la medianoche: Goku se lo dijo (T189).
 - Está en la Tierra, Isla Papaya, 25.º Torneo: Goku se lo dijo (T187).

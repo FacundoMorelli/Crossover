@@ -11,3 +11,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T182 · Buu acepta un trato con Facundo: no matar a cambio de dulces diarios.
 - T186 · Buu y Mr. Satán se hacen amigos el mismo día del despertar (en el canon tardaba días y antes Buu mataba a millones).
 - T193 · Goku revela el Super Saiyajin 3 en una pelea de entrenamiento con Facundo (en el canon lo mostraba contra Buu).
+- T180/T196 · Kibito sigue vivo (en el canon, Buu lo mataba).
