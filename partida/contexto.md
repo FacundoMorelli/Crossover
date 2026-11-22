@@ -1,17 +1,17 @@
-TURNO: 194 | MUNDO: Dragon Ball | Año 774 · día del 25.º Torneo | HORA: 14:46 | Lugar: páramo rocoso (lugar de entrenamiento de Goku)
+TURNO: 195 | MUNDO: Dragon Ball | Año 774 · día del 25.º Torneo | HORA: 14:47 | Lugar: páramo rocoso (lugar de entrenamiento de Goku)
 MOMENTO DEL CANON: Saga Majin Buu: Babidi (cap. ~448). Goku, Vegeta, Gohan, Shin y Kibito frente a la nave; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave, Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, autodestrucción de Vegeta.
 FACUNDO: 18 años · Nivel 12 · EXP 36.010/43.000 · 65 Fragmentos · 40 puntos sin asignar · 0 zeni · Energía 100% · Ojos: bien · STATS ~203
 PARA ESTE MUNDO: salió en TV con Buu. Velo: mostró su ki base real a Goku y Vegeta. Ropa negra propia (sacó la del Seireitei).
 QUIÉN SABE QUÉ: Vegeta y Goku lo vieron en el risco (sin ki perceptible) y vieron la línea.
 MISIÓN DE MUNDO: Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. (activa) — completarla da VIAJE LIBRE (3/3).
 ÚLTIMOS 5 TURNOS:
+- T195: le muestra a Goku que lo que hizo fue Boogie Woogie (cambiarse de lugar con él), no teletransportación. Goku quiere aprenderlo; ofrece enseñarle la suya a cambio.
 - T194: pide algo para recuperarse. Goku se teletransporta a la Torre de Karin y trae semillas del ermitaño: una para él (energía 100%, ojos curados), una de reserva. Vegeta acepta otra sin decir nada.
 - T193: pelea con todo contra Goku 10 min: Eclipse, Sakaime, Boogie Woogie, Senbonzakura, Shinsō, Getsuga, máscara; Goku sube a SSJ2 y a SSJ3. Choque final (Mugetsu contra Kamehameha): empate. Termina la Cenit: energía 8%, ojos sangrando. COPIA el poder de Goku (+5.000 EXP). Nivel 12.
 - T192: Forma Cenit (x3) y ataca a Goku: Goku, en base, bloquea y sale arrastrado 30 m; se ríe y se transforma en Super Saiyajin. Vegeta de pie, sorprendido.
 - T191: vuelan al páramo de Goku. Goku le pide que le muestre todo lo que tiene. Vegeta mira desde una roca.
 - T190: le recuerda a Buu la promesa; pregunta cómo comunicarse. Buu promete; no siente su ki, gritaría 'DEL GATOOO'. Mr. Satán le da la tarjeta con su teléfono. Goku: dejar un hilito de ki afuera para que lo encuentren.
 - T189: calma a Buu; acepta entrenar con Goku. Goku solo tiene hasta la medianoche (está muerto). Vegeta se suma para ver los 'trucos'.
-- T188: se presenta como Facundo; dice que están muy por encima y muestra su ki real (base). Goku: fuerte, como Vegeta al llegar a la Tierra; quiere entrenarlo. Vegeta: 'trucos sucios'.
 PRESENTES EN ESCENA: Goku (frente a Facundo, en base). Vegeta (en una roca, mirando). Kase. (Buu con Mr. Satán en Isla Papaya.)
 VÍNCULOS ACTIVOS: ninguno en este mundo.
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga). Quincy (Uryū). Shinsō (Gin). Aizen. Senbonzakura (Byakuya). Zabimaru (Renji). Todo Ichigo. Goku (SSJ1-3+, Kamehameha, Kaio-ken, Teletransportación, Genkidama).
