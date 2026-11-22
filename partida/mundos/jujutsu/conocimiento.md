@@ -53,6 +53,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Facundo → Nobara (T76): los altos mandos quieren ejecutar a Yuji y retenerlo a él; se van.
 - Altos mandos (02-03/11): reciben informes del puesto de mando y de los asistentes: un hechicero no registrado, 'Facundo', pelo blanco y azul, gato, técnica de hielo/luz y números; peleó contra Mahito y Uraume. Decretan retenerlo.
 - Facundo → Yuji, Megumi y Nanami (T71, carpa médica): llama "Kenjaku" al hombre con el cuerpo de Geto. Se sorprenden una vez y lo adoptan. (Choso lo llamó 'Noritoshi Kamo' anoche.)
 - Yuji → Megumi (T69, carpa médica): Facundo lo salvó a él y a Nanami, ayudó contra Mahito.
