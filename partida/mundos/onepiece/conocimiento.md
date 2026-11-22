@@ -32,3 +32,4 @@
 - Aldeanos de Cocoyasi, Genzo · T371 · Ven Arlong Park en ruinas; los gyojin y los Sombrero de Paja cuentan (rumor) que "el del pelo de dos colores y el gato" tumbó a medio parque.
 - Aldeanos de Cocoyasi · T374 · En la fiesta se cuenta (rumor deformado) que el forastero del gato "voló sobre Arlong Park y aplastó a cien hombres-pez con una ola".
 - Nezumi · T374 · Oyó el rumor por sus soldados (que escucharon a los aldeanos de madrugada). No vio nada.
+- Nezumi y 6 marines · T375 · Facundo atacó a un oficial de la Marina con una espada azul (Echo). Nezumi lo va a informar (motivo: venganza y cubrirse). Testigos: Nojiko, Nami.

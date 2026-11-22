@@ -373,3 +373,4 @@ T371 · One Piece · Arlong Park · Le dice su nombre a Luffy. Llegan los aldean
 T372 · One Piece · Arlong Park · "Puede ser." Nojiko invita a la fiesta. Genzo agradece.
 T373 · One Piece · Arlong Park · "No me agradezcas." Genzo le palmea el hombro. Todos van a la fiesta.
 T374 · One Piece · Cocoyasi · Fiesta. Día 2: Nezumi llega al mandarinal por el dinero de Nami y le apunta a Nojiko.
+T375 · One Piece · Mandarinal · Corta la pistola y un bigote de Nezumi ("se me resbaló la mano"). Nezumi ordena disparar.
