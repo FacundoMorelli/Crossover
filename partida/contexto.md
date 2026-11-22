@@ -1,10 +1,11 @@
-TURNO: 112 | MUNDO: Bleach | 25 de junio | HORA: 21:08 | Lugar: Urahara Shōten, trastienda
+TURNO: 113 | MUNDO: Bleach | 29 de junio | HORA: 23:40 | Lugar: Urahara Shōten, sótano (sala subterránea)
 MOMENTO DEL CANON: Shinigami Sustituto, cap. ~26-27. Don Kanonji graba en el hospital; el espíritu atado está por volverse hollow. Ichigo (15) Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū, Menos Grande, arresto de Rukia (Renji y Byakuya).
-FACUNDO: 18 años · Nivel 6 · EXP 11.360/13.500 · 765 Fragmentos · 5 puntos sin asignar · 0 yenes · Energía 83% · Ojos: bien
+FACUNDO: 18 años · Nivel 6 · EXP 11.810/13.500 · 771 Fragmentos · 5 puntos sin asignar · 0 yenes · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: salió en TV en vivo como 'espontáneo con espada'. Velo: persona común. Uniforme negro de la escuela de Jujutsu (no significa nada acá).
 QUIÉN SABE QUÉ: Ichigo y Rukia saben su nombre y lo vieron hacer el konsō. PÚBLICO: salió en vivo por TV (aspecto, katana, gato). Los que ven espíritus pudieron ver el konsō.
 MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (activa)
 ÚLTIMOS 5 TURNOS:
+- T113: simula 26-29/06: entrenamientos con Ichigo (+450 EXP, +6 F, Sakaime 36); Uryū mira; Ichigo sospecha. 29/06 23:40: Urahara extrae el Hōgyoku de Rukia y se lo tiende a Facundo.
 - T112: dice que no gana nada, solo quiere ayudar. Rukia acepta la extracción (no por él: por ella y por Ichigo). Condiciones: Ichigo no se entera todavía. Extracción: noche del 29/06 en el sótano.
 - T111: observa. Urahara le cuenta todo a Rukia; ella lo abofetea; él pide perdón. Rukia escucha el plan y le pregunta a Facundo por qué confiarle el Hōgyoku y qué gana él.
 - T110: simula hasta el 25/06 noche. Entrena con Ichigo 3 h en el río (+300 EXP, +3 F, Sakaime 34). Uryū mira desde el puente. Tessai trae a Rukia; Urahara la recibe para contarle todo.
@@ -12,9 +13,8 @@ MISIÓN DE MUNDO: Que Rukia Kuchiki vuelva a Karakura libre y con sus poderes. (
 - T108: guarda el caramelo en el inventario. Urahara y Yoruichi lo buscan media hora: nada. Urahara acepta en principio: necesita días para preparar la extracción, y Rukia tiene que saberlo y aceptar.
 - T107: ofrece esconder el Hōgyoku en su inventario. Urahara: sacarlo de Rukia es difícil pero posible, y entonces sus poderes podrían volver. Pide una demostración.
 - T106: acepta entrenar con Ichigo (mañana después de clases, en el río) pero antes va a ver a Urahara. Urahara lo recibe.
-- T105: guarda la espada (la línea sigue en el aire unos minutos). Rukia le pide que entrene con Ichigo.
 - T87: entra por atrás al hospital. Desde la baranda del primer piso ve a Kanonji hundir el bastón en el pecho del espíritu atado frente a cámaras en vivo. Se le forma una máscara.
-PRESENTES EN ESCENA: Urahara (sin sombrero). Rukia (sentándose). Yoruichi. Tessai. Kase.
+PRESENTES EN ESCENA: Urahara (Hōgyoku en la palma). Rukia (en el círculo, despierta, débil). Tessai (barreras). Yoruichi. Kase.
 VÍNCULOS ACTIVOS: Urahara (anfitrión, trato por Sakaime). Yoruichi (curiosa). Rukia (desconfiada, lo buscará mañana). Ichigo (curioso).
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga).
 MISIONES DE COPIA ACTIVAS: Ichigo — que te llame su rival. (Jujutsu, no vencen) Naoya — Proyección; Yuta — Rika completa.

@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T113 · 26-28/06 · Entrena con Facundo todas las tardes en el río. Mejora su control. Sospecha que Rukia y Facundo le ocultan algo.
 - T110 · 25/06 16:00-19:00 · Entrena con Facundo en el río. Pelea en serio tres horas; Facundo lo frena con líneas y lo obliga a apuntar su reiatsu. Aprende a no derramarlo en cada tajo. Termina tirado en el pasto, exhausto. Se va a casa.
 - T106 · 15:49 · Se entera del entrenamiento. Protesta pero acepta.
 - T104 · 15:47 · Cae sobre el hollow al mismo tiempo que Facundo lo corta: lo parten entre los dos. Hace el konsō del niño con la empuñadura. Se queja de que 'ese era suyo'.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T113: "¿Qué están tramando ustedes dos?"
 - T110: "...Otra vez. Una más. ¡Una más!" / "No me ganaste. Empatamos."
 - T106: "¡¿Entrenar con él?! ...Bien. Así te gano."
 - T104: "¡Oye! ¡Ese era mío!" / "...La próxima vez no te lo dejo, ¿oíste?"

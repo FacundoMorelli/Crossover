@@ -1,13 +1,13 @@
 {
-  "turno": 112,
+  "turno": 113,
   "mundo_actual": "bleach",
-  "fecha_local": "25 de junio (año del canon, ~2001)",
-  "hora": "21:08",
+  "fecha_local": "29 de junio (año del canon, ~2001)",
+  "hora": "23:40",
   "edad": 18,
   "nivel": 6,
-  "exp": 11360,
+  "exp": 11810,
   "exp_siguiente_nivel": 13500,
-  "fragmentos": 765,
+  "fragmentos": 771,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -31,7 +31,7 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 83,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 38,
     "partes_desbloqueadas": [
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 34,
+      "maestria": 36,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -111,7 +111,7 @@
     {
       "nombre": "Sakaime",
       "tipo": "zanpakutō (Don de Mundo Bleach)",
-      "estilo_maestria": 34
+      "estilo_maestria": 36
     }
   ],
   "inventario_dimensional": [
@@ -398,6 +398,13 @@
       "turno": 110,
       "fragmentos": 3,
       "exp": 300
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Ichigo Kurosaki (tres duelos de entrenamiento, 26-28/06)",
+      "turno": 113,
+      "fragmentos": 6,
+      "exp": 450
     }
   ],
   "viaje": {
@@ -426,7 +433,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 2
+        "dias_transcurridos": 6
       }
     },
     "puerta_abierta": true,
@@ -530,6 +537,7 @@
     "segundo_mundo": "bleach (tirada 0.038 → cap. ~26)",
     "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55).",
     "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá.",
-    "uryu": "Uryū Ishida observó el entrenamiento desde el puente (25/06). Lo intriga Facundo: no siente su reiatsu y usa una zanpakutō sin ser Shinigami. En el canon, se presenta a Ichigo en unos días (cap. 34) y lanza el señuelo."
+    "uryu": "Uryū observa a Ichigo y a Facundo. Su desafío con el señuelo (cap. 34) se correrá a principios de julio. Ve en Facundo un misterio.",
+    "sociedad_de_almas": "La Sociedad de Almas ya asignó a Renji y Byakuya la búsqueda de Rukia; llegarían en el canon tras el Menos Grande (cap. 51). Al salir el Hōgyoku de Rukia, Aizen (que lo busca a través de ella) pierde su objetivo sin saberlo aún."
   }
 }
