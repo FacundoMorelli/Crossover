@@ -103,3 +103,4 @@ T101 · Bleach · 24/06 15:42 · Duerme; mañana tranquila en la tienda. Llegan 
 T102 · Bleach · 15:46 · Van al hollow. Ichigo sale como Shinigami. Hollow-lagarto persigue a un niño espíritu. Misión de copia: Ichigo.
 T103 · Bleach · 15:46 · Shikai de Sakaime: línea frente al niño. El hollow se rompe los dientes contra ella.
 T104 · Bleach · 15:47 · Corta al hollow con Sakaime mientras cae Ichigo. Konsō del niño. Ichigo: 'ese era mío'.
+T105 · Bleach · 15:48 · Guarda la espada. Rukia le pide que entrene con Ichigo.

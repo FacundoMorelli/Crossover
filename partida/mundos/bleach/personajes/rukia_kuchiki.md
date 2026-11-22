@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: más de un siglo (aspecto de adolescente; adulta por edad real — ver regla de romance: aspecto juvenil, NO opción romántica por prudencia).
 FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uniforme del instituto.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
-RELACIÓN CON FACUNDO: acaba de verlo; curiosidad y desconfianza.
+RELACIÓN CON FACUNDO: desconfianza práctica; quiere usarlo para entrenar a Ichigo.
 ENCUENTROS:
+- T105 · 15:48 · Facundo guarda la espada. Rukia le dice que un shikai así necesita años; le pide que entrene con Ichigo, porque Ichigo no controla su reiatsu y ella ya no puede enseñarle peleando.
 - T103 · 15:46 · Ve a Facundo liberar a Sakaime y trazar una línea que detiene al hollow.
 - T101 · 24/06 15:42 · Llega a la tienda con Ichigo después de clases. El celular de Rukia suena: hollow cerca. Le propone a Facundo ir a ver qué sabe hacer.
 - T97 · 21:20 · Facundo pide hablar a solas con Urahara. Rukia se ofende y se va a casa de Ichigo; le dice a Facundo que mañana lo busca.
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T105: "Un Shinigami tarda años en escuchar el nombre de su zanpakutō. Tú la liberaste como si nada." / "Quiero que entrenes con Ichigo. Yo ya no puedo pelear con él."
 - T103: "...Eso es un shikai."
 - T101: "Perfecto. Vamos a ver qué sabes hacer."
 - T97: "Bien. Secretos entre hombres raros." / "Mañana te busco. No te vayas de la ciudad."
