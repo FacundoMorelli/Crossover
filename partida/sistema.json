@@ -1,8 +1,8 @@
 {
-  "turno": 267,
+  "turno": 268,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
-  "hora": "13:17",
+  "hora": "13:18",
   "edad": 18,
   "nivel": 22,
   "exp": 139810,
@@ -222,6 +222,14 @@
     {
       "objeto": "Espada de Dabura (partida en dos)",
       "origen": "Mundo de los Demonios, T257"
+    },
+    {
+      "objeto": "Semilla del ermitaño (regalo de Karin)",
+      "origen": "dragonball, T268"
+    },
+    {
+      "objeto": "Jarrón del 'Agua Sagrada' (agua común; regalo de Karin)",
+      "origen": "dragonball, T268"
     }
   ],
   "copias": [
