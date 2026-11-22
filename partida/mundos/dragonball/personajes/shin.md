@@ -3,6 +3,7 @@ AFILIACIÓN: dioses
 FÍSICO: piel lavanda, cresta blanca, pendientes Potara.
 PERSONALIDAD: serio, nervioso ante Buu.
 ENCUENTROS:
+- T230 · 14:05 · Se va con Kibito al Kaioshin-kai (Kai Kai).
 - T229 · 14:04 · Agradece a Facundo en nombre del universo. Vuelve al Kaioshin-kai con Kibito. Le dice que si necesita algo, lo llame. Reverencia.
 - T228 · 14:02 · Se acerca con Kibito a despedirse.
 - T226 · 13:58 · Busca el ki del Buu malo en todo el planeta: nada. Confirma que desapareció para siempre. Llora de alivio.

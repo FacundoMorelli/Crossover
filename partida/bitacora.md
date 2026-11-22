@@ -228,3 +228,4 @@ T226 · Dragon Ball · 13:58 · ECLIPSE: se traga al Buu malo. MISIÓN DE MUNDO 
 T227 · Dragon Ball · 14:00 · Le promete a Buu una vida normal. Buu le cura los ojos.
 T228 · Dragon Ball · 14:02 · 'Me quedo un tiempo y después me voy.' Buu pide meñique. Satán ofrece habitación.
 T229 · Dragon Ball · 14:04 · Meñique con Buu: promete volver. Shin agradece y se despide.
+T230 · Dragon Ball · 14:07 · Shin y Kibito se van. Llega la prensa a la mansión.
