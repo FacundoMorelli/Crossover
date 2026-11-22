@@ -284,3 +284,4 @@ T282 · Jujutsu · 21:42 · Perdón a Nobara. Puñetazo y abrazo. Megumi encerra
 T283 · Jujutsu · 21:45 · Puerta de Megumi. 'Váyanse.'
 T284 · Jujutsu · 21:47 · Megumi abre. 'Si vienes a decirme que no fue mi culpa, ahórratelo.'
 T285 · Jujutsu · 22:20 · Silencio con Megumi. Kase a su lado. Megumi habla de Tsumiki.
+T286 · Jujutsu · 22:25 · Le habla a Megumi del futuro. Megumi pregunta por el curry.
