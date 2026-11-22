@@ -14,3 +14,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - DIÁLOGO T320: "¡¿QUÉ LE HICISTE A AIZEN-SAMA?!"
 - T321 · Libera su Bankai contra Facundo: Suzumushi Tsuishiki: Enma Kōrogi.
 - DIÁLOGO T321: "¡No te lo perdonaré! ¡Bankai! ¡Suzumushi Tsuishiki: Enma Kōrogi!"
+- T322 · Facundo le pregunta por qué. Deshace el Bankai para que lo escuche. Cuenta lo de su amiga asesinada y la justicia podrida. Pregunta qué justicia sigue Facundo.
+- DIÁLOGO T322: "¿Por qué? ...Te lo diré. Para que lo escuches con tus oídos." / "Ella era una shinigami. Su esposo la mató. Era shinigami también. Nadie lo castigó. Nadie." / "Aizen-sama era el único camino sin sangre para cambiar este mundo podrido." / "¿Y tú? ¿Qué justicia sigues?"
