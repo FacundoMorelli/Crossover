@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: amigo y rival; lo admira y le encanta pelear con él.
 ENCUENTROS:
+- T206 · 20:08 · Le pide a Facundo que cuide que Vegeta y Buu no se maten cuando él ya no esté.
 - T204 · 20:04 · Facundo le cuenta lo de Vegeta y Buu. Se ríe, después se pone serio: Vegeta va a volver por la revancha, y él ya no va a estar.
 - T203 · 20:00 · Vuelve con Gohan y Goten. Ve a Buu dormido, nota que el ki de Vegeta está lejos y bajo; pregunta qué pasó.
 - T198 · 15:00-17:52 · Entrena con Facundo toda la tarde (en base, SSJ y SSJ2). Se sorprende de que use el Kamehameha y el Kaio-ken "igualito" que él. Se va con Gohan al Monte Paoz a ver a Milk y a Goten; promete volver a las 20:00.
@@ -31,6 +32,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T206: "¿Puedo pedirte algo? Cuando yo me vaya... no dejes que Vegeta y Buu se maten."
 - T204: "Conozco a Vegeta. No va a dejar esto así." / "Y a la medianoche yo ya no voy a estar."
 - T197: "¿Un Buu malo y fuerte? ...¿Más fuerte que el gordito?"
 - T196: "¡Ah, bueno! ¡No importa! Yo tampoco sé dónde estoy la mitad del tiempo."

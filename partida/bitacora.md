@@ -204,3 +204,4 @@ T202 · Dragon Ball · 18:58 · Más dulces a Buu (4 F). Buu perdona. Vegeta se 
 T203 · Dragon Ball · 20:00 · Simula: Vegeta se va; Buu se duerme; llegan Shin y Kibito; vuelve Goku con Gohan y Goten.
 T204 · Dragon Ball · 20:04 · Le cuenta a Goku lo de Vegeta y Buu. Goku preocupado por la revancha.
 T205 · Dragon Ball · 20:06 · Goten acaricia a Kase.
+T206 · Dragon Ball · 20:08 · Kase presentado a Goten. Goku le pide cuidar a Vegeta y a Buu.

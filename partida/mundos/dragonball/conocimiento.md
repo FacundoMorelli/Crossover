@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Goten, Goku, Gohan · T206 · el gato se llama Kase (Facundo lo dijo).
 - Goku, Gohan, Goten · T204 · Facundo les contó la pelea de Vegeta con Buu, el Final Flash, el enojo de Buu y que salvó a Vegeta con el cambio de lugar.
 - Goku · T196 · Facundo le dijo que de verdad no sabe dónde está. No pregunta más.
 - Goku y Vegeta · T188 · su nombre; Facundo les mostró su ki base real (nivel de Vegeta al llegar a la Tierra); no saben de la Forma Cenit ni de otras técnicas.
