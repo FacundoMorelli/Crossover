@@ -1,8 +1,8 @@
 {
-  "turno": 17,
+  "turno": 18,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:49",
+  "hora": "23:50",
   "edad": 18,
   "nivel": 1,
   "exp": 310,
@@ -26,9 +26,9 @@
     "energia": 36,
     "control": 35
   },
-  "energia_actual_pct": 82,
+  "energia_actual_pct": 77,
   "eclipse": {
-    "maestria": 31,
+    "maestria": 32,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo ardiendo (lágrima de sangre); ojo azul frío y un poco nublado",
+  "ojos": "ojo rojo ardiendo (sangre seca); ojo azul frío, más nublado",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",

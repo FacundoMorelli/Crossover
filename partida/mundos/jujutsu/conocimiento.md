@@ -12,6 +12,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Mahito · T18 · Escarcha Lunar: la espada azul congeló su brazo-puño hasta el hombro. Tuvo que arrancárselo y regenerarlo.
 - Mahito y Kento Nanami · T15 · vieron la Marea Lunar: una fuerza invisible que salió del ojo azul de Facundo y empujó a Mahito contra la pared, con escarcha en el aire. Ambos notan que Facundo usa los dos ojos para dos cosas distintas.
 - Mahito · T14 · recibió el Destello Solar de frente (luz cegadora que sale del ojo rojo de Facundo) y el corte de Rift. Lo interpreta como técnica maldita de luz y fuego ligada al ojo.
 - Kento Nanami · T14 · vio el fogonazo reflejado (de espaldas a Facundo, no quedó ciego) y el corte que partió a Mahito. Notó que salió de los ojos de Facundo.
