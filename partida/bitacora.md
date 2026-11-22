@@ -322,3 +322,4 @@ T320 · Bleach · Las Noches · AIZEN PETRIFICADO. +1.000 F. Tōsen furioso, Gin
 T321 · Bleach · Las Noches · Habla con Gin (su motivo). Tōsen libera el Bankai: Enma Kōrogi.
 T322 · Bleach · Las Noches · '¿Por qué, Tōsen?' Deshace el Bankai y cuenta su historia. '¿Qué justicia sigues?'
 T323 · Bleach · Las Noches · 'Se metieron con mis amigos.' Tōsen se rinde: pide ir ante Komamura.
+T324 · Bleach · Las Noches · Carga la estatua de Aizen; Gin y Tōsen lo siguen. Ulquiorra en el pasillo.

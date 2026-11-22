@@ -20,3 +20,5 @@ ESTADO: abriendo una Garganta, con Yammy al hombro.
 - T315 · Sobre la cúpula, junto a Ichigo caído. Deja que Orihime lo cure. Invita a Facundo a la sala del trono de Aizen: lo escoltará.
 - DIÁLOGO T315: "Llegaste. Aizen-sama lo previó." / "Aizen-sama te espera en la sala del trono. Yo te escoltaré." / "Si te niegas, Aizen-sama irá a buscarte a Karakura. Con todo."
 - T316 · Escolta a Facundo a la sala del trono.
+- T324 · En el pasillo afuera de la sala del trono. Ve a Aizen petrificado al hombro de Facundo. Inmóvil. Dice sus órdenes.
+- DIÁLOGO T324: "...Aizen-sama." / "Aizen-sama me ordenó una sola cosa para el caso de que algo así ocurriera: proteger Las Noches." / "No entiendo qué es el corazón. Pero entiendo una orden."

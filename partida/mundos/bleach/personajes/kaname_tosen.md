@@ -18,3 +18,4 @@ ESTADO: en Hueco Mundo con Aizen.
 - DIÁLOGO T322: "¿Por qué? ...Te lo diré. Para que lo escuches con tus oídos." / "Ella era una shinigami. Su esposo la mató. Era shinigami también. Nadie lo castigó. Nadie." / "Aizen-sama era el único camino sin sangre para cambiar este mundo podrido." / "¿Y tú? ¿Qué justicia sigues?"
 - T323 · Escucha a Facundo. Deja caer la espada, se arrodilla. Pide ser llevado ante Komamura.
 - DIÁLOGO T323: "...Tus amigos." / "Yo también tuve una. Y fallé." / "Llévame ante Komamura. Sajin. Que él me juzgue. Él es el único que tiene derecho."
+- T324 · Recoge su espada, la envaina, sigue a Facundo.

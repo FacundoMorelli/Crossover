@@ -42,3 +42,4 @@ ESTADO: en Hueco Mundo con Aizen.
 - DIÁLOGO T320: "...Je. Jejeje."
 - T321 · Facundo le dice que ya tiene lo que quería, que él siempre supo, que el Seireitei no lo sabe y duda que lo perdonen. Se sorprende una vez; pide que no se lo digan a Rangiku.
 - DIÁLOGO T321: "¿Cómo...?" / "...Bah. Da igual." / "Una cosa. A Rangiku no le digas nada. Que siga pensando que soy una serpiente. Es más fácil para ella."
+- T324 · Sigue a Facundo fuera de la sala del trono, con las manos en las mangas.
