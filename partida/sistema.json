@@ -1,13 +1,13 @@
 {
-  "turno": 198,
+  "turno": 199,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "18:41",
+  "hora": "18:43",
   "edad": 18,
   "nivel": 12,
   "exp": 41810,
   "exp_siguiente_nivel": 43000,
-  "fragmentos": 65,
+  "fragmentos": 61,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",

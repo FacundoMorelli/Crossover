@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T199 · 18:43 · Recibe dos bolsas grandes de golosinas; se las come en segundos. Mira a Vegeta y le pregunta si quiere jugar.
 - T198 · 18:41 · Llega volando al páramo gritando "¡DEL GATOOO!". Tiene hambre; Mr. Satán está con la prensa.
 - T190 · 14:13 · Facundo le recuerda no lastimar ni matar a nadie y le pregunta cómo comunicarse. Buu promete otra vez; dice que no siente su ki y que lo buscaría gritando. Mr. Satán ofrece su teléfono.
 - T189 · 14:12 · Facundo le dice que están hablando. Buu se calma y vuelve con Mr. Satán.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T199: "¡Del gato es el mejor!" / "¿Pelo de fuego quiere jugar con Buu?"
 - T190: "¡Buu no lastima! ¡Buu promete otra vez!" / "Pero Buu no siente al del gato... ¡Buu grita fuerte 'DEL GATOOO' y vuela!"
 - T189: "Bueno... ¡pero que no moleste!"
 - T186: "¡Pelo de nube bueno! ¡Buu quiere a pelo de nube!"
