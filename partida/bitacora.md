@@ -301,3 +301,4 @@ T299 · Bleach · Hueco Mundo · Nel acaricia a Kase. Pesche ofrece guiarlos a L
 T300 · Bleach · Hueco Mundo · Runuganga; Rukia y Renji llegan. Rukia ve a Facundo.
 T301 · Bleach · Hueco Mundo · Rukia: patada y sonrisa. Advierte: Aizen sabe que tiene el Hōgyoku.
 T302 · Bleach · Las Noches · Ichigo rompe la pared. Cinco pasillos: separarse.
+T303 · Bleach · Las Noches · Con Rukia por un pasillo. Sala oscura: 'Kaien Shiba'.
