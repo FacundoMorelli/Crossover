@@ -221,3 +221,4 @@ T219 · Dragon Ball · 08:23 · Pelea con Vegeta. Corte en X, Eclipse 50 (parte 
 T220 · Dragon Ball · 13:52 · Descansa en el cañón. Kibito: dispararon a Mr. Satán; Buu echa vapor.
 T221 · Dragon Ball · 13:53 · Kai Kai a la mansión de Mr. Satán. El vapor de Buu toma forma.
 T222 · Dragon Ball · 13:54 · Transfiguración Ociosa: separa al Buu malo del gordo. Buu malo suelto.
+T223 · Dragon Ball · 13:55 · Boogie Woogie al Buu gordo. Forma Cenit. El Buu malo le apunta la antena.
