@@ -258,3 +258,4 @@ T256 · Dragon Ball · 10:41 · Forma Cenit x10 frente a Dabura.
 T257 · Dragon Ball · 10:46 · Mata a Dabura. +50.000 F. Copia el poder de Dabura. Vuelve: Piccolo y Krilin de carne.
 T258 · Dragon Ball · 10:50 · Disuelve las marcas. Les resume todo a Piccolo y Krilin.
 T259 · Dragon Ball · 10:52 · Goku en el Otro Mundo; 18 y Marron bien. Piccolo se va. Krilin invita a Kame House.
+T260 · Dragon Ball · 11:30 · Kame House. La 18, Marron, Roshi. Roshi: ¿fuerte de verdad o como Satán?

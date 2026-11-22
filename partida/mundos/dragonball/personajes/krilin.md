@@ -5,6 +5,7 @@ FÍSICO: bajo, pelo negro corto (ya no rapado), seis puntos en la frente, ropa d
 PERSONALIDAD Y FORMA DE HABLAR: simpático, nervioso, leal.
 RELACIÓN CON FACUNDO: ninguna (no lo conoce).
 ENCUENTROS:
+- T260 · 11:30 · Llega a Kame House con Facundo. La 18 y Marron lo abrazan.
 - T259 · 10:52 · Llora de alivio al saber que la 18 y Marron están bien. Invita a Facundo a Kame House.
 - T258 · 10:50 · Facundo le resume lo de Buu y Dabura. Shock y alivio. Pregunta por la 18 y Marron.
 - T257 · 10:46 · Vuelve a ser de carne al morir Dabura. Confundido, con un dolor en el tobillo.
