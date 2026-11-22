@@ -37,6 +37,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Ejecución de Rukia en el Sōkyoku en veinte días; la pena parece desproporcionada: Kyōraku se lo dijo (T145).
 - Hōgyoku dentro de Rukia; el gigai la vuelve humana para esconderlo: Urahara lo confirmó (T98).
 - El gato negro habla y se llama Yoruichi: ella se lo dijo (T100).
 - Rukia dio sus poderes a Ichigo; es delito grave; no vuelven: Urahara y Rukia se lo dijeron (T95).
