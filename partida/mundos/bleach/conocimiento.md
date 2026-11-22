@@ -11,6 +11,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Uryū, Ichigo, Rukia y almas de Karakura · T116 · vieron a Facundo usar Rift y Echo (fuego y hielo), Sakaime y golpes al punto débil contra hollows. No usó el Eclipse a la vista salvo un Destello Solar en una plaza (lo vio Uryū).
 - Ichigo, Rukia, Uryū (desde el puente) · T110 · vieron a Facundo usar el shikai de Sakaime (líneas que frenan tajos) en el entrenamiento. Facundo no usó otros poderes.
 - Urahara y Yoruichi · T108 · vieron el inventario dimensional: el caramelo desapareció y no hay rastro en ningún plano que conozcan.
 - Ichigo, Rukia, Kon · T103 · vieron el shikai de Sakaime: una línea plateada suspendida en el aire que frenó en seco la mordida del hollow y le rajó los dientes. Rukia lo reconoce como un shikai.

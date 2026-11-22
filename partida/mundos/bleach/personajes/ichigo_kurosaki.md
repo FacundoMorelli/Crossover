@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T116 · 03/07 · Caza hollows por toda Karakura. 71. Furioso con los dos.
 - T115 · 03/07 16:25 · Uryū lo desafía en el río. Acepta furioso.
 - T113 · 26-28/06 · Entrena con Facundo todas las tardes en el río. Mejora su control. Sospecha que Rukia y Facundo le ocultan algo.
 - T110 · 25/06 16:00-19:00 · Entrena con Facundo en el río. Pelea en serio tres horas; Facundo lo frena con líneas y lo obliga a apuntar su reiatsu. Aprende a no derramarlo en cada tajo. Termina tirado en el pasto, exhausto. Se va a casa.
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T116: "¡No estaba contando!"
 - T115: "¿Y tú quién te crees que eres?"
 - T113: "¿Qué están tramando ustedes dos?"
 - T110: "...Otra vez. Una más. ¡Una más!" / "No me ganaste. Empatamos."

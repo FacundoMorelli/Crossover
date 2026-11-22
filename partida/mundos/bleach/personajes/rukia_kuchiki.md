@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T116 · 03/07 · Corre detrás de Ichigo con el celular avisando posiciones. Ve abrirse la Garganta.
 - T115 · 29/06 23:49 · Facundo le dice que no hace falta que le agradezca. Ella le contesta que igual lo va a hacer, algún día, cuando él no lo espere. 30/06-03/07: su reiatsu crece de a poco; vuelve a ver mejor a los hollows de lejos.
 - T114 · 23:48 · Urahara la pasa a un gigai nuevo, común. Se sienta en el círculo y siente, por primera vez en semanas, una chispa de reiatsu propio.
 - T113 · 26-28/06 · Corrige a Ichigo en los entrenamientos. Casi no le habla a Urahara. 29/06 23:40: se acuesta en el círculo de kidō del sótano para la extracción; Urahara saca el Hōgyoku.
@@ -26,6 +27,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T116: "Menos Grande... ¡¿Aquí?!"
 - T115: "Igual te lo voy a agradecer. Algún día, cuando menos lo esperes."
 - T114: "...Lo siento. Es poco. Pero es mío."
 - T113: "Hazlo de una vez, Urahara."

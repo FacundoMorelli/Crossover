@@ -1,13 +1,13 @@
 {
-  "turno": 115,
+  "turno": 116,
   "mundo_actual": "bleach",
   "fecha_local": "3 de julio (año del canon, ~2001)",
-  "hora": "16:25",
+  "hora": "19:52",
   "edad": 18,
-  "nivel": 6,
-  "exp": 12110,
-  "exp_siguiente_nivel": 13500,
-  "fragmentos": 775,
+  "nivel": 7,
+  "exp": 15410,
+  "exp_siguiente_nivel": 17000,
+  "fragmentos": 887,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -20,20 +20,20 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 5,
+  "puntos_de_stat_sin_asignar": 10,
   "stats": {
-    "fuerza": 44,
-    "velocidad": 47,
-    "resistencia": 44,
-    "tecnica": 47,
-    "percepcion": 45,
-    "voluntad": 45,
-    "energia": 46,
-    "control": 45
+    "fuerza": 45,
+    "velocidad": 48,
+    "resistencia": 45,
+    "tecnica": 48,
+    "percepcion": 46,
+    "voluntad": 46,
+    "energia": 47,
+    "control": 46
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 44,
   "eclipse": {
-    "maestria": 38,
+    "maestria": 39,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -45,7 +45,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "bien",
+  "ojos": "ojo rojo arde leve",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 36,
+      "maestria": 40,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -101,17 +101,17 @@
     {
       "nombre": "Rift",
       "tipo": "Espada Gemela del Eclipse - Sol (roja)",
-      "estilo_maestria": 30
+      "estilo_maestria": 32
     },
     {
       "nombre": "Echo",
       "tipo": "Espada Gemela del Eclipse - Luna (azul)",
-      "estilo_maestria": 30
+      "estilo_maestria": 32
     },
     {
       "nombre": "Sakaime",
       "tipo": "zanpakutō (Don de Mundo Bleach)",
-      "estilo_maestria": 36
+      "estilo_maestria": 40
     }
   ],
   "inventario_dimensional": [
@@ -226,6 +226,21 @@
         "El método completo, incluido el secreto de los cadáveres malditos autónomos con alma propia (como Panda)",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Poder Quincy",
+      "de": "Uryū Ishida",
+      "mundo": "bleach",
+      "cuando": "T116, 03/07 19:50",
+      "incluye": [
+        "Absorción de reishi del entorno y arco de energía (Kojaku de Uryū)",
+        "Flechas de reishi en ráfaga",
+        "Hirenkyaku (desplazamiento a alta velocidad sobre reishi)",
+        "Blut (Vene y Arterie: defensa y ataque por las venas)",
+        "Seele Schneider y técnicas Quincy de su linaje, incluido el Quincy: Letzt Stil — sin la pérdida de poderes",
+        "Poder racial Quincy, por la regla ampliada; sin desventajas (el reishi de Hollow no lo envenena)",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -249,13 +264,6 @@
       "mision": "Que Ichigo Kurosaki te llame su rival.",
       "dificultad": "ALTA",
       "emitida": "T102"
-    },
-    {
-      "poder": "Poder Quincy de Uryū Ishida (arco de reishi, Hirenkyaku, todo lo Quincy)",
-      "mundo": "bleach",
-      "mision": "Ganarle a Uryū Ishida en su propia competencia de hollows.",
-      "dificultad": "MEDIA",
-      "emitida": "T115"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -424,6 +432,13 @@
       "turno": 115,
       "fragmentos": 4,
       "exp": 300
+    },
+    {
+      "mundo": "bleach",
+      "quien": "112 hollows menores (competencia de Uryū), 03/07",
+      "turno": 116,
+      "fragmentos": 112,
+      "exp": 2800
     }
   ],
   "viaje": {

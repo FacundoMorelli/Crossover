@@ -21,6 +21,9 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 03/07 19:50 · Se abre la Garganta sobre Karakura: Menos Grande (canon).
+- 03/07 · Chad y Orihime despiertan sus poderes (canon). Urahara los rescata.
+- 03/07 16:25-19:50 · Competencia: Facundo 112, Uryū 94, Ichigo 71.
 - 03/07 16:25 · Uryū se presenta y rompe el señuelo (canon cap. 34, corrido unos días). Cientos de hollows hacia Karakura.
 - 30/06-02/07 · Rutina: entrenamientos, hollows menores. Rukia recupera reiatsu despacio.
 - 29/06 23:40 · CAMBIO: Urahara extrae el Hōgyoku del alma de Rukia (en el canon lo hacía Aizen en el Sōkyoku, arco 3).
