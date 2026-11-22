@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T68 · 08:10-11:22 · Espera con Facundo. Megumi despierta; Yuji se lo presenta.
 - T67 · 08:09 · Festeja que Facundo entra a la escuela. Le cuenta que una camioneta lleva a los que pueden moverse a la escuela al mediodía; él quiere quedarse hasta que despierte Megumi.
 - T59 · 06:10 · Desayunan onigiris en el puesto. Llega Inumaki herido; Yuji se alivia de verlo vivo.
 - T57 · 06:01 · Facundo sale a buscarlo. Le cuenta que habló con Yaga: viene a las 8 y quiere conocerlo. Le presenta a Choso.

@@ -1,8 +1,8 @@
 {
-  "turno": 67,
+  "turno": 68,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "08:09",
+  "hora": "11:22",
   "edad": 18,
   "nivel": 5,
   "exp": 9600,
@@ -26,7 +26,7 @@
     "energia": 45,
     "control": 44
   },
-  "energia_actual_pct": 88,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 36,
     "partes_desbloqueadas": [
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "bien (leve sensibilidad a la luz en el azul)",
+  "ojos": "bien",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",

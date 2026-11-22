@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Megumi Fushiguro · T68 · lo vio al despertar; Yuji le dijo su nombre y que los salvó. Vio la Marca I en su propio pecho (no sabe qué es).
 - Maki Zen'in · T61 · lo vio en persona; por el rumor del puesto lo asocia con 'el que congeló a Mahito'.
 - Shoko Ieiri · T52 · examinó sus ojos: daño por calor en el rojo, congelación en el azul, desde adentro. Deduce que su técnica le cuesta la vista.
 - Nobara y Yuji · T50 · Facundo les dijo que no es de ninguna escuela y que no sabe dónde está más allá de Tokio/Shibuya. Lo toman por un hechicero sin registro ('salvaje').
