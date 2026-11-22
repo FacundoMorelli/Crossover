@@ -6,10 +6,12 @@ EDAD EN ESTE MOMENTO DEL CANON: más de mil años
 FÍSICO: anciano enorme, calvo, cicatrices en la cabeza, barba blanca larguísima, bastón.
 PERSONALIDAD Y FORMA DE HABLAR: severo, solemne, absoluto.
 ENCUENTROS:
+- T163 · 10:49 · Llega al claro con los capitanes cuando Aizen ya sube. Después, gira hacia Facundo.
 - T155 · 09:42 · Intercambiado con Facundo: queda frente a la espada de Soi Fon. Facundo, en su lugar, se declara Capitán Comandante. Yamamoto agarra el bastón: el bastón empieza a arder.
 - T154 · 09:42 · Ve a Facundo partir el Kikōō y el Sōkyoku. Facundo cae agachado frente a los capitanes y los saluda. Yamamoto ordena capturarlo.
 - T153 · 29/07 09:41 · Ve a un 'Shinigami' del 8.º cambiarse de lugar con la condenada y frenar el Kikōō. Abre un ojo.
 DIÁLOGOS CLAVE:
+- T163: "Tú. Humano."
 - T155: "Jovencito. Hace mil años que nadie me hace perder la paciencia."
 - T154: "Insolente. Soi Fon. Captúralo."
 - T153: "¿Quién se atreve a interrumpir el Sōkyoku?"

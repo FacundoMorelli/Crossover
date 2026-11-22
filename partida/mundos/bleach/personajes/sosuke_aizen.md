@@ -7,12 +7,14 @@ FÍSICO: alto, pelo castaño peinado hacia atrás (sin anteojos ahora), haori de
 PERSONALIDAD Y FORMA DE HABLAR: calmo, cortés, superior; todo lo tiene calculado.
 RELACIÓN CON FACUNDO: interés; sospecha que Facundo tiene el Hōgyoku.
 ENCUENTROS:
+- T163 · 10:43-10:48 · Inmovilizado por Yoruichi y Soi Fon; Rangiku retiene a Gin; llegan los capitanes y Yamamoto. Luces de Negación de Menos Grande lo envuelven a él, a Gin y a Tōsen y los suben a Hueco Mundo (canon). Se va sin el Hōgyoku. Antes, le habla a Facundo.
 - T162 · 10:42 · Por la rendija del Kurohitsugi sale una hoja estirada (Shinsō de Facundo) que le atraviesa el hombro izquierdo. El kidō se le rompe a medio cerrar. Retrocede con la mano en el hombro. Llegan Yoruichi y Soi Fon por detrás.
 - T161 · 10:42 · Facundo aparece a su espalda más rápido de lo que Aizen ve; cuando se da vuelta, le pega un golpecito con dos dedos en la frente. Aizen sale despedido seis metros y se le parte la piel de la frente. Primera vez en siglos que sangra frente a otros. Pierde la sonrisa. Invoca Hadō 90 Kurohitsugi sin encantamiento alrededor de Facundo.
 - T160 · 10:41 · Facundo corta los rayos de su Bakudō 61 con Sakaime. Con Boogie Woogie, cambia a Rukia por Byakuya: Byakuya aparece frente a Aizen; Rukia junto a Ichigo. Aizen no siente nada distinto en Facundo (Velo), pero algo en su postura le da mala espina.
 - T159 · 10:41 · Facundo aparece a su lado y le pasa el dedo por la hoja de Kyōka Suigetsu cuando Aizen la saca a medias. Aizen se sorprende de verdad por primera vez. Facundo agarra a Rukia y huye; Aizen lo atrapa con Bakudō número 61 (Rikujōkōrō) en el aire.
 - T158 · 29/07 10:40 · Aparece en el claro con Gin y Tōsen tras el aviso de Isane (Central 46 muerta, Aizen vivo). Se dirige a Facundo.
 DIÁLOGOS CLAVE:
+- T163: "Desde ahora, yo me pararé en los cielos." / (a Facundo) "Lo que tienes, humano, lo voy a encontrar. Y a ti también."
 - T162: "...La espada de Gin."
 - T161: "..." / "Hadō número noventa. Kurohitsugi."
 - T160: "Cortaste mi kidō sin tocarlo... Interesante."
@@ -21,4 +23,4 @@ DIÁLOGOS CLAVE:
 - T158: "Tienes algo que me pertenece."
 QUÉ SABE DE FACUNDO: que conoce el secreto de su espada (tocó la hoja, T159); informes de Byakuya, Renji y Gin; que Rukia está vacía; deduce que Urahara sacó el Hōgyoku y que Facundo lo tiene o sabe dónde está.
 QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco, Boogie Woogie, el tajo al Kikōō).
-ESTADO: frente a Facundo en el claro.
+ESTADO: en Hueco Mundo, sin el Hōgyoku. Herido en el hombro y la frente.

@@ -161,3 +161,4 @@ T159 · Bleach · 10:41 · Toca la hoja de Kyōka Suigetsu (inmune). Huye con Ru
 T160 · Bleach · 10:41 · Corta el Bakudō 61. Cambia a Rukia por Byakuya. +75 a todos los stats (600 F). Promedio ~122.
 T161 · Bleach · 10:42 · Golpecito en la frente a Aizen: vuela 6 m. Gin abre los ojos: COPIA Shinsō (+800 EXP). Aizen lanza Kurohitsugi.
 T162 · Bleach · 10:42 · Shinsō atraviesa el hombro de Aizen; rompe el Kurohitsugi. Facundo herido leve. Llegan Yoruichi y Soi Fon.
+T163 · Bleach · 10:50 · Aizen se va a Hueco Mundo sin el Hōgyoku. COPIA el poder de Aizen (+1.500 EXP). Yamamoto se vuelve hacia Facundo.

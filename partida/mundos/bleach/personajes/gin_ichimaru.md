@@ -7,6 +7,7 @@ FÍSICO: flaco, pelo plateado, ojos siempre entrecerrados, sonrisa de zorro, hao
 PERSONALIDAD Y FORMA DE HABLAR: burlón, amable de manera inquietante, acento de Kioto.
 RELACIÓN CON FACUNDO: —
 ENCUENTROS:
+- T163 · 10:48 · Se va con Aizen. Le hace adiós con la mano a Facundo.
 - T162 · 10:42 · Ve su propia técnica en manos de Facundo.
 - T161 · 10:42 · Ve a Aizen salir volando por un golpecito en la frente. Abre los ojos, apenas, un instante (celeste). Facundo lo ve.
 - T158 · 10:40 · Llega con Aizen y Tōsen al claro.
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T137 · 19/07 · Su tajo rápido al brazo de Jidanbō choca contra una línea de Sakaime y rebota. Se ríe, reconoce a Facundo por el informe. Desenvaina y apunta a Ichigo para liberar Shinsō.
 - T136 · 19/07 · Aparece al otro lado de la Puerta Blanca cuando Jidanbō la levanta tras perder con Ichigo. Saluda sonriendo.
 DIÁLOGOS CLAVE:
+- T163: "Adiós, el de la bufanda. Cuídame bien a Shinsō."
 - T162: "Eh. Esa es mía."
 - T161: "...Ay, ay."
 - T158: "Hola otra vez, el de la bufanda."
@@ -28,4 +30,4 @@ DIÁLOGOS CLAVE:
 - T136: "Uy, uy. Esto no está bien, Jidanbō."
 QUÉ SABE DE FACUNDO: el informe de Byakuya y Renji (humano de pelo blanco y azul con gato); lo reconoce a simple vista. Aizen le pidió averiguar sobre él.
 QUÉ PODERES DE FACUNDO VIO: línea de Sakaime (T137); Boogie Woogie (T138).
-ESTADO: bajo la puerta levantada, mano en la empuñadura.
+ESTADO: en Hueco Mundo con Aizen.
