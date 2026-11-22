@@ -1,5 +1,5 @@
 {
-  "turno": 126,
+  "turno": 127,
   "mundo_actual": "bleach",
   "fecha_local": "7 de julio (año del canon, ~2001)",
   "hora": "23:21",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 87,
+  "energia_actual_pct": 76,
   "eclipse": {
     "maestria": 40,
     "partes_desbloqueadas": [
@@ -285,6 +285,12 @@
         "descripcion": "La Marea aplasta y clava al objetivo contra el suelo mientras la Escarcha congela todo lo húmedo o lo que toca; encierra en hielo bajo presión.",
         "sellada": "T81",
         "costo_primera_vez": "energía y ojo azul"
+      },
+      {
+        "nombre": "(sin nombre) Sakaime + Ira Estelar",
+        "descripcion": "Sakaime cargada de masa virtual: cada tajo y cada línea pesan como un edificio sin que la hoja se vuelva lenta para Facundo.",
+        "sellada": "T127",
+        "costo_primera_vez": "energía"
       }
     ]
   },

@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: lo considera un estorbo que debe eliminar; le picó el orgullo.
 ENCUENTROS:
+- T127 · 23:21 · Ve el asfalto hundirse bajo Facundo cuando carga Sakaime de masa. Ataca con Paso Flash sin liberar, directo a la garganta.
 - T126 · 23:21 · Con los ojos cerrados, a punto de decir 'Senbonzakura', Facundo lo intercambia con Ichigo (Boogie Woogie). Aparece frente al ataque de Zabimaru de Renji; lo desvía contra el asfalto. La liberación se corta otra vez. Abre los ojos: por primera vez muestra enojo.
 - T125 · 23:20 · Abre los ojos, enrojecidos. Mira a Ichigo y a Facundo.
 - T123 · 23:19 · Destello Solar en la cara antes de terminar 'Senbonzakura': no llega a liberar. Retrocede con Paso Flash a la punta del poste, con los ojos cerrados y llorosos. Primera vez que alguien lo hace retroceder en esta noche.
