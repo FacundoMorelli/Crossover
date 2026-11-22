@@ -16,3 +16,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo que Aizen y Gin le contaron: aspecto, gato, que tiene el Hōgyoku o sabe dónde está.
 - T170 · 15:12 · Facundo se niega. Ulquiorra dice que Yammy es basura y que su misión era confirmar quién es. Va hasta el cráter, levanta a Yammy con una mano y abre una Garganta para irse.
 ESTADO: abriendo una Garganta, con Yammy al hombro.
+- T314 · Vence a Ichigo en la cúpula (canon): le atraviesa el pecho con un Cero/la mano.

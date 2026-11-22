@@ -12,3 +12,5 @@ ESTADO: rescatada por Urahara.
 - T312 · En su cuarto de la torre de Las Noches; Loly y Menoly la golpean (canon). Facundo llega a la puerta.
 - T313 · Facundo deja inconscientes a Loly y Menoly. Lo ve con Rukia, Chad, Kase. Llora. Pregunta por Ichigo. Dice que Aizen esperaba a Facundo.
 - DIÁLOGO T313: "¿Facundo-kun...? ¿Kuchiki-san? ¿Sado-kun?" / "¿Y Kurosaki-kun? ¿Está bien?" / "No debieron venir... Aizen-sama dijo que tú vendrías. Que te estaba esperando. Que yo era... la invitación."
+- T314 · Se cura la mejilla con Sōten Kisshun. Siente caer a Ichigo. Grita.
+- DIÁLOGO T314: "Sí... gracias." / "¡KUROSAKI-KUN!"

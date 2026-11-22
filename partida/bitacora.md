@@ -312,3 +312,4 @@ T310 · Bleach · Las Noches · Un golpe: Nnoitra inconsciente. NIVEL 23. Tesla 
 T311 · Bleach · Las Noches · Última semilla a Chad: curado. Semillas: 0.
 T312 · Bleach · Las Noches · Se destransforma. Llega a la puerta de Orihime: Loly y Menoly la maltratan.
 T313 · Bleach · Las Noches · Loly y Menoly inconscientes. Orihime: 'yo era la invitación'.
+T314 · Bleach · Las Noches · Orihime se cura. Cae el reiatsu de Ichigo (Ulquiorra).

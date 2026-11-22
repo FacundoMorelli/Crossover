@@ -72,3 +72,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T298 · Les pega a Pesche y Dondochakka con la funda de Zangetsu creyendo que atacaban a Nel.
 - T302 · Rompe la pared de Las Noches con un Getsuga. Propone separarse en los cinco pasillos.
 - DIÁLOGO T302: "Cinco pasillos. Nos separamos. El que encuentre a Inoue, la saca."
+- T314 · En la cúpula, Ulquiorra le atraviesa el pecho (canon). Su reiatsu casi se apaga.
