@@ -16,6 +16,7 @@
 - Goku · T178 · Facundo le pidió ayuda. Cree que salvó a la gente del torneo (deducción: la ráfaga iba hacia allá).
 - Vegeta, Goku · T177 · lo ven en el risco: joven de pelo blanco y azul con un gato; no sienten su ki (Velo).
 ## QUIÉN VIO QUÉ PODERES
+- Vegeta · T238 · el Eclipse (punto negro de gravedad) usado contra él.
 - Shin, Kibito, Mr. Satán · T226 · un punto negro que aparece frente al Buu malo y se lo traga entero (Eclipse). Ven sangrar los dos ojos de Facundo.
 - Mr. Satán, Shin, Kibito, Buu malo · T225 · lluvia de miles de flechas de luz que borra cada gota sin tocar a nadie.
 - Mr. Satán, Shin, Kibito, Buu malo · T224 · Letzt Stil: alas de energía blanca, una cruz brillante, flecha gigante que abre un surco hasta el mar. (Lo interpretan como otra transformación.) Vecinos de Ciudad Satán ven el destello y el surco.

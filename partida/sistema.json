@@ -1,8 +1,8 @@
 {
-  "turno": 237,
+  "turno": 238,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 3 (dos días después del 25.º Torneo)",
-  "hora": "08:00",
+  "hora": "08:03",
   "edad": 18,
   "nivel": 17,
   "exp": 78810,
@@ -36,7 +36,7 @@
     "energia": 215,
     "control": 214
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 88,
   "eclipse": {
     "maestria": 50,
     "partes_desbloqueadas": [
@@ -55,7 +55,7 @@
       "T226: primer uso de la parte Eclipse (punto negro) para tragarse entero al Buu malo. Forzado: los dos ojos sangran."
     ]
   },
-  "ojos": "bien (curados por Buu)",
+  "ojos": "ardor leve en los dos",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
