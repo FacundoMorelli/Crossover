@@ -58,3 +58,4 @@ T56 · Jujutsu · 05:59 · Reparte 25 puntos: +3 a todo, +1 RES. FUE 43, VEL 46,
 T57 · Jujutsu · 06:01 · Busca a Yuji. Yaga viene a las 8. Conoce a Choso.
 T58 · Jujutsu · 06:02 · Se presenta a Choso. Choso lo acepta a medias.
 T59 · Jujutsu · 06:10 · Onigiris con Yuji y Choso. Llega Inumaki.
+T60 · Jujutsu · 06:11 · Se presenta a Inumaki.
