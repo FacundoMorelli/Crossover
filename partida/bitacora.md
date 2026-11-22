@@ -247,3 +247,4 @@ T245 · Dragon Ball · 09:25 · Entra un día a la Habitación del Tiempo con Ve
 T246 · Dragon Ball · día 4 09:25 · Un año en la Habitación con Vegeta. TODAS LAS MAESTRÍAS A 100. NIVEL 22.
 T247 · Dragon Ball · 09:27 · Kase al hombro. Vegeta pide una última pelea antes de que se vaya.
 T248 · Dragon Ball · 09:30 · Dende: Piccolo y Krilin siguen de piedra. Karin, Roshi, Bulma.
+T249 · Dragon Ball · 10:15 · En el risco: Piccolo y Krilin de piedra. Grieta en el tobillo de Krilin.
