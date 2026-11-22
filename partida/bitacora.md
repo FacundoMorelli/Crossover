@@ -28,3 +28,4 @@ T26 · Jujutsu · 00:01 · Destello Solar a Mahito; Yuji le pega con el Puño Di
 T27 · Jujutsu · 00:01 · Activa la Marca III: Mahito congelado otra vez frente a Yuji, las púas desaparecen.
 T28 · Jujutsu · 00:02 · Le pide a Yuji que golpee; Yuji destroza la estatua. Mahito se rearma dañado.
 T29 · Jujutsu · 00:08 · Observa: Yuji vs Mahito; doble; llega Nobara y lo daña con Resonancia. Mahito corre a tocarla. Misión de copia: Nobara.
+T30 · Jujutsu · 00:08 · Marea Lunar a 40 m: aleja a Mahito de Nobara. Yuji le cae encima. Nobara lo ve.

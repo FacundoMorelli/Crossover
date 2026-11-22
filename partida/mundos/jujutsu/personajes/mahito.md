@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T30 · 00:08 · A medio metro de la cabeza de Nobara, la Marea Lunar lo arranca y lo lanza quince metros contra una varilla de hierro. Yuji llega encima.
 - T29 · 00:02-00:08 · Pelea con Yuji; recibe más golpes en el alma. Se divide y manda un doble hacia el oeste. El doble atrae a Nobara; la Resonancia de ella lo daña. El original corre hacia Nobara con la mano abierta.
 - T28 · 00:02 · Yuji golpea la estatua: el cuerpo congelado estalla en fragmentos. Se rearma desde los pedazos, más lento, con el alma dañada. Ya no sonríe.
 - T27 · 00:01 · Facundo activa la Marca III: vuelve a quedar congelado en su forma normal, frente a Yuji. Las púas desaparecen. El daño al alma del golpe de Yuji sigue.
@@ -22,6 +23,7 @@ ENCUENTROS:
 - T14 · 23:48 · Facundo lo ciega con Destello Solar y lo parte con Rift. Mahito se recompone (el corte no toca su alma) y contraataca estirando el brazo hacia Facundo.
 - T13 · 23:48 · hall sur de la estación · sale del túnel cuando Facundo lo tasa. Había mirado todo desde la oscuridad.
 DIÁLOGOS CLAVE:
+- T30: "¡Tú otra vez!"
 - T29: "¡Ah, la chica de los clavos!"
 - T28: "Yuji... Yuji, Yuji, Yuji."
 - T26: "¡Eso dolió, Yuji! ¡Eso sí dolió!"
