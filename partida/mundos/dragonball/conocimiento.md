@@ -6,6 +6,7 @@
 - Goku · T178 · Facundo le pidió ayuda. Cree que salvó a la gente del torneo (deducción: la ráfaga iba hacia allá).
 - Vegeta, Goku · T177 · lo ven en el risco: joven de pelo blanco y azul con un gato; no sienten su ki (Velo).
 ## QUIÉN VIO QUÉ PODERES
+- Buu, Vegeta · T201 · Boogie Woogie: Vegeta y una roca cambian de lugar con un aplauso.
 - Gohan, Shin, Kibito · T198 · vieron entrenar a Facundo con Goku: Forma Cenit, Sol y Luna del Eclipse, ráfagas de ki y Kamehameha (Gohan reconoce la técnica de su padre). Shin y Kibito se fueron a las 15:25.
 - Goku y Vegeta · T193 · en la pelea vieron casi todo: Eclipse (Sol, Luna, Destello, Marea), Sakaime (líneas, Recinto), Boogie Woogie, Senbonzakura, Shinsō, Ira Estelar, Proporción, Getsuga Tenshō y máscara de hollow, y el último ataque (Mugetsu). No saben qué es cada cosa; Vegeta repite 'trucos'.
 - Goku y Vegeta · T192 · Forma Cenit (pelo blanco y azul erguido, aura de llamas blancas y azules; ki x3).
