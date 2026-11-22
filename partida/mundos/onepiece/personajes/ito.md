@@ -10,3 +10,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: forastero, pagó por él. Lo vio en persona.
 QUÉ PODERES DE FACUNDO VIO: sacar dinero del sobretodo.
 ESTADO: activo
+- T349 · Le cuenta a Facundo: 8 años de Arlong, Villa Gosa, la Marina comprada, el espadachín de pelo verde llevado atado a Arlong Park esta mañana, y Nami "la traidora" (lo dice con la voz rara: como todos en Cocoyasi, finge). Le aconseja irse.
