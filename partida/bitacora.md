@@ -90,3 +90,4 @@ T88 · Bleach · 20:44 · Salta al hall en vivo y purifica al espíritu atado co
 T89 · Bleach · 20:46 · Sale por atrás. Ichigo y Rukia lo alcanzan en el baldío.
 T90 · Bleach · 20:47 · Se presenta a Ichigo y Rukia. Rukia quiere llevarlo con Urahara.
 T91 · Bleach · 21:08 · Rukia lo lleva a la tienda de Urahara. Urahara no siente su reiatsu.
+T92 · Bleach · 21:12 · Se presenta a Urahara. Té. Urahara propone un dato por un dato.
