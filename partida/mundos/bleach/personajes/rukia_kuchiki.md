@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: desconfianza práctica; quiere usarlo para entrenar a Ichigo.
 ENCUENTROS:
+- T110 · 25/06 · Mira el entrenamiento y corrige a Ichigo a gritos. Al atardecer, Tessai le dice que Urahara quiere verla esa noche con Facundo. Manda a Ichigo a casa y va a la tienda.
 - T106 · 15:49 · Facundo acepta entrenar con Ichigo, pero antes va a hablar con Urahara. Rukia fija: mañana después de clases, junto al río.
 - T105 · 15:48 · Facundo guarda la espada. Rukia le dice que un shikai así necesita años; le pide que entrene con Ichigo, porque Ichigo no controla su reiatsu y ella ya no puede enseñarle peleando.
 - T103 · 15:46 · Ve a Facundo liberar a Sakaime y trazar una línea que detiene al hollow.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T110: "¡No con los brazos, idiota! ¡Con el centro!"
 - T106: "Mañana, después de clases. En la orilla del río. No llegues tarde."
 - T105: "Un Shinigami tarda años en escuchar el nombre de su zanpakutō. Tú la liberaste como si nada." / "Quiero que entrenes con Ichigo. Yo ya no puedo pelear con él."
 - T103: "...Eso es un shikai."

@@ -108,3 +108,4 @@ T106 · Bleach · 16:08 · Acepta entrenar con Ichigo (mañana, río). Vuelve a 
 T107 · Bleach · 16:10 · Ofrece esconder el Hōgyoku. Urahara: sin él, Rukia recuperaría poderes. Pide demostración.
 T108 · Bleach · 16:48 · Guarda el caramelo; Urahara no lo encuentra. Acepta la idea; necesita días y el sí de Rukia.
 T109 · Bleach · 16:50 · Urahara: extracción en cinco días. Mañana a la noche traer a Rukia.
+T110 · Bleach · 25/06 20:35 · Simula: entrenamiento con Ichigo (+300 EXP, +3 F). Uryū mira. Rukia llega a la tienda; Urahara va a contarle todo.

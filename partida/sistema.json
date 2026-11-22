@@ -1,13 +1,13 @@
 {
-  "turno": 109,
+  "turno": 110,
   "mundo_actual": "bleach",
-  "fecha_local": "24 de junio (año del canon, ~2001)",
-  "hora": "16:50",
+  "fecha_local": "25 de junio (año del canon, ~2001)",
+  "hora": "20:35",
   "edad": 18,
   "nivel": 6,
-  "exp": 11060,
+  "exp": 11360,
   "exp_siguiente_nivel": 13500,
-  "fragmentos": 762,
+  "fragmentos": 765,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -25,13 +25,13 @@
     "fuerza": 44,
     "velocidad": 47,
     "resistencia": 44,
-    "tecnica": 46,
+    "tecnica": 47,
     "percepcion": 45,
     "voluntad": 45,
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 94,
+  "energia_actual_pct": 83,
   "eclipse": {
     "maestria": 38,
     "partes_desbloqueadas": [
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 32,
+      "maestria": 34,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -111,7 +111,7 @@
     {
       "nombre": "Sakaime",
       "tipo": "zanpakutō (Don de Mundo Bleach)",
-      "estilo_maestria": 31
+      "estilo_maestria": 34
     }
   ],
   "inventario_dimensional": [
@@ -391,6 +391,13 @@
       "turno": 104,
       "fragmentos": 1,
       "exp": 60
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Ichigo Kurosaki (duelo de entrenamiento, en serio; Facundo se contuvo)",
+      "turno": 110,
+      "fragmentos": 3,
+      "exp": 300
     }
   ],
   "viaje": {
@@ -419,7 +426,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 1
+        "dias_transcurridos": 2
       }
     },
     "puerta_abierta": true,
@@ -522,6 +529,7 @@
     "jujutsu_al_salir": "Facundo cruzó la Puerta el 05/11/2018 22:55. El canon sigue: 06/11 Yuta reporta a Yuji ejecutado y a Facundo 'escapado'; Naoya despierta y culpa a Facundo ante el clan Zen'in (lo quiere muerto). 07/11 reunión con Yuki y Tengen (Preparación Perfecta). Nanami vivo y en recuperación cambia el canon: participará en el Juego del Sacrificio. Nobara activa.",
     "segundo_mundo": "bleach (tirada 0.038 → cap. ~26)",
     "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55).",
-    "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá."
+    "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá.",
+    "uryu": "Uryū Ishida observó el entrenamiento desde el puente (25/06). Lo intriga Facundo: no siente su reiatsu y usa una zanpakutō sin ser Shinigami. En el canon, se presenta a Ichigo en unos días (cap. 34) y lanza el señuelo."
   }
 }

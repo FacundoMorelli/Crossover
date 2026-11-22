@@ -1,12 +1,13 @@
 NOMBRE: Ichigo Kurosaki
 AFILIACIÓN: Instituto Karakura, 1.er año; Shinigami sustituto
 RANGO: Shinigami sustituto (sin registro oficial)
-PODER VISTO POR FACUNDO: forma de Shinigami (shihakushō negro, zanpakutō enorme), velocidad (T102)
+PODER VISTO POR FACUNDO: forma de Shinigami, zanpakutō enorme, velocidad, tajos cargados de reiatsu (T102-T110)
 EDAD EN ESTE MOMENTO DEL CANON: 15
 FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del instituto. Como Shinigami: shihakushō negro y una zanpakutō enorme.
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
-RELACIÓN CON FACUNDO: competitivo; empieza a verlo como alguien a quien superar.
+RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T110 · 25/06 16:00-19:00 · Entrena con Facundo en el río. Pelea en serio tres horas; Facundo lo frena con líneas y lo obliga a apuntar su reiatsu. Aprende a no derramarlo en cada tajo. Termina tirado en el pasto, exhausto. Se va a casa.
 - T106 · 15:49 · Se entera del entrenamiento. Protesta pero acepta.
 - T104 · 15:47 · Cae sobre el hollow al mismo tiempo que Facundo lo corta: lo parten entre los dos. Hace el konsō del niño con la empuñadura. Se queja de que 'ese era suyo'.
 - T102 · 15:44 · Rukia le saca el alma del cuerpo con el guante (Gokon Tekkō). Sale como Shinigami con la zanpakutō gigante. Kon queda en el cuerpo. Corre hacia el parque con Facundo.
@@ -15,6 +16,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T110: "...Otra vez. Una más. ¡Una más!" / "No me ganaste. Empatamos."
 - T106: "¡¿Entrenar con él?! ...Bien. Así te gano."
 - T104: "¡Oye! ¡Ese era mío!" / "...La próxima vez no te lo dejo, ¿oíste?"
 - T101: "Toda la escuela habla de ti. Keigo dice que eres un ninja."
