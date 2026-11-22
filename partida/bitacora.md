@@ -166,3 +166,4 @@ T164 · Bleach · 10:52 · Pide perdón a Yamamoto. Sentencia de Rukia anulada. 
 T165 · Bleach · 10:54 · Rukia le agradece. Decidirá si vuelve a Karakura tras hablar con Byakuya.
 T166 · Bleach · 05/08 · Simula: Byakuya envaina (COPIA Senbonzakura), Renji lo reconoce (COPIA Zabimaru), NIVEL 9. Rukia se queda. Vuelta a Karakura.
 T167 · Bleach · 05/08 · Niega haber sido él. Urahara pregunta en voz baja por el Hōgyoku.
+T168 · Bleach · 22/08 15:10 · Simula: Ichigo lo llama rival (COPIA). Llegan Ulquiorra y Yammy buscándolo.

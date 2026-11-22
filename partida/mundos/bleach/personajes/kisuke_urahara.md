@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T168 · 05/08 16:23 · Facundo le confirma que el Hōgyoku sigue a salvo.
 - T167 · 16:22 · Facundo niega haber sido él ('otra persona con mi cara'). Urahara se ríe. Después, aparte, le pregunta en voz baja si lo que guardó sigue a salvo, y le cuenta que Aizen se fue sin él: 'eso cambia todo'.
 - T166 · 05/08 16:20 · Recibe al grupo en el sótano de la tienda.
 - T134 · 08-18/07 · Reentrena a Ichigo. Entrena a Facundo dos veces con Benihime 'para ver'. Abre la Senkaimon el 18/07 a las 21:30.

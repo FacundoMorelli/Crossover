@@ -21,6 +21,8 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 22/08 15:10 · Ulquiorra y Yammy (Arrancar imperfectos) llegan a Karakura buscando a Facundo. Yammy usa Gonzui; Tatsuki cae; Chad y Orihime llegan (canon adaptado).
+- 06-21/08 · Arco Arrancar comienza: Shinji Hirako en la clase de Ichigo (canon). Facundo entrena con Ichigo; Ichigo lo llama su rival (copia). Grand Fisher arrancar muere a manos de Isshin (canon).
 - 05/08 16:20 · Vuelta a Karakura por la Senkaimon (Ichigo, Uryū, Chad, Orihime, Yoruichi, Facundo). Rukia se queda en la Sociedad de Almas.
 - 29/07-04/08 · Curaciones en la Cuarta División. Byakuya y Rukia se reconcilian (canon). Ukitake da la placa a Ichigo. Byakuya envaina frente a Facundo; Renji lo reconoce.
 - 29/07 10:52 · Yamamoto anula la sentencia de Rukia. Perdona a Facundo por hoy; los intrusos deben irse del Seireitei cuando sanen.
