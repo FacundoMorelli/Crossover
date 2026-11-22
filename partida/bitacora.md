@@ -286,3 +286,4 @@ T284 · Jujutsu · 21:47 · Megumi abre. 'Si vienes a decirme que no fue mi culp
 T285 · Jujutsu · 22:20 · Silencio con Megumi. Kase a su lado. Megumi habla de Tsumiki.
 T286 · Jujutsu · 22:25 · Le habla a Megumi del futuro. Megumi pregunta por el curry.
 T287 · Jujutsu · 22:40 · Come con Megumi en el piso. Yuji y Nobara espían.
+T288 · Jujutsu · 22:45 · Yuji y Nobara entran. Yuji propone ramen mañana los cuatro.

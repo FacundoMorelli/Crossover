@@ -42,3 +42,5 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T282 · 21:42 · Facundo le pide perdón. Le pega en el brazo, lo abraza un segundo. Le cuenta de Megumi (encerrado) y Nanami (enfermería).
 - DIÁLOGO T282: "¡Lejos! ¡LEJOS! ...Idiota." / "Megumi no sale del cuarto. Nanami-san está en la enfermería con Shoko-san, por el brazo. ¿A quién quieres ver primero?"
 - T287 · 22:40 · Espía desde la puerta del cuarto de Megumi: lo ve comiendo.
+- T288 · 22:45 · Entra al cuarto de Megumi, abre cortinas y ventana, lo reta por el olor.
+- DIÁLOGO T288: "¡Esto huele a cueva de oso! ¡Aire!"

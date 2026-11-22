@@ -40,3 +40,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - DIÁLOGO T286: "Es fácil decirlo." / "...Tsumiki me diría lo mismo. Y peor. Me tiraría de la oreja." / "¿El curry... sigue afuera?"
 - T287 · 22:40 · Come con Facundo en el piso: todo el curry frío. Lee el papel de Yuji y casi se ríe.
 - DIÁLOGO T287: "Está horrible. Frío." (sigue comiendo) / "...Idiota", al leer el papel.
+- T288 · 22:45 · Deja que Nobara lo rete. Yuji propone ramen; todos lo miran.
