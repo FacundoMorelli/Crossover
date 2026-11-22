@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T154 · 09:42 · No se mueve. Mira a Rukia, escondida bajo el haori de Kyōraku.
 - T153 · 09:41 · Reconoce a Facundo en el patíbulo cuando se le cae la capucha.
 - T152 · 28-29/07 · Vence a Renji (bankai). En la colina, de pie, sin mirar a Rukia. Bufanda nueva.
 - T133 · 07/07 23:24-23:30 · Libre de la Marea al desmayarse Facundo. Corta los puntos de poder de Ichigo (Hakusui y Saketsu). Acepta la entrega de Rukia: no remata a Facundo. Se va por una Senkaimon con Rukia y Renji. Se lleva la mitad de su bufanda del suelo.

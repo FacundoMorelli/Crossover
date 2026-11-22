@@ -1,12 +1,12 @@
 {
-  "turno": 153,
+  "turno": 154,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
-  "hora": "09:41",
+  "hora": "09:42",
   "edad": 18,
-  "nivel": 7,
-  "exp": 16210,
-  "exp_siguiente_nivel": 17000,
+  "nivel": 8,
+  "exp": 17210,
+  "exp_siguiente_nivel": 21000,
   "fragmentos": 894,
   "plata_local": {
     "jujutsu": {
@@ -20,18 +20,18 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 10,
+  "puntos_de_stat_sin_asignar": 15,
   "stats": {
-    "fuerza": 45,
-    "velocidad": 48,
-    "resistencia": 45,
-    "tecnica": 48,
-    "percepcion": 46,
-    "voluntad": 46,
-    "energia": 47,
-    "control": 46
+    "fuerza": 46,
+    "velocidad": 49,
+    "resistencia": 46,
+    "tecnica": 49,
+    "percepcion": 47,
+    "voluntad": 47,
+    "energia": 48,
+    "control": 47
   },
-  "energia_actual_pct": 70,
+  "energia_actual_pct": 38,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -73,7 +73,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 47,
+      "maestria": 50,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -554,7 +554,7 @@
     }
   },
   "apodos": {
-    "bleach": "Bicolor (Yoruichi y Urahara; 'el señor Bicolor')"
+    "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'."
   },
   "tienda": {
     "catalogo_permanente": {
