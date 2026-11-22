@@ -37,6 +37,7 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Habitación del Espíritu y el Tiempo: en el Templo Sagrado (sobre la Torre de Karin); 1 día afuera = 1 año adentro; dos personas por vez; máximo dos días en toda la vida, quien se pasa queda encerrado; gravedad x10, temperaturas extremas. Vegeta usó un día: Vegeta (T243).
 - Dispararon a Mr. Satán y a Bee; Buu los curó y echa vapor; Shin cree que algo va a salir: Kibito (T220).
 - Vegeta no volvió a la Corporación Cápsula; está en las montañas del norte: Gohan (T215), sintiendo su ki.
 - Buu no considera 'matar' convertir a alguien en dulce: lo vio a punto de hacerlo con Vegeta (T200).
