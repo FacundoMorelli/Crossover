@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: miedo. No puede leer su alma y le rompió el dominio.
 ENCUENTROS:
+- T36 · 00:16 · Absorbido por Kenjaku.
 - T35 · 00:12-00:16 · Yuji lo vence a golpes. Pierde la forma final, queda chico, deforme, arrastrándose. Le llega Kenjaku de frente.
 - T34 · 00:12 · Facundo lo ciega con Destello Solar en plena señal de dominio: se le separan las manos y la expansión se rompe. Mira a Facundo con miedo por primera vez.
 - T33 · 00:09-00:12 · En forma final, supera a Yuji. Llega Todo; con el Boogie Woogie lo desorientan. Le quita la mano izquierda a Todo con un toque. Recibe un Destello Negro de Yuji. Junta las manos para expandir su dominio.
@@ -45,4 +46,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: vencido; reducido y deforme, arrastrándose hacia Kenjaku.
+ESTADO: absorbido por Kenjaku (T36). Su técnica ahora es de Kenjaku.

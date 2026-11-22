@@ -38,6 +38,7 @@
 
 ## LO QUE CAMBIÓ
 - 23:49-23:55 · Facundo retiene a Mahito en el hall sur de la estación. Nanami sube solo hacia Yuji y Megumi sin Mahito detrás. (En el canon, Mahito lo mataba frente a Yuji ≈00:12.)
+- 00:16-00:24 · Kenjaku absorbe a Mahito. Habla. Choso lo ataca ("Noritoshi Kamo"). Llegan alumnos de Kioto. Uraume congela el campo (canon).
 - 00:12 · Facundo rompe la expansión de dominio de Mahito con un Destello Solar.
 - 00:12-00:16 · Yuji vence a Mahito (canon, con Nobara viva y Facundo presente). Kenjaku aparece frente a Mahito.
 - 00:10-00:12 · Llega Todo; pierde la mano izquierda (canon). Yuji conecta un Destello Negro. Nobara sigue en pie, con sus dos ojos. Mahito intenta expandir su dominio.

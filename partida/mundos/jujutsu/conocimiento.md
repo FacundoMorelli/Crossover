@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Falso Geto (Kenjaku) · T36 · lo vio en persona, a distancia, durante la pelea: fogonazos del ojo, escarcha. Lo llamó 'el del fogonazo'. No sabe su nombre.
 - Aoi Todo · T34 · lo vio por primera vez: el que cortó el dominio de Mahito con un fogonazo del ojo. No sabe su nombre.
 - Nobara Kugisaki · T30 · lo vio en persona: joven sentado en un bloque, de negro, pelo blanco y azul, ojo rojo con sangre seca, gato. Vio que Mahito salió despedido a un costado justo cuando iba a tocarla y que el aire hizo escarcha en línea desde ese joven. Supo su nombre, "Facundo", en T31 (él se lo dijo).
 - Yuji Itadori · T28 · Facundo le confirmó que él lo congeló, y le dijo que usar su técnica le daña la vista: puede quedar ciego minutos, o un día si la usa mucho.

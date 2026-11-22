@@ -1,8 +1,8 @@
 {
-  "turno": 35,
+  "turno": 36,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "00:16",
+  "hora": "00:24",
   "edad": 18,
   "nivel": 3,
   "exp": 2600,
@@ -26,7 +26,7 @@
     "energia": 38,
     "control": 37
   },
-  "energia_actual_pct": 36,
+  "energia_actual_pct": 39,
   "eclipse": {
     "maestria": 35,
     "partes_desbloqueadas": [
@@ -367,6 +367,7 @@
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
     "reloj_nanami": "Sukuna devuelve el control a Yuji ≈23:30. Yuji vaga por la zona arrasada; encuentra a Nanami ≈00:10 al sur de la estación (cerca de Dogenzaka/salida sur). Mahito está ahí. Si nadie interviene, Nanami muere ≈00:12.",
     "mahito_posicion": "Mahito salió del túnel (T13). Vio a Facundo cortar a sus transfigurados. Curioso por él. Su alma: Mahito intenta 'ver' la forma del alma de Facundo y no puede leerla bien (Velo: no mide poder); le resulta rara.",
-    "mahito_estado": "Recongelado por la Marca III (T27) frente a Yuji, en su forma normal; el daño al alma del golpe de Yuji sigue. Adentro: inquietud que se acerca al miedo hacia Facundo (no sabe cuándo ni cómo lo congela). Rompería el hielo en ~4 min."
+    "mahito_estado": "Recongelado por la Marca III (T27) frente a Yuji, en su forma normal; el daño al alma del golpe de Yuji sigue. Adentro: inquietud que se acerca al miedo hacia Facundo (no sabe cuándo ni cómo lo congela). Rompería el hielo en ~4 min.",
+    "kenjaku": "Vio desde lejos los fogonazos de Facundo (Destello Solar) y la línea de escarcha; deduce que es un hechicero desconocido con técnica de ojo. Lo considera una variable a anotar. No sabe su nombre."
   }
 }
