@@ -65,3 +65,4 @@ T63 · Jujutsu · 08:04 · Acepta el duelo con Maki. Simula: llega Yaga y le pre
 T64 · Jujutsu · 08:05 · Responde 'para proteger'. El oso de Yaga lo ataca. Misión de copia: Yaga.
 T65 · Jujutsu · 08:05 · Atrapa el oso sin lastimarlo. Yaga repite la pregunta.
 T66 · Jujutsu · 08:07 · 'A los que no pueden protegerse solos'. Yaga lo acepta en la escuela. COPIA: Cadáveres Malditos (+500 EXP).
+T67 · Jujutsu · 08:09 · Agradece a Yaga, busca a Kase, va con Yuji. Camioneta a la escuela al mediodía.
