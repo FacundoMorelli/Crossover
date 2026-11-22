@@ -14,6 +14,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Kyōraku y Ukitake · T151 · Boogie Woogie (Facundo se cambió de lugar con Kyōraku). Facundo dijo que es 'una de muchas'.
 - Byakuya, Renji, Ichigo, Rukia · T132 · Marea Lunar (gravedad aplastante desde el ojo azul de Facundo).
 - Byakuya, Renji, Ichigo, Rukia · T131 · vieron a Facundo moverse muy rápido con Rukia en brazos (velocidad física, sin técnica). [Corregido T134: no mostró nada Quincy.]
 - Byakuya, Renji, Ichigo, Rukia · T127 · vieron el asfalto hundirse bajo los pies de Facundo cuando cargó a Sakaime (no saben qué es).
