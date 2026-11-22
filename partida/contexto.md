@@ -1,4 +1,4 @@
-TURNO: 251 | MUNDO: Dragon Ball | Año 774 · día 4 | HORA: 10:30 | Lugar: risco sobre el desierto (antigua nave de Babidi)
+TURNO: 252 | MUNDO: Dragon Ball | Año 774 · día 4 | HORA: 10:30 | Lugar: risco sobre el desierto (antigua nave de Babidi)
 MOMENTO DEL CANON: Saga Majin Buu TERMINADA por Facundo: el Buu malo (la esencia original) destruido sin dejar una célula. Queda el Buu gordo, bueno, con Mr. Satán. Vegeta vivo. Goku en el Otro Mundo.
 FACUNDO: 18 años · Nivel 22 · EXP 131.810/145.000 · 100.357 Fragmentos · 110 puntos sin asignar · 0 zeni · Energía 100% · Ojos: bien (sin costo) · STATS ~233 · Eclipse 100 (Sol, Luna, Eclipse, Corona) · Cenit 100 (x10, 45 min; Cenit Eclipsado x20) · Sakaime 100 (Bankai) · Manecilla Inversa 100 (Dominio) · Espadas 100 · Semilla 1
 PARA ESTE MUNDO: salió en TV con Buu. Velo: mostró su ki base real a Goku y Vegeta. Ropa negra propia (sacó la del Seireitei). APODO: 'El muchacho del gato' (TV, T214).

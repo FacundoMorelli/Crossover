@@ -1,5 +1,5 @@
 {
-  "turno": 251,
+  "turno": 252,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día 4 (tres días después del 25.º Torneo)",
   "hora": "10:30",
@@ -770,6 +770,18 @@
         "Desbloquear Bankai de Sakaime ya (sin esperar maestría 60)": 2500,
         "Poción suprema (100% de energía y cura heridas leves)": 150,
         "Colirio del Eclipse mayor (anula el daño de ojos de un día entero)": 200
+      },
+      "lote_nivel_15": {
+        "Brújula de ki (señala a alguien que Facundo vio en persona, aunque esté en otro reino del mismo mundo)": 800,
+        "Llave de umbral (abre un paso de ida y vuelta a otro reino del mundo actual: Otro Mundo, infierno, Mundo de los Demonios, etc.; un uso)": 4000,
+        "Energía máxima +25%": 400,
+        "Cristal de energía mayor (recupera 100%, guardable)": 250
+      },
+      "lote_nivel_20": {
+        "Forma superior nueva para un Don de Mundo al máximo (diseño a elección)": 25000,
+        "Eco del Sistema (un doble de Facundo con 50% de sus stats durante 1 hora; un uso)": 3000,
+        "Llamado de Kase (Kase aparece en tu hombro cuando lo llames, en el mismo mundo)": 500,
+        "Restauración (devuelve a la normalidad a alguien petrificado, sellado o maldito, si sigue vivo; un uso)": 6000
       }
     },
     "cosas_comunes": {
@@ -788,8 +800,7 @@
       "Cápsula Hoi-Poi con casa de campaña": 15,
       "Ropa de pelea de Kame House (gi naranja)": 5
     },
-    "ultimo_hito_de_catalogo": 10,
-    "hito_pendiente": "Nivel 15: lote nuevo permanente pendiente de mostrar en /tienda."
+    "ultimo_hito_de_catalogo": 20
   },
   "reglas_ampliadas": {
     "razas_se_copian": {
