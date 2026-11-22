@@ -1,5 +1,5 @@
 {
-  "turno": 117,
+  "turno": 118,
   "mundo_actual": "bleach",
   "fecha_local": "3 de julio (año del canon, ~2001)",
   "hora": "19:55",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 46,
+  "energia_actual_pct": 30,
   "eclipse": {
     "maestria": 39,
     "partes_desbloqueadas": [
@@ -73,15 +73,16 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 40,
+      "maestria": 42,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
           "La hoja dibuja líneas en el aire que quedan suspendidas: son fronteras absolutas. Nada las cruza (ataques, cuerpos, energía) salvo lo que Facundo permite.",
-          "Líneas simultáneas: 3 en maestría 30 (+1 cada 10). Largo: hasta 10 m en maestría 30 (+10 m cada 10).",
+          "Líneas simultáneas: 3 en maestría 30 (+1 cada 10) → 4 en maestría 40. Largo: hasta 10 m en maestría 30 (+10 m cada 10) → 20 m en maestría 40.",
           "Duran hasta 10 minutos o hasta que Facundo las disuelve.",
           "Corte de frontera: si traza una línea a través de un objetivo a menos de 3 m, separa el espacio a cada lado: corta lo que sea, sin importar la dureza.",
-          "Límite propio: no puede trazar líneas dentro del cuerpo de alguien que no ve; la frontera no detiene lo que ya estaba del otro lado."
+          "Límite propio: no puede trazar líneas dentro del cuerpo de alguien que no ve; la frontera no detiene lo que ya estaba del otro lado.",
+          "Marco (descubierto T118): si las líneas cierran una figura (por ejemplo, un cuadrado), el plano encerrado también es frontera. Cuesta más energía."
         ]
       },
       "bankai": {
@@ -90,7 +91,10 @@
         "estado": "bloqueado",
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
-      "marcas_o_lineas_activas": []
+      "marcas_o_lineas_activas": [],
+      "tecnicas": [
+        "Marco (cuatro líneas que cierran un plano-frontera)"
+      ]
     }
   },
   "velo": {

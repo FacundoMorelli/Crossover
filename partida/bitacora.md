@@ -116,3 +116,4 @@ T114 · Bleach · 23:48 · Guarda el Hōgyoku. Rukia en gigai nuevo siente su re
 T115 · Bleach · 03/07 16:25 · Simula días tranquilos. Uryū se presenta, desafía a Ichigo y Facundo y rompe un señuelo.
 T116 · Bleach · 03/07 19:52 · Caza 112 hollows y gana la competencia. COPIA Quincy. NIVEL 7. Se abre la Garganta: Menos Grande.
 T117 · Bleach · 19:55 · Observa: Ichigo corta el pie del Menos; Uryū dispara. El Menos carga un Cero hacia la azotea de Facundo y Rukia.
+T118 · Bleach · 19:55 · Marco de cuatro líneas de Sakaime: frena el Cero del Menos Grande.

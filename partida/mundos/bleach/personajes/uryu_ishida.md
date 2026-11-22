@@ -7,6 +7,7 @@ FÍSICO: flaco, anteojos, pelo negro con flequillo, uniforme impecable; cruz Qui
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, frío, analítico; odia a los Shinigami.
 RELACIÓN CON FACUNDO: rival respetado a regañadientes.
 ENCUENTROS:
+- T118 · 19:55 · Ve el Cero deshacerse contra las líneas de Facundo.
 - T117 · 19:53-19:55 · Dispara ráfagas a la máscara del Menos con poco efecto. Le grita a Ichigo.
 - T116 · 03/07 16:25-19:50 · Compite. Lleva la cuenta en voz alta. A las 19:50 admite que Facundo lo superó (112 contra 94). Ichigo, 71. Se abre la Garganta.
 - T115 · 03/07 16:25 · Se presenta en el río ante Ichigo y Facundo: Quincy, odia a los Shinigami. Desafía a Ichigo y a Facundo a ver quién mata más hollows en 24 horas. Rompe un señuelo. Facundo lo tasa.
