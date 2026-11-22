@@ -26,3 +26,4 @@ T24 · Jujutsu · 23:59 · Informa a Nanami de Mahito. Nanami: 'buen trabajo'. C
 T25 · Jujutsu · 01/11 00:00 · Con Yuji avanza hacia Mahito. Nanami queda con Megumi. Mahito sale de la estación hacia ellos.
 T26 · Jujutsu · 00:01 · Destello Solar a Mahito; Yuji le pega con el Puño Divergente. Mahito contraataca. Misión de copia: Yuji.
 T27 · Jujutsu · 00:01 · Activa la Marca III: Mahito congelado otra vez frente a Yuji, las púas desaparecen.
+T28 · Jujutsu · 00:02 · Le pide a Yuji que golpee; Yuji destroza la estatua. Mahito se rearma dañado.

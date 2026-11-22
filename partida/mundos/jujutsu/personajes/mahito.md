@@ -7,6 +7,7 @@ FÍSICO: pelo largo celeste grisáceo, cara cosida, ojos heterocromos, ropa holg
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, infantil, sádico, filosofa sobre el alma.
 RELACIÓN CON FACUNDO: curiosidad; lo considera un juguete nuevo.
 ENCUENTROS:
+- T28 · 00:02 · Yuji golpea la estatua: el cuerpo congelado estalla en fragmentos. Se rearma desde los pedazos, más lento, con el alma dañada. Ya no sonríe.
 - T27 · 00:01 · Facundo activa la Marca III: vuelve a quedar congelado en su forma normal, frente a Yuji. Las púas desaparecen. El daño al alma del golpe de Yuji sigue.
 - T26 · 00:01 · Cegado por el Destello Solar, recibe el Puño Divergente de Yuji en la cara: dolor real en el alma. Se recompone y contraataca inflándose (Repulsión Corporal).
 - T25 · 00:00 · Sale de la estación tras romper el hielo y camina por el campo gris hacia Yuji y Facundo. Marca III aún en el pecho.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T14 · 23:48 · Facundo lo ciega con Destello Solar y lo parte con Rift. Mahito se recompone (el corte no toca su alma) y contraataca estirando el brazo hacia Facundo.
 - T13 · 23:48 · hall sur de la estación · sale del túnel cuando Facundo lo tasa. Había mirado todo desde la oscuridad.
 DIÁLOGOS CLAVE:
+- T28: "Yuji... Yuji, Yuji, Yuji."
 - T26: "¡Eso dolió, Yuji! ¡Eso sí dolió!"
 - T25: "¡Yuuujiii! ¡Te estaba buscando!"
 - T20: "¿Qué me pusiste? ...Un número. ¿Me estás contando?"
@@ -30,4 +32,4 @@ DIÁLOGOS CLAVE:
 - T13: "Ah... me descubrieron. Qué gato tan grosero." / "Nanamin, sigues vivo. Qué persistente."
 QUÉ SABE DE FACUNDO: aspecto, nombre, dos espadas de fuego y hielo, que viene de parte de Yuji, que Yuji está con Megumi en el centro (escuchó, T11-T12).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo cortando transfigurados (T11); Destello Solar y el corte ígneo de Rift (T14); Marea Lunar (T15).
-ESTADO: congelado frente a Yuji (Marca III activada). Alma dañada por el Puño Divergente. Consciente.
+ESTADO: rearmado tras estallar; alma dañada por dos golpes de Yuji. Sin sonrisa.

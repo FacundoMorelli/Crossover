@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuji Itadori · T28 · Facundo le confirmó que él lo congeló, y le dijo que usar su técnica le daña la vista: puede quedar ciego minutos, o un día si la usa mucho.
 - Yuji Itadori · T23 · Nanami, al despertar, llamó a Facundo por su nombre delante de Yuji: ahora Yuji sabe que se llama Facundo y que Nanami lo conoce de la estación.
 - Mahito · Lo vio en persona (T10-T13, desde el túnel). Escuchó su nombre y que lo mandó Yuji. Escuchó que Megumi vive y está con Yuji en el centro.
 - Kento Nanami · Lo vio en persona (T10, 23:45, hall sur de la estación): joven de pelo blanco y azul, ojos de distinto color, cicatriz, gato en el hombro, dos espadas. Le salvó el lado ciego.
