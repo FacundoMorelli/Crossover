@@ -267,3 +267,4 @@ T265 · Dragon Ball · 12:48 · A la 18: 'en unos días'. Le pide que pase a des
 T266 · Dragon Ball · 13:15 · Torre de Karin. Karin y Kase se miran. ¿A qué viniste?
 T267 · Dragon Ball · 13:17 · 'Vine a conocerte.' Karin propone la prueba del jarrón.
 T268 · Dragon Ball · 13:18 · Le quita el jarrón a Karin. Agua común. Regalo: jarrón y una semilla.
+T269 · Dragon Ball · 13:40 · Se despide de Karin. Buu lo encuentra: cena esta noche en la mansión.
