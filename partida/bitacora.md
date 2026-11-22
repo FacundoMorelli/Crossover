@@ -346,3 +346,4 @@ T344 · Bleach · Karakura · Simula 24-28/09 con los chicos. Aizen ejecutado po
 T345 · One Piece · Islas Conomi · Se despide en Karakura y cruza a un mundo nuevo: One Piece (Arlong Park). Don: Shio Shio no Mi. Misión: Cocoyasi libre sin muertos.
 T346 · One Piece · Conomi · Pregunta dónde está a dos gyojin. Le exigen tributo.
 T347 · One Piece · Conomi · Paga 150.000 berries de tributo (cambió 20 F). Kaneshiro quiere el resto. Sale el viejo Ito con su nieta.
+T348 · One Piece · Conomi · Paga lo que le falta al viejo Ito y le da el resto a Kaneshiro. Gyojin se van. Ito lo invita a pasar.
