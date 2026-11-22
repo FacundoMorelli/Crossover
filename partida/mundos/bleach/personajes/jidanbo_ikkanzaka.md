@@ -7,6 +7,7 @@ FÍSICO: gigante de unos diez metros, pelo trenzado, ropa de guardia, dos hachas
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, bonachón, respeta las reglas y el honor; habla en voz atronadora.
 RELACIÓN CON FACUNDO: —
 ENCUENTROS:
+- T139 · 19/07 · Suelta la puerta por orden de Gin. Brazo intacto. Queda afuera, con el grupo.
 - T137 · 19/07 · La línea de Facundo le salva el brazo del tajo de Gin. Sigue sosteniendo la puerta, asustado.
 - T136 · 19/07 · Pelea contra Ichigo: Ichigo le parte las dos hachas de un tajo. Jidanbō llora, reconoce la derrota y levanta la puerta con los brazos. Del otro lado está Gin.
 - T135 · 19/07 mediodía · Cae del cielo delante de la Puerta Blanca Oeste justo cuando Ichigo corre hacia ella; levanta una nube de polvo; los muros de sekkiseki caen alrededor del Seireitei.

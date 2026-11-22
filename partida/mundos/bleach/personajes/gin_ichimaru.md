@@ -7,6 +7,7 @@ FÍSICO: flaco, pelo plateado, ojos siempre entrecerrados, sonrisa de zorro, hao
 PERSONALIDAD Y FORMA DE HABLAR: burlón, amable de manera inquietante, acento de Kioto.
 RELACIÓN CON FACUNDO: —
 ENCUENTROS:
+- T139 · 19/07 · Jidanbō suelta la puerta; cae y se cierra. Gin no ve entrar a Facundo.
 - T138 · 19/07 · Shinsō se estira contra Ichigo; Facundo se cambia con él (Boogie Woogie) y recibe la estocada con Sakaime. La hoja lo empuja cuarenta metros por el suelo. Gin recoge la espada, encantado.
 - T137 · 19/07 · Su tajo rápido al brazo de Jidanbō choca contra una línea de Sakaime y rebota. Se ríe, reconoce a Facundo por el informe. Desenvaina y apunta a Ichigo para liberar Shinsō.
 - T136 · 19/07 · Aparece al otro lado de la Puerta Blanca cuando Jidanbō la levanta tras perder con Ichigo. Saluda sonriendo.

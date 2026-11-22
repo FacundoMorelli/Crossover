@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T139 · 19/07 · Facundo pasa a su lado y le susurra 'nos vemos adentro'. Ichigo no entiende hasta que la puerta se cierra.
 - T138 · 19/07 · Facundo se cambia con él: aparece junto al grupo, lejos de la puerta.
 - T136 · 19/07 · Vence a Jidanbō partiéndole las hachas.
 - T135 · 19/07 · Cruza el Dangai corriendo del Kōtotsu. En el Rukongai corre hacia la Puerta Blanca Oeste; cae Jidanbō frente a él.
@@ -31,6 +32,7 @@ ENCUENTROS:
 - T89 · 20:46 · Sale corriendo detrás de Facundo por el pasillo del hospital y lo alcanza en el baldío, con Rukia. Le pregunta quién es y si vio al espíritu. Facundo lo tasa.
 
 DIÁLOGOS CLAVE:
+- T139: "¿Adentro? ¿Qué...?"
 - T134: "Voy a traerla de vuelta. ...¿Vienes?"
 - T133: "Ru... kia..."
 - T131: "¡Ngh...! ¡Todavía no termino!"
