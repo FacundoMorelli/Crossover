@@ -363,3 +363,4 @@ T361 · One Piece · Arlong Park · Saca el arco Quincy. Hatchan y Kuroobi carga
 T362 · One Piece · Arlong Park · Dos flechas: Hatchan y Kuroobi fuera de combate. Arlong saca la Kiribachi.
 T363 · One Piece · Arlong Park · Ultra Instinto, se hace el dormido. Arlong no lo toca. Agarra a Zoro como rehén.
 T364 · One Piece · Arlong Park · Boogie Woogie: cambia de lugar con Zoro. Ahora Arlong lo tiene a él con la sierra al cuello.
+T365 · One Piece · Arlong Park · Marea Lunar: Arlong contra la torre. Pregunta a Zoro por su capitán. Zoro: Luffy vendrá; pide que lo desate.

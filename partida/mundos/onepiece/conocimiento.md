@@ -22,3 +22,5 @@
 - Todos en Arlong Park · T361 · Vieron a Facundo formar un arco de luz azul de la nada (Quincy). Lo atribuyen a "otra fruta" o a la misma fruta rara.
 - Todos en Arlong Park · T363 · Vieron el aura plateada y el pelo plateado (Ultra Instinto) y que Arlong no pudo tocarlo mientras "dormía". Lo atribuyen a la fruta.
 - Todos en Arlong Park · T364 · Vieron a Facundo aplaudir y cambiar de lugar con Zoro en un instante (Boogie Woogie). Lo atribuyen a la fruta.
+- Todos en Arlong Park · T365 · Vieron brillar el ojo azul de Facundo y a Arlong salir despedido por una fuerza invisible (Marea Lunar). Oyeron que Facundo quiere que el capitán de Zoro venza a Arlong.
+- Zoro · T365 · Sabe que Facundo quiere que Luffy derrote a Arlong y que "está haciendo tiempo".
