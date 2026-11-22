@@ -93,3 +93,5 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - DIÁLOGO T301: "¡Un mes! ¡Dijiste unas semanas!" / "Aizen no tiene el Hōgyoku. Y sabe quién lo tiene. Inoue puede ser un cebo para ti... o algo peor. Ten cuidado ahí adentro."
 - T303 · Va por un pasillo con Facundo. En la sala oscura ve a 'Kaien Shiba'. Paralizada.
 - DIÁLOGO T303: "...Kaien-dono."
+- T304 · Ve la forma verdadera de Aaroniero. Desenvaina.
+- DIÁLOGO T304: "No eres él." / "No vuelvas a usar su cara."

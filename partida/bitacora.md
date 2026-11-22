@@ -302,3 +302,4 @@ T300 · Bleach · Hueco Mundo · Runuganga; Rukia y Renji llegan. Rukia ve a Fac
 T301 · Bleach · Hueco Mundo · Rukia: patada y sonrisa. Advierte: Aizen sabe que tiene el Hōgyoku.
 T302 · Bleach · Las Noches · Ichigo rompe la pared. Cinco pasillos: separarse.
 T303 · Bleach · Las Noches · Con Rukia por un pasillo. Sala oscura: 'Kaien Shiba'.
+T304 · Bleach · Las Noches · Destello Solar: revela a Aaroniero. Rukia desenvaina.
