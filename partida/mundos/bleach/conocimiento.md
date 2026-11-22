@@ -15,6 +15,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Aizen, Gin, Tōsen, Byakuya, Ichigo, Rukia · T161 · vieron a Facundo moverse más rápido que Aizen y mandarlo a volar de un golpecito en la frente.
 - Aizen, Gin, Tōsen, Byakuya, Ichigo, Rukia · T160 · vieron a Facundo cortar el Bakudō 61 con Sakaime y cambiar a Rukia por Byakuya. Nadie siente su subida de poder (Velo).
 - Todos en la colina · T154 · vieron a Facundo partir el Kikōō de un tajo (Sakaime con peso imposible, al punto exacto) y destruir la alabarda del Sōkyoku.
 - TODOS los capitanes y tenientes presentes en la colina (Yamamoto, Soi Fon, Gin, Unohana, Byakuya, Komamura, Kyōraku, y tenientes) · T153 · vieron a Facundo trazar un Marco que frena el Kikōō y cambiarse de lugar con Rukia. Se le cayó la capucha: lo vieron todos (pelo bicolor, gato). Ya no hay disfraz.

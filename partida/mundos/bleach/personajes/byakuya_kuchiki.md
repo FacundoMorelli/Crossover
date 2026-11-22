@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T161 · 10:42 · Ve el golpecito a Aizen. No dice nada. Se le escapa algo parecido a un resoplido.
 - T160 · 10:41 · Intercambiado con Rukia: aparece sentado en el pasto frente a Aizen. Se levanta, herido, y se pone entre Aizen y el lugar donde ahora está Rukia.
 - T158 · 10:35 · Pierde contra Ichigo. Admite la derrota y renuncia a ejecutar a Rukia (canon). Herido, en el claro.
 - T157 · 09:45 · Rukia le dice que no. Llega Ichigo con bankai.

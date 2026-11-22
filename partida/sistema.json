@@ -1,11 +1,11 @@
 {
-  "turno": 160,
+  "turno": 161,
   "mundo_actual": "bleach",
   "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
-  "hora": "10:41",
+  "hora": "10:42",
   "edad": 18,
   "nivel": 8,
-  "exp": 17210,
+  "exp": 18010,
   "exp_siguiente_nivel": 21000,
   "fragmentos": 294,
   "plata_local": {
@@ -31,7 +31,7 @@
     "energia": 123,
     "control": 122
   },
-  "energia_actual_pct": 30,
+  "energia_actual_pct": 29,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -264,6 +264,19 @@
         "Poder racial Quincy, por la regla ampliada; sin desventajas (el reishi de Hollow no lo envenena)",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Shinsō y poder de Shinigami de Gin Ichimaru",
+      "de": "Gin Ichimaru",
+      "mundo": "bleach",
+      "cuando": "T161, 29/07 10:42",
+      "incluye": [
+        "Shinsō shikai: la hoja se estira y se retrae a velocidad extrema (hasta ~100 'distancias' cortas)",
+        "Bankai Kamishini no Yari: se estira kilómetros a la velocidad del sonido; puede dejar fragmentos de la hoja dentro del objetivo y disolverlos en veneno que deshace las células",
+        "Zanpakutō propia con ese poder (no la física de Gin)",
+        "Paso Flash y esgrima de capitán",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -308,13 +321,6 @@
       "mision": "Que Kisuke Urahara te cuente, sin que se lo pidas, por qué se fue de la Sociedad de Almas.",
       "dificultad": "ALTA",
       "emitida": "T134"
-    },
-    {
-      "poder": "Shinsō y poder de Shinigami de Gin Ichimaru (incluido el Bankai)",
-      "mundo": "bleach",
-      "mision": "Que Gin Ichimaru abra los ojos delante de ti.",
-      "dificultad": "ALTA",
-      "emitida": "T138"
     },
     {
       "poder": "Poder de Sōsuke Aizen (Kyōka Suigetsu, kidō, todo su poder de Shinigami)",

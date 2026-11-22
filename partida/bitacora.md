@@ -159,3 +159,4 @@ T157 · Bleach · 09:45 · Rukia dice que no. Llega Ichigo con bankai: 'llévate
 T158 · Bleach · 10:40 · Ichigo vence a Byakuya. Aizen revelado. Aizen, Gin y Tōsen aparecen ante Facundo: 'tienes algo que me pertenece'.
 T159 · Bleach · 10:41 · Toca la hoja de Kyōka Suigetsu (inmune). Huye con Rukia; Aizen lo atrapa con Bakudō 61.
 T160 · Bleach · 10:41 · Corta el Bakudō 61. Cambia a Rukia por Byakuya. +75 a todos los stats (600 F). Promedio ~122.
+T161 · Bleach · 10:42 · Golpecito en la frente a Aizen: vuela 6 m. Gin abre los ojos: COPIA Shinsō (+800 EXP). Aizen lanza Kurohitsugi.
