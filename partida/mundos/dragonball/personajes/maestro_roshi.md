@@ -5,6 +5,7 @@ FÍSICO: viejo bajito, calvo, barba blanca larga, anteojos de sol, caparazón de
 PERSONALIDAD Y FORMA DE HABLAR: pícaro, pervertido, sabio cuando importa; dice 'jo, jo, jo'.
 RELACIÓN CON FACUNDO: lo aprueba; le abrió la casa.
 ENCUENTROS:
+- T266 · 13:00 · Facundo se despide; Roshi lo saluda desde la reposera.
 - T263 · 12:45 · Facundo le dice que usará su fuerza para proteger a la gente que quiere y seguir viajando. Aprueba.
 - T262 · 12:40 · Después del almuerzo, en la playa, le pregunta qué va a hacer con tanta fuerza.
 - T261 · 11:33 · Facundo dice que es fuerte pero no le gusta presumir. Se ríe: buena respuesta.

@@ -38,3 +38,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T261 (Dragon Ball) · Deja que Marron (3) le toque la nariz con un dedo.
 - T262 (Dragon Ball) · Marron le da pedacitos de pescado debajo de la mesa. Los acepta.
 - T264 (Dragon Ball) · Se deja acariciar por Marron y se pone panza arriba en la arena un segundo. Nunca lo había hecho con nadie más que Facundo.
+- T266 (Dragon Ball) · Se queda mirando fijo al maestro Karin; Karin le sostiene la mirada.

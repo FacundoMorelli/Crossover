@@ -264,3 +264,4 @@ T262 · Dragon Ball · 12:40 · Almuerzo en Kame House. Roshi: ¿qué vas a hace
 T263 · Dragon Ball · 12:45 · A Roshi: 'proteger a la gente que quiero y seguir viajando'. Roshi aprueba.
 T264 · Dragon Ball · 12:47 · Marron acaricia a Kase. La 18 pregunta cuándo se va.
 T265 · Dragon Ball · 12:48 · A la 18: 'en unos días'. Le pide que pase a despedirse.
+T266 · Dragon Ball · 13:15 · Torre de Karin. Karin y Kase se miran. ¿A qué viniste?
