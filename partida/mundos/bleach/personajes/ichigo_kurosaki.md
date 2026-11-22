@@ -73,3 +73,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T302 · Rompe la pared de Las Noches con un Getsuga. Propone separarse en los cinco pasillos.
 - DIÁLOGO T302: "Cinco pasillos. Nos separamos. El que encuentre a Inoue, la saca."
 - T314 · En la cúpula, Ulquiorra le atraviesa el pecho (canon). Su reiatsu casi se apaga.
+- T315 · Orihime lo cura sobre la cúpula. Casi muerto.
