@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T233 · 14:25 · Lleva a Facundo a una habitación del segundo piso. Fiesta a las 20:00.
 - T232 · 14:11 · Escucha a Facundo darle todo el mérito en vivo. Lo abraza frente a cámaras y anuncia una fiesta esta noche; lo invita como invitado de honor.
 - T231 · 14:09 · Por consejo de Facundo, le dice a la prensa en vivo que destruyó a un monstruo malvado con su Puñetazo Dinamita.
 - T230 · 14:06 · Oye llegar a la prensa y a la policía. Pánico: le pregunta a Facundo qué les dice.
