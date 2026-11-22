@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T244 · 09:20 · Vuela con Facundo al Templo Sagrado. Dende lo cura.
 - T243 · 08:18 · Le explica la Habitación del Tiempo. Ya usó un día (con Trunks, saga de Cell). Propone entrar con Facundo.
 - T242 · 08:09-08:16 · Siete minutos más; choque final Big Bang contra corte en X. Los dos quedan tirados en el hielo. Lo llama "Facundo" por primera vez.
 - T241 · 08:09 · Su Final Flash a quemarropa le pega a una roca (Boogie Woogie). Se ríe a carcajadas.
