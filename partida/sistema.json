@@ -1,8 +1,8 @@
 {
-  "turno": 151,
+  "turno": 152,
   "mundo_actual": "bleach",
-  "fecha_local": "19 de julio (año del canon, ~2001)",
-  "hora": "Sociedad de Almas · 23:37",
+  "fecha_local": "29 de julio (año del canon, ~2001) · Sociedad de Almas",
+  "hora": "09:40",
   "edad": 18,
   "nivel": 7,
   "exp": 16210,
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -537,7 +537,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 25
+        "dias_transcurridos": 36
       }
     },
     "puerta_abierta": true,
@@ -645,7 +645,7 @@
     "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55).",
     "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá.",
     "uryu": "Uryū observa a Ichigo y a Facundo. Su desafío con el señuelo (cap. 34) se correrá a principios de julio. Ve en Facundo un misterio.",
-    "sociedad_de_almas": "Rukia arrestada el 07/07 23:25 y llevada a la Sociedad de Almas (canon). Byakuya informará a la Central 46 (controlada por Aizen en secreto) sobre 'un humano sin reiatsu perceptible con zanpakutō propia, técnicas de luz, gravedad, cambio de lugar y mucha velocidad'. Aizen, al examinar a Rukia en prisión, descubrirá en días que el Hōgyoku ya no está en ella: deducirá que Urahara lo sacó, y sospechará del humano. La ejecución se fija igual (Aizen la quiere para cubrir sus pasos o la cancela: decidir según lo que pase). Ichigo perdió sus poderes (Byakuya cortó Hakusui y Saketsu, canon). Urahara lo reentrenará (10 días). 10-15/07: Aizen confirma que Rukia está vacía; la ejecución se mantiene en el Sōkyoku (fecha: en ~25 días de la Sociedad de Almas) porque Aizen quiere ver si el Hōgyoku 'vuelve' o si alguien viene a rescatarla con él. Manda a Gin a averiguar sobre el humano.",
+    "sociedad_de_almas": "Rukia arrestada el 07/07 23:25 y llevada a la Sociedad de Almas (canon). Byakuya informará a la Central 46 (controlada por Aizen en secreto) sobre 'un humano sin reiatsu perceptible con zanpakutō propia, técnicas de luz, gravedad, cambio de lugar y mucha velocidad'. Aizen, al examinar a Rukia en prisión, descubrirá en días que el Hōgyoku ya no está en ella: deducirá que Urahara lo sacó, y sospechará del humano. La ejecución se fija igual (Aizen la quiere para cubrir sus pasos o la cancela: decidir según lo que pase). Ichigo perdió sus poderes (Byakuya cortó Hakusui y Saketsu, canon). Urahara lo reentrenará (10 días). 10-15/07: Aizen confirma que Rukia está vacía; la ejecución se mantiene en el Sōkyoku (fecha: en ~25 días de la Sociedad de Almas) porque Aizen quiere ver si el Hōgyoku 'vuelve' o si alguien viene a rescatarla con él. Manda a Gin a averiguar sobre el humano. 20-28/07: canon con cambios menores: Ichigo vence a Ikkaku, Renji y empata con Kenpachi; Aizen finge su muerte (21/07); Hitsugaya vs Gin; Uryū vence a Mayuri y pierde sus poderes Quincy; Ichigo entrena bankai con Yoruichi; Renji (con bankai) pierde contra Byakuya; Kenpachi vs Tōsen y Komamura. La ejecución se adelanta al 29/07. Aizen (escondido, 'muerto') va a estar en la colina después; quiere ver quién trae el Hōgyoku. Ukitake consiguió el escudo Shihōin el 28/07 y viene con Sentarō y Kiyone.",
     "tiempo_sociedad_de_almas": "Para la partida, el tiempo corre igual que en Karakura; la fecha local se lleva como '19 de julio' (mundo humano). Ejecución de Rukia: plazo de ~14 días desde la llegada, que la Central 46 (Aizen) adelantará.",
     "infiltracion": "Facundo entró al Seireitei por la Puerta Blanca Oeste el 19/07 sin que nadie lo viera. Gin cree que se quedó afuera con el grupo; lo nota al rato y no lo reporta enseguida (le divierte). Ichigo y el resto entran por el cañón de Kūkaku en ~2 días (canon)."
   }

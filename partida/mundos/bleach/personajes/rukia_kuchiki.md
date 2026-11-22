@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T152 · 29/07 09:40 · En el patíbulo de la colina del Sōkyoku. Pide que perdonen a los ryoka. Su reiatsu volvió a la mitad. El Sōkyoku se transforma en el Kikōō.
 - T134 · 18/07 · (informado por Urahara) Condenada a muerte en el Sōkyoku. Fecha fijada.
 - T134 · 08/07 00:15 · Facundo ve el conejo que le dibujó en el vidrio.
 - T133 · 07/07 23:23-23:30 · Facundo le pide perdón y se desmaya en el techo. Ella baja a la calle y se entrega a Byakuya a cambio de que no maten a Ichigo ni a Facundo. Byakuya acepta. Se va con ellos por una Senkaimon. Antes de irse, le deja a Facundo (inconsciente) un dibujo de conejo hecho con su dedo en el vidrio empañado de una ventana.
@@ -37,6 +38,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T152: "Gracias a todos. Ya no tengo miedo."
 - T133: "Nii-sama. Me voy contigo. Sin pelear. Pero a ellos dos no los tocas." / (a Facundo, inconsciente) "Idiota. Ya hiciste más que nadie."
 - T131: "¡Bájame! ...No, no me bajes. ¡Ichigo!"
 - T130: "¡Arriba, Facundo! ¡No tiene techo!"

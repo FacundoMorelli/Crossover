@@ -150,3 +150,4 @@ T148 · Bleach · 23:10 · Descansa. Kyōraku lo busca para ir con Ukitake.
 T149 · Bleach · 23:35 · Con Kyōraku en el Ugendō. Ukitake: reliquia Shihōin para detener el Sōkyoku; necesita días.
 T150 · Bleach · 23:36 · Corrección: Ukitake no sabe del inventario. Pregunta qué más puede hacer Facundo.
 T151 · Bleach · 23:37 · Demuestra Boogie Woogie con Kyōraku. Ukitake lo quiere en la colina el día de la ejecución.
+T152 · Bleach · 29/07 09:40 · Simula diez días escondido. Colina del Sōkyoku: el Kikōō se forma sobre Rukia.
