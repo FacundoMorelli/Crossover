@@ -54,6 +54,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Facundo → Ichigo, Orihime, Rukia, Chad, Nel (T326, cúpula de Las Noches): Gin trabajó siempre para Aizen buscando traicionarlo; Tōsen tiene sus razones; los dos se rinden y piden ser juzgados.
 - Yamamoto → equipo de avanzada (25/08): Facundo es 'colaborador bajo observación' en Karakura.
 - [CORRECCIÓN T150] Kyōraku y Ukitake NO saben del inventario dimensional. Solo lo saben Urahara, Rukia, Yoruichi y Tessai. Se anuló la pregunta de Ukitake del T149.
 - Kyōraku → Ukitake (19/07, en secreto): el humano del informe está en el 8.º, vino por Rukia.

@@ -51,3 +51,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su nombre; vio su shikai (T121); no siente su reiatsu.
 QUÉ PODERES DE FACUNDO VIO: shikai de Sakaime (línea) (T121); Destello Solar desde el ojo rojo (T123); cambio de lugar al aplaudir (Boogie Woogie) (T126); Marea Lunar, gravedad desde el ojo azul (T132).
 ESTADO: volvió a la Sociedad de Almas con Rukia. Herido en el brazo. Bufanda cortada.
+- T326 · Llega a Hueco Mundo por una Garganta con otros capitanes. Mira la estatua de Aizen. Mira a Facundo.
