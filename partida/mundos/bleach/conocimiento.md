@@ -17,6 +17,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Don Kanonji · T88 · lo vio en persona, de cerca.
 
 ## QUIÉN VIO QUÉ PODERES
+- Aizen, Gin, Tōsen · T317 · Ultra Instinto Dominado: aura plateada, esquiva todo sin moverse.
 - Chad · T311 · despierta curado; ve a Facundo con el aura plateada (Ultra Instinto) y a Nnoitra en el piso.
 - Rukia, Nel, Tesla · T310 · Facundo noquea a la 5.ª Espada de un solo golpe que nadie vio salir.
 - Rukia, Nel, Nnoitra, Tesla · T308 · una transformación: aura plateada quieta, ojos plateados (Ultra Instinto). Lo interpretan como algo parecido a una liberación.

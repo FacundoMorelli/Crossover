@@ -25,4 +25,6 @@ QUÉ SABE DE FACUNDO: que conoce el secreto de su espada (tocó la hoja, T159); 
 QUÉ PODERES DE FACUNDO VIO: los vio todos desde la sombra, en la colina (Marco, Boogie Woogie, el tajo al Kikōō).
 - T316 · Recibe a Facundo en la sala del trono. Cicatriz fina en la frente. Le propone el Hōgyoku a cambio de dejar ir a Orihime y a todos, y no tocar Karakura.
 - DIÁLOGO T316: "Facundo-kun. Bienvenido a Las Noches." / "Esta cicatriz es tuya. La conservo. Es la única que tengo." / "Te propongo algo simple. El Hōgyoku. A cambio, Inoue Orihime y todos tus amigos se van de aquí caminando. Y Karakura sigue existiendo."
+- T317 · Facundo se ríe del trato y activa Ultra Instinto Dominado. Aizen, Gin y Tōsen atacan: nada lo toca. Aizen deja de sonreír y empieza a liberar Kyōka Suigetsu.
+- DIÁLOGO T317: "Gin. Kaname." / "...Byakurai." / "Quiebra..."
 ESTADO: en Las Noches, sin el Hōgyoku. Cicatriz en la frente.

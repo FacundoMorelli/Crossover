@@ -33,3 +33,5 @@ QUÉ PODERES DE FACUNDO VIO: línea de Sakaime (T137); Boogie Woogie (T138).
 ESTADO: en Hueco Mundo con Aizen.
 - T316 · En la sala del trono, al costado de Aizen. Saluda a Facundo con la mano.
 - DIÁLOGO T316: "¡Hola, hola! El de la espada que me robó la forma."
+- T317 · Ataca con Shinsō a máxima velocidad: no lo toca. Abre los ojos.
+- DIÁLOGO T317: "...Ay. Ay, ay."
