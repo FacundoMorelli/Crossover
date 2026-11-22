@@ -3,6 +3,7 @@ AFILIACIÓN: dioses
 FÍSICO: piel lavanda, cresta blanca, pendientes Potara.
 PERSONALIDAD: serio, nervioso ante Buu.
 ENCUENTROS:
+- T226 · 13:58 · Busca el ki del Buu malo en todo el planeta: nada. Confirma que desapareció para siempre. Llora de alivio.
 - T222 · 13:54 · Ve a Facundo separar al Buu malo. Grita que hay que destruirlo ya.
 - T221 · 13:53 · En el jardín, tenso, mirando el vapor.
 - T220 · 09:40-13:50 · Sigue a Buu a la mansión. Al ver el vapor, manda a Kibito a buscar a Facundo.
@@ -17,6 +18,7 @@ ENCUENTROS:
 
 ESTADO: frente a la nave.
 DIÁLOGOS CLAVE:
+- T226: "No está. En ningún lado. Ni en el planeta, ni en el universo." / "Cinco millones de años..."
 - T197: "Este Buu es así porque hace millones de años absorbió al Gran Kaiosama, que era un ser bondadoso. Pero el Buu original sigue ahí adentro." / "No conozco ninguna técnica capaz de separarlos. Ningún dios la conoce. Y si alguien lo lograra, lo que saliera sería el Buu más puro y más malo que existió. Habría que destruirlo en ese mismo instante, sin dejar ni una célula."
 - T196: "Soy Shin, el Supremo Kaiosama. Gracias por salvarnos." / "Pero escúchame: Majin Buu no es un niño. Lo que vimos es solo una cara. Dentro de él hay algo mucho peor. Un trato de dulces no lo va a contener para siempre."
 - T183: "¡Muchacho! ¡Majin Buu destruyó planetas enteros! ¡No puedes confiar en él!"

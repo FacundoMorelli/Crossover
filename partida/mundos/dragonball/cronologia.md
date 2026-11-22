@@ -15,6 +15,7 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- 13:58 · (T226) El Buu malo, destruido por el Eclipse. Fin de la amenaza de Majin Buu.
 - 13:54 · (T222) Facundo separa al Buu malo. El Buu gordo duerme.
 - 13:52 · (T220) Kibito encuentra a Facundo en el cañón del norte (indicación de Gohan).
 - 13:40 · (T220) Dos tiradores disparan contra Bee y Mr. Satán en la mansión. Buu los cura. Furia: empieza a echar vapor (canon: así nace el Buu malo).

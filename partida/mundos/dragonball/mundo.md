@@ -13,3 +13,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T193 · Goku revela el Super Saiyajin 3 en una pelea de entrenamiento con Facundo (en el canon lo mostraba contra Buu).
 - T180/T196 · Kibito sigue vivo (en el canon, Buu lo mataba).
 - T222 · Facundo separa al Buu malo del Buu gordo con la Transfiguración Ociosa. En el canon, el Buu malo salía igual y se comía al gordo (Super Buu).
+- T226 · Facundo destruye al Buu malo (la esencia original de Majin Buu) con el Eclipse. No hay Super Buu, ni absorciones, ni Kid Buu, ni destrucción de la Tierra. Vegeta no se autodestruye. El Buu gordo sigue, bueno, con Mr. Satán y Bee.

@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T226 · 13:58 · Se despierta junto a la reja, sin vapor, confundido. Ve a Mr. Satán y a Bee.
 - T223 · 13:55 · Dormido, cambiado de lugar con una roca junto a la reja (Boogie Woogie).
 - T222 · 13:54 · Facundo le toca el pecho y corta el hilo del Buu malo. Deja de echar vapor y cae dormido en el pasto, sano.
 - T221 · 13:53 · En trance, ojos en blanco, la columna de vapor toma forma sobre la mansión. Ve a Facundo apenas.

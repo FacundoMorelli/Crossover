@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T226 · 13:58 · Ve desaparecer al Buu malo. Corre hacia el Buu gordo.
 - T224 · 13:56 · Se encuentra abrazando a Facundo en lugar de la roca. Lo suelta gritando. Ve el Letzt Stil.
 - T222 · 13:54 · Ve salir al Buu malo. Se arrastra hasta el Buu gordo dormido.
 - T221 · 13:53 · En el jardín, camisa ensangrentada, abrazando a Bee; ve llegar a Facundo.

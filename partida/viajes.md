@@ -33,9 +33,12 @@
 
 | # | Mundo | Llegada | Momento del canon | Misión | Estado |
 |---|---|---|---|---|---|
-| 3 | Dragon Ball | Año 774, día del 25.º Torneo, mediodía | Saga Majin Buu: nave de Babidi (cap. ~448) | Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. | Activa |
+| 3 | Dragon Ball | Año 774, día del 25.º Torneo, mediodía | Saga Majin Buu: nave de Babidi (cap. ~448) | Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. | CUMPLIDA (T226) · Puerta abierta |
 
 ## RELOJES (actualizado T174)
 - Jujutsu Kaisen: se fue el 05/11/2018 tras 5 días; corre.
 - Bleach: se fue el 26/08 22:30 tras 64 días; corre. Prometió volver en unas semanas.
 - Dragon Ball: llegada año 774.
+
+- CUMPLIDA: T226 · día siguiente al 25.º Torneo, 13:58. Facundo separó al Buu malo (T222) y se lo tragó entero con el Eclipse. Vegeta vivo. +10.000 EXP, +300 F. Puerta abierta.
+- Mundos completados: 3/3 (Jujutsu Kaisen, Bleach, Dragon Ball). VIAJE LIBRE desbloqueado.
