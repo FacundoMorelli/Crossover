@@ -16,3 +16,4 @@
 - Levi, Zeke · T410 · Vieron a Facundo lanzar una bola de luz que voló medio cuerpo del Carguero.
 - Zeke · T410 · Deduce que Facundo "no es de esta isla" (no parece eldiano de Paradis ni marleyano; sus poderes no son de titán).
 - Zeke, Levi · T411 · Facundo dice que vino "con una misión, a cumplirla". Zeke especula (no es de Marley).
+- Erwin · T414 · Deduce que Facundo viene "del otro lado del mar" (poder que no es de titán + dice no saber nada + los libros). Deducción razonable, no confirmada.
