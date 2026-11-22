@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: Técnica del Muñeco de Paja: clavos con martillo, Reso
 EDAD EN ESTE MOMENTO DEL CANON: 16
 FÍSICO: pelo castaño anaranjado corto, ojos marrones, martillo y clavos.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, directa, malhablada, valiente.
-RELACIÓN CON FACUNDO: le cae pesado por el tono; le debe una.
+RELACIÓN CON FACUNDO: lo trata con confianza brusca; le cae bien aunque no lo admita.
 ENCUENTROS:
+- T48 · 01:28 · Le tira una lata de jugo a Yuji y otra a Facundo. Le pregunta a Facundo por el gato.
 - T45 · 00:47-01:05 · Va con el grupo hasta el puesto de mando, fuera de Shibuya, con sus dos ojos.
 - T33 · 00:10-00:12 · Apoya con clavos y Resonancia desde 30 m; Mahito la ignora para centrarse en Yuji y Todo.
 - T31 · 00:09 · Facundo le dice su nombre y le pregunta si va a ayudar a Yuji. Ella lo insulta y va: Resonancia con el pedazo del doble mientras Yuji golpea.
@@ -14,6 +15,7 @@ ENCUENTROS:
 - T29 · 00:07 · Aparece por el oeste, pelea contra el doble de Mahito, usa Resonancia (daña al original). El original se le acerca por la espalda. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T48: "Toma, imbécil número dos." / "¿Y ese gato? ¿Es tuyo o te adoptó él a ti?"
 - T45: "Si alguien me pregunta, yo hice la mitad del trabajo."
 - T33: "¡¿Y ese gorila de dónde salió?!"
 - T31: "¡Claro que sí, imbécil! ¡Nadie me tiene que decir eso!" / "¡Itadori! ¡Ahora!"

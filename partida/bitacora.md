@@ -46,3 +46,4 @@ T44 · Jujutsu · 00:46 · Corre a la losa con Yuki y Todo. Nanami débil. Shoko
 T45 · Jujutsu · 01:06 · Carga a Nanami al puesto de mando. Nobara sale de Shibuya con sus dos ojos: COPIA Muñeco de Paja (+400 EXP). Shoko cura a Nanami.
 T46 · Jujutsu · 01:24 · Descansa. Nanami estable, Megumi atendido. Yuji le agradece.
 T47 · Jujutsu · 01:26 · Le dice a Yuji que no fue su culpa. Yuji confirma que es Sukuna.
+T48 · Jujutsu · 01:28 · Consuela a Yuji. Nobara trae jugos y pregunta por Kase.
