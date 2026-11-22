@@ -340,3 +340,4 @@ T338 · Bleach · Las Noches · Le deja Hueco Mundo a Ulquiorra. Pregunta si ya 
 T339 · Bleach · Seireitei · Simula 19-23/09: vuelta al Seireitei, Aizen al Muken, Gin cuenta lo del Hōgyoku. Yamamoto cita a Facundo y le pregunta por el Hōgyoku.
 T340 · Bleach · Seireitei · "En un lugar donde nadie puede acceder." Yamamoto pregunta qué pasa con el Hōgyoku si él muere.
 T341 · Bleach · Seireitei · "Se queda ahí dentro, nada lo saca." Yamamoto acepta. Pregunta por Aizen si Facundo muere.
+T342 · Bleach · Seireitei · "Así es." Yamamoto ordena romper la estatua de Aizen mañana al amanecer. Pregunta si Facundo objeta.

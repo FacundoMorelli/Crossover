@@ -20,3 +20,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: el informe de Byakuya. Ahora lo ve en el patíbulo.
 ESTADO: en el claro. Anuló la sentencia de Rukia.
 - T339 · 23/09 · Cita a Facundo a la sala de reuniones del 1.º ante los capitanes. Agradece formalmente la captura de Aizen. Sabe por Gin que Facundo tiene el Hōgyoku y le pregunta dónde está.
+- T340-342 · Acepta que el Hōgyoku "ya no existe". Al confirmar Facundo que Aizen despierta si él muere, ordena romper la estatua mañana al amanecer, sin esperar a una nueva Central 46. Pregunta si Facundo objeta.
