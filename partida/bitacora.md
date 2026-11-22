@@ -35,3 +35,4 @@ T33 · Jujutsu · 00:12 · Observa: Mahito final supera a Yuji; llega Todo (pier
 T34 · Jujutsu · 00:12 · Destello Solar rompe el dominio de Mahito. Mahito siente miedo: COPIA Transfiguración Ociosa (+800 EXP). NIVEL 2.
 T35 · Jujutsu · 00:16 · Observa: Yuji vence a Mahito. COPIA: físico de Yuji + Puño Divergente. +300 F, NIVEL 3. Aparece el falso Geto frente a Mahito.
 T36 · Jujutsu · 00:24 · Observa: Kenjaku absorbe a Mahito, mira a Facundo. Choso ataca. Llega Kioto. Uraume lanza una ola de hielo.
+T37 · Jujutsu · 00:24 · Marea Lunar frena el hielo de Uraume antes de la losa. Ojo azul ciego. Atrapado hasta las rodillas.

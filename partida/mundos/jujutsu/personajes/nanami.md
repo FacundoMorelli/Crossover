@@ -7,6 +7,7 @@ FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje be
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
 RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T37 · 00:24 · La ola de hielo de Uraume se detiene a ~20 m de la losa, aplastada por la Marea Lunar de Facundo.
 - T25 · 00:00 · Le advierte a Yuji que no se deje llevar por la rabia. Se queda junto a la losa con Megumi.
 - T24 · 23:59 · Facundo le informa que Mahito está congelado en la estación y saldrá pronto. Nanami le dice "buen trabajo". Advierte que Mahito vendrá por Itadori.
 - T23 · 23:57-23:58 · Facundo llega corriendo, lo marca (Marca IV) y, con Yuji, lo estabiliza: torniquete con la manga del sobretodo en el brazo izquierdo, vía aérea libre, piernas en alto. Nanami despierta. Pregunta por Fushiguro y por Mahito.

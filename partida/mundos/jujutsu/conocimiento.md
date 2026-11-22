@@ -17,6 +17,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Uraume y Kenjaku · T37 · vieron que Facundo aplastó la ola de hielo con una fuerza invisible a ~150 m y la frenó antes de la losa. Uraume lo registra como alguien que torció su técnica.
 - Mahito, Yuji, Todo, Nobara · T34 · vieron (o sufrieron) el Destello Solar que cortó la expansión de dominio de Mahito. Todo quedó encandilado unos segundos; Yuji alcanzó a cubrirse. Todo y Nobara notan que salió del ojo de Facundo.
 - Nobara Kugisaki · T30 · vio el efecto de la Marea Lunar (Mahito arrancado de su espalda y lanzado lejos; estela de escarcha desde Facundo).
 - Yuji y Mahito · T30 · vieron la Marea Lunar a 40 m.
