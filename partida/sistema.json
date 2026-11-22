@@ -1,5 +1,5 @@
 {
-  "turno": 129,
+  "turno": 130,
   "mundo_actual": "bleach",
   "fecha_local": "7 de julio (año del canon, ~2001)",
   "hora": "23:22",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 69,
+  "energia_actual_pct": 55,
   "eclipse": {
     "maestria": 40,
     "partes_desbloqueadas": [
@@ -82,7 +82,8 @@
           "Duran hasta 10 minutos o hasta que Facundo las disuelve.",
           "Corte de frontera: si traza una línea a través de un objetivo a menos de 3 m, separa el espacio a cada lado: corta lo que sea, sin importar la dureza.",
           "Límite propio: no puede trazar líneas dentro del cuerpo de alguien que no ve; la frontera no detiene lo que ya estaba del otro lado.",
-          "Marco (descubierto T118): si las líneas cierran una figura (por ejemplo, un cuadrado), el plano encerrado también es frontera. Cuesta más energía."
+          "Marco (descubierto T118): si las líneas cierran una figura (por ejemplo, un cuadrado), el plano encerrado también es frontera. Cuesta más energía.",
+          "Recinto (descubierto T130): un Marco trazado en el suelo alrededor de algo levanta paredes-frontera de la altura del largo de la línea (20 m en maestría 40). No tiene techo."
         ]
       },
       "bankai": {
@@ -93,7 +94,8 @@
       },
       "marcas_o_lineas_activas": [],
       "tecnicas": [
-        "Marco (cuatro líneas que cierran un plano-frontera)"
+        "Marco (cuatro líneas que cierran un plano-frontera)",
+        "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"
       ]
     }
   },

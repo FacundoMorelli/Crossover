@@ -128,3 +128,4 @@ T126 · Bleach · 23:21 · Boogie Woogie: cambia a Byakuya con Ichigo frente al 
 T127 · Bleach · 23:21 · Ira Estelar en Sakaime (fusión sellada). Byakuya ataca a la garganta.
 T128 · Bleach · 23:21 · Bloquea y contraataca: corta la bufanda y el brazo de Byakuya. Byakuya libera Senbonzakura. Misión de copia: Byakuya.
 T129 · Bleach · 23:22 · Se intercambia con Renji: Byakuya frena los pétalos ante su teniente. Facundo junto a Rukia.
+T130 · Bleach · 23:22 · Recinto (Marco en el suelo) alrededor de él y Rukia. Senbonzakura rebota; Byakuya va por arriba.

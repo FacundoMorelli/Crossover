@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T130 · 23:22 · Lanza Senbonzakura contra el Recinto de Facundo: rebota en las paredes. Ve que no tiene techo y manda los pétalos hacia arriba, para caer desde el cielo.
 - T129 · 23:22 · Frena Senbonzakura a un palmo de la cara de Renji. Le ordena apartarse.
 - T128 · 23:21 · Su tajo choca contra Sakaime cargada de masa: el brazo se le dobla hacia atrás, la espada rebota. El contraataque de Facundo le corta el haori, la bufanda (Ginpaku Kazahana no Uginu) y un tajo fino en el brazo izquierdo. Retrocede con Paso Flash a veinte metros. Con los ojos fijos en el suelo, libera Senbonzakura.
 - T127 · 23:21 · Ve el asfalto hundirse bajo Facundo cuando carga Sakaime de masa. Ataca con Paso Flash sin liberar, directo a la garganta.
@@ -17,6 +18,7 @@ ENCUENTROS:
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T130: "Una caja sin tapa."
 - T129: "Renji. Sal de en medio." / "Ese truco no va a funcionar una tercera vez."
 - T128: "Esa bufanda vale más que la vida de diez humanos como tú." / "Chire, Senbonzakura."
 - T126: "...Renji." / (a Facundo) "Dos veces. Me interrumpiste dos veces."
