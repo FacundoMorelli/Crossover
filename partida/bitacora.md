@@ -262,3 +262,4 @@ T260 · Dragon Ball · 11:30 · Kame House. La 18, Marron, Roshi. Roshi: ¿fuert
 T261 · Dragon Ball · 11:33 · 'Soy fuerte pero no presumo.' Marron toca a Kase. La 18 lo invita a almorzar.
 T262 · Dragon Ball · 12:40 · Almuerzo en Kame House. Roshi: ¿qué vas a hacer con tanta fuerza?
 T263 · Dragon Ball · 12:45 · A Roshi: 'proteger a la gente que quiero y seguir viajando'. Roshi aprueba.
+T264 · Dragon Ball · 12:47 · Marron acaricia a Kase. La 18 pregunta cuándo se va.
