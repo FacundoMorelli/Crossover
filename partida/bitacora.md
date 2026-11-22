@@ -210,3 +210,4 @@ T208 · Dragon Ball · 23:58 · Entrena con Goku hasta medianoche. NIVEL 13. Lle
 T209 · Dragon Ball · 00:01 · Se despide de Goku. Gohan lo invita al Monte Paoz.
 T210 · Dragon Ball · 00:35 · Vuela al Monte Paoz con Gohan y Goten. Milk lo recibe.
 T211 · Dragon Ball · 00:45 · Milk lo hace pasar, le da de comer. Pregunta si estudia.
+T212 · Dragon Ball · 00:55 · 'No estudio, pero me gusta aprender.' Milk le ofrece dónde dormir.
