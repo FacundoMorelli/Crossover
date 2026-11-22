@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T120 · 04/07 · Explica a Chad, Orihime y Facundo lo que despertó en ellos. 07/07 23:05: Yoruichi le avisa a Facundo que llegaron dos Shinigami fuertes; Facundo sale.
 - T116 · 03/07 · Sale con Tessai, Jinta y Ururu a limpiar hollows; rescata a Chad y a Orihime.
 - T114 · 23:45 · Ve desaparecer el Hōgyoku en el inventario de Facundo. Lo busca una última vez con su aparato: nada. Pasa a Rukia a un gigai nuevo sin supresión.
 - T113 · 26-29/06 · Trabaja día y noche en el sótano. 29/06 23:40: extrae el Hōgyoku del alma de Rukia en un círculo de kidō con Tessai. Lo sostiene en la palma, frente a Facundo.

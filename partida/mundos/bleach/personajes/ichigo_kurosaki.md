@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T120 · 04-07/07 · Entrenamientos con Facundo. El 07/07 a la noche no sabe que Rukia salió.
 - T119 · 19:56-20:02 · Uryū le dice que suelte el reiatsu hacia él; Ichigo lo hace. Uryū lo dispara en una flecha gigante. El Menos se retira. Ichigo queda agotado, vivo.
 - T117 · 19:53-19:55 · Salta sobre el Menos Grande y le corta parte del pie. Su reiatsu empieza a desbordarse.
 - T116 · 03/07 · Caza hollows por toda Karakura. 71. Furioso con los dos.

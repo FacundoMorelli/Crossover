@@ -7,6 +7,7 @@ FÍSICO: gato negro de ojos dorados.
 PERSONALIDAD Y FORMA DE HABLAR: habla con voz grave masculina como gato; burlona, segura.
 RELACIÓN CON FACUNDO: curiosidad divertida; lo vigila.
 ENCUENTROS:
+- T120 · 07/07 23:05 · Despierta a Facundo: dos reiatsu de la Sociedad de Almas en la ciudad, un capitán.
 - T108 · 16:10-16:48 · Olfatea, recorre la tienda, sube al techo. No encuentra el caramelo.
 - T107 · 16:10 · Baja del estante al escuchar la oferta.
 - T100 · 21:30 · Le dice su nombre a Facundo: Yoruichi. Se queda a dormir en el pasillo, frente a su puerta; Kase la deja.
@@ -14,6 +15,7 @@ ENCUENTROS:
 - T98 · 21:23 · Sale del pasillo oscuro tras el comentario de Facundo. Habla por primera vez delante de él (voz grave).
 - T91 · 21:08 · Sentada en el techo bajo de la tienda. Ella y Kase se miran fijo sin moverse.
 DIÁLOGOS CLAVE:
+- T120: "Despierta. Llegaron. Y uno de ellos es capitán."
 - T108: "Ni olor. Como si nunca hubiera existido."
 - T107: "Kisuke. Si eso es cierto, cambia todo."
 - T100: "Yoruichi. Y tu gato tiene modales mucho mejores que tú."

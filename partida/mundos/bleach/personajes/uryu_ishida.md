@@ -7,6 +7,7 @@ FÍSICO: flaco, anteojos, pelo negro con flequillo, uniforme impecable; cruz Qui
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, frío, analítico; odia a los Shinigami.
 RELACIÓN CON FACUNDO: rival respetado a regañadientes.
 ENCUENTROS:
+- T120 · 07/07 23:10 · Intercede por Rukia contra Renji. Pierde: herido en el pecho por Zabimaru, en el suelo.
 - T119 · 19:56-19:57 · Absorbe el reiatsu desbordado de Ichigo y lo dispara en una flecha gigante que raja la máscara del Menos. Le quedan las manos quemadas.
 - T118 · 19:55 · Ve el Cero deshacerse contra las líneas de Facundo.
 - T117 · 19:53-19:55 · Dispara ráfagas a la máscara del Menos con poco efecto. Le grita a Ichigo.

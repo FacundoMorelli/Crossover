@@ -1,13 +1,13 @@
 {
-  "turno": 119,
+  "turno": 120,
   "mundo_actual": "bleach",
-  "fecha_local": "3 de julio (año del canon, ~2001)",
-  "hora": "20:02",
+  "fecha_local": "7 de julio (año del canon, ~2001)",
+  "hora": "23:18",
   "edad": 18,
   "nivel": 7,
-  "exp": 15610,
+  "exp": 15810,
   "exp_siguiente_nivel": 17000,
-  "fragmentos": 887,
+  "fragmentos": 890,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 33,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 39,
     "partes_desbloqueadas": [
@@ -443,6 +443,13 @@
       "turno": 116,
       "fragmentos": 112,
       "exp": 2800
+    },
+    {
+      "mundo": "bleach",
+      "quien": "hollows menores y duelos con Ichigo, 04-07/07",
+      "turno": 120,
+      "fragmentos": 3,
+      "exp": 200
     }
   ],
   "viaje": {
@@ -471,7 +478,7 @@
       },
       "bleach": {
         "llegada": "23/06 20:40",
-        "dias_transcurridos": 10
+        "dias_transcurridos": 14
       }
     },
     "puerta_abierta": true,
