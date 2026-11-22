@@ -73,3 +73,4 @@ T71 · Jujutsu · 11:31 · Dice que la culpa es de Kenjaku. Nanami lo respalda.
 T72 · Jujutsu · 11:33 · Pregunta dónde está Gojo. Nanami: Reino de la Prisión, se lo llevó Kenjaku.
 T73 · Jujutsu · 11:34 · Conviene liberar a Gojo. Megumi menciona a Tengen.
 T74 · Jujutsu · 03/11 07:12 · Simula 2 días: escuela, cuarto 2-08. Ijichi trae el decreto: Yaga condenado, ejecución de Yuji, retener a Facundo.
+T75 · Jujutsu · 07:13 · Decide irse con Yuji a buscar a Choso. Ijichi indica el sendero del oeste. Nobara sale.

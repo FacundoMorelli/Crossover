@@ -7,6 +7,7 @@ FÍSICO: pelo castaño anaranjado corto, ojos marrones, martillo y clavos.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, directa, malhablada, valiente.
 RELACIÓN CON FACUNDO: lo trata con confianza brusca; le cae bien aunque no lo admita.
 ENCUENTROS:
+- T75 · 07:13 · Sale al pasillo en pijama al escuchar el escándalo.
 - T51 · 01:32 · Facundo pregunta si tienen dónde quedarse. Ella dice que el dormitorio de la escuela tiene cuartos vacíos, pero hace falta permiso del director Yaga.
 - T50 · 01:30 · Facundo le dice que no es de ninguna escuela y que fuera de saber que está en Shibuya, no sabe nada. Ella lo deja pasar con una ceja levantada y le pregunta dónde va a dormir.
 - T49 · 01:29 · Facundo le dice que el gato es suyo, se llama Kase y viaja con él a todos lados. Ella intenta acariciarlo; Kase la ignora y deja que Yuji lo acaricie. Nobara se ofende.
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T29 · 00:07 · Aparece por el oeste, pelea contra el doble de Mahito, usa Resonancia (daña al original). El original se le acerca por la espalda. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T75: "¿Qué es este escándalo a las siete de la mañana? ...¿Por qué tienen esas caras?"
 - T51: "Hay cuartos vacíos en el dormitorio. Muchos. Pero el director Yaga tiene que decir que sí."
 - T50: "Un hechicero salvaje. Qué original." / "¿Y dónde piensas dormir, genio?"
 - T49: "¡¿Por qué a él sí y a mí no?! ¡Gato traidor!"
