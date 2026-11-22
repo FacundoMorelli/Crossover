@@ -26,3 +26,4 @@
 - Zoro · T365 · Sabe que Facundo quiere que Luffy derrote a Arlong y que "está haciendo tiempo".
 - Zoro → Luffy (T367) · "Un tipo raro. Vuela." Motivo: Luffy pregunta quién es. Fuente válida.
 - Luffy, Sanji, Yosaku · T367 · Ven a Facundo con el aura plateada en el patio destrozado.
+- Luffy, Zoro, Sanji, Nami, Arlong y gyojin · T368 · Oyeron el trato: si Luffy vence a Arlong, Facundo se une a su tripulación.

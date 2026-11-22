@@ -366,3 +366,4 @@ T364 · One Piece · Arlong Park · Boogie Woogie: cambia de lugar con Zoro. Aho
 T365 · One Piece · Arlong Park · Marea Lunar: Arlong contra la torre. Pregunta a Zoro por su capitán. Zoro: Luffy vendrá; pide que lo desate.
 T366 · One Piece · Arlong Park · Corta las cadenas de Zoro con Rift. Zoro vs Arlong.
 T367 · One Piece · Arlong Park · Zoro vs Arlong parejo. Llegan Luffy, Sanji y Yosaku sobre Momoo. Luffy invita a Facundo a su tripulación.
+T368 · One Piece · Arlong Park · "Si lo vences, me uno." Luffy acepta. Luffy vs Arlong.
