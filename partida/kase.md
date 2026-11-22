@@ -23,3 +23,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - Turno 100 · Duerme en el alféizar del cuarto de la tienda de Urahara. Deja que Yoruichi duerma en el pasillo frente a la puerta.
 - Turno 133 · Se queda sobre el pecho de Facundo desmayado, bajo la lluvia, bufándole a Renji cuando mira hacia el techo. Le lame la cara hasta que Urahara llega.
 - Turno 135 · Cruza el Dangai en el hombro de Facundo, con las orejas aplastadas, mientras el Kōtotsu los persigue.
+- Turno 147 · Se le frota en el tobillo a Nanao Ise. Ella se queda helada. Kase parece satisfecho.
