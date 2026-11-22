@@ -1,15 +1,15 @@
-TURNO: 204 | MUNDO: Dragon Ball | Año 774 · día del 25.º Torneo | HORA: 20:04 | Lugar: páramo rocoso (lugar de entrenamiento de Goku), noche
+TURNO: 205 | MUNDO: Dragon Ball | Año 774 · día del 25.º Torneo | HORA: 20:06 | Lugar: páramo rocoso (lugar de entrenamiento de Goku), noche
 MOMENTO DEL CANON: Saga Majin Buu, desviada: Babidi muerto, Buu gordo amigo de Mr. Satán con el trato de los dulces. Goku con permiso hasta medianoche. Dentro de Buu sigue el Buu original.
 FACUNDO: 18 años · Nivel 12 · EXP 41.810/43.000 · 57 Fragmentos · 40 puntos sin asignar · 0 zeni · Energía 50% · Ojos: bien (leve ardor) · STATS ~204 · Cenit maestría 40 (x4, 15 min) · Eclipse 47
 PARA ESTE MUNDO: salió en TV con Buu. Velo: mostró su ki base real a Goku y Vegeta. Ropa negra propia (sacó la del Seireitei).
 QUIÉN SABE QUÉ: Goku y Vegeta vieron casi todo en la pelea (T193). Gohan, Shin y Kibito lo vieron entrenar (Cenit, Eclipse, Kamehameha). Nadie sabe que viene de otro lado.
 MISIÓN DE MUNDO: Que Vegeta siga vivo cuando Majin Buu desaparezca para siempre. (activa) — completarla da VIAJE LIBRE (3/3).
 ÚLTIMOS 5 TURNOS:
+- T205: deja que Goten toque a Kase, despacio. Kase lo huele, se deja acariciar una vez entre las orejas y vuelve a ignorarlo. Goten feliz; pregunta cómo se llama. Goku sonríe.
 - T204: le cuenta a Goku lo de Vegeta y Buu. Goku se ríe de Vegeta, pero se pone serio con lo del enojo de Buu. Teme que Vegeta vuelva por revancha cuando él ya no esté. Goten se acerca a Kase y le pregunta a Facundo si puede tocarlo.
 - T203: simula hasta 20:00. Vegeta se va volando hacia el oeste (19:02). Buu come y se duerme sobre la roca de chocolate (19:20). Shin y Kibito llegan 19:05, vieron la pelea de lejos; Shin agradece y se preocupa por lo cerca que estuvo. 20:00: Goku vuelve con Goten (y Gohan). Goten ve a Buu dormido y se esconde detrás de su padre. Goku pregunta qué pasó con Vegeta.
 - T202: le dice a Buu que no es malo y le da dos bolsas más (4 F). Buu se calma, lo abraza, perdona; le pide a Vegeta que "juegue bonito". Vegeta se da vuelta para irse, rengo.
 - T201: Boogie Woogie: cambia a Vegeta por una roca; el rayo de Buu convierte la roca en chocolate. Le dice a Buu que eso tampoco tiene que hacerlo. Buu, enojado y confundido, se queja de que Vegeta lo rompió. Vegeta, junto a Facundo, furioso por haber sido salvado.
-- T200: mira la pelea. Vegeta SSJ y luego SSJ2 contra Buu; Buu juega, recibe todo y se regenera. Vegeta, humillado, lanza un Final Flash que le vuela la mitad del cuerpo; Buu se regenera ENOJADO (vapor) y apunta la antena a Vegeta, agotado y en base: "¡Buu te convierte en chocolate!".
 - T192: Forma Cenit (x3) y ataca a Goku: Goku, en base, bloquea y sale arrastrado 30 m; se ríe y se transforma en Super Saiyajin. Vegeta de pie, sorprendido.
 - T191: vuelan al páramo de Goku. Goku le pide que le muestre todo lo que tiene. Vegeta mira desde una roca.
 PRESENTES EN ESCENA: Goku, Gohan, Goten (7), Shin, Kibito, Majin Buu (dormido sobre la roca de chocolate). Kase. Vegeta se fue al oeste.
@@ -18,7 +18,7 @@ COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). F�
 DONES: Manecilla Inversa (Jujutsu). Sakaime (Bleach, maestría 50). Forma Cenit (Dragon Ball, maestría 30).
 MISIONES DE COPIA ACTIVAS: Urahara (Bleach). Naoya, Yuta (Jujutsu).
 INVENTARIO CLAVE: Hōgyoku. Semilla del ermitaño (1). Rift, Echo. Clavos y muñeco de Nobara. Medicina de ojos de Ukitake.
-KASE: en el hombro, mirando a Buu.
+KASE: en el hombro; se dejó tocar por Goten.
 OTROS MUNDOS: Jujutsu (completado, se fue 05/11/2018). Bleach (completado, se fue 26/08; prometió volver). Completados: 2/3.
 HILOS ABIERTOS: Idea: separar al Buu malo del bueno (Facundo tiene la Transfiguración Ociosa de Mahito, que manipula almas) y destruirlo al instante. Riesgo: si lastiman a Mr. Satán o a un ser querido de Buu, puede salir el Buu malo. Trato con Buu: no mata a cambio de dulces diarios; hay que presentarle 'al de los dulces'. 40 puntos sin asignar. Aizen quiere el Hōgyoku (Bleach). Naoya lo odia (Jujutsu).
-OBJETIVO: Goku teme que Vegeta busque revancha con Buu. Goten quiere tocar a Kase.
+OBJETIVO: Goten pregunta cómo se llama el gato. Goku teme la revancha de Vegeta.
