@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Ichigo, Rukia, Renji, Uryū, Chad, Orihime, Urahara, Yoruichi, Tessai, equipo de avanzada · T173 · Facundo les dijo que se va un tiempo, que no se preocupen por él ni por lo que tiene, que no se muera nadie y que seguro vuelve en unas semanas.
 - Aizen · T159 · Facundo sabe que tocar la hoja anula Kyōka Suigetsu. Se sorprende una vez; no investiga cómo lo sabe. Gin y Tōsen lo escucharon.
 - Shunsui Kyōraku · T142 · leyó el informe de Byakuya en la reunión de capitanes; al ver un gato gigante en el hombro de un 'Shinigami' con gorra, deduce que es el humano del informe.
 - Ichigo · T139 · Facundo le susurró 'nos vemos adentro' antes de desaparecer. Nadie lo vio entrar.

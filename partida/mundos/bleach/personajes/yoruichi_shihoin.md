@@ -7,6 +7,7 @@ FÍSICO: gato negro de ojos dorados.
 PERSONALIDAD Y FORMA DE HABLAR: habla con voz grave masculina como gato; burlona, segura.
 RELACIÓN CON FACUNDO: curiosidad divertida; lo vigila.
 ENCUENTROS:
+- T173 · 26/08 · Le pide que vuelva.
 - T167 · 16:22 · Desde el hombro de Chad, desmiente a Facundo.
 - T162 · 10:42 · Aparece detrás de Aizen con Soi Fon (canon: lo inmovilizan).
 - T156 · 09:43 · Aparece en la colina e intercepta a Soi Fon (canon: Yoruichi vs Soi Fon).
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T98 · 21:23 · Sale del pasillo oscuro tras el comentario de Facundo. Habla por primera vez delante de él (voz grave).
 - T91 · 21:08 · Sentada en el techo bajo de la tienda. Ella y Kase se miran fijo sin moverse.
 DIÁLOGOS CLAVE:
+- T173: "Vuelve, Bicolor. Todavía no te gané una carrera en serio."
 - T167: "Yo estaba ahí, Bicolor. Te vi. 'Viejito.' Nunca me reí tanto en un siglo."
 - T162: "Hola, Aizen. ¿Te molesta si te sujeto?"
 - T134: "No te quedes atrás, Bicolor."

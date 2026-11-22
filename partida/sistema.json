@@ -1,8 +1,8 @@
 {
-  "turno": 172,
+  "turno": 173,
   "mundo_actual": "bleach",
-  "fecha_local": "25 de agosto (año del canon, ~2001)",
-  "hora": "17:42",
+  "fecha_local": "26 de agosto (año del canon, ~2001)",
+  "hora": "21:15",
   "edad": 18,
   "nivel": 11,
   "exp": 30610,
@@ -710,6 +710,7 @@
     "tiempo_sociedad_de_almas": "Para la partida, el tiempo corre igual que en Karakura; la fecha local se lleva como '19 de julio' (mundo humano). Ejecución de Rukia: plazo de ~14 días desde la llegada, que la Central 46 (Aizen) adelantará.",
     "infiltracion": "Facundo entró al Seireitei por la Puerta Blanca Oeste el 19/07 sin que nadie lo viera. Gin cree que se quedó afuera con el grupo; lo nota al rato y no lo reporta enseguida (le divierte). Ichigo y el resto entran por el cañón de Kūkaku en ~2 días (canon).",
     "aizen": "Aizen se fue a Hueco Mundo sin el Hōgyoku (29/07). No puede crear Arrancar perfectos ni Espada fuertes sin él (solo los imperfectos con su investigación previa). Va a buscar a Facundo y a Urahara. Gin sigue con él (su plan secreto contra Aizen intacto). Sin Hōgyoku, Aizen crea Arrancar imperfectos con su investigación: más débiles que en el canon y sin Resurrección estable. Manda a Ulquiorra y Yammy a Karakura para encontrar a 'el humano de dos colores' y el Hōgyoku.",
-    "rukia_mision": "Rukia se quedó en la Sociedad de Almas para recuperarse del todo y reconciliarse con Byakuya. Volverá a Karakura con poderes completos con el grupo de avanzada de Hitsugaya (canon arco 4, ~agosto/septiembre) o antes si algo la llama. Entonces se cumple la misión."
+    "rukia_mision": "Rukia se quedó en la Sociedad de Almas para recuperarse del todo y reconciliarse con Byakuya. Volverá a Karakura con poderes completos con el grupo de avanzada de Hitsugaya (canon arco 4, ~agosto/septiembre) o antes si algo la llama. Entonces se cumple la misión.",
+    "bleach_al_salir": "Si Facundo se va: Grimmjow ataca Karakura con su Fracción (canon, ~fin de agosto); el equipo de avanzada pelea; Rukia herida por Grimmjow (canon). Aizen, sin Hōgyoku, busca otro camino: investiga la Llave del Rey con 100.000 almas y fuerza un Hōgyoku artificial imperfecto; el ataque grande a Karakura se retrasa meses. Urahara vigila. Todos recuerdan a Facundo."
   }
 }

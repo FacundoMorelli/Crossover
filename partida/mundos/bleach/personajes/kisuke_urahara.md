@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T173 · 26/08 · Facundo dice que no se preocupen por él ni por lo que tiene. Urahara asiente con el abanico cerrado.
 - T168 · 05/08 16:23 · Facundo le confirma que el Hōgyoku sigue a salvo.
 - T167 · 16:22 · Facundo niega haber sido él ('otra persona con mi cara'). Urahara se ríe. Después, aparte, le pregunta en voz baja si lo que guardó sigue a salvo, y le cuenta que Aizen se fue sin él: 'eso cambia todo'.
 - T166 · 05/08 16:20 · Recibe al grupo en el sótano de la tienda.
@@ -35,6 +36,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T173: "No me preocupo por lo que tiene, Facundo-san. Me preocupo por usted. ...Un poquito."
 - T167: "Qué lástima. Quería felicitar a esa persona." / (bajo) "¿Sigue donde lo dejó? ...Aizen se fue sin él. Eso cambia todo, Facundo-san. Y lo pone a usted en una lista muy corta."
 - T166: "¡Bienvenidos, bienvenidos! ...Facundo-san. Dicen que le dijo 'viejito' al Capitán Comandante. Cuénteme todo."
 - T134: "Facundo-san. La puerta está abierta. La decisión es suya."
