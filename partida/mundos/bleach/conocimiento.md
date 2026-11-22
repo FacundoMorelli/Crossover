@@ -32,11 +32,13 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nadie)
 
 ## INFORMACIÓN QUE CIRCULÓ
+- Kyōraku → Ukitake (19/07, en secreto): el humano del informe está en el 8.º, vino por Rukia.
 - Byakuya y Renji → Sociedad de Almas (Central 46, 6.º Escuadrón; desde 08/07): un humano llamado Facundo, sin reiatsu perceptible, con zanpakutō propia (líneas-frontera), luz cegadora del ojo, gravedad, cambio de lugar, mucha velocidad, una fuerza de peso imposible. Le cortó la bufanda al capitán Kuchiki. (Llegará a Aizen.)
 - Urahara → Rukia (T111): el Hōgyoku, el gigai, el plan; que Facundo tiene un lugar donde nada se encuentra y se ofreció a guardarlo.
 - 24/06 · Medios: video del 'espadachín misterioso' repetido; Kanonji habla de 'un enviado del más allá'. Rumor en el Instituto Karakura (Keigo: 'es un ninja').
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Plan de Ukitake: una reliquia de la casa Shihōin para detener el Sōkyoku; necesita días: Ukitake se lo dijo (T149).
 - Ukitake (capitán del 13.º) piensa que la ejecución es injusta y busca algo para detener el Sōkyoku: Kyōraku se lo dijo (T146).
 - Ejecución de Rukia en el Sōkyoku en veinte días; la pena parece desproporcionada: Kyōraku se lo dijo (T145).
 - Hōgyoku dentro de Rukia; el gigai la vuelve humana para esconderlo: Urahara lo confirmó (T98).

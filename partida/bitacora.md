@@ -147,3 +147,4 @@ T145 · Bleach · 13:30 · Té con Kyōraku. Le parece rara la ejecución; pregu
 T146 · Bleach · 13:34 · Confiesa que vino por Rukia. Kyōraku lo llevará con Ukitake esta noche.
 T147 · Bleach · 13:36 · No deja a Kase. Kyōraku lo entiende. Nanao le da un cuarto.
 T148 · Bleach · 23:10 · Descansa. Kyōraku lo busca para ir con Ukitake.
+T149 · Bleach · 23:35 · Con Kyōraku en el Ugendō. Ukitake: reliquia Shihōin para detener el Sōkyoku; necesita días.
