@@ -38,3 +38,4 @@ T36 · Jujutsu · 00:24 · Observa: Kenjaku absorbe a Mahito, mira a Facundo. Ch
 T37 · Jujutsu · 00:24 · Marea Lunar frena el hielo de Uraume antes de la losa. Ojo azul ciego. Atrapado hasta las rodillas.
 T38 · Jujutsu · 00:25 · Rompe el hielo con Proporción. Kenjaku reconoce la técnica. Uraume le lanza estacas.
 T39 · Jujutsu · 00:26 · Esquiva y corta las estacas de Uraume. Llega Yuki Tsukumo. Misión de copia: Yuki.
+T40 · Jujutsu · 00:41 · Observa detrás de Yuki. Kenjaku libera maldiciones y escapa con Uraume. Yuki le pregunta quién es.

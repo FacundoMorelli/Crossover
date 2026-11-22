@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Yuki Tsukumo · T40 · lo vio quedarse detrás de ella; vio a Kenjaku hablarle ('el del fogonazo'). Deduce que se cruzó con él en la pelea.
 - Yuki Tsukumo · T39 · lo vio de pasada al aterrizar: joven ensangrentado, un ojo congelado, espada roja. Nada más.
 - Falso Geto (Kenjaku) · T36 · lo vio en persona, a distancia, durante la pelea: fogonazos del ojo, escarcha. Lo llamó 'el del fogonazo'. No sabe su nombre.
 - Aoi Todo · T34 · lo vio por primera vez: el que cortó el dominio de Mahito con un fogonazo del ojo. No sabe su nombre.

@@ -38,6 +38,7 @@
 
 ## LO QUE CAMBIÓ
 - 23:49-23:55 · Facundo retiene a Mahito en el hall sur de la estación. Nanami sube solo hacia Yuji y Megumi sin Mahito detrás. (En el canon, Mahito lo mataba frente a Yuji ≈00:12.)
+- 00:26-00:40 · Yuki llega. Kenjaku usa la Transfiguración Ociosa a distancia sobre los marcados, libera miles de maldiciones en Tokio y escapa con Uraume y el Reino de la Prisión (canon). Se le escapa a todos.
 - 00:24 · Facundo frena la ola de hielo de Uraume antes de la losa (Nanami y Megumi a salvo del hielo). Facundo queda atrapado hasta las rodillas.
 - 00:16-00:24 · Kenjaku absorbe a Mahito. Habla. Choso lo ataca ("Noritoshi Kamo"). Llegan alumnos de Kioto. Uraume congela el campo (canon).
 - 00:12 · Facundo rompe la expansión de dominio de Mahito con un Destello Solar.

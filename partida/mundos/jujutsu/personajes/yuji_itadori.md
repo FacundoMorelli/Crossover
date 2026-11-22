@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T40 · 00:40 · Sale del muro de hielo con Choso. Ve cómo se va el falso Geto.
 - T36 · 00:16-00:24 · Ve a Kenjaku absorber a Mahito. Choso llega a su lado.
 - T35 · 00:12-00:16 · Remata a Mahito a golpes; Mahito queda reducido, se arrastra huyendo. Yuji lo persigue caminando. Aparece el falso Geto delante de Mahito.
 - T34 · 00:12 · Reconoce el fogonazo y se cubre a tiempo. Ve a Mahito con el dominio roto.
