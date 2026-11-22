@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: Técnica de Proporción (corte en el punto 7:3 con su m
 EDAD EN ESTE MOMENTO DEL CANON: 28
 FÍSICO: alto, rubio peinado hacia atrás, lentes con marco particular, traje beige y corbata de leopardo. Ahora: quemado en la mitad izquierda del cuerpo por Jogo, sin el ojo izquierdo útil.
 PERSONALIDAD Y FORMA DE HABLAR: formal, seco, ético, detesta las horas extra. Trata de "usted". "Esto es horas extra."
-RELACIÓN CON FACUNDO: confianza incipiente; lo trata como a un joven al que no quiere ver morir.
+RELACIÓN CON FACUNDO: le confía la situación; respeto profesional. Le debe la vida.
 ENCUENTROS:
+- T24 · 23:59 · Facundo le informa que Mahito está congelado en la estación y saldrá pronto. Nanami le dice "buen trabajo". Advierte que Mahito vendrá por Itadori.
 - T23 · 23:57-23:58 · Facundo llega corriendo, lo marca (Marca IV) y, con Yuji, lo estabiliza: torniquete con la manga del sobretodo en el brazo izquierdo, vía aérea libre, piernas en alto. Nanami despierta. Pregunta por Fushiguro y por Mahito.
 - T22 · 23:56 · Facundo lo ve desde el borde de la estación: llegó a la losa de Megumi y se desplomó; Yuji grita su nombre.
 - T16 · 23:49 · Facundo le pide que vaya con Yuji y se planta entre Mahito y la escalera. Nanami le avisa que solo Itadori puede dañar el alma de Mahito, le ordena sobrevivir y sube la escalera rota hacia el norte.
@@ -16,6 +17,7 @@ ENCUENTROS:
 - T10 · 23:45 · Facundo salta y corta al transfigurado de tres brazos que le caía por el lado ciego. Nanami le pregunta quién es.
 - T9 · 23:44 · entrada sur de la estación de Shibuya, en ruinas · Facundo lo ve pelear contra transfigurados. Nanami todavía no lo vio.
 DIÁLOGOS CLAVE:
+- T24: "Congeló a un espíritu maldito de grado especial y me compró media hora. ...Buen trabajo, Facundo-kun."
 - T23: "Itadori-kun... no grite. Todavía no estoy muerto." / "Facundo-kun. ¿Y Mahito?"
 - T16: "Sus cortes no llegan a su alma. Solo Itadori-kun puede hacer eso." / "Facundo-kun. Lo que haga a partir de ahora, hágalo para sobrevivir. No es un consejo."
 - T12: "Bien. Eso es... bien." / "Itadori-kun no debería estar solo ahora mismo."

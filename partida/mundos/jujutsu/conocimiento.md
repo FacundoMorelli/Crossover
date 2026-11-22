@@ -13,6 +13,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Nanami y Yuji · T24 · saben por boca de Facundo que dejó a Mahito congelado en la estación.
 - Yuji Itadori · T23 · vio a Facundo marcar a Nanami con un IV brillante. Ya sabe que esos números son una técnica de Facundo; no sabe qué hacen.
 - Mahito · T21 · vivió la activación de la Marca II: el número se apagó y volvió a quedar congelado exactamente como antes, sin que Facundo lo tocara. Deduce que el número 'guarda' algo.
 - Mahito · T20 · sintió desde adentro del hielo que Facundo lo tocó y le dejó una marca (número II, brillante, visible con energía maldita). No sabe qué hace.

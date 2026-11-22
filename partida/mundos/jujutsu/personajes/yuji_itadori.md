@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T24 · 23:59 · Escucha que Mahito está en la estación. Se pone de pie con rabia (Junpei).
 - T23 · 23:57 · Facundo llega, marca a Nanami y lo ayuda a estabilizarlo. Nanami despierta. Yuji llora de alivio.
 - T22 · 23:56 · Nanami llega a la losa y cae; Yuji lo sostiene y grita su nombre. Facundo lo ve desde ~200 m.
 - T9 · 23:37 · Facundo le pide que se quede con Megumi. Yuji acepta; le pide que si encuentra a Nanamin, le diga que Fushiguro está vivo. Se queda en la losa.
@@ -15,6 +16,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T24: "Mahito... ¿Está acá?"
 - T23: "¡Tú! ¡El del gato! ¡Ayúdame, no respira bien!"
 - T8: "¿Nanamin? ¿Conoces a Nanamin? ...No importa."
 - T7: "Esto es Shibuya... Fue mi culpa. Todo esto." / "¡Fushiguro!"

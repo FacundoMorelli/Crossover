@@ -22,3 +22,4 @@ T20 · Jujutsu · 23:55 · Marca II sobre Mahito congelado. Descansa 4 min. Mahi
 T21 · Jujutsu · 23:55 · Activa la Marca II: Mahito vuelve a quedar congelado al instante. Marca consumida.
 T22 · Jujutsu · 23:56 · Marca III sobre Mahito congelado. Sube al borde. Ve a Nanami desplomado junto a Yuji y Megumi; Yuji grita.
 T23 · Jujutsu · 23:58 · Marca IV sobre Nanami. Con Yuji lo estabiliza; Nanami despierta.
+T24 · Jujutsu · 23:59 · Informa a Nanami de Mahito. Nanami: 'buen trabajo'. COPIA: Proporción y Horas Extra (+300 EXP). Yuji se levanta con rabia.

@@ -1,11 +1,11 @@
 {
-  "turno": 23,
+  "turno": 24,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:58",
+  "hora": "23:59",
   "edad": 18,
   "nivel": 1,
-  "exp": 400,
+  "exp": 700,
   "exp_siguiente_nivel": 1000,
   "fragmentos": 3,
   "plata_local": {
@@ -97,15 +97,23 @@
     }
   ],
   "inventario_dimensional": [],
-  "copias": [],
-  "misiones_de_copia_activas": [
+  "copias": [
     {
-      "poder": "Técnica de Proporción (Ratio 7:3) y Horas Extra — Kento Nanami",
+      "poder": "Técnica de Proporción (Ratio 7:3) y Horas Extra",
+      "de": "Kento Nanami",
       "mundo": "jujutsu",
-      "mision": "Que Kento Nanami te diga, con sus palabras, que hiciste un buen trabajo.",
-      "dificultad": "MEDIA",
-      "emitida": "T9"
-    },
+      "cuando": "T24, 31/10/2018 23:59",
+      "incluye": [
+        "Proporción: divide cualquier objetivo en una línea imaginaria de 10 partes; golpear el punto 7:3 causa un golpe crítico garantizado",
+        "Puede ajustar el punto sobre cualquier eje del objetivo (largo, ancho, extremidades)",
+        "Colapso: aplicado a estructuras, derrumba paredes y edificios en el punto débil",
+        "Horas Extra: sin el voto de horario de Nanami ni su costo; Facundo puede elegir activar un refuerzo equivalente cuando quiera (condición propia opcional)",
+        "Dominio total e inmediato"
+      ],
+      "maestria": "dominio total"
+    }
+  ],
+  "misiones_de_copia_activas": [
     {
       "poder": "Transfiguración Ociosa — Mahito",
       "mundo": "jujutsu",
