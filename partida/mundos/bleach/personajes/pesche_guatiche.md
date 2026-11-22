@@ -6,3 +6,5 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T298: "¡Nos estábamoz divirtiendo! ¡Era la mancha eterna!"
 ESTADO: golpeado.
+- T299 · Ofrece guiarlos a Las Noches, dramático.
+- DIÁLOGO T299: "¡¿Laz Nochez?! ...¡Bien! ¡Nozotroz conocemoz el dezierto como la palma de nueztra mano!"

@@ -297,3 +297,4 @@ T295 · Bleach · 19/09 21:30 · VIAJE LIBRE: vuelve a Bleach, 24 días después
 T296 · Bleach · 21:38 · Sótano de Urahara: Garganta abierta. Orihime en Hueco Mundo. '¿Vienes o no?'
 T297 · Bleach · Hueco Mundo · Cruza la Garganta con Ichigo, Uryū y Chad. Desierto, Las Noches. Una nena hollow perseguida.
 T298 · Bleach · Hueco Mundo · Atrapa a Nel. Era un juego con Pesche y Dondochakka.
+T299 · Bleach · Hueco Mundo · Nel acaricia a Kase. Pesche ofrece guiarlos a Las Noches.

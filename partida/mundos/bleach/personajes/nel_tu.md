@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 NOTA: Tasación = sin datos sobre su forma verdadera (misterio del canon).
 ESTADO: bien.
+- T299 · Acaricia a Kase y lo abraza del cuello. Se agarra de la pierna de Facundo: va con el gatito.
+- DIÁLOGO T299: "¡Ez suavecito! ¡Nel va con el gatito!"

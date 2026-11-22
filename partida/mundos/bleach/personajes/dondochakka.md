@@ -6,3 +6,5 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T298: "¡Qué crueldad, dosu!"
 ESTADO: golpeado.
+- T299 · Se suma a guiarlos.
+- DIÁLOGO T299: "¡Vamos todos, dosu!"

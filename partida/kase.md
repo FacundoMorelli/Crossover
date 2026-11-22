@@ -44,3 +44,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T279 (Jujutsu) · Apoya la cabeza en la mejilla de Yuji mientras llora.
 - T285 (Jujutsu) · Se acuesta contra el pie de Megumi y deja que le ponga la mano en el lomo.
 - T294 (Jujutsu) · Deja que Panda le toque una oreja en la despedida.
+- T299 (Bleach) · Nel lo acaricia y lo abraza del cuello. Lo tolera con resignación.
