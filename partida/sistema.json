@@ -1,8 +1,8 @@
 {
-  "turno": 82,
+  "turno": 83,
   "mundo_actual": "jujutsu",
   "fecha_local": "05/11/2018",
-  "hora": "22:43",
+  "hora": "22:47",
   "edad": 18,
   "nivel": 6,
   "exp": 10900,
@@ -26,7 +26,7 @@
     "energia": 46,
     "control": 45
   },
-  "energia_actual_pct": 56,
+  "energia_actual_pct": 58,
   "eclipse": {
     "maestria": 38,
     "partes_desbloqueadas": [
@@ -189,6 +189,13 @@
       "mision": "Que Naoya Zen'in reconozca, con sus palabras, que eres más rápido que él.",
       "dificultad": "ALTA",
       "emitida": "T79"
+    },
+    {
+      "poder": "Poder de Yuta Okkotsu (Rika, copia de técnicas, energía inmensa, Técnica Maldita Inversa)",
+      "mundo": "jujutsu",
+      "mision": "Pelear en serio contra Yuta Okkotsu hasta que tenga que llamar a Rika completa.",
+      "dificultad": "MUY ALTA",
+      "emitida": "T83"
     }
   ],
   "misiones_de_copia_rechazadas": [],

@@ -47,6 +47,7 @@
 - 23:57-23:58 · Nanami se desploma en la losa; Facundo y Yuji lo estabilizan. Despierta. Vivo.
 
 ## LO QUE PASÓ
+- 05/11 22:44-22:47 · Yuta vence a Choso, 'ejecuta' a Yuji y lo cura (canon). Naoya inconsciente en hielo (cambio: lo venció Facundo). Facundo presente.
 - 05/11 22:40 · Naoya encuentra a Yuji, Choso y Facundo en Shinjuku (canon: Naoya vs Choso; Yuta aparece después).
 - 03-05/11 · Yuji, Choso y Facundo prófugos en Tokio, exorcizando maldiciones.
 - 03/11 · Decreto de los altos mandos (canon + orden sobre Facundo).

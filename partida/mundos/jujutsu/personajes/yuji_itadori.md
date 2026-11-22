@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: compañero; confianza y gratitud. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T83 · 22:45 · Yuta le atraviesa el corazón; muere por segundos; Yuta lo cura. Despierta jadeando.
 - T80 · 22:41 · Ve a Facundo usar el Boogie Woogie y su propio Puño Divergente. Queda desconcertado.
 - T78 · 03/11-05/11 · En Tokio con Facundo y Choso: exorcizan maldiciones, salvan civiles, duermen en edificios vacíos. Yuji casi no habla. 05/11 22:40 aparece Naoya.
 - T77 · 07:15-07:50 · Sale con Facundo por el sendero del oeste. Llegan a la ruta vieja; Choso los espera.
@@ -46,6 +47,7 @@ ENCUENTROS:
 - T6 · 23:34 · Facundo se acerca despacio y lo saluda. Yuji se sobresalta, se pone de pie; le pregunta si está herido y si vio lo que pasó.
 - T5 · 31/10/2018 23:33 · zona arrasada de Shibuya · Facundo lo ve de rodillas, a ~40 m, mientras se le borran las marcas de Sukuna. Yuji no lo ve. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T83: "...¿Estoy vivo?"
 - T80: "¿Eso fue... mi golpe?"
 - T76: "Kugisaki, no. Alguien tiene que quedarse con Fushiguro y Nanamin."
 - T75: "...Si me quedo, van a pelear acá. Con Fushiguro y Nanamin en la enfermería." / "Está bien. Vamos."
