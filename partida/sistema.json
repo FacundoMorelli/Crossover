@@ -1,13 +1,13 @@
 {
-  "turno": 10,
+  "turno": 11,
   "mundo_actual": "jujutsu",
   "fecha_local": "31/10/2018 (Halloween)",
-  "hora": "23:45",
+  "hora": "23:46",
   "edad": 18,
   "nivel": 1,
-  "exp": 160,
+  "exp": 310,
   "exp_siguiente_nivel": 1000,
-  "fragmentos": 25,
+  "fragmentos": 30,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -26,7 +26,7 @@
     "energia": 32,
     "control": 31
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 95,
   "eclipse": {
     "maestria": 30,
     "partes_desbloqueadas": [
@@ -148,6 +148,41 @@
       "turno": 10,
       "fragmentos": 1,
       "exp": 40
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (hall sur)",
+      "turno": 11,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (hall sur)",
+      "turno": 11,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (hall sur)",
+      "turno": 11,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (hall sur)",
+      "turno": 11,
+      "fragmentos": 1,
+      "exp": 30
+    },
+    {
+      "mundo": "jujutsu",
+      "quien": "humano transfigurado (hall sur)",
+      "turno": 11,
+      "fragmentos": 1,
+      "exp": 30
     }
   ],
   "viaje": {
