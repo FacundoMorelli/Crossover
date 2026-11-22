@@ -45,3 +45,5 @@ ESTADO: despierto, vendado, débil pero lúcido. Vivo.
 ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). Facundo no lo sabe aún.
 - T289 · 18/01 · Facundo lo visita en la enfermería. Sin brazo izquierdo, sereno. Le agradece el amanecer de Shibuya; dice que el brazo fue un trato justo.
 - DIÁLOGO T289: "Vi el amanecer, Facundo-kun. Y muchos más después. Un brazo es un precio razonable." / "Trabajo con la derecha. Siempre fui diestro. Eso es lo que más me molesta: que nada me molesta tanto como debería."
+- T294 · 28/01 · Cena con Facundo y los tres; come con una mano, se ríe una vez de Yuji. 01/02: despedida.
+- DIÁLOGO T294: "Cuídese, Facundo-kun. Y descanse de vez en cuando. Es una orden de un adulto."

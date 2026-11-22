@@ -22,3 +22,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: atendiendo heridos en el puesto de mando.
 - T289 · 18/01 · Facundo la ve en la enfermería. Fuma en la ventana.
 - DIÁLOGO T289: "Tus ojos están mejor que la última vez. Raro."
+- T294 · 01/02 · Despedida, fumando.

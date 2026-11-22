@@ -51,3 +51,5 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T292 · Ve el Eclipse.
 - DIÁLOGO T292: "¿Y ESO qué fue?"
 - T293 · "¿Y los ojos? ¿Ya no te sangran?"
+- T294 · 01/02 · Despedida. Le pega en el brazo y lo abraza otra vez.
+- DIÁLOGO T294: "¡Y esta vez manda una postal, idiota!"

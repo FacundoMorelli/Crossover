@@ -48,3 +48,5 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T292 · 16:54 · Ve desaparecer el último dedo de Sukuna en el Eclipse. Suelta el aire; se le aflojan los hombros.
 - DIÁLOGO T292: "...Ya no está. Lo siento. No está en ningún lado."
 - T293 · "...Gracias." (por el dedo)
+- T294 · 25/01-01/02 · Entrena, sale, come. En la despedida le pide que vuelva.
+- DIÁLOGO T294: "Vuelve." (Solo eso. Lo mira a los ojos al decirlo.)

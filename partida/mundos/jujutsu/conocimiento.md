@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Todos los de la escuela · T294 · Facundo se va otra vez, sin fecha de vuelta.
 - Yuji, Megumi, Nobara · T293 · la técnica del punto negro se llama Eclipse y usa los dos ojos; la aprendió hace poco (Facundo se lo dijo).
 - Yuji, Ijichi · T280 · Facundo volvió y se queda un tiempo.
 - Yuji · T278 · Facundo volvió el 17/01/2019; dijo que cree que llegó tarde.

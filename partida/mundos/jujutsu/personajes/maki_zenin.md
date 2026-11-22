@@ -17,3 +17,4 @@ QUÉ SABE DE FACUNDO: su nombre (T62); Yuji le contó que salvó a Nanami y a Me
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: quemaduras graves en tratamiento, consciente, no puede pelear.
 - T289 · 19/01 · Lo ve en el campo de entrenamiento. Más fuerte, más fría (Restricción Celestial completa). Lo saluda con un gesto.
+- T294 · 01/02 · Despedida: un gesto con la cabeza.

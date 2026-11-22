@@ -20,3 +20,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su tipo de mujer (T43); su aspecto, que cortó el dominio de Mahito con un fogonazo del ojo (T34), su nombre y su respuesta a Yuki (escuchó, T42).
 QUÉ PODERES DE FACUNDO VIO: Destello Solar (T34).
 ESTADO: sin mano izquierda, de pie al lado de Yuji.
+- T294 · 30/01 · Aparece en la escuela gritando "¡BROTHER!" y lo obliga a pelear (Facundo se contiene). Llora en la despedida.
+- DIÁLOGO T294: "¡BROTHER! ¡Mi alma lo sabía! ¡Volviste!" / "¡Un hermano nunca se despide! ¡Solo se va de viaje!"

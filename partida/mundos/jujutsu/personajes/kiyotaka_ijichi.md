@@ -22,3 +22,4 @@ ESTADO: en el dormitorio, alterado.
 - T289 · 23/01 19:30 · Entra al comedor: el último dedo de Sukuna apareció en Sendai, en la antigua escuela de Yuji. Misión para Yuji, Megumi y Nobara.
 - DIÁLOGO T289: "Encontraron... el último dedo. En Sendai. En el almacén de su antigua secundaria, Itadori-kun."
 - T290 · Acepta que Facundo vaya. Los lleva a Sendai; espera en el auto.
+- T294 · 01/02 · Despedida. Le da una tarjeta con su número "por si acaso".

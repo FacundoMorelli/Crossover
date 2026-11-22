@@ -72,3 +72,6 @@
 - 18-23/01/2019 · (T289) Ramen los cuatro. Facundo visita a Nanami. Entrenan cada mañana. Megumi mejora.
 - 23/01/2019 · Aparece el último dedo de Sukuna en la antigua secundaria de Yuji en Sendai (canon: epílogo). Misión para Yuji, Megumi y Nobara.
 - 24/01/2019 16:54 · (T292) Facundo se traga el último dedo de Sukuna con el Eclipse.
+- 24/01 · (T294) Tumba de Wasuke Itadori en Sendai.
+- 25/01-01/02 · (T294) Entrenamientos, misión chica, cena con Nanami, Todo.
+- 01/02/2019 · (T294) Despedida en el portón de la escuela.

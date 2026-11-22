@@ -97,3 +97,5 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T292 · Deja el dedo en la caja; ve cómo desaparece. Se ríe, incrédulo.
 - T293 · Propone visitar la tumba de su abuelo Wasuke en Sendai antes de volver.
 - DIÁLOGO T293: "¡Genial!" / "Oigan... mi abuelo está enterrado aquí cerca. Hace mucho que no voy. ¿Me acompañan?"
+- T294 · 24/01 · Tumba de su abuelo Wasuke en Sendai con Facundo, Megumi y Nobara. Deja una lata de café. Cuenta lo último que le dijo su abuelo: "ayuda a la gente". 01/02: despedida en el portón.
+- DIÁLOGO T294: "Vuelve, ¿eh? Y avisa esta vez. Bueno, si puedes."

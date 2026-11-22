@@ -1,8 +1,8 @@
 {
-  "turno": 293,
+  "turno": 294,
   "mundo_actual": "jujutsu",
-  "fecha_local": "24/01/2019",
-  "hora": "17:05",
+  "fecha_local": "01/02/2019",
+  "hora": "18:00",
   "edad": 18,
   "nivel": 22,
   "exp": 144810,
@@ -242,6 +242,10 @@
     {
       "objeto": "Bolsa de caramelos de Buu",
       "origen": "dragonball, T275"
+    },
+    {
+      "objeto": "Tarjeta con el número de Ijichi",
+      "origen": "jujutsu, T294"
     }
   ],
   "copias": [
@@ -726,7 +730,8 @@
         "salida": "05/11/2018 22:55",
         "dias_transcurridos_al_salir": 5,
         "corre_desde": "T86 al ritmo de Facundo",
-        "regreso": "17/01/2019 20:10 (T276): 73 días después de irse (64 en Bleach + 9 en Dragon Ball)"
+        "regreso": "17/01/2019 20:10 (T276): 73 días después de irse (64 en Bleach + 9 en Dragon Ball)",
+        "segunda_salida": "01/02/2019 ~18:00 (T294, pendiente de cruzar); estadía de 15 días"
       },
       "bleach": {
         "llegada": "23/06",

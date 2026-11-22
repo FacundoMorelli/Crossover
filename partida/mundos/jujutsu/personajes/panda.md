@@ -5,3 +5,4 @@ PERSONALIDAD: bromista, leal.
 ENCUENTROS:
 - T289 · 19/01 · Conoce a Facundo; se ofende un poco porque Kase lo ignora.
 ESTADO: vivo.
+- T294 · 01/02 · Despedida; Kase por fin lo deja tocarle una oreja.

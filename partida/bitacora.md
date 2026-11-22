@@ -292,3 +292,4 @@ T290 · Jujutsu · 24/01 16:40 · Sendai, antigua escuela de Yuji. Maldición en
 T291 · Jujutsu · 16:52 · Mira: los tres exorcizan la maldición. Yuji con el último dedo: ¿qué hacemos?
 T292 · Jujutsu · 16:54 · ECLIPSE: se traga el último dedo de Sukuna. Megumi respira.
 T293 · Jujutsu · 17:05 · 'Se llama Eclipse.' Yuji propone visitar la tumba de su abuelo.
+T294 · Jujutsu · 01/02 18:00 · Tumba de Wasuke; días con todos; Todo. Despedida en el portón. Listo para abrir la puerta.
