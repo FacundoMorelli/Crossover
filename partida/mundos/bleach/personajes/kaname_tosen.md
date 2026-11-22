@@ -16,3 +16,5 @@ ESTADO: en Hueco Mundo con Aizen.
 - DIÁLOGO T321: "¡No te lo perdonaré! ¡Bankai! ¡Suzumushi Tsuishiki: Enma Kōrogi!"
 - T322 · Facundo le pregunta por qué. Deshace el Bankai para que lo escuche. Cuenta lo de su amiga asesinada y la justicia podrida. Pregunta qué justicia sigue Facundo.
 - DIÁLOGO T322: "¿Por qué? ...Te lo diré. Para que lo escuches con tus oídos." / "Ella era una shinigami. Su esposo la mató. Era shinigami también. Nadie lo castigó. Nadie." / "Aizen-sama era el único camino sin sangre para cambiar este mundo podrido." / "¿Y tú? ¿Qué justicia sigues?"
+- T323 · Escucha a Facundo. Deja caer la espada, se arrodilla. Pide ser llevado ante Komamura.
+- DIÁLOGO T323: "...Tus amigos." / "Yo también tuve una. Y fallé." / "Llévame ante Komamura. Sajin. Que él me juzgue. Él es el único que tiene derecho."

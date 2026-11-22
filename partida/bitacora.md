@@ -321,3 +321,4 @@ T319 · Bleach · Las Noches · Escupe a Aizen (Dabura). Aizen se corta el brazo
 T320 · Bleach · Las Noches · AIZEN PETRIFICADO. +1.000 F. Tōsen furioso, Gin se ríe.
 T321 · Bleach · Las Noches · Habla con Gin (su motivo). Tōsen libera el Bankai: Enma Kōrogi.
 T322 · Bleach · Las Noches · '¿Por qué, Tōsen?' Deshace el Bankai y cuenta su historia. '¿Qué justicia sigues?'
+T323 · Bleach · Las Noches · 'Se metieron con mis amigos.' Tōsen se rinde: pide ir ante Komamura.
