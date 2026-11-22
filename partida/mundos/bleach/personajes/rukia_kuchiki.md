@@ -7,6 +7,7 @@ FÍSICO: baja, pelo negro corto con un mechón entre los ojos, ojos violeta. Uni
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, mandona, dibuja conejos horribles; habla formal cuando actúa de "alumna".
 RELACIÓN CON FACUNDO: confianza a regañadientes; le confía el Hōgyoku.
 ENCUENTROS:
+- T133 · 07/07 23:23-23:30 · Facundo le pide perdón y se desmaya en el techo. Ella baja a la calle y se entrega a Byakuya a cambio de que no maten a Ichigo ni a Facundo. Byakuya acepta. Se va con ellos por una Senkaimon. Antes de irse, le deja a Facundo (inconsciente) un dibujo de conejo hecho con su dedo en el vidrio empañado de una ventana.
 - T131 · 23:22 · Facundo la levanta en brazos y salta fuera del Recinto (las paredes lo dejan pasar) hasta un techo a 30 m. Los pétalos caen dentro de la caja vacía.
 - T130 · 23:22 · Queda encerrada con Facundo en el Recinto.
 - T129 · 23:22 · Facundo aparece a su lado, junto a la línea, donde estaba Renji.
@@ -34,6 +35,7 @@ ENCUENTROS:
 - T89 · 20:46 · Alcanza a Facundo en el baldío junto a Ichigo. Mira la empuñadura que desaparece; sospecha que es una zanpakutō. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T133: "Nii-sama. Me voy contigo. Sin pelear. Pero a ellos dos no los tocas." / (a Facundo, inconsciente) "Idiota. Ya hiciste más que nadie."
 - T131: "¡Bájame! ...No, no me bajes. ¡Ichigo!"
 - T130: "¡Arriba, Facundo! ¡No tiene techo!"
 - T124: "¡Ichigo, no! ¡Vete!"
@@ -59,4 +61,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: que puede guardar cosas donde nadie las encuentra y se ofreció a guardar el Hōgyoku (Urahara se lo contó, T111); que sabía del Hōgyoku antes que ella (deduce); su nombre y que dice no saber dónde está (T90); lo vio desde la puerta purificar al espíritu (T88); vio la espada desaparecer de su mano (T89). Deduce que es una zanpakutō o algo similar.
 QUÉ PODERES DE FACUNDO VIO: konsō con Sakaime (T88); la espada desapareciendo en el inventario (T89).
-ESTADO: sin Hōgyoku; en un gigai nuevo, común. Sus poderes empiezan a volver (semanas). Débil esta noche.
+ESTADO: arrestada; llevada a la Sociedad de Almas (07/07 23:30). Sin Hōgyoku. Reiatsu a un tercio, creciendo. Condenada (en el canon, a muerte).

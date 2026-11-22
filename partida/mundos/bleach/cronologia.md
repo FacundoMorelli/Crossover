@@ -21,6 +21,7 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 07/07 23:24-23:30 · Byakuya corta los puntos de Ichigo; Rukia se entrega y se va con Byakuya y Renji (canon). Facundo desmayado.
 - 07/07 23:10 · Renji y Byakuya llegan a Karakura para arrestar a Rukia (canon). Uryū intercede y pierde contra Renji. 23:18 Facundo llega a la calle.
 - 04-07/07 · Calma. Rukia recupera cerca de un tercio de su reiatsu.
 - 03/07 19:57 · Ichigo y Uryū hacen retroceder al Menos Grande (canon). Facundo frenó su Cero antes.

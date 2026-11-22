@@ -7,6 +7,7 @@ FÍSICO: sombrero a rayas verde y blanco, sandalias, haori oscuro, bastón, aban
 PERSONALIDAD Y FORMA DE HABLAR: juguetón, evasivo, brillante; se esconde detrás del abanico.
 RELACIÓN CON FACUNDO: anfitrión; trato: cuarto a cambio de estudiar a Sakaime. Curiosidad y cautela.
 ENCUENTROS:
+- T133 · 08/07 00:10 · Llega con paraguas. Recoge a Ichigo y a Uryū (con Tessai). Sube al techo; despierta a Facundo.
 - T120 · 04/07 · Explica a Chad, Orihime y Facundo lo que despertó en ellos. 07/07 23:05: Yoruichi le avisa a Facundo que llegaron dos Shinigami fuertes; Facundo sale.
 - T116 · 03/07 · Sale con Tessai, Jinta y Ururu a limpiar hollows; rescata a Chad y a Orihime.
 - T114 · 23:45 · Ve desaparecer el Hōgyoku en el inventario de Facundo. Lo busca una última vez con su aparato: nada. Pasa a Rukia a un gigai nuevo sin supresión.
@@ -30,6 +31,7 @@ ENCUENTROS:
 - T92 · 21:12 · Hace pasar a Facundo y Rukia a la trastienda; Tessai sirve té. Le pregunta qué es y le propone un intercambio: información por información.
 - T91 · 21:08 · Recibe a Rukia y a Facundo en la puerta de la tienda. Intenta sentir su reiatsu y no siente nada. Facundo lo tasa.
 DIÁLOGOS CLAVE:
+- T133: "Buenas noches, Facundo-san. Se la llevaron. ...Pero lo que importa no se lo llevaron."
 - T114: "Se fue. De verdad se fue." / "Este gigai no le hace nada. Sus poderes van a volver solos. Semanas, tal vez."
 - T113: "Ahí está. Lo que nunca debí hacer."
 - T112: "Cuatro días. La noche del veintinueve, en el sótano."

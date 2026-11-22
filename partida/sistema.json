@@ -1,8 +1,8 @@
 {
-  "turno": 132,
+  "turno": 133,
   "mundo_actual": "bleach",
-  "fecha_local": "7 de julio (año del canon, ~2001)",
-  "hora": "23:23",
+  "fecha_local": "8 de julio (año del canon, ~2001)",
+  "hora": "00:14",
   "edad": 18,
   "nivel": 7,
   "exp": 15810,
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 40,
+  "energia_actual_pct": 38,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -45,7 +45,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo arde; ojo azul frío y nublado",
+  "ojos": "ojo rojo arde leve; ojo azul nublado",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -605,6 +605,6 @@
     "momento_del_canon_bleach": "Arco Shinigami Sustituto, cap. ~26-27: días después del aniversario de Masaki (17/06) y de Grand Fisher. Don Kanonji graba su especial en el hospital abandonado; el Jibakurei está por volverse hollow esta noche. Ichigo (15) es Shinigami sustituto; Rukia sin poderes en gigai. Después: Uryū (caps. 34-43), Menos Grande, arresto de Rukia (cap. 51-55).",
     "urahara_gigai": "El gigai que Urahara le dio a Rukia suprime su recuperación y oculta el Hōgyoku dentro de ella (canon, se revela en el arco 3). Urahara no lo dirá.",
     "uryu": "Uryū observa a Ichigo y a Facundo. Su desafío con el señuelo (cap. 34) se correrá a principios de julio. Ve en Facundo un misterio.",
-    "sociedad_de_almas": "La Sociedad de Almas ya asignó a Renji y Byakuya la búsqueda de Rukia; llegarían en el canon tras el Menos Grande (cap. 51). Al salir el Hōgyoku de Rukia, Aizen (que lo busca a través de ella) pierde su objetivo sin saberlo aún."
+    "sociedad_de_almas": "Rukia arrestada el 07/07 23:25 y llevada a la Sociedad de Almas (canon). Byakuya informará a la Central 46 (controlada por Aizen en secreto) sobre 'un humano sin reiatsu perceptible con zanpakutō propia, técnicas de luz, gravedad, cambio de lugar y Quincy'. Aizen, al examinar a Rukia en prisión, descubrirá en días que el Hōgyoku ya no está en ella: deducirá que Urahara lo sacó, y sospechará del humano. La ejecución se fija igual (Aizen la quiere para cubrir sus pasos o la cancela: decidir según lo que pase). Ichigo perdió sus poderes (Byakuya cortó Hakusui y Saketsu, canon). Urahara lo reentrenará (10 días)."
   }
 }

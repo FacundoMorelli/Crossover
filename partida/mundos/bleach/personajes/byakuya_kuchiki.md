@@ -7,6 +7,7 @@ FÍSICO: alto, pelo negro largo con kenseikan blancos, bufanda blanca, haori de 
 PERSONALIDAD Y FORMA DE HABLAR: frío, noble, pocas palabras, desprecio por lo que no es ley.
 RELACIÓN CON FACUNDO: furia fría; lo quiere muerto. Le cortó la bufanda.
 ENCUENTROS:
+- T133 · 07/07 23:24-23:30 · Libre de la Marea al desmayarse Facundo. Corta los puntos de poder de Ichigo (Hakusui y Saketsu). Acepta la entrega de Rukia: no remata a Facundo. Se va por una Senkaimon con Rukia y Renji. Se lleva la mitad de su bufanda del suelo.
 - T132 · 23:23 · Marea Lunar de Facundo sobre la calle: los pétalos de Senbonzakura se aplastan contra el asfalto; Byakuya hinca una rodilla, resistiendo. Empieza a levantarse a pesar del peso.
 - T131 · 23:22 · Los pétalos destrozan el interior vacío del Recinto. Ichigo lo ataca por la espalda; Byakuya lo derriba con un Hadō (Byakurai) en el hombro sin mirarlo. Gira hacia el techo de Facundo.
 - T130 · 23:22 · Lanza Senbonzakura contra el Recinto de Facundo: rebota en las paredes. Ve que no tiene techo y manda los pétalos hacia arriba, para caer desde el cielo.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T121 · 23:19 · Al ver la línea, habla por primera vez y desaparece del poste con Paso Flash.
 - T120 · 07/07 23:18 · De pie sobre un poste de luz, observando el arresto de Rukia.
 DIÁLOGOS CLAVE:
+- T133: "Muy bien. Que vivan. Ya no importan."
 - T132: "...Gravedad." / "Un Kuchiki no se arrodilla."
 - T131: "Hadō número cuatro. Byakurai."
 - T130: "Una caja sin tapa."
@@ -33,4 +35,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: su nombre; vio su shikai (T121); no siente su reiatsu.
 QUÉ PODERES DE FACUNDO VIO: shikai de Sakaime (línea) (T121); Destello Solar desde el ojo rojo (T123); cambio de lugar al aplaudir (Boogie Woogie) (T126); Marea Lunar, gravedad desde el ojo azul (T132).
-ESTADO: sobre el poste, inmóvil.
+ESTADO: volvió a la Sociedad de Almas con Rukia. Herido en el brazo. Bufanda cortada.
