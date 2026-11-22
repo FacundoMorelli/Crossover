@@ -7,6 +7,7 @@ FÍSICO: pelo castaño anaranjado corto, ojos marrones, martillo y clavos.
 PERSONALIDAD Y FORMA DE HABLAR: orgullosa, directa, malhablada, valiente.
 RELACIÓN CON FACUNDO: lo trata con confianza brusca; le cae bien aunque no lo admita.
 ENCUENTROS:
+- T49 · 01:29 · Facundo le dice que el gato es suyo, se llama Kase y viaja con él a todos lados. Ella intenta acariciarlo; Kase la ignora y deja que Yuji lo acaricie. Nobara se ofende.
 - T48 · 01:28 · Le tira una lata de jugo a Yuji y otra a Facundo. Le pregunta a Facundo por el gato.
 - T45 · 00:47-01:05 · Va con el grupo hasta el puesto de mando, fuera de Shibuya, con sus dos ojos.
 - T33 · 00:10-00:12 · Apoya con clavos y Resonancia desde 30 m; Mahito la ignora para centrarse en Yuji y Todo.
@@ -15,6 +16,7 @@ ENCUENTROS:
 - T29 · 00:07 · Aparece por el oeste, pelea contra el doble de Mahito, usa Resonancia (daña al original). El original se le acerca por la espalda. Facundo la tasa.
 
 DIÁLOGOS CLAVE:
+- T49: "¡¿Por qué a él sí y a mí no?! ¡Gato traidor!"
 - T48: "Toma, imbécil número dos." / "¿Y ese gato? ¿Es tuyo o te adoptó él a ti?"
 - T45: "Si alguien me pregunta, yo hice la mitad del trabajo."
 - T33: "¡¿Y ese gorila de dónde salió?!"
@@ -22,6 +24,6 @@ DIÁLOGOS CLAVE:
 - T30: "¡¿Qué...?! ¿Y tú quién demonios eres?"
 - T29: "¡¿Cuántos de ustedes hay, maldito costurero?!"
 
-QUÉ SABE DE FACUNDO: su aspecto, que la sacó a Mahito de encima (T30), su nombre Facundo (T31).
+QUÉ SABE DE FACUNDO: que su gato se llama Kase y viaja con él a todos lados (T49); su aspecto, que la sacó a Mahito de encima (T30), su nombre Facundo (T31).
 QUÉ PODERES DE FACUNDO VIO: Marea Lunar (T30).
 ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.

@@ -47,3 +47,4 @@ T45 · Jujutsu · 01:06 · Carga a Nanami al puesto de mando. Nobara sale de Shi
 T46 · Jujutsu · 01:24 · Descansa. Nanami estable, Megumi atendido. Yuji le agradece.
 T47 · Jujutsu · 01:26 · Le dice a Yuji que no fue su culpa. Yuji confirma que es Sukuna.
 T48 · Jujutsu · 01:28 · Consuela a Yuji. Nobara trae jugos y pregunta por Kase.
+T49 · Jujutsu · 01:29 · Presenta a Kase. Kase ignora a Nobara.
