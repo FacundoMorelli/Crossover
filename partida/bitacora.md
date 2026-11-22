@@ -190,3 +190,4 @@ T188 · Dragon Ball · 14:11 · Se presenta y muestra su ki real. Goku quiere en
 T189 · Dragon Ball · 14:12 · Acepta entrenar con Goku (hasta medianoche). Vegeta se suma.
 T190 · Dragon Ball · 14:13 · Recuerda la promesa a Buu. Tarjeta de Mr. Satán. Goku: dejar un hilito de ki.
 T191 · Dragon Ball · 14:30 · Vuelan al páramo. Goku: 'muéstrame todo lo que tienes'.
+T192 · Dragon Ball · 14:31 · Forma Cenit. Golpe a Goku en base: retrocede 30 m. Goku se transforma en SSJ.

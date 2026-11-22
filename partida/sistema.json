@@ -1,8 +1,8 @@
 {
-  "turno": 191,
+  "turno": 192,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:30",
+  "hora": "14:31",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
@@ -36,7 +36,7 @@
     "energia": 203,
     "control": 202
   },
-  "energia_actual_pct": 80,
+  "energia_actual_pct": 76,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -778,5 +778,10 @@
     "buu": "Con Babidi muerto, Buu no tiene amo ni amenaza de resello. Es libre y caprichoso. Le encantan los dulces. Si se aburre o se enoja, destruye. La marca M de Vegeta se apaga (Vegeta vuelve a ser él mismo). Dabura queda libre del control.",
     "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
     "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón."
+  },
+  "forma_cenit_activa": {
+    "desde": "14:31",
+    "termina": "14:41",
+    "multiplicador": 3
   }
 }

@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: curiosidad enorme; quiere pelear con él.
 ENCUENTROS:
+- T192 · 14:31 · Facundo se transforma en Forma Cenit y lo ataca. Goku, en base, bloquea y sale arrastrado treinta metros. Se ríe y se transforma en Super Saiyajin.
 - T191 · 14:30 · Llegan al páramo. Goku se pone frente a Facundo en base y le pide que le muestre todo lo que tiene, sin guardarse nada.
 - T190 · 14:13 · Le explica a Facundo que si deja un poco de ki afuera, Buu lo puede encontrar.
 - T189 · 14:12 · Facundo acepta entrenar. Goku feliz; le cuenta que está muerto y solo tiene hasta la medianoche. Propone ir ya a un lugar vacío.
@@ -19,9 +20,10 @@ ENCUENTROS:
 - T177 · 13:06 · Ve la ráfaga de Vegeta explotar contra algo en el aire. Mira hacia el risco.
 - T175 · 12:20 · Vence a Yakon (explota de tanta energía) en el nivel 2. Sale de la nave detrás de Vegeta.
 
-QUÉ SABE DE FACUNDO: su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
+QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T192: "¡¿Qué es eso?! ¡Tu ki se triplicó!" / "¡Ahora sí! ¡Esto se puso divertido!"
 - T191: "Primero, muéstrame lo que tienes. Todo. Sin guardarte nada, ¿sí?"
 - T190: "Si dejas un poquito de ki afuera, aunque sea un hilito, Buu te va a encontrar. Yo también."
 - T189: "¡Genial! Ah, pero tengo hasta la medianoche nomás. Estoy muerto, ¿sabes? Me dieron un día de permiso." / "¡Vamos ya! ¡Conozco un lugar!"

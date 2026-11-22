@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T192 · 14:31 · Se pone de pie en la meseta al sentir la Forma Cenit.
 - T191 · 14:30 · Se sienta en una roca alta a mirar, de brazos cruzados.
 - T189 · 14:12 · Se suma al entrenamiento, de mala gana, para 'ver los trucos'.
 - T188 · 14:11 · Siente el ki real de Facundo. Se ofende de que alguien tan débil haya frenado su ataque y matado a Babidi. Sospecha de sus técnicas.
@@ -19,6 +20,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T192: "...¿Una transformación? ¿Un humano?"
 - T191: "Apúrense. No tengo todo el día."
 - T189: "Voy con ustedes. Quiero ver esos trucos de cerca."
 - T188: "¿Eso? ¿Ese ki de insecto frenó mi ataque?" / "No es fuerza. Son trucos. Trucos sucios."
@@ -28,6 +30,6 @@ DIÁLOGOS CLAVE:
 - T177: "¿Qué...? ¡¿Quién se atrevió?!" / "Un insecto sin ki... con dos colores en la cabeza."
 - T175: "Kakarotto. Ahora sí vamos a pelear en serio."
 
-QUÉ SABE DE FACUNDO: su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
+QUÉ SABE DE FACUNDO: tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En la zona rocosa con Goku.
