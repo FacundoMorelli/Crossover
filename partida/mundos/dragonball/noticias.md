@@ -3,3 +3,4 @@
 - Año 774 · TV en vivo: 'Mr. Satán gana el 25.º Torneo.' Minutos después: 'Un joven de pelo bicolor con un gato y una criatura rosada aterrizan en el ring.' (Público.)
 - Año 774 · día siguiente al Torneo, 07:20 · TV: conferencia de Mr. Satán desde su mansión: 'Vencí y domé al monstruo rosado con mi técnica secreta de la amistad.' Menciona que lo ayudó 'el muchacho del gato, mi discípulo'. Buu no aparece en cámara. (Público.) APODO: 'el muchacho del gato'.
 - Año 774 · día siguiente al Torneo, ~13:45 · Radio local de Ciudad Satán: 'disparos cerca de la mansión del campeón'. Sin más datos. (Público.)
+- Año 774 · día siguiente al Torneo, 13:57 · Radio y TV: 'un rayo de luz partió la costa de Ciudad Satán desde la mansión del campeón'. Imágenes desde lejos de una figura con alas blancas sobre la mansión. (Público.)
