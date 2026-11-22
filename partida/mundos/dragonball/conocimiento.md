@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Mr. Satán, Videl, Buu · T272 · Facundo se va en unos días y puede tardar semanas o meses en volver.
 - Karin · T194/T248 · Goku le pidió semillas para Facundo el día del torneo; Dende le contó lo demás (vecinos: la torre está debajo del templo).
 - La 18 · T264 · que Facundo se va de viaje: lo vio en la TV (Mr. Satán en la fiesta, día 2).
 - Roshi · T263 · Facundo quiere usar su fuerza para proteger a los que quiere y seguir viajando.

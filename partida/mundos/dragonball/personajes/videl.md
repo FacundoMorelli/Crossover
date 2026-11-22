@@ -4,6 +4,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17 (no opción romántica)
 FÍSICO: coletas negras, ropa de pelea, vendas en la cara (Spopovich la golpeó).
 PERSONALIDAD: valiente, directa, justiciera.
 ENCUENTROS:
+- T272 · 20:18 · Se relaja al escuchar que Facundo rechaza. Lo mira distinto.
 - T271 · 20:15 · En la cena, se opone a la propuesta de su padre.
 - T235 · 20:00-21:30 · En la fiesta, mira a Facundo de lejos toda la noche. No se acerca.
 - T234 · 14:32 · Facundo le dice que fue su papá y que necesita descansar. No le cree; le agradece igual y se va.
