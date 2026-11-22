@@ -15,3 +15,4 @@ ENCUENTROS:
 - T355 · Arlong Park · lo ve entrar. Lo mira fijo, sin decir nada.
 QUÉ SABE DE FACUNDO: nada; lo ve por primera vez.
 - T369 · Ve a Luffy destruir su cuarto de mapas. Llora. Acepta.
+- T377 · Le cuenta a Facundo lo de los 100 millones bajo los mandarinos. "Gracias. De verdad."
