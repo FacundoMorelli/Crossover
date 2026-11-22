@@ -424,3 +424,4 @@ T422 · Shingeki · costa · Convence a Eren de no actuar por odio; se ofrece a 
 T423 · Shingeki · Shiganshina · Vuelven al sótano. Moblit: Zeke despertó y pide hablar solo con Facundo.
 T424 · Shingeki · Shiganshina · Habla a solas con Zeke. Zeke pide ver a Eren a solas.
 T425 · Shingeki · Shiganshina · Zeke le cuenta el plan de eutanasia de los eldianos.
+T426 · Shingeki · Shiganshina · Pregunta por qué no hacer desaparecer a los titanes. Zeke: el odio seguiría.
