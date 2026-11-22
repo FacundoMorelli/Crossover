@@ -5,11 +5,13 @@ PODER VISTO POR FACUNDO: ninguno (Tasación: Restricción Celestial, armas maldi
 EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo verde oscuro atado, anteojos (rotos), cuerpo atlético. Ahora: vendada en más de la mitad del cuerpo por las quemaduras de Jogo.
 PERSONALIDAD Y FORMA DE HABLAR: dura, sarcástica, orgullosa, protectora con los suyos.
-RELACIÓN CON FACUNDO: no se conocen.
+RELACIÓN CON FACUNDO: interés competitivo; le propuso un duelo.
 ENCUENTROS:
+- T62 · 06:20 · Facundo confirma que es él. Yuji le cuenta que salvó a Nanami y a Megumi. Maki le desafía a un duelo cuando se recupere.
 - T61 · 06:18 · Segunda carpa médica del puesto. Consciente, vendada. Naobito Zen'in en la camilla de al lado, inconsciente y grave. Inumaki la encuentra. Facundo la tasa.
 DIÁLOGOS CLAVE:
+- T62: "No pareces gran cosa." / "Cuando salga de esta cama, tú y yo vamos a pelear. Quiero ver si los rumores son ciertos."
 - T61: "¿Qué miras, Toge? No me morí. ...Y tú, ¿quién eres? ¿El que anda congelando cosas?"
-QUÉ SABE DE FACUNDO: escuchó a los asistentes hablar de "un chico de pelo blanco y azul que congeló a la maldición de las costuras" (rumor del puesto, madrugada). Lo asocia al verlo.
+QUÉ SABE DE FACUNDO: su nombre (T62); Yuji le contó que salvó a Nanami y a Megumi (T62); escuchó a los asistentes hablar de "un chico de pelo blanco y azul que congeló a la maldición de las costuras" (rumor del puesto, madrugada). Lo asocia al verlo.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: quemaduras graves en tratamiento, consciente, no puede pelear.
