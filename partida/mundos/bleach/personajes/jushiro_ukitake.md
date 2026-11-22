@@ -11,6 +11,7 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T149: "Así que tú eres el humano que le cortó la bufanda a Byakuya. ...Gracias por venir por ella."
 - T149: "Hay un objeto de la casa Shihōin que puede detener al Sōkyoku. Necesito tiempo para sacarlo sin que nadie lo note."
-QUÉ SABE DE FACUNDO: el informe de Byakuya; lo que Kyōraku le contó (que vino por Rukia).
+- T150 (corregido): "Byakuya escribió que interrumpiste su liberación dos veces. ¿Qué más puedes hacer? Necesito saber con qué cuento."
+QUÉ SABE DE FACUNDO: el informe de Byakuya; lo que Kyōraku le contó (que vino por Rukia). NO sabe del inventario.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en el Ugendō, enfermo.
