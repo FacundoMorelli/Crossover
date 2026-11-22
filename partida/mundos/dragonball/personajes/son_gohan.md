@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo negro corto, ropa de pelea violeta tipo Piccolo, rasguños.
 PERSONALIDAD: amable, estudioso, oxidado en pelea.
 ENCUENTROS:
+- T215 · 07:30 · Se ríe de Mr. Satán. Le pregunta a Facundo qué va a hacer hoy con Buu y con Vegeta.
 - T211 · 00:40 · Le explica a Milk que Facundo entrenó con papá todo el día.
 - T210 · 00:35 · Lleva a Facundo al Monte Paoz.
 - T209 · 00:01 · Invita a Facundo a pasar la noche en el Monte Paoz.
@@ -17,6 +18,7 @@ ENCUENTROS:
 
 ESTADO: frente a la nave, recuperado por Kibito.
 DIÁLOGOS CLAVE:
+- T215: "Bienvenido al club." / "¿Y qué vas a hacer hoy? Shin sigue allá con Buu... y Vegeta no volvió a la Corporación Cápsula, siento su ki en las montañas del norte."
 - T209: "Si no tienes dónde dormir... la casa es chica, pero mamá siempre cocina de más."
 - T196: "¡Papá! ¿Qué pasó acá? ¡Parece que cayó un meteorito!"
 - T180: "¡¿Mató a Babidi de un golpe?!"
