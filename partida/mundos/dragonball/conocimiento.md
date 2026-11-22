@@ -1,5 +1,6 @@
 # CONOCIMIENTO — DRAGON BALL
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Kibito · T220 · Facundo estaba en el cañón del norte (Gohan se lo dijo).
 - PÚBLICO (TV) · T214 · Mr. Satán: 'el muchacho del gato', su 'discípulo', lo ayudó a domar al monstruo. (Mentira de Mr. Satán.)
 - Goten · T213 · su nombre (se lo dijo Gohan a la mañana).
 - Milk · T198 (tarde) · Goku le contó en el Monte Paoz que entrenaba con un muchacho fuerte que tiene un gato. · T184 · lo vio por TV con Buu.
@@ -25,6 +26,7 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Dispararon a Mr. Satán y a Bee; Buu los curó y echa vapor; Shin cree que algo va a salir: Kibito (T220).
 - Vegeta no volvió a la Corporación Cápsula; está en las montañas del norte: Gohan (T215), sintiendo su ki.
 - Buu no considera 'matar' convertir a alguien en dulce: lo vio a punto de hacerlo con Vegeta (T200).
 - El Buu gordo es bueno porque absorbió al Gran Kaiosama; el Buu original sigue adentro; nadie sabe separarlos; si sale, hay que destruirlo sin dejar una célula: Shin (T197).

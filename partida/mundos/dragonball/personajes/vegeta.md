@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T220 · 08:25 · Acepta la revancha de mañana. Se va hacia la Corporación Cápsula.
 - T219 · 08:09-08:23 · Pelea 14 min contra la Forma Cenit. Pierde terreno; lanza un Big Bang Attack que Facundo parte con un corte en X. Termina en base, de pie, golpeado. Propone volver a pelear mañana a la misma hora.
 - T218 · 08:09 · Pelea contra Facundo en Forma Cenit. En el primer cruce sale despedido contra la pared y le congelan el antebrazo. Nota que el multiplicador es mayor que ayer. Rompe el hielo y sonríe.
 - T217 · 08:07 · Facundo le dice que vino a entrenar con él. Se burla; acepta. Le exige la transformación y que no se contenga.

@@ -15,6 +15,11 @@
 - Autodestrucción de Vegeta. Muertes de Kibito, Shin herido. Destrucción de la Tierra por Kid Buu.
 
 ## LO QUE PASÓ
+- 13:52 · (T220) Kibito encuentra a Facundo en el cañón del norte (indicación de Gohan).
+- 13:40 · (T220) Dos tiradores disparan contra Bee y Mr. Satán en la mansión. Buu los cura. Furia: empieza a echar vapor (canon: así nace el Buu malo).
+- ~11:00 · (T220) Buu y Mr. Satán encuentran un cachorro herido; Buu lo cura; lo llaman Bee.
+- 09:40 · (T220) Buu despierta en el páramo y vuelve a la mansión de Mr. Satán. Shin y Kibito lo siguen.
+- 08:25 · (T220) Vegeta se va del cañón del norte hacia la Corporación Cápsula.
 - 01:00-07:10 · (T213) Facundo duerme en el Monte Paoz. Noche tranquila.
 - 00:00 · (T209) Goku vuelve al Otro Mundo con Uranai Baba.
 - 23:58 · (T208) Uranai Baba llega al páramo a llevarse a Goku al Otro Mundo.

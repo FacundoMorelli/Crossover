@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: pelo negro corto, ropa de pelea violeta tipo Piccolo, rasguños.
 PERSONALIDAD: amable, estudioso, oxidado en pelea.
 ENCUENTROS:
+- T220 · ~13:48 · Le dice a Kibito dónde está Facundo (cañón del norte).
 - T215 · 07:30 · Se ríe de Mr. Satán. Le pregunta a Facundo qué va a hacer hoy con Buu y con Vegeta.
 - T211 · 00:40 · Le explica a Milk que Facundo entrenó con papá todo el día.
 - T210 · 00:35 · Lleva a Facundo al Monte Paoz.

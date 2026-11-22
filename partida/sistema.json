@@ -1,8 +1,8 @@
 {
-  "turno": 219,
+  "turno": 220,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día siguiente al 25.º Torneo",
-  "hora": "08:23",
+  "hora": "13:52",
   "edad": 18,
   "nivel": 14,
   "exp": 52310,
@@ -36,7 +36,7 @@
     "energia": 209,
     "control": 208
   },
-  "energia_actual_pct": 14,
+  "energia_actual_pct": 45,
   "eclipse": {
     "maestria": 50,
     "partes_desbloqueadas": [
@@ -54,7 +54,7 @@
       "T219: maestría 50 contra Vegeta SSJ2. Desbloqueada la parte Eclipse (punto negro de gravedad). Cruzar las espadas: corte en X con un eclipse en el centro. Los ojos solo duelen si fuerza mucho."
     ]
   },
-  "ojos": "ardor; el rojo sangra un poco, el azul nublado",
+  "ojos": "bien (leve ardor)",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -796,6 +796,7 @@
     "momento_del_canon_dragonball": "Saga Majin Buu: Babidi. Año 774, día del 25.º Torneo. Spopovich y Yamu robaron la energía de Gohan; el grupo (Goku, Vegeta, Gohan, Krilin, Piccolo, Shin, Kibito) llegó a la nave de Babidi; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave (Pui Pui, Yakon, Dabura vs Gohan), Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, muerte de Kibito, autodestrucción de Vegeta (PUNTO DE QUIEBRE DE LA MISIÓN).",
     "buu": "Con Babidi muerto, Buu no tiene amo ni amenaza de resello. Es libre y caprichoso. Le encantan los dulces. Si se aburre o se enoja, destruye. La marca M de Vegeta se apaga (Vegeta vuelve a ser él mismo). Dabura queda libre del control.",
     "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
-    "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón."
+    "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón.",
+    "buu_malo": "T220: el disparo a Mr. Satán y a Bee (13:40) despertó la furia de Buu. Buu los curó; está echando vapor en la mansión. En ~10-15 min el vapor toma forma: el Buu malo (flaco, gris) sale. Si nadie interviene: el Buu malo se come al Buu gordo y nace Super Buu. Los dos tiradores huyeron en una camioneta hacia el oeste."
   }
 }

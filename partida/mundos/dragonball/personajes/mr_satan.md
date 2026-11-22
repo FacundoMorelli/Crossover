@@ -5,6 +5,7 @@ EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: alto, afro, bigote, cinturón de campeón, capa.
 PERSONALIDAD Y FORMA DE HABLAR: fanfarrón, cobarde, buen corazón en el fondo; grita y posa.
 ENCUENTROS:
+- T220 · 13:40 · Le disparan en la mansión; Buu lo cura.
 - T214 · 07:20 · (por TV) Conferencia: dice que domó al monstruo y que lo ayudó 'el muchacho del gato, mi discípulo'.
 - T190 · 14:13 · Le da a Facundo una tarjeta con su número de teléfono de la mansión.
 - T186 · 14:07 · Facundo le propone darle dulces a Buu todos los días y llevarse la fama de haber vencido y vuelto bueno a un monstruo que quería destruir la Tierra. Se le iluminan los ojos. Le lleva a Buu la caja de chocolates del sponsor. Buu lo abraza.
