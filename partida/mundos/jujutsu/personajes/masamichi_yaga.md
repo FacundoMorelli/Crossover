@@ -20,3 +20,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo que Yuji le contó por teléfono (hechicero sin escuela, salvó a Nanami y Megumi, ayudó contra Mahito); lo que Shoko le dijo al llegar (su técnica le daña los ojos); el rumor del puesto.
 QUÉ PODERES DE FACUNDO VIO: sus reflejos y su fuerza contenida al atrapar el oso (T65).
 ESTADO: detenido por los altos mandos, condenado a muerte (03/11).
+ESTADO (17/01/2019): ejecutado (noviembre 2018).

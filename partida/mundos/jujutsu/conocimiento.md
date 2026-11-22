@@ -73,6 +73,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- 17/01/2019: hubo una 'catástrofe de Shinjuku' el 24/12/2018; zona de exclusión, reconstrucción: noticiero público en pantalla (T276). Shinjuku arrasado: lo vio (T276).
 - Reunión con Yuki para ir a ver a Tengen, en la escuela en dos días: Yuta se lo dijo (T84).
 - Pacto Yuta–Gojo y ejecución fingida de Yuji: lo vio y Yuta se lo dijo (T83).
 - Tengen: Megumi se lo mencionó como quien podría saber del Reino de la Prisión (T73).

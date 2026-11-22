@@ -42,3 +42,8 @@
 
 - CUMPLIDA: T226 · día siguiente al 25.º Torneo, 13:58. Facundo separó al Buu malo (T222) y se lo tragó entero con el Eclipse. Vegeta vivo. +10.000 EXP, +300 F. Puerta abierta.
 - Mundos completados: 3/3 (Jujutsu Kaisen, Bleach, Dragon Ball). VIAJE LIBRE desbloqueado.
+
+## RELOJES (actualizado T276)
+- Jujutsu Kaisen: se fue el 05/11/2018 22:55. VUELVE el 17/01/2019 20:10 (73 días: 64 en Bleach + 9 en Dragon Ball). El año dentro de la Habitación del Tiempo no cuenta para los relojes.
+- Bleach: se fue el 26/08 22:30; corre (82 días al volver a Jujutsu).
+- Dragon Ball: se fue el día 9 del año 774, 19:05; corre desde T276. Prometió volver (Buu, Kame House).

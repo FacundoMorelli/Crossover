@@ -20,3 +20,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: escuchó el decreto (hechicero no registrado, pelo blanco y azul, gato) y lo reconoce.
 QUÉ PODERES DE FACUNDO VIO: Destello Solar y Rift (T79); Boogie Woogie y Puño Divergente (T80). Reconoce el Boogie Woogie de Todo y el golpe de Itadori.
 ESTADO: inconsciente, encerrado en hielo en la azotea.
+ESTADO (17/01/2019): muerto (noviembre 2018; volvió como maldición y Maki lo mató).

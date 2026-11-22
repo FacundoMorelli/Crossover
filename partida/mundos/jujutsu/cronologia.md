@@ -60,3 +60,10 @@
 - 23:22 · Sukuna expande Santuario Malévolo sin barrera contra Mahoraga (canon, sin cambios). Facundo lo presencia desde Miyamasu-zaka.
 - 23:25 · Sukuna destruye a Mahoraga con la flecha de fuego (canon). El dominio termina. Zona de ~200 m arrasada.
 - ≈23:30 · Sukuna devuelve el control a Yuji (canon). Megumi inconsciente cerca, sobre una losa.
+
+## MIENTRAS FACUNDO NO ESTABA (06/11/2018 – 17/01/2019) — simulado al volver (T276)
+- Noviembre: Tengen revela a Kenjaku. Reglas del Juego del Sacrificio. Yaga ejecutado. Maki arrasa el clan Zen'in (Mai muere; Naoya muere y vuelve como maldición). (canon)
+- Noviembre–diciembre: Juego del Sacrificio. Yuji y Megumi en Tokio n.º1 (Higuruma, Hakari, Kashimo). Yuta en Sendai. CAMBIO: Nobara, con sus dos ojos, pelea en la colonia de Tokio n.º2. CAMBIO: Nanami vivo, protege civiles y apoya a los alumnos.
+- Diciembre: Yuki muere contra Kenjaku; Tengen capturado. Sukuna toma el cuerpo de Megumi y mata a Yorozu (Tsumiki). (canon)
+- 24/12/2018 · Batalla de Shinjuku. Gojo liberado; muere contra Sukuna. Kashimo muere. Yuta mata a Kenjaku. Choso muere protegiendo a Yuji. CAMBIO: Nanami pelea y pierde el brazo izquierdo; vive. CAMBIO: Nobara pelea desde el principio y usa la Resonancia en el momento clave. Sukuna separado de Megumi y muerto. Uraume muere. (canon con cambios)
+- Enero 2019: reorganización del mundo de la hechicería. Shinjuku, zona de exclusión en reconstrucción. La orden de retención contra Facundo nunca se anuló, pero nadie la sigue.

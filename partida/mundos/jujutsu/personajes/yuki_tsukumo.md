@@ -22,3 +22,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: qué tipo de mujer le gusta (T42); su nombre, que dice no saber dónde está (T41); lo vio pelear con Uraume (T39).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: frente a Kenjaku y Uraume.
+ESTADO (17/01/2019): muerta (diciembre 2018, contra Kenjaku). Facundo no lo sabe aún.

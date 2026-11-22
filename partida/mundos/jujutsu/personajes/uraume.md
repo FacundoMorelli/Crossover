@@ -19,3 +19,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio frenar su hielo con una fuerza invisible (T37).
 QUÉ PODERES DE FACUNDO VIO: Marea Lunar (T37).
 ESTADO: se fue con Kenjaku.
+ESTADO (17/01/2019): muerto/a.

@@ -12,3 +12,7 @@ DON DE MUNDO: Técnica Maldita: Manecilla Inversa (ver sistema.json).
 ## ESTADO AL IRSE (05/11/2018 22:55)
 - Nanami vivo (en recuperación). Nobara con sus dos ojos. Megumi en recuperación. Yuji 'ejecutado' (fingido por Yuta) y prófugo con Choso. Naoya vencido por Facundo, humillado: lo odia. Facundo: estudiante registrado por Yaga, con orden de retención; Yuta dirá que escapó. Yaga condenado. Gojo sellado; Kenjaku con la técnica de Mahito.
 - Lo recuerdan: Yuji, Nobara, Megumi, Nanami, Todo, Yuki, Choso, Yuta, Maki, Inumaki, Shoko, Ijichi, Yaga. Kenjaku y Uraume lo vieron ('el del fogonazo'). Naoya y el clan Zen'in. Rumores de civiles en Tokio.
+
+## AL VOLVER (17/01/2019, T276)
+- Pasaron 73 días. Muertos (canon): Gojo, Yaga, Yuki, Choso, Kashimo, Kenjaku, Sukuna, Uraume, Mai, Naoya, Naobito, Tsumiki/Yorozu. Vivos: Yuji, Megumi (recuperándose), Nobara (con sus dos ojos), Yuta, Maki, Inumaki, Panda, Todo, Shoko, Ijichi, Higuruma, Hakari, etc. CAMBIO: Nanami vivo (sin brazo izquierdo).
+- Facundo no sabe nada de esto hasta enterarse.

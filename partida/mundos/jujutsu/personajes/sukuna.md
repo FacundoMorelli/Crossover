@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE: —
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: libre con 15 dedos; se dirige hacia Megumi y Mahoraga.
+ESTADO (17/01/2019): muerto (Shinjuku).

@@ -22,3 +22,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio en persona a distancia: los fogonazos del ojo y la escarcha (T33-T36). No sabe su nombre.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: se fue de Shibuya con Uraume, la técnica de Mahito y el Reino de la Prisión (Gojo sellado).
+ESTADO (17/01/2019): muerto (Yuta, Shinjuku).

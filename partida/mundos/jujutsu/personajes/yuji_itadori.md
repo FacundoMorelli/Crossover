@@ -78,3 +78,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su nombre, Facundo (lo escuchó de Nanami, T23); su aspecto (T6); que dice no saber dónde está (T7); que tiene una 'misión' y busca a Nanami (T8); que tiene una técnica que deja un número brillante (T8). Lo cree hechicero.
 QUÉ PODERES DE FACUNDO VIO: la Marca de la Manecilla Inversa sobre Megumi (T8), sin saber qué hace.
 ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
+- T276 · 17/01/2019 20:10 · Facundo siente su energía maldita a ~400 m, dentro de la zona de exclusión de Shinjuku. (Yuji no lo siente: Velo.)

@@ -28,3 +28,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio llegar con Yuki y Todo (T44); Yuji le contó esa noche que Facundo los ayudó contra Mahito y salvó a Nanami (T44-T57); su nombre (Yuji, T57).
 QUÉ PODERES DE FACUNDO VIO: Rift y Echo, Proporción, Destello Solar (contra maldiciones, 03-05/11).
 ESTADO: en el campo gris, junto a Yuji.
+ESTADO (17/01/2019): muerto (24/12/2018, Shinjuku, protegiendo a Yuji). Facundo no lo sabe aún.

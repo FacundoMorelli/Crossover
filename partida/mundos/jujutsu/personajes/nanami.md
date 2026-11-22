@@ -42,3 +42,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: su aspecto, que pelea con dos espadas de fuego y hielo (T10), su nombre Facundo y que dice venir de parte de Itadori (T11).
 QUÉ PODERES DE FACUNDO VIO: las espadas Rift (corte quemado) y Echo (corte congelado), T10.
 ESTADO: despierto, vendado, débil pero lúcido. Vivo.
+ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). Facundo no lo sabe aún.

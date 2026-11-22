@@ -274,3 +274,4 @@ T272 · Dragon Ball · 20:18 · Rechaza ser discípulo oficial: se va y puede ta
 T273 · Dragon Ball · 20:40 · A Buu: 'muchos dulces, pero prometí volver'. Videl pide hablar en el balcón.
 T274 · Dragon Ball · 20:42 · Videl en el balcón: le pide que la entrene.
 T275 · Dragon Ball · día 9 19:00 · Simula: entrena a Videl, despedidas, última pelea con Vegeta (gana, +25.000 F). Templo: listo para abrir la puerta.
+T276 · Jujutsu · 17/01/2019 20:10 · VIAJE LIBRE: vuelve a Jujutsu, 73 días después. Shinjuku arrasado. Siente a Yuji a 400 m.
