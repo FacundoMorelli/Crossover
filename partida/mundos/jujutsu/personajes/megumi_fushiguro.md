@@ -44,3 +44,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T289 · 18-23/01 · Acepta salir. Se corta el pelo (lo arrastra Nobara). Ramen los cuatro. Entrena cada mañana con Facundo, Yuji y Nobara. Duerme en el futón. Vuelve a invocar a un perro divino. Mejora.
 - DIÁLOGO T289: "...Está bien. Ramen." / "Gracias. Por la otra noche."
 - T290 · 24/01/2019 · Misión en Sendai con Facundo: almacén de la secundaria Sugisawa.
+- T291 · 16:52 · Su perro distrae a la maldición. Da un paso atrás al ver el dedo.

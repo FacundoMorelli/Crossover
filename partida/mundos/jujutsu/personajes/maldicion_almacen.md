@@ -4,4 +4,5 @@ FÍSICO: masa del tamaño de un camión hecha de pelotas, redes y brazos de mani
 PODER: grado 1 aproximado; se alimenta del residuo del dedo.
 ENCUENTROS:
 - T290 · 24/01/2019 16:40 · Baja del techo del almacén.
-ESTADO: activa.
+- T291 · Exorcizada por Yuji, Megumi y Nobara.
+ESTADO: exorcizada.

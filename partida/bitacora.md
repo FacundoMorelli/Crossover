@@ -289,3 +289,4 @@ T287 · Jujutsu · 22:40 · Come con Megumi en el piso. Yuji y Nobara espían.
 T288 · Jujutsu · 22:45 · Yuji y Nobara entran. Yuji propone ramen mañana los cuatro.
 T289 · Jujutsu · 23/01 19:30 · Simula: ramen, Nanami, entrenamientos; Megumi mejora. El último dedo de Sukuna en Sendai.
 T290 · Jujutsu · 24/01 16:40 · Sendai, antigua escuela de Yuji. Maldición en el almacén junto al dedo.
+T291 · Jujutsu · 16:52 · Mira: los tres exorcizan la maldición. Yuji con el último dedo: ¿qué hacemos?

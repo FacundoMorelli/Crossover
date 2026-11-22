@@ -92,3 +92,5 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - DIÁLOGO T288: "Mañana. Ramen. Los cuatro. En la ciudad. Yo invito."
 - T289 · 18-23/01 · Ramen (invita). Entrena con Facundo cada mañana. 23/01: noticia del último dedo en su antigua escuela; mira a Facundo.
 - T290 · 24/01/2019 · Misión en Sendai con Facundo: almacén de la secundaria Sugisawa.
+- T291 · 16:52 · Destello Negro: exorciza la maldición. Levanta el dedo con un trapo. Pregunta qué hacer con él.
+- DIÁLOGO T291: "¿Y ahora? La escuela lo va a guardar, pero... siempre alguien termina robándolos."

@@ -46,3 +46,5 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - DIÁLOGO T288: "¡Esto huele a cueva de oso! ¡Aire!"
 - T289 · 18-23/01 · Arrastra a Megumi a la peluquería. Entrena con Facundo. 23/01: escucha la misión.
 - T290 · 24/01/2019 · Misión en Sendai con Facundo: almacén de la secundaria Sugisawa.
+- T291 · 16:52 · Resonancia sobre el residuo del dedo: le corta la regeneración a la maldición.
+- DIÁLOGO T291: "¡Nada de regenerarse en mi turno!"
