@@ -7,6 +7,7 @@ FÍSICO: pelo naranja en punta, ceño fruncido permanente, uniforme del institut
 PERSONALIDAD Y FORMA DE HABLAR: malhumorado, directo, protector; buen corazón.
 RELACIÓN CON FACUNDO: compañero de entrenamiento; competitivo; quiere superarlo.
 ENCUENTROS:
+- T136 · 19/07 · Vence a Jidanbō partiéndole las hachas.
 - T135 · 19/07 · Cruza el Dangai corriendo del Kōtotsu. En el Rukongai corre hacia la Puerta Blanca Oeste; cae Jidanbō frente a él.
 - T134 · 08-18/07 · Entrenamiento de Urahara: Ururu, corte de la Cadena del Destino, Pozo Destrozado; recupera poderes propios, máscara de hollow parcial; obtiene Zangetsu en shikai (canon). 18/07 21:30, frente a la Senkaimon, listo para ir.
 - T133 · 07/07 23:24 · Byakuya le corta los puntos de poder: pierde los poderes de Shinigami (canon). Queda tirado en la lluvia. Urahara lo recoge.
