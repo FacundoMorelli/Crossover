@@ -6,6 +6,7 @@ FÍSICO: pelo negro en puntas, gi naranja y azul, aureola sobre la cabeza.
 PERSONALIDAD Y FORMA DE HABLAR: alegre, ingenuo, ama pelear con fuertes, "¡Hola, soy Goku!".
 RELACIÓN CON FACUNDO: curiosidad enorme; quiere pelear con él.
 ENCUENTROS:
+- T189 · 14:12 · Facundo acepta entrenar. Goku feliz; le cuenta que está muerto y solo tiene hasta la medianoche. Propone ir ya a un lugar vacío.
 - T188 · 14:11 · Facundo se presenta, dice que están muy por encima de él y muestra su ki real. Goku lo siente: fuerte, como Vegeta cuando llegó a la Tierra, pero lejos de ellos. Se entusiasma igual: quiere entrenarlo.
 - T187 · 14:10 · Facundo le pide perdón y le pregunta dónde está. Goku se presenta, le explica: Isla Papaya, 25.º Torneo, la Tierra. Le pregunta el nombre y si quiere pelear con él, porque no siente su ki y le da curiosidad.
 - T184 · 13:45-14:05 · Sigue a Facundo y a Buu volando, por curiosidad. Aterriza en las gradas.
@@ -19,6 +20,7 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 ESTADO: frente a la nave de Babidi.
 DIÁLOGOS CLAVE:
+- T189: "¡Genial! Ah, pero tengo hasta la medianoche nomás. Estoy muerto, ¿sabes? Me dieron un día de permiso." / "¡Vamos ya! ¡Conozco un lugar!"
 - T188: "¡Facundo! ¡Ahora sí te siento! ¡Eres bastante fuerte! Como Vegeta cuando llegó a la Tierra." / "¡Con un poco de entrenamiento podrías subir muchísimo!"
 - T187: "¡Hola! ¡Soy Goku!" / "Estás en Isla Papaya, en el Torneo de Artes Marciales. En la Tierra. ¿No sabías? ¡Jaja!" / "Oye... no siento nada de ti, pero frenaste a Vegeta. ¡Peleemos un rato!"
 - T182: "¡Jajaja! ¡Le gustan los dulces igual que a Goten!"

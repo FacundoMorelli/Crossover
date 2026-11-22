@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T189 · 14:12 · Facundo le dice que están hablando. Buu se calma y vuelve con Mr. Satán.
 - T186 · 14:08 · Recibe una caja de chocolates de Mr. Satán. Lo abraza y lo levanta del piso. Decide que Mr. Satán es su amigo.
 - T185 · 14:06 · Se sienta en el ring a esperar, impaciente, mirando a Mr. Satán.
 - T184 · 13:45-14:05 · Engancha el meñique con Facundo. Lo sigue volando hasta Isla Papaya, cantando. No mata a nadie en el camino. En el estadio ve a Mr. Satán.
@@ -13,6 +14,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T189: "Bueno... ¡pero que no moleste!"
 - T186: "¡Pelo de nube bueno! ¡Buu quiere a pelo de nube!"
 - T185: "¡Rápido! ¡Buu tiene hambre!"
 - T184: "¿Ese es? ¿El de los dulces? ¡Tiene el pelo como nube!"

@@ -1,8 +1,8 @@
 {
-  "turno": 188,
+  "turno": 189,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:11",
+  "hora": "14:12",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
@@ -772,6 +772,7 @@
     "tercer_mundo": "dragonball (tirada 0.778 → cap. ~448, Z 254)",
     "momento_del_canon_dragonball": "Saga Majin Buu: Babidi. Año 774, día del 25.º Torneo. Spopovich y Yamu robaron la energía de Gohan; el grupo (Goku, Vegeta, Gohan, Krilin, Piccolo, Shin, Kibito) llegó a la nave de Babidi; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave (Pui Pui, Yakon, Dabura vs Gohan), Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, muerte de Kibito, autodestrucción de Vegeta (PUNTO DE QUIEBRE DE LA MISIÓN).",
     "buu": "Con Babidi muerto, Buu no tiene amo ni amenaza de resello. Es libre y caprichoso. Le encantan los dulces. Si se aburre o se enoja, destruye. La marca M de Vegeta se apaga (Vegeta vuelve a ser él mismo). Dabura queda libre del control.",
-    "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu."
+    "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
+    "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón."
   }
 }

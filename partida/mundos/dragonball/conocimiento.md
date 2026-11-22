@@ -12,4 +12,5 @@
 ## INFORMACIÓN QUE CIRCULÓ
 (nada)
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Goku está muerto, con permiso hasta la medianoche: Goku se lo dijo (T189).
 - Está en la Tierra, Isla Papaya, 25.º Torneo: Goku se lo dijo (T187).
