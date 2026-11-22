@@ -1,13 +1,13 @@
 {
-  "turno": 54,
+  "turno": 55,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
-  "hora": "05:41",
+  "hora": "05:58",
   "edad": 18,
-  "nivel": 3,
-  "exp": 4100,
-  "exp_siguiente_nivel": 4500,
-  "fragmentos": 303,
+  "nivel": 5,
+  "exp": 9100,
+  "exp_siguiente_nivel": 10000,
+  "fragmentos": 423,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -15,16 +15,16 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 10,
+  "puntos_de_stat_sin_asignar": 25,
   "stats": {
-    "fuerza": 36,
-    "velocidad": 39,
-    "resistencia": 35,
-    "tecnica": 38,
-    "percepcion": 37,
-    "voluntad": 37,
-    "energia": 38,
-    "control": 37
+    "fuerza": 40,
+    "velocidad": 43,
+    "resistencia": 39,
+    "tecnica": 42,
+    "percepcion": 41,
+    "voluntad": 41,
+    "energia": 42,
+    "control": 41
   },
   "energia_actual_pct": 72,
   "eclipse": {
@@ -182,7 +182,8 @@
   },
   "habilidades_del_sistema": [
     "Velo",
-    "Lengua de los mundos"
+    "Lengua de los mundos",
+    "Recuerdo"
   ],
   "estilos_desbloqueados": [
     {
@@ -297,7 +298,9 @@
     "mundos_visitados": [
       "jujutsu"
     ],
-    "mundos_completados": [],
+    "mundos_completados": [
+      "jujutsu"
+    ],
     "viaje_libre": false,
     "mision_de_mundo_actual": {
       "mundo": "jujutsu",
@@ -305,14 +308,15 @@
       "recompensa": "5.000 EXP · 120 Fragmentos · la Puerta",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa"
+      "estado": "cumplida (T55, 01/11/2018 05:58)"
     },
     "relojes": {
       "jujutsu": {
         "llegada": "31/10/2018 23:14",
         "dias_transcurridos": 0
       }
-    }
+    },
+    "puerta_abierta": true
   },
   "apodos": {},
   "tienda": {
@@ -342,6 +346,12 @@
       "extrema": {
         "Desbloquear antes la forma superior de un Don de Mundo": 9000,
         "Segunda oportunidad (anula una muerte, una sola vez)": 20000
+      },
+      "lote_nivel_5": {
+        "Marca extra permanente para la Manecilla Inversa (+1)": 250,
+        "Cristal de energía (recupera 50% al instante, guardable)": 60,
+        "Colirio del Eclipse (cura por completo el daño de ojos de una pelea)": 90,
+        "Técnica nueva para una copia (variante propia, a elección)": 1800
       }
     },
     "cosas_comunes": {
@@ -358,7 +368,7 @@
       "Gafas de visión de energía maldita (ver maldiciones sin poder propio)": 15,
       "Vendas de sellado (para envolver un objeto maldito)": 25
     },
-    "ultimo_hito_de_catalogo": 0
+    "ultimo_hito_de_catalogo": 5
   },
   "reglas_ampliadas": {
     "razas_se_copian": {

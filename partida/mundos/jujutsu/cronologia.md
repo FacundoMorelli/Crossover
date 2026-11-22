@@ -47,6 +47,7 @@
 - 23:57-23:58 · Nanami se desploma en la losa; Facundo y Yuji lo estabilizan. Despierta. Vivo.
 
 ## LO QUE PASÓ
+- 05:58 · Amanecer. Nanami lo ve desde la carpa médica. (CAMBIO: vivo.)
 - 02:00-05:40 · Madrugada en el puesto de mando. Yuki se va tras Kenjaku. Kioto se retira. Yuji llama a Yaga (viene 8:00). Choso se queda cerca de Yuji.
 - 23:22 · Sukuna expande Santuario Malévolo sin barrera contra Mahoraga (canon, sin cambios). Facundo lo presencia desde Miyamasu-zaka.
 - 23:25 · Sukuna destruye a Mahoraga con la flecha de fuego (canon). El dominio termina. Zona de ~200 m arrasada.

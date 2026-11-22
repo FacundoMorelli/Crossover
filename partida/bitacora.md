@@ -53,3 +53,4 @@ T51 · Jujutsu · 01:32 · Pide dónde quedarse. Yuji pedirá a Yaga un cuarto e
 T52 · Jujutsu · 01:36 · Shoko le cura los ojos. Pregunta por su técnica.
 T53 · Jujutsu · 01:37 · Agradece a Shoko. Ella le ofrece una camilla.
 T54 · Jujutsu · 05:41 · Duerme 4 h. Nanami despierto le pide abrir la lona para ver el amanecer.
+T55 · Jujutsu · 05:58 · Abre la lona: Nanami ve el amanecer. MISIÓN DE MUNDO CUMPLIDA. Puerta abierta. +5.000 EXP, +120 F. NIVEL 5. Recuerdo.

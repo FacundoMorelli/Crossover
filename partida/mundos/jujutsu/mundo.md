@@ -6,3 +6,5 @@ DON DE MUNDO: Técnica Maldita: Manecilla Inversa (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
 - T16-T20 · Mahito retenido por Facundo en el hall sur; Nanami llega al centro sin Mahito.
+- T55 · Nanami vive y ve el amanecer del 1/11/2018 (en el canon moría a manos de Mahito ≈00:12). MISIÓN DE MUNDO CUMPLIDA.
+- T34-T45 · Nobara conserva su ojo y no cae en Shibuya (en el canon quedaba fuera de juego hasta el cap. 267).

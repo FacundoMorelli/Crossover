@@ -13,3 +13,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 24 · Primera copia: Técnica de Proporción y Horas Extra, de Kento Nanami.
 - Turno 34 · Rompe la expansión de dominio de Mahito con un Destello Solar. Copia la Transfiguración Ociosa. Nivel 2.
 - Turno 35 · Mahito vencido junto a Yuji, Nobara y Todo. Copia el físico de Yuji y el Puño Divergente. Nivel 3.
+- Turno 55 · MISIÓN DE MUNDO CUMPLIDA: Nanami vio el amanecer. La Puerta se abre. Nivel 5. Habilidad: Recuerdo.
