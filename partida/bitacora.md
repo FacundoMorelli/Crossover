@@ -63,3 +63,4 @@ T61 · Jujutsu · 06:18 · Encuentran a Maki vendada en la segunda carpa. Rumor 
 T62 · Jujutsu · 06:20 · Se presenta a Maki. Ella lo desafía a un duelo cuando se recupere.
 T63 · Jujutsu · 08:04 · Acepta el duelo con Maki. Simula: llega Yaga y le pregunta para qué usa su poder.
 T64 · Jujutsu · 08:05 · Responde 'para proteger'. El oso de Yaga lo ataca. Misión de copia: Yaga.
+T65 · Jujutsu · 08:05 · Atrapa el oso sin lastimarlo. Yaga repite la pregunta.
