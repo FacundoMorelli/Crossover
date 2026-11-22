@@ -4,6 +4,7 @@ PODER VISTO POR FACUNDO: ki monstruoso y caótico; regeneración (Tasación)
 FÍSICO: rosado, gordo, antenas en la cabeza, capa violeta, cinturón con la M, pantalones blancos.
 PERSONALIDAD Y FORMA DE HABLAR: infantil, caprichoso, se habla en tercera persona ("¡Buu tiene hambre!").
 ENCUENTROS:
+- T229 · 14:04 · Facundo engancha el meñique y promete volver. Feliz.
 - T228 · 14:02 · Facundo le dice que se queda un tiempo y después se va. Triste; le extiende el meñique para que prometa volver a visitarlo.
 - T227 · 14:00 · Facundo le dice que podrá comer dulces con Mr. Satán y tener una vida normal. Feliz. Le cura los ojos con las manos. Pregunta si se queda a vivir con ellos.
 - T226 · 13:58 · Se despierta junto a la reja, sin vapor, confundido. Ve a Mr. Satán y a Bee.
@@ -28,6 +29,7 @@ ENCUENTROS:
 - T180 · 13:41 · Ve a Babidi morir; se pone contento ('¡Babidi malo muerto!'). Facundo le habla de dulces y le propone un trato. Buu, curioso.
 - T179 · 13:40 · Sale del capullo junto a la nave, despertado por la energía de la pelea de Goku y Vegeta.
 DIÁLOGOS CLAVE:
+- T229: "¡Prometido! ¡Si del gato no vuelve, Buu se enoja! ...Un poquito."
 - T228: "¿Se va? ...¿Lejos?" / "Entonces del gato promete que vuelve. ¡Meñique!"
 - T227: "¿Vida normal? ¿Con dulces? ¿TODOS los días?" / "¡Del gato está roto! ¡Buu arregla!" / "¿Del gato se queda a vivir con Buu y pelo de nube?"
 - T202: "¡Del gato bueno! ¡Del gato no es malo!" / "Pelo de fuego, la próxima juega bonito, ¿sí?"
