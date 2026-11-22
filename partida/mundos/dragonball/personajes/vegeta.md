@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: (T219) lo reconoce como rival de entrenamiento, a regañadientes. no se conocen.
 ENCUENTROS:
+- T239 · 08:05 · Facundo no cierra el Eclipse. Sale solo del tirón, paso a paso, a pura fuerza. Satisfecho, le pide que lo cierre.
 - T238 · 08:01-08:03 · Pelea contra la Cenit; lo lee mejor que anteayer. Facundo abre el Eclipse cerca de él: lo arrastra; se resiste al máximo a medio metro del punto. Se le rompe la armadura nueva.
 - T237 · 08:00 · Espera a Facundo en el cañón del norte con armadura nueva. Se transforma en SSJ2 y exige ver la técnica del punto negro.
 - T236 · 21:38 · Facundo le explica que era la parte mala de Buu y por qué no esperó. Acepta a regañadientes. Confirma la pelea de mañana; quiere ver la técnica que lo borró. Se va.
@@ -39,6 +40,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T239: "...Ahora sí. Ciérralo." / "Nadie me arrastra. Nadie."
 - T238: "¡NO LO CIERRES! ¡Si lo cierras, te mato!"
 - T237: "Llegas tarde." (no llega tarde) / "Muéstramelo. El punto negro. Úsalo contra mí."
 - T236: "¿Que me hubieras dejado? ¿A mí? ¿Me estás haciendo un favor, insecto?" / "...Tsk. Mañana. A la misma hora. Y quiero ver eso que lo borró."
