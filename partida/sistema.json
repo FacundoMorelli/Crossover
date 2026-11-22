@@ -1,13 +1,13 @@
 {
-  "turno": 181,
+  "turno": 182,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "13:42",
+  "hora": "13:43",
   "edad": 18,
   "nivel": 11,
   "exp": 31010,
   "exp_siguiente_nivel": 36000,
-  "fragmentos": 69,
+  "fragmentos": 65,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -706,7 +706,8 @@
       "Cuerda (30 m)": 1,
       "Mapa de la zona": 1,
       "Celular local con línea": 5,
-      "Gorra negra lisa": 1
+      "Gorra negra lisa": 1,
+      "Bolsa grande de golosinas variadas": 2
     },
     "stock_rotativo": {
       "Semilla del ermitaño (cura total y energía al 100%, un uso)": 120,
