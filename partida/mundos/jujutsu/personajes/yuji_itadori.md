@@ -7,6 +7,7 @@ FÍSICO: pelo rosado claro corto, cuerpo atlético, sudadera con capucha bajo el
 PERSONALIDAD Y FORMA DE HABLAR: alegre, directo, buena persona; ahora al borde del quiebre.
 RELACIÓN CON FACUNDO: gratitud; empieza a confiar. Culpa enorme por Shibuya.
 ENCUENTROS:
+- T34 · 00:12 · Reconoce el fogonazo y se cubre a tiempo. Ve a Mahito con el dominio roto.
 - T33 · 00:09-00:12 · Mahito en forma final lo supera; Yuji recibe cortes. Llega Todo. Pelean juntos. Mahito arma la señal de dominio.
 - T31 · 00:09 · Golpea a Mahito sincronizado con la Resonancia de Nobara.
 - T29 · 00:02-00:08 · Pelea contra Mahito mientras Facundo descansa. Lo golpea varias veces; Mahito crea un doble que huye hacia el oeste. Yuji grita al ver a Nobara.

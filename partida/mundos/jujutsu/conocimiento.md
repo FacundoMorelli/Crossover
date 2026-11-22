@@ -2,6 +2,7 @@
 Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUÉ SABE CADA UNO DE FACUNDO
+- Aoi Todo · T34 · lo vio por primera vez: el que cortó el dominio de Mahito con un fogonazo del ojo. No sabe su nombre.
 - Nobara Kugisaki · T30 · lo vio en persona: joven sentado en un bloque, de negro, pelo blanco y azul, ojo rojo con sangre seca, gato. Vio que Mahito salió despedido a un costado justo cuando iba a tocarla y que el aire hizo escarcha en línea desde ese joven. Supo su nombre, "Facundo", en T31 (él se lo dijo).
 - Yuji Itadori · T28 · Facundo le confirmó que él lo congeló, y le dijo que usar su técnica le daña la vista: puede quedar ciego minutos, o un día si la usa mucho.
 - Yuji Itadori · T23 · Nanami, al despertar, llamó a Facundo por su nombre delante de Yuji: ahora Yuji sabe que se llama Facundo y que Nanami lo conoce de la estación.
@@ -15,6 +16,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Mahito, Yuji, Todo, Nobara · T34 · vieron (o sufrieron) el Destello Solar que cortó la expansión de dominio de Mahito. Todo quedó encandilado unos segundos; Yuji alcanzó a cubrirse. Todo y Nobara notan que salió del ojo de Facundo.
 - Nobara Kugisaki · T30 · vio el efecto de la Marea Lunar (Mahito arrancado de su espalda y lanzado lejos; estela de escarcha desde Facundo).
 - Yuji y Mahito · T30 · vieron la Marea Lunar a 40 m.
 - Yuji Itadori · T27 · vio cómo el III del pecho de Mahito se encendía y Mahito volvía a quedar congelado al instante, sin que Facundo lo tocara. Entiende que los números de Facundo 'guardan' algo y que él los puede activar a distancia.

@@ -1,12 +1,12 @@
 {
-  "turno": 33,
+  "turno": 34,
   "mundo_actual": "jujutsu",
   "fecha_local": "01/11/2018",
   "hora": "00:12",
   "edad": 18,
-  "nivel": 1,
-  "exp": 700,
-  "exp_siguiente_nivel": 1000,
+  "nivel": 2,
+  "exp": 1500,
+  "exp_siguiente_nivel": 2500,
   "fragmentos": 3,
   "plata_local": {
     "jujutsu": {
@@ -15,20 +15,20 @@
       "cambio": "1 Fragmento = 11.000 yenes"
     }
   },
-  "puntos_de_stat_sin_asignar": 0,
+  "puntos_de_stat_sin_asignar": 5,
   "stats": {
-    "fuerza": 34,
-    "velocidad": 36,
-    "resistencia": 33,
-    "tecnica": 35,
-    "percepcion": 35,
-    "voluntad": 35,
-    "energia": 36,
-    "control": 35
+    "fuerza": 35,
+    "velocidad": 37,
+    "resistencia": 34,
+    "tecnica": 36,
+    "percepcion": 36,
+    "voluntad": 36,
+    "energia": 37,
+    "control": 36
   },
-  "energia_actual_pct": 41,
+  "energia_actual_pct": 33,
   "eclipse": {
-    "maestria": 34,
+    "maestria": 35,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -40,7 +40,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "ojo rojo arde; ojo azul nublado, distingue formas",
+  "ojos": "ojo rojo forzado: sangra mucho, ve todo rojo oscuro y borroso; ojo azul nublado, distingue formas",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -106,16 +106,25 @@
         "Dominio total e inmediato"
       ],
       "maestria": "dominio total"
+    },
+    {
+      "poder": "Transfiguración Ociosa",
+      "de": "Mahito",
+      "mundo": "jujutsu",
+      "cuando": "T34, 01/11/2018 00:12",
+      "incluye": [
+        "Percibe la forma del alma y la modifica al tocar con la palma; el cuerpo cambia como reflejo",
+        "Autotransfiguración: estirar, endurecer, afilar, inflar, dividir el propio cuerpo; regenerarse mientras el alma esté intacta",
+        "Isómero Polimórfico del Alma (guardar personas transfiguradas y liberarlas)",
+        "Multiplicidad del Alma y Repulsión Corporal",
+        "Forma final (Cuerpo Espiritual Instantáneo de Matanza Distorsionada)",
+        "Expansión de Dominio: Autoencarnación de la Perfección",
+        "Defensa del alma propia contra la técnica",
+        "Dominio total e inmediato; sin condiciones ni efectos secundarios"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
-    {
-      "poder": "Transfiguración Ociosa — Mahito",
-      "mundo": "jujutsu",
-      "mision": "Que Mahito sienta miedo de ti.",
-      "dificultad": "ALTA",
-      "emitida": "T14"
-    },
     {
       "poder": "Físico de Itadori y Puño Divergente — Yuji Itadori",
       "mundo": "jujutsu",

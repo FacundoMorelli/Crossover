@@ -11,3 +11,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 2 · Nombra sus espadas: Rift (roja, Sol) y Echo (azul, Luna). Primer corte en este mundo: un humano transfigurado.
 - Turno 23 · Con Yuji, salva a Nanami de morir desangrado junto a la losa. Le arrancó una manga al sobretodo para el torniquete.
 - Turno 24 · Primera copia: Técnica de Proporción y Horas Extra, de Kento Nanami.
+- Turno 34 · Rompe la expansión de dominio de Mahito con un Destello Solar. Copia la Transfiguración Ociosa. Nivel 2.
