@@ -310,3 +310,4 @@ T308 · Bleach · Las Noches · Delante de Rukia. ULTRA INSTINTO. Nnoitra ataca.
 T309 · Bleach · Las Noches · Quieto en Ultra Instinto: el arma de Nnoitra falla. (Corrección: copia de Goku = todo su poder, también etapas futuras.)
 T310 · Bleach · Las Noches · Un golpe: Nnoitra inconsciente. NIVEL 23. Tesla se interpone.
 T311 · Bleach · Las Noches · Última semilla a Chad: curado. Semillas: 0.
+T312 · Bleach · Las Noches · Se destransforma. Llega a la puerta de Orihime: Loly y Menoly la maltratan.

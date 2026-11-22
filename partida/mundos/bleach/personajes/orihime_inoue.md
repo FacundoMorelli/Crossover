@@ -9,3 +9,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo vio en la tele.
 ESTADO: rescatada por Urahara.
 - ESTADO (19/09): secuestrada por Ulquiorra (17/09), en Hueco Mundo. Facundo no lo sabe aún.
+- T312 · En su cuarto de la torre de Las Noches; Loly y Menoly la golpean (canon). Facundo llega a la puerta.

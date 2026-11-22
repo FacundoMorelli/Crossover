@@ -1,5 +1,5 @@
 {
-  "turno": 311,
+  "turno": 312,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
@@ -36,7 +36,7 @@
     "energia": 235,
     "control": 234
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 92,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
