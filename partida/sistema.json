@@ -1,13 +1,13 @@
 {
-  "turno": 179,
+  "turno": 180,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "13:40",
+  "hora": "13:41",
   "edad": 18,
   "nivel": 11,
-  "exp": 30610,
+  "exp": 31010,
   "exp_siguiente_nivel": 36000,
-  "fragmentos": 44,
+  "fragmentos": 69,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -36,7 +36,7 @@
     "energia": 203,
     "control": 202
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 82,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -78,7 +78,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 51,
+      "maestria": 52,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -587,6 +587,13 @@
       "turno": 169,
       "fragmentos": 150,
       "exp": 600
+    },
+    {
+      "mundo": "dragonball",
+      "quien": "Babidi (muerto de un tajo)",
+      "turno": 180,
+      "fragmentos": 25,
+      "exp": 400
     }
   ],
   "viaje": {
@@ -755,6 +762,7 @@
     "rukia_mision": "Rukia se quedó en la Sociedad de Almas para recuperarse del todo y reconciliarse con Byakuya. Volverá a Karakura con poderes completos con el grupo de avanzada de Hitsugaya (canon arco 4, ~agosto/septiembre) o antes si algo la llama. Entonces se cumple la misión.",
     "bleach_al_salir": "Si Facundo se va: Grimmjow ataca Karakura con su Fracción (canon, ~fin de agosto); el equipo de avanzada pelea; Rukia herida por Grimmjow (canon). Aizen, sin Hōgyoku, busca otro camino: investiga la Llave del Rey con 100.000 almas y fuerza un Hōgyoku artificial imperfecto; el ataque grande a Karakura se retrasa meses. Urahara vigila. Todos recuerdan a Facundo. Facundo cruzó la Puerta el 26/08 a las 22:30, solo, en un callejón detrás de la tienda.",
     "tercer_mundo": "dragonball (tirada 0.778 → cap. ~448, Z 254)",
-    "momento_del_canon_dragonball": "Saga Majin Buu: Babidi. Año 774, día del 25.º Torneo. Spopovich y Yamu robaron la energía de Gohan; el grupo (Goku, Vegeta, Gohan, Krilin, Piccolo, Shin, Kibito) llegó a la nave de Babidi; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave (Pui Pui, Yakon, Dabura vs Gohan), Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, muerte de Kibito, autodestrucción de Vegeta (PUNTO DE QUIEBRE DE LA MISIÓN)."
+    "momento_del_canon_dragonball": "Saga Majin Buu: Babidi. Año 774, día del 25.º Torneo. Spopovich y Yamu robaron la energía de Gohan; el grupo (Goku, Vegeta, Gohan, Krilin, Piccolo, Shin, Kibito) llegó a la nave de Babidi; Dabura acaba de petrificar a Krilin y Piccolo. Viene: niveles de la nave (Pui Pui, Yakon, Dabura vs Gohan), Majin Vegeta, Goku vs Vegeta SSJ2, despertar de Buu, muerte de Kibito, autodestrucción de Vegeta (PUNTO DE QUIEBRE DE LA MISIÓN).",
+    "buu": "Con Babidi muerto, Buu no tiene amo ni amenaza de resello. Es libre y caprichoso. Le encantan los dulces. Si se aburre o se enoja, destruye. La marca M de Vegeta se apaga (Vegeta vuelve a ser él mismo). Dabura queda libre del control."
   }
 }

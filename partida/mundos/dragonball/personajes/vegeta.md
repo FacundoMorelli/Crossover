@@ -19,4 +19,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
-ESTADO: Majin Vegeta (controlado por Babidi a medias, por voluntad propia). Flotando sobre la nave, a punto de ir al torneo a matar gente para forzar a Goku a pelear.
+ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En la zona rocosa con Goku.
