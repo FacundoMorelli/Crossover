@@ -1,8 +1,8 @@
 {
-  "turno": 147,
+  "turno": 148,
   "mundo_actual": "bleach",
   "fecha_local": "19 de julio (año del canon, ~2001)",
-  "hora": "Sociedad de Almas · 13:36",
+  "hora": "Sociedad de Almas · 23:10",
   "edad": 18,
   "nivel": 7,
   "exp": 16210,
@@ -31,7 +31,7 @@
     "energia": 47,
     "control": 46
   },
-  "energia_actual_pct": 82,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 41,
     "partes_desbloqueadas": [
@@ -149,6 +149,10 @@
     {
       "objeto": "Gorra negra lisa (puesta)",
       "origen": "tienda del Sistema, T142, 1 F"
+    },
+    {
+      "objeto": "Haori del 8.º Escuadrón con capucha (puesto)",
+      "origen": "regalo de Kyōraku, T148"
     }
   ],
   "copias": [

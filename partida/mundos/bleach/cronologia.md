@@ -21,6 +21,7 @@
 - Urahara y Yoruichi (gato) vigilan. La Sociedad de Almas busca a Rukia (perdió contacto). Aizen trama en el 5.º Escuadrón.
 
 ## LO QUE PASÓ
+- 19/07 tarde · Reunión de capitanes para juzgar a Gin por dejar escapar a los intrusos (canon), suspendida por otra alarma. Se menciona que un intruso podría estar adentro (Gin lo insinúa sin precisar). El grupo de Ichigo, en el Rukongai, va con Kūkaku Shiba (canon).
 - 19/07 · El grupo (con Facundo y Kase) sale del Dangai en el Rukongai Oeste, Junrinan. Ichigo corre a la Puerta Blanca; cae Jidanbō (canon cap. 71-72).
 - 18/07 21:30 · Urahara abre la Senkaimon en el sótano (canon cap. 70). Ichigo, Uryū, Chad, Orihime y Yoruichi listos.
 - 08-18/07 · Urahara reentrena a Ichigo: recupera poderes propios y Zangetsu (canon). Yoruichi entrena a Chad y Orihime. Facundo entrena con Yoruichi y dos veces con Urahara.
