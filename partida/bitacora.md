@@ -351,3 +351,4 @@ T349 · One Piece · Conomi · Té con Ito. Le cuenta de Arlong, Gosa, el espada
 T350 · One Piece · Conomi · Pregunta por otros piratas. Ito: carabela con cabeza de carnero en Arlong Park; bote en la costa norte. Mika vio a un chico de nariz larga en el mandarinal de Nojiko.
 T351 · One Piece · Conomi · Se despide de Ito y Mika con la mandarina. Sale al camino.
 T352 · One Piece · Conomi · Mandarinal de Nojiko: encuentra a Usopp, que le apunta con la resortera.
+T353 · One Piece · Conomi · Le dice a Usopp que pagó el tributo y pregunta por el otro. Usopp: Zoro, capturado; vinieron por Nami. Sale Nojiko.

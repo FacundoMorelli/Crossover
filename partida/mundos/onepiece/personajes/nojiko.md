@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T353 · Día 1 · mandarinal · Sale de la casa con un balde, ve a Facundo con Usopp. "¿Otro más? ¿Quién eres tú?"

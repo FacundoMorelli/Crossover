@@ -9,3 +9,4 @@
 - Kaneshiro y el de boca de pez · T348 · Facundo pagó también la deuda del viejo Ito y les dio 60.000 "por la molestia". Van a contarlo en Arlong Park ("Arlong-sama va a querer conocerte").
 - Viejo Ito y Mika · T348 · Facundo pagó lo que les faltaba. Saben que es forastero, que tiene un gato enorme y que llevaba mucho dinero.
 - Usopp · T352 · Vio a Facundo en el mandarinal. No sabe nada de él.
+- Usopp · T353 · Facundo le dijo que no es de Arlong, que pagó el tributo y que hasta hace un rato no sabía dónde estaba.
