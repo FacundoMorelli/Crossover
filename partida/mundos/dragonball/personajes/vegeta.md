@@ -7,6 +7,7 @@ FÍSICO: bajo, musculoso, pelo negro en llama hacia arriba, entradas, traje azul
 PERSONALIDAD Y FORMA DE HABLAR: orgulloso, arrogante, rival obsesionado con Goku; llama 'insectos' a los demás; ama a su familia sin decirlo.
 RELACIÓN CON FACUNDO: no se conocen.
 ENCUENTROS:
+- T193 · 14:41 · Ve a Goku transformarse en SSJ3 contra Facundo. Se queda helado; aprieta los puños.
 - T192 · 14:31 · Se pone de pie en la meseta al sentir la Forma Cenit.
 - T191 · 14:30 · Se sienta en una roca alta a mirar, de brazos cruzados.
 - T189 · 14:12 · Se suma al entrenamiento, de mala gana, para 'ver los trucos'.
@@ -20,6 +21,7 @@ ENCUENTROS:
 - T175 · 12:05-13:05 · (Facundo lo siente desde afuera con el ki) Mata a Pui Pui en el nivel 1. Más tarde deja que Babidi lo controle: su ki se vuelve oscuro. Revienta el techo de la nave y sale volando con una 'M' en la frente. Mira hacia el este, hacia el torneo.
 
 DIÁLOGOS CLAVE:
+- T193: "...Un tercer nivel." / "Kakarotto... y ese insecto lo obligó a sacarlo."
 - T192: "...¿Una transformación? ¿Un humano?"
 - T191: "Apúrense. No tengo todo el día."
 - T189: "Voy con ustedes. Quiero ver esos trucos de cerca."

@@ -1,12 +1,12 @@
 {
-  "turno": 192,
+  "turno": 193,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774 · día del 25.º Torneo de Artes Marciales",
-  "hora": "14:31",
+  "hora": "14:42",
   "edad": 18,
-  "nivel": 11,
-  "exp": 31010,
-  "exp_siguiente_nivel": 36000,
+  "nivel": 12,
+  "exp": 36010,
+  "exp_siguiente_nivel": 43000,
   "fragmentos": 65,
   "plata_local": {
     "jujutsu": {
@@ -25,20 +25,20 @@
       "cambio": "1 Fragmento = 10.000 zeni"
     }
   },
-  "puntos_de_stat_sin_asignar": 35,
+  "puntos_de_stat_sin_asignar": 40,
   "stats": {
-    "fuerza": 201,
-    "velocidad": 204,
-    "resistencia": 201,
-    "tecnica": 204,
-    "percepcion": 202,
-    "voluntad": 202,
-    "energia": 203,
-    "control": 202
+    "fuerza": 202,
+    "velocidad": 205,
+    "resistencia": 202,
+    "tecnica": 205,
+    "percepcion": 203,
+    "voluntad": 203,
+    "energia": 204,
+    "control": 203
   },
-  "energia_actual_pct": 76,
+  "energia_actual_pct": 8,
   "eclipse": {
-    "maestria": 41,
+    "maestria": 44,
     "partes_desbloqueadas": [
       "Sol",
       "Luna"
@@ -50,7 +50,7 @@
       "Escarcha Lunar"
     ]
   },
-  "ojos": "bien",
+  "ojos": "los dos ardiendo y sangrando; visión borrosa (forzados)",
   "dones_de_mundo": {
     "jujutsu": {
       "nombre": "Técnica Maldita: Manecilla Inversa",
@@ -78,7 +78,7 @@
       "nombre": "Zanpakutō: Sakaime (Línea Divisoria)",
       "tipo": "zanpakutō propia (Shikai y Bankai)",
       "forma_sellada": "katana de guarda cuadrada negra, empuñadura blanca, hoja con una línea fina plateada que la recorre a lo largo. Puede ser absorbida por Rift/Echo si el jugador quiere.",
-      "maestria": 52,
+      "maestria": 54,
       "shikai": {
         "comando": "Traza, Sakaime",
         "efecto": [
@@ -107,7 +107,7 @@
     "dragonball": {
       "nombre": "Forma Cenit",
       "tipo": "transformación de ki (nativa de Dragon Ball) + manejo del ki",
-      "maestria": 30,
+      "maestria": 36,
       "incluye_base": [
         "Manejo del ki de este mundo: volar (Bukūjutsu), sentir el ki ajeno, ráfagas y ondas de ki, ocultar el propio (además del Velo)"
       ],
@@ -365,6 +365,18 @@
         "Poder racial/de nacimiento copiado por la regla ampliada; Facundo no cambia de cuerpo",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Poder de Son Goku",
+      "de": "Son Goku",
+      "mundo": "dragonball",
+      "cuando": "T193, año 774, 14:41",
+      "incluye": [
+        "Super Saiyajin, Super Saiyajin 2 y Super Saiyajin 3 (y las formas que Goku alcanzaría: incluidas por la regla de etapas) — poder racial, sin la cola débil ni el Ozaru descontrolado",
+        "Kamehameha (todas sus variantes), Kaio-ken, Teletransportación (Shunkan Idō), Genkidama, Taiyōken",
+        "Instinto de combate saiyajin: se hace más fuerte después de cada pelea dura (zenkai), sin necesidad de casi morir",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -388,13 +400,6 @@
       "mision": "Que Kisuke Urahara te cuente, sin que se lo pidas, por qué se fue de la Sociedad de Almas.",
       "dificultad": "ALTA",
       "emitida": "T134"
-    },
-    {
-      "poder": "Poder de Son Goku (Super Saiyajin y todas sus formas, Kamehameha, Kaio-ken, Teletransportación, Genkidama, todo)",
-      "mundo": "dragonball",
-      "mision": "Pelear con Son Goku en serio, sin que ninguno de los dos se contenga.",
-      "dificultad": "MUY ALTA",
-      "emitida": "T187"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -778,10 +783,5 @@
     "buu": "Con Babidi muerto, Buu no tiene amo ni amenaza de resello. Es libre y caprichoso. Le encantan los dulces. Si se aburre o se enoja, destruye. La marca M de Vegeta se apaga (Vegeta vuelve a ser él mismo). Dabura queda libre del control.",
     "mision_db": "La misión se cumple cuando la amenaza de Majin Buu termine para siempre con Vegeta vivo: o el mal de Buu desaparece (Buu bueno estable, sin Buu malo), o se destruye al Buu malo si aparece. Riesgo canónico: si alguien lastima a Mr. Satán o a un ser querido de Buu, el enojo de Buu expulsa al Buu malo (vapor gris), que después absorbe al bueno y se vuelve Super Buu.",
     "goku_tiempo": "Goku tiene permiso hasta la medianoche de hoy; después vuelve al Otro Mundo (en el canon se quedaba por la crisis de Buu y después revivía con las esferas al final). Sin crisis, se iría esta noche, salvo que alguien use las esferas del dragón."
-  },
-  "forma_cenit_activa": {
-    "desde": "14:31",
-    "termina": "14:41",
-    "multiplicador": 3
   }
 }

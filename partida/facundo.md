@@ -27,3 +27,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 
 ### Dragon Ball
 - Turno 174 · Cruza la Puerta desde Karakura. Llega al año 774, cerca de la nave de Babidi. Don de Mundo: Forma Cenit.
+- Turno 193 · Pelea en serio con Goku: lo obliga a sacar el Super Saiyajin 3. Empate. Copia su poder. Nivel 12.
