@@ -5,8 +5,9 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: 15
 FÍSICO: pelo negro en punta, ojos azul oscuro, uniforme escolar.
 PERSONALIDAD Y FORMA DE HABLAR: serio, reservado, cortante, pragmático.
-RELACIÓN CON FACUNDO: acaba de verlo; desconfianza natural.
+RELACIÓN CON FACUNDO: desconfianza que se transforma en respeto pragmático.
 ENCUENTROS:
+- T73 · 11:34 · Facundo dice que si Gojo es tan fuerte, conviene tenerlo libre. Megumi está de acuerdo y menciona a Tengen-sama como quien podría saber de objetos sellados así.
 - T72 · 11:33 · Pregunta a Facundo por qué quiere saberlo.
 - T71 · 11:31 · Escucha el nombre Kenjaku. Nanami le habla.
 - T70 · 11:30 · Yuji le cuenta lo del dominio de Sukuna, Nanami, Mahito, el falso Geto. Megumi se culpa por invocar a Mahoraga.
@@ -18,6 +19,7 @@ ENCUENTROS:
 - T7 · 23:35 · Yuji corre hacia él. Respira débil.
 - T5 · 23:33 · zona arrasada · Facundo lo ve inconsciente sobre una losa (aún no se acercó).
 DIÁLOGOS CLAVE:
+- T73: "Es la respuesta más lógica que escuché hoy." / "Si alguien sabe algo de ese cubo, es Tengen-sama. Pero nadie habla con Tengen-sama."
 - T72: "¿Por qué preguntas?"
 - T71: "¿Kenjaku?"
 - T70: "Si yo no hubiera invocado a Mahoraga, Sukuna no habría tenido que expandir su dominio."

@@ -63,5 +63,6 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 (nada)
 
 ## LO QUE FACUNDO SABE (fuentes en el mundo)
+- Tengen: Megumi se lo mencionó como quien podría saber del Reino de la Prisión (T73).
 - Gojo sellado en el Reino de la Prisión (cubo) que Kenjaku se llevó: Nanami se lo dijo (T72); Facundo vio el cubo (T35-T40).
 - Sukuna en Yuji: lo vio (marcas desapareciendo, T5) y Yuji se lo confirmó (T47).
