@@ -296,3 +296,4 @@ T294 · Jujutsu · 01/02 18:00 · Tumba de Wasuke; días con todos; Todo. Desped
 T295 · Bleach · 19/09 21:30 · VIAJE LIBRE: vuelve a Bleach, 24 días después. Siente al grupo en la tienda de Urahara; Orihime no está.
 T296 · Bleach · 21:38 · Sótano de Urahara: Garganta abierta. Orihime en Hueco Mundo. '¿Vienes o no?'
 T297 · Bleach · Hueco Mundo · Cruza la Garganta con Ichigo, Uryū y Chad. Desierto, Las Noches. Una nena hollow perseguida.
+T298 · Bleach · Hueco Mundo · Atrapa a Nel. Era un juego con Pesche y Dondochakka.
