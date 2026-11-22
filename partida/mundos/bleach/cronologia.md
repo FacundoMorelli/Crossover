@@ -60,3 +60,4 @@
 - 19/09 noche · Ichigo, Uryū y Chad en la tienda de Urahara; Urahara está por abrir la Garganta hacia Hueco Mundo (canon).
 - 20/09 (Karakura) · (T300) Runuganga ataca; Rukia y Renji llegan a Hueco Mundo y lo destrozan (canon).
 - 20/09 · (T305) Rukia mata a Aaroniero en Las Noches (canon), herida grave. Facundo presente.
+- 20/09 · (T306) Nnoitra derriba a Chad (canon).

@@ -97,3 +97,5 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - DIÁLOGO T304: "No eres él." / "No vuelvas a usar su cara."
 - T305 · Vence a Aaroniero (canon): lo congela y le clava la espada. Herida grave en el costado (tridente). Cae de rodillas.
 - DIÁLOGO T305: "Kaien-dono... me enseñó que el corazón... está donde está el vínculo." / "Estoy... bien..." (no lo está)
+- T306 · Come la semilla del ermitaño: curada entera. Siente caer el reiatsu de Chad.
+- DIÁLOGO T306: "¿Qué... qué es esto? Ni la Cuarta División..." / "¡Sado!"

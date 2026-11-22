@@ -1,5 +1,5 @@
 {
-  "turno": 305,
+  "turno": 306,
   "mundo_actual": "bleach",
   "fecha_local": "19/09",
   "hora": "21:50 (Karakura)",
@@ -210,10 +210,6 @@
     {
       "objeto": "Tarjeta de Mr. Satán con el teléfono de su mansión",
       "origen": "dragonball, T190"
-    },
-    {
-      "objeto": "Semilla del ermitaño (1)",
-      "origen": "regalo de Goku, T194"
     },
     {
       "objeto": "Caramelo de Buu (envuelto en papel rosado)",
