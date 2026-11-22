@@ -19,3 +19,4 @@
 - Usopp (afuera) · T357 · Oyó los golpes de agua y los gritos; no vio nada.
 - Todos en Arlong Park · T358 · Vieron que Facundo nada y se para sobre el agua de mar aunque tiene una Fruta del Diablo. Desconcierto: lo explican como "una fruta del mar que lo deja nadar" o un truco. Rumor posible.
 - Todos en Arlong Park · T359 · Vieron a Facundo volar (ki). Creen que es parte de su Fruta del Diablo o una segunda rareza.
+- Todos en Arlong Park · T361 · Vieron a Facundo formar un arco de luz azul de la nada (Quincy). Lo atribuyen a "otra fruta" o a la misma fruta rara.
