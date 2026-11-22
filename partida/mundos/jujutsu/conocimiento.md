@@ -12,6 +12,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Yuji Itadori · T9 · Facundo le pidió que se quede con Megumi y se fue a buscar a Nanami a la estación.
 
 ## QUIÉN VIO QUÉ PODERES
+- Mahito · T20 · sintió desde adentro del hielo que Facundo lo tocó y le dejó una marca (número II, brillante, visible con energía maldita). No sabe qué hace.
 - Mahito · T19 · Facundo lo congeló entero con Escarcha Lunar (estatua de hielo). Mahito está consciente adentro.
 - Mahito · T18 · Escarcha Lunar: la espada azul congeló su brazo-puño hasta el hombro. Tuvo que arrancárselo y regenerarlo.
 - Mahito y Kento Nanami · T15 · vieron la Marea Lunar: una fuerza invisible que salió del ojo azul de Facundo y empujó a Mahito contra la pared, con escarcha en el aire. Ambos notan que Facundo usa los dos ojos para dos cosas distintas.

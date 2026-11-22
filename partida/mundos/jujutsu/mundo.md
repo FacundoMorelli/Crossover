@@ -5,4 +5,4 @@ ESTADO: Shibuya cerrada por velos de Kenjaku. Gojo sellado en el Reino de la Pri
 DON DE MUNDO: Técnica Maldita: Manecilla Inversa (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
-(ninguno todavía)
+- T16-T20 · Mahito retenido por Facundo en el hall sur; Nanami llega al centro sin Mahito.

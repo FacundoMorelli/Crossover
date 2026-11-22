@@ -37,7 +37,7 @@
 - Inumaki escolta civiles. Kioto se acerca a Shibuya.
 
 ## LO QUE CAMBIÓ
-(nada todavía)
+- 23:49-23:55 · Facundo retiene a Mahito en el hall sur de la estación. Nanami sube solo hacia Yuji y Megumi sin Mahito detrás. (En el canon, Mahito lo mataba frente a Yuji ≈00:12.)
 
 ## LO QUE PASÓ
 - 23:22 · Sukuna expande Santuario Malévolo sin barrera contra Mahoraga (canon, sin cambios). Facundo lo presencia desde Miyamasu-zaka.
