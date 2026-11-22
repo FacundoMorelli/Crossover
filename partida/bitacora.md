@@ -430,3 +430,4 @@ T428 · Shingeki · Shiganshina · Va a buscar a Eren. Mikasa quiere ir; Armin a
 T429 · Shingeki · Shiganshina · Lleva a Eren con Zeke. Primeras palabras entre hermanos.
 T430 · Shingeki · Shiganshina · Zeke explica los dos planes; Eren rechaza la eutanasia y mira a Facundo.
 T431 · Shingeki · Shiganshina · Compra y saca una cámara de fotos y video (15 F).
+T432 · Shingeki · Shiganshina · Plan de grabar la vida en las murallas. Zeke: "Muéstrame."
