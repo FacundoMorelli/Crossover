@@ -10,3 +10,4 @@ ENCUENTROS:
 - T623 · Reclama el galeón hundido.
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: activo
+- T624 · Facundo le saca el galeón de las manos con el mar. "¡¿Qué fue ese mar que se mueve solo?!"

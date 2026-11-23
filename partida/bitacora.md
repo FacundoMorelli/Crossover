@@ -622,3 +622,4 @@ T620 · One Piece · Going Merry · Broma con Robin: "Conocerte fue un accidente
 T621 · One Piece · Going Merry · Próxima isla: Jaya (Mock Town), según Robin.
 T622 · One Piece · mar · Un galeón cae del cielo. El Log Pose apunta hacia arriba.
 T623 · One Piece · mar · Luffy, Sanji y Zoro bajan al galeón. Llega Masira; la manguera se enreda.
+T624 · One Piece · mar · Saca a Luffy, Sanji y Zoro con la Shio Shio. Traen un mapa de Skypiea. Masira grita.

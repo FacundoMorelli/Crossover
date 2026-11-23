@@ -52,3 +52,4 @@
 - 10:05 día 24 · (T612) Despedida de Vivi desde el acantilado. Brazos izquierdos en alto (sin marca: no hubo Mr. 2 a bordo).
 - Día 25 14:10 · (T622) Un galeón antiguo cae del cielo junto al Going Merry; el Log Pose apunta hacia arriba (canon, cap. ~218).
 - 14:20-15:30 · (T623) Exploración del galeón hundido (canon). Llega Masira y su barco de salvamento.
+- 15:31 · (T624) Facundo saca a los buzos con la Shio Shio. Mapa de Skypiea (canon).

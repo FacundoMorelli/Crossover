@@ -1,8 +1,8 @@
 {
-  "turno": 623,
+  "turno": 624,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 25 (Grand Line)",
-  "hora": "15:30",
+  "hora": "15:31",
   "edad": 18,
   "nivel": 26,
   "exp": 202640,
@@ -181,7 +181,7 @@
     "onepiece": {
       "nombre": "Shio Shio no Mi (Fruta Marea Marea)",
       "tipo": "Fruta del Diablo, Paramecia (Don de Mundo)",
-      "maestria": 31,
+      "maestria": 32,
       "reglas": [
         "Controla el agua de mar: corrientes, olas, remolinos, mareas. Puede pararse y caminar sobre el mar y moverse bajo el agua como en tierra.",
         "Alcance en maestría 30: unos 300 m alrededor; olas de hasta 10 m. Crece con la maestría (+alcance, +volumen, +fuerza).",
