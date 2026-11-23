@@ -18,3 +18,4 @@ ENCUENTROS:
 - T502 · Escucha a Zeke. "Es rendirse." Se acerca y levanta la mano hacia el hombro de Zeke.
 - T503 · Facundo le agarra la muñeca. "¿Qué haces?"
 - T504 · Entiende lo del Coordenado y Dina Fritz. "Fue por ella... por eso funcionó."
+- T506 · "Yo también voy."

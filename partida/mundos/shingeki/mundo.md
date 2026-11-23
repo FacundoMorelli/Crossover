@@ -13,3 +13,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T445 · Zackly declara a Facundo aliado de la Corona, libre y bajo protección de la reina. Erwin preparará un plan diplomático.
 
 - T489 · Facundo vuelve a Paradis, Día 5 tras Shiganshina, 21:07.
+- T506 · Facundo acepta ser emisario de Paradis ante Marley (cambio enorme: en el canon, Paradis no contacta al continente hasta años después y por la vía de los voluntarios de Yelena).

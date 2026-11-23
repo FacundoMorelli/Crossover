@@ -504,3 +504,4 @@ T502 · Shingeki · Trost, sala del fondo · Zeke y Eren hablan de Grisha, Ksave
 T503 · Shingeki · Trost, sala del fondo · Le agarra la muñeca a Eren. Zeke deduce que Pieck habló.
 T504 · Shingeki · Trost, sala del fondo · Explica la sangre real. Eren entiende lo del titán sonriente (Dina). Zeke ofrece cumplir su parte.
 T505 · Shingeki · Trost, sala del fondo · Simula: Zeke dicta 6 h todo lo de Marley. Erwin pregunta si Facundo cruzaría el mar como emisario.
+T506 · Shingeki · Trost, sala del fondo · Acepta ser emisario. Zeke se ofrece de guía; Levi se niega; Eren quiere ir.

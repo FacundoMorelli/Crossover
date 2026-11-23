@@ -25,3 +25,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T503 · Facundo frena la mano de Eren. "Pieck siempre fue la más lista." "No iba a hacerle nada. Hoy no."
 - T504 · Confirma lo de Dina. "Igual cumplo mi parte. Traigan papel."
 - T505 · Dicta 6 horas. Cumple. "Me guardo una cosa para después. Para cuando confíen un poco más."
+- T506 · Se ofrece de guía: "Nadie conoce Liberio mejor que yo."
