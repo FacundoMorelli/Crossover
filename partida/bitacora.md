@@ -618,3 +618,4 @@ T616 · One Piece · Going Merry · "A otro mundo" (sarcasmo). Robin: "tráeme u
 T617 · One Piece · Going Merry · Le regala a Robin un libro de Paradis. No puede leerlo; queda fascinada.
 T618 · One Piece · Going Merry · Ofrece enseñarle a Robin la letra A. Ella le pasa una pluma.
 T619 · One Piece · Going Merry · Le enseña la A a Robin. Ella deduce el alfabeto. "El mejor regalo en veinte años."
+T620 · One Piece · Going Merry · Broma con Robin: "Conocerte fue un accidente. Todavía no decidí si de los buenos."

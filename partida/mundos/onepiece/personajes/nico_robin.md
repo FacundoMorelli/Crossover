@@ -27,3 +27,4 @@ ESTADO: activa
 - T617 · Recibe el libro de Paradis. "No conozco esta escritura. Y conozco casi todas." "No. No me lo digas." Lo aprieta contra el pecho. RELACIÓN: interés claro en Facundo.
 - T618 · "Una letra. Con una me alcanza para empezar." Le pasa una pluma.
 - T619 · Aprende la A; deduce que es alfabética. Mano sobre la de Facundo un segundo: "Es el mejor regalo que me hicieron en veinte años."
+- T620 · "Conocerte no fue un regalo. Fue un accidente. Todavía no decidí si de los buenos."
