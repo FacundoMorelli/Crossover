@@ -13,3 +13,4 @@ ESTADO: activo
 - T628 · "¡Zehahaha! ¡Los sueños de la gente nunca terminan! ¡La isla del cielo existe!"
 - T629 · "Un pirata que todavía cree en los sueños." No da su nombre. Paga lo de Luffy. "Nos vamos a volver a ver."
 - T644 · A lo lejos en una balsa con cuatro más: "¡Zehahaha! ¡Sombrero de Paja!"
+- T645 · Flecha de advertencia le roza la oreja. Se ríe más fuerte. Van Augur le apunta a Facundo.
