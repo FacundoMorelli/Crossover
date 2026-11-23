@@ -70,3 +70,4 @@
 - 13:35-14:15 · (T650) Entran a Skypiea sin pagar (ilegales de categoría 5, canon). Isla del Ángel; Conis.
 - 15:40 · (T652) Los Boinas Blancas (McKinley) llegan a la casa de Conis a cobrar el delito de entrada ilegal (canon).
 - 15:50 · (T653) Los Boinas Blancas noqueados: criminales de categoría 2. Conis confiesa. El langostino arrastra el Merry con Chopper hacia el altar del Upper Yard (canon, con variantes).
+- 15:53 · (T654) El Merry queda en el Altar del Sacrificio del Upper Yard con Chopper y Facundo.

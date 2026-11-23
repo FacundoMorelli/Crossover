@@ -652,3 +652,4 @@ T650 · One Piece · Skypiea · Pasan sin pagar (ilegales). El langostino los su
 T651 · One Piece · Isla del Ángel · Conis y Pagaya los invitan a comer.
 T652 · One Piece · casa de Conis · Comida; Pagaya explica diales, Upper Yard y Enel. Llegan los Boinas Blancas a cobrar.
 T653 · One Piece · Isla del Ángel · Zoro y Sanji tiran a los Boinas Blancas. Conis confiesa. El langostino se lleva el Merry con Chopper al Upper Yard.
+T654 · One Piece · Upper Yard · Con Chopper en el Merry sobre el altar. Siente a los sacerdotes y al dios.

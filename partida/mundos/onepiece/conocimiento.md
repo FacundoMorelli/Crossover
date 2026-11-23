@@ -103,3 +103,5 @@
 - Amazon → Enel (por el registro; Enel escucha con el Mantra) · T650 · Ocho ilegales y un gato entraron sin pagar.
 - Tripulación · T652 · Por Pagaya: diales; Upper Yard, tierra sagrada del dios Enel y sus cuatro sacerdotes.
 - Boinas Blancas (McKinley) · T652 · Saben del registro de Amazon: ocho ilegales y un gato.
+- Enel · T654 · Con el Mantra escucha que llegó el barco al altar y que hay alguien más que no estaba (Facundo). No puede leerle la mente (Velo).
+- Facundo · T654 · Siente cuatro kis fuertes en la selva y uno enorme, eléctrico, en lo alto del árbol más grande.
