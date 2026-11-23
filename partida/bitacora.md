@@ -481,3 +481,4 @@ T479 · Black Clover · Base, explanada · Pelea con Luck en Ultra Instinto. Esq
 T480 · Black Clover · Base, explanada · Esquiva un minuto entero; palma contenida: Luck vuela 20 m y se levanta riéndose.
 T481 · Black Clover · Base, explanada · Luck lo alcanza una vez; Facundo devuelve más rápido. Luck cae. Copia Magia de Rayo.
 T482 · Black Clover · Base · Simula: fiesta, noche, amanecer. Yami lo espera para el duelo.
+T483 · Black Clover · Base, explanada · Duelo con Yami, conteniéndose. Yami lo nota y carga el Corte de la Luna Negra.

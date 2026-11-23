@@ -1,8 +1,8 @@
 {
-  "turno": 482,
+  "turno": 483,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · dos días después de la luna llena",
-  "hora": "06:05",
+  "hora": "06:08",
   "edad": 18,
   "nivel": 26,
   "exp": 198040,
@@ -51,7 +51,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 99,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

@@ -22,3 +22,4 @@
 - 18:40 · (T481) Facundo gana el duelo con Luck. Luck tirado, riéndose.
 - Noche · (T482) Fiesta en la base por las cero estrellas negras (canon). Facundo duerme en el salón con Kase.
 - 06:05 · (T482) Yami espera a Facundo en la explanada.
+- 06:08 · (T483) Duelo Facundo-Yami en la explanada.
