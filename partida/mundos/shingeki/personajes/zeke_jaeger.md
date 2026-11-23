@@ -29,3 +29,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T509 · Se ríe del plan de volar; aconseja bajar en una costa sin vigilancia al sur de Liberio.
 - T518 · Explica lo de los brazaletes y la falta de dinero. "¿Entramos como eldianos o como marleyanos? Tú decides, emisario."
 - T528 · Identifica el lugar: el centro de investigación de titanes del puerto norte. "Si está viva, está ahí. Y no por mucho."
+- T531 · Le cuenta a Eren su infancia en las calles de la zona (la pelota, el viejo de la panadería, la escuela de guerreros).

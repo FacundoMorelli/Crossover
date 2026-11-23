@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T515 · De civil, encadenado por la muñeca a Zeke. "¿Y ahora qué? ¿Nos agarramos de tu cola?"
 - T529 · "Si lo haces, que no quede rastro. Uno solo entra. Los demás, quietos."
 - T530 · Aprueba el plan de Ymir: "Tch. Eso sirve."
+- T531 · Limpia la casa entera arrastrando a Zeke por la cadena. "Por lo menos ahora se puede respirar."
