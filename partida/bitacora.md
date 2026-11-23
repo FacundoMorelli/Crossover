@@ -641,3 +641,4 @@ T639 · One Piece · playa de Cricket · Sale a tomar aire. Desembarca Bellamy c
 T640 · One Piece · playa de Cricket · Ultra Instinto Dominado. Saluda. Bellamy lo ataca con Spring Sniper.
 T641 · One Piece · playa de Cricket · Bellamy le pega y rebota contra las rocas. Copia Bane Bane.
 T642 · One Piece · casa de Cricket · Bellamy huye. Cricket le muestra su oro.
+T643 · One Piece · playa de Cricket · Simula: Merry Modelo Volador; vuelven con el pájaro del sur.
