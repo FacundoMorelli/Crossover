@@ -55,3 +55,4 @@
 - Levi · T502 · Oyó toda la conversación desde la puerta.
 - Zeke · T503 · Deduce que Pieck le advirtió a Facundo (oyó abrirse la tercera celda a la mañana). Razonable.
 - Eren, Levi, Mikasa · T503 · Ven a Facundo frenar el contacto Eren-Zeke. Zeke dice "no iba a hacerle nada. Hoy no." Eren no sabe por qué el contacto importa.
+- Eren, Mikasa, Levi · T504 · Por Facundo: Zeke tiene sangre real; tocando al portador del Fundador puede usar su poder. Eren deduce y Zeke confirma: el titán sonriente era Dina Fritz, madre de Zeke, de sangre real; por eso funcionó el Coordenado cuando Eren la tocó. (Erwin y Hange afuera: oyen parte por la puerta abierta.)
