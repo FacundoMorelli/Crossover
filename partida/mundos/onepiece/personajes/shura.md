@@ -10,3 +10,4 @@ ENCUENTROS:
 - T655 · Llega al altar en Fuzaki.
 ESTADO: activo
 - T656 · "Los ilegales no salen vivos." "No te escucho por dentro." Carga contra Chopper.
+- T657 · Facundo le para la lanza con la mano. Suelta la lanza y se aleja: "¡Mi Mantra no te ve venir!"

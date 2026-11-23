@@ -1,5 +1,5 @@
 {
-  "turno": 656,
+  "turno": 657,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 27 (Grand Line, Jaya)",
   "hora": "17:11",
@@ -408,6 +408,11 @@
     {
       "objeto": "Silbato de Gan Fall",
       "detalle": "Si lo tocan en el Mar Blanco, viene el Caballero del Cielo (T647). Lo tiene Nami.",
+      "mundo": "onepiece"
+    },
+    {
+      "objeto": "Lanza de fuego de Shura",
+      "detalle": "Lanza con dial de fuego en la punta, que Shura soltó en T657.",
       "mundo": "onepiece"
     }
   ],
@@ -932,6 +937,13 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
+    },
+    {
+      "poder": "Shura: Mantra (Haki de observación)",
+      "mundo": "onepiece",
+      "mision": "Que Shura intente leer tu siguiente movimiento con el Mantra y falle tres veces seguidas.",
+      "dificultad": "BAJA",
+      "emitida": "T657"
     }
   ],
   "misiones_de_copia_rechazadas": [],

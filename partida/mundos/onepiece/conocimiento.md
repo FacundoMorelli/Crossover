@@ -106,3 +106,4 @@
 - Enel · T654 · Con el Mantra escucha que llegó el barco al altar y que hay alguien más que no estaba (Facundo). No puede leerle la mente (Velo).
 - Facundo · T654 · Siente cuatro kis fuertes en la selva y uno enorme, eléctrico, en lo alto del árbol más grande.
 - Shura · T656 · Con el Mantra no puede "escuchar" a Facundo (Velo). Lo nota y lo dice.
+- Shura → Enel (Mantra de Enel lo escucha) · T657 · Facundo detuvo su lanza de fuego con la mano desnuda; el Mantra no lo anticipa.
