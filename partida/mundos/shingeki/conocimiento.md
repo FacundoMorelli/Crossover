@@ -108,3 +108,5 @@
 - Vigilantes de Muller · T557 · Ven la casa del 14; nadie sale en todo el día. A las 20:30 llega un coche negro del ejército (Brandt).
 - Vigilante de Muller (gorra) · T558 · Ve salir de la casa del 14 a dos hombres (uno alto, de pelo de dos colores, con un gato; otro joven, de pelo oscuro) y subir al coche del ejército. Anota la hora. Confirma "más personas".
 - Willy Tybur · T559 · Por Magath: Facundo es emisario de Paradis, aparece sin puertas, trajo piedra de hielo. Conoce a Facundo y a "un joven" (Eren, sin apellido).
+- Willy, Magath · T560 · Por Facundo: Paradis quiere vivir libre, sin guerra, viajar y conocer el mundo.
+- Eren, Facundo · T560 · Por Willy: el mundo teme el Retumbar (titanes colosales dentro de las murallas, que el Fundador puede despertar).
