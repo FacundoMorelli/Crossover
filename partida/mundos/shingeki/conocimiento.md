@@ -92,3 +92,4 @@
 - Historia, Ymir · T538 · Ven a Facundo romper grilletes de hierro apretando con la mano y sacar comida de su sobretodo.
 - Ymir · T539 · Nombre: Facundo, amigo de Historia; Historia le pidió traerla.
 - Levi, Eren, Mikasa, Zeke · T540 · Por Facundo: Ymir está viva y a salvo con Historia en Mitras.
+- Magath · T543 · Deduce que Facundo tiene que ver con la desaparición de Ymir (razonable: aparición sin puertas ayer, celda vacía sin puertas hoy).

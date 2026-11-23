@@ -1,16 +1,16 @@
-TURNO: 542 | MUNDO: Shingeki no Kyojin | Año 850 · Día 8 tras Shiganshina | HORA: 06:25 | Lugar: Liberio, casa segura, calle del Reloj 14
+TURNO: 543 | MUNDO: Shingeki no Kyojin | Año 850 · Día 8 tras Shiganshina | HORA: 06:26 | Lugar: Liberio, cuartel general, despacho de Magath
 MOMENTO DEL CANON: Post-Shiganshina (cap. ~89-90 alterado). Erwin vivo; los cuatro cambiantes de Marley presos (Reiner, Bertholdt, Zeke, Pieck). La Legión en Mitras; plan diplomático en preparación. Ver mundos/shingeki/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 199.640/215.000 · 173.739 Fragmentos · 140 puntos sin asignar · 0 monedas de la Corona · 30 monedas de Marley · Energía 100% · Ojos: bien · STATS ~240 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30, Grimorio del Firmamento 30)
 PARA ESTE MUNDO: aliado de la Corona, libre y bajo protección de la reina (T445). La Legión vio la pared, la teletransportación, el pelo azul. Rumor fuerte en el ejército.
 QUIÉN SABE QUÉ: ver mundos/shingeki/conocimiento.md. Zeke y Eren saben del plan de eutanasia; Erwin informó todo a Historia, Zackly, Nile, Pixis. La guardia del palacio tiene orden de no detenerlo.
 MISIÓN DE MUNDO: CUMPLIDA (T413). 6 completados. VIAJE LIBRE.
 ÚLTIMOS 5 TURNOS:
+- T543: se teletransporta al pasillo vacío frente al despacho y golpea. Magath abre de un tirón, lo ve, lo mete adentro y cierra con llave. "Por lo menos esta vez golpeó." Se sirve café sin ofrecer. "Supongo que viene a contarme algo de una celda vacía en el puerto norte."
 - T542: simula. 02:10: sirena lejana desde el puerto norte; patrullas y camiones por la ciudad toda la madrugada; nadie se acerca a la calle del Reloj. 03:00: Facundo siente a Magath llegar al cuartel general y reunirse con varios oficiales. 06:25: los oficiales se van; Magath solo en su despacho, inquieto, caminando. Eren y Mikasa despiertos; Levi con Zeke.
 - T541: "Se lo digo yo. Voy al despacho de Magath mañana temprano." Zeke aprueba: Magath llega a las seis y media, antes que nadie. Levi: "Y esta vez golpea la puerta." Todos se van a dormir; Levi hace la primera guardia.
 - T540: cuenta que Ymir está a salvo con Historia. Mikasa suelta el aire; Eren sonríe por primera vez en el viaje. Levi: "Tch. Bien." Zeke: la ronda de las dos de la mañana va a encontrar la celda vacía; Porco se queda sin titán; Marley acaba de perder su quinto titán en una semana. Magath va a sumar dos más dos. Pregunta si Facundo se lo va a decir a Magath o lo va a dejar adivinar.
 - T539: "Soy Facundo, amigo de Historia; me pidió que te trajera si estabas viva. Por suerte llegamos a tiempo. Ahora me tengo que ir... Las dejo solas, chicas. Y gracias por decirme lindo, Ymir." Se va sin esperar (Ymir alcanza a decir "¡Yo no dije—!"; Historia se ríe). Vuelve a la casa segura con Levi. Levi, Eren, Mikasa y Zeke esperando en el tercer piso. Levi: "¿Y?"
-- T538: le rompe los grilletes apretando con la mano (el hierro se deshace como pan). Saca agua y comida (tienda, 1 Fragmento): "Come." Ymir come con las manos, sin modales. Historia le sostiene la botella. Ymir, con la boca llena, le pregunta a Facundo quién es y por qué lo hizo.
-PRESENTES EN ESCENA: Levi, Zeke (cadena), Eren, Mikasa (casa segura, tercer piso). Kase en el hombro.
+PRESENTES EN ESCENA: Magath (solo, en su despacho, ojeras). Kase en el hombro. (Equipo en la casa segura.)
 VÍNCULOS ACTIVOS (Shingeki): aliado de la Legión (Erwin, Levi, Hange, Moblit, la 104.ª). Historia le agradeció.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
