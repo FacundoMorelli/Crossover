@@ -110,3 +110,4 @@
 - Shura, Chopper · T658 · Facundo aparece tres veces alrededor de Shura sin que el Mantra lo anticipe.
 - Facundo · T659 · Con el Haki de observación oye a Enel decir "uno que no se escucha... interesante".
 - Chopper · T659 · Facundo dice que es "algo así" como un monstruo.
+- Tripulación · T661 · Por Gan Fall: Enel lo derrocó hace seis años; el Upper Yard era de los shandianos; Wyper es su guerrero; posible ataque mañana.
