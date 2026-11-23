@@ -33,3 +33,4 @@
 - Hange, Moblit · T440 · Facundo les dijo que el pelo azul multiplica su poder por dos mil.
 - Hange, Moblit · T442 · El gato se llama Kase. Es "un gato normal" que está con Facundo hace mucho.
 - Erwin → Historia, Zackly, Nile, Pixis (T443) · Informe completo: sótano, Marley, los cuatro prisioneros, el mar, y lo que hizo Facundo (pared, teletransportación, pelo azul, que "viene del otro lado del mar, más o menos"). Motivo: deber.
+- Historia, Zackly, Nile, Pixis, Erwin, Levi, Hange · T445 · Facundo dice que vino con una misión que no detalla, que no los perjudica y que quiere ayudar.

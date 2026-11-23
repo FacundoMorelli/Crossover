@@ -443,3 +443,4 @@ T441 · Shingeki · Trost · "Es un gato normal, somos el uno para el otro." Han
 T442 · Shingeki · Trost · Le dice el nombre de Kase a Hange. Hange se va. Noche.
 T443 · Shingeki · Mitras · Viaje de 4 días; audiencia ante la reina Historia y Zackly. Zackly pregunta qué quiere.
 T444 · Shingeki · Mitras · "Nada y nada." Historia pregunta por qué lo hizo.
+T445 · Shingeki · Mitras · Dice que vino con una misión. Zackly lo declara aliado de la Corona. Historia le agradece.

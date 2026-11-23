@@ -7,3 +7,4 @@ ENCUENTROS:
 - T443 · audiencia en Mitras con Facundo.
 QUÉ SABE DE FACUNDO: el informe de Erwin (Shiganshina, la pared, la teletransportación, los cuatro prisioneros, el mar).
 ESTADO: activo
+- T445 · "Te creo." Le ofrece lo que necesite.
