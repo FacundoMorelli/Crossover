@@ -471,3 +471,4 @@ T469 · Black Clover · Templo · Brinda con Vanessa. Le da la comida de Sanji a
 T470 · Black Clover · Templo · Le dice a Charmy que nunca conocerá al cocinero. Charmy pregunta por qué.
 T471 · Black Clover · Templo · El cocinero está muy lejos. Charmy pide promesa de comida.
 T472 · Black Clover · Templo · Promesa del meñique con Charmy. Copia: Anti-Magia (Asta). Fiesta. Asta quiere entrenar.
+T473 · Black Clover · Capital · Fiesta, entrenamiento con Asta, reporte a Julius. Invasión del Diamante en Kiten. Yami pregunta si va.

@@ -16,3 +16,4 @@
 - Toros Negros, Gifso, Gio, Kahono, Kiato · T468 · Saben su nombre: Facundo. Es nuevo miembro de los Toros Negros.
 - Charmy, Vanessa y los cercanos · T469 · Probaron/vieron comida que Facundo sacó del sobretodo, hecha "por un cocinero" que no conocen.
 - Charmy y cercanos · T470 · El cocinero no está casado y Charmy "nunca va a poder conocerlo" (dicho por Facundo).
+- Yami → Julius (T473) · Informe: Facundo rompió la barrera de Abari, derribó a Vetto, ahora es Toro Negro. Julius no puede medir su maná (Velo).

@@ -1,8 +1,8 @@
 {
-  "turno": 472,
+  "turno": 473,
   "mundo_actual": "blackclover",
-  "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
-  "hora": "22:36",
+  "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
+  "hora": "15:20",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -51,7 +51,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 53,
+  "energia_actual_pct": 95,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
