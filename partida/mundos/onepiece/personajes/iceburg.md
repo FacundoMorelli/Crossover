@@ -12,3 +12,4 @@ ESTADO: activo
 - T716 · Baleado por enmascarados; sobrevive. Ve la cara de Robin.
 - T717 · Curado por una semilla sin ver de dónde vino. "Nico Robin..."
 - T718 · "¿Fuiste tú lo del poroto? ¿Qué hace un pirata en mi cuarto, la noche en que su arqueóloga me disparó?"
+- T719 · "Eso explica la cara que tenía." "¿Sabes quiénes eran los otros cuatro?"

@@ -145,3 +145,5 @@
 - Iceburg, Paulie, carpinteros · T717 · Iceburg se curó al instante tras "algo que le pusieron en la boca, que sabía a poroto". Nadie vio quién.
 - Iceburg · T718 · Facundo aparece en su cuarto cuando está solo. Sospecha que lo del "poroto" fue él.
 - Facundo · T718 · Vio a Kalifa llegar "preocupada" después del ataque.
+- Iceburg · T719 · Por Facundo: Robin actuó amenazada por el Gobierno con un Buster Call.
+- Facundo · T719 · Por Iceburg: el Gobierno busca los planos de un arma antigua que le dejó su maestro.

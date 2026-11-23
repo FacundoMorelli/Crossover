@@ -1,11 +1,11 @@
-TURNO: 718 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 23:50 | Lugar: Water 7, oficinas de la Galley-La, cuarto de Iceburg (escondido en el techo)
+TURNO: 719 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 23:52 | Lugar: Water 7, oficinas de la Galley-La, cuarto de Iceburg (escondido en el techo)
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.672 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T718: espera. Llega Kalifa corriendo, "preocupada" (Facundo sabe que estaba en el ataque). Iceburg pide quedarse solo: "Quiero pensar." Pone guardias en el pasillo. Cuando se van todos, Facundo baja de la viga y aparece en el cuarto. Iceburg, sentado en el sillón con la camisa rota, no se sobresalta: "Nmaa. El del pelo de dos colores. Uno de los Sombrero de Paja." Lo mira fijo: "¿Fuiste tú lo del poroto? ¿Y qué hace un pirata en mi cuarto, la misma noche en que su arqueóloga me disparó?"
+- T719: "Eso te venía a decir: fue el Gobierno. Ella está amenazada: si no lo hace, usan un Buster Call." Iceburg se queda callado; asiente despacio: "Nmaa. Eso explica la cara que tenía." Cuenta que el Gobierno busca algo que le dejó su maestro: los planos de un arma antigua. "Si el Gobierno está detrás, esto no termina esta noche. Van a volver." Mira la puerta: "¿Sabes quiénes eran los otros cuatro? Se movían como si conocieran este cuarto de memoria."
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 PRESENTES EN ESCENA: Iceburg (solo, en el sillón), Facundo. Guardias en el pasillo. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
