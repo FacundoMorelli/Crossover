@@ -1,8 +1,8 @@
 {
-  "turno": 564,
+  "turno": 565,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 10 tras Shiganshina",
-  "hora": "21:17",
+  "hora": "21:19",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -377,6 +377,11 @@
     {
       "objeto": "Traje de burócrata marleyano",
       "detalle": "Traje gris oscuro de tres piezas, camisa blanca, corbata gris, zapatos negros, reloj de bolsillo. Comprado T553 (2 Fragmentos). Guardado (T557).",
+      "mundo": "shingeki"
+    },
+    {
+      "objeto": "(entregado) Botón de aviso",
+      "detalle": "Dado por el Sistema (paréntesis del jugador, T565). Botón plateado chico, con un eclipse grabado. Si alguien lo aprieta, Facundo lo siente al instante en cualquier mundo y sabe de qué botón viene. Entregado a Willy Tybur.",
       "mundo": "shingeki"
     }
   ],
@@ -1527,5 +1532,13 @@
     "apodo": "Ojos de Eclipse",
     "desde": "Día 6",
     "motivo": "Informe de Nezumi: participó en la caída de Arlong, agredió a un capitán de la Marina, 'varias Frutas del Diablo'. Imagen: dibujo, con el gato."
-  }
+  },
+  "botones_de_aviso": [
+    {
+      "tiene": "Willy Tybur",
+      "mundo": "shingeki",
+      "entregado": "T565",
+      "usado": false
+    }
+  ]
 }

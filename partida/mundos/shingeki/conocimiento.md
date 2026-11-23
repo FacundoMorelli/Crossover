@@ -113,3 +113,4 @@
 - Willy, Magath, Eren · T561 · Facundo ofrece destruir todos los titanes de las murallas para garantizar la paz.
 - Willy, Magath · T562 · Facundo dice que puede demostrarlo ante los embajadores.
 - Willy, Magath · T563 · Facundo promete que la reina Historia vendrá a firmar en persona.
+- Willy, Magath, Eren · T565 · Facundo le da a Willy un botón plateado: si lo aprieta, Facundo "se entera" donde esté. Lo creen un artefacto raro.
