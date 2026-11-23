@@ -19,3 +19,4 @@ DIÁLOGO T356: "¿Y tú quién demonios eres?"
 - T387 · Consigue la Sandai Kitetsu (prueba la maldición con el brazo) y la Yubashiri (regalo de Ipponmatsu).
 - T388 · Camina con Facundo. Le pregunta por las dos espadas de Arlong Park: "Algún día quiero verlas en serio."
 - T585 · Despierta en cubierta. "Volviste." Vuelve a cerrar un ojo.
+- T608 · Desenvaina a medias ante Robin: "¿Qué hace la socia del cocodrilo aquí?"

@@ -74,3 +74,5 @@
 - Habitantes de Rainbase en la calle · T605 · Ven a Crocodile caer desde el techo del casino, derrotado. Ven a un muchacho de sombrero de paja en la terraza. Rumor inmediato.
 - Luffy, Robin · T606 · Facundo saca una poción del sobretodo que cura el veneno y cierra la herida de Luffy al instante.
 - Luffy · T607 · Por Robin: Nico Robin, socia de Crocodile.
+- Vivi, Koza, Zoro, Sanji, rebeldes · T608 · Por Luffy: le ganó a Crocodile. Ven a Robin (Miss All Sunday) con ellos.
+- Luffy · T608 · Por Facundo: la verdad la tienen que contar el rey y la princesa.

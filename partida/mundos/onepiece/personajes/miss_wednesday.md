@@ -11,3 +11,4 @@ ESTADO: activa
 - T582 · Sorprendida de que Facundo sepa quién es. Avisa: hay Marina en Nanohana.
 - T588 · Le explica a Facundo la situación de Arabasta y Crocodile.
 - T592 · "Katorea... a un día de Alubarna." Pide ir a Katorea, con Koza.
+- T608 · Se entera de que Crocodile cayó. Se tapa la cara y llora.

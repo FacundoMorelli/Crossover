@@ -606,3 +606,4 @@ T604 · One Piece · Rain Dinners · Invita a Robin a la tripulación. Robin: "s
 T605 · One Piece · Rain Dinners · Luffy vence a Crocodile con Gomu Gomu no Storm, pero queda envenenado por el garfio.
 T606 · One Piece · Rain Dinners · Le da una poción a Luffy; se cura. Luffy ve a Robin.
 T607 · One Piece · Rain Dinners · Robin se presenta. Luffy la invita; Robin acepta. Llega la Marina.
+T608 · One Piece · Katorea · Vuelven con Luffy y Robin. Crocodile derrotado. Vivi llora. Zoro desconfía de Robin.
