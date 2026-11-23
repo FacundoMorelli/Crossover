@@ -483,3 +483,4 @@ T481 · Black Clover · Base, explanada · Luck lo alcanza una vez; Facundo devu
 T482 · Black Clover · Base · Simula: fiesta, noche, amanecer. Yami lo espera para el duelo.
 T483 · Black Clover · Base, explanada · Duelo con Yami, conteniéndose. Yami lo nota y carga el Corte de la Luna Negra.
 T484 · Black Clover · Base, explanada · Para el Corte de la Luna Negra con una mano. Le ofrece elegir ataque 1, 2 o 3; Yami elige el 3.
+T485 · Black Clover · Base, explanada · Ataque 3 contenido (UI + Rayo + Sol). Yami cae. Luck reconoce su rayo.

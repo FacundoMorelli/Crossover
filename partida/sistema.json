@@ -1,13 +1,13 @@
 {
-  "turno": 484,
+  "turno": 485,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · dos días después de la luna llena",
-  "hora": "06:09",
+  "hora": "06:10",
   "edad": 18,
   "nivel": 26,
-  "exp": 198040,
+  "exp": 199540,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173672,
+  "fragmentos": 173747,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -51,7 +51,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -828,6 +828,12 @@
         "descripcion": "Sakaime cargada de masa virtual: cada tajo y cada línea pesan como un edificio sin que la hoja se vuelva lenta para Facundo.",
         "sellada": "T127",
         "costo_primera_vez": "energía"
+      },
+      {
+        "nombre": "(sin nombre) Ultra Instinto + Magia de Rayo + Sol",
+        "descripcion": "Puño en Ultra Instinto, rayo de Luck enroscado en el brazo y el calor del Sol en el nudillo: golpe que llega antes que el trueno y quema por dentro.",
+        "sellada": "T485",
+        "costo_primera_vez": "ninguno (Fusión en Caliente)"
       }
     ]
   },
@@ -1179,6 +1185,13 @@
       "turno": 481,
       "fragmentos": 12,
       "exp": 150
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Yami Sukehiro (duelo, en serio de su parte): ataque 3 contenido, puño de Ultra Instinto + rayo + Sol; atraviesa dos árboles, queda tirado, consciente",
+      "turno": 485,
+      "fragmentos": 75,
+      "exp": 1500
     }
   ],
   "viaje": {

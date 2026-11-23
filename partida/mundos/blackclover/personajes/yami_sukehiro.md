@@ -18,3 +18,4 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T482 · Lo espera al amanecer en la explanada.
 - T483 · Duelo en la explanada. Lo tantea con la katana envuelta en oscuridad; Facundo desvía con las manos. "Te estás conteniendo. Eso me pica." Carga el Corte de la Luna Negra.
 - T484 · Facundo para su Corte de la Luna Negra con una mano. Yami se ríe. Elige el ataque 3: "El que más duela."
+- T485 · Recibe el ataque 3 (contenido). Vuela, parte dos árboles, queda tirado, consciente, riéndose. Torso quemado, costillas.

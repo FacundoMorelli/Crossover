@@ -1,16 +1,16 @@
-TURNO: 484 | MUNDO: Black Clover | Dos días después de la luna llena · 06:09 | Lugar: base de los Toros Negros, explanada
+TURNO: 485 | MUNDO: Black Clover | Dos días después de la luna llena · 06:10 | Lugar: base de los Toros Negros, explanada
 MOMENTO DEL CANON: Fin del Templo Submarino (c74) / inicio de la Batalla de Kiten (c75). Ver mundos/blackclover/cronologia.md.
-FACUNDO: 18 años · Nivel 26 · EXP 198.040/215.000 · 173.672 Fragmentos · 140 puntos sin asignar · 0 yul · Energía 99% · Ojos: bien · STATS ~240 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30, Grimorio del Firmamento 30)
+FACUNDO: 18 años · Nivel 26 · EXP 199.540/215.000 · 173.747 Fragmentos · 140 puntos sin asignar · 0 yul · Energía 96% · Ojos: bien · STATS ~240 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30, Grimorio del Firmamento 30)
 PARA ESTE MUNDO: desconocido total. Nadie lo vio llegar. Velo: persona común.
 QUIÉN SABE QUÉ: nadie sabe nada.
 MISIÓN DE MUNDO: CUMPLIDA (T464). 6 completados.
 ÚLTIMOS 5 TURNOS:
+- T485: ataque 3 contenido: Ultra Instinto + Magia de Rayo + Sol en un puño (fusión sellada). Atraviesa la armadura de oscuridad; Yami vuela, parte dos árboles, queda tirado, consciente y riéndose, con el torso quemado. Luck reconoce su rayo. Duelo ganado (+75 Fragmentos, +1.500 EXP).
 - T484: detiene el Corte de la Luna Negra con una mano, sonriendo. "No me voy a ir sin pegarte... ¿qué ataque prefieres, 1, 2 o 3?" Yami se ríe: elige el 3 ("el que más duela; si no, no supero nada"). Asta, Luck, Noelle y Magna miran desde las ventanas.
 - T483: duelo con Yami, conteniéndose (sin Ultra Instinto, sin espadas). Yami tantea con la katana envuelta en oscuridad; Facundo desvía con las manos. Yami nota con el Ki que se contiene: "Eso me pica." Carga el Corte de la Luna Negra.
 - T482: simula. Ayuda a Luck a pararse; Luck pide revancha. Fiesta por las cero estrellas: Magna lo nombra "kohai" a gritos y termina dormido; Vanessa le sirve vino; Charmy mira su sobretodo con esperanza; Asta se duerme en la mesa. El Ultra Instinto se apaga al dormirse. Amanecer: Yami lo espera en la explanada con la katana al hombro.
 - T481: deja que Luck le pegue una vez (golpe a la mandíbula, apenas lo mueve) y le devuelve el golpe más rápido: Luck cae y queda tirado, riéndose. COPIA: Magia de Rayo (Luck). Duelo ganado (+12 Fragmentos, +650 EXP).
-- T480: sigue esquivando (un minuto, decenas de ataques, Luck no lo toca). Un golpe de palma contenido al pecho: Luck sale volando 20 m, rueda, se levanta tambaleando, con sangre en la boca y riéndose. Pide seguir.
-PRESENTES EN ESCENA: Yami (en duelo, eligió el ataque 3). Luck en la ventana; Asta, Noelle, Magna en las ventanas. Kase en el alero de la puerta.
+PRESENTES EN ESCENA: Yami (tirado al fondo de la explanada entre dos árboles partidos, consciente). Luck en la ventana; Asta, Noelle, Magna en las ventanas. Kase en el alero de la puerta.
 VÍNCULOS ACTIVOS (Black Clover): ninguno.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta). Viento y Espíritu (Yuno). Rayo (Luck).
 DONES: Manecilla Inversa (100). Sakaime (100). Forma Cenit (100). Shio Shio no Mi (31). Titán de Ceniza (30). Grimorio del Firmamento (30).
