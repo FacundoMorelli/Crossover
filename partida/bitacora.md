@@ -648,3 +648,4 @@ T646 · One Piece · Mar Blanco · Sujeta el Merry con la Luna. Llegan al mar de
 T647 · One Piece · Mar Blanco · Hunde el disparo en las nubes. El enmascarado se va. Llega Gan Fall.
 T648 · One Piece · Puerta del Cielo · Gan Fall advierte del dios. Amazon pide mil millones de extoles por persona.
 T649 · One Piece · Puerta del Cielo · Amazon: no paga = ilegal, asunto de Dios.
+T650 · One Piece · Skypiea · Pasan sin pagar (ilegales). El langostino los sube. Conis los recibe.
