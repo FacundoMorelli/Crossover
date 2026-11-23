@@ -67,3 +67,4 @@
 - Eren, Mikasa, Levi, Zeke · T516 · Viven el vuelo con la Luna (gravedad).
 - Eren, Mikasa, Levi, Facundo · T518 · Por Zeke: en Marley todo eldiano lleva brazalete; un eldiano sin brazalete descubierto va a la horca. La zona de internamiento tiene puestos de control. Mikasa y Levi (Ackerman) no tienen sangre de Ymir: no son eldianos en sentido estricto (Zeke lo sabe). Facundo y Levi pueden pasar por marleyanos.
 - Zeke, Eren, Mikasa, Levi · T519 · Ven a Facundo sacar monedas auténticas de Marley de su sobretodo.
+- Magath, ayudante · T520 · Ven a cinco personas y un gato aparecer de la nada en el despacho. Reconocen a Zeke Jaeger, vivo y encadenado a un hombre bajo.

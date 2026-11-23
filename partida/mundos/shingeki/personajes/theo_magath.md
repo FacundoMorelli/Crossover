@@ -1,0 +1,13 @@
+NOMBRE: Theo Magath
+AFILIACIÓN: Ejército de Marley
+RANGO: general, a cargo de la unidad de guerreros
+PODER VISTO POR FACUNDO: ninguno (soldado, sin titán)
+EDAD EN ESTE MOMENTO DEL CANON: cincuenta y pico
+FÍSICO: alto, canoso, bigote y patillas, cara dura, uniforme impecable.
+PERSONALIDAD Y FORMA DE HABLAR: seco, pragmático, disciplinado; escucha antes de disparar (según Zeke).
+RELACIÓN CON FACUNDO: acaba de verlo aparecer en su despacho.
+ENCUENTROS:
+- T520 · Liberio, su despacho. Facundo aparece con Eren, Mikasa, Levi y Zeke. Le apunta con la pistola. "¿Jaeger?"
+QUÉ SABE DE FACUNDO: nada.
+QUÉ PODERES DE FACUNDO VIO: aparición instantánea (T520).
+ESTADO: activo

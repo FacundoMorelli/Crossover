@@ -518,3 +518,4 @@ T516 · Shingeki · cielo de Paradis → costa · Despegan con la Luna. Cruzan W
 T517 · Shingeki · Marley, acantilados al sur de Liberio · Seis horas de vuelo. Ven Liberio a lo lejos.
 T518 · Shingeki · Marley, acantilados · Aterrizan. Zeke: brazaletes y dinero; hay que decidir cómo entrar.
 T519 · Shingeki · Marley, acantilados · Cambia 2 Fragmentos por 40 monedas de Marley. Zeke las reconoce auténticas.
+T520 · Shingeki · Liberio, despacho de Magath · Teletransportación directa ante Magath. Magath apunta; reconoce a Zeke.
