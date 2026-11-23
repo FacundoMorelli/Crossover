@@ -1,11 +1,11 @@
-TURNO: 713 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 15:55 | Lugar: Water 7, muelle de las afueras, Going Merry
+TURNO: 714 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 16:05 | Lugar: Water 7, muelle de las afueras, Going Merry
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T713: les cuenta todo: el enmascarado del Gobierno, el Buster Call, el trato, "esta noche harás lo que te digamos", Enies Lobby, Ohara. Silencio. Chopper llora. Sanji rompe el cucharón. Usopp: "Se fue... para salvarnos." Nami, pálida: Enies Lobby es la isla judicial del Gobierno; de ahí nadie vuelve; se llega en un tren por el mar. Zoro: "¿Y qué tiene que hacer esta noche?" Luffy se pone el sombrero, sin gritar: "Vamos a buscarla. Aunque sea al fin del mundo." Todos miran a Facundo: él es el único que sabe algo más.
+- T714: plan: dejar que Robin haga lo que le ordenen por ahora; enfrentar al Gobierno en algún momento; y rescatarla en Enies Lobby, donde un Buster Call no les conviene porque destruiría su propia isla. Nami: "Tiene sentido." Zoro: "Me sirve." Sanji, apretando los dientes: "Odio esperar. Pero bueno." Luffy: "No entendí todo, pero mañana les pego a los de la máscara." Usopp se levanta: "El último viaje del Merry... que sea a Enies Lobby. A buscar a Robin." Todos se callan. Luffy: "¡SÍ!"
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji, Chopper (cubierta del Merry). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
