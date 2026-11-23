@@ -10,3 +10,4 @@ ENCUENTROS:
 - T627 · En la barra de la taberna de Mock Town, comiendo tarta de cerezas.
 QUÉ SABE DE FACUNDO: cartel 26M (posible).
 ESTADO: activo
+- T628 · "¡Zehahaha! ¡Los sueños de la gente nunca terminan! ¡La isla del cielo existe!"

@@ -10,3 +10,4 @@ ENCUENTROS:
 - T627 · Taberna. Agarra a Luffy del cuello.
 QUÉ SABE DE FACUNDO: cartel 26M.
 ESTADO: activo
+- T628 · Golpea a Luffy; se va riendo.
