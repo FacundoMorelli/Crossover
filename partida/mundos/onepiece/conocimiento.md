@@ -108,3 +108,5 @@
 - Shura · T656 · Con el Mantra no puede "escuchar" a Facundo (Velo). Lo nota y lo dice.
 - Shura → Enel (Mantra de Enel lo escucha) · T657 · Facundo detuvo su lanza de fuego con la mano desnuda; el Mantra no lo anticipa.
 - Shura, Chopper · T658 · Facundo aparece tres veces alrededor de Shura sin que el Mantra lo anticipe.
+- Facundo · T659 · Con el Haki de observación oye a Enel decir "uno que no se escucha... interesante".
+- Chopper · T659 · Facundo dice que es "algo así" como un monstruo.

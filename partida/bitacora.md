@@ -657,3 +657,4 @@ T655 · One Piece · Upper Yard, altar · Exploran el altar con Chopper. Llega S
 T656 · One Piece · altar · Shura: los ilegales no salen vivos. Nota que no "escucha" a Facundo con el Mantra. Carga contra Chopper.
 T657 · One Piece · altar · Detiene la lanza de Shura con la mano. Shura huye a distancia. Misión de copia: Mantra.
 T658 · One Piece · altar · Shura falla tres veces en leerlo. Copia Mantra. Shura huye.
+T659 · One Piece · altar · Haki de observación al máximo (instrucción del jugador). Oye a Enel.

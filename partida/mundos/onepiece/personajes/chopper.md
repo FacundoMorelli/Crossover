@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: lo que contó la tripulación (tripulante ausente, cartel,
 QUÉ PODERES DE FACUNDO VIO: la puerta.
 ESTADO: activo
 - T581 · Usopp lo presenta. Se asoma desde el barril, desconfiado.
+- T659 · "¡Por lo menos eres un monstruo de los nuestros!"
