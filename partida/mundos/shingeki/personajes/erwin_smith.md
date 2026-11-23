@@ -22,3 +22,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T505 · Lee el legajo. "Con esto se puede negociar." Le pregunta a Facundo si cruzaría el mar como emisario.
 - T506 · Facundo acepta. Erwin: carta de la reina, sello, y un guía.
 - T507 · Aprueba el equipo. Irá por la carta de Historia.
+- T508 · Carta mañana temprano. "¿Cuándo salen? ¿Y cómo piensas cruzar el mar?"

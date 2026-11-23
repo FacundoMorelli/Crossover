@@ -506,3 +506,4 @@ T504 · Shingeki · Trost, sala del fondo · Explica la sangre real. Eren entien
 T505 · Shingeki · Trost, sala del fondo · Simula: Zeke dicta 6 h todo lo de Marley. Erwin pregunta si Facundo cruzaría el mar como emisario.
 T506 · Shingeki · Trost, sala del fondo · Acepta ser emisario. Zeke se ofrece de guía; Levi se niega; Eren quiere ir.
 T507 · Shingeki · Trost, sala del fondo · Equipo al continente: Facundo, Eren, Zeke, Levi. Mikasa pide ir.
+T508 · Shingeki · Trost, sala del fondo · Mikasa se suma. Erwin pregunta cuándo y cómo cruzan.
