@@ -49,3 +49,4 @@ ESTADO: activa
 - T698 · Se va a pasear sola por Water 7; le da un beso en la mejilla a Facundo.
 - T709 · Acepta entregarse al Gobierno para que no toquen a la tripulación. Facundo la oye desde lejos.
 - T710 · "Prométeme que no van a venir." Le cuenta de Ohara.
+- T711 · "Están todos locos." Lo besa. Le deja el libro de Paradis: "Guárdamelo." "Si vienen, no se mueran." Se va.

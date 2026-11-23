@@ -1,8 +1,8 @@
 {
-  "turno": 710,
+  "turno": 711,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 34 (Grand Line, Water 7)",
-  "hora": "15:37",
+  "hora": "15:40",
   "edad": 18,
   "nivel": 26,
   "exp": 209640,
@@ -395,8 +395,8 @@
       "mundo": "onepiece"
     },
     {
-      "objeto": "(regalado) Libro de Paradis",
-      "detalle": "Libro de tapas de cuero gastadas, impreso en Paradis (Shingeki), sobre las murallas y los titanes, con grabados. Regalado a Robin en T617. Escrito en el alfabeto de las murallas: Robin no puede leerlo.",
+      "objeto": "Libro de Paradis (de Robin, guardado por Facundo)",
+      "detalle": "Libro de tapas de cuero gastadas, impreso en Paradis (Shingeki), sobre las murallas y los titanes, con grabados. Regalado a Robin en T617. Escrito en el alfabeto de las murallas: Robin no puede leerlo. Robin se lo devolvió para que se lo guarde (T711).",
       "mundo": "shingeki → onepiece"
     },
     {
