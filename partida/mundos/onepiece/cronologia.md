@@ -40,3 +40,4 @@
 - 20:10 · (T597) Koza detiene el ataque rebelde sobre Alubarna. CAMBIO ENORME: la batalla de Alubarna no ocurre (por ahora).
 - 20:13 · (T598) Facundo y Luffy aparecen en el salón VIP de Crocodile en Rain Dinners.
 - 20:31 · (T605) Luffy derrota a Crocodile en Rain Dinners (canon: en Alubarna, días después, tras perder dos veces). Crocodile inconsciente en la calle de Rainbase. Luffy envenenado por el garfio.
+- 20:35 · (T607) Nico Robin se une a los Sombrero de Paja (canon: después de Arabasta, en el barco). La Marina (Smoker/Tashigi) llega a Rainbase.

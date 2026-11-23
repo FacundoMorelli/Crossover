@@ -73,3 +73,4 @@
 - Robin · T604 · Facundo la invita a unirse a los Sombrero de Paja (Luffy quiere ser Rey de los Piratas) "y estar a su lado".
 - Habitantes de Rainbase en la calle · T605 · Ven a Crocodile caer desde el techo del casino, derrotado. Ven a un muchacho de sombrero de paja en la terraza. Rumor inmediato.
 - Luffy, Robin · T606 · Facundo saca una poción del sobretodo que cura el veneno y cierra la herida de Luffy al instante.
+- Luffy · T607 · Por Robin: Nico Robin, socia de Crocodile.

@@ -17,3 +17,4 @@ ESTADO: activa
 - T603 · "Eres un hombre muy extraño, Ojos de Eclipse." A Crocodile: "Esta pelea no es mía, señor Zero."
 - T604 · "Hace veinte años que nadie me invita a ningún lado." "¿A tu lado? Qué rápido vas." "Si tu capitán gana esta noche... lo voy a pensar."
 - T605 · Ve ganar a Luffy. Se lleva la mano a la boca cuando cae envenenado.
+- T607 · Se presenta a Luffy. Acepta unirse: "Entonces voy con ustedes. Hasta que me canse." AFILIACIÓN NUEVA: Sombrero de Paja.

@@ -605,3 +605,4 @@ T603 · One Piece · Rain Dinners · Piropo a Robin. Robin no interviene. Crocod
 T604 · One Piece · Rain Dinners · Invita a Robin a la tripulación. Robin: "si tu capitán gana, lo voy a pensar".
 T605 · One Piece · Rain Dinners · Luffy vence a Crocodile con Gomu Gomu no Storm, pero queda envenenado por el garfio.
 T606 · One Piece · Rain Dinners · Le da una poción a Luffy; se cura. Luffy ve a Robin.
+T607 · One Piece · Rain Dinners · Robin se presenta. Luffy la invita; Robin acepta. Llega la Marina.

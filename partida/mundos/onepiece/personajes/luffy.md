@@ -21,3 +21,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T604 · Esquiva la Desert Spada; Gomu Gomu no Hammer mojado sobre Crocodile.
 - T605 · Vence a Crocodile. Envenenado por el garfio: labios morados, se desploma.
 - T606 · Facundo lo cura con una poción. "¡TENGO HAMBRE!" A Robin: "¿Y tú quién eres?"
+- T607 · Invita a Robin: "¡Si Facundo dice que eres buena, eres buena!"
