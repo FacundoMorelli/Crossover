@@ -15,3 +15,4 @@ ESTADO: activo
 - T536 · Despierta junto a la ventana. Facundo aparece con Ymir viva. "...¿Ymir?"
 - T537 · Abraza a Ymir llorando. "¡Te fuiste con ellos!" Agradece a Facundo; le pide sacarle los grilletes.
 - T570 · Acepta viajar a Marley y firmar sin dudar: "Si una firma mía vale más que esas murallas, firmo mil veces."
+- T571 · Le ofrece a Facundo el cuarto de huéspedes del ala este.
