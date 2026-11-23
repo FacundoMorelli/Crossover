@@ -611,3 +611,4 @@ T609 · One Piece · Katorea · Zoro acepta a Robin a regañadientes. Vivi la en
 T610 · One Piece · Katorea · Robin admite que sabía. Vivi le pega y la acepta. Vivi pide que la lleve con Koza al palacio mañana.
 T611 · One Piece · Arabasta · Simula: verdad pública, Crocodile preso, lluvia, banquete. Robin lee la piedra. Vivi se queda. Despedida en el acantilado.
 T612 · One Piece · Going Merry · Despedida de Vivi con los brazos en alto.
+T613 · One Piece · Going Merry · Llama a Sanji.
