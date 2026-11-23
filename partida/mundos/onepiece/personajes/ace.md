@@ -15,3 +15,4 @@ ESTADO: activo
 - T587 · Sube al Merry. "¿Eso fue tuyo? Interesante."
 - T589 · Tiene que ir tras Barbanegra; antes quiere hablar con Luffy.
 - T593 · Cena en el Merry. Invita a Luffy a Barbablanca; Luffy dice que no. Le da un papel (vivre card). Se duerme con la cara en el plato en medio de una frase; se despierta: "¿Me dormí?"
+- T594 · Se despide. A Facundo: "La próxima me cuentas de dónde eres." Se va en el Striker.
