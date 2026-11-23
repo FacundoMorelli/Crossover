@@ -31,3 +31,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T528 · Identifica el lugar: el centro de investigación de titanes del puerto norte. "Si está viva, está ahí. Y no por mucho."
 - T531 · Le cuenta a Eren su infancia en las calles de la zona (la pelota, el viejo de la panadería, la escuela de guerreros).
 - T540 · "Marley perdió su quinto titán en una semana. Magath va a sumar dos más dos. ¿Se lo vas a decir o lo vas a dejar adivinar?"
+- T566 · Muy serio al oír la oferta de destruir los titanes de las murallas.

@@ -564,3 +564,4 @@ T562 · Shingeki · Liberio, invernadero Tybur · Demostración ante embajadores
 T563 · Shingeki · Liberio, invernadero Tybur · Promete que Historia vendrá a firmar. Apretón de manos con Willy.
 T564 · Shingeki · Liberio, invernadero Tybur · Cómo comunicarse: Magath propone la casa del Reloj; Willy, el invernadero cada tres noches.
 T565 · Shingeki · Liberio, invernadero Tybur · Le da a Willy un botón de aviso. Fin de la reunión.
+T566 · Shingeki · Liberio, casa segura · Vuelven por Teletransportación. Eren cuenta la reunión. Levi: "¿Volvemos a la isla?"

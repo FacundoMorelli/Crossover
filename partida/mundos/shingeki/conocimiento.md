@@ -114,3 +114,5 @@
 - Willy, Magath · T562 · Facundo dice que puede demostrarlo ante los embajadores.
 - Willy, Magath · T563 · Facundo promete que la reina Historia vendrá a firmar en persona.
 - Willy, Magath, Eren · T565 · Facundo le da a Willy un botón plateado: si lo aprieta, Facundo "se entera" donde esté. Lo creen un artefacto raro.
+- Levi, Mikasa, Zeke · T566 · Por Eren: toda la reunión con Willy (Retumbar, oferta de destruir los titanes de las murallas, fiesta en un mes, firma de Historia, botón de aviso).
+- Vigilante de Muller · T566 · Vio volver el coche de Brandt vacío a la zona militar; nadie volvió a la casa. Lo anota.
