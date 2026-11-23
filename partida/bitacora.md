@@ -686,3 +686,4 @@ T684 · One Piece · mar azul · Despedida de Skypiea. Bajan en el pulpo globo c
 T685 · One Piece · Long Ring Long Land · Llegan. Foxy desafía a la Davy Back Fight.
 T686 · One Piece · Long Ring Long Land · Luffy acepta. Primer juego: trampa de Foxy (Noro Noro). Foxy elige a Chopper.
 T687 · One Piece · Long Ring Long Land · Davy Back Fight: pierden el 1.º, ganan el 2.º y el 3.º. Llega Aokiji y reconoce a Robin.
+T688 · One Piece · Long Ring Long Land · Le devuelve el libro a Robin. Aokiji lo reconoce y advierte sobre Robin.
