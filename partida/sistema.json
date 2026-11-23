@@ -1,8 +1,8 @@
 {
-  "turno": 475,
+  "turno": 476,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
-  "hora": "16:06",
+  "hora": "18:30",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -733,6 +733,69 @@
       "mision": "Que Noelle admita, con sus palabras, que la ayudaste.",
       "dificultad": "MEDIA",
       "emitida": "T461"
+    },
+    {
+      "poder": "Yuno: Magia de Viento y Magia de Espíritu (el espíritu del viento no viene: es un ser; viene el poder de usar uno)",
+      "mundo": "blackclover",
+      "mision": "Que Yuno te reconozca como rival de Asta... y de él.",
+      "dificultad": "ALTA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "William Vangeance: Magia de Árbol Mundial",
+      "mundo": "blackclover",
+      "mision": "Que William se quite la máscara delante de ti por voluntad propia.",
+      "dificultad": "ALTA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Langris Vaude: Magia Espacial ofensiva (borrar)",
+      "mundo": "blackclover",
+      "mision": "Que Langris le pida perdón a Finral delante de ti.",
+      "dificultad": "ALTA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Finral Roulacase: Magia Espacial (portales)",
+      "mundo": "blackclover",
+      "mision": "Que Finral te lleve a un lugar que nunca visitó y llegue bien.",
+      "dificultad": "BAJA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Charmy Pappitson: Magia de Algodón (y lo que lleva adentro)",
+      "mundo": "blackclover",
+      "mision": "Cumplir la promesa del meñique: traerle comida del cocinero.",
+      "dificultad": "BAJA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Ragus: Magia de Rayo",
+      "mundo": "blackclover",
+      "mision": "Recibir de lleno su rayo más fuerte y seguir de pie.",
+      "dificultad": "BAJA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Yagos: Magia de Mucosidad",
+      "mundo": "blackclover",
+      "mision": "Que Yagos suelte a un rehén porque se lo pides.",
+      "dificultad": "BAJA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Broccos: Magia de Ocre Rojo",
+      "mundo": "blackclover",
+      "mision": "Que Broccos te muestre su mejor hechizo en un duelo.",
+      "dificultad": "BAJA",
+      "emitida": "T476"
+    },
+    {
+      "poder": "Lotus Whomalt: Magia de Humo",
+      "mundo": "blackclover",
+      "mision": "Encontrar a Lotus dentro de su humo y tocarle el hombro.",
+      "dificultad": "MEDIA",
+      "emitida": "T476"
     }
   ],
   "misiones_de_copia_rechazadas": [],
