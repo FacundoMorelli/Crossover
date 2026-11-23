@@ -78,3 +78,18 @@
 - RECOMPENSA: 10.000 EXP · 300 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T413 · 11:45. Erwin entra vivo al sótano. +10.000 EXP, +300 F. Mundos completados: 5.
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 6 | Black Clover | Luna llena, 21:40 | El Templo Submarino (cap. ~60) | Que Kiato no pierda la pierna y Kahono no pierda la voz. | ACTIVA |
+
+## RELOJES (actualizado T450)
+- Shingeki: salida Día 4 tras Shiganshina, 12:30 (Mitras); quitó la pared antes de irse. Prometió volver en días o semanas (Erwin dio su palabra de no arriesgarse). Corre.
+- One Piece: corre desde el Día 9 (Going Merry rumbo a Whisky Peak).
+- Bleach, Jujutsu, Dragon Ball: corren.
+- Black Clover: llegada luna llena, 21:40, Templo Submarino.
+
+### Black Clover
+- MISIÓN: Que Kiato no pierda la pierna y que Kahono no pierda la voz.
+- RECOMPENSA: 8.000 EXP · 200 Fragmentos
+- VENCE: nunca · CAMBIADA: no

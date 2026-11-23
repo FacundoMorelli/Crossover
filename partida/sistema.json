@@ -1,8 +1,8 @@
 {
-  "turno": 449,
-  "mundo_actual": "shingeki",
-  "fecha_local": "Año 850 · 4 días después de Shiganshina",
-  "hora": "12:28",
+  "turno": 450,
+  "mundo_actual": "blackclover",
+  "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
+  "hora": "21:40",
   "edad": 18,
   "nivel": 25,
   "exp": 186890,
@@ -33,6 +33,11 @@
       "moneda": "monedas de la Corona (Paradis)",
       "cantidad": 0,
       "cambio": "1 Fragmento = 100 monedas de plata (fijado T398)"
+    },
+    "blackclover": {
+      "moneda": "yul",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 10.000 yul (fijado T450)"
     }
   },
   "puntos_de_stat_sin_asignar": 135,
@@ -132,9 +137,7 @@
         "estado": "desbloqueado (T246)",
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
-      "marcas_o_lineas_activas": [
-        "T402 Bankai Hate no Sakaime activo: frontera total alrededor de toda la muralla de Shiganshina y un poco más (declarado por el jugador, supera los 600 m), incluyendo a Erwin, Levi y los reclutas del lado de afuera. El Bestia, el Carguero y los titanes de la horda exterior, afuera. Nada entra salvo lo que Facundo permite. T419: declarado por el jugador: la frontera se queda en pie aunque Facundo se aleje. T439 (declarado): dura varios días más, consumiendo energía de Facundo poco a poco, hasta que se agote o la disuelva."
-      ],
+      "marcas_o_lineas_activas": [],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
         "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"
@@ -203,6 +206,30 @@
       ],
       "forma_superior": {
         "nombre": "Ceniza",
+        "desbloqueo": 70,
+        "estado": "bloqueada"
+      }
+    },
+    "blackclover": {
+      "nombre": "Grimorio del Firmamento (Magia de Constelación)",
+      "tipo": "Grimorio de trébol de tres hojas (Don de Mundo)",
+      "maestria": 30,
+      "forma": "grimorio de tapas negras con un trébol de tres hojas plateadas y un círculo de estrellas grabado; flota a su lado cuando lo invoca",
+      "reglas": [
+        "Crea puntos de luz (estrellas) en el aire con su maná. Al unirlos con líneas forma constelaciones que se vuelven sólidas: bestias, armas, escudos, cadenas.",
+        "Maestría 30: hasta 3 constelaciones activas a la vez, del tamaño de una casa como máximo. Crece con la maestría.",
+        "Las bestias de constelación pelean solas siguiendo sus órdenes.",
+        "De noche, al aire libre, absorbe el maná de las estrellas reales: más potencia y casi sin gasto.",
+        "Sin las desventajas de su mundo: no depende de un maná limitado de nacimiento; usa la energía de Facundo.",
+        "Forma superior (maestría 70): Firmamento — cubre una zona con un cielo nocturno propio; cada estrella de ese cielo es suya y puede volverse constelación al instante."
+      ],
+      "hechizos": [
+        "Magia de Constelación: Bestia — León Estelar",
+        "Magia de Constelación: Arma — Arco de Sagitario",
+        "Magia de Constelación: Escudo — Muralla de Orión"
+      ],
+      "forma_superior": {
+        "nombre": "Firmamento",
         "desbloqueo": 70,
         "estado": "bloqueada"
       }
@@ -919,7 +946,8 @@
       "bleach",
       "dragonball",
       "onepiece",
-      "shingeki"
+      "shingeki",
+      "blackclover"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -930,12 +958,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "shingeki",
-      "mision": "Que Erwin Smith llegue vivo al sótano de los Jaeger.",
-      "recompensa": "10.000 EXP · 300 Fragmentos",
+      "mundo": "blackclover",
+      "mision": "Que Kiato no pierda la pierna y que Kahono no pierda la voz.",
+      "recompensa": "8.000 EXP · 200 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T413)"
+      "estado": "activa"
     },
     "relojes": {
       "jujutsu": {
@@ -968,6 +996,11 @@
       },
       "shingeki": {
         "llegada": "Año 850, Operación de recuperación de Wall Maria, 10:40 (cap. ~77)",
+        "corre": "al ritmo de Facundo",
+        "salida": "Año 850, Día 4 tras Shiganshina, 12:30 (Mitras). Prometió volver en días o semanas. Corre desde T450."
+      },
+      "blackclover": {
+        "llegada": "Luna llena, Templo Submarino, 21:40 (cap. ~60)",
         "corre": "al ritmo de Facundo"
       }
     },
@@ -1071,9 +1104,9 @@
       "Cámara de fotos y video": 15
     },
     "stock_rotativo": {
-      "Equipo de maniobras tridimensionales (completo, con gas y hojas)": 30,
-      "Uniforme de la Legión de Reconocimiento": 2,
-      "Bengalas de señales (verde, roja, negra, amarilla) x10": 1
+      "Piedra de maná pequeña (recarga energía 10%)": 3,
+      "Capa de los Toros Negros (réplica)": 2,
+      "Poción de respiración acuática": 1
     },
     "ultimo_hito_de_catalogo": 20
   },
@@ -1125,7 +1158,8 @@
       "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'.",
       "dragonball": "Revelado T214: 'El muchacho del gato'. Pendiente: Vegeta, 'el insecto de dos colores'.",
       "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'.",
-      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'."
+      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'.",
+      "blackclover": "Si pelea delante de caballeros: 'el Mago de las Estrellas' / entre los Toros Negros: 'el del gato'. En el Ojo del Sol de Medianoche: 'el Desconocido de dos colores'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
@@ -1168,7 +1202,10 @@
     "onepiece_loguetown": "Loguetown, Día 8. Canon: Zoro a la armería de Ipponmatsu (Tashigi, Kitetsu, Yubashiri); Sanji mercado; Usopp munición; Nami ropa; Luffy a la plataforma de ejecución (~13:00 Buggy y Alvida lo capturan, ejecución ~14:30, rayo); Smoker y Tashigi en la base; Dragon en la ciudad, encapuchado. Tormenta grande por la tarde. CAMBIO posible: Smoker ya vio el cartel de Facundo (26M) y lo busca también.",
     "shingeki_tirada": "T398: mundo al azar entre 8 no visitados: shingeki. Momento: tirada 0.554 -> cap. ~77 de 139: El regreso a Shiganshina.",
     "momento_del_canon_shingeki": "Cap. ~77. Shiganshina. Eren selló la puerta exterior. Reiner (Acorazado) inmovilizado por las lanzas relámpago de Hange en la ciudad. El Bestia (Zeke) lanzó un barril sobre la muralla: Bertholdt está sobre la muralla hablando con Armin. En minutos (cap. 78) Bertholdt se transforma en el Colosal sobre la ciudad: la explosión arrasa la escuadra de Hange; Moblit muere salvando a Hange. Después: Bestia lanza rocas (cap. 79), Erwin herido de muerte en la carga suicida (cap. 80); Levi vs Bestia; Pieck rescata a Zeke; Armin se carboniza; Eren saca a Bertholdt; Levi elige a Armin para el suero; Erwin muere (cap. 84).",
-    "lugar_de_llegada_shingeki": "Tejado de una casa de piedra del distrito de Shiganshina, a ~400 m de la muralla interior. Se ve: el Acorazado caído y humeante en la calle, la Legión en los tejados, la muralla con dos figuras arriba (Armin y Bertholdt), del otro lado el Bestia en el campo. Nadie los ve llegar."
+    "lugar_de_llegada_shingeki": "Tejado de una casa de piedra del distrito de Shiganshina, a ~400 m de la muralla interior. Se ve: el Acorazado caído y humeante en la calle, la Legión en los tejados, la muralla con dos figuras arriba (Armin y Bertholdt), del otro lado el Bestia en el campo. Nadie los ve llegar.",
+    "blackclover_tirada": "T450: mundo al azar entre 7 no visitados: blackclover. Momento: tirada 0.152 -> cap. ~60 de 392: El Templo Submarino.",
+    "momento_del_canon_blackclover": "Cap. ~60. Templo Submarino, noche de luna llena. Gifso empezó la Batalla Real del Templo: Toros Negros (Asta, Noelle, Magna, Luck, Vanessa, Finral, Charmy, Gauche, Grey) contra 9 sacerdotes; Yami espectador. Pronto (c62-63) irrumpen Vetto, Abari, Zarick, Zuta (Ojo del Sol de Medianoche): Vetto aplasta a Gio, vence a Luck y Magna; Abari encierra a Yami y Gifso. c67: Vetto le arranca la pierna a Kiato y aplasta la garganta de Kahono. c68-72: Noelle, Asta, Vanessa, Finral; Yami corta la barrera y mata a Vetto (c72-73).",
+    "lugar_de_llegada_blackclover": "Plaza de la ciudad submarina, frente a la escalinata del Templo, bajo una cúpula de aire. Se ve la luz de la luna filtrada por el agua. Desde el templo llegan explosiones del juego. Nadie los ve llegar."
   },
   "recompensa_onepiece": {
     "monto": 26000000,
