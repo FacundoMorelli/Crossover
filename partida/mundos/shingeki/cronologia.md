@@ -50,3 +50,5 @@
 - 00:00 día 8 · (T535) Facundo entra por Teletransportación a la celda de Ymir durante el cambio de guardia.
 - 00:01 día 8 · (T536) Ymir desaparece de su celda en Liberio (cadenas cortadas a ras, sin otra huella) y aparece en los aposentos de Historia en Mitras. CAMBIO ENORME: Porco no hereda el Mandíbula; Ymir viva en Paradis.
 - 02:10 día 8 · (T542) Ronda del centro de investigación: celda de Ymir vacía, cadenas cortadas. Sirena. Patrullas por Liberio toda la madrugada. Magath convocado a las 03:00.
+- Día 8 · (T546) El equipo espera en la casa segura. Muller busca al "traidor del Medio Oriente" con patrullas.
+- Día 9 15:40 · (T546) Patrulla de Muller revisa la calle del Reloj casa por casa (orden de Muller sin pasar por Magath).

@@ -95,3 +95,4 @@
 - Magath · T543 · Deduce que Facundo tiene que ver con la desaparición de Ymir (razonable: aparición sin puertas ayer, celda vacía sin puertas hoy).
 - Magath · T544 · Por Facundo: rescató a Ymir y la llevó a Paradis; es amiga de la reina. Magath lo guarda en secreto y deja correr la teoría del traidor del Medio Oriente (coronel Muller).
 - Facundo · T545 · Por Magath: reunión con Willy Tybur el día 10 a las 21:00 en el invernadero de la mansión; Brandt los busca a las 20:30. Facundo solo o con uno más; Zeke no.
+- Levi, Eren, Mikasa, Zeke · T546 · Por Facundo: Magath sabe lo de Ymir y lo encubre; reunión con Tybur día 10 a las 21:00, solo Facundo y uno más, Zeke no.
