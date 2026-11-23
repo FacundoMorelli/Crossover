@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: se calmó con su mano.
 ENCUENTROS:
 - T666 · Ataca. T668 · Se deja tocar.
 ESTADO: activa
+- T669 · Come lo que le da Facundo. Los lleva a las ruinas de Shandora.

@@ -1,13 +1,13 @@
 {
-  "turno": 668,
+  "turno": 669,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 28 (Grand Line, Skypiea)",
-  "hora": "08:28",
+  "hora": "08:50",
   "edad": 18,
   "nivel": 26,
   "exp": 203640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 133707,
+  "fragmentos": 133687,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1506,7 +1506,8 @@
       "Bolsa grande de golosinas variadas": 2,
       "Cámara de fotos y video": 15,
       "Piedra de hielo en bruto (Shingeki, del tamaño de un puño)": "5 Fragmentos (fijado T525)",
-      "Documentos de ciudadano marleyano (Shingeki)": "10 Fragmentos (fijado T548)"
+      "Documentos de ciudadano marleyano (Shingeki)": "10 Fragmentos (fijado T548)",
+      "Comida para un animal gigante (una comida)": "20 Fragmentos (fijado T669)"
     },
     "stock_rotativo": {
       "Piedra de maná pequeña (recarga energía 10%)": 3,

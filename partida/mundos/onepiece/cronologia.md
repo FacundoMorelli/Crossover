@@ -76,3 +76,4 @@
 - Noche día 27 · (T662) Fogata en el Upper Yard con los lobos (canon). Nami y Robin ubican Shandora cerca del árbol gigante.
 - Día 28 08:00 · (T665) Enel anuncia el "juego de supervivencia": de 81 personas en el Upper Yard, en tres horas quedarán cinco (canon). Los shandianos atacan.
 - 08:25 · (T666) La tripulación se divide en el Upper Yard. Aparece la serpiente gigante Nola (canon).
+- 08:50 · (T669) Facundo, Luffy y Robin llegan a las ruinas de Shandora montados en Nola. Poneglyph a la vista.
