@@ -97,3 +97,4 @@
 - Facundo · T545 · Por Magath: reunión con Willy Tybur el día 10 a las 21:00 en el invernadero de la mansión; Brandt los busca a las 20:30. Facundo solo o con uno más; Zeke no.
 - Levi, Eren, Mikasa, Zeke · T546 · Por Facundo: Magath sabe lo de Ymir y lo encubre; reunión con Tybur día 10 a las 21:00, solo Facundo y uno más, Zeke no.
 - Sargento y 3 soldados de la patrulla de Muller · T547 · Ven a un joven de pelo blanco y azul, ojos de dos colores, sin brazalete, con un gato enorme, en la casa de la unidad de guerreros. Dice que la casa es del general Magath.
+- Sargento de la patrulla → coronel Muller (informe del día 10) · T548 · Huésped en la casa del 14 (unidad de guerreros): Facundo Morelli, ciudadano de las colonias del sur, pelo blanco y azul, gato. Dice que la casa es de Magath. Motivo: deber de informar.

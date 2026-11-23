@@ -546,3 +546,4 @@ T544 · Shingeki · Liberio, despacho de Magath · Le cuenta lo de Ymir. Magath 
 T545 · Shingeki · Liberio, despacho de Magath · Promete avisar cualquier cosa. Reunión con Tybur: día 10, 21:00, invernadero.
 T546 · Shingeki · Liberio, casa segura · Simula: día 8 adentro. Día 9 15:40, la patrulla de Muller golpea la puerta.
 T547 · Shingeki · Liberio, casa segura · Abre la puerta: "propiedad de Magath". El sargento pide documentos.
+T548 · Shingeki · Liberio, casa segura · Muestra documentos marleyanos. La patrulla se va, pero lo anota para Muller.
