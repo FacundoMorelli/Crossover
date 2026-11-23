@@ -42,3 +42,4 @@ ESTADO: activa
 - T688 · Facundo le devuelve el libro con la mano en el hombro.
 - T690 · Facundo se pone delante y queda congelado por ella. Grita su nombre.
 - T692 · Oye el nombre de Saul. Llora de rodillas en el pasto.
+- T693 · Llora abrazada a Facundo. Le cuenta de Saul. "Creo que tenía razón."

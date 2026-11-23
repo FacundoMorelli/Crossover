@@ -1,12 +1,12 @@
-TURNO: 692 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 17:26 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
+TURNO: 693 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 17:35 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
 MOMENTO DEL CANON: Long Ring Long Land (cap. ~319-321): llega el almirante Aokiji. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T693: se sienta al lado de Robin y la abraza. Robin se aferra a su sobretodo y llora por primera vez con ruido, contra su pecho. Los demás se apartan un poco, en silencio (Sanji también, mordiendo el cigarro). Al rato, todavía con la cara escondida: "Saul era un gigante. Me salvó cuando quemaron mi isla. Me dijo que algún día iba a encontrar amigos." Pausa. "Creo que tenía razón."
 - T692: "No quiero pelear contigo. Vete y deja tranquila a Robin." Aokiji lo piensa largo rato; baja el sable, el brazo vuelve a ser brazo. "Ara ara. Pelear contigo sería mucho trabajo." Descongela los pies de Luffy, Zoro y Sanji. A Robin: "Encontraste gente que se pone delante de ti. Saul se habría alegrado." Robin se queda sin aire. Aokiji congela el mar y se va pedaleando una bicicleta sobre el hielo. "Por ahora." Robin, de rodillas en el pasto, llora en silencio.
-- T691: sale caminando del hielo: la estatua se raja de adentro hacia afuera y se deshace en polvo blanco. "Perdón, Kase, no quería que te congelaras también." Kase, empapado de escarcha, le muerde la oreja. COPIA: Hie Hie (Aokiji). +3.000 EXP. Aokiji retrocede tres pasos, serio, sin pereza en la cara: "Ara... Eso no me pasó nunca." Se le congela todo el brazo derecho en un sable de hielo. Luffy, Zoro y Sanji, con los pies congelados, miran con la boca abierta.
 PRESENTES EN ESCENA: toda la tripulación, Tonjit a lo lejos (pradera). Aokiji se fue en bicicleta sobre el mar congelado. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).

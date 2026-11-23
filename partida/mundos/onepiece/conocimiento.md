@@ -127,3 +127,4 @@
 - Aokiji · T688 · Conoce a Facundo por el cartel y por el informe de Smoker. Ve que Facundo protege a Robin.
 - Aokiji, tripulación · T690 · Facundo se puso delante de Robin y quedó congelado entero.
 - Aokiji, tripulación · T691 · Facundo salió del hielo de Aokiji como si nada; el hielo se deshizo en polvo.
+- Facundo · T693 · Por Robin: Saul, un gigante, la salvó cuando quemaron su isla; le dijo que algún día encontraría amigos.
