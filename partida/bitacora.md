@@ -539,3 +539,4 @@ T537 · Shingeki · Mitras, aposentos de la reina · Reencuentro de Historia e Y
 T538 · Shingeki · Mitras, aposentos de la reina · Rompe los grilletes con la mano; da comida y agua a Ymir. Ymir pregunta quién es.
 T539 · Shingeki · Mitras → Liberio · Se presenta a Ymir y se va sin esperar respuesta. Vuelve con Levi.
 T540 · Shingeki · Liberio, casa segura · Cuenta que Ymir está a salvo. Zeke advierte que Magath va a sospechar.
+T541 · Shingeki · Liberio, casa segura · Decide contarle a Magath mañana temprano. A dormir.
