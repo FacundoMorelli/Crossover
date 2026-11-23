@@ -16,3 +16,4 @@
 - Noche/mañana · (T473) Fiesta en el templo. Entrenamiento de Asta con Facundo. Suben a la superficie. Reporte a Julius (canon c74, sin brazos rotos de Asta). Marx: el Diamante invade Kiten (canon c74-75).
 - 16:05 · (T474) Yami, Asta, Charmy, Finral y Facundo llegan a Kiten (canon c75-76).
 - 16:05-18:30 · (T476) Batalla de Kiten según el canon (c76-79). El Diamante se retira. Asta sin brazos malditos (no hay viaje al Bosque de las Brujas por eso).
+- 18:34 · (T478) Vuelven a la base de los Toros Negros por el portal de Finral. Luck reta a Facundo.

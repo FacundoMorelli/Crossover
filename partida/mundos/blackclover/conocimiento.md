@@ -18,3 +18,4 @@
 - Charmy y cercanos · T470 · El cocinero no está casado y Charmy "nunca va a poder conocerlo" (dicho por Facundo).
 - Yami → Julius (T473) · Informe: Facundo rompió la barrera de Abari, derribó a Vetto, ahora es Toro Negro. Julius no puede medir su maná (Velo).
 - Asta → Yuno (T476) · Que Facundo es su rival y su senpai, que mandó a volar a Vetto por tres paredes. Motivo: Asta habla de todo.
+- Magna, Luck · T478 · Lo conocen en la base. Yami lo presenta: "el nuevo, Facundo". Gauche le cuenta a Magna que "partió a un tipo en dos paredes" (deformado; motivo: Magna pregunta). Luck no siente maná fuerte en él (Velo: persona común).

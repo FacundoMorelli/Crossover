@@ -1,8 +1,8 @@
 {
-  "turno": 477,
+  "turno": 478,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
-  "hora": "18:32",
+  "hora": "18:34",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -237,7 +237,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "real (base, sin Forma Cenit) ante Goku y Vegeta en Isla Papaya (T188)"
+    "poder_mostrado": "persona común (Black Clover)"
   },
   "armas": [
     {
