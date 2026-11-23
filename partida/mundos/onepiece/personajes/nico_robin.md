@@ -24,3 +24,4 @@ ESTADO: activa
 - T614 · Primer almuerzo en el Merry, al lado de Facundo. "¿Siempre son así?"
 - T615 · "¿Y adónde vas cuando desapareces?" (pregunta una vez).
 - T616 · "Claro. Y yo vengo de la luna." "La próxima vez, tráeme un libro de tu otro mundo."
+- T617 · Recibe el libro de Paradis. "No conozco esta escritura. Y conozco casi todas." "No. No me lo digas." Lo aprieta contra el pecho. RELACIÓN: interés claro en Facundo.

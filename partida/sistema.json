@@ -1,8 +1,8 @@
 {
-  "turno": 616,
+  "turno": 617,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 24 (Grand Line, Arabasta)",
-  "hora": "11:03",
+  "hora": "11:05",
   "edad": 18,
   "nivel": 26,
   "exp": 202640,
@@ -393,6 +393,11 @@
       "objeto": "(entregado) Documentos de Baroque Works",
       "detalle": "Robados del despacho de Crocodile en Rain Dinners (T596) y entregados a Koza: orden de la Operación Utopía con el emblema del cocodrilo; registro de cargamentos de Polvo de Baile (fechas, barcos, depósitos del palacio); lista de agentes con números; plano de Alubarna.",
       "mundo": "onepiece"
+    },
+    {
+      "objeto": "(regalado) Libro de Paradis",
+      "detalle": "Libro de tapas de cuero gastadas, impreso en Paradis (Shingeki), sobre las murallas y los titanes, con grabados. Regalado a Robin en T617. Escrito en el alfabeto de las murallas: Robin no puede leerlo.",
+      "mundo": "shingeki → onepiece"
     }
   ],
   "copias": [

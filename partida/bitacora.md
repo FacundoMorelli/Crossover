@@ -615,3 +615,4 @@ T613 · One Piece · Going Merry · Llama a Sanji.
 T614 · One Piece · Going Merry · Banquete de Sanji. Robin se sienta al lado de Facundo.
 T615 · One Piece · Going Merry · Charla con Robin. Ella pregunta adónde va cuando desaparece.
 T616 · One Piece · Going Merry · "A otro mundo" (sarcasmo). Robin: "tráeme un libro de tu otro mundo".
+T617 · One Piece · Going Merry · Le regala a Robin un libro de Paradis. No puede leerlo; queda fascinada.

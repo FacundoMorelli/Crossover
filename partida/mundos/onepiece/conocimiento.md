@@ -80,3 +80,4 @@
 - Cobra, Chaka, Pell, Igaram · T611 · Facundo llevó a Vivi y Koza al palacio por Teletransportación. Saben del papel de los Sombrero de Paja (y de Facundo) en la caída de Crocodile.
 - Smoker, Tashigi · T611 · Saben que Luffy derrotó a Crocodile (lo encontraron en la calle; testigos). Facundo estaba con él (testigos de Rainbase).
 - Robin · T616 · Facundo dijo, en tono sarcástico, que desaparece "a otro mundo". Robin lo tomó como broma. NO cuenta como saber que viene de otro lado.
+- Robin · T617 · Tiene un libro en una escritura que no conoce, con grabados de gigantes y murallas, regalo de Facundo. Lo cree un libro de un lugar muy lejano o antiguo; no sabe que es de otro mundo (Facundo no lo dijo en serio).
