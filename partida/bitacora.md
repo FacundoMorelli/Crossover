@@ -701,3 +701,4 @@ T699 · One Piece · Dock 1 · Pregunta si todos los carpinteros son tan rápido
 T700 · One Piece · Dock 1 · Kaku: el Merry no tiene arreglo.
 T701 · One Piece · Water 7 · Usopp se va solo con 200M. La familia Franky lo ataca en un callejón.
 T702 · One Piece · callejón · Se teletransporta junto a Usopp. La familia Franky lo rodea.
+T703 · One Piece · callejón · Amenaza a la familia Franky. Cargan todos contra él.

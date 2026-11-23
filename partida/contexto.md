@@ -1,11 +1,11 @@
-TURNO: 702 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:36 | Lugar: Water 7, callejón cerca del puerto
+TURNO: 703 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:36 | Lugar: Water 7, callejón cerca del puerto
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T702: se teletransporta al callejón. Usopp en el suelo, sangrando, abrazado a las dos maletas. Alrededor, quince matones de la familia Franky con cascos, bates y cadenas, y dos mujeres enormes y musculosas (las Hermanas Cuadradas, Mozu y Kiwi). Uno tiene el bate levantado sobre la cabeza de Usopp. Se dan vuelta: "¿Y tú de dónde saliste?" Usopp, con un ojo cerrado: "Fa... Facundo..."
+- T703: "No puedo dejar que le hagan esto a mi compañero y encima que nos roben. Váyanse antes de que los deje malheridos a todos." Los matones se ríen. El del bate: "¡Somos la familia Franky! ¡Esta ciudad es nuestra!" Mozu y Kiwi se despegan de la pared haciendo crujir los nudillos. Los quince cargan a la vez contra Facundo, con bates y cadenas en alto.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 PRESENTES EN ESCENA: Usopp (en el suelo, golpeado, con las maletas), ~15 matones de la familia Franky, Mozu y Kiwi (callejón). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
