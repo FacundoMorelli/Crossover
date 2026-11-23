@@ -1,8 +1,8 @@
 {
-  "turno": 556,
+  "turno": 557,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 10 tras Shiganshina",
-  "hora": "08:06",
+  "hora": "20:30",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -376,7 +376,7 @@
     },
     {
       "objeto": "Traje de burócrata marleyano",
-      "detalle": "Traje gris oscuro de tres piezas, camisa blanca, corbata gris, zapatos negros, reloj de bolsillo. Comprado T553 (2 Fragmentos). Puesto.",
+      "detalle": "Traje gris oscuro de tres piezas, camisa blanca, corbata gris, zapatos negros, reloj de bolsillo. Comprado T553 (2 Fragmentos). Guardado (T557).",
       "mundo": "shingeki"
     }
   ],

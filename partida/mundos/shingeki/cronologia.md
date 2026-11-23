@@ -52,3 +52,4 @@
 - 02:10 día 8 · (T542) Ronda del centro de investigación: celda de Ymir vacía, cadenas cortadas. Sirena. Patrullas por Liberio toda la madrugada. Magath convocado a las 03:00.
 - Día 8 · (T546) El equipo espera en la casa segura. Muller busca al "traidor del Medio Oriente" con patrullas.
 - Día 9 15:40 · (T546) Patrulla de Muller revisa la calle del Reloj casa por casa (orden de Muller sin pasar por Magath).
+- Día 10 · (T557) Muller pone vigilancia de civil en la esquina de la calle del Reloj. 20:30: Brandt llega con el coche.

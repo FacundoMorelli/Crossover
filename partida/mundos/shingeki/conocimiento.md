@@ -105,3 +105,4 @@
 - Coronel Muller · T554 · Ve al "asesor civil Facundo Morelli" en el despacho de Magath, de traje, con el gato. Por su sargento: extranjero en la casa del 14, "¿más personas?".
 - Muller · T555 · Facundo responde de qué colonia del sur es; coincide con el registro. Sin sospecha por eso.
 - Muller · T556 · Facundo dice que en la casa solo está su gato y que las cadenas eran de una puerta vieja. No le cree; Magath lo frena por rango.
+- Vigilantes de Muller · T557 · Ven la casa del 14; nadie sale en todo el día. A las 20:30 llega un coche negro del ejército (Brandt).
