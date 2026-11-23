@@ -1,8 +1,8 @@
 {
-  "turno": 694,
+  "turno": 695,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 31 (Grand Line, Long Ring Long Land)",
-  "hora": "17:50",
+  "hora": "17:52",
   "edad": 18,
   "nivel": 26,
   "exp": 209640,
@@ -1666,5 +1666,11 @@
       "entregado": "T565",
       "usado": false
     }
-  ]
+  ],
+  "relacion_actual": {
+    "con": "Nico Robin",
+    "mundo": "onepiece",
+    "desde": "T695 (primer beso, Long Ring Long Land)",
+    "estado": "empezando"
+  }
 }

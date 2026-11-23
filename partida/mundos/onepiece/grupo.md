@@ -4,3 +4,4 @@ BANDO: Sombrero de Paja (desde T370, por trato con Luffy). Avisó que se va por 
 RANGO: tripulante (sin puesto definido todavía).
 - Día 5 · Zarpan en el Going Merry. Tripulación: Luffy (capitán), Zoro, Nami (navegante), Usopp, Sanji (cocinero), Facundo. Kase.
 - T607 · Se une Nico Robin.
+- T695 · Facundo y Robin empiezan una relación.

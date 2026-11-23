@@ -693,3 +693,4 @@ T691 · One Piece · Long Ring Long Land · Sale caminando del hielo de Aokiji. 
 T692 · One Piece · Long Ring Long Land · Aokiji se va sin pelear. Le habla a Robin de Saul. Robin llora.
 T693 · One Piece · Long Ring Long Land · Abraza a Robin. Ella llora y le cuenta de Saul.
 T694 · One Piece · Long Ring Long Land · Le acaricia el pelo. Robin le apoya la frente en la frente.
+T695 · One Piece · Long Ring Long Land · Besa a Robin. Ella le devuelve el beso.
