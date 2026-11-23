@@ -437,3 +437,4 @@ T435 · Shingeki · afuera de Trost · Teletransporta a toda la Legión y los pr
 T436 · Shingeki · Trost · Se pone la capa. Entran a Trost entre festejos. Erwin irá a Mitras mañana; le pregunta si va.
 T437 · Shingeki · Trost · Irá a Mitras con Erwin. Cena con la 104.ª. Hange golpea la puerta para preguntarle cosas.
 T438 · Shingeki · Trost · Empieza el interrogatorio de Hange. Pregunta 1: la pared.
+T439 · Shingeki · Trost · La pared dura varios días. Pregunta 2: el pelo azul.
