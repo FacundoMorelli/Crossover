@@ -1,16 +1,16 @@
-TURNO: 442 | MUNDO: Shingeki | Año 850 · 21:32 | Lugar: Trost, cuartel de la Legión, habitación de Facundo
+TURNO: 443 | MUNDO: Shingeki | Año 850 · 4 días después de Shiganshina · 11:00 | Lugar: Mitras, palacio real, sala de audiencias
 MOMENTO DEL CANON: El regreso a Shiganshina, cap. ~77 (Facundo no lo sabe; ve lo que pasa). Ver mundos/shingeki/cronologia.md.
-FACUNDO: 18 años · Nivel 25 · EXP 186.890/195.000 · 173.275 Fragmentos · 135 puntos sin asignar · 0 monedas (1.000.000 berries guardados) · Energía 74% · BANKAI activo · Ojos: bien · STATS ~239 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30)
+FACUNDO: 18 años · Nivel 25 · EXP 186.890/195.000 · 173.275 Fragmentos · 135 puntos sin asignar · 0 monedas (1.000.000 berries guardados) · Energía 58% · BANKAI activo · Ojos: bien · STATS ~239 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30)
 PARA ESTE MUNDO: aliado de la Legión; viste la capa verde. Para la gente de Trost, un soldado más. El ejército sabe (rumor) que hay alguien que teletransporta y levanta paredes. Velo: persona común.
 QUIÉN SABE QUÉ: nadie sabe nada.
 MISIÓN DE MUNDO: CUMPLIDA (T413). 5 completados.
 ÚLTIMOS 5 TURNOS:
+- T443: simula 4 días. Duerme. Al amanecer salen en carro a Mitras (Erwin, Levi, Hange, Moblit, Facundo, Kase). Hange hace sus 139 preguntas en el camino; Levi duerme sentado. La frontera de Shiganshina sigue, gastando energía (58%). En Trost, Pixis custodia a los prisioneros; Zeke habla con los interrogadores. Día 4, 11:00: audiencia en Mitras ante la reina Historia (15), el generalísimo Zackly, Nile Dok y Pixis (llegó antes). Erwin informa todo. Zackly mira a Facundo: "¿Qué quieres a cambio de lo que hiciste? Y lo más importante: ¿qué quieres de nosotros?"
 - T442: "Kase." Kase abre un ojo al oír su nombre. Hange lo anota en una hoja aparte, sola. Moblit le recuerda que salen al amanecer. Hange guarda las otras 139 preguntas para el viaje a Mitras. Se va: "Hasta mañana, Facundo. Hasta mañana, Kase." Facundo queda solo con Kase.
 - T441: "Es un gato normal; está conmigo hace mucho, somos el uno para el otro." Hange se ablanda, deja el lápiz, mira a Kase con otros ojos. Pregunta (no del cuaderno): "¿Cómo se llama?"
 - T440: "Eh... un x2000 mi poder." Hange se queda muda; Moblit deja caer el lápiz. Hange hace la cuenta en voz alta con el Acorazado y se marea. Pregunta 3: el gato. "¿Kase también es... especial? ¿Vuela? ¿Habla? ¿Se transforma?"
 - T439: "Sigue ahí, hasta que me consuma la energía; varios días más." Hange anota frenética: es una fuente de energía finita y personal; pide permiso para medirle el pulso (Moblit: "¡Jefa!"). Pregunta 2: "Hoy tu pelo se volvió azul, todo. Y ahora es mitad y mitad. ¿Qué cambió? ¿Eras más fuerte así?"
-- T438: "Está bien." Hange y Moblit entran. Hange se sienta en el piso con el cuaderno; Moblit anota. Kase la mira desde la cama. Pregunta 1: "La pared plateada de Shiganshina. ¿Sigue ahí ahora mismo? ¿Hasta cuándo dura?"
-PRESENTES EN ESCENA: Kase (en la cama).
+PRESENTES EN ESCENA: Reina Historia (trono), Zackly, Nile Dok, Pixis, Erwin, Levi, Hange. Guardias. Kase en el hombro.
 VÍNCULOS ACTIVOS (Shingeki): ninguno.
 COPIAS: Proporción + Horas Extra (Nanami). Transfiguración Ociosa (Mahito). Físico + Puño Divergente (Yuji). Ira Estelar (Yuki). Boogie Woogie (Todo). Muñeco de Paja (Nobara). Cadáveres Malditos (Yaga). Quincy (Uryū). Shinsō (Gin). Aizen. Senbonzakura (Byakuya). Zabimaru (Renji). Todo Ichigo. Goku (todo). Dabura.
 DONES: Manecilla Inversa (Jujutsu, 100). Sakaime (Bleach, 100). Forma Cenit (DB, 100). Shio Shio no Mi (OP, 31). Titán de Ceniza (Shingeki, 30).
@@ -19,4 +19,4 @@ INVENTARIO CLAVE: Hōgyoku. Rift, Echo, Sakaime. Jarrón de Karin. Dibujo de Mar
 KASE: en el hombro.
 OTROS MUNDOS: Jujutsu (01/02/2019). DB (día 9, 774). Bleach (28/09). One Piece (Día 9, Going Merry rumbo a Whisky Peak; pirata del Sombrero de Paja, 26M). Completados 4. VIAJE LIBRE.
 HILOS ABIERTOS: Promesas: Buu, Kame House, Mr. Satán (DB); Megumi y todos (Jujutsu); Karakura (Bleach); volver con Luffy (OP). 135 puntos sin asignar.
-OBJETIVO: Noche en Trost. Salida a Mitras al amanecer.
+OBJETIVO: Zackly pregunta qué quieres a cambio y qué quieres de ellos.
