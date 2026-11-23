@@ -1,11 +1,11 @@
-TURNO: 699 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 12:12 | Lugar: Water 7, Dock 1 de la Galley-La
+TURNO: 700 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:20 | Lugar: Water 7, Dock 1 de la Galley-La
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T699: "Eh, corre muy rápido. ¿Así son todos sus carpinteros?" Iceburg: "Nmaa, los de la Galley-La saltan entre andamios de cuarenta metros todo el día." Paulie: "Kaku es el más rápido del muelle. Lucci, el más fuerte." La paloma de Lucci: "Cucurrucú. Algunos tenemos más práctica que otros." Lucci mira a Facundo un segundo, sin expresión. Kalifa se acomoda los anteojos y anota algo en el portapapeles.
+- T700: observa y espera. Iceburg les muestra los muelles; Paulie y Nami se pelean. Vuelve Kaku, serio: la quilla del Merry está partida; no se puede arreglar. "Ese barco no llega a la próxima isla. Si sale al mar, se hunde. Les recomiendo comprar uno nuevo." Silencio. Luffy no entiende. Usopp se pone blanco: "¿Qué... qué dijiste?"
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 PRESENTES EN ESCENA: Facundo, Luffy, Nami, Usopp (con 300M en maletas); Iceburg, Kalifa, Paulie, Lucci (con Hattori), Kaku (Dock 1). Zoro en el Merry; Sanji y Chopper de compras; Robin paseando sola. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).

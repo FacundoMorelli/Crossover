@@ -698,3 +698,4 @@ T696 · One Piece · Long Ring Long Land · Miran las estrellas. Próxima isla: 
 T697 · One Piece · Water 7 · Simula: tres días de mar; Kokoro y el Puffing Tom; llegan a Water 7.
 T698 · One Piece · Water 7 · Cambian el oro (300M). Conocen a Iceburg y a los carpinteros. Robin se va a pasear sola.
 T699 · One Piece · Dock 1 · Pregunta si todos los carpinteros son tan rápidos. Lucci lo mira; Kalifa anota algo.
+T700 · One Piece · Dock 1 · Kaku: el Merry no tiene arreglo.
