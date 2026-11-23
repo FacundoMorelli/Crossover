@@ -621,3 +621,4 @@ T619 · One Piece · Going Merry · Le enseña la A a Robin. Ella deduce el alfa
 T620 · One Piece · Going Merry · Broma con Robin: "Conocerte fue un accidente. Todavía no decidí si de los buenos."
 T621 · One Piece · Going Merry · Próxima isla: Jaya (Mock Town), según Robin.
 T622 · One Piece · mar · Un galeón cae del cielo. El Log Pose apunta hacia arriba.
+T623 · One Piece · mar · Luffy, Sanji y Zoro bajan al galeón. Llega Masira; la manguera se enreda.

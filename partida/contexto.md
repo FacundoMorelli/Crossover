@@ -1,16 +1,16 @@
-TURNO: 622 | MUNDO: One Piece | Día 25 (Grand Line) | HORA: 14:10 | Lugar: Going Merry, mar abierto, alejándose de Arabasta
+TURNO: 623 | MUNDO: One Piece | Día 25 (Grand Line) | HORA: 15:30 | Lugar: Going Merry, mar abierto, alejándose de Arabasta
 MOMENTO DEL CANON: Fin del arco de Arabasta (cap. ~216-217 alterado): despedida de Vivi. Crocodile preso; la rebelión terminó sin batalla. Robin en la tripulación. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 202.640/215.000 · 173.707 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T623: observa. Robin: "Si la aguja apunta arriba, la próxima isla está en el cielo." Nami no lo acepta. Luffy quiere explorar el galeón que se hunde; Usopp improvisa trajes de buzo con barriles. Luffy, Sanji y Zoro bajan atados a una manguera; Usopp, Nami y Chopper bombean aire. Robin reconoce el escudo del galeón: barco de exploradores de hace más de 200 años. Llega un barco de salvamento con forma de mono: Masira, "el rey del salvamento", que se tira al agua con sus hombres y se lleva puesto el galeón. La manguera del aire se enreda: abajo, Luffy y los demás quedan en peligro. Masira, desde su cubierta: "¡Uki! ¡Este barco hundido es MÍO!"
 - T622: "Bueno, vamos." Navegan hacia el noreste el resto del día y la noche (Robin lee; Facundo duerme en cubierta). Día 25, 14:10: el cielo se oscurece sin nubes; una sombra enorme cae desde arriba: un galeón antiguo, podrido, que se estrella en el mar al lado del Merry. Llueven tablas y esqueletos. El Log Pose de Nami apunta hacia arriba.
 - T621: "Cuando puedas leerlo, espero que me digas qué dice." Robin: "Trato hecho." "Bueno, Nami, ¿cuál sería nuestra próxima isla?" Nami muestra el Log Pose: la aguja apunta al noreste; no sabe el nombre; unos días de navegación. Robin, sin levantar la vista: "Según las rutas de Baroque Works, en esa dirección está Jaya. Una isla de piratas. Mock Town." Luffy: "¡Piratas! ¡Vamos!"
 - T620: "¿El mejor regalo? ¿Mejor que conocerme a mí? Qué feo de tu parte." (sarcástico). Robin, sin levantar la vista del libro: "Conocerte no fue un regalo, Ojos de Eclipse. Fue un accidente." Pausa. Lo mira de reojo, con media sonrisa: "Todavía no decidí si de los buenos." Sanji, desde la otra punta, rompe un plato.
 - T619: le dibuja la letra A en el margen y la señala en una palabra. Robin la encuentra en toda la página en un minuto, cuenta frecuencias en voz baja, deduce que es alfabética, con vocales, y que se escribe de izquierda a derecha. "Es la letra más usada... como en nuestra lengua." Le apoya la mano sobre la suya un segundo: "Gracias. Es el mejor regalo que me hicieron en veinte años."
-- T618: "Espero que lo descubras. Si quieres te puedo dar una pista: cómo es la letra A, así empiezas con el abecedario." Robin, sorprendida de que él la sepa leer, abre el libro sobre la mesa y le pasa una pluma de Nami: "Una letra. Con una me alcanza para empezar." Espera.
-PRESENTES EN ESCENA: toda la tripulación en cubierta. Galeón destrozado cayendo al lado. Kase en el hombro.
+PRESENTES EN ESCENA: en cubierta: Nami, Usopp, Chopper (bombeando aire), Robin. Bajo el agua: Luffy, Sanji, Zoro (trajes de buzo, manguera enredada). Barco de Masira al lado. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
