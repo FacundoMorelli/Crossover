@@ -30,3 +30,4 @@ ESTADO: activa
 - T620 · "Conocerte no fue un regalo. Fue un accidente. Todavía no decidí si de los buenos."
 - T621 · "Trato hecho" (contarle qué dice el libro). Informa que la próxima isla es Jaya.
 - T635 · Compara el mapa de Jaya con el de Skypiea: encajan.
+- T662 · Junto a la fogata, se sienta al lado de Facundo: "Ya tengo once letras."

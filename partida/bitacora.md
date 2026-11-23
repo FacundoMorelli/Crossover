@@ -660,3 +660,4 @@ T658 · One Piece · altar · Shura falla tres veces en leerlo. Copia Mantra. Sh
 T659 · One Piece · altar · Haki de observación al máximo (instrucción del jugador). Oye a Enel.
 T660 · One Piece · Upper Yard · Simula: llegan todos al altar al anochecer. Satori derrotado. Gan Fall.
 T661 · One Piece · altar · ¿Qué hacemos? Cada uno opina. Gan Fall cuenta lo de Enel y los shandianos. Luffy: fogata.
+T662 · One Piece · Upper Yard · Fogata con lobos. Mapas: Shandora cerca del árbol. Robin al lado de Facundo: "once letras".
