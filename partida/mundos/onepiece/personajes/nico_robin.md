@@ -26,3 +26,4 @@ ESTADO: activa
 - T616 · "Claro. Y yo vengo de la luna." "La próxima vez, tráeme un libro de tu otro mundo."
 - T617 · Recibe el libro de Paradis. "No conozco esta escritura. Y conozco casi todas." "No. No me lo digas." Lo aprieta contra el pecho. RELACIÓN: interés claro en Facundo.
 - T618 · "Una letra. Con una me alcanza para empezar." Le pasa una pluma.
+- T619 · Aprende la A; deduce que es alfabética. Mano sobre la de Facundo un segundo: "Es el mejor regalo que me hicieron en veinte años."

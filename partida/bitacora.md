@@ -617,3 +617,4 @@ T615 · One Piece · Going Merry · Charla con Robin. Ella pregunta adónde va c
 T616 · One Piece · Going Merry · "A otro mundo" (sarcasmo). Robin: "tráeme un libro de tu otro mundo".
 T617 · One Piece · Going Merry · Le regala a Robin un libro de Paradis. No puede leerlo; queda fascinada.
 T618 · One Piece · Going Merry · Ofrece enseñarle a Robin la letra A. Ella le pasa una pluma.
+T619 · One Piece · Going Merry · Le enseña la A a Robin. Ella deduce el alfabeto. "El mejor regalo en veinte años."
