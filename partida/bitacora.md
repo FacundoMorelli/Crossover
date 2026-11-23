@@ -536,3 +536,4 @@ T534 · Shingeki · Liberio · Deja medicina al viejo. Vuelven a la casa. 23:58,
 T535 · Shingeki · Liberio, centro de investigación · En la celda de Ymir. Ymir despierta: "¿Quién diablos eres?"
 T536 · Shingeki · Mitras, aposentos de la reina · Saca a Ymir de la celda y la lleva con Historia.
 T537 · Shingeki · Mitras, aposentos de la reina · Reencuentro de Historia e Ymir. Historia agradece y pide sacarle los grilletes.
+T538 · Shingeki · Mitras, aposentos de la reina · Rompe los grilletes con la mano; da comida y agua a Ymir. Ymir pregunta quién es.

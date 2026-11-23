@@ -89,3 +89,4 @@
 - Ymir · T536 · Ve a Facundo aparecer en su celda y llevarla en un instante con Historia. Facundo dice que una reina quiere verla.
 - Historia · T536 · Ve a Facundo aparecer en sus aposentos con Ymir viva.
 - Historia, Facundo · T537 · Por Ymir: la iban a dar a Porco en dos días; escribió una carta para Historia y se la dio a un oficial de Marley para que se la entregara a Reiner.
+- Historia, Ymir · T538 · Ven a Facundo romper grilletes de hierro apretando con la mano y sacar comida de su sobretodo.
