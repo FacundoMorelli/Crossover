@@ -36,3 +36,4 @@
 - Historia, Zackly, Nile, Pixis, Erwin, Levi, Hange · T445 · Facundo dice que vino con una misión que no detalla, que no los perjudica y que quiere ayudar.
 - Guardia del palacio (Policía Militar) · T444-T489 · Orden de Zackly: el aliado de la reina tiene pelo blanco y azul y un gato; no se lo detiene. Motivo: que no lo ataquen si vuelve.
 - Dos guardias de la Policía Militar · T489 · Ven abrirse una puerta de luz en la escalinata y salir a Facundo con el gato.
+- Guardia viejo de la PM · T490 · Facundo confirma que es el aliado de la reina y pregunta por la Legión.

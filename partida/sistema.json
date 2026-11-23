@@ -1,8 +1,8 @@
 {
-  "turno": 489,
+  "turno": 490,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 5 tras Shiganshina",
-  "hora": "21:07",
+  "hora": "21:08",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -333,6 +333,11 @@
       "mundo": "shingeki",
       "turno": 436,
       "nota": "puesta"
+    },
+    {
+      "objeto": "Foto de Black Clover (en la cámara)",
+      "detalle": "Tomada en T482 al amanecer desde la ventana de la base de los Toros Negros: la explanada con los robles, el castillo torcido de piedra oscura y el cielo rosado. Para Hange. (paréntesis del jugador, T490)",
+      "mundo": "blackclover"
     }
   ],
   "copias": [

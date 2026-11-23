@@ -488,3 +488,4 @@ T486 · Black Clover · Base, explanada · Ayuda a Yami a levantarse. Yami lo re
 T487 · Black Clover · Base, explanada · Duelo con Asta, conteniéndose. Asta cae ocho veces y se levanta. Saca las dos espadas.
 T488 · Black Clover · Base, explanada · Para las dos espadas de Asta con las manos y lo tumba. Duelo ganado.
 T489 · Black Clover → Shingeki · Ayuda a Asta, se despide de los Toros ("en unos días vuelvo"). Abre una puerta. Llega a Mitras de noche, escalinata del palacio. Guardias de la Policía Militar.
+T490 · Shingeki · Mitras, palacio · Pregunta por la Legión. Erwin está adentro con Zackly y Pixis; Hange en Trost. El guardia joven va a avisar.
