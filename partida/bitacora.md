@@ -572,3 +572,4 @@ T570 · Shingeki · Mitras, sala del consejo · Consejo de medianoche. Historia 
 T571 · Shingeki · Mitras, sala del consejo · Acepta. Zackly: Wall Maria, 1 km al oeste de Shiganshina, mediodía.
 T572 · Shingeki · Mitras · Bromea con Ymir. Ymir: "Ni en tus sueños, lindo."
 T573 · Shingeki · Wall Maria · Simula hasta el mediodía. Sobre la muralla con los testigos. Zackly marca el tramo.
+T574 · Shingeki · Wall Maria · Pregunta vistosa o tranquila. Zackly: la que va a ver el mundo.
