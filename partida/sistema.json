@@ -1,8 +1,8 @@
 {
-  "turno": 478,
+  "turno": 479,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
-  "hora": "18:34",
+  "hora": "18:37",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -237,7 +237,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Black Clover)"
+    "poder_mostrado": "persona común (Black Clover) · aura de Ultra Instinto visible"
   },
   "armas": [
     {
@@ -801,6 +801,13 @@
       "mision": "Encontrar a Lotus dentro de su humo y tocarle el hombro.",
       "dificultad": "MEDIA",
       "emitida": "T476"
+    },
+    {
+      "poder": "Luck Voltia: Magia de Rayo",
+      "mundo": "blackclover",
+      "mision": "Que Luck te alcance una vez con su golpe más rápido, y devolvérselo más rápido todavía.",
+      "dificultad": "BAJA",
+      "emitida": "T479"
     }
   ],
   "misiones_de_copia_rechazadas": [],

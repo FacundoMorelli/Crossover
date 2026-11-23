@@ -19,3 +19,4 @@
 - Yami → Julius (T473) · Informe: Facundo rompió la barrera de Abari, derribó a Vetto, ahora es Toro Negro. Julius no puede medir su maná (Velo).
 - Asta → Yuno (T476) · Que Facundo es su rival y su senpai, que mandó a volar a Vetto por tres paredes. Motivo: Asta habla de todo.
 - Magna, Luck · T478 · Lo conocen en la base. Yami lo presenta: "el nuevo, Facundo". Gauche le cuenta a Magna que "partió a un tipo en dos paredes" (deformado; motivo: Magna pregunta). Luck no siente maná fuerte en él (Velo: persona común).
+- Luck, Magna, Asta, Noelle, Vanessa, Charmy, Finral, Gauche, Grey, Gordon, Yami · T479 · Ven el aura plateada (Ultra Instinto) y a Facundo esquivar sin moverse a propósito los ataques de rayo de Luck. Magna y Luck lo ven por primera vez; lo creen una magia de refuerzo rara. El Velo sigue: nadie siente maná real.

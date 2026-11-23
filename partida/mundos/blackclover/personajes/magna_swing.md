@@ -8,6 +8,7 @@ PERSONALIDAD Y FORMA DE HABLAR: Pandillero ruidoso, exige respeto a los nuevos, 
 RELACIÓN CON FACUNDO: acaba de conocerlo; lo mira como novato.
 ENCUENTROS:
 - T478 · Base. Le exige que lo llame senpai.
+- T479 · Mira el duelo desde la puerta, con la boca abierta.
 QUÉ SABE DE FACUNDO: nombre, que es nuevo, el rumor de Gauche.
-QUÉ PODERES DE FACUNDO VIO: ninguno
+QUÉ PODERES DE FACUNDO VIO: Ultra Instinto (aura plateada, esquiva sola) T479
 ESTADO: activo

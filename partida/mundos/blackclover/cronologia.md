@@ -17,3 +17,4 @@
 - 16:05 · (T474) Yami, Asta, Charmy, Finral y Facundo llegan a Kiten (canon c75-76).
 - 16:05-18:30 · (T476) Batalla de Kiten según el canon (c76-79). El Diamante se retira. Asta sin brazos malditos (no hay viaje al Bosque de las Brujas por eso).
 - 18:34 · (T478) Vuelven a la base de los Toros Negros por el portal de Finral. Luck reta a Facundo.
+- 18:37 · (T479) Duelo Facundo-Luck afuera de la base. Ultra Instinto. Los Toros miran.
