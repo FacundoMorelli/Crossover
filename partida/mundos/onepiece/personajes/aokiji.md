@@ -14,3 +14,4 @@ ESTADO: activo
 - T689 · "Igual a su abuelo." Extiende la mano hacia Robin para congelarla.
 - T690 · Congela a Facundo (protegiendo a Robin). "Qué desperdicio." Levanta el pie para romper la estatua.
 - T691 · Facundo sale de su hielo. "Ara... Eso no me pasó nunca." Se pone serio; sable de hielo.
+- T692 · "Pelear contigo sería mucho trabajo." A Robin: "Saul se habría alegrado." Se va en bicicleta sobre el mar congelado. "Por ahora."
