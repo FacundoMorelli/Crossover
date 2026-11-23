@@ -1,13 +1,13 @@
-TURNO: 686 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 12:30 | Lugar: Long Ring Long Land, playa (meta de la Donut Race)
-MOMENTO DEL CANON: Long Ring Long Land (cap. ~303-305): Foxy y la Davy Back Fight. Ver mundos/onepiece/cronologia.md.
+TURNO: 687 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 17:20 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
+MOMENTO DEL CANON: Long Ring Long Land (cap. ~319-321): llega el almirante Aokiji. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 206.640/215.000 · 133.687 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T687: observa. Luffy acepta la regla; Chopper pasa al equipo de Foxy, llorando. Segundo juego, Groggy Ring: Zoro y Sanji ganan a pesar de las trampas; eligen recuperar a Chopper. Tercer juego, combate: Luffy contra Foxy; Foxy usa espejos y el Noro Noro Beam; Luffy le devuelve el rayo con un espejo y lo gana con un Gatling. Luffy elige la bandera de Foxy. Foxy se deprime. Fiesta chica con Tonjit, que baja de los zancos y encuentra a su caballo. Al atardecer, en la pradera, Robin se queda helada mirando a un hombre altísimo y flaco, de traje y antifaz para dormir, acostado en el pasto: "Ara ara... Nico Robin. Cuánto creciste." (Aokiji)
 - T686: observa. Luffy acepta: "¡Suena divertido!" Primer juego, la Donut Race (carrera de botes alrededor de la isla): Nami, Usopp y Robin en un bote hecho con barriles contra el bote de Porche. Los piratas de Foxy hacen trampa todo el tiempo (cañonazos, sabotaje); Foxy, desde la orilla, les tira un rayo de luz con las manos (Noro Noro: los pone en cámara lenta) justo antes de la meta. Gana el bote de Foxy. Foxy, encantado: "¡Fe fe fe! ¡Elijo al tripulante!" Señala: "¡Quiero al renito!" Chopper se pone a llorar.
-- T685: navegan. Día 31: llegan a una isla larguísima y chata, con pastos y animales de patas largas. Un viejo en zancos de diez metros (Tonjit) lleva diez años arriba esperando que baje la marea. De pronto, un barco pirata con cara de zorro ancla al lado del Merry. Bajan cien piratas; al frente, un hombre de cabeza enorme y partida (Foxy): "¡Fe fe fe! ¡Sombrero de Paja! ¡Te desafío a la Davy Back Fight! ¡Tres juegos! ¡El que gana se queda con un tripulante del otro!"
-PRESENTES EN ESCENA: tripulación, Tonjit en sus zancos; Foxy, Porche, Hamburg y ~100 piratas de Foxy. Kase en el hombro.
+PRESENTES EN ESCENA: toda la tripulación, Tonjit, Aokiji (acostado en el pasto, levantándose). Foxy y su tripulación se fueron. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

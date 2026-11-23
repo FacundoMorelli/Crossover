@@ -38,3 +38,4 @@ ESTADO: activa
 - T673 · Facundo se pone entre ella y el rayo de Enel.
 - T681 · "La escuché. Toda la isla la escuchó."
 - T683 · Pasa la fiesta con Gan Fall y el Poneglyph; la segunda noche se duerme otra vez en el hombro de Facundo.
+- T687 · Se queda helada ante Aokiji.

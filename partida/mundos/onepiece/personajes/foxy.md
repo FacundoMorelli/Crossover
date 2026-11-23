@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T685 · Desafía a la Davy Back Fight.
 ESTADO: activo
+- T687 · Pierde contra Luffy. Se deprime. Se va sin bandera.
