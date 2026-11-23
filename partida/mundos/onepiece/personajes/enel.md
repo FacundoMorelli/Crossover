@@ -16,3 +16,4 @@ ESTADO: activo
 - T674 · Amaru a quemarropa: nada. Cae de rodillas: "Soy Dios..."
 - T675 · "¿Agua de mar? Estás a diez mil metros sobre el mar azul." Recupera la sonrisa y se levanta.
 - T676 · Huye de Luffy al arca Maxim. "¡Borraré esta isla desde el cielo!"
+- T677 · "¡¿Aquí también?!" Anuncia el Raigo.
