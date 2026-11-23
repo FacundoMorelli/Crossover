@@ -11,3 +11,4 @@
 - Zarick, Zuta, Gauche, Grey · T456 · Facundo apareció de la nada entre ellos (Teletransportación).
 - Gauche, Grey · T457 · Vieron a Facundo formar un arco de luz azul y derribar a Zarick y Zuta. Lo oyeron decir que Yami le pidió protegerlos.
 - Asta, Kiato · T459 · Saben por Facundo que el Ojo del Sol de Medianoche atacó el templo.
+- Noelle, Kahono, Kiato · T462 · Saben su nombre: Facundo.

@@ -460,3 +460,4 @@ T458 · Black Clover · Templo · Se teletransporta al duelo de Asta y Kiato.
 T459 · Black Clover · Templo · Avisa del Ojo del Sol de Medianoche. Asta y Kiato dejan el duelo.
 T460 · Black Clover · Templo · Les dice dónde está Vetto. Asta corre al oeste. Kiato pide ir con Kahono.
 T461 · Black Clover · Templo · Lleva a Kiato con Kahono (salón del este). Noelle pregunta por Asta.
+T462 · Black Clover · Templo · Se presenta. Noelle corre al oeste. Kahono y Kiato van detrás, hacia Vetto.
