@@ -9,3 +9,4 @@ ESTADO: activa
 - Días 9-20 (ausencia) · Se revela como Nefertari Vivi, princesa de Arabasta; viaja con los Sombrero de Paja.
 - T581 · Baja a la bodega. "Tú eres... Ojos de Eclipse."
 - T582 · Sorprendida de que Facundo sepa quién es. Avisa: hay Marina en Nanohana.
+- T588 · Le explica a Facundo la situación de Arabasta y Crocodile.

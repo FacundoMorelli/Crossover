@@ -55,3 +55,4 @@
 - Ace · T584 · Facundo: compañero de Luffy, estuvo de viaje un tiempo.
 - Zoro, Sanji · T585 · Facundo volvió.
 - Tripulación, Vivi, Ace, marines de ambos barcos · T587 · Ven la bala detenerse en el aire con el ojo azul de Facundo brillando y volver al barco de la Marina. Lo atribuyen a su "fruta". Los marines lo informarán a Smoker.
+- Facundo · T588 · Por Vivi: Arabasta, sequía, Polvo de Baile, Baroque Works, Mr. 0 = Crocodile; rebeldes de Koza; plan de ir a Yuba.
