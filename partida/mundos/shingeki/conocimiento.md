@@ -77,3 +77,5 @@
 - Magath, Brandt, equipo · T525 · Facundo saca del abrigo una piedra de hielo en bruto, del tamaño de un puño. Magath la cree de Paradis.
 - Magath, Brandt · T526 · Por Facundo: Paradis tiene los yacimientos más grandes del mundo, para décadas.
 - Eren, Mikasa, Levi · T527 · Ven Liberio: autos, tranvía, carteles contra los "demonios de la isla", eldianos con brazalete detrás de la cerca.
+- Facundo · T528 · Siente con el Ojo del Eclipse dos energías de titán en Liberio: una presa bajo tierra en el centro de investigación del puerto norte; otra en la mansión Tybur. Por Zeke: ahí tenían a Ymir. Zeke se sorprende de que "sienta" titanes, pero no pregunta.
+- Eren, Mikasa, Levi, Zeke · T528 · Facundo dice que va a averiguar si Ymir sigue viva y que a la noche van a la zona de internamiento.

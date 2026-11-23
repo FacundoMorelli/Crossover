@@ -1,8 +1,8 @@
 {
-  "turno": 527,
+  "turno": 528,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 7 tras Shiganshina",
-  "hora": "13:50",
+  "hora": "14:20",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -1507,7 +1507,9 @@
     "lugar_de_llegada_shingeki": "Tejado de una casa de piedra del distrito de Shiganshina, a ~400 m de la muralla interior. Se ve: el Acorazado caído y humeante en la calle, la Legión en los tejados, la muralla con dos figuras arriba (Armin y Bertholdt), del otro lado el Bestia en el campo. Nadie los ve llegar.",
     "blackclover_tirada": "T450: mundo al azar entre 7 no visitados: blackclover. Momento: tirada 0.152 -> cap. ~60 de 392: El Templo Submarino.",
     "momento_del_canon_blackclover": "Cap. ~60. Templo Submarino, noche de luna llena. Gifso empezó la Batalla Real del Templo: Toros Negros (Asta, Noelle, Magna, Luck, Vanessa, Finral, Charmy, Gauche, Grey) contra 9 sacerdotes; Yami espectador. Pronto (c62-63) irrumpen Vetto, Abari, Zarick, Zuta (Ojo del Sol de Medianoche): Vetto aplasta a Gio, vence a Luck y Magna; Abari encierra a Yami y Gifso. c67: Vetto le arranca la pierna a Kiato y aplasta la garganta de Kahono. c68-72: Noelle, Asta, Vanessa, Finral; Yami corta la barrera y mata a Vetto (c72-73).",
-    "lugar_de_llegada_blackclover": "Plaza de la ciudad submarina, frente a la escalinata del Templo, bajo una cúpula de aire. Se ve la luz de la luna filtrada por el agua. Desde el templo llegan explosiones del juego. Nadie los ve llegar."
+    "lugar_de_llegada_blackclover": "Plaza de la ciudad submarina, frente a la escalinata del Templo, bajo una cúpula de aire. Se ve la luz de la luna filtrada por el agua. Desde el templo llegan explosiones del juego. Nadie los ve llegar.",
+    "shingeki_ymir": "T528: Ymir SIGUE VIVA. Encerrada en el centro de investigación de titanes del puerto norte de Liberio, sedada y encadenada en una celda profunda. Marley adelantó la herencia del Mandíbula a Porco Galliard por la pérdida de los cuatro guerreros: la ceremonia (inyección + que Porco la devore) está fijada para dentro de 2 días (día 9, al amanecer).",
+    "shingeki_martillo": "T528: la segunda energía de titán que siente Facundo en la mansión Tybur es Lara Tybur, portadora del Martillo de Guerra. Facundo no sabe qué es."
   },
   "recompensa_onepiece": {
     "monto": 26000000,
