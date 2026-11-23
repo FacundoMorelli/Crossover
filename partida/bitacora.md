@@ -534,3 +534,4 @@ T532 · Shingeki · Liberio, zona de internamiento · Por los techos con Eren y 
 T533 · Shingeki · Liberio, zona de internamiento · Distrae a la patrulla con un grito falso y lleva al viejo a su casa con agua, comida y 10 monedas.
 T534 · Shingeki · Liberio · Deja medicina al viejo. Vuelven a la casa. 23:58, listo para Ymir.
 T535 · Shingeki · Liberio, centro de investigación · En la celda de Ymir. Ymir despierta: "¿Quién diablos eres?"
+T536 · Shingeki · Mitras, aposentos de la reina · Saca a Ymir de la celda y la lleva con Historia.

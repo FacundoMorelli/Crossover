@@ -86,3 +86,5 @@
 - Eren, Mikasa · T533 · Vieron todo desde el techo.
 - Viejo eldiano de la plaza · T534 · Encuentra medicina en la mesa de luz de su mujer. No vio a nadie.
 - Levi, Zeke · T534 · Por Eren: lo del viejo de la plaza y lo que hizo Facundo.
+- Ymir · T536 · Ve a Facundo aparecer en su celda y llevarla en un instante con Historia. Facundo dice que una reina quiere verla.
+- Historia · T536 · Ve a Facundo aparecer en sus aposentos con Ymir viva.

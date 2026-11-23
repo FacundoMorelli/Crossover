@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: aparición en la celda.
 ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a Porco prevista para el día 9 al amanecer (ella no lo sabe exactamente).
+- T536 · Facundo la saca de la celda y la lleva con Historia. "Hola, Historia. ¿Reina, eh? Te queda grande la silla, seguro."

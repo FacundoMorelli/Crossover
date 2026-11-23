@@ -12,3 +12,4 @@ ESTADO: activo
 - T512 · Se entera de lo de Ymir. Se sienta, aguanta. "Ella eligió irse con ellos. Siempre hacía lo que quería." Le pide a Facundo que averigüe en Marley si es verdad y si dejó algo.
 - T513 · Facundo le promete averiguar y traer a Ymir si vive. "Gracias." Sonríe por primera vez en la conversación.
 - T514 · Kase se queda con ella toda la tarde. Al amanecer, sin dormir, le da la carta sellada y un sobre chico: "Para Ymir. Si la encuentras."
+- T536 · Despierta junto a la ventana. Facundo aparece con Ymir viva. "...¿Ymir?"
