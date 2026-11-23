@@ -29,3 +29,5 @@
 - 21:10 · (T491) Facundo se encuentra con Erwin y Levi en el palacio.
 - 21:13 · (T492) Facundo llega a Trost con Erwin, Levi y Pixis por Teletransportación.
 - 21:20 · (T493) Zeke revela a Facundo que Marley enviará una flota a buscar a los guerreros en unos tres meses (si en ese plazo no hay noticias, se los da por perdidos y se prepara la siguiente operación sobre Paradis, en medio de la guerra con la Alianza del Medio Oriente).
+- Noche día 5-6 · (T497) Facundo duerme en el cuartel de la Guarnición de Trost. 04:10: Pieck le pide a un guardia hablar con "el hombre del gato". Hange lo sabe por el guardia.
+- 06:40 · (T497) Desayuno; Facundo va a ir a Mitras por Eren.

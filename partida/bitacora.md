@@ -495,3 +495,4 @@ T493 · Shingeki · Trost, celdas · Muestra la foto a Hange. A solas con Zeke: 
 T494 · Shingeki · Trost, celda de Zeke · Acepta el trato: mañana lo lleva con Eren. Zeke adelanta Liberio y Magath.
 T495 · Shingeki · Trost, celdas · Le cuenta el trato a Erwin. Levi en contra, Hange a favor. Erwin acepta con condiciones.
 T496 · Shingeki · Trost, celdas · Le cuenta a Erwin lo de Liberio y Magath. Erwin pide que traiga a Eren por la mañana.
+T497 · Shingeki · Trost, cuartel de la Guarnición · Duerme ahí. Pieck pide hablar con él. Desayuno con Erwin, listo para ir por Eren.

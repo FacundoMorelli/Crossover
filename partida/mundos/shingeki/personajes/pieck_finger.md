@@ -6,3 +6,4 @@ ENCUENTROS:
 - T410 · Facundo derriba al Carguero con una bola de ki; inconsciente en la nuca.
 QUÉ SABE DE FACUNDO: nada (inconsciente).
 ESTADO: inconsciente, en el campo.
+- T497 · De madrugada le pide a un guardia hablar con "el hombre del gato".
