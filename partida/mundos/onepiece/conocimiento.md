@@ -140,4 +140,5 @@
 - Facundo · T710 · Por Robin: el Buster Call borró Ohara cuando ella tenía ocho años.
 - Luffy, Zoro, Nami, Usopp, Sanji, Chopper · T713 · Por Facundo: el Gobierno obliga a Robin a entregarse con la amenaza del Buster Call; esta noche hará algo por orden de ellos; después la llevan a Enies Lobby. Ohara.
 - Facundo · T715 · Siente con el Haki un espíritu en el Merry que dice "quiero llevarlos un poco más lejos". Oye el ataque a Iceburg.
-- Facundo · T716 · Vio y oyó todo: Lucci, Kaku, Kalifa, Blueno son el CP9, infiltrados cinco años en la Galley-La; buscan los planos de Plutón; los tiene Franky (Cutty Flam). Nadie lo vio.
+- Facundo · T716 · Vio a cinco enmascarados balear a Iceburg y buscar algo; reconoció a Robin entre ellos por el ki.
+- Iceburg · T716 · Vio la cara de Robin entre los atacantes.

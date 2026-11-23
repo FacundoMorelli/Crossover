@@ -714,4 +714,4 @@ T712 · One Piece · Going Merry · Vuelve con el libro de Robin. Le preguntan d
 T713 · One Piece · Going Merry · Cuenta todo a la tripulación. Luffy: vamos a buscarla.
 T714 · One Piece · Going Merry · Plan: rescatar a Robin en Enies Lobby. Usopp: que sea el último viaje del Merry.
 T715 · One Piece · Going Merry · Repara el Merry con Usopp (vendaje). Siente el espíritu del Merry. Atacan a Iceburg.
-T716 · One Piece · Galley-La · Observa al CP9 (Lucci, Kaku, Kalifa, Blueno) con Robin. Quieren los planos de Plutón. Dejan a Iceburg y Paulie quemándose.
+T716 · One Piece · Galley-La · (Corregido) Primera noche: los enmascarados balean a Iceburg y buscan algo; Robin entre ellos; se van. Iceburg le ve la cara a Robin.

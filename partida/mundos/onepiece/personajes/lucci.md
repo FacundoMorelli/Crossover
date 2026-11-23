@@ -9,4 +9,3 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T698 · Dock 1.
 ESTADO: activo
-- T716 · Se saca la máscara: CP9. Habla con su voz. "Que mueran quemados."

@@ -1,13 +1,13 @@
-TURNO: 716 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 23:25 | Lugar: Water 7, oficinas de la Galley-La, cuarto de Iceburg (escondido en el techo)
+TURNO: 716 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 23:15 | Lugar: Water 7, oficinas de la Galley-La, cuarto de Iceburg (escondido en el techo)
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.672 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T716: se teletransporta a una viga del techo del cuarto de Iceburg, sin que nadie lo vea, y observa. Iceburg baleado en el piso; Paulie atado. Cinco enmascarados; se sacan las máscaras: Lucci (habla con su propia voz), Kaku, Kalifa, un hombre grande (Blueno) y Robin, de negro, con la cara quieta. Son el CP9, agentes secretos del Gobierno, cinco años infiltrados. Quieren los planos de un arma antigua, Plutón. Iceburg: "No los tengo." Lucci: "Entonces los tiene Cutty Flam. Franky." Kalifa prende fuego a las cortinas. Lucci: "Que mueran quemados. Que culpen a los Sombrero de Paja." Se van. Robin, en la puerta, mira el fuego un segundo y sale detrás.
+- T716: se teletransporta a una viga del techo del cuarto de Iceburg sin que lo vean y observa. Primera noche (canon): cinco enmascarados de negro revuelven el cuarto buscando algo; Iceburg, baleado en el piso, vivo. Una de las enmascaradas es Robin (Facundo la reconoce por el ki; los demás esconden el suyo). No encuentran lo que buscan. "Ya volveremos." Se van por la ventana antes de que entren los carpinteros. Iceburg alcanza a ver la cara de Robin cuando a ella se le corre la máscara. Paulie y los carpinteros entran gritando.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
-PRESENTES EN ESCENA: Iceburg (baleado, en el piso), Paulie (atado), cuarto en llamas. El CP9 y Robin saliendo por la puerta. Facundo en una viga del techo. Kase en el hombro.
+PRESENTES EN ESCENA: Iceburg (baleado, vivo), Paulie y carpinteros entrando. Los enmascarados (con Robin) se fueron por la ventana. Facundo en una viga del techo. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

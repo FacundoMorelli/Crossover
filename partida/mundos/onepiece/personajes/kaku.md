@@ -8,4 +8,3 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T698 · Va a revisar el Merry.
 ESTADO: activo
-- T716 · CP9.
