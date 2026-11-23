@@ -1,12 +1,12 @@
-TURNO: 695 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 17:52 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
+TURNO: 696 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 19:30 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
 MOMENTO DEL CANON: Long Ring Long Land (cap. ~319-321): llega el almirante Aokiji. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 - T695: la besa suavemente. Robin se queda quieta un segundo, sorprendida; después le devuelve el beso, despacio, con la mano en su mejilla. Se separan. Robin, con una sonrisa chica y los ojos todavía mojados: "...Te dije que ibas rápido, Ojos de Eclipse." Pausa. "No dije que no me gustara."
-- T694: la sigue abrazando en silencio y le acaricia el pelo. Robin se calma del todo. Levanta la cabeza: tiene los ojos rojos y la cara muy cerca. "Te pusiste delante. Otra vez." Le apoya la frente en la frente, con los ojos cerrados: "Nadie hace eso por mí." Se quedan así, sin moverse, con la última luz del atardecer.
 PRESENTES EN ESCENA: toda la tripulación, Tonjit a lo lejos (pradera). Aokiji se fue en bicicleta sobre el mar congelado. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).

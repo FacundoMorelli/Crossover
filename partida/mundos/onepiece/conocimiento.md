@@ -128,3 +128,5 @@
 - Aokiji, tripulación · T690 · Facundo se puso delante de Robin y quedó congelado entero.
 - Aokiji, tripulación · T691 · Facundo salió del hielo de Aokiji como si nada; el hielo se deshizo en polvo.
 - Facundo · T693 · Por Robin: Saul, un gigante, la salvó cuando quemaron su isla; le dijo que algún día encontraría amigos.
+- Tripulación · T696 · Por Robin: la próxima isla es Water 7, la ciudad del agua, con los mejores carpinteros de barcos.
+- Nami y la tripulación · T696 · Saben que Facundo y Robin están juntos ("los tortolitos").
