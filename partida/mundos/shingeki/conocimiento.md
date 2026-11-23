@@ -53,3 +53,5 @@
 - Jean, Connie, Sasha · T500 · Ven a Facundo aparecer de la nada en el patio (ya conocían el rumor de Shiganshina-Trost).
 - Eren · T502 · Por Zeke: Grisha lo crió como herramienta; Zeke entregó a sus padres a los 7 años; Tom Ksaver fue su figura paterna. Zeke reconoce que dudó por la idea de Facundo.
 - Levi · T502 · Oyó toda la conversación desde la puerta.
+- Zeke · T503 · Deduce que Pieck le advirtió a Facundo (oyó abrirse la tercera celda a la mañana). Razonable.
+- Eren, Levi, Mikasa · T503 · Ven a Facundo frenar el contacto Eren-Zeke. Zeke dice "no iba a hacerle nada. Hoy no." Eren no sabe por qué el contacto importa.

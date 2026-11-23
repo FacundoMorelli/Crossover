@@ -22,3 +22,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T494 · Facundo acepta el trato. Adelanto: Liberio, Magath. "Pieck sabe más de lo que muestra. Reiner está roto." Sonríe: "Mañana, entonces."
 - T501 · Frente a Eren, encadenado a una silla. "Hola, Eren."
 - T502 · Le cuenta a Eren de Grisha y Ksaver. Defiende la eutanasia "como piedad" pero admite que la idea de Facundo lo hizo dudar. "Acércate. Solo quiero verte de cerca. Una vez."
+- T503 · Facundo frena la mano de Eren. "Pieck siempre fue la más lista." "No iba a hacerle nada. Hoy no."

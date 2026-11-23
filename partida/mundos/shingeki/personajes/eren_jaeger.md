@@ -16,3 +16,4 @@ ENCUENTROS:
 - T500 · Lo espera en el patio. "¿Zeke quiere hablar conmigo? Bien. Yo también tengo cosas que preguntarle."
 - T501 · Frente a Zeke en Trost.
 - T502 · Escucha a Zeke. "Es rendirse." Se acerca y levanta la mano hacia el hombro de Zeke.
+- T503 · Facundo le agarra la muñeca. "¿Qué haces?"
