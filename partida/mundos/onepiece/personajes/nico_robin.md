@@ -32,3 +32,4 @@ ESTADO: activa
 - T635 · Compara el mapa de Jaya con el de Skypiea: encajan.
 - T662 · Junto a la fogata, se sienta al lado de Facundo: "Ya tengo once letras."
 - T663 · "Un pueblo encerrado entre muros, rodeado de gigantes. Me hace acordar a alguien." Apoya la cabeza en el hombro de Facundo.
+- T664 · Se duerme apoyada en Facundo, con su mano en la cintura. RELACIÓN: acercamiento claro.

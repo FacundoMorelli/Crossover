@@ -14,3 +14,4 @@ ESTADO: activo
 ENCUENTROS:
 - T367 · llega con Luffy. Ve a Nami y se le van los ojos en corazones; después ve el patio destrozado.
 - T585 · Llega corriendo con bolsas. "¡¿Facundo?! ¡¿De dónde saliste?! ...Hay comida para uno más, supongo."
+- T664 · Ve a Robin dormida en el hombro de Facundo; muerde un trapo en silencio.

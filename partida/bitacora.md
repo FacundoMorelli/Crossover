@@ -662,3 +662,4 @@ T660 · One Piece · Upper Yard · Simula: llegan todos al altar al anochecer. S
 T661 · One Piece · altar · ¿Qué hacemos? Cada uno opina. Gan Fall cuenta lo de Enel y los shandianos. Luffy: fogata.
 T662 · One Piece · Upper Yard · Fogata con lobos. Mapas: Shandora cerca del árbol. Robin al lado de Facundo: "once letras".
 T663 · One Piece · Upper Yard · Robin descifra "muralla" y "titán". Apoya la cabeza en el hombro de Facundo.
+T664 · One Piece · Upper Yard · Robin se duerme en su hombro, con la mano de Facundo en la cintura.
