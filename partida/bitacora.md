@@ -623,3 +623,4 @@ T621 · One Piece · Going Merry · Próxima isla: Jaya (Mock Town), según Robi
 T622 · One Piece · mar · Un galeón cae del cielo. El Log Pose apunta hacia arriba.
 T623 · One Piece · mar · Luffy, Sanji y Zoro bajan al galeón. Llega Masira; la manguera se enreda.
 T624 · One Piece · mar · Saca a Luffy, Sanji y Zoro con la Shio Shio. Traen un mapa de Skypiea. Masira grita.
+T625 · One Piece · mar · Le deja el galeón a Masira. Nami pregunta cómo subir al cielo; Robin: preguntar en Jaya.
