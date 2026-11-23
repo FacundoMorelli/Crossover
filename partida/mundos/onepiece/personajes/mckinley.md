@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: hostil.
 ENCUENTROS:
 - T652 · Exige el pago de diez veces el peaje.
 ESTADO: activo
+- T653 · Noqueado por Zoro y Sanji.

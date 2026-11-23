@@ -10,3 +10,4 @@ ENCUENTROS:
 - T650 · Los recibe en la playa.
 ESTADO: activa
 - T651 · Se emociona con los visitantes. Mira la selva con miedo un segundo.
+- T653 · Llora y confiesa que le ordenaron llevarlos al "Puerto Sagrado".

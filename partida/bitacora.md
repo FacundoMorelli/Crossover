@@ -651,3 +651,4 @@ T649 · One Piece · Puerta del Cielo · Amazon: no paga = ilegal, asunto de Dio
 T650 · One Piece · Skypiea · Pasan sin pagar (ilegales). El langostino los sube. Conis los recibe.
 T651 · One Piece · Isla del Ángel · Conis y Pagaya los invitan a comer.
 T652 · One Piece · casa de Conis · Comida; Pagaya explica diales, Upper Yard y Enel. Llegan los Boinas Blancas a cobrar.
+T653 · One Piece · Isla del Ángel · Zoro y Sanji tiran a los Boinas Blancas. Conis confiesa. El langostino se lleva el Merry con Chopper al Upper Yard.
