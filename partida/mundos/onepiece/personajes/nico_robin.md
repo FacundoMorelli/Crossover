@@ -48,3 +48,4 @@ ESTADO: activa
 - T697 · Duerme las noches en cubierta junto a Facundo.
 - T698 · Se va a pasear sola por Water 7; le da un beso en la mejilla a Facundo.
 - T709 · Acepta entregarse al Gobierno para que no toquen a la tripulación. Facundo la oye desde lejos.
+- T710 · "Prométeme que no van a venir." Le cuenta de Ohara.

@@ -708,3 +708,4 @@ T706 · One Piece · callejón · Usopp le pregunta si él puede arreglar el Mer
 T707 · One Piece · callejón · Promete arreglar el Merry para un último viaje. Usopp acepta.
 T708 · One Piece · Going Merry · Luffy acepta el último viaje. Robin no vuelve.
 T709 · One Piece · Water 7 · Encuentra a Robin con un enmascarado del Gobierno. Oye el trato: Robin se entrega para que no destruyan a la tripulación (Buster Call).
+T710 · One Piece · muelle abandonado · Le dice a Robin que la van a ir a buscar. Ella le ruega que no: Buster Call, Ohara.
