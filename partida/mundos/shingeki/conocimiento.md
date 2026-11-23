@@ -65,3 +65,4 @@
 - Historia, Erwin · T513 · Facundo promete averiguar lo de Ymir y traerla si sigue viva.
 - Soldados de la muralla de Trost, Hange, Moblit, Pixis · T516 · Ven a Facundo y cuatro personas elevarse y volar hacia el sur. Rumor en la Guarnición.
 - Eren, Mikasa, Levi, Zeke · T516 · Viven el vuelo con la Luna (gravedad).
+- Eren, Mikasa, Levi, Facundo · T518 · Por Zeke: en Marley todo eldiano lleva brazalete; un eldiano sin brazalete descubierto va a la horca. La zona de internamiento tiene puestos de control. Mikasa y Levi (Ackerman) no tienen sangre de Ymir: no son eldianos en sentido estricto (Zeke lo sabe). Facundo y Levi pueden pasar por marleyanos.
