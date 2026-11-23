@@ -664,3 +664,4 @@ T662 · One Piece · Upper Yard · Fogata con lobos. Mapas: Shandora cerca del �
 T663 · One Piece · Upper Yard · Robin descifra "muralla" y "titán". Apoya la cabeza en el hombro de Facundo.
 T664 · One Piece · Upper Yard · Robin se duerme en su hombro, con la mano de Facundo en la cintura.
 T665 · One Piece · Upper Yard · Amanecer. Robin despierta en su hombro. Enel anuncia el juego de supervivencia. Atacan los shandianos.
+T666 · One Piece · Upper Yard · Va con Luffy y Robin. La tripulación se divide. Aparece una serpiente gigante.

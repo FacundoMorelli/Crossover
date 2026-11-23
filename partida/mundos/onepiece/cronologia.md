@@ -75,3 +75,4 @@
 - 17:15-19:40 · (T660) Conis ayuda a la tripulación. Luffy, Sanji y Usopp derrotan a Satori (Prueba de las Bolas, canon). Toda la tripulación y Gan Fall llegan al altar.
 - Noche día 27 · (T662) Fogata en el Upper Yard con los lobos (canon). Nami y Robin ubican Shandora cerca del árbol gigante.
 - Día 28 08:00 · (T665) Enel anuncia el "juego de supervivencia": de 81 personas en el Upper Yard, en tres horas quedarán cinco (canon). Los shandianos atacan.
+- 08:25 · (T666) La tripulación se divide en el Upper Yard. Aparece la serpiente gigante Nola (canon).
