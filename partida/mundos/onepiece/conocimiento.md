@@ -48,3 +48,4 @@
 - Chopper · T580 · Ve a Facundo y Kase salir de una puerta de luz en la bodega.
 - Usopp, Chopper, Nami, Vivi · T581 · Facundo volvió apareciendo de la nada en la bodega; pide perdón por aparecer así.
 - Facundo · T581 · Por Usopp: pasaron once días; Whisky Peak, Little Garden (gigantes), Drum, Chopper médico, Vivi princesa de Arabasta.
+- Vivi, Nami, Usopp, Chopper · T582 · Facundo sabía que Miss Wednesday es la princesa Vivi sin que nadie se lo dijera. Vivi se sorprende una vez; Nami: "siempre sabe cosas".

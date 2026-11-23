@@ -1,10 +1,11 @@
-TURNO: 581 | MUNDO: One Piece | Día 20 (Grand Line) | HORA: 18:02 | Lugar: Going Merry, bodega, anclado en una cala al norte de Nanohana (Arabasta)
+TURNO: 582 | MUNDO: One Piece | Día 20 (Grand Line) | HORA: 18:04 | Lugar: Going Merry, bodega, anclado en una cala al norte de Nanohana (Arabasta)
 MOMENTO DEL CANON: Arco de Arabasta, cap. ~155-158: llegada a Nanohana. Luffy en el pueblo comiendo; Ace y Smoker en Nanohana. Vivi con la tripulación; Baroque Works espera. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 199.640/215.000 · 173.727 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 72% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T582: "Sí, soy Facundo, y tú eres Miss Wednesday... bueno, la princesa Vivi mejor dicho. ¿Dónde está Luffy?" Vivi se sorprende ("¿Cómo...?"); Nami: "No preguntes, siempre sabe cosas." Luffy salió corriendo a Nanohana a buscar comida; Sanji de compras. Vivi: hay Marina en el puerto. En ese momento, desde Nanohana, una columna de fuego enorme sube al cielo.
 - T581: "Hola, chicos. ¿Cuánto tiempo pasó desde que me fui? Perdón por aparecer de la nada." Usopp: "¡FACUNDO!" Once días; cuenta exagerando Whisky Peak, los gigantes de Little Garden, Drum, y presenta a Chopper ("nuestro médico, un reno que habla"). Chopper se asoma, desconfiado. Baja Nami: le pega en la cabeza por irse sin avisar y lo abraza. Detrás, Vivi: "Tú eres... Ojos de Eclipse."
 - T580: quita la oscuridad, se despide en Mitras (Hange: fotos; Ymir: "no tardes, lindo") y abre una puerta a One Piece. Sale en la bodega del Going Merry, Día 20 18:00, cala al norte de Nanohana. Chopper, que buscaba vendas, lo ve salir de la luz con el gato y grita. Usopp baja corriendo con el martillo.
 - T579: a un palmo de Ymir (Shingeki).

@@ -580,3 +580,4 @@ T578 · Shingeki · Mitras, escalinata · Oscurece todo y coquetea con Ymir. Ymi
 T579 · Shingeki · Mitras, escalinata · La acerca a un palmo. Ymir: "Te dije después." No le suelta la mano enseguida.
 T580 · Shingeki → One Piece · Se despide en Mitras y vuelve a One Piece. Bodega del Going Merry, cala de Nanohana. Chopper lo ve salir de la puerta.
 T581 · One Piece · Going Merry, bodega · Pregunta cuánto pasó. Usopp: once días; presenta a Chopper. Nami lo golpea y lo abraza. Vivi lo reconoce.
+T582 · One Piece · Going Merry · Saluda a Vivi por su nombre. Luffy está en Nanohana. Columna de fuego en el pueblo.
