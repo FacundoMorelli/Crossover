@@ -91,3 +91,4 @@
 - Tripulación · T630 · Por Robin (mapa del pueblo y rumores): Montblanc Cricket vive del otro lado de Jaya; dicen que es mentiroso (ciudad de oro).
 - Tripulación · T631 · Facundo relaciona a Cricket con Noland el mentiroso. Sanji cuenta el cuento de North Blue. Robin confirma que Cricket sería su descendiente.
 - Tripulación · T634 · Por Cricket: Corriente Ascendente mañana al mediodía; hay que atrapar un pájaro del sur para saber la dirección; Masira y Shoujou reforzarán el Merry.
+- Cricket, Masira, Shoujou, tripulación · T635 · Facundo sugiere que la mitad de Jaya voló al cielo. Robin compara los mapas: encajan. Cricket lo cree. (Canon: lo descubrían en Skypiea.)

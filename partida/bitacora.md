@@ -633,3 +633,4 @@ T631 · One Piece · Going Merry · Relaciona Montblanc con Noland. Sanji cuenta
 T632 · One Piece · Jaya, casa de Cricket · Llegan. Cricket emerge del mar, los ataca y se desploma por la enfermedad del buzo.
 T633 · One Piece · casa de Cricket · Ayuda a Chopper. Llegan Masira y Shoujou. Cricket despierta.
 T634 · One Piece · casa de Cricket · Cricket explica la Corriente Ascendente y el pájaro del sur.
+T635 · One Piece · casa de Cricket · Sugiere que la ciudad de oro voló. Los mapas encajan. "Noland no mintió."
