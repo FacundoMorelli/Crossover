@@ -81,3 +81,6 @@
 - Eren, Mikasa, Levi, Zeke · T528 · Facundo dice que va a averiguar si Ymir sigue viva y que a la noche van a la zona de internamiento.
 - Facundo y equipo · T529 · Por Zeke: el centro de investigación cambia la guardia a medianoche.
 - Eren, Mikasa, Levi, Zeke · T530 · Plan de Facundo: teletransportar a Ymir a Paradis con Historia y volver.
+- Dos soldados de la patrulla · T533 · Oyeron a una mujer gritar ayuda en un callejón vacío; al volver, el viejo había desaparecido. Creen que huyó. Sin testigos de Facundo.
+- Viejo eldiano de la plaza y su mujer · T533 · Sintieron un viento y aparecieron en su casa con 10 botellas de agua, comida y 10 monedas. No vieron a nadie. Lo creen un milagro. (Rumor posible en la zona.)
+- Eren, Mikasa · T533 · Vieron todo desde el techo.

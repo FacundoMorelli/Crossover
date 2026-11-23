@@ -531,3 +531,4 @@ T529 · Shingeki · Liberio, casa segura · Decide rescatar a Ymir esta noche. L
 T530 · Shingeki · Liberio, casa segura · Plan: Ymir directo a Paradis con Historia por Teletransportación, a medianoche. Todos de acuerdo.
 T531 · Shingeki · Liberio, casa segura · Simula hasta la noche. Levi limpia. Zeke le cuenta su infancia a Eren. Eren y Mikasa listos para la zona.
 T532 · Shingeki · Liberio, zona de internamiento · Por los techos con Eren y Mikasa. Dos soldados golpean a un viejo eldiano. Eren quiere saltar.
+T533 · Shingeki · Liberio, zona de internamiento · Distrae a la patrulla con un grito falso y lleva al viejo a su casa con agua, comida y 10 monedas.
