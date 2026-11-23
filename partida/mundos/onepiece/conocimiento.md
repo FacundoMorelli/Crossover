@@ -120,3 +120,4 @@
 - Facundo, Robin, Luffy · T671 · Por Enel: arca Maxim, todo el oro, viaje a Fairy Vearth; antes, destruir Skypiea. La campana de oro está en la nube superior, sobre la enredadera gigante.
 - Enel, Robin, Luffy · T673 · El rayo de Enel le pega a Facundo en el pecho y no le hace nada.
 - Enel, Robin, Luffy, (Nola) · T674 · Enel le pegó a Facundo con 200 millones de voltios a quemarropa y no le hizo nada.
+- Enel · T675 · Facundo dijo que Enel solo tiene una fruta del diablo y buscó agua de mar para comprobarlo; no había.
