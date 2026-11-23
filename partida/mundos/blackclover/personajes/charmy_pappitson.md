@@ -6,3 +6,4 @@ PERSONALIDAD: obsesionada con la comida; Magia de Algodón.
 ENCUENTROS:
 - T469 · Facundo le da la comida de Sanji (One Piece). Llora de felicidad. Quiere conocer al cocinero.
 ESTADO: activa
+- T472 · Promesa del meñique con Facundo: comida del cocinero cada vez que vuelva.

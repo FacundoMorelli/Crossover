@@ -1,8 +1,8 @@
 {
-  "turno": 471,
+  "turno": 472,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
-  "hora": "22:34",
+  "hora": "22:36",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -536,6 +536,19 @@
         "Dominio total e inmediato"
       ],
       "mision": "Que Piccolo y Krilin vuelvan a ser de carne (cumplida al morir Dabura)"
+    },
+    {
+      "poder": "Anti-Magia",
+      "de": "Asta",
+      "mundo": "blackclover",
+      "cuando": "T472 (misión cumplida en T467: Asta lo llamó 'mi rival')",
+      "incluye": [
+        "Anti-Magia: anula, corta, absorbe y devuelve cualquier magia o energía",
+        "Espadas antimagia propias (equivalentes a la Matademonios, Moradademonios, Destructora de Demonios y Habitante de Demonios; no las físicas de Asta)",
+        "Forma de Diablo Negro y sus etapas (Unión), como poder propio, sin un diablo adentro",
+        "Sentir el ki/las intenciones sin maná",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -699,13 +712,6 @@
       "mision": "Que Vetto reconozca, con sus palabras, que no logró desesperarte.",
       "dificultad": "ALTA",
       "emitida": "T457 (pendientes revisadas)"
-    },
-    {
-      "poder": "Asta: Anti-Magia (espadas, Forma de Diablo Negro; el origen: sin datos)",
-      "mundo": "blackclover",
-      "mision": "Que Asta te reconozca como rival, con sus palabras.",
-      "dificultad": "ALTA",
-      "emitida": "T458"
     },
     {
       "poder": "Kiato: Magia de Butoh",
