@@ -1,11 +1,11 @@
-TURNO: 698 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 12:10 | Lugar: Water 7, Dock 1 de la Galley-La
+TURNO: 699 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 12:12 | Lugar: Water 7, Dock 1 de la Galley-La
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T698: van a buscar a Iceburg con la carta: Facundo, Luffy, Nami y Usopp (con el oro). Zoro se queda en el Merry; Sanji y Chopper van de compras; Robin dice que quiere ver la ciudad sola un rato (le da un beso a Facundo en la mejilla y se va). Cambian el oro en un banco: 300 millones. En el Dock 1: Iceburg (alcalde y presidente de la Galley-La), su secretaria Kalifa, Paulie (sogas, odia a las mujeres con falda corta), Lucci (no habla, habla su paloma Hattori) y Kaku (nariz cuadrada). Iceburg lee la carta: "Kokoro... Bien. Kaku, ve a revisar el barco de estos chicos."
+- T699: "Eh, corre muy rápido. ¿Así son todos sus carpinteros?" Iceburg: "Nmaa, los de la Galley-La saltan entre andamios de cuarenta metros todo el día." Paulie: "Kaku es el más rápido del muelle. Lucci, el más fuerte." La paloma de Lucci: "Cucurrucú. Algunos tenemos más práctica que otros." Lucci mira a Facundo un segundo, sin expresión. Kalifa se acomoda los anteojos y anota algo en el portapapeles.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 PRESENTES EN ESCENA: Facundo, Luffy, Nami, Usopp (con 300M en maletas); Iceburg, Kalifa, Paulie, Lucci (con Hattori), Kaku (Dock 1). Zoro en el Merry; Sanji y Chopper de compras; Robin paseando sola. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
