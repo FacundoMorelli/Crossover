@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: nada (posible cartel de 26M).
 QUÉ PODERES DE FACUNDO VIO: ninguno (los centinelas dicen que aparecieron de la nada).
 ESTADO: activo
 - T597 · Cree. Cae de rodillas. Detiene el ataque. "Crocodile tiene que caer."
+- T610 · Plan: leer los documentos al ejército al amanecer; ir a Alubarna con Vivi a hablar con el rey.

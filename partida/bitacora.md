@@ -608,3 +608,4 @@ T606 · One Piece · Rain Dinners · Le da una poción a Luffy; se cura. Luffy v
 T607 · One Piece · Rain Dinners · Robin se presenta. Luffy la invita; Robin acepta. Llega la Marina.
 T608 · One Piece · Katorea · Vuelven con Luffy y Robin. Crocodile derrotado. Vivi llora. Zoro desconfía de Robin.
 T609 · One Piece · Katorea · Zoro acepta a Robin a regañadientes. Vivi la enfrenta.
+T610 · One Piece · Katorea · Robin admite que sabía. Vivi le pega y la acepta. Vivi pide que la lleve con Koza al palacio mañana.

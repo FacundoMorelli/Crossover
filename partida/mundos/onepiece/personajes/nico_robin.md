@@ -19,3 +19,4 @@ ESTADO: activa
 - T605 · Ve ganar a Luffy. Se lleva la mano a la boca cuando cae envenenado.
 - T607 · Se presenta a Luffy. Acepta unirse: "Entonces voy con ustedes. Hasta que me canse." AFILIACIÓN NUEVA: Sombrero de Paja.
 - T609 · A Zoro: "Me parece justo, espadachín." Vivi la enfrenta.
+- T610 · "Sí. Sabía todo." Recibe la cachetada de Vivi sin moverse.

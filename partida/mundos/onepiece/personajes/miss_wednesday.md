@@ -13,3 +13,4 @@ ESTADO: activa
 - T592 · "Katorea... a un día de Alubarna." Pide ir a Katorea, con Koza.
 - T608 · Se entera de que Crocodile cayó. Se tapa la cara y llora.
 - T609 · Enfrenta a Robin: "Tú sabías todo."
+- T610 · Cachetada a Robin: "Eso es por Arabasta." "Voy a intentarlo." Pide a Facundo que la lleve con Koza al palacio mañana.

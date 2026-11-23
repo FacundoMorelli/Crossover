@@ -76,3 +76,4 @@
 - Luffy · T607 · Por Robin: Nico Robin, socia de Crocodile.
 - Vivi, Koza, Zoro, Sanji, rebeldes · T608 · Por Luffy: le ganó a Crocodile. Ven a Robin (Miss All Sunday) con ellos.
 - Luffy · T608 · Por Facundo: la verdad la tienen que contar el rey y la princesa.
+- Vivi, Koza, tripulación · T610 · Por Robin: sabía todo; buscaba una piedra antigua bajo Alubarna.
