@@ -1,11 +1,11 @@
 {
-  "turno": 601,
+  "turno": 602,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "20:16",
+  "hora": "20:18",
   "edad": 18,
   "nivel": 26,
-  "exp": 201140,
+  "exp": 202640,
   "exp_siguiente_nivel": 215000,
   "fragmentos": 173727,
   "plata_local": {
@@ -645,6 +645,18 @@
         "Sin la desventaja del mar ni la narcolepsia",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Hana Hana no Mi (poder de Robin)",
+      "de": "Nico Robin",
+      "mundo": "onepiece",
+      "cuando": "T602 (Robin le dijo sin mentir lo que busca: la historia verdadera, una piedra que la cuenta)",
+      "incluye": [
+        "Hacer brotar réplicas de cualquier parte del cuerpo en cualquier superficie a la vista (brazos, piernas, ojos, orejas)",
+        "Clutch, Mil Fleur, Gigantesco Mano, Cien Fleur Wing y todo lo que Robin llega a hacer, incluidos clones enteros (Demonio Fleur)",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -892,13 +904,6 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
-    },
-    {
-      "poder": "Nico Robin: Hana Hana no Mi",
-      "mundo": "onepiece",
-      "mision": "Que Robin te diga, sin mentir, qué es lo que busca.",
-      "dificultad": "MEDIA",
-      "emitida": "T600"
     }
   ],
   "misiones_de_copia_rechazadas": [],

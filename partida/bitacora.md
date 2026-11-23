@@ -600,3 +600,4 @@ T598 · One Piece · Rain Dinners · Llega con Luffy al salón de Crocodile. Cro
 T599 · One Piece · Rain Dinners · Le dice a Luffy lo del agua. Luffy golpea a Crocodile con los puños mojados. Misión de copia: Crocodile.
 T600 · One Piece · Rain Dinners · Luffy pelea con Crocodile en la terraza. Facundo se acerca a Robin. Misión de copia: Robin.
 T601 · One Piece · Rain Dinners · Coquetea y le dice a Robin que no parece aliada de Crocodile. Robin: "socia". Pregunta qué le ofrecería.
+T602 · One Piece · Rain Dinners · Le dice a Robin que no la juzga por su pasado. Robin confiesa que busca la historia verdadera. Copia Hana Hana.

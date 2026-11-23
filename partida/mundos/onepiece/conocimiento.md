@@ -67,3 +67,6 @@
 - Crocodile, Miss All Sunday · T598 · Reconocen a Luffy y a "Ojos de Eclipse" (cartel 26M; informe de Miss Wednesday en Whisky Peak). Ven que aparecen de la nada.
 - Crocodile, Robin, Luffy · T599 · Facundo sabe que Crocodile es vulnerable al agua. Crocodile pregunta "¿cómo sabes eso?" una vez.
 - Crocodile · T600 · Facundo confirma que él le dijo a Luffy lo del agua.
+- Robin · T602 · Facundo sospecha que busca un arma; dice que la conoce, que no le importa su pasado y que duda que haya sido su culpa "como dicen la Marina y el gobierno". Robin deduce que sabe quién es (Ohara). Lo registra.
+- Facundo · T602 · Por Robin: busca la historia verdadera, "una piedra que la cuenta".
+- Crocodile · T602 · Ve a Robin hablando con Facundo en lugar de intervenir.
