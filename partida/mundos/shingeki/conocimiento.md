@@ -120,3 +120,5 @@
 - Hange, Moblit, Pixis · T568 · Ven volver a los cinco de la nada.
 - Hange, Moblit, Pixis · T569 · Ven fotos de Liberio: dirigible, acorazado, tranvía, carteles contra "los demonios de la isla", zona de internamiento y brazaletes.
 - Historia, Erwin, Zackly, Pixis, Hange, Ymir · T570 · Todo lo de Liberio: Magath, Willy, Retumbar, oferta de destruir los titanes de las murallas, fiesta en un mes, firma, botón, fotos.
+- Zackly, Historia, Erwin, Pixis, Hange · T575 · Ven el Eclipse: los ojos de Facundo (rojo y azul) se encienden, un punto negro se traga 1 km de muralla con los titanes colosales adentro, sin ruido. Hange lo anota y lo dibuja.
+- Guarnición de Shiganshina/Trost · T575 · Nadie oye nada (sin ruido); mañana una patrulla verá el hueco.

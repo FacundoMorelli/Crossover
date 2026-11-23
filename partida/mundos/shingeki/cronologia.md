@@ -59,3 +59,4 @@
 - 22:00 día 10 - 01:10 día 11 · (T570) Consejo en Mitras: Historia, Erwin, Zackly, Pixis, Hange. Historia acepta viajar a Marley y firmar. Zackly pide una prueba de destrucción de un tramo de muralla.
 - 01:13 día 11 · (T571) Prueba fijada: mediodía del día 11, Wall Maria, tramo deshabitado de 1 km al oeste de Shiganshina. Testigos: Zackly, Historia, Erwin, Pixis, Hange.
 - 12:00 día 11 · (T573) Sobre Wall Maria, al oeste de Shiganshina, con Zackly, Historia, Erwin, Pixis, Hange. Tramo marcado: 1 km entre dos torres de vigía en ruinas.
+- 12:03 día 11 · (T575) Facundo destruye con el Eclipse 1 km de Wall Maria al oeste de Shiganshina, con unos veinte titanes colosales adentro. Zackly aprueba el plan de paz.

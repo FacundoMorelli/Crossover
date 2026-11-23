@@ -16,3 +16,4 @@ ESTADO: activo
 - T515 · Le da a Facundo un cuaderno nuevo "para anotar todo".
 - T568 · "¡¿Y las imágenes?!"
 - T569 · Llora al ver el dirigible. Muda ante el cartel de propaganda.
+- T575 · Grita, llora, dibuja todo. "¡No hizo ruido! ¡Ni un ruido!"

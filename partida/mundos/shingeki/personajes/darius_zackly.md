@@ -9,3 +9,4 @@ QUÉ SABE DE FACUNDO: el informe de Erwin (Shiganshina, la pared, la teletranspo
 ESTADO: activo
 - T570 · En bata, último en hablar. Quiere ver destruir un tramo de muralla antes de aprobar. "Uno solo. Mañana."
 - T571 · Elige el tramo: 1 km de Wall Maria al oeste de Shiganshina, mediodía.
+- T575 · Ve el Eclipse tragarse el tramo. Silencio largo. "...Aprobado."
