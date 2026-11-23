@@ -627,3 +627,4 @@ T625 · One Piece · mar · Le deja el galeón a Masira. Nami pregunta cómo sub
 T626 · One Piece · Jaya · Sombras gigantes en la niebla. Llegan a Mock Town.
 T627 · One Piece · Mock Town, taberna · Preguntan por la isla del cielo. Bellamy se burla y agarra a Luffy. Barbanegra en la barra.
 T628 · One Piece · Mock Town, taberna · Bellamy golpea a Luffy y Zoro; no pelean. Botella en la cabeza de Facundo, sin efecto. Barbanegra: "la isla del cielo existe".
+T629 · One Piece · Mock Town, taberna · Pregunta quién es al de la barba negra. No da su nombre. Se va.
