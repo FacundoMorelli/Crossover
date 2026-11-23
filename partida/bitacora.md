@@ -687,3 +687,4 @@ T685 · One Piece · Long Ring Long Land · Llegan. Foxy desafía a la Davy Back
 T686 · One Piece · Long Ring Long Land · Luffy acepta. Primer juego: trampa de Foxy (Noro Noro). Foxy elige a Chopper.
 T687 · One Piece · Long Ring Long Land · Davy Back Fight: pierden el 1.º, ganan el 2.º y el 3.º. Llega Aokiji y reconoce a Robin.
 T688 · One Piece · Long Ring Long Land · Le devuelve el libro a Robin. Aokiji lo reconoce y advierte sobre Robin.
+T689 · One Piece · Long Ring Long Land · "Luffy va a ser el Rey de los Piratas." Aokiji va a atacar a Robin.

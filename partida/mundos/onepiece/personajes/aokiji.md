@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: cartel 26M; posibles informes (Smoker, Nezumi).
 ESTADO: activo
 - T688 · "Smoker escribió un informe larguísimo sobre ti." Advierte: "Todas las organizaciones que esa mujer tocó desaparecieron."
+- T689 · "Igual a su abuelo." Extiende la mano hacia Robin para congelarla.

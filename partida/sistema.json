@@ -1,8 +1,8 @@
 {
-  "turno": 688,
+  "turno": 689,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 31 (Grand Line, Long Ring Long Land)",
-  "hora": "17:21",
+  "hora": "17:22",
   "edad": 18,
   "nivel": 26,
   "exp": 206640,
@@ -965,6 +965,13 @@
       "mision": "Que Foxy te dé con su rayo lento y no te frene ni un segundo.",
       "dificultad": "BAJA",
       "emitida": "T686"
+    },
+    {
+      "poder": "Aokiji: Hie Hie no Mi",
+      "mundo": "onepiece",
+      "mision": "Que Aokiji te congele entero con su hielo más fuerte y salgas caminando del hielo.",
+      "dificultad": "ALTA",
+      "emitida": "T689"
     }
   ],
   "misiones_de_copia_rechazadas": [],
