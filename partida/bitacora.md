@@ -570,3 +570,4 @@ T568 · Shingeki · Liberio → Trost · Vuelven a Paradis. Hange pregunta por l
 T569 · Shingeki · Trost · Muestra fotos de Liberio. Pixis: que las vean Erwin y la reina esta noche.
 T570 · Shingeki · Mitras, sala del consejo · Consejo de medianoche. Historia irá. Zackly pide ver destruir un tramo de muralla.
 T571 · Shingeki · Mitras, sala del consejo · Acepta. Zackly: Wall Maria, 1 km al oeste de Shiganshina, mediodía.
+T572 · Shingeki · Mitras · Bromea con Ymir. Ymir: "Ni en tus sueños, lindo."
