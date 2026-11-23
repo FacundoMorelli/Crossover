@@ -28,3 +28,4 @@
 - Día 5 (simulado en ausencia, T491) · En Trost, Zeke se niega a dar más información hasta hablar a solas con Facundo; Hange lo informa por carta a Erwin. Reiner callado, Bertholdt colabora a medias, Pieck tranquila y observadora.
 - 21:10 · (T491) Facundo se encuentra con Erwin y Levi en el palacio.
 - 21:13 · (T492) Facundo llega a Trost con Erwin, Levi y Pixis por Teletransportación.
+- 21:20 · (T493) Zeke revela a Facundo que Marley enviará una flota a buscar a los guerreros en unos tres meses (si en ese plazo no hay noticias, se los da por perdidos y se prepara la siguiente operación sobre Paradis, en medio de la guerra con la Alianza del Medio Oriente).
