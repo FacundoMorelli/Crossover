@@ -23,3 +23,4 @@ ENCUENTROS:
 - T529 · Quiere ir al rescate de Ymir.
 - T532 · En los techos de la zona, ve a soldados golpear a un viejo eldiano. Quiere saltar; Mikasa lo frena.
 - T540 · Se entera de que Ymir está a salvo. Sonríe por primera vez en el viaje.
+- T558 · Va con Facundo a la reunión con Willy Tybur. No debe decir su apellido.

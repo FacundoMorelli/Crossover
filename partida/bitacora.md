@@ -556,3 +556,4 @@ T554 · Shingeki · Liberio, despacho de Magath · Muller entra y le pregunta de
 T555 · Shingeki · Liberio, despacho de Magath · Responde bien de qué colonia es, suspira y mira el reloj. Muller pregunta quién más está en la casa.
 T556 · Shingeki · Liberio, despacho de Magath · "Solo mi gato." Muller duda; Magath lo corta. Muller se va.
 T557 · Shingeki · Liberio, casa segura · Vuelve a su ropa negra. Vigilante de Muller en la esquina. 20:30 llega Brandt.
+T558 · Shingeki · Liberio, mansión Tybur · Va con Eren; Mikasa se queda. Magath los espera en el invernadero.

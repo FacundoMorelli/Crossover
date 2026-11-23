@@ -106,3 +106,4 @@
 - Muller · T555 · Facundo responde de qué colonia del sur es; coincide con el registro. Sin sospecha por eso.
 - Muller · T556 · Facundo dice que en la casa solo está su gato y que las cadenas eran de una puerta vieja. No le cree; Magath lo frena por rango.
 - Vigilantes de Muller · T557 · Ven la casa del 14; nadie sale en todo el día. A las 20:30 llega un coche negro del ejército (Brandt).
+- Vigilante de Muller (gorra) · T558 · Ve salir de la casa del 14 a dos hombres (uno alto, de pelo de dos colores, con un gato; otro joven, de pelo oscuro) y subir al coche del ejército. Anota la hora. Confirma "más personas".

@@ -13,3 +13,4 @@ ESTADO: activo
 - T504 · Se pone entre Eren y Zeke.
 - T507 · "Yo voy con Eren."
 - T508 · Facundo la deja ir. Asiente: "Gracias."
+- T558 · Se queda en la casa por pedido de Facundo. "Tráelo de vuelta."
