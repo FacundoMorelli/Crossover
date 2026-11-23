@@ -480,3 +480,4 @@ T478 · Black Clover · Base de los Toros Negros · Cruza el portal. Conoce a Ma
 T479 · Black Clover · Base, explanada · Pelea con Luck en Ultra Instinto. Esquiva sola tres ataques. Misión de copia: Luck.
 T480 · Black Clover · Base, explanada · Esquiva un minuto entero; palma contenida: Luck vuela 20 m y se levanta riéndose.
 T481 · Black Clover · Base, explanada · Luck lo alcanza una vez; Facundo devuelve más rápido. Luck cae. Copia Magia de Rayo.
+T482 · Black Clover · Base · Simula: fiesta, noche, amanecer. Yami lo espera para el duelo.

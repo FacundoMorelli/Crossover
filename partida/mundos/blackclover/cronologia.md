@@ -20,3 +20,5 @@
 - 18:37 · (T479) Duelo Facundo-Luck afuera de la base. Ultra Instinto. Los Toros miran.
 - 18:39 · (T480) Facundo golpea a Luck conteniéndose; Luck sigue de pie.
 - 18:40 · (T481) Facundo gana el duelo con Luck. Luck tirado, riéndose.
+- Noche · (T482) Fiesta en la base por las cero estrellas negras (canon). Facundo duerme en el salón con Kase.
+- 06:05 · (T482) Yami espera a Facundo en la explanada.

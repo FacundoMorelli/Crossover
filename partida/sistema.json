@@ -1,8 +1,8 @@
 {
-  "turno": 481,
+  "turno": 482,
   "mundo_actual": "blackclover",
-  "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
-  "hora": "18:40",
+  "fecha_local": "Reino del Trébol · dos días después de la luna llena",
+  "hora": "06:05",
   "edad": 18,
   "nivel": 26,
   "exp": 198040,
@@ -51,7 +51,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -237,7 +237,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Black Clover) · aura de Ultra Instinto visible"
+    "poder_mostrado": "persona común (Black Clover)"
   },
   "armas": [
     {

@@ -13,3 +13,6 @@ ENCUENTROS:
 TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T453 · Encerrado en la esfera de Abari con Gifso. A Facundo: "Ya que estás afuera... cuida a mis mocosos."
 - T466 · Le ofrece a Facundo entrar a los Toros Negros.
+
+- T481 · Ve el duelo con Luck desde la ventana. "Mañana, temprano. Tú y yo."
+- T482 · Lo espera al amanecer en la explanada.

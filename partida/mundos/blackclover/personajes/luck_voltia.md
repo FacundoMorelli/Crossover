@@ -11,7 +11,8 @@ ENCUENTROS:
 - T479 · Duelo afuera de la base. Usa Botas del Dios del Trueno; Facundo lo esquiva tres veces en Ultra Instinto. Luck abre los ojos: "¡Increíble!"
 - T480 · Recibe una palma contenida al pecho: vuela 20 m, se levanta riéndose, quiere seguir.
 - T481 · Le pega en la mandíbula con su golpe más rápido (Facundo apenas se mueve); recibe el contragolpe y cae. Se ríe tirado: perdió.
+- T482 · Lo ayudan a pararse; pide revancha toda la noche. A la mañana espía el duelo con Yami desde una ventana.
 DIÁLOGOS CLAVE: "¿Eres fuerte? Peleemos."
 QUÉ SABE DE FACUNDO: nombre, que es nuevo, el rumor deformado de Gauche.
 QUÉ PODERES DE FACUNDO VIO: Ultra Instinto (aura plateada, esquiva sola) T479
-ESTADO: tirado, magullado, feliz
+ESTADO: magullado, activo
