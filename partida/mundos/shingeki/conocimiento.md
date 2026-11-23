@@ -118,3 +118,4 @@
 - Vigilante de Muller · T566 · Vio volver el coche de Brandt vacío a la zona militar; nadie volvió a la casa. Lo anota.
 - Facundo, Eren, Mikasa, Levi · T567 · Por Zeke: Reiner tiene a su madre (Karina Braun) en la zona; Bertholdt, a sus padres; Pieck, a su padre; Zeke no tiene familia viva.
 - Hange, Moblit, Pixis · T568 · Ven volver a los cinco de la nada.
+- Hange, Moblit, Pixis · T569 · Ven fotos de Liberio: dirigible, acorazado, tranvía, carteles contra "los demonios de la isla", zona de internamiento y brazaletes.

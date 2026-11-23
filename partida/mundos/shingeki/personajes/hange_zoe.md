@@ -15,3 +15,4 @@ ESTADO: activo
 - T505 · Escribe seis horas sin parar. Agotada y feliz.
 - T515 · Le da a Facundo un cuaderno nuevo "para anotar todo".
 - T568 · "¡¿Y las imágenes?!"
+- T569 · Llora al ver el dirigible. Muda ante el cartel de propaganda.
