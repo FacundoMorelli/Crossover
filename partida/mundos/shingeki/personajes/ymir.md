@@ -1,0 +1,13 @@
+NOMBRE: Ymir
+AFILIACIÓN: ex tropa 104 (Legión); prisionera de Marley
+RANGO: —
+PODER VISTO POR FACUNDO: Titán Mandíbula (sentido como energía de titán)
+EDAD EN ESTE MOMENTO DEL CANON: aparenta unos 18-19 (vivió unos 60 años como titán sin mente)
+FÍSICO: alta, flaca, pelo oscuro atado, pecas, ojos rasgados, sonrisa torcida. Ahora: ojeras, muy delgada.
+PERSONALIDAD Y FORMA DE HABLAR: sarcástica, brusca, desconfiada; todo lo hace por Historia (a quien llama Christa/Historia).
+RELACIÓN CON FACUNDO: acaba de verlo.
+ENCUENTROS:
+- T535 · Facundo aparece en su celda. "¿Y tú quién diablos eres? ¿El que me va a comer? Esperaba a alguien más feo."
+QUÉ SABE DE FACUNDO: nada.
+QUÉ PODERES DE FACUNDO VIO: aparición en la celda.
+ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a Porco prevista para el día 9 al amanecer (ella no lo sabe exactamente).

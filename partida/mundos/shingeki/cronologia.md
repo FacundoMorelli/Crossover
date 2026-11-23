@@ -47,3 +47,4 @@
 - 14:25-21:40 · (T531) Tarde y anochecer en la casa segura. Zeke le habla a Eren de su infancia en la zona de internamiento.
 - 21:55 · (T532) Facundo, Eren y Mikasa en los techos de la zona de internamiento. Patrulla golpea a un viejo eldiano por toque de queda.
 - 21:57 · (T533) El viejo eldiano de la plaza desaparece ante la patrulla y aparece en su casa con agua, comida y dinero. Nadie vio a Facundo.
+- 00:00 día 8 · (T535) Facundo entra por Teletransportación a la celda de Ymir durante el cambio de guardia.
