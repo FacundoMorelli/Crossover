@@ -43,3 +43,9 @@
 - 20:35 · (T607) Nico Robin se une a los Sombrero de Paja (canon: después de Arabasta, en el barco). La Marina (Smoker/Tashigi) llega a Rainbase.
 - 20:38 · (T608) Facundo, Luffy y Robin vuelven a Katorea. Noticia de la derrota de Crocodile.
 - 20:40 · (Rainbase) Smoker y la Marina encuentran a Crocodile inconsciente en la calle (lo arrestan).
+- Día 21 · (T611) Koza lee la Operación Utopía al ejército rebelde. Facundo lleva a Vivi y Koza al palacio. Cobra escucha (Chaka, Pell, Igaram). Mediodía: el rey y Koza hablan juntos en la plaza de Alubarna; se abre el depósito de Polvo de Baile ante el pueblo. Chaka desarma el cañón de la torre del reloj (Mr. 7 arrestado). La rebelión termina sin batalla (canon: la batalla de Alubarna con miles de muertos y heridos).
+- Día 21 · Smoker y Tashigi se llevan a Crocodile. El Gobierno le atribuye la victoria a Smoker; Smoker lo rechaza. Mr. 1 y Miss Doublefinger arrestados por Chaka; Mr. 2 Bon Clay escapa.
+- Noche día 21 · Cobra permite a Robin leer la piedra de la tumba real. Habla de un arma (Plutón), no de lo que ella busca. Se lo dice al rey sin mentir.
+- Día 22 · Llueve en todo Arabasta por primera vez en tres años.
+- Días 22-23 · Banquete en el palacio. Vivi decide quedarse en Arabasta.
+- Día 24 10:00 · Zarpan por la costa este. Flota de la capitana Hina en el horizonte. Vivi aparece en un acantilado con un caracol altavoz para despedirse.

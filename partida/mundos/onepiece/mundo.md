@@ -10,3 +10,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T369 · Día 1 · Arlong derrotado por Luffy. Arlong Park destruido. MISIÓN DE MUNDO CUMPLIDA: Cocoyasi libre, sin muertos en la aldea. Nojiko no recibió el disparo de Nezumi (no pasó todavía).
 - T597 · El ejército rebelde detiene su ataque gracias a los documentos de Baroque Works. Crocodile todavía no lo sabe.
 - T605 · Crocodile derrotado por Luffy en Rainbase el Día 20. La Operación Utopía cae. Testigos en la calle.
+- T611 · Arabasta salvada sin la batalla de Alubarna. Crocodile preso. Robin con los Sombrero de Paja. Llueve.

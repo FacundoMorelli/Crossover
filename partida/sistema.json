@@ -1,8 +1,8 @@
 {
-  "turno": 610,
+  "turno": 611,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "21:05",
+  "fecha_local": "Día 24 (Grand Line, Arabasta)",
+  "hora": "10:00",
   "edad": 18,
   "nivel": 26,
   "exp": 202640,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 72,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

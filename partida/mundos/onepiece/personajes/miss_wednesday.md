@@ -14,3 +14,4 @@ ESTADO: activa
 - T608 · Se entera de que Crocodile cayó. Se tapa la cara y llora.
 - T609 · Enfrenta a Robin: "Tú sabías todo."
 - T610 · Cachetada a Robin: "Eso es por Arabasta." "Voy a intentarlo." Pide a Facundo que la lleve con Koza al palacio mañana.
+- T611 · Decide quedarse en Arabasta. Día 24: en el acantilado con un caracol altavoz: "¡Vine a despedirme!"

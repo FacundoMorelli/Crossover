@@ -20,3 +20,4 @@ ESTADO: activa
 - T607 · Se presenta a Luffy. Acepta unirse: "Entonces voy con ustedes. Hasta que me canse." AFILIACIÓN NUEVA: Sombrero de Paja.
 - T609 · A Zoro: "Me parece justo, espadachín." Vivi la enfrenta.
 - T610 · "Sí. Sabía todo." Recibe la cachetada de Vivi sin moverse.
+- T611 · Lee la piedra de la tumba real con permiso de Cobra; no es lo que busca. Se lo dice al rey sin mentir. Sube al Merry.

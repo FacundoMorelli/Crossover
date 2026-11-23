@@ -104,3 +104,8 @@
 - Shingeki: segunda salida día 11 tras Shiganshina, 12:33 (Mitras). Prometió volver antes de la fiesta Tybur (día 40, al anochecer). Corre.
 - One Piece: VUELVE el Día 20, 18:00, ~11 días después de irse. Puerta en la bodega del Going Merry, anclado en una cala al norte de Nanohana (Arabasta).
 - Black Clover, Bleach, Jujutsu, Dragon Ball: corren.
+
+## RELOJES (actualizado T611)
+- One Piece: Día 24.
+- Shingeki: ~día 15 tras Shiganshina (fiesta el día 40).
+- Black Clover: más de dos semanas desde que se fue.
