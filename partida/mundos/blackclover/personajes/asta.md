@@ -11,3 +11,4 @@ ESTADO: activo
 ENCUENTROS:
 - T458 · Facundo aparece en medio de su duelo con Kiato. "¡¿QUIÉN ERES TÚ?!"
 - T467 · Lo llama "mi rival". T472 · Le pide entrenar mañana.
+- T487 · Duelo en la explanada. Cae ocho veces, se levanta ocho; saca la Moradademonios.

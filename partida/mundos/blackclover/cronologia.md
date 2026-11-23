@@ -24,3 +24,4 @@
 - 06:05 · (T482) Yami espera a Facundo en la explanada.
 - 06:08 · (T483) Duelo Facundo-Yami en la explanada.
 - 06:10 · (T485) Facundo vence a Yami en duelo con un golpe contenido.
+- 06:16 · (T487) Duelo Facundo-Asta.
