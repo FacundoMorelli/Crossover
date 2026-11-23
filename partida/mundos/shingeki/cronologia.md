@@ -34,3 +34,4 @@
 - 07:02 · (T500) Facundo llega a Mitras por Teletransportación a buscar a Eren.
 - 07:20 · (T501) Zeke y Eren frente a frente en la sala del fondo del cuartel de la Guarnición, con Facundo. Levi en la puerta.
 - 07:20-07:41 · (T502) Conversación Zeke-Eren (canon: se daba en otro contexto, años después). Eren a punto de tocar a Zeke (contacto sangre real + Fundador).
+- 07:50-14:30 · (T505) Zeke dicta a Hange y Moblit el "legajo Marley": Liberio, puertos, rutas, guerra con la Alianza del Medio Oriente, armas antititanes, Porco Galliard (Mandíbula), candidatos a guerrero (Gabi, Falco, Colt, Udo, Zofia), alto mando (Magath y otros), sobornables, plazo de la flota (~3 meses). Se reserva "una cosa para después".

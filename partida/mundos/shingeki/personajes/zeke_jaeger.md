@@ -24,3 +24,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T502 · Le cuenta a Eren de Grisha y Ksaver. Defiende la eutanasia "como piedad" pero admite que la idea de Facundo lo hizo dudar. "Acércate. Solo quiero verte de cerca. Una vez."
 - T503 · Facundo frena la mano de Eren. "Pieck siempre fue la más lista." "No iba a hacerle nada. Hoy no."
 - T504 · Confirma lo de Dina. "Igual cumplo mi parte. Traigan papel."
+- T505 · Dicta 6 horas. Cumple. "Me guardo una cosa para después. Para cuando confíen un poco más."

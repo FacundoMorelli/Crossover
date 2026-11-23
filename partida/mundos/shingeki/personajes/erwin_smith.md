@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T491 · Sale a buscarlo al pasillo. "Volviste antes de lo esperado. Llegas en buen momento." Zeke pidió hablar solo con él.
 - T495 · Acepta el trato con condiciones: en Trost, Levi a la vista, Zeke encadenado. "¿Ya te dio algo?"
 - T496 · Escucha lo de Liberio y Magath. Pide que Facundo traiga a Eren de Mitras a la mañana.
+- T505 · Lee el legajo. "Con esto se puede negociar." Le pregunta a Facundo si cruzaría el mar como emisario.
