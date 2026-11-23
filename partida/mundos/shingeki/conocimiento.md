@@ -91,3 +91,4 @@
 - Historia, Facundo · T537 · Por Ymir: la iban a dar a Porco en dos días; escribió una carta para Historia y se la dio a un oficial de Marley para que se la entregara a Reiner.
 - Historia, Ymir · T538 · Ven a Facundo romper grilletes de hierro apretando con la mano y sacar comida de su sobretodo.
 - Ymir · T539 · Nombre: Facundo, amigo de Historia; Historia le pidió traerla.
+- Levi, Eren, Mikasa, Zeke · T540 · Por Facundo: Ymir está viva y a salvo con Historia en Mitras.
