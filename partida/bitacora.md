@@ -524,3 +524,4 @@ T522 · Shingeki · Liberio, despacho de Magath · Se presenta como emisario: pa
 T523 · Shingeki · Liberio, despacho de Magath · Ofrece piedra de hielo y combustible. Magath menciona a los Tybur; pregunta por devolver a los guerreros.
 T524 · Shingeki · Liberio, despacho de Magath · Devolver guerreros con la paz firmada. Magath propone reunión con Willy Tybur en 3 días y pide muestra de piedra de hielo.
 T525 · Shingeki · Liberio, despacho de Magath · Compra y entrega una piedra de hielo. Magath pregunta cuánta hay.
+T526 · Shingeki · Liberio, despacho de Magath · Décadas de piedra de hielo. Magath guarda el secreto; Brandt los llevará a la casa segura.

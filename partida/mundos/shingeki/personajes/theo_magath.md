@@ -16,3 +16,4 @@ ESTADO: activo
 - T523 · Interesado: "Con eso se gana la guerra del Medio Oriente." Menciona a los Tybur. Pregunta si devolverían a los cuatro guerreros.
 - T524 · Propone reunión secreta con Willy Tybur en tres días. Ofrece casa segura; pide muestra de piedra de hielo.
 - T525 · Recibe la piedra de hielo. "Con esto, Tybur me escucha." La guarda bajo llave. "¿Cuánta hay de esto allá?"
+- T526 · "Es la mejor carta y la más peligrosa." Secreto entre él, Brandt y Tybur. Brandt los lleva a la casa segura. "La próxima vez, golpee la puerta."
