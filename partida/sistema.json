@@ -945,6 +945,13 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
+    },
+    {
+      "poder": "Enel: Goro Goro no Mi",
+      "mundo": "onepiece",
+      "mision": "Que Enel te tire su rayo más fuerte, a quemarropa, y no te haga nada.",
+      "dificultad": "ALTA",
+      "emitida": "T670"
     }
   ],
   "misiones_de_copia_rechazadas": [],
