@@ -15,3 +15,4 @@ ESTADO: activa
 - T609 · Enfrenta a Robin: "Tú sabías todo."
 - T610 · Cachetada a Robin: "Eso es por Arabasta." "Voy a intentarlo." Pide a Facundo que la lleve con Koza al palacio mañana.
 - T611 · Decide quedarse en Arabasta. Día 24: en el acantilado con un caracol altavoz: "¡Vine a despedirme!"
+- T612 · "¿Me van a llamar compañera otra vez?" Levanta el brazo llorando. ESTADO: en Arabasta, princesa.
