@@ -123,3 +123,5 @@
 - Zackly, Historia, Erwin, Pixis, Hange · T575 · Ven el Eclipse: los ojos de Facundo (rojo y azul) se encienden, un punto negro se traga 1 km de muralla con los titanes colosales adentro, sin ruido. Hange lo anota y lo dibuja.
 - Guarnición de Shiganshina/Trost · T575 · Nadie oye nada (sin ruido); mañana una patrulla verá el hueco.
 - Historia, Ymir, Erwin, Zackly, Pixis, Hange · T577 · Facundo se va unos días o semanas; vuelve antes de la fiesta del día 40.
+- Historia, Erwin, Zackly, Pixis, Hange · T578 · Ven que la escalinata se oscurece de golpe en un círculo de sombra durante unos segundos. No ven qué pasa adentro.
+- Ymir · T578 · Facundo coquetea con ella dentro de la sombra.

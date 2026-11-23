@@ -576,3 +576,4 @@ T574 · Shingeki · Wall Maria · Pregunta vistosa o tranquila. Zackly: la que v
 T575 · Shingeki · Wall Maria · El Eclipse se traga 1 km de Wall Maria con sus titanes colosales. Zackly: "Aprobado."
 T576 · Shingeki · Wall Maria · Nadie lo grabó. Hange quiere otro kilómetro; Zackly dice que no.
 T577 · Shingeki · Mitras, patio del palacio · Avisa que se va unos días o semanas y vuelve antes de la fiesta.
+T578 · Shingeki · Mitras, escalinata · Oscurece todo y coquetea con Ymir. Ymir: "Primero vuelve vivo. Después hablamos."
