@@ -97,3 +97,4 @@
 - Bellamy, su tripulación, Cricket, Masira, Shoujou · T641 · Ven a Bellamy pegarle a Facundo en la cara y salir despedido él, sin que Facundo se mueva.
 - Luffy, tripulación · T643 · Por Masira: Bellamy vino de noche y Facundo lo mandó a volar sin moverse.
 - Barbanegra y su tripulación · T645 · Ven a Facundo formar un arco de luz azul y disparar una flecha que les vuela una esquina de la balsa.
+- Tripulación · T646 · El ojo azul de Facundo brillaba mientras el barco no se caía de la corriente.

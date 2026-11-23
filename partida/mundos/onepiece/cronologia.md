@@ -64,3 +64,4 @@
 - Día 27 06:10 · Vuelven de la selva con un pájaro del sur (canon).
 - 11:58 día 27 · (T644) Remolino y nube de la Corriente Ascendente (canon). Barbanegra a lo lejos, en una balsa.
 - 12:00 día 27 · (T645) Estalla la Corriente Ascendente (canon). El Merry sube al cielo.
+- 12:20 día 27 · (T646) El Merry llega al Mar Blanco (7.000 m). Ataque de un guerrero shandiano enmascarado (Wyper, canon).

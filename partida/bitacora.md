@@ -644,3 +644,4 @@ T642 · One Piece · casa de Cricket · Bellamy huye. Cricket le muestra su oro.
 T643 · One Piece · playa de Cricket · Simula: Merry Modelo Volador; vuelven con el pájaro del sur.
 T644 · One Piece · mar · Zarpan. Remolino gigante. Barbanegra a lo lejos. La Corriente está por estallar.
 T645 · One Piece · Corriente Ascendente · Flecha de advertencia a Barbanegra. Estalla la Corriente; el Merry sube.
+T646 · One Piece · Mar Blanco · Sujeta el Merry con la Luna. Llegan al mar de nubes. Un enmascarado los ataca con una bazuca.
