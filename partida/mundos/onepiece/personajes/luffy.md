@@ -16,3 +16,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un tipo raro, vuela").
 - T368 · Trato con Facundo: si vence a Arlong, Facundo se une. "¡Trato!"
 - T369 · Derrota a Arlong y parte la torre. "¡Nami! ¡Eres mi nakama!" Le reclama a Facundo el trato.
+- T583 · "¡FACUNDO! ¡Volviste!" corriendo con la boca llena.

@@ -29,3 +29,4 @@
 - Días 9-20 · (T580, simulado en ausencia, canon) Whisky Peak: Vivi se revela como princesa de Arabasta; Zoro vence a los 100 cazarrecompensas; Luffy contra Zoro (malentendido); Mr.5 y Miss Valentine; Igaram parte señuelo. Little Garden: Dorry y Brogy; Mr.3, Miss Goldenweek; Nami picada por una garrapata. Drum: Kureha cura a Nami; Wapol derrotado; Chopper se une; Ace dejó dicho que lo esperen en Arabasta. Viaje a Arabasta con Vivi y Carue.
 - Día 20 18:00 · (T580) Facundo vuelve por una puerta a la bodega del Going Merry, anclado en una cala al norte de Nanohana. Luffy en el pueblo; Ace y Smoker en Nanohana (canon).
 - 18:04 · (T582) Columna de fuego en Nanohana (canon: Ace contra Smoker).
+- 18:06 · (T583) Nanohana: Ace levanta una pared de fuego entre Smoker y Luffy (canon). Facundo aparece junto a Luffy.

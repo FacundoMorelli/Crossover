@@ -1,8 +1,8 @@
 {
-  "turno": 582,
+  "turno": 583,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "18:04",
+  "hora": "18:06",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -867,6 +867,13 @@
       "mision": "Encontrar a Lotus dentro de su humo y tocarle el hombro.",
       "dificultad": "MEDIA",
       "emitida": "T476"
+    },
+    {
+      "poder": "Portgas D. Ace: Mera Mera no Mi",
+      "mundo": "onepiece",
+      "mision": "Comer con Ace en la misma mesa hasta que se quede dormido en el plato.",
+      "dificultad": "MEDIA",
+      "emitida": "T583"
     }
   ],
   "misiones_de_copia_rechazadas": [],

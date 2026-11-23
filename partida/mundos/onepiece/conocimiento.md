@@ -49,3 +49,6 @@
 - Usopp, Chopper, Nami, Vivi · T581 · Facundo volvió apareciendo de la nada en la bodega; pide perdón por aparecer así.
 - Facundo · T581 · Por Usopp: pasaron once días; Whisky Peak, Little Garden (gigantes), Drum, Chopper médico, Vivi princesa de Arabasta.
 - Vivi, Nami, Usopp, Chopper · T582 · Facundo sabía que Miss Wednesday es la princesa Vivi sin que nadie se lo dijera. Vivi se sorprende una vez; Nami: "siempre sabe cosas".
+- Luffy · T583 · Facundo volvió: aparece corriendo a su lado.
+- Smoker, marines · T583 · Ven a "Ojos de Eclipse" (26M) junto a Luffy en Nanohana. Smoker lo informará.
+- Ace · T583 · Ve aparecer de la nada a un tipo de pelo blanco y azul con un gato junto a su hermano.

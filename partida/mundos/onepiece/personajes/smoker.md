@@ -10,3 +10,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: el cartel (26M, informe de Nezumi: varias frutas).
 ESTADO: activo
 - T392 · Facundo desaparece frente a él diciendo "nos vemos, Smoker". Se queda solo bajo la lluvia.
+- T583 · Nanohana. Ve a Facundo junto a Luffy detrás de la pared de fuego de Ace. "¡Ojos de Eclipse!"
