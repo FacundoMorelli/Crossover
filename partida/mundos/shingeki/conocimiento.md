@@ -101,3 +101,4 @@
 - CORRECCIÓN/ESTADO T549 · La hoja del sargento la tiene Facundo. El informe a Muller no lleva la anotación escrita; el sargento solo la recuerda vagamente (si nota la falta, creerá que la perdió).
 - Levi, Eren, Mikasa, Zeke · T550 · Contenido de la hoja del sargento. Ven a Facundo quemarla con fuego en la palma.
 - Magath · T551 · Por Facundo: patrulla de Muller en el 14, documentos de "Facundo Morelli, asesor civil, colonias del sur", anotación del sargento (hoja quemada).
+- Levi, Eren, Mikasa, Zeke · T552 · Plan de Magath: Facundo como "asesor civil" ante Muller a las 8.
