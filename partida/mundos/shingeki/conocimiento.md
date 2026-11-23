@@ -51,3 +51,5 @@
 - Facundo · T499 · Por Pieck: Zeke tiene sangre real; con contacto con el portador del Fundador puede usar su poder (era el plan de Marley); Zeke quiere a Eren para algo propio. Ymir estaba en Marley para ser dada a Porco Galliard (Mandíbula); Pieck cree que ya pasó. Padre de Pieck: enfermo, Liberio, calle de los Faroles.
 - Pieck · T499 · Facundo le promete que su padre estará a salvo.
 - Jean, Connie, Sasha · T500 · Ven a Facundo aparecer de la nada en el patio (ya conocían el rumor de Shiganshina-Trost).
+- Eren · T502 · Por Zeke: Grisha lo crió como herramienta; Zeke entregó a sus padres a los 7 años; Tom Ksaver fue su figura paterna. Zeke reconoce que dudó por la idea de Facundo.
+- Levi · T502 · Oyó toda la conversación desde la puerta.

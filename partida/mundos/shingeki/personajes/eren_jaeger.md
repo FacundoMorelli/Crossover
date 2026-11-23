@@ -15,3 +15,4 @@ ENCUENTROS:
 - T430 · Escucha el plan de Zeke y la idea de Facundo. Rechaza la eutanasia: "Es rendirse."
 - T500 · Lo espera en el patio. "¿Zeke quiere hablar conmigo? Bien. Yo también tengo cosas que preguntarle."
 - T501 · Frente a Zeke en Trost.
+- T502 · Escucha a Zeke. "Es rendirse." Se acerca y levanta la mano hacia el hombro de Zeke.

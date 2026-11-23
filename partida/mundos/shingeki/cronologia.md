@@ -33,3 +33,4 @@
 - 06:40 · (T497) Desayuno; Facundo va a ir a Mitras por Eren.
 - 07:02 · (T500) Facundo llega a Mitras por Teletransportación a buscar a Eren.
 - 07:20 · (T501) Zeke y Eren frente a frente en la sala del fondo del cuartel de la Guarnición, con Facundo. Levi en la puerta.
+- 07:20-07:41 · (T502) Conversación Zeke-Eren (canon: se daba en otro contexto, años después). Eren a punto de tocar a Zeke (contacto sangre real + Fundador).
