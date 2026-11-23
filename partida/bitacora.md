@@ -466,3 +466,4 @@ T464 · Black Clover · Templo · Ultra Instinto Dominado: derriba a Vetto de un
 T465 · Black Clover · Templo · Yami termina a Vetto. Nero trae la piedra. Kahono cura a todos y quiere cantarle a Facundo.
 T466 · Black Clover · Templo · Kahono canta para Facundo. Yami le ofrece entrar a los Toros Negros.
 T467 · Black Clover · Templo · Entra a los Toros Negros. Avisa que se va a veces.
+T468 · Black Clover · Templo · Dice su nombre. Bienvenido a los Toros Negros. Fiesta; Vanessa lo invita a brindar.

@@ -13,3 +13,4 @@
 - Asta, Kiato · T459 · Saben por Facundo que el Ojo del Sol de Medianoche atacó el templo.
 - Noelle, Kahono, Kiato · T462 · Saben su nombre: Facundo.
 - Todos en el salón oeste · T464 · Vieron a Facundo con un aura plateada (Ultra Instinto) atrapar la garra de Vetto y mandarlo a través de tres paredes de un golpe.
+- Toros Negros, Gifso, Gio, Kahono, Kiato · T468 · Saben su nombre: Facundo. Es nuevo miembro de los Toros Negros.

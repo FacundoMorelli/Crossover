@@ -8,3 +8,5 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T468 · se le acerca con una botella: "¿Brindas conmigo, nuevo?"
