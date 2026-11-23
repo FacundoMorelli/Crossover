@@ -646,3 +646,4 @@ T644 · One Piece · mar · Zarpan. Remolino gigante. Barbanegra a lo lejos. La 
 T645 · One Piece · Corriente Ascendente · Flecha de advertencia a Barbanegra. Estalla la Corriente; el Merry sube.
 T646 · One Piece · Mar Blanco · Sujeta el Merry con la Luna. Llegan al mar de nubes. Un enmascarado los ataca con una bazuca.
 T647 · One Piece · Mar Blanco · Hunde el disparo en las nubes. El enmascarado se va. Llega Gan Fall.
+T648 · One Piece · Puerta del Cielo · Gan Fall advierte del dios. Amazon pide mil millones de extoles por persona.

@@ -66,3 +66,4 @@
 - 12:00 día 27 · (T645) Estalla la Corriente Ascendente (canon). El Merry sube al cielo.
 - 12:20 día 27 · (T646) El Merry llega al Mar Blanco (7.000 m). Ataque de un guerrero shandiano enmascarado (Wyper, canon).
 - 12:22 · (T647) Facundo neutraliza el disparo de Wyper. Gan Fall llega y les da un silbato (canon).
+- 13:30 · (T648) Puerta del Cielo; Amazon (canon).
