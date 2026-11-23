@@ -442,3 +442,4 @@ T440 · Shingeki · Trost · "Un x2000 mi poder." Pregunta 3: el gato.
 T441 · Shingeki · Trost · "Es un gato normal, somos el uno para el otro." Hange pregunta su nombre.
 T442 · Shingeki · Trost · Le dice el nombre de Kase a Hange. Hange se va. Noche.
 T443 · Shingeki · Mitras · Viaje de 4 días; audiencia ante la reina Historia y Zackly. Zackly pregunta qué quiere.
+T444 · Shingeki · Mitras · "Nada y nada." Historia pregunta por qué lo hizo.
