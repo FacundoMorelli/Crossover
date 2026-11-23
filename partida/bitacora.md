@@ -549,3 +549,4 @@ T547 · Shingeki · Liberio, casa segura · Abre la puerta: "propiedad de Magath
 T548 · Shingeki · Liberio, casa segura · Muestra documentos marleyanos. La patrulla se va, pero lo anota para Muller.
 T549 · Shingeki · Liberio, calle del Reloj · Roba la hoja de patrulla del sargento y la lee.
 T550 · Shingeki · Liberio, casa segura · Lee la hoja a Levi y la quema con el Sol.
+T551 · Shingeki · Liberio, despacho de Magath · Avisa de Muller. Magath propone presentarlo como su asesor mañana a las 8 ante Muller.
