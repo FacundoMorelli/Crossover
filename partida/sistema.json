@@ -1,8 +1,8 @@
 {
-  "turno": 639,
+  "turno": 640,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 26 (Grand Line, Jaya)",
-  "hora": "23:40",
+  "hora": "23:41",
   "edad": 18,
   "nivel": 26,
   "exp": 202640,
@@ -242,7 +242,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (One Piece: conocido por el cartel, 26M)"
+    "poder_mostrado": "persona común · aura de Ultra Instinto Dominado visible (One Piece)"
   },
   "armas": [
     {
@@ -915,6 +915,13 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
+    },
+    {
+      "poder": "Bellamy: Bane Bane no Mi",
+      "mundo": "onepiece",
+      "mision": "Que Bellamy rebote contra ti con su salto más fuerte y salga despedido él.",
+      "dificultad": "BAJA",
+      "emitida": "T640"
     }
   ],
   "misiones_de_copia_rechazadas": [],

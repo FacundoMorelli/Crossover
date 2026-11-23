@@ -638,3 +638,4 @@ T636 · One Piece · casa de Cricket · La tripulación va a la selva. Facundo s
 T637 · One Piece · casa de Cricket · Brindis. Cricket cuenta su historia y pide hacer sonar la campana de oro.
 T638 · One Piece · casa de Cricket · Promete hacer sonar la campana.
 T639 · One Piece · playa de Cricket · Sale a tomar aire. Desembarca Bellamy con su tripulación.
+T640 · One Piece · playa de Cricket · Ultra Instinto Dominado. Saluda. Bellamy lo ataca con Spring Sniper.

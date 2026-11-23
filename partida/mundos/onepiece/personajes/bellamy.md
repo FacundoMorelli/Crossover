@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: cartel 26M.
 ESTADO: activo
 - T628 · Golpea a Luffy; se va riendo.
 - T639 · Desembarca de noche en la playa de Cricket: "Qué noche más divertida."
+- T640 · "¿Te pusiste luces?" Spring Sniper contra Facundo.

@@ -93,3 +93,4 @@
 - Tripulación · T634 · Por Cricket: Corriente Ascendente mañana al mediodía; hay que atrapar un pájaro del sur para saber la dirección; Masira y Shoujou reforzarán el Merry.
 - Cricket, Masira, Shoujou, tripulación · T635 · Facundo sugiere que la mitad de Jaya voló al cielo. Robin compara los mapas: encajan. Cricket lo cree. (Canon: lo descubrían en Skypiea.)
 - Facundo · T637 · Por Cricket: el diario de Noland habla de una campana de oro enorme en la ciudad.
+- Bellamy, Sarquiss y su tripulación · T640 · Ven a Facundo con un aura plateada (lo atribuyen a una fruta rara).
