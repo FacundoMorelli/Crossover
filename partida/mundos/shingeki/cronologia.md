@@ -23,3 +23,5 @@
 - 15:40 · (T435) Toda la Legión y los cuatro prisioneros llegan a las afueras de Trost por la Teletransportación de Facundo (canon: llegaban con muchas bajas y días después). La frontera sigue sobre Shiganshina.
 - Días 1-4 tras Shiganshina · (T443) Viaje a Mitras. Prisioneros interrogados en Trost bajo Pixis. Audiencia ante la reina Historia y Zackly.
 - Día 4 12:30 · (T450) Facundo quita la pared de Shiganshina y se va por una puerta desde la escalinata del palacio. Testigos: Erwin, Hange, Moblit (Levi de espaldas).
+- Días 4-5 · (T489, simulado en ausencia) La Legión se queda en Mitras, alojada en el cuartel de la Legión junto al distrito militar. Erwin se reúne dos veces con Zackly y Pixis sobre el plan diplomático. Hange va y viene a Trost para los interrogatorios de los cuatro prisioneros (bajo Pixis). Sin titanes ni bajas. La guardia del palacio tiene orden de Zackly: el aliado de la reina (pelo blanco y azul, gato) no debe ser detenido.
+- Día 5 21:07 · (T489) Facundo vuelve por una puerta a la escalinata del palacio de Mitras.

@@ -11,3 +11,5 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T409-410 · Zeke capturado vivo por Levi; el Carguero derribado por Facundo antes de rescatarlo. Marley pierde (por ahora) al Acorazado, el Colosal, el Bestia y el Carguero. Cambio enorme del canon.
 - T413 · MISIÓN DE MUNDO CUMPLIDA: Erwin Smith llega vivo al sótano de los Jaeger.
 - T445 · Zackly declara a Facundo aliado de la Corona, libre y bajo protección de la reina. Erwin preparará un plan diplomático.
+
+- T489 · Facundo vuelve a Paradis, Día 5 tras Shiganshina, 21:07.

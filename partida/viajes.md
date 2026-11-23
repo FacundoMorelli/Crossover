@@ -94,3 +94,8 @@
 - RECOMPENSA: 8.000 EXP · 200 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T464 · 22:01. Vetto derribado antes de tocar a Kiato y Kahono. +8.000 EXP, +200 F. Mundos completados: 6.
+
+## RELOJES (actualizado T489)
+- Black Clover: salida dos días después de la luna llena, 06:18 (base de los Toros Negros), tras 1 día y 8 horas. Prometió volver en unos días. Corre.
+- Shingeki: VUELVE el Día 5 tras Shiganshina, 21:07 (1 día y 8 h y media después de irse). Puerta abierta en la escalinata del palacio de Mitras.
+- One Piece, Bleach, Jujutsu, Dragon Ball: corren.

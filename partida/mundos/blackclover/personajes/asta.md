@@ -13,3 +13,4 @@ ENCUENTROS:
 - T467 · Lo llama "mi rival". T472 · Le pide entrenar mañana.
 - T487 · Duelo en la explanada. Cae ocho veces, se levanta ocho; saca la Moradademonios.
 - T488 · Facundo le para las dos espadas con las manos y lo tumba. Tirado: "¡Algún día te voy a alcanzar!"
+- T489 · Facundo lo levanta y le sonríe; se despide. Asta: "¡Cuando vuelvas, peleamos otra vez!"

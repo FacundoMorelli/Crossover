@@ -34,3 +34,5 @@
 - Hange, Moblit · T442 · El gato se llama Kase. Es "un gato normal" que está con Facundo hace mucho.
 - Erwin → Historia, Zackly, Nile, Pixis (T443) · Informe completo: sótano, Marley, los cuatro prisioneros, el mar, y lo que hizo Facundo (pared, teletransportación, pelo azul, que "viene del otro lado del mar, más o menos"). Motivo: deber.
 - Historia, Zackly, Nile, Pixis, Erwin, Levi, Hange · T445 · Facundo dice que vino con una misión que no detalla, que no los perjudica y que quiere ayudar.
+- Guardia del palacio (Policía Militar) · T444-T489 · Orden de Zackly: el aliado de la reina tiene pelo blanco y azul y un gato; no se lo detiene. Motivo: que no lo ataquen si vuelve.
+- Dos guardias de la Policía Militar · T489 · Ven abrirse una puerta de luz en la escalinata y salir a Facundo con el gato.

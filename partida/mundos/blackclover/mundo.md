@@ -7,3 +7,5 @@ DON DE MUNDO: Grimorio del Firmamento (ver sistema.json).
 (ninguno todavía)
 - T454 · Facundo rompe la barrera de Abari: Yami libre desde el principio (canon: encerrado hasta c72).
 - T464 · Vetto derrotado por Facundo antes de herir a Kiato o a Kahono. MISIÓN DE MUNDO CUMPLIDA. Asta no se rompió los brazos.
+
+- T489 · Facundo se va de Black Clover por una puerta, frente a los Toros Negros. Promete volver en unos días.

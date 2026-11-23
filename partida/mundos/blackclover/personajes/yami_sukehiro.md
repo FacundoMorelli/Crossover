@@ -20,3 +20,4 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T484 · Facundo para su Corte de la Luna Negra con una mano. Yami se ríe. Elige el ataque 3: "El que más duela."
 - T485 · Recibe el ataque 3 (contenido). Vuela, parte dos árboles, queda tirado, consciente, riéndose. Torso quemado, costillas.
 - T486 · Facundo lo ayuda a pararse. "Hace años que nadie me hacía besar el pasto." Le revuelve el pelo: "Eres un monstruo de verdad. A los mocosos les viene bien tener uno cerca." Se va al baño.
+- T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
