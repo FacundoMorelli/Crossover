@@ -20,3 +20,4 @@ ESTADO: activo
 - T542 · Convocado a las 3 por la desaparición de Ymir. Reunido con oficiales hasta las 6:20. Solo e inquieto a las 6:25.
 - T543 · Facundo golpea la puerta. "Por lo menos esta vez golpeó." "Supongo que viene a contarme algo de una celda vacía en el puerto norte."
 - T544 · "Me lo dijo antes de que lo adivinara. Eso vale." Encubre. La reunión sigue. "¿Hay algo más que vaya a desaparecer antes de la reunión?"
+- T545 · Fija la reunión con Tybur. "Váyase antes de que llegue Muller."
