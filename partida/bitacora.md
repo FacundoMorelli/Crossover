@@ -595,3 +595,4 @@ T593 · One Piece · Going Merry · Cena con Ace y Luffy. Ace se duerme en el pl
 T594 · One Piece · Katorea · Despedida de Ace. Teletransporte a Katorea. Los centinelas reconocen a Vivi.
 T595 · One Piece · Katorea · Vivi habla con Koza. Koza pide pruebas y desconfía de los piratas.
 T596 · One Piece · Katorea ↔ Rainbase · Roba los planes de Crocodile en 18 segundos y se los da a Koza.
+T597 · One Piece · Katorea · Koza lee la Operación Utopía y detiene el ataque. Luffy quiere ir por Crocodile.

@@ -37,3 +37,4 @@
 - 19:35 · (T594) Vivi, Luffy, Sanji, Zoro, Facundo y Carue aparecen en el borde del campamento rebelde de Katorea (canon: Vivi nunca llegaba a Koza antes de Alubarna).
 - 19:55 · (T595) Vivi se reencuentra con Koza en Katorea (canon: solo en Alubarna, al final). Koza duda y pide pruebas.
 - 19:56 · (T596) Facundo roba documentos del despacho de Crocodile en Rain Dinners sin ser visto y se los entrega a Koza en Katorea. CAMBIO ENORME: los rebeldes tienen pruebas de la Operación Utopía.
+- 20:10 · (T597) Koza detiene el ataque rebelde sobre Alubarna. CAMBIO ENORME: la batalla de Alubarna no ocurre (por ahora).

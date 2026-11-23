@@ -8,3 +8,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 (ninguno todavía)
 - T356 · Día 1 · Zoro come una semilla del ermitaño: la herida de Mihawk se cierra entera y recupera toda su fuerza (en el canon pelea contra Hatchan con fiebre y la herida abierta).
 - T369 · Día 1 · Arlong derrotado por Luffy. Arlong Park destruido. MISIÓN DE MUNDO CUMPLIDA: Cocoyasi libre, sin muertos en la aldea. Nojiko no recibió el disparo de Nezumi (no pasó todavía).
+- T597 · El ejército rebelde detiene su ataque gracias a los documentos de Baroque Works. Crocodile todavía no lo sabe.

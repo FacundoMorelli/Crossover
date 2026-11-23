@@ -63,3 +63,4 @@
 - Koza, lugartenientes, rebeldes · T595 · Por Vivi: Crocodile es Mr. 0, jefe de Baroque Works; el Polvo de Baile lo planta Baroque Works. Ven a la princesa con piratas (Luffy, Zoro, Sanji, Facundo).
 - Koza, lugartenientes, rebeldes cercanos, Vivi, Luffy, Sanji, Zoro · T596 · Facundo desaparece y vuelve a los 18 segundos con documentos de Baroque Works: Operación Utopía con el emblema de Crocodile, registro del Polvo de Baile, lista de agentes, plano de Alubarna. Dice que los trajo de la base de Crocodile.
 - Crocodile, Miss All Sunday · T596 · No vieron nada (todavía no saben que faltan los papeles).
+- Koza, lugartenientes · T597 · Facundo dijo que sacó los documentos de la base de Crocodile en Rainbase. Contenido completo de la Operación Utopía.
