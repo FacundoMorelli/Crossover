@@ -13,3 +13,4 @@ ESTADO: activo
 - T717 · Curado por una semilla sin ver de dónde vino. "Nico Robin..."
 - T718 · "¿Fuiste tú lo del poroto? ¿Qué hace un pirata en mi cuarto, la noche en que su arqueóloga me disparó?"
 - T719 · "Eso explica la cara que tenía." "¿Sabes quiénes eran los otros cuatro?"
+- T720 · Se entera de Lucci, Kaku y Kalifa. "Kalifa me trae el café todas las mañanas." Deduce a Blueno. "¿Qué piensas hacer, pirata?"

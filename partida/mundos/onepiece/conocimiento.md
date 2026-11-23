@@ -147,3 +147,5 @@
 - Facundo · T718 · Vio a Kalifa llegar "preocupada" después del ataque.
 - Iceburg · T719 · Por Facundo: Robin actuó amenazada por el Gobierno con un Buster Call.
 - Facundo · T719 · Por Iceburg: el Gobierno busca los planos de un arma antigua que le dejó su maestro.
+- Iceburg · T720 · Por Facundo: los atacantes eran Lucci, Kaku y Kalifa. Lo cree (le cierran las pistas). Deduce que el cuarto es Blueno.
+- Facundo · T720 · Por Iceburg: los planos los tiene "alguien que no los quiere" (Franky); mañana irán por él.

@@ -718,3 +718,4 @@ T716 · One Piece · Galley-La · (Corregido) Primera noche: los enmascarados ba
 T717 · One Piece · Galley-La · Le da una semilla a Iceburg sin que lo vean. Iceburg se cura.
 T718 · One Piece · Galley-La · Espera a que se vayan y aparece ante Iceburg. Iceburg pregunta qué hace ahí.
 T719 · One Piece · Galley-La · Le cuenta a Iceburg lo del Gobierno y el Buster Call. Iceburg pregunta quiénes eran los otros cuatro.
+T720 · One Piece · Galley-La · Le dice a Iceburg que eran Lucci, Kaku y Kalifa. Iceburg deduce a Blueno. Los planos los tiene otro.
