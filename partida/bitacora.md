@@ -689,3 +689,4 @@ T687 · One Piece · Long Ring Long Land · Davy Back Fight: pierden el 1.º, ga
 T688 · One Piece · Long Ring Long Land · Le devuelve el libro a Robin. Aokiji lo reconoce y advierte sobre Robin.
 T689 · One Piece · Long Ring Long Land · "Luffy va a ser el Rey de los Piratas." Aokiji va a atacar a Robin.
 T690 · One Piece · Long Ring Long Land · Se pone delante de Robin. Aokiji lo congela entero. Va a romper la estatua.
+T691 · One Piece · Long Ring Long Land · Sale caminando del hielo de Aokiji. Copia Hie Hie. Aokiji se pone serio.

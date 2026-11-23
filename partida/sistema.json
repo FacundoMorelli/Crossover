@@ -1,11 +1,11 @@
 {
-  "turno": 690,
+  "turno": 691,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 31 (Grand Line, Long Ring Long Land)",
-  "hora": "17:22",
+  "hora": "17:23",
   "edad": 18,
   "nivel": 26,
-  "exp": 206640,
+  "exp": 209640,
   "exp_siguiente_nivel": 215000,
   "fragmentos": 133687,
   "plata_local": {
@@ -711,6 +711,18 @@
         "Sin la debilidad del mar",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Hie Hie no Mi (poder de Aokiji)",
+      "de": "Aokiji (Kuzan)",
+      "mundo": "onepiece",
+      "cuando": "T691 (Aokiji lo congeló entero con Ice Time y salió caminando del hielo)",
+      "incluye": [
+        "Cuerpo de hielo (Logia) a voluntad",
+        "Ice Time, Ice Age, Ice Saber, Ice Block: Partisan, Pheasant Peck, Ice Ball, congelar el mar para caminar sobre él, y todo lo que Aokiji llega a hacer",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -965,13 +977,6 @@
       "mision": "Que Foxy te dé con su rayo lento y no te frene ni un segundo.",
       "dificultad": "BAJA",
       "emitida": "T686"
-    },
-    {
-      "poder": "Aokiji: Hie Hie no Mi",
-      "mundo": "onepiece",
-      "mision": "Que Aokiji te congele entero con su hielo más fuerte y salgas caminando del hielo.",
-      "dificultad": "ALTA",
-      "emitida": "T689"
     }
   ],
   "misiones_de_copia_rechazadas": [],
