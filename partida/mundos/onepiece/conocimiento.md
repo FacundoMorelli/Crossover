@@ -87,3 +87,5 @@
 - Masira y sus hombres · T625 · Facundo dijo que el mar se movió por su fruta.
 - Piratas de la taberna, Bellamy, Barbanegra · T627 · Reconocen a "Ojos de Eclipse" (26M) y a Sombrero de Paja (30M) por los carteles.
 - Piratas de la taberna, Bellamy, Barbanegra · T628 · Una botella se rompió en la cabeza de Facundo y no le hizo nada.
+- Luffy, Zoro · T630 · Facundo les da semillas que curan todo al instante.
+- Tripulación · T630 · Por Robin (mapa del pueblo y rumores): Montblanc Cricket vive del otro lado de Jaya; dicen que es mentiroso (ciudad de oro).

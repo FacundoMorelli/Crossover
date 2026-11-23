@@ -1,13 +1,13 @@
 {
-  "turno": 629,
+  "turno": 630,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 26 (Grand Line, Jaya)",
-  "hora": "10:17",
+  "hora": "10:35",
   "edad": 18,
   "nivel": 26,
   "exp": 202640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173707,
+  "fragmentos": 133707,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -398,6 +398,12 @@
       "objeto": "(regalado) Libro de Paradis",
       "detalle": "Libro de tapas de cuero gastadas, impreso en Paradis (Shingeki), sobre las murallas y los titanes, con grabados. Regalado a Robin en T617. Escrito en el alfabeto de las murallas: Robin no puede leerlo.",
       "mundo": "shingeki → onepiece"
+    },
+    {
+      "objeto": "Semillas del ermitaño",
+      "cantidad": 98,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro.",
+      "mundo": "tienda"
     }
   ],
   "copias": [
@@ -1424,7 +1430,8 @@
         "Técnica nueva del Eclipse (a elección)": 1200,
         "Técnica nueva de un Don de Mundo": 1500,
         "Desbloquear antes: Eclipse (parte)": 3500,
-        "Desbloquear antes: Corona (parte)": 5000
+        "Desbloquear antes: Corona (parte)": 5000,
+        "Semilla del ermitaño (cura total + energía 100%, una)": 400
       },
       "extrema": {
         "Desbloquear antes la forma superior de un Don de Mundo": 9000,
