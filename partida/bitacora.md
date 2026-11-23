@@ -522,3 +522,4 @@ T520 · Shingeki · Liberio, despacho de Magath · Teletransportación directa a
 T521 · Shingeki · Liberio, despacho de Magath · Muestra la carta de Historia. Magath pregunta quién es y qué quiere Paradis.
 T522 · Shingeki · Liberio, despacho de Magath · Se presenta como emisario: paz y libertad. Magath pregunta por los guerreros y qué ofrece Paradis.
 T523 · Shingeki · Liberio, despacho de Magath · Ofrece piedra de hielo y combustible. Magath menciona a los Tybur; pregunta por devolver a los guerreros.
+T524 · Shingeki · Liberio, despacho de Magath · Devolver guerreros con la paz firmada. Magath propone reunión con Willy Tybur en 3 días y pide muestra de piedra de hielo.

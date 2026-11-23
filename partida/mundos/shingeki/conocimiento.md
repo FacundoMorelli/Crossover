@@ -72,3 +72,5 @@
 - Magath, Brandt · T522 · Nombre: Facundo, emisario de Paradis. Pide paz y libertad.
 - Magath, Brandt · T523 · Paradis ofrece piedra de hielo y combustible a cambio de la paz.
 - Facundo, Eren, Mikasa, Levi, Zeke · T523 · Por Magath: la familia Tybur mueve los hilos detrás del Estado de Marley.
+- Magath, Brandt · T524 · Condición de Paradis: los guerreros vuelven cuando se firme la paz y el mundo deje de querer matar a los de Paradis.
+- Facundo y equipo · T524 · Por Magath: Willy Tybur es la cabeza de la familia Tybur.

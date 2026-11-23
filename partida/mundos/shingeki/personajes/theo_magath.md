@@ -14,3 +14,4 @@ ESTADO: activo
 - T521 · Lee la carta de Historia. Hace cerrar la puerta. Deja la pistola en el escritorio sin soltarla. "¿Quién es usted, y qué quiere Paradis?"
 - T522 · "La paz y la libertad no se piden. Se pagan." Pregunta si Braun, Hoover y Finger viven y qué ofrece Paradis.
 - T523 · Interesado: "Con eso se gana la guerra del Medio Oriente." Menciona a los Tybur. Pregunta si devolverían a los cuatro guerreros.
+- T524 · Propone reunión secreta con Willy Tybur en tres días. Ofrece casa segura; pide muestra de piedra de hielo.
