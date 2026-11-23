@@ -7,3 +7,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: el cartel (26M). Lo va a reportar en Whisky Peak.
 ESTADO: activa
 - Días 9-20 (ausencia) · Se revela como Nefertari Vivi, princesa de Arabasta; viaja con los Sombrero de Paja.
+- T581 · Baja a la bodega. "Tú eres... Ojos de Eclipse."

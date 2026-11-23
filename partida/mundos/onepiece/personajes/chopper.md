@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo que contó la tripulación (tripulante ausente, cartel, gato).
 QUÉ PODERES DE FACUNDO VIO: la puerta.
 ESTADO: activo
+- T581 · Usopp lo presenta. Se asoma desde el barril, desconfiado.

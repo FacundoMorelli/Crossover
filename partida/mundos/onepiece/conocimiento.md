@@ -46,3 +46,5 @@
 - Vivi, Chopper, Carue · días 9-20 (T580) · Por la tripulación: Facundo es tripulante, se fue y prometió volver; tiene cartel de 26M, "Ojos de Eclipse", un gato con los mismos ojos. Vivi ya lo conocía por el cartel.
 - Baroque Works · días 9-10 (T580) · Miss Wednesday reportó en Whisky Peak que "Ojos de Eclipse" viaja con los Sombrero de Paja (antes de revelarse).
 - Chopper · T580 · Ve a Facundo y Kase salir de una puerta de luz en la bodega.
+- Usopp, Chopper, Nami, Vivi · T581 · Facundo volvió apareciendo de la nada en la bodega; pide perdón por aparecer así.
+- Facundo · T581 · Por Usopp: pasaron once días; Whisky Peak, Little Garden (gigantes), Drum, Chopper médico, Vivi princesa de Arabasta.
