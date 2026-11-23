@@ -24,3 +24,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T607 · Invita a Robin: "¡Si Facundo dice que eres buena, eres buena!"
 - T678 · Vence a Enel con la bola de oro pegada al brazo.
 - T680 · Hace sonar la campana de oro con todo.
+- T708 · "¡Un último viaje con el Merry! ¡Y después un barco nuevo!"

@@ -95,3 +95,4 @@
 - 13:20 · (T700) Kaku dictamina que el Going Merry no tiene arreglo (canon).
 - 13:45 · (T701) La familia Franky ataca a Usopp en un callejón y le roba 200M (canon).
 - 13:37 · (T704) La familia Franky no logra robar el dinero (canon: robaban 200M). Tres huyen a avisarle a Franky.
+- 15:30 · (T708) La tripulación decide un último viaje con el Merry antes de cambiar de barco (canon: Luffy y Usopp se peleaban a duelo). Robin no vuelve (canon: CP9 la contactó).
