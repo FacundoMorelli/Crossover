@@ -96,3 +96,4 @@
 - Magath · T544 · Por Facundo: rescató a Ymir y la llevó a Paradis; es amiga de la reina. Magath lo guarda en secreto y deja correr la teoría del traidor del Medio Oriente (coronel Muller).
 - Facundo · T545 · Por Magath: reunión con Willy Tybur el día 10 a las 21:00 en el invernadero de la mansión; Brandt los busca a las 20:30. Facundo solo o con uno más; Zeke no.
 - Levi, Eren, Mikasa, Zeke · T546 · Por Facundo: Magath sabe lo de Ymir y lo encubre; reunión con Tybur día 10 a las 21:00, solo Facundo y uno más, Zeke no.
+- Sargento y 3 soldados de la patrulla de Muller · T547 · Ven a un joven de pelo blanco y azul, ojos de dos colores, sin brazalete, con un gato enorme, en la casa de la unidad de guerreros. Dice que la casa es del general Magath.
