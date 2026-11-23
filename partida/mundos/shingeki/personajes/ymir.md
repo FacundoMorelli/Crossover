@@ -17,3 +17,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T539 · Facundo se presenta y se va. Ella alcanza a gritar "¡Yo no dije—!". RELACIÓN: desconfiada pero agradecida.
 - T570 · En el consejo, en un rincón con una manta, comiendo. Escucha todo. A Facundo: "El lindo volvió."
 - T572 · "¿Me quieres tener cerca?" "Ni en tus sueños, lindo. Te quiero cerca para que no te pierdas y Historia no llore." Roja.
+- T577 · "¿Ya te vas, lindo? Qué poco duras."

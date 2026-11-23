@@ -1,8 +1,8 @@
 {
   "turno": 577,
   "mundo_actual": "shingeki",
-  "fecha_local": "Año 850 · Día 40 tras Shiganshina (fiesta Tybur)",
-  "hora": "19:40",
+  "fecha_local": "Año 850 · Día 11 tras Shiganshina",
+  "hora": "12:30",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 72,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -242,7 +242,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común"
+    "poder_mostrado": "persona común · el Eclipse visto por Zackly, Historia, Erwin, Pixis, Hange"
   },
   "armas": [
     {
