@@ -143,3 +143,5 @@
 - Facundo · T716 · Vio a cinco enmascarados balear a Iceburg y buscar algo; reconoció a Robin entre ellos por el ki.
 - Iceburg · T716 · Vio la cara de Robin entre los atacantes.
 - Iceburg, Paulie, carpinteros · T717 · Iceburg se curó al instante tras "algo que le pusieron en la boca, que sabía a poroto". Nadie vio quién.
+- Iceburg · T718 · Facundo aparece en su cuarto cuando está solo. Sospecha que lo del "poroto" fue él.
+- Facundo · T718 · Vio a Kalifa llegar "preocupada" después del ataque.
