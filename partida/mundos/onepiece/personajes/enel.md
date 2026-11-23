@@ -10,3 +10,4 @@ ENCUENTROS:
 - T670 · Cae como un rayo en Shandora. "¿Qué dice la piedra, mujer?"
 QUÉ SABE DE FACUNDO: que el Mantra no lo escucha; lo de Shura.
 ESTADO: activo
+- T671 · Detecta la mentira de Robin. Cuenta su plan. Luffy lo carga.

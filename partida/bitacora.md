@@ -669,3 +669,4 @@ T667 · One Piece · Upper Yard · Esquiva la serpiente teletransportándose. Ro
 T668 · One Piece · Upper Yard · Toca la cabeza de la serpiente; se calma. Placa dorada: NOLA.
 T669 · One Piece · Upper Yard · Alimenta a Nola. Los lleva a las ruinas de Shandora. Robin corre a la piedra.
 T670 · One Piece · Shandora · Robin lee la piedra (Poseidón; inscripción de Roger). Enel cae como un rayo.
+T671 · One Piece · Shandora · Robin miente; Enel cuenta su plan (arca, Fairy Vearth, destruir Skypiea). La campana está en la nube de arriba. Luffy carga.
