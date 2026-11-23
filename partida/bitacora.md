@@ -454,3 +454,4 @@ T452 · Black Clover · Templo · Pregunta dónde está y por Kiato y Kahono. Gi
 T453 · Black Clover · Templo · Irrumpe Vetto. Yami y Gifso encerrados por Abari; Facundo afuera. Yami le pide cuidar a los Toros Negros.
 T454 · Black Clover · Templo · Rompe la esfera de Abari con una ráfaga de ki. Yami libre; Abari inconsciente.
 T455 · Black Clover · Templo · Llegan con Yami a Vetto. Yami lo quiere para él; pide que Facundo cuide a los demás.
+T456 · Black Clover · Templo · Se teletransporta entre Zarick/Zuta y Gauche, Grey, Charmy.

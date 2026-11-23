@@ -8,3 +8,4 @@
 - Gifso, Yami · T452 · Facundo busca a Kiato y Kahono por nombre y no sabe dónde está. Les parece raro.
 ## QUIÉN VIO QUÉ PODERES
 - Yami, Gifso · T454 · Vieron a Facundo romper la barrera espacial de Abari con una ráfaga de luz de la mano. Yami sintió su "Ki" (no el maná: el Velo oculta su poder, pero Yami nota la intención).
+- Zarick, Zuta, Gauche, Grey · T456 · Facundo apareció de la nada entre ellos (Teletransportación).
