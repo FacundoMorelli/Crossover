@@ -456,3 +456,4 @@ T454 · Black Clover · Templo · Rompe la esfera de Abari con una ráfaga de ki
 T455 · Black Clover · Templo · Llegan con Yami a Vetto. Yami lo quiere para él; pide que Facundo cuide a los demás.
 T456 · Black Clover · Templo · Se teletransporta entre Zarick/Zuta y Gauche, Grey, Charmy.
 T457 · Black Clover · Templo · Flechas Quincy: Zarick y Zuta caen. 14 misiones de copia pendientes emitidas.
+T458 · Black Clover · Templo · Se teletransporta al duelo de Asta y Kiato.

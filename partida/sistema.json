@@ -1,8 +1,8 @@
 {
-  "turno": 457,
+  "turno": 458,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
-  "hora": "21:54",
+  "hora": "21:55",
   "edad": 18,
   "nivel": 25,
   "exp": 187390,
@@ -704,6 +704,20 @@
       "mision": "Que Vetto reconozca, con sus palabras, que no logró desesperarte.",
       "dificultad": "ALTA",
       "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Asta: Anti-Magia (espadas, Forma de Diablo Negro; el origen: sin datos)",
+      "mundo": "blackclover",
+      "mision": "Que Asta te reconozca como rival, con sus palabras.",
+      "dificultad": "ALTA",
+      "emitida": "T458"
+    },
+    {
+      "poder": "Kiato: Magia de Butoh",
+      "mundo": "blackclover",
+      "mision": "Bailar con Kiato hasta que él se canse primero.",
+      "dificultad": "BAJA",
+      "emitida": "T458"
     }
   ],
   "misiones_de_copia_rechazadas": [],

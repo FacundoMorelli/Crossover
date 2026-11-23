@@ -8,3 +8,5 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T458 · Facundo aparece en medio de su duelo con Kiato. "¡¿QUIÉN ERES TÚ?!"
