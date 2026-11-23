@@ -1,8 +1,8 @@
 {
-  "turno": 516,
+  "turno": 517,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 7 tras Shiganshina",
-  "hora": "06:25",
+  "hora": "12:40",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -51,7 +51,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 90,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
