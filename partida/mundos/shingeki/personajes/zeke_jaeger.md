@@ -26,3 +26,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T504 · Confirma lo de Dina. "Igual cumplo mi parte. Traigan papel."
 - T505 · Dicta 6 horas. Cumple. "Me guardo una cosa para después. Para cuando confíen un poco más."
 - T506 · Se ofrece de guía: "Nadie conoce Liberio mejor que yo."
+- T509 · Se ríe del plan de volar; aconseja bajar en una costa sin vigilancia al sur de Liberio.

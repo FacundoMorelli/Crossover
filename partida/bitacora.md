@@ -507,3 +507,4 @@ T505 · Shingeki · Trost, sala del fondo · Simula: Zeke dicta 6 h todo lo de M
 T506 · Shingeki · Trost, sala del fondo · Acepta ser emisario. Zeke se ofrece de guía; Levi se niega; Eren quiere ir.
 T507 · Shingeki · Trost, sala del fondo · Equipo al continente: Facundo, Eren, Zeke, Levi. Mikasa pide ir.
 T508 · Shingeki · Trost, sala del fondo · Mikasa se suma. Erwin pregunta cuándo y cómo cruzan.
+T509 · Shingeki · Trost, sala del fondo · "Vamos volando." Zeke sugiere costa al sur de Liberio. Erwin pregunta cuándo.

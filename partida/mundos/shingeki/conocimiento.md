@@ -57,3 +57,5 @@
 - Eren, Levi, Mikasa · T503 · Ven a Facundo frenar el contacto Eren-Zeke. Zeke dice "no iba a hacerle nada. Hoy no." Eren no sabe por qué el contacto importa.
 - Eren, Mikasa, Levi · T504 · Por Facundo: Zeke tiene sangre real; tocando al portador del Fundador puede usar su poder. Eren deduce y Zeke confirma: el titán sonriente era Dina Fritz, madre de Zeke, de sangre real; por eso funcionó el Coordenado cuando Eren la tocó. (Erwin y Hange afuera: oyen parte por la puerta abierta.)
 - Erwin, Hange, Moblit, Levi, Eren, Mikasa, Pixis · T505 · Todo el legajo de Zeke, incluido el plazo de la flota (~3 meses).
+- Todos en la sala · T509 · Facundo dice que cruzarán el mar volando.
+- Facundo · T509 · Por Zeke: costa sin vigilancia al sur del puerto de Liberio.
