@@ -53,3 +53,5 @@
 - Día 25 14:10 · (T622) Un galeón antiguo cae del cielo junto al Going Merry; el Log Pose apunta hacia arriba (canon, cap. ~218).
 - 14:20-15:30 · (T623) Exploración del galeón hundido (canon). Llega Masira y su barco de salvamento.
 - 15:31 · (T624) Facundo saca a los buzos con la Shio Shio. Mapa de Skypiea (canon).
+- Noche día 25 · (T626) Sombras gigantes en la niebla (canon).
+- Día 26 09:40 · (T626) Llegada a Jaya, Mock Town (canon cap. ~222).
