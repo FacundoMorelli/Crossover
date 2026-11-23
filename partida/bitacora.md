@@ -582,3 +582,4 @@ T580 · Shingeki → One Piece · Se despide en Mitras y vuelve a One Piece. Bod
 T581 · One Piece · Going Merry, bodega · Pregunta cuánto pasó. Usopp: once días; presenta a Chopper. Nami lo golpea y lo abraza. Vivi lo reconoce.
 T582 · One Piece · Going Merry · Saluda a Vivi por su nombre. Luffy está en Nanohana. Columna de fuego en el pueblo.
 T583 · One Piece · Nanohana · Aparece junto a Luffy corriendo. Ace frena a Smoker con fuego. Smoker lo reconoce. Misión de copia: Ace.
+T584 · One Piece · Nanohana · Se presenta a Ace. Ace agradece y frena a Smoker. "Váyanse."

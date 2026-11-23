@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada (puede conocer el cartel de 26M).
 QUÉ PODERES DE FACUNDO VIO: aparición de la nada.
 ESTADO: activo
+- T584 · Reverencia: "Portgas D. Ace, hermano mayor de este. Gracias por cuidarlo." Frena a Smoker. "¡Váyanse!"
