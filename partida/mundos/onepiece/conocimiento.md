@@ -70,3 +70,4 @@
 - Robin · T602 · Facundo sospecha que busca un arma; dice que la conoce, que no le importa su pasado y que duda que haya sido su culpa "como dicen la Marina y el gobierno". Robin deduce que sabe quién es (Ohara). Lo registra.
 - Facundo · T602 · Por Robin: busca la historia verdadera, "una piedra que la cuenta".
 - Crocodile · T602 · Ve a Robin hablando con Facundo en lugar de intervenir.
+- Robin · T604 · Facundo la invita a unirse a los Sombrero de Paja (Luffy quiere ser Rey de los Piratas) "y estar a su lado".

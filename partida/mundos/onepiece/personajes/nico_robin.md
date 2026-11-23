@@ -15,3 +15,4 @@ ESTADO: activa
 - T601 · Se ríe del piropo. "Aliada no. Socia. Él quiere algo de este país y yo también." "¿Qué tendrías tú para ofrecerme?"
 - T602 · Se le quiebra la máscara. "No busco un arma. Busco la historia. La verdadera. Una piedra que la cuenta."
 - T603 · "Eres un hombre muy extraño, Ojos de Eclipse." A Crocodile: "Esta pelea no es mía, señor Zero."
+- T604 · "Hace veinte años que nadie me invita a ningún lado." "¿A tu lado? Qué rápido vas." "Si tu capitán gana esta noche... lo voy a pensar."

@@ -18,3 +18,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T369 · Derrota a Arlong y parte la torre. "¡Nami! ¡Eres mi nakama!" Le reclama a Facundo el trato.
 - T583 · "¡FACUNDO! ¡Volviste!" corriendo con la boca llena.
 - T599 · Se moja los puños con la jarra y le pega a Crocodile en la cara.
+- T604 · Esquiva la Desert Spada; Gomu Gomu no Hammer mojado sobre Crocodile.
