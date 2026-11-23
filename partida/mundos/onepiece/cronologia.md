@@ -59,3 +59,4 @@
 - 10:15 · (T628) Bellamy golpea a Luffy y Zoro, que no responden (canon). Barbanegra les dice que la isla del cielo existe.
 - 14:20 · (T632) Casa de Cricket (canon cap. ~227). Cricket colapsa por la enfermedad del buzo.
 - 23:40 · (T639) Bellamy desembarca en la playa de Cricket para robarle el oro (canon: los apalea y roba el oro de noche).
+- 23:45 · (T642) Bellamy huye sin robar el oro de Cricket (canon: lo robaba y apaleaba a Cricket, Masira y Shoujou).

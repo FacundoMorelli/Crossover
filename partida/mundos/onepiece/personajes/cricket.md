@@ -15,3 +15,4 @@ ESTADO: enfermo
 - T636 · "Brindemos por un mentiroso que no mintió."
 - T637 · Brinda con Facundo. "No sé cómo se te ocurrió." Pide: "Si llegan arriba, hagan sonar la campana."
 - T638 · Facundo promete hacer sonar la campana. "Me voy a quedar despierto todas las noches, escuchando."
+- T642 · "¿Qué clase de fruta es esa?" (una vez). Muestra el cofre con el oro de Noland.

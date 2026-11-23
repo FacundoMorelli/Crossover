@@ -640,3 +640,4 @@ T638 · One Piece · casa de Cricket · Promete hacer sonar la campana.
 T639 · One Piece · playa de Cricket · Sale a tomar aire. Desembarca Bellamy con su tripulación.
 T640 · One Piece · playa de Cricket · Ultra Instinto Dominado. Saluda. Bellamy lo ataca con Spring Sniper.
 T641 · One Piece · playa de Cricket · Bellamy le pega y rebota contra las rocas. Copia Bane Bane.
+T642 · One Piece · casa de Cricket · Bellamy huye. Cricket le muestra su oro.

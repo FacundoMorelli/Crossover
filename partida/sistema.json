@@ -1,8 +1,8 @@
 {
-  "turno": 641,
+  "turno": 642,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 26 (Grand Line, Jaya)",
-  "hora": "23:41",
+  "hora": "23:45",
   "edad": 18,
   "nivel": 26,
   "exp": 203140,
@@ -242,7 +242,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común · aura de Ultra Instinto Dominado visible (One Piece)"
+    "poder_mostrado": "persona común (One Piece)"
   },
   "armas": [
     {
