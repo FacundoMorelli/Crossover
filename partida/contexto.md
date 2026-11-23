@@ -1,11 +1,11 @@
-TURNO: 705 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:38 | Lugar: Water 7, callejón cerca del puerto
+TURNO: 706 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:40 | Lugar: Water 7, callejón cerca del puerto
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T705: apaga el aura y le da una semilla a Usopp. Usopp se cura al instante. Se sienta, abraza las maletas, y llora: "El Merry... dicen que no tiene arreglo, Facundo. Yo lo quiero arreglar. Es nuestro barco. Es nuestro compañero." Se seca la cara con la manga: "¿Tú también piensas que hay que abandonarlo?"
+- T706: "No creo que haya que abandonarlo, Usopp. Pero si esos carpinteros tienen razón, no podemos arriesgarnos a que se rompa en medio del mar." Usopp baja la cabeza; tarda en contestar. "Ya sé... ya sé." Después levanta la vista, con un brillo desesperado: "Pero tú... tú haces cosas imposibles. Paraste balas, te comiste una nube, saliste del hielo. ¿No hay... no hay alguna forma de que tú lo arregles?"
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
 PRESENTES EN ESCENA: Usopp (en el suelo, con las dos maletas), doce matones y Mozu y Kiwi noqueados (callejón). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
