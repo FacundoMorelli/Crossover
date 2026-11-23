@@ -1,8 +1,8 @@
 {
-  "turno": 549,
+  "turno": 550,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 9 tras Shiganshina",
-  "hora": "15:44",
+  "hora": "15:46",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -372,11 +372,6 @@
     {
       "objeto": "Documentos de ciudadano marleyano",
       "detalle": "Libreta de identidad con sello del Estado: 'Facundo Morelli, ciudadano marleyano, nacido en la colonia de Hizuru Sur... (de las colonias del sur)'. Comprados T548.",
-      "mundo": "shingeki"
-    },
-    {
-      "objeto": "Hoja de patrulla del sargento",
-      "detalle": "Robada T549. Lista de ocupantes de la calle del Reloj (n.º 2 al 14) con la anotación sobre Facundo en el 14.",
       "mundo": "shingeki"
     }
   ],

@@ -99,3 +99,4 @@
 - Sargento y 3 soldados de la patrulla de Muller · T547 · Ven a un joven de pelo blanco y azul, ojos de dos colores, sin brazalete, con un gato enorme, en la casa de la unidad de guerreros. Dice que la casa es del general Magath.
 - Sargento de la patrulla → coronel Muller (informe del día 10) · T548 · Huésped en la casa del 14 (unidad de guerreros): Facundo Morelli, ciudadano de las colonias del sur, pelo blanco y azul, gato. Dice que la casa es de Magath. Motivo: deber de informar.
 - CORRECCIÓN/ESTADO T549 · La hoja del sargento la tiene Facundo. El informe a Muller no lleva la anotación escrita; el sargento solo la recuerda vagamente (si nota la falta, creerá que la perdió).
+- Levi, Eren, Mikasa, Zeke · T550 · Contenido de la hoja del sargento. Ven a Facundo quemarla con fuego en la palma.
