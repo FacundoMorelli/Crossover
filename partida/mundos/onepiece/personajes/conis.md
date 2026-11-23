@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: acaba de conocerlo.
 ENCUENTROS:
 - T650 · Los recibe en la playa.
 ESTADO: activa
+- T651 · Se emociona con los visitantes. Mira la selva con miedo un segundo.
