@@ -527,3 +527,4 @@ T525 · Shingeki · Liberio, despacho de Magath · Compra y entrega una piedra d
 T526 · Shingeki · Liberio, despacho de Magath · Décadas de piedra de hielo. Magath guarda el secreto; Brandt los llevará a la casa segura.
 T527 · Shingeki · Liberio, casa segura · Brandt los lleva a la calle del Reloj 14. Eren quiere ir a la zona de internamiento esta noche.
 T528 · Shingeki · Liberio, casa segura · Medita y siente dos titanes: uno preso en el puerto norte (Ymir, según Zeke), otro en la mansión Tybur.
+T529 · Shingeki · Liberio, casa segura · Decide rescatar a Ymir esta noche. Levi y Zeke aconsejan sin rastro; cambio de guardia a medianoche.

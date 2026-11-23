@@ -20,3 +20,4 @@ ENCUENTROS:
 - T504 · Entiende lo del Coordenado y Dina Fritz. "Fue por ella... por eso funcionó."
 - T506 · "Yo también voy."
 - T527 · Ve Liberio desde el coche, callado. En la casa: "Quiero ir ahí. Esta noche." (zona de internamiento)
+- T529 · Quiere ir al rescate de Ymir.

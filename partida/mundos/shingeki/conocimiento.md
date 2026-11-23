@@ -79,3 +79,4 @@
 - Eren, Mikasa, Levi · T527 · Ven Liberio: autos, tranvía, carteles contra los "demonios de la isla", eldianos con brazalete detrás de la cerca.
 - Facundo · T528 · Siente con el Ojo del Eclipse dos energías de titán en Liberio: una presa bajo tierra en el centro de investigación del puerto norte; otra en la mansión Tybur. Por Zeke: ahí tenían a Ymir. Zeke se sorprende de que "sienta" titanes, pero no pregunta.
 - Eren, Mikasa, Levi, Zeke · T528 · Facundo dice que va a averiguar si Ymir sigue viva y que a la noche van a la zona de internamiento.
+- Facundo y equipo · T529 · Por Zeke: el centro de investigación cambia la guardia a medianoche.
