@@ -23,3 +23,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T606 · Facundo lo cura con una poción. "¡TENGO HAMBRE!" A Robin: "¿Y tú quién eres?"
 - T607 · Invita a Robin: "¡Si Facundo dice que eres buena, eres buena!"
 - T678 · Vence a Enel con la bola de oro pegada al brazo.
+- T680 · Hace sonar la campana de oro con todo.

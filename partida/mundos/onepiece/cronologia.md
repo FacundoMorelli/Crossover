@@ -82,3 +82,4 @@
 - 09:20 · (T676) Enel huye al arca Maxim (canon, antes de tiempo). Nubes de tormenta sobre Skypiea.
 - 09:30 · (T678) Luffy vence a Enel con el Ougon Rifle en la cubierta del arca (canon, con variantes). El Raigo sigue cayendo.
 - 09:31 · (T679) Facundo se traga el Raigo con el Eclipse. Skypiea se salva. Aparece la campana de oro en la nube superior (canon: Luffy rompía el Raigo).
+- 09:35 · (T680) Luffy hace sonar la campana de oro de Shandora (canon). Los shandianos y Skypiea la oyen; en Jaya, Cricket, Masira y Shoujou también.

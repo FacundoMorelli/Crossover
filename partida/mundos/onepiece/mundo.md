@@ -12,3 +12,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T605 · Crocodile derrotado por Luffy en Rainbase el Día 20. La Operación Utopía cae. Testigos en la calle.
 - T611 · Arabasta salvada sin la batalla de Alubarna. Crocodile preso. Robin con los Sombrero de Paja. Llueve.
 - T679 · Enel vencido por Luffy; el Raigo, tragado por Facundo. Skypiea a salvo.
+- T680 · La campana de Shandora suena por primera vez en 400 años. Promesa a Cricket cumplida.

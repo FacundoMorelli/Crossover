@@ -17,3 +17,4 @@ ESTADO: enfermo
 - T638 · Facundo promete hacer sonar la campana. "Me voy a quedar despierto todas las noches, escuchando."
 - T642 · "¿Qué clase de fruta es esa?" (una vez). Muestra el cofre con el oro de Noland.
 - T644 · Los despide desde la playa: "¡Hagan sonar esa campana!"
+- T680 (desde lejos) · Oye la campana desde su playa en Jaya y llora a carcajadas.
