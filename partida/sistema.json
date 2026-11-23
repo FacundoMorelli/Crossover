@@ -1,13 +1,13 @@
 {
-  "turno": 487,
+  "turno": 488,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · dos días después de la luna llena",
-  "hora": "06:16",
+  "hora": "06:17",
   "edad": 18,
   "nivel": 26,
-  "exp": 199540,
+  "exp": 199640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173747,
+  "fragmentos": 173750,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1192,6 +1192,13 @@
       "turno": 485,
       "fragmentos": 75,
       "exp": 1500
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Asta (duelo, en serio de su parte): para las dos espadas con las manos y lo tumba con una palma contenida",
+      "turno": 488,
+      "fragmentos": 3,
+      "exp": 100
     }
   ],
   "viaje": {

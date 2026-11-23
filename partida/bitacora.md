@@ -486,3 +486,4 @@ T484 · Black Clover · Base, explanada · Para el Corte de la Luna Negra con un
 T485 · Black Clover · Base, explanada · Ataque 3 contenido (UI + Rayo + Sol). Yami cae. Luck reconoce su rayo.
 T486 · Black Clover · Base, explanada · Ayuda a Yami a levantarse. Yami lo reconoce como monstruo y se va al baño. Los Toros lo rodean.
 T487 · Black Clover · Base, explanada · Duelo con Asta, conteniéndose. Asta cae ocho veces y se levanta. Saca las dos espadas.
+T488 · Black Clover · Base, explanada · Para las dos espadas de Asta con las manos y lo tumba. Duelo ganado.
