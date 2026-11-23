@@ -14,3 +14,4 @@ ESTADO: activo
 - T560 · Conmovido. Plantea el Retumbar: "¿Qué garantía puede dar Paradis de que nunca va a despertarlos?"
 - T561 · Helado ante la oferta. "¿Puede demostrarlo? No a mí. Al mundo."
 - T562 · Propone reunir embajadores en un mes (fiesta Tybur). Pide que la reina de Paradis venga a firmar.
+- T563 · Le da la mano a Facundo; brindan con té. "¿Cómo lo encuentro si necesito hablar con usted antes?" RELACIÓN: aliado en el plan de paz.

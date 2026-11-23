@@ -112,3 +112,4 @@
 - Eren, Facundo · T560 · Por Willy: el mundo teme el Retumbar (titanes colosales dentro de las murallas, que el Fundador puede despertar).
 - Willy, Magath, Eren · T561 · Facundo ofrece destruir todos los titanes de las murallas para garantizar la paz.
 - Willy, Magath · T562 · Facundo dice que puede demostrarlo ante los embajadores.
+- Willy, Magath · T563 · Facundo promete que la reina Historia vendrá a firmar en persona.

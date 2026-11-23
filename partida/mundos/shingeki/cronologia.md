@@ -54,3 +54,4 @@
 - Día 9 15:40 · (T546) Patrulla de Muller revisa la calle del Reloj casa por casa (orden de Muller sin pasar por Magath).
 - Día 10 · (T557) Muller pone vigilancia de civil en la esquina de la calle del Reloj. 20:30: Brandt llega con el coche.
 - 21:12 día 10 · (T562) Plan acordado en principio: en un mes, reunión de embajadores en Liberio con excusa de la fiesta Tybur; demostración de la destrucción de los titanes de las murallas y firma de la paz. Magath frenará la flota en el gabinete. (Canon: la fiesta Tybur de 854 era para declarar la guerra a Paradis.)
+- 21:15 día 10 · (T563) Acuerdo: fiesta Tybur con embajadores en un mes (~día 40); demostración + firma de Historia en persona.

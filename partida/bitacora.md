@@ -561,3 +561,4 @@ T559 · Shingeki · Liberio, invernadero Tybur · Saluda a Willy Tybur. Willy pr
 T560 · Shingeki · Liberio, invernadero Tybur · Paradis quiere libertad y conocer el mundo. Willy pregunta por la garantía contra el Retumbar.
 T561 · Shingeki · Liberio, invernadero Tybur · Ofrece destruir los titanes de las murallas. Willy pide demostrarlo ante el mundo.
 T562 · Shingeki · Liberio, invernadero Tybur · Demostración ante embajadores en un mes. Willy pide que la reina venga a firmar.
+T563 · Shingeki · Liberio, invernadero Tybur · Promete que Historia vendrá a firmar. Apretón de manos con Willy.
