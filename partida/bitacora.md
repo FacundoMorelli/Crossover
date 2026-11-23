@@ -584,3 +584,4 @@ T582 · One Piece · Going Merry · Saluda a Vivi por su nombre. Luffy está en 
 T583 · One Piece · Nanohana · Aparece junto a Luffy corriendo. Ace frena a Smoker con fuego. Smoker lo reconoce. Misión de copia: Ace.
 T584 · One Piece · Nanohana · Se presenta a Ace. Ace agradece y frena a Smoker. "Váyanse."
 T585 · One Piece · Going Merry · Lleva a Luffy al barco. Zoro despierta. Sanji llega. Nami quiere zarpar; Luffy espera a Ace.
+T586 · One Piece · salida de la cala · Zarpan. Marina cierra la salida y dispara. Ace se acerca en el Striker.
