@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: cordial.
 ENCUENTROS:
 - T698 · Lee la carta de Kokoro; manda a Kaku a revisar el Merry.
 ESTADO: activo
+- T716 · Baleado por el CP9; lo dejan quemándose con Paulie.

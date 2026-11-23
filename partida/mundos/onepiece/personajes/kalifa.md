@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T698 · Dock 1.
 ESTADO: activa
+- T716 · CP9. Prende fuego al cuarto.

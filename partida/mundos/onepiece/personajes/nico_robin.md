@@ -50,3 +50,4 @@ ESTADO: activa
 - T709 · Acepta entregarse al Gobierno para que no toquen a la tripulación. Facundo la oye desde lejos.
 - T710 · "Prométeme que no van a venir." Le cuenta de Ohara.
 - T711 · "Están todos locos." Lo besa. Le deja el libro de Paradis: "Guárdamelo." "Si vienen, no se mueran." Se va.
+- T716 · Con el CP9 en el cuarto de Iceburg. Mira el fuego un segundo y se va.

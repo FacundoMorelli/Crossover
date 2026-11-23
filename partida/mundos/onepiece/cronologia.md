@@ -97,3 +97,4 @@
 - 13:37 · (T704) La familia Franky no logra robar el dinero (canon: robaban 200M). Tres huyen a avisarle a Franky.
 - 15:30 · (T708) La tripulación decide un último viaje con el Merry antes de cambiar de barco (canon: Luffy y Usopp se peleaban a duelo). Robin no vuelve (canon: CP9 la contactó).
 - 16:10-23:10 · (T715) Facundo y Usopp refuerzan el Merry (planchas de hierro, hielo de la Hie Hie, la Luna). El espíritu del Merry (Klabautermann) repara a su lado (canon: aparecía más tarde). 23:10: el CP9 ataca a Iceburg en la Galley-La (canon); Robin está con ellos.
+- 23:25 · (T716) El CP9 se revela ante Iceburg y Paulie; buscan los planos de Plutón (los tiene Franky). Prenden fuego y dejan a Iceburg y Paulie para que mueran; planean culpar a los Sombrero de Paja (canon).
