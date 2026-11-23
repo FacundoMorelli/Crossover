@@ -40,3 +40,4 @@
 - 14:50 · (T511) Erwin entrega el legajo a la reina Historia. Ella escribirá la carta del emisario.
 - Tarde/noche día 6 · (T514) Historia escribe la carta del emisario con Kase a su lado. Erwin informa a Zackly. En Trost, Pixis prepara ropa civil y provisiones.
 - 05:50 día 7 · (T514) Historia entrega a Facundo la carta sellada y un sobre "para Ymir".
+- 06:00 · (T515) Equipo del emisario reunido en Trost: Facundo, Eren, Mikasa, Levi, Zeke (encadenado a Levi).
