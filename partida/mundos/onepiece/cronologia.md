@@ -55,3 +55,4 @@
 - 15:31 · (T624) Facundo saca a los buzos con la Shio Shio. Mapa de Skypiea (canon).
 - Noche día 25 · (T626) Sombras gigantes en la niebla (canon).
 - Día 26 09:40 · (T626) Llegada a Jaya, Mock Town (canon cap. ~222).
+- 10:05 · (T627) Taberna de Mock Town: Bellamy contra Luffy (canon). Barbanegra en la barra, de incógnito.

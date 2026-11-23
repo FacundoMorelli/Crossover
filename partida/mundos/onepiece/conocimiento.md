@@ -85,3 +85,4 @@
 - Facundo, tripulación · T621 · Por Robin: la próxima isla es Jaya (Mock Town), isla de piratas.
 - Tripulación, Masira y sus hombres · T624 · Ven el mar moverse solo (columna y remolinos) mientras el ojo... (no hay brillo de ojos: es la fruta). La tripulación lo atribuye a "otra fruta" o a la misma fruta rara de Facundo.
 - Masira y sus hombres · T625 · Facundo dijo que el mar se movió por su fruta.
+- Piratas de la taberna, Bellamy, Barbanegra · T627 · Reconocen a "Ojos de Eclipse" (26M) y a Sombrero de Paja (30M) por los carteles.
