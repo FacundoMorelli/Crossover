@@ -18,3 +18,4 @@ DIÁLOGO T356: "¿Y tú quién demonios eres?"
 - T366 · Facundo le corta las cadenas con Rift: "Todo tuyo." Recupera sus espadas y enfrenta a Arlong.
 - T387 · Consigue la Sandai Kitetsu (prueba la maldición con el brazo) y la Yubashiri (regalo de Ipponmatsu).
 - T388 · Camina con Facundo. Le pregunta por las dos espadas de Arlong Park: "Algún día quiero verlas en serio."
+- T585 · Despierta en cubierta. "Volviste." Vuelve a cerrar un ojo.

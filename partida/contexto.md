@@ -1,17 +1,17 @@
-TURNO: 584 | MUNDO: One Piece | Día 20 (Grand Line) | HORA: 18:07 | Lugar: Nanohana, calle principal (Arabasta)
+TURNO: 585 | MUNDO: One Piece | Día 20 (Grand Line) | HORA: 18:08 | Lugar: Going Merry, cubierta, cala al norte de Nanohana
 MOMENTO DEL CANON: Arco de Arabasta, cap. ~155-158: llegada a Nanohana. Luffy en el pueblo comiendo; Ace y Smoker en Nanohana. Vivi con la tripulación; Baroque Works espera. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 199.640/215.000 · 173.727 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 72% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T585: agarra a Luffy y se teletransporta a la cubierta del Going Merry. Luffy: "¡Wooow! ¡Otra vez!" Zoro despierta, lo mira: "Volviste." Sanji llega corriendo por la playa con bolsas y ropa del desierto. Nami: hay que zarpar ya, la Marina viene. Luffy: "¡Esperen! ¡Ace viene!" Vivi mira el humo del pueblo.
 - T584: "Soy Facundo, compañero de Luffy; estuve de viaje un tiempo y desaparecí por eso." Ace se saca el sombrero y hace una reverencia: "Portgas D. Ace, hermano mayor de este. Gracias por cuidarlo." Smoker atraviesa el fuego con humo; Ace lo frena con el brazo en llamas (fuego contra humo, empate). Ace: "¡Váyanse! Yo me encargo. Luffy, te alcanzo en el barco."
 - T583: se teletransporta al lado de Luffy, que corre por la calle principal con la boca llena y marines detrás. Luffy: "¡FACUNDO! ¡Volviste!" sin dejar de correr. Detrás, una pared de fuego corta la calle: Ace frena a Smoker (canon). Smoker, entre el humo, ve a Facundo: "¡Ojos de Eclipse!" Ace se da vuelta y mira a Facundo con curiosidad. Misión de copia: Ace.
 - T582: "Sí, soy Facundo, y tú eres Miss Wednesday... bueno, la princesa Vivi mejor dicho. ¿Dónde está Luffy?" Vivi se sorprende ("¿Cómo...?"); Nami: "No preguntes, siempre sabe cosas." Luffy salió corriendo a Nanohana a buscar comida; Sanji de compras. Vivi: hay Marina en el puerto. En ese momento, desde Nanohana, una columna de fuego enorme sube al cielo.
 - T581: "Hola, chicos. ¿Cuánto tiempo pasó desde que me fui? Perdón por aparecer de la nada." Usopp: "¡FACUNDO!" Once días; cuenta exagerando Whisky Peak, los gigantes de Little Garden, Drum, y presenta a Chopper ("nuestro médico, un reno que habla"). Chopper se asoma, desconfiado. Baja Nami: le pega en la cabeza por irse sin avisar y lo abraza. Detrás, Vivi: "Tú eres... Ojos de Eclipse."
 - T580: quita la oscuridad, se despide en Mitras (Hange: fotos; Ymir: "no tardes, lindo") y abre una puerta a One Piece. Sale en la bodega del Going Merry, Día 20 18:00, cala al norte de Nanohana. Chopper, que buscaba vendas, lo ve salir de la luz con el gato y grita. Usopp baja corriendo con el martillo.
-- T579: a un palmo de Ymir (Shingeki).
-PRESENTES EN ESCENA: Luffy (corriendo al lado), Ace (pared de fuego), Smoker (al otro lado del fuego, con marines). Kase en el hombro. (Tripulación en el Going Merry.)
+PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji (llegando), Chopper, Vivi, Carue (cubierta del Going Merry). Kase en el hombro. (Ace frenando a Smoker en Nanohana.)
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

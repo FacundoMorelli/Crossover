@@ -53,3 +53,4 @@
 - Smoker, marines · T583 · Ven a "Ojos de Eclipse" (26M) junto a Luffy en Nanohana. Smoker lo informará.
 - Ace · T583 · Ve aparecer de la nada a un tipo de pelo blanco y azul con un gato junto a su hermano.
 - Ace · T584 · Facundo: compañero de Luffy, estuvo de viaje un tiempo.
+- Zoro, Sanji · T585 · Facundo volvió.
