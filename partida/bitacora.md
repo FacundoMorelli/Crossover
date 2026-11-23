@@ -449,3 +449,4 @@ T447 · Shingeki · Mitras · Dice que se va sin saber cuándo vuelve. Hange pid
 T448 · Shingeki · Mitras · Promete la imagen. Erwin: la pared ya no hace falta.
 T449 · Shingeki · Mitras · Se despide de Erwin, Levi, Hange y Moblit.
 T450 · Black Clover · Templo Submarino · Quita la pared de Shiganshina y se va. Nuevo mundo: Black Clover. Don: Grimorio del Firmamento. Misión: Kiato y Kahono.
+T451 · Black Clover · Templo · Entra a la sala de Gifso y Yami. Gifso no puede leerle la mente.

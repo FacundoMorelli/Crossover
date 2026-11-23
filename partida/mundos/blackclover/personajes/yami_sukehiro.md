@@ -8,3 +8,6 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T451 · ve entrar a Facundo; abre un ojo, lo mira con interés.
+TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.

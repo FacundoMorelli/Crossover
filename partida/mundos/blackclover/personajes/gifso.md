@@ -8,3 +8,5 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T451 · no puede leer la mente de Facundo; se emociona.
