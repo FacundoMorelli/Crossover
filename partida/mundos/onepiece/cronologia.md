@@ -38,3 +38,4 @@
 - 19:55 · (T595) Vivi se reencuentra con Koza en Katorea (canon: solo en Alubarna, al final). Koza duda y pide pruebas.
 - 19:56 · (T596) Facundo roba documentos del despacho de Crocodile en Rain Dinners sin ser visto y se los entrega a Koza en Katorea. CAMBIO ENORME: los rebeldes tienen pruebas de la Operación Utopía.
 - 20:10 · (T597) Koza detiene el ataque rebelde sobre Alubarna. CAMBIO ENORME: la batalla de Alubarna no ocurre (por ahora).
+- 20:13 · (T598) Facundo y Luffy aparecen en el salón VIP de Crocodile en Rain Dinners.

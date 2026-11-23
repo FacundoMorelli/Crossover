@@ -596,3 +596,4 @@ T594 · One Piece · Katorea · Despedida de Ace. Teletransporte a Katorea. Los 
 T595 · One Piece · Katorea · Vivi habla con Koza. Koza pide pruebas y desconfía de los piratas.
 T596 · One Piece · Katorea ↔ Rainbase · Roba los planes de Crocodile en 18 segundos y se los da a Koza.
 T597 · One Piece · Katorea · Koza lee la Operación Utopía y detiene el ataque. Luffy quiere ir por Crocodile.
+T598 · One Piece · Rain Dinners · Llega con Luffy al salón de Crocodile. Crocodile los reconoce.

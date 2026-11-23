@@ -64,3 +64,4 @@
 - Koza, lugartenientes, rebeldes cercanos, Vivi, Luffy, Sanji, Zoro · T596 · Facundo desaparece y vuelve a los 18 segundos con documentos de Baroque Works: Operación Utopía con el emblema de Crocodile, registro del Polvo de Baile, lista de agentes, plano de Alubarna. Dice que los trajo de la base de Crocodile.
 - Crocodile, Miss All Sunday · T596 · No vieron nada (todavía no saben que faltan los papeles).
 - Koza, lugartenientes · T597 · Facundo dijo que sacó los documentos de la base de Crocodile en Rainbase. Contenido completo de la Operación Utopía.
+- Crocodile, Miss All Sunday · T598 · Reconocen a Luffy y a "Ojos de Eclipse" (cartel 26M; informe de Miss Wednesday en Whisky Peak). Ven que aparecen de la nada.
