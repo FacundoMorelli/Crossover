@@ -537,3 +537,4 @@ T535 · Shingeki · Liberio, centro de investigación · En la celda de Ymir. Ym
 T536 · Shingeki · Mitras, aposentos de la reina · Saca a Ymir de la celda y la lleva con Historia.
 T537 · Shingeki · Mitras, aposentos de la reina · Reencuentro de Historia e Ymir. Historia agradece y pide sacarle los grilletes.
 T538 · Shingeki · Mitras, aposentos de la reina · Rompe los grilletes con la mano; da comida y agua a Ymir. Ymir pregunta quién es.
+T539 · Shingeki · Mitras → Liberio · Se presenta a Ymir y se va sin esperar respuesta. Vuelve con Levi.
