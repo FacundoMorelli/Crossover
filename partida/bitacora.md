@@ -588,3 +588,4 @@ T586 · One Piece · salida de la cala · Zarpan. Marina cierra la salida y disp
 T587 · One Piece · mar · Devuelve la bala con la Luna; el barco de la Marina queda dañado. Ace sube a bordo.
 T588 · One Piece · mar · Vivi le explica Arabasta, Baroque Works y Crocodile. Luffy quiere ir por Crocodile.
 T589 · One Piece · mar · Ofrece llevarlos volando. Vivi pide ir a Yuba esta noche.
+T590 · One Piece · mar · Vivi muestra en el mapa: Erumalu, río Sandora, Yuba al sudeste.
