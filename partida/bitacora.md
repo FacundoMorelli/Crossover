@@ -705,3 +705,4 @@ T703 · One Piece · callejón · Amenaza a la familia Franky. Cargan todos cont
 T704 · One Piece · callejón · Ultra Instinto sin atacar: la familia Franky se noquea sola. Tres huyen a avisarle a Franky.
 T705 · One Piece · callejón · Semilla a Usopp. Usopp llora por el Merry y le pregunta si hay que abandonarlo.
 T706 · One Piece · callejón · Usopp le pregunta si él puede arreglar el Merry.
+T707 · One Piece · callejón · Promete arreglar el Merry para un último viaje. Usopp acepta.

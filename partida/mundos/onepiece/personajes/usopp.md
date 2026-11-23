@@ -17,3 +17,4 @@ QUÉ SABE DE FACUNDO (T352): lo vio en persona (pelo, tatuajes, gato). Cree que 
 - T581 · "¡FACUNDO!" Le cuenta los once días exagerando. Presenta a Chopper.
 - T705 · Curado con una semilla. Llora por el Merry. "¿Tú también piensas que hay que abandonarlo?"
 - T706 · "Tú haces cosas imposibles. ¿No hay alguna forma de que tú lo arregles?"
+- T707 · Acepta el plan del último viaje. Abraza a Facundo. "Que se despida en el mar."
