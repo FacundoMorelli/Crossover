@@ -15,3 +15,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T491 · En el pasillo del palacio: "Tch. Un día y medio. Dijiste semanas."
 - T495 · En contra del trato: "La última vez que esos dos estuvieron cerca, uno de ellos tiraba piedras."
 - T506 · Sobre Zeke de guía: "Ni muerto."
+- T507 · Acepta ir al continente pegado a Zeke. "Tch. Alguien tiene que limpiar lo que dejen."
