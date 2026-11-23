@@ -23,3 +23,4 @@
 - Todos en la puerta, Yami · T480 · Ven a Facundo esquivar un minuto sin ser tocado y mandar a Luck a 20 m con una palma, sin magia visible.
 - Todos en la puerta, Yami · T481 · Ven que Luck le pega en la cara y Facundo ni se mueve; después lo tumba con un golpe que no ven.
 - Yami · T483 · Con el Ki nota que Facundo se contiene (la intención, no el poder: Velo). Luck, Asta, Noelle ven el inicio del duelo.
+- Yami, Luck, Asta, Noelle, Magna · T484 · Ven a Facundo detener el Corte de la Luna Negra con una mano desnuda.
