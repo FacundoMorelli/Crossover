@@ -509,3 +509,4 @@ T507 · Shingeki · Trost, sala del fondo · Equipo al continente: Facundo, Eren
 T508 · Shingeki · Trost, sala del fondo · Mikasa se suma. Erwin pregunta cuándo y cómo cruzan.
 T509 · Shingeki · Trost, sala del fondo · "Vamos volando." Zeke sugiere costa al sur de Liberio. Erwin pregunta cuándo.
 T510 · Shingeki · Trost · Salida mañana temprano con la carta. Erwin pide que lo lleve a Mitras.
+T511 · Shingeki · Mitras, despacho de la reina · Lleva a Erwin con Historia. Historia escribirá la carta. Pregunta por Ymir.

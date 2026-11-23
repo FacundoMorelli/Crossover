@@ -8,3 +8,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: el informe de Erwin (Shiganshina, la pared, la teletransportación, los cuatro prisioneros, el mar).
 ESTADO: activo
 - T445 · "Te creo." Le ofrece lo que necesite.
+- T511 · Facundo y Erwin aparecen en su despacho. Escribirá la carta ella misma. Pregunta a Facundo por Ymir.

@@ -59,3 +59,5 @@
 - Erwin, Hange, Moblit, Levi, Eren, Mikasa, Pixis · T505 · Todo el legajo de Zeke, incluido el plazo de la flota (~3 meses).
 - Todos en la sala · T509 · Facundo dice que cruzarán el mar volando.
 - Facundo · T509 · Por Zeke: costa sin vigilancia al sur del puerto de Liberio.
+- Historia · T511 · Por Erwin: legajo de Zeke, plan del emisario (Facundo, Eren, Zeke, Levi, Mikasa; volando, mañana).
+- Historia, guardias del despacho · T511 · Ven a Facundo y Erwin aparecer de la nada en el despacho.
