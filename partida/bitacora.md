@@ -599,3 +599,4 @@ T597 · One Piece · Katorea · Koza lee la Operación Utopía y detiene el ataq
 T598 · One Piece · Rain Dinners · Llega con Luffy al salón de Crocodile. Crocodile los reconoce.
 T599 · One Piece · Rain Dinners · Le dice a Luffy lo del agua. Luffy golpea a Crocodile con los puños mojados. Misión de copia: Crocodile.
 T600 · One Piece · Rain Dinners · Luffy pelea con Crocodile en la terraza. Facundo se acerca a Robin. Misión de copia: Robin.
+T601 · One Piece · Rain Dinners · Coquetea y le dice a Robin que no parece aliada de Crocodile. Robin: "socia". Pregunta qué le ofrecería.
