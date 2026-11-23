@@ -571,3 +571,4 @@ T569 · Shingeki · Trost · Muestra fotos de Liberio. Pixis: que las vean Erwin
 T570 · Shingeki · Mitras, sala del consejo · Consejo de medianoche. Historia irá. Zackly pide ver destruir un tramo de muralla.
 T571 · Shingeki · Mitras, sala del consejo · Acepta. Zackly: Wall Maria, 1 km al oeste de Shiganshina, mediodía.
 T572 · Shingeki · Mitras · Bromea con Ymir. Ymir: "Ni en tus sueños, lindo."
+T573 · Shingeki · Wall Maria · Simula hasta el mediodía. Sobre la muralla con los testigos. Zackly marca el tramo.
