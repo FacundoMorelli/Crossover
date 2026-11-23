@@ -10,3 +10,4 @@
 - c74: reporte a Julius; invasión del Diamante a Kiten.
 ## PUNTOS DE QUIEBRE
 - La pierna de Kiato y la voz de Kahono. Los brazos de Asta. La muerte de Vetto.
+- 21:50 · (T453) Irrumpen Vetto, Abari, Zarick y Zuta (canon c62-63). Vetto aplasta a Gio. Abari encierra a Yami y Gifso. Facundo queda afuera de la esfera.
