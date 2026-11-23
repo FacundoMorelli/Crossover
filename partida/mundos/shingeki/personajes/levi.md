@@ -13,3 +13,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado (de lejos).
 - T406 · Su espada se mella contra el cuello de Facundo sin cortar. "Tch."
 - T491 · En el pasillo del palacio: "Tch. Un día y medio. Dijiste semanas."
+- T495 · En contra del trato: "La última vez que esos dos estuvieron cerca, uno de ellos tiraba piedras."

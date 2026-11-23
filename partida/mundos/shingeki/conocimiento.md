@@ -44,3 +44,4 @@
 - Facundo · T493 · Sabe por Zeke: flota de Marley en ~3 meses.
 - Facundo · T494 · Por Zeke: Liberio (puerto y zona de internamiento eldiana en Marley); la flota la decide el general Magath con el alto mando; Pieck sabe más de lo que muestra; Reiner está "roto".
 - Zeke · T494 · Facundo acepta llevarlo mañana con Eren.
+- Erwin, Levi, Hange, Moblit, Pixis · T495 · Facundo les cuenta el trato con Zeke: información de Marley a cambio de hablar con Eren, con Facundo presente, mañana.
