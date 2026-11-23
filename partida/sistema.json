@@ -1,13 +1,13 @@
 {
-  "turno": 552,
+  "turno": 553,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 10 tras Shiganshina",
-  "hora": "07:30",
+  "hora": "07:38",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173729,
+  "fragmentos": 173727,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -372,6 +372,11 @@
     {
       "objeto": "Documentos de ciudadano marleyano",
       "detalle": "Libreta de identidad con sello del Estado: 'Facundo Morelli, ciudadano marleyano, nacido en la colonia de Hizuru Sur... (de las colonias del sur)'. Comprados T548.",
+      "mundo": "shingeki"
+    },
+    {
+      "objeto": "Traje de burócrata marleyano",
+      "detalle": "Traje gris oscuro de tres piezas, camisa blanca, corbata gris, zapatos negros, reloj de bolsillo. Comprado T553 (2 Fragmentos). Puesto.",
       "mundo": "shingeki"
     }
   ],

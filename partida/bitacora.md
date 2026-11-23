@@ -551,3 +551,4 @@ T549 · Shingeki · Liberio, calle del Reloj · Roba la hoja de patrulla del sar
 T550 · Shingeki · Liberio, casa segura · Lee la hoja a Levi y la quema con el Sol.
 T551 · Shingeki · Liberio, despacho de Magath · Avisa de Muller. Magath propone presentarlo como su asesor mañana a las 8 ante Muller.
 T552 · Shingeki · Liberio, casa segura · Simula hasta la mañana del día 10. Zeke da consejos de burócrata. Levi: "Pareces un sicario."
+T553 · Shingeki · Liberio, casa segura · Se pone traje de burócrata marleyano.
