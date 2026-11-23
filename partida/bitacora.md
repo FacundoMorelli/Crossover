@@ -473,3 +473,4 @@ T471 · Black Clover · Templo · El cocinero está muy lejos. Charmy pide prome
 T472 · Black Clover · Templo · Promesa del meñique con Charmy. Copia: Anti-Magia (Asta). Fiesta. Asta quiere entrenar.
 T473 · Black Clover · Capital · Fiesta, entrenamiento con Asta, reporte a Julius. Invasión del Diamante en Kiten. Yami pregunta si va.
 T474 · Black Clover · Kiten · Llegan a la batalla de Kiten. Soldados del Diamante cargan.
+T475 · Black Clover · Kiten · Yami: que pelee si quiere, pero que deje a los mocosos superarse.
