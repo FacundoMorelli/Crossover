@@ -1,14 +1,13 @@
-TURNO: 684 | MUNDO: One Piece | Día 30 (Grand Line) | HORA: 12:40 | Lugar: Going Merry, mar azul
-MOMENTO DEL CANON: Después de Skypiea (cap. ~302): de vuelta al mar azul. Próximo: Long Ring Long Land (Foxy). Ver mundos/onepiece/cronologia.md.
+TURNO: 685 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 10:30 | Lugar: Long Ring Long Land, pradera
+MOMENTO DEL CANON: Long Ring Long Land (cap. ~303-305): Foxy y la Davy Back Fight. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 206.640/215.000 · 133.687 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T685: navegan. Día 31: llegan a una isla larguísima y chata, con pastos y animales de patas largas. Un viejo en zancos de diez metros (Tonjit) lleva diez años arriba esperando que baje la marea. De pronto, un barco pirata con cara de zorro ancla al lado del Merry. Bajan cien piratas; al frente, un hombre de cabeza enorme y partida (Foxy): "¡Fe fe fe! ¡Sombrero de Paja! ¡Te desafío a la Davy Back Fight! ¡Tres juegos! ¡El que gana se queda con un tripulante del otro!"
 - T684: "Gracias, Gan Fall." Cargan el oro. Despedida: Conis y Pagaya, Wyper (que le hace una reverencia a Luffy), Gan Fall y Pierre, Nola asomada entre las nubes. Un pulpo globo gigante envuelve el Merry y baja despacio por las nubes. Mediodía: tocan el mar azul. Luffy: "¡Volvimos!" Nami cuenta el oro: cien millones de berries, por lo menos. El Log Pose se cargó: apunta al noroeste, hacia una isla larga y extraña.
-- T683: simula. Dos noches de fiesta en Shandora: shandianos, gente de la Isla del Ángel, Boinas Blancas, Gan Fall, lobos, Nola. Comida, danzas, tambores. Conis le regala diales a Usopp; Pagaya, a Nami. Wyper se emborracha y llora abrazado a Zoro. Robin pasa horas con Gan Fall y el Poneglyph; la segunda noche se sienta con Facundo junto al fuego y se duerme otra vez en su hombro. Día 30, amanecer: la fiesta se apaga. Nami despierta a todos en silencio: "Cargamos el oro y nos vamos antes de que nos lo pidan de vuelta." Gan Fall, que la escuchó, se ríe: les regala el oro igual, y un pulpo-globo para bajar al mar azul.
-- T682: "Así es: mi capitán. Y ya no hay dios." Silencio; después los shandianos gritan y lloran. Wyper se acerca a Luffy y le da la mano. Gan Fall se arrodilla ante los shandianos y pide perdón por cuatrocientos años; propone que el Upper Yard sea de todos. Wyper, después de un rato, le da la mano también. Arriba, el arca Maxim se aleja hacia el cielo: Enel despertó y huye hacia la Tierra Infinita. Luffy: "¡¡¡FIESTA!!!"
-PRESENTES EN ESCENA: toda la tripulación en el Going Merry (mar azul). Kase en el hombro.
+PRESENTES EN ESCENA: tripulación, Tonjit en sus zancos; Foxy, Porche, Hamburg y ~100 piratas de Foxy. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

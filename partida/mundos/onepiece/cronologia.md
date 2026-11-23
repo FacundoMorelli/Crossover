@@ -86,3 +86,4 @@
 - 09:45 · (T682) Gan Fall pide perdón a los shandianos y propone compartir el Upper Yard; Wyper acepta (canon). Enel huye en el arca hacia Fairy Vearth (canon).
 - Días 28-30 · (T683) Fiesta en Shandora (canon). Día 30, amanecer: Gan Fall regala oro y un pulpo-globo para bajar al mar azul.
 - Día 30 07:00-12:40 · (T684) Despedida de Skypiea; bajan al mar azul en un pulpo globo con el oro (canon). El Log Pose apunta a la siguiente isla (Long Ring Long Land).
+- Día 31 10:30 · (T685) Long Ring Long Land: Tonjit; Foxy desafía a Luffy a la Davy Back Fight (canon).
