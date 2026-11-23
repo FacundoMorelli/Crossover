@@ -508,3 +508,4 @@ T506 · Shingeki · Trost, sala del fondo · Acepta ser emisario. Zeke se ofrece
 T507 · Shingeki · Trost, sala del fondo · Equipo al continente: Facundo, Eren, Zeke, Levi. Mikasa pide ir.
 T508 · Shingeki · Trost, sala del fondo · Mikasa se suma. Erwin pregunta cuándo y cómo cruzan.
 T509 · Shingeki · Trost, sala del fondo · "Vamos volando." Zeke sugiere costa al sur de Liberio. Erwin pregunta cuándo.
+T510 · Shingeki · Trost · Salida mañana temprano con la carta. Erwin pide que lo lleve a Mitras.

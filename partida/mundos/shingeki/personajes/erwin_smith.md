@@ -23,3 +23,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T506 · Facundo acepta. Erwin: carta de la reina, sello, y un guía.
 - T507 · Aprueba el equipo. Irá por la carta de Historia.
 - T508 · Carta mañana temprano. "¿Cuándo salen? ¿Y cómo piensas cruzar el mar?"
+- T510 · De acuerdo con salir mañana. Pide que Facundo lo lleve a Mitras ahora.

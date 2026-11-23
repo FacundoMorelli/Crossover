@@ -36,3 +36,4 @@
 - 07:20-07:41 · (T502) Conversación Zeke-Eren (canon: se daba en otro contexto, años después). Eren a punto de tocar a Zeke (contacto sangre real + Fundador).
 - 07:50-14:30 · (T505) Zeke dicta a Hange y Moblit el "legajo Marley": Liberio, puertos, rutas, guerra con la Alianza del Medio Oriente, armas antititanes, Porco Galliard (Mandíbula), candidatos a guerrero (Gabi, Falco, Colt, Udo, Zofia), alto mando (Magath y otros), sobornables, plazo de la flota (~3 meses). Se reserva "una cosa para después".
 - 14:38 · (T506) Facundo acepta ir al continente como emisario de Paradis.
+- 14:45 · (T510) Se fija la salida al continente: día 7, temprano. Equipo: Facundo, Eren, Zeke, Levi, Mikasa.
