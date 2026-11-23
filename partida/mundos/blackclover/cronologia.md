@@ -14,3 +14,4 @@
 - 22:01 · (T464) Facundo derriba a Vetto. Kiato conserva la pierna, Kahono la voz, Asta los brazos.
 - 22:05 · (T465) Yami mata a Vetto. Nero trae la piedra mágica. Kahono cura a los heridos.
 - Noche/mañana · (T473) Fiesta en el templo. Entrenamiento de Asta con Facundo. Suben a la superficie. Reporte a Julius (canon c74, sin brazos rotos de Asta). Marx: el Diamante invade Kiten (canon c74-75).
+- 16:05 · (T474) Yami, Asta, Charmy, Finral y Facundo llegan a Kiten (canon c75-76).
