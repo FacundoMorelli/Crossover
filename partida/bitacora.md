@@ -630,3 +630,4 @@ T628 · One Piece · Mock Town, taberna · Bellamy golpea a Luffy y Zoro; no pel
 T629 · One Piece · Mock Town, taberna · Pregunta quién es al de la barba negra. No da su nombre. Se va.
 T630 · One Piece · Mock Town · Compra 100 semillas del ermitaño; cura a Luffy y Zoro. Robin: Montblanc Cricket.
 T631 · One Piece · Going Merry · Relaciona Montblanc con Noland. Sanji cuenta el cuento. Luffy quiere ir.
+T632 · One Piece · Jaya, casa de Cricket · Llegan. Cricket emerge del mar, los ataca y se desploma por la enfermedad del buzo.
