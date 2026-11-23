@@ -8,3 +8,5 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+ENCUENTROS:
+- T461 · duelo con Kahono interrumpido; pregunta por Asta.
