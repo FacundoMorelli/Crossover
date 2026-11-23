@@ -1,6 +1,6 @@
 NOMBRE: Charmy Pappitson
 AFILIACIÓN: Toros Negros
-EDAD EN ESTE MOMENTO DEL CANON: 15
+EDAD EN ESTE MOMENTO DEL CANON: 19 (aspecto infantil: nunca opción romántica)
 FÍSICO: chiquita, rubia, pelo esponjoso.
 PERSONALIDAD: obsesionada con la comida; Magia de Algodón.
 ENCUENTROS:

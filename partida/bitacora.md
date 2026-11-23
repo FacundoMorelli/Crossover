@@ -468,3 +468,4 @@ T466 · Black Clover · Templo · Kahono canta para Facundo. Yami le ofrece entr
 T467 · Black Clover · Templo · Entra a los Toros Negros. Avisa que se va a veces.
 T468 · Black Clover · Templo · Dice su nombre. Bienvenido a los Toros Negros. Fiesta; Vanessa lo invita a brindar.
 T469 · Black Clover · Templo · Brinda con Vanessa. Le da la comida de Sanji a Charmy; ella quiere conocer al cocinero.
+T470 · Black Clover · Templo · Le dice a Charmy que nunca conocerá al cocinero. Charmy pregunta por qué.

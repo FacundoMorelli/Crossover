@@ -15,3 +15,4 @@
 - Todos en el salón oeste · T464 · Vieron a Facundo con un aura plateada (Ultra Instinto) atrapar la garra de Vetto y mandarlo a través de tres paredes de un golpe.
 - Toros Negros, Gifso, Gio, Kahono, Kiato · T468 · Saben su nombre: Facundo. Es nuevo miembro de los Toros Negros.
 - Charmy, Vanessa y los cercanos · T469 · Probaron/vieron comida que Facundo sacó del sobretodo, hecha "por un cocinero" que no conocen.
+- Charmy y cercanos · T470 · El cocinero no está casado y Charmy "nunca va a poder conocerlo" (dicho por Facundo).
