@@ -74,3 +74,4 @@
 - Facundo, Eren, Mikasa, Levi, Zeke · T523 · Por Magath: la familia Tybur mueve los hilos detrás del Estado de Marley.
 - Magath, Brandt · T524 · Condición de Paradis: los guerreros vuelven cuando se firme la paz y el mundo deje de querer matar a los de Paradis.
 - Facundo y equipo · T524 · Por Magath: Willy Tybur es la cabeza de la familia Tybur.
+- Magath, Brandt, equipo · T525 · Facundo saca del abrigo una piedra de hielo en bruto, del tamaño de un puño. Magath la cree de Paradis.

@@ -1,13 +1,13 @@
 {
-  "turno": 524,
+  "turno": 525,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 7 tras Shiganshina",
-  "hora": "13:19",
+  "hora": "13:21",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173748,
+  "fragmentos": 173743,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -362,6 +362,11 @@
     {
       "objeto": "Bolsa de pescado seco",
       "detalle": "De Pixis, para Kase (T515).",
+      "mundo": "shingeki"
+    },
+    {
+      "objeto": "(entregada) Piedra de hielo en bruto",
+      "detalle": "Comprada en la tienda en T525 por 5 Fragmentos y entregada a Magath como muestra.",
       "mundo": "shingeki"
     }
   ],
@@ -1397,7 +1402,8 @@
       "Celular local con línea": 5,
       "Gorra negra lisa": 1,
       "Bolsa grande de golosinas variadas": 2,
-      "Cámara de fotos y video": 15
+      "Cámara de fotos y video": 15,
+      "Piedra de hielo en bruto (Shingeki, del tamaño de un puño)": "5 Fragmentos (fijado T525)"
     },
     "stock_rotativo": {
       "Piedra de maná pequeña (recarga energía 10%)": 3,

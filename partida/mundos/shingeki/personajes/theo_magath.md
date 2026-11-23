@@ -15,3 +15,4 @@ ESTADO: activo
 - T522 · "La paz y la libertad no se piden. Se pagan." Pregunta si Braun, Hoover y Finger viven y qué ofrece Paradis.
 - T523 · Interesado: "Con eso se gana la guerra del Medio Oriente." Menciona a los Tybur. Pregunta si devolverían a los cuatro guerreros.
 - T524 · Propone reunión secreta con Willy Tybur en tres días. Ofrece casa segura; pide muestra de piedra de hielo.
+- T525 · Recibe la piedra de hielo. "Con esto, Tybur me escucha." La guarda bajo llave. "¿Cuánta hay de esto allá?"
