@@ -36,3 +36,4 @@ ESTADO: activa
 - T665 · Despierta en el hombro de Facundo; se endereza: "Buen día." Mejillas rojas.
 - T667 · Sobre la serpiente: "Lleva cuatrocientos años aquí. Es la guardiana de las ruinas."
 - T673 · Facundo se pone entre ella y el rayo de Enel.
+- T681 · "La escuché. Toda la isla la escuchó."

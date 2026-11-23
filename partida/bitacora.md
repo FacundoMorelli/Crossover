@@ -679,3 +679,4 @@ T677 · One Piece · arca Maxim · Se teletransporta con Luffy al arca. Enel anu
 T678 · One Piece · arca Maxim · Luffy vence a Enel con la bola de oro. El Raigo sigue cayendo.
 T679 · One Piece · arca Maxim · El Eclipse se traga el Raigo. Aparece la campana de oro arriba.
 T680 · One Piece · torre de la campana · Luffy hace sonar la campana de oro. Cricket la oye en Jaya.
+T681 · One Piece · Shandora · Vuelven con Robin. Se junta todo el mundo. Wyper pregunta si ellos tocaron la campana.
