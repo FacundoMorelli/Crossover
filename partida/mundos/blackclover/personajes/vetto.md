@@ -10,3 +10,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 ENCUENTROS:
 - T455 · tiene a Magna del cuello; ve a Yami libre y a Facundo: "¿Y tú quién eres?"
+ESTADO (T465): muerto (Yami).

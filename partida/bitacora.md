@@ -463,3 +463,4 @@ T461 · Black Clover · Templo · Lleva a Kiato con Kahono (salón del este). No
 T462 · Black Clover · Templo · Se presenta. Noelle corre al oeste. Kahono y Kiato van detrás, hacia Vetto.
 T463 · Black Clover · Templo · Salón oeste: Vetto con tercer ojo salta sobre Kahono y Kiato.
 T464 · Black Clover · Templo · Ultra Instinto Dominado: derriba a Vetto de un golpe. Kahono y Kiato intactos. MISIÓN DE MUNDO CUMPLIDA. NIVEL 26.
+T465 · Black Clover · Templo · Yami termina a Vetto. Nero trae la piedra. Kahono cura a todos y quiere cantarle a Facundo.

@@ -12,3 +12,4 @@
 - La pierna de Kiato y la voz de Kahono. Los brazos de Asta. La muerte de Vetto.
 - 21:50 · (T453) Irrumpen Vetto, Abari, Zarick y Zuta (canon c62-63). Vetto aplasta a Gio. Abari encierra a Yami y Gifso. Facundo queda afuera de la esfera.
 - 22:01 · (T464) Facundo derriba a Vetto. Kiato conserva la pierna, Kahono la voz, Asta los brazos.
+- 22:05 · (T465) Yami mata a Vetto. Nero trae la piedra mágica. Kahono cura a los heridos.
