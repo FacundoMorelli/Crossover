@@ -525,3 +525,4 @@ T523 · Shingeki · Liberio, despacho de Magath · Ofrece piedra de hielo y comb
 T524 · Shingeki · Liberio, despacho de Magath · Devolver guerreros con la paz firmada. Magath propone reunión con Willy Tybur en 3 días y pide muestra de piedra de hielo.
 T525 · Shingeki · Liberio, despacho de Magath · Compra y entrega una piedra de hielo. Magath pregunta cuánta hay.
 T526 · Shingeki · Liberio, despacho de Magath · Décadas de piedra de hielo. Magath guarda el secreto; Brandt los llevará a la casa segura.
+T527 · Shingeki · Liberio, casa segura · Brandt los lleva a la calle del Reloj 14. Eren quiere ir a la zona de internamiento esta noche.

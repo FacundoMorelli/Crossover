@@ -76,3 +76,4 @@
 - Facundo y equipo · T524 · Por Magath: Willy Tybur es la cabeza de la familia Tybur.
 - Magath, Brandt, equipo · T525 · Facundo saca del abrigo una piedra de hielo en bruto, del tamaño de un puño. Magath la cree de Paradis.
 - Magath, Brandt · T526 · Por Facundo: Paradis tiene los yacimientos más grandes del mundo, para décadas.
+- Eren, Mikasa, Levi · T527 · Ven Liberio: autos, tranvía, carteles contra los "demonios de la isla", eldianos con brazalete detrás de la cerca.
