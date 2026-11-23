@@ -1,16 +1,16 @@
-TURNO: 635 | MUNDO: One Piece | Día 26 (Grand Line) | HORA: 15:45 | Lugar: Jaya, costa este, casa de Cricket
+TURNO: 636 | MUNDO: One Piece | Día 26 (Grand Line) | HORA: 17:30 | Lugar: Jaya, costa este, casa de Cricket
 MOMENTO DEL CANON: Arco de Jaya (cap. ~222): llegada a Mock Town. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 202.640/215.000 · 133.707 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T636: "Yo me quedo; ustedes vayan a buscar al pájaro." Al atardecer, la tripulación entra a la selva en parejas (Luffy y Chopper; Zoro y Robin; Usopp y Sanji); Nami se queda con el Merry y con Masira y Shoujou, que empiezan a reforzarlo. Facundo se queda con Cricket. Cricket, sentado en la puerta de la casita con dos vasos y una botella: "Toma. Brindemos por un mentiroso que no mintió."
 - T635: "Cricket, siempre buceas buscando lo de Noland. ¿Y si siempre buscaste mal y la isla no se hundió? ¿Voló?" Silencio. Robin pone el mapa de Jaya al lado del de Skypiea: la costa cortada de Jaya y un borde de la isla del cielo encajan como dos mitades. Cricket se levanta tambaleando, mira los mapas, se le cae el cigarro. "...La Corriente Ascendente. Hace cuatrocientos años." Se le llenan los ojos: "Noland no mintió."
 - T634: "Porque ahora nos tienes que ayudar a subir a la isla del cielo." Cricket se ríe a carcajadas: "¡Idiotas! ¡Son tan idiotas como yo!" Explica: la Corriente Ascendente (Knock Up Stream), un chorro de mar que sube al cielo, mañana al mediodía, cerca de aquí; los barcos que la toman suelen deshacerse. Masira y Shoujou reforzarán el Merry esta noche. Falta saber dónde: hay que atrapar un pájaro del sur en la selva antes del amanecer; siempre mira al sur y marca la dirección.
 - T633: lleva a Cricket adentro con Chopper. Chopper lo trata; se estabiliza. Llegan en bote Masira ("¡Uki! ¡Los piratas que regalan barcos!") y Shoujou (enorme, con cara de orangután, voz que rompe vidrios: "¡Hooo!"), los amigos de Cricket; se calman al verlo atendido. Cricket despierta en la cama, mira el techo: "...¿Por qué me ayudaron? Les pegué una patada."
 - T632: van todos en el Merry rodeando la isla. Costa este: una casa que es solo la fachada de un castillo pintado, cartel "Montblanc Cricket". Nadie. Burbujas en el mar: emerge un hombre con traje de buzo, pelo en forma de castaña, cigarro mojado. Apunta: "¿Vinieron a buscar mi oro? ¡Lárguense!" Patea a Luffy, pelea un segundo... y se desploma en la arena, temblando: enfermedad del buzo. Chopper corre: "¡Necesito ponerlo a la sombra y acostado ya!"
-- T631: "Montblanc... ¿como Noland el mentiroso?" Sanji: "¡Es un cuento de North Blue! Lo leía de chico." Cuenta: el explorador Noland dijo que encontró una ciudad de oro en una isla; volvió con el rey y no había nada, solo selva; lo ejecutaron por mentiroso. Robin, con una ceja levantada: "Exacto. Y Cricket sería su descendiente." Luffy: "¡Vamos a verlo ya!"
-PRESENTES EN ESCENA: Cricket (en la cama), Chopper, toda la tripulación, Masira y Shoujou (casita de Cricket). Kase en el hombro.
+PRESENTES EN ESCENA: Cricket (en la puerta de su casa, con una botella). En la playa: Nami, Masira, Shoujou trabajando en el Merry. El resto, en la selva. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
