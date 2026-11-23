@@ -566,3 +566,4 @@ T564 · Shingeki · Liberio, invernadero Tybur · Cómo comunicarse: Magath prop
 T565 · Shingeki · Liberio, invernadero Tybur · Le da a Willy un botón de aviso. Fin de la reunión.
 T566 · Shingeki · Liberio, casa segura · Vuelven por Teletransportación. Eren cuenta la reunión. Levi: "¿Volvemos a la isla?"
 T567 · Shingeki · Liberio, casa segura · Propone llevar a las familias de los cambiantes. Zeke, Levi y Mikasa ponen reparos.
+T568 · Shingeki · Liberio → Trost · Vuelven a Paradis. Hange pregunta por las imágenes.

@@ -117,3 +117,4 @@
 - Levi, Mikasa, Zeke · T566 · Por Eren: toda la reunión con Willy (Retumbar, oferta de destruir los titanes de las murallas, fiesta en un mes, firma de Historia, botón de aviso).
 - Vigilante de Muller · T566 · Vio volver el coche de Brandt vacío a la zona militar; nadie volvió a la casa. Lo anota.
 - Facundo, Eren, Mikasa, Levi · T567 · Por Zeke: Reiner tiene a su madre (Karina Braun) en la zona; Bertholdt, a sus padres; Pieck, a su padre; Zeke no tiene familia viva.
+- Hange, Moblit, Pixis · T568 · Ven volver a los cinco de la nada.

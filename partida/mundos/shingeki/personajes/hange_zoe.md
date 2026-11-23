@@ -14,3 +14,4 @@ ESTADO: activo
 - T497 · No durmió (la foto). En el desayuno cuenta que Pieck pidió hablar con Facundo.
 - T505 · Escribe seis horas sin parar. Agotada y feliz.
 - T515 · Le da a Facundo un cuaderno nuevo "para anotar todo".
+- T568 · "¡¿Y las imágenes?!"
