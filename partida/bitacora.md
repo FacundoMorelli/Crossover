@@ -457,3 +457,4 @@ T455 · Black Clover · Templo · Llegan con Yami a Vetto. Yami lo quiere para �
 T456 · Black Clover · Templo · Se teletransporta entre Zarick/Zuta y Gauche, Grey, Charmy.
 T457 · Black Clover · Templo · Flechas Quincy: Zarick y Zuta caen. 14 misiones de copia pendientes emitidas.
 T458 · Black Clover · Templo · Se teletransporta al duelo de Asta y Kiato.
+T459 · Black Clover · Templo · Avisa del Ojo del Sol de Medianoche. Asta y Kiato dejan el duelo.
