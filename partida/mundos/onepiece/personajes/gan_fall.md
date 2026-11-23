@@ -12,3 +12,4 @@ ESTADO: activo
 - T648 · Advierte del dios nuevo. Se va.
 - T660 · Llega al altar: "Satori cayó. El dios ya sabe que están aquí."
 - T661 · Cuenta la historia de Enel y los shandianos.
+- T684 · Los despide. "Nunca vamos a olvidar a los piratas del Sombrero de Paja."

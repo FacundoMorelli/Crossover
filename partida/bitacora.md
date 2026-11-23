@@ -682,3 +682,4 @@ T680 · One Piece · torre de la campana · Luffy hace sonar la campana de oro. 
 T681 · One Piece · Shandora · Vuelven con Robin. Se junta todo el mundo. Wyper pregunta si ellos tocaron la campana.
 T682 · One Piece · Shandora · Paz entre shandianos y Skypiea. Enel huye en el arca. Luffy: fiesta.
 T683 · One Piece · Shandora · Simula: dos noches de fiesta. Día 30: Gan Fall les regala el oro y un pulpo-globo para bajar.
+T684 · One Piece · mar azul · Despedida de Skypiea. Bajan en el pulpo globo con el oro.

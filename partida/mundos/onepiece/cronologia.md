@@ -85,3 +85,4 @@
 - 09:35 · (T680) Luffy hace sonar la campana de oro de Shandora (canon). Los shandianos y Skypiea la oyen; en Jaya, Cricket, Masira y Shoujou también.
 - 09:45 · (T682) Gan Fall pide perdón a los shandianos y propone compartir el Upper Yard; Wyper acepta (canon). Enel huye en el arca hacia Fairy Vearth (canon).
 - Días 28-30 · (T683) Fiesta en Shandora (canon). Día 30, amanecer: Gan Fall regala oro y un pulpo-globo para bajar al mar azul.
+- Día 30 07:00-12:40 · (T684) Despedida de Skypiea; bajan al mar azul en un pulpo globo con el oro (canon). El Log Pose apunta a la siguiente isla (Long Ring Long Land).
