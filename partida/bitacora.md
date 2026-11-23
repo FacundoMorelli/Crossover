@@ -645,3 +645,4 @@ T643 · One Piece · playa de Cricket · Simula: Merry Modelo Volador; vuelven c
 T644 · One Piece · mar · Zarpan. Remolino gigante. Barbanegra a lo lejos. La Corriente está por estallar.
 T645 · One Piece · Corriente Ascendente · Flecha de advertencia a Barbanegra. Estalla la Corriente; el Merry sube.
 T646 · One Piece · Mar Blanco · Sujeta el Merry con la Luna. Llegan al mar de nubes. Un enmascarado los ataca con una bazuca.
+T647 · One Piece · Mar Blanco · Hunde el disparo en las nubes. El enmascarado se va. Llega Gan Fall.

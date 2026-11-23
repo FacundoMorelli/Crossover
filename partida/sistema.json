@@ -1,8 +1,8 @@
 {
-  "turno": 646,
+  "turno": 647,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 27 (Grand Line, Jaya)",
-  "hora": "12:20",
+  "hora": "12:22",
   "edad": 18,
   "nivel": 26,
   "exp": 203140,
@@ -404,6 +404,11 @@
       "cantidad": 98,
       "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro.",
       "mundo": "tienda"
+    },
+    {
+      "objeto": "Silbato de Gan Fall",
+      "detalle": "Si lo tocan en el Mar Blanco, viene el Caballero del Cielo (T647). Lo tiene Nami.",
+      "mundo": "onepiece"
     }
   ],
   "copias": [
