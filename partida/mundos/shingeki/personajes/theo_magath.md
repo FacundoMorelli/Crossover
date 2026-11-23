@@ -5,7 +5,7 @@ PODER VISTO POR FACUNDO: ninguno (soldado, sin titán)
 EDAD EN ESTE MOMENTO DEL CANON: cincuenta y pico
 FÍSICO: alto, canoso, bigote y patillas, cara dura, uniforme impecable.
 PERSONALIDAD Y FORMA DE HABLAR: seco, pragmático, disciplinado; escucha antes de disparar (según Zeke).
-RELACIÓN CON FACUNDO: acaba de verlo aparecer en su despacho.
+RELACIÓN CON FACUNDO: desconfianza respetuosa; valora su honestidad.
 ENCUENTROS:
 - T520 · Liberio, su despacho. Facundo aparece con Eren, Mikasa, Levi y Zeke. Le apunta con la pistola. "¿Jaeger?"
 QUÉ SABE DE FACUNDO: nada.
@@ -19,3 +19,4 @@ ESTADO: activo
 - T526 · "Es la mejor carta y la más peligrosa." Secreto entre él, Brandt y Tybur. Brandt los lleva a la casa segura. "La próxima vez, golpee la puerta."
 - T542 · Convocado a las 3 por la desaparición de Ymir. Reunido con oficiales hasta las 6:20. Solo e inquieto a las 6:25.
 - T543 · Facundo golpea la puerta. "Por lo menos esta vez golpeó." "Supongo que viene a contarme algo de una celda vacía en el puerto norte."
+- T544 · "Me lo dijo antes de que lo adivinara. Eso vale." Encubre. La reunión sigue. "¿Hay algo más que vaya a desaparecer antes de la reunión?"

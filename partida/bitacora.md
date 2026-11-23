@@ -542,3 +542,4 @@ T540 · Shingeki · Liberio, casa segura · Cuenta que Ymir está a salvo. Zeke 
 T541 · Shingeki · Liberio, casa segura · Decide contarle a Magath mañana temprano. A dormir.
 T542 · Shingeki · Liberio, casa segura · Simula: alarma en el puerto norte a las 2; Magath en el cuartel desde las 3. 06:25, Magath solo.
 T543 · Shingeki · Liberio, despacho de Magath · Golpea la puerta. Magath lo hace entrar: "¿Viene a contarme de una celda vacía?"
+T544 · Shingeki · Liberio, despacho de Magath · Le cuenta lo de Ymir. Magath agradece la honestidad, encubre, y pregunta si algo más va a desaparecer.
