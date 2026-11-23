@@ -521,3 +521,4 @@ T519 · Shingeki · Marley, acantilados · Cambia 2 Fragmentos por 40 monedas de
 T520 · Shingeki · Liberio, despacho de Magath · Teletransportación directa ante Magath. Magath apunta; reconoce a Zeke.
 T521 · Shingeki · Liberio, despacho de Magath · Muestra la carta de Historia. Magath pregunta quién es y qué quiere Paradis.
 T522 · Shingeki · Liberio, despacho de Magath · Se presenta como emisario: paz y libertad. Magath pregunta por los guerreros y qué ofrece Paradis.
+T523 · Shingeki · Liberio, despacho de Magath · Ofrece piedra de hielo y combustible. Magath menciona a los Tybur; pregunta por devolver a los guerreros.
