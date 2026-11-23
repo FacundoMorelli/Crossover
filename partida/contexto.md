@@ -1,16 +1,16 @@
-TURNO: 651 | MUNDO: One Piece | Día 27 (Grand Line) | HORA: 14:18 | Lugar: Skypiea, Isla del Ángel, playa
+TURNO: 652 | MUNDO: One Piece | Día 27 (Grand Line) | HORA: 15:40 | Lugar: Skypiea, Isla del Ángel, casa de Conis
 MOMENTO DEL CANON: Arco de Skypiea (cap. ~237): llegada al Mar Blanco. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 203.140/215.000 · 133.707 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T652: comida en la casa de Conis: langostino del cielo, frutas, jugo de nube. Pagaya explica los diales (conchas que guardan viento, fuego, sonido, luz) y el Upper Yard: la selva sagrada donde vive el dios Enel con sus cuatro sacerdotes; nadie entra. Conis se pone tensa al nombrar a Enel. Golpes en la puerta: siete hombres de uniforme blanco y boinas, con un jefe de bigote y panza (McKinley, Boinas Blancas): "¡Ilegales del mar azul! Entraron sin pagar: delito de categoría 11. Paguen diez veces el peaje o serán juzgados."
 - T651: "Sí, venimos del mar azul." Conis se emociona: hace años que no llega nadie de abajo. Llega su padre Pagaya en un waver y se estrella contra la playa: "¡Heso! ¡Visitantes!" Luffy quiere probar el waver y se cae a la nube tres veces. Pagaya los invita a comer langostino del cielo en su casa. Conis mira la selva del fondo, un segundo, con miedo, y vuelve a sonreír.
 - T650: pasan sin pagar. Amazon anota: "Ocho ilegales. Y un gato." Un langostino gigante sale de la nube, agarra el Merry con las pinzas y lo sube por un río de nubes que serpentea por el cielo (canon). Los deja en la Isla del Ángel: playa de nube blanca, palmeras, casas redondas. Una chica rubia con antenas y un arpa los recibe sonriendo: "¡Heso! Bienvenidos a Skypiea. ¿Vienen del mar azul?" (Conis).
 - T649: "¿Qué cambia si somos combatientes?" Amazon: "A los turistas los dejo pasar. A los combatientes también. No soy guardia: solo pregunto." Pausa. "Pero los que entran sin pagar quedan registrados como ilegales. Y en Skypiea, los ilegales son asunto de Dios." Les saca otra foto.
 - T648: "Gracias, Gan Fall. Vamos a Skypiea." Gan Fall señala al este: la Puerta del Cielo; advierte que en Skypiea hay un dios nuevo, y que el dios no perdona a los que rompen las reglas. Se va volando. Navegan una hora por el mar de nubes hasta una cascada de nubes que sube y un arco con un cartel: HEAVEN'S GATE. Una anciana con anteojos y una cámara (Amazon): "¿Turistas? ¿Combatientes? Mil millones de extoles por persona. O pasen sin pagar. Como quieran."
-- T647: detiene el proyectil de la bazuca con la Luna a diez metros del Merry y lo hunde en el mar de nubes; explota abajo sin daño. El enmascarado frena la tabla, mira al Merry largo rato, apunta otra vez. Desde el cielo baja un anciano con armadura y lanza montado en un pájaro con manchas: "¡Alto!" El enmascarado se va por las nubes sin decir nada. El anciano: "Gan Fall, el Caballero del Cielo. Bienvenidos, forasteros del mar azul." Les explica: si están en peligro, toquen este silbato y vendrá, por cinco millones de extoles... "La primera vez, gratis."
-PRESENTES EN ESCENA: tripulación, Conis, Pagaya (playa de la Isla del Ángel). Kase en el hombro.
+PRESENTES EN ESCENA: tripulación, Conis, Pagaya (casa de Conis). En la puerta: McKinley y seis Boinas Blancas. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

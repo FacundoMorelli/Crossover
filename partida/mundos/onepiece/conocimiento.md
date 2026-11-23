@@ -101,3 +101,5 @@
 - Tripulación · T648 · Por Gan Fall: en Skypiea hay un dios nuevo que castiga a los que rompen las reglas.
 - Tripulación · T649 · Por Amazon: entrar sin pagar = ilegal; los ilegales son asunto del dios.
 - Amazon → Enel (por el registro; Enel escucha con el Mantra) · T650 · Ocho ilegales y un gato entraron sin pagar.
+- Tripulación · T652 · Por Pagaya: diales; Upper Yard, tierra sagrada del dios Enel y sus cuatro sacerdotes.
+- Boinas Blancas (McKinley) · T652 · Saben del registro de Amazon: ocho ilegales y un gato.

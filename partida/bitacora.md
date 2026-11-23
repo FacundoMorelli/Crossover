@@ -650,3 +650,4 @@ T648 · One Piece · Puerta del Cielo · Gan Fall advierte del dios. Amazon pide
 T649 · One Piece · Puerta del Cielo · Amazon: no paga = ilegal, asunto de Dios.
 T650 · One Piece · Skypiea · Pasan sin pagar (ilegales). El langostino los sube. Conis los recibe.
 T651 · One Piece · Isla del Ángel · Conis y Pagaya los invitan a comer.
+T652 · One Piece · casa de Conis · Comida; Pagaya explica diales, Upper Yard y Enel. Llegan los Boinas Blancas a cobrar.
