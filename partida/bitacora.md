@@ -703,3 +703,4 @@ T701 · One Piece · Water 7 · Usopp se va solo con 200M. La familia Franky lo 
 T702 · One Piece · callejón · Se teletransporta junto a Usopp. La familia Franky lo rodea.
 T703 · One Piece · callejón · Amenaza a la familia Franky. Cargan todos contra él.
 T704 · One Piece · callejón · Ultra Instinto sin atacar: la familia Franky se noquea sola. Tres huyen a avisarle a Franky.
+T705 · One Piece · callejón · Semilla a Usopp. Usopp llora por el Merry y le pregunta si hay que abandonarlo.
