@@ -1,13 +1,13 @@
 {
-  "turno": 456,
+  "turno": 457,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
-  "hora": "21:53",
+  "hora": "21:54",
   "edad": 18,
   "nivel": 25,
-  "exp": 187190,
+  "exp": 187390,
   "exp_siguiente_nivel": 195000,
-  "fragmentos": 173300,
+  "fragmentos": 173310,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -606,6 +606,104 @@
       "mision": "Que Smoker te deje ir por voluntad propia.",
       "dificultad": "MEDIA",
       "emitida": "T389"
+    },
+    {
+      "poder": "Hatchan: Rokutoryu (seis espadas) y cuerpo de gyojin pulpo",
+      "mundo": "onepiece",
+      "mision": "Que Hatchan te invite a comer takoyaki hecho por él.",
+      "dificultad": "BAJA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Chew: Pistola de Agua y cuerpo de gyojin",
+      "mundo": "onepiece",
+      "mision": "Que Chew te pida perdón, con sus palabras, por haberte disparado.",
+      "dificultad": "BAJA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Monkey D. Dragon: el viento y todo su poder",
+      "mundo": "onepiece",
+      "mision": "Que Dragon te diga su nombre completo cara a cara.",
+      "dificultad": "MUY ALTA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Titán Acorazado (Reiner): endurecimiento y armadura",
+      "mundo": "shingeki",
+      "mision": "Que Reiner te cuente, por voluntad propia, por qué rompió la muralla.",
+      "dificultad": "MEDIA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Titán de Ataque (Eren) y todo lo que lleva (incluido el Fundador, sin la maldición)",
+      "mundo": "shingeki",
+      "mision": "Que Eren elija, en voz alta, no usar el Retumbar.",
+      "dificultad": "MUY ALTA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Titán Bestia (Zeke): control de titanes puros con el grito, lanzamiento",
+      "mundo": "shingeki",
+      "mision": "Que Zeke te pida ayuda, con sus palabras, para algo que no sea su plan.",
+      "dificultad": "ALTA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Titán Carguero (Pieck): resistencia y transporte",
+      "mundo": "shingeki",
+      "mision": "Que Pieck te dé las gracias por algo.",
+      "dificultad": "BAJA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Levi: sangre Ackerman y estilo de combate con equipo de maniobras",
+      "mundo": "shingeki",
+      "mision": "Que Levi te llame por tu nombre.",
+      "dificultad": "ALTA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Yami Sukehiro: Magia de Oscuridad, Ki, Corte Dimensional",
+      "mundo": "blackclover",
+      "mision": "Superar tus límites delante de Yami y que él te lo reconozca.",
+      "dificultad": "ALTA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Abari: Magia Espacial (esfera de otra dimensión)",
+      "mundo": "blackclover",
+      "mision": "Que Abari te encierre y salir sin romper su esfera.",
+      "dificultad": "MEDIA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Gifso: Magia de Juego",
+      "mundo": "blackclover",
+      "mision": "Ganarle a Gifso uno de sus juegos con sus propias reglas.",
+      "dificultad": "MEDIA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Zarick: Magia de Cadenas",
+      "mundo": "blackclover",
+      "mision": "Dejarte atar por sus cadenas y soltarte sin romperlas.",
+      "dificultad": "BAJA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Zuta: Magia de Enredadera",
+      "mundo": "blackclover",
+      "mision": "Que una de sus trampas te atrape y salir caminando.",
+      "dificultad": "BAJA",
+      "emitida": "T457 (pendientes revisadas)"
+    },
+    {
+      "poder": "Vetto: Magia Bestial y Magia de Bestia Demoníaca (tercer ojo)",
+      "mundo": "blackclover",
+      "mision": "Que Vetto reconozca, con sus palabras, que no logró desesperarte.",
+      "dificultad": "ALTA",
+      "emitida": "T457 (pendientes revisadas)"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -945,6 +1043,20 @@
       "turno": 454,
       "fragmentos": 25,
       "exp": 300
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Zarick (cadenas), flecha Quincy, inconsciente",
+      "turno": 457,
+      "fragmentos": 5,
+      "exp": 100
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Zuta (enredaderas), flecha Quincy, inconsciente",
+      "turno": 457,
+      "fragmentos": 5,
+      "exp": 100
     }
   ],
   "viaje": {
