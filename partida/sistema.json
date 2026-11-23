@@ -1,13 +1,13 @@
 {
-  "turno": 480,
+  "turno": 481,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
-  "hora": "18:39",
+  "hora": "18:40",
   "edad": 18,
   "nivel": 26,
-  "exp": 197390,
+  "exp": 198040,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173660,
+  "fragmentos": 173672,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -561,6 +561,17 @@
         "Si el espíritu falta, el Sistema da el poder de 'Revestimiento del Espíritu' como poder propio de viento",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Magia de Rayo",
+      "de": "Luck Voltia",
+      "mundo": "blackclover",
+      "cuando": "T481 (Luck lo alcanzó con su golpe más rápido y Facundo se lo devolvió más rápido)",
+      "incluye": [
+        "Magia de Rayo completa: Botas del Dios del Trueno, Rayo Crepitante, Cadena de rayos, Armadura de Rayo y todo lo que Luck llega a dominar",
+        "Lectura instintiva del maná del rival para anticipar (como Luck)",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -801,13 +812,6 @@
       "mision": "Encontrar a Lotus dentro de su humo y tocarle el hombro.",
       "dificultad": "MEDIA",
       "emitida": "T476"
-    },
-    {
-      "poder": "Luck Voltia: Magia de Rayo",
-      "mundo": "blackclover",
-      "mision": "Que Luck te alcance una vez con su golpe más rápido, y devolvérselo más rápido todavía.",
-      "dificultad": "BAJA",
-      "emitida": "T479"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -1168,6 +1172,13 @@
       "turno": 464,
       "fragmentos": 150,
       "exp": 2000
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Luck Voltia (duelo amistoso, en serio de su parte): contragolpe contenido en Ultra Instinto; queda tirado, consciente, riéndose",
+      "turno": 481,
+      "fragmentos": 12,
+      "exp": 150
     }
   ],
   "viaje": {

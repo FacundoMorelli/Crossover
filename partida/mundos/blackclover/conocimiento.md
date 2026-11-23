@@ -21,3 +21,4 @@
 - Magna, Luck · T478 · Lo conocen en la base. Yami lo presenta: "el nuevo, Facundo". Gauche le cuenta a Magna que "partió a un tipo en dos paredes" (deformado; motivo: Magna pregunta). Luck no siente maná fuerte en él (Velo: persona común).
 - Luck, Magna, Asta, Noelle, Vanessa, Charmy, Finral, Gauche, Grey, Gordon, Yami · T479 · Ven el aura plateada (Ultra Instinto) y a Facundo esquivar sin moverse a propósito los ataques de rayo de Luck. Magna y Luck lo ven por primera vez; lo creen una magia de refuerzo rara. El Velo sigue: nadie siente maná real.
 - Todos en la puerta, Yami · T480 · Ven a Facundo esquivar un minuto sin ser tocado y mandar a Luck a 20 m con una palma, sin magia visible.
+- Todos en la puerta, Yami · T481 · Ven que Luck le pega en la cara y Facundo ni se mueve; después lo tumba con un golpe que no ven.

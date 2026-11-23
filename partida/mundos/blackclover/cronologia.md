@@ -19,3 +19,4 @@
 - 18:34 · (T478) Vuelven a la base de los Toros Negros por el portal de Finral. Luck reta a Facundo.
 - 18:37 · (T479) Duelo Facundo-Luck afuera de la base. Ultra Instinto. Los Toros miran.
 - 18:39 · (T480) Facundo golpea a Luck conteniéndose; Luck sigue de pie.
+- 18:40 · (T481) Facundo gana el duelo con Luck. Luck tirado, riéndose.
