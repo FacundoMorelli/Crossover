@@ -598,3 +598,4 @@ T596 · One Piece · Katorea ↔ Rainbase · Roba los planes de Crocodile en 18 
 T597 · One Piece · Katorea · Koza lee la Operación Utopía y detiene el ataque. Luffy quiere ir por Crocodile.
 T598 · One Piece · Rain Dinners · Llega con Luffy al salón de Crocodile. Crocodile los reconoce.
 T599 · One Piece · Rain Dinners · Le dice a Luffy lo del agua. Luffy golpea a Crocodile con los puños mojados. Misión de copia: Crocodile.
+T600 · One Piece · Rain Dinners · Luffy pelea con Crocodile en la terraza. Facundo se acerca a Robin. Misión de copia: Robin.

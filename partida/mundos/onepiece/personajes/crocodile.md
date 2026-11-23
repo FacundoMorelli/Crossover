@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: cartel (26M), informe de Miss Wednesday (viaja con Luffy).
 QUÉ PODERES DE FACUNDO VIO: aparición de la nada.
 ESTADO: activo
 - T599 · "¿Cómo sabes eso?" Sables contra Luffy; recibe un puño mojado en la cara y atraviesa la pared de vidrio.
+- T600 · Ataca a Facundo; Luffy lo intercepta. Pelea en la terraza.

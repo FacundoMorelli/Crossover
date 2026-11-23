@@ -66,3 +66,4 @@
 - Koza, lugartenientes · T597 · Facundo dijo que sacó los documentos de la base de Crocodile en Rainbase. Contenido completo de la Operación Utopía.
 - Crocodile, Miss All Sunday · T598 · Reconocen a Luffy y a "Ojos de Eclipse" (cartel 26M; informe de Miss Wednesday en Whisky Peak). Ven que aparecen de la nada.
 - Crocodile, Robin, Luffy · T599 · Facundo sabe que Crocodile es vulnerable al agua. Crocodile pregunta "¿cómo sabes eso?" una vez.
+- Crocodile · T600 · Facundo confirma que él le dijo a Luffy lo del agua.

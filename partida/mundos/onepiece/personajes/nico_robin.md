@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: cartel, informe de Miss Wednesday.
 QUÉ PODERES DE FACUNDO VIO: aparición.
 ESTADO: activa
+- T600 · Le brotan dos brazos de los hombros a Facundo, rozándole el cuello (aviso). "Solo quería ver si eras real." "¿Qué buscas aquí? ¿Detenerme a mí también?"
