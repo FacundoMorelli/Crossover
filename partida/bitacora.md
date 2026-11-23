@@ -492,3 +492,4 @@ T490 · Shingeki · Mitras, palacio · Pregunta por la Legión. Erwin está aden
 T491 · Shingeki · Mitras, palacio · Se encuentra con Erwin y Levi. Zeke pidió hablar solo con Facundo.
 T492 · Shingeki · Trost, cuartel de la Guarnición · Teletransporta a Erwin, Levi y Pixis a Trost. Hange pide la imagen.
 T493 · Shingeki · Trost, celdas · Muestra la foto a Hange. A solas con Zeke: flota de Marley en ~3 meses; ofrece información por una charla con Eren.
+T494 · Shingeki · Trost, celda de Zeke · Acepta el trato: mañana lo lleva con Eren. Zeke adelanta Liberio y Magath.

@@ -42,3 +42,5 @@
 - Zeke, Reiner, Bertholdt, Pieck · T492 · Ven aparecer a Facundo con Erwin, Levi y Pixis de la nada en el sótano.
 - Hange, Moblit, Erwin, Levi, Pixis · T493 · Ven en la cámara de Facundo una imagen en colores de un castillo de piedra torcido, robles enormes y un cielo rosado. No reconocen el lugar; Hange: "esto no existe en ningún mapa". Moblit hace un dibujo.
 - Facundo · T493 · Sabe por Zeke: flota de Marley en ~3 meses.
+- Facundo · T494 · Por Zeke: Liberio (puerto y zona de internamiento eldiana en Marley); la flota la decide el general Magath con el alto mando; Pieck sabe más de lo que muestra; Reiner está "roto".
+- Zeke · T494 · Facundo acepta llevarlo mañana con Eren.

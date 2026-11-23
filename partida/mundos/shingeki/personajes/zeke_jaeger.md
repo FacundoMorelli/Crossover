@@ -19,3 +19,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T427 · Confirma a Facundo que la piedra de hielo y el combustible de Paradis son lo que el mundo quiere. Duda de su plan. Pide que Eren oiga las dos versiones.
 - T433 · Ve el video. Ofrece ayudar a llevar las grabaciones al continente si algún día confían en él.
 - T493 · A solas con Facundo. Marley manda una flota en unos tres meses. Ofrece puertos, rutas, nombres de quién decide y quién se compra. A cambio: hablar con Eren, con Facundo presente. "¿Trato?"
+- T494 · Facundo acepta el trato. Adelanto: Liberio, Magath. "Pieck sabe más de lo que muestra. Reiner está roto." Sonríe: "Mañana, entonces."
