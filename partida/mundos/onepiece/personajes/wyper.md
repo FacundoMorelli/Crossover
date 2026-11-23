@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: le disparó en el Mar Blanco; ahora, conmovido.
 ENCUENTROS:
 - T646 · Le dispara al Merry. T681 · "¿Ustedes hicieron sonar la campana?"
 ESTADO: activo
+- T682 · Le da la mano a Luffy y a Gan Fall. RELACIÓN: respeto.

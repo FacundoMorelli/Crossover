@@ -13,3 +13,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T611 · Arabasta salvada sin la batalla de Alubarna. Crocodile preso. Robin con los Sombrero de Paja. Llueve.
 - T679 · Enel vencido por Luffy; el Raigo, tragado por Facundo. Skypiea a salvo.
 - T680 · La campana de Shandora suena por primera vez en 400 años. Promesa a Cricket cumplida.
+- T682 · Paz entre shandianos y habitantes de Skypiea. Enel se fue.

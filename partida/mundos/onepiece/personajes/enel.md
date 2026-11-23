@@ -19,3 +19,4 @@ ESTADO: activo
 - T677 · "¡¿Aquí también?!" Anuncia el Raigo.
 - T678 · Vencido por Luffy (Ougon Rifle). "Moriremos todos..." ESTADO: vencido.
 - T679 · Ve el Raigo tragado por el Eclipse. Se desmaya.
+- T682 · Despierta y huye en el arca Maxim hacia Fairy Vearth. ESTADO: se fue.
