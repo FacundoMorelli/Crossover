@@ -1,13 +1,13 @@
-TURNO: 700 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:20 | Lugar: Water 7, Dock 1 de la Galley-La
+TURNO: 701 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:35 | Lugar: Water 7, Dock 1 de la Galley-La
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T700: observa y espera. Iceburg les muestra los muelles; Paulie y Nami se pelean. Vuelve Kaku, serio: la quilla del Merry está partida; no se puede arreglar. "Ese barco no llega a la próxima isla. Si sale al mar, se hunde. Les recomiendo comprar uno nuevo." Silencio. Luffy no entiende. Usopp se pone blanco: "¿Qué... qué dijiste?"
+- T701: mira. Usopp no lo acepta: "¡Mentira! ¡El Merry aguanta! ¡Aguantó la Corriente Ascendente!" Agarra dos maletas (200M) y sale corriendo solo hacia el puerto: "¡Voy a buscar madera! ¡Lo arreglo yo!" Luffy se queda callado, con el sombrero hasta los ojos; Nami lo sigue con la tercera maleta. Diez minutos después, con el Haki, Facundo oye a Usopp gritar en un callejón cerca del puerto: un grupo de matones con cascos y bates (la familia Franky) lo rodea y le pega para quitarle las maletas.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
-PRESENTES EN ESCENA: Facundo, Luffy, Nami, Usopp (con 300M en maletas); Iceburg, Kalifa, Paulie, Lucci (con Hattori), Kaku (Dock 1). Zoro en el Merry; Sanji y Chopper de compras; Robin paseando sola. Kase en el hombro.
+PRESENTES EN ESCENA: Facundo, Luffy, Nami (con una maleta), Iceburg, Kaku, Paulie, Lucci, Kalifa (Dock 1). Usopp en un callejón cerca del puerto, atacado por la familia Franky. Robin paseando. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

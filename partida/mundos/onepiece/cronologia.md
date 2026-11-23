@@ -93,3 +93,4 @@
 - Días 31-34 · (T697) Viaje a Water 7. Estación Shift: Kokoro, Chimney, Gonbe (canon). Día 34 10:00: llegada a Water 7.
 - 10:30-12:10 · (T698) Cambian el oro por 300M (canon). Dock 1: Iceburg, Kalifa, Paulie, Lucci, Kaku. Robin sale a pasear sola (canon: CP9 la contacta).
 - 13:20 · (T700) Kaku dictamina que el Going Merry no tiene arreglo (canon).
+- 13:45 · (T701) La familia Franky ataca a Usopp en un callejón y le roba 200M (canon).

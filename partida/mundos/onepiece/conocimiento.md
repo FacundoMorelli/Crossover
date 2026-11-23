@@ -132,3 +132,4 @@
 - Nami y la tripulación · T696 · Saben que Facundo y Robin están juntos ("los tortolitos").
 - Lucci, Kalifa · T699 · Facundo notó la velocidad de Kaku. Kalifa lo anota.
 - Tripulación (Luffy, Nami, Usopp, Facundo) · T700 · Por Kaku: la quilla del Merry está partida; no tiene arreglo.
+- Facundo · T701 · Oye con el Haki el ataque a Usopp en un callejón.
