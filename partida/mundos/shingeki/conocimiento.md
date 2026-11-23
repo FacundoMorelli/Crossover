@@ -30,3 +30,4 @@
 - Zeke, Eren, Mikasa · T433 · Vieron a la cámara de Facundo grabar y reproducir imágenes que se mueven con sonido.
 - Los 200 soldados de la Legión · T435 · Vieron/vivieron la Teletransportación de Shiganshina a Trost. Rumor seguro dentro del ejército.
 - Hange, Moblit · T439 · La pared de Shiganshina dura varios días y consume la energía de Facundo.
+- Hange, Moblit · T440 · Facundo les dijo que el pelo azul multiplica su poder por dos mil.

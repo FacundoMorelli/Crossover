@@ -438,3 +438,4 @@ T436 · Shingeki · Trost · Se pone la capa. Entran a Trost entre festejos. Erw
 T437 · Shingeki · Trost · Irá a Mitras con Erwin. Cena con la 104.ª. Hange golpea la puerta para preguntarle cosas.
 T438 · Shingeki · Trost · Empieza el interrogatorio de Hange. Pregunta 1: la pared.
 T439 · Shingeki · Trost · La pared dura varios días. Pregunta 2: el pelo azul.
+T440 · Shingeki · Trost · "Un x2000 mi poder." Pregunta 3: el gato.
