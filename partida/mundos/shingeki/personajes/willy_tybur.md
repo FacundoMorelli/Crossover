@@ -15,3 +15,4 @@ ESTADO: activo
 - T561 · Helado ante la oferta. "¿Puede demostrarlo? No a mí. Al mundo."
 - T562 · Propone reunir embajadores en un mes (fiesta Tybur). Pide que la reina de Paradis venga a firmar.
 - T563 · Le da la mano a Facundo; brindan con té. "¿Cómo lo encuentro si necesito hablar con usted antes?" RELACIÓN: aliado en el plan de paz.
+- T564 · Se ríe. Propone: invernadero cada tres noches a las nueve; vela apagada si no hay novedades.
