@@ -713,3 +713,4 @@ T711 · One Piece · muelle abandonado · No le promete nada. Robin lo besa, le 
 T712 · One Piece · Going Merry · Vuelve con el libro de Robin. Le preguntan dónde está.
 T713 · One Piece · Going Merry · Cuenta todo a la tripulación. Luffy: vamos a buscarla.
 T714 · One Piece · Going Merry · Plan: rescatar a Robin en Enies Lobby. Usopp: que sea el último viaje del Merry.
+T715 · One Piece · Going Merry · Repara el Merry con Usopp (vendaje). Siente el espíritu del Merry. Atacan a Iceburg.

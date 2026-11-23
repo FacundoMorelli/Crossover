@@ -96,3 +96,4 @@
 - 13:45 · (T701) La familia Franky ataca a Usopp en un callejón y le roba 200M (canon).
 - 13:37 · (T704) La familia Franky no logra robar el dinero (canon: robaban 200M). Tres huyen a avisarle a Franky.
 - 15:30 · (T708) La tripulación decide un último viaje con el Merry antes de cambiar de barco (canon: Luffy y Usopp se peleaban a duelo). Robin no vuelve (canon: CP9 la contactó).
+- 16:10-23:10 · (T715) Facundo y Usopp refuerzan el Merry (planchas de hierro, hielo de la Hie Hie, la Luna). El espíritu del Merry (Klabautermann) repara a su lado (canon: aparecía más tarde). 23:10: el CP9 ataca a Iceburg en la Galley-La (canon); Robin está con ellos.
