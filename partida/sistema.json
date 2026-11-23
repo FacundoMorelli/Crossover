@@ -1,8 +1,8 @@
 {
-  "turno": 590,
+  "turno": 591,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "18:39",
+  "hora": "18:41",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -1540,7 +1540,8 @@
     "lugar_de_llegada_blackclover": "Plaza de la ciudad submarina, frente a la escalinata del Templo, bajo una cúpula de aire. Se ve la luz de la luna filtrada por el agua. Desde el templo llegan explosiones del juego. Nadie los ve llegar.",
     "shingeki_ymir": "T528: Ymir SIGUE VIVA. Encerrada en el centro de investigación de titanes del puerto norte de Liberio, sedada y encadenada en una celda profunda. Marley adelantó la herencia del Mandíbula a Porco Galliard por la pérdida de los cuatro guerreros: la ceremonia (inyección + que Porco la devore) está fijada para dentro de 2 días (día 9, al amanecer).",
     "shingeki_martillo": "T528: la segunda energía de titán que siente Facundo en la mansión Tybur es Lara Tybur, portadora del Martillo de Guerra. Facundo no sabe qué es.",
-    "onepiece_ausencia": "T580: durante la ausencia (días 9-20) pasó el canon: Whisky Peak (Vivi se revela; Zoro contra 100 cazarrecompensas; Mr.5 y Miss Valentine), Little Garden (Dorry y Brogy; Mr.3; Nami picada), Drum (Chopper se une; Wapol derrotado; Ace avisó), viaje a Arabasta. Día 20 tarde: Nanohana. Baroque Works también busca a \"Ojos de Eclipse\" (Miss Wednesday lo reportó antes de revelarse). Vivi sabe que Facundo es tripulante ausente."
+    "onepiece_ausencia": "T580: durante la ausencia (días 9-20) pasó el canon: Whisky Peak (Vivi se revela; Zoro contra 100 cazarrecompensas; Mr.5 y Miss Valentine), Little Garden (Dorry y Brogy; Mr.3; Nami picada), Drum (Chopper se une; Wapol derrotado; Ace avisó), viaje a Arabasta. Día 20 tarde: Nanohana. Baroque Works también busca a \"Ojos de Eclipse\" (Miss Wednesday lo reportó antes de revelarse). Vivi sabe que Facundo es tripulante ausente.",
+    "onepiece_rebeldes": "T591: el ejército rebelde ya NO está en Yuba (canon: se movió a Katorea). En Yuba solo queda Toto (padre de Koza), cavando. Crocodile en Rainbase (casino Rain Dinners)."
   },
   "recompensa_onepiece": {
     "monto": 26000000,

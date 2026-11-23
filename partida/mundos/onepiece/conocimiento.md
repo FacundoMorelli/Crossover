@@ -57,3 +57,4 @@
 - Tripulación, Vivi, Ace, marines de ambos barcos · T587 · Ven la bala detenerse en el aire con el ojo azul de Facundo brillando y volver al barco de la Marina. Lo atribuyen a su "fruta". Los marines lo informarán a Smoker.
 - Facundo · T588 · Por Vivi: Arabasta, sequía, Polvo de Baile, Baroque Works, Mr. 0 = Crocodile; rebeldes de Koza; plan de ir a Yuba.
 - Facundo · T590 · Por Vivi y el mapa de Nami: ruta Erumalu → río Sandora → Yuba (sudeste, ~200 km de desierto).
+- Facundo · T591 · Sabe (Ojo del Eclipse) que en Yuba hay un solo ki; la masa de kis armados está al nordeste de Yuba, en otro oasis; un ki frío muy fuerte en una ciudad del norte. No lo dijo todavía.
