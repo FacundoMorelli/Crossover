@@ -60,3 +60,5 @@
 - 01:13 día 11 · (T571) Prueba fijada: mediodía del día 11, Wall Maria, tramo deshabitado de 1 km al oeste de Shiganshina. Testigos: Zackly, Historia, Erwin, Pixis, Hange.
 - 12:00 día 11 · (T573) Sobre Wall Maria, al oeste de Shiganshina, con Zackly, Historia, Erwin, Pixis, Hange. Tramo marcado: 1 km entre dos torres de vigía en ruinas.
 - 12:03 día 11 · (T575) Facundo destruye con el Eclipse 1 km de Wall Maria al oeste de Shiganshina, con unos veinte titanes colosales adentro. Zackly aprueba el plan de paz.
+- Días 11-40 · (T577, simulado) Hueco de Wall Maria vigilado por la Legión. Historia y Erwin preparan la firma. Facundo visita el invernadero cada tres noches (Willy: 14 embajadas aceptaron; Magath frenó la flota en el gabinete; Muller sigue buscando al espía del Medio Oriente). Diarios de Marley anuncian la fiesta Tybur "con un anuncio histórico". Ymir se recupera junto a Historia.
+- Día 40, 19:40 · (T577) Fiesta Tybur en la plaza principal de Liberio. Embajadores de 14 naciones en el palco. El equipo de Paradis en una carpa detrás del escenario.

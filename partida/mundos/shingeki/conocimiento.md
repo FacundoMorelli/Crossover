@@ -122,3 +122,4 @@
 - Historia, Erwin, Zackly, Pixis, Hange, Ymir · T570 · Todo lo de Liberio: Magath, Willy, Retumbar, oferta de destruir los titanes de las murallas, fiesta en un mes, firma, botón, fotos.
 - Zackly, Historia, Erwin, Pixis, Hange · T575 · Ven el Eclipse: los ojos de Facundo (rojo y azul) se encienden, un punto negro se traga 1 km de muralla con los titanes colosales adentro, sin ruido. Hange lo anota y lo dibuja.
 - Guarnición de Shiganshina/Trost · T575 · Nadie oye nada (sin ruido); mañana una patrulla verá el hueco.
+- Historia, Erwin, Levi, Hange, Eren, Mikasa · T577 · Llevados a Liberio por Facundo para la fiesta.
