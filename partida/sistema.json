@@ -1,8 +1,8 @@
 {
-  "turno": 513,
+  "turno": 514,
   "mundo_actual": "shingeki",
-  "fecha_local": "Año 850 · Día 6 tras Shiganshina",
-  "hora": "14:57",
+  "fecha_local": "Año 850 · Día 7 tras Shiganshina",
+  "hora": "05:50",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -338,6 +338,16 @@
       "objeto": "Foto de Black Clover (en la cámara)",
       "detalle": "Tomada en T482 al amanecer desde la ventana de la base de los Toros Negros: la explanada con los robles, el castillo torcido de piedra oscura y el cielo rosado. Para Hange. (paréntesis del jugador, T490) Mostrada a Hange en T493 (pantalla de la cámara).",
       "mundo": "blackclover"
+    },
+    {
+      "objeto": "Carta de la reina Historia",
+      "detalle": "Credencial de emisario de Paradis, firmada y sellada por la reina (T514).",
+      "mundo": "shingeki"
+    },
+    {
+      "objeto": "Sobre para Ymir",
+      "detalle": "Cerrado, escrito por Historia. Para entregar si Ymir vive (T514).",
+      "mundo": "shingeki"
     }
   ],
   "copias": [

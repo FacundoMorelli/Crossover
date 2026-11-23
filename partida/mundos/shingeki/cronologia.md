@@ -38,3 +38,5 @@
 - 14:38 · (T506) Facundo acepta ir al continente como emisario de Paradis.
 - 14:45 · (T510) Se fija la salida al continente: día 7, temprano. Equipo: Facundo, Eren, Zeke, Levi, Mikasa.
 - 14:50 · (T511) Erwin entrega el legajo a la reina Historia. Ella escribirá la carta del emisario.
+- Tarde/noche día 6 · (T514) Historia escribe la carta del emisario con Kase a su lado. Erwin informa a Zackly. En Trost, Pixis prepara ropa civil y provisiones.
+- 05:50 día 7 · (T514) Historia entrega a Facundo la carta sellada y un sobre "para Ymir".

@@ -512,3 +512,4 @@ T510 · Shingeki · Trost · Salida mañana temprano con la carta. Erwin pide qu
 T511 · Shingeki · Mitras, despacho de la reina · Lleva a Erwin con Historia. Historia escribirá la carta. Pregunta por Ymir.
 T512 · Shingeki · Mitras, despacho de la reina · Le cuenta a Historia lo de Ymir y Porco. Historia pide averiguar en Marley.
 T513 · Shingeki · Mitras, despacho de la reina · Promete a Historia averiguar lo de Ymir y traerla si vive. Carta al amanecer.
+T514 · Shingeki · Mitras, palacio · Simula hasta el amanecer. Kase con Historia. Recibe la carta sellada y un sobre para Ymir.
