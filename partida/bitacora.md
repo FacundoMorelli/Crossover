@@ -574,3 +574,4 @@ T572 · Shingeki · Mitras · Bromea con Ymir. Ymir: "Ni en tus sueños, lindo."
 T573 · Shingeki · Wall Maria · Simula hasta el mediodía. Sobre la muralla con los testigos. Zackly marca el tramo.
 T574 · Shingeki · Wall Maria · Pregunta vistosa o tranquila. Zackly: la que va a ver el mundo.
 T575 · Shingeki · Wall Maria · El Eclipse se traga 1 km de Wall Maria con sus titanes colosales. Zackly: "Aprobado."
+T576 · Shingeki · Wall Maria · Nadie lo grabó. Hange quiere otro kilómetro; Zackly dice que no.

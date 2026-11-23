@@ -17,3 +17,4 @@ ESTADO: activo
 - T568 · "¡¿Y las imágenes?!"
 - T569 · Llora al ver el dirigible. Muda ante el cartel de propaganda.
 - T575 · Grita, llora, dibuja todo. "¡No hizo ruido! ¡Ni un ruido!"
+- T576 · Se olvidó de usar la cámara de placas. "¡Otro kilómetro! ¡Por favor!"
