@@ -45,3 +45,4 @@ ESTADO: activa
 - T693 · Llora abrazada a Facundo. Le cuenta de Saul. "Creo que tenía razón."
 - T694 · "Te pusiste delante. Otra vez. Nadie hace eso por mí." Frente con frente. RELACIÓN: algo serio empieza.
 - T695 · Facundo la besa; ella le devuelve el beso. "Te dije que ibas rápido. No dije que no me gustara." RELACIÓN: pareja (empezando).
+- T697 · Duerme las noches en cubierta junto a Facundo.

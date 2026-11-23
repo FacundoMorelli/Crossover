@@ -90,3 +90,4 @@
 - 11:00-12:30 · (T686) Donut Race: gana Foxy haciendo trampa con la Noro Noro no Mi. Elige a Chopper (canon).
 - 12:30-17:20 · (T687) Groggy Ring: ganan Zoro y Sanji, recuperan a Chopper. Combate: Luffy vence a Foxy; se llevan su bandera (canon). Tonjit recupera a su caballo. Atardecer: aparece el almirante Aokiji (canon).
 - 17:26 · (T692) Aokiji se va sin congelar a Robin ni a Luffy (canon: los congelaba a los dos). Menciona a Saul.
+- Días 31-34 · (T697) Viaje a Water 7. Estación Shift: Kokoro, Chimney, Gonbe (canon). Día 34 10:00: llegada a Water 7.

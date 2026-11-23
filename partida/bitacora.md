@@ -695,3 +695,4 @@ T693 · One Piece · Long Ring Long Land · Abraza a Robin. Ella llora y le cuen
 T694 · One Piece · Long Ring Long Land · Le acaricia el pelo. Robin le apoya la frente en la frente.
 T695 · One Piece · Long Ring Long Land · Besa a Robin. Ella le devuelve el beso.
 T696 · One Piece · Long Ring Long Land · Miran las estrellas. Próxima isla: Water 7.
+T697 · One Piece · Water 7 · Simula: tres días de mar; Kokoro y el Puffing Tom; llegan a Water 7.
