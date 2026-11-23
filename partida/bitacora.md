@@ -674,3 +674,4 @@ T672 · One Piece · Shandora · Luffy es inmune al rayo y golpea a Enel. Enel l
 T673 · One Piece · Shandora · Recibe el rayo de Enel por Robin, sin daño. Enel junta su ataque más fuerte.
 T674 · One Piece · Shandora · Recibe a quemarropa los 200 millones de voltios de Enel sin daño. Copia Goro Goro. Enel cae de rodillas.
 T675 · One Piece · Shandora · Busca agua de mar con la Shio Shio: no hay en el cielo. Enel se ríe.
+T676 · One Piece · Shandora · Luffy pelea con Enel. Enel huye al arca Maxim y amenaza con borrar Skypiea.

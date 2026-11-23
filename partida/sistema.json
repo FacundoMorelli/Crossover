@@ -1,8 +1,8 @@
 {
-  "turno": 675,
+  "turno": 676,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 28 (Grand Line, Skypiea)",
-  "hora": "09:14",
+  "hora": "09:20",
   "edad": 18,
   "nivel": 26,
   "exp": 206640,
@@ -1631,7 +1631,8 @@
     "onepiece_ausencia": "T580: durante la ausencia (días 9-20) pasó el canon: Whisky Peak (Vivi se revela; Zoro contra 100 cazarrecompensas; Mr.5 y Miss Valentine), Little Garden (Dorry y Brogy; Mr.3; Nami picada), Drum (Chopper se une; Wapol derrotado; Ace avisó), viaje a Arabasta. Día 20 tarde: Nanohana. Baroque Works también busca a \"Ojos de Eclipse\" (Miss Wednesday lo reportó antes de revelarse). Vivi sabe que Facundo es tripulante ausente.",
     "onepiece_rebeldes": "T591: el ejército rebelde ya NO está en Yuba (canon: se movió a Katorea). En Yuba solo queda Toto (padre de Koza), cavando. Crocodile en Rainbase (casino Rain Dinners).",
     "onepiece_documentos": "T596: Crocodile va a notar la falta de los documentos de su despacho en Rain Dinners (Operación Utopía) en unas horas. Sospechará de un traidor interno (Miss All Sunday incluida) o de Vivi. Acelerará los planes.",
-    "onepiece_bellamy": "T643: Bellamy informará a Doflamingo por Den Den Mushi que \"Ojos de Eclipse\" lo mandó a volar sin moverse. Doflamingo se interesa."
+    "onepiece_bellamy": "T643: Bellamy informará a Doflamingo por Den Den Mushi que \"Ojos de Eclipse\" lo mandó a volar sin moverse. Doflamingo se interesa.",
+    "onepiece_raigo": "T676: Enel prepara el Raigo: una nube de tormenta gigante que caerá sobre Skypiea en unos 40 minutos y borrará todo. Solo puede detenerse destruyendo la nube (en canon, Luffy la rompe con la bola de oro y hace sonar la campana)."
   },
   "recompensa_onepiece": {
     "monto": 26000000,
