@@ -45,3 +45,4 @@
 - Facundo · T494 · Por Zeke: Liberio (puerto y zona de internamiento eldiana en Marley); la flota la decide el general Magath con el alto mando; Pieck sabe más de lo que muestra; Reiner está "roto".
 - Zeke · T494 · Facundo acepta llevarlo mañana con Eren.
 - Erwin, Levi, Hange, Moblit, Pixis · T495 · Facundo les cuenta el trato con Zeke: información de Marley a cambio de hablar con Eren, con Facundo presente, mañana.
+- Erwin, Levi, Hange, Moblit, Pixis · T496 · Por Facundo (fuente: Zeke): Liberio es el puerto y la zona de internamiento eldiana de Marley; el general Magath decide la flota. (No les contó el plazo de tres meses ni lo de Pieck y Reiner.)
