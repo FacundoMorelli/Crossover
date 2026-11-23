@@ -5,3 +5,4 @@ ESTADO: Los Toros Negros juegan la Batalla Real del Templo de Gifso contra los s
 DON DE MUNDO: Grimorio del Firmamento (ver sistema.json).
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
+- T454 · Facundo rompe la barrera de Abari: Yami libre desde el principio (canon: encerrado hasta c72).

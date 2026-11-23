@@ -1,13 +1,13 @@
 {
-  "turno": 453,
+  "turno": 454,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
-  "hora": "21:50",
+  "hora": "21:51",
   "edad": 18,
   "nivel": 25,
-  "exp": 186890,
+  "exp": 187190,
   "exp_siguiente_nivel": 195000,
-  "fragmentos": 173275,
+  "fragmentos": 173300,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -51,7 +51,7 @@
     "energia": 240,
     "control": 239
   },
-  "energia_actual_pct": 58,
+  "energia_actual_pct": 55,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -938,6 +938,13 @@
       "turno": 410,
       "fragmentos": 25,
       "exp": 400
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Abari (Ojo del Sol de Medianoche, Magia Espacial): la esfera revienta por una ráfaga de ki y el rebote lo deja inconsciente detrás de una columna",
+      "turno": 454,
+      "fragmentos": 25,
+      "exp": 300
     }
   ],
   "viaje": {
