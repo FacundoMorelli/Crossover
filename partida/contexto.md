@@ -1,15 +1,15 @@
-TURNO: 617 | MUNDO: One Piece | Día 24 (Grand Line) | HORA: 11:05 | Lugar: Going Merry, mar abierto, alejándose de Arabasta
+TURNO: 618 | MUNDO: One Piece | Día 24 (Grand Line) | HORA: 11:06 | Lugar: Going Merry, mar abierto, alejándose de Arabasta
 MOMENTO DEL CANON: Fin del arco de Arabasta (cap. ~216-217 alterado): despedida de Vivi. Crocodile preso; la rebelión terminó sin batalla. Robin en la tripulación. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 202.640/215.000 · 173.707 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T618: "Espero que lo descubras. Si quieres te puedo dar una pista: cómo es la letra A, así empiezas con el abecedario." Robin, sorprendida de que él la sepa leer, abre el libro sobre la mesa y le pasa una pluma de Nami: "Una letra. Con una me alcanza para empezar." Espera.
 - T617: saca un libro de Paradis y se lo da: "Aquí tienes." Robin lo abre: un alfabeto que no conoce ("y conozco casi todos"), grabados de gigantes desnudos y murallas enormes. Se le iluminan los ojos; pasa las hojas despacio con la yema de los dedos. "¿De dónde sacaste esto?" Se corrige sola: "No. No me lo digas." Lo aprieta contra el pecho.
 - T616: "A otro mundo." (sarcástico). Robin se ríe: "Claro. Y yo vengo de la luna." Le sigue el juego: "Entonces, la próxima vez, tráeme un libro de tu otro mundo." Vuelve a su plato.
 - T615: "La verdad no estuve mucho con ellos, desaparecí once días; pero sí, mayormente sí." Robin se ríe bajo: "Desapareces once días, apareces en el despacho de Crocodile, y te sientas a comer como si nada." Pregunta una sola vez, ligera: "¿Y adónde vas cuando desapareces?"
 - T614: "La comida para Luffy. Tiene hambre." Sanji: "Ya sé." Cocina un banquete en cubierta. Luffy come y vuelve a reírse; la tripulación se anima. Usopp hace un brindis por Vivi. Robin se sienta al lado de Facundo con un plato que Sanji le sirvió con flores: "¿Siempre son así?"
-- T613: "Sanji." Sanji, con los ojos todavía rojos, se da vuelta desde la baranda y espera.
 PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin (cubierta del Going Merry). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin) (OP).

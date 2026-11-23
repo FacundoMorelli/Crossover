@@ -25,3 +25,4 @@ ESTADO: activa
 - T615 · "¿Y adónde vas cuando desapareces?" (pregunta una vez).
 - T616 · "Claro. Y yo vengo de la luna." "La próxima vez, tráeme un libro de tu otro mundo."
 - T617 · Recibe el libro de Paradis. "No conozco esta escritura. Y conozco casi todas." "No. No me lo digas." Lo aprieta contra el pecho. RELACIÓN: interés claro en Facundo.
+- T618 · "Una letra. Con una me alcanza para empezar." Le pasa una pluma.
