@@ -50,3 +50,4 @@
 - Días 22-23 · Banquete en el palacio. Vivi decide quedarse en Arabasta.
 - Día 24 10:00 · Zarpan por la costa este. Flota de la capitana Hina en el horizonte. Vivi aparece en un acantilado con un caracol altavoz para despedirse.
 - 10:05 día 24 · (T612) Despedida de Vivi desde el acantilado. Brazos izquierdos en alto (sin marca: no hubo Mr. 2 a bordo).
+- Día 25 14:10 · (T622) Un galeón antiguo cae del cielo junto al Going Merry; el Log Pose apunta hacia arriba (canon, cap. ~218).
