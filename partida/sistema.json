@@ -1,8 +1,8 @@
 {
-  "turno": 598,
+  "turno": 599,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "20:13",
+  "hora": "20:14",
   "edad": 18,
   "nivel": 26,
   "exp": 201140,
@@ -885,6 +885,13 @@
       "mision": "Encontrar a Lotus dentro de su humo y tocarle el hombro.",
       "dificultad": "MEDIA",
       "emitida": "T476"
+    },
+    {
+      "poder": "Crocodile: Suna Suna no Mi",
+      "mundo": "onepiece",
+      "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
+      "dificultad": "ALTA",
+      "emitida": "T599"
     }
   ],
   "misiones_de_copia_rechazadas": [],

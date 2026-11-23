@@ -597,3 +597,4 @@ T595 · One Piece · Katorea · Vivi habla con Koza. Koza pide pruebas y desconf
 T596 · One Piece · Katorea ↔ Rainbase · Roba los planes de Crocodile en 18 segundos y se los da a Koza.
 T597 · One Piece · Katorea · Koza lee la Operación Utopía y detiene el ataque. Luffy quiere ir por Crocodile.
 T598 · One Piece · Rain Dinners · Llega con Luffy al salón de Crocodile. Crocodile los reconoce.
+T599 · One Piece · Rain Dinners · Le dice a Luffy lo del agua. Luffy golpea a Crocodile con los puños mojados. Misión de copia: Crocodile.
