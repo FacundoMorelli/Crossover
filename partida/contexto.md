@@ -1,16 +1,16 @@
-TURNO: 515 | MUNDO: Shingeki no Kyojin | Año 850 · Día 7 tras Shiganshina | HORA: 06:00 | Lugar: Trost, patio del cuartel de la Guarnición
+TURNO: 516 | MUNDO: Shingeki no Kyojin | Año 850 · Día 7 tras Shiganshina | HORA: 06:25 | Lugar: sobre la costa de Paradis, rumbo al mar
 MOMENTO DEL CANON: Post-Shiganshina (cap. ~89-90 alterado). Erwin vivo; los cuatro cambiantes de Marley presos (Reiner, Bertholdt, Zeke, Pieck). La Legión en Mitras; plan diplomático en preparación. Ver mundos/shingeki/cronologia.md.
-FACUNDO: 18 años · Nivel 26 · EXP 199.640/215.000 · 173.750 Fragmentos · 140 puntos sin asignar · 0 monedas de la Corona · Energía 100% · Ojos: bien · STATS ~240 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30, Grimorio del Firmamento 30)
+FACUNDO: 18 años · Nivel 26 · EXP 199.640/215.000 · 173.750 Fragmentos · 140 puntos sin asignar · 0 monedas de la Corona · Energía 98% · Ojos: bien · STATS ~240 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30, Grimorio del Firmamento 30)
 PARA ESTE MUNDO: aliado de la Corona, libre y bajo protección de la reina (T445). La Legión vio la pared, la teletransportación, el pelo azul. Rumor fuerte en el ejército.
 QUIÉN SABE QUÉ: ver mundos/shingeki/conocimiento.md. Zeke y Eren saben del plan de eutanasia; Erwin informó todo a Historia, Zackly, Nile, Pixis. La guardia del palacio tiene orden de no detenerlo.
 MISIÓN DE MUNDO: CUMPLIDA (T413). 6 completados. VIAJE LIBRE.
 ÚLTIMOS 5 TURNOS:
+- T516: los hace flotar con la Luna y despegan. Hange grita abajo; los soldados de la muralla de Trost los ven pasar. Cruzan Wall Rose, el territorio de Wall Maria y Shiganshina. Eren mira Shiganshina desde arriba. Llegan a la costa: el mar abierto. Zeke señala el rumbo con la barbilla. Levi verde, aguantando.
 - T515: guarda las cartas en el inventario. Historia y Erwin lo despiden con la mirada. Teletransportación a Trost (ki de Levi). Patio: Eren, Mikasa y Levi de civil, con mochilas; Zeke de civil, manos atadas al frente con cuero y una cadena corta a la muñeca de Levi. Hange le da un cuaderno nuevo "para anotar todo". Pixis le da una bolsa de pescado seco para Kase. Levi: "¿Y ahora qué? ¿Nos agarramos de tu cola?"
 - T514: "Sí, que se quede." Simula: Kase se queda con Historia toda la tarde mientras escribe. Facundo en un cuarto de huéspedes del palacio. A la noche Kase vuelve solo. Amanecer: en el despacho, Historia (sin dormir) le da la carta sellada y un sobre chico: "Para Ymir. Si la encuentras." Erwin presente.
 - T513: "Sí, lo voy a averiguar, te lo prometo. Y si sigue viva, la voy a traer." Historia agradece con un hilo de voz y una sonrisa. Escribirá la carta esta noche. Erwin se queda en Mitras; carta lista al amanecer en el despacho. Facundo libre hasta mañana.
 - T512: le cuenta a Historia lo de Pieck: Ymir estaba en Marley para que Porco Galliard la devorara y heredara el Mandíbula; Pieck cree que ya pasó. Historia aguanta, se sienta. "Ella eligió irse con ellos." Le pide a Facundo que en Marley averigüe si es verdad, y si dejó algo. Erwin escucha en silencio.
-- T511: "Sí." Teletransporta a Erwin a Mitras siguiendo el ki de Historia: aparecen en su despacho. Guardias desenvainan; Historia los frena. Erwin le da el legajo y pide la carta; Historia la escribirá ella misma esta noche. Historia le pregunta a Facundo si los prisioneros dijeron algo de Ymir.
-PRESENTES EN ESCENA: Eren, Mikasa, Levi, Zeke (equipo, de civil), Hange, Moblit, Pixis, guardias (patio de la Guarnición, Trost). Kase en el hombro.
+PRESENTES EN ESCENA: Eren, Mikasa, Levi, Zeke (flotando con la Luna alrededor de Facundo), sobre la costa. Kase en el hombro.
 VÍNCULOS ACTIVOS (Shingeki): aliado de la Legión (Erwin, Levi, Hange, Moblit, la 104.ª). Historia le agradeció.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

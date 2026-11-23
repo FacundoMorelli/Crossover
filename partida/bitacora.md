@@ -514,3 +514,4 @@ T512 · Shingeki · Mitras, despacho de la reina · Le cuenta a Historia lo de Y
 T513 · Shingeki · Mitras, despacho de la reina · Promete a Historia averiguar lo de Ymir y traerla si vive. Carta al amanecer.
 T514 · Shingeki · Mitras, palacio · Simula hasta el amanecer. Kase con Historia. Recibe la carta sellada y un sobre para Ymir.
 T515 · Shingeki · Trost, patio · Va por el equipo. Todos listos de civil. Hange le da un cuaderno; Pixis, pescado para Kase.
+T516 · Shingeki · cielo de Paradis → costa · Despegan con la Luna. Cruzan Wall Maria y Shiganshina. Llegan al mar.

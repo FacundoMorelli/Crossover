@@ -41,3 +41,4 @@
 - Tarde/noche día 6 · (T514) Historia escribe la carta del emisario con Kase a su lado. Erwin informa a Zackly. En Trost, Pixis prepara ropa civil y provisiones.
 - 05:50 día 7 · (T514) Historia entrega a Facundo la carta sellada y un sobre "para Ymir".
 - 06:00 · (T515) Equipo del emisario reunido en Trost: Facundo, Eren, Mikasa, Levi, Zeke (encadenado a Levi).
+- 06:00-06:25 · (T516) El equipo del emisario despega de Trost volando y llega a la costa de Paradis.
