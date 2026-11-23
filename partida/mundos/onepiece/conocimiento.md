@@ -94,3 +94,4 @@
 - Cricket, Masira, Shoujou, tripulación · T635 · Facundo sugiere que la mitad de Jaya voló al cielo. Robin compara los mapas: encajan. Cricket lo cree. (Canon: lo descubrían en Skypiea.)
 - Facundo · T637 · Por Cricket: el diario de Noland habla de una campana de oro enorme en la ciudad.
 - Bellamy, Sarquiss y su tripulación · T640 · Ven a Facundo con un aura plateada (lo atribuyen a una fruta rara).
+- Bellamy, su tripulación, Cricket, Masira, Shoujou · T641 · Ven a Bellamy pegarle a Facundo en la cara y salir despedido él, sin que Facundo se mueva.

@@ -13,3 +13,4 @@ ESTADO: activo
 - T628 · Golpea a Luffy; se va riendo.
 - T639 · Desembarca de noche en la playa de Cricket: "Qué noche más divertida."
 - T640 · "¿Te pusiste luces?" Spring Sniper contra Facundo.
+- T641 · Rebota contra Facundo y vuela treinta metros contra las rocas. Mano derecha rota. Temblando.

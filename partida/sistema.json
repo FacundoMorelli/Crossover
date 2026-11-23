@@ -1,11 +1,11 @@
 {
-  "turno": 640,
+  "turno": 641,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 26 (Grand Line, Jaya)",
   "hora": "23:41",
   "edad": 18,
   "nivel": 26,
-  "exp": 202640,
+  "exp": 203140,
   "exp_siguiente_nivel": 215000,
   "fragmentos": 133707,
   "plata_local": {
@@ -668,6 +668,18 @@
         "Sin la debilidad del mar",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Bane Bane no Mi (poder de Bellamy)",
+      "de": "Bellamy",
+      "mundo": "onepiece",
+      "cuando": "T641 (Bellamy rebotó contra Facundo con Spring Sniper y salió despedido)",
+      "incluye": [
+        "Volver resortes cualquier parte del cuerpo",
+        "Spring Sniper, Spring Hopper, Spring Death Knock y todo lo que Bellamy llega a hacer",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -915,13 +927,6 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
-    },
-    {
-      "poder": "Bellamy: Bane Bane no Mi",
-      "mundo": "onepiece",
-      "mision": "Que Bellamy rebote contra ti con su salto más fuerte y salga despedido él.",
-      "dificultad": "BAJA",
-      "emitida": "T640"
     }
   ],
   "misiones_de_copia_rechazadas": [],
