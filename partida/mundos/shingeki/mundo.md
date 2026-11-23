@@ -14,3 +14,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 
 - T489 · Facundo vuelve a Paradis, Día 5 tras Shiganshina, 21:07.
 - T506 · Facundo acepta ser emisario de Paradis ante Marley (cambio enorme: en el canon, Paradis no contacta al continente hasta años después y por la vía de los voluntarios de Yelena).
+- T519 · Cambio fijado en Marley: 1 Fragmento = 20 monedas de plata de Marley.

@@ -517,3 +517,4 @@ T515 · Shingeki · Trost, patio · Va por el equipo. Todos listos de civil. Han
 T516 · Shingeki · cielo de Paradis → costa · Despegan con la Luna. Cruzan Wall Maria y Shiganshina. Llegan al mar.
 T517 · Shingeki · Marley, acantilados al sur de Liberio · Seis horas de vuelo. Ven Liberio a lo lejos.
 T518 · Shingeki · Marley, acantilados · Aterrizan. Zeke: brazaletes y dinero; hay que decidir cómo entrar.
+T519 · Shingeki · Marley, acantilados · Cambia 2 Fragmentos por 40 monedas de Marley. Zeke las reconoce auténticas.

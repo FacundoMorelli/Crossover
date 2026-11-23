@@ -1,13 +1,13 @@
 {
-  "turno": 518,
+  "turno": 519,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 7 tras Shiganshina",
-  "hora": "12:45",
+  "hora": "12:47",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 173750,
+  "fragmentos": 173748,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -38,6 +38,11 @@
       "moneda": "yul",
       "cantidad": 0,
       "cambio": "1 Fragmento = 10.000 yul (fijado T450)"
+    },
+    "shingeki_marley": {
+      "moneda": "monedas de plata de Marley",
+      "cantidad": 40,
+      "cambio": "1 Fragmento = 20 monedas de plata de Marley (fijado T519). Un jornal obrero ronda 2-3 monedas."
     }
   },
   "puntos_de_stat_sin_asignar": 140,
