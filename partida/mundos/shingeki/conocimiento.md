@@ -48,3 +48,5 @@
 - Erwin, Levi, Hange, Moblit, Pixis · T496 · Por Facundo (fuente: Zeke): Liberio es el puerto y la zona de internamiento eldiana de Marley; el general Magath decide la flota. (No les contó el plazo de tres meses ni lo de Pieck y Reiner.)
 - Guardia de la Guarnición → Hange · T497 · Pieck pidió hablar con "el del gato". Motivo: deber de informar.
 - Pieck · T498 · Vio por la mirilla a Facundo entrar a la celda de Zeke y salir a los minutos; dedujo que negociaron.
+- Facundo · T499 · Por Pieck: Zeke tiene sangre real; con contacto con el portador del Fundador puede usar su poder (era el plan de Marley); Zeke quiere a Eren para algo propio. Ymir estaba en Marley para ser dada a Porco Galliard (Mandíbula); Pieck cree que ya pasó. Padre de Pieck: enfermo, Liberio, calle de los Faroles.
+- Pieck · T499 · Facundo le promete que su padre estará a salvo.
