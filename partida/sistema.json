@@ -1099,6 +1099,21 @@
     "inventario_al_morir": {
       "desde_turno": 341,
       "regla": "Declarado por el jugador: si Facundo muere, lo que está en el inventario dimensional se queda ahí dentro para siempre. Nada ni nadie lo puede sacar."
+    },
+    "multiplicadores_saiyajin": {
+      "desde_turno": 439,
+      "fuente": "SSJ1-3: Daizenshuu (canon). Dios, Blue, Kaio-ken sobre Blue y Ultra Instinto: sin número oficial; fijados por el motor para que la escala sea coherente.",
+      "valores": {
+        "Super Saiyajin": "x50",
+        "Super Saiyajin 2": "x100",
+        "Super Saiyajin 3": "x400",
+        "Super Saiyajin Dios": "x1.000",
+        "Super Saiyajin Blue": "x2.000",
+        "Kaio-ken sobre Blue": "x2 a x20 adicional sobre el Blue",
+        "Ultra Instinto Señal": "x3.000 (y esquiva sola)",
+        "Ultra Instinto Dominado": "x5.000 (ataca y esquiva solo)"
+      },
+      "nota": "Se aplican sobre los stats base. No se combinan con la Forma Cenit salvo que el jugador lo declare."
     }
   },
   "SECRETO_NO_REVELAR_JAMAS": {
