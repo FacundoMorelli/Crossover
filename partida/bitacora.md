@@ -671,3 +671,4 @@ T669 · One Piece · Upper Yard · Alimenta a Nola. Los lleva a las ruinas de Sh
 T670 · One Piece · Shandora · Robin lee la piedra (Poseidón; inscripción de Roger). Enel cae como un rayo.
 T671 · One Piece · Shandora · Robin miente; Enel cuenta su plan (arca, Fairy Vearth, destruir Skypiea). La campana está en la nube de arriba. Luffy carga.
 T672 · One Piece · Shandora · Luffy es inmune al rayo y golpea a Enel. Enel le dispara un rayo a Robin.
+T673 · One Piece · Shandora · Recibe el rayo de Enel por Robin, sin daño. Enel junta su ataque más fuerte.

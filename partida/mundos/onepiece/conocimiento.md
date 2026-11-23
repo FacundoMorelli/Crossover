@@ -118,3 +118,4 @@
 - Facundo, Robin · T670 · La piedra de Shandora habla del arma Poseidón y su ubicación. Al costado, inscripción de Gol D. Roger: "Llegué aquí y conduciré este texto hasta el final." Facundo puede leer la escritura antigua (Lengua de los mundos); Robin no lo sabe todavía.
 - Enel · T670 · Vio a Robin leyendo la piedra.
 - Facundo, Robin, Luffy · T671 · Por Enel: arca Maxim, todo el oro, viaje a Fairy Vearth; antes, destruir Skypiea. La campana de oro está en la nube superior, sobre la enredadera gigante.
+- Enel, Robin, Luffy · T673 · El rayo de Enel le pega a Facundo en el pecho y no le hace nada.
