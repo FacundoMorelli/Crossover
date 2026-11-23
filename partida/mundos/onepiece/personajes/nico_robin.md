@@ -14,3 +14,4 @@ ESTADO: activa
 - T600 · Le brotan dos brazos de los hombros a Facundo, rozándole el cuello (aviso). "Solo quería ver si eras real." "¿Qué buscas aquí? ¿Detenerme a mí también?"
 - T601 · Se ríe del piropo. "Aliada no. Socia. Él quiere algo de este país y yo también." "¿Qué tendrías tú para ofrecerme?"
 - T602 · Se le quiebra la máscara. "No busco un arma. Busco la historia. La verdadera. Una piedra que la cuenta."
+- T603 · "Eres un hombre muy extraño, Ojos de Eclipse." A Crocodile: "Esta pelea no es mía, señor Zero."
