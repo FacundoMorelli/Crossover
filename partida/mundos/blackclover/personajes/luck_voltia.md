@@ -9,7 +9,8 @@ RELACIÓN CON FACUNDO: acaba de conocerlo; quiere pelear con él.
 ENCUENTROS:
 - T478 · Base. Lo reta a pelear apenas lo ve.
 - T479 · Duelo afuera de la base. Usa Botas del Dios del Trueno; Facundo lo esquiva tres veces en Ultra Instinto. Luck abre los ojos: "¡Increíble!"
+- T480 · Recibe una palma contenida al pecho: vuela 20 m, se levanta riéndose, quiere seguir.
 DIÁLOGOS CLAVE: "¿Eres fuerte? Peleemos."
 QUÉ SABE DE FACUNDO: nombre, que es nuevo, el rumor deformado de Gauche.
 QUÉ PODERES DE FACUNDO VIO: Ultra Instinto (aura plateada, esquiva sola) T479
-ESTADO: activo
+ESTADO: golpeado (costillas doloridas), de pie

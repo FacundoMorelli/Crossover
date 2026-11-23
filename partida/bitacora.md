@@ -478,3 +478,4 @@ T476 · Black Clover · Kiten · Mira la batalla de Kiten; todo según el canon,
 T477 · Black Clover · Kiten · Yuno lo reconoce como rival: copia Viento y Espíritu. Vuelven a la base.
 T478 · Black Clover · Base de los Toros Negros · Cruza el portal. Conoce a Magna y Luck; Luck lo reta.
 T479 · Black Clover · Base, explanada · Pelea con Luck en Ultra Instinto. Esquiva sola tres ataques. Misión de copia: Luck.
+T480 · Black Clover · Base, explanada · Esquiva un minuto entero; palma contenida: Luck vuela 20 m y se levanta riéndose.
