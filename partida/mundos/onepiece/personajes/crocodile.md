@@ -14,3 +14,4 @@ ESTADO: activo
 - T599 · "¿Cómo sabes eso?" Sables contra Luffy; recibe un puño mojado en la cara y atraviesa la pared de vidrio.
 - T600 · Ataca a Facundo; Luffy lo intercepta. Pelea en la terraza.
 - T603 · Maldice a Robin. Desert Spada contra Luffy.
+- T605 · Usa el veneno del garfio contra Luffy. Derrotado por Gomu Gomu no Storm; cae a la calle, inconsciente. ESTADO: derrotado.

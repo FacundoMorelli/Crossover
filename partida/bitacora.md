@@ -603,3 +603,4 @@ T601 · One Piece · Rain Dinners · Coquetea y le dice a Robin que no parece al
 T602 · One Piece · Rain Dinners · Le dice a Robin que no la juzga por su pasado. Robin confiesa que busca la historia verdadera. Copia Hana Hana.
 T603 · One Piece · Rain Dinners · Piropo a Robin. Robin no interviene. Crocodile lanza Desert Spada contra Luffy.
 T604 · One Piece · Rain Dinners · Invita a Robin a la tripulación. Robin: "si tu capitán gana, lo voy a pensar".
+T605 · One Piece · Rain Dinners · Luffy vence a Crocodile con Gomu Gomu no Storm, pero queda envenenado por el garfio.

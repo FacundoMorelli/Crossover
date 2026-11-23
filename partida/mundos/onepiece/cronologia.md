@@ -39,3 +39,4 @@
 - 19:56 · (T596) Facundo roba documentos del despacho de Crocodile en Rain Dinners sin ser visto y se los entrega a Koza en Katorea. CAMBIO ENORME: los rebeldes tienen pruebas de la Operación Utopía.
 - 20:10 · (T597) Koza detiene el ataque rebelde sobre Alubarna. CAMBIO ENORME: la batalla de Alubarna no ocurre (por ahora).
 - 20:13 · (T598) Facundo y Luffy aparecen en el salón VIP de Crocodile en Rain Dinners.
+- 20:31 · (T605) Luffy derrota a Crocodile en Rain Dinners (canon: en Alubarna, días después, tras perder dos veces). Crocodile inconsciente en la calle de Rainbase. Luffy envenenado por el garfio.

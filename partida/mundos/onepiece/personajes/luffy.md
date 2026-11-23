@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T583 · "¡FACUNDO! ¡Volviste!" corriendo con la boca llena.
 - T599 · Se moja los puños con la jarra y le pega a Crocodile en la cara.
 - T604 · Esquiva la Desert Spada; Gomu Gomu no Hammer mojado sobre Crocodile.
+- T605 · Vence a Crocodile. Envenenado por el garfio: labios morados, se desploma.

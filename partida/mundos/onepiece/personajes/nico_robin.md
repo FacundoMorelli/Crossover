@@ -16,3 +16,4 @@ ESTADO: activa
 - T602 · Se le quiebra la máscara. "No busco un arma. Busco la historia. La verdadera. Una piedra que la cuenta."
 - T603 · "Eres un hombre muy extraño, Ojos de Eclipse." A Crocodile: "Esta pelea no es mía, señor Zero."
 - T604 · "Hace veinte años que nadie me invita a ningún lado." "¿A tu lado? Qué rápido vas." "Si tu capitán gana esta noche... lo voy a pensar."
+- T605 · Ve ganar a Luffy. Se lleva la mano a la boca cuando cae envenenado.
