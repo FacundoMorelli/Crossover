@@ -69,3 +69,4 @@
 - Zeke, Eren, Mikasa, Levi · T519 · Ven a Facundo sacar monedas auténticas de Marley de su sobretodo.
 - Magath, ayudante · T520 · Ven a cinco personas y un gato aparecer de la nada en el despacho. Reconocen a Zeke Jaeger, vivo y encadenado a un hombre bajo.
 - Magath, teniente Brandt · T521 · Leen/oyen la carta de la reina Historia: Facundo es emisario de Paradis; busca la paz. Magath ordena silencio absoluto a Brandt.
+- Magath, Brandt · T522 · Nombre: Facundo, emisario de Paradis. Pide paz y libertad.
