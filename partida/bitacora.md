@@ -711,3 +711,4 @@ T709 · One Piece · Water 7 · Encuentra a Robin con un enmascarado del Gobiern
 T710 · One Piece · muelle abandonado · Le dice a Robin que la van a ir a buscar. Ella le ruega que no: Buster Call, Ohara.
 T711 · One Piece · muelle abandonado · No le promete nada. Robin lo besa, le deja el libro y se va con el Gobierno.
 T712 · One Piece · Going Merry · Vuelve con el libro de Robin. Le preguntan dónde está.
+T713 · One Piece · Going Merry · Cuenta todo a la tripulación. Luffy: vamos a buscarla.

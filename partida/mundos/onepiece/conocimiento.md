@@ -138,3 +138,4 @@
 - Robin, el enmascarado · T709 · No saben que Facundo los escuchó (está lejos, el Velo y el Haki).
 - Robin · T710 · Facundo escuchó el trato. Le dijo que la van a ir a buscar todos.
 - Facundo · T710 · Por Robin: el Buster Call borró Ohara cuando ella tenía ocho años.
+- Luffy, Zoro, Nami, Usopp, Sanji, Chopper · T713 · Por Facundo: el Gobierno obliga a Robin a entregarse con la amenaza del Buster Call; esta noche hará algo por orden de ellos; después la llevan a Enies Lobby. Ohara.
