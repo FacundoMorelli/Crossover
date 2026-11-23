@@ -593,3 +593,4 @@ T591 · One Piece · mar · Con el Ojo del Eclipse: Yuba casi vacía; el ejérci
 T592 · One Piece · mar · Avisa que los rebeldes ya no están en Yuba. Vivi: están en Katorea; pide ir allí.
 T593 · One Piece · Going Merry · Cena con Ace y Luffy. Ace se duerme en el plato. Copia Mera Mera.
 T594 · One Piece · Katorea · Despedida de Ace. Teletransporte a Katorea. Los centinelas reconocen a Vivi.
+T595 · One Piece · Katorea · Vivi habla con Koza. Koza pide pruebas y desconfía de los piratas.

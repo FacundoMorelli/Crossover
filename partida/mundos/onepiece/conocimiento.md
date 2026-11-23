@@ -60,3 +60,4 @@
 - Facundo · T591 · Sabe (Ojo del Eclipse) que en Yuba hay un solo ki; la masa de kis armados está al nordeste de Yuba, en otro oasis; un ki frío muy fuerte en una ciudad del norte. No lo dijo todavía.
 - Vivi, Luffy, Sanji, Zoro, Nami, Usopp, Chopper, Ace · T592 · Por Facundo: el ejército rebelde ya no está en Yuba. Vivi deduce Katorea por el mapa.
 - Centinelas rebeldes de Katorea · T594 · Ven aparecer de la nada a seis figuras y un pato; uno reconoce a la princesa Vivi.
+- Koza, lugartenientes, rebeldes · T595 · Por Vivi: Crocodile es Mr. 0, jefe de Baroque Works; el Polvo de Baile lo planta Baroque Works. Ven a la princesa con piratas (Luffy, Zoro, Sanji, Facundo).

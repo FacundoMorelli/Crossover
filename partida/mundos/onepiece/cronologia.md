@@ -35,3 +35,4 @@
 - 19:00-19:20 · (T593) Cena en el Going Merry con Ace (canon: en un barco frente a la costa, sin Facundo). Ace invita a Luffy a la tripulación de Barbablanca; Luffy rechaza. Ace le da su vivre card.
 - 19:25 · (T594) Ace parte en el Striker tras Barbanegra (canon).
 - 19:35 · (T594) Vivi, Luffy, Sanji, Zoro, Facundo y Carue aparecen en el borde del campamento rebelde de Katorea (canon: Vivi nunca llegaba a Koza antes de Alubarna).
+- 19:55 · (T595) Vivi se reencuentra con Koza en Katorea (canon: solo en Alubarna, al final). Koza duda y pide pruebas.
