@@ -93,3 +93,4 @@
 - MISIÓN: Que Kiato no pierda la pierna y que Kahono no pierda la voz.
 - RECOMPENSA: 8.000 EXP · 200 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- CUMPLIDA: T464 · 22:01. Vetto derribado antes de tocar a Kiato y Kahono. +8.000 EXP, +200 F. Mundos completados: 6.

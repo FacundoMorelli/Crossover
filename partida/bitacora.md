@@ -462,3 +462,4 @@ T460 · Black Clover · Templo · Les dice dónde está Vetto. Asta corre al oes
 T461 · Black Clover · Templo · Lleva a Kiato con Kahono (salón del este). Noelle pregunta por Asta.
 T462 · Black Clover · Templo · Se presenta. Noelle corre al oeste. Kahono y Kiato van detrás, hacia Vetto.
 T463 · Black Clover · Templo · Salón oeste: Vetto con tercer ojo salta sobre Kahono y Kiato.
+T464 · Black Clover · Templo · Ultra Instinto Dominado: derriba a Vetto de un golpe. Kahono y Kiato intactos. MISIÓN DE MUNDO CUMPLIDA. NIVEL 26.

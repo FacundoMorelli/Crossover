@@ -1,13 +1,13 @@
 {
-  "turno": 463,
+  "turno": 464,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
   "hora": "22:01",
   "edad": 18,
-  "nivel": 25,
-  "exp": 187390,
-  "exp_siguiente_nivel": 195000,
-  "fragmentos": 173310,
+  "nivel": 26,
+  "exp": 197390,
+  "exp_siguiente_nivel": 215000,
+  "fragmentos": 173660,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -40,18 +40,18 @@
       "cambio": "1 Fragmento = 10.000 yul (fijado T450)"
     }
   },
-  "puntos_de_stat_sin_asignar": 135,
+  "puntos_de_stat_sin_asignar": 140,
   "stats": {
-    "fuerza": 238,
-    "velocidad": 241,
-    "resistencia": 238,
-    "tecnica": 241,
-    "percepcion": 239,
-    "voluntad": 239,
-    "energia": 240,
-    "control": 239
+    "fuerza": 239,
+    "velocidad": 242,
+    "resistencia": 239,
+    "tecnica": 242,
+    "percepcion": 240,
+    "voluntad": 240,
+    "energia": 241,
+    "control": 240
   },
-  "energia_actual_pct": 55,
+  "energia_actual_pct": 53,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1085,6 +1085,13 @@
       "turno": 457,
       "fragmentos": 5,
       "exp": 100
+    },
+    {
+      "mundo": "blackclover",
+      "quien": "Vetto 'la Desesperación' (Tercer Ojo): un golpe de palma en Ultra Instinto Dominado lo atraviesa por tres paredes; vivo, destrozado, inconsciente",
+      "turno": 464,
+      "fragmentos": 150,
+      "exp": 2000
     }
   ],
   "viaje": {
@@ -1101,7 +1108,8 @@
       "bleach",
       "dragonball",
       "onepiece",
-      "shingeki"
+      "shingeki",
+      "blackclover"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -1110,7 +1118,7 @@
       "recompensa": "8.000 EXP · 200 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa"
+      "estado": "CUMPLIDA (T464)"
     },
     "relojes": {
       "jujutsu": {
