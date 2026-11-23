@@ -612,3 +612,4 @@ T610 · One Piece · Katorea · Robin admite que sabía. Vivi le pega y la acept
 T611 · One Piece · Arabasta · Simula: verdad pública, Crocodile preso, lluvia, banquete. Robin lee la piedra. Vivi se queda. Despedida en el acantilado.
 T612 · One Piece · Going Merry · Despedida de Vivi con los brazos en alto.
 T613 · One Piece · Going Merry · Llama a Sanji.
+T614 · One Piece · Going Merry · Banquete de Sanji. Robin se sienta al lado de Facundo.
