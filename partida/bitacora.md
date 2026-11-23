@@ -658,3 +658,4 @@ T656 · One Piece · altar · Shura: los ilegales no salen vivos. Nota que no "e
 T657 · One Piece · altar · Detiene la lanza de Shura con la mano. Shura huye a distancia. Misión de copia: Mantra.
 T658 · One Piece · altar · Shura falla tres veces en leerlo. Copia Mantra. Shura huye.
 T659 · One Piece · altar · Haki de observación al máximo (instrucción del jugador). Oye a Enel.
+T660 · One Piece · Upper Yard · Simula: llegan todos al altar al anochecer. Satori derrotado. Gan Fall.

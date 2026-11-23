@@ -11,3 +11,4 @@ ENCUENTROS:
 ESTADO: activa
 - T651 · Se emociona con los visitantes. Mira la selva con miedo un segundo.
 - T653 · Llora y confiesa que le ordenaron llevarlos al "Puerto Sagrado".
+- T660 · Decide ayudarlos; les presta un bote. Vuelve a su casa.

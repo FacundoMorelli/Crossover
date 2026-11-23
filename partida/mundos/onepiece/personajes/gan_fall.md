@@ -10,3 +10,4 @@ ENCUENTROS:
 - T647 · Llega montado en Pierre; frena al enmascarado; da un silbato.
 ESTADO: activo
 - T648 · Advierte del dios nuevo. Se va.
+- T660 · Llega al altar: "Satori cayó. El dios ya sabe que están aquí."

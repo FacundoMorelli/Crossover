@@ -72,3 +72,4 @@
 - 15:50 · (T653) Los Boinas Blancas noqueados: criminales de categoría 2. Conis confiesa. El langostino arrastra el Merry con Chopper hacia el altar del Upper Yard (canon, con variantes).
 - 15:53 · (T654) El Merry queda en el Altar del Sacrificio del Upper Yard con Chopper y Facundo.
 - 17:10 · (T655) Shura, sacerdote del Cielo, llega al altar (canon: atacaba a Chopper y a Gan Fall).
+- 17:15-19:40 · (T660) Conis ayuda a la tripulación. Luffy, Sanji y Usopp derrotan a Satori (Prueba de las Bolas, canon). Toda la tripulación y Gan Fall llegan al altar.
