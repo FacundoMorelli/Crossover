@@ -1,16 +1,16 @@
-TURNO: 638 | MUNDO: One Piece | Día 26 (Grand Line) | HORA: 18:02 | Lugar: Jaya, costa este, casa de Cricket
+TURNO: 639 | MUNDO: One Piece | Día 26 (Grand Line) | HORA: 23:40 | Lugar: Jaya, costa este, playa de Cricket
 MOMENTO DEL CANON: Arco de Jaya (cap. ~222): llegada a Mock Town. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 202.640/215.000 · 133.707 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T639: sale a tomar aire a la playa (Cricket se durmió en la silla con la botella; Nami duerme en el Merry; Masira y Shoujou siguen trabajando). Cerca de medianoche, siente kis que se acercan por el mar: dos botes sin luces con veinte hombres. Desembarcan en la punta de la playa. Al frente, risa de hiena: Bellamy. "Escuché que el mentiroso tiene oro de verdad escondido. Y que ahí andan los Sombrero de Paja. Qué noche más divertida."
 - T638: "Te lo prometo, la vamos a hacer sonar." Cricket se ríe con los ojos mojados, choca el vaso otra vez: "Entonces me voy a quedar despierto todas las noches, escuchando." (Fiesta de Shingeki = One Piece Día 50 ~00:30; salir a más tardar el Día 49.)
 - T637: brinda con Cricket. Cricket cuenta: fue pirata, encontró el diario de Noland, dejó todo; Masira y Shoujou lo siguieron; diez años buceando. Una vez dice: "No sé cómo se te ocurrió lo de que voló." No insiste. Le cuenta del diario: Noland escribió que en la ciudad de oro había una campana enorme que sonaba sobre la selva. "Si llegan arriba... háganla sonar. Fuerte. Que la escuche desde aquí abajo."
 - T636: "Yo me quedo; ustedes vayan a buscar al pájaro." Al atardecer, la tripulación entra a la selva en parejas (Luffy y Chopper; Zoro y Robin; Usopp y Sanji); Nami se queda con el Merry y con Masira y Shoujou, que empiezan a reforzarlo. Facundo se queda con Cricket. Cricket, sentado en la puerta de la casita con dos vasos y una botella: "Toma. Brindemos por un mentiroso que no mintió."
 - T635: "Cricket, siempre buceas buscando lo de Noland. ¿Y si siempre buscaste mal y la isla no se hundió? ¿Voló?" Silencio. Robin pone el mapa de Jaya al lado del de Skypiea: la costa cortada de Jaya y un borde de la isla del cielo encajan como dos mitades. Cricket se levanta tambaleando, mira los mapas, se le cae el cigarro. "...La Corriente Ascendente. Hace cuatrocientos años." Se le llenan los ojos: "Noland no mintió."
-- T634: "Porque ahora nos tienes que ayudar a subir a la isla del cielo." Cricket se ríe a carcajadas: "¡Idiotas! ¡Son tan idiotas como yo!" Explica: la Corriente Ascendente (Knock Up Stream), un chorro de mar que sube al cielo, mañana al mediodía, cerca de aquí; los barcos que la toman suelen deshacerse. Masira y Shoujou reforzarán el Merry esta noche. Falta saber dónde: hay que atrapar un pájaro del sur en la selva antes del amanecer; siempre mira al sur y marca la dirección.
-PRESENTES EN ESCENA: Cricket (en la puerta de su casa, con una botella). En la playa: Nami, Masira, Shoujou trabajando en el Merry. El resto, en la selva. Kase en el hombro.
+PRESENTES EN ESCENA: Bellamy, Sarquiss y ~20 piratas (punta de la playa). Cricket dormido en la silla; Masira y Shoujou en el Merry; Nami durmiendo a bordo. El resto en la selva. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

@@ -637,3 +637,4 @@ T635 · One Piece · casa de Cricket · Sugiere que la ciudad de oro voló. Los 
 T636 · One Piece · casa de Cricket · La tripulación va a la selva. Facundo se queda con Cricket, que le ofrece un brindis.
 T637 · One Piece · casa de Cricket · Brindis. Cricket cuenta su historia y pide hacer sonar la campana de oro.
 T638 · One Piece · casa de Cricket · Promete hacer sonar la campana.
+T639 · One Piece · playa de Cricket · Sale a tomar aire. Desembarca Bellamy con su tripulación.
