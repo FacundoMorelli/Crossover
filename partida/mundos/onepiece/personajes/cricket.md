@@ -14,3 +14,4 @@ ESTADO: enfermo
 - T635 · Ve los mapas encajar. "Noland no mintió."
 - T636 · "Brindemos por un mentiroso que no mintió."
 - T637 · Brinda con Facundo. "No sé cómo se te ocurrió." Pide: "Si llegan arriba, hagan sonar la campana."
+- T638 · Facundo promete hacer sonar la campana. "Me voy a quedar despierto todas las noches, escuchando."

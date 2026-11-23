@@ -1,8 +1,8 @@
 {
-  "turno": 637,
+  "turno": 638,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 26 (Grand Line, Jaya)",
-  "hora": "18:00",
+  "hora": "18:02",
   "edad": 18,
   "nivel": 26,
   "exp": 202640,
@@ -1365,7 +1365,8 @@
         "corre": "al ritmo de Facundo",
         "salida": "Año 850, Día 4 tras Shiganshina, 12:30 (Mitras). Prometió volver en días o semanas. Corre desde T450.",
         "regreso": "Día 5 tras Shiganshina 21:07 (T489): 1 día y 8 horas y media después de irse (todo en Black Clover)",
-        "segunda_salida": "Día 11 tras Shiganshina 12:33 (Mitras, escalinata). Prometió volver antes de la fiesta Tybur (día 40, al anochecer). Corre desde T580."
+        "segunda_salida": "Día 11 tras Shiganshina 12:33 (Mitras, escalinata). Prometió volver antes de la fiesta Tybur (día 40, al anochecer). Corre desde T580.",
+        "fiesta_equivalencia": "Fiesta Tybur (Shingeki día 40, anochecer ~19:00) = One Piece Día 50 ~00:30. Salir de One Piece a más tardar el Día 49."
       },
       "blackclover": {
         "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
