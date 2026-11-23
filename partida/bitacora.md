@@ -440,3 +440,4 @@ T438 · Shingeki · Trost · Empieza el interrogatorio de Hange. Pregunta 1: la 
 T439 · Shingeki · Trost · La pared dura varios días. Pregunta 2: el pelo azul.
 T440 · Shingeki · Trost · "Un x2000 mi poder." Pregunta 3: el gato.
 T441 · Shingeki · Trost · "Es un gato normal, somos el uno para el otro." Hange pregunta su nombre.
+T442 · Shingeki · Trost · Le dice el nombre de Kase a Hange. Hange se va. Noche.

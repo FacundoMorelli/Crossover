@@ -31,3 +31,4 @@
 - Los 200 soldados de la Legión · T435 · Vieron/vivieron la Teletransportación de Shiganshina a Trost. Rumor seguro dentro del ejército.
 - Hange, Moblit · T439 · La pared de Shiganshina dura varios días y consume la energía de Facundo.
 - Hange, Moblit · T440 · Facundo les dijo que el pelo azul multiplica su poder por dos mil.
+- Hange, Moblit · T442 · El gato se llama Kase. Es "un gato normal" que está con Facundo hace mucho.
