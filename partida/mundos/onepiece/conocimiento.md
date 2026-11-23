@@ -79,3 +79,4 @@
 - Vivi, Koza, tripulación · T610 · Por Robin: sabía todo; buscaba una piedra antigua bajo Alubarna.
 - Cobra, Chaka, Pell, Igaram · T611 · Facundo llevó a Vivi y Koza al palacio por Teletransportación. Saben del papel de los Sombrero de Paja (y de Facundo) en la caída de Crocodile.
 - Smoker, Tashigi · T611 · Saben que Luffy derrotó a Crocodile (lo encontraron en la calle; testigos). Facundo estaba con él (testigos de Rainbase).
+- Robin · T616 · Facundo dijo, en tono sarcástico, que desaparece "a otro mundo". Robin lo tomó como broma. NO cuenta como saber que viene de otro lado.

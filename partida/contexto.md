@@ -1,15 +1,15 @@
-TURNO: 615 | MUNDO: One Piece | Día 24 (Grand Line) | HORA: 11:02 | Lugar: Going Merry, mar abierto, alejándose de Arabasta
+TURNO: 616 | MUNDO: One Piece | Día 24 (Grand Line) | HORA: 11:03 | Lugar: Going Merry, mar abierto, alejándose de Arabasta
 MOMENTO DEL CANON: Fin del arco de Arabasta (cap. ~216-217 alterado): despedida de Vivi. Crocodile preso; la rebelión terminó sin batalla. Robin en la tripulación. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 202.640/215.000 · 173.707 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T616: "A otro mundo." (sarcástico). Robin se ríe: "Claro. Y yo vengo de la luna." Le sigue el juego: "Entonces, la próxima vez, tráeme un libro de tu otro mundo." Vuelve a su plato.
 - T615: "La verdad no estuve mucho con ellos, desaparecí once días; pero sí, mayormente sí." Robin se ríe bajo: "Desapareces once días, apareces en el despacho de Crocodile, y te sientas a comer como si nada." Pregunta una sola vez, ligera: "¿Y adónde vas cuando desapareces?"
 - T614: "La comida para Luffy. Tiene hambre." Sanji: "Ya sé." Cocina un banquete en cubierta. Luffy come y vuelve a reírse; la tripulación se anima. Usopp hace un brindis por Vivi. Robin se sienta al lado de Facundo con un plato que Sanji le sirvió con flores: "¿Siempre son así?"
 - T613: "Sanji." Sanji, con los ojos todavía rojos, se da vuelta desde la baranda y espera.
 - T612: se despiden de Vivi. Vivi: no puede ir con ellos; ama a su país; "si algún día nos volvemos a ver, ¿me van a llamar compañera otra vez?" Nadie responde en voz alta (la Marina escucha). Todos levantan el brazo izquierdo en silencio, Facundo incluido; Kase levanta la cola. Vivi llora y levanta el brazo. El Merry se aleja; el acantilado se hace chico.
-- T611: "Sí." Simula. Día 21: Koza lee los documentos al ejército al amanecer; Facundo lleva a Vivi y Koza al palacio; Cobra escucha todo (con Chaka, Pell e Igaram vivo); al mediodía el rey y Koza hablan juntos en la plaza de Alubarna; el depósito de Polvo de Baile se abre ante el pueblo; Chaka desarma el cañón de la torre del reloj y arresta a Mr. 7. Smoker se lleva a Crocodile; el Gobierno le da el mérito, Smoker lo rechaza furioso. Mr. 1 y Miss Doublefinger presos; Mr. 2 escapa. Noche: Cobra deja a Robin leer la piedra de la tumba real; no es lo que busca; se lo dice al rey sin mentir. Día 22: llueve en todo Arabasta por primera vez en tres años. Días 22-23: banquete en el palacio. Vivi decide quedarse. Día 24 10:00: zarpan por la costa este; la flota de la capitana Hina cerca. En un acantilado, Vivi con Carue y un caracol altavoz: "¡¡¡Vine a despedirme!!!"
 PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin (cubierta del Going Merry). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin) (OP).

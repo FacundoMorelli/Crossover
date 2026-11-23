@@ -23,3 +23,4 @@ ESTADO: activa
 - T611 · Lee la piedra de la tumba real con permiso de Cobra; no es lo que busca. Se lo dice al rey sin mentir. Sube al Merry.
 - T614 · Primer almuerzo en el Merry, al lado de Facundo. "¿Siempre son así?"
 - T615 · "¿Y adónde vas cuando desapareces?" (pregunta una vez).
+- T616 · "Claro. Y yo vengo de la luna." "La próxima vez, tráeme un libro de tu otro mundo."

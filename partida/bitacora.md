@@ -614,3 +614,4 @@ T612 · One Piece · Going Merry · Despedida de Vivi con los brazos en alto.
 T613 · One Piece · Going Merry · Llama a Sanji.
 T614 · One Piece · Going Merry · Banquete de Sanji. Robin se sienta al lado de Facundo.
 T615 · One Piece · Going Merry · Charla con Robin. Ella pregunta adónde va cuando desaparece.
+T616 · One Piece · Going Merry · "A otro mundo" (sarcasmo). Robin: "tráeme un libro de tu otro mundo".
