@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: desconfianza.
 ENCUENTROS:
 - T632 · Emerge del mar, ataca, se desploma por la enfermedad del buzo.
 ESTADO: enfermo
+- T633 · Facundo y Chopper lo llevan adentro. Despierta: "¿Por qué me ayudaron? Les pegué una patada."

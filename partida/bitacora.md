@@ -631,3 +631,4 @@ T629 · One Piece · Mock Town, taberna · Pregunta quién es al de la barba neg
 T630 · One Piece · Mock Town · Compra 100 semillas del ermitaño; cura a Luffy y Zoro. Robin: Montblanc Cricket.
 T631 · One Piece · Going Merry · Relaciona Montblanc con Noland. Sanji cuenta el cuento. Luffy quiere ir.
 T632 · One Piece · Jaya, casa de Cricket · Llegan. Cricket emerge del mar, los ataca y se desploma por la enfermedad del buzo.
+T633 · One Piece · casa de Cricket · Ayuda a Chopper. Llegan Masira y Shoujou. Cricket despierta.

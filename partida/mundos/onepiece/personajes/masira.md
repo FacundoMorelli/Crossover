@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: nada.
 ESTADO: activo
 - T624 · Facundo le saca el galeón de las manos con el mar. "¡¿Qué fue ese mar que se mueve solo?!"
 - T625 · "¡Piratas que regalan barcos hundidos! ¡Me caen bien!" RELACIÓN: simpatía.
+- T633 · Llega a la casa de Cricket; reconoce a los piratas que le regalaron el galeón.
