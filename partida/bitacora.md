@@ -453,3 +453,4 @@ T451 · Black Clover · Templo · Entra a la sala de Gifso y Yami. Gifso no pued
 T452 · Black Clover · Templo · Pregunta dónde está y por Kiato y Kahono. Gifso son sus nietos. Yami pregunta para qué.
 T453 · Black Clover · Templo · Irrumpe Vetto. Yami y Gifso encerrados por Abari; Facundo afuera. Yami le pide cuidar a los Toros Negros.
 T454 · Black Clover · Templo · Rompe la esfera de Abari con una ráfaga de ki. Yami libre; Abari inconsciente.
+T455 · Black Clover · Templo · Llegan con Yami a Vetto. Yami lo quiere para él; pide que Facundo cuide a los demás.
