@@ -61,3 +61,4 @@
 - Facundo · T509 · Por Zeke: costa sin vigilancia al sur del puerto de Liberio.
 - Historia · T511 · Por Erwin: legajo de Zeke, plan del emisario (Facundo, Eren, Zeke, Levi, Mikasa; volando, mañana).
 - Historia, guardias del despacho · T511 · Ven a Facundo y Erwin aparecer de la nada en el despacho.
+- Historia, Erwin · T512 · Por Facundo (fuente: Pieck): Ymir estaba en Marley para ser devorada por Porco Galliard (Mandíbula); probablemente ya pasó.
