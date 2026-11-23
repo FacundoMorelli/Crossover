@@ -78,3 +78,4 @@
 - 08:25 · (T666) La tripulación se divide en el Upper Yard. Aparece la serpiente gigante Nola (canon).
 - 08:50 · (T669) Facundo, Luffy y Robin llegan a las ruinas de Shandora montados en Nola. Poneglyph a la vista.
 - 09:05 · (T670) Robin lee el Poneglyph de Shandora y la inscripción de Roger (canon). Enel aparece (canon).
+- 09:12 · (T672) Luffy vs Enel en Shandora: el rayo no le hace nada (canon: en el arca). Enel ataca a Robin.
