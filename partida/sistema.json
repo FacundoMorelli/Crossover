@@ -1,8 +1,8 @@
 {
-  "turno": 554,
+  "turno": 555,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850 · Día 10 tras Shiganshina",
-  "hora": "08:00",
+  "hora": "08:02",
   "edad": 18,
   "nivel": 26,
   "exp": 199640,
@@ -371,7 +371,7 @@
     },
     {
       "objeto": "Documentos de ciudadano marleyano",
-      "detalle": "Libreta de identidad con sello del Estado: 'Facundo Morelli, ciudadano marleyano, nacido en la colonia de Hizuru Sur... (de las colonias del sur)'. Comprados T548.",
+      "detalle": "Libreta de identidad con sello del Estado: \"Facundo Morelli, ciudadano marleyano, nacido en las colonias del sur. Asesor civil.\" Comprados T548.",
       "mundo": "shingeki"
     },
     {

@@ -553,3 +553,4 @@ T551 · Shingeki · Liberio, despacho de Magath · Avisa de Muller. Magath propo
 T552 · Shingeki · Liberio, casa segura · Simula hasta la mañana del día 10. Zeke da consejos de burócrata. Levi: "Pareces un sicario."
 T553 · Shingeki · Liberio, casa segura · Se pone traje de burócrata marleyano.
 T554 · Shingeki · Liberio, despacho de Magath · Muller entra y le pregunta de qué colonia es.
+T555 · Shingeki · Liberio, despacho de Magath · Dice "Hizuru Sur"; Muller lo corrige; Magath lo cubre. Muller pregunta quién más está en la casa.

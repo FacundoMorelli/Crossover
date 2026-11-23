@@ -103,3 +103,4 @@
 - Magath · T551 · Por Facundo: patrulla de Muller en el 14, documentos de "Facundo Morelli, asesor civil, colonias del sur", anotación del sargento (hoja quemada).
 - Levi, Eren, Mikasa, Zeke · T552 · Plan de Magath: Facundo como "asesor civil" ante Muller a las 8.
 - Coronel Muller · T554 · Ve al "asesor civil Facundo Morelli" en el despacho de Magath, de traje, con el gato. Por su sargento: extranjero en la casa del 14, "¿más personas?".
+- Muller · T555 · Facundo dijo "colonia de Hizuru Sur"; Muller sabe que Hizuru es un país. Magath lo cubre (madre de Hizuru, nacido en la frontera sur). Muller lo anota.

@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: informe oral del sargento (extranjero, pelo de dos colores, gato, casa del 14, "¿más personas?").
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+- T555 · "Hizuru no es una colonia de Marley." Anota. "¿Quiénes más se alojan en esa casa?"
