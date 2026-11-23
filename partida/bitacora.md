@@ -578,3 +578,4 @@ T576 · Shingeki · Wall Maria · Nadie lo grabó. Hange quiere otro kilómetro;
 T577 · Shingeki · Mitras, patio del palacio · Avisa que se va unos días o semanas y vuelve antes de la fiesta.
 T578 · Shingeki · Mitras, escalinata · Oscurece todo y coquetea con Ymir. Ymir: "Primero vuelve vivo. Después hablamos."
 T579 · Shingeki · Mitras, escalinata · La acerca a un palmo. Ymir: "Te dije después." No le suelta la mano enseguida.
+T580 · Shingeki → One Piece · Se despide en Mitras y vuelve a One Piece. Bodega del Going Merry, cala de Nanohana. Chopper lo ve salir de la puerta.

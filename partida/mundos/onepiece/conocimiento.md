@@ -43,3 +43,6 @@
 - Luffy, Zoro, Sanji, Nami, Usopp · T392 · Facundo apareció de la nada al lado de Luffy en el muelle.
 - Sombrero de Paja · T393 · Sueño de Facundo: recorrer todo el mundo.
 - Miss Wednesday y Mr. 9 · T395 · Reconocen a Facundo por el cartel público (26M). Lo informarán en Whisky Peak (Baroque Works caza recompensas).
+- Vivi, Chopper, Carue · días 9-20 (T580) · Por la tripulación: Facundo es tripulante, se fue y prometió volver; tiene cartel de 26M, "Ojos de Eclipse", un gato con los mismos ojos. Vivi ya lo conocía por el cartel.
+- Baroque Works · días 9-10 (T580) · Miss Wednesday reportó en Whisky Peak que "Ojos de Eclipse" viaja con los Sombrero de Paja (antes de revelarse).
+- Chopper · T580 · Ve a Facundo y Kase salir de una puerta de luz en la bodega.
