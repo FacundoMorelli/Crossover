@@ -587,3 +587,4 @@ T585 · One Piece · Going Merry · Lleva a Luffy al barco. Zoro despierta. Sanj
 T586 · One Piece · salida de la cala · Zarpan. Marina cierra la salida y dispara. Ace se acerca en el Striker.
 T587 · One Piece · mar · Devuelve la bala con la Luna; el barco de la Marina queda dañado. Ace sube a bordo.
 T588 · One Piece · mar · Vivi le explica Arabasta, Baroque Works y Crocodile. Luffy quiere ir por Crocodile.
+T589 · One Piece · mar · Ofrece llevarlos volando. Vivi pide ir a Yuba esta noche.

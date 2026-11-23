@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: aparición de la nada.
 ESTADO: activo
 - T584 · Reverencia: "Portgas D. Ace, hermano mayor de este. Gracias por cuidarlo." Frena a Smoker. "¡Váyanse!"
 - T587 · Sube al Merry. "¿Eso fue tuyo? Interesante."
+- T589 · Tiene que ir tras Barbanegra; antes quiere hablar con Luffy.
