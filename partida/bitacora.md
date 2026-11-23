@@ -577,3 +577,4 @@ T575 · Shingeki · Wall Maria · El Eclipse se traga 1 km de Wall Maria con sus
 T576 · Shingeki · Wall Maria · Nadie lo grabó. Hange quiere otro kilómetro; Zackly dice que no.
 T577 · Shingeki · Mitras, patio del palacio · Avisa que se va unos días o semanas y vuelve antes de la fiesta.
 T578 · Shingeki · Mitras, escalinata · Oscurece todo y coquetea con Ymir. Ymir: "Primero vuelve vivo. Después hablamos."
+T579 · Shingeki · Mitras, escalinata · La acerca a un palmo. Ymir: "Te dije después." No le suelta la mano enseguida.

@@ -19,3 +19,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T572 · "¿Me quieres tener cerca?" "Ni en tus sueños, lindo. Te quiero cerca para que no te pierdas y Historia no llore." Roja.
 - T577 · "¿Ya te vas, lindo? Qué poco duras."
 - T578 · Dentro de la sombra: "¿Quieres ver cuánto duro, linda?" Roja. Le pone la manzana en la boca y se escurre: "Primero vuelve vivo de donde te vayas, lindo. Después hablamos."
+- T579 · A un palmo de su cara. Golpecito en la frente: "Te dije después. Y no con la reina a cinco metros." Tarda en soltarle la mano.
