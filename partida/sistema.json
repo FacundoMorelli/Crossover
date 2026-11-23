@@ -1,8 +1,8 @@
 {
-  "turno": 476,
+  "turno": 477,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · día siguiente a la luna llena",
-  "hora": "18:30",
+  "hora": "18:32",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -549,6 +549,18 @@
         "Sentir el ki/las intenciones sin maná",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Magia de Viento y Magia de Espíritu",
+      "de": "Yuno",
+      "mundo": "blackclover",
+      "cuando": "T477 (Yuno: 'entonces también eres el mío')",
+      "incluye": [
+        "Magia de Viento completa (Lanza Vendaval, Tormenta, vuelo, todo lo que Yuno llega a dominar)",
+        "Magia de Espíritu: poder canalizar un espíritu elemental si alguno lo acepta (Sylph no viene: es un ser)",
+        "Si el espíritu falta, el Sistema da el poder de 'Revestimiento del Espíritu' como poder propio de viento",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -733,13 +745,6 @@
       "mision": "Que Noelle admita, con sus palabras, que la ayudaste.",
       "dificultad": "MEDIA",
       "emitida": "T461"
-    },
-    {
-      "poder": "Yuno: Magia de Viento y Magia de Espíritu (el espíritu del viento no viene: es un ser; viene el poder de usar uno)",
-      "mundo": "blackclover",
-      "mision": "Que Yuno te reconozca como rival de Asta... y de él.",
-      "dificultad": "ALTA",
-      "emitida": "T476"
     },
     {
       "poder": "William Vangeance: Magia de Árbol Mundial",

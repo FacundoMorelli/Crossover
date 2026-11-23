@@ -7,3 +7,4 @@ ENCUENTROS:
 - T476 · se acerca a Facundo: "Asta dice que eres su rival. ¿Es cierto?"
 QUÉ SABE DE FACUNDO: lo que le dijo Asta.
 ESTADO: activo
+- T477 · "Entonces también eres el mío." (rival)
