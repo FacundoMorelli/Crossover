@@ -1,8 +1,8 @@
 {
-  "turno": 595,
+  "turno": 596,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "19:55",
+  "hora": "19:56",
   "edad": 18,
   "nivel": 26,
   "exp": 201140,
@@ -388,6 +388,11 @@
       "objeto": "Fotos de Liberio (en la cámara)",
       "detalle": "Paréntesis del jugador T569: el océano y el acorazado desde arriba; Liberio desde los acantilados (chimeneas, puerto, dirigible); el tranvía y la avenida; los carteles de propaganda ('LOS DEMONIOS DE LA ISLA NO DESCANSAN'); el alambrado y la zona de internamiento de noche; la ventana de la mujer cosiendo brazaletes.",
       "mundo": "shingeki"
+    },
+    {
+      "objeto": "(entregado) Documentos de Baroque Works",
+      "detalle": "Robados del despacho de Crocodile en Rain Dinners (T596) y entregados a Koza: orden de la Operación Utopía con el emblema del cocodrilo; registro de cargamentos de Polvo de Baile (fechas, barcos, depósitos del palacio); lista de agentes con números; plano de Alubarna.",
+      "mundo": "onepiece"
     }
   ],
   "copias": [
@@ -1547,7 +1552,8 @@
     "shingeki_ymir": "T528: Ymir SIGUE VIVA. Encerrada en el centro de investigación de titanes del puerto norte de Liberio, sedada y encadenada en una celda profunda. Marley adelantó la herencia del Mandíbula a Porco Galliard por la pérdida de los cuatro guerreros: la ceremonia (inyección + que Porco la devore) está fijada para dentro de 2 días (día 9, al amanecer).",
     "shingeki_martillo": "T528: la segunda energía de titán que siente Facundo en la mansión Tybur es Lara Tybur, portadora del Martillo de Guerra. Facundo no sabe qué es.",
     "onepiece_ausencia": "T580: durante la ausencia (días 9-20) pasó el canon: Whisky Peak (Vivi se revela; Zoro contra 100 cazarrecompensas; Mr.5 y Miss Valentine), Little Garden (Dorry y Brogy; Mr.3; Nami picada), Drum (Chopper se une; Wapol derrotado; Ace avisó), viaje a Arabasta. Día 20 tarde: Nanohana. Baroque Works también busca a \"Ojos de Eclipse\" (Miss Wednesday lo reportó antes de revelarse). Vivi sabe que Facundo es tripulante ausente.",
-    "onepiece_rebeldes": "T591: el ejército rebelde ya NO está en Yuba (canon: se movió a Katorea). En Yuba solo queda Toto (padre de Koza), cavando. Crocodile en Rainbase (casino Rain Dinners)."
+    "onepiece_rebeldes": "T591: el ejército rebelde ya NO está en Yuba (canon: se movió a Katorea). En Yuba solo queda Toto (padre de Koza), cavando. Crocodile en Rainbase (casino Rain Dinners).",
+    "onepiece_documentos": "T596: Crocodile va a notar la falta de los documentos de su despacho en Rain Dinners (Operación Utopía) en unas horas. Sospechará de un traidor interno (Miss All Sunday incluida) o de Vivi. Acelerará los planes."
   },
   "recompensa_onepiece": {
     "monto": 26000000,

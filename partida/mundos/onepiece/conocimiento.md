@@ -61,3 +61,5 @@
 - Vivi, Luffy, Sanji, Zoro, Nami, Usopp, Chopper, Ace · T592 · Por Facundo: el ejército rebelde ya no está en Yuba. Vivi deduce Katorea por el mapa.
 - Centinelas rebeldes de Katorea · T594 · Ven aparecer de la nada a seis figuras y un pato; uno reconoce a la princesa Vivi.
 - Koza, lugartenientes, rebeldes · T595 · Por Vivi: Crocodile es Mr. 0, jefe de Baroque Works; el Polvo de Baile lo planta Baroque Works. Ven a la princesa con piratas (Luffy, Zoro, Sanji, Facundo).
+- Koza, lugartenientes, rebeldes cercanos, Vivi, Luffy, Sanji, Zoro · T596 · Facundo desaparece y vuelve a los 18 segundos con documentos de Baroque Works: Operación Utopía con el emblema de Crocodile, registro del Polvo de Baile, lista de agentes, plano de Alubarna. Dice que los trajo de la base de Crocodile.
+- Crocodile, Miss All Sunday · T596 · No vieron nada (todavía no saben que faltan los papeles).
