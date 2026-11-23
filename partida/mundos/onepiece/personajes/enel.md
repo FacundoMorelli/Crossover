@@ -17,3 +17,4 @@ ESTADO: activo
 - T675 · "¿Agua de mar? Estás a diez mil metros sobre el mar azul." Recupera la sonrisa y se levanta.
 - T676 · Huye de Luffy al arca Maxim. "¡Borraré esta isla desde el cielo!"
 - T677 · "¡¿Aquí también?!" Anuncia el Raigo.
+- T678 · Vencido por Luffy (Ougon Rifle). "Moriremos todos..." ESTADO: vencido.

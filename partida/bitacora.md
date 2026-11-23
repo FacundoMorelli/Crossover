@@ -676,3 +676,4 @@ T674 · One Piece · Shandora · Recibe a quemarropa los 200 millones de voltios
 T675 · One Piece · Shandora · Busca agua de mar con la Shio Shio: no hay en el cielo. Enel se ríe.
 T676 · One Piece · Shandora · Luffy pelea con Enel. Enel huye al arca Maxim y amenaza con borrar Skypiea.
 T677 · One Piece · arca Maxim · Se teletransporta con Luffy al arca. Enel anuncia el Raigo.
+T678 · One Piece · arca Maxim · Luffy vence a Enel con la bola de oro. El Raigo sigue cayendo.
