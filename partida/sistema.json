@@ -1,8 +1,8 @@
 {
-  "turno": 678,
+  "turno": 679,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 28 (Grand Line, Skypiea)",
-  "hora": "09:30",
+  "hora": "09:31",
   "edad": 18,
   "nivel": 26,
   "exp": 206640,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 65,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

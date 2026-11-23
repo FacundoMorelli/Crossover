@@ -81,3 +81,4 @@
 - 09:12 · (T672) Luffy vs Enel en Shandora: el rayo no le hace nada (canon: en el arca). Enel ataca a Robin.
 - 09:20 · (T676) Enel huye al arca Maxim (canon, antes de tiempo). Nubes de tormenta sobre Skypiea.
 - 09:30 · (T678) Luffy vence a Enel con el Ougon Rifle en la cubierta del arca (canon, con variantes). El Raigo sigue cayendo.
+- 09:31 · (T679) Facundo se traga el Raigo con el Eclipse. Skypiea se salva. Aparece la campana de oro en la nube superior (canon: Luffy rompía el Raigo).

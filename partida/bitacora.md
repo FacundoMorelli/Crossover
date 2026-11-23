@@ -677,3 +677,4 @@ T675 · One Piece · Shandora · Busca agua de mar con la Shio Shio: no hay en e
 T676 · One Piece · Shandora · Luffy pelea con Enel. Enel huye al arca Maxim y amenaza con borrar Skypiea.
 T677 · One Piece · arca Maxim · Se teletransporta con Luffy al arca. Enel anuncia el Raigo.
 T678 · One Piece · arca Maxim · Luffy vence a Enel con la bola de oro. El Raigo sigue cayendo.
+T679 · One Piece · arca Maxim · El Eclipse se traga el Raigo. Aparece la campana de oro arriba.

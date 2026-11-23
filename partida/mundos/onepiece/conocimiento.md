@@ -122,3 +122,4 @@
 - Enel, Robin, Luffy, (Nola) · T674 · Enel le pegó a Facundo con 200 millones de voltios a quemarropa y no le hizo nada.
 - Enel · T675 · Facundo dijo que Enel solo tiene una fruta del diablo y buscó agua de mar para comprobarlo; no había.
 - Facundo, Luffy · T677 · Por Enel: la nube es el Raigo; en minutos cae sobre toda Skypiea.
+- Habitantes de Skypiea, shandianos, Boinas Blancas, Gan Fall, tripulación · T679 · Ven desaparecer la nube gigante en un punto negro. No saben quién fue (salvo Luffy, que estaba al lado, y Enel, que se desmayó).

@@ -18,3 +18,4 @@ ESTADO: activo
 - T676 · Huye de Luffy al arca Maxim. "¡Borraré esta isla desde el cielo!"
 - T677 · "¡¿Aquí también?!" Anuncia el Raigo.
 - T678 · Vencido por Luffy (Ougon Rifle). "Moriremos todos..." ESTADO: vencido.
+- T679 · Ve el Raigo tragado por el Eclipse. Se desmaya.
