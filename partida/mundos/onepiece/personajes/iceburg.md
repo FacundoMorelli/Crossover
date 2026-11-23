@@ -10,3 +10,4 @@ ENCUENTROS:
 - T698 · Lee la carta de Kokoro; manda a Kaku a revisar el Merry.
 ESTADO: activo
 - T716 · Baleado por enmascarados; sobrevive. Ve la cara de Robin.
+- T717 · Curado por una semilla sin ver de dónde vino. "Nico Robin..."

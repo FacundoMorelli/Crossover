@@ -1,8 +1,8 @@
 {
-  "turno": 716,
+  "turno": 717,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 34 (Grand Line, Water 7)",
-  "hora": "23:15",
+  "hora": "23:16",
   "edad": 18,
   "nivel": 26,
   "exp": 209640,
@@ -401,8 +401,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 97,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705).",
+      "cantidad": 96,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717).",
       "mundo": "tienda"
     },
     {

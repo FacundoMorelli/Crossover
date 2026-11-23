@@ -142,3 +142,4 @@
 - Facundo · T715 · Siente con el Haki un espíritu en el Merry que dice "quiero llevarlos un poco más lejos". Oye el ataque a Iceburg.
 - Facundo · T716 · Vio a cinco enmascarados balear a Iceburg y buscar algo; reconoció a Robin entre ellos por el ki.
 - Iceburg · T716 · Vio la cara de Robin entre los atacantes.
+- Iceburg, Paulie, carpinteros · T717 · Iceburg se curó al instante tras "algo que le pusieron en la boca, que sabía a poroto". Nadie vio quién.
