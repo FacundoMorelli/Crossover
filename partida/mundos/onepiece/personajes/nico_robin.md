@@ -28,3 +28,4 @@ ESTADO: activa
 - T618 · "Una letra. Con una me alcanza para empezar." Le pasa una pluma.
 - T619 · Aprende la A; deduce que es alfabética. Mano sobre la de Facundo un segundo: "Es el mejor regalo que me hicieron en veinte años."
 - T620 · "Conocerte no fue un regalo. Fue un accidente. Todavía no decidí si de los buenos."
+- T621 · "Trato hecho" (contarle qué dice el libro). Informa que la próxima isla es Jaya.

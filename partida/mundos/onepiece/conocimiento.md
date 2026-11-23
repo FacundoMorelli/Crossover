@@ -82,3 +82,4 @@
 - Robin · T616 · Facundo dijo, en tono sarcástico, que desaparece "a otro mundo". Robin lo tomó como broma. NO cuenta como saber que viene de otro lado.
 - Robin · T617 · Tiene un libro en una escritura que no conoce, con grabados de gigantes y murallas, regalo de Facundo. Lo cree un libro de un lugar muy lejano o antiguo; no sabe que es de otro mundo (Facundo no lo dijo en serio).
 - Robin · T618 · Facundo sabe leer la escritura del libro.
+- Facundo, tripulación · T621 · Por Robin: la próxima isla es Jaya (Mock Town), isla de piratas.
