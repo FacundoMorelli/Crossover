@@ -40,3 +40,4 @@ ESTADO: activa
 - T683 · Pasa la fiesta con Gan Fall y el Poneglyph; la segunda noche se duerme otra vez en el hombro de Facundo.
 - T687 · Se queda helada ante Aokiji.
 - T688 · Facundo le devuelve el libro con la mano en el hombro.
+- T690 · Facundo se pone delante y queda congelado por ella. Grita su nombre.

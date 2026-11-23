@@ -1,12 +1,12 @@
-TURNO: 689 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 17:22 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
+TURNO: 690 | MUNDO: One Piece | Día 31 (Grand Line) | HORA: 17:22 | Lugar: Long Ring Long Land, pradera junto a la casa de Tonjit
 MOMENTO DEL CANON: Long Ring Long Land (cap. ~319-321): llega el almirante Aokiji. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 206.640/215.000 · 133.687 Fragmentos · 1.000.000 berries · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T690: se pone delante de Robin y deja que lo congele. El hielo lo cubre entero, de los pies a la cabeza, con Kase incluido: una estatua de hielo azul en medio de la pradera. Robin, detrás, intacta, grita su nombre. Luffy, Zoro y Sanji se lanzan contra Aokiji; él los esquiva sin mirarlos. Aokiji mira la estatua: "Qué desperdicio. Tenías buen corazón." Se acerca, levanta el pie: "Si se rompe, se muere."
 - T689: "No, eso no va a pasar, porque Luffy va a ser el Rey de los Piratas." Luffy: "¡Eso!" Aokiji se queda mirando a Facundo, después a Luffy, y suspira: "Igual a su abuelo..." (lo dice bajo). "Pensaba irme a dormir. Pero hay algo que tengo que hacer, aunque me dé pereza." El pasto alrededor de sus pies se cubre de escarcha. Mira a Robin: "Perdóname, Nico Robin." Extiende la mano hacia ella; el aire se congela entre los dos.
-- T688: le apoya una mano en el hombro a Robin, levanta el libro y se lo devuelve. Robin lo agarra; le tiembla la mano; se recupera un poco. Aokiji se pone de pie (casi tres metros), mira la mano en el hombro de Robin y a Facundo: "Y tú debes ser Ojos de Eclipse. Smoker escribió un informe larguísimo sobre ti." Llega corriendo la tripulación; Zoro y Sanji se ponen delante. Aokiji levanta las manos: "Tranquilos. Solo pasaba." Mira a Robin: "Pero les doy un consejo gratis: todas las organizaciones que esa mujer tocó en veinte años desaparecieron. Todas."
 PRESENTES EN ESCENA: toda la tripulación, Tonjit, Aokiji (acostado en el pasto, levantándose). Foxy y su tripulación se fueron. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel) (OP).
