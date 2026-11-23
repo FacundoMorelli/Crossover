@@ -446,3 +446,4 @@ T444 · Shingeki · Mitras · "Nada y nada." Historia pregunta por qué lo hizo.
 T445 · Shingeki · Mitras · Dice que vino con una misión. Zackly lo declara aliado de la Corona. Historia le agradece.
 T446 · Shingeki · Mitras · Agradece a Historia. Erwin pregunta si se queda o se va.
 T447 · Shingeki · Mitras · Dice que se va sin saber cuándo vuelve. Hange pide una imagen del lugar adonde vaya.
+T448 · Shingeki · Mitras · Promete la imagen. Erwin: la pared ya no hace falta.
