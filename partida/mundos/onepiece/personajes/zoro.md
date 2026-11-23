@@ -20,3 +20,4 @@ DIÁLOGO T356: "¿Y tú quién demonios eres?"
 - T388 · Camina con Facundo. Le pregunta por las dos espadas de Arlong Park: "Algún día quiero verlas en serio."
 - T585 · Despierta en cubierta. "Volviste." Vuelve a cerrar un ojo.
 - T608 · Desenvaina a medias ante Robin: "¿Qué hace la socia del cocodrilo aquí?"
+- T609 · Envaina. "Si el capitán lo dice. Pero la voy a vigilar."

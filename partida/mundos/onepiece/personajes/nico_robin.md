@@ -18,3 +18,4 @@ ESTADO: activa
 - T604 · "Hace veinte años que nadie me invita a ningún lado." "¿A tu lado? Qué rápido vas." "Si tu capitán gana esta noche... lo voy a pensar."
 - T605 · Ve ganar a Luffy. Se lleva la mano a la boca cuando cae envenenado.
 - T607 · Se presenta a Luffy. Acepta unirse: "Entonces voy con ustedes. Hasta que me canse." AFILIACIÓN NUEVA: Sombrero de Paja.
+- T609 · A Zoro: "Me parece justo, espadachín." Vivi la enfrenta.

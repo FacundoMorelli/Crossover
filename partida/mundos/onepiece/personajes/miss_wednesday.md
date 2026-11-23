@@ -12,3 +12,4 @@ ESTADO: activa
 - T588 · Le explica a Facundo la situación de Arabasta y Crocodile.
 - T592 · "Katorea... a un día de Alubarna." Pide ir a Katorea, con Koza.
 - T608 · Se entera de que Crocodile cayó. Se tapa la cara y llora.
+- T609 · Enfrenta a Robin: "Tú sabías todo."
