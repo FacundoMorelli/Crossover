@@ -654,3 +654,4 @@ T652 · One Piece · casa de Conis · Comida; Pagaya explica diales, Upper Yard 
 T653 · One Piece · Isla del Ángel · Zoro y Sanji tiran a los Boinas Blancas. Conis confiesa. El langostino se lleva el Merry con Chopper al Upper Yard.
 T654 · One Piece · Upper Yard · Con Chopper en el Merry sobre el altar. Siente a los sacerdotes y al dios.
 T655 · One Piece · Upper Yard, altar · Exploran el altar con Chopper. Llega Shura en su pájaro.
+T656 · One Piece · altar · Shura: los ilegales no salen vivos. Nota que no "escucha" a Facundo con el Mantra. Carga contra Chopper.

@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: hostil.
 ENCUENTROS:
 - T655 · Llega al altar en Fuzaki.
 ESTADO: activo
+- T656 · "Los ilegales no salen vivos." "No te escucho por dentro." Carga contra Chopper.

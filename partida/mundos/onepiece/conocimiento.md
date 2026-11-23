@@ -105,3 +105,4 @@
 - Boinas Blancas (McKinley) · T652 · Saben del registro de Amazon: ocho ilegales y un gato.
 - Enel · T654 · Con el Mantra escucha que llegó el barco al altar y que hay alguien más que no estaba (Facundo). No puede leerle la mente (Velo).
 - Facundo · T654 · Siente cuatro kis fuertes en la selva y uno enorme, eléctrico, en lo alto del árbol más grande.
+- Shura · T656 · Con el Mantra no puede "escuchar" a Facundo (Velo). Lo nota y lo dice.
