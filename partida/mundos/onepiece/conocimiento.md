@@ -133,3 +133,4 @@
 - Lucci, Kalifa · T699 · Facundo notó la velocidad de Kaku. Kalifa lo anota.
 - Tripulación (Luffy, Nami, Usopp, Facundo) · T700 · Por Kaku: la quilla del Merry está partida; no tiene arreglo.
 - Facundo · T701 · Oye con el Haki el ataque a Usopp en un callejón.
+- Familia Franky (los que huyeron) → Franky · T704 · Un tipo de pelo blanco y azul con un gato y un aura plateada esquivó a quince sin moverse, y se noquearon entre ellos. Defendía al narizón de las maletas.

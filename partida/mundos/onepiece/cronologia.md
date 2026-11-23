@@ -94,3 +94,4 @@
 - 10:30-12:10 · (T698) Cambian el oro por 300M (canon). Dock 1: Iceburg, Kalifa, Paulie, Lucci, Kaku. Robin sale a pasear sola (canon: CP9 la contacta).
 - 13:20 · (T700) Kaku dictamina que el Going Merry no tiene arreglo (canon).
 - 13:45 · (T701) La familia Franky ataca a Usopp en un callejón y le roba 200M (canon).
+- 13:37 · (T704) La familia Franky no logra robar el dinero (canon: robaban 200M). Tres huyen a avisarle a Franky.

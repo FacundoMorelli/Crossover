@@ -1,13 +1,13 @@
-TURNO: 703 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:36 | Lugar: Water 7, callejón cerca del puerto
+TURNO: 704 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 13:37 | Lugar: Water 7, callejón cerca del puerto
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T703: "No puedo dejar que le hagan esto a mi compañero y encima que nos roben. Váyanse antes de que los deje malheridos a todos." Los matones se ríen. El del bate: "¡Somos la familia Franky! ¡Esta ciudad es nuestra!" Mozu y Kiwi se despegan de la pared haciendo crujir los nudillos. Los quince cargan a la vez contra Facundo, con bates y cadenas en alto.
+- T704: activa el Ultra Instinto Dominado y no hace nada: su cuerpo esquiva solo, parado encima de Usopp. Los bates, cadenas y caños se pegan entre ellos; Mozu y Kiwi chocan cabeza contra cabeza. En un minuto, doce matones y las dos hermanas tirados en el callejón, golpeados por sus propios compañeros. Los tres que quedan tiran las armas y huyen: "¡¡¡VAMOS A AVISARLE A FRANKY!!!" Usopp, desde el suelo, con la boca abierta.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
-PRESENTES EN ESCENA: Usopp (en el suelo, golpeado, con las maletas), ~15 matones de la familia Franky, Mozu y Kiwi (callejón). Kase en el hombro.
+PRESENTES EN ESCENA: Usopp (en el suelo, con las dos maletas), doce matones y Mozu y Kiwi noqueados (callejón). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
