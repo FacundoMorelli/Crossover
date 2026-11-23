@@ -1,0 +1,11 @@
+NOMBRE: Shura
+AFILIACIÓN: sacerdotes de Enel
+RANGO: sacerdote, prueba del cielo
+PODER VISTO POR FACUNDO: lanza de fuego (dial), pájaro Fuzaki, Mantra
+EDAD EN ESTE MOMENTO DEL CANON: 37
+FÍSICO: casco, armadura ligera, lanza.
+PERSONALIDAD Y FORMA DE HABLAR: arrogante.
+RELACIÓN CON FACUNDO: hostil.
+ENCUENTROS:
+- T655 · Llega al altar en Fuzaki.
+ESTADO: activo

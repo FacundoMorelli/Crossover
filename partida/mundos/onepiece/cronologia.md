@@ -71,3 +71,4 @@
 - 15:40 · (T652) Los Boinas Blancas (McKinley) llegan a la casa de Conis a cobrar el delito de entrada ilegal (canon).
 - 15:50 · (T653) Los Boinas Blancas noqueados: criminales de categoría 2. Conis confiesa. El langostino arrastra el Merry con Chopper hacia el altar del Upper Yard (canon, con variantes).
 - 15:53 · (T654) El Merry queda en el Altar del Sacrificio del Upper Yard con Chopper y Facundo.
+- 17:10 · (T655) Shura, sacerdote del Cielo, llega al altar (canon: atacaba a Chopper y a Gan Fall).
