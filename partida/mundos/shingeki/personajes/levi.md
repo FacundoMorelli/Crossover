@@ -18,3 +18,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T507 · Acepta ir al continente pegado a Zeke. "Tch. Alguien tiene que limpiar lo que dejen."
 - T515 · De civil, encadenado por la muñeca a Zeke. "¿Y ahora qué? ¿Nos agarramos de tu cola?"
 - T529 · "Si lo haces, que no quede rastro. Uno solo entra. Los demás, quietos."
+- T530 · Aprueba el plan de Ymir: "Tch. Eso sirve."
