@@ -25,3 +25,5 @@
 - Día 4 12:30 · (T450) Facundo quita la pared de Shiganshina y se va por una puerta desde la escalinata del palacio. Testigos: Erwin, Hange, Moblit (Levi de espaldas).
 - Días 4-5 · (T489, simulado en ausencia) La Legión se queda en Mitras, alojada en el cuartel de la Legión junto al distrito militar. Erwin se reúne dos veces con Zackly y Pixis sobre el plan diplomático. Hange va y viene a Trost para los interrogatorios de los cuatro prisioneros (bajo Pixis). Sin titanes ni bajas. La guardia del palacio tiene orden de Zackly: el aliado de la reina (pelo blanco y azul, gato) no debe ser detenido.
 - Día 5 21:07 · (T489) Facundo vuelve por una puerta a la escalinata del palacio de Mitras.
+- Día 5 (simulado en ausencia, T491) · En Trost, Zeke se niega a dar más información hasta hablar a solas con Facundo; Hange lo informa por carta a Erwin. Reiner callado, Bertholdt colabora a medias, Pieck tranquila y observadora.
+- 21:10 · (T491) Facundo se encuentra con Erwin y Levi en el palacio.

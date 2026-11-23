@@ -12,3 +12,4 @@ ENCUENTROS:
 - T405 · Llega volando desde afuera y le cruza las espadas al cuello a Facundo por la espalda: "Suelta a ese. Despacio. Y explícate."
 QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado (de lejos).
 - T406 · Su espada se mella contra el cuello de Facundo sin cortar. "Tch."
+- T491 · En el pasillo del palacio: "Tch. Un día y medio. Dijiste semanas."

@@ -489,3 +489,4 @@ T487 · Black Clover · Base, explanada · Duelo con Asta, conteniéndose. Asta 
 T488 · Black Clover · Base, explanada · Para las dos espadas de Asta con las manos y lo tumba. Duelo ganado.
 T489 · Black Clover → Shingeki · Ayuda a Asta, se despide de los Toros ("en unos días vuelvo"). Abre una puerta. Llega a Mitras de noche, escalinata del palacio. Guardias de la Policía Militar.
 T490 · Shingeki · Mitras, palacio · Pregunta por la Legión. Erwin está adentro con Zackly y Pixis; Hange en Trost. El guardia joven va a avisar.
+T491 · Shingeki · Mitras, palacio · Se encuentra con Erwin y Levi. Zeke pidió hablar solo con Facundo.

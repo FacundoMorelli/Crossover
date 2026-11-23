@@ -16,3 +16,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T415 · Le ofrece un lugar en la Legión, o quedarse mientras decide.
 - T421 · Considera en serio la vía diplomática con los cuatro prisioneros como carta de negociación.
 - T449 · Le da su palabra a Facundo de no hacer nada arriesgado contra titanes mientras no esté.
+- T491 · Sale a buscarlo al pasillo. "Volviste antes de lo esperado. Llegas en buen momento." Zeke pidió hablar solo con él.
