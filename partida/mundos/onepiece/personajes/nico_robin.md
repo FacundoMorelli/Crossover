@@ -43,3 +43,4 @@ ESTADO: activa
 - T690 · Facundo se pone delante y queda congelado por ella. Grita su nombre.
 - T692 · Oye el nombre de Saul. Llora de rodillas en el pasto.
 - T693 · Llora abrazada a Facundo. Le cuenta de Saul. "Creo que tenía razón."
+- T694 · "Te pusiste delante. Otra vez. Nadie hace eso por mí." Frente con frente. RELACIÓN: algo serio empieza.
