@@ -37,3 +37,4 @@ ESTADO: activa
 - T667 · Sobre la serpiente: "Lleva cuatrocientos años aquí. Es la guardiana de las ruinas."
 - T673 · Facundo se pone entre ella y el rayo de Enel.
 - T681 · "La escuché. Toda la isla la escuchó."
+- T683 · Pasa la fiesta con Gan Fall y el Poneglyph; la segunda noche se duerme otra vez en el hombro de Facundo.

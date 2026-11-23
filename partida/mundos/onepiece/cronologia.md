@@ -84,3 +84,4 @@
 - 09:31 · (T679) Facundo se traga el Raigo con el Eclipse. Skypiea se salva. Aparece la campana de oro en la nube superior (canon: Luffy rompía el Raigo).
 - 09:35 · (T680) Luffy hace sonar la campana de oro de Shandora (canon). Los shandianos y Skypiea la oyen; en Jaya, Cricket, Masira y Shoujou también.
 - 09:45 · (T682) Gan Fall pide perdón a los shandianos y propone compartir el Upper Yard; Wyper acepta (canon). Enel huye en el arca hacia Fairy Vearth (canon).
+- Días 28-30 · (T683) Fiesta en Shandora (canon). Día 30, amanecer: Gan Fall regala oro y un pulpo-globo para bajar al mar azul.
