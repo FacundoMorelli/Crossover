@@ -113,3 +113,4 @@
 - Tripulación · T661 · Por Gan Fall: Enel lo derrocó hace seis años; el Upper Yard era de los shandianos; Wyper es su guerrero; posible ataque mañana.
 - Robin · T663 · Del libro de Paradis descifró dos palabras: "muralla" y "titán". Cree que habla de un pueblo encerrado entre muros y rodeado de gigantes. No sabe de dónde es el libro.
 - Facundo · T664 · Oye con el Haki a los shandianos preparándose para la guerra en el sur de la selva.
+- Facundo · T665 · Oye con el Haki el anuncio de Enel a sus sacerdotes: 81 personas, tres horas, cinco sobrevivientes.
