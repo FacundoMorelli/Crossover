@@ -547,3 +547,4 @@ T545 · Shingeki · Liberio, despacho de Magath · Promete avisar cualquier cosa
 T546 · Shingeki · Liberio, casa segura · Simula: día 8 adentro. Día 9 15:40, la patrulla de Muller golpea la puerta.
 T547 · Shingeki · Liberio, casa segura · Abre la puerta: "propiedad de Magath". El sargento pide documentos.
 T548 · Shingeki · Liberio, casa segura · Muestra documentos marleyanos. La patrulla se va, pero lo anota para Muller.
+T549 · Shingeki · Liberio, calle del Reloj · Roba la hoja de patrulla del sargento y la lee.
