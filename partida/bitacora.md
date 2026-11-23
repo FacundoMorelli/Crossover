@@ -684,3 +684,4 @@ T682 · One Piece · Shandora · Paz entre shandianos y Skypiea. Enel huye en el
 T683 · One Piece · Shandora · Simula: dos noches de fiesta. Día 30: Gan Fall les regala el oro y un pulpo-globo para bajar.
 T684 · One Piece · mar azul · Despedida de Skypiea. Bajan en el pulpo globo con el oro.
 T685 · One Piece · Long Ring Long Land · Llegan. Foxy desafía a la Davy Back Fight.
+T686 · One Piece · Long Ring Long Land · Luffy acepta. Primer juego: trampa de Foxy (Noro Noro). Foxy elige a Chopper.

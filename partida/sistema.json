@@ -1,8 +1,8 @@
 {
-  "turno": 685,
+  "turno": 686,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 31 (Grand Line, Long Ring Long Land)",
-  "hora": "10:30",
+  "hora": "12:30",
   "edad": 18,
   "nivel": 26,
   "exp": 206640,
@@ -958,6 +958,13 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
+    },
+    {
+      "poder": "Foxy: Noro Noro no Mi",
+      "mundo": "onepiece",
+      "mision": "Que Foxy te dé con su rayo lento y no te frene ni un segundo.",
+      "dificultad": "BAJA",
+      "emitida": "T686"
     }
   ],
   "misiones_de_copia_rechazadas": [],
