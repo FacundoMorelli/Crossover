@@ -84,3 +84,5 @@
 - Dos soldados de la patrulla · T533 · Oyeron a una mujer gritar ayuda en un callejón vacío; al volver, el viejo había desaparecido. Creen que huyó. Sin testigos de Facundo.
 - Viejo eldiano de la plaza y su mujer · T533 · Sintieron un viento y aparecieron en su casa con 10 botellas de agua, comida y 10 monedas. No vieron a nadie. Lo creen un milagro. (Rumor posible en la zona.)
 - Eren, Mikasa · T533 · Vieron todo desde el techo.
+- Viejo eldiano de la plaza · T534 · Encuentra medicina en la mesa de luz de su mujer. No vio a nadie.
+- Levi, Zeke · T534 · Por Eren: lo del viejo de la plaza y lo que hizo Facundo.
