@@ -585,3 +585,4 @@ T583 · One Piece · Nanohana · Aparece junto a Luffy corriendo. Ace frena a Sm
 T584 · One Piece · Nanohana · Se presenta a Ace. Ace agradece y frena a Smoker. "Váyanse."
 T585 · One Piece · Going Merry · Lleva a Luffy al barco. Zoro despierta. Sanji llega. Nami quiere zarpar; Luffy espera a Ace.
 T586 · One Piece · salida de la cala · Zarpan. Marina cierra la salida y dispara. Ace se acerca en el Striker.
+T587 · One Piece · mar · Devuelve la bala con la Luna; el barco de la Marina queda dañado. Ace sube a bordo.

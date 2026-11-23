@@ -54,3 +54,4 @@
 - Ace · T583 · Ve aparecer de la nada a un tipo de pelo blanco y azul con un gato junto a su hermano.
 - Ace · T584 · Facundo: compañero de Luffy, estuvo de viaje un tiempo.
 - Zoro, Sanji · T585 · Facundo volvió.
+- Tripulación, Vivi, Ace, marines de ambos barcos · T587 · Ven la bala detenerse en el aire con el ojo azul de Facundo brillando y volver al barco de la Marina. Lo atribuyen a su "fruta". Los marines lo informarán a Smoker.
