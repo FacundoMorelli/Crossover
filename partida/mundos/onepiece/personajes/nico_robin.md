@@ -22,3 +22,4 @@ ESTADO: activa
 - T610 · "Sí. Sabía todo." Recibe la cachetada de Vivi sin moverse.
 - T611 · Lee la piedra de la tumba real con permiso de Cobra; no es lo que busca. Se lo dice al rey sin mentir. Sube al Merry.
 - T614 · Primer almuerzo en el Merry, al lado de Facundo. "¿Siempre son así?"
+- T615 · "¿Y adónde vas cuando desapareces?" (pregunta una vez).
