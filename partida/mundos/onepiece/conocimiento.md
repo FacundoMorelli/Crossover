@@ -92,3 +92,4 @@
 - Tripulación · T631 · Facundo relaciona a Cricket con Noland el mentiroso. Sanji cuenta el cuento de North Blue. Robin confirma que Cricket sería su descendiente.
 - Tripulación · T634 · Por Cricket: Corriente Ascendente mañana al mediodía; hay que atrapar un pájaro del sur para saber la dirección; Masira y Shoujou reforzarán el Merry.
 - Cricket, Masira, Shoujou, tripulación · T635 · Facundo sugiere que la mitad de Jaya voló al cielo. Robin compara los mapas: encajan. Cricket lo cree. (Canon: lo descubrían en Skypiea.)
+- Facundo · T637 · Por Cricket: el diario de Noland habla de una campana de oro enorme en la ciudad.

@@ -635,3 +635,4 @@ T633 · One Piece · casa de Cricket · Ayuda a Chopper. Llegan Masira y Shoujou
 T634 · One Piece · casa de Cricket · Cricket explica la Corriente Ascendente y el pájaro del sur.
 T635 · One Piece · casa de Cricket · Sugiere que la ciudad de oro voló. Los mapas encajan. "Noland no mintió."
 T636 · One Piece · casa de Cricket · La tripulación va a la selva. Facundo se queda con Cricket, que le ofrece un brindis.
+T637 · One Piece · casa de Cricket · Brindis. Cricket cuenta su historia y pide hacer sonar la campana de oro.

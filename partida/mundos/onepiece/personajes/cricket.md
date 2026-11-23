@@ -13,3 +13,4 @@ ESTADO: enfermo
 - T634 · "¡Son tan idiotas como yo!" Explica la Corriente Ascendente y el pájaro del sur. RELACIÓN: simpatía ruda.
 - T635 · Ve los mapas encajar. "Noland no mintió."
 - T636 · "Brindemos por un mentiroso que no mintió."
+- T637 · Brinda con Facundo. "No sé cómo se te ocurrió." Pide: "Si llegan arriba, hagan sonar la campana."
