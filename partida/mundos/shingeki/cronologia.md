@@ -32,3 +32,4 @@
 - Noche día 5-6 · (T497) Facundo duerme en el cuartel de la Guarnición de Trost. 04:10: Pieck le pide a un guardia hablar con "el hombre del gato". Hange lo sabe por el guardia.
 - 06:40 · (T497) Desayuno; Facundo va a ir a Mitras por Eren.
 - 07:02 · (T500) Facundo llega a Mitras por Teletransportación a buscar a Eren.
+- 07:20 · (T501) Zeke y Eren frente a frente en la sala del fondo del cuartel de la Guarnición, con Facundo. Levi en la puerta.

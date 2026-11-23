@@ -1,16 +1,16 @@
-TURNO: 500 | MUNDO: Shingeki no Kyojin | Año 850 · Día 6 tras Shiganshina | HORA: 07:02 | Lugar: Mitras, cuartel de la Legión, patio
+TURNO: 501 | MUNDO: Shingeki no Kyojin | Año 850 · Día 6 tras Shiganshina | HORA: 07:20 | Lugar: Trost, cuartel de la Guarnición, sala del fondo
 MOMENTO DEL CANON: Post-Shiganshina (cap. ~89-90 alterado). Erwin vivo; los cuatro cambiantes de Marley presos (Reiner, Bertholdt, Zeke, Pieck). La Legión en Mitras; plan diplomático en preparación. Ver mundos/shingeki/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 199.640/215.000 · 173.750 Fragmentos · 140 puntos sin asignar · 0 monedas de la Corona · Energía 100% · Ojos: bien · STATS ~240 · Maestrías 100 (Shio Shio 31, Titán de Ceniza 30, Grimorio del Firmamento 30)
 PARA ESTE MUNDO: aliado de la Corona, libre y bajo protección de la reina (T445). La Legión vio la pared, la teletransportación, el pelo azul. Rumor fuerte en el ejército.
 QUIÉN SABE QUÉ: ver mundos/shingeki/conocimiento.md. Zeke y Eren saben del plan de eutanasia; Erwin informó todo a Historia, Zackly, Nile, Pixis. La guardia del palacio tiene orden de no detenerlo.
 MISIÓN DE MUNDO: CUMPLIDA (T413). 6 completados. VIAJE LIBRE.
 ÚLTIMOS 5 TURNOS:
+- T501: "Está bien, vamos los tres a Trost, pero Mikasa no puede estar mientras hablan; puede mirar de lejos." Mikasa acepta de mala gana. Armin se queda (le pide a Facundo que le cuente después). Teletransportación a Trost. Sala del fondo: Zeke encadenado en una silla; Levi en la puerta; Mikasa con Erwin y Hange en el patio, mirando por la ventana. Zeke: "Hola, Eren."
 - T500: "Está bien." Avisa arriba y se teletransporta a Mitras (ki de Eren). Patio del cuartel de la Legión: Eren, Mikasa y Armin esperando, Jean y Connie y Sasha desayunando. Eren: "¿Zeke quiere hablar conmigo? Bien. Yo también tengo cosas que preguntarle." Mikasa: "Voy con él."
 - T499: "Trato, tu padre va a estar a salvo. Dime." Pieck: Zeke tiene sangre real; tocando al que tiene el Fundador puede usar su poder; eso quería Marley, y Zeke quiere a Eren para algo que no es de Marley. Además: Ymir (la que se llevaron) estaba en Marley para dársela a Porco Galliard (Mandíbula); "a esta altura, seguro ya pasó". El padre se llama igual que ella, Finger, calle de los Faroles de Liberio.
 - T498: baja a hablar con Pieck (Kase lo alcanza en la escalera). Pieck lo vio entrar a la celda de Zeke por la mirilla. Su padre está enfermo en Liberio: si hay negociación, quiere que él esté a salvo. A cambio, le dirá "lo que Zeke no te va a decir". Espera respuesta.
 - T497: "Sí, mañana lo traigo." Acepta la cama. Simula: noche en el cuartel de la Guarnición; Kase come pescado seco que manda Pixis. Hange no duerme (con la foto y Moblit). Madrugada: Pieck pide a un guardia hablar con "el del gato". Desayuno: Erwin listo para que vaya por Eren; Hange cuenta lo de Pieck.
-- T496: "Sí." Le cuenta a Erwin lo de Liberio (zona de internamiento eldiana, puerto) y Magath (quien decide). Hange anota todo. Erwin: Eren está en el cuartel de Mitras; pregunta si Facundo puede traerlo por la mañana con la Teletransportación. Pixis ofrece alojamiento en el cuartel de la Guarnición.
-PRESENTES EN ESCENA: Eren, Mikasa, Armin (patio del cuartel de la Legión, Mitras). Jean, Connie, Sasha en la mesa del patio. Kase en el hombro.
+PRESENTES EN ESCENA: Zeke (encadenado a una silla), Eren (de pie frente a él), Facundo. Levi en la puerta, de espaldas a medias. Mikasa, Erwin, Hange en el patio, mirando por la ventana. Kase en el hombro.
 VÍNCULOS ACTIVOS (Shingeki): aliado de la Legión (Erwin, Levi, Hange, Moblit, la 104.ª). Historia le agradeció.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

@@ -14,3 +14,4 @@ ENCUENTROS:
 - T422 · Acepta a medias el camino de Facundo: "Está bien. Pero si no funciona, no me pidas que me quede mirando."
 - T430 · Escucha el plan de Zeke y la idea de Facundo. Rechaza la eutanasia: "Es rendirse."
 - T500 · Lo espera en el patio. "¿Zeke quiere hablar conmigo? Bien. Yo también tengo cosas que preguntarle."
+- T501 · Frente a Zeke en Trost.
