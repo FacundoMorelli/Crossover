@@ -9,3 +9,4 @@ QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 - T399 · Ve a Facundo en el tejado: "¡¿Un civil?! ¡Aquí no vive nadie hace cinco años!" Manda dos soldados.
+- T492 · En el sótano de la Guarnición en Trost. Facundo aparece con Erwin, Levi y Pixis. "¡¡FACUNDO!! ¡Volviste! ¿Y la imagen? ¡Prometiste una imagen!"

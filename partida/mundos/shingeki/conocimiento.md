@@ -38,3 +38,5 @@
 - Dos guardias de la Policía Militar · T489 · Ven abrirse una puerta de luz en la escalinata y salir a Facundo con el gato.
 - Guardia viejo de la PM · T490 · Facundo confirma que es el aliado de la reina y pregunta por la Legión.
 - Erwin, Levi, Zackly, Pixis · T491 · El guardia joven les cuenta que Facundo "salió del aire" en la escalinata.
+- Pixis · T492 · Vive la Teletransportación en persona (Mitras → Trost).
+- Zeke, Reiner, Bertholdt, Pieck · T492 · Ven aparecer a Facundo con Erwin, Levi y Pixis de la nada en el sótano.
