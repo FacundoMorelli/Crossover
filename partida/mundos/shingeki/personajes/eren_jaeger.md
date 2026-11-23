@@ -21,3 +21,4 @@ ENCUENTROS:
 - T506 · "Yo también voy."
 - T527 · Ve Liberio desde el coche, callado. En la casa: "Quiero ir ahí. Esta noche." (zona de internamiento)
 - T529 · Quiere ir al rescate de Ymir.
+- T532 · En los techos de la zona, ve a soldados golpear a un viejo eldiano. Quiere saltar; Mikasa lo frena.

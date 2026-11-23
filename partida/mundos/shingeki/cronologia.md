@@ -45,3 +45,4 @@
 - 06:25-12:40 · (T517) Cruce del océano volando. Un acorazado de Marley abajo, sin verlos. Llegan a los acantilados al sur de Liberio. PRIMER CONTACTO DE PARADIS CON EL CONTINENTE (canon: años después).
 - 13:05 · (T520) El emisario de Paradis aparece en el despacho del general Magath, en el cuartel general de Liberio, con Zeke vivo y encadenado.
 - 14:25-21:40 · (T531) Tarde y anochecer en la casa segura. Zeke le habla a Eren de su infancia en la zona de internamiento.
+- 21:55 · (T532) Facundo, Eren y Mikasa en los techos de la zona de internamiento. Patrulla golpea a un viejo eldiano por toque de queda.
