@@ -17,3 +17,4 @@ ESTADO: activo
 - T524 · Propone reunión secreta con Willy Tybur en tres días. Ofrece casa segura; pide muestra de piedra de hielo.
 - T525 · Recibe la piedra de hielo. "Con esto, Tybur me escucha." La guarda bajo llave. "¿Cuánta hay de esto allá?"
 - T526 · "Es la mejor carta y la más peligrosa." Secreto entre él, Brandt y Tybur. Brandt los lleva a la casa segura. "La próxima vez, golpee la puerta."
+- T542 · Convocado a las 3 por la desaparición de Ymir. Reunido con oficiales hasta las 6:20. Solo e inquieto a las 6:25.

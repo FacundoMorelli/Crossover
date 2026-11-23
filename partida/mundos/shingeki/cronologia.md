@@ -49,3 +49,4 @@
 - 21:57 · (T533) El viejo eldiano de la plaza desaparece ante la patrulla y aparece en su casa con agua, comida y dinero. Nadie vio a Facundo.
 - 00:00 día 8 · (T535) Facundo entra por Teletransportación a la celda de Ymir durante el cambio de guardia.
 - 00:01 día 8 · (T536) Ymir desaparece de su celda en Liberio (cadenas cortadas a ras, sin otra huella) y aparece en los aposentos de Historia en Mitras. CAMBIO ENORME: Porco no hereda el Mandíbula; Ymir viva en Paradis.
+- 02:10 día 8 · (T542) Ronda del centro de investigación: celda de Ymir vacía, cadenas cortadas. Sirena. Patrullas por Liberio toda la madrugada. Magath convocado a las 03:00.
