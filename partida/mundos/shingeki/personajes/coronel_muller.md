@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: informe oral del sargento (extranjero, pelo de dos colores
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 - T555 · Anota la colonia sin objeciones. "¿Quiénes más se alojan en esa casa?"
+- T556 · "Un gato que camina en dos pisos a la vez." Magath lo corta. Se va con el informe entregado. Sospecha.

@@ -104,3 +104,4 @@
 - Levi, Eren, Mikasa, Zeke · T552 · Plan de Magath: Facundo como "asesor civil" ante Muller a las 8.
 - Coronel Muller · T554 · Ve al "asesor civil Facundo Morelli" en el despacho de Magath, de traje, con el gato. Por su sargento: extranjero en la casa del 14, "¿más personas?".
 - Muller · T555 · Facundo responde de qué colonia del sur es; coincide con el registro. Sin sospecha por eso.
+- Muller · T556 · Facundo dice que en la casa solo está su gato y que las cadenas eran de una puerta vieja. No le cree; Magath lo frena por rango.

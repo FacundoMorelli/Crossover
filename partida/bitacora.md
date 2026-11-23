@@ -554,3 +554,4 @@ T552 · Shingeki · Liberio, casa segura · Simula hasta la mañana del día 10.
 T553 · Shingeki · Liberio, casa segura · Se pone traje de burócrata marleyano.
 T554 · Shingeki · Liberio, despacho de Magath · Muller entra y le pregunta de qué colonia es.
 T555 · Shingeki · Liberio, despacho de Magath · Responde bien de qué colonia es, suspira y mira el reloj. Muller pregunta quién más está en la casa.
+T556 · Shingeki · Liberio, despacho de Magath · "Solo mi gato." Muller duda; Magath lo corta. Muller se va.
