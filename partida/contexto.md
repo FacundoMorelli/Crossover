@@ -1,13 +1,13 @@
-TURNO: 711 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 15:40 | Lugar: Water 7, muelle abandonado
+TURNO: 712 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 15:42 | Lugar: Water 7, muelle de las afueras, Going Merry
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T711: "No te lo voy a prometer. Tenemos al capitán más terco del mundo. Adonde sea que te lleven te vamos a seguir, aunque tengamos que declararle la guerra al Gobierno." Robin llora y se ríe a la vez: "Están todos locos." Lo besa, corto. "Igual tengo que ir. Si no voy, los buscan ahora, aquí." Le pone el libro de Paradis en las manos: "Guárdamelo. Ya tengo veintiséis letras." Se aleja por el muelle: "Si vienen... no se mueran." Se va.
+- T712: vuelve al Merry con el libro de Robin en la mano. Toda la tripulación en cubierta. Nami ve el libro y se pone pálida: "Ese es el libro de Robin. ¿Dónde está ella?" Luffy se levanta del mascarón. Todos lo miran, esperando.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
-PRESENTES EN ESCENA: Facundo (muelle abandonado). Robin se fue. Kase en el hombro. (Tripulación en el Merry.)
+PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji, Chopper (cubierta del Merry). Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).

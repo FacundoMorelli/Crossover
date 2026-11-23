@@ -710,3 +710,4 @@ T708 · One Piece · Going Merry · Luffy acepta el último viaje. Robin no vuel
 T709 · One Piece · Water 7 · Encuentra a Robin con un enmascarado del Gobierno. Oye el trato: Robin se entrega para que no destruyan a la tripulación (Buster Call).
 T710 · One Piece · muelle abandonado · Le dice a Robin que la van a ir a buscar. Ella le ruega que no: Buster Call, Ohara.
 T711 · One Piece · muelle abandonado · No le promete nada. Robin lo besa, le deja el libro y se va con el Gobierno.
+T712 · One Piece · Going Merry · Vuelve con el libro de Robin. Le preguntan dónde está.
