@@ -591,3 +591,4 @@ T589 · One Piece · mar · Ofrece llevarlos volando. Vivi pide ir a Yuba esta n
 T590 · One Piece · mar · Vivi muestra en el mapa: Erumalu, río Sandora, Yuba al sudeste.
 T591 · One Piece · mar · Con el Ojo del Eclipse: Yuba casi vacía; el ejército en otro lado; ki fuerte y frío al norte. Pide manos en la espalda.
 T592 · One Piece · mar · Avisa que los rebeldes ya no están en Yuba. Vivi: están en Katorea; pide ir allí.
+T593 · One Piece · Going Merry · Cena con Ace y Luffy. Ace se duerme en el plato. Copia Mera Mera.

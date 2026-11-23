@@ -1,11 +1,11 @@
 {
-  "turno": 592,
+  "turno": 593,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 20 (Grand Line, Arabasta)",
-  "hora": "18:43",
+  "hora": "19:20",
   "edad": 18,
   "nivel": 26,
-  "exp": 199640,
+  "exp": 201140,
   "exp_siguiente_nivel": 215000,
   "fragmentos": 173727,
   "plata_local": {
@@ -627,6 +627,19 @@
         "Lectura instintiva del maná del rival para anticipar (como Luck)",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Mera Mera no Mi (poder de Ace)",
+      "de": "Portgas D. Ace",
+      "mundo": "onepiece",
+      "cuando": "T593 (Ace se durmió en el plato comiendo en la misma mesa)",
+      "incluye": [
+        "Cuerpo de fuego (intangibilidad de Logia) a voluntad",
+        "Hiken (Puño de Fuego), Higan, Hotarubi/Hidaruma, Enjōmō, Kagerō, Shinka: Shiranui, Enkai, Dai Enkai: Entei y todo lo que Ace llega a hacer",
+        "Haki del Rey latente como el de Ace (solo si Facundo lo desarrolla)",
+        "Sin la desventaja del mar ni la narcolepsia",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -867,13 +880,6 @@
       "mision": "Encontrar a Lotus dentro de su humo y tocarle el hombro.",
       "dificultad": "MEDIA",
       "emitida": "T476"
-    },
-    {
-      "poder": "Portgas D. Ace: Mera Mera no Mi",
-      "mundo": "onepiece",
-      "mision": "Comer con Ace en la misma mesa hasta que se quede dormido en el plato.",
-      "dificultad": "MEDIA",
-      "emitida": "T583"
     }
   ],
   "misiones_de_copia_rechazadas": [],

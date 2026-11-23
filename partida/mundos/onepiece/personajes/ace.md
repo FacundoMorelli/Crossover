@@ -14,3 +14,4 @@ ESTADO: activo
 - T584 · Reverencia: "Portgas D. Ace, hermano mayor de este. Gracias por cuidarlo." Frena a Smoker. "¡Váyanse!"
 - T587 · Sube al Merry. "¿Eso fue tuyo? Interesante."
 - T589 · Tiene que ir tras Barbanegra; antes quiere hablar con Luffy.
+- T593 · Cena en el Merry. Invita a Luffy a Barbablanca; Luffy dice que no. Le da un papel (vivre card). Se duerme con la cara en el plato en medio de una frase; se despierta: "¿Me dormí?"

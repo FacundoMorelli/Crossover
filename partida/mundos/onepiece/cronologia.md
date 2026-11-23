@@ -32,3 +32,4 @@
 - 18:06 · (T583) Nanohana: Ace levanta una pared de fuego entre Smoker y Luffy (canon). Facundo aparece junto a Luffy.
 - 18:20 · (T586) El Going Merry zarpa de la cala; dos barcos de la Marina (de Smoker) cierran la salida y disparan. Ace se acerca en el Striker.
 - 18:21 · (T587) Facundo devuelve una bala de cañón con la Luna: barco de la Marina con la proa destrozada (sin muertos). Ace sube al Going Merry.
+- 19:00-19:20 · (T593) Cena en el Going Merry con Ace (canon: en un barco frente a la costa, sin Facundo). Ace invita a Luffy a la tripulación de Barbablanca; Luffy rechaza. Ace le da su vivre card.
