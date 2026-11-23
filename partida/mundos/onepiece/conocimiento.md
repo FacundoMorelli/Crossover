@@ -134,3 +134,5 @@
 - Tripulación (Luffy, Nami, Usopp, Facundo) · T700 · Por Kaku: la quilla del Merry está partida; no tiene arreglo.
 - Facundo · T701 · Oye con el Haki el ataque a Usopp en un callejón.
 - Familia Franky (los que huyeron) → Franky · T704 · Un tipo de pelo blanco y azul con un gato y un aura plateada esquivó a quince sin moverse, y se noquearon entre ellos. Defendía al narizón de las maletas.
+- Facundo · T709 · Oye con el Haki: el Gobierno (un enmascarado) amenaza a Robin con el Buster Call contra los Sombrero de Paja; Robin acepta entregarse para protegerlos. "Esta noche harás lo que te digamos. Después, Enies Lobby."
+- Robin, el enmascarado · T709 · No saben que Facundo los escuchó (está lejos, el Velo y el Haki).

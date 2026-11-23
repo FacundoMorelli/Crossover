@@ -707,3 +707,4 @@ T705 · One Piece · callejón · Semilla a Usopp. Usopp llora por el Merry y le
 T706 · One Piece · callejón · Usopp le pregunta si él puede arreglar el Merry.
 T707 · One Piece · callejón · Promete arreglar el Merry para un último viaje. Usopp acepta.
 T708 · One Piece · Going Merry · Luffy acepta el último viaje. Robin no vuelve.
+T709 · One Piece · Water 7 · Encuentra a Robin con un enmascarado del Gobierno. Oye el trato: Robin se entrega para que no destruyan a la tripulación (Buster Call).

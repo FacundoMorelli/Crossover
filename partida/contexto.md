@@ -1,13 +1,13 @@
-TURNO: 708 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 15:30 | Lugar: Water 7, muelle de las afueras, Going Merry
+TURNO: 709 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 15:35 | Lugar: Water 7, techo de un depósito en un canal viejo
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.687 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
-- T708: vuelven al Merry. Están Luffy, Nami, Zoro; llegan Sanji y Chopper con las compras. Usopp cuenta el plan del último viaje. Luffy se queda callado, mira el mascarón rajado del Merry, y sonríe con los ojos húmedos: "¡Sí! ¡Un último viaje con el Merry! ¡Y después un barco nuevo, el mejor de todos!" Zoro asiente. Sanji prende un cigarro. Pasa la tarde. Nami mira el sol bajando: "¿Y Robin? Dijo que iba a pasear un rato. Hace casi cuatro horas."
+- T709: "Voy a buscarla, ya vengo." Busca el ki de Robin y se teletransporta lejos, a un techo a cien metros. La ve en un muelle abandonado, con un hombre de máscara blanca y traje negro. Con el Haki los oye: "El Gobierno Mundial te reclama, Nico Robin. Si vienes con nosotros sin resistirte, los Sombrero de Paja zarpan libres. Si no, el Buster Call borra su barco y a todos." Robin, con la voz quieta: "Voy con ustedes. Pero no los toquen. A ninguno." El enmascarado: "Esta noche harás lo que te digamos. Y después, a Enies Lobby." Robin tiene los puños apretados y la cara de alguien que ya se despidió.
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
-PRESENTES EN ESCENA: Luffy, Zoro, Nami, Usopp, Sanji, Chopper (Going Merry). Robin no volvió. Kase en el hombro.
+PRESENTES EN ESCENA: Facundo (en un techo, lejos). Robin y un agente enmascarado (CP9) en un muelle abandonado. Kase en el hombro. (Tripulación en el Merry.)
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
