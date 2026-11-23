@@ -450,3 +450,4 @@ T448 · Shingeki · Mitras · Promete la imagen. Erwin: la pared ya no hace falt
 T449 · Shingeki · Mitras · Se despide de Erwin, Levi, Hange y Moblit.
 T450 · Black Clover · Templo Submarino · Quita la pared de Shiganshina y se va. Nuevo mundo: Black Clover. Don: Grimorio del Firmamento. Misión: Kiato y Kahono.
 T451 · Black Clover · Templo · Entra a la sala de Gifso y Yami. Gifso no puede leerle la mente.
+T452 · Black Clover · Templo · Pregunta dónde está y por Kiato y Kahono. Gifso son sus nietos. Yami pregunta para qué.
