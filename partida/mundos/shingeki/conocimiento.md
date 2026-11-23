@@ -110,3 +110,4 @@
 - Willy Tybur · T559 · Por Magath: Facundo es emisario de Paradis, aparece sin puertas, trajo piedra de hielo. Conoce a Facundo y a "un joven" (Eren, sin apellido).
 - Willy, Magath · T560 · Por Facundo: Paradis quiere vivir libre, sin guerra, viajar y conocer el mundo.
 - Eren, Facundo · T560 · Por Willy: el mundo teme el Retumbar (titanes colosales dentro de las murallas, que el Fundador puede despertar).
+- Willy, Magath, Eren · T561 · Facundo ofrece destruir todos los titanes de las murallas para garantizar la paz.

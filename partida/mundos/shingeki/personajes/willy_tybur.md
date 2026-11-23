@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: lo que le contó Magath (emisario, aparece sin puertas, pi
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 - T560 · Conmovido. Plantea el Retumbar: "¿Qué garantía puede dar Paradis de que nunca va a despertarlos?"
+- T561 · Helado ante la oferta. "¿Puede demostrarlo? No a mí. Al mundo."

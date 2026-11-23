@@ -559,3 +559,4 @@ T557 · Shingeki · Liberio, casa segura · Vuelve a su ropa negra. Vigilante de
 T558 · Shingeki · Liberio, mansión Tybur · Va con Eren; Mikasa se queda. Magath los espera en el invernadero.
 T559 · Shingeki · Liberio, invernadero Tybur · Saluda a Willy Tybur. Willy pregunta por qué Paradis quiere la paz.
 T560 · Shingeki · Liberio, invernadero Tybur · Paradis quiere libertad y conocer el mundo. Willy pregunta por la garantía contra el Retumbar.
+T561 · Shingeki · Liberio, invernadero Tybur · Ofrece destruir los titanes de las murallas. Willy pide demostrarlo ante el mundo.
