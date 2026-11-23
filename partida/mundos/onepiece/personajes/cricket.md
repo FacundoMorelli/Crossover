@@ -10,3 +10,4 @@ ENCUENTROS:
 - T632 · Emerge del mar, ataca, se desploma por la enfermedad del buzo.
 ESTADO: enfermo
 - T633 · Facundo y Chopper lo llevan adentro. Despierta: "¿Por qué me ayudaron? Les pegué una patada."
+- T634 · "¡Son tan idiotas como yo!" Explica la Corriente Ascendente y el pájaro del sur. RELACIÓN: simpatía ruda.
