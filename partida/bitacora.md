@@ -458,3 +458,4 @@ T456 · Black Clover · Templo · Se teletransporta entre Zarick/Zuta y Gauche, 
 T457 · Black Clover · Templo · Flechas Quincy: Zarick y Zuta caen. 14 misiones de copia pendientes emitidas.
 T458 · Black Clover · Templo · Se teletransporta al duelo de Asta y Kiato.
 T459 · Black Clover · Templo · Avisa del Ojo del Sol de Medianoche. Asta y Kiato dejan el duelo.
+T460 · Black Clover · Templo · Les dice dónde está Vetto. Asta corre al oeste. Kiato pide ir con Kahono.
