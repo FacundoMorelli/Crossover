@@ -1,11 +1,11 @@
 {
-  "turno": 673,
+  "turno": 674,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 28 (Grand Line, Skypiea)",
-  "hora": "09:12",
+  "hora": "09:13",
   "edad": 18,
   "nivel": 26,
-  "exp": 203640,
+  "exp": 206640,
   "exp_siguiente_nivel": 215000,
   "fragmentos": 133687,
   "plata_local": {
@@ -698,6 +698,19 @@
         "Oír la voz de todas las cosas",
         "Dominio total"
       ]
+    },
+    {
+      "poder": "Goro Goro no Mi (poder de Enel)",
+      "de": "Enel",
+      "mundo": "onepiece",
+      "cuando": "T674 (Enel le pegó a quemarropa con Amaru de 200 millones de voltios y no le hizo nada)",
+      "incluye": [
+        "Cuerpo de rayo (Logia) a voluntad; moverse a la velocidad del rayo",
+        "El Thor, Vari, Sango, Kiten, Raigo, Amaru, Mamaragan, Raigo, Hino, y todo lo que Enel llega a hacer",
+        "Leer ondas de radio y oír a distancia con la electricidad",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -945,13 +958,6 @@
       "mision": "Que Crocodile te agarre del cuello con la mano derecha para secarte, y que no pueda.",
       "dificultad": "ALTA",
       "emitida": "T599"
-    },
-    {
-      "poder": "Enel: Goro Goro no Mi",
-      "mundo": "onepiece",
-      "mision": "Que Enel te tire su rayo más fuerte, a quemarropa, y no te haga nada.",
-      "dificultad": "ALTA",
-      "emitida": "T670"
     }
   ],
   "misiones_de_copia_rechazadas": [],

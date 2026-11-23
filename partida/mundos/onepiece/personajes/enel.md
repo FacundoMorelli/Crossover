@@ -13,3 +13,4 @@ ESTADO: activo
 - T671 · Detecta la mentira de Robin. Cuenta su plan. Luffy lo carga.
 - T672 · Su rayo no afecta a Luffy. Recibe golpes. Le dispara un rayo a Robin.
 - T673 · "¿Otro que no siente mi rayo? Y a ti ni siquiera te escucho." Junta 200 millones de voltios.
+- T674 · Amaru a quemarropa: nada. Cae de rodillas: "Soy Dios..."
