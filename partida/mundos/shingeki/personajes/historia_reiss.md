@@ -14,3 +14,4 @@ ESTADO: activo
 - T514 · Kase se queda con ella toda la tarde. Al amanecer, sin dormir, le da la carta sellada y un sobre chico: "Para Ymir. Si la encuentras."
 - T536 · Despierta junto a la ventana. Facundo aparece con Ymir viva. "...¿Ymir?"
 - T537 · Abraza a Ymir llorando. "¡Te fuiste con ellos!" Agradece a Facundo; le pide sacarle los grilletes.
+- T570 · Acepta viajar a Marley y firmar sin dudar: "Si una firma mía vale más que esas murallas, firmo mil veces."

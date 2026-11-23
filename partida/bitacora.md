@@ -568,3 +568,4 @@ T566 · Shingeki · Liberio, casa segura · Vuelven por Teletransportación. Ere
 T567 · Shingeki · Liberio, casa segura · Propone llevar a las familias de los cambiantes. Zeke, Levi y Mikasa ponen reparos.
 T568 · Shingeki · Liberio → Trost · Vuelven a Paradis. Hange pregunta por las imágenes.
 T569 · Shingeki · Trost · Muestra fotos de Liberio. Pixis: que las vean Erwin y la reina esta noche.
+T570 · Shingeki · Mitras, sala del consejo · Consejo de medianoche. Historia irá. Zackly pide ver destruir un tramo de muralla.

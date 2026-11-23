@@ -7,3 +7,4 @@ ENCUENTROS:
 - T443 · audiencia en Mitras con Facundo.
 QUÉ SABE DE FACUNDO: el informe de Erwin (Shiganshina, la pared, la teletransportación, los cuatro prisioneros, el mar).
 ESTADO: activo
+- T570 · En bata, último en hablar. Quiere ver destruir un tramo de muralla antes de aprobar. "Uno solo. Mañana."
