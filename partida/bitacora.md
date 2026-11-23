@@ -560,3 +560,4 @@ T558 · Shingeki · Liberio, mansión Tybur · Va con Eren; Mikasa se queda. Mag
 T559 · Shingeki · Liberio, invernadero Tybur · Saluda a Willy Tybur. Willy pregunta por qué Paradis quiere la paz.
 T560 · Shingeki · Liberio, invernadero Tybur · Paradis quiere libertad y conocer el mundo. Willy pregunta por la garantía contra el Retumbar.
 T561 · Shingeki · Liberio, invernadero Tybur · Ofrece destruir los titanes de las murallas. Willy pide demostrarlo ante el mundo.
+T562 · Shingeki · Liberio, invernadero Tybur · Demostración ante embajadores en un mes. Willy pide que la reina venga a firmar.

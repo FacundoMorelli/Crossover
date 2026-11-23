@@ -17,3 +17,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T519 · Cambio fijado en Marley: 1 Fragmento = 20 monedas de plata de Marley.
 - T520 · Marley se entera (Magath y un ayudante) de que Zeke vive y de que hay gente de Paradis en Liberio. Cambio enorme.
 - T536 · Ymir rescatada viva y llevada a Paradis. Marley pierde el Mandíbula (por ahora). El centro de investigación de Liberio va a descubrir la celda vacía en la ronda siguiente.
+- T562 · Willy Tybur y Magath aceptan en principio un plan de paz con Paradis. Cambio total del rumbo del canon.
