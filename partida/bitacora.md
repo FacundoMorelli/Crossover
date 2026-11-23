@@ -666,3 +666,4 @@ T664 · One Piece · Upper Yard · Robin se duerme en su hombro, con la mano de 
 T665 · One Piece · Upper Yard · Amanecer. Robin despierta en su hombro. Enel anuncia el juego de supervivencia. Atacan los shandianos.
 T666 · One Piece · Upper Yard · Va con Luffy y Robin. La tripulación se divide. Aparece una serpiente gigante.
 T667 · One Piece · Upper Yard · Esquiva la serpiente teletransportándose. Robin: es la guardiana de las ruinas.
+T668 · One Piece · Upper Yard · Toca la cabeza de la serpiente; se calma. Placa dorada: NOLA.

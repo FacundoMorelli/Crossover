@@ -114,3 +114,4 @@
 - Robin · T663 · Del libro de Paradis descifró dos palabras: "muralla" y "titán". Cree que habla de un pueblo encerrado entre muros y rodeado de gigantes. No sabe de dónde es el libro.
 - Facundo · T664 · Oye con el Haki a los shandianos preparándose para la guerra en el sur de la selva.
 - Facundo · T665 · Oye con el Haki el anuncio de Enel a sus sacerdotes: 81 personas, tres horas, cinco sobrevivientes.
+- Facundo, Luffy, Robin · T668 · La serpiente lleva incrustada una placa de oro con la palabra NOLA. Con el Haki, Facundo siente un recuerdo de un hombre que le daba de comer.
