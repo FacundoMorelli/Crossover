@@ -511,3 +511,4 @@ T509 · Shingeki · Trost, sala del fondo · "Vamos volando." Zeke sugiere costa
 T510 · Shingeki · Trost · Salida mañana temprano con la carta. Erwin pide que lo lleve a Mitras.
 T511 · Shingeki · Mitras, despacho de la reina · Lleva a Erwin con Historia. Historia escribirá la carta. Pregunta por Ymir.
 T512 · Shingeki · Mitras, despacho de la reina · Le cuenta a Historia lo de Ymir y Porco. Historia pide averiguar en Marley.
+T513 · Shingeki · Mitras, despacho de la reina · Promete a Historia averiguar lo de Ymir y traerla si vive. Carta al amanecer.
