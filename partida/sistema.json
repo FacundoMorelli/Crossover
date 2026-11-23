@@ -1,8 +1,8 @@
 {
-  "turno": 468,
+  "turno": 469,
   "mundo_actual": "blackclover",
   "fecha_local": "Reino del Trébol · noche de luna llena (Templo Submarino)",
-  "hora": "22:25",
+  "hora": "22:30",
   "edad": 18,
   "nivel": 26,
   "exp": 197390,
@@ -321,11 +321,6 @@
     {
       "objeto": "Tarjeta con el número de Ijichi",
       "origen": "jujutsu, T294"
-    },
-    {
-      "objeto": "Paquete de comida de Sanji (arroz, carne seca, algo dulce, comida para Kase)",
-      "mundo": "onepiece",
-      "turno": 400
     },
     {
       "objeto": "Cámara de fotos y video (compacta, con pantalla y batería del Sistema)",
