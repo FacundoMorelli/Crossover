@@ -115,3 +115,5 @@
 - Facundo · T664 · Oye con el Haki a los shandianos preparándose para la guerra en el sur de la selva.
 - Facundo · T665 · Oye con el Haki el anuncio de Enel a sus sacerdotes: 81 personas, tres horas, cinco sobrevivientes.
 - Facundo, Luffy, Robin · T668 · La serpiente lleva incrustada una placa de oro con la palabra NOLA. Con el Haki, Facundo siente un recuerdo de un hombre que le daba de comer.
+- Facundo, Robin · T670 · La piedra de Shandora habla del arma Poseidón y su ubicación. Al costado, inscripción de Gol D. Roger: "Llegué aquí y conduciré este texto hasta el final." Facundo puede leer la escritura antigua (Lengua de los mundos); Robin no lo sabe todavía.
+- Enel · T670 · Vio a Robin leyendo la piedra.

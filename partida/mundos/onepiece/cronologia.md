@@ -77,3 +77,4 @@
 - Día 28 08:00 · (T665) Enel anuncia el "juego de supervivencia": de 81 personas en el Upper Yard, en tres horas quedarán cinco (canon). Los shandianos atacan.
 - 08:25 · (T666) La tripulación se divide en el Upper Yard. Aparece la serpiente gigante Nola (canon).
 - 08:50 · (T669) Facundo, Luffy y Robin llegan a las ruinas de Shandora montados en Nola. Poneglyph a la vista.
+- 09:05 · (T670) Robin lee el Poneglyph de Shandora y la inscripción de Roger (canon). Enel aparece (canon).
