@@ -8,3 +8,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
+- T500 · En el patio con Eren y Mikasa. Pregunta si Zeke dijo algo ya.

@@ -498,3 +498,4 @@ T496 · Shingeki · Trost, celdas · Le cuenta a Erwin lo de Liberio y Magath. E
 T497 · Shingeki · Trost, cuartel de la Guarnición · Duerme ahí. Pieck pide hablar con él. Desayuno con Erwin, listo para ir por Eren.
 T498 · Shingeki · Trost, celda de Pieck · Pieck: su padre enfermo en Liberio a salvo a cambio de lo que Zeke no dice.
 T499 · Shingeki · Trost, celda de Pieck · Trato: su padre a salvo. Pieck: Zeke tiene sangre real y quiere a Eren para el Fundador; Ymir iba a ser devorada por Porco.
+T500 · Shingeki · Mitras, cuartel de la Legión · Va por Eren. Eren acepta; Mikasa quiere ir.
