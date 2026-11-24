@@ -790,3 +790,4 @@ T788 · One Piece · Water 7 · Vuelven por Teletransportación al almuerzo. Esc
 T789 · One Piece · Water 7 · "No te lo puedo enseñar, Luffy." Luffy: "Tacaño."
 T790 · One Piece · Water 7 · Simula hasta el Día 38 08:30. Visita al Dock 1, fiesta chica, noche con Robin. Desayuno tranquilo.
 T791 · One Piece · Water 7 · ¿Siguiente isla? Robin: Sabaody y la Isla Gyojin, antes de la Red Line. Sanji: sirenas.
+T792 · One Piece · Water 7 · Llega Garp con Koby y Helmeppo; Puño del Amor a Luffy: "¡Soy tu abuelo!" Misión de copia: Garp.

@@ -1,8 +1,8 @@
 {
-  "turno": 791,
+  "turno": 792,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 38 (Grand Line, Water 7)",
-  "hora": "08:33",
+  "hora": "10:05",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -996,6 +996,13 @@
       "mision": "Entrar por una de las puertas de Blueno y salir por la que tú elijas.",
       "dificultad": "BAJA",
       "emitida": "T735"
+    },
+    {
+      "poder": "Monkey D. Garp: puño (fuerza física, Haki de armadura y de observación, estilo de pelea)",
+      "mundo": "onepiece",
+      "mision": "Recibir un Puño del Amor de Garp en la cabeza y no pestañear.",
+      "dificultad": "MEDIA",
+      "emitida": "T792"
     }
   ],
   "misiones_de_copia_rechazadas": [],
