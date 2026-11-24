@@ -105,3 +105,4 @@
 - 18:40 · (T733) Segunda noche: el CP9 se revela ante Iceburg, lo ata y prende fuego al cuarto (canon). "Ya mandamos a buscar a Franky." Robin con ellos.
 - 18:42 · (T734) Facundo salva a Iceburg y apaga el incendio con hielo (canon: lo salvaban Luffy y los demás).
 - 18:44 · (T735) Blueno (Doa Doa no Mi) intenta llevarse a Franky por una puerta en el aire; Usopp se agarra (canon: se llevaban a los dos).
+- 18:45 · (T736) Blueno se lleva a Franky y a Usopp por una puerta a la estación del puerto (canon). Irán en el tren a Enies Lobby.

@@ -162,3 +162,5 @@
 - Paulie · T732 · Iceburg le contó lo del CP9 (Lucci, Kaku, Kalifa, Blueno). Está furioso y dolido.
 - Facundo · T733 · El CP9 mandó a alguien a buscar a Franky.
 - Iceburg · T734 · Facundo lo desató y congeló el fuego.
+- Tripulación, familia Franky · T736 · Vieron a Facundo no intervenir cuando se llevaron a Franky y Usopp.
+- Facundo · T736 · Siente con el Haki que Franky y Usopp están en la estación del puerto, con el CP9 y Robin.
