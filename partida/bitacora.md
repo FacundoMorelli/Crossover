@@ -967,3 +967,4 @@ T965 · Shingeki · Shiganshina · "Me llamo Facundo Morelli. Año 850." Cinco a
 T966 · Shingeki · Shiganshina · "Estamos en paz con todos los países." Grisha: "Con Marley." Llega la Legión. Erwin: "Doctor Grisha Jaeger. Leí sus diarios."
 T967 · Shingeki · Shiganshina · "No soy quien se los tiene que explicar." Historia: anuncio en 3 días en la plaza. Carla: "Pasen a desayunar."
 T968 · Shingeki · Shiganshina · (simulado días 63-66) Reencuentros: la escuadra de Levi, Marco, Hannes, Frieda; Marcel vivo. Anuncio de Historia en la plaza. "Facundo Morelli, ¿saldrías aquí conmigo?"
+T969 · Shingeki · Shiganshina · Sale al balcón. Un chico grita "¡El del gato!" y la plaza estalla. APODO: "El del gato". Historia: "Si quieres hablarles, están esperando."

@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T966)
-asi es, no intenten entenderlo, pero ya no hay titanes, estamos en paz con todos los paises fuera de la isla
-
-## RESPUESTA 1 (T966)
-
-> asi es, no intenten entenderlo, pero ya no hay titanes, estamos en paz con todos los paises fuera de la isla
-
-> —Así es. No intenten entenderlo. Pero ya no hay titanes, y estamos en paz con todos los países fuera de la isla.
-
-Carla parpadea.
-
-—¿Países? —Mira a Grisha, después a ti—. ¿Fuera de la isla? ¿Qué isla? Si afuera no hay nada, solo titanes... Eso es lo que siempre...
-
-Se calla. Grisha no la está mirando a ella. Te está mirando a ti, con la boca entreabierta y la cara blanca, como si le hubieran pegado en el pecho.
-
-—En paz —repite Grisha. Le tiembla la voz—. Con Marley.
-
-No es una pregunta.
-
-Carla se da vuelta hacia él, despacio.
-
-—¿Grisha? ¿Qué es Marley?
-
-Grisha no contesta. Se le doblan las rodillas, despacio, y se sienta en el escalón de su propia casa, descalzo, con los anteojos todavía tirados en la calle y las manos colgando entre las rodillas. Mira el empedrado. Se ríe, muy bajito, una risa que no tiene nada de alegre ni de triste, de alguien a quien le sacaron de encima un peso de treinta años.
-
-—Paz —dice, al empedrado—. Paz.
-
-Carla se queda mirando a su marido como si lo viera por primera vez.
-
-Eren se agacha, levanta los anteojos de la calle, los limpia con la camisa y se los pone a su padre en la mano. Grisha los mira. No se los pone.
-
-Los cascos llegan.
-
-Doblan la esquina al trote: una docena de caballos de la Legión, con las capas verdes al viento y las alas de la libertad bordadas en la espalda. Al frente, Erwin, en su caballo blanco, sosteniendo las riendas con la única mano. A su lado, Levi. Detrás, Hange, Historia en la grupa del caballo de un soldado, Ymir en el suyo, Jean, Sasha, Connie. Connie viene con la cara hinchada de llorar y una sonrisa enorme: ya fue a Ragako, o le avisaron, y algo en la cara dice que sabe.
-
-Frenan delante de la casa.
-
-Erwin desmonta. Despacio. Se acomoda la capa. Mira a Eren, a Mikasa, a Carla junto a la puerta. Y después al hombre sentado en el escalón, descalzo, con los anteojos en la mano.
-
-Se queda mirándolo un momento largo.
-
-Después se quita el guante con los dientes y da un paso hacia él.
-
-—Doctor Grisha Jaeger. —Inclina la cabeza, con un respeto que no le dedica a casi nadie—. Leí sus diarios. Los del sótano. —Una pausa—. Son la razón por la que esta isla sigue viva.
-
-Grisha levanta la vista. Mira la capa verde, la manga vacía, los ojos azules del comandante.
-
-Detrás de Erwin, Ymir baja del caballo de un salto. Te busca con los ojos entre todos. Te encuentra. No se acerca todavía. Se queda junto al caballo, con la manta en el brazo, mirándote.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 966 · SHINGEKI · DÍA 63 · 05:38        ║
-║ Shiganshina · la casa de los Jaeger          ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Erwin conoce a Grisha. La Legión   ║
-║ en Shiganshina.                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T967)
+## COMANDO 1 (T967)
 tienen muchas cosas que saber, lo van a entender despues yo no soy quien se los tiene que explicar, la reina va a hacer una conferencia seguro en unos dias de estos
 
-## RESPUESTA 2 (T967)
+## RESPUESTA 1 (T967)
 
 > tienen muchas cosas que saber, lo van a entender despues yo no soy quien se los tiene que explicar, la reina va a hacer una conferencia seguro en unos dias de estos
 
@@ -123,10 +57,10 @@ Y hace lo único que sabe hacer cuando el mundo se vuelve demasiado grande.
 
 ---
 
-## COMANDO 3 (T968)
+## COMANDO 2 (T968)
 esta bien, muchas gracias carla. simula varios dias, tambien el anuncio
 
-## RESPUESTA 3 (T968)
+## RESPUESTA 2 (T968)
 
 > esta bien, muchas gracias carla. simula varios dias, tambien el anuncio
 
@@ -197,4 +131,72 @@ En la plaza, decenas de miles de cabezas se levantan hacia el balcón.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 66 13:05, balcón del ayuntamiento de Shiganshina. Historia contó toda la verdad a decenas de miles de revividos. Llama a Facundo a salir al balcón para que lo vean. Facundo puede decidir.
+## COMANDO 3 (T969)
+salgo al balcon
+
+## RESPUESTA 3 (T969)
+
+> salgo al balcon
+
+Ymir te suelta la mano. Te da un empujoncito en la espalda, apenas, con dos dedos.
+
+Caminas hasta la baranda.
+
+Historia te toma de la mano cuando llegas a su lado. Tiene la palma húmeda y fría. Te la aprieta.
+
+Y la plaza te ve.
+
+Durante un segundo, nadie hace nada. Decenas de miles de caras levantadas hacia el balcón, en silencio, mirándote. Al muchacho alto de sobretodo negro, de pelo mitad blanco y mitad azul, con una cicatriz en el ojo y un gato enorme en el hombro. Algunos se hacen sombra con la mano para verte mejor. Una mujer, en la primera fila, se tapa la boca.
+
+Kase mira la plaza desde tu hombro, con la cola quieta. Bosteza.
+
+Y entonces un chico, subido a los hombros de su padre en el medio de la multitud, estira el brazo hacia ti y grita, con toda la fuerza de sus pulmones:
+
+—¡¡EL DEL GATO!!
+
+Alguien se ríe. Una risa sola, nerviosa, en medio del silencio.
+
+Después otra.
+
+Después la plaza entera estalla.
+
+No es un aplauso. Es un rugido. Decenas de miles de voces a la vez, gritando, llorando, riendo, levantando los brazos, agitando pañuelos, gorras, mantas de los campamentos. Los que están en los techos golpean las tejas con los pies. Los soldados del borde se sacan las gorras y las tiran al aire. El ruido rebota en las paredes de las casas recién reconstruidas, sube por encima de la muralla, sale de la ciudad.
+
+—¡¡FACUNDO!! ¡¡FACUNDO!!
+
+—¡¡EL DEL GATO!! ¡¡EL DEL GATO!!
+
+—¡¡GRACIAS!!
+
+Algunos lo gritan. La mayoría solo llora mirándote.
+
+Al lado de la baranda, Historia se ríe con los ojos mojados, sin soltarte la mano. Detrás, en el balcón, Erwin te mira con los brazos detrás de la espalda y la cara tranquila, y una cosa en los ojos que no le habías visto nunca. Levi se apoya en el marco de la puerta, cruzado de brazos, y desvía la mirada. Hange salta en el lugar, agarrada del brazo de Moblit, gritando algo que nadie entiende.
+
+Ymir se quedó en la puerta del balcón, con los brazos cruzados y la media sonrisa torcida de siempre. Pero tiene los ojos brillantes.
+
+Abajo, en la plaza, ves caras que conoces entre la multitud. Carla, con Grisha al lado, abrazada a Eren y a Mikasa. Armin con su abuelo en los hombros de un soldado. Jean y Marco. Connie con una mujer bajita y redonda que le agarra la cara con las dos manos, y que no te mira a ti: lo mira a él. Levi baja la vista a la plaza y busca algo; encuentra una cabeza pelirroja con dos coletas que salta y salta agitando los brazos.
+
+El rugido no baja. Sigue y sigue.
+
+Historia se acerca a tu oído para que la oigas por encima del ruido.
+
+—No tienes que decir nada —te dice, gritando apenas—. Pero si quieres hablarles... están esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 969 · SHINGEKI · DÍA 66 · 13:08        ║
+║ Shiganshina · balcón del ayuntamiento        ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La plaza grita tu nombre.          ║
+║ ¿Les hablas?                                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 66 13:08, balcón del ayuntamiento de Shiganshina. Facundo salió con Historia; la plaza estalló gritando "¡Facundo!" y "¡El del gato!" (apodo nuevo). Historia le dice que, si quiere, puede hablarles. Facundo puede decidir.

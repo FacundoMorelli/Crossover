@@ -198,3 +198,4 @@
 - Carla, Grisha · T966 · Por Facundo: ya no hay titanes; paz con todos los países fuera de la isla. Grisha deduce Marley.
 - Carla, Grisha · T967 · Por Historia: es la reina; anuncio de la verdad en 3 días. Carla ve a Ymir de la mano de Facundo (deduce que es su novia).
 - Decenas de miles en la plaza de Shiganshina · T968 · Por Historia: la verdad del mundo; que Facundo Morelli es a quien la isla le debe todo.
+- Decenas de miles en Shiganshina · T969 · Ven a Facundo en el balcón: pelo blanco y azul, cicatriz, gato. Lo llaman "el del gato".

@@ -117,3 +117,4 @@
 - Día 63 05:42 · (T967) Historia fija un anuncio público de la verdad para el día 66 en la plaza de Shiganshina.
 - Días 63-66 · (T968) Reencuentros: Levi con su escuadra (Petra, Oluo, Eld, Gunther), Farlan e Isabel; Jean con Marco; Hannes con los Jaeger; Historia con Frieda Reiss. Frieda y Grisha se reconocen sin hablar. Armin visita a Annie (Mitras). Carta de Magath: Marcel Galliard vivo en Liberio.
 - Día 66 12:00-13:05 · (T968) Anuncio de Historia en la plaza de Shiganshina: la verdad entera. Llama a Facundo al balcón.
+- Día 66 13:08 · (T969) Facundo sale al balcón con Historia; la plaza lo aclama ("¡El del gato!").

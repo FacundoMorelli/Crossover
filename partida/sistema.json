@@ -1,8 +1,8 @@
 {
-  "turno": 968,
+  "turno": 969,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 66 tras Shiganshina (año 850)",
-  "hora": "13:05",
+  "hora": "13:08",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
@@ -1661,7 +1661,7 @@
     "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
     "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa, desde T214)",
     "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)",
-    "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41)"
+    "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)"
   },
   "tienda": {
     "catalogo_permanente": {
@@ -1797,7 +1797,7 @@
       "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'.",
       "dragonball": "Revelado T214: 'El muchacho del gato'. Pendiente: Vegeta, 'el insecto de dos colores'.",
       "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'.",
-      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'. | NUEVO (T854): la prensa del continente lo va a llamar 'el Emisario del Gato' (diarios del día 41).",
+      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'. | NUEVO (T854): la prensa del continente lo va a llamar 'el Emisario del Gato' (diarios del día 41). | REVELADO T969: \"El del gato\" (gritado por la plaza de Shiganshina).",
       "blackclover": "Si pelea delante de caballeros: 'el Mago de las Estrellas' / entre los Toros Negros: 'el del gato'. En el Ojo del Sol de Medianoche: 'el Desconocido de dos colores'."
     },
     "quien_sospecha": {},

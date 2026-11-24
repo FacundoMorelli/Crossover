@@ -11,3 +11,4 @@
 - (Día 44, 9:00, radio de Liberio) Willy Tybur: fracasó un intento de golpe de oficiales leales a Calvi; ningún herido; los responsables, detenidos. (No dice cómo.)
 - (Día 45) El Parlamento de Marley ratifica el tratado de paz con Paradis por 212 votos a 140.
 - Días 50-54 · En Paradis: el hueco de Wall Rose; peregrinación de curiosos. Dos países firmarán con Paradis.
+- Día 66 · Plaza de Shiganshina: la reina presenta a Facundo Morelli; el pueblo lo llama "el del gato".

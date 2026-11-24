@@ -42,3 +42,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T958 · Se aprieta el puente de la nariz; le tiemblan los hombros.
 - T960 · "Vayan. Los demás iremos a caballo."
 - T966 · Llega a Shiganshina. A Grisha: "Doctor Grisha Jaeger. Leí sus diarios. Los del sótano. Son la razón por la que esta isla sigue viva."
+- T969 · Mira a Facundo en el balcón con algo nuevo en los ojos.
