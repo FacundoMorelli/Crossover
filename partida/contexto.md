@@ -1,10 +1,11 @@
-TURNO: 724 | MUNDO: One Piece | Día 35 (Grand Line) | HORA: 08:43 | Lugar: Water 7, muelle de las afueras
+TURNO: 725 | MUNDO: One Piece | Día 35 (Grand Line) | HORA: 08:44 | Lugar: Water 7, muelle de las afueras
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.672 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T725: "Bueno, Franky, hay algo que tienes que saber." Franky deja de mirar a sus hermanas, se acomoda los anteojos de sol en el tupé y cruza los brazos de metal: "¿Qué cosa? Habla, hombre super."
 - T724: baja del barco y deja que Franky le pegue. "¡¡¡STRONG RIGHT!!!": el puño de acero sale disparado con cadena y le da en la cara; no se mueve. "¡¡¡FRESH FIRE!!!": fuego por la boca; nada. Franky retrocede, con la boca abierta, y de pronto se pone a llorar a mares: "¡¡¡QUÉ HOMBRE MÁS SUPER!!! ¡¡¡NI SE DEFENDIÓ!!!" Se seca con el brazo de metal: "¡Pero igual le pegaste a mis hermanitas!" Mozu: "Hermano, en realidad nos pegamos entre nosotras..." Franky: "...¿Eh?"
 - T723: vuelve al Merry y simula. Noche: el espíritu del Merry sigue martillando en la bodega. Mañana: los diarios: "Atentado contra el alcalde Iceburg: cinco enmascarados. El alcalde, ileso de milagro, no pudo ver sus caras." Ni una palabra de Robin ni de piratas. Por las calles, avisos de la Aqua Laguna: esta noche, marea gigante; evacuación de la parte baja. 08:40: en el muelle, una figura enorme: un hombre con camisa hawaiana abierta, calzoncillos, pelo azul en forma de tupé y brazos gigantes de metal, con la familia Franky detrás (Mozu y Kiwi con chichones): "¡¡¡¿QUIÉN ES EL DEL PELO DE DOS COLORES QUE LES HIZO ESTO A MIS HERMANITAS?!!! ¡¡¡SAL, QUE FRANKY TE VA A DAR UNA LECCIÓN SUUUPER!!!"
 - T722: "Está bien. Franky seguro venga con nosotros. Le pegué a algunos de los suyos... bueno, se pegaron solos, pero van a decir que fue mi culpa." Iceburg se ríe de verdad, por primera vez: "Nmaa. Entonces mañana ese idiota te va a buscar él solo, gritando. Es lo que hace siempre." Se recuesta, cansado: "Vete antes de que entren los guardias. Y cuídate de Lucci. Es el más peligroso de los cuatro."
