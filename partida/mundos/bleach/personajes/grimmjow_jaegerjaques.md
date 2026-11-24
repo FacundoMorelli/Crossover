@@ -14,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1035 · Facundo lo deja inconsciente de un puñetazo en la mandíbula.
 QUÉ SABE DE FACUNDO: descripción de Aizen a las Espadas; lo que contó Ulquiorra (petrificó a Aizen y se fue).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: INCONSCIENTE (T1035, un puñetazo de Facundo; hueso de la mandíbula rajado), colgando de la mano de Facundo sobre la feria. Su espada clavada en la copa del árbol.
+ESTADO: INCONSCIENTE, arrojado por Facundo de vuelta a Hueco Mundo por su Garganta (T1036). Mandíbula rajada. SIN SU ZANPAKUTŌ (clavada en el árbol de la feria de Karakura): no puede liberar la resurrección.

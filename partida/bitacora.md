@@ -1034,3 +1034,4 @@ T1032 · Bleach · Puente · "Unos días... Espero." Ichigo: "Si no vuelves, voy
 T1033 · Bleach · (simulado 18-21/12) Cena Kurosaki; Rukia vuelve; entrenamiento; feria navideña. Grimmjow sale de una Garganta: "¡KUROSAKI!" Ve a Facundo.
 T1034 · Bleach · Feria · "¿Sigues vivo?" Ichigo: Grimmjow solo pelea, pero rompe cosas. Civiles mareados. Grimmjow: "Sube aquí, gatito."
 T1035 · Bleach · Feria · Grimmjow inconsciente de un puñetazo (mandíbula rajada). Ichigo: "¡Era mi pelea!" Rukia: "¿Y ahora qué hacemos con él?"
+T1036 · Bleach · Feria · Tira a Grimmjow por la Garganta. Su zanpakutō quedó clavada en el árbol. Rukia: "Va a volver a buscarla."

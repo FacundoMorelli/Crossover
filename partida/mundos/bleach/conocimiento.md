@@ -101,3 +101,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Keigo, Mizuiro, Tatsuki · T1033 · lo conocen en la feria (21/12) como amigo de Ichigo; Keigo lo reconoce del especial de Kanonji.
 - Grimmjow Jaegerjaques · T1033 · lo reconoce por la descripción de Aizen a las Espadas (pelo bicolor, gato) y por lo que contó Ulquiorra en Las Noches: que Facundo petrificó a Aizen y se fue.
 - Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1035 · vieron a Facundo subir al aire en un instante y dejar inconsciente a Grimmjow de un golpe. Karin (ve espíritus) vio todo. Yuzu, Keigo, Mizuiro, Tatsuki y los civiles no vieron a Grimmjow ni miraban hacia arriba: no vieron nada. Isshin estaba presente (puede haber sentido o visto; no lo dice).
+- Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1036 · vieron a Facundo tirar a Grimmjow por la Garganta. Saben que la zanpakutō de Grimmjow quedó en el árbol.

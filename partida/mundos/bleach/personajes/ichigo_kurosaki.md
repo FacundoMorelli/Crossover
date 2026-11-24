@@ -82,3 +82,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T1033 · 20/12 · Entrena con Facundo en el sótano de Urahara: bankai y máscara; no lo toca. "Algún día te voy a ganar." 21/12 · Feria; Grimmjow lo desafía.
 - T1034 · "Viene a pelear conmigo. Es la tercera vez desde octubre. No mató a nadie. Pero rompe cosas." (parque del distrito este; torre de alta tensión)
 - T1035 · "¡¿DE UN GOLPE?! ¡Hace tres meses que lo vengo echando! ¡Era mi pelea, idiota!"
+- T1036 · "La próxima vez que venga, va a estar el doble de furioso. Y va a ser mi problema, no el tuyo, porque tú ya te vas a haber ido."

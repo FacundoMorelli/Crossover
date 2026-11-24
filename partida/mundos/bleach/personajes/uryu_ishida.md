@@ -30,3 +30,4 @@ ESTADO: observando a Ichigo.
 - DIÁLOGO T296: "Llegas en el momento más inoportuno posible. Como siempre."
 - T297 · Cruza la Garganta con Facundo a Hueco Mundo.
 - T1033 · 20/12 · Pasa por la tienda "a comprar hilo": "Volviste más o menos igual." Deja una bufanda para Kase, mejor que la de Tessai.
+- T1036 · "Bueno. Eso fue... eficiente." "Su zanpakutō. Se quedó aquí."

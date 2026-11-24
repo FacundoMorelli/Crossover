@@ -106,3 +106,4 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - T1033 · 19/12 · Llega por una senkaimon al patio de la tienda (oficial del 13.º). Patada en la canilla a Facundo; lo reta (tres meses sin señales; Ukitake, Kyōraku y Nanao preguntaron); "avisa con una mariposa del infierno". Se sienta a su lado y le pregunta si comió. 21/12 · En la feria en gigai, gana un conejo de peluche.
 - T1034 · "Su reiatsu los aplasta sin que se den cuenta. Si se pone serio aquí, en medio de la feria..."
 - T1035 · "Facundo. ¿Y ahora qué hacemos con él?"
+- T1036 · "Los Arrancar sellan su poder verdadero dentro de la espada. Sin ella, no puede liberar su resurrección. Va a querer recuperarla. Y va a volver a buscarla."
