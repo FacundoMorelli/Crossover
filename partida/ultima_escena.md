@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T896)
-expulso mi haki del rey
-
-## RESPUESTA 1 (T896)
-
-> expulso mi haki del rey
-
-Las espadas de los verdugos están arriba, en el punto más alto, a un segundo de bajar.
-
-Lo sueltas.
-
-No es un hilo, como en el bar de Shakky. Tampoco es la mitad, como contra Rayleigh. Es una ola.
-
-Sale de ti hacia adelante, hacia la plaza y hacia el cadalso, invisible y enorme. El aire se dobla. El hielo de la bahía se raja en mil líneas, en abanico, desde tus pies hasta el muro. Por encima de la ola, en el aire, saltan rayos: no negros, sino azules y blancos, ramas de electricidad del color de tu Haki que chasquean como látigos sobre las cabezas de miles de personas.
-
-Los dos verdugos se quedan quietos con las espadas en alto.
-
-Se les ponen los ojos en blanco. Caen de rodillas, primero uno y después el otro, y las espadas se les resbalan de las manos y caen al cadalso con un ruido de hierro, a un palmo de la nuca de Ace, sin tocarlo.
-
-Después cae la plaza.
-
-Miles de marines se desmayan a la vez, como un trigal que se dobla con el viento: las primeras filas, las del medio, las del muro, las del ala este. El de anteojos, que tanto miedo tenía. Los artilleros de los cañones. Los soldados del hielo. Cientos, miles, uno sobre otro, con los fusiles cayendo como lluvia sobre la piedra.
-
-Detrás de ti, los piratas aliados apenas sienten un viento fuerte que les despeina el pelo. Ninguno cae.
-
-Cuando la ola pasa, en toda la plaza de Marineford quedan de pie muy pocos.
-
-Sengoku, en lo alto del cadalso, agarrado al poste, pálido. Garp, que se levantó de golpe de su silla al pie del cadalso, con la bolsa de galletas en el piso. Aokiji, que bajó el antifaz. Los Guerreros del Mar en sus gradas: Mihawk, sin moverse, con los ojos amarillos muy abiertos; Doflamingo, que dejó de reírse; Hancock, que se agarra el pecho. Los vicealmirantes. Los comandantes de Barbablanca en el hielo.
-
-En su cráter, Kizaru se acomoda los lentes torcidos.
-
-—Ooo... —Se le corta la voz—. Qué miedo~.
-
-Debajo del muro derrumbado, las piedras se mueven. Algo rojo late debajo.
-
-Arriba del cadalso, Ace está de rodillas entre dos verdugos desmayados. Te mira desde allá arriba, con los ojos muy abiertos, sin entender.
-
-Sengoku agarra el Den Den Mushi con la mano temblando.
-
-—Haki del Rey... —Ya no grita. Lo dice para sí—. ¿Azul?
-
-Desde el Moby Dick, por encima de la bahía en silencio, llega una carcajada enorme.
-
-—¡GURARARARARA!
-
-[+1.000 EXP · +3.000 Fragmentos]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 896 · ONE PIECE · DÍA 57 · 13:07       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace. Verdugos caídos.     ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T897)
+## COMANDO 1 (T897)
 vamos luffy
 
-## RESPUESTA 2 (T897)
+## RESPUESTA 1 (T897)
 
 > vamos luffy
 
@@ -135,10 +71,10 @@ Ace, de rodillas entre los verdugos dormidos, grita hacia abajo con la voz rota:
 
 ---
 
-## COMANDO 3 (T898)
+## COMANDO 2 (T898)
 toco a luffy y nos teletransportamos atras de garp para seguir subiendo
 
-## RESPUESTA 3 (T898)
+## RESPUESTA 2 (T898)
 
 > toco a luffy y nos teletransportamos atras de garp para seguir subiendo
 
@@ -195,4 +131,72 @@ Al bajar, el aire debajo de la palma se comprime en una onda de choque dorada qu
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:10, escalera del cadalso. Facundo y Luffy aparecieron detrás de Garp; Garp no los persiguió (se sentó llorando: "Mocosos idiotas"). Arriba, Sengoku transformado en Buda dorado gigante baja la palma con una onda de choque sobre los dos. Ace grita "¡¡LUFFY!!".
+## COMANDO 3 (T899)
+detengo la mano, sigue subiendo luffy
+
+## RESPUESTA 3 (T899)
+
+> detengo la mano, sigue subiendo luffy
+
+Te paras en la escalera, delante de Luffy, y levantas la mano derecha. Abierta, con la palma hacia arriba.
+
+Se te recubre de Haki hasta la muñeca: azul intenso, con vetas blancas.
+
+> —¡Sigue subiendo, Luffy!
+
+La palma dorada de Sengoku te cae encima.
+
+La onda de choque llega primero y se rompe contra tu mano como el mar contra un acantilado. Se abre hacia los costados en dos paredes de aire dorado que arrancan las barandas de piedra del cadalso y las tiran a la plaza en pedazos. La escalera tiembla. Abajo, Garp tiene que agarrarse del escalón.
+
+Después llega la mano.
+
+Una palma de oro del tamaño de una casa, con el peso de un Buda gigante detrás, baja contra tu mano abierta.
+
+Y se frena.
+
+Se queda ahí, apoyada sobre tus dedos azules, a dos metros de tu cabeza. Sengoku empuja. Lo ves por debajo del brazo dorado: tiene la cara de Buda contraída, con los dientes apretados y las venas doradas marcadas en el cuello. Empuja con todo el cuerpo, con todo el peso del dios.
+
+La palma no baja ni un centímetro.
+
+Luffy pasa corriendo por debajo, entre tus piernas y la mano del Buda, como un chico que se mete por debajo de una mesa. Sube los últimos escalones de dos en dos y llega a la cima.
+
+—¡¡ACE!!
+
+Lo abraza. Se tira encima de él, de rodillas, con los brazos alrededor del cuello, y Ace se queda quieto, con los ojos muy abiertos, con la cara de Luffy aplastada contra el hombro.
+
+—Luffy... —Se le quiebra la voz—. Idiota... ¿Por qué...?
+
+Luffy no contesta. Agarra las esposas de Ace con las dos manos para arrancarlas.
+
+Y se le doblan las rodillas.
+
+Las esposas son de piedra marina. Apenas las toca, la fuerza se le va del cuerpo como agua de un balde roto. Se le ponen blandas las piernas. Se agarra para no caer.
+
+—¡No...! ¡No puedo! —Jadea—. ¡Son de esa piedra!
+
+—¡Idiota! —le grita Ace—. ¡Necesitas la llave!
+
+Desde abajo, por la escalera, subiendo a los tropezones, llega el hombre del pelo en forma de tres, con una llave blanca en la mano.
+
+—¡Sombrero de Paja! —grita Mr. 3—. ¡Tengo una! ¡Una llave de cera! ¡Puedo hacerla!
+
+Sengoku, con la palma todavía apoyada en tu mano, gira la cabeza dorada hacia Mr. 3.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 899 · ONE PIECE · DÍA 57 · 13:10       ║
+║ Marineford · cima del cadalso                ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace. Luffy llegó. Las     ║
+║ esposas son de piedra marina.                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:10, cima del cadalso. Facundo frena con una mano (Haki azul) la palma del Buda de Sengoku; no baja un centímetro. Luffy pasó por debajo y abrazó a Ace; las esposas de piedra marina lo debilitan. Ace: "¡Necesitas la llave!" Mr. 3 sube la escalera con una llave de cera. Sengoku gira la cabeza hacia Mr. 3.

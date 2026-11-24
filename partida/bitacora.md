@@ -897,3 +897,4 @@ T895 · One Piece · Marineford · Empuja a Akainu con la Luna contra el muro. R
 T896 · One Piece · Marineford · Haki del Rey: caen los verdugos y ~3.000 marines. +1.000 EXP, +3.000 F.
 T897 · One Piece · Marineford · "¡Vamos, Luffy!" Al pie del cadalso, Garp les bloquea el paso. Sengoku empieza a brillar.
 T898 · One Piece · Marineford · Teletransportación detrás de Garp; Garp no los persigue. Sengoku Buda baja la palma.
+T899 · One Piece · Marineford · Frena la palma del Buda con una mano. Luffy llega a Ace; las esposas lo debilitan. Mr. 3 con llave de cera.
