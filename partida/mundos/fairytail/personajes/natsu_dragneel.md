@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: le cae bien; lo desafió a pelear después de Phantom (T1
 ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 DIÁLOGOS CLAVE:
+- T1013 · "¡LUCY! ¿Estás bien? ¡¿Quién fue?!"
 - T1010 · "¡Ese era mío! ¿De un golpe?" "¡Me estoy encendiendo más todavía!"
 - T1004 · "¡SÍ! ¡Happy, ¿escuchaste?! ¡Dijo que sí!"
 - T1003 · "¡Eso dicen siempre los que son fuertes de verdad! ¡Cuando terminemos con Phantom, peleas conmigo!" "¡Cuando volvamos, tú y yo!"

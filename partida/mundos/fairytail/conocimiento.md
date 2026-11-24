@@ -30,3 +30,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Juvia y Sol · T1012 · lo vieron aparecer de la nada en la celda de la torre, levantar a Lucy y desaparecer. No saben su nombre. Van a informar a Jose.
 - Fairy Tail del salón (Natsu, Happy, Erza, Gray, Elfman y otros) · T1012 · lo vieron aparecer de la nada con Lucy en brazos (teletransporte).
 - Lucy · T1012 · despierta en sus brazos. Lo vio de lejos en el parque de Magnolia (T999-T1002) sin hablar con él; no sabe su nombre.
+- Lucy · T1013 · su nombre: Facundo Morelli (él se lo dijo). Despertó en sus brazos. Vio el lobo de luz.

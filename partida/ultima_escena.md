@@ -3,83 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1010)
-le doy un golpe a Gajeel y lo dejo inconsciente
-
-## RESPUESTA 1 (T1010)
-
-> le doy un golpe a Gajeel y lo dejo inconsciente
-
-Das un paso.
-
-Gajeel lo ve venir. Suelta el garrote de los dientes del lobo de un tirón, lo vuelve a hacer brazo y se cubre la cara con el antebrazo, que se le llena de escamas de hierro en un parpadeo, gruesas y negras, como una armadura.
-
-No le sirve.
-
-El puño le entra por debajo de la guardia, en el medio del pecho.
-
-No suena como un golpe. Suena como una campana. Las escamas de hierro se le rajan todas a la vez, del pecho a los hombros, y se le desprenden en lluvia sobre las baldosas. Gajeel se dobla sobre tu puño con los ojos muy abiertos, y por un segundo se queda así, colgado de tu brazo, sin aire, con la boca abierta y sin ningún sonido.
-
-Después se le ponen los ojos en blanco.
-
-Lo dejas caer. Cae de cara, entero, como un árbol, y no se mueve más.
-
-[Rival vencido: Gajeel Redfox. +900 EXP · +25 Fragmentos.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Magia de Dragon Slayer de Hierro             ║
-║ USUARIO: Gajeel Redfox · Fairy Tail          ║
-║                                              ║
-║ MISIÓN: Que Gajeel Redfox coma, por su       ║
-║ propia voluntad, hierro que tú le ofrezcas.  ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-
-En el salón no queda casi nadie de Phantom en pie. Los pocos que quedan miran a Gajeel tirado en el piso, se miran entre ellos y salen corriendo por las escaleras sin decir nada.
-
-Los de Fairy Tail se quedan quietos. Alguien deja caer una silla.
-
-—¡OYE! —Natsu atraviesa el salón con los puños prendidos fuego, pisando a dos de Phantom que estaban tirados—. ¡Ese era mío! ¡Yo lo iba a...! —Se frena al lado de Gajeel. Lo mira. Te mira a ti. Mira las escamas de hierro rotas en el piso—. ¿De un golpe?
-
-—Aye —dice Happy, despacio, desde su cabeza—. De un golpe.
-
-Natsu se queda con la boca abierta. Después se le empieza a formar una sonrisa en la cara, enorme, de dientes afilados, como si le acabaran de hacer un regalo.
-
-—¡Me estoy encendiendo más todavía!
-
-—Natsu, cállate. —Erza se acerca con las dos espadas bajas. No te mira a ti: mira a Gajeel, comprueba que respira y después mira hacia las escaleras por donde subió el maestro—. Todavía falta Jose. Y los Element 4 no aparecieron.
-
-El lobo de luz vuelve a tu lado y se sienta. El guerrero clava la lanza en el piso. La serpiente se enrosca en una viga, tranquila.
-
-Y entonces lo sientes.
-
-Arriba, varios pisos arriba, sin que nadie más lo note. Makarov está de pie en una sala grande, muy quieto, frente a alguien que no tiene peso ni olor: una presencia que está y no está, como un reflejo en un vidrio. Y detrás de Makarov, a pocos metros, hay otra presencia. Grande, alta, que no hace ruido ni levanta polvo. Se le está acercando por la espalda.
-
-Makarov no la siente.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1010 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:11 · Oak Town · sede de Phantom Lord      ║
-║ NIVEL 27 · EXP 224.900/240.000               ║
-║ FRAGMENTOS 107.562 · 0 jewel                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: La guerra contra Phantom           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1011)
+## COMANDO 1 (T1011)
 subo volando y freno a Aria antes de que toque a Makarov
 
-## RESPUESTA 2 (T1011)
+## RESPUESTA 1 (T1011)
 
 > subo volando y freno a Aria antes de que toque a Makarov
 
@@ -157,10 +84,10 @@ Frente a ustedes, la sonrisa de Jose se congela.
 
 ---
 
-## COMANDO 3 (T1012)
+## COMANDO 2 (T1012)
 me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
 
-## RESPUESTA 3 (T1012)
+## RESPUESTA 2 (T1012)
 
 > me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
 
@@ -248,4 +175,65 @@ Lucy se mueve. Frunce la cara, parpadea, abre los ojos. Lo primero que ve es tu 
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:13, salón principal de Phantom. Facundo trajo a Lucy desde la torre; despierta en sus brazos y le pregunta quién es. Natsu gritó su nombre. Makarov arriba con la proyección de Jose. Facundo puede responder.
+## COMANDO 3 (T1013)
+me llamo Facundo Morelli, le desato las manos
+
+## RESPUESTA 3 (T1013)
+
+> me llamo Facundo Morelli, le desato las manos
+
+> —Me llamo Facundo Morelli.
+
+La bajas con cuidado hasta que apoya los pies en el piso. Se tambalea un poco y la sostienes de un hombro. Le das la vuelta despacio y le sueltas el nudo de las muñecas. Es una soga gruesa, mojada, apretada de más. Le dejó marcas rojas en la piel.
+
+Lucy se frota las muñecas. Mira la soga en tu mano. Mira el salón destrozado a su alrededor, las mesas partidas, los magos de Phantom tirados por todos lados, el lobo de luz sentado a dos metros, mirándola con sus ojos de estrella.
+
+Da un saltito para atrás.
+
+—¡¿Un lobo?! —Se agarra de tu brazo sin darse cuenta—. ¡¿Es de verdad?!
+
+El lobo ladea la cabeza.
+
+—¡LUCY! —Natsu llega corriendo y se frena en seco delante de ella, con Happy detrás. La mira de arriba abajo—. ¿Estás bien? ¿Te hicieron algo? ¡¿Quién fue?!
+
+—¡Lucy! —Happy se le tira a la cara y se le abraza al cuello—. ¡Creíamos que estabas en Magnolia!
+
+—¡Yo también lo creía! —Lucy se despega a Happy de la cara—. Estaba en la calle, cerca del hospital, y empezó a llover de la nada... y había una chica con un paraguas, y un tipo raro que hablaba en otro idioma, y el agua me envolvió entera, y... —Se toca el pelo mojado—. Y después nada. Me desperté acá. En sus brazos.
+
+Te mira. Se le pone la cara roja hasta las orejas, de golpe, y suelta tu brazo como si quemara.
+
+—¡N-no es que...! ¡Lo digo porque es lo que pasó!
+
+—Aye —dice Happy, con una sonrisita—. En sus brazos.
+
+—¡Cállate, gato!
+
+Erza llega detrás de Natsu. Mira a Lucy, entera, y por un instante se le aflojan los hombros. Después te mira a ti.
+
+—La torre está del otro lado del edificio —dice, despacio—. A cien metros de aquí. Y desapareciste delante de todos y volviste con ella en dos segundos.
+
+No es una pregunta. Lo dice como quien anota algo en la lista que empezó en el tren.
+
+Lucy mira a Erza, después a ti, después otra vez a Erza.
+
+—Espera... —dice—. ¿Tú me sacaste de ahí? ¿Tú solo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1013 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:15 · Phantom Lord · salón principal       ║
+║ NIVEL 27 · EXP 225.700/240.000               ║
+║ FRAGMENTOS 107.587 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:15, salón principal de Phantom. Lucy desatada, con Natsu, Happy y Erza. Lucy le pregunta a Facundo si la sacó él solo. Facundo puede responder.
