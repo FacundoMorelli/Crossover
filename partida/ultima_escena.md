@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T803)
-miro a garp y espero(hace que pueda tener varias novias en diferentes mundos y ninguna se entera de la otra excepto que yo lo diga)
-
-## RESPUESTA 1 (T803)
-
-> miro a garp y espero (hace que pueda tener varias novias en diferentes mundos y ninguna se entera de la otra excepto que yo lo diga)
-
-Te quedas en la baranda del Sunny, con los brazos apoyados, mirando el buque de la cabeza de perro.
-
-Garp tira la bala de cañón al aire, la atrapa y la vuelve a tirar. Se ríe tan fuerte que se lo oye desde el muelle.
-
-—¡Bwahahaha! ¡Les dije que los iba a atacar! ¡Así que no se quejen!
-
-Echa el brazo hacia atrás.
-
-—¡PUÑO METEORO!
-
-Tira la bala con la mano. Sale más rápido que si la hubiera disparado un cañón y silba en el aire directo hacia el Sunny. Detrás vienen otra, y otra, y otra. Garp las saca de una pila en la cubierta y las tira una tras otra, como un chico tirando piedras al lago.
-
-—¡¿Está loco ese viejo?! —grita Nami—. ¡Tiene setenta años!
-
-—¡Gomu Gomu no... FUSEN!
-
-Luffy se infla como un globo en la proa y la primera bala le rebota en la panza y vuelve hacia el mar. Zoro desenvaina dos espadas y parte la segunda en el aire; las dos mitades caen al agua a los costados. Sanji salta, gira y patea la tercera de vuelta, en arco, hasta el buque de Garp, que la atrapa con una mano riéndose.
-
-En la baranda del buque, Koby y Helmeppo saludan con los brazos en alto.
-
-—¡LUFFY-SAN! —grita Koby, llorando—. ¡La próxima vez que nos veamos... voy a ser su enemigo de verdad!
-
-—¡Shishishi! ¡Te espero, Koby!
-
-Franky corre hacia la popa y tira de una palanca.
-
-—¡Agárrense todos! ¡Ahora van a ver de lo que es capaz este barco! —Le brillan los lentes—. ¡COUP DE BURST!
-
-Debajo del casco algo ruge. Del fondo de la popa sale una explosión de aire comprimido que levanta una columna de agua blanca. Y el Thousand Sunny sale disparado hacia arriba, entero, por encima de las olas, por encima del puerto, por encima del buque de Garp.
-
-Todos gritan. Usopp abrazado al mástil, Chopper abrazado a Usopp. Nami agarrada al timón. Kase se clava en el césped con las cuatro uñas, con las orejas hacia atrás y cara de indignación absoluta.
-
-Desde abajo, Garp los ve pasar volando sobre su cabeza. Deja de tirar balas y se ríe a carcajadas, con las manos en la panza.
-
-—¡Nos vemos en el Nuevo Mundo, mocoso!
-
-El Sunny planea sobre el mar un kilómetro, dos, y cae en el agua con un chapuzón enorme que los empapa a todos. Se balancea y se endereza. Water 7 queda atrás, con su fuente gigante brillando al sol, cada vez más chica.
-
-Un segundo de silencio.
-
-Y después estalla toda la cubierta.
-
-—¡¡VOLAMOOOS!! —grita Luffy, colgado de la melena del león—. ¡Franky, otra vez! ¡Otra vez!
-
-—¡No se puede usar todo el tiempo, gasta mucha cola! —Franky hace una pose—. ¡Pero fue SUPEEER, ¿no?!
-
-Robin se asoma por la ventana redonda de la biblioteca, empapada, con el pelo pegado a la cara y una risa que no puede parar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 803 · ONE PIECE · DÍA 41 · 09:28       ║
-║ Thousand Sunny · mar abierto                 ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: clavado al césped, indignado           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Rumbo a Sabaody. Salir de One      ║
-║ Piece antes del Día 49.                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T804)
+## COMANDO 1 (T804)
 simula
 
-## RESPUESTA 2 (T804)
+## RESPUESTA 1 (T804)
 
 > simula
 
@@ -145,10 +73,10 @@ Luffy, en el león, abre los ojos como platos. Se le dibuja una sonrisa enorme.
 
 ---
 
-## COMANDO 3 (T805)
+## COMANDO 2 (T805)
 miro a brook y espero
 
-## RESPUESTA 3 (T805)
+## RESPUESTA 2 (T805)
 
 > miro a brook y espero
 
@@ -224,4 +152,66 @@ Brook se queda petrificado en la baranda. Le tiemblan los huesos.
 
 ---
 
-ESTADO AL CIERRE: Día 43 23:30. Brook se unió y contó lo de su sombra. Las puertas de Thriller Bark se cerraron detrás del Sunny; están en la bahía, frente a la isla-barco (mansión de Hogback, bosque, torre de Moria). Canon siguiente: la tripulación se divide; Moria roba sombras de Luffy, Zoro y Sanji; plazo: el amanecer.
+## COMANDO 3 (T806)
+bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
+
+## RESPUESTA 3 (T806)
+
+> bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
+
+> —Bueno, capitán, ¿vamos a recuperar la sombra de nuestro nuevo músico, entonces?
+
+Luffy ni lo piensa. Salta de la baranda a la cabeza del león y se planta con los brazos cruzados, mirando la isla.
+
+—¡Claro que sí! ¡Es nuestro músico! ¡Nadie le roba nada a mi músico!
+
+Brook se queda mirándolos, a Luffy, a ti, a toda la tripulación. Las manos huesudas le tiemblan. Se quita el sombrero y lo aprieta contra el pecho.
+
+—Ustedes... ustedes ni siquiera me conocen... —Se tapa las cuencas vacías con la mano—. ¡Yohohoho! ¡Estoy llorando! ¡Aunque no tengo lágrimas! ¡Ni ojos!
+
+Se recompone de golpe, con la voz seria.
+
+—Pero escúchenme bien. El hombre que vive ahí no es un pirata cualquiera. —Señala la torre-mástil que se pierde en la niebla—. Se llama Gecko Moria. Es uno de los Siete Guerreros del Mar.
+
+Nami se pone blanca.
+
+—Con unas tijeras le corta la sombra a la gente. Y después mete esas sombras en cadáveres, y los cadáveres se levantan y caminan, y pelean con la fuerza del dueño de la sombra. Tiene un ejército entero así. —Se agarra el sombrero—. Y si a uno le roban la sombra... cuando sale el sol, desaparece.
+
+Silencio.
+
+—¡Vámonos! —Usopp corre hacia el timón—. ¡Media vuelta! ¡Nos vamos ya!
+
+—¡Las puertas están cerradas, Usopp! —le grita Nami, abrazada a Chopper.
+
+—¡Zombis! ¡Zombis de verdad! —Chopper tiembla entero—. ¡Ningún libro de medicina dice qué hacer con zombis!
+
+Zoro se acomoda las tres espadas en la cintura, con una sonrisa torcida. Sanji enciende un cigarro, protegiendo la llama de la niebla con la mano. Franky se para en la proa con los brazos en alto, haciendo la pose de estrella.
+
+—¡Esto se pone SUPEEER!
+
+Robin, a tu lado, mira la mansión iluminada con curiosidad, sin miedo.
+
+—Un Shichibukai que colecciona sombras. —Lo dice tranquila—. Qué interesante.
+
+Luffy, en la cabeza del león, mira la isla con los ojos brillando y se le hace agua la boca.
+
+—¡Y seguro que hay comida rara!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 806 · ONE PIECE · DÍA 43 · 23:33       ║
+║ Thousand Sunny · bahía de Thriller Bark      ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Recuperar la sombra de Brook.      ║
+║ Salir de One Piece antes del Día 49.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 43 23:33, bahía de Thriller Bark. Luffy decidió recuperar la sombra de Brook. Brook advirtió sobre Gecko Moria (Shichibukai, sombras en cadáveres, el sol desintegra al que no tiene sombra). Usopp, Nami, Chopper aterrados; Zoro, Sanji, Franky listos; Robin curiosa. Nadie desembarcó todavía.

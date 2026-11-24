@@ -804,3 +804,4 @@ T802 · One Piece · Thousand Sunny · Beso en el muelle. Suben. Se sueltan los 
 T803 · One Piece · Salida de Water 7 · Garp ataca con balas a mano; Coup de Burst; escapan. (Regla R9: una pareja por mundo.)
 T804 · One Piece · Triángulo Florian · Simula dos días de mar. Barril con bengala; niebla. Aparece el barco fantasma de Brook.
 T805 · One Piece · Thriller Bark · Brook acepta unirse; cuenta lo de su sombra. Las puertas de Thriller Bark se tragan al Sunny.
+T806 · One Piece · Thriller Bark · "¿Vamos a recuperar la sombra de nuestro músico?" Luffy acepta. Brook nombra a Moria.
