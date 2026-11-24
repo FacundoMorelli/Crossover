@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T993)
-eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
-
-## RESPUESTA 1 (T993)
-
-> eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
-
-Te agachas, levantas el pincel y escribes en la tablilla. Mientras escribes, lo dices en voz alta.
-
-> —Eh, bueno. Mi técnica se llama Manecilla Inversa. Al tocar a alguien puedo dejarle una marca, y cuando la activo, la persona o el objeto vuelve al estado en que estaba cuando le dejé la marca: heridas, roturas, etcétera. No revierte el alma ni la muerte. Y con el dominio puedo revertir a cualquier ser u objeto que esté adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera.
-
-Dejas el pincel sobre la tablilla.
-
-Nadie habla.
-
-Detrás de los biombos, las cinco siluetas se quedan completamente quietas. Ni un murmullo. Ni el roce de una tela.
-
-Utahime te mira con la boca entreabierta. Ya no hay desconfianza en su cara. Hay otra cosa, más parecida al miedo.
-
-—Revertir... —dice, casi sin voz—. Una herida. Una fractura. Un brazo...
-
-Se detiene. Mira la manga vacía de Nanami. Después a ti.
-
-Nanami no se mueve. No mira su manga. Sigue escribiendo en la libreta, con la misma letra torcida de siempre, sin levantar la vista. Pero la lapicera se le detiene un segundo a mitad de la palabra.
-
-La mano detrás del biombo de la derecha vuelve a moverse. Tira de la tablilla hacia atrás, por debajo del papel. Se oye el roce de la madera sobre el tatami, y después nada.
-
-Un rato largo.
-
-Habla la mujer.
-
-—En mil años de registros —dice, despacio—, hay tres técnicas documentadas que tocaban el tiempo. Ninguna lo revertía. Ninguna sobre otra persona. —Pausa—. Ninguna en un dominio.
-
-—Queda registrada —dice la voz vieja, más baja que antes—. Manecilla Inversa. Facundo Morelli. Grado especial.
-
-Otra pausa. Más larga.
-
-—Una última pregunta, para el registro. —La silueta del medio se inclina apenas hacia el papel—. El informe de la misión de Sendai, del veinticuatro de enero, dice que el último dedo del Rey de las Maldiciones desapareció en un punto negro que usted creó en el aire. —Cada palabra sale más despacio que la anterior—. Eso no es revertir nada. ¿Qué fue eso?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 993 · JUJUTSU · 29/04/2019 · 10:09     ║
-║ Kioto · sede de los altos mandos             ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Técnica registrada. La junta       ║
-║ pregunta por el punto negro de Sendai.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T994)
+## COMANDO 1 (T994)
 eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
 
-## RESPUESTA 2 (T994)
+## RESPUESTA 1 (T994)
 
 > eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
 
@@ -119,10 +63,10 @@ Abre un paraguas negro con una sola mano, con la práctica de cuatro meses.
 
 ---
 
-## COMANDO 3 (T995)
+## COMANDO 2 (T995)
 uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
 
-## RESPUESTA 3 (T995)
+## RESPUESTA 2 (T995)
 
 > uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
 
@@ -185,4 +129,52 @@ Kase, en tu hombro, mira a Nanami con los ojos entrecerrados. Parpadea una vez, 
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:17, portón de la sede de Kioto. Facundo le devolvió el brazo izquierdo a Nanami con la Transfiguración Ociosa y le pidió silencio con un dedo en los labios. Nanami reconoció la sensación (Mahito), no pregunta; le agradece. Facundo puede actuar.
+## COMANDO 3 (T996)
+bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
+
+## RESPUESTA 3 (T996)
+
+> bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
+
+> —Bueno, yo me voy, Nanami. Tengo que seguir recorriendo. Salúdalos a los chicos de mi parte.
+
+Nanami asiente.
+
+No dice que van a extrañarte, ni te pregunta cuándo vuelves. Te mira un momento, con el paraguas en la derecha y la mano izquierda metida en el bolsillo del saco, apretando el alfiler.
+
+—Les voy a decir que se fue —dice—. Itadori va a hacer un escándalo. Kugisaki va a decir que ya sabía. Fushiguro no va a decir nada y va a comer igual, que es lo que importa.
+
+Hace una pausa.
+
+—Y voy a decir que el brazo me creció solo. —Se acomoda los anteojos—. Nadie me va a creer. No me importa.
+
+Te tiende la mano. La izquierda.
+
+Es la primera vez que alguien te da la mano con esa mano en cuatro meses. Lo sabe. Por eso lo hace.
+
+—Cuídese, Morelli-kun. —La voz, plana, de siempre—. Y cuando vuelva, avise. Aunque sea una vez. Me gustaría tener el café listo.
+
+Kase estira el cuello desde tu hombro y le olfatea los dedos de la mano nueva. Estornuda.
+
+Nanami casi sonríe.
+
+Detrás de él, la llovizna sigue cayendo sobre los jardines de piedra de la sede. Los faroles siguen apagados. Por el corredor de madera no pasa nadie.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 996 · JUJUTSU · 29/04/2019 · 10:20     ║
+║ Kioto · portón de la sede, bajo la lluvia    ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Despedida de Nanami. Próximo       ║
+║ destino: a elegir.                           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:20, portón de la sede de Kioto, llovizna. Facundo se despidió de Nanami (le dio la mano con la izquierda; le pide avisar cuando vuelva). Próximo destino sin elegir. Facundo puede actuar.
