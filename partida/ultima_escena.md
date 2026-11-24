@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T936)
-esta bien entonces, eso lo puedo aceptar
-
-## RESPUESTA 1 (T936)
-
-> esta bien entonces, eso lo puedo aceptar
-
-> —Está bien, entonces. Eso lo puedo aceptar.
-
-Tomas la placa. Es más liviana de lo que parece, tibia todavía por el calor de la manga, y el oro del emblema brilla con el sol del mediodía. El cordón rojo se te enreda un segundo entre los dedos.
-
-Kiyomi hace una reverencia. Esta vez, más profunda.
-
-—Entonces la casa Azumabito tiene un amigo. —Se endereza y abre el abanico—. Que, a fin de cuentas, vale más que un socio.
-
-Guardas la placa. Kase estira el cuello desde tu hombro para olerla antes de que desaparezca y estornuda.
-
-Kiyomi se ríe bajito.
-
-Los pasos de Ymir llegan hasta ustedes. Se detiene a dos metros, con las manos en los bolsillos, el pelo revuelto por el viento, y mira a Kiyomi de arriba abajo, sin disimular, con una media sonrisa torcida.
-
-Kiyomi le sostiene la mirada por encima del abanico. Después te mira a ti. Después otra vez a Ymir. Se le arrugan apenas los ojos, como a quien acaba de entender algo y lo guarda para sí.
-
-—Lo dejo en buena compañía, emisario. —Inclina la cabeza hacia Ymir, cortés—. Señorita.
-
-Se da vuelta y se va caminando por el adarve, con pasos cortos y seguros, hacia el mirador.
-
-Ymir la mira irse hasta que llega a los elevadores. Después se da vuelta hacia ti. Se acerca. Te saca una pelusa del hombro del sobretodo que no existe.
-
-—Así que la señora del abanico quería hablar a solas con el emisario. —Ladea la cabeza—. ¿Y qué te ofreció, lindo? Porque desde allá parecía que te estaba vendiendo algo carísimo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 936 · SHINGEKI · DÍA 50 · 12:19        ║
-║ Wall Rose · el borde del corte               ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Ymir pregunta. A las 18,           ║
-║ recepción en el palacio.                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T937)
+## COMANDO 1 (T937)
 si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
 
-## RESPUESTA 2 (T937)
+## RESPUESTA 1 (T937)
 
 > si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
 
@@ -94,10 +46,10 @@ Se ríe bajito, por la nariz.
 
 ---
 
-## COMANDO 3 (T938)
+## COMANDO 2 (T938)
 no me molesta. simula varios dias
 
-## RESPUESTA 3 (T938)
+## RESPUESTA 2 (T938)
 
 > no me molesta. simula varios dias
 
@@ -145,4 +97,64 @@ Ymir se incorpora en el techo, apoyada en un codo, y mira el sobre por encima de
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 54 16:10, techo del palacio de Mitras. Días tranquilos (delegaciones se fueron el 52; Ymir vive en el cuarto de Facundo). Llegó una carta con lacre Tybur, letra de mujer: "Para el emisario. Y para el gato." Sin abrir. Ymir mira. Facundo puede actuar.
+## COMANDO 3 (T939)
+leo el mensaje
+
+## RESPUESTA 3 (T939)
+
+> leo el mensaje
+
+Rompes el lacre. Adentro hay una sola hoja, doblada en tres, escrita con la misma letra prolija e inclinada del sobre. Huele apenas a tierra mojada y a hojas verdes, como el invernadero de la mansión.
+
+La lees.
+
+Emisario:
+
+Le escribo en el primer barco que cruza el mar con permiso de los dos gobiernos. Me parece apropiado. Hace dos meses, una carta entre Liberio y Paradis habría sido una sentencia de muerte para quien la escribiera y para quien la recibiera.
+
+Mi hermano no sabe que le escribo. No porque se lo oculte, sino porque no se lo pregunté. Willy duerme mejor desde la fiesta, y no quiero quitarle eso.
+
+Usted me dijo, en el invernadero, "después de la fiesta". La fiesta pasó. Usted vino cada tarde durante cuatro días y no me lo recordó ni una vez, y yo tampoco se lo pedí. Creo que los dos teníamos miedo de la respuesta.
+
+Ya no lo tengo.
+
+Me quedan nueve años, emisario. Tal vez algo menos. Si hay una posibilidad, aunque sea pequeña, de vivir los que vienen después, quiero intentarlo. Y si no la hay, prefiero saberlo ahora, mientras todavía tengo tiempo de hacer algo con los que me quedan.
+
+No hay apuro. Venga cuando pueda. Estoy casi todas las mañanas en el invernadero, antes de que la casa despierte.
+
+Traiga al gato. Las plantas lo extrañan. Yo también, un poco.
+
+L. T.
+
+Ymir lee la carta por encima de tu hombro, en silencio, de principio a fin. Tarda más que tú. Vuelve a leer la última línea.
+
+Después se recuesta otra vez en el techo, boca arriba, con las manos detrás de la cabeza, mirando el cielo.
+
+—Nueve años —dice, tranquila.
+
+Se queda callada un momento. Se le borra la media sonrisa.
+
+—Es la del Martillo, ¿no? La hermana del señor del discurso. —No te mira. Mira las nubes—. Yo conozco esa cuenta, lindo. Trece años desde que lo heredas. Me la hicieron en Marley, cuando me tenían encadenada, como si fuera un chiste. A mí todavía me quedan unos cuantos.
+
+Gira la cabeza en el tejado y te mira.
+
+—¿Puedes hacerlo? Borrarle el titán sin borrarla a ella. —Le cambia un poco la voz—. ¿Es algo que puedes hacer de verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 939 · SHINGEKI · DÍA 54 · 16:13        ║
+║ Mitras · techo del palacio                   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el techo, al sol                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La carta de Lara: borrar el        ║
+║ Martillo sin borrarla a ella.                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 54 16:13, techo del palacio. Facundo leyó la carta de Lara (quiere intentar borrar el Martillo; invernadero de mañana; Willy no sabe). Ymir la leyó, deduce que es la del Martillo y pregunta si Facundo puede de verdad borrar un titán sin borrar a la persona. Facundo puede responder.

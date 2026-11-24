@@ -1,8 +1,8 @@
 {
-  "turno": 938,
+  "turno": 939,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 54 tras Shiganshina (año 850)",
-  "hora": "16:10",
+  "hora": "16:13",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -450,6 +450,12 @@
       "objeto": "Placa de la casa Azumabito",
       "cantidad": 1,
       "detalle": "Laca negra, emblema Azumabito en oro, cordón de seda roja. Regalo de Kiyomi (T936, día 50). Quien la muestra es recibido como un Azumabito en cualquier puerto, casa o barco de Hizuru, con techo, comida y sin preguntas.",
+      "mundo": "shingeki"
+    },
+    {
+      "objeto": "Carta de Lara Tybur",
+      "cantidad": 1,
+      "detalle": "Día 54, primer correo oficial Marley-Paradis. Pide intentar borrar el Martillo; está casi todas las mañanas en el invernadero antes de que despierte la casa; Willy no sabe. 'Traiga al gato.'",
       "mundo": "shingeki"
     }
   ],

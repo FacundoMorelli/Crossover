@@ -175,3 +175,4 @@
 - Kiyomi · T935 · Por Facundo: no le importa el dinero, le gusta viajar, puede no aparecer en meses.
 - Kiyomi · T936 · Deduce (por cómo Ymir se acerca y lo mira) que Ymir y Facundo tienen algo. No lo dice.
 - Todos en el mirador (Historia, Erwin, Levi, Hange, Armin, Mikasa, Eren, Zackly, Pixis) y parte de las delegaciones · T937 · Ven a Facundo besar a Ymir: son pareja (público).
+- Ymir · T939 · Por la carta de Lara (leída por encima del hombro de Facundo) y deducción: Lara Tybur porta el Martillo de Guerra, le quedan nueve años, quiere que Facundo intente borrarle el titán.
