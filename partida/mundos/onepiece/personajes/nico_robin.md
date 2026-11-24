@@ -63,3 +63,4 @@ ESTADO: activa
 - T773 · Facundo: "Es un secreto" (sobre el lugar del libro). Beso. "Una arqueóloga vive de secretos. Algún día me lo vas a contar."
 - T774 · Facundo la teletransporta a un islote deshabitado: "Te voy a mostrar algo."
 - T775 · Ve a Facundo transformarse en titán. Compara con el grabado del libro: "Es el mismo." Deduce que el libro habla de algo real ligado a él. No tiene miedo.
+- T776 · Facundo le dice en serio que viene de otro mundo y que el del libro es otro. Le cree. "¿Cuántos hay?"

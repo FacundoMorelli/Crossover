@@ -774,3 +774,4 @@ T772 · One Piece · Water 7 · Robin aprende todo el alfabeto de las murallas y
 T773 · One Piece · Water 7 · "Es un secreto." Beso. Robin: "Algún día me lo vas a contar." Entra Luffy con hambre.
 T774 · One Piece · Islote deshabitado · Se teletransporta con Robin a una isla vacía.
 T775 · One Piece · Islote · Facundo se transforma en el Titán de Ceniza delante de Robin. Ella lo compara con el grabado del libro.
+T776 · One Piece · Islote · Facundo le cuenta a Robin en serio que viene de otro mundo. Ella le cree. "¿Cuántos hay?"
