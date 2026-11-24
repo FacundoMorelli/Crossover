@@ -1027,3 +1027,4 @@ T1025 · Fairy Tail · Interrogatorio · "Medicina de los lugares a los que viaj
 T1026 · Fairy Tail · Sede · Semilla del ermitaño a Lahar (donación al Consejo). Fin del interrogatorio. Natsu: "¡Tú y yo! ¡Ahora!"
 T1027 · Fairy Tail → Bleach · Duelo con Natsu (cae diez veces). Despedida en el río; Puerta delante de todos: "¡LA PRÓXIMA TE GANO!" Karakura, 18/12 10:40, nieve bajo el puente.
 T1028 · Bleach · Tienda de Urahara · Jinta: "¡El de la tele!" Ururu: "Volvió." Urahara: "¡El señor Bicolor! ¡Qué descortés! ¡Me encanta!" Yoruichi mira a Kase. "Pase."
+T1029 · Bleach · Tienda de Urahara · Té con Tessai; Yoruichi: "Te tardaste." Urahara cuenta los tres meses de paz. "¿Le va a dar la sorpresa a Kurosaki?"

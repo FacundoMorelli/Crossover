@@ -60,3 +60,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1027 (Fairy Tail) · Happy llora porque se va. Mira hacia atrás una vez antes de cruzar.
 - T1027 (Bleach) · Llega al frío de Karakura y se acurruca en el cuello de Facundo; mira río arriba, hacia la clínica y la tienda de Urahara.
 - T1028 (Bleach) · Se mira con Yoruichi (gato) en la puerta de la tienda.
+- T1029 (Bleach) · Come el pescado seco de Tessai.

@@ -9,3 +9,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo vio en la tele y en la tienda.
 ESTADO: en la tienda.
 - T296 · 21:36 · Abre la trampilla del sótano a Facundo sin preguntar.
+- T1029 · 18/12 · Sirve té a Facundo y pescado seco a Kase, sin hablar.

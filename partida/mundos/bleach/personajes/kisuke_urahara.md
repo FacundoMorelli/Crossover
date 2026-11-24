@@ -62,6 +62,7 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: que dice tener un lugar donde esconder cosas que nadie puede sacar (T107); que sabe del Hōgyoku dentro de Rukia y de que el gato escucha (T98; no sabe cómo); el nombre de su zanpakutō, Sakaime, y que es real (T94); su nombre (T92); lo vio en la TV en vivo (T88); lo tiene enfrente; no puede sentir su reiatsu (Velo).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 - T1028 · 18/12 10:58 · Facundo vuelve a la tienda. "¡Vaya, vaya, vaya! ¡Pero si es el señor Bicolor! Casi tres meses sin una postal... ¡Qué descortés! ¡Me encanta!" "Pase, que se congela. Tessai acaba de hacer té. Supongo que querrá saber qué pasó por aquí mientras estuvo de viaje."
+- T1029 · Le cuenta los tres meses (Central 46, Gin y Tōsen en el Muken, Hueco Mundo en silencio, Ichigo con sus poderes). "Tres meses de paz. Es casi aburrido." "¿Le va a dar la sorpresa, o prefiere que se lo cuente yo?"
 ESTADO: en su tienda.
 - T296 · 21:38 · Mantiene abierta la Garganta. Ve a Facundo; sonríe tras el abanico.
 - DIÁLOGO T296: "¡Vaya, vaya! ¡El señor Bicolor! Justo a tiempo para el tren." / "La Garganta se cierra en un minuto. No es una sugerencia."

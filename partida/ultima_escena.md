@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1026)
-le doy una semilla del ermitaño
-
-## RESPUESTA 1 (T1026)
-
-> le doy una semilla del ermitaño
-
-Sacas una semilla del bolsillo del sobretodo y se la pones en la palma.
-
-Lahar la mira de cerca. La levanta entre dos dedos, a la altura de la lámpara de lacrima, y la hace girar despacio. Es chica, verde, opaca, sin brillo y sin olor. No parece nada.
-
-—Esto —dice en voz baja—. Esto curó a tres personas golpeadas hasta quedar inconscientes.
-
-Saca del cinturón un pañuelo blanco, doblado, con el sello del Consejo bordado en una esquina. Envuelve la semilla con cuidado, como si fuera de vidrio, hace un nudo y se la guarda en un bolsillo interior de la armadura, del lado del pecho.
-
-—Rene. Donación voluntaria de Facundo Morelli, una unidad. Que conste la hora.
-
-—Diecisiete y veintisiete, capitán.
-
-Lahar asiente. Se da vuelta hacia ti y, por primera vez desde que te paró en la puerta, hace una inclinación de cabeza. Corta y formal, pero de verdad.
-
-—Gracias, señor Morelli. La entrevista terminó. Puede irse.
-
-Abre la puerta.
-
-Afuera, el salón sigue lleno de caballeros y de Fairy Tail esperando turno. Gray ya no está en el banco: está adentro, en el otro cuarto. Mirajane levanta la vista desde la barra y te sonríe.
-
-Y apoyado en la pared, justo al lado de la puerta, con los brazos cruzados y un pie contra la madera, está Natsu. Tiene la bufanda torcida y cara de haber estado esperando un buen rato. Happy está dormido sobre su cabeza.
-
-Se despega de la pared de un salto. Happy se despierta y se cae.
-
-—¡Por fin! —Natsu se golpea el puño contra la palma y le salen chispas—. Ya terminaron conmigo, ya terminaron contigo, el viejo está durmiendo la borrachera de ayer y Erza está en el otro cuarto con un caballero. —Te mira con una sonrisa enorme, de dientes afilados—. Nadie nos va a parar. Afuera, en la explanada del río. ¡Tú y yo! ¡Ahora!
-
-—Aye... —murmura Happy desde el piso, todavía medio dormido.
-
-[Semillas del ermitaño: 83.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1026 · FAIRY TAIL · X784 · DÍA 3 ·     ║
-║ 17:28 · Magnolia · salón de la sede          ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1027)
+## COMANDO 1 (T1027)
 dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
 
-## RESPUESTA 2 (T1027)
+## RESPUESTA 1 (T1027)
 
 > dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
 
@@ -165,10 +111,10 @@ Nadie te vio llegar.
 
 ---
 
-## COMANDO 3 (T1028)
+## COMANDO 2 (T1028)
 voy a la tienda de Urahara
 
-## RESPUESTA 3 (T1028)
+## RESPUESTA 2 (T1028)
 
 > voy a la tienda de Urahara
 
@@ -225,4 +171,65 @@ Urahara baja un poco el abanico. Los ojos, debajo del ala del sombrero, ya no se
 
 ---
 
-ESTADO AL CIERRE: Bleach, 18/12 10:58, patio de la tienda de Urahara. Jinta y Ururu lo reconocen; Urahara lo invita a pasar a tomar té y ofrece contarle lo que pasó. Yoruichi (gato) mira a Kase. Facundo puede actuar.
+## COMANDO 3 (T1029)
+paso y le digo que sí, cuéntame qué pasó
+
+## RESPUESTA 3 (T1029)
+
+> paso y le digo que sí, cuéntame qué pasó
+
+> —Sí. Cuéntame qué pasó.
+
+Adentro de la tienda hace calor. Huele a madera vieja, a caramelos baratos y a té verde. Los estantes de la entrada siguen llenos de golosinas que nadie compra.
+
+Te lleva por el pasillo hasta el cuarto del fondo, el del kotatsu. Tessai ya está ahí, arrodillado junto a la mesa baja, enorme, con el delantal puesto y los anteojos brillando. Al verte inclina la cabeza, muy formal, y te sirve una taza de té sin decir una palabra. Después pone en el piso un platito con un pescado seco para Kase.
+
+Kase baja de tu hombro, olfatea el pescado y se lo come.
+
+El gato negro entra detrás, se sube al kotatsu y se echa sobre la manta, del lado más caliente.
+
+—Te tardaste —dice el gato, con voz grave de hombre—. Kisuke apostó que volvías en un mes. Yo dije que en tres. Me debe una cena.
+
+—Detalles, detalles. —Urahara se sienta frente a ti, deja el bastón a un lado y se abanica, aunque hace calor—. Bueno. Por dónde empiezo...
+
+Lo cuenta en orden, con su voz ligera de siempre, como quien lee las noticias del diario.
+
+Que después del 24 de septiembre, cuando Yamamoto rompió la estatua de Aizen en el Muken, la Sociedad de Almas pasó un mes entero dando vueltas sobre sí misma. Que se formó una Central 46 nueva, con jueces que no había matado nadie. Que el primer caso que juzgaron fue el de Gin Ichimaru y Kaname Tōsen: prisión en el Muken, por tiempo indefinido.
+
+—Dicen que la teniente Matsumoto va a verlo una vez por semana —agrega, bajando un poco la voz—. Se sientan a los dos lados de la reja y no hablan. —Se encoge de hombros—. Eso dicen.
+
+Que Hueco Mundo está en silencio desde que te fuiste. Las Noches sigue en pie, cerrada, y nadie de este lado sabe muy bien quién manda adentro.
+
+—Ulquiorra no se movió de ahí —dice el gato—. No mandó a nadie. No atacó a nadie. Es como si estuviera esperando órdenes de alguien que ya no existe. —Te mira con los ojos dorados—. O de alguien que se fue de viaje.
+
+Urahara sigue. Que de vez en cuando se escapa algún Arrancar suelto, sin dueño, y aparece en el Mundo Humano a hacer escándalo; que el más ruidoso es uno de pelo celeste que anda vagando por el desierto, y que Kurosaki ya lo echó dos veces.
+
+—Ah, sí. Kurosaki. —Sonríe detrás del abanico—. Sigue siendo Shinigami sustituto. Con todos sus poderes, el bankai, la máscara, todo. Cada vez más fuerte, y cada vez más insoportable. —Toma un sorbo de té—. La señorita Kuchiki va y viene. La nombraron en el 13.º, y Ukitake la manda a Karakura cada vez que puede. Inoue, Sado e Ishida, en la escuela, como si nada. Terminan el semestre la semana que viene.
+
+Deja la taza en la mesa.
+
+—Y eso es todo. Tres meses de paz. —Te mira. Ya no se abanica—. Nunca había visto tres meses así de tranquilos en este pueblo. Es casi aburrido.
+
+Hace una pausa.
+
+—Kurosaki sale de clase a las tres y media. Pasa por el puente todos los días, de vuelta a la clínica. —Vuelve a abrir el abanico—. No sabe que volvió. Nadie lo sabe todavía, salvo los que estamos en este cuarto. —Se tapa media cara—. ¿Le va a dar la sorpresa, o prefiere que se lo cuente yo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1029 · BLEACH · 18/12 · 11:20          ║
+║ Karakura · tienda de Urahara, cuarto del     ║
+║ kotatsu                                      ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el piso, comiendo pescado seco      ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 18/12 11:20, cuarto del kotatsu de la tienda de Urahara. Urahara le contó los tres meses de paz. Pregunta si Facundo le va a dar la sorpresa a Ichigo (sale a las 15:30, pasa por el puente) o se lo cuenta él. Facundo puede responder.

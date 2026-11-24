@@ -37,3 +37,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en la tienda, como gato.
 - T296 · 21:38 · En forma de gato, en el sótano. Mira a Kase.
 - T1028 · 18/12 · En forma de gato, se asoma en la puerta de la tienda y mira a Kase.
+- T1029 · Sobre el kotatsu: "Te tardaste. Kisuke apostó que volvías en un mes. Yo dije que en tres. Me debe una cena." "Ulquiorra... es como si estuviera esperando órdenes de alguien que ya no existe. O de alguien que se fue de viaje."
