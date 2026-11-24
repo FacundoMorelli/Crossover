@@ -155,3 +155,4 @@
 - Todo el mundo (Shingeki) · T853 · Facundo Morelli es el emisario de Paradis: pelo blanco y azul, cicatriz, gato en el hombro. Fotografiado por la prensa de cinco países. Muller confirma que Morelli el asesor y el emisario son la misma persona.
 - Kiyomi Azumabito · T855 · Por Facundo: una compañera suya (en Paradis) se le parece, con el pelo negro.
 - Facundo · T855 · Por Kiyomi: la casa Azumabito busca hace generaciones a una rama perdida de la familia del shogun que quedó en la isla.
+- Kiyomi Azumabito · T856 · Por Facundo: la compañera de pelo negro tiene una venda en la muñeca derecha; casi seguro tiene la marca.

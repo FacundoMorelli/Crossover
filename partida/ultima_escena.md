@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T853)
-Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
-
-## RESPUESTA 1 (T853)
-
-> Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
-
-Ymir te mira de reojo cuando apartas el telón. No dice nada. Te da un empujoncito en la espalda.
-
-Sales al escenario.
-
-La luz de los faroles te pega de frente. Al principio la plaza es una mancha de caras, banderas y humo que todavía flota. Caminas despacio sobre las tablas nuevas, con el traje gris de burócrata marleyano y Kase sentado en tu hombro, con la cola colgando por tu espalda, y te detienes junto a Historia, al lado de la mesa del tratado.
-
-> —Mucho gusto. Soy Facundo Morelli, el emisario de Paradis.
-
-El murmullo empieza en la primera fila y se extiende. Los periodistas se empujan para sacar la foto. Las cámaras de fuelle disparan una tras otra: el pelo de dos colores que asoma bajo el sombrero, la cicatriz del ojo, el gato. Desde los palcos, los embajadores se inclinan hacia adelante. La mujer del kimono te mira con los ojos entrecerrados y una sonrisa chiquita de interés detrás del abanico.
-
-En el pasillo central, el coronel Muller se quedó quieto como una estatua.
-
-Te mira y te reconoce. El asesor civil. Las colonias del sur. La casa del catorce. El gato. Se le borra el color de la cara de a poco. Mira la libreta que tiene en la mano. La cierra, despacio, con un ruido seco que nadie más oye, y la guarda en el bolsillo.
-
-En el palco del alto mando, solo, Magath se cruza de brazos. Se le mueve algo en la comisura de la boca. Casi parece una sonrisa.
-
-Historia se inclina sobre la mesa y firma. La pluma raspa el papel en el silencio. Hay una firma clara, redonda, de una chica de quince años que aprendió a escribir su nombre verdadero hace poco: Historia Reiss.
-
-Willy firma al lado, por la familia Tybur, con una firma larga y elegante. Después levanta la mano hacia el palco del alto mando.
-
-Magath baja por la escalera del palco, cruza la plaza entre los cadetes y sube al escenario con pasos pesados, militares. Toma la pluma sin decir nada y firma como representante del ejército de Marley. Después se endereza y te mira, un segundo, con sus ojos grises de viejo soldado.
-
-Historia toma la pluma de la mesa y te la tiende con las dos manos.
-
-—Firme como testigo. —Lo dice bajito, solo para ti, y después más fuerte, para la plaza—. Usted lo hizo posible.
-
-Toda la plaza espera, en silencio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 853 · SHINGEKI · DÍA 40 · 19:25        ║
-║ Liberio · escenario de la plaza              ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tratado firmado por Historia,      ║
-║ Willy y Magath. Firmar como testigo.         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T854)
+## COMANDO 1 (T854)
 firmo como testigo
 
-## RESPUESTA 2 (T854)
+## RESPUESTA 1 (T854)
 
 > firmo como testigo
 
@@ -111,10 +59,10 @@ Se endereza. Te mira con unos ojos oscuros, inteligentes, que no se pierden nada
 
 ---
 
-## COMANDO 3 (T855)
+## COMANDO 2 (T855)
 si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
 
-## RESPUESTA 3 (T855)
+## RESPUESTA 2 (T855)
 
 > si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
 
@@ -159,4 +107,52 @@ Te mira fijo. Los ojos oscuros le brillan.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:31, detrás del telón con Kiyomi Azumabito (Ymir a unos metros). Kiyomi contó que la casa Azumabito busca una rama perdida de la familia del shogun que quedó en la isla. Pregunta si la compañera de pelo negro (Mikasa, en el sótano) tiene una marca en la parte de adentro de la muñeca derecha.
+## COMANDO 3 (T856)
+no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
+
+## RESPUESTA 3 (T856)
+
+> no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
+
+> —No lo sé, porque tiene una venda en esa parte. Pero le puedo decir que casi seguro que sí.
+
+Kiyomi se queda inmóvil.
+
+Despacio, abre el abanico y se tapa la boca con él. Por encima del borde pintado, se le ven los ojos, oscuros, llenándose de lágrimas que no deja caer.
+
+—Una venda. —Lo dice muy bajo, detrás del abanico—. Claro. Su madre... o la madre de su madre... le habrá dicho que la escondiera. Que no se la mostrara a nadie. Así se protege lo que uno no puede proteger de otra forma.
+
+Cierra los ojos un segundo. Respira.
+
+Cuando los abre, ya es otra vez la embajadora: la espalda recta, la voz firme, el abanico a la altura del pecho. Pero algo cambió en la forma en que te mira.
+
+—Señor emisario. —Hace una inclinación leve—. Hace cien años que mi familia espera esta noticia. Le estoy en deuda, y Hizuru no olvida sus deudas.
+
+Mira alrededor, hacia la escalera del escenario, hacia el ruido de la plaza.
+
+—¿Esa compañera suya... está en Liberio esta noche?
+
+Lo pregunta con cuidado, casi con miedo.
+
+—Si es así, quisiera conocerla. Aunque sea un minuto. Verle la cara. —Baja un poco la voz—. Y si usted prefiere que todavía no sepa quién soy, no le diré nada. Esperaré lo que haga falta. Ya esperamos cien años.
+
+Detrás de ella, apoyada contra el andamio, Ymir levanta una ceja y te mira, preguntándote sin palabras qué está pasando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 856 · SHINGEKI · DÍA 40 · 19:33        ║
+║ Liberio · detrás del telón                   ║
+║ NIVEL 27 · EXP 218.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
+║ Kiyomi quiere conocer a Mikasa.              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:33, detrás del telón. Facundo le dijo a Kiyomi que la compañera tiene una venda en la muñeca y que casi seguro tiene la marca. Kiyomi, emocionada, pregunta si está en Liberio y pide conocerla un minuto (sin decirle quién es, si Facundo prefiere). Mikasa está en el sótano del edificio detrás del escenario. Ymir mira, preguntando con los ojos.
