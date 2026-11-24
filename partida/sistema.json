@@ -1,8 +1,8 @@
 {
-  "turno": 1040,
+  "turno": 1041,
   "mundo_actual": "hunterxhunter",
   "fecha_local": "Día 1 (día del duelo Hisoka vs. Chrollo)",
-  "hora": "18:00",
+  "hora": "19:31",
   "edad": 18,
   "nivel": 27,
   "exp": 237350,
@@ -1242,6 +1242,20 @@
       "mision": "Que Grimmjow Jaegerjaques te pida la revancha.",
       "dificultad": "BAJA",
       "emitida": "T1035"
+    },
+    {
+      "poder": "Skill Hunter (El Libro del Ladrón) — Chrollo Lucilfer",
+      "mundo": "hunterxhunter",
+      "mision": "Dejar que Chrollo Lucilfer intente robarte una habilidad.",
+      "dificultad": "ALTA",
+      "emitida": "T1041"
+    },
+    {
+      "poder": "Bungee Gum y Texture Surprise — Hisoka Morow",
+      "mundo": "hunterxhunter",
+      "mision": "Que Hisoka Morow te elija como su próxima presa.",
+      "dificultad": "MEDIA",
+      "emitida": "T1041"
     }
   ],
   "misiones_de_copia_rechazadas": [],

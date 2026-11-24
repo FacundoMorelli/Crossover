@@ -11,4 +11,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en la 3.ª fila de la grada este del estadio, mirando el duelo (T1040).
+ESTADO: (T1041) verificó el cuerpo de Hisoka; 19:31 a ~1 km de la Torre, en la calle, con el celular.

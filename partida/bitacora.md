@@ -1039,3 +1039,4 @@ T1037 · Bleach · Feria · "¿Quieren que la guarde?" Uryū sí; Ichigo no (que
 T1038 · Bleach · Feria · "Dénsela a Urahara. Me tengo que ir." Botón de aviso a Ichigo. Karin: "No le voy a contar a nadie." Ichigo: "Vuelve. Y avisa antes de irte."
 T1039 · Bleach → Hunter x Hunter · Despedida en la feria; Puerta. Avenida frente a la Torre Celestial: HISOKA vs. CHROLLO hoy 18:00. Don: Libro de Deudas. Misión: que Shalnark y Kortopi sigan vivos al zarpar el Black Whale.
 T1040 · HxH · Torre Celestial · Entra sin boleto en la marea. Ubica a Shalnark, Kortopi y Machi. Hisoka vs. Chrollo: "¡Comiencen!" Chrollo abre el libro.
+T1041 · HxH · Torre Celestial · Observa: Chrollo mata a Hisoka (Black Voice, Sun and Moon, réplicas explosivas). Misiones de copia (Chrollo, Hisoka). 19:31: Hisoka revive y ata a Machi. Kortopi va a unos baños; Shalnark lejos.
