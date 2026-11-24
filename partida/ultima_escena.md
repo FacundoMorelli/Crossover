@@ -138,7 +138,7 @@ unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que s
 
 > —Unos días, y después me voy. No se preocupen por mí. Si no vuelvo, es porque sigo recorriendo. No estoy muerto ni nada así... Espero.
 
-—¡¿"Espero"?! —Ichigo se da vuelta de golpe—. ¡¿Cómo que "espero"?! ¡No digas esas cosas así nomás, como si hablaras del clima!
+—¡¿"Espero"?! —Ichigo se da vuelta de golpe—. ¡¿Cómo que "espero"?! ¡No digas esas cosas así como así, como si hablaras del clima!
 
 Orihime se queda con la sonrisa a medio camino. Se le borra despacio.
 
