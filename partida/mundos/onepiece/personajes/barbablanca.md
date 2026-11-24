@@ -11,3 +11,4 @@ ESTADO: activo
 - T887 · Ve al marine gordo convertirse en Ojos de Eclipse (pelo blanco y azul, ojos rojo y azul, el gato). Se ríe: "Vinieron los dos a buscar a mi hijo."
 - T888 · Come una semilla del ermitaño de Facundo: heridas cerradas, fuerza y aire de hace veinte años (la enfermedad de fondo y la vejez siguen). Se arranca los tubos. "Hoy no me muero."
 - T890 · Facundo le pone una Marca (II) de la Manecilla Inversa. No ve nada; se ríe.
+- T902 · "Un mocoso dándome órdenes en mi barco." Parte el hielo para cubrir la retirada; la flota zarpa. No se queda atrás (cambio).

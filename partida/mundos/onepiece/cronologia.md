@@ -162,3 +162,4 @@
 - Día 57 13:07 · (T896) El Haki del Rey de Facundo desmaya a los verdugos y a ~3.000 marines. La ejecución se frena (cambio).
 - Día 57 13:11 · (T900) ACE LIBRE: Facundo rompe las esposas y le da una semilla del ermitaño (canon: Luffy y Mr. 3 lo liberaban ~15:00 y Ace moría después por Akainu).
 - Día 57 13:13 · (T901) Ace en el Moby Dick. Barbablanca ordena la retirada (canon). Akainu sale del muro y provoca a Ace (canon).
+- Día 57 13:16 · (T902) Ace NO cae en la provocación de Akainu (cambio crucial). Barbablanca parte el hielo y la flota se retira con él a bordo. Akainu lanza Ryusei Kazan sobre la flota.

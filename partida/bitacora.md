@@ -900,3 +900,4 @@ T898 · One Piece · Marineford · Teletransportación detrás de Garp; Garp no 
 T899 · One Piece · Marineford · Frena la palma del Buda con una mano. Luffy llega a Ace; las esposas lo debilitan. Mr. 3 con llave de cera.
 T900 · One Piece · Marineford · Rompe las esposas de Ace y le da una semilla. ACE LIBRE.
 T901 · One Piece · Marineford · "Facundo Morelli, Sombrero de Paja." Al Moby Dick; retirada. Akainu provoca a Ace.
+T902 · One Piece · Marineford · Ace no cae en la provocación. Barbablanca parte el hielo; la flota zarpa. Akainu lanza lluvia de magma.

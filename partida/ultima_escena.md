@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T899)
-detengo la mano, sigue subiendo luffy
-
-## RESPUESTA 1 (T899)
-
-> detengo la mano, sigue subiendo luffy
-
-Te paras en la escalera, delante de Luffy, y levantas la mano derecha. Abierta, con la palma hacia arriba.
-
-Se te recubre de Haki hasta la muñeca: azul intenso, con vetas blancas.
-
-> —¡Sigue subiendo, Luffy!
-
-La palma dorada de Sengoku te cae encima.
-
-La onda de choque llega primero y se rompe contra tu mano como el mar contra un acantilado. Se abre hacia los costados en dos paredes de aire dorado que arrancan las barandas de piedra del cadalso y las tiran a la plaza en pedazos. La escalera tiembla. Abajo, Garp tiene que agarrarse del escalón.
-
-Después llega la mano.
-
-Una palma de oro del tamaño de una casa, con el peso de un Buda gigante detrás, baja contra tu mano abierta.
-
-Y se frena.
-
-Se queda ahí, apoyada sobre tus dedos azules, a dos metros de tu cabeza. Sengoku empuja. Lo ves por debajo del brazo dorado: tiene la cara de Buda contraída, con los dientes apretados y las venas doradas marcadas en el cuello. Empuja con todo el cuerpo, con todo el peso del dios.
-
-La palma no baja ni un centímetro.
-
-Luffy pasa corriendo por debajo, entre tus piernas y la mano del Buda, como un chico que se mete por debajo de una mesa. Sube los últimos escalones de dos en dos y llega a la cima.
-
-—¡¡ACE!!
-
-Lo abraza. Se tira encima de él, de rodillas, con los brazos alrededor del cuello, y Ace se queda quieto, con los ojos muy abiertos, con la cara de Luffy aplastada contra el hombro.
-
-—Luffy... —Se le quiebra la voz—. Idiota... ¿Por qué...?
-
-Luffy no contesta. Agarra las esposas de Ace con las dos manos para arrancarlas.
-
-Y se le doblan las rodillas.
-
-Las esposas son de piedra marina. Apenas las toca, la fuerza se le va del cuerpo como agua de un balde roto. Se le ponen blandas las piernas. Se agarra para no caer.
-
-—¡No...! ¡No puedo! —Jadea—. ¡Son de esa piedra!
-
-—¡Idiota! —le grita Ace—. ¡Necesitas la llave!
-
-Desde abajo, por la escalera, subiendo a los tropezones, llega el hombre del pelo en forma de tres, con una llave blanca en la mano.
-
-—¡Sombrero de Paja! —grita Mr. 3—. ¡Tengo una! ¡Una llave de cera! ¡Puedo hacerla!
-
-Sengoku, con la palma todavía apoyada en tu mano, gira la cabeza dorada hacia Mr. 3.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 899 · ONE PIECE · DÍA 57 · 13:10       ║
-║ Marineford · cima del cadalso                ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace. Luffy llegó. Las     ║
-║ esposas son de piedra marina.                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T900)
+## COMANDO 1 (T900)
 no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
 
-## RESPUESTA 2 (T900)
+## RESPUESTA 1 (T900)
 
 > no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
 
@@ -145,10 +77,10 @@ Mira las esposas rotas a sus pies. Te mira a ti.
 
 ---
 
-## COMANDO 3 (T901)
+## COMANDO 2 (T901)
 Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
 
-## RESPUESTA 3 (T901)
+## RESPUESTA 2 (T901)
 
 > Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
 
@@ -215,4 +147,74 @@ Se le apagan las risas. Se le encienden los puños, despacio, en un fuego que ya
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:13, cubierta del Moby Dick. Facundo se presentó a Ace y los teletransportó a él y a Luffy al Moby Dick. Barbablanca abrazó a Ace y ordenó la retirada. Akainu salió del muro derrumbado y provoca a Ace insultando a Roger y a Barbablanca ("un perdedor que se esconde detrás de sus hijos"). Ace, en la baranda, con los puños encendiéndose. Momento canon en que Ace se daba vuelta y moría.
+## COMANDO 3 (T902)
+ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
+
+## RESPUESTA 3 (T902)
+
+> ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
+
+Pones la mano en el hombro de Ace, justo donde empieza a arder.
+
+> —Ace, no hagas estupideces. Todos vinieron hasta aquí a salvarte. No es el momento de atacarlo.
+
+Ace no se da vuelta. Tiene la mandíbula apretada, la vista clavada en Akainu, y el fuego le sube por los brazos hasta los codos. Le tiembla todo el cuerpo.
+
+Te das vuelta hacia la montaña blanca que tienes al lado.
+
+> —Y tú, viejo, tampoco hagas nada. Vámonos. La guerra ya tiene que terminar.
+
+Por un segundo, nadie respira en la cubierta.
+
+Luffy se pone al otro lado de Ace y le agarra el antebrazo con las dos manos, encima del fuego. No le importa quemarse.
+
+—Ace.
+
+Es lo único que dice.
+
+Ace baja la vista hacia la mano de su hermano, apretándole el brazo. Respira una vez, hondo, temblando. Otra.
+
+Las llamas de los puños se le achican despacio, como una fogata a la que le tiran arena, hasta apagarse.
+
+—...Tienes razón. —Lo dice entre dientes, sin dejar de mirar a Akainu—. Tienes razón.
+
+Le da la espalda a la plaza.
+
+Barbablanca te mira desde arriba, con una ceja levantada. Se le mueve el bigote.
+
+—¡Gurararara! —Se ríe tan fuerte que la cubierta tiembla—. ¡Un mocoso dándome órdenes en mi propio barco! ¡Hacía cuarenta años que nadie se atrevía!
+
+Pero no salta a la plaza. Se acerca a la baranda, levanta un puño y golpea el aire, una sola vez.
+
+El aire se raja como vidrio. Toda la isla tiembla. El hielo de la bahía se parte con un crujido largo, enorme, en una grieta recta y profunda que separa la plaza de Marineford de los barcos piratas, un abismo de agua negra de cien metros de ancho que ningún marine puede cruzar.
+
+—¡Arriba las velas! —ruge—. ¡Nos vamos todos!
+
+La flota zarpa. Los barcos crujen, se sueltan del hielo roto y empiezan a moverse hacia la salida de la bahía, llenos de piratas que gritan, lloran y ríen a la vez.
+
+En la orilla, Akainu se queda mirando cómo se le escapan. Le cambia la cara. Ya no es fría.
+
+Levanta los dos brazos al cielo.
+
+El magma le sube por los brazos hacia arriba, hacia las nubes, en columnas de fuego, y explota allá arriba. Durante un segundo el cielo se pone rojo. Después empiezan a caer: puños de magma del tamaño de casas, cientos, como una lluvia de meteoritos, sobre los barcos que se retiran.
+
+—¡Ryusei Kazan! —ruge Akainu—. ¡Ninguno sale vivo de esta bahía!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 902 · ONE PIECE · DÍA 57 · 13:16       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Retirada. Lluvia de magma sobre    ║
+║ la flota. Shingeki: antes del D59 16:30.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:16, cubierta del Moby Dick. Ace no cayó en la provocación (Luffy le agarró el brazo). Barbablanca partió el hielo con un abismo de agua entre la plaza y los barcos; la flota zarpa con todos. Akainu, furioso, lanza una lluvia de cientos de meteoritos de magma (Ryusei Kazan) sobre los barcos que se retiran: "¡Ninguno sale vivo de esta bahía!"
