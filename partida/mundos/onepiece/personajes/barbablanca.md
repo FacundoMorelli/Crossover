@@ -9,3 +9,4 @@ ENCUENTROS:
 ESTADO: activo
 - T886 · Abraza a Squard: "Hijo tonto. ¿Cómo voy a vender a mis hijos?" Al marine gordo: "No eres un marine. Ningún marine tiene un Haki de ese color."
 - T887 · Ve al marine gordo convertirse en Ojos de Eclipse (pelo blanco y azul, ojos rojo y azul, el gato). Se ríe: "Vinieron los dos a buscar a mi hijo."
+- T888 · Come una semilla del ermitaño de Facundo: heridas cerradas, fuerza y aire de hace veinte años (la enfermedad de fondo y la vejez siguen). Se arranca los tubos. "Hoy no me muero."

@@ -156,3 +156,4 @@
 - Día 57 ~11:00-12:40 · (T884, canon) Llega la flota de Barbablanca desde el fondo de la bahía; maremotos; Aokiji congela la bahía; empieza la guerra (comandantes, Oars Jr., almirantes, Mihawk). 12:40: el buque de Impel Down cae del cielo con Luffy, Jinbe, Crocodile, Ivankov, Buggy, Mr. 3. Luffy grita que vino a salvar a Ace.
 - Día 57 12:58 · (T885) Facundo frena la espada de Squard antes de que apuñale a Barbablanca (canon: lo apuñalaba).
 - Día 57 13:00 · (T887) Facundo se revela en el Moby Dick. La Marina lo identifica como Ojos de Eclipse. Akainu se pone de pie.
+- Día 57 13:01 · (T888) Barbablanca come una semilla del ermitaño de Facundo: entero para la guerra (cambio grande: en el canon estaba enfermo y herido, Squard lo apuñalaba).

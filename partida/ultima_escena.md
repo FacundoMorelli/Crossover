@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T885)
-antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
-
-## RESPUESTA 1 (T885)
-
-> antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
-
-Abres el Haki entero, sin dejar de parecer un marine más en la fila.
-
-La guerra es un ruido enorme en la cabeza: miles de presencias que gritan, que odian, que tienen miedo. Luffy avanza por el hielo como un fuego chiquito y terco, con Jinbe al lado. Ace está arriba, quieto, y le tiembla todo por dentro. Barbablanca es una montaña en la cubierta del Moby Dick.
-
-Y detrás de la montaña hay una presencia que se acerca despacio, temblando de rabia y de traición. Squard.
-
-Sube a la cubierta del Moby Dick por la popa. Los piratas de Barbablanca lo dejan pasar: es un capitán aliado, de los suyos. Camina hacia la espalda del viejo con una espada larga en la mano y la cara deshecha.
-
-Te mueves.
-
-Desapareces del ala este sin que el de anteojos alcance a darse vuelta.
-
-Apareces detrás de Squard, en la cubierta del Moby Dick, en el mismo instante en que él levanta la espada y la lanza hacia adelante con las dos manos, con todo el peso del cuerpo, hacia la espalda de Barbablanca.
-
-Levantas la mano derecha.
-
-Dos dedos. El índice y el mayor. Se te recubren de Haki hasta los nudillos: azul intenso, con vetas blancas.
-
-La hoja se frena entre tus dedos con un chasquido seco, a un palmo de la espalda del abrigo blanco. No avanza ni un milímetro. Squard empuja con todo el cuerpo, con los brazos temblando, y la espada no se mueve.
-
-La cubierta entera se queda quieta.
-
-Barbablanca se da vuelta. Despacio, como una montaña que gira.
-
-Ve a Squard, uno de sus aliados, uno de sus hijos, con la espada en las manos apuntándole a la espalda. Y ve, detrás de Squard, a un marine raso, gordo, con la gorra blanca y el uniforme sucio de pólvora, sosteniendo la hoja con dos dedos azules.
-
-Los ojos amarillos del viejo se abren apenas.
-
-Squard suelta la empuñadura. Retrocede un paso, temblando, con la cara llena de lágrimas, y le grita al viejo, con la voz rota:
-
-—¡Lo sabías! ¡Nos vendiste! —Le tiembla todo—. ¡El almirante Akainu me lo dijo! ¡Vendiste a todos los capitanes aliados a la Marina a cambio de la vida de Ace! ¡Para que nos maten a todos y salvar a tu hijo!
-
-Desde el hielo, abajo, Marco se da vuelta en medio del vuelo, con las llamas azules en los brazos. Los comandantes miran hacia la cubierta.
-
-En la plaza, a lo lejos, Akainu levanta la cabeza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 885 · ONE PIECE · DÍA 57 · 12:58       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Squard frenado. Shingeki: antes del D59.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T886)
+## COMANDO 1 (T886)
 que chico tonto, creyendole al peor almirante de la historia
 
-## RESPUESTA 2 (T886)
+## RESPUESTA 1 (T886)
 
 > que chico tonto, creyendole al peor almirante de la historia
 
@@ -119,10 +59,10 @@ Adentro de tu camisa, Kase se pone tenso.
 
 ---
 
-## COMANDO 3 (T887)
+## COMANDO 2 (T887)
 perdon perdon no me presente todavia, me saco la ropa y me pongo mi ropa de siempre, me cambio el pelo y me saco los lentes de contacto, kase ya puedes subir al hombro
 
-## RESPUESTA 3 (T887)
+## RESPUESTA 2 (T887)
 
 > perdon perdon no me presente todavia, me saco la ropa y me pongo mi ropa de siempre, me cambio el pelo y me saco los lentes de contacto, kase ya puedes subir al hombro
 
@@ -179,4 +119,70 @@ Arriba del cadalso, Ace levanta la cabeza y mira hacia el Moby Dick, con los ojo
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:00, cubierta del Moby Dick. Facundo se quitó el disfraz (ropa negra, pelo blanco y azul, ojos rojo y azul, Kase al hombro). Marco lo reconoce como Ojos de Eclipse del Sombrero de Paja. Barbablanca, riéndose: "¡Vinieron los dos a buscar a mi hijo!" La Marina lo anuncia por altavoz; Akainu se pone de pie con humo en el puño; Ace mira hacia el Moby Dick. Luffy avanzando por el hielo.
+## COMANDO 3 (T888)
+toma viejo, comete esto, saco una semilla y se la paso
+
+## RESPUESTA 3 (T888)
+
+> toma viejo, comete esto, saco una semilla y se la paso
+
+> —Toma, viejo. Cómete esto.
+
+Abres la mano y aparece una semilla del ermitaño. Se la tiras por el aire, por encima de la cabeza de Squard.
+
+Barbablanca la atrapa con dos dedos enormes. La mira de cerca, chiquita, verde, seca, perdida en la palma de una mano del tamaño de un escudo.
+
+Marco salta de la baranda a la cubierta.
+
+—¡Padre, no! —Se te planta delante, con las llamas azules volviendo a los brazos—. ¡No sabemos quién es! ¡Puede ser veneno!
+
+Barbablanca mira a Marco. Te mira a ti. Mira a Squard, que sigue agarrado de su abrigo.
+
+—Marco. —Lo dice tranquilo—. Este mocoso acaba de parar con dos dedos una espada que iba a mi espalda. Si me quisiera muerto, no necesitaba un poroto.
+
+Y se la come.
+
+Al principio no pasa nada. Mastica una vez, frunce el bigote, como si el sabor no le gustara.
+
+Después se queda quieto.
+
+Las heridas de la mañana, los cortes del brazo, la quemadura de un rayo de Kizaru en el hombro y la sangre seca en el costado, se cierran solas, en un segundo, como si nunca hubieran estado. La respiración, que hasta ese momento le silbaba en el pecho, ronca y corta, se le vuelve larga, profunda, llena. Se le endereza la espalda. Se le cae de los ojos la sombra gris de los años.
+
+Barbablanca se mira las manos. Después se agarra los tubos del hospital que le salen del brazo y se los arranca de un tirón, con los esparadrapos, y los tira por la borda.
+
+Marco se queda con la boca abierta.
+
+El viejo respira hondo, tan hondo que la cubierta cruje. Y ruge.
+
+—¡GURARARARA!
+
+Toda la bahía congelada tiembla. El hielo se raja en líneas largas, como un vidrio pisado.
+
+—¡Hacía diez años que no respiraba así! —Te mira, con los ojos amarillos brillando—. No sé qué fue eso, mocoso. No sé de dónde sacaste un poroto que me saca veinte años de encima.
+
+La sonrisa se le vuelve feroz.
+
+—Pero hoy no me muero.
+
+Levanta la naginata enorme y apunta con la hoja, por encima de la guerra, hacia el cadalso, hacia Ace.
+
+Allá lejos, en la plaza, Akainu empieza a caminar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 888 · ONE PIECE · DÍA 57 · 13:01       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Barbablanca entero. Shingeki: antes D59.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:01, cubierta del Moby Dick. Barbablanca comió una semilla del ermitaño: heridas cerradas, fuerza de hace veinte años (la enfermedad de fondo no se cura); se arrancó los tubos y rugió ("Hoy no me muero"), apunta la naginata al cadalso. Marco desconfiaba. Akainu empieza a caminar desde la plaza. Luffy avanza por el hielo.

@@ -228,3 +228,4 @@
 - Barbablanca, Squard, tripulación del Moby Dick, Marco y comandantes (desde el hielo), probablemente almirantes y Sengoku (de lejos) · T885 · Ven a un marine raso gordo aparecer detrás de Squard y frenarle la espada con dos dedos recubiertos de Haki azul y blanco.
 - Squard, Barbablanca, Marco · T886 · Por Facundo (disfrazado): Akainu es "el peor almirante de la historia"; Squard le creyó una mentira.
 - Barbablanca, Squard, Marco, tripulación del Moby Dick; la Marina desde la plaza (catalejos, Den Den Mushi), Akainu, probablemente la transmisión · T887 · Ven al marine gordo convertirse en Ojos de Eclipse (400M, Sombrero de Paja): cambio de pelo, ojos, el gato que sale de la camisa.
+- Barbablanca, Marco, Squard, tripulación del Moby Dick · T888 · Ven a Facundo darle a Barbablanca una semilla que lo deja entero; ven al viejo arrancarse los tubos.

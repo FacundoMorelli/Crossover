@@ -886,3 +886,4 @@ T884 · One Piece · Marineford · Espera. Llega Barbablanca; empieza la guerra.
 T885 · One Piece · Marineford · Frena la espada de Squard con dos dedos de Haki azul. Squard grita la mentira de Akainu.
 T886 · One Piece · Marineford · "Qué chico tonto." Barbablanca abraza a Squard. "No eres un marine."
 T887 · One Piece · Marineford · Se quita el disfraz en el Moby Dick. Marco y Barbablanca lo reconocen. Akainu se pone de pie.
+T888 · One Piece · Marineford · Semilla del ermitaño a Barbablanca. Se arranca los tubos. "Hoy no me muero."
