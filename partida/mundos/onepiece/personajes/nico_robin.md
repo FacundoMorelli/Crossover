@@ -80,3 +80,4 @@ ESTADO: activa
 - T810 · Facundo la deja inconsciente con un toque suave en la nuca y la recibe en brazos (frente a Kuma).
 - T814 · No le cree a Facundo que Kuma se fue sin más; le toma la mano y no la suelta. Sospecha que la sangre tiene que ver con que todos amanecieran sanos.
 - T815 · "Después me lo vas a contar. Todo."
+- T819 · Sabe que Facundo recibió el dolor de todos. Llora, le pega en el pecho, lo abraza: "Idiota. Te podrías haber muerto." Le pide que no lo vuelva a hacer solo.

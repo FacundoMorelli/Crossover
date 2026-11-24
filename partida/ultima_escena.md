@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T816)
-miro a brook y espero
-
-## RESPUESTA 1 (T816)
-
-> miro a brook y espero
-
-Brook se queda mucho rato sin decir nada, con el violín en el pasto, a sus pies.
-
-Después empieza a hablar, despacio, mirando el fuego.
-
-Cuenta que hace más de cincuenta años era músico de una tripulación de piratas alegres, los Piratas Rumbar, que recorrían el mar tocando canciones. Su capitán se llamaba Yorki. En el West Blue, una ballena bebé empezó a seguir el barco porque le gustaba la música. Era chiquita, del tamaño de un bote, y la llamaron Laboon.
-
-—Cuando entramos al Grand Line no podíamos llevarla. Era muy peligroso. —Se le quiebra la voz—. La dejamos en el Cabo Gemelo, con el farolero, un tal Crocus. Le prometimos volver. Dos años, tres a lo sumo. Le dijimos: «Espéranos».
-
-En el Grand Line los emboscaron. Armas envenenadas. El capitán, enfermo, se fue con una parte de la tripulación y no volvió nunca. Los demás fueron muriendo uno por uno, en este mismo mar, en la niebla. Antes del final, sabiendo que ninguno iba a volver, grabaron una canción.
-
-Brook mete la mano en el saco y saca una caracola chiquita, blanca, gastada: un Tone Dial.
-
-—Para Laboon. Para que la escuchara. Y me hicieron prometer... a mí, el único que podía volver por la fruta... que se la llevaría.
-
-Aprieta el botón de la caracola.
-
-Sale una canción, vieja, con la grabación gastada, de muchas voces de hombres cantando a la vez, borrachos, felices, con violines y tambores y risas de fondo.
-
-«Vamos a llevarles el sake de Binks...»
-
-Brook se tapa la cara con las dos manos y llora sin lágrimas, con los hombros temblando.
-
-Luffy es el primero en cantar. Sin saber la letra, a los gritos, desafinado. Después Usopp, y Chopper, y Franky llorando, y Sanji, y Nami en voz baja. Zoro mueve los labios sin sonido. Lola y los Piratas Rolling se suman de pie, con las jarras en alto. Robin canta despacio, a tu lado, con la mano en la tuya.
-
-La canción de cincuenta años atrás suena entre las ruinas de Thriller Bark, al sol.
-
-Cuando termina, Brook se levanta. Se pone el sombrero de copa. Se para derecho.
-
-—Luffy-san. —Hace una reverencia profunda—. Acepto de verdad. Voy a ser el músico de esta tripulación. Y voy a ir a ver a Laboon... no como un fantasma. Vivo. De frente.
-
-—¡Shishishi! ¡Claro que sí!
-
-Toda la tripulación grita. Lola llora abrazada a uno de sus hombres.
-
-Luffy, contento, se saca el sombrero de paja para abanicarse y algo se le cae del forro. Es un papel blanco, doblado. Lo levanta.
-
-Es el papel que le dio Ace en Arabasta.
-
-Tiene los bordes negros, quemados. Y mientras Luffy lo mira, se encoge solo un poco más, de a milímetros, como si se consumiera desde adentro.
-
-Nami deja de reírse.
-
-—Luffy... eso es una vivre card. —Se pone seria—. Si se quema así... significa que la persona está en peligro. Que su vida se está apagando.
-
-Toda la explanada se queda callada.
-
-Luffy mira el papel un largo rato, serio, sin sonreír. Después lo dobla con cuidado y lo vuelve a guardar en el sombrero.
-
-—Ace es fuerte. —Se pone el sombrero—. Va a estar bien.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 816 · ONE PIECE · DÍA 44 · 09:10       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la piedra, vigilándote              ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
-║ One Piece antes del Día 49.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T817)
+## COMANDO 1 (T817)
 bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
 
-## RESPUESTA 2 (T817)
+## RESPUESTA 1 (T817)
 
 > bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
 
@@ -139,10 +65,10 @@ Kase salta de la piedra y los sigue.
 
 ---
 
-## COMANDO 3 (T818)
+## COMANDO 2 (T818)
 voy con robin
 
-## RESPUESTA 3 (T818)
+## RESPUESTA 2 (T818)
 
 > voy con robin
 
@@ -185,4 +111,58 @@ Se le quiebra la voz en la última palabra. Respira y la recupera.
 
 ---
 
-ESTADO AL CIERRE: Día 44 09:20, biblioteca de Robin en el Sunny, puerta cerrada. Robin, con los brazos cruzados contra la puerta, le pregunta una sola vez: "¿Qué le diste a Kuma?". Kase en el escritorio junto al libro de Paradis.
+## COMANDO 3 (T819)
+recibi el dolor que sufrieron todos ustedes
+
+## RESPUESTA 3 (T819)
+
+> recibi el dolor que sufrieron todos ustedes
+
+> —Recibí el dolor que sufrieron todos ustedes.
+
+Robin se queda sin aire.
+
+Lo ves pasarle por la cara: la noche entera, Moria, el gigante, las cien sombras de Luffy, la espalda de Zoro, todo lo que se acuerda y todo lo que vio. Y después tu sobretodo empapado, el charco.
+
+Descruza los brazos. Da dos pasos hacia ti.
+
+Te pega en el pecho con el puño cerrado, flojo, una vez. Y otra.
+
+—Idiota. —Se le quiebra la voz—. Idiota.
+
+Le caen las lágrimas, sin ruido, una tras otra. No se las seca.
+
+—Te podrías haber muerto. —Te pega una tercera vez, más despacio, y deja el puño apoyado en tu pecho—. Por nosotros. Por mí. Y me dormiste para que no lo viera. Para que no pudiera hacer nada.
+
+Abre la mano sobre tu pecho, justo encima del corazón, y la deja ahí, sintiéndolo latir.
+
+Después te abraza. Fuerte, con los dos brazos alrededor de tu cuello, hundiendo la cara en tu hombro. Le tiembla todo el cuerpo.
+
+—Nadie hizo nunca nada así por mí. —Lo dice contra tu cuello, casi sin voz—. En veintiocho años. Toda la gente que me quiso se murió por mi culpa. Y tú... tú te pusiste delante. Otra vez.
+
+Se queda así un rato largo, sin soltarte. La luz de las ventanas redondas les cae encima en círculos.
+
+En el escritorio, Kase se levanta, se estira y baja al piso. Se sienta a sus pies y apoya la cabeza contra la pierna de Robin.
+
+Ella se separa apenas, lo justo para mirarte a la cara. Tiene los ojos rojos y la nariz roja, y no le importa.
+
+—Prométeme una cosa. —Te agarra la cara con las dos manos—. La próxima vez que vayas a hacer algo así, no me duermas. No lo hagas solo, a escondidas. Déjame estar ahí. Aunque no pueda hacer nada. Déjame estar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 819 · ONE PIECE · DÍA 44 · 09:22       ║
+║ Thousand Sunny · biblioteca de Robin         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: a los pies de Robin                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Irte hoy de One Piece. Volver      ║
+║ después donde estén.                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 09:22, biblioteca del Sunny. Facundo le contó a Robin que recibió el dolor de todos. Robin lloró, le pegó flojo en el pecho, lo abrazó. Le pide que prometa que la próxima vez no la duerma ni lo haga solo: "Déjame estar." Espera la respuesta.
