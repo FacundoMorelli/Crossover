@@ -21,3 +21,4 @@ ESTADO: activo
 - T930 · Día 48 12:21 · Sala de mapas, con Erwin sobre los planos de Wall Rose. Se le cae el lápiz de la boca al ver llegar a Facundo.
 - T931 · Día 50. Abre una grieta en Wall Rose y muestra un colosal a los embajadores: "Son miles."
 - T937 · Silba fuerte al ver a Facundo besar a Ymir.
+- T938 · Días 51-52 midiendo el corte de Wall Rose con Moblit.

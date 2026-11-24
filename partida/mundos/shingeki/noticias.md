@@ -10,3 +10,4 @@
 - (Día 41, diarios de Marley y del continente) "EL EMISARIO DEL GATO": primera plana con la foto de Facundo en el escenario. "Paz con la isla: la reina Historia Reiss firma en Liberio." "El general Calvi, a corte marcial." Varios países de la Alianza del Medio Oriente rechazan el tratado. Público en todo el continente.
 - (Día 44, 9:00, radio de Liberio) Willy Tybur: fracasó un intento de golpe de oficiales leales a Calvi; ningún herido; los responsables, detenidos. (No dice cómo.)
 - (Día 45) El Parlamento de Marley ratifica el tratado de paz con Paradis por 212 votos a 140.
+- Días 50-54 · En Paradis: el hueco de Wall Rose; peregrinación de curiosos. Dos países firmarán con Paradis.

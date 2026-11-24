@@ -90,3 +90,7 @@
 - Día 50 10:30-12:00 · (T931) Todos en el mirador de Wall Rose. Hange muestra un colosal dentro de la pared. Historia habla. 12:00: Erwin le cede la palabra a Facundo.
 - Día 50 12:01-12:04 · (T932) DEMOSTRACIÓN: Facundo borra con el Eclipse 1 km de Wall Rose al norte de Karanes y todos sus colosales, ante Hizuru, cuatro países y Marley (Magath). Historia promete borrar las murallas enteras en los próximos años. Un embajador pide garantías.
 - Día 50 12:09 · (T933) Magath respalda públicamente a Facundo. Las delegaciones vuelven a Mitras; recepción a las 18.
+- Día 50 noche · (T938) Recepción: un país firma, otro lo sigue al día siguiente, dos consultan. Magath da la mano a Erwin y a Levi.
+- Día 52 · (T938) Zarpa el barco de Hizuru con las delegaciones y Magath.
+- Días 50-54 · (T938) Peregrinación al hueco de Wall Rose; un predicador del Culto de las Murallas, retirado por la PM. Hange estudia el corte. Plan de años para borrar las murallas (Erwin, Armin). Eren duerme sin pesadillas. Ymir se muda al cuarto de Facundo en el palacio.
+- Día 54 · (T938) Primer correo oficial de Marley bajo el tratado. Carta con lacre Tybur para Facundo.

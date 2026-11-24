@@ -15,3 +15,4 @@ ESTADO: activo
 - T849 · Día 40 · Recibe a la comitiva de Paradis en el sótano de la mansión.
 - T859 · Día 44 02:41 · "Si me transformo aquí, muere gente. Y se acaba la paz."
 - T862 · Días 44-47 · Facundo la visita cada tarde. No pregunta por el Martillo; espera.
+- T938 · Día 54 · (probable) Le escribe a Facundo: carta con lacre Tybur, "Para el emisario. Y para el gato."

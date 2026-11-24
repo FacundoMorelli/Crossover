@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T935)
-mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
-
-## RESPUESTA 1 (T935)
-
-> mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
-
-> —Mire, no lo voy a aceptar. El dinero no me importa. Y, como dije antes, me gusta viajar. Capaz que no aparezco en varios meses.
-
-Kiyomi se queda quieta detrás del abanico.
-
-Por un segundo, los ojos no le sonríen. Te mira como se mira una moneda que no se reconoce: dándola vuelta, buscándole el sello.
-
-Después baja el abanico. Y se ríe. Una risa corta, sincera, que no le habías oído nunca, sin nada de comerciante.
-
-—El dinero no le importa. —Lo repite como si fuera una frase en un idioma extranjero—. Cuarenta años negociando con reyes, generales y piratas, y es la primera vez que alguien me lo dice y le creo.
-
-Cierra el abanico con un chasquido suave.
-
-—Muy bien. Entonces no le ofrezco un negocio.
-
-Mete la mano en la manga del kimono y saca algo pequeño: una placa de laca negra, del tamaño de la palma, con el emblema de la casa Azumabito pintado en oro, y un cordón de seda roja trenzada colgando de un agujero en la esquina.
-
-—Esto lo tienen muy pocas personas fuera de mi familia. En cualquier puerto de Hizuru, en cualquier casa que lleve este emblema, en cualquier barco nuestro, en cualquier parte del mundo, quien lo muestre es recibido como un Azumabito. Con techo, comida y las preguntas guardadas. —Te la ofrece, con las dos manos, inclinando apenas la cabeza—. No le pido nada a cambio. Ni viajes ni piedra. Solo que, si algún día su camino pasa por mi país, nos visite.
-
-Hace una pausa. La sonrisa vuelve, más pequeña.
-
-—Y que, cuando aparezca después de esos varios meses, me cuente dónde estuvo. Una vieja mercader se aburre en su oficina.
-
-Espera, con la placa todavía en las manos extendidas.
-
-Detrás de ustedes, sobre el adarve, se oyen pasos. Ymir se bajó de la baranda y viene caminando hacia acá, con las manos en los bolsillos, despacio, haciéndose la distraída, mirando el paisaje.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 935 · SHINGEKI · DÍA 50 · 12:17        ║
-║ Wall Rose · el borde del corte               ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kiyomi ofrece la placa Azumabito.  ║
-║ A las 18, recepción en el palacio.           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T936)
+## COMANDO 1 (T936)
 esta bien entonces, eso lo puedo aceptar
 
-## RESPUESTA 2 (T936)
+## RESPUESTA 1 (T936)
 
 > esta bien entonces, eso lo puedo aceptar
 
@@ -101,10 +51,10 @@ Ymir la mira irse hasta que llega a los elevadores. Después se da vuelta hacia 
 
 ---
 
-## COMANDO 3 (T937)
+## COMANDO 2 (T937)
 si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
 
-## RESPUESTA 3 (T937)
+## RESPUESTA 2 (T937)
 
 > si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
 
@@ -144,4 +94,55 @@ Se ríe bajito, por la nariz.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:20, borde del corte de Wall Rose. Facundo besó a Ymir a la vista del mirador (Hange silbó, Levi chasqueó la lengua, Pixis brindó). Ymir: "Ahora todo el mundo va a saber que el Emisario del Gato tiene dueña, lindo. Espero que no te moleste. Porque a mí no." Facundo puede responder.
+## COMANDO 3 (T938)
+no me molesta. simula varios dias
+
+## RESPUESTA 3 (T938)
+
+> no me molesta. simula varios dias
+
+> —No me molesta.
+
+Ymir sonríe, enorme, sin el filo de siempre. Te da otro beso, corto, y te agarra de la mano para volver al mirador.
+
+La recepción de esa noche dura hasta pasada la medianoche. Historia responde preguntas durante tres horas sin sentarse, con la voz cada vez más firme. El embajador de barba blanca no te saca los ojos de encima, pero a la segunda copa se acerca a decirte que su país va a firmar. Otro de los cuatro lo sigue a la mañana siguiente. Los dos restantes piden tiempo para consultar con sus gobiernos. Magath no baila, no bebe y se va temprano, pero antes de irse le da la mano a Erwin por segunda vez y, por primera vez, a Levi.
+
+El día cincuenta y dos, el barco de Hizuru zarpa con las delegaciones. Kiyomi se despide de Mikasa en el muelle con un abrazo largo, y de ti con una reverencia y un recordatorio en voz baja: que le debes un relato. Magath vuelve con ellos hasta el continente. En la cubierta, mientras el barco se aleja, se lleva dos dedos a la gorra en dirección al muelle. Nadie sabe bien a quién.
+
+Los días siguientes son tranquilos. Raros de tan tranquilos.
+
+En Mitras no se habla de otra cosa que del hueco en Wall Rose. La gente viaja en carreta desde Karanes y desde Trost para verlo con sus propios ojos: un kilómetro de pasto donde antes había una pared. Los chicos corren de un lado al otro del corte gritando que están en el exterior. Un predicador del Culto de las Murallas se para en el borde liso a anunciar el fin del mundo, y la Policía Militar lo baja sin mucha ceremonia.
+
+Hange se pasa dos días enteros sobre el corte con una cinta de medir, una lupa y Moblit, tomando notas sobre la superficie de la piedra. Armin y Erwin empiezan a dibujar en la sala de mapas un plan de años: qué tramo va primero, cuál después, qué pueblos hay que mudar. Eren duerme. Mikasa lo dice en voz baja en el desayuno, como un milagro: Eren duerme toda la noche, sin despertarse gritando.
+
+Ymir, sin pedir permiso a nadie, se muda a tu cuarto del palacio. Trae una manta, dos libros que no lee y un frasco de manzanas secas que esconde debajo de la cama. Historia se entera al segundo día, y lo único que dice, con las mejillas coloradas, es que ya era hora. Kase acepta a Ymir en la cama con la condición tácita de que ella no se mueva de su lado.
+
+A la mañana del día cincuenta y cuatro, en el puerto improvisado de la costa sur, atraca un barco pequeño con bandera de Marley. Es el primer correo oficial desde que se firmó el tratado. Trae cartas para la reina, para Zackly, para Erwin.
+
+Y una para ti.
+
+Te la trae un mensajero de la Legión a media tarde, mientras estás con Ymir en el techo del palacio, al sol. Un sobre grueso, de papel crema, cerrado con lacre rojo. En el lacre, el escudo de la familia Tybur. En el frente, escrito a mano con una letra prolija, inclinada, de mujer:
+
+Para el emisario. Y para el gato.
+
+Ymir se incorpora en el techo, apoyada en un codo, y mira el sobre por encima de tu hombro con una ceja levantada.
+
+—¿Tybur? —Lee la letra—. Eso no lo escribió el señor del discurso.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 938 · SHINGEKI · DÍA 54 · 16:10        ║
+║ Mitras · techo del palacio                   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el techo, al sol                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Una carta con el sello Tybur.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 54 16:10, techo del palacio de Mitras. Días tranquilos (delegaciones se fueron el 52; Ymir vive en el cuarto de Facundo). Llegó una carta con lacre Tybur, letra de mujer: "Para el emisario. Y para el gato." Sin abrir. Ymir mira. Facundo puede actuar.

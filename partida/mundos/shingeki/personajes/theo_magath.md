@@ -30,3 +30,4 @@ ESTADO: activo
 - T931 · Día 49: llega en persona a Paradis con dos oficiales; le da la mano a Erwin en la escalinata del palacio. No prueba el vino. Día 50 en el mirador, ya sabía de los colosales.
 - T932 · Ve desaparecer 1 km de Wall Rose; no retrocede; le tiembla la mandíbula una vez.
 - T933 · Respalda a Facundo ante los embajadores: el golpe de Liberio, 65 hombres en tres minutos sin heridos. "Sé reconocer a alguien que podría haber matado y eligió no hacerlo."
+- T938 · Día 50: da la mano a Erwin y a Levi. Día 52: vuelve al continente en el barco de Hizuru; saludo con dos dedos a la gorra.

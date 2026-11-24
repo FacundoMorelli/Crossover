@@ -31,3 +31,4 @@ ENCUENTROS:
 - T858 · Días 41-43 · Ya no sueña con fuego: sueña "en blanco".
 - T931 · No come en la cena del día 49. Día 50 en el mirador, apartado, mirando la muralla.
 - T932 · Ve desaparecer los colosales; suelta el aire, alivio, se mira las manos.
+- T938 · Días 50-54 · Duerme toda la noche sin pesadillas (Mikasa).
