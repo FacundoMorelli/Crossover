@@ -802,3 +802,4 @@ T800 · One Piece · Water 7 · Simula hasta el Día 41: carteles (Facundo 400M)
 T801 · One Piece · Dock 1 · Mira el barco con Robin. Franky le hizo una biblioteca. Luffy bautiza el Thousand Sunny.
 T802 · One Piece · Thousand Sunny · Beso en el muelle. Suben. Se sueltan los cabos. El buque de Garp espera a la salida del puerto.
 T803 · One Piece · Salida de Water 7 · Garp ataca con balas a mano; Coup de Burst; escapan. (Regla R9: una pareja por mundo.)
+T804 · One Piece · Triángulo Florian · Simula dos días de mar. Barril con bengala; niebla. Aparece el barco fantasma de Brook.
