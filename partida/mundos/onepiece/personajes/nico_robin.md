@@ -70,3 +70,4 @@ ESTADO: activa
 - T780 · Ve la foto de Black Clover y el grimorio flotando de Facundo. Pregunta si puede tocarlo.
 - T783 · "No me importa cuán fuerte seas. Me importa que vuelvas."
 - T784 · Sabe que Facundo copia habilidades. Pregunta si copió la suya.
+- T785 · Sabe que Facundo tiene su Hana Hana. Le tira de la oreja con una mano brotada. "Muéstrame."

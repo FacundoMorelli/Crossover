@@ -783,3 +783,4 @@ T781 · One Piece · Islote · "Hay un Rey Mago. Luffy querría serlo." Robin se
 T782 · One Piece · Islote · Le cuenta del mundo de las razas y le muestra el Super Saiyajin y el Ultra Instinto.
 T783 · One Piece · Islote · "Era de los fuertes, pero no el más." Robin: "Me importa que vuelvas."
 T784 · One Piece · Islote · "Puedo copiar habilidades." Robin ata cabos y pregunta si copió la suya.
+T785 · One Piece · Islote · "Sí, lo tengo también." Robin le tira de la oreja con una mano de la arena. "Muéstrame."
