@@ -772,3 +772,4 @@ T770 · One Piece · Water 7 · Desayuno a solas con Robin. Pregunta por su libr
 T771 · One Piece · Water 7 · Le devuelve a Robin el libro de Paradis. Ella le pide que le enseñe todas las letras.
 T772 · One Piece · Water 7 · Robin aprende todo el alfabeto de las murallas y lee la primera página. Pregunta si ese lugar es real.
 T773 · One Piece · Water 7 · "Es un secreto." Beso. Robin: "Algún día me lo vas a contar." Entra Luffy con hambre.
+T774 · One Piece · Islote deshabitado · Se teletransporta con Robin a una isla vacía.

@@ -178,3 +178,5 @@
 - Vicealmirantes del Buster Call (Onigumo, Momonga, Doberman, Strawberry, Yamakaji) y sus tropas · T760 · Ven a Facundo frenar balas y mover gente y cosas en el aire durante la huida.
 - Toda la tripulación, Franky, familia Franky, Paulie y capataces · T763 · Ven a Facundo y a Robin besarse: saben que son pareja.
 - Robin · T772 · Sabe leer la escritura del libro de Paradis (se la enseñó Facundo). Leyó: titanes que devoraron a la humanidad hace cien años; tres murallas María, Rose y Sina. No sabe que es de otro mundo.
+- Luffy, Chopper, Usopp · T774 · Ven a Facundo y a Robin desaparecer de la cocina de golpe (Facundo con dos dedos en la frente).
+- Robin · T774 · Viaja con Facundo por Teletransportación a un islote vacío. Lo vivió en persona.

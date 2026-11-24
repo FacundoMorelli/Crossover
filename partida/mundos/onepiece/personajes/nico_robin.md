@@ -61,3 +61,4 @@ ESTADO: activa
 - T771 · Facundo le devuelve el libro de Paradis. Le pide que le enseñe todas las letras "antes de que te vayas a donde sea que te vas".
 - T772 · Aprende con Facundo todo el alfabeto de las murallas en dos horas. Lee la primera página (titanes, tres murallas: María, Rose, Sina). Pregunta dónde queda ese lugar, si es real.
 - T773 · Facundo: "Es un secreto" (sobre el lugar del libro). Beso. "Una arqueóloga vive de secretos. Algún día me lo vas a contar."
+- T774 · Facundo la teletransporta a un islote deshabitado: "Te voy a mostrar algo."
