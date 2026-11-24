@@ -727,3 +727,4 @@ T725 · One Piece · muelle · "Franky, hay algo que tienes que saber."
 T726 · One Piece · muelle · Le avisa a Franky del CP9 y los planos. Franky pregunta quiénes son.
 T727 · One Piece · muelle · Le dice a Franky quiénes son. Franky quiere ir a pegarles ya.
 T728 · One Piece · muelle · Frena a Franky del brazo.
+T729 · One Piece · muelle · Franky se calma. Pregunta qué hacer.
