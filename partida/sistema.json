@@ -1,8 +1,8 @@
 {
-  "turno": 752,
+  "turno": 753,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 36 (Grand Line, Enies Lobby)",
-  "hora": "07:06",
+  "hora": "07:07",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -401,8 +401,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 96,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717).",
+      "cantidad": 95,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci).",
       "mundo": "tienda"
     },
     {

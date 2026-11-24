@@ -751,3 +751,4 @@ T749 · One Piece · Torre, sótano · Luffy estrena el Gear Second y noquea a B
 T750 · One Piece · Pasaje subterráneo · Lucci les corta el paso. Spandam sigue con Robin.
 T751 · One Piece · Pasaje subterráneo · Luffy contra Lucci; Lucci en forma híbrida. Misión de copia de Lucci. Lucci se lanza sobre Facundo con el Rokuōgan.
 T752 · One Piece · Pasaje subterráneo · Recibe el Rokuōgan de frente y sigue de pie. COPIA Lucci (+800 EXP). Lucci retrocede.
+T753 · One Piece · Pasaje subterráneo · Semilla del ermitaño a Luffy. Luffy se queda con Lucci y saca el Gear Third. El túnel, libre para Facundo.

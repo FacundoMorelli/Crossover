@@ -29,3 +29,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T748 · Facundo: "Luffy, vamos contra Lucci." Luffy cae del techo a su lado: "¡Vamos!"
 - T749 · Estrena el Gear Second contra Blueno delante de Facundo (vapor rosado, piel roja, Jet Pistol, Jet Bazooka). Lo noquea. Sale corriendo por el pasaje.
 - T751 · Gear Second contra Lucci en el pasaje; Lucci lo estrella contra la pared.
+- T753 · Come una semilla del ermitaño de Facundo. "¡Déjamelo a mí! ¡Ve por Robin!" Primer Gear Third, contra Lucci.
