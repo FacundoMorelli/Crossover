@@ -57,3 +57,4 @@ ESTADO: activa
 - T756 · Facundo le rompe las esposas y la besa: "No te preocupes, no va a pasarnos nada." Le devuelve el beso: "Siempre dices eso como si fuera fácil."
 - T760 · En el puente, aplasta a Spandam con Hana Hana (Clutch). Sube al Merry con Facundo.
 - T763 · Going Merry · Facundo la besa en cubierta delante de todos. "Me prometiste que no nos iba a pasar nada. Cumpliste." "Esta vez no me voy a ir a ninguna parte." RELACIÓN: pareja, a la vista de la tripulación.
+- T770 · Desayuno a solas con Facundo. Pregunta si todavía tiene su libro. En el tren se repetía las letras que él le enseñó para no pensar.
