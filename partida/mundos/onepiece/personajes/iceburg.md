@@ -16,3 +16,4 @@ ESTADO: activo
 - T720 · Se entera de Lucci, Kaku y Kalifa. "Kalifa me trae el café todas las mañanas." Deduce a Blueno. "¿Qué piensas hacer, pirata?"
 - T721 · Promete no culpar a los Sombrero de Paja. "Gracias por el poroto." Pide cuidar a Franky. RELACIÓN: aliado.
 - T722 · Se ríe. "Cuídate de Lucci. Es el más peligroso de los cuatro."
+- T733 · Finge sorpresa ante el CP9. "Los planos se quemaron." Lo atan y prenden fuego.
