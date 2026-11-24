@@ -38,3 +38,8 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Makarov · T1017 · vio que la Fairy Law no le hizo nada a Facundo (no lo considera enemigo; la luz siguió de largo).
 - Makarov · T1018 · comió una semilla de Facundo: lo curó y le devolvió toda la magia después de Fairy Law. Lo invitó a la fiesta y a unirse al gremio.
 - Makarov · T1019 · Facundo prefiere seguir sin gremio; viaja mucho, se va y vuelve de la nada (él lo dijo). Va a la fiesta.
+- Mirajane Strauss · T1020 · lo conoce en la fiesta (Día 1): sabe su nombre (por el gremio) y todo lo que el gremio cuenta de él. Le consiguió un cuarto en la posada de la esquina.
+- Todo Fairy Tail · T1020 · lo que contaron en la fiesta y en el gremio: que bajó a Shadow Gear, que tiró a Gajeel de un golpe, que hace bestias de estrellas, que vuela, que trajo a Lucy de la torre, que encontró a Jose. Makarov lo contó varias veces, agrandándolo.
+- Consejo Mágico (capitán Lahar, Caballeros de la Runa) · T1020 · por las declaraciones: 12 testigos de Fairy Tail y 3 de Phantom lo nombran: vuela, se teletransporta, venció a Gajeel de un golpe. No pertenece a ningún gremio registrado.
+- Público de Fiore (lectores de la revista) · T1020 · "un misterioso mago sin gremio, con un enorme gato blanco y azul, habría participado del asalto". Sin nombre.
+- Happy · T1020 · cree que Kase es su amigo.

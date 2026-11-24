@@ -1018,3 +1018,4 @@ T1016 · Fairy Tail · Torre de Phantom · Lleva a Makarov volando. Jose real en
 T1017 · Fairy Tail · Torre de Phantom · Observa: Makarov vs Jose. Onda Muerta. Tres segundos. FAIRY LAW: Jose vencido. MISIÓN DE MUNDO CUMPLIDA. "Se terminó, muchacho."
 T1018 · Fairy Tail · Torre de Phantom · Semilla del ermitaño a Makarov: magia entera. "¿Alguna vez pensaste en tener una marca?" Fiesta esta noche.
 T1019 · Fairy Tail · Torre · Rechaza la marca; va a la fiesta; "soy de viajar". Makarov: "La puerta va a estar abierta." Natsu: "¿Hiciste todo tú solo?"
+T1020 · Fairy Tail · Magnolia · (simulado Días 1-3) Fiesta; posada; Consejo; Loke devuelve las llaves; revista. Lahar: "Necesito que me acompañe adentro a responder unas preguntas."

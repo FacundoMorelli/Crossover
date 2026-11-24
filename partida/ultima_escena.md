@@ -3,139 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1017)
-observo la pelea entre Makarov y Jose
-
-## RESPUESTA 1 (T1017)
-
-> observo la pelea entre Makarov y Jose
-
-Te quedas afuera, flotando junto al marco roto de la ventana, con el viento de la colina en la espalda. Kase se acomoda en tu hombro y mira hacia adentro sin parpadear.
-
-Makarov termina de crecer.
-
-La sala es alta, pero no lo suficiente. El viejo se estira hasta que la cabeza le toca el techo de madera, y sigue: las vigas crujen, se rajan, ceden, y de golpe el techo en punta de la torre sale volando hacia arriba en pedazos, tejas y madera y polvo, y el cielo aparece encima de la sala. Makarov queda de pie en el medio, enorme, con los hombros por encima de lo que eran las paredes, mirando hacia abajo al hombre del trono.
-
-Juvia y Sol se arrastran hacia la pared del fondo.
-
-Jose no se levanta. Abre las manos sobre los apoyabrazos.
-
-—¡Sombras!
-
-Las figuras de humo negro se le despegan de la espalda, de la pared, del piso, decenas, y suben hacia Makarov como una bandada de cuervos sin cara, chillando con un ruido que no es de este mundo. Le clavan las garras en los brazos, en el pecho, en la cara.
-
-Makarov cierra el puño. Se le enciende de luz dorada.
-
-Lo baja.
-
-El puño atraviesa la nube de sombras como si no estuviera y se estrella contra el trono. El trono desaparece. El piso de la sala se hunde medio metro en un círculo perfecto, y la torre entera se sacude hasta los cimientos; abajo, en el salón, se escuchan gritos. Las sombras se deshacen en jirones de humo.
-
-Jose ya no está en el trono. Está en el aire, a un costado, envuelto en una capa de oscuridad que se mueve como agua. Tiene la ropa rota en un hombro. Ya no sonríe.
-
-—Fairy Tail... —sisea—. Un gremio de basura, de mocosos que rompen pueblos y lloran en las tabernas. Siempre lo fueron. ¡Y tú, viejo, eres el peor de todos!
-
-Abre los brazos, y una ola de oscuridad le sale del pecho. No es humo: es algo espeso, violeta y negro, que avanza haciendo un ruido de mil voces gritando a la vez.
-
-—¡Onda Muerta!
-
-La ola le pega a Makarov de lleno en el pecho.
-
-El gigante retrocede un paso. Uno solo. La onda le quema la piel de los brazos, le deshace la capa, le arranca un gruñido. Sigue empujando, y Makarov sigue de pie, con los pies hundidos en la piedra, los brazos cruzados delante de la cara.
-
-Después los abre.
-
-La onda se parte en dos, como agua contra una roca, y se pierde en el cielo por encima de la torre.
-
-Makarov baja la vista hacia Jose. Ya no hay furia en su cara. Hay algo peor: tristeza.
-
-—Te doy tres segundos para arrodillarte, Jose —dice. La voz grave le sale de todo el cuerpo y hace temblar los restos de las paredes—. Tres segundos. Por todo lo que fuiste alguna vez.
-
-Jose lo mira. Se ríe. Una carcajada aguda, histérica, que le sacude los hombros.
-
-—¡¿Arrodillarme?! ¡¿Yo, ante ti?!
-
-—Tres.
-
-Makarov junta las palmas delante del pecho.
-
-—Dos.
-
-Entre las manos del gigante nace una luz. No es dorada como el puño: es blanca, pura, tan blanca que duele, y crece.
-
-—Uno.
-
-Jose deja de reírse.
-
-—Fairy Law.
-
-La luz lo llena todo.
-
-Sale de las manos de Makarov y se expande en todas direcciones, como un sol que nace en el medio de la torre. Te pasa por encima. Es tibia. No te hace nada: la sientes buscar algo en ti, como una mano que tantea en la oscuridad, y seguir de largo. Kase cierra los ojos y no se mueve.
-
-A Jose lo atraviesa.
-
-Lo escuchas gritar adentro de la luz. Un grito largo, que se va apagando.
-
-En la pared del fondo, Juvia y Sol gritan también, y se callan.
-
-La luz baja de la torre, cubre la sede entera, se derrama por los muros hasta el salón principal, donde los pocos magos de Phantom que quedaban en pie caen al piso a la vez. Sigue hasta las calles de Oak Town, se detiene ahí y se apaga.
-
-Silencio.
-
-Makarov se encoge. Despacio. Vuelve a su tamaño normal, un viejo bajito con la capa hecha jirones, de pie en el medio de una sala sin techo, respirando con dificultad.
-
-Delante de él, en el piso hundido, está Jose. Vivo. Tiene la cara gris, como si le hubieran pasado veinte años por encima en un segundo, los ojos abiertos y vacíos, mirando el cielo. No se mueve. Junto a la pared, Juvia y Sol están desmayados.
-
-
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Titán, Magia de Luz y Fairy Law              ║
-║ USUARIO: Makarov Dreyar · Fairy Tail         ║
-║                                              ║
-║ MISIÓN: Que Makarov Dreyar te llame "hijo".  ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Sombras y Magia Oscura                       ║
-║ USUARIO: Jose Porla · Fairy Tail             ║
-║                                              ║
-║ MISIÓN: Recibir la Onda Muerta de Jose       ║
-║ Porla con todo su poder y seguir de pie.     ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-
-[Misión de Mundo cumplida: la sede de Fairy Tail sigue en pie al terminar la guerra con Phantom Lord.]
-
-[+9.000 EXP · +250 Fragmentos.]
-
-Makarov se tambalea. Apoya una mano en lo que queda de pared. Levanta la vista hacia ti, que sigues flotando junto al marco roto, y por primera vez desde el parque te sonríe. Una sonrisa cansada, chueca, debajo del bigote.
-
-—Se terminó, muchacho —dice—. Phantom Lord se terminó.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1017 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:31 · Phantom Lord · lo alto de la torre   ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1018)
+## COMANDO 1 (T1018)
 le doy una semilla del ermitaño, comela viejo
 
-## RESPUESTA 2 (T1018)
+## RESPUESTA 1 (T1018)
 
 > le doy una semilla del ermitaño, comela viejo
 
@@ -192,10 +63,10 @@ Makarov no les hace caso. Sigue mirándote.
 
 ---
 
-## COMANDO 3 (T1019)
+## COMANDO 2 (T1019)
 no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
 
-## RESPUESTA 3 (T1019)
+## RESPUESTA 2 (T1019)
 
 > no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
 
@@ -244,4 +115,74 @@ Natsu no lo sigue. Se queda delante de ti, con los brazos cruzados y el ceño fr
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:37, lo alto de la torre de Phantom. Facundo rechazó la marca pero va a la fiesta. Makarov se va hacia la escalera. Natsu le pregunta si hizo todo él solo. Facundo puede responder.
+## COMANDO 3 (T1020)
+algo así, simula unos dias
+
+## RESPUESTA 3 (T1020)
+
+> algo así, simula unos dias
+
+> —Algo así.
+
+Natsu se queda mirándote con la boca abierta. Después se le escapa una carcajada que le sacude los hombros y te da una palmada en la espalda tan fuerte que a cualquier otro lo habría tirado al piso.
+
+—¡Eres un monstruo! —Lo dice como el mejor de los elogios—. ¡No te olvides, eh! ¡Tú y yo!
+
+Erza le agarra la bufanda y se lo lleva escaleras abajo.
+
+[Día 1 · tarde.]
+
+El viaje de vuelta en tren es ruidoso. Fairy Tail ocupa tres vagones y canta todo el camino. Natsu va tirado en el piso de un compartimento, verde, mientras Gray le pone los pies encima. Lucy va sentada junto a la ventana, envuelta en una manta que alguien le prestó, mirando el paisaje sin decir mucho. En algún momento se queda dormida.
+
+En Magnolia los espera media ciudad. La noticia llegó antes que ellos, en la boca de un mensajero del pueblo de Oak Town: Phantom Lord cayó en una mañana. La panadera del parque está en la estación, con una canasta de pan de nuez para Levy.
+
+La sede de Fairy Tail sigue de pie. Tiene los pilares de hierro de la noche anterior clavados en las paredes como lanzas, las ventanas rotas y la mitad del techo de la planta alta torcido, pero sigue de pie. Elfman y otros diez se pasan la tarde arrancando los pilares a fuerza de brazos. Levy, Jet y Droy esperan en la puerta. Cuando Levy te ve llegar, sale corriendo, se frena a dos metros, se pone roja y te da las gracias otra vez, muy rápido, antes de irse a abrazar a Lucy.
+
+[Día 1 · noche.]
+
+La fiesta es enorme. Mesas en la calle, barriles de cerveza, música, alguien que hace fuegos artificiales con magia. Una chica de pelo blanco y vestido largo, con una sonrisa dulce que no se le borra nunca, atiende la barra sin parar. Es Mirajane. Cuando te ve, te sirve un plato de comida sin preguntar y le pone a Kase, en el piso, un pescado entero en un plato hondo. Kase lo come sin mirarla. Mirajane se ríe como si fuera lo más gracioso del mundo.
+
+Happy se pasa media noche tratando de hacerse amigo de Kase. Le ofrece pescado. Kase se lo come y le da la espalda. Happy vuelve con más pescado. Kase se lo come y le da la espalda. A la cuarta vez, Kase se deja olfatear la oreja. Happy se pasa el resto de la fiesta diciéndole a todo el mundo que tiene un amigo nuevo.
+
+Natsu intenta pelear contigo tres veces. Las tres veces aparece Erza de la nada y lo arrastra de la bufanda.
+
+—Hoy no —le dice—. Hoy se celebra.
+
+Makarov se emborracha, se sube a una mesa, cuenta la pelea contra Jose agrandándola un poco cada vez, y en ninguna de las versiones dice que lo llevaste volando colgado de la capa. En todas dice que lo encontraste cuando él no podía.
+
+Mirajane te consigue un cuarto en la posada de la esquina, encima de una panadería. Lo paga el gremio. "Es lo menos", dice.
+
+[Día 2.]
+
+A media mañana llega el Consejo Mágico. Una columna de caballeros con armaduras grises y capas con el emblema del Consejo entra por la Puerta Sur, con un tren de carruajes cerrados detrás. Se instalan en el salón de la sede y empiezan a llamar a los miembros de Fairy Tail uno por uno, a puertas cerradas. Las preguntas son las mismas para todos: quién atacó primero, quién destruyó qué, cuánta gente, qué magia se usó. Un grupo de caballeros viaja a Oak Town y vuelve con noticias: Jose está vivo pero sin poder mover más que los ojos. Gajeel, Aria, Juvia, Sol y más de cien magos de Phantom están bajo custodia.
+
+Loke, un muchacho de lentes oscuros y sonrisa de seductor, aparece en la sede con las llaves de Lucy. Dice que las encontró tiradas en una calle de Magnolia, donde la atraparon. Se las da y se va casi corriendo, sin quedarse a recibir las gracias.
+
+Natsu te busca dos veces. Las dos veces lo llaman a declarar.
+
+[Día 3.]
+
+Los interrogatorios siguen. Por la ciudad empieza a correr una revista con olor a tinta fresca: una página entera sobre la caída de Phantom Lord, con un dibujo de Makarov gigante y un recuadro chico, abajo, que habla de "un misterioso mago sin gremio, acompañado de un enorme gato blanco y azul, que habría participado del asalto". No dice tu nombre.
+
+A la tarde, mientras estás en la puerta de la sede, uno de los caballeros del Consejo sale del salón y se te acerca. Es un hombre joven, de lentes, con el pelo negro peinado hacia atrás y una armadura impecable. Lleva una carpeta debajo del brazo. Se detiene delante de ti, mira a Kase un segundo y después te mira a ti.
+
+—¿Facundo Morelli? —Abre la carpeta—. Capitán Lahar, de la Cuarta Unidad de Caballeros de la Runa. Doce testigos de Fairy Tail y tres de Phantom Lord lo mencionan en sus declaraciones. Uno de ellos dice que vuela, otro que desaparece y aparece donde quiere, y otro que derrotó a Gajeel Redfox de un solo golpe. —Levanta la vista de los papeles—. Usted no pertenece a ningún gremio registrado. Necesito que me acompañe adentro a responder unas preguntas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1020 · FAIRY TAIL · X784 · DÍA 3 ·     ║
+║ 17:10 · Magnolia · puerta de la sede         ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:10, puerta de la sede en Magnolia. El capitán Lahar (Consejo) le pide a Facundo que lo acompañe adentro a responder preguntas. Facundo puede responder.

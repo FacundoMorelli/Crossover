@@ -10,6 +10,7 @@ ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1000 · Se presenta; reverencia larga delante del gremio.
 - T1011 · Facundo lo salva del Metsu de Aria.
+- T1020 · Fiesta: cuenta la pelea con Jose; dice que Facundo lo encontró cuando él no podía.
 DIÁLOGOS CLAVE:
 - T1019 · "Un viajero. Esta vieja casa no tiene cerradura. Cuando vuelvas de donde sea que vayas, la puerta va a estar abierta. Con marca o sin marca."
 - T1018 · "Toda mi magia... como si me hubiera despertado de una siesta." "Y dices que no quieres nada." "Esta noche Fairy Tail va a hacer una fiesta. Me gustaría que vinieras. No como invitado. Ya sé que no tienes marca, muchacho. ¿Alguna vez pensaste en tener una?"

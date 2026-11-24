@@ -10,6 +10,7 @@ ENCUENTROS:
 - T997 · Día 1 06:40 · Facundo lo/la ve crucificado/a en el árbol del Parque de la Puerta Sur.
 - T998 · 07:06 · Facundo lo/la baja del árbol y le da una semilla del ermitaño. Despierta curado/a.
 - T999 · Facundo le dice su nombre.
+- T1020 · Día 1 · Le da las gracias otra vez en la puerta de la sede.
 DIÁLOGOS CLAVE:
 - T1001 · "Fue Gajeel, maestro. Gajeel Redfox, de Phantom Lord."
 - T999 · "Eso no es solo pasar. Ese hierro era de Gajeel." "¿Qué era eso que nos diste?"

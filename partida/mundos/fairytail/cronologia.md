@@ -49,3 +49,7 @@
 - Día 1 09:23 · (T1016) Makarov irrumpe en lo alto de la torre frente al Jose real (CAMBIO: en el canon Makarov caía drenado y el duelo era en el MK II, día 2). Juvia y Sol presentes.
 - Día 1 09:23-09:31 · (T1017) Makarov vs Jose en la torre: Sombras, Onda Muerta, FAIRY LAW. Jose vencido. Phantom entero cae. CAMBIO: la guerra termina el Día 1; no hay Jupiter, ni MK II, ni Abyss Break; Erza no queda herida; la sede de Fairy Tail no cae.
 - Día 1 09:34 · (T1018) Makarov, curado con una semilla del ermitaño, invita a Facundo a la fiesta y a unirse a Fairy Tail.
+- Día 1 tarde · (T1020) Vuelta a Magnolia. La sede de Fairy Tail sigue en pie; arrancan los pilares.
+- Día 1 noche · (T1020) Fiesta de Fairy Tail. Facundo, en la posada pagada por el gremio.
+- Día 2 · (T1020) Llega el Consejo (Caballeros de la Runa): interrogatorios (canon: una semana). Phantom bajo custodia; Jose paralizado. Loke devuelve las llaves a Lucy (canon).
+- Día 3 · (T1020) Revista con la caída de Phantom (mago sin gremio con gato, sin nombre). 17:10: Lahar pide interrogar a Facundo.

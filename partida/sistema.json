@@ -1,8 +1,8 @@
 {
-  "turno": 1019,
+  "turno": 1020,
   "mundo_actual": "fairytail",
-  "fecha_local": "X784, julio · Día 1",
-  "hora": "09:37",
+  "fecha_local": "X784, julio · Día 3",
+  "hora": "17:10",
   "edad": 18,
   "nivel": 27,
   "exp": 234700,
@@ -61,7 +61,7 @@
     "energia": 3992,
     "control": 3991
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
