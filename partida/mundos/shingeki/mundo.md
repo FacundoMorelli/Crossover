@@ -25,3 +25,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T958 · Día 63 · Cientos de miles de muertos por titanes revividos. Wall Maria vuelve a estar poblada en una noche.
 - T959 · Día 63 · Todas las casas destruidas por titanes, reconstruidas. Shiganshina entera de pie (con la casa de los Jaeger).
 - T968 · Día 66 · La reina cuenta públicamente la verdad del mundo a los revividos.
+- T972 · Día 66 · Hange recibe objetos de otra técnica (linterna, radio, reloj, antibióticos, libro de medicina, semillas) para estudiarlos.

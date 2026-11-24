@@ -970,3 +970,4 @@ T968 · Shingeki · Shiganshina · (simulado días 63-66) Reencuentros: la escua
 T969 · Shingeki · Shiganshina · Sale al balcón. Un chico grita "¡El del gato!" y la plaza estalla. APODO: "El del gato". Historia: "Si quieres hablarles, están esperando."
 T970 · Shingeki · Shiganshina · Discurso: "No quiero que me deban nada. Son libres de salir a explorar." La plaza en fiesta. Ymir: "¿Y ahora qué?"
 T971 · Shingeki · Shiganshina · "Me voy por ahora, voy a volver." Beso a Ymir. Erwin acepta liberar a Zeke, Annie, Reiner y Bertholdt. "Cuando vuelva, esta isla va a ser otra."
+T972 · Shingeki · Shiganshina · Deja a Hange linterna, radio, reloj, antibióticos, libro de medicina y semillas. Hange: "Lo voy a descubrir sola." Erwin: la mano otra vez.

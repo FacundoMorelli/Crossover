@@ -28,3 +28,4 @@ ESTADO: activo
 - T954 · Arma el sistema de registros. Avisa a Reiner y Bertholdt.
 - T956 · Ve al dragón Eclipse: llora y sonríe, se le cae el cuaderno.
 - T971 · "Reiner va a llorar. Lo voy a anotar."
+- T972 · Recibe de Facundo: linterna eléctrica, radio de manivela, reloj de pulsera, antibióticos con instrucciones, libro de medicina básica, semillas de clima frío. Abraza la radio. Levi la frena. "No preguntar cómo. Lo voy a descubrir sola. Aunque me lleve diez años."

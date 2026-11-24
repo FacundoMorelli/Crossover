@@ -1,13 +1,13 @@
 {
-  "turno": 971,
+  "turno": 972,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 66 tras Shiganshina (año 850)",
-  "hora": "13:16",
+  "hora": "13:20",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107581,
+  "fragmentos": 107575,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1734,7 +1734,13 @@
       "Comida para un animal gigante (una comida)": "20 Fragmentos (fijado T669)",
       "Madera de barco, clavos, brea y planchas de hierro (para una reparación grande)": "15 Fragmentos (fijado T715)",
       "Uniforme de marine raso (One Piece)": 1,
-      "Lentes de contacto de color (par)": 1
+      "Lentes de contacto de color (par)": 1,
+      "Linterna eléctrica de metal": 1,
+      "Radio de manivela": 1,
+      "Reloj de pulsera de agujas": 1,
+      "Caja de antibióticos (penicilina en polvo) con instrucciones": 1,
+      "Libro de medicina básica ilustrado": 1,
+      "Bolsa de semillas (papa, trigo, maíz de clima frío)": 1
     },
     "stock_rotativo": {
       "Piedra de maná pequeña (recarga energía 10%)": 3,
