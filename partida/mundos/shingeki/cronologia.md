@@ -83,3 +83,4 @@
 - Día 44 · (T862) Los golpistas despiertan sin daño, arrestados por el regimiento de Magath. El Primer Ministro destituye y arresta a los dos ministros. Willy habla por radio a las 9: el golpe fracasó sin heridos.
 - Día 45 · (T862) El Parlamento de Marley ratifica el tratado de paz con Paradis (212 a 140). Calvi a prisión militar.
 - Días 45-47 · (T862) Preparativos de la demostración (día 50, Wall Rose). Delegaciones de Hizuru y cuatro países zarpan hacia Paradis en barco de Hizuru (llegan el día 49).
+- Día 47 10:25 · (T867) Facundo se va por una puerta desde la sala de mapas del palacio. Testigos: Erwin, Hange, Armin. Promete volver el día 50.

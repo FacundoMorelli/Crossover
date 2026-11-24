@@ -114,3 +114,7 @@
 - One Piece: tercera salida Día 44 11:25, desde el Thousand Sunny en Thriller Bark. Prometió volver donde estén. Corre.
 - Shingeki: VUELVE el día 35 tras Shiganshina, 05:58 (23 días y 17 h y media después de irse). Puerta en la escalinata del palacio de Mitras. Fiesta Tybur: día 40, anochecer.
 - Black Clover, Bleach, Jujutsu, Dragon Ball: corren.
+
+## RELOJES (actualizado T867)
+- Shingeki: tercera salida día 47 10:25 (Mitras). Promesa: volver el día 50 antes de las 11 a Wall Rose (norte de Karanes) para la demostración. Corre.
+- One Piece: VUELVE el Día 56 15:55, Archipiélago Sabaody, Grove 41 (12 días y 4 h y media después). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Volver a Shingeki día 50 antes de las 11 = OP Día 59 16:30 a más tardar.

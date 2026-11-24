@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T864)
-estando contra la pared le levanto las piernas y la sigo besando
-
-## RESPUESTA 1 (T864)
-
-> estando contra la pared le levanto las piernas y la sigo besando
-
-La levantas contra la pared como si no pesara nada.
-
-Ymir suelta un ruido de sorpresa contra tu boca y te rodea la cintura con las piernas, de golpe, como si lo hubiera decidido antes que tú. Se agarra de tus hombros. Se ríe, bajito, sin aire, entre beso y beso, y deja de reírse.
-
-—Lindo... —Te lo dice en el cuello, ronco—. La puerta. Ponle llave.
-
-El pestillo de la puerta se corre solo, con un clic, por un empujón de la Luna que ni miraste.
-
-Ymir lo oye. Se separa un segundo, con la cara roja y los ojos oscuros de golpe, y te mira. Una sonrisa torcida, peligrosa, le cruza la cara.
-
-—Presumido.
-
-Te tira del pelo y te vuelve a besar.
-
-...
-
-Cuando el sol ya está alto, la franja de luz llegó hasta la cama.
-
-Ymir está acostada boca abajo, encima de tu pecho, despeinada, con la sábana enredada en las piernas y el pelo castaño desparramado sobre tu hombro. Respira tranquila. Con la punta del dedo te recorre despacio el dragón tatuado del pecho, escama por escama, como si quisiera aprendérselo de memoria.
-
-Afuera se oyen los ruidos del palacio: pasos, una puerta, un caballo en el patio.
-
-—Ahora sí. —Lo dice sin levantar la cara, contra tu piel—. Ahora sí te puedes ir.
-
-Levanta la vista. Tiene los ojos tranquilos, sin la filosa de siempre. Y un poco tristes.
-
-—Pero vuelve, lindo. —Te pellizca el tatuaje—. Que esto no lo hago con cualquiera.
-
-Alguien golpea la puerta. Tres golpes suaves, educados.
-
-—¿Ymir? —Es la voz de Historia, del otro lado, un poco ahogada—. ¿Están...? Eh. —Una pausa larguísima—. El comandante Erwin pregunta por Facundo.
-
-Del otro lado de la puerta, Kase maúlla una vez, largo y ofendido.
-
-Ymir hunde la cara en tu pecho y se ríe sin hacer ruido.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 864 · SHINGEKI · DÍA 47 · 10:05        ║
-║ Mitras · cuarto de huéspedes, ala este       ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: del otro lado de la puerta, ofendido   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tratado ratificado. Demostración:  ║
-║ día 50. Marineford ≈ días 48-49.             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T865)
+## COMANDO 1 (T865)
 salgo, agarro a kase y voy con erwin
 
-## RESPUESTA 2 (T865)
+## RESPUESTA 1 (T865)
 
 > salgo, agarro a kase y voy con erwin
 
@@ -117,10 +57,10 @@ Se queda callado. Te mira fijo, con los ojos azules muy quietos.
 
 ---
 
-## COMANDO 3 (T866)
+## COMANDO 2 (T866)
 si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
 
-## RESPUESTA 3 (T866)
+## RESPUESTA 2 (T866)
 
 > si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
 
@@ -161,4 +101,72 @@ Kase, en tu hombro, mira a Erwin, después a Hange y a Armin, y bosteza larguís
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 47 10:22, sala de mapas. Facundo prometió estar el día 50 antes de las 11 sobre Wall Rose al norte de Karanes. Erwin: "Entonces vaya. Y vuelva." Hange amenaza con buscarlo al fin del mundo; Armin quiere ver la demostración desde la tribuna. Facundo está por irse (probablemente a One Piece: hoy allá es el Día 56; Marineford ≈ OP Días 57-58).
+## COMANDO 3 (T867)
+si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
+
+## RESPUESTA 3 (T867)
+
+> si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
+
+> —Sí, puedes, Armin. Mándenle saludos a la reina y a Ymir de mi parte. —Haces una pausa—. Aunque creo que ya la despedí lo suficientemente bien a ella.
+
+Hange suelta una carcajada que hace temblar los ventanales y se dobla sobre la mesa, golpeándola con el puño. Armin se pone tan rojo que parece que va a explotar y mira el mapa con muchísima concentración. Erwin no se ríe. Pero se le mueve la comisura de la boca, apenas, y se acomoda los papeles.
+
+—Se lo diré a la reina —dice, seco—. A Ymir, no hace falta.
+
+Abres la mano en el aire, al lado de la mesa de mapas.
+
+Se abre la puerta: el óvalo de luz blanca y azul, con los bordes temblando como agua. Hange deja de reírse en seco y se acerca con la nariz casi pegada a la luz, con el cuaderno ya abierto. Armin retrocede un paso. Erwin lo mira sin moverse, como quien ya vio de todo.
+
+Cruzas con Kase en el hombro.
+
+...
+
+Del otro lado hay olor a burbujas.
+
+Es un olor raro, dulce, como a jabón y a resina. Estás parado sobre una raíz enorme, ancha como una calle, que sale de un árbol tan gigante que no le ves la copa. El árbol tiene un número pintado en la corteza: 41. De la tierra, alrededor, suben burbujas transparentes, grandes como una cabeza, que flotan hacia arriba con el sol de la tarde brillando en ellas como arcoíris.
+
+Al pie de la raíz, amarrado a un muelle de madera, hay un barco con cabeza de león.
+
+El Thousand Sunny.
+
+Está tapado con lonas grises, atadas con sogas, de la proa a la popa. La melena del león asoma por debajo de una lona. No hay nadie en la cubierta. No sale humo de la cocina. No hay ruido.
+
+Kase se pone rígido en tu hombro y olfatea el aire.
+
+Junto a las amarras, de espaldas, hay un hombre viejo, alto, con el pelo blanco largo atado atrás, una capa gastada y una botella en la mano. Está revisando los nudos de las sogas, uno por uno, con calma.
+
+Se da vuelta.
+
+Tiene lentes redondos, una barba blanca prolija y una cicatriz que le cruza el ojo derecho. Te mira de arriba abajo, el pelo de dos colores, la cicatriz, el gato, y no se sorprende. Te mira como si te estuviera midiendo y no encontrara nada que medir.
+
+Frunce apenas el ceño.
+
+—Ojos de Eclipse. —Toma un trago de la botella—. Cuatrocientos millones. La foto del cartel no te hace justicia.
+
+Deja la botella sobre un barril, al lado de un diario doblado. Desde donde estás, alcanzas a leer el titular en letras enormes:
+
+«EJECUCIÓN DE PORTGAS D. ACE — MAÑANA, 15:00, MARINEFORD».
+
+El viejo se cruza de brazos y te mira por encima de los lentes.
+
+—Llegas tarde, muchacho. —Lo dice tranquilo, sin reproche—. Una semana tarde.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 867 · ONE PIECE · DÍA 56 · 15:55       ║
+║ Sabaody · Grove 41, junto al Sunny           ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, olfateando               ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: ¿Qué pasó con la tripulación?      ║
+║ Marineford mañana. Shingeki: antes del D59.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: CAMBIO DE MUNDO. Facundo dejó Shingeki (día 47 10:25; promesa: volver el día 50 antes de las 11) y llegó a One Piece: Día 56 15:55, Sabaody, Grove 41, junto al Thousand Sunny tapado con lonas y vacío. Silvers Rayleigh revisa las amarras; lo reconoce por el cartel: "Llegas tarde, muchacho. Una semana tarde." Diario: ejecución de Ace mañana a las 15:00 en Marineford. La tripulación fue dispersada por Kuma el Día 49 (Facundo no lo sabe todavía).

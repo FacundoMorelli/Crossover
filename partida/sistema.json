@@ -1,8 +1,8 @@
 {
-  "turno": 866,
-  "mundo_actual": "shingeki",
-  "fecha_local": "Año 850, día 47 tras Shiganshina (Mitras)",
-  "hora": "10:22",
+  "turno": 867,
+  "mundo_actual": "onepiece",
+  "fecha_local": "Día 56 (Grand Line, Archipiélago Sabaody)",
+  "hora": "15:55",
   "edad": 18,
   "nivel": 27,
   "exp": 219040,
@@ -247,7 +247,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Shingeki: emisario de Paradis, en público)"
+    "poder_mostrado": "persona común (One Piece)"
   },
   "armas": [
     {
@@ -1533,7 +1533,8 @@
         "corre": "al ritmo de Facundo",
         "salida": "Día 9 16:07 (Going Merry, rumbo a Whisky Peak); corre desde T398",
         "regreso": "Día 20 18:00 (T580): ~11 días después de irse (Shingeki ~10 d, Black Clover ~1,4 d)",
-        "salida_3": "Día 44 11:25 (Thriller Bark, desde la cubierta del Thousand Sunny). Prometió volver donde estén. Corre desde T822."
+        "salida_3": "Día 44 11:25 (Thriller Bark, desde la cubierta del Thousand Sunny). Prometió volver donde estén. Corre desde T822.",
+        "regreso_3": "Día 56 15:55 (T867): Archipiélago Sabaody, Grove 41, junto al Thousand Sunny. 12 días y 4 horas y media después de irse (todo en Shingeki)."
       },
       "shingeki": {
         "llegada": "Año 850, Operación de recuperación de Wall Maria, 10:40 (cap. ~77)",
@@ -1542,7 +1543,8 @@
         "regreso": "Día 5 tras Shiganshina 21:07 (T489): 1 día y 8 horas y media después de irse (todo en Black Clover)",
         "segunda_salida": "Día 11 tras Shiganshina 12:33 (Mitras, escalinata). Prometió volver antes de la fiesta Tybur (día 40, al anochecer). Corre desde T580.",
         "fiesta_equivalencia": "Fiesta Tybur (Shingeki día 40, anochecer ~19:00) = One Piece Día 50 ~00:30. Salir de One Piece a más tardar el Día 49.",
-        "regreso_2": "Día 35 tras Shiganshina 05:58 (T822): 23 días y 17 horas y media después de irse (todo en One Piece). Puerta en la escalinata del palacio de Mitras."
+        "regreso_2": "Día 35 tras Shiganshina 05:58 (T822): 23 días y 17 horas y media después de irse (todo en One Piece). Puerta en la escalinata del palacio de Mitras.",
+        "salida_3": "Día 47 tras Shiganshina 10:25 (sala de mapas del palacio de Mitras). Prometió volver el día 50 antes de las 11 (Wall Rose, norte de Karanes). Corre desde T867."
       },
       "blackclover": {
         "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
@@ -1781,7 +1783,8 @@
     "canones_cadetes": "Los dos cañones del fondo los pidió el general Calvi en persona, con orden sellada: si en la fiesta 'algo sale mal' o la reina de Paradis aparece, disparar a la primera fila y culpar a Paradis ante los embajadores (bandera falsa: niños eldianos de Marley muertos por 'los demonios'). Solo Calvi y el jefe de esa batería lo saben. Muller no lo sabe (él cuida la plaza, no la artillería).",
     "fiesta_dia40": "Día 40, 19:00: la fiesta empieza. Calvi en el palco del alto mando; Magath a su lado, tenso. Muller recorre la plaza. La batería del fondo tiene la orden sellada de Calvi: disparar a la primera fila si la reina de Paradis aparece. Los cuatro cañones laterales: disparar al escenario a la señal de Calvi (bengala roja). Willy cambiará el discurso al minuto ~5 y presentará a Historia al minuto ~10.",
     "onepiece_mientras_shingeki": "Mientras Facundo está en Shingeki (OP Día 44 → ~Día 54 al día 44 de Shingeki): canon con cambios. Día ~47-48 Sabaody: Hachi, Camie, subasta, Luffy golpea al Dragón Celestial, Kizaru, Pacifistas, Rayleigh. Día ~49: Kuma dispersa a la tripulación (Robin a Tequila Wolf, esclavizada en la construcción del puente; Luffy a Amazon Lily). Día ~51: se anuncia la ejecución pública de Ace. Luffy va a Impel Down (~Día 53-55). MARINEFORD ~Día 57-58 si nadie interviene (Ace y Barbablanca mueren en el canon). Facundo no sabe nada de esto.",
-    "boton_willy_dia43": "Noche del día 43 → 44, 02:40: un grupo de oficiales leales a Calvi (con apoyo de dos ministros) intenta sacar a Calvi de la prisión militar y arrestar a Willy y a Magath por 'traición'. Rodean la mansión Tybur. Willy aprieta el botón de aviso. Lara está en la casa (podría transformarse en el Martillo, pero eso mataría gente y rompería la paz ante el mundo)."
+    "boton_willy_dia43": "Noche del día 43 → 44, 02:40: un grupo de oficiales leales a Calvi (con apoyo de dos ministros) intenta sacar a Calvi de la prisión militar y arrestar a Willy y a Magath por 'traición'. Rodean la mansión Tybur. Willy aprieta el botón de aviso. Lara está en la casa (podría transformarse en el Martillo, pero eso mataría gente y rompería la paz ante el mundo).",
+    "onepiece_dias44_56": "Simulado al volver (T867), canon: Días 44-46 Thriller Bark y salida del Triángulo. Día 47 llegan a Sabaody: Hachi, Camie secuestrada, subasta; Luffy golpea al Dragón Celestial Charlos; Rayleigh. Kizaru, Pacifistas y Sentomaru los cercan. Día 49: Kuma dispersa a la tripulación uno por uno (Robin a Tequila Wolf en East Blue, esclava en la construcción del puente; Zoro a Kuraigana; Sanji a Momoiro; Nami a Weatheria; Usopp a Boin; Chopper a Torino; Franky a Karakuri; Brook a Namakura; Luffy a Amazon Lily). Día 50: el Gobierno anuncia la ejecución de Ace en Marineford. Días 51-54: Luffy y Hancock; Luffy entra a Impel Down (Día 54). Día 56: fuga de Impel Down en curso (Luffy, Ivankov, Jinbe, Crocodile, Buggy, Mr. 3). Mañana Día 57, 15:00: ejecución de Ace en Marineford; Barbablanca va a atacar. Hachi herido (Día 48, disparo de Charlos), recuperándose en el bar de Shakky. Rayleigh revisa el Sunny cada día en el Grove 41."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

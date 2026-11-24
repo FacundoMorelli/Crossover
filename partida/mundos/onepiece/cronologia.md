@@ -148,3 +148,5 @@
 - Día 44 06:52 · (T811) Kuma acepta el trato de Facundo (cambio: en el canon era Zoro quien recibía el dolor de Luffy). Facundo recibe el dolor de toda la tripulación. Kuma se va.
 - Día 44 09:10 · (T816) Historia de Brook; se une (canon). La vivre card de Ace se quema (canon).
 - Día 44 11:25 · (T822) Facundo se despide de la tripulación y cruza una puerta a otro mundo desde la cubierta del Thousand Sunny. Testigos: toda la tripulación, Lola y los Rolling.
+- Días 44-56 · (T867, simulado al volver, canon sin Facundo) Salida del Triángulo Florian. Día 47: Sabaody (Hachi, Camie, subasta; Luffy golpea al Dragón Celestial; Rayleigh). Día 49: Kizaru, Pacifistas; Kuma dispersa a la tripulación (Robin a Tequila Wolf). Día 50: anuncio de la ejecución de Ace en Marineford. Luffy: Amazon Lily, Impel Down (Día 54). Día 56: fuga de Impel Down en curso.
+- Día 56 15:55 · (T867) Facundo vuelve por una puerta al Grove 41 de Sabaody, junto al Thousand Sunny.
