@@ -78,3 +78,4 @@
 - Día 41 · (T858) Diarios del continente: "EL EMISARIO DEL GATO", la foto del escenario. Calvi a corte marcial. Muller pide licencia. Países del Medio Oriente rechazan el tratado.
 - Días 41-43 · (T858) Mitras en fiesta. Eren dice que ya no sueña con fuego. Demostración fijada: día 50, Wall Rose, ante delegaciones extranjeras.
 - Día 44 02:40 · (T858) Willy aprieta el botón de aviso.
+- Día 44 01:30-02:41 · (T859) Golpe de oficiales leales a Calvi: lo sacan de la prisión militar; rodean la mansión Tybur para arrestar a Willy por traición; van por Magath.

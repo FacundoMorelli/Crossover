@@ -160,3 +160,4 @@
 - Kiyomi · T857 · Deduce (fuente 4) que la barrera que frenó los cañones fue obra del emisario, no de la reina. No confirmado.
 - Kiyomi Azumabito, Mikasa · T858 · Kiyomi conoce a Mikasa y ve la marca. Mikasa sabe por Kiyomi que es descendiente de la familia del shogun de Hizuru.
 - Kiyomi · T858 · Por Facundo: sí, la barrera fue él (T858, confirmado).
+- Willy, Lara, cuñada de Willy · T859 · Ven a Facundo aparecer de la nada en el estudio con el gato.

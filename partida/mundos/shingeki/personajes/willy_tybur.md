@@ -28,3 +28,4 @@ ESTADO: activo
 - T849 · Día 40 19:00 · Sube al escenario de la fiesta con el discurso cambiado en la cabeza.
 - T850 · Día 40 · Discurso: revela la mentira de Helos y la paz de Paradis; presenta a Historia Reiss.
 - T858 · Día 44 02:40 · Aprieta el botón de aviso.
+- T859 · Día 44 02:41 · Facundo llega al estudio. Los leales a Calvi rodean la casa; Calvi fue liberado; también fueron por Magath. "Vinieron por mí."

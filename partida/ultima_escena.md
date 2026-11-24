@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T856)
-no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
-
-## RESPUESTA 1 (T856)
-
-> no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
-
-> —No lo sé, porque tiene una venda en esa parte. Pero le puedo decir que casi seguro que sí.
-
-Kiyomi se queda inmóvil.
-
-Despacio, abre el abanico y se tapa la boca con él. Por encima del borde pintado, se le ven los ojos, oscuros, llenándose de lágrimas que no deja caer.
-
-—Una venda. —Lo dice muy bajo, detrás del abanico—. Claro. Su madre... o la madre de su madre... le habrá dicho que la escondiera. Que no se la mostrara a nadie. Así se protege lo que uno no puede proteger de otra forma.
-
-Cierra los ojos un segundo. Respira.
-
-Cuando los abre, ya es otra vez la embajadora: la espalda recta, la voz firme, el abanico a la altura del pecho. Pero algo cambió en la forma en que te mira.
-
-—Señor emisario. —Hace una inclinación leve—. Hace cien años que mi familia espera esta noticia. Le estoy en deuda, y Hizuru no olvida sus deudas.
-
-Mira alrededor, hacia la escalera del escenario, hacia el ruido de la plaza.
-
-—¿Esa compañera suya... está en Liberio esta noche?
-
-Lo pregunta con cuidado, casi con miedo.
-
-—Si es así, quisiera conocerla. Aunque sea un minuto. Verle la cara. —Baja un poco la voz—. Y si usted prefiere que todavía no sepa quién soy, no le diré nada. Esperaré lo que haga falta. Ya esperamos cien años.
-
-Detrás de ella, apoyada contra el andamio, Ymir levanta una ceja y te mira, preguntándote sin palabras qué está pasando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 856 · SHINGEKI · DÍA 40 · 19:33        ║
-║ Liberio · detrás del telón                   ║
-║ NIVEL 27 · EXP 218.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
-║ Kiyomi quiere conocer a Mikasa.              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T857)
+## COMANDO 1 (T857)
 si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
 
-## RESPUESTA 2 (T857)
+## RESPUESTA 1 (T857)
 
 > si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
 
@@ -101,10 +53,10 @@ Baja la vista hacia ti.
 
 ---
 
-## COMANDO 3 (T858)
+## COMANDO 2 (T858)
 asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
 
-## RESPUESTA 3 (T858)
+## RESPUESTA 2 (T858)
 
 > asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
 
@@ -171,4 +123,60 @@ Kase ya está despierto, de pie sobre la cama, con el lomo arqueado y los ojos f
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 44 02:40, cuarto de huéspedes del ala este del palacio de Mitras. Facundo se despertó: Willy Tybur apretó el botón de aviso en Liberio. Kase erizado mirando hacia el mar. Antes: Kiyomi conoció a Mikasa (marca confirmada) y pactó con Historia; los diarios lo llaman "El Emisario del Gato"; Calvi a corte marcial; Muller de licencia; Medio Oriente rechaza el tratado; demostración fijada para el día 50 en Wall Rose; Eren "sueña en blanco".
+## COMANDO 3 (T859)
+voy con willy
+
+## RESPUESTA 3 (T859)
+
+> voy con willy
+
+Kase salta de la cama a tu hombro antes de que lo llames. Te llevas dos dedos a la frente.
+
+El hilo del botón te lleva directo. Del otro lado del mar, Willy: miedo, mucho, y algo más firme debajo. Al lado, Lara, tranquila como agua quieta, con el titán dormido adentro. Y alrededor de la casa, decenas de presencias tensas, con armas.
+
+Desapareces de Mitras.
+
+Aparece un cuarto oscuro con olor a tabaco, cuero y papel viejo: el estudio de Willy, en el primer piso de la mansión Tybur. Las lámparas están apagadas. Solo entra luz por la ventana, una luz amarilla y temblorosa, de faroles.
+
+Willy está de pie junto al escritorio, en bata, despeinado, con el botón plateado todavía apretado en el puño. Cuando te ve aparecer da un salto, y después se le doblan las rodillas del alivio. Se agarra del escritorio.
+
+—Vino. —Lo dice casi sin voz—. Vino.
+
+Lara está junto a la ventana, en camisón, con una manta sobre los hombros, mirando hacia abajo entre las cortinas. Tranquila. En el sofá del fondo duerme un nene de seis años, el sobrino, envuelto en una frazada. A su lado, una mujer joven, la madre, tiembla con las manos en la boca.
+
+Te asomas a la ventana.
+
+Abajo, en el jardín y en la calle, hay unos cuarenta soldados con fusiles y faroles. Rodean la casa. Hay dos camiones militares con el motor encendido. En el centro del jardín, un mayor de uniforme sostiene un altoparlante de metal.
+
+—¡Willy Tybur! —La voz rebota en las paredes de la casa—. ¡Por orden del Estado Mayor de Marley, queda usted detenido por alta traición! ¡Lo mismo que el general Theo Magath! ¡Salga con las manos en alto!
+
+—Calvi. —Willy se acerca a la ventana, sin asomarse—. Lo sacaron de la prisión militar hace una hora. Un grupo de oficiales leales a él, y dos ministros. Dicen que el tratado es un golpe de los demonios. —Traga saliva—. Vinieron por mí. Y ya fueron por Magath, a su casa.
+
+Abajo, alguien golpea la puerta principal con la culata de un fusil. Una vez. Dos. Tres. La madera cruje.
+
+Lara se da vuelta desde la ventana. Te mira con sus ojos oscuros y tranquilos.
+
+—Podría transformarme aquí. —Lo dice bajo, sin dramatismo—. Pero si lo hago, muere gente. Soldados de Marley, aplastados por un titán de los Tybur, cuatro días después de la paz. —Niega despacio con la cabeza—. Y se acaba todo.
+
+Abajo, la puerta principal empieza a ceder. Se oye el crujido largo de la madera que se parte y los gritos de los soldados en la escalera.
+
+El nene del sofá se despierta y empieza a llorar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 859 · SHINGEKI · DÍA 44 · 02:41        ║
+║ Liberio · mansión Tybur, estudio de Willy    ║
+║ NIVEL 27 · EXP 218.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Golpe de los leales a Calvi.       ║
+║ Proteger a los Tybur. Magath en peligro.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 44 02:41, estudio de Willy en la mansión Tybur (Liberio). Golpe de oficiales leales a Calvi (liberado de la prisión militar con apoyo de dos ministros): ~40 soldados y dos camiones rodean la casa; un mayor con altoparlante arresta a Willy y a Magath por alta traición (también fueron por Magath a su casa). La puerta principal cede; soldados en la escalera. En el estudio: Willy, Lara (no quiere transformarse: moriría gente y se acaba la paz), la cuñada y el sobrino de 6 años, que se despertó llorando.
