@@ -19,3 +19,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T536 · Ymir rescatada viva y llevada a Paradis. Marley pierde el Mandíbula (por ahora). El centro de investigación de Liberio va a descubrir la celda vacía en la ronda siguiente.
 - T562 · Willy Tybur y Magath aceptan en principio un plan de paz con Paradis. Cambio total del rumbo del canon.
 - T575 · 1 km de Wall Maria desaparecido (al oeste de Shiganshina). Primer paso real contra el Retumbar. Zackly aprueba.
+- T854 · Día 40 · TRATADO DE PAZ ENTRE PARADIS Y MARLEY firmado en la plaza de Liberio ante veinte embajadores: Historia Reiss, Willy Tybur, el general Magath; testigo: Facundo Morelli, emisario de Paradis. Calvi arrestado. La guerra del canon (fiesta de 854, ataque a Liberio, Retumbar) queda, por ahora, evitada.

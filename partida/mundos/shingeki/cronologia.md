@@ -73,3 +73,4 @@
 - Día 40 19:12 · (T851) Calvi da la señal; seis cañones disparan al escenario y a la primera fila; la barrera invisible de Facundo frena todo. Ningún herido. Todo el mundo lo ve.
 - Día 40 19:13-19:22 · (T852) Discurso de Historia. Magath arresta a Calvi. Kiyomi Azumabito (Hizuru) aplaude primero. Willy trae el tratado. Historia llama al emisario al escenario.
 - Día 40 19:25 · (T853) Facundo se presenta en el escenario ante el mundo como el emisario de Paradis. Firman el tratado: Historia, Willy Tybur, Magath. TRATADO DE PAZ PARADIS-MARLEY (cambio total del canon).
+- Día 40 19:28 · (T854) Facundo firma como testigo. TRATADO DE PAZ FIRMADO. Kiyomi Azumabito pide hablar con el emisario.

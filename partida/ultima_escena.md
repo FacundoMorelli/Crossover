@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T851)
-miro a historia
-
-## RESPUESTA 1 (T851)
-
-> miro a historia
-
-Te das vuelta y la miras.
-
-Historia levanta la cara hacia ti. Tiene los ojos azules muy abiertos y el discurso doblado en la mano. Te sostiene la mirada un segundo, dos. Ves que entiende: que la barrera está, que tú estás.
-
-Asiente, una sola vez.
-
-Le da el papel a Ymir. No lo va a necesitar. Se acomoda la falda del vestido azul y aparta el telón con una mano.
-
-Sale sola al escenario.
-
-La plaza entera la ve aparecer. Es una chica rubia, chiquita, con un vestido que le queda un poco grande, caminando con la cabeza alta hacia el atril donde la espera Willy. Se oyen murmullos. Alguien grita algo en un idioma que no es de Marley.
-
-En el palco del alto mando, Calvi aprieta el gatillo.
-
-La bengala sube silbando y revienta en el cielo en una flor de luz roja que tiñe toda la plaza.
-
-Las lonas de los techos caen al mismo tiempo. Los seis cañones disparan casi juntos, con un trueno que sacude los vidrios de todos los edificios.
-
-Cuatro balas silban hacia el atril. Dos, hacia la primera fila.
-
-Revientan en el aire.
-
-Las cuatro del escenario estallan a quince metros de altura contra nada, en cuatro bolas de fuego y metralla que se abren como flores sobre la cabeza de Historia y de Willy y se deshacen en humo negro. Las dos del fondo estallan a cuatro metros de la primera fila, justo encima de los cadetes, y la metralla rebota contra el aire y cae por fuera, sobre el empedrado vacío, como granizo de hierro.
-
-El estruendo rebota en las paredes de la plaza. Una lluvia de chispas cae sobre la barrera invisible y resbala por los bordes, dibujando un instante la forma de una cúpula gigante que nadie sabía que estaba ahí.
-
-Gritos. Miles de gritos.
-
-Los cadetes se tiraron al piso. La nena de pelo oscuro está boca abajo, con las manos en la nuca, y levanta la cara hacia el cielo, hacia el humo, sin entender.
-
-Historia no se movió.
-
-No se agachó ni levantó los brazos. Está parada junto al atril, con el vestido azul quieto y la cara blanca, mirando hacia adelante, hacia los palcos. Willy, a su lado, tampoco se movió. Tiene las manos apoyadas en el atril y los nudillos blancos.
-
-Los gritos se apagan, uno por uno.
-
-El humo se va con el viento del mar.
-
-Toda la plaza queda en silencio. Los veinte embajadores están de pie en sus palcos. Las cámaras de fuelle disparan, una tras otra, como grillos. En el palco del alto mando, el general Calvi sigue con la pistola de bengalas en la mano, humeando, y toda la plaza lo está mirando.
-
-Magath, a su lado, se da vuelta despacio y lo mira también.
-
-En el escenario, Historia da un paso adelante y apoya las dos manos en el atril.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 851 · SHINGEKI · DÍA 40 · 19:12        ║
-║ Liberio · detrás del telón del escenario     ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: LA FIESTA. Historia firma la paz.  ║
-║ Los cañones dispararon. Nadie herido.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T852)
+## COMANDO 1 (T852)
 miro
 
-## RESPUESTA 2 (T852)
+## RESPUESTA 1 (T852)
 
 > miro
 
@@ -147,10 +79,10 @@ Estira la mano hacia el telón.
 
 ---
 
-## COMANDO 3 (T853)
+## COMANDO 2 (T853)
 Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
 
-## RESPUESTA 3 (T853)
+## RESPUESTA 2 (T853)
 
 > Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
 
@@ -199,4 +131,60 @@ Toda la plaza espera, en silencio.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:25, sobre el escenario de la fiesta. Facundo se presentó ante el mundo como Facundo Morelli, el emisario de Paradis (fotografiado). Muller lo reconoció y cerró la libreta. Firmaron el tratado Historia, Willy (por los Tybur) y Magath (por el ejército de Marley). Historia le tiende la pluma: "Firme como testigo. Usted lo hizo posible." La plaza espera.
+## COMANDO 3 (T854)
+firmo como testigo
+
+## RESPUESTA 3 (T854)
+
+> firmo como testigo
+
+Tomas la pluma de las manos de Historia. Te inclinas sobre la mesa.
+
+Abajo de tres firmas, la redonda de Historia, la elegante de Willy y la dura de Magath, escribes tu nombre: Facundo A. Morelli. Testigo.
+
+Dejas la pluma en la mesa.
+
+Por un segundo, la plaza entera se queda sin aire.
+
+Después estalla.
+
+Los aplausos llegan de todas partes a la vez, como un trueno que no termina. En las gradas, miles de eldianos se ponen de pie gritando, llorando, abrazándose, levantando los brazos con el brazalete de la estrella. Los embajadores aplauden de pie en los palcos de terciopelo. Los periodistas gritan preguntas que nadie contesta, y las cámaras de fuelle disparan tanto que parece que llueve. Alguien de la banda, sin que nadie se lo pida, empieza a tocar.
+
+[+3.000 EXP]
+
+Historia te agarra la mano con las dos suyas, fuerte. Tiene los ojos llenos de lágrimas y no las esconde. No dice nada. Te aprieta la mano y no te suelta.
+
+Willy se seca los ojos con el pañuelo, sin vergüenza, delante del mundo. Magath le estrecha la mano a Historia, rígido, militar, y le dice algo en voz baja que no oyes. Historia asiente.
+
+Al costado del escenario, a la sombra del andamio, Lara Tybur mira todo con una sonrisa tranquila y las manos juntas.
+
+En la primera fila, los cadetes se levantaron del piso. Los más grandes aplauden sin saber bien qué pasó. El rubio aplaude mirando a la nena. La nena de pelo oscuro no aplaude. Está parada, sucia de polvo, con los puños cerrados, y te mira fijo a ti, con una mirada feroz y desconcertada, como si alguien le hubiera roto en dos el mundo.
+
+Kase le sostiene la mirada desde tu hombro.
+
+Entonces, entre el ruido, sube por la escalera lateral del escenario la mujer del kimono. Viene despacio, sin apuro, con el abanico cerrado en la mano y dos hombres de traje oscuro detrás, que se quedan abajo. Se detiene frente a ti y hace una reverencia profunda, perfecta, al estilo de un país que no conoces.
+
+—Señor emisario. —Habla un marleyano impecable, con un acento suave—. Kiyomi Azumabito, de Hizuru.
+
+Se endereza. Te mira con unos ojos oscuros, inteligentes, que no se pierden nada: el pelo, la cicatriz, el gato.
+
+—Hizuru quisiera ser la primera nación en visitar su isla. —Sonríe detrás del abanico—. ¿Me concedería unas palabras? En privado, si es posible.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 854 · SHINGEKI · DÍA 40 · 19:28        ║
+║ Liberio · escenario de la plaza              ║
+║ NIVEL 27 · EXP 218.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
+║ Kiyomi Azumabito (Hizuru) pide hablar.       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:28, escenario. TRATADO DE PAZ FIRMADO (Historia, Willy, Magath; Facundo como testigo). +3.000 EXP. La plaza estalló en aplausos. Gabi (cadete) mira a Facundo fija sin aplaudir. Lara sonríe al costado. Kiyomi Azumabito (Hizuru) subió al escenario: Hizuru quiere ser la primera nación en visitar la isla; pide unas palabras en privado.

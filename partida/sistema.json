@@ -1,11 +1,11 @@
 {
-  "turno": 853,
+  "turno": 854,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 40 tras Shiganshina (Liberio, fiesta Tybur)",
-  "hora": "19:25",
+  "hora": "19:28",
   "edad": 18,
   "nivel": 27,
-  "exp": 215740,
+  "exp": 218740,
   "exp_siguiente_nivel": 240000,
   "fragmentos": 134442,
   "plata_local": {
@@ -1708,7 +1708,7 @@
       "bleach": "'El Shinigami de dos colores' entre almas y hollows / Urahara lo llamará 'el señor Bicolor'.",
       "dragonball": "Revelado T214: 'El muchacho del gato'. Pendiente: Vegeta, 'el insecto de dos colores'.",
       "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'.",
-      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'.",
+      "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'. | NUEVO (T854): la prensa del continente lo va a llamar 'el Emisario del Gato' (diarios del día 41).",
       "blackclover": "Si pelea delante de caballeros: 'el Mago de las Estrellas' / entre los Toros Negros: 'el del gato'. En el Ojo del Sol de Medianoche: 'el Desconocido de dos colores'."
     },
     "quien_sospecha": {},
