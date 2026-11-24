@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T996)
-bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
-
-## RESPUESTA 1 (T996)
-
-> bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
-
-> —Bueno, yo me voy, Nanami. Tengo que seguir recorriendo. Salúdalos a los chicos de mi parte.
-
-Nanami asiente.
-
-No dice que van a extrañarte, ni te pregunta cuándo vuelves. Te mira un momento, con el paraguas en la derecha y la mano izquierda metida en el bolsillo del saco, apretando el alfiler.
-
-—Les voy a decir que se fue —dice—. Itadori va a hacer un escándalo. Kugisaki va a decir que ya sabía. Fushiguro no va a decir nada y va a comer igual, que es lo que importa.
-
-Hace una pausa.
-
-—Y voy a decir que el brazo me creció solo. —Se acomoda los anteojos—. Nadie me va a creer. No me importa.
-
-Te tiende la mano. La izquierda.
-
-Es la primera vez que alguien te da la mano con esa mano en cuatro meses. Lo sabe. Por eso lo hace.
-
-—Cuídese, Morelli-kun. —La voz, plana, de siempre—. Y cuando vuelva, avise. Aunque sea una vez. Me gustaría tener el café listo.
-
-Kase estira el cuello desde tu hombro y le olfatea los dedos de la mano nueva. Estornuda.
-
-Nanami casi sonríe.
-
-Detrás de él, la llovizna sigue cayendo sobre los jardines de piedra de la sede. Los faroles siguen apagados. Por el corredor de madera no pasa nadie.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 996 · JUJUTSU · 29/04/2019 · 10:20     ║
-║ Kioto · portón de la sede, bajo la lluvia    ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Despedida de Nanami. Próximo       ║
-║ destino: a elegir.                           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T997)
+## COMANDO 1 (T997)
 voy al nuevo mundo
 
-## RESPUESTA 2 (T997)
+## RESPUESTA 1 (T997)
 
 > voy al nuevo mundo
 
@@ -148,10 +100,10 @@ En el árbol, la chica de pelo azul mueve los dedos de una mano. Solo los dedos.
 
 ---
 
-## COMANDO 3 (T998)
+## COMANDO 2 (T998)
 bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
 
-## RESPUESTA 3 (T998)
+## RESPUESTA 2 (T998)
 
 > bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
 
@@ -223,4 +175,83 @@ Después levanta la cabeza y te mira a ti. Mira el sobretodo doblado debajo de s
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:06, Parque de la Puerta Sur. Shadow Gear bajado y curado. Levy le pregunta a Facundo quién es. Vecinos mirando; Fairy Tail en camino. Facundo puede responder.
+## COMANDO 3 (T999)
+me llamo facundo morelli, solo pasaba por acá
+
+## RESPUESTA 3 (T999)
+
+> me llamo facundo morelli, solo pasaba por acá
+
+> —Me llamo Facundo Morelli. Solo pasaba por aquí.
+
+Levy te mira un momento más. Después mira los trozos de hierro que tienes en la mano, y después el tronco, donde quedaron cuatro agujeros astillados del tamaño de un puño.
+
+—Solo pasabas —repite.
+
+Se sienta despacio, apoyando una mano en el pasto, como si esperara que algo le doliera. No le duele nada. Se palpa las costillas por encima del vestido roto, primero de un lado y después del otro.
+
+—Eso no es solo pasar. —Le sale media risa, cortada, temblorosa—. Ese hierro era de Gajeel. Lo vi hacerlo. Se le salía de los brazos.
+
+—¡Levy, no te levantes! —El flaco ya está de rodillas a su lado, con las manos en el aire, sin saber dónde ponerlas—. ¿Te duele algo? ¿La cabeza? ¡Te dio con...!
+
+—Jet. No me duele nada. —Se toca la boca otra vez—. Nada de nada. —Te mira—. ¿Qué era eso que nos diste? Yo leí sobre medicinas mágicas, y ninguna hace esto. Ni las de Porlyusica.
+
+El robusto se pone de pie de golpe, con los puños cerrados. Mueve el hombro, el que tenía salido, lo gira dos veces y se queda mirándolo con la boca abierta.
+
+—Mi hombro... —Se da vuelta hacia ti, desconfiado—. Oye. ¿Tú no eres de Phantom, no?
+
+—Droy —dice Levy.
+
+—¡Es que es raro! ¡Aparece de la nada, arranca el hierro de Gajeel con las manos y...!
+
+Kase lo mira desde tu hombro con los ojos entrecerrados, y Droy, sin saber por qué, se calla.
+
+Entonces se escuchan pasos. Muchos, corriendo por el sendero de piedra del lado de la ciudad, y una voz que grita antes de que se vea a nadie:
+
+—¡¿DÓNDE?! ¡¿DÓNDE ESTÁN?!
+
+Aparecen entre los árboles del parque. Un muchacho de pelo rosado con una bufanda blanca de escamas, al frente de todos, corriendo con los puños prendidos fuego. Detrás, un gato azul con alas blancas que vuela a la altura de su cabeza. Una chica rubia con un látigo y un llavero en la cintura. Un muchacho de pelo negro que no lleva camisa. Una mujer pelirroja con armadura, que no corre: avanza. Y más gente, una docena, dos docenas, todos con la misma marca en algún lugar del cuerpo.
+
+Al frente, más bajo que todos, un viejo de bigote blanco y capa, con un bastón en la mano.
+
+Se frenan en seco a diez metros del árbol.
+
+Ven el tronco con los agujeros. Ven los grilletes arrancados en el pasto. Ven a Levy sentada, a Jet arrodillado y a Droy de pie, los tres enteros, con la ropa rota y sin un rasguño.
+
+Y te ven a ti, en el medio, con los pedazos de hierro todavía en la mano.
+
+El fuego de los puños del muchacho de pelo rosado se apaga solo.
+
+╔════════════════════════════════════════╗
+║ MAKAROV DREYAR                         ║
+║ Maestro de Fairy Tail · Mago Santo     ║
+║ PODER: Titán, Magia de Luz,            ║
+║        Fairy Law                       ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x65 sobre él  ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+
+El viejo no mira a nadie más. Mira a Levy, después a Jet, después a Droy, uno por uno, de pies a cabeza. Después mira el emblema negro pintado en el vestido de Levy, y los nudillos se le ponen blancos alrededor del bastón.
+
+Por último, te mira a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 999 · FAIRY TAIL · X784 · DÍA 1 · 07:09║
+║ Magnolia · Parque de la Puerta Sur           ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:09, Parque de la Puerta Sur. Fairy Tail recién llegó y ve a Shadow Gear curado y a Facundo con el hierro de Gajeel en la mano. Makarov lo mira. Facundo puede actuar.

@@ -11,3 +11,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Vecinos del parque · T998 · fuerza: arrancó con las manos los grilletes de hierro de Gajeel. Levy, Jet, Droy, vecinos · T998 · las semillas que curan al instante (lo toman por una medicina mágica rara).
 - Levy, Jet, Droy · T998 · despertaron curados junto a Facundo; Levy deduce que él los bajó (sobretodo bajo su cabeza, hierro en su mano). No saben su nombre.
 - Vecinos del parque (panadera, viejo del perro, dos chicos y otros) · T998 · lo vieron saltar al árbol, arrancar los grilletes de hierro con las manos y curar a los tres con unas "semillas" que sacó del bolsillo.
+- Levy, Jet, Droy · T999 · su nombre: Facundo Morelli (él se lo dijo); dice que solo pasaba por aquí. Levy deduce que no es un cualquiera (arrancó el hierro de Gajeel).
+- Makarov, Natsu, Happy, Lucy, Gray, Erza y ~dos docenas de Fairy Tail · T999 · lo ven en persona: forastero de negro con un gato, de pie junto a Shadow Gear curado, con los grilletes arrancados en la mano; el tronco con los agujeros. No saben nada más.

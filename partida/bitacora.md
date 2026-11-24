@@ -997,3 +997,4 @@ T995 · Jujutsu · Kioto · Transfiguración Ociosa: le devuelve el brazo izquie
 T996 · Jujutsu · Kioto · Despedida de Nanami (le da la mano con la izquierda): "Cuando vuelva, avise. Me gustaría tener el café listo."
 T997 · Jujutsu → Fairy Tail · Puerta en el portón de Kioto (Nanami, reverencia). Magnolia, Parque de la Puerta Sur, X784 Día 1 07:00: Shadow Gear crucificado. Don: Constelación Viva. Misión: que la sede de Fairy Tail siga en pie.
 T998 · Fairy Tail · Parque de la Puerta Sur · Baja a Shadow Gear arrancando el hierro; tres semillas del ermitaño: curados. Levy: "Tú nos bajaste. ¿Quién eres?"
+T999 · Fairy Tail · Parque · "Me llamo Facundo Morelli. Solo pasaba por aquí." Levy: "Eso no es solo pasar." Llega Fairy Tail; Makarov lo mira.
