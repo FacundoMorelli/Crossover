@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T910)
-mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
-
-## RESPUESTA 1 (T910)
-
-> mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
-
-> —Mmm... ¿Quieres verlos a todos igual? Podemos ir a donde está cada uno con mi habilidad y les avisamos.
-
-Luffy se queda quieto, con la mano todavía agarrada a tu brazo.
-
-Después se le abre la cara entera.
-
-—¡¡¿EN SERIO?!! —Te sacude el brazo para arriba y para abajo—. ¡¿Podemos?! ¡¿A todos?! ¡¿Hoy?!
-
-Kase aplana las orejas contra la cabeza y te clava las uñas en el hombro para no caerse.
-
-—¡A Zoro, a Nami, a Usopp, a Sanji, a Chopper, a Franky, a Robin, a Brook! —Los va contando con los dedos de la otra mano, a los saltos—. ¡¡Shishishi!! ¡Facundo, eres lo máximo! ¡Vamos ya!
-
-Ace se ríe, con la mano todavía sobre el sombrero de su hermano.
-
-—Igual que siempre. —Le da un empujón suave en la cabeza—. No pudiste esperar ni dos minutos.
-
-Pero cuando te mira a ti, ya no se ríe tanto.
-
-—Oye. Antes de que se vayan. —Señala con el mentón hacia arriba, hacia la línea plateada que sigue cubriendo toda la flota de punta a punta—. Esa cosa. Si te vas, ¿sigue ahí?
-
-Marco, que estaba en la baranda, gira la cabeza.
-
-Detrás de ustedes, todavía a la vista, el humo negro de Marineford sube hacia el cielo. Y en el horizonte, a los costados de la isla, se empiezan a ver velas grises con la gaviota azul, saliendo despacio de la bahía por el corredor que abriste.
-
-—Ya nos están siguiendo, yoi —dice Marco, tranquilo.
-
-Barbablanca no se mueve de la proa. Solo te mira, esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 910 · ONE PIECE · DÍA 57 · 13:34       ║
-║ Mar abierto, frente a Marineford · Moby Dick ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Visitar a los ocho con Luffy. La   ║
-║ Marina sale tras la flota. Shingeki: D59.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T911)
+## COMANDO 1 (T911)
 si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
 
-## RESPUESTA 2 (T911)
+## RESPUESTA 1 (T911)
 
 > si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
 
@@ -113,10 +61,10 @@ Luffy aterriza a tu lado de un salto, con el puño en alto, los ojos brillando y
 
 ---
 
-## COMANDO 3 (T912)
+## COMANDO 2 (T912)
 eh vamos con zoro
 
-## RESPUESTA 3 (T912)
+## RESPUESTA 2 (T912)
 
 > eh vamos con zoro
 
@@ -175,4 +123,58 @@ Se le cae Wado de la boca.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:37, Kuraigana. Facundo y Luffy llegan al claro donde Zoro, vendado, pelea contra Humandrills. Perona reconoce a Facundo. Zoro se frena y ve a Luffy. Los Humandrills siguen alrededor. Facundo puede actuar.
+## COMANDO 3 (T913)
+te esta costando unos monos zoro?
+
+## RESPUESTA 3 (T913)
+
+> te esta costando unos monos zoro?
+
+> —¿Te están costando unos monos, Zoro?
+
+A Zoro se le hincha una vena en la frente, justo encima de la venda.
+
+—¡¿Unos monos?! —Te apunta con Shusui, con la otra mano todavía abierta donde estaba Wado—. ¡Estos no son monos normales! ¡Copian todo lo que ven! ¡Pelean como soldados porque vieron pelear soldados, y ahora...!
+
+El mono más grande del claro, un babuino canoso con una armadura negra abollada y un sable en cada mano, aprovecha el grito. Se le tira encima por la espalda.
+
+Zoro gira sin mirar, para el sable con Kitetsu y lo empuja hacia atrás. El babuino aterriza en cuclillas, con los dos sables cruzados delante de la cara, exactamente en la misma guardia en la que estaba Zoro un segundo antes.
+
+—...y ahora pelean como yo. —Zoro escupe—. Eso es lo que me cuesta.
+
+—¡¡Zoro!! —Luffy ya está corriendo hacia él, a los saltos, con los brazos abiertos—. ¡¡Estás vivo!! ¡¡Shishishi!! ¡¿Por qué estás todo vendado?! ¡¿Te peleaste con los monos?!
+
+Tres babuinos se le cruzan delante, con lanzas.
+
+Luffy ni frena. Estira un brazo para el costado, lo trae de vuelta como un látigo y los manda a volar contra los troncos de un manotazo, sin mirarlos, sin dejar de sonreír.
+
+Zoro levanta Wado del piso. Le saca la tierra con el pulgar. Por un segundo, cuando mira a Luffy, se le afloja la cara entera. Se le escapa algo parecido a una sonrisa.
+
+Después se la vuelve a poner seria y se ata el pañuelo negro en la cabeza.
+
+—No te metas, Luffy. —Muerde a Wado—. Tú tampoco, Facundo. Estos me los termino yo.
+
+Alrededor del claro, de entre la niebla, salen más. Diez, quince, veinte babuinos con armaduras, todos con espadas, todos en la misma guardia de tres espadas, mirando a Zoro.
+
+Arriba, entre las ramas, Perona se abraza las rodillas en el aire.
+
+—¡Ay, no! ¡Ahora son más! ¡Tú! —Te señala con el paraguas—. ¡El del gato! ¡Haz algo, que este idiota no escucha a nadie!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 913 · ONE PIECE · DÍA 57 · 13:38       ║
+║ Kuraigana · claro del bosque muerto          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:38, Kuraigana. Zoro, vendado, pide que no se metan con los Humandrills (copian su estilo). Luffy junto a él. Salieron 20 Humandrills más. Perona le pide a Facundo que haga algo. Facundo puede actuar.

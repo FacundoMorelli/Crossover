@@ -44,3 +44,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T910 · "¡¿En serio?! ¡Facundo, eres lo máximo! ¡Vamos ya!"
 - T911 · "¡Gracias, viejo de bigote!" "¡¿A quién vamos a ver primero?!"
 - T912 · Llega a Kuraigana con Facundo; ve a Zoro.
+- T913 · Corre a Zoro; manda a volar a tres Humandrills de un manotazo.

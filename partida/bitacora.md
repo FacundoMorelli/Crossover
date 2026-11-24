@@ -911,3 +911,4 @@ T909 · One Piece · Mar abierto · Propone dos años de entrenamiento y reunió
 T910 · One Piece · Mar abierto · Propone ir a ver a cada uno. Luffy: "¡Vamos ya!" Ace: "¿Si te vas, la pared sigue?" La Marina sale tras la flota.
 T911 · One Piece · Mar abierto · El Bankai queda sobre la flota. Barbablanca: "Eso no se olvida en este barco." Ace: "Cuídamelo." Luffy: "¿A quién primero?"
 T912 · One Piece · Kuraigana · Teletransporte con Luffy. Zoro vendado contra los Humandrills; Perona reconoce a Facundo. Zoro: "¿...Luffy?"
+T913 · One Piece · Kuraigana · "¿Te cuestan unos monos?" Zoro: "Pelean como yo. Me los termino yo." Salen 20 más. Perona: "¡Haz algo!"

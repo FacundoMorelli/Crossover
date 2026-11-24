@@ -24,3 +24,4 @@ DIÁLOGO T356: "¿Y tú quién demonios eres?"
 - T737 · Entiende por qué Facundo los dejó ir.
 - T760 · Vence a Kaku con el Kyutoryu Asura, esposado a Usopp.
 - T912 · Día 57 13:37 · Kuraigana. Vendado, peleando contra Humandrills. Ve a Luffy y Facundo aparecer; se le cae Wado de la boca: "¿...Luffy?"
+- T913 · "¡Copian todo lo que ven! Ahora pelean como yo." "No te metas, Luffy. Tú tampoco, Facundo. Estos me los termino yo."
