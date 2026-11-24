@@ -245,3 +245,4 @@
 - Ace, Barbablanca y la tripulación del Moby Dick · T907 · Por Luffy: su tripulación fue dispersada por "el oso" (Kuma) en el archipiélago (Sabaody).
 - Facundo · T908 · Por percepción de ki: dirección, distancia y estado de Zoro (oeste, isla gris), Nami (en el cielo), Usopp (isla de vida gigante al sur), Sanji (isla de presencias ruidosas), Chopper (cima altísima, criaturas gigantes), Franky (isla al este, solo), Brook (multitud no humana), Robin (del otro lado de la Red Line, entre presos agotados).
 - Luffy, Ace, Barbablanca · T908 · Ven a Facundo cerrar los ojos un momento para "buscarlos"; no saben cómo.
+- Luffy, Ace, Barbablanca · T909 · Por Facundo: los ocho están bien, cada uno en una isla; plan de dos años y reunión en Sabaody.

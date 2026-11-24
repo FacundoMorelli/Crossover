@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T906)
-no se preocupen uso luna para mover todos los barcos de la marina
-
-## RESPUESTA 1 (T906)
-
-> no se preocupen uso luna para mover todos los barcos de la marina
-
-> —No se preocupen.
-
-Miras la línea de buques. El ojo derecho se te enfría, y la bahía entera se pone un poco más azul.
-
-Levantas la mano libre, con la palma hacia abajo, y la mueves hacia los costados, despacio, como quien corre una cortina.
-
-Los veinte barcos se despegan del agua.
-
-No de golpe: el mar los suelta con un ruido largo, de succión, y los cascos suben chorreando, con las anclas colgando de las cadenas, los cañones todavía asomados por las troneras. A bordo, cientos de marines se agarran de lo que pueden. Alguien grita. Un cañonero suelta la mecha encendida y la ve caer hacia el agua, veinte metros más abajo.
-
-Después los barcos se separan.
-
-Diez se deslizan por el aire hacia la izquierda y diez hacia la derecha, en el mismo orden en que estaban, como las dos hojas de una puerta que se abre. Se apartan hasta las paredes de roca de la boca de la bahía y bajan de nuevo, suaves, contra la orilla, uno al lado del otro, con un chapoteo que levanta espuma pero no rompe ni un mástil.
-
-En el medio queda el mar abierto. Un corredor de agua limpia, de casi un kilómetro de ancho, que da directo al horizonte.
-
-En los barcos piratas no grita nadie. Por un segundo, miles de hombres se quedan mirando lo mismo, con la boca abierta.
-
-Después estalla.
-
-—¡¡ABRIÓ EL MAR!!
-
-—¡¡¿QUIÉN ES ESE TIPO?!!
-
-—¡¡OJOS DE ECLIPSE!! ¡¡OJOS DE ECLIPSE!!
-
-La proa de la columna cruza la boca de la bahía sin frenar. Detrás, barco tras barco, la flota sale entre las dos hileras de buques de guerra apoyados en la roca, cuyos marines se asoman por las barandas sin disparar un solo cañón, todavía mareados, todavía agarrados de las jarcias.
-
-Afuera de la cúpula, Kizaru silba bajito.
-
-—Ooooh... Ahora sí que van a hacer muchas preguntas en el cuartel general~.
-
-En la cubierta, Barbablanca no dice nada. Se ríe con los ojos, nada más, y vuelve a mirar adelante.
-
-Ace se te acerca desde la baranda, todavía con Luffy colgado de la manga. Mira el corredor de agua abierta, mira los barcos de la Marina amontonados contra las rocas, te mira el ojo derecho, que todavía brilla azul.
-
-—Oye. —Se rasca la nuca—. Ya me salvaste la vida, me sacaste del cadalso y ahora sacas a toda la flota de mi padre de la bahía. —Se le escapa una media sonrisa—. ¿Cómo se supone que te pague todo esto?
-
-Atrás, muy lejos, en la orilla de Marineford, Akainu se queda solo en el borde del hielo, viendo cómo la flota de Barbablanca sale al mar abierto.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 906 · ONE PIECE · DÍA 57 · 13:23       ║
-║ Boca de la bahía de Marineford · Moby Dick   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La flota sale de la bahía. Kizaru  ║
-║ los sigue. Shingeki: antes del D59 16:30.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T907)
+## COMANDO 1 (T907)
 no me tienes que pagar nada ace, sos el hermano de mi capitan
 
-## RESPUESTA 2 (T907)
+## RESPUESTA 1 (T907)
 
 > no me tienes que pagar nada ace, sos el hermano de mi capitan
 
@@ -127,10 +63,10 @@ Levanta la cabeza y te mira a ti.
 
 ---
 
-## COMANDO 3 (T908)
+## COMANDO 2 (T908)
 ehh ahi te digo, busco el ki de todos
 
-## RESPUESTA 3 (T908)
+## RESPUESTA 2 (T908)
 
 > ehh ahi te digo, busco el ki de todos
 
@@ -199,4 +135,62 @@ Luffy sigue parado delante de ti, quieto, con los puños apretados a los costado
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:29, Moby Dick en mar abierto. Facundo sintió con el ki a los ocho compañeros dispersos (ver contexto T908). Luffy, Ace y Barbablanca lo miran esperando; Luffy pregunta si están bien. Facundo puede responder.
+## COMANDO 3 (T909)
+estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
+
+## RESPUESTA 3 (T909)
+
+> estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
+
+> —Están todos bien. Cada uno está en una isla. Luffy, creo que lo mejor es que les mandemos un mensaje a todos. Todavía no están preparados para el Nuevo Mundo. Creo que es mejor que entrenen dos años en las islas a las que cayeron, y después nos juntamos todos en Sabaody.
+
+Luffy suelta el aire de golpe, como si lo hubiera tenido guardado desde el archipiélago. Se le aflojan los hombros.
+
+—Están bien... —Se ríe, corto, con los ojos brillosos—. Shishi... Están bien.
+
+Después oye el resto, y la sonrisa se le congela.
+
+—¿Dos años?
+
+Se queda mirándote con la boca abierta. Después mira el mar. Después se mira las manos, que todavía tienen las marcas rojas de haber agarrado las esposas de piedra marina de Ace.
+
+No dice nada durante un rato largo. Las velas crujen arriba. Alguien grita una orden en la cubierta de otro barco.
+
+—Yo quería verlos ya —dice al fin, bajito—. A todos. Ahora mismo.
+
+Aprieta los puños.
+
+—Pero el oso... Ese tipo los hizo desaparecer a todos delante de mí, y yo no pude hacer nada. Y el almirante de la luz también. Y hoy... —Mira a Ace de reojo—. Hoy, si no estabas tú, Ace se moría. Y yo no habría podido hacer nada otra vez.
+
+Levanta la cabeza. Ya no tiene los ojos brillosos. Tiene la misma cara que tenía en el techo del Juzgado de Enies Lobby.
+
+—Tienes razón. No soy lo bastante fuerte. Ninguno lo es. —Se acomoda el sombrero de paja con una mano—. Dos años. Y después, al Nuevo Mundo.
+
+Ace no dice nada. Le pone una mano en la cabeza, encima del sombrero, y se la deja ahí.
+
+Desde la proa, Barbablanca se ríe, bajo, con el pecho.
+
+—Gurarara... Esperar dos años, a tu edad. —Te mira a ti—. Ese consejo te lo dio alguien que ya tuvo que esperar mucho, ¿eh, mocoso?
+
+Luffy te agarra del brazo, de golpe, con los ojos grandes.
+
+—¡Oye, Facundo! ¿Y cómo les avisamos? ¡Están todos en islas distintas, no tenemos Den Den Mushi de nadie! ¡Si no se enteran, van a volver todos a Sabaody mañana!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 909 · ONE PIECE · DÍA 57 · 13:32       ║
+║ Mar abierto, frente a Marineford · Moby Dick ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a los ocho: dos años, y     ║
+║ Sabaody. Shingeki: antes del D59 16:30.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:32, Moby Dick. Luffy aceptó: dos años de entrenamiento y reunión en Sabaody. Pregunta cómo avisarles a los ocho (no tienen Den Den Mushi de nadie). Facundo puede responder.

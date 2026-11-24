@@ -22,3 +22,4 @@ ESTADO: activo
 - T903 · Ve el Bankai sobre la flota. "¿Eso... también lo hiciste tú?"
 - T906 · "Me salvaste la vida, me sacaste del cadalso y ahora sacas a toda la flota de mi padre. ¿Cómo se supone que te pague todo esto?"
 - T907 · Reverencia: "Gracias por cuidar a mi hermanito. Y gracias por lo de hoy." Pregunta a Luffy por su tripulación.
+- T909 · Le pone la mano en la cabeza a Luffy, en silencio.

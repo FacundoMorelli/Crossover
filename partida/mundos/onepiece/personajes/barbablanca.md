@@ -15,3 +15,4 @@ ESTADO: activo
 - T903 · "Le dijiste a mi hijo que no hiciera estupideces, y tú te pones a tapar el cielo."
 - T904 · "¡Remen, idiotas, remen!" Confía la cúpula a Facundo.
 - T905 · "Mocoso. Tu pared. ¿Hasta dónde llega?"
+- T909 · "Ese consejo te lo dio alguien que ya tuvo que esperar mucho, ¿eh, mocoso?"

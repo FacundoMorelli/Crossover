@@ -907,3 +907,4 @@ T905 · One Piece · Marineford · "Me tendrías que poder matar." Kizaru escolt
 T906 · One Piece · Marineford · Luna: aparta los 20 buques de bloqueo como una cortina. La flota sale al mar. Ace: "¿Cómo se supone que te pague todo esto?"
 T907 · One Piece · Mar abierto · "Eres el hermano de mi capitán." Reverencia de Ace. Kizaru se vuelve. Luffy: "¿Tú sabes dónde están?"
 T908 · One Piece · Mar abierto · Busca el ki de todos: encuentra a los ocho de la tripulación. Robin del otro lado de la Red Line, entre presos. Luffy: "¿Están bien?"
+T909 · One Piece · Mar abierto · Propone dos años de entrenamiento y reunión en Sabaody. Luffy acepta. "¿Cómo les avisamos?"
