@@ -36,3 +36,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 
 ### Fairy Tail
 - Turno 997 · Cruza la Puerta desde Kioto. Llega a Magnolia (X784, Phantom Lord). Don de Mundo: Magia Perdida: Constelación Viva.
+- Turno 1017 · MISIÓN DE MUNDO DE FAIRY TAIL CUMPLIDA: la guerra con Phantom termina el Día 1 (Fairy Law de Makarov) y la sede de Fairy Tail sigue en pie. Antes: venció a Gajeel y a Aria, frenó el Metsu y rescató a Lucy.

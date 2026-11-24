@@ -1015,3 +1015,4 @@ T1013 · Fairy Tail · Phantom · Desata a Lucy. Cuenta su captura. Erza: "Desap
 T1014 · Fairy Tail · Phantom · "Eh, sí." Lucy: "¡Muchas gracias!" Makarov: Jose no estaba; va a responder. "¿Qué es lo que quieres de Fairy Tail?"
 T1015 · Fairy Tail · Phantom · "Solo quiero ayudar. El maestro está arriba en su torre, lo siento." Makarov no lo siente: Jose se esconde. "Muéstrame dónde está. Esta vez voy yo."
 T1016 · Fairy Tail · Torre de Phantom · Lleva a Makarov volando. Jose real en el trono con Juvia y Sol. Makarov rompe la ventana. Jose: "Me ahorraron el trabajo." Sombras; Makarov crece.
+T1017 · Fairy Tail · Torre de Phantom · Observa: Makarov vs Jose. Onda Muerta. Tres segundos. FAIRY LAW: Jose vencido. MISIÓN DE MUNDO CUMPLIDA. "Se terminó, muchacho."

@@ -153,3 +153,4 @@
 - MISIÓN: Que la sede de Fairy Tail siga en pie cuando termine la guerra con Phantom Lord.
 - RECOMPENSA: 9.000 EXP · 250 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- CUMPLIDA: T1017 · Día 1 09:31. Makarov vence a Jose con Fairy Law en la torre de Phantom; la sede de Fairy Tail sigue en pie. +9.000 EXP, +250 F. Mundos completados: 7.

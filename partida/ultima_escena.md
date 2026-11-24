@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1014)
-eh si
-
-## RESPUESTA 1 (T1014)
-
-> eh si
-
-> —Eh, sí.
-
-Lucy se queda mirándote con la boca un poco abierta.
-
-Después se endereza, se arregla el pelo mojado con las dos manos, como puede, y hace una reverencia rápida, torpe, con la cabeza muy baja.
-
-—Gracias. —Le sale bajito. Después lo repite más fuerte, todavía doblada—. ¡Muchas gracias, de verdad!
-
-—¡Aye! —Happy se le posa en la espalda, en plena reverencia—. ¡Gracias por salvar a Lucy, señor Facundo!
-
-—¡Happy, bájate!
-
-Natsu no dice nada. Te mira con los brazos cruzados y una sonrisa que le ocupa media cara.
-
-Desde la escalera llegan pasos.
-
-Makarov baja despacio, con las manos atrás de la espalda. Atrás de él, dos de Fairy Tail que habían subido a buscarlo bajan arrastrando entre los dos a Aria, desmayado, con los pies rebotando en cada escalón.
-
-El viejo llega al salón. Ve a Lucy.
-
-Se detiene. Durante un momento no dice nada. Se le ablanda toda la cara.
-
-—Lucy.
-
-—Maestro... —Lucy da un paso hacia él—. Lo siento. Me dejé atrapar. Si hubiera...
-
-—Calla, mocosa. —Makarov se acerca y le da una palmadita en el brazo, lo más alto que llega—. Estás aquí. Es lo único que importa.
-
-Después se vuelve hacia el resto del gremio, que se juntó alrededor. Alza la voz.
-
-—¡Jose no estaba en este edificio! Lo que había arriba era una proyección de su pensamiento. —Mira a su alrededor, a los de Phantom tirados en el piso—. Aquí cayó la mitad de su gremio, Gajeel y uno de sus Element 4. Pero Jose sigue entero, y ahora sabe que lo humillamos en su propia casa. Va a responder.
-
-Un murmullo recorre el salón.
-
-Makarov se vuelve hacia ti. Te mira desde abajo, como en el parque, pero esta vez es distinto. Hay algo que en el parque no estaba: cálculo, y también la cautela de un hombre que acaba de ver algo que no entiende.
-
-—Muchacho. —Hace una pausa—. Arriba, Aria me iba a vaciar de magia. No lo sentí. Tú sí. —Mira a Lucy, después a ti otra vez—. Me cuidaste la espalda y me trajiste a mi hija de vuelta, y no tienes nuestra marca.
-
-Se cruza de brazos.
-
-—¿Qué es lo que quieres de Fairy Tail?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1014 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:18 · Phantom Lord · salón principal       ║
-║ NIVEL 27 · EXP 225.700/240.000               ║
-║ FRAGMENTOS 107.587 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: La guerra contra Phantom           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1015)
+## COMANDO 1 (T1015)
 nada, solo quiero ayudar, el viejo ese el maestro esta arriba en su torre, lo siento desde aqui
 
-## RESPUESTA 2 (T1015)
+## RESPUESTA 1 (T1015)
 
 > nada, solo quiero ayudar, el viejo ese el maestro esta arriba en su torre, lo siento desde aqui
 
@@ -127,10 +60,10 @@ Después te mira otra vez a ti. Un momento largo.
 
 ---
 
-## COMANDO 3 (T1016)
+## COMANDO 2 (T1016)
 lo llevo volando hasta la torre donde está Jose
 
-## RESPUESTA 3 (T1016)
+## RESPUESTA 2 (T1016)
 
 > lo llevo volando hasta la torre donde está Jose
 
@@ -192,4 +125,133 @@ Makarov empieza a crecer.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:23, lo alto de la torre de Phantom. Makarov entró rompiendo la ventana y está frente a Jose; Jose levanta sus Sombras; Makarov empieza a crecer. Juvia y Sol en el piso. Facundo flota afuera. Facundo puede actuar.
+## COMANDO 3 (T1017)
+observo la pelea entre Makarov y Jose
+
+## RESPUESTA 3 (T1017)
+
+> observo la pelea entre Makarov y Jose
+
+Te quedas afuera, flotando junto al marco roto de la ventana, con el viento de la colina en la espalda. Kase se acomoda en tu hombro y mira hacia adentro sin parpadear.
+
+Makarov termina de crecer.
+
+La sala es alta, pero no lo suficiente. El viejo se estira hasta que la cabeza le toca el techo de madera, y sigue: las vigas crujen, se rajan, ceden, y de golpe el techo en punta de la torre sale volando hacia arriba en pedazos, tejas y madera y polvo, y el cielo aparece encima de la sala. Makarov queda de pie en el medio, enorme, con los hombros por encima de lo que eran las paredes, mirando hacia abajo al hombre del trono.
+
+Juvia y Sol se arrastran hacia la pared del fondo.
+
+Jose no se levanta. Abre las manos sobre los apoyabrazos.
+
+—¡Sombras!
+
+Las figuras de humo negro se le despegan de la espalda, de la pared, del piso, decenas, y suben hacia Makarov como una bandada de cuervos sin cara, chillando con un ruido que no es de este mundo. Le clavan las garras en los brazos, en el pecho, en la cara.
+
+Makarov cierra el puño. Se le enciende de luz dorada.
+
+Lo baja.
+
+El puño atraviesa la nube de sombras como si no estuviera y se estrella contra el trono. El trono desaparece. El piso de la sala se hunde medio metro en un círculo perfecto, y la torre entera se sacude hasta los cimientos; abajo, en el salón, se escuchan gritos. Las sombras se deshacen en jirones de humo.
+
+Jose ya no está en el trono. Está en el aire, a un costado, envuelto en una capa de oscuridad que se mueve como agua. Tiene la ropa rota en un hombro. Ya no sonríe.
+
+—Fairy Tail... —sisea—. Un gremio de basura, de mocosos que rompen pueblos y lloran en las tabernas. Siempre lo fueron. ¡Y tú, viejo, eres el peor de todos!
+
+Abre los brazos, y una ola de oscuridad le sale del pecho. No es humo: es algo espeso, violeta y negro, que avanza haciendo un ruido de mil voces gritando a la vez.
+
+—¡Onda Muerta!
+
+La ola le pega a Makarov de lleno en el pecho.
+
+El gigante retrocede un paso. Uno solo. La onda le quema la piel de los brazos, le deshace la capa, le arranca un gruñido. Sigue empujando, y Makarov sigue de pie, con los pies hundidos en la piedra, los brazos cruzados delante de la cara.
+
+Después los abre.
+
+La onda se parte en dos, como agua contra una roca, y se pierde en el cielo por encima de la torre.
+
+Makarov baja la vista hacia Jose. Ya no hay furia en su cara. Hay algo peor: tristeza.
+
+—Te doy tres segundos para arrodillarte, Jose —dice. La voz grave le sale de todo el cuerpo y hace temblar los restos de las paredes—. Tres segundos. Por todo lo que fuiste alguna vez.
+
+Jose lo mira. Se ríe. Una carcajada aguda, histérica, que le sacude los hombros.
+
+—¡¿Arrodillarme?! ¡¿Yo, ante ti?!
+
+—Tres.
+
+Makarov junta las palmas delante del pecho.
+
+—Dos.
+
+Entre las manos del gigante nace una luz. No es dorada como el puño: es blanca, pura, tan blanca que duele, y crece.
+
+—Uno.
+
+Jose deja de reírse.
+
+—Fairy Law.
+
+La luz lo llena todo.
+
+Sale de las manos de Makarov y se expande en todas direcciones, como un sol que nace en el medio de la torre. Te pasa por encima. Es tibia. No te hace nada: la sientes buscar algo en ti, como una mano que tantea en la oscuridad, y seguir de largo. Kase cierra los ojos y no se mueve.
+
+A Jose lo atraviesa.
+
+Lo escuchas gritar adentro de la luz. Un grito largo, que se va apagando.
+
+En la pared del fondo, Juvia y Sol gritan también, y se callan.
+
+La luz baja de la torre, cubre la sede entera, se derrama por los muros hasta el salón principal, donde los pocos magos de Phantom que quedaban en pie caen al piso a la vez. Sigue hasta las calles de Oak Town, se detiene ahí y se apaga.
+
+Silencio.
+
+Makarov se encoge. Despacio. Vuelve a su tamaño normal, un viejo bajito con la capa hecha jirones, de pie en el medio de una sala sin techo, respirando con dificultad.
+
+Delante de él, en el piso hundido, está Jose. Vivo. Tiene la cara gris, como si le hubieran pasado veinte años por encima en un segundo, los ojos abiertos y vacíos, mirando el cielo. No se mueve. Junto a la pared, Juvia y Sol están desmayados.
+
+
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Titán, Magia de Luz y Fairy Law              ║
+║ USUARIO: Makarov Dreyar · Fairy Tail         ║
+║                                              ║
+║ MISIÓN: Que Makarov Dreyar te llame "hijo".  ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Sombras y Magia Oscura                       ║
+║ USUARIO: Jose Porla · Fairy Tail             ║
+║                                              ║
+║ MISIÓN: Recibir la Onda Muerta de Jose       ║
+║ Porla con todo su poder y seguir de pie.     ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+
+[Misión de Mundo cumplida: la sede de Fairy Tail sigue en pie al terminar la guerra con Phantom Lord.]
+
+[+9.000 EXP · +250 Fragmentos.]
+
+Makarov se tambalea. Apoya una mano en lo que queda de pared. Levanta la vista hacia ti, que sigues flotando junto al marco roto, y por primera vez desde el parque te sonríe. Una sonrisa cansada, chueca, debajo del bigote.
+
+—Se terminó, muchacho —dice—. Phantom Lord se terminó.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1017 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:31 · Phantom Lord · lo alto de la torre   ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:31, lo alto de la torre de Phantom (sin techo). Makarov venció a Jose con Fairy Law. Misión de Mundo cumplida. Makarov le dice a Facundo: "Se terminó." Facundo puede actuar.

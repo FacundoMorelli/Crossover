@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1012 · "¡¿Non?!"
 QUÉ SABE DE FACUNDO: lo vio aparecer y desaparecer con Lucy (T1012). Su nombre, por Jose en voz alta (T1016). Lo vio volar con Makarov (T1016).
 QUÉ PODERES DE FACUNDO VIO: teletransporte (T1012).
-ESTADO: En la celda de la torre.
+ESTADO: desmayado/a por Fairy Law en lo alto de la torre (T1017).
