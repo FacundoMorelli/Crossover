@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T989)
-te busque entre 14millones de personas, nada importante
-
-## RESPUESTA 1 (T989)
-
-> te busque entre 14millones de personas, nada importante
-
-> —Te busqué entre catorce millones de personas. Nada importante.
-
-Saori se te queda mirando.
-
-Después se ríe. No una risa educada: una carcajada de verdad, que le sale de golpe, con la cabeza echada para atrás y la mano todavía en el pelo de Nobara.
-
-—¡Nada importante! —repite—. ¡Catorce millones! —Se seca los ojos con la muñeca—. Bueno. Si tú lo dices.
-
-No pregunta más. Se le nota en la cara que tiene cien preguntas, y que ninguna le importa tanto como la chica que tiene abrazada.
-
-Nobara se separa de su hombro. Tiene la cara roja, hinchada, llena de lágrimas y mocos, y se está riendo también, sin poder parar.
-
-—Es un idiota —dice, con la voz hecha pedazos, señalándote con el pulgar sin mirarte—. Son todos idiotas. —Se sorbe la nariz—. Son mis amigos.
-
-Saori la mira. Mira a los tres chicos y al hombre de traje en el pasillo. Algo en su cara se ablanda todavía más.
-
-—Tus amigos —repite, despacio. Sonríe—. Te dije que en Tokio ibas a encontrar gente que te quisiera, ¿te acuerdas? En el camino de los arrozales. Te lo dije.
-
-Nobara asiente, sin poder hablar otra vez.
-
-Saori mira la tostada en el piso. La taza de los gatos en el pasillo. El reloj que se ve por la puerta abierta, en la pared de la cocina.
-
-Suspira. Se le escapa media sonrisa.
-
-—Voy a llegar tarde. —Lo dice como quien toma una decisión importante—. No. No voy a llegar. Voy a llamar y decir que estoy enferma. Es la primera vez en dos años, se lo merecen.
-
-Agarra la taza del piso. Abre la puerta del todo.
-
-—Pasen. —Mira a los cinco y al gato, todos apretados en el pasillo exterior—. Es chiquito, son muchos y no tengo sillas para todos. Pero hay café, hay pan y hay un sillón donde entran tres si nadie es muy grande. —Mira a Nobara, a los pies descalzos, y le da un golpecito en la frente con un dedo—. Y tú, pasa primero y lávate esos pies antes de pisarme la alfombra.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 989 · JUJUTSU · 25/04/2019 · 07:27     ║
-║ Setagaya · puerta 203, departamento de Saori ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Saori los invita a pasar.          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T990)
+## COMANDO 1 (T990)
 simula
 
-## RESPUESTA 2 (T990)
+## RESPUESTA 1 (T990)
 
 > simula
 
@@ -108,10 +55,10 @@ Duda.
 
 ---
 
-## COMANDO 3 (T991)
+## COMANDO 2 (T991)
 esta bien. simula hasta mañana a las 10 en la sede de kioto
 
-## RESPUESTA 3 (T991)
+## RESPUESTA 2 (T991)
 
 > esta bien. simula hasta mañana a las 10 en la sede de kioto
 
@@ -174,4 +121,60 @@ Nanami deja de escribir. Levanta la vista de la libreta y te mira.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:02, sede de los altos mandos en Kioto. Facundo de pie en el tatami ante cinco biombos (nueva junta). Utahime y Nanami presentes. La junta enumera sus faltas y ofrece anular la orden de retención si se registra como hechicero de grado especial bajo su autoridad. Facundo puede responder.
+## COMANDO 3 (T992)
+eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
+
+## RESPUESTA 3 (T992)
+
+> eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
+
+> —Eh... está bien. Mientras me dejen irme cuando quiera y volver cuando quiera.
+
+Silencio detrás de los biombos.
+
+Después, un murmullo. Las siluetas se inclinan unas hacia otras, apenas, como cabezas que se acercan. Voces bajas, imposibles de entender. Una de las siluetas de la derecha niega con la cabeza. La de la izquierda, la de la mujer, levanta una mano.
+
+Utahime chasquea la lengua, bajito, mirando el piso.
+
+—Un grado especial que entra y sale cuando se le da la gana —murmura, sin levantar la vista—. Ya tuvimos uno así. Nadie lo pudo controlar nunca.
+
+—Y gracias a eso todavía existe Japón —dice Nanami, sin dejar de escribir.
+
+Utahime lo mira. Abre la boca. La cierra.
+
+El murmullo detrás de los biombos se apaga.
+
+Habla la mujer.
+
+—La junta acepta. —La voz es firme, más joven que las otras—. Será libre de ir y venir sin aviso. No estará sujeto a órdenes de misión obligatorias. —Una pausa—. Pero mientras esté en territorio japonés, si aparece una amenaza de grado especial y nadie más puede detenerla, esta junta le pedirá ayuda. Pedirá. No ordenará. Usted decidirá.
+
+La voz vieja del medio carraspea. No parece contenta. Pero no contradice.
+
+—La orden de retención contra Facundo Morelli queda anulada desde este momento —dice, seca—. Será registrado como hechicero de grado especial. El segundo en actividad, junto a Yuta Okkotsu.
+
+Una de las siluetas de la derecha se mueve. Una mano, detrás del papel, empuja algo por debajo del biombo: una tablilla de madera, lisa, y un pincel con tinta, que se deslizan por el tatami hasta tus pies.
+
+—Para el registro —dice la voz vieja—, todo hechicero de grado especial debe declarar ante esta junta su técnica innata. El nombre y la naturaleza. Es la ley desde hace mil años. Gojo Satoru declaró la suya. Okkotsu, la suya. —Pausa—. Escriba la suya.
+
+Utahime levanta la vista del piso, por primera vez interesada.
+
+Nanami deja la lapicera sobre la libreta. Te mira, sin expresión. Pero sabe tan bien como tú que no hay una sola respuesta corta para eso.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 992 · JUJUTSU · 29/04/2019 · 10:06     ║
+║ Kioto · sede de los altos mandos             ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Orden anulada; grado especial. La  ║
+║ junta pide que declares tu técnica.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:06, sede de Kioto. La junta aceptó: orden de retención anulada; Facundo registrado como grado especial, libre de ir y venir, sin misiones obligatorias (le pedirán ayuda ante amenazas de grado especial; él decide). Le piden declarar su técnica innata por escrito (tablilla y pincel a sus pies). Facundo puede responder.

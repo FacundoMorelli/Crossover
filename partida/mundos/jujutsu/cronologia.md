@@ -84,3 +84,4 @@
 - 26-28/04 · (T990) Entrenamientos; Maki, Panda, Inumaki; Yuta vuelve de Kioto (sábado 27).
 - 28/04 21:40 · (T990) Citación de la nueva junta de altos mandos (formada tras Shinjuku): 29/04 10:00, sede de Kioto, por la orden de retención.
 - 29/04/2019 10:00 · (T991) Audiencia en Kioto: la nueva junta ofrece anular la orden de retención si Facundo se registra como grado especial bajo su autoridad.
+- 29/04/2019 10:06 · (T992) La nueva junta anula la orden de retención y registra a Facundo como hechicero de grado especial (libre, sin misiones obligatorias).

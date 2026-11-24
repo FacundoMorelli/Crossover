@@ -17,3 +17,4 @@ DON DE MUNDO: Técnica Maldita: Manecilla Inversa (ver sistema.json).
 - Pasaron 73 días. Muertos (canon): Gojo, Yaga, Yuki, Choso, Kashimo, Kenjaku, Sukuna, Uraume, Mai, Naoya, Naobito, Tsumiki/Yorozu. Vivos: Yuji, Megumi (recuperándose), Nobara (con sus dos ojos), Yuta, Maki, Inumaki, Panda, Todo, Shoko, Ijichi, Higuruma, Hakari, etc. CAMBIO: Nanami vivo (sin brazo izquierdo).
 - Facundo no sabe nada de esto hasta enterarse.
 - T292 · 24/01/2019 · Facundo se traga con el Eclipse el último dedo de Sukuna. No queda ninguno en el mundo. (En el canon, el epílogo deja el dedo en el almacén.)
+- T992 · Facundo, hechicero de grado especial registrado; orden de retención anulada.

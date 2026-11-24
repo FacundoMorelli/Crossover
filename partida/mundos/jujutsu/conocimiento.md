@@ -105,3 +105,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Saori · T989 · Por Facundo: la buscó entre catorce millones de personas (lo toma como broma; no pregunta). Por Nobara: son sus amigos.
 - Nueva junta de altos mandos · T990 · Sabe que Facundo volvió (fuente probable: reportes de la escuela / avistamientos). Lo cita en Kioto.
 - Saori · T990 · Nobara estudia en "una escuela técnica muy estricta, con uniforme negro".
+- Junta, Utahime, Nanami · T992 · Facundo acepta registrarse como grado especial con libertad de ir y venir.

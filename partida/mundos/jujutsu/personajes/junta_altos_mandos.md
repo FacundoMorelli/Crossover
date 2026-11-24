@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: registro de Yaga; orden de retención; presencia en Shibuya y el Juego (informes); desaparición del último dedo de Sukuna en Sendai (informe de la misión); tres meses ausente; volvió.
 QUÉ PODERES DE FACUNDO VIO: ninguno en persona.
 ESTADO: activa
+- T992 · Acepta la condición de Facundo: libre de ir y venir, sin misiones obligatorias; pedirán (no ordenarán) ayuda ante amenazas de grado especial. Orden de retención anulada. Registrado como grado especial (segundo en actividad, con Yuta). Pide declarar su técnica innata (tablilla y pincel).
