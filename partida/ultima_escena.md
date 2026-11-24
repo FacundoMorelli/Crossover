@@ -3,106 +3,10 @@
 
 ---
 
-## COMANDO 1 (T811)
-hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
-
-## RESPUESTA 1 (T811)
-
-> hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
-
-> —Hagamos un trato: déjame recibir el daño que recibieron todos, de sus cuerpos. Si lo aguanto, te vas sin la cabeza de nadie.
-
-Kuma se queda mirándote un largo rato. La burbuja late en su palma.
-
-Después cierra la mano despacio y la burbuja se deshace. El aire comprimido se suelta en un suspiro largo que vuelve a llenar la isla y les mueve el pelo a todos los que están dormidos en el pasto.
-
-—Acepto.
-
-Se acerca a Luffy en dos pasos que hacen temblar el piso. Se agacha y le apoya la almohadilla de la mano en el pecho.
-
-Algo sale del cuerpo de Luffy. Es una burbuja roja, enorme, del tamaño de una casa, que tiembla y gotea, oscura y espesa como sangre coagulada. Luffy, dormido, suelta el aire y la cara se le relaja de golpe, sin las arrugas de dolor.
-
-—Este es todo el dolor y todo el cansancio que su cuerpo cargó esta noche. —Kuma lo dice plano, mirando la burbuja—. Contra Moria. Contra el gigante. Contra las cien sombras.
-
-Va uno por uno. Zoro, Sanji, Nami, Usopp, Chopper, Franky, Brook, Robin. De cada uno saca una burbuja roja, más chica, y cada uno respira mejor al instante, como si se le hubiera ido una fiebre. Kuma las junta con la palma, empujándolas contra la de Luffy, y se funden en una sola, más grande todavía, que tapa el sol de la mañana.
-
-Lo mira. Te mira.
-
-—Si un solo hombre recibe todo esto... —Se queda callado un segundo—. Puede morir.
-
-Empuja la burbuja hacia ti.
-
-Te entra en el cuerpo.
-
-El dolor llega todo de golpe. Son los puños de Moria, las cien sombras que desgarran por dentro, los cortes de Ryuma, las patadas, las quemaduras, el veneno, los huesos rotos y los que se rompieron dos veces, el frío de no tener sombra. El cansancio de nueve personas cae entero sobre un solo cuerpo.
-
-La sangre te sale por la boca y por la nariz. Se te abren cortes en los brazos, en el pecho y en la espalda, que no tenías un segundo antes. La ropa se te empapa de rojo. Las piernas se te doblan y una rodilla baja hasta un palmo del piso.
-
-No llega a tocarlo.
-
-Te quedas así, doblado, con los puños cerrados, chorreando sangre sobre el pasto. Y después, despacio, te enderezas.
-
-Quedas de pie.
-
-En el pasto, al lado de Robin, Kase se levanta y se te queda mirando fijo, con las orejas hacia atrás. No se mueve.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER — COMPLETADO               ║
-║ Nikyu Nikyu no Mi                            ║
-║ USUARIO ORIGINAL: Bartholomew Kuma ·         ║
-║ One Piece                                    ║
-║                                              ║
-║ MISIÓN: Recibir en tu cuerpo todo el dolor   ║
-║ de tu tripulación y seguir de pie.           ║
-║                                              ║
-║ Repeler todo (también dolor y cansancio) ·   ║
-║ Ursus Shock · mandar a alguien a cualquier   ║
-║ lugar del mundo · viajar a velocidad de la   ║
-║ luz · todo lo que Kuma llega a hacer         ║
-║ DOMINIO: total                               ║
-╚══════════════════════════════════════════════╝
-```
-
-[+800 EXP]
-
-[Has subido de nivel. NIVEL 27. +1 a todos los stats. +5 puntos de stat.]
-
-Al borde de la explanada, Lola se tapa la boca con las dos manos. Los Piratas Rolling dan un paso atrás.
-
-Kuma te mira de arriba abajo, el charco rojo a tus pies, el sobretodo empapado. Tienes los ojos abiertos y estás de pie.
-
-Durante un momento largo, el gigante no dice nada.
-
-—Trato cumplido.
-
-Se pone el guante. Abre la Biblia. Se da vuelta para irse y se detiene a medio camino, de espaldas.
-
-—Si alguna vez tienes que viajar... —Lo dice sin mirarte—. Piensa adónde te gustaría ir.
-
-Se oye un «pop» seco de aire comprimido y Kuma ya no está.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 811 · ONE PIECE · DÍA 44 · 06:52       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 64% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a Robin, mirándote fijo          ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
-║ One Piece antes del Día 49.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T812)
+## COMANDO 1 (T812)
 me como una semilla, y me siento con kase
 
-## RESPUESTA 2 (T812)
+## RESPUESTA 1 (T812)
 
 > me como una semilla, y me siento con kase
 
@@ -141,10 +45,10 @@ Al borde de la explanada, Lola y los Piratas Rolling siguen mirándote. Ninguno 
 
 ---
 
-## COMANDO 3 (T813)
+## COMANDO 2 (T813)
 espero a que despierten los demás
 
-## RESPUESTA 3 (T813)
+## RESPUESTA 2 (T813)
 
 > espero a que despierten los demás
 
@@ -201,4 +105,64 @@ Al borde de la explanada, junto a la fogata, Lola se pone de pie de golpe con un
 
 ---
 
-ESTADO AL CIERRE: Día 44 07:40. La tripulación despertó curada, sin saber por qué. Robin vio la sangre de Facundo y le pregunta "¿Qué hiciste?". Zoro pregunta dónde está el oso. Lola, que vio todo, abre la boca para contar.
+## COMANDO 3 (T814)
+se fue, dijo que no queria nada
+
+## RESPUESTA 3 (T814)
+
+> se fue, dijo que no queria nada
+
+> —Se fue. Dijo que no quería nada.
+
+Junto a la fogata, Lola se queda con la boca abierta y la cuchara en el aire.
+
+Te mira, y lo ve en tu cara.
+
+Cierra la boca despacio. Se da vuelta hacia la olla y se pone a revolver con mucha concentración, sin mirar a nadie. Uno de los Rolling le dice algo al oído. Lola le pega con la cuchara en la cabeza sin darse vuelta.
+
+—¿Se fue? —Luffy se rasca la cabeza—. ¡Qué tipo raro! —Se olvida en el acto—. ¡Sanji! ¡Carne!
+
+—Ya voy, ya voy, maldito estómago de goma.
+
+Zoro no se mueve. Mira el charco de sangre seca en el pasto. Mira tu sobretodo. Te mira a los ojos un segundo largo, con la mano apoyada en la Shusui.
+
+—Si tú lo dices.
+
+Se da vuelta y se va a sentar contra la piedra. No pregunta más.
+
+Robin no se mueve de tu lado.
+
+Estira la mano y te toca la manga del sobretodo. Está dura, tiesa de sangre seca, y cruje entre sus dedos. Pasa la mano hasta el pecho, donde la tela está empapada, y la deja ahí, apoyada, sintiéndote respirar.
+
+Te mira a los ojos.
+
+No te cree. Se le nota en toda la cara. Mira a la tripulación entera, sana, descansada, riéndose alrededor de la fogata como si anoche no hubiera pasado nada. Te mira a ti, cubierto de sangre. Hace la cuenta. Es arqueóloga: une piezas.
+
+Abre la boca. La cierra.
+
+Aprieta la mandíbula, con los ojos brillosos. No dice nada.
+
+Te toma la mano y entrelaza los dedos con los tuyos, fuerte, casi con rabia. Y no la suelta.
+
+Kase, en tus piernas, estira una pata y la apoya sobre la mano de Robin.
+
+—¡Desayuno! —grita Sanji, junto a la olla de Lola—. ¡Las damas primero!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 814 · ONE PIECE · DÍA 44 · 07:41       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en tus piernas                         ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
+║ One Piece antes del Día 49.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 07:41. Facundo dijo que Kuma se fue sin querer nada. Lola calló. Zoro: "Si tú lo dices." Robin no le cree, le toma la mano fuerte y no la suelta. Sanji llama a desayunar.

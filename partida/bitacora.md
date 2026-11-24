@@ -812,3 +812,4 @@ T810 · One Piece · Thriller Bark · "Aguanta, Kuma." Deja inconscientes con su
 T811 · One Piece · Thriller Bark · Trato con Kuma: recibe el dolor de todos y sigue de pie. COPIA Nikyu Nikyu. NIVEL 27. Kuma se va.
 T812 · One Piece · Thriller Bark · Come una semilla del ermitaño. Se sienta con Kase.
 T813 · One Piece · Thriller Bark · Despiertan todos curados. Robin ve la sangre: "¿Qué hiciste?"
+T814 · One Piece · Thriller Bark · "Se fue. Dijo que no quería nada." Lola calla. Zoro no pregunta. Robin no le cree.

@@ -78,3 +78,4 @@ ESTADO: activa
 - T801 · Mira el Sunny con Facundo: "Ahora tengo un barco con césped." Franky le hizo una biblioteca.
 - T808 · Noche de Thriller Bark; Facundo la protege; con Chopper vence a Hogback.
 - T810 · Facundo la deja inconsciente con un toque suave en la nuca y la recibe en brazos (frente a Kuma).
+- T814 · No le cree a Facundo que Kuma se fue sin más; le toma la mano y no la suelta. Sospecha que la sangre tiene que ver con que todos amanecieran sanos.
