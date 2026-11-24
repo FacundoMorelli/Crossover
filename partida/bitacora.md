@@ -876,3 +876,4 @@ T874 · One Piece · Sabaody · Haki de armadura azul y blanco (R11). Rayleigh f
 T875 · One Piece · Sabaody · "Te dije que viajo mucho." Rayleigh no pregunta más. Invitación a cenar en el bar.
 T876 · One Piece · Sabaody · "Lo voy a salvar." Rayleigh: advertencia sobre Akainu; "tráelo aquí".
 T877 · One Piece · Sabaody · Cena en el bar de Shakky, noche. Día 57: el diario anuncia la fuga de Impel Down.
+T878 · One Piece · Sabaody · Uniforme de marine (tienda, 1 F). Nueva habilidad: Pelo a voluntad. Pelo negro.

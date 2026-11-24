@@ -86,6 +86,10 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 - Texto del jugador: "recubro mi brazo con haki (color azul fuerte y blanco)".
 - El Haki de armadura de Facundo es azul intenso con vetas blancas, no negro. Por coherencia, también los rayos de su Haki del Rey con recubrimiento.
 
+## R12. PELO A VOLUNTAD (T878 · Día 57 One Piece · pedido por el jugador)
+- Texto del jugador: "dame una habilidad para poder cambiar mi pelo a voluntad".
+- El Sistema le da la habilidad "Pelo a voluntad": Facundo cambia el color (y el largo) de su pelo cuando quiere, al instante, en cualquier mundo, y lo vuelve a su blanco y azul cuando quiere. No cambia los ojos, ni la cicatriz, ni los tatuajes.
+
 ---
 
 ## NOTAS DE FORMATO (correcciones del jugador en esta partida)

@@ -221,3 +221,4 @@
 - Rayleigh, Shakky, Hachi · T874 · Ven el Haki de armadura de Facundo: azul intenso y blanco, no negro.
 - Rayleigh, Shakky, Hachi · T876 · Por Facundo: mañana va a salvar a Ace en Marineford, al lado de su capitán.
 - Facundo · T876 · Por Rayleigh: en Marineford estará Akainu (almirante de magma), el más peligroso; odia a los que llevan la D.
+- Rayleigh, Shakky, Hachi · T878 · Ven a Facundo bajar vestido de marine raso con el pelo negro y corto (cambió el color a voluntad).

@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T875)
-te dije que viajo mucho no?
-
-## RESPUESTA 1 (T875)
-
-> te dije que viajo mucho no?
-
-> —Te dije que viajo mucho, ¿no?
-
-Rayleigh se queda mirándote un segundo. Después se le escapa una risa por la nariz, larga, y sacude la cabeza.
-
-—Mucho. —Se acomoda los lentes—. Y muy lejos, por lo que veo.
-
-No pregunta nada más. Va hasta la rama donde colgó la capa, se la pone despacio sobre los hombros y se la acomoda, como quien termina una conversación que no hace falta seguir.
-
-—Y lo del chico no me lo contestaste. —Se ajusta el cuello de la capa, sin mirarte—. Está bien. Mañana lo leeré en los diarios.
-
-Shakky enciende otro cigarrillo. El humo sube despacio entre las gotas de las burbujas rotas que todavía caen.
-
-—Bueno, ya que rompieron medio grove —dice, tranquila—, por lo menos cenen. En el bar. Invito yo. —Te mira de reojo—. A ti no. A ti te cobro.
-
-Hachi se levanta del piso de un salto, con los seis brazos en alto, ya recuperado del desmayo.
-
-—¡Nyu! ¡Yo hago takoyaki! ¡El mejor del archipiélago! ¡Para el del gato, gratis!
-
-Kase, en tu hombro, levanta las orejas al oír la palabra «takoyaki».
-
-Rayleigh se da vuelta y empieza a caminar hacia el bar entre las raíces. Se detiene un momento, de espaldas.
-
-—Y si mañana te vas a meter en esa guerra, muchacho... —Lo dice sin darse vuelta—. Esta noche se come y se duerme. Lo demás es de idiotas.
-
-Sigue caminando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 875 · ONE PIECE · DÍA 56 · 16:51       ║
-║ Sabaody · Grove 1, claro abandonado          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, orejas paradas           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Marineford mañana (15:00).         ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T876)
+## COMANDO 1 (T876)
 ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
 
-## RESPUESTA 2 (T876)
+## RESPUESTA 1 (T876)
 
 > ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
 
@@ -101,10 +51,10 @@ Sigue caminando entre las raíces, con Shakky al lado, fumando. Hachi corre detr
 
 ---
 
-## COMANDO 3 (T877)
+## COMANDO 2 (T877)
 voy a descansar hasta mañana
 
-## RESPUESTA 3 (T877)
+## RESPUESTA 2 (T877)
 
 > voy a descansar hasta mañana
 
@@ -157,4 +107,77 @@ Rayleigh deja la taza en el platito.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:00, bar de Shakky. Cena y noche en el bar (Facundo pagó 50.000 berries). Diario: fuga de Impel Down (Luffy, Crocodile, Jinbe, Ivankov); ejecución de Ace hoy a las 15:00 en Marineford. Shakky: pantallas de transmisión en el Grove 13 a mediodía. Rayleigh: "Supongo que tú no vas en barco."
+## COMANDO 3 (T878)
+voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme(dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
+
+## RESPUESTA 3 (T878)
+
+> voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme (dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
+
+> —Voy a ir de otra manera.
+
+Rayleigh levanta una ceja por encima de la taza.
+
+Abres la tienda del Sistema con un pensamiento. Entre las cosas comunes, a precio fijo, está lo que buscas.
+
+[Uniforme de marine raso — 1 Fragmento.]
+
+> —Ya vengo.
+
+Subes la escalera de madera hasta el cuarto chico de arriba. Kase te sigue escalón por escalón.
+
+El uniforme aparece doblado sobre la cama: camisa blanca de cuello azul con el pañuelo, pantalón azul, botas negras y la gorra blanca con la gaviota bordada. Te lo pones.
+
+Delante del espejo chico de la pared, una ventana del Sistema se abre, fría:
+
+```
+╔══════════════════════════════════════════════╗
+║ HABILIDAD DEL SISTEMA                        ║
+║ Pelo a voluntad                              ║
+║                                              ║
+║ Cambias el color y el largo de tu pelo       ║
+║ cuando quieras, al instante, en cualquier    ║
+║ mundo. Vuelves a tu pelo cuando quieras.     ║
+║ No cambia los ojos, la cicatriz ni los       ║
+║ tatuajes.                                    ║
+╚══════════════════════════════════════════════╝
+```
+
+Lo piensas, y pasa.
+
+El blanco y el azul se apagan desde la raíz hacia las puntas, como una vela que se consume al revés. El pelo se te vuelve negro, liso, y se acorta hasta quedar como el de cualquier recluta, por encima de las orejas. Te pones la gorra.
+
+El del espejo es un marine raso cualquiera. Menos por los ojos, uno rojo y otro azul, y por la cicatriz que te cruza el izquierdo.
+
+Kase te mira desde la cama con las pupilas finas y una expresión de profundo desagrado. Gruñe bajito.
+
+Bajas.
+
+Shakky deja de secar un vaso. Te mira de arriba abajo, despacio: la gorra, la camisa, las botas, el pelo negro corto. Suelta el humo por la nariz.
+
+—Casi. —Señala con el cigarrillo—. Pero los ojos de dos colores se ven igual. Y la cicatriz también. —Mira hacia abajo, a tus pies, donde Kase se sentó y te mira con desprecio—. Y el gato te delata, querido. Está en tu cartel.
+
+Rayleigh se ríe con la taza en la boca y se le va el café por la nariz.
+
+Hachi se despierta de golpe sobre la mesa, ve el uniforme blanco y salta hacia atrás con los seis brazos en alto, derribando la plancha de takoyaki.
+
+—¡Nyu! ¡Un marine! ¡Nos encontraron!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 878 · ONE PIECE · DÍA 57 · 09:10       ║
+║ Sabaody · bar de Shakky                      ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.507 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: a tus pies, ofendido                   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
+║ lado de Luffy. Shingeki: antes del D59.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:10, bar de Shakky. Facundo compró un uniforme de marine raso (1 F), recibió la habilidad "Pelo a voluntad" (R12) y bajó con el pelo negro corto y la gorra. Shakky: "Casi. Los ojos de dos colores y la cicatriz se ven igual. Y el gato te delata, querido." Rayleigh se rió. Hachi lo confundió con un marine. Kase a sus pies, ofendido. Ejecución de Ace hoy a las 15:00.

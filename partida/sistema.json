@@ -1,13 +1,13 @@
 {
-  "turno": 877,
+  "turno": 878,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Archipiélago Sabaody)",
-  "hora": "09:00",
+  "hora": "09:10",
   "edad": 18,
   "nivel": 27,
   "exp": 219840,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 134508,
+  "fragmentos": 134507,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -420,6 +420,11 @@
       "objeto": "Paquete de comida de Sanji (para el viaje y para Kase)",
       "detalle": "T822, al despedirse en Thriller Bark.",
       "mundo": "onepiece"
+    },
+    {
+      "objeto": "Uniforme de marine raso (One Piece)",
+      "detalle": "Comprado en la tienda T878 (1 Fragmento): camisa blanca de cuello azul, pantalón azul, gorra con la gaviota, botas.",
+      "mundo": "tienda"
     }
   ],
   "copias": [
@@ -1110,7 +1115,8 @@
     "Préstamo",
     "Viaje libre",
     "Fusión en caliente",
-    "Doble Núcleo"
+    "Doble Núcleo",
+    "Pelo a voluntad (cambia el color y el largo de su pelo cuando quiere; T878)"
   ],
   "estilos_desbloqueados": [
     {
@@ -1672,7 +1678,8 @@
       "Piedra de hielo en bruto (Shingeki, del tamaño de un puño)": "5 Fragmentos (fijado T525)",
       "Documentos de ciudadano marleyano (Shingeki)": "10 Fragmentos (fijado T548)",
       "Comida para un animal gigante (una comida)": "20 Fragmentos (fijado T669)",
-      "Madera de barco, clavos, brea y planchas de hierro (para una reparación grande)": "15 Fragmentos (fijado T715)"
+      "Madera de barco, clavos, brea y planchas de hierro (para una reparación grande)": "15 Fragmentos (fijado T715)",
+      "Uniforme de marine raso (One Piece)": 1
     },
     "stock_rotativo": {
       "Piedra de maná pequeña (recarga energía 10%)": 3,
