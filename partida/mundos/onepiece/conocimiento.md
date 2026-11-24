@@ -248,3 +248,4 @@
 - Luffy, Ace, Barbablanca · T909 · Por Facundo: los ocho están bien, cada uno en una isla; plan de dos años y reunión en Sabaody.
 - Ace, Marco, Barbablanca y su tripulación · T911 · Por Facundo: la cúpula se queda sobre la flota aunque él se vaya, hasta que se le acabe la energía.
 - Zoro, Perona (y los Humandrills) · T912 · Ven a Facundo y Luffy aparecer de la nada en Kuraigana.
+- Zoro, Perona, Luffy · T915 · Ven que la semilla que Facundo le tiró a Zoro lo cura al instante.

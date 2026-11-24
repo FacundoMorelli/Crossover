@@ -8,3 +8,4 @@ ESTADO: activo
 - T912 · Día 57 13:37 · Kuraigana. Cuida a Zoro. Ve aparecer a Facundo y Luffy: "¡¿Tú?! ¡El del gato! ¡El de la isla!"
 - T913 · A Facundo: "¡El del gato! ¡Haz algo, que este idiota no escucha a nadie!"
 - T914 · "¡¡Lo van a matar!!"
+- T915 · Ve a Zoro curarse de golpe: "¿Qué le diste?"

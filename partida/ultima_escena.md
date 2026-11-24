@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T912)
-eh vamos con zoro
-
-## RESPUESTA 1 (T912)
-
-> eh vamos con zoro
-
-> —Eh... Vamos con Zoro.
-
-Le pones la mano en el hombro a Luffy. Dos dedos en la frente. Buscas la presencia filosa y pesada del oeste, la que se siente como una espada clavada en el piso, y te agarras de ella.
-
-La cubierta del Moby Dick desaparece.
-
-Lo primero que llega es el olor: tierra mojada, madera podrida, pólvora vieja. Después, el frío. Después, el silencio.
-
-Están en un bosque muerto. Los árboles son grises, retorcidos, sin una sola hoja, y entre los troncos flota una niebla baja que no deja ver el suelo. Arriba, el cielo es de un gris pesado, del color de la ceniza, y el sol no se ve por ningún lado. Más allá de los árboles, sobre una colina, se recortan las ruinas negras de un castillo enorme, con las torres rotas.
-
-Y está lleno de ruido.
-
-Gritos. Golpes de acero contra acero. Algo grande que cae y rompe ramas.
-
-A treinta metros, en un claro entre los troncos, Zoro pelea contra una docena de monos.
-
-No son monos comunes. Son babuinos enormes, más altos que un hombre, con cicatrices en la cara y armaduras viejas de soldado puestas encima del pelo gris. Tienen espadas, lanzas, hachas. Y las usan bien: rodean a Zoro, lo atacan de a tres, fintan, cubren los huecos.
-
-Zoro está lleno de vendas. Le cruzan el pecho, los brazos, la frente. Algunas están manchadas de rojo y se le están soltando con cada movimiento. Tiene las tres espadas afuera, Wado en la boca, y respira con los dientes apretados alrededor de la empuñadura. Para un hachazo con Shusui. Esquiva una lanza. Le parte la espada a uno de un golpe, pero otro le entra por la espalda y lo obliga a girar.
-
-Sobre él, flotando entre las ramas, con el paraguas abierto y un muñeco abrazado contra el pecho, Perona se cubre la cara con una mano.
-
-—¡¿Otra vez?! ¡Te dije que no estabas curado, idiota! ¡Te vas a morir y voy a tener que enterrarte yo sola!
-
-Zoro no le contesta. Escupe sangre a un costado, vuelve a morder a Wado y se lanza contra los tres monos más grandes.
-
-Luffy, a tu lado, abre la boca para gritar.
-
-Antes de que pueda, Perona gira la cabeza hacia ustedes. Los ve. Se le cae el muñeco de las manos. Se le ponen los ojos enormes, primero en el sombrero de paja y después en ti, en el pelo blanco y azul, en el gato.
-
-—¡¡¿TÚ?!! —Se tapa la boca con las dos manos—. ¡El del gato! ¡El de la isla!
-
-Zoro se frena en seco en el medio del claro. Con los monos todavía alrededor, gira la cabeza.
-
-Se le cae Wado de la boca.
-
-—¿...Luffy?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 912 · ONE PIECE · DÍA 57 · 13:37       ║
-║ Kuraigana · bosque muerto, cerca del castillo║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T913)
+## COMANDO 1 (T913)
 te esta costando unos monos zoro?
 
-## RESPUESTA 2 (T913)
+## RESPUESTA 1 (T913)
 
 > te esta costando unos monos zoro?
 
@@ -119,10 +57,10 @@ Arriba, entre las ramas, Perona se abraza las rodillas en el aire.
 
 ---
 
-## COMANDO 3 (T914)
+## COMANDO 2 (T914)
 esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
 
-## RESPUESTA 3 (T914)
+## RESPUESTA 2 (T914)
 
 > esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
 
@@ -181,4 +119,70 @@ Arriba, Perona chilla, con las dos manos en la cara.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:41, Kuraigana. Zoro, herido, cayó sobre una rodilla rodeado por 14 Humandrills; el jefe canoso levanta los dos sables sobre él. Zoro pide que no se metan. Luffy se para. Perona grita. Facundo puede actuar.
+## COMANDO 3 (T915)
+le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
+
+## RESPUESTA 3 (T915)
+
+> le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
+
+Sacas una semilla del ermitaño y se la tiras por encima de los babuinos, en el mismo segundo en que el canoso empieza a bajar los sables.
+
+Zoro la atrapa con la mano libre, sin mirar. Se la mete en la boca de un golpe, por el costado de Wado, y mastica.
+
+> —Tienes que seguir. Si no puedes contra estos monos, ¿cómo vas a poder con Mihawk?
+
+Los dos sables caen.
+
+Y se frenan.
+
+Zoro los para con Shusui y Kitetsu cruzadas por encima de la cabeza, todavía con la rodilla en el barro, pero ya sin temblar. La herida del costado se le cierra debajo de la venda rota. La sangre de la frente deja de correr. Los hombros se le llenan de golpe, como si alguien le hubiera devuelto diez días de comida y de sueño en un solo bocado.
+
+Se para.
+
+Despacio, empujando los dos sables del canoso hacia arriba, centímetro a centímetro, hasta que el babuino tiene que dar un paso atrás para no perder el equilibrio.
+
+—Mihawk... —dice Zoro entre los dientes, alrededor de la empuñadura de Wado. Le brilla el ojo bajo el pañuelo—. Tienes razón.
+
+El canoso salta hacia atrás y los catorce se le tiran encima a la vez.
+
+Esta vez no le alcanza a ninguno.
+
+Zoro gira sobre un pie y las tres espadas dibujan un círculo completo a su alrededor. Los cuatro babuinos de adelante salen volando con las armaduras partidas. Da un paso. Otros tres. Otro paso. Dos más contra los árboles. Ya no se defiende: avanza. Los monos copian sus movimientos, pero él se mueve más rápido de lo que ellos alcanzan a copiar, y cada vez que uno repite una guardia, Zoro ya cambió a otra.
+
+Luffy se vuelve a sentar en la raíz, con una sonrisa de oreja a oreja.
+
+—¡¡Shishishi!! ¡¡Ese es Zoro!!
+
+Perona se queda flotando con la boca abierta, el paraguas colgando de una mano.
+
+—¿Qué... qué le diste? ¡¿Qué le diste?!
+
+En menos de un minuto, el claro queda en silencio.
+
+Trece babuinos tirados en el barro, gimiendo, con las armas rotas. Algunos se arrastran hacia la niebla. Ninguno se levanta.
+
+Solo queda uno de pie. El canoso.
+
+Está a diez metros de Zoro, con los dos sables cruzados delante de la cara, respirando por la nariz. Ya no lo mira como a una presa: lo estudia. Zoro tampoco se mueve. Tiene las tres espadas en guardia, el pecho subiendo y bajando, la venda suelta colgándole de la cintura.
+
+—Este es el último —dice, sin sacarle el ojo de encima.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 915 · ONE PIECE · DÍA 57 · 13:43       ║
+║ Kuraigana · claro del bosque muerto          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:43, Kuraigana. Zoro, curado con una semilla, volteó a todos los Humandrills menos al jefe canoso; están frente a frente a 10 m. Zoro: "Este es el último." Luffy mira desde una raíz, Perona flota. Facundo puede actuar.
