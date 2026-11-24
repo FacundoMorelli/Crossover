@@ -14,3 +14,4 @@ ESTADO: activo
 - T726 · "Ese idiota sigue cuidándome." "Lo que guardo no lo van a tener nunca." "¿Quiénes son esos del CP9?"
 - T727 · Furioso al saber quiénes son. "¡Voy ahora mismo a romperles la cara!"
 - T729 · Se calma. "Iceburg siempre fue el listo." "¿Qué hacemos?"
+- T730 · "¡Cuenten conmigo!" (Enies Lobby: donde condenaron a Tom.) Luffy lo quiere de carpintero.

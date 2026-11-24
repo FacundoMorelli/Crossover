@@ -156,3 +156,5 @@
 - Franky, familia Franky, tripulación · T724 · Franky le pegó con el Strong Right y le escupió fuego a Facundo: nada. Mozu admite que se pegaron entre ellos.
 - Franky · T726 · Por Facundo (fuente: Iceburg): el CP9 busca los planos; fueron a Iceburg; ahora irán por él.
 - Franky · T727 · Por Facundo: el CP9 son Lucci, Kaku, Kalifa y Blueno.
+- Franky · T730 · Los Sombrero de Paja van a Enies Lobby a rescatar a Robin. Lo invitan.
+- Facundo, tripulación · T730 · Por Franky: el Gobierno condenó a su maestro Tom en Enies Lobby.
