@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T887)
-perdon perdon no me presente todavia, me saco la ropa y me pongo mi ropa de siempre, me cambio el pelo y me saco los lentes de contacto, kase ya puedes subir al hombro
-
-## RESPUESTA 1 (T887)
-
-> perdon perdon no me presente todavia, me saco la ropa y me pongo mi ropa de siempre, me cambio el pelo y me saco los lentes de contacto, kase ya puedes subir al hombro
-
-> —Perdón, perdón. No me presenté todavía.
-
-Abres los dedos. La espada de Squard cae sobre la cubierta con un ruido metálico y queda ahí, olvidada.
-
-El uniforme de marine desaparece. No te lo sacas: se va, de golpe, al inventario. En su lugar aparece tu ropa de siempre: los borceguíes negros, el pantalón cargo y el sobretodo largo, que se abre con el viento de la guerra.
-
-El pelo negro corto se te alarga en un segundo y se aclara desde la raíz. Vuelve el blanco. Vuelve el azul oscuro, largo, desordenado, cayéndote sobre los hombros.
-
-Te llevas los dedos a los ojos y te sacas los lentes marrones. Debajo vuelven a brillar el rojo carmesí y el azul hielo.
-
-> —Kase, ya puedes subir al hombro.
-
-Por el cuello del sobretodo asoma una cabeza enorme, blanca y azul, despeinada y furiosa. Kase sale entero, se sacude en la cubierta como un perro mojado, te mira con un desprecio que debe haber guardado durante cuatro horas y salta a tu hombro. Se acomoda y te enrosca la cola en el cuello.
-
-Marco, en la baranda, baja los brazos despacio. Las llamas azules se le achican.
-
-—Ojos de Eclipse. —Te mira de arriba abajo—. El de los cuatrocientos millones. El del Sombrero de Paja.
-
-Squard levanta la cara del pecho de Barbablanca, con los ojos rojos, sin entender nada.
-
-Barbablanca te mira largo. Después echa la cabeza hacia atrás y suelta una carcajada que se oye en toda la bahía congelada.
-
-—¡Gurararara! ¿El compañero del mocoso de goma? —Se pone de pie, con Squard todavía colgado del brazo—. ¡Vinieron los dos a buscar a mi hijo! ¡Qué tripulación más loca!
-
-En la plaza, del otro lado del hielo, alguien te vio.
-
-Un oficial con un catalejo, en lo alto del muro de cañones, grita por un Den Den Mushi y la voz sale amplificada por toda Marineford:
-
-—¡¡OJOS DE ECLIPSE!! ¡¡OJOS DE ECLIPSE ESTÁ EN EL MOBY DICK!! ¡¡CUATROCIENTOS MILLONES!!
-
-Miles de cabezas se dan vuelta hacia el barco.
-
-En las tres sillas frente al cadalso, Akainu se pone de pie. Despacio. Del puño derecho le empieza a salir humo.
-
-Arriba del cadalso, Ace levanta la cabeza y mira hacia el Moby Dick, con los ojos muy abiertos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 887 · ONE PIECE · DÍA 57 · 13:00       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, furioso                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Identificado. Shingeki: antes del D59.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T888)
+## COMANDO 1 (T888)
 toma viejo, comete esto, saco una semilla y se la paso
 
-## RESPUESTA 2 (T888)
+## RESPUESTA 1 (T888)
 
 > toma viejo, comete esto, saco una semilla y se la paso
 
@@ -129,10 +69,10 @@ Allá lejos, en la plaza, Akainu empieza a caminar.
 
 ---
 
-## COMANDO 3 (T889)
+## COMANDO 2 (T889)
 voy con luffy, hola capitan, perdon por llegar tarde
 
-## RESPUESTA 3 (T889)
+## RESPUESTA 2 (T889)
 
 > voy con luffy, hola capitan, perdon por llegar tarde
 
@@ -189,4 +129,72 @@ Y más atrás, del muro de la plaza hacia la bahía, bajando los escalones despa
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:03, bahía congelada de Marineford. Facundo llegó junto a Luffy ("¡Viniste!"); Luffy, lastimado, contó que Kuma mandó lejos a todos. Jinbe, Ivankov, Mr. 3, Buggy alrededor; Crocodile lo reconoció ("El del agua"). Luffy señala el cadalso: "¡Vamos por Ace!" Delante: pared de marines y tres Pacifistas cargando láser. Akainu baja del muro hacia ellos con el puño humeando.
+## COMANDO 3 (T890)
+le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
+
+## RESPUESTA 3 (T890)
+
+> le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
+
+Sacas una semilla del ermitaño y se la pones a Luffy en la boca, sin preguntar.
+
+Luffy la mastica por reflejo. Se le abren los ojos de golpe.
+
+Los moretones se le borran de la piel como manchas de agua. Las quemaduras se cierran. El temblor de las piernas se le va. La respiración se le acomoda, larga y llena. Las ojeras desaparecen y los ojos se le vuelven a encender.
+
+—¡¡AAAH!! —Salta en el lugar, se golpea el pecho con los dos puños—. ¡¡Como nuevo!! ¡¡Estoy como nuevo!! ¡Shishishi!
+
+Ivankov se queda con la boca abierta, con las pestañas postizas temblando.
+
+—¿Candy-boy...? ¡¿Qué milagro hormonal es ese?!
+
+> —Perdón, me olvidé de algo.
+
+Apoyas la mano en el pecho de Luffy, encima del corazón. La energía maldita te baja por el brazo, fría, precisa. Bajo tu palma, en la piel de Luffy, se dibuja un número romano que solo tú puedes ver, fino como una cicatriz de luz pálida: I.
+
+Luffy se mira el pecho. No ve nada.
+
+—¿Eh? ¿Qué me hiciste?
+
+Desapareces.
+
+Reapareces en la cubierta del Moby Dick, delante de Barbablanca, que te mira bajar sin entender. Le apoyas la palma en el costado, sobre el abrigo blanco. El número se le dibuja en la piel, debajo de la tela: II.
+
+Y vuelves al hielo, al lado de Luffy, antes de que Marco alcance a dar un paso.
+
+> —No se preocupen. No es nada malo. Es nada más para asegurarme, por si les pasa algo.
+
+En el Moby Dick, Barbablanca se abre el abrigo, se mira el costado y no ve nada. Se ríe, una carcajada corta que cruza la bahía.
+
+—¡Gurararara! ¡Qué mocoso más raro!
+
+Jinbe te mira con los ojos muy serios, como quien no entiende nada pero decide confiar. Crocodile resopla.
+
+No hay tiempo para más.
+
+Los tres Pacifistas, a treinta metros, abren la boca al mismo tiempo. Adentro se les junta una luz blanca, amarilla, cegadora, con un zumbido que sube de tono.
+
+Y en el borde del hielo, donde la bahía congelada toca el muro de la plaza, Akainu termina de bajar el último escalón. Apoya un pie en el hielo, y el hielo se derrite bajo su zapato con un siseo de vapor.
+
+Mira a Luffy. Te mira a ti.
+
+El brazo derecho le empieza a gotear magma.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 890 · ONE PIECE · DÍA 57 · 13:04       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Marcas: I Luffy · II Barbablanca.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:04, bahía congelada de Marineford. Luffy comió una semilla del ermitaño: entero. Marcas de Manecilla Inversa: I sobre Luffy, II sobre Barbablanca (enteros; vencen el Día 58 13:04). Los tres Pacifistas cargan láser a 30 m. Akainu pisó el hielo (se derrite bajo su pie), mira a Luffy y a Facundo, el brazo le gotea magma.

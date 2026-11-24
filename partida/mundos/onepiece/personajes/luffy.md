@@ -35,3 +35,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T808 · Vence a Moria al amanecer (Gear Second + Third). Le robaron la sombra y la recuperó.
 - T816 · Saca la vivre card de Ace: se está quemando. "Ace es fuerte. Va a estar bien."
 - T889 · Marineford · "¡¡FACUNDO!! ¡Viniste!" Cuenta que el oso mandó a todos lejos. "¡Vamos por Ace!"
+- T890 · Come una semilla del ermitaño de Facundo en Marineford: entero. Facundo le pone una Marca (I) de la Manecilla Inversa.

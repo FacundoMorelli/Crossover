@@ -1,8 +1,8 @@
 {
-  "turno": 889,
+  "turno": 890,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "13:03",
+  "hora": "13:04",
   "edad": 18,
   "nivel": 27,
   "exp": 219840,
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 99,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -113,7 +113,22 @@
           "T334 · 19/09 · cúpula de Las Noches · contra Ggio Vega y Nirgge Parduoc. Primer uso. Deshecho en T336 tras dejar inconscientes a los dos."
         ]
       },
-      "marcas_activas": [],
+      "marcas_activas": [
+        {
+          "marca": "I",
+          "sobre": "Monkey D. Luffy",
+          "mundo": "onepiece",
+          "cuando": "Día 57 13:04 (T890), después de comer una semilla del ermitaño: entero, sano, con toda la energía",
+          "vence": "Día 58 13:04"
+        },
+        {
+          "marca": "II",
+          "sobre": "Edward Newgate (Barbablanca)",
+          "mundo": "onepiece",
+          "cuando": "Día 57 13:04 (T890), entero después de la semilla del ermitaño (sin heridas; la enfermedad de fondo sigue)",
+          "vence": "Día 58 13:04"
+        }
+      ],
       "notas": [
         "T246: maestría 100. 10 Marcas simultáneas. Expansión de Dominio Cuadrante del Retorno desbloqueada."
       ]
@@ -402,8 +417,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 92,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford).",
+      "cantidad": 91,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford).",
       "mundo": "tienda"
     },
     {
