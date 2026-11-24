@@ -106,3 +106,4 @@
 - 18:42 · (T734) Facundo salva a Iceburg y apaga el incendio con hielo (canon: lo salvaban Luffy y los demás).
 - 18:44 · (T735) Blueno (Doa Doa no Mi) intenta llevarse a Franky por una puerta en el aire; Usopp se agarra (canon: se llevaban a los dos).
 - 18:45 · (T736) Blueno se lleva a Franky y a Usopp por una puerta a la estación del puerto (canon). Irán en el tren a Enies Lobby.
+- 19:05 · (T738) El Going Merry zarpa en la Aqua Laguna rumbo a Enies Lobby, siguiendo la vía del tren, con la familia Franky y Paulie (canon: zarpaban en el Rocketman, después del tren).

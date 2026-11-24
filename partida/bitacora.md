@@ -736,3 +736,4 @@ T734 · One Piece · Galley-La · Desata a Iceburg y congela el fuego. Iceburg: 
 T735 · One Piece · muelle · Vuelve al Merry. Blueno abre una puerta en el aire y arrastra a Franky; Usopp se agarra.
 T736 · One Piece · muelle · Deja que Blueno se lleve a Franky y Usopp. Los siente en la estación con el CP9 y Robin. La tripulación le reclama.
 T737 · One Piece · muelle · "Vamos a Enies Lobby con ellos." Zoro entiende el porqué. Nami: el Merry es el único que puede salir.
+T738 · One Piece · Aqua Laguna · Zarpan con la familia Franky y Paulie. Ola de cuarenta metros.
