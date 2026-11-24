@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T879)
-compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
-
-## RESPUESTA 1 (T879)
-
-> compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
-
-Vuelves a abrir la tienda.
-
-[Lentes de contacto de color, par — 1 Fragmento.]
-
-Aparecen en tu mano en un estuche chico de nácar. Te los pones con cuidado, frente al vidrio de una vitrina del bar. El rojo carmesí y el azul hielo desaparecen detrás de un marrón común, opaco, de cualquiera.
-
-Shakky asiente despacio, aprobando.
-
-—Mejor.
-
-Te agachas hacia Kase, que sigue sentado a tus pies con la cara más ofendida del mundo.
-
-> —Kase, ¿puedes entrar en mi uniforme, donde no te vean?
-
-Kase te mira.
-
-Es una mirada larga, cargada de un desprecio tan profundo que Hachi deja de llorar para mirar. Después mira el cuello de tu camisa, mira el uniforme, y vuelve a mirarte a ti, como diciendo «¿en serio?».
-
-Suspira. Los gatos no suspiran, pero Kase sí.
-
-Salta, se te sube al pecho, mete la cabeza por el cuello abierto de la camisa y se desliza para adentro, entero, despacio, con la cola al final como una serpiente. Se acomoda: da una vuelta sobre tu panza, se enrosca y se queda quieto, apretado contra tu estómago, caliente como una bolsa de agua.
-
-El uniforme blanco de marine queda con una barriga enorme, redonda, que sube y baja.
-
-Y ronronea.
-
-Shakky suelta el vaso en la barra y se ríe. Es la primera vez que la ves reírse de verdad, a carcajadas, con la mano en el pecho y el cigarrillo temblando entre los dedos.
-
-Rayleigh se acomoda los lentes y te mira de arriba abajo con mucha seriedad.
-
-—Ahora pareces un marine que comió demasiado en el desayuno. —Toma un sorbo de café—. Excelente. Nadie mira dos veces a un marine gordo.
-
-Hachi aplaude con los seis brazos.
-
-—¡Nyu! ¡Ya no te reconozco! ¡Bueno, un poco por la cicatriz!
-
-La gorra blanca te tapa a medias la cicatriz del ojo izquierdo. La barriga ronronea.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 879 · ONE PIECE · DÍA 57 · 09:14       ║
-║ Sabaody · bar de Shakky                      ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa, ronroneando       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
-║ lado de Luffy. Shingeki: antes del D59.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T880)
+## COMANDO 1 (T880)
 cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
 
-## RESPUESTA 2 (T880)
+## RESPUESTA 1 (T880)
 
 > cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
 
@@ -117,10 +55,10 @@ Toma un sorbo de café.
 
 ---
 
-## COMANDO 3 (T881)
+## COMANDO 2 (T881)
 si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
 
-## RESPUESTA 3 (T881)
+## RESPUESTA 2 (T881)
 
 > si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
 
@@ -181,4 +119,48 @@ Un sargento de bigote y cara roja se te planta adelante, con el sable en la mano
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:25, MARINEFORD. Facundo llegó por teletransportación a un callejón sin testigos y se mezcló en una fila del fondo, disfrazado de marine raso (pelo negro, lentes marrones, Kase dentro de la camisa). Ace en el cadalso encadenado; Sengoku arriba; Garp sentado; Akainu, Kizaru, Aokiji en sillas; Shichibukai (Mihawk, Doflamingo, Hancock, Kuma, Moria) en gradas. Un sargento lo encara: "¡Tú, el gordo! ¿De qué unidad eres? ¡Esa no es tu fila!"
+## COMANDO 3 (T882)
+le respondo mi unidad bien
+
+## RESPUESTA 3 (T882)
+
+> le respondo mi unidad bien
+
+Le das al sargento el número de una compañía y el nombre de una base del Grand Line, sin dudar ni un segundo, con la voz aburrida de alguien que lo repitió cien veces esa mañana.
+
+El sargento te mira de arriba abajo una vez más. La gorra, la barriga, los ojos marrones. Gruñe.
+
+—¿Los refuerzos de las bases? —Señala con el sable hacia la derecha, hacia el mar—. ¡Están en el ala este, idiota, junto al muro de la costa! ¡No aquí! ¡Corre, gordo! —Te mira la barriga—. Y cuidado no te caigas rodando.
+
+Un par de marines de la fila se ríen por lo bajo.
+
+Corres hacia el ala este con la barriga rebotando. Adentro, Kase te clava las uñas en la panza cada vez que pisas.
+
+El ala este está pegada al muro de la costa, donde la plaza termina en una baranda de piedra sobre la bahía. Ahí se amontonan cientos de marines de bases lejanas, traídos de refuerzo: uniformes un poco distintos, gorras gastadas, caras que no se conocen entre sí. Nadie pregunta nada. Te metes en una fila, entre un marine alto y flaco y otro chiquito de anteojos.
+
+Desde ahí se ve el cadalso de costado, alto contra el cielo. Se ve a Ace, de rodillas, inmóvil. Se ve la bahía entera con los buques de guerra alineados y, más allá, el mar abierto, liso, azul, sin un solo barco en el horizonte.
+
+Todavía.
+
+El marine chiquito de anteojos, a tu lado, no puede quedarse quieto. Tiene el fusil apretado contra el pecho y le tiemblan las rodillas. Mira el mar, te mira a ti y vuelve a mirar el mar.
+
+—Oye... —Habla bajito, para que no lo escuche el oficial—. Dicen que Barbablanca va a venir. Con todos sus barcos. Con todos sus comandantes. —Traga saliva—. ¿Tú crees que venga?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 882 · ONE PIECE · DÍA 57 · 09:27       ║
+║ Marineford · ala este, junto al muro         ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa, clavando uñas     ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace (15:00), al lado de   ║
+║ Luffy. Shingeki: antes del D59 16:30.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:27, Marineford, ala este junto al muro de la costa, entre refuerzos de bases lejanas. El sargento creyó su unidad y lo mandó ahí. Se ve el cadalso de costado (Ace de rodillas) y el mar vacío. Un marine chiquito de anteojos, nervioso: "¿Tú crees que venga [Barbablanca]?" Ejecución a las 15:00.

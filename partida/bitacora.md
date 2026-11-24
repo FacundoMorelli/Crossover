@@ -880,3 +880,4 @@ T878 · One Piece · Sabaody · Uniforme de marine (tienda, 1 F). Nueva habilida
 T879 · One Piece · Sabaody · Lentes marrones. Kase escondido en la camisa: barriga de marine.
 T880 · One Piece · Sabaody · Rayleigh: no están preparados; entrenará a Luffy si sobrevive. "¿Y tú?"
 T881 · One Piece · Marineford · Teletransportación disfrazado de marine. Ace en el cadalso. Un sargento lo encara.
+T882 · One Piece · Marineford · Responde bien su unidad. Lo mandan al ala este con los refuerzos.
