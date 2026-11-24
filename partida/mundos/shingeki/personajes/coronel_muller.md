@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 - T555 · Anota la colonia sin objeciones. "¿Quiénes más se alojan en esa casa?"
 - T556 · "Un gato que camina en dos pisos a la vez." Magath lo corta. Se va con el informe entregado. Sospecha.
+- T843 · Día 36 · En la plaza de la fiesta, ve llegar a Willy con su "asesor civil" y un gato. "Su asesor tiene un gato muy particular."

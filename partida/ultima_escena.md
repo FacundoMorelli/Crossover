@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T840)
-si, soy yo, mucho gusto lara
-
-## RESPUESTA 1 (T840)
-
-> si, soy yo, mucho gusto lara
-
-> —Sí, soy yo. Mucho gusto, Lara.
-
-Lara parpadea una vez al oír su nombre. Mira a su hermano.
-
-Willy se pasa la mano por la cara, sin poder mirarla.
-
-—Se lo dije —admite—. Todo. Hace dos minutos.
-
-Lara se queda quieta un segundo largo. No se enoja ni frunce el ceño. Asiente despacio, como si hubiera estado esperando ese momento hace mucho, y se le aflojan los hombros.
-
-—Está bien. —Su voz es suave, tranquila—. Ya era hora de que alguien de afuera lo supiera.
-
-Camina entre los helechos con la taza en la mano y se detiene frente a la pared invisible que todavía gotea. Mira el té suspendido. Estira un dedo y lo apoya en la nada mojada. El dedo no pasa.
-
-Lo retira. Se mira la yema húmeda.
-
-—Willy dijo que usted borró un kilómetro de muralla. —Se sienta en la tercera silla de la mesa, frente a ti, con la taza entre las dos manos—. Con los titanes adentro. Que no quedó nada. Ni hueso, ni vapor.
-
-Kase se acerca a sus pies y la olfatea. Lara baja la mano y se deja oler, sin moverse.
-
-—Yo heredé el Martillo hace cuatro años. —Lo dice como quien cuenta el clima—. Me quedan nueve. Así funciona: trece años, y después se muere, y se lo pasa a otro de la familia. A mi sobrino, seguramente. Tiene seis años.
-
-Willy la mira con la mandíbula apretada.
-
-Lara levanta los ojos hacia ti. Son oscuros, tranquilos y muy cansados.
-
-—¿Podría borrar también al mío? —Hace una pausa—. Sin borrarme a mí.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 840 · SHINGEKI · DÍA 35 · 07:26        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: a los pies de Lara                     ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Barrera sobre el escenario. Ver la plaza     ║
-║ mañana a la noche con Willy.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T841)
+## COMANDO 1 (T841)
 creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
 
-## RESPUESTA 2 (T841)
+## RESPUESTA 1 (T841)
 
 > creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
 
@@ -105,10 +52,10 @@ Lara, sin dejar de rascarle la cabeza a Kase, agrega sin levantar la vista:
 
 ---
 
-## COMANDO 3 (T842)
+## COMANDO 2 (T842)
 me despido y vuelvo a paradis con la teletransportación. simula
 
-## RESPUESTA 3 (T842)
+## RESPUESTA 2 (T842)
 
 > me despido y vuelvo a paradis con la teletransportación. simula
 
@@ -163,4 +110,62 @@ Mira a Kase.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 36 19:58, Liberio, puerta de servicio de la mansión Tybur. Facundo con traje de burócrata marleyano y sombrero (pelo atado), Kase en el hombro. Willy abrió de abrigo y sombrero: el coche está atrás, chofer de confianza. Van a ver la plaza y el escenario. Embajadores ya en la ciudad. Faltan 4 días.
+## COMANDO 3 (T843)
+subo al coche con willy y vamos a la plaza
+
+## RESPUESTA 3 (T843)
+
+> subo al coche con willy y vamos a la plaza
+
+El coche de Willy es negro, largo, con asientos de cuero que huelen a tabaco viejo. El chofer, un hombre canoso de bigote blanco, te abre la puerta de atrás sin mirarte a la cara. Kase se acomoda entre tú y Willy, en el asiento, con la cola enroscada.
+
+El motor ruge y salen.
+
+Liberio está despierta y vestida de fiesta. Hay banderas de Marley en cada balcón y guirnaldas de luces cruzando las calles principales. En las esquinas venden salchichas, castañas y cerveza. Pasan coches de embajadores con banderines de colores que no conoces. Y en los bordes de todo, en las veredas, detrás de vallas de madera, hay eldianos con el brazalete de la estrella en el brazo, mirando pasar los coches sin acercarse.
+
+Willy mira por la ventanilla, callado. Cada tanto se acomoda el sombrero.
+
+—Ahí está —dice de pronto.
+
+La plaza es enorme, rectangular, empedrada. Un lado entero lo ocupa un edificio alto de ladrillo rojo, con balcones de hierro. Contra la fachada están construyendo el escenario: una plataforma de madera de treinta metros de largo por quince de fondo, con un telón rojo enorme colgado detrás y andamios a los costados. A los lados de la plaza hay palcos con sillas de terciopelo para los embajadores. Al fondo, gradas de tablones, sin respaldo, para los eldianos.
+
+Hay obreros martillando bajo faroles, organizadores con planos enrollados bajo el brazo y soldados marleyanos de guardia en cada entrada.
+
+Bajan del coche. Abres el Haki, despacio, sin que se note.
+
+En los techos de los edificios alrededor de la plaza hay bultos tapados con lonas pesadas, atados con sogas. Debajo de cada lona, metal frío y pesado, y al lado, cajones de pólvora. Al lado de cada uno, uno o dos soldados que fuman en la oscuridad. Cuentas seis. Todos apuntan al mismo lugar: el escenario.
+
+Willy saluda a los organizadores con la mano en alto y la sonrisa de siempre, la del hombre más importante de Marley. Los organizadores se le acercan con los planos. Willy te presenta como su asesor civil, sin decir el nombre.
+
+Entonces, entre los uniformes, sale uno que no es de organizador. Es de seguridad interna, gris oscuro, con las insignias de coronel en el cuello. Es un hombre flaco, de cara angulosa y bigote recortado, con los ojos chiquitos y atentos.
+
+El coronel Muller.
+
+Ve a Willy. Te ve a ti. Ve el sombrero, el traje marleyano... y al gato en el hombro.
+
+Se detiene medio segundo. Después camina hacia ustedes con una sonrisa fina, sin dientes.
+
+—Señor Tybur. —Inclina la cabeza—. Qué casualidad encontrarlo aquí, de noche.
+
+Te mira a ti. Mira a Kase.
+
+—Su asesor tiene un gato muy particular.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 843 · SHINGEKI · DÍA 36 · 20:15        ║
+║ Liberio · plaza de la fiesta                 ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
+║ Ver la plaza. Muller sospecha.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 36 20:15, plaza de la fiesta en Liberio. Escenario en construcción (30x15 m) contra un edificio de ladrillo; palcos de embajadores; gradas de eldianos. Seis cañones tapados en los techos apuntando al escenario (Haki). El coronel Muller se acercó a Willy y a su "asesor civil": "Su asesor tiene un gato muy particular."
