@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T951)
-Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
-
-## RESPUESTA 1 (T951)
-
-> Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
-
-> —Tendría que verlo, pero seguro sean dos o tres. También puedo pedir la reconstrucción de todo lo que fue destruido. No intenten entender cómo es, porque es de los lugares a los que viajo. Simplemente aprovéchenlo. No creo que vaya a usar mucho más este poder, porque puede causar problemas de estabilidad. Así que lo voy a usar una sola vez.
-
-—No intenten entender —repite Levi, por lo bajo, mirando a Hange—. ¿Oíste?
-
-Hange abre la boca. La cierra. Escribe algo en el cuaderno, muy rápido, y lo tapa con el brazo.
-
-Erwin no discute. Asiente una sola vez, como quien recibe una orden que no necesita explicación, y se vuelve hacia la mesa.
-
-—Una sola vez. Dos o tres deseos. —Apoya la mano sobre los planos—. Entonces no hay margen para el error. Armin.
-
-Armin da un paso adelante, todavía con los ojos rojos. Se seca la cara con la manga.
-
-—El orden —dice. Se le aclara la voz a medida que habla, como siempre que piensa—. Si los muertos vuelven primero, aparecen en un territorio donde todavía hay titanes. Así que lo primero tiene que ser que desaparezcan los titanes y que los puros vuelvan a ser personas. Todos a la vez, en todo el mundo. —Mira a Connie—. Después, los muertos. Y si hay tercero, la reconstrucción. Que tengan casas donde dormir esa misma noche.
-
-—Titanes, muertos, casas —resume Erwin—. Coincido.
-
-Connie asiente sin poder hablar.
-
-—Pero hay algo más. —Erwin levanta la vista hacia ti—. Si todos los titanes del mundo desaparecen, también desaparecen los de Marley. El Acorazado, la Hembra, el Carguero, el Martillo de los Tybur. Y su poder militar con ellos. —Hace una pausa—. Si eso pasa una mañana, sin aviso, en Liberio lo van a leer como un ataque de Paradis. A diez días de haber firmado la paz.
-
-—Willy y Magath tienen que saberlo antes —dice Historia, desde la mesa—. Y la señorita Tybur.
-
-Ymir, a su lado, levanta la cabeza por primera vez desde que se tapó la cara. Tiene los ojos rojos e hinchados. Te mira a ti.
-
-—Ella ya lo sabe —dice, con la voz ronca—. Más o menos. Le escribió a él.
-
-Todos se dan vuelta hacia ti.
-
-Erwin deja pasar un segundo.
-
-—Entonces le propongo esto, señor Morelli. —Enumera con los dedos de la única mano—. Siete días para que Paradis prepare comida, mantas, médicos y registros en todo el territorio de Wall Maria. En esos siete días, usted habla con Liberio: con Willy Tybur, con Magath y con la señorita Tybur. Y el octavo día, al amanecer, en el lugar que elija, pide los deseos. —Baja la mano—. ¿Le parece?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 951 · SHINGEKI · DÍA 55 · 01:26        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Plan de Erwin: 7 días de           ║
-║ preparación, avisar a Liberio, deseos el 8.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T952)
+## COMANDO 1 (T952)
 esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
 
-## RESPUESTA 2 (T952)
+## RESPUESTA 1 (T952)
 
 > esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
 
@@ -111,10 +55,10 @@ El río sigue corriendo al lado. La rana se calló.
 
 ---
 
-## COMANDO 3 (T953)
+## COMANDO 2 (T953)
 gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
 
-## RESPUESTA 3 (T953)
+## RESPUESTA 2 (T953)
 
 > gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
 
@@ -200,4 +144,69 @@ Kase baja de su piedra. Camina hasta la fila, olfatea la esfera de siete estrell
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 02:20, orilla del río al sur de Mitras. Facundo gastó 30.000 Fragmentos en +3.750 a cada stat y creó las siete Esferas del Eclipse (dragón Eclipse, 3 deseos). Las esferas están en fila sobre la arena; Kase junto a la de siete estrellas. Facundo puede actuar.
+## COMANDO 3 (T954)
+guardo las esferas en el inventario y simula hasta el dia 63
+
+## RESPUESTA 3 (T954)
+
+> guardo las esferas en el inventario y simula hasta el dia 63
+
+Las siete esferas desaparecen de la arena, una por una, en el inventario. La orilla vuelve a ser solo una orilla. Kase mira el lugar vacío, olfatea la arena y se te sube al hombro.
+
+La semana empieza antes de que salga el sol.
+
+A las siete de la mañana del día cincuenta y cinco, Erwin ya tiene a la Guarnición entera de Wall Rose cargando carretas. Hange arma en la sala de mapas un sistema de registros con fichas, nombres y distritos de origen, para que las familias puedan encontrarse, y obliga a cuarenta escribientes de la Policía Militar a copiarlo a mano. Armin calcula raciones: si son trescientos mil, tantas bolsas de harina; si son quinientos mil, tantas más. Historia firma decretos uno tras otro, abriendo los graneros de la Corona y los de las familias nobles de Mitras, que se quejan y entregan igual.
+
+Las carretas empiezan a cruzar las puertas hacia el territorio de Wall Maria el día cincuenta y seis. No paran durante siete días.
+
+El día cincuenta y seis viajas a Liberio.
+
+Lara está en el invernadero, como dijo, antes de que despierte la casa, con una taza de té entre las manos y la bata puesta. Cuando le explicas lo que va a pasar el día sesenta y tres, no dice nada durante un rato muy largo. Después deja la taza en una maceta, sin mirar dónde, y llora sentada en el banco de piedra, con la cara entre las manos, como lloraba Ymir en la sala de mapas. Kase se le sube al regazo. Ella lo deja.
+
+Willy tarda más. Lo escucha en su estudio, de pie junto a la ventana, sin interrumpirte. Cuando terminas, se sienta despacio. Dice que Marley acaba de perder la guerra que nunca peleó, y que es la mejor noticia que recibió en su vida. Después se ríe, se tapa la cara y pide que alguien le traiga a su hermana.
+
+Magath es el último. Lo escucha con las manos detrás de la espalda, como siempre. Pregunta tres cosas, todas militares, y anota las respuestas. Después dice que esa misma tarde va a hablar con el Primer Ministro, y que, si el Primer Ministro no le cree, le va a contar lo que vio en Wall Rose. El día cincuenta y ocho, el gabinete de Marley vota en secreto. Gana por cuatro votos. El día cincuenta y nueve, Magath manda por el correo oficial una sola línea para Erwin: Marley no lo leerá como un ataque.
+
+Pieck se entera por Magath. Pide verte. Te espera en un banco del parque de Liberio, con las muletas apoyadas al lado. Lo único que dice es que hace años que camina en cuatro patas cuando nadie la ve, porque se le olvida cómo se hace en dos. Y que su padre va a poder verla caminar.
+
+En Paradis, Zeke se entera por Levi, en su celda. Se queda callado mucho tiempo. Después pregunta si los eldianos que nazcan después de ese día van a poder tener hijos sin que nadie les tenga miedo. Levi le dice que sí. Zeke se acomoda los anteojos, se da vuelta hacia la pared y no vuelve a hablar en todo el día.
+
+Reiner y Bertholdt se enteran en sus celdas de Trost, por Hange. Bertholdt llora. Reiner no. Pregunta, con la voz muy baja, si los muertos de Shiganshina, los del primer día, también van a volver. Hange le dice que sí. Reiner se sienta en el catre y no se mueve más.
+
+Annie no se entera. Sigue en su cristal, en el sótano de la iglesia de Mitras, con los ojos cerrados.
+
+Connie no duerme en toda la semana. Le pide a Erwin que lo dejen ir a Ragako antes del día sesenta y tres. Erwin se lo concede. Sasha lo acompaña. Jean también.
+
+Eren duerme. Todas las noches. Mikasa dice que a veces, dormido, sonríe.
+
+Ymir no te pregunta nada en toda la semana. Se queda cerca. Se duerme todas las noches con la cabeza en tu pecho y Kase en los pies. Una noche, a oscuras, te dice muy bajito que nunca pensó que iba a tener algo que perder, y que ahora tiene miedo de que no sea cierto. No espera respuesta. Se queda dormida enseguida.
+
+El día sesenta y dos, a la noche, las carretas terminan de cruzar. Hay campamentos armados en cada distrito vacío de Wall Maria: carpas, ollas, mantas apiladas, mesas de registro con faroles. Diez mil soldados de los tres cuerpos esperando a cientos de miles de personas que todavía no existen.
+
+El día sesenta y tres, a las cuatro y media de la mañana, todavía es de noche.
+
+En el patio del palacio de Mitras, a la luz de los faroles, están todos. Erwin, con el uniforme de gala. Levi, Hange, Armin. Mikasa y Eren, juntos. Historia, con la capa blanca. Zackly y Pixis. Ymir, con los brazos cruzados y la manta otra vez en los hombros, sin hablar con nadie. Connie, Sasha y Jean volvieron de Ragako anoche, con barro hasta las rodillas. Connie tiene los ojos rojos: pasó una tarde entera sentado en su casa, hablándole a su mamá, que sigue ahí, tirada boca arriba, enorme, sin entender nada.
+
+Nadie dice nada. Todos te miran.
+
+Erwin da un paso adelante.
+
+—Faltan cuarenta minutos para el amanecer, señor Morelli. —Su aliento hace vapor en el aire frío—. Todo está listo. Paradis y Marley están avisados. —Hace una pausa—. ¿Dónde quiere hacerlo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 954 · SHINGEKI · DÍA 63 · 04:30        ║
+║ Mitras · patio del palacio                   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Los deseos al amanecer. ¿Dónde?    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 04:30, patio del palacio de Mitras. Todo preparado (campamentos en Wall Maria; Marley avisado y de acuerdo). Todos reunidos. Erwin: faltan cuarenta minutos para el amanecer; pregunta dónde quiere hacer los deseos. Facundo puede responder.

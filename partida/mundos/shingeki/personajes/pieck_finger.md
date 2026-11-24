@@ -9,3 +9,4 @@ ESTADO: presa en Trost, tranquila, observadora.
 - T497 · De madrugada le pide a un guardia hablar con "el hombre del gato".
 - T498 · A solas con Facundo. "Te vi entrar donde Zeke." Su padre está enfermo en Liberio; quiere que esté a salvo si hay negociación. A cambio, lo que Zeke no va a decir.
 - T499 · Facundo acepta: su padre a salvo. Pieck le cuenta lo de la sangre real de Zeke y el Fundador, y lo de Ymir y Porco. "No dejes que te toque a Eren sin que estés mirando."
+- T954 · Se entera por Magath. Banco del parque de Liberio: hace años camina en cuatro patas cuando nadie la ve; su padre la va a ver caminar.

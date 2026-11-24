@@ -31,3 +31,4 @@ ESTADO: activo
 - T932 · Ve desaparecer 1 km de Wall Rose; no retrocede; le tiembla la mandíbula una vez.
 - T933 · Respalda a Facundo ante los embajadores: el golpe de Liberio, 65 hombres en tres minutos sin heridos. "Sé reconocer a alguien que podría haber matado y eligió no hacerlo."
 - T938 · Día 50: da la mano a Erwin y a Levi. Día 52: vuelve al continente en el barco de Hizuru; saludo con dos dedos a la gorra.
+- T954 · Día 56: tres preguntas militares. Habla con el Primer Ministro; día 58 el gabinete vota a favor por 4 votos; día 59 a Erwin: "Marley no lo leerá como un ataque."

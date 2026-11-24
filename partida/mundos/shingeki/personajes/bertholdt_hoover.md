@@ -13,3 +13,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada; lo ve flotar.
 ESTADO (T403): inconsciente, amordazado, en manos de Facundo.
 ESTADO (T408): inconsciente, atado, en poder de la Legión.
+- T954 · Por Hange, en su celda de Trost: llora.

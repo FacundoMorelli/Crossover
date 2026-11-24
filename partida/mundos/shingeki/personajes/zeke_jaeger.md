@@ -36,3 +36,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T832 · Día 35 · Celda en Trost, barba larga, libro de botánica. "Hola, del gato. Tardaste veinticuatro días." Pide hablar a solas; Levi: "Ni en sueños."
 - T833 · A solas: los Tybur guardan el Martillo de Guerra (no es Willy quien lo porta); la fiesta era un plan previo para declarar la guerra a Paradis. Pide ir a Liberio: "Voy a ser el único en esa plaza que sabe dónde están los cañones."
 - T834 · Facundo acepta llevarlo a Liberio encadenado a Levi. "Gracias, del gato."
+- T954 · Por Levi, en su celda: pregunta si los eldianos podrán tener hijos sin que nadie les tenga miedo. Levi: sí. Se calla todo el día.

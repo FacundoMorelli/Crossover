@@ -43,3 +43,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T949 · Por Facundo: su titán desaparecería, ella no. Se tapa la cara y llora en silencio.
 - T951 · Ojos hinchados: "Ella ya lo sabe. Más o menos. Le escribió a él."
 - T952 · Levanta el frasco de manzanas como un brindis cuando Facundo se va.
+- T954 · Días 55-62: duerme con Facundo; "Nunca pensé que iba a tener algo que perder. Tengo miedo de que no sea cierto."

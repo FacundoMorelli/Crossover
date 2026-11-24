@@ -30,3 +30,4 @@ ESTADO: activo
 - T858 · Día 44 02:40 · Aprieta el botón de aviso.
 - T859 · Día 44 02:41 · Facundo llega al estudio. Los leales a Calvi rodean la casa; Calvi fue liberado; también fueron por Magath. "Vinieron por mí."
 - T860 · Facundo calma al sobrino de Willy; Kase queda en su regazo. Los soldados del jardín caen desmayados.
+- T954 · Día 56: "Marley acaba de perder la guerra que nunca peleó, y es la mejor noticia que recibí en mi vida." Pide que le traigan a su hermana.

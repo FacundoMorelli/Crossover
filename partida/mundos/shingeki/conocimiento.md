@@ -181,3 +181,8 @@
 - Todos en la sala de mapas · T949 · Por Facundo: los Nueve también desaparecerían; los portadores seguirían vivos.
 - Todos en la sala de mapas · T950 · Por Facundo: es una habilidad suya; puede crear algo que cumple deseos; los revividos aparecerían en un mismo lugar.
 - Todos en la sala de mapas · T951 · Por Facundo: dos o tres deseos, una sola vez (puede causar problemas de estabilidad), también la reconstrucción; "es de los lugares a los que viajo". Por Ymir: Lara Tybur le escribió a Facundo sobre su titán.
+- Lara, Willy, Magath (Liberio) · T954 · Por Facundo (día 56): el día 63 al amanecer desaparecen todos los titanes, vuelven los muertos y se reconstruye lo destruido.
+- Gabinete de Marley (Primer Ministro y ministros) · T954 · Por Magath: el plan del día 63.
+- Pieck · T954 · Por Magath: el plan.
+- Zeke · T954 · Por Levi: el plan.
+- Reiner, Bertholdt · T954 · Por Hange: el plan.

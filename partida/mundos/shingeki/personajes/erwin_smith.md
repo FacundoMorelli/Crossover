@@ -38,3 +38,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T950 · Calcula: caída de Wall Maria, recuperación del 846 (250.000 enviados, volvieron menos de 200), expediciones, Ragako, eldianos convertidos en el continente: cientos de miles. Pide tiempo para comida, mantas, médicos, registros. "¿Cuántos deseos cumple? Si es más de uno, el orden importa."
 - T951 · Coincide con Armin. Advierte: borrar los titanes de Marley sin aviso = ataque. Propone 7 días de preparación, que Facundo hable con Willy, Magath y Lara, y deseos el 8.º día al amanecer.
 - T952 · Facundo acepta. "Mañana al mediodía empezamos a mover provisiones hacia Wall Maria. Hange, Armin: conmigo. Los demás, a dormir."
+- T954 · Coordina la logística. Día 63 04:30: "¿Dónde quiere hacerlo?"

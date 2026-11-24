@@ -101,3 +101,9 @@
 - Día 55 01:30 · (T952) Plan acordado: 7 días de preparación en Wall Maria; Facundo avisará a Willy, Magath y Lara; deseos el día 63 al amanecer (titanes → muertos → reconstrucción). Erwin, Hange y Armin empiezan la logística.
 - Día 55 02:05 · (T952) Facundo junta siete piedras en un río al sur de Mitras.
 - Día 55 02:20 · (T953) Facundo crea las siete Esferas del Eclipse (dragón Eclipse) en la orilla del río al sur de Mitras. Nadie lo ve.
+- Días 55-62 · (T954) Preparación: carretas a Wall Maria (56-62), registros (Hange), raciones (Armin), graneros abiertos (Historia). Campamentos en cada distrito, 10.000 soldados.
+- Día 56 · (T954) Facundo avisa en Liberio a Lara, Willy y Magath.
+- Día 58 · (T954) El gabinete de Marley vota en secreto a favor (por 4 votos).
+- Día 59 · (T954) Magath a Erwin por correo: "Marley no lo leerá como un ataque."
+- Días 56-62 · (T954) Pieck, Zeke, Reiner y Bertholdt se enteran. Connie, Sasha y Jean van a Ragako.
+- Día 63 04:30 · (T954) Todos reunidos en el patio del palacio.

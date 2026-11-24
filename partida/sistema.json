@@ -1,8 +1,8 @@
 {
-  "turno": 953,
+  "turno": 954,
   "mundo_actual": "shingeki",
-  "fecha_local": "Día 55 tras Shiganshina (año 850)",
-  "hora": "02:20",
+  "fecha_local": "Día 63 tras Shiganshina (año 850)",
+  "hora": "04:30",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
@@ -56,7 +56,7 @@
     "energia": 3992,
     "control": 3991
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -461,7 +461,7 @@
     {
       "objeto": "Esferas del Eclipse",
       "cantidad": 7,
-      "detalle": "Creadas por Facundo (T953, día 55, río al sur de Mitras) con el poder de Dende. Cristal negro transparente con un anillo de luz blanca en el centro; estrellas mitad rojas mitad azules (1 a 7). Dragón: ECLIPSE, más fuerte que los de Dende. 3 deseos por invocación. Por ahora en la orilla, no guardadas.",
+      "detalle": "Creadas por Facundo (T953, día 55, río al sur de Mitras) con el poder de Dende. Cristal negro transparente con un anillo de luz blanca en el centro; estrellas mitad rojas mitad azules (1 a 7). Dragón: ECLIPSE, más fuerte que los de Dende. 3 deseos por invocación. Guardadas en el inventario (T954).",
       "mundo": "shingeki"
     }
   ],

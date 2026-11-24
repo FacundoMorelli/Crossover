@@ -35,3 +35,4 @@ ENCUENTROS:
 - T947 · Llega medio dormido, descalzo, empujado por Mikasa.
 - T948 · Se despierta de golpe; piensa en su madre; da un paso hacia Facundo sin hablar.
 - T949 · "El mío también. El Fundador. El Ataque. Todo lo que veo de noche." Alivio.
+- T954 · Duerme todas las noches; a veces sonríe dormido (Mikasa).

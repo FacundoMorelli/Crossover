@@ -12,3 +12,4 @@ ENCUENTROS:
 - T403 · ve a Bertholdt inconsciente en manos de Facundo; carga.
 - T404 · Facundo lo derriba de un golpe de dos dedos. Inconsciente en la nuca.
 ESTADO: inconsciente.
+- T954 · Por Hange, en su celda de Trost: pregunta si los muertos de Shiganshina del primer día también vuelven. Se sienta y no se mueve.
