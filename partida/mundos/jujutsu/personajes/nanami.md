@@ -50,3 +50,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - T979 · 25/04/2019 06:58 · Cocina de los dormitorios, café y diario, manga izquierda con alfiler. "Morelli-kun. Volvió un jueves. A las siete menos diez de la mañana. Sin avisar. No sé por qué no me sorprende."
 - T980 · "Se lo ve bien. Mejor que yo." Saluda a Kase: "Buenos días a usted también." Por Yuji: la promesa. Se saca los anteojos: "Todos los que mataron las maldiciones. ¿Incluso los de hace doce años?"
 - T981 · Sobre Haibara (17, hace doce años): "Con la edad que deberían tener. Que no vuelvan a un mundo que siguió de largo sin ellos. Es lo único justo."
+- T982 · Haibara: "Yo lo vi en la mesa de la morgue. No hay razón para que él cargue con eso. Ya lo cargo yo." Propone el acuerdo: que sepan que murieron, sin el recuerdo del momento.

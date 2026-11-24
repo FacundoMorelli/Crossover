@@ -54,3 +54,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T978 · Por Facundo: Tsumiki también volverá en un año. Se sienta y llora en silencio. "Gracias. No sé cómo... Gracias." Le ruge el estómago; se pone colorado.
 - T979 · Le da un golpecito con el puño en el brazo a Facundo al pasar.
 - T981 · Tsumiki era un año mayor; Gojo murió hace cuatro meses. Asiente: con la edad que deberían tener.
+- T982 · No quiere que Tsumiki recuerde ni a Yorozu ni a Sukuna "con mis manos". Nunca.

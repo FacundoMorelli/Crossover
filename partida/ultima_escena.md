@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T979)
-esta bien, me quedo unos dias si quieren
-
-## RESPUESTA 1 (T979)
-
-> esta bien, me quedo unos dias si quieren
-
-> —Está bien. Me quedo unos días, si quieren.
-
-—Obvio que queremos —dice Yuji, antes que nadie, poniéndose de pie de un salto.
-
-Nobara chasquea la lengua.
-
-—Unos días. —Se da vuelta hacia el portón, recogiendo del suelo, con cuidado, los pedazos de su taza—. Siempre unos días. Bueno. Es mejor que cinco minutos.
-
-Megumi se levanta despacio, sacudiéndose los pétalos de la remera. No dice nada. Pero cuando pasa a tu lado para subir, te da un golpecito con el puño en el brazo, apenas, sin mirarte.
-
-Suben los cuatro por el camino de piedra, entre los cedros y los cerezos, hasta los dormitorios. Kase va en tu hombro, mirando los pájaros con los ojos entrecerrados. Yuji habla sin parar: de la misión de la semana pasada en Yokohama, de que ahora son de segundo año, de que hay alumnos nuevos de primero que les tienen miedo, de que Maki rompió una puerta del gimnasio entrenando y nadie se animó a decírselo al director.
-
-La cocina común de los dormitorios es chica, con una mesa larga de madera, una heladera vieja que zumba y una ventana que da al patio. Huele a café recién hecho.
-
-Hay alguien en la mesa.
-
-Un hombre de traje beige, sin corbata, con la camisa abierta en el cuello. Pelo rubio peinado para atrás, con dos mechones sobre la frente. Anteojos de marco fino sobre la mesa, al lado de una taza de café. El brazo izquierdo de la camisa está doblado y sujeto con un alfiler a la altura del hombro. Con la mano derecha sostiene un diario, que lee con atención.
-
-Levanta la vista cuando entran.
-
-Te ve. Al gato. Se queda mirándote, inmóvil, con el diario en el aire.
-
-Después lo dobla, despacio, con una sola mano, con una precisión de años de práctica. Lo deja sobre la mesa. Se ajusta los anteojos que no tiene puestos, por costumbre. Los busca sobre la mesa. Se los pone.
-
-—Morelli-kun. —La voz es plana, cansada, como siempre—. Volvió un jueves. A las siete menos diez de la mañana. Sin avisar.
-
-Toma un sorbo de café.
-
-—No sé por qué no me sorprende.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 979 · JUJUTSU · 25/04/2019 · 06:58     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Unos días en Jujutsu. Nanami en    ║
-║ la cocina.                                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T980)
+## COMANDO 1 (T980)
 hola nanami
 
-## RESPUESTA 2 (T980)
+## RESPUESTA 1 (T980)
 
 > hola nanami
 
@@ -113,10 +59,10 @@ Después, sin levantar la vista de la mesa, con la voz más baja que le oíste n
 
 ---
 
-## COMANDO 3 (T981)
+## COMANDO 2 (T981)
 asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
 
-## RESPUESTA 3 (T981)
+## RESPUESTA 2 (T981)
 
 > asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
 
@@ -169,4 +115,60 @@ Yuji mira la sartén. El huevo se quemó por abajo. No le importa.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:04, cocina de los dormitorios. Facundo preguntó si los revividos deben volver con la edad que tendrían ahora. Nanami, Megumi, Yuji y Nobara acordaron que sí. Yuji pregunta si recordarán que murieron y cómo fue. Facundo puede responder.
+## COMANDO 3 (T982)
+la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
+
+## RESPUESTA 3 (T982)
+
+> la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
+
+> —La verdad, no estoy seguro. Capaz que recuerdan el instante anterior. Pero lo puedo cambiar. Díganme también qué prefieren en eso: ¿que recuerden o que no?
+
+Yuji apaga el fuego. Se queda con la espátula en la mano, mirando el huevo quemado.
+
+—Junpei... —dice, bajito—. Mahito le cambió la forma del cuerpo. Delante de mí. —Traga—. No quiero que se acuerde de eso. No quiero que se despierte con eso.
+
+Megumi tarda en hablar. Se mira las manos sobre la mesa.
+
+—A Tsumiki la usó una de esas cosas del Juego. Le quitó el cuerpo. —Aprieta los dedos—. Y después Sukuna la mató. Con mis manos. —La voz le sale plana, controlada, y por eso duele más—. No quiero que se acuerde de ninguna de las dos cosas. Nunca.
+
+Nanami se cruza el brazo sobre el pecho, sobre la manga vacía.
+
+—Haibara murió partido al medio por una maldición que nadie había evaluado bien —dice, sin cambiar la voz—. Yo lo vi en la mesa de la morgue. —Pausa—. No hay ninguna razón para que él cargue con eso. Ya lo cargo yo.
+
+Nobara está apoyada en la mesada, con los brazos cruzados, mirando el piso.
+
+—Gojo-sensei —dice, y se le escapa media sonrisa amarga—. Ese idiota va a querer saber cómo perdió. Para quejarse. Para decir que no fue justo y que la próxima le gana. —Se le humedecen los ojos y se enoja con ellos—. Pero tampoco necesita acordarse de cómo se sintió.
+
+Nanami asiente.
+
+—Entonces —dice, despacio, como quien redacta un acuerdo—: que sepan que murieron. Que alguien se lo pueda explicar, que no se despierten creyendo que fue un sueño, porque eso sería peor. Pero sin el recuerdo del momento. Ni el dolor. Ni el miedo. —Te mira—. Que se despierten como quien se despierta de una siesta larga, y que alguien esté ahí para contarles.
+
+Yuji asiente rápido, varias veces. Megumi también, una sola vez. Nobara resopla, que en ella también es un sí.
+
+Después Nobara se despega de la mesada, agarra un plato y le arrebata a Yuji la espátula.
+
+—Bueno. Basta. —Raspa el huevo quemado de la sartén, enojada, con la nariz roja—. Basta de muertos en el desayuno. Es jueves, son las siete de la mañana y Fushiguro tiene hambre.
+
+Te pone el plato con el huevo quemado delante, en la mesa, sin ceremonia.
+
+—Tú, el que revive gente. —Te señala con la espátula—. ¿Te comes un huevo quemado, o eres demasiado importante para eso?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 982 · JUJUTSU · 25/04/2019 · 07:08     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Acordado: sabrán que murieron,     ║
+║ sin recordar el momento. Desayuno.           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:08, cocina de los dormitorios. Acordaron que los revividos sabrán que murieron, sin recordar el momento ni el dolor. Nobara cortó la charla y le puso a Facundo un plato con el huevo quemado: "¿Te comes un huevo quemado, o eres demasiado importante para eso?" Facundo puede responder.

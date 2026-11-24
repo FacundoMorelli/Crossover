@@ -980,3 +980,4 @@ T978 · Jujutsu · Portón · "Todos. Ella también." Megumi llora: "Gracias." L
 T979 · Jujutsu · Dormitorios · "Me quedo unos días." Suben a la cocina. Nanami: "Volvió un jueves, sin avisar. No sé por qué no me sorprende."
 T980 · Jujutsu · Cocina · "Hola, Nanami." Yuji le cuenta la promesa. Nanami: "¿Incluso los de hace doce años?"
 T981 · Jujutsu · Cocina · "¿Con la edad que deberían tener?" Nanami, Megumi, Yuji, Nobara: sí. Yuji: "¿Se van a acordar de que murieron?"
+T982 · Jujutsu · Cocina · ¿Recordar o no? Acuerdo: sabrán que murieron, sin el momento. Nobara: "¿Te comes un huevo quemado?"

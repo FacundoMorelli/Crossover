@@ -58,3 +58,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T977 · "Un año. Lo anoto. Si dentro de un año no aparece Gojo-sensei quejándose de que el dulce de la escuela es malo, te voy a clavar un clavo en el pie."
 - T978 · Se sienta pegada a Megumi. "Ayúdanos con el desayuno. Itadori no trajo el pan. ¿Te quedas, o te vas a ir otra vez dentro de cinco minutos?"
 - T981 · "Es raro de cualquier forma. Peor es volver y que todos te hayan dejado atrás."
+- T982 · Gojo querría saber cómo perdió para quejarse, pero no sentirlo. "Basta de muertos en el desayuno." "¿Te comes un huevo quemado, o eres demasiado importante para eso?"
