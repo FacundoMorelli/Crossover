@@ -770,3 +770,4 @@ T768 · One Piece · Water 7 · Día 37. Franky ofrece construirles un barco de 
 T769 · One Piece · Water 7 · Pagan 200M por la madera de Adán. Franky construye el barco pero no se une. Quedan 100M.
 T770 · One Piece · Water 7 · Desayuno a solas con Robin. Pregunta por su libro.
 T771 · One Piece · Water 7 · Le devuelve a Robin el libro de Paradis. Ella le pide que le enseñe todas las letras.
+T772 · One Piece · Water 7 · Robin aprende todo el alfabeto de las murallas y lee la primera página. Pregunta si ese lugar es real.

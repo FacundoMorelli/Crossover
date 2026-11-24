@@ -59,3 +59,4 @@ ESTADO: activa
 - T763 · Going Merry · Facundo la besa en cubierta delante de todos. "Me prometiste que no nos iba a pasar nada. Cumpliste." "Esta vez no me voy a ir a ninguna parte." RELACIÓN: pareja, a la vista de la tripulación.
 - T770 · Desayuno a solas con Facundo. Pregunta si todavía tiene su libro. En el tren se repetía las letras que él le enseñó para no pensar.
 - T771 · Facundo le devuelve el libro de Paradis. Le pide que le enseñe todas las letras "antes de que te vayas a donde sea que te vas".
+- T772 · Aprende con Facundo todo el alfabeto de las murallas en dos horas. Lee la primera página (titanes, tres murallas: María, Rose, Sina). Pregunta dónde queda ese lugar, si es real.
