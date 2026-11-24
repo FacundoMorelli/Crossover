@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1006)
-se llama Kase
-
-## RESPUESTA 1 (T1006)
-
-> se llama Kase
-
-> —Se llama Kase.
-
-—Kase —repite Erza, en voz baja, como si probara la palabra.
-
-Extiende una mano. Lo hace despacio, con la palma hacia abajo, a la altura del hocico, como le enseñaron a alguien alguna vez. Tiene la mano enfundada en un guantelete de metal.
-
-Kase mira la mano. La huele desde lejos, sin acercarse, estirando apenas el cuello. Olfatea el metal un segundo, dos.
-
-Después se da vuelta, le muestra la cola enorme y salta de nuevo a tu hombro, sin apuro.
-
-Erza se queda con la mano en el aire.
-
-La baja. Se acomoda en el asiento, endereza la espalda y carraspea.
-
-—Ya veo —dice, muy seria—. Tiene carácter.
-
-Por un segundo le tiemblan las comisuras de la boca. Después se le pasa.
-
-No vuelve a hablar. Mira por la ventana con los brazos cruzados sobre la armadura. El campo da lugar a colinas, las colinas a bosques de pinos, y en algún momento, en el vagón de al lado, se escucha a Natsu gemir algo sobre que quiere morirse y a Gray decirle que lo haga en silencio.
-
-Pasa casi una hora.
-
-El tren baja la velocidad. Una voz grita por el pasillo:
-
-—¡Próxima estación, Oak Town!
-
-Por la ventana aparece la ciudad: casas de piedra gris sobre una colina, techos de pizarra, y en lo alto, dominándolo todo, un edificio enorme que no se parece a nada de lo que hay alrededor. Es una fortaleza de piedra oscura con torres puntiagudas, ventanas estrechas y banderas negras flameando en las almenas. En cada bandera, el mismo emblema que tenía Levy pintado en el vestido.
-
-Erza se pone de pie. La armadura suena.
-
-—Llegamos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1006 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 08:35 · Tren, llegando a Oak Town            ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1007)
+## COMANDO 1 (T1007)
 bajo del tren y voy con ellos a la sede de Phantom
 
-## RESPUESTA 2 (T1007)
+## RESPUESTA 1 (T1007)
 
 > bajo del tren y voy con ellos a la sede de Phantom
 
@@ -125,10 +68,10 @@ Desde lo alto del salón, sentado en una viga del techo con las piernas colgando
 
 ---
 
-## COMANDO 3 (T1008)
+## COMANDO 2 (T1008)
 le paro el hacha con una mano y lo tumbo
 
-## RESPUESTA 3 (T1008)
+## RESPUESTA 2 (T1008)
 
 > le paro el hacha con una mano y lo tumbo
 
@@ -193,4 +136,91 @@ Kase le bufa desde tu hombro.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:06, salón de Phantom. Facundo tumbó al del hacha. Gajeel bajó de la viga y le pregunta qué es. Facundo puede actuar.
+## COMANDO 3 (T1009)
+uso mi magia de constelacion viva, hagan el trabajo ustedes
+
+## RESPUESTA 3 (T1009)
+
+> uso mi magia de constelacion viva, hagan el trabajo ustedes
+
+No le contestas a Gajeel.
+
+Levantas una mano y trazas en el aire.
+
+El dedo deja una estrella donde pasa: un punto de luz blanca, frío y duro como un diamante, que se queda flotando delante de ti. Después otra. Después otra, unida a la primera por una línea finísima de luz celeste. Lo haces rápido, sin mirar, como quien firma su nombre. Nueve estrellas, doce, quince. Una cabeza, un lomo, cuatro patas, una cola.
+
+Cierras la figura.
+
+[Constelación Viva.]
+
+Las estrellas se encienden todas juntas, y la figura se llena de luz desde adentro. Ya no son puntos ni líneas: es un cuerpo. Un lobo del tamaño de un caballo, hecho de luz estelar sólida, con el pelaje lleno de chispas plateadas que se mueven como polvo en un rayo de sol, y los ojos, dos estrellas azules. Pisa las baldosas y las baldosas se escarchan.
+
+No te detienes. Con la otra mano trazas una segunda figura, más alta, de pie: un guerrero de dos metros y medio con armadura, una lanza larga y un escudo redondo, todo de luz, con una corona de cinco estrellas en la cabeza. La tercera la trazas hacia arriba, hacia las vigas, larga y ondulada: una serpiente con alas, de veinte estrellas, que se enrosca en el aire debajo del techo.
+
+Tres constelaciones. Te bajas la mano.
+
+Las tres te miran un instante, esperando.
+
+Y van.
+
+El lobo sale primero. Cruza el salón en dos saltos, se mete entre una fila de magos de Phantom que cargaban contra los de Fairy Tail y los barre como a bolos. Muerde un escudo mágico y el escudo se deshace. El guerrero camina, no corre, y cada vez que alguien de Phantom levanta una espada o lanza un hechizo, el escudo de luz se pone delante, absorbe el golpe y la lanza contesta con el asta, seca, y el mago cae. La serpiente baja en picada desde las vigas, pasa rozando las mesas y deja una estela de luz que tumba a una docena de una sola vez.
+
+No matan a nadie. Los tiran, los desarman, los dejan en el piso.
+
+El salón cambia de ritmo. Los de Phantom ya no atacan: retroceden. Algunos tiran las armas y salen corriendo hacia las escaleras. Los de Fairy Tail se quedan con los puños en alto mirando cómo un lobo de estrellas pasa a su lado, les olfatea la marca del gremio y sigue de largo.
+
+—¡¿Espíritus celestiales?! —grita alguien de Fairy Tail—. ¡¿Sin llave?!
+
+—¡Eso no es de Lucy! —grita otro.
+
+—¡ES DE HOMBRES! —grita Elfman.
+
+Gray se queda mirando al guerrero, con la mano todavía congelada, sin decir nada. Erza, en el medio del salón, con una espada en cada mano y tres enemigos a sus pies, gira la cabeza hacia la serpiente, después hacia ti, y se le estrechan los ojos.
+
+Desde arriba, gigante, Makarov también te mira. Un segundo nada más. Después aplasta a dos magos con la palma, se encoge de golpe a su tamaño normal y grita:
+
+—¡Erza, quedas a cargo! ¡Voy por Jose!
+
+Sube las escaleras de a tres escalones.
+
+Delante de ti, Gajeel no se movió.
+
+El lobo vuelve a tu lado y se le planta enfrente, con las orejas de luz hacia atrás, gruñendo un sonido que parece hielo que se rompe. Gajeel lo mira. Mira al guerrero, que se para del otro lado. Mira la serpiente, que se enrosca en una columna detrás de él.
+
+Se le borra la sonrisa.
+
+Su brazo derecho cambia. La piel se vuelve gris, después negra, se estira, se endurece, y en un segundo ya no tiene brazo: tiene una columna de hierro macizo, larga como una viga.
+
+—¡Rugido... no! ¡Garrote del Dragón de Hierro!
+
+Lo descarga contra el lobo.
+
+El lobo abre la boca y lo atrapa con los dientes en el aire. El hierro chirría. Gajeel empuja, con los pies hundiéndose en las baldosas, y no lo mueve. El lobo tampoco lo suelta.
+
+Gajeel gira la cabeza hacia ti, con la vena del cuello hinchada y los dientes apretados.
+
+—¡¿Me vas a mandar a tus perritos de luz?! —ruge—. ¡Pelea tú, cobarde!
+
+[Rivales vencidos: 41 magos de Phantom Lord. +1.230 EXP · +41 Fragmentos.]
+
+[Constelación Viva: maestría 30 → 31.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1009 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:09 · Oak Town · sede de Phantom Lord      ║
+║ NIVEL 27 · EXP 224.000/240.000               ║
+║ FRAGMENTOS 107.537 · 0 jewel                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:09, salón de Phantom. Tres constelaciones barrieron a Phantom. Makarov subió por Jose. El lobo tiene atrapado el garrote de hierro de Gajeel; Gajeel le grita a Facundo que pelee él. Facundo puede actuar.

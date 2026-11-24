@@ -1,13 +1,13 @@
 {
-  "turno": 1008,
+  "turno": 1009,
   "mundo_actual": "fairytail",
   "fecha_local": "X784, julio · Día 1",
-  "hora": "09:06",
+  "hora": "09:09",
   "edad": 18,
   "nivel": 27,
-  "exp": 222770,
+  "exp": 224000,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107496,
+  "fragmentos": 107537,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -61,7 +61,7 @@
     "energia": 3992,
     "control": 3991
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -267,7 +267,7 @@
     "fairytail": {
       "nombre": "Magia Perdida: Constelación Viva",
       "tipo": "magia perdida (Fiore)",
-      "maestria": 30,
+      "maestria": 31,
       "reglas": [
         "Facundo traza con el dedo (o con la punta de una espada) una figura de estrellas en el aire; al cerrarla, la constelación se vuelve un cuerpo de luz estelar sólida: una bestia, un guerrero, un arma o un muro, con la forma que tracé.",
         "Cada constelación tiene voluntad propia: pelea, protege o carga por su cuenta según la orden que le dio al trazarla, y dura hasta que Facundo la deshace o la destruyen.",
@@ -1599,6 +1599,13 @@
       "turno": 1008,
       "fragmentos": 1,
       "exp": 30
+    },
+    {
+      "mundo": "fairytail",
+      "quien": "41 magos de Phantom Lord (constelaciones: lobo, guerrero, serpiente alada)",
+      "turno": 1009,
+      "fragmentos": 41,
+      "exp": 1230
     }
   ],
   "viaje": {

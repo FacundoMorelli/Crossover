@@ -1007,3 +1007,4 @@ T1005 · Fairy Tail · Tren · "Facundo Morelli. Ya la vas a ver." Erza explica 
 T1006 · Fairy Tail · Tren · "Se llama Kase." Kase le da la espalda a Erza: "Tiene carácter." Llegan a Oak Town; la sede de Phantom a la vista.
 T1007 · Fairy Tail · Sede de Phantom · Natsu revienta la puerta: "¡FAIRY TAIL!" Batalla. Un mago con hacha carga contra Facundo. Gajeel mira desde una viga.
 T1008 · Fairy Tail · Sede de Phantom · Para el hacha con una mano y tumba al mago. Elfman: "¡Eso es de hombres!" Gajeel baja: "¿Qué carajo eres?"
+T1009 · Fairy Tail · Sede de Phantom · Constelación Viva: lobo, guerrero, serpiente alada; 41 vencidos. Makarov sube por Jose. El lobo atrapa el garrote de Gajeel: "¡Pelea tú, cobarde!"

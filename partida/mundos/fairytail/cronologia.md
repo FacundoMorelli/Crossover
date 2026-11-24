@@ -39,3 +39,4 @@
 - Día 1 07:28 · (T1004) Fairy Tail sale en tren hacia Oak Town (con Facundo).
 - Día 1 08:35 · (T1006) Fairy Tail llega a Oak Town.
 - Día 1 09:05 · (T1007) Fairy Tail ataca la sede de Phantom en Oak Town (canon), con Facundo.
+- Día 1 09:09 · (T1009) Facundo usa la Constelación Viva en el salón de Phantom; 41 vencidos. Makarov sube por Jose (canon). Gajeel atrapado por el lobo (en el canon peleaba con Elfman y Natsu).
