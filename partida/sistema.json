@@ -1,13 +1,13 @@
 {
-  "turno": 1044,
+  "turno": 1045,
   "mundo_actual": "hunterxhunter",
   "fecha_local": "Día 1 (día del duelo Hisoka vs. Chrollo)",
-  "hora": "19:39",
+  "hora": "19:40",
   "edad": 18,
   "nivel": 27,
-  "exp": 237350,
+  "exp": 239850,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107990,
+  "fragmentos": 108140,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1737,6 +1737,13 @@
       "mundo": "bleach",
       "quien": "Grimmjow Jaegerjaques (ex Sexta Espada)",
       "turno": 1035,
+      "fragmentos": 150,
+      "exp": 2500
+    },
+    {
+      "mundo": "hunterxhunter",
+      "quien": "Hisoka Morow",
+      "turno": 1045,
       "fragmentos": 150,
       "exp": 2500
     }

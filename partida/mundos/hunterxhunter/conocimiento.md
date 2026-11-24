@@ -14,3 +14,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hisoka · T1042 · lo ve en persona delante de Kortopi: no es una araña; no siente nada de su aura (Velo) ("como si no estuvieras ahí").
 - Hisoka, Kortopi · T1043 · Facundo dijo que tiene una misión: proteger a Kortopi. Kortopi no sabe por qué. Hisoka cree que tal vez lo mandó alguien (descarta a Chrollo).
 - Hisoka, Kortopi · T1044 · vieron a Facundo atrapar la carta con dos dedos y devolverla tan rápido que Hisoka no pudo esquivarla (le abrió la mejilla; atravesó un poste). Siguen sin sentir su aura.
+- Kortopi · T1045 · vio a Facundo dejar inconsciente a Hisoka de un solo golpe, tan rápido que no lo vio moverse.

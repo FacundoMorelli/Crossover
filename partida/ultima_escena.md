@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1042)
-me teletransporto a los baños y protejo a Kortopi
-
-## RESPUESTA 1 (T1042)
-
-> me teletransporto a los baños y protejo a Kortopi
-
-Desapareces de la columna.
-
-Apareces en una calle angosta, detrás de la Torre, entre edificios bajos de departamentos y un estacionamiento. La noche ya cayó. Los faroles tiran una luz amarilla y sucia. A diez metros hay un edificio chico de azulejos blancos, con un cartel de neón medio roto: BAÑOS PÚBLICOS, y una flecha que parpadea.
-
-El pequeño de pelo largo está entrando.
-
-Se detiene en la puerta. Se da vuelta.
-
-No te sintió llegar. Te vio. Un joven alto, de negro, con un gato erizado y envuelto en una bufanda gris, parado en el medio de la calle donde hace un segundo no había nadie. El único ojo que se le ve entre el pelo se queda fijo en ti.
-
-No dice nada. Las manos, que le cuelgan a los costados, se mueven apenas. En la derecha, entre los dedos cortos, el aura se le junta.
-
-Caminas hasta la puerta de los baños y te paras entre él y la calle, de espaldas a él.
-
-Kortopi no ataca. Se queda quieto detrás de ti, mirándote la espalda, sin entender.
-
-—...¿Quién eres? —pregunta. La voz es baja, ronca, de alguien que habla poco.
-
-No llegas a contestar.
-
-Por la esquina de la calle, desde el lado de la Torre, viene alguien caminando.
-
-Camina tranquilo, con un paso raro, un poco desparejo. Silbando. La luz del farol le da en la cara: pelo rojo despeinado, sin el peinado de antes, la cara sin pintura, la ropa rota y manchada de sangre seca. La mano izquierda está ahí, en su lugar, pero tiene un color demasiado uniforme, como de goma. La pierna derecha también: perfecta, lisa, sin una arruga en el pantalón. Hecha de aura.
-
-Hisoka se detiene a veinte metros. Ve a Kortopi detrás de ti, en la puerta. Te ve a ti.
-
-Deja de silbar.
-
-—Mmm... —Ladea la cabeza. Los ojos amarillos te recorren de arriba abajo, despacio, sin perderse nada: el pelo, los ojos de distinto color, la cicatriz, el gato—. ¿Y tú quién eres? No eres una araña. —Se lame los labios—. No siento nada de ti. Nada de nada. Como si no estuvieras ahí. ♥
-
-Saca una carta de la manga. La hace girar entre los dedos de la mano de goma.
-
-—Qué interesante... ♠
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1042 · HUNTER X HUNTER · DÍA 1 · 19:38 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1043)
+## COMANDO 1 (T1043)
 tengo una mision, no puedo dejar que le hagas nada
 
-## RESPUESTA 2 (T1043)
+## RESPUESTA 1 (T1043)
 
 > tengo una mision, no puedo dejar que le hagas nada
 
@@ -125,10 +66,10 @@ No la ves salir: la ves llegar. Un rectángulo de papel blanco envuelto en aura,
 
 ---
 
-## COMANDO 3 (T1044)
+## COMANDO 2 (T1044)
 atrapo la carta con dos dedos y se las devuelvo
 
-## RESPUESTA 3 (T1044)
+## RESPUESTA 2 (T1044)
 
 > atrapo la carta con dos dedos y se las devuelvo
 
@@ -186,4 +127,65 @@ Detrás de ti, en la puerta de los baños, Kortopi da un paso atrás. Lo sientes
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:39, baños públicos. Facundo atrapó la carta de Hisoka y se la devolvió: le abrió la mejilla. Hisoka, extasiado: "Más. Dame más." Kortopi detrás, nervioso. Facundo puede actuar.
+## COMANDO 3 (T1045)
+lo dejo inconsciente de un golpe
+
+## RESPUESTA 3 (T1045)
+
+> lo dejo inconsciente de un golpe
+
+Hisoka no te ve moverte.
+
+Está ahí, a diez metros, con los dedos rojos en la boca y los ojos brillando, y un instante después estás delante de él, tan cerca que ves la sangre fresca bajándole por el cuello desde el corte de la mejilla.
+
+Llega a abrir la boca.
+
+El puño le entra en el plexo, por debajo del esternón, justo donde la mano de Machi había cosido hace media hora.
+
+No hay sonido de golpe. Hay un sonido sordo, hondo, como cuando se cae algo pesado dentro de un pozo. A Hisoka se le escapa todo el aire de una vez. La pierna de aura se le deshace en el acto, como humo, y la mano de goma también. Se dobla sobre tu brazo, con los ojos abiertos, sin entender todavía qué pasó.
+
+Después los ojos se le ponen en blanco.
+
+Cae de rodillas, en una sola pierna, y después de costado sobre el asfalto. Se queda ahí, quieto, con la mejilla abierta contra el piso, el muñón de la mano izquierda a la vista y la sonrisa todavía puesta, torcida, congelada en la cara.
+
+Respira. Apenas.
+
+[Rival vencido: Hisoka Morow. +2.500 EXP · +150 Fragmentos.]
+
+La calle queda en silencio. El perro del departamento deja de ladrar.
+
+Kase, en tu hombro, se baja el pelo de golpe. Mira a Hisoka tirado en el piso, olfatea el aire una vez y se acomoda en tu cuello, con la bufanda gris, como si ya no hubiera nada que ver.
+
+Detrás de ti, en la puerta de los baños, Kortopi no se movió. Tiene las dos manos todavía levantadas, con el aura juntada entre los dedos, y no la suelta. El único ojo que se le ve entre el pelo va de Hisoka a ti, de ti a Hisoka, varias veces.
+
+Después baja las manos, despacio. El aura se le apaga.
+
+—Lo mataron hace una hora —dice, con la voz ronca—. El jefe lo mató. Yo lo vi. Machi le estaba cosiendo el cuerpo.
+
+Mira a Hisoka otra vez.
+
+—Y tú lo tiraste de un golpe.
+
+Saca un celular viejo del bolsillo, con la tapa rayada. No marca ningún número. Lo tiene en la mano, nada más, y te mira.
+
+—¿Quién eres? —pregunta otra vez, igual que antes. Pero ahora la voz es distinta—. ¿Y por qué me estás protegiendo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1045 · HUNTER X HUNTER · DÍA 1 · 19:40 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, tranquilo                ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:40, baños públicos. Hisoka inconsciente en el asfalto. Kortopi, con el celular en la mano, le pregunta a Facundo quién es y por qué lo protege. Facundo puede responder.

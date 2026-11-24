@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: lo eligió como su próxima presa (T1043).
 ENCUENTROS:
 - T1039 · Día 1 16:13 · Facundo lo/la ve en las pantallas o siente su presencia desde la avenida.
 - T1042 · Llega a los baños a matar a Kortopi y encuentra a Facundo delante.
+- T1045 · Facundo lo deja inconsciente de un golpe.
 DIÁLOGOS CLAVE:
 - T1044 · Con la mejilla abierta: "Ah... Aaah... ♥ Más. Dame más."
 - T1043 · "¿Una misión? ¿Proteger a una araña? ¿Quién te mandó? ¿Chrollo? No, Chrollo no sabe hacer amigos. ♣" "Me acaban de matar. Fue lo mejor que me pasó en años." "Cambio de planes. ♥ Las arañas pueden esperar. Tú vas primero."
@@ -16,4 +17,4 @@ DIÁLOGOS CLAVE:
 - T1040 · "Mmm... ♠ Eso es justo lo que quería escuchar."
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: revivido; mano izq. y pierna der. de aura; mejilla izquierda abierta por su propia carta devuelta por Facundo (T1044); frente a Facundo, extasiado.
+ESTADO: INCONSCIENTE en el asfalto de la calle de los baños (T1045, un golpe de Facundo al plexo); sin mano izq. ni pierna der. (se deshicieron las de aura); mejilla abierta. Respira.

@@ -5,3 +5,4 @@ ESTADO: Kakin anunció la expedición al Continente Oscuro con Beyond Netero; la
 DON DE MUNDO: Libro de Deudas (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
+- T1045 · Hisoka vencido por Facundo frente a los baños públicos; Kortopi vivo (en el canon, Hisoka lo mataba ahí).
