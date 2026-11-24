@@ -746,3 +746,4 @@ T744 · One Piece · Enies Lobby · Robin grita "¡Quiero vivir!". Spandam orden
 T745 · One Piece · Enies Lobby · Facundo derriba con flechas Quincy todas las banderas del Gobierno Mundial. Guerra declarada.
 T746 · One Piece · Enies Lobby · "Vayamos." Luffy cruza solo el abismo. Spandam mete a Robin en la torre. El puente sigue levantado.
 T747 · One Piece · Torre de la Justicia · Cruza a todos con la Luna. Fukurou explica las cinco llaves.
+T748 · One Piece · Torre de la Justicia · Facundo y Luffy van tras Lucci. La tripulación se reparte. Blueno en la puerta del pasaje.
