@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T934)
-esta bien
-
-## RESPUESTA 1 (T934)
-
-> esta bien
-
-> —Está bien.
-
-Kiyomi sonríe. Abre el abanico de nuevo y señala con él hacia la punta de la muralla, donde termina la piedra.
-
-—Caminemos.
-
-Bajan juntos por el adarve, alejándose del mirador. El viento sopla fuerte allá arriba, a cincuenta metros del suelo, y Kiyomi camina con pasos cortos y seguros, sin mirar el vacío, con la mano libre en el pecho para que no se le vuele el kimono. Detrás, a lo lejos, Levi se queda mirándolos con los brazos cruzados. Ymir no se baja de la baranda, pero tampoco deja de mirar.
-
-Kiyomi se detiene justo en el borde.
-
-Delante de ustedes, la muralla se corta en seco, lisa como un espejo, y después no hay nada: un kilómetro de aire y pasto hasta el otro borde, allá lejos, con su bandera roja colgando floja. Abajo, donde estaban los colosales, el pasto ya se mueve con el viento como si nunca hubiera habido nada encima.
-
-Kiyomi mira el corte un rato largo, en silencio.
-
-—En Hizuru tenemos un dicho —dice al fin, sin darse vuelta—. El mercader sabio no compra la mercancía. Compra el camino por el que pasa la mercancía.
-
-Se da vuelta y te mira.
-
-—Usted es un camino, emisario.
-
-Cierra el abanico.
-
-—Lo vi en Liberio. La reina de Paradis apareció en un sótano del continente sin cruzar el mar. Usted aparece y desaparece. En la plaza, los cañones se detuvieron contra algo que nadie veía. Y hoy borra en un minuto una muralla que llevó un siglo levantar. —Inclina la cabeza—. No le voy a preguntar cómo. En mi familia aprendimos que preguntar cómo es la manera más rápida de perder un socio.
-
-Da un paso más cerca.
-
-—Hizuru firmó con Paradis por la piedra que arde sin humo. Eso ya está. Pero la piedra hay que sacarla de la tierra, cargarla en barcos, cruzar un mar que Marley todavía patrulla, y llevarla hasta mi país. Meses de viaje. Barcos que se hunden. Tripulaciones que se pierden.
-
-Te mira a los ojos, primero al rojo y después al azul.
-
-—Mi propuesta es esta: sea socio de la casa Azumabito. No empleado. Socio. Un viaje suyo al mes, cuando usted quiera, con lo que se pueda llevar, desde Paradis hasta Hizuru. A cambio, la décima parte de todo lo que Hizuru gane con la piedra de esta isla. Para siempre. Una casa en la capital de Hizuru. Un nombre en nuestra familia. Y la protección de un país entero, si algún día la necesita.
-
-Abre el abanico otra vez. Se tapa la boca.
-
-—Pocas veces en la vida la casa Azumabito ofrece algo así a alguien que no lleva su sangre. —Los ojos le sonríen por encima del abanico—. ¿Qué me dice, emisario?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 934 · SHINGEKI · DÍA 50 · 12:14        ║
-║ Wall Rose · el borde del corte               ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La propuesta de Kiyomi. A las 18,  ║
-║ recepción en el palacio.                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T935)
+## COMANDO 1 (T935)
 mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
 
-## RESPUESTA 2 (T935)
+## RESPUESTA 1 (T935)
 
 > mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
 
@@ -113,10 +53,10 @@ Detrás de ustedes, sobre el adarve, se oyen pasos. Ymir se bajó de la baranda 
 
 ---
 
-## COMANDO 3 (T936)
+## COMANDO 2 (T936)
 esta bien entonces, eso lo puedo aceptar
 
-## RESPUESTA 3 (T936)
+## RESPUESTA 2 (T936)
 
 > esta bien entonces, eso lo puedo aceptar
 
@@ -161,4 +101,47 @@ Ymir la mira irse hasta que llega a los elevadores. Después se da vuelta hacia 
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:19, borde del corte de Wall Rose. Facundo aceptó la placa Azumabito. Kiyomi se fue ("Lo dejo en buena compañía"). Ymir, frente a Facundo, le pregunta qué le ofreció la señora del abanico. Facundo puede responder.
+## COMANDO 3 (T937)
+si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
+
+## RESPUESTA 3 (T937)
+
+> si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
+
+> —Sí, lo estaba haciendo. Pero lo rechacé.
+
+Ymir levanta una ceja. Abre la boca para decir algo.
+
+No llega. La agarras de la cintura, la acercas y la besas.
+
+Se queda rígida medio segundo, sorprendida, con las manos todavía en los bolsillos. Después las saca. Una se te agarra del sobretodo, a la altura del pecho; la otra te sube por la nuca hasta el pelo. Te devuelve el beso con ganas, sonriendo contra tu boca, ahí arriba, en el borde de la muralla cortada, con el viento sacudiéndoles la ropa y un kilómetro de vacío a un costado.
+
+Kase, en tu hombro, mira para otro lado con toda la dignidad del mundo.
+
+A lo lejos, en el mirador, alguien silba fuerte. Es Hange, con dos dedos en la boca. Al lado, Levi chasquea la lengua y se da vuelta. Pixis levanta la petaca en un brindis que nadie le pidió.
+
+Ymir se separa apenas. No te suelta el pelo.
+
+—Mmm. —Te mira desde muy cerca, con los ojos entrecerrados y la boca torcida en media sonrisa—. Rechazaste algo carísimo y después viniste a besarme delante de la reina, de medio ejército y de cinco países extranjeros.
+
+Se ríe bajito, por la nariz.
+
+—Ahora todo el mundo va a saber que el Emisario del Gato tiene dueña, lindo. —Te tira un poco del pelo, suave—. Espero que no te moleste. Porque a mí no.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 937 · SHINGEKI · DÍA 50 · 12:20        ║
+║ Wall Rose · el borde del corte               ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: A las 18, recepción en el palacio. ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:20, borde del corte de Wall Rose. Facundo besó a Ymir a la vista del mirador (Hange silbó, Levi chasqueó la lengua, Pixis brindó). Ymir: "Ahora todo el mundo va a saber que el Emisario del Gato tiene dueña, lindo. Espero que no te moleste. Porque a mí no." Facundo puede responder.

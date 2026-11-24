@@ -33,3 +33,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T933 · Deja de balancear las piernas cuando Kiyomi pide hablar a solas con Facundo.
 - T935 · Se baja de la baranda y se acerca a Facundo y Kiyomi por el adarve, haciéndose la distraída.
 - T936 · Mira a Kiyomi de arriba abajo. A Facundo: "¿Y qué te ofreció, lindo? Desde allá parecía que te estaba vendiendo algo carísimo."
+- T937 · Facundo le dice que rechazó la oferta y la besa en el borde del corte, a la vista de todos. "Ahora todo el mundo va a saber que el Emisario del Gato tiene dueña, lindo. Espero que no te moleste. Porque a mí no."

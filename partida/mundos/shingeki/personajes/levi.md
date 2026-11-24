@@ -23,3 +23,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T829 · "Lávate la cara. Después, cien cortes." A Facundo: Erwin quiere verlo, oficina del segundo piso.
 - T834 · Irá encadenado a Zeke a Liberio. "Si se mueve raro, le corto las piernas de nuevo."
 - T932 · "Tch. Cada vez es más grande."
+- T937 · Chasquea la lengua y se da vuelta al ver el beso.

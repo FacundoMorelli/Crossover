@@ -935,3 +935,4 @@ T933 · Shingeki · Wall Rose · "Si quisiera, ya lo habría hecho." Magath lo r
 T934 · Shingeki · Wall Rose · Kiyomi propone que sea socio de la casa Azumabito: un viaje al mes con la piedra, la décima parte para siempre.
 T935 · Shingeki · Wall Rose · Rechaza la sociedad: "El dinero no me importa." Kiyomi le ofrece la placa de la casa Azumabito sin pedir nada.
 T936 · Shingeki · Wall Rose · Acepta la placa Azumabito. Kiyomi se va. Ymir: "¿Y qué te ofreció, lindo?"
+T937 · Shingeki · Wall Rose · Besa a Ymir en el borde del corte, a la vista de todos. "El Emisario del Gato tiene dueña."

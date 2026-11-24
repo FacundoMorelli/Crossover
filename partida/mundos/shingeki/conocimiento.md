@@ -174,3 +174,4 @@
 - Kiyomi · T934 · Deduce (por Liberio y hoy) que Facundo transporta gente sin cruzar el mar y aparece/desaparece. No pregunta cómo.
 - Kiyomi · T935 · Por Facundo: no le importa el dinero, le gusta viajar, puede no aparecer en meses.
 - Kiyomi · T936 · Deduce (por cómo Ymir se acerca y lo mira) que Ymir y Facundo tienen algo. No lo dice.
+- Todos en el mirador (Historia, Erwin, Levi, Hange, Armin, Mikasa, Eren, Zackly, Pixis) y parte de las delegaciones · T937 · Ven a Facundo besar a Ymir: son pareja (público).
