@@ -31,3 +31,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T931 · Noche del día 48: "Dos días antes. ¿Me extrañaste, lindo?" Día 50: en la baranda del mirador comiendo una manzana.
 - T932 · El Eclipse se traga su manzana: "¡Ey!"
 - T933 · Deja de balancear las piernas cuando Kiyomi pide hablar a solas con Facundo.
+- T935 · Se baja de la baranda y se acerca a Facundo y Kiyomi por el adarve, haciéndose la distraída.

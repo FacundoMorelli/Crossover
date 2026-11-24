@@ -3,90 +3,10 @@
 
 ---
 
-## COMANDO 1 (T932)
-uso eclipse
-
-## RESPUESTA 1 (T932)
-
-> uso eclipse
-
-Das un paso al frente, hasta la baranda del mirador. Kase se agarra con las uñas a tu sobretodo.
-
-No levantas las manos. No dices nada. Solo miras la muralla.
-
-El ojo izquierdo se te calienta. El derecho se te enfría. Y entre los dos, en el aire, a quinientos metros, justo en el medio del tramo marcado con las banderas rojas, aparece un punto.
-
-Al principio es casi nada. Una mota oscura, del tamaño de una moneda, flotando a media altura de la muralla. Uno de los embajadores entrecierra los ojos, como si fuera una mancha en sus anteojos.
-
-Después crece.
-
-Un anillo de luz blanca se le enciende alrededor, finísimo, perfecto, como el borde del sol en un eclipse. Y adentro del anillo, el negro. No es oscuro: es negro. Una ausencia redonda, sin brillo ni fondo, que se traga la luz del mediodía y no devuelve nada.
-
-El viento cambia de dirección. Todo el aire del valle empieza a correr hacia ese punto. Las banderas rojas se tensan en sus mástiles, apuntándolo. El pasto de los dos lados de la muralla se acuesta hacia él en olas largas. La capa blanca de Historia se le pega a las piernas. La manzana se le escapa de la mano a Ymir, vuela por el aire y desaparece en el negro.
-
-—¡Ey! —protesta Ymir.
-
-El anillo se estira. Se vuelve un óvalo, después una línea. Corre a lo largo de la muralla en las dos direcciones a la vez, de bandera a bandera, exacto, como si alguien la hubiera trazado con una regla.
-
-Y la muralla empieza a caer hacia adentro.
-
-No se derrumba: se va. La piedra se despega en bloques del tamaño de casas, sin ruido de choque, y cae hacia el negro como hojas hacia un desagüe. Detrás de la piedra aparecen ellos: los colosales, de pie, dormidos, uno pegado al otro, cada uno de cincuenta metros, con la piel arrancada y los ojos abiertos sin ver. Decenas. En una fila tan larga como el tramo entero.
-
-Uno de los embajadores grita.
-
-Los colosales no se despiertan. Se inclinan hacia el negro, todos a la vez, despacio, como árboles que se doblan con el viento. Se les despega la carne en jirones de vapor que el punto se traga antes de que se disipen. Después los huesos. Después nada.
-
-Dura menos de un minuto.
-
-Cuando el negro se cierra, el viento se corta de golpe, como una puerta que se cierra. Las banderas rojas caen flojas en los mástiles.
-
-Entre las dos banderas no hay nada.
-
-Un kilómetro de Wall Rose desapareció. Los bordes de la muralla que quedan a cada lado están cortados limpios, lisos como vidrio, sin una grieta, sin un bloque suelto. En el medio, el campo del norte y el del sur se juntan por primera vez en más de cien años: el mismo pasto, a un lado y al otro, por donde antes había una pared de cincuenta metros. Ni un rastro de los colosales. Ni una nube de vapor. Ni un hueso.
-
-En el mirador, nadie respira.
-
-El embajador que había gritado se sienta en el piso de madera. Otro se saca el sombrero y lo aprieta contra el pecho con las dos manos. Los oficiales de Magath dan un paso atrás, al mismo tiempo, sin querer.
-
-Magath no. Magath se queda mirando el hueco, con las manos todavía detrás de la espalda, y la mandíbula le tiembla una sola vez.
-
-Kiyomi abre el abanico, muy despacio, y se tapa la boca con él.
-
-Eren, apartado, suelta el aire que estaba conteniendo. Se mira las manos. Después mira el hueco en la muralla, largo, con una expresión que nadie le vio nunca: como alguien que acaba de dejar en el piso algo que cargaba sin saber que pesaba.
-
-Levi silba bajito.
-
-—Tch. Cada vez es más grande.
-
-Historia da un paso al frente. Le tiembla un poco la voz cuando habla, pero no la baja.
-
-—Señores embajadores. —Se da vuelta hacia ellos—. Eso era un kilómetro. Las murallas tienen más de mil. Paradis va a borrar cada uno de ellos, delante de quien quiera mirar, durante los próximos años. Ese es nuestro compromiso.
-
-Uno de los embajadores de los cuatro países, un hombre mayor de barba blanca, se levanta despacio, sin dejar de mirar el hueco. Se acomoda la chaqueta. Te mira a ti.
-
-—Y si usted puede hacer esto con una muralla... —Le tiembla la voz—. ¿Qué nos garantiza que no lo hará con una ciudad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 932 · SHINGEKI · DÍA 50 · 12:04        ║
-║ Wall Rose, norte de Karanes · el mirador     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Demostración hecha. Un embajador   ║
-║ pregunta qué garantías hay.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T933)
+## COMANDO 1 (T933)
 por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
 
-## RESPUESTA 2 (T933)
+## RESPUESTA 1 (T933)
 
 > por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
 
@@ -149,10 +69,10 @@ Detrás de ti, en la baranda, Ymir deja de balancear las piernas.
 
 ---
 
-## COMANDO 3 (T934)
+## COMANDO 2 (T934)
 esta bien
 
-## RESPUESTA 3 (T934)
+## RESPUESTA 2 (T934)
 
 > esta bien
 
@@ -209,4 +129,54 @@ Abre el abanico otra vez. Se tapa la boca.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:14, borde del corte de Wall Rose. Kiyomi propone a Facundo ser socio de la casa Azumabito (un viaje al mes con piedra de Paradis a Hizuru; la décima parte de las ganancias para siempre; casa en Hizuru; nombre en la familia; protección). Espera respuesta. Facundo puede responder.
+## COMANDO 3 (T935)
+mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
+
+## RESPUESTA 3 (T935)
+
+> mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
+
+> —Mire, no lo voy a aceptar. El dinero no me importa. Y, como dije antes, me gusta viajar. Capaz que no aparezco en varios meses.
+
+Kiyomi se queda quieta detrás del abanico.
+
+Por un segundo, los ojos no le sonríen. Te mira como se mira una moneda que no se reconoce: dándola vuelta, buscándole el sello.
+
+Después baja el abanico. Y se ríe. Una risa corta, sincera, que no le habías oído nunca, sin nada de comerciante.
+
+—El dinero no le importa. —Lo repite como si fuera una frase en un idioma extranjero—. Cuarenta años negociando con reyes, generales y piratas, y es la primera vez que alguien me lo dice y le creo.
+
+Cierra el abanico con un chasquido suave.
+
+—Muy bien. Entonces no le ofrezco un negocio.
+
+Mete la mano en la manga del kimono y saca algo pequeño: una placa de laca negra, del tamaño de la palma, con el emblema de la casa Azumabito pintado en oro, y un cordón de seda roja trenzada colgando de un agujero en la esquina.
+
+—Esto lo tienen muy pocas personas fuera de mi familia. En cualquier puerto de Hizuru, en cualquier casa que lleve este emblema, en cualquier barco nuestro, en cualquier parte del mundo, quien lo muestre es recibido como un Azumabito. Con techo, comida y las preguntas guardadas. —Te la ofrece, con las dos manos, inclinando apenas la cabeza—. No le pido nada a cambio. Ni viajes ni piedra. Solo que, si algún día su camino pasa por mi país, nos visite.
+
+Hace una pausa. La sonrisa vuelve, más pequeña.
+
+—Y que, cuando aparezca después de esos varios meses, me cuente dónde estuvo. Una vieja mercader se aburre en su oficina.
+
+Espera, con la placa todavía en las manos extendidas.
+
+Detrás de ustedes, sobre el adarve, se oyen pasos. Ymir se bajó de la baranda y viene caminando hacia acá, con las manos en los bolsillos, despacio, haciéndose la distraída, mirando el paisaje.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 935 · SHINGEKI · DÍA 50 · 12:17        ║
+║ Wall Rose · el borde del corte               ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kiyomi ofrece la placa Azumabito.  ║
+║ A las 18, recepción en el palacio.           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:17, borde del corte de Wall Rose. Facundo rechazó ser socio. Kiyomi le ofrece, sin pedir nada, la placa de laca negra de la casa Azumabito (recibido como un Azumabito en todo Hizuru) y que la visite y le cuente dónde estuvo. Ymir se acerca. Facundo puede responder.
