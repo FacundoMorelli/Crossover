@@ -95,3 +95,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Megumi · T978 · Por Facundo: Tsumiki también volverá en un año.
 - Nanami · T980 · Por Yuji: Facundo dijo que en un año revivirá a todos los muertos por Sukuna y las maldiciones.
 - Nanami, Megumi, Yuji, Nobara · T981 · Por Facundo: pregunta si los revividos deben volver con la edad que tendrían; acuerdan que sí.
+- Nanami, Megumi, Yuji, Nobara · T984 · Por Facundo: puede pedir tres cosas.
+- Facundo · T984 · Por Nobara: Saori, su amiga del pueblo, se fue a Tokio y no supo más de ella.

@@ -60,3 +60,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T981 · "Es raro de cualquier forma. Peor es volver y que todos te hayan dejado atrás."
 - T982 · Gojo querría saber cómo perdió para quejarse, pero no sentirlo. "Basta de muertos en el desayuno." "¿Te comes un huevo quemado, o eres demasiado importante para eso?"
 - T983 · Satisfecha porque Facundo se come el huevo quemado sin quejarse.
+- T984 · "Escribes torcido." Cuenta de Saori (canon: Saori Fujinuma), la única que la trataba bien en el pueblo, se fue a Tokio; no sabe más. "Es una tontería mía. Olvídalo."

@@ -109,3 +109,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T981 · Junpei tendría su edad, podría venir a la escuela. "¿Se van a acordar? De que murieron. ¿De cómo fue?"
 - T982 · No quiere que Junpei recuerde cómo lo deformó Mahito.
 - T983 · Le hace huevos a Megumi y lo mira comer. "Volver y que tu casa no esté es como volver a morir un poco."
+- T984 · Propone que las maldiciones existan pero no puedan matar a la gente común.

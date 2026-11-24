@@ -52,3 +52,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - T981 · Sobre Haibara (17, hace doce años): "Con la edad que deberían tener. Que no vuelvan a un mundo que siguió de largo sin ellos. Es lo único justo."
 - T982 · Haibara: "Yo lo vi en la mesa de la morgue. No hay razón para que él cargue con eso. Ya lo cargo yo." Propone el acuerdo: que sepan que murieron, sin el recuerdo del momento.
 - T983 · Lista: Shibuya a medias (estación cerrada; círculo de ~200 m del dominio de Sukuna baldío); Shinjuku, zona de exclusión de kilómetros, diez años. "Morelli-kun. ¿Cuántas cosas puede pedirle, exactamente?"
+- T984 · Rechaza usar un deseo en su brazo: "Mal uso de los recursos. Se puede vivir con un brazo." "Escribo torcido. Igual, no." Sobre maldiciones que no maten: "Los hechiceros nos quedaríamos sin trabajo. No sería tan malo."

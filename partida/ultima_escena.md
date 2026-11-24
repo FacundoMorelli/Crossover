@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T981)
-asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
-
-## RESPUESTA 1 (T981)
-
-> asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
-
-> —Así es. Ahora que están los cuatro aquí: ¿quieren que, cuando los reviva, tengan la edad que deberían tener ahora?
-
-La cocina se queda en silencio. Solo se oye el huevo chisporroteando en la sartén, que Yuji olvidó por completo.
-
-Nanami es el primero en hablar. No levanta la vista de la mesa.
-
-—Haibara tenía diecisiete años. —Lo dice como quien lee un dato de un informe—. Si vuelve con diecisiete, va a despertarse en un mundo donde su compañero de clase tiene veintiocho, un solo brazo y un trabajo que odia. Donde sus padres son viejos. Donde todo lo que conocía cambió. —Se pone los anteojos otra vez—. Doce años que no vivió, y que nadie le va a devolver.
-
-Hace una pausa.
-
-—Pero si vuelve con veintinueve, despierta con un cuerpo de adulto y la cabeza de un chico. Sin recuerdos de esos doce años, porque nunca los vivió.
-
-Megumi levanta la cabeza desde la punta de la mesa. Tiene la voz ronca.
-
-—Tsumiki era un año mayor que yo. —Mira el mantel—. Si vuelve como estaba, va a ser más chica que yo. Casi lo mismo. Pero Gojo... —Se interrumpe—. Si Gojo vuelve como estaba, no cambia nada. Murió hace cuatro meses.
-
-—Junpei tendría la misma edad que nosotros —dice Yuji, en voz baja, con la espátula colgando de la mano—. Podría... podría venir a la escuela. Con nosotros. Si quisiera.
-
-Nobara se cruza de brazos, apoyada en la mesada.
-
-—Es raro de cualquier forma —dice—. No hay una opción que no sea rara. —Mira a Nanami—. Pero a mí me parece peor volver y que todos te hayan dejado atrás.
-
-Nanami asiente, muy despacio.
-
-—Con la edad que deberían tener —dice al fin—. Que no vuelvan a un mundo que siguió de largo sin ellos. Que vuelvan a ocupar el lugar que les tocaba. —Te mira—. Para los que murieron hace poco, la diferencia es mínima. Para los que murieron hace años... es lo único justo.
-
-Megumi asiente. Yuji también. Nobara se encoge de hombros, que en ella es un sí.
-
-Yuji mira la sartén. El huevo se quemó por abajo. No le importa.
-
-—Oye, Facundo —dice, despacio—. Cuando vuelvan... ¿se van a acordar? De que murieron, digo. ¿De cómo fue?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 981 · JUJUTSU · 25/04/2019 · 07:04     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Revividos con la edad que deberían ║
-║ tener. Yuji: ¿recordarán cómo murieron?      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T982)
+## COMANDO 1 (T982)
 la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
 
-## RESPUESTA 2 (T982)
+## RESPUESTA 1 (T982)
 
 > la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
 
@@ -115,10 +59,10 @@ Te pone el plato con el huevo quemado delante, en la mesa, sin ceremonia.
 
 ---
 
-## COMANDO 3 (T983)
+## COMANDO 2 (T983)
 yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
 
-## RESPUESTA 3 (T983)
+## RESPUESTA 2 (T983)
 
 > yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
 
@@ -163,4 +107,67 @@ Se queda callado un momento, con la mano sobre el diario. Después te mira, con 
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:12, cocina. Facundo se comió el huevo quemado y ofreció reconstruir las ciudades. Nanami y Megumi listan lo destruido (Shibuya, Shinjuku, colonias del Juego). Megumi volvió a comer. Nanami pregunta cuántas cosas puede pedir exactamente. Facundo puede responder.
+## COMANDO 3 (T984)
+puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
+
+## RESPUESTA 3 (T984)
+
+> puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
+
+> —Puedo pedirle tres. Pero lo de los muertos, la edad y que sepan que murieron puede ser uno solo, bien pedido. Reconstruir, el segundo. Y el tercero... ¿hay algo más que quieran, que no se pueda hacer normalmente?
+
+La cocina se queda callada otra vez.
+
+Yuji y Nobara se miran. Después, al mismo tiempo, los dos miran a Nanami. A la manga doblada y sujeta con el alfiler.
+
+Nanami lo nota. Suspira por la nariz, largo, como quien ve venir una reunión que no quería tener.
+
+—No —dice, antes de que nadie abra la boca.
+
+—¡Pero Nanami-san...! —empieza Yuji.
+
+—No. —Nanami se acomoda los anteojos con la mano que le queda—. Un deseo que sirve para una sola persona, cuando podría servir para miles, es un mal uso de los recursos. Me acostumbré. Escribo con la derecha desde los cinco años. Se puede vivir con un brazo.
+
+—Escribes torcido —dice Nobara, cruzada de brazos.
+
+—Escribo torcido —admite Nanami—. Igual, no.
+
+Megumi deja los palillos sobre el plato. Ya se comió casi todo el huevo.
+
+—Las maldiciones —dice, despacio, mirando la mesa—. Nacen de lo que la gente siente. Miedo. Odio. Mientras haya gente, va a haber maldiciones. —Levanta la vista—. Podrías pedir que no existan más. Pero mañana nacerían otras. No sirve.
+
+—¿Y si pides que no puedan matar a nadie? —dice Yuji, entusiasmado de golpe—. ¡Que existan, pero que no puedan matar a la gente común! ¡Que solo puedan asustar!
+
+Megumi lo piensa. Nanami también. Se miran.
+
+—Los hechiceros nos quedaríamos sin trabajo —dice Nanami, muy serio.
+
+Pausa.
+
+—No sería tan malo —agrega.
+
+Nobara se ríe. Una carcajada corta, sorprendida.
+
+Después se pone seria, de golpe. Se da vuelta hacia ti, apoyada en la mesada, con la espátula todavía en la mano.
+
+—Yo tengo una —dice—. No sé si se puede. —Duda, cosa rara en ella—. En mi pueblo, en el campo, había una chica. Saori. Era la única que me trataba bien. Se fue a Tokio antes que yo, porque en el pueblo la trataban como basura. —Aprieta la espátula—. No murió por una maldición. Solo se fue y no supe más nada. —Se encoge de hombros, como si no importara, y se nota que importa—. Pero eso no es un deseo para todos. Es una tontería mía. Olvídalo.
+
+Se da vuelta hacia la sartén. Rompe otro huevo, con más fuerza de la necesaria.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 984 · JUJUTSU · 25/04/2019 · 07:16     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tercer deseo: ideas del grupo.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:16, cocina. Facundo explicó los tres deseos (1: muertos con edad y sin recuerdo; 2: reconstrucción; 3: abierto). Ideas: Nanami rechaza recuperar su brazo; Megumi descarta borrar maldiciones; Yuji propone que no puedan matar a gente común (Nanami: "no sería tan malo"); Nobara menciona a Saori y dice "olvídalo". Facundo puede responder.
