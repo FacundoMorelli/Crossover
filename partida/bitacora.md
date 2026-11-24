@@ -831,3 +831,4 @@ T829 · Shingeki · Mitras · Patio: Mikasa pregunta qué le dijo a Eren; Eren c
 T830 · Shingeki · Mitras · Oficina de Erwin: le pide el plan para los próximos cinco días.
 T831 · Shingeki · Mitras · Plan: Zeke primero, después Willy. Erwin llama a Levi.
 T832 · Shingeki · Trost · Teletransportación con Levi a la celda de Zeke. Zeke pide hablar a solas; Levi no.
+T833 · Shingeki · Trost · Zeke a solas: el Martillo de Guerra de los Tybur; la fiesta era para declarar la guerra. Pide ir a Liberio.

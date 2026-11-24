@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T830)
-subo a la oficina de erwin
-
-## RESPUESTA 1 (T830)
-
-> subo a la oficina de erwin
-
-Te limpias los borceguíes en el felpudo de la puerta, a conciencia. Desde el patio, Levi te mira hacerlo y no dice nada, pero asiente apenas.
-
-La escalera de madera está barrida y huele a jabón. Al final del pasillo del segundo piso hay una puerta entreabierta, con luz de lámpara.
-
-La oficina de Erwin es chica, con una ventana al patio y un escritorio cubierto de papeles hasta los bordes. En la pared hay un mapa enorme de Paradis y otro más chico, hecho a mano con tinta nueva: Liberio, con la zona de internamiento, el puerto, la mansión Tybur y una plaza grande marcada con un círculo rojo. Hay cartas abiertas, listas de nombres, un vaso de agua a medio tomar y una taza de café frío.
-
-Erwin está de pie junto a la ventana. Se da vuelta cuando entras. El brazo derecho termina a la altura del codo, con la manga cosida. Tiene la cara cansada de alguien que no durmió bien en semanas y los ojos azules tan atentos como siempre.
-
-Te tiende la mano izquierda.
-
-—Facundo. —Te aprieta la mano con firmeza—. Historia me mandó un mensajero hace diez minutos. Dice que llegaste por la escalinata con el sol. —Mira a Kase—. Y que los dos están enteros.
-
-Te señala la silla frente al escritorio y se sienta en la suya.
-
-—Voy a ser directo, porque nos quedan cinco días. —Apoya la mano sobre los papeles—. La comitiva está lista. La reina, Ymir, Levi, Hange, Mikasa, Eren y yo. Pixis consiguió ropa de gala al estilo de Marley, copiada de los dibujos que trajiste. Historia escribió un discurso y lo practica todas las noches delante de Ymir.
-
-Desliza un papel hacia ti: una lista con tres renglones subrayados.
-
-—Pero tengo tres problemas. —Los toca uno por uno con el dedo—. Uno: no sabemos nada de Tybur desde hace veinticuatro días. No sabemos si sigue firme, si Marley lo descubrió, si cambió de idea. Dos: no sabemos dónde vamos a dormir en Liberio, ni cómo vamos a entrar a la fiesta sin que nos maten en la puerta. Tres: no sabemos qué hacer si es una trampa. Si Marley nos espera con todos sus guerreros y sus cañones.
-
-Se reclina en la silla.
-
-—Y hay una cosa más. —Lo dice más lento—. Zeke pide verte. Todas las semanas. Ayer le dijo a Levi que lo que se guardó «para después» es sobre la fiesta. Que solo te lo va a decir a ti.
-
-Te mira fijo, con los ojos azules muy quietos.
-
-—Necesito saber cuál es tu plan para los próximos cinco días.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 830 · SHINGEKI · DÍA 35 · 06:45        ║
-║ Mitras · oficina de Erwin                    ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Plan para Liberio. Zeke quiere hablar.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T831)
+## COMANDO 1 (T831)
 primero voy a hablar con zeke, despues con willy
 
-## RESPUESTA 2 (T831)
+## RESPUESTA 1 (T831)
 
 > primero voy a hablar con zeke, despues con willy
 
@@ -105,10 +53,10 @@ Levi guarda el pañuelo en el bolsillo. No pregunta nada más.
 
 ---
 
-## COMANDO 3 (T832)
+## COMANDO 2 (T832)
 con la teletransportación, agarro a levi y vamos a trost
 
-## RESPUESTA 3 (T832)
+## RESPUESTA 2 (T832)
 
 > con la teletransportación, agarro a levi y vamos a trost
 
@@ -165,4 +113,68 @@ Levi se apoya contra la pared de enfrente, cruza los brazos y no se mueve.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:52, sótano de la Guarnición de Trost. Facundo y Levi frente a la celda de Zeke (encadenado de un tobillo, barba larga, lentes rajados, libro de botánica). Zeke: "Tardaste veinticuatro días." Pide hablar a solas con Facundo; Levi, contra la pared: "Ni en sueños."
+## COMANDO 3 (T833)
+esta bien levi, puedes irte, 5 minutos tienes zeke, si no terminas en ese tiempo levi entra y escucha el resto
+
+## RESPUESTA 3 (T833)
+
+> esta bien levi, puedes irte, 5 minutos tienes zeke, si no terminas en ese tiempo levi entra y escucha el resto
+
+> —Está bien, Levi, puedes irte. Cinco minutos tienes, Zeke. Si no terminas en ese tiempo, Levi entra y escucha el resto.
+
+Levi te mira un segundo largo. Después mira a Zeke.
+
+—Cinco. —Se despega de la pared—. Los cuento.
+
+Va hasta el final del pasillo y les hace una seña a los dos guardias, que dejan las cartas y lo siguen sin preguntar. Se paran los tres al pie de la escalera, de espaldas, a veinte metros. Levi saca un reloj de bolsillo y lo abre.
+
+Zeke deja el libro sobre la cama. Se inclina hacia los barrotes, con los codos en las rodillas, y baja la voz.
+
+—Voy a ser rápido, porque ese hombre cuenta en serio. —Se acomoda los lentes—. Son dos cosas.
+
+Levanta un dedo.
+
+—La familia Tybur no es solo una familia rica. Guarda uno de los Nueve. El Martillo de Guerra. —Te mira fijo—. Nadie fuera de la familia sabe quién lo porta. Ni el alto mando, ni yo. Pero no es Willy. Willy es la cara, el que habla. El martillo lo tiene otro. Alguien que esa noche va a estar cerca de él, seguro.
+
+Levanta el segundo dedo.
+
+—Lo otro es peor. —Respira hondo—. Esa fiesta no la inventaste tú. Hace más de un año, antes de que tú aparecieras, Willy y el alto mando ya la estaban preparando. Una fiesta enorme en Liberio, con embajadores de todo el mundo, con un escenario en la plaza. ¿Para qué?
+
+Hace una pausa.
+
+—Para declararle la guerra a Paradis delante de todos. Para que el mundo entero se uniera contra la isla. Lo escuché en el cuartel general cuando todavía era el jefe de los guerreros.
+
+Se recuesta un poco hacia atrás.
+
+—Lo que tú pactaste con él es la misma fiesta. El mismo escenario, los mismos embajadores, los mismos cañones en los techos. Todo ya estaba listo para la guerra. —Se encoge de hombros—. Puede que Willy haya cambiado de idea por ti. Es un hombre raro, más inteligente de lo que parece. O puede que solo haya cambiado el discurso, y no el final.
+
+Al fondo del pasillo, Levi mira el reloj.
+
+—Dos minutos.
+
+Zeke se inclina otra vez, rápido.
+
+—Así que te pido una sola cosa. —Se agarra de los barrotes—. Llévame. A Liberio. Encadenado, a Levi, a quien quieras. Si es una trampa, voy a ser el único en esa plaza que sabe dónde están los cañones, quién manda a los soldados y por dónde se sale.
+
+Te sostiene la mirada detrás de los lentes rajados.
+
+—Y quiero estar ahí cuando la reina de los demonios firme la paz. Quiero ver la cara de Magath.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 833 · SHINGEKI · DÍA 35 · 06:56        ║
+║ Trost · sótano de la Guarnición, celda       ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Hablar con Willy.                            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:56, celda de Zeke en Trost. Zeke reveló: los Tybur guardan el Martillo de Guerra (no lo porta Willy); la fiesta era desde hace un año un plan de Willy y el alto mando para declarar la guerra a Paradis; puede que Willy solo haya cambiado el discurso. Pide ir a Liberio encadenado ("el único que sabe dónde están los cañones") y ver la cara de Magath. Levi al fondo del pasillo: "Dos minutos."
