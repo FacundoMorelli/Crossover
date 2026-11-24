@@ -99,3 +99,4 @@
 - 16:10-23:10 · (T715) Facundo y Usopp refuerzan el Merry (planchas de hierro, hielo de la Hie Hie, la Luna). El espíritu del Merry (Klabautermann) repara a su lado (canon: aparecía más tarde). 23:10: el CP9 ataca a Iceburg en la Galley-La (canon); Robin está con ellos.
 - 23:15 · (T716, corregido) Primera noche: cinco enmascarados (CP9, con Robin) balean a Iceburg y revuelven su cuarto buscando los planos; no los encuentran; huyen. Iceburg ve la cara de Robin (canon). La revelación del CP9 y el incendio son la segunda noche.
 - 23:16 · (T717) Iceburg se cura de golpe de los balazos (semilla de Facundo, sin testigos). CAMBIO: no queda convaleciente.
+- 23:58 · (T721) Iceburg decide no acusar a Robin ni a los Sombrero de Paja (canon: declaraba haber visto a Robin; la ciudad los cazaba).

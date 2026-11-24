@@ -149,3 +149,5 @@
 - Facundo · T719 · Por Iceburg: el Gobierno busca los planos de un arma antigua que le dejó su maestro.
 - Iceburg · T720 · Por Facundo: los atacantes eran Lucci, Kaku y Kalifa. Lo cree (le cierran las pistas). Deduce que el cuarto es Blueno.
 - Facundo · T720 · Por Iceburg: los planos los tiene "alguien que no los quiere" (Franky); mañana irán por él.
+- Facundo · T721 · Por Iceburg: los planos los tiene Franky, jefe de la familia Franky.
+- Iceburg · T721 · Confirma (sin palabras) que el "poroto" fue de Facundo.

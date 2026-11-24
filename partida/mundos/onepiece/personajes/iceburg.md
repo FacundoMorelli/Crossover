@@ -14,3 +14,4 @@ ESTADO: activo
 - T718 · "¿Fuiste tú lo del poroto? ¿Qué hace un pirata en mi cuarto, la noche en que su arqueóloga me disparó?"
 - T719 · "Eso explica la cara que tenía." "¿Sabes quiénes eran los otros cuatro?"
 - T720 · Se entera de Lucci, Kaku y Kalifa. "Kalifa me trae el café todas las mañanas." Deduce a Blueno. "¿Qué piensas hacer, pirata?"
+- T721 · Promete no culpar a los Sombrero de Paja. "Gracias por el poroto." Pide cuidar a Franky. RELACIÓN: aliado.
