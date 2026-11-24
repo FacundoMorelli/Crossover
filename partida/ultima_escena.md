@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T890)
-le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
-
-## RESPUESTA 1 (T890)
-
-> le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
-
-Sacas una semilla del ermitaño y se la pones a Luffy en la boca, sin preguntar.
-
-Luffy la mastica por reflejo. Se le abren los ojos de golpe.
-
-Los moretones se le borran de la piel como manchas de agua. Las quemaduras se cierran. El temblor de las piernas se le va. La respiración se le acomoda, larga y llena. Las ojeras desaparecen y los ojos se le vuelven a encender.
-
-—¡¡AAAH!! —Salta en el lugar, se golpea el pecho con los dos puños—. ¡¡Como nuevo!! ¡¡Estoy como nuevo!! ¡Shishishi!
-
-Ivankov se queda con la boca abierta, con las pestañas postizas temblando.
-
-—¿Candy-boy...? ¡¿Qué milagro hormonal es ese?!
-
-> —Perdón, me olvidé de algo.
-
-Apoyas la mano en el pecho de Luffy, encima del corazón. La energía maldita te baja por el brazo, fría, precisa. Bajo tu palma, en la piel de Luffy, se dibuja un número romano que solo tú puedes ver, fino como una cicatriz de luz pálida: I.
-
-Luffy se mira el pecho. No ve nada.
-
-—¿Eh? ¿Qué me hiciste?
-
-Desapareces.
-
-Reapareces en la cubierta del Moby Dick, delante de Barbablanca, que te mira bajar sin entender. Le apoyas la palma en el costado, sobre el abrigo blanco. El número se le dibuja en la piel, debajo de la tela: II.
-
-Y vuelves al hielo, al lado de Luffy, antes de que Marco alcance a dar un paso.
-
-> —No se preocupen. No es nada malo. Es nada más para asegurarme, por si les pasa algo.
-
-En el Moby Dick, Barbablanca se abre el abrigo, se mira el costado y no ve nada. Se ríe, una carcajada corta que cruza la bahía.
-
-—¡Gurararara! ¡Qué mocoso más raro!
-
-Jinbe te mira con los ojos muy serios, como quien no entiende nada pero decide confiar. Crocodile resopla.
-
-No hay tiempo para más.
-
-Los tres Pacifistas, a treinta metros, abren la boca al mismo tiempo. Adentro se les junta una luz blanca, amarilla, cegadora, con un zumbido que sube de tono.
-
-Y en el borde del hielo, donde la bahía congelada toca el muro de la plaza, Akainu termina de bajar el último escalón. Apoya un pie en el hielo, y el hielo se derrite bajo su zapato con un siseo de vapor.
-
-Mira a Luffy. Te mira a ti.
-
-El brazo derecho le empieza a gotear magma.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 890 · ONE PIECE · DÍA 57 · 13:04       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Marcas: I Luffy · II Barbablanca.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T891)
+## COMANDO 1 (T891)
 saco el arco quincy y les disparo a los pacifistas, vayamos luffy
 
-## RESPUESTA 2 (T891)
+## RESPUESTA 1 (T891)
 
 > saco el arco quincy y les disparo a los pacifistas, vayamos luffy
 
@@ -139,10 +71,10 @@ La montaña de magma sale volando en línea recta, por encima del hielo, derriti
 
 ---
 
-## COMANDO 3 (T892)
+## COMANDO 2 (T892)
 jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
 
-## RESPUESTA 3 (T892)
+## RESPUESTA 2 (T892)
 
 > jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
 
@@ -209,4 +141,73 @@ Por primera vez en toda la guerra, se le mueve algo en la cara.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:05, bahía congelada de Marineford. Con Boogie Woogie, Facundo cambió a Luffy por Kizaru: Kizaru recibió el Dai Funka de Akainu (quemado, vivo, en un cráter: "Eso dolió mucho~"). Con otro aplauso trajo a Luffy de vuelta a su lado (una piedra quedó en la plaza). Luffy mareado y riéndose. Akainu, con el brazo de magma, mira a Facundo: "Tú."
+## COMANDO 3 (T893)
+akainu, muy mal de un almirante pegarle a un compañero
+
+## RESPUESTA 3 (T893)
+
+> akainu, muy mal de un almirante pegarle a un compañero
+
+> —Akainu, muy mal de un almirante pegarle a un compañero.
+
+Akainu no contesta.
+
+No se ríe ni se enoja. No le cambia la cara. Solo te mira, con los ojos chiquitos y oscuros bajo la gorra, como quien mira una mancha que hay que limpiar.
+
+```
+╔════════════════════════════════════════╗
+║ SAKAZUKI — AKAINU                      ║
+║ Almirante · Marina                     ║
+║ PODER: Magu Magu no Mi, Haki           ║
+║ AMENAZA: ALTA                          ║
+║ Diferencia estimada: x0,33 sobre ti    ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Magu Magu no Mi + Haki                       ║
+║ USUARIO: Sakazuki (Akainu) · One Piece       ║
+║                                              ║
+║ MISIÓN: Recibir un puño de magma de Akainu   ║
+║ en el pecho y que no te queme ni la ropa.    ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+```
+
+Detrás de ti, Luffy deja de reírse.
+
+—Facundo... —Se le pone seria la voz—. Ese tipo es malo. Es el que...
+
+Akainu da un paso sobre el hielo, que se derrite bajo su bota en un siseo de vapor. Después otro.
+
+—Los que se paran entre la justicia y la basura... —El brazo derecho se le vuelve a hinchar, rojo, negro, burbujeante, chorreando gotas de fuego líquido—. Arden con la basura.
+
+Se lanza.
+
+No corre: se derrama hacia adelante. El cuerpo se le vuelve magma de la cintura para arriba, un río de fuego con forma de hombre que cruza el hielo en un segundo, levantando una pared de vapor a los costados. El puño derecho viene echado hacia atrás, del tamaño de un barril, al rojo blanco.
+
+Apunta a tu pecho. Justo detrás de ti está Luffy.
+
+El calor llega antes que el puño. El hielo a tus pies se vuelve agua y el agua se vuelve vapor. Kase, en tu hombro, aplasta las orejas contra la cabeza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 893 · ONE PIECE · DÍA 57 · 13:06       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 220.440/240.000               ║
+║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, orejas aplastadas        ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Akainu ataca.                                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:06, bahía congelada. Facundo se burló de Akainu. Tasación: Akainu x0,33. Misión de copia emitida: recibir un puño de magma de Akainu en el pecho sin que te queme ni la ropa (ALTA). Akainu se lanza convertido en magma con el puño al pecho de Facundo; Luffy justo detrás. Kase en el hombro.

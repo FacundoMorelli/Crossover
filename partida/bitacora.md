@@ -891,3 +891,4 @@ T889 · One Piece · Marineford · Con Luffy en el hielo: "Perdón por llegar ta
 T890 · One Piece · Marineford · Semilla a Luffy. Marcas de Manecilla Inversa: I Luffy, II Barbablanca.
 T891 · One Piece · Marineford · Arco Quincy: destruye tres Pacifistas. "¡Vayamos, Luffy!" Akainu lanza un puño de magma a Luffy.
 T892 · One Piece · Marineford · Boogie Woogie: Kizaru recibe el Dai Funka; Luffy vuelve. Akainu: "Tú."
+T893 · One Piece · Marineford · Burla a Akainu. Misión de copia: Akainu. Akainu se lanza con el puño de magma.

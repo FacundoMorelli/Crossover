@@ -10,3 +10,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: el cartel (400M, Enies Lobby); que es del Sombrero de Paja; lo vio destruir tres Pacifistas.
 ESTADO: activo
 - T892 · Su Dai Funka le pega a Kizaru (Boogie Woogie de Facundo). Mira a Facundo: "Tú."
+- T893 · Facundo se burla ("muy mal pegarle a un compañero"). "Los que se paran entre la justicia y la basura, arden con la basura." Se lanza contra Facundo con un puño de magma.

@@ -1,8 +1,8 @@
 {
-  "turno": 892,
+  "turno": 893,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "13:05",
+  "hora": "13:06",
   "edad": 18,
   "nivel": 27,
   "exp": 220440,
@@ -1102,6 +1102,13 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
+    },
+    {
+      "poder": "Akainu: Magu Magu no Mi (magma) y Haki",
+      "mundo": "onepiece",
+      "mision": "Recibir un puño de magma de Akainu en el pecho y que no te queme ni la ropa.",
+      "dificultad": "ALTA",
+      "emitida": "T893"
     }
   ],
   "misiones_de_copia_rechazadas": [],
