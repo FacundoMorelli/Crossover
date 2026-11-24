@@ -795,3 +795,4 @@ T793 · One Piece · Water 7 · "Hola, vicealmirante Garp." Garp leyó los infor
 T794 · One Piece · Water 7 · Recibe el Puño del Amor de Garp sin pestañear. COPIA Garp (+800 EXP).
 T795 · One Piece · Water 7 · Le sonríe a Garp. Garp le ofrece unirse a la Marina y se duerme a mitad de frase.
 T796 · One Piece · Water 7 · Koby y Luffy se reencuentran. Garp despierta y revela que el padre de Luffy es Dragon.
+T797 · One Piece · Water 7 · "¿Quiénes son los revolucionarios?" Robin y Garp explican. Dragon salvó a Luffy en Loguetown.

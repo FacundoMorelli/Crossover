@@ -3,86 +3,10 @@
 
 ---
 
-## COMANDO 1 (T794)
-a ver
-
-## RESPUESTA 1 (T794)
-
-> a ver
-
-> —A ver.
-
-Garp sonríe con todos los dientes.
-
-—¡PUÑO DEL AMOR!
-
-El puño te cae en la coronilla.
-
-El ruido es como un martillazo en un yunque gigante. El piso de madera se hunde debajo de tus borceguíes y se abre en un cráter de un metro, con las tablas astilladas hacia arriba como pétalos. La casa entera tiembla y los vidrios de las ventanas estallan hacia afuera, sobre el canal. Del techo cae una lluvia de yeso. Una lámpara se descuelga y se hace pedazos contra la mesa.
-
-Kase, en el alféizar, ni abre los ojos.
-
-Tú no te mueves. Tampoco pestañeas. El pelo blanco y azul se te sacude por el aire desplazado y vuelve a caer.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER — COMPLETADO               ║
-║ Puño de Monkey D. Garp                       ║
-║ USUARIO ORIGINAL: Monkey D. Garp · One Piece ║
-║                                              ║
-║ Fuerza y resistencia · Puño del Amor ·       ║
-║ Haki de armadura y observación · Haki del    ║
-║ Rey · Galaxy Impact · todo lo que Garp       ║
-║ llega a hacer                                ║
-║ DOMINIO: total                               ║
-╚══════════════════════════════════════════════╝
-```
-
-[+800 EXP]
-
-Garp se queda con el puño apoyado sobre tu cabeza. Lo levanta despacio y se mira los nudillos. Están rojos. Los sopla.
-
-Después echa la cabeza hacia atrás y suelta una carcajada que hace temblar lo poco que queda de las ventanas.
-
-—¡Bwahahaha! ¡Me dolió a mí! ¡Es como pegarle a la Red Line! —Sacude la mano en el aire—. ¡Hace treinta años que no me dolía un puño!
-
-Koby tiene la boca tan abierta que le entra un pedazo de yeso. Helmeppo se agarra los lentes con las dos manos.
-
-—No pestañeó —susurra Helmeppo—. Koby, no pestañeó.
-
-—Lo vi... lo vi...
-
-Luffy sigue enterrado hasta el cuello en el piso y se ríe a carcajadas.
-
-—¡Shishishi! ¡Ni le dolió! ¡Abuelo, a él ni le dolió!
-
-—¡Cállate, tú sí que te dolió!
-
-Garp le da otro coscorrón a Luffy sin mirarlo. Te sigue mirando a ti con la sonrisa enorme, pero en el fondo de los ojos asoma algo más serio, algo de viejo soldado que acaba de medir a alguien y no le alcanzó la regla.
-
-Robin, en el sillón, vuelve a abrir el libro como si nada. Sonríe detrás de las páginas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 794 · ONE PIECE · DÍA 38 · 10:07       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T795)
+## COMANDO 1 (T795)
 le sonrio a garp
 
-## RESPUESTA 2 (T795)
+## RESPUESTA 1 (T795)
 
 > le sonrio a garp
 
@@ -141,10 +65,10 @@ Luffy, sentado arriba de la mesa, se frota la oreja y aprovecha para robarle una
 
 ---
 
-## COMANDO 3 (T796)
+## COMANDO 2 (T796)
 espero a que se despierte garp
 
-## RESPUESTA 3 (T796)
+## RESPUESTA 2 (T796)
 
 > espero a que se despierte garp
 
@@ -211,4 +135,64 @@ Luffy ladea la cabeza, con la galleta a medio camino de la boca.
 
 ---
 
-ESTADO AL CIERRE: comedor destrozado. Garp acaba de revelar que el padre de Luffy es Monkey D. Dragon; toda la tripulación gritó. Luffy: "¿Tengo papá?". Garp le pidió a Facundo que piense lo de unirse a la Marina. Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos por Enies Lobby (Día 38 a la tarde).
+## COMANDO 3 (T797)
+eh, quienes son los revolucionarios?
+
+## RESPUESTA 3 (T797)
+
+> eh, quienes son los revolucionarios?
+
+> —Eh, ¿quiénes son los revolucionarios?
+
+Garp abre la boca para contestar, pero Robin se adelanta. Cierra el libro sobre las rodillas, con la voz tranquila de quien da una clase.
+
+—El Ejército Revolucionario. —Te mira a ti y después a Luffy—. No son piratas. No tienen bandera ni buscan tesoros. Quieren derribar al Gobierno Mundial. No desde el mar, sino desde adentro de los países: le hablan a la gente, la organizan y la arman. Donde un rey abusa de su pueblo, al poco tiempo aparece una revuelta. Y detrás, casi siempre, están ellos.
+
+Hace una pausa.
+
+—Y los dirige un solo hombre. Nadie sabe bien cómo es su cara. El Gobierno lo llama el criminal más peligroso del mundo. —Mira a Luffy—. Monkey D. Dragon.
+
+Garp asiente despacio. Por primera vez desde que entró, no se ríe. Deja la bolsa de galletas en la mesa.
+
+—El Gobierno le tiene más miedo a ese hombre que a cualquier pirata del mar. —Se rasca la cicatriz del ojo—. Los piratas quieren tesoros. Él quiere cambiar el mundo entero.
+
+Mira a Luffy.
+
+—¿Te acuerdas de Loguetown, mocoso? Cuando Smoker te tenía agarrado y apareció ese viento de la nada. La tormenta que los sacó del puerto.
+
+Luffy se queda quieto. Se le van los ojos hacia arriba, como si buscara algo en el techo.
+
+—...Un tipo con capa. En la lluvia. —Frunce el ceño—. Smoker lo conocía.
+
+—Ese era tu padre.
+
+Silencio otra vez.
+
+Nami se agarra la cabeza con las dos manos.
+
+—El abuelo es un héroe de la Marina... el padre es el criminal más buscado del mundo... ¡¿y él es pirata?! ¡¿Qué clase de familia es esta?!
+
+Usopp levanta la mano, temblando.
+
+—Yo voto por cambiar de capitán.
+
+—¡No se puede! —contesta Luffy, sin pensarlo, todavía mirando el techo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 797 · ONE PIECE · DÍA 38 · 10:34       ║
+║ Water 7 · casa de la Galley-La               ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el alféizar, al sol                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Barco nuevo en construcción (4-5   ║
+║ días). Salir de One Piece antes del Día 49.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: comedor destrozado. Robin y Garp acaban de explicar el Ejército Revolucionario y que Dragon salvó a Luffy en Loguetown. Nami escandalizada, Usopp quiere cambiar de capitán. Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos (Día 38 a la tarde).

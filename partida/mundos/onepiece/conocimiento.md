@@ -192,3 +192,4 @@
 - Garp · T793 · Por los informes de los vicealmirantes del Buster Call (Onigumo y otros): Facundo voló con un barco y frenó balas de cañón en el aire en Enies Lobby. Deduce que es pareja de Robin (los vio).
 - Garp, Koby, Helmeppo, tripulación · T794 · Ven a Facundo recibir el Puño del Amor de Garp sin pestañear (el piso se hundió). Garp lo informará o no, a su manera.
 - Tripulación, Facundo, Koby, Helmeppo · T796 · Por Garp: el padre de Luffy es Monkey D. Dragon, el revolucionario.
+- Tripulación, Facundo · T797 · Por Robin: el Ejército Revolucionario quiere derribar al Gobierno Mundial; Dragon lo dirige. Por Garp: Dragon salvó a Luffy en Loguetown con el viento.
