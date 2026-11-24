@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1039 · Día 1 16:13 · Facundo lo/la ve en las pantallas o siente su presencia desde la avenida.
 DIÁLOGOS CLAVE:
+- T1040 · "Mmm... ♠ Eso es justo lo que quería escuchar."
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: En la Torre, esperando el duelo.
+ESTADO: en el ring, empieza el duelo (T1040).

@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1037)
-ehhh quieren que la guarde?
-
-## RESPUESTA 1 (T1037)
-
-> ehhh quieren que la guarde?
-
-> —Ehhh... ¿quieren que la guarde?
-
-Se miran entre ellos.
-
-—Si la guardas tú, no la encuentra nadie —dice Uryū, sin dudar—. Ni él, ni nadie. Tus cosas aparecen y desaparecen de la nada. —Mira de reojo a Yuzu y a Keigo, que están a unos pasos peleándose por una brocheta, y baja la voz—. Te vi sacar las espadas de ningún lado.
-
-—No. —Ichigo niega con la cabeza, firme—. Piénsalo. Si la tienes tú, viene a buscarla y no la encuentra. Y tú no vas a estar, porque te vas en unos días. ¿Qué crees que va a hacer? Va a dar vuelta todo Karakura buscándola. —Se mete las manos en los bolsillos—. Si la dejamos aquí, o donde la pueda encontrar, viene, la agarra y me pelea a mí. Como siempre. Por lo menos sabemos dónde va a estar.
-
-—También le devolvemos su resurrección —dice Rukia, cruzada de brazos—. Una pantera de verdad en el medio de la ciudad. Kurosaki la puede aguantar, pero el pueblo no sé.
-
-—¡La aguanto bien!
-
-—No dije que no la aguantaras. Dije que el pueblo no.
-
-Orihime mira la espada en la copa del árbol, preocupada, con las manos juntas.
-
-—¿Y si se la damos a Urahara-san? —dice—. Él sabe guardar cosas. Y si Grimmjow viene a buscarla, la tienda tiene esas barreras, y Yoruichi-san, y Tessai-san...
-
-—Urahara la va a abrir en dos para ver qué tiene adentro —murmura Uryū.
-
-—Eso también —admite Rukia.
-
-Chad, que no había dicho nada, levanta la vista hacia ti.
-
-—Tú lo venciste —dice. Simple—. Es tuya. Tú decides.
-
-Los demás se callan. Te miran.
-
-Arriba, en el árbol, la nieve sigue cayendo sobre la empuñadura de la espada.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1037 · BLEACH · 21/12 · 21:21          ║
-║ Karakura · feria navideña, plaza del árbol   ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en brazos de Karin                     ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Qué hacer con la espada de         ║
-║ Grimmjow                                     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1038)
+## COMANDO 1 (T1038)
 ehh bueno, quedensela ustedes, densela a urahara, yo eh, me tengo que ir a hacer algo, no se cuando voy a volver, les doy el boton que tambien le di a willy tybur, si pasa algo apreten ese boton, voy a saber que estan en peligro o algo
 
-## RESPUESTA 2 (T1038)
+## RESPUESTA 1 (T1038)
 
 > ehh bueno, quedensela ustedes, densela a urahara, yo eh, me tengo que ir a hacer algo, no se cuando voy a volver, les doy el boton que tambien le di a willy tybur, si pasa algo apreten ese boton, voy a saber que estan en peligro o algo
 
@@ -122,10 +67,10 @@ Detrás de ustedes, la feria sigue: la música, las luces, la nieve falsa del es
 
 ---
 
-## COMANDO 3 (T1039)
+## COMANDO 2 (T1039)
 me despido y abro la puerta a un mundo nuevo
 
-## RESPUESTA 3 (T1039)
+## RESPUESTA 2 (T1039)
 
 > me despido y abro la puerta a un mundo nuevo
 
@@ -212,4 +157,86 @@ En la pantalla gigante, el reloj sigue bajando: 1:46:58.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 16:13, avenida frente a la Torre Celestial. Falta 1 h 47 min para el duelo Hisoka vs. Chrollo. Facundo siente a los dos arriba y a tres de la Tropa entre la multitud. Nadie lo vio llegar. Facundo puede actuar.
+## COMANDO 3 (T1040)
+entro a la torre a ver la pelea
+
+## RESPUESTA 3 (T1040)
+
+> entro a la torre a ver la pelea
+
+Las boleterías de la planta baja tienen carteles rojos: AGOTADO. Igual hay una marea de gente empujando hacia las puertas, con entradas, sin entradas, con entradas falsas que un revendedor vende en la esquina a gritos.
+
+Te metes en la marea.
+
+En la puerta, dos empleados de uniforme intentan revisar boletos y no pueden: la gente pasa en bloque, a los empujones, y ellos solo atinan a gritar que no corran. Pasas en el medio del bloque. Uno de los empleados te mira, mira al gato erizado en tu hombro, abre la boca para decir algo y lo arrastra la multitud para el otro lado.
+
+Adentro, los ascensores son una fila de puertas plateadas con números que suben hasta un piso que no termina nunca. El tuyo va lleno, apretado, con olor a perfume y a sudor. Una ascensorista con gorrito anuncia los pisos con voz de grabación. Todos bajan en el mismo: el estadio del Maestro de Piso.
+
+[17:58 · Torre Celestial · estadio del piso de los Maestros.]
+
+El estadio es un cráter. Gradas de cemento que bajan en anillos, llenas hasta el último escalón, y en el fondo, iluminado por reflectores, un ring cuadrado de piedra lisa, enorme, de cincuenta metros de lado. Arriba, pantallas que muestran el ring desde cuatro ángulos. Un comentarista en una cabina de vidrio grita en un micrófono. Hace calor. El aire vibra con los gritos.
+
+Te quedas de pie en un pasillo, en la parte alta de las gradas, con la espalda contra una columna.
+
+Las tres presencias de la avenida están aquí también. Las encuentras sin buscar: sentadas juntas, en la tercera fila de la grada del lado este, cerca del ring. Una es un muchacho rubio, de cara aniñada, con un celular en la mano y una sonrisa tranquila. Otra es bajita y está cubierta de pelo largo que le tapa la cara entera salvo un ojo. La tercera es una mujer de pelo violeta recogido y kimono corto, que no aplaude ni grita, con los brazos cruzados.
+
+A las seis en punto, las luces se apagan. El estadio entero ruge.
+
+Un reflector se enciende sobre la entrada norte del ring. Sale Hisoka, caminando despacio, con las manos en los bolsillos y una sonrisa enorme. Saluda a la grada con dos dedos. La gente enloquece.
+
+El otro reflector, sobre la entrada sur. Sale Chrollo. Lleva un abrigo largo con una cruz invertida en la espalda, y un libro bajo el brazo. No saluda a nadie.
+
+Se paran en el centro, a diez metros uno del otro.
+
+╔════════════════════════════════════════╗
+║ HISOKA MOROW                           ║
+║ Luchador · Transmutador                ║
+║ PODER: Bungee Gum, Texture Surprise    ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x70 sobre él  ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+╔════════════════════════════════════════╗
+║ CHROLLO LUCILFER                       ║
+║ Líder de la Tropa Fantasma ·           ║
+║ Especialista                           ║
+║ PODER: Skill Hunter (robo de           ║
+║        habilidades)                    ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x65 sobre él  ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+
+—Te advierto una cosa antes de empezar —dice Chrollo. No levanta la voz, pero los micrófonos del ring lo recogen y el estadio entero lo escucha—. Voy a usar todo lo que tengo. Todas las habilidades que robé. Y antes de que termine la pelea, voy a explicarte cada una.
+
+Hisoka se ríe bajito. Se le estira la sonrisa hasta las orejas.
+
+—Mmm... ♠ —Saca una carta de la manga, la hace girar entre los dedos—. Eso es justo lo que quería escuchar.
+
+El árbitro levanta la mano.
+
+—¡Hisoka contra Chrollo! ¡Duelo de Maestro de Piso! ¡Comiencen!
+
+Chrollo abre el libro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1040 · HUNTER X HUNTER · DÍA 1 · 18:00 ║
+║ Torre Celestial · estadio del Maestro de     ║
+║ Piso, gradas altas                           ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Ver el duelo                       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 18:00, estadio del Maestro de Piso de la Torre Celestial. Empieza el duelo Hisoka vs. Chrollo; Chrollo abre el libro. Shalnark, Kortopi y Machi en la 3.ª fila de la grada este. Facundo de pie en las gradas altas. Facundo puede actuar.

@@ -11,4 +11,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: Cerca de la Torre (presencia sentida).
+ESTADO: en la 3.ª fila de la grada este del estadio, mirando el duelo (T1040).

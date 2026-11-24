@@ -26,3 +26,4 @@
 
 ## LO QUE PASÓ
 - Día 1 16:13 · Facundo y Kase llegan a la avenida frente a la Torre Celestial, entre la multitud. Faltan 1 h 47 min para el duelo.
+- Día 1 18:00 · (T1040) Empieza el duelo Hisoka vs. Chrollo (canon). Facundo en las gradas.
