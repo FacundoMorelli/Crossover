@@ -29,3 +29,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T842 · Día 35: recibe el informe de Facundo. Muda a Levi y Zeke a Mitras; Hange y Armin estudian la plaza.
 - T865 · Repasa la demostración (día 50 a mediodía, Wall Rose; barco de Hizuru el 49). "¿Va a estar aquí el día cincuenta?"
 - T866 · Facundo promete estar el día 50. "Entonces vaya. Y vuelva." Lo esperan antes de las 11 sobre la muralla al norte de Karanes.
+- T930 · Día 48 12:21 · Sala de mapas. Ve llegar a Facundo por la puerta: "Día cuarenta y ocho. Llega dos días antes."

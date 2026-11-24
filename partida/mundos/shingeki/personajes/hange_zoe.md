@@ -18,3 +18,4 @@ ESTADO: activo
 - T569 · Llora al ver el dirigible. Muda ante el cartel de propaganda.
 - T575 · Grita, llora, dibuja todo. "¡No hizo ruido! ¡Ni un ruido!"
 - T576 · Se olvidó de usar la cámara de placas. "¡Otro kilómetro! ¡Por favor!"
+- T930 · Día 48 12:21 · Sala de mapas, con Erwin sobre los planos de Wall Rose. Se le cae el lápiz de la boca al ver llegar a Facundo.

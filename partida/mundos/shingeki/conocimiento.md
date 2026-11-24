@@ -167,3 +167,4 @@
 - Historia · T863 · Ve a Facundo decir "Permiso, su majestad", agarrar a Ymir y desaparecer con ella.
 - Erwin, Hange, Armin · T866 · Por Facundo: se va, pero estará el día 50 sin falta (quizá llegue ese mismo día).
 - Erwin, Hange, Armin · T867 · Ven a Facundo abrir una puerta de luz en la sala de mapas y cruzarla con el gato. Saludos para Historia e Ymir ("ya la despedí lo suficientemente bien a ella").
+- Erwin, Hange · T930 · Día 48 · Ven a Facundo volver por una puerta a la sala de mapas, dos días antes de lo prometido.

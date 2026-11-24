@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T927)
-mucho gusto, asi es
-
-## RESPUESTA 1 (T927)
-
-> mucho gusto, asi es
-
-> —Mucho gusto. Así es.
-
-El hombre de la capa verde te mira un momento más. Después mira alrededor: las cadenas rotas regadas por el puente, los presos sin grilletes, los guardias sentados contra la baranda con las manos en la cabeza.
-
-—Ya veo. —No pregunta cómo. Se le nota que quiere, pero no pregunta—. Me llamo Corvin. Del Ejército Revolucionario.
-
-Hace una inclinación corta con la cabeza, hacia ti y después hacia Luffy. A Luffy lo mira un segundo más, con una expresión rara, difícil de leer, como quien reconoce un parecido.
-
-—Sombrero de Paja. —Solo eso.
-
-—¡Hola! —Luffy lo saluda con la mano—. ¿Ustedes son buenos?
-
-Corvin parpadea. Uno de los revolucionarios que está detrás de él se tapa la boca para no reírse.
-
-—Intentamos serlo —contesta, serio.
-
-Luffy lo mira con los ojos entrecerrados, de arriba abajo, muy concentrado. Después asiente, satisfecho.
-
-—Bueno. Entonces está bien.
-
-Corvin se da vuelta hacia sus hombres y levanta la voz.
-
-—¡Rasmus, Ilse! ¡Organicen a los presos por grupos! ¡Agua, comida y mantas para los heridos! ¡Que los guardias queden atados en la torre de vigilancia! ¡Mandaremos más barcos por el resto! —Se vuelve hacia Robin y baja la voz—. No podemos llevarnos a todos hoy. Pero nadie va a volver a ponerles una cadena. Eso se lo prometo.
-
-Después le extiende la mano a Robin, con la palma hacia arriba. No la agarra. Espera.
-
-—Nico Robin. Nuestro comandante quiere hablar con usted. Hay cosas que buscamos los dos, y él cree que podemos encontrarlas juntos. —Una pausa corta—. El barco zarpa en cuanto esté lista.
-
-Robin no le toma la mano todavía.
-
-Se queda mirándola un momento. Después levanta la vista hacia ti. Tiene las manos todavía agarradas a tu sobretodo, y no las suelta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 927 · ONE PIECE · DÍA 57 · 17:46       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Despedir a Robin. Después,         ║
-║ Rayleigh. Shingeki: antes del D59 16:30.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T928)
+## COMANDO 1 (T928)
 le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
 
-## RESPUESTA 2 (T928)
+## RESPUESTA 1 (T928)
 
 > le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
 
@@ -127,10 +71,10 @@ Después sube.
 
 ---
 
-## COMANDO 3 (T929)
+## COMANDO 2 (T929)
 bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
 
-## RESPUESTA 3 (T929)
+## RESPUESTA 2 (T929)
 
 > bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
 
@@ -183,4 +127,80 @@ Luffy lo señala con el dedo, con los ojos brillando.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:51, bar de Shakky en Sabaody. Facundo y Luffy llegan. Rayleigh, con el diario de Marineford: "No pensé que iba a ser el mismo día." Luffy le dice que Facundo dice que él lo va a hacer fuerte. Facundo puede actuar.
+## COMANDO 3 (T930)
+bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
+
+## RESPUESTA 3 (T930)
+
+> bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
+
+> —Bueno, Luffy. Te dejo a solas con él. Yo me tengo que ir a viajar por el mundo. Nos vemos en dos años, capitán.
+
+Luffy se da vuelta de golpe.
+
+Se te queda mirando con la boca abierta, como si recién ahora entendiera que esa parte también iba en serio. Después aprieta los labios. Baja la vista. Se acomoda el sombrero de paja con una mano, muy despacio, hasta que le tapa los ojos.
+
+—Dos años —dice, bajito.
+
+Después levanta la cabeza, y está sonriendo. Enorme. Con los ojos brillosos.
+
+—¡Shishishi! ¡Cuando nos veamos, voy a ser mucho más fuerte que tú!
+
+Te pega un puñetazo en el pecho, flojo, de despedida. Después te abraza. Fuerte, con los brazos estirados dando dos vueltas alrededor de tu espalda, aplastando a Kase contra tu cuello. Kase gruñe. Luffy no lo suelta.
+
+—Gracias, Facundo. —Te lo dice al oído, sin gritar, por primera vez en todo el día—. Por Ace. Por todos.
+
+Te suelta y se da vuelta rápido, hacia la barra, para que no le veas la cara.
+
+—¡Oye, señora! ¡¿Tienes carne?!
+
+Shakky se ríe con el cigarrillo en la boca y se va a la cocina.
+
+Rayleigh no se levanta de la mesa. Te mira por encima del vaso, largo, con esa calma de mar quieto.
+
+—Así que eso era lo que querías decir con que viajabas mucho. —No es una pregunta. Levanta el vaso un poco, hacia ti, a modo de brindis—. Ve tranquilo, muchacho. Dentro de dos años te devuelvo a un capitán que valga la pena seguir.
+
+Te alejas un paso de la mesa. Levantas la mano.
+
+La puerta se abre en el medio del bar, entre la barra y la ventana redonda: un marco de luz recto, alto, que no pertenece a este lugar. Del otro lado no hay burbujas ni manglares, sino piedra gris, un ventanal alto y olor a papel viejo y a tinta.
+
+Luffy se da vuelta con un pedazo de carne en la boca y los ojos enormes.
+
+—¡¿Qué es esooo?!
+
+Cruzas.
+
+Sabaody se cierra detrás de ti.
+
+El aire es más frío, más seco. Hay silencio, ese silencio grueso de los edificios de piedra. Estás de pie en la sala de mapas del palacio de Mitras, exactamente donde te fuiste: la mesa larga cubierta de planos, el ventanal que da a los techos de la capital, el mapa enorme de Paradis clavado en la pared, con alfileres de colores sobre Wall Rose al norte de Karanes.
+
+Por el ventanal entra luz de mediodía.
+
+En la mesa, inclinados sobre un plano de la muralla, hay dos personas. Hange, con los anteojos en la frente y un lápiz atravesado en la boca, marcando algo con el dedo. Y Erwin, de pie, con la única mano apoyada en el borde de la mesa y la manga vacía doblada.
+
+Los dos levantan la cabeza al mismo tiempo.
+
+A Hange se le cae el lápiz de la boca. Rebota en el plano y rueda hasta el borde de la mesa.
+
+Erwin no se mueve. Te mira de arriba abajo: el sobretodo, el gato, la cara. Mira el reloj de pared que hay sobre la puerta.
+
+—Día cuarenta y ocho —dice, tranquilo—. Llega dos días antes.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 930 · SHINGEKI · DÍA 48 · 12:21        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 73% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Demostración, día 50, mediodía,    ║
+║ Wall Rose al norte de Karanes.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, día 48 12:21, sala de mapas del palacio de Mitras. Facundo acaba de llegar desde One Piece (Luffy quedó con Rayleigh en el bar de Shakky). Erwin y Hange, sobre los planos de la demostración, lo ven: "Día cuarenta y ocho. Llega dos días antes." Facundo puede actuar.

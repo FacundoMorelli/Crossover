@@ -1,8 +1,8 @@
 {
-  "turno": 929,
-  "mundo_actual": "onepiece",
-  "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "17:51",
+  "turno": 930,
+  "mundo_actual": "shingeki",
+  "fecha_local": "Día 48 tras Shiganshina (año 850)",
+  "hora": "12:21",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -262,7 +262,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (One Piece)"
+    "poder_mostrado": "persona común (Shingeki)"
   },
   "armas": [
     {
@@ -1593,24 +1593,8 @@
         "corre_desde": "T276 al ritmo de Facundo",
         "nota": "el año dentro de la Habitación del Tiempo no cuenta para los relojes"
       },
-      "onepiece": {
-        "llegada": "Día 1, 14:10, Islas Conomi (Arlong Park, cap. ~71)",
-        "corre": "al ritmo de Facundo",
-        "salida": "Día 9 16:07 (Going Merry, rumbo a Whisky Peak); corre desde T398",
-        "regreso": "Día 20 18:00 (T580): ~11 días después de irse (Shingeki ~10 d, Black Clover ~1,4 d)",
-        "salida_3": "Día 44 11:25 (Thriller Bark, desde la cubierta del Thousand Sunny). Prometió volver donde estén. Corre desde T822.",
-        "regreso_3": "Día 56 15:55 (T867): Archipiélago Sabaody, Grove 41, junto al Thousand Sunny. 12 días y 4 horas y media después de irse (todo en Shingeki)."
-      },
-      "shingeki": {
-        "llegada": "Año 850, Operación de recuperación de Wall Maria, 10:40 (cap. ~77)",
-        "corre": "al ritmo de Facundo",
-        "salida": "Año 850, Día 4 tras Shiganshina, 12:30 (Mitras). Prometió volver en días o semanas. Corre desde T450.",
-        "regreso": "Día 5 tras Shiganshina 21:07 (T489): 1 día y 8 horas y media después de irse (todo en Black Clover)",
-        "segunda_salida": "Día 11 tras Shiganshina 12:33 (Mitras, escalinata). Prometió volver antes de la fiesta Tybur (día 40, al anochecer). Corre desde T580.",
-        "fiesta_equivalencia": "Fiesta Tybur (Shingeki día 40, anochecer ~19:00) = One Piece Día 50 ~00:30. Salir de One Piece a más tardar el Día 49.",
-        "regreso_2": "Día 35 tras Shiganshina 05:58 (T822): 23 días y 17 horas y media después de irse (todo en One Piece). Puerta en la escalinata del palacio de Mitras.",
-        "salida_3": "Día 47 tras Shiganshina 10:25 (sala de mapas del palacio de Mitras). Prometió volver el día 50 antes de las 11 (Wall Rose, norte de Karanes). Corre desde T867."
-      },
+      "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
+      "shingeki": "VUELVE Día 48 12:21 (sala de mapas, palacio de Mitras). Demostración: día 50 mediodía, Wall Rose norte de Karanes.",
       "blackclover": {
         "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
         "salida": "dos días después de la luna llena, 06:18, base de los Toros Negros",

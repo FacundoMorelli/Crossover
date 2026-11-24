@@ -118,3 +118,8 @@
 ## RELOJES (actualizado T867)
 - Shingeki: tercera salida día 47 10:25 (Mitras). Promesa: volver el día 50 antes de las 11 a Wall Rose (norte de Karanes) para la demostración. Corre.
 - One Piece: VUELVE el Día 56 15:55, Archipiélago Sabaody, Grove 41 (12 días y 4 h y media después). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Volver a Shingeki día 50 antes de las 11 = OP Día 59 16:30 a más tardar.
+
+## RELOJES (actualizado T930)
+- One Piece: salida Día 57 17:52 desde el bar de Shakky (Sabaody), tras Marineford (Ace y Barbablanca vivos), avisar a los ocho (dos años, Sabaody) y dejar a Luffy con Rayleigh. Robin con los revolucionarios (Corvin). Bankai sobre la flota de Barbablanca. Corre. Equivalencia OP = Shingeki + 9 d 5 h 30 min.
+- Shingeki: VUELVE el día 48 12:21 (1 día y 2 h después de irse) por una puerta a la sala de mapas del palacio de Mitras. Demostración: día 50 a mediodía, Wall Rose al norte de Karanes (antes de las 11 en la muralla).
+- Black Clover, Bleach, Jujutsu, Dragon Ball: corren.

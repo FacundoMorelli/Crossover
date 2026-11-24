@@ -928,3 +928,4 @@ T926 · One Piece · Tequila Wolf · Luffy: "Primero nos quedamos." Llegan los r
 T927 · One Piece · Tequila Wolf · Corvin, del Ejército Revolucionario, se presenta y le tiende la mano a Robin. Ella mira a Facundo.
 T928 · One Piece · Tequila Wolf · Beso de despedida. Pide poder visitarla; Corvin: lo decide el comandante. Robin sube al barco.
 T929 · One Piece · Sabaody · Al bar de Shakky. Rayleigh: "No pensé que iba a ser el mismo día." Luffy: "¡Me vas a hacer fuerte!"
+T930 · One Piece → Shingeki · Despedida de Luffy y Rayleigh. Puerta desde el bar de Shakky a la sala de mapas de Mitras, día 48 12:21. Erwin: "Llega dos días antes."

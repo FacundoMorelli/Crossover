@@ -56,3 +56,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T927 · A Corvin: "¿Ustedes son buenos?" Lo aprueba.
 - T928 · "¡Nos vemos en Sabaody, Robin! ¡Dos años!"
 - T929 · En el bar de Shakky: "¡El viejo del Haki! ¡Facundo dice que tú me vas a hacer fuerte!"
+- T930 · Despedida: "¡Cuando nos veamos, voy a ser mucho más fuerte que tú!" Abrazo: "Gracias, Facundo. Por Ace. Por todos." Ve la puerta: "¡¿Qué es esooo?!" Se queda con Rayleigh.
