@@ -197,3 +197,4 @@
 - Garp, Koby, Helmeppo, tripulación · T799 · Por Facundo: Dragon es alto, capa verde, tatuaje rojo en la cara; frase: "Alguien que tiene curiosidad por ver qué hacen ustedes con el mar." Garp ordena que no salga de la casa.
 - Todo el mundo (One Piece) · Día 38 · Cartel de Facundo, 400M, "Ojos de Eclipse", con foto (volando con Robin, el gato). El Gobierno lo culpa de Enies Lobby.
 - Tripulación, Franky · T800 · Por Garp: los Yonko gobiernan el Nuevo Mundo.
+- Tripulación, Facundo · T805 · Por Brook: comió la Yomi Yomi no Mi, murió hace 50 años, le robaron la sombra y el sol lo desintegra.

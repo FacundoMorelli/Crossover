@@ -10,3 +10,4 @@ ENCUENTROS:
 - T804 · Día 43 22:40 · Triángulo Florian · Aparece en su barco fantasma cantando Binks no Sake.
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: activo
+- T805 · Acepta unirse a Luffy. Le pide las bragas a Nami. Cuenta: Yomi Yomi no Mi; murió hace 50 años; le robaron la sombra; el sol lo desintegra. Thriller Bark se traga al Sunny: "Ahí está el hombre que me robó la sombra."

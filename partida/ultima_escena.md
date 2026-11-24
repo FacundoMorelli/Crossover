@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T802)
-le doy un beso a robin y subimos al barco
-
-## RESPUESTA 1 (T802)
-
-> le doy un beso a robin y subimos al barco
-
-Robin levanta la cara hacia ti, todavía con los ojos húmedos, y la besas ahí mismo, en el borde del muelle, delante de toda la Galley-La.
-
-Doscientos carpinteros silban a la vez.
-
-—¡Eso, Ojos de Eclipse! —grita uno desde un andamio.
-
-—¡Cuatrocientos millones y encima con novia! —grita otro.
-
-Robin se separa riéndose, con las mejillas rojas, y te toma de la mano. Suben juntos por la planchada.
-
-La cubierta del Sunny es blanda bajo los pies. El césped es de verdad, fresco, con olor a tierra mojada. Kase salta de tu hombro apenas pisan el pasto, lo olfatea, da tres vueltas y se acuesta al sol en el medio, como si el barco fuera suyo desde siempre.
-
-Todo es un caos feliz. Los carpinteros suben barriles, cajones y sacos de harina por la planchada. Sanji abre la puerta de la cocina, ve los fogones nuevos, el horno de piedra y la heladera con candado, y se queda arrodillado en la puerta llorando en silencio. Nami encuentra un cuarto de mapas con una mesa enorme y se encierra. Usopp grita desde abajo que hay una fábrica entera para él. Chopper descubre la enfermería, con camillas, frascos y estantes, y salta en el lugar. Robin te da un beso en la mejilla y sube corriendo, como una chica, por la escalera hacia el puesto del vigía, hacia su biblioteca.
-
-Franky recorre la cubierta revisando cada cabo con orgullo.
-
-En el muelle se quedan Iceburg, con Tyrannosaurus en el hombro, Paulie, que finge que no llora, Kokoro con su botella, Chimney y Gonbe saludando con las dos manos, y la familia Franky entera hecha un mar de lágrimas.
-
-—¡Aniki! ¡Cuídese! ¡Aniki!
-
-—¡Ya sé, ya sé! —Franky les da la espalda y se seca los ojos con el antebrazo—. ¡Es el viento! ¡Es el viento SUPEEER salado!
-
-Los carpinteros sueltan los cabos. La madera cruje. El Sunny se separa del muelle despacio.
-
-Luffy está parado en la cabeza del león, con el sombrero calado y los brazos en alto.
-
-—¡ZARPEMOS!
-
-Desde el puesto del vigía, por una ventana redonda, Robin se asoma.
-
-—Hay un barco a la salida del puerto.
-
-Todos miran. A unos quinientos metros, fondeado justo en la boca del puerto, hay un buque de la Marina, grande y blanco. En la proa, en lugar de un mascarón normal, tiene la cabeza de un perro.
-
-En la cubierta del buque, una figura enorme con abrigo blanco levanta una bala de cañón con una sola mano, como si fuera una pelota.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 802 · ONE PIECE · DÍA 41 · 09:20       ║
-║ Water 7 · Thousand Sunny, saliendo del Dock 1║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: al sol, en el césped                   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Zarpar. Salir de One Piece antes   ║
-║ del Día 49.                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T803)
+## COMANDO 1 (T803)
 miro a garp y espero(hace que pueda tener varias novias en diferentes mundos y ninguna se entera de la otra excepto que yo lo diga)
 
-## RESPUESTA 2 (T803)
+## RESPUESTA 1 (T803)
 
 > miro a garp y espero (hace que pueda tener varias novias en diferentes mundos y ninguna se entera de la otra excepto que yo lo diga)
 
@@ -135,10 +75,10 @@ Robin se asoma por la ventana redonda de la biblioteca, empapada, con el pelo pe
 
 ---
 
-## COMANDO 3 (T804)
+## COMANDO 2 (T804)
 simula
 
-## RESPUESTA 3 (T804)
+## RESPUESTA 2 (T804)
 
 > simula
 
@@ -205,4 +145,83 @@ Luffy, en el león, abre los ojos como platos. Se le dibuja una sonrisa enorme.
 
 ---
 
-ESTADO AL CIERRE: Día 43 22:40, Triángulo Florian, niebla. Barco fantasma casco contra casco con el Sunny. Brook (esqueleto) acaba de saludar; Usopp, Chopper y Nami desmayados; Luffy lo invita a la tripulación. Canon siguiente: Brook acepta, explica que no tiene sombra; Thriller Bark se traga al Sunny.
+## COMANDO 3 (T805)
+miro a brook y espero
+
+## RESPUESTA 3 (T805)
+
+> miro a brook y espero
+
+Te quedas quieto en la baranda, mirando al esqueleto. Kase sigue erizado en tu hombro, pero ya no gruñe. Lo mira con las pupilas finas como hilos.
+
+```
+╔════════════════════════════════════════╗
+║ BROOK                                  ║
+║ Músico · ex Piratas Rumbar             ║
+║ PODER: sin datos · esgrima             ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: x0,15 sobre ti    ║
+║ COPIABLE (no visto en acción)          ║
+╚════════════════════════════════════════╝
+```
+
+El esqueleto se queda inmóvil con la taza de té en la mano, mirando a Luffy. Después deja la taza en la baranda, muy despacio.
+
+—¿Unirme...? ¿A su tripulación? —Se le traba la mandíbula—. ¿Así, sin más?
+
+—¡Sí! ¡Eres un esqueleto! ¡Y cantas! ¡Necesitamos un músico!
+
+—¡Yohohoho! —Brook se tapa la cara con las manos huesudas—. ¡Acepto! ¡Será un honor! Aunque no tengo cara para sonrojarme... ¡Yohohoho!
+
+Salta del barco fantasma a la cubierta del Sunny con una ligereza que no parece de un cuerpo hecho de huesos. Aterriza sobre el césped, hace una reverencia a todos y ve a Nami, que acaba de despertarse del desmayo, con Chopper todavía abrazado a la pierna.
+
+Se le acerca con el sombrero en la mano.
+
+—Señorita, discúlpeme. ¿Me permitiría ver sus bragas?
+
+—¡¡CLARO QUE NO!!
+
+Nami y Sanji le pegan una patada a la vez, uno de cada lado, y la cabeza de Brook da una vuelta completa sobre el cuello. Se la acomoda con las dos manos.
+
+—¡Yohohoho! Se me iba a caer la cabeza. ¡Aunque no tengo cerebro!
+
+Media hora después, Brook está sentado a la mesa del Sunny comiendo lo que le sirvió Sanji. La comida le pasa entre las costillas y cae en una servilleta que le puso Chopper. A pesar de eso, come con modales perfectos. Kase lo vigila desde la otra punta de la mesa sin parpadear.
+
+Brook cuenta su historia sin que nadie se lo pida. Comió una Fruta del Diablo, la Yomi Yomi no Mi. Murió hace cincuenta años, con toda su tripulación, en este mismo mar. La fruta le devolvió el alma, pero en la niebla el alma tardó un año entero en encontrar su cuerpo, y cuando lo encontró solo quedaban los huesos.
+
+—Y luego, hace unos años... —Deja el tenedor—. Un hombre me robó la sombra.
+
+Todos se quedan callados.
+
+—Sin sombra, si me toca el sol, me desintegro. Por eso vivo en la niebla, donde nunca llega la luz. Por eso...
+
+No termina la frase.
+
+El mar se mueve debajo del Sunny. La mesa se inclina. Detrás del barco, en la niebla, suena un estruendo de hierro contra hierro, largo y grave. Todos corren a la popa: dos puertas gigantes, más altas que el mástil, se están cerrando a sus espaldas.
+
+Una corriente agarra el Sunny y lo arrastra hacia adelante, rápido, a una bahía oscura. La niebla se abre de golpe y delante aparece una isla.
+
+No parece una isla. Es una montaña de tierra y piedra que flota, con un bosque de árboles muertos, retorcidos como manos, una mansión enorme de ventanas iluminadas en la cima y, más atrás, una torre altísima con forma de mástil que se pierde en la niebla.
+
+Brook se queda petrificado en la baranda. Le tiemblan los huesos.
+
+—Ese es el lugar. —La voz le sale apenas—. Thriller Bark. Ahí está el hombre que me robó la sombra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 805 · ONE PIECE · DÍA 43 · 23:30       ║
+║ Thousand Sunny · bahía de Thriller Bark      ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Thriller Bark. Rumbo a Sabaody.    ║
+║ Salir de One Piece antes del Día 49.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 43 23:30. Brook se unió y contó lo de su sombra. Las puertas de Thriller Bark se cerraron detrás del Sunny; están en la bahía, frente a la isla-barco (mansión de Hogback, bosque, torre de Moria). Canon siguiente: la tripulación se divide; Moria roba sombras de Luffy, Zoro y Sanji; plazo: el amanecer.

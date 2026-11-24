@@ -143,3 +143,4 @@
 - Día 41 09:00 · (T800) Presentación del Thousand Sunny en el Dock 1 (canon).
 - Día 41 09:28 · (T803) Garp ataca al Sunny con balas de cañón tiradas a mano (canon); Franky usa el Coup de Burst y escapan (canon). Koby promete ser enemigo de verdad la próxima vez.
 - Días 41-43 · (T804) Dos días de mar en el Sunny. Día 43: barril con bengala; entran al Triángulo Florian (canon). 22:40: el barco fantasma de Brook (canon).
+- Día 43 23:30 · (T805) Brook acepta unirse (canon). Thriller Bark se traga al Sunny (canon).
