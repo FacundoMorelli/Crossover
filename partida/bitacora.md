@@ -745,3 +745,4 @@ T743 · One Piece · Enies Lobby · Asalto: Oimo, Kashi y ~300 soldados noqueado
 T744 · One Piece · Enies Lobby · Robin grita "¡Quiero vivir!". Spandam ordena al CP9 frenarlos.
 T745 · One Piece · Enies Lobby · Facundo derriba con flechas Quincy todas las banderas del Gobierno Mundial. Guerra declarada.
 T746 · One Piece · Enies Lobby · "Vayamos." Luffy cruza solo el abismo. Spandam mete a Robin en la torre. El puente sigue levantado.
+T747 · One Piece · Torre de la Justicia · Cruza a todos con la Luna. Fukurou explica las cinco llaves.
