@@ -5,3 +5,5 @@ RANGO: tripulante (sin puesto definido todavía).
 - Día 5 · Zarpan en el Going Merry. Tripulación: Luffy (capitán), Zoro, Nami (navegante), Usopp, Sanji (cocinero), Facundo. Kase.
 - T607 · Se une Nico Robin.
 - T695 · Facundo y Robin empiezan una relación.
+- Día 40 · Se une Franky (carpintero).
+- Día 41 · Barco nuevo: Thousand Sunny.

@@ -1,8 +1,8 @@
 {
-  "turno": 799,
+  "turno": 800,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 38 (Grand Line, Water 7)",
-  "hora": "10:36",
+  "fecha_local": "Día 41 (Grand Line, Water 7)",
+  "hora": "09:00",
   "edad": 18,
   "nivel": 26,
   "exp": 213240,
@@ -1701,13 +1701,13 @@
     "onepiece_raigo": "T676: Enel prepara el Raigo: una nube de tormenta gigante que caerá sobre Skypiea en unos 40 minutos y borrará todo. Solo puede detenerse destruyendo la nube (en canon, Luffy la rompe con la bola de oro y hace sonar la campana).",
     "onepiece_cp9": "T698: Lucci, Kaku, Kalifa y Blueno son agentes del CP9 infiltrados. Hoy contactan a Robin en la ciudad: le exigen ir con ellos o Aokiji/el Gobierno disparará el Buster Call sobre los Sombrero de Paja. Robin acepta en secreto para protegerlos (canon).",
     "onepiece_enies": "T740: El tren del CP9 (Puffing Tom) con Robin, Franky y Usopp salió a las 23:00 y llega a Enies Lobby a las 06:00 del día 36. Sanji no va escondido (está en el Merry). Spandam, jefe del CP9, espera en la Torre de la Justicia con el Golden Den Den Mushi para el Buster Call. Jabra, Kumadori y Fukurou también están en la torre.",
-    "post_enies_lobby": "Garp llega a Water 7 con Koby y Helmeppo el Día 38 ~10:00 (canon: unos dos días después del regreso). Carteles nuevos el Día 38 a la tarde. Thousand Sunny listo ~Día 40-41. En paralelo: Ace alcanza a Barbanegra en Isla Banaro ~Día 39-40 y pierde (canon) si nadie interviene. Aokiji pasa por Water 7 a hablar con Robin antes de que zarpen."
+    "post_enies_lobby": "Hecho: Garp llegó el Día 38. Pendiente: Garp ataca el barco a cañonazos cuando zarpen (canon, 'para que no digan que los dejó ir'). Aokiji pasa a ver a Robin antes de que zarpen. Día 40: en Isla Banaro, Ace pelea contra Barbanegra y pierde; Barbanegra lo captura para entregarlo al Gobierno (canon, sucedió offscreen; Facundo no lo sabe; la noticia sale en unos días)."
   },
   "recompensa_onepiece": {
-    "monto": 26000000,
+    "monto": 400000000,
     "apodo": "Ojos de Eclipse",
-    "desde": "Día 6",
-    "motivo": "Informe de Nezumi: participó en la caída de Arlong, agredió a un capitán de la Marina, 'varias Frutas del Diablo'. Imagen: dibujo, con el gato."
+    "desde": "Día 38 (antes 26M desde el Día 6)",
+    "motivo": "Enies Lobby: derribó las banderas del Gobierno Mundial (declaración de guerra), liberó a Nico Robin, saboteó el Buster Call (tres acorazados), frenó artillería en el aire. Informes de cinco vicealmirantes. Foto: tomada desde un acorazado, volando con Robin en brazos; el gato en el hombro."
   },
   "botones_de_aviso": [
     {

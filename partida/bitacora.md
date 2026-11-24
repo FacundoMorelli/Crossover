@@ -798,3 +798,4 @@ T796 · One Piece · Water 7 · Koby y Luffy se reencuentran. Garp despierta y r
 T797 · One Piece · Water 7 · "¿Quiénes son los revolucionarios?" Robin y Garp explican. Dragon salvó a Luffy en Loguetown.
 T798 · One Piece · Water 7 · Facundo dice que le vio la cara a Dragon en Loguetown. Luffy: "¿Se parece a mí?"
 T799 · One Piece · Water 7 · Describe a Dragon y su frase. Garp: "Ese es él." Les ordena a Koby y Helmeppo callar.
+T800 · One Piece · Water 7 · Simula hasta el Día 41: carteles (Facundo 400M), Franky se une, presentación del Thousand Sunny.

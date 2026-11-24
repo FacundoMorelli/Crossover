@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T797)
-eh, quienes son los revolucionarios?
-
-## RESPUESTA 1 (T797)
-
-> eh, quienes son los revolucionarios?
-
-> —Eh, ¿quiénes son los revolucionarios?
-
-Garp abre la boca para contestar, pero Robin se adelanta. Cierra el libro sobre las rodillas, con la voz tranquila de quien da una clase.
-
-—El Ejército Revolucionario. —Te mira a ti y después a Luffy—. No son piratas. No tienen bandera ni buscan tesoros. Quieren derribar al Gobierno Mundial. No desde el mar, sino desde adentro de los países: le hablan a la gente, la organizan y la arman. Donde un rey abusa de su pueblo, al poco tiempo aparece una revuelta. Y detrás, casi siempre, están ellos.
-
-Hace una pausa.
-
-—Y los dirige un solo hombre. Nadie sabe bien cómo es su cara. El Gobierno lo llama el criminal más peligroso del mundo. —Mira a Luffy—. Monkey D. Dragon.
-
-Garp asiente despacio. Por primera vez desde que entró, no se ríe. Deja la bolsa de galletas en la mesa.
-
-—El Gobierno le tiene más miedo a ese hombre que a cualquier pirata del mar. —Se rasca la cicatriz del ojo—. Los piratas quieren tesoros. Él quiere cambiar el mundo entero.
-
-Mira a Luffy.
-
-—¿Te acuerdas de Loguetown, mocoso? Cuando Smoker te tenía agarrado y apareció ese viento de la nada. La tormenta que los sacó del puerto.
-
-Luffy se queda quieto. Se le van los ojos hacia arriba, como si buscara algo en el techo.
-
-—...Un tipo con capa. En la lluvia. —Frunce el ceño—. Smoker lo conocía.
-
-—Ese era tu padre.
-
-Silencio otra vez.
-
-Nami se agarra la cabeza con las dos manos.
-
-—El abuelo es un héroe de la Marina... el padre es el criminal más buscado del mundo... ¡¿y él es pirata?! ¡¿Qué clase de familia es esta?!
-
-Usopp levanta la mano, temblando.
-
-—Yo voto por cambiar de capitán.
-
-—¡No se puede! —contesta Luffy, sin pensarlo, todavía mirando el techo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 797 · ONE PIECE · DÍA 38 · 10:34       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T798)
+## COMANDO 1 (T798)
 ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
 
-## RESPUESTA 2 (T798)
+## RESPUESTA 1 (T798)
 
 > ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
 
@@ -107,10 +47,10 @@ Pero antes de que nadie diga nada más, Luffy salta de la mesa, cruza el comedor
 
 ---
 
-## COMANDO 3 (T799)
+## COMANDO 2 (T799)
 es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
 
-## RESPUESTA 3 (T799)
+## RESPUESTA 2 (T799)
 
 > es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
 
@@ -163,4 +103,92 @@ Robin sigue mirándote desde el sillón, en silencio, con el libro cerrado sobre
 
 ---
 
-ESTADO AL CIERRE: comedor destrozado. Facundo describió a Dragon; Garp confirmó y les ordenó a Koby y Helmeppo callar. Luffy: "¡Que mire! ¡Voy a ser el Rey de los Piratas!". Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos (Día 38 a la tarde).
+## COMANDO 3 (T800)
+simula hasta que este el barco
+
+## RESPUESTA 3 (T800)
+
+> simula hasta que este el barco
+
+Garp no se va.
+
+Se queda en Water 7 «de vacaciones», según él. Esa misma mañana, sentado a caballo en la silla del comedor destrozado, les habla de lo que viene después de la Red Line. Del Nuevo Mundo. De cuatro piratas tan fuertes que gobiernan ese mar como si fuera suyo, y a los que ni el Gobierno se atreve a tocar: los Yonko. Luffy escucha con los ojos brillando. Nami escucha tapándose los oídos.
+
+—Y cuando zarpen —termina Garp, comiéndose una galleta—, los voy a tener que atacar. Para que no digan que los dejé ir. ¡Bwahahaha!
+
+Esa tarde, los carteles nuevos llegan a Water 7 con el diario.
+
+Un chico de la Galley-La los trae corriendo y los despliega sobre la mesa del comedor. Toda la tripulación se amontona encima.
+
+MONKEY D. LUFFY. 300.000.000.
+
+RORONOA ZORO. 120.000.000.
+
+NICO ROBIN. 80.000.000.
+
+«PIERNA NEGRA» SANJI. 77.000.000. Lo acompaña un dibujo hecho a mano de un tipo con la ceja enrulada que no se parece en nada a Sanji. Sanji se arrodilla en el piso y no se levanta por diez minutos.
+
+USOPP. 30.000.000. Usopp se desmaya de orgullo y de miedo a la vez.
+
+«GATA LADRONA» NAMI. 16.000.000. Nami no sabe si alegrarse o llorar, y hace las dos cosas.
+
+«AMANTE DEL ALGODÓN DE AZÚCAR» CHOPPER. 50 berries. Chopper se enoja tanto que se transforma en monstruo y rompe otra pared.
+
+Y el último cartel, el más grande. Es una foto tomada desde la cubierta de un acorazado, borrosa por la distancia y el humo. Se ve a un hombre en el aire con el sobretodo flameando, una mujer de pelo oscuro en brazos y un gato enorme en el hombro.
+
+«OJOS DE ECLIPSE» FACUNDO. 400.000.000.
+
+El comedor se queda en silencio.
+
+—¡¿CUATROCIENTOS?! —Luffy agarra el cartel con las dos manos y lo pega contra la cara—. ¡¿Más que yo?! ¡No es justo! —Lo mira de nuevo, y la cara le cambia—. ¡Shishishi! ¡Es increíble! ¡Tengo al tipo más buscado en mi tripulación!
+
+Robin dobla su cartel, el de ochenta millones, y lo guarda en el libro de Paradis, sin decir nada. El tuyo se lo queda mirando un rato largo, sobre todo la foto.
+
+Los días siguientes, Franky y la Galley-La trabajan día y noche en el Dock 1. Desde la casa se oyen los martillos hasta la madrugada.
+
+El Día 40, Franky sigue diciendo que no se une. Esa tarde, Nami y Robin se le acercan por la espalda en el muelle. Cuatro brazos brotan de las tablas y, en un segundo, Franky se queda sin la malla. Corre desnudo por todo el muelle gritando, perseguido por la familia Franky, que llora de emoción, y por Iceburg, que lo empuja hacia los Sombrero de Paja con una sonrisa.
+
+—¡Está bien! ¡Está bien! ¡Me uno! —grita, tapándose con un balde—. ¡Pero devuélvanme la malla, que me da vergüenza SUPEEER!
+
+Esos días, Robin y tú pasean por los canales altos en un yagara alquilado. Ella lee en voz alta el libro de Paradis, página por página, cada vez más rápido. Las noches son del cuarto chico del fondo, con la ventana abierta al canal...
+
+...
+
+El Día 41, a las nueve de la mañana, toda la ciudad está en el Dock 1.
+
+Hay una lona enorme, blanca, tapando algo del tamaño de una casa sobre el agua. Franky, con una malla nueva, se para delante con los brazos en alto. A su lado están Iceburg, Paulie y Kokoro, con la familia Franky entera y todos los carpinteros. Chimney está trepada a un poste con Gonbe.
+
+—¡Sombreros de Paja! —grita Franky—. ¡Aquí está! ¡El barco que va a llevarlos hasta el fin del mundo!
+
+Tira de la cuerda y la lona cae.
+
+Es un bergantín de madera oscura, ancho y fuerte, con dos mástiles y velas blancas recogidas. Las barandas son curvas, y en la cubierta hay césped de verdad, verde, con un árbol chico plantado en el medio. En la proa, mirando al mar, hay una cabeza enorme de león, amarilla y redonda, con la melena como un sol.
+
+Luffy se queda mudo un segundo entero. Después grita tanto que las gaviotas del puerto salen volando.
+
+—¡¡ES UN LEEEÓN!!
+
+Iceburg se acomoda el saco y mira el barco con orgullo.
+
+—Un barco tan grande como este necesita un nombre. —Tyrannosaurus asoma del bolsillo—. ¿Qué les parece «Thousand Sunny»? Un barco que va a cruzar mil mares, alegre como el sol.
+
+Luffy ya está trepando por la cabeza del león.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 800 · ONE PIECE · DÍA 41 · 09:00       ║
+║ Water 7 · Dock 1 de la Galley-La             ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Thousand Sunny listo. Zarpar.      ║
+║ Salir de One Piece antes del Día 49.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 41 09:00, Dock 1. Se descubrió el barco nuevo (cabeza de león, césped). Iceburg propone el nombre "Thousand Sunny". Luffy trepa al león. Franky ya es tripulante. Facundo tiene cartel de 400M. Pendiente (canon): Garp atacará cuando zarpen; Aokiji visita a Robin antes de zarpar.

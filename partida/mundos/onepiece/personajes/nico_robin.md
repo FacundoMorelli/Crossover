@@ -74,3 +74,4 @@ ESTADO: activa
 - T786 · Ve la Hana Hana de Facundo: "Tus flores son de otro color." "Es muy raro verse desde afuera."
 - T787 · Facundo la llama "amor" por primera vez. "Nadie me había llamado así."
 - T790 · Noche del Día 37 con Facundo en el cuarto chico (fundido). Día 38 a la mañana lee el libro de Paradis en el sillón.
+- T800 · Días 38-41 · Días tranquilos con Facundo en Water 7; le roba la malla a Franky con Nami (Hana Hana). Cartel 80M.

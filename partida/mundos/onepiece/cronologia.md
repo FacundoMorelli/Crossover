@@ -137,3 +137,7 @@
 - Día 37 tarde - Día 38 08:30 · (T790) Franky avanza el barco de madera de Adán (quilla y esqueleto). Fiesta chica en la casa de la Galley-La.
 - Día 38 10:05 · (T792) Garp llega a Water 7 con Koby y Helmeppo y revela que es el abuelo de Luffy (canon).
 - Día 38 10:32 · (T796) Garp revela que el padre de Luffy es Monkey D. Dragon (canon).
+- Día 38 · (T800) Garp habla de los Yonko y el Nuevo Mundo (canon). Carteles nuevos: Luffy 300M, Facundo 400M (cambio), Zoro 120M, Robin 80M, Sanji 77M, Usopp 30M (canon: como Sogeking), Nami 16M, Chopper 50.
+- Días 39-40 · Franky termina el barco. Día 40: Nami y Robin le roban la malla; Franky se une (canon).
+- Día 40 · (offscreen, canon) Isla Banaro: Ace pierde contra Barbanegra y es capturado. Nadie en Water 7 lo sabe.
+- Día 41 09:00 · (T800) Presentación del Thousand Sunny en el Dock 1 (canon).
