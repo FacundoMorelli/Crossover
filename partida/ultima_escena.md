@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T860)
-me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
-
-## RESPUESTA 1 (T860)
-
-> me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
-
-Cruzas el estudio a oscuras y te arrodillas junto al sofá. El nene llora con la boca abierta y la cara roja, abrazado a la frazada, mirando hacia la puerta, de donde vienen los golpes.
-
-> —Tranquilo, no llores.
-
-El nene te mira. Ve el pelo de dos colores, la cicatriz, los ojos de dos colores. Se queda con el llanto a medias.
-
-Kase baja de tu hombro al sofá, da una vuelta y se acuesta en el regazo del nene, pesado y tibio, como una manta. El nene se le queda mirando con los ojos muy abiertos. Después lo abraza del cuello y hunde la cara en el pelo blanco y azul. Deja de llorar.
-
-La madre se tapa la boca con las dos manos.
-
-Te pones de pie. Abajo, la puerta principal se abre de golpe contra la pared. Botas en la escalera.
-
-> —Bueno, yo me encargo, Willy.
-
-Willy no alcanza a contestar.
-
-No te mueves del lugar. No levantas la mano. Dejas salir algo de adentro, lo justo.
-
-Una presión invisible sale de ti en todas direcciones, como el aire que empuja una explosión, pero sin ruido y sin viento. Las cortinas no se mueven. Los papeles del escritorio no se vuelan. Pero el aire del estudio, de la escalera, del jardín y de la calle de golpe pesa como el agua del fondo del mar.
-
-En la escalera, los soldados que subían se quedan quietos un instante. Después se les ponen los ojos en blanco y se desploman, despacio, como si alguien les hubiera apagado la luz. Los fusiles caen sobre la alfombra de los escalones. Nadie se golpea.
-
-En el jardín, los cuarenta soldados caen a la vez donde están, sobre el pasto, sobre la grava, apoyados contra los camiones. El mayor del altoparlante se sienta en el pasto y se acuesta de costado, como si se fuera a dormir la siesta. El altoparlante rueda sin hacer ruido. Los motores de los dos camiones siguen en marcha, ronroneando en una calle donde ya nadie está despierto.
-
-Willy se agarra del escritorio. Lara, junto a la ventana, contiene el aire. Los tres sintieron el peso pasarles por encima y seguir de largo.
-
-No te quedas a mirar.
-
-Buscas otra presencia en la ciudad: dura, cansada, de viejo soldado. Magath. Está en una casa del barrio militar, en la planta baja, rodeado de presencias tensas y armadas. Hay una más, entre ellas, vieja, furiosa, que da órdenes.
-
-Dos dedos en la frente.
-
-Apareces en el vestíbulo de una casa austera, con piso de madera oscura y retratos de soldados en las paredes. Hay veinticinco soldados en el jardín y en el vestíbulo, con fusiles apuntando a la escalera. En el tercer escalón está Magath, en camisa y tirantes, con una pistola de servicio en la mano, apuntando hacia abajo. Y en el medio del vestíbulo, de pie, con el uniforme lleno de medallas mal abrochado y la cara roja de furia, el general Calvi.
-
-—¡Bájela, Theo! ¡Es una orden del Estado Mayor! ¡Usted le vendió Marley a los demonios! —Calvi se da vuelta al oír algo detrás. Te ve. Se le congela la cara—. Tú...
-
-Dejas salir la presión otra vez.
-
-Calvi cae primero, de rodillas y después de costado, con la boca todavía abierta a mitad de la palabra. Después caen los veinticinco, en el vestíbulo y en el jardín, sin un golpe, sin un rasguño, como hojas.
-
-En el vestíbulo, en silencio, solo queda una persona de pie.
-
-Magath sigue en el tercer escalón, con la pistola en la mano, mirando a Calvi dormido en su alfombra. Después te mira a ti, de pie entre veinticinco soldados desmayados, en tu ropa de dormir.
-
-Baja la pistola despacio.
-
-—Ah. —Lo dice con la voz más seca del mundo—. Usted.
-
-[+300 EXP · +66 Fragmentos]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 860 · SHINGEKI · DÍA 44 · 02:46        ║
-║ Liberio · casa de Magath, vestíbulo          ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: con el sobrino de Willy (mansión)      ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Golpe detenido sin heridos.        ║
-║ Calvi dormido en el vestíbulo de Magath.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T861)
+## COMANDO 1 (T861)
 bueno, ahora que tienen que hacer?(que dia de shingeki seria marineford?)
 
-## RESPUESTA 2 (T861)
+## RESPUESTA 1 (T861)
 
 > bueno, ahora que tienen que hacer?
 
@@ -129,10 +55,10 @@ Sobre tu pregunta: según el canon, Marineford cae cerca de los Días 57-58 de O
 
 ---
 
-## COMANDO 3 (T862)
+## COMANDO 2 (T862)
 si, se van a despertar bien todos, simula hasta el dia 47
 
-## RESPUESTA 3 (T862)
+## RESPUESTA 2 (T862)
 
 > si, se van a despertar bien todos, simula hasta el dia 47
 
@@ -183,4 +109,60 @@ Te mira largo, fijo, con una manzana a medio comer en la mano. Tiene los ojos fi
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 47 08:10, comedor chico del ala de la reina (Mitras). Golpe juzgado: golpistas arrestados sin daño, dos ministros destituidos, Calvi preso. Día 45: el Parlamento de Marley ratificó el tratado (212-140). Demostración: día 50 en Wall Rose; Kiyomi y cuatro delegaciones llegan el día 49. Lara espera (Facundo la visita cada tarde). Historia lloró de alegría. Ymir: "Tienes cara de que te vas a ir otra vez, lindo." MARINEFORD ≈ días 48-49 de Shingeki (OP Días 57-58).
+## COMANDO 3 (T863)
+si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
+
+## RESPUESTA 3 (T863)
+
+> si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
+
+> —Sí, tienes razón. Por eso, antes de nada...
+
+Te levantas de la silla. Le haces una inclinación chica a Historia.
+
+> —Permiso, su majestad.
+
+Historia levanta la cara de las manos, con los ojos todavía mojados, sin entender. Kase salta de tu hombro a la mesa, al lado de su plato, como si ya supiera.
+
+Agarras a Ymir de la muñeca.
+
+—¿Qué...?
+
+Desaparecen del comedor.
+
+Lo último que alcanza a ver Historia es la silla vacía de Ymir girando sola y la mano de Ymir todavía en el aire.
+
+Aparecen en tu cuarto de huéspedes del ala este. Las cortinas están corridas a medias, la cama sin hacer y la luz de la mañana entra en una franja sobre el piso de madera. Ymir parpadea, desorientada, con la manzana todavía en la mano.
+
+Antes de que diga nada, la empujas despacio contra la pared y la besas.
+
+Ymir se queda tiesa medio segundo, con los ojos muy abiertos.
+
+Después suelta la manzana. Rueda por el piso hasta debajo de la cama.
+
+Te agarra la camisa con las dos manos y te devuelve el beso con ganas, sin la torpeza del de la escalinata: con hambre, como si lo hubiera estado esperando desde el día veinticuatro. Te mete los dedos en el pelo de dos colores y tira. Se le escapa un ruido chiquito contra tu boca, mitad risa y mitad otra cosa.
+
+Se separa un centímetro, apenas, para respirar. Tiene la cara roja hasta el cuello, los ojos brillosos y la frente apoyada en la tuya.
+
+—Si te vas a ir otra vez... —Lo dice bajito, ronco, sin soltarte la camisa—. Esta vez no me vas a dejar con las ganas, lindo.
+
+Te besa otra vez, más despacio, y te tira de la camisa hacia ella.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 863 · SHINGEKI · DÍA 47 · 08:12        ║
+║ Mitras · cuarto de huéspedes, ala este       ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: con Historia, en el comedor            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tratado ratificado. Demostración:  ║
+║ día 50. Marineford ≈ días 48-49.             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 47 08:12, cuarto de huéspedes de Facundo (ala este del palacio). Facundo se teletransportó con Ymir y la besó contra la pared. Ymir le devolvió el beso: "Si te vas a ir otra vez... esta vez no me vas a dejar con las ganas, lindo." Lo tira de la camisa hacia ella. Pareja (R9). Escena íntima en curso: si sigue, fundido. Kase quedó con Historia en el comedor.

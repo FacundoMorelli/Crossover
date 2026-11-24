@@ -861,3 +861,4 @@ T859 · Shingeki · Liberio · Golpe de los leales a Calvi: rodean la mansión T
 T860 · Shingeki · Liberio · Haki del Rey: detiene el golpe sin heridos en la mansión Tybur y en la casa de Magath. Calvi dormido. +300 EXP, +66 F.
 T861 · Shingeki · Liberio · Magath: arrestos, Primer Ministro, Willy a la radio. "Usted se va antes de que lleguen mis hombres."
 T862 · Shingeki · Simula días 44-47: golpe juzgado, tratado ratificado. Desayuno: Ymir nota que se va a ir.
+T863 · Shingeki · Mitras · Se teletransporta con Ymir a su cuarto y la besa contra la pared.

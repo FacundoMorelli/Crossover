@@ -164,3 +164,4 @@
 - Willy, Lara, la cuñada · T860 · Sienten una presión enorme e invisible y ven por la ventana caer desmayados a todos los soldados del jardín a la vez. Ven a Facundo desaparecer.
 - Magath · T860 · Ve aparecer a Facundo en su vestíbulo y caer desmayados a la vez a Calvi y a todos los soldados, sin que nadie los toque.
 - Historia, Ymir · T862 · Por Facundo: el Parlamento de Marley ratificó el tratado (212 a 140).
+- Historia · T863 · Ve a Facundo decir "Permiso, su majestad", agarrar a Ymir y desaparecer con ella.

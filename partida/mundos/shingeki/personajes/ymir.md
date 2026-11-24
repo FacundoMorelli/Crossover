@@ -26,3 +26,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T842 · Noche del día 35: con Facundo en el techo del palacio, comiendo manzanas; se duerme en su hombro.
 - T858 · Días 41-43 · Tiempo con Facundo en Mitras.
 - T862 · Día 47 · Desayuno: "Tienes cara de que te vas a ir otra vez, lindo."
+- T863 · Facundo la teletransporta a su cuarto, la empuja contra la pared y la besa. Le devuelve el beso. "Si te vas a ir otra vez... esta vez no me vas a dejar con las ganas, lindo." RELACIÓN: pareja.

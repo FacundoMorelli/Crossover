@@ -1,8 +1,8 @@
 {
-  "turno": 862,
+  "turno": 863,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 47 tras Shiganshina (Mitras)",
-  "hora": "08:10",
+  "hora": "08:12",
   "edad": 18,
   "nivel": 27,
   "exp": 219040,
@@ -1806,7 +1806,7 @@
     "shingeki": {
       "con": "Ymir",
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
-      "estado": "empezando"
+      "estado": "pareja"
     }
   }
 }
