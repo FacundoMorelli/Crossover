@@ -862,3 +862,4 @@ T860 · Shingeki · Liberio · Haki del Rey: detiene el golpe sin heridos en la 
 T861 · Shingeki · Liberio · Magath: arrestos, Primer Ministro, Willy a la radio. "Usted se va antes de que lleguen mis hombres."
 T862 · Shingeki · Simula días 44-47: golpe juzgado, tratado ratificado. Desayuno: Ymir nota que se va a ir.
 T863 · Shingeki · Mitras · Se teletransporta con Ymir a su cuarto y la besa contra la pared.
+T864 · Shingeki · Mitras · Con Ymir (fundido). Historia golpea la puerta: Erwin pregunta por Facundo.

@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T861)
-bueno, ahora que tienen que hacer?(que dia de shingeki seria marineford?)
-
-## RESPUESTA 1 (T861)
-
-> bueno, ahora que tienen que hacer?
-
-> —Bueno, ¿ahora qué tienen que hacer?
-
-Magath baja los tres escalones. Pasa por encima de un soldado dormido con cuidado, sin pisarle la mano, y se detiene junto a Calvi. Lo mira un rato largo, tendido en la alfombra con la boca abierta y las medallas torcidas.
-
-Guarda la pistola en la funda del tirante.
-
-—Ahora hacemos las cosas bien. —Se acomoda la camisa—. Tengo un regimiento en la guarnición del puerto que responde a mí. En veinte minutos están aquí y en la casa de Tybur. Arrestamos a Calvi, al mayor y a estos sesenta y tantos antes de que se despierten. Con esposas y con papeles. Todo por el reglamento.
-
-Se agacha, le saca a Calvi la pistola del cinturón y la deja sobre una mesita del vestíbulo.
-
-—Al amanecer voy a ver al Primer Ministro. Con los nombres de los dos ministros que firmaron la orden de esta noche. —Se le endurece la cara—. Ahora que lo intentaron y fallaron, ya no van a poder esconderse detrás de la palabra «traición».
-
-Se endereza.
-
-—Y a las nueve, Tybur habla por la radio y en los diarios. El golpe fracasó. Sin un solo herido. Los traidores, detenidos. —Hace una pausa—. Lo que no va a decir es cómo.
-
-Te mira de arriba abajo: la ropa de dormir, los pies descalzos sobre su piso de madera.
-
-—Y usted se va antes de que lleguen mis hombres. —Lo dice seco, sin vueltas—. Si mañana los diarios dicen que el emisario del gato tumbó a medio ejército de Marley en ropa de dormir, la mitad del Parlamento va a gritar que Paradis nos invadió. Y la otra mitad va a tener miedo. Usted ya hizo bastante esta noche.
-
-Mira otra vez a los soldados tendidos por todo el vestíbulo. Uno ronca.
-
-Frunce el ceño, por primera vez inseguro.
-
-—Una pregunta, nada más. —Señala a Calvi con el mentón—. ¿Se van a despertar bien? ¿Todos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 861 · SHINGEKI · DÍA 44 · 02:48        ║
-║ Liberio · casa de Magath, vestíbulo          ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: con el sobrino de Willy (mansión)      ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Golpe detenido sin heridos.        ║
-║ Irse antes de que lleguen los de Magath.     ║
-╚══════════════════════════════════════════════╝
-```
-
-Sobre tu pregunta: según el canon, Marineford cae cerca de los Días 57-58 de One Piece, que son los días 48-49 de Shingeki, dentro de cuatro o cinco días. Ahora mismo en One Piece es el Día 53 por la mañana.
-
----
-
-## COMANDO 2 (T862)
+## COMANDO 1 (T862)
 si, se van a despertar bien todos, simula hasta el dia 47
 
-## RESPUESTA 2 (T862)
+## RESPUESTA 1 (T862)
 
 > si, se van a despertar bien todos, simula hasta el dia 47
 
@@ -109,10 +57,10 @@ Te mira largo, fijo, con una manzana a medio comer en la mano. Tiene los ojos fi
 
 ---
 
-## COMANDO 3 (T863)
+## COMANDO 2 (T863)
 si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
 
-## RESPUESTA 3 (T863)
+## RESPUESTA 2 (T863)
 
 > si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
 
@@ -165,4 +113,64 @@ Te besa otra vez, más despacio, y te tira de la camisa hacia ella.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 47 08:12, cuarto de huéspedes de Facundo (ala este del palacio). Facundo se teletransportó con Ymir y la besó contra la pared. Ymir le devolvió el beso: "Si te vas a ir otra vez... esta vez no me vas a dejar con las ganas, lindo." Lo tira de la camisa hacia ella. Pareja (R9). Escena íntima en curso: si sigue, fundido. Kase quedó con Historia en el comedor.
+## COMANDO 3 (T864)
+estando contra la pared le levanto las piernas y la sigo besando
+
+## RESPUESTA 3 (T864)
+
+> estando contra la pared le levanto las piernas y la sigo besando
+
+La levantas contra la pared como si no pesara nada.
+
+Ymir suelta un ruido de sorpresa contra tu boca y te rodea la cintura con las piernas, de golpe, como si lo hubiera decidido antes que tú. Se agarra de tus hombros. Se ríe, bajito, sin aire, entre beso y beso, y deja de reírse.
+
+—Lindo... —Te lo dice en el cuello, ronco—. La puerta. Ponle llave.
+
+El pestillo de la puerta se corre solo, con un clic, por un empujón de la Luna que ni miraste.
+
+Ymir lo oye. Se separa un segundo, con la cara roja y los ojos oscuros de golpe, y te mira. Una sonrisa torcida, peligrosa, le cruza la cara.
+
+—Presumido.
+
+Te tira del pelo y te vuelve a besar.
+
+...
+
+Cuando el sol ya está alto, la franja de luz llegó hasta la cama.
+
+Ymir está acostada boca abajo, encima de tu pecho, despeinada, con la sábana enredada en las piernas y el pelo castaño desparramado sobre tu hombro. Respira tranquila. Con la punta del dedo te recorre despacio el dragón tatuado del pecho, escama por escama, como si quisiera aprendérselo de memoria.
+
+Afuera se oyen los ruidos del palacio: pasos, una puerta, un caballo en el patio.
+
+—Ahora sí. —Lo dice sin levantar la cara, contra tu piel—. Ahora sí te puedes ir.
+
+Levanta la vista. Tiene los ojos tranquilos, sin la filosa de siempre. Y un poco tristes.
+
+—Pero vuelve, lindo. —Te pellizca el tatuaje—. Que esto no lo hago con cualquiera.
+
+Alguien golpea la puerta. Tres golpes suaves, educados.
+
+—¿Ymir? —Es la voz de Historia, del otro lado, un poco ahogada—. ¿Están...? Eh. —Una pausa larguísima—. El comandante Erwin pregunta por Facundo.
+
+Del otro lado de la puerta, Kase maúlla una vez, largo y ofendido.
+
+Ymir hunde la cara en tu pecho y se ríe sin hacer ruido.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 864 · SHINGEKI · DÍA 47 · 10:05        ║
+║ Mitras · cuarto de huéspedes, ala este       ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: del otro lado de la puerta, ofendido   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tratado ratificado. Demostración:  ║
+║ día 50. Marineford ≈ días 48-49.             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 47 10:05, cuarto de huéspedes. Después del fundido: Ymir sobre el pecho de Facundo, tranquila: "Ahora sí te puedes ir. Pero vuelve, lindo. Que esto no lo hago con cualquiera." Historia golpea la puerta: Erwin pregunta por Facundo. Kase maúlla ofendido del otro lado. MARINEFORD ≈ días 48-49 de Shingeki.
