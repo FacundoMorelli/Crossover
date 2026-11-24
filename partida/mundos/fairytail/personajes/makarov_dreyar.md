@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1000 · Se presenta; reverencia larga delante del gremio.
 - T1011 · Facundo lo salva del Metsu de Aria.
 DIÁLOGOS CLAVE:
+- T1019 · "Un viajero. Esta vieja casa no tiene cerradura. Cuando vuelvas de donde sea que vayas, la puerta va a estar abierta. Con marca o sin marca."
 - T1018 · "Toda mi magia... como si me hubiera despertado de una siesta." "Y dices que no quieres nada." "Esta noche Fairy Tail va a hacer una fiesta. Me gustaría que vinieras. No como invitado. Ya sé que no tienes marca, muchacho. ¿Alguna vez pensaste en tener una?"
 - T1017 · "Te doy tres segundos para arrodillarte, Jose. Por todo lo que fuiste alguna vez." "Fairy Law." A Facundo: "Se terminó, muchacho. Phantom Lord se terminó."
 - T1016 · Colgado de la capa: "Avisa la próxima vez, muchacho." Rompe la ventana de la torre. "Jose."

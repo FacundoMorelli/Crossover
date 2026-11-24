@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1016)
-lo llevo volando hasta la torre donde está Jose
-
-## RESPUESTA 1 (T1016)
-
-> lo llevo volando hasta la torre donde está Jose
-
-Agarras a Makarov por la parte de atrás de la capa, como a un gato, y te despegas del piso.
-
-—¡¿Q-qué...?! —El viejo patalea en el aire una vez, por reflejo, y después se queda quieto, con los brazos cruzados y la cara muy digna—. Avisa la próxima vez, muchacho.
-
-Abajo, alguien de Fairy Tail se ríe sin querer. Erza lo hace callar con una mirada.
-
-Sales por uno de los ventanales rotos del salón. El viento de la colina te pega en la cara, frío, con olor a pino. Oak Town queda abajo, chiquita, con sus techos de pizarra, y la sede de Phantom se abre delante como una mano negra de piedra: el cuerpo principal, los muros, las almenas con las banderas, y del otro lado, la torre. Alta, delgada, con un techo en punta y una sola ventana grande en lo más alto, que da al este.
-
-Subes por afuera, a lo largo de la pared. Kase va con las orejas aplastadas y la cola enroscada en tu cuello. Makarov no dice nada. Mira la ventana.
-
-Ahí está. Lo sientes más fuerte a medida que te acercas: una presencia densa, oscura, enroscada sobre sí misma como un animal dormido, apretada para no dejar escapar ni una gota de lo que tiene adentro. Y al lado, otras dos que ya conoces. Las de la celda.
-
-Te pones a la altura de la ventana.
-
-Del otro lado hay una sala circular, alfombrada de rojo, con estantes de libros y un trono de madera tallada contra la pared del fondo. Sentado en el trono, con una copa de vino en la mano, está Jose. El de verdad: el mismo pelo negro recogido, la misma ropa de gala, pero con sombra en el piso. Arrodillados delante de él, con la cabeza baja, están la chica del paraguas y el hombre del monóculo.
-
-—...apareció de la nada en la celda, maestro —está diciendo el del monóculo—. Y se la llevó. Monsieur, no tuvimos tiempo de...
-
-Jose levanta la mano para hacerlo callar.
-
-Está mirando la ventana.
-
-Te ve: flotando en el aire, del otro lado del vidrio, a treinta metros del suelo, con un gato en el hombro y Makarov colgando de tu mano por la capa.
-
-La copa de vino se le queda a medio camino de la boca.
-
-Makarov no espera. Estira un brazo, y el brazo crece, enorme, del tamaño de una puerta, y atraviesa el vidrio de la ventana como si fuera papel. La ventana entera estalla hacia adentro en una lluvia de cristales. Juvia y Sol se tiran al piso. Jose no se mueve del trono.
-
-Lo sueltas. Makarov cae adentro de la sala, sobre la alfombra roja, entre los vidrios, y se para derecho.
-
-—Jose.
-
-Jose deja la copa sobre el apoyabrazos del trono. Con calma. Con demasiada calma.
-
-—Makarov. —Sonríe. Esta vez la sonrisa no le llega a los ojos. Después te mira a ti, que sigues flotando del otro lado del marco roto—. Y el muchacho del gato. Facundo Morelli. —Las sombras del piso empiezan a moverse solas a su alrededor, a estirarse, a levantarse como humo negro—. Fufufu. Me ahorraron el trabajo de ir a buscarlos.
-
-Detrás de él, en la pared, las sombras se despegan de la piedra y toman forma: figuras altas, sin cara, con garras.
-
-Makarov empieza a crecer.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1016 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:23 · Phantom Lord · lo alto de la torre   ║
-║ NIVEL 27 · EXP 225.700/240.000               ║
-║ FRAGMENTOS 107.587 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Makarov contra Jose                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1017)
+## COMANDO 1 (T1017)
 observo la pelea entre Makarov y Jose
 
-## RESPUESTA 2 (T1017)
+## RESPUESTA 1 (T1017)
 
 > observo la pelea entre Makarov y Jose
 
@@ -197,10 +132,10 @@ Makarov se tambalea. Apoya una mano en lo que queda de pared. Levanta la vista h
 
 ---
 
-## COMANDO 3 (T1018)
+## COMANDO 2 (T1018)
 le doy una semilla del ermitaño, comela viejo
 
-## RESPUESTA 3 (T1018)
+## RESPUESTA 2 (T1018)
 
 > le doy una semilla del ermitaño, comela viejo
 
@@ -257,4 +192,56 @@ Makarov no les hace caso. Sigue mirándote.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:34, lo alto de la torre de Phantom. Makarov, curado por la semilla, invita a Facundo a la fiesta y le pregunta si pensó en tener la marca de Fairy Tail. Natsu y Erza suben. Facundo puede responder.
+## COMANDO 3 (T1019)
+no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
+
+## RESPUESTA 3 (T1019)
+
+> no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
+
+> —No, prefiero seguir sin gremio. Pero voy a la fiesta. Además, soy mucho de viajar, de irme y volver de la nada.
+
+Makarov no parece sorprendido. Asiente despacio, como si ya lo supiera.
+
+—Un viajero. —Se ríe bajito, una risa corta, por la nariz—. Lo imaginé cuando te vi parado en ese parque, mirando todo como si fuera la primera vez.
+
+Se acomoda lo que le queda de la capa sobre los hombros.
+
+—Está bien. Ningún mocoso de Fairy Tail entró por obligación, y ninguno se quedó por obligación. —Te mira—. Pero escucha bien lo que te digo, Facundo Morelli. Esta vieja casa no tiene cerradura. Cuando vuelvas de donde sea que vayas, de la nada o de donde quieras, la puerta va a estar abierta. Con marca o sin marca.
+
+La puerta de la escalera se abre de una patada.
+
+—¡VIEJO! —Natsu entra corriendo, con Happy volando detrás, y se frena en seco al ver la sala: el techo que no está, el trono hecho polvo, el piso hundido, Jose gris y tirado en el medio—. ¿Ya...? ¿Ya terminó? ¡¿Sin mí?!
+
+—Aye —dice Happy, mirando a Jose—. Sin ti.
+
+Erza entra detrás, con la armadura intacta y la espada envainada. Recorre la sala con los ojos de una sola pasada, como quien hace un inventario. Ve a Jose. Ve a Juvia y a Sol contra la pared. Ve al maestro de pie y entero, sin una quemadura. Se le aflojan los hombros un segundo.
+
+Después te ve a ti, de pie junto al maestro.
+
+—Maestro. —Hace una reverencia corta—. Abajo están todos bien. Algunos heridos leves. Phantom no se levanta. —Una pausa—. ¿Qué hacemos con ellos?
+
+—Los dejamos aquí. Que los recoja el Consejo. —Makarov se encamina hacia la escalera, con las manos en la espalda—. Nos vamos a casa. Hay una fiesta que preparar.
+
+Natsu no lo sigue. Se queda delante de ti, con los brazos cruzados y el ceño fruncido, mirándote de arriba abajo.
+
+—Oye. —Te señala con el dedo—. Gajeel, Aria, Lucy y ahora esto. —Mira el techo abierto—. ¿Hiciste todo tú solo mientras yo me peleaba con unos debiluchos abajo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1019 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:37 · Phantom Lord · lo alto de la torre   ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La fiesta de Fairy Tail esta noche ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:37, lo alto de la torre de Phantom. Facundo rechazó la marca pero va a la fiesta. Makarov se va hacia la escalera. Natsu le pregunta si hizo todo él solo. Facundo puede responder.

@@ -10,6 +10,7 @@ ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1004 · Tren a Oak Town: se sienta frente a Facundo.
 DIÁLOGOS CLAVE:
+- T1019 · "Abajo están todos bien. Phantom no se levanta. ¿Qué hacemos con ellos?"
 - T1013 · "La torre está a cien metros. Desapareciste delante de todos y volviste con ella en dos segundos."
 - T1010 · "Natsu, cállate. Todavía falta Jose. Y los Element 4 no aparecieron."
 - T1006 · Kase le rechaza la mano: "Ya veo. Tiene carácter." "Llegamos."

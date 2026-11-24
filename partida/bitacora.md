@@ -1017,3 +1017,4 @@ T1015 · Fairy Tail · Phantom · "Solo quiero ayudar. El maestro está arriba e
 T1016 · Fairy Tail · Torre de Phantom · Lleva a Makarov volando. Jose real en el trono con Juvia y Sol. Makarov rompe la ventana. Jose: "Me ahorraron el trabajo." Sombras; Makarov crece.
 T1017 · Fairy Tail · Torre de Phantom · Observa: Makarov vs Jose. Onda Muerta. Tres segundos. FAIRY LAW: Jose vencido. MISIÓN DE MUNDO CUMPLIDA. "Se terminó, muchacho."
 T1018 · Fairy Tail · Torre de Phantom · Semilla del ermitaño a Makarov: magia entera. "¿Alguna vez pensaste en tener una marca?" Fiesta esta noche.
+T1019 · Fairy Tail · Torre · Rechaza la marca; va a la fiesta; "soy de viajar". Makarov: "La puerta va a estar abierta." Natsu: "¿Hiciste todo tú solo?"
