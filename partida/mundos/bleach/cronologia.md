@@ -90,3 +90,4 @@
 - 20/12 · (T1033) Entrenamiento Facundo-Ichigo en el sótano de Urahara.
 - 21/12 21:15 · (T1033) Grimmjow abre una Garganta sobre la feria navideña: desafía a Ichigo ("la tercera es la vencida") y reconoce a Facundo.
 - Octubre-diciembre · (T1034, por Ichigo) Grimmjow vino dos veces a pelear con Ichigo: destrozó medio parque del distrito este; derribó una torre de alta tensión (tres barrios sin luz una noche).
+- 21/12 21:17 · (T1035) Facundo deja inconsciente a Grimmjow sobre la feria.

@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1032)
-unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que sigo recorriendo, no estoy muerto ni nada asi... Espero
-
-## RESPUESTA 1 (T1032)
-
-> unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que sigo recorriendo, no estoy muerto ni nada asi... Espero
-
-> —Unos días, y después me voy. No se preocupen por mí. Si no vuelvo, es porque sigo recorriendo. No estoy muerto ni nada así... Espero.
-
-—¡¿"Espero"?! —Ichigo se da vuelta de golpe—. ¡¿Cómo que "espero"?! ¡No digas esas cosas así como así, como si hablaras del clima!
-
-Orihime se queda con la sonrisa a medio camino. Se le borra despacio.
-
-—Facundo-kun... —Junta las manos sobre el pecho—. ¿Es peligroso? Los lugares adonde vas.
-
-Chad no dice nada. Te mira desde detrás del flequillo, muy quieto.
-
-Ichigo resopla y patea un poco de nieve sucia contra la baranda del puente.
-
-—Mira. —Se rasca la nuca, sin mirarte—. Una vez te fuiste y volviste justo cuando secuestraron a Inoue. Y la vez siguiente volviste con Aizen hecho piedra. —Se le escapa media risa, a su pesar—. Así que sé que sabes cuidarte. Pero si un día no vuelves, no voy a pensar que estás "recorriendo". Voy a ir a buscarte, aunque tenga que patear todas las puertas raras que encuentre.
-
-—Yo también —dice Chad.
-
-—¡Y yo! —Orihime levanta la mano, como en clase—. ¡Puedo curar cualquier cosa!
-
-Ichigo se pone rojo de nuevo, como si recién se diera cuenta de lo que dijo. Se mete las manos en los bolsillos y empieza a caminar por el puente, hacia el lado de la clínica.
-
-—Bueno, ya. —No se da vuelta—. Si te vas a quedar unos días, vienes a cenar a casa esta noche. Mi viejo te vio en la tele aquella vez, en lo de Kanonji, y no deja de preguntar por "el chico del gato". Yuzu va a hacer curry. Karin va a fingir que no le importa. —Una pausa—. Y Rukia llega mañana. Si te ve antes que yo le avise, me mata.
-
-Se detiene a mitad del puente y te mira por encima del hombro, con el ceño fruncido de siempre.
-
-—¿Vienes o no?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1032 · BLEACH · 18/12 · 15:47          ║
-║ Karakura · puente sobre el río               ║
-║ NIVEL 27 · EXP 234.850/240.000               ║
-║ FRAGMENTOS 107.840 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, con bufanda              ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1033)
+## COMANDO 1 (T1033)
 sí, voy a cenar a tu casa. simula estos dias
 
-## RESPUESTA 2 (T1033)
+## RESPUESTA 1 (T1033)
 
 > sí, voy a cenar a tu casa. simula estos dias
 
@@ -155,10 +105,10 @@ La sonrisa se le congela. Después se le hace más grande.
 
 ---
 
-## COMANDO 3 (T1034)
+## COMANDO 2 (T1034)
 eh sigues vivo? ichigo este solo viene a pelear no? o hace alguna cosa mala?
 
-## RESPUESTA 3 (T1034)
+## RESPUESTA 2 (T1034)
 
 > eh sigues vivo? ichigo este solo viene a pelear no? o hace alguna cosa mala?
 
@@ -205,4 +155,76 @@ Se saca la otra mano del bolsillo. Baja la vista hacia ti, solo hacia ti, y la s
 
 ---
 
-ESTADO AL CIERRE: Bleach, 21/12 21:16, feria navideña. Grimmjow desenvainó y desafía a Facundo: que suba o baja y aplasta el pueblo. Su reiatsu ya marea a civiles. Facundo puede actuar.
+## COMANDO 3 (T1035)
+subo y lo dejo inconsciente de un golpe
+
+## RESPUESTA 3 (T1035)
+
+> subo y lo dejo inconsciente de un golpe
+
+Kase salta de tu hombro a los brazos de Karin, que lo ataja por reflejo con la boca abierta.
+
+Subes.
+
+No hay impulso ni salto. Estás en la plaza, al lado del puesto de castañas, y un instante después estás en el aire, a veinte metros, delante de Grimmjow, a la altura de la estrella de la punta del árbol de Navidad.
+
+Grimmjow no te vio subir. Tiene la espada todavía apuntando hacia abajo, hacia donde estabas. Abre los ojos.
+
+—¿Qu...?
+
+El puño le entra en la mandíbula, del lado del hueso blanco.
+
+El hueso se raja con un crujido seco, como hielo que se parte. La cabeza de Grimmjow gira hacia un costado. El cuerpo entero se queda quieto en el aire, medio segundo, con los ojos en blanco y la espada todavía en la mano.
+
+Después la espada se le cae de los dedos.
+
+Lo agarras del cuello de la chaqueta antes de que caiga él también. Queda colgando de tu mano, flojo, con los brazos sueltos, la cabeza caída sobre el pecho y el agujero del abdomen balanceándose sobre las luces de la feria. La espada da dos vueltas en el aire y se clava de punta en la copa del árbol, entre las guirnaldas.
+
+El reiatsu que pesaba sobre la plaza desaparece de golpe, como cuando se abre una ventana en un cuarto encerrado.
+
+La señora del banco levanta la cabeza, parpadea y se pone de pie, como si se hubiera despertado de una siesta. El chico del puesto de dulces deja de bostezar. Alguien se ríe, en algún lado, sin saber de qué. La música navideña sigue sonando. Nadie de la feria vio nada.
+
+[Rival vencido: Grimmjow Jaegerjaques. +2.500 EXP · +150 Fragmentos.]
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Pantera: resurrección, Cero, Desgarrón       ║
+║ USUARIO: Grimmjow Jaegerjaques · Bleach      ║
+║                                              ║
+║ MISIÓN: Que Grimmjow Jaegerjaques te pida    ║
+║ la revancha.                                 ║
+║ DIFICULTAD: BAJA                             ║
+╚══════════════════════════════════════════════╝
+
+Abajo, en la plaza, tus amigos te miran hacia arriba con la cabeza echada para atrás.
+
+Uryū se acomoda los lentes, despacio. Chad no se mueve. Orihime tiene las manos en la boca. Rukia, con el conejo de peluche abrazado, no dice nada; solo cierra los ojos un segundo y suspira. Karin sostiene a Kase en brazos con la cara de quien acaba de ver algo que nadie le va a creer, y Kase, en sus brazos, se lame una pata. Yuzu y los demás no ven nada: miran a Karin, confundidos, preguntándole por qué tiene la boca abierta.
+
+Ichigo es el único que habla. Tiene la mano fuera del bolsillo, con la insignia de Shinigami sustituto apretada en el puño, todavía sin usar.
+
+—¡¿DE UN GOLPE?! —grita hacia arriba. Un par de personas de la feria lo miran raro—. ¡Hace tres meses que lo vengo echando, y tú llegas y...! —Se calla. Se pasa la mano por la cara—. ¡Era mi pelea, idiota!
+
+Encima de ti, la Garganta sigue abierta en el cielo. Una boca negra, con los bordes temblando, que empieza a cerrarse despacio.
+
+Rukia abre los ojos y te mira a ti, y después al Arrancar que tienes colgando de la mano.
+
+—Facundo. —Lo dice bajo, pero se oye—. ¿Y ahora qué hacemos con él?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1035 · BLEACH · 21/12 · 21:17          ║
+║ Karakura · en el aire, sobre el árbol        ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en brazos de Karin                     ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 21/12 21:17, en el aire sobre la feria. Grimmjow inconsciente, colgando de la mano de Facundo. La Garganta se cierra. Kase en brazos de Karin. Rukia pregunta qué hacen con él. Facundo puede actuar.

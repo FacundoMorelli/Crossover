@@ -21,3 +21,4 @@ DON DE MUNDO: Zanpakutō Sakaime (ver sistema.json).
 - T337 · Barragan petrificado en la cúpula de Las Noches (saliva de Dabura). T338 · Facundo deja Hueco Mundo "a cargo" de Ulquiorra, que lo acepta a su manera. Starrk y Harribel no se movieron.
 - 24/09 · Aizen ejecutado por Yamamoto en el Muken (la estatua que hizo Facundo). Facundo no objetó. No hay Guerra de Invierno.
 - 18/12 · (T1027) Cuarta llegada de Facundo. Nadie lo sabe todavía.
+- T1035 · Grimmjow vencido sobre la feria navideña de Karakura.

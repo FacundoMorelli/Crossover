@@ -63,3 +63,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1029 (Bleach) · Come el pescado seco de Tessai.
 - T1030 (Bleach) · Se deja envolver en la bufanda gris de Tessai, con cara de ofendido.
 - T1033 (Bleach) · Come en una silla propia en la casa Kurosaki (plato de Yuzu). Kon le tiene terror. Mira directo a la cámara de Karin en la feria.
+- T1035 (Bleach) · Salta a los brazos de Karin Kurosaki y se queda ahí, lamiéndose una pata.

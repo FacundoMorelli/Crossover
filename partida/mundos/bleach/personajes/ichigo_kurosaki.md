@@ -81,3 +81,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T1032 · "¡¿Espero?!" "Si un día no vuelves, voy a ir a buscarte, aunque tenga que patear todas las puertas raras que encuentre." Lo invita a cenar (curry de Yuzu; su viejo pregunta por "el chico del gato"). "Rukia llega mañana. Si te ve antes que yo le avise, me mata." "¿Vienes o no?"
 - T1033 · 20/12 · Entrena con Facundo en el sótano de Urahara: bankai y máscara; no lo toca. "Algún día te voy a ganar." 21/12 · Feria; Grimmjow lo desafía.
 - T1034 · "Viene a pelear conmigo. Es la tercera vez desde octubre. No mató a nadie. Pero rompe cosas." (parque del distrito este; torre de alta tensión)
+- T1035 · "¡¿DE UN GOLPE?! ¡Hace tres meses que lo vengo echando! ¡Era mi pelea, idiota!"

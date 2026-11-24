@@ -11,6 +11,7 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T1033 · "¡KUROSAKI! ¡La tercera es la vencida! ¡Sal a pelear o empiezo a romper cosas!" "Vaya, vaya. Ulquiorra dijo que te habías ido. El que dejó a Aizen hecho piedra."
 - T1034 · "¡¿QUÉ CLASE DE PREGUNTA ES ESA?! ¡Claro que sigo vivo, idiota!" "Cambio de planes, Kurosaki. Primero quiero ver qué tan fuerte es el que convirtió a Aizen en piedra. Sube aquí, gatito. O bajo yo y aplasto este maldito pueblo con todos sus arbolitos."
+- T1035 · Facundo lo deja inconsciente de un puñetazo en la mandíbula.
 QUÉ SABE DE FACUNDO: descripción de Aizen a las Espadas; lo que contó Ulquiorra (petrificó a Aizen y se fue).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en el aire sobre la plaza de la feria.
+ESTADO: INCONSCIENTE (T1035, un puñetazo de Facundo; hueso de la mandíbula rajado), colgando de la mano de Facundo sobre la feria. Su espada clavada en la copa del árbol.

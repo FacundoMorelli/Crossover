@@ -100,3 +100,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Uryū · T1033 · lo vio el 20/12.
 - Keigo, Mizuiro, Tatsuki · T1033 · lo conocen en la feria (21/12) como amigo de Ichigo; Keigo lo reconoce del especial de Kanonji.
 - Grimmjow Jaegerjaques · T1033 · lo reconoce por la descripción de Aizen a las Espadas (pelo bicolor, gato) y por lo que contó Ulquiorra en Las Noches: que Facundo petrificó a Aizen y se fue.
+- Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1035 · vieron a Facundo subir al aire en un instante y dejar inconsciente a Grimmjow de un golpe. Karin (11) lo vio todo: lo ve volar y golpear a "un hombre en el cielo". Yuzu, Isshin (?), Keigo, Mizuiro, Tatsuki y los civiles no vieron nada (no ven espíritus; Facundo estaba en el aire... NOTA: Facundo está en cuerpo físico: los civiles que miraran hacia arriba podrían verlo flotar; nadie miraba).

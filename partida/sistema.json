@@ -1,13 +1,13 @@
 {
-  "turno": 1034,
+  "turno": 1035,
   "mundo_actual": "bleach",
   "fecha_local": "21/12",
-  "hora": "21:16",
+  "hora": "21:17",
   "edad": 18,
   "nivel": 27,
-  "exp": 234850,
+  "exp": 237350,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107840,
+  "fragmentos": 107990,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1211,6 +1211,13 @@
       "mision": "Que Natsu Dragneel admita, con sus palabras, que perdió contra ti.",
       "dificultad": "ALTA",
       "emitida": "T1027"
+    },
+    {
+      "poder": "Pantera (resurrección), Cero, Desgarrón — Grimmjow Jaegerjaques",
+      "mundo": "bleach",
+      "mision": "Que Grimmjow Jaegerjaques te pida la revancha.",
+      "dificultad": "BAJA",
+      "emitida": "T1035"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -1672,6 +1679,13 @@
       "turno": 1027,
       "fragmentos": 3,
       "exp": 150
+    },
+    {
+      "mundo": "bleach",
+      "quien": "Grimmjow Jaegerjaques (ex Sexta Espada)",
+      "turno": 1035,
+      "fragmentos": 150,
+      "exp": 2500
     }
   ],
   "viaje": {

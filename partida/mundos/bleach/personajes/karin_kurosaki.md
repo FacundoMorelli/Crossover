@@ -11,4 +11,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1033).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: activa (en la feria, 21/12).
+ESTADO: activa; en la feria con Kase en brazos (lo atajó), vio a Facundo golpear a Grimmjow (T1035).
