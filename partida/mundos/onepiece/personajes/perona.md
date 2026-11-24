@@ -9,3 +9,4 @@ ESTADO: activo
 - T913 · A Facundo: "¡El del gato! ¡Haz algo, que este idiota no escucha a nadie!"
 - T914 · "¡¡Lo van a matar!!"
 - T915 · Ve a Zoro curarse de golpe: "¿Qué le diste?"
+- T917 · Se entera (por Facundo) de que es el castillo de Mihawk: "¡Y yo dormí en su cama!"

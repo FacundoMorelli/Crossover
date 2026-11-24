@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T914)
-esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
-
-## RESPUESTA 1 (T914)
-
-> esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
-
-> —Está bien. Pero después, que te dejen descansar un poco, que tenemos que decirte algo.
-
-Zoro ni se da vuelta. Levanta una mano por encima del hombro, una sola vez, y la baja.
-
-Después se lanza.
-
-El claro se llena de acero. Zoro entra en el medio del círculo de babuinos como un remolino de tres hojas, girando, cortando, empujando. Los primeros cuatro caen enseguida: uno con la armadura partida, otro con la espada rota, dos lanzados de espaldas contra los troncos. Luffy se sienta en una raíz a mirar, con las piernas cruzadas y las manos en los tobillos, gritando cada golpe como si fuera una pelea de feria.
-
-—¡Bien, Zoro! ¡Dale a ese! ¡No, a ese otro! ¡Shishishi!
-
-Perona baja un poco entre las ramas, sin dejar de morderse las uñas.
-
-Durante un minuto entero, Zoro va ganando. Caen seis, ocho, diez. Pero los que quedan de pie aprenden. Cada vez que Zoro hace algo, uno de los monos lo repite, un poco más torpe, pero lo repite. Y son muchos.
-
-Una venda del pecho se le suelta del todo y cae al piso, roja. Se le abre una herida vieja en el costado. Zoro respira cada vez más corto. Le tiemblan los brazos cuando para dos golpes a la vez. Se le escapa un pie en el barro.
-
-El babuino canoso de los dos sables espera. No se mete. Mira desde atrás, con los ojos chiquitos y atentos, cómo los demás lo cansan.
-
-Cuando Zoro se tambalea después de partir la armadura del duodécimo, el canoso se mueve.
-
-Entra en tres pasos largos, cruza los dos sables y corta en X, en el mismo ángulo y con la misma fuerza con que Zoro cortaba hace diez minutos.
-
-Zoro lo para con las tres espadas. El choque lo hace retroceder dos metros, arrastrando los pies por el barro. Se le dobla una rodilla. Cae sobre ella.
-
-Le gotea sangre de la frente, por debajo del pañuelo, y le entra en el ojo.
-
-Los catorce babuinos que quedan de pie lo rodean despacio, en círculo, con las espadas levantadas, todos en la misma guardia. El canoso levanta los dos sables por encima de la cabeza.
-
-Luffy deja de reírse. Se le borra la cara. Pone una mano en la raíz para pararse.
-
-—¡Zoro!
-
-—¡No! —Zoro escupe sangre, sin levantar la vista—. ¡No se metan!
-
-Arriba, Perona chilla, con las dos manos en la cara.
-
-—¡¡Lo van a matar!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 914 · ONE PIECE · DÍA 57 · 13:41       ║
-║ Kuraigana · claro del bosque muerto          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T915)
+## COMANDO 1 (T915)
 le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
 
-## RESPUESTA 2 (T915)
+## RESPUESTA 1 (T915)
 
 > le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
 
@@ -131,10 +69,10 @@ Está a diez metros de Zoro, con los dos sables cruzados delante de la cara, res
 
 ---
 
-## COMANDO 3 (T916)
+## COMANDO 2 (T916)
 miro
 
-## RESPUESTA 3 (T916)
+## RESPUESTA 2 (T916)
 
 > miro
 
@@ -203,4 +141,68 @@ Se cruza de brazos.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:46, Kuraigana. Zoro venció al jefe de los Humandrills con Oni Giri. Luffy lo abraza. Zoro pregunta cómo llegaron, dónde están los demás y qué tenían que decirle. Facundo puede responder.
+## COMANDO 3 (T917)
+nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
+
+## RESPUESTA 3 (T917)
+
+> nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
+
+> —Nos volvemos a ver en dos años. Entrena aquí. Aparentemente, ese es el castillo de Mihawk. No están preparados para el Nuevo Mundo.
+
+Zoro se te queda mirando. No dice nada.
+
+Después mira a Luffy, que sigue colgado de su hombro.
+
+—¿Dos años? —Lo dice despacio, como si probara el peso de la palabra—. ¿Tú estás de acuerdo con esto?
+
+Luffy se suelta. Se para delante de él. Se le borra la sonrisa.
+
+—Sí. —Se acomoda el sombrero—. El oso nos hizo desaparecer a todos y no pude hacer nada. Hoy casi se muere Ace y tampoco pude hacer nada. Si vamos así al Nuevo Mundo, nos van a matar. —Aprieta el puño—. Dos años, Zoro. Y después nos juntamos en Sabaody.
+
+Zoro lo mira un rato largo. Después cierra los ojos.
+
+—Hmph. —Se rasca la nuca—. Si el capitán lo dice.
+
+Pero cuando vuelve a abrir el ojo, ya no te mira a ti. Mira por encima de los árboles muertos, hacia la colina, hacia las torres rotas del castillo negro.
+
+—¿Mihawk? —Se le tensa la mandíbula—. ¿Este es su castillo?
+
+Arriba, Perona da un respingo en el aire.
+
+—¡¿Ojos de Halcón?! ¡¿El espadachín ese?! —Se agarra la cabeza con las dos manos—. ¡Con razón hay cuadros tan feos en todas las paredes! ¡Y yo dormí en su cama! ¡Ay, no, ay, no, ay, no...!
+
+Zoro no la escucha. Camina hasta el borde del claro, hasta donde la niebla se abre y se ve el castillo entero, y se queda parado ahí, con las manos sobre las empuñaduras de las tres espadas.
+
+Se le dibuja una sonrisa en la cara. Una sonrisa fea, con los dientes, la misma que tenía en el Baratie con el pecho abierto de un corte.
+
+—Entonces lo espero aquí.
+
+Se da vuelta hacia ustedes.
+
+—Dos años. —Levanta el puño, cerrado, hacia Luffy—. Cuando vuelvas a verme, no voy a perder contra nadie más.
+
+Luffy choca el puño con el suyo, con una sonrisa enorme.
+
+Después Zoro te mira a ti. Te mira de arriba abajo: el pelo, los ojos, el gato en el hombro.
+
+—Y tú. —Inclina la cabeza—. ¿Qué vas a hacer en estos dos años? Porque tú no pareces necesitar entrenar mucho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 917 · ONE PIECE · DÍA 57 · 13:48       ║
+║ Kuraigana · claro del bosque muerto          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisados 1/8 (Zoro). Bankai sobre  ║
+║ la flota. Shingeki: antes del D59 16:30.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:48, Kuraigana. Zoro aceptó los dos años y esperará a Mihawk en su castillo. Chocó puños con Luffy. Le pregunta a Facundo qué va a hacer él en esos dos años. Facundo puede responder.
