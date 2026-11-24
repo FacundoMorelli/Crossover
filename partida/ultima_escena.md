@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T841)
-creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
-
-## RESPUESTA 1 (T841)
-
-> creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
-
-> —Creo que sí. Puedo intentarlo, Lara, pero es mejor que no sea ahora.
-
-Lara te sostiene la mirada. Después asiente, despacio, como si ya lo hubiera pensado sola.
-
-—Tiene razón. —Mira su taza—. Si algo sale mal en la fiesta... si los generales hacen lo que mi hermano teme... alguien en esa plaza va a tener que pararse frente a los cañones. Y el Martillo sirve para eso.
-
-Levanta la vista.
-
-—Después de la fiesta, entonces.
-
-Lo dice tranquila, pero a la mitad de la frase se le humedecen los ojos, apenas. No llora. Sonríe, una sonrisa chica, cansada, la de alguien que lleva cuatro años contando hacia atrás y de golpe tiene un número distinto en la cabeza.
-
-Willy estira la mano por encima de la mesa y se la apoya en el hombro. No dicen nada. No hace falta.
-
-Kase, a los pies de Lara, se para en dos patas, apoya las delanteras en su rodilla y le olfatea la taza. Lara se ríe por primera vez, bajito, y le rasca la cabeza.
-
-Willy se aclara la garganta y vuelve a ser el que organiza.
-
-—Bien. —Se pone de pie y se sacude el traje mojado—. Mañana, el día treinta y seis, a las ocho de la noche. En la puerta de servicio de la mansión, al costado, donde entró la otra vez. Venga vestido como un asesor civil de Marley: traje oscuro, sombrero. Desde aquí vamos juntos en mi coche a la plaza. Usted mira todo lo que tenga que mirar.
-
-Lara, sin dejar de rascarle la cabeza a Kase, agrega sin levantar la vista:
-
-—Y traiga al gato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 841 · SHINGEKI · DÍA 35 · 07:30        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: con las patas en la rodilla de Lara    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Cita con Willy: día 36, 20:00, puerta de     ║
-║ servicio.                                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T842)
+## COMANDO 1 (T842)
 me despido y vuelvo a paradis con la teletransportación. simula
 
-## RESPUESTA 2 (T842)
+## RESPUESTA 1 (T842)
 
 > me despido y vuelvo a paradis con la teletransportación. simula
 
@@ -110,10 +61,10 @@ Mira a Kase.
 
 ---
 
-## COMANDO 3 (T843)
+## COMANDO 2 (T843)
 subo al coche con willy y vamos a la plaza
 
-## RESPUESTA 3 (T843)
+## RESPUESTA 2 (T843)
 
 > subo al coche con willy y vamos a la plaza
 
@@ -168,4 +119,52 @@ Te mira a ti. Mira a Kase.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 36 20:15, plaza de la fiesta en Liberio. Escenario en construcción (30x15 m) contra un edificio de ladrillo; palcos de embajadores; gradas de eldianos. Seis cañones tapados en los techos apuntando al escenario (Haki). El coronel Muller se acercó a Willy y a su "asesor civil": "Su asesor tiene un gato muy particular."
+## COMANDO 3 (T844)
+es mi compañero, no se separa de mí, coronel
+
+## RESPUESTA 3 (T844)
+
+> es mi compañero, no se separa de mí, coronel
+
+> —Es mi compañero. No se separa de mí, coronel.
+
+Muller sonríe un poco más, apenas.
+
+—Lo recuerdo. —Junta las manos detrás de la espalda—. El señor Morelli. Asesor civil. De las colonias del sur. —Pronuncia cada palabra despacio, como quien lee una ficha—. El mes pasado asesoraba al general Magath. Hoy, al señor Tybur. —Inclina la cabeza—. Es un hombre muy solicitado.
+
+Willy se adelanta medio paso, con la sonrisa social intacta y la voz tranquila.
+
+—El general Magath me lo recomendó, coronel. Para la logística de los embajadores. Veinte delegaciones, veinte protocolos distintos, veinte formas de ofenderse por una silla mal puesta. —Se ríe, ligero—. Necesitaba a alguien que supiera de esas cosas.
+
+—Por supuesto. —Muller saca una libreta chica de cuero del bolsillo del uniforme y anota algo, sin apuro, con un lápiz corto—. Logística.
+
+Guarda la libreta.
+
+—Les informo, por cortesía, que el día de la fiesta la seguridad interna de esta plaza va a estar a mi cargo. —Mira alrededor: el escenario, los palcos, las gradas y, solo por un instante, los techos—. Cada puerta. Cada techo. Cada persona que entre y salga.
+
+Kase, en tu hombro, lo mira fijo con las pupilas finas como hilos. Muller le devuelve la mirada al gato un segundo y después te mira a ti.
+
+—Una última cosa, señor Morelli. —Lo dice suave, casi amable—. La casa del número catorce de la calle del Reloj, donde se alojaba el mes pasado, sigue vacía. Mis hombres pasan todos los días. Nadie entra, nadie sale.
+
+Da un paso hacia ti.
+
+—¿Dónde se aloja ahora?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 844 · SHINGEKI · DÍA 36 · 20:17        ║
+║ Liberio · plaza de la fiesta                 ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, mirando a Muller         ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
+║ Ver la plaza. Muller sospecha.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 36 20:17, plaza de la fiesta. Muller reconoció al "señor Morelli, asesor civil de las colonias del sur"; Willy dijo que Magath se lo recomendó para la logística de los embajadores. Muller estará a cargo de la seguridad interna de la plaza el día de la fiesta. Pregunta: "¿Dónde se aloja ahora?" (la casa del 14 de la calle del Reloj sigue vacía).
