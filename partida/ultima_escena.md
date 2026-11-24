@@ -3,99 +3,10 @@
 
 ---
 
-## COMANDO 1 (T792)
-espero a que pase algo
-
-## RESPUESTA 1 (T792)
-
-> espero a que pase algo
-
-La mañana sigue tranquila un buen rato.
-
-Sanji y Luffy discuten a los gritos en la cocina sobre si las sirenas tienen escamas en la cara o no. Nami termina de contar la plata por cuarta vez. Usopp sigue dibujando escondido. Robin lee. Kase cambia de lado en el alféizar para seguir el sol.
-
-A las diez y cinco, la pared del comedor revienta.
-
-No es una explosión. Es un puño. Ladrillos, yeso y pedazos de un cuadro vuelan por todo el cuarto. Chopper sale disparado debajo de la mesa. Nami se tira al piso abrazada al bolso. Robin levanta el libro para cubrirse la cara de la lluvia de polvo.
-
-Por el agujero entra un hombre enorme. Lleva una máscara de perro de juguete en la cara y el abrigo blanco de la Marina sobre los hombros, con la palabra «JUSTICIA» bordada en la espalda. Es viejo, pero los brazos le llenan las mangas como troncos.
-
-Va directo a Luffy, que lo mira con la boca abierta, y le pega en la cabeza con el puño cerrado.
-
-—¡PUÑO DEL AMOR!
-
-El golpe hunde a Luffy en el piso de madera hasta el cuello.
-
-—¡¡AAAAAY!! —Luffy se agarra la cabeza, que se le infló con un chichón del tamaño de una manzana—. ¡¿Por qué me duele?! ¡Soy de goma! ¡Los golpes no me duelen!
-
-—¡Porque es un puño del amor, mocoso!
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Puño de Monkey D. Garp                       ║
-║ USUARIO: Monkey D. Garp · One Piece          ║
-║                                              ║
-║ MISIÓN: Recibir un Puño del Amor de Garp en  ║
-║ la cabeza y no pestañear.                    ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔════════════════════════════════════════╗
-║ MONKEY D. GARP                         ║
-║ Vicealmirante · Marina                 ║
-║ PODER: fuerza física, Haki, puño       ║
-║ AMENAZA: ALTA                          ║
-║ Diferencia estimada: x0,3 sobre ti     ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-```
-
-El hombre se saca la máscara de perro. Debajo hay una cara ancha, barba blanca, una cicatriz sobre el ojo izquierdo y una sonrisa enorme.
-
-—¡Bwahahaha! ¡Tanto tiempo, Luffy!
-
-Luffy se queda pálido, enterrado hasta el cuello.
-
-—A-a-abuelo...
-
-—¡¿ABUELO?! —grita toda la tripulación al mismo tiempo.
-
-Por el agujero de la pared entran dos marines más jóvenes. Uno tiene el pelo rosado, una cicatriz en la frente y los ojos brillosos. El otro es alto y rubio, con lentes y dos cuchillos curvos en la cintura.
-
-—¡Luffy-san! —El de pelo rosado se pone firme y le tiemblan los labios—. ¡Soy yo! ¡Koby!
-
-Garp se rasca la barba y recorre el cuarto con la mirada. Pasa por la tripulación, por la pared rota y por Robin en el sillón. Se detiene en ti.
-
-Te mira el pelo de dos colores, la cicatriz del ojo, el gato del alféizar.
-
-—Y tú debes ser el del gato. —Se le ensancha la sonrisa—. Ojos de Eclipse.
-
-Mira a Robin. Te mira otra vez. Se ríe a carcajadas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 792 · ONE PIECE · DÍA 38 · 10:05       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 212.440/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T793)
+## COMANDO 1 (T793)
 hola vice almirante garp
 
-## RESPUESTA 2 (T793)
+## RESPUESTA 1 (T793)
 
 > hola vice almirante garp
 
@@ -146,10 +57,10 @@ Koby da un paso adelante, con las manos levantadas.
 
 ---
 
-## COMANDO 3 (T794)
+## COMANDO 2 (T794)
 a ver
 
-## RESPUESTA 3 (T794)
+## RESPUESTA 2 (T794)
 
 > a ver
 
@@ -221,4 +132,67 @@ Robin, en el sillón, vuelve a abrir el libro como si nada. Sonríe detrás de l
 ```
 
 ---
-ESTADO AL CIERRE: la escena sigue en el comedor destrozado. Garp acaba de comprobar que su puño no le hace nada a Facundo. Luffy enterrado hasta el cuello. Koby y Helmeppo presentes. Lo siguiente en el canon: Garp revela que el padre de Luffy es Dragon, habla de los Yonko y el Nuevo Mundo; llegan los carteles nuevos por Enies Lobby (Día 38 a la tarde).
+
+## COMANDO 3 (T795)
+le sonrio a garp
+
+## RESPUESTA 3 (T795)
+
+> le sonrio a garp
+
+Le sonríes.
+
+Garp se te queda mirando un segundo, con el puño todavía rojo, y la carcajada le vuelve más fuerte que antes. Se agarra la panza.
+
+—¡Encima sonríe! ¡Bwahahaha! ¡Le parto el piso en la cabeza y me sonríe!
+
+Se agacha, agarra a Luffy de la oreja y lo arranca del piso como una zanahoria.
+
+—¡Auch, auch, auch! ¡Abuelo, la oreja!
+
+—¡Silencio! —Lo suelta sobre la mesa, entre los platos—. Siéntate como la gente.
+
+Garp arrastra una silla, la da vuelta y se sienta a caballo. La silla cruje bajo su peso. Mete la mano en el abrigo, saca la bolsa de galletas de arroz y te ofrece una, estirando el brazo por encima de la mesa.
+
+—Toma. Te la ganaste.
+
+Muerde otra él mismo y te señala con lo que queda.
+
+—Escúchame bien, muchacho, que esto lo digo en serio. —Se inclina hacia adelante—. Únete a la Marina. ¡Con ese cráneo serías almirante en un año! ¡En medio año! Yo mismo te entreno. Le dejas a este mocoso de goma su barquito de piratas y te vienes conmigo, y en un par de años tú y yo...
+
+Se le cierran los ojos.
+
+La cabeza le cae hacia adelante sobre el respaldo de la silla. La galleta le queda colgando de la boca. Una burbuja de moco le crece en la nariz, se infla y se desinfla con cada ronquido.
+
+El comedor se queda en silencio.
+
+—¡¿Se durmió?! —grita Nami—. ¡¿En medio de la frase?!
+
+Koby se tapa la cara con las dos manos, colorado hasta las orejas.
+
+—Le pasa seguido... Perdón... Garp-san es así...
+
+Helmeppo suspira y se apoya contra la pared rota.
+
+—Mínimo veinte minutos. Mejor se sientan.
+
+Luffy, sentado arriba de la mesa, se frota la oreja y aprovecha para robarle una galleta de la bolsa al abuelo dormido.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 795 · ONE PIECE · DÍA 38 · 10:09       ║
+║ Water 7 · casa de la Galley-La               ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el alféizar, al sol                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Barco nuevo en construcción (4-5   ║
+║ días). Salir de One Piece antes del Día 49.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: comedor destrozado de la casa de la Galley-La. Garp dormido a caballo en una silla, en medio de su oferta de que Facundo se una a la Marina. Koby y Helmeppo presentes; Luffy sentado en la mesa. Lo siguiente en el canon: Garp revela que el padre de Luffy es Dragon, habla de los Yonko y el Nuevo Mundo; llegan los carteles nuevos por Enies Lobby (Día 38 a la tarde).

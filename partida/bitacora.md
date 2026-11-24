@@ -793,3 +793,4 @@ T791 · One Piece · Water 7 · ¿Siguiente isla? Robin: Sabaody y la Isla Gyoji
 T792 · One Piece · Water 7 · Llega Garp con Koby y Helmeppo; Puño del Amor a Luffy: "¡Soy tu abuelo!" Misión de copia: Garp.
 T793 · One Piece · Water 7 · "Hola, vicealmirante Garp." Garp leyó los informes de Enies Lobby; levanta el puño para probarlo.
 T794 · One Piece · Water 7 · Recibe el Puño del Amor de Garp sin pestañear. COPIA Garp (+800 EXP).
+T795 · One Piece · Water 7 · Le sonríe a Garp. Garp le ofrece unirse a la Marina y se duerme a mitad de frase.
