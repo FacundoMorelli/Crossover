@@ -48,3 +48,6 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T812 (One Piece) · Después de que Facundo recibe el dolor de Kuma, le da un cabezazo fuerte en la mandíbula y se acurruca contra su pecho ronroneando, sin soltarlo.
 - T860 (Shingeki) · Se queda en la mansión Tybur acurrucado en el regazo del sobrino de 6 años de Willy, que deja de llorar abrazándolo.
 - T879 (One Piece) · Se mete dentro de la camisa del uniforme de marine de Facundo para esconderse; queda como una barriga enorme que ronronea.
+
+### Fairy Tail
+- T997 · Cruza la Puerta con Facundo. Llega a Magnolia sin erizarse; mira todo tranquilo.

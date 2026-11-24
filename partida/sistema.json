@@ -1,8 +1,8 @@
 {
-  "turno": 996,
-  "mundo_actual": "jujutsu",
-  "fecha_local": "29/04/2019",
-  "hora": "10:20",
+  "turno": 997,
+  "mundo_actual": "fairytail",
+  "fecha_local": "X784, julio · Día 1",
+  "hora": "07:00",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
@@ -43,6 +43,11 @@
       "moneda": "monedas de plata de Marley",
       "cantidad": 30,
       "cambio": "1 Fragmento = 20 monedas de plata de Marley (fijado T519). Un jornal obrero ronda 2-3 monedas."
+    },
+    "fairytail": {
+      "moneda": "jewel",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 jewel (fijado T997)"
     }
   },
   "puntos_de_stat_sin_asignar": 145,
@@ -258,6 +263,21 @@
         "desbloqueo": 70,
         "estado": "bloqueada"
       }
+    },
+    "fairytail": {
+      "nombre": "Magia Perdida: Constelación Viva",
+      "tipo": "magia perdida (Fiore)",
+      "maestria": 30,
+      "reglas": [
+        "Facundo traza con el dedo (o con la punta de una espada) una figura de estrellas en el aire; al cerrarla, la constelación se vuelve un cuerpo de luz estelar sólida: una bestia, un guerrero, un arma o un muro, con la forma que tracé.",
+        "Cada constelación tiene voluntad propia: pelea, protege o carga por su cuenta según la orden que le dio al trazarla, y dura hasta que Facundo la deshace o la destruyen.",
+        "Su fuerza depende de las estrellas que tenga: más puntos, más poder (3 estrellas = un perro de luz; 30 = un dragón del tamaño de una casa).",
+        "Constelaciones simultáneas: 3 en maestría 30; +1 cada 10 de maestría.",
+        "Marca de Estrella: puede dejar una sola estrella en el cuerpo de un aliado; mientras la lleve, Facundo le pasa magia a distancia y sabe dónde está.",
+        "No son espíritus celestiales: no usan llaves, no tienen contrato ni mundo propio.",
+        "Formas bloqueadas: GRAN FIRMAMENTO (maestría 60: traza el cielo entero sobre un campo de batalla y cada estrella cae como lanza o se levanta como figura); SUPERNOVA (maestría 90: hace estallar una constelación con toda su luz)."
+      ],
+      "turno": 997
     }
   },
   "velo": {
@@ -1581,7 +1601,8 @@
       "dragonball",
       "onepiece",
       "shingeki",
-      "blackclover"
+      "blackclover",
+      "fairytail"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -1593,15 +1614,15 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "blackclover",
-      "mision": "Que Kiato no pierda la pierna y que Kahono no pierda la voz.",
-      "recompensa": "8.000 EXP · 200 Fragmentos",
+      "mundo": "fairytail",
+      "mision": "Que la sede de Fairy Tail siga en pie cuando termine la guerra con Phantom Lord.",
+      "recompensa": "9.000 EXP · 250 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T464)"
+      "estado": "ACTIVA (T997)"
     },
     "relojes": {
-      "jujutsu": "VUELVE 25/04/2019 06:40 (~83 días después de irse el 01/02/2019 18:05), portón de la escuela de Tokio.",
+      "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
       "bleach": {
         "llegada": "23/06",
         "salida": "26/08 22:30",
@@ -1620,7 +1641,8 @@
         "corre_desde": "T489 al ritmo de Facundo",
         "nota": "Prometió volver en unos días."
       },
-      "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49."
+      "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
+      "fairytail": "Llegada X784, julio, Día 1 06:40, Parque de la Puerta Sur de Magnolia (mañana del cap. 48)."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -1864,7 +1886,14 @@
     "onepiece_mientras_shingeki": "Mientras Facundo está en Shingeki (OP Día 44 → ~Día 54 al día 44 de Shingeki): canon con cambios. Día ~47-48 Sabaody: Hachi, Camie, subasta, Luffy golpea al Dragón Celestial, Kizaru, Pacifistas, Rayleigh. Día ~49: Kuma dispersa a la tripulación (Robin a Tequila Wolf, esclavizada en la construcción del puente; Luffy a Amazon Lily). Día ~51: se anuncia la ejecución pública de Ace. Luffy va a Impel Down (~Día 53-55). MARINEFORD ~Día 57-58 si nadie interviene (Ace y Barbablanca mueren en el canon). Facundo no sabe nada de esto.",
     "boton_willy_dia43": "Noche del día 43 → 44, 02:40: un grupo de oficiales leales a Calvi (con apoyo de dos ministros) intenta sacar a Calvi de la prisión militar y arrestar a Willy y a Magath por 'traición'. Rodean la mansión Tybur. Willy aprieta el botón de aviso. Lara está en la casa (podría transformarse en el Martillo, pero eso mataría gente y rompería la paz ante el mundo).",
     "onepiece_dias44_56": "Simulado al volver (T867), canon: Días 44-46 Thriller Bark y salida del Triángulo. Día 47 llegan a Sabaody: Hachi, Camie secuestrada, subasta; Luffy golpea al Dragón Celestial Charlos; Rayleigh. Kizaru, Pacifistas y Sentomaru los cercan. Día 49: Kuma dispersa a la tripulación uno por uno (Robin a Tequila Wolf en East Blue, esclava en la construcción del puente; Zoro a Kuraigana; Sanji a Momoiro; Nami a Weatheria; Usopp a Boin; Chopper a Torino; Franky a Karakuri; Brook a Namakura; Luffy a Amazon Lily). Día 50: el Gobierno anuncia la ejecución de Ace en Marineford. Días 51-54: Luffy y Hancock; Luffy entra a Impel Down (Día 54). Día 56: fuga de Impel Down en curso (Luffy, Ivankov, Jinbe, Crocodile, Buggy, Mr. 3). Mañana Día 57, 15:00: ejecución de Ace en Marineford; Barbablanca va a atacar. Hachi herido (Día 48, disparo de Charlos), recuperándose en el bar de Shakky. Rayleigh revisa el Sunny cada día en el Grove 41.",
-    "marineford": "Canon de Marineford (si nadie interviene): ~11:00 la flota de Barbablanca emerge en la bahía; Barbablanca provoca terremotos; Oars Jr., los comandantes; Squard apuñala a Barbablanca (engaño de Akainu); ~13:00 el buque de Impel Down cae del cielo con Luffy, Buggy, Crocodile, Jinbe, Ivankov, Mr. 3; Luffy avanza; Pacifistas; Sengoku adelanta la ejecución; Luffy con ayuda de Mr. 3 libera a Ace en el cadalso (~15:00); en la huida, Akainu insulta a Barbablanca; Ace vuelve, Akainu ataca a Luffy, Ace se interpone y muere; Barbablanca muere de pie; llega Barbanegra con la Gura Gura; Shanks termina la guerra. Coby grita '¡Basta!'. Hancock, Mihawk, Doflamingo, Kuma, Moria presentes como Shichibukai; Jinbe se pasó al lado de Luffy."
+    "marineford": "Canon de Marineford (si nadie interviene): ~11:00 la flota de Barbablanca emerge en la bahía; Barbablanca provoca terremotos; Oars Jr., los comandantes; Squard apuñala a Barbablanca (engaño de Akainu); ~13:00 el buque de Impel Down cae del cielo con Luffy, Buggy, Crocodile, Jinbe, Ivankov, Mr. 3; Luffy avanza; Pacifistas; Sengoku adelanta la ejecución; Luffy con ayuda de Mr. 3 libera a Ace en el cadalso (~15:00); en la huida, Akainu insulta a Barbablanca; Ace vuelve, Akainu ataca a Luffy, Ace se interpone y muere; Barbablanca muere de pie; llega Barbanegra con la Gura Gura; Shanks termina la guerra. Coby grita '¡Basta!'. Hancock, Mihawk, Doflamingo, Kuma, Moria presentes como Shichibukai; Jinbe se pasó al lado de Luffy.",
+    "fairytail": {
+      "tirada_mundo": 0.5214,
+      "tirada_momento": 0.3009,
+      "momento_del_canon": "Arco de Phantom Lord, cap. 48: mañana después del ataque a la sede (pilares de hierro). Gajeel crucificó a Shadow Gear (Levy, Jet, Droy) en el árbol del Parque de la Puerta Sur con el emblema de Phantom pintado en el vientre de Levy. Fairy Tail llega en minutos; Makarov rompe el bastón y declara la guerra. Después: ataque a Oak Town, captura de Lucy, Aria drena a Makarov, Jupiter contra la sede (Erza herida), MK II, Abyss Break, la sede de Fairy Tail cae (cap. ~61), Fairy Law.",
+      "lugar_de_llegada": "Parque de la Puerta Sur de Magnolia, al amanecer, a ~80 m del árbol de Shadow Gear",
+      "apodo_pendiente": "'Estrella Gemela' (si lo ven pelear con las constelaciones y las dos espadas en Magnolia/Phantom)"
+    }
   },
   "recompensa_onepiece": {
     "monto": 400000000,

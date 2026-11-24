@@ -33,3 +33,6 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 854 · Liberio · Firma como testigo el tratado de paz entre Paradis y Marley.
 - Turno 867 · Deja Shingeki (día 47) y vuelve a One Piece (Día 56, Sabaody). La tripulación fue dispersada por Kuma; mañana es Marineford.
 - Turno 900 · Marineford · Libera a Ace en la cima del cadalso.
+
+### Fairy Tail
+- Turno 997 · Cruza la Puerta desde Kioto. Llega a Magnolia (X784, Phantom Lord). Don de Mundo: Magia Perdida: Constelación Viva.

@@ -139,3 +139,17 @@
 - Shingeki: salida día 66 13:35 (patio trasero del ayuntamiento de Shiganshina). Sin titanes, revividos, paz. Prometió a Ymir volver. Corre.
 - Jujutsu: VUELVE 25/04/2019 06:40 (~83 días después: ~9 en Bleach + ~74 según el reloj de One Piece desde su Día 1), portón de la escuela de Tokio.
 - One Piece (OP = SNK + 9 d 5 h 30 min), Dragon Ball, Black Clover, Bleach: corren.
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 7 | Fairy Tail | X784, julio, Día 1, 06:55 | Phantom Lord (cap. 48: Shadow Gear crucificado) | Que la sede de Fairy Tail siga en pie cuando termine la guerra con Phantom Lord. | ACTIVA |
+
+## RELOJES (actualizado T997)
+- Jujutsu: salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Nanami vio la Puerta. Prometió avisarle al volver. Corre.
+- Fairy Tail: llegada X784, julio, Día 1, 06:55, Parque de la Puerta Sur de Magnolia.
+- Shingeki, One Piece, Dragon Ball, Black Clover, Bleach: corren.
+
+### Fairy Tail
+- MISIÓN: Que la sede de Fairy Tail siga en pie cuando termine la guerra con Phantom Lord.
+- RECOMPENSA: 9.000 EXP · 250 Fragmentos
+- VENCE: nunca · CAMBIADA: no

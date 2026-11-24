@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T994)
-eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
-
-## RESPUESTA 1 (T994)
-
-> eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
-
-> —Eh, eso es una habilidad de mis ojos. No es ninguna técnica maldita.
-
-Las siluetas se miran entre ellas detrás del papel.
-
-—De los ojos —repite la voz vieja, despacio.
-
-—Como los Seis Ojos de los Gojo —dice la mujer, más para los otros que para ti—. Un rasgo heredado. No una técnica. —Una pausa—. Rojo y azul. —Lo dice como quien anota un color en una ficha.
-
-Utahime te mira a la cara. A los ojos. Primero al izquierdo, después al derecho. Se le tensa la mandíbula, como si de pronto se acordara de alguien que también tenía ojos que no eran normales y que también entraba y salía cuando quería.
-
-Nanami escribe algo más en la libreta. Cierra la libreta.
-
-Detrás de los biombos, un murmullo corto. Después, silencio.
-
-—Se registrará como rasgo ocular hereditario, de naturaleza desconocida —dice la voz vieja. Ya no suena seca: suena cansada—. La audiencia terminó. Puede retirarse, Morelli.
-
-Una última pausa.
-
-—Bienvenido al grado especial.
-
-Los dos hechiceros de túnica gris abren la puerta corrediza.
-
-Afuera llueve. Una llovizna fina, que cae sobre la piedra rastrillada del jardín sin hacer ruido. Utahime sale detrás de ustedes, se detiene en el corredor de madera, te mira un momento como si fuera a decir algo, y no lo dice. Hace una reverencia corta a Nanami y se va por otro pasillo.
-
-Nanami camina a tu lado por el corredor, en silencio, con el portafolio bajo el brazo y la manga vacía sujeta con el alfiler. Kase mira la lluvia desde tu hombro.
-
-Al llegar al portón, Nanami se detiene bajo el alero, donde no llega el agua. Mira la lluvia. No te mira a ti.
-
-—Morelli-kun. —La voz, plana como siempre—. Esa marca. La de su técnica. —Hace una pausa—. Hay que ponerla antes, ¿no? Antes de que se rompa lo que se quiere arreglar.
-
-No espera respuesta.
-
-—Mi brazo lo perdí en diciembre. —Se acomoda los anteojos—. No tenía ninguna marca. —Una pausa larga—. No le estoy pidiendo nada. Solo quería que supiera que lo entendí.
-
-Abre un paraguas negro con una sola mano, con la práctica de cuatro meses.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 994 · JUJUTSU · 29/04/2019 · 10:15     ║
-║ Kioto · portón de la sede, bajo la lluvia    ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Audiencia terminada: grado         ║
-║ especial. Nanami habla de su brazo.          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T995)
+## COMANDO 1 (T995)
 uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
 
-## RESPUESTA 2 (T995)
+## RESPUESTA 1 (T995)
 
 > uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
 
@@ -129,10 +69,10 @@ Kase, en tu hombro, mira a Nanami con los ojos entrecerrados. Parpadea una vez, 
 
 ---
 
-## COMANDO 3 (T996)
+## COMANDO 2 (T996)
 bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
 
-## RESPUESTA 3 (T996)
+## RESPUESTA 2 (T996)
 
 > bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
 
@@ -177,4 +117,101 @@ Detrás de él, la llovizna sigue cayendo sobre los jardines de piedra de la sed
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:20, portón de la sede de Kioto, llovizna. Facundo se despidió de Nanami (le dio la mano con la izquierda; le pide avisar cuando vuelva). Próximo destino sin elegir. Facundo puede actuar.
+## COMANDO 3 (T997)
+voy al nuevo mundo
+
+## RESPUESTA 3 (T997)
+
+> voy al nuevo mundo
+
+Nanami no pregunta adónde.
+
+Das dos pasos hacia la lluvia y el aire delante de ti se abre. Es una puerta sin marco, un rectángulo de luz blanca recortado en la llovizna, con un borde rojo y azul que tiembla como el calor sobre el asfalto. Del otro lado no se ve nada.
+
+Nanami la mira por encima del paraguas. Se acomoda los anteojos con la izquierda. No dice nada. Después hace una reverencia corta, la misma que les hace a los superiores, y se queda quieto bajo el alero, mirando, hasta que cruzas.
+
+Kase entierra las uñas en el hombro del sobretodo.
+
+La luz te pasa por encima como agua tibia.
+
+[Mundo nuevo.]
+
+Lo primero es el olor. Pan recién horneado, piedra mojada por el rocío, el olor a río que sube de un canal. No llueve. El cielo está despejado y celeste pálido, con el sol todavía bajo, y la luz cae dorada sobre techos de tejas rojas y paredes blancas con vigas de madera.
+
+Estás parado sobre el césped de un parque, entre dos faroles de hierro forjado. Los faroles tienen adentro unas esferas de cristal que se van apagando solas, una por una, a medida que sube el sol, sin que nadie las toque. Más allá de los techos se levanta el campanario de una catedral enorme, de piedra gris, y las campanas dan la hora: siete golpes lentos que retumban sobre toda la ciudad.
+
+Kase no se eriza. Mira a su alrededor con las orejas paradas, olfatea, y se queda tranquilo. Es la primera vez en mucho tiempo.
+
+Entonces escuchas las voces.
+
+A unos ochenta metros, en el centro del parque, hay un árbol enorme, viejo, con el tronco grueso como una torre y la copa abierta. Alrededor se junta gente. Vecinos en ropa de trabajo, una panadera con el delantal puesto, un viejo con un perro, dos chicos que deberían estar yendo a algún lado. Hablan bajo. Nadie se acerca demasiado al tronco.
+
+Hay tres personas clavadas en el árbol.
+
+Tres chicos jóvenes, colgados a varios metros del suelo con grilletes de hierro negro hundidos en la madera, los brazos abiertos. Un muchacho alto y flaco, de gorro, con la cabeza caída sobre el pecho. Otro robusto, de pelo negro en punta, con la cara hinchada de golpes. Y entre los dos, una chica bajita de pelo azul corto, con una bandana naranja torcida sobre la frente y el vestido roto. Tiene sangre seca en la boca. En el vientre, sobre la tela, alguien le pintó un emblema negro, grande, con trazos gruesos: una figura con forma de lápida.
+
+Los tres respiran. Apenas.
+
+Los grilletes no están atornillados. El hierro está metido en la corteza como si hubiera crecido ahí, y el aire alrededor del tronco huele a metal.
+
+—Son los chicos de Fairy Tail —dice la panadera, con la mano en la boca—. La pequeña Levy... La que viene todos los días por el pan de nuez.
+
+—Ese emblema es de Phantom —murmura el viejo del perro—. Phantom Lord. Ayer a la noche le metieron pilares de hierro a la sede del gremio. Y ahora esto.
+
+—Que alguien vaya a avisarle al maestro Makarov.
+
+—Ya fue mi hijo. Corriendo.
+
+Nadie trepa. Nadie toca el hierro.
+
+[Destino fijado.]
+
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Fairy Tail                            ║
+║ MAGIA PERDIDA: CONSTELACIÓN VIVA             ║
+║ Trazas estrellas en el aire y la figura se   ║
+║ vuelve un cuerpo de luz sólida con voluntad  ║
+║ propia: bestia, guerrero, arma o muro. Más   ║
+║ estrellas, más poder. Marca de Estrella:     ║
+║ una estrella en un aliado, para pasarle      ║
+║ magia y saber dónde está.                    ║
+║ 3 constelaciones a la vez · Bloqueadas:      ║
+║ Gran Firmamento (60), Supernova (90)         ║
+║ Maestría 30                                  ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Fairy Tail                            ║
+║                                              ║
+║ MISIÓN: Que la sede de Fairy Tail siga en    ║
+║ pie cuando termine la guerra con Phantom     ║
+║ Lord.                                        ║
+║ RECOMPENSA: 9.000 EXP · 250 Fragmentos       ║
+║ VENCE: nunca                                 ║
+╚══════════════════════════════════════════════╝
+
+Una de las esferas de cristal del farol que tienes al lado se apaga con un chasquido suave.
+
+En el árbol, la chica de pelo azul mueve los dedos de una mano. Solo los dedos. No abre los ojos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 997 · FAIRY TAIL · X784 · DÍA 1 · 07:00║
+║ Magnolia · Parque de la Puerta Sur           ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:00, Magnolia, Parque de la Puerta Sur. Shadow Gear crucificado en el árbol; vecinos alrededor; avisaron a Makarov. Facundo recién llegado, nadie lo vio llegar. Facundo puede actuar.

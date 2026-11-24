@@ -995,3 +995,4 @@ T993 · Jujutsu · Kioto · Declara la Manecilla Inversa. Utahime mira el brazo 
 T994 · Jujutsu · Kioto · "Es una habilidad de mis ojos." Rasgo ocular hereditario. "Bienvenido al grado especial." Nanami en el portón: su brazo no tenía marca; "solo quería que supiera que lo entendí."
 T995 · Jujutsu · Kioto · Transfiguración Ociosa: le devuelve el brazo izquierdo a Nanami. Dedo en los labios. Nanami: "No voy a preguntar. Gracias, Morelli-kun."
 T996 · Jujutsu · Kioto · Despedida de Nanami (le da la mano con la izquierda): "Cuando vuelva, avise. Me gustaría tener el café listo."
+T997 · Jujutsu → Fairy Tail · Puerta en el portón de Kioto (Nanami, reverencia). Magnolia, Parque de la Puerta Sur, X784 Día 1 07:00: Shadow Gear crucificado. Don: Constelación Viva. Misión: que la sede de Fairy Tail siga en pie.

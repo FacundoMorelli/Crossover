@@ -110,3 +110,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Junta · T993 · Por el informe de Sendai (Ijichi/alumnos): el dedo desapareció en un punto negro creado por Facundo.
 - Junta, Utahime, Nanami · T994 · Por Facundo: el punto negro de Sendai es una habilidad de sus ojos, no una técnica maldita. La junta lo registra como rasgo ocular hereditario.
 - Nanami · T995 · Sintió en el alma algo igual a la técnica de Mahito cuando Facundo le devolvió el brazo. Sabe que Facundo puede tocar el alma como Mahito. Guarda el secreto (Facundo se lo pidió con un gesto).
+- Kento Nanami · T997 · vio a Facundo abrir una puerta de luz en el aire (borde rojo y azul) en el portón de la sede de Kioto y cruzarla con Kase. No preguntó.
