@@ -151,3 +151,5 @@
 - Facundo · T720 · Por Iceburg: los planos los tiene "alguien que no los quiere" (Franky); mañana irán por él.
 - Facundo · T721 · Por Iceburg: los planos los tiene Franky, jefe de la familia Franky.
 - Iceburg · T721 · Confirma (sin palabras) que el "poroto" fue de Facundo.
+- Iceburg · T722 · Facundo dice que "le pegó" a gente de Franky (se pegaron solos).
+- Facundo · T722 · Por Iceburg: Lucci es el más peligroso de los cuatro.

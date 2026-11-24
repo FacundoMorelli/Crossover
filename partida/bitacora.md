@@ -720,3 +720,4 @@ T718 · One Piece · Galley-La · Espera a que se vayan y aparece ante Iceburg. 
 T719 · One Piece · Galley-La · Le cuenta a Iceburg lo del Gobierno y el Buster Call. Iceburg pregunta quiénes eran los otros cuatro.
 T720 · One Piece · Galley-La · Le dice a Iceburg que eran Lucci, Kaku y Kalifa. Iceburg deduce a Blueno. Los planos los tiene otro.
 T721 · One Piece · Galley-La · Iceburg no culpará a los Mugiwara. Le pide cuidar a Franky.
+T722 · One Piece · Galley-La · Promete cuidar a Franky. Iceburg: "cuídate de Lucci".
