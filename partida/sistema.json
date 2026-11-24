@@ -1,8 +1,8 @@
 {
-  "turno": 857,
+  "turno": 858,
   "mundo_actual": "shingeki",
-  "fecha_local": "Año 850, día 40 tras Shiganshina (Liberio, fiesta Tybur)",
-  "hora": "19:36",
+  "fecha_local": "Año 850, día 44 tras Shiganshina (Mitras)",
+  "hora": "02:40",
   "edad": 18,
   "nivel": 27,
   "exp": 218740,
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 92,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1577,7 +1577,8 @@
   "apodos": {
     "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
     "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa, desde T214)",
-    "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)"
+    "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)",
+    "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41)"
   },
   "tienda": {
     "catalogo_permanente": {
@@ -1771,7 +1772,9 @@
     "eren_memorias_futuras": "Día 14 tras Shiganshina (en ausencia de Facundo): ceremonia de medallas en Mitras; Eren besa la mano de Historia al recibir la suya (canon) y ve recuerdos del futuro (poder del Titán de Ataque + contacto con sangre real). Desde entonces sueña con fragmentos: el escenario de la fiesta en Liberio de noche, fuego, gente gritando, un titán enorme con forma de martillo, y una versión de sí mismo mucho mayor. Facundo NO aparece en ninguna (Velo). Eren no sabe si el futuro que ve es fijo o si ya cambió. No se lo contó entero a nadie.",
     "willy_dia35": "Willy sigue firme con la paz, pero el alto mando de Marley (general Calvi y otros) NO sabe del plan: creen que la fiesta es para declarar la guerra a Paradis (guion original) y la reorganizaron por su cuenta: cañones en los techos de la plaza, la candidata Gabi y los cadetes, la flota frenada por Magath pero lista en el puerto. Willy mantuvo en público el guion de guerra para no levantar sospechas; su plan es cambiar el discurso en el escenario. Lara Tybur porta el Martillo de Guerra y está al tanto. Muller informó al alto mando de un 'agente del Medio Oriente con un gato' visto con Magath; Magath lo frenó, pero el alto mando lo tiene anotado.",
     "canones_cadetes": "Los dos cañones del fondo los pidió el general Calvi en persona, con orden sellada: si en la fiesta 'algo sale mal' o la reina de Paradis aparece, disparar a la primera fila y culpar a Paradis ante los embajadores (bandera falsa: niños eldianos de Marley muertos por 'los demonios'). Solo Calvi y el jefe de esa batería lo saben. Muller no lo sabe (él cuida la plaza, no la artillería).",
-    "fiesta_dia40": "Día 40, 19:00: la fiesta empieza. Calvi en el palco del alto mando; Magath a su lado, tenso. Muller recorre la plaza. La batería del fondo tiene la orden sellada de Calvi: disparar a la primera fila si la reina de Paradis aparece. Los cuatro cañones laterales: disparar al escenario a la señal de Calvi (bengala roja). Willy cambiará el discurso al minuto ~5 y presentará a Historia al minuto ~10."
+    "fiesta_dia40": "Día 40, 19:00: la fiesta empieza. Calvi en el palco del alto mando; Magath a su lado, tenso. Muller recorre la plaza. La batería del fondo tiene la orden sellada de Calvi: disparar a la primera fila si la reina de Paradis aparece. Los cuatro cañones laterales: disparar al escenario a la señal de Calvi (bengala roja). Willy cambiará el discurso al minuto ~5 y presentará a Historia al minuto ~10.",
+    "onepiece_mientras_shingeki": "Mientras Facundo está en Shingeki (OP Día 44 → ~Día 54 al día 44 de Shingeki): canon con cambios. Día ~47-48 Sabaody: Hachi, Camie, subasta, Luffy golpea al Dragón Celestial, Kizaru, Pacifistas, Rayleigh. Día ~49: Kuma dispersa a la tripulación (Robin a Tequila Wolf, esclavizada en la construcción del puente; Luffy a Amazon Lily). Día ~51: se anuncia la ejecución pública de Ace. Luffy va a Impel Down (~Día 53-55). MARINEFORD ~Día 57-58 si nadie interviene (Ace y Barbablanca mueren en el canon). Facundo no sabe nada de esto.",
+    "boton_willy_dia43": "Noche del día 43 → 44, 02:40: un grupo de oficiales leales a Calvi (con apoyo de dos ministros) intenta sacar a Calvi de la prisión militar y arrestar a Willy y a Magath por 'traición'. Rodean la mansión Tybur. Willy aprieta el botón de aviso. Lara está en la casa (podría transformarse en el Martillo, pero eso mataría gente y rompería la paz ante el mundo)."
   },
   "recompensa_onepiece": {
     "monto": 400000000,
@@ -1784,7 +1787,7 @@
       "tiene": "Willy Tybur",
       "mundo": "shingeki",
       "entregado": "T565",
-      "usado": false
+      "usado": "T858 (día 44, 02:40)"
     }
   ],
   "relacion_actual": {

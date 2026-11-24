@@ -27,3 +27,4 @@ ESTADO: activo
 - T848 · Facundo puede cubrir toda la plaza. Willy propone dejar que disparen delante de los embajadores: "La mejor prueba de paz que podemos dar es que ellos disparen primero." Pregunta si está de acuerdo.
 - T849 · Día 40 19:00 · Sube al escenario de la fiesta con el discurso cambiado en la cabeza.
 - T850 · Día 40 · Discurso: revela la mentira de Helos y la paz de Paradis; presenta a Historia Reiss.
+- T858 · Día 44 02:40 · Aprieta el botón de aviso.

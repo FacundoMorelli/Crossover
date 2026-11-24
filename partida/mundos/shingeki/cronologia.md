@@ -74,3 +74,7 @@
 - Día 40 19:13-19:22 · (T852) Discurso de Historia. Magath arresta a Calvi. Kiyomi Azumabito (Hizuru) aplaude primero. Willy trae el tratado. Historia llama al emisario al escenario.
 - Día 40 19:25 · (T853) Facundo se presenta en el escenario ante el mundo como el emisario de Paradis. Firman el tratado: Historia, Willy Tybur, Magath. TRATADO DE PAZ PARADIS-MARLEY (cambio total del canon).
 - Día 40 19:28 · (T854) Facundo firma como testigo. TRATADO DE PAZ FIRMADO. Kiyomi Azumabito pide hablar con el emisario.
+- Día 40 noche · (T858) Kiyomi Azumabito conoce a Mikasa en el sótano: Mikasa se quita la venda; la marca de los Azumabito está. Acuerdo de principio Hizuru-Paradis con Historia. La comitiva vuelve a Mitras.
+- Día 41 · (T858) Diarios del continente: "EL EMISARIO DEL GATO", la foto del escenario. Calvi a corte marcial. Muller pide licencia. Países del Medio Oriente rechazan el tratado.
+- Días 41-43 · (T858) Mitras en fiesta. Eren dice que ya no sueña con fuego. Demostración fijada: día 50, Wall Rose, ante delegaciones extranjeras.
+- Día 44 02:40 · (T858) Willy aprieta el botón de aviso.

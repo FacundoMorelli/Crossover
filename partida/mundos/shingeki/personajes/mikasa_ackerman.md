@@ -15,3 +15,4 @@ ESTADO: activo
 - T508 · Facundo la deja ir. Asiente: "Gracias."
 - T558 · Se queda en la casa por pedido de Facundo. "Tráelo de vuelta."
 - T829 · Ve los ojos rojos de Eren; se planta delante de Facundo: "¿Qué le dijiste?" Eren la calma. No le cree pero se aparta.
+- T858 · Día 40 · Se quita la venda ante Kiyomi: tiene la marca de los Azumabito. Desconfiada.

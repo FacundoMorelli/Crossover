@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T855)
-si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
-
-## RESPUESTA 1 (T855)
-
-> si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
-
-> —Sí, señora. Y usted se parece mucho a una de mis compañeras. Ese pelo negro...
-
-Kiyomi Azumabito no contesta enseguida.
-
-Con un gesto chico del abanico te señala el telón. Pasan detrás, lejos del ruido, de los flashes y de los embajadores que ya empiezan a subir la escalera del escenario para darle la mano a Historia. Ahí atrás hace más fresco y huele a madera y a pólvora vieja. Ymir está a unos metros, apoyada contra un andamio, mirando de reojo, con los brazos cruzados.
-
-Kiyomi se detiene. Cierra el abanico con un golpe seco.
-
-Por un instante, la sonrisa diplomática se le cae de la cara. Debajo hay una mujer de cincuenta años que lleva mucho tiempo buscando algo.
-
-—Una compañera. —Lo repite despacio—. De pelo negro. De la isla.
-
-Respira hondo y se recompone. La voz le sale baja, medida.
-
-—Señor emisario, voy a ser honesta con usted, porque esta noche ya hubo demasiadas mentiras en esta plaza. —Mira hacia el telón, hacia la plaza que todavía aplaude—. Mi familia, la casa Azumabito, sirve al shogunato de Hizuru desde hace siglos. Hace más de cien años, cuando el rey de Eldia se encerró en su isla, una rama de la familia del shogun estaba allí. Eran aliados del rey. Se quedaron del otro lado de las murallas.
-
-Hace una pausa.
-
-—Nunca volvieron. Durante cien años los dimos por muertos. Pero en mi familia siempre se dijo que tal vez... —Se le quiebra apenas la voz, y la endereza enseguida—. Tal vez quedaba alguien.
-
-Te mira fijo. Los ojos oscuros le brillan.
-
-—Esa compañera suya... —Habla más despacio, como quien tiene miedo de la respuesta—. ¿Tiene por casualidad una marca en la muñeca? Un dibujo pequeño, como un tatuaje, en la parte de adentro. —Se toca la muñeca derecha con dos dedos—. Aquí.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 855 · SHINGEKI · DÍA 40 · 19:31        ║
-║ Liberio · detrás del telón                   ║
-║ NIVEL 27 · EXP 218.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
-║ Kiyomi pregunta por la marca de la muñeca.   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T856)
+## COMANDO 1 (T856)
 no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
 
-## RESPUESTA 2 (T856)
+## RESPUESTA 1 (T856)
 
 > no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
 
@@ -99,10 +51,10 @@ Detrás de ella, apoyada contra el andamio, Ymir levanta una ceja y te mira, pre
 
 ---
 
-## COMANDO 3 (T857)
+## COMANDO 2 (T857)
 si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
 
-## RESPUESTA 3 (T857)
+## RESPUESTA 2 (T857)
 
 > si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
 
@@ -149,4 +101,74 @@ Baja la vista hacia ti.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:36, detrás del telón. Kiyomi propone que Hizuru sea el primer aliado formal de Paradis (barcos, comercio, médicos, voz en las conferencias) a cambio de prioridad para comprar la piedra de hielo. Y pregunta: "Lo de los cañones... no fue la reina. Fue usted, ¿verdad?" Pendiente: presentarle a Mikasa (en el sótano).
+## COMANDO 3 (T858)
+asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
+
+## RESPUESTA 3 (T858)
+
+> asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
+
+> —Así es. Bueno, todo lo que me pidió no depende de mí, depende de mi reina. Así que, cuando quiera, puede hablar con ella.
+
+Kiyomi inclina la cabeza, satisfecha, como quien confirma lo que ya sabía.
+
+—Lo haré. —Abre el abanico—. Y gracias por no mentirme, señor emisario. Es raro en esta profesión.
+
+Esa misma noche, a las once, cuando la plaza ya se vació y quedan solo los papeles en el piso y el olor a pólvora, la llevas al sótano del edificio de ladrillo. Mikasa está sentada contra la pared, con la bufanda roja y la mano en la empuñadura de la espada. Se para cuando ve entrar a la desconocida del kimono.
+
+Kiyomi no dice nada al principio. Se queda mirándole la cara, el pelo negro, los ojos. Después le habla bajo, en marleyano, con mucho cuidado. Le pregunta por su madre.
+
+Mikasa te mira a ti antes de contestar. Asientes. Mikasa contesta poco, seca, desconfiada. Pero al final, cuando Kiyomi le muestra en el dorso de su propio abanico un dibujo pequeño, pintado en oro, Mikasa se queda quieta. Despacio, se desenrolla la venda de la muñeca derecha.
+
+El dibujo es el mismo.
+
+Kiyomi llora en silencio, de pie, con la espalda recta. Mikasa no sabe qué hacer con eso. Eren, en un rincón, mira la escena con los ojos muy abiertos.
+
+Después, Kiyomi habla una hora con Historia en el mismo sótano, sobre una caja de madera usada como mesa. Cuando terminan, hay un acuerdo de principio: Hizuru será el primer aliado de Paradis.
+
+A medianoche, uno por uno, devuelves a la comitiva a Mitras.
+
+El día cuarenta y uno, Willy manda a Mitras, por tu intermedio, un fajo de diarios del continente. Todos tienen la misma foto en primera plana: tú en el escenario, con el sombrero, la cicatriz y el gato en el hombro, al lado de Historia y la mesa del tratado. Y en letras enormes, el mismo titular en cinco idiomas:
+
+«EL EMISARIO DEL GATO».
+
+Hange recorta todas las fotos. Ymir pega una en la pared de su cuarto, al lado de la cama, y te prohíbe comentarlo.
+
+Las otras noticias llegan en los días siguientes. Calvi va a corte marcial. El coronel Muller pidió una licencia «por motivos de salud». La Alianza del Medio Oriente rechaza el tratado y dice que es un engaño de los demonios. Otros nueve países piden visitar la isla.
+
+Mitras está en fiesta. Hay gente en las calles cantando y banderas de la Corona en las ventanas. Historia no duerme de tanto firmar cartas. Ymir te arrastra a los mercados, a los techos y a la cocina del palacio a robar manzanas.
+
+El día cuarenta y dos, Eren te busca en el patio del cuartel y te dice una sola cosa, en voz baja, con algo parecido a una sonrisa:
+
+—Ya no sueño con fuego. Sueño en blanco. Como si no hubiera nada escrito todavía.
+
+Erwin, Zackly y los delegados extranjeros fijan la fecha de la demostración: el día cincuenta, en Wall Rose, ante testigos de cada nación que quiera mandarlos.
+
+La noche del día cuarenta y tres al cuarenta y cuatro duermes en el cuarto de huéspedes del ala este. Kase está acurrucado a los pies de la cama.
+
+A las dos y cuarenta de la madrugada te despiertas de golpe.
+
+Es una sensación que no se parece a nada: un tirón seco en el pecho, como un hilo que alguien jala desde el otro lado del mundo. Sabes exactamente de dónde viene, del botón plateado chico con el eclipse grabado, el que le diste a Willy Tybur.
+
+Alguien lo acaba de apretar.
+
+Kase ya está despierto, de pie sobre la cama, con el lomo arqueado y los ojos fijos en la ventana, hacia el mar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 858 · SHINGEKI · DÍA 44 · 02:40        ║
+║ Mitras · cuarto de huéspedes, ala este       ║
+║ NIVEL 27 · EXP 218.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: de pie en la cama, erizado             ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Willy apretó el botón de aviso.    ║
+║ Demostración: día 50, Wall Rose.             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 44 02:40, cuarto de huéspedes del ala este del palacio de Mitras. Facundo se despertó: Willy Tybur apretó el botón de aviso en Liberio. Kase erizado mirando hacia el mar. Antes: Kiyomi conoció a Mikasa (marca confirmada) y pactó con Historia; los diarios lo llaman "El Emisario del Gato"; Calvi a corte marcial; Muller de licencia; Medio Oriente rechaza el tratado; demostración fijada para el día 50 en Wall Rose; Eren "sueña en blanco".

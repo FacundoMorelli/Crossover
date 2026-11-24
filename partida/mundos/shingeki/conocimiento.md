@@ -158,3 +158,5 @@
 - Kiyomi Azumabito · T856 · Por Facundo: la compañera de pelo negro tiene una venda en la muñeca derecha; casi seguro tiene la marca.
 - Facundo · T857 · Por Kiyomi: Hizuru ofrece ser el primer aliado formal de Paradis (barcos, médicos, comercio, voz internacional) a cambio de prioridad en los recursos de la isla, sobre todo un mineral que arde sin humo.
 - Kiyomi · T857 · Deduce (fuente 4) que la barrera que frenó los cañones fue obra del emisario, no de la reina. No confirmado.
+- Kiyomi Azumabito, Mikasa · T858 · Kiyomi conoce a Mikasa y ve la marca. Mikasa sabe por Kiyomi que es descendiente de la familia del shogun de Hizuru.
+- Kiyomi · T858 · Por Facundo: sí, la barrera fue él (T858, confirmado).
