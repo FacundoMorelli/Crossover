@@ -72,3 +72,4 @@ ESTADO: activa
 - T784 · Sabe que Facundo copia habilidades. Pregunta si copió la suya.
 - T785 · Sabe que Facundo tiene su Hana Hana. Le tira de la oreja con una mano brotada. "Muéstrame."
 - T786 · Ve la Hana Hana de Facundo: "Tus flores son de otro color." "Es muy raro verse desde afuera."
+- T787 · Facundo la llama "amor" por primera vez. "Nadie me había llamado así."

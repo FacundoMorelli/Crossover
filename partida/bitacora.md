@@ -785,3 +785,4 @@ T783 · One Piece · Islote · "Era de los fuertes, pero no el más." Robin: "Me
 T784 · One Piece · Islote · "Puedo copiar habilidades." Robin ata cabos y pregunta si copió la suya.
 T785 · One Piece · Islote · "Sí, lo tengo también." Robin le tira de la oreja con una mano de la arena. "Muéstrame."
 T786 · One Piece · Islote · Usa la Hana Hana delante de Robin: brazos tatuados, pétalos blancos y azules.
+T787 · One Piece · Islote · "¿Volvemos con los demás, amor?" Robin: "Nadie me había llamado así."
