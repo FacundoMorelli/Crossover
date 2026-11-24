@@ -1,8 +1,8 @@
 {
-  "turno": 734,
+  "turno": 735,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 35 (Grand Line, Water 7)",
-  "hora": "18:42",
+  "hora": "18:44",
   "edad": 18,
   "nivel": 26,
   "exp": 209640,
@@ -977,6 +977,13 @@
       "mision": "Que Foxy te dé con su rayo lento y no te frene ni un segundo.",
       "dificultad": "BAJA",
       "emitida": "T686"
+    },
+    {
+      "poder": "Blueno: Doa Doa no Mi",
+      "mundo": "onepiece",
+      "mision": "Entrar por una de las puertas de Blueno y salir por la que tú elijas.",
+      "dificultad": "BAJA",
+      "emitida": "T735"
     }
   ],
   "misiones_de_copia_rechazadas": [],

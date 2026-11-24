@@ -733,3 +733,4 @@ T731 · One Piece · muelle · Franky rechaza unirse, pero refuerza el Merry par
 T732 · One Piece · muelle · Franky refuerza el Merry todo el día. Paulie: esta noche vuelven; tren a Enies Lobby a las 23.
 T733 · One Piece · Galley-La · Segunda noche: el CP9 se revela ante Iceburg, prende fuego y lo deja atado. Mandaron a buscar a Franky.
 T734 · One Piece · Galley-La · Desata a Iceburg y congela el fuego. Iceburg: "Ve por Franky."
+T735 · One Piece · muelle · Vuelve al Merry. Blueno abre una puerta en el aire y arrastra a Franky; Usopp se agarra.
