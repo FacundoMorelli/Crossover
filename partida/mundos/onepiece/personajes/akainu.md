@@ -9,3 +9,4 @@ ENCUENTROS:
 - T887-891 · Día 57 · Marineford. Ve a Facundo revelarse en el Moby Dick. Baja al hielo. Lanza un puño de magma (Dai Funka) contra Luffy: "Tu sangre no sale de esta isla."
 QUÉ SABE DE FACUNDO: el cartel (400M, Enies Lobby); que es del Sombrero de Paja; lo vio destruir tres Pacifistas.
 ESTADO: activo
+- T892 · Su Dai Funka le pega a Kizaru (Boogie Woogie de Facundo). Mira a Facundo: "Tú."

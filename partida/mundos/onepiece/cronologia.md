@@ -157,3 +157,4 @@
 - Día 57 12:58 · (T885) Facundo frena la espada de Squard antes de que apuñale a Barbablanca (canon: lo apuñalaba).
 - Día 57 13:00 · (T887) Facundo se revela en el Moby Dick. La Marina lo identifica como Ojos de Eclipse. Akainu se pone de pie.
 - Día 57 13:01 · (T888) Barbablanca come una semilla del ermitaño de Facundo: entero para la guerra (cambio grande: en el canon estaba enfermo y herido, Squard lo apuñalaba).
+- Día 57 13:05 · (T892) Kizaru recibe el Dai Funka de Akainu por el Boogie Woogie de Facundo (cambio).

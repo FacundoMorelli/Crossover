@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T889)
-voy con luffy, hola capitan, perdon por llegar tarde
-
-## RESPUESTA 1 (T889)
-
-> voy con luffy, hola capitan, perdon por llegar tarde
-
-Saltas de la baranda del Moby Dick al hielo.
-
-Pateas el piso y desapareces. Reapareces más adelante y otra vez más adelante, entre piratas y marines que pelean, entre cuerpos tirados y cráteres de magma humeante, sobre el hielo rajado de la bahía. Nadie te alcanza a ver pasar. Una bala de cañón revienta a tu lado y no la miras.
-
-Lo encuentras a mitad de camino del cadalso, rodeado.
-
-Luffy está parado sobre el hielo, empapado, con el chaleco rojo hecho jirones, la piel llena de moretones y quemaduras y los ojos rojos de cansancio. Respira rápido. Le tiemblan las piernas. Pero está de pie, con los puños cerrados, mirando el cadalso. A su lado, un hombre-pez enorme, de piel azul y kimono, se cubre de las balas con el brazo. Detrás, un hombre con la cabeza gigante y medias de red grita órdenes. Un payaso de nariz roja corre en círculos.
-
-Apareces delante de él.
-
-> —Hola, capitán. Perdón por llegar tarde.
-
-Luffy te mira. Al principio no entiende. Después se le ilumina la cara entera, de golpe, con una sonrisa que le ocupa toda la cara, sucia y llena de sangre.
-
-—¡¡FACUNDO!! —Te agarra de los hombros con las dos manos y te sacude—. ¡Viniste! ¡Shishishi! ¡Viniste!
-
-Se le borra la sonrisa un poco.
-
-—El oso. —Habla rápido—. Ese oso grande mandó a todos lejos. A Zoro, a Nami, a Robin, a todos. No sé dónde están. ¡Pero están vivos, yo sé que están vivos!
-
-Kase, en tu hombro, le apoya la nariz en la mejilla. Luffy se ríe.
-
-A unos metros, un hombre alto, de abrigo largo, con un garfio de oro y una cicatriz que le cruza la cara de lado a lado, se da vuelta. Crocodile. Te ve. Le cambia la cara.
-
-—Tú. —Escupe al hielo—. El del agua. Siempre aparece donde nadie lo llama.
-
-Jinbe te mira de arriba abajo, sin entender. Ivankov levanta una ceja pintada.
-
-Luffy no les presta atención. Se da vuelta y señala con el brazo estirado, por encima de la guerra, hacia el cadalso, hacia Ace.
-
-—¡Vamos por Ace!
-
-Delante de ustedes, entre el hielo y la plaza, se cierra una pared de marines con fusiles y espadas. Detrás de la pared avanzan tres figuras gigantes, con abrigos, gorras y la cara de Bartholomew Kuma: Pacifistas, con la boca abierta y una luz que empieza a juntarse adentro.
-
-Y más atrás, del muro de la plaza hacia la bahía, bajando los escalones despacio, con el puño humeando y los ojos clavados en Luffy, viene Akainu.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 889 · ONE PIECE · DÍA 57 · 13:03       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Akainu viene. Shingeki: antes del D59.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T890)
+## COMANDO 1 (T890)
 le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
 
-## RESPUESTA 2 (T890)
+## RESPUESTA 1 (T890)
 
 > le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
 
@@ -131,10 +71,10 @@ El brazo derecho le empieza a gotear magma.
 
 ---
 
-## COMANDO 3 (T891)
+## COMANDO 2 (T891)
 saco el arco quincy y les disparo a los pacifistas, vayamos luffy
 
-## RESPUESTA 3 (T891)
+## RESPUESTA 2 (T891)
 
 > saco el arco quincy y les disparo a los pacifistas, vayamos luffy
 
@@ -199,4 +139,74 @@ La montaña de magma sale volando en línea recta, por encima del hielo, derriti
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:05, bahía congelada de Marineford. Facundo destruyó los tres Pacifistas con flechas Quincy (+600 EXP, +75 F). Luffy salió en Gear Second hacia la pared de marines con Jinbe, Ivankov y Buggy; Facundo corre a su lado. Akainu lanzó un puño gigante de magma (Dai Funka) directo a Luffy: "Tu sangre no sale de esta isla." El puño está en el aire. Marcas: I Luffy, II Barbablanca.
+## COMANDO 3 (T892)
+jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
+
+## RESPUESTA 3 (T892)
+
+> jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
+
+Se te escapa una risa.
+
+La montaña de magma viene por el aire, enorme y burbujeante, a veinte metros de Luffy. Diez.
+
+Buscas con los ojos. En la plaza, al pie del cadalso, un hombre de traje amarillo a rayas pelea contra el rubio de las llamas azules, moviéndose a la velocidad de la luz entre fogonazos dorados: Kizaru.
+
+La energía maldita te baja a las manos.
+
+Aplaudes.
+
+¡PLAF!
+
+Luffy desaparece del hielo.
+
+En su lugar, en medio del camino del puño de magma, en el aire, aparece un hombre alto, de traje amarillo a rayas y lentes, a mitad de un movimiento, con la pierna levantada para una patada de luz que ya no tiene a quién pegarle. Kizaru parpadea detrás de los lentes. Mira alrededor. Ve el hielo. Ve el cielo. Ve, delante de su cara, una montaña de magma que ocupa todo.
+
+—¿Eh~?
+
+El Dai Funka le pega de lleno.
+
+El estruendo sacude la bahía. Una columna de vapor sube cincuenta metros. Kizaru sale despedido hacia atrás envuelto en magma, gira en el aire como un muñeco, cruza medio campo de batalla y se estrella contra el hielo, derritiéndolo en un cráter que hierve. Queda tirado en el fondo, humeando, con el traje amarillo hecho jirones negros y quemados y los lentes torcidos.
+
+Se sienta despacio. Está vivo. Furioso.
+
+—Ooooo... —Se toca el pecho quemado—. Eso dolió mucho~.
+
+En la plaza, al pie del cadalso, Luffy aparece de golpe en el lugar de Kizaru, delante de Marco, con el puño levantado y cara de no entender nada.
+
+Te agachas, levantas una piedra suelta del hielo, del tamaño de un puño, y la cargas con energía maldita.
+
+Aplaudes otra vez.
+
+¡PLAF!
+
+Luffy desaparece de la plaza y aparece a tu lado, en el hielo, todavía con el puño levantado. La piedra cae en la plaza, delante de Marco, y rueda hasta sus pies.
+
+Luffy se tambalea, mareado, y se agarra el sombrero con las dos manos.
+
+—¡¿Qué pasó?! —Gira la cabeza para todos lados—. ¡Estaba acá y después allá y después acá! ¡¿Qué fue eso?! —Ve a Kizaru humeando en el cráter—. ¡Ah! ¡El de amarillo está todo quemado! ¡Shishishi!
+
+En el borde del hielo, Akainu tiene el brazo todavía convertido en magma, chorreando sobre el hielo. Mira a Kizaru en el cráter, quemado por su propio puño. Después gira la cabeza despacio y te mira a ti.
+
+Por primera vez en toda la guerra, se le mueve algo en la cara.
+
+—Tú.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 892 · ONE PIECE · DÍA 57 · 13:05       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 220.440/240.000               ║
+║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Akainu te mira.                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:05, bahía congelada de Marineford. Con Boogie Woogie, Facundo cambió a Luffy por Kizaru: Kizaru recibió el Dai Funka de Akainu (quemado, vivo, en un cráter: "Eso dolió mucho~"). Con otro aplauso trajo a Luffy de vuelta a su lado (una piedra quedó en la plaza). Luffy mareado y riéndose. Akainu, con el brazo de magma, mira a Facundo: "Tú."
