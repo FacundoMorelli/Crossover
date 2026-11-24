@@ -140,7 +140,7 @@ ehhh quieren que la guarde?
 
 Se miran entre ellos.
 
-—Si la guardas tú, no la encuentra nadie —dice Uryū, sin dudar—. Ni él, ni nadie. Lo vimos con... —Baja la voz y mira de reojo a Yuzu y a Keigo, que están a unos pasos peleándose por una brocheta—. Con lo otro que guardaste.
+—Si la guardas tú, no la encuentra nadie —dice Uryū, sin dudar—. Ni él, ni nadie. Tus cosas aparecen y desaparecen de la nada. —Mira de reojo a Yuzu y a Keigo, que están a unos pasos peleándose por una brocheta, y baja la voz—. Te vi sacar las espadas de ningún lado.
 
 —No. —Ichigo niega con la cabeza, firme—. Piénsalo. Si la tienes tú, viene a buscarla y no la encuentra. Y tú no vas a estar, porque te vas en unos días. ¿Qué crees que va a hacer? Va a dar vuelta todo Karakura buscándola. —Se mete las manos en los bolsillos—. Si la dejamos aquí, o donde la pueda encontrar, viene, la agarra y me pelea a mí. Como siempre. Por lo menos sabemos dónde va a estar.
 

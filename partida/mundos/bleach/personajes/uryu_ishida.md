@@ -31,4 +31,4 @@ ESTADO: observando a Ichigo.
 - T297 · Cruza la Garganta con Facundo a Hueco Mundo.
 - T1033 · 20/12 · Pasa por la tienda "a comprar hilo": "Volviste más o menos igual." Deja una bufanda para Kase, mejor que la de Tessai.
 - T1036 · "Bueno. Eso fue... eficiente." "Su zanpakutō. Se quedó aquí."
-- T1037 · "Si la guardas tú, no la encuentra nadie. Lo vimos con lo otro que guardaste." "Urahara la va a abrir en dos para ver qué tiene adentro."
+- T1037 · "Si la guardas tú, no la encuentra nadie. Te vi sacar las espadas de ningún lado." "Urahara la va a abrir en dos para ver qué tiene adentro."
