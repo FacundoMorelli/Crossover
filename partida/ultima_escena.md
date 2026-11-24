@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T971)
-por ahora me voy a ir hay muchas cosas que me faltan conocer, voy a volver no te preocupes, le agarro de la cintura y le doy un beso. Erwin, ya es hora que tambien liberen a los demas, a zeke, annie, reiner, bertholdt, pieck
-
-## RESPUESTA 1 (T971)
-
-> por ahora me voy a ir hay muchas cosas que me faltan conocer, voy a volver no te preocupes, le agarro de la cintura y le doy un beso. Erwin, ya es hora que tambien liberen a los demas, a zeke, annie, reiner, bertholdt, pieck
-
-> —Por ahora me voy a ir. Hay muchas cosas que me faltan conocer. Voy a volver, no te preocupes.
-
-Ymir no dice nada. Se te queda mirando con la media sonrisa todavía puesta, pero algo en los ojos se le aquieta.
-
-La agarras de la cintura y la besas.
-
-Ahí, en el balcón, delante de la reina, del comandante, de la plaza entera. Abajo, alguien lo ve y silba. Después silban cien. La canción se corta y se convierte en un griterío alegre que sube hasta el balcón. Ymir te agarra de la solapa del sobretodo y no te suelta hasta que termina.
-
-Se separa apenas. Te mira de cerca.
-
-—Más te vale, lindo. —Te lo dice contra la boca—. Esta vez no me como tus manzanas. Las guardo. Para cuando vuelvas.
-
-Te suelta la solapa. Se vuelve a apoyar en la baranda, de espaldas a la plaza, de brazos cruzados, haciéndose la que no le importa. Tiene las orejas coloradas.
-
-Historia mira para otro lado, muy concentrada en la plaza, con una sonrisa que no puede esconder.
-
-Te das vuelta hacia Erwin.
-
-> —Erwin, ya es hora de que también liberen a los demás. A Zeke, a Annie, a Reiner, a Bertholdt, a Pieck.
-
-Erwin no contesta enseguida. Mira la plaza. Mira a Levi, que se tensó apenas al oír el primer nombre.
-
-—Pieck Finger no está en nuestras manos —dice al fin, tranquilo—. Está en Liberio, libre, con su padre. Lo demás... —Hace una pausa—. Bajo el tratado, los cuatro son prisioneros de guerra de un conflicto que terminó. Ya no tienen titanes. Ya no son armas. Y la mayoría de la gente que mataron está en esa plaza, cantando.
-
-Levi chasquea la lengua. Mira para otro lado.
-
-—El barbudo me debe una conversación larga —murmura—. Pero no tiene que ser en una celda.
-
-Erwin asiente, como si eso fuera una firma.
-
-—Se hará. Esta semana. Zeke, Reiner y Bertholdt saldrán de sus celdas, y la señorita Leonhart de su habitación. Podrán quedarse en Paradis o volver a Liberio en el próximo barco del correo, como prefieran. —Te mira—. Le escribiré a Magath hoy mismo.
-
-Hange te mira con una sonrisa torcida.
-
-—Reiner va a llorar. Lo sé. Lo voy a anotar.
-
-Erwin se acerca un paso. Te tiende la única mano.
-
-—Señor Morelli. —Su voz es la de siempre, pero más baja—. Cuando vuelva, esta isla va a ser otra. Espero que la reconozca.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 971 · SHINGEKI · DÍA 66 · 13:16        ║
-║ Shiganshina · balcón del ayuntamiento        ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Despedirse. Erwin liberará a Zeke, ║
-║ Annie, Reiner y Bertholdt.                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T972)
+## COMANDO 1 (T972)
 si no la reconozco significa que hicimos las cosas bien, antes de irme les voy a dejar unas cosas a hange para que puedan descubrir como hacerlas
 
-## RESPUESTA 2 (T972)
+## RESPUESTA 1 (T972)
 
 > si no la reconozco significa que hicimos las cosas bien, antes de irme les voy a dejar unas cosas a hange para que puedan descubrir como hacerlas
 
@@ -135,10 +71,10 @@ No espera respuesta. Vuelve a extenderte la mano. Esta vez la sostiene más fuer
 
 ---
 
-## COMANDO 3 (T973)
+## COMANDO 2 (T973)
 le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
 
-## RESPUESTA 3 (T973)
+## RESPUESTA 2 (T973)
 
 > le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
 
@@ -192,4 +128,64 @@ Hange se acerca despacio, en puntas de pie, como quien se acerca a un caballo sa
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 66 13:26, patio trasero del ayuntamiento de Shiganshina. Facundo le dio la mano a Erwin y sacó una moto moderna para la Legión. Todos impresionados; Hange, de rodillas junto al motor, pregunta qué come la moto para andar. Facundo puede responder.
+## COMANDO 3 (T974)
+combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
+
+## RESPUESTA 3 (T974)
+
+> combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
+
+> —Combustible. Ustedes van a tener que averiguar de dónde sacarlo. Seguramente de las minas. Esto lo dejo aquí. Ahora me despido. Mándenles saludos a todos los que no están aquí.
+
+—¡Combustible! —Hange se pone de pie de un salto, con los anteojos torcidos—. ¡Las minas! ¡Moblit, las minas del norte, el aceite negro que sale de las grietas y nadie sabe para qué sirve! ¡Moblit!
+
+Moblit ya está anotando.
+
+Erwin da un paso atrás. Se lleva el puño derecho al pecho, sobre el corazón, y se pone firme. Levi lo imita, sin decir nada. Hange, con la radio otra vez bajo el brazo, también. Moblit. Historia, con la capa blanca, se lleva la mano al pecho igual que ellos.
+
+El saludo de la Legión. Para ti.
+
+Ymir no saluda. Se queda apoyada contra la pared del patio, con los brazos cruzados y la manta colgando de un hombro, mirándote. Levanta la barbilla, apenas. Es todo.
+
+Levantas la mano.
+
+La puerta se abre en el medio del patio, al lado de la moto, recta y alta. Del otro lado se ve un portón de madera antiguo, tejados curvos de templo, árboles con flores rosadas y un cielo de primavera.
+
+Kase se te acomoda en el hombro.
+
+Cruzas.
+
+El aire cambia: tibio, húmedo, con olor a tierra mojada, a cedro y a flores. Se oyen pájaros. Lejos, un tren. Y debajo de todo, ese zumbido que ya conoces, constante y espeso, de un lugar donde hay mucha energía maldita junta.
+
+Estás frente al portón principal de la Escuela Técnica de Hechicería de Tokio, exactamente donde te despediste. Los escalones de piedra suben entre los árboles. Los cerezos están terminando de florecer: el camino está alfombrado de pétalos rosados, y caen más con cada ráfaga de viento.
+
+Es temprano. El sol todavía está bajo, entre los cedros.
+
+Alguien baja corriendo por los escalones. Ropa deportiva, auriculares en el cuello, pelo rosado, la cara colorada por el trote de la mañana. Viene contando los escalones en voz baja, a los saltos, de dos en dos.
+
+Levanta la vista.
+
+Se frena en seco, con un pie en el aire, en el escalón catorce.
+
+Se le caen los auriculares del cuello.
+
+—¿...Facundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 974 · JUJUTSU · 25/04/2019 · 06:40     ║
+║ Escuela de Hechicería de Tokio · el portón   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: De vuelta en Jujutsu, casi tres    ║
+║ meses después.                               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: JUJUTSU, 25/04/2019 06:40, portón de la escuela de Tokio. Facundo se despidió de Shingeki (saludo de la Legión) y cruzó. Yuji, trotando, lo ve desde el escalón catorce: "¿...Facundo?" Facundo puede actuar.

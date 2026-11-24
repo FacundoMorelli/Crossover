@@ -75,3 +75,6 @@
 - 24/01 · (T294) Tumba de Wasuke Itadori en Sendai.
 - 25/01-01/02 · (T294) Entrenamientos, misión chica, cena con Nanami, Todo.
 - 01/02/2019 · (T294) Despedida en el portón de la escuela.
+
+- 01/02-25/04/2019 · (en ausencia de Facundo; se simulará lo que haga falta) Nuevo año escolar en abril.
+- 25/04/2019 06:40 · (T974) Facundo vuelve por una puerta al portón de la escuela de Tokio. Yuji lo ve.

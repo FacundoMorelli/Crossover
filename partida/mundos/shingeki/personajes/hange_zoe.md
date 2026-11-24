@@ -30,3 +30,4 @@ ESTADO: activo
 - T971 · "Reiner va a llorar. Lo voy a anotar."
 - T972 · Recibe de Facundo: linterna eléctrica, radio de manivela, reloj de pulsera, antibióticos con instrucciones, libro de medicina básica, semillas de clima frío. Abraza la radio. Levi la frena. "No preguntar cómo. Lo voy a descubrir sola. Aunque me lleve diez años."
 - T973 · De rodillas junto a la moto: "Esto no es un carruaje. Es el caballo. ¿Qué come?"
+- T974 · "¡Combustible! ¡Las minas del norte, el aceite negro de las grietas!" Saludo de la Legión.

@@ -1,8 +1,8 @@
 {
-  "turno": 973,
-  "mundo_actual": "shingeki",
-  "fecha_local": "Día 66 tras Shiganshina (año 850)",
-  "hora": "13:26",
+  "turno": 974,
+  "mundo_actual": "jujutsu",
+  "fecha_local": "25/04/2019",
+  "hora": "06:40",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
@@ -262,7 +262,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Shingeki)"
+    "poder_mostrado": "persona común (Jujutsu)"
   },
   "armas": [
     {
@@ -1601,14 +1601,7 @@
       "estado": "CUMPLIDA (T464)"
     },
     "relojes": {
-      "jujutsu": {
-        "llegada": "31/10/2018 23:14",
-        "salida": "05/11/2018 22:55",
-        "dias_transcurridos_al_salir": 5,
-        "corre_desde": "T86 al ritmo de Facundo",
-        "regreso": "17/01/2019 20:10 (T276): 73 días después de irse (64 en Bleach + 9 en Dragon Ball)",
-        "segunda_salida": "01/02/2019 18:05; corre desde T295"
-      },
+      "jujutsu": "VUELVE 25/04/2019 06:40 (~83 días después de irse el 01/02/2019 18:05), portón de la escuela de Tokio.",
       "bleach": {
         "llegada": "23/06",
         "salida": "26/08 22:30",
@@ -1619,7 +1612,7 @@
       },
       "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre.",
       "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
-      "shingeki": "VUELVE día 55 00:40 (8 h 25 min después), techo del palacio de Mitras.",
+      "shingeki": "Salida día 66 13:35 desde el patio trasero del ayuntamiento de Shiganshina. Mundo sin titanes; revividos; paz. Prometió a Ymir volver (guarda las manzanas). Corre.",
       "blackclover": {
         "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
         "salida": "dos días después de la luna llena, 06:18, base de los Toros Negros",

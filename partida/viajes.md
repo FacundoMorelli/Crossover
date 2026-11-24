@@ -134,3 +134,8 @@
 - Dragon Ball: salida año 774 ~día 96 ~18:35 (Templo Sagrado). Prometió volver en unos días a ver a los demás. Corre.
 - Shingeki: VUELVE día 55 00:40 (8 h 25 min después), techo del palacio de Mitras.
 - One Piece: corre (OP = SNK + 9 d 5 h 30 min). Black Clover, Bleach, Jujutsu: corren.
+
+## RELOJES (actualizado T974)
+- Shingeki: salida día 66 13:35 (patio trasero del ayuntamiento de Shiganshina). Sin titanes, revividos, paz. Prometió a Ymir volver. Corre.
+- Jujutsu: VUELVE 25/04/2019 06:40 (~83 días después: ~9 en Bleach + ~74 según el reloj de One Piece desde su Día 1), portón de la escuela de Tokio.
+- One Piece (OP = SNK + 9 d 5 h 30 min), Dragon Ball, Black Clover, Bleach: corren.

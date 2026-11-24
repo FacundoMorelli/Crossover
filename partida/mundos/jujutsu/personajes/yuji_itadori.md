@@ -99,3 +99,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - DIÁLOGO T293: "¡Genial!" / "Oigan... mi abuelo está enterrado aquí cerca. Hace mucho que no voy. ¿Me acompañan?"
 - T294 · 24/01 · Tumba de su abuelo Wasuke en Sendai con Facundo, Megumi y Nobara. Deja una lata de café. Cuenta lo último que le dijo su abuelo: "ayuda a la gente". 01/02: despedida en el portón.
 - DIÁLOGO T294: "Vuelve, ¿eh? Y avisa esta vez. Bueno, si puedes."
+- T974 · 25/04/2019 06:40 · Trotando por los escalones del portón; ve a Facundo, se le caen los auriculares: "¿...Facundo?"

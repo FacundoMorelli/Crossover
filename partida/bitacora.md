@@ -972,3 +972,4 @@ T970 · Shingeki · Shiganshina · Discurso: "No quiero que me deban nada. Son l
 T971 · Shingeki · Shiganshina · "Me voy por ahora, voy a volver." Beso a Ymir. Erwin acepta liberar a Zeke, Annie, Reiner y Bertholdt. "Cuando vuelva, esta isla va a ser otra."
 T972 · Shingeki · Shiganshina · Deja a Hange linterna, radio, reloj, antibióticos, libro de medicina y semillas. Hange: "Lo voy a descubrir sola." Erwin: la mano otra vez.
 T973 · Shingeki · Shiganshina · Mano a Erwin. Saca una moto moderna en el patio trasero (80 F). Hange: "¿Qué come?"
+T974 · Shingeki → Jujutsu · Saludo de la Legión. Puerta al portón de la escuela de Tokio, 25/04/2019. Yuji: "¿...Facundo?"
