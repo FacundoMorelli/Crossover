@@ -1,8 +1,8 @@
 {
-  "turno": 942,
+  "turno": 943,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774, ~día 96 (unos 87 días después de irse el día 9)",
-  "hora": "~10:13",
+  "hora": "~10:15 (hora de la Tierra)",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 99,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

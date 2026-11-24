@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T940)
-no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
-
-## RESPUESTA 1 (T940)
-
-> no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
-
-> —No lo sé. Tengo que ir a hacer algo. Vuelvo, espero, en un día. No te preocupes: no voy a ningún lugar donde me puedan lastimar.
-
-Ymir se queda mirándote desde las tejas, con las manos todavía detrás de la cabeza.
-
-—Un día. —Lo dice despacio, como quien anota una deuda—. Te tomo la palabra, lindo.
-
-Después se incorpora, te agarra de la solapa del sobretodo, te baja hasta su altura y te da un beso corto, seco, casi un mordisco.
-
-—Y si no vuelves en un día, voy a comerme todas tus manzanas secas. —Te suelta—. Las de debajo de la cama. Que ya sé que no son mías.
-
-Kase se levanta del sol, se estira, cruza el techo y te salta al hombro.
-
-Levantas la mano. La puerta se abre sobre las tejas del palacio, un marco de luz alto y recto contra el cielo de la tarde. Del otro lado no se ve Mitras: se ve un cielo azul, enorme, sin una sola nube, y un piso de baldosas blancas que brilla al sol.
-
-Ymir la mira con una ceja levantada, sin moverse.
-
-—Presumido —murmura.
-
-Cruzas.
-
-El aire cambia de golpe: más fino, más frío, más limpio, como de montaña muy alta. El silencio es absoluto. Estás de pie en el borde del Templo Sagrado, sobre la plataforma blanca que flota en el cielo, por encima de las nubes, exactamente donde abriste la puerta la última vez. Abajo, muy abajo, se ve la curva de la Tierra entre jirones de nubes. Las palmeras del jardín se mueven apenas con el viento. Por el sol, debe de ser media mañana.
-
-No hay nadie a la vista.
-
-Cierras los ojos un segundo y buscas. La encuentras enseguida, cerca, una presencia tranquila, pequeña y luminosa, del otro lado del edificio central.
-
-Dos dedos en la frente.
-
-Apareces en el jardín de atrás del templo, entre los canteros de flores. Dende está de rodillas en la tierra, con la túnica blanca arremangada, regando con las manos una planta que crece demasiado rápido para ser normal. Junto a él, Mr. Popo sostiene una regadera, con la misma sonrisa inmóvil de siempre.
-
-Dende levanta la vista. Se le caen las gotas de las manos.
-
-—¡Facundo! —Se pone de pie de un salto, con las rodillas sucias de tierra—. ¡Volviste! ¡Y el gato también!
-
-Te mira de arriba abajo, con los ojos muy abiertos.
-
-—Pasaron casi tres meses... —Se le enrojecen un poco las mejillas verdes, como si se diera cuenta de que se le notó la emoción—. Perdón. Bienvenido. ¿Pasó algo? Tienes cara de venir a pedir algo importante.
-
-Mr. Popo deja la regadera en el suelo, despacio.
-
-—Mr. Popo también dice bienvenido.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 940 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
-║ Templo Sagrado · el jardín                   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Lo que vino a buscar. Volver a     ║
-║ Shingeki en un día (Ymir, Lara).             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T941)
+## COMANDO 1 (T941)
 hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
 
-## RESPUESTA 2 (T941)
+## RESPUESTA 1 (T941)
 
 > hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
 
@@ -145,10 +79,10 @@ Dende se sacude la tierra de las manos y se pone de pie.
 
 ---
 
-## COMANDO 3 (T942)
+## COMANDO 2 (T942)
 por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
 
-## RESPUESTA 3 (T942)
+## RESPUESTA 2 (T942)
 
 > por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
 
@@ -197,4 +131,66 @@ Después se pone colorado, como si recién se diera cuenta de que gritó.
 
 ---
 
-ESTADO AL CIERRE: Dragon Ball, ~día 96, Templo Sagrado (jardín). Dende quiere ir al Nuevo Namek; Mr. Popo cuidará la Tierra un día. Dende pregunta cómo van a llegar y si Facundo puede sentirlos desde ahí. Facundo puede responder.
+## COMANDO 3 (T943)
+le pongo una mano en el hombro y me teletransporto al nuevo namek
+
+## RESPUESTA 3 (T943)
+
+> le pongo una mano en el hombro y me teletransporto al nuevo namek
+
+Le pones la mano en el hombro a Dende. Lo sientes temblar un poco debajo de la túnica.
+
+Cierras los ojos y buscas.
+
+La Tierra se aleja de golpe: el templo, Mr. Popo, las ciudades, el mar, todo se achica a un puñado de brasas detrás de ti. Sigues de largo. Pasas por un vacío enorme, oscuro y frío, salpicado de luces lejanas que no son personas sino estrellas. Sigues. Y muy lejos, al otro lado de esa oscuridad, encuentras algo: un racimo de presencias tranquilas, verdes, parecidas a la que tienes bajo la mano. Cientos. Juntas, serenas, como un bosque visto de noche.
+
+Dos dedos en la frente.
+
+El templo desaparece.
+
+Lo primero es la luz. Hay tres soles en el cielo, y el cielo no es azul: es verde claro, del color del agua de un estanque. El pasto que pisas es azul. Los árboles son altos y redondos, como bolas de algodón posadas sobre troncos finos, y el aire huele a lluvia aunque no hay ni una nube.
+
+Están al borde de una aldea. Casas blancas en forma de cúpula, con ventanas redondas, repartidas sobre una colina suave junto a un lago. Hay namekianos por todos lados: unos trabajan la tierra, otros cargan agua, un grupo de chicos corre entre las casas. Todos verdes, con antenas y túnicas largas.
+
+Todos se detienen y se dan vuelta al mismo tiempo.
+
+Kase mira los tres soles con los ojos entrecerrados. Mira el pasto azul. Estornuda.
+
+Dende no se mueve. Se queda parado a tu lado con la boca abierta, mirando la aldea, el lago, los árboles, el cielo verde, como si tuviera miedo de que se desarmara si parpadea.
+
+Del grupo de chicos se separa uno. Más alto que Dende, delgado, con las mismas antenas y la misma cara redonda. Da dos pasos y se queda duro.
+
+—¿...Dende?
+
+Dende se da vuelta. Se le deforma la cara entera.
+
+—¡¡Cargo!!
+
+Sale corriendo. Cargo también. Chocan a mitad de la colina y caen los dos al pasto azul, abrazados, llorando y riéndose al mismo tiempo, mientras los demás chicos los rodean a los gritos.
+
+De la cúpula más grande, en lo alto de la colina, sale un namekiano viejo, alto, de túnica blanca y bastón, con la cara arrugada y los ojos tranquilos. Mira a los dos chicos en el pasto. Se le suaviza la cara.
+
+Después levanta la vista y te mira a ti.
+
+Te mira largo. El pelo blanco y azul, los ojos de dos colores, el gato en el hombro. Baja despacio la colina, apoyándose en el bastón, hasta quedar a unos pasos.
+
+—Soy Moori, el patriarca de esta aldea. —Su voz es profunda y pausada—. No sentí ninguna nave. No sentí nada hasta que aparecieron. —Inclina apenas la cabeza—. ¿Usted trajo a nuestro Dende hasta aquí, desde la Tierra, forastero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 943 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
+║ Nuevo Namek · la aldea de Moori              ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 0 zeni                  ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Dende con los suyos. Traerlo de    ║
+║ vuelta hoy. Shingeki en un día.              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Dragon Ball, ~día 96, Nuevo Namek (aldea de Moori). Facundo llegó con Dende por Teletransportación. Dende y Cargo se abrazan llorando. Moori le pregunta a Facundo si él trajo a Dende desde la Tierra. Facundo puede responder.

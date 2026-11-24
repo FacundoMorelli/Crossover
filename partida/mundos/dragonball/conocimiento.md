@@ -63,3 +63,4 @@
 - Goku está muerto, con permiso hasta la medianoche: Goku se lo dijo (T189).
 - Está en la Tierra, Isla Papaya, 25.º Torneo: Goku se lo dijo (T187).
 - Dende, Mr. Popo · T941 · Facundo pidió ver cómo se crean las Esferas del Dragón.
+- Moori, Cargo y los namekianos de la aldea · T943 · Ven a un forastero (pelo blanco y azul, gato) aparecer de la nada con Dende; Moori no sintió ninguna nave.
