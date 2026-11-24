@@ -21,3 +21,4 @@ ESTADO: activo
 - T957 · Sostiene a Eren cuando pierde su titán.
 - T960 · Carla: "Ven aquí, hija." Va.
 - T963 · Mira a Facundo pidiéndole ayuda con los ojos.
+- T964 · Le inclina la cabeza a Facundo en agradecimiento.

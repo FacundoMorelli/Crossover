@@ -193,3 +193,4 @@
 - Eren y todos en el acantilado · T959 · Por Facundo: la madre de Eren está viva en Shiganshina. Ven a Eclipse reconstruir las casas e irse ("Adiós, creador": saben que Facundo creó al dragón).
 - Carla Jaeger · T960 · Ve a Facundo (desconocido, pelo blanco y azul, gato) llegar de la nada con Eren, Mikasa y Armin.
 - Carla, Grisha · T961 · Por Facundo: "Ahora les explico todo." (nada todavía).
+- Grisha, Carla, Mikasa, Eren · T964 · Por Facundo: "No hubo Retumbar. Nadie usó el Titán Fundador." Grisha nota que Facundo conoce la palabra "Retumbar" (no insiste). Por Eren: ya no hay titanes.

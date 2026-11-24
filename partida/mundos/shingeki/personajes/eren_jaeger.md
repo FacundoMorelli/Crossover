@@ -45,3 +45,4 @@ ENCUENTROS:
 - T961 · Ve a su padre en la puerta y se queda helado (recuerda la cueva).
 - T962 · De pie frente a Grisha, puños cerrados, sin hablar.
 - T963 · Frente a Grisha, tiembla sin poder contestar.
+- T964 · Facundo lo cubre ante Grisha. Se afloja, lo mira agradecido. "Ya no hay titanes, papá. Ninguno. No hay Fundador. Se terminó." Abraza a su padre.

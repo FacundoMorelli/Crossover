@@ -14,3 +14,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: vivo (revivido T958), sin titán.
 - T961 · Sale a la puerta, ve a Eren crecido: "¿Eren?"
 - T963 · A Eren: "Lo último que recuerdo es la cueva debajo de la capilla. Te inyecté. ¿Qué pasó después? ¿Qué hiciste?"
+- T964 · Facundo: "No pasó nada. No hubo Retumbar. Nadie usó el Titán Fundador." "¿Cómo sabe usted esa palabra?" (no insiste). Eren: "Ya no hay titanes, papá. Se terminó." Deja caer los anteojos, abraza a Eren y llora.
