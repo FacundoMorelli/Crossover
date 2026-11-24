@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T973)
-le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
-
-## RESPUESTA 1 (T973)
-
-> le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
-
-Le das la mano a Erwin. Él te la aprieta fuerte, firme, como se cierra un trato.
-
-> —Una última cosa. Para que dejen de usar los equipos de maniobras, si así lo desean. Esta es más grande.
-
-Erwin levanta una ceja. Levi se despega del marco de la puerta.
-
-Bajan todos detrás de ti por la escalera interior del ayuntamiento: Erwin, Levi, Hange con la radio todavía abrazada, Moblit con la linterna, Historia, Ymir. Cruzan un pasillo de piedra y salen a un patio trasero, cuadrado, empedrado, cerrado por paredes altas, con un pozo en el medio y un carro de heno abandonado contra un rincón. No hay nadie. El ruido de la plaza llega apagado por encima de los techos.
-
-Te paras en el centro del patio. Abres la tienda.
-
-Esta vez la compra cuesta más que las anteriores. La pagas sin mirar.
-
-La sacas del inventario.
-
-Aparece de golpe en el medio del patio, sobre el empedrado, con un peso que hace crujir las piedras: una moto. Negra mate, de líneas bajas y agresivas, con el tanque brillante como un caparazón de escarabajo, las ruedas anchas, el escape doble de metal pulido, el manubrio con espejos redondos y una pantalla apagada entre los puños. Huele a goma nueva y a aceite.
-
-Nadie se mueve.
-
-Moblit deja caer la linterna. Rueda por el empedrado sin apagarse, tirando su haz blanco contra la pared.
-
-Levi la mira de arriba abajo, con los ojos entrecerrados, como mira a un recluta nuevo que no sabe si va a servir. Da una vuelta alrededor, despacio. Toca el asiento con un dedo. Se mira el dedo: no hay polvo.
-
-—Tch —dice. Pero no se aleja.
-
-Historia se tapa la boca con las dos manos. Ymir se ríe, una carcajada corta, incrédula, y te mira como si dijera "presumido" sin decirlo.
-
-Erwin no dice nada. Mira las ruedas. El manubrio. El motor. Ya está pensando en distancias, en caminos, en expediciones de tres días que se pueden hacer en una tarde.
-
-Y Hange...
-
-Hange se acerca despacio, en puntas de pie, como quien se acerca a un caballo salvaje. Deja la radio en el borde del pozo sin mirar dónde. Se agacha junto al motor. Lo toca. Retira la mano. Lo vuelve a tocar. Mete la cara entre los caños del escape. Se le empañan los anteojos.
-
-—Esto no es un carruaje. —Lo dice en un susurro—. No tiene dónde atar al caballo. Es... es el caballo. —Se da vuelta hacia ti, de rodillas en el empedrado, con los ojos llenos de lágrimas de felicidad—. Facundo. ¿Qué come? ¿Qué le das de comer para que ande?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 973 · SHINGEKI · DÍA 66 · 13:26        ║
-║ Shiganshina · patio trasero del ayuntamiento ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La moto. Hange pregunta qué come.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T974)
+## COMANDO 1 (T974)
 combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
 
-## RESPUESTA 2 (T974)
+## RESPUESTA 1 (T974)
 
 > combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
 
@@ -120,10 +63,10 @@ Se le caen los auriculares del cuello.
 
 ---
 
-## COMANDO 3 (T975)
+## COMANDO 2 (T975)
 hola itadori, tengo una sorpresa para ti
 
-## RESPUESTA 3 (T975)
+## RESPUESTA 2 (T975)
 
 > hola itadori, tengo una sorpresa para ti
 
@@ -170,4 +113,58 @@ Se le cae la taza.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:42, portón de la escuela. Yuji abrazó a Facundo y pregunta qué es la sorpresa (¿comida?). Nobara, en lo alto de la escalinata en pijama, lo ve y se le cae la taza. Facundo puede actuar.
+## COMANDO 3 (T976)
+estan los dos perfecto, en 1 año, voy a revivir a los que murieron por sukuna y demas maldiciones
+
+## RESPUESTA 3 (T976)
+
+> estan los dos perfecto, en 1 año, voy a revivir a los que murieron por sukuna y demas maldiciones
+
+> —Están los dos. Perfecto. En un año voy a revivir a los que murieron por Sukuna y por las demás maldiciones.
+
+Arriba, Nobara se queda quieta, descalza junto a los pedazos de la taza.
+
+Yuji no se mueve. Tiene todavía las manos en tus hombros. Se le borra la sonrisa, despacio, como si alguien le hubiera apagado la luz de adentro. Abre la boca. La cierra.
+
+—¿Qué? —Lo dice casi sin voz.
+
+Nobara baja la escalinata. No corre: baja de a un escalón, con los ojos clavados en ti, pisando pétalos con los pies descalzos, sin darse cuenta. Se para al lado de Yuji.
+
+—Repite eso —dice. Tiene la voz dura, la que pone cuando no se quiere dejar engañar—. Despacio.
+
+Yuji te suelta los hombros. Da un paso atrás. Se mira las manos.
+
+—Los que mató Sukuna. —Lo dice muy bajo, para él mismo—. Shibuya. —Traga—. Con mis manos. Con mi cuerpo. Toda esa gente... la de la estación, la de las calles...
+
+Le tiembla la voz. Aprieta los puños.
+
+—Junpei —dice. Y se le quiebra—. Junpei lo mató Mahito. Eso es una maldición.
+
+Nobara lo mira de reojo. Después te mira a ti. Se le humedecen los ojos, pero no llora. Se cruza de brazos, fuerte, como para sostenerse.
+
+—Gojo-sensei —dice ella, seca—. Lo mató Sukuna. En Shinjuku. —Se le tensa la mandíbula—. Y la hermana de Fushiguro. Tsumiki. Sukuna la mató con el cuerpo de Fushiguro. Él no come desde... —Se calla.
+
+Se quedan los dos frente a ti, en la escalinata, entre los pétalos que caen.
+
+Yuji levanta la vista. Tiene los ojos llenos, rojos, y una cosa en la cara que no es esperanza todavía. Es miedo a tenerla.
+
+—¿Por qué en un año? —pregunta, con la voz rota—. ¿Por qué no ahora?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 976 · JUJUTSU · 25/04/2019 · 06:44     ║
+║ Escuela de Hechicería de Tokio · el portón   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Promesa: en un año, revivir a los  ║
+║ muertos por Sukuna y las maldiciones.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:44, escalinata del portón. Facundo prometió que en un año va a revivir a los muertos por Sukuna y las maldiciones. Yuji (Shibuya, Junpei) y Nobara (Gojo, Tsumiki) conmocionados. Yuji pregunta por qué en un año y no ahora. Facundo puede responder.
