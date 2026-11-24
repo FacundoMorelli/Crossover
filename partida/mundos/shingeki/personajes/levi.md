@@ -27,3 +27,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T947 · Despertado; en camisa, contra la pared: "Más le vale."
 - T948 · "Todos los que murieron por los titanes. Todos."
 - T951 · A Hange: "No intenten entender. ¿Oíste?"
+- T956 · Mano en la empuñadura ante el dragón; no la saca.

@@ -954,3 +954,4 @@ T952 · Shingeki · Río al sur de Mitras · Acepta el plan de Erwin. Junta siet
 T953 · Shingeki · Río al sur de Mitras · 30.000 F en puntos (+3.750 a cada stat). Crea las Esferas del Eclipse: dragón Eclipse, 3 deseos.
 T954 · Shingeki · Mitras · (simulado días 55-63) Preparación; Liberio avisado (Lara, Willy, Magath, Pieck); Marley vota a favor. Día 63 04:30: "¿Dónde quiere hacerlo?"
 T955 · Shingeki · Costa este · Teletransporte de todos a una meseta sobre el mar. Eren ve el mar. Facundo solo, de cara al horizonte.
+T956 · Shingeki · Costa este · "¡Sal, Eclipse!" Aparece el dragón Eclipse. "Te concederé tres deseos. Dime tu primer deseo."

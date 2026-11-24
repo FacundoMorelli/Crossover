@@ -187,3 +187,4 @@
 - Zeke · T954 · Por Levi: el plan.
 - Reiner, Bertholdt · T954 · Por Hange: el plan.
 - Todos los presentes · T955 · Teletransportados por Facundo a la costa este.
+- Todos los presentes en el acantilado · T956 · Ven a Facundo invocar con siete esferas a un dragón gigante (Eclipse) que ofrece tres deseos. En toda Paradis (y quizás el mar cercano) ven el cielo apagarse de golpe antes del amanecer.

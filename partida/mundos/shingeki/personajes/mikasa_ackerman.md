@@ -17,3 +17,4 @@ ESTADO: activo
 - T829 · Ve los ojos rojos de Eren; se planta delante de Facundo: "¿Qué le dijiste?" Eren la calma. No le cree pero se aparta.
 - T858 · Día 40 · Se quita la venda ante Kiyomi: tiene la marca de los Azumabito. Desconfiada.
 - T948 · Se agarra de la manga de Eren.
+- T956 · Se pone delante de Eren al aparecer el dragón.

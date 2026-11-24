@@ -3,99 +3,10 @@
 
 ---
 
-## COMANDO 1 (T953)
-gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
-
-## RESPUESTA 1 (T953)
-
-> gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
-
-Abres la tienda con un pensamiento. La ventana aparece sobre el río, fría, azulada contra la noche.
-
-[Compra: 30.000 puntos de stat sueltos. Costo: 30.000 Fragmentos.]
-
-[Reparto equitativo: +3.750 a cada stat.]
-
-╔══════════════════════════════════════════════╗
-║ FACUNDO A. MORELLI        NIVEL 27           ║
-║ EXP 222.740 / 240.000 · FRAGMENTOS 107.581   ║
-║ ENERGÍA ██████████ 98%                       ║
-╠══════════════════════════════════════════════╣
-║ FUERZA      3.990    VELOCIDAD    3.993      ║
-║ RESISTENCIA 3.990    TÉCNICA      3.993      ║
-║ PERCEPCIÓN  3.991    VOLUNTAD     3.991      ║
-║ ENERGÍA     3.992    CONTROL      3.991      ║
-╚══════════════════════════════════════════════╝
-
-No lo sientes como un golpe. Lo sientes como una marea que sube. Algo se te asienta en el pecho, en los huesos, en la punta de los dedos, despacio, capa sobre capa, hasta que el cuerpo entero te pesa distinto: no más pesado, más lleno. El río sigue corriendo igual, pero ahora lo oyes entero, cada gota contra cada piedra, hasta la desembocadura. Sientes cada sauce de la orilla. Sientes a la rana, callada debajo de una hoja, a treinta metros. Sientes a Mitras dormida a tus espaldas, cada una de sus casas, cada una de sus personas.
-
-El Velo lo tapa todo. Nadie en el mundo nota nada.
-
-Kase, en su piedra, se da vuelta despacio y te mira. Se le erizan los pelos de la cola, un segundo, y se le vuelven a bajar. Después parpadea una vez y vuelve a darte la espalda, como si nada.
-
-Te agachas frente a las siete piedras.
-
-Juntas las manos en forma de cuenco sobre la primera, como hizo Dende en el jardín. Cierras los ojos.
-
-Primero, la forma.
-
-La piedra se levanta sola de la arena y flota entre tus palmas. Gira. Se aprieta sobre sí misma, se pule, pierde el gris y las vetas, y se vuelve cristal. No ámbar, como la de Dende: negro. Un negro profundo y transparente al mismo tiempo, como el cielo de una noche sin luna visto a través de un vidrio. En el centro le nace un brillo que no viene de ningún lado: un anillo fino de luz blanca, como el borde del sol cuando lo tapa la luna.
-
-Después, el corazón.
-
-La esfera late una vez entre tus manos. Tibia. Viva.
-
-Después, el número.
-
-Adentro se enciende una estrella. Una sola. Mitad roja como tu ojo izquierdo, mitad azul como el derecho, flotando en el negro como una brasa partida al medio.
-
-Haces lo mismo con las otras seis. Una por una. Dos estrellas. Tres. Cuatro. Cinco. Seis. Siete. Cada una con su anillo blanco en el centro, cada una con sus estrellas rojas y azules girando despacio adentro, cada una un poco más rápido que la anterior, porque ya sabes hacerlo.
-
-Al final, el nombre.
-
-Las siete esferas flotan delante de ti, en semicírculo, sobre la arena de la orilla. Les dices el nombre del dragón, en voz baja, una sola vez.
-
-Eclipse.
-
-Las siete laten al mismo tiempo. Un solo latido, profundo, que sientes en el pecho, en el agua del río, en las raíces de los sauces. La luna, en el cielo, parece oscurecerse un instante, apenas, como si algo enorme le hubiera pasado por delante. Después vuelve a brillar.
-
-Las esferas bajan despacio hasta la arena y se quedan quietas, en fila, brillando.
-
-╔══════════════════════════════════════════════╗
-║ CREACIÓN COMPLETADA                          ║
-║ Esferas del Eclipse · 7                      ║
-║ Dragón: ECLIPSE                              ║
-║                                              ║
-║ Poder: superior al de los dragones de Dende  ║
-║ Deseos por invocación: 3                     ║
-║ Creadas en: Shingeki no Kyojin               ║
-╚══════════════════════════════════════════════╝
-
-El río sigue corriendo. Las estrellas rojas y azules giran despacio adentro de las esferas, reflejándose en el agua.
-
-Kase baja de su piedra. Camina hasta la fila, olfatea la esfera de siete estrellas, estornuda y se sienta al lado de ella, mirándote, con la cola enroscada alrededor de las patas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 953 · SHINGEKI · DÍA 55 · 02:20        ║
-║ Río al sur de Mitras · la orilla             ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a la esfera de 7 estrellas       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Esferas del Eclipse listas.        ║
-║ Avisar a Liberio. Deseos: día 63.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T954)
+## COMANDO 1 (T954)
 guardo las esferas en el inventario y simula hasta el dia 63
 
-## RESPUESTA 2 (T954)
+## RESPUESTA 1 (T954)
 
 > guardo las esferas en el inventario y simula hasta el dia 63
 
@@ -157,10 +68,10 @@ Erwin da un paso adelante.
 
 ---
 
-## COMANDO 3 (T955)
+## COMANDO 2 (T955)
 vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
 
-## RESPUESTA 3 (T955)
+## RESPUESTA 2 (T955)
 
 > vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
 
@@ -215,4 +126,71 @@ Quedas solo, con Kase en el hombro, en el medio de la meseta, de cara al horizon
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 04:50, meseta sobre un acantilado en la costa este de Paradis. Todos teletransportados; en semicírculo detrás de Facundo. Eren vio el mar. Facundo solo con Kase, de cara al horizonte que se aclara, listo para invocar a Eclipse. Facundo puede actuar.
+## COMANDO 3 (T956)
+saco las 7 esferas, sal eclipse
+
+## RESPUESTA 3 (T956)
+
+> saco las 7 esferas, sal eclipse
+
+Sacas las siete esferas del inventario. Aparecen en el aire, delante de ti, y bajan despacio hasta el pasto, formando un círculo. Las estrellas rojas y azules giran adentro, cada vez más rápido. Los siete anillos blancos brillan a la vez.
+
+Detrás de ti, alguien contiene el aire. Es Hange.
+
+Las esferas empiezan a latir. Al mismo ritmo. Cada vez más fuerte.
+
+> —¡Sal, Eclipse!
+
+El cielo se apaga.
+
+No de a poco: de golpe. La línea gris del amanecer, en el horizonte, desaparece como si alguien la hubiera borrado con la mano. Las estrellas que quedaban en el cielo se apagan una por una. El mar se pone negro. El viento se detiene en seco, y con él el ruido de las olas. Durante un segundo, sobre la meseta, no hay nada: ni luz, ni sonido, ni aire que se mueva.
+
+Solo las siete esferas, brillando en el pasto.
+
+Después, de las esferas sale una columna de luz.
+
+No es dorada, como la de los dragones de Dende. Es negra con borde blanco: un rayo de oscuridad pura rodeado por un anillo de luz, que sube hasta el cielo apagado, se retuerce, se dobla, y empieza a tomar forma.
+
+Un cuerpo largo, enorme, enroscado sobre sí mismo. Kilómetros de cuerpo, que se pierden en el cielo negro, se enroscan sobre el mar, pasan por encima del acantilado y vuelven. Las escamas son de un negro profundo, brillante como obsidiana mojada, y a lo largo del lomo le corre una cresta de fuego blanco y azul, igual que la Corona. Tiene cuatro garras plateadas, cada una del tamaño de una casa. Los bigotes, largos, flotan en el aire quieto como cintas de humo.
+
+Y la cabeza.
+
+Baja despacio, desde muy alto, hasta quedar suspendida sobre la meseta, frente a ti. Es más grande que el palacio de Mitras. Tiene cuernos curvos, plateados, y alrededor del cráneo un anillo de luz blanca que brilla como el borde de un eclipse. Los ojos se abren.
+
+El izquierdo, rojo carmesí. El derecho, azul hielo. Con pupilas verticales, finísimas.
+
+Detrás de ti, se oye un golpe seco en el pasto: Zackly se cayó sentado. Sasha grita y se tapa la boca. Pixis deja caer la petaca. Connie agarra a Jean del brazo con tanta fuerza que Jean se queja. Levi tiene la mano en la empuñadura de la espada y no la saca. Mikasa se puso delante de Eren sin pensarlo. Eren no se mueve, con la boca abierta y los ojos muy abiertos, mirando hacia arriba.
+
+Hange llora. Sonríe y llora al mismo tiempo, con el cuaderno caído a los pies.
+
+Kase, en tu hombro, mira al dragón a los ojos. No se eriza. Parpadea despacio, una vez.
+
+El dragón parpadea también.
+
+Y habla. Con una voz que no viene de su boca sino de todas partes a la vez, del cielo, del mar, de la tierra que tienes debajo de los pies, grave y lenta como un trueno que no termina.
+
+—HAS REUNIDO LAS SIETE ESFERAS DEL ECLIPSE. YO SOY ECLIPSE. TE CONCEDERÉ TRES DESEOS, CUALESQUIERA QUE SEAN.
+
+Los ojos rojo y azul bajan hasta ti.
+
+—DIME TU PRIMER DESEO.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 956 · SHINGEKI · DÍA 63 · 04:55        ║
+║ Costa este de Paradis · meseta del           ║
+║ acantilado                                   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tres deseos: titanes → muertos →   ║
+║ reconstrucción.                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 04:55, meseta del acantilado. Facundo invocó al dragón Eclipse (negro, cresta blanca y azul, ojos rojo y azul). Todos lo ven. Eclipse ofrece tres deseos y pide el primero. Facundo puede pedir.
