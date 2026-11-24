@@ -153,3 +153,5 @@
 - Todos los presentes en la plaza (embajadores, periodistas, alto mando, cadetes, eldianos, Muller) · T850 · Por Willy: Helos es mentira; el rey Fritz se encerró por la paz; un emisario de Paradis pidió la paz y devolvió a Zeke vivo; la isla puede destruir los titanes de las murallas; la reina de Paradis está aquí.
 - Todos en la plaza (embajadores, periodistas, alto mando, Calvi, Magath, Muller, cadetes, eldianos) · T851 · Ven a la reina de Paradis salir al escenario; ven a Calvi dar la señal y a seis cañones disparar al escenario y a los cadetes; ven todas las balas estallar en el aire contra algo invisible. Nadie sabe que es obra de Facundo (está detrás del telón).
 - Todo el mundo (Shingeki) · T853 · Facundo Morelli es el emisario de Paradis: pelo blanco y azul, cicatriz, gato en el hombro. Fotografiado por la prensa de cinco países. Muller confirma que Morelli el asesor y el emisario son la misma persona.
+- Kiyomi Azumabito · T855 · Por Facundo: una compañera suya (en Paradis) se le parece, con el pelo negro.
+- Facundo · T855 · Por Kiyomi: la casa Azumabito busca hace generaciones a una rama perdida de la familia del shogun que quedó en la isla.

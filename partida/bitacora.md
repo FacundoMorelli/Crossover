@@ -853,3 +853,4 @@ T851 · Shingeki · Liberio · Historia sale; Calvi da la señal; seis cañones;
 T852 · Shingeki · Liberio · Discurso de Historia. Magath arresta a Calvi. Aplausos. Historia llama al emisario al escenario.
 T853 · Shingeki · Liberio · Se presenta como el emisario de Paradis. Tratado firmado. Historia lo invita a firmar como testigo.
 T854 · Shingeki · Liberio · Firma como testigo. Tratado de paz. +3.000 EXP. Kiyomi Azumabito pide hablar.
+T855 · Shingeki · Liberio · Kiyomi: la rama perdida de los Azumabito; pregunta por la marca en la muñeca.

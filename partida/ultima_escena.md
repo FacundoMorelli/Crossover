@@ -3,86 +3,10 @@
 
 ---
 
-## COMANDO 1 (T852)
-miro
-
-## RESPUESTA 1 (T852)
-
-> miro
-
-Desde la rendija del telón ves a Historia de espaldas, chiquita delante de miles de personas, con el humo de los cañones todavía flotando arriba, sobre la cúpula que nadie ve.
-
-No mira el papel, porque no lo tiene.
-
-—Me llamo Historia Reiss. —Su voz es clara y no tiembla. Llega hasta las gradas del fondo—. Soy la reina de una isla que ustedes llaman el infierno. Y mi pueblo son los que ustedes llaman demonios.
-
-Silencio.
-
-—Hasta hace muy poco, mi pueblo no sabía que ustedes existían. Nos dijeron que fuera de nuestras murallas no había nada. Que el mundo se había terminado. —Hace una pausa—. Nos mintieron a nosotros también.
-
-Mira hacia la primera fila, donde los cadetes se están levantando del piso, sucios de polvo, mirándola.
-
-—Los reyes de mi sangre hicieron cosas terribles. Durante siglos. No voy a negarlo, ni a esconderlo, ni a pedirles que lo olviden. —Se le endurece la voz—. Vine a pedirles perdón por eso. En nombre de los que ya no pueden pedirlo.
-
-Levanta la cara hacia el cielo, hacia donde reventaron las balas.
-
-—Y acaban de ver lo que pasa cuando alguien nos dispara. —Mira al palco del alto mando—. Nada. Y no vamos a devolver el disparo. Ni hoy, ni nunca.
-
-Se vuelve hacia los embajadores.
-
-—Las murallas de mi isla están hechas de titanes dormidos. Ustedes les tienen miedo y tienen razón. Les ofrezco destruirlos. Todos. Delante de testigos de cada una de sus naciones. Para que nadie pueda volver a despertarlos jamás.
-
-En el palco del alto mando, Magath se pone de pie.
-
-—General Calvi. —Lo dice fuerte, para que lo oiga toda la plaza—. Queda detenido. Por ordenar disparar contra cadetes del ejército de Marley y contra invitados del Estado.
-
-Dos oficiales jóvenes, pálidos, le sacan la pistola de bengalas de la mano. Calvi se resiste un segundo y grita, con la cara roja.
-
-—¡Es una trampa! ¡Una trampa de los demonios! ¡¿No lo ven?! ¡Brujería!
-
-Nadie le contesta. Se lo llevan del palco.
-
-En el pasillo central, Muller se quedó quieto, con las manos detrás de la espalda. No interviene. Mira el escenario, mira el telón, mira el cielo.
-
-Entonces, en un palco lateral, una mujer de kimono elegante y peinado alto se pone de pie, cierra un abanico de un golpe seco y aplaude.
-
-Sola, al principio. Despacio.
-
-Después se le suma el embajador de al lado, y otro, y otro. Después los palcos enteros. Después, desde el fondo, como una ola que viene de lejos, las gradas de los eldianos, miles de manos con brazalete aplaudiendo, algunos llorando, algunos sin entender por qué aplauden.
-
-Willy cruza el escenario con una carpeta de cuero y la abre sobre una mesa chica, al lado del atril. Adentro está el tratado, con dos plumas.
-
-Historia se acerca a la mesa. Toma una pluma.
-
-Y antes de firmar, se detiene. Se da vuelta hacia el telón rojo. Hacia ti.
-
-—Antes de firmar... —Su voz cruza la plaza—. Quiero que el mundo conozca al hombre que cruzó el mar por nosotros. Sin él no estaríamos aquí.
-
-Estira la mano hacia el telón.
-
-—Emisario. ¿Saldría, por favor?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 852 · SHINGEKI · DÍA 40 · 19:22        ║
-║ Liberio · detrás del telón del escenario     ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: LA FIESTA. Historia va a firmar.   ║
-║ Te llama al escenario.                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T853)
+## COMANDO 1 (T853)
 Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
 
-## RESPUESTA 2 (T853)
+## RESPUESTA 1 (T853)
 
 > Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
 
@@ -131,10 +55,10 @@ Toda la plaza espera, en silencio.
 
 ---
 
-## COMANDO 3 (T854)
+## COMANDO 2 (T854)
 firmo como testigo
 
-## RESPUESTA 3 (T854)
+## RESPUESTA 2 (T854)
 
 > firmo como testigo
 
@@ -187,4 +111,52 @@ Se endereza. Te mira con unos ojos oscuros, inteligentes, que no se pierden nada
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:28, escenario. TRATADO DE PAZ FIRMADO (Historia, Willy, Magath; Facundo como testigo). +3.000 EXP. La plaza estalló en aplausos. Gabi (cadete) mira a Facundo fija sin aplaudir. Lara sonríe al costado. Kiyomi Azumabito (Hizuru) subió al escenario: Hizuru quiere ser la primera nación en visitar la isla; pide unas palabras en privado.
+## COMANDO 3 (T855)
+si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
+
+## RESPUESTA 3 (T855)
+
+> si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
+
+> —Sí, señora. Y usted se parece mucho a una de mis compañeras. Ese pelo negro...
+
+Kiyomi Azumabito no contesta enseguida.
+
+Con un gesto chico del abanico te señala el telón. Pasan detrás, lejos del ruido, de los flashes y de los embajadores que ya empiezan a subir la escalera del escenario para darle la mano a Historia. Ahí atrás hace más fresco y huele a madera y a pólvora vieja. Ymir está a unos metros, apoyada contra un andamio, mirando de reojo, con los brazos cruzados.
+
+Kiyomi se detiene. Cierra el abanico con un golpe seco.
+
+Por un instante, la sonrisa diplomática se le cae de la cara. Debajo hay una mujer de cincuenta años que lleva mucho tiempo buscando algo.
+
+—Una compañera. —Lo repite despacio—. De pelo negro. De la isla.
+
+Respira hondo y se recompone. La voz le sale baja, medida.
+
+—Señor emisario, voy a ser honesta con usted, porque esta noche ya hubo demasiadas mentiras en esta plaza. —Mira hacia el telón, hacia la plaza que todavía aplaude—. Mi familia, la casa Azumabito, sirve al shogunato de Hizuru desde hace siglos. Hace más de cien años, cuando el rey de Eldia se encerró en su isla, una rama de la familia del shogun estaba allí. Eran aliados del rey. Se quedaron del otro lado de las murallas.
+
+Hace una pausa.
+
+—Nunca volvieron. Durante cien años los dimos por muertos. Pero en mi familia siempre se dijo que tal vez... —Se le quiebra apenas la voz, y la endereza enseguida—. Tal vez quedaba alguien.
+
+Te mira fijo. Los ojos oscuros le brillan.
+
+—Esa compañera suya... —Habla más despacio, como quien tiene miedo de la respuesta—. ¿Tiene por casualidad una marca en la muñeca? Un dibujo pequeño, como un tatuaje, en la parte de adentro. —Se toca la muñeca derecha con dos dedos—. Aquí.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 855 · SHINGEKI · DÍA 40 · 19:31        ║
+║ Liberio · detrás del telón                   ║
+║ NIVEL 27 · EXP 218.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
+║ Kiyomi pregunta por la marca de la muñeca.   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:31, detrás del telón con Kiyomi Azumabito (Ymir a unos metros). Kiyomi contó que la casa Azumabito busca una rama perdida de la familia del shogun que quedó en la isla. Pregunta si la compañera de pelo negro (Mikasa, en el sótano) tiene una marca en la parte de adentro de la muñeca derecha.
