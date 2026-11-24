@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T806)
-bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
-
-## RESPUESTA 1 (T806)
-
-> bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
-
-> —Bueno, capitán, ¿vamos a recuperar la sombra de nuestro nuevo músico, entonces?
-
-Luffy ni lo piensa. Salta de la baranda a la cabeza del león y se planta con los brazos cruzados, mirando la isla.
-
-—¡Claro que sí! ¡Es nuestro músico! ¡Nadie le roba nada a mi músico!
-
-Brook se queda mirándolos, a Luffy, a ti, a toda la tripulación. Las manos huesudas le tiemblan. Se quita el sombrero y lo aprieta contra el pecho.
-
-—Ustedes... ustedes ni siquiera me conocen... —Se tapa las cuencas vacías con la mano—. ¡Yohohoho! ¡Estoy llorando! ¡Aunque no tengo lágrimas! ¡Ni ojos!
-
-Se recompone de golpe, con la voz seria.
-
-—Pero escúchenme bien. El hombre que vive ahí no es un pirata cualquiera. —Señala la torre-mástil que se pierde en la niebla—. Se llama Gecko Moria. Es uno de los Siete Guerreros del Mar.
-
-Nami se pone blanca.
-
-—Con unas tijeras le corta la sombra a la gente. Y después mete esas sombras en cadáveres, y los cadáveres se levantan y caminan, y pelean con la fuerza del dueño de la sombra. Tiene un ejército entero así. —Se agarra el sombrero—. Y si a uno le roban la sombra... cuando sale el sol, desaparece.
-
-Silencio.
-
-—¡Vámonos! —Usopp corre hacia el timón—. ¡Media vuelta! ¡Nos vamos ya!
-
-—¡Las puertas están cerradas, Usopp! —le grita Nami, abrazada a Chopper.
-
-—¡Zombis! ¡Zombis de verdad! —Chopper tiembla entero—. ¡Ningún libro de medicina dice qué hacer con zombis!
-
-Zoro se acomoda las tres espadas en la cintura, con una sonrisa torcida. Sanji enciende un cigarro, protegiendo la llama de la niebla con la mano. Franky se para en la proa con los brazos en alto, haciendo la pose de estrella.
-
-—¡Esto se pone SUPEEER!
-
-Robin, a tu lado, mira la mansión iluminada con curiosidad, sin miedo.
-
-—Un Shichibukai que colecciona sombras. —Lo dice tranquila—. Qué interesante.
-
-Luffy, en la cabeza del león, mira la isla con los ojos brillando y se le hace agua la boca.
-
-—¡Y seguro que hay comida rara!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 806 · ONE PIECE · DÍA 43 · 23:33       ║
-║ Thousand Sunny · bahía de Thriller Bark      ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Recuperar la sombra de Brook.      ║
-║ Salir de One Piece antes del Día 49.         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T807)
+## COMANDO 1 (T807)
 bajamos a la isla con robin y luffy
 
-## RESPUESTA 2 (T807)
+## RESPUESTA 1 (T807)
 
 > bajamos a la isla con robin y luffy
 
@@ -129,10 +67,10 @@ Y viene flotando directo hacia ti.
 
 ---
 
-## COMANDO 3 (T808)
+## COMANDO 2 (T808)
 dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria(hasta que aparezca kuma simula)
 
-## RESPUESTA 3 (T808)
+## RESPUESTA 2 (T808)
 
 > dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria (hasta que aparezca kuma simula)
 
@@ -253,4 +191,68 @@ Entre las ruinas, al borde de la explanada, hay un hombre que no estaba ahí un 
 
 ---
 
-ESTADO AL CIERRE: Día 44 06:40, Thriller Bark, explanada en ruinas al amanecer. Moria vencido por Luffy; sombras devueltas; Brook al sol. Tripulación agotada, Luffy desmayado. Acaba de aparecer Bartholomew Kuma (Shichibukai) con la Biblia. Canon: trae orden de borrar a los testigos; ofrece perdonar a todos a cambio de la cabeza de Luffy; Zoro se ofrece.
+## COMANDO 3 (T809)
+miro a kuma y espero
+
+## RESPUESTA 3 (T809)
+
+> miro a kuma y espero
+
+No te mueves. Kase tampoco. Tiene las pupilas clavadas en el gigante, finas como hilos.
+
+Kuma cierra la Biblia con un dedo, despacio. Su voz es grave y plana, sin una sola emoción.
+
+—Por orden del Gobierno Mundial. —Recorre la explanada con la mirada—. Todos los que vieron caer a Gecko Moria deben desaparecer. El mundo no puede saber que un Guerrero del Mar perdió contra piratas.
+
+Los Piratas Rolling dejan de cantar. Lola se pone pálida. Brook se agarra el sombrero.
+
+Los ojos de Kuma se detienen en ti. No hay nada en esa cara, ni curiosidad ni odio. Solo una mirada larga.
+
+—«Ojos de Eclipse». Cuatrocientos millones. —Inclina la cabeza, apenas—. Si tuvieras que viajar a algún lugar... ¿adónde te gustaría ir de vacaciones?
+
+No espera respuesta. Se vuelve hacia el cuerpo de Luffy, que sigue desmayado en el barro, roncando.
+
+—Pero podría perdonarlos a todos. A todos los que están aquí. —Abre una mano enorme hacia Luffy—. A cambio de una sola cosa. La cabeza de Monkey D. Luffy.
+
+El silencio dura un segundo.
+
+Después, uno a uno, todos se levantan como pueden. Zoro se apoya en la Shusui y se pone de pie, sangrando. Sanji escupe sangre y enciende un cigarro con los dedos temblando. Nami se para con el Clima-Tact, Usopp con la Kabuto, Chopper con los puños cerrados. Franky se acomoda los lentes. Brook desenvaina la espada fina de su bastón. Robin da un paso adelante y se pone a tu lado.
+
+—Ni lo sueñes —dice Zoro.
+
+—Nos niegamos —dice Robin, tranquila.
+
+Kuma los mira a todos, sin cambiar de cara.
+
+—Entiendo.
+
+Se saca el guante de la mano derecha. En la palma, en lugar de piel lisa, tiene una almohadilla redonda, rosada, como la pata de un oso.
+
+Apoya la palma en el aire y empuja.
+
+El aire de la isla empieza a moverse hacia él. Al principio es una brisa y después un viento que arrastra polvo, astillas y pedazos de piedra. En la palma de Kuma se forma una burbuja transparente, con la forma de una pata de oso, que crece y crece. El aire alrededor se vuelve tan denso que cuesta respirar. Los oídos te zumban.
+
+La burbuja ya es más grande que Kuma. Sigue creciendo.
+
+Brook se pone blanco, más blanco que sus huesos.
+
+—Eso... eso es todo el aire de la isla... comprimido...
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 809 · ONE PIECE · DÍA 44 · 06:44       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 26 · EXP 214.940/215.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, alerta                   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Moria vencido. Kuma ataca. Salir   ║
+║ de One Piece antes del Día 49.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 06:44. Kuma pidió la cabeza de Luffy; todos se negaron y se pararon (Robin al lado de Facundo). Kuma comprime el aire de la isla en una burbuja con forma de pata de oso (Ursus Shock), más grande que él. Todavía no la soltó. Luffy desmayado en el barro.
