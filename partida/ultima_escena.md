@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T992)
-eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
-
-## RESPUESTA 1 (T992)
-
-> eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
-
-> —Eh... está bien. Mientras me dejen irme cuando quiera y volver cuando quiera.
-
-Silencio detrás de los biombos.
-
-Después, un murmullo. Las siluetas se inclinan unas hacia otras, apenas, como cabezas que se acercan. Voces bajas, imposibles de entender. Una de las siluetas de la derecha niega con la cabeza. La de la izquierda, la de la mujer, levanta una mano.
-
-Utahime chasquea la lengua, bajito, mirando el piso.
-
-—Un grado especial que entra y sale cuando se le da la gana —murmura, sin levantar la vista—. Ya tuvimos uno así. Nadie lo pudo controlar nunca.
-
-—Y gracias a eso todavía existe Japón —dice Nanami, sin dejar de escribir.
-
-Utahime lo mira. Abre la boca. La cierra.
-
-El murmullo detrás de los biombos se apaga.
-
-Habla la mujer.
-
-—La junta acepta. —La voz es firme, más joven que las otras—. Será libre de ir y venir sin aviso. No estará sujeto a órdenes de misión obligatorias. —Una pausa—. Pero mientras esté en territorio japonés, si aparece una amenaza de grado especial y nadie más puede detenerla, esta junta le pedirá ayuda. Pedirá. No ordenará. Usted decidirá.
-
-La voz vieja del medio carraspea. No parece contenta. Pero no contradice.
-
-—La orden de retención contra Facundo Morelli queda anulada desde este momento —dice, seca—. Será registrado como hechicero de grado especial. El segundo en actividad, junto a Yuta Okkotsu.
-
-Una de las siluetas de la derecha se mueve. Una mano, detrás del papel, empuja algo por debajo del biombo: una tablilla de madera, lisa, y un pincel con tinta, que se deslizan por el tatami hasta tus pies.
-
-—Para el registro —dice la voz vieja—, todo hechicero de grado especial debe declarar ante esta junta su técnica innata. El nombre y la naturaleza. Es la ley desde hace mil años. Gojo Satoru declaró la suya. Okkotsu, la suya. —Pausa—. Escriba la suya.
-
-Utahime levanta la vista del piso, por primera vez interesada.
-
-Nanami deja la lapicera sobre la libreta. Te mira, sin expresión. Pero sabe tan bien como tú que no hay una sola respuesta corta para eso.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 992 · JUJUTSU · 29/04/2019 · 10:06     ║
-║ Kioto · sede de los altos mandos             ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Orden anulada; grado especial. La  ║
-║ junta pide que declares tu técnica.          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T993)
+## COMANDO 1 (T993)
 eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
 
-## RESPUESTA 2 (T993)
+## RESPUESTA 1 (T993)
 
 > eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
 
@@ -115,10 +59,10 @@ Otra pausa. Más larga.
 
 ---
 
-## COMANDO 3 (T994)
+## COMANDO 2 (T994)
 eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
 
-## RESPUESTA 3 (T994)
+## RESPUESTA 2 (T994)
 
 > eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
 
@@ -175,4 +119,70 @@ Abre un paraguas negro con una sola mano, con la práctica de cuatro meses.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:15, portón de la sede de Kioto bajo la llovizna. Audiencia terminada: grado especial, Manecilla Inversa registrada, el punto negro como rasgo ocular hereditario. Nanami, bajo el alero, le dice que entendió que la marca hay que ponerla antes y que su brazo no tenía ninguna; no le pide nada. Facundo puede responder.
+## COMANDO 3 (T995)
+uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
+
+## RESPUESTA 3 (T995)
+
+> uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
+
+No dices nada.
+
+Le apoyas la palma de la mano en el hombro izquierdo, justo donde termina la manga doblada.
+
+Nanami se pone rígido. Por un instante, solo uno, todo el cuerpo le reacciona antes que la cabeza: una palma abierta apoyada en él, la sensación de algo que toca más allá de la ropa y de la piel. Le tiembla la mano del paraguas. Conoce esa sensación. La sintió una vez, en un túnel de Shibuya, el día que casi muere.
+
+No se aparta.
+
+Y algo se acomoda.
+
+No es dolor. Es como si alguien, desde adentro, hubiera encontrado una pieza que faltaba en un rompecabezas y la pusiera en su lugar. Debajo de tu palma, la forma de su alma está incompleta: tiene un hueco del lado izquierdo, un brazo que debería estar ahí y no está. La tocas. La completas. La rehaces como era. Y el cuerpo, que siempre obedece al alma, sigue.
+
+La manga doblada se mueve. El alfiler salta, tintinea en la piedra del suelo y rueda bajo la lluvia.
+
+La tela se llena desde adentro. Un hombro, un codo, un antebrazo, una mano. La manga del saco beige cae entera, hasta la muñeca, como si nunca hubiera estado doblada.
+
+Retiras la palma.
+
+Nanami se queda quieto debajo del alero, con el paraguas abierto en la mano derecha, mirando hacia adelante, hacia la lluvia, sin parpadear.
+
+Después baja la vista.
+
+Levanta el brazo izquierdo. Despacio. Lo mira como si fuera de otra persona. Abre la mano. La cierra. La vuelve a abrir. Mueve los dedos uno por uno, desde el meñique hasta el pulgar, como quien cuenta.
+
+No dice nada.
+
+Lo miras. Te llevas un dedo a los labios.
+
+Nanami ve el gesto. Te mira a la cara, por encima de los anteojos, un momento largo. En esa cara que nunca cambia, algo se mueve. Se le endurece la mandíbula. Se le humedecen los ojos detrás de los cristales, apenas, y él no hace nada para evitarlo.
+
+Asiente. Una sola vez.
+
+Se agacha, recoge el alfiler del suelo mojado con la mano izquierda, la nueva, y se lo guarda en el bolsillo del saco. Lo mira un segundo antes de soltarlo.
+
+—No voy a preguntar —dice al fin, con la voz más baja que le oíste nunca—. Ni qué fue. Ni de dónde lo sacó.
+
+Se acomoda los anteojos. Con la izquierda.
+
+—Gracias, Morelli-kun.
+
+Kase, en tu hombro, mira a Nanami con los ojos entrecerrados. Parpadea una vez, despacio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 995 · JUJUTSU · 29/04/2019 · 10:17     ║
+║ Kioto · portón de la sede, bajo la lluvia    ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: El brazo de Nanami, devuelto. En   ║
+║ secreto.                                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:17, portón de la sede de Kioto. Facundo le devolvió el brazo izquierdo a Nanami con la Transfiguración Ociosa y le pidió silencio con un dedo en los labios. Nanami reconoció la sensación (Mahito), no pregunta; le agradece. Facundo puede actuar.

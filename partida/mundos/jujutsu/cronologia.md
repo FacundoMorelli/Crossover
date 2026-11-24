@@ -85,3 +85,4 @@
 - 28/04 21:40 · (T990) Citación de la nueva junta de altos mandos (formada tras Shinjuku): 29/04 10:00, sede de Kioto, por la orden de retención.
 - 29/04/2019 10:00 · (T991) Audiencia en Kioto: la nueva junta ofrece anular la orden de retención si Facundo se registra como grado especial bajo su autoridad.
 - 29/04/2019 10:06 · (T992) La nueva junta anula la orden de retención y registra a Facundo como hechicero de grado especial (libre, sin misiones obligatorias).
+- 29/04/2019 10:17 · (T995) Facundo le devuelve el brazo izquierdo a Nanami, en secreto, en el portón de la sede de Kioto.

@@ -18,3 +18,4 @@ DON DE MUNDO: Técnica Maldita: Manecilla Inversa (ver sistema.json).
 - Facundo no sabe nada de esto hasta enterarse.
 - T292 · 24/01/2019 · Facundo se traga con el Eclipse el último dedo de Sukuna. No queda ninguno en el mundo. (En el canon, el epílogo deja el dedo en el almacén.)
 - T992 · Facundo, hechicero de grado especial registrado; orden de retención anulada.
+- T995 · Nanami recupera su brazo izquierdo (en secreto; la junta no lo sabe).

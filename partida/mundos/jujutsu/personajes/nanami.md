@@ -59,3 +59,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - T992 · A Utahime: "Y gracias a eso todavía existe Japón."
 - T993 · Oye la Manecilla Inversa; no levanta la vista; la lapicera se le detiene un segundo.
 - T994 · En el portón, bajo la llovizna: "Esa marca. Hay que ponerla antes, ¿no? Mi brazo lo perdí en diciembre. No tenía ninguna marca. No le estoy pidiendo nada. Solo quería que supiera que lo entendí."
+- T995 · Facundo le apoya la palma en el hombro (Transfiguración Ociosa): recupera el brazo izquierdo. Reconoce la sensación de Mahito; no se aparta. Facundo pide silencio (dedo en los labios). "No voy a preguntar. Ni qué fue. Ni de dónde lo sacó. Gracias, Morelli-kun." Guarda el alfiler en el bolsillo.
