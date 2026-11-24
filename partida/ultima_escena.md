@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T881)
-si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
-
-## RESPUESTA 1 (T881)
-
-> si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
-
-> —Sí. Yo voy a estar, el tiempo que estén entrenando, viajando. Y cuando vuelvan, voy a estar con ellos. Bueno, ahora me tengo que ir.
-
-Rayleigh levanta la taza de café hacia ti, como un brindis.
-
-—Que vuelvas con tu capitán, muchacho.
-
-Shakky te saluda con el cigarrillo, sin decir nada. Hachi te abraza con los seis brazos antes de que te muevas, llorando otra vez, y te aplasta la barriga. Desde adentro de la camisa, Kase suelta un gruñido de protesta que hace saltar a Hachi para atrás.
-
-Te llevas dos dedos a la frente.
-
-Buscas una presencia que conoces: enorme, ruidosa, cálida como un horno. Garp. Está lejos, al este, rodeado de miles y miles de presencias tensas, como un hormiguero a punto de estallar. Eliges un punto vacío a un costado, detrás de algo, donde no haya nadie.
-
-Desapareces del bar.
-
-Aparece un callejón angosto entre dos paredes de piedra blanca, que huele a pólvora, a alquitrán y a mar. Del otro lado de una de las paredes se oyen botas marchando, órdenes a los gritos y el ruido metálico de miles de fusiles que se mueven a la vez. Nadie te vio.
-
-Sales del callejón y te metes en el borde de una fila de marines que pasa trotando. Nadie te mira dos veces. Un marine gordo más.
-
-Marineford se abre delante de ti.
-
-Es una isla con forma de media luna, con una bahía enorme en el medio y el mar entrando como en una boca. Del lado de tierra hay una fortaleza gigante, blanca, con el símbolo de la Marina pintado arriba, del tamaño de una montaña. Delante, una plaza inmensa de piedra, y en la plaza, miles de marines. Decenas de miles, en filas perfectas, con fusiles, espadas y bayonetas. Detrás, en la costa, un muro entero de cañones apuntando al mar. En la bahía, decenas de buques de guerra.
-
-Y en el centro de todo, arriba de un cadalso alto de piedra, hay un muchacho de rodillas.
-
-Ace. Sin camisa, con el pecho tatuado, las muñecas encadenadas con piedra marina y la cabeza baja. El pelo negro le tapa los ojos.
-
-Detrás de él, de pie en lo alto del cadalso, hay un hombre alto de uniforme, con una gaviota sobre la gorra y barba trenzada: el almirante de flota Sengoku. A un costado, sentado y comiendo galletas de arroz con la mirada clavada en el suelo, Garp.
-
-Más abajo, en tres sillas en fila, los tres almirantes. Un hombre de traje amarillo a rayas que bosteza: Kizaru. Aokiji, con el antifaz levantado sobre la frente. Y en el medio, inmóvil, un hombre enorme de traje rojo con una gorra de marine y una rosa en el pecho, que no mira a nadie. Akainu.
-
-A los costados de la plaza, sobre unas gradas, están los Guerreros del Mar: un espadachín de ojos amarillos con una espada negra gigante a la espalda, un hombre rubio con un abrigo de plumas rosadas que se ríe solo, una mujer bellísima de pelo negro largo con una serpiente blanca, Kuma con su Biblia y Moria, vendado, encorvado.
-
-Kase se mueve adentro de la camisa, inquieto.
-
-—¡Tú! ¡El gordo!
-
-Un sargento de bigote y cara roja se te planta adelante, con el sable en la mano.
-
-—¿De qué unidad eres? ¡Esa no es tu fila! ¡Te veo cara nueva!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 881 · ONE PIECE · DÍA 57 · 09:25       ║
-║ Marineford · plaza, filas del fondo          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa, inquieto          ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace (15:00), al lado de   ║
-║ Luffy. Shingeki: antes del D59 16:30.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T882)
+## COMANDO 1 (T882)
 le respondo mi unidad bien
 
-## RESPUESTA 2 (T882)
+## RESPUESTA 1 (T882)
 
 > le respondo mi unidad bien
 
@@ -111,10 +47,10 @@ El marine chiquito de anteojos, a tu lado, no puede quedarse quieto. Tiene el fu
 
 ---
 
-## COMANDO 3 (T883)
+## COMANDO 2 (T883)
 seguramente, el que esta ahi es su hijo
 
-## RESPUESTA 3 (T883)
+## RESPUESTA 2 (T883)
 
 > seguramente, el que esta ahi es su hijo
 
@@ -177,4 +113,70 @@ Mira el horizonte vacío.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:40, Marineford, ala este. Sengoku reveló por altavoz y transmisión que Ace es hijo de Gol D. Roger. Ace gritó "¡Mi padre es Barbablanca!". Sengoku: Barbablanca va a venir y la Marina lo espera. El mar sigue vacío. Facundo disfrazado en las filas de refuerzos.
+## COMANDO 3 (T884)
+espero
+
+## RESPUESTA 3 (T884)
+
+> espero
+
+Esperas, entre los marines, con la barriga quieta y el sol subiendo.
+
+A las once, el mar de la bahía empieza a burbujear.
+
+No en la entrada ni en el horizonte. Adentro, en el medio de la bahía, entre los buques de guerra. Las burbujas suben del fondo cada vez más grandes, y el agua se levanta en un domo verde y brillante. De abajo emerge un barco enorme, blanco, con la proa en forma de ballena, chorreando agua por todos lados. Y detrás otro, y otro, y otro: decenas de barcos piratas que suben del fondo del mar al mismo tiempo, recubiertos con una capa brillante que se rompe al tocar el aire.
+
+—¡LOS BARCOS SALEN DEL AGUA! —grita alguien en la plaza.
+
+En la proa de la ballena blanca, de pie, hay un hombre gigantesco, viejo, con un bigote blanco en forma de media luna, el abrigo de capitán sobre los hombros y una naginata en la mano. Tiene tubos de hospital clavados en el brazo. Respira hondo.
+
+Barbablanca.
+
+Habla. No grita, pero se lo oye en toda la isla, grave, tranquilo, como una tormenta que todavía no llegó.
+
+—¿Mi hijo está bien?
+
+Después levanta el puño en el aire, delante de él. El aire se raja como si fuera vidrio. Toda la isla tiembla. Y del mar, a los dos lados de Marineford, se levantan dos olas tan altas como montañas, que avanzan hacia la isla.
+
+Un hombre salta desde la plaza hacia el mar: Aokiji. Toca el agua y las dos olas se congelan a mitad de camino. Después se congela la bahía entera, con los barcos piratas atrapados en el hielo.
+
+La guerra empieza.
+
+Miles de piratas bajan de los barcos al hielo y cargan hacia la plaza. Entre ellos va un gigante descomunal, más alto que los buques: Oars Jr. Un hombre de cuerpo de diamante parte un barco de un golpe. Un rubio de llamas azules vuela por encima del hielo. Un espadachín de bigote retorcido corta cañonazos en el aire. Desde la plaza, Akainu levanta un brazo y lanza una lluvia de puños de magma como meteoritos, que caen sobre el hielo y lo derriten. Kizaru dispara rayos de luz desde los dedos. Mihawk desenvaina la espada negra y corta un barco por la mitad desde cien metros.
+
+El ala este también pelea. Los piratas suben por el muro de la costa con garfios y cuchillos. Los marines alrededor de ti disparan y gritan. El de anteojos llora y dispara al aire. Tú te mueves, esquivas, empujas, y no haces nada que se note.
+
+Pasa una hora. El hielo está lleno de cuerpos, humo y gritos.
+
+A las doce y cuarenta, alguien grita mirando el cielo.
+
+—¡ARRIBA! ¡ALGO CAE!
+
+En el cielo, sobre la bahía, cae un buque de guerra de la Marina. Cae entero, desde muy alto, de proa, dando vueltas, como si una ola gigante lo hubiera escupido por encima de las nubes. De la cubierta caen personas como semillas: un hombre-pez enorme, uno con un garfio de oro y una cicatriz en la cara, uno de cabeza gigante con peinado afro, un payaso de nariz roja gritando de terror, uno con el pelo en forma de tres...
+
+Y uno chiquito, flaco, con un sombrero de paja.
+
+El buque revienta contra el hielo de la bahía y levanta una montaña de agua helada. Cuando el agua baja, en medio del hielo roto, hay un muchacho de pie, empapado, con el sombrero en la cabeza, mirando el cadalso.
+
+Luffy grita. Con toda la voz.
+
+—¡¡ACEEE!! ¡¡VINE A SALVARTE!!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 884 · ONE PIECE · DÍA 57 · 12:40       ║
+║ Marineford · ala este, junto al muro         ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Luffy llegó. Shingeki: antes del D59 16:30.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 12:40, Marineford en guerra. Barbablanca llegó (~11:00) desde el fondo de la bahía; Aokiji congeló la bahía; guerra total (comandantes, Oars Jr., almirantes, Mihawk). El buque de Impel Down cayó del cielo: Luffy, Jinbe, Crocodile, Ivankov, Buggy, Mr. 3 en la bahía congelada. Luffy gritó: "¡¡ACEEE!! ¡¡VINE A SALVARTE!!" Facundo disfrazado en el ala este, sin haber peleado en serio. Kase en la camisa.

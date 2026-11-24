@@ -882,3 +882,4 @@ T880 · One Piece · Sabaody · Rayleigh: no están preparados; entrenará a Luf
 T881 · One Piece · Marineford · Teletransportación disfrazado de marine. Ace en el cadalso. Un sargento lo encara.
 T882 · One Piece · Marineford · Responde bien su unidad. Lo mandan al ala este con los refuerzos.
 T883 · One Piece · Marineford · Sengoku revela que Ace es hijo de Roger. Ace: "¡Mi padre es Barbablanca!"
+T884 · One Piece · Marineford · Espera. Llega Barbablanca; empieza la guerra. 12:40: Luffy cae del cielo.

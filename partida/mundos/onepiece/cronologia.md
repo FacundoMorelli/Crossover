@@ -153,3 +153,4 @@
 - Día 56 noche → Día 57 · (T877) Fuga de Impel Down (canon): Luffy, Crocodile, Jinbe, Ivankov, Buggy, Mr. 3 escapan en un buque de la Marina hacia Marineford.
 - Día 57 09:25 · (T881) Facundo llega a Marineford disfrazado de marine raso.
 - Día 57 09:40 · (T883) Sengoku revela ante Marineford y la transmisión que Ace es hijo de Gol D. Roger (canon). Ace: "¡Mi padre es Barbablanca!"
+- Día 57 ~11:00-12:40 · (T884, canon) Llega la flota de Barbablanca desde el fondo de la bahía; maremotos; Aokiji congela la bahía; empieza la guerra (comandantes, Oars Jr., almirantes, Mihawk). 12:40: el buque de Impel Down cae del cielo con Luffy, Jinbe, Crocodile, Ivankov, Buggy, Mr. 3. Luffy grita que vino a salvar a Ace.
