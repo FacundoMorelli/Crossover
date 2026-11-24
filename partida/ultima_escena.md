@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T905)
-me tendrias que poder matar para eso
-
-## RESPUESTA 1 (T905)
-
-> me tendrias que poder matar para eso
-
-> —Me tendrías que poder matar para eso.
-
-Kizaru se queda callado un momento, con la cabeza ladeada.
-
-Después se ríe, una risa floja, larga, sin ganas.
-
-—Aaah, eso es cierto~. —Se mira la suela del zapato, apoyada sobre la nada—. Y desde aquí afuera no llego, ¿verdad? Qué fastidio...
-
-No se va. Se queda flotando junto a la cúpula, con las manos en los bolsillos, y empieza a avanzar al mismo ritmo que el Moby Dick, siempre a un metro del borde plateado, siempre con los lentes apuntados hacia ti. Como un perro que sigue un carro desde el otro lado de una cerca.
-
-En la orilla, Akainu llega al borde del hielo partido. Ahí se detiene. Mira el abismo de agua negra que lo separa de la flota, cien metros de mar hirviendo bajo sus pies. No da el paso.
-
-—¡Borsalino! —ruge—. ¡¿Qué esperas?! ¡Rómpela!
-
-—No se puede, Sakazuki~. Ya lo intenté. —Kizaru ni siquiera se da vuelta—. Lo que toca la pared desaparece. Si quieres, prueba tú.
-
-Akainu aprieta los puños. El magma le gotea de los nudillos y hace sisear el agua.
-
-Entonces se da vuelta hacia la torre del cuartel, donde todavía quedan oficiales con Den Den Mushi, y grita una sola orden que retumba por toda la bahía.
-
-—¡¡Flota de bloqueo!! ¡¡Cierren la boca de la bahía!! ¡¡Ningún barco pirata sale de aquí!!
-
-Adelante, en la salida, la línea de buques de guerra que esperaba de reserva se mueve. Una hilera de veinte barcos grises, con las velas con la gaviota azul, gira en el agua y se cruza de costado delante de la boca de la bahía, cañones afuera, uno pegado al otro, como un muro de madera y hierro.
-
-La proa de la columna pirata, el barco de uno de los capitanes aliados, está a menos de cuatrocientos metros de ellos y no frena.
-
-Desde la proa del Moby Dick, Barbablanca entrecierra los ojos hacia la línea de buques.
-
-—Gurarara... —Te mira de reojo—. Mocoso. Tu pared. ¿Hasta dónde llega?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 905 · ONE PIECE · DÍA 57 · 13:20       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Sacar la flota de la bahía. Línea  ║
-║ de bloqueo en la salida. Shingeki: D59.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T906)
+## COMANDO 1 (T906)
 no se preocupen uso luna para mover todos los barcos de la marina
 
-## RESPUESTA 2 (T906)
+## RESPUESTA 1 (T906)
 
 > no se preocupen uso luna para mover todos los barcos de la marina
 
@@ -121,10 +67,10 @@ Atrás, muy lejos, en la orilla de Marineford, Akainu se queda solo en el borde 
 
 ---
 
-## COMANDO 3 (T907)
+## COMANDO 2 (T907)
 no me tienes que pagar nada ace, sos el hermano de mi capitan
 
-## RESPUESTA 3 (T907)
+## RESPUESTA 2 (T907)
 
 > no me tienes que pagar nada ace, sos el hermano de mi capitan
 
@@ -181,4 +127,76 @@ Levanta la cabeza y te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:27. La flota de Barbablanca, completa, en mar abierto fuera de Marineford (Bankai aún activo). Kizaru volvió a Marineford. Ace agradeció con una reverencia. Ace preguntó por la tripulación de Luffy; Luffy contó que el oso los hizo desaparecer y le pregunta a Facundo si sabe dónde están. Facundo puede responder.
+## COMANDO 3 (T908)
+ehh ahi te digo, busco el ki de todos
+
+## RESPUESTA 3 (T908)
+
+> ehh ahi te digo, busco el ki de todos
+
+> —Eh... Ahí te digo.
+
+Cierras los ojos.
+
+La cubierta se queda atrás: los gritos de los heridos, el crujido de las velas, el calor de Ace a tu lado, la respiración de Kase en tu oreja. Abres los sentidos hacia afuera, más allá de la flota, más allá de la bahía, y el mundo se llena de luces.
+
+Miles. Millones. Todo lo que respira en el Grand Line, chiquito y tibio, como brasas desparramadas sobre un mar oscuro. Los marines de Marineford, apretados como un hormiguero alborotado. Dos fuegos enormes, uno caliente y furioso y otro tranquilo y frío, en la orilla de la bahía. Las presencias gigantes de los barcos de la flota a tu alrededor. Las vas dejando atrás, una por una, y buscas otras. Las que conoces.
+
+La primera que encuentras arde lejos, al oeste. Una presencia filosa, pesada, quieta como una espada clavada en el piso. Está herida, la sientes vendada, pero no débil: enojada. Muy enojada. A su alrededor, una isla gris llena de presencias brutas y salvajes, y cerca de ella, una chispa chiquita, flotante, casi fantasmal, que no le despega la vista.
+
+Zoro.
+
+Después, arriba. Muy arriba, más alto que cualquier montaña, donde no debería haber nada: una presencia ágil, nerviosa, que va y viene en círculos cortos, como alguien que camina de un lado al otro de una habitación. Rodeada de unas pocas presencias viejas y tranquilas, flotando en el cielo.
+
+Nami.
+
+Otra, en el sur, dentro de una isla que late de vida por todos lados: plantas, bichos, cosas que se mueven y respiran entre sí, enormes y raras. En el medio, una presencia que tiembla de miedo y que, a pesar de eso, no se va. Se esconde y sigue.
+
+Usopp.
+
+Una en una isla llena de presencias fuertes, ruidosas, demasiado alegres. Cientos. Y en el medio, una sola presencia que corre, se cubre, salta, vuelve a correr, al borde de la desesperación.
+
+Sanji.
+
+Una pequeña y tibia en la cima de algo altísimo, en un lugar caliente, rodeada de presencias gigantes y salvajes, enormes como casas. Asustada, decidida y apretando los dientes.
+
+Chopper.
+
+Una ancha, terca, ruidosa, en una isla al este, sola, lejos de todo, rodeada de silencio, mucho silencio. Excavando, rompiendo, trabajando.
+
+Franky.
+
+Brook te cuesta. Su presencia es rara, fría, casi nada, como una vela que no debería estar prendida y sigue prendida. La encuentras al final, en el medio de una multitud enorme de presencias que no son humanas, todas mirándolo a él.
+
+Y después, mucho más lejos, del otro lado de la Red Line, en un mar tranquilo que no es este, una enorme cantidad de presencias juntas, cansadas, apagadas, que se mueven todas al mismo ritmo como presos encadenados. Miles de vidas gastándose de a poco, todas en un mismo lugar.
+
+Y una entre ellas. Una que conoces mejor que ninguna. Cansada, mucho. Pero entera. Viva.
+
+Robin.
+
+Abres los ojos.
+
+Kase te está mirando desde tu hombro, con el ojo rojo y el azul fijos en tu cara. La cola se le mueve una sola vez.
+
+Luffy sigue parado delante de ti, quieto, con los puños apretados a los costados, esperando. Ace detrás de él, con los brazos cruzados. Barbablanca, desde la proa, también te mira.
+
+—¿Y? —Luffy da un paso—. ¿Y, Facundo? ¿Están bien?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 908 · ONE PIECE · DÍA 57 · 13:29       ║
+║ Mar abierto, frente a Marineford · Moby Dick ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Los ocho, encontrados. Robin, del  ║
+║ otro lado de la Red Line. Shingeki: D59.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:29, Moby Dick en mar abierto. Facundo sintió con el ki a los ocho compañeros dispersos (ver contexto T908). Luffy, Ace y Barbablanca lo miran esperando; Luffy pregunta si están bien. Facundo puede responder.

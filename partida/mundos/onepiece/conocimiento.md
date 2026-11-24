@@ -243,3 +243,5 @@
 - Kizaru, Akainu y todos en Marineford · T904 · Ven que los rayos de luz de Kizaru se borran contra la cúpula y que Kizaru no puede entrar pisándola. Kizaru deduce que la cúpula depende de Ojos de Eclipse y su katana.
 - Todos en Marineford y los marines de la flota de bloqueo · T906 · Ven a Ojos de Eclipse levantar veinte buques de guerra por el aire y apartarlos con un gesto (lo interpretan como otra fruta o poder desconocido; su ojo derecho brillaba azul).
 - Ace, Barbablanca y la tripulación del Moby Dick · T907 · Por Luffy: su tripulación fue dispersada por "el oso" (Kuma) en el archipiélago (Sabaody).
+- Facundo · T908 · Por percepción de ki: dirección, distancia y estado de Zoro (oeste, isla gris), Nami (en el cielo), Usopp (isla de vida gigante al sur), Sanji (isla de presencias ruidosas), Chopper (cima altísima, criaturas gigantes), Franky (isla al este, solo), Brook (multitud no humana), Robin (del otro lado de la Red Line, entre presos agotados).
+- Luffy, Ace, Barbablanca · T908 · Ven a Facundo cerrar los ojos un momento para "buscarlos"; no saben cómo.
