@@ -78,3 +78,4 @@
 
 - 01/02-25/04/2019 · (en ausencia de Facundo; se simulará lo que haga falta) Nuevo año escolar en abril.
 - 25/04/2019 06:40 · (T974) Facundo vuelve por una puerta al portón de la escuela de Tokio. Yuji lo ve.
+- Abril 2019 · (T979, por Yuji) Nuevo año escolar: Yuji, Megumi y Nobara pasan a segundo; hay alumnos nuevos de primero. Misión reciente en Yokohama.

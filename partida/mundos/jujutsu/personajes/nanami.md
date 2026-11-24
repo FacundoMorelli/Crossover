@@ -47,3 +47,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - DIÁLOGO T289: "Vi el amanecer, Facundo-kun. Y muchos más después. Un brazo es un precio razonable." / "Trabajo con la derecha. Siempre fui diestro. Eso es lo que más me molesta: que nada me molesta tanto como debería."
 - T294 · 28/01 · Cena con Facundo y los tres; come con una mano, se ríe una vez de Yuji. 01/02: despedida.
 - DIÁLOGO T294: "Cuídese, Facundo-kun. Y descanse de vez en cuando. Es una orden de un adulto."
+- T979 · 25/04/2019 06:58 · Cocina de los dormitorios, café y diario, manga izquierda con alfiler. "Morelli-kun. Volvió un jueves. A las siete menos diez de la mañana. Sin avisar. No sé por qué no me sorprende."

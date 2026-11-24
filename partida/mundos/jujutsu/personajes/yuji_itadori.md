@@ -104,3 +104,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T976 · Por Facundo: en un año revivirá a los muertos por Sukuna y las maldiciones. "Shibuya. Con mis manos." "Junpei." "¿Por qué en un año? ¿Por qué no ahora?"
 - T977 · "Te creo. Te tragaste el dedo de Sukuna como si fuera un caramelo." "¡Hay que decírselo a Fushiguro!"
 - T978 · Abraza a Megumi en la escalinata. "¡Fushiguro tiene hambre! ¡Por fin!"
+- T979 · Cuenta: misión en Yokohama; ahora segundo año; alumnos nuevos de primero; Maki rompió una puerta del gimnasio.

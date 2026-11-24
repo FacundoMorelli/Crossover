@@ -52,3 +52,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - DIÁLOGO T294: "Vuelve." (Solo eso. Lo mira a los ojos al decirlo.)
 - T977 · 25/04/2019 · Flaco, con ojeras, arriba del portón; oyó la promesa: "¿Tsumiki también? ¿También ella?"
 - T978 · Por Facundo: Tsumiki también volverá en un año. Se sienta y llora en silencio. "Gracias. No sé cómo... Gracias." Le ruge el estómago; se pone colorado.
+- T979 · Le da un golpecito con el puño en el brazo a Facundo al pasar.
