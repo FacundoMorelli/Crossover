@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T867)
-si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
-
-## RESPUESTA 1 (T867)
-
-> si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
-
-> —Sí, puedes, Armin. Mándenle saludos a la reina y a Ymir de mi parte. —Haces una pausa—. Aunque creo que ya la despedí lo suficientemente bien a ella.
-
-Hange suelta una carcajada que hace temblar los ventanales y se dobla sobre la mesa, golpeándola con el puño. Armin se pone tan rojo que parece que va a explotar y mira el mapa con muchísima concentración. Erwin no se ríe. Pero se le mueve la comisura de la boca, apenas, y se acomoda los papeles.
-
-—Se lo diré a la reina —dice, seco—. A Ymir, no hace falta.
-
-Abres la mano en el aire, al lado de la mesa de mapas.
-
-Se abre la puerta: el óvalo de luz blanca y azul, con los bordes temblando como agua. Hange deja de reírse en seco y se acerca con la nariz casi pegada a la luz, con el cuaderno ya abierto. Armin retrocede un paso. Erwin lo mira sin moverse, como quien ya vio de todo.
-
-Cruzas con Kase en el hombro.
-
-...
-
-Del otro lado hay olor a burbujas.
-
-Es un olor raro, dulce, como a jabón y a resina. Estás parado sobre una raíz enorme, ancha como una calle, que sale de un árbol tan gigante que no le ves la copa. El árbol tiene un número pintado en la corteza: 41. De la tierra, alrededor, suben burbujas transparentes, grandes como una cabeza, que flotan hacia arriba con el sol de la tarde brillando en ellas como arcoíris.
-
-Al pie de la raíz, amarrado a un muelle de madera, hay un barco con cabeza de león.
-
-El Thousand Sunny.
-
-Está tapado con lonas grises, atadas con sogas, de la proa a la popa. La melena del león asoma por debajo de una lona. No hay nadie en la cubierta. No sale humo de la cocina. No hay ruido.
-
-Kase se pone rígido en tu hombro y olfatea el aire.
-
-Junto a las amarras, de espaldas, hay un hombre viejo, alto, con el pelo blanco largo atado atrás, una capa gastada y una botella en la mano. Está revisando los nudos de las sogas, uno por uno, con calma.
-
-Se da vuelta.
-
-Tiene lentes redondos, una barba blanca prolija y una cicatriz que le cruza el ojo derecho. Te mira de arriba abajo, el pelo de dos colores, la cicatriz, el gato, y no se sorprende. Te mira como si te estuviera midiendo y no encontrara nada que medir.
-
-Frunce apenas el ceño.
-
-—Ojos de Eclipse. —Toma un trago de la botella—. Cuatrocientos millones. La foto del cartel no te hace justicia.
-
-Deja la botella sobre un barril, al lado de un diario doblado. Desde donde estás, alcanzas a leer el titular en letras enormes:
-
-«EJECUCIÓN DE PORTGAS D. ACE — MAÑANA, 15:00, MARINEFORD».
-
-El viejo se cruza de brazos y te mira por encima de los lentes.
-
-—Llegas tarde, muchacho. —Lo dice tranquilo, sin reproche—. Una semana tarde.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 867 · ONE PIECE · DÍA 56 · 15:55       ║
-║ Sabaody · Grove 41, junto al Sunny           ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, olfateando               ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: ¿Qué pasó con la tripulación?      ║
-║ Marineford mañana. Shingeki: antes del D59.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T868)
+## COMANDO 1 (T868)
 hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
 
-## RESPUESTA 2 (T868)
+## RESPUESTA 1 (T868)
 
 > hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
 
@@ -137,10 +69,10 @@ Toma el último trago de la botella.
 
 ---
 
-## COMANDO 3 (T869)
+## COMANDO 2 (T869)
 mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
 
-## RESPUESTA 3 (T869)
+## RESPUESTA 2 (T869)
 
 > mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
 
@@ -201,4 +133,60 @@ Se tapa la cara con dos de los seis brazos.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:25, bar de Shakky (Grove 13), cuarto del fondo. Rayleigh nota que Facundo sabe cosas que nadie sabe. Shakky lo reconoce por el cartel. Hachi, herido con fiebre (balazo de un Dragón Celestial), reconoce a Facundo de Arlong Park, llora y pide perdón por Cocoyasi y por no haber protegido a los chicos en Sabaody: "Era mi culpa."
+## COMANDO 3 (T870)
+no te preocupes pez, toma comete esto, saco una semilla y se la doy
+
+## RESPUESTA 3 (T870)
+
+> no te preocupes pez, toma comete esto, saco una semilla y se la doy
+
+> —No te preocupes, pez. Toma, cómete esto.
+
+Abres la mano y aparece una semilla del ermitaño, chiquita, verde, seca como un poroto. Se la pones a Hachi en la palma de una de sus seis manos.
+
+Hachi la mira, se sorbe los mocos y te mira a ti.
+
+—¿Nyu...? ¿Esto qué es?
+
+No espera respuesta. Se la mete en la boca y la mastica, con cara de no entender nada.
+
+El efecto es inmediato.
+
+Se le corta la respiración agitada de golpe. Se le va el color azulado enfermo de la piel y vuelve el rosado de siempre. La fiebre se le cae de la cara como si alguien le hubiera tirado un balde de agua fría. Debajo de la venda, la mancha de sangre deja de crecer.
+
+Hachi se sienta de un salto en la cama. Se toca el hombro con una mano, con dos, con tres.
+
+—¡Nyu! —Se arranca la venda de un tirón y se mira el hombro. Donde estaba el agujero de la bala hay piel lisa, nueva, sin cicatriz—. ¡¿Nyuuu?! ¡No me duele! ¡No me duele nada!
+
+Salta de la cama y aterriza parado. Levanta los seis brazos al techo, como un pulpo bailando, con la cara llena de lágrimas, ahora de alegría.
+
+—¡Estoy entero! ¡Estoy entero, nyu!
+
+En la puerta del cuarto, a Shakky se le cae el cigarrillo de la boca al piso. No lo levanta.
+
+Rayleigh, apoyado en el marco, levanta las cejas por encima de los lentes. Por primera vez desde que lo conociste, parece sorprendido de verdad.
+
+—¿Qué fue eso? —Te mira la mano vacía—. Una bala de un Noble Mundial, con fiebre de tres días. Y en dos segundos... —Ladea la cabeza—. ¿Una fruta? ¿Medicina de dónde?
+
+Antes de que nadie conteste, Hachi te agarra con los seis brazos a la vez y te levanta del piso en un abrazo de pulpo, llorando a mares. Kase tiene que saltar a la cama para no quedar aplastado.
+
+—¡Gracias, nyu! ¡Gracias! ¡Te debo la vida! ¡Te voy a hacer takoyaki gratis para siempre!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 870 · ONE PIECE · DÍA 56 · 16:27       ║
+║ Sabaody · bar de Shakky, cuarto del fondo    ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la cama, a salvo del abrazo         ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Hachi curado. Marineford mañana.   ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:27, bar de Shakky. Hachi comió una semilla del ermitaño y se curó al instante; abraza a Facundo con los seis brazos ("¡Te voy a hacer takoyaki gratis para siempre!"). Shakky dejó caer el cigarrillo. Rayleigh, sorprendido: "¿Qué fue eso? ¿Una fruta? ¿Medicina de dónde?" Kase en la cama. Marineford mañana a las 15:00.

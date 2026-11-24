@@ -214,3 +214,4 @@
 - Rayleigh · T868 · Intenta leer a Facundo con el Haki y no puede: "Eres como un agujero en el mar." (Velo.)
 - Rayleigh · T869 · Por Facundo: mañana va a Marineford; Luffy va a poder salir de Impel Down. Rayleigh deduce que sabe cosas que nadie sabe.
 - Shakky, Hachi · T869 · Ven a Facundo (cartel 400M) en el bar con el gato y con Rayleigh.
+- Rayleigh, Shakky, Hachi · T870 · Ven a Facundo darle a Hachi una semilla que lo cura al instante (herida y fiebre).

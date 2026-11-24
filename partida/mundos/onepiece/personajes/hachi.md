@@ -9,3 +9,4 @@ ENCUENTROS:
 - Arlong Park (Día 1) · enemigo.
 - T869 · Día 56 · Herido (balazo de un Dragón Celestial) en el bar de Shakky. Reconoce a Facundo. Pide perdón por Cocoyasi y por no haber protegido a los chicos en Sabaody.
 ESTADO: herido, con fiebre
+- T870 · Come una semilla del ermitaño de Facundo: curado al instante. Lo abraza con los seis brazos.

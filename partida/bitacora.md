@@ -868,3 +868,4 @@ T866 · Shingeki · Mitras · Promete a Erwin estar el día 50.
 T867 · Shingeki → One Piece · Saludos a Historia e Ymir. Cruza la puerta. Llega a Sabaody, Grove 41, Día 56 15:55. Rayleigh junto al Sunny.
 T868 · One Piece · Sabaody · Rayleigh cuenta la dispersión de Kuma, Ace mañana, el rumor de Impel Down.
 T869 · One Piece · Sabaody · Bar de Shakky. Hachi herido pide perdón.
+T870 · One Piece · Sabaody · Semilla del ermitaño a Hachi: curado. Rayleigh pregunta qué fue eso.

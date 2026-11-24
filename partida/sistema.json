@@ -1,8 +1,8 @@
 {
-  "turno": 869,
+  "turno": 870,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 56 (Grand Line, Archipiélago Sabaody)",
-  "hora": "16:25",
+  "hora": "16:27",
   "edad": 18,
   "nivel": 27,
   "exp": 219040,
@@ -402,8 +402,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 94,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma).",
+      "cantidad": 93,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody).",
       "mundo": "tienda"
     },
     {
