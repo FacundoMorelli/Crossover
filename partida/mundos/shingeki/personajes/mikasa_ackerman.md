@@ -18,3 +18,4 @@ ESTADO: activo
 - T858 · Día 40 · Se quita la venda ante Kiyomi: tiene la marca de los Azumabito. Desconfiada.
 - T948 · Se agarra de la manga de Eren.
 - T956 · Se pone delante de Eren al aparecer el dragón.
+- T957 · Sostiene a Eren cuando pierde su titán.

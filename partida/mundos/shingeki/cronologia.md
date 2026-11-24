@@ -109,3 +109,4 @@
 - Día 63 04:30 · (T954) Todos reunidos en el patio del palacio.
 - Día 63 04:50 · (T955) Facundo teletransporta a todos a una meseta sobre el mar en la costa este de Paradis. Eren ve el mar por primera vez (canon: lo veía en 851 con la Legión).
 - Día 63 04:55 · (T956) Facundo invoca al dragón Eclipse en la costa este de Paradis. El cielo se oscurece (visible en toda la isla y más allá).
+- Día 63 04:58 · (T957) PRIMER DESEO A ECLIPSE: desaparecen todos los titanes del mundo, incluidos los Nueve; los titanes puros y los colosales de las tres murallas vuelven a ser humanos (decenas de miles salen de las grietas de las murallas, sanos). Ragako vuelve a ser gente. Annie sale del cristal en Mitras. Los portadores (Eren, Ymir, Zeke, Reiner, Bertholdt, Lara, Pieck) pierden sus titanes y la maldición de trece años. FIN DE LOS TITANES (cambio total del canon).

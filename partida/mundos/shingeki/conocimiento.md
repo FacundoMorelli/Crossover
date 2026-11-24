@@ -188,3 +188,4 @@
 - Reiner, Bertholdt · T954 · Por Hange: el plan.
 - Todos los presentes · T955 · Teletransportados por Facundo a la costa este.
 - Todos los presentes en el acantilado · T956 · Ven a Facundo invocar con siete esferas a un dragón gigante (Eclipse) que ofrece tres deseos. En toda Paradis (y quizás el mar cercano) ven el cielo apagarse de golpe antes del amanecer.
+- Toda Paradis y el mundo · T957 · Ven/sienten que los titanes desaparecen; las murallas se agrietan y sale gente; los titanes del campo se vuelven personas. Nadie fuera del acantilado sabe por qué (salvo Liberio: Lara, Willy, Magath, Pieck, el gabinete, avisados del plan).

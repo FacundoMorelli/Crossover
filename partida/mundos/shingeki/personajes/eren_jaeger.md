@@ -38,3 +38,4 @@ ENCUENTROS:
 - T954 · Duerme todas las noches; a veces sonríe dormido (Mikasa).
 - T955 · Ve el mar por primera vez, al borde del acantilado: "El mar." Armin a su lado.
 - T956 · Mira al dragón con la boca abierta, sin moverse.
+- T957 · Pierde el Ataque y el Fundador: "Se fue todo. No veo nada." Ríe llorando con la frente en el hombro de Mikasa.

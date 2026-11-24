@@ -18,3 +18,4 @@ ESTADO: activo
 - T938 · Día 54 · (probable) Le escribe a Facundo: carta con lacre Tybur, "Para el emisario. Y para el gato."
 - T939 · Carta (día 54): Willy no sabe; ya no tiene miedo; nueve años; quiere intentarlo o saber si no se puede; invernadero casi todas las mañanas antes de que despierte la casa. "Traiga al gato. Las plantas lo extrañan. Yo también, un poco."
 - T954 · Día 56, invernadero: Facundo le explica lo del día 63. Llora en el banco de piedra; Kase en su regazo.
+- T957 · Pierde el Martillo de Guerra en el invernadero; se sienta en el banco de piedra (Facundo lo siente).

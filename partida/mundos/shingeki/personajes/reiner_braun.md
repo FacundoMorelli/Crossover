@@ -13,3 +13,4 @@ ENCUENTROS:
 - T404 · Facundo lo derriba de un golpe de dos dedos. Inconsciente en la nuca.
 ESTADO: inconsciente.
 - T954 · Por Hange, en su celda de Trost: pregunta si los muertos de Shiganshina del primer día también vuelven. Se sienta y no se mueve.
+- T957 · Pierde el Acorazado en su celda de Trost (Facundo lo siente).

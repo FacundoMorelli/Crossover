@@ -34,3 +34,4 @@ ESTADO: activo
 - T950 · "El territorio de Wall Maria está vacío. Hay casas, tierra para sembrar. Era su casa."
 - T951 · "Willy y Magath tienen que saberlo antes. Y la señorita Tybur."
 - T954 · Decretos: abre los graneros de la Corona y de los nobles.
+- T957 · Sostiene a Ymir cuando pierde su titán.

@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T954)
-guardo las esferas en el inventario y simula hasta el dia 63
-
-## RESPUESTA 1 (T954)
-
-> guardo las esferas en el inventario y simula hasta el dia 63
-
-Las siete esferas desaparecen de la arena, una por una, en el inventario. La orilla vuelve a ser solo una orilla. Kase mira el lugar vacío, olfatea la arena y se te sube al hombro.
-
-La semana empieza antes de que salga el sol.
-
-A las siete de la mañana del día cincuenta y cinco, Erwin ya tiene a la Guarnición entera de Wall Rose cargando carretas. Hange arma en la sala de mapas un sistema de registros con fichas, nombres y distritos de origen, para que las familias puedan encontrarse, y obliga a cuarenta escribientes de la Policía Militar a copiarlo a mano. Armin calcula raciones: si son trescientos mil, tantas bolsas de harina; si son quinientos mil, tantas más. Historia firma decretos uno tras otro, abriendo los graneros de la Corona y los de las familias nobles de Mitras, que se quejan y entregan igual.
-
-Las carretas empiezan a cruzar las puertas hacia el territorio de Wall Maria el día cincuenta y seis. No paran durante siete días.
-
-El día cincuenta y seis viajas a Liberio.
-
-Lara está en el invernadero, como dijo, antes de que despierte la casa, con una taza de té entre las manos y la bata puesta. Cuando le explicas lo que va a pasar el día sesenta y tres, no dice nada durante un rato muy largo. Después deja la taza en una maceta, sin mirar dónde, y llora sentada en el banco de piedra, con la cara entre las manos, como lloraba Ymir en la sala de mapas. Kase se le sube al regazo. Ella lo deja.
-
-Willy tarda más. Lo escucha en su estudio, de pie junto a la ventana, sin interrumpirte. Cuando terminas, se sienta despacio. Dice que Marley acaba de perder la guerra que nunca peleó, y que es la mejor noticia que recibió en su vida. Después se ríe, se tapa la cara y pide que alguien le traiga a su hermana.
-
-Magath es el último. Lo escucha con las manos detrás de la espalda, como siempre. Pregunta tres cosas, todas militares, y anota las respuestas. Después dice que esa misma tarde va a hablar con el Primer Ministro, y que, si el Primer Ministro no le cree, le va a contar lo que vio en Wall Rose. El día cincuenta y ocho, el gabinete de Marley vota en secreto. Gana por cuatro votos. El día cincuenta y nueve, Magath manda por el correo oficial una sola línea para Erwin: Marley no lo leerá como un ataque.
-
-Pieck se entera por Magath. Pide verte. Te espera en un banco del parque de Liberio, con las muletas apoyadas al lado. Lo único que dice es que hace años que camina en cuatro patas cuando nadie la ve, porque se le olvida cómo se hace en dos. Y que su padre va a poder verla caminar.
-
-En Paradis, Zeke se entera por Levi, en su celda. Se queda callado mucho tiempo. Después pregunta si los eldianos que nazcan después de ese día van a poder tener hijos sin que nadie les tenga miedo. Levi le dice que sí. Zeke se acomoda los anteojos, se da vuelta hacia la pared y no vuelve a hablar en todo el día.
-
-Reiner y Bertholdt se enteran en sus celdas de Trost, por Hange. Bertholdt llora. Reiner no. Pregunta, con la voz muy baja, si los muertos de Shiganshina, los del primer día, también van a volver. Hange le dice que sí. Reiner se sienta en el catre y no se mueve más.
-
-Annie no se entera. Sigue en su cristal, en el sótano de la iglesia de Mitras, con los ojos cerrados.
-
-Connie no duerme en toda la semana. Le pide a Erwin que lo dejen ir a Ragako antes del día sesenta y tres. Erwin se lo concede. Sasha lo acompaña. Jean también.
-
-Eren duerme. Todas las noches. Mikasa dice que a veces, dormido, sonríe.
-
-Ymir no te pregunta nada en toda la semana. Se queda cerca. Se duerme todas las noches con la cabeza en tu pecho y Kase en los pies. Una noche, a oscuras, te dice muy bajito que nunca pensó que iba a tener algo que perder, y que ahora tiene miedo de que no sea cierto. No espera respuesta. Se queda dormida enseguida.
-
-El día sesenta y dos, a la noche, las carretas terminan de cruzar. Hay campamentos armados en cada distrito vacío de Wall Maria: carpas, ollas, mantas apiladas, mesas de registro con faroles. Diez mil soldados de los tres cuerpos esperando a cientos de miles de personas que todavía no existen.
-
-El día sesenta y tres, a las cuatro y media de la mañana, todavía es de noche.
-
-En el patio del palacio de Mitras, a la luz de los faroles, están todos. Erwin, con el uniforme de gala. Levi, Hange, Armin. Mikasa y Eren, juntos. Historia, con la capa blanca. Zackly y Pixis. Ymir, con los brazos cruzados y la manta otra vez en los hombros, sin hablar con nadie. Connie, Sasha y Jean volvieron de Ragako anoche, con barro hasta las rodillas. Connie tiene los ojos rojos: pasó una tarde entera sentado en su casa, hablándole a su mamá, que sigue ahí, tirada boca arriba, enorme, sin entender nada.
-
-Nadie dice nada. Todos te miran.
-
-Erwin da un paso adelante.
-
-—Faltan cuarenta minutos para el amanecer, señor Morelli. —Su aliento hace vapor en el aire frío—. Todo está listo. Paradis y Marley están avisados. —Hace una pausa—. ¿Dónde quiere hacerlo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 954 · SHINGEKI · DÍA 63 · 04:30        ║
-║ Mitras · patio del palacio                   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Los deseos al amanecer. ¿Dónde?    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T955)
+## COMANDO 1 (T955)
 vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
 
-## RESPUESTA 2 (T955)
+## RESPUESTA 1 (T955)
 
 > vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
 
@@ -126,10 +61,10 @@ Quedas solo, con Kase en el hombro, en el medio de la meseta, de cara al horizon
 
 ---
 
-## COMANDO 3 (T956)
+## COMANDO 2 (T956)
 saco las 7 esferas, sal eclipse
 
-## RESPUESTA 3 (T956)
+## RESPUESTA 2 (T956)
 
 > saco las 7 esferas, sal eclipse
 
@@ -193,4 +128,82 @@ Los ojos rojo y azul bajan hasta ti.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 04:55, meseta del acantilado. Facundo invocó al dragón Eclipse (negro, cresta blanca y azul, ojos rojo y azul). Todos lo ven. Eclipse ofrece tres deseos y pide el primero. Facundo puede pedir.
+## COMANDO 3 (T957)
+Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
+
+## RESPUESTA 3 (T957)
+
+> Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
+
+> —Primero: deseo que desaparezcan los titanes del mundo y que los que están transformados en titanes vuelvan a ser humanos.
+
+Los ojos del dragón brillan. El rojo y el azul a la vez, cada vez más fuerte, hasta que la meseta entera queda bañada en esos dos colores.
+
+—ES UN DESEO FÁCIL DE CUMPLIR.
+
+El anillo de luz blanca que le rodea la cabeza se agranda. Se suelta. Sale volando hacia el cielo apagado como una onda en un estanque, y se expande. Cruza la meseta, el acantilado, el mar. Sigue de largo, más allá del horizonte, en todas direcciones a la vez.
+
+Y lo sientes.
+
+Con lo que te dio Dende, con lo que sientes desde que se llenaron tus stats en el río, sientes la isla entera como si la tuvieras en la palma de la mano. Y sientes lo que pasa cuando el anillo la cruza.
+
+Primero, las murallas.
+
+Wall Maria, Wall Rose, Wall Sina. Cientos de kilómetros de piedra. Adentro de cada tramo, miles de presencias enormes, dormidas desde hace más de un siglo, se apagan de golpe, como velas en el viento. Y en el mismo instante, en el lugar de cada una, se enciende otra. Chiquita. Tibia. Humana.
+
+Las murallas crujen de punta a punta. En toda la isla, a la vez. Se abren grietas largas en la piedra, de arriba abajo, sin derrumbarse, como cáscaras de huevo, y de cada grieta sale gente. Hombres y mujeres desnudos, desorientados, que caen sentados en el pasto, al pie de las murallas, sin un rasguño, mirándose las manos. Miles. Decenas de miles. Gente que se durmió hace más de cien años.
+
+Después, el campo.
+
+Más allá de Wall Maria, en los bosques, en los llanos, en las ruinas de los pueblos, los titanes que vagaban se detienen. Todos a la vez. Se quedan quietos, con las caras vacías levantadas hacia el cielo negro. Y se achican. El vapor les sale de todo el cuerpo, una nube blanca que sube en cientos de columnas por toda la isla, y cuando el vapor se disipa, donde había un titán de quince metros hay una persona tirada en el pasto, tosiendo, temblando, viva.
+
+En Ragako, una mujer abre los ojos en el piso de su propia casa. Mira el techo roto. Se sienta. Llama a alguien por su nombre.
+
+Detrás de ti, Connie mira hacia el oeste. Sobre la isla todavía oscura, a lo lejos, se levantan cientos de columnas de vapor blanco, una al lado de la otra, hasta donde da la vista. Cae de rodillas en el pasto, se tapa la cara con las manos y empieza a llorar a gritos.
+
+En el sótano de la iglesia de Mitras, un cristal enorme se vuelve agua. Se derrama por el piso de piedra. Una chica rubia cae de rodillas en el charco, empapada, y respira por primera vez en meses.
+
+En las celdas de Trost, dos muchachos se doblan en sus catres al mismo tiempo, agarrándose el pecho, como si les hubieran arrancado algo de adentro. No duele. Solo pesa menos.
+
+Y aquí, en la meseta, frente a ti, se doblan tres personas.
+
+Eren cae de rodillas, con las manos en la cabeza. No grita. Abre la boca como si fuera a gritar, y no sale nada. Mikasa se tira a su lado y lo agarra. Eren levanta la cabeza. Tiene la cara mojada. Mira a Mikasa, muy de cerca.
+
+—Se fue —dice. Le tiembla la voz—. Se fue todo. No veo nada. No veo... nada.
+
+Y se ríe. Una risa rota, llorando, con la frente apoyada en el hombro de Mikasa.
+
+Historia sostiene a Ymir, que se tambalea, pálida, con una mano en el pecho. Ymir respira hondo una vez, dos. Después se mira la mano. Se muerde el pulgar, fuerte, hasta que le sale sangre. Se queda mirando la gota roja que no humea, que no se cierra, que no hace nada.
+
+Se ríe. Se le llenan los ojos.
+
+—Lindo... —Te mira por encima del hombro de Historia—. Me puedo cortar.
+
+Lejos, al norte, muy lejos, del otro lado del mar, sientes también el anillo pasar por el continente. En Liberio, en un invernadero, una mujer se lleva las manos al pecho y se sienta despacio en un banco de piedra. En un parque, una muchacha con muletas se agarra del respaldo de un banco.
+
+El anillo sigue. Da la vuelta al mundo. Y se apaga.
+
+Ya no hay titanes en ningún lado.
+
+El cielo sigue negro. El dragón sigue ahí, suspendido sobre la meseta, enorme, con los ojos rojo y azul clavados en ti.
+
+—TU PRIMER DESEO HA SIDO CONCEDIDO. —La voz retumba en el acantilado—. DIME TU SEGUNDO DESEO.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 957 · SHINGEKI · DÍA 63 · 04:58        ║
+║ Costa este de Paradis · meseta del           ║
+║ acantilado                                   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Segundo deseo: los muertos.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 04:58, meseta del acantilado. Primer deseo cumplido: no quedan titanes en el mundo; los titanes puros y los colosales de las murallas volvieron a ser humanos (decenas de miles al pie de las murallas; Ragako); Annie despertó; los Nueve perdieron sus titanes (Eren, Ymir, Reiner, Bertholdt, Zeke, Lara, Pieck). Eclipse pide el segundo deseo. Facundo puede pedir.

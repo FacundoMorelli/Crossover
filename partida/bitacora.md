@@ -955,3 +955,4 @@ T953 · Shingeki · Río al sur de Mitras · 30.000 F en puntos (+3.750 a cada s
 T954 · Shingeki · Mitras · (simulado días 55-63) Preparación; Liberio avisado (Lara, Willy, Magath, Pieck); Marley vota a favor. Día 63 04:30: "¿Dónde quiere hacerlo?"
 T955 · Shingeki · Costa este · Teletransporte de todos a una meseta sobre el mar. Eren ve el mar. Facundo solo, de cara al horizonte.
 T956 · Shingeki · Costa este · "¡Sal, Eclipse!" Aparece el dragón Eclipse. "Te concederé tres deseos. Dime tu primer deseo."
+T957 · Shingeki · Costa este · PRIMER DESEO: no quedan titanes en el mundo; los puros y los de las murallas vuelven a ser humanos. Annie despierta. Eren: "No veo nada." Ymir: "Me puedo cortar."
