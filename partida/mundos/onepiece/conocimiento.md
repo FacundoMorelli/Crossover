@@ -176,3 +176,4 @@
 - Zoro, Usopp, Kaku (por el ventanal); tripulaciones de los acorazados del Buster Call; vicealmirante Onigumo (catalejo) · T758 · Ven a Facundo volar con Robin y frenar balas de cañón en el aire. Lo informarán.
 - Tripulaciones de los acorazados, vicealmirantes del Buster Call · T759 · Ven a Facundo levantar olas y un remolino desde el aire (controla el mar: lo atribuyen a una fruta).
 - Vicealmirantes del Buster Call (Onigumo, Momonga, Doberman, Strawberry, Yamakaji) y sus tropas · T760 · Ven a Facundo frenar balas y mover gente y cosas en el aire durante la huida.
+- Toda la tripulación, Franky, familia Franky, Paulie y capataces · T763 · Ven a Facundo y a Robin besarse: saben que son pareja.

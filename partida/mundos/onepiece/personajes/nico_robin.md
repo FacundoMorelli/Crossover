@@ -56,3 +56,4 @@ ESTADO: activa
 - T755 · Facundo la arranca de las manos de Spandam con un Soru. Esposada, sin fuerza, se aferra a él: "Ya viene. Es Ohara otra vez."
 - T756 · Facundo le rompe las esposas y la besa: "No te preocupes, no va a pasarnos nada." Le devuelve el beso: "Siempre dices eso como si fuera fácil."
 - T760 · En el puente, aplasta a Spandam con Hana Hana (Clutch). Sube al Merry con Facundo.
+- T763 · Going Merry · Facundo la besa en cubierta delante de todos. "Me prometiste que no nos iba a pasar nada. Cumpliste." "Esta vez no me voy a ir a ninguna parte." RELACIÓN: pareja, a la vista de la tripulación.
