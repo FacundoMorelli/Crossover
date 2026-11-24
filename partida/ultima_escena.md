@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T857)
-si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
-
-## RESPUESTA 1 (T857)
-
-> si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
-
-> —Sí, no hay problema. Pero antes usted me dijo de hablar en privado para otra cosa. Dígame qué necesitaba.
-
-Kiyomi sonríe detrás del abanico. Es una sonrisa distinta: la de alguien a quien le gusta que la escuchen bien.
-
-—Atento. Me gusta. —Cierra el abanico y lo apoya en la palma de la mano—. Muy bien. Hablemos de negocios, que es lo que Hizuru hace mejor.
-
-Se acomoda la manga del kimono.
-
-—Esta noche su reina se ganó a la mitad de los embajadores de esta plaza. Mañana, cuando lleguen los diarios a sus capitales, se va a ganar a la otra mitad... o la van a odiar el doble. —Ladea la cabeza—. Paradis va a necesitar amigos. Amigos con barcos, con médicos, con ingenieros. Y con voz en las conferencias del mundo, donde se decide quién vive y quién no.
-
-Te mira fijo.
-
-—Hizuru se ofrece a ser el primero. El primer aliado formal de Paradis. Barcos para llegar a la isla, comercio, maestros, todo lo que haga falta para que su pueblo salga de detrás de esas murallas al mundo real. Y cuando alguien en una conferencia diga «demonios», Hizuru va a estar ahí para contestar.
-
-Hace una pausa breve.
-
-—A cambio, pido algo simple. Prioridad. Nuestros informes dicen que la isla tiene yacimientos de un mineral que arde sin humo, más que cualquier carbón del mundo. —Sonríe—. Hizuru quisiera ser el primero en comprarlo. A un precio justo, claro.
-
-Después, sin cambiar la voz, levanta los ojos hacia el techo del escenario, hacia el cielo donde todavía flota un poco de humo negro de los cañones.
-
-—Y una última cosa, si me permite la curiosidad de una vieja. —Te mira de reojo—. Lo de los cañones. Las balas que se rompieron contra el aire.
-
-Baja la vista hacia ti.
-
-—No fue la reina. Ella ni siquiera miró hacia arriba. —Abre el abanico, despacio—. Fue usted, ¿verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 857 · SHINGEKI · DÍA 40 · 19:36        ║
-║ Liberio · detrás del telón                   ║
-║ NIVEL 27 · EXP 218.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
-║ Kiyomi: alianza con Hizuru. Mikasa.          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T858)
+## COMANDO 1 (T858)
 asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
 
-## RESPUESTA 2 (T858)
+## RESPUESTA 1 (T858)
 
 > asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
 
@@ -123,10 +73,10 @@ Kase ya está despierto, de pie sobre la cama, con el lomo arqueado y los ojos f
 
 ---
 
-## COMANDO 3 (T859)
+## COMANDO 2 (T859)
 voy con willy
 
-## RESPUESTA 3 (T859)
+## RESPUESTA 2 (T859)
 
 > voy con willy
 
@@ -179,4 +129,78 @@ El nene del sofá se despierta y empieza a llorar.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 44 02:41, estudio de Willy en la mansión Tybur (Liberio). Golpe de oficiales leales a Calvi (liberado de la prisión militar con apoyo de dos ministros): ~40 soldados y dos camiones rodean la casa; un mayor con altoparlante arresta a Willy y a Magath por alta traición (también fueron por Magath a su casa). La puerta principal cede; soldados en la escalera. En el estudio: Willy, Lara (no quiere transformarse: moriría gente y se acaba la paz), la cuñada y el sobrino de 6 años, que se despertó llorando.
+## COMANDO 3 (T860)
+me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
+
+## RESPUESTA 3 (T860)
+
+> me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
+
+Cruzas el estudio a oscuras y te arrodillas junto al sofá. El nene llora con la boca abierta y la cara roja, abrazado a la frazada, mirando hacia la puerta, de donde vienen los golpes.
+
+> —Tranquilo, no llores.
+
+El nene te mira. Ve el pelo de dos colores, la cicatriz, los ojos de dos colores. Se queda con el llanto a medias.
+
+Kase baja de tu hombro al sofá, da una vuelta y se acuesta en el regazo del nene, pesado y tibio, como una manta. El nene se le queda mirando con los ojos muy abiertos. Después lo abraza del cuello y hunde la cara en el pelo blanco y azul. Deja de llorar.
+
+La madre se tapa la boca con las dos manos.
+
+Te pones de pie. Abajo, la puerta principal se abre de golpe contra la pared. Botas en la escalera.
+
+> —Bueno, yo me encargo, Willy.
+
+Willy no alcanza a contestar.
+
+No te mueves del lugar. No levantas la mano. Dejas salir algo de adentro, lo justo.
+
+Una presión invisible sale de ti en todas direcciones, como el aire que empuja una explosión, pero sin ruido y sin viento. Las cortinas no se mueven. Los papeles del escritorio no se vuelan. Pero el aire del estudio, de la escalera, del jardín y de la calle de golpe pesa como el agua del fondo del mar.
+
+En la escalera, los soldados que subían se quedan quietos un instante. Después se les ponen los ojos en blanco y se desploman, despacio, como si alguien les hubiera apagado la luz. Los fusiles caen sobre la alfombra de los escalones. Nadie se golpea.
+
+En el jardín, los cuarenta soldados caen a la vez donde están, sobre el pasto, sobre la grava, apoyados contra los camiones. El mayor del altoparlante se sienta en el pasto y se acuesta de costado, como si se fuera a dormir la siesta. El altoparlante rueda sin hacer ruido. Los motores de los dos camiones siguen en marcha, ronroneando en una calle donde ya nadie está despierto.
+
+Willy se agarra del escritorio. Lara, junto a la ventana, contiene el aire. Los tres sintieron el peso pasarles por encima y seguir de largo.
+
+No te quedas a mirar.
+
+Buscas otra presencia en la ciudad: dura, cansada, de viejo soldado. Magath. Está en una casa del barrio militar, en la planta baja, rodeado de presencias tensas y armadas. Hay una más, entre ellas, vieja, furiosa, que da órdenes.
+
+Dos dedos en la frente.
+
+Apareces en el vestíbulo de una casa austera, con piso de madera oscura y retratos de soldados en las paredes. Hay veinticinco soldados en el jardín y en el vestíbulo, con fusiles apuntando a la escalera. En el tercer escalón está Magath, en camisa y tirantes, con una pistola de servicio en la mano, apuntando hacia abajo. Y en el medio del vestíbulo, de pie, con el uniforme lleno de medallas mal abrochado y la cara roja de furia, el general Calvi.
+
+—¡Bájela, Theo! ¡Es una orden del Estado Mayor! ¡Usted le vendió Marley a los demonios! —Calvi se da vuelta al oír algo detrás. Te ve. Se le congela la cara—. Tú...
+
+Dejas salir la presión otra vez.
+
+Calvi cae primero, de rodillas y después de costado, con la boca todavía abierta a mitad de la palabra. Después caen los veinticinco, en el vestíbulo y en el jardín, sin un golpe, sin un rasguño, como hojas.
+
+En el vestíbulo, en silencio, solo queda una persona de pie.
+
+Magath sigue en el tercer escalón, con la pistola en la mano, mirando a Calvi dormido en su alfombra. Después te mira a ti, de pie entre veinticinco soldados desmayados, en tu ropa de dormir.
+
+Baja la pistola despacio.
+
+—Ah. —Lo dice con la voz más seca del mundo—. Usted.
+
+[+300 EXP · +66 Fragmentos]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 860 · SHINGEKI · DÍA 44 · 02:46        ║
+║ Liberio · casa de Magath, vestíbulo          ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: con el sobrino de Willy (mansión)      ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Golpe detenido sin heridos.        ║
+║ Calvi dormido en el vestíbulo de Magath.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 44 02:46, vestíbulo de la casa de Magath (Liberio). Facundo detuvo el golpe sin heridos con Haki del Rey: ~40 soldados y el mayor desmayados en la mansión Tybur; ~25 soldados y el general Calvi desmayados en la casa de Magath. Magath, en camisa con pistola en la escalera: "Ah. Usted." Kase quedó en la mansión Tybur con el sobrino de Willy (6 años). Facundo en ropa de dormir.

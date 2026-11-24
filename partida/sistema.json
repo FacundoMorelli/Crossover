@@ -1,13 +1,13 @@
 {
-  "turno": 859,
+  "turno": 860,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 44 tras Shiganshina (Mitras)",
-  "hora": "02:41",
+  "hora": "02:46",
   "edad": 18,
   "nivel": 27,
-  "exp": 218740,
+  "exp": 219040,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 134442,
+  "fragmentos": 134508,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1470,6 +1470,12 @@
       "turno": 808,
       "quien": "~400 zombis de Thriller Bark purificados con agua de mar (Shio Shio), incluidos Cerberus y los generales zombi Jigoro, Inuppe, Tararan y el Capitán John",
       "fragmentos": 420
+    },
+    {
+      "mundo": "shingeki",
+      "turno": 860,
+      "quien": "~65 soldados y oficiales del golpe de Calvi (mansión Tybur y casa de Magath) y el general Calvi, dormidos con Haki del Rey, sin heridos",
+      "fragmentos": 66
     }
   ],
   "viaje": {

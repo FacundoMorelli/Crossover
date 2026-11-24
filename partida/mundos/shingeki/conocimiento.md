@@ -161,3 +161,5 @@
 - Kiyomi Azumabito, Mikasa · T858 · Kiyomi conoce a Mikasa y ve la marca. Mikasa sabe por Kiyomi que es descendiente de la familia del shogun de Hizuru.
 - Kiyomi · T858 · Por Facundo: sí, la barrera fue él (T858, confirmado).
 - Willy, Lara, cuñada de Willy · T859 · Ven a Facundo aparecer de la nada en el estudio con el gato.
+- Willy, Lara, la cuñada · T860 · Sienten una presión enorme e invisible y ven por la ventana caer desmayados a todos los soldados del jardín a la vez. Ven a Facundo desaparecer.
+- Magath · T860 · Ve aparecer a Facundo en su vestíbulo y caer desmayados a la vez a Calvi y a todos los soldados, sin que nadie los toque.

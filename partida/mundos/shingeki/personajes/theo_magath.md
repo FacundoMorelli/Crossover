@@ -25,3 +25,4 @@ ESTADO: activo
 - T556 · Corta a Muller por rango. "No le creyó. Pero no va a ir contra mí sin pruebas."
 - T852 · Arresta a Calvi en el palco ante el mundo.
 - T853 · Baja del palco y firma el tratado como representante militar de Marley.
+- T860 · Día 44 · En su casa, con una pistola en la escalera, rodeado por el golpe de Calvi. Facundo duerme a todos con Haki del Rey. "Ah. Usted."

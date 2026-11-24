@@ -79,3 +79,4 @@
 - Días 41-43 · (T858) Mitras en fiesta. Eren dice que ya no sueña con fuego. Demostración fijada: día 50, Wall Rose, ante delegaciones extranjeras.
 - Día 44 02:40 · (T858) Willy aprieta el botón de aviso.
 - Día 44 01:30-02:41 · (T859) Golpe de oficiales leales a Calvi: lo sacan de la prisión militar; rodean la mansión Tybur para arrestar a Willy por traición; van por Magath.
+- Día 44 02:43-02:46 · (T860) Facundo detiene el golpe sin heridos: Haki del Rey sobre la mansión Tybur (~40 soldados y un mayor desmayados) y sobre la casa de Magath (~25 soldados y el general Calvi desmayados). Willy, Lara y Magath a salvo.
