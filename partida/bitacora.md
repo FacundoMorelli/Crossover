@@ -781,3 +781,4 @@ T779 · One Piece · Islote · Robin sigue leyendo el libro apoyada en Facundo. 
 T780 · One Piece · Islote · Le muestra la foto de Black Clover y su grimorio. Robin quiere tocarlo.
 T781 · One Piece · Islote · "Hay un Rey Mago. Luffy querría serlo." Robin se ríe.
 T782 · One Piece · Islote · Le cuenta del mundo de las razas y le muestra el Super Saiyajin y el Ultra Instinto.
+T783 · One Piece · Islote · "Era de los fuertes, pero no el más." Robin: "Me importa que vuelvas."

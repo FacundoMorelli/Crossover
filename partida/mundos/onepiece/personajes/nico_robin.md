@@ -68,3 +68,4 @@ ESTADO: activa
 - T778 · Ve en la cámara el video de Eren en Shiganshina. Sabe que Facundo se va en unos diez días.
 - T779 · "Las historias feas son las que más hay que leer. Alguien tiene que acordarse." Lee la segunda página: el rey borró la memoria del pueblo.
 - T780 · Ve la foto de Black Clover y el grimorio flotando de Facundo. Pregunta si puede tocarlo.
+- T783 · "No me importa cuán fuerte seas. Me importa que vuelvas."
