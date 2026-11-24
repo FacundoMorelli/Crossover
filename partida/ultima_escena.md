@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T931)
-no, aparenta unos 18 o 19 pero estuvo 60 años de titan, asi que dejala como mayor, simula hasta el dia 50 en la demostracion
-
-## RESPUESTA 1 (T931)
-
-> simula hasta el dia 50 en la demostracion
-
-Erwin no pide explicaciones. Hange sí, durante una hora entera, con el lápiz de vuelta en la boca y los anteojos empañados de entusiasmo, hasta que Erwin la manda a buscar a Armin para repasar el plan con los tres juntos.
-
-La tarde del día cuarenta y ocho se va entera en la sala de mapas. El tramo elegido es un kilómetro de Wall Rose al norte de Karanes, deshabitado de los dos lados desde hace años, con un mirador de madera recién construido sobre la muralla, a trescientos metros, para las delegaciones. Armin marca con alfileres dónde va a estar cada uno. Hange calcula cuántos colosales debería haber adentro de ese tramo según lo que se vio en el de Wall Maria. Erwin repasa en voz alta quién habla primero, quién después y qué se dice si algo sale mal.
-
-A la noche, Ymir aparece en la puerta de la sala, apoyada en el marco con los brazos cruzados, y se queda mirándote un rato largo antes de decir nada.
-
-—Dos días antes —dice al fin, con media sonrisa—. Mira tú. ¿Me extrañaste, lindo?
-
-Kase baja de tu hombro, cruza la sala y se le sienta en los pies.
-
-El día cuarenta y nueve amanece con niebla.
-
-A media mañana llega el aviso desde la costa: el barco de Hizuru entró en la bahía con las delegaciones a bordo. Se los recibe en el puerto improvisado que la Guarnición levantó en las últimas semanas, y desde ahí los traen en carruaje a Mitras. Son cinco comitivas. La de Hizuru, con Kiyomi Azumabito al frente, que baja del carruaje mirando todo con el abanico abierto y los ojos muy atentos. Cuatro países más, con embajadores de caras desconfiadas que nunca pisaron la isla de los demonios y miran a los soldados de Paradis como si esperaran verlos transformarse en cualquier momento.
-
-Y una sexta, que nadie esperaba hasta último momento: Marley. El general Magath en persona, con dos oficiales y uniforme de gala, rígido como una tabla, que le estrecha la mano a Erwin en la escalinata del palacio delante de todos sin cambiar la cara.
-
-Esa noche hay cena en el palacio. Historia preside la mesa. Kiyomi se sienta al lado de Mikasa y no deja de hablarle bajito. Magath no prueba el vino. Los embajadores de los cuatro países te miran desde el otro lado de la mesa toda la cena: el Emisario del Gato, el de la foto de los diarios, el del escenario de Liberio. Uno de ellos le pregunta a Kiyomi en voz baja, en un idioma que no es el de la isla, si es cierto lo que se dice de ti. Kiyomi sonríe detrás del abanico y no contesta.
-
-Eren no come. Mira su plato toda la noche.
-
-El día cincuenta sale limpio, sin una nube.
-
-A las diez y media, la comitiva sube a Wall Rose por los elevadores de la Guarnición. Arriba, el viento sopla fuerte y frío. Desde el mirador de madera se ve todo: hacia el sur, el pasto de Wall Rose y los techos de Karanes a lo lejos; hacia el norte, el campo vacío entre las murallas, y la muralla misma, que se estira de horizonte a horizonte, gris, enorme, como el lomo de un animal dormido.
-
-Un kilómetro de esa muralla está marcado con banderas rojas, una en cada punta.
-
-En el mirador están todos. Historia, con capa blanca y la corona fina en el pelo, en el centro. Zackly a un lado, Pixis al otro, con la petaca escondida en la manga. Erwin detrás de la reina. Levi, apoyado en la baranda con cara de aburrido, sin sacarle el ojo de encima a los extranjeros. Hange, con una libreta. Armin, con otra. Mikasa, al lado de Kiyomi. Eren, un poco apartado, con las manos en los bolsillos, mirando la muralla.
-
-Ymir, sentada en la baranda con las piernas colgando hacia el vacío, comiendo una manzana.
-
-Frente a ellos, las delegaciones. Kiyomi con el abanico cerrado. Los cuatro embajadores, juntos, desconfiados. Magath, solo, un paso adelante de sus oficiales, con las manos detrás de la espalda.
-
-A las once menos cinco, Hange se acerca a la pared de la muralla con una linterna de aceite y abre una de las grietas que la Legión destapó la semana anterior. Les muestra a los embajadores lo que hay adentro: entre la piedra, a oscuras, una cara. Enorme. Sin piel. Con los ojos abiertos.
-
-Uno de los embajadores retrocede tres pasos y se tapa la boca. Otro se persigna. Magath no se mueve; ya lo sabía.
-
-—Hay así uno cada pocos metros —explica Hange, entusiasmada, demasiado—. Desde hace más de cien años. A lo largo de las tres murallas. Son miles.
-
-Historia da un paso adelante.
-
-—Esto es lo que el mundo teme de nosotros —dice, con la voz clara, para que se oiga sobre el viento—. Y esto es lo que hoy vamos a empezar a deshacer delante de ustedes.
-
-A las doce en punto, Erwin se da vuelta y te mira.
-
-Todos se dan vuelta y te miran.
-
-El viento te sacude el sobretodo. Kase, en tu hombro, entrecierra los ojos contra el sol. Debajo, la muralla marcada con las banderas rojas espera, quieta, con sus caras dormidas adentro.
-
-—Cuando usted diga —dice Erwin.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 931 · SHINGEKI · DÍA 50 · 12:00        ║
-║ Wall Rose, norte de Karanes · el mirador     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La demostración: 1 km de Wall Rose ║
-║ con sus colosales, ante el mundo.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T932)
+## COMANDO 1 (T932)
 uso eclipse
 
-## RESPUESTA 2 (T932)
+## RESPUESTA 1 (T932)
 
 > uso eclipse
 
@@ -157,10 +83,10 @@ Uno de los embajadores de los cuatro países, un hombre mayor de barba blanca, s
 
 ---
 
-## COMANDO 3 (T933)
+## COMANDO 2 (T933)
 por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
 
-## RESPUESTA 3 (T933)
+## RESPUESTA 2 (T933)
 
 > por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
 
@@ -223,4 +149,64 @@ Detrás de ti, en la baranda, Ymir deja de balancear las piernas.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:09, mirador sobre Wall Rose. Magath respaldó a Facundo ante los embajadores; el de barba blanca lo informará. Erwin cerró la demostración (recepción a las 18). Kiyomi pide hablar a solas con Facundo: tiene una propuesta solo para él. Ymir atenta. Facundo puede responder.
+## COMANDO 3 (T934)
+esta bien
+
+## RESPUESTA 3 (T934)
+
+> esta bien
+
+> —Está bien.
+
+Kiyomi sonríe. Abre el abanico de nuevo y señala con él hacia la punta de la muralla, donde termina la piedra.
+
+—Caminemos.
+
+Bajan juntos por el adarve, alejándose del mirador. El viento sopla fuerte allá arriba, a cincuenta metros del suelo, y Kiyomi camina con pasos cortos y seguros, sin mirar el vacío, con la mano libre en el pecho para que no se le vuele el kimono. Detrás, a lo lejos, Levi se queda mirándolos con los brazos cruzados. Ymir no se baja de la baranda, pero tampoco deja de mirar.
+
+Kiyomi se detiene justo en el borde.
+
+Delante de ustedes, la muralla se corta en seco, lisa como un espejo, y después no hay nada: un kilómetro de aire y pasto hasta el otro borde, allá lejos, con su bandera roja colgando floja. Abajo, donde estaban los colosales, el pasto ya se mueve con el viento como si nunca hubiera habido nada encima.
+
+Kiyomi mira el corte un rato largo, en silencio.
+
+—En Hizuru tenemos un dicho —dice al fin, sin darse vuelta—. El mercader sabio no compra la mercancía. Compra el camino por el que pasa la mercancía.
+
+Se da vuelta y te mira.
+
+—Usted es un camino, emisario.
+
+Cierra el abanico.
+
+—Lo vi en Liberio. La reina de Paradis apareció en un sótano del continente sin cruzar el mar. Usted aparece y desaparece. En la plaza, los cañones se detuvieron contra algo que nadie veía. Y hoy borra en un minuto una muralla que llevó un siglo levantar. —Inclina la cabeza—. No le voy a preguntar cómo. En mi familia aprendimos que preguntar cómo es la manera más rápida de perder un socio.
+
+Da un paso más cerca.
+
+—Hizuru firmó con Paradis por la piedra que arde sin humo. Eso ya está. Pero la piedra hay que sacarla de la tierra, cargarla en barcos, cruzar un mar que Marley todavía patrulla, y llevarla hasta mi país. Meses de viaje. Barcos que se hunden. Tripulaciones que se pierden.
+
+Te mira a los ojos, primero al rojo y después al azul.
+
+—Mi propuesta es esta: sea socio de la casa Azumabito. No empleado. Socio. Un viaje suyo al mes, cuando usted quiera, con lo que se pueda llevar, desde Paradis hasta Hizuru. A cambio, la décima parte de todo lo que Hizuru gane con la piedra de esta isla. Para siempre. Una casa en la capital de Hizuru. Un nombre en nuestra familia. Y la protección de un país entero, si algún día la necesita.
+
+Abre el abanico otra vez. Se tapa la boca.
+
+—Pocas veces en la vida la casa Azumabito ofrece algo así a alguien que no lleva su sangre. —Los ojos le sonríen por encima del abanico—. ¿Qué me dice, emisario?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 934 · SHINGEKI · DÍA 50 · 12:14        ║
+║ Wall Rose · el borde del corte               ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La propuesta de Kiyomi. A las 18,  ║
+║ recepción en el palacio.                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:14, borde del corte de Wall Rose. Kiyomi propone a Facundo ser socio de la casa Azumabito (un viaje al mes con piedra de Paradis a Hizuru; la décima parte de las ganancias para siempre; casa en Hizuru; nombre en la familia; protección). Espera respuesta. Facundo puede responder.

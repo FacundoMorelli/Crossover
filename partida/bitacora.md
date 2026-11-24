@@ -932,3 +932,4 @@ T930 · One Piece → Shingeki · Despedida de Luffy y Rayleigh. Puerta desde el
 T931 · Shingeki · Mitras → Wall Rose · (simulado días 48-50) Plan; llegan seis delegaciones (Magath en persona). Día 50 12:00, mirador: "Cuando usted diga."
 T932 · Shingeki · Wall Rose · El Eclipse borra 1 km de Wall Rose con sus colosales. Embajador: "¿Qué nos garantiza que no lo hará con una ciudad?"
 T933 · Shingeki · Wall Rose · "Si quisiera, ya lo habría hecho." Magath lo respalda. Kiyomi pide hablar a solas: una propuesta solo para él.
+T934 · Shingeki · Wall Rose · Kiyomi propone que sea socio de la casa Azumabito: un viaje al mes con la piedra, la décima parte para siempre.

@@ -15,3 +15,4 @@ ESTADO: activo
 - T931 · Día 49: llega con la delegación de Hizuru; en la cena habla bajito con Mikasa; no le contesta a un embajador sobre Facundo. Día 50 en el mirador.
 - T932 · Ve la demostración; se tapa la boca con el abanico.
 - T933 · "Hizuru ya hizo su apuesta." Pide hablar a solas con Facundo antes de la recepción: una propuesta solo para él.
+- T934 · A solas en el borde del corte: "El mercader sabio compra el camino. Usted es un camino." Propone a Facundo ser socio de la casa Azumabito: un viaje al mes con piedra de Paradis a Hizuru; la décima parte de lo que Hizuru gane con la piedra para siempre; casa en la capital; nombre en la familia; protección del país.
