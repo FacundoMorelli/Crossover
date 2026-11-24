@@ -1,8 +1,8 @@
 {
-  "turno": 939,
-  "mundo_actual": "shingeki",
-  "fecha_local": "Día 54 tras Shiganshina (año 850)",
-  "hora": "16:13",
+  "turno": 940,
+  "mundo_actual": "dragonball",
+  "fecha_local": "Año 774, ~día 96 (unos 87 días después de irse el día 9)",
+  "hora": "~10:00",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -262,7 +262,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Shingeki)"
+    "poder_mostrado": "persona común (Dragon Ball)"
   },
   "armas": [
     {
@@ -1598,15 +1598,9 @@
         "regreso": "19/09 21:30 (T295): 24 días después de irse (9 en Dragon Ball + 15 en Jujutsu)",
         "tercera_salida": "28/09 18:42 (Karakura); corre desde T345"
       },
-      "dragonball": {
-        "llegada": "Año 774, día del 25.º Torneo, mediodía",
-        "salida": "Año 774, día 9, 19:05",
-        "dias_transcurridos_al_salir": 8,
-        "corre_desde": "T276 al ritmo de Facundo",
-        "nota": "el año dentro de la Habitación del Tiempo no cuenta para los relojes"
-      },
+      "dragonball": "VUELVE año 774 ~día 96 (~87 días después de irse el día 9), Templo Sagrado.",
       "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
-      "shingeki": "VUELVE Día 48 12:21 (sala de mapas, palacio de Mitras). Demostración: día 50 mediodía, Wall Rose norte de Karanes.",
+      "shingeki": "Salida día 54 16:15 desde el techo del palacio de Mitras. Prometió a Ymir volver en un día. Carta de Lara pendiente (borrar el Martillo; invernadero de mañana). Corre.",
       "blackclover": {
         "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
         "salida": "dos días después de la luna llena, 06:18, base de los Toros Negros",

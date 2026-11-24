@@ -43,3 +43,6 @@
 - 13:08-13:38 · Goku vs Majin Vegeta SSJ2 en la zona rocosa (canon).
 - 12:05-13:05 · Niveles de la nave (canon): Vegeta mata a Pui Pui; Goku vence a Yakon; Gohan vs Dabura. Babidi controla a Vegeta: Majin Vegeta sale volando de la nave.
 - Año 774, mediodía · Llega Facundo con Kase a un risco sobre el desierto donde está la nave de Babidi.
+
+- Días 9-~96 · (en ausencia de Facundo; se simulará lo que haga falta) Tierra en paz.
+- ~Día 96, media mañana · (T940) Facundo vuelve por una puerta al Templo Sagrado; teletransporte al jardín con Dende y Mr. Popo.

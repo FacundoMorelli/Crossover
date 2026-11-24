@@ -20,3 +20,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio desde el templo (vigila la Tierra): Babidi, Buu, la mansión, el punto negro, la pelea con Vegeta.
 QUÉ PODERES DE FACUNDO VIO: casi todos los usados en la Tierra desde su llegada (desde lejos).
 ESTADO: bien.
+- T940 · ~Día 96 · En el jardín regando con Mr. Popo. "¡Facundo! ¡Volviste! ¡Y el gato también! Pasaron casi tres meses... ¿Pasó algo? Tienes cara de venir a pedir algo importante."

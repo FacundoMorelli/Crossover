@@ -10,3 +10,4 @@ DIÁLOGOS CLAVE:
 - T244: "Mr. Popo pregunta: ¿cuánto tiempo?" / "El gato también es alguien. Si entra, son tres. Solo pueden entrar dos."
 QUÉ SABE DE FACUNDO: lo que vio Dende.
 ESTADO: bien.
+- T940 · ~Día 96 · "Mr. Popo también dice bienvenido."

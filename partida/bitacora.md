@@ -938,3 +938,4 @@ T936 · Shingeki · Wall Rose · Acepta la placa Azumabito. Kiyomi se va. Ymir: 
 T937 · Shingeki · Wall Rose · Besa a Ymir en el borde del corte, a la vista de todos. "El Emisario del Gato tiene dueña."
 T938 · Shingeki · Mitras · (simulado días 50-54) Recepción; zarpan las delegaciones; Eren duerme; Ymir se muda al cuarto. Día 54: carta con lacre Tybur "para el emisario y para el gato".
 T939 · Shingeki · Mitras · Carta de Lara: quiere intentar borrar el Martillo. Ymir: "¿Puedes hacerlo de verdad?"
+T940 · Shingeki → Dragon Ball · Promete a Ymir volver en un día. Puerta al Templo Sagrado (~87 días después). Teletransporte a Dende.

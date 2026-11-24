@@ -3,53 +3,10 @@
 
 ---
 
-## COMANDO 1 (T937)
-si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
-
-## RESPUESTA 1 (T937)
-
-> si lo estaba haciendo pero lo rechace, la agarro de la cintura y la beso
-
-> —Sí, lo estaba haciendo. Pero lo rechacé.
-
-Ymir levanta una ceja. Abre la boca para decir algo.
-
-No llega. La agarras de la cintura, la acercas y la besas.
-
-Se queda rígida medio segundo, sorprendida, con las manos todavía en los bolsillos. Después las saca. Una se te agarra del sobretodo, a la altura del pecho; la otra te sube por la nuca hasta el pelo. Te devuelve el beso con ganas, sonriendo contra tu boca, ahí arriba, en el borde de la muralla cortada, con el viento sacudiéndoles la ropa y un kilómetro de vacío a un costado.
-
-Kase, en tu hombro, mira para otro lado con toda la dignidad del mundo.
-
-A lo lejos, en el mirador, alguien silba fuerte. Es Hange, con dos dedos en la boca. Al lado, Levi chasquea la lengua y se da vuelta. Pixis levanta la petaca en un brindis que nadie le pidió.
-
-Ymir se separa apenas. No te suelta el pelo.
-
-—Mmm. —Te mira desde muy cerca, con los ojos entrecerrados y la boca torcida en media sonrisa—. Rechazaste algo carísimo y después viniste a besarme delante de la reina, de medio ejército y de cinco países extranjeros.
-
-Se ríe bajito, por la nariz.
-
-—Ahora todo el mundo va a saber que el Emisario del Gato tiene dueña, lindo. —Te tira un poco del pelo, suave—. Espero que no te moleste. Porque a mí no.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 937 · SHINGEKI · DÍA 50 · 12:20        ║
-║ Wall Rose · el borde del corte               ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: A las 18, recepción en el palacio. ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T938)
+## COMANDO 1 (T938)
 no me molesta. simula varios dias
 
-## RESPUESTA 2 (T938)
+## RESPUESTA 1 (T938)
 
 > no me molesta. simula varios dias
 
@@ -97,10 +54,10 @@ Ymir se incorpora en el techo, apoyada en un codo, y mira el sobre por encima de
 
 ---
 
-## COMANDO 3 (T939)
+## COMANDO 2 (T939)
 leo el mensaje
 
-## RESPUESTA 3 (T939)
+## RESPUESTA 2 (T939)
 
 > leo el mensaje
 
@@ -157,4 +114,70 @@ Gira la cabeza en el tejado y te mira.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 54 16:13, techo del palacio. Facundo leyó la carta de Lara (quiere intentar borrar el Martillo; invernadero de mañana; Willy no sabe). Ymir la leyó, deduce que es la del Martillo y pregunta si Facundo puede de verdad borrar un titán sin borrar a la persona. Facundo puede responder.
+## COMANDO 3 (T940)
+no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
+
+## RESPUESTA 3 (T940)
+
+> no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
+
+> —No lo sé. Tengo que ir a hacer algo. Vuelvo, espero, en un día. No te preocupes: no voy a ningún lugar donde me puedan lastimar.
+
+Ymir se queda mirándote desde las tejas, con las manos todavía detrás de la cabeza.
+
+—Un día. —Lo dice despacio, como quien anota una deuda—. Te tomo la palabra, lindo.
+
+Después se incorpora, te agarra de la solapa del sobretodo, te baja hasta su altura y te da un beso corto, seco, casi un mordisco.
+
+—Y si no vuelves en un día, voy a comerme todas tus manzanas secas. —Te suelta—. Las de debajo de la cama. Que ya sé que no son mías.
+
+Kase se levanta del sol, se estira, cruza el techo y te salta al hombro.
+
+Levantas la mano. La puerta se abre sobre las tejas del palacio, un marco de luz alto y recto contra el cielo de la tarde. Del otro lado no se ve Mitras: se ve un cielo azul, enorme, sin una sola nube, y un piso de baldosas blancas que brilla al sol.
+
+Ymir la mira con una ceja levantada, sin moverse.
+
+—Presumido —murmura.
+
+Cruzas.
+
+El aire cambia de golpe: más fino, más frío, más limpio, como de montaña muy alta. El silencio es absoluto. Estás de pie en el borde del Templo Sagrado, sobre la plataforma blanca que flota en el cielo, por encima de las nubes, exactamente donde abriste la puerta la última vez. Abajo, muy abajo, se ve la curva de la Tierra entre jirones de nubes. Las palmeras del jardín se mueven apenas con el viento. Por el sol, debe de ser media mañana.
+
+No hay nadie a la vista.
+
+Cierras los ojos un segundo y buscas. La encuentras enseguida, cerca, una presencia tranquila, pequeña y luminosa, del otro lado del edificio central.
+
+Dos dedos en la frente.
+
+Apareces en el jardín de atrás del templo, entre los canteros de flores. Dende está de rodillas en la tierra, con la túnica blanca arremangada, regando con las manos una planta que crece demasiado rápido para ser normal. Junto a él, Mr. Popo sostiene una regadera, con la misma sonrisa inmóvil de siempre.
+
+Dende levanta la vista. Se le caen las gotas de las manos.
+
+—¡Facundo! —Se pone de pie de un salto, con las rodillas sucias de tierra—. ¡Volviste! ¡Y el gato también!
+
+Te mira de arriba abajo, con los ojos muy abiertos.
+
+—Pasaron casi tres meses... —Se le enrojecen un poco las mejillas verdes, como si se diera cuenta de que se le notó la emoción—. Perdón. Bienvenido. ¿Pasó algo? Tienes cara de venir a pedir algo importante.
+
+Mr. Popo deja la regadera en el suelo, despacio.
+
+—Mr. Popo también dice bienvenido.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 940 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
+║ Templo Sagrado · el jardín                   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Lo que vino a buscar. Volver a     ║
+║ Shingeki en un día (Ymir, Lara).             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 774 ~día 96, media mañana, Templo Sagrado (jardín de atrás). Facundo llegó desde Shingeki (prometió a Ymir volver en un día). Dende y Mr. Popo lo reciben; Dende nota que viene a pedir algo importante. Facundo puede hablar.

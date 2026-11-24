@@ -123,3 +123,9 @@
 - One Piece: salida Día 57 17:52 desde el bar de Shakky (Sabaody), tras Marineford (Ace y Barbablanca vivos), avisar a los ocho (dos años, Sabaody) y dejar a Luffy con Rayleigh. Robin con los revolucionarios (Corvin). Bankai sobre la flota de Barbablanca. Corre. Equivalencia OP = Shingeki + 9 d 5 h 30 min.
 - Shingeki: VUELVE el día 48 12:21 (1 día y 2 h después de irse) por una puerta a la sala de mapas del palacio de Mitras. Demostración: día 50 a mediodía, Wall Rose al norte de Karanes (antes de las 11 en la muralla).
 - Black Clover, Bleach, Jujutsu, Dragon Ball: corren.
+
+## RELOJES (actualizado T940)
+- Shingeki: salida día 54 16:15 (techo del palacio de Mitras). Prometió a Ymir volver en un día. Carta de Lara (borrar el Martillo). Corre.
+- Dragon Ball: VUELVE año 774, ~día 96 (~87 días después de irse el día 9: 15 en Jujutsu + ~9 en Bleach + ~63 en One Piece/Shingeki/Black Clover según el reloj de One Piece). Templo Sagrado, media mañana.
+- One Piece: corre (equivalencia OP = SNK + 9 d 5 h 30 min). Bankai sobre la flota de Barbablanca.
+- Black Clover, Bleach, Jujutsu: corren.
