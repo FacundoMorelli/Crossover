@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T952)
-esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
-
-## RESPUESTA 1 (T952)
-
-> esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
-
-> —Está bien. Antes voy a hacer la preparación para los deseos. Necesito buscar algo.
-
-Erwin asiente. No pregunta qué.
-
-—Mañana al mediodía empezamos a mover provisiones hacia Wall Maria —dice—. Hange, Armin: conmigo. Los demás, a dormir. Es una orden.
-
-Ymir te mira desde la mesa, con la manta otra vez sobre los hombros. No dice nada. Levanta el frasco de manzanas, apenas, como un brindis.
-
-Dos dedos en la frente.
-
-La sala de mapas desaparece.
-
-Apareces en la orilla de un río, afuera de las murallas de Mitras, al sur, donde el agua baja ancha y lenta entre sauces. Es noche cerrada. La luna está casi llena y pinta de plata la superficie del río. Hace frío. Huele a barro, a pasto mojado y a hojas podridas. Lejos, río arriba, se oye una rana. Nada más.
-
-Kase salta de tu hombro a una piedra seca, lejos del agua, y se sienta a mirarte con cara de no entender por qué lo trajiste a un lugar húmedo a las dos de la mañana.
-
-La orilla está llena de piedras. Cantos rodados, alisados por siglos de corriente: grises, blancos, verdes, algunos con vetas oscuras. Te agachas y empiezas a buscar.
-
-Las primeras dos son fáciles: dos piedras grises, redondas como huevos, que caben justas en tu palma. La tercera está medio enterrada en el barro, y tienes que hundir los dedos en el agua helada para sacarla. La cuarta, la quinta y la sexta las encuentras cerca de una raíz de sauce, juntas, como si el río las hubiera dejado ahí a propósito.
-
-La séptima te cuesta. Revisas media orilla. Hay piedras de todos los tamaños menos el que necesitas: un poco más grandes, un poco más chicas, un poco más chatas. Al final la encuentras debajo de la pata de Kase, que se levanta ofendido cuando le pides que se mueva, y se vuelve a sentar en otra piedra a dos metros, de espaldas a ti.
-
-Las juntas en el suelo, en fila, sobre la arena húmeda de la orilla.
-
-Siete piedras del mismo tamaño. Redondas, lisas, frías, brillando apenas con la luz de la luna.
-
-El río sigue corriendo al lado. La rana se calló.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 952 · SHINGEKI · DÍA 55 · 02:05        ║
-║ Río al sur de Mitras · la orilla             ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en una piedra, de espaldas, ofendido   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Siete piedras listas. Crear las    ║
-║ esferas. Deseos: día 63 al amanecer.         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T953)
+## COMANDO 1 (T953)
 gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
 
-## RESPUESTA 2 (T953)
+## RESPUESTA 1 (T953)
 
 > gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
 
@@ -144,10 +92,10 @@ Kase baja de su piedra. Camina hasta la fila, olfatea la esfera de siete estrell
 
 ---
 
-## COMANDO 3 (T954)
+## COMANDO 2 (T954)
 guardo las esferas en el inventario y simula hasta el dia 63
 
-## RESPUESTA 3 (T954)
+## RESPUESTA 2 (T954)
 
 > guardo las esferas en el inventario y simula hasta el dia 63
 
@@ -209,4 +157,62 @@ Erwin da un paso adelante.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 04:30, patio del palacio de Mitras. Todo preparado (campamentos en Wall Maria; Marley avisado y de acuerdo). Todos reunidos. Erwin: faltan cuarenta minutos para el amanecer; pregunta dónde quiere hacer los deseos. Facundo puede responder.
+## COMANDO 3 (T955)
+vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
+
+## RESPUESTA 3 (T955)
+
+> vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
+
+> —Vayamos a un lugar lejos. No sé qué tan grande puede ser lo que salga de ahí adentro. Por favor, pónganse todos para teletransportarnos.
+
+Se miran entre ellos un segundo. Después se acercan, sin que nadie dé la orden.
+
+Ya lo hicieron antes, la mayoría, en el sótano de Liberio. Saben cómo es. Se agarran unos de otros en una cadena torpe: Historia de tu brazo, Ymir de la mano de Historia, Mikasa del hombro de Ymir, Eren de Mikasa, Armin de Eren. Levi pone una mano en tu espalda, con cara de que no le gusta. Hange se agarra de Levi con las dos manos y una sonrisa nerviosa. Connie, Sasha y Jean, en fila, de la manga del de adelante. Pixis guarda la petaca. Zackly se acomoda el sombrero y apoya dos dedos en el hombro de Erwin, que apoya la mano en el de Hange.
+
+Kase se te acomoda en el hombro, bien agarrado.
+
+Buscas un lugar vacío. Lejos de las murallas, lejos de los campamentos, lejos de cualquier persona. Al este, más allá de Wall Maria, donde la isla se termina.
+
+Dos dedos en la frente.
+
+El patio desaparece.
+
+El viento llega primero. Frío, salado, constante, como si nunca hubiera dejado de soplar en ese lugar. Después el ruido: olas grandes rompiendo abajo, muy abajo.
+
+Están sobre una meseta de pasto bajo, amplia y desierta, al borde de un acantilado que cae a pico sobre el mar. No hay un árbol. No hay una casa. No hay una muralla a la vista, en ninguna dirección. Detrás, hacia el oeste, la isla se pierde en la oscuridad. Delante, el océano: negro, enorme, interminable. Y en el horizonte, donde el mar se junta con el cielo, una línea finísima de luz gris empieza a separarlos.
+
+Falta poco para el amanecer.
+
+Se sueltan unos de otros. Nadie habla. Sasha se aprieta el abrigo contra el cuerpo. Connie mira el mar, con la mandíbula apretada. Eren camina dos pasos hacia el borde del acantilado y se queda ahí, con el viento en el pelo, mirando el agua.
+
+—El mar —dice, muy bajo. Nadie le contesta. Nadie tiene que hacerlo.
+
+Armin se pone a su lado.
+
+Erwin mira alrededor: el pasto, el acantilado, la distancia. Asiente, satisfecho, y retrocede unos pasos, despacio, para dejarte espacio. Los demás lo imitan sin que nadie lo diga. Se forma un semicírculo amplio a tu espalda, de cara al mar.
+
+Ymir es la última en retroceder. Se queda un segundo más a tu lado, con la manta al viento. No te toca. Solo te mira.
+
+Después se va con los demás.
+
+Quedas solo, con Kase en el hombro, en el medio de la meseta, de cara al horizonte que se aclara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 955 · SHINGEKI · DÍA 63 · 04:50        ║
+║ Costa este de Paradis · meseta del           ║
+║ acantilado                                   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Invocar a Eclipse. Tres deseos.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 04:50, meseta sobre un acantilado en la costa este de Paradis. Todos teletransportados; en semicírculo detrás de Facundo. Eren vio el mar. Facundo solo con Kase, de cara al horizonte que se aclara, listo para invocar a Eclipse. Facundo puede actuar.

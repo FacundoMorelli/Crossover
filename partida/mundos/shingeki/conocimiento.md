@@ -186,3 +186,4 @@
 - Pieck · T954 · Por Magath: el plan.
 - Zeke · T954 · Por Levi: el plan.
 - Reiner, Bertholdt · T954 · Por Hange: el plan.
+- Todos los presentes · T955 · Teletransportados por Facundo a la costa este.
