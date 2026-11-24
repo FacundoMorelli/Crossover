@@ -1001,3 +1001,4 @@ T999 · Fairy Tail · Parque · "Me llamo Facundo Morelli. Solo pasaba por aquí
 T1000 · Fairy Tail · Parque · "Los encontré colgados. Ya están bien." Makarov, reverencia: "Gracias por bajar a mis hijos." "¿Viste quién fue?"
 T1001 · Fairy Tail · Parque · "Cuando llegué ya estaban colgados." Levy: Gajeel. Makarov rompe el bastón: "¡ES LA GUERRA!" A Facundo: "Vete de Magnolia unos días."
 T1002 · Fairy Tail · Parque · "Voy con ustedes a Oak Town." Erza objeta; Makarov: "Haz lo que quieras." Lucy se queda con Shadow Gear. Natsu: "¿Eres fuerte?"
+T1003 · Fairy Tail · Parque · "Un poco." Natsu lo desafía para después de Phantom. Gray se presenta. Tren en diez minutos.

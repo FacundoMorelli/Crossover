@@ -16,3 +16,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Makarov y todo Fairy Tail presente · T1000 · su nombre: Facundo Morelli (él lo dijo); que encontró a Shadow Gear colgado. Levy le dijo a Lucy (y a todos los cercanos) que él los bajó y los curó con una semilla.
 - Makarov y el gremio · T1001 · Facundo dijo que no vio a quien los colgó.
 - Todo Fairy Tail presente · T1002 · Facundo va con ellos a Oak Town (él lo dijo; Makarov lo permitió).
+- Natsu, Gray, Happy · T1003 · Facundo dijo que es "un poco" fuerte.
