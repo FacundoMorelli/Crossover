@@ -21,3 +21,4 @@ ESTADO: activo
 - T836 · Cuenta: el alto mando no sabe del plan de paz (creen que la fiesta es para declarar la guerra); cañones en los techos; cadetes; flota lista. Muller informó del "agente con gato". Confiesa que su hermana Lara porta el Martillo de Guerra. Pregunta cómo proteger a la reina si los generales disparan.
 - T837 · Facundo ofrece una barrera invisible sobre el escenario. Willy pide verla: "Soy un hombre que se crió entre mentiras."
 - T838 · Toca la línea invisible de Sakaime; no puede pasar. Tira té contra ella. "Dios mío." Ve a Facundo sacar una katana de la nada.
+- T839 · Aliviado por la barrera. Lo invita a ver la plaza mañana a la noche como su asesor civil. Llega Lara.

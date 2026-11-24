@@ -138,3 +138,4 @@
 - Facundo · T836 · Por Willy: el alto mando (Calvi y otros) cree que la fiesta es para declarar la guerra; cañones en los techos de la plaza, cadetes guerreros, flota lista; Muller informó del "agente del Medio Oriente con un gato"; Lara Tybur, hermana de Willy, porta el Martillo de Guerra.
 - Willy · T837 · Por Facundo: puede poner una barrera invisible sobre el escenario antes de la fiesta.
 - Willy · T838 · Ve a Facundo sacar una katana de la nada y trazar una línea invisible en el aire que no se puede atravesar (la toca, la empuja, le tira té).
+- Willy · T839 · Por Facundo: la barrera dura lo que él quiera y cubre todo el escenario.

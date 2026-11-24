@@ -837,3 +837,4 @@ T835 · Shingeki · Liberio · Teletransportación al invernadero de Willy Tybur
 T836 · Shingeki · Liberio · Willy cuenta: el alto mando cree que es guerra; cañones; Lara porta el Martillo.
 T837 · Shingeki · Liberio · Ofrece una barrera invisible (Shikai) sobre el escenario. Willy pide verla.
 T838 · Shingeki · Liberio · Línea invisible de Sakaime; Willy la toca y no la atraviesa.
+T839 · Shingeki · Liberio · La barrera dura lo que quiera. Plan de ver la plaza mañana. Entra Lara Tybur.

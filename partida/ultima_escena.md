@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T836)
-me siento, que pasó estos días willy?
-
-## RESPUESTA 1 (T836)
-
-> me siento, que pasó estos días willy?
-
-Te sientas en la silla de hierro blanco, frente a él. Kase baja de tu hombro a la mesa, olfatea las tostadas y se sienta al lado del plato, mirando a Willy.
-
-> —¿Qué pasó estos días, Willy?
-
-Willy se toma un momento. Sirve té en una taza limpia y te la pasa. Sirve otra para él. Las manos le tiemblan apenas, lo justo para que la tetera tintinee contra la porcelana.
-
-—Lo primero, para que no haya dudas. —Te mira a los ojos—. Sigo firme. Quiero esa paz. Más que antes.
-
-Toma un sorbo.
-
-—Lo segundo es el problema. —Deja la taza—. El alto mando no sabe nada. Ni de usted, ni de la reina, ni de la paz. Para el general Calvi y los demás, la fiesta es lo que siempre fue: hace más de un año que la preparamos para declararle la guerra a Paradis delante del mundo entero. Ese era el plan. Mi plan.
-
-Se le endurece la cara al decirlo.
-
-—Si cambiaba algo en público, me iban a preguntar por qué. Así que no cambié nada. Ensayé el discurso de guerra delante de ellos tres veces. Lo aplaudieron. —Se le escapa una risa amarga—. Pienso cambiarlo arriba del escenario, cuando esté frente a los embajadores. Ahí ya no me pueden callar.
-
-Se inclina hacia adelante.
-
-—Pero como los generales creen que es una declaración de guerra, la prepararon como tal. Hay cañones en los techos de toda la plaza. Pusieron a los cadetes guerreros en primera fila, a los chicos, a la pequeña Braun y a los demás, para la foto. La flota está lista en el puerto. Magath la frena con excusas, pero no la puede frenar para siempre.
-
-Hace una pausa.
-
-—Y el capitán Muller presentó un informe sobre un «agente del Medio Oriente con un gato» que fue visto con Magath el mes pasado. Magath lo archivó. Pero está escrito.
-
-Se queda callado un momento. Mira hacia arriba, hacia el techo de vidrio, hacia la casa.
-
-—Hay algo más que no le dije la última vez. —Baja la voz—. Si va a confiar en mí, tiene que saberlo. Mi familia guarda uno de los Nueve. El Martillo de Guerra. No lo porto yo. Lo porta mi hermana, Lara. —Señala el piso de arriba con los ojos—. Está arriba, durmiendo.
-
-Junta las manos sobre la mesa.
-
-—Así que la pregunta que no me deja dormir es esta. Si los generales deciden disparar igual cuando su reina suba a ese escenario... —Te mira—. ¿Cómo la protegemos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 836 · SHINGEKI · DÍA 35 · 07:15        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto a las tostadas       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Proteger a Historia en la plaza.             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T837)
+## COMANDO 1 (T837)
 puedo poner una barerra en el escenario antes de todo, es invisible(el shikai no el bankai)
 
-## RESPUESTA 2 (T837)
+## RESPUESTA 1 (T837)
 
 > puedo poner una barerra en el escenario antes de todo, es invisible (el shikai no el bankai)
 
@@ -109,10 +53,10 @@ Una sonrisa chica, nerviosa.
 
 ---
 
-## COMANDO 3 (T838)
+## COMANDO 2 (T838)
 trazo una línea invisible delante de willy y que la toque
 
-## RESPUESTA 3 (T838)
+## RESPUESTA 2 (T838)
 
 > trazo una línea invisible delante de willy y que la toque
 
@@ -169,4 +113,55 @@ Se pasa la mano por la cara.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:20, invernadero Tybur. Facundo trazó con Sakaime una línea invisible; Willy la empujó con todo el cuerpo y le tiró té: no pasa nada. "Dios mío." Pregunta cuánto dura y si se puede cubrir el escenario entero con todos arriba.
+## COMANDO 3 (T839)
+si, dura lo que yo quiera y cubre todo el escenario
+
+## RESPUESTA 3 (T839)
+
+> si, dura lo que yo quiera y cubre todo el escenario
+
+> —Sí. Dura lo que yo quiera y cubre todo el escenario.
+
+Willy se deja caer en la silla de hierro blanco, como si se le hubieran cortado los hilos. Se ríe, una risa larga, cansada, con los ojos cerrados y la cabeza hacia atrás, contra el respaldo. Tiene el traje mojado de té y no le importa.
+
+—Lo que usted quiera. —Abre los ojos y mira el techo de vidrio empañado—. Hace un mes que no duermo pensando en esos cañones. Y usted me lo resuelve en un desayuno.
+
+Se endereza. Vuelve a ser el hombre de negocios, el que planea.
+
+—Bien. Entonces escuche. —Se inclina sobre la mesa—. Mañana a la noche, el día treinta y seis, voy a revisar la plaza y el escenario con los organizadores. Usted viene conmigo como mi asesor civil, igual que con Magath. Así ve el lugar, las medidas, los techos. Y la barrera la pone la madrugada del día cuarenta, antes de que llegue nadie.
+
+Se queda callado un segundo. Frunce el ceño.
+
+—Pero el escenario es solo una parte. —Lo cuenta con los dedos—. Frente al escenario, en primera fila, van a estar los cadetes guerreros. Chicos de doce, trece años. Detrás, los embajadores de veinte países. Y detrás, miles de eldianos de la zona de internamiento, que traen para que aplaudan. —Le tiembla un poco la voz—. Si los generales disparan, no van a disparar solo al escenario.
+
+La puerta de vidrio del invernadero se abre con un chirrido.
+
+Entra una mujer joven, de pelo oscuro y largo suelto sobre los hombros. Lleva una bata gris y una taza humeante en la mano, y camina despacio, todavía medio dormida, entre los helechos. Se detiene en seco al verte.
+
+Te mira a ti. Mira al gato, que la mira desde el piso, al lado de la pared invisible que todavía gotea té. Mira a su hermano, sentado con el traje mojado.
+
+No grita ni deja caer la taza. Se queda quieta, serena, con los ojos tranquilos.
+
+Y ahora que la tienes a cinco metros, lo sientes con claridad: la presencia densa, pesada y dormida que sentías desde el otro lado del mar sale de ella.
+
+—Willy. —La voz es suave—. ¿Este es el hombre de la isla?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 839 · SHINGEKI · DÍA 35 · 07:24        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: junto a la línea invisible             ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Barrera sobre el escenario. Ver la plaza     ║
+║ mañana a la noche con Willy.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:24, invernadero Tybur. Regla R10 (líneas de Sakaime invisibles y sin límite de tiempo). Willy aliviado; plan: mañana a la noche (día 36) Facundo va con él como asesor civil a ver la plaza; la barrera se pone la madrugada del día 40. Preocupación de Willy: cadetes (12-13 años), embajadores y miles de eldianos frente al escenario. Entra Lara Tybur en bata (portadora del Martillo, Facundo siente su presencia): "Willy, ¿este es el hombre de la isla?"

@@ -78,6 +78,10 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 - Sigue vigente todo lo demás de la sección 14: solo con personajes adultos en ese momento del canon (nunca menores ni adultos con cuerpo de niño), conquistar es lento, ellas tienen vida propia y pueden decir que no, (es una amiga) es irreversible, y en las escenas íntimas, fundido.
 - Interpretación del motor (el jugador puede corregirla): una pareja por mundo.
 
+## R10. SAKAIME: LÍNEAS INVISIBLES Y SIN LÍMITE DE TIEMPO (T837-T839 · Día 35 Shingeki · declarado por el jugador)
+- T837: las líneas-frontera del Shikai de Sakaime pueden ser invisibles si Facundo quiere.
+- T839: duran lo que Facundo quiera (reemplaza el límite de "hasta 10 minutos" del Shikai) y pueden cubrir un escenario entero.
+
 ---
 
 ## NOTAS DE FORMATO (correcciones del jugador en esta partida)
