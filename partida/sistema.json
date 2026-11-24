@@ -1,8 +1,8 @@
 {
-  "turno": 739,
+  "turno": 740,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 35 (Grand Line, Water 7)",
-  "hora": "19:07",
+  "hora": "23:40",
   "edad": 18,
   "nivel": 26,
   "exp": 209640,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 78,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1660,7 +1660,8 @@
     "onepiece_documentos": "T596: Crocodile va a notar la falta de los documentos de su despacho en Rain Dinners (Operación Utopía) en unas horas. Sospechará de un traidor interno (Miss All Sunday incluida) o de Vivi. Acelerará los planes.",
     "onepiece_bellamy": "T643: Bellamy informará a Doflamingo por Den Den Mushi que \"Ojos de Eclipse\" lo mandó a volar sin moverse. Doflamingo se interesa.",
     "onepiece_raigo": "T676: Enel prepara el Raigo: una nube de tormenta gigante que caerá sobre Skypiea en unos 40 minutos y borrará todo. Solo puede detenerse destruyendo la nube (en canon, Luffy la rompe con la bola de oro y hace sonar la campana).",
-    "onepiece_cp9": "T698: Lucci, Kaku, Kalifa y Blueno son agentes del CP9 infiltrados. Hoy contactan a Robin en la ciudad: le exigen ir con ellos o Aokiji/el Gobierno disparará el Buster Call sobre los Sombrero de Paja. Robin acepta en secreto para protegerlos (canon)."
+    "onepiece_cp9": "T698: Lucci, Kaku, Kalifa y Blueno son agentes del CP9 infiltrados. Hoy contactan a Robin en la ciudad: le exigen ir con ellos o Aokiji/el Gobierno disparará el Buster Call sobre los Sombrero de Paja. Robin acepta en secreto para protegerlos (canon).",
+    "onepiece_enies": "T740: El tren del CP9 (Puffing Tom) con Robin, Franky y Usopp salió a las 23:00 y llega a Enies Lobby a las 06:00 del día 36. Sanji no va escondido (está en el Merry). Spandam, jefe del CP9, espera en la Torre de la Justicia con el Golden Den Den Mushi para el Buster Call. Jabra, Kumadori y Fukurou también están en la torre."
   },
   "recompensa_onepiece": {
     "monto": 26000000,

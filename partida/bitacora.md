@@ -738,3 +738,4 @@ T736 · One Piece · muelle · Deja que Blueno se lleve a Franky y Usopp. Los si
 T737 · One Piece · muelle · "Vamos a Enies Lobby con ellos." Zoro entiende el porqué. Nami: el Merry es el único que puede salir.
 T738 · One Piece · Aqua Laguna · Zarpan con la familia Franky y Paulie. Ola de cuarenta metros.
 T739 · One Piece · Aqua Laguna · Levanta el Merry con la Luna sobre la ola. Volando bajo, llegarían antes que el tren.
+T740 · One Piece · Enies Lobby · Simula: cuatro horas de vuelo. Llegan a Enies Lobby cinco horas antes que el tren.
