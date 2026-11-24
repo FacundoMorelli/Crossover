@@ -23,3 +23,4 @@ ESTADO: activo
 - T545 · Fija la reunión con Tybur. "Váyase antes de que llegue Muller."
 - T551 · Facundo golpea y le avisa de Muller. Propone que se presente mañana a las 8 como su asesor civil ante Muller.
 - T556 · Corta a Muller por rango. "No le creyó. Pero no va a ir contra mí sin pruebas."
+- T852 · Arresta a Calvi en el palco ante el mundo.

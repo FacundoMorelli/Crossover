@@ -21,3 +21,4 @@ ESTADO: activo
 - T826 · Facundo le asegura que llegan a Liberio por teletransportación. Le dice dónde está Eren.
 - T849 · Día 40 · Detrás del telón con vestido de gala, temblando, con el discurso.
 - T851 · Sale sola al escenario; los cañones disparan y no se mueve ni se agacha. Apoya las manos en el atril.
+- T852 · Discurso sin papel: perdón, "no vamos a devolver el disparo", ofrece destruir los titanes. Antes de firmar llama al emisario al escenario.

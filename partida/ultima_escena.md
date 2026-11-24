@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T849)
-que disparen, me parece bien tu idea willy. simula hasta la fiesta
-
-## RESPUESTA 1 (T849)
-
-> que disparen, me parece bien tu idea willy. simula hasta la fiesta
-
-> —Que disparen. Me parece bien tu idea, Willy.
-
-Willy asiente una sola vez, despacio. Se acomoda el sombrero y vuelve con los organizadores, con la sonrisa de siempre.
-
-Los cuatro días siguientes pasan rápido.
-
-Duermes tres noches en el ala de huéspedes de la mansión Tybur, en un cuarto con cortinas de terciopelo verde y una cama demasiado blanda. Las tres noches, desde la ventana, ves a dos hombres de civil fumando en la vereda de enfrente, mirando hacia arriba. Las tres noches dejas la lámpara encendida hasta tarde para que vean tu silueta con el gato. Lara le deja a Kase un plato de pescado en la puerta del cuarto cada noche, sin golpear.
-
-De día vuelves a Mitras con los dedos en la frente. Erwin, Hange y Armin dan vueltas sobre los dibujos de la plaza hasta tener un plan de salida para cada cosa que pueda salir mal. Armin hace preguntas que nadie más hace. Hange llena el tercer cuaderno. Historia ensaya el discurso hasta que se lo sabe dormida. Ymir la escucha todas las veces, comiendo manzanas, y la última vez aplaude.
-
-La madrugada del día cuarenta, a las cuatro, la plaza de Liberio está vacía, oscura y fría. Solo hay un guardia dormido en la entrada y gaviotas sobre el escenario terminado.
-
-Sacas a Sakaime.
-
-Trazas las líneas en silencio, una tras otra, a lo largo de los bordes de la plaza, de techo a techo, y las cierras en Marcos: paredes que nadie ve y un techo que nadie ve, sobre todo, como una campana de vidrio que no existe. La gente puede entrar y salir caminando. Lo que vuele, no. Cuando terminas, la plaza se ve igual que antes. Una gaviota baja a posarse en el atril, choca contra nada a tres metros del suelo, se sacude ofendida y se va volando.
-
-A las cuatro y media de la tarde, uno por uno, traes a la comitiva al sótano de la mansión Tybur: Historia, Ymir, Erwin, Hange, Mikasa, Eren, Armin, y Levi con Zeke encadenado a la muñeca. Lara los espera abajo con una lámpara y no dice nada al ver a la reina de Paradis, tan chiquita, con un vestido de gala azul oscuro que le queda un poco grande. Solo le hace una reverencia. Historia se la devuelve.
-
-A las seis y media los llevas al otro sótano: el del edificio de ladrillo, detrás del escenario, el de las ventanitas a ras del suelo. Huele a humedad. Por las ventanas se oyen la música de la banda, la gente que llega, los vendedores y los aplausos de práctica.
-
-A las siete, la plaza está llena.
-
-Desde detrás del telón rojo, por una rendija, lo ves todo. Los palcos de terciopelo están llenos de embajadores de veinte países, con uniformes y vestidos que no conoces y banderas que no reconoces, y con periodistas con cámaras de fuelle. En el palco del alto mando de Marley, un hombre viejo de bigote blanco y uniforme lleno de medallas: el general Calvi. A su lado, rígido, con la mandíbula apretada, Magath.
-
-En la primera fila, sentados en bancos, los cadetes guerreros: cinco chicos con brazaletes y uniformes almidonados. La menor es una nena de pelo oscuro y mirada feroz, de nueve o diez años. A su lado, un chico rubio que no deja de mirarla. Los otros, algo más grandes.
-
-Detrás, en las gradas, miles de eldianos con el brazalete de la estrella, apretados, en silencio.
-
-Muller camina despacio por el pasillo central, mirando todo.
-
-En los techos, las lonas de los seis cañones siguen atadas. Los artilleros ya no fuman.
-
-Detrás del telón, a tu lado, está Historia. Tiene el discurso doblado en la mano y le tiembla el papel. Ymir está al otro lado, con un vestido oscuro prestado que odia, apretándole la otra mano a Historia sin mirarla. Kase está en tu hombro.
-
-En el escenario, solo, Willy Tybur camina hacia el atril.
-
-La banda deja de tocar. La plaza entera se queda en silencio.
-
-Willy apoya las manos en el atril. Mira a los embajadores, a los cadetes, a las gradas y, un segundo, hacia los techos.
-
-Respira hondo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 849 · SHINGEKI · DÍA 40 · 19:00        ║
-║ Liberio · detrás del telón del escenario     ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: LA FIESTA. Historia firma la paz.  ║
-║ Barrera sobre la plaza. Que disparen primero.║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T850)
+## COMANDO 1 (T850)
 miro a willy y espero
 
-## RESPUESTA 2 (T850)
+## RESPUESTA 1 (T850)
 
 > miro a willy y espero
 
@@ -131,10 +65,10 @@ Una pistola de bengalas.
 
 ---
 
-## COMANDO 3 (T851)
+## COMANDO 2 (T851)
 miro a historia
 
-## RESPUESTA 3 (T851)
+## RESPUESTA 2 (T851)
 
 > miro a historia
 
@@ -199,4 +133,80 @@ En el escenario, Historia da un paso adelante y apoya las dos manos en el atril.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:12. Historia salió sola al escenario. Calvi disparó la bengala roja; los seis cañones dispararon (cuatro al atril, dos a la primera fila); todas las balas estallaron en el aire contra la barrera invisible. Nadie herido. Historia y Willy no se movieron. Silencio total; embajadores de pie, fotos; todos miran a Calvi con la pistola humeante; Magath lo mira también. Historia apoya las manos en el atril, a punto de hablar. Facundo detrás del telón con Ymir.
+## COMANDO 3 (T852)
+miro
+
+## RESPUESTA 3 (T852)
+
+> miro
+
+Desde la rendija del telón ves a Historia de espaldas, chiquita delante de miles de personas, con el humo de los cañones todavía flotando arriba, sobre la cúpula que nadie ve.
+
+No mira el papel, porque no lo tiene.
+
+—Me llamo Historia Reiss. —Su voz es clara y no tiembla. Llega hasta las gradas del fondo—. Soy la reina de una isla que ustedes llaman el infierno. Y mi pueblo son los que ustedes llaman demonios.
+
+Silencio.
+
+—Hasta hace muy poco, mi pueblo no sabía que ustedes existían. Nos dijeron que fuera de nuestras murallas no había nada. Que el mundo se había terminado. —Hace una pausa—. Nos mintieron a nosotros también.
+
+Mira hacia la primera fila, donde los cadetes se están levantando del piso, sucios de polvo, mirándola.
+
+—Los reyes de mi sangre hicieron cosas terribles. Durante siglos. No voy a negarlo, ni a esconderlo, ni a pedirles que lo olviden. —Se le endurece la voz—. Vine a pedirles perdón por eso. En nombre de los que ya no pueden pedirlo.
+
+Levanta la cara hacia el cielo, hacia donde reventaron las balas.
+
+—Y acaban de ver lo que pasa cuando alguien nos dispara. —Mira al palco del alto mando—. Nada. Y no vamos a devolver el disparo. Ni hoy, ni nunca.
+
+Se vuelve hacia los embajadores.
+
+—Las murallas de mi isla están hechas de titanes dormidos. Ustedes les tienen miedo y tienen razón. Les ofrezco destruirlos. Todos. Delante de testigos de cada una de sus naciones. Para que nadie pueda volver a despertarlos jamás.
+
+En el palco del alto mando, Magath se pone de pie.
+
+—General Calvi. —Lo dice fuerte, para que lo oiga toda la plaza—. Queda detenido. Por ordenar disparar contra cadetes del ejército de Marley y contra invitados del Estado.
+
+Dos oficiales jóvenes, pálidos, le sacan la pistola de bengalas de la mano. Calvi se resiste un segundo y grita, con la cara roja.
+
+—¡Es una trampa! ¡Una trampa de los demonios! ¡¿No lo ven?! ¡Brujería!
+
+Nadie le contesta. Se lo llevan del palco.
+
+En el pasillo central, Muller se quedó quieto, con las manos detrás de la espalda. No interviene. Mira el escenario, mira el telón, mira el cielo.
+
+Entonces, en un palco lateral, una mujer de kimono elegante y peinado alto se pone de pie, cierra un abanico de un golpe seco y aplaude.
+
+Sola, al principio. Despacio.
+
+Después se le suma el embajador de al lado, y otro, y otro. Después los palcos enteros. Después, desde el fondo, como una ola que viene de lejos, las gradas de los eldianos, miles de manos con brazalete aplaudiendo, algunos llorando, algunos sin entender por qué aplauden.
+
+Willy cruza el escenario con una carpeta de cuero y la abre sobre una mesa chica, al lado del atril. Adentro está el tratado, con dos plumas.
+
+Historia se acerca a la mesa. Toma una pluma.
+
+Y antes de firmar, se detiene. Se da vuelta hacia el telón rojo. Hacia ti.
+
+—Antes de firmar... —Su voz cruza la plaza—. Quiero que el mundo conozca al hombre que cruzó el mar por nosotros. Sin él no estaríamos aquí.
+
+Estira la mano hacia el telón.
+
+—Emisario. ¿Saldría, por favor?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 852 · SHINGEKI · DÍA 40 · 19:22        ║
+║ Liberio · detrás del telón del escenario     ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: LA FIESTA. Historia va a firmar.   ║
+║ Te llama al escenario.                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:22. Historia dio su discurso sin papel (perdón, "no vamos a devolver el disparo", ofrece destruir los titanes de las murallas). Magath arrestó a Calvi en el palco. Kiyomi Azumabito (Hizuru) aplaudió primero; toda la plaza la siguió. Willy puso el tratado en una mesa. Historia, con la pluma, llama al emisario: "¿Saldría, por favor?". Facundo detrás del telón con Ymir y Kase.
