@@ -24,3 +24,4 @@ ESTADO: activo
 - T852 · Discurso sin papel: perdón, "no vamos a devolver el disparo", ofrece destruir los titanes. Antes de firmar llama al emisario al escenario.
 - T853 · Firma el tratado. Invita a Facundo a firmar como testigo.
 - T862 · Día 47 · Llora al saber que el Parlamento de Marley ratificó el tratado.
+- T865 · En el pasillo, roja, con Kase en brazos, tras golpear la puerta del cuarto de Facundo e Ymir.

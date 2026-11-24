@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T862)
-si, se van a despertar bien todos, simula hasta el dia 47
-
-## RESPUESTA 1 (T862)
-
-> si, se van a despertar bien todos, simula hasta el dia 47
-
-> —Sí, se van a despertar bien. Todos.
-
-Magath asiente una vez. No da las gracias, y no hace falta.
-
-—Entonces váyase.
-
-Te vas antes de que suenen los primeros camiones del regimiento del puerto. En la mansión Tybur, Kase está dormido en el sofá del estudio, enroscado contra el sobrino de Willy, que también duerme, con un brazo encima del gato. La madre te mira desde un sillón sin decir nada. Willy te acompaña hasta la puerta del estudio y te aprieta el hombro. Lara levanta una mano desde la ventana. Levantas a Kase con cuidado para no despertar al nene, y el nene igual abre un ojo, te ve y vuelve a dormirse.
-
-Vuelves a Mitras antes del amanecer.
-
-El día cuarenta y cuatro, los sesenta y tantos golpistas se despiertan sin un dolor, sin un moretón, esposados en los calabozos de la guarnición del puerto, sin entender qué pasó. Ninguno sabe explicarlo. Calvi tampoco. A las nueve, Willy habla por la radio de Liberio: hubo un intento de golpe contra el tratado, fracasó, no hay un solo herido y los responsables están detenidos. No dice cómo. Al mediodía, el Primer Ministro destituye y manda arrestar a dos ministros.
-
-El día cuarenta y cinco, el Parlamento de Marley vota el tratado con la isla. Lo ratifica por doscientos doce votos contra ciento cuarenta. Calvi va a la prisión militar a esperar juicio.
-
-Cada tarde vas a Liberio con los dedos en la frente, a tomar té con Willy en el invernadero. Lara siempre está. Nunca te pregunta por el Martillo. Te sirve el té, le da pescado a Kase y espera.
-
-En Mitras, el palacio es un hormiguero. Erwin y Hange preparan la demostración del día cincuenta en Wall Rose. Llegan cartas de Hizuru: Kiyomi Azumabito y delegados de cuatro países zarparon de Liberio en un barco de Hizuru y llegan a la costa de Paradis el día cuarenta y nueve. Mikasa se pasa horas mirándose la marca de la muñeca. Ya no se pone la venda.
-
-Ymir y tú pasan esos días juntos, cuando se puede. Los techos de noche, los mercados de día y las manzanas robadas. Ella no dice mucho. Te agarra la mano cuando cree que nadie mira.
-
-El día cuarenta y siete, a las ocho y diez de la mañana, desayunas con Historia y con Ymir en el comedor chico del ala de la reina. Les traes la noticia de la ratificación del Parlamento, que Willy te dio la tarde anterior.
-
-Historia deja la taza en el plato. Se tapa la cara con las dos manos y llora, sin ruido, con los hombros temblando. Ymir le pasa el brazo por los hombros sin dejar de comer.
-
-Después, Ymir te mira.
-
-Te mira largo, fijo, con una manzana a medio comer en la mano. Tiene los ojos filosos de siempre, pero algo más quieto adentro.
-
-—Tienes cara de que te vas a ir otra vez, lindo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 862 · SHINGEKI · DÍA 47 · 08:10        ║
-║ Mitras · comedor chico del ala de la reina   ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tratado ratificado. Demostración:  ║
-║ día 50. Marineford ≈ días 48-49.             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T863)
+## COMANDO 1 (T863)
 si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
 
-## RESPUESTA 2 (T863)
+## RESPUESTA 1 (T863)
 
 > si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
 
@@ -113,10 +59,10 @@ Te besa otra vez, más despacio, y te tira de la camisa hacia ella.
 
 ---
 
-## COMANDO 3 (T864)
+## COMANDO 2 (T864)
 estando contra la pared le levanto las piernas y la sigo besando
 
-## RESPUESTA 3 (T864)
+## RESPUESTA 2 (T864)
 
 > estando contra la pared le levanto las piernas y la sigo besando
 
@@ -173,4 +119,58 @@ Ymir hunde la cara en tu pecho y se ríe sin hacer ruido.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 47 10:05, cuarto de huéspedes. Después del fundido: Ymir sobre el pecho de Facundo, tranquila: "Ahora sí te puedes ir. Pero vuelve, lindo. Que esto no lo hago con cualquiera." Historia golpea la puerta: Erwin pregunta por Facundo. Kase maúlla ofendido del otro lado. MARINEFORD ≈ días 48-49 de Shingeki.
+## COMANDO 3 (T865)
+salgo, agarro a kase y voy con erwin
+
+## RESPUESTA 3 (T865)
+
+> salgo, agarro a kase y voy con erwin
+
+Te vistes. Ymir te mira desde la cama, con la sábana hasta el mentón, y te tira la manzana que encontró debajo de la cama. La atrapas sin mirar.
+
+—Presumido —repite, y esconde la cara en la almohada.
+
+Abres la puerta.
+
+En el pasillo está Historia, sola, con Kase en brazos. Está colorada como un tomate desde la frente hasta el cuello, mirando con muchísima atención una mancha del techo.
+
+—El comandante. —Lo dice sin bajar la vista—. En la sala de mapas. Pregunta por ti. Desde hace... un rato.
+
+Kase salta de sus brazos a tu hombro. Se acomoda, te mira de reojo con desprecio absoluto y te muerde la oreja. Despacio, sin lastimar, pero te la muerde. Después se queda quieto, con la cola enroscada en tu cuello, como si te perdonara a medias.
+
+Historia se escapa por el pasillo hacia el cuarto, sin mirarte, con pasos rápidos.
+
+La sala de mapas está en el segundo piso. Es una sala larga, con ventanales al patio y una mesa enorme en el centro cubierta de papeles. Erwin está inclinado sobre un mapa de Wall Rose, con Hange a un lado y Armin al otro. Hay un tramo de muralla marcado en rojo, al norte del distrito de Karanes, y al pie, del lado de adentro, una tribuna dibujada en lápiz.
+
+—Ahí va la tribuna de las delegaciones —está diciendo Hange, sin levantar la vista—. A ochocientos metros. Si es como la otra vez, ni un hueso, ni vapor, nada. ¡Nada! Quiero que lo vean con lentes de aumento, con...
+
+Te ve entrar. Se calla. Te mira la cara, el pelo, el cuello de la camisa mal puesto. Levanta las cejas hasta el techo y no dice nada, cosa que en Hange es muchísimo.
+
+Armin se pone colorado y mira el mapa.
+
+Erwin se endereza.
+
+—Facundo. —Te señala el mapa con la mano—. El barco de Hizuru llega a la costa sur el día cuarenta y nueve, a la tarde. Pixis los recibe y los lleva por tierra a Karanes. Al día siguiente, a mediodía, la demostración. Ochocientos metros de Wall Rose, con todo lo que tienen adentro, delante de cinco naciones.
+
+Se queda callado. Te mira fijo, con los ojos azules muy quietos.
+
+—Tiene la cara de un hombre que se va. —No es una pregunta, pero la hace igual—. ¿Va a estar aquí el día cincuenta?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 865 · SHINGEKI · DÍA 47 · 10:20        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, ofendido                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Demostración: día 50 (Wall Rose,   ║
+║ Karanes). Marineford ≈ días 48-49.           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 47 10:20, sala de mapas del palacio. Erwin, Hange y Armin con el plan de la demostración: tramo de 800 m de Wall Rose al norte de Karanes, tribuna para delegaciones; barco de Hizuru llega el día 49 (Pixis los recibe); demostración el día 50 a mediodía. Erwin: "Tiene la cara de un hombre que se va. ¿Va a estar aquí el día cincuenta?" Marineford ≈ días 48-49 de Shingeki.

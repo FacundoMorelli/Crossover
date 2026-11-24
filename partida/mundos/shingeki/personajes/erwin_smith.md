@@ -27,3 +27,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T830 · Oficina en Mitras. Repasa la comitiva; dudas sobre Willy (24 días sin contacto), alojamiento y una posible traición. Zeke dice que lo que se reservó es sobre la fiesta. "Necesito saber tu plan para los próximos cinco días."
 - T831 · Aprueba el orden: Zeke primero, después Willy. Levi irá a lo de Zeke. Recuerda la cita del invernadero (próxima: día 37 a las 21).
 - T842 · Día 35: recibe el informe de Facundo. Muda a Levi y Zeke a Mitras; Hange y Armin estudian la plaza.
+- T865 · Repasa la demostración (día 50 a mediodía, Wall Rose; barco de Hizuru el 49). "¿Va a estar aquí el día cincuenta?"
