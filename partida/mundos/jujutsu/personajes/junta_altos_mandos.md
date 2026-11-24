@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: registro de Yaga; orden de retención; presencia en Shibuy
 QUÉ PODERES DE FACUNDO VIO: ninguno en persona.
 ESTADO: activa
 - T992 · Acepta la condición de Facundo: libre de ir y venir, sin misiones obligatorias; pedirán (no ordenarán) ayuda ante amenazas de grado especial. Orden de retención anulada. Registrado como grado especial (segundo en actividad, con Yuta). Pide declarar su técnica innata (tablilla y pincel).
+- T993 · Registra la técnica: Manecilla Inversa (Facundo la declaró por escrito y en voz alta). La mujer: tres técnicas temporales en mil años, ninguna revertía. Pregunta final: qué fue el punto negro de Sendai.

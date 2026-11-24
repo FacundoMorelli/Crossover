@@ -106,3 +106,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nueva junta de altos mandos · T990 · Sabe que Facundo volvió (fuente probable: reportes de la escuela / avistamientos). Lo cita en Kioto.
 - Saori · T990 · Nobara estudia en "una escuela técnica muy estricta, con uniforme negro".
 - Junta, Utahime, Nanami · T992 · Facundo acepta registrarse como grado especial con libertad de ir y venir.
+- Junta, Utahime, Nanami · T993 · Por Facundo: su técnica es la Manecilla Inversa (marca y revierte; dominio que revierte a cualquier instante; no revierte alma ni muerte). Registrada oficialmente.
+- Junta · T993 · Por el informe de Sendai (Ijichi/alumnos): el dedo desapareció en un punto negro creado por Facundo.

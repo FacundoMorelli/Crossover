@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T990)
-simula
-
-## RESPUESTA 1 (T990)
-
-> simula
-
-El departamento de Saori es tan chico como dijo. Un ambiente con cocina, un baño y un balcón con macetas. Seis personas y un gato no entran, y entran igual.
-
-Nobara se lava los pies en la bañera, quejándose a los gritos del agua fría, y sale con un par de medias de Saori, con dibujos de fresas, que le quedan grandes. Saori hace café para todos en una cafetera que da para cuatro, dos veces. Yuji, Megumi y Nobara se aprietan en el sillón. Nanami se sienta en la única silla, derecho, con la taza en la mano como en una reunión de directorio. Tú te quedas apoyado contra la ventana del balcón. Kase inspecciona el departamento entero, centímetro por centímetro, y elige como trono la radio sobre la heladera, al lado de la foto vieja de los arrozales.
-
-Saori lo ve subirse ahí. Ve la foto. Te mira a ti, un segundo, como si sospechara algo. No dice nada.
-
-Hablan toda la mañana. Saori cuenta Tokio: la tienda de ropa en Shimokitazawa donde trabaja, la jefa que grita, el departamento que paga con dos trabajos, el festival del verano pasado. Nobara cuenta la escuela. No dice qué tipo de escuela. Dice que es "una escuela técnica muy estricta, con uniforme negro", y Yuji casi se ahoga con el café. Saori entrecierra los ojos y no pregunta. Cuando Nobara le cuenta que la quisieron casar en el pueblo con un vecino viejo y que se escapó, Saori se ríe tanto que se le cae la taza.
-
-A mediodía, Saori pide comida para todos con su sueldo de la semana. Nanami insiste en pagar. Saori no lo deja. Discuten cortésmente durante diez minutos, y al final Nanami paga en secreto al repartidor, en la puerta, mientras ella está en el baño.
-
-A media tarde se despiden. En la puerta, Saori y Nobara intercambian números de teléfono dos veces, para estar seguras. Saori la abraza otra vez y le dice al oído algo que hace que Nobara se ponga colorada y le pegue en el hombro. Después Saori te mira a ti por encima del hombro de Nobara y te hace una reverencia corta, sin palabras.
-
-Vuelven a la escuela teletransportándose desde la azotea del edificio, para que ningún vecino los vea. Nobara no habla en todo el resto del día. Pero sonríe. A cada rato, mira el teléfono.
-
-Los días siguientes son tranquilos.
-
-Entrenas a la mañana con los tres de segundo año en el campo de atrás, como antes. Megumi come tres veces por día; Yuji lo vigila como una madre. Maki aparece el viernes, te mira de arriba abajo y te desafía a un duelo de bastón; pierde, se ríe, y te desafía otra vez. Panda te abraza tan fuerte que Kase le pega un zarpazo en la nariz. Inumaki te saluda con la mano y dice "salmón". Yuta vuelve de una misión en Kioto el sábado y te encuentra en la cocina: se queda parado en la puerta un largo rato antes de sonreír. Nanami pasa por la escuela todas las tardes, siempre con una excusa distinta.
-
-El domingo veintiocho, a la noche, estás en el techo de los dormitorios con Kase, mirando las luces de Tokio a lo lejos, cuando Ijichi sube por la escalera de servicio.
-
-Tiene el traje arrugado, los anteojos empañados y un sobre blanco en la mano. Respira agitado, como si hubiera subido corriendo. Se detiene a unos metros. Se acomoda los anteojos.
-
-—Morelli-san. Perdón por molestarlo a esta hora. —Te muestra el sobre, con las dos manos, como si quemara—. Esto llegó hoy a la escuela, a su nombre. Es de los altos mandos. De la nueva junta, la que se formó después de Shinjuku. —Traga—. Se enteraron de que volvió.
-
-Duda.
-
-—Quieren verlo. En persona. Mañana a las diez, en la sede de Kioto. —Baja la voz—. Dicen que es para "resolver de una vez la situación de la orden de retención".
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 990 · JUJUTSU · 28/04/2019 · 21:40     ║
-║ Escuela de Tokio · techo de los dormitorios  ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el techo, a tu lado                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Citación de la nueva junta: mañana ║
-║ 10:00, Kioto (orden de retención).           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T991)
+## COMANDO 1 (T991)
 esta bien. simula hasta mañana a las 10 en la sede de kioto
 
-## RESPUESTA 2 (T991)
+## RESPUESTA 1 (T991)
 
 > esta bien. simula hasta mañana a las 10 en la sede de kioto
 
@@ -121,10 +69,10 @@ Nanami deja de escribir. Levanta la vista de la libreta y te mira.
 
 ---
 
-## COMANDO 3 (T992)
+## COMANDO 2 (T992)
 eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
 
-## RESPUESTA 3 (T992)
+## RESPUESTA 2 (T992)
 
 > eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
 
@@ -177,4 +125,60 @@ Nanami deja la lapicera sobre la libreta. Te mira, sin expresión. Pero sabe tan
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:06, sede de Kioto. La junta aceptó: orden de retención anulada; Facundo registrado como grado especial, libre de ir y venir, sin misiones obligatorias (le pedirán ayuda ante amenazas de grado especial; él decide). Le piden declarar su técnica innata por escrito (tablilla y pincel a sus pies). Facundo puede responder.
+## COMANDO 3 (T993)
+eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
+
+## RESPUESTA 3 (T993)
+
+> eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
+
+Te agachas, levantas el pincel y escribes en la tablilla. Mientras escribes, lo dices en voz alta.
+
+> —Eh, bueno. Mi técnica se llama Manecilla Inversa. Al tocar a alguien puedo dejarle una marca, y cuando la activo, la persona o el objeto vuelve al estado en que estaba cuando le dejé la marca: heridas, roturas, etcétera. No revierte el alma ni la muerte. Y con el dominio puedo revertir a cualquier ser u objeto que esté adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera.
+
+Dejas el pincel sobre la tablilla.
+
+Nadie habla.
+
+Detrás de los biombos, las cinco siluetas se quedan completamente quietas. Ni un murmullo. Ni el roce de una tela.
+
+Utahime te mira con la boca entreabierta. Ya no hay desconfianza en su cara. Hay otra cosa, más parecida al miedo.
+
+—Revertir... —dice, casi sin voz—. Una herida. Una fractura. Un brazo...
+
+Se detiene. Mira la manga vacía de Nanami. Después a ti.
+
+Nanami no se mueve. No mira su manga. Sigue escribiendo en la libreta, con la misma letra torcida de siempre, sin levantar la vista. Pero la lapicera se le detiene un segundo a mitad de la palabra.
+
+La mano detrás del biombo de la derecha vuelve a moverse. Tira de la tablilla hacia atrás, por debajo del papel. Se oye el roce de la madera sobre el tatami, y después nada.
+
+Un rato largo.
+
+Habla la mujer.
+
+—En mil años de registros —dice, despacio—, hay tres técnicas documentadas que tocaban el tiempo. Ninguna lo revertía. Ninguna sobre otra persona. —Pausa—. Ninguna en un dominio.
+
+—Queda registrada —dice la voz vieja, más baja que antes—. Manecilla Inversa. Facundo Morelli. Grado especial.
+
+Otra pausa. Más larga.
+
+—Una última pregunta, para el registro. —La silueta del medio se inclina apenas hacia el papel—. El informe de la misión de Sendai, del veinticuatro de enero, dice que el último dedo del Rey de las Maldiciones desapareció en un punto negro que usted creó en el aire. —Cada palabra sale más despacio que la anterior—. Eso no es revertir nada. ¿Qué fue eso?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 993 · JUJUTSU · 29/04/2019 · 10:09     ║
+║ Kioto · sede de los altos mandos             ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Técnica registrada. La junta       ║
+║ pregunta por el punto negro de Sendai.       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:09, sede de Kioto. Facundo declaró y escribió su técnica (Manecilla Inversa). Utahime, impresionada, miró la manga de Nanami. La junta la registró. Pregunta final: qué fue el punto negro que se tragó el último dedo en Sendai. Facundo puede responder.

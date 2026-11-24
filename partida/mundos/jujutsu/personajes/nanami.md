@@ -57,3 +57,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - T990 · Paga la comida en secreto al repartidor. Pasa por la escuela todas las tardes con excusas.
 - T991 · Acompaña a Facundo a Kioto: "Soy grado uno, tengo derecho a estar presente. Alguien tiene que tomar notas que no estén escritas por ellos." Toma notas en la audiencia; deja de escribir ante la oferta y mira a Facundo.
 - T992 · A Utahime: "Y gracias a eso todavía existe Japón."
+- T993 · Oye la Manecilla Inversa; no levanta la vista; la lapicera se le detiene un segundo.
