@@ -870,3 +870,4 @@ T868 · One Piece · Sabaody · Rayleigh cuenta la dispersión de Kuma, Ace mañ
 T869 · One Piece · Sabaody · Bar de Shakky. Hachi herido pide perdón.
 T870 · One Piece · Sabaody · Semilla del ermitaño a Hachi: curado. Rayleigh pregunta qué fue eso.
 T871 · One Piece · Sabaody · Rayleigh muestra su Haki. Misión de copia: Rayleigh. "¿Para qué quieres que te enseñe?"
+T872 · One Piece · Sabaody · Grove 1: Rayleigh acepta chocar el Haki del Rey.

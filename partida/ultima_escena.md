@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T869)
-mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
-
-## RESPUESTA 1 (T869)
-
-> mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
-
-> —Mañana voy a ir a Marineford. Luffy va a poder salir de Impel Down. Lléveme a su bar, donde está el herido.
-
-Rayleigh se queda mirándote un rato largo, sin pestañear, con la botella vacía en la mano.
-
-—«Va a poder salir». —Lo repite despacio—. No «a lo mejor». No «ojalá».
-
-Se levanta del barril y deja la botella.
-
-—Así que sabes cosas que nadie sabe. —Se acomoda la capa y sonríe, una sonrisa vieja y cansada—. Me recuerdas a alguien. Vamos.
-
-Kase salta a tu hombro.
-
-Caminan entre los árboles gigantes del archipiélago, por puentes de madera y raíces anchas como calles, con burbujas que suben de la tierra alrededor. Por los caminos pasan piratas, mercaderes, marines de patrulla y vendedores de burbujas para montar. Nadie los para. Algunos se dan vuelta a mirar a Rayleigh y bajan la vista.
-
-El bar está en el Grove 13: una casa chica de madera, con un cartel torcido sobre la puerta que dice «Shakky's Rip-off Bar». Adentro está oscuro, fresco, y huele a tabaco y a licor caro. Hay una barra de madera lustrada y unas pocas mesas vacías.
-
-Detrás de la barra, una mujer de pelo negro corto fuma un cigarrillo largo y limpia un vaso. Levanta la vista cuando entran. Te mira de arriba abajo y sonríe con media boca.
-
-—Ray. —Suelta el humo despacio—. Me trajiste al famoso del gato. Cuatrocientos millones. —Apoya el vaso—. ¿Le cobro la entrada o se la cobro a él?
-
-—Después, Shakky. Viene a ver a Hachi.
-
-Shakky señala con el cigarrillo una puerta al fondo.
-
-En el cuarto de atrás, en una cama chica junto a una ventana, está Hachi. Tiene el pecho vendado, con una mancha oscura de sangre seca a la altura del hombro. Está pálido, con la piel azulada brillante de sudor y la respiración rápida, de fiebre. Los seis brazos le cuelgan a los costados, flojos.
-
-Abre los ojos cuando entras.
-
-Te ve. Ve el pelo de dos colores, la cicatriz, el gato. Se le abren los ojos de golpe y se le llenan de lágrimas.
-
-—¡Nyu...! ¡Tú! —Intenta sentarse y no puede—. ¡El del gato! ¡El de Arlong Park!
-
-Se le quiebra la voz.
-
-—Perdóname. —Las lágrimas le caen por los costados de la cara, sobre la almohada—. Perdón por lo de Cocoyasi... por todo lo que hicimos. Y perdón por Sabaody. Yo los traje hasta aquí. Yo tenía que protegerlos... a la sirena, a los chicos... y no pude. No pude, nyu.
-
-Se tapa la cara con dos de los seis brazos.
-
-—Era mi culpa.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 869 · ONE PIECE · DÍA 56 · 16:25       ║
-║ Sabaody · bar de Shakky, cuarto del fondo    ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Hachi herido. Marineford mañana.   ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T870)
+## COMANDO 1 (T870)
 no te preocupes pez, toma comete esto, saco una semilla y se la doy
 
-## RESPUESTA 2 (T870)
+## RESPUESTA 1 (T870)
 
 > no te preocupes pez, toma comete esto, saco una semilla y se la doy
 
@@ -123,10 +59,10 @@ Antes de que nadie conteste, Hachi te agarra con los seis brazos a la vez y te l
 
 ---
 
-## COMANDO 3 (T871)
+## COMANDO 2 (T871)
 no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
 
-## RESPUESTA 3 (T871)
+## RESPUESTA 2 (T871)
 
 > no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
 
@@ -217,4 +153,58 @@ Deja el vaso.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:32, salón del bar de Shakky. Rayleigh mostró Haki de armadura (partió una botella a 4 m sin tocarla) y un hilo de Haki del Rey (Hachi al piso; Facundo y Kase ni se inmutan). Misión de copia emitida: chocar Haki del Rey con Rayleigh a plena potencia y no ceder (ALTA). Rayleigh: "Tú ya lo tienes... ¿Para qué quieres que te enseñe?" Marineford mañana a las 15:00.
+## COMANDO 3 (T872)
+podemos chocar nuestros hakis?
+
+## RESPUESTA 3 (T872)
+
+> podemos chocar nuestros hakis?
+
+> —¿Podemos chocar nuestros Hakis?
+
+Rayleigh se queda quieto con el vaso a medio camino. Después sonríe. Es una sonrisa que no le habías visto, ancha, de chico, como si le hubieran ofrecido un juguete que no ve desde hace años.
+
+—Ah. —Deja el vaso—. Eso sí.
+
+Detrás de la barra, Shakky apaga el cigarrillo en un cenicero, sin apuro.
+
+—Aquí no. —Lo dice sin levantar la voz—. Ya me debes tres bares, Ray.
+
+—Dos y medio.
+
+—Tres.
+
+Rayleigh se ríe y se levanta.
+
+Caminan los tres hasta el Grove 1, en la otra punta del archipiélago. Shakky los sigue fumando, y Hachi detrás, curado y nervioso, a una distancia prudente. Es una zona abandonada: raíces enormes cubiertas de musgo, ruinas de un parque de diversiones con una rueda de la fortuna oxidada a medio caer, juegos de madera podrida y burbujas que suben solas de la tierra, sin nadie que las mire. No hay casas ni gente. Solo el viento entre los árboles gigantes y el sol de la tarde, bajo y anaranjado.
+
+Rayleigh se detiene en un claro, entre dos raíces que forman una especie de anfiteatro natural.
+
+Se saca la capa y la cuelga de una rama. Se arremanga la camisa. Se acomoda los lentes con un dedo.
+
+Camina hasta quedar a veinte metros de ti y se da vuelta. Abre los brazos, relajado, con las manos vacías.
+
+—Hace veinte años que no hago esto en serio. —Se le borra la sonrisa, despacio, y queda otra cara, una que no conocías: la del primer oficial de Gol D. Roger—. Cuando quieras, muchacho.
+
+Kase salta de tu hombro y se va solo, sin que nadie se lo diga, a sentarse sobre una raíz alta, lejos, al lado de Shakky.
+
+Hachi se esconde detrás de un árbol.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 872 · ONE PIECE · DÍA 56 · 16:45       ║
+║ Sabaody · Grove 1, claro abandonado          ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en una raíz alta, junto a Shakky       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Chocar Haki del Rey con Rayleigh.  ║
+║ Marineford mañana. Shingeki: antes del D59.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:45, Grove 1 de Sabaody (claro abandonado entre raíces, ruinas de un parque). Rayleigh, sin capa, a 20 m, serio: "Cuando quieras, muchacho." Kase en una raíz alta junto a Shakky; Hachi escondido detrás de un árbol. Misión de copia: chocar Haki del Rey con Rayleigh a plena potencia y no ceder.

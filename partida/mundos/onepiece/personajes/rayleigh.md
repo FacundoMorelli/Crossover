@@ -11,3 +11,4 @@ QUÉ SABE DE FACUNDO: el cartel (400M, Enies Lobby); que viaja con Luffy (por la
 ESTADO: activo
 - T868 · Le cuenta a Facundo lo de Sabaody y la dispersión. "¿Y tú qué vas a hacer, muchacho?"
 - T871 · Le muestra el Haki de armadura (parte una botella sin tocarla) y un hilo de Haki del Rey. Dice que Facundo ya lo tiene: "algo grande y dormido debajo de ese agujero". Misión de copia emitida.
+- T872 · Acepta chocar el Haki del Rey con Facundo en el Grove 1. "Hace veinte años que no hago esto en serio. Cuando quieras, muchacho."
