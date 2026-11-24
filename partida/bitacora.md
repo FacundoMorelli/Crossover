@@ -838,3 +838,4 @@ T836 · Shingeki · Liberio · Willy cuenta: el alto mando cree que es guerra; c
 T837 · Shingeki · Liberio · Ofrece una barrera invisible (Shikai) sobre el escenario. Willy pide verla.
 T838 · Shingeki · Liberio · Línea invisible de Sakaime; Willy la toca y no la atraviesa.
 T839 · Shingeki · Liberio · La barrera dura lo que quiera. Plan de ver la plaza mañana. Entra Lara Tybur.
+T840 · Shingeki · Liberio · Lara Tybur: le quedan nueve años; pregunta si puede borrar su titán sin borrarla a ella.

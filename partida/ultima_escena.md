@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T837)
-puedo poner una barerra en el escenario antes de todo, es invisible(el shikai no el bankai)
-
-## RESPUESTA 1 (T837)
-
-> puedo poner una barerra en el escenario antes de todo, es invisible (el shikai no el bankai)
-
-> —Puedo poner una barrera en el escenario antes de todo. Es invisible.
-
-Willy se queda quieto, con la taza a medio camino.
-
-—¿Una barrera?
-
-La deja en el plato, despacio. Se le aflojan los hombros apenas, como alguien que oye una buena noticia pero todavía no se anima a creerla.
-
-—Invisible. —Lo repite, probando la palabra—. ¿Y aguanta una bala de cañón? Las piezas de los techos son de campaña, de las que usamos contra los acorazados del Medio Oriente. Atraviesan una pared de ladrillo de un metro.
-
-Se pasa la mano por el bigote.
-
-—¿Y cuánto dura? El acto completo, con la llegada de los embajadores, los himnos, mi discurso y la firma, son casi dos horas.
-
-Se queda mirándote. Después se mira las manos, sobre la mesa de hierro blanco. Se ríe bajito, avergonzado.
-
-—Perdóneme. —Levanta la vista—. No es que no le crea. Usted apareció en mi despacho sin abrir una puerta, se llevó una prisionera de una celda sellada y hoy está en mi invernadero, a un océano de su isla, tomando mi té.
-
-Hace una pausa.
-
-—Pero soy un hombre que se crió entre mentiras. Mi familia lleva cien años contándole al mundo una historia que no es cierta. —Junta las manos—. ¿Podría mostrármela? Aquí. Ahora. Necesito verla con mis propios ojos. O no verla, si es invisible.
-
-Una sonrisa chica, nerviosa.
-
-—Necesito tocarla, entonces.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 837 · SHINGEKI · DÍA 35 · 07:18        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto a las tostadas       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Barrera invisible sobre el escenario.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T838)
+## COMANDO 1 (T838)
 trazo una línea invisible delante de willy y que la toque
 
-## RESPUESTA 2 (T838)
+## RESPUESTA 1 (T838)
 
 > trazo una línea invisible delante de willy y que la toque
 
@@ -113,10 +63,10 @@ Se pasa la mano por la cara.
 
 ---
 
-## COMANDO 3 (T839)
+## COMANDO 2 (T839)
 si, dura lo que yo quiera y cubre todo el escenario
 
-## RESPUESTA 3 (T839)
+## RESPUESTA 2 (T839)
 
 > si, dura lo que yo quiera y cubre todo el escenario
 
@@ -164,4 +114,57 @@ Y ahora que la tienes a cinco metros, lo sientes con claridad: la presencia dens
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:24, invernadero Tybur. Regla R10 (líneas de Sakaime invisibles y sin límite de tiempo). Willy aliviado; plan: mañana a la noche (día 36) Facundo va con él como asesor civil a ver la plaza; la barrera se pone la madrugada del día 40. Preocupación de Willy: cadetes (12-13 años), embajadores y miles de eldianos frente al escenario. Entra Lara Tybur en bata (portadora del Martillo, Facundo siente su presencia): "Willy, ¿este es el hombre de la isla?"
+## COMANDO 3 (T840)
+si, soy yo, mucho gusto lara
+
+## RESPUESTA 3 (T840)
+
+> si, soy yo, mucho gusto lara
+
+> —Sí, soy yo. Mucho gusto, Lara.
+
+Lara parpadea una vez al oír su nombre. Mira a su hermano.
+
+Willy se pasa la mano por la cara, sin poder mirarla.
+
+—Se lo dije —admite—. Todo. Hace dos minutos.
+
+Lara se queda quieta un segundo largo. No se enoja ni frunce el ceño. Asiente despacio, como si hubiera estado esperando ese momento hace mucho, y se le aflojan los hombros.
+
+—Está bien. —Su voz es suave, tranquila—. Ya era hora de que alguien de afuera lo supiera.
+
+Camina entre los helechos con la taza en la mano y se detiene frente a la pared invisible que todavía gotea. Mira el té suspendido. Estira un dedo y lo apoya en la nada mojada. El dedo no pasa.
+
+Lo retira. Se mira la yema húmeda.
+
+—Willy dijo que usted borró un kilómetro de muralla. —Se sienta en la tercera silla de la mesa, frente a ti, con la taza entre las dos manos—. Con los titanes adentro. Que no quedó nada. Ni hueso, ni vapor.
+
+Kase se acerca a sus pies y la olfatea. Lara baja la mano y se deja oler, sin moverse.
+
+—Yo heredé el Martillo hace cuatro años. —Lo dice como quien cuenta el clima—. Me quedan nueve. Así funciona: trece años, y después se muere, y se lo pasa a otro de la familia. A mi sobrino, seguramente. Tiene seis años.
+
+Willy la mira con la mandíbula apretada.
+
+Lara levanta los ojos hacia ti. Son oscuros, tranquilos y muy cansados.
+
+—¿Podría borrar también al mío? —Hace una pausa—. Sin borrarme a mí.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 840 · SHINGEKI · DÍA 35 · 07:26        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: a los pies de Lara                     ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Barrera sobre el escenario. Ver la plaza     ║
+║ mañana a la noche con Willy.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:26, invernadero Tybur. Lara Tybur (portadora del Martillo de Guerra, 4 años heredado, le quedan 9; su sucesor sería un sobrino de 6) se sentó con Facundo y Willy. Tocó la pared invisible. Pregunta: "¿Podría borrar también al mío? Sin borrarme a mí."

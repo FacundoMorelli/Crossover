@@ -10,3 +10,4 @@ ENCUENTROS:
 - T839 · Día 35 07:24 · Entra al invernadero en bata con una taza; ve a Facundo y al gato.
 QUÉ SABE DE FACUNDO: lo que le contó Willy (emisario de Paradis, plan de paz).
 ESTADO: activo
+- T840 · "Mucho gusto, Lara." Toca la pared invisible. Heredó el Martillo hace cuatro años (le quedan nueve, maldición de Ymir). Pregunta si Facundo puede borrar su titán sin borrarla a ella.

@@ -139,3 +139,5 @@
 - Willy · T837 · Por Facundo: puede poner una barrera invisible sobre el escenario antes de la fiesta.
 - Willy · T838 · Ve a Facundo sacar una katana de la nada y trazar una línea invisible en el aire que no se puede atravesar (la toca, la empuja, le tira té).
 - Willy · T839 · Por Facundo: la barrera dura lo que él quiera y cubre todo el escenario.
+- Facundo · T840 · Por Lara: heredó el Martillo de Guerra hace cuatro años; le quedan nueve (maldición).
+- Lara · T840 · Ve la pared invisible de Sakaime (mojada de té) y la toca. Sabe por Willy lo de la muralla borrada.
