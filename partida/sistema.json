@@ -1,8 +1,8 @@
 {
-  "turno": 819,
+  "turno": 820,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 44 (Grand Line, Thriller Bark)",
-  "hora": "09:22",
+  "hora": "09:25",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -407,6 +407,11 @@
     {
       "objeto": "Silbato de Gan Fall",
       "detalle": "Si lo tocan en el Mar Blanco, viene el Caballero del Cielo (T647). Lo tiene Nami.",
+      "mundo": "onepiece"
+    },
+    {
+      "objeto": "Hoja seca de Skypiea (señalador de Robin)",
+      "detalle": "Robin se la dio en T820: 'Para que tengas algo mío donde sea que vayas.'",
       "mundo": "onepiece"
     }
   ],

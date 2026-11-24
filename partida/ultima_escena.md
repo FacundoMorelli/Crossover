@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T817)
-bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
-
-## RESPUESTA 1 (T817)
-
-> bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
-
-> —Bueno, chicos, hoy me voy a ir. A lo mejor me pierdo Sabaody. No se preocupen: donde estén, voy a poder ir.
-
-Por un segundo, nadie dice nada alrededor de la fogata.
-
-Luffy es el primero. Se encoge de hombros con un hueso en la boca, como si le hubieras dicho que vas a buscar agua.
-
-—¡Está bien! —Mastica—. ¡Pero vuelve! ¡Eres de mi tripulación!
-
-Brook gira la calavera de uno a otro, confundido.
-
-—¿Irse? ¿Adónde? ¿Ahora? ¡Si acabo de unirme!
-
-—Siempre hace eso —le explica Usopp, en voz baja, como quien cuenta un secreto—. Desaparece. Y después vuelve. Nunca sabemos de dónde.
-
-—¡Yohohoho! ¡Qué misterioso! ¡Me da escalofríos! ¡Aunque no tengo piel!
-
-Nami se pone de pie con los brazos en jarra.
-
-—Muy bien, pero antes de irte te llevas tu parte del tesoro de Moria. Bueno, la mitad de tu parte. Bueno, un tercio. —Hace cuentas con los dedos—. Te la guardo yo.
-
-Zoro, contra la piedra, te mira un segundo y asiente, una sola vez.
-
-Sanji enciende un cigarro y suelta el humo.
-
-—Te guardo comida. Pero no te quejes si está fría.
-
-Franky levanta el pulgar. Chopper te mira con los ojos húmedos y se agarra a la pierna de Usopp.
-
-Robin no dice nada delante de todos.
-
-Se levanta despacio, se sacude el pasto de la falda y te tiende la mano. Cuando se la tomas, tira de ti para que te pares.
-
-—Antes de irte, ven conmigo. —Lo dice tranquila, pero con los ojos fijos en los tuyos—. Me debes una historia.
-
-Sin esperar respuesta, sin soltarte la mano, camina entre las ruinas hacia el muelle donde está anclado el Sunny.
-
-Kase salta de la piedra y los sigue.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 817 · ONE PIECE · DÍA 44 · 09:14       ║
-║ Thriller Bark · camino al Sunny              ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: detrás de ustedes                      ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Irte hoy de One Piece. Volver      ║
-║ después donde estén.                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T818)
+## COMANDO 1 (T818)
 voy con robin
 
-## RESPUESTA 2 (T818)
+## RESPUESTA 1 (T818)
 
 > voy con robin
 
@@ -111,10 +49,10 @@ Se le quiebra la voz en la última palabra. Respira y la recupera.
 
 ---
 
-## COMANDO 3 (T819)
+## COMANDO 2 (T819)
 recibi el dolor que sufrieron todos ustedes
 
-## RESPUESTA 3 (T819)
+## RESPUESTA 2 (T819)
 
 > recibi el dolor que sufrieron todos ustedes
 
@@ -165,4 +103,52 @@ Ella se separa apenas, lo justo para mirarte a la cara. Tiene los ojos rojos y l
 
 ---
 
-ESTADO AL CIERRE: Día 44 09:22, biblioteca del Sunny. Facundo le contó a Robin que recibió el dolor de todos. Robin lloró, le pegó flojo en el pecho, lo abrazó. Le pide que prometa que la próxima vez no la duerma ni lo haga solo: "Déjame estar." Espera la respuesta.
+## COMANDO 3 (T820)
+esta bien amor, te lo prometo
+
+## RESPUESTA 3 (T820)
+
+> esta bien amor, te lo prometo
+
+> —Está bien, amor. Te lo prometo.
+
+Robin suelta todo el aire de golpe, como si lo hubiera tenido guardado desde el amanecer.
+
+Te apoya la frente contra la tuya. Cierra los ojos. Así se queda un momento, respirando, con las manos todavía en tu cara.
+
+Después te besa. Despacio, largo, sin apuro, con el sabor salado de las lágrimas en los labios.
+
+Cuando se separa, se ríe. Es una risa chiquita, mojada, que le sale entre el llanto.
+
+—Mírame. —Se pasa el dorso de la mano por los ojos—. La mujer más buscada del mundo, llorando en una biblioteca.
+
+Se da vuelta hacia el escritorio. Abre el libro de Paradis en la página que tenía marcada y saca el señalador: la hoja seca de Skypiea, verde pálido, aplastada entre las páginas desde hace semanas.
+
+Te toma la mano, te la abre y te la pone en la palma. Te cierra los dedos encima, con los suyos.
+
+—Para que tengas algo mío. —Te mira a los ojos—. Donde sea que vayas. En el mundo que sea.
+
+Se queda con las manos sobre la tuya.
+
+—Y no te vayas todavía. —Lo dice bajito—. Quédate un rato más. Aunque sea un rato.
+
+En el piso, Kase se estira largo y se acuesta panza arriba sobre los pies de Robin.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 820 · ONE PIECE · DÍA 44 · 09:25       ║
+║ Thousand Sunny · biblioteca de Robin         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: panza arriba sobre los pies de Robin   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Irte hoy de One Piece. Volver      ║
+║ después donde estén.                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 09:25, biblioteca del Sunny. Facundo le prometió a Robin no volver a dormirla ni sacrificarse solo a escondidas. Ella lo besó y le dio su señalador (hoja seca de Skypiea). Le pide que se quede un rato más antes de irse.

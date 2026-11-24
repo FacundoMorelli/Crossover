@@ -818,3 +818,4 @@ T816 · One Piece · Thriller Bark · Historia de Brook, Binks no Sake; se une. 
 T817 · One Piece · Thriller Bark · Avisa que se va hoy. Robin lo lleva aparte: "Me debes una historia."
 T818 · One Piece · Sunny · En la biblioteca, Robin le pregunta qué le dio a Kuma.
 T819 · One Piece · Sunny · Le cuenta a Robin lo del dolor. Robin llora y lo abraza.
+T820 · One Piece · Sunny · Promesa a Robin. Ella le da su señalador de Skypiea.

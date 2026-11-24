@@ -81,3 +81,4 @@ ESTADO: activa
 - T814 · No le cree a Facundo que Kuma se fue sin más; le toma la mano y no la suelta. Sospecha que la sangre tiene que ver con que todos amanecieran sanos.
 - T815 · "Después me lo vas a contar. Todo."
 - T819 · Sabe que Facundo recibió el dolor de todos. Llora, le pega en el pecho, lo abraza: "Idiota. Te podrías haber muerto." Le pide que no lo vuelva a hacer solo.
+- T820 · Facundo promete no volver a dormirla ni sacrificarse solo a escondidas. Lo besa. Le da su señalador (hoja seca de Skypiea). Le pide que se quede un rato más.
