@@ -18,3 +18,4 @@ ESTADO: herido leve, rescatado por Urahara.
 - T1031 · Levanta la mochila de Ichigo. "Sí estaba." "Bienvenido."
 - T1032 · "Yo también." (ir a buscarlo)
 - T1036 · Señala la espada en el árbol.
+- T1037 · "Tú lo venciste. Es tuya. Tú decides."

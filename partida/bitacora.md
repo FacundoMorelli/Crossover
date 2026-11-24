@@ -1035,3 +1035,4 @@ T1033 · Bleach · (simulado 18-21/12) Cena Kurosaki; Rukia vuelve; entrenamient
 T1034 · Bleach · Feria · "¿Sigues vivo?" Ichigo: Grimmjow solo pelea, pero rompe cosas. Civiles mareados. Grimmjow: "Sube aquí, gatito."
 T1035 · Bleach · Feria · Grimmjow inconsciente de un puñetazo (mandíbula rajada). Ichigo: "¡Era mi pelea!" Rukia: "¿Y ahora qué hacemos con él?"
 T1036 · Bleach · Feria · Tira a Grimmjow por la Garganta. Su zanpakutō quedó clavada en el árbol. Rukia: "Va a volver a buscarla."
+T1037 · Bleach · Feria · "¿Quieren que la guarde?" Uryū sí; Ichigo no (que venga a pelearlo); Orihime: Urahara. Chad: "Es tuya. Tú decides."

@@ -19,3 +19,4 @@ ESTADO: rescatada por Urahara.
 - T1031 · "¡Facundo-kun! ¡Volviste! Perdón, no estoy llorando, es el frío. Estamos bien. Kurosaki-kun estaba preocupado, aunque diga que no."
 - T1032 · "Facundo-kun... ¿Es peligroso? Los lugares adonde vas." "¡Y yo! ¡Puedo curar cualquier cosa!"
 - T1033 · 21/12 · Feria: dulce de batata con mantequilla de maní.
+- T1037 · "¿Y si se la damos a Urahara-san? Él sabe guardar cosas."

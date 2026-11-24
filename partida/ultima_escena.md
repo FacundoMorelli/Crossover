@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1034)
-eh sigues vivo? ichigo este solo viene a pelear no? o hace alguna cosa mala?
-
-## RESPUESTA 1 (T1034)
-
-> eh sigues vivo? ichigo este solo viene a pelear no? o hace alguna cosa mala?
-
-> —Eh, ¿sigues vivo?
-
-Lo dices hacia arriba, al aire, en el mismo tono en que preguntarías la hora.
-
-Grimmjow se queda con la mano a medio sacar del bolsillo.
-
-—¿Que si sigo...? —La vena de la sien se le hincha—. ¡¿QUÉ CLASE DE PREGUNTA ES ESA?! ¡Claro que sigo vivo, idiota! ¡¿Quién te crees que me iba a matar?! ¡¿Tú?!
-
-> —Ichigo, este solo viene a pelear, ¿no? ¿O hace alguna cosa mala?
-
-Ichigo ya tiene la mano en el bolsillo del abrigo, sobre la insignia de Shinigami sustituto. No la saca todavía. Mira a Grimmjow, después a ti, y se le escapa un resoplido que es casi una risa.
-
-—Viene a pelear conmigo. Es la tercera vez desde octubre. —Se encoge de hombros—. No mató a nadie. Pero rompe cosas. La primera vez destrozó medio parque del distrito este. La segunda, una torre de alta tensión: tres barrios se quedaron sin luz una noche entera.
-
-—Y la gente que pasa cerca de él con poca energía espiritual se desmaya —agrega Rukia, en voz baja, mirando a su alrededor la plaza llena de civiles—. Su reiatsu los aplasta sin que se den cuenta. Si se pone serio aquí, en medio de la feria...
-
-No termina la frase.
-
-A unos metros, una señora que compraba castañas asadas se lleva la mano a la frente y se sienta en un banco, mareada, sin saber por qué. El chico del puesto de dulces bosteza y se apoya en el mostrador.
-
-—¡OIGAN! —ruge Grimmjow desde arriba—. ¡¿Me están ignorando?! ¡¿Están hablando de mí como si no estuviera aquí?!
-
-Se saca la otra mano del bolsillo. Baja la vista hacia ti, solo hacia ti, y la sonrisa de tiburón vuelve, más ancha que antes.
-
-—Cambio de planes, Kurosaki. Tú puedes esperar. —Agarra la empuñadura de la espada que lleva a la cintura y la saca despacio. La hoja brilla bajo las luces de Navidad—. Primero quiero ver qué tan fuerte es el que convirtió a Aizen en piedra. —Te apunta con la punta—. Sube aquí, gatito. O bajo yo y aplasto este maldito pueblo con todos sus arbolitos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1034 · BLEACH · 21/12 · 21:16          ║
-║ Karakura · feria navideña, plaza del árbol   ║
-║ NIVEL 27 · EXP 234.850/240.000               ║
-║ FRAGMENTOS 107.840 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, con bufanda              ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1035)
+## COMANDO 1 (T1035)
 subo y lo dejo inconsciente de un golpe
 
-## RESPUESTA 2 (T1035)
+## RESPUESTA 1 (T1035)
 
 > subo y lo dejo inconsciente de un golpe
 
@@ -125,10 +75,10 @@ Rukia abre los ojos y te mira a ti, y después al Arrancar que tienes colgando d
 
 ---
 
-## COMANDO 3 (T1036)
+## COMANDO 2 (T1036)
 lo tiro de vuelta por la Garganta a Hueco Mundo
 
-## RESPUESTA 3 (T1036)
+## RESPUESTA 2 (T1036)
 
 > lo tiro de vuelta por la Garganta a Hueco Mundo
 
@@ -179,4 +129,59 @@ Nadie de la feria la ve.
 
 ---
 
-ESTADO AL CIERRE: Bleach, 21/12 21:19, plaza de la feria. Grimmjow devuelto a Hueco Mundo; la Garganta se cerró. Su zanpakutō quedó clavada en la copa del árbol; Rukia dice que va a volver a buscarla. Facundo puede actuar.
+## COMANDO 3 (T1037)
+ehhh quieren que la guarde?
+
+## RESPUESTA 3 (T1037)
+
+> ehhh quieren que la guarde?
+
+> —Ehhh... ¿quieren que la guarde?
+
+Se miran entre ellos.
+
+—Si la guardas tú, no la encuentra nadie —dice Uryū, sin dudar—. Ni él, ni nadie. Lo vimos con... —Baja la voz y mira de reojo a Yuzu y a Keigo, que están a unos pasos peleándose por una brocheta—. Con lo otro que guardaste.
+
+—No. —Ichigo niega con la cabeza, firme—. Piénsalo. Si la tienes tú, viene a buscarla y no la encuentra. Y tú no vas a estar, porque te vas en unos días. ¿Qué crees que va a hacer? Va a dar vuelta todo Karakura buscándola. —Se mete las manos en los bolsillos—. Si la dejamos aquí, o donde la pueda encontrar, viene, la agarra y me pelea a mí. Como siempre. Por lo menos sabemos dónde va a estar.
+
+—También le devolvemos su resurrección —dice Rukia, cruzada de brazos—. Una pantera de verdad en el medio de la ciudad. Kurosaki la puede aguantar, pero el pueblo no sé.
+
+—¡La aguanto bien!
+
+—No dije que no la aguantaras. Dije que el pueblo no.
+
+Orihime mira la espada en la copa del árbol, preocupada, con las manos juntas.
+
+—¿Y si se la damos a Urahara-san? —dice—. Él sabe guardar cosas. Y si Grimmjow viene a buscarla, la tienda tiene esas barreras, y Yoruichi-san, y Tessai-san...
+
+—Urahara la va a abrir en dos para ver qué tiene adentro —murmura Uryū.
+
+—Eso también —admite Rukia.
+
+Chad, que no había dicho nada, levanta la vista hacia ti.
+
+—Tú lo venciste —dice. Simple—. Es tuya. Tú decides.
+
+Los demás se callan. Te miran.
+
+Arriba, en el árbol, la nieve sigue cayendo sobre la empuñadura de la espada.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1037 · BLEACH · 21/12 · 21:21          ║
+║ Karakura · feria navideña, plaza del árbol   ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en brazos de Karin                     ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Qué hacer con la espada de         ║
+║ Grimmjow                                     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 21/12 21:21, plaza de la feria. El grupo discute qué hacer con la espada de Grimmjow (guardarla, dejarla, dársela a Urahara). Chad: "Es tuya. Tú decides." Facundo decide.
