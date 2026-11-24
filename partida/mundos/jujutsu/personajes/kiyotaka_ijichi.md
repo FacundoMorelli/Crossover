@@ -23,3 +23,4 @@ ESTADO: en el dormitorio, alterado.
 - DIÁLOGO T289: "Encontraron... el último dedo. En Sendai. En el almacén de su antigua secundaria, Itadori-kun."
 - T290 · Acepta que Facundo vaya. Los lleva a Sendai; espera en el auto.
 - T294 · 01/02 · Despedida. Le da una tarjeta con su número "por si acaso".
+- T990 · 28/04 21:40 · Sube al techo con un sobre de la nueva junta: citación para el 29/04 10:00 en la sede de Kioto, "para resolver de una vez la situación de la orden de retención".

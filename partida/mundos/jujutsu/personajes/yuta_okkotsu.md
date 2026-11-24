@@ -24,3 +24,4 @@ ESTADO: en la azotea. (Canon: tiene un pacto con Gojo; fingirá la ejecución.)
 - T289 · 21/01 · Vuelve de una misión. Lo saluda con alivio; le dice que nadie sigue la orden.
 - DIÁLOGO T289: "Me alegra verte. Nadie te va a buscar, tranquilo. Los que firmaron esa orden ya no están."
 - T294 · 01/02 · Despedida en el portón.
+- T990 · Sábado 27/04: vuelve de Kioto, encuentra a Facundo en la cocina; sonríe.

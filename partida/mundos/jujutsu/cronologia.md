@@ -80,3 +80,6 @@
 - 25/04/2019 06:40 · (T974) Facundo vuelve por una puerta al portón de la escuela de Tokio. Yuji lo ve.
 - Abril 2019 · (T979, por Yuji) Nuevo año escolar: Yuji, Megumi y Nobara pasan a segundo; hay alumnos nuevos de primero. Misión reciente en Yokohama.
 - 25/04/2019 · (T983, por Nanami y Megumi) Estado: Shibuya a medias (estación cerrada; baldío del dominio de Sukuna); Shinjuku, zona de exclusión (diez años de reconstrucción); colonias del Juego (Sendai, Sakurajima, Tokio) con zonas destruidas y gente en refugios.
+- 25/04/2019 · (T990) Mañana en lo de Saori Fujinuma con Nobara, Yuji, Megumi y Nanami; vuelven teletransportados desde la azotea.
+- 26-28/04 · (T990) Entrenamientos; Maki, Panda, Inumaki; Yuta vuelve de Kioto (sábado 27).
+- 28/04 21:40 · (T990) Citación de la nueva junta de altos mandos (formada tras Shinjuku): 29/04 10:00, sede de Kioto, por la orden de retención.

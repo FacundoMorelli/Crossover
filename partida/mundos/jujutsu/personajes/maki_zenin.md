@@ -18,3 +18,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: quemaduras graves en tratamiento, consciente, no puede pelear.
 - T289 · 19/01 · Lo ve en el campo de entrenamiento. Más fuerte, más fría (Restricción Celestial completa). Lo saluda con un gesto.
 - T294 · 01/02 · Despedida: un gesto con la cabeza.
+- T990 · Viernes 26/04: desafía a Facundo a un duelo de bastón; pierde, se ríe, lo desafía otra vez.

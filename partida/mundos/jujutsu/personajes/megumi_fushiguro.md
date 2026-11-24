@@ -57,3 +57,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T982 · No quiere que Tsumiki recuerde ni a Yorozu ni a Sukuna "con mis manos". Nunca.
 - T983 · Colonias del Juego destruidas (Sendai, Sakurajima, Tokio), gente en refugios. Vuelve a comer.
 - T984 · Las maldiciones nacen de lo que siente la gente; borrarlas no sirve, nacerían otras.
+- T990 · Come tres veces por día.

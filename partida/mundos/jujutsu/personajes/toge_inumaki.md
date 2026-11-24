@@ -18,3 +18,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: brazo izquierdo vendado; vivo.
 - T289 · 19/01 · Lo saluda. "¡Salmón!"
 - T294 · 01/02 · "¡Bonito!" (despedida)
+- T990 · Saluda a Facundo: "Salmón."

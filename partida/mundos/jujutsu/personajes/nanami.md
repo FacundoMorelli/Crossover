@@ -54,3 +54,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - T983 · Lista: Shibuya a medias (estación cerrada; círculo de ~200 m del dominio de Sukuna baldío); Shinjuku, zona de exclusión de kilómetros, diez años. "Morelli-kun. ¿Cuántas cosas puede pedirle, exactamente?"
 - T984 · Rechaza usar un deseo en su brazo: "Mal uso de los recursos. Se puede vivir con un brazo." "Escribo torcido. Igual, no." Sobre maldiciones que no maten: "Los hechiceros nos quedaríamos sin trabajo. No sería tan malo."
 - T987 · Acepta el teletransporte a Setagaya "como una reunión que no estaba en la agenda".
+- T990 · Paga la comida en secreto al repartidor. Pasa por la escuela todas las tardes con excusas.
