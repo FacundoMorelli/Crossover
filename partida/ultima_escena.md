@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T795)
-le sonrio a garp
-
-## RESPUESTA 1 (T795)
-
-> le sonrio a garp
-
-Le sonríes.
-
-Garp se te queda mirando un segundo, con el puño todavía rojo, y la carcajada le vuelve más fuerte que antes. Se agarra la panza.
-
-—¡Encima sonríe! ¡Bwahahaha! ¡Le parto el piso en la cabeza y me sonríe!
-
-Se agacha, agarra a Luffy de la oreja y lo arranca del piso como una zanahoria.
-
-—¡Auch, auch, auch! ¡Abuelo, la oreja!
-
-—¡Silencio! —Lo suelta sobre la mesa, entre los platos—. Siéntate como la gente.
-
-Garp arrastra una silla, la da vuelta y se sienta a caballo. La silla cruje bajo su peso. Mete la mano en el abrigo, saca la bolsa de galletas de arroz y te ofrece una, estirando el brazo por encima de la mesa.
-
-—Toma. Te la ganaste.
-
-Muerde otra él mismo y te señala con lo que queda.
-
-—Escúchame bien, muchacho, que esto lo digo en serio. —Se inclina hacia adelante—. Únete a la Marina. ¡Con ese cráneo serías almirante en un año! ¡En medio año! Yo mismo te entreno. Le dejas a este mocoso de goma su barquito de piratas y te vienes conmigo, y en un par de años tú y yo...
-
-Se le cierran los ojos.
-
-La cabeza le cae hacia adelante sobre el respaldo de la silla. La galleta le queda colgando de la boca. Una burbuja de moco le crece en la nariz, se infla y se desinfla con cada ronquido.
-
-El comedor se queda en silencio.
-
-—¡¿Se durmió?! —grita Nami—. ¡¿En medio de la frase?!
-
-Koby se tapa la cara con las dos manos, colorado hasta las orejas.
-
-—Le pasa seguido... Perdón... Garp-san es así...
-
-Helmeppo suspira y se apoya contra la pared rota.
-
-—Mínimo veinte minutos. Mejor se sientan.
-
-Luffy, sentado arriba de la mesa, se frota la oreja y aprovecha para robarle una galleta de la bolsa al abuelo dormido.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 795 · ONE PIECE · DÍA 38 · 10:09       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T796)
+## COMANDO 1 (T796)
 espero a que se despierte garp
 
-## RESPUESTA 2 (T796)
+## RESPUESTA 1 (T796)
 
 > espero a que se despierte garp
 
@@ -135,10 +73,10 @@ Luffy ladea la cabeza, con la galleta a medio camino de la boca.
 
 ---
 
-## COMANDO 3 (T797)
+## COMANDO 2 (T797)
 eh, quienes son los revolucionarios?
 
-## RESPUESTA 3 (T797)
+## RESPUESTA 2 (T797)
 
 > eh, quienes son los revolucionarios?
 
@@ -195,4 +133,48 @@ Usopp levanta la mano, temblando.
 
 ---
 
-ESTADO AL CIERRE: comedor destrozado. Robin y Garp acaban de explicar el Ejército Revolucionario y que Dragon salvó a Luffy en Loguetown. Nami escandalizada, Usopp quiere cambiar de capitán. Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos (Día 38 a la tarde).
+## COMANDO 3 (T798)
+ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
+
+## RESPUESTA 3 (T798)
+
+> ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
+
+> —Eh, yo le vi la cara a Dragon. Lo vi cuando estaba en Loguetown, antes de volver al barco con ustedes.
+
+Todos se dan vuelta a mirarte. Todos a la vez: la tripulación, los dos marines y Garp.
+
+Garp se endereza en la silla. La sonrisa se le borra entera. Por un segundo deja de parecer un abuelo ruidoso y se ve lo que es, un vicealmirante con cincuenta años de guerra encima.
+
+—¿Le viste la cara? —Lo dice bajo—. ¿De cerca?
+
+Se inclina sobre el respaldo de la silla.
+
+—¿Te dijo algo?
+
+Junto a la pared rota, Koby y Helmeppo se miran. Helmeppo traga saliva. Hay marines que pasaron la vida entera persiguiendo a ese hombre sin verle más que la capa, y lo saben los dos.
+
+Robin te mira desde el sillón con los ojos entrecerrados, en silencio, sumando otra pieza.
+
+Pero antes de que nadie diga nada más, Luffy salta de la mesa, cruza el comedor de dos pasos y se te planta delante, tan cerca que le ves los granos de arroz que todavía tiene en la mejilla.
+
+—¡¿Cómo es?! —Te agarra de las solapas del sobretodo y te sacude—. ¡¿Se parece a mí?! ¡¿Es alto?! ¡¿Tiene sombrero?! ¡¿Come carne?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 798 · ONE PIECE · DÍA 38 · 10:35       ║
+║ Water 7 · casa de la Galley-La               ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el alféizar, al sol                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Barco nuevo en construcción (4-5   ║
+║ días). Salir de One Piece antes del Día 49.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: comedor destrozado. Facundo dijo que le vio la cara a Dragon en Loguetown (T390-391: Dragon le dijo "Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"). Garp, serio, pregunta si le dijo algo. Luffy lo sacude de las solapas: "¿Cómo es? ¿Se parece a mí?". Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos (Día 38 a la tarde).

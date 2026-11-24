@@ -796,3 +796,4 @@ T794 · One Piece · Water 7 · Recibe el Puño del Amor de Garp sin pestañear.
 T795 · One Piece · Water 7 · Le sonríe a Garp. Garp le ofrece unirse a la Marina y se duerme a mitad de frase.
 T796 · One Piece · Water 7 · Koby y Luffy se reencuentran. Garp despierta y revela que el padre de Luffy es Dragon.
 T797 · One Piece · Water 7 · "¿Quiénes son los revolucionarios?" Robin y Garp explican. Dragon salvó a Luffy en Loguetown.
+T798 · One Piece · Water 7 · Facundo dice que le vio la cara a Dragon en Loguetown. Luffy: "¿Se parece a mí?"
