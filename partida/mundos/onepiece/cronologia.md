@@ -110,3 +110,4 @@
 - 19:07 · (T739) El Merry vuela sobre la Aqua Laguna con la Luna de Facundo, siguiendo la vía. Llegaría a Enies Lobby antes que el tren de las 23:00.
 - 19:07-23:40 · (T740) Vuelo hasta Enies Lobby. El Merry llega antes que el tren (canon: llegaba después, en el Rocketman).
 - Día 36 06:00 · (T741) Llega el tren del CP9 a Enies Lobby con Robin, Franky y Usopp presos. Spandam los recibe y los llevan a la Torre de la Justicia (canon).
+- 06:20 · (T742) Ataque a Enies Lobby (canon, antes y con otra entrada). Luffy grita a Robin desde el portón. Gigantes Oimo y Kashi.
