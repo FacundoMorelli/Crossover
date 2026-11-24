@@ -1,8 +1,8 @@
 {
-  "turno": 788,
+  "turno": 789,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 37 (Grand Line, Water 7)",
-  "hora": "12:31",
+  "hora": "12:33",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -1687,7 +1687,8 @@
     "onepiece_bellamy": "T643: Bellamy informará a Doflamingo por Den Den Mushi que \"Ojos de Eclipse\" lo mandó a volar sin moverse. Doflamingo se interesa.",
     "onepiece_raigo": "T676: Enel prepara el Raigo: una nube de tormenta gigante que caerá sobre Skypiea en unos 40 minutos y borrará todo. Solo puede detenerse destruyendo la nube (en canon, Luffy la rompe con la bola de oro y hace sonar la campana).",
     "onepiece_cp9": "T698: Lucci, Kaku, Kalifa y Blueno son agentes del CP9 infiltrados. Hoy contactan a Robin en la ciudad: le exigen ir con ellos o Aokiji/el Gobierno disparará el Buster Call sobre los Sombrero de Paja. Robin acepta en secreto para protegerlos (canon).",
-    "onepiece_enies": "T740: El tren del CP9 (Puffing Tom) con Robin, Franky y Usopp salió a las 23:00 y llega a Enies Lobby a las 06:00 del día 36. Sanji no va escondido (está en el Merry). Spandam, jefe del CP9, espera en la Torre de la Justicia con el Golden Den Den Mushi para el Buster Call. Jabra, Kumadori y Fukurou también están en la torre."
+    "onepiece_enies": "T740: El tren del CP9 (Puffing Tom) con Robin, Franky y Usopp salió a las 23:00 y llega a Enies Lobby a las 06:00 del día 36. Sanji no va escondido (está en el Merry). Spandam, jefe del CP9, espera en la Torre de la Justicia con el Golden Den Den Mushi para el Buster Call. Jabra, Kumadori y Fukurou también están en la torre.",
+    "post_enies_lobby": "Garp llega a Water 7 con Koby y Helmeppo el Día 38 ~10:00 (canon: unos dos días después del regreso). Carteles nuevos el Día 38 a la tarde. Thousand Sunny listo ~Día 40-41. En paralelo: Ace alcanza a Barbanegra en Isla Banaro ~Día 39-40 y pierde (canon) si nadie interviene. Aokiji pasa por Water 7 a hablar con Robin antes de que zarpen."
   },
   "recompensa_onepiece": {
     "monto": 26000000,
