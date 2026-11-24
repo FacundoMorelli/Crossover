@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: oficial; no lo considera un peligro (T1024).
 ENCUENTROS:
 - T1020 · Día 3 17:10 · Puerta de la sede: le pide acompañarlo a declarar.
 DIÁLOGOS CLAVE:
+- T1025 · "De los lugares a los que viaja. Que no figuran en ningún registro de Fiore." "Si existe algo que borra heridas así, el Consejo tiene que saberlo." "Si me da una, la llevo a Era yo mismo. Con su nombre en el registro, como donante."
 - T1024 · "Mi trabajo es saber si usted es un peligro para Fiore. Si eso es un peligro, es uno que no me preocupa." "Va a quedar registrado como mago independiente, sin gremio, con una magia no catalogada." "Esa medicina... ¿Qué es, y de dónde la saca?"
 - T1023 · "No figura en el registro del Consejo. O es una magia nueva o es una magia perdida. Las magias perdidas no son ilegales, pero el Consejo lleva cuenta." "¿Todo eso también es su magia de constelaciones?"
 - T1022 · "¿Viajero de dónde? No hay registros con su nombre. Ni en Bosco, ni en Seven, ni en Minstrel." "Son por lo menos cuatro tipos de magia distintos. ¿Qué clase de magia usa usted?"

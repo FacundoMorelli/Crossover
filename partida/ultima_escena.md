@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1022)
-soy viajero, estaba pasando por Magnolia y los encontré colgados
-
-## RESPUESTA 1 (T1022)
-
-> soy viajero, estaba pasando por Magnolia y los encontré colgados
-
-> —Soy viajero. Estaba pasando por Magnolia y los encontré colgados.
-
-El caballero del rincón escribe. La pluma rasca el papel.
-
-Lahar no anota nada. Te mira un momento, con el lápiz quieto entre los dedos.
-
-—Viajero —repite—. ¿Viajero de dónde? Fiore tiene registros de entrada en todos los puertos y en todas las fronteras. Y no hay ninguno con su nombre. —Pasa una hoja de la carpeta—. Ni en Bosco, ni en Seven, ni en Minstrel.
-
-Espera un segundo. No dices nada más, y él no insiste. Hace una marca pequeña en el margen de la hoja, una sola, y sigue.
-
-—Los tres magos del árbol confirman su versión —dice—. Igual que los vecinos del parque. Usted los bajó y les dio algo de comer que los curó. —Levanta la vista—. ¿Qué era?
-
-No espera la respuesta. Vuelve a la carpeta.
-
-—Eso lo dejamos para después. Lo que más me interesa es otra cosa. —Pone el dedo sobre una lista escrita a mano—. Según las declaraciones, en una sola mañana usted detuvo un hacha encantada con la mano desnuda. Creó con los dedos criaturas de luz que pelearon solas. Voló. Desapareció de un lugar y apareció en otro. Y sintió la presencia de un Mago Santo que estaba ocultando su magia, cuando ni el maestro Makarov pudo sentirla.
-
-Cierra la carpeta.
-
-—Son por lo menos cuatro tipos de magia distintos, señor Morelli. La mayoría de los magos de Fiore domina uno, dos como mucho. —Apoya los codos en la mesa—. ¿Qué clase de magia usa usted?
-
-Kase, sobre la mesa, bosteza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1022 · FAIRY TAIL · X784 · DÍA 3 ·     ║
-║ 17:17 · Magnolia · sede, cuarto del fondo    ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sobre la mesa, bostezando              ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: Interrogatorio del Consejo         ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1023)
+## COMANDO 1 (T1023)
 magia de constelaciones
 
-## RESPUESTA 2 (T1023)
+## RESPUESTA 1 (T1023)
 
 > magia de constelaciones
 
@@ -101,10 +55,10 @@ Kase lo mira sin parpadear.
 
 ---
 
-## COMANDO 3 (T1024)
+## COMANDO 2 (T1024)
 sí, es parte de mi magia y de mi fuerza fisica
 
-## RESPUESTA 3 (T1024)
+## RESPUESTA 2 (T1024)
 
 > sí, es parte de mi magia y de mi fuerza fisica
 
@@ -145,4 +99,50 @@ Se detiene.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:24, cuarto del fondo de la sede. Lahar lo registra como mago independiente y lo considera no peligroso. Desde la puerta pregunta qué es la medicina y de dónde la saca. Facundo puede responder.
+## COMANDO 3 (T1025)
+es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
+
+## RESPUESTA 3 (T1025)
+
+> es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
+
+> —Es una medicina de los lugares a los que viajo. Si quiere, le puedo dar una para que la vea, pero no va a poder hacer mucho con ella.
+
+Lahar suelta el picaporte.
+
+Se queda un segundo en silencio, mirándote, como si no esperara esa respuesta. Después cruza los brazos.
+
+—De los lugares a los que viaja —repite. Lo dice despacio, sin ironía—. Que no figuran en ningún registro de Fiore.
+
+No es una pregunta, y no espera respuesta. Mira a Kase, que sigue sentado en la mesa con la cola enroscada en las patas, y después al caballero del rincón, que tiene la pluma en el aire y la boca un poco abierta.
+
+—Anote eso, Rene. Medicina de origen extranjero. Ofrecida voluntariamente para examen.
+
+—Sí, capitán.
+
+Lahar vuelve a mirarte.
+
+—Le agradezco la oferta. —Se acomoda los lentes—. Y le creo cuando dice que no vamos a poder hacer mucho. Si los médicos de Era no pueden explicar cómo curó a esos chicos, dudo que puedan explicar de qué está hecha. —Hace una pausa—. Pero si existe algo que borra heridas así, en un segundo, el Consejo tiene que saberlo. Hay hospitales en Fiore donde la gente se muere de cosas mucho más chicas que lo que tenían esos tres colgados de un árbol.
+
+Extiende una mano, con la palma hacia arriba.
+
+—Si me da una, la llevo a Era yo mismo. Con su nombre en el registro, como donante. Nadie va a tocarla sin que yo esté presente.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1025 · FAIRY TAIL · X784 · DÍA 3 ·     ║
+║ 17:26 · Magnolia · sede, cuarto del fondo    ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sobre la mesa                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: Interrogatorio del Consejo         ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:26, cuarto del fondo de la sede. Lahar acepta la oferta de la semilla y tiende la mano: la llevaría a Era él mismo, con Facundo como donante. Facundo decide.
