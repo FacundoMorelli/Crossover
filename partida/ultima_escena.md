@@ -3,127 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1041)
-obvservo la pelea
-
-## RESPUESTA 1 (T1041)
-
-> obvservo la pelea
-
-Te quedas contra la columna, con los brazos cruzados, y miras.
-
-Chrollo no se mueve hacia Hisoka. Pasa una página del libro, despacio, y de la palma de la mano libre le sale una antena: un aparato chico, metálico, con forma de clavo, que se queda flotando entre sus dedos.
-
-—Black Voice —dice—. Una habilidad de Manipulación. Si clavo esto en alguien, lo controlo por completo.
-
-Lo lanza.
-
-No va hacia Hisoka. Va hacia la cabina del comentarista. Se clava en la frente del hombre a través del vidrio, y el hombre se queda quieto, con los ojos vacíos, y después se levanta y salta de la cabina al ring como un muñeco. Detrás, Chrollo lanza dos antenas más, tres, a los asistentes del ring, a un camarógrafo. El público grita sin entender.
-
-Hisoka se ríe y les tira cartas. Los muñecos esquivan con movimientos raros, de títere. Uno lo agarra de la pierna. Hisoka le pega con el aura y el muñeco vuela.
-
-Chrollo pasa otra página. Toca a Hisoka en el hombro durante un instante, en un cruce, y en la ropa le queda una marca: un sello redondo con un sol dibujado.
-
-—The Sun and Moon. —Lo explica mientras pelea, como un profesor—. Pongo una marca de sol en ti y una de luna en otro. Si se juntan, explotan.
-
-Y pelean.
-
-Es una pelea larga, rara, llena de pausas en las que Chrollo habla y Hisoka escucha con los ojos brillantes. Chrollo saca un dedo con un sello y marca a un espectador de la primera fila. Usa las manos para dar vuelta las marcas de unos a otros. Copia gente: con una habilidad que no es suya, hace aparecer réplicas perfectas de los espectadores, del árbitro, de los camarógrafos, que se mezclan en el ring y en las gradas bajas. Hisoka los rompe con cartas, con aura, con un chicle rosado de Nen que estira y pega como si jugara. Al principio se divierte. Después, menos.
-
-La tercera vez que una réplica explota a su lado, Hisoka pierde la mano izquierda.
-
-Se mira el muñón y se ríe más fuerte.
-
-La quinta vez pierde la pierna derecha, por debajo de la rodilla. Sigue de pie sobre la otra, sostenido con su chicle pegado al piso, la cara manchada de sangre, sonriendo.
-
-En la tercera fila de la grada este, el rubio del celular mira con la boca entreabierta. El pequeño de pelo largo no se mueve. La mujer de pelo violeta tiene los ojos entrecerrados y no se pierde nada.
-
-El final es rápido.
-
-Chrollo hace aparecer a la vez una docena de réplicas alrededor de Hisoka, en círculo, todas marcadas con lunas. Hisoka tiene el sol en la ropa. Las réplicas se le tiran encima.
-
-El estadio entero se ilumina de blanco.
-
-La explosión te mueve el pelo desde las gradas altas. Kase se aplasta contra tu cuello. Cuando el humo se va, en el centro del ring queda un círculo negro de piedra derretida, y adentro, tirado de espaldas, lo que queda de Hisoka. Sin mano, sin pierna, con el pecho abierto. Inmóvil.
-
-Lo sientes apagarse. Esa presencia filosa y hambrienta que sentías desde la avenida se vuelve débil, y después ya no está.
-
-Chrollo cierra el libro.
-
-El árbitro, el de verdad, temblando, se acerca al cuerpo. Se agacha. Le busca el pulso en el cuello. Se levanta, pálido.
-
-—¡El... el ganador es Chrollo Lucilfer!
-
-Nadie aplaude. El estadio está en silencio. Después empiezan los gritos, la gente que se levanta, que corre hacia las salidas, que llora, que filma.
-
-Chrollo se da vuelta y se va por la entrada sur sin mirar atrás.
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Skill Hunter (El Libro del Ladrón)           ║
-║ USUARIO: Chrollo Lucilfer · Hunter x Hunter  ║
-║                                              ║
-║ MISIÓN: Dejar que Chrollo Lucilfer intente   ║
-║ robarte una habilidad.                       ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Bungee Gum y Texture Surprise                ║
-║ USUARIO: Hisoka Morow · Hunter x Hunter      ║
-║                                              ║
-║ MISIÓN: Que Hisoka Morow te elija como su    ║
-║ próxima presa.                               ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-
-[19:05.]
-
-El estadio se vacía en media hora. Los médicos de la Torre se llevan el cuerpo de Hisoka en una camilla tapada con una sábana, por un pasillo de servicio, hacia una sala del piso de abajo.
-
-Las tres presencias de la grada este se levantan y bajan detrás, sin apuro.
-
-Las sigues con los sentidos, sin moverte de tu columna. Entran a la sala donde dejaron el cuerpo. Se quedan unos minutos. El rubio habla por teléfono. Después él y el pequeño de pelo largo salen y se van, cada uno por su lado: el rubio baja por los ascensores hacia la calle, y el pequeño por las escaleras de servicio, hacia otra salida. La mujer de pelo violeta se queda sola en la sala, con el cuerpo.
-
-Sientes su aura moverse fina, precisa, como hilos que van y vienen: está cosiendo.
-
-[19:31.]
-
-Y entonces, en esa sala, un corazón que estaba quieto da un golpe.
-
-Uno solo. Fuerte, como si alguien lo hubiera tirado de un elástico.
-
-Después otro. Y otro.
-
-La presencia filosa, hambrienta, juguetona, vuelve. Primero débil. Después entera, de golpe, más afilada que antes. Al lado, el aura de la mujer de pelo violeta se sobresalta, se tensa, y queda inmóvil, sujeta, como si la hubieran atado.
-
-Sientes a Hisoka sentarse en la camilla.
-
-En la calle, a cuatro cuadras de la Torre, el pequeño de pelo largo camina solo hacia unos baños públicos. El rubio, en la dirección contraria, ya está a casi un kilómetro, con el celular en la oreja.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1041 · HUNTER X HUNTER · DÍA 1 · 19:31 ║
-║ Torre Celestial · gradas altas (vacías)      ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1042)
+## COMANDO 1 (T1042)
 me teletransporto a los baños y protejo a Kortopi
 
-## RESPUESTA 2 (T1042)
+## RESPUESTA 1 (T1042)
 
 > me teletransporto a los baños y protejo a Kortopi
 
@@ -179,10 +62,10 @@ Saca una carta de la manga. La hace girar entre los dedos de la mano de goma.
 
 ---
 
-## COMANDO 3 (T1043)
+## COMANDO 2 (T1043)
 tengo una mision, no puedo dejar que le hagas nada
 
-## RESPUESTA 3 (T1043)
+## RESPUESTA 2 (T1043)
 
 > tengo una mision, no puedo dejar que le hagas nada
 
@@ -242,4 +125,65 @@ No la ves salir: la ves llegar. Un rectángulo de papel blanco envuelto en aura,
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:39, baños públicos. Hisoka eligió a Facundo como su próxima presa (copia de Bungee Gum y Texture Surprise) y le lanzó una carta de aura a la cara. Kortopi detrás. Facundo puede actuar.
+## COMANDO 3 (T1044)
+atrapo la carta con dos dedos y se las devuelvo
+
+## RESPUESTA 3 (T1044)
+
+> atrapo la carta con dos dedos y se las devuelvo
+
+Levantas la mano.
+
+La carta se frena entre tu índice y tu dedo medio, a un centímetro de tu ojo izquierdo. Sigue girando un instante entre tus dedos, con el aura chisporroteando en el borde como una sierra que no encuentra qué cortar. Después se queda quieta.
+
+Es un as de picas.
+
+[Libro de Deudas: HISOKA MOROW — una carta de aura a la cara (sin daño).]
+
+Hisoka abre los ojos. La sonrisa no se le borra; se le congela, como una foto.
+
+La devuelves con un giro de muñeca.
+
+No la tiras fuerte. Apenas. Pero la carta sale de tus dedos con un sonido que no hizo cuando la tiró él: un chasquido seco, como un látigo, y en el camino arranca una línea de chispas del asfalto.
+
+Hisoka se mueve. Rápido, más rápido que cualquier cosa que haya en esta calle. Gira la cara medio palmo.
+
+No alcanza.
+
+La carta le abre la mejilla izquierda, de la comisura de la boca hasta la oreja, y sigue de largo. Atraviesa el poste de luz de la esquina, de lado a lado, y se clava hasta la mitad en la pared de ladrillo de un edificio, al fondo de la calle. El poste tarda un segundo en darse cuenta. Después se inclina, despacio, cruje y se queda torcido. La lámpara parpadea y se apaga.
+
+La calle queda más oscura.
+
+Hisoka se lleva dos dedos a la cara. Los mira. Están rojos.
+
+Durante un momento largo no dice nada.
+
+Después empieza a temblar. No de miedo. Le tiemblan los hombros, las manos, la mano de goma, la pierna de aura. Se le escapa un sonido desde el fondo de la garganta, ronco, que no es una risa todavía.
+
+—Ah... —Se lame la sangre de los dedos, despacio, con los ojos cerrados—. Aaah... ♥
+
+Abre los ojos. Brillan en la oscuridad como los de un gato.
+
+—Más —susurra—. Dame más.
+
+Detrás de ti, en la puerta de los baños, Kortopi da un paso atrás. Lo sientes juntar aura en las dos manos ahora, sin saber hacia quién apuntarla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1044 · HUNTER X HUNTER · DÍA 1 · 19:39 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:39, baños públicos. Facundo atrapó la carta de Hisoka y se la devolvió: le abrió la mejilla. Hisoka, extasiado: "Más. Dame más." Kortopi detrás, nervioso. Facundo puede actuar.

@@ -1042,3 +1042,4 @@ T1040 · HxH · Torre Celestial · Entra sin boleto en la marea. Ubica a Shalnar
 T1041 · HxH · Torre Celestial · Observa: Chrollo mata a Hisoka (Black Voice, Sun and Moon, réplicas explosivas). Misiones de copia (Chrollo, Hisoka). 19:31: Hisoka revive y ata a Machi. Kortopi va a unos baños; Shalnark lejos.
 T1042 · HxH · Baños públicos · Teletransporte; se para delante de Kortopi. Llega Hisoka con miembros de aura: "No siento nada de ti. Qué interesante... ♠"
 T1043 · HxH · Baños públicos · "Tengo una misión." Hisoka: "Tú vas primero." Copia: Bungee Gum y Texture Surprise. Carta a la cara.
+T1044 · HxH · Baños públicos · Atrapa la carta y la devuelve: mejilla de Hisoka abierta, poste atravesado. Hisoka: "Más. Dame más."

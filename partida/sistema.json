@@ -1,5 +1,5 @@
 {
-  "turno": 1043,
+  "turno": 1044,
   "mundo_actual": "hunterxhunter",
   "fecha_local": "Día 1 (día del duelo Hisoka vs. Chrollo)",
   "hora": "19:39",
@@ -296,7 +296,16 @@
         "Si el ataque no lo daña (lo bloquea o no le hace nada), igual se anota, pero vale el daño que habría hecho si lo hubiera recibido sin defensa.",
         "Formas bloqueadas: INTERÉS (maestría 60: las deudas crecen un 10% por día que pasan sin cobrarse); EMBARGO (maestría 90: al cobrar, en vez de daño, puede quitarle al deudor una habilidad por un día)."
       ],
-      "turno": 1039
+      "turno": 1039,
+      "deudas": [
+        {
+          "deudor": "Hisoka Morow",
+          "que": "una carta de aura (as de picas) a la cara",
+          "daño": "ninguno (atrapada con dos dedos); vale el daño que habría hecho",
+          "turno": 1044,
+          "estado": "sin cobrar"
+        }
+      ]
     }
   },
   "velo": {
