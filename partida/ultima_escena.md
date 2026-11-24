@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T872)
-podemos chocar nuestros hakis?
-
-## RESPUESTA 1 (T872)
-
-> podemos chocar nuestros hakis?
-
-> —¿Podemos chocar nuestros Hakis?
-
-Rayleigh se queda quieto con el vaso a medio camino. Después sonríe. Es una sonrisa que no le habías visto, ancha, de chico, como si le hubieran ofrecido un juguete que no ve desde hace años.
-
-—Ah. —Deja el vaso—. Eso sí.
-
-Detrás de la barra, Shakky apaga el cigarrillo en un cenicero, sin apuro.
-
-—Aquí no. —Lo dice sin levantar la voz—. Ya me debes tres bares, Ray.
-
-—Dos y medio.
-
-—Tres.
-
-Rayleigh se ríe y se levanta.
-
-Caminan los tres hasta el Grove 1, en la otra punta del archipiélago. Shakky los sigue fumando, y Hachi detrás, curado y nervioso, a una distancia prudente. Es una zona abandonada: raíces enormes cubiertas de musgo, ruinas de un parque de diversiones con una rueda de la fortuna oxidada a medio caer, juegos de madera podrida y burbujas que suben solas de la tierra, sin nadie que las mire. No hay casas ni gente. Solo el viento entre los árboles gigantes y el sol de la tarde, bajo y anaranjado.
-
-Rayleigh se detiene en un claro, entre dos raíces que forman una especie de anfiteatro natural.
-
-Se saca la capa y la cuelga de una rama. Se arremanga la camisa. Se acomoda los lentes con un dedo.
-
-Camina hasta quedar a veinte metros de ti y se da vuelta. Abre los brazos, relajado, con las manos vacías.
-
-—Hace veinte años que no hago esto en serio. —Se le borra la sonrisa, despacio, y queda otra cara, una que no conocías: la del primer oficial de Gol D. Roger—. Cuando quieras, muchacho.
-
-Kase salta de tu hombro y se va solo, sin que nadie se lo diga, a sentarse sobre una raíz alta, lejos, al lado de Shakky.
-
-Hachi se esconde detrás de un árbol.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 872 · ONE PIECE · DÍA 56 · 16:45       ║
-║ Sabaody · Grove 1, claro abandonado          ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en una raíz alta, junto a Shakky       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Chocar Haki del Rey con Rayleigh.  ║
-║ Marineford mañana. Shingeki: antes del D59.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T873)
+## COMANDO 1 (T873)
 ahora
 
-## RESPUESTA 2 (T873)
+## RESPUESTA 1 (T873)
 
 > ahora
 
@@ -142,10 +88,10 @@ Se le apaga la risa de a poco. Te mira largo, serio, con algo nuevo en la cara.
 
 ---
 
-## COMANDO 3 (T874)
+## COMANDO 2 (T874)
 tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki(color azul fuerte y blanco)
 
-## RESPUESTA 3 (T874)
+## RESPUESTA 2 (T874)
 
 > tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki (color azul fuerte y blanco)
 
@@ -194,4 +140,54 @@ Rayleigh no aparta la vista de ti. Sigue serio, esperando. Todavía no le contes
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:49, Grove 1. Facundo elogió el Haki de Rayleigh y recubrió el brazo con su Haki de armadura azul intenso y blanco (R11). Rayleigh fascinado: nunca vio un Haki que no fuera negro; "la tuya no se parece a la de nadie de este mar". Kase volvió al hombro; Hachi despertó. Rayleigh todavía espera la respuesta: ¿va a sacar a Ace mañana en Marineford?
+## COMANDO 3 (T875)
+te dije que viajo mucho no?
+
+## RESPUESTA 3 (T875)
+
+> te dije que viajo mucho no?
+
+> —Te dije que viajo mucho, ¿no?
+
+Rayleigh se queda mirándote un segundo. Después se le escapa una risa por la nariz, larga, y sacude la cabeza.
+
+—Mucho. —Se acomoda los lentes—. Y muy lejos, por lo que veo.
+
+No pregunta nada más. Va hasta la rama donde colgó la capa, se la pone despacio sobre los hombros y se la acomoda, como quien termina una conversación que no hace falta seguir.
+
+—Y lo del chico no me lo contestaste. —Se ajusta el cuello de la capa, sin mirarte—. Está bien. Mañana lo leeré en los diarios.
+
+Shakky enciende otro cigarrillo. El humo sube despacio entre las gotas de las burbujas rotas que todavía caen.
+
+—Bueno, ya que rompieron medio grove —dice, tranquila—, por lo menos cenen. En el bar. Invito yo. —Te mira de reojo—. A ti no. A ti te cobro.
+
+Hachi se levanta del piso de un salto, con los seis brazos en alto, ya recuperado del desmayo.
+
+—¡Nyu! ¡Yo hago takoyaki! ¡El mejor del archipiélago! ¡Para el del gato, gratis!
+
+Kase, en tu hombro, levanta las orejas al oír la palabra «takoyaki».
+
+Rayleigh se da vuelta y empieza a caminar hacia el bar entre las raíces. Se detiene un momento, de espaldas.
+
+—Y si mañana te vas a meter en esa guerra, muchacho... —Lo dice sin darse vuelta—. Esta noche se come y se duerme. Lo demás es de idiotas.
+
+Sigue caminando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 875 · ONE PIECE · DÍA 56 · 16:51       ║
+║ Sabaody · Grove 1, claro abandonado          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, orejas paradas           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Marineford mañana (15:00).         ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:51, Grove 1. Rayleigh aceptó el "viajo mucho" sin preguntar más; tampoco insiste con lo de Ace ("mañana lo leeré en los diarios"). Shakky invita a cenar al bar (a Facundo le cobra); Hachi hace takoyaki. Rayleigh: "Esta noche se come y se duerme." Marineford mañana a las 15:00.

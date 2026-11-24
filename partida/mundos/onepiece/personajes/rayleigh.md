@@ -14,3 +14,4 @@ ESTADO: activo
 - T872 · Acepta chocar el Haki del Rey con Facundo en el Grove 1. "Hace veinte años que no hago esto en serio. Cuando quieras, muchacho."
 - T873 · Choca su Haki del Rey con el de Facundo y retrocede un paso. "Hacía veinte años que nadie me hacía retroceder." Pregunta si mañana va a sacar a Ace.
 - T874 · Ve el Haki de armadura azul y blanco de Facundo: nunca vio uno que no fuera negro. "La tuya no se parece a la de nadie de este mar."
+- T875 · "Te dije que viajo mucho." "Muy lejos, por lo que veo." No pregunta más. Invita a cenar y a dormir antes de Marineford.
