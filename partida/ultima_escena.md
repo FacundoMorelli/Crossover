@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T825)
-subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
-
-## RESPUESTA 1 (T825)
-
-> subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
-
-Subes la escalinata con Ymir dos pasos detrás, que finge que no viene contigo.
-
-En la puerta del palacio está Historia, en bata blanca, con el pelo rubio suelto y despeinado y la cara todavía marcada por la almohada. Cuando te ve, se le ilumina toda la cara.
-
-> —Hola, reina. ¿Quiere contarme qué pasó estos días que no estuve?
-
-—¡Volviste! —No contesta la pregunta. Baja dos escalones corriendo y te abraza por la cintura, fuerte, un segundo. Después ve a Kase en tu hombro—. ¡Y él también!
-
-Kase se deja bajar a sus brazos sin protestar. Historia lo aprieta contra el pecho y hunde la cara en el pelo blanco y azul. Kase cierra los ojos y ronronea.
-
-—Vengan, vengan. Hace frío. —Se da vuelta hacia Ymir y frunce el ceño—. Estás descalza. Y tienes la cara roja.
-
-—Es el frío —dice Ymir.
-
-—Ajá.
-
-Los lleva por un pasillo largo, de alfombras gastadas, hasta un salón chico del ala este con una chimenea encendida. Una criada trae té y pan caliente sin que nadie lo pida. Historia se sienta en un sillón con Kase en el regazo y te señala el de enfrente. Ymir se queda apoyada en el marco de la puerta, con otra manzana que sacó de algún lado.
-
-Historia se acomoda la bata y se pone seria, como una reina de verdad.
-
-—Bueno. Desde que te fuiste... —Cuenta con los dedos, sobre el lomo de Kase—. La comitiva está lista. Vamos yo, Ymir, el comandante Erwin, el capitán Levi, la líder de escuadra Hange, Mikasa y Eren. Armin pidió ir también; Erwin todavía no le contestó. El comandante supremo Zackly y Pixis se quedan, por si pasa algo.
-
-Toma un sorbo de té.
-
-—Hange fue tres veces al tramo de muralla que borraste. Dice que no queda nada. Ni piedra, ni hueso, ni vapor. Está obsesionada. Escribió un cuaderno entero.
-
-Hace una pausa más larga. Mira el fuego.
-
-—Eren entrena todos los días con el capitán Levi. Pero está... raro. Más callado. Mikasa dice que se despierta de noche, que tiene sueños. —Baja la voz—. Le dijo a Armin que sueña con cosas que no vivió.
-
-Ymir, desde la puerta, deja de masticar un segundo.
-
-—Zeke sigue preso en Trost. —Historia vuelve a mirarte—. Pregunta por ti cada semana. Siempre lo mismo: «¿Volvió el del gato?». Y del mar no llegó nada. Ni un barco de Marley.
-
-Deja la taza en la mesa. Acaricia a Kase, despacio.
-
-—Faltan cinco días para la fiesta. —Te mira a los ojos, con algo de miedo que intenta esconder—. ¿Vamos a llegar a tiempo? ¿Cómo vamos a ir hasta Liberio?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 825 · SHINGEKI · DÍA 35 · 06:10        ║
-║ Mitras · palacio, salón del ala de la reina  ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el regazo de Historia               ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Preparar la comitiva de Historia.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T826)
+## COMANDO 1 (T826)
 vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
 
-## RESPUESTA 2 (T826)
+## RESPUESTA 1 (T826)
 
 > vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
 
@@ -125,10 +63,10 @@ Eren se frota la nuca y te mira. Tiene la cara más flaca que hace veinticuatro 
 
 ---
 
-## COMANDO 3 (T827)
+## COMANDO 2 (T827)
 hola eren, tenemos que hablar a solas
 
-## RESPUESTA 3 (T827)
+## RESPUESTA 2 (T827)
 
 > hola eren, tenemos que hablar a solas
 
@@ -191,4 +129,64 @@ Te mira fijo, con algo entre miedo y esperanza en la cara.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:35, techo del depósito del cuartel de la Legión. Eren le contó que desde la ceremonia de medallas (día 14, beso en la mano de Historia) ve recuerdos del futuro: escenario de noche, fuego, titán martillo, él mayor. Facundo no aparece en ninguno (Velo). Pregunta: "¿Que el futuro cambió por ti?". Levi y Mikasa en el patio. Kase en la chimenea.
+## COMANDO 3 (T828)
+creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
+
+## RESPUESTA 3 (T828)
+
+> creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
+
+> —Creo que sí. El futuro ya cambió, Eren. Así que no les hagas caso a esos futuros, ¿sí? Por todo lo que quieras, nunca les hagas caso. Creo que tengo una forma de revivir a los que murieron comidos por titanes. No digas nada todavía ni te hagas ilusiones, porque no estoy seguro de que vaya a servir.
+
+Eren no se mueve.
+
+Lo primero que le llega es lo del futuro, y se le nota en los hombros: se le aflojan un poco, como si hubiera estado cargando algo pesado durante tres semanas y alguien le hubiera dicho que podía dejarlo en el suelo.
+
+Después le llega lo otro.
+
+Se queda helado. Te mira con los ojos muy abiertos, sin parpadear, con la boca entreabierta. Por un momento parece que no respira.
+
+—...¿Revivir? —Lo dice tan bajo que casi no se oye—. ¿A los que...?
+
+Traga saliva. Le tiembla el mentón.
+
+—¿Mi mamá?
+
+No esperas a que se le pase, y él tampoco. Se le llenan los ojos de golpe. Se los seca con el antebrazo, con rabia, fuerte, como si le dieran vergüenza las lágrimas. Se le vuelven a llenar. Se los vuelve a secar.
+
+—No... no me hago ilusiones. —Se ríe, una risa rota, horrible—. No me hago ilusiones. Lo dijiste. No me hago...
+
+Se tapa la cara con las dos manos y se queda así, sentado en el borde del techo, temblando.
+
+Kase baja de la chimenea, camina por el techo despacio y se sienta a su lado, pegado a su pierna.
+
+Cuando Eren se destapa la cara, tiene los ojos rojos pero la mirada firme.
+
+—Te lo prometo. —Te mira—. No les hago caso. A ninguno. Y no le digo nada a nadie. Ni a Mikasa. Ni a Armin.
+
+Respira hondo.
+
+—Pero si funciona... —Le tiembla la voz, la endereza—. La primera es ella.
+
+Abajo, en el patio, se oye la voz seca de Levi.
+
+—Se acabaron los cinco minutos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 828 · SHINGEKI · DÍA 35 · 06:38        ║
+║ Mitras · techo del cuartel de la Legión      ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: al lado de Eren                        ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Revivir a los comidos (secreto con Eren).    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:38, techo del cuartel. Facundo le dijo a Eren que el futuro cambió (no hacer caso a los recuerdos) y que quizá pueda revivir a los comidos por titanes. Eren lloró, prometió callar y no hacer caso: "Si funciona, la primera es ella" (Carla). Levi llama desde el patio: "Se acabaron los cinco minutos."
