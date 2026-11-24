@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T903)
-bankai alrededor de toda la flota
-
-## RESPUESTA 1 (T903)
-
-> bankai alrededor de toda la flota
-
-La katana aparece en tu mano antes de que el primer meteoro termine de bajar: guarda cuadrada negra, empuñadura blanca, la línea plateada temblando a lo largo de la hoja.
-
-Liberas el Bankai.
-
-La línea plateada se suelta del filo.
-
-Corre por el aire como un hilo de luz, sale disparada hacia arriba, hacia los costados, y se abre. Pasa por encima del mástil del Moby Dick, por encima de los barcos de los capitanes aliados, de las balsas, de los botes más chicos que remolcan heridos, y cae por detrás de la última popa, sobre el agua negra. En un segundo, toda la flota queda dentro de una sola frontera, una cúpula enorme de bordes plateados, tan fina que casi no se ve, como el reflejo del sol en una pompa de jabón.
-
-Afuera queda Marineford. Adentro, los barcos.
-
-El primer puño de magma llega.
-
-Toca la frontera y deja de existir. No explota, no salpica, no humea. Choca contra el borde plateado y desaparece de golpe, como si nunca lo hubieran lanzado.
-
-Después el segundo. El quinto. El vigésimo.
-
-Durante varios segundos el cielo sigue rojo y la lluvia sigue cayendo, cientos de rocas ardientes del tamaño de casas, y ninguna llega abajo. Se apagan una tras otra contra la cúpula, en silencio, mientras los barcos siguen navegando por debajo, intactos, hacia la salida de la bahía. Ni una brasa cae sobre una cubierta. El agua alrededor de los cascos ni siquiera se calienta.
-
-En los barcos, los piratas que se habían tirado al suelo para cubrirse levantan la cabeza, despacio. Uno se ríe, nervioso. Después otro. Después cientos.
-
-—¡¿Qué es eso?!
-
-—¡No pasa! ¡No pasa nada!
-
-—¡¡OJOS DE ECLIPSE!!
-
-En la orilla, Akainu baja los brazos. El cielo deja de escupir fuego. Se queda mirando la cúpula plateada con la cara quieta, demasiado quieta, y el vapor le sale de los hombros en chorros.
-
-A su lado, recién llegado sobre el hielo partido, Kizaru se rasca la cabeza.
-
-—Oooh... Eso sí que da miedo~.
-
-En la cubierta del Moby Dick, Kase sigue la línea plateada con los ojos, de un extremo al otro del cielo, con las orejas paradas.
-
-Ace mira para arriba con la boca abierta.
-
-—¿Eso... también lo hiciste tú?
-
-Luffy se sube a la baranda de un salto, con los ojos brillando.
-
-—¡¡INCREÍBLE!! ¡¡Facundo, eso es genial!!
-
-Un aleteo de fuego azul cae sobre la baranda a tu lado. Marco se agacha, con las alas todavía encendidas, mira la cúpula, mira tu katana, te mira a ti.
-
-—Yoi. Linda pared. —Tiene la voz tranquila, pero los ojos no—. ¿Cuánto la puedes sostener? Todavía nos falta salir de la bahía, y esos dos no se van a quedar mirando.
-
-Detrás de ti, Barbablanca apoya el bisento en la cubierta, y la madera cruje.
-
-—Gurarara... —Te mira desde arriba, largo—. Mocoso. Le dijiste a mi hijo que no hiciera estupideces, y tú te pones a tapar el cielo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 903 · ONE PIECE · DÍA 57 · 13:17       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Sacar la flota de la bahía bajo    ║
-║ el Bankai. Shingeki: antes del D59 16:30.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T904)
+## COMANDO 1 (T904)
 puedo aguantarlo no se preocupen
 
-## RESPUESTA 2 (T904)
+## RESPUESTA 1 (T904)
 
 > puedo aguantarlo no se preocupen
 
@@ -139,10 +65,10 @@ Detrás de él, en la orilla, Akainu empieza a caminar hacia el borde del hielo 
 
 ---
 
-## COMANDO 3 (T905)
+## COMANDO 2 (T905)
 me tendrias que poder matar para eso
 
-## RESPUESTA 3 (T905)
+## RESPUESTA 2 (T905)
 
 > me tendrias que poder matar para eso
 
@@ -193,4 +119,68 @@ Desde la proa del Moby Dick, Barbablanca entrecierra los ojos hacia la línea de
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:20. Flota en columna bajo el Bankai hacia la boca de la bahía, donde 20 buques de guerra se cruzaron de costado a bloquear (orden de Akainu). Kizaru flota afuera de la cúpula siguiendo al Moby Dick. Akainu frenado en el borde del hielo. Barbablanca le pregunta a Facundo hasta dónde llega su pared. Facundo puede responder.
+## COMANDO 3 (T906)
+no se preocupen uso luna para mover todos los barcos de la marina
+
+## RESPUESTA 3 (T906)
+
+> no se preocupen uso luna para mover todos los barcos de la marina
+
+> —No se preocupen.
+
+Miras la línea de buques. El ojo derecho se te enfría, y la bahía entera se pone un poco más azul.
+
+Levantas la mano libre, con la palma hacia abajo, y la mueves hacia los costados, despacio, como quien corre una cortina.
+
+Los veinte barcos se despegan del agua.
+
+No de golpe: el mar los suelta con un ruido largo, de succión, y los cascos suben chorreando, con las anclas colgando de las cadenas, los cañones todavía asomados por las troneras. A bordo, cientos de marines se agarran de lo que pueden. Alguien grita. Un cañonero suelta la mecha encendida y la ve caer hacia el agua, veinte metros más abajo.
+
+Después los barcos se separan.
+
+Diez se deslizan por el aire hacia la izquierda y diez hacia la derecha, en el mismo orden en que estaban, como las dos hojas de una puerta que se abre. Se apartan hasta las paredes de roca de la boca de la bahía y bajan de nuevo, suaves, contra la orilla, uno al lado del otro, con un chapoteo que levanta espuma pero no rompe ni un mástil.
+
+En el medio queda el mar abierto. Un corredor de agua limpia, de casi un kilómetro de ancho, que da directo al horizonte.
+
+En los barcos piratas no grita nadie. Por un segundo, miles de hombres se quedan mirando lo mismo, con la boca abierta.
+
+Después estalla.
+
+—¡¡ABRIÓ EL MAR!!
+
+—¡¡¿QUIÉN ES ESE TIPO?!!
+
+—¡¡OJOS DE ECLIPSE!! ¡¡OJOS DE ECLIPSE!!
+
+La proa de la columna cruza la boca de la bahía sin frenar. Detrás, barco tras barco, la flota sale entre las dos hileras de buques de guerra apoyados en la roca, cuyos marines se asoman por las barandas sin disparar un solo cañón, todavía mareados, todavía agarrados de las jarcias.
+
+Afuera de la cúpula, Kizaru silba bajito.
+
+—Ooooh... Ahora sí que van a hacer muchas preguntas en el cuartel general~.
+
+En la cubierta, Barbablanca no dice nada. Se ríe con los ojos, nada más, y vuelve a mirar adelante.
+
+Ace se te acerca desde la baranda, todavía con Luffy colgado de la manga. Mira el corredor de agua abierta, mira los barcos de la Marina amontonados contra las rocas, te mira el ojo derecho, que todavía brilla azul.
+
+—Oye. —Se rasca la nuca—. Ya me salvaste la vida, me sacaste del cadalso y ahora sacas a toda la flota de mi padre de la bahía. —Se le escapa una media sonrisa—. ¿Cómo se supone que te pague todo esto?
+
+Atrás, muy lejos, en la orilla de Marineford, Akainu se queda solo en el borde del hielo, viendo cómo la flota de Barbablanca sale al mar abierto.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 906 · ONE PIECE · DÍA 57 · 13:23       ║
+║ Boca de la bahía de Marineford · Moby Dick   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La flota sale de la bahía. Kizaru  ║
+║ los sigue. Shingeki: antes del D59 16:30.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:23. Facundo apartó con la Luna los 20 buques de bloqueo contra las rocas; la flota de Barbablanca sale de la bahía al mar abierto bajo el Bankai. Kizaru sigue flotando afuera de la cúpula. Ace le pregunta a Facundo cómo se supone que le pague todo esto. Facundo puede responder.

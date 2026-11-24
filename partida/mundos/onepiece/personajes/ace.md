@@ -20,3 +20,4 @@ ESTADO: activo
 - T901 · Facundo los lleva a él y a Luffy al Moby Dick. Barbablanca lo abraza. Akainu lo provoca insultando a Barbablanca; se queda quieto en la baranda con los puños en llamas.
 - T902 · Facundo le pide no caer en la provocación. Luffy le agarra el brazo. Apaga el fuego: "...Tienes razón." No se da vuelta (cambio: en el canon se daba vuelta y moría).
 - T903 · Ve el Bankai sobre la flota. "¿Eso... también lo hiciste tú?"
+- T906 · "Me salvaste la vida, me sacaste del cadalso y ahora sacas a toda la flota de mi padre. ¿Cómo se supone que te pague todo esto?"
