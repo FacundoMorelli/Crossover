@@ -189,3 +189,4 @@
 - Tripulación (Luffy, Zoro, Nami, Usopp, Sanji, Chopper) · T788 · Ven a Facundo, Robin y Kase aparecer de la nada en el comedor.
 - Tripulación · T791 · Por Robin: al final de esta mitad del Grand Line está la Red Line; se cruza bajando a la Isla Gyojin, pasando por el Archipiélago Sabaody.
 - Garp, Koby, Helmeppo · T792 · Reconocen a Facundo por el cartel (Ojos de Eclipse, el del gato). Lo ven con Robin.
+- Garp · T793 · Por los informes de los vicealmirantes del Buster Call (Onigumo y otros): Facundo voló con un barco y frenó balas de cañón en el aire en Enies Lobby. Deduce que es pareja de Robin (los vio).

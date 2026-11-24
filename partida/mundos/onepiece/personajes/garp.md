@@ -12,3 +12,4 @@ DIÁLOGOS CLAVE: "Y tú debes ser el del gato. Ojos de Eclipse."
 QUÉ SABE DE FACUNDO: el cartel (26M, Ojos de Eclipse, dibujo con el gato); que viaja con Luffy. Lo de Enies Lobby, por los informes del Buster Call (vuelo, balas frenadas, olas): probable.
 QUÉ PODERES DE FACUNDO VIO: ninguno todavía.
 ESTADO: activo.
+- T793 · Leyó los informes del Buster Call sobre Facundo (vuelo, balas frenadas). Levanta el puño para "probarlo".
