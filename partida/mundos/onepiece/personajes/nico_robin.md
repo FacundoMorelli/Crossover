@@ -64,3 +64,4 @@ ESTADO: activa
 - T774 · Facundo la teletransporta a un islote deshabitado: "Te voy a mostrar algo."
 - T775 · Ve a Facundo transformarse en titán. Compara con el grabado del libro: "Es el mismo." Deduce que el libro habla de algo real ligado a él. No tiene miedo.
 - T776 · Facundo le dice en serio que viene de otro mundo y que el del libro es otro. Le cree. "¿Cuántos hay?"
+- T777 · Sabe que Facundo visitó seis mundos. Pregunta cuál fue el primero y cuándo se va a ir de este.
