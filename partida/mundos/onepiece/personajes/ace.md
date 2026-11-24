@@ -17,3 +17,4 @@ ESTADO: activo
 - T593 · Cena en el Merry. Invita a Luffy a Barbablanca; Luffy dice que no. Le da un papel (vivre card). Se duerme con la cara en el plato en medio de una frase; se despierta: "¿Me dormí?"
 - T594 · Se despide. A Facundo: "La próxima me cuentas de dónde eres." Se va en el Striker.
 - T900 · Marineford · Facundo le rompe las esposas de piedra marina y le da una semilla del ermitaño: libre y curado. Estalla en llamas. "¿Quién demonios eres?"
+- T901 · Facundo los lleva a él y a Luffy al Moby Dick. Barbablanca lo abraza. Akainu lo provoca insultando a Barbablanca; se queda quieto en la baranda con los puños en llamas.

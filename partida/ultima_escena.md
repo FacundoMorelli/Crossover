@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T898)
-toco a luffy y nos teletransportamos atras de garp para seguir subiendo
-
-## RESPUESTA 1 (T898)
-
-> toco a luffy y nos teletransportamos atras de garp para seguir subiendo
-
-Apoyas la mano en el hombro de Luffy. Dos dedos en la frente.
-
-Desaparecen de delante de Garp.
-
-Aparecen detrás de él, en la escalera del cadalso, diez escalones más arriba. Luffy se tambalea, mareado, y se agarra del sombrero.
-
-—¡Otra vez esa cosa!
-
-Garp se da vuelta despacio.
-
-Los ve, a los dos, en la escalera, encima de él, subiendo. Podría saltar. Podría agarrar a Luffy de la pierna, como agarró a cien piratas. Podría lanzar un puño que partiera la escalera en dos.
-
-No lo hace.
-
-Se le aflojan los puños. Baja los brazos. Se le caen las lágrimas, gruesas, por la barba blanca, y no se las seca. Se sienta en un escalón, pesadamente, como un viejo cansado, con los codos en las rodillas, y se queda mirando la plaza llena de marines desmayados.
-
-—Mocosos... —Lo dice para sí, con la voz quebrada—. Mocosos idiotas.
-
-Luffy lo mira un segundo por encima del hombro. Se le aprieta la boca. Después se da vuelta y sigue subiendo.
-
-Suben corriendo.
-
-En la cima del cadalso ya no hay un hombre. Hay un gigante.
-
-Sengoku se transformó del todo. Es un Buda enorme, dorado, de piel brillante como el oro pulido, alto como la mitad de la torre, con la barba trenzada y los lentes todavía en la cara y un halo de luz detrás de la cabeza. Ocupa toda la cima. A sus pies están los dos verdugos desmayados y, en el medio, chiquito, de rodillas, Ace, encadenado, mirándolos subir con los ojos llenos de lágrimas.
-
-—¡No van a tocarlo! —La voz de Sengoku retumba como una campana—. ¡Ni el hijo de Dragon ni el demonio del gato!
-
-Levanta la palma derecha. Es una mano dorada del tamaño de una casa.
-
-La baja sobre la escalera, sobre ustedes dos.
-
-Al bajar, el aire debajo de la palma se comprime en una onda de choque dorada que se ve, que hace temblar la piedra del cadalso, y que viene hacia ustedes como una pared.
-
-—¡¡LUFFY!! —grita Ace.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 898 · ONE PIECE · DÍA 57 · 13:10       ║
-║ Marineford · escalera del cadalso            ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 91% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace. Sengoku (Buda)       ║
-║ ataca. Garp no los persigue.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T899)
+## COMANDO 1 (T899)
 detengo la mano, sigue subiendo luffy
 
-## RESPUESTA 2 (T899)
+## RESPUESTA 1 (T899)
 
 > detengo la mano, sigue subiendo luffy
 
@@ -131,10 +71,10 @@ Sengoku, con la palma todavía apoyada en tu mano, gira la cabeza dorada hacia M
 
 ---
 
-## COMANDO 3 (T900)
+## COMANDO 2 (T900)
 no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
 
-## RESPUESTA 3 (T900)
+## RESPUESTA 2 (T900)
 
 > no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
 
@@ -205,4 +145,74 @@ Mira las esposas rotas a sus pies. Te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:11, cima del cadalso de Marineford. ACE LIBRE: Facundo le rompió las esposas de piedra marina y le dio una semilla del ermitaño; Ace estalló en llamas (pilar de fuego visto por todo el mundo). La palma del Buda de Sengoku reventó la escalera vacía. Luffy abraza a Ace. Ace a Facundo: "¿Quién demonios eres?" Pendiente: salir de Marineford (Akainu bajo el muro, Aokiji, Kizaru herido, Sengoku, Garp en la escalera, Shichibukai).
+## COMANDO 3 (T901)
+Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
+
+## RESPUESTA 3 (T901)
+
+> Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
+
+> —Facundo Morelli, de la tripulación del Sombrero de Paja. Volvamos con Barbablanca. La guerra ya tiene que terminar: estás libre. Solo hay que irnos ahora. No hace falta que haya más bajas.
+
+Ace te mira un segundo largo, con el fuego todavía bailándole en los hombros.
+
+Después se le quiebra la cara. Se ríe, una risa corta, rota, con los ojos mojados.
+
+—Del Sombrero de Paja. —Mira a Luffy, que le sigue colgado del cuello—. Claro. ¿De quién más?
+
+Asiente.
+
+Apoyas una mano en el hombro de Ace y otra en el de Luffy. Las llamas de Ace te pasan por los dedos, tibias, y no te queman. Dos dedos en la frente.
+
+Desaparecen de la cima del cadalso.
+
+Arriba, Sengoku se queda con la palma clavada en los escalones rotos, mirando el lugar vacío donde estaba su prisionero.
+
+Aparecen en la cubierta del Moby Dick, delante de Barbablanca.
+
+El viejo se queda mirando a Ace. No dice nada. Estira un brazo enorme y lo atrae contra el pecho, con fuego y todo, y lo abraza. Ace se queda quieto contra el abrigo blanco, con la cara escondida, y le tiemblan los hombros.
+
+—Hijo tonto. —La voz de Barbablanca es baja y ronca—. Hijo tonto...
+
+Después levanta la cabeza y ruge para toda la bahía.
+
+—¡¡HIJOS!! ¡¡ACE ESTÁ CON NOSOTROS!! ¡¡NOS RETIRAMOS!! ¡¡TODOS A LOS BARCOS!! ¡¡NADIE SE QUEDA ATRÁS!!
+
+Un grito de miles de gargantas le contesta. Los piratas empiezan a retroceder por el hielo hacia los barcos, cargando heridos, cubriéndose unos a otros. Marco aterriza en la baranda. Jinbe e Ivankov vienen corriendo. Squard llora sin vergüenza.
+
+Por un momento, parece que se termina.
+
+Entonces el muro derrumbado de la plaza revienta desde adentro.
+
+Las piedras salen volando en una explosión de vapor y magma. De entre los escombros se levanta Akainu, entero, con el traje rojo roto, la gorra caída y los brazos burbujeando de fuego líquido. Respira hondo. Mira el Moby Dick.
+
+Y grita, con una voz que cruza toda la bahía.
+
+—¡PORTGAS D. ACE! —Da un paso sobre las piedras—. ¡Huyes como huyó tu padre! ¡La sangre de Roger siempre fue cobarde!
+
+Se le tuerce la boca.
+
+—¡Y Barbablanca, ese viejo, es una reliquia de una era terminada! ¡Un perdedor que se esconde detrás de sus hijos!
+
+En la baranda del Moby Dick, Ace se queda quieto.
+
+Se le apagan las risas. Se le encienden los puños, despacio, en un fuego que ya no es alegre.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 901 · ONE PIECE · DÍA 57 · 13:13       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: ¡Ace libre! Retirada. Akainu       ║
+║ provoca a Ace. Shingeki: antes del D59.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:13, cubierta del Moby Dick. Facundo se presentó a Ace y los teletransportó a él y a Luffy al Moby Dick. Barbablanca abrazó a Ace y ordenó la retirada. Akainu salió del muro derrumbado y provoca a Ace insultando a Roger y a Barbablanca ("un perdedor que se esconde detrás de sus hijos"). Ace, en la baranda, con los puños encendiéndose. Momento canon en que Ace se daba vuelta y moría.
