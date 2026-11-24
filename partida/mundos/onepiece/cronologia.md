@@ -114,3 +114,4 @@
 - 06:50 · (T743) Asalto hasta la plaza del Juzgado. Facundo noquea a Oimo y Kashi. Spandam saca a Robin al balcón de la Torre; Luffy le pide que diga que quiere vivir (canon).
 - Día 36 06:52 · (T744) Robin grita que quiere vivir (canon). Usopp, preso en el balcón, no está como Sogeking para quemar la bandera (cambio).
 - Día 36 06:53 · (T745) Facundo derriba y quema con flechas todas las banderas del Gobierno Mundial de Enies Lobby (canon: Sogeking quemaba la bandera de la torre por orden de Luffy). Declaración de guerra contra el Gobierno Mundial.
+- Día 36 06:54 · (T746) Luffy cruza el abismo solo hacia la Torre (canon). Spandam se lleva a Robin adentro; el CP9 entra con Franky y Usopp (canon: Spandam se la llevaba hacia las Puertas de la Justicia por el pasaje subterráneo). Puente levadizo arriba.

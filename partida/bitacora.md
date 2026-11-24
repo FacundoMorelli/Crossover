@@ -744,3 +744,4 @@ T742 · One Piece · Enies Lobby · Ataque al portón. Luffy grita el nombre de 
 T743 · One Piece · Enies Lobby · Asalto: Oimo, Kashi y ~300 soldados noqueados. Plaza del Juzgado. Robin en el balcón con Spandam.
 T744 · One Piece · Enies Lobby · Robin grita "¡Quiero vivir!". Spandam ordena al CP9 frenarlos.
 T745 · One Piece · Enies Lobby · Facundo derriba con flechas Quincy todas las banderas del Gobierno Mundial. Guerra declarada.
+T746 · One Piece · Enies Lobby · "Vayamos." Luffy cruza solo el abismo. Spandam mete a Robin en la torre. El puente sigue levantado.
