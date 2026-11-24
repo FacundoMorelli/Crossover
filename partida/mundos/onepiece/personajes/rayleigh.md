@@ -15,3 +15,4 @@ ESTADO: activo
 - T873 · Choca su Haki del Rey con el de Facundo y retrocede un paso. "Hacía veinte años que nadie me hacía retroceder." Pregunta si mañana va a sacar a Ace.
 - T874 · Ve el Haki de armadura azul y blanco de Facundo: nunca vio uno que no fuera negro. "La tuya no se parece a la de nadie de este mar."
 - T875 · "Te dije que viajo mucho." "Muy lejos, por lo que veo." No pregunta más. Invita a cenar y a dormir antes de Marineford.
+- T876 · Facundo le dice que va a salvar a Ace, al lado de su capitán. "Esa es la respuesta correcta." Le advierte de Akainu. "Cuando termine, si tu capitán sigue vivo, tráelo aquí."

@@ -874,3 +874,4 @@ T872 · One Piece · Sabaody · Grove 1: Rayleigh acepta chocar el Haki del Rey.
 T873 · One Piece · Sabaody · Choque de Haki del Rey con Rayleigh: no cede; Rayleigh retrocede. COPIA Rayleigh (+800 EXP).
 T874 · One Piece · Sabaody · Haki de armadura azul y blanco (R11). Rayleigh fascinado.
 T875 · One Piece · Sabaody · "Te dije que viajo mucho." Rayleigh no pregunta más. Invitación a cenar en el bar.
+T876 · One Piece · Sabaody · "Lo voy a salvar." Rayleigh: advertencia sobre Akainu; "tráelo aquí".

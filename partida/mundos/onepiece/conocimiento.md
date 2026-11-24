@@ -219,3 +219,5 @@
 - Rayleigh · T871 · Deduce (no puede leerlo, pero algo se le escapa) que Facundo tiene Haki del Rey.
 - Rayleigh, Shakky, Hachi (hasta desmayarse) · T873 · Ven/sienten a Facundo chocar Haki del Rey con Rayleigh y hacerlo retroceder. Rayleigh confirma que Facundo tiene Haki del Rey de nivel altísimo.
 - Rayleigh, Shakky, Hachi · T874 · Ven el Haki de armadura de Facundo: azul intenso y blanco, no negro.
+- Rayleigh, Shakky, Hachi · T876 · Por Facundo: mañana va a salvar a Ace en Marineford, al lado de su capitán.
+- Facundo · T876 · Por Rayleigh: en Marineford estará Akainu (almirante de magma), el más peligroso; odia a los que llevan la D.

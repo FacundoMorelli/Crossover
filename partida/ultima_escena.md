@@ -3,95 +3,10 @@
 
 ---
 
-## COMANDO 1 (T873)
-ahora
-
-## RESPUESTA 1 (T873)
-
-> ahora
-
-> —Ahora.
-
-No hay aviso.
-
-Rayleigh lo suelta todo de golpe. No es el hilo del bar: es la voluntad entera del primer oficial de Gol D. Roger, que sale de él como una ola negra invisible y viene hacia ti cruzando el claro.
-
-Sueltas la tuya.
-
-Las dos se encuentran en el medio, a diez metros de cada uno, y el mundo cruje.
-
-El aire se parte con un trueno seco. Entre los dos, en el centro del claro, aparecen rayos negros, ramas de electricidad oscura con bordes rojos que saltan de la nada hacia arriba y hacia los costados, chasqueando como látigos. El suelo tiembla. Las raíces gigantes crujen. Todas las burbujas del grove estallan a la vez, cientos, en una lluvia de gotas que brilla al sol de la tarde.
-
-Detrás, la rueda de la fortuna oxidada termina de caerse, con un chirrido largo de metal y un estruendo que levanta polvo.
-
-Detrás de su árbol, Hachi se desmaya con los seis brazos abiertos.
-
-Shakky se agarra de una rama, con el pelo volado hacia atrás, y no suelta el cigarrillo.
-
-Kase, en la raíz alta, ni pestañea.
-
-Rayleigh empuja. Lo ves en su cara: aprieta los dientes, se le marcan las venas del cuello y los ojos le brillan detrás de los lentes. Por un instante, el viejo del bar desaparece y queda un hombre que navegó con el Rey de los Piratas hasta el fin del mundo.
-
-Tú no te mueves.
-
-Ni un paso. Ni medio centímetro. Los borceguíes siguen plantados en el mismo lugar de la tierra donde los apoyaste. El pelo blanco y azul se te sacude por el viento negro, y nada más.
-
-Los rayos negros empiezan a inclinarse. Despacio. Hacia él.
-
-El pie derecho de Rayleigh se arrastra hacia atrás. Un paso. La tierra se le abre en un surco bajo el zapato.
-
-Cortan los dos al mismo tiempo.
-
-Silencio. Gotas de las burbujas rotas cayendo como llovizna. Polvo de la rueda. Una hoja que baja dando vueltas.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER — COMPLETADO               ║
-║ Haki y esgrima de Silvers Rayleigh           ║
-║ USUARIO ORIGINAL: Silvers Rayleigh ·         ║
-║ One Piece                                    ║
-║                                              ║
-║ Armadura avanzada (cortar sin tocar,         ║
-║ emisión, interior) · observación · Haki del  ║
-║ Rey con recubrimiento · esgrima del primer   ║
-║ oficial de Roger · todo lo que llega a hacer ║
-║ DOMINIO: total                               ║
-╚══════════════════════════════════════════════╝
-```
-
-[+800 EXP]
-
-Rayleigh está de pie en el surco que abrió su propio zapato, con la camisa empapada de sudor, respirando fuerte. Se saca los lentes y los limpia con la camisa, despacio. Le tiemblan un poco las manos.
-
-Y se ríe. Primero bajito, después a carcajadas, con la cabeza hacia atrás, como un chico.
-
-—Hacía veinte años que nadie me hacía retroceder. —Se pone los lentes—. Y el último que lo hizo se llamaba Gol D. Roger.
-
-Se le apaga la risa de a poco. Te mira largo, serio, con algo nuevo en la cara.
-
-—Mañana, en Marineford... —Lo dice despacio—. Vas a sacar a ese chico de ahí, ¿no? Al hermano de tu capitán.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 873 · ONE PIECE · DÍA 56 · 16:47       ║
-║ Sabaody · Grove 1, claro abandonado          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en una raíz alta, junto a Shakky       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Marineford mañana (15:00).         ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T874)
+## COMANDO 1 (T874)
 tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki(color azul fuerte y blanco)
 
-## RESPUESTA 2 (T874)
+## RESPUESTA 1 (T874)
 
 > tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki (color azul fuerte y blanco)
 
@@ -140,10 +55,10 @@ Rayleigh no aparta la vista de ti. Sigue serio, esperando. Todavía no le contes
 
 ---
 
-## COMANDO 3 (T875)
+## COMANDO 2 (T875)
 te dije que viajo mucho no?
 
-## RESPUESTA 3 (T875)
+## RESPUESTA 2 (T875)
 
 > te dije que viajo mucho no?
 
@@ -190,4 +105,52 @@ Sigue caminando.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:51, Grove 1. Rayleigh aceptó el "viajo mucho" sin preguntar más; tampoco insiste con lo de Ace ("mañana lo leeré en los diarios"). Shakky invita a cenar al bar (a Facundo le cobra); Hachi hace takoyaki. Rayleigh: "Esta noche se come y se duerme." Marineford mañana a las 15:00.
+## COMANDO 3 (T876)
+ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
+
+## RESPUESTA 3 (T876)
+
+> ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
+
+> —Ah, perdón, me olvidé. Sí, lo voy a salvar. Tengo que estar al lado de mi capitán en algo así. No lo puedo dejar solo.
+
+Rayleigh se detiene entre dos raíces.
+
+Se da vuelta despacio. Te mira por encima de los lentes, largo. Y sonríe, con una sonrisa tranquila, cansada y contenta, la de un viejo que acaba de oír algo que esperaba oír.
+
+—Esa es la respuesta correcta.
+
+Vuelve dos pasos hacia ti. Baja la voz, como si los árboles pudieran escuchar.
+
+—Entonces escúchame bien, porque te lo voy a decir una sola vez. Mañana en esa plaza van a estar los tres almirantes. Kizaru es rápido. Aokiji, ya lo conoces, por lo que dicen los diarios. —Se le endurece la cara—. Pero el que tienes que vigilar es Akainu. Magma. No perdona nada, no negocia nada y no se detiene nunca. Y odia a los que llevan la D en el nombre.
+
+Hace una pausa.
+
+—Tu capitán lleva una. Y el chico que van a ejecutar también.
+
+Kase, en tu hombro, mueve la cola una sola vez.
+
+Rayleigh se acomoda la capa.
+
+—Y una cosa más. —Se da vuelta otra vez hacia el bar—. Cuando todo esto termine... si tu capitán sigue vivo, tráelo aquí. O dile que lo espero. Tengo algunas cosas que enseñarle.
+
+Sigue caminando entre las raíces, con Shakky al lado, fumando. Hachi corre detrás de ellos con los seis brazos agitándose, gritando ingredientes de takoyaki.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 876 · ONE PIECE · DÍA 56 · 16:52       ║
+║ Sabaody · Grove 1, claro abandonado          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace mañana, al lado de    ║
+║ Luffy. Shingeki: antes del D59 16:30.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:52, Grove 1. Facundo le dijo a Rayleigh que va a salvar a Ace al lado de Luffy. Rayleigh: "Esa es la respuesta correcta." Advertencia: los tres almirantes; vigilar a Akainu (magma), que odia a los de la D. "Si tu capitán sigue vivo, tráelo aquí." Van al bar a cenar (takoyaki de Hachi). Marineford mañana a las 15:00.
