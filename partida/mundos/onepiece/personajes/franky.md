@@ -18,3 +18,4 @@ ESTADO: activo
 - T731 · No se une ("no me subo al barco de un pirata cualquiera"). Toca el Merry: "Se está muriendo, pero no quiere morirse todavía." Lo refuerza gratis esta tarde.
 - T732 · Refuerza el Merry todo el día con Usopp.
 - T760 · Libre gracias a Chopper; vence a Fukurou y quema los planos de Plutón. Sube al Merry.
+- T768 · Día 37 · Ofrece construirles un barco de madera de Adán si ponen la plata (~200M): "Pongan la plata y yo pongo el sueño."

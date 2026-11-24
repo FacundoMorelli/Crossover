@@ -766,3 +766,4 @@ T764 · One Piece · Water 7 · Simula el vuelo de regreso: banquete, Luffy desp
 T765 · One Piece · Water 7 · Propone quemar el Merry para despedirlo. Luffy y Usopp aceptan: en el mar.
 T766 · One Piece · Mar frente a Water 7 · Simula hasta el atardecer. Franky deja lindo al Merry. Luffy le tira la antorcha.
 T767 · One Piece · Mar frente a Water 7 · El Merry habla y se despide. Se hunde entero. Nieve.
+T768 · One Piece · Water 7 · Día 37. Franky ofrece construirles un barco de madera de Adán (~200M); Iceburg presta el Dock 1.
