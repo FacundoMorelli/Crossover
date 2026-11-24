@@ -1005,3 +1005,4 @@ T1003 · Fairy Tail · Parque · "Un poco." Natsu lo desafía para después de P
 T1004 · Fairy Tail · Tren a Oak Town · Acepta el desafío de Natsu. Erza se sienta enfrente: "¿Qué magia usas?"
 T1005 · Fairy Tail · Tren · "Facundo Morelli. Ya la vas a ver." Erza explica Phantom. Kase se sienta frente a ella. "¿Cómo se llama?"
 T1006 · Fairy Tail · Tren · "Se llama Kase." Kase le da la espalda a Erza: "Tiene carácter." Llegan a Oak Town; la sede de Phantom a la vista.
+T1007 · Fairy Tail · Sede de Phantom · Natsu revienta la puerta: "¡FAIRY TAIL!" Batalla. Un mago con hacha carga contra Facundo. Gajeel mira desde una viga.

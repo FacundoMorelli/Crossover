@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1004)
-dale, cuando volvamos peleamos
-
-## RESPUESTA 1 (T1004)
-
-> dale, cuando volvamos peleamos
-
-> —Dale. Cuando volvamos, peleamos.
-
-—¡SÍ! —Natsu salta en el lugar y el fuego le sube por los brazos hasta los hombros. Happy se cae de su cabeza, da una vuelta en el aire y vuelve a aterrizar—. ¡Me estoy encendiendo! ¡Happy, ¿escuchaste?! ¡Dijo que sí!
-
-—Aye. Lo escuché todo el parque.
-
-Natsu sale corriendo detrás de Gray, gritándole que tiene un rival nuevo, y Gray le contesta sin darse vuelta que nadie quiere ser su rival.
-
-Caminas detrás del gremio por las calles de Magnolia.
-
-La ciudad ya está despierta. Abren los puestos del mercado, pasa un carro cargado de verduras, una mujer riega las macetas de un balcón. Cuando ven pasar a Fairy Tail, todo junto y en silencio, con la cara que tiene, la gente se aparta y se queda mirando. Algunos se dan cuenta y bajan la cabeza. Un viejo se saca el sombrero.
-
-A ti también te miran. Al gato, sobre todo.
-
-La estación es de ladrillo rojo y hierro, con un reloj grande sobre la entrada y un tren negro que echa vapor en el andén. La mitad del gremio se sube a los vagones de atrás, haciendo ruido otra vez, más tranquilos ahora que están en movimiento. Makarov sube al primero sin mirar a nadie. Natsu se sube al tercero, se derrumba sobre un asiento antes de que el tren arranque y se pone de color verde oliva. Gray se sienta enfrente y lo mira con desprecio.
-
-Te toca un compartimento a medio llenar. Dos asientos de madera enfrentados, una ventana, un portaequipaje de bronce.
-
-El tren silba y arranca.
-
-La puerta del compartimento se abre.
-
-Erza entra, con la armadura que suena a cada paso, y se sienta enfrente de ti sin pedir permiso. Apoya las manos sobre las rodillas. Tiene la espalda derecha como una lanza.
-
-Kase la mira desde tu hombro. Ella mira a Kase.
-
-Después te mira a ti, a los ojos, sin pestañear.
-
-—Erza Scarlet —dice—. Antes de llegar a Oak Town, quiero saber con quién voy a pelear al lado. —Hace una pausa—. ¿Qué magia usas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1004 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 07:28 · Tren Magnolia–Oak Town               ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1005)
+## COMANDO 1 (T1005)
 Facundo Morelli, ya la vas a ver
 
-## RESPUESTA 2 (T1005)
+## RESPUESTA 1 (T1005)
 
 > Facundo Morelli, ya la vas a ver
 
@@ -115,10 +60,10 @@ Kase la sigue mirando.
 
 ---
 
-## COMANDO 3 (T1006)
+## COMANDO 2 (T1006)
 se llama Kase
 
-## RESPUESTA 3 (T1006)
+## RESPUESTA 2 (T1006)
 
 > se llama Kase
 
@@ -172,4 +117,69 @@ Erza se pone de pie. La armadura suena.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 08:35, el tren llega a Oak Town; se ve la sede de Phantom. Erza: "Llegamos." Facundo puede actuar.
+## COMANDO 3 (T1007)
+bajo del tren y voy con ellos a la sede de Phantom
+
+## RESPUESTA 3 (T1007)
+
+> bajo del tren y voy con ellos a la sede de Phantom
+
+El andén se llena de Fairy Tail en segundos.
+
+Natsu baja último, sostenido por Gray de un brazo y por Happy de la bufanda. Apenas pisa tierra firme, le vuelve el color a la cara como si alguien hubiera prendido una lámpara. Respira hondo, se suelta de los dos y mira hacia la colina.
+
+—Ahí está —dice. Ya no sonríe.
+
+Nadie corre. Suben por las calles de Oak Town caminando, todos juntos, en silencio, con Makarov al frente. La gente del pueblo cierra las ventanas cuando los ve pasar. Una madre mete a un chico adentro de un tirón. Un perro ladra y nadie lo calla.
+
+Kase va con las orejas aplastadas, mirando hacia lo alto.
+
+La sede de Phantom Lord es más grande de cerca. Los muros de piedra negra suben veinte metros, y la puerta principal es de madera reforzada con hierro, alta como tres hombres, con el emblema de la lápida tallado en el centro. Detrás se escucha ruido: voces, risas, vasos, como si fuera un día cualquiera.
+
+Makarov se detiene a diez pasos de la puerta.
+
+No dice nada. No hace falta.
+
+Natsu pasa a su lado, camina hasta la puerta y echa el brazo hacia atrás. El fuego le envuelve el puño, después el antebrazo, después el hombro, y ruge.
+
+Golpea.
+
+La puerta revienta hacia adentro en una bola de fuego y astillas. Las bisagras salen volando. El hierro se dobla. Una ola de calor te pega en la cara y te mueve el pelo.
+
+Adentro hay un salón enorme, de techos altos y vigas de madera, lleno de mesas largas y de gente. Debe haber cien magos, ciento cincuenta, todos con la misma marca, que se dan vuelta a la vez con los vasos en la mano.
+
+—¡FAIRY TAIL! —grita Natsu, desde el hueco humeante de la puerta.
+
+Durante un segundo, nadie se mueve.
+
+Después todo explota.
+
+Los de Phantom se levantan gritando, tiran las mesas, sacan armas y magia. Los de Fairy Tail entran detrás de Natsu en una sola ola, aullando. Un relámpago cruza el salón. Alguien se transforma en algo enorme. Vuelan sillas, vasos, cuerpos. Gray congela el piso bajo los pies de diez magos a la vez. Erza cambia de armadura en un destello de luz y entra con una espada en cada mano. Makarov crece: se vuelve un gigante que llega hasta las vigas y aplasta de un manotazo a media docena de enemigos.
+
+En el medio del caos, un mago de Phantom te ve.
+
+Es un tipo grande, con cicatrices en la cara y un hacha de doble filo envuelta en una luz verde. No tienes la marca de Fairy Tail, pero entraste con ellos. Le alcanza.
+
+Corre hacia ti con el hacha en alto, gritando.
+
+Desde lo alto del salón, sentado en una viga del techo con las piernas colgando, alguien mira la pelea y se ríe bajito. Tiene el pelo negro y largo, la cara llena de piercings de metal, y está masticando algo que cruje como clavos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1007 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:05 · Oak Town · sede de Phantom Lord      ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, orejas aplastadas        ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:05, salón de Phantom Lord en plena batalla. Un mago de Phantom con un hacha de luz verde carga contra Facundo. Gajeel mira desde una viga. Facundo puede actuar.
