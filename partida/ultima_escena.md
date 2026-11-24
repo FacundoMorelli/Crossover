@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T868)
-hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
-
-## RESPUESTA 1 (T868)
-
-> hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
-
-> —Hola... Mmm, ¿quién eres? ¿Y me puedes contar todo lo que pasó mientras no estuve?
-
-El viejo se ríe por la nariz, divertido.
-
-—Silvers Rayleigh. —Se acomoda los lentes—. Un viejo que cuida este barco. Y que hace mucho tiempo navegó en otro.
-
-Se sienta sobre el barril, al lado del diario, y te señala un rollo de soga para que te sientes. Kase baja de tu hombro, olfatea las botas de Rayleigh y se sienta frente a él, mirándolo fijo.
-
-—Tus amigos llegaron hace nueve días. —Rayleigh toma un trago y mira el Sunny tapado—. Con un hombre-pez de seis brazos, Hachi, y una sirena, Camie. A la sirena la secuestraron unos traficantes y la pusieron en una subasta. Tus amigos entraron a sacarla.
-
-Sonríe, un poco.
-
-—Y tu capitán le pegó un puñetazo a un Dragón Celestial. Delante de todos. —Se ríe—. Hacía años que no veía algo tan hermoso.
-
-La sonrisa se le va.
-
-—Golpear a un Noble Mundial trae un almirante. Vino Kizaru, con soldados y con unas máquinas que tienen la cara de Bartholomew Kuma. Pacifistas, les dicen. Tus amigos pelearon bien. Pero eran demasiados.
-
-Hace una pausa larga. Mira el agua.
-
-—Y entonces llegó el Kuma de verdad. —Levanta una mano, abierta, y la mueve en el aire, despacio—. Les apoyó la mano, así, uno por uno, y desaparecieron. Puf. No los mató. De eso estoy seguro: lo vi. Los mandó lejos. A cada uno a un lugar distinto del mundo.
-
-Te mira por encima de los lentes.
-
-—La morena alta, la de los libros, fue de las primeras. Gritó el nombre de alguien antes de desaparecer. —Hace una pausa—. Creo que era el tuyo.
-
-Kase, frente a él, mueve la cola una sola vez sobre la madera.
-
-—Tu capitán fue el último. Nadie sabe dónde quedó ninguno. Hachi recibió un balazo del Noble y está en el bar de una amiga mía, recuperándose.
-
-Golpea el diario con un dedo.
-
-—Y esto. Al hermano de tu capitán, Portgas D. Ace, lo capturó un tal Barbanegra y lo entregó al Gobierno. Lo ejecutan mañana a las tres, en Marineford. Barbablanca va a ir a buscarlo. Va a ser una guerra. —Baja la voz—. Y hay un rumor de esta mañana: que alguien con un sombrero de paja entró a Impel Down. La prisión de la que nadie sale.
-
-Se queda callado un rato. Después te mira de una forma distinta, con los ojos entrecerrados.
-
-—Una cosa más. —Lo dice tranquilo—. Intenté leerte con el Haki desde que apareciste. Y no hay nada. Ni miedo, ni fuerza, ni nada. —Inclina la cabeza—. Eres como un agujero en el mar, muchacho.
-
-Toma el último trago de la botella.
-
-—¿Y tú qué vas a hacer?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 868 · ONE PIECE · DÍA 56 · 16:05       ║
-║ Sabaody · Grove 41, junto al Sunny           ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: frente a Rayleigh, mirándolo           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tripulación dispersada. Marineford ║
-║ mañana. Shingeki: antes del D59 16:30.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T869)
+## COMANDO 1 (T869)
 mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
 
-## RESPUESTA 2 (T869)
+## RESPUESTA 1 (T869)
 
 > mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
 
@@ -133,10 +67,10 @@ Se tapa la cara con dos de los seis brazos.
 
 ---
 
-## COMANDO 3 (T870)
+## COMANDO 2 (T870)
 no te preocupes pez, toma comete esto, saco una semilla y se la doy
 
-## RESPUESTA 3 (T870)
+## RESPUESTA 2 (T870)
 
 > no te preocupes pez, toma comete esto, saco una semilla y se la doy
 
@@ -189,4 +123,98 @@ Antes de que nadie conteste, Hachi te agarra con los seis brazos a la vez y te l
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:27, bar de Shakky. Hachi comió una semilla del ermitaño y se curó al instante; abraza a Facundo con los seis brazos ("¡Te voy a hacer takoyaki gratis para siempre!"). Shakky dejó caer el cigarrillo. Rayleigh, sorprendido: "¿Qué fue eso? ¿Una fruta? ¿Medicina de dónde?" Kase en la cama. Marineford mañana a las 15:00.
+## COMANDO 3 (T871)
+no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
+
+## RESPUESTA 3 (T871)
+
+> no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
+
+> —No te preocupes, no me debes nada. Y es una cosa de los lugares a los que viajo.
+
+Hachi te suelta, por fin, y se seca la cara con cuatro manos a la vez. Kase vuelve a tu hombro desde la cama, con cara de reproche.
+
+Te das vuelta hacia la puerta.
+
+> —Eh... bueno. Rayleigh, ¿me enseñas tu Haki?
+
+Rayleigh se ríe. Es una risa corta, de verdad, que le arruga los ojos detrás de los lentes.
+
+—¿Enseñarte? —Se aparta del marco y vuelve al salón del bar—. Muchacho, enseñar el Haki lleva meses. A veces años. Y tú mañana te vas a meter en la guerra más grande en veinte años.
+
+Se sienta en un taburete de la barra. Shakky, sin decir nada, le pone un vaso adelante y le sirve.
+
+—Pero mostrarte... —Rayleigh toma un trago—. Eso sí.
+
+Levanta el dedo índice de la mano derecha.
+
+El dedo se oscurece desde la uña hacia abajo, como si lo hubieran metido en tinta. Queda negro, brillante, duro como el metal pulido. Rayleigh lo apunta, sin apuro, a una botella vacía que está en la otra punta de la barra, a cuatro metros.
+
+Lo baja en el aire. Un corte chiquito, de nada.
+
+La botella se parte en dos, de arriba abajo, limpia como si la hubieran cortado con un hilo. Las dos mitades se separan y caen de costado sobre la madera sin romperse.
+
+Hachi abre la boca de pulpo.
+
+—Eso es la armadura. —Rayleigh baja el dedo. Vuelve a ser un dedo de viejo—. Y esto...
+
+No hace nada. No se mueve. Solo te mira.
+
+Pero algo sale de él. Es un hilo, apenas, una fracción de una fracción de algo mucho más grande. Todos los vasos del bar empiezan a temblar en los estantes, tintineando contra la madera. La lámpara del techo se balancea. Hachi se sienta en el piso de golpe, con los ojos en blanco por un segundo, y se agarra la cabeza.
+
+Shakky sigue fumando, tranquila, como si fuera martes.
+
+Kase, en tu hombro, no se inmuta. Tú tampoco.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Haki y esgrima de Silvers Rayleigh           ║
+║ USUARIO: Silvers Rayleigh · One Piece        ║
+║                                              ║
+║ MISIÓN: Chocar tu Haki del Rey con el de     ║
+║ Rayleigh a plena potencia y no ceder ni un   ║
+║ paso.                                        ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════╗
+║ SILVERS RAYLEIGH                       ║
+║ Ex primer oficial de Roger             ║
+║ PODER: Haki (los tres), esgrima        ║
+║ AMENAZA: ALTA                          ║
+║ Diferencia estimada: x0,33 sobre ti    ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+```
+
+La presión se apaga. Los vasos dejan de temblar.
+
+Rayleigh te mira de arriba abajo, despacio, con el vaso en la mano y una sonrisa chica, rara.
+
+—No te movió ni un pelo. —Toma un trago—. Ni a ti ni al gato.
+
+Deja el vaso.
+
+—Tú ya lo tienes. —Lo dice tranquilo, sin dudar—. Cuando entraste lo sentí, aunque no pude leerte. Algo grande, dormido, debajo de ese agujero. —Ladea la cabeza—. Así que dime, muchacho. ¿Para qué quieres que te enseñe?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 871 · ONE PIECE · DÍA 56 · 16:32       ║
+║ Sabaody · bar de Shakky, salón               ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Hachi curado. Marineford mañana.   ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:32, salón del bar de Shakky. Rayleigh mostró Haki de armadura (partió una botella a 4 m sin tocarla) y un hilo de Haki del Rey (Hachi al piso; Facundo y Kase ni se inmutan). Misión de copia emitida: chocar Haki del Rey con Rayleigh a plena potencia y no ceder (ALTA). Rayleigh: "Tú ya lo tienes... ¿Para qué quieres que te enseñe?" Marineford mañana a las 15:00.

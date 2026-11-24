@@ -1,8 +1,8 @@
 {
-  "turno": 870,
+  "turno": 871,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 56 (Grand Line, Archipiélago Sabaody)",
-  "hora": "16:27",
+  "hora": "16:32",
   "edad": 18,
   "nivel": 27,
   "exp": 219040,
@@ -1063,6 +1063,13 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
+    },
+    {
+      "poder": "Silvers Rayleigh: Haki (armadura, observación y del Rey) y esgrima del primer oficial de Roger",
+      "mundo": "onepiece",
+      "mision": "Chocar tu Haki del Rey con el de Rayleigh a plena potencia y no ceder ni un paso.",
+      "dificultad": "ALTA",
+      "emitida": "T871"
     }
   ],
   "misiones_de_copia_rechazadas": [],

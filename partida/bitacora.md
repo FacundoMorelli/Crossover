@@ -869,3 +869,4 @@ T867 · Shingeki → One Piece · Saludos a Historia e Ymir. Cruza la puerta. Ll
 T868 · One Piece · Sabaody · Rayleigh cuenta la dispersión de Kuma, Ace mañana, el rumor de Impel Down.
 T869 · One Piece · Sabaody · Bar de Shakky. Hachi herido pide perdón.
 T870 · One Piece · Sabaody · Semilla del ermitaño a Hachi: curado. Rayleigh pregunta qué fue eso.
+T871 · One Piece · Sabaody · Rayleigh muestra su Haki. Misión de copia: Rayleigh. "¿Para qué quieres que te enseñe?"
