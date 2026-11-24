@@ -22,3 +22,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T854 · Día 40 · TRATADO DE PAZ ENTRE PARADIS Y MARLEY firmado en la plaza de Liberio ante veinte embajadores: Historia Reiss, Willy Tybur, el general Magath; testigo: Facundo Morelli, emisario de Paradis. Calvi arrestado. La guerra del canon (fiesta de 854, ataque a Liberio, Retumbar) queda, por ahora, evitada.
 - T932 · Día 50 · 1 km de Wall Rose (norte de Karanes) desaparecido con sus colosales, ante seis delegaciones extranjeras. Segundo tramo borrado (el primero: Wall Maria, T575).
 - T957 · Día 63 · NO QUEDAN TITANES EN EL MUNDO. Las murallas siguen en pie, agrietadas y huecas; sus colosales volvieron a ser personas. Los eldianos ya no pueden transformarse. Fin de la maldición de Ymir.
+- T958 · Día 63 · Cientos de miles de muertos por titanes revividos. Wall Maria vuelve a estar poblada en una noche.

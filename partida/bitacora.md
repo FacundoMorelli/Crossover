@@ -956,3 +956,4 @@ T954 · Shingeki · Mitras · (simulado días 55-63) Preparación; Liberio avisa
 T955 · Shingeki · Costa este · Teletransporte de todos a una meseta sobre el mar. Eren ve el mar. Facundo solo, de cara al horizonte.
 T956 · Shingeki · Costa este · "¡Sal, Eclipse!" Aparece el dragón Eclipse. "Te concederé tres deseos. Dime tu primer deseo."
 T957 · Shingeki · Costa este · PRIMER DESEO: no quedan titanes en el mundo; los puros y los de las murallas vuelven a ser humanos. Annie despierta. Eren: "No veo nada." Ymir: "Me puedo cortar."
+T958 · Shingeki · Costa este · SEGUNDO DESEO: cientos de miles de muertos por titanes en 107 años revividos (isla: Wall Maria; continente: sus casas). Eren: "¿Mi mamá está ahí?"

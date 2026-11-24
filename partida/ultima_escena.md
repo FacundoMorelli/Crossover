@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T955)
-vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
-
-## RESPUESTA 1 (T955)
-
-> vayamos a un lugar lejos no se que tan grande puede ser lo que salga de ahi dentro, por favor todos ponganse para teletransportarnos y me teletransporto a una parte de la isla lejos de todos
-
-> —Vayamos a un lugar lejos. No sé qué tan grande puede ser lo que salga de ahí adentro. Por favor, pónganse todos para teletransportarnos.
-
-Se miran entre ellos un segundo. Después se acercan, sin que nadie dé la orden.
-
-Ya lo hicieron antes, la mayoría, en el sótano de Liberio. Saben cómo es. Se agarran unos de otros en una cadena torpe: Historia de tu brazo, Ymir de la mano de Historia, Mikasa del hombro de Ymir, Eren de Mikasa, Armin de Eren. Levi pone una mano en tu espalda, con cara de que no le gusta. Hange se agarra de Levi con las dos manos y una sonrisa nerviosa. Connie, Sasha y Jean, en fila, de la manga del de adelante. Pixis guarda la petaca. Zackly se acomoda el sombrero y apoya dos dedos en el hombro de Erwin, que apoya la mano en el de Hange.
-
-Kase se te acomoda en el hombro, bien agarrado.
-
-Buscas un lugar vacío. Lejos de las murallas, lejos de los campamentos, lejos de cualquier persona. Al este, más allá de Wall Maria, donde la isla se termina.
-
-Dos dedos en la frente.
-
-El patio desaparece.
-
-El viento llega primero. Frío, salado, constante, como si nunca hubiera dejado de soplar en ese lugar. Después el ruido: olas grandes rompiendo abajo, muy abajo.
-
-Están sobre una meseta de pasto bajo, amplia y desierta, al borde de un acantilado que cae a pico sobre el mar. No hay un árbol. No hay una casa. No hay una muralla a la vista, en ninguna dirección. Detrás, hacia el oeste, la isla se pierde en la oscuridad. Delante, el océano: negro, enorme, interminable. Y en el horizonte, donde el mar se junta con el cielo, una línea finísima de luz gris empieza a separarlos.
-
-Falta poco para el amanecer.
-
-Se sueltan unos de otros. Nadie habla. Sasha se aprieta el abrigo contra el cuerpo. Connie mira el mar, con la mandíbula apretada. Eren camina dos pasos hacia el borde del acantilado y se queda ahí, con el viento en el pelo, mirando el agua.
-
-—El mar —dice, muy bajo. Nadie le contesta. Nadie tiene que hacerlo.
-
-Armin se pone a su lado.
-
-Erwin mira alrededor: el pasto, el acantilado, la distancia. Asiente, satisfecho, y retrocede unos pasos, despacio, para dejarte espacio. Los demás lo imitan sin que nadie lo diga. Se forma un semicírculo amplio a tu espalda, de cara al mar.
-
-Ymir es la última en retroceder. Se queda un segundo más a tu lado, con la manta al viento. No te toca. Solo te mira.
-
-Después se va con los demás.
-
-Quedas solo, con Kase en el hombro, en el medio de la meseta, de cara al horizonte que se aclara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 955 · SHINGEKI · DÍA 63 · 04:50        ║
-║ Costa este de Paradis · meseta del           ║
-║ acantilado                                   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Invocar a Eclipse. Tres deseos.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T956)
+## COMANDO 1 (T956)
 saco las 7 esferas, sal eclipse
 
-## RESPUESTA 2 (T956)
+## RESPUESTA 1 (T956)
 
 > saco las 7 esferas, sal eclipse
 
@@ -128,10 +70,10 @@ Los ojos rojo y azul bajan hasta ti.
 
 ---
 
-## COMANDO 3 (T957)
+## COMANDO 2 (T957)
 Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
 
-## RESPUESTA 3 (T957)
+## RESPUESTA 2 (T957)
 
 > Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
 
@@ -206,4 +148,75 @@ El cielo sigue negro. El dragón sigue ahí, suspendido sobre la meseta, enorme,
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 04:58, meseta del acantilado. Primer deseo cumplido: no quedan titanes en el mundo; los titanes puros y los colosales de las murallas volvieron a ser humanos (decenas de miles al pie de las murallas; Ragako); Annie despertó; los Nueve perdieron sus titanes (Eren, Ymir, Reiner, Bertholdt, Zeke, Lara, Pieck). Eclipse pide el segundo deseo. Facundo puede pedir.
+## COMANDO 3 (T958)
+Segundo quiero que revivas a todos los muertos por titanes de esta epoca
+
+## RESPUESTA 3 (T958)
+
+> Segundo quiero que revivas a todos los muertos por titanes de esta epoca
+
+> —Segundo: quiero que revivas a todos los muertos por titanes de esta época.
+
+El dragón cierra los ojos.
+
+Durante un momento largo no pasa nada. El cielo sigue negro. El mar, quieto. En el silencio solo se oye a Connie, que todavía llora de rodillas en el pasto, y la respiración entrecortada de Eren contra el hombro de Mikasa.
+
+—ES UN DESEO GRANDE —dice Eclipse, con los ojos cerrados—. MUCHOS MURIERON EN ESTA ÉPOCA. DESDE QUE SE LEVANTARON LAS MURALLAS, HACE CIENTO SIETE AÑOS. LOS BUSCARÉ A TODOS.
+
+Abre los ojos.
+
+—LOS DE ESTA ISLA VOLVERÁN AL LUGAR QUE PREPARARON PARA ELLOS. LOS DEL OTRO LADO DEL MAR, A SUS CASAS.
+
+La cresta de fuego blanco y azul que le corre por el lomo se enciende de punta a punta, kilómetros de llama, y el cielo negro se llena de puntos de luz. No son estrellas. Son miles, cientos de miles de chispas blancas que caen despacio, como nieve al revés, como cenizas de una fogata que alguien sopló hacia arriba, y se reparten por el cielo de la isla entera.
+
+Caen.
+
+Lo sientes otra vez, con todo lo que tienes. La isla en la palma de la mano.
+
+Sobre el territorio de Wall Maria, sobre los campamentos que Paradis armó durante una semana, en Shiganshina, en Quinta, en cada distrito vacío, las chispas tocan el suelo. Y en el lugar donde toca cada una, se enciende una presencia. Tibia. Humana. Asustada.
+
+Una. Diez. Mil. Cien mil.
+
+No paran.
+
+Sientes cómo se llenan los campamentos. Cómo se llenan las calles vacías de Shiganshina, las plazas, los campos de alrededor. Cientos de miles de personas que abren los ojos al mismo tiempo, vestidas como estaban el día que murieron, de pie en un territorio que reconocen y no reconocen, debajo de un cielo negro lleno de luces que caen. Sientes el primer grito, en un campamento al norte de Shiganshina. Y el segundo. Y diez mil más. No son de miedo. No todos.
+
+En el borde de Shiganshina, junto a lo que queda de una casa de madera, una presencia se enciende y se sienta en el piso, despacio, llevándose las manos a las piernas, como si esperara encontrarlas aplastadas. No lo están.
+
+Más allá, en el mar, lejos, del otro lado del agua, las chispas también caen sobre el continente. En pueblos del Medio Oriente, en trincheras, en casas de campo de Marley. Y en la ciudad de Liberio, en la puerta de una casa de la zona de internamiento, se enciende una presencia joven, de un muchacho, que mira a su alrededor sin entender por qué no está en una isla, en medio de un bosque, con la mitad del cuerpo en la boca de un titán.
+
+Las chispas dejan de caer.
+
+En la meseta, nadie habla.
+
+Levi se dio vuelta hacia el oeste, hacia la isla. Tiene los puños cerrados, la cara de piedra, y no se mueve. No dice nombres. Pero se le ve en la cara que los está diciendo todos, uno por uno, por dentro.
+
+Erwin se aprieta el puente de la nariz con la única mano. Le tiemblan los hombros. Es la primera vez que alguien en la Legión lo ve así. Nadie lo mira.
+
+Eren se levanta del pasto. Tambaleándose, con Mikasa sujetándole el brazo. Tiene la cara deshecha. Mira al oeste, hacia donde está Shiganshina, y después te mira a ti.
+
+—Mi mamá —dice. Lo dice como un chico de diez años—. Facundo. Mi mamá está ahí. ¿Está ahí?
+
+El dragón sigue suspendido sobre todos, con los ojos clavados en ti.
+
+—TU SEGUNDO DESEO HA SIDO CONCEDIDO. DIME TU TERCER Y ÚLTIMO DESEO.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 958 · SHINGEKI · DÍA 63 · 05:02        ║
+║ Costa este de Paradis · meseta del           ║
+║ acantilado                                   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tercer y último deseo:             ║
+║ reconstrucción. Eren pregunta por su madre.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:02, meseta del acantilado. Segundo deseo cumplido: todos los muertos por titanes de los últimos 107 años revividos (los de la isla en los campamentos de Wall Maria; los del continente en sus casas). Eren pregunta si su madre está en Shiganshina. Eclipse pide el tercer y último deseo. Facundo puede responder/pedir.
