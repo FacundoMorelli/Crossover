@@ -3,52 +3,10 @@
 
 ---
 
-## COMANDO 1 (T812)
-me como una semilla, y me siento con kase
-
-## RESPUESTA 1 (T812)
-
-> me como una semilla, y me siento con kase
-
-Sacas una semilla del ermitaño del inventario y la masticas. Es seca, sabe a pasto y a tierra.
-
-El efecto es inmediato. Los cortes de los brazos se cierran y los del pecho y la espalda desaparecen. El dolor se apaga como una vela que alguien sopla. Respiras hondo y no te duele nada, ni una costilla. La energía te vuelve entera, de golpe.
-
-Solo queda la sangre en la ropa, el sobretodo empapado y tieso, y el charco rojo en el pasto.
-
-Te sientas en el suelo, al lado de Robin dormida.
-
-Kase no espera. Se te sube a las piernas de un salto y se te planta delante, con las patas delanteras en tu pecho y la cara a la altura de la tuya. Te mira fijo con los ojos de colores, rojo y azul, las pupilas finas.
-
-Te da un cabezazo en la mandíbula. Fuerte. No es una caricia: es un reto.
-
-Después da dos vueltas sobre tus piernas, se acurruca contra tu pecho, apretado, y apoya la cabeza bajo tu mentón. Ronronea, con un ruido grave y profundo que te vibra en el pecho. Cuando te mueves un poco, te clava las uñas en la ropa, sin lastimarte, para que no te vayas a ningún lado.
-
-El sol de la mañana sube despacio sobre las ruinas de Thriller Bark. La niebla se abre. Alrededor, la tripulación duerme en el pasto, curada, respirando tranquila. Luffy ronca con Chopper sobre la panza. Brook, al sol, con su sombra a los pies.
-
-Al borde de la explanada, Lola y los Piratas Rolling siguen mirándote. Ninguno se acerca todavía.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 812 · ONE PIECE · DÍA 44 · 06:55       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en tus piernas, ronroneando            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
-║ One Piece antes del Día 49.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T813)
+## COMANDO 1 (T813)
 espero a que despierten los demás
 
-## RESPUESTA 2 (T813)
+## RESPUESTA 1 (T813)
 
 > espero a que despierten los demás
 
@@ -105,10 +63,10 @@ Al borde de la explanada, junto a la fogata, Lola se pone de pie de golpe con un
 
 ---
 
-## COMANDO 3 (T814)
+## COMANDO 2 (T814)
 se fue, dijo que no queria nada
 
-## RESPUESTA 3 (T814)
+## RESPUESTA 2 (T814)
 
 > se fue, dijo que no queria nada
 
@@ -165,4 +123,60 @@ Kase, en tus piernas, estira una pata y la apoya sobre la mano de Robin.
 
 ---
 
-ESTADO AL CIERRE: Día 44 07:41. Facundo dijo que Kuma se fue sin querer nada. Lola calló. Zoro: "Si tú lo dices." Robin no le cree, le toma la mano fuerte y no la suelta. Sanji llama a desayunar.
+## COMANDO 3 (T815)
+le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
+
+## RESPUESTA 3 (T815)
+
+> le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
+
+Le apoyas los labios en la frente, despacio.
+
+> —Tranquila, estoy bien, amor.
+
+Robin cierra los ojos. Respira hondo una vez, contra tu pecho, como si recién en ese momento le volviera el aire.
+
+—Después me lo vas a contar. —Lo dice bajito, sin abrir los ojos—. Todo.
+
+No te suelta la mano.
+
+Abres el inventario y te cambias detrás de un pedazo de pared caída. El sobretodo empapado y la camisa tiesa desaparecen, y te pones ropa negra limpia, igual a la de siempre. Kase te espera sentado en la piedra, vigilando que no te vayas a ningún lado.
+
+El desayuno es alrededor de la fogata de Lola, entre las ruinas, al sol. Sanji tomó el mando de la olla de los Rolling y la convirtió en un guiso que hace llorar a los piratas de Lola de felicidad. Hay pan, carne asada, fruta de las bodegas de Moria y café. Luffy come con las dos manos. Usopp le cuenta a Chopper, por tercera vez, cómo derrotó a la princesa de los fantasmas. Franky y Zoro toman sake del barril de Moria. Nami ya hace cuentas del tesoro que hay en los sótanos de la mansión.
+
+Robin se sienta pegada a ti, con el hombro contra el tuyo, y come poco.
+
+Brook, al sol, toca el violín. Toca bajito, una melodía alegre, y cada tanto se detiene para mirarse la sombra en el pasto, como para asegurarse de que sigue ahí.
+
+—¡Yohohoho! ¡Hace tantos años que no veía el sol! ¡Me quema los ojos! ¡Aunque no tengo ojos!
+
+Luffy, con un hueso de carne en la boca, lo señala.
+
+—¡Oye, Brook! ¡Me acordé de algo! —Mastica—. En el Cabo Gemelo, antes de entrar al Grand Line, conocimos a una ballena gigante. ¡Enorme! ¡Como una montaña! Se llama Laboon. ¡Se estaba golpeando la cabeza contra la Red Line porque espera a unos piratas amigos suyos hace cincuenta años!
+
+El violín deja de sonar.
+
+Brook se queda quieto, con el arco apoyado en las cuerdas. Al violín se le cae la cuerda floja, que hace un ruido roto.
+
+Después, despacio, el violín se le resbala de los dedos y cae al pasto.
+
+—...¿Laboon?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 815 · ONE PIECE · DÍA 44 · 08:05       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la piedra, vigilándote              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
+║ One Piece antes del Día 49.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 08:05. Desayuno en las ruinas con Lola y los Rolling. Facundo con ropa limpia. Robin pegada a él ("Después me lo vas a contar. Todo."). Luffy le contó a Brook de Laboon; a Brook se le cayó el violín: "...¿Laboon?". Canon siguiente: flashback de Brook (Piratas Rumbar, Binks no Sake, la promesa).

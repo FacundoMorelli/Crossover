@@ -813,3 +813,4 @@ T811 · One Piece · Thriller Bark · Trato con Kuma: recibe el dolor de todos y
 T812 · One Piece · Thriller Bark · Come una semilla del ermitaño. Se sienta con Kase.
 T813 · One Piece · Thriller Bark · Despiertan todos curados. Robin ve la sangre: "¿Qué hiciste?"
 T814 · One Piece · Thriller Bark · "Se fue. Dijo que no quería nada." Lola calla. Zoro no pregunta. Robin no le cree.
+T815 · One Piece · Thriller Bark · Beso en la frente a Robin. Desayuno. Luffy le cuenta a Brook de Laboon.

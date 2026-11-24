@@ -205,3 +205,4 @@
 - Lola y los Piratas Rolling · T811 · Ven a Facundo hacer un trato con Kuma y recibir en el cuerpo el dolor de toda su tripulación, cubrirse de sangre y seguir de pie. La tripulación NO lo vio (inconsciente).
 - Tripulación · T813 · Ven a Facundo con la ropa empapada de sangre y un charco rojo; se despertaron sin heridas ni cansancio. Robin recuerda que Facundo la durmió con un toque. No saben lo del trato.
 - Tripulación · T814 · Por Facundo: Kuma "se fue, dijo que no quería nada". Lola NO contó el trato (lo guarda por decisión propia). Robin y Zoro sospechan que hubo algo más (no saben qué).
+- Brook · T815 · Por Luffy: Laboon sigue vivo en el Cabo Gemelo, esperando.
