@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T984)
-puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
-
-## RESPUESTA 1 (T984)
-
-> puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
-
-> —Puedo pedirle tres. Pero lo de los muertos, la edad y que sepan que murieron puede ser uno solo, bien pedido. Reconstruir, el segundo. Y el tercero... ¿hay algo más que quieran, que no se pueda hacer normalmente?
-
-La cocina se queda callada otra vez.
-
-Yuji y Nobara se miran. Después, al mismo tiempo, los dos miran a Nanami. A la manga doblada y sujeta con el alfiler.
-
-Nanami lo nota. Suspira por la nariz, largo, como quien ve venir una reunión que no quería tener.
-
-—No —dice, antes de que nadie abra la boca.
-
-—¡Pero Nanami-san...! —empieza Yuji.
-
-—No. —Nanami se acomoda los anteojos con la mano que le queda—. Un deseo que sirve para una sola persona, cuando podría servir para miles, es un mal uso de los recursos. Me acostumbré. Escribo con la derecha desde los cinco años. Se puede vivir con un brazo.
-
-—Escribes torcido —dice Nobara, cruzada de brazos.
-
-—Escribo torcido —admite Nanami—. Igual, no.
-
-Megumi deja los palillos sobre el plato. Ya se comió casi todo el huevo.
-
-—Las maldiciones —dice, despacio, mirando la mesa—. Nacen de lo que la gente siente. Miedo. Odio. Mientras haya gente, va a haber maldiciones. —Levanta la vista—. Podrías pedir que no existan más. Pero mañana nacerían otras. No sirve.
-
-—¿Y si pides que no puedan matar a nadie? —dice Yuji, entusiasmado de golpe—. ¡Que existan, pero que no puedan matar a la gente común! ¡Que solo puedan asustar!
-
-Megumi lo piensa. Nanami también. Se miran.
-
-—Los hechiceros nos quedaríamos sin trabajo —dice Nanami, muy serio.
-
-Pausa.
-
-—No sería tan malo —agrega.
-
-Nobara se ríe. Una carcajada corta, sorprendida.
-
-Después se pone seria, de golpe. Se da vuelta hacia ti, apoyada en la mesada, con la espátula todavía en la mano.
-
-—Yo tengo una —dice—. No sé si se puede. —Duda, cosa rara en ella—. En mi pueblo, en el campo, había una chica. Saori. Era la única que me trataba bien. Se fue a Tokio antes que yo, porque en el pueblo la trataban como basura. —Aprieta la espátula—. No murió por una maldición. Solo se fue y no supe más nada. —Se encoge de hombros, como si no importara, y se nota que importa—. Pero eso no es un deseo para todos. Es una tontería mía. Olvídalo.
-
-Se da vuelta hacia la sartén. Rompe otro huevo, con más fuerza de la necesaria.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 984 · JUJUTSU · 25/04/2019 · 07:16     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tercer deseo: ideas del grupo.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T985)
+## COMANDO 1 (T985)
 para eso no es necesario un deseo, me dices mas o menos como es ella?
 
-## RESPUESTA 2 (T985)
+## RESPUESTA 1 (T985)
 
 > para eso no es necesario un deseo, me dices mas o menos como es ella?
 
@@ -114,10 +51,10 @@ Después te mira. Y por primera vez en toda la mañana no tiene cara de enojada,
 
 ---
 
-## COMANDO 3 (T986)
+## COMANDO 2 (T986)
 busco a saori
 
-## RESPUESTA 3 (T986)
+## RESPUESTA 2 (T986)
 
 > busco a saori
 
@@ -166,4 +103,68 @@ Y Nobara, parada frente a ti, con los brazos cruzados tan fuerte que tiene los n
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:21, cocina. Facundo encontró a Saori Fujinuma en un departamento de Setagaya (sana, 21, trabaja en una tienda de ropa; tiene en la heladera una foto vieja con Nobara de chica). Abrió los ojos; Nobara espera sin respirar. Facundo puede contarle/actuar.
+## COMANDO 3 (T987)
+los agarro a los 4 y me teletransporto a fuera de su puerta para que nobara pueda tocar su puerta
+
+## RESPUESTA 3 (T987)
+
+> los agarro a los 4 y me teletransporto a fuera de su puerta para que nobara pueda tocar su puerta
+
+No dices nada. Te levantas de la mesa.
+
+Le pones una mano en el hombro a Nobara, que da un respingo. Con la otra, agarras a Yuji de la manga. Yuji, por reflejo, agarra a Megumi del brazo. Megumi mira a Nanami. Nanami suspira, deja la taza sobre la mesa, se levanta y le apoya la mano en el hombro a Megumi, como quien acepta una reunión que no estaba en la agenda.
+
+Kase salta de la mesa a tu hombro.
+
+—Espera —dice Nobara—. Espera, espera, ¿qué...?
+
+Dos dedos en la frente.
+
+La cocina desaparece.
+
+Aparecen en un pasillo exterior, angosto, de cemento, en el segundo piso de un edificio chico. Una baranda de metal pintada de verde. Macetas con geranios en fila contra la pared. Abajo, una calle residencial de Setagaya, tranquila, con bicicletas estacionadas y un señor que pasea a un perro. Huele a café ajeno y a lluvia de la noche anterior. Lejos, pasa un tren.
+
+Delante de ustedes, una puerta gris con un número: 203. Al lado, una placa chica, escrita a mano con marcador: Fujinuma.
+
+Del otro lado se oye, apagada, una radio. Alguien que tararea.
+
+Nobara se queda mirando la placa.
+
+Después se mira a sí misma. El pijama de rayas. La campera de la escuela encima. Los pies descalzos, todavía sucios de los pétalos de la escalinata.
+
+—Estoy en pijama —susurra, horrorizada—. Estoy descalza. Estoy... —Se da vuelta hacia ti, furiosa, en voz baja—. ¡¿Por qué no me avisaste?! ¡No me peiné! ¡No me...!
+
+Se calla de golpe.
+
+Del otro lado de la puerta, la radio cambia de canción. El tarareo sigue.
+
+Nobara se queda quieta. Se le va todo el enojo de la cara, de golpe, como si se lo hubieran borrado. Mira la puerta. Levanta el puño. Lo deja en el aire, a un centímetro de la madera.
+
+No toca.
+
+Le tiembla la mano.
+
+Yuji, detrás de ella, no dice nada. Le apoya una mano en la espalda. Megumi se queda contra la baranda, mirando para otro lado para darle espacio. Nanami se acomoda la manga vacía, en silencio.
+
+Nobara sigue con el puño en el aire.
+
+—¿Y si no se acuerda de mí? —dice, sin darse vuelta, casi sin voz.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 987 · JUJUTSU · 25/04/2019 · 07:23     ║
+║ Setagaya · puerta 203, departamento de Saori ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Nobara frente a la puerta de       ║
+║ Saori. "¿Y si no se acuerda de mí?"          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:23, pasillo exterior frente a la puerta 203 de Saori en Setagaya. Facundo llevó a Nobara, Yuji, Megumi y Nanami. Nobara, en pijama y descalza, tiene el puño en el aire frente a la puerta y no se anima: "¿Y si no se acuerda de mí?" Adentro, Saori tararea con la radio. Facundo puede responder.

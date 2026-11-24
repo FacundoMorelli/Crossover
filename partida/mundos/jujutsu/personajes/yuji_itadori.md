@@ -110,3 +110,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T982 · No quiere que Junpei recuerde cómo lo deformó Mahito.
 - T983 · Le hace huevos a Megumi y lo mira comer. "Volver y que tu casa no esté es como volver a morir un poco."
 - T984 · Propone que las maldiciones existan pero no puedan matar a la gente común.
+- T987 · Le pone la mano en la espalda a Nobara frente a la puerta de Saori.

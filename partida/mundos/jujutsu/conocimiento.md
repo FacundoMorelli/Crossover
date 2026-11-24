@@ -100,3 +100,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Facundo · T985 · Por Nobara: descripción de Saori Fujinuma.
 - Nobara, Yuji, Megumi, Nanami · T985 · Por Facundo: puede encontrar a alguien sin un deseo.
 - Facundo · T986 · Vio a Saori a distancia: Setagaya, sana, trabaja en una tienda de ropa, guarda una foto con Nobara.
+- Nobara, Yuji, Megumi, Nanami · T987 · Teletransportados por Facundo a Setagaya, a la puerta de Saori (Facundo sabía exactamente dónde estaba).
