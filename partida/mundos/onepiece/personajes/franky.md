@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: por su gente (aura plateada, esquivó a quince).
 ESTADO: activo
 - T724 · Strong Right y Fresh Fire contra Facundo: nada. Llora: "¡¡¡QUÉ HOMBRE MÁS SUPER!!!"
 - T726 · "Ese idiota sigue cuidándome." "Lo que guardo no lo van a tener nunca." "¿Quiénes son esos del CP9?"
+- T727 · Furioso al saber quiénes son. "¡Voy ahora mismo a romperles la cara!"

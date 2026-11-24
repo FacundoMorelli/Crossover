@@ -725,3 +725,4 @@ T723 · One Piece · Water 7 · Simula hasta la mañana. Iceburg "no vio caras".
 T724 · One Piece · muelle · Deja que Franky le pegue. Nada. Franky llora de admiración. Mozu confiesa que se pegaron solas.
 T725 · One Piece · muelle · "Franky, hay algo que tienes que saber."
 T726 · One Piece · muelle · Le avisa a Franky del CP9 y los planos. Franky pregunta quiénes son.
+T727 · One Piece · muelle · Le dice a Franky quiénes son. Franky quiere ir a pegarles ya.
