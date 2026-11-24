@@ -8,6 +8,7 @@
 - NICO ROBIN · T778 · Por Facundo: se va de este mundo en unos diez días; el primero fue un mundo de hechiceros y maldiciones. Vio en la cámara el video de Eren (15) frente a su casa en ruinas, con la muralla detrás: "el mundo de los titanes".
 - NICO ROBIN · T780 · Vio la foto de Black Clover (robles, castillo torcido, cielo rosado) y el grimorio de Facundo flotando: "un mundo de magos con libros".
 - NICO ROBIN · T781 · Por Facundo: en ese mundo hay un Rey Mago.
+- NICO ROBIN · T782 · Por Facundo: estuvo en un mundo de razas con transformaciones, "todos muy fuertes"; de ahí sacó sus transformaciones. Vio en persona el pelo dorado (Super Saiyajin) y el aura plateada (Ultra Instinto, "la que esquiva todo").
 - Dos gyojin de Arlong (cobradores) · T346 · Vieron a Facundo en persona: humano forastero, pelo blanco y azul, tatuajes, gato grande. Les preguntó dónde estaba (no es de la isla).
 - Kaneshiro y el gyojin de boca de pez · T347 · Facundo pagó 150.000 berries en efectivo y tiene más (vieron el fajo de 90.000). Anotado en la lista como "forastero del gato". Lo contarán en Arlong Park.
 - Kaneshiro y el de boca de pez · T348 · Facundo pagó también la deuda del viejo Ito y les dio 60.000 "por la molestia". Van a contarlo en Arlong Park ("Arlong-sama va a querer conocerte").
