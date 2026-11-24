@@ -1,11 +1,11 @@
 {
-  "turno": 751,
+  "turno": 752,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 36 (Grand Line, Enies Lobby)",
   "hora": "07:06",
   "edad": 18,
   "nivel": 26,
-  "exp": 211640,
+  "exp": 212440,
   "exp_siguiente_nivel": 215000,
   "fragmentos": 134022,
   "plata_local": {
@@ -723,6 +723,19 @@
         "Sin la debilidad del mar",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Neko Neko no Mi modelo Leopardo + Rokushiki (poder de Rob Lucci)",
+      "de": "Rob Lucci",
+      "mundo": "onepiece",
+      "cuando": "T752 (recibió el Rokuōgan de frente en el pasaje subterráneo de Enies Lobby y siguió de pie)",
+      "incluye": [
+        "Forma híbrida y forma completa de leopardo, con fuerza, velocidad y sentidos de Zoan",
+        "Rokushiki completo: Tekkai, Soru, Geppo, Shigan, Rankyaku, Kami-e, y el ougi Rokuōgan",
+        "Todo lo que Lucci llega a hacer (incluido el Despertar y el Haki que use más adelante en el canon)",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -984,13 +997,6 @@
       "mision": "Entrar por una de las puertas de Blueno y salir por la que tú elijas.",
       "dificultad": "BAJA",
       "emitida": "T735"
-    },
-    {
-      "poder": "Rob Lucci: Neko Neko no Mi modelo Leopardo + Rokushiki completo",
-      "mundo": "onepiece",
-      "mision": "Recibir el Rokuōgan de Lucci de frente y seguir de pie.",
-      "dificultad": "MEDIA",
-      "emitida": "T751"
     }
   ],
   "misiones_de_copia_rechazadas": [],

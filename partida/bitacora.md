@@ -750,3 +750,4 @@ T748 · One Piece · Torre de la Justicia · Facundo y Luffy van tras Lucci. La 
 T749 · One Piece · Torre, sótano · Luffy estrena el Gear Second y noquea a Blueno. Sale corriendo por el pasaje.
 T750 · One Piece · Pasaje subterráneo · Lucci les corta el paso. Spandam sigue con Robin.
 T751 · One Piece · Pasaje subterráneo · Luffy contra Lucci; Lucci en forma híbrida. Misión de copia de Lucci. Lucci se lanza sobre Facundo con el Rokuōgan.
+T752 · One Piece · Pasaje subterráneo · Recibe el Rokuōgan de frente y sigue de pie. COPIA Lucci (+800 EXP). Lucci retrocede.
