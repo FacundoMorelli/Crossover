@@ -924,3 +924,4 @@ T922 · One Piece · Tequila Wolf · Le cuenta lo de Ace y Marineford. Semilla d
 T923 · One Piece · Tequila Wolf · Robin avisada (8/8). "¿Qué quería Kuma que aprendiera aquí?" Luffy: "¡Robin puede venir con nosotros!"
 T924 · One Piece · Tequila Wolf · Siente un barco revolucionario acercándose. Robin acepta ir con ellos. "¿Me vas a venir a ver?"
 T925 · One Piece · Tequila Wolf · "Sí, amor." Robin: "Te voy a esperar." Llega el barco revolucionario.
+T926 · One Piece · Tequila Wolf · Luffy: "Primero nos quedamos." Llegan los revolucionarios: "Venimos por usted. Parece que alguien llegó antes."

@@ -176,3 +176,4 @@
 - Día 57 13:50-17:20 · (T918) Facundo y Luffy visitan por teletransporte a Nami (Weatheria), Usopp (Boin), Sanji (Momoiro/Kamabakka), Chopper (Torino), Franky (Karakuri), Brook (Namakura): todos aceptan dos años de entrenamiento y reunión en Sabaody (canon: se enteraban por el mensaje 3D2Y del diario). 17:20: llegan a Tequila Wolf, donde Robin está presa.
 - Día 57 17:23 · (T920) Facundo libera a Robin y rompe las cadenas de todos los presos de Tequila Wolf (canon: el Ejército Revolucionario liberaba a Robin y a los esclavos más tarde).
 - Día 57 17:31 · (T924) Un barco del Ejército Revolucionario se acerca a Tequila Wolf (canon: venían a buscar a Robin).
+- Día 57 17:44 · (T926) El Ejército Revolucionario llega a Tequila Wolf por Robin; encuentran a los presos ya libres.

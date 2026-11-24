@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T923)
-estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
-
-## RESPUESTA 1 (T923)
-
-> estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
-
-> —Están bien. Cada uno está en una isla. Kuma los mandó a islas donde pueden mejorar: a Zoro lo mandó a la isla de Mihawk. Así que la idea es que estén dos años mejorando sus habilidades y que después volvamos a vernos todos en Sabaody.
-
-Robin cierra los ojos un segundo. Se le aflojan los hombros entre tus manos, despacio, como si soltara algo que tenía agarrado desde el archipiélago.
-
-—Están bien —repite, muy bajo—. Todos.
-
-Después abre los ojos, y ya está pensando. Lo ves en la cara: la misma expresión que pone delante de un poneglyph.
-
-—Kuma. —Frunce apenas el ceño—. No los dispersó al azar, entonces. Los mandó a cada uno a donde podía crecer. Zoro con el mejor espadachín del mundo... —Se queda callada un momento—. Ese hombre nunca hizo nada sin una razón. Ni siquiera en Thriller Bark.
-
-Te mira el pecho, donde recibiste el dolor de todos aquella noche en Thriller Bark. No dice nada de eso. Solo apoya la palma ahí, un segundo.
-
-—Dos años. —Lo prueba en la boca—. Dos años sin el barco. Sin la tripulación.
-
-Mira alrededor. El puente infinito. El mar gris. Los presos que ya empiezan a organizarse en grupos, a hablar en voz alta, a mirar hacia el horizonte buscando una salida que no hay.
-
-Se le escapa una risa corta, sin alegría.
-
-—Pero si Kuma los mandó a cada uno a donde podían crecer... —Te mira, con una ceja levantada—. ¿Qué crees que quería que yo aprendiera aquí? ¿A cargar piedras?
-
-Luffy, que está sentado en la baranda del puente con las piernas colgando hacia el mar, se da vuelta.
-
-—¡Robin puede venir con nosotros!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 923 · ONE PIECE · DÍA 57 · 17:29       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el piso, a tu lado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisados 8/8. ¿Dónde entrena       ║
-║ Robin? Shingeki: antes del D59 16:30.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T924)
+## COMANDO 1 (T924)
 no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
 
-## RESPUESTA 2 (T924)
+## RESPUESTA 1 (T924)
 
 > no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
 
@@ -107,10 +59,10 @@ Robin le acaricia la cabeza al gato con un dedo. Después te mira a ti, y la voz
 
 ---
 
-## COMANDO 3 (T925)
+## COMANDO 2 (T925)
 si amor
 
-## RESPUESTA 3 (T925)
+## RESPUESTA 2 (T925)
 
 > si amor
 
@@ -165,4 +117,62 @@ No se separa de ti.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:38, Tequila Wolf. Facundo le prometió a Robin ir a verla ("Sí, amor"). Ella lo va a esperar. Luffy lo escuchó (Robin lo amenazó para que no se lo cuente a Nami). El barco revolucionario llega al puente; una figura en la proa levanta un brazo. Robin sigue abrazada a Facundo. Facundo puede actuar.
+## COMANDO 3 (T926)
+bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
+
+## RESPUESTA 3 (T926)
+
+> bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
+
+> —Bueno, capitán. ¿Nos quedamos aquí cuando lleguen, o quieres ir con Rayleigh?
+
+Luffy se baja de la baranda de un salto. Se queda pensando, con los brazos cruzados y la cara toda arrugada, mirando el barco que se acerca.
+
+—¿Rayleigh? ¿El viejo de Sabaody? —Se le ilumina la cara—. ¡El que sabía eso del Haki!
+
+Después mira a Robin, todavía abrazada a ti. Y se pone serio.
+
+—No. Primero nos quedamos. —Se acomoda el sombrero—. Quiero ver que Robin se va con gente buena. Si son malos, les pego. —Lo dice muy convencido—. Después vamos con Rayleigh.
+
+Robin se ríe contra tu hombro, bajito.
+
+—Gracias, capitán.
+
+El barco llega.
+
+Frena de costado contra el puente, con un crujido de madera contra piedra, y antes de que terminen de tirar las amarras ya está bajando gente. Una docena, rápido, con orden: hombres y mujeres con ropa de viaje, capas oscuras, armas en la mano pero apuntando al suelo. Se reparten por el puente sin hablar, rodeando a los guardias rendidos, mirando a los presos liberados con caras de no entender lo que ven.
+
+Uno de ellos levanta un trozo de cadena rota del suelo. Lo mira. Mira a los cientos de presos sin grilletes. Mira a su compañero.
+
+—¿Quién hizo esto?
+
+Nadie le contesta.
+
+Desde la proa baja el último. Es un hombre de unos cuarenta años, alto, de barba corta, con una capa verde oscura y una cicatriz que le cruza el mentón. Camina por el puente sin apuro, mirándolo todo, hasta que los ve a ustedes tres.
+
+Se detiene a diez metros.
+
+Mira a Robin. La reconoce: se le nota en la cara. Después mira a Luffy y abre un poco los ojos al ver el sombrero de paja. Después te mira a ti: el pelo blanco y azul, los ojos de dos colores, el gato en el hombro.
+
+Se queda mirándote un segundo más que a los otros dos.
+
+—Nico Robin. —Lo dice con voz grave, tranquila—. Venimos por usted, por orden de nuestro comandante. —Hace una pausa—. Aunque parece que alguien llegó antes que nosotros.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 926 · ONE PIECE · DÍA 57 · 17:44       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Robin, con los revolucionarios.    ║
+║ Después, Rayleigh. Shingeki: D59.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:44, Tequila Wolf. Luffy decidió quedarse a ver que Robin se va con gente buena y después ir con Rayleigh. Llegaron los revolucionarios; su jefe (sin nombre) le dice a Robin que vienen por ella por orden de su comandante, "aunque parece que alguien llegó antes". Facundo puede actuar.

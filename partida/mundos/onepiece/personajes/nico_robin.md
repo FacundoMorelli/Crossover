@@ -92,3 +92,4 @@ ESTADO: activa
 - T923 · Por Facundo: todos bien, cada uno en una isla elegida por Kuma (Zoro en la de Mihawk); dos años y Sabaody. Deduce que Kuma eligió a propósito. "¿Qué quería que yo aprendiera aquí? ¿A cargar piedras?"
 - T924 · Por Facundo: vienen revolucionarios; Kuma la mandó ahí para que se vaya con ellos. Acepta. "¿Me vas a venir a ver?"
 - T925 · Facundo promete ir a verla: "Sí, amor" (delante de Luffy). "Entonces te voy a esperar." Amenaza a Luffy: "Si se lo cuentas a Nami, te voy a hacer brotar manos en lugares que no te van a gustar."
+- T926 · "Gracias, capitán." Llegan los revolucionarios por ella.
