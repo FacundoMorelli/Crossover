@@ -91,3 +91,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Gojo sellado en el Reino de la Prisión (cubo) que Kenjaku se llevó: Nanami se lo dijo (T72); Facundo vio el cubo (T35-T40).
 - Sukuna en Yuji: lo vio (marcas desapareciendo, T5) y Yuji se lo confirmó (T47).
 - Yuji, Nobara · T976 · Por Facundo: en un año revivirá a los muertos por Sukuna y las demás maldiciones.
+- Yuji, Nobara, Megumi · T977 · Por Facundo: lo que usará se recarga una vez por año. Megumi oyó la promesa.

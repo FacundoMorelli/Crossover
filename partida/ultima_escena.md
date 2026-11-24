@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T974)
-combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
-
-## RESPUESTA 1 (T974)
-
-> combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
-
-> —Combustible. Ustedes van a tener que averiguar de dónde sacarlo. Seguramente de las minas. Esto lo dejo aquí. Ahora me despido. Mándenles saludos a todos los que no están aquí.
-
-—¡Combustible! —Hange se pone de pie de un salto, con los anteojos torcidos—. ¡Las minas! ¡Moblit, las minas del norte, el aceite negro que sale de las grietas y nadie sabe para qué sirve! ¡Moblit!
-
-Moblit ya está anotando.
-
-Erwin da un paso atrás. Se lleva el puño derecho al pecho, sobre el corazón, y se pone firme. Levi lo imita, sin decir nada. Hange, con la radio otra vez bajo el brazo, también. Moblit. Historia, con la capa blanca, se lleva la mano al pecho igual que ellos.
-
-El saludo de la Legión. Para ti.
-
-Ymir no saluda. Se queda apoyada contra la pared del patio, con los brazos cruzados y la manta colgando de un hombro, mirándote. Levanta la barbilla, apenas. Es todo.
-
-Levantas la mano.
-
-La puerta se abre en el medio del patio, al lado de la moto, recta y alta. Del otro lado se ve un portón de madera antiguo, tejados curvos de templo, árboles con flores rosadas y un cielo de primavera.
-
-Kase se te acomoda en el hombro.
-
-Cruzas.
-
-El aire cambia: tibio, húmedo, con olor a tierra mojada, a cedro y a flores. Se oyen pájaros. Lejos, un tren. Y debajo de todo, ese zumbido que ya conoces, constante y espeso, de un lugar donde hay mucha energía maldita junta.
-
-Estás frente al portón principal de la Escuela Técnica de Hechicería de Tokio, exactamente donde te despediste. Los escalones de piedra suben entre los árboles. Los cerezos están terminando de florecer: el camino está alfombrado de pétalos rosados, y caen más con cada ráfaga de viento.
-
-Es temprano. El sol todavía está bajo, entre los cedros.
-
-Alguien baja corriendo por los escalones. Ropa deportiva, auriculares en el cuello, pelo rosado, la cara colorada por el trote de la mañana. Viene contando los escalones en voz baja, a los saltos, de dos en dos.
-
-Levanta la vista.
-
-Se frena en seco, con un pie en el aire, en el escalón catorce.
-
-Se le caen los auriculares del cuello.
-
-—¿...Facundo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 974 · JUJUTSU · 25/04/2019 · 06:40     ║
-║ Escuela de Hechicería de Tokio · el portón   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: De vuelta en Jujutsu, casi tres    ║
-║ meses después.                               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T975)
+## COMANDO 1 (T975)
 hola itadori, tengo una sorpresa para ti
 
-## RESPUESTA 2 (T975)
+## RESPUESTA 1 (T975)
 
 > hola itadori, tengo una sorpresa para ti
 
@@ -113,10 +53,10 @@ Se le cae la taza.
 
 ---
 
-## COMANDO 3 (T976)
+## COMANDO 2 (T976)
 estan los dos perfecto, en 1 año, voy a revivir a los que murieron por sukuna y demas maldiciones
 
-## RESPUESTA 3 (T976)
+## RESPUESTA 2 (T976)
 
 > estan los dos perfecto, en 1 año, voy a revivir a los que murieron por sukuna y demas maldiciones
 
@@ -167,4 +107,61 @@ Yuji levanta la vista. Tiene los ojos llenos, rojos, y una cosa en la cara que n
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:44, escalinata del portón. Facundo prometió que en un año va a revivir a los muertos por Sukuna y las maldiciones. Yuji (Shibuya, Junpei) y Nobara (Gojo, Tsumiki) conmocionados. Yuji pregunta por qué en un año y no ahora. Facundo puede responder.
+## COMANDO 3 (T977)
+por que no puedo, la cosa que voy a usar para hacerlo se recarga cada un año, me encantaria poder hacerlo ahora, pero crean en mi, en 1 año, todos van a estar de vuelta
+
+## RESPUESTA 3 (T977)
+
+> por que no puedo, la cosa que voy a usar para hacerlo se recarga cada un año, me encantaria poder hacerlo ahora, pero crean en mi, en 1 año, todos van a estar de vuelta
+
+> —Porque no puedo. Lo que voy a usar para hacerlo se recarga una vez por año. Me encantaría poder hacerlo ahora. Pero crean en mí: en un año, todos van a estar de vuelta.
+
+Yuji se te queda mirando.
+
+Después se tapa la cara con el antebrazo, rápido, como un chico que no quiere que lo vean. Le tiemblan los hombros. No hace ruido.
+
+—Te creo —dice, por debajo del brazo, con la voz hecha pedazos—. Te creo. Te tragaste el dedo de Sukuna como si fuera un caramelo. Te creo.
+
+Se baja el brazo. Tiene la cara roja y mojada, y se está riendo.
+
+Nobara no llora. Te mira con los ojos entrecerrados, los brazos cruzados, la mandíbula apretada, durante un largo rato, como si te estuviera pesando en una balanza.
+
+—Un año —dice al fin—. Lo anoto. —Se le quiebra apenas la voz en la última palabra—. Y si dentro de un año no aparece Gojo-sensei quejándose de que el dulce de la escuela es malo, te voy a clavar un clavo en el pie. Uno grande.
+
+Se le escapa una lágrima. Se la seca con el puño de la campera, enojada consigo misma.
+
+Kase le pasa la cola por la cara desde tu hombro. Nobara lo aparta, pero no muy fuerte.
+
+—Hay que decírselo a Fushiguro —dice Yuji, de golpe, sorbiéndose la nariz. Se da vuelta hacia la escalinata—. ¡Hay que decírselo ya! Está...
+
+Se detiene.
+
+Arriba de todo, junto a los pedazos de la taza de Nobara, en el borde del portón, hay alguien parado.
+
+Pelo negro de punta, despeinado de dormir. Una remera vieja, gris, que le queda grande. Más flaco de lo que debería. Ojeras hondas, oscuras, de muchas noches sin dormir. Las manos colgando a los costados del cuerpo.
+
+Megumi.
+
+No se sabe cuánto lleva ahí. No se mueve. Te mira desde arriba de la escalinata, con la cara completamente quieta, como de piedra.
+
+Pero tiene los ojos abiertos de par en par.
+
+—¿Tsumiki también? —dice. Tan bajo que casi no se oye—. ¿También ella?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 977 · JUJUTSU · 25/04/2019 · 06:46     ║
+║ Escuela de Hechicería de Tokio · el portón   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Megumi pregunta por Tsumiki.       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:46, escalinata del portón. Facundo explicó que lo que usa se recarga una vez por año. Yuji le cree; Nobara lo anota (amenaza de clavo). Megumi, arriba en el portón, oyó todo y pregunta si Tsumiki también volverá. Facundo puede responder.

@@ -50,3 +50,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T293 · "...Gracias." (por el dedo)
 - T294 · 25/01-01/02 · Entrena, sale, come. En la despedida le pide que vuelva.
 - DIÁLOGO T294: "Vuelve." (Solo eso. Lo mira a los ojos al decirlo.)
+- T977 · 25/04/2019 · Flaco, con ojeras, arriba del portón; oyó la promesa: "¿Tsumiki también? ¿También ella?"

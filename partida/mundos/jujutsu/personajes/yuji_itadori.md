@@ -102,3 +102,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T974 · 25/04/2019 06:40 · Trotando por los escalones del portón; ve a Facundo, se le caen los auriculares: "¿...Facundo?"
 - T975 · Abraza a Facundo: "¡Volviste! ¡Casi tres meses! ¿Dónde estabas?" "¿Una sorpresa? ¿Es comida? Megumi cocina horrible y Nobara no quiere cocinar."
 - T976 · Por Facundo: en un año revivirá a los muertos por Sukuna y las maldiciones. "Shibuya. Con mis manos." "Junpei." "¿Por qué en un año? ¿Por qué no ahora?"
+- T977 · "Te creo. Te tragaste el dedo de Sukuna como si fuera un caramelo." "¡Hay que decírselo a Fushiguro!"
