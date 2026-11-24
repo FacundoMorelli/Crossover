@@ -125,3 +125,4 @@
 - Día 36 07:09 · (T756) Robin libre de las esposas en el puente (canon: Franky la liberaba con la llave n.º 5, más tarde). Primera andanada del Buster Call sobre la isla (canon).
 - Día 36 07:10 · (T757) Chopper libera a Franky, que pelea con Fukurou (canon). Zoro queda esposado a Usopp (canon: a Sogeking) y pelea con Kaku. Sanji vs Jabra, Nami vs Kalifa, Chopper vs Kumadori (cambio: en canon Usopp/Sogeking vs Kumadori). Marines de la isla evacuando.
 - Día 36 07:11 · (T758) Facundo desvía al mar la andanada contra el sexto piso. Onigumo (vicealmirante, Buster Call) ordena concentrar fuego sobre él.
+- Día 36 07:12 · (T759) Facundo saca de combate a tres acorazados del Buster Call con la Shio Shio no Mi (uno trabado en el borde de la cascada). Onigumo ordena desembarcar a los vicealmirantes (canon: desembarcaban igual).

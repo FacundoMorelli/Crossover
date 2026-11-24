@@ -174,3 +174,4 @@
 - Spandam, Robin, marines de las Puertas de la Justicia · T755 · Ven a Facundo usar Soru (técnica del CP9). Spandam lo reconoce como Rokushiki.
 - Spandam, marines de las Puertas · T756 · Ven a Facundo romper con las manos esposas de piedra marina y besar a Nico Robin.
 - Zoro, Usopp, Kaku (por el ventanal); tripulaciones de los acorazados del Buster Call; vicealmirante Onigumo (catalejo) · T758 · Ven a Facundo volar con Robin y frenar balas de cañón en el aire. Lo informarán.
+- Tripulaciones de los acorazados, vicealmirantes del Buster Call · T759 · Ven a Facundo levantar olas y un remolino desde el aire (controla el mar: lo atribuyen a una fruta).
