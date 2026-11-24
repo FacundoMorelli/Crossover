@@ -48,3 +48,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T957 · Pierde el Mandíbula. Se muerde el pulgar: la sangre no humea. "Lindo... me puedo cortar."
 - T966 · Llega a caballo; busca a Facundo con los ojos y se queda junto al caballo mirándolo.
 - T967 · Le agarra la mano a Facundo, dedos entrelazados, delante de los Jaeger.
+- T968 · Duerme con Facundo en la casa Jaeger; de noche se mira la mano.

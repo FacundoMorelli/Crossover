@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: despierta, sin titán, en el sótano de la iglesia de Mitras.
+- T968 · En una habitación del palacio de Mitras bajo guardia. Armin le cuenta; llora mirando la ventana.

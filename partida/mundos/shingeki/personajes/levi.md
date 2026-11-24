@@ -29,3 +29,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T951 · A Hange: "No intenten entender. ¿Oíste?"
 - T956 · Mano en la empuñadura ante el dragón; no la saca.
 - T958 · Mira al oeste con la cara de piedra, los puños cerrados.
+- T968 · Vuelve con su escuadra revivida, Farlan e Isabel; se le oye reír por primera vez.

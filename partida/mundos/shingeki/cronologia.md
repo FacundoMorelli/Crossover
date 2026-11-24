@@ -115,3 +115,5 @@
 - Día 63 05:08 · (T959) Primer amanecer sin titanes.
 - Día 63 05:20 · (T960) Facundo lleva a Eren, Mikasa y Armin a Shiganshina. Reencuentro con Carla Jaeger; Grisha Jaeger también revivido en su casa.
 - Día 63 05:42 · (T967) Historia fija un anuncio público de la verdad para el día 66 en la plaza de Shiganshina.
+- Días 63-66 · (T968) Reencuentros: Levi con su escuadra (Petra, Oluo, Eld, Gunther), Farlan e Isabel; Jean con Marco; Hannes con los Jaeger; Historia con Frieda Reiss. Frieda y Grisha se reconocen sin hablar. Armin visita a Annie (Mitras). Carta de Magath: Marcel Galliard vivo en Liberio.
+- Día 66 12:00-13:05 · (T968) Anuncio de Historia en la plaza de Shiganshina: la verdad entera. Llama a Facundo al balcón.
