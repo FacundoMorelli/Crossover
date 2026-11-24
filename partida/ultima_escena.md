@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T972)
-si no la reconozco significa que hicimos las cosas bien, antes de irme les voy a dejar unas cosas a hange para que puedan descubrir como hacerlas
-
-## RESPUESTA 1 (T972)
-
-> si no la reconozco significa que hicimos las cosas bien, antes de irme les voy a dejar unas cosas a hange para que puedan descubrir como hacerlas
-
-> —Si no la reconozco, significa que hicimos las cosas bien.
-
-Erwin se ríe. Una risa corta, por la nariz, que le sorprende más a él que a nadie. Mantiene la mano extendida.
-
-> —Antes de irme, les voy a dejar unas cosas a Hange para que puedan descubrir cómo hacerlas.
-
-Hange deja de saltar.
-
-Se da vuelta hacia ti tan rápido que se le resbalan los anteojos hasta la punta de la nariz.
-
-—¿Cosas? —Se los acomoda—. ¿Qué cosas? ¿Para mí? ¿Para descubrir cómo se hacen?
-
-Abres la tienda con un pensamiento y eliges, rápido, de lo más común que tiene. Después lo sacas del inventario, una cosa por vez, y lo vas dejando sobre la mesita del balcón, donde Historia dejó sus papeles del discurso.
-
-Una linterna de metal, que se enciende con un botón, sin fuego ni aceite, y tira un haz de luz blanca que se ve a pleno día.
-
-Una radio chica, de manivela, que, cuando le das vueltas, escupe un ruido de estática.
-
-Un reloj de pulsera, de agujas, que hace tictac.
-
-Una caja de vidrio con frascos de un polvo blanco y un papel doblado adentro, que dice, en letras que todos en el balcón pueden leer, para qué sirve: contra las infecciones.
-
-Un libro grueso de medicina básica, con dibujos.
-
-Y una bolsa de tela con semillas: papas, trigo, maíz, de esas que crecen en tierras más frías.
-
-Hange se queda quieta frente a la mesa. No toca nada. Mira la linterna como si fuera un animal vivo que puede escaparse.
-
-Después agarra la radio. Le da una vuelta a la manivela. La estática chisporrotea en el balcón. Hange da un grito, sin palabras, y se la aprieta contra el pecho.
-
-—¡Moblit! —grita—. ¡Moblit, mira! ¡Hace ruido! ¡Hace ruido sin...! ¿Cómo hace ruido? ¡¿Facundo, cómo...?!
-
-—Hange —dice Levi.
-
-Hange cierra la boca. Te mira, con los ojos enormes detrás de los anteojos, y la radio abrazada como un bebé. Le tiembla la barbilla.
-
-—No preguntar cómo —dice, con un hilo de voz—. Ya sé. Ya sé. —Se ríe, nerviosa, con los ojos mojados—. Lo voy a descubrir sola. Aunque me lleve diez años.
-
-Erwin baja la vista a la caja de frascos. Lee el papel. Se le borra la sonrisa, despacio, y se le pone la cara muy seria.
-
-—Contra las infecciones —repite, en voz baja. Levanta la vista hacia ti—. ¿Sabe cuántos soldados de la Legión murieron de una herida que no era mortal, en la cama, días después de volver de una expedición?
-
-No espera respuesta. Vuelve a extenderte la mano. Esta vez la sostiene más fuerte.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 972 · SHINGEKI · DÍA 66 · 13:20        ║
-║ Shiganshina · balcón del ayuntamiento        ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.575 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Regalos para Hange entregados.     ║
-║ Despedirse de Shingeki.                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T973)
+## COMANDO 1 (T973)
 le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
 
-## RESPUESTA 2 (T973)
+## RESPUESTA 1 (T973)
 
 > le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
 
@@ -128,10 +60,10 @@ Hange se acerca despacio, en puntas de pie, como quien se acerca a un caballo sa
 
 ---
 
-## COMANDO 3 (T974)
+## COMANDO 2 (T974)
 combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
 
-## RESPUESTA 3 (T974)
+## RESPUESTA 2 (T974)
 
 > combustible, ustedes tienen que saber de donde sacarlo, muy seguramente de las minas, esto lo dejo aqui, ahora me despido, mandenle saludos a todos los que no estan aqui, voy a jujutsu
 
@@ -188,4 +120,54 @@ Se le caen los auriculares del cuello.
 
 ---
 
-ESTADO AL CIERRE: JUJUTSU, 25/04/2019 06:40, portón de la escuela de Tokio. Facundo se despidió de Shingeki (saludo de la Legión) y cruzó. Yuji, trotando, lo ve desde el escalón catorce: "¿...Facundo?" Facundo puede actuar.
+## COMANDO 3 (T975)
+hola itadori, tengo una sorpresa para ti
+
+## RESPUESTA 3 (T975)
+
+> hola itadori, tengo una sorpresa para ti
+
+> —Hola, Itadori. Tengo una sorpresa para ti.
+
+Yuji baja los últimos catorce escalones en tres saltos. Aterriza delante de ti, levantando pétalos rosados del suelo, y se te tira encima con un abrazo que te saca el aire, con la ropa todavía húmeda del trote.
+
+—¡¡Facundo!! —Te suelta, te agarra de los hombros, te mira de arriba abajo—. ¡Volviste! ¡Dijiste que ibas a volver y volviste! ¡Casi tres meses, eh! ¡¿Dónde estabas?!
+
+Kase lo mira desde tu hombro, ofendido por el abrazo. Yuji le rasca la cabeza sin pedir permiso. Kase lo deja.
+
+—¡Hola, gato! ¡Tú también volviste!
+
+Después se da cuenta de lo que dijiste. Se queda quieto, con las manos todavía en tus hombros.
+
+—Espera. —Entrecierra los ojos—. ¿Una sorpresa? ¿Para mí?
+
+Mira tus manos. Están vacías. Mira detrás de ti, por si hay algo. Solo hay pétalos y escalones. Te vuelve a mirar, con una sonrisa enorme, de chico al que le prometieron un regalo.
+
+—¿Qué es? ¿Comida? ¿Es comida? —Se ríe—. Dime que es comida. Megumi cocina horrible y Nobara no quiere cocinar.
+
+Desde arriba de la escalinata, del otro lado del portón, se oye una voz de chica, aguda y molesta, gritando su apellido.
+
+—¡¡ITADORI!! ¡Te dije que trajeras pan de la tienda, no que...!
+
+Nobara aparece en lo alto de los escalones, en pijama y con una campera de la escuela encima, el pelo revuelto y una taza en la mano. Te ve.
+
+Se le cae la taza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 975 · JUJUTSU · 25/04/2019 · 06:42     ║
+║ Escuela de Hechicería de Tokio · el portón   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La sorpresa para Yuji. Nobara te   ║
+║ ve desde arriba.                             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:42, portón de la escuela. Yuji abrazó a Facundo y pregunta qué es la sorpresa (¿comida?). Nobara, en lo alto de la escalinata en pijama, lo ve y se le cae la taza. Facundo puede actuar.

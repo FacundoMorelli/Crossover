@@ -53,3 +53,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T293 · "¿Y los ojos? ¿Ya no te sangran?"
 - T294 · 01/02 · Despedida. Le pega en el brazo y lo abraza otra vez.
 - DIÁLOGO T294: "¡Y esta vez manda una postal, idiota!"
+- T975 · 25/04/2019 · En pijama y campera, en lo alto de la escalinata, le grita a Yuji por el pan; ve a Facundo y se le cae la taza.
