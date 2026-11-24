@@ -256,3 +256,4 @@
 - Robin · T922 · Por Facundo: arresto de Ace, rescate en Marineford, huida con la flota de Barbablanca. Por Luffy: Facundo dio semillas a Ace, Zoro y Barbablanca.
 - Robin · T923 · Por Facundo: los ocho bien, cada uno en una isla para mejorar elegida por Kuma; Zoro en la isla de Mihawk; dos años y Sabaody.
 - Robin, Luffy · T924 · Por Facundo: se acercan revolucionarios en barco; Kuma habría mandado a Robin ahí para que se fuera con ellos.
+- Luffy · T925 · Escucha a Facundo llamar "amor" a Robin; sabe que son pareja.

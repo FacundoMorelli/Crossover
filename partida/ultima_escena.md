@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T922)
-arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
-
-## RESPUESTA 1 (T922)
-
-> arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
-
-> —Arrestaron a Ace. Fuimos a Marineford, lo rescatamos y huimos con la flota de Barbablanca.
-
-Robin abre los ojos, grandes, y se queda quieta en tus brazos.
-
-—¿Marineford? —Mira a Luffy, después a ti—. ¿La guerra? ¿Fueron a la guerra de...?
-
-No termina la pregunta.
-
-Sacas una semilla del ermitaño, te la pones en la boca y la besas otra vez.
-
-Robin se queda rígida un segundo, sorprendida por la semilla que le pasa de tu boca a la suya. Después la entiende. Mastica, despacio, sin separarse.
-
-Lo sientes en las manos antes de verlo. La cintura que tienes agarrada se llena, se endurece. Las costillas se le pierden bajo la piel. El temblor de las piernas se le va de golpe. Cuando se separa de ti, tiene la cara distinta: la piel con color debajo del polvo, el labio partido cerrado, las ojeras borradas. Las muñecas, que estaban en carne viva, están lisas, sin una marca.
-
-Respira hondo. Una vez, larga, llenándose el pecho.
-
-Después se le escapa una risa corta, incrédula, y se tapa la boca con la mano.
-
-—Eso... —Se mira la muñeca. Se la toca—. Eso fue trampa.
-
-Luffy aplaude.
-
-—¡Las semillas de Facundo son lo máximo! ¡A Ace también le dio una! ¡Y a Zoro! ¡Y al viejo de bigote!
-
-Robin cruza los brazos. Debajo de su codo, sobre la piedra del puente, brotan dos manos de la nada, abren y cierran los dedos y vuelven a desaparecer. Sonríe, despacio, con esa satisfacción tranquila que tiene cuando algo funciona como debe.
-
-Después apoya la frente contra la tuya.
-
-—Rescataron a Ace en Marineford. Escaparon con Barbablanca. —Lo dice bajo, entre los dos—. Y después vinieron a buscarme a mí. —Le tiembla un poco la voz—. Pero eso no responde mi pregunta. Te pregunté por los otros, Facundo. Nami, Zoro, Chopper... ¿Dónde están? ¿Están bien?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 922 · ONE PIECE · DÍA 57 · 17:27       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el piso, a tu lado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a Robin (8/8). Bankai sobre ║
-║ la flota. Shingeki: antes del D59 16:30.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T923)
+## COMANDO 1 (T923)
 estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
 
-## RESPUESTA 2 (T923)
+## RESPUESTA 1 (T923)
 
 > estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
 
@@ -105,10 +51,10 @@ Luffy, que está sentado en la baranda del puente con las piernas colgando hacia
 
 ---
 
-## COMANDO 3 (T924)
+## COMANDO 2 (T924)
 no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
 
-## RESPUESTA 3 (T924)
+## RESPUESTA 2 (T924)
 
 > no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
 
@@ -161,4 +107,62 @@ Robin le acaricia la cabeza al gato con un dedo. Después te mira a ti, y la voz
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:31, Tequila Wolf. Un barco revolucionario se acerca (lejos, sin verse). Robin acepta irse con ellos dos años. Le pregunta a Facundo si la va a ir a ver. Facundo puede responder.
+## COMANDO 3 (T925)
+si amor
+
+## RESPUESTA 3 (T925)
+
+> si amor
+
+> —Sí, amor.
+
+Robin se queda mirándote.
+
+Ya se lo dijiste antes, a solas. Nunca delante de nadie. Lo notas porque se le sube el color a la cara de golpe, hasta las orejas, debajo del polvo, y porque por un segundo no sabe qué hacer con las manos que tiene apoyadas en tu pecho.
+
+Después se ríe. Bajito, con la boca cerrada, como si se le escapara sin permiso.
+
+—Amor —repite, bajito. Se le humedecen los ojos otra vez—. Está bien. Entonces te voy a esperar.
+
+Se apoya en ti. Te pasa los brazos por la cintura, por debajo del sobretodo, y esconde la cara en tu cuello. Kase se corre un poco en tu hombro para hacerle lugar y le apoya la cola encima del pelo.
+
+En la baranda, Luffy se tapa la boca con las dos manos, con los ojos enormes.
+
+—Shishishi... —Se ríe entre los dedos—. ¡Amor! ¡Facundo le dijo amor a Robin!
+
+Robin no levanta la cara de tu cuello.
+
+—Capitán —dice, con la voz amortiguada—. Si se lo cuentas a Nami, te voy a hacer brotar manos en lugares que no te van a gustar.
+
+Luffy cierra la boca de golpe. Se le pone la cara azul.
+
+Alrededor, el puente se va calmando. Los presos liberados se juntan en grupos cada vez más grandes, se reparten el agua de los guardias, ayudan a caminar a los que no pueden. Algunos los miran a ustedes tres desde lejos y se señalan entre ellos. Nadie se acerca.
+
+Y en el horizonte, donde antes no había nada, aparece una vela.
+
+Un barco mediano, oscuro, sin bandera pirata y sin la gaviota de la Marina. Viene directo hacia el puente, rápido, cortando el agua gris. Mientras se acerca, se le ven siluetas en la cubierta: muchas, de pie, mirando hacia Tequila Wolf con catalejos.
+
+En la proa, una figura se sube a la baranda y levanta un brazo.
+
+Robin levanta la cabeza de tu cuello. Mira el barco por encima de tu hombro.
+
+No se separa de ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 925 · ONE PIECE · DÍA 57 · 17:38       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Llega el barco revolucionario.     ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:38, Tequila Wolf. Facundo le prometió a Robin ir a verla ("Sí, amor"). Ella lo va a esperar. Luffy lo escuchó (Robin lo amenazó para que no se lo cuente a Nami). El barco revolucionario llega al puente; una figura en la proa levanta un brazo. Robin sigue abrazada a Facundo. Facundo puede actuar.

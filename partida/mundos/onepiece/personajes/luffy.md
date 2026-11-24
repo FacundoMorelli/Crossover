@@ -51,3 +51,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T920 · "¡Déjamelo a mí!" Noquea a guardias de Tequila Wolf; lo reconocen como Sombrero de Paja.
 - T921 · "¿Terminaron? Tengo hambre." "¡Hola, Robin! ¡Qué bueno que estás bien!"
 - T923 · "¡Robin puede venir con nosotros!"
+- T925 · "¡Facundo le dijo amor a Robin!" Robin lo amenaza; se calla.
