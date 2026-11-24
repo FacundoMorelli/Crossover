@@ -47,3 +47,4 @@ ENCUENTROS:
 - T963 · Frente a Grisha, tiembla sin poder contestar.
 - T964 · Facundo lo cubre ante Grisha. Se afloja, lo mira agradecido. "Ya no hay titanes, papá. Ninguno. No hay Fundador. Se terminó." Abraza a su padre.
 - T965 · "Nos alistamos los tres. En la Legión de Reconocimiento."
+- T966 · Le devuelve los anteojos limpios a su padre.

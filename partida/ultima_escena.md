@@ -3,88 +3,10 @@
 
 ---
 
-## COMANDO 1 (T963)
-si, me teletransporto con armin con su abuelo, cuando llegamos le digo: armin, voy a volver con eren, quiero ver que pasa y poder ayudar a eren en ese momento
-
-## RESPUESTA 1 (T963)
-
-> si, me teletransporto con armin con su abuelo, cuando llegamos le digo: armin, voy a volver con eren, quiero ver que pasa y poder ayudar a eren en ese momento
-
-Cierras los ojos.
-
-Shiganshina entera se abre en tu cabeza: cada calle, cada casa, cada una de las miles de presencias que se buscan entre los gritos. Buscas una chiquita. Vieja. Tranquila debajo del miedo. Que esté sola, mirando alrededor, sin encontrar a quien busca.
-
-La encuentras cerca del canal.
-
-Dos dedos en la frente.
-
-Aparecen en una calle angosta, junto al agua. Las casas de dos pisos están pegadas unas a otras, todas recién reconstruidas, con macetas en las ventanas y ropa colgada que nadie colgó. El canal corre lento al costado, con la luz del amanecer encima.
-
-Delante de una puerta verde, en la vereda, hay un viejo.
-
-Bajito. Pelo blanco, poco, peinado para atrás. Un chaleco marrón, con un botón más claro que los demás. Está parado en la vereda, con una pipa apagada en la mano, mirando la calle de un lado al otro, perdido, como quien sale a buscar algo y no recuerda qué.
-
-Armin te suelta el brazo.
-
-No corre. Camina. Un paso, dos, despacio, como si tuviera miedo de que se desarme si se acerca demasiado rápido.
-
-El viejo se da vuelta. Lo ve. Mira al muchacho rubio, flaco, con uniforme de la Legión, más alto de lo que debería ser. Entrecierra los ojos.
-
-—¿Armin?
-
-Armin se rompe.
-
-Se le tira encima, se lo come en un abrazo, y el viejo se tambalea y se le cae la pipa en la vereda, y lo abraza también, con los brazos flacos, palmeándole la espalda, diciendo su nombre una vez y otra, preguntando por qué está tan alto, por qué tiene ese uniforme, dónde está, qué día es, mientras Armin no puede contestar nada porque está llorando con la cara en su hombro.
-
-Esperas un momento. Después te acercas.
-
-> —Armin, voy a volver con Eren. Quiero ver qué pasa y poder ayudarlo en ese momento.
-
-Armin levanta la cara del hombro de su abuelo. Te mira. Tiene los ojos hinchados, la nariz roja. Asiente, rápido, varias veces.
-
-—Ve. —Se le quiebra la voz—. Ve con él. Él te necesita más que yo ahora.
-
-El viejo te mira por encima del hombro de su nieto. A ti, al pelo, al gato. No entiende nada. Pero se quita el sombrero que no tiene, en un gesto viejo, cortés, y te inclina la cabeza.
-
-Dos dedos en la frente.
-
-Vuelves a la calle de los Jaeger.
-
-Pasó apenas un minuto. Nadie se movió mucho. Carla sigue en el escalón, de pie ahora, con una mano en la boca. Mikasa, al lado de Eren, con el cuerpo tenso, lista para algo que no sabe qué es.
-
-Y Eren y Grisha, frente a frente, a un paso, en el medio de la calle.
-
-Grisha está hablando. Despacio, con la voz baja, temblorosa, sin sacarle los ojos de encima a su hijo.
-
-—...lo último que recuerdo es la cueva. Debajo de la capilla. Tú estabas atado, y yo... —Se le corta. Se mira la mano—. Yo te inyecté. Te pedí que... Y después, nada. —Levanta la vista—. Eren. ¿Qué pasó después? ¿Qué hiciste?
-
-Eren no contesta.
-
-Está temblando. Entero, de pies a cabeza, con los puños cerrados tan fuerte que tiene los nudillos blancos. Abre la boca. No sale nada. La cierra. Mira a su padre a la cara, y en los ojos tiene cinco años de algo que nunca le contó a nadie.
-
-Mikasa te ve llegar. Te mira a ti, sin decir nada. Pidiéndote algo con los ojos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 963 · SHINGEKI · DÍA 63 · 05:28        ║
-║ Shiganshina · la casa de los Jaeger          ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Eren y Grisha. Grisha pregunta     ║
-║ qué pasó en la cueva.                        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T964)
+## COMANDO 1 (T964)
 le toco el hombro a eren, no paso nada, no hubo retumbar, nadie uso el titan fundador
 
-## RESPUESTA 2 (T964)
+## RESPUESTA 1 (T964)
 
 > le toco el hombro a eren, no paso nada, no hubo retumbar, nadie uso el titan fundador
 
@@ -143,10 +65,10 @@ Se da vuelta hacia ti. Se seca los ojos con el delantal.
 
 ---
 
-## COMANDO 3 (T965)
+## COMANDO 2 (T965)
 me llamo Facundo Morelli, el año 850, no mikasa?
 
-## RESPUESTA 3 (T965)
+## RESPUESTA 2 (T965)
 
 > me llamo Facundo Morelli, el año 850, no mikasa?
 
@@ -207,4 +129,70 @@ En la calle, a lo lejos, se oyen cascos de caballos acercándose al trote por el
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:34, Shiganshina, calle de los Jaeger. Facundo se presentó; año 850, cinco años desde la caída. Eren contó que los tres se alistaron en la Legión. Carla preguntó qué tiene que ver Facundo; Mikasa: "Él lo hizo. Todo." Carla y Grisha lo miran. Se acercan muchos caballos. Facundo puede responder/actuar.
+## COMANDO 3 (T966)
+asi es, no intenten entenderlo, pero ya no hay titanes, estamos en paz con todos los paises fuera de la isla
+
+## RESPUESTA 3 (T966)
+
+> asi es, no intenten entenderlo, pero ya no hay titanes, estamos en paz con todos los paises fuera de la isla
+
+> —Así es. No intenten entenderlo. Pero ya no hay titanes, y estamos en paz con todos los países fuera de la isla.
+
+Carla parpadea.
+
+—¿Países? —Mira a Grisha, después a ti—. ¿Fuera de la isla? ¿Qué isla? Si afuera no hay nada, solo titanes... Eso es lo que siempre...
+
+Se calla. Grisha no la está mirando a ella. Te está mirando a ti, con la boca entreabierta y la cara blanca, como si le hubieran pegado en el pecho.
+
+—En paz —repite Grisha. Le tiembla la voz—. Con Marley.
+
+No es una pregunta.
+
+Carla se da vuelta hacia él, despacio.
+
+—¿Grisha? ¿Qué es Marley?
+
+Grisha no contesta. Se le doblan las rodillas, despacio, y se sienta en el escalón de su propia casa, descalzo, con los anteojos todavía tirados en la calle y las manos colgando entre las rodillas. Mira el empedrado. Se ríe, muy bajito, una risa que no tiene nada de alegre ni de triste, de alguien a quien le sacaron de encima un peso de treinta años.
+
+—Paz —dice, al empedrado—. Paz.
+
+Carla se queda mirando a su marido como si lo viera por primera vez.
+
+Eren se agacha, levanta los anteojos de la calle, los limpia con la camisa y se los pone a su padre en la mano. Grisha los mira. No se los pone.
+
+Los cascos llegan.
+
+Doblan la esquina al trote: una docena de caballos de la Legión, con las capas verdes al viento y las alas de la libertad bordadas en la espalda. Al frente, Erwin, en su caballo blanco, sosteniendo las riendas con la única mano. A su lado, Levi. Detrás, Hange, Historia en la grupa del caballo de un soldado, Ymir en el suyo, Jean, Sasha, Connie. Connie viene con la cara hinchada de llorar y una sonrisa enorme: ya fue a Ragako, o le avisaron, y algo en la cara dice que sabe.
+
+Frenan delante de la casa.
+
+Erwin desmonta. Despacio. Se acomoda la capa. Mira a Eren, a Mikasa, a Carla junto a la puerta. Y después al hombre sentado en el escalón, descalzo, con los anteojos en la mano.
+
+Se queda mirándolo un momento largo.
+
+Después se quita el guante con los dientes y da un paso hacia él.
+
+—Doctor Grisha Jaeger. —Inclina la cabeza, con un respeto que no le dedica a casi nadie—. Leí sus diarios. Los del sótano. —Una pausa—. Son la razón por la que esta isla sigue viva.
+
+Grisha levanta la vista. Mira la capa verde, la manga vacía, los ojos azules del comandante.
+
+Detrás de Erwin, Ymir baja del caballo de un salto. Te busca con los ojos entre todos. Te encuentra. No se acerca todavía. Se queda junto al caballo, con la manta en el brazo, mirándote.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 966 · SHINGEKI · DÍA 63 · 05:38        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Erwin conoce a Grisha. La Legión   ║
+║ en Shiganshina.                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:38, Shiganshina, casa de los Jaeger. Facundo contó que hay paz con los países de afuera; Grisha entendió (Marley) y se sentó en el escalón; Carla no sabe qué es Marley. Llegó la Legión: Erwin saluda a Grisha ("Leí sus diarios"). Ymir mira a Facundo desde su caballo. Facundo puede actuar.

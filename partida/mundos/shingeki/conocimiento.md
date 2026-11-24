@@ -195,3 +195,4 @@
 - Carla, Grisha · T961 · Por Facundo: "Ahora les explico todo." (nada todavía).
 - Grisha, Carla, Mikasa, Eren · T964 · Por Facundo: "No hubo Retumbar. Nadie usó el Titán Fundador." Grisha nota que Facundo conoce la palabra "Retumbar" (no insiste). Por Eren: ya no hay titanes.
 - Carla y Grisha Jaeger · T965 · Por Facundo: su nombre; año 850. Por Mikasa: Facundo hizo todo (revivirlos, reconstruir, quitar los titanes). Por Eren: los tres en la Legión.
+- Carla, Grisha · T966 · Por Facundo: ya no hay titanes; paz con todos los países fuera de la isla. Grisha deduce Marley.

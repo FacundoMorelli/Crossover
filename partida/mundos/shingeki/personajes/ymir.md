@@ -46,3 +46,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T954 · Días 55-62: duerme con Facundo; "Nunca pensé que iba a tener algo que perder. Tengo miedo de que no sea cierto."
 - T955 · Se queda un segundo al lado de Facundo, lo mira sin tocarlo, y retrocede con los demás.
 - T957 · Pierde el Mandíbula. Se muerde el pulgar: la sangre no humea. "Lindo... me puedo cortar."
+- T966 · Llega a caballo; busca a Facundo con los ojos y se queda junto al caballo mirándolo.
