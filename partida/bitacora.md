@@ -829,3 +829,4 @@ T827 · Shingeki · Mitras · A solas con Eren en el techo: los sueños del futu
 T828 · Shingeki · Mitras · Le dice a Eren que el futuro cambió y que quizá pueda revivir a los comidos por titanes. Eren: "¿Mi mamá?"
 T829 · Shingeki · Mitras · Patio: Mikasa pregunta qué le dijo a Eren; Eren calla. Levi: Erwin quiere verlo.
 T830 · Shingeki · Mitras · Oficina de Erwin: le pide el plan para los próximos cinco días.
+T831 · Shingeki · Mitras · Plan: Zeke primero, después Willy. Erwin llama a Levi.

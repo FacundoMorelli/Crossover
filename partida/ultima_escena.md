@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T828)
-creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
-
-## RESPUESTA 1 (T828)
-
-> creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
-
-> —Creo que sí. El futuro ya cambió, Eren. Así que no les hagas caso a esos futuros, ¿sí? Por todo lo que quieras, nunca les hagas caso. Creo que tengo una forma de revivir a los que murieron comidos por titanes. No digas nada todavía ni te hagas ilusiones, porque no estoy seguro de que vaya a servir.
-
-Eren no se mueve.
-
-Lo primero que le llega es lo del futuro, y se le nota en los hombros: se le aflojan un poco, como si hubiera estado cargando algo pesado durante tres semanas y alguien le hubiera dicho que podía dejarlo en el suelo.
-
-Después le llega lo otro.
-
-Se queda helado. Te mira con los ojos muy abiertos, sin parpadear, con la boca entreabierta. Por un momento parece que no respira.
-
-—...¿Revivir? —Lo dice tan bajo que casi no se oye—. ¿A los que...?
-
-Traga saliva. Le tiembla el mentón.
-
-—¿Mi mamá?
-
-No esperas a que se le pase, y él tampoco. Se le llenan los ojos de golpe. Se los seca con el antebrazo, con rabia, fuerte, como si le dieran vergüenza las lágrimas. Se le vuelven a llenar. Se los vuelve a secar.
-
-—No... no me hago ilusiones. —Se ríe, una risa rota, horrible—. No me hago ilusiones. Lo dijiste. No me hago...
-
-Se tapa la cara con las dos manos y se queda así, sentado en el borde del techo, temblando.
-
-Kase baja de la chimenea, camina por el techo despacio y se sienta a su lado, pegado a su pierna.
-
-Cuando Eren se destapa la cara, tiene los ojos rojos pero la mirada firme.
-
-—Te lo prometo. —Te mira—. No les hago caso. A ninguno. Y no le digo nada a nadie. Ni a Mikasa. Ni a Armin.
-
-Respira hondo.
-
-—Pero si funciona... —Le tiembla la voz, la endereza—. La primera es ella.
-
-Abajo, en el patio, se oye la voz seca de Levi.
-
-—Se acabaron los cinco minutos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 828 · SHINGEKI · DÍA 35 · 06:38        ║
-║ Mitras · techo del cuartel de la Legión      ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: al lado de Eren                        ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Revivir a los comidos (secreto con Eren).    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T829)
+## COMANDO 1 (T829)
 bajamos con eren al patio
 
-## RESPUESTA 2 (T829)
+## RESPUESTA 1 (T829)
 
 > bajamos con eren al patio
 
@@ -117,10 +57,10 @@ Levi se da vuelta hacia ti. Te mira de arriba abajo una sola vez.
 
 ---
 
-## COMANDO 3 (T830)
+## COMANDO 2 (T830)
 subo a la oficina de erwin
 
-## RESPUESTA 3 (T830)
+## RESPUESTA 2 (T830)
 
 > subo a la oficina de erwin
 
@@ -169,4 +109,54 @@ Te mira fijo, con los ojos azules muy quietos.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:45, oficina de Erwin en el cuartel de la Legión (Mitras). Erwin plantea tres problemas: sin noticias de Willy Tybur en 24 días; alojamiento y entrada a la fiesta en Liberio; qué hacer si es una trampa. Zeke pide ver a Facundo: lo que se guardó es sobre la fiesta. Erwin: "Necesito saber cuál es tu plan para los próximos cinco días."
+## COMANDO 3 (T831)
+primero voy a hablar con zeke, despues con willy
+
+## RESPUESTA 3 (T831)
+
+> primero voy a hablar con zeke, despues con willy
+
+> —Primero voy a hablar con Zeke. Después, con Willy.
+
+Erwin asiente despacio, como si fuera exactamente lo que esperaba.
+
+—Lógico. Si Zeke sabe algo de la fiesta, es mejor saberlo antes de pararse frente a Tybur. —Toma una pluma y anota algo en el margen de la lista—. Zeke sigue en el sótano del cuartel de la Guarnición de Trost, bajo custodia de Pixis. Pero es responsabilidad de Levi. Nadie entra a verlo sin él.
+
+Levanta la vista.
+
+—Y con Tybur... la cita que acordaste era en su invernadero, cada tres noches, a las nueve. Si la cuenta de Hange es correcta, la próxima es pasado mañana. —Te mira por encima de la pluma, con un asomo de sonrisa—. Aunque supongo que tú no necesitas esperar a que te inviten.
+
+Se levanta, va hasta la ventana y la abre. El aire frío de la mañana entra en la oficina.
+
+—Levi.
+
+No grita. No hace falta. Abajo, en el patio, el ruido de los cuchillos de madera se detiene.
+
+Un minuto después se oyen pasos en la escalera, rápidos y precisos, y la puerta se abre. Levi entra limpiándose las manos con un pañuelo blanco. Mira a Erwin, te mira a ti, mira el gato.
+
+—¿Qué?
+
+—Facundo va a hablar con Zeke —dice Erwin—. Ahora.
+
+Levi guarda el pañuelo en el bolsillo. No pregunta nada más.
+
+—Bien. Hace tres semanas que ese barbudo me pregunta por ti todos los martes. —Se ajusta el cuello de la camisa—. ¿Vamos caminando hasta Trost, o vamos con esa cosa tuya de los dedos en la frente?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 831 · SHINGEKI · DÍA 35 · 06:48        ║
+║ Mitras · oficina de Erwin                    ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Hablar con Zeke; después con Willy.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:48, oficina de Erwin. Plan: Zeke primero (sótano de la Guarnición de Trost, bajo Pixis, a cargo de Levi), después Willy (cita del invernadero, próxima el día 37 a las 21). Levi subió: "¿Vamos caminando hasta Trost, o vamos con esa cosa tuya de los dedos en la frente?"
