@@ -107,3 +107,4 @@
 - 18:44 · (T735) Blueno (Doa Doa no Mi) intenta llevarse a Franky por una puerta en el aire; Usopp se agarra (canon: se llevaban a los dos).
 - 18:45 · (T736) Blueno se lleva a Franky y a Usopp por una puerta a la estación del puerto (canon). Irán en el tren a Enies Lobby.
 - 19:05 · (T738) El Going Merry zarpa en la Aqua Laguna rumbo a Enies Lobby, siguiendo la vía del tren, con la familia Franky y Paulie (canon: zarpaban en el Rocketman, después del tren).
+- 19:07 · (T739) El Merry vuela sobre la Aqua Laguna con la Luna de Facundo, siguiendo la vía. Llegaría a Enies Lobby antes que el tren de las 23:00.

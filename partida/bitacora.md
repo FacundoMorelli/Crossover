@@ -737,3 +737,4 @@ T735 · One Piece · muelle · Vuelve al Merry. Blueno abre una puerta en el air
 T736 · One Piece · muelle · Deja que Blueno se lleve a Franky y Usopp. Los siente en la estación con el CP9 y Robin. La tripulación le reclama.
 T737 · One Piece · muelle · "Vamos a Enies Lobby con ellos." Zoro entiende el porqué. Nami: el Merry es el único que puede salir.
 T738 · One Piece · Aqua Laguna · Zarpan con la familia Franky y Paulie. Ola de cuarenta metros.
+T739 · One Piece · Aqua Laguna · Levanta el Merry con la Luna sobre la ola. Volando bajo, llegarían antes que el tren.
