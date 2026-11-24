@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T866)
-si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
-
-## RESPUESTA 1 (T866)
-
-> si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
-
-> —Sí. El día cincuenta, aquí, sin falta. A lo mejor llego el mismo día cincuenta. No se preocupen: voy a estar.
-
-Erwin te sostiene la mirada un segundo más. Después asiente, una sola vez.
-
-—Bien. —Apoya el dedo en el tramo rojo del mapa—. Lo esperamos sobre la muralla, al norte de Karanes, antes de las once. Las delegaciones suben a la tribuna a las once y media.
-
-Hange golpea la mesa con las dos manos y hace saltar los lápices.
-
-—¡Y si no viene, voy a buscarlo al fin del mundo! —Te señala con un compás—. ¡Con el gato! ¡Al fin del mundo! ¡Tengo un cuaderno entero de preguntas sin contestar y pienso cobrármelas!
-
-Armin levanta la vista del mapa, todavía un poco colorado.
-
-—¿Puedo... puedo verlo desde la tribuna? —Se le traba la voz—. Quiero ver cómo es. De cerca. Qué pasa con los titanes de adentro.
-
-Erwin rodea la mesa y te tiende la mano izquierda. Se la estrechas. Tiene la mano firme y seca.
-
-—Entonces vaya. —Lo dice tranquilo—. Y vuelva.
-
-Kase, en tu hombro, mira a Erwin, después a Hange y a Armin, y bosteza larguísimo, enseñando todos los dientes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 866 · SHINGEKI · DÍA 47 · 10:22        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, bostezando               ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Volver el día 50 antes de las 11   ║
-║ (Wall Rose, Karanes). Marineford ≈ 48-49.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T867)
+## COMANDO 1 (T867)
 si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
 
-## RESPUESTA 2 (T867)
+## RESPUESTA 1 (T867)
 
 > si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
 
@@ -115,10 +71,10 @@ El viejo se cruza de brazos y te mira por encima de los lentes.
 
 ---
 
-## COMANDO 3 (T868)
+## COMANDO 2 (T868)
 hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
 
-## RESPUESTA 3 (T868)
+## RESPUESTA 2 (T868)
 
 > hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
 
@@ -181,4 +137,68 @@ Toma el último trago de la botella.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:05, Grove 41 de Sabaody. Rayleigh contó todo: subasta, Luffy golpeó a un Dragón Celestial, Kizaru y Pacifistas, Kuma dispersó a la tripulación (vivos, cada uno a un lugar distinto; Robin gritó el nombre de Facundo antes de desaparecer), Hachi herido. Ace: ejecución mañana a las 15:00 en Marineford; rumor de Luffy en Impel Down. Rayleigh no puede leerlo con el Haki. Pregunta: "¿Y tú qué vas a hacer?"
+## COMANDO 3 (T869)
+mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
+
+## RESPUESTA 3 (T869)
+
+> mañana voy a ir a marineford, luffy va a poder salir de impeldown, lleveme a su bar, donde esta el herido
+
+> —Mañana voy a ir a Marineford. Luffy va a poder salir de Impel Down. Lléveme a su bar, donde está el herido.
+
+Rayleigh se queda mirándote un rato largo, sin pestañear, con la botella vacía en la mano.
+
+—«Va a poder salir». —Lo repite despacio—. No «a lo mejor». No «ojalá».
+
+Se levanta del barril y deja la botella.
+
+—Así que sabes cosas que nadie sabe. —Se acomoda la capa y sonríe, una sonrisa vieja y cansada—. Me recuerdas a alguien. Vamos.
+
+Kase salta a tu hombro.
+
+Caminan entre los árboles gigantes del archipiélago, por puentes de madera y raíces anchas como calles, con burbujas que suben de la tierra alrededor. Por los caminos pasan piratas, mercaderes, marines de patrulla y vendedores de burbujas para montar. Nadie los para. Algunos se dan vuelta a mirar a Rayleigh y bajan la vista.
+
+El bar está en el Grove 13: una casa chica de madera, con un cartel torcido sobre la puerta que dice «Shakky's Rip-off Bar». Adentro está oscuro, fresco, y huele a tabaco y a licor caro. Hay una barra de madera lustrada y unas pocas mesas vacías.
+
+Detrás de la barra, una mujer de pelo negro corto fuma un cigarrillo largo y limpia un vaso. Levanta la vista cuando entran. Te mira de arriba abajo y sonríe con media boca.
+
+—Ray. —Suelta el humo despacio—. Me trajiste al famoso del gato. Cuatrocientos millones. —Apoya el vaso—. ¿Le cobro la entrada o se la cobro a él?
+
+—Después, Shakky. Viene a ver a Hachi.
+
+Shakky señala con el cigarrillo una puerta al fondo.
+
+En el cuarto de atrás, en una cama chica junto a una ventana, está Hachi. Tiene el pecho vendado, con una mancha oscura de sangre seca a la altura del hombro. Está pálido, con la piel azulada brillante de sudor y la respiración rápida, de fiebre. Los seis brazos le cuelgan a los costados, flojos.
+
+Abre los ojos cuando entras.
+
+Te ve. Ve el pelo de dos colores, la cicatriz, el gato. Se le abren los ojos de golpe y se le llenan de lágrimas.
+
+—¡Nyu...! ¡Tú! —Intenta sentarse y no puede—. ¡El del gato! ¡El de Arlong Park!
+
+Se le quiebra la voz.
+
+—Perdóname. —Las lágrimas le caen por los costados de la cara, sobre la almohada—. Perdón por lo de Cocoyasi... por todo lo que hicimos. Y perdón por Sabaody. Yo los traje hasta aquí. Yo tenía que protegerlos... a la sirena, a los chicos... y no pude. No pude, nyu.
+
+Se tapa la cara con dos de los seis brazos.
+
+—Era mi culpa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 869 · ONE PIECE · DÍA 56 · 16:25       ║
+║ Sabaody · bar de Shakky, cuarto del fondo    ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Hachi herido. Marineford mañana.   ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:25, bar de Shakky (Grove 13), cuarto del fondo. Rayleigh nota que Facundo sabe cosas que nadie sabe. Shakky lo reconoce por el cartel. Hachi, herido con fiebre (balazo de un Dragón Celestial), reconoce a Facundo de Arlong Park, llora y pide perdón por Cocoyasi y por no haber protegido a los chicos en Sabaody: "Era mi culpa."

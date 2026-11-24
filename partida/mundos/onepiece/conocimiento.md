@@ -212,3 +212,5 @@
 - Tripulación, Lola y los Piratas Rolling · T822 · Ven a Facundo abrir una puerta de luz en el aire y cruzarla con Kase. Desaparece.
 - Facundo · T868 · Por Rayleigh: llegada a Sabaody, Hachi, Camie y la subasta, Luffy golpeó a un Dragón Celestial, Kizaru y Pacifistas, Kuma dispersó a la tripulación uno por uno (vivos, a lugares distintos; nadie sabe dónde); Robin desapareció delante de Rayleigh; Hachi herido en el bar de Shakky. Ace capturado por Barbanegra; ejecución mañana; rumor de que alguien con sombrero de paja entró a Impel Down.
 - Rayleigh · T868 · Intenta leer a Facundo con el Haki y no puede: "Eres como un agujero en el mar." (Velo.)
+- Rayleigh · T869 · Por Facundo: mañana va a Marineford; Luffy va a poder salir de Impel Down. Rayleigh deduce que sabe cosas que nadie sabe.
+- Shakky, Hachi · T869 · Ven a Facundo (cartel 400M) en el bar con el gato y con Rayleigh.
