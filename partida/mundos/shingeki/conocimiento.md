@@ -179,3 +179,4 @@
 - Ymir · T940 · Ve a Facundo abrir una puerta de luz al cielo y cruzarla.
 - Erwin, Levi, Hange, Armin, Mikasa, Eren, Historia, Jean, Connie, Sasha, Ymir · T948 · Por Facundo: dice tener una forma de revivir a todos los muertos por titanes, hacer desaparecer todos los titanes y devolver a los titanes puros a la normalidad.
 - Todos en la sala de mapas · T949 · Por Facundo: los Nueve también desaparecerían; los portadores seguirían vivos.
+- Todos en la sala de mapas · T950 · Por Facundo: es una habilidad suya; puede crear algo que cumple deseos; los revividos aparecerían en un mismo lugar.

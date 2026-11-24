@@ -35,3 +35,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T947 · Día 55 01:15 · Llega vestido, con té. "Supongo que no es para hablar del clima."
 - T948 · "¿Cómo?" (aprieta el muñón).
 - T949 · Sin titanes cambia el equilibrio del mundo ("alguien tiene que pensarlo"); miles de soldados en fosas sin nombre. "Le pregunté cómo. Todavía no me respondió."
+- T950 · Calcula: caída de Wall Maria, recuperación del 846 (250.000 enviados, volvieron menos de 200), expediciones, Ragako, eldianos convertidos en el continente: cientos de miles. Pide tiempo para comida, mantas, médicos, registros. "¿Cuántos deseos cumple? Si es más de uno, el orden importa."

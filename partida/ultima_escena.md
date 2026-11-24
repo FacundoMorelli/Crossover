@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T947)
-si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
-
-## RESPUESTA 1 (T947)
-
-> si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
-
-> —Sí. Necesito una reunión con todos. Erwin, Eren, Levi, Mikasa... todos los que estén.
-
-Ymir deja de masticar.
-
-—¿Ahora? —Mira el reloj de la torre—. Son las doce y cuarenta, lindo.
-
-Te mira la cara. Lo que ve ahí la hace suspirar por la nariz. Tapa el frasco, se lo mete debajo del brazo y se levanta con la manta sobre los hombros, con Kase colgando adentro como un bulto ofendido.
-
-—Bueno. Ahora.
-
-Media hora después, la sala de mapas está llena.
-
-Erwin es el primero en llegar. No estaba dormido: entra vestido, con el uniforme abotonado hasta el cuello y una taza de té en la mano, como si fuera media tarde. Detrás de él, Levi, en camisa, con la cara de alguien que estaba durmiendo y no se lo va a perdonar a nadie. Hange llega corriendo por el pasillo, con los anteojos puestos al revés y un cuaderno abierto, porque Moblit le dijo que el emisario había vuelto. Armin, despeinado, frotándose los ojos. Mikasa, con la bufanda roja, completamente despierta, empujando a Eren, que viene medio dormido, descalzo, con el pelo suelto sobre la cara.
-
-Después Historia, con un chal sobre el camisón, la corona olvidada en algún lado y la cara de reina igual. Y al final, Jean, Connie y Sasha, que dormían en el cuartel de la Legión de la capital y llegaron porque alguien golpeó la puerta gritando que era una reunión de emergencia. Sasha trae un pan en la mano. Nadie sabe de dónde lo sacó.
-
-Ymir se sienta en el borde de la mesa larga, sobre los planos de Wall Rose, con la manta todavía en los hombros y el frasco de manzanas en el regazo. Kase sale de la manta, se estira y se te sube al hombro.
-
-Nadie se sienta.
-
-Todos te miran. Las velas de la sala tiemblan con la corriente de la puerta. Afuera, el reloj de la torre da la una y cuarto.
-
-Erwin deja la taza sobre la mesa, despacio.
-
-—Está todo el que estaba en Mitras —dice, tranquilo—. Zeke duerme en su celda, con guardia. Pixis y Zackly, en sus casas; puedo mandarlos a buscar si hace falta. —Junta las manos detrás de la espalda—. Usted nos convocó a la una de la mañana, la noche después de volver. Supongo que no es para hablar del clima.
-
-Levi se apoya en la pared, con los brazos cruzados.
-
-—Más le vale.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 947 · SHINGEKI · DÍA 55 · 01:15        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La reunión. Todos esperan.         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T948)
+## COMANDO 1 (T948)
 Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
 
-## RESPUESTA 2 (T948)
+## RESPUESTA 1 (T948)
 
 > Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
 
@@ -120,10 +67,10 @@ Se lleva una mano al pecho, sin darse cuenta.
 
 ---
 
-## COMANDO 3 (T949)
+## COMANDO 2 (T949)
 Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
 
-## RESPUESTA 3 (T949)
+## RESPUESTA 2 (T949)
 
 > Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
 
@@ -175,4 +122,60 @@ Hace una pausa. Se le nota el esfuerzo en la voz cuando sigue, más bajo.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 01:19, sala de mapas. Facundo confirmó: todos los titanes (también los Nueve) desaparecerían, los portadores no. Ymir llora (Historia la abraza); Eren aliviado; Armin entiende el fin de la maldición. Erwin advierte el cambio de equilibrio mundial y vuelve a preguntar cómo. Facundo puede responder.
+## COMANDO 3 (T950)
+Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
+
+## RESPUESTA 3 (T950)
+
+> Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
+
+> —Es una habilidad mía. Puedo crear algo capaz de cumplir deseos. No importa que estén enterrados: no van a aparecer en sus tumbas. Puedo hacer que aparezcan todos en un mismo lugar.
+
+—¿Cumplir... deseos? —Hange se pone de pie tan rápido que la silla cae para atrás—. ¿Deseos? ¿Como en los cuentos? ¿Cualquier deseo? ¿Cómo funciona? ¿Tiene límite? ¿Cuántos se pueden pedir? ¿Hay que...?
+
+—Hange. —Levi no levanta la voz.
+
+Hange cierra la boca. Levanta la silla. Se sienta. Le tiembla la rodilla debajo de la mesa.
+
+Sasha se agacha, por fin, a buscar el pan. Lo encuentra debajo de la mesa y se queda ahí abajo, en cuclillas, abrazada a él, mirando a Connie desde el piso.
+
+Connie llora. No hace ruido. Le caen las lágrimas por la cara y no se las seca, con los ojos fijos en ti, y Jean sigue con la mano en su hombro, apretando.
+
+Erwin cierra los ojos un segundo. Respira hondo. Cuando los abre, es otra vez el comandante.
+
+—Todos en un mismo lugar —repite—. Entonces necesitamos saber cuántos son "todos".
+
+Camina hasta el mapa de la pared. Pone el dedo sobre Shiganshina.
+
+—La caída de Wall Maria, hace cinco años: decenas de miles en el primer día. La operación de recuperación del año siguiente: doscientas cincuenta mil personas enviadas afuera de las murallas, para que no hubiera bocas que alimentar. Volvieron menos de doscientas. —Lo dice sin que le tiemble la voz, y eso es peor—. Las expediciones de la Legión desde su fundación. Ragako. Y si hablamos de los que fueron convertidos en titanes y murieron después, en el continente, en Marley, durante un siglo...
+
+Se da vuelta.
+
+—Pueden ser cientos de miles de personas apareciendo en una noche. Con hambre, sin ropa de abrigo, sin saber qué año es, sin saber que murieron. Familias que se buscan entre una multitud del tamaño de una ciudad.
+
+Historia levanta la cabeza. Todavía tiene el brazo sobre los hombros de Ymir.
+
+—El territorio de Wall Maria está vacío —dice, con la voz firme de reina—. Shiganshina, Quinta, todos los distritos. Hay casas. Hay tierra para sembrar. Era su casa.
+
+Erwin la mira. Asiente, despacio.
+
+—Entonces necesitamos tiempo para preparar comida, mantas, médicos, registros. —Vuelve a mirarte—. Una pregunta más, señor Morelli. Lo que usted crea... ¿cuántos deseos cumple? Porque si es más de uno, el orden importa. Y mucho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 950 · SHINGEKI · DÍA 55 · 01:22        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Los deseos. Erwin: ¿cuántos? El    ║
+║ orden importa. Lugar: Wall Maria.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 01:22, sala de mapas. Facundo explicó que puede crear algo que cumple deseos y que los revividos aparecerían en un mismo lugar. Erwin calcula cientos de miles; Historia propone el territorio de Wall Maria. Erwin pide tiempo para logística y pregunta cuántos deseos cumple, porque el orden importa. Facundo puede responder.

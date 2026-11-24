@@ -24,3 +24,4 @@ ESTADO: activo
 - T938 · Días 51-52 midiendo el corte de Wall Rose con Moblit.
 - T947 · Llega corriendo con los anteojos al revés.
 - T948 · Se acomoda los anteojos al derecho, despacio.
+- T950 · "¿Deseos? ¿Como en los cuentos? ¿Cuántos se pueden pedir?" Levi la calla.

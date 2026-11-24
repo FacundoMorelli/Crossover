@@ -948,3 +948,4 @@ T946 · Dragon Ball → Shingeki · Despedida de Dende. Techo del palacio, día 
 T947 · Shingeki · Mitras · Convoca reunión: 01:15, sala de mapas, todos. Erwin: "No es para hablar del clima." Levi: "Más le vale."
 T948 · Shingeki · Mitras · Anuncia que puede revivir a los muertos por titanes y borrar todos los titanes. Erwin: "¿Cómo?" Ymir: "¿Los Nueve también? ¿El mío?"
 T949 · Shingeki · Mitras · "Todos. Ustedes no." Ymir llora; Eren aliviado; Armin: fin de la maldición. Erwin: el equilibrio del mundo cambia. "Todavía no me respondió cómo."
+T950 · Shingeki · Mitras · "Puedo crear algo capaz de cumplir deseos." Erwin: cientos de miles; Historia: Wall Maria. "¿Cuántos deseos? El orden importa."

@@ -31,3 +31,4 @@ ESTADO: activo
 - T947 · Llega con un chal sobre el camisón.
 - T948 · Se lleva una mano al pecho.
 - T949 · Se sienta al lado de Ymir y la abraza.
+- T950 · "El territorio de Wall Maria está vacío. Hay casas, tierra para sembrar. Era su casa."
