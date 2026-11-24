@@ -259,3 +259,4 @@
 - Luffy · T925 · Escucha a Facundo llamar "amor" a Robin; sabe que son pareja.
 - Corvin (Ejército Revolucionario) · T927 · Por Facundo ("Así es"): fue él quien llegó antes a Tequila Wolf; deduce que liberó a los presos. Reconoce a Luffy (Sombrero de Paja).
 - Corvin y sus hombres · T928 · Por Facundo: quiere visitar a Robin donde esté, promete no revelar la isla, "no sabría llegar en barco". Corvin se lo transmitirá al comandante (Dragon).
+- Rayleigh, Shakky · T929 · Por el diario y la transmisión: lo de Marineford (Ace libre, Ojos de Eclipse en el cadalso). Ven a Facundo y Luffy aparecer de la nada en el bar.

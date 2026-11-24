@@ -7,3 +7,4 @@ RELACIÓN CON FACUNDO: acaba de verlo.
 ENCUENTROS:
 - T869 · Día 56 · Lo reconoce por el cartel: "Así que este es el famoso del gato."
 ESTADO: activo
+- T929 · Día 57 17:51 · Ve aparecer a Facundo y Luffy en su bar. "Llegan justo a la hora del té."

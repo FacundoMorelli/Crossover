@@ -55,3 +55,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T926 · "Primero nos quedamos. Quiero ver que Robin se va con gente buena. Si son malos, les pego. Después vamos con Rayleigh."
 - T927 · A Corvin: "¿Ustedes son buenos?" Lo aprueba.
 - T928 · "¡Nos vemos en Sabaody, Robin! ¡Dos años!"
+- T929 · En el bar de Shakky: "¡El viejo del Haki! ¡Facundo dice que tú me vas a hacer fuerte!"

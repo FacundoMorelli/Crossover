@@ -18,3 +18,4 @@ ESTADO: activo
 - T876 · Facundo le dice que va a salvar a Ace, al lado de su capitán. "Esa es la respuesta correcta." Le advierte de Akainu. "Cuando termine, si tu capitán sigue vivo, tráelo aquí."
 - T880 · Coincide en que la tripulación no está preparada para el Nuevo Mundo. Ofrece entrenar a Luffy "un año, dos" si sobrevive. Pregunta si Facundo estará con ellos en el Nuevo Mundo.
 - T881 · Despide a Facundo: "Que vuelvas con tu capitán, muchacho."
+- T929 · Día 57 17:51 · Bar de Shakky. Leía el diario de Marineford (foto de Facundo en el cadalso). "Les dije que vinieran después de la guerra. No pensé que iba a ser el mismo día."

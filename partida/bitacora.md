@@ -927,3 +927,4 @@ T925 · One Piece · Tequila Wolf · "Sí, amor." Robin: "Te voy a esperar." Lle
 T926 · One Piece · Tequila Wolf · Luffy: "Primero nos quedamos." Llegan los revolucionarios: "Venimos por usted. Parece que alguien llegó antes."
 T927 · One Piece · Tequila Wolf · Corvin, del Ejército Revolucionario, se presenta y le tiende la mano a Robin. Ella mira a Facundo.
 T928 · One Piece · Tequila Wolf · Beso de despedida. Pide poder visitarla; Corvin: lo decide el comandante. Robin sube al barco.
+T929 · One Piece · Sabaody · Al bar de Shakky. Rayleigh: "No pensé que iba a ser el mismo día." Luffy: "¡Me vas a hacer fuerte!"

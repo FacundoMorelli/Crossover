@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T926)
-bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
-
-## RESPUESTA 1 (T926)
-
-> bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
-
-> —Bueno, capitán. ¿Nos quedamos aquí cuando lleguen, o quieres ir con Rayleigh?
-
-Luffy se baja de la baranda de un salto. Se queda pensando, con los brazos cruzados y la cara toda arrugada, mirando el barco que se acerca.
-
-—¿Rayleigh? ¿El viejo de Sabaody? —Se le ilumina la cara—. ¡El que sabía eso del Haki!
-
-Después mira a Robin, todavía abrazada a ti. Y se pone serio.
-
-—No. Primero nos quedamos. —Se acomoda el sombrero—. Quiero ver que Robin se va con gente buena. Si son malos, les pego. —Lo dice muy convencido—. Después vamos con Rayleigh.
-
-Robin se ríe contra tu hombro, bajito.
-
-—Gracias, capitán.
-
-El barco llega.
-
-Frena de costado contra el puente, con un crujido de madera contra piedra, y antes de que terminen de tirar las amarras ya está bajando gente. Una docena, rápido, con orden: hombres y mujeres con ropa de viaje, capas oscuras, armas en la mano pero apuntando al suelo. Se reparten por el puente sin hablar, rodeando a los guardias rendidos, mirando a los presos liberados con caras de no entender lo que ven.
-
-Uno de ellos levanta un trozo de cadena rota del suelo. Lo mira. Mira a los cientos de presos sin grilletes. Mira a su compañero.
-
-—¿Quién hizo esto?
-
-Nadie le contesta.
-
-Desde la proa baja el último. Es un hombre de unos cuarenta años, alto, de barba corta, con una capa verde oscura y una cicatriz que le cruza el mentón. Camina por el puente sin apuro, mirándolo todo, hasta que los ve a ustedes tres.
-
-Se detiene a diez metros.
-
-Mira a Robin. La reconoce: se le nota en la cara. Después mira a Luffy y abre un poco los ojos al ver el sombrero de paja. Después te mira a ti: el pelo blanco y azul, los ojos de dos colores, el gato en el hombro.
-
-Se queda mirándote un segundo más que a los otros dos.
-
-—Nico Robin. —Lo dice con voz grave, tranquila—. Venimos por usted, por orden de nuestro comandante. —Hace una pausa—. Aunque parece que alguien llegó antes que nosotros.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 926 · ONE PIECE · DÍA 57 · 17:44       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Robin, con los revolucionarios.    ║
-║ Después, Rayleigh. Shingeki: D59.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T927)
+## COMANDO 1 (T927)
 mucho gusto, asi es
 
-## RESPUESTA 2 (T927)
+## RESPUESTA 1 (T927)
 
 > mucho gusto, asi es
 
@@ -117,10 +59,10 @@ Se queda mirándola un momento. Después levanta la vista hacia ti. Tiene las ma
 
 ---
 
-## COMANDO 3 (T928)
+## COMANDO 2 (T928)
 le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
 
-## RESPUESTA 3 (T928)
+## RESPUESTA 2 (T928)
 
 > le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
 
@@ -185,4 +127,60 @@ Después sube.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:49, Tequila Wolf. Facundo despidió a Robin con un beso y pidió poder visitarla; Corvin lo consultará con el comandante. Robin subió al barco revolucionario después de tocarse los labios mirando a Facundo. Luffy al lado de Facundo. Facundo puede actuar.
+## COMANDO 3 (T929)
+bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
+
+## RESPUESTA 3 (T929)
+
+> bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
+
+> —Bueno, Luffy. Vayamos con el viejo.
+
+Luffy deja de saludar al barco, que ya se aleja del puente con las velas hinchadas. Se queda mirándolo un segundo más. Después se da vuelta, con la sonrisa puesta otra vez.
+
+—¡Sí! ¡Vamos!
+
+Le pones la mano en el hombro. Dos dedos en la frente. Buscas una presencia vieja, tranquila, enorme debajo de la calma, como un mar quieto encima de una fosa. La encuentras enseguida, lejos, del otro lado de la Red Line, en un lugar que ya conoces.
+
+Tequila Wolf desaparece.
+
+El olor cambia primero: madera vieja, cigarrillo, licor, y debajo, el perfume dulce y húmedo de los manglares de Sabaody. Después la luz, dorada, de atardecer, que entra por la ventana redonda de un bar chico, con burbujas que suben despacio del otro lado del vidrio.
+
+El bar de Shakky. Tal como lo dejaste.
+
+Shakky está detrás de la barra, con un cigarrillo en los labios y un diario abierto delante. Levanta la vista al oírlos aparecer y no se sobresalta. Solo se le levantan las cejas, un poquito, y se le curva la boca.
+
+—Vaya. Llegan justo a la hora del té.
+
+En la mesa del rincón, con una botella abierta y un vaso a medio llenar, está Silvers Rayleigh. Tiene los anteojos en la punta de la nariz y otro diario abierto delante. En la primera plana, en letras enormes, se lee MARINEFORD. Debajo, una foto borrosa, tomada de la transmisión: un cadalso, un pilar de fuego y, al lado, una figura de pelo claro con un gato en el hombro.
+
+Rayleigh baja el diario despacio.
+
+Los mira por encima de los anteojos. A Luffy primero, de pies a cabeza, entero, sin una herida, con el sombrero de paja en la cabeza. Después a ti.
+
+Se le arruga la cara entera en una sonrisa.
+
+—Les dije que vinieran después de la guerra. —Se saca los anteojos y los deja sobre el diario—. No pensé que iba a ser el mismo día.
+
+Luffy lo señala con el dedo, con los ojos brillando.
+
+—¡El viejo del Haki! ¡Oye, viejo! ¡Facundo dice que tú me vas a hacer fuerte!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 929 · ONE PIECE · DÍA 57 · 17:51       ║
+║ Sabaody · el bar de Shakky                   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 73% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Dejar a Luffy con Rayleigh.        ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:51, bar de Shakky en Sabaody. Facundo y Luffy llegan. Rayleigh, con el diario de Marineford: "No pensé que iba a ser el mismo día." Luffy le dice que Facundo dice que él lo va a hacer fuerte. Facundo puede actuar.
