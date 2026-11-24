@@ -17,3 +17,4 @@ ESTADO: vivo (revivido T958), sin titán.
 - T964 · Facundo: "No pasó nada. No hubo Retumbar. Nadie usó el Titán Fundador." "¿Cómo sabe usted esa palabra?" (no insiste). Eren: "Ya no hay titanes, papá. Se terminó." Deja caer los anteojos, abraza a Eren y llora.
 - T965 · "¿Qué hicieron todo este tiempo?" Por Mikasa: Facundo hizo todo.
 - T966 · Por Facundo: paz con los países de afuera. "En paz. Con Marley." Se sienta en el escalón y ríe bajito: "Paz." Erwin: "Leí sus diarios. Son la razón por la que esta isla sigue viva."
+- T967 · Se pone los anteojos; decide no preguntar.

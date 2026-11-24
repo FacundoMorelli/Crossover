@@ -17,3 +17,4 @@ ESTADO: viva (revivida T958).
 - T964 · "Joven. Dijo que nos iba a explicar todo. Creo que ya es hora. ¿Quién es usted? ¿Y qué día es hoy?"
 - T965 · Por Facundo y Mikasa: año 850, cinco años. "Ayer tenía diez años." Por Eren: los tres en la Legión (calla). "¿Usted qué tiene que ver con todo esto?" Por Mikasa: "Él lo hizo. Todo."
 - T966 · Por Facundo: hay países fuera de la isla y paz con ellos. "¿Qué es Marley?" (Grisha no contesta).
+- T967 · Reverencia a Historia ("Majestad"). Invita a Facundo, a Ymir ("su novia") y al gato a desayunar.

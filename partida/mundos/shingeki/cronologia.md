@@ -114,3 +114,4 @@
 - Día 63 05:05 · (T959) TERCER DESEO: se reconstruyen todas las casas destruidas por titanes (Shiganshina, Trost, Ragako, Wall Maria, pueblos del continente). Eclipse se va; las esferas quedan inactivas un año.
 - Día 63 05:08 · (T959) Primer amanecer sin titanes.
 - Día 63 05:20 · (T960) Facundo lleva a Eren, Mikasa y Armin a Shiganshina. Reencuentro con Carla Jaeger; Grisha Jaeger también revivido en su casa.
+- Día 63 05:42 · (T967) Historia fija un anuncio público de la verdad para el día 66 en la plaza de Shiganshina.

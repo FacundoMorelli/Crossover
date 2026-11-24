@@ -35,3 +35,4 @@ ESTADO: activo
 - T951 · "Willy y Magath tienen que saberlo antes. Y la señorita Tybur."
 - T954 · Decretos: abre los graneros de la Corona y de los nobles.
 - T957 · Sostiene a Ymir cuando pierde su titán.
+- T967 · Se presenta a Carla y Grisha como reina. Anuncio de la verdad entera en 3 días (día 66), en la plaza de Shiganshina. Carla le hace una reverencia; se pone colorada.

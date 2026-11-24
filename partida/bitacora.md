@@ -965,3 +965,4 @@ T963 · Shingeki · Shiganshina · Armin encuentra a su abuelo junto al canal. F
 T964 · Shingeki · Shiganshina · "No hubo Retumbar. Nadie usó el Fundador." Eren y Grisha se abrazan. Carla: "¿Quién es usted? ¿Qué día es hoy?"
 T965 · Shingeki · Shiganshina · "Me llamo Facundo Morelli. Año 850." Cinco años. Mikasa a Carla: "Él lo hizo. Todo." Llegan caballos.
 T966 · Shingeki · Shiganshina · "Estamos en paz con todos los países." Grisha: "Con Marley." Llega la Legión. Erwin: "Doctor Grisha Jaeger. Leí sus diarios."
+T967 · Shingeki · Shiganshina · "No soy quien se los tiene que explicar." Historia: anuncio en 3 días en la plaza. Carla: "Pasen a desayunar."

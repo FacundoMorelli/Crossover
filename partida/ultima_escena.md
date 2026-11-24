@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T964)
-le toco el hombro a eren, no paso nada, no hubo retumbar, nadie uso el titan fundador
-
-## RESPUESTA 1 (T964)
-
-> le toco el hombro a eren, no paso nada, no hubo retumbar, nadie uso el titan fundador
-
-Te pones al lado de Eren y le apoyas la mano en el hombro. Está duro como una piedra. Temblando.
-
-> —No pasó nada. No hubo Retumbar. Nadie usó el Titán Fundador.
-
-Grisha se te queda mirando.
-
-Es la primera vez que te ve de verdad: el pelo blanco y azul, los ojos de dos colores, el gato en el hombro. Pestañea detrás de los anteojos torcidos. Se le abre la boca.
-
-—¿Cómo sabe usted esa palabra? —Lo dice casi sin voz—. Retumbar. Nadie en esta isla...
-
-Se detiene a la mitad. Te mira un segundo más. Después mira a Eren.
-
-Y se le olvida la pregunta.
-
-Debajo de tu mano, el hombro de Eren se afloja. Despacio. Como una cuerda que alguien deja de tirar. Eren respira hondo, una vez, temblando, y suelta el aire. Te mira de costado, un segundo apenas, con los ojos llenos. No dice nada. No hace falta.
-
-Después mira a su padre.
-
-—No pasó nada —repite, con la voz ronca, rota—. Ya no hay titanes, papá. Ninguno. No hay Fundador. No hay nada. Se terminó.
-
-Grisha se queda quieto.
-
-Le tiemblan los labios. Se saca los anteojos con una mano que no le responde bien, y los anteojos se le caen a la piedra de la calle. No los levanta.
-
-—Se terminó —repite, en un susurro.
-
-Eren da el paso que falta.
-
-Lo abraza. Torpe, rígido al principio, como si no se acordara de cómo se hace. Grisha se queda con los brazos colgando un segundo. Después lo abraza también, fuerte, con una mano en la nuca de su hijo, y se dobla sobre él, y llora sin ruido, con los hombros sacudiéndose, en medio de la calle, descalzo, a la luz del amanecer.
-
-Mikasa se lleva la bufanda a la boca. Te mira a ti. Te inclina la cabeza, apenas, sin decir nada.
-
-Carla está parada junto al escalón, con las dos manos en el pecho, mirando a su marido y a su hijo. Llora. Sonríe. Y frunce el ceño al mismo tiempo, con esa cara de madre que ya entendió que hay algo que no le están contando.
-
-Se da vuelta hacia ti. Se seca los ojos con el delantal.
-
-—Joven. —Su voz es suave, pero firme—. Dijo que nos iba a explicar todo. —Mira la calle, la gente que corre, las casas nuevas, el cielo—. Creo que ya es hora. ¿Quién es usted? ¿Y qué día es hoy?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 964 · SHINGEKI · DÍA 63 · 05:31        ║
-║ Shiganshina · la casa de los Jaeger          ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Carla pide la explicación: quién   ║
-║ es Facundo y qué día es.                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T965)
+## COMANDO 1 (T965)
 me llamo Facundo Morelli, el año 850, no mikasa?
 
-## RESPUESTA 2 (T965)
+## RESPUESTA 1 (T965)
 
 > me llamo Facundo Morelli, el año 850, no mikasa?
 
@@ -129,10 +67,10 @@ En la calle, a lo lejos, se oyen cascos de caballos acercándose al trote por el
 
 ---
 
-## COMANDO 3 (T966)
+## COMANDO 2 (T966)
 asi es, no intenten entenderlo, pero ya no hay titanes, estamos en paz con todos los paises fuera de la isla
 
-## RESPUESTA 3 (T966)
+## RESPUESTA 2 (T966)
 
 > asi es, no intenten entenderlo, pero ya no hay titanes, estamos en paz con todos los paises fuera de la isla
 
@@ -195,4 +133,58 @@ Detrás de Erwin, Ymir baja del caballo de un salto. Te busca con los ojos entre
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:38, Shiganshina, casa de los Jaeger. Facundo contó que hay paz con los países de afuera; Grisha entendió (Marley) y se sentó en el escalón; Carla no sabe qué es Marley. Llegó la Legión: Erwin saluda a Grisha ("Leí sus diarios"). Ymir mira a Facundo desde su caballo. Facundo puede actuar.
+## COMANDO 3 (T967)
+tienen muchas cosas que saber, lo van a entender despues yo no soy quien se los tiene que explicar, la reina va a hacer una conferencia seguro en unos dias de estos
+
+## RESPUESTA 3 (T967)
+
+> tienen muchas cosas que saber, lo van a entender despues yo no soy quien se los tiene que explicar, la reina va a hacer una conferencia seguro en unos dias de estos
+
+> —Tienen muchas cosas que saber. Lo van a entender después. Yo no soy quien se las tiene que explicar. La reina va a hacer un anuncio seguro, en unos días.
+
+Historia se baja de la grupa del caballo con ayuda del soldado. Se acomoda la capa blanca, manchada de barro en el borde. Camina hasta el escalón, despacio, y se para delante de Carla y de Grisha.
+
+Carla la mira sin entender: una chica rubia, bajita, de quince años, con una corona fina en el pelo.
+
+—Mi nombre es Historia Reiss —dice Historia, con la voz clara—. Soy la reina de Paradis. —Hace una pausa—. Él tiene razón. Ustedes, y medio millón de personas que despertaron esta mañana, merecen saber la verdad entera. Toda. Y la van a escuchar de mí, en persona, en tres días, en Shiganshina. En la plaza.
+
+Mira a Erwin. Erwin asiente.
+
+Carla se queda mirándola. Mira la corona. Mira a la chica. Después, despacio, sin saber muy bien cómo se hace, hace una reverencia torpe con el delantal en las manos.
+
+—Majestad.
+
+Historia se pone colorada hasta las orejas.
+
+—No, no hace falta, por favor...
+
+Grisha sigue sentado en el escalón. Mira a la reina, después a Erwin, después a ti. No dice nada. Se pone por fin los anteojos, despacio. Se le ve en la cara que tiene cien preguntas y que, por primera vez en su vida, decide no hacerlas.
+
+Ymir se acerca entre los caballos. No dice nada. Te agarra la mano, entrelaza los dedos con los tuyos y se queda a tu lado, mirando la escena, con la manta colgada del otro brazo.
+
+Kase le olfatea la oreja desde tu hombro.
+
+Carla se endereza de la reverencia. Se seca las manos en el delantal. Mira alrededor: la calle llena de soldados, de caballos, a su hijo, a Mikasa, a su marido en el escalón. A ti.
+
+Y hace lo único que sabe hacer cuando el mundo se vuelve demasiado grande.
+
+—Bueno. —Se aclara la garganta—. No sé qué día es, ni qué es Marley, ni qué es nada. Pero es de mañana y hay gente en mi puerta. —Te mira a ti, directo, con esa voz de madre que no admite discusión—. Usted, joven. Usted y su... —Mira a Ymir, a las manos entrelazadas—. Y su novia. Y su gato. Pasen a desayunar. No tengo idea de qué hay en mi cocina, pero algo voy a encontrar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 967 · SHINGEKI · DÍA 63 · 05:42        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Carla invita a desayunar. Anuncio  ║
+║ de la reina: día 66, plaza de Shiganshina.   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:42, Shiganshina, casa de los Jaeger. Historia anunció a los Jaeger que dará la verdad entera en 3 días en la plaza de Shiganshina. Ymir de la mano de Facundo. Carla invita a Facundo, a Ymir ("su novia") y al gato a desayunar. Facundo puede responder.
