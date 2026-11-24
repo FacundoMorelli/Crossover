@@ -22,3 +22,4 @@ ESTADO: activo
 - T837 · Facundo ofrece una barrera invisible sobre el escenario. Willy pide verla: "Soy un hombre que se crió entre mentiras."
 - T838 · Toca la línea invisible de Sakaime; no puede pasar. Tira té contra ella. "Dios mío." Ve a Facundo sacar una katana de la nada.
 - T839 · Aliviado por la barrera. Lo invita a ver la plaza mañana a la noche como su asesor civil. Llega Lara.
+- T841 · Cita: día 36, 20:00, puerta de servicio; Facundo como asesor civil para ver la plaza.

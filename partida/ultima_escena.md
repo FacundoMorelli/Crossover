@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T838)
-trazo una línea invisible delante de willy y que la toque
-
-## RESPUESTA 1 (T838)
-
-> trazo una línea invisible delante de willy y que la toque
-
-Te pones de pie.
-
-Abres la mano y aparece Sakaime: la katana de guarda cuadrada negra, empuñadura blanca, y la línea plateada fina que le recorre la hoja de punta a punta. Willy se echa hacia atrás en la silla, sin querer.
-
-La hoja ya brilla con la liberación. La mueves en el aire, entre los dos, de arriba abajo, en un solo trazo limpio, de dos metros de alto.
-
-No queda nada. No hay luz, ni brillo, ni marca en el aire. Solo el vapor tibio del invernadero y una gota de agua que cae de una hoja de palmera.
-
-Guardas a Sakaime. Le señalas el aire vacío con el mentón.
-
-Willy mira el espacio entre los dos. Traga saliva. Se levanta despacio, se acomoda el chaleco por costumbre y estira la mano derecha hacia ti.
-
-La mano se le frena a un palmo de tu pecho.
-
-No hay golpe ni sonido. La palma se apoya contra nada. No está fría ni dura. No tiene textura. Simplemente, la mano no sigue.
-
-Willy empuja. Se le ponen blancos los nudillos. La mano no se mueve ni un milímetro. Empuja con las dos manos. Después apoya el hombro y empuja con todo el cuerpo, con los zapatos resbalando en las baldosas mojadas del invernadero, el traje claro torcido.
-
-Nada.
-
-—Es como... —Jadea, con la cara roja—. Es como empujar algo que no existe y que no cede.
-
-Retrocede un paso. Agarra su taza de la mesa, todavía con un dedo de té, y la tira contra el aire.
-
-El té se frena en seco a un palmo de tu cara. Queda pegado contra la nada, se aplana y chorrea hacia abajo, dibujando por un segundo una pared transparente de dos metros que gotea sobre las baldosas.
-
-Kase baja de la mesa, se acerca a la línea y la olfatea. Pasa la nariz por el borde donde chorrea el té. Estornuda.
-
-Willy se queda mirando las gotas que siguen cayendo de la nada. Se le escapa una risa temblorosa, ahogada, de esas que salen cuando el cuerpo no sabe si reír o llorar.
-
-—Dios mío.
-
-Se pasa la mano por la cara.
-
-—Entonces... —Levanta la vista hacia ti, con los ojos brillantes—. ¿Cuánto dura una de estas? ¿Y se puede hacer una que cubra el escenario entero? ¿Con todos arriba?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 838 · SHINGEKI · DÍA 35 · 07:20        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: olfateando la línea                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Barrera invisible sobre el escenario.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T839)
+## COMANDO 1 (T839)
 si, dura lo que yo quiera y cubre todo el escenario
 
-## RESPUESTA 2 (T839)
+## RESPUESTA 1 (T839)
 
 > si, dura lo que yo quiera y cubre todo el escenario
 
@@ -114,10 +54,10 @@ Y ahora que la tienes a cinco metros, lo sientes con claridad: la presencia dens
 
 ---
 
-## COMANDO 3 (T840)
+## COMANDO 2 (T840)
 si, soy yo, mucho gusto lara
 
-## RESPUESTA 3 (T840)
+## RESPUESTA 2 (T840)
 
 > si, soy yo, mucho gusto lara
 
@@ -167,4 +107,53 @@ Lara levanta los ojos hacia ti. Son oscuros, tranquilos y muy cansados.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:26, invernadero Tybur. Lara Tybur (portadora del Martillo de Guerra, 4 años heredado, le quedan 9; su sucesor sería un sobrino de 6) se sentó con Facundo y Willy. Tocó la pared invisible. Pregunta: "¿Podría borrar también al mío? Sin borrarme a mí."
+## COMANDO 3 (T841)
+creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
+
+## RESPUESTA 3 (T841)
+
+> creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
+
+> —Creo que sí. Puedo intentarlo, Lara, pero es mejor que no sea ahora.
+
+Lara te sostiene la mirada. Después asiente, despacio, como si ya lo hubiera pensado sola.
+
+—Tiene razón. —Mira su taza—. Si algo sale mal en la fiesta... si los generales hacen lo que mi hermano teme... alguien en esa plaza va a tener que pararse frente a los cañones. Y el Martillo sirve para eso.
+
+Levanta la vista.
+
+—Después de la fiesta, entonces.
+
+Lo dice tranquila, pero a la mitad de la frase se le humedecen los ojos, apenas. No llora. Sonríe, una sonrisa chica, cansada, la de alguien que lleva cuatro años contando hacia atrás y de golpe tiene un número distinto en la cabeza.
+
+Willy estira la mano por encima de la mesa y se la apoya en el hombro. No dicen nada. No hace falta.
+
+Kase, a los pies de Lara, se para en dos patas, apoya las delanteras en su rodilla y le olfatea la taza. Lara se ríe por primera vez, bajito, y le rasca la cabeza.
+
+Willy se aclara la garganta y vuelve a ser el que organiza.
+
+—Bien. —Se pone de pie y se sacude el traje mojado—. Mañana, el día treinta y seis, a las ocho de la noche. En la puerta de servicio de la mansión, al costado, donde entró la otra vez. Venga vestido como un asesor civil de Marley: traje oscuro, sombrero. Desde aquí vamos juntos en mi coche a la plaza. Usted mira todo lo que tenga que mirar.
+
+Lara, sin dejar de rascarle la cabeza a Kase, agrega sin levantar la vista:
+
+—Y traiga al gato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 841 · SHINGEKI · DÍA 35 · 07:30        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: con las patas en la rodilla de Lara    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Cita con Willy: día 36, 20:00, puerta de     ║
+║ servicio.                                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:30, invernadero Tybur. Facundo intentará borrar el titán de Lara después de la fiesta; ella aceptó. Cita con Willy: día 36, 20:00, puerta de servicio, vestido de asesor civil marleyano; de ahí a la plaza en el coche de Willy. Lara: "Y traiga al gato."
