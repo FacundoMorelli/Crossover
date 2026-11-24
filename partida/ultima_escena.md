@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T835)
-si, ahora voy a hablar con willy
-
-## RESPUESTA 1 (T835)
-
-> si, ahora voy a hablar con willy
-
-> —Sí. Ahora voy a hablar con Willy.
-
-Levi asiente, una sola vez.
-
-—Yo me quedo con el barbudo. —Se apoya otra vez contra la pared—. Cuando vuelvas, avísale a Erwin. Y no me traigas sorpresas.
-
-Zeke levanta el libro de botánica a modo de saludo.
-
-Te llevas dos dedos a la frente.
-
-Cruzar el océano con la mente es como estirar un hilo muy largo. Del otro lado del mar, en el continente, entre millones de presencias, hay una que ya conoces: tranquila, culta, cansada, con un fondo de miedo que nunca se le termina de ir. Willy Tybur.
-
-Y al lado de esa, en la misma casa, otra. Esa no es humana del todo: densa, pesada, con algo enorme dormido adentro. La misma que sentiste en la mansión hace un mes. Esta vez está más cerca, en el piso de arriba.
-
-Desapareces del sótano de Trost.
-
-Aparece un olor húmedo y verde, a tierra mojada, a flores raras y a té negro. Estás en el invernadero de la mansión Tybur, entre helechos gigantes y palmeras en macetas de cerámica. El sol de la mañana entra por los vidrios del techo, empañados por el calor de adentro. Gotea agua de las hojas.
-
-En una mesa chica de hierro blanco, entre dos naranjos, Willy Tybur desayuna solo. Traje claro, chaleco, el pelo rubio peinado hacia atrás. Tiene el diario de Liberio abierto, una taza de té en la mano y un plato de tostadas sin tocar.
-
-Levanta la vista.
-
-La taza se le inclina y el té se le derrama sobre el diario. No grita. Se queda mirándote con los ojos muy abiertos, la boca entreabierta, como alguien que ve un fantasma que estaba esperando.
-
-Deja la taza en el plato, despacio. Se seca la mano con la servilleta.
-
-—Veinticuatro días. —Lo dice bajo, casi riéndose—. Encendí esa vela ocho veces. Empezaba a pensar que el emisario de la isla había sido un sueño mío. Uno de esos sueños largos, con gatos.
-
-Mira a Kase. Kase lo mira a él.
-
-Willy dobla el diario mojado, despacio, y lo deja a un lado. Cuando vuelve a mirarte ya no sonríe. Se le ve la cara de un hombre que no durmió bien en semanas.
-
-—Siéntese, por favor. —Señala la silla de enfrente—. Tenemos menos tiempo del que cree.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 835 · SHINGEKI · DÍA 35 · 07:05        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Hablar con Willy.                            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T836)
+## COMANDO 1 (T836)
 me siento, que pasó estos días willy?
 
-## RESPUESTA 2 (T836)
+## RESPUESTA 1 (T836)
 
 > me siento, que pasó estos días willy?
 
@@ -117,10 +59,10 @@ Junta las manos sobre la mesa.
 
 ---
 
-## COMANDO 3 (T837)
+## COMANDO 2 (T837)
 puedo poner una barerra en el escenario antes de todo, es invisible(el shikai no el bankai)
 
-## RESPUESTA 3 (T837)
+## RESPUESTA 2 (T837)
 
 > puedo poner una barerra en el escenario antes de todo, es invisible (el shikai no el bankai)
 
@@ -167,4 +109,64 @@ Una sonrisa chica, nerviosa.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:18, invernadero de la mansión Tybur. Facundo ofreció una barrera invisible (Shikai de Sakaime) sobre el escenario. Willy pregunta si aguanta cañones de campaña y si dura las casi dos horas del acto; pide verla, tocarla, ahí mismo.
+## COMANDO 3 (T838)
+trazo una línea invisible delante de willy y que la toque
+
+## RESPUESTA 3 (T838)
+
+> trazo una línea invisible delante de willy y que la toque
+
+Te pones de pie.
+
+Abres la mano y aparece Sakaime: la katana de guarda cuadrada negra, empuñadura blanca, y la línea plateada fina que le recorre la hoja de punta a punta. Willy se echa hacia atrás en la silla, sin querer.
+
+La hoja ya brilla con la liberación. La mueves en el aire, entre los dos, de arriba abajo, en un solo trazo limpio, de dos metros de alto.
+
+No queda nada. No hay luz, ni brillo, ni marca en el aire. Solo el vapor tibio del invernadero y una gota de agua que cae de una hoja de palmera.
+
+Guardas a Sakaime. Le señalas el aire vacío con el mentón.
+
+Willy mira el espacio entre los dos. Traga saliva. Se levanta despacio, se acomoda el chaleco por costumbre y estira la mano derecha hacia ti.
+
+La mano se le frena a un palmo de tu pecho.
+
+No hay golpe ni sonido. La palma se apoya contra nada. No está fría ni dura. No tiene textura. Simplemente, la mano no sigue.
+
+Willy empuja. Se le ponen blancos los nudillos. La mano no se mueve ni un milímetro. Empuja con las dos manos. Después apoya el hombro y empuja con todo el cuerpo, con los zapatos resbalando en las baldosas mojadas del invernadero, el traje claro torcido.
+
+Nada.
+
+—Es como... —Jadea, con la cara roja—. Es como empujar algo que no existe y que no cede.
+
+Retrocede un paso. Agarra su taza de la mesa, todavía con un dedo de té, y la tira contra el aire.
+
+El té se frena en seco a un palmo de tu cara. Queda pegado contra la nada, se aplana y chorrea hacia abajo, dibujando por un segundo una pared transparente de dos metros que gotea sobre las baldosas.
+
+Kase baja de la mesa, se acerca a la línea y la olfatea. Pasa la nariz por el borde donde chorrea el té. Estornuda.
+
+Willy se queda mirando las gotas que siguen cayendo de la nada. Se le escapa una risa temblorosa, ahogada, de esas que salen cuando el cuerpo no sabe si reír o llorar.
+
+—Dios mío.
+
+Se pasa la mano por la cara.
+
+—Entonces... —Levanta la vista hacia ti, con los ojos brillantes—. ¿Cuánto dura una de estas? ¿Y se puede hacer una que cubra el escenario entero? ¿Con todos arriba?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 838 · SHINGEKI · DÍA 35 · 07:20        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: olfateando la línea                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Barrera invisible sobre el escenario.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:20, invernadero Tybur. Facundo trazó con Sakaime una línea invisible; Willy la empujó con todo el cuerpo y le tiró té: no pasa nada. "Dios mío." Pregunta cuánto dura y si se puede cubrir el escenario entero con todos arriba.
