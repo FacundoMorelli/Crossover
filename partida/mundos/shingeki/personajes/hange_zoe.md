@@ -23,3 +23,4 @@ ESTADO: activo
 - T937 · Silba fuerte al ver a Facundo besar a Ymir.
 - T938 · Días 51-52 midiendo el corte de Wall Rose con Moblit.
 - T947 · Llega corriendo con los anteojos al revés.
+- T948 · Se acomoda los anteojos al derecho, despacio.

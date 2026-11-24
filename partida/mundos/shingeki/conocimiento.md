@@ -177,3 +177,4 @@
 - Todos en el mirador (Historia, Erwin, Levi, Hange, Armin, Mikasa, Eren, Zackly, Pixis) y parte de las delegaciones · T937 · Ven a Facundo besar a Ymir: son pareja (público).
 - Ymir · T939 · Por la carta de Lara (leída por encima del hombro de Facundo) y deducción: Lara Tybur porta el Martillo de Guerra, le quedan nueve años, quiere que Facundo intente borrarle el titán.
 - Ymir · T940 · Ve a Facundo abrir una puerta de luz al cielo y cruzarla.
+- Erwin, Levi, Hange, Armin, Mikasa, Eren, Historia, Jean, Connie, Sasha, Ymir · T948 · Por Facundo: dice tener una forma de revivir a todos los muertos por titanes, hacer desaparecer todos los titanes y devolver a los titanes puros a la normalidad.

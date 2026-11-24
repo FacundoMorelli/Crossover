@@ -25,3 +25,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T932 · "Tch. Cada vez es más grande."
 - T937 · Chasquea la lengua y se da vuelta al ver el beso.
 - T947 · Despertado; en camisa, contra la pared: "Más le vale."
+- T948 · "Todos los que murieron por los titanes. Todos."

@@ -3,85 +3,10 @@
 
 ---
 
-## COMANDO 1 (T945)
-simula el resto del dia hasta que volvemos a la tierra completando la mision
-
-## RESPUESTA 1 (T945)
-
-> simula el resto del dia hasta que volvemos a la tierra completando la mision
-
-El día en el Nuevo Namek dura más que en la Tierra. Los tres soles se turnan en el cielo verde, y cuando uno se esconde detrás de las colinas, otro ya está subiendo del otro lado. Nunca termina de ser de noche.
-
-Dende no para un segundo. Recorre la aldea entera de la mano de Cargo, cúpula por cúpula, saludando a todos. Le muestra a un grupo de chicos cómo cura una herida en la rodilla de uno que se cayó corriendo, y los chicos lo miran como a un héroe. Cuenta lo del Templo Sagrado, lo de Mr. Popo, lo de los guerreros de la Tierra, lo de Majin Buu. A cada rato te señala desde lejos, y los namekianos que lo escuchan se dan vuelta a mirarte.
-
-A ti te dan una cúpula vacía al costado del lago, fresca, con una ventana redonda que da al agua. Un namekiano joven te trae un cuenco con agua del lago, que es dulce y fría y te deja la cabeza clara como después de dormir. Para Kase, después de mucho deliberar entre tres ancianos, aparecen unos peces chicos y plateados que alguien pesca a mano en la orilla. Kase los olfatea con desconfianza, se come cuatro, ignora el quinto y se echa a dormir en la ventana, al sol, con la panza para arriba.
-
-A media tarde, Moori se sienta un rato contigo a la sombra de su cúpula. No pregunta de dónde vienes ni qué eres. Te habla de Namek, del viejo, del que ya no existe. De las aldeas que quemó Freezer. De los chicos que ahora crecen sin haberlo visto nunca. Se queda callado mucho tiempo, mirando el lago, y no parece que espere respuesta.
-
-Cuando el tercer sol empieza a bajar, Dende vuelve a buscarte.
-
-Tiene los ojos hinchados y la cara contenta. Detrás viene Cargo, y detrás de Cargo media aldea.
-
-La despedida es larga. Cargo abraza a Dende tres veces y le hace prometer que va a volver. Moori le pone una mano en la cabeza, entre las antenas, y le dice algo en namekiano, bajito, que hace que Dende baje los ojos y asienta. Después Moori se vuelve hacia ti y vuelve a hacer la reverencia lenta de la mañana. Toda la aldea lo imita.
-
-Kase se despierta, bosteza, salta de la ventana y te sube al hombro. Le pones la mano a Dende en el hombro, y Dende levanta la otra para saludar hasta el último segundo.
-
-Dos dedos en la frente.
-
-El Templo Sagrado está igual que como lo dejaron. En la Tierra cae la tarde: el cielo se pone naranja y violeta por encima de las nubes, y la sombra de las palmeras se alarga sobre las baldosas blancas. Mr. Popo está parado en el centro de la plataforma, exactamente donde lo dejaron, con las manos juntas en la espalda, como si no se hubiera movido en todo el día.
-
-—Mr. Popo cuidó la Tierra —dice—. No pasó nada.
-
-Dende se ríe. Le tiembla la voz.
-
-Y delante de tus ojos se abre una ventana, fría.
-
-[Misión de copia cumplida.]
-
-╔══════════════════════════════════════════════╗
-║ COPIA COMPLETADA                             ║
-║ Poder de Dende (Dios de la Tierra)           ║
-║ Dragon Ball                                  ║
-║                                              ║
-║ · Creación de Esferas del Dragón y de su     ║
-║   dragón, en cualquier mundo                 ║
-║ · Curación namekiana total                   ║
-║ · Vigilancia de un planeta entero desde      ║
-║   lo alto; telepatía namekiana               ║
-║ · Dominio total e inmediato                  ║
-║                                              ║
-║ +500 EXP                                     ║
-╚══════════════════════════════════════════════╝
-
-Dende se da vuelta hacia ti. Se seca los ojos con la manga de la túnica, sin vergüenza esta vez.
-
-—Gracias, Facundo. —Hace una reverencia torpe, todavía con la voz rota, imitando la de Moori—. No sé cómo pagarte esto. De verdad.
-
-Se endereza. Te mira con curiosidad, con la cabeza ladeada, igual que a la mañana.
-
-—Antes, en el jardín, me preguntaste por las esferas. Y Moori-sama me dijo, cuando nos despedíamos, que tenías cara de alguien que vino a buscar algo para otra persona. —Duda—. ¿Es así?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 945 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
-║ Templo Sagrado · la plataforma               ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Copia de Dende hecha. Volver a     ║
-║ Shingeki en un día (Ymir, Lara).             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T946)
+## COMANDO 1 (T946)
 algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
 
-## RESPUESTA 2 (T946)
+## RESPUESTA 1 (T946)
 
 > algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
 
@@ -134,10 +59,10 @@ Kase te salta del hombro, cruza las tejas mojadas sacudiendo las patas con asco 
 
 ---
 
-## COMANDO 3 (T947)
+## COMANDO 2 (T947)
 si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
 
-## RESPUESTA 3 (T947)
+## RESPUESTA 2 (T947)
 
 > si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
 
@@ -187,4 +112,68 @@ Levi se apoya en la pared, con los brazos cruzados.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 01:15, sala de mapas del palacio. Reunión convocada por Facundo: Erwin, Levi, Hange, Armin, Mikasa, Eren, Historia, Jean, Connie, Sasha, Ymir. Todos esperan que hable. Facundo puede hablar.
+## COMANDO 3 (T948)
+Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
+
+## RESPUESTA 3 (T948)
+
+> Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
+
+> —Tengo una forma de revivir a todos los que murieron por los titanes, de hacer desaparecer a todos los titanes del mundo, y de que los que están transformados en titanes puros vuelvan a la normalidad.
+
+Nadie dice nada.
+
+Durante un segundo, en la sala de mapas, lo único que se mueve son las llamas de las velas.
+
+A Sasha se le cae el pan de la mano. Rebota en el piso de piedra y rueda debajo de la mesa, y nadie se agacha a buscarlo.
+
+Eren es el primero en reaccionar. Se le va el sueño de la cara de golpe. Da un paso hacia ti, descalzo, con los ojos muy abiertos y la boca entreabierta, y se queda ahí. No pregunta nada. Está pensando en una sola cosa, y todos en la sala saben cuál es: una casa en Shiganshina, una viga, una sonrisa de dientes torcidos.
+
+Mikasa le agarra la manga. No para frenarlo. Para agarrarse ella.
+
+Armin se tapa la boca con las dos manos.
+
+Connie no se mueve. Está pálido, quieto, con los puños cerrados a los costados, y cuando por fin habla, la voz le sale rota y chiquita, como la de un chico.
+
+—Los que están... transformados. —Traga—. ¿Eso es... mi mamá? ¿Ragako? ¿Todo el pueblo?
+
+Jean le pone una mano en el hombro sin mirarlo, sin dejar de mirarte a ti.
+
+Levi se despega de la pared. Ya no tiene cara de sueño. Tiene una expresión que nadie de los presentes le vio nunca, y que nadie se anima a mirar mucho tiempo.
+
+—Todos los que murieron por los titanes —repite, despacio, en voz baja—. Todos.
+
+No dice nombres. No hace falta.
+
+Historia se lleva una mano al pecho. Hange se saca los anteojos, que tenía al revés, y se los vuelve a poner al derecho, muy despacio, como si tuviera que ver mejor para entender.
+
+Erwin es el único que no cambia la cara. Pero tiene la mano de la manga vacía apretada contra el muñón, con fuerza, y los nudillos blancos.
+
+—¿Cómo? —pregunta. Solo eso.
+
+En el borde de la mesa, Ymir dejó el frasco de manzanas a un lado. Está sentada muy derecha, con la manta resbalándole de los hombros, mirándote. Tiene la cara blanca.
+
+—"Todos los titanes del mundo" —repite, bajito—. Lindo... ¿Eso son también los Nueve?
+
+Se lleva una mano al pecho, sin darse cuenta.
+
+—¿Eso es el mío también?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 948 · SHINGEKI · DÍA 55 · 01:17        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Explicar el cómo. Erwin pregunta;  ║
+║ Ymir pregunta por los Nueve.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 01:17, sala de mapas. Facundo anunció que puede revivir a los muertos por titanes, hacer desaparecer todos los titanes y devolver a los titanes puros a la normalidad. Conmoción. Connie pregunta por su madre y Ragako; Levi repite "todos"; Erwin pregunta cómo; Ymir pregunta si incluye a los Nueve y a su propio titán. Facundo puede responder.

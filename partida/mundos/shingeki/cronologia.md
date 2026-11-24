@@ -97,3 +97,4 @@
 - Día 54 16:15 · (T940) Facundo se va por una puerta desde el techo del palacio. Promete a Ymir volver en un día.
 - Día 55 00:40 · (T946) Facundo vuelve por una puerta al techo del palacio (8 h 25 min después).
 - Día 55 01:15 · (T947) Reunión de madrugada en la sala de mapas convocada por Facundo.
+- Día 55 01:17 · (T948) Facundo anuncia a la cúpula de la Legión y a la reina que puede revivir a los muertos por titanes, hacer desaparecer todos los titanes del mundo y devolver a los titanes puros a la normalidad.

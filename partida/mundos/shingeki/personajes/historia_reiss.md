@@ -29,3 +29,4 @@ ESTADO: activo
 - T932 · A los embajadores: "Eso era un kilómetro. Las murallas tienen más de mil. Paradis va a borrar cada uno de ellos durante los próximos años."
 - T938 · Recepción del día 50: tres horas de preguntas. Se entera de que Ymir se mudó con Facundo: "Ya era hora."
 - T947 · Llega con un chal sobre el camisón.
+- T948 · Se lleva una mano al pecho.
