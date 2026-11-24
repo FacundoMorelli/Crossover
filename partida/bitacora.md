@@ -763,3 +763,4 @@ T761 · One Piece · En el aire · El Merry sale volando del cerco del Buster Ca
 T762 · One Piece · En el aire · Rumbo a Water 7 siguiendo la vía del tren.
 T763 · One Piece · Going Merry · Besa a Robin en cubierta delante de todos. "Esta vez no me voy a ir a ninguna parte."
 T764 · One Piece · Water 7 · Simula el vuelo de regreso: banquete, Luffy despierta. Llegan al Dock 1. Iceburg espera en el muelle.
+T765 · One Piece · Water 7 · Propone quemar el Merry para despedirlo. Luffy y Usopp aceptan: en el mar.
