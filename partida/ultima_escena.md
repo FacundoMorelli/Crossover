@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T916)
-miro
-
-## RESPUESTA 1 (T916)
-
-> miro
-
-Te quedas quieto, con Kase en el hombro, mirando.
-
-Nadie se mueve en el claro. La niebla se arrastra entre los dos, por encima del barro y de los babuinos caídos. Arriba, una rama cruje con el viento.
-
-El canoso ataca primero.
-
-Viene en zigzag, bajo, con los dos sables pegados al cuerpo, y en el último paso los abre como dos alas. Es el mismo ángulo con el que Zoro abrió el círculo hace un minuto: lo aprendió mirándolo. Zoro lo para con Wado y Kitetsu. El choque suena seco, metálico, y los dos se quedan trabados, frente contra frente, empujando.
-
-El mono es fuerte. Más que los otros. Le aguanta el peso a Zoro sin retroceder, con los dientes amarillos al descubierto y los ojos chiquitos clavados en el suyo.
-
-Se separan. Vuelven a chocar. Tres veces, cuatro, cinco. Cada intercambio dura menos de un segundo, y en cada uno el canoso copia algo nuevo: una finta, un cambio de peso, un giro de muñeca. Zoro recibe un corte superficial en el antebrazo. Le devuelve uno en el hombro, a través de la armadura.
-
-Luffy no grita. Mira con los brazos cruzados, serio.
-
-Perona baja hasta quedar a la altura de tus ojos, sin darse cuenta, con el paraguas apretado contra el pecho.
-
-En el sexto intercambio, Zoro hace algo distinto.
-
-No copia nada: retrocede. Da un salto largo hacia atrás, aterriza agachado y cruza las tres espadas delante del cuerpo, con Wado en la boca entre las otras dos. Se queda quieto. Respira una vez.
-
-El canoso lo mira. Duda. Después hace lo único que sabe: imita. Se agacha y cruza los dos sables en la misma guardia, delante de la cara.
-
-Pero tiene dos espadas. No tres.
-
-—Oni... —murmura Zoro alrededor de la empuñadura.
-
-Desaparece.
-
-—...Giri.
-
-Aparece del otro lado del canoso, de espaldas, con las tres hojas hacia afuera.
-
-Durante un segundo, no pasa nada.
-
-Después los dos sables del babuino se parten por la mitad. La armadura negra se le abre en tres tajos limpios sobre el pecho. El canoso da un paso, otro, y cae de cara en el barro, desmayado.
-
-Zoro se queda parado, con la espalda hacia él. Respira hondo. Envaina, una espada por vez: Kitetsu, Shusui, Wado.
-
-Después se da vuelta.
-
-Luffy salta de la raíz y se le tira encima con los brazos abiertos. Zoro lo frena con una mano en la cara, sin mirarlo, pero no lo empuja.
-
-—Ya, ya. Suéltame. —Se suelta el pañuelo de la cabeza, despacio. Te mira a ti por encima del hombro de Luffy. Mira el gato. Mira el claro lleno de monos—. ¿Cómo diablos llegaron hasta aquí? ¿Y dónde están los demás?
-
-Se cruza de brazos.
-
-—Dijiste que tenían algo que decirme. Habla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 916 · ONE PIECE · DÍA 57 · 13:46       ║
-║ Kuraigana · claro del bosque muerto          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T917)
+## COMANDO 1 (T917)
 nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
 
-## RESPUESTA 2 (T917)
+## RESPUESTA 1 (T917)
 
 > nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
 
@@ -139,10 +67,10 @@ Después Zoro te mira a ti. Te mira de arriba abajo: el pelo, los ojos, el gato 
 
 ---
 
-## COMANDO 3 (T918)
+## COMANDO 2 (T918)
 voy a estar viajando. simula decirle al resto hasta robin(ultima)
 
-## RESPUESTA 3 (T918)
+## RESPUESTA 2 (T918)
 
 > voy a estar viajando. simula decirle al resto hasta robin(ultima)
 
@@ -223,4 +151,62 @@ Y te ve.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:20, Tequila Wolf. Avisados 7 de 8 (simulado). En el puente de esclavos, Robin (encadenada, esposas de piedra marina, cargando piedra) levanta la cabeza y ve a Facundo, a 50 m. Luffy al lado. Guardias del Gobierno alrededor. Facundo puede actuar.
+## COMANDO 3 (T919)
+me acerco caminando a ella
+
+## RESPUESTA 3 (T919)
+
+> me acerco caminando a ella
+
+Caminas.
+
+No corres. Caminas por el medio del puente, entre las filas de presos, con Kase en el hombro y las manos a los costados, y el ruido se va apagando a tu paso. Un martillo se frena en el aire. Una carretilla se detiene. Dos viejos encadenados por el tobillo se quedan mirándote pasar, con la boca abierta, como si vieran algo que no puede estar ahí: alguien sin cadenas caminando por Tequila Wolf.
+
+Robin no se mueve.
+
+Se queda parada, con el bloque de piedra en la espalda y la cabeza levantada, mirándote acercarte. No pestañea. Tiene la cara gris de polvo, una línea de sangre seca en el labio, ojeras de días sin dormir. Las esposas de piedra marina le dejaron las muñecas en carne viva.
+
+A los veinte metros, le tiemblan las manos.
+
+A los diez, el bloque de piedra se le resbala de la espalda y cae al suelo con un golpe sordo que se oye en todo el puente.
+
+—¡Oye, tú! —Un guardia viene desde atrás, corriendo, con el látigo en una mano—. ¡¿Quién te dejó pasar?! ¡¿De qué celda saliste?!
+
+Robin no lo oye. Tú tampoco te detienes.
+
+Llegas.
+
+Te quedas delante de ella, a un paso. Kase estira el cuello desde tu hombro y le huele la cara, despacio, y le toca la mejilla con la nariz.
+
+Robin baja la vista al gato. Después la levanta hacia ti.
+
+Se le llenan los ojos de agua, de golpe, sin ruido. No llora como Usopp ni como Chopper. Se le caen las lágrimas por la cara sucia, dejando dos rayas limpias en el polvo, y ella no hace nada para pararlas. Sonríe. Una sonrisa chiquita, cansada, que le tiembla en la boca.
+
+—Tardaste —dice, muy bajo.
+
+Le tiembla la voz.
+
+—Me prometiste que, cuando volvieras, me ibas a contar cómo termina la historia de ese mundo.
+
+Detrás de ti, el guardia llega a cinco metros y levanta el látigo. Otro, más atrás, se descuelga el fusil del hombro. Un tercero sopla un silbato, y el sonido corre por el puente, de guardia en guardia, hasta perderse en el horizonte.
+
+Luffy, que venía caminando detrás de ti, se detiene. Se pone de espaldas a ustedes, de cara a los guardias, y se tira del sombrero hacia los ojos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 919 · ONE PIECE · DÍA 57 · 17:21       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 76% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Robin. Guardias del Gobierno.      ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:21, Tequila Wolf. Facundo frente a Robin. Ella llora en silencio: "Tardaste. Me prometiste que me ibas a contar cómo termina la historia de ese mundo." Guardias llegando (látigo, fusil, alarma). Luffy los enfrenta de espaldas a la pareja. Facundo puede actuar.

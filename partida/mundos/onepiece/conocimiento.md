@@ -251,3 +251,4 @@
 - Zoro, Perona, Luffy · T915 · Ven que la semilla que Facundo le tiró a Zoro lo cura al instante.
 - Zoro, Perona · T917 · Por Facundo: el castillo de Kuraigana sería de Mihawk; plan de dos años y reunión en Sabaody.
 - Nami, Usopp, Sanji, Chopper, Franky, Brook (y Haredas, Heracles, okamas, tribu de Torino, tribu de Namakura) · T918 · Ven a Facundo y Luffy aparecer de la nada; por ellos: dos años y Sabaody. Los seis saben que Facundo los encontró y los visitó a todos el mismo día.
+- Guardias y presos de Tequila Wolf · T919 · Ven a un desconocido sin cadenas (pelo blanco y azul, gato) aparecer y caminar hasta la presa Nico Robin; un chico con sombrero de paja con él. Alarma.
