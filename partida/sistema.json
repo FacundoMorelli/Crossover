@@ -1,8 +1,8 @@
 {
-  "turno": 789,
+  "turno": 790,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 37 (Grand Line, Water 7)",
-  "hora": "12:33",
+  "fecha_local": "Día 38 (Grand Line, Water 7)",
+  "hora": "08:30",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

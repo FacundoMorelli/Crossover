@@ -73,3 +73,4 @@ ESTADO: activa
 - T785 · Sabe que Facundo tiene su Hana Hana. Le tira de la oreja con una mano brotada. "Muéstrame."
 - T786 · Ve la Hana Hana de Facundo: "Tus flores son de otro color." "Es muy raro verse desde afuera."
 - T787 · Facundo la llama "amor" por primera vez. "Nadie me había llamado así."
+- T790 · Noche del Día 37 con Facundo en el cuarto chico (fundido). Día 38 a la mañana lee el libro de Paradis en el sillón.

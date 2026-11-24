@@ -788,3 +788,4 @@ T786 · One Piece · Islote · Usa la Hana Hana delante de Robin: brazos tatuado
 T787 · One Piece · Islote · "¿Volvemos con los demás, amor?" Robin: "Nadie me había llamado así."
 T788 · One Piece · Water 7 · Vuelven por Teletransportación al almuerzo. Escándalo en la mesa.
 T789 · One Piece · Water 7 · "No te lo puedo enseñar, Luffy." Luffy: "Tacaño."
+T790 · One Piece · Water 7 · Simula hasta el Día 38 08:30. Visita al Dock 1, fiesta chica, noche con Robin. Desayuno tranquilo.
