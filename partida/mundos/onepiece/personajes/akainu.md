@@ -12,3 +12,4 @@ ESTADO: activo
 - T892 · Su Dai Funka le pega a Kizaru (Boogie Woogie de Facundo). Mira a Facundo: "Tú."
 - T893 · Facundo se burla ("muy mal pegarle a un compañero"). "Los que se paran entre la justicia y la basura, arden con la basura." Se lanza contra Facundo con un puño de magma.
 - T894 · Le pega a Facundo un puño de magma en el pecho: no le quema ni la ropa ni el cuerpo. "...¿Qué eres?"
+- T895 · Facundo lo empuja con la Luna: cruza la bahía y se estrella contra el muro de la plaza, que se le cae encima.
