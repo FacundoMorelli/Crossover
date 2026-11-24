@@ -13,3 +13,4 @@ ESTADO: activo
 - T890 · Facundo le pone una Marca (II) de la Manecilla Inversa. No ve nada; se ríe.
 - T902 · "Un mocoso dándome órdenes en mi barco." Parte el hielo para cubrir la retirada; la flota zarpa. No se queda atrás (cambio).
 - T903 · "Le dijiste a mi hijo que no hiciera estupideces, y tú te pones a tapar el cielo."
+- T904 · "¡Remen, idiotas, remen!" Confía la cúpula a Facundo.

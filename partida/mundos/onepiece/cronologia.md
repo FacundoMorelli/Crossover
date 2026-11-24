@@ -164,3 +164,4 @@
 - Día 57 13:13 · (T901) Ace en el Moby Dick. Barbablanca ordena la retirada (canon). Akainu sale del muro y provoca a Ace (canon).
 - Día 57 13:16 · (T902) Ace NO cae en la provocación de Akainu (cambio crucial). Barbablanca parte el hielo y la flota se retira con él a bordo. Akainu lanza Ryusei Kazan sobre la flota.
 - Día 57 13:17 · (T903) Facundo cubre toda la flota con el Bankai Hate no Sakaime: el Ryusei Kazan no daña ningún barco (canon: la lluvia de magma causaba bajas en la retirada). Kizaru llega junto a Akainu.
+- Día 57 13:18 · (T904) Kizaru prueba la cúpula con Yasakani no Magatama (sin efecto) y se planta sobre ella frente a Facundo. Akainu avanza hacia el agua.

@@ -15,3 +15,4 @@ ESTADO: activo
 - T895 · Facundo lo empuja con la Luna: cruza la bahía y se estrella contra el muro de la plaza, que se le cae encima.
 - T901 · Sale del muro y provoca a Ace insultando a Barbablanca ("un perdedor que se esconde detrás de sus hijos").
 - T903 · Su Ryusei Kazan se borra contra la cúpula-frontera de Facundo. Baja los brazos, quieto, furioso.
+- T904 · Avanza al borde del hielo partido, el agua hierve.

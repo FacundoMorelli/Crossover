@@ -13,3 +13,4 @@ DIÁLOGOS CLAVE: ver encuentros.
 QUÉ SABE DE FACUNDO: el cartel (Ojos de Eclipse, Sombrero de Paja); todo lo que hizo hoy en Marineford a la vista (Haki del Rey, frenar a Sengoku, liberar a Ace, el Bankai).
 QUÉ PODERES DE FACUNDO VIO: los de hoy en Marineford (ver conocimiento.md).
 ESTADO: activo
+- T904 · "Entonces te lo dejo a ti, yoi." Vuela a la popa a cubrir los botes de heridos.

@@ -240,3 +240,4 @@
 - Todos en Marineford y la transmisión mundial · T900 · Ven a Ojos de Eclipse romper con los dedos las esposas de piedra marina de Ace y a Ace quedar libre, en llamas, en la cima del cadalso.
 - Ace · T901 · Por Facundo: es Facundo Morelli, de la tripulación del Sombrero de Paja.
 - Todos en Marineford (marines, piratas, almirantes; transmisión si sigue activa) · T903 · Ven a Ojos de Eclipse sacar una katana negra y blanca y cubrir toda la flota con una cúpula plateada casi invisible que borra los meteoros de magma de Akainu sin que exploten. Lo interpretan como una fruta del diablo o técnica desconocida.
+- Kizaru, Akainu y todos en Marineford · T904 · Ven que los rayos de luz de Kizaru se borran contra la cúpula y que Kizaru no puede entrar pisándola. Kizaru deduce que la cúpula depende de Ojos de Eclipse y su katana.

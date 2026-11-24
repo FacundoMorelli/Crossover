@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T901)
-Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
-
-## RESPUESTA 1 (T901)
-
-> Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
-
-> —Facundo Morelli, de la tripulación del Sombrero de Paja. Volvamos con Barbablanca. La guerra ya tiene que terminar: estás libre. Solo hay que irnos ahora. No hace falta que haya más bajas.
-
-Ace te mira un segundo largo, con el fuego todavía bailándole en los hombros.
-
-Después se le quiebra la cara. Se ríe, una risa corta, rota, con los ojos mojados.
-
-—Del Sombrero de Paja. —Mira a Luffy, que le sigue colgado del cuello—. Claro. ¿De quién más?
-
-Asiente.
-
-Apoyas una mano en el hombro de Ace y otra en el de Luffy. Las llamas de Ace te pasan por los dedos, tibias, y no te queman. Dos dedos en la frente.
-
-Desaparecen de la cima del cadalso.
-
-Arriba, Sengoku se queda con la palma clavada en los escalones rotos, mirando el lugar vacío donde estaba su prisionero.
-
-Aparecen en la cubierta del Moby Dick, delante de Barbablanca.
-
-El viejo se queda mirando a Ace. No dice nada. Estira un brazo enorme y lo atrae contra el pecho, con fuego y todo, y lo abraza. Ace se queda quieto contra el abrigo blanco, con la cara escondida, y le tiemblan los hombros.
-
-—Hijo tonto. —La voz de Barbablanca es baja y ronca—. Hijo tonto...
-
-Después levanta la cabeza y ruge para toda la bahía.
-
-—¡¡HIJOS!! ¡¡ACE ESTÁ CON NOSOTROS!! ¡¡NOS RETIRAMOS!! ¡¡TODOS A LOS BARCOS!! ¡¡NADIE SE QUEDA ATRÁS!!
-
-Un grito de miles de gargantas le contesta. Los piratas empiezan a retroceder por el hielo hacia los barcos, cargando heridos, cubriéndose unos a otros. Marco aterriza en la baranda. Jinbe e Ivankov vienen corriendo. Squard llora sin vergüenza.
-
-Por un momento, parece que se termina.
-
-Entonces el muro derrumbado de la plaza revienta desde adentro.
-
-Las piedras salen volando en una explosión de vapor y magma. De entre los escombros se levanta Akainu, entero, con el traje rojo roto, la gorra caída y los brazos burbujeando de fuego líquido. Respira hondo. Mira el Moby Dick.
-
-Y grita, con una voz que cruza toda la bahía.
-
-—¡PORTGAS D. ACE! —Da un paso sobre las piedras—. ¡Huyes como huyó tu padre! ¡La sangre de Roger siempre fue cobarde!
-
-Se le tuerce la boca.
-
-—¡Y Barbablanca, ese viejo, es una reliquia de una era terminada! ¡Un perdedor que se esconde detrás de sus hijos!
-
-En la baranda del Moby Dick, Ace se queda quieto.
-
-Se le apagan las risas. Se le encienden los puños, despacio, en un fuego que ya no es alegre.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 901 · ONE PIECE · DÍA 57 · 13:13       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: ¡Ace libre! Retirada. Akainu       ║
-║ provoca a Ace. Shingeki: antes del D59.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T902)
+## COMANDO 1 (T902)
 ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
 
-## RESPUESTA 2 (T902)
+## RESPUESTA 1 (T902)
 
 > ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
 
@@ -143,10 +73,10 @@ El magma le sube por los brazos hacia arriba, hacia las nubes, en columnas de fu
 
 ---
 
-## COMANDO 3 (T903)
+## COMANDO 2 (T903)
 bankai alrededor de toda la flota
 
-## RESPUESTA 3 (T903)
+## RESPUESTA 2 (T903)
 
 > bankai alrededor de toda la flota
 
@@ -217,4 +147,66 @@ Detrás de ti, Barbablanca apoya el bisento en la cubierta, y la madera cruje.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:17, cubierta del Moby Dick. Facundo liberó el Bankai Hate no Sakaime alrededor de toda la flota pirata; el Ryusei Kazan de Akainu se borra contra la frontera, ningún barco tocado. La flota navega hacia la salida de la bahía. Akainu quieto y furioso en la orilla; Kizaru llegó a su lado. Marco pregunta cuánto la puede sostener; Barbablanca le echa en cara que tape el cielo después de pedirle a Ace que no hiciera estupideces. Facundo puede responder.
+## COMANDO 3 (T904)
+puedo aguantarlo no se preocupen
+
+## RESPUESTA 3 (T904)
+
+> puedo aguantarlo no se preocupen
+
+> —Puedo aguantarlo. No se preocupen.
+
+Marco te mira un segundo más, con los párpados caídos y los ojos atentos. Después se le afloja la boca en algo parecido a una sonrisa.
+
+—Entonces te lo dejo a ti, yoi.
+
+Abre las alas de fuego azul y salta de la baranda hacia la popa de la flota, donde los últimos botes remolcan heridos y se quedaron atrás.
+
+Barbablanca no dice nada. Se da vuelta hacia la proa y levanta la voz.
+
+—¡Ya lo oyeron! ¡Nadie se detiene! ¡Remen, idiotas, remen!
+
+La flota acelera. Los barcos se ordenan en una columna larga hacia la boca de la bahía, debajo de la cúpula plateada, con las velas hinchadas y los heridos amontonados en las cubiertas. Ace se queda en la baranda, mirando hacia atrás, hacia el cadalso vacío. Luffy no le suelta la manga.
+
+En la orilla, Kizaru deja de rascarse la cabeza.
+
+Levanta un dedo.
+
+—Bueno~. Probemos.
+
+La luz le brota de la punta del dedo, y de golpe el aire sobre la bahía se llena de destellos: cientos de rayos amarillos, finos como agujas, disparados a la velocidad de la luz contra la cúpula. Yasakani no Magatama.
+
+Tocan la frontera y se borran. Uno tras otro, sin un solo reflejo, sin un chispazo. Como gotas de agua que caen sobre una piedra al rojo y no dejan ni vapor.
+
+Kizaru baja el dedo. Silba.
+
+—Aaah... no pasa nada. Qué molesto~.
+
+Después se convierte en luz.
+
+Un parpadeo amarillo cruza la bahía en menos de un instante y se detiene en seco, en el aire, justo afuera de la cúpula, sobre la popa del Moby Dick. Kizaru vuelve a tomar forma ahí, parado sobre nada, con las manos en los bolsillos y los lentes reflejando el borde plateado. Tiene la cara a menos de un metro de la frontera. Apoya la suela del zapato en ella, como quien prueba el hielo de un lago, y la suela no entra.
+
+Te mira por encima de la cúpula, a ti y a la katana que tienes en la mano.
+
+—Oye, oye~. ¿Y si te mato a ti, esto se cae?
+
+Detrás de él, en la orilla, Akainu empieza a caminar hacia el borde del hielo partido. El magma le baja por los brazos hasta los pies y el agua de la bahía empieza a hervir.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 904 · ONE PIECE · DÍA 57 · 13:18       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Sacar la flota de la bahía bajo    ║
+║ el Bankai. Shingeki: antes del D59 16:30.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:18. La flota avanza en columna hacia la salida de la bahía bajo el Bankai de Facundo. Kizaru, parado en el aire justo afuera de la cúpula sobre la popa del Moby Dick, le pregunta a Facundo si la cúpula se cae si lo mata a él. Akainu camina hacia el borde del hielo, hirviendo el agua. Facundo puede responder.

@@ -902,3 +902,4 @@ T900 · One Piece · Marineford · Rompe las esposas de Ace y le da una semilla.
 T901 · One Piece · Marineford · "Facundo Morelli, Sombrero de Paja." Al Moby Dick; retirada. Akainu provoca a Ace.
 T902 · One Piece · Marineford · Ace no cae en la provocación. Barbablanca parte el hielo; la flota zarpa. Akainu lanza lluvia de magma.
 T903 · One Piece · Marineford · Bankai alrededor de toda la flota: el Ryusei Kazan no toca un solo barco. Marco: "¿Cuánto la puedes sostener?"
+T904 · One Piece · Marineford · "Puedo aguantarlo." Kizaru: sus rayos se borran en la cúpula; se planta afuera: "¿Y si te mato a ti, esto se cae?" Akainu avanza.
