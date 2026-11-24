@@ -11,4 +11,4 @@ QUÉ SABE DE FACUNDO: el cartel (400M, Enies Lobby); que es del Sombrero de Paja
 ESTADO: activo
 - T892 · Su Dai Funka le pega a Kizaru (Boogie Woogie de Facundo). Mira a Facundo: "Tú."
 - T893 · Facundo se burla ("muy mal pegarle a un compañero"). "Los que se paran entre la justicia y la basura, arden con la basura." Se lanza contra Facundo con un puño de magma.
-- T894 · Le pega a Facundo un puño de magma en el pecho: la ropa se quema, el cuerpo no. "...¿Qué eres?"
+- T894 · Le pega a Facundo un puño de magma en el pecho: no le quema ni la ropa ni el cuerpo. "...¿Qué eres?"

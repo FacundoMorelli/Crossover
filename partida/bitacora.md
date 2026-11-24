@@ -892,4 +892,4 @@ T890 · One Piece · Marineford · Semilla a Luffy. Marcas de Manecilla Inversa:
 T891 · One Piece · Marineford · Arco Quincy: destruye tres Pacifistas. "¡Vayamos, Luffy!" Akainu lanza un puño de magma a Luffy.
 T892 · One Piece · Marineford · Boogie Woogie: Kizaru recibe el Dai Funka; Luffy vuelve. Akainu: "Tú."
 T893 · One Piece · Marineford · Burla a Akainu. Misión de copia: Akainu. Akainu se lanza con el puño de magma.
-T894 · One Piece · Marineford · Recibe el puño de magma de Akainu: ileso, pero la ropa se quema (misión de copia sigue activa). "¿Qué eres?"
+T894 · One Piece · Marineford · Recibe el puño de magma de Akainu: ileso, ni la ropa se quema (corrección del jugador). COPIA Akainu (+800 EXP). "¿Qué eres?"

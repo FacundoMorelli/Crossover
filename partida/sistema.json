@@ -5,7 +5,7 @@
   "hora": "13:06",
   "edad": 18,
   "nivel": 27,
-  "exp": 220440,
+  "exp": 221240,
   "exp_siguiente_nivel": 240000,
   "fragmentos": 134581,
   "plata_local": {
@@ -827,6 +827,19 @@
         "Todo lo que Rayleigh llega a hacer en el canon",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Magu Magu no Mi y Haki (poder de Akainu)",
+      "de": "Sakazuki (Akainu)",
+      "mundo": "onepiece",
+      "cuando": "T894 (corregido por el jugador): recibió el puño de magma de Akainu en el pecho y no se le quemó ni la ropa",
+      "incluye": [
+        "Cuerpo de magma (Logia) a voluntad",
+        "Dai Funka, Ryusei Kazan, Inugami Guren, Meigo, Bakuretsu Kazan y todo lo que Akainu llega a hacer",
+        "Haki de armadura y observación de Akainu",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1102,13 +1115,6 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
-    },
-    {
-      "poder": "Akainu: Magu Magu no Mi (magma) y Haki",
-      "mundo": "onepiece",
-      "mision": "Recibir un puño de magma de Akainu en el pecho y que no te queme ni la ropa.",
-      "dificultad": "ALTA",
-      "emitida": "T893"
     }
   ],
   "misiones_de_copia_rechazadas": [],

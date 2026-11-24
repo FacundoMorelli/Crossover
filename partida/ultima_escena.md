@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T892)
-jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
-
-## RESPUESTA 1 (T892)
-
-> jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
-
-Se te escapa una risa.
-
-La montaña de magma viene por el aire, enorme y burbujeante, a veinte metros de Luffy. Diez.
-
-Buscas con los ojos. En la plaza, al pie del cadalso, un hombre de traje amarillo a rayas pelea contra el rubio de las llamas azules, moviéndose a la velocidad de la luz entre fogonazos dorados: Kizaru.
-
-La energía maldita te baja a las manos.
-
-Aplaudes.
-
-¡PLAF!
-
-Luffy desaparece del hielo.
-
-En su lugar, en medio del camino del puño de magma, en el aire, aparece un hombre alto, de traje amarillo a rayas y lentes, a mitad de un movimiento, con la pierna levantada para una patada de luz que ya no tiene a quién pegarle. Kizaru parpadea detrás de los lentes. Mira alrededor. Ve el hielo. Ve el cielo. Ve, delante de su cara, una montaña de magma que ocupa todo.
-
-—¿Eh~?
-
-El Dai Funka le pega de lleno.
-
-El estruendo sacude la bahía. Una columna de vapor sube cincuenta metros. Kizaru sale despedido hacia atrás envuelto en magma, gira en el aire como un muñeco, cruza medio campo de batalla y se estrella contra el hielo, derritiéndolo en un cráter que hierve. Queda tirado en el fondo, humeando, con el traje amarillo hecho jirones negros y quemados y los lentes torcidos.
-
-Se sienta despacio. Está vivo. Furioso.
-
-—Ooooo... —Se toca el pecho quemado—. Eso dolió mucho~.
-
-En la plaza, al pie del cadalso, Luffy aparece de golpe en el lugar de Kizaru, delante de Marco, con el puño levantado y cara de no entender nada.
-
-Te agachas, levantas una piedra suelta del hielo, del tamaño de un puño, y la cargas con energía maldita.
-
-Aplaudes otra vez.
-
-¡PLAF!
-
-Luffy desaparece de la plaza y aparece a tu lado, en el hielo, todavía con el puño levantado. La piedra cae en la plaza, delante de Marco, y rueda hasta sus pies.
-
-Luffy se tambalea, mareado, y se agarra el sombrero con las dos manos.
-
-—¡¿Qué pasó?! —Gira la cabeza para todos lados—. ¡Estaba acá y después allá y después acá! ¡¿Qué fue eso?! —Ve a Kizaru humeando en el cráter—. ¡Ah! ¡El de amarillo está todo quemado! ¡Shishishi!
-
-En el borde del hielo, Akainu tiene el brazo todavía convertido en magma, chorreando sobre el hielo. Mira a Kizaru en el cráter, quemado por su propio puño. Después gira la cabeza despacio y te mira a ti.
-
-Por primera vez en toda la guerra, se le mueve algo en la cara.
-
-—Tú.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 892 · ONE PIECE · DÍA 57 · 13:05       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 220.440/240.000               ║
-║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Akainu te mira.                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T893)
+## COMANDO 1 (T893)
 akainu, muy mal de un almirante pegarle a un compañero
 
-## RESPUESTA 2 (T893)
+## RESPUESTA 1 (T893)
 
 > akainu, muy mal de un almirante pegarle a un compañero
 
@@ -142,10 +72,10 @@ El calor llega antes que el puño. El hielo a tus pies se vuelve agua y el agua 
 
 ---
 
-## COMANDO 3 (T894)
+## COMANDO 2 (T894)
 perdon kase, le tiro a kase a luffy y dejo que me pegue
 
-## RESPUESTA 3 (T894)
+## RESPUESTA 2 (T894)
 
 > perdon kase, le tiro a kase a luffy y dejo que me pegue
 
@@ -212,4 +142,69 @@ En sus brazos, Kase te mira a través del vapor sin moverse, con las pupilas fin
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:06, bahía de Marineford. Facundo le tiró a Kase a Luffy y dejó que Akainu le pegara: el cuerpo ileso e inmóvil, pero el sobretodo y la camisa se quemaron sobre el pecho (dragón tatuado a la vista). La misión de copia de Akainu NO se cumplió (sigue activa). Akainu, con el puño de magma apoyado en el pecho de Facundo: "¿Qué eres?" Luffy, con Kase en brazos, grita su nombre.
+## COMANDO 3 (T894, corrección)
+(hace que no se me haya quemado la ropa)
+
+## RESPUESTA 3 (T894, corrección)
+
+> (hace que no se me haya quemado la ropa)
+
+[Corrección aplicada.]
+
+El puño de magma te pega en el pecho.
+
+El ruido es un siseo enorme, como mil hierros al rojo metidos en agua. Una explosión de vapor blanco sube en una columna. El hielo alrededor se derrite en un círculo de diez metros y se convierte en agua hirviendo. Los borceguíes se te hunden hasta el tobillo.
+
+No te mueves.
+
+Y no se quema nada. Ni la piel, ni la camisa, ni el sobretodo negro. El magma se aplasta contra la tela como si chocara contra una pared, chorrea por el abrigo sin prenderle ni una hebra y cae al agua hirviendo, a tus pies, sin dejar una marca.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER — COMPLETADO               ║
+║ Magu Magu no Mi + Haki                       ║
+║ USUARIO ORIGINAL: Sakazuki (Akainu) ·        ║
+║ One Piece                                    ║
+║                                              ║
+║ Cuerpo de magma · Dai Funka · Ryusei Kazan · ║
+║ Inugami Guren · Meigo · Haki de armadura y   ║
+║ observación · todo lo que Akainu llega a     ║
+║ hacer                                        ║
+║ DOMINIO: total                               ║
+╚══════════════════════════════════════════════╝
+```
+
+[+800 EXP]
+
+El vapor se abre despacio.
+
+Akainu sigue ahí, a un brazo de distancia, con el puño de magma apoyado en tu pecho. Mira el puño. Mira tu sobretodo, intacto, seco, sin una quemadura. Te mira a la cara.
+
+Por primera vez, el almirante de la justicia absoluta no sabe qué hacer con lo que tiene delante.
+
+—... —Le tiembla apenas un músculo de la mandíbula—. ¿Qué eres?
+
+Detrás de ti, Luffy, empapado de vapor, con Kase apretado contra el pecho, grita tu nombre con toda la voz.
+
+—¡¡FACUNDO!!
+
+En sus brazos, Kase te mira a través del vapor sin moverse, con las pupilas finas como agujas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 894 · ONE PIECE · DÍA 57 · 13:06       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 221.240/240.000               ║
+║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en brazos de Luffy                     ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Akainu frente a ti.                          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:06, bahía de Marineford. CORRECCIÓN DEL JUGADOR APLICADA: el puño de magma de Akainu no le quemó a Facundo ni la ropa ni el cuerpo. Misión cumplida: copió la Magu Magu no Mi y el Haki de Akainu (+800 EXP). Akainu, con el puño apoyado en su pecho: "¿Qué eres?" Luffy con Kase en brazos grita su nombre.
