@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T939)
-leo el mensaje
-
-## RESPUESTA 1 (T939)
-
-> leo el mensaje
-
-Rompes el lacre. Adentro hay una sola hoja, doblada en tres, escrita con la misma letra prolija e inclinada del sobre. Huele apenas a tierra mojada y a hojas verdes, como el invernadero de la mansión.
-
-La lees.
-
-Emisario:
-
-Le escribo en el primer barco que cruza el mar con permiso de los dos gobiernos. Me parece apropiado. Hace dos meses, una carta entre Liberio y Paradis habría sido una sentencia de muerte para quien la escribiera y para quien la recibiera.
-
-Mi hermano no sabe que le escribo. No porque se lo oculte, sino porque no se lo pregunté. Willy duerme mejor desde la fiesta, y no quiero quitarle eso.
-
-Usted me dijo, en el invernadero, "después de la fiesta". La fiesta pasó. Usted vino cada tarde durante cuatro días y no me lo recordó ni una vez, y yo tampoco se lo pedí. Creo que los dos teníamos miedo de la respuesta.
-
-Ya no lo tengo.
-
-Me quedan nueve años, emisario. Tal vez algo menos. Si hay una posibilidad, aunque sea pequeña, de vivir los que vienen después, quiero intentarlo. Y si no la hay, prefiero saberlo ahora, mientras todavía tengo tiempo de hacer algo con los que me quedan.
-
-No hay apuro. Venga cuando pueda. Estoy casi todas las mañanas en el invernadero, antes de que la casa despierte.
-
-Traiga al gato. Las plantas lo extrañan. Yo también, un poco.
-
-L. T.
-
-Ymir lee la carta por encima de tu hombro, en silencio, de principio a fin. Tarda más que tú. Vuelve a leer la última línea.
-
-Después se recuesta otra vez en el techo, boca arriba, con las manos detrás de la cabeza, mirando el cielo.
-
-—Nueve años —dice, tranquila.
-
-Se queda callada un momento. Se le borra la media sonrisa.
-
-—Es la del Martillo, ¿no? La hermana del señor del discurso. —No te mira. Mira las nubes—. Yo conozco esa cuenta, lindo. Trece años desde que lo heredas. Me la hicieron en Marley, cuando me tenían encadenada, como si fuera un chiste. A mí todavía me quedan unos cuantos.
-
-Gira la cabeza en el tejado y te mira.
-
-—¿Puedes hacerlo? Borrarle el titán sin borrarla a ella. —Le cambia un poco la voz—. ¿Es algo que puedes hacer de verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 939 · SHINGEKI · DÍA 54 · 16:13        ║
-║ Mitras · techo del palacio                   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el techo, al sol                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La carta de Lara: borrar el        ║
-║ Martillo sin borrarla a ella.                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T940)
+## COMANDO 1 (T940)
 no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
 
-## RESPUESTA 2 (T940)
+## RESPUESTA 1 (T940)
 
 > no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
 
@@ -129,10 +69,10 @@ Mr. Popo deja la regadera en el suelo, despacio.
 
 ---
 
-## COMANDO 3 (T941)
+## COMANDO 2 (T941)
 hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
 
-## RESPUESTA 3 (T941)
+## RESPUESTA 2 (T941)
 
 > hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
 
@@ -205,4 +145,56 @@ Dende se sacude la tierra de las manos y se pone de pie.
 
 ---
 
-ESTADO AL CIERRE: Dragon Ball, ~día 96, Templo Sagrado (jardín). Dende creó y deshizo una esfera de muestra. Misión de copia emitida: llevar a Dende al Nuevo Namek y traerlo el mismo día. Dende pregunta para qué quería verlo. Facundo puede responder.
+## COMANDO 3 (T942)
+por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
+
+## RESPUESTA 3 (T942)
+
+> por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
+
+> —Porque nunca lo había visto. Yo no estaba cuando las hicieron. Dende, ¿tienes ganas de ir al Nuevo Namek?
+
+Dende se queda quieto.
+
+Las antenas se le levantan solas, despacio, como las orejas de un perro que oye su nombre. Abre la boca. La cierra. La vuelve a abrir.
+
+—¿Al... Nuevo Namek? —Lo dice casi en un susurro—. ¿Ahora?
+
+Mira hacia arriba, al cielo azul sin nubes, como si pudiera ver a través de él hasta el otro lado de la galaxia.
+
+—Hace más de un año que no veo a nadie. Desde que me quedé en la Tierra. A Moori-sama, a mis hermanos... a Cargo. —Se le quiebra un poco la voz en el último nombre, y carraspea—. Siempre pensé que algún día iría, cuando tuviera tiempo. Pero un Dios no tiene tiempo libre. Alguien tiene que cuidar la Tierra.
+
+Baja la vista. Se mira las manos, todavía con tierra entre los dedos.
+
+—Además está lejísimos. En una nave tardaría meses.
+
+Mr. Popo da un paso al frente. Le pone una mano enorme en el hombro.
+
+—Mr. Popo cuidó la Tierra muchos años antes de Dende. Mr. Popo puede cuidarla un día.
+
+Dende levanta la cabeza y lo mira. Después te mira a ti. Se le llenan los ojos de golpe, y se los frota rápido con el dorso de la mano, sin importarle ensuciarse la cara de tierra.
+
+—¡Sí! —Lo dice tan fuerte que Kase da un respingo en tu hombro—. ¡Sí, quiero ir! ¡Quiero ir!
+
+Después se pone colorado, como si recién se diera cuenta de que gritó.
+
+—Perdón. Es que... —Se acomoda la túnica, nervioso, se sacude las rodillas, se estira las mangas—. ¿Cómo vamos a llegar? ¿Con eso de los dedos, como Goku-san? Está muy, muy lejos. ¿Puedes sentirlos desde aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 942 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
+║ Templo Sagrado · el jardín                   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Llevar a Dende al Nuevo Namek y    ║
+║ traerlo hoy. Shingeki en un día.             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Dragon Ball, ~día 96, Templo Sagrado (jardín). Dende quiere ir al Nuevo Namek; Mr. Popo cuidará la Tierra un día. Dende pregunta cómo van a llegar y si Facundo puede sentirlos desde ahí. Facundo puede responder.

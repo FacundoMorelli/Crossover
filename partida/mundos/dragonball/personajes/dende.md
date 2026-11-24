@@ -22,3 +22,4 @@ QUÉ PODERES DE FACUNDO VIO: casi todos los usados en la Tierra desde su llegada
 ESTADO: bien.
 - T940 · ~Día 96 · En el jardín regando con Mr. Popo. "¡Facundo! ¡Volviste! ¡Y el gato también! Pasaron casi tres meses... ¿Pasó algo? Tienes cara de venir a pedir algo importante."
 - T941 · Crea una esfera de muestra (cuatro estrellas) y la deshace: "Primero se le da forma, después un corazón, después el número, y al final el nombre del dragón." No hará otro juego (habría dos dragones). "¿Para qué querías verlo, Facundo?"
+- T942 · Hace más de un año que no ve a Moori, sus hermanos, Cargo. "¡Sí, quiero ir!" "¿Con eso de los dedos, como Goku-san? ¿Puedes sentirlos desde aquí?"

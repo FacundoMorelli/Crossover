@@ -940,3 +940,4 @@ T938 · Shingeki · Mitras · (simulado días 50-54) Recepción; zarpan las dele
 T939 · Shingeki · Mitras · Carta de Lara: quiere intentar borrar el Martillo. Ymir: "¿Puedes hacerlo de verdad?"
 T940 · Shingeki → Dragon Ball · Promete a Ymir volver en un día. Puerta al Templo Sagrado (~87 días después). Teletransporte a Dende.
 T941 · Dragon Ball · Templo · Dende crea y deshace una esfera de muestra. Misión de copia: llevarlo al Nuevo Namek. "¿Para qué querías verlo?"
+T942 · Dragon Ball · Templo · "¿Tienes ganas de ir al Nuevo Namek?" Dende: "¡Sí!" Mr. Popo cuidará la Tierra. "¿Puedes sentirlos desde aquí?"

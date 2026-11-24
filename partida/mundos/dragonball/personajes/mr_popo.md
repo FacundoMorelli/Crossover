@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: lo que vio Dende.
 ESTADO: bien.
 - T940 · ~Día 96 · "Mr. Popo también dice bienvenido."
 - T941 · Ve la esfera de muestra: "Bonita."
+- T942 · "Mr. Popo cuidó la Tierra muchos años antes de Dende. Mr. Popo puede cuidarla un día."
