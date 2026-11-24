@@ -1022,3 +1022,4 @@ T1020 · Fairy Tail · Magnolia · (simulado Días 1-3) Fiesta; posada; Consejo;
 T1021 · Fairy Tail · Sede, cuarto del fondo · Lo acompaña. Lahar: "¿De dónde es usted, y qué hacía en Magnolia esa mañana?"
 T1022 · Fairy Tail · Interrogatorio · "Soy viajero." Sin registros de entrada. Lahar: "¿Qué clase de magia usa usted?"
 T1023 · Fairy Tail · Interrogatorio · "Magia de constelaciones." No figura en el registro: nueva o perdida. "¿Todo eso también es su magia de constelaciones?"
+T1024 · Fairy Tail · Interrogatorio · "Magia y fuerza física." Registrado como mago independiente; no es un peligro. "La medicina: ¿qué es, y de dónde la saca?"

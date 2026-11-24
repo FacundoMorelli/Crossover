@@ -45,3 +45,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Happy · T1020 · cree que Kase es su amigo.
 - Lahar y el Consejo (registro escrito) · T1022 · Facundo declaró que es viajero y que pasaba por Magnolia. Lahar sabe que no hay registros de entrada a Fiore con su nombre (lo deduce: entró sin registrarse o mintió).
 - Lahar y el Consejo (registro escrito) · T1023 · Facundo declaró usar "magia de constelaciones"; no figura en el registro del Consejo (Lahar la clasifica como magia nueva o perdida).
+- Lahar y el Consejo (registro) · T1024 · Facundo: "magia y fuerza física". Registrado como mago independiente sin gremio, magia no catalogada; no considerado peligroso. Lahar sabe por Mirajane que también le dio la medicina a Makarov (Mirajane lo supo por Makarov en la fiesta). Los médicos del Consejo examinaron a Shadow Gear: sin rastro de heridas.

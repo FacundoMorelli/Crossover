@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1021)
-está bien, lo acompaño adentro
-
-## RESPUESTA 1 (T1021)
-
-> está bien, lo acompaño adentro
-
-> —Está bien. Lo acompaño adentro.
-
-Lahar asiente, cierra la carpeta y se da vuelta sin decir nada más.
-
-Adentro, el salón de Fairy Tail está irreconocible. Las mesas largas están corridas contra las paredes, y en los huecos donde estaban los pilares de hierro quedaron agujeros tapados con tablas. Tres caballeros de armadura gris custodian la puerta de la barra. Al pasar, ves a Gray sentado en un banco con los brazos cruzados, esperando su turno, sin camisa otra vez. Te ve, levanta una ceja y no dice nada. Mirajane, detrás de la barra, te sonríe y le hace a Kase un saludito con los dedos.
-
-Lahar te lleva hasta una habitación del fondo, la que antes era una despensa. Ahora hay una mesa de madera, dos sillas enfrentadas y una lámpara de lacrima encendida en el centro. En un rincón, otro caballero, más joven, está sentado frente a un atril con una pluma y un libro abierto, listo para escribir.
-
-Lahar se sienta. Te señala la otra silla.
-
-Kase se baja de tu hombro y se sube a la mesa, entre los dos. Se sienta, enrosca la cola alrededor de las patas y mira a Lahar de frente.
-
-Lahar mira al gato. Se acomoda los lentes. Decide no decir nada sobre el gato.
-
-—Esto no es un juicio, señor Morelli —dice, abriendo otra vez la carpeta—. Usted no está acusado de nada. El Consejo tiene que reconstruir lo que pasó en Oak Town y saber quién participó. Pero tengo que advertirle que lo que diga aquí queda registrado. —Señala con la cabeza al caballero de la pluma—. Y que mentirle a un oficial del Consejo es un delito.
-
-Moja la punta de un lápiz con la lengua. Lee algo en la carpeta. Levanta la vista.
-
-—Empecemos por lo más simple. —Te mira por encima de los lentes—. ¿De dónde es usted, y qué hacía en Magnolia la mañana en que encontraron a los tres magos colgados en el parque?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1021 · FAIRY TAIL · X784 · DÍA 3 ·     ║
-║ 17:14 · Magnolia · sede, cuarto del fondo    ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sobre la mesa, mirando a Lahar         ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: Interrogatorio del Consejo         ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1022)
+## COMANDO 1 (T1022)
 soy viajero, estaba pasando por Magnolia y los encontré colgados
 
-## RESPUESTA 2 (T1022)
+## RESPUESTA 1 (T1022)
 
 > soy viajero, estaba pasando por Magnolia y los encontré colgados
 
@@ -93,10 +49,10 @@ Kase, sobre la mesa, bosteza.
 
 ---
 
-## COMANDO 3 (T1023)
+## COMANDO 2 (T1023)
 magia de constelaciones
 
-## RESPUESTA 3 (T1023)
+## RESPUESTA 2 (T1023)
 
 > magia de constelaciones
 
@@ -145,4 +101,48 @@ Kase lo mira sin parpadear.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:20, interrogatorio con Lahar. "Magia de constelaciones" no figura en el registro (nueva o perdida). Lahar pregunta si el hacha, el vuelo y el teletransporte también son de esa magia. Facundo puede responder.
+## COMANDO 3 (T1024)
+sí, es parte de mi magia y de mi fuerza fisica
+
+## RESPUESTA 3 (T1024)
+
+> sí, es parte de mi magia y de mi fuerza fisica
+
+> —Sí. Es parte de mi magia y de mi fuerza física.
+
+Lahar se queda callado un momento. Después asiente, despacio, y esta vez anota algo él mismo en la carpeta. Una línea corta.
+
+—Fuerza física —repite, sin levantar la vista—. Hay magos en Fiore que se refuerzan el cuerpo con magia. Ninguno que yo conozca podría parar con la mano el Hacha Verde de Boris Grant. —Una pausa—. Pero tampoco hay una regla que lo prohíba.
+
+Cierra la carpeta. Se recuesta en la silla.
+
+—Voy a ser honesto con usted, señor Morelli. Mi trabajo no es entender cómo funciona su magia. Mi trabajo es saber si usted es un peligro para Fiore. —Se quita los lentes y los limpia con un pañuelo—. Según todas las declaraciones, incluidas las de Phantom, usted no mató a nadie. No destruyó edificios civiles. No atacó a nadie que no lo atacara primero. Bajó a tres heridos de un árbol, rescató a una secuestrada y ayudó a detener a un Mago Santo que había iniciado una guerra entre gremios. —Se vuelve a poner los lentes—. Si eso es un peligro, es uno que no me preocupa.
+
+El caballero del rincón deja de escribir y lo mira, sorprendido.
+
+—Va a quedar registrado como mago independiente, sin gremio, con una magia no catalogada. —Lahar se pone de pie—. El Consejo puede volver a llamarlo. Si lo hace, le pido que se presente.
+
+Va hacia la puerta. Pone la mano en el picaporte.
+
+Se detiene.
+
+—Una última cosa. —Se da vuelta—. Esa medicina que les dio a los magos del árbol. Y, según Mirajane Strauss, también al maestro Makarov, después de usar Fairy Law. —Te mira por encima de los lentes—. Los médicos del Consejo examinaron a los tres de Shadow Gear. Dicen que no tienen ni un rastro de las heridas. Ni cicatrices. Como si nunca los hubieran tocado. —Hace una pausa—. ¿Qué es, y de dónde la saca?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1024 · FAIRY TAIL · X784 · DÍA 3 ·     ║
+║ 17:24 · Magnolia · sede, cuarto del fondo    ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sobre la mesa                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: Interrogatorio del Consejo         ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:24, cuarto del fondo de la sede. Lahar lo registra como mago independiente y lo considera no peligroso. Desde la puerta pregunta qué es la medicina y de dónde la saca. Facundo puede responder.

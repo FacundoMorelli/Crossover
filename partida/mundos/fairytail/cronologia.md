@@ -53,3 +53,4 @@
 - Día 1 noche · (T1020) Fiesta de Fairy Tail. Facundo, en la posada pagada por el gremio.
 - Día 2 · (T1020) Llega el Consejo (Caballeros de la Runa): interrogatorios (canon: una semana). Phantom bajo custodia; Jose paralizado. Loke devuelve las llaves a Lucy (canon).
 - Día 3 · (T1020) Revista con la caída de Phantom (mago sin gremio con gato, sin nombre). 17:10: Lahar pide interrogar a Facundo.
+- Día 3 17:24 · (T1024) El Consejo (Lahar) registra a Facundo como mago independiente con magia no catalogada.

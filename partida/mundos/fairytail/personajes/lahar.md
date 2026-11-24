@@ -5,10 +5,11 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: adulto
 FÍSICO: Joven, lentes, pelo negro peinado hacia atrás, armadura impecable, carpeta.
 PERSONALIDAD Y FORMA DE HABLAR: Formal, metódico, sigue el reglamento.
-RELACIÓN CON FACUNDO: oficial; lo investiga.
+RELACIÓN CON FACUNDO: oficial; no lo considera un peligro (T1024).
 ENCUENTROS:
 - T1020 · Día 3 17:10 · Puerta de la sede: le pide acompañarlo a declarar.
 DIÁLOGOS CLAVE:
+- T1024 · "Mi trabajo es saber si usted es un peligro para Fiore. Si eso es un peligro, es uno que no me preocupa." "Va a quedar registrado como mago independiente, sin gremio, con una magia no catalogada." "Esa medicina... ¿Qué es, y de dónde la saca?"
 - T1023 · "No figura en el registro del Consejo. O es una magia nueva o es una magia perdida. Las magias perdidas no son ilegales, pero el Consejo lleva cuenta." "¿Todo eso también es su magia de constelaciones?"
 - T1022 · "¿Viajero de dónde? No hay registros con su nombre. Ni en Bosco, ni en Seven, ni en Minstrel." "Son por lo menos cuatro tipos de magia distintos. ¿Qué clase de magia usa usted?"
 - T1021 · "Esto no es un juicio. Lo que diga queda registrado. Mentirle a un oficial del Consejo es un delito." "¿De dónde es usted, y qué hacía en Magnolia la mañana en que encontraron a los tres magos colgados en el parque?"
