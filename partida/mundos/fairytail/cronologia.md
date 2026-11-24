@@ -45,3 +45,4 @@
 - Día 1 09:12 · (T1011) CAMBIO: Facundo frena el Metsu de Aria; Makarov conserva su magia.
 - Día 1 09:13 · (T1012) Facundo vence a Aria y rescata a Lucy de la torre (CAMBIO: en el canon Lucy escapaba sola saltando de la torre y Natsu la atrapaba). Jose sabe el nombre de Facundo.
 - Día 1 09:18 · (T1014) Makarov reúne al gremio en el salón de Phantom: Jose no estaba (proyección); va a responder.
+- Día 1 09:20 · (T1015, declarado por el jugador) El cuerpo de Jose está en la torre de la sede, escondiendo su magia. Makarov decide subir él solo.

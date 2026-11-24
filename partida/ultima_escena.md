@@ -3,101 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1012)
-me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
-
-## RESPUESTA 1 (T1012)
-
-> me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
-
-> —Me llamo Facundo Morelli.
-
-Aprietas las muñecas de Aria y tiras de él hacia abajo, hacia ti. El gigante se inclina, sorprendido, con la cabeza vendada a tu altura, y le das con la frente en la cara.
-
-Un golpe seco. El sombrero de copa sale volando y rueda por el piso de piedra. Aria se queda tieso un segundo, todavía colgado de tus manos, con la boca abierta y las lágrimas cortadas a la mitad.
-
-Después se desploma. Tres metros de hombre caen de espaldas sobre las baldosas, y el candelabro del techo se sacude.
-
-[Rival vencido: Aria (Element 4). +800 EXP · +25 Fragmentos.]
-
-Jose da un paso atrás. Un paso de proyección, sin ruido, que no levanta polvo.
-
-—Facundo Morelli —repite. Ya no sonríe. Te mira la cara, los ojos, el gato. Está memorizando.
-
-Makarov abre la boca para decir algo.
-
-No te quedas a escucharlo.
-
-Buscas. Es fácil: en todo el edificio, entre cien presencias asustadas que corren por las escaleras, hay una que está quieta, chiquita y dormida, encerrada entre muros. Está en lo alto de una torre, al otro lado de la sede, y al lado tiene otras dos presencias, de pie.
-
-Desapareces.
-
-Apareces en una celda redonda de piedra, con una ventana de barrotes por donde entra el viento. Lucy está en el piso, sobre un colchón de paja, con las manos atadas a la espalda y el pelo mojado pegado a la cara. Duerme, o la durmieron. Tiene la ropa empapada, como si la hubieran sacado de un río.
-
-Junto a la puerta de la celda, del lado de adentro, hay dos personas.
-
-Una es una chica pálida, de pelo azul ondulado, con un sombrero ruso y un abrigo largo; lleva un paraguas rosado cerrado en la mano, y a su alrededor el aire huele a lluvia. La otra es un hombre flaco con un monóculo y bigote fino, parado en una posición imposible, con el cuerpo doblado hacia un costado como una planta.
-
-╔════════════════════════════════════════╗
-║ JUVIA LOCKSER                          ║
-║ Element 4 de Phantom Lord (agua)       ║
-║ PODER: Cuerpo de Agua                  ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x120 sobre ella║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-
-╔════════════════════════════════════════╗
-║ SOL                                    ║
-║ Element 4 de Phantom Lord (tierra)     ║
-║ PODER: Magia de Arena y Tierra         ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x120 sobre él ║
-║ COPIABLE · MISIÓN: BAJA                ║
-╚════════════════════════════════════════╝
-
-Te ven aparecer de la nada en el medio de la celda.
-
-—¡¿Non?! —dice el del monóculo.
-
-La chica de pelo azul no dice nada. Abre la boca y no le sale ningún sonido.
-
-Te agachas, levantas a Lucy en brazos, con las manos todavía atadas, y desapareces otra vez antes de que alguno de los dos se mueva.
-
-Apareces en el salón principal, en el medio de Fairy Tail.
-
-Hay un segundo de silencio total. Natsu, que estaba discutiendo con Erza al pie de la escalera, se da vuelta y te ve: tú, de pie entre las mesas rotas, con Kase en el hombro y Lucy dormida en los brazos.
-
-—¡¿LUCY?!
-
-El grito retumba en todo el salón.
-
-Lucy se mueve. Frunce la cara, parpadea, abre los ojos. Lo primero que ve es tu cara, desde abajo, muy cerca. Después a Kase, que la mira desde tu hombro con los ojos de distinto color. Después el techo de un salón que no conoce.
-
-—¿Eh...? —murmura, con la voz pastosa—. ¿Dónde...? ¿Quién eres tú?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1012 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:13 · Phantom Lord · salón principal       ║
-║ NIVEL 27 · EXP 225.700/240.000               ║
-║ FRAGMENTOS 107.587 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: La guerra contra Phantom           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1013)
+## COMANDO 1 (T1013)
 me llamo Facundo Morelli, le desato las manos
 
-## RESPUESTA 2 (T1013)
+## RESPUESTA 1 (T1013)
 
 > me llamo Facundo Morelli, le desato las manos
 
@@ -155,10 +64,10 @@ Lucy mira a Erza, después a ti, después otra vez a Erza.
 
 ---
 
-## COMANDO 3 (T1014)
+## COMANDO 2 (T1014)
 eh si
 
-## RESPUESTA 3 (T1014)
+## RESPUESTA 2 (T1014)
 
 > eh si
 
@@ -222,4 +131,61 @@ Se cruza de brazos.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:18, salón principal de Phantom. Lucy agradeció. Makarov anunció que Jose no estaba y que va a responder; le pregunta a Facundo qué quiere de Fairy Tail. Facundo puede responder.
+## COMANDO 3 (T1015)
+nada, solo quiero ayudar, el viejo ese el maestro esta arriba en su torre, lo siento desde aqui
+
+## RESPUESTA 3 (T1015)
+
+> nada, solo quiero ayudar, el viejo ese el maestro esta arriba en su torre, lo siento desde aqui
+
+> —Nada. Solo quiero ayudar. El maestro de ellos, el viejo ese, está arriba en su torre. Lo siento desde aquí.
+
+El salón se queda callado.
+
+Makarov no se mueve. Te mira un segundo largo, con los ojos entrecerrados bajo las cejas blancas, como si buscara la mentira en tu cara y no la encontrara.
+
+—En la torre —repite.
+
+Gira la cabeza despacio hacia arriba, hacia el techo, hacia el otro lado del edificio, donde está la torre de la que sacaste a Lucy. Cierra los ojos. Se le tensan los hombros debajo de la capa.
+
+Pasan dos segundos. Tres.
+
+Los vuelve a abrir.
+
+—No siento nada —dice en voz baja. No suena a duda: suena a que eso es lo que lo preocupa—. Ni un rastro. Si de verdad está ahí arriba, entonces está escondiendo su magia a propósito. Proyectó esa imagen para que lo buscara en el lugar equivocado. —Aprieta la mandíbula—. Y yo me lo creí.
+
+—¿Entonces Jose está aquí? —Gray da un paso adelante. Tiene escarcha en los nudillos—. ¿En el mismo edificio?
+
+—¡Pues vamos a buscarlo! —Natsu ya tiene los puños encendidos—. ¡Le voy a dar una paliza a ese...!
+
+—No. —Makarov ni siquiera levanta la voz, y Natsu se calla igual—. Jose es un Mago Santo. Si es una trampa, no voy a mandar a ninguno de ustedes a meterse en ella.
+
+Se vuelve hacia el gremio.
+
+—¡Erza! Los heridos, Gajeel y Aria, todos abajo. Que nadie se separe de nadie. Si este edificio empieza a moverse, salgan por la puerta principal y no se den vuelta.
+
+—Sí, maestro.
+
+Después te mira otra vez a ti. Un momento largo.
+
+—Dijiste que solo quieres ayudar. —Se arremanga la capa, despacio, mostrando unos brazos flacos y llenos de arrugas, y el aire alrededor vuelve a ponerse pesado, como en el parque, como antes de una tormenta—. Entonces muéstrame dónde está, muchacho. Esta vez voy yo. Y si tienes razón, no quiero que te metas. Esto es entre él y yo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1015 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:20 · Phantom Lord · salón principal       ║
+║ NIVEL 27 · EXP 225.700/240.000               ║
+║ FRAGMENTOS 107.587 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: Llevar a Makarov hasta Jose        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:20, salón principal de Phantom. Facundo dijo que Jose está en la torre; Makarov le cree, no lo siente, y le pide que le muestre dónde, sin meterse. Facundo puede actuar.

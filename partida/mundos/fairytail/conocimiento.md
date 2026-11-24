@@ -32,3 +32,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Lucy · T1012 · despierta en sus brazos. Lo vio de lejos en el parque de Magnolia (T999-T1002) sin hablar con él; no sabe su nombre.
 - Lucy · T1013 · su nombre: Facundo Morelli (él se lo dijo). Despertó en sus brazos. Vio el lobo de luz.
 - Lucy, Happy, Natsu, Erza · T1014 · Facundo confirmó que la sacó él solo. Makarov (dicho al gremio, T1014): Facundo sintió a Aria cuando él no.
+- Makarov, Erza, Gray, Natsu, Lucy, Happy y Fairy Tail del salón · T1015 · Facundo dijo que solo quiere ayudar y que siente a Jose en la torre. Makarov no lo siente; le cree.

@@ -1013,3 +1013,4 @@ T1011 · Fairy Tail · Último piso de Phantom · Sube volando; frena el Metsu d
 T1012 · Fairy Tail · Phantom · "Me llamo Facundo Morelli." Aria inconsciente. Teletransporte a la torre: Lucy rescatada frente a Juvia y Sol. Al salón: "¡¿LUCY?!" Lucy: "¿Quién eres tú?"
 T1013 · Fairy Tail · Phantom · Desata a Lucy. Cuenta su captura. Erza: "Desapareciste y volviste con ella en dos segundos." Lucy: "¿Tú me sacaste de ahí? ¿Tú solo?"
 T1014 · Fairy Tail · Phantom · "Eh, sí." Lucy: "¡Muchas gracias!" Makarov: Jose no estaba; va a responder. "¿Qué es lo que quieres de Fairy Tail?"
+T1015 · Fairy Tail · Phantom · "Solo quiero ayudar. El maestro está arriba en su torre, lo siento." Makarov no lo siente: Jose se esconde. "Muéstrame dónde está. Esta vez voy yo."

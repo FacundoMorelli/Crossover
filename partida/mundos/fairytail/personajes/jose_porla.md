@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1011 · "...la heredera Heartfilia ya está en nuestras manos, Makarov. Fufufu." "Vaya. ¿Y tú quién eres?"
 QUÉ SABE DE FACUNDO: lo vio aparecer volando y frenar a Aria (T1011). Su nombre, Facundo Morelli (T1012, él lo dijo). Lo vio vencer a Aria y teletransportarse (T1012).
 QUÉ PODERES DE FACUNDO VIO: vuelo; frenó el Metsu sujetando a Aria (T1011).
-ESTADO: Proyección en la sala; su cuerpo en otro lugar de la sede.
+ESTADO: su cuerpo, en la torre de la sede de Oak Town, escondiendo su magia (T1015, declarado). Proyección ya no está en la sala.
