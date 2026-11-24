@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T820)
-esta bien amor, te lo prometo
-
-## RESPUESTA 1 (T820)
-
-> esta bien amor, te lo prometo
-
-> —Está bien, amor. Te lo prometo.
-
-Robin suelta todo el aire de golpe, como si lo hubiera tenido guardado desde el amanecer.
-
-Te apoya la frente contra la tuya. Cierra los ojos. Así se queda un momento, respirando, con las manos todavía en tu cara.
-
-Después te besa. Despacio, largo, sin apuro, con el sabor salado de las lágrimas en los labios.
-
-Cuando se separa, se ríe. Es una risa chiquita, mojada, que le sale entre el llanto.
-
-—Mírame. —Se pasa el dorso de la mano por los ojos—. La mujer más buscada del mundo, llorando en una biblioteca.
-
-Se da vuelta hacia el escritorio. Abre el libro de Paradis en la página que tenía marcada y saca el señalador: la hoja seca de Skypiea, verde pálido, aplastada entre las páginas desde hace semanas.
-
-Te toma la mano, te la abre y te la pone en la palma. Te cierra los dedos encima, con los suyos.
-
-—Para que tengas algo mío. —Te mira a los ojos—. Donde sea que vayas. En el mundo que sea.
-
-Se queda con las manos sobre la tuya.
-
-—Y no te vayas todavía. —Lo dice bajito—. Quédate un rato más. Aunque sea un rato.
-
-En el piso, Kase se estira largo y se acuesta panza arriba sobre los pies de Robin.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 820 · ONE PIECE · DÍA 44 · 09:25       ║
-║ Thousand Sunny · biblioteca de Robin         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: panza arriba sobre los pies de Robin   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Irte hoy de One Piece. Volver      ║
-║ después donde estén.                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T821)
+## COMANDO 1 (T821)
 me quedo un rato con robin y la abrazo
 
-## RESPUESTA 2 (T821)
+## RESPUESTA 1 (T821)
 
 > me quedo un rato con robin y la abrazo
 
@@ -105,10 +57,10 @@ Gira la cabeza para mirarte desde abajo, con los ojos todavía un poco hinchados
 
 ---
 
-## COMANDO 3 (T822)
+## COMANDO 2 (T822)
 le doy un beso y me despido de todos y voy a shingeki
 
-## RESPUESTA 3 (T822)
+## RESPUESTA 2 (T822)
 
 > le doy un beso y me despido de todos y voy a shingeki
 
@@ -179,4 +131,54 @@ Sonríe de costado.
 
 ---
 
-ESTADO AL CIERRE: CAMBIO DE MUNDO. Facundo dejó One Piece (Día 44 11:25, Thriller Bark; Nami le dio 5M berries de su parte; Sanji, un paquete de comida) y llegó a Shingeki: día 35 tras Shiganshina, 05:58, escalinata del palacio de Mitras. Un guardia lo saludó, otro fue a avisar adentro. Ymir, en camisón con una manzana, desde una ventana alta del ala de la reina: "Mira quién volvió. El lindo." Faltan 5 días para la fiesta Tybur.
+## COMANDO 3 (T823)
+volvi vivo linda
+
+## RESPUESTA 3 (T823)
+
+> volvi vivo linda
+
+> —Volví vivo, linda.
+
+Ymir se queda con la manzana a medio camino de la boca.
+
+Se le suben los colores de golpe, desde el cuello hasta las orejas, tan rápido que se le nota desde abajo. Muerde la manzana para disimular, se atraganta con el pedazo y tose, golpeándose el pecho con el puño.
+
+—¡N-no te creas tanto! —grita, con la voz rota por la tos—. ¡Solo estaba mirando el clima!
+
+Cierra el postigo de un golpe que hace temblar el vidrio.
+
+El guardia que quedó a tu lado mira la ventana cerrada, te mira a ti y decide con mucho cuidado mirar al horizonte.
+
+Pasa un minuto.
+
+La puerta grande del palacio se abre de par en par. Ymir baja la escalinata blanca descalza, con el abrigo verde de la Legión puesto encima del camisón y abrochado mal, el pelo revuelto y la manzana todavía en la mano. Baja los escalones de dos en dos, sin mirarte. Se detiene un escalón por encima del tuyo, para quedar a tu altura.
+
+Te mira de arriba abajo. La ropa limpia, el gato, la cara.
+
+—Entero y todo. —Se cruza de brazos—. Qué raro.
+
+Kase la mira desde tu hombro con las pupilas finas. Ymir le devuelve la mirada, como dos gatos midiéndose.
+
+—Veinticuatro días, lindo. —Desvía la vista hacia el cielo rosado y le da otro mordisco a la manzana—. Los conté. —Mastica—. No porque me importe. Historia me preguntaba todas las mañanas, y alguien tenía que saber la cuenta.
+
+Tiene las mejillas todavía rojas. Los pies descalzos, sobre la piedra fría, se le ponen colorados también.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 823 · SHINGEKI · DÍA 35 · 06:01        ║
+║ Mitras · escalinata del palacio real         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Preparar la comitiva de Historia.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:01, escalinata del palacio de Mitras. Ymir bajó descalza con el abrigo de la Legión sobre el camisón, un escalón arriba de Facundo: "Veinticuatro días, lindo. Los conté. No porque me importe." Roja. Un guardia mira el horizonte; el otro fue a avisar adentro. Faltan 5 días para la fiesta Tybur.

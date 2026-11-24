@@ -821,3 +821,4 @@ T819 · One Piece · Sunny · Le cuenta a Robin lo del dolor. Robin llora y lo a
 T820 · One Piece · Sunny · Promesa a Robin. Ella le da su señalador de Skypiea.
 T821 · One Piece · Sunny · Dos horas abrazado a Robin en la biblioteca. "Vete tranquilo."
 T822 · One Piece → Shingeki · Se despide de Robin y la tripulación; cruza la puerta. Llega a Mitras, día 35 tras Shiganshina, 05:58.
+T823 · Shingeki · Mitras · "Volví vivo, linda." Ymir baja descalza: "Veinticuatro días. Los conté."

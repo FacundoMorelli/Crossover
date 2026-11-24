@@ -21,3 +21,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T578 · Dentro de la sombra: "¿Quieres ver cuánto duro, linda?" Roja. Le pone la manzana en la boca y se escurre: "Primero vuelve vivo de donde te vayas, lindo. Después hablamos."
 - T579 · A un palmo de su cara. Golpecito en la frente: "Te dije después. Y no con la reina a cinco metros." Tarda en soltarle la mano.
 - T822 · Día 35 05:58 · Ve a Facundo volver por la escalinata del palacio desde una ventana del ala de la reina: "Mira quién volvió. El lindo."
+- T823 · "Volví vivo, linda." Se atraganta, se pone roja, cierra el postigo. Baja descalza: "Veinticuatro días, lindo. Los conté. No porque me importe."
