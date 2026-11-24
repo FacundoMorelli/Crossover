@@ -65,3 +65,7 @@
 - Día 35 05:58 · (T822) Facundo vuelve por una puerta a la escalinata del palacio de Mitras.
 - Día 14 · (T827, revelado) Ceremonia de medallas en Mitras; Eren besa la mano de Historia y empieza a ver recuerdos del futuro (canon).
 - Día 35 07:30 → día 36 19:58 · (T842) Facundo vuelve a Mitras e informa a Erwin. Levi y Zeke se mudan a Mitras. Hange y Armin estudian la plaza con dibujos de Facundo. Historia ensaya. Noche del 35: Facundo e Ymir en el techo del palacio. Día 36 19:58: Facundo en la puerta de servicio de la mansión Tybur.
+- Días 36-40 · (T849) Facundo duerme en la mansión Tybur (coartada; los hombres de Muller lo ven en las ventanas) y coordina de día con Erwin en Mitras. Hange y Armin arman el plan de salida.
+- Día 40 04:00 · (T849) Facundo levanta la barrera invisible de Sakaime sobre toda la plaza de la fiesta.
+- Día 40 16:30-18:30 · (T849) La comitiva de Paradis llega por teletransportación al sótano de la mansión Tybur; después, al sótano del edificio de ladrillo detrás del escenario. PRIMERA VISITA DE LA REINA DE PARADIS AL CONTINENTE.
+- Día 40 19:00 · (T849) Empieza la fiesta Tybur (canon: año 854, declaración de guerra y ataque de Eren). Willy sube al escenario.

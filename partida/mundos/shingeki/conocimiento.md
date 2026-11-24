@@ -148,3 +148,5 @@
 - Muller · T845 · Por Facundo y Willy: Morelli se aloja en el ala de huéspedes de la mansión Tybur, como asesor de Willy.
 - Willy · T847 · Por Facundo: seis cañones en los techos de la plaza; dos apuntan a la primera fila (cadetes). Deduce un plan de bandera falsa de los generales.
 - Willy · T848 · Por Facundo: la barrera puede cubrir toda la plaza.
+- Muller y sus hombres · T849 · Vieron a Morelli en las ventanas del ala de huéspedes de la mansión Tybur tres noches (coartada confirmada).
+- Lara Tybur · T849 · Recibe a la comitiva de Paradis en el sótano de la mansión: ve a la reina, a Zeke encadenado, a la Legión.

@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: lo que le contó Willy (emisario de Paradis, plan de paz).
 ESTADO: activo
 - T840 · "Mucho gusto, Lara." Toca la pared invisible. Heredó el Martillo hace cuatro años (le quedan nueve, maldición de Ymir). Pregunta si Facundo puede borrar su titán sin borrarla a ella.
 - T841 · Facundo intentará borrar su titán después de la fiesta. "Después de la fiesta, entonces." "Y traiga al gato."
+- T849 · Día 40 · Recibe a la comitiva de Paradis en el sótano de la mansión.

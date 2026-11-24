@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T846)
-miro el escenario y los techos con el haki
-
-## RESPUESTA 1 (T846)
-
-> miro el escenario y los techos con el haki
-
-Subes al escenario detrás de Willy y los organizadores, por una escalera de tablones que todavía huele a madera recién cortada. Arriba, los obreros clavan las últimas tablas del piso. Uno de los organizadores, un hombre gordo con un plano enorme, le explica a Willy dónde va el atril, dónde se paran los músicos y por dónde entran los oradores. Willy asiente y hace preguntas inteligentes que no le importan.
-
-Tú caminas despacio por el borde del escenario, con las manos en los bolsillos del traje, como un asesor aburrido que mira las medidas. Kase camina a tu lado por el borde de las tablas.
-
-Abres el Haki entero.
-
-El escenario mide treinta metros de largo por quince de fondo y está levantado a dos metros del suelo sobre pilotes de madera. Debajo hay un hueco de metro y medio de alto, oscuro, lleno de aserrín y de cables, con una trampilla en la parte de atrás, junto a la pared del edificio. Detrás, el edificio de ladrillo rojo tiene un sótano. Tiene ventanas chiquitas, a ras del suelo, que dan directo a la parte de atrás del escenario. Está vacío. Huele a humedad y a ratas.
-
-Los balcones de hierro del edificio también están vacíos. Por ahora.
-
-Después, los techos.
-
-En el techo del edificio de la izquierda hay dos cañones. En el de la derecha, otros dos. Son cañones de campaña pesados, de bronce y acero, con las lonas atadas encima, ruedas trabadas y cajones de pólvora y balas al lado. Al lado de cada uno hay dos artilleros: uno fuma, el otro duerme sentado contra la chimenea. Los cuatro cañones apuntan al mismo lugar: el centro del escenario, donde va el atril. Donde va a estar Willy. Donde va a estar Historia.
-
-Y hay dos más.
-
-Detrás de las gradas de los eldianos, al fondo de la plaza, hay un edificio más bajo, de oficinas, con dos cañones en el techo. Esos dos no apuntan al escenario. Apuntan más bajo y más cerca: al espacio de la plaza entre los palcos de terciopelo de los embajadores y la primera fila.
-
-Donde van a estar sentados los cadetes.
-
-Cierras el Haki.
-
-Al pie del escenario, junto a la entrada, uno de los soldados con los que habló Muller está apoyado contra un farol, fumando. No mira el escenario. Te mira a ti.
-
-Willy se separa de los organizadores con una excusa y se acerca, como si fuera a comentar la calidad de la madera. Se para a tu lado, mirando al frente, a la plaza vacía.
-
-—¿Qué ve? —pregunta casi sin mover los labios.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 846 · SHINGEKI · DÍA 36 · 20:25        ║
-║ Liberio · escenario de la plaza              ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: caminando por el borde del escenario   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
-║ Plaza: 6 cañones; 2 apuntan a la 1.ª fila.   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T847)
+## COMANDO 1 (T847)
 hay seis cañones, dos apuntan a los cadetes
 
-## RESPUESTA 2 (T847)
+## RESPUESTA 1 (T847)
 
 > hay seis cañones, dos apuntan a los cadetes
 
@@ -105,10 +53,10 @@ Se da vuelta hacia ti, de espaldas a la plaza, para que nadie le vea la cara.
 
 ---
 
-## COMANDO 3 (T848)
+## COMANDO 2 (T848)
 si, puedo cubrir toda la plaza si quiero
 
-## RESPUESTA 3 (T848)
+## RESPUESTA 2 (T848)
 
 > si, puedo cubrir toda la plaza si quiero
 
@@ -155,4 +103,70 @@ Después se da vuelta hacia ti. Ya no sonríe. Está serio, y por primera vez pa
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 36 20:29, escenario de la plaza. Facundo puede cubrir toda la plaza con la barrera. Willy propone NO desarmar los cañones: dejar que disparen delante de los embajadores para que el mundo vea las balas frenadas sobre los niños y a la reina quieta. Pregunta si Facundo prefiere eso o neutralizarlos antes.
+## COMANDO 3 (T849)
+que disparen, me parece bien tu idea willy. simula hasta la fiesta
+
+## RESPUESTA 3 (T849)
+
+> que disparen, me parece bien tu idea willy. simula hasta la fiesta
+
+> —Que disparen. Me parece bien tu idea, Willy.
+
+Willy asiente una sola vez, despacio. Se acomoda el sombrero y vuelve con los organizadores, con la sonrisa de siempre.
+
+Los cuatro días siguientes pasan rápido.
+
+Duermes tres noches en el ala de huéspedes de la mansión Tybur, en un cuarto con cortinas de terciopelo verde y una cama demasiado blanda. Las tres noches, desde la ventana, ves a dos hombres de civil fumando en la vereda de enfrente, mirando hacia arriba. Las tres noches dejas la lámpara encendida hasta tarde para que vean tu silueta con el gato. Lara le deja a Kase un plato de pescado en la puerta del cuarto cada noche, sin golpear.
+
+De día vuelves a Mitras con los dedos en la frente. Erwin, Hange y Armin dan vueltas sobre los dibujos de la plaza hasta tener un plan de salida para cada cosa que pueda salir mal. Armin hace preguntas que nadie más hace. Hange llena el tercer cuaderno. Historia ensaya el discurso hasta que se lo sabe dormida. Ymir la escucha todas las veces, comiendo manzanas, y la última vez aplaude.
+
+La madrugada del día cuarenta, a las cuatro, la plaza de Liberio está vacía, oscura y fría. Solo hay un guardia dormido en la entrada y gaviotas sobre el escenario terminado.
+
+Sacas a Sakaime.
+
+Trazas las líneas en silencio, una tras otra, a lo largo de los bordes de la plaza, de techo a techo, y las cierras en Marcos: paredes que nadie ve y un techo que nadie ve, sobre todo, como una campana de vidrio que no existe. La gente puede entrar y salir caminando. Lo que vuele, no. Cuando terminas, la plaza se ve igual que antes. Una gaviota baja a posarse en el atril, choca contra nada a tres metros del suelo, se sacude ofendida y se va volando.
+
+A las cuatro y media de la tarde, uno por uno, traes a la comitiva al sótano de la mansión Tybur: Historia, Ymir, Erwin, Hange, Mikasa, Eren, Armin, y Levi con Zeke encadenado a la muñeca. Lara los espera abajo con una lámpara y no dice nada al ver a la reina de Paradis, tan chiquita, con un vestido de gala azul oscuro que le queda un poco grande. Solo le hace una reverencia. Historia se la devuelve.
+
+A las seis y media los llevas al otro sótano: el del edificio de ladrillo, detrás del escenario, el de las ventanitas a ras del suelo. Huele a humedad. Por las ventanas se oyen la música de la banda, la gente que llega, los vendedores y los aplausos de práctica.
+
+A las siete, la plaza está llena.
+
+Desde detrás del telón rojo, por una rendija, lo ves todo. Los palcos de terciopelo están llenos de embajadores de veinte países, con uniformes y vestidos que no conoces y banderas que no reconoces, y con periodistas con cámaras de fuelle. En el palco del alto mando de Marley, un hombre viejo de bigote blanco y uniforme lleno de medallas: el general Calvi. A su lado, rígido, con la mandíbula apretada, Magath.
+
+En la primera fila, sentados en bancos, los cadetes guerreros: cinco chicos con brazaletes y uniformes almidonados. La menor es una nena de pelo oscuro y mirada feroz, de nueve o diez años. A su lado, un chico rubio que no deja de mirarla. Los otros, algo más grandes.
+
+Detrás, en las gradas, miles de eldianos con el brazalete de la estrella, apretados, en silencio.
+
+Muller camina despacio por el pasillo central, mirando todo.
+
+En los techos, las lonas de los seis cañones siguen atadas. Los artilleros ya no fuman.
+
+Detrás del telón, a tu lado, está Historia. Tiene el discurso doblado en la mano y le tiembla el papel. Ymir está al otro lado, con un vestido oscuro prestado que odia, apretándole la otra mano a Historia sin mirarla. Kase está en tu hombro.
+
+En el escenario, solo, Willy Tybur camina hacia el atril.
+
+La banda deja de tocar. La plaza entera se queda en silencio.
+
+Willy apoya las manos en el atril. Mira a los embajadores, a los cadetes, a las gradas y, un segundo, hacia los techos.
+
+Respira hondo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 849 · SHINGEKI · DÍA 40 · 19:00        ║
+║ Liberio · detrás del telón del escenario     ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: LA FIESTA. Historia firma la paz.  ║
+║ Barrera sobre la plaza. Que disparen primero.║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, DÍA 40, 19:00, LA FIESTA TYBUR en Liberio. Barrera invisible de Sakaime sobre toda la plaza (desde las 4). Detrás del telón: Facundo, Historia (vestido azul, discurso en la mano), Ymir. En el sótano del edificio de ladrillo: Erwin, Levi encadenado a Zeke, Hange, Mikasa, Eren, Armin. Plaza llena: embajadores, periodistas, Calvi y Magath en el palco del alto mando, cadetes en primera fila (Gabi ~9-10, Falco, otros), miles de eldianos, Muller recorriendo. Seis cañones (cuatro al atril, dos a la primera fila; orden secreta de Calvi). Willy en el atril, respira hondo antes de hablar.

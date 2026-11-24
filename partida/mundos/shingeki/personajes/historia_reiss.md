@@ -19,3 +19,4 @@ ESTADO: activo
 - T577 · "Te esperamos."
 - T825 · Abraza a Facundo y a Kase. Le cuenta los días 11-35: comitiva lista; Eren con sueños raros; Zeke pregunta por él cada semana. Pregunta cómo van a llegar a Liberio.
 - T826 · Facundo le asegura que llegan a Liberio por teletransportación. Le dice dónde está Eren.
+- T849 · Día 40 · Detrás del telón con vestido de gala, temblando, con el discurso.

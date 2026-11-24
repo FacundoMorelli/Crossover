@@ -847,3 +847,4 @@ T845 · Shingeki · Liberio · Coartada: se aloja con los Tybur. Muller se va. W
 T846 · Shingeki · Liberio · Haki sobre la plaza: el hueco del escenario, el sótano, seis cañones; dos apuntan a la primera fila.
 T847 · Shingeki · Liberio · Willy: los cañones de los cadetes son para culpar a Paradis.
 T848 · Shingeki · Liberio · Barrera sobre toda la plaza. Willy: que disparen primero, ante el mundo.
+T849 · Shingeki · Liberio · Simula hasta la fiesta. Barrera sobre la plaza a las 4. Comitiva en el sótano. 19:00: Willy sube al escenario.
