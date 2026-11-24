@@ -69,3 +69,4 @@ ESTADO: activa
 - T779 · "Las historias feas son las que más hay que leer. Alguien tiene que acordarse." Lee la segunda página: el rey borró la memoria del pueblo.
 - T780 · Ve la foto de Black Clover y el grimorio flotando de Facundo. Pregunta si puede tocarlo.
 - T783 · "No me importa cuán fuerte seas. Me importa que vuelvas."
+- T784 · Sabe que Facundo copia habilidades. Pregunta si copió la suya.
