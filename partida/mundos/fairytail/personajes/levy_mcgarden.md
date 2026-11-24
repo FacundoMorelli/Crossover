@@ -11,6 +11,7 @@ ENCUENTROS:
 - T998 · 07:06 · Facundo lo/la baja del árbol y le da una semilla del ermitaño. Despierta curado/a.
 - T999 · Facundo le dice su nombre.
 - T1020 · Día 1 · Le da las gracias otra vez en la puerta de la sede.
+- T1027 · Le regala un señalador de cuero ("viaje", buena suerte).
 DIÁLOGOS CLAVE:
 - T1001 · "Fue Gajeel, maestro. Gajeel Redfox, de Phantom Lord."
 - T999 · "Eso no es solo pasar. Ese hierro era de Gajeel." "¿Qué era eso que nos diste?"

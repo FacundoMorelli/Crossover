@@ -1,7 +1,7 @@
 NOMBRE: Natsu Dragneel
 AFILIACIÓN: Fairy Tail
 RANGO: Mago
-PODER VISTO POR FACUNDO: Dragon Slayer de fuego (vio fuego en sus puños)
+PODER VISTO POR FACUNDO: Dragon Slayer de fuego: Rugido, puños, Ala del Dragón de Fuego, comer fuego (T1027)
 EDAD EN ESTE MOMENTO DEL CANON: 17
 FÍSICO: Pelo rosado, bufanda blanca de escamas, chaleco.
 PERSONALIDAD Y FORMA DE HABLAR: Impulsivo, ruidoso; 'me estoy encendiendo'; se marea en transportes.
@@ -9,7 +9,9 @@ RELACIÓN CON FACUNDO: le cae bien; lo desafió a pelear después de Phantom (T1
 ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1020 · Fiesta: intenta pelear con Facundo tres veces; Erza lo frena. Día 2: lo llaman a declarar.
+- T1027 · Duelo en la explanada del río: cae diez veces. Ve la Puerta.
 DIÁLOGOS CLAVE:
+- T1027 · "¡Todavía... no termino! Solo estoy... descansando..." "¡No perdí!" "¡FACUNDO! ¡LA PRÓXIMA TE GANO!"
 - T1026 · "¡Por fin! Nadie nos va a parar. Afuera, en la explanada del río. ¡Tú y yo! ¡Ahora!"
 - T1020 · "¡Eres un monstruo! ¡No te olvides, eh! ¡Tú y yo!"
 - T1019 · "¿Ya terminó? ¡¿Sin mí?!" "¿Hiciste todo tú solo mientras yo me peleaba con unos debiluchos abajo?"

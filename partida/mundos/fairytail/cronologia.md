@@ -55,3 +55,4 @@
 - Día 3 · (T1020) Revista con la caída de Phantom (mago sin gremio con gato, sin nombre). 17:10: Lahar pide interrogar a Facundo.
 - Día 3 17:24 · (T1024) El Consejo (Lahar) registra a Facundo como mago independiente con magia no catalogada.
 - Día 3 17:27 · (T1026) Facundo dona una semilla del ermitaño al Consejo (Lahar). Fin de su interrogatorio.
+- Día 3 17:40-18:25 · (T1027) Duelo con Natsu. Despedida. Facundo se va por la Puerta delante de Fairy Tail.

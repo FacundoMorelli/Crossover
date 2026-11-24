@@ -11,3 +11,4 @@ DON DE MUNDO: Magia Perdida: Constelación Viva (ver sistema.json).
 - T1011 · Makarov NO es drenado por Aria (Facundo lo frenó).
 - T1012 · Aria vencido. Lucy rescatada de la torre por Facundo.
 - T1017 · Makarov vence a Jose con Fairy Law en la torre de Phantom (Día 1). Fin de la guerra. La sede de Fairy Tail sigue en pie (solo los pilares de hierro de anoche). MISIÓN DE MUNDO CUMPLIDA. La torre de Phantom quedó sin techo.
+- T1027 · Facundo se va de Fiore el Día 3 18:25. Lo recuerdan: Fairy Tail entero, Lahar y el Consejo (registro), Jose, Gajeel, Aria, Juvia, Sol y Phantom.

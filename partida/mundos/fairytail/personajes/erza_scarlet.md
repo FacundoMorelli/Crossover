@@ -9,7 +9,9 @@ RELACIÓN CON FACUNDO: lo mide; acepta que pelee al lado (T1005). Kase la abland
 ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1004 · Tren a Oak Town: se sienta frente a Facundo.
+- T1027 · Mira el duelo; levanta a Natsu; reverencia de despedida.
 DIÁLOGOS CLAVE:
+- T1027 · "Cuando vuelvas, quiero ver tu magia de cerca. Y pelear contigo yo."
 - T1019 · "Abajo están todos bien. Phantom no se levanta. ¿Qué hacemos con ellos?"
 - T1013 · "La torre está a cien metros. Desapareciste delante de todos y volviste con ella en dos segundos."
 - T1010 · "Natsu, cállate. Todavía falta Jose. Y los Element 4 no aparecieron."

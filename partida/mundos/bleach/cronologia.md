@@ -73,3 +73,11 @@
 - 24/09 12:00 · Ichigo, Rukia, Orihime, Chad, Uryū y Facundo vuelven a Karakura por la puerta de Urahara.
 - 24-28/09 · Vida en Karakura. Facundo con los chicos. 28/09 18:40 · despedida en el río.
 - 28/09 18:42 · Facundo se despide en el río y cruza una puerta a otro mundo. Testigos: Ichigo, Rukia, Orihime, Chad, Uryū, Urahara, Yoruichi, Tessai, Jinta, Ururu, Kon.
+
+## MIENTRAS FACUNDO NO ESTABA (28/09 – 18/12) — simulado al volver (T1027)
+- Fines de septiembre-octubre · Se forma la nueva Central 46. Juicio de Gin y Tōsen: prisión en el Muken (CAMBIO: en el canon morían en la Guerra de Invierno). Sin Guerra de Invierno: Karakura nunca fue trasladada.
+- Octubre · Ichigo conserva sus poderes (CAMBIO: en el canon los perdía tras el Getsuga Tenshō Final). Sigue como Shinigami sustituto, con insignia; caza hollows con Rukia, que va y viene entre el Seireitei y Karakura (en el 13.º de Ukitake).
+- Octubre-noviembre · Hueco Mundo sin Aizen: Las Noches en silencio. Ulquiorra no se mueve; Grimmjow vaga por el desierto; Arrancar sueltos atacan de vez en cuando el Mundo Humano (incidentes menores, repelidos).
+- Noviembre · Orihime, Chad y Uryū siguen en la escuela con Ichigo (primer año de preparatoria). Uryū y su padre Ryūken, en tensión.
+- En secreto (nadie lo sabe): Xcution (Kūgo Ginjō) observa a Ichigo en Karakura. En el Wandenreich, bajo el Seireitei, Yhwach se prepara (canon; faltan muchos meses).
+- 18/12 10:40 · (T1027) Facundo vuelve por la Puerta a la orilla del río de Karakura, bajo el puente. Nadie lo ve. Nieva.

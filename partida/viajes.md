@@ -154,3 +154,8 @@
 - RECOMPENSA: 9.000 EXP · 250 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T1017 · Día 1 09:31. Makarov vence a Jose con Fairy Law en la torre de Phantom; la sede de Fairy Tail sigue en pie. +9.000 EXP, +250 F. Mundos completados: 7.
+
+## RELOJES (actualizado T1027)
+- Fairy Tail: salida X784 Día 3 18:25, explanada del río de Magnolia (Fairy Tail vio la Puerta). Corre.
+- Bleach: CUARTO REGRESO 18/12 10:40 (~80 d 16 h después de irse el 28/09 18:42), orilla del río de Karakura.
+- Jujutsu, Shingeki, One Piece, Dragon Ball, Black Clover: corren.

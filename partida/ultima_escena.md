@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1024)
-sí, es parte de mi magia y de mi fuerza fisica
-
-## RESPUESTA 1 (T1024)
-
-> sí, es parte de mi magia y de mi fuerza fisica
-
-> —Sí. Es parte de mi magia y de mi fuerza física.
-
-Lahar se queda callado un momento. Después asiente, despacio, y esta vez anota algo él mismo en la carpeta. Una línea corta.
-
-—Fuerza física —repite, sin levantar la vista—. Hay magos en Fiore que se refuerzan el cuerpo con magia. Ninguno que yo conozca podría parar con la mano el Hacha Verde de Boris Grant. —Una pausa—. Pero tampoco hay una regla que lo prohíba.
-
-Cierra la carpeta. Se recuesta en la silla.
-
-—Voy a ser honesto con usted, señor Morelli. Mi trabajo no es entender cómo funciona su magia. Mi trabajo es saber si usted es un peligro para Fiore. —Se quita los lentes y los limpia con un pañuelo—. Según todas las declaraciones, incluidas las de Phantom, usted no mató a nadie. No destruyó edificios civiles. No atacó a nadie que no lo atacara primero. Bajó a tres heridos de un árbol, rescató a una secuestrada y ayudó a detener a un Mago Santo que había iniciado una guerra entre gremios. —Se vuelve a poner los lentes—. Si eso es un peligro, es uno que no me preocupa.
-
-El caballero del rincón deja de escribir y lo mira, sorprendido.
-
-—Va a quedar registrado como mago independiente, sin gremio, con una magia no catalogada. —Lahar se pone de pie—. El Consejo puede volver a llamarlo. Si lo hace, le pido que se presente.
-
-Va hacia la puerta. Pone la mano en el picaporte.
-
-Se detiene.
-
-—Una última cosa. —Se da vuelta—. Esa medicina que les dio a los magos del árbol. Y, según Mirajane Strauss, también al maestro Makarov, después de usar Fairy Law. —Te mira por encima de los lentes—. Los médicos del Consejo examinaron a los tres de Shadow Gear. Dicen que no tienen ni un rastro de las heridas. Ni cicatrices. Como si nunca los hubieran tocado. —Hace una pausa—. ¿Qué es, y de dónde la saca?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1024 · FAIRY TAIL · X784 · DÍA 3 ·     ║
-║ 17:24 · Magnolia · sede, cuarto del fondo    ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sobre la mesa                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: Interrogatorio del Consejo         ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1025)
+## COMANDO 1 (T1025)
 es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
 
-## RESPUESTA 2 (T1025)
+## RESPUESTA 1 (T1025)
 
 > es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
 
@@ -93,10 +49,10 @@ Extiende una mano, con la palma hacia arriba.
 
 ---
 
-## COMANDO 3 (T1026)
+## COMANDO 2 (T1026)
 le doy una semilla del ermitaño
 
-## RESPUESTA 3 (T1026)
+## RESPUESTA 2 (T1026)
 
 > le doy una semilla del ermitaño
 
@@ -147,4 +103,112 @@ Se despega de la pared de un salto. Happy se despierta y se cae.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:28, salón de la sede. Interrogatorio terminado; semilla donada a Lahar. Natsu lo desafía a pelear ahora en la explanada del río. Facundo puede responder.
+## COMANDO 3 (T1027)
+dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
+
+## RESPUESTA 3 (T1027)
+
+> dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
+
+> —Dale. Vamos a la explanada del río.
+
+—¡SÍ! —Natsu sale disparado hacia la puerta—. ¡Happy, avísale a todo el mundo!
+
+—¡Aye, señor!
+
+[Día 3 · 17:40 · Explanada del río de Magnolia.]
+
+Cuando llegas, ya hay público. La noticia corrió por el gremio en dos minutos: media docena de Fairy Tail sentados en el pasto de la orilla, después una docena, después más. Gray llega con las manos en los bolsillos y se sienta en una piedra a mirar. Lucy llega corriendo con Levy y se queda atrás, nerviosa. Elfman grita que esto es cosa de hombres antes de que empiece nada.
+
+Natsu se para en el medio de la explanada, se ata la bufanda, se truena el cuello.
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Magia de Dragon Slayer de Fuego              ║
+║ USUARIO: Natsu Dragneel · Fairy Tail         ║
+║                                              ║
+║ MISIÓN: Que Natsu Dragneel admita, con sus   ║
+║ palabras, que perdió contra ti.              ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+
+La pelea dura veinte minutos.
+
+Natsu abre con un Rugido del Dragón de Fuego que evapora el agua de la orilla y deja el pasto negro en una línea de treinta metros. No te mueves: el fuego te pasa por los costados y se apaga. Natsu se ríe como loco y se te tira encima con los puños encendidos. Los esquivas todos. Le das uno, en el estómago, medido, y lo mandas a rodar hasta el agua.
+
+Se levanta.
+
+Lo vuelves a tirar. Se levanta. Le apagas el fuego de los brazos soplándolo con un movimiento de la mano. Se come una antorcha que alguien del público le tira y se vuelve a prender. Usa algo que le ves por primera vez, los dos brazos en espiral, el fuego dando vueltas como un torbellino, y gritando "¡Ala del Dragón de Fuego!". Lo atajas con el antebrazo. Te quema la manga del sobretodo. Natsu se queda mirando la manga humeante con los ojos brillantes, como si hubiera ganado un premio.
+
+Cae nueve veces. Se levanta nueve. A la décima se queda en el pasto, boca arriba, con el pecho subiendo y bajando, la ropa hecha jirones, todo negro de hollín, y la sonrisa más grande que le viste.
+
+—¡Todavía... no termino! —jadea al cielo—. Solo estoy... descansando...
+
+—Aye —dice Happy, sentado sobre su pecho—. Perdiste.
+
+—¡No perdí! ¡Estoy descansando!
+
+El público estalla en carcajadas. Gray dice algo de que nunca lo había visto tan contento por perder, y Natsu le grita sin levantarse que no perdió. Erza, que en algún momento llegó y se quedó mirando de pie detrás de todos, con los brazos cruzados, no se ríe. Te mira a ti. Después le ofrece a Natsu una mano para levantarlo.
+
+[Duelo con Natsu Dragneel. +150 EXP · +3 Fragmentos.]
+
+[Día 3 · 18:20.]
+
+El sol empieza a ponerse sobre el río. Les dices que te vas a ir, que vas a viajar otra vez, y que no sabes cuándo vas a volver.
+
+Hay un silencio corto.
+
+—¡¿Qué?! —Natsu se sienta de golpe en el pasto—. ¡¿Ahora?! ¡Pero tenemos que hacer la revancha!
+
+—Cuando vuelva —dice Happy, muy serio, como si te tradujera. Después mira a Kase y se le llenan los ojos de lágrimas—. ¿Kase también se va?
+
+Lucy se acerca. Te da las gracias por tercera vez, esta vez sin trabarse, mirándote a la cara. Levy, al lado, te pone en la mano un señalador de libro de cuero, con una palabra escrita en letras doradas en un idioma antiguo que no conoces: dice que es "viaje", y que trae buena suerte. Se pone roja y vuelve detrás de Lucy. Mirajane llegó con una canasta: adentro hay pan, carne asada y un pescado envuelto en papel. "Para el camino", dice. "Y para Kase."
+
+Erza no dice nada largo. Se para frente a ti y hace una reverencia corta, de guerrera.
+
+—Cuando vuelvas, quiero ver tu magia de cerca —dice—. Y pelear contigo yo.
+
+Makarov aparece último, bajando la cuesta despacio, con un bastón nuevo y los ojos todavía hinchados de la borrachera. No pregunta nada. Te mira, asiente y repite lo de la torre: que la puerta está abierta.
+
+Te alejas unos pasos por la orilla.
+
+Abres la Puerta en el aire. El rectángulo de luz blanca, con su borde rojo y azul temblando, se recorta contra el atardecer naranja del río.
+
+Detrás de ti, todo Fairy Tail se queda en silencio. Alguien murmura "¿magia de transporte?". Natsu se pone de pie de un salto.
+
+—¡FACUNDO! —grita, con el puño en alto—. ¡LA PRÓXIMA TE GANO!
+
+Kase mira hacia atrás una vez, desde tu hombro. Después cruzas.
+
+[Mundo: Bleach.]
+
+Hace frío.
+
+Es lo primero. Un frío seco, de invierno, que te muerde las orejas y hace que Kase se acurruque contra tu cuello. El cielo está blanco, cubierto, y caen copos chiquitos de nieve que no llegan a cuajar en el suelo.
+
+Estás en la orilla del río de Karakura, debajo del puente. El mismo lugar de donde te fuiste. El pasto está amarillo y escarchado, el agua corre gris y lenta, y en el puente pasa un auto con las cadenas puestas. A lo lejos se escucha una campana de escuela: el recreo de media mañana.
+
+En un poste de luz de la calle de arriba hay un cartel pegado con cinta, medio despegado por el viento, con un dibujo de un árbol de Navidad y letras rojas: "¡Feria navideña del distrito Naruki! 21 al 25 de diciembre".
+
+Kase olfatea el aire, despacio, y se queda mirando río arriba. Hacia el lado de la ciudad donde están la clínica Kurosaki y la tienda de Urahara.
+
+Nadie te vio llegar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1027 · BLEACH · 18/12 · 10:40          ║
+║ Karakura · orilla del río, bajo el puente    ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, acurrucado del frío      ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 18/12 10:40, orilla del río de Karakura bajo el puente, nevando. Facundo acaba de volver (cuarta llegada); nadie lo vio. Ichigo y los demás en la escuela (recreo). Facundo puede actuar.

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: le debe el rescate; avergonzada por despertar en sus braz
 ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1012 · Facundo la rescata de la celda de la torre (Juvia y Sol presentes) y la lleva al salón.
+- T1027 · Le da las gracias por tercera vez en la despedida.
 DIÁLOGOS CLAVE:
 - T1014 · "¡Muchas gracias, de verdad!"
 - T1013 · "¡¿Un lobo?! ¡¿Es de verdad?!" "Me desperté acá. En sus brazos." "¡N-no es que...!" "¿Tú me sacaste de ahí? ¿Tú solo?"

@@ -1,13 +1,13 @@
 {
-  "turno": 1026,
-  "mundo_actual": "fairytail",
-  "fecha_local": "X784, julio · Día 3",
-  "hora": "17:28",
+  "turno": 1027,
+  "mundo_actual": "bleach",
+  "fecha_local": "18/12",
+  "hora": "10:40",
   "edad": 18,
   "nivel": 27,
-  "exp": 234700,
+  "exp": 234850,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107837,
+  "fragmentos": 107840,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -282,7 +282,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Jujutsu)"
+    "poder_mostrado": "persona común"
   },
   "armas": [
     {
@@ -483,6 +483,14 @@
       "cantidad": 7,
       "detalle": "Creadas por Facundo (T953, día 55, río al sur de Mitras) con el poder de Dende. Cristal negro transparente con un anillo de luz blanca en el centro; estrellas mitad rojas mitad azules (1 a 7). Dragón: ECLIPSE, más fuerte que los de Dende. 3 deseos por invocación. Guardadas en el inventario (T954). T956: sacadas e invocado Eclipse en la costa este de Paradis. T959: tres deseos cumplidos; vuelven a ser piedras grises de río, inactivas un año (hasta ~día 63 del año 851). T960: guardadas en el inventario (inactivas).",
       "mundo": "shingeki"
+    },
+    {
+      "objeto": "Señalador de cuero de Levy McGarden (palabra 'viaje' en letras doradas, idioma antiguo; 'trae buena suerte')",
+      "origen": "fairytail, regalo de Levy (T1027)"
+    },
+    {
+      "objeto": "Canasta de Mirajane: pan, carne asada y un pescado para Kase",
+      "origen": "fairytail, regalo de Mirajane (T1027)"
     }
   ],
   "copias": [
@@ -1187,6 +1195,13 @@
       "mision": "Recibir la Onda Muerta de Jose Porla con todo su poder y seguir de pie.",
       "dificultad": "ALTA",
       "emitida": "T1017"
+    },
+    {
+      "poder": "Magia de Dragon Slayer de Fuego — Natsu Dragneel",
+      "mundo": "fairytail",
+      "mision": "Que Natsu Dragneel admita, con sus palabras, que perdió contra ti.",
+      "dificultad": "ALTA",
+      "emitida": "T1027"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -1641,6 +1656,13 @@
       "turno": 1012,
       "fragmentos": 25,
       "exp": 800
+    },
+    {
+      "mundo": "fairytail",
+      "quien": "Natsu Dragneel (duelo, compañero, en serio)",
+      "turno": 1027,
+      "fragmentos": 3,
+      "exp": 150
     }
   ],
   "viaje": {
@@ -1679,7 +1701,8 @@
         "dias_transcurridos_al_salir": 64,
         "corre_desde": "T174 al ritmo de Facundo",
         "regreso": "19/09 21:30 (T295): 24 días después de irse (9 en Dragon Ball + 15 en Jujutsu)",
-        "tercera_salida": "28/09 18:42 (Karakura); corre desde T345"
+        "tercera_salida": "28/09 18:42 (Karakura); corre desde T345",
+        "cuarto_regreso": "18/12 10:40 (T1027): ~80 días y 16 h después de irse el 28/09 18:42 (74 d según el reloj de One Piece/Shingeki hasta Jujutsu 25/04 + 4 d 3 h 41 min en Jujutsu + 2 d 11 h 30 min en Fairy Tail). Orilla del río de Karakura, bajo el puente."
       },
       "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre.",
       "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
@@ -1692,7 +1715,7 @@
         "nota": "Prometió volver en unos días."
       },
       "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
-      "fairytail": "Llegada X784, julio, Día 1 06:40, Parque de la Puerta Sur de Magnolia (mañana del cap. 48)."
+      "fairytail": "Llegada X784 julio Día 1 06:55 (Parque de la Puerta Sur). Salida Día 3 18:25, explanada del río de Magnolia, delante de Fairy Tail (vieron la Puerta). Prometió revancha a Natsu y pelear con Erza. Makarov: la puerta abierta. Corre."
     },
     "puerta_abierta": true,
     "historial_misiones": {
