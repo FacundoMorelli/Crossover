@@ -156,3 +156,5 @@
 - Kiyomi Azumabito · T855 · Por Facundo: una compañera suya (en Paradis) se le parece, con el pelo negro.
 - Facundo · T855 · Por Kiyomi: la casa Azumabito busca hace generaciones a una rama perdida de la familia del shogun que quedó en la isla.
 - Kiyomi Azumabito · T856 · Por Facundo: la compañera de pelo negro tiene una venda en la muñeca derecha; casi seguro tiene la marca.
+- Facundo · T857 · Por Kiyomi: Hizuru ofrece ser el primer aliado formal de Paradis (barcos, médicos, comercio, voz internacional) a cambio de prioridad en los recursos de la isla, sobre todo un mineral que arde sin humo.
+- Kiyomi · T857 · Deduce (fuente 4) que la barrera que frenó los cañones fue obra del emisario, no de la reina. No confirmado.

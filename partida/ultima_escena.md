@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T854)
-firmo como testigo
-
-## RESPUESTA 1 (T854)
-
-> firmo como testigo
-
-Tomas la pluma de las manos de Historia. Te inclinas sobre la mesa.
-
-Abajo de tres firmas, la redonda de Historia, la elegante de Willy y la dura de Magath, escribes tu nombre: Facundo A. Morelli. Testigo.
-
-Dejas la pluma en la mesa.
-
-Por un segundo, la plaza entera se queda sin aire.
-
-Después estalla.
-
-Los aplausos llegan de todas partes a la vez, como un trueno que no termina. En las gradas, miles de eldianos se ponen de pie gritando, llorando, abrazándose, levantando los brazos con el brazalete de la estrella. Los embajadores aplauden de pie en los palcos de terciopelo. Los periodistas gritan preguntas que nadie contesta, y las cámaras de fuelle disparan tanto que parece que llueve. Alguien de la banda, sin que nadie se lo pida, empieza a tocar.
-
-[+3.000 EXP]
-
-Historia te agarra la mano con las dos suyas, fuerte. Tiene los ojos llenos de lágrimas y no las esconde. No dice nada. Te aprieta la mano y no te suelta.
-
-Willy se seca los ojos con el pañuelo, sin vergüenza, delante del mundo. Magath le estrecha la mano a Historia, rígido, militar, y le dice algo en voz baja que no oyes. Historia asiente.
-
-Al costado del escenario, a la sombra del andamio, Lara Tybur mira todo con una sonrisa tranquila y las manos juntas.
-
-En la primera fila, los cadetes se levantaron del piso. Los más grandes aplauden sin saber bien qué pasó. El rubio aplaude mirando a la nena. La nena de pelo oscuro no aplaude. Está parada, sucia de polvo, con los puños cerrados, y te mira fijo a ti, con una mirada feroz y desconcertada, como si alguien le hubiera roto en dos el mundo.
-
-Kase le sostiene la mirada desde tu hombro.
-
-Entonces, entre el ruido, sube por la escalera lateral del escenario la mujer del kimono. Viene despacio, sin apuro, con el abanico cerrado en la mano y dos hombres de traje oscuro detrás, que se quedan abajo. Se detiene frente a ti y hace una reverencia profunda, perfecta, al estilo de un país que no conoces.
-
-—Señor emisario. —Habla un marleyano impecable, con un acento suave—. Kiyomi Azumabito, de Hizuru.
-
-Se endereza. Te mira con unos ojos oscuros, inteligentes, que no se pierden nada: el pelo, la cicatriz, el gato.
-
-—Hizuru quisiera ser la primera nación en visitar su isla. —Sonríe detrás del abanico—. ¿Me concedería unas palabras? En privado, si es posible.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 854 · SHINGEKI · DÍA 40 · 19:28        ║
-║ Liberio · escenario de la plaza              ║
-║ NIVEL 27 · EXP 218.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
-║ Kiyomi Azumabito (Hizuru) pide hablar.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T855)
+## COMANDO 1 (T855)
 si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
 
-## RESPUESTA 2 (T855)
+## RESPUESTA 1 (T855)
 
 > si señora, y usted se parece mucho a una de mis compañeras, ese pelo negro
 
@@ -107,10 +51,10 @@ Te mira fijo. Los ojos oscuros le brillan.
 
 ---
 
-## COMANDO 3 (T856)
+## COMANDO 2 (T856)
 no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
 
-## RESPUESTA 3 (T856)
+## RESPUESTA 2 (T856)
 
 > no lo se, por que tiene una venda en esa parte, pero le puedo decir, que casi seguro que si
 
@@ -155,4 +99,54 @@ Detrás de ella, apoyada contra el andamio, Ymir levanta una ceja y te mira, pre
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:33, detrás del telón. Facundo le dijo a Kiyomi que la compañera tiene una venda en la muñeca y que casi seguro tiene la marca. Kiyomi, emocionada, pregunta si está en Liberio y pide conocerla un minuto (sin decirle quién es, si Facundo prefiere). Mikasa está en el sótano del edificio detrás del escenario. Ymir mira, preguntando con los ojos.
+## COMANDO 3 (T857)
+si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
+
+## RESPUESTA 3 (T857)
+
+> si, no hay problema, pero antes usted me dijo de hablar en privado para otra cosa, dime que necesitabas
+
+> —Sí, no hay problema. Pero antes usted me dijo de hablar en privado para otra cosa. Dígame qué necesitaba.
+
+Kiyomi sonríe detrás del abanico. Es una sonrisa distinta: la de alguien a quien le gusta que la escuchen bien.
+
+—Atento. Me gusta. —Cierra el abanico y lo apoya en la palma de la mano—. Muy bien. Hablemos de negocios, que es lo que Hizuru hace mejor.
+
+Se acomoda la manga del kimono.
+
+—Esta noche su reina se ganó a la mitad de los embajadores de esta plaza. Mañana, cuando lleguen los diarios a sus capitales, se va a ganar a la otra mitad... o la van a odiar el doble. —Ladea la cabeza—. Paradis va a necesitar amigos. Amigos con barcos, con médicos, con ingenieros. Y con voz en las conferencias del mundo, donde se decide quién vive y quién no.
+
+Te mira fijo.
+
+—Hizuru se ofrece a ser el primero. El primer aliado formal de Paradis. Barcos para llegar a la isla, comercio, maestros, todo lo que haga falta para que su pueblo salga de detrás de esas murallas al mundo real. Y cuando alguien en una conferencia diga «demonios», Hizuru va a estar ahí para contestar.
+
+Hace una pausa breve.
+
+—A cambio, pido algo simple. Prioridad. Nuestros informes dicen que la isla tiene yacimientos de un mineral que arde sin humo, más que cualquier carbón del mundo. —Sonríe—. Hizuru quisiera ser el primero en comprarlo. A un precio justo, claro.
+
+Después, sin cambiar la voz, levanta los ojos hacia el techo del escenario, hacia el cielo donde todavía flota un poco de humo negro de los cañones.
+
+—Y una última cosa, si me permite la curiosidad de una vieja. —Te mira de reojo—. Lo de los cañones. Las balas que se rompieron contra el aire.
+
+Baja la vista hacia ti.
+
+—No fue la reina. Ella ni siquiera miró hacia arriba. —Abre el abanico, despacio—. Fue usted, ¿verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 857 · SHINGEKI · DÍA 40 · 19:36        ║
+║ Liberio · detrás del telón                   ║
+║ NIVEL 27 · EXP 218.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: TRATADO DE PAZ FIRMADO.            ║
+║ Kiyomi: alianza con Hizuru. Mikasa.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:36, detrás del telón. Kiyomi propone que Hizuru sea el primer aliado formal de Paradis (barcos, comercio, médicos, voz en las conferencias) a cambio de prioridad para comprar la piedra de hielo. Y pregunta: "Lo de los cañones... no fue la reina. Fue usted, ¿verdad?" Pendiente: presentarle a Mikasa (en el sótano).

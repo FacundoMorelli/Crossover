@@ -855,3 +855,4 @@ T853 · Shingeki · Liberio · Se presenta como el emisario de Paradis. Tratado 
 T854 · Shingeki · Liberio · Firma como testigo. Tratado de paz. +3.000 EXP. Kiyomi Azumabito pide hablar.
 T855 · Shingeki · Liberio · Kiyomi: la rama perdida de los Azumabito; pregunta por la marca en la muñeca.
 T856 · Shingeki · Liberio · La venda de la muñeca. Kiyomi pide conocer a la compañera.
+T857 · Shingeki · Liberio · Kiyomi propone la alianza con Hizuru; sospecha que la barrera fue de Facundo.
