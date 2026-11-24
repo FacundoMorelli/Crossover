@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1019)
-no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
-
-## RESPUESTA 1 (T1019)
-
-> no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
-
-> —No, prefiero seguir sin gremio. Pero voy a la fiesta. Además, soy mucho de viajar, de irme y volver de la nada.
-
-Makarov no parece sorprendido. Asiente despacio, como si ya lo supiera.
-
-—Un viajero. —Se ríe bajito, una risa corta, por la nariz—. Lo imaginé cuando te vi parado en ese parque, mirando todo como si fuera la primera vez.
-
-Se acomoda lo que le queda de la capa sobre los hombros.
-
-—Está bien. Ningún mocoso de Fairy Tail entró por obligación, y ninguno se quedó por obligación. —Te mira—. Pero escucha bien lo que te digo, Facundo Morelli. Esta vieja casa no tiene cerradura. Cuando vuelvas de donde sea que vayas, de la nada o de donde quieras, la puerta va a estar abierta. Con marca o sin marca.
-
-La puerta de la escalera se abre de una patada.
-
-—¡VIEJO! —Natsu entra corriendo, con Happy volando detrás, y se frena en seco al ver la sala: el techo que no está, el trono hecho polvo, el piso hundido, Jose gris y tirado en el medio—. ¿Ya...? ¿Ya terminó? ¡¿Sin mí?!
-
-—Aye —dice Happy, mirando a Jose—. Sin ti.
-
-Erza entra detrás, con la armadura intacta y la espada envainada. Recorre la sala con los ojos de una sola pasada, como quien hace un inventario. Ve a Jose. Ve a Juvia y a Sol contra la pared. Ve al maestro de pie y entero, sin una quemadura. Se le aflojan los hombros un segundo.
-
-Después te ve a ti, de pie junto al maestro.
-
-—Maestro. —Hace una reverencia corta—. Abajo están todos bien. Algunos heridos leves. Phantom no se levanta. —Una pausa—. ¿Qué hacemos con ellos?
-
-—Los dejamos aquí. Que los recoja el Consejo. —Makarov se encamina hacia la escalera, con las manos en la espalda—. Nos vamos a casa. Hay una fiesta que preparar.
-
-Natsu no lo sigue. Se queda delante de ti, con los brazos cruzados y el ceño fruncido, mirándote de arriba abajo.
-
-—Oye. —Te señala con el dedo—. Gajeel, Aria, Lucy y ahora esto. —Mira el techo abierto—. ¿Hiciste todo tú solo mientras yo me peleaba con unos debiluchos abajo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1019 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:37 · Phantom Lord · lo alto de la torre   ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La fiesta de Fairy Tail esta noche ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1020)
+## COMANDO 1 (T1020)
 algo así, simula unos dias
 
-## RESPUESTA 2 (T1020)
+## RESPUESTA 1 (T1020)
 
 > algo así, simula unos dias
 
@@ -125,10 +73,10 @@ A la tarde, mientras estás en la puerta de la sede, uno de los caballeros del C
 
 ---
 
-## COMANDO 3 (T1021)
+## COMANDO 2 (T1021)
 está bien, lo acompaño adentro
 
-## RESPUESTA 3 (T1021)
+## RESPUESTA 2 (T1021)
 
 > está bien, lo acompaño adentro
 
@@ -169,4 +117,50 @@ Moja la punta de un lápiz con la lengua. Lee algo en la carpeta. Levanta la vis
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:14, cuarto del fondo de la sede. Lahar interroga a Facundo (queda registrado; mentir es delito): de dónde es y qué hacía en Magnolia la mañana del Día 1. Facundo puede responder.
+## COMANDO 3 (T1022)
+soy viajero, estaba pasando por Magnolia y los encontré colgados
+
+## RESPUESTA 3 (T1022)
+
+> soy viajero, estaba pasando por Magnolia y los encontré colgados
+
+> —Soy viajero. Estaba pasando por Magnolia y los encontré colgados.
+
+El caballero del rincón escribe. La pluma rasca el papel.
+
+Lahar no anota nada. Te mira un momento, con el lápiz quieto entre los dedos.
+
+—Viajero —repite—. ¿Viajero de dónde? Fiore tiene registros de entrada en todos los puertos y en todas las fronteras. Y no hay ninguno con su nombre. —Pasa una hoja de la carpeta—. Ni en Bosco, ni en Seven, ni en Minstrel.
+
+Espera un segundo. No dices nada más, y él no insiste. Hace una marca pequeña en el margen de la hoja, una sola, y sigue.
+
+—Los tres magos del árbol confirman su versión —dice—. Igual que los vecinos del parque. Usted los bajó y les dio algo de comer que los curó. —Levanta la vista—. ¿Qué era?
+
+No espera la respuesta. Vuelve a la carpeta.
+
+—Eso lo dejamos para después. Lo que más me interesa es otra cosa. —Pone el dedo sobre una lista escrita a mano—. Según las declaraciones, en una sola mañana usted detuvo un hacha encantada con la mano desnuda. Creó con los dedos criaturas de luz que pelearon solas. Voló. Desapareció de un lugar y apareció en otro. Y sintió la presencia de un Mago Santo que estaba ocultando su magia, cuando ni el maestro Makarov pudo sentirla.
+
+Cierra la carpeta.
+
+—Son por lo menos cuatro tipos de magia distintos, señor Morelli. La mayoría de los magos de Fiore domina uno, dos como mucho. —Apoya los codos en la mesa—. ¿Qué clase de magia usa usted?
+
+Kase, sobre la mesa, bosteza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1022 · FAIRY TAIL · X784 · DÍA 3 ·     ║
+║ 17:17 · Magnolia · sede, cuarto del fondo    ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sobre la mesa, bostezando              ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: Interrogatorio del Consejo         ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:17, interrogatorio con Lahar. Facundo dijo que es viajero; no hay registros de entrada. Lahar pregunta qué clase de magia usa. Facundo puede responder.

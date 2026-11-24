@@ -1020,3 +1020,4 @@ T1018 · Fairy Tail · Torre de Phantom · Semilla del ermitaño a Makarov: magi
 T1019 · Fairy Tail · Torre · Rechaza la marca; va a la fiesta; "soy de viajar". Makarov: "La puerta va a estar abierta." Natsu: "¿Hiciste todo tú solo?"
 T1020 · Fairy Tail · Magnolia · (simulado Días 1-3) Fiesta; posada; Consejo; Loke devuelve las llaves; revista. Lahar: "Necesito que me acompañe adentro a responder unas preguntas."
 T1021 · Fairy Tail · Sede, cuarto del fondo · Lo acompaña. Lahar: "¿De dónde es usted, y qué hacía en Magnolia esa mañana?"
+T1022 · Fairy Tail · Interrogatorio · "Soy viajero." Sin registros de entrada. Lahar: "¿Qué clase de magia usa usted?"

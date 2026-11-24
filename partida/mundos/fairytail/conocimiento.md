@@ -43,3 +43,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Consejo Mágico (capitán Lahar, Caballeros de la Runa) · T1020 · por las declaraciones: 12 testigos de Fairy Tail y 3 de Phantom lo nombran: vuela, se teletransporta, venció a Gajeel de un golpe. No pertenece a ningún gremio registrado.
 - Público de Fiore (lectores de la revista) · T1020 · "un misterioso mago sin gremio, con un enorme gato blanco y azul, habría participado del asalto". Sin nombre.
 - Happy · T1020 · cree que Kase es su amigo.
+- Lahar y el Consejo (registro escrito) · T1022 · Facundo declaró que es viajero y que pasaba por Magnolia. Lahar sabe que no hay registros de entrada a Fiore con su nombre (lo deduce: entró sin registrarse o mintió).
