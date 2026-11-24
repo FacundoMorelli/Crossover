@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1031)
-hola chicos, como estan? volvi para ver si todo estaba bien, urahara ya me dijo que si, asi que vine a saludarlos
-
-## RESPUESTA 1 (T1031)
-
-> hola chicos, como estan? volvi para ver si todo estaba bien, urahara ya me dijo que si, asi que vine a saludarlos
-
-> —Hola, chicos. ¿Cómo están? Volví para ver si todo estaba bien. Urahara ya me dijo que sí, así que vine a saludarlos.
-
-Durante un segundo, ninguno de los tres se mueve.
-
-Después Ichigo cruza la vereda en cuatro pasos, con la cara roja, y te da un puñetazo en el hombro. No en el que tiene a Kase. Fuerte, de verdad, con toda la intención.
-
-No te mueve ni un centímetro. Ichigo se agarra la mano y sacude los dedos.
-
-—¡Tres meses! —grita, y un par de alumnos que pasaban se dan vuelta—. ¡Tres meses sin decir nada, idiota! ¡Te fuiste por una puerta en el río y nada! ¡Ni una señal! ¡Rukia preguntó por ti cada vez que vino! ¡Cada vez! —Se pasa la mano por el pelo, furioso—. ¡Y apareces en el puente como si nada, diciendo "vine a saludarlos"!
-
-Kase, desde tu hombro, envuelto en la bufanda, lo mira con los ojos entrecerrados.
-
-Ichigo lo mira a él. Se le corta el grito.
-
-—...¿Qué le pasó al gato? ¿Por qué tiene una bufanda?
-
-Orihime llega detrás, corriendo, con los ojos llenos de lágrimas y una sonrisa enorme, las dos cosas a la vez.
-
-—¡Facundo-kun! —Se frena delante de ti, con las manos juntas en el pecho, sin saber si abrazarte o no, y al final no lo hace—. ¡Volviste! ¡De verdad volviste! —Se limpia los ojos con la manga del abrigo—. Perdón, perdón, no estoy llorando, es el frío. Estamos bien. ¡Todos estamos bien! —Se ríe—. Kurosaki-kun estaba preocupado, aunque diga que no.
-
-—¡No estaba preocupado!
-
-—Sí estaba —dice Chad.
-
-Chad se acerca último, despacio, con la mochila de Ichigo en la mano: la levantó de la vereda sin que nadie se diera cuenta. Se para frente a ti, te mira desde detrás del flequillo y asiente una vez, grave.
-
-—Bienvenido —dice.
-
-Le extiende la mochila a Ichigo, que se la arranca de la mano sin mirarlo, todavía rojo.
-
-Ichigo se cuelga la mochila, se mete las manos en los bolsillos del abrigo, mira el río, mira el cielo, mira cualquier cosa menos a ti. Después suspira, largo, y algo en la cara se le afloja.
-
-—Bueno. Ya estás aquí. —Te mira de reojo—. ¿Y ahora qué? ¿Cuánto te vas a quedar esta vez? ¿O vas a desaparecer de nuevo mañana por otra puerta?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1031 · BLEACH · 18/12 · 15:44          ║
-║ Karakura · puente sobre el río               ║
-║ NIVEL 27 · EXP 234.850/240.000               ║
-║ FRAGMENTOS 107.840 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, con bufanda              ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1032)
+## COMANDO 1 (T1032)
 unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que sigo recorriendo, no estoy muerto ni nada asi... Espero
 
-## RESPUESTA 2 (T1032)
+## RESPUESTA 1 (T1032)
 
 > unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que sigo recorriendo, no estoy muerto ni nada asi... Espero
 
@@ -111,10 +53,10 @@ Se detiene a mitad del puente y te mira por encima del hombro, con el ceño frun
 
 ---
 
-## COMANDO 3 (T1033)
+## COMANDO 2 (T1033)
 sí, voy a cenar a tu casa. simula estos dias
 
-## RESPUESTA 3 (T1033)
+## RESPUESTA 2 (T1033)
 
 > sí, voy a cenar a tu casa. simula estos dias
 
@@ -213,4 +155,54 @@ La sonrisa se le congela. Después se le hace más grande.
 
 ---
 
-ESTADO AL CIERRE: Bleach, 21/12 21:15, feria navideña de Karakura. Grimmjow salió de una Garganta sobre el árbol, desafía a Ichigo y reconoce a Facundo ("el que dejó a Aizen hecho piedra"). Todo el grupo y la familia Kurosaki presentes; civiles no ven nada. Facundo puede actuar.
+## COMANDO 3 (T1034)
+eh sigues vivo? ichigo este solo viene a pelear no? o hace alguna cosa mala?
+
+## RESPUESTA 3 (T1034)
+
+> eh sigues vivo? ichigo este solo viene a pelear no? o hace alguna cosa mala?
+
+> —Eh, ¿sigues vivo?
+
+Lo dices hacia arriba, al aire, en el mismo tono en que preguntarías la hora.
+
+Grimmjow se queda con la mano a medio sacar del bolsillo.
+
+—¿Que si sigo...? —La vena de la sien se le hincha—. ¡¿QUÉ CLASE DE PREGUNTA ES ESA?! ¡Claro que sigo vivo, idiota! ¡¿Quién te crees que me iba a matar?! ¡¿Tú?!
+
+> —Ichigo, este solo viene a pelear, ¿no? ¿O hace alguna cosa mala?
+
+Ichigo ya tiene la mano en el bolsillo del abrigo, sobre la insignia de Shinigami sustituto. No la saca todavía. Mira a Grimmjow, después a ti, y se le escapa un resoplido que es casi una risa.
+
+—Viene a pelear conmigo. Es la tercera vez desde octubre. —Se encoge de hombros—. No mató a nadie. Pero rompe cosas. La primera vez destrozó medio parque del distrito este. La segunda, una torre de alta tensión: tres barrios se quedaron sin luz una noche entera.
+
+—Y la gente que pasa cerca de él con poca energía espiritual se desmaya —agrega Rukia, en voz baja, mirando a su alrededor la plaza llena de civiles—. Su reiatsu los aplasta sin que se den cuenta. Si se pone serio aquí, en medio de la feria...
+
+No termina la frase.
+
+A unos metros, una señora que compraba castañas asadas se lleva la mano a la frente y se sienta en un banco, mareada, sin saber por qué. El chico del puesto de dulces bosteza y se apoya en el mostrador.
+
+—¡OIGAN! —ruge Grimmjow desde arriba—. ¡¿Me están ignorando?! ¡¿Están hablando de mí como si no estuviera aquí?!
+
+Se saca la otra mano del bolsillo. Baja la vista hacia ti, solo hacia ti, y la sonrisa de tiburón vuelve, más ancha que antes.
+
+—Cambio de planes, Kurosaki. Tú puedes esperar. —Agarra la empuñadura de la espada que lleva a la cintura y la saca despacio. La hoja brilla bajo las luces de Navidad—. Primero quiero ver qué tan fuerte es el que convirtió a Aizen en piedra. —Te apunta con la punta—. Sube aquí, gatito. O bajo yo y aplasto este maldito pueblo con todos sus arbolitos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1034 · BLEACH · 21/12 · 21:16          ║
+║ Karakura · feria navideña, plaza del árbol   ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, con bufanda              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 21/12 21:16, feria navideña. Grimmjow desenvainó y desafía a Facundo: que suba o baja y aplasta el pueblo. Su reiatsu ya marea a civiles. Facundo puede actuar.
