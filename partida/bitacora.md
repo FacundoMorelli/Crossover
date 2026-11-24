@@ -811,3 +811,4 @@ T809 · One Piece · Thriller Bark · Kuma pide la cabeza de Luffy; todos se nie
 T810 · One Piece · Thriller Bark · "Aguanta, Kuma." Deja inconscientes con suavidad a todos sus compañeros. Kuma: "¿Por qué?"
 T811 · One Piece · Thriller Bark · Trato con Kuma: recibe el dolor de todos y sigue de pie. COPIA Nikyu Nikyu. NIVEL 27. Kuma se va.
 T812 · One Piece · Thriller Bark · Come una semilla del ermitaño. Se sienta con Kase.
+T813 · One Piece · Thriller Bark · Despiertan todos curados. Robin ve la sangre: "¿Qué hiciste?"

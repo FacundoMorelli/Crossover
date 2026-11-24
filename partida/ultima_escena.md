@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T810)
-aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
-
-## RESPUESTA 1 (T810)
-
-> aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
-
-> —Aguanta, Kuma.
-
-La burbuja deja de crecer.
-
-Kuma no baja la mano. Tampoco la suelta. Se queda quieto, enorme, con todo el aire de la isla comprimido en la palma, zumbando como un enjambre. Te mira por encima de la burbuja, sin expresión.
-
-Espera.
-
-Pateas el piso.
-
-El primero es Zoro. Apareces detrás de él y le apoyas dos dedos en la nuca, suave, justo donde el cuello se une al cráneo. Los ojos se le ponen en blanco antes de que alcance a darse vuelta. Lo atajas por los hombros y lo dejas sentado contra una piedra, con la Shusui cruzada sobre las piernas.
-
-Sanji, con el cigarro todavía en la boca. Lo atajas y le sacas el cigarro de los labios antes de que se le caiga encima.
-
-Nami, que alcanza a abrir la boca para gritarte. La acuestas de costado en el pasto, con el Clima-Tact al lado.
-
-Usopp, que ya estaba temblando y se desmaya casi solo, del alivio.
-
-Chopper, chiquito, que cabe entero en un brazo. Lo dejas sobre la panza de Luffy.
-
-Franky, pesado como un yunque. Lo apoyas contra el pedazo de mástil caído.
-
-Brook, que es tan liviano que parece de papel. Le acomodas el sombrero.
-
-Y Robin.
-
-Es la única que te ve venir. Se da vuelta justo antes de que la toques y te mira a los ojos, con la boca entreabierta, a punto de decir tu nombre. Los dos dedos se le apoyan en la nuca. Se le cierran los ojos despacio y cae hacia adelante, contra tu pecho. La recibes en brazos.
-
-Todo eso dura menos de dos segundos.
-
-Te arrodillas y la acuestas en el pasto, al lado de los demás. Le sacas el pelo de la cara.
-
-Kase baja de tu hombro y se sienta junto a la cabeza de Robin, como un guardia.
-
-Al borde de la explanada, Lola y los Piratas Rolling te miran sin respirar. Ninguno vio cómo lo hiciste. Solo vieron a nueve personas caer una tras otra, como si se hubieran dormido de golpe.
-
-Kuma sigue con la mano en alto. La burbuja late en su palma.
-
-Por primera vez, algo se le mueve en la cara. Es mínimo: las cejas, apenas.
-
-—¿Por qué?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 810 · ONE PIECE · DÍA 44 · 06:45       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 26 · EXP 214.940/215.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a la cabeza de Robin             ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Moria vencido. Kuma ataca. Salir   ║
-║ de One Piece antes del Día 49.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T811)
+## COMANDO 1 (T811)
 hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
 
-## RESPUESTA 2 (T811)
+## RESPUESTA 1 (T811)
 
 > hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
 
@@ -165,10 +99,10 @@ Se oye un «pop» seco de aire comprimido y Kuma ya no está.
 
 ---
 
-## COMANDO 3 (T812)
+## COMANDO 2 (T812)
 me como una semilla, y me siento con kase
 
-## RESPUESTA 3 (T812)
+## RESPUESTA 2 (T812)
 
 > me como una semilla, y me siento con kase
 
@@ -207,4 +141,64 @@ Al borde de la explanada, Lola y los Piratas Rolling siguen mirándote. Ninguno 
 
 ---
 
-ESTADO AL CIERRE: Día 44 06:55. Facundo curado con una semilla (la ropa sigue empapada de sangre), sentado en el pasto junto a Robin dormida, con Kase acurrucado en el pecho ronroneando. Tripulación dormida y curada. Lola y los Rolling miran de lejos.
+## COMANDO 3 (T813)
+espero a que despierten los demás
+
+## RESPUESTA 3 (T813)
+
+> espero a que despierten los demás
+
+Te quedas sentado en el pasto con Kase en el pecho, mirando cómo la niebla se termina de levantar. Lola y los Piratas Rolling encienden una fogata al borde de la explanada y ponen a calentar algo en una olla. Cada tanto alguno te mira de reojo y vuelve a mirar el fuego.
+
+A las siete y cuarenta, el primero en moverse es Luffy.
+
+Se sienta de golpe, con Chopper rodando de su panza al pasto, y se estira con los brazos de goma hasta el cielo.
+
+—¡Aaaah! ¡Qué bien dormí! —Se toca el estómago—. ¡Tengo hambre! ¡Carne!
+
+Uno por uno, despiertan los demás. Sanji se incorpora y busca el cigarro en el bolsillo. Nami se frota los ojos. Usopp se levanta gritando que vio a un oso gigante en un sueño. Franky se estira y le crujen todos los huesos de metal. Brook se sienta, ve la luz del sol sobre sus huesos y se queda quieto, mirándose la sombra.
+
+Zoro se sienta contra la piedra y se mira el pecho. Se toca los brazos, las costillas, el costado. No hay nada. Ni un corte.
+
+—...Me partieron la espalda anoche. —Frunce el ceño—. ¿Y ahora qué?
+
+Chopper corre de uno a otro, revisándolos con las pezuñas temblando.
+
+—¡Están todos sanos! ¡Todos! ¡No hay ni un hueso roto! ¡Ni una quemadura! ¡¿Cómo puede ser?! ¡Anoche Luffy estaba casi muerto!
+
+Robin es la última en abrir los ojos.
+
+Se despierta despacio, en el pasto, a tu lado. Lo primero que ve es tu sobretodo empapado y tieso, de un rojo oscuro casi negro. Después ve el charco a tus pies, ya seco en los bordes.
+
+Se le borra el color de la cara.
+
+Se sienta de golpe y se lleva la mano a la nuca. Se acuerda de los dos dedos.
+
+—¿Qué hiciste? —La voz casi no le sale—. Facundo. ¿Qué hiciste?
+
+Todos se dan vuelta a mirarte. Recién ahí ven la sangre.
+
+Zoro se levanta apoyándose en la Shusui. Mira el charco, a ti y el lugar vacío donde estaba Kuma.
+
+—¿Dónde está el oso?
+
+Al borde de la explanada, junto a la fogata, Lola se pone de pie de golpe con una cuchara en la mano. Abre la boca para contar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 813 · ONE PIECE · DÍA 44 · 07:40       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en tus piernas                         ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
+║ One Piece antes del Día 49.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 07:40. La tripulación despertó curada, sin saber por qué. Robin vio la sangre de Facundo y le pregunta "¿Qué hiciste?". Zoro pregunta dónde está el oso. Lola, que vio todo, abre la boca para contar.

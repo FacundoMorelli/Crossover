@@ -203,3 +203,4 @@
 - Tripulación, Facundo · T809 · Por Kuma: el Gobierno ordenó borrar a los testigos de la caída de Moria; perdona a todos por la cabeza de Luffy.
 - Kuma, Lola y los Piratas Rolling · T810 · Ven a Facundo dejar inconsciente a toda su tripulación con un toque, a una velocidad que no siguen.
 - Lola y los Piratas Rolling · T811 · Ven a Facundo hacer un trato con Kuma y recibir en el cuerpo el dolor de toda su tripulación, cubrirse de sangre y seguir de pie. La tripulación NO lo vio (inconsciente).
+- Tripulación · T813 · Ven a Facundo con la ropa empapada de sangre y un charco rojo; se despertaron sin heridas ni cansancio. Robin recuerda que Facundo la durmió con un toque. No saben lo del trato.
