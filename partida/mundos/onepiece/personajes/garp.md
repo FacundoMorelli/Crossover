@@ -20,3 +20,4 @@ ESTADO: activo.
 - T803 · Ataca al Sunny con balas a mano al zarpar. "¡Nos vemos en el Nuevo Mundo, mocoso!"
 - T896 · Se levanta al pie del cadalso al sentir el Haki del Rey de Facundo.
 - T897 · Marineford · Bloquea el pie del cadalso: "Si quieres subir esa escalera, vas a tener que pasar por encima de tu abuelo." A Facundo: "Y tú también, muchacho del Puño del Amor."
+- T898 · Facundo y Luffy aparecen detrás de él en la escalera. No los persigue: baja los puños y se sienta en un escalón, llorando. "Mocosos..."

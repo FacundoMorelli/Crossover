@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T895)
-lo empujo con la luna, agarro a kase
-
-## RESPUESTA 1 (T895)
-
-> lo empujo con la luna, agarro a kase
-
-Tu ojo derecho se enciende de azul hielo.
-
-No levantas la mano. No hace falta.
-
-Akainu sale despedido hacia atrás como si lo hubiera pateado una montaña. El puño de magma se le despega de tu pecho con un chasquido de vapor y el cuerpo entero sale volando de espaldas, en línea recta, rozando el hielo y abriendo un surco humeante de cien metros a través de la bahía congelada. Atraviesa una fila de marines que se tiran al piso para esquivarlo. Atraviesa una nube de humo.
-
-Se estrella contra el muro de la plaza.
-
-El muro, de piedra blanca, de diez metros de alto, se raja de arriba abajo y se derrumba encima de él en una avalancha de bloques, polvo y vapor. Un cañón cae rodando desde arriba. Después, silencio. Solo sale humo de debajo de las piedras, y un brillo rojo que late, todavía vivo.
-
-En todo el frente de batalla, la gente deja de pelear por un segundo. Marines y piratas se quedan con las armas a medio levantar, mirando el muro caído.
-
-Te das vuelta hacia Luffy.
-
-Le sacas a Kase de los brazos. Kase se deja agarrar, rígido, ofendido hasta los bigotes. Te sube al hombro, se acomoda y, sin aviso, te muerde la oreja. Fuerte. Después se queda quieto, con la cola enroscada en tu cuello.
-
-Luffy te mira con la boca abierta. Mira el muro. Te mira a ti.
-
-—Shishishi... —Se ríe, sin poder creerlo—. ¡Lo mandaste a volar!
-
-Arriba del cadalso, Sengoku dejó de mirar la guerra. Mira el muro caído, mira el humo y te mira a ti, de pie en el medio de la bahía, con el gato en el hombro. Se le endurece la cara.
-
-Agarra el Den Den Mushi del altavoz.
-
-—¡Adelanten la ejecución! —La voz retumba en toda Marineford—. ¡AHORA!
-
-En lo alto del cadalso, dos marines enormes, con capuchas y uniforme de verdugo, se paran a los lados de Ace, de rodillas. Cada uno sostiene una espada larga y ancha. Las levantan al mismo tiempo, en alto, contra el cielo.
-
-Ace no cierra los ojos. Mira hacia abajo, hacia la bahía. Hacia Luffy.
-
-Luffy grita con todo lo que tiene.
-
-—¡¡ACEEEEE!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 895 · ONE PIECE · DÍA 57 · 13:07       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 221.240/240.000               ║
-║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro (te mordió la oreja)      ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace. ¡Los verdugos        ║
-║ levantaron las espadas!                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T896)
+## COMANDO 1 (T896)
 expulso mi haki del rey
 
-## RESPUESTA 2 (T896)
+## RESPUESTA 1 (T896)
 
 > expulso mi haki del rey
 
@@ -125,10 +67,10 @@ Desde el Moby Dick, por encima de la bahía en silencio, llega una carcajada eno
 
 ---
 
-## COMANDO 3 (T897)
+## COMANDO 2 (T897)
 vamos luffy
 
-## RESPUESTA 3 (T897)
+## RESPUESTA 2 (T897)
 
 > vamos luffy
 
@@ -193,4 +135,64 @@ Ace, de rodillas entre los verdugos dormidos, grita hacia abajo con la voz rota:
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:09, al pie del cadalso de Marineford. Jinbe, Ivankov y Marco frenan a los vicealmirantes. Garp bloquea la escalera, llorando: "Si quieres subir esa escalera, vas a tener que pasar por encima de tu abuelo. Y tú también, muchacho del Puño del Amor." Sengoku empieza a transformarse (luz dorada). Ace grita: "¡Váyanse! ¡No vale la pena!"
+## COMANDO 3 (T898)
+toco a luffy y nos teletransportamos atras de garp para seguir subiendo
+
+## RESPUESTA 3 (T898)
+
+> toco a luffy y nos teletransportamos atras de garp para seguir subiendo
+
+Apoyas la mano en el hombro de Luffy. Dos dedos en la frente.
+
+Desaparecen de delante de Garp.
+
+Aparecen detrás de él, en la escalera del cadalso, diez escalones más arriba. Luffy se tambalea, mareado, y se agarra del sombrero.
+
+—¡Otra vez esa cosa!
+
+Garp se da vuelta despacio.
+
+Los ve, a los dos, en la escalera, encima de él, subiendo. Podría saltar. Podría agarrar a Luffy de la pierna, como agarró a cien piratas. Podría lanzar un puño que partiera la escalera en dos.
+
+No lo hace.
+
+Se le aflojan los puños. Baja los brazos. Se le caen las lágrimas, gruesas, por la barba blanca, y no se las seca. Se sienta en un escalón, pesadamente, como un viejo cansado, con los codos en las rodillas, y se queda mirando la plaza llena de marines desmayados.
+
+—Mocosos... —Lo dice para sí, con la voz quebrada—. Mocosos idiotas.
+
+Luffy lo mira un segundo por encima del hombro. Se le aprieta la boca. Después se da vuelta y sigue subiendo.
+
+Suben corriendo.
+
+En la cima del cadalso ya no hay un hombre. Hay un gigante.
+
+Sengoku se transformó del todo. Es un Buda enorme, dorado, de piel brillante como el oro pulido, alto como la mitad de la torre, con la barba trenzada y los lentes todavía en la cara y un halo de luz detrás de la cabeza. Ocupa toda la cima. A sus pies están los dos verdugos desmayados y, en el medio, chiquito, de rodillas, Ace, encadenado, mirándolos subir con los ojos llenos de lágrimas.
+
+—¡No van a tocarlo! —La voz de Sengoku retumba como una campana—. ¡Ni el hijo de Dragon ni el demonio del gato!
+
+Levanta la palma derecha. Es una mano dorada del tamaño de una casa.
+
+La baja sobre la escalera, sobre ustedes dos.
+
+Al bajar, el aire debajo de la palma se comprime en una onda de choque dorada que se ve, que hace temblar la piedra del cadalso, y que viene hacia ustedes como una pared.
+
+—¡¡LUFFY!! —grita Ace.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 898 · ONE PIECE · DÍA 57 · 13:10       ║
+║ Marineford · escalera del cadalso            ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 91% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace. Sengoku (Buda)       ║
+║ ataca. Garp no los persigue.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:10, escalera del cadalso. Facundo y Luffy aparecieron detrás de Garp; Garp no los persiguió (se sentó llorando: "Mocosos idiotas"). Arriba, Sengoku transformado en Buda dorado gigante baja la palma con una onda de choque sobre los dos. Ace grita "¡¡LUFFY!!".
