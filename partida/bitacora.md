@@ -729,3 +729,4 @@ T727 · One Piece · muelle · Le dice a Franky quiénes son. Franky quiere ir a
 T728 · One Piece · muelle · Frena a Franky del brazo.
 T729 · One Piece · muelle · Franky se calma. Pregunta qué hacer.
 T730 · One Piece · muelle · Invita a Franky a Enies Lobby. Acepta. Luffy quiere que sea su carpintero.
+T731 · One Piece · muelle · Franky rechaza unirse, pero refuerza el Merry para el último viaje.
