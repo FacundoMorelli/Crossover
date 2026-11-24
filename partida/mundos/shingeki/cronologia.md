@@ -113,3 +113,4 @@
 - Día 63 05:02 · (T958) SEGUNDO DESEO: todos los muertos por titanes desde que se levantaron las murallas (107 años) vuelven a la vida. Los de Paradis aparecen en los campamentos y distritos de Wall Maria (cientos de miles, vestidos como el día que murieron); los del continente, en sus casas (Marley, Medio Oriente). Entre ellos, probablemente: Carla Jaeger (Shiganshina), Marcel Galliard (Liberio), la escuadra de Levi, Isabel y Farlan, Marco, Hannes, los 250.000 de la recuperación del 846, soldados de la Legión.
 - Día 63 05:05 · (T959) TERCER DESEO: se reconstruyen todas las casas destruidas por titanes (Shiganshina, Trost, Ragako, Wall Maria, pueblos del continente). Eclipse se va; las esferas quedan inactivas un año.
 - Día 63 05:08 · (T959) Primer amanecer sin titanes.
+- Día 63 05:20 · (T960) Facundo lleva a Eren, Mikasa y Armin a Shiganshina. Reencuentro con Carla Jaeger; Grisha Jaeger también revivido en su casa.

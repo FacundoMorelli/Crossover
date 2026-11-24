@@ -41,3 +41,4 @@ ENCUENTROS:
 - T957 · Pierde el Ataque y el Fundador: "Se fue todo. No veo nada." Ríe llorando con la frente en el hombro de Mikasa.
 - T958 · "Mi mamá. Facundo. Mi mamá está ahí. ¿Está ahí?"
 - T959 · Facundo: "Sí, Eren. Tu mamá está ahí." Se le doblan las piernas. Al amanecer: "Facundo. Llévame a Shiganshina. Por favor."
+- T960 · Shiganshina: se tira de rodillas y abraza a su madre, llorando a gritos.

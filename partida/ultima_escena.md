@@ -3,88 +3,10 @@
 
 ---
 
-## COMANDO 1 (T957)
-Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
-
-## RESPUESTA 1 (T957)
-
-> Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
-
-> —Primero: deseo que desaparezcan los titanes del mundo y que los que están transformados en titanes vuelvan a ser humanos.
-
-Los ojos del dragón brillan. El rojo y el azul a la vez, cada vez más fuerte, hasta que la meseta entera queda bañada en esos dos colores.
-
-—ES UN DESEO FÁCIL DE CUMPLIR.
-
-El anillo de luz blanca que le rodea la cabeza se agranda. Se suelta. Sale volando hacia el cielo apagado como una onda en un estanque, y se expande. Cruza la meseta, el acantilado, el mar. Sigue de largo, más allá del horizonte, en todas direcciones a la vez.
-
-Y lo sientes.
-
-Con lo que te dio Dende, con lo que sientes desde que se llenaron tus stats en el río, sientes la isla entera como si la tuvieras en la palma de la mano. Y sientes lo que pasa cuando el anillo la cruza.
-
-Primero, las murallas.
-
-Wall Maria, Wall Rose, Wall Sina. Cientos de kilómetros de piedra. Adentro de cada tramo, miles de presencias enormes, dormidas desde hace más de un siglo, se apagan de golpe, como velas en el viento. Y en el mismo instante, en el lugar de cada una, se enciende otra. Chiquita. Tibia. Humana.
-
-Las murallas crujen de punta a punta. En toda la isla, a la vez. Se abren grietas largas en la piedra, de arriba abajo, sin derrumbarse, como cáscaras de huevo, y de cada grieta sale gente. Hombres y mujeres desnudos, desorientados, que caen sentados en el pasto, al pie de las murallas, sin un rasguño, mirándose las manos. Miles. Decenas de miles. Gente que se durmió hace más de cien años.
-
-Después, el campo.
-
-Más allá de Wall Maria, en los bosques, en los llanos, en las ruinas de los pueblos, los titanes que vagaban se detienen. Todos a la vez. Se quedan quietos, con las caras vacías levantadas hacia el cielo negro. Y se achican. El vapor les sale de todo el cuerpo, una nube blanca que sube en cientos de columnas por toda la isla, y cuando el vapor se disipa, donde había un titán de quince metros hay una persona tirada en el pasto, tosiendo, temblando, viva.
-
-En Ragako, una mujer abre los ojos en el piso de su propia casa. Mira el techo roto. Se sienta. Llama a alguien por su nombre.
-
-Detrás de ti, Connie mira hacia el oeste. Sobre la isla todavía oscura, a lo lejos, se levantan cientos de columnas de vapor blanco, una al lado de la otra, hasta donde da la vista. Cae de rodillas en el pasto, se tapa la cara con las manos y empieza a llorar a gritos.
-
-En el sótano de la iglesia de Mitras, un cristal enorme se vuelve agua. Se derrama por el piso de piedra. Una chica rubia cae de rodillas en el charco, empapada, y respira por primera vez en meses.
-
-En las celdas de Trost, dos muchachos se doblan en sus catres al mismo tiempo, agarrándose el pecho, como si les hubieran arrancado algo de adentro. No duele. Solo pesa menos.
-
-Y aquí, en la meseta, frente a ti, se doblan tres personas.
-
-Eren cae de rodillas, con las manos en la cabeza. No grita. Abre la boca como si fuera a gritar, y no sale nada. Mikasa se tira a su lado y lo agarra. Eren levanta la cabeza. Tiene la cara mojada. Mira a Mikasa, muy de cerca.
-
-—Se fue —dice. Le tiembla la voz—. Se fue todo. No veo nada. No veo... nada.
-
-Y se ríe. Una risa rota, llorando, con la frente apoyada en el hombro de Mikasa.
-
-Historia sostiene a Ymir, que se tambalea, pálida, con una mano en el pecho. Ymir respira hondo una vez, dos. Después se mira la mano. Se muerde el pulgar, fuerte, hasta que le sale sangre. Se queda mirando la gota roja que no humea, que no se cierra, que no hace nada.
-
-Se ríe. Se le llenan los ojos.
-
-—Lindo... —Te mira por encima del hombro de Historia—. Me puedo cortar.
-
-Lejos, al norte, muy lejos, del otro lado del mar, sientes también el anillo pasar por el continente. En Liberio, en un invernadero, una mujer se lleva las manos al pecho y se sienta despacio en un banco de piedra. En un parque, una muchacha con muletas se agarra del respaldo de un banco.
-
-El anillo sigue. Da la vuelta al mundo. Y se apaga.
-
-Ya no hay titanes en ningún lado.
-
-El cielo sigue negro. El dragón sigue ahí, suspendido sobre la meseta, enorme, con los ojos rojo y azul clavados en ti.
-
-—TU PRIMER DESEO HA SIDO CONCEDIDO. —La voz retumba en el acantilado—. DIME TU SEGUNDO DESEO.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 957 · SHINGEKI · DÍA 63 · 04:58        ║
-║ Costa este de Paradis · meseta del           ║
-║ acantilado                                   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Segundo deseo: los muertos.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T958)
+## COMANDO 1 (T958)
 Segundo quiero que revivas a todos los muertos por titanes de esta epoca
 
-## RESPUESTA 2 (T958)
+## RESPUESTA 1 (T958)
 
 > Segundo quiero que revivas a todos los muertos por titanes de esta epoca
 
@@ -152,10 +74,10 @@ El dragón sigue suspendido sobre todos, con los ojos clavados en ti.
 
 ---
 
-## COMANDO 3 (T959)
+## COMANDO 2 (T959)
 si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
 
-## RESPUESTA 3 (T959)
+## RESPUESTA 2 (T959)
 
 > si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
 
@@ -229,4 +151,89 @@ Hasta que Eren se suelta del brazo de Mikasa. Se da vuelta hacia ti. Tiene la ca
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:08, meseta del acantilado, amanecer. Tercer deseo cumplido: todas las casas destruidas por titanes, reconstruidas (Shiganshina, Trost, Ragako, Wall Maria, el continente). Eclipse se despidió ("Adiós, creador"); las esferas quedaron como piedras inactivas un año. Primer amanecer sin titanes. Eren le pide a Facundo que lo lleve a Shiganshina. Facundo puede actuar.
+## COMANDO 3 (T960)
+guardo las esferas en el inventario, esta bien eren, vamos
+
+## RESPUESTA 3 (T960)
+
+> guardo las esferas en el inventario, esta bien eren, vamos
+
+Te agachas y juntas las siete piedras grises del pasto. Frías, apagadas, como cualquier piedra de río. Desaparecen en el inventario.
+
+> —Está bien, Eren. Vamos.
+
+Eren te agarra del brazo antes de que termines de decirlo. Mikasa le agarra el otro sin pedir permiso. Armin le pone la mano en el hombro a Mikasa, sin pensarlo, con los ojos todavía rojos.
+
+Erwin asiente desde atrás.
+
+—Vayan. Los demás iremos a caballo. —Mira a Levi—. Hay mucha gente allá que no sabe qué día es.
+
+Kase se te acomoda en el hombro.
+
+Buscas la presencia que sentiste hace un rato. La del borde de Shiganshina, junto a la casa de madera. Sigue ahí. No se movió.
+
+Dos dedos en la frente.
+
+El acantilado desaparece.
+
+Shiganshina huele a pan.
+
+Es lo primero que sientes: pan, humo de chimeneas recién encendidas, madera nueva. Y después el ruido. Gente. Mucha. Gritos que vienen de todas las calles, nombres que se llaman de una esquina a otra, llantos, risas, alguien que golpea una puerta y otro que la abre. El sol del amanecer entra en diagonal por las calles empedradas y pinta todo de dorado: las paredes enteras, los techos enteros, las ventanas con vidrios.
+
+Están en una calle tranquila, en el borde de la ciudad, cerca de la muralla interior. Delante de ustedes, una casa de madera de dos pisos, con la puerta abierta y una viga entera sosteniendo el techo.
+
+En el escalón de la puerta hay una mujer sentada.
+
+Pelo castaño largo, atado de costado. Un delantal sobre el vestido. Está descalza. Tiene las dos manos apoyadas sobre las rodillas, como si todavía se estuviera tocando las piernas para asegurarse de que están ahí. Mira la calle con los ojos muy abiertos, perdida, como quien se despierta en una casa que conoce y no entiende por qué el mundo afuera está tan raro.
+
+Levanta la vista al oírlos aparecer.
+
+Ve a una chica de pelo negro con una bufanda roja. Ve a un chico rubio, flaco. Ve a un muchacho alto, de quince años, con el pelo largo pegado a la frente y la cara deshecha.
+
+No lo reconoce enseguida. Cinco años es mucho, a esa edad.
+
+Después sí.
+
+Se le abre la boca. Se le van las manos de las rodillas a la boca.
+
+—¿Eren?
+
+Eren ya está corriendo.
+
+No llega a decir nada. Se tira de rodillas en el escalón y la abraza por la cintura con tanta fuerza que casi la tira para atrás, contra la puerta, y esconde la cara en el delantal, y llora como no lloró en el acantilado, como no lloró en cinco años, a gritos, con todo el cuerpo.
+
+Carla lo abraza. Le agarra la cabeza con las dos manos, le mete los dedos en el pelo largo, y lo mira, y lo vuelve a abrazar, y se ríe y llora al mismo tiempo.
+
+—Estás enorme —dice, con la voz rota—. Estás enorme. ¿Qué te pasó en el pelo? ¿Cuánto... cuánto tiempo...?
+
+Mikasa se quedó parada en la calle, a dos pasos, con las manos apretadas sobre la bufanda. No se mueve. Le tiemblan los labios.
+
+Carla levanta la vista por encima de la cabeza de Eren. La ve.
+
+—Mikasa. —Estira un brazo hacia ella—. Ven aquí, hija. Ven.
+
+Mikasa va.
+
+Armin se queda a tu lado, en la calle, llorando en silencio, con las dos manos en la cara.
+
+Y en ese momento, del interior de la casa, por la puerta abierta, se oyen pasos. Unos pasos pesados, lentos, de alguien que baja una escalera de madera con cuidado. Una voz de hombre, grave y desconcertada.
+
+—¿Carla? ¿Qué es todo ese ruido? ¿Por qué estoy...?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 960 · SHINGEKI · DÍA 63 · 05:20        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Shiganshina viva.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:20, Shiganshina, casa de los Jaeger. Facundo llevó a Eren, Mikasa y Armin. Carla Jaeger, revivida, abraza a Eren y a Mikasa en el escalón. Grisha Jaeger, revivido, baja la escalera preguntando qué pasa. Armin llora junto a Facundo. Facundo puede actuar.

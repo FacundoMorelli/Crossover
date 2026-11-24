@@ -40,3 +40,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T952 · Facundo acepta. "Mañana al mediodía empezamos a mover provisiones hacia Wall Maria. Hange, Armin: conmigo. Los demás, a dormir."
 - T954 · Coordina la logística. Día 63 04:30: "¿Dónde quiere hacerlo?"
 - T958 · Se aprieta el puente de la nariz; le tiemblan los hombros.
+- T960 · "Vayan. Los demás iremos a caballo."

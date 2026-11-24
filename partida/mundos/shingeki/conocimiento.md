@@ -191,3 +191,4 @@
 - Toda Paradis y el mundo · T957 · Ven/sienten que los titanes desaparecen; las murallas se agrietan y sale gente; los titanes del campo se vuelven personas. Nadie fuera del acantilado sabe por qué (salvo Liberio: Lara, Willy, Magath, Pieck, el gabinete, avisados del plan).
 - Todos en el acantilado · T958 · Ven la lluvia de chispas y oyen a Eclipse: los muertos por titanes vuelven (isla: Wall Maria; continente: sus casas).
 - Eren y todos en el acantilado · T959 · Por Facundo: la madre de Eren está viva en Shiganshina. Ven a Eclipse reconstruir las casas e irse ("Adiós, creador": saben que Facundo creó al dragón).
+- Carla Jaeger · T960 · Ve a Facundo (desconocido, pelo blanco y azul, gato) llegar de la nada con Eren, Mikasa y Armin.

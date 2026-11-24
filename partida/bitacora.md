@@ -958,3 +958,4 @@ T956 · Shingeki · Costa este · "¡Sal, Eclipse!" Aparece el dragón Eclipse. 
 T957 · Shingeki · Costa este · PRIMER DESEO: no quedan titanes en el mundo; los puros y los de las murallas vuelven a ser humanos. Annie despierta. Eren: "No veo nada." Ymir: "Me puedo cortar."
 T958 · Shingeki · Costa este · SEGUNDO DESEO: cientos de miles de muertos por titanes en 107 años revividos (isla: Wall Maria; continente: sus casas). Eren: "¿Mi mamá está ahí?"
 T959 · Shingeki · Costa este · TERCER DESEO: casas reconstruidas. "Adiós, creador." Esferas inactivas un año. Primer amanecer sin titanes. Eren: "Llévame a Shiganshina."
+T960 · Shingeki · Shiganshina · Teletransporte con Eren, Mikasa y Armin. Carla en el escalón: "¿Eren?" Abrazo. Grisha baja la escalera.

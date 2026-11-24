@@ -19,3 +19,4 @@ ESTADO: activo
 - T948 · Se agarra de la manga de Eren.
 - T956 · Se pone delante de Eren al aparecer el dragón.
 - T957 · Sostiene a Eren cuando pierde su titán.
+- T960 · Carla: "Ven aquí, hija." Va.
