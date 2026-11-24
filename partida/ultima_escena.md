@@ -148,7 +148,7 @@ La tarde del día cuarenta y ocho se va entera en la sala de mapas. El tramo ele
 
 A la noche, Ymir aparece en la puerta de la sala, apoyada en el marco con los brazos cruzados, y se queda mirándote un rato largo antes de decir nada.
 
-—Dos días antes —dice al fin, con media sonrisa—. Mira tú. ¿Te extrañaste, lindo?
+—Dos días antes —dice al fin, con media sonrisa—. Mira tú. ¿Me extrañaste, lindo?
 
 Kase baja de tu hombro, cruza la sala y se le sienta en los pies.
 
