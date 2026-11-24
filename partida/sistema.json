@@ -1,8 +1,8 @@
 {
-  "turno": 774,
+  "turno": 775,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 37 (Grand Line, Water 7)",
-  "hora": "12:03",
+  "hora": "12:05",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -213,7 +213,10 @@
         "nombre": "Ceniza",
         "desbloqueo": 70,
         "estado": "bloqueada"
-      }
+      },
+      "usos": [
+        "T775 · One Piece, islote deshabitado · se transforma delante de Robin para mostrarle."
+      ]
     },
     "blackclover": {
       "nombre": "Grimorio del Firmamento (Magia de Constelación)",

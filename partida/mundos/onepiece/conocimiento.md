@@ -180,3 +180,4 @@
 - Robin · T772 · Sabe leer la escritura del libro de Paradis (se la enseñó Facundo). Leyó: titanes que devoraron a la humanidad hace cien años; tres murallas María, Rose y Sina. No sabe que es de otro mundo.
 - Luffy, Chopper, Usopp · T774 · Ven a Facundo y a Robin desaparecer de la cocina de golpe (Facundo con dos dedos en la frente).
 - Robin · T774 · Viaja con Facundo por Teletransportación a un islote vacío. Lo vivió en persona.
+- Robin · T775 · VE a Facundo transformarse en un titán de 17 m (Titán de Ceniza). Deduce (fuente 4) que los titanes del libro de las murallas son reales y que Facundo tiene relación con ese lugar. No sabe que es otro mundo.
