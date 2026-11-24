@@ -101,3 +101,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nobara, Yuji, Megumi, Nanami · T985 · Por Facundo: puede encontrar a alguien sin un deseo.
 - Facundo · T986 · Vio a Saori a distancia: Setagaya, sana, trabaja en una tienda de ropa, guarda una foto con Nobara.
 - Nobara, Yuji, Megumi, Nanami · T987 · Teletransportados por Facundo a Setagaya, a la puerta de Saori (Facundo sabía exactamente dónde estaba).
+- Saori · T988 · Ve a Nobara con cuatro desconocidos (uno de pelo blanco y azul con gato, un hombre con un brazo) en su puerta; sabe que Nobara nunca tuvo su dirección.

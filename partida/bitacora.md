@@ -986,3 +986,4 @@ T984 · Jujutsu · Cocina · Tres deseos. Ideas para el tercero: el brazo de Nan
 T985 · Jujutsu · Cocina · "Para eso no hace falta un deseo." Nobara describe a Saori Fujinuma. "¿La puedes encontrar? ¿De verdad?"
 T986 · Jujutsu · Cocina · Busca a Saori: Setagaya, sola, sana, trabaja en una tienda de ropa; guarda una foto con Nobara chiquita en la heladera.
 T987 · Jujutsu · Setagaya · Teletransporte de los cuatro a la puerta de Saori. Nobara en pijama; puño en el aire. "¿Y si no se acuerda de mí?"
+T988 · Jujutsu · Setagaya · Nobara toca. Saori: "¿Nobara-chan?" Abrazo; Nobara llora. Saori: "¿Quiénes son ustedes?"

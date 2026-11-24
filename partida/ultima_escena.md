@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T985)
-para eso no es necesario un deseo, me dices mas o menos como es ella?
-
-## RESPUESTA 1 (T985)
-
-> para eso no es necesario un deseo, me dices mas o menos como es ella?
-
-> —Para eso no hace falta un deseo. ¿Me dices más o menos cómo es ella?
-
-Nobara se queda quieta con la espátula sobre la sartén.
-
-Se da vuelta despacio. Te mira con los ojos entrecerrados, como si esperara que fuera una broma.
-
-—¿No hace falta un deseo? —repite—. Tokio tiene catorce millones de personas.
-
-Nadie le contesta. Yuji está sonriendo de oreja a oreja. Megumi la mira por encima del plato, sin decir nada. Nanami toma un sorbo de café, como si fuera lo más normal del mundo.
-
-Nobara se muerde el labio. El huevo empieza a quemarse en la sartén. Esta vez Yuji se lo saca de la mano y apaga el fuego.
-
-—Saori. Saori Fujinuma. —Lo dice rápido, como si le diera vergüenza—. Era unos años más grande que yo. Ahora tendría... veinte, veintiuno. Pelo largo, castaño, liso, siempre atado atrás con una cinta. Tenía una sonrisa... —Se interrumpe. Mira el piso—. Una sonrisa que no le tenía miedo a nada. Aunque en el pueblo la trataban como si fuera una enfermedad. Se reía igual.
-
-Se cruza de brazos, fuerte.
-
-—Usaba unos aros chiquitos, de plata. Le gustaba la ropa de la ciudad. Me prestaba revistas. —Se le quiebra apenas la voz, y la endereza de golpe—. Y tenía un lunar acá. —Se toca debajo del ojo izquierdo con un dedo—. Chiquito.
-
-Se queda callada.
-
-Después te mira. Y por primera vez en toda la mañana no tiene cara de enojada, ni de desconfiada, ni de dura. Tiene cara de chica de pueblo.
-
-—¿La puedes encontrar? —Casi no le sale la voz—. ¿De verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 985 · JUJUTSU · 25/04/2019 · 07:19     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Encontrar a Saori Fujinuma para    ║
-║ Nobara.                                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T986)
+## COMANDO 1 (T986)
 busco a saori
 
-## RESPUESTA 2 (T986)
+## RESPUESTA 1 (T986)
 
 > busco a saori
 
@@ -103,10 +55,10 @@ Y Nobara, parada frente a ti, con los brazos cruzados tan fuerte que tiene los n
 
 ---
 
-## COMANDO 3 (T987)
+## COMANDO 2 (T987)
 los agarro a los 4 y me teletransporto a fuera de su puerta para que nobara pueda tocar su puerta
 
-## RESPUESTA 3 (T987)
+## RESPUESTA 2 (T987)
 
 > los agarro a los 4 y me teletransporto a fuera de su puerta para que nobara pueda tocar su puerta
 
@@ -167,4 +119,72 @@ Nobara sigue con el puño en el aire.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:23, pasillo exterior frente a la puerta 203 de Saori en Setagaya. Facundo llevó a Nobara, Yuji, Megumi y Nanami. Nobara, en pijama y descalza, tiene el puño en el aire frente a la puerta y no se anima: "¿Y si no se acuerda de mí?" Adentro, Saori tararea con la radio. Facundo puede responder.
+## COMANDO 3 (T988)
+se va a acordar de ti, ahora toca la puerta
+
+## RESPUESTA 3 (T988)
+
+> se va a acordar de ti, ahora toca la puerta
+
+> —Se va a acordar de ti. Ahora toca la puerta.
+
+Nobara respira hondo. Una vez.
+
+Toca.
+
+Tres golpes cortos, flojos, casi sin fuerza.
+
+Adentro, el tarareo se corta. La radio sigue. Pasos descalzos sobre el piso de madera, apurados. Una voz de mujer, del otro lado, con la boca llena:
+
+—¡Ya va, ya va! ¿Es el del paquete? Le dije que lo dejara en...
+
+La cerradura gira. La puerta se abre.
+
+Saori está en el umbral. Pijama, la cinta roja en el pelo, media tostada en la mano y la taza de los gatos en la otra. Tiene cara de apuro, de jueves, de "voy a llegar tarde al trabajo".
+
+Ve a una chica de pelo castaño corto, en pijama, descalza, con una campera de uniforme encima y los puños apretados a los costados del cuerpo.
+
+Y la cara de apuro se le va, despacio.
+
+Se queda mirándola. Parpadea. Baja la vista a los pies descalzos. La sube otra vez a la cara. Se le entreabre la boca.
+
+—¿...Nobara-chan?
+
+Nobara no puede contestar. Abre la boca y no le sale nada. Asiente con la cabeza, rápido, muchas veces, con la cara cada vez más roja.
+
+A Saori se le cae la tostada al piso.
+
+Deja la taza de los gatos en el suelo del pasillo, sin mirar dónde, y abraza a Nobara. Fuerte. Con los dos brazos, la cara en el pelo de ella, balanceándose apenas, como se abraza a una hermana chica.
+
+—¡Nobara-chan! —Se ríe, y se le quiebra la risa—. ¡Estás enorme! ¡Mírate! ¡Qué haces aquí! ¡Estás descalza!
+
+Nobara se le agarra de la espalda del pijama con los dos puños. Esconde la cara en su hombro. Y llora. Como no lloró en el portón, ni en la cocina, ni en Shibuya. A gritos, sin vergüenza, como una nena.
+
+Saori la sostiene. Le acaricia la cabeza. Le dice cosas al oído que nadie más escucha.
+
+Yuji se da vuelta hacia la baranda, rápido, y se frota los ojos con el antebrazo. Megumi mira la calle, muy concentrado en un señor con un perro. Nanami se acomoda los anteojos y mira el techo del pasillo con mucha atención.
+
+Por encima del hombro de Nobara, Saori levanta la vista. Ve a un chico de pelo rosa llorando contra una baranda. A otro, de pelo negro, que finge mirar la calle. A un hombre de traje con un solo brazo. Y a ti: pelo blanco y azul, ojos de dos colores, una cicatriz y un gato enorme en el hombro.
+
+Parpadea, sin soltar a Nobara.
+
+—Ehm... —Sonríe, confundida, con los ojos mojados—. ¿Y ustedes... quiénes son? ¿Cómo llegaron hasta aquí? Nobara-chan nunca supo mi dirección.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 988 · JUJUTSU · 25/04/2019 · 07:25     ║
+║ Setagaya · puerta 203, departamento de Saori ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Nobara y Saori, juntas. Saori      ║
+║ pregunta quiénes son.                        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:25, puerta 203 en Setagaya. Nobara tocó; Saori la reconoció y la abrazó; Nobara llora en su hombro. Saori pregunta a Facundo y a los demás quiénes son y cómo llegaron (Nobara nunca supo su dirección). Facundo puede responder.

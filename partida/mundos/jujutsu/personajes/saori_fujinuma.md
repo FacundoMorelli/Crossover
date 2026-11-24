@@ -5,9 +5,10 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: 21 (adulta)
 FÍSICO: pelo largo castaño lacio atado con una cinta roja, aros chiquitos de plata, lunar chiquito bajo el ojo izquierdo.
 PERSONALIDAD Y FORMA DE HABLAR: sonriente, sin miedo (según Nobara).
-RELACIÓN CON FACUNDO: no lo conoce.
+RELACIÓN CON FACUNDO: acaba de verlo en su puerta.
 ENCUENTROS:
 - T986 · 25/04/2019 07:21 · Vista a distancia por Facundo (vigilancia de Dende): departamento de 2.º piso en Setagaya, sola, desayunando antes de ir a trabajar a una tienda de ropa. En la heladera, foto vieja con Nobara de chica entre arrozales.
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: viva, sana.
+- T988 · 25/04/2019 07:25 · Abre la puerta; reconoce a Nobara: "¿...Nobara-chan? ¡Estás enorme! ¡Estás descalza!" La abraza. Pregunta quiénes son los demás y cómo llegaron: "Nobara-chan nunca supo mi dirección."
