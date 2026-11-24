@@ -10,3 +10,4 @@ ENCUENTROS:
 - T741 · Recibe a los presos en el andén.
 ESTADO: activo
 - T745 · Facundo derriba las banderas del Gobierno. Spandam: "¡Le declararon la guerra al Gobierno Mundial!"
+- T754 · Puente de la Vacilación · Ve llegar a Facundo, entra en pánico y activa el Buster Call por error con el Den Den Mushi dorado.

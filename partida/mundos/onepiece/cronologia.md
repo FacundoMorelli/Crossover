@@ -121,3 +121,4 @@
 - Día 36 07:04 · (T750) Lucci les corta el paso a Facundo y a Luffy en el pasaje (canon: frente a Luffy, en la sala de la Torre); Spandam sigue con Robin.
 - Día 36 07:06 · (T751) Lucci contra Luffy en el pasaje (canon: en la Torre, después). Spandam y Robin llegan al Puente de la Duda (canon).
 - Día 36 07:07 · (T753) Luffy, curado por una semilla del ermitaño (cambio), estrena el Gear Third contra Lucci en el pasaje (canon: en la Torre, ya muy herido).
+- Día 36 07:08 · (T754) Spandam activa el Buster Call por error con el Den Den Mushi dorado al ver llegar a Facundo (canon: por error, en el mismo puente). 5 vicealmirantes y 10 acorazados en camino; llegan en minutos.

@@ -52,3 +52,4 @@ ESTADO: activa
 - T711 · "Están todos locos." Lo besa. Le deja el libro de Paradis: "Guárdamelo." "Si vienen, no se mueran." Se va.
 - T716 · Enmascarada en el ataque a Iceburg; se le corre la máscara.
 - T744 · Desde el balcón de la Torre: "¡QUIERO VIVIR! ¡LLÉVENME AL MAR CON USTEDES!". Busca a Facundo con la mirada mientras lo grita.
+- T754 · Puente de la Vacilación · Ve salir a Facundo del túnel. Oye "Buster Call" y se queda blanca.
