@@ -756,3 +756,4 @@ T754 · One Piece · Puente de la Vacilación · Facundo sale del túnel. Spanda
 T755 · One Piece · Puente de la Vacilación · Soru: le quita a Robin a Spandam. Robin sigue esposada.
 T756 · One Piece · Puente de la Vacilación · Rompe las esposas de Robin y la besa. Primera andanada del Buster Call.
 T757 · One Piece · Sobre la Torre · Vuela con Robin. Haki: las peleas de las llaves. Zoro esposado a Usopp contra Kaku. Andanada hacia ese piso.
+T758 · One Piece · Sobre la Torre · Frena cinco balas con la Luna y las tira al mar. Onigumo ordena apuntarle.
