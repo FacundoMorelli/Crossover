@@ -98,3 +98,5 @@
 - Día 55 00:40 · (T946) Facundo vuelve por una puerta al techo del palacio (8 h 25 min después).
 - Día 55 01:15 · (T947) Reunión de madrugada en la sala de mapas convocada por Facundo.
 - Día 55 01:17 · (T948) Facundo anuncia a la cúpula de la Legión y a la reina que puede revivir a los muertos por titanes, hacer desaparecer todos los titanes del mundo y devolver a los titanes puros a la normalidad.
+- Día 55 01:30 · (T952) Plan acordado: 7 días de preparación en Wall Maria; Facundo avisará a Willy, Magath y Lara; deseos el día 63 al amanecer (titanes → muertos → reconstrucción). Erwin, Hange y Armin empiezan la logística.
+- Día 55 02:05 · (T952) Facundo junta siete piedras en un río al sur de Mitras.

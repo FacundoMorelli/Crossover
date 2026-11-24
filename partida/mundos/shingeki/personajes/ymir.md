@@ -42,3 +42,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T948 · Pálida: "¿Eso son también los Nueve? ¿Eso es el mío también?"
 - T949 · Por Facundo: su titán desaparecería, ella no. Se tapa la cara y llora en silencio.
 - T951 · Ojos hinchados: "Ella ya lo sabe. Más o menos. Le escribió a él."
+- T952 · Levanta el frasco de manzanas como un brindis cuando Facundo se va.

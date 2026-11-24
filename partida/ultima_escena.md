@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T949)
-Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
-
-## RESPUESTA 1 (T949)
-
-> Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
-
-> —Sí, todos. Todo lo que tienen adentro desaparecería. Ustedes no.
-
-Ymir se queda quieta en el borde de la mesa.
-
-Después se le escapa el aire de golpe, como si alguien le hubiera sacado algo del pecho. Se le doblan los hombros. Se tapa la cara con las dos manos y se queda así, sin hacer ruido, con la manta caída en el regazo.
-
-Historia cruza la sala sin decir nada y se sienta a su lado, en la mesa, y le pasa un brazo por la espalda.
-
-Eren se mira las manos. Las abre y las cierra, despacio, como si fueran de otro.
-
-—El mío también —dice, en voz muy baja—. El Fundador. El Ataque. Todo lo que... —Se le corta la voz. Traga—. Todo lo que veo de noche.
-
-No suena asustado. Suena como alguien que recién se da cuenta de que podría dejar de cargar algo.
-
-Mikasa lo mira a la cara, muy cerca, buscando algo en ella. Lo encuentra. No le suelta la manga.
-
-—Trece años —murmura Armin, detrás de las manos. Se las baja—. La maldición. Si no hay titán, no hay maldición. Ymir, Eren, Reiner, Annie, la señorita Tybur... —Se le iluminan los ojos, húmedos—. Y los eldianos dejarían de ser... lo que el mundo cree que son. Ya no habría nada que temer de nosotros.
-
-Hange se sienta de golpe en una silla, con el cuaderno apretado contra el pecho.
-
-Levi no dice nada. Mira a Ymir llorando con la cara tapada, y después a Eren mirándose las manos, y mantiene la boca cerrada.
-
-Erwin es el único que sigue de pie en el mismo lugar.
-
-Mira el mapa de Paradis en la pared. Las tres murallas. Los alfileres rojos de la demostración.
-
-—Sin titanes, Paradis no tiene ejército capaz de defenderse de un continente que tiene barcos de vapor, cañones y aviones —dice, tranquilo, como quien enumera—. Marley tampoco. El equilibrio del mundo cambiaría en una sola noche. —Se da vuelta hacia ti—. No lo digo como objeción. Lo digo porque alguien en esta sala tiene que pensarlo.
-
-Hace una pausa. Se le nota el esfuerzo en la voz cuando sigue, más bajo.
-
-—Y porque, si es cierto lo de los muertos... hay soldados de la Legión enterrados en fosas sin nombre más allá de Wall Maria. Hay miles. —Te sostiene la mirada—. Le pregunté cómo, señor Morelli. Todavía no me respondió.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 949 · SHINGEKI · DÍA 55 · 01:19        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Explicar el cómo. Erwin espera.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T950)
+## COMANDO 1 (T950)
 Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
 
-## RESPUESTA 2 (T950)
+## RESPUESTA 1 (T950)
 
 > Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
 
@@ -114,10 +59,10 @@ Erwin la mira. Asiente, despacio.
 
 ---
 
-## COMANDO 3 (T951)
+## COMANDO 2 (T951)
 Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
 
-## RESPUESTA 3 (T951)
+## RESPUESTA 2 (T951)
 
 > Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
 
@@ -170,4 +115,56 @@ Erwin deja pasar un segundo.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 01:26, sala de mapas. Facundo: dos o tres deseos, una sola vez, también la reconstrucción. Armin fija el orden (titanes → muertos → reconstrucción). Erwin advierte sobre Marley y propone: 7 días de preparación en Wall Maria, Facundo avisa a Willy, Magath y Lara, deseos el 8.º día al amanecer. Pregunta si le parece. Facundo puede responder.
+## COMANDO 3 (T952)
+esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
+
+## RESPUESTA 3 (T952)
+
+> esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
+
+> —Está bien. Antes voy a hacer la preparación para los deseos. Necesito buscar algo.
+
+Erwin asiente. No pregunta qué.
+
+—Mañana al mediodía empezamos a mover provisiones hacia Wall Maria —dice—. Hange, Armin: conmigo. Los demás, a dormir. Es una orden.
+
+Ymir te mira desde la mesa, con la manta otra vez sobre los hombros. No dice nada. Levanta el frasco de manzanas, apenas, como un brindis.
+
+Dos dedos en la frente.
+
+La sala de mapas desaparece.
+
+Apareces en la orilla de un río, afuera de las murallas de Mitras, al sur, donde el agua baja ancha y lenta entre sauces. Es noche cerrada. La luna está casi llena y pinta de plata la superficie del río. Hace frío. Huele a barro, a pasto mojado y a hojas podridas. Lejos, río arriba, se oye una rana. Nada más.
+
+Kase salta de tu hombro a una piedra seca, lejos del agua, y se sienta a mirarte con cara de no entender por qué lo trajiste a un lugar húmedo a las dos de la mañana.
+
+La orilla está llena de piedras. Cantos rodados, alisados por siglos de corriente: grises, blancos, verdes, algunos con vetas oscuras. Te agachas y empiezas a buscar.
+
+Las primeras dos son fáciles: dos piedras grises, redondas como huevos, que caben justas en tu palma. La tercera está medio enterrada en el barro, y tienes que hundir los dedos en el agua helada para sacarla. La cuarta, la quinta y la sexta las encuentras cerca de una raíz de sauce, juntas, como si el río las hubiera dejado ahí a propósito.
+
+La séptima te cuesta. Revisas media orilla. Hay piedras de todos los tamaños menos el que necesitas: un poco más grandes, un poco más chicas, un poco más chatas. Al final la encuentras debajo de la pata de Kase, que se levanta ofendido cuando le pides que se mueva, y se vuelve a sentar en otra piedra a dos metros, de espaldas a ti.
+
+Las juntas en el suelo, en fila, sobre la arena húmeda de la orilla.
+
+Siete piedras del mismo tamaño. Redondas, lisas, frías, brillando apenas con la luz de la luna.
+
+El río sigue corriendo al lado. La rana se calló.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 952 · SHINGEKI · DÍA 55 · 02:05        ║
+║ Río al sur de Mitras · la orilla             ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en una piedra, de espaldas, ofendido   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Siete piedras listas. Crear las    ║
+║ esferas. Deseos: día 63 al amanecer.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 02:05, orilla de un río al sur de Mitras. Facundo aceptó el plan de Erwin (deseos el día 63 al amanecer) y juntó siete piedras del mismo tamaño en la orilla, en fila. Kase ofendido en otra piedra. Facundo puede actuar.
