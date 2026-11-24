@@ -209,3 +209,4 @@
 - Tripulación, Facundo · T816 · Por Brook: los Piratas Rumbar, Laboon, la promesa, Binks no Sake. Ven la vivre card de Ace quemándose (Nami: Ace está en peligro).
 - Tripulación, Brook, Lola · T817 · Por Facundo: hoy se va; a lo mejor se pierde Sabaody; donde estén, va a poder ir.
 - NICO ROBIN · T819 · Por Facundo: recibió el dolor de toda la tripulación (trato con Kuma). Nadie más de la tripulación lo sabe.
+- Tripulación, Lola y los Piratas Rolling · T822 · Ven a Facundo abrir una puerta de luz en el aire y cruzarla con Kase. Desaparece.

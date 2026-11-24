@@ -109,3 +109,8 @@
 - One Piece: Día 24.
 - Shingeki: ~día 15 tras Shiganshina (fiesta el día 40).
 - Black Clover: más de dos semanas desde que se fue.
+
+## RELOJES (actualizado T822)
+- One Piece: tercera salida Día 44 11:25, desde el Thousand Sunny en Thriller Bark. Prometió volver donde estén. Corre.
+- Shingeki: VUELVE el día 35 tras Shiganshina, 05:58 (23 días y 17 h y media después de irse). Puerta en la escalinata del palacio de Mitras. Fiesta Tybur: día 40, anochecer.
+- Black Clover, Bleach, Jujutsu, Dragon Ball: corren.

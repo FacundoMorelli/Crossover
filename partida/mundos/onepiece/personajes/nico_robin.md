@@ -83,3 +83,4 @@ ESTADO: activa
 - T819 · Sabe que Facundo recibió el dolor de todos. Llora, le pega en el pecho, lo abraza: "Idiota. Te podrías haber muerto." Le pide que no lo vuelva a hacer solo.
 - T820 · Facundo promete no volver a dormirla ni sacrificarse solo a escondidas. Lo besa. Le da su señalador (hoja seca de Skypiea). Le pide que se quede un rato más.
 - T821 · Dos horas abrazada a Facundo en la biblioteca, leyéndole el libro de Paradis. "Vete tranquilo. Y cuando vuelvas, me cuentas cómo termina la historia de ese mundo."
+- T822 · Se despiden con un beso en la cubierta del Sunny. Lo ve cruzar la puerta.

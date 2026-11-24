@@ -61,3 +61,5 @@
 - 12:00 día 11 · (T573) Sobre Wall Maria, al oeste de Shiganshina, con Zackly, Historia, Erwin, Pixis, Hange. Tramo marcado: 1 km entre dos torres de vigía en ruinas.
 - 12:03 día 11 · (T575) Facundo destruye con el Eclipse 1 km de Wall Maria al oeste de Shiganshina, con unos veinte titanes colosales adentro. Zackly aprueba el plan de paz.
 - 12:33 día 11 · (T580) Facundo se despide y se va por una puerta desde la escalinata del palacio. Promete volver antes del día 40.
+- Días 11-35 · (T822, simulado en ausencia) Paradis prepara la comitiva de Historia a Liberio para la fiesta Tybur (día 40). Ymir vive en el palacio con Historia. Eren entrena con Levi, más callado, con sueños raros. Hange estudia el tramo destruido. En Marley: Willy enciende la vela sin noticias; Magath frena la flota; Muller vigila; los embajadores llegan a Liberio desde el día 33.
+- Día 35 05:58 · (T822) Facundo vuelve por una puerta a la escalinata del palacio de Mitras.

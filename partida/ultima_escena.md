@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T819)
-recibi el dolor que sufrieron todos ustedes
-
-## RESPUESTA 1 (T819)
-
-> recibi el dolor que sufrieron todos ustedes
-
-> —Recibí el dolor que sufrieron todos ustedes.
-
-Robin se queda sin aire.
-
-Lo ves pasarle por la cara: la noche entera, Moria, el gigante, las cien sombras de Luffy, la espalda de Zoro, todo lo que se acuerda y todo lo que vio. Y después tu sobretodo empapado, el charco.
-
-Descruza los brazos. Da dos pasos hacia ti.
-
-Te pega en el pecho con el puño cerrado, flojo, una vez. Y otra.
-
-—Idiota. —Se le quiebra la voz—. Idiota.
-
-Le caen las lágrimas, sin ruido, una tras otra. No se las seca.
-
-—Te podrías haber muerto. —Te pega una tercera vez, más despacio, y deja el puño apoyado en tu pecho—. Por nosotros. Por mí. Y me dormiste para que no lo viera. Para que no pudiera hacer nada.
-
-Abre la mano sobre tu pecho, justo encima del corazón, y la deja ahí, sintiéndolo latir.
-
-Después te abraza. Fuerte, con los dos brazos alrededor de tu cuello, hundiendo la cara en tu hombro. Le tiembla todo el cuerpo.
-
-—Nadie hizo nunca nada así por mí. —Lo dice contra tu cuello, casi sin voz—. En veintiocho años. Toda la gente que me quiso se murió por mi culpa. Y tú... tú te pusiste delante. Otra vez.
-
-Se queda así un rato largo, sin soltarte. La luz de las ventanas redondas les cae encima en círculos.
-
-En el escritorio, Kase se levanta, se estira y baja al piso. Se sienta a sus pies y apoya la cabeza contra la pierna de Robin.
-
-Ella se separa apenas, lo justo para mirarte a la cara. Tiene los ojos rojos y la nariz roja, y no le importa.
-
-—Prométeme una cosa. —Te agarra la cara con las dos manos—. La próxima vez que vayas a hacer algo así, no me duermas. No lo hagas solo, a escondidas. Déjame estar ahí. Aunque no pueda hacer nada. Déjame estar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 819 · ONE PIECE · DÍA 44 · 09:22       ║
-║ Thousand Sunny · biblioteca de Robin         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: a los pies de Robin                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Irte hoy de One Piece. Volver      ║
-║ después donde estén.                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T820)
+## COMANDO 1 (T820)
 esta bien amor, te lo prometo
 
-## RESPUESTA 2 (T820)
+## RESPUESTA 1 (T820)
 
 > esta bien amor, te lo prometo
 
@@ -105,10 +51,10 @@ En el piso, Kase se estira largo y se acuesta panza arriba sobre los pies de Rob
 
 ---
 
-## COMANDO 3 (T821)
+## COMANDO 2 (T821)
 me quedo un rato con robin y la abrazo
 
-## RESPUESTA 3 (T821)
+## RESPUESTA 2 (T821)
 
 > me quedo un rato con robin y la abrazo
 
@@ -159,4 +105,78 @@ Gira la cabeza para mirarte desde abajo, con los ojos todavía un poco hinchados
 
 ---
 
-ESTADO AL CIERRE: Día 44 11:10, biblioteca del Sunny. Dos horas abrazados; Robin le leyó el libro de Paradis. Le dijo "Vete tranquilo" y que cuando vuelva le cuente cómo termina la historia de ese mundo. Kase dormido en las piernas de los dos. Facundo está listo para irse de One Piece (viaje libre). Destino pendiente: Shingeki (fiesta Tybur, día 40 allá).
+## COMANDO 3 (T822)
+le doy un beso y me despido de todos y voy a shingeki
+
+## RESPUESTA 3 (T822)
+
+> le doy un beso y me despido de todos y voy a shingeki
+
+Le das un beso a Robin en la biblioteca, largo, con el libro de Paradis apretado entre los dos. Ella te acomoda el cuello de la camisa limpia, como si fueras a salir a hacer un mandado.
+
+—Ve.
+
+Bajan juntos a la cubierta. La tripulación entera está ahí, cargando el tesoro de Moria en cajones. Cuando te ven, dejan todo.
+
+Te despides de cada uno. Luffy te da un abrazo de goma que te envuelve tres veces y después te suelta como un resorte.
+
+—¡Vuelve rápido! ¡Y tráeme carne de donde vayas!
+
+Nami te pone en la mano una bolsa chica de monedas de oro: un tercio de tu parte, dice, el resto lo guarda ella. Zoro levanta la mano desde el mástil, sin abrir los ojos. Sanji te da un paquete envuelto en papel: comida para el viaje, y para el gato. Usopp te abraza llorando y dice que no llora. Chopper se te cuelga de la pierna. Franky hace la pose. Brook se quita el sombrero.
+
+—¡Yohohoho! ¡Que tenga buen viaje! ¡Aunque no sé adónde va!
+
+Lola y los Piratas Rolling, en el muelle, levantan las jarras.
+
+Te paras en el medio del césped, con Kase en el hombro. Abres la mano en el aire.
+
+Se abre una puerta: un óvalo de luz blanca y azul, alto como una persona, con los bordes temblando como agua. Del otro lado no se ve nada, solo luz.
+
+Toda la tripulación se queda con la boca abierta. Menos Robin, que te mira desde la baranda de la biblioteca, con el libro contra el pecho y una sonrisa tranquila.
+
+Cruzas.
+
+...
+
+Del otro lado hace frío.
+
+Es la hora gris antes del amanecer. Estás de pie sobre piedra blanca, en la escalinata ancha del palacio real de Mitras. Arriba, los faroles de gas todavía están encendidos, pálidos contra un cielo que empieza a aclarar. Huele a piedra mojada, a pan recién horneado de alguna cocina lejana y a caballo.
+
+Detrás de las murallas interiores, el cielo se tiñe de rosa sobre Wall Sina.
+
+Kase se sacude en tu hombro, estornuda y mira alrededor.
+
+Los dos guardias de la Policía Militar que custodian la puerta del palacio dan un salto atrás con los rifles a medio levantar. Te ven el pelo de dos colores, la cicatriz y el gato. Se miran entre ellos y bajan los rifles despacio. Uno se lleva el puño derecho al pecho, en el saludo de los soldados.
+
+—E-es el aliado de la reina. —Le tiembla la voz—. Orden del comandante supremo. Bienvenido, señor.
+
+El otro sale corriendo escaleras arriba, hacia adentro, a avisar a alguien.
+
+Por la posición del sol y los faroles todavía encendidos, sabes que no pasaron pocos días. Pasaron semanas.
+
+Arriba, en el ala este del palacio, en una ventana alta del piso de la reina, se abre un postigo de madera.
+
+Una chica pecosa, de pelo castaño desordenado y ojos filosos, se asoma en camisón con una manta sobre los hombros y una manzana a medio comer en la mano. Te mira desde allá arriba. Mastica.
+
+Sonríe de costado.
+
+—Mira quién volvió. —Lo dice fuerte, para que la oigas desde abajo—. El lindo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 822 · SHINGEKI · DÍA 35 · 05:58        ║
+║ Mitras · escalinata del palacio real         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Preparar la comitiva de Historia.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: CAMBIO DE MUNDO. Facundo dejó One Piece (Día 44 11:25, Thriller Bark; Nami le dio 5M berries de su parte; Sanji, un paquete de comida) y llegó a Shingeki: día 35 tras Shiganshina, 05:58, escalinata del palacio de Mitras. Un guardia lo saludó, otro fue a avisar adentro. Ymir, en camisón con una manzana, desde una ventana alta del ala de la reina: "Mira quién volvió. El lindo." Faltan 5 días para la fiesta Tybur.
