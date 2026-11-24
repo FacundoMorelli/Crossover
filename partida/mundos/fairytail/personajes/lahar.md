@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: oficial; lo investiga.
 ENCUENTROS:
 - T1020 · Día 3 17:10 · Puerta de la sede: le pide acompañarlo a declarar.
 DIÁLOGOS CLAVE:
+- T1023 · "No figura en el registro del Consejo. O es una magia nueva o es una magia perdida. Las magias perdidas no son ilegales, pero el Consejo lleva cuenta." "¿Todo eso también es su magia de constelaciones?"
 - T1022 · "¿Viajero de dónde? No hay registros con su nombre. Ni en Bosco, ni en Seven, ni en Minstrel." "Son por lo menos cuatro tipos de magia distintos. ¿Qué clase de magia usa usted?"
 - T1021 · "Esto no es un juicio. Lo que diga queda registrado. Mentirle a un oficial del Consejo es un delito." "¿De dónde es usted, y qué hacía en Magnolia la mañana en que encontraron a los tres magos colgados en el parque?"
 - T1020 · "¿Facundo Morelli? Capitán Lahar, de la Cuarta Unidad de Caballeros de la Runa. Doce testigos de Fairy Tail y tres de Phantom Lord lo mencionan. Usted no pertenece a ningún gremio registrado. Necesito que me acompañe adentro a responder unas preguntas."

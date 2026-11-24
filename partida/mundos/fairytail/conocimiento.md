@@ -44,3 +44,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Público de Fiore (lectores de la revista) · T1020 · "un misterioso mago sin gremio, con un enorme gato blanco y azul, habría participado del asalto". Sin nombre.
 - Happy · T1020 · cree que Kase es su amigo.
 - Lahar y el Consejo (registro escrito) · T1022 · Facundo declaró que es viajero y que pasaba por Magnolia. Lahar sabe que no hay registros de entrada a Fiore con su nombre (lo deduce: entró sin registrarse o mintió).
+- Lahar y el Consejo (registro escrito) · T1023 · Facundo declaró usar "magia de constelaciones"; no figura en el registro del Consejo (Lahar la clasifica como magia nueva o perdida).
