@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T891)
-saco el arco quincy y les disparo a los pacifistas, vayamos luffy
-
-## RESPUESTA 1 (T891)
-
-> saco el arco quincy y les disparo a los pacifistas, vayamos luffy
-
-Levantas el brazo izquierdo.
-
-El reishi del aire helado de la bahía se junta en tu palma en un segundo, frío y azul, y forma el arco de luz. Tres flechas finas, una al lado de la otra, aparecen tensadas en la cuerda.
-
-Las bocas de los tres Pacifistas brillan al máximo. El zumbido sube hasta un chillido.
-
-Sueltas.
-
-Las tres flechas cruzan los treinta metros en menos de un parpadeo, en tres líneas de luz azul. Cada una se mete de lleno en una boca abierta, justo en el centro de la luz que se estaba juntando.
-
-El láser revienta adentro.
-
-Las tres cabezas de Kuma explotan desde adentro, una después de la otra, en tres fogonazos amarillos que iluminan el hielo. Los cuerpos gigantes se quedan de pie un instante, sin cabeza, echando chispas por el cuello. Después caen de espaldas sobre el hielo con un estruendo de metal, humeando, y no se mueven más.
-
-El arco se deshace en chispas azules.
-
-[+600 EXP · +75 Fragmentos]
-
-La pared de marines que estaba detrás retrocede tres pasos sin que nadie lo ordene. Un oficial deja caer el sable.
-
-Luffy mira los tres Pacifistas tirados en el hielo. Te mira a ti. Se le abre una sonrisa enorme.
-
-> —¡Vayamos, Luffy!
-
-—¡¡SÍ!!
-
-Luffy se agacha. Las piernas se le inflan y se le desinflan, se le pone roja la piel y le sale vapor de todo el cuerpo. Gear Second. Sale disparado hacia la pared de marines como una bala roja. Jinbe corre detrás, Ivankov detrás de Jinbe, y Buggy grita «¡Espérenme!» desde atrás de todo.
-
-Corres a su lado.
-
-Akainu no se movió del borde del hielo. Está parado ahí, con el vapor subiendo a su alrededor, mirando a Luffy acercarse.
-
-Levanta el brazo derecho.
-
-El brazo deja de ser un brazo. Se hincha, se vuelve rojo, negro y naranja, burbujeante, y crece hasta convertirse en un puño gigantesco de magma, más grande que un barco, que derrite el aire alrededor y hace llover gotas de fuego sobre el hielo.
-
-—Sombrero de Paja. —La voz le sale grave, sin una sola emoción—. Hijo de Dragon. Tu sangre no sale de esta isla.
-
-Lanza el puño.
-
-—Dai Funka.
-
-La montaña de magma sale volando en línea recta, por encima del hielo, derritiéndolo todo a su paso en un río de vapor, directo hacia Luffy, que corre de frente y no frena.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 891 · ONE PIECE · DÍA 57 · 13:05       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 220.440/240.000               ║
-║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Akainu ataca a Luffy.                        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T892)
+## COMANDO 1 (T892)
 jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
 
-## RESPUESTA 2 (T892)
+## RESPUESTA 1 (T892)
 
 > jejejeje, cambio a luffy con bogey por kizaru y despues a luffy de nuevo por una piedra al lado mio
 
@@ -141,10 +73,10 @@ Por primera vez en toda la guerra, se le mueve algo en la cara.
 
 ---
 
-## COMANDO 3 (T893)
+## COMANDO 2 (T893)
 akainu, muy mal de un almirante pegarle a un compañero
 
-## RESPUESTA 3 (T893)
+## RESPUESTA 2 (T893)
 
 > akainu, muy mal de un almirante pegarle a un compañero
 
@@ -210,4 +142,74 @@ El calor llega antes que el puño. El hielo a tus pies se vuelve agua y el agua 
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:06, bahía congelada. Facundo se burló de Akainu. Tasación: Akainu x0,33. Misión de copia emitida: recibir un puño de magma de Akainu en el pecho sin que te queme ni la ropa (ALTA). Akainu se lanza convertido en magma con el puño al pecho de Facundo; Luffy justo detrás. Kase en el hombro.
+## COMANDO 3 (T894)
+perdon kase, le tiro a kase a luffy y dejo que me pegue
+
+## RESPUESTA 3 (T894)
+
+> perdon kase, le tiro a kase a luffy y dejo que me pegue
+
+> —Perdón, Kase.
+
+Lo agarras del lomo con una mano y lo tiras hacia atrás, por encima de tu hombro.
+
+Kase vuela por el aire con las cuatro patas abiertas, la cola erizada y un maullido de indignación absoluta. Luffy lo atrapa contra el pecho con los dos brazos, por reflejo.
+
+—¡¿Eh?! ¡El gato!
+
+Te das vuelta hacia Akainu. Bajas los brazos. Te quedas quieto.
+
+El puño de magma te pega en el pecho.
+
+El ruido es un siseo enorme, como el de mil hierros al rojo metidos en agua. Una explosión de vapor blanco te envuelve de golpe y sube en una columna. El hielo alrededor se derrite en un círculo de diez metros y se convierte en agua hirviendo. Los borceguíes se te hunden hasta el tobillo.
+
+No te mueves.
+
+Ni un paso. Ni medio centímetro. El puño de Akainu, del tamaño de un barril, queda apoyado contra tu pecho, empujando, y no avanza.
+
+El sobretodo y la camisa no aguantan. Se prenden fuego en un círculo grande, sobre el pecho, y se deshacen en ceniza que el vapor se lleva. Debajo queda la piel desnuda, con el dragón tatuado que te cruza el pecho a la vista de todos.
+
+La piel no se quema. No se pone roja ni se le levanta una ampolla. El magma te chorrea por el cuerpo como agua de lluvia sobre una piedra, baja por las piernas y cae al agua hirviendo, sin dejar marca.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER — NO COMPLETADO            ║
+║ Magu Magu no Mi + Haki                       ║
+║                                              ║
+║ Condición: «que no te queme ni la ropa».     ║
+║ La ropa se quemó. La misión sigue activa.    ║
+╚══════════════════════════════════════════════╝
+```
+
+El vapor se abre despacio.
+
+Akainu sigue ahí, a un brazo de distancia, con el puño de magma apoyado en tu pecho. Lo mira. Mira tu piel intacta debajo del magma. Te mira a la cara.
+
+Por primera vez, el almirante de la justicia absoluta no sabe qué hacer con lo que tiene delante.
+
+—... —Le tiembla apenas un músculo de la mandíbula—. ¿Qué eres?
+
+Detrás de ti, Luffy, empapado de vapor, con Kase apretado contra el pecho, grita tu nombre con toda la voz.
+
+—¡¡FACUNDO!!
+
+En sus brazos, Kase te mira a través del vapor sin moverse, con las pupilas finas como agujas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 894 · ONE PIECE · DÍA 57 · 13:06       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 220.440/240.000               ║
+║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en brazos de Luffy                     ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Akainu frente a ti.                          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:06, bahía de Marineford. Facundo le tiró a Kase a Luffy y dejó que Akainu le pegara: el cuerpo ileso e inmóvil, pero el sobretodo y la camisa se quemaron sobre el pecho (dragón tatuado a la vista). La misión de copia de Akainu NO se cumplió (sigue activa). Akainu, con el puño de magma apoyado en el pecho de Facundo: "¿Qué eres?" Luffy, con Kase en brazos, grita su nombre.
