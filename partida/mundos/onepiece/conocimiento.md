@@ -226,3 +226,4 @@
 - Rayleigh, Shakky, Hachi · T881 · Por Facundo: va a estar viajando mientras la tripulación entrena y volverá con ellos. Lo ven desaparecer.
 - Todos en Marineford y quienes ven la transmisión · T883 · Por Sengoku: Ace es hijo de Gol D. Roger y de Portgas D. Rouge.
 - Barbablanca, Squard, tripulación del Moby Dick, Marco y comandantes (desde el hielo), probablemente almirantes y Sengoku (de lejos) · T885 · Ven a un marine raso gordo aparecer detrás de Squard y frenarle la espada con dos dedos recubiertos de Haki azul y blanco.
+- Squard, Barbablanca, Marco · T886 · Por Facundo (disfrazado): Akainu es "el peor almirante de la historia"; Squard le creyó una mentira.

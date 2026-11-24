@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T883)
-seguramente, el que esta ahi es su hijo
-
-## RESPUESTA 1 (T883)
-
-> seguramente, el que esta ahi es su hijo
-
-> —Seguramente. El que está ahí es su hijo.
-
-El marine de anteojos se te queda mirando con la boca abierta.
-
-—¿Su... hijo? —Mira el cadalso, a Ace de rodillas—. ¿Barbablanca tiene hijos?
-
-El alto y flaco del otro lado chista para que se callen. El oficial de la fila mira hacia atrás.
-
-Pasan los minutos. El sol sube. El mar sigue vacío. Miles de marines esperan en silencio, con el sudor corriéndoles por la nuca bajo las gorras blancas.
-
-A las nueve y cuarenta, arriba del cadalso, Sengoku da un paso adelante. Un marine le alcanza un Den Den Mushi enorme, con un cono de altavoz en la boca. Sengoku se lo acerca.
-
-Cuando habla, la voz retumba en toda la plaza, en la bahía y en los buques, y sale por las pantallas de transmisión de todo el mundo.
-
-—¡Escuchen todos! —La voz es grave, firme—. Hoy les voy a decir quién es realmente Portgas D. Ace. Y por qué esta ejecución es tan importante.
-
-Silencio. Miles de cabezas que se levantan.
-
-—Este hombre... —Sengoku apoya la mano en el poste del cadalso, encima de la cabeza de Ace—. Es el hijo del Rey de los Piratas. ¡De Gol D. Roger!
-
-El silencio dura un segundo entero.
-
-Después corre un murmullo por la plaza, enorme, como el mar que entra en una cueva. Miles de marines se miran entre ellos. El de anteojos se pone blanco como su gorra.
-
-Sengoku sigue, implacable. Cuenta que la madre de Ace, Portgas D. Rouge, lo escondió en su vientre veinte meses para que el Gobierno no lo encontrara. Que murió al darlo a luz. Que la sangre del demonio no tiene que seguir corriendo en este mundo.
-
-Arriba del cadalso, Ace levanta la cabeza por primera vez.
-
-Tiene la cara sucia, los ojos rojos y los dientes apretados. Grita con toda la voz que le queda:
-
-—¡MI PADRE ES BARBABLANCA!
-
-El grito cruza la plaza entera.
-
-Sengoku no se inmuta.
-
-—Lo sabemos. —Se vuelve hacia el mar—. Y por eso va a venir.
-
-Mira el horizonte vacío.
-
-—Y la Marina lo va a estar esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 883 · ONE PIECE · DÍA 57 · 09:40       ║
-║ Marineford · ala este, junto al muro         ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace (15:00), al lado de   ║
-║ Luffy. Shingeki: antes del D59 16:30.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T884)
+## COMANDO 1 (T884)
 espero
 
-## RESPUESTA 2 (T884)
+## RESPUESTA 1 (T884)
 
 > espero
 
@@ -135,10 +69,10 @@ Luffy grita. Con toda la voz.
 
 ---
 
-## COMANDO 3 (T885)
+## COMANDO 2 (T885)
 antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
 
-## RESPUESTA 3 (T885)
+## RESPUESTA 2 (T885)
 
 > antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
 
@@ -195,4 +129,60 @@ En la plaza, a lo lejos, Akainu levanta la cabeza.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 12:58, cubierta del Moby Dick. Facundo (disfrazado de marine raso, Kase en la camisa) frenó con dos dedos de Haki azul la espada de Squard a un palmo de la espalda de Barbablanca. Barbablanca se dio vuelta y vio la escena. Squard grita la mentira de Akainu (que Barbablanca vendió a los capitanes aliados a cambio de Ace). Marco y los comandantes miran; Akainu levanta la cabeza desde la plaza.
+## COMANDO 3 (T886)
+que chico tonto, creyendole al peor almirante de la historia
+
+## RESPUESTA 3 (T886)
+
+> que chico tonto, creyendole al peor almirante de la historia
+
+> —Qué chico tonto. Creyéndole al peor almirante de la historia.
+
+Squard se queda helado, con la boca abierta, mirándote. Un marine. Un marine gordo, diciéndole eso.
+
+Barbablanca no dice nada durante un segundo.
+
+Después se ríe. Es una risa grave, enorme, que hace vibrar las tablas de la cubierta y que se oye por encima del ruido de la guerra.
+
+—Gurararara...
+
+Se agacha despacio, con un crujido de rodillas viejas y los tubos del hospital tensándose en el brazo. Le pasa un brazo enorme a Squard por los hombros y lo atrae contra el pecho, como quien abraza a un chico chiquito.
+
+—Hijo tonto. —Lo dice bajo, casi con ternura—. ¿Cómo voy a vender a mis hijos? A ninguno. Jamás.
+
+Squard se queda rígido medio segundo. Después se rompe. Llora a gritos contra el pecho del viejo, agarrado de su abrigo, como un nene.
+
+—¡Perdón...! ¡Padre, perdón...!
+
+Barbablanca le da dos palmadas en la espalda que podrían voltear a un caballo. Sin soltarlo, levanta la cabeza y te mira.
+
+Te mira a ti, al marine raso, gordo, con la gorra torcida. Te mira la mano, con los dos dedos azules todavía cerrados sobre la hoja de la espada de Squard. Te mira la cara, los ojos marrones, la cicatriz.
+
+—Y tú, mocoso. —La voz le sale tranquila, sin amenaza todavía—. No eres un marine.
+
+Entrecierra los ojos amarillos.
+
+—En cincuenta años no vi a un solo marine con un Haki de ese color.
+
+Algo aterriza sobre la baranda de la cubierta, envuelto en llamas azules: un hombre rubio con el pecho tatuado, en cuclillas, con los brazos convertidos en alas de fuego. Marco. Te mira con los ojos entrecerrados, listo para saltar.
+
+Adentro de tu camisa, Kase se pone tenso.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 886 · ONE PIECE · DÍA 57 · 12:59       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa, tenso             ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Barbablanca a salvo. Shingeki: antes D59.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 12:59, cubierta del Moby Dick. Barbablanca, sin herida, abrazó a Squard ("Hijo tonto"); Squard llora pidiendo perdón. Barbablanca mira a Facundo (disfrazado, con la espada de Squard entre dos dedos azules): "No eres un marine. En cincuenta años no vi a un solo marine con un Haki de ese color." Marco aterrizó en la baranda con llamas azules, listo para saltar. Kase tenso en la camisa.

@@ -884,3 +884,4 @@ T882 · One Piece · Marineford · Responde bien su unidad. Lo mandan al ala est
 T883 · One Piece · Marineford · Sengoku revela que Ace es hijo de Roger. Ace: "¡Mi padre es Barbablanca!"
 T884 · One Piece · Marineford · Espera. Llega Barbablanca; empieza la guerra. 12:40: Luffy cae del cielo.
 T885 · One Piece · Marineford · Frena la espada de Squard con dos dedos de Haki azul. Squard grita la mentira de Akainu.
+T886 · One Piece · Marineford · "Qué chico tonto." Barbablanca abraza a Squard. "No eres un marine."
