@@ -3,86 +3,10 @@
 
 ---
 
-## COMANDO 1 (T941)
-hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
-
-## RESPUESTA 1 (T941)
-
-> hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
-
-> —Hola, Dende. ¿Te puedo pedir algo? ¿Me muestras tu habilidad para crear Esferas del Dragón?
-
-Dende parpadea.
-
-—¿Crear...? —Mira a Mr. Popo, que no cambia la sonrisa. Después te mira a ti otra vez—. Las esferas de la Tierra ya existen. Las hice de nuevo cuando me nombraron Dios, con el dragón de Kami-sama como modelo. Si hago otro juego completo, habría dos dragones, y eso... no sé qué pasaría.
-
-Se rasca la nuca, entre las antenas, y piensa un momento.
-
-—Pero una sola no hace nada. Una sola esfera es una piedra bonita hasta que están las siete. —Se le ilumina la cara—. Puedo hacer una y mostrarte cómo. Y después la deshago. Así nadie se confunde.
-
-Se agacha, junta las manos en forma de cuenco sobre la tierra del cantero y cierra los ojos.
-
-Durante un momento no pasa nada. Después sientes el cambio. No es ki de pelea: es otra cosa, más lenta, más profunda, como el calor de la tierra cuando le da el sol. Las antenas de Dende se le ponen rectas. La tierra entre sus manos empieza a brillar desde adentro, en un tono naranja suave.
-
-—Primero se le da forma —murmura, sin abrir los ojos—. Después se le da un corazón.
-
-La tierra se levanta. Sube despacio entre sus palmas, girando, apretándose sobre sí misma, puliéndose, hasta que deja de ser tierra y se vuelve cristal. Una esfera perfecta, del tamaño de una naranja, de color ámbar, transparente, con la luz del mediodía atravesándola.
-
-—Después, el número. El lugar que ocupa entre sus hermanas.
-
-Adentro de la esfera se encienden puntos rojos, uno, dos, tres, cuatro, como brasas que flotan en miel. Cuatro estrellas.
-
-—Y al final, el nombre del dragón. —Dende abre los ojos. Le brillan—. Eso es lo que las une. Sin eso, son solo vidrio.
-
-Le habla a la esfera en voz muy baja, en un idioma que no es el de la Tierra, con sonidos largos, como viento entre piedras. La esfera late una vez, como un corazón, y queda quieta en sus manos, tibia, viva.
-
-Mr. Popo inclina la cabeza.
-
-—Bonita —dice.
-
-Dende sonríe, un poco orgulloso y un poco avergonzado. Te muestra la esfera de cerca, para que la veas bien. Después cierra las manos sobre ella, despacio. Las estrellas se apagan una por una. El cristal se vuelve tierra otra vez y se le escurre entre los dedos hasta el cantero.
-
-Delante de tus ojos, frío, se abre una ventana.
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Poder de Dende (Dios de la Tierra)           ║
-║ USUARIO: Dende · Dragon Ball                 ║
-║ Incluye: creación de Esferas del Dragón y    ║
-║ su dragón, curación namekiana, vigilancia    ║
-║ de un planeta desde lo alto.                 ║
-║                                              ║
-║ MISIÓN: Llevar a Dende a ver a su gente en   ║
-║ el Nuevo Namek y traerlo de vuelta al        ║
-║ templo el mismo día.                         ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-
-Dende se sacude la tierra de las manos y se pone de pie.
-
-—Así se hacen. —Te mira, curioso, con la cabeza ladeada—. ¿Para qué querías verlo, Facundo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 941 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
-║ Templo Sagrado · el jardín                   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Copia de Dende: llevarlo al Nuevo  ║
-║ Namek y volver el mismo día.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T942)
+## COMANDO 1 (T942)
 por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
 
-## RESPUESTA 2 (T942)
+## RESPUESTA 1 (T942)
 
 > por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
 
@@ -131,10 +55,10 @@ Después se pone colorado, como si recién se diera cuenta de que gritó.
 
 ---
 
-## COMANDO 3 (T943)
+## COMANDO 2 (T943)
 le pongo una mano en el hombro y me teletransporto al nuevo namek
 
-## RESPUESTA 3 (T943)
+## RESPUESTA 2 (T943)
 
 > le pongo una mano en el hombro y me teletransporto al nuevo namek
 
@@ -193,4 +117,50 @@ Te mira largo. El pelo blanco y azul, los ojos de dos colores, el gato en el hom
 
 ---
 
-ESTADO AL CIERRE: Dragon Ball, ~día 96, Nuevo Namek (aldea de Moori). Facundo llegó con Dende por Teletransportación. Dende y Cargo se abrazan llorando. Moori le pregunta a Facundo si él trajo a Dende desde la Tierra. Facundo puede responder.
+## COMANDO 3 (T944)
+asi es, soy amigo de goku y sus compañeros
+
+## RESPUESTA 3 (T944)
+
+> asi es, soy amigo de goku y sus compañeros
+
+> —Así es. Soy amigo de Goku y sus compañeros.
+
+Al oír el nombre, a Moori se le ablanda la cara entera. Las arrugas alrededor de los ojos se le juntan en algo parecido a una sonrisa.
+
+—Son Goku. —Lo dice despacio, con respeto, como quien nombra a alguien que ya no está—. El hombre que venció a Freezer. Sin él, no quedaría ningún namekiano vivo en todo el universo. —Apoya las dos manos en el bastón—. Entonces, para nosotros, usted es un amigo.
+
+Hace una reverencia. Lenta, profunda, de anciano. Alrededor, los namekianos que se habían quedado mirando hacen lo mismo, uno por uno, en silencio. Hasta los chicos que rodean a Dende y a Cargo en el pasto se callan y bajan la cabeza, sin entender muy bien por qué.
+
+Kase los mira a todos desde tu hombro, con la cola quieta, como un rey al que le rinden honores y que lo considera perfectamente normal.
+
+Moori se endereza. Mira hacia la colina, donde Dende ya está sentado en el pasto con Cargo, hablando a la vez que llora, con las manos moviéndose para todos lados, contándole algo que hace que Cargo abra la boca, asombrado.
+
+—Hace mucho que no lo veía sonreír así —dice Moori, bajito—. Desde que se quedó en la Tierra a cuidar un planeta ajeno. Es muy joven para cargar con eso solo.
+
+Se vuelve hacia ti.
+
+—No tenemos mucho para ofrecer. Agua del lago, sombra y un techo. Los namekianos no comemos. —Mira al gato—. Pero algo encontraremos para él.
+
+Te señala con el bastón la cúpula grande de la colina.
+
+—Quédese el tiempo que Dende necesite. Y si hay algo que el pueblo namekiano pueda hacer por el amigo de Son Goku... —Lo mira a los ojos, tranquilo, como si ya supiera que algo hay—, solo tiene que decirlo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 944 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
+║ Nuevo Namek · la aldea de Moori              ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 0 zeni                  ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Dende con los suyos. Traerlo de    ║
+║ vuelta hoy. Shingeki en un día.              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Dragon Ball, ~día 96, Nuevo Namek. Moori recibe a Facundo como amigo de Son Goku; la aldea hace una reverencia. Dende con Cargo en el pasto. Moori ofrece techo y le dice que, si el pueblo namekiano puede hacer algo por él, solo tiene que decirlo. Facundo puede responder.
