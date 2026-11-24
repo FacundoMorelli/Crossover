@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T826)
-vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
-
-## RESPUESTA 1 (T826)
-
-> vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
-
-> —Vamos a llegar. Los llevo con la teletransportación. Ahora voy a ir a hablar con Eren.
-
-Historia suelta el aire que tenía guardado, larguísimo, y se le aflojan los hombros.
-
-—Claro. Claro que sí. Me olvidaba de que puedes hacer eso. —Se ríe sola—. Pasé tres noches pensando en barcos.
-
-Le da un beso a Kase en la cabeza y te lo devuelve. Kase salta a tu hombro.
-
-—Eren está en el cuartel de la Legión, al lado del distrito militar. A esta hora entrena con el capitán Levi. Todos los días, desde el amanecer.
-
-Ymir se despega del marco de la puerta para dejarte pasar. Cuando pasas a su lado, te dice sin mirarte, con la boca llena de manzana:
-
-—Vuelve para el desayuno, lindo.
-
-Historia la mira. Ymir mira el techo.
-
-Sales del palacio a pie. Mitras se está despertando: los primeros panaderos abren sus puertas, pasa un carro de leche tirado por un caballo viejo, dos policías militares bostezan en una esquina. El aire huele a pan y a humo de chimenea. Nadie te para. Algunos se dan vuelta a mirar el pelo y el gato.
-
-El cuartel de la Legión es un edificio de piedra gris, viejo, junto a los muros del distrito militar. En el patio de atrás, de tierra apisonada, hay dos figuras peleando.
-
-Levi y Eren. Cuchillos de madera, sin equipo de maniobras. Levi se mueve como agua, sin un gesto de más. Eren ataca fuerte, con rabia, y Levi lo esquiva, le toca el cuello, el costado y la muñeca con la punta de madera, una vez y otra.
-
-Sentada en la cerca de troncos, con la bufanda roja alrededor del cuello y las rodillas contra el pecho, Mikasa mira sin parpadear.
-
-Eren te ve en la entrada del patio.
-
-Se queda quieto, a mitad de un ataque, con el cuchillo de madera en alto.
-
-Levi aprovecha y le pega en la nuca con el canto del suyo. Un golpe seco.
-
-—Si te distraes, estás muerto. —Lo dice sin levantar la voz. Después sigue la mirada de Eren y te ve. No cambia la cara—. Ah. Volviste.
-
-Mikasa se baja de la cerca de un salto.
-
-Eren se frota la nuca y te mira. Tiene la cara más flaca que hace veinticuatro días, las ojeras más hondas y algo nuevo en los ojos verdes, algo que antes no estaba.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 826 · SHINGEKI · DÍA 35 · 06:25        ║
-║ Mitras · patio del cuartel de la Legión      ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Hablar con Eren.                             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T827)
+## COMANDO 1 (T827)
 hola eren, tenemos que hablar a solas
 
-## RESPUESTA 2 (T827)
+## RESPUESTA 1 (T827)
 
 > hola eren, tenemos que hablar a solas
 
@@ -129,10 +69,10 @@ Te mira fijo, con algo entre miedo y esperanza en la cara.
 
 ---
 
-## COMANDO 3 (T828)
+## COMANDO 2 (T828)
 creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
 
-## RESPUESTA 3 (T828)
+## RESPUESTA 2 (T828)
 
 > creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
 
@@ -189,4 +129,58 @@ Abajo, en el patio, se oye la voz seca de Levi.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:38, techo del cuartel. Facundo le dijo a Eren que el futuro cambió (no hacer caso a los recuerdos) y que quizá pueda revivir a los comidos por titanes. Eren lloró, prometió callar y no hacer caso: "Si funciona, la primera es ella" (Carla). Levi llama desde el patio: "Se acabaron los cinco minutos."
+## COMANDO 3 (T829)
+bajamos con eren al patio
+
+## RESPUESTA 3 (T829)
+
+> bajamos con eren al patio
+
+Kase salta del techo a tu hombro. Bajan la escalera de madera, Eren adelante, tú detrás. Los escalones crujen.
+
+En el patio, Mikasa está exactamente donde la dejaron, con los dos cuchillos de madera en las manos. Cuando Eren llega al último escalón, le ve la cara: los ojos rojos, los párpados hinchados, el borde de la manga mojado.
+
+Mikasa deja caer los cuchillos en la tierra.
+
+No va hacia Eren. Va hacia ti. Se te planta delante, a un palmo, con la bufanda roja hasta la nariz y los ojos negros clavados en los tuyos. Tiene los puños cerrados a los costados.
+
+—¿Qué le dijiste?
+
+Lo dice bajo, sin gritar, y por eso suena peor.
+
+Eren se mete entre los dos de un paso y le apoya la mano en el hombro.
+
+—Nada, Mikasa. —Le sostiene la mirada—. Está bien. Estoy bien.
+
+Mikasa lo mira. Le mira los ojos rojos, la boca, la mano en su hombro. No le cree. Se le nota en toda la cara.
+
+Pero se aparta. Un paso. Recoge los cuchillos de la tierra sin dejar de mirarte de reojo.
+
+Levi, apoyado contra la pared del cuartel con los brazos cruzados, no hizo ni un gesto en todo ese tiempo. Se despega de la pared, agarra uno de los cuchillos de madera de las manos de Mikasa y se lo tira a Eren, que lo atrapa contra el pecho.
+
+—Lávate la cara. —Con voz plana—. Pareces un recluta llorón. Después, cien cortes. No me importa si llueve.
+
+Eren asiente y va hacia el pozo del patio.
+
+Levi se da vuelta hacia ti. Te mira de arriba abajo una sola vez.
+
+—Erwin está despierto desde las cuatro. Siempre está despierto desde las cuatro. —Señala con el mentón una ventana iluminada del segundo piso—. Quiere verte. Su oficina. Y límpiate los pies antes de entrar, que acabo de barrer la escalera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 829 · SHINGEKI · DÍA 35 · 06:40        ║
+║ Mitras · patio del cuartel de la Legión      ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Revivir a los comidos (secreto con Eren).    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:40, patio del cuartel de la Legión. Mikasa le preguntó a Facundo qué le dijo a Eren; Eren cumplió la promesa ("Estoy bien"). Levi mandó a Eren a lavarse la cara y le dijo a Facundo que Erwin lo espera en su oficina del segundo piso (y que se limpie los pies).
