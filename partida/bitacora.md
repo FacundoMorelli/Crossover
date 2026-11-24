@@ -1004,3 +1004,4 @@ T1002 · Fairy Tail · Parque · "Voy con ustedes a Oak Town." Erza objeta; Maka
 T1003 · Fairy Tail · Parque · "Un poco." Natsu lo desafía para después de Phantom. Gray se presenta. Tren en diez minutos.
 T1004 · Fairy Tail · Tren a Oak Town · Acepta el desafío de Natsu. Erza se sienta enfrente: "¿Qué magia usas?"
 T1005 · Fairy Tail · Tren · "Facundo Morelli. Ya la vas a ver." Erza explica Phantom. Kase se sienta frente a ella. "¿Cómo se llama?"
+T1006 · Fairy Tail · Tren · "Se llama Kase." Kase le da la espalda a Erza: "Tiene carácter." Llegan a Oak Town; la sede de Phantom a la vista.

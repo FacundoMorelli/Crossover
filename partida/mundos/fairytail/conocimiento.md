@@ -19,3 +19,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Natsu, Gray, Happy · T1003 · Facundo dijo que es "un poco" fuerte.
 - Natsu, Happy (y todos los cercanos) · T1004 · Facundo aceptó pelear con Natsu al volver de Phantom.
 - Erza · T1005 · su nombre (él se lo dijo otra vez); no le dijo su magia ("ya la vas a ver").
+- Erza · T1006 · el gato se llama Kase (él se lo dijo).

@@ -10,6 +10,7 @@ ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1004 · Tren a Oak Town: se sienta frente a Facundo.
 DIÁLOGOS CLAVE:
+- T1006 · Kase le rechaza la mano: "Ya veo. Tiene carácter." "Llegamos."
 - T1005 · "Está bien. Entonces la voy a ver." Explica Phantom (Jose, Element 4, Gajeel). "Si te caes, te levantas solo." A Kase: "Es muy grande para ser un gato. ¿Cómo se llama?"
 - T1004 · "Erza Scarlet. Antes de llegar a Oak Town, quiero saber con quién voy a pelear al lado. ¿Qué magia usas?"
 - T1002 · "No es de Fairy Tail, maestro. Si un mago sin gremio entra a la sede de Phantom con nosotros, el Consejo va a tener una excusa más."

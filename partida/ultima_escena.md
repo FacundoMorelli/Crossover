@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1003)
-un poco
-
-## RESPUESTA 1 (T1003)
-
-> un poco
-
-> —Un poco.
-
-Natsu se te queda mirando con los ojos entrecerrados, como si intentara oler una mentira.
-
-Después se le abre la sonrisa hasta las orejas.
-
-—"Un poco" —repite, encantado—. ¡Eso dicen siempre los que son fuertes de verdad! —Se golpea el puño contra la palma y le salen chispas—. ¡Entonces, cuando terminemos con Phantom, peleas conmigo!
-
-—Ya empezó. —El muchacho de pelo negro pasa caminando a su lado, con las manos en los bolsillos y todavía sin camisa—. Acaba de conocerlo y ya lo quiere desafiar. Eres un animal, cerebro de flama.
-
-—¡¿Qué dijiste, princesa de hielo?!
-
-—Lo que oíste.
-
-Se quedan frente a frente, frente contra frente, gruñendo. Una chispa y un poco de escarcha saltan entre los dos.
-
-—¡NATSU! ¡GRAY!
-
-La voz de Erza llega desde la salida del parque. Los dos se separan de golpe, se pasan un brazo por los hombros y sonríen a la vez, rígidos como estatuas.
-
-—¡Aye! —dicen los dos al mismo tiempo.
-
-—Ahora hablan como Happy —dice el gato azul, desde la cabeza de Natsu.
-
-Gray te mira por encima del hombro de Natsu. Es una mirada rápida, medio de lado, menos ruidosa que la de su compañero y más atenta. Se fija en el gato. Se fija en tus manos.
-
-—Gray Fullbuster —dice, como si no le importara—. No le hagas caso a este. —Se suelta de Natsu y sigue caminando hacia la salida—. El tren a Oak Town sale en diez minutos.
-
-Natsu se pone verde de golpe. Así nomás, con solo oír la palabra.
-
-—Tren... —murmura, y se lleva una mano a la boca.
-
-—Aye. —Happy le palmea la cabeza—. Todavía no subiste y ya te mareaste.
-
-Natsu respira hondo, se endereza y te vuelve a apuntar con el dedo, todavía medio verde.
-
-—¡No te olvides, eh! ¡Cuando volvamos, tú y yo!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1003 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 07:17 · Magnolia · Parque de la Puerta Sur   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1004)
+## COMANDO 1 (T1004)
 dale, cuando volvamos peleamos
 
-## RESPUESTA 2 (T1004)
+## RESPUESTA 1 (T1004)
 
 > dale, cuando volvamos peleamos
 
@@ -121,10 +58,10 @@ Después te mira a ti, a los ojos, sin pestañear.
 
 ---
 
-## COMANDO 3 (T1005)
+## COMANDO 2 (T1005)
 Facundo Morelli, ya la vas a ver
 
-## RESPUESTA 3 (T1005)
+## RESPUESTA 2 (T1005)
 
 > Facundo Morelli, ya la vas a ver
 
@@ -178,4 +115,61 @@ Kase la sigue mirando.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:40, tren a Oak Town. Erza le explicó Phantom Lord y le pregunta cómo se llama el gato. Kase en el piso mirándola. Facundo puede responder.
+## COMANDO 3 (T1006)
+se llama Kase
+
+## RESPUESTA 3 (T1006)
+
+> se llama Kase
+
+> —Se llama Kase.
+
+—Kase —repite Erza, en voz baja, como si probara la palabra.
+
+Extiende una mano. Lo hace despacio, con la palma hacia abajo, a la altura del hocico, como le enseñaron a alguien alguna vez. Tiene la mano enfundada en un guantelete de metal.
+
+Kase mira la mano. La huele desde lejos, sin acercarse, estirando apenas el cuello. Olfatea el metal un segundo, dos.
+
+Después se da vuelta, le muestra la cola enorme y salta de nuevo a tu hombro, sin apuro.
+
+Erza se queda con la mano en el aire.
+
+La baja. Se acomoda en el asiento, endereza la espalda y carraspea.
+
+—Ya veo —dice, muy seria—. Tiene carácter.
+
+Por un segundo le tiemblan las comisuras de la boca. Después se le pasa.
+
+No vuelve a hablar. Mira por la ventana con los brazos cruzados sobre la armadura. El campo da lugar a colinas, las colinas a bosques de pinos, y en algún momento, en el vagón de al lado, se escucha a Natsu gemir algo sobre que quiere morirse y a Gray decirle que lo haga en silencio.
+
+Pasa casi una hora.
+
+El tren baja la velocidad. Una voz grita por el pasillo:
+
+—¡Próxima estación, Oak Town!
+
+Por la ventana aparece la ciudad: casas de piedra gris sobre una colina, techos de pizarra, y en lo alto, dominándolo todo, un edificio enorme que no se parece a nada de lo que hay alrededor. Es una fortaleza de piedra oscura con torres puntiagudas, ventanas estrechas y banderas negras flameando en las almenas. En cada bandera, el mismo emblema que tenía Levy pintado en el vestido.
+
+Erza se pone de pie. La armadura suena.
+
+—Llegamos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1006 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 08:35 · Tren, llegando a Oak Town            ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 08:35, el tren llega a Oak Town; se ve la sede de Phantom. Erza: "Llegamos." Facundo puede actuar.
