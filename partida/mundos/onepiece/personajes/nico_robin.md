@@ -66,3 +66,4 @@ ESTADO: activa
 - T776 · Facundo le dice en serio que viene de otro mundo y que el del libro es otro. Le cree. "¿Cuántos hay?"
 - T777 · Sabe que Facundo visitó seis mundos. Pregunta cuál fue el primero y cuándo se va a ir de este.
 - T778 · Ve en la cámara el video de Eren en Shiganshina. Sabe que Facundo se va en unos diez días.
+- T779 · "Las historias feas son las que más hay que leer. Alguien tiene que acordarse." Lee la segunda página: el rey borró la memoria del pueblo.

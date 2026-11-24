@@ -777,3 +777,4 @@ T775 · One Piece · Islote · Facundo se transforma en el Titán de Ceniza dela
 T776 · One Piece · Islote · Facundo le cuenta a Robin en serio que viene de otro mundo. Ella le cree. "¿Cuántos hay?"
 T777 · One Piece · Islote · "Con este son seis." Robin pregunta cuál fue el primero y cuándo se va.
 T778 · One Piece · Islote · Le dice que se va en ~10 días; el primer mundo fue de hechiceros y maldiciones. Le muestra el video de Eren.
+T779 · One Piece · Islote · Robin sigue leyendo el libro apoyada en Facundo. Se detiene en "borró la memoria".
