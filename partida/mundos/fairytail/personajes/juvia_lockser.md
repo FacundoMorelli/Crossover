@@ -9,6 +9,6 @@ RELACIÓN CON FACUNDO: enemigo.
 ENCUENTROS:
 - T1012 · Día 1 09:13 · Celda de la torre de Phantom: Facundo aparece, se lleva a Lucy y desaparece.
 DIÁLOGOS CLAVE:
-QUÉ SABE DE FACUNDO: lo vio aparecer y desaparecer con Lucy (T1012). No sabe su nombre.
+QUÉ SABE DE FACUNDO: lo vio aparecer y desaparecer con Lucy (T1012). Su nombre, por Jose en voz alta (T1016). Lo vio volar con Makarov (T1016).
 QUÉ PODERES DE FACUNDO VIO: teletransporte (T1012).
 ESTADO: En la celda de la torre.

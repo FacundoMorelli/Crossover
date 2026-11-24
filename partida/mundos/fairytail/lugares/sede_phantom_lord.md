@@ -3,3 +3,4 @@ Fortaleza de piedra negra, muros de 20 m, torres puntiagudas, banderas negras. P
 - T1007 · Día 1 09:05 · Natsu revienta la puerta. Batalla Fairy Tail vs Phantom en el salón.
 - T1011 · Sala del último piso: ventanales altos, candelabro de hierro, puerta doble tallada.
 - T1012 · Torre: celda redonda de piedra, ventana con barrotes, colchón de paja. Lucy rescatada.
+- T1016 · Lo alto de la torre: sala circular, alfombra roja, estantes de libros, trono tallado, ventana grande al este (rota por Makarov).

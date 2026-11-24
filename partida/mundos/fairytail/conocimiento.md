@@ -33,3 +33,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Lucy · T1013 · su nombre: Facundo Morelli (él se lo dijo). Despertó en sus brazos. Vio el lobo de luz.
 - Lucy, Happy, Natsu, Erza · T1014 · Facundo confirmó que la sacó él solo. Makarov (dicho al gremio, T1014): Facundo sintió a Aria cuando él no.
 - Makarov, Erza, Gray, Natsu, Lucy, Happy y Fairy Tail del salón · T1015 · Facundo dijo que solo quiere ayudar y que siente a Jose en la torre. Makarov no lo siente; le cree.
+- Fairy Tail del salón · T1016 · vieron a Facundo salir volando por un ventanal con Makarov colgado de la capa. Habitantes de Oak Town pueden haber visto a alguien volar junto a la torre.
+- Jose, Juvia, Sol · T1016 · vieron a Facundo flotar afuera de la ventana de la torre con Makarov. Jose les confirma su nombre (Facundo Morelli) en voz alta: Juvia y Sol ahora lo saben.

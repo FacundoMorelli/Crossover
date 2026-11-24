@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1000 · Se presenta; reverencia larga delante del gremio.
 - T1011 · Facundo lo salva del Metsu de Aria.
 DIÁLOGOS CLAVE:
+- T1016 · Colgado de la capa: "Avisa la próxima vez, muchacho." Rompe la ventana de la torre. "Jose."
 - T1015 · "No siento nada. Si de verdad está ahí arriba, está escondiendo su magia a propósito." "Entonces muéstrame dónde está, muchacho. Esta vez voy yo. No quiero que te metas. Esto es entre él y yo."
 - T1014 · A Lucy: "Calla, mocosa. Estás aquí." Al gremio: "Jose no estaba en este edificio... Va a responder." A Facundo: "Me cuidaste la espalda y me trajiste a mi hija de vuelta, y no tienes nuestra marca. ¿Qué es lo que quieres de Fairy Tail?"
 - T1009 · "¡Erza, quedas a cargo! ¡Voy por Jose!"
