@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T804)
-simula
-
-## RESPUESTA 1 (T804)
-
-> simula
-
-Dos días de mar abierto, con buen viento y el cielo limpio.
-
-Franky les muestra el Sunny de punta a punta, orgulloso como un padre. Hay un sistema de compartimientos en la panza del barco, numerados del cero al cinco, con un submarino amarillo con forma de pez, una barca de remos y un caballo de madera con ruedas. Hay un bar con acuario, de paredes de vidrio, donde nadan los peces que Luffy pesca. Hay un baño grande con bañera de verdad, y Nami decreta que es suyo los martes, los jueves y los sábados. Usopp se pasa el día entero en la fábrica inventando cosas que explotan.
-
-La primera noche hacen una fiesta de bienvenida para Franky en la cubierta. Sanji cocina un banquete. Luffy, Usopp y Chopper bailan con palillos en la nariz. Franky toca una guitarra que sacó de algún compartimiento secreto y canta una canción horrible a todo pulmón.
-
-Robin pasa horas en su biblioteca, arriba, junto al puesto del vigía. Tú también. Ella lee el libro de Paradis en voz alta, cada vez más rápido, y llena los estantes vacíos con los pocos libros que trajo de Water 7. Por las tardes, el sol entra por las ventanas redondas y le cae sobre las páginas. Kase descubre que la cocina de Sanji es el lugar más cálido del barco y la adopta como territorio. Sanji lo deja, a regañadientes, mientras no se suba a la mesada.
-
-La tarde del Día 43 encuentran un barril flotando a la deriva, sellado, con letras pintadas: «Ofrenda a los dioses del mar». Luffy lo abre antes de que nadie lo pare. Adentro no hay sake: hay una bengala, que sale disparada al cielo con un silbido y explota en una luz roja.
-
-—¡Idiota! —le grita Nami—. ¡Eso era una trampa!
-
-Detrás de ellos se cierra una tormenta. Nami mira la Log Pose, el cielo, el mar, y gira el timón.
-
-—Vamos a esquivarla. Por ahí.
-
-Por ahí entran en la niebla.
-
-El aire se pone frío de golpe. El mar se queda quieto, oscuro y liso como un espejo. La niebla es tan espesa que desde la popa no se ve la cabeza del león. No hay viento y no se oye ni una ola. Solo el crujido del casco.
-
-—El Triángulo Florian —dice Robin, en voz baja, junto a ti en la baranda—. Dicen que aquí desaparecen barcos todos los años. Y que a veces aparecen otros... vacíos.
-
-Usopp, Chopper y Nami se abrazan los tres.
-
-A las diez y cuarenta de la noche, Kase se eriza entero en tu hombro, con el lomo arqueado y la cola gorda, y gruñe hacia la niebla.
-
-Algo sale de entre la bruma, a babor. Es un barco viejo, enorme, de velas rotas que cuelgan como trapos, con el casco cubierto de algas y el mascarón partido. Se mueve solo, sin viento.
-
-Y en la cubierta alguien canta.
-
-—Yohohoho, yohohoho... Vamos a llevarles el sake de Binks...
-
-Es una voz alegre, de hombre viejo, con una melodía antigua de piratas que rebota en la niebla.
-
-El barco se arrima, casi casco contra casco. En la baranda, iluminado por una lámpara de aceite, hay un esqueleto. Un esqueleto alto, flaco, vestido de traje negro y sombrero de copa, con un afro enorme y esponjoso y un bastón en la mano. Tiene una taza de té en la otra.
-
-Se quita el sombrero y hace una reverencia.
-
-—Buenas noches. ¡Qué alegría ver gente viva después de tantos años! ¡Yohohoho!
-
-Usopp, Chopper y Nami gritan a la vez y se desmayan en cadena.
-
-Luffy, en el león, abre los ojos como platos. Se le dibuja una sonrisa enorme.
-
-—¡UN ESQUELETO QUE HABLA! ¡Oye, tú! ¡Únete a mi tripulación!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 804 · ONE PIECE · DÍA 43 · 22:40       ║
-║ Thousand Sunny · Triángulo Florian           ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Triángulo Florian. Rumbo a         ║
-║ Sabaody. Salir de One Piece antes del Día 49.║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T805)
+## COMANDO 1 (T805)
 miro a brook y espero
 
-## RESPUESTA 2 (T805)
+## RESPUESTA 1 (T805)
 
 > miro a brook y espero
 
@@ -152,10 +82,10 @@ Brook se queda petrificado en la baranda. Le tiemblan los huesos.
 
 ---
 
-## COMANDO 3 (T806)
+## COMANDO 2 (T806)
 bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
 
-## RESPUESTA 3 (T806)
+## RESPUESTA 2 (T806)
 
 > bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
 
@@ -214,4 +144,68 @@ Luffy, en la cabeza del león, mira la isla con los ojos brillando y se le hace 
 
 ---
 
-ESTADO AL CIERRE: Día 43 23:33, bahía de Thriller Bark. Luffy decidió recuperar la sombra de Brook. Brook advirtió sobre Gecko Moria (Shichibukai, sombras en cadáveres, el sol desintegra al que no tiene sombra). Usopp, Nami, Chopper aterrados; Zoro, Sanji, Franky listos; Robin curiosa. Nadie desembarcó todavía.
+## COMANDO 3 (T807)
+bajamos a la isla con robin y luffy
+
+## RESPUESTA 3 (T807)
+
+> bajamos a la isla con robin y luffy
+
+Luffy no espera ni a que bajen la planchada. Estira el brazo hasta una roca de la orilla y sale disparado.
+
+—¡Vamos!
+
+Robin te mira, se encoge de hombros con una media sonrisa y salta detrás de ti a la orilla. Kase se acomoda en tu hombro, todavía erizado.
+
+Desde el Sunny, Nami les grita a los tres que están locos. Usopp grita que alguien tiene que cuidar el barco y que él se ofrece, con Chopper. Zoro se sienta contra el mástil con las espadas cruzadas. Sanji dice que no va a dejar a las damas solas en el barco con un esqueleto pervertido. Franky se queda revisando el casco. Brook los saluda con el sombrero desde la baranda, sin salir de la sombra de la vela.
+
+—¡Tengan cuidado! ¡Yohohoho! ¡Este lugar le da escalofríos hasta a alguien que no tiene piel!
+
+La orilla es de piedra negra y húmeda. Un portón de hierro oxidado, entreabierto, rechina con la brisa. Detrás hay un cementerio: lápidas torcidas, cruces caídas, tierra removida como si alguien hubiera salido de abajo hace poco. Robin se detiene a leer una lápida y frunce el ceño.
+
+—Esta tumba está vacía. Y la de al lado. Y la otra.
+
+Más allá del cementerio empieza el bosque. Los árboles están muertos, negros, retorcidos, y algunos tienen en la corteza formas que parecen caras gritando. La niebla se mete entre los troncos. No canta ningún pájaro.
+
+Entre las ramas pasa algo raro: un zorro con alas de murciélago cosidas al lomo con hilo grueso. Después una araña del tamaño de un perro, con cabeza de ratón, que los mira y se va correteando.
+
+—¡Shishishi! ¡Qué bichos raros! ¡Oye, ven aquí!
+
+Luffy sale corriendo detrás de la araña y, de entre los árboles, sale flotando una figura blanca. Es un fantasma redondo, del tamaño de una cabeza, con dos ojos tristes y la lengua afuera, que se ríe con una vocecita aguda.
+
+—Horo horo horo...
+
+Atraviesa a Luffy de lado a lado, como si fuera humo.
+
+Luffy frena en seco. Se queda quieto. Después cae de rodillas en el barro, con los brazos colgando y la cabeza gacha.
+
+—Quisiera ser una almeja... —murmura, con la voz apagada—. Una almeja en el fondo del mar... Perdón por haber nacido...
+
+Robin se queda mirándolo con los ojos muy abiertos.
+
+—¿Luffy?
+
+De entre la niebla sale un segundo fantasma, igual al primero, con la lengua afuera y riéndose.
+
+—Horo horo horo...
+
+Y viene flotando directo hacia ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 807 · ONE PIECE · DÍA 43 · 23:45       ║
+║ Thriller Bark · bosque de árboles muertos    ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Recuperar la sombra de Brook.      ║
+║ Salir de One Piece antes del Día 49.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 43 23:45. Facundo, Robin y Luffy en el bosque de Thriller Bark. Un fantasma de Perona (Negative Hollow) atravesó a Luffy: deprimido en el barro. Un segundo fantasma va flotando directo hacia Facundo. El resto de la tripulación y Brook quedaron en el Sunny.

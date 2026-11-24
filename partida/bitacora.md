@@ -805,3 +805,4 @@ T803 · One Piece · Salida de Water 7 · Garp ataca con balas a mano; Coup de B
 T804 · One Piece · Triángulo Florian · Simula dos días de mar. Barril con bengala; niebla. Aparece el barco fantasma de Brook.
 T805 · One Piece · Thriller Bark · Brook acepta unirse; cuenta lo de su sombra. Las puertas de Thriller Bark se tragan al Sunny.
 T806 · One Piece · Thriller Bark · "¿Vamos a recuperar la sombra de nuestro músico?" Luffy acepta. Brook nombra a Moria.
+T807 · One Piece · Thriller Bark · Bajan Facundo, Robin y Luffy. Un fantasma deprime a Luffy; otro va hacia Facundo.
