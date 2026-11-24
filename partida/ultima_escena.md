@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T894, corrección)
-(hace que no se me haya quemado la ropa)
-
-## RESPUESTA 1 (T894, corrección)
-
-> (hace que no se me haya quemado la ropa)
-
-[Corrección aplicada.]
-
-El puño de magma te pega en el pecho.
-
-El ruido es un siseo enorme, como mil hierros al rojo metidos en agua. Una explosión de vapor blanco sube en una columna. El hielo alrededor se derrite en un círculo de diez metros y se convierte en agua hirviendo. Los borceguíes se te hunden hasta el tobillo.
-
-No te mueves.
-
-Y no se quema nada. Ni la piel, ni la camisa, ni el sobretodo negro. El magma se aplasta contra la tela como si chocara contra una pared, chorrea por el abrigo sin prenderle ni una hebra y cae al agua hirviendo, a tus pies, sin dejar una marca.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER — COMPLETADO               ║
-║ Magu Magu no Mi + Haki                       ║
-║ USUARIO ORIGINAL: Sakazuki (Akainu) ·        ║
-║ One Piece                                    ║
-║                                              ║
-║ Cuerpo de magma · Dai Funka · Ryusei Kazan · ║
-║ Inugami Guren · Meigo · Haki de armadura y   ║
-║ observación · todo lo que Akainu llega a     ║
-║ hacer                                        ║
-║ DOMINIO: total                               ║
-╚══════════════════════════════════════════════╝
-```
-
-[+800 EXP]
-
-El vapor se abre despacio.
-
-Akainu sigue ahí, a un brazo de distancia, con el puño de magma apoyado en tu pecho. Mira el puño. Mira tu sobretodo, intacto, seco, sin una quemadura. Te mira a la cara.
-
-Por primera vez, el almirante de la justicia absoluta no sabe qué hacer con lo que tiene delante.
-
-—... —Le tiembla apenas un músculo de la mandíbula—. ¿Qué eres?
-
-Detrás de ti, Luffy, empapado de vapor, con Kase apretado contra el pecho, grita tu nombre con toda la voz.
-
-—¡¡FACUNDO!!
-
-En sus brazos, Kase te mira a través del vapor sin moverse, con las pupilas finas como agujas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 894 · ONE PIECE · DÍA 57 · 13:06       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 221.240/240.000               ║
-║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en brazos de Luffy                     ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Akainu frente a ti.                          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T895)
+## COMANDO 1 (T895)
 lo empujo con la luna, agarro a kase
 
-## RESPUESTA 2 (T895)
+## RESPUESTA 1 (T895)
 
 > lo empujo con la luna, agarro a kase
 
@@ -126,10 +61,10 @@ Luffy grita con todo lo que tiene.
 
 ---
 
-## COMANDO 3 (T896)
+## COMANDO 2 (T896)
 expulso mi haki del rey
 
-## RESPUESTA 3 (T896)
+## RESPUESTA 2 (T896)
 
 > expulso mi haki del rey
 
@@ -190,4 +125,72 @@ Desde el Moby Dick, por encima de la bahía en silencio, llega una carcajada eno
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:07, Marineford. El Haki del Rey azul y blanco de Facundo desmayó a los dos verdugos (las espadas cayeron junto a Ace sin tocarlo) y a ~3.000 marines. De pie: Sengoku (pálido, "¿Azul?"), Garp (levantado), Aokiji, Kizaru (en el cráter), Akainu (bajo el muro, vivo), Shichibukai, vicealmirantes, comandantes de Barbablanca. Barbablanca ríe. Ace, de rodillas, mira a Facundo. +1.000 EXP, +3.000 F.
+## COMANDO 3 (T897)
+vamos luffy
+
+## RESPUESTA 3 (T897)
+
+> vamos luffy
+
+> —¡Vamos, Luffy!
+
+—¡¡SÍ!!
+
+Corren.
+
+Cruzan el hielo rajado y suben a la plaza por encima del muro roto, entre marines desmayados tirados en montones, con los fusiles todavía en la mano y la boca abierta. Kase va pegado a tu cuello, con las orejas hacia atrás por el viento.
+
+Los que quedan de pie intentan cerrarles el paso.
+
+Un vicealmirante de pelo rosado y espada recta, Momonga, salta delante de Luffy. Otro de cicatriz y espada enorme, Doberman, viene por el costado. Uno de seis brazos que fuma seis cigarros, Onigumo. Un gigante de peinado alto, Strawberry.
+
+Y de atrás, como un muro, llega Jinbe. Le pega a Doberman con un puño que levanta agua del aire. Ivankov aparece de la nada, gritando, y le guiña un ojo a Onigumo, que sale volando por una ráfaga que nadie entiende. Un fénix de llamas azules baja del cielo, se convierte en Marco y le cruza la pierna en la cara a Momonga.
+
+—¡Sigan! —grita Marco—. ¡Vayan por él!
+
+Siguen.
+
+Llegan al pie del cadalso. Es una plataforma de piedra alta, con una escalera ancha que sube hasta arriba, donde está Ace.
+
+Y al pie de la escalera, solo, los espera Garp.
+
+Ya no tiene la bolsa de galletas. Está de pie, con las piernas abiertas, el abrigo blanco de vicealmirante sobre los hombros y la palabra «JUSTICIA» bordada en la espalda. Tiene los puños cerrados, enormes, con los nudillos llenos de cicatrices.
+
+Le tiemblan.
+
+—Luffy.
+
+Luffy frena en seco delante de él. Se le borra la sonrisa.
+
+—Abuelo...
+
+—Soy un vicealmirante de la Marina. —La voz le sale ronca, rota por debajo—. Si quieres subir esa escalera, vas a tener que pasar por encima de tu abuelo.
+
+Se le llenan los ojos de lágrimas, pero no se mueve. Después te mira a ti.
+
+—Y tú también, muchacho del Puño del Amor.
+
+Arriba del cadalso, Sengoku se suelta del poste. El cuerpo le empieza a brillar, de adentro hacia afuera, con una luz dorada que le sale por los poros. Crece. Se le ensanchan los hombros.
+
+Ace, de rodillas entre los verdugos dormidos, grita hacia abajo con la voz rota:
+
+—¡¡Luffy!! ¡¡Váyanse!! ¡¡No vale la pena!!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 897 · ONE PIECE · DÍA 57 · 13:09       ║
+║ Marineford · pie del cadalso                 ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace. Garp bloquea el      ║
+║ paso. Sengoku se transforma.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:09, al pie del cadalso de Marineford. Jinbe, Ivankov y Marco frenan a los vicealmirantes. Garp bloquea la escalera, llorando: "Si quieres subir esa escalera, vas a tener que pasar por encima de tu abuelo. Y tú también, muchacho del Puño del Amor." Sengoku empieza a transformarse (luz dorada). Ace grita: "¡Váyanse! ¡No vale la pena!"
