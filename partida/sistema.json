@@ -1,11 +1,11 @@
 {
-  "turno": 944,
+  "turno": 945,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774, ~día 96 (unos 87 días después de irse el día 9)",
-  "hora": "~10:20 (hora de la Tierra)",
+  "hora": "~18:30",
   "edad": 18,
   "nivel": 27,
-  "exp": 222240,
+  "exp": 222740,
   "exp_siguiente_nivel": 240000,
   "fragmentos": 137581,
   "plata_local": {
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -852,6 +852,19 @@
         "Sin la debilidad del mar",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Poder de Dende (Dios de la Tierra)",
+      "de": "Dende",
+      "mundo": "dragonball",
+      "cuando": "T945: llevó a Dende al Nuevo Namek a ver a su gente y lo trajo de vuelta al templo el mismo día",
+      "incluye": [
+        "Creación de Esferas del Dragón y de su dragón, en cualquier mundo",
+        "Curación namekiana total",
+        "Vigilancia de un planeta entero desde lo alto; telepatía namekiana",
+        "Todo lo que Dende llega a hacer",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1127,13 +1140,6 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
-    },
-    {
-      "poder": "Poder de Dende (creación de Esferas del Dragón y su dragón, curación namekiana, vigilancia del planeta)",
-      "mundo": "dragonball",
-      "mision": "Llevar a Dende a ver a su gente en el Nuevo Namek y traerlo de vuelta al templo el mismo día.",
-      "dificultad": "MEDIA",
-      "emitida": "T941"
     }
   ],
   "misiones_de_copia_rechazadas": [],

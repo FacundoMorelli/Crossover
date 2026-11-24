@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T942)
-por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
-
-## RESPUESTA 1 (T942)
-
-> por que nunca lo habia visto, yo no estaba cuando las hicieron, dende, tienes ganas de ir al nuevo namek?
-
-> —Porque nunca lo había visto. Yo no estaba cuando las hicieron. Dende, ¿tienes ganas de ir al Nuevo Namek?
-
-Dende se queda quieto.
-
-Las antenas se le levantan solas, despacio, como las orejas de un perro que oye su nombre. Abre la boca. La cierra. La vuelve a abrir.
-
-—¿Al... Nuevo Namek? —Lo dice casi en un susurro—. ¿Ahora?
-
-Mira hacia arriba, al cielo azul sin nubes, como si pudiera ver a través de él hasta el otro lado de la galaxia.
-
-—Hace más de un año que no veo a nadie. Desde que me quedé en la Tierra. A Moori-sama, a mis hermanos... a Cargo. —Se le quiebra un poco la voz en el último nombre, y carraspea—. Siempre pensé que algún día iría, cuando tuviera tiempo. Pero un Dios no tiene tiempo libre. Alguien tiene que cuidar la Tierra.
-
-Baja la vista. Se mira las manos, todavía con tierra entre los dedos.
-
-—Además está lejísimos. En una nave tardaría meses.
-
-Mr. Popo da un paso al frente. Le pone una mano enorme en el hombro.
-
-—Mr. Popo cuidó la Tierra muchos años antes de Dende. Mr. Popo puede cuidarla un día.
-
-Dende levanta la cabeza y lo mira. Después te mira a ti. Se le llenan los ojos de golpe, y se los frota rápido con el dorso de la mano, sin importarle ensuciarse la cara de tierra.
-
-—¡Sí! —Lo dice tan fuerte que Kase da un respingo en tu hombro—. ¡Sí, quiero ir! ¡Quiero ir!
-
-Después se pone colorado, como si recién se diera cuenta de que gritó.
-
-—Perdón. Es que... —Se acomoda la túnica, nervioso, se sacude las rodillas, se estira las mangas—. ¿Cómo vamos a llegar? ¿Con eso de los dedos, como Goku-san? Está muy, muy lejos. ¿Puedes sentirlos desde aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 942 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
-║ Templo Sagrado · el jardín                   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Llevar a Dende al Nuevo Namek y    ║
-║ traerlo hoy. Shingeki en un día.             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T943)
+## COMANDO 1 (T943)
 le pongo una mano en el hombro y me teletransporto al nuevo namek
 
-## RESPUESTA 2 (T943)
+## RESPUESTA 1 (T943)
 
 > le pongo una mano en el hombro y me teletransporto al nuevo namek
 
@@ -117,10 +65,10 @@ Te mira largo. El pelo blanco y azul, los ojos de dos colores, el gato en el hom
 
 ---
 
-## COMANDO 3 (T944)
+## COMANDO 2 (T944)
 asi es, soy amigo de goku y sus compañeros
 
-## RESPUESTA 3 (T944)
+## RESPUESTA 2 (T944)
 
 > asi es, soy amigo de goku y sus compañeros
 
@@ -163,4 +111,79 @@ Te señala con el bastón la cúpula grande de la colina.
 
 ---
 
-ESTADO AL CIERRE: Dragon Ball, ~día 96, Nuevo Namek. Moori recibe a Facundo como amigo de Son Goku; la aldea hace una reverencia. Dende con Cargo en el pasto. Moori ofrece techo y le dice que, si el pueblo namekiano puede hacer algo por él, solo tiene que decirlo. Facundo puede responder.
+## COMANDO 3 (T945)
+simula el resto del dia hasta que volvemos a la tierra completando la mision
+
+## RESPUESTA 3 (T945)
+
+> simula el resto del dia hasta que volvemos a la tierra completando la mision
+
+El día en el Nuevo Namek dura más que en la Tierra. Los tres soles se turnan en el cielo verde, y cuando uno se esconde detrás de las colinas, otro ya está subiendo del otro lado. Nunca termina de ser de noche.
+
+Dende no para un segundo. Recorre la aldea entera de la mano de Cargo, cúpula por cúpula, saludando a todos. Le muestra a un grupo de chicos cómo cura una herida en la rodilla de uno que se cayó corriendo, y los chicos lo miran como a un héroe. Cuenta lo del Templo Sagrado, lo de Mr. Popo, lo de los guerreros de la Tierra, lo de Majin Buu. A cada rato te señala desde lejos, y los namekianos que lo escuchan se dan vuelta a mirarte.
+
+A ti te dan una cúpula vacía al costado del lago, fresca, con una ventana redonda que da al agua. Un namekiano joven te trae un cuenco con agua del lago, que es dulce y fría y te deja la cabeza clara como después de dormir. Para Kase, después de mucho deliberar entre tres ancianos, aparecen unos peces chicos y plateados que alguien pesca a mano en la orilla. Kase los olfatea con desconfianza, se come cuatro, ignora el quinto y se echa a dormir en la ventana, al sol, con la panza para arriba.
+
+A media tarde, Moori se sienta un rato contigo a la sombra de su cúpula. No pregunta de dónde vienes ni qué eres. Te habla de Namek, del viejo, del que ya no existe. De las aldeas que quemó Freezer. De los chicos que ahora crecen sin haberlo visto nunca. Se queda callado mucho tiempo, mirando el lago, y no parece que espere respuesta.
+
+Cuando el tercer sol empieza a bajar, Dende vuelve a buscarte.
+
+Tiene los ojos hinchados y la cara contenta. Detrás viene Cargo, y detrás de Cargo media aldea.
+
+La despedida es larga. Cargo abraza a Dende tres veces y le hace prometer que va a volver. Moori le pone una mano en la cabeza, entre las antenas, y le dice algo en namekiano, bajito, que hace que Dende baje los ojos y asienta. Después Moori se vuelve hacia ti y vuelve a hacer la reverencia lenta de la mañana. Toda la aldea lo imita.
+
+Kase se despierta, bosteza, salta de la ventana y te sube al hombro. Le pones la mano a Dende en el hombro, y Dende levanta la otra para saludar hasta el último segundo.
+
+Dos dedos en la frente.
+
+El Templo Sagrado está igual que como lo dejaron. En la Tierra cae la tarde: el cielo se pone naranja y violeta por encima de las nubes, y la sombra de las palmeras se alarga sobre las baldosas blancas. Mr. Popo está parado en el centro de la plataforma, exactamente donde lo dejaron, con las manos juntas en la espalda, como si no se hubiera movido en todo el día.
+
+—Mr. Popo cuidó la Tierra —dice—. No pasó nada.
+
+Dende se ríe. Le tiembla la voz.
+
+Y delante de tus ojos se abre una ventana, fría.
+
+[Misión de copia cumplida.]
+
+╔══════════════════════════════════════════════╗
+║ COPIA COMPLETADA                             ║
+║ Poder de Dende (Dios de la Tierra)           ║
+║ Dragon Ball                                  ║
+║                                              ║
+║ · Creación de Esferas del Dragón y de su     ║
+║   dragón, en cualquier mundo                 ║
+║ · Curación namekiana total                   ║
+║ · Vigilancia de un planeta entero desde      ║
+║   lo alto; telepatía namekiana               ║
+║ · Dominio total e inmediato                  ║
+║                                              ║
+║ +500 EXP                                     ║
+╚══════════════════════════════════════════════╝
+
+Dende se da vuelta hacia ti. Se seca los ojos con la manga de la túnica, sin vergüenza esta vez.
+
+—Gracias, Facundo. —Hace una reverencia torpe, todavía con la voz rota, imitando la de Moori—. No sé cómo pagarte esto. De verdad.
+
+Se endereza. Te mira con curiosidad, con la cabeza ladeada, igual que a la mañana.
+
+—Antes, en el jardín, me preguntaste por las esferas. Y Moori-sama me dijo, cuando nos despedíamos, que tenías cara de alguien que vino a buscar algo para otra persona. —Duda—. ¿Es así?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 945 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
+║ Templo Sagrado · la plataforma               ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 0 zeni                  ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Copia de Dende hecha. Volver a     ║
+║ Shingeki en un día (Ymir, Lara).             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Dragon Ball, ~día 96, atardecer, Templo Sagrado. Volvieron del Nuevo Namek; copia del poder de Dende completada (+500 EXP). Dende agradece y pregunta si Facundo vino a buscar algo para otra persona (Moori lo intuyó). Facundo puede responder.

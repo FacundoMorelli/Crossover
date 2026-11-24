@@ -12,3 +12,4 @@ DIÁLOGOS CLAVE: —
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: aparición de la nada.
 ESTADO: activo
+- T945 · Recorre la aldea con Dende todo el día. Le hace prometer que va a volver.

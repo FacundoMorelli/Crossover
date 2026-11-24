@@ -47,3 +47,4 @@
 - Días 9-~96 · (en ausencia de Facundo; se simulará lo que haga falta) Tierra en paz.
 - ~Día 96, media mañana · (T940) Facundo vuelve por una puerta al Templo Sagrado; teletransporte al jardín con Dende y Mr. Popo.
 - ~Día 96 · (T943) Facundo lleva a Dende al Nuevo Namek por Teletransportación. Reencuentro con Cargo y Moori. Mr. Popo cuida la Tierra.
+- ~Día 96 · (T945) Dende pasa el día en el Nuevo Namek y vuelve al templo al atardecer con Facundo.

@@ -24,3 +24,4 @@ ESTADO: bien.
 - T941 · Crea una esfera de muestra (cuatro estrellas) y la deshace: "Primero se le da forma, después un corazón, después el número, y al final el nombre del dragón." No hará otro juego (habría dos dragones). "¿Para qué querías verlo, Facundo?"
 - T942 · Hace más de un año que no ve a Moori, sus hermanos, Cargo. "¡Sí, quiero ir!" "¿Con eso de los dedos, como Goku-san? ¿Puedes sentirlos desde aquí?"
 - T943 · Llega al Nuevo Namek con Facundo. Se abraza llorando con Cargo.
+- T945 · Día en el Nuevo Namek: recorre la aldea con Cargo, cura a un chico. Promete volver. Vuelve al templo con Facundo. "Gracias, Facundo. No sé cómo pagarte esto." "Moori-sama dijo que tenías cara de alguien que vino a buscar algo para otra persona. ¿Es así?" (Facundo copió su poder.)
