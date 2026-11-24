@@ -10,3 +10,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 - T500 · En el patio con Eren y Mikasa. Pregunta si Zeke dijo algo ya.
 - T501 · Se queda en Mitras. "Cuéntame después todo lo que diga."
+- T931 · Día 48: marca con alfileres las posiciones de la demostración.

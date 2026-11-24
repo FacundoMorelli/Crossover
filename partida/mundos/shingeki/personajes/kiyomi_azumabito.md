@@ -12,3 +12,4 @@ ESTADO: activo
 - T856 · Facundo: la compañera tiene una venda en la muñeca; casi seguro tiene la marca. Kiyomi se emociona. Pide conocerla esta noche.
 - T857 · Propone a Hizuru como primer aliado formal de Paradis a cambio de prioridad en los recursos (piedra que arde sin humo). Sospecha que la barrera fue de Facundo.
 - T858 · Día 40 · Conoce a Mikasa: la marca está. Llora. Acuerdo de principio con Historia.
+- T931 · Día 49: llega con la delegación de Hizuru; en la cena habla bajito con Mikasa; no le contesta a un embajador sobre Facundo. Día 50 en el mirador.

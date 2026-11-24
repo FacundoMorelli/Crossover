@@ -85,3 +85,6 @@
 - Días 45-47 · (T862) Preparativos de la demostración (día 50, Wall Rose). Delegaciones de Hizuru y cuatro países zarpan hacia Paradis en barco de Hizuru (llegan el día 49).
 - Día 47 10:25 · (T867) Facundo se va por una puerta desde la sala de mapas del palacio. Testigos: Erwin, Hange, Armin. Promete volver el día 50.
 - Día 48 12:21 · (T930) Facundo vuelve por una puerta a la sala de mapas del palacio de Mitras, dos días antes de la demostración. Erwin y Hange presentes.
+- Día 48 tarde · (T931) Plan de la demostración: 1 km de Wall Rose al norte de Karanes, banderas rojas, mirador a 300 m.
+- Día 49 · (T931) Llega el barco de Hizuru al puerto improvisado: delegaciones de Hizuru (Kiyomi), cuatro países y Marley (el general Magath en persona). Cena en el palacio presidida por Historia.
+- Día 50 10:30-12:00 · (T931) Todos en el mirador de Wall Rose. Hange muestra un colosal dentro de la pared. Historia habla. 12:00: Erwin le cede la palabra a Facundo.

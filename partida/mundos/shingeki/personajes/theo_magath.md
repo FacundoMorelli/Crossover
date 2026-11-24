@@ -27,3 +27,4 @@ ESTADO: activo
 - T853 · Baja del palco y firma el tratado como representante militar de Marley.
 - T860 · Día 44 · En su casa, con una pistola en la escalera, rodeado por el golpe de Calvi. Facundo duerme a todos con Haki del Rey. "Ah. Usted."
 - T861 · Plan: arrestar a Calvi y a los golpistas con sus oficiales leales; al amanecer, al Primer Ministro con los nombres de los dos ministros; Willy habla a las 9. Pide que Facundo se vaya antes de que lleguen sus hombres.
+- T931 · Día 49: llega en persona a Paradis con dos oficiales; le da la mano a Erwin en la escalinata del palacio. No prueba el vino. Día 50 en el mirador, ya sabía de los colosales.

@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T928)
-le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
-
-## RESPUESTA 1 (T928)
-
-> le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
-
-La besas. Corto, esta vez. Con una mano en su nuca.
-
-> —Tranquila. Puedes irte.
-
-Robin cierra los ojos un segundo. Después te suelta el sobretodo, despacio, dedo por dedo.
-
-Te das vuelta hacia Corvin.
-
-> —Eh, una pregunta. ¿Tienen problema si en algún momento voy a verla a la isla donde esté? No se preocupen, no voy a decir nada sobre su isla ni nada. Tampoco sabría cómo llegar en barco.
-
-Corvin se queda callado.
-
-Detrás de él, dos de sus hombres intercambian una mirada rápida. Uno se acomoda la mano en el cinturón, cerca del arma, sin pensarlo, y la vuelve a sacar.
-
-Corvin baja la mano que le había tendido a Robin. Se pasa el pulgar por la cicatriz del mentón. Te mira largo, de arriba abajo, y después mira el puente: las cadenas rotas, los guardias atados, los miles de presos libres.
-
-—El lugar al que vamos no existe en ningún mapa —dice al fin, despacio—. Hay gente que dio la vida para que siga así. No es algo que yo pueda decidir.
-
-Hace una pausa.
-
-—Eso lo decide el comandante. Se lo voy a decir. —Le sale una media sonrisa cansada, la primera—. Aunque, si usted llegó hasta la mitad de este mar sin barco y antes que nosotros, no creo que una isla escondida lo vaya a frenar mucho.
-
-Robin se ríe, bajito, con la mano delante de la boca.
-
-—No lo va a frenar —le dice a Corvin, tranquila—. Créame.
-
-Corvin suspira por la nariz. Le vuelve a tender la mano.
-
-Robin se la toma esta vez.
-
-Camina con él hasta la pasarela del barco. Los presos que están cerca se apartan para dejarla pasar, y algunos le inclinan la cabeza sin saber muy bien por qué. Kase la sigue con los ojos desde tu hombro, con la cola quieta.
-
-Al pie de la pasarela, Robin se detiene.
-
-Se da vuelta.
-
-Mira a Luffy primero, que la saluda con el brazo estirado, muy alto, por encima de la cabeza de todos.
-
-—¡¡Nos vemos en Sabaody, Robin!! ¡¡Dos años!!
-
-Robin le sonríe. Después te mira a ti. No dice nada. Se lleva una mano a la boca y se toca los labios con los dedos, una sola vez, mirándote.
-
-Después sube.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 928 · ONE PIECE · DÍA 57 · 17:49       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Robin se va. Después, Rayleigh.    ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T929)
+## COMANDO 1 (T929)
 bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
 
-## RESPUESTA 2 (T929)
+## RESPUESTA 1 (T929)
 
 > bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
 
@@ -127,10 +59,10 @@ Luffy lo señala con el dedo, con los ojos brillando.
 
 ---
 
-## COMANDO 3 (T930)
+## COMANDO 2 (T930)
 bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
 
-## RESPUESTA 3 (T930)
+## RESPUESTA 2 (T930)
 
 > bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
 
@@ -203,4 +135,78 @@ Erwin no se mueve. Te mira de arriba abajo: el sobretodo, el gato, la cara. Mira
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, día 48 12:21, sala de mapas del palacio de Mitras. Facundo acaba de llegar desde One Piece (Luffy quedó con Rayleigh en el bar de Shakky). Erwin y Hange, sobre los planos de la demostración, lo ven: "Día cuarenta y ocho. Llega dos días antes." Facundo puede actuar.
+## COMANDO 3 (T931)
+no, aparenta unos 18 o 19 pero estuvo 60 años de titan, asi que dejala como mayor, simula hasta el dia 50 en la demostracion
+
+## RESPUESTA 3 (T931)
+
+> simula hasta el dia 50 en la demostracion
+
+Erwin no pide explicaciones. Hange sí, durante una hora entera, con el lápiz de vuelta en la boca y los anteojos empañados de entusiasmo, hasta que Erwin la manda a buscar a Armin para repasar el plan con los tres juntos.
+
+La tarde del día cuarenta y ocho se va entera en la sala de mapas. El tramo elegido es un kilómetro de Wall Rose al norte de Karanes, deshabitado de los dos lados desde hace años, con un mirador de madera recién construido sobre la muralla, a trescientos metros, para las delegaciones. Armin marca con alfileres dónde va a estar cada uno. Hange calcula cuántos colosales debería haber adentro de ese tramo según lo que se vio en el de Wall Maria. Erwin repasa en voz alta quién habla primero, quién después y qué se dice si algo sale mal.
+
+A la noche, Ymir aparece en la puerta de la sala, apoyada en el marco con los brazos cruzados, y se queda mirándote un rato largo antes de decir nada.
+
+—Dos días antes —dice al fin, con media sonrisa—. Mira tú. ¿Te extrañaste, lindo?
+
+Kase baja de tu hombro, cruza la sala y se le sienta en los pies.
+
+El día cuarenta y nueve amanece con niebla.
+
+A media mañana llega el aviso desde la costa: el barco de Hizuru entró en la bahía con las delegaciones a bordo. Se los recibe en el puerto improvisado que la Guarnición levantó en las últimas semanas, y desde ahí los traen en carruaje a Mitras. Son cinco comitivas. La de Hizuru, con Kiyomi Azumabito al frente, que baja del carruaje mirando todo con el abanico abierto y los ojos muy atentos. Cuatro países más, con embajadores de caras desconfiadas que nunca pisaron la isla de los demonios y miran a los soldados de Paradis como si esperaran verlos transformarse en cualquier momento.
+
+Y una sexta, que nadie esperaba hasta último momento: Marley. El general Magath en persona, con dos oficiales y uniforme de gala, rígido como una tabla, que le estrecha la mano a Erwin en la escalinata del palacio delante de todos sin cambiar la cara.
+
+Esa noche hay cena en el palacio. Historia preside la mesa. Kiyomi se sienta al lado de Mikasa y no deja de hablarle bajito. Magath no prueba el vino. Los embajadores de los cuatro países te miran desde el otro lado de la mesa toda la cena: el Emisario del Gato, el de la foto de los diarios, el del escenario de Liberio. Uno de ellos le pregunta a Kiyomi en voz baja, en un idioma que no es el de la isla, si es cierto lo que se dice de ti. Kiyomi sonríe detrás del abanico y no contesta.
+
+Eren no come. Mira su plato toda la noche.
+
+El día cincuenta sale limpio, sin una nube.
+
+A las diez y media, la comitiva sube a Wall Rose por los elevadores de la Guarnición. Arriba, el viento sopla fuerte y frío. Desde el mirador de madera se ve todo: hacia el sur, el pasto de Wall Rose y los techos de Karanes a lo lejos; hacia el norte, el campo vacío entre las murallas, y la muralla misma, que se estira de horizonte a horizonte, gris, enorme, como el lomo de un animal dormido.
+
+Un kilómetro de esa muralla está marcado con banderas rojas, una en cada punta.
+
+En el mirador están todos. Historia, con capa blanca y la corona fina en el pelo, en el centro. Zackly a un lado, Pixis al otro, con la petaca escondida en la manga. Erwin detrás de la reina. Levi, apoyado en la baranda con cara de aburrido, sin sacarle el ojo de encima a los extranjeros. Hange, con una libreta. Armin, con otra. Mikasa, al lado de Kiyomi. Eren, un poco apartado, con las manos en los bolsillos, mirando la muralla.
+
+Ymir, sentada en la baranda con las piernas colgando hacia el vacío, comiendo una manzana.
+
+Frente a ellos, las delegaciones. Kiyomi con el abanico cerrado. Los cuatro embajadores, juntos, desconfiados. Magath, solo, un paso adelante de sus oficiales, con las manos detrás de la espalda.
+
+A las once menos cinco, Hange se acerca a la pared de la muralla con una linterna de aceite y abre una de las grietas que la Legión destapó la semana anterior. Les muestra a los embajadores lo que hay adentro: entre la piedra, a oscuras, una cara. Enorme. Sin piel. Con los ojos abiertos.
+
+Uno de los embajadores retrocede tres pasos y se tapa la boca. Otro se persigna. Magath no se mueve; ya lo sabía.
+
+—Hay así uno cada pocos metros —explica Hange, entusiasmada, demasiado—. Desde hace más de cien años. A lo largo de las tres murallas. Son miles.
+
+Historia da un paso adelante.
+
+—Esto es lo que el mundo teme de nosotros —dice, con la voz clara, para que se oiga sobre el viento—. Y esto es lo que hoy vamos a empezar a deshacer delante de ustedes.
+
+A las doce en punto, Erwin se da vuelta y te mira.
+
+Todos se dan vuelta y te miran.
+
+El viento te sacude el sobretodo. Kase, en tu hombro, entrecierra los ojos contra el sol. Debajo, la muralla marcada con las banderas rojas espera, quieta, con sus caras dormidas adentro.
+
+—Cuando usted diga —dice Erwin.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 931 · SHINGEKI · DÍA 50 · 12:00        ║
+║ Wall Rose, norte de Karanes · el mirador     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La demostración: 1 km de Wall Rose ║
+║ con sus colosales, ante el mundo.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:00, mirador sobre Wall Rose al norte de Karanes. Todas las delegaciones (Hizuru, cuatro países, Marley con Magath) y la cúpula de Paradis presentes. Hange mostró una cara de colosal en la pared. Historia habló. Erwin: "Cuando usted diga." Todos miran a Facundo. Facundo puede actuar.

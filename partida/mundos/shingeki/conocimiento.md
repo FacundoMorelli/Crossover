@@ -168,3 +168,4 @@
 - Erwin, Hange, Armin · T866 · Por Facundo: se va, pero estará el día 50 sin falta (quizá llegue ese mismo día).
 - Erwin, Hange, Armin · T867 · Ven a Facundo abrir una puerta de luz en la sala de mapas y cruzarla con el gato. Saludos para Historia e Ymir ("ya la despedí lo suficientemente bien a ella").
 - Erwin, Hange · T930 · Día 48 · Ven a Facundo volver por una puerta a la sala de mapas, dos días antes de lo prometido.
+- Embajadores de cuatro países, Magath y sus oficiales, Kiyomi · T931 · Ven en persona al Emisario del Gato en Paradis (cena del día 49) y los colosales dentro de Wall Rose (día 50).

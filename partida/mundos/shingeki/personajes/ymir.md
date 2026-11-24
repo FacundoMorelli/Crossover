@@ -28,3 +28,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T862 · Día 47 · Desayuno: "Tienes cara de que te vas a ir otra vez, lindo."
 - T863 · Facundo la teletransporta a su cuarto, la empuja contra la pared y la besa. Le devuelve el beso. "Si te vas a ir otra vez... esta vez no me vas a dejar con las ganas, lindo." RELACIÓN: pareja.
 - T864 · Día 47 · Con Facundo en su cuarto (fundido). Después, en su pecho: "Ahora sí te puedes ir. Pero vuelve, lindo. Que esto no lo hago con cualquiera."
+- T931 · Noche del día 48: "Dos días antes. ¿Me extrañaste, lindo?" Día 50: en la baranda del mirador comiendo una manzana.

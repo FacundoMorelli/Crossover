@@ -29,3 +29,4 @@ ENCUENTROS:
 - T827 · Le cuenta a Facundo a solas los sueños desde la ceremonia de medallas (besó la mano de Historia): escenario de noche, fuego, titán con forma de martillo, él mayor. "A ti no te veo. En ninguno." Pregunta si el futuro ya cambió.
 - T828 · Facundo le dice que el futuro cambió y que nunca les haga caso; que tal vez pueda revivir a los comidos por titanes. "¿Mi mamá?" Promete callar y no hacer caso: "Si funciona, la primera es ella."
 - T858 · Días 41-43 · Ya no sueña con fuego: sueña "en blanco".
+- T931 · No come en la cena del día 49. Día 50 en el mirador, apartado, mirando la muralla.
