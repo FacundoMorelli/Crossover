@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T827)
-hola eren, tenemos que hablar a solas
-
-## RESPUESTA 1 (T827)
-
-> hola eren, tenemos que hablar a solas
-
-> —Hola, Eren. Tenemos que hablar a solas.
-
-Eren baja el cuchillo de madera. Mira a Levi.
-
-Levi te mira a ti un segundo, con esos ojos grises que no dicen nada, y después se encoge de hombros.
-
-—Cinco minutos. —Le tira el cuchillo de madera a Mikasa, que lo atrapa al vuelo sin mirar—. Después sigues. Te faltan cien cortes.
-
-Mikasa da un paso hacia Eren.
-
-—Eren...
-
-—Está bien, Mikasa. —No la mira—. Ya vuelvo.
-
-Mikasa se queda en el patio, con los dos cuchillos de madera en las manos y la bufanda tapándole media cara. Te sigue con la mirada todo el camino.
-
-Eren te lleva por una escalera de madera exterior, desvencijada, hasta el techo plano del depósito del cuartel. Desde ahí se ven los techos de Mitras, el palacio, Wall Sina a lo lejos y el sol que termina de salir. Kase salta de tu hombro a la chimenea y se sienta a tomar sol.
-
-Eren se sienta en el borde, con los pies colgando. Tarda en hablar.
-
-—Hubo una ceremonia. —Mira el palacio a lo lejos—. Tres días después de que te fuiste. Medallas para todos los de Shiganshina. Historia nos las daba una por una, y había que besarle la mano.
-
-Se mira la mano derecha, abierta.
-
-—Cuando le toqué la mano... vi cosas.
-
-Cierra el puño.
-
-—Desde ese día sueño con ellas. Todas las noches. —Habla rápido, bajo, como si tuviera miedo de que alguien lo escuche—. Un escenario de noche, enorme, con cientos de personas mirando. Banderas. Después fuego. Gente gritando. Un titán gigante con forma de... de martillo, como de piedra blanca. Y yo. —Traga saliva—. Yo, pero más grande. Con el pelo largo. Mirando todo eso como si lo hubiera hecho yo.
-
-Se da vuelta para mirarte. Tiene los ojos rojos de no dormir.
-
-—Son recuerdos, Facundo. No son sueños. Sé que son recuerdos. Pero de cosas que todavía no pasaron.
-
-Hace una pausa.
-
-—Y a ti no te veo. —Lo dice muy despacio—. En ninguno. Nunca. Busco y busco y no estás. Es como si no existieras.
-
-Te mira fijo, con algo entre miedo y esperanza en la cara.
-
-—¿Eso qué significa? ¿Que lo que veo ya no va a pasar? ¿Que el futuro cambió por ti?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 827 · SHINGEKI · DÍA 35 · 06:35        ║
-║ Mitras · techo del cuartel de la Legión      ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la chimenea, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Hablar con Eren.                             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T828)
+## COMANDO 1 (T828)
 creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
 
-## RESPUESTA 2 (T828)
+## RESPUESTA 1 (T828)
 
 > creo que si, el futuro ya cambió eren, asi que no le hagas caso a esos futuros si? por todo lo que quieras, nunca les hagas caso, creo que tengo una forma de revivir a los que murieron comidos por titanes, no digas nada todavia ni te hagas ilusiones, por que no estoy seguro que vaya a servir
 
@@ -129,10 +63,10 @@ Abajo, en el patio, se oye la voz seca de Levi.
 
 ---
 
-## COMANDO 3 (T829)
+## COMANDO 2 (T829)
 bajamos con eren al patio
 
-## RESPUESTA 3 (T829)
+## RESPUESTA 2 (T829)
 
 > bajamos con eren al patio
 
@@ -183,4 +117,56 @@ Levi se da vuelta hacia ti. Te mira de arriba abajo una sola vez.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:40, patio del cuartel de la Legión. Mikasa le preguntó a Facundo qué le dijo a Eren; Eren cumplió la promesa ("Estoy bien"). Levi mandó a Eren a lavarse la cara y le dijo a Facundo que Erwin lo espera en su oficina del segundo piso (y que se limpie los pies).
+## COMANDO 3 (T830)
+subo a la oficina de erwin
+
+## RESPUESTA 3 (T830)
+
+> subo a la oficina de erwin
+
+Te limpias los borceguíes en el felpudo de la puerta, a conciencia. Desde el patio, Levi te mira hacerlo y no dice nada, pero asiente apenas.
+
+La escalera de madera está barrida y huele a jabón. Al final del pasillo del segundo piso hay una puerta entreabierta, con luz de lámpara.
+
+La oficina de Erwin es chica, con una ventana al patio y un escritorio cubierto de papeles hasta los bordes. En la pared hay un mapa enorme de Paradis y otro más chico, hecho a mano con tinta nueva: Liberio, con la zona de internamiento, el puerto, la mansión Tybur y una plaza grande marcada con un círculo rojo. Hay cartas abiertas, listas de nombres, un vaso de agua a medio tomar y una taza de café frío.
+
+Erwin está de pie junto a la ventana. Se da vuelta cuando entras. El brazo derecho termina a la altura del codo, con la manga cosida. Tiene la cara cansada de alguien que no durmió bien en semanas y los ojos azules tan atentos como siempre.
+
+Te tiende la mano izquierda.
+
+—Facundo. —Te aprieta la mano con firmeza—. Historia me mandó un mensajero hace diez minutos. Dice que llegaste por la escalinata con el sol. —Mira a Kase—. Y que los dos están enteros.
+
+Te señala la silla frente al escritorio y se sienta en la suya.
+
+—Voy a ser directo, porque nos quedan cinco días. —Apoya la mano sobre los papeles—. La comitiva está lista. La reina, Ymir, Levi, Hange, Mikasa, Eren y yo. Pixis consiguió ropa de gala al estilo de Marley, copiada de los dibujos que trajiste. Historia escribió un discurso y lo practica todas las noches delante de Ymir.
+
+Desliza un papel hacia ti: una lista con tres renglones subrayados.
+
+—Pero tengo tres problemas. —Los toca uno por uno con el dedo—. Uno: no sabemos nada de Tybur desde hace veinticuatro días. No sabemos si sigue firme, si Marley lo descubrió, si cambió de idea. Dos: no sabemos dónde vamos a dormir en Liberio, ni cómo vamos a entrar a la fiesta sin que nos maten en la puerta. Tres: no sabemos qué hacer si es una trampa. Si Marley nos espera con todos sus guerreros y sus cañones.
+
+Se reclina en la silla.
+
+—Y hay una cosa más. —Lo dice más lento—. Zeke pide verte. Todas las semanas. Ayer le dijo a Levi que lo que se guardó «para después» es sobre la fiesta. Que solo te lo va a decir a ti.
+
+Te mira fijo, con los ojos azules muy quietos.
+
+—Necesito saber cuál es tu plan para los próximos cinco días.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 830 · SHINGEKI · DÍA 35 · 06:45        ║
+║ Mitras · oficina de Erwin                    ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Plan para Liberio. Zeke quiere hablar.       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:45, oficina de Erwin en el cuartel de la Legión (Mitras). Erwin plantea tres problemas: sin noticias de Willy Tybur en 24 días; alojamiento y entrada a la fiesta en Liberio; qué hacer si es una trampa. Zeke pide ver a Facundo: lo que se guardó es sobre la fiesta. Erwin: "Necesito saber cuál es tu plan para los próximos cinco días."

@@ -24,3 +24,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T507 · Aprueba el equipo. Irá por la carta de Historia.
 - T508 · Carta mañana temprano. "¿Cuándo salen? ¿Y cómo piensas cruzar el mar?"
 - T510 · De acuerdo con salir mañana. Pide que Facundo lo lleve a Mitras ahora.
+- T830 · Oficina en Mitras. Repasa la comitiva; dudas sobre Willy (24 días sin contacto), alojamiento y una posible traición. Zeke dice que lo que se reservó es sobre la fiesta. "Necesito saber tu plan para los próximos cinco días."

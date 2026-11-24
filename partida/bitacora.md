@@ -828,3 +828,4 @@ T826 · Shingeki · Mitras · Va al cuartel de la Legión: Levi y Eren entrenan;
 T827 · Shingeki · Mitras · A solas con Eren en el techo: los sueños del futuro; Facundo no aparece en ninguno.
 T828 · Shingeki · Mitras · Le dice a Eren que el futuro cambió y que quizá pueda revivir a los comidos por titanes. Eren: "¿Mi mamá?"
 T829 · Shingeki · Mitras · Patio: Mikasa pregunta qué le dijo a Eren; Eren calla. Levi: Erwin quiere verlo.
+T830 · Shingeki · Mitras · Oficina de Erwin: le pide el plan para los próximos cinco días.
