@@ -1,13 +1,13 @@
 {
-  "turno": 1009,
+  "turno": 1010,
   "mundo_actual": "fairytail",
   "fecha_local": "X784, julio · Día 1",
-  "hora": "09:09",
+  "hora": "09:11",
   "edad": 18,
   "nivel": 27,
-  "exp": 224000,
+  "exp": 224900,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107537,
+  "fragmentos": 107562,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1166,6 +1166,13 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
+    },
+    {
+      "poder": "Magia de Dragon Slayer de Hierro — Gajeel Redfox",
+      "mundo": "fairytail",
+      "mision": "Que Gajeel Redfox coma, por su propia voluntad, hierro que tú le ofrezcas.",
+      "dificultad": "MEDIA",
+      "emitida": "T1010"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -1606,6 +1613,13 @@
       "turno": 1009,
       "fragmentos": 41,
       "exp": 1230
+    },
+    {
+      "mundo": "fairytail",
+      "quien": "Gajeel Redfox (Phantom Lord)",
+      "turno": 1010,
+      "fragmentos": 25,
+      "exp": 900
     }
   ],
   "viaje": {
