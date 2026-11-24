@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T796)
-espero a que se despierte garp
-
-## RESPUESTA 1 (T796)
-
-> espero a que se despierte garp
-
-Te sientas a esperar.
-
-Los primeros minutos nadie sabe qué hacer. Garp ronca a caballo en la silla, con la galleta colgando de la boca y la burbuja de moco inflándose y desinflándose. Chopper se le acerca en puntas de pezuña, lo mira de cerca con cara de médico y vuelve corriendo a esconderse detrás de Sanji.
-
-Koby es el primero en moverse. Se sienta en el borde de la mesa al lado de Luffy, nervioso, con las manos en las rodillas.
-
-—Luffy-san... Desde que nos separamos, entreno con Garp-san todos los días. Me pega mucho. —Se ríe, con los ojos húmedos—. Pero me estoy volviendo fuerte. Voy a ser almirante. Lo prometí.
-
-Luffy se ríe feliz, de oreja a oreja, y le pega una palmada en la espalda que casi lo tira de la mesa.
-
-—¡Shishishi! ¡Estás enorme, Koby! ¡Antes eras así de chiquito!
-
-Zoro baja de la azotea por la escalera, con una toalla al cuello, y se detiene en la puerta mirando los uniformes de la Marina. Helmeppo, contra la pared rota, se pone rígido y lleva la mano a los cuchillos. Zoro lo mira de arriba abajo, sin interés, y se sienta en el piso. Helmeppo suelta el aire despacio.
-
-Sanji, resignado, les sirve té a los marines.
-
-A las diez y treinta y dos, la burbuja de la nariz de Garp revienta. Abre los ojos.
-
-—¿Eh? —Mira alrededor—. ¿Me dormí?
-
-—Veintitrés minutos —dice Helmeppo.
-
-—¡Bwahahaha! —Garp se termina la galleta de un bocado, como si nada—. ¿Dónde estaba? Ah, sí. —Te señala—. Tú. La Marina. Piénsalo. No hay apuro. Bueno, sí hay un poco de apuro, porque si no te tengo que arrestar.
-
-Se rasca la barba y mira a Luffy, sentado en la mesa con la galleta robada.
-
-—Y tú, mocoso, ¿ya conociste a tu padre?
-
-Luffy parpadea.
-
-—¿Eh?
-
-—Tu padre. —Garp lo dice como quien comenta el clima, metiendo la mano en la bolsa de galletas—. Monkey D. Dragon. El revolucionario. El hombre más buscado del mundo.
-
-El comedor se queda helado.
-
-Nami deja caer la taza. Usopp abre la boca y no le sale nada. Chopper se pone rígido. Sanji se queda con la tetera en el aire, el té cayendo afuera de la taza. Zoro abre un ojo. Robin levanta la vista del libro despacio, con la cara seria.
-
-Un segundo. Dos.
-
-—¡¡¿¿QUÉÉÉÉ??!! —grita toda la tripulación al mismo tiempo.
-
-Luffy ladea la cabeza, con la galleta a medio camino de la boca.
-
-—¿Tengo papá?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 796 · ONE PIECE · DÍA 38 · 10:32       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T797)
+## COMANDO 1 (T797)
 eh, quienes son los revolucionarios?
 
-## RESPUESTA 2 (T797)
+## RESPUESTA 1 (T797)
 
 > eh, quienes son los revolucionarios?
 
@@ -133,10 +63,10 @@ Usopp levanta la mano, temblando.
 
 ---
 
-## COMANDO 3 (T798)
+## COMANDO 2 (T798)
 ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
 
-## RESPUESTA 3 (T798)
+## RESPUESTA 2 (T798)
 
 > ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
 
@@ -177,4 +107,60 @@ Pero antes de que nadie diga nada más, Luffy salta de la mesa, cruza el comedor
 
 ---
 
-ESTADO AL CIERRE: comedor destrozado. Facundo dijo que le vio la cara a Dragon en Loguetown (T390-391: Dragon le dijo "Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"). Garp, serio, pregunta si le dijo algo. Luffy lo sacude de las solapas: "¿Cómo es? ¿Se parece a mí?". Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos (Día 38 a la tarde).
+## COMANDO 3 (T799)
+es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
+
+## RESPUESTA 3 (T799)
+
+> es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
+
+> —Es alto, con capa verde y un tatuaje rojo en la cara. Le pregunté quién era y me dijo: «Alguien que tiene curiosidad por ver qué hacen ustedes con el mar».
+
+Luffy se queda quieto, con las manos todavía agarradas a tu sobretodo. Abre la boca. La cierra.
+
+Detrás de él, Garp cierra los ojos.
+
+Se queda así un momento, con las manos apoyadas sobre el respaldo de la silla. Después se le escapa una risa baja, cansada, que no se parece en nada a sus carcajadas.
+
+—Ese es él. —Sacude la cabeza—. Siempre hablando como si el mundo fuera un experimento y él lo estuviera mirando por un agujero en la pared. Desde chico era así.
+
+Se pasa la mano por la cicatriz del ojo.
+
+—Curiosidad por ver qué hacen con el mar... —Mira a Luffy—. Ese desgraciado se paró en medio de una calle llena de marines para ver a su hijo cinco minutos. Y lo único que dijo fue eso.
+
+Luffy suelta tus solapas despacio. Se queda mirando el piso un momento, con el ceño fruncido, pensando con todas sus fuerzas.
+
+Y después sonríe de oreja a oreja.
+
+—¡Entonces que mire! —Levanta el puño—. ¡Voy a ser el Rey de los Piratas! ¡Que mire eso!
+
+Garp lo mira un segundo y se le escapa la carcajada de siempre.
+
+—¡Bwahahaha! ¡Igualito a los dos! ¡Qué familia de idiotas!
+
+Se da vuelta hacia la pared rota, donde Koby y Helmeppo siguen tiesos como estatuas.
+
+—Ustedes dos. —Los señala con una galleta—. Lo que oyeron en esta casa no sale de esta casa. Ni en un informe, ni en una borrachera, ni dormidos. ¿Entendido?
+
+—¡S-sí, Garp-san!
+
+Robin sigue mirándote desde el sillón, en silencio, con el libro cerrado sobre las rodillas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 799 · ONE PIECE · DÍA 38 · 10:36       ║
+║ Water 7 · casa de la Galley-La               ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el alféizar, al sol                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Barco nuevo en construcción (4-5   ║
+║ días). Salir de One Piece antes del Día 49.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: comedor destrozado. Facundo describió a Dragon; Garp confirmó y les ordenó a Koby y Helmeppo callar. Luffy: "¡Que mire! ¡Voy a ser el Rey de los Piratas!". Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos (Día 38 a la tarde).

@@ -7,3 +7,4 @@ QUÉ SABE DE FACUNDO: lo que vio en la calle; probablemente el cartel.
 TASACIÓN: sin datos.
 ESTADO: activo
 - T391 · A "¿quién eres?": "Alguien que tiene curiosidad por ver qué hacen ustedes con el mar." Desaparece en el viento.
+- T799 · Facundo describe la cara de Dragon (alto, capa verde, tatuaje rojo) y su frase de Loguetown, delante de Garp y la tripulación.
