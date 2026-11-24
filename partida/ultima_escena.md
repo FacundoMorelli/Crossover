@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T909)
-estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
-
-## RESPUESTA 1 (T909)
-
-> estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
-
-> —Están todos bien. Cada uno está en una isla. Luffy, creo que lo mejor es que les mandemos un mensaje a todos. Todavía no están preparados para el Nuevo Mundo. Creo que es mejor que entrenen dos años en las islas a las que cayeron, y después nos juntamos todos en Sabaody.
-
-Luffy suelta el aire de golpe, como si lo hubiera tenido guardado desde el archipiélago. Se le aflojan los hombros.
-
-—Están bien... —Se ríe, corto, con los ojos brillosos—. Shishi... Están bien.
-
-Después oye el resto, y la sonrisa se le congela.
-
-—¿Dos años?
-
-Se queda mirándote con la boca abierta. Después mira el mar. Después se mira las manos, que todavía tienen las marcas rojas de haber agarrado las esposas de piedra marina de Ace.
-
-No dice nada durante un rato largo. Las velas crujen arriba. Alguien grita una orden en la cubierta de otro barco.
-
-—Yo quería verlos ya —dice al fin, bajito—. A todos. Ahora mismo.
-
-Aprieta los puños.
-
-—Pero el oso... Ese tipo los hizo desaparecer a todos delante de mí, y yo no pude hacer nada. Y el almirante de la luz también. Y hoy... —Mira a Ace de reojo—. Hoy, si no estabas tú, Ace se moría. Y yo no habría podido hacer nada otra vez.
-
-Levanta la cabeza. Ya no tiene los ojos brillosos. Tiene la misma cara que tenía en el techo del Juzgado de Enies Lobby.
-
-—Tienes razón. No soy lo bastante fuerte. Ninguno lo es. —Se acomoda el sombrero de paja con una mano—. Dos años. Y después, al Nuevo Mundo.
-
-Ace no dice nada. Le pone una mano en la cabeza, encima del sombrero, y se la deja ahí.
-
-Desde la proa, Barbablanca se ríe, bajo, con el pecho.
-
-—Gurarara... Esperar dos años, a tu edad. —Te mira a ti—. Ese consejo te lo dio alguien que ya tuvo que esperar mucho, ¿eh, mocoso?
-
-Luffy te agarra del brazo, de golpe, con los ojos grandes.
-
-—¡Oye, Facundo! ¿Y cómo les avisamos? ¡Están todos en islas distintas, no tenemos Den Den Mushi de nadie! ¡Si no se enteran, van a volver todos a Sabaody mañana!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 909 · ONE PIECE · DÍA 57 · 13:32       ║
-║ Mar abierto, frente a Marineford · Moby Dick ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a los ocho: dos años, y     ║
-║ Sabaody. Shingeki: antes del D59 16:30.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T910)
+## COMANDO 1 (T910)
 mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
 
-## RESPUESTA 2 (T910)
+## RESPUESTA 1 (T910)
 
 > mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
 
@@ -113,10 +55,10 @@ Barbablanca no se mueve de la proa. Solo te mira, esperando.
 
 ---
 
-## COMANDO 3 (T911)
+## COMANDO 2 (T911)
 si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
 
-## RESPUESTA 3 (T911)
+## RESPUESTA 2 (T911)
 
 > si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
 
@@ -171,4 +113,66 @@ Luffy aterriza a tu lado de un salto, con el puño en alto, los ojos brillando y
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:36, Moby Dick. El Bankai queda sobre la flota de Barbablanca. Despedida de Barbablanca y Ace; Ace: "Cuídamelo." Luffy, al lado de Facundo, pregunta a quién van a ver primero. Facundo puede responder.
+## COMANDO 3 (T912)
+eh vamos con zoro
+
+## RESPUESTA 3 (T912)
+
+> eh vamos con zoro
+
+> —Eh... Vamos con Zoro.
+
+Le pones la mano en el hombro a Luffy. Dos dedos en la frente. Buscas la presencia filosa y pesada del oeste, la que se siente como una espada clavada en el piso, y te agarras de ella.
+
+La cubierta del Moby Dick desaparece.
+
+Lo primero que llega es el olor: tierra mojada, madera podrida, pólvora vieja. Después, el frío. Después, el silencio.
+
+Están en un bosque muerto. Los árboles son grises, retorcidos, sin una sola hoja, y entre los troncos flota una niebla baja que no deja ver el suelo. Arriba, el cielo es de un gris pesado, del color de la ceniza, y el sol no se ve por ningún lado. Más allá de los árboles, sobre una colina, se recortan las ruinas negras de un castillo enorme, con las torres rotas.
+
+Y está lleno de ruido.
+
+Gritos. Golpes de acero contra acero. Algo grande que cae y rompe ramas.
+
+A treinta metros, en un claro entre los troncos, Zoro pelea contra una docena de monos.
+
+No son monos comunes. Son babuinos enormes, más altos que un hombre, con cicatrices en la cara y armaduras viejas de soldado puestas encima del pelo gris. Tienen espadas, lanzas, hachas. Y las usan bien: rodean a Zoro, lo atacan de a tres, fintan, cubren los huecos.
+
+Zoro está lleno de vendas. Le cruzan el pecho, los brazos, la frente. Algunas están manchadas de rojo y se le están soltando con cada movimiento. Tiene las tres espadas afuera, Wado en la boca, y respira con los dientes apretados alrededor de la empuñadura. Para un hachazo con Shusui. Esquiva una lanza. Le parte la espada a uno de un golpe, pero otro le entra por la espalda y lo obliga a girar.
+
+Sobre él, flotando entre las ramas, con el paraguas abierto y un muñeco abrazado contra el pecho, Perona se cubre la cara con una mano.
+
+—¡¿Otra vez?! ¡Te dije que no estabas curado, idiota! ¡Te vas a morir y voy a tener que enterrarte yo sola!
+
+Zoro no le contesta. Escupe sangre a un costado, vuelve a morder a Wado y se lanza contra los tres monos más grandes.
+
+Luffy, a tu lado, abre la boca para gritar.
+
+Antes de que pueda, Perona gira la cabeza hacia ustedes. Los ve. Se le cae el muñeco de las manos. Se le ponen los ojos enormes, primero en el sombrero de paja y después en ti, en el pelo blanco y azul, en el gato.
+
+—¡¡¿TÚ?!! —Se tapa la boca con las dos manos—. ¡El del gato! ¡El de la isla!
+
+Zoro se frena en seco en el medio del claro. Con los monos todavía alrededor, gira la cabeza.
+
+Se le cae Wado de la boca.
+
+—¿...Luffy?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 912 · ONE PIECE · DÍA 57 · 13:37       ║
+║ Kuraigana · bosque muerto, cerca del castillo║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:37, Kuraigana. Facundo y Luffy llegan al claro donde Zoro, vendado, pelea contra Humandrills. Perona reconoce a Facundo. Zoro se frena y ve a Luffy. Los Humandrills siguen alrededor. Facundo puede actuar.

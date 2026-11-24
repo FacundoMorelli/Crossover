@@ -5,3 +5,4 @@ ENCUENTROS:
 - T808 · Su Negative Hollow atraviesa a Facundo sin efecto. Vencida por Usopp.
 QUÉ SABE DE FACUNDO: el cartel (400M) y lo que vio en Thriller Bark.
 ESTADO: activo
+- T912 · Día 57 13:37 · Kuraigana. Cuida a Zoro. Ve aparecer a Facundo y Luffy: "¡¿Tú?! ¡El del gato! ¡El de la isla!"

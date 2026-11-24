@@ -43,3 +43,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T909 · Acepta dos años: "No soy lo bastante fuerte. Ninguno lo es. Dos años. Y después, al Nuevo Mundo." "¿Cómo les avisamos?"
 - T910 · "¡¿En serio?! ¡Facundo, eres lo máximo! ¡Vamos ya!"
 - T911 · "¡Gracias, viejo de bigote!" "¡¿A quién vamos a ver primero?!"
+- T912 · Llega a Kuraigana con Facundo; ve a Zoro.

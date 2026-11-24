@@ -247,3 +247,4 @@
 - Luffy, Ace, Barbablanca · T908 · Ven a Facundo cerrar los ojos un momento para "buscarlos"; no saben cómo.
 - Luffy, Ace, Barbablanca · T909 · Por Facundo: los ocho están bien, cada uno en una isla; plan de dos años y reunión en Sabaody.
 - Ace, Marco, Barbablanca y su tripulación · T911 · Por Facundo: la cúpula se queda sobre la flota aunque él se vaya, hasta que se le acabe la energía.
+- Zoro, Perona (y los Humandrills) · T912 · Ven a Facundo y Luffy aparecer de la nada en Kuraigana.

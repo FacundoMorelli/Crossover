@@ -910,3 +910,4 @@ T908 · One Piece · Mar abierto · Busca el ki de todos: encuentra a los ocho d
 T909 · One Piece · Mar abierto · Propone dos años de entrenamiento y reunión en Sabaody. Luffy acepta. "¿Cómo les avisamos?"
 T910 · One Piece · Mar abierto · Propone ir a ver a cada uno. Luffy: "¡Vamos ya!" Ace: "¿Si te vas, la pared sigue?" La Marina sale tras la flota.
 T911 · One Piece · Mar abierto · El Bankai queda sobre la flota. Barbablanca: "Eso no se olvida en este barco." Ace: "Cuídamelo." Luffy: "¿A quién primero?"
+T912 · One Piece · Kuraigana · Teletransporte con Luffy. Zoro vendado contra los Humandrills; Perona reconoce a Facundo. Zoro: "¿...Luffy?"
