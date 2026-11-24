@@ -20,3 +20,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T562 · Willy Tybur y Magath aceptan en principio un plan de paz con Paradis. Cambio total del rumbo del canon.
 - T575 · 1 km de Wall Maria desaparecido (al oeste de Shiganshina). Primer paso real contra el Retumbar. Zackly aprueba.
 - T854 · Día 40 · TRATADO DE PAZ ENTRE PARADIS Y MARLEY firmado en la plaza de Liberio ante veinte embajadores: Historia Reiss, Willy Tybur, el general Magath; testigo: Facundo Morelli, emisario de Paradis. Calvi arrestado. La guerra del canon (fiesta de 854, ataque a Liberio, Retumbar) queda, por ahora, evitada.
+- T932 · Día 50 · 1 km de Wall Rose (norte de Karanes) desaparecido con sus colosales, ante seis delegaciones extranjeras. Segundo tramo borrado (el primero: Wall Maria, T575).

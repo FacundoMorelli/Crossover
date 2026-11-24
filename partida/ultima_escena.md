@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T929)
-bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
-
-## RESPUESTA 1 (T929)
-
-> bueno luffy, vayamos con el viejo. nos teletransportamos hacia rayleigh
-
-> —Bueno, Luffy. Vayamos con el viejo.
-
-Luffy deja de saludar al barco, que ya se aleja del puente con las velas hinchadas. Se queda mirándolo un segundo más. Después se da vuelta, con la sonrisa puesta otra vez.
-
-—¡Sí! ¡Vamos!
-
-Le pones la mano en el hombro. Dos dedos en la frente. Buscas una presencia vieja, tranquila, enorme debajo de la calma, como un mar quieto encima de una fosa. La encuentras enseguida, lejos, del otro lado de la Red Line, en un lugar que ya conoces.
-
-Tequila Wolf desaparece.
-
-El olor cambia primero: madera vieja, cigarrillo, licor, y debajo, el perfume dulce y húmedo de los manglares de Sabaody. Después la luz, dorada, de atardecer, que entra por la ventana redonda de un bar chico, con burbujas que suben despacio del otro lado del vidrio.
-
-El bar de Shakky. Tal como lo dejaste.
-
-Shakky está detrás de la barra, con un cigarrillo en los labios y un diario abierto delante. Levanta la vista al oírlos aparecer y no se sobresalta. Solo se le levantan las cejas, un poquito, y se le curva la boca.
-
-—Vaya. Llegan justo a la hora del té.
-
-En la mesa del rincón, con una botella abierta y un vaso a medio llenar, está Silvers Rayleigh. Tiene los anteojos en la punta de la nariz y otro diario abierto delante. En la primera plana, en letras enormes, se lee MARINEFORD. Debajo, una foto borrosa, tomada de la transmisión: un cadalso, un pilar de fuego y, al lado, una figura de pelo claro con un gato en el hombro.
-
-Rayleigh baja el diario despacio.
-
-Los mira por encima de los anteojos. A Luffy primero, de pies a cabeza, entero, sin una herida, con el sombrero de paja en la cabeza. Después a ti.
-
-Se le arruga la cara entera en una sonrisa.
-
-—Les dije que vinieran después de la guerra. —Se saca los anteojos y los deja sobre el diario—. No pensé que iba a ser el mismo día.
-
-Luffy lo señala con el dedo, con los ojos brillando.
-
-—¡El viejo del Haki! ¡Oye, viejo! ¡Facundo dice que tú me vas a hacer fuerte!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 929 · ONE PIECE · DÍA 57 · 17:51       ║
-║ Sabaody · el bar de Shakky                   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 73% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Dejar a Luffy con Rayleigh.        ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T930)
+## COMANDO 1 (T930)
 bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
 
-## RESPUESTA 2 (T930)
+## RESPUESTA 1 (T930)
 
 > bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
 
@@ -135,10 +79,10 @@ Erwin no se mueve. Te mira de arriba abajo: el sobretodo, el gato, la cara. Mira
 
 ---
 
-## COMANDO 3 (T931)
+## COMANDO 2 (T931)
 no, aparenta unos 18 o 19 pero estuvo 60 años de titan, asi que dejala como mayor, simula hasta el dia 50 en la demostracion
 
-## RESPUESTA 3 (T931)
+## RESPUESTA 2 (T931)
 
 > simula hasta el dia 50 en la demostracion
 
@@ -209,4 +153,84 @@ El viento te sacude el sobretodo. Kase, en tu hombro, entrecierra los ojos contr
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:00, mirador sobre Wall Rose al norte de Karanes. Todas las delegaciones (Hizuru, cuatro países, Marley con Magath) y la cúpula de Paradis presentes. Hange mostró una cara de colosal en la pared. Historia habló. Erwin: "Cuando usted diga." Todos miran a Facundo. Facundo puede actuar.
+## COMANDO 3 (T932)
+uso eclipse
+
+## RESPUESTA 3 (T932)
+
+> uso eclipse
+
+Das un paso al frente, hasta la baranda del mirador. Kase se agarra con las uñas a tu sobretodo.
+
+No levantas las manos. No dices nada. Solo miras la muralla.
+
+El ojo izquierdo se te calienta. El derecho se te enfría. Y entre los dos, en el aire, a quinientos metros, justo en el medio del tramo marcado con las banderas rojas, aparece un punto.
+
+Al principio es casi nada. Una mota oscura, del tamaño de una moneda, flotando a media altura de la muralla. Uno de los embajadores entrecierra los ojos, como si fuera una mancha en sus anteojos.
+
+Después crece.
+
+Un anillo de luz blanca se le enciende alrededor, finísimo, perfecto, como el borde del sol en un eclipse. Y adentro del anillo, el negro. No es oscuro: es negro. Una ausencia redonda, sin brillo ni fondo, que se traga la luz del mediodía y no devuelve nada.
+
+El viento cambia de dirección. Todo el aire del valle empieza a correr hacia ese punto. Las banderas rojas se tensan en sus mástiles, apuntándolo. El pasto de los dos lados de la muralla se acuesta hacia él en olas largas. La capa blanca de Historia se le pega a las piernas. La manzana se le escapa de la mano a Ymir, vuela por el aire y desaparece en el negro.
+
+—¡Ey! —protesta Ymir.
+
+El anillo se estira. Se vuelve un óvalo, después una línea. Corre a lo largo de la muralla en las dos direcciones a la vez, de bandera a bandera, exacto, como si alguien la hubiera trazado con una regla.
+
+Y la muralla empieza a caer hacia adentro.
+
+No se derrumba: se va. La piedra se despega en bloques del tamaño de casas, sin ruido de choque, y cae hacia el negro como hojas hacia un desagüe. Detrás de la piedra aparecen ellos: los colosales, de pie, dormidos, uno pegado al otro, cada uno de cincuenta metros, con la piel arrancada y los ojos abiertos sin ver. Decenas. En una fila tan larga como el tramo entero.
+
+Uno de los embajadores grita.
+
+Los colosales no se despiertan. Se inclinan hacia el negro, todos a la vez, despacio, como árboles que se doblan con el viento. Se les despega la carne en jirones de vapor que el punto se traga antes de que se disipen. Después los huesos. Después nada.
+
+Dura menos de un minuto.
+
+Cuando el negro se cierra, el viento se corta de golpe, como una puerta que se cierra. Las banderas rojas caen flojas en los mástiles.
+
+Entre las dos banderas no hay nada.
+
+Un kilómetro de Wall Rose desapareció. Los bordes de la muralla que quedan a cada lado están cortados limpios, lisos como vidrio, sin una grieta, sin un bloque suelto. En el medio, el campo del norte y el del sur se juntan por primera vez en más de cien años: el mismo pasto, a un lado y al otro, por donde antes había una pared de cincuenta metros. Ni un rastro de los colosales. Ni una nube de vapor. Ni un hueso.
+
+En el mirador, nadie respira.
+
+El embajador que había gritado se sienta en el piso de madera. Otro se saca el sombrero y lo aprieta contra el pecho con las dos manos. Los oficiales de Magath dan un paso atrás, al mismo tiempo, sin querer.
+
+Magath no. Magath se queda mirando el hueco, con las manos todavía detrás de la espalda, y la mandíbula le tiembla una sola vez.
+
+Kiyomi abre el abanico, muy despacio, y se tapa la boca con él.
+
+Eren, apartado, suelta el aire que estaba conteniendo. Se mira las manos. Después mira el hueco en la muralla, largo, con una expresión que nadie le vio nunca: como alguien que acaba de dejar en el piso algo que cargaba sin saber que pesaba.
+
+Levi silba bajito.
+
+—Tch. Cada vez es más grande.
+
+Historia da un paso al frente. Le tiembla un poco la voz cuando habla, pero no la baja.
+
+—Señores embajadores. —Se da vuelta hacia ellos—. Eso era un kilómetro. Las murallas tienen más de mil. Paradis va a borrar cada uno de ellos, delante de quien quiera mirar, durante los próximos años. Ese es nuestro compromiso.
+
+Uno de los embajadores de los cuatro países, un hombre mayor de barba blanca, se levanta despacio, sin dejar de mirar el hueco. Se acomoda la chaqueta. Te mira a ti.
+
+—Y si usted puede hacer esto con una muralla... —Le tiembla la voz—. ¿Qué nos garantiza que no lo hará con una ciudad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 932 · SHINGEKI · DÍA 50 · 12:04        ║
+║ Wall Rose, norte de Karanes · el mirador     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Demostración hecha. Un embajador   ║
+║ pregunta qué garantías hay.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:04, mirador sobre Wall Rose. Facundo borró con el Eclipse 1 km de Wall Rose y sus colosales ante las delegaciones. Historia prometió borrar todas las murallas. Un embajador de barba blanca le pregunta a Facundo qué garantiza que no haga eso con una ciudad. Facundo puede responder.

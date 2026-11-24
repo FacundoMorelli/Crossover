@@ -26,3 +26,4 @@ ESTADO: activo
 - T862 · Día 47 · Llora al saber que el Parlamento de Marley ratificó el tratado.
 - T865 · En el pasillo, roja, con Kase en brazos, tras golpear la puerta del cuarto de Facundo e Ymir.
 - T931 · Preside la cena del día 49. Día 50 en el mirador: "Esto es lo que el mundo teme de nosotros. Y esto es lo que hoy vamos a empezar a deshacer delante de ustedes."
+- T932 · A los embajadores: "Eso era un kilómetro. Las murallas tienen más de mil. Paradis va a borrar cada uno de ellos durante los próximos años."

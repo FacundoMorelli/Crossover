@@ -88,3 +88,4 @@
 - Día 48 tarde · (T931) Plan de la demostración: 1 km de Wall Rose al norte de Karanes, banderas rojas, mirador a 300 m.
 - Día 49 · (T931) Llega el barco de Hizuru al puerto improvisado: delegaciones de Hizuru (Kiyomi), cuatro países y Marley (el general Magath en persona). Cena en el palacio presidida por Historia.
 - Día 50 10:30-12:00 · (T931) Todos en el mirador de Wall Rose. Hange muestra un colosal dentro de la pared. Historia habla. 12:00: Erwin le cede la palabra a Facundo.
+- Día 50 12:01-12:04 · (T932) DEMOSTRACIÓN: Facundo borra con el Eclipse 1 km de Wall Rose al norte de Karanes y todos sus colosales, ante Hizuru, cuatro países y Marley (Magath). Historia promete borrar las murallas enteras en los próximos años. Un embajador pide garantías.
