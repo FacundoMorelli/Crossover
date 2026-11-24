@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T983)
-yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
-
-## RESPUESTA 1 (T983)
-
-> yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
-
-> —Yo lo como.
-
-Agarras el tenedor y le das un bocado al huevo quemado. Está amargo por abajo y crudo por arriba.
-
-Nobara te mira masticar con los ojos entrecerrados, esperando una queja. No llega. Resopla, satisfecha, y se da vuelta hacia la sartén para hacer otros.
-
-> —¿Sigue habiendo ciudades destruidas? También puedo reparar eso, para que la gente que reviva tenga un hogar al que volver.
-
-Nanami deja el diario a un lado. Se acomoda los anteojos.
-
-—Shibuya está reconstruida a medias —dice, como quien lee una lista—. La zona de la estación sigue cerrada. Lo que Sukuna arrasó con su dominio, un círculo de casi doscientos metros, quedó como un terreno baldío; el gobierno no sabe qué hacer con eso y nadie quiere vivir ahí. —Hace una pausa—. Shinjuku es peor. La zona de la batalla de diciembre sigue siendo zona de exclusión. Kilómetros. Edificios caídos, calles partidas. Dicen que van a tardar diez años.
-
-—Y las colonias del Juego —agrega Megumi, en voz baja—. Sendai. Sakurajima. Tokio. Partes de esas ciudades quedaron destruidas. Hay gente que todavía vive en refugios.
-
-Yuji pone los huevos nuevos en un plato y se lo deja a Megumi delante. Megumi lo mira un segundo. Después agarra los palillos y empieza a comer. Despacio. Yuji lo mira comer como si estuviera viendo un milagro.
-
-—Si la gente de Shibuya vuelve y su casa no está... —dice Yuji, sin dejar de mirar a Megumi—. Es como volver a morir un poco.
-
-Nanami asiente.
-
-Se queda callado un momento, con la mano sobre el diario. Después te mira, con esa cara de asalariado que calcula presupuestos.
-
-—Revivir a los muertos. La edad que deberían tener. Que sepan que murieron, sin el recuerdo. Reconstruir las ciudades. —Lo enumera con los dedos de la única mano. Se le acaban los dedos—. Morelli-kun. Esa cosa que se recarga una vez por año. —Ladea la cabeza—. ¿Cuántas cosas puede pedirle, exactamente?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 983 · JUJUTSU · 25/04/2019 · 07:12     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Plan para dentro de un año.        ║
-║ Nanami pregunta cuántos deseos.              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T984)
+## COMANDO 1 (T984)
 puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
 
-## RESPUESTA 2 (T984)
+## RESPUESTA 1 (T984)
 
 > puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
 
@@ -114,10 +66,10 @@ Se da vuelta hacia la sartén. Rompe otro huevo, con más fuerza de la necesaria
 
 ---
 
-## COMANDO 3 (T985)
+## COMANDO 2 (T985)
 para eso no es necesario un deseo, me dices mas o menos como es ella?
 
-## RESPUESTA 3 (T985)
+## RESPUESTA 2 (T985)
 
 > para eso no es necesario un deseo, me dices mas o menos como es ella?
 
@@ -162,4 +114,56 @@ Después te mira. Y por primera vez en toda la mañana no tiene cara de enojada,
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:19, cocina. Facundo ofreció encontrar a Saori sin deseo. Nobara la describió (Saori Fujinuma, ~20-21, pelo largo castaño con cinta, aros de plata, lunar bajo el ojo izquierdo) y pregunta si de verdad puede encontrarla. Facundo puede actuar.
+## COMANDO 3 (T986)
+busco a saori
+
+## RESPUESTA 3 (T986)
+
+> busco a saori
+
+Cierras los ojos.
+
+La cocina se va: el olor a café y a huevo quemado, el zumbido de la heladera, la respiración contenida de Nobara a dos metros. Te abres hacia afuera, y desde lo alto, como Dende desde su templo, Japón entero se despliega debajo de ti.
+
+Tokio es un mar. Catorce millones de luces apretadas unas contra otras, que se mueven en ríos por las vías del tren, se amontonan en las estaciones, suben y bajan por los edificios. Ruido. Prisa. Café. Cansancio de jueves.
+
+Buscas.
+
+Una mujer joven. Veinte, veintiuno. Pelo castaño largo, atado con una cinta. Aros chiquitos de plata. Un lunar bajo el ojo izquierdo. Una sonrisa que no le tiene miedo a nada.
+
+Pasas por miles de caras. Por cientos de miles.
+
+La encuentras en Setagaya.
+
+En el segundo piso de un edificio chico de departamentos, de esos de escalera exterior y macetas en los balcones. Una cocina diminuta, con la ventana abierta. Una mujer de veintiún años, en pijama, con el pelo castaño largo todavía suelto, de espaldas a la ventana, sirviéndose café en una taza con dibujos de gatos. Mientras espera que se enfríe, se recoge el pelo con una cinta roja, con dos movimientos rápidos, de memoria. Tiene puestos unos aros chiquitos, de plata. Se da vuelta para agarrar el pan de la tostadora, y la luz de la ventana le da en la cara.
+
+Un lunar chiquito debajo del ojo izquierdo.
+
+Sola. Sana. Tarareando algo que suena en una radio vieja apoyada en la heladera. En la puerta de la heladera, sujetas con imanes, hay fotos: ella con amigos en un festival, ella en una playa, ella en la puerta de una tienda de ropa con un delantal y un cartelito con su nombre. Y en la esquina, medio tapada por un recibo de luz, una foto vieja, doblada en los bordes: dos chicas en un camino de tierra entre arrozales, una más grande y otra muy chiquita, con el pelo castaño y cara de enojada, haciendo el signo de la paz.
+
+Saori le da un mordisco a la tostada. Mira el reloj de la pared. Se apura.
+
+Abres los ojos.
+
+La cocina vuelve. Yuji, con la espátula en la mano. Megumi, quieto en la punta de la mesa. Nanami, con la taza a medio camino de la boca.
+
+Y Nobara, parada frente a ti, con los brazos cruzados tan fuerte que tiene los nudillos blancos, sin respirar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 986 · JUJUTSU · 25/04/2019 · 07:21     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Saori encontrada en Setagaya.      ║
+║ Nobara espera.                               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:21, cocina. Facundo encontró a Saori Fujinuma en un departamento de Setagaya (sana, 21, trabaja en una tienda de ropa; tiene en la heladera una foto vieja con Nobara de chica). Abrió los ojos; Nobara espera sin respirar. Facundo puede contarle/actuar.

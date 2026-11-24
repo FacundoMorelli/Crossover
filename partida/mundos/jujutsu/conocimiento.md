@@ -99,3 +99,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Facundo · T984 · Por Nobara: Saori, su amiga del pueblo, se fue a Tokio y no supo más de ella.
 - Facundo · T985 · Por Nobara: descripción de Saori Fujinuma.
 - Nobara, Yuji, Megumi, Nanami · T985 · Por Facundo: puede encontrar a alguien sin un deseo.
+- Facundo · T986 · Vio a Saori a distancia: Setagaya, sana, trabaja en una tienda de ropa, guarda una foto con Nobara.
