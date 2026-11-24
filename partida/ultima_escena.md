@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T919)
-me acerco caminando a ella
-
-## RESPUESTA 1 (T919)
-
-> me acerco caminando a ella
-
-Caminas.
-
-No corres. Caminas por el medio del puente, entre las filas de presos, con Kase en el hombro y las manos a los costados, y el ruido se va apagando a tu paso. Un martillo se frena en el aire. Una carretilla se detiene. Dos viejos encadenados por el tobillo se quedan mirándote pasar, con la boca abierta, como si vieran algo que no puede estar ahí: alguien sin cadenas caminando por Tequila Wolf.
-
-Robin no se mueve.
-
-Se queda parada, con el bloque de piedra en la espalda y la cabeza levantada, mirándote acercarte. No pestañea. Tiene la cara gris de polvo, una línea de sangre seca en el labio, ojeras de días sin dormir. Las esposas de piedra marina le dejaron las muñecas en carne viva.
-
-A los veinte metros, le tiemblan las manos.
-
-A los diez, el bloque de piedra se le resbala de la espalda y cae al suelo con un golpe sordo que se oye en todo el puente.
-
-—¡Oye, tú! —Un guardia viene desde atrás, corriendo, con el látigo en una mano—. ¡¿Quién te dejó pasar?! ¡¿De qué celda saliste?!
-
-Robin no lo oye. Tú tampoco te detienes.
-
-Llegas.
-
-Te quedas delante de ella, a un paso. Kase estira el cuello desde tu hombro y le huele la cara, despacio, y le toca la mejilla con la nariz.
-
-Robin baja la vista al gato. Después la levanta hacia ti.
-
-Se le llenan los ojos de agua, de golpe, sin ruido. No llora como Usopp ni como Chopper. Se le caen las lágrimas por la cara sucia, dejando dos rayas limpias en el polvo, y ella no hace nada para pararlas. Sonríe. Una sonrisa chiquita, cansada, que le tiembla en la boca.
-
-—Tardaste —dice, muy bajo.
-
-Le tiembla la voz.
-
-—Me prometiste que, cuando volvieras, me ibas a contar cómo termina la historia de ese mundo.
-
-Detrás de ti, el guardia llega a cinco metros y levanta el látigo. Otro, más atrás, se descuelga el fusil del hombro. Un tercero sopla un silbato, y el sonido corre por el puente, de guardia en guardia, hasta perderse en el horizonte.
-
-Luffy, que venía caminando detrás de ti, se detiene. Se pone de espaldas a ustedes, de cara a los guardias, y se tira del sombrero hacia los ojos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 919 · ONE PIECE · DÍA 57 · 17:21       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 76% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Robin. Guardias del Gobierno.      ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T920)
+## COMANDO 1 (T920)
 todavia no termino la historia, pero no queda mucho para que termine, luffy entreten a los guardias. le doy un beso largo a robin agarrandola de la cara y mientras la beso rompo las cadenas de todos con luna
 
-## RESPUESTA 2 (T920)
+## RESPUESTA 1 (T920)
 
 > todavia no termino la historia, pero no queda mucho para que termine, luffy entreten a los guardias. le doy un beso largo a robin agarrandola de la cara y mientras la beso rompo las cadenas de todos con luna
 
@@ -133,10 +75,10 @@ Mira por encima de tu hombro, a los miles de presos sin cadenas. Después te mir
 
 ---
 
-## COMANDO 3 (T921)
+## COMANDO 2 (T921)
 la levanto de la cintura y la beso de nuevo
 
-## RESPUESTA 3 (T921)
+## RESPUESTA 2 (T921)
 
 > la levanto de la cintura y la beso de nuevo
 
@@ -185,4 +127,58 @@ Robin te vuelve a mirar. La sonrisa se le acomoda despacio, la de siempre, la tr
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:25, Tequila Wolf. Facundo tiene a Robin levantada de la cintura después de besarla otra vez. Luffy al lado, con hambre. Robin pregunta dónde están los demás y qué pasó mientras ella estaba presa. Kase en el piso. Facundo puede responder.
+## COMANDO 3 (T922)
+arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
+
+## RESPUESTA 3 (T922)
+
+> arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
+
+> —Arrestaron a Ace. Fuimos a Marineford, lo rescatamos y huimos con la flota de Barbablanca.
+
+Robin abre los ojos, grandes, y se queda quieta en tus brazos.
+
+—¿Marineford? —Mira a Luffy, después a ti—. ¿La guerra? ¿Fueron a la guerra de...?
+
+No termina la pregunta.
+
+Sacas una semilla del ermitaño, te la pones en la boca y la besas otra vez.
+
+Robin se queda rígida un segundo, sorprendida por la semilla que le pasa de tu boca a la suya. Después la entiende. Mastica, despacio, sin separarse.
+
+Lo sientes en las manos antes de verlo. La cintura que tienes agarrada se llena, se endurece. Las costillas se le pierden bajo la piel. El temblor de las piernas se le va de golpe. Cuando se separa de ti, tiene la cara distinta: la piel con color debajo del polvo, el labio partido cerrado, las ojeras borradas. Las muñecas, que estaban en carne viva, están lisas, sin una marca.
+
+Respira hondo. Una vez, larga, llenándose el pecho.
+
+Después se le escapa una risa corta, incrédula, y se tapa la boca con la mano.
+
+—Eso... —Se mira la muñeca. Se la toca—. Eso fue trampa.
+
+Luffy aplaude.
+
+—¡Las semillas de Facundo son lo máximo! ¡A Ace también le dio una! ¡Y a Zoro! ¡Y al viejo de bigote!
+
+Robin cruza los brazos. Debajo de su codo, sobre la piedra del puente, brotan dos manos de la nada, abren y cierran los dedos y vuelven a desaparecer. Sonríe, despacio, con esa satisfacción tranquila que tiene cuando algo funciona como debe.
+
+Después apoya la frente contra la tuya.
+
+—Rescataron a Ace en Marineford. Escaparon con Barbablanca. —Lo dice bajo, entre los dos—. Y después vinieron a buscarme a mí. —Le tiembla un poco la voz—. Pero eso no responde mi pregunta. Te pregunté por los otros, Facundo. Nami, Zoro, Chopper... ¿Dónde están? ¿Están bien?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 922 · ONE PIECE · DÍA 57 · 17:27       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el piso, a tu lado                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a Robin (8/8). Bankai sobre ║
+║ la flota. Shingeki: antes del D59 16:30.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:27, Tequila Wolf. Robin sabe lo de Ace y Marineford; curada con una semilla pasada de un beso. Insiste: dónde están Nami, Zoro, Chopper y los demás, y si están bien. Facundo puede responder.

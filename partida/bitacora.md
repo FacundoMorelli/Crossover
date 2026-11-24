@@ -920,3 +920,4 @@ T918 · One Piece · Weatheria→Boin→Momoiro→Torino→Karakuri→Namakura�
 T919 · One Piece · Tequila Wolf · Camina hasta Robin. "Tardaste." Guardias con látigo y fusil; silbato de alarma. Luffy los enfrenta.
 T920 · One Piece · Tequila Wolf · Beso largo a Robin; con la Luna rompe sus esposas y las cadenas de todos los presos. "Eres imposible."
 T921 · One Piece · Tequila Wolf · La levanta y la besa de nuevo. Luffy: "Tengo hambre." Robin: "¿Dónde están los otros?"
+T922 · One Piece · Tequila Wolf · Le cuenta lo de Ace y Marineford. Semilla de un beso: Robin curada. "Eso fue trampa." "¿Y los otros?"

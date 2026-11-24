@@ -88,3 +88,4 @@ ESTADO: activa
 - T919 · Suelta el bloque. Llora en silencio, sonríe: "Tardaste. Me prometiste que, cuando volvieras, me ibas a contar cómo termina la historia de ese mundo."
 - T920 · Facundo: "Todavía no terminó la historia, pero no falta mucho." Beso largo; Facundo le rompe las esposas de piedra marina. LIBRE. "Eres imposible. Siempre eres imposible."
 - T921 · Facundo la levanta de la cintura y la besa de nuevo; ella lo besa "como para asegurarse de que es real". A Luffy: "Capitán. Hola." A Facundo: "¿Dónde están los otros? ¿Qué pasó mientras yo estaba aquí?"
+- T922 · Por Facundo: Ace arrestado, rescatado en Marineford, huida con Barbablanca. Recibe una semilla del ermitaño de un beso: curada. "Eso fue trampa." Pregunta por los demás.
