@@ -10,7 +10,7 @@ ENCUENTROS:
 - T1007 · Día 1 09:05 · En una viga del techo del salón de Phantom, mirando la batalla y comiendo metal.
 - T1008 · Salta de la viga y aterriza delante de Facundo.
 DIÁLOGOS CLAVE:
-- T1008 · "Gihi. Tú no tienes marca. ¿Y entonces qué carajo eres, eh?"
+- T1008 · "Gihi. Tú no tienes marca. ¿Y entonces qué demonios eres, eh?"
 QUÉ SABE DE FACUNDO: lo vio entrar con Fairy Tail (T1007). Nada más. (No sabe quién bajó a Shadow Gear.)
 QUÉ PODERES DE FACUNDO VIO: paró un hacha mágica con la mano desnuda y tiró a su dueño de un empujón (T1008).
 ESTADO: activo

@@ -171,7 +171,7 @@ Cae desde quince metros sin abrir los brazos y aterriza delante de ti con un gol
 ║ COPIABLE · MISIÓN: MEDIA               ║
 ╚════════════════════════════════════════╝
 
-—Gihi. —Te mira de arriba abajo. Mira la mano con la que agarraste el hacha, sin un corte—. Tú no tienes marca. —Ladea la cabeza—. ¿Y entonces qué carajo eres, eh?
+—Gihi. —Te mira de arriba abajo. Mira la mano con la que agarraste el hacha, sin un corte—. Tú no tienes marca. —Ladea la cabeza—. ¿Y entonces qué demonios eres, eh?
 
 Kase le bufa desde tu hombro.
 
