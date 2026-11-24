@@ -824,3 +824,4 @@ T822 · One Piece → Shingeki · Se despide de Robin y la tripulación; cruza l
 T823 · Shingeki · Mitras · "Volví vivo, linda." Ymir baja descalza: "Veinticuatro días. Los conté."
 T824 · Shingeki · Mitras · "¿Ahora sí?" Ymir lo besa. Historia la llama desde la puerta.
 T825 · Shingeki · Mitras · Historia le cuenta lo que pasó en su ausencia.
+T826 · Shingeki · Mitras · Va al cuartel de la Legión: Levi y Eren entrenan; Mikasa mira.

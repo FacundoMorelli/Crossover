@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T823)
-volvi vivo linda
-
-## RESPUESTA 1 (T823)
-
-> volvi vivo linda
-
-> —Volví vivo, linda.
-
-Ymir se queda con la manzana a medio camino de la boca.
-
-Se le suben los colores de golpe, desde el cuello hasta las orejas, tan rápido que se le nota desde abajo. Muerde la manzana para disimular, se atraganta con el pedazo y tose, golpeándose el pecho con el puño.
-
-—¡N-no te creas tanto! —grita, con la voz rota por la tos—. ¡Solo estaba mirando el clima!
-
-Cierra el postigo de un golpe que hace temblar el vidrio.
-
-El guardia que quedó a tu lado mira la ventana cerrada, te mira a ti y decide con mucho cuidado mirar al horizonte.
-
-Pasa un minuto.
-
-La puerta grande del palacio se abre de par en par. Ymir baja la escalinata blanca descalza, con el abrigo verde de la Legión puesto encima del camisón y abrochado mal, el pelo revuelto y la manzana todavía en la mano. Baja los escalones de dos en dos, sin mirarte. Se detiene un escalón por encima del tuyo, para quedar a tu altura.
-
-Te mira de arriba abajo. La ropa limpia, el gato, la cara.
-
-—Entero y todo. —Se cruza de brazos—. Qué raro.
-
-Kase la mira desde tu hombro con las pupilas finas. Ymir le devuelve la mirada, como dos gatos midiéndose.
-
-—Veinticuatro días, lindo. —Desvía la vista hacia el cielo rosado y le da otro mordisco a la manzana—. Los conté. —Mastica—. No porque me importe. Historia me preguntaba todas las mañanas, y alguien tenía que saber la cuenta.
-
-Tiene las mejillas todavía rojas. Los pies descalzos, sobre la piedra fría, se le ponen colorados también.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 823 · SHINGEKI · DÍA 35 · 06:01        ║
-║ Mitras · escalinata del palacio real         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Preparar la comitiva de Historia.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T824)
+## COMANDO 1 (T824)
 le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
 
-## RESPUESTA 2 (T824)
+## RESPUESTA 1 (T824)
 
 > le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
 
@@ -111,10 +61,10 @@ Ymir te suelta la camisa como si quemara, da un paso atrás, se acomoda el abrig
 
 ---
 
-## COMANDO 3 (T825)
+## COMANDO 2 (T825)
 subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
 
-## RESPUESTA 3 (T825)
+## RESPUESTA 2 (T825)
 
 > subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
 
@@ -173,4 +123,64 @@ Deja la taza en la mesa. Acaricia a Kase, despacio.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:10, salón chico del ala de la reina, con chimenea y té. Historia le contó lo que pasó (comitiva lista; Eren con sueños; Zeke pregunta por él; Hange obsesionada con el tramo borrado). Pregunta si van a llegar a tiempo y cómo van a ir a Liberio. Ymir en la puerta con una manzana. Kase en el regazo de Historia.
+## COMANDO 3 (T826)
+vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
+
+## RESPUESTA 3 (T826)
+
+> vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
+
+> —Vamos a llegar. Los llevo con la teletransportación. Ahora voy a ir a hablar con Eren.
+
+Historia suelta el aire que tenía guardado, larguísimo, y se le aflojan los hombros.
+
+—Claro. Claro que sí. Me olvidaba de que puedes hacer eso. —Se ríe sola—. Pasé tres noches pensando en barcos.
+
+Le da un beso a Kase en la cabeza y te lo devuelve. Kase salta a tu hombro.
+
+—Eren está en el cuartel de la Legión, al lado del distrito militar. A esta hora entrena con el capitán Levi. Todos los días, desde el amanecer.
+
+Ymir se despega del marco de la puerta para dejarte pasar. Cuando pasas a su lado, te dice sin mirarte, con la boca llena de manzana:
+
+—Vuelve para el desayuno, lindo.
+
+Historia la mira. Ymir mira el techo.
+
+Sales del palacio a pie. Mitras se está despertando: los primeros panaderos abren sus puertas, pasa un carro de leche tirado por un caballo viejo, dos policías militares bostezan en una esquina. El aire huele a pan y a humo de chimenea. Nadie te para. Algunos se dan vuelta a mirar el pelo y el gato.
+
+El cuartel de la Legión es un edificio de piedra gris, viejo, junto a los muros del distrito militar. En el patio de atrás, de tierra apisonada, hay dos figuras peleando.
+
+Levi y Eren. Cuchillos de madera, sin equipo de maniobras. Levi se mueve como agua, sin un gesto de más. Eren ataca fuerte, con rabia, y Levi lo esquiva, le toca el cuello, el costado y la muñeca con la punta de madera, una vez y otra.
+
+Sentada en la cerca de troncos, con la bufanda roja alrededor del cuello y las rodillas contra el pecho, Mikasa mira sin parpadear.
+
+Eren te ve en la entrada del patio.
+
+Se queda quieto, a mitad de un ataque, con el cuchillo de madera en alto.
+
+Levi aprovecha y le pega en la nuca con el canto del suyo. Un golpe seco.
+
+—Si te distraes, estás muerto. —Lo dice sin levantar la voz. Después sigue la mirada de Eren y te ve. No cambia la cara—. Ah. Volviste.
+
+Mikasa se baja de la cerca de un salto.
+
+Eren se frota la nuca y te mira. Tiene la cara más flaca que hace veinticuatro días, las ojeras más hondas y algo nuevo en los ojos verdes, algo que antes no estaba.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 826 · SHINGEKI · DÍA 35 · 06:25        ║
+║ Mitras · patio del cuartel de la Legión      ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Hablar con Eren.                             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:25, patio del cuartel de la Legión en Mitras. Levi y Eren entrenaban con cuchillos de madera; Mikasa miraba. Eren vio a Facundo y Levi le pegó en la nuca por distraerse ("Ah. Volviste."). Mikasa se bajó de la cerca. Eren más flaco, con ojeras y algo nuevo en los ojos (sueños de cosas que no vivió).
