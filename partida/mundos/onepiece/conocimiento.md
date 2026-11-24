@@ -172,3 +172,4 @@
 - Tripulación, familia Franky, Paulie y capataces, soldados de la Torre · T747 · Ven a Facundo cruzarlos a todos por el aire sobre el abismo (su "fruta").
 - Lucci, Luffy · T752 · Ven a Facundo recibir el Rokuōgan sin moverse ni sangrar. Lucci lo informará si sobrevive.
 - Spandam, Robin, marines de las Puertas de la Justicia · T755 · Ven a Facundo usar Soru (técnica del CP9). Spandam lo reconoce como Rokushiki.
+- Spandam, marines de las Puertas · T756 · Ven a Facundo romper con las manos esposas de piedra marina y besar a Nico Robin.

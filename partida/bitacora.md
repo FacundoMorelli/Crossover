@@ -754,3 +754,4 @@ T752 · One Piece · Pasaje subterráneo · Recibe el Rokuōgan de frente y sigu
 T753 · One Piece · Pasaje subterráneo · Semilla del ermitaño a Luffy. Luffy se queda con Lucci y saca el Gear Third. El túnel, libre para Facundo.
 T754 · One Piece · Puente de la Vacilación · Facundo sale del túnel. Spandam lo ve y activa el Buster Call por error.
 T755 · One Piece · Puente de la Vacilación · Soru: le quita a Robin a Spandam. Robin sigue esposada.
+T756 · One Piece · Puente de la Vacilación · Rompe las esposas de Robin y la besa. Primera andanada del Buster Call.
