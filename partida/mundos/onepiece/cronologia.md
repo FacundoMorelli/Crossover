@@ -136,3 +136,4 @@
 - Día 37 09:25 · (T769) La tripulación paga 200M por la madera de Adán (cambio: en el canon era plata robada). Franky empieza el barco (canon: Thousand Sunny), 4-5 días. Rechaza unirse (canon).
 - Día 37 tarde - Día 38 08:30 · (T790) Franky avanza el barco de madera de Adán (quilla y esqueleto). Fiesta chica en la casa de la Galley-La.
 - Día 38 10:05 · (T792) Garp llega a Water 7 con Koby y Helmeppo y revela que es el abuelo de Luffy (canon).
+- Día 38 10:32 · (T796) Garp revela que el padre de Luffy es Monkey D. Dragon (canon).

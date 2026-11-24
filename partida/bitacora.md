@@ -794,3 +794,4 @@ T792 · One Piece · Water 7 · Llega Garp con Koby y Helmeppo; Puño del Amor a
 T793 · One Piece · Water 7 · "Hola, vicealmirante Garp." Garp leyó los informes de Enies Lobby; levanta el puño para probarlo.
 T794 · One Piece · Water 7 · Recibe el Puño del Amor de Garp sin pestañear. COPIA Garp (+800 EXP).
 T795 · One Piece · Water 7 · Le sonríe a Garp. Garp le ofrece unirse a la Marina y se duerme a mitad de frase.
+T796 · One Piece · Water 7 · Koby y Luffy se reencuentran. Garp despierta y revela que el padre de Luffy es Dragon.

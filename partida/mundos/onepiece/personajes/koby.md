@@ -9,3 +9,4 @@ ENCUENTROS:
 - T792 · Water 7 · Llega con Garp y Helmeppo.
 QUÉ SABE DE FACUNDO: el cartel.
 ESTADO: activo.
+- T796 · Se reencuentra con Luffy; cuenta que entrena con Garp para ser almirante.

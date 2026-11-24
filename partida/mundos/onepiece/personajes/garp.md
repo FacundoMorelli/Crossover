@@ -15,3 +15,4 @@ ESTADO: activo.
 - T793 · Leyó los informes del Buster Call sobre Facundo (vuelo, balas frenadas). Levanta el puño para "probarlo".
 - T794 · Le pega a Facundo un Puño del Amor; Facundo ni pestañea. "¡Es como pegarle a la Red Line!"
 - T795 · Le ofrece a Facundo unirse a la Marina ("serías almirante en un año") y se duerme a mitad de frase.
+- T796 · Despierta, le dice a Facundo que piense lo de la Marina. Revela que el padre de Luffy es Dragon.

@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T793)
-hola vice almirante garp
-
-## RESPUESTA 1 (T793)
-
-> hola vice almirante garp
-
-> —Hola, vicealmirante Garp.
-
-Garp deja de reírse de golpe y te mira con los ojos muy abiertos. Después se le ilumina la cara.
-
-—¡Al fin! ¡Uno con modales en esta tripulación de salvajes! —Le pega una palmada en la espalda a Koby que casi lo tira—. ¿Oíste, Koby? ¡Vicealmirante Garp! ¡Así se saluda!
-
-—S-sí, Garp-san...
-
-Garp mete la mano en el bolsillo del abrigo, saca una galleta de arroz y la parte de un mordisco. Mastica con ruido, mirándote.
-
-—Leí los informes de Enies Lobby. —Lo dice con la boca llena—. Cinco vicealmirantes. Diez buques. Y todos los informes dicen lo mismo: un muchacho con un gato en el hombro que volaba con un barco entero. Que frenaba balas de cañón con la mano. Que levantó el mar. —Se traga la galleta—. Onigumo estaba furioso. Tuvo que fumar doce cigarros para escribirlo.
-
-Se ríe otra vez.
-
-Luffy intenta salir del piso, sin éxito.
-
-—¡Abuelo, sácame de aquí!
-
-Garp no le hace caso. Se sacude las migas de las manos y da un paso hacia ti. Sin dejar de sonreír, cierra el puño derecho, enorme, con los nudillos llenos de cicatrices, y lo levanta despacio hasta dejarlo a un palmo de tu cara.
-
-El aire alrededor del puño se pone pesado.
-
-—Voy a ver de qué estás hecho. —Le brillan los ojos—. Un puñito del amor, nada más. Para el novio de la arqueóloga.
-
-Robin baja el libro despacio.
-
-Koby da un paso adelante, con las manos levantadas.
-
-—¡Garp-san, no! ¡Se va a romper la casa!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 793 · ONE PIECE · DÍA 38 · 10:06       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 212.440/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T794)
+## COMANDO 1 (T794)
 a ver
 
-## RESPUESTA 2 (T794)
+## RESPUESTA 1 (T794)
 
 > a ver
 
@@ -133,10 +79,10 @@ Robin, en el sillón, vuelve a abrir el libro como si nada. Sonríe detrás de l
 
 ---
 
-## COMANDO 3 (T795)
+## COMANDO 2 (T795)
 le sonrio a garp
 
-## RESPUESTA 3 (T795)
+## RESPUESTA 2 (T795)
 
 > le sonrio a garp
 
@@ -195,4 +141,74 @@ Luffy, sentado arriba de la mesa, se frota la oreja y aprovecha para robarle una
 
 ---
 
-ESTADO AL CIERRE: comedor destrozado de la casa de la Galley-La. Garp dormido a caballo en una silla, en medio de su oferta de que Facundo se una a la Marina. Koby y Helmeppo presentes; Luffy sentado en la mesa. Lo siguiente en el canon: Garp revela que el padre de Luffy es Dragon, habla de los Yonko y el Nuevo Mundo; llegan los carteles nuevos por Enies Lobby (Día 38 a la tarde).
+## COMANDO 3 (T796)
+espero a que se despierte garp
+
+## RESPUESTA 3 (T796)
+
+> espero a que se despierte garp
+
+Te sientas a esperar.
+
+Los primeros minutos nadie sabe qué hacer. Garp ronca a caballo en la silla, con la galleta colgando de la boca y la burbuja de moco inflándose y desinflándose. Chopper se le acerca en puntas de pezuña, lo mira de cerca con cara de médico y vuelve corriendo a esconderse detrás de Sanji.
+
+Koby es el primero en moverse. Se sienta en el borde de la mesa al lado de Luffy, nervioso, con las manos en las rodillas.
+
+—Luffy-san... Desde que nos separamos, entreno con Garp-san todos los días. Me pega mucho. —Se ríe, con los ojos húmedos—. Pero me estoy volviendo fuerte. Voy a ser almirante. Lo prometí.
+
+Luffy se ríe feliz, de oreja a oreja, y le pega una palmada en la espalda que casi lo tira de la mesa.
+
+—¡Shishishi! ¡Estás enorme, Koby! ¡Antes eras así de chiquito!
+
+Zoro baja de la azotea por la escalera, con una toalla al cuello, y se detiene en la puerta mirando los uniformes de la Marina. Helmeppo, contra la pared rota, se pone rígido y lleva la mano a los cuchillos. Zoro lo mira de arriba abajo, sin interés, y se sienta en el piso. Helmeppo suelta el aire despacio.
+
+Sanji, resignado, les sirve té a los marines.
+
+A las diez y treinta y dos, la burbuja de la nariz de Garp revienta. Abre los ojos.
+
+—¿Eh? —Mira alrededor—. ¿Me dormí?
+
+—Veintitrés minutos —dice Helmeppo.
+
+—¡Bwahahaha! —Garp se termina la galleta de un bocado, como si nada—. ¿Dónde estaba? Ah, sí. —Te señala—. Tú. La Marina. Piénsalo. No hay apuro. Bueno, sí hay un poco de apuro, porque si no te tengo que arrestar.
+
+Se rasca la barba y mira a Luffy, sentado en la mesa con la galleta robada.
+
+—Y tú, mocoso, ¿ya conociste a tu padre?
+
+Luffy parpadea.
+
+—¿Eh?
+
+—Tu padre. —Garp lo dice como quien comenta el clima, metiendo la mano en la bolsa de galletas—. Monkey D. Dragon. El revolucionario. El hombre más buscado del mundo.
+
+El comedor se queda helado.
+
+Nami deja caer la taza. Usopp abre la boca y no le sale nada. Chopper se pone rígido. Sanji se queda con la tetera en el aire, el té cayendo afuera de la taza. Zoro abre un ojo. Robin levanta la vista del libro despacio, con la cara seria.
+
+Un segundo. Dos.
+
+—¡¡¿¿QUÉÉÉÉ??!! —grita toda la tripulación al mismo tiempo.
+
+Luffy ladea la cabeza, con la galleta a medio camino de la boca.
+
+—¿Tengo papá?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 796 · ONE PIECE · DÍA 38 · 10:32       ║
+║ Water 7 · casa de la Galley-La               ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el alféizar, al sol                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Barco nuevo en construcción (4-5   ║
+║ días). Salir de One Piece antes del Día 49.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: comedor destrozado. Garp acaba de revelar que el padre de Luffy es Monkey D. Dragon; toda la tripulación gritó. Luffy: "¿Tengo papá?". Garp le pidió a Facundo que piense lo de unirse a la Marina. Lo siguiente en el canon: Garp habla de los Yonko y el Nuevo Mundo; carteles nuevos por Enies Lobby (Día 38 a la tarde).
