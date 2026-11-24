@@ -1,8 +1,8 @@
 {
-  "turno": 850,
+  "turno": 851,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 40 tras Shiganshina (Liberio, fiesta Tybur)",
-  "hora": "19:11",
+  "hora": "19:12",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 92,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

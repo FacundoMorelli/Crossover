@@ -151,3 +151,4 @@
 - Muller y sus hombres · T849 · Vieron a Morelli en las ventanas del ala de huéspedes de la mansión Tybur tres noches (coartada confirmada).
 - Lara Tybur · T849 · Recibe a la comitiva de Paradis en el sótano de la mansión: ve a la reina, a Zeke encadenado, a la Legión.
 - Todos los presentes en la plaza (embajadores, periodistas, alto mando, cadetes, eldianos, Muller) · T850 · Por Willy: Helos es mentira; el rey Fritz se encerró por la paz; un emisario de Paradis pidió la paz y devolvió a Zeke vivo; la isla puede destruir los titanes de las murallas; la reina de Paradis está aquí.
+- Todos en la plaza (embajadores, periodistas, alto mando, Calvi, Magath, Muller, cadetes, eldianos) · T851 · Ven a la reina de Paradis salir al escenario; ven a Calvi dar la señal y a seis cañones disparar al escenario y a los cadetes; ven todas las balas estallar en el aire contra algo invisible. Nadie sabe que es obra de Facundo (está detrás del telón).

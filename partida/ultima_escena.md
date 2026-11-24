@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T848)
-si, puedo cubrir toda la plaza si quiero
-
-## RESPUESTA 1 (T848)
-
-> si, puedo cubrir toda la plaza si quiero
-
-> —Sí. Puedo cubrir toda la plaza si quiero.
-
-Willy te suelta la manga despacio. Respira hondo una vez, y otra. El color le vuelve a la cara de a poco.
-
-—Toda la plaza. —Mira hacia los techos, sin levantar la cabeza, solo los ojos—. Toda.
-
-Se queda callado un momento. Ves cómo le cambia la expresión: el miedo se le va de la cara y en su lugar aparece algo más filoso. Es el hombre que lleva veinte años manejando a los generales de Marley desde atrás de una sonrisa.
-
-—Entonces no los toquemos.
-
-Te mira.
-
-—Los cañones. No los desarme antes. No les corte las sogas, no les moje la pólvora. —Habla rápido y bajo—. Si los generales se atreven a disparar, que disparen. Delante de veinte embajadores. Delante de los periodistas de cinco países. Delante de miles de eldianos.
-
-Se le enciende algo en los ojos.
-
-—Que el mundo entero vea cómo las balas de Marley se frenan en el aire encima de la cabeza de niños eldianos. Y que vea a la reina de los demonios ahí arriba, en el escenario, sin moverse, sin levantar una mano. —Se le escapa una risa corta, sin alegría—. No hay discurso que yo pueda escribir que valga más que eso.
-
-Apoya las dos manos en la baranda y mira la plaza vacía como si ya la viera llena.
-
-—La mejor prueba de paz que podemos dar es que ellos disparen primero.
-
-Después se da vuelta hacia ti. Ya no sonríe. Está serio, y por primera vez parece inseguro.
-
-—Pero usted es el que va a sostener esa barrera. —Baja la voz—. Si prefiere neutralizarlos antes, en silencio, lo entiendo. Es su decisión. ¿Qué prefiere?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 848 · SHINGEKI · DÍA 36 · 20:29        ║
-║ Liberio · escenario de la plaza              ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: caminando por el borde del escenario   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
-║ Barrera sobre toda la plaza.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T849)
+## COMANDO 1 (T849)
 que disparen, me parece bien tu idea willy. simula hasta la fiesta
 
-## RESPUESTA 2 (T849)
+## RESPUESTA 1 (T849)
 
 > que disparen, me parece bien tu idea willy. simula hasta la fiesta
 
@@ -119,10 +69,10 @@ Respira hondo.
 
 ---
 
-## COMANDO 3 (T850)
+## COMANDO 2 (T850)
 miro a willy y espero
 
-## RESPUESTA 3 (T850)
+## RESPUESTA 2 (T850)
 
 > miro a willy y espero
 
@@ -181,4 +131,72 @@ Una pistola de bengalas.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:11, detrás del telón. Willy dio vuelta el discurso (Helos mentira, el rey Fritz por la paz, emisario de Paradis, Zeke vivo) y presentó a "la reina de Paradis, Historia Reiss". Historia, a punto de salir, dejó de temblar. Calvi, en el palco del alto mando, levanta una pistola de bengalas (la señal de los cañones). Barrera invisible sobre toda la plaza.
+## COMANDO 3 (T851)
+miro a historia
+
+## RESPUESTA 3 (T851)
+
+> miro a historia
+
+Te das vuelta y la miras.
+
+Historia levanta la cara hacia ti. Tiene los ojos azules muy abiertos y el discurso doblado en la mano. Te sostiene la mirada un segundo, dos. Ves que entiende: que la barrera está, que tú estás.
+
+Asiente, una sola vez.
+
+Le da el papel a Ymir. No lo va a necesitar. Se acomoda la falda del vestido azul y aparta el telón con una mano.
+
+Sale sola al escenario.
+
+La plaza entera la ve aparecer. Es una chica rubia, chiquita, con un vestido que le queda un poco grande, caminando con la cabeza alta hacia el atril donde la espera Willy. Se oyen murmullos. Alguien grita algo en un idioma que no es de Marley.
+
+En el palco del alto mando, Calvi aprieta el gatillo.
+
+La bengala sube silbando y revienta en el cielo en una flor de luz roja que tiñe toda la plaza.
+
+Las lonas de los techos caen al mismo tiempo. Los seis cañones disparan casi juntos, con un trueno que sacude los vidrios de todos los edificios.
+
+Cuatro balas silban hacia el atril. Dos, hacia la primera fila.
+
+Revientan en el aire.
+
+Las cuatro del escenario estallan a quince metros de altura contra nada, en cuatro bolas de fuego y metralla que se abren como flores sobre la cabeza de Historia y de Willy y se deshacen en humo negro. Las dos del fondo estallan a cuatro metros de la primera fila, justo encima de los cadetes, y la metralla rebota contra el aire y cae por fuera, sobre el empedrado vacío, como granizo de hierro.
+
+El estruendo rebota en las paredes de la plaza. Una lluvia de chispas cae sobre la barrera invisible y resbala por los bordes, dibujando un instante la forma de una cúpula gigante que nadie sabía que estaba ahí.
+
+Gritos. Miles de gritos.
+
+Los cadetes se tiraron al piso. La nena de pelo oscuro está boca abajo, con las manos en la nuca, y levanta la cara hacia el cielo, hacia el humo, sin entender.
+
+Historia no se movió.
+
+No se agachó ni levantó los brazos. Está parada junto al atril, con el vestido azul quieto y la cara blanca, mirando hacia adelante, hacia los palcos. Willy, a su lado, tampoco se movió. Tiene las manos apoyadas en el atril y los nudillos blancos.
+
+Los gritos se apagan, uno por uno.
+
+El humo se va con el viento del mar.
+
+Toda la plaza queda en silencio. Los veinte embajadores están de pie en sus palcos. Las cámaras de fuelle disparan, una tras otra, como grillos. En el palco del alto mando, el general Calvi sigue con la pistola de bengalas en la mano, humeando, y toda la plaza lo está mirando.
+
+Magath, a su lado, se da vuelta despacio y lo mira también.
+
+En el escenario, Historia da un paso adelante y apoya las dos manos en el atril.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 851 · SHINGEKI · DÍA 40 · 19:12        ║
+║ Liberio · detrás del telón del escenario     ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: LA FIESTA. Historia firma la paz.  ║
+║ Los cañones dispararon. Nadie herido.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:12. Historia salió sola al escenario. Calvi disparó la bengala roja; los seis cañones dispararon (cuatro al atril, dos a la primera fila); todas las balas estallaron en el aire contra la barrera invisible. Nadie herido. Historia y Willy no se movieron. Silencio total; embajadores de pie, fotos; todos miran a Calvi con la pistola humeante; Magath lo mira también. Historia apoya las manos en el atril, a punto de hablar. Facundo detrás del telón con Ymir.

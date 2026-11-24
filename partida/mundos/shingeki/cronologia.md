@@ -70,3 +70,4 @@
 - Día 40 16:30-18:30 · (T849) La comitiva de Paradis llega por teletransportación al sótano de la mansión Tybur; después, al sótano del edificio de ladrillo detrás del escenario. PRIMERA VISITA DE LA REINA DE PARADIS AL CONTINENTE.
 - Día 40 19:00 · (T849) Empieza la fiesta Tybur (canon: año 854, declaración de guerra y ataque de Eren). Willy sube al escenario.
 - Día 40 19:05-19:11 · (T850) Discurso de Willy: cambia el guion, revela la mentira de Helos y el pedido de paz de Paradis; presenta a Historia (canon: declaraba la guerra). Calvi levanta la pistola de bengalas.
+- Día 40 19:12 · (T851) Calvi da la señal; seis cañones disparan al escenario y a la primera fila; la barrera invisible de Facundo frena todo. Ningún herido. Todo el mundo lo ve.
