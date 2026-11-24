@@ -92,3 +92,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Sukuna en Yuji: lo vio (marcas desapareciendo, T5) y Yuji se lo confirmó (T47).
 - Yuji, Nobara · T976 · Por Facundo: en un año revivirá a los muertos por Sukuna y las demás maldiciones.
 - Yuji, Nobara, Megumi · T977 · Por Facundo: lo que usará se recarga una vez por año. Megumi oyó la promesa.
+- Megumi · T978 · Por Facundo: Tsumiki también volverá en un año.

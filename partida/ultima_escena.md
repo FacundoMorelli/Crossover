@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T975)
-hola itadori, tengo una sorpresa para ti
-
-## RESPUESTA 1 (T975)
-
-> hola itadori, tengo una sorpresa para ti
-
-> —Hola, Itadori. Tengo una sorpresa para ti.
-
-Yuji baja los últimos catorce escalones en tres saltos. Aterriza delante de ti, levantando pétalos rosados del suelo, y se te tira encima con un abrazo que te saca el aire, con la ropa todavía húmeda del trote.
-
-—¡¡Facundo!! —Te suelta, te agarra de los hombros, te mira de arriba abajo—. ¡Volviste! ¡Dijiste que ibas a volver y volviste! ¡Casi tres meses, eh! ¡¿Dónde estabas?!
-
-Kase lo mira desde tu hombro, ofendido por el abrazo. Yuji le rasca la cabeza sin pedir permiso. Kase lo deja.
-
-—¡Hola, gato! ¡Tú también volviste!
-
-Después se da cuenta de lo que dijiste. Se queda quieto, con las manos todavía en tus hombros.
-
-—Espera. —Entrecierra los ojos—. ¿Una sorpresa? ¿Para mí?
-
-Mira tus manos. Están vacías. Mira detrás de ti, por si hay algo. Solo hay pétalos y escalones. Te vuelve a mirar, con una sonrisa enorme, de chico al que le prometieron un regalo.
-
-—¿Qué es? ¿Comida? ¿Es comida? —Se ríe—. Dime que es comida. Megumi cocina horrible y Nobara no quiere cocinar.
-
-Desde arriba de la escalinata, del otro lado del portón, se oye una voz de chica, aguda y molesta, gritando su apellido.
-
-—¡¡ITADORI!! ¡Te dije que trajeras pan de la tienda, no que...!
-
-Nobara aparece en lo alto de los escalones, en pijama y con una campera de la escuela encima, el pelo revuelto y una taza en la mano. Te ve.
-
-Se le cae la taza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 975 · JUJUTSU · 25/04/2019 · 06:42     ║
-║ Escuela de Hechicería de Tokio · el portón   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La sorpresa para Yuji. Nobara te   ║
-║ ve desde arriba.                             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T976)
+## COMANDO 1 (T976)
 estan los dos perfecto, en 1 año, voy a revivir a los que murieron por sukuna y demas maldiciones
 
-## RESPUESTA 2 (T976)
+## RESPUESTA 1 (T976)
 
 > estan los dos perfecto, en 1 año, voy a revivir a los que murieron por sukuna y demas maldiciones
 
@@ -107,10 +57,10 @@ Yuji levanta la vista. Tiene los ojos llenos, rojos, y una cosa en la cara que n
 
 ---
 
-## COMANDO 3 (T977)
+## COMANDO 2 (T977)
 por que no puedo, la cosa que voy a usar para hacerlo se recarga cada un año, me encantaria poder hacerlo ahora, pero crean en mi, en 1 año, todos van a estar de vuelta
 
-## RESPUESTA 3 (T977)
+## RESPUESTA 2 (T977)
 
 > por que no puedo, la cosa que voy a usar para hacerlo se recarga cada un año, me encantaria poder hacerlo ahora, pero crean en mi, en 1 año, todos van a estar de vuelta
 
@@ -164,4 +114,62 @@ Pero tiene los ojos abiertos de par en par.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:46, escalinata del portón. Facundo explicó que lo que usa se recarga una vez por año. Yuji le cree; Nobara lo anota (amenaza de clavo). Megumi, arriba en el portón, oyó todo y pregunta si Tsumiki también volverá. Facundo puede responder.
+## COMANDO 3 (T978)
+todos fushiguro, ella tambien
+
+## RESPUESTA 3 (T978)
+
+> todos fushiguro, ella tambien
+
+> —Todos, Fushiguro. Ella también.
+
+Megumi no contesta.
+
+Se queda parado arriba de la escalinata un segundo más. Después se le aflojan las rodillas, despacio, y se sienta en el escalón de arriba de todo, entre los pedazos de la taza. Apoya los antebrazos en las rodillas. Baja la cabeza hasta que el pelo le tapa la cara.
+
+No hace ningún ruido. Solo le tiemblan los hombros.
+
+Yuji sube los escalones corriendo, de dos en dos. Nobara detrás, descalza, sin quejarse de las piedras. Se sientan uno a cada lado de él, en el mismo escalón. Yuji le pasa un brazo por los hombros. Nobara no lo toca: se sienta pegada, hombro con hombro, mirando para otro lado, hacia los cerezos.
+
+Nadie dice nada durante un rato largo.
+
+El viento sopla. Caen pétalos sobre los tres.
+
+Al final, Megumi levanta la cabeza. Tiene los ojos rojos, la cara mojada y una expresión que no le viste nunca: como si alguien le hubiera sacado de encima una piedra que llevaba en el pecho desde diciembre.
+
+Te mira desde arriba de la escalinata.
+
+—Gracias. —Le sale ronco, roto—. No sé cómo... Gracias.
+
+Y entonces, en el silencio, se le oye el estómago. Un rugido largo, hueco, de alguien que no come bien hace semanas.
+
+Megumi se queda congelado. Se pone colorado hasta las orejas.
+
+Yuji suelta una carcajada que hace volar a dos pájaros de un cedro.
+
+—¡¡Fushiguro tiene hambre!! —Lo zarandea por los hombros—. ¡Por fin! ¡Nobara, Fushiguro tiene hambre!
+
+—Ya lo oí, idiota, lo oyó todo Tokio. —Nobara se seca la cara con la campera y se pone de pie. Te mira desde arriba, con las manos en la cintura, y otra vez la voz de siempre—. Bueno. Ya que volviste y nos arruinaste la mañana con tanto llanto, por lo menos ayúdanos con el desayuno. Itadori no trajo el pan.
+
+Se cruza de brazos.
+
+—¿Te quedas, o te vas a ir otra vez dentro de cinco minutos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 978 · JUJUTSU · 25/04/2019 · 06:50     ║
+║ Escuela de Hechicería de Tokio · el portón   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Megumi tiene hambre. Nobara        ║
+║ pregunta si te quedas.                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:50, escalinata del portón. Facundo confirmó a Megumi que Tsumiki también volverá. Megumi lloró y agradeció; le rugió el estómago (Yuji feliz). Nobara pide ayuda con el desayuno y pregunta si Facundo se queda o se va en cinco minutos. Facundo puede responder.

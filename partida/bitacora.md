@@ -976,3 +976,4 @@ T974 · Shingeki → Jujutsu · Saludo de la Legión. Puerta al portón de la es
 T975 · Jujutsu · Portón · "Tengo una sorpresa para ti." Yuji: "¿Es comida?" Nobara lo ve y se le cae la taza.
 T976 · Jujutsu · Portón · "En un año voy a revivir a los que murieron por Sukuna y las maldiciones." Yuji: Shibuya, Junpei. Nobara: Gojo, Tsumiki. "¿Por qué no ahora?"
 T977 · Jujutsu · Portón · "Se recarga una vez por año. Crean en mí." Yuji: "Te creo." Nobara: "Lo anoto." Megumi arriba: "¿Tsumiki también?"
+T978 · Jujutsu · Portón · "Todos. Ella también." Megumi llora: "Gracias." Le ruge el estómago. Nobara: "¿Te quedas?"

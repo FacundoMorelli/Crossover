@@ -56,3 +56,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T975 · 25/04/2019 · En pijama y campera, en lo alto de la escalinata, le grita a Yuji por el pan; ve a Facundo y se le cae la taza.
 - T976 · Baja descalza: "Repite eso. Despacio." Nombra a Gojo-sensei y a Tsumiki; Megumi no come desde entonces.
 - T977 · "Un año. Lo anoto. Si dentro de un año no aparece Gojo-sensei quejándose de que el dulce de la escuela es malo, te voy a clavar un clavo en el pie."
+- T978 · Se sienta pegada a Megumi. "Ayúdanos con el desayuno. Itadori no trajo el pan. ¿Te quedas, o te vas a ir otra vez dentro de cinco minutos?"
