@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T880)
-cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
-
-## RESPUESTA 1 (T880)
-
-> cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
-
-> —Cualquiera tiene una cicatriz en el ojo.
-
-Rayleigh, sin decir nada, se toca con un dedo la cicatriz que le cruza el ojo derecho, detrás de los lentes. Sonríe de costado.
-
-—Cualquiera, sí.
-
-> —Rayleigh, igual, ¿qué piensas? Lo que pasó aquí en Sabaody con mis compañeros le tiene que hacer ver a Luffy que todavía no están preparados para el Nuevo Mundo.
-
-Rayleigh deja la taza en el platito. Se queda mirando el café un rato, sin contestar. Shakky deja de reírse y apoya los codos en la barra.
-
-—Pienso lo mismo. —Lo dice despacio—. Tus amigos tienen corazón. Mucho. Pero el corazón no alcanza allá. —Mira por la ventana, hacia el mar—. Del otro lado de la Red Line mandan los Yonko. Barbablanca, Kaido, Big Mom, Shanks. Y los almirantes los cazan sin descanso. Lo que les hizo Kuma aquí, en un rato, allá se lo harían todos los días.
-
-Hace una pausa.
-
-—A tu capitán le falta el Haki. Lo tiene, lo sentí cuando golpeó al Noble. Pero dormido. Y a los demás les falta lo suyo, cada uno lo suyo. —Junta las manos sobre la barra—. Quizás Kuma les hizo un favor sin querer. Los mandó a lugares donde van a tener que hacerse fuertes, o morir.
-
-Te mira.
-
-—Si tu capitán sobrevive a lo de hoy, tráemelo. Le voy a dar lo que sé. —Se encoge de hombros—. Un año. Dos. Lo que haga falta.
-
-Después baja la vista hacia tu barriga de marine, que sube, baja y ronronea. Se queda mirándola un segundo. Vuelve a mirarte a la cara, más serio.
-
-—¿Y tú? —Inclina la cabeza—. ¿Vas a estar con ellos cuando entren al Nuevo Mundo?
-
-Toma un sorbo de café.
-
-—Porque tú no pareces alguien que necesite prepararse para nada, muchacho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 880 · ONE PIECE · DÍA 57 · 09:18       ║
-║ Sabaody · bar de Shakky                      ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa, ronroneando       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
-║ lado de Luffy. Shingeki: antes del D59.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T881)
+## COMANDO 1 (T881)
 si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
 
-## RESPUESTA 2 (T881)
+## RESPUESTA 1 (T881)
 
 > si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
 
@@ -119,10 +67,10 @@ Un sargento de bigote y cara roja se te planta adelante, con el sable en la mano
 
 ---
 
-## COMANDO 3 (T882)
+## COMANDO 2 (T882)
 le respondo mi unidad bien
 
-## RESPUESTA 3 (T882)
+## RESPUESTA 2 (T882)
 
 > le respondo mi unidad bien
 
@@ -163,4 +111,70 @@ El marine chiquito de anteojos, a tu lado, no puede quedarse quieto. Tiene el fu
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:27, Marineford, ala este junto al muro de la costa, entre refuerzos de bases lejanas. El sargento creyó su unidad y lo mandó ahí. Se ve el cadalso de costado (Ace de rodillas) y el mar vacío. Un marine chiquito de anteojos, nervioso: "¿Tú crees que venga [Barbablanca]?" Ejecución a las 15:00.
+## COMANDO 3 (T883)
+seguramente, el que esta ahi es su hijo
+
+## RESPUESTA 3 (T883)
+
+> seguramente, el que esta ahi es su hijo
+
+> —Seguramente. El que está ahí es su hijo.
+
+El marine de anteojos se te queda mirando con la boca abierta.
+
+—¿Su... hijo? —Mira el cadalso, a Ace de rodillas—. ¿Barbablanca tiene hijos?
+
+El alto y flaco del otro lado chista para que se callen. El oficial de la fila mira hacia atrás.
+
+Pasan los minutos. El sol sube. El mar sigue vacío. Miles de marines esperan en silencio, con el sudor corriéndoles por la nuca bajo las gorras blancas.
+
+A las nueve y cuarenta, arriba del cadalso, Sengoku da un paso adelante. Un marine le alcanza un Den Den Mushi enorme, con un cono de altavoz en la boca. Sengoku se lo acerca.
+
+Cuando habla, la voz retumba en toda la plaza, en la bahía y en los buques, y sale por las pantallas de transmisión de todo el mundo.
+
+—¡Escuchen todos! —La voz es grave, firme—. Hoy les voy a decir quién es realmente Portgas D. Ace. Y por qué esta ejecución es tan importante.
+
+Silencio. Miles de cabezas que se levantan.
+
+—Este hombre... —Sengoku apoya la mano en el poste del cadalso, encima de la cabeza de Ace—. Es el hijo del Rey de los Piratas. ¡De Gol D. Roger!
+
+El silencio dura un segundo entero.
+
+Después corre un murmullo por la plaza, enorme, como el mar que entra en una cueva. Miles de marines se miran entre ellos. El de anteojos se pone blanco como su gorra.
+
+Sengoku sigue, implacable. Cuenta que la madre de Ace, Portgas D. Rouge, lo escondió en su vientre veinte meses para que el Gobierno no lo encontrara. Que murió al darlo a luz. Que la sangre del demonio no tiene que seguir corriendo en este mundo.
+
+Arriba del cadalso, Ace levanta la cabeza por primera vez.
+
+Tiene la cara sucia, los ojos rojos y los dientes apretados. Grita con toda la voz que le queda:
+
+—¡MI PADRE ES BARBABLANCA!
+
+El grito cruza la plaza entera.
+
+Sengoku no se inmuta.
+
+—Lo sabemos. —Se vuelve hacia el mar—. Y por eso va a venir.
+
+Mira el horizonte vacío.
+
+—Y la Marina lo va a estar esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 883 · ONE PIECE · DÍA 57 · 09:40       ║
+║ Marineford · ala este, junto al muro         ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace (15:00), al lado de   ║
+║ Luffy. Shingeki: antes del D59 16:30.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:40, Marineford, ala este. Sengoku reveló por altavoz y transmisión que Ace es hijo de Gol D. Roger. Ace gritó "¡Mi padre es Barbablanca!". Sengoku: Barbablanca va a venir y la Marina lo espera. El mar sigue vacío. Facundo disfrazado en las filas de refuerzos.

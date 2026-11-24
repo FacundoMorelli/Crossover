@@ -152,3 +152,4 @@
 - Día 56 15:55 · (T867) Facundo vuelve por una puerta al Grove 41 de Sabaody, junto al Thousand Sunny.
 - Día 56 noche → Día 57 · (T877) Fuga de Impel Down (canon): Luffy, Crocodile, Jinbe, Ivankov, Buggy, Mr. 3 escapan en un buque de la Marina hacia Marineford.
 - Día 57 09:25 · (T881) Facundo llega a Marineford disfrazado de marine raso.
+- Día 57 09:40 · (T883) Sengoku revela ante Marineford y la transmisión que Ace es hijo de Gol D. Roger (canon). Ace: "¡Mi padre es Barbablanca!"

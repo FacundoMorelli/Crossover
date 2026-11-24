@@ -224,3 +224,4 @@
 - Rayleigh, Shakky, Hachi · T878 · Ven a Facundo bajar vestido de marine raso con el pelo negro y corto (cambió el color a voluntad).
 - Rayleigh · T880 · Por Facundo: lo de Sabaody le tiene que mostrar a Luffy que la tripulación no está preparada para el Nuevo Mundo.
 - Rayleigh, Shakky, Hachi · T881 · Por Facundo: va a estar viajando mientras la tripulación entrena y volverá con ellos. Lo ven desaparecer.
+- Todos en Marineford y quienes ven la transmisión · T883 · Por Sengoku: Ace es hijo de Gol D. Roger y de Portgas D. Rouge.
