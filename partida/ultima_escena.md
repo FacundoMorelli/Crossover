@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T970)
-No quiero que me deban nada, esto lo hice por que me gusta ayudar, asi que por favor, quiero que todos disfruten sus vidas, sin titanes, ni nadie que nos quiera matar, los que quieran salir al mundo a explorar son libres de hacerlo, con eso ya es mas que suficiente para mi
-
-## RESPUESTA 1 (T970)
-
-> No quiero que me deban nada, esto lo hice por que me gusta ayudar, asi que por favor, quiero que todos disfruten sus vidas, sin titanes, ni nadie que nos quiera matar, los que quieran salir al mundo a explorar son libres de hacerlo, con eso ya es mas que suficiente para mi
-
-Levantas una mano.
-
-La plaza se va callando de a poco, desde adelante hacia atrás, como una ola que se retira. En medio minuto, no se oye nada más que el viento entre los techos.
-
-Hablas. No gritas. No hace falta: la voz te sale clara y llega hasta el último techo, hasta la última rama de los árboles del fondo.
-
-> —No quiero que me deban nada. Esto lo hice porque me gusta ayudar. Así que, por favor, quiero que todos disfruten sus vidas, sin titanes, sin nadie que nos quiera matar. Los que quieran salir al mundo a explorar son libres de hacerlo. Con eso, para mí, ya es más que suficiente.
-
-Silencio.
-
-Un silencio distinto al de antes. Largo. Decenas de miles de personas que se quedan quietas, mirándote, como si estuvieran tratando de entender una palabra en un idioma que no conocen.
-
-Libres.
-
-Abajo, en la plaza, Eren levanta la cabeza. Tiene a su madre abrazada de un lado y a Mikasa del otro. Te mira. Y se le transforma la cara entera, despacio, como si alguien le hubiera dicho en voz alta lo que él quería oír desde los diez años y no sabía que se podía decir.
-
-A unos metros, Armin se da vuelta hacia su abuelo, que sigue sobre los hombros del soldado. Le dice algo, rápido, con los ojos brillando. El viejo se ríe y le revuelve el pelo.
-
-Después, la plaza explota otra vez.
-
-Más fuerte que antes. Ya no es un rugido de gratitud: es otra cosa. Es gente que se ríe y se abraza y salta y grita, como en una fiesta, como si alguien hubiera abierto todas las puertas de la ciudad a la vez. Alguien empieza a cantar una canción vieja, de las que se cantaban antes de la caída de Wall Maria, y la canción se contagia y crece hasta que la cantan diez mil voces desafinadas.
-
-Historia no te suelta la mano. Te mira. Tiene la cara roja y los ojos llenos.
-
-—Eso fue más de lo que podría haber dicho yo en una hora —te dice, al oído, riéndose.
-
-Erwin, detrás, cierra los ojos un momento. Cuando los abre, está sonriendo. Es una sonrisa pequeña, de verdad, sin cálculo. La primera.
-
-Levi chasquea la lengua.
-
-—Tch. Libres. —Se despega del marco de la puerta—. Ahora a ver quién organiza a medio millón de idiotas que quieren subirse a un barco.
-
-Pero no lo dice enojado.
-
-Ymir se acerca desde la puerta del balcón, entre los demás. Se para a tu lado, del lado que no tiene ocupado Historia. No te agarra la mano. Se apoya en la baranda con los dos codos, mirando la plaza, la gente cantando, los pañuelos en el aire. Se queda así un rato largo, con el viento en el pelo.
-
-Después gira la cabeza y te mira, de costado, con la media sonrisa.
-
-—Bueno, lindo. —Te lo dice bajo, solo para ti, por debajo de la canción—. Ya salvaste al mundo. —Ladea la cabeza—. ¿Y ahora qué?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 970 · SHINGEKI · DÍA 66 · 13:12        ║
-║ Shiganshina · balcón del ayuntamiento        ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Ymir pregunta: ¿y ahora qué?       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T971)
+## COMANDO 1 (T971)
 por ahora me voy a ir hay muchas cosas que me faltan conocer, voy a volver no te preocupes, le agarro de la cintura y le doy un beso. Erwin, ya es hora que tambien liberen a los demas, a zeke, annie, reiner, bertholdt, pieck
 
-## RESPUESTA 2 (T971)
+## RESPUESTA 1 (T971)
 
 > por ahora me voy a ir hay muchas cosas que me faltan conocer, voy a volver no te preocupes, le agarro de la cintura y le doy un beso. Erwin, ya es hora que tambien liberen a los demas, a zeke, annie, reiner, bertholdt, pieck
 
@@ -130,10 +67,10 @@ Erwin se acerca un paso. Te tiende la única mano.
 
 ---
 
-## COMANDO 3 (T972)
+## COMANDO 2 (T972)
 si no la reconozco significa que hicimos las cosas bien, antes de irme les voy a dejar unas cosas a hange para que puedan descubrir como hacerlas
 
-## RESPUESTA 3 (T972)
+## RESPUESTA 2 (T972)
 
 > si no la reconozco significa que hicimos las cosas bien, antes de irme les voy a dejar unas cosas a hange para que puedan descubrir como hacerlas
 
@@ -198,4 +135,61 @@ No espera respuesta. Vuelve a extenderte la mano. Esta vez la sostiene más fuer
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 66 13:20, balcón de Shiganshina. Facundo dejó a Hange linterna, radio de manivela, reloj, antibióticos, libro de medicina y semillas para que los estudien. Hange, emocionada, no pregunta cómo. Erwin, conmovido por los antibióticos, le tiende la mano de nuevo. Facundo puede despedirse.
+## COMANDO 3 (T973)
+le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
+
+## RESPUESTA 3 (T973)
+
+> le tiendo la mano y una ultima cosa, para que dejen de usar los equipos de maniobra si asi lo desean, esta es mas grande, salgo al patio trasero donde no hay nadie a parte de nosotros y saco una moto moderna
+
+Le das la mano a Erwin. Él te la aprieta fuerte, firme, como se cierra un trato.
+
+> —Una última cosa. Para que dejen de usar los equipos de maniobras, si así lo desean. Esta es más grande.
+
+Erwin levanta una ceja. Levi se despega del marco de la puerta.
+
+Bajan todos detrás de ti por la escalera interior del ayuntamiento: Erwin, Levi, Hange con la radio todavía abrazada, Moblit con la linterna, Historia, Ymir. Cruzan un pasillo de piedra y salen a un patio trasero, cuadrado, empedrado, cerrado por paredes altas, con un pozo en el medio y un carro de heno abandonado contra un rincón. No hay nadie. El ruido de la plaza llega apagado por encima de los techos.
+
+Te paras en el centro del patio. Abres la tienda.
+
+Esta vez la compra cuesta más que las anteriores. La pagas sin mirar.
+
+La sacas del inventario.
+
+Aparece de golpe en el medio del patio, sobre el empedrado, con un peso que hace crujir las piedras: una moto. Negra mate, de líneas bajas y agresivas, con el tanque brillante como un caparazón de escarabajo, las ruedas anchas, el escape doble de metal pulido, el manubrio con espejos redondos y una pantalla apagada entre los puños. Huele a goma nueva y a aceite.
+
+Nadie se mueve.
+
+Moblit deja caer la linterna. Rueda por el empedrado sin apagarse, tirando su haz blanco contra la pared.
+
+Levi la mira de arriba abajo, con los ojos entrecerrados, como mira a un recluta nuevo que no sabe si va a servir. Da una vuelta alrededor, despacio. Toca el asiento con un dedo. Se mira el dedo: no hay polvo.
+
+—Tch —dice. Pero no se aleja.
+
+Historia se tapa la boca con las dos manos. Ymir se ríe, una carcajada corta, incrédula, y te mira como si dijera "presumido" sin decirlo.
+
+Erwin no dice nada. Mira las ruedas. El manubrio. El motor. Ya está pensando en distancias, en caminos, en expediciones de tres días que se pueden hacer en una tarde.
+
+Y Hange...
+
+Hange se acerca despacio, en puntas de pie, como quien se acerca a un caballo salvaje. Deja la radio en el borde del pozo sin mirar dónde. Se agacha junto al motor. Lo toca. Retira la mano. Lo vuelve a tocar. Mete la cara entre los caños del escape. Se le empañan los anteojos.
+
+—Esto no es un carruaje. —Lo dice en un susurro—. No tiene dónde atar al caballo. Es... es el caballo. —Se da vuelta hacia ti, de rodillas en el empedrado, con los ojos llenos de lágrimas de felicidad—. Facundo. ¿Qué come? ¿Qué le das de comer para que ande?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 973 · SHINGEKI · DÍA 66 · 13:26        ║
+║ Shiganshina · patio trasero del ayuntamiento ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La moto. Hange pregunta qué come.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 66 13:26, patio trasero del ayuntamiento de Shiganshina. Facundo le dio la mano a Erwin y sacó una moto moderna para la Legión. Todos impresionados; Hange, de rodillas junto al motor, pregunta qué come la moto para andar. Facundo puede responder.

@@ -33,3 +33,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T969 · Apoyado en el marco, desvía la mirada; busca a Isabel en la plaza.
 - T970 · "Tch. Libres. Ahora a ver quién organiza a medio millón de idiotas que quieren subirse a un barco." (sin enojo)
 - T971 · "El barbudo me debe una conversación larga. Pero no tiene que ser en una celda."
+- T973 · Da una vuelta a la moto, toca el asiento. "Tch." No se aleja.

@@ -46,3 +46,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T970 · Sonríe de verdad, sin cálculo, por primera vez.
 - T971 · Acepta liberar a Zeke, Reiner, Bertholdt y Annie esta semana (Pieck ya libre). Escribirá a Magath. Le tiende la mano: "Cuando vuelva, esta isla va a ser otra. Espero que la reconozca."
 - T972 · Se ríe ("si no la reconozco, hicimos las cosas bien"). Lee "contra las infecciones": "¿Sabe cuántos soldados de la Legión murieron de una herida que no era mortal?" Le tiende la mano más fuerte.
+- T973 · Le da la mano a Facundo. Ante la moto, piensa en expediciones de tres días hechas en una tarde.

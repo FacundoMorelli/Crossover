@@ -1,13 +1,13 @@
 {
-  "turno": 972,
+  "turno": 973,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 66 tras Shiganshina (año 850)",
-  "hora": "13:20",
+  "hora": "13:26",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107575,
+  "fragmentos": 107495,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1740,7 +1740,8 @@
       "Reloj de pulsera de agujas": 1,
       "Caja de antibióticos (penicilina en polvo) con instrucciones": 1,
       "Libro de medicina básica ilustrado": 1,
-      "Bolsa de semillas (papa, trigo, maíz de clima frío)": 1
+      "Bolsa de semillas (papa, trigo, maíz de clima frío)": 1,
+      "Moto moderna (negra mate, escape doble)": 80
     },
     "stock_rotativo": {
       "Piedra de maná pequeña (recarga energía 10%)": 3,
