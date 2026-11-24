@@ -3,104 +3,10 @@
 
 ---
 
-## COMANDO 1 (T871)
-no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
-
-## RESPUESTA 1 (T871)
-
-> no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
-
-> —No te preocupes, no me debes nada. Y es una cosa de los lugares a los que viajo.
-
-Hachi te suelta, por fin, y se seca la cara con cuatro manos a la vez. Kase vuelve a tu hombro desde la cama, con cara de reproche.
-
-Te das vuelta hacia la puerta.
-
-> —Eh... bueno. Rayleigh, ¿me enseñas tu Haki?
-
-Rayleigh se ríe. Es una risa corta, de verdad, que le arruga los ojos detrás de los lentes.
-
-—¿Enseñarte? —Se aparta del marco y vuelve al salón del bar—. Muchacho, enseñar el Haki lleva meses. A veces años. Y tú mañana te vas a meter en la guerra más grande en veinte años.
-
-Se sienta en un taburete de la barra. Shakky, sin decir nada, le pone un vaso adelante y le sirve.
-
-—Pero mostrarte... —Rayleigh toma un trago—. Eso sí.
-
-Levanta el dedo índice de la mano derecha.
-
-El dedo se oscurece desde la uña hacia abajo, como si lo hubieran metido en tinta. Queda negro, brillante, duro como el metal pulido. Rayleigh lo apunta, sin apuro, a una botella vacía que está en la otra punta de la barra, a cuatro metros.
-
-Lo baja en el aire. Un corte chiquito, de nada.
-
-La botella se parte en dos, de arriba abajo, limpia como si la hubieran cortado con un hilo. Las dos mitades se separan y caen de costado sobre la madera sin romperse.
-
-Hachi abre la boca de pulpo.
-
-—Eso es la armadura. —Rayleigh baja el dedo. Vuelve a ser un dedo de viejo—. Y esto...
-
-No hace nada. No se mueve. Solo te mira.
-
-Pero algo sale de él. Es un hilo, apenas, una fracción de una fracción de algo mucho más grande. Todos los vasos del bar empiezan a temblar en los estantes, tintineando contra la madera. La lámpara del techo se balancea. Hachi se sienta en el piso de golpe, con los ojos en blanco por un segundo, y se agarra la cabeza.
-
-Shakky sigue fumando, tranquila, como si fuera martes.
-
-Kase, en tu hombro, no se inmuta. Tú tampoco.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Haki y esgrima de Silvers Rayleigh           ║
-║ USUARIO: Silvers Rayleigh · One Piece        ║
-║                                              ║
-║ MISIÓN: Chocar tu Haki del Rey con el de     ║
-║ Rayleigh a plena potencia y no ceder ni un   ║
-║ paso.                                        ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔════════════════════════════════════════╗
-║ SILVERS RAYLEIGH                       ║
-║ Ex primer oficial de Roger             ║
-║ PODER: Haki (los tres), esgrima        ║
-║ AMENAZA: ALTA                          ║
-║ Diferencia estimada: x0,33 sobre ti    ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-```
-
-La presión se apaga. Los vasos dejan de temblar.
-
-Rayleigh te mira de arriba abajo, despacio, con el vaso en la mano y una sonrisa chica, rara.
-
-—No te movió ni un pelo. —Toma un trago—. Ni a ti ni al gato.
-
-Deja el vaso.
-
-—Tú ya lo tienes. —Lo dice tranquilo, sin dudar—. Cuando entraste lo sentí, aunque no pude leerte. Algo grande, dormido, debajo de ese agujero. —Ladea la cabeza—. Así que dime, muchacho. ¿Para qué quieres que te enseñe?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 871 · ONE PIECE · DÍA 56 · 16:32       ║
-║ Sabaody · bar de Shakky, salón               ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Hachi curado. Marineford mañana.   ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T872)
+## COMANDO 1 (T872)
 podemos chocar nuestros hakis?
 
-## RESPUESTA 2 (T872)
+## RESPUESTA 1 (T872)
 
 > podemos chocar nuestros hakis?
 
@@ -151,10 +57,10 @@ Hachi se esconde detrás de un árbol.
 
 ---
 
-## COMANDO 3 (T873)
+## COMANDO 2 (T873)
 ahora
 
-## RESPUESTA 3 (T873)
+## RESPUESTA 2 (T873)
 
 > ahora
 
@@ -236,4 +142,56 @@ Se le apaga la risa de a poco. Te mira largo, serio, con algo nuevo en la cara.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:47, Grove 1. Choque de Haki del Rey: Facundo no cedió; Rayleigh retrocedió un paso. Copia del Haki y la esgrima de Rayleigh (+800 EXP). Hachi desmayado; la rueda de la fortuna cayó. Rayleigh: "Hacía veinte años que nadie me hacía retroceder... el último fue Gol D. Roger." Pregunta: "Mañana en Marineford... vas a sacar a ese chico de ahí, ¿no?"
+## COMANDO 3 (T874)
+tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki(color azul fuerte y blanco)
+
+## RESPUESTA 3 (T874)
+
+> tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki (color azul fuerte y blanco)
+
+> —Tu Haki es increíble. Si fuera otra persona, no podría hacer nada.
+
+Levantas el brazo derecho.
+
+El Haki te sube desde la punta de los dedos hasta el hombro, como agua que trepa por un vidrio. No es negro. Es azul, de un azul intenso y profundo, como el mar a mediodía muy lejos de la costa, con vetas blancas que lo recorren por dentro como relámpagos congelados. Brilla apenas. La piel debajo deja de ser piel y se vuelve algo liso, duro, pulido como una gema.
+
+Rayleigh deja de limpiarse los lentes.
+
+Se los pone. Se acerca despacio, cruzando el claro, por encima de su propio surco en la tierra, hasta quedar a un paso de ti. Mira el brazo. Lo mira de cerca, inclinado, con las manos detrás de la espalda, como quien mira un cuadro en un museo.
+
+—Azul. —Lo dice muy bajo—. Y blanco.
+
+Estira un dedo y toca el antebrazo. Suena como la uña contra un vidrio grueso.
+
+—Setenta y seis años. —Retira la mano—. Conocí a Roger, a Barbablanca, a Shiki, a Garp. A los más fuertes que pisaron este mar. Y todos, todos, tenían el Haki negro.
+
+Te mira a la cara.
+
+—El Haki es el color de la voluntad, muchacho. —Se acomoda los lentes—. Y la tuya no se parece a la de nadie de este mar.
+
+Desde la raíz alta, Shakky baja con calma, con Kase en brazos, que salta a tu hombro apenas llega. Detrás del árbol, Hachi se despierta, se sienta y ve el brazo azul.
+
+—¿Nyu...? ¿Me morí?
+
+Nadie le contesta.
+
+Rayleigh no aparta la vista de ti. Sigue serio, esperando. Todavía no le contestaste.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 874 · ONE PIECE · DÍA 56 · 16:49       ║
+║ Sabaody · Grove 1, claro abandonado          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Marineford mañana (15:00).         ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:49, Grove 1. Facundo elogió el Haki de Rayleigh y recubrió el brazo con su Haki de armadura azul intenso y blanco (R11). Rayleigh fascinado: nunca vio un Haki que no fuera negro; "la tuya no se parece a la de nadie de este mar". Kase volvió al hombro; Hachi despertó. Rayleigh todavía espera la respuesta: ¿va a sacar a Ace mañana en Marineford?

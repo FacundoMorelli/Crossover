@@ -82,6 +82,10 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 - T837: las líneas-frontera del Shikai de Sakaime pueden ser invisibles si Facundo quiere.
 - T839: duran lo que Facundo quiera (reemplaza el límite de "hasta 10 minutos" del Shikai) y pueden cubrir un escenario entero.
 
+## R11. EL HAKI DE FACUNDO ES AZUL Y BLANCO (T874 · Día 56 One Piece · declarado por el jugador)
+- Texto del jugador: "recubro mi brazo con haki (color azul fuerte y blanco)".
+- El Haki de armadura de Facundo es azul intenso con vetas blancas, no negro. Por coherencia, también los rayos de su Haki del Rey con recubrimiento.
+
 ---
 
 ## NOTAS DE FORMATO (correcciones del jugador en esta partida)

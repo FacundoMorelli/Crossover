@@ -218,3 +218,4 @@
 - Rayleigh, Shakky, Hachi · T871 · Por Facundo: la semilla es "una cosa de los lugares a los que viajo".
 - Rayleigh · T871 · Deduce (no puede leerlo, pero algo se le escapa) que Facundo tiene Haki del Rey.
 - Rayleigh, Shakky, Hachi (hasta desmayarse) · T873 · Ven/sienten a Facundo chocar Haki del Rey con Rayleigh y hacerlo retroceder. Rayleigh confirma que Facundo tiene Haki del Rey de nivel altísimo.
+- Rayleigh, Shakky, Hachi · T874 · Ven el Haki de armadura de Facundo: azul intenso y blanco, no negro.
