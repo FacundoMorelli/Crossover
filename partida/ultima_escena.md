@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T902)
-ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
-
-## RESPUESTA 1 (T902)
-
-> ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
-
-Pones la mano en el hombro de Ace, justo donde empieza a arder.
-
-> —Ace, no hagas estupideces. Todos vinieron hasta aquí a salvarte. No es el momento de atacarlo.
-
-Ace no se da vuelta. Tiene la mandíbula apretada, la vista clavada en Akainu, y el fuego le sube por los brazos hasta los codos. Le tiembla todo el cuerpo.
-
-Te das vuelta hacia la montaña blanca que tienes al lado.
-
-> —Y tú, viejo, tampoco hagas nada. Vámonos. La guerra ya tiene que terminar.
-
-Por un segundo, nadie respira en la cubierta.
-
-Luffy se pone al otro lado de Ace y le agarra el antebrazo con las dos manos, encima del fuego. No le importa quemarse.
-
-—Ace.
-
-Es lo único que dice.
-
-Ace baja la vista hacia la mano de su hermano, apretándole el brazo. Respira una vez, hondo, temblando. Otra.
-
-Las llamas de los puños se le achican despacio, como una fogata a la que le tiran arena, hasta apagarse.
-
-—...Tienes razón. —Lo dice entre dientes, sin dejar de mirar a Akainu—. Tienes razón.
-
-Le da la espalda a la plaza.
-
-Barbablanca te mira desde arriba, con una ceja levantada. Se le mueve el bigote.
-
-—¡Gurararara! —Se ríe tan fuerte que la cubierta tiembla—. ¡Un mocoso dándome órdenes en mi propio barco! ¡Hacía cuarenta años que nadie se atrevía!
-
-Pero no salta a la plaza. Se acerca a la baranda, levanta un puño y golpea el aire, una sola vez.
-
-El aire se raja como vidrio. Toda la isla tiembla. El hielo de la bahía se parte con un crujido largo, enorme, en una grieta recta y profunda que separa la plaza de Marineford de los barcos piratas, un abismo de agua negra de cien metros de ancho que ningún marine puede cruzar.
-
-—¡Arriba las velas! —ruge—. ¡Nos vamos todos!
-
-La flota zarpa. Los barcos crujen, se sueltan del hielo roto y empiezan a moverse hacia la salida de la bahía, llenos de piratas que gritan, lloran y ríen a la vez.
-
-En la orilla, Akainu se queda mirando cómo se le escapan. Le cambia la cara. Ya no es fría.
-
-Levanta los dos brazos al cielo.
-
-El magma le sube por los brazos hacia arriba, hacia las nubes, en columnas de fuego, y explota allá arriba. Durante un segundo el cielo se pone rojo. Después empiezan a caer: puños de magma del tamaño de casas, cientos, como una lluvia de meteoritos, sobre los barcos que se retiran.
-
-—¡Ryusei Kazan! —ruge Akainu—. ¡Ninguno sale vivo de esta bahía!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 902 · ONE PIECE · DÍA 57 · 13:16       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Retirada. Lluvia de magma sobre    ║
-║ la flota. Shingeki: antes del D59 16:30.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T903)
+## COMANDO 1 (T903)
 bankai alrededor de toda la flota
 
-## RESPUESTA 2 (T903)
+## RESPUESTA 1 (T903)
 
 > bankai alrededor de toda la flota
 
@@ -147,10 +77,10 @@ Detrás de ti, Barbablanca apoya el bisento en la cubierta, y la madera cruje.
 
 ---
 
-## COMANDO 3 (T904)
+## COMANDO 2 (T904)
 puedo aguantarlo no se preocupen
 
-## RESPUESTA 3 (T904)
+## RESPUESTA 2 (T904)
 
 > puedo aguantarlo no se preocupen
 
@@ -209,4 +139,58 @@ Detrás de él, en la orilla, Akainu empieza a caminar hacia el borde del hielo 
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:18. La flota avanza en columna hacia la salida de la bahía bajo el Bankai de Facundo. Kizaru, parado en el aire justo afuera de la cúpula sobre la popa del Moby Dick, le pregunta a Facundo si la cúpula se cae si lo mata a él. Akainu camina hacia el borde del hielo, hirviendo el agua. Facundo puede responder.
+## COMANDO 3 (T905)
+me tendrias que poder matar para eso
+
+## RESPUESTA 3 (T905)
+
+> me tendrias que poder matar para eso
+
+> —Me tendrías que poder matar para eso.
+
+Kizaru se queda callado un momento, con la cabeza ladeada.
+
+Después se ríe, una risa floja, larga, sin ganas.
+
+—Aaah, eso es cierto~. —Se mira la suela del zapato, apoyada sobre la nada—. Y desde aquí afuera no llego, ¿verdad? Qué fastidio...
+
+No se va. Se queda flotando junto a la cúpula, con las manos en los bolsillos, y empieza a avanzar al mismo ritmo que el Moby Dick, siempre a un metro del borde plateado, siempre con los lentes apuntados hacia ti. Como un perro que sigue un carro desde el otro lado de una cerca.
+
+En la orilla, Akainu llega al borde del hielo partido. Ahí se detiene. Mira el abismo de agua negra que lo separa de la flota, cien metros de mar hirviendo bajo sus pies. No da el paso.
+
+—¡Borsalino! —ruge—. ¡¿Qué esperas?! ¡Rómpela!
+
+—No se puede, Sakazuki~. Ya lo intenté. —Kizaru ni siquiera se da vuelta—. Lo que toca la pared desaparece. Si quieres, prueba tú.
+
+Akainu aprieta los puños. El magma le gotea de los nudillos y hace sisear el agua.
+
+Entonces se da vuelta hacia la torre del cuartel, donde todavía quedan oficiales con Den Den Mushi, y grita una sola orden que retumba por toda la bahía.
+
+—¡¡Flota de bloqueo!! ¡¡Cierren la boca de la bahía!! ¡¡Ningún barco pirata sale de aquí!!
+
+Adelante, en la salida, la línea de buques de guerra que esperaba de reserva se mueve. Una hilera de veinte barcos grises, con las velas con la gaviota azul, gira en el agua y se cruza de costado delante de la boca de la bahía, cañones afuera, uno pegado al otro, como un muro de madera y hierro.
+
+La proa de la columna pirata, el barco de uno de los capitanes aliados, está a menos de cuatrocientos metros de ellos y no frena.
+
+Desde la proa del Moby Dick, Barbablanca entrecierra los ojos hacia la línea de buques.
+
+—Gurarara... —Te mira de reojo—. Mocoso. Tu pared. ¿Hasta dónde llega?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 905 · ONE PIECE · DÍA 57 · 13:20       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Sacar la flota de la bahía. Línea  ║
+║ de bloqueo en la salida. Shingeki: D59.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:20. Flota en columna bajo el Bankai hacia la boca de la bahía, donde 20 buques de guerra se cruzaron de costado a bloquear (orden de Akainu). Kizaru flota afuera de la cúpula siguiendo al Moby Dick. Akainu frenado en el borde del hielo. Barbablanca le pregunta a Facundo hasta dónde llega su pared. Facundo puede responder.

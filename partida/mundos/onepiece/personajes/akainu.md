@@ -16,3 +16,4 @@ ESTADO: activo
 - T901 · Sale del muro y provoca a Ace insultando a Barbablanca ("un perdedor que se esconde detrás de sus hijos").
 - T903 · Su Ryusei Kazan se borra contra la cúpula-frontera de Facundo. Baja los brazos, quieto, furioso.
 - T904 · Avanza al borde del hielo partido, el agua hierve.
+- T905 · No cruza el agua. "¡Borsalino, rómpela!" Ordena bloquear la boca de la bahía con 20 buques.

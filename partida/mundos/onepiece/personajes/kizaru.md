@@ -11,3 +11,4 @@ QUÉ SABE DE FACUNDO: el cartel; lo vio destruir Pacifistas; no sabe cómo lo ca
 ESTADO: herido (quemaduras de magma)
 - T903 · Llega junto a Akainu: "Eso sí que da miedo~".
 - T904 · Dispara Yasakani no Magatama a la cúpula del Bankai: se borra. Se planta afuera de la cúpula sobre el Moby Dick: "¿Y si te mato a ti, esto se cae?"
+- T905 · "Desde aquí afuera no llego, ¿verdad?" Escolta la cúpula a un metro. A Akainu: "No se puede. Lo que toca la pared desaparece."
