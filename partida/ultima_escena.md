@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T897)
-vamos luffy
-
-## RESPUESTA 1 (T897)
-
-> vamos luffy
-
-> —¡Vamos, Luffy!
-
-—¡¡SÍ!!
-
-Corren.
-
-Cruzan el hielo rajado y suben a la plaza por encima del muro roto, entre marines desmayados tirados en montones, con los fusiles todavía en la mano y la boca abierta. Kase va pegado a tu cuello, con las orejas hacia atrás por el viento.
-
-Los que quedan de pie intentan cerrarles el paso.
-
-Un vicealmirante de pelo rosado y espada recta, Momonga, salta delante de Luffy. Otro de cicatriz y espada enorme, Doberman, viene por el costado. Uno de seis brazos que fuma seis cigarros, Onigumo. Un gigante de peinado alto, Strawberry.
-
-Y de atrás, como un muro, llega Jinbe. Le pega a Doberman con un puño que levanta agua del aire. Ivankov aparece de la nada, gritando, y le guiña un ojo a Onigumo, que sale volando por una ráfaga que nadie entiende. Un fénix de llamas azules baja del cielo, se convierte en Marco y le cruza la pierna en la cara a Momonga.
-
-—¡Sigan! —grita Marco—. ¡Vayan por él!
-
-Siguen.
-
-Llegan al pie del cadalso. Es una plataforma de piedra alta, con una escalera ancha que sube hasta arriba, donde está Ace.
-
-Y al pie de la escalera, solo, los espera Garp.
-
-Ya no tiene la bolsa de galletas. Está de pie, con las piernas abiertas, el abrigo blanco de vicealmirante sobre los hombros y la palabra «JUSTICIA» bordada en la espalda. Tiene los puños cerrados, enormes, con los nudillos llenos de cicatrices.
-
-Le tiemblan.
-
-—Luffy.
-
-Luffy frena en seco delante de él. Se le borra la sonrisa.
-
-—Abuelo...
-
-—Soy un vicealmirante de la Marina. —La voz le sale ronca, rota por debajo—. Si quieres subir esa escalera, vas a tener que pasar por encima de tu abuelo.
-
-Se le llenan los ojos de lágrimas, pero no se mueve. Después te mira a ti.
-
-—Y tú también, muchacho del Puño del Amor.
-
-Arriba del cadalso, Sengoku se suelta del poste. El cuerpo le empieza a brillar, de adentro hacia afuera, con una luz dorada que le sale por los poros. Crece. Se le ensanchan los hombros.
-
-Ace, de rodillas entre los verdugos dormidos, grita hacia abajo con la voz rota:
-
-—¡¡Luffy!! ¡¡Váyanse!! ¡¡No vale la pena!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 897 · ONE PIECE · DÍA 57 · 13:09       ║
-║ Marineford · pie del cadalso                 ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 92% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace. Garp bloquea el      ║
-║ paso. Sengoku se transforma.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T898)
+## COMANDO 1 (T898)
 toco a luffy y nos teletransportamos atras de garp para seguir subiendo
 
-## RESPUESTA 2 (T898)
+## RESPUESTA 1 (T898)
 
 > toco a luffy y nos teletransportamos atras de garp para seguir subiendo
 
@@ -131,10 +63,10 @@ Al bajar, el aire debajo de la palma se comprime en una onda de choque dorada qu
 
 ---
 
-## COMANDO 3 (T899)
+## COMANDO 2 (T899)
 detengo la mano, sigue subiendo luffy
 
-## RESPUESTA 3 (T899)
+## RESPUESTA 2 (T899)
 
 > detengo la mano, sigue subiendo luffy
 
@@ -199,4 +131,78 @@ Sengoku, con la palma todavía apoyada en tu mano, gira la cabeza dorada hacia M
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:10, cima del cadalso. Facundo frena con una mano (Haki azul) la palma del Buda de Sengoku; no baja un centímetro. Luffy pasó por debajo y abrazó a Ace; las esposas de piedra marina lo debilitan. Ace: "¡Necesitas la llave!" Mr. 3 sube la escalera con una llave de cera. Sengoku gira la cabeza hacia Mr. 3.
+## COMANDO 3 (T900)
+no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
+
+## RESPUESTA 3 (T900)
+
+> no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
+
+> —No es necesario.
+
+Mr. 3 se queda congelado en la escalera, con la llave de cera a medio hacer en la mano.
+
+Levantas la vista hacia la cara dorada de Sengoku, que sigue empujando la palma contra tu mano con todo el peso del Buda.
+
+> —Perdón, Sengoku. Me caes bien. Mejor que Akainu, eso seguro. Pero tengo que ayudar a mi capitán.
+
+Los ojos del Buda se abren detrás de los lentes.
+
+Te vas.
+
+La palma dorada, de golpe sin nada que la frene, cae con todo su peso sobre la escalera vacía. Los escalones de arriba revientan en una explosión de piedra y polvo dorado. Mr. 3 sale rodando escaleras abajo, gritando. Más abajo, Garp ni se mueve: los escombros le pasan por los costados.
+
+Apareces en la cima del cadalso, al lado de Luffy y de Ace.
+
+Te agachas delante de Ace. Le agarras las esposas de piedra marina con las dos manos: frías, pesadas, lisas. A ti no te hacen nada.
+
+Aprietas.
+
+Las esposas crujen y se parten como galletas viejas. Los pedazos caen sobre el cadalso con un ruido sordo.
+
+Ace se mira las muñecas libres, rojas, con las marcas de semanas de cadenas. No entiende.
+
+Sacas una semilla del ermitaño y se la pones en la boca antes de que diga nada.
+
+Ace mastica por reflejo.
+
+Las semanas de Impel Down se le borran del cuerpo en un segundo: los moretones, los cortes de los látigos, las costillas marcadas por el hambre, las ojeras de no dormir. Se le endereza la espalda. La respiración se le vuelve larga y llena. Los ojos se le encienden.
+
+Se pone de pie.
+
+Y estalla.
+
+El fuego le sale de todo el cuerpo a la vez, como si alguien hubiera abierto la puerta de un horno: un pilar de llamas naranjas y rojas que sube veinte metros sobre el cadalso, que se ve desde toda la bahía, desde cada barco, desde cada pantalla del mundo. El calor les vuela el pelo a ti y a Luffy. Kase entrecierra los ojos.
+
+Abajo, en toda Marineford, los piratas que quedan de pie gritan a la vez, un rugido que sacude la isla.
+
+—¡¡ACE ESTÁ LIBRE!!
+
+Luffy se le tira encima, llorando y riendo al mismo tiempo, sin miedo al fuego, y Ace lo atrapa con un brazo de llamas que no lo quema.
+
+Por encima del hombro de Luffy, Ace te mira. Con los ojos muy abiertos, con las llamas bailándole en la cara.
+
+—Tú... —Le tiembla la voz—. Arabasta. El del gato. El compañero de mi hermano.
+
+Mira las esposas rotas a sus pies. Te mira a ti.
+
+—¿Quién demonios eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 900 · ONE PIECE · DÍA 57 · 13:11       ║
+║ Marineford · cima del cadalso                ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: ¡ACE LIBRE! Salir de Marineford    ║
+║ con todos. Shingeki: antes del D59.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:11, cima del cadalso de Marineford. ACE LIBRE: Facundo le rompió las esposas de piedra marina y le dio una semilla del ermitaño; Ace estalló en llamas (pilar de fuego visto por todo el mundo). La palma del Buda de Sengoku reventó la escalera vacía. Luffy abraza a Ace. Ace a Facundo: "¿Quién demonios eres?" Pendiente: salir de Marineford (Akainu bajo el muro, Aokiji, Kizaru herido, Sengoku, Garp en la escalera, Shichibukai).

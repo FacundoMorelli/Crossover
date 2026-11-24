@@ -1,8 +1,8 @@
 {
-  "turno": 899,
+  "turno": 900,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "13:10",
+  "hora": "13:11",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -417,8 +417,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 91,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford).",
+      "cantidad": 90,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford). 1 a Ace (T900, Marineford).",
       "mundo": "tienda"
     },
     {

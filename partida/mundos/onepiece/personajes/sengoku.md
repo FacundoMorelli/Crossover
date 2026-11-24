@@ -9,3 +9,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: el cartel; lo que vio hoy.
 ESTADO: activo
 - T899 · Su palma de Buda es frenada por Facundo con una mano; no puede bajarla.
+- T900 · Facundo: "Me caes bien, mejor que Akainu, eso seguro." Su palma revienta la escalera vacía.

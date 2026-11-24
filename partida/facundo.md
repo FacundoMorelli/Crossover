@@ -32,3 +32,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 822 · Deja One Piece (Día 44, Thriller Bark) y vuelve a Shingeki (día 35 tras Shiganshina, Mitras).
 - Turno 854 · Liberio · Firma como testigo el tratado de paz entre Paradis y Marley.
 - Turno 867 · Deja Shingeki (día 47) y vuelve a One Piece (Día 56, Sabaody). La tripulación fue dispersada por Kuma; mañana es Marineford.
+- Turno 900 · Marineford · Libera a Ace en la cima del cadalso.

@@ -21,3 +21,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T760 · El CP9 cae entero. Lucci vencido por Luffy. Spandam aplastado por Robin. Planos de Plutón quemados por Franky.
 - T761 · Escapan de Enies Lobby volando en el Going Merry.
 - T767 · El Going Merry, despedido con fuego en el mar frente a Water 7.
+- T900 · Ace liberado en la cima del cadalso de Marineford, ante el mundo.

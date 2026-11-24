@@ -237,3 +237,4 @@
 - Todos en Marineford (y la transmisión) · T895 · Ven a Ojos de Eclipse mandar a volar a Akainu con un gesto de la mano hasta el muro de la plaza.
 - Todos en Marineford (y la transmisión mundial) · T896 · Ven a Ojos de Eclipse soltar un Haki del Rey azul y blanco que desmaya a unos tres mil marines y a los verdugos de Ace. Sengoku, Garp, almirantes, Shichibukai lo reconocen como Haki del Rey.
 - Todos en Marineford (transmisión) · T899 · Ven a Ojos de Eclipse frenar con una mano la palma de Sengoku transformado en Buda.
+- Todos en Marineford y la transmisión mundial · T900 · Ven a Ojos de Eclipse romper con los dedos las esposas de piedra marina de Ace y a Ace quedar libre, en llamas, en la cima del cadalso.
