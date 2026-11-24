@@ -1,8 +1,8 @@
 {
-  "turno": 836,
+  "turno": 837,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 35 tras Shiganshina (Mitras)",
-  "hora": "07:15",
+  "hora": "07:18",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -133,7 +133,8 @@
           "Límite propio: no puede trazar líneas dentro del cuerpo de alguien que no ve; la frontera no detiene lo que ya estaba del otro lado.",
           "Marco (descubierto T118): si las líneas cierran una figura (por ejemplo, un cuadrado), el plano encerrado también es frontera. Cuesta más energía.",
           "Recinto (descubierto T130): un Marco trazado en el suelo alrededor de algo levanta paredes-frontera de la altura del largo de la línea (20 m en maestría 40). No tiene techo.",
-          "Sostener una frontera contra una fuerza descomunal (como el Kikōō) no la rompe, pero cada impacto le cobra energía a Facundo (T153)."
+          "Sostener una frontera contra una fuerza descomunal (como el Kikōō) no la rompe, pero cada impacto le cobra energía a Facundo (T153).",
+          "T837 (declarado por el jugador): las líneas-frontera del Shikai pueden ser invisibles si Facundo quiere."
         ]
       },
       "bankai": {

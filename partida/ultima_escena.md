@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T834)
-está bien zeke, vas a venir con nosotros encadenado a levi
-
-## RESPUESTA 1 (T834)
-
-> está bien zeke, vas a venir con nosotros encadenado a levi
-
-> —Está bien, Zeke. Vas a venir con nosotros, encadenado a Levi.
-
-Zeke suelta los barrotes despacio. Se le afloja algo en la cara que no se le había aflojado en todo el encierro. Se acomoda los lentes rajados, se mira las manos.
-
-—Gracias, del gato. —Lo dice bajo, en serio—. No te vas a arrepentir.
-
-Se ríe un poco, sin ganas.
-
-—Bueno. Probablemente no.
-
-Pasos en el pasillo. Levi vuelve con el reloj de bolsillo abierto en la mano y lo cierra con un clic justo cuando llega a la celda.
-
-—Cinco minutos.
-
-Mira a Zeke, mira la cara que tiene, te mira a ti.
-
-—¿Qué le dijiste? Tiene cara de que le regalaron un caballo.
-
-—Que va a Liberio —contesta Zeke, antes que nadie—. Encadenado a usted, capitán.
-
-Levi se queda quieto. Cierra los ojos un segundo. Los abre.
-
-—¿Otra vez atado al barbudo? —Suspira por la nariz, largo—. Cruzamos medio océano así. Ronca. Habla dormido. Huele a sopa.
-
-Guarda el reloj en el bolsillo del chaleco.
-
-—Si se mueve raro, le corto las piernas de nuevo.
-
-—Ya lo sé, capitán —dice Zeke, sonriendo—. Me lo dice todos los martes.
-
-Levi lo ignora. Se da vuelta hacia ti y se cruza de brazos.
-
-—¿Y ahora? —Inclina la cabeza—. ¿Tybur?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 834 · SHINGEKI · DÍA 35 · 06:57        ║
-║ Trost · sótano de la Guarnición, celda       ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Hablar con Willy.                            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T835)
+## COMANDO 1 (T835)
 si, ahora voy a hablar con willy
 
-## RESPUESTA 2 (T835)
+## RESPUESTA 1 (T835)
 
 > si, ahora voy a hablar con willy
 
@@ -119,10 +61,10 @@ Willy dobla el diario mojado, despacio, y lo deja a un lado. Cuando vuelve a mir
 
 ---
 
-## COMANDO 3 (T836)
+## COMANDO 2 (T836)
 me siento, que pasó estos días willy?
 
-## RESPUESTA 3 (T836)
+## RESPUESTA 2 (T836)
 
 > me siento, que pasó estos días willy?
 
@@ -175,4 +117,54 @@ Junta las manos sobre la mesa.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:15, invernadero de la mansión Tybur. Willy sigue firme, pero el alto mando cree que la fiesta es para declarar la guerra (cañones en los techos, cadetes en primera fila, flota lista); va a cambiar el discurso en el escenario. Muller informó del "agente con gato". Willy confesó que su hermana Lara porta el Martillo de Guerra (está arriba). Pregunta: "¿Cómo la protegemos?" (a Historia, si los generales disparan).
+## COMANDO 3 (T837)
+puedo poner una barerra en el escenario antes de todo, es invisible(el shikai no el bankai)
+
+## RESPUESTA 3 (T837)
+
+> puedo poner una barerra en el escenario antes de todo, es invisible (el shikai no el bankai)
+
+> —Puedo poner una barrera en el escenario antes de todo. Es invisible.
+
+Willy se queda quieto, con la taza a medio camino.
+
+—¿Una barrera?
+
+La deja en el plato, despacio. Se le aflojan los hombros apenas, como alguien que oye una buena noticia pero todavía no se anima a creerla.
+
+—Invisible. —Lo repite, probando la palabra—. ¿Y aguanta una bala de cañón? Las piezas de los techos son de campaña, de las que usamos contra los acorazados del Medio Oriente. Atraviesan una pared de ladrillo de un metro.
+
+Se pasa la mano por el bigote.
+
+—¿Y cuánto dura? El acto completo, con la llegada de los embajadores, los himnos, mi discurso y la firma, son casi dos horas.
+
+Se queda mirándote. Después se mira las manos, sobre la mesa de hierro blanco. Se ríe bajito, avergonzado.
+
+—Perdóneme. —Levanta la vista—. No es que no le crea. Usted apareció en mi despacho sin abrir una puerta, se llevó una prisionera de una celda sellada y hoy está en mi invernadero, a un océano de su isla, tomando mi té.
+
+Hace una pausa.
+
+—Pero soy un hombre que se crió entre mentiras. Mi familia lleva cien años contándole al mundo una historia que no es cierta. —Junta las manos—. ¿Podría mostrármela? Aquí. Ahora. Necesito verla con mis propios ojos. O no verla, si es invisible.
+
+Una sonrisa chica, nerviosa.
+
+—Necesito tocarla, entonces.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 837 · SHINGEKI · DÍA 35 · 07:18        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto a las tostadas       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Barrera invisible sobre el escenario.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:18, invernadero de la mansión Tybur. Facundo ofreció una barrera invisible (Shikai de Sakaime) sobre el escenario. Willy pregunta si aguanta cañones de campaña y si dura las casi dos horas del acto; pide verla, tocarla, ahí mismo.

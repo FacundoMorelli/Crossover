@@ -835,3 +835,4 @@ T833 · Shingeki · Trost · Zeke a solas: el Martillo de Guerra de los Tybur; l
 T834 · Shingeki · Trost · Zeke irá a Liberio encadenado a Levi.
 T835 · Shingeki · Liberio · Teletransportación al invernadero de Willy Tybur. "Tenemos menos tiempo del que cree."
 T836 · Shingeki · Liberio · Willy cuenta: el alto mando cree que es guerra; cañones; Lara porta el Martillo.
+T837 · Shingeki · Liberio · Ofrece una barrera invisible (Shikai) sobre el escenario. Willy pide verla.
