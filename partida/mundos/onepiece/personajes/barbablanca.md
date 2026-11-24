@@ -8,3 +8,4 @@ ENCUENTROS:
 - T884-885 · Día 57 · Marineford. Facundo (disfrazado de marine) frena la espada de Squard a un palmo de su espalda.
 ESTADO: activo
 - T886 · Abraza a Squard: "Hijo tonto. ¿Cómo voy a vender a mis hijos?" Al marine gordo: "No eres un marine. Ningún marine tiene un Haki de ese color."
+- T887 · Ve al marine gordo convertirse en Ojos de Eclipse (pelo blanco y azul, ojos rojo y azul, el gato). Se ríe: "Vinieron los dos a buscar a mi hijo."

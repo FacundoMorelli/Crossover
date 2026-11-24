@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T884)
-espero
-
-## RESPUESTA 1 (T884)
-
-> espero
-
-Esperas, entre los marines, con la barriga quieta y el sol subiendo.
-
-A las once, el mar de la bahía empieza a burbujear.
-
-No en la entrada ni en el horizonte. Adentro, en el medio de la bahía, entre los buques de guerra. Las burbujas suben del fondo cada vez más grandes, y el agua se levanta en un domo verde y brillante. De abajo emerge un barco enorme, blanco, con la proa en forma de ballena, chorreando agua por todos lados. Y detrás otro, y otro, y otro: decenas de barcos piratas que suben del fondo del mar al mismo tiempo, recubiertos con una capa brillante que se rompe al tocar el aire.
-
-—¡LOS BARCOS SALEN DEL AGUA! —grita alguien en la plaza.
-
-En la proa de la ballena blanca, de pie, hay un hombre gigantesco, viejo, con un bigote blanco en forma de media luna, el abrigo de capitán sobre los hombros y una naginata en la mano. Tiene tubos de hospital clavados en el brazo. Respira hondo.
-
-Barbablanca.
-
-Habla. No grita, pero se lo oye en toda la isla, grave, tranquilo, como una tormenta que todavía no llegó.
-
-—¿Mi hijo está bien?
-
-Después levanta el puño en el aire, delante de él. El aire se raja como si fuera vidrio. Toda la isla tiembla. Y del mar, a los dos lados de Marineford, se levantan dos olas tan altas como montañas, que avanzan hacia la isla.
-
-Un hombre salta desde la plaza hacia el mar: Aokiji. Toca el agua y las dos olas se congelan a mitad de camino. Después se congela la bahía entera, con los barcos piratas atrapados en el hielo.
-
-La guerra empieza.
-
-Miles de piratas bajan de los barcos al hielo y cargan hacia la plaza. Entre ellos va un gigante descomunal, más alto que los buques: Oars Jr. Un hombre de cuerpo de diamante parte un barco de un golpe. Un rubio de llamas azules vuela por encima del hielo. Un espadachín de bigote retorcido corta cañonazos en el aire. Desde la plaza, Akainu levanta un brazo y lanza una lluvia de puños de magma como meteoritos, que caen sobre el hielo y lo derriten. Kizaru dispara rayos de luz desde los dedos. Mihawk desenvaina la espada negra y corta un barco por la mitad desde cien metros.
-
-El ala este también pelea. Los piratas suben por el muro de la costa con garfios y cuchillos. Los marines alrededor de ti disparan y gritan. El de anteojos llora y dispara al aire. Tú te mueves, esquivas, empujas, y no haces nada que se note.
-
-Pasa una hora. El hielo está lleno de cuerpos, humo y gritos.
-
-A las doce y cuarenta, alguien grita mirando el cielo.
-
-—¡ARRIBA! ¡ALGO CAE!
-
-En el cielo, sobre la bahía, cae un buque de guerra de la Marina. Cae entero, desde muy alto, de proa, dando vueltas, como si una ola gigante lo hubiera escupido por encima de las nubes. De la cubierta caen personas como semillas: un hombre-pez enorme, uno con un garfio de oro y una cicatriz en la cara, uno de cabeza gigante con peinado afro, un payaso de nariz roja gritando de terror, uno con el pelo en forma de tres...
-
-Y uno chiquito, flaco, con un sombrero de paja.
-
-El buque revienta contra el hielo de la bahía y levanta una montaña de agua helada. Cuando el agua baja, en medio del hielo roto, hay un muchacho de pie, empapado, con el sombrero en la cabeza, mirando el cadalso.
-
-Luffy grita. Con toda la voz.
-
-—¡¡ACEEE!! ¡¡VINE A SALVARTE!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 884 · ONE PIECE · DÍA 57 · 12:40       ║
-║ Marineford · ala este, junto al muro         ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Luffy llegó. Shingeki: antes del D59 16:30.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T885)
+## COMANDO 1 (T885)
 antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
 
-## RESPUESTA 2 (T885)
+## RESPUESTA 1 (T885)
 
 > antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
 
@@ -129,10 +63,10 @@ En la plaza, a lo lejos, Akainu levanta la cabeza.
 
 ---
 
-## COMANDO 3 (T886)
+## COMANDO 2 (T886)
 que chico tonto, creyendole al peor almirante de la historia
 
-## RESPUESTA 3 (T886)
+## RESPUESTA 2 (T886)
 
 > que chico tonto, creyendole al peor almirante de la historia
 
@@ -185,4 +119,64 @@ Adentro de tu camisa, Kase se pone tenso.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 12:59, cubierta del Moby Dick. Barbablanca, sin herida, abrazó a Squard ("Hijo tonto"); Squard llora pidiendo perdón. Barbablanca mira a Facundo (disfrazado, con la espada de Squard entre dos dedos azules): "No eres un marine. En cincuenta años no vi a un solo marine con un Haki de ese color." Marco aterrizó en la baranda con llamas azules, listo para saltar. Kase tenso en la camisa.
+## COMANDO 3 (T887)
+perdon perdon no me presente todavia, me saco la ropa y me pongo mi ropa de siempre, me cambio el pelo y me saco los lentes de contacto, kase ya puedes subir al hombro
+
+## RESPUESTA 3 (T887)
+
+> perdon perdon no me presente todavia, me saco la ropa y me pongo mi ropa de siempre, me cambio el pelo y me saco los lentes de contacto, kase ya puedes subir al hombro
+
+> —Perdón, perdón. No me presenté todavía.
+
+Abres los dedos. La espada de Squard cae sobre la cubierta con un ruido metálico y queda ahí, olvidada.
+
+El uniforme de marine desaparece. No te lo sacas: se va, de golpe, al inventario. En su lugar aparece tu ropa de siempre: los borceguíes negros, el pantalón cargo y el sobretodo largo, que se abre con el viento de la guerra.
+
+El pelo negro corto se te alarga en un segundo y se aclara desde la raíz. Vuelve el blanco. Vuelve el azul oscuro, largo, desordenado, cayéndote sobre los hombros.
+
+Te llevas los dedos a los ojos y te sacas los lentes marrones. Debajo vuelven a brillar el rojo carmesí y el azul hielo.
+
+> —Kase, ya puedes subir al hombro.
+
+Por el cuello del sobretodo asoma una cabeza enorme, blanca y azul, despeinada y furiosa. Kase sale entero, se sacude en la cubierta como un perro mojado, te mira con un desprecio que debe haber guardado durante cuatro horas y salta a tu hombro. Se acomoda y te enrosca la cola en el cuello.
+
+Marco, en la baranda, baja los brazos despacio. Las llamas azules se le achican.
+
+—Ojos de Eclipse. —Te mira de arriba abajo—. El de los cuatrocientos millones. El del Sombrero de Paja.
+
+Squard levanta la cara del pecho de Barbablanca, con los ojos rojos, sin entender nada.
+
+Barbablanca te mira largo. Después echa la cabeza hacia atrás y suelta una carcajada que se oye en toda la bahía congelada.
+
+—¡Gurararara! ¿El compañero del mocoso de goma? —Se pone de pie, con Squard todavía colgado del brazo—. ¡Vinieron los dos a buscar a mi hijo! ¡Qué tripulación más loca!
+
+En la plaza, del otro lado del hielo, alguien te vio.
+
+Un oficial con un catalejo, en lo alto del muro de cañones, grita por un Den Den Mushi y la voz sale amplificada por toda Marineford:
+
+—¡¡OJOS DE ECLIPSE!! ¡¡OJOS DE ECLIPSE ESTÁ EN EL MOBY DICK!! ¡¡CUATROCIENTOS MILLONES!!
+
+Miles de cabezas se dan vuelta hacia el barco.
+
+En las tres sillas frente al cadalso, Akainu se pone de pie. Despacio. Del puño derecho le empieza a salir humo.
+
+Arriba del cadalso, Ace levanta la cabeza y mira hacia el Moby Dick, con los ojos muy abiertos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 887 · ONE PIECE · DÍA 57 · 13:00       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, furioso                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Identificado. Shingeki: antes del D59.       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:00, cubierta del Moby Dick. Facundo se quitó el disfraz (ropa negra, pelo blanco y azul, ojos rojo y azul, Kase al hombro). Marco lo reconoce como Ojos de Eclipse del Sombrero de Paja. Barbablanca, riéndose: "¡Vinieron los dos a buscar a mi hijo!" La Marina lo anuncia por altavoz; Akainu se pone de pie con humo en el puño; Ace mira hacia el Moby Dick. Luffy avanzando por el hielo.
