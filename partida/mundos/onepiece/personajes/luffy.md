@@ -46,3 +46,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T912 · Llega a Kuraigana con Facundo; ve a Zoro.
 - T913 · Corre a Zoro; manda a volar a tres Humandrills de un manotazo.
 - T917 · A Zoro: "Dos años. Y después nos juntamos en Sabaody." Choca puños.
+- T918 · Acompaña a Facundo a ver a los siete. En Tequila Wolf, ve a Robin presa y aprieta los puños.

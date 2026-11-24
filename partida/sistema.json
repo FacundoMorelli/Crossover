@@ -1,8 +1,8 @@
 {
-  "turno": 917,
+  "turno": 918,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "13:48",
+  "hora": "17:20",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 81,
+  "energia_actual_pct": 76,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

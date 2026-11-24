@@ -15,3 +15,4 @@ ENCUENTROS:
 - T367 · llega con Luffy. Ve a Nami y se le van los ojos en corazones; después ve el patio destrozado.
 - T585 · Llega corriendo con bolsas. "¡¿Facundo?! ¡¿De dónde saliste?! ...Hay comida para uno más, supongo."
 - T664 · Ve a Robin dormida en el hombro de Facundo; muerde un trapo en silencio.
+- T918 · Día 57 · (simulado) Momoiro, perseguido por okamas; ruega que lo saquen. Al saber de las 99 recetas del rey, decide quedarse dos años. Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.

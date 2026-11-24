@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T915)
-le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
-
-## RESPUESTA 1 (T915)
-
-> le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
-
-Sacas una semilla del ermitaño y se la tiras por encima de los babuinos, en el mismo segundo en que el canoso empieza a bajar los sables.
-
-Zoro la atrapa con la mano libre, sin mirar. Se la mete en la boca de un golpe, por el costado de Wado, y mastica.
-
-> —Tienes que seguir. Si no puedes contra estos monos, ¿cómo vas a poder con Mihawk?
-
-Los dos sables caen.
-
-Y se frenan.
-
-Zoro los para con Shusui y Kitetsu cruzadas por encima de la cabeza, todavía con la rodilla en el barro, pero ya sin temblar. La herida del costado se le cierra debajo de la venda rota. La sangre de la frente deja de correr. Los hombros se le llenan de golpe, como si alguien le hubiera devuelto diez días de comida y de sueño en un solo bocado.
-
-Se para.
-
-Despacio, empujando los dos sables del canoso hacia arriba, centímetro a centímetro, hasta que el babuino tiene que dar un paso atrás para no perder el equilibrio.
-
-—Mihawk... —dice Zoro entre los dientes, alrededor de la empuñadura de Wado. Le brilla el ojo bajo el pañuelo—. Tienes razón.
-
-El canoso salta hacia atrás y los catorce se le tiran encima a la vez.
-
-Esta vez no le alcanza a ninguno.
-
-Zoro gira sobre un pie y las tres espadas dibujan un círculo completo a su alrededor. Los cuatro babuinos de adelante salen volando con las armaduras partidas. Da un paso. Otros tres. Otro paso. Dos más contra los árboles. Ya no se defiende: avanza. Los monos copian sus movimientos, pero él se mueve más rápido de lo que ellos alcanzan a copiar, y cada vez que uno repite una guardia, Zoro ya cambió a otra.
-
-Luffy se vuelve a sentar en la raíz, con una sonrisa de oreja a oreja.
-
-—¡¡Shishishi!! ¡¡Ese es Zoro!!
-
-Perona se queda flotando con la boca abierta, el paraguas colgando de una mano.
-
-—¿Qué... qué le diste? ¡¿Qué le diste?!
-
-En menos de un minuto, el claro queda en silencio.
-
-Trece babuinos tirados en el barro, gimiendo, con las armas rotas. Algunos se arrastran hacia la niebla. Ninguno se levanta.
-
-Solo queda uno de pie. El canoso.
-
-Está a diez metros de Zoro, con los dos sables cruzados delante de la cara, respirando por la nariz. Ya no lo mira como a una presa: lo estudia. Zoro tampoco se mueve. Tiene las tres espadas en guardia, el pecho subiendo y bajando, la venda suelta colgándole de la cintura.
-
-—Este es el último —dice, sin sacarle el ojo de encima.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 915 · ONE PIECE · DÍA 57 · 13:43       ║
-║ Kuraigana · claro del bosque muerto          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T916)
+## COMANDO 1 (T916)
 miro
 
-## RESPUESTA 2 (T916)
+## RESPUESTA 1 (T916)
 
 > miro
 
@@ -141,10 +75,10 @@ Se cruza de brazos.
 
 ---
 
-## COMANDO 3 (T917)
+## COMANDO 2 (T917)
 nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
 
-## RESPUESTA 3 (T917)
+## RESPUESTA 2 (T917)
 
 > nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
 
@@ -205,4 +139,88 @@ Después Zoro te mira a ti. Te mira de arriba abajo: el pelo, los ojos, el gato 
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:48, Kuraigana. Zoro aceptó los dos años y esperará a Mihawk en su castillo. Chocó puños con Luffy. Le pregunta a Facundo qué va a hacer él en esos dos años. Facundo puede responder.
+## COMANDO 3 (T918)
+voy a estar viajando. simula decirle al resto hasta robin(ultima)
+
+## RESPUESTA 3 (T918)
+
+> voy a estar viajando. simula decirle al resto hasta robin(ultima)
+
+> —Voy a estar viajando.
+
+Zoro levanta una ceja. No pregunta más.
+
+—Hmph. Como quieras. —Se da vuelta hacia el castillo—. Pero en dos años, en Sabaody, más te vale estar.
+
+Perona les grita algo desde el aire mientras te vas, algo sobre que no la dejen sola con ese bruto. No alcanzas a oír el final.
+
+Dos dedos en la frente. Otra presencia.
+
+Weatheria es una isla que flota en el cielo, por encima de las nubes, hecha de casas redondas con globos y molinos que giran solos. Nami está en el medio de una biblioteca de techo de vidrio, gritándole a un viejo bajito de barba blanca que no la deja irse. Cuando ustedes aparecen entre los estantes, se le cae de las manos un libro del tamaño de una puerta.
+
+Le pega a Luffy en la cabeza. Después a ti. Después los abraza a los dos a la vez, con la cara mojada, y les grita que son unos idiotas por haberla asustado así. Escucha lo de los dos años con los labios apretados, mirando de reojo los instrumentos del clima que llenan la sala, y termina diciendo que, si es así, ella se queda, que acá hay cosas que ningún navegante del mundo sabe y que quiere aprenderlas todas. Antes de que se vayan, le arranca a Luffy la promesa de que en Sabaody el primero que llegue tarde paga la comida.
+
+Boin es una selva que respira. Plantas que comen pájaros, flores del tamaño de casas, bichos que cantan. Usopp está colgado de cabeza de una liana, atrapado por una planta, llorando, mientras un hombre enorme con un escarabajo en la cabeza le grita desde abajo que eso le pasa por no prestar atención. Luffy lo baja de un tirón.
+
+Usopp llora el doble. Abraza a Luffy, te abraza a ti, abraza al gato, que le pega un zarpazo. Cuando escucha lo de los dos años, se queda callado, se seca la cara con la manga y mira al hombre del escarabajo, que dice llamarse Heracles. Dice que va a aprender todo lo que crece en esta isla, que la próxima vez que alguien quiera hacerles daño, el gran capitán Usopp va a tener un arma para eso. Le tiemblan las piernas mientras lo dice. Lo dice igual.
+
+Momoiro es una isla rosa. Todo es rosa: las casas, los árboles, el pasto, el cielo. Y está llena de hombres enormes, peludos y musculosos, con vestidos, maquillaje y tacones, que persiguen a Sanji por un campo de flores gritándole que se pruebe un vestido.
+
+Sanji los ve aparecer y se tira encima de Luffy, llorando. Le ruega, de rodillas, que lo saque de ahí, que lo lleve a cualquier lado, a Impel Down, al fondo del mar, a donde sea. Luffy se ríe tanto que se cae al pasto. Cuando por fin escucha lo de los dos años, Sanji se queda blanco. Después ve, a lo lejos, a un okama con delantal salir de una cocina con un plato humeante, y se le cambia la cara. Pregunta si es cierto que el rey de esa isla tiene noventa y nueve recetas de un arte de cocina que nadie más conoce. Cuando el okama más cercano le dice que sí, que se las dan al que gane las peleas contra ellos, Sanji se pone de pie, se arregla la corbata, prende un cigarrillo con las manos temblando y dice que dos años es suficiente.
+
+En el Reino Torino hace calor. Chopper está en la cima de un árbol gigantesco, atado y a punto de ser cocinado por una tribu de gente pequeña, rodeado de pájaros del tamaño de barcos. Luffy lo desata antes de que se den cuenta. Chopper llora a gritos colgado de tu cuello. Cuando la tribu ve que un médico de verdad los está curando de una fiebre que tienen hace semanas, lo empiezan a tratar como a un rey. Chopper escucha lo de los dos años y se seca los mocos con la pezuña. Dice que en esta isla hay plantas que no salen en ningún libro, que va a ser el mejor médico del mundo, y que cuando vuelvan a verlo, no va a llorar nunca más. Lo dice llorando.
+
+En la Isla Karakuri, Franky está solo, cubierto de aceite, adentro de un laboratorio enorme lleno de máquinas, con los ojos brillando como un chico en una juguetería. Les cuenta, a los gritos, que ese lugar era de Vegapunk, el científico más grande del mundo, y que hay planos que podrían hacer de él un hombre nuevo. Lo de los dos años lo escucha con los brazos cruzados y lágrimas que no se molesta en esconder. Dice que es un tiempo SUPER y le pide a Luffy que cuide del Sunny cuando vuelvan.
+
+En la Isla Namakura, Brook está encerrado en una jaula, en el medio de una plaza llena de gente de brazos larguísimos que se ríe de él, le tira cosas y le dice monstruo. Luffy se pone serio. Pero antes de que nadie haga nada, Brook pide permiso para tocar una canción. Toca. Y la plaza entera se queda callada. Escucha lo de los dos años por entre los barrotes, con la cabeza ladeada, y se ríe con ese sonido de huesos. Dice que, si pudo esperar cincuenta años solo en un barco fantasma, dos años con público le van a parecer un concierto. Yohohoho. Pide quedarse. Quiere que esa gente que lo llama monstruo termine cantando sus canciones.
+
+Siete de ocho.
+
+Cuando vuelven a quedar solos, en una playa de Namakura, Luffy se tira en la arena boca arriba, con los brazos abiertos y el sombrero tapándole la cara, riéndose bajito.
+
+Después se sienta de golpe y te mira.
+
+Ya sabe a quién falta ver.
+
+Te pones los dedos en la frente y buscas la última presencia. La que encontraste del otro lado de la Red Line. Cansada. Entera.
+
+El mundo da vuelta.
+
+El aire es distinto: más frío, más húmedo, con olor a sal, a cal y a sudor. El cielo está nublado. El sonido es lo primero que te llega: martillos, cadenas, látigos, cientos de pies arrastrándose sobre piedra.
+
+Están en un puente.
+
+Un puente de piedra que sale del horizonte y se pierde en el horizonte, sobre un mar quieto, sin una sola isla a la vista. Por todo el borde, hasta donde da la vista, hay gente: hombres, mujeres, viejos, encadenados de a dos por los tobillos, cargando bloques de piedra en la espalda, empujando carretillas, golpeando con martillos. Las caras grises de polvo. Los ojos sin nada adentro. Entre ellos caminan guardias con uniformes del Gobierno Mundial, látigos en el cinturón y fusiles colgados al hombro.
+
+Luffy se queda duro a tu lado. Aprieta los puños.
+
+A cincuenta metros, en la fila de los que cargan piedras, hay una mujer alta, de pelo negro largo y sucio, atado hacia atrás con una tira de tela. Tiene la ropa gris de los presos, rota en los hombros. En las muñecas, unas esposas de piedra marina. En la espalda, un bloque de piedra que le dobla el cuerpo.
+
+Camina despacio, mirando el suelo, como todos.
+
+Un guardia le grita algo desde atrás, que se apure. Ella no contesta. Sigue caminando.
+
+Después, sin saber por qué, se detiene.
+
+Levanta la cabeza.
+
+Y te ve.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 918 · ONE PIECE · DÍA 57 · 17:20       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 76% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisados 7/8. Robin. Bankai sobre  ║
+║ la flota. Shingeki: antes del D59 16:30.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:20, Tequila Wolf. Avisados 7 de 8 (simulado). En el puente de esclavos, Robin (encadenada, esposas de piedra marina, cargando piedra) levanta la cabeza y ve a Facundo, a 50 m. Luffy al lado. Guardias del Gobierno alrededor. Facundo puede actuar.

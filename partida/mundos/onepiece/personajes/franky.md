@@ -21,3 +21,4 @@ ESTADO: activo
 - T768 · Día 37 · Ofrece construirles un barco de madera de Adán si ponen la plata (~200M): "Pongan la plata y yo pongo el sueño."
 - T769 · Recibe 200M para la madera de Adán. Se niega a unirse como carpintero.
 - T800 · Termina el barco de madera de Adán. Día 40: se une como carpintero (le roban la malla).
+- T918 · Día 57 · (simulado) Karakuri, en el laboratorio de Vegapunk. Se quedará a rehacerse. Pide a Luffy cuidar el Sunny. Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.

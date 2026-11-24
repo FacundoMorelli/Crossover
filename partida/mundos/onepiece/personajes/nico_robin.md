@@ -84,3 +84,4 @@ ESTADO: activa
 - T820 · Facundo promete no volver a dormirla ni sacrificarse solo a escondidas. Lo besa. Le da su señalador (hoja seca de Skypiea). Le pide que se quede un rato más.
 - T821 · Dos horas abrazada a Facundo en la biblioteca, leyéndole el libro de Paradis. "Vete tranquilo. Y cuando vuelvas, me cuentas cómo termina la historia de ese mundo."
 - T822 · Se despiden con un beso en la cubierta del Sunny. Lo ve cruzar la puerta.
+- T918 · Día 57 17:20 · Tequila Wolf. Presa: esposas de piedra marina, cargando un bloque en el puente. Levanta la cabeza y ve a Facundo (no lo veía desde T822).

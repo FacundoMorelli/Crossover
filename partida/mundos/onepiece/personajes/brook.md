@@ -14,3 +14,4 @@ ESTADO: activo
 - T806 · Advierte sobre Gecko Moria. Llora de emoción cuando la tripulación decide recuperar su sombra.
 - T808 · Le devuelven la sombra (Zoro vence a Ryuma). Ve el amanecer de pie.
 - T816 · Cuenta su historia (Rumbar, Yorki, Laboon, Binks no Sake). Se une oficialmente; va a ver a Laboon vivo.
+- T918 · Día 57 · (simulado) Namakura, en una jaula como "monstruo". Toca y calla la plaza. Se queda para que esa gente cante sus canciones. Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.

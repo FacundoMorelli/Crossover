@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: la puerta.
 ESTADO: activo
 - T581 · Usopp lo presenta. Se asoma desde el barril, desconfiado.
 - T659 · "¡Por lo menos eres un monstruo de los nuestros!"
+- T918 · Día 57 · (simulado) Torino, atado para ser cocinado; Luffy lo desata. Cura la fiebre de la tribu, lo tratan como rey. Se queda a estudiar medicina: "No voy a llorar nunca más" (llorando). Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.

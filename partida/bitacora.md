@@ -916,3 +916,4 @@ T914 · One Piece · Kuraigana · Zoro voltea a 12 Humandrills pero cae sobre un
 T915 · One Piece · Kuraigana · Semilla a Zoro. "¿Cómo vas a poder con Mihawk?" Zoro voltea a los Humandrills; queda solo el canoso.
 T916 · One Piece · Kuraigana · Zoro vence al jefe de los Humandrills con Oni Giri. "Dijiste que tenían algo que decirme. Habla."
 T917 · One Piece · Kuraigana · Zoro avisado: dos años, esperará a Mihawk. "¿Y tú qué vas a hacer en estos dos años?"
+T918 · One Piece · Weatheria→Boin→Momoiro→Torino→Karakuri→Namakura→Tequila Wolf · (simulado) Avisados siete. En el puente de Tequila Wolf, Robin, presa, levanta la cabeza y lo ve.

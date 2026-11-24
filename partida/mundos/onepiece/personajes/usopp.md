@@ -22,3 +22,4 @@ QUÉ SABE DE FACUNDO (T352): lo vio en persona (pelo, tatuajes, gato). Cree que 
 - T731 · Franky ofrece reforzar el Merry para el último viaje.
 - T760 · Esposado a Zoro; Zoro vence a Kaku. Sube al Merry.
 - T765 · Llora; acepta despedir al Merry: "En el mar. No en un muelle. Que se vaya navegando."
+- T918 · Día 57 · (simulado) Boin, colgado de una planta. Llora, abraza a todos (Kase le da un zarpazo). Se queda con Heracles para aprender las plantas. Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.

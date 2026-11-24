@@ -173,3 +173,4 @@
 - Día 57 13:37 · (T912) Facundo y Luffy llegan a Kuraigana. Zoro herido peleando contra Humandrills; Perona lo cuida (canon).
 - Día 57 13:46 · (T916) Zoro vence a los Humandrills y a su jefe en Kuraigana (canon: lo lograba recién tras meses de entrenamiento con Mihawk).
 - Día 57 13:48 · (T917) Zoro, avisado por Facundo y Luffy: dos años de entrenamiento, reunión en Sabaody. Decide esperar a Mihawk en Kuraigana.
+- Día 57 13:50-17:20 · (T918) Facundo y Luffy visitan por teletransporte a Nami (Weatheria), Usopp (Boin), Sanji (Momoiro/Kamabakka), Chopper (Torino), Franky (Karakuri), Brook (Namakura): todos aceptan dos años de entrenamiento y reunión en Sabaody (canon: se enteraban por el mensaje 3D2Y del diario). 17:20: llegan a Tequila Wolf, donde Robin está presa.

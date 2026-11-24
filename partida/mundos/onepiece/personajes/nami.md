@@ -18,3 +18,4 @@ QUÉ SABE DE FACUNDO: nada; lo ve por primera vez.
 - T377 · Le cuenta a Facundo lo de los 100 millones bajo los mandarinos. "Gracias. De verdad."
 - T383 · Recibe 12M de Facundo para la tripulación ("úsenlo para lo que quieran"). Lo abraza. Se nombra tesorera.
 - T581 · Le pega en la cabeza por irse sin avisar y lo abraza.
+- T918 · Día 57 · (simulado) Weatheria. Le pega a Luffy y a Facundo, los abraza llorando. Se queda a estudiar el clima con Haredas. "El primero que llegue tarde a Sabaody paga la comida." Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.
