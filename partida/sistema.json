@@ -1,8 +1,8 @@
 {
-  "turno": 1042,
+  "turno": 1043,
   "mundo_actual": "hunterxhunter",
   "fecha_local": "Día 1 (día del duelo Hisoka vs. Chrollo)",
-  "hora": "19:38",
+  "hora": "19:39",
   "edad": 18,
   "nivel": 27,
   "exp": 237350,
@@ -932,6 +932,19 @@
         "Todo lo que Dende llega a hacer",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Bungee Gum y Texture Surprise",
+      "de": "Hisoka Morow",
+      "mundo": "hunterxhunter",
+      "cuando": "T1043, Día 1 19:39, calle de los baños públicos detrás de la Torre Celestial",
+      "mision": "Que Hisoka Morow te elija como su próxima presa (cumplida: 'Tú vas primero')",
+      "incluye": [
+        "Bungee Gum: aura con las propiedades del caucho y del chicle; pega, estira y contrae; se puede lanzar y mantener a distancia",
+        "Bungee Gum post-mortem (reiniciar el corazón y los pulmones tras la muerte)",
+        "Texture Surprise: texturas falsas sobre cualquier superficie (incluidos miembros falsos)",
+        "Todo lo que Hisoka hace en su canon (R2), sin condiciones propias del original"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1248,13 +1261,6 @@
       "mundo": "hunterxhunter",
       "mision": "Dejar que Chrollo Lucilfer intente robarte una habilidad.",
       "dificultad": "ALTA",
-      "emitida": "T1041"
-    },
-    {
-      "poder": "Bungee Gum y Texture Surprise — Hisoka Morow",
-      "mundo": "hunterxhunter",
-      "mision": "Que Hisoka Morow te elija como su próxima presa.",
-      "dificultad": "MEDIA",
       "emitida": "T1041"
     }
   ],

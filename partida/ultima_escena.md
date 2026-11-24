@@ -3,92 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1040)
-entro a la torre a ver la pelea
-
-## RESPUESTA 1 (T1040)
-
-> entro a la torre a ver la pelea
-
-Las boleterías de la planta baja tienen carteles rojos: AGOTADO. Igual hay una marea de gente empujando hacia las puertas, con entradas, sin entradas, con entradas falsas que un revendedor vende en la esquina a gritos.
-
-Te metes en la marea.
-
-En la puerta, dos empleados de uniforme intentan revisar boletos y no pueden: la gente pasa en bloque, a los empujones, y ellos solo atinan a gritar que no corran. Pasas en el medio del bloque. Uno de los empleados te mira, mira al gato erizado en tu hombro, abre la boca para decir algo y lo arrastra la multitud para el otro lado.
-
-Adentro, los ascensores son una fila de puertas plateadas con números que suben hasta un piso que no termina nunca. El tuyo va lleno, apretado, con olor a perfume y a sudor. Una ascensorista con gorrito anuncia los pisos con voz de grabación. Todos bajan en el mismo: el estadio del Maestro de Piso.
-
-[17:58 · Torre Celestial · estadio del piso de los Maestros.]
-
-El estadio es un cráter. Gradas de cemento que bajan en anillos, llenas hasta el último escalón, y en el fondo, iluminado por reflectores, un ring cuadrado de piedra lisa, enorme, de cincuenta metros de lado. Arriba, pantallas que muestran el ring desde cuatro ángulos. Un comentarista en una cabina de vidrio grita en un micrófono. Hace calor. El aire vibra con los gritos.
-
-Te quedas de pie en un pasillo, en la parte alta de las gradas, con la espalda contra una columna.
-
-Las tres presencias de la avenida están aquí también. Las encuentras sin buscar: sentadas juntas, en la tercera fila de la grada del lado este, cerca del ring. Una es un muchacho rubio, de cara aniñada, con un celular en la mano y una sonrisa tranquila. Otra es bajita y está cubierta de pelo largo que le tapa la cara entera salvo un ojo. La tercera es una mujer de pelo violeta recogido y kimono corto, que no aplaude ni grita, con los brazos cruzados.
-
-A las seis en punto, las luces se apagan. El estadio entero ruge.
-
-Un reflector se enciende sobre la entrada norte del ring. Sale Hisoka, caminando despacio, con las manos en los bolsillos y una sonrisa enorme. Saluda a la grada con dos dedos. La gente enloquece.
-
-El otro reflector, sobre la entrada sur. Sale Chrollo. Lleva un abrigo largo con una cruz invertida en la espalda, y un libro bajo el brazo. No saluda a nadie.
-
-Se paran en el centro, a diez metros uno del otro.
-
-╔════════════════════════════════════════╗
-║ HISOKA MOROW                           ║
-║ Luchador · Transmutador                ║
-║ PODER: Bungee Gum, Texture Surprise    ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x70 sobre él  ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-
-╔════════════════════════════════════════╗
-║ CHROLLO LUCILFER                       ║
-║ Líder de la Tropa Fantasma ·           ║
-║ Especialista                           ║
-║ PODER: Skill Hunter (robo de           ║
-║        habilidades)                    ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x65 sobre él  ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-
-—Te advierto una cosa antes de empezar —dice Chrollo. No levanta la voz, pero los micrófonos del ring lo recogen y el estadio entero lo escucha—. Voy a usar todo lo que tengo. Todas las habilidades que robé. Y antes de que termine la pelea, voy a explicarte cada una.
-
-Hisoka se ríe bajito. Se le estira la sonrisa hasta las orejas.
-
-—Mmm... ♠ —Saca una carta de la manga, la hace girar entre los dedos—. Eso es justo lo que quería escuchar.
-
-El árbitro levanta la mano.
-
-—¡Hisoka contra Chrollo! ¡Duelo de Maestro de Piso! ¡Comiencen!
-
-Chrollo abre el libro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1040 · HUNTER X HUNTER · DÍA 1 · 18:00 ║
-║ Torre Celestial · estadio del Maestro de     ║
-║ Piso, gradas altas                           ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Ver el duelo                       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1041)
+## COMANDO 1 (T1041)
 obvservo la pelea
 
-## RESPUESTA 2 (T1041)
+## RESPUESTA 1 (T1041)
 
 > obvservo la pelea
 
@@ -202,10 +120,10 @@ En la calle, a cuatro cuadras de la Torre, el pequeño de pelo largo camina solo
 
 ---
 
-## COMANDO 3 (T1042)
+## COMANDO 2 (T1042)
 me teletransporto a los baños y protejo a Kortopi
 
-## RESPUESTA 3 (T1042)
+## RESPUESTA 2 (T1042)
 
 > me teletransporto a los baños y protejo a Kortopi
 
@@ -261,4 +179,67 @@ Saca una carta de la manga. La hace girar entre los dedos de la mano de goma.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:38, puerta de los baños públicos detrás de la Torre. Facundo entre Kortopi y Hisoka. Hisoka (miembros de aura) no siente nada de Facundo y lo encuentra interesante. Facundo puede actuar.
+## COMANDO 3 (T1043)
+tengo una mision, no puedo dejar que le hagas nada
+
+## RESPUESTA 3 (T1043)
+
+> tengo una mision, no puedo dejar que le hagas nada
+
+> —Tengo una misión. No puedo dejar que le hagas nada.
+
+Detrás de ti, Kortopi se pone rígido.
+
+Hisoka se queda mirándote. La carta deja de girar entre sus dedos.
+
+Después se ríe. Primero bajito, con los hombros, y después más fuerte, echando la cabeza para atrás, hasta que la risa rebota en las paredes de los edificios y un perro empieza a ladrar en algún departamento.
+
+—¿Una misión? —Se seca una lágrima con el pulgar de la mano de goma—. ¿Proteger a una araña? ¿Tú? ¿Quién te mandó? ¿Chrollo? —Ladea la cabeza—. No, Chrollo no sabe hacer amigos. ♣
+
+Da un paso. Después otro. Despacio, con la pierna de aura que no hace ruido sobre el asfalto.
+
+—Sabes, me acaban de matar —dice, como quien cuenta lo que almorzó—. Me volaron una mano, una pierna y el corazón. Fue lo mejor que me pasó en años. —Sonríe—. Y ahora que estoy vivo, tengo una lista. Todas las arañas, una por una. Ese pequeño era la primera.
+
+Se detiene a diez metros. Te mira de nuevo. Los ojos amarillos se le encienden de una forma distinta: más fija, más hambrienta.
+
+—Pero tú... —murmura—. Tú no estabas en la lista. No tienes aura. No tienes miedo. Te paras delante de una araña como si fuera tu hermano chico. —Se lame el labio de abajo—. Y eso es lo más interesante que vi esta noche.
+
+Levanta la carta a la altura de la cara.
+
+—Cambio de planes. ♥ Las arañas pueden esperar. —Sonríe con todos los dientes—. Tú vas primero.
+
+[Misión de copia cumplida: Hisoka Morow te eligió como su próxima presa.]
+
+╔══════════════════════════════════════════════╗
+║ PODER REGISTRADO                             ║
+║ Bungee Gum y Texture Surprise                ║
+║ DE: Hisoka Morow · Hunter x Hunter           ║
+║ Aura con las propiedades del caucho y del    ║
+║ chicle: pega, estira, contrae, a distancia.  ║
+║ Texturas falsas sobre cualquier superficie.  ║
+║ Dominio total.                               ║
+╚══════════════════════════════════════════════╝
+
+La carta sale de sus dedos.
+
+No la ves salir: la ves llegar. Un rectángulo de papel blanco envuelto en aura, girando como una sierra, directo a tu cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1043 · HUNTER X HUNTER · DÍA 1 · 19:39 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:39, baños públicos. Hisoka eligió a Facundo como su próxima presa (copia de Bungee Gum y Texture Surprise) y le lanzó una carta de aura a la cara. Kortopi detrás. Facundo puede actuar.
