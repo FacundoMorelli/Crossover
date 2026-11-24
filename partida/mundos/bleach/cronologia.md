@@ -92,3 +92,4 @@
 - Octubre-diciembre · (T1034, por Ichigo) Grimmjow vino dos veces a pelear con Ichigo: destrozó medio parque del distrito este; derribó una torre de alta tensión (tres barrios sin luz una noche).
 - 21/12 21:17 · (T1035) Facundo deja inconsciente a Grimmjow sobre la feria.
 - 21/12 21:19 · (T1036) Facundo arroja a Grimmjow inconsciente por la Garganta a Hueco Mundo. Su zanpakutō queda clavada en el árbol de la feria.
+- 21/12 21:24 · (T1038) Facundo le da a Ichigo un botón de aviso y anuncia que se va.

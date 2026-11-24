@@ -1,8 +1,8 @@
 {
-  "turno": 1037,
+  "turno": 1038,
   "mundo_actual": "bleach",
   "fecha_local": "21/12",
-  "hora": "21:21",
+  "hora": "21:24",
   "edad": 18,
   "nivel": 27,
   "exp": 237350,
@@ -500,6 +500,11 @@
     {
       "objeto": "Bufanda tejida por Uryū Ishida (para Kase)",
       "origen": "bleach, regalo de Uryū (T1033, 20/12)"
+    },
+    {
+      "objeto": "(entregado) Botón de aviso",
+      "detalle": "Botón plateado chico con un eclipse grabado (como el de Willy Tybur). Si alguien lo aprieta, Facundo lo siente al instante en cualquier mundo y sabe de qué botón viene. Entregado a Ichigo Kurosaki (T1038, feria navideña de Karakura, 21/12).",
+      "mundo": "bleach"
     }
   ],
   "copias": [
@@ -2003,6 +2008,12 @@
       "mundo": "shingeki",
       "entregado": "T565",
       "usado": "T858 (día 44, 02:40)"
+    },
+    {
+      "tiene": "Ichigo Kurosaki",
+      "mundo": "bleach",
+      "entregado": "T1038",
+      "usado": null
     }
   ],
   "relacion_actual": {

@@ -84,3 +84,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T1035 · "¡¿DE UN GOLPE?! ¡Hace tres meses que lo vengo echando! ¡Era mi pelea, idiota!"
 - T1036 · "La próxima vez que venga, va a estar el doble de furioso. Y va a ser mi problema, no el tuyo, porque tú ya te vas a haber ido."
 - T1037 · "Si la tienes tú, va a dar vuelta todo Karakura buscándola. Si la dejamos, viene, la agarra y me pelea a mí." "¡La aguanto bien!"
+- T1038 · Recibe el botón de aviso de Facundo. "¿Y si lo aprieto, qué? ¿Apareces?" "Le llevo la espada a Urahara mañana. Si ese idiota vuelve, me encargo yo. Ve a hacer lo que tengas que hacer. Pero vuelve, ¿entendiste? Y la próxima vez, avisa antes de irte."

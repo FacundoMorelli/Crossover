@@ -102,3 +102,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Grimmjow Jaegerjaques · T1033 · lo reconoce por la descripción de Aizen a las Espadas (pelo bicolor, gato) y por lo que contó Ulquiorra en Las Noches: que Facundo petrificó a Aizen y se fue.
 - Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1035 · vieron a Facundo subir al aire en un instante y dejar inconsciente a Grimmjow de un golpe. Karin (ve espíritus) vio todo. Yuzu, Keigo, Mizuiro, Tatsuki y los civiles no vieron a Grimmjow ni miraban hacia arriba: no vieron nada. Isshin estaba presente (puede haber sentido o visto; no lo dice).
 - Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1036 · vieron a Facundo tirar a Grimmjow por la Garganta. Saben que la zanpakutō de Grimmjow quedó en el árbol.
+- Ichigo, Rukia, Orihime, Chad, Uryū · T1038 · Facundo se va a hacer algo, sin saber cuándo vuelve; les deja la espada de Grimmjow (para Urahara) y le da a Ichigo un botón plateado: si lo aprietan, Facundo sabe que están en peligro (él lo dijo). Lo toman por un artefacto de aviso ("una mariposa del infierno al revés").
+- Karin · T1038 · vio a Facundo subir y golpear a Grimmjow; promete no contarlo.

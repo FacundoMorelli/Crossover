@@ -1036,3 +1036,4 @@ T1034 · Bleach · Feria · "¿Sigues vivo?" Ichigo: Grimmjow solo pelea, pero r
 T1035 · Bleach · Feria · Grimmjow inconsciente de un puñetazo (mandíbula rajada). Ichigo: "¡Era mi pelea!" Rukia: "¿Y ahora qué hacemos con él?"
 T1036 · Bleach · Feria · Tira a Grimmjow por la Garganta. Su zanpakutō quedó clavada en el árbol. Rukia: "Va a volver a buscarla."
 T1037 · Bleach · Feria · "¿Quieren que la guarde?" Uryū sí; Ichigo no (que venga a pelearlo); Orihime: Urahara. Chad: "Es tuya. Tú decides."
+T1038 · Bleach · Feria · "Dénsela a Urahara. Me tengo que ir." Botón de aviso a Ichigo. Karin: "No le voy a contar a nadie." Ichigo: "Vuelve. Y avisa antes de irte."

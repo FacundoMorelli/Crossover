@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1035)
-subo y lo dejo inconsciente de un golpe
-
-## RESPUESTA 1 (T1035)
-
-> subo y lo dejo inconsciente de un golpe
-
-Kase salta de tu hombro a los brazos de Karin, que lo ataja por reflejo con la boca abierta.
-
-Subes.
-
-No hay impulso ni salto. Estás en la plaza, al lado del puesto de castañas, y un instante después estás en el aire, a veinte metros, delante de Grimmjow, a la altura de la estrella de la punta del árbol de Navidad.
-
-Grimmjow no te vio subir. Tiene la espada todavía apuntando hacia abajo, hacia donde estabas. Abre los ojos.
-
-—¿Qu...?
-
-El puño le entra en la mandíbula, del lado del hueso blanco.
-
-El hueso se raja con un crujido seco, como hielo que se parte. La cabeza de Grimmjow gira hacia un costado. El cuerpo entero se queda quieto en el aire, medio segundo, con los ojos en blanco y la espada todavía en la mano.
-
-Después la espada se le cae de los dedos.
-
-Lo agarras del cuello de la chaqueta antes de que caiga él también. Queda colgando de tu mano, flojo, con los brazos sueltos, la cabeza caída sobre el pecho y el agujero del abdomen balanceándose sobre las luces de la feria. La espada da dos vueltas en el aire y se clava de punta en la copa del árbol, entre las guirnaldas.
-
-El reiatsu que pesaba sobre la plaza desaparece de golpe, como cuando se abre una ventana en un cuarto encerrado.
-
-La señora del banco levanta la cabeza, parpadea y se pone de pie, como si se hubiera despertado de una siesta. El chico del puesto de dulces deja de bostezar. Alguien se ríe, en algún lado, sin saber de qué. La música navideña sigue sonando. Nadie de la feria vio nada.
-
-[Rival vencido: Grimmjow Jaegerjaques. +2.500 EXP · +150 Fragmentos.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Pantera: resurrección, Cero, Desgarrón       ║
-║ USUARIO: Grimmjow Jaegerjaques · Bleach      ║
-║                                              ║
-║ MISIÓN: Que Grimmjow Jaegerjaques te pida    ║
-║ la revancha.                                 ║
-║ DIFICULTAD: BAJA                             ║
-╚══════════════════════════════════════════════╝
-
-Abajo, en la plaza, tus amigos te miran hacia arriba con la cabeza echada para atrás.
-
-Uryū se acomoda los lentes, despacio. Chad no se mueve. Orihime tiene las manos en la boca. Rukia, con el conejo de peluche abrazado, no dice nada; solo cierra los ojos un segundo y suspira. Karin sostiene a Kase en brazos con la cara de quien acaba de ver algo que nadie le va a creer, y Kase, en sus brazos, se lame una pata. Yuzu y los demás no ven nada: miran a Karin, confundidos, preguntándole por qué tiene la boca abierta.
-
-Ichigo es el único que habla. Tiene la mano fuera del bolsillo, con la insignia de Shinigami sustituto apretada en el puño, todavía sin usar.
-
-—¡¿DE UN GOLPE?! —grita hacia arriba. Un par de personas de la feria lo miran raro—. ¡Hace tres meses que lo vengo echando, y tú llegas y...! —Se calla. Se pasa la mano por la cara—. ¡Era mi pelea, idiota!
-
-Encima de ti, la Garganta sigue abierta en el cielo. Una boca negra, con los bordes temblando, que empieza a cerrarse despacio.
-
-Rukia abre los ojos y te mira a ti, y después al Arrancar que tienes colgando de la mano.
-
-—Facundo. —Lo dice bajo, pero se oye—. ¿Y ahora qué hacemos con él?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1035 · BLEACH · 21/12 · 21:17          ║
-║ Karakura · en el aire, sobre el árbol        ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en brazos de Karin                     ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1036)
+## COMANDO 1 (T1036)
 lo tiro de vuelta por la Garganta a Hueco Mundo
 
-## RESPUESTA 2 (T1036)
+## RESPUESTA 1 (T1036)
 
 > lo tiro de vuelta por la Garganta a Hueco Mundo
 
@@ -129,10 +57,10 @@ Nadie de la feria la ve.
 
 ---
 
-## COMANDO 3 (T1037)
+## COMANDO 2 (T1037)
 ehhh quieren que la guarde?
 
-## RESPUESTA 3 (T1037)
+## RESPUESTA 2 (T1037)
 
 > ehhh quieren que la guarde?
 
@@ -184,4 +112,68 @@ Arriba, en el árbol, la nieve sigue cayendo sobre la empuñadura de la espada.
 
 ---
 
-ESTADO AL CIERRE: Bleach, 21/12 21:21, plaza de la feria. El grupo discute qué hacer con la espada de Grimmjow (guardarla, dejarla, dársela a Urahara). Chad: "Es tuya. Tú decides." Facundo decide.
+## COMANDO 3 (T1038)
+ehh bueno, quedensela ustedes, densela a urahara, yo eh, me tengo que ir a hacer algo, no se cuando voy a volver, les doy el boton que tambien le di a willy tybur, si pasa algo apreten ese boton, voy a saber que estan en peligro o algo
+
+## RESPUESTA 3 (T1038)
+
+> ehh bueno, quedensela ustedes, densela a urahara, yo eh, me tengo que ir a hacer algo, no se cuando voy a volver, les doy el boton que tambien le di a willy tybur, si pasa algo apreten ese boton, voy a saber que estan en peligro o algo
+
+> —Ehh, bueno. Quédensela ustedes. Dénsela a Urahara. Yo, eh... me tengo que ir a hacer algo. No sé cuándo voy a volver.
+
+—¿Qué? —Ichigo se da vuelta de golpe—. ¿Ahora? ¡Dijiste unos días! ¡Llegaste el jueves!
+
+Sacas del bolsillo del sobretodo un botón chico, plateado, redondo como una moneda, con un eclipse grabado en el centro. Lo pones en la mano de Ichigo, que lo agarra sin entender.
+
+> —Les doy esto. Si pasa algo, aprieten el botón. Voy a saber que están en peligro o algo.
+
+Ichigo mira el botón en su palma. Lo da vuelta. Del otro lado no hay nada: metal liso, frío.
+
+—¿Un botón? —Te mira—. ¿Y si lo aprieto, qué? ¿Apareces?
+
+—Es como una mariposa del infierno —dice Rukia, despacio, mirando el botón por encima del hombro de Ichigo—. Pero al revés. —Levanta la vista hacia ti—. Para que nosotros te avisemos a ti.
+
+—No lo aprietes por cualquier cosa, Kurosaki —dice Uryū—. Ni para pedirle revancha.
+
+—¡No lo iba a apretar para eso!
+
+Orihime tiene los ojos brillantes otra vez. No llora. Te mira y sonríe, apretando las manos.
+
+—Vas a volver, ¿verdad? —dice—. Aunque sea en mucho tiempo.
+
+Chad no pregunta nada. Asiente una vez.
+
+Karin se acerca y te devuelve a Kase, que salta de sus brazos a tu hombro como si nunca se hubiera ido, con la bufanda gris todavía puesta. Karin se queda mirándote un segundo, con el balón bajo el brazo, seria.
+
+—Vi lo que hiciste allá arriba —dice, en voz baja, para que Yuzu no escuche—. No le voy a contar a nadie.
+
+Después se va con su hermana.
+
+Ichigo cierra el puño sobre el botón. Se lo guarda en el bolsillo del abrigo, al lado de la insignia. Te mira con el ceño fruncido, pero hay algo distinto en la cara, más tranquilo.
+
+—Le llevo la espada a Urahara mañana —dice—. Y si ese idiota vuelve, me encargo yo. —Una pausa—. Ve a hacer lo que tengas que hacer.
+
+Se mete las manos en los bolsillos.
+
+—Pero vuelve, ¿entendiste? Y la próxima vez, avisa antes de irte. Aunque sea un día antes.
+
+Detrás de ustedes, la feria sigue: la música, las luces, la nieve falsa del escenario cayendo sobre la nieve de verdad.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1038 · BLEACH · 21/12 · 21:24          ║
+║ Karakura · feria navideña, plaza del árbol   ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, con bufanda              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 21/12 21:24, plaza de la feria. Facundo anunció que se va; le dio a Ichigo un botón de aviso. Despedida; Ichigo: "Vuelve. Y avisa antes de irte." Destino sin elegir. Facundo puede actuar.
