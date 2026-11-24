@@ -173,3 +173,4 @@
 - Embajadores de cuatro países, Kiyomi, la cúpula de Paradis · T933 · Por Magath: Facundo detuvo el golpe de Liberio (65 hombres, tres minutos, sin heridos). Por Facundo: viaja mucho, no le gusta hacer el mal.
 - Kiyomi · T934 · Deduce (por Liberio y hoy) que Facundo transporta gente sin cruzar el mar y aparece/desaparece. No pregunta cómo.
 - Kiyomi · T935 · Por Facundo: no le importa el dinero, le gusta viajar, puede no aparecer en meses.
+- Kiyomi · T936 · Deduce (por cómo Ymir se acerca y lo mira) que Ymir y Facundo tienen algo. No lo dice.

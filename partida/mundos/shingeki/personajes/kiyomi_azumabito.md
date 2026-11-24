@@ -17,3 +17,4 @@ ESTADO: activo
 - T933 · "Hizuru ya hizo su apuesta." Pide hablar a solas con Facundo antes de la recepción: una propuesta solo para él.
 - T934 · A solas en el borde del corte: "El mercader sabio compra el camino. Usted es un camino." Propone a Facundo ser socio de la casa Azumabito: un viaje al mes con piedra de Paradis a Hizuru; la décima parte de lo que Hizuru gane con la piedra para siempre; casa en la capital; nombre en la familia; protección del país.
 - T935 · Facundo rechaza: "El dinero no me importa. Me gusta viajar." Se ríe sincera: "Es la primera vez que alguien me lo dice y le creo." Le ofrece sin pedir nada la placa de laca negra Azumabito (emblema dorado, cordón rojo). Pide que la visite y le cuente dónde estuvo.
+- T936 · Facundo acepta la placa. "La casa Azumabito tiene un amigo, que vale más que un socio." Ve a Ymir y deduce algo; se va: "Lo dejo en buena compañía, emisario. Señorita."

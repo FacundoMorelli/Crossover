@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T933)
-por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
-
-## RESPUESTA 1 (T933)
-
-> por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
-
-> —Porque, si quisiera hacerlo, ya lo habría hecho. Señor, yo soy una persona que viaja mucho. No me gusta hacer el mal. No habría hecho nada de esto si quisiera hacer algo así.
-
-El embajador de barba blanca te sostiene la mirada. No contesta enseguida. Aprieta el sombrero contra el pecho, y se le ven los nudillos blancos.
-
-—Las palabras de un hombre... —empieza, despacio.
-
-—No son solo palabras.
-
-Lo dice Magath. No levantó la voz, pero todo el mirador se da vuelta hacia él. Sigue con las manos detrás de la espalda y la vista clavada en el hueco de la muralla.
-
-—Hace seis días, en Liberio, un grupo de oficiales de mi propio ejército intentó un golpe de Estado. Rodearon la casa de Willy Tybur. Rodearon la mía. Eran sesenta y cinco hombres armados. —Hace una pausa—. Este hombre los detuvo a todos. En tres minutos. Sin un solo herido. Sin una gota de sangre. Ni siquiera la de los traidores.
-
-Por fin gira la cabeza y mira al embajador.
-
-—Yo llevo treinta años en la guerra, señor. Sé reconocer a alguien que podría haber matado y eligió no hacerlo. Lo vi dos veces en este mes. Las dos veces fue él.
-
-El embajador se queda callado.
-
-Kiyomi cierra el abanico con un chasquido seco.
-
-—Hizuru ya hizo su apuesta —dice, con una sonrisa fina—. Y en mi familia rara vez apostamos mal.
-
-Detrás de ella, los otros tres embajadores se miran entre ellos. Uno asiente, apenas. Otro sigue pálido, mirando el hueco. El de barba blanca respira hondo, largo, y se vuelve a poner el sombrero con las manos todavía temblando.
-
-—Lo voy a informar así —dice al fin, hacia Historia—. Con todo lo que vi. Y con lo que dijo el general.
-
-Historia inclina la cabeza.
-
-Erwin da un paso al frente, entre la reina y las delegaciones, y su voz llena el mirador como en una formación.
-
-—La demostración terminó. Los carruajes los llevarán de vuelta a Mitras. A las seis habrá una recepción en el palacio, donde la reina responderá a todas sus preguntas.
-
-Las delegaciones empiezan a moverse hacia los elevadores, despacio, hablando en voz baja, mirando hacia atrás, hacia el hueco, cada pocos pasos.
-
-Kiyomi no se mueve con los suyos.
-
-Espera a que el embajador de barba blanca pase a su lado. Después camina hasta ti, con el abanico cerrado en una mano y una sonrisa muy amable, demasiado amable, de comerciante.
-
-—Emisario. —Hace una pequeña reverencia—. ¿Me concede unas palabras a solas antes de la recepción? Tengo una propuesta para usted. Solo para usted.
-
-Detrás de ti, en la baranda, Ymir deja de balancear las piernas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 933 · SHINGEKI · DÍA 50 · 12:09        ║
-║ Wall Rose, norte de Karanes · el mirador     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kiyomi pide hablar a solas. A las  ║
-║ 18, recepción en el palacio.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T934)
+## COMANDO 1 (T934)
 esta bien
 
-## RESPUESTA 2 (T934)
+## RESPUESTA 1 (T934)
 
 > esta bien
 
@@ -129,10 +63,10 @@ Abre el abanico otra vez. Se tapa la boca.
 
 ---
 
-## COMANDO 3 (T935)
+## COMANDO 2 (T935)
 mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
 
-## RESPUESTA 3 (T935)
+## RESPUESTA 2 (T935)
 
 > mire, no lo voy a aceptar, por el hecho que el dinero no me importa, y como dije antes me gusta viajar, capaz no aparezco en varios meses
 
@@ -179,4 +113,52 @@ Detrás de ustedes, sobre el adarve, se oyen pasos. Ymir se bajó de la baranda 
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:17, borde del corte de Wall Rose. Facundo rechazó ser socio. Kiyomi le ofrece, sin pedir nada, la placa de laca negra de la casa Azumabito (recibido como un Azumabito en todo Hizuru) y que la visite y le cuente dónde estuvo. Ymir se acerca. Facundo puede responder.
+## COMANDO 3 (T936)
+esta bien entonces, eso lo puedo aceptar
+
+## RESPUESTA 3 (T936)
+
+> esta bien entonces, eso lo puedo aceptar
+
+> —Está bien, entonces. Eso lo puedo aceptar.
+
+Tomas la placa. Es más liviana de lo que parece, tibia todavía por el calor de la manga, y el oro del emblema brilla con el sol del mediodía. El cordón rojo se te enreda un segundo entre los dedos.
+
+Kiyomi hace una reverencia. Esta vez, más profunda.
+
+—Entonces la casa Azumabito tiene un amigo. —Se endereza y abre el abanico—. Que, a fin de cuentas, vale más que un socio.
+
+Guardas la placa. Kase estira el cuello desde tu hombro para olerla antes de que desaparezca y estornuda.
+
+Kiyomi se ríe bajito.
+
+Los pasos de Ymir llegan hasta ustedes. Se detiene a dos metros, con las manos en los bolsillos, el pelo revuelto por el viento, y mira a Kiyomi de arriba abajo, sin disimular, con una media sonrisa torcida.
+
+Kiyomi le sostiene la mirada por encima del abanico. Después te mira a ti. Después otra vez a Ymir. Se le arrugan apenas los ojos, como a quien acaba de entender algo y lo guarda para sí.
+
+—Lo dejo en buena compañía, emisario. —Inclina la cabeza hacia Ymir, cortés—. Señorita.
+
+Se da vuelta y se va caminando por el adarve, con pasos cortos y seguros, hacia el mirador.
+
+Ymir la mira irse hasta que llega a los elevadores. Después se da vuelta hacia ti. Se acerca. Te saca una pelusa del hombro del sobretodo que no existe.
+
+—Así que la señora del abanico quería hablar a solas con el emisario. —Ladea la cabeza—. ¿Y qué te ofreció, lindo? Porque desde allá parecía que te estaba vendiendo algo carísimo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 936 · SHINGEKI · DÍA 50 · 12:19        ║
+║ Wall Rose · el borde del corte               ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Ymir pregunta. A las 18,           ║
+║ recepción en el palacio.                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:19, borde del corte de Wall Rose. Facundo aceptó la placa Azumabito. Kiyomi se fue ("Lo dejo en buena compañía"). Ymir, frente a Facundo, le pregunta qué le ofreció la señora del abanico. Facundo puede responder.

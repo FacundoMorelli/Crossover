@@ -32,3 +32,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T932 · El Eclipse se traga su manzana: "¡Ey!"
 - T933 · Deja de balancear las piernas cuando Kiyomi pide hablar a solas con Facundo.
 - T935 · Se baja de la baranda y se acerca a Facundo y Kiyomi por el adarve, haciéndose la distraída.
+- T936 · Mira a Kiyomi de arriba abajo. A Facundo: "¿Y qué te ofreció, lindo? Desde allá parecía que te estaba vendiendo algo carísimo."

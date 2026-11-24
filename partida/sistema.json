@@ -1,8 +1,8 @@
 {
-  "turno": 935,
+  "turno": 936,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 50 tras Shiganshina (año 850)",
-  "hora": "12:17",
+  "hora": "12:19",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -445,6 +445,12 @@
       "objeto": "Lentes de contacto marrones (2)",
       "detalle": "Comprados en la tienda T879 (1 Fragmento). Puestos: tapan el rojo y el azul de los ojos.",
       "mundo": "tienda"
+    },
+    {
+      "objeto": "Placa de la casa Azumabito",
+      "cantidad": 1,
+      "detalle": "Laca negra, emblema Azumabito en oro, cordón de seda roja. Regalo de Kiyomi (T936, día 50). Quien la muestra es recibido como un Azumabito en cualquier puerto, casa o barco de Hizuru, con techo, comida y sin preguntas.",
+      "mundo": "shingeki"
     }
   ],
   "copias": [
