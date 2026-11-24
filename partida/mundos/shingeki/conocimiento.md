@@ -145,3 +145,4 @@
 - Levi, Hange, Armin, Historia, Ymir, Mikasa, Eren, Zeke · T842 · Por Erwin (reunión de la comitiva, día 35 a la tarde): el plan de la barrera sobre el escenario; los cañones del alto mando; el Martillo de Guerra de los Tybur.
 - Coronel Muller · T843 · Ve a Facundo (traje marleyano, sombrero, gato) llegar con Willy Tybur a la plaza. Lo relaciona con el "agente del gato" de su informe.
 - Muller · T844 · Por Willy: Magath le recomendó a Morelli para la logística de los embajadores (versión de Willy).
+- Muller · T845 · Por Facundo y Willy: Morelli se aloja en el ala de huéspedes de la mansión Tybur, como asesor de Willy.

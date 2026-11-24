@@ -15,3 +15,4 @@ ESTADO: activo
 - T556 · "Un gato que camina en dos pisos a la vez." Magath lo corta. Se va con el informe entregado. Sospecha.
 - T843 · Día 36 · En la plaza de la fiesta, ve llegar a Willy con su "asesor civil" y un gato. "Su asesor tiene un gato muy particular."
 - T844 · Lo reconoce como "el señor Morelli, asesor civil de las colonias del sur" (antes de Magath, hoy de Tybur). Anota. Estará a cargo de la seguridad interna de la plaza el día de la fiesta. Pregunta dónde se aloja ahora.
+- T845 · Facundo dice que se aloja en la casa de los Tybur como asesor de Willy; Willy lo confirma. "Entonces lo veré seguido."

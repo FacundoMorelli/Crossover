@@ -843,3 +843,4 @@ T841 · Shingeki · Liberio · A Lara: lo intentará después de la fiesta. Cita
 T842 · Shingeki · Simula: informe a Erwin, día con la comitiva, noche con Ymir en el techo. Día 36 19:58: puerta de servicio de los Tybur.
 T843 · Shingeki · Liberio · Plaza: escenario, seis cañones tapados en los techos. Muller se acerca.
 T844 · Shingeki · Liberio · Muller reconoce al "señor Morelli" y pregunta dónde se aloja. Estará a cargo de la seguridad de la plaza.
+T845 · Shingeki · Liberio · Coartada: se aloja con los Tybur. Muller se va. Willy: tendrá que dormir ahí de verdad.
