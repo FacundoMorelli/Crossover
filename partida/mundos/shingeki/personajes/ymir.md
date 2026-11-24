@@ -22,3 +22,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T579 · A un palmo de su cara. Golpecito en la frente: "Te dije después. Y no con la reina a cinco metros." Tarda en soltarle la mano.
 - T822 · Día 35 05:58 · Ve a Facundo volver por la escalinata del palacio desde una ventana del ala de la reina: "Mira quién volvió. El lindo."
 - T823 · "Volví vivo, linda." Se atraganta, se pone roja, cierra el postigo. Baja descalza: "Veinticuatro días, lindo. Los conté. No porque me importe."
+- T824 · "¿Ahora sí, o todavía no?" Lo agarra de la camisa y lo besa. "Eso era el «después hablamos». No te acostumbres." RELACIÓN: pareja (empezando). Lo suelta de golpe cuando la llama Historia.

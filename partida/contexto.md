@@ -1,4 +1,4 @@
-TURNO: 823 | MUNDO: Shingeki no Kyojin | Año 850, día 35 tras Shiganshina | HORA: 06:01 | Lugar: Mitras, escalinata del palacio real
+TURNO: 824 | MUNDO: Shingeki no Kyojin | Año 850, día 35 tras Shiganshina | HORA: 06:02 | Lugar: Mitras, escalinata del palacio real
 REGLAS EXTRA: leer partida/reglas_extra.md (9 reglas; R9: una pareja por mundo, ninguna sabe de las otras). Última escena textual: partida/ultima_escena.md.
 MOMENTO DEL CANON: Año 850, post Shiganshina (canon muy alterado). Faltan 5 días para la fiesta Tybur en Liberio (día 40, anochecer): demostración + firma de paz de Historia ante embajadores. Ver mundos/shingeki/cronologia.md.
 FACUNDO: 18 años · Nivel 27 · EXP 215.740/240.000 · 134.442 Fragmentos · 0 monedas de la Corona · 30 monedas de plata de Marley · 6.000.000 berries (OP, guardados) · 145 puntos sin asignar · Energía 100% · Ojos: bien
@@ -6,13 +6,13 @@ PARA ESTE MUNDO: aliado de la Corona y de la Legión (Zackly, T445); emisario de
 QUIÉN SABE QUÉ: ver mundos/shingeki/conocimiento.md (128 líneas). Magath, Willy Tybur saben del emisario y del plan de paz. Muller sospecha. Nadie en Shingeki sabe de otros mundos.
 MISIÓN DE MUNDO: CUMPLIDA (T413, Erwin vivo en el sótano).
 ÚLTIMOS 5 TURNOS:
+- T824: Facundo le sonríe, se acerca, la toma de la cintura: "¿Ahora sí, o todavía no?" Ymir se queda tiesa; mira al guardia (que mira el horizonte con todas sus fuerzas); lo agarra del cuello de la camisa y lo besa ella, rápido y torpe y después no tan rápido. Se separa roja: "Eso era el «después hablamos». No te acostumbres." No le suelta la camisa. Desde la puerta del palacio, la voz de Historia: "¿Ymir? ¿Dónde estás? ¡Dicen que volvió!" Ymir lo suelta de golpe.
 - T823: "Volví vivo, linda." Ymir se pone roja hasta las orejas, se atraganta con la manzana, tose. "¡N-no te creas tanto!" Cierra el postigo de golpe. Un minuto después la puerta del palacio se abre: Ymir baja la escalinata descalza, con el abrigo de la Legión encima del camisón, y se planta un escalón arriba de Facundo para quedar a su altura. "Veinticuatro días, lindo. Los conté. No porque me importe." Kase la mira.
 - T822: (One Piece) Beso a Robin, despedida de la tripulación en la cubierta del Sunny (Thriller Bark, Día 44 11:25); abre una puerta y cruza con Kase. (Shingeki) Llega a la escalinata del palacio de Mitras, día 35 tras Shiganshina, 05:58, al amanecer. Los guardias de la Policía Militar lo reconocen (orden de Zackly). En una ventana alta del ala de la reina, Ymir lo ve: "Mira quién volvió. El lindo."
 - T821: (OP) Dos horas abrazado a Robin en la biblioteca del Sunny. "Vete tranquilo. Y cuando vuelvas, me cuentas cómo termina la historia de ese mundo."
 - T820: (OP) Promesa a Robin: no volver a dormirla ni sacrificarse solo a escondidas. Ella le da su señalador (hoja seca de Skypiea).
-- T819: (OP) Le cuenta a Robin que recibió el dolor de todos (trato con Kuma).
-PRESENTES EN ESCENA: Escalinata del palacio: Ymir (descalza, abrigo de la Legión sobre el camisón, un escalón arriba de Facundo). Un guardia de la Policía Militar. El otro fue a avisar adentro. Kase en el hombro.
-VÍNCULOS ACTIVOS (Shingeki): Legión (Erwin, Levi, Hange, Eren, Mikasa, Armin, la 104.ª). Historia (reina, 15). Ymir (coqueteo pendiente: "Primero vuelve vivo de donde te vayas, lindo. Después hablamos", T578). Willy Tybur (aliado, botón de aviso). Magath (aliado cauto). Zeke (preso en Trost). PAREJA EN ONE PIECE: Nico Robin (R9: no sabe de otras).
+PRESENTES EN ESCENA: Escalinata del palacio: Ymir. Un guardia. Historia llegando a la puerta del palacio (la llama). Kase en el hombro.
+VÍNCULOS ACTIVOS (Shingeki): Legión (Erwin, Levi, Hange, Eren, Mikasa, Armin, la 104.ª). Historia (reina, 15). PAREJA EN SHINGEKI: Ymir (empezando, primer beso T824). Willy Tybur (aliado, botón de aviso). Magath (aliado cauto). Zeke (preso en Trost). PAREJA EN ONE PIECE: Nico Robin (R9: no sabe de otras).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji), Neko Neko Leopardo + Rokushiki (Lucci), Puño y Haki (Garp), Horo Horo (Perona), Nikyu Nikyu (Kuma) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
 DONES: Manecilla Inversa (100). Sakaime (100). Forma Cenit (100). Shio Shio no Mi (40). Titán de Ceniza (30). Grimorio del Firmamento (30).

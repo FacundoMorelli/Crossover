@@ -1,8 +1,8 @@
 {
-  "turno": 823,
+  "turno": 824,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 35 tras Shiganshina (Mitras)",
-  "hora": "06:01",
+  "hora": "06:02",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -1786,6 +1786,11 @@
       "con": "Nico Robin",
       "desde": "T695 (primer beso, Long Ring Long Land)",
       "estado": "pareja"
+    },
+    "shingeki": {
+      "con": "Ymir",
+      "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
+      "estado": "empezando"
     }
   }
 }

@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T821)
-me quedo un rato con robin y la abrazo
-
-## RESPUESTA 1 (T821)
-
-> me quedo un rato con robin y la abrazo
-
-La abrazas.
-
-Robin se deja. Apoya la cabeza en tu pecho y se queda quieta, con los brazos alrededor de tu cintura, escuchándote el corazón.
-
-Después de un rato te lleva de la mano al banco acolchado que Franky construyó debajo de las ventanas redondas. Se sienta de costado, con las piernas recogidas, y se acomoda contra ti, con la espalda en tu pecho. Tus brazos la rodean. Kase sube al banco, da dos vueltas y se echa en las piernas de los dos, a medias en cada uno.
-
-Robin estira el brazo, toma el libro de Paradis del atril y lo abre sobre las rodillas.
-
-—Te lo leo yo. —Sonríe sin mirarte—. Así me corriges si me equivoco.
-
-Lee en voz alta, despacio, en esa escritura de otro mundo que hasta hace una semana no entendía. La historia del rey que levantó tres murallas con el poder de los titanes. De la gente que vivió cien años encerrada, sin saber qué había del otro lado. Cada tanto se traba con una palabra, frunce el ceño y la busca en la tabla del cuaderno. Casi nunca le tienes que corregir.
-
-El sol de la mañana sube y los círculos de luz de las ventanas caminan despacio por el piso de madera.
-
-Desde abajo, por las ventanas, llegan los ruidos de la tripulación. Nami da órdenes a gritos mientras saquean el tesoro de la mansión de Moria. Franky martilla algo. Brook toca el violín y Luffy y Usopp cantan Binks no Sake por décima vez, desafinados. En algún momento se oye a Zoro roncar.
-
-Robin no los oye. Lee.
-
-Cuando termina el capítulo, deja el dedo entre las páginas y se queda callada, con la cabeza apoyada en tu hombro. Le pasas la mano por el pelo. Kase ronca bajito.
-
-Pasan casi dos horas así.
-
-A las once y diez, Robin cierra el libro con cuidado y lo apoya en el pecho, abrazado. Respira hondo.
-
-—Ya está. —Lo dice tranquila, con la voz en paz—. Ahora sí. Vete tranquilo.
-
-Gira la cabeza para mirarte desde abajo, con los ojos todavía un poco hinchados y una sonrisa chiquita.
-
-—Y cuando vuelvas... —Golpea la tapa del libro con un dedo—. Me cuentas cómo termina la historia de ese mundo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 821 · ONE PIECE · DÍA 44 · 11:10       ║
-║ Thousand Sunny · biblioteca de Robin         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: dormido en tus piernas y las de Robin  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Irte hoy de One Piece. Volver      ║
-║ después donde estén.                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T822)
+## COMANDO 1 (T822)
 le doy un beso y me despido de todos y voy a shingeki
 
-## RESPUESTA 2 (T822)
+## RESPUESTA 1 (T822)
 
 > le doy un beso y me despido de todos y voy a shingeki
 
@@ -131,10 +77,10 @@ Sonríe de costado.
 
 ---
 
-## COMANDO 3 (T823)
+## COMANDO 2 (T823)
 volvi vivo linda
 
-## RESPUESTA 3 (T823)
+## RESPUESTA 2 (T823)
 
 > volvi vivo linda
 
@@ -181,4 +127,62 @@ Tiene las mejillas todavía rojas. Los pies descalzos, sobre la piedra fría, se
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:01, escalinata del palacio de Mitras. Ymir bajó descalza con el abrigo de la Legión sobre el camisón, un escalón arriba de Facundo: "Veinticuatro días, lindo. Los conté. No porque me importe." Roja. Un guardia mira el horizonte; el otro fue a avisar adentro. Faltan 5 días para la fiesta Tybur.
+## COMANDO 3 (T824)
+le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
+
+## RESPUESTA 3 (T824)
+
+> le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
+
+Le sonríes. Subes el escalón que los separa y le pasas el brazo por la cintura, por encima del abrigo mal abrochado.
+
+> —¿Ahora sí, o todavía no?
+
+Ymir se queda tiesa como una tabla. La manzana se le cae de la mano y rueda escalones abajo, rebotando, hasta los pies del guardia.
+
+El guardia la mira, te mira, mira la manzana, y vuelve a mirar el horizonte con toda la concentración de su vida.
+
+Ymir abre la boca. La cierra. Le tiembla un párpado.
+
+—Tú... tú eres un... —Se le traba la lengua—. ¡Hay un guardia!
+
+—Yo no veo nada, señorita —dice el guardia, sin girar la cabeza.
+
+Ymir lo fulmina con la mirada. Después te mira a ti, a un palmo.
+
+Te agarra del cuello de la camisa con las dos manos, tira hacia abajo y te besa ella.
+
+Es rápido al principio, torpe, como si se hubiera tirado al agua sin pensarlo. Después ya no es tan rápido. Los dedos se le aflojan en tu camisa. Kase, en tu hombro, gira la cabeza hacia el otro lado.
+
+Se separa de golpe. Está roja hasta el cuello.
+
+—Eso. —Respira rápido—. Eso era el «después hablamos». Ya está. Hablamos.
+
+No te suelta la camisa.
+
+—No te acostumbres, lindo.
+
+Desde la puerta del palacio, arriba, llega una voz de chica, clara, todavía con sueño.
+
+—¿Ymir? ¿Ymir, dónde estás? ¡Dicen que volvió!
+
+Ymir te suelta la camisa como si quemara, da un paso atrás, se acomoda el abrigo y se pasa la mano por el pelo, todo al mismo tiempo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 824 · SHINGEKI · DÍA 35 · 06:02        ║
+║ Mitras · escalinata del palacio real         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Preparar la comitiva de Historia.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:02, escalinata del palacio. Ymir besó a Facundo ("Eso era el «después hablamos»... No te acostumbres, lindo"); pareja en Shingeki (empezando, R9). Historia la llama desde la puerta del palacio: "¡Dicen que volvió!". Ymir se acomoda a las apuradas.
