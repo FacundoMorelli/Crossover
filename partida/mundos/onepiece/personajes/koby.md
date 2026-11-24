@@ -10,3 +10,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: el cartel.
 ESTADO: activo.
 - T796 · Se reencuentra con Luffy; cuenta que entrena con Garp para ser almirante.
+- T803 · Desde el buque de Garp: "¡La próxima vez que nos veamos, Luffy-san, voy a ser su enemigo de verdad!"

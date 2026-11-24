@@ -141,3 +141,4 @@
 - Días 39-40 · Franky termina el barco. Día 40: Nami y Robin le roban la malla; Franky se une (canon).
 - Día 40 · (offscreen, canon) Isla Banaro: Ace pierde contra Barbanegra y es capturado. Nadie en Water 7 lo sabe.
 - Día 41 09:00 · (T800) Presentación del Thousand Sunny en el Dock 1 (canon).
+- Día 41 09:28 · (T803) Garp ataca al Sunny con balas de cañón tiradas a mano (canon); Franky usa el Coup de Burst y escapan (canon). Koby promete ser enemigo de verdad la próxima vez.

@@ -71,6 +71,13 @@ Si en cualquier turno no estás seguro de un dato (qué sabe alguien, una regla,
 ### 5. ANTES DE QUE YO CAMBIE DE CHAT
 Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.md, ultima_escena.md, reglas_extra.md, sistema.json y las fichas de los presentes estén actualizados.
 
+## R9. VARIAS RELACIONES, UNA POR MUNDO (dada en el T803 · Día 41 · reemplaza en parte la sección 14, "Romance")
+- Texto del jugador: "hace que pueda tener varias novias en diferentes mundos y ninguna se entera de la otra excepto que yo lo diga".
+- Desde el T803, Facundo puede tener una relación de pareja en cada mundo distinto, al mismo tiempo. Lo que reemplaza: la frase de la sección 14 "Sin harem. Una relación por vez, en todos los mundos juntos".
+- Ninguna pareja se entera de las otras, salvo que Facundo lo diga. Esto encaja con la regla 1.2 (la información nunca cruza de un mundo a otro).
+- Sigue vigente todo lo demás de la sección 14: solo con personajes adultos en ese momento del canon (nunca menores ni adultos con cuerpo de niño), conquistar es lento, ellas tienen vida propia y pueden decir que no, (es una amiga) es irreversible, y en las escenas íntimas, fundido.
+- Interpretación del motor (el jugador puede corregirla): una pareja por mundo.
+
 ---
 
 ## NOTAS DE FORMATO (correcciones del jugador en esta partida)

@@ -17,3 +17,4 @@ ESTADO: activo.
 - T795 · Le ofrece a Facundo unirse a la Marina ("serías almirante en un año") y se duerme a mitad de frase.
 - T796 · Despierta, le dice a Facundo que piense lo de la Marina. Revela que el padre de Luffy es Dragon.
 - T800 · Días 38-40 · Habla de los Yonko; se queda en Water 7; avisa que cuando zarpen los atacará.
+- T803 · Ataca al Sunny con balas a mano al zarpar. "¡Nos vemos en el Nuevo Mundo, mocoso!"
