@@ -15,3 +15,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hisoka, Kortopi · T1043 · Facundo dijo que tiene una misión: proteger a Kortopi. Kortopi no sabe por qué. Hisoka cree que tal vez lo mandó alguien (descarta a Chrollo).
 - Hisoka, Kortopi · T1044 · vieron a Facundo atrapar la carta con dos dedos y devolverla tan rápido que Hisoka no pudo esquivarla (le abrió la mejilla; atravesó un poste). Siguen sin sentir su aura.
 - Kortopi · T1045 · vio a Facundo dejar inconsciente a Hisoka de un solo golpe, tan rápido que no lo vio moverse.
+- Kortopi · T1046 · su nombre, Facundo Morelli; que tiene una misión de protegerlo; que no quiere que maten a Hisoka; que sabe los nombres de Kortopi y de Shalnark (él los dijo). Kortopi deduce que sabe cosas de la Tropa.
+- Shalnark · T1046 · por Kortopi (teléfono): Hisoka revivió y vino a matar a Kortopi; un tipo con un gato lo tiró de un golpe; sin aura; no es de la Tropa; dice tener una misión de protegerlo; sabe el nombre de Shalnark. (No sabe aún su nombre, salvo que Kortopi se lo diga después.)

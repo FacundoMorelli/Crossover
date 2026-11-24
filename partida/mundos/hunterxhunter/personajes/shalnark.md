@@ -9,6 +9,6 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1039 · Día 1 16:13 · Facundo lo/la ve en las pantallas o siente su presencia desde la avenida.
 DIÁLOGOS CLAVE:
-QUÉ SABE DE FACUNDO: nada
+QUÉ SABE DE FACUNDO: ver conocimiento.md (T1046).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: (T1041) verificó el cuerpo de Hisoka; 19:31 a ~1 km de la Torre, en la calle, con el celular.
+ESTADO: en camino a los baños públicos tras la llamada de Kortopi (T1046).

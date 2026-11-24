@@ -1044,3 +1044,4 @@ T1042 · HxH · Baños públicos · Teletransporte; se para delante de Kortopi. 
 T1043 · HxH · Baños públicos · "Tengo una misión." Hisoka: "Tú vas primero." Copia: Bungee Gum y Texture Surprise. Carta a la cara.
 T1044 · HxH · Baños públicos · Atrapa la carta y la devuelve: mejilla de Hisoka abierta, poste atravesado. Hisoka: "Más. Dame más."
 T1045 · HxH · Baños públicos · Hisoka inconsciente de un golpe. Kortopi: "¿Quién eres? ¿Y por qué me estás protegiendo?"
+T1046 · HxH · Baños públicos · "Me llamo Facundo Morelli. No lo maten." Kortopi llama a Shalnark: viene; quiere verle la cara. Machi no contesta.

@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1043)
-tengo una mision, no puedo dejar que le hagas nada
-
-## RESPUESTA 1 (T1043)
-
-> tengo una mision, no puedo dejar que le hagas nada
-
-> —Tengo una misión. No puedo dejar que le hagas nada.
-
-Detrás de ti, Kortopi se pone rígido.
-
-Hisoka se queda mirándote. La carta deja de girar entre sus dedos.
-
-Después se ríe. Primero bajito, con los hombros, y después más fuerte, echando la cabeza para atrás, hasta que la risa rebota en las paredes de los edificios y un perro empieza a ladrar en algún departamento.
-
-—¿Una misión? —Se seca una lágrima con el pulgar de la mano de goma—. ¿Proteger a una araña? ¿Tú? ¿Quién te mandó? ¿Chrollo? —Ladea la cabeza—. No, Chrollo no sabe hacer amigos. ♣
-
-Da un paso. Después otro. Despacio, con la pierna de aura que no hace ruido sobre el asfalto.
-
-—Sabes, me acaban de matar —dice, como quien cuenta lo que almorzó—. Me volaron una mano, una pierna y el corazón. Fue lo mejor que me pasó en años. —Sonríe—. Y ahora que estoy vivo, tengo una lista. Todas las arañas, una por una. Ese pequeño era la primera.
-
-Se detiene a diez metros. Te mira de nuevo. Los ojos amarillos se le encienden de una forma distinta: más fija, más hambrienta.
-
-—Pero tú... —murmura—. Tú no estabas en la lista. No tienes aura. No tienes miedo. Te paras delante de una araña como si fuera tu hermano chico. —Se lame el labio de abajo—. Y eso es lo más interesante que vi esta noche.
-
-Levanta la carta a la altura de la cara.
-
-—Cambio de planes. ♥ Las arañas pueden esperar. —Sonríe con todos los dientes—. Tú vas primero.
-
-[Misión de copia cumplida: Hisoka Morow te eligió como su próxima presa.]
-
-╔══════════════════════════════════════════════╗
-║ PODER REGISTRADO                             ║
-║ Bungee Gum y Texture Surprise                ║
-║ DE: Hisoka Morow · Hunter x Hunter           ║
-║ Aura con las propiedades del caucho y del    ║
-║ chicle: pega, estira, contrae, a distancia.  ║
-║ Texturas falsas sobre cualquier superficie.  ║
-║ Dominio total.                               ║
-╚══════════════════════════════════════════════╝
-
-La carta sale de sus dedos.
-
-No la ves salir: la ves llegar. Un rectángulo de papel blanco envuelto en aura, girando como una sierra, directo a tu cara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1043 · HUNTER X HUNTER · DÍA 1 · 19:39 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1044)
+## COMANDO 1 (T1044)
 atrapo la carta con dos dedos y se las devuelvo
 
-## RESPUESTA 2 (T1044)
+## RESPUESTA 1 (T1044)
 
 > atrapo la carta con dos dedos y se las devuelvo
 
@@ -127,10 +64,10 @@ Detrás de ti, en la puerta de los baños, Kortopi da un paso atrás. Lo sientes
 
 ---
 
-## COMANDO 3 (T1045)
+## COMANDO 2 (T1045)
 lo dejo inconsciente de un golpe
 
-## RESPUESTA 3 (T1045)
+## RESPUESTA 2 (T1045)
 
 > lo dejo inconsciente de un golpe
 
@@ -188,4 +125,61 @@ Saca un celular viejo del bolsillo, con la tapa rayada. No marca ningún número
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:40, baños públicos. Hisoka inconsciente en el asfalto. Kortopi, con el celular en la mano, le pregunta a Facundo quién es y por qué lo protege. Facundo puede responder.
+## COMANDO 3 (T1046)
+me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
+
+## RESPUESTA 3 (T1046)
+
+> me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
+
+> —Me llamo Facundo Morelli. Tengo una misión: protegerte. No lo maten a este. ¿Dónde está Shalnark?
+
+Kortopi se queda quieto al escuchar el nombre.
+
+—Sabes cómo se llama Shal. —No es una pregunta—. Sabes cómo me llamo yo. —El ojo se le achica entre el pelo—. Y dices que no lo matemos.
+
+Mira a Hisoka, tirado en el asfalto, con la mejilla abierta y la sonrisa torcida.
+
+—Eso no lo decido yo —dice al fin—. Lo decide el jefe. —Pausa—. Él va a querer matarlo. Hisoka dijo que nos iba a cazar a todos. Lo escuché. Machi también.
+
+No contesta lo de Shalnark. Mira el celular en su mano. Lo abre. Lo vuelve a cerrar.
+
+Después lo abre otra vez, aprieta un botón y se lo pone en la oreja. Lo ves esperar, con el ojo fijo en ti, un tono, dos.
+
+—Shal. —Una pausa—. Hisoka está vivo.
+
+Del otro lado se escucha una voz joven, alegre, que se corta de golpe. Después la voz otra vez, rápida, más seria. No alcanzas a entender las palabras, pero sí el tono.
+
+—Sí. Revivió. —Kortopi te mira—. Vino a matarme. Hay alguien aquí. Un tipo con un gato. Lo tiró de un golpe. No siento su aura. —Escucha—. No. No es de los nuestros. Dice que tiene una misión de protegerme. —Escucha más—. Sabe tu nombre.
+
+Silencio del otro lado. Largo.
+
+Kortopi escucha, asiente una vez como si el otro pudiera verlo, y cierra el celular.
+
+—Shal dice que viene —dice—. Y que llamó a Machi y no contesta.
+
+Se guarda el celular en el bolsillo. Mira hacia la Torre, enorme, iluminada, al fondo de la calle, donde en una sala del piso de abajo Machi sigue atada.
+
+Después te mira a ti.
+
+—Shal también dice otra cosa. —La voz ronca no cambia, pero los dedos se le mueven otra vez, nerviosos—. Que si lo vas a proteger a él también, que no te muevas de aquí hasta que llegue. Que quiere verte la cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1046 · HUNTER X HUNTER · DÍA 1 · 19:42 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, tranquilo                ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:42, baños públicos. Kortopi llamó a Shalnark, que viene y quiere ver a Facundo; Machi no contesta. Hisoka inconsciente. Facundo puede actuar.
