@@ -905,3 +905,4 @@ T903 · One Piece · Marineford · Bankai alrededor de toda la flota: el Ryusei 
 T904 · One Piece · Marineford · "Puedo aguantarlo." Kizaru: sus rayos se borran en la cúpula; se planta afuera: "¿Y si te mato a ti, esto se cae?" Akainu avanza.
 T905 · One Piece · Marineford · "Me tendrías que poder matar." Kizaru escolta la cúpula desde afuera. Akainu ordena bloquear la boca de la bahía: 20 buques cruzados.
 T906 · One Piece · Marineford · Luna: aparta los 20 buques de bloqueo como una cortina. La flota sale al mar. Ace: "¿Cómo se supone que te pague todo esto?"
+T907 · One Piece · Mar abierto · "Eres el hermano de mi capitán." Reverencia de Ace. Kizaru se vuelve. Luffy: "¿Tú sabes dónde están?"

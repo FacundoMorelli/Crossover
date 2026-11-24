@@ -167,3 +167,4 @@
 - Día 57 13:18 · (T904) Kizaru prueba la cúpula con Yasakani no Magatama (sin efecto) y se planta sobre ella frente a Facundo. Akainu avanza hacia el agua.
 - Día 57 13:20 · (T905) Akainu ordena a la flota de bloqueo (20 buques de reserva) cerrar la boca de la bahía. Kizaru escolta la cúpula desde afuera.
 - Día 57 13:23 · (T906) Facundo aparta con la Luna la flota de bloqueo; la flota de Barbablanca sale de la bahía de Marineford con Ace vivo y Barbablanca vivo (canon: ambos morían).
+- Día 57 13:27 · (T907) La flota entera fuera de la bahía. Kizaru no persigue y vuelve a Marineford.

@@ -14,3 +14,4 @@ QUÉ SABE DE FACUNDO: el cartel (Ojos de Eclipse, Sombrero de Paja); todo lo que
 QUÉ PODERES DE FACUNDO VIO: los de hoy en Marineford (ver conocimiento.md).
 ESTADO: activo
 - T904 · "Entonces te lo dejo a ti, yoi." Vuela a la popa a cubrir los botes de heridos.
+- T907 · Confirma desde la popa que no quedó nadie atrás.

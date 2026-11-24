@@ -242,3 +242,4 @@
 - Todos en Marineford (marines, piratas, almirantes; transmisión si sigue activa) · T903 · Ven a Ojos de Eclipse sacar una katana negra y blanca y cubrir toda la flota con una cúpula plateada casi invisible que borra los meteoros de magma de Akainu sin que exploten. Lo interpretan como una fruta del diablo o técnica desconocida.
 - Kizaru, Akainu y todos en Marineford · T904 · Ven que los rayos de luz de Kizaru se borran contra la cúpula y que Kizaru no puede entrar pisándola. Kizaru deduce que la cúpula depende de Ojos de Eclipse y su katana.
 - Todos en Marineford y los marines de la flota de bloqueo · T906 · Ven a Ojos de Eclipse levantar veinte buques de guerra por el aire y apartarlos con un gesto (lo interpretan como otra fruta o poder desconocido; su ojo derecho brillaba azul).
+- Ace, Barbablanca y la tripulación del Moby Dick · T907 · Por Luffy: su tripulación fue dispersada por "el oso" (Kuma) en el archipiélago (Sabaody).

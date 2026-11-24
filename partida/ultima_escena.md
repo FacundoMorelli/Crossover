@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T904)
-puedo aguantarlo no se preocupen
-
-## RESPUESTA 1 (T904)
-
-> puedo aguantarlo no se preocupen
-
-> —Puedo aguantarlo. No se preocupen.
-
-Marco te mira un segundo más, con los párpados caídos y los ojos atentos. Después se le afloja la boca en algo parecido a una sonrisa.
-
-—Entonces te lo dejo a ti, yoi.
-
-Abre las alas de fuego azul y salta de la baranda hacia la popa de la flota, donde los últimos botes remolcan heridos y se quedaron atrás.
-
-Barbablanca no dice nada. Se da vuelta hacia la proa y levanta la voz.
-
-—¡Ya lo oyeron! ¡Nadie se detiene! ¡Remen, idiotas, remen!
-
-La flota acelera. Los barcos se ordenan en una columna larga hacia la boca de la bahía, debajo de la cúpula plateada, con las velas hinchadas y los heridos amontonados en las cubiertas. Ace se queda en la baranda, mirando hacia atrás, hacia el cadalso vacío. Luffy no le suelta la manga.
-
-En la orilla, Kizaru deja de rascarse la cabeza.
-
-Levanta un dedo.
-
-—Bueno~. Probemos.
-
-La luz le brota de la punta del dedo, y de golpe el aire sobre la bahía se llena de destellos: cientos de rayos amarillos, finos como agujas, disparados a la velocidad de la luz contra la cúpula. Yasakani no Magatama.
-
-Tocan la frontera y se borran. Uno tras otro, sin un solo reflejo, sin un chispazo. Como gotas de agua que caen sobre una piedra al rojo y no dejan ni vapor.
-
-Kizaru baja el dedo. Silba.
-
-—Aaah... no pasa nada. Qué molesto~.
-
-Después se convierte en luz.
-
-Un parpadeo amarillo cruza la bahía en menos de un instante y se detiene en seco, en el aire, justo afuera de la cúpula, sobre la popa del Moby Dick. Kizaru vuelve a tomar forma ahí, parado sobre nada, con las manos en los bolsillos y los lentes reflejando el borde plateado. Tiene la cara a menos de un metro de la frontera. Apoya la suela del zapato en ella, como quien prueba el hielo de un lago, y la suela no entra.
-
-Te mira por encima de la cúpula, a ti y a la katana que tienes en la mano.
-
-—Oye, oye~. ¿Y si te mato a ti, esto se cae?
-
-Detrás de él, en la orilla, Akainu empieza a caminar hacia el borde del hielo partido. El magma le baja por los brazos hasta los pies y el agua de la bahía empieza a hervir.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 904 · ONE PIECE · DÍA 57 · 13:18       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Sacar la flota de la bahía bajo    ║
-║ el Bankai. Shingeki: antes del D59 16:30.    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T905)
+## COMANDO 1 (T905)
 me tendrias que poder matar para eso
 
-## RESPUESTA 2 (T905)
+## RESPUESTA 1 (T905)
 
 > me tendrias que poder matar para eso
 
@@ -119,10 +57,10 @@ Desde la proa del Moby Dick, Barbablanca entrecierra los ojos hacia la línea de
 
 ---
 
-## COMANDO 3 (T906)
+## COMANDO 2 (T906)
 no se preocupen uso luna para mover todos los barcos de la marina
 
-## RESPUESTA 3 (T906)
+## RESPUESTA 2 (T906)
 
 > no se preocupen uso luna para mover todos los barcos de la marina
 
@@ -183,4 +121,64 @@ Atrás, muy lejos, en la orilla de Marineford, Akainu se queda solo en el borde 
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:23. Facundo apartó con la Luna los 20 buques de bloqueo contra las rocas; la flota de Barbablanca sale de la bahía al mar abierto bajo el Bankai. Kizaru sigue flotando afuera de la cúpula. Ace le pregunta a Facundo cómo se supone que le pague todo esto. Facundo puede responder.
+## COMANDO 3 (T907)
+no me tienes que pagar nada ace, sos el hermano de mi capitan
+
+## RESPUESTA 3 (T907)
+
+> no me tienes que pagar nada ace, sos el hermano de mi capitan
+
+> —No me tienes que pagar nada, Ace. Eres el hermano de mi capitán.
+
+Ace se queda quieto un segundo.
+
+Después se para derecho, junta los talones y se dobla por la cintura en una reverencia profunda, rígida, con el sombrero naranja en la mano, ahí en medio de la cubierta, delante de toda la tripulación de su padre.
+
+—Entonces te lo agradezco igual. —Lo dice hacia el piso, con la voz firme—. Gracias por cuidar a mi hermanito. Y gracias por lo de hoy.
+
+Luffy se ríe con todo el cuerpo.
+
+—¡Shishishi! ¡Facundo es increíble, Ace!
+
+Ace se endereza, se pone el sombrero y le da un coscorrón en la cabeza que a Luffy no le hace nada. Pero se está riendo también.
+
+Detrás de ustedes, la cúpula plateada cruza la boca de la bahía con el último bote de heridos adentro. Marco aterriza en la popa del Moby Dick y levanta un brazo de fuego azul: no queda nadie atrás.
+
+Afuera de la frontera, Kizaru se detiene en el aire, justo sobre las rocas de la salida. Ya no los sigue. Los mira alejarse con las manos en los bolsillos, ladea la cabeza, como quien se guarda una cara para recordarla. Después se convierte en luz y vuelve hacia Marineford en un destello amarillo.
+
+La flota de Barbablanca navega hacia el mar abierto, sola.
+
+En la cubierta, por primera vez desde que empezó la guerra, nadie corre. Los médicos de la tripulación empiezan a moverse entre los heridos. Alguien se sienta en el piso y se pone a llorar sin hacer ruido. Squard se acerca a la baranda y mira hacia atrás, hacia la isla que se achica.
+
+Ace se queda mirando a Luffy, ahora con la cara seria.
+
+—Oye, Luffy. —Mira alrededor de la cubierta, a los piratas de su padre, a ti, a nadie más—. ¿Y el resto de tu tripulación? ¿Dónde están?
+
+A Luffy se le borra la sonrisa de golpe.
+
+Se queda callado. Baja la vista a sus sandalias. Aprieta los puños.
+
+—No sé —dice, muy bajo—. El oso los hizo desaparecer. A todos. En el archipiélago.
+
+Levanta la cabeza y te mira a ti.
+
+—Facundo... ¿tú sabes dónde están?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 907 · ONE PIECE · DÍA 57 · 13:27       ║
+║ Mar abierto, frente a Marineford · Moby Dick ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Flota a salvo. La tripulación,     ║
+║ dispersa. Shingeki: antes del D59 16:30.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:27. La flota de Barbablanca, completa, en mar abierto fuera de Marineford (Bankai aún activo). Kizaru volvió a Marineford. Ace agradeció con una reverencia. Ace preguntó por la tripulación de Luffy; Luffy contó que el oso los hizo desaparecer y le pregunta a Facundo si sabe dónde están. Facundo puede responder.
