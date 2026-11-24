@@ -134,3 +134,4 @@
 - Facundo · T830 · Por Erwin: Pixis consiguió ropa de gala marleyana; Historia preparó un discurso; Zeke dice que lo que se reservó "para después" es sobre la fiesta Tybur.
 - Guardias del sótano de la Guarnición de Trost · T832 · Ven aparecer de la nada a Facundo y Levi en el pasillo.
 - Facundo · T833 · Por Zeke: la familia Tybur guarda el Martillo de Guerra; nadie fuera de la familia sabe quién lo porta; no es Willy. Antes de Facundo, Willy y el alto mando planeaban la fiesta para declarar la guerra a Paradis ante el mundo.
+- Levi, Zeke · T835 · Facundo se va de Trost hacia Liberio por teletransportación para hablar con Willy.

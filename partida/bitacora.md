@@ -833,3 +833,4 @@ T831 · Shingeki · Mitras · Plan: Zeke primero, después Willy. Erwin llama a 
 T832 · Shingeki · Trost · Teletransportación con Levi a la celda de Zeke. Zeke pide hablar a solas; Levi no.
 T833 · Shingeki · Trost · Zeke a solas: el Martillo de Guerra de los Tybur; la fiesta era para declarar la guerra. Pide ir a Liberio.
 T834 · Shingeki · Trost · Zeke irá a Liberio encadenado a Levi.
+T835 · Shingeki · Liberio · Teletransportación al invernadero de Willy Tybur. "Tenemos menos tiempo del que cree."

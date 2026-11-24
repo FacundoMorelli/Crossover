@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T832)
-con la teletransportación, agarro a levi y vamos a trost
-
-## RESPUESTA 1 (T832)
-
-> con la teletransportación, agarro a levi y vamos a trost
-
-Apoyas la mano en el hombro de Levi. Levi mira la mano con cara de que no le gusta nada que lo toquen, pero no se aparta.
-
-Te llevas dos dedos a la frente y buscas.
-
-Trost está lejos, al sur, detrás de dos murallas. Entre miles de presencias chicas y cálidas encuentras una que no se parece a las demás: más densa, más cansada, con algo enorme y dormido adentro. Está bajo tierra, quieta, en un mismo lugar.
-
-Desaparecen de la oficina.
-
-Aparecen en un pasillo de piedra, angosto, húmedo, iluminado con antorchas. Huele a moho, a humo y a sopa vieja. Al fondo, dos soldados de la Guarnición jugaban a las cartas sobre un barril. Uno se cae de la banqueta. El otro manotea el rifle y te apunta, temblando.
-
-—¡¿Q-quién...?!
-
-Levi lo mira. Nada más que eso. El soldado baja el rifle solo.
-
-—Capitán Levi, señor. Perdón, señor. No sabíamos que...
-
-—Sigan jugando.
-
-Al final del pasillo hay una celda con barrotes de hierro gruesos. Adentro, una cama de tablas, una mesa chica y una vela. Una cadena larga sale de la pared y termina en un grillete cerrado alrededor del tobillo izquierdo de un hombre sentado en la cama.
-
-Zeke tiene la barba más larga que la última vez, desprolija, y el pelo rubio más largo también. Los lentes, con una grieta en el vidrio izquierdo. Lleva una camisa gris de presidiario. Tiene un libro viejo abierto sobre las rodillas, con dibujos de plantas, y lo lee a la luz de la vela.
-
-Levanta la vista despacio. Te ve. Ve a Levi. Ve al gato.
-
-Cierra el libro con un dedo adentro, para no perder la página. Sonríe.
-
-—Hola, del gato. —Se acomoda los lentes rajados—. Tardaste. Veinticuatro días. Levi me los contaba cada vez que bajaba a traerme la comida. Bueno, no me los contaba. Yo le preguntaba y él decía «no» y se iba.
-
-Mira a Levi.
-
-—Necesito hablar con él. A solas.
-
-Levi se apoya contra la pared de enfrente, cruza los brazos y no se mueve.
-
-—Ni en sueños.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 832 · SHINGEKI · DÍA 35 · 06:52        ║
-║ Trost · sótano de la Guarnición, celda       ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Hablar con Zeke; después con Willy.          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T833)
+## COMANDO 1 (T833)
 esta bien levi, puedes irte, 5 minutos tienes zeke, si no terminas en ese tiempo levi entra y escucha el resto
 
-## RESPUESTA 2 (T833)
+## RESPUESTA 1 (T833)
 
 > esta bien levi, puedes irte, 5 minutos tienes zeke, si no terminas en ese tiempo levi entra y escucha el resto
 
@@ -127,10 +67,10 @@ Te sostiene la mirada detrás de los lentes rajados.
 
 ---
 
-## COMANDO 3 (T834)
+## COMANDO 2 (T834)
 está bien zeke, vas a venir con nosotros encadenado a levi
 
-## RESPUESTA 3 (T834)
+## RESPUESTA 2 (T834)
 
 > está bien zeke, vas a venir con nosotros encadenado a levi
 
@@ -185,4 +125,62 @@ Levi lo ignora. Se da vuelta hacia ti y se cruza de brazos.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:57, celda de Zeke en Trost. Facundo aceptó llevar a Zeke a Liberio encadenado a Levi. Levi resignado ("Si se mueve raro, le corto las piernas de nuevo"). Levi pregunta: "¿Y ahora? ¿Tybur?"
+## COMANDO 3 (T835)
+si, ahora voy a hablar con willy
+
+## RESPUESTA 3 (T835)
+
+> si, ahora voy a hablar con willy
+
+> —Sí. Ahora voy a hablar con Willy.
+
+Levi asiente, una sola vez.
+
+—Yo me quedo con el barbudo. —Se apoya otra vez contra la pared—. Cuando vuelvas, avísale a Erwin. Y no me traigas sorpresas.
+
+Zeke levanta el libro de botánica a modo de saludo.
+
+Te llevas dos dedos a la frente.
+
+Cruzar el océano con la mente es como estirar un hilo muy largo. Del otro lado del mar, en el continente, entre millones de presencias, hay una que ya conoces: tranquila, culta, cansada, con un fondo de miedo que nunca se le termina de ir. Willy Tybur.
+
+Y al lado de esa, en la misma casa, otra. Esa no es humana del todo: densa, pesada, con algo enorme dormido adentro. La misma que sentiste en la mansión hace un mes. Esta vez está más cerca, en el piso de arriba.
+
+Desapareces del sótano de Trost.
+
+Aparece un olor húmedo y verde, a tierra mojada, a flores raras y a té negro. Estás en el invernadero de la mansión Tybur, entre helechos gigantes y palmeras en macetas de cerámica. El sol de la mañana entra por los vidrios del techo, empañados por el calor de adentro. Gotea agua de las hojas.
+
+En una mesa chica de hierro blanco, entre dos naranjos, Willy Tybur desayuna solo. Traje claro, chaleco, el pelo rubio peinado hacia atrás. Tiene el diario de Liberio abierto, una taza de té en la mano y un plato de tostadas sin tocar.
+
+Levanta la vista.
+
+La taza se le inclina y el té se le derrama sobre el diario. No grita. Se queda mirándote con los ojos muy abiertos, la boca entreabierta, como alguien que ve un fantasma que estaba esperando.
+
+Deja la taza en el plato, despacio. Se seca la mano con la servilleta.
+
+—Veinticuatro días. —Lo dice bajo, casi riéndose—. Encendí esa vela ocho veces. Empezaba a pensar que el emisario de la isla había sido un sueño mío. Uno de esos sueños largos, con gatos.
+
+Mira a Kase. Kase lo mira a él.
+
+Willy dobla el diario mojado, despacio, y lo deja a un lado. Cuando vuelve a mirarte ya no sonríe. Se le ve la cara de un hombre que no durmió bien en semanas.
+
+—Siéntese, por favor. —Señala la silla de enfrente—. Tenemos menos tiempo del que cree.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 835 · SHINGEKI · DÍA 35 · 07:05        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Hablar con Willy.                            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:05, invernadero de la mansión Tybur en Liberio. Levi se quedó con Zeke en Trost. Willy, desayunando solo, se derramó el té al verlo; encendió la vela ocho veces. Facundo siente la presencia de titán en el piso de arriba (Lara, no sabe quién). Willy: "Siéntese, por favor. Tenemos menos tiempo del que cree."

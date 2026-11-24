@@ -17,3 +17,4 @@ ESTADO: activo
 - T563 · Le da la mano a Facundo; brindan con té. "¿Cómo lo encuentro si necesito hablar con usted antes?" RELACIÓN: aliado en el plan de paz.
 - T564 · Se ríe. Propone: invernadero cada tres noches a las nueve; vela apagada si no hay novedades.
 - T565 · Recibe el botón de aviso. Lo guarda en el bolsillo del chaleco.
+- T835 · Día 35, mañana · Facundo aparece en su invernadero. "Veinticuatro días. Empezaba a pensar que el emisario de la isla había sido un sueño mío." "Siéntese. Tenemos menos tiempo del que cree."
