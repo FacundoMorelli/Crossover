@@ -154,3 +154,4 @@
 - Día 57 09:25 · (T881) Facundo llega a Marineford disfrazado de marine raso.
 - Día 57 09:40 · (T883) Sengoku revela ante Marineford y la transmisión que Ace es hijo de Gol D. Roger (canon). Ace: "¡Mi padre es Barbablanca!"
 - Día 57 ~11:00-12:40 · (T884, canon) Llega la flota de Barbablanca desde el fondo de la bahía; maremotos; Aokiji congela la bahía; empieza la guerra (comandantes, Oars Jr., almirantes, Mihawk). 12:40: el buque de Impel Down cae del cielo con Luffy, Jinbe, Crocodile, Ivankov, Buggy, Mr. 3. Luffy grita que vino a salvar a Ace.
+- Día 57 12:58 · (T885) Facundo frena la espada de Squard antes de que apuñale a Barbablanca (canon: lo apuñalaba).

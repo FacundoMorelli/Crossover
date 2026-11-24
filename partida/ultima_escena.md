@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T882)
-le respondo mi unidad bien
-
-## RESPUESTA 1 (T882)
-
-> le respondo mi unidad bien
-
-Le das al sargento el número de una compañía y el nombre de una base del Grand Line, sin dudar ni un segundo, con la voz aburrida de alguien que lo repitió cien veces esa mañana.
-
-El sargento te mira de arriba abajo una vez más. La gorra, la barriga, los ojos marrones. Gruñe.
-
-—¿Los refuerzos de las bases? —Señala con el sable hacia la derecha, hacia el mar—. ¡Están en el ala este, idiota, junto al muro de la costa! ¡No aquí! ¡Corre, gordo! —Te mira la barriga—. Y cuidado no te caigas rodando.
-
-Un par de marines de la fila se ríen por lo bajo.
-
-Corres hacia el ala este con la barriga rebotando. Adentro, Kase te clava las uñas en la panza cada vez que pisas.
-
-El ala este está pegada al muro de la costa, donde la plaza termina en una baranda de piedra sobre la bahía. Ahí se amontonan cientos de marines de bases lejanas, traídos de refuerzo: uniformes un poco distintos, gorras gastadas, caras que no se conocen entre sí. Nadie pregunta nada. Te metes en una fila, entre un marine alto y flaco y otro chiquito de anteojos.
-
-Desde ahí se ve el cadalso de costado, alto contra el cielo. Se ve a Ace, de rodillas, inmóvil. Se ve la bahía entera con los buques de guerra alineados y, más allá, el mar abierto, liso, azul, sin un solo barco en el horizonte.
-
-Todavía.
-
-El marine chiquito de anteojos, a tu lado, no puede quedarse quieto. Tiene el fusil apretado contra el pecho y le tiemblan las rodillas. Mira el mar, te mira a ti y vuelve a mirar el mar.
-
-—Oye... —Habla bajito, para que no lo escuche el oficial—. Dicen que Barbablanca va a venir. Con todos sus barcos. Con todos sus comandantes. —Traga saliva—. ¿Tú crees que venga?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 882 · ONE PIECE · DÍA 57 · 09:27       ║
-║ Marineford · ala este, junto al muro         ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien (lentes marrones)  ║
-║ Velo: persona común                          ║
-║ Kase: dentro de la camisa, clavando uñas     ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace (15:00), al lado de   ║
-║ Luffy. Shingeki: antes del D59 16:30.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T883)
+## COMANDO 1 (T883)
 seguramente, el que esta ahi es su hijo
 
-## RESPUESTA 2 (T883)
+## RESPUESTA 1 (T883)
 
 > seguramente, el que esta ahi es su hijo
 
@@ -113,10 +69,10 @@ Mira el horizonte vacío.
 
 ---
 
-## COMANDO 3 (T884)
+## COMANDO 2 (T884)
 espero
 
-## RESPUESTA 3 (T884)
+## RESPUESTA 2 (T884)
 
 > espero
 
@@ -179,4 +135,64 @@ Luffy grita. Con toda la voz.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 12:40, Marineford en guerra. Barbablanca llegó (~11:00) desde el fondo de la bahía; Aokiji congeló la bahía; guerra total (comandantes, Oars Jr., almirantes, Mihawk). El buque de Impel Down cayó del cielo: Luffy, Jinbe, Crocodile, Ivankov, Buggy, Mr. 3 en la bahía congelada. Luffy gritó: "¡¡ACEEE!! ¡¡VINE A SALVARTE!!" Facundo disfrazado en el ala este, sin haber peleado en serio. Kase en la camisa.
+## COMANDO 3 (T885)
+antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
+
+## RESPUESTA 3 (T885)
+
+> antes que squard apuñale a barbablanca, aparezco dentras de el y le bloqueo la espada
+
+Abres el Haki entero, sin dejar de parecer un marine más en la fila.
+
+La guerra es un ruido enorme en la cabeza: miles de presencias que gritan, que odian, que tienen miedo. Luffy avanza por el hielo como un fuego chiquito y terco, con Jinbe al lado. Ace está arriba, quieto, y le tiembla todo por dentro. Barbablanca es una montaña en la cubierta del Moby Dick.
+
+Y detrás de la montaña hay una presencia que se acerca despacio, temblando de rabia y de traición. Squard.
+
+Sube a la cubierta del Moby Dick por la popa. Los piratas de Barbablanca lo dejan pasar: es un capitán aliado, de los suyos. Camina hacia la espalda del viejo con una espada larga en la mano y la cara deshecha.
+
+Te mueves.
+
+Desapareces del ala este sin que el de anteojos alcance a darse vuelta.
+
+Apareces detrás de Squard, en la cubierta del Moby Dick, en el mismo instante en que él levanta la espada y la lanza hacia adelante con las dos manos, con todo el peso del cuerpo, hacia la espalda de Barbablanca.
+
+Levantas la mano derecha.
+
+Dos dedos. El índice y el mayor. Se te recubren de Haki hasta los nudillos: azul intenso, con vetas blancas.
+
+La hoja se frena entre tus dedos con un chasquido seco, a un palmo de la espalda del abrigo blanco. No avanza ni un milímetro. Squard empuja con todo el cuerpo, con los brazos temblando, y la espada no se mueve.
+
+La cubierta entera se queda quieta.
+
+Barbablanca se da vuelta. Despacio, como una montaña que gira.
+
+Ve a Squard, uno de sus aliados, uno de sus hijos, con la espada en las manos apuntándole a la espalda. Y ve, detrás de Squard, a un marine raso, gordo, con la gorra blanca y el uniforme sucio de pólvora, sosteniendo la hoja con dos dedos azules.
+
+Los ojos amarillos del viejo se abren apenas.
+
+Squard suelta la empuñadura. Retrocede un paso, temblando, con la cara llena de lágrimas, y le grita al viejo, con la voz rota:
+
+—¡Lo sabías! ¡Nos vendiste! —Le tiembla todo—. ¡El almirante Akainu me lo dijo! ¡Vendiste a todos los capitanes aliados a la Marina a cambio de la vida de Ace! ¡Para que nos maten a todos y salvar a tu hijo!
+
+Desde el hielo, abajo, Marco se da vuelta en medio del vuelo, con las llamas azules en los brazos. Los comandantes miran hacia la cubierta.
+
+En la plaza, a lo lejos, Akainu levanta la cabeza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 885 · ONE PIECE · DÍA 57 · 12:58       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa                    ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Squard frenado. Shingeki: antes del D59.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 12:58, cubierta del Moby Dick. Facundo (disfrazado de marine raso, Kase en la camisa) frenó con dos dedos de Haki azul la espada de Squard a un palmo de la espalda de Barbablanca. Barbablanca se dio vuelta y vio la escena. Squard grita la mentira de Akainu (que Barbablanca vendió a los capitanes aliados a cambio de Ace). Marco y los comandantes miran; Akainu levanta la cabeza desde la plaza.
