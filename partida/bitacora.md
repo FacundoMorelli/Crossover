@@ -887,3 +887,4 @@ T885 · One Piece · Marineford · Frena la espada de Squard con dos dedos de Ha
 T886 · One Piece · Marineford · "Qué chico tonto." Barbablanca abraza a Squard. "No eres un marine."
 T887 · One Piece · Marineford · Se quita el disfraz en el Moby Dick. Marco y Barbablanca lo reconocen. Akainu se pone de pie.
 T888 · One Piece · Marineford · Semilla del ermitaño a Barbablanca. Se arranca los tubos. "Hoy no me muero."
+T889 · One Piece · Marineford · Con Luffy en el hielo: "Perdón por llegar tarde." Crocodile lo reconoce. "¡Vamos por Ace!"

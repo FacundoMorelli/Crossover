@@ -34,3 +34,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T765 · Acepta quemar el Merry: "Sí. La despedimos nosotros. Que nadie más la toque."
 - T808 · Vence a Moria al amanecer (Gear Second + Third). Le robaron la sombra y la recuperó.
 - T816 · Saca la vivre card de Ace: se está quemando. "Ace es fuerte. Va a estar bien."
+- T889 · Marineford · "¡¡FACUNDO!! ¡Viniste!" Cuenta que el oso mandó a todos lejos. "¡Vamos por Ace!"
