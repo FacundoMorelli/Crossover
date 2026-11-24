@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T908)
-ehh ahi te digo, busco el ki de todos
-
-## RESPUESTA 1 (T908)
-
-> ehh ahi te digo, busco el ki de todos
-
-> —Eh... Ahí te digo.
-
-Cierras los ojos.
-
-La cubierta se queda atrás: los gritos de los heridos, el crujido de las velas, el calor de Ace a tu lado, la respiración de Kase en tu oreja. Abres los sentidos hacia afuera, más allá de la flota, más allá de la bahía, y el mundo se llena de luces.
-
-Miles. Millones. Todo lo que respira en el Grand Line, chiquito y tibio, como brasas desparramadas sobre un mar oscuro. Los marines de Marineford, apretados como un hormiguero alborotado. Dos fuegos enormes, uno caliente y furioso y otro tranquilo y frío, en la orilla de la bahía. Las presencias gigantes de los barcos de la flota a tu alrededor. Las vas dejando atrás, una por una, y buscas otras. Las que conoces.
-
-La primera que encuentras arde lejos, al oeste. Una presencia filosa, pesada, quieta como una espada clavada en el piso. Está herida, la sientes vendada, pero no débil: enojada. Muy enojada. A su alrededor, una isla gris llena de presencias brutas y salvajes, y cerca de ella, una chispa chiquita, flotante, casi fantasmal, que no le despega la vista.
-
-Zoro.
-
-Después, arriba. Muy arriba, más alto que cualquier montaña, donde no debería haber nada: una presencia ágil, nerviosa, que va y viene en círculos cortos, como alguien que camina de un lado al otro de una habitación. Rodeada de unas pocas presencias viejas y tranquilas, flotando en el cielo.
-
-Nami.
-
-Otra, en el sur, dentro de una isla que late de vida por todos lados: plantas, bichos, cosas que se mueven y respiran entre sí, enormes y raras. En el medio, una presencia que tiembla de miedo y que, a pesar de eso, no se va. Se esconde y sigue.
-
-Usopp.
-
-Una en una isla llena de presencias fuertes, ruidosas, demasiado alegres. Cientos. Y en el medio, una sola presencia que corre, se cubre, salta, vuelve a correr, al borde de la desesperación.
-
-Sanji.
-
-Una pequeña y tibia en la cima de algo altísimo, en un lugar caliente, rodeada de presencias gigantes y salvajes, enormes como casas. Asustada, decidida y apretando los dientes.
-
-Chopper.
-
-Una ancha, terca, ruidosa, en una isla al este, sola, lejos de todo, rodeada de silencio, mucho silencio. Excavando, rompiendo, trabajando.
-
-Franky.
-
-Brook te cuesta. Su presencia es rara, fría, casi nada, como una vela que no debería estar prendida y sigue prendida. La encuentras al final, en el medio de una multitud enorme de presencias que no son humanas, todas mirándolo a él.
-
-Y después, mucho más lejos, del otro lado de la Red Line, en un mar tranquilo que no es este, una enorme cantidad de presencias juntas, cansadas, apagadas, que se mueven todas al mismo ritmo como presos encadenados. Miles de vidas gastándose de a poco, todas en un mismo lugar.
-
-Y una entre ellas. Una que conoces mejor que ninguna. Cansada, mucho. Pero entera. Viva.
-
-Robin.
-
-Abres los ojos.
-
-Kase te está mirando desde tu hombro, con el ojo rojo y el azul fijos en tu cara. La cola se le mueve una sola vez.
-
-Luffy sigue parado delante de ti, quieto, con los puños apretados a los costados, esperando. Ace detrás de él, con los brazos cruzados. Barbablanca, desde la proa, también te mira.
-
-—¿Y? —Luffy da un paso—. ¿Y, Facundo? ¿Están bien?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 908 · ONE PIECE · DÍA 57 · 13:29       ║
-║ Mar abierto, frente a Marineford · Moby Dick ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Los ocho, encontrados. Robin, del  ║
-║ otro lado de la Red Line. Shingeki: D59.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T909)
+## COMANDO 1 (T909)
 estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
 
-## RESPUESTA 2 (T909)
+## RESPUESTA 1 (T909)
 
 > estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
 
@@ -133,10 +61,10 @@ Luffy te agarra del brazo, de golpe, con los ojos grandes.
 
 ---
 
-## COMANDO 3 (T910)
+## COMANDO 2 (T910)
 mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
 
-## RESPUESTA 3 (T910)
+## RESPUESTA 2 (T910)
 
 > mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
 
@@ -185,4 +113,62 @@ Barbablanca no se mueve de la proa. Solo te mira, esperando.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:34, Moby Dick. Luffy quiere ir ya a ver a los ocho con Facundo. Ace pregunta si el Bankai sobre la flota sigue si Facundo se va; buques de la Marina salen de la bahía tras la flota. Barbablanca espera. Facundo puede responder.
+## COMANDO 3 (T911)
+si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
+
+## RESPUESTA 3 (T911)
+
+> si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
+
+> —Sí, se queda. Hasta que se me agote la energía. Y, como sabrán, eso es complicado.
+
+Ace se te queda mirando un segundo. Después se le escapa una carcajada corta, de incredulidad.
+
+—Complicado, dice. —Mira la cúpula de punta a punta, todos los barcos de su padre adentro—. Claro. Complicado.
+
+Marco se cruza de brazos en la baranda.
+
+—Entonces la Marina puede seguirnos hasta el fin del mundo, que no va a tocar ni una tabla, yoi. —Se le arquea una ceja—. Eso les va a doler más que perder la guerra.
+
+En la proa, Barbablanca se ríe tan fuerte que el Moby Dick entero se sacude, desde la quilla hasta la punta del mástil.
+
+—¡¡Gurararara!! —Golpea el bisento contra la cubierta—. ¡Vayan, mocosos! ¡Vayan a buscar a su gente! ¡Mi flota se cuida sola, y ahora tiene techo!
+
+Después baja la vista hacia Luffy. La risa se le apaga despacio en el bigote.
+
+—Sombrero de Paja. —Luffy levanta la cabeza—. Hoy te metiste en una guerra que no era tuya por tu hermano. Eso no se olvida en este barco. Ni yo, ni ninguno de mis hijos.
+
+Luffy lo mira serio un segundo. Después sonríe enorme.
+
+—¡Shishishi! ¡Gracias, viejo de bigote!
+
+A Barbablanca le tiembla el bigote. Toda la cubierta contiene el aire. Después se ríe otra vez.
+
+Ace se agacha delante de su hermano, le acomoda el sombrero de paja con las dos manos y se lo baja hasta los ojos.
+
+—Hazle caso a tu compañero, ¿oíste? Dos años. —Se endereza y te mira a ti—. Y tú, cuídamelo.
+
+Le da a Luffy un último empujón hacia ti.
+
+Luffy aterriza a tu lado de un salto, con el puño en alto, los ojos brillando y una pierna estirada para salir corriendo a ningún lado.
+
+—¡¡Vamos, Facundo!! ¡¿A quién vamos a ver primero?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 911 · ONE PIECE · DÍA 57 · 13:36       ║
+║ Mar abierto, frente a Marineford · Moby Dick ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Visitar a los ocho con Luffy. El   ║
+║ Bankai queda sobre la flota. Shingeki: D59.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:36, Moby Dick. El Bankai queda sobre la flota de Barbablanca. Despedida de Barbablanca y Ace; Ace: "Cuídamelo." Luffy, al lado de Facundo, pregunta a quién van a ver primero. Facundo puede responder.

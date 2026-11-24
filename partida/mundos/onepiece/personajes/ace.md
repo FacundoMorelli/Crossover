@@ -24,3 +24,4 @@ ESTADO: activo
 - T907 · Reverencia: "Gracias por cuidar a mi hermanito. Y gracias por lo de hoy." Pregunta a Luffy por su tripulación.
 - T909 · Le pone la mano en la cabeza a Luffy, en silencio.
 - T910 · "No pudiste esperar ni dos minutos." A Facundo: si se va, ¿la pared sigue?
+- T911 · A Luffy: "Hazle caso a tu compañero. Dos años." A Facundo: "Y tú, cuídamelo."

@@ -16,3 +16,4 @@ ESTADO: activo
 - T904 · "Entonces te lo dejo a ti, yoi." Vuela a la popa a cubrir los botes de heridos.
 - T907 · Confirma desde la popa que no quedó nadie atrás.
 - T910 · "Ya nos están siguiendo, yoi."
+- T911 · "La Marina puede seguirnos hasta el fin del mundo, que no va a tocar ni una tabla, yoi."

@@ -1,8 +1,8 @@
 {
-  "turno": 910,
+  "turno": 911,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "13:34",
+  "hora": "13:36",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -1775,7 +1775,8 @@
     "haki_observacion": "T659: el jugador declara su Haki de observación al máximo sin entrenamiento.",
     "ver_reglas_extra": "Todas las reglas agregadas están completas en partida/reglas_extra.md (manda sobre el prompt original). Última escena textual en partida/ultima_escena.md.",
     "relaciones_por_mundo": "T803: Facundo puede tener una pareja por mundo; ninguna sabe de las otras salvo que él lo diga (ver reglas_extra.md R9).",
-    "haki_color": "T874 (declarado por el jugador): el Haki de armadura de Facundo es azul intenso y blanco, no negro (también los rayos de su Haki del Rey con recubrimiento)."
+    "haki_color": "T874 (declarado por el jugador): el Haki de armadura de Facundo es azul intenso y blanco, no negro (también los rayos de su Haki del Rey con recubrimiento).",
+    "T911_bankai_sobre_flota": "El Bankai Hate no Sakaime de Facundo se mantiene sobre la flota de Barbablanca aunque Facundo se aleje, mientras tenga energía (declarado por el jugador)."
   },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",

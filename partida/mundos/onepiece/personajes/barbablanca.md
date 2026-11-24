@@ -16,3 +16,4 @@ ESTADO: activo
 - T904 · "¡Remen, idiotas, remen!" Confía la cúpula a Facundo.
 - T905 · "Mocoso. Tu pared. ¿Hasta dónde llega?"
 - T909 · "Ese consejo te lo dio alguien que ya tuvo que esperar mucho, ¿eh, mocoso?"
+- T911 · "¡Vayan, mocosos! Mi flota se cuida sola, y ahora tiene techo." A Luffy: "Hoy te metiste en una guerra que no era tuya por tu hermano. Eso no se olvida en este barco."

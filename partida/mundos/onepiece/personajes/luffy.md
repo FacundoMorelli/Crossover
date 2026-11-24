@@ -42,3 +42,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T907 · "¡Facundo es increíble, Ace!" Sobre su tripulación: "El oso los hizo desaparecer. A todos." A Facundo: "¿Tú sabes dónde están?"
 - T909 · Acepta dos años: "No soy lo bastante fuerte. Ninguno lo es. Dos años. Y después, al Nuevo Mundo." "¿Cómo les avisamos?"
 - T910 · "¡¿En serio?! ¡Facundo, eres lo máximo! ¡Vamos ya!"
+- T911 · "¡Gracias, viejo de bigote!" "¡¿A quién vamos a ver primero?!"
