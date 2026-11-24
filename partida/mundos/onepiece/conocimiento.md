@@ -161,3 +161,4 @@
 - Facundo y tripulación · T732 · Por Paulie (de parte de Iceburg): el CP9 vuelve esta noche; tren especial a Enies Lobby a las 23:00 con prisioneros.
 - Paulie · T732 · Iceburg le contó lo del CP9 (Lucci, Kaku, Kalifa, Blueno). Está furioso y dolido.
 - Facundo · T733 · El CP9 mandó a alguien a buscar a Franky.
+- Iceburg · T734 · Facundo lo desató y congeló el fuego.

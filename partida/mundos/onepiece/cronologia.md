@@ -103,3 +103,4 @@
 - Día 35 · (T723) Diarios: atentado contra Iceburg, "no vio caras" (canon: acusaba a Robin). Aviso de Aqua Laguna para la noche (canon). 08:40: Franky llega al Merry buscando a Facundo.
 - Día 35 09:00-17:30 · (T732) Franky refuerza el Going Merry (canon: no lo hacía). Evacuación por la Aqua Laguna. Paulie avisa: el CP9 vuelve esta noche; tren del Gobierno a Enies Lobby a las 23:00 (canon: el Puffing Tom con Robin, Franky y Usopp presos).
 - 18:40 · (T733) Segunda noche: el CP9 se revela ante Iceburg, lo ata y prende fuego al cuarto (canon). "Ya mandamos a buscar a Franky." Robin con ellos.
+- 18:42 · (T734) Facundo salva a Iceburg y apaga el incendio con hielo (canon: lo salvaban Luffy y los demás).

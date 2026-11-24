@@ -17,3 +17,4 @@ ESTADO: activo
 - T721 · Promete no culpar a los Sombrero de Paja. "Gracias por el poroto." Pide cuidar a Franky. RELACIÓN: aliado.
 - T722 · Se ríe. "Cuídate de Lucci. Es el más peligroso de los cuatro."
 - T733 · Finge sorpresa ante el CP9. "Los planos se quemaron." Lo atan y prenden fuego.
+- T734 · Salvado por Facundo. "Otra vez tú." "Ve por Franky."
