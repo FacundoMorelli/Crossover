@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T799)
-es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
-
-## RESPUESTA 1 (T799)
-
-> es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
-
-> —Es alto, con capa verde y un tatuaje rojo en la cara. Le pregunté quién era y me dijo: «Alguien que tiene curiosidad por ver qué hacen ustedes con el mar».
-
-Luffy se queda quieto, con las manos todavía agarradas a tu sobretodo. Abre la boca. La cierra.
-
-Detrás de él, Garp cierra los ojos.
-
-Se queda así un momento, con las manos apoyadas sobre el respaldo de la silla. Después se le escapa una risa baja, cansada, que no se parece en nada a sus carcajadas.
-
-—Ese es él. —Sacude la cabeza—. Siempre hablando como si el mundo fuera un experimento y él lo estuviera mirando por un agujero en la pared. Desde chico era así.
-
-Se pasa la mano por la cicatriz del ojo.
-
-—Curiosidad por ver qué hacen con el mar... —Mira a Luffy—. Ese desgraciado se paró en medio de una calle llena de marines para ver a su hijo cinco minutos. Y lo único que dijo fue eso.
-
-Luffy suelta tus solapas despacio. Se queda mirando el piso un momento, con el ceño fruncido, pensando con todas sus fuerzas.
-
-Y después sonríe de oreja a oreja.
-
-—¡Entonces que mire! —Levanta el puño—. ¡Voy a ser el Rey de los Piratas! ¡Que mire eso!
-
-Garp lo mira un segundo y se le escapa la carcajada de siempre.
-
-—¡Bwahahaha! ¡Igualito a los dos! ¡Qué familia de idiotas!
-
-Se da vuelta hacia la pared rota, donde Koby y Helmeppo siguen tiesos como estatuas.
-
-—Ustedes dos. —Los señala con una galleta—. Lo que oyeron en esta casa no sale de esta casa. Ni en un informe, ni en una borrachera, ni dormidos. ¿Entendido?
-
-—¡S-sí, Garp-san!
-
-Robin sigue mirándote desde el sillón, en silencio, con el libro cerrado sobre las rodillas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 799 · ONE PIECE · DÍA 38 · 10:36       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T800)
+## COMANDO 1 (T800)
 simula hasta que este el barco
 
-## RESPUESTA 2 (T800)
+## RESPUESTA 1 (T800)
 
 > simula hasta que este el barco
 
@@ -147,10 +91,10 @@ Luffy ya está trepando por la cabeza del león.
 
 ---
 
-## COMANDO 3 (T801)
+## COMANDO 2 (T801)
 me acerco a robin y miro el barco con ella
 
-## RESPUESTA 3 (T801)
+## RESPUESTA 2 (T801)
 
 > me acerco a robin y miro el barco con ella
 
@@ -199,4 +143,64 @@ Toda la Galley-La aplaude. La familia Franky llora a mares. Iceburg asiente, sat
 
 ---
 
-ESTADO AL CIERRE: Día 41 09:03, Dock 1. Facundo y Robin miran el Thousand Sunny abrazados. Franky le hizo una biblioteca a Robin. Luffy bautizó el barco. Pendiente (canon): Garp atacará cuando zarpen; Aokiji visita a Robin antes de zarpar.
+## COMANDO 3 (T802)
+le doy un beso a robin y subimos al barco
+
+## RESPUESTA 3 (T802)
+
+> le doy un beso a robin y subimos al barco
+
+Robin levanta la cara hacia ti, todavía con los ojos húmedos, y la besas ahí mismo, en el borde del muelle, delante de toda la Galley-La.
+
+Doscientos carpinteros silban a la vez.
+
+—¡Eso, Ojos de Eclipse! —grita uno desde un andamio.
+
+—¡Cuatrocientos millones y encima con novia! —grita otro.
+
+Robin se separa riéndose, con las mejillas rojas, y te toma de la mano. Suben juntos por la planchada.
+
+La cubierta del Sunny es blanda bajo los pies. El césped es de verdad, fresco, con olor a tierra mojada. Kase salta de tu hombro apenas pisan el pasto, lo olfatea, da tres vueltas y se acuesta al sol en el medio, como si el barco fuera suyo desde siempre.
+
+Todo es un caos feliz. Los carpinteros suben barriles, cajones y sacos de harina por la planchada. Sanji abre la puerta de la cocina, ve los fogones nuevos, el horno de piedra y la heladera con candado, y se queda arrodillado en la puerta llorando en silencio. Nami encuentra un cuarto de mapas con una mesa enorme y se encierra. Usopp grita desde abajo que hay una fábrica entera para él. Chopper descubre la enfermería, con camillas, frascos y estantes, y salta en el lugar. Robin te da un beso en la mejilla y sube corriendo, como una chica, por la escalera hacia el puesto del vigía, hacia su biblioteca.
+
+Franky recorre la cubierta revisando cada cabo con orgullo.
+
+En el muelle se quedan Iceburg, con Tyrannosaurus en el hombro, Paulie, que finge que no llora, Kokoro con su botella, Chimney y Gonbe saludando con las dos manos, y la familia Franky entera hecha un mar de lágrimas.
+
+—¡Aniki! ¡Cuídese! ¡Aniki!
+
+—¡Ya sé, ya sé! —Franky les da la espalda y se seca los ojos con el antebrazo—. ¡Es el viento! ¡Es el viento SUPEEER salado!
+
+Los carpinteros sueltan los cabos. La madera cruje. El Sunny se separa del muelle despacio.
+
+Luffy está parado en la cabeza del león, con el sombrero calado y los brazos en alto.
+
+—¡ZARPEMOS!
+
+Desde el puesto del vigía, por una ventana redonda, Robin se asoma.
+
+—Hay un barco a la salida del puerto.
+
+Todos miran. A unos quinientos metros, fondeado justo en la boca del puerto, hay un buque de la Marina, grande y blanco. En la proa, en lugar de un mascarón normal, tiene la cabeza de un perro.
+
+En la cubierta del buque, una figura enorme con abrigo blanco levanta una bala de cañón con una sola mano, como si fuera una pelota.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 802 · ONE PIECE · DÍA 41 · 09:20       ║
+║ Water 7 · Thousand Sunny, saliendo del Dock 1║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: al sol, en el césped                   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Zarpar. Salir de One Piece antes   ║
+║ del Día 49.                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 41 09:20. El Thousand Sunny se separa del Dock 1; Luffy grita "¡Zarpemos!". A la salida del puerto espera el buque de Garp (cabeza de perro); Garp levanta una bala de cañón con la mano. Canon: Garp ataca para "no dejarlos ir"; Franky usa el Coup de Burst para escapar.

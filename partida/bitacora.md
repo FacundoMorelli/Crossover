@@ -800,3 +800,4 @@ T798 · One Piece · Water 7 · Facundo dice que le vio la cara a Dragon en Logu
 T799 · One Piece · Water 7 · Describe a Dragon y su frase. Garp: "Ese es él." Les ordena a Koby y Helmeppo callar.
 T800 · One Piece · Water 7 · Simula hasta el Día 41: carteles (Facundo 400M), Franky se une, presentación del Thousand Sunny.
 T801 · One Piece · Dock 1 · Mira el barco con Robin. Franky le hizo una biblioteca. Luffy bautiza el Thousand Sunny.
+T802 · One Piece · Thousand Sunny · Beso en el muelle. Suben. Se sueltan los cabos. El buque de Garp espera a la salida del puerto.
