@@ -11,3 +11,4 @@ ENCUENTROS:
 ESTADO: activo
 - T745 · Ve a Facundo derribar las banderas con un arco de luz. Sonríe apenas: ahora tiene una razón oficial.
 - T750 · Pasaje subterráneo · Les corta el paso a Facundo y a Luffy. Habla con su voz: "Uno de ustedes pasa por encima de mi cadáver. El otro, también." Le dice a Facundo que le interesa más él.
+- T751 · Pelea con Luffy (Gear Second) en el pasaje; forma híbrida de leopardo. Lo estrella contra la pared y se lanza sobre Facundo con el Rokuōgan.

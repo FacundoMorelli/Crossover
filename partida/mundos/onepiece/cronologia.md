@@ -119,3 +119,4 @@
 - Día 36 06:58 · (T748) La tripulación se reparte contra los agentes (canon). Facundo y Luffy bajan al pasaje subterráneo; Blueno lo custodia (canon: Luffy peleaba con Blueno arriba y después perseguía).
 - Día 36 07:01 · (T749) Luffy estrena el Gear Second y derrota a Blueno (canon), en el sótano frente al pasaje (cambio de lugar).
 - Día 36 07:04 · (T750) Lucci les corta el paso a Facundo y a Luffy en el pasaje (canon: frente a Luffy, en la sala de la Torre); Spandam sigue con Robin.
+- Día 36 07:06 · (T751) Lucci contra Luffy en el pasaje (canon: en la Torre, después). Spandam y Robin llegan al Puente de la Duda (canon).

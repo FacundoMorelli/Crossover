@@ -1,8 +1,8 @@
 {
-  "turno": 750,
+  "turno": 751,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 36 (Grand Line, Enies Lobby)",
-  "hora": "07:04",
+  "hora": "07:06",
   "edad": 18,
   "nivel": 26,
   "exp": 211640,
@@ -984,6 +984,13 @@
       "mision": "Entrar por una de las puertas de Blueno y salir por la que tú elijas.",
       "dificultad": "BAJA",
       "emitida": "T735"
+    },
+    {
+      "poder": "Rob Lucci: Neko Neko no Mi modelo Leopardo + Rokushiki completo",
+      "mundo": "onepiece",
+      "mision": "Recibir el Rokuōgan de Lucci de frente y seguir de pie.",
+      "dificultad": "MEDIA",
+      "emitida": "T751"
     }
   ],
   "misiones_de_copia_rechazadas": [],
