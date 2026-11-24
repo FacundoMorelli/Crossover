@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1018)
-le doy una semilla del ermitaño, comela viejo
-
-## RESPUESTA 1 (T1018)
-
-> le doy una semilla del ermitaño, comela viejo
-
-> —Cómela, viejo.
-
-Pasas por el marco roto de la ventana y te posas sobre la alfombra, entre los vidrios. Sacas una semilla del bolsillo del sobretodo y se la tiendes en la palma.
-
-Makarov la mira. Es un poroto chico, verde, de nada.
-
-—¿Esto fue lo que le diste a Levy? —Levanta una ceja blanca—. Ella dijo que ni las medicinas de Porlyusica hacían eso.
-
-No espera respuesta. La agarra con dos dedos, se la mete en la boca y la mastica, con cara de viejo que desconfía de la comida ajena.
-
-Traga.
-
-Durante un segundo no pasa nada.
-
-Después se le endereza la espalda. Las quemaduras de la Onda Muerta en los brazos se le aclaran, se le cierran, desaparecen, y debajo queda la piel lisa, arrugada y sana de siempre. Deja de jadear. Se le va el temblor de las piernas. El color le vuelve a las mejillas, y algo más: una luz suave alrededor del cuerpo, apenas visible, como la que tenía en el parque antes de romper el bastón.
-
-Se mira las manos. Las abre y las cierra.
-
-—Toda mi magia... —murmura—. Acabo de usar Fairy Law, y la tengo entera. Como si me hubiera despertado de una siesta.
-
-Te mira. Después mira a Jose, gris y quieto en el piso. A Juvia y a Sol, desmayados contra la pared. El cielo abierto donde antes estaba el techo de la torre.
-
-Se queda en silencio un rato.
-
-—Bajaste a mis hijos de un árbol. —Lo dice despacio, como quien hace una cuenta—. Le pegaste a Gajeel, le pegaste a Aria. Me salvaste la espalda. Sacaste a Lucy de una torre. Encontraste a Jose cuando yo no podía. Y ahora esto. —Levanta la vista—. Y dices que no quieres nada.
-
-Se rasca el bigote.
-
-Desde abajo, por el hueco de la escalera de la torre, se escuchan pasos que suben corriendo y la voz de Natsu gritando "¡VIEJO!", y la de Erza detrás, más tranquila, diciéndole que no grite.
-
-Makarov no les hace caso. Sigue mirándote.
-
-—Esta noche, cuando volvamos a Magnolia, Fairy Tail va a hacer una fiesta. Una de las grandes. —Una pausa—. Me gustaría que vinieras. No como invitado. —Se cruza de brazos—. Ya sé que no tienes marca, muchacho. ¿Alguna vez pensaste en tener una?
-
-[Semillas del ermitaño: 84.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1018 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:34 · Phantom Lord · lo alto de la torre   ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1019)
+## COMANDO 1 (T1019)
 no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
 
-## RESPUESTA 2 (T1019)
+## RESPUESTA 1 (T1019)
 
 > no, prefiero seguir sin gremio, pero voy a la fiesta, a parte soy mucho de viajar y irme y volver de la nada
 
@@ -115,10 +55,10 @@ Natsu no lo sigue. Se queda delante de ti, con los brazos cruzados y el ceño fr
 
 ---
 
-## COMANDO 3 (T1020)
+## COMANDO 2 (T1020)
 algo así, simula unos dias
 
-## RESPUESTA 3 (T1020)
+## RESPUESTA 2 (T1020)
 
 > algo así, simula unos dias
 
@@ -185,4 +125,48 @@ A la tarde, mientras estás en la puerta de la sede, uno de los caballeros del C
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:10, puerta de la sede en Magnolia. El capitán Lahar (Consejo) le pide a Facundo que lo acompañe adentro a responder preguntas. Facundo puede responder.
+## COMANDO 3 (T1021)
+está bien, lo acompaño adentro
+
+## RESPUESTA 3 (T1021)
+
+> está bien, lo acompaño adentro
+
+> —Está bien. Lo acompaño adentro.
+
+Lahar asiente, cierra la carpeta y se da vuelta sin decir nada más.
+
+Adentro, el salón de Fairy Tail está irreconocible. Las mesas largas están corridas contra las paredes, y en los huecos donde estaban los pilares de hierro quedaron agujeros tapados con tablas. Tres caballeros de armadura gris custodian la puerta de la barra. Al pasar, ves a Gray sentado en un banco con los brazos cruzados, esperando su turno, sin camisa otra vez. Te ve, levanta una ceja y no dice nada. Mirajane, detrás de la barra, te sonríe y le hace a Kase un saludito con los dedos.
+
+Lahar te lleva hasta una habitación del fondo, la que antes era una despensa. Ahora hay una mesa de madera, dos sillas enfrentadas y una lámpara de lacrima encendida en el centro. En un rincón, otro caballero, más joven, está sentado frente a un atril con una pluma y un libro abierto, listo para escribir.
+
+Lahar se sienta. Te señala la otra silla.
+
+Kase se baja de tu hombro y se sube a la mesa, entre los dos. Se sienta, enrosca la cola alrededor de las patas y mira a Lahar de frente.
+
+Lahar mira al gato. Se acomoda los lentes. Decide no decir nada sobre el gato.
+
+—Esto no es un juicio, señor Morelli —dice, abriendo otra vez la carpeta—. Usted no está acusado de nada. El Consejo tiene que reconstruir lo que pasó en Oak Town y saber quién participó. Pero tengo que advertirle que lo que diga aquí queda registrado. —Señala con la cabeza al caballero de la pluma—. Y que mentirle a un oficial del Consejo es un delito.
+
+Moja la punta de un lápiz con la lengua. Lee algo en la carpeta. Levanta la vista.
+
+—Empecemos por lo más simple. —Te mira por encima de los lentes—. ¿De dónde es usted, y qué hacía en Magnolia la mañana en que encontraron a los tres magos colgados en el parque?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1021 · FAIRY TAIL · X784 · DÍA 3 ·     ║
+║ 17:14 · Magnolia · sede, cuarto del fondo    ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sobre la mesa, mirando a Lahar         ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: Interrogatorio del Consejo         ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:14, cuarto del fondo de la sede. Lahar interroga a Facundo (queda registrado; mentir es delito): de dónde es y qué hacía en Magnolia la mañana del Día 1. Facundo puede responder.

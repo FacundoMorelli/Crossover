@@ -56,3 +56,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1006 (Fairy Tail) · Huele el guantelete de Erza, le da la espalda y vuelve al hombro.
 - T1008 (Fairy Tail) · Le bufa a Gajeel.
 - T1020 (Fairy Tail) · Come el pescado de Mirajane sin mirarla. Acepta cuatro pescados de Happy y a la cuarta se deja olfatear la oreja.
+- T1021 (Fairy Tail) · Se sienta sobre la mesa del interrogatorio, mirando a Lahar de frente.
