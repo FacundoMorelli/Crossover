@@ -779,3 +779,4 @@ T777 · One Piece · Islote · "Con este son seis." Robin pregunta cuál fue el 
 T778 · One Piece · Islote · Le dice que se va en ~10 días; el primer mundo fue de hechiceros y maldiciones. Le muestra el video de Eren.
 T779 · One Piece · Islote · Robin sigue leyendo el libro apoyada en Facundo. Se detiene en "borró la memoria".
 T780 · One Piece · Islote · Le muestra la foto de Black Clover y su grimorio. Robin quiere tocarlo.
+T781 · One Piece · Islote · "Hay un Rey Mago. Luffy querría serlo." Robin se ríe.
