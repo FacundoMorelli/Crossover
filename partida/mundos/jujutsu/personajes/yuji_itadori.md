@@ -108,3 +108,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T980 · Le cuenta a gritos la promesa a Nanami mientras cocina.
 - T981 · Junpei tendría su edad, podría venir a la escuela. "¿Se van a acordar? De que murieron. ¿De cómo fue?"
 - T982 · No quiere que Junpei recuerde cómo lo deformó Mahito.
+- T983 · Le hace huevos a Megumi y lo mira comer. "Volver y que tu casa no esté es como volver a morir un poco."

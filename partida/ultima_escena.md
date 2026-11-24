@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T980)
-hola nanami
-
-## RESPUESTA 1 (T980)
-
-> hola nanami
-
-> —Hola, Nanami.
-
-—Hola. —Nanami deja la taza sobre la mesa. Te mira de arriba abajo, con esa mirada de oficinista que revisa un informe—. Se lo ve bien. Mejor que yo, en todo caso. Hay café en la jarra. Las tazas limpias están arriba, a la izquierda. Las de abajo no las lavó nadie desde el martes.
-
-Mira a Nobara.
-
-Nobara mira para otro lado.
-
-Yuji ya está abriendo la heladera, sacando huevos, arroz del día anterior, una bolsa de verduras medio mustias. Megumi se sienta en la punta de la mesa, todavía con los ojos rojos, y se queda mirando el mantel. Kase salta de tu hombro a la mesa, camina entre los platos sin tocar ninguno y se sienta al lado del diario de Nanami, mirándolo.
-
-Nanami lo mira a él. Kase le sostiene la mirada.
-
-—Buenos días a usted también —le dice Nanami al gato, muy serio.
-
-Yuji rompe un huevo contra el borde de la sartén. No aguanta más.
-
-—¡Nanami-san! —Se da vuelta, con la espátula en la mano y la cara roja otra vez—. ¡Facundo dijo que en un año va a revivir a todos los que mataron Sukuna y las maldiciones! ¡A todos! ¡A Gojo-sensei, a Junpei, a la hermana de Fushiguro! ¡A todos!
-
-Nanami no se mueve.
-
-Se queda con la mano quieta sobre el diario doblado. No mira a Yuji. Te mira a ti, por encima de los anteojos, durante un momento muy largo. La cara no le cambia. Nunca le cambia.
-
-Pero se saca los anteojos. Los deja sobre la mesa, despacio. Se aprieta el puente de la nariz con dos dedos.
-
-—Todos los que mataron las maldiciones —repite, en voz baja. No es una pregunta. Es alguien que hace una cuenta mental y llega a un número que no esperaba.
-
-Se queda callado.
-
-Después, sin levantar la vista de la mesa, con la voz más baja que le oíste nunca:
-
-—¿Incluso los de hace doce años?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 980 · JUJUTSU · 25/04/2019 · 07:00     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Nanami pregunta por los de hace    ║
-║ doce años.                                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T981)
+## COMANDO 1 (T981)
 asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
 
-## RESPUESTA 2 (T981)
+## RESPUESTA 1 (T981)
 
 > asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
 
@@ -115,10 +59,10 @@ Yuji mira la sartén. El huevo se quemó por abajo. No le importa.
 
 ---
 
-## COMANDO 3 (T982)
+## COMANDO 2 (T982)
 la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
 
-## RESPUESTA 3 (T982)
+## RESPUESTA 2 (T982)
 
 > la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
 
@@ -171,4 +115,52 @@ Te pone el plato con el huevo quemado delante, en la mesa, sin ceremonia.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:08, cocina de los dormitorios. Acordaron que los revividos sabrán que murieron, sin recordar el momento ni el dolor. Nobara cortó la charla y le puso a Facundo un plato con el huevo quemado: "¿Te comes un huevo quemado, o eres demasiado importante para eso?" Facundo puede responder.
+## COMANDO 3 (T983)
+yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
+
+## RESPUESTA 3 (T983)
+
+> yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
+
+> —Yo lo como.
+
+Agarras el tenedor y le das un bocado al huevo quemado. Está amargo por abajo y crudo por arriba.
+
+Nobara te mira masticar con los ojos entrecerrados, esperando una queja. No llega. Resopla, satisfecha, y se da vuelta hacia la sartén para hacer otros.
+
+> —¿Sigue habiendo ciudades destruidas? También puedo reparar eso, para que la gente que reviva tenga un hogar al que volver.
+
+Nanami deja el diario a un lado. Se acomoda los anteojos.
+
+—Shibuya está reconstruida a medias —dice, como quien lee una lista—. La zona de la estación sigue cerrada. Lo que Sukuna arrasó con su dominio, un círculo de casi doscientos metros, quedó como un terreno baldío; el gobierno no sabe qué hacer con eso y nadie quiere vivir ahí. —Hace una pausa—. Shinjuku es peor. La zona de la batalla de diciembre sigue siendo zona de exclusión. Kilómetros. Edificios caídos, calles partidas. Dicen que van a tardar diez años.
+
+—Y las colonias del Juego —agrega Megumi, en voz baja—. Sendai. Sakurajima. Tokio. Partes de esas ciudades quedaron destruidas. Hay gente que todavía vive en refugios.
+
+Yuji pone los huevos nuevos en un plato y se lo deja a Megumi delante. Megumi lo mira un segundo. Después agarra los palillos y empieza a comer. Despacio. Yuji lo mira comer como si estuviera viendo un milagro.
+
+—Si la gente de Shibuya vuelve y su casa no está... —dice Yuji, sin dejar de mirar a Megumi—. Es como volver a morir un poco.
+
+Nanami asiente.
+
+Se queda callado un momento, con la mano sobre el diario. Después te mira, con esa cara de asalariado que calcula presupuestos.
+
+—Revivir a los muertos. La edad que deberían tener. Que sepan que murieron, sin el recuerdo. Reconstruir las ciudades. —Lo enumera con los dedos de la única mano. Se le acaban los dedos—. Morelli-kun. Esa cosa que se recarga una vez por año. —Ladea la cabeza—. ¿Cuántas cosas puede pedirle, exactamente?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 983 · JUJUTSU · 25/04/2019 · 07:12     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Plan para dentro de un año.        ║
+║ Nanami pregunta cuántos deseos.              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:12, cocina. Facundo se comió el huevo quemado y ofreció reconstruir las ciudades. Nanami y Megumi listan lo destruido (Shibuya, Shinjuku, colonias del Juego). Megumi volvió a comer. Nanami pregunta cuántas cosas puede pedir exactamente. Facundo puede responder.

@@ -981,3 +981,4 @@ T979 · Jujutsu · Dormitorios · "Me quedo unos días." Suben a la cocina. Nana
 T980 · Jujutsu · Cocina · "Hola, Nanami." Yuji le cuenta la promesa. Nanami: "¿Incluso los de hace doce años?"
 T981 · Jujutsu · Cocina · "¿Con la edad que deberían tener?" Nanami, Megumi, Yuji, Nobara: sí. Yuji: "¿Se van a acordar de que murieron?"
 T982 · Jujutsu · Cocina · ¿Recordar o no? Acuerdo: sabrán que murieron, sin el momento. Nobara: "¿Te comes un huevo quemado?"
+T983 · Jujutsu · Cocina · Se come el huevo quemado. Ciudades destruidas: Shibuya, Shinjuku, colonias. Megumi come. Nanami: "¿Cuántas cosas puede pedirle?"

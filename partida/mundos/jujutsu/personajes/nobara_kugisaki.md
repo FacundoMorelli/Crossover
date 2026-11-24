@@ -59,3 +59,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T978 · Se sienta pegada a Megumi. "Ayúdanos con el desayuno. Itadori no trajo el pan. ¿Te quedas, o te vas a ir otra vez dentro de cinco minutos?"
 - T981 · "Es raro de cualquier forma. Peor es volver y que todos te hayan dejado atrás."
 - T982 · Gojo querría saber cómo perdió para quejarse, pero no sentirlo. "Basta de muertos en el desayuno." "¿Te comes un huevo quemado, o eres demasiado importante para eso?"
+- T983 · Satisfecha porque Facundo se come el huevo quemado sin quejarse.

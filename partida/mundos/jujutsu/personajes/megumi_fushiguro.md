@@ -55,3 +55,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T979 · Le da un golpecito con el puño en el brazo a Facundo al pasar.
 - T981 · Tsumiki era un año mayor; Gojo murió hace cuatro meses. Asiente: con la edad que deberían tener.
 - T982 · No quiere que Tsumiki recuerde ni a Yorozu ni a Sukuna "con mis manos". Nunca.
+- T983 · Colonias del Juego destruidas (Sendai, Sakurajima, Tokio), gente en refugios. Vuelve a comer.
