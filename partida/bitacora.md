@@ -945,3 +945,4 @@ T943 · Dragon Ball · Nuevo Namek · Teletransporte con Dende. Reencuentro con 
 T944 · Dragon Ball · Nuevo Namek · "Soy amigo de Goku." Reverencia de la aldea. Moori: "Si hay algo que el pueblo namekiano pueda hacer por usted, dígalo."
 T945 · Dragon Ball · Nuevo Namek → Templo · (simulado) Día con los namekianos; vuelta al atardecer. COPIA: poder de Dende (+500 EXP). "¿Viniste a buscar algo para otra persona?"
 T946 · Dragon Ball → Shingeki · Despedida de Dende. Techo del palacio, día 55 00:40. Ymir esperando con las manzanas secas: "¿Conseguiste lo que fuiste a buscar?"
+T947 · Shingeki · Mitras · Convoca reunión: 01:15, sala de mapas, todos. Erwin: "No es para hablar del clima." Levi: "Más le vale."

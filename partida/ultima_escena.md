@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T944)
-asi es, soy amigo de goku y sus compañeros
-
-## RESPUESTA 1 (T944)
-
-> asi es, soy amigo de goku y sus compañeros
-
-> —Así es. Soy amigo de Goku y sus compañeros.
-
-Al oír el nombre, a Moori se le ablanda la cara entera. Las arrugas alrededor de los ojos se le juntan en algo parecido a una sonrisa.
-
-—Son Goku. —Lo dice despacio, con respeto, como quien nombra a alguien que ya no está—. El hombre que venció a Freezer. Sin él, no quedaría ningún namekiano vivo en todo el universo. —Apoya las dos manos en el bastón—. Entonces, para nosotros, usted es un amigo.
-
-Hace una reverencia. Lenta, profunda, de anciano. Alrededor, los namekianos que se habían quedado mirando hacen lo mismo, uno por uno, en silencio. Hasta los chicos que rodean a Dende y a Cargo en el pasto se callan y bajan la cabeza, sin entender muy bien por qué.
-
-Kase los mira a todos desde tu hombro, con la cola quieta, como un rey al que le rinden honores y que lo considera perfectamente normal.
-
-Moori se endereza. Mira hacia la colina, donde Dende ya está sentado en el pasto con Cargo, hablando a la vez que llora, con las manos moviéndose para todos lados, contándole algo que hace que Cargo abra la boca, asombrado.
-
-—Hace mucho que no lo veía sonreír así —dice Moori, bajito—. Desde que se quedó en la Tierra a cuidar un planeta ajeno. Es muy joven para cargar con eso solo.
-
-Se vuelve hacia ti.
-
-—No tenemos mucho para ofrecer. Agua del lago, sombra y un techo. Los namekianos no comemos. —Mira al gato—. Pero algo encontraremos para él.
-
-Te señala con el bastón la cúpula grande de la colina.
-
-—Quédese el tiempo que Dende necesite. Y si hay algo que el pueblo namekiano pueda hacer por el amigo de Son Goku... —Lo mira a los ojos, tranquilo, como si ya supiera que algo hay—, solo tiene que decirlo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 944 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
-║ Nuevo Namek · la aldea de Moori              ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 0 zeni                  ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Dende con los suyos. Traerlo de    ║
-║ vuelta hoy. Shingeki en un día.              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T945)
+## COMANDO 1 (T945)
 simula el resto del dia hasta que volvemos a la tierra completando la mision
 
-## RESPUESTA 2 (T945)
+## RESPUESTA 1 (T945)
 
 > simula el resto del dia hasta que volvemos a la tierra completando la mision
 
@@ -124,10 +78,10 @@ Se endereza. Te mira con curiosidad, con la cabeza ladeada, igual que a la maña
 
 ---
 
-## COMANDO 3 (T946)
+## COMANDO 2 (T946)
 algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
 
-## RESPUESTA 3 (T946)
+## RESPUESTA 2 (T946)
 
 > algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
 
@@ -180,4 +134,57 @@ Kase te salta del hombro, cruza las tejas mojadas sacudiendo las patas con asco 
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, día 55 00:40, techo del palacio de Mitras. Facundo volvió de Dragon Ball (copia de Dende hecha). Ymir lo esperaba envuelta en una manta, con el frasco de manzanas secas casi vacío; Kase bajo su manta. Ymir pregunta si consiguió lo que fue a buscar. Facundo puede responder.
+## COMANDO 3 (T947)
+si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
+
+## RESPUESTA 3 (T947)
+
+> si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
+
+> —Sí. Necesito una reunión con todos. Erwin, Eren, Levi, Mikasa... todos los que estén.
+
+Ymir deja de masticar.
+
+—¿Ahora? —Mira el reloj de la torre—. Son las doce y cuarenta, lindo.
+
+Te mira la cara. Lo que ve ahí la hace suspirar por la nariz. Tapa el frasco, se lo mete debajo del brazo y se levanta con la manta sobre los hombros, con Kase colgando adentro como un bulto ofendido.
+
+—Bueno. Ahora.
+
+Media hora después, la sala de mapas está llena.
+
+Erwin es el primero en llegar. No estaba dormido: entra vestido, con el uniforme abotonado hasta el cuello y una taza de té en la mano, como si fuera media tarde. Detrás de él, Levi, en camisa, con la cara de alguien que estaba durmiendo y no se lo va a perdonar a nadie. Hange llega corriendo por el pasillo, con los anteojos puestos al revés y un cuaderno abierto, porque Moblit le dijo que el emisario había vuelto. Armin, despeinado, frotándose los ojos. Mikasa, con la bufanda roja, completamente despierta, empujando a Eren, que viene medio dormido, descalzo, con el pelo suelto sobre la cara.
+
+Después Historia, con un chal sobre el camisón, la corona olvidada en algún lado y la cara de reina igual. Y al final, Jean, Connie y Sasha, que dormían en el cuartel de la Legión de la capital y llegaron porque alguien golpeó la puerta gritando que era una reunión de emergencia. Sasha trae un pan en la mano. Nadie sabe de dónde lo sacó.
+
+Ymir se sienta en el borde de la mesa larga, sobre los planos de Wall Rose, con la manta todavía en los hombros y el frasco de manzanas en el regazo. Kase sale de la manta, se estira y se te sube al hombro.
+
+Nadie se sienta.
+
+Todos te miran. Las velas de la sala tiemblan con la corriente de la puerta. Afuera, el reloj de la torre da la una y cuarto.
+
+Erwin deja la taza sobre la mesa, despacio.
+
+—Está todo el que estaba en Mitras —dice, tranquilo—. Zeke duerme en su celda, con guardia. Pixis y Zackly, en sus casas; puedo mandarlos a buscar si hace falta. —Junta las manos detrás de la espalda—. Usted nos convocó a la una de la mañana, la noche después de volver. Supongo que no es para hablar del clima.
+
+Levi se apoya en la pared, con los brazos cruzados.
+
+—Más le vale.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 947 · SHINGEKI · DÍA 55 · 01:15        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La reunión. Todos esperan.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 01:15, sala de mapas del palacio. Reunión convocada por Facundo: Erwin, Levi, Hange, Armin, Mikasa, Eren, Historia, Jean, Connie, Sasha, Ymir. Todos esperan que hable. Facundo puede hablar.

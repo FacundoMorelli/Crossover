@@ -22,3 +22,4 @@ ESTADO: activo
 - T931 · Día 50. Abre una grieta en Wall Rose y muestra un colosal a los embajadores: "Son miles."
 - T937 · Silba fuerte al ver a Facundo besar a Ymir.
 - T938 · Días 51-52 midiendo el corte de Wall Rose con Moblit.
+- T947 · Llega corriendo con los anteojos al revés.
