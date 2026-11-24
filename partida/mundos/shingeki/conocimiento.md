@@ -150,3 +150,4 @@
 - Willy · T848 · Por Facundo: la barrera puede cubrir toda la plaza.
 - Muller y sus hombres · T849 · Vieron a Morelli en las ventanas del ala de huéspedes de la mansión Tybur tres noches (coartada confirmada).
 - Lara Tybur · T849 · Recibe a la comitiva de Paradis en el sótano de la mansión: ve a la reina, a Zeke encadenado, a la Legión.
+- Todos los presentes en la plaza (embajadores, periodistas, alto mando, cadetes, eldianos, Muller) · T850 · Por Willy: Helos es mentira; el rey Fritz se encerró por la paz; un emisario de Paradis pidió la paz y devolvió a Zeke vivo; la isla puede destruir los titanes de las murallas; la reina de Paradis está aquí.

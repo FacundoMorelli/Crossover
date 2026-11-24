@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T847)
-hay seis cañones, dos apuntan a los cadetes
-
-## RESPUESTA 1 (T847)
-
-> hay seis cañones, dos apuntan a los cadetes
-
-> —Hay seis cañones. Dos apuntan a los cadetes.
-
-Willy no se mueve. Sigue mirando la plaza vacía, con la sonrisa social puesta. Pero la cara se le pone blanca de a poco, desde la frente hacia abajo, como si alguien le hubiera abierto una canilla.
-
-Apoya la mano en la baranda de madera del escenario. Los nudillos se le ponen blancos.
-
-—A los cadetes. —Lo repite muy bajo—. ¿Está seguro?
-
-No espera que le contestes. Ya lo sabe.
-
-Se queda callado un momento largo. Los obreros siguen martillando. El organizador gordo grita algo sobre los músicos.
-
-—Los generales no matarían a sus propios cadetes. —Habla despacio, pensando en voz alta—. Son los futuros guerreros. Les costaron años. A menos que...
-
-Se le corta la voz.
-
-—A menos que necesiten un culpable. —Cierra los ojos—. Si algo sale mal esa noche, si la reina de la isla aparece en el escenario, si yo digo algo que no estaba en el guion... disparan a la primera fila. Y después le dicen al mundo, delante de veinte embajadores, que fueron los demonios de Paradis. Que mataron a niños delante de todos.
-
-Abre los ojos. Tiene la mandíbula apretada y algo nuevo en la mirada, algo que no le habías visto: rabia.
-
-—Niños eldianos con brazalete. —La voz le sale ronca—. Para ellos, son munición.
-
-Se da vuelta hacia ti, de espaldas a la plaza, para que nadie le vea la cara.
-
-—Su barrera. —Te agarra la manga del traje—. ¿Puede cubrir también la primera fila? ¿Y los palcos de los embajadores?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 847 · SHINGEKI · DÍA 36 · 20:27        ║
-║ Liberio · escenario de la plaza              ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: caminando por el borde del escenario   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
-║ Plaza: 6 cañones; 2 apuntan a la 1.ª fila.   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T848)
+## COMANDO 1 (T848)
 si, puedo cubrir toda la plaza si quiero
 
-## RESPUESTA 2 (T848)
+## RESPUESTA 1 (T848)
 
 > si, puedo cubrir toda la plaza si quiero
 
@@ -103,10 +53,10 @@ Después se da vuelta hacia ti. Ya no sonríe. Está serio, y por primera vez pa
 
 ---
 
-## COMANDO 3 (T849)
+## COMANDO 2 (T849)
 que disparen, me parece bien tu idea willy. simula hasta la fiesta
 
-## RESPUESTA 3 (T849)
+## RESPUESTA 2 (T849)
 
 > que disparen, me parece bien tu idea willy. simula hasta la fiesta
 
@@ -169,4 +119,66 @@ Respira hondo.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, DÍA 40, 19:00, LA FIESTA TYBUR en Liberio. Barrera invisible de Sakaime sobre toda la plaza (desde las 4). Detrás del telón: Facundo, Historia (vestido azul, discurso en la mano), Ymir. En el sótano del edificio de ladrillo: Erwin, Levi encadenado a Zeke, Hange, Mikasa, Eren, Armin. Plaza llena: embajadores, periodistas, Calvi y Magath en el palco del alto mando, cadetes en primera fila (Gabi ~9-10, Falco, otros), miles de eldianos, Muller recorriendo. Seis cañones (cuatro al atril, dos a la primera fila; orden secreta de Calvi). Willy en el atril, respira hondo antes de hablar.
+## COMANDO 3 (T850)
+miro a willy y espero
+
+## RESPUESTA 3 (T850)
+
+> miro a willy y espero
+
+Te quedas detrás del telón, con un ojo en la rendija. Kase, en tu hombro, tiene las orejas hacia adelante.
+
+Willy empieza tal como lo ensayó delante de los generales.
+
+—Hace cien años... —Su voz llena la plaza sin gritar, grave, entrenada—. El mundo entero sufrió bajo el pie de los titanes del Imperio de Eldia. Durante mil setecientos años, Eldia hizo de la tierra un infierno. Y en la hora más oscura, un héroe se levantó: Helos, el salvador de Marley. Y con él, la familia Tybur.
+
+Los embajadores asienten. En el palco del alto mando, el general Calvi se acomoda en la silla, satisfecho. Las cámaras de fuelle hacen ruido.
+
+Willy sigue. Cuenta la Gran Guerra de los Titanes, la derrota del rey Fritz y su huida a la isla con los últimos eldianos, las murallas, la amenaza. Cada palabra es exactamente la que los generales aplaudieron tres veces.
+
+Al quinto minuto, se detiene.
+
+Mira el papel que tiene sobre el atril. Lo dobla en dos y lo aparta.
+
+—Todo lo que les acabo de decir es mentira.
+
+La plaza se queda helada.
+
+—Helos nunca existió. —La voz de Willy no tiembla—. Fue un invento de mi familia. Hace cien años, el rey Fritz no huyó derrotado. Se encerró en esa isla con su pueblo porque no quería hacer más la guerra. Le dejó el mundo a Marley y juró que nunca volvería. Y mi familia escribió la historia que necesitaba el mundo para odiar a los que quedaron.
+
+El murmullo empieza en los palcos y corre como fuego por las gradas. Los periodistas se ponen de pie con los blocs en la mano. En la primera fila, la nena de pelo oscuro mira el escenario con la boca abierta.
+
+—Hace semanas —sigue Willy, más fuerte—, un hombre de esa isla entró a Marley. No con un ejército. Solo. A pedir la paz. Y nos devolvió vivo a Zeke Jaeger, el jefe de los guerreros que creíamos perdido. Paradis puede destruir a los titanes de sus murallas, los que todos temen. Y ya lo demostró.
+
+En el palco del alto mando, el general Calvi se pone de pie. Tiene la cara del color de la ceniza. A su lado, Magath no se mueve. Ni siquiera parpadea.
+
+—Y para que no sean solo mis palabras... —Willy abre los brazos hacia los palcos, hacia el mundo—. Les presento a quien cruzó el mar para firmar esa paz.
+
+Se da vuelta hacia el telón. Hacia ti.
+
+—La reina de Paradis. Historia Reiss.
+
+A tu lado, Historia deja de temblar. Ymir le suelta la mano.
+
+Y por la rendija ves cómo, en el palco del alto mando, el general Calvi saca del cinturón una pistola corta, de caño ancho, y la levanta hacia el cielo.
+
+Una pistola de bengalas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 850 · SHINGEKI · DÍA 40 · 19:11        ║
+║ Liberio · detrás del telón del escenario     ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: LA FIESTA. Historia firma la paz.  ║
+║ Barrera sobre la plaza. Que disparen primero.║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:11, detrás del telón. Willy dio vuelta el discurso (Helos mentira, el rey Fritz por la paz, emisario de Paradis, Zeke vivo) y presentó a "la reina de Paradis, Historia Reiss". Historia, a punto de salir, dejó de temblar. Calvi, en el palco del alto mando, levanta una pistola de bengalas (la señal de los cañones). Barrera invisible sobre toda la plaza.
