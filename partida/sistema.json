@@ -1,8 +1,8 @@
 {
-  "turno": 860,
+  "turno": 861,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 44 tras Shiganshina (Mitras)",
-  "hora": "02:46",
+  "hora": "02:48",
   "edad": 18,
   "nivel": 27,
   "exp": 219040,
@@ -1550,7 +1550,8 @@
         "dias_transcurridos_al_salir": "1 día y 8 horas",
         "corre_desde": "T489 al ritmo de Facundo",
         "nota": "Prometió volver en unos días."
-      }
+      },
+      "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49."
     },
     "puerta_abierta": true,
     "historial_misiones": {

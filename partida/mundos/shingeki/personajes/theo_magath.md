@@ -26,3 +26,4 @@ ESTADO: activo
 - T852 · Arresta a Calvi en el palco ante el mundo.
 - T853 · Baja del palco y firma el tratado como representante militar de Marley.
 - T860 · Día 44 · En su casa, con una pistola en la escalera, rodeado por el golpe de Calvi. Facundo duerme a todos con Haki del Rey. "Ah. Usted."
+- T861 · Plan: arrestar a Calvi y a los golpistas con sus oficiales leales; al amanecer, al Primer Ministro con los nombres de los dos ministros; Willy habla a las 9. Pide que Facundo se vaya antes de que lleguen sus hombres.

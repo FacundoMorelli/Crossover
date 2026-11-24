@@ -859,3 +859,4 @@ T857 · Shingeki · Liberio · Kiyomi propone la alianza con Hizuru; sospecha qu
 T858 · Shingeki · Simula días 40-44: Kiyomi y Mikasa; "El Emisario del Gato"; demostración el día 50. 02:40 del día 44: el botón de Willy.
 T859 · Shingeki · Liberio · Golpe de los leales a Calvi: rodean la mansión Tybur. Facundo llega al estudio.
 T860 · Shingeki · Liberio · Haki del Rey: detiene el golpe sin heridos en la mansión Tybur y en la casa de Magath. Calvi dormido. +300 EXP, +66 F.
+T861 · Shingeki · Liberio · Magath: arrestos, Primer Ministro, Willy a la radio. "Usted se va antes de que lleguen mis hombres."

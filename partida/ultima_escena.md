@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T858)
-asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
-
-## RESPUESTA 1 (T858)
-
-> asi es, bueno todo lo que me pidio no depende de mi, depende de mi reina, asi que cuando quiera puede hablar con ella. simula unos dias
-
-> —Así es. Bueno, todo lo que me pidió no depende de mí, depende de mi reina. Así que, cuando quiera, puede hablar con ella.
-
-Kiyomi inclina la cabeza, satisfecha, como quien confirma lo que ya sabía.
-
-—Lo haré. —Abre el abanico—. Y gracias por no mentirme, señor emisario. Es raro en esta profesión.
-
-Esa misma noche, a las once, cuando la plaza ya se vació y quedan solo los papeles en el piso y el olor a pólvora, la llevas al sótano del edificio de ladrillo. Mikasa está sentada contra la pared, con la bufanda roja y la mano en la empuñadura de la espada. Se para cuando ve entrar a la desconocida del kimono.
-
-Kiyomi no dice nada al principio. Se queda mirándole la cara, el pelo negro, los ojos. Después le habla bajo, en marleyano, con mucho cuidado. Le pregunta por su madre.
-
-Mikasa te mira a ti antes de contestar. Asientes. Mikasa contesta poco, seca, desconfiada. Pero al final, cuando Kiyomi le muestra en el dorso de su propio abanico un dibujo pequeño, pintado en oro, Mikasa se queda quieta. Despacio, se desenrolla la venda de la muñeca derecha.
-
-El dibujo es el mismo.
-
-Kiyomi llora en silencio, de pie, con la espalda recta. Mikasa no sabe qué hacer con eso. Eren, en un rincón, mira la escena con los ojos muy abiertos.
-
-Después, Kiyomi habla una hora con Historia en el mismo sótano, sobre una caja de madera usada como mesa. Cuando terminan, hay un acuerdo de principio: Hizuru será el primer aliado de Paradis.
-
-A medianoche, uno por uno, devuelves a la comitiva a Mitras.
-
-El día cuarenta y uno, Willy manda a Mitras, por tu intermedio, un fajo de diarios del continente. Todos tienen la misma foto en primera plana: tú en el escenario, con el sombrero, la cicatriz y el gato en el hombro, al lado de Historia y la mesa del tratado. Y en letras enormes, el mismo titular en cinco idiomas:
-
-«EL EMISARIO DEL GATO».
-
-Hange recorta todas las fotos. Ymir pega una en la pared de su cuarto, al lado de la cama, y te prohíbe comentarlo.
-
-Las otras noticias llegan en los días siguientes. Calvi va a corte marcial. El coronel Muller pidió una licencia «por motivos de salud». La Alianza del Medio Oriente rechaza el tratado y dice que es un engaño de los demonios. Otros nueve países piden visitar la isla.
-
-Mitras está en fiesta. Hay gente en las calles cantando y banderas de la Corona en las ventanas. Historia no duerme de tanto firmar cartas. Ymir te arrastra a los mercados, a los techos y a la cocina del palacio a robar manzanas.
-
-El día cuarenta y dos, Eren te busca en el patio del cuartel y te dice una sola cosa, en voz baja, con algo parecido a una sonrisa:
-
-—Ya no sueño con fuego. Sueño en blanco. Como si no hubiera nada escrito todavía.
-
-Erwin, Zackly y los delegados extranjeros fijan la fecha de la demostración: el día cincuenta, en Wall Rose, ante testigos de cada nación que quiera mandarlos.
-
-La noche del día cuarenta y tres al cuarenta y cuatro duermes en el cuarto de huéspedes del ala este. Kase está acurrucado a los pies de la cama.
-
-A las dos y cuarenta de la madrugada te despiertas de golpe.
-
-Es una sensación que no se parece a nada: un tirón seco en el pecho, como un hilo que alguien jala desde el otro lado del mundo. Sabes exactamente de dónde viene, del botón plateado chico con el eclipse grabado, el que le diste a Willy Tybur.
-
-Alguien lo acaba de apretar.
-
-Kase ya está despierto, de pie sobre la cama, con el lomo arqueado y los ojos fijos en la ventana, hacia el mar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 858 · SHINGEKI · DÍA 44 · 02:40        ║
-║ Mitras · cuarto de huéspedes, ala este       ║
-║ NIVEL 27 · EXP 218.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: de pie en la cama, erizado             ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Willy apretó el botón de aviso.    ║
-║ Demostración: día 50, Wall Rose.             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T859)
+## COMANDO 1 (T859)
 voy con willy
 
-## RESPUESTA 2 (T859)
+## RESPUESTA 1 (T859)
 
 > voy con willy
 
@@ -129,10 +59,10 @@ El nene del sofá se despierta y empieza a llorar.
 
 ---
 
-## COMANDO 3 (T860)
+## COMANDO 2 (T860)
 me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
 
-## RESPUESTA 3 (T860)
+## RESPUESTA 2 (T860)
 
 > me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
 
@@ -203,4 +133,56 @@ Baja la pistola despacio.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 44 02:46, vestíbulo de la casa de Magath (Liberio). Facundo detuvo el golpe sin heridos con Haki del Rey: ~40 soldados y el mayor desmayados en la mansión Tybur; ~25 soldados y el general Calvi desmayados en la casa de Magath. Magath, en camisa con pistola en la escalera: "Ah. Usted." Kase quedó en la mansión Tybur con el sobrino de Willy (6 años). Facundo en ropa de dormir.
+## COMANDO 3 (T861)
+bueno, ahora que tienen que hacer?(que dia de shingeki seria marineford?)
+
+## RESPUESTA 3 (T861)
+
+> bueno, ahora que tienen que hacer?
+
+> —Bueno, ¿ahora qué tienen que hacer?
+
+Magath baja los tres escalones. Pasa por encima de un soldado dormido con cuidado, sin pisarle la mano, y se detiene junto a Calvi. Lo mira un rato largo, tendido en la alfombra con la boca abierta y las medallas torcidas.
+
+Guarda la pistola en la funda del tirante.
+
+—Ahora hacemos las cosas bien. —Se acomoda la camisa—. Tengo un regimiento en la guarnición del puerto que responde a mí. En veinte minutos están aquí y en la casa de Tybur. Arrestamos a Calvi, al mayor y a estos sesenta y tantos antes de que se despierten. Con esposas y con papeles. Todo por el reglamento.
+
+Se agacha, le saca a Calvi la pistola del cinturón y la deja sobre una mesita del vestíbulo.
+
+—Al amanecer voy a ver al Primer Ministro. Con los nombres de los dos ministros que firmaron la orden de esta noche. —Se le endurece la cara—. Ahora que lo intentaron y fallaron, ya no van a poder esconderse detrás de la palabra «traición».
+
+Se endereza.
+
+—Y a las nueve, Tybur habla por la radio y en los diarios. El golpe fracasó. Sin un solo herido. Los traidores, detenidos. —Hace una pausa—. Lo que no va a decir es cómo.
+
+Te mira de arriba abajo: la ropa de dormir, los pies descalzos sobre su piso de madera.
+
+—Y usted se va antes de que lleguen mis hombres. —Lo dice seco, sin vueltas—. Si mañana los diarios dicen que el emisario del gato tumbó a medio ejército de Marley en ropa de dormir, la mitad del Parlamento va a gritar que Paradis nos invadió. Y la otra mitad va a tener miedo. Usted ya hizo bastante esta noche.
+
+Mira otra vez a los soldados tendidos por todo el vestíbulo. Uno ronca.
+
+Frunce el ceño, por primera vez inseguro.
+
+—Una pregunta, nada más. —Señala a Calvi con el mentón—. ¿Se van a despertar bien? ¿Todos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 861 · SHINGEKI · DÍA 44 · 02:48        ║
+║ Liberio · casa de Magath, vestíbulo          ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: con el sobrino de Willy (mansión)      ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Golpe detenido sin heridos.        ║
+║ Irse antes de que lleguen los de Magath.     ║
+╚══════════════════════════════════════════════╝
+```
+
+Sobre tu pregunta: según el canon, Marineford cae cerca de los Días 57-58 de One Piece, que son los días 48-49 de Shingeki, dentro de cuatro o cinco días. Ahora mismo en One Piece es el Día 53 por la mañana.
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 44 02:48, vestíbulo de Magath. Plan de Magath: su regimiento del puerto arresta a Calvi y a los golpistas en 20 minutos; al amanecer, al Primer Ministro con los nombres de los dos ministros; Willy habla a las 9. Pide que Facundo se vaya antes de que lleguen sus hombres. Pregunta si los soldados van a despertar bien. Kase en la mansión Tybur. MARINEFORD ≈ días 48-49 de Shingeki (OP Día 53 hoy).
