@@ -978,3 +978,4 @@ T976 · Jujutsu · Portón · "En un año voy a revivir a los que murieron por S
 T977 · Jujutsu · Portón · "Se recarga una vez por año. Crean en mí." Yuji: "Te creo." Nobara: "Lo anoto." Megumi arriba: "¿Tsumiki también?"
 T978 · Jujutsu · Portón · "Todos. Ella también." Megumi llora: "Gracias." Le ruge el estómago. Nobara: "¿Te quedas?"
 T979 · Jujutsu · Dormitorios · "Me quedo unos días." Suben a la cocina. Nanami: "Volvió un jueves, sin avisar. No sé por qué no me sorprende."
+T980 · Jujutsu · Cocina · "Hola, Nanami." Yuji le cuenta la promesa. Nanami: "¿Incluso los de hace doce años?"

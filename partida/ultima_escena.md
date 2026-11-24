@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T977)
-por que no puedo, la cosa que voy a usar para hacerlo se recarga cada un año, me encantaria poder hacerlo ahora, pero crean en mi, en 1 año, todos van a estar de vuelta
-
-## RESPUESTA 1 (T977)
-
-> por que no puedo, la cosa que voy a usar para hacerlo se recarga cada un año, me encantaria poder hacerlo ahora, pero crean en mi, en 1 año, todos van a estar de vuelta
-
-> —Porque no puedo. Lo que voy a usar para hacerlo se recarga una vez por año. Me encantaría poder hacerlo ahora. Pero crean en mí: en un año, todos van a estar de vuelta.
-
-Yuji se te queda mirando.
-
-Después se tapa la cara con el antebrazo, rápido, como un chico que no quiere que lo vean. Le tiemblan los hombros. No hace ruido.
-
-—Te creo —dice, por debajo del brazo, con la voz hecha pedazos—. Te creo. Te tragaste el dedo de Sukuna como si fuera un caramelo. Te creo.
-
-Se baja el brazo. Tiene la cara roja y mojada, y se está riendo.
-
-Nobara no llora. Te mira con los ojos entrecerrados, los brazos cruzados, la mandíbula apretada, durante un largo rato, como si te estuviera pesando en una balanza.
-
-—Un año —dice al fin—. Lo anoto. —Se le quiebra apenas la voz en la última palabra—. Y si dentro de un año no aparece Gojo-sensei quejándose de que el dulce de la escuela es malo, te voy a clavar un clavo en el pie. Uno grande.
-
-Se le escapa una lágrima. Se la seca con el puño de la campera, enojada consigo misma.
-
-Kase le pasa la cola por la cara desde tu hombro. Nobara lo aparta, pero no muy fuerte.
-
-—Hay que decírselo a Fushiguro —dice Yuji, de golpe, sorbiéndose la nariz. Se da vuelta hacia la escalinata—. ¡Hay que decírselo ya! Está...
-
-Se detiene.
-
-Arriba de todo, junto a los pedazos de la taza de Nobara, en el borde del portón, hay alguien parado.
-
-Pelo negro de punta, despeinado de dormir. Una remera vieja, gris, que le queda grande. Más flaco de lo que debería. Ojeras hondas, oscuras, de muchas noches sin dormir. Las manos colgando a los costados del cuerpo.
-
-Megumi.
-
-No se sabe cuánto lleva ahí. No se mueve. Te mira desde arriba de la escalinata, con la cara completamente quieta, como de piedra.
-
-Pero tiene los ojos abiertos de par en par.
-
-—¿Tsumiki también? —dice. Tan bajo que casi no se oye—. ¿También ella?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 977 · JUJUTSU · 25/04/2019 · 06:46     ║
-║ Escuela de Hechicería de Tokio · el portón   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Megumi pregunta por Tsumiki.       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T978)
+## COMANDO 1 (T978)
 todos fushiguro, ella tambien
 
-## RESPUESTA 2 (T978)
+## RESPUESTA 1 (T978)
 
 > todos fushiguro, ella tambien
 
@@ -118,10 +61,10 @@ Se cruza de brazos.
 
 ---
 
-## COMANDO 3 (T979)
+## COMANDO 2 (T979)
 esta bien, me quedo unos dias si quieren
 
-## RESPUESTA 3 (T979)
+## RESPUESTA 2 (T979)
 
 > esta bien, me quedo unos dias si quieren
 
@@ -172,4 +115,60 @@ Toma un sorbo de café.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 06:58, cocina de los dormitorios. Facundo se queda unos días. Subieron con Yuji, Nobara y Megumi. Nanami, en la mesa con café y diario, lo recibe: "Volvió un jueves, sin avisar. No sé por qué no me sorprende." Facundo puede actuar.
+## COMANDO 3 (T980)
+hola nanami
+
+## RESPUESTA 3 (T980)
+
+> hola nanami
+
+> —Hola, Nanami.
+
+—Hola. —Nanami deja la taza sobre la mesa. Te mira de arriba abajo, con esa mirada de oficinista que revisa un informe—. Se lo ve bien. Mejor que yo, en todo caso. Hay café en la jarra. Las tazas limpias están arriba, a la izquierda. Las de abajo no las lavó nadie desde el martes.
+
+Mira a Nobara.
+
+Nobara mira para otro lado.
+
+Yuji ya está abriendo la heladera, sacando huevos, arroz del día anterior, una bolsa de verduras medio mustias. Megumi se sienta en la punta de la mesa, todavía con los ojos rojos, y se queda mirando el mantel. Kase salta de tu hombro a la mesa, camina entre los platos sin tocar ninguno y se sienta al lado del diario de Nanami, mirándolo.
+
+Nanami lo mira a él. Kase le sostiene la mirada.
+
+—Buenos días a usted también —le dice Nanami al gato, muy serio.
+
+Yuji rompe un huevo contra el borde de la sartén. No aguanta más.
+
+—¡Nanami-san! —Se da vuelta, con la espátula en la mano y la cara roja otra vez—. ¡Facundo dijo que en un año va a revivir a todos los que mataron Sukuna y las maldiciones! ¡A todos! ¡A Gojo-sensei, a Junpei, a la hermana de Fushiguro! ¡A todos!
+
+Nanami no se mueve.
+
+Se queda con la mano quieta sobre el diario doblado. No mira a Yuji. Te mira a ti, por encima de los anteojos, durante un momento muy largo. La cara no le cambia. Nunca le cambia.
+
+Pero se saca los anteojos. Los deja sobre la mesa, despacio. Se aprieta el puente de la nariz con dos dedos.
+
+—Todos los que mataron las maldiciones —repite, en voz baja. No es una pregunta. Es alguien que hace una cuenta mental y llega a un número que no esperaba.
+
+Se queda callado.
+
+Después, sin levantar la vista de la mesa, con la voz más baja que le oíste nunca:
+
+—¿Incluso los de hace doce años?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 980 · JUJUTSU · 25/04/2019 · 07:00     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Nanami pregunta por los de hace    ║
+║ doce años.                                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:00, cocina de los dormitorios. Yuji le contó a Nanami la promesa de Facundo. Nanami, sin anteojos, pregunta en voz muy baja si incluye a los de hace doce años (Haibara, muerto por una maldición en 2007). Facundo puede responder.

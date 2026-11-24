@@ -105,3 +105,4 @@ ESTADO: en la losa con Megumi, en shock pero enfocado en cuidarlo.
 - T977 · "Te creo. Te tragaste el dedo de Sukuna como si fuera un caramelo." "¡Hay que decírselo a Fushiguro!"
 - T978 · Abraza a Megumi en la escalinata. "¡Fushiguro tiene hambre! ¡Por fin!"
 - T979 · Cuenta: misión en Yokohama; ahora segundo año; alumnos nuevos de primero; Maki rompió una puerta del gimnasio.
+- T980 · Le cuenta a gritos la promesa a Nanami mientras cocina.
