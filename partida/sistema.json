@@ -1,8 +1,8 @@
 {
-  "turno": 876,
+  "turno": 877,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 56 (Grand Line, Archipiélago Sabaody)",
-  "hora": "16:52",
+  "fecha_local": "Día 57 (Grand Line, Archipiélago Sabaody)",
+  "hora": "09:00",
   "edad": 18,
   "nivel": 27,
   "exp": 219840,
@@ -26,7 +26,7 @@
     },
     "onepiece": {
       "moneda": "berries",
-      "cantidad": 6000000,
+      "cantidad": 5950000,
       "cambio": "1 Fragmento = 12.000 berries"
     },
     "shingeki": {
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 94,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

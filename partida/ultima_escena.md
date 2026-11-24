@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T874)
-tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki(color azul fuerte y blanco)
-
-## RESPUESTA 1 (T874)
-
-> tu haki, es increible si fuera otra persona no podria hacer nada, recubro mi brazo con haki (color azul fuerte y blanco)
-
-> —Tu Haki es increíble. Si fuera otra persona, no podría hacer nada.
-
-Levantas el brazo derecho.
-
-El Haki te sube desde la punta de los dedos hasta el hombro, como agua que trepa por un vidrio. No es negro. Es azul, de un azul intenso y profundo, como el mar a mediodía muy lejos de la costa, con vetas blancas que lo recorren por dentro como relámpagos congelados. Brilla apenas. La piel debajo deja de ser piel y se vuelve algo liso, duro, pulido como una gema.
-
-Rayleigh deja de limpiarse los lentes.
-
-Se los pone. Se acerca despacio, cruzando el claro, por encima de su propio surco en la tierra, hasta quedar a un paso de ti. Mira el brazo. Lo mira de cerca, inclinado, con las manos detrás de la espalda, como quien mira un cuadro en un museo.
-
-—Azul. —Lo dice muy bajo—. Y blanco.
-
-Estira un dedo y toca el antebrazo. Suena como la uña contra un vidrio grueso.
-
-—Setenta y seis años. —Retira la mano—. Conocí a Roger, a Barbablanca, a Shiki, a Garp. A los más fuertes que pisaron este mar. Y todos, todos, tenían el Haki negro.
-
-Te mira a la cara.
-
-—El Haki es el color de la voluntad, muchacho. —Se acomoda los lentes—. Y la tuya no se parece a la de nadie de este mar.
-
-Desde la raíz alta, Shakky baja con calma, con Kase en brazos, que salta a tu hombro apenas llega. Detrás del árbol, Hachi se despierta, se sienta y ve el brazo azul.
-
-—¿Nyu...? ¿Me morí?
-
-Nadie le contesta.
-
-Rayleigh no aparta la vista de ti. Sigue serio, esperando. Todavía no le contestaste.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 874 · ONE PIECE · DÍA 56 · 16:49       ║
-║ Sabaody · Grove 1, claro abandonado          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Marineford mañana (15:00).         ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T875)
+## COMANDO 1 (T875)
 te dije que viajo mucho no?
 
-## RESPUESTA 2 (T875)
+## RESPUESTA 1 (T875)
 
 > te dije que viajo mucho no?
 
@@ -105,10 +53,10 @@ Sigue caminando.
 
 ---
 
-## COMANDO 3 (T876)
+## COMANDO 2 (T876)
 ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
 
-## RESPUESTA 3 (T876)
+## RESPUESTA 2 (T876)
 
 > ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
 
@@ -153,4 +101,60 @@ Sigue caminando entre las raíces, con Shakky al lado, fumando. Hachi corre detr
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:52, Grove 1. Facundo le dijo a Rayleigh que va a salvar a Ace al lado de Luffy. Rayleigh: "Esa es la respuesta correcta." Advertencia: los tres almirantes; vigilar a Akainu (magma), que odia a los de la D. "Si tu capitán sigue vivo, tráelo aquí." Van al bar a cenar (takoyaki de Hachi). Marineford mañana a las 15:00.
+## COMANDO 3 (T877)
+voy a descansar hasta mañana
+
+## RESPUESTA 3 (T877)
+
+> voy a descansar hasta mañana
+
+La cena en el bar de Shakky es larga y ruidosa.
+
+Hachi monta una plancha de hierro con agujeros redondos en la barra y hace takoyaki con los seis brazos a la vez, dando vuelta las bolitas con palillos tan rápido que parecen bailar. Se le queman las primeras. Las segundas le salen perfectas. Kase se come cuatro del plato de Hachi sin pedir permiso y Hachi lo deja, llorando de emoción porque al gato le gustan.
+
+Rayleigh bebe y cuenta historias del mar. Islas que flotan, serpientes del tamaño de montañas, una tormenta que duró un mes, un banquete con gigantes. Nunca dice el nombre de su capitán. No hace falta.
+
+Shakky escucha detrás de la barra, fumando, y al final de la noche te pasa la cuenta en un papelito doblado: cincuenta mil berries «por la entrada, el bar y medio grove». Pagas. Rayleigh se ríe tanto que se le caen los lentes.
+
+Te dan un cuarto chico arriba, con una ventana que da a las burbujas del archipiélago, que suben de noche iluminadas por los faroles. Kase se acuesta sobre tu pecho, pesado, con la panza llena de takoyaki, y ronca.
+
+Duermes.
+
+El Día 57 amanece despejado.
+
+A las nueve, Shakky te sirve café en la barra. Rayleigh ya está sentado en su taburete con el diario abierto. Hachi duerme sobre una mesa, abrazado a la plancha de takoyaki.
+
+Rayleigh dobla el diario y te lo pasa por la barra sin decir nada.
+
+«FUGA MASIVA EN IMPEL DOWN. Monkey D. Luffy, Crocodile, Jinbe, Emporio Ivankov y cientos de presos escapan de la prisión submarina en un buque de la Marina. Se desconoce su rumbo.»
+
+Debajo, más chico: «La ejecución de Portgas D. Ace se realizará hoy a las 15:00 en el Cuartel General de la Marina, Marineford, como estaba previsto».
+
+—Tu capitán salió. —Rayleigh toma un sorbo de café—. Como dijiste.
+
+Shakky apaga el cigarrillo.
+
+—Y a mediodía van a poner pantallas en la plaza del Grove 13. Van a transmitir la ejecución entera, por Den Den Mushi visual. Para que todo el mundo vea qué le pasa a quien desafía al Gobierno.
+
+Rayleigh deja la taza en el platito.
+
+—Marineford está a medio día de barco de aquí. —Te mira de reojo, por encima de los lentes—. Supongo que tú no vas en barco.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 877 · ONE PIECE · DÍA 57 · 09:00       ║
+║ Sabaody · bar de Shakky                      ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.508 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
+║ lado de Luffy. Shingeki: antes del D59.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:00, bar de Shakky. Cena y noche en el bar (Facundo pagó 50.000 berries). Diario: fuga de Impel Down (Luffy, Crocodile, Jinbe, Ivankov); ejecución de Ace hoy a las 15:00 en Marineford. Shakky: pantallas de transmisión en el Grove 13 a mediodía. Rayleigh: "Supongo que tú no vas en barco."

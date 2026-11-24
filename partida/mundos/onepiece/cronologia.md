@@ -150,3 +150,4 @@
 - Día 44 11:25 · (T822) Facundo se despide de la tripulación y cruza una puerta a otro mundo desde la cubierta del Thousand Sunny. Testigos: toda la tripulación, Lola y los Rolling.
 - Días 44-56 · (T867, simulado al volver, canon sin Facundo) Salida del Triángulo Florian. Día 47: Sabaody (Hachi, Camie, subasta; Luffy golpea al Dragón Celestial; Rayleigh). Día 49: Kizaru, Pacifistas; Kuma dispersa a la tripulación (Robin a Tequila Wolf). Día 50: anuncio de la ejecución de Ace en Marineford. Luffy: Amazon Lily, Impel Down (Día 54). Día 56: fuga de Impel Down en curso.
 - Día 56 15:55 · (T867) Facundo vuelve por una puerta al Grove 41 de Sabaody, junto al Thousand Sunny.
+- Día 56 noche → Día 57 · (T877) Fuga de Impel Down (canon): Luffy, Crocodile, Jinbe, Ivankov, Buggy, Mr. 3 escapan en un buque de la Marina hacia Marineford.

@@ -8,3 +8,4 @@
 - (Día 38, diario) "Enies Lobby, destruida. El Gobierno culpa a los piratas del Sombrero de Paja." Nada sobre el error de Spandam.
 - (Día 49-50) "Los Piratas del Sombrero de Paja, aniquilados en el Archipiélago Sabaody tras agredir a un Noble Mundial." "Portgas D. Ace, comandante de la 2.ª división de Barbablanca, será ejecutado públicamente en Marineford el Día 57 a las 15:00."
 - (Día 56) "Fuga en Impel Down: motín en los niveles inferiores." (sin detalles)
+- (Día 57, mañana) "FUGA MASIVA EN IMPEL DOWN: Monkey D. Luffy, Crocodile, Jinbe, Emporio Ivankov y cientos de presos escapan en un buque de la Marina." Transmisión de Marineford prevista en pantallas de Sabaody a mediodía.
