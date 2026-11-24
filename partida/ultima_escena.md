@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T924)
-no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
-
-## RESPUESTA 1 (T924)
-
-> no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
-
-> —No. Siento algunas presencias que vienen en barco. Están algo lejos, pero no son marines, ni del Gobierno, ni piratas. Creo que son revolucionarios. Creo que por eso te mandó aquí: para que vayas con ellos.
-
-Robin se queda muy quieta.
-
-Gira la cabeza hacia donde miras tú, hacia el horizonte gris del mar quieto, donde todavía no se ve nada. Ni una vela. Ni una sombra.
-
-—Revolucionarios. —Lo dice despacio—. El ejército de Dragon.
-
-En la baranda, Luffy deja de balancear las piernas.
-
-—¿De mi papá?
-
-Robin asiente, sin dejar de mirar el horizonte.
-
-—Kuma... —Se le arruga la frente—. Claro. Por eso. Siempre me pareció raro que un hombre del Gobierno nos dejara vivir en Thriller Bark. —Se muerde el labio—. Ellos también buscan la verdad que el Gobierno esconde. Los revolucionarios. Si tienen archivos, documentos, gente que sabe cosas del Siglo Vacío...
-
-Se interrumpe.
-
-Te mira. Y se le cae algo de la cara, despacio, como cuando se apaga una vela.
-
-—Entonces me voy con ellos. —Lo dice tranquila, y no está tranquila—. Dos años. Con desconocidos, en algún lugar del mundo. Sin la tripulación.
-
-Te pone las dos manos en el pecho, sobre el sobretodo, y las deja ahí. No te empuja. No te abraza. Solo las deja.
-
-—Y tú dijiste que vas a estar viajando. —Levanta la vista—. Por allá. Por ese otro lugar.
-
-Kase se te sube por la pierna, por la espalda, y vuelve a acomodarse en tu hombro. Mira a Robin desde ahí, con el ojo rojo y el azul, muy serio.
-
-Robin le acaricia la cabeza al gato con un dedo. Después te mira a ti, y la voz le sale más baja.
-
-—¿Me vas a venir a ver?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 924 · ONE PIECE · DÍA 57 · 17:31       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Robin, con los revolucionarios.    ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T925)
+## COMANDO 1 (T925)
 si amor
 
-## RESPUESTA 2 (T925)
+## RESPUESTA 1 (T925)
 
 > si amor
 
@@ -117,10 +61,10 @@ No se separa de ti.
 
 ---
 
-## COMANDO 3 (T926)
+## COMANDO 2 (T926)
 bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
 
-## RESPUESTA 3 (T926)
+## RESPUESTA 2 (T926)
 
 > bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
 
@@ -175,4 +119,60 @@ Se queda mirándote un segundo más que a los otros dos.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:44, Tequila Wolf. Luffy decidió quedarse a ver que Robin se va con gente buena y después ir con Rayleigh. Llegaron los revolucionarios; su jefe (sin nombre) le dice a Robin que vienen por ella por orden de su comandante, "aunque parece que alguien llegó antes". Facundo puede actuar.
+## COMANDO 3 (T927)
+mucho gusto, asi es
+
+## RESPUESTA 3 (T927)
+
+> mucho gusto, asi es
+
+> —Mucho gusto. Así es.
+
+El hombre de la capa verde te mira un momento más. Después mira alrededor: las cadenas rotas regadas por el puente, los presos sin grilletes, los guardias sentados contra la baranda con las manos en la cabeza.
+
+—Ya veo. —No pregunta cómo. Se le nota que quiere, pero no pregunta—. Me llamo Corvin. Del Ejército Revolucionario.
+
+Hace una inclinación corta con la cabeza, hacia ti y después hacia Luffy. A Luffy lo mira un segundo más, con una expresión rara, difícil de leer, como quien reconoce un parecido.
+
+—Sombrero de Paja. —Solo eso.
+
+—¡Hola! —Luffy lo saluda con la mano—. ¿Ustedes son buenos?
+
+Corvin parpadea. Uno de los revolucionarios que está detrás de él se tapa la boca para no reírse.
+
+—Intentamos serlo —contesta, serio.
+
+Luffy lo mira con los ojos entrecerrados, de arriba abajo, muy concentrado. Después asiente, satisfecho.
+
+—Bueno. Entonces está bien.
+
+Corvin se da vuelta hacia sus hombres y levanta la voz.
+
+—¡Rasmus, Ilse! ¡Organicen a los presos por grupos! ¡Agua, comida y mantas para los heridos! ¡Que los guardias queden atados en la torre de vigilancia! ¡Mandaremos más barcos por el resto! —Se vuelve hacia Robin y baja la voz—. No podemos llevarnos a todos hoy. Pero nadie va a volver a ponerles una cadena. Eso se lo prometo.
+
+Después le extiende la mano a Robin, con la palma hacia arriba. No la agarra. Espera.
+
+—Nico Robin. Nuestro comandante quiere hablar con usted. Hay cosas que buscamos los dos, y él cree que podemos encontrarlas juntos. —Una pausa corta—. El barco zarpa en cuanto esté lista.
+
+Robin no le toma la mano todavía.
+
+Se queda mirándola un momento. Después levanta la vista hacia ti. Tiene las manos todavía agarradas a tu sobretodo, y no las suelta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 927 · ONE PIECE · DÍA 57 · 17:46       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Despedir a Robin. Después,         ║
+║ Rayleigh. Shingeki: antes del D59 16:30.     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:46, Tequila Wolf. Corvin (jefe revolucionario) se presentó, organiza a los presos y le tiende la mano a Robin: el comandante quiere hablar con ella; el barco zarpa cuando esté lista. Robin, sin soltar el sobretodo de Facundo, lo mira. Facundo puede actuar.

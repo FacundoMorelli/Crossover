@@ -925,3 +925,4 @@ T923 · One Piece · Tequila Wolf · Robin avisada (8/8). "¿Qué quería Kuma q
 T924 · One Piece · Tequila Wolf · Siente un barco revolucionario acercándose. Robin acepta ir con ellos. "¿Me vas a venir a ver?"
 T925 · One Piece · Tequila Wolf · "Sí, amor." Robin: "Te voy a esperar." Llega el barco revolucionario.
 T926 · One Piece · Tequila Wolf · Luffy: "Primero nos quedamos." Llegan los revolucionarios: "Venimos por usted. Parece que alguien llegó antes."
+T927 · One Piece · Tequila Wolf · Corvin, del Ejército Revolucionario, se presenta y le tiende la mano a Robin. Ella mira a Facundo.

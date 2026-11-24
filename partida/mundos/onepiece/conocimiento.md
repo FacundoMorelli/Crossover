@@ -257,3 +257,4 @@
 - Robin · T923 · Por Facundo: los ocho bien, cada uno en una isla para mejorar elegida por Kuma; Zoro en la isla de Mihawk; dos años y Sabaody.
 - Robin, Luffy · T924 · Por Facundo: se acercan revolucionarios en barco; Kuma habría mandado a Robin ahí para que se fuera con ellos.
 - Luffy · T925 · Escucha a Facundo llamar "amor" a Robin; sabe que son pareja.
+- Corvin (Ejército Revolucionario) · T927 · Por Facundo ("Así es"): fue él quien llegó antes a Tequila Wolf; deduce que liberó a los presos. Reconoce a Luffy (Sombrero de Paja).
