@@ -37,3 +37,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T938 · Días 50-54 · Se muda al cuarto de Facundo en el palacio (manta, dos libros, frasco de manzanas secas bajo la cama). Día 54 en el techo: "¿Tybur? Eso no lo escribió el señor del discurso."
 - T939 · Lee la carta de Lara. Deduce que es la del Martillo. Conoce la cuenta de los trece años (se la hicieron en Marley encadenada). "¿Puedes hacerlo? Borrarle el titán sin borrarla a ella. ¿De verdad?"
 - T940 · Facundo: "No lo sé. Vuelvo, espero, en un día. No voy a ningún lugar donde me puedan lastimar." "Un día. Te tomo la palabra, lindo." Beso. "Si no vuelves en un día, me como tus manzanas secas." Ve la puerta: "Presumido."
+- T946 · Día 55 00:40 · Lo espera en el techo envuelta en una manta, con el frasco de manzanas secas casi vacío. "Ocho horas y media. Dijiste un día. Me adelanté con las manzanas." "¿Conseguiste lo que fuiste a buscar, lindo?"

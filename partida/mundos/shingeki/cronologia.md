@@ -95,3 +95,4 @@
 - Días 50-54 · (T938) Peregrinación al hueco de Wall Rose; un predicador del Culto de las Murallas, retirado por la PM. Hange estudia el corte. Plan de años para borrar las murallas (Erwin, Armin). Eren duerme sin pesadillas. Ymir se muda al cuarto de Facundo en el palacio.
 - Día 54 · (T938) Primer correo oficial de Marley bajo el tratado. Carta con lacre Tybur para Facundo.
 - Día 54 16:15 · (T940) Facundo se va por una puerta desde el techo del palacio. Promete a Ymir volver en un día.
+- Día 55 00:40 · (T946) Facundo vuelve por una puerta al techo del palacio (8 h 25 min después).

@@ -129,3 +129,8 @@
 - Dragon Ball: VUELVE año 774, ~día 96 (~87 días después de irse el día 9: 15 en Jujutsu + ~9 en Bleach + ~63 en One Piece/Shingeki/Black Clover según el reloj de One Piece). Templo Sagrado, media mañana.
 - One Piece: corre (equivalencia OP = SNK + 9 d 5 h 30 min). Bankai sobre la flota de Barbablanca.
 - Black Clover, Bleach, Jujutsu: corren.
+
+## RELOJES (actualizado T946)
+- Dragon Ball: salida año 774 ~día 96 ~18:35 (Templo Sagrado). Prometió volver en unos días a ver a los demás. Corre.
+- Shingeki: VUELVE día 55 00:40 (8 h 25 min después), techo del palacio de Mitras.
+- One Piece: corre (OP = SNK + 9 d 5 h 30 min). Black Clover, Bleach, Jujutsu: corren.

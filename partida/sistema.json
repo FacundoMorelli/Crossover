@@ -1,8 +1,8 @@
 {
-  "turno": 945,
-  "mundo_actual": "dragonball",
-  "fecha_local": "Año 774, ~día 96 (unos 87 días después de irse el día 9)",
-  "hora": "~18:30",
+  "turno": 946,
+  "mundo_actual": "shingeki",
+  "fecha_local": "Día 55 tras Shiganshina (año 850)",
+  "hora": "00:40",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
@@ -262,7 +262,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (Dragon Ball)"
+    "poder_mostrado": "persona común (Shingeki)"
   },
   "armas": [
     {
@@ -1611,9 +1611,9 @@
         "regreso": "19/09 21:30 (T295): 24 días después de irse (9 en Dragon Ball + 15 en Jujutsu)",
         "tercera_salida": "28/09 18:42 (Karakura); corre desde T345"
       },
-      "dragonball": "VUELVE año 774 ~día 96 (~87 días después de irse el día 9), Templo Sagrado.",
+      "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre.",
       "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
-      "shingeki": "Salida día 54 16:15 desde el techo del palacio de Mitras. Prometió a Ymir volver en un día. Carta de Lara pendiente (borrar el Martillo; invernadero de mañana). Corre.",
+      "shingeki": "VUELVE día 55 00:40 (8 h 25 min después), techo del palacio de Mitras.",
       "blackclover": {
         "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
         "salida": "dos días después de la luna llena, 06:18, base de los Toros Negros",

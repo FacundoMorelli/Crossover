@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T943)
-le pongo una mano en el hombro y me teletransporto al nuevo namek
-
-## RESPUESTA 1 (T943)
-
-> le pongo una mano en el hombro y me teletransporto al nuevo namek
-
-Le pones la mano en el hombro a Dende. Lo sientes temblar un poco debajo de la túnica.
-
-Cierras los ojos y buscas.
-
-La Tierra se aleja de golpe: el templo, Mr. Popo, las ciudades, el mar, todo se achica a un puñado de brasas detrás de ti. Sigues de largo. Pasas por un vacío enorme, oscuro y frío, salpicado de luces lejanas que no son personas sino estrellas. Sigues. Y muy lejos, al otro lado de esa oscuridad, encuentras algo: un racimo de presencias tranquilas, verdes, parecidas a la que tienes bajo la mano. Cientos. Juntas, serenas, como un bosque visto de noche.
-
-Dos dedos en la frente.
-
-El templo desaparece.
-
-Lo primero es la luz. Hay tres soles en el cielo, y el cielo no es azul: es verde claro, del color del agua de un estanque. El pasto que pisas es azul. Los árboles son altos y redondos, como bolas de algodón posadas sobre troncos finos, y el aire huele a lluvia aunque no hay ni una nube.
-
-Están al borde de una aldea. Casas blancas en forma de cúpula, con ventanas redondas, repartidas sobre una colina suave junto a un lago. Hay namekianos por todos lados: unos trabajan la tierra, otros cargan agua, un grupo de chicos corre entre las casas. Todos verdes, con antenas y túnicas largas.
-
-Todos se detienen y se dan vuelta al mismo tiempo.
-
-Kase mira los tres soles con los ojos entrecerrados. Mira el pasto azul. Estornuda.
-
-Dende no se mueve. Se queda parado a tu lado con la boca abierta, mirando la aldea, el lago, los árboles, el cielo verde, como si tuviera miedo de que se desarmara si parpadea.
-
-Del grupo de chicos se separa uno. Más alto que Dende, delgado, con las mismas antenas y la misma cara redonda. Da dos pasos y se queda duro.
-
-—¿...Dende?
-
-Dende se da vuelta. Se le deforma la cara entera.
-
-—¡¡Cargo!!
-
-Sale corriendo. Cargo también. Chocan a mitad de la colina y caen los dos al pasto azul, abrazados, llorando y riéndose al mismo tiempo, mientras los demás chicos los rodean a los gritos.
-
-De la cúpula más grande, en lo alto de la colina, sale un namekiano viejo, alto, de túnica blanca y bastón, con la cara arrugada y los ojos tranquilos. Mira a los dos chicos en el pasto. Se le suaviza la cara.
-
-Después levanta la vista y te mira a ti.
-
-Te mira largo. El pelo blanco y azul, los ojos de dos colores, el gato en el hombro. Baja despacio la colina, apoyándose en el bastón, hasta quedar a unos pasos.
-
-—Soy Moori, el patriarca de esta aldea. —Su voz es profunda y pausada—. No sentí ninguna nave. No sentí nada hasta que aparecieron. —Inclina apenas la cabeza—. ¿Usted trajo a nuestro Dende hasta aquí, desde la Tierra, forastero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 943 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
-║ Nuevo Namek · la aldea de Moori              ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 0 zeni                  ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Dende con los suyos. Traerlo de    ║
-║ vuelta hoy. Shingeki en un día.              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T944)
+## COMANDO 1 (T944)
 asi es, soy amigo de goku y sus compañeros
 
-## RESPUESTA 2 (T944)
+## RESPUESTA 1 (T944)
 
 > asi es, soy amigo de goku y sus compañeros
 
@@ -111,10 +49,10 @@ Te señala con el bastón la cúpula grande de la colina.
 
 ---
 
-## COMANDO 3 (T945)
+## COMANDO 2 (T945)
 simula el resto del dia hasta que volvemos a la tierra completando la mision
 
-## RESPUESTA 3 (T945)
+## RESPUESTA 2 (T945)
 
 > simula el resto del dia hasta que volvemos a la tierra completando la mision
 
@@ -186,4 +124,60 @@ Se endereza. Te mira con curiosidad, con la cabeza ladeada, igual que a la maña
 
 ---
 
-ESTADO AL CIERRE: Dragon Ball, ~día 96, atardecer, Templo Sagrado. Volvieron del Nuevo Namek; copia del poder de Dende completada (+500 EXP). Dende agradece y pregunta si Facundo vino a buscar algo para otra persona (Moori lo intuyó). Facundo puede responder.
+## COMANDO 3 (T946)
+algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
+
+## RESPUESTA 3 (T946)
+
+> algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
+
+> —Algo así. Nos vemos, Dende. En unos días seguro vuelvo a pasar un tiempo por aquí, a ver a los demás. Hoy andaba medio apurado.
+
+Dende asiente. Se nota que quiere preguntar más, y se nota que decide no hacerlo.
+
+—Está bien. —Sonríe—. Cuando vuelvas, Videl-san va a querer verte. Entrena todos los días con Gohan-san. Dice que te va a ganar.
+
+Mr. Popo levanta una mano, sin cambiar la sonrisa.
+
+—Mr. Popo dice adiós al gato.
+
+Kase lo mira desde tu hombro. Parpadea una vez, despacio. Es lo más cerca de un saludo que le dedicó jamás a nadie.
+
+Levantas la mano. La puerta se abre en el borde de la plataforma, recta y alta, contra el cielo naranja del atardecer. Del otro lado hay noche, tejas oscuras y estrellas.
+
+Cruzas.
+
+El aire de Mitras es frío y huele a humo de chimeneas y a piedra mojada. Debe de haber llovido mientras no estabas. Estás otra vez en el techo del palacio, sobre las tejas, exactamente donde te fuiste. La ciudad duerme abajo: apenas algunos faroles encendidos en las calles, el reloj de la torre marcando las doce y cuarenta, y el silencio grueso de la madrugada.
+
+No estás solo en el techo.
+
+A unos metros, contra la chimenea, hay un bulto envuelto en una manta. Del bulto asoma una cabeza de pelo oscuro, revuelto, con la nariz roja de frío. En el regazo, apoyado sobre la manta, tiene un frasco de vidrio abierto. Está casi vacío.
+
+Ymir te mira por encima de la manta. Mastica despacio. Traga.
+
+Levanta el frasco y lo sacude: quedan dos manzanas secas en el fondo.
+
+—Ocho horas y media. —Lo dice con la boca medio llena—. Dijiste un día. Me adelanté un poco con las manzanas, por las dudas.
+
+Kase te salta del hombro, cruza las tejas mojadas sacudiendo las patas con asco a cada paso, y se mete debajo de la manta con ella sin pedir permiso. Ymir levanta el borde para dejarlo pasar, sin dejar de mirarte.
+
+—¿Y? —Ladea la cabeza—. ¿Conseguiste lo que fuiste a buscar, lindo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 946 · SHINGEKI · DÍA 55 · 00:40        ║
+║ Mitras · techo del palacio                   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: bajo la manta de Ymir                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Lara (borrar el Martillo; el       ║
+║ invernadero, de mañana).                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, día 55 00:40, techo del palacio de Mitras. Facundo volvió de Dragon Ball (copia de Dende hecha). Ymir lo esperaba envuelta en una manta, con el frasco de manzanas secas casi vacío; Kase bajo su manta. Ymir pregunta si consiguió lo que fue a buscar. Facundo puede responder.
