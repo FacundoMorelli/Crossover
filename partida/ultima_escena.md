@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1023)
-magia de constelaciones
-
-## RESPUESTA 1 (T1023)
-
-> magia de constelaciones
-
-> —Magia de constelaciones.
-
-La pluma del rincón se detiene.
-
-—¿Cómo se escribe, capitán? —pregunta el caballero joven, en voz baja.
-
-—Como suena. —Lahar no le saca los ojos de encima—. Magia de constelaciones.
-
-Abre la carpeta otra vez y pasa varias hojas hasta llegar a una lista larga, impresa en letra muy chica, con sellos del Consejo en los bordes. La recorre con el dedo de arriba abajo. Pasa a la hoja siguiente. Y a la siguiente.
-
-—Magia celestial —murmura, leyendo—. Espíritus, llaves, contratos. No. Magia estelar... registrada en Bosco, en el siglo pasado. Tampoco. —Llega al final de la última hoja. Levanta la vista—. No figura en el registro del Consejo. Ninguna magia con ese nombre, ni con esa descripción.
-
-Se acomoda los lentes.
-
-—Cuando una magia no figura en el registro, normalmente significa una de dos cosas. —Lo dice con el tono de quien recita un reglamento—. O es una magia nueva, creada por el mismo usuario, o es una magia perdida. —Hace una pausa—. Las magias perdidas no son ilegales, señor Morelli. Pero el Consejo lleva cuenta de cada una de ellas y de quién las usa.
-
-Le hace una seña al caballero del rincón, que vuelve a escribir.
-
-Después golpea la mesa dos veces con la punta del lápiz, despacio.
-
-—Ahora, las criaturas de luz las entiendo. Un lobo, un guerrero y una serpiente hechos de estrellas: eso son constelaciones. —Te mira—. Pero ninguna constelación explica que haya parado un hacha con la mano. Ni que haya volado hasta lo alto de una torre con un Mago Santo colgado de la capa, ni que haya desaparecido de un salón y aparecido en otro, a cien metros, en dos segundos.
-
-Inclina la cabeza.
-
-—¿Todo eso también es su magia de constelaciones?
-
-Kase lo mira sin parpadear.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1023 · FAIRY TAIL · X784 · DÍA 3 ·     ║
-║ 17:20 · Magnolia · sede, cuarto del fondo    ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sobre la mesa                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: Interrogatorio del Consejo         ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1024)
+## COMANDO 1 (T1024)
 sí, es parte de mi magia y de mi fuerza fisica
 
-## RESPUESTA 2 (T1024)
+## RESPUESTA 1 (T1024)
 
 > sí, es parte de mi magia y de mi fuerza fisica
 
@@ -99,10 +47,10 @@ Se detiene.
 
 ---
 
-## COMANDO 3 (T1025)
+## COMANDO 2 (T1025)
 es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
 
-## RESPUESTA 3 (T1025)
+## RESPUESTA 2 (T1025)
 
 > es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
 
@@ -145,4 +93,58 @@ Extiende una mano, con la palma hacia arriba.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:26, cuarto del fondo de la sede. Lahar acepta la oferta de la semilla y tiende la mano: la llevaría a Era él mismo, con Facundo como donante. Facundo decide.
+## COMANDO 3 (T1026)
+le doy una semilla del ermitaño
+
+## RESPUESTA 3 (T1026)
+
+> le doy una semilla del ermitaño
+
+Sacas una semilla del bolsillo del sobretodo y se la pones en la palma.
+
+Lahar la mira de cerca. La levanta entre dos dedos, a la altura de la lámpara de lacrima, y la hace girar despacio. Es chica, verde, opaca, sin brillo y sin olor. No parece nada.
+
+—Esto —dice en voz baja—. Esto curó a tres personas golpeadas hasta quedar inconscientes.
+
+Saca del cinturón un pañuelo blanco, doblado, con el sello del Consejo bordado en una esquina. Envuelve la semilla con cuidado, como si fuera de vidrio, hace un nudo y se la guarda en un bolsillo interior de la armadura, del lado del pecho.
+
+—Rene. Donación voluntaria de Facundo Morelli, una unidad. Que conste la hora.
+
+—Diecisiete y veintisiete, capitán.
+
+Lahar asiente. Se da vuelta hacia ti y, por primera vez desde que te paró en la puerta, hace una inclinación de cabeza. Corta y formal, pero de verdad.
+
+—Gracias, señor Morelli. La entrevista terminó. Puede irse.
+
+Abre la puerta.
+
+Afuera, el salón sigue lleno de caballeros y de Fairy Tail esperando turno. Gray ya no está en el banco: está adentro, en el otro cuarto. Mirajane levanta la vista desde la barra y te sonríe.
+
+Y apoyado en la pared, justo al lado de la puerta, con los brazos cruzados y un pie contra la madera, está Natsu. Tiene la bufanda torcida y cara de haber estado esperando un buen rato. Happy está dormido sobre su cabeza.
+
+Se despega de la pared de un salto. Happy se despierta y se cae.
+
+—¡Por fin! —Natsu se golpea el puño contra la palma y le salen chispas—. Ya terminaron conmigo, ya terminaron contigo, el viejo está durmiendo la borrachera de ayer y Erza está en el otro cuarto con un caballero. —Te mira con una sonrisa enorme, de dientes afilados—. Nadie nos va a parar. Afuera, en la explanada del río. ¡Tú y yo! ¡Ahora!
+
+—Aye... —murmura Happy desde el piso, todavía medio dormido.
+
+[Semillas del ermitaño: 83.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1026 · FAIRY TAIL · X784 · DÍA 3 ·     ║
+║ 17:28 · Magnolia · salón de la sede          ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 3 17:28, salón de la sede. Interrogatorio terminado; semilla donada a Lahar. Natsu lo desafía a pelear ahora en la explanada del río. Facundo puede responder.

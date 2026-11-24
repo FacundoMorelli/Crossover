@@ -47,3 +47,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Lahar y el Consejo (registro escrito) · T1023 · Facundo declaró usar "magia de constelaciones"; no figura en el registro del Consejo (Lahar la clasifica como magia nueva o perdida).
 - Lahar y el Consejo (registro) · T1024 · Facundo: "magia y fuerza física". Registrado como mago independiente sin gremio, magia no catalogada; no considerado peligroso. Lahar sabe por Mirajane que también le dio la medicina a Makarov (Mirajane lo supo por Makarov en la fiesta). Los médicos del Consejo examinaron a Shadow Gear: sin rastro de heridas.
 - Lahar, Rene (escriba) y el registro del Consejo · T1025 · Facundo dijo que la medicina es "de los lugares a los que viaja" (que no figuran en registros de Fiore) y ofreció una para examen.
+- Lahar, Rene y el Consejo · T1026 · tienen una semilla del ermitaño (donada por Facundo, 17:27), envuelta en un pañuelo del Consejo; Lahar la llevará a Era.

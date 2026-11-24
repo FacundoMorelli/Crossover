@@ -10,6 +10,7 @@ ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 - T1020 · Fiesta: intenta pelear con Facundo tres veces; Erza lo frena. Día 2: lo llaman a declarar.
 DIÁLOGOS CLAVE:
+- T1026 · "¡Por fin! Nadie nos va a parar. Afuera, en la explanada del río. ¡Tú y yo! ¡Ahora!"
 - T1020 · "¡Eres un monstruo! ¡No te olvides, eh! ¡Tú y yo!"
 - T1019 · "¿Ya terminó? ¡¿Sin mí?!" "¿Hiciste todo tú solo mientras yo me peleaba con unos debiluchos abajo?"
 - T1013 · "¡LUCY! ¿Estás bien? ¡¿Quién fue?!"
