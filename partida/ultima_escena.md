@@ -191,7 +191,7 @@ Se le borra la sonrisa.
 
 Su brazo derecho cambia. La piel se vuelve gris, después negra, se estira, se endurece, y en un segundo ya no tiene brazo: tiene una columna de hierro macizo, larga como una viga.
 
-—¡Rugido... no! ¡Garrote del Dragón de Hierro!
+—¡Garrote del Dragón de Hierro!
 
 Lo descarga contra el lobo.
 
