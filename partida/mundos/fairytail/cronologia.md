@@ -44,3 +44,4 @@
 - Día 1 ~08:30-09:00 · Juvia y Sol capturan a Lucy en Magnolia (canon; Facundo se entera por Jose en T1011).
 - Día 1 09:12 · (T1011) CAMBIO: Facundo frena el Metsu de Aria; Makarov conserva su magia.
 - Día 1 09:13 · (T1012) Facundo vence a Aria y rescata a Lucy de la torre (CAMBIO: en el canon Lucy escapaba sola saltando de la torre y Natsu la atrapaba). Jose sabe el nombre de Facundo.
+- Día 1 09:18 · (T1014) Makarov reúne al gremio en el salón de Phantom: Jose no estaba (proyección); va a responder.

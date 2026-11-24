@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1011 · "Qué triste..." "¿Q-qué...? No lo sentí venir. No sentí... nada."
 QUÉ SABE DE FACUNDO: lo vio aparecer volando y frenar a Aria (T1011). No sabe su nombre.
 QUÉ PODERES DE FACUNDO VIO: vuelo; frenó el Metsu sujetando a Aria (T1011).
-ESTADO: inconsciente en la sala del último piso (T1012, cabezazo de Facundo).
+ESTADO: inconsciente; bajado al salón principal por dos de Fairy Tail (T1014).

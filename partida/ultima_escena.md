@@ -3,91 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1011)
-subo volando y freno a Aria antes de que toque a Makarov
-
-## RESPUESTA 1 (T1011)
-
-> subo volando y freno a Aria antes de que toque a Makarov
-
-Te despegas del piso.
-
-No saltas: subes. Kase te clava las uñas en el hombro. Debajo de ti, Natsu levanta la cabeza y se queda con la boca abierta, Happy dice "¡¿Vuela?!", y Erza da un paso adelante como para detenerte y no llega a decir nada.
-
-Atraviesas el hueco de la escalera en espiral sin tocar un escalón. Un piso, dos, tres. Pasas al lado de un par de magos de Phantom que bajaban corriendo y se tiran contra la pared al verte pasar. Al final de la escalera hay una puerta doble de madera tallada, entreabierta.
-
-La cruzas.
-
-Es una sala grande de piedra, con ventanales altos y un candelabro de hierro colgando del techo. En el medio, Makarov, de pie, con los puños cerrados y la espalda rígida. Delante de él, un hombre alto con ropa de gala oscura y el pelo negro largo, recogido, sonriendo con los ojos entrecerrados. La luz de los ventanales lo atraviesa: no tiene sombra.
-
-—...y la heredera Heartfilia ya está en nuestras manos, Makarov —está diciendo, con una voz suave, educada, que da asco—. Mis Element 4 la encontraron sola, en la calle, mientras ustedes venían a romperme la puerta. Fufufu. ¿Qué maestro deja sola a una de sus hijas en medio de una guerra?
-
-Makarov tiembla. No de miedo.
-
-—¡Lucy! —dice entre dientes—. ¿Qué hicieron con...?
-
-Y detrás de él, el aire se dobla.
-
-Aparece de la nada, como si hubiera estado ahí desde siempre: un hombre enorme, de casi tres metros, con un sombrero de copa, la cara cuadrada y los ojos tapados con una venda blanca. Está llorando. Las lágrimas le caen por debajo de la venda y le mojan las mejillas. Tiene las dos manos abiertas, con los dedos separados, a un palmo de la espalda del viejo, y entre sus dedos el aire se pone verde, denso, como una enfermedad.
-
-—Qué triste... —solloza—. Qué triste es esto...
-
-Las manos bajan.
-
-Lo agarras de las dos muñecas.
-
-El aire verde se apaga entre sus dedos como una vela que alguien sopla. Aria se queda con los brazos frenados en el aire, a un dedo del cuello de Makarov, y por primera vez deja de llorar. Debajo de la venda, la boca se le abre.
-
-—¿Q-qué...? —Gira la cabeza vendada hacia ti, despacio—. No lo sentí venir. No sentí... nada.
-
-Makarov se da vuelta de golpe. Ve las manos de Aria a un palmo de su espalda. Te ve a ti, que lo tienes agarrado de las muñecas, flotando a medio metro del piso. Ve a Kase.
-
-Frente a ustedes, la sonrisa de Jose se congela.
-
-╔════════════════════════════════════════╗
-║ ARIA                                   ║
-║ Element 4 de Phantom Lord (aire)       ║
-║ PODER: Airspace, Metsu, Zero           ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x100 sobre él ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-
-╔════════════════════════════════════════╗
-║ JOSE PORLA                             ║
-║ Maestro de Phantom Lord · Mago Santo   ║
-║ PODER: Sombras, Magia Oscura,          ║
-║        Proyección de Pensamiento       ║
-║ (PROYECCIÓN: el cuerpo no está aquí)   ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x70 sobre él  ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-
-—Vaya —dice Jose. Ya no suena suave—. ¿Y tú quién eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1011 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:12 · Phantom Lord · sala del último piso  ║
-║ NIVEL 27 · EXP 224.900/240.000               ║
-║ FRAGMENTOS 107.562 · 0 jewel                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: La guerra contra Phantom           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1012)
+## COMANDO 1 (T1012)
 me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
 
-## RESPUESTA 2 (T1012)
+## RESPUESTA 1 (T1012)
 
 > me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
 
@@ -175,10 +94,10 @@ Lucy se mueve. Frunce la cara, parpadea, abre los ojos. Lo primero que ve es tu 
 
 ---
 
-## COMANDO 3 (T1013)
+## COMANDO 2 (T1013)
 me llamo Facundo Morelli, le desato las manos
 
-## RESPUESTA 3 (T1013)
+## RESPUESTA 2 (T1013)
 
 > me llamo Facundo Morelli, le desato las manos
 
@@ -236,4 +155,71 @@ Lucy mira a Erza, después a ti, después otra vez a Erza.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:15, salón principal de Phantom. Lucy desatada, con Natsu, Happy y Erza. Lucy le pregunta a Facundo si la sacó él solo. Facundo puede responder.
+## COMANDO 3 (T1014)
+eh si
+
+## RESPUESTA 3 (T1014)
+
+> eh si
+
+> —Eh, sí.
+
+Lucy se queda mirándote con la boca un poco abierta.
+
+Después se endereza, se arregla el pelo mojado con las dos manos, como puede, y hace una reverencia rápida, torpe, con la cabeza muy baja.
+
+—Gracias. —Le sale bajito. Después lo repite más fuerte, todavía doblada—. ¡Muchas gracias, de verdad!
+
+—¡Aye! —Happy se le posa en la espalda, en plena reverencia—. ¡Gracias por salvar a Lucy, señor Facundo!
+
+—¡Happy, bájate!
+
+Natsu no dice nada. Te mira con los brazos cruzados y una sonrisa que le ocupa media cara.
+
+Desde la escalera llegan pasos.
+
+Makarov baja despacio, con las manos atrás de la espalda. Atrás de él, dos de Fairy Tail que habían subido a buscarlo bajan arrastrando entre los dos a Aria, desmayado, con los pies rebotando en cada escalón.
+
+El viejo llega al salón. Ve a Lucy.
+
+Se detiene. Durante un momento no dice nada. Se le ablanda toda la cara.
+
+—Lucy.
+
+—Maestro... —Lucy da un paso hacia él—. Lo siento. Me dejé atrapar. Si hubiera...
+
+—Calla, mocosa. —Makarov se acerca y le da una palmadita en el brazo, lo más alto que llega—. Estás aquí. Es lo único que importa.
+
+Después se vuelve hacia el resto del gremio, que se juntó alrededor. Alza la voz.
+
+—¡Jose no estaba en este edificio! Lo que había arriba era una proyección de su pensamiento. —Mira a su alrededor, a los de Phantom tirados en el piso—. Aquí cayó la mitad de su gremio, Gajeel y uno de sus Element 4. Pero Jose sigue entero, y ahora sabe que lo humillamos en su propia casa. Va a responder.
+
+Un murmullo recorre el salón.
+
+Makarov se vuelve hacia ti. Te mira desde abajo, como en el parque, pero esta vez es distinto. Hay algo que en el parque no estaba: cálculo, y también la cautela de un hombre que acaba de ver algo que no entiende.
+
+—Muchacho. —Hace una pausa—. Arriba, Aria me iba a vaciar de magia. No lo sentí. Tú sí. —Mira a Lucy, después a ti otra vez—. Me cuidaste la espalda y me trajiste a mi hija de vuelta, y no tienes nuestra marca.
+
+Se cruza de brazos.
+
+—¿Qué es lo que quieres de Fairy Tail?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1014 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:18 · Phantom Lord · salón principal       ║
+║ NIVEL 27 · EXP 225.700/240.000               ║
+║ FRAGMENTOS 107.587 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:18, salón principal de Phantom. Lucy agradeció. Makarov anunció que Jose no estaba y que va a responder; le pregunta a Facundo qué quiere de Fairy Tail. Facundo puede responder.
