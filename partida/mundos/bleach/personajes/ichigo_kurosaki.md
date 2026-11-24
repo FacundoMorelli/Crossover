@@ -76,3 +76,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T315 · Orihime lo cura sobre la cúpula. Casi muerto.
 - T325 · Curado por Orihime. Ve a Facundo con Aizen de piedra y a Gin y Tōsen. En guardia.
 - DIÁLOGO T325: "¡¿Qué hacen ESOS aquí?!" / "...¿Eso es Aizen?"
+- T1030 · 18/12 15:42 · En el puente, de vuelta de la escuela con Chad y Orihime; ve a Facundo; se le cae la mochila. "...¿Facundo?" (pelo más largo que en septiembre).

@@ -83,3 +83,4 @@
 - 18/12 10:40 · (T1027) Facundo vuelve por la Puerta a la orilla del río de Karakura, bajo el puente. Nadie lo ve. Nieva.
 - 18/12 10:58 · (T1028) Facundo llega a la tienda de Urahara.
 - 18/12 11:20 · (T1029) Urahara le cuenta a Facundo lo de los tres meses (Facundo ahora sabe: Central 46, Gin y Tōsen presos, Hueco Mundo quieto, Arrancar sueltos, Ichigo con poderes, Rukia en el 13.º).
+- 18/12 15:42 · (T1030) Ichigo, Chad y Orihime ven a Facundo en el puente.

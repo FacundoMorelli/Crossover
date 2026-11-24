@@ -14,3 +14,4 @@ ESTADO: herido leve, rescatado por Urahara.
 - T307 · Inconsciente, herido, vivo. Facundo y Rukia llegan.
 - T311 · Facundo le da la última semilla del ermitaño. Se cura entero, despierta.
 - DIÁLOGO T311: "...Facundo." / "Gracias. Otra vez."
+- T1030 · 18/12 15:42 · En el puente con Ichigo y Orihime: lo ve primero y se detiene en seco.

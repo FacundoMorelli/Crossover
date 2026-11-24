@@ -89,3 +89,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Capitanes y Yamamoto · T341 · Facundo dice que si muere el Hōgyoku se queda en ese lugar para siempre y nada lo saca.
 - Capitanes y Yamamoto · T342 · Facundo confirma: si él muere, Aizen despierta.
 - Urahara, Yoruichi, Jinta, Ururu (y Tessai por ellos) · T1028 · Facundo volvió a Karakura el 18/12 (lo ven en persona en el patio de la tienda).
+- Ichigo, Chad, Orihime · T1030 · lo ven en persona en el puente: volvió (18/12).

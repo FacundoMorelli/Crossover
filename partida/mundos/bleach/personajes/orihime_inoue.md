@@ -15,3 +15,4 @@ ESTADO: rescatada por Urahara.
 - T314 · Se cura la mejilla con Sōten Kisshun. Siente caer a Ichigo. Grita.
 - DIÁLOGO T314: "Sí... gracias." / "¡KUROSAKI-KUN!"
 - T325 · Terminó de curar a Ichigo. Ve la estatua.
+- T1030 · 18/12 15:42 · En el puente: hablaba de un pastel de frijoles con mayonesa; lo ve y se tapa la boca con las dos manos.

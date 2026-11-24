@@ -3,118 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1027)
-dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
-
-## RESPUESTA 1 (T1027)
-
-> dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
-
-> —Dale. Vamos a la explanada del río.
-
-—¡SÍ! —Natsu sale disparado hacia la puerta—. ¡Happy, avísale a todo el mundo!
-
-—¡Aye, señor!
-
-[Día 3 · 17:40 · Explanada del río de Magnolia.]
-
-Cuando llegas, ya hay público. La noticia corrió por el gremio en dos minutos: media docena de Fairy Tail sentados en el pasto de la orilla, después una docena, después más. Gray llega con las manos en los bolsillos y se sienta en una piedra a mirar. Lucy llega corriendo con Levy y se queda atrás, nerviosa. Elfman grita que esto es cosa de hombres antes de que empiece nada.
-
-Natsu se para en el medio de la explanada, se ata la bufanda, se truena el cuello.
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Magia de Dragon Slayer de Fuego              ║
-║ USUARIO: Natsu Dragneel · Fairy Tail         ║
-║                                              ║
-║ MISIÓN: Que Natsu Dragneel admita, con sus   ║
-║ palabras, que perdió contra ti.              ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-
-La pelea dura veinte minutos.
-
-Natsu abre con un Rugido del Dragón de Fuego que evapora el agua de la orilla y deja el pasto negro en una línea de treinta metros. No te mueves: el fuego te pasa por los costados y se apaga. Natsu se ríe como loco y se te tira encima con los puños encendidos. Los esquivas todos. Le das uno, en el estómago, medido, y lo mandas a rodar hasta el agua.
-
-Se levanta.
-
-Lo vuelves a tirar. Se levanta. Le apagas el fuego de los brazos soplándolo con un movimiento de la mano. Se come una antorcha que alguien del público le tira y se vuelve a prender. Usa algo que le ves por primera vez, los dos brazos en espiral, el fuego dando vueltas como un torbellino, y gritando "¡Ala del Dragón de Fuego!". Lo atajas con el antebrazo. Te quema la manga del sobretodo. Natsu se queda mirando la manga humeante con los ojos brillantes, como si hubiera ganado un premio.
-
-Cae nueve veces. Se levanta nueve. A la décima se queda en el pasto, boca arriba, con el pecho subiendo y bajando, la ropa hecha jirones, todo negro de hollín, y la sonrisa más grande que le viste.
-
-—¡Todavía... no termino! —jadea al cielo—. Solo estoy... descansando...
-
-—Aye —dice Happy, sentado sobre su pecho—. Perdiste.
-
-—¡No perdí! ¡Estoy descansando!
-
-El público estalla en carcajadas. Gray dice algo de que nunca lo había visto tan contento por perder, y Natsu le grita sin levantarse que no perdió. Erza, que en algún momento llegó y se quedó mirando de pie detrás de todos, con los brazos cruzados, no se ríe. Te mira a ti. Después le ofrece a Natsu una mano para levantarlo.
-
-[Duelo con Natsu Dragneel. +150 EXP · +3 Fragmentos.]
-
-[Día 3 · 18:20.]
-
-El sol empieza a ponerse sobre el río. Les dices que te vas a ir, que vas a viajar otra vez, y que no sabes cuándo vas a volver.
-
-Hay un silencio corto.
-
-—¡¿Qué?! —Natsu se sienta de golpe en el pasto—. ¡¿Ahora?! ¡Pero tenemos que hacer la revancha!
-
-—Cuando vuelva —dice Happy, muy serio, como si te tradujera. Después mira a Kase y se le llenan los ojos de lágrimas—. ¿Kase también se va?
-
-Lucy se acerca. Te da las gracias por tercera vez, esta vez sin trabarse, mirándote a la cara. Levy, al lado, te pone en la mano un señalador de libro de cuero, con una palabra escrita en letras doradas en un idioma antiguo que no conoces: dice que es "viaje", y que trae buena suerte. Se pone roja y vuelve detrás de Lucy. Mirajane llegó con una canasta: adentro hay pan, carne asada y un pescado envuelto en papel. "Para el camino", dice. "Y para Kase."
-
-Erza no dice nada largo. Se para frente a ti y hace una reverencia corta, de guerrera.
-
-—Cuando vuelvas, quiero ver tu magia de cerca —dice—. Y pelear contigo yo.
-
-Makarov aparece último, bajando la cuesta despacio, con un bastón nuevo y los ojos todavía hinchados de la borrachera. No pregunta nada. Te mira, asiente y repite lo de la torre: que la puerta está abierta.
-
-Te alejas unos pasos por la orilla.
-
-Abres la Puerta en el aire. El rectángulo de luz blanca, con su borde rojo y azul temblando, se recorta contra el atardecer naranja del río.
-
-Detrás de ti, todo Fairy Tail se queda en silencio. Alguien murmura "¿magia de transporte?". Natsu se pone de pie de un salto.
-
-—¡FACUNDO! —grita, con el puño en alto—. ¡LA PRÓXIMA TE GANO!
-
-Kase mira hacia atrás una vez, desde tu hombro. Después cruzas.
-
-[Mundo: Bleach.]
-
-Hace frío.
-
-Es lo primero. Un frío seco, de invierno, que te muerde las orejas y hace que Kase se acurruque contra tu cuello. El cielo está blanco, cubierto, y caen copos chiquitos de nieve que no llegan a cuajar en el suelo.
-
-Estás en la orilla del río de Karakura, debajo del puente. El mismo lugar de donde te fuiste. El pasto está amarillo y escarchado, el agua corre gris y lenta, y en el puente pasa un auto con las cadenas puestas. A lo lejos se escucha una campana de escuela: el recreo de media mañana.
-
-En un poste de luz de la calle de arriba hay un cartel pegado con cinta, medio despegado por el viento, con un dibujo de un árbol de Navidad y letras rojas: "¡Feria navideña del distrito Naruki! 21 al 25 de diciembre".
-
-Kase olfatea el aire, despacio, y se queda mirando río arriba. Hacia el lado de la ciudad donde están la clínica Kurosaki y la tienda de Urahara.
-
-Nadie te vio llegar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1027 · BLEACH · 18/12 · 10:40          ║
-║ Karakura · orilla del río, bajo el puente    ║
-║ NIVEL 27 · EXP 234.850/240.000               ║
-║ FRAGMENTOS 107.840 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, acurrucado del frío      ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1028)
+## COMANDO 1 (T1028)
 voy a la tienda de Urahara
 
-## RESPUESTA 2 (T1028)
+## RESPUESTA 1 (T1028)
 
 > voy a la tienda de Urahara
 
@@ -171,10 +63,10 @@ Urahara baja un poco el abanico. Los ojos, debajo del ala del sombrero, ya no se
 
 ---
 
-## COMANDO 3 (T1029)
+## COMANDO 2 (T1029)
 paso y le digo que sí, cuéntame qué pasó
 
-## RESPUESTA 3 (T1029)
+## RESPUESTA 2 (T1029)
 
 > paso y le digo que sí, cuéntame qué pasó
 
@@ -232,4 +124,72 @@ Hace una pausa.
 
 ---
 
-ESTADO AL CIERRE: Bleach, 18/12 11:20, cuarto del kotatsu de la tienda de Urahara. Urahara le contó los tres meses de paz. Pregunta si Facundo le va a dar la sorpresa a Ichigo (sale a las 15:30, pasa por el puente) o se lo cuenta él. Facundo puede responder.
+## COMANDO 3 (T1030)
+le doy la sorpresa, lo espero en el puente
+
+## RESPUESTA 3 (T1030)
+
+> le doy la sorpresa, lo espero en el puente
+
+Urahara se ríe detrás del abanico, encantado.
+
+—Ya me imaginaba. —Le hace una seña a Tessai—. Que no se le congele el gato.
+
+Tessai saca de algún lado una bufanda de lana gris, enorme, tejida a mano, y te la pone en las manos con una reverencia. Es para Kase. Kase la mira con desprecio, y cuando sales a la calle se deja envolver igual.
+
+[15:25 · Puente sobre el río de Karakura.]
+
+La nieve dejó de caer. El cielo sigue blanco y bajo, y la luz de la tarde es gris y plana, sin sombras. El río corre debajo. Por el puente pasan algunos autos, una madre con un cochecito, un viejo con un perro con suéter.
+
+Te apoyas en la baranda de hierro, del lado de la escuela. Kase va en tu hombro, envuelto hasta las orejas en la bufanda de Tessai, con cara de ofendido.
+
+A las tres y media suena la campana a lo lejos.
+
+Diez minutos después empiezan a aparecer uniformes grises por la calle que baja de la preparatoria. Grupos de chicos riéndose, chicas con bufandas de colores, uno que patea una lata. Pasan a tu lado por el puente sin mirarte, o mirándote dos veces al gato.
+
+Y entonces lo ves.
+
+Viene caminando por la vereda con las manos en los bolsillos del abrigo del uniforme, la mochila colgada de un hombro, el pelo naranja más largo que en septiembre y el ceño fruncido de siempre. A su derecha va un muchacho enorme, moreno, de pelo castaño ondulado que le tapa los ojos, que no dice nada. A su izquierda, una chica de pelo largo color miel, con dos horquillas azules en forma de flor, que habla sin parar con las manos y le cuenta algo sobre un pastel de frijoles con mayonesa.
+
+—...y entonces Tatsuki me dijo que eso no se come, pero yo creo que...
+
+—Inoue, eso no se come —dice Ichigo, sin mirarla.
+
+—¡Ay, Kurosaki-kun, tú también!
+
+Chad levanta la vista. Es el primero en verte. Se detiene en seco en el medio de la vereda.
+
+Orihime choca contra su espalda.
+
+—¿Sado-kun? ¿Qué pasa...?
+
+Mira hacia adelante. Se le abren los ojos enormes. Se lleva las dos manos a la boca.
+
+Ichigo da dos pasos más antes de darse cuenta de que los otros dos se quedaron atrás. Se da vuelta para quejarse, ve la cara de Orihime, sigue la dirección de su mirada.
+
+Te ve.
+
+Apoyado en la baranda del puente, de negro, con el pelo blanco y azul, la cicatriz y el gato en el hombro, envuelto en una bufanda gris.
+
+Se le cae la mochila del hombro. Cae a la vereda con un golpe sordo.
+
+—...¿Facundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1030 · BLEACH · 18/12 · 15:42          ║
+║ Karakura · puente sobre el río               ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, con bufanda              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 18/12 15:42, puente sobre el río de Karakura. Ichigo, Chad y Orihime lo ven. A Ichigo se le cae la mochila: "...¿Facundo?" Facundo puede actuar.

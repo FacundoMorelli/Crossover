@@ -1,8 +1,8 @@
 {
-  "turno": 1029,
+  "turno": 1030,
   "mundo_actual": "bleach",
   "fecha_local": "18/12",
-  "hora": "11:20",
+  "hora": "15:42",
   "edad": 18,
   "nivel": 27,
   "exp": 234850,
@@ -491,6 +491,11 @@
     {
       "objeto": "Canasta de Mirajane: pan, carne asada y un pescado para Kase",
       "origen": "fairytail, regalo de Mirajane (T1027)"
+    },
+    {
+      "objeto": "Bufanda de lana gris tejida a mano (para Kase)",
+      "origen": "bleach, regalo de Tessai (T1030)",
+      "nota": "Kase la lleva puesta."
     }
   ],
   "copias": [
