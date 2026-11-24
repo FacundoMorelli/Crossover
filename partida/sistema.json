@@ -1,13 +1,13 @@
 {
-  "turno": 742,
+  "turno": 743,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 36 (Grand Line, Enies Lobby)",
-  "hora": "06:20",
+  "hora": "06:50",
   "edad": 18,
   "nivel": 26,
-  "exp": 209640,
+  "exp": 211640,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 133672,
+  "fragmentos": 134022,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 92,
+  "energia_actual_pct": 88,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1371,6 +1371,20 @@
       "turno": 488,
       "fragmentos": 3,
       "exp": 100
+    },
+    {
+      "mundo": "onepiece",
+      "quien": "~300 soldados de Enies Lobby (noqueados)",
+      "turno": 743,
+      "fragmentos": 300,
+      "exp": 1000
+    },
+    {
+      "mundo": "onepiece",
+      "quien": "Oimo y Kashi, gigantes guardianes del portón (noqueados de un golpe cada uno)",
+      "turno": 743,
+      "fragmentos": 50,
+      "exp": 1000
     }
   ],
   "viaje": {

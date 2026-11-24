@@ -167,3 +167,4 @@
 - Familia Franky, Paulie y capataces · T739 · Ven al Merry volar sobre la ola gigante; el ojo azul de Facundo brilla.
 - Facundo · T741 · Siente con el Haki a Robin, Franky y Usopp encadenados, al CP9 y a un jefe con máscara de metal (Spandam), y cientos de soldados.
 - Enies Lobby entero (Spandam, CP9, soldados, Robin) · T742 · Los Sombrero de Paja atacan el portón; Luffy grita el nombre de Robin.
+- T743 · Enies Lobby entera (soldados, Spandam, CP9) vio a Facundo noquear a los gigantes Oimo y Kashi de un golpe y usar la Luna y el Rayo. Fuente: lo vieron en persona.

@@ -741,3 +741,4 @@ T739 · One Piece · Aqua Laguna · Levanta el Merry con la Luna sobre la ola. V
 T740 · One Piece · Enies Lobby · Simula: cuatro horas de vuelo. Llegan a Enies Lobby cinco horas antes que el tren.
 T741 · One Piece · Enies Lobby · Esperan escondidos. 06:00: llega el tren con Robin, Franky y Usopp. Spandam los recibe.
 T742 · One Piece · Enies Lobby · Ataque al portón. Luffy grita el nombre de Robin.
+T743 · One Piece · Enies Lobby · Asalto: Oimo, Kashi y ~300 soldados noqueados. Plaza del Juzgado. Robin en el balcón con Spandam.
