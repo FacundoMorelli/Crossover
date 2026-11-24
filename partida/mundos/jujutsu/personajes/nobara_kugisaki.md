@@ -64,3 +64,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T985 · "Tokio tiene catorce millones de personas." Describe a Saori Fujinuma (~20-21, pelo largo castaño liso con cinta, sonrisa sin miedo, aros chiquitos de plata, ropa de ciudad, revistas, lunar bajo el ojo izquierdo). "¿La puedes encontrar? ¿De verdad?"
 - T987 · Frente a la puerta de Saori, en pijama y descalza: "¡¿Por qué no me avisaste?! ¡No me peiné!" Levanta el puño, no toca. "¿Y si no se acuerda de mí?"
 - T988 · Toca la puerta. Saori la reconoce y la abraza; Nobara llora a gritos en su hombro.
+- T989 · "Es un idiota. Son todos idiotas. Son mis amigos."

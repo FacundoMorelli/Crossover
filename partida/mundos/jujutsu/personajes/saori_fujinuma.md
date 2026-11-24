@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: viva, sana.
 - T988 · 25/04/2019 07:25 · Abre la puerta; reconoce a Nobara: "¿...Nobara-chan? ¡Estás enorme! ¡Estás descalza!" La abraza. Pregunta quiénes son los demás y cómo llegaron: "Nobara-chan nunca supo mi dirección."
+- T989 · Por Facundo: "Te busqué entre catorce millones. Nada importante." Se ríe, no pregunta más. "Te dije que en Tokio ibas a encontrar gente que te quisiera." Falta al trabajo (primera vez en dos años). Los invita a pasar.

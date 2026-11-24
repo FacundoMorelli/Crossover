@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T986)
-busco a saori
-
-## RESPUESTA 1 (T986)
-
-> busco a saori
-
-Cierras los ojos.
-
-La cocina se va: el olor a café y a huevo quemado, el zumbido de la heladera, la respiración contenida de Nobara a dos metros. Te abres hacia afuera, y desde lo alto, como Dende desde su templo, Japón entero se despliega debajo de ti.
-
-Tokio es un mar. Catorce millones de luces apretadas unas contra otras, que se mueven en ríos por las vías del tren, se amontonan en las estaciones, suben y bajan por los edificios. Ruido. Prisa. Café. Cansancio de jueves.
-
-Buscas.
-
-Una mujer joven. Veinte, veintiuno. Pelo castaño largo, atado con una cinta. Aros chiquitos de plata. Un lunar bajo el ojo izquierdo. Una sonrisa que no le tiene miedo a nada.
-
-Pasas por miles de caras. Por cientos de miles.
-
-La encuentras en Setagaya.
-
-En el segundo piso de un edificio chico de departamentos, de esos de escalera exterior y macetas en los balcones. Una cocina diminuta, con la ventana abierta. Una mujer de veintiún años, en pijama, con el pelo castaño largo todavía suelto, de espaldas a la ventana, sirviéndose café en una taza con dibujos de gatos. Mientras espera que se enfríe, se recoge el pelo con una cinta roja, con dos movimientos rápidos, de memoria. Tiene puestos unos aros chiquitos, de plata. Se da vuelta para agarrar el pan de la tostadora, y la luz de la ventana le da en la cara.
-
-Un lunar chiquito debajo del ojo izquierdo.
-
-Sola. Sana. Tarareando algo que suena en una radio vieja apoyada en la heladera. En la puerta de la heladera, sujetas con imanes, hay fotos: ella con amigos en un festival, ella en una playa, ella en la puerta de una tienda de ropa con un delantal y un cartelito con su nombre. Y en la esquina, medio tapada por un recibo de luz, una foto vieja, doblada en los bordes: dos chicas en un camino de tierra entre arrozales, una más grande y otra muy chiquita, con el pelo castaño y cara de enojada, haciendo el signo de la paz.
-
-Saori le da un mordisco a la tostada. Mira el reloj de la pared. Se apura.
-
-Abres los ojos.
-
-La cocina vuelve. Yuji, con la espátula en la mano. Megumi, quieto en la punta de la mesa. Nanami, con la taza a medio camino de la boca.
-
-Y Nobara, parada frente a ti, con los brazos cruzados tan fuerte que tiene los nudillos blancos, sin respirar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 986 · JUJUTSU · 25/04/2019 · 07:21     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Saori encontrada en Setagaya.      ║
-║ Nobara espera.                               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T987)
+## COMANDO 1 (T987)
 los agarro a los 4 y me teletransporto a fuera de su puerta para que nobara pueda tocar su puerta
 
-## RESPUESTA 2 (T987)
+## RESPUESTA 1 (T987)
 
 > los agarro a los 4 y me teletransporto a fuera de su puerta para que nobara pueda tocar su puerta
 
@@ -119,10 +67,10 @@ Nobara sigue con el puño en el aire.
 
 ---
 
-## COMANDO 3 (T988)
+## COMANDO 2 (T988)
 se va a acordar de ti, ahora toca la puerta
 
-## RESPUESTA 3 (T988)
+## RESPUESTA 2 (T988)
 
 > se va a acordar de ti, ahora toca la puerta
 
@@ -187,4 +135,57 @@ Parpadea, sin soltar a Nobara.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:25, puerta 203 en Setagaya. Nobara tocó; Saori la reconoció y la abrazó; Nobara llora en su hombro. Saori pregunta a Facundo y a los demás quiénes son y cómo llegaron (Nobara nunca supo su dirección). Facundo puede responder.
+## COMANDO 3 (T989)
+te busque entre 14millones de personas, nada importante
+
+## RESPUESTA 3 (T989)
+
+> te busque entre 14millones de personas, nada importante
+
+> —Te busqué entre catorce millones de personas. Nada importante.
+
+Saori se te queda mirando.
+
+Después se ríe. No una risa educada: una carcajada de verdad, que le sale de golpe, con la cabeza echada para atrás y la mano todavía en el pelo de Nobara.
+
+—¡Nada importante! —repite—. ¡Catorce millones! —Se seca los ojos con la muñeca—. Bueno. Si tú lo dices.
+
+No pregunta más. Se le nota en la cara que tiene cien preguntas, y que ninguna le importa tanto como la chica que tiene abrazada.
+
+Nobara se separa de su hombro. Tiene la cara roja, hinchada, llena de lágrimas y mocos, y se está riendo también, sin poder parar.
+
+—Es un idiota —dice, con la voz hecha pedazos, señalándote con el pulgar sin mirarte—. Son todos idiotas. —Se sorbe la nariz—. Son mis amigos.
+
+Saori la mira. Mira a los tres chicos y al hombre de traje en el pasillo. Algo en su cara se ablanda todavía más.
+
+—Tus amigos —repite, despacio. Sonríe—. Te dije que en Tokio ibas a encontrar gente que te quisiera, ¿te acuerdas? En el camino de los arrozales. Te lo dije.
+
+Nobara asiente, sin poder hablar otra vez.
+
+Saori mira la tostada en el piso. La taza de los gatos en el pasillo. El reloj que se ve por la puerta abierta, en la pared de la cocina.
+
+Suspira. Se le escapa media sonrisa.
+
+—Voy a llegar tarde. —Lo dice como quien toma una decisión importante—. No. No voy a llegar. Voy a llamar y decir que estoy enferma. Es la primera vez en dos años, se lo merecen.
+
+Agarra la taza del piso. Abre la puerta del todo.
+
+—Pasen. —Mira a los cinco y al gato, todos apretados en el pasillo exterior—. Es chiquito, son muchos y no tengo sillas para todos. Pero hay café, hay pan y hay un sillón donde entran tres si nadie es muy grande. —Mira a Nobara, a los pies descalzos, y le da un golpecito en la frente con un dedo—. Y tú, pasa primero y lávate esos pies antes de pisarme la alfombra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 989 · JUJUTSU · 25/04/2019 · 07:27     ║
+║ Setagaya · puerta 203, departamento de Saori ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Saori los invita a pasar.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:27, puerta 203 en Setagaya. Saori se rió de "nada importante" y no preguntó más. Nobara llamó a los demás sus amigos. Saori falta al trabajo y los invita a pasar (café, pan, sillón); manda a Nobara a lavarse los pies. Facundo puede actuar.
