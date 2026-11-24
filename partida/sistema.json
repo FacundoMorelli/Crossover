@@ -1,11 +1,11 @@
 {
-  "turno": 872,
+  "turno": 873,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 56 (Grand Line, Archipiélago Sabaody)",
-  "hora": "16:45",
+  "hora": "16:47",
   "edad": 18,
   "nivel": 27,
-  "exp": 219040,
+  "exp": 219840,
   "exp_siguiente_nivel": 240000,
   "fragmentos": 134508,
   "plata_local": {
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 94,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -788,6 +788,20 @@
         "Sin la debilidad del mar",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Haki y esgrima de Silvers Rayleigh",
+      "de": "Silvers Rayleigh",
+      "mundo": "onepiece",
+      "cuando": "T873 (chocó su Haki del Rey con el de Rayleigh a plena potencia y no cedió un paso; Rayleigh retrocedió uno)",
+      "incluye": [
+        "Haki de armadura de nivel avanzado (emisión, interior, cortar sin tocar)",
+        "Haki de observación de Rayleigh",
+        "Haki del Rey de Rayleigh, incluido el recubrimiento (rayos negros)",
+        "Esgrima del primer oficial de Roger",
+        "Todo lo que Rayleigh llega a hacer en el canon",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1063,13 +1077,6 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
-    },
-    {
-      "poder": "Silvers Rayleigh: Haki (armadura, observación y del Rey) y esgrima del primer oficial de Roger",
-      "mundo": "onepiece",
-      "mision": "Chocar tu Haki del Rey con el de Rayleigh a plena potencia y no ceder ni un paso.",
-      "dificultad": "ALTA",
-      "emitida": "T871"
     }
   ],
   "misiones_de_copia_rechazadas": [],

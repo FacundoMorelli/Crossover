@@ -12,3 +12,4 @@ ESTADO: activo
 - T868 · Le cuenta a Facundo lo de Sabaody y la dispersión. "¿Y tú qué vas a hacer, muchacho?"
 - T871 · Le muestra el Haki de armadura (parte una botella sin tocarla) y un hilo de Haki del Rey. Dice que Facundo ya lo tiene: "algo grande y dormido debajo de ese agujero". Misión de copia emitida.
 - T872 · Acepta chocar el Haki del Rey con Facundo en el Grove 1. "Hace veinte años que no hago esto en serio. Cuando quieras, muchacho."
+- T873 · Choca su Haki del Rey con el de Facundo y retrocede un paso. "Hacía veinte años que nadie me hacía retroceder." Pregunta si mañana va a sacar a Ace.

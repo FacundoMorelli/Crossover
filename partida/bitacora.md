@@ -871,3 +871,4 @@ T869 · One Piece · Sabaody · Bar de Shakky. Hachi herido pide perdón.
 T870 · One Piece · Sabaody · Semilla del ermitaño a Hachi: curado. Rayleigh pregunta qué fue eso.
 T871 · One Piece · Sabaody · Rayleigh muestra su Haki. Misión de copia: Rayleigh. "¿Para qué quieres que te enseñe?"
 T872 · One Piece · Sabaody · Grove 1: Rayleigh acepta chocar el Haki del Rey.
+T873 · One Piece · Sabaody · Choque de Haki del Rey con Rayleigh: no cede; Rayleigh retrocede. COPIA Rayleigh (+800 EXP).

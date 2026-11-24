@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T870)
-no te preocupes pez, toma comete esto, saco una semilla y se la doy
-
-## RESPUESTA 1 (T870)
-
-> no te preocupes pez, toma comete esto, saco una semilla y se la doy
-
-> —No te preocupes, pez. Toma, cómete esto.
-
-Abres la mano y aparece una semilla del ermitaño, chiquita, verde, seca como un poroto. Se la pones a Hachi en la palma de una de sus seis manos.
-
-Hachi la mira, se sorbe los mocos y te mira a ti.
-
-—¿Nyu...? ¿Esto qué es?
-
-No espera respuesta. Se la mete en la boca y la mastica, con cara de no entender nada.
-
-El efecto es inmediato.
-
-Se le corta la respiración agitada de golpe. Se le va el color azulado enfermo de la piel y vuelve el rosado de siempre. La fiebre se le cae de la cara como si alguien le hubiera tirado un balde de agua fría. Debajo de la venda, la mancha de sangre deja de crecer.
-
-Hachi se sienta de un salto en la cama. Se toca el hombro con una mano, con dos, con tres.
-
-—¡Nyu! —Se arranca la venda de un tirón y se mira el hombro. Donde estaba el agujero de la bala hay piel lisa, nueva, sin cicatriz—. ¡¿Nyuuu?! ¡No me duele! ¡No me duele nada!
-
-Salta de la cama y aterriza parado. Levanta los seis brazos al techo, como un pulpo bailando, con la cara llena de lágrimas, ahora de alegría.
-
-—¡Estoy entero! ¡Estoy entero, nyu!
-
-En la puerta del cuarto, a Shakky se le cae el cigarrillo de la boca al piso. No lo levanta.
-
-Rayleigh, apoyado en el marco, levanta las cejas por encima de los lentes. Por primera vez desde que lo conociste, parece sorprendido de verdad.
-
-—¿Qué fue eso? —Te mira la mano vacía—. Una bala de un Noble Mundial, con fiebre de tres días. Y en dos segundos... —Ladea la cabeza—. ¿Una fruta? ¿Medicina de dónde?
-
-Antes de que nadie conteste, Hachi te agarra con los seis brazos a la vez y te levanta del piso en un abrazo de pulpo, llorando a mares. Kase tiene que saltar a la cama para no quedar aplastado.
-
-—¡Gracias, nyu! ¡Gracias! ¡Te debo la vida! ¡Te voy a hacer takoyaki gratis para siempre!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 870 · ONE PIECE · DÍA 56 · 16:27       ║
-║ Sabaody · bar de Shakky, cuarto del fondo    ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la cama, a salvo del abrazo         ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Hachi curado. Marineford mañana.   ║
-║ Shingeki: antes del D59 16:30.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T871)
+## COMANDO 1 (T871)
 no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
 
-## RESPUESTA 2 (T871)
+## RESPUESTA 1 (T871)
 
 > no te preocupes, no me debes nada, y es una cosa de los lugares a los que viajo, eh bueno, rayleigh, me enseñas tu haki?
 
@@ -153,10 +97,10 @@ Deja el vaso.
 
 ---
 
-## COMANDO 3 (T872)
+## COMANDO 2 (T872)
 podemos chocar nuestros hakis?
 
-## RESPUESTA 3 (T872)
+## RESPUESTA 2 (T872)
 
 > podemos chocar nuestros hakis?
 
@@ -207,4 +151,89 @@ Hachi se esconde detrás de un árbol.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 56 16:45, Grove 1 de Sabaody (claro abandonado entre raíces, ruinas de un parque). Rayleigh, sin capa, a 20 m, serio: "Cuando quieras, muchacho." Kase en una raíz alta junto a Shakky; Hachi escondido detrás de un árbol. Misión de copia: chocar Haki del Rey con Rayleigh a plena potencia y no ceder.
+## COMANDO 3 (T873)
+ahora
+
+## RESPUESTA 3 (T873)
+
+> ahora
+
+> —Ahora.
+
+No hay aviso.
+
+Rayleigh lo suelta todo de golpe. No es el hilo del bar: es la voluntad entera del primer oficial de Gol D. Roger, que sale de él como una ola negra invisible y viene hacia ti cruzando el claro.
+
+Sueltas la tuya.
+
+Las dos se encuentran en el medio, a diez metros de cada uno, y el mundo cruje.
+
+El aire se parte con un trueno seco. Entre los dos, en el centro del claro, aparecen rayos negros, ramas de electricidad oscura con bordes rojos que saltan de la nada hacia arriba y hacia los costados, chasqueando como látigos. El suelo tiembla. Las raíces gigantes crujen. Todas las burbujas del grove estallan a la vez, cientos, en una lluvia de gotas que brilla al sol de la tarde.
+
+Detrás, la rueda de la fortuna oxidada termina de caerse, con un chirrido largo de metal y un estruendo que levanta polvo.
+
+Detrás de su árbol, Hachi se desmaya con los seis brazos abiertos.
+
+Shakky se agarra de una rama, con el pelo volado hacia atrás, y no suelta el cigarrillo.
+
+Kase, en la raíz alta, ni pestañea.
+
+Rayleigh empuja. Lo ves en su cara: aprieta los dientes, se le marcan las venas del cuello y los ojos le brillan detrás de los lentes. Por un instante, el viejo del bar desaparece y queda un hombre que navegó con el Rey de los Piratas hasta el fin del mundo.
+
+Tú no te mueves.
+
+Ni un paso. Ni medio centímetro. Los borceguíes siguen plantados en el mismo lugar de la tierra donde los apoyaste. El pelo blanco y azul se te sacude por el viento negro, y nada más.
+
+Los rayos negros empiezan a inclinarse. Despacio. Hacia él.
+
+El pie derecho de Rayleigh se arrastra hacia atrás. Un paso. La tierra se le abre en un surco bajo el zapato.
+
+Cortan los dos al mismo tiempo.
+
+Silencio. Gotas de las burbujas rotas cayendo como llovizna. Polvo de la rueda. Una hoja que baja dando vueltas.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER — COMPLETADO               ║
+║ Haki y esgrima de Silvers Rayleigh           ║
+║ USUARIO ORIGINAL: Silvers Rayleigh ·         ║
+║ One Piece                                    ║
+║                                              ║
+║ Armadura avanzada (cortar sin tocar,         ║
+║ emisión, interior) · observación · Haki del  ║
+║ Rey con recubrimiento · esgrima del primer   ║
+║ oficial de Roger · todo lo que llega a hacer ║
+║ DOMINIO: total                               ║
+╚══════════════════════════════════════════════╝
+```
+
+[+800 EXP]
+
+Rayleigh está de pie en el surco que abrió su propio zapato, con la camisa empapada de sudor, respirando fuerte. Se saca los lentes y los limpia con la camisa, despacio. Le tiemblan un poco las manos.
+
+Y se ríe. Primero bajito, después a carcajadas, con la cabeza hacia atrás, como un chico.
+
+—Hacía veinte años que nadie me hacía retroceder. —Se pone los lentes—. Y el último que lo hizo se llamaba Gol D. Roger.
+
+Se le apaga la risa de a poco. Te mira largo, serio, con algo nuevo en la cara.
+
+—Mañana, en Marineford... —Lo dice despacio—. Vas a sacar a ese chico de ahí, ¿no? Al hermano de tu capitán.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 873 · ONE PIECE · DÍA 56 · 16:47       ║
+║ Sabaody · Grove 1, claro abandonado          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en una raíz alta, junto a Shakky       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Marineford mañana (15:00).         ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:47, Grove 1. Choque de Haki del Rey: Facundo no cedió; Rayleigh retrocedió un paso. Copia del Haki y la esgrima de Rayleigh (+800 EXP). Hachi desmayado; la rueda de la fortuna cayó. Rayleigh: "Hacía veinte años que nadie me hacía retroceder... el último fue Gol D. Roger." Pregunta: "Mañana en Marineford... vas a sacar a ese chico de ahí, ¿no?"
