@@ -1,12 +1,12 @@
 {
-  "turno": 810,
+  "turno": 811,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 44 (Grand Line, Thriller Bark)",
-  "hora": "06:45",
+  "hora": "06:52",
   "edad": 18,
-  "nivel": 26,
-  "exp": 214940,
-  "exp_siguiente_nivel": 215000,
+  "nivel": 27,
+  "exp": 215740,
+  "exp_siguiente_nivel": 240000,
   "fragmentos": 134442,
   "plata_local": {
     "jujutsu": {
@@ -45,18 +45,18 @@
       "cambio": "1 Fragmento = 20 monedas de plata de Marley (fijado T519). Un jornal obrero ronda 2-3 monedas."
     }
   },
-  "puntos_de_stat_sin_asignar": 140,
+  "puntos_de_stat_sin_asignar": 145,
   "stats": {
-    "fuerza": 239,
-    "velocidad": 242,
-    "resistencia": 239,
-    "tecnica": 242,
-    "percepcion": 240,
-    "voluntad": 240,
-    "energia": 241,
-    "control": 240
+    "fuerza": 240,
+    "velocidad": 243,
+    "resistencia": 240,
+    "tecnica": 243,
+    "percepcion": 241,
+    "voluntad": 241,
+    "energia": 242,
+    "control": 241
   },
-  "energia_actual_pct": 82,
+  "energia_actual_pct": 64,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -758,6 +758,21 @@
         "Mini Hollow (fantasmas explosivos)",
         "Proyección astral (salir del cuerpo como fantasma)",
         "Ghost Rap, Tokuhollow, y todo lo que Perona llega a hacer",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
+    },
+    {
+      "poder": "Nikyu Nikyu no Mi (poder de Bartholomew Kuma)",
+      "de": "Bartholomew Kuma",
+      "mundo": "onepiece",
+      "cuando": "T811 (recibió en su cuerpo todo el dolor y el daño acumulado de la tripulación entera, sacado por Kuma, y siguió de pie)",
+      "incluye": [
+        "Repeler cualquier cosa con las almohadillas: ataques, aire, personas, incluso cosas intangibles como el dolor, el cansancio o los recuerdos",
+        "Ursus Shock (aire comprimido), Pad Hō (ondas de presión), Tsuppari Pad Hō",
+        "Mandar a alguien volando a cualquier lugar del mundo (viaje de días); viajar él mismo a velocidad de la luz",
+        "Extraer el dolor o el daño de un cuerpo en forma de burbuja",
+        "Todo lo que Kuma llega a hacer en el canon",
         "Sin la debilidad del mar",
         "Dominio total e inmediato"
       ]

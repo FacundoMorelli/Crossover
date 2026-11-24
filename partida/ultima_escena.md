@@ -3,134 +3,10 @@
 
 ---
 
-## COMANDO 1 (T808)
-dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria(hasta que aparezca kuma simula)
-
-## RESPUESTA 1 (T808)
-
-> dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria (hasta que aparezca kuma simula)
-
-El fantasma te atraviesa el pecho como una corriente de aire frío.
-
-Por un instante sientes que algo intenta tirar de ti hacia abajo, una voz chiquita que te dice que no vales nada, que todo da igual. Pasa de largo como agua sobre una piedra.
-
-Sigues exactamente igual.
-
-El fantasma sale por tu espalda, da media vuelta en el aire y te mira, confundido, con la lengua afuera. Se ríe menos.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER — COMPLETADO               ║
-║ Horo Horo no Mi                              ║
-║ USUARIO ORIGINAL: Perona · One Piece         ║
-║                                              ║
-║ MISIÓN: Que un fantasma negativo te          ║
-║ atraviese y no se te baje el ánimo.          ║
-║                                              ║
-║ Negative Hollow · Mini Hollow · cuerpo       ║
-║ astral · todo lo que Perona llega a hacer    ║
-║ DOMINIO: total                               ║
-╚══════════════════════════════════════════════╝
-```
-
-[+800 EXP]
-
-La noche de Thriller Bark es larga.
-
-Levantas a Luffy del barro y lo sacudes hasta que se le pasa la depresión. A los cinco minutos ya está persiguiendo a la araña con cabeza de ratón. En la mansión de la cima los recibe un doctor enano y loco, Hogback, con una actriz muerta que camina y sirve el té con una sonrisa de porcelana. Robin le ve las costuras en el cuello y te aprieta el brazo.
-
-Es la trampa de la casa. Mientras Robin y tú siguen a una sombra por el Wonder Garden, Luffy, Zoro y Sanji, que llegan desde el barco detrás de Nami, se duermen en un salón de la mansión con el gas de Hogback. Un hombre enorme, gris y cornudo, se ríe con un «kishishishi» y les corta las sombras con unas tijeras gigantes. Gecko Moria se las lleva y las mete en tres cadáveres.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Kage Kage no Mi                              ║
-║ USUARIO: Gecko Moria · One Piece             ║
-║                                              ║
-║ MISIÓN: Que Moria intente cortarte la sombra ║
-║ con sus tijeras y no lo logre.               ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Suke Suke no Mi                              ║
-║ USUARIO: Absalom · One Piece                 ║
-║                                              ║
-║ MISIÓN: Encontrar a Absalom invisible y      ║
-║ tocarle el hombro antes de que se dé cuenta. ║
-║ DIFICULTAD: BAJA                             ║
-╚══════════════════════════════════════════════╝
-```
-
-Cuando se despiertan, ya no tienen sombra. Brook les cuenta lo que pasa al amanecer. Les queda hasta que salga el sol.
-
-El resto de la noche, la isla es una guerra.
-
-Hay cientos de zombis en los pasillos, en el bosque y en los patios, soldados podridos con sombras robadas que pelean como piratas vivos. Brook les dice cuál es el secreto: la sal. Y tú tienes el mar entero debajo de la isla.
-
-Levantas el agua de la bahía. Sube por las paredes de piedra en columnas, se arrastra por los patios como una marea viva y entra por las ventanas de la mansión. Los zombis que toca se desarman en el acto: los cuerpos caen como muñecos y de cada boca sale una sombra negra que sale volando por la niebla, buscando a su dueño. Cerberus, el perro de tres cabezas, cae entero en una ola. Caen también los generales zombi, el luchador Jigoro, el perro Inuppe, la araña Tararan y el Capitán John, y con ellos cuatrocientos zombis más en toda la noche. En un pasillo del sótano, un grupo de piratas sin sombra, escondidos del sol hace años, ve volver sus sombras uno por uno y llora de rodillas. Su capitana, una mujer enorme y despeinada llamada Lola, te pide matrimonio a gritos. Robin le dice muy amablemente que no.
-
-[Shio Shio no Mi: maestría 34 → 40]
-
-Las peleas grandes son de los demás.
-
-Zoro se cruza con el samurái de Wano, Ryuma, que tiene la sombra de Brook y una espada negra legendaria. Le gana. Ryuma le entrega la espada antes de deshacerse, y la sombra de Brook vuelve volando a su dueño. Usopp le gana a la princesa de los fantasmas, Perona, porque es tan negativo que los fantasmas no le hacen nada, y la tumba con un martillo de juguete. Sanji caza al invisible Absalom, que quería casarse con Nami a la fuerza, y lo destroza a patadas. Robin y Chopper hacen caer a Hogback en su propia trampa.
-
-Al final, Moria mete la sombra de Luffy en un gigante congelado de quinientos años, Oars. Oars despierta gritando que va a ser el Rey de los Piratas y arrasa la isla. Lola y los suyos le meten a Luffy cien sombras en el cuerpo y se vuelve una pesadilla azul, tres veces su tamaño. Con toda la tripulación peleando a la par, derriban a Oars.
-
-Y cuando la niebla empieza a volverse gris, Moria absorbe él mismo todas las sombras de la isla y se vuelve un monstruo deforme, del tamaño de una montaña.
-
-Luffy, sin fuerzas y sin las sombras prestadas, se levanta igual.
-
-Tú te quedas atrás, con Robin, y lo miras pelear. No te metes.
-
-Gear Second y Gear Third a la vez. El puño gigante, rojo y humeante, se hunde en Moria justo cuando el primer rayo de sol corta la niebla. La torre-mástil de Thriller Bark se derrumba encima de él. Las sombras salen de su cuerpo en un torbellino negro, cientos, miles, y vuelan cada una hacia su dueño a tiempo, mientras la luz del amanecer cubre la isla.
-
-Brook está parado en la explanada, al sol, con su sombra a los pies. Mira la luz y llora sin lágrimas.
-
-A las seis y cuarenta de la mañana, toda la tripulación está tirada entre las ruinas, agotada. Luffy, desmayado, ronca boca arriba. Los Piratas Rolling cantan y bailan alrededor, con sus sombras recuperadas.
-
-Kase, en tu hombro, levanta de golpe la cabeza.
-
-Entre las ruinas, al borde de la explanada, hay un hombre que no estaba ahí un segundo antes. Es enorme, de casi siete metros, tiene una gorra con orejas de oso, un abrigo largo y una Biblia abierta en la mano. Los mira a todos sin expresión.
-
-```
-╔════════════════════════════════════════╗
-║ BARTHOLOMEW KUMA                       ║
-║ Shichibukai · Gobierno Mundial         ║
-║ PODER: Nikyu Nikyu no Mi · sin datos   ║
-║ AMENAZA: ALTA                          ║
-║ Diferencia estimada: x0,25 sobre ti    ║
-║ COPIABLE (no visto en acción)          ║
-╚════════════════════════════════════════╝
-```
-
-[+900 EXP · +420 Fragmentos]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 808 · ONE PIECE · DÍA 44 · 06:40       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 26 · EXP 214.940/215.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, alerta                   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Moria vencido. Llegó Kuma. Salir   ║
-║ de One Piece antes del Día 49.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T809)
+## COMANDO 1 (T809)
 miro a kuma y espero
 
-## RESPUESTA 2 (T809)
+## RESPUESTA 1 (T809)
 
 > miro a kuma y espero
 
@@ -191,10 +67,10 @@ Brook se pone blanco, más blanco que sus huesos.
 
 ---
 
-## COMANDO 3 (T810)
+## COMANDO 2 (T810)
 aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
 
-## RESPUESTA 3 (T810)
+## RESPUESTA 2 (T810)
 
 > aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
 
@@ -257,4 +133,100 @@ Por primera vez, algo se le mueve en la cara. Es mínimo: las cejas, apenas.
 
 ---
 
-ESTADO AL CIERRE: Día 44 06:45. Facundo dejó inconscientes, con suavidad, a todos sus compañeros (Luffy ya lo estaba). Kase junto a Robin. Kuma, con el Ursus Shock todavía en la mano, quieto, pregunta "¿Por qué?". Lola y los Piratas Rolling despiertos, mirando.
+## COMANDO 3 (T811)
+hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
+
+## RESPUESTA 3 (T811)
+
+> hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
+
+> —Hagamos un trato: déjame recibir el daño que recibieron todos, de sus cuerpos. Si lo aguanto, te vas sin la cabeza de nadie.
+
+Kuma se queda mirándote un largo rato. La burbuja late en su palma.
+
+Después cierra la mano despacio y la burbuja se deshace. El aire comprimido se suelta en un suspiro largo que vuelve a llenar la isla y les mueve el pelo a todos los que están dormidos en el pasto.
+
+—Acepto.
+
+Se acerca a Luffy en dos pasos que hacen temblar el piso. Se agacha y le apoya la almohadilla de la mano en el pecho.
+
+Algo sale del cuerpo de Luffy. Es una burbuja roja, enorme, del tamaño de una casa, que tiembla y gotea, oscura y espesa como sangre coagulada. Luffy, dormido, suelta el aire y la cara se le relaja de golpe, sin las arrugas de dolor.
+
+—Este es todo el dolor y todo el cansancio que su cuerpo cargó esta noche. —Kuma lo dice plano, mirando la burbuja—. Contra Moria. Contra el gigante. Contra las cien sombras.
+
+Va uno por uno. Zoro, Sanji, Nami, Usopp, Chopper, Franky, Brook, Robin. De cada uno saca una burbuja roja, más chica, y cada uno respira mejor al instante, como si se le hubiera ido una fiebre. Kuma las junta con la palma, empujándolas contra la de Luffy, y se funden en una sola, más grande todavía, que tapa el sol de la mañana.
+
+Lo mira. Te mira.
+
+—Si un solo hombre recibe todo esto... —Se queda callado un segundo—. Puede morir.
+
+Empuja la burbuja hacia ti.
+
+Te entra en el cuerpo.
+
+El dolor llega todo de golpe. Son los puños de Moria, las cien sombras que desgarran por dentro, los cortes de Ryuma, las patadas, las quemaduras, el veneno, los huesos rotos y los que se rompieron dos veces, el frío de no tener sombra. El cansancio de nueve personas cae entero sobre un solo cuerpo.
+
+La sangre te sale por la boca y por la nariz. Se te abren cortes en los brazos, en el pecho y en la espalda, que no tenías un segundo antes. La ropa se te empapa de rojo. Las piernas se te doblan y una rodilla baja hasta un palmo del piso.
+
+No llega a tocarlo.
+
+Te quedas así, doblado, con los puños cerrados, chorreando sangre sobre el pasto. Y después, despacio, te enderezas.
+
+Quedas de pie.
+
+En el pasto, al lado de Robin, Kase se levanta y se te queda mirando fijo, con las orejas hacia atrás. No se mueve.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER — COMPLETADO               ║
+║ Nikyu Nikyu no Mi                            ║
+║ USUARIO ORIGINAL: Bartholomew Kuma ·         ║
+║ One Piece                                    ║
+║                                              ║
+║ MISIÓN: Recibir en tu cuerpo todo el dolor   ║
+║ de tu tripulación y seguir de pie.           ║
+║                                              ║
+║ Repeler todo (también dolor y cansancio) ·   ║
+║ Ursus Shock · mandar a alguien a cualquier   ║
+║ lugar del mundo · viajar a velocidad de la   ║
+║ luz · todo lo que Kuma llega a hacer         ║
+║ DOMINIO: total                               ║
+╚══════════════════════════════════════════════╝
+```
+
+[+800 EXP]
+
+[Has subido de nivel. NIVEL 27. +1 a todos los stats. +5 puntos de stat.]
+
+Al borde de la explanada, Lola se tapa la boca con las dos manos. Los Piratas Rolling dan un paso atrás.
+
+Kuma te mira de arriba abajo, el charco rojo a tus pies, el sobretodo empapado. Tienes los ojos abiertos y estás de pie.
+
+Durante un momento largo, el gigante no dice nada.
+
+—Trato cumplido.
+
+Se pone el guante. Abre la Biblia. Se da vuelta para irse y se detiene a medio camino, de espaldas.
+
+—Si alguna vez tienes que viajar... —Lo dice sin mirarte—. Piensa adónde te gustaría ir.
+
+Se oye un «pop» seco de aire comprimido y Kuma ya no está.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 811 · ONE PIECE · DÍA 44 · 06:52       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 64% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a Robin, mirándote fijo          ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
+║ One Piece antes del Día 49.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 06:52. Facundo recibió todo el dolor de la tripulación (trato con Kuma), quedó cubierto de sangre pero de pie. Copió Nikyu Nikyu; Nivel 27. Kuma se fue. La tripulación sigue inconsciente y curada; no vio nada. Lola y los Rolling lo vieron todo. Kase mirándolo fijo junto a Robin.
