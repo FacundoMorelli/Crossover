@@ -201,3 +201,4 @@
 - Tripulación, Facundo · T806 · Por Brook: el que roba sombras es Gecko Moria, uno de los Siete Guerreros del Mar; mete las sombras en cadáveres; sin sombra, el sol te desintegra.
 - Moria, Perona, Absalom, Hogback, zombis, Lola y los Piratas Rolling, tripulación · T808 · Ven a Facundo levantar el agua de mar y purificar cientos de zombis; un fantasma de Perona lo atraviesa sin efecto.
 - Tripulación, Facundo · T809 · Por Kuma: el Gobierno ordenó borrar a los testigos de la caída de Moria; perdona a todos por la cabeza de Luffy.
+- Kuma, Lola y los Piratas Rolling · T810 · Ven a Facundo dejar inconsciente a toda su tripulación con un toque, a una velocidad que no siguen.

@@ -77,3 +77,4 @@ ESTADO: activa
 - T800 · Días 38-41 · Días tranquilos con Facundo en Water 7; le roba la malla a Franky con Nami (Hana Hana). Cartel 80M.
 - T801 · Mira el Sunny con Facundo: "Ahora tengo un barco con césped." Franky le hizo una biblioteca.
 - T808 · Noche de Thriller Bark; Facundo la protege; con Chopper vence a Hogback.
+- T810 · Facundo la deja inconsciente con un toque suave en la nuca y la recibe en brazos (frente a Kuma).

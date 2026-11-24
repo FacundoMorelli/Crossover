@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T807)
-bajamos a la isla con robin y luffy
-
-## RESPUESTA 1 (T807)
-
-> bajamos a la isla con robin y luffy
-
-Luffy no espera ni a que bajen la planchada. Estira el brazo hasta una roca de la orilla y sale disparado.
-
-—¡Vamos!
-
-Robin te mira, se encoge de hombros con una media sonrisa y salta detrás de ti a la orilla. Kase se acomoda en tu hombro, todavía erizado.
-
-Desde el Sunny, Nami les grita a los tres que están locos. Usopp grita que alguien tiene que cuidar el barco y que él se ofrece, con Chopper. Zoro se sienta contra el mástil con las espadas cruzadas. Sanji dice que no va a dejar a las damas solas en el barco con un esqueleto pervertido. Franky se queda revisando el casco. Brook los saluda con el sombrero desde la baranda, sin salir de la sombra de la vela.
-
-—¡Tengan cuidado! ¡Yohohoho! ¡Este lugar le da escalofríos hasta a alguien que no tiene piel!
-
-La orilla es de piedra negra y húmeda. Un portón de hierro oxidado, entreabierto, rechina con la brisa. Detrás hay un cementerio: lápidas torcidas, cruces caídas, tierra removida como si alguien hubiera salido de abajo hace poco. Robin se detiene a leer una lápida y frunce el ceño.
-
-—Esta tumba está vacía. Y la de al lado. Y la otra.
-
-Más allá del cementerio empieza el bosque. Los árboles están muertos, negros, retorcidos, y algunos tienen en la corteza formas que parecen caras gritando. La niebla se mete entre los troncos. No canta ningún pájaro.
-
-Entre las ramas pasa algo raro: un zorro con alas de murciélago cosidas al lomo con hilo grueso. Después una araña del tamaño de un perro, con cabeza de ratón, que los mira y se va correteando.
-
-—¡Shishishi! ¡Qué bichos raros! ¡Oye, ven aquí!
-
-Luffy sale corriendo detrás de la araña y, de entre los árboles, sale flotando una figura blanca. Es un fantasma redondo, del tamaño de una cabeza, con dos ojos tristes y la lengua afuera, que se ríe con una vocecita aguda.
-
-—Horo horo horo...
-
-Atraviesa a Luffy de lado a lado, como si fuera humo.
-
-Luffy frena en seco. Se queda quieto. Después cae de rodillas en el barro, con los brazos colgando y la cabeza gacha.
-
-—Quisiera ser una almeja... —murmura, con la voz apagada—. Una almeja en el fondo del mar... Perdón por haber nacido...
-
-Robin se queda mirándolo con los ojos muy abiertos.
-
-—¿Luffy?
-
-De entre la niebla sale un segundo fantasma, igual al primero, con la lengua afuera y riéndose.
-
-—Horo horo horo...
-
-Y viene flotando directo hacia ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 807 · ONE PIECE · DÍA 43 · 23:45       ║
-║ Thriller Bark · bosque de árboles muertos    ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Recuperar la sombra de Brook.      ║
-║ Salir de One Piece antes del Día 49.         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T808)
+## COMANDO 1 (T808)
 dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria(hasta que aparezca kuma simula)
 
-## RESPUESTA 2 (T808)
+## RESPUESTA 1 (T808)
 
 > dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria (hasta que aparezca kuma simula)
 
@@ -191,10 +127,10 @@ Entre las ruinas, al borde de la explanada, hay un hombre que no estaba ahí un 
 
 ---
 
-## COMANDO 3 (T809)
+## COMANDO 2 (T809)
 miro a kuma y espero
 
-## RESPUESTA 3 (T809)
+## RESPUESTA 2 (T809)
 
 > miro a kuma y espero
 
@@ -255,4 +191,70 @@ Brook se pone blanco, más blanco que sus huesos.
 
 ---
 
-ESTADO AL CIERRE: Día 44 06:44. Kuma pidió la cabeza de Luffy; todos se negaron y se pararon (Robin al lado de Facundo). Kuma comprime el aire de la isla en una burbuja con forma de pata de oso (Ursus Shock), más grande que él. Todavía no la soltó. Luffy desmayado en el barro.
+## COMANDO 3 (T810)
+aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
+
+## RESPUESTA 3 (T810)
+
+> aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
+
+> —Aguanta, Kuma.
+
+La burbuja deja de crecer.
+
+Kuma no baja la mano. Tampoco la suelta. Se queda quieto, enorme, con todo el aire de la isla comprimido en la palma, zumbando como un enjambre. Te mira por encima de la burbuja, sin expresión.
+
+Espera.
+
+Pateas el piso.
+
+El primero es Zoro. Apareces detrás de él y le apoyas dos dedos en la nuca, suave, justo donde el cuello se une al cráneo. Los ojos se le ponen en blanco antes de que alcance a darse vuelta. Lo atajas por los hombros y lo dejas sentado contra una piedra, con la Shusui cruzada sobre las piernas.
+
+Sanji, con el cigarro todavía en la boca. Lo atajas y le sacas el cigarro de los labios antes de que se le caiga encima.
+
+Nami, que alcanza a abrir la boca para gritarte. La acuestas de costado en el pasto, con el Clima-Tact al lado.
+
+Usopp, que ya estaba temblando y se desmaya casi solo, del alivio.
+
+Chopper, chiquito, que cabe entero en un brazo. Lo dejas sobre la panza de Luffy.
+
+Franky, pesado como un yunque. Lo apoyas contra el pedazo de mástil caído.
+
+Brook, que es tan liviano que parece de papel. Le acomodas el sombrero.
+
+Y Robin.
+
+Es la única que te ve venir. Se da vuelta justo antes de que la toques y te mira a los ojos, con la boca entreabierta, a punto de decir tu nombre. Los dos dedos se le apoyan en la nuca. Se le cierran los ojos despacio y cae hacia adelante, contra tu pecho. La recibes en brazos.
+
+Todo eso dura menos de dos segundos.
+
+Te arrodillas y la acuestas en el pasto, al lado de los demás. Le sacas el pelo de la cara.
+
+Kase baja de tu hombro y se sienta junto a la cabeza de Robin, como un guardia.
+
+Al borde de la explanada, Lola y los Piratas Rolling te miran sin respirar. Ninguno vio cómo lo hiciste. Solo vieron a nueve personas caer una tras otra, como si se hubieran dormido de golpe.
+
+Kuma sigue con la mano en alto. La burbuja late en su palma.
+
+Por primera vez, algo se le mueve en la cara. Es mínimo: las cejas, apenas.
+
+—¿Por qué?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 810 · ONE PIECE · DÍA 44 · 06:45       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 26 · EXP 214.940/215.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a la cabeza de Robin             ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Moria vencido. Kuma ataca. Salir   ║
+║ de One Piece antes del Día 49.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 06:45. Facundo dejó inconscientes, con suavidad, a todos sus compañeros (Luffy ya lo estaba). Kase junto a Robin. Kuma, con el Ursus Shock todavía en la mano, quieto, pregunta "¿Por qué?". Lola y los Piratas Rolling despiertos, mirando.
