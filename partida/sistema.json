@@ -1,13 +1,13 @@
 {
-  "turno": 890,
+  "turno": 891,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
-  "hora": "13:04",
+  "hora": "13:05",
   "edad": 18,
   "nivel": 27,
-  "exp": 219840,
+  "exp": 220440,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 134506,
+  "fragmentos": 134581,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1516,6 +1516,12 @@
       "turno": 860,
       "quien": "~65 soldados y oficiales del golpe de Calvi (mansión Tybur y casa de Magath) y el general Calvi, dormidos con Haki del Rey, sin heridos",
       "fragmentos": 66
+    },
+    {
+      "mundo": "onepiece",
+      "turno": 891,
+      "quien": "Tres Pacifistas (PX), Marineford, flechas Quincy a la cabeza",
+      "fragmentos": 75
     }
   ],
   "viaje": {

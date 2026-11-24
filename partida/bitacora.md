@@ -889,3 +889,4 @@ T887 · One Piece · Marineford · Se quita el disfraz en el Moby Dick. Marco y 
 T888 · One Piece · Marineford · Semilla del ermitaño a Barbablanca. Se arranca los tubos. "Hoy no me muero."
 T889 · One Piece · Marineford · Con Luffy en el hielo: "Perdón por llegar tarde." Crocodile lo reconoce. "¡Vamos por Ace!"
 T890 · One Piece · Marineford · Semilla a Luffy. Marcas de Manecilla Inversa: I Luffy, II Barbablanca.
+T891 · One Piece · Marineford · Arco Quincy: destruye tres Pacifistas. "¡Vayamos, Luffy!" Akainu lanza un puño de magma a Luffy.

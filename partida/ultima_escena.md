@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T888)
-toma viejo, comete esto, saco una semilla y se la paso
-
-## RESPUESTA 1 (T888)
-
-> toma viejo, comete esto, saco una semilla y se la paso
-
-> —Toma, viejo. Cómete esto.
-
-Abres la mano y aparece una semilla del ermitaño. Se la tiras por el aire, por encima de la cabeza de Squard.
-
-Barbablanca la atrapa con dos dedos enormes. La mira de cerca, chiquita, verde, seca, perdida en la palma de una mano del tamaño de un escudo.
-
-Marco salta de la baranda a la cubierta.
-
-—¡Padre, no! —Se te planta delante, con las llamas azules volviendo a los brazos—. ¡No sabemos quién es! ¡Puede ser veneno!
-
-Barbablanca mira a Marco. Te mira a ti. Mira a Squard, que sigue agarrado de su abrigo.
-
-—Marco. —Lo dice tranquilo—. Este mocoso acaba de parar con dos dedos una espada que iba a mi espalda. Si me quisiera muerto, no necesitaba un poroto.
-
-Y se la come.
-
-Al principio no pasa nada. Mastica una vez, frunce el bigote, como si el sabor no le gustara.
-
-Después se queda quieto.
-
-Las heridas de la mañana, los cortes del brazo, la quemadura de un rayo de Kizaru en el hombro y la sangre seca en el costado, se cierran solas, en un segundo, como si nunca hubieran estado. La respiración, que hasta ese momento le silbaba en el pecho, ronca y corta, se le vuelve larga, profunda, llena. Se le endereza la espalda. Se le cae de los ojos la sombra gris de los años.
-
-Barbablanca se mira las manos. Después se agarra los tubos del hospital que le salen del brazo y se los arranca de un tirón, con los esparadrapos, y los tira por la borda.
-
-Marco se queda con la boca abierta.
-
-El viejo respira hondo, tan hondo que la cubierta cruje. Y ruge.
-
-—¡GURARARARA!
-
-Toda la bahía congelada tiembla. El hielo se raja en líneas largas, como un vidrio pisado.
-
-—¡Hacía diez años que no respiraba así! —Te mira, con los ojos amarillos brillando—. No sé qué fue eso, mocoso. No sé de dónde sacaste un poroto que me saca veinte años de encima.
-
-La sonrisa se le vuelve feroz.
-
-—Pero hoy no me muero.
-
-Levanta la naginata enorme y apunta con la hoja, por encima de la guerra, hacia el cadalso, hacia Ace.
-
-Allá lejos, en la plaza, Akainu empieza a caminar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 888 · ONE PIECE · DÍA 57 · 13:01       ║
-║ Marineford · cubierta del Moby Dick          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Barbablanca entero. Shingeki: antes D59.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T889)
+## COMANDO 1 (T889)
 voy con luffy, hola capitan, perdon por llegar tarde
 
-## RESPUESTA 2 (T889)
+## RESPUESTA 1 (T889)
 
 > voy con luffy, hola capitan, perdon por llegar tarde
 
@@ -129,10 +63,10 @@ Y más atrás, del muro de la plaza hacia la bahía, bajando los escalones despa
 
 ---
 
-## COMANDO 3 (T890)
+## COMANDO 2 (T890)
 le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
 
-## RESPUESTA 3 (T890)
+## RESPUESTA 2 (T890)
 
 > le doy una semilla a luffy, perdon me olvide de algo, voy y le pongo la menecilla inversa a luffy y a barba blanca, no se preocupen no es nada malo, es nada mas para asegurarme por si les pasa algo
 
@@ -197,4 +131,72 @@ El brazo derecho le empieza a gotear magma.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:04, bahía congelada de Marineford. Luffy comió una semilla del ermitaño: entero. Marcas de Manecilla Inversa: I sobre Luffy, II sobre Barbablanca (enteros; vencen el Día 58 13:04). Los tres Pacifistas cargan láser a 30 m. Akainu pisó el hielo (se derrite bajo su pie), mira a Luffy y a Facundo, el brazo le gotea magma.
+## COMANDO 3 (T891)
+saco el arco quincy y les disparo a los pacifistas, vayamos luffy
+
+## RESPUESTA 3 (T891)
+
+> saco el arco quincy y les disparo a los pacifistas, vayamos luffy
+
+Levantas el brazo izquierdo.
+
+El reishi del aire helado de la bahía se junta en tu palma en un segundo, frío y azul, y forma el arco de luz. Tres flechas finas, una al lado de la otra, aparecen tensadas en la cuerda.
+
+Las bocas de los tres Pacifistas brillan al máximo. El zumbido sube hasta un chillido.
+
+Sueltas.
+
+Las tres flechas cruzan los treinta metros en menos de un parpadeo, en tres líneas de luz azul. Cada una se mete de lleno en una boca abierta, justo en el centro de la luz que se estaba juntando.
+
+El láser revienta adentro.
+
+Las tres cabezas de Kuma explotan desde adentro, una después de la otra, en tres fogonazos amarillos que iluminan el hielo. Los cuerpos gigantes se quedan de pie un instante, sin cabeza, echando chispas por el cuello. Después caen de espaldas sobre el hielo con un estruendo de metal, humeando, y no se mueven más.
+
+El arco se deshace en chispas azules.
+
+[+600 EXP · +75 Fragmentos]
+
+La pared de marines que estaba detrás retrocede tres pasos sin que nadie lo ordene. Un oficial deja caer el sable.
+
+Luffy mira los tres Pacifistas tirados en el hielo. Te mira a ti. Se le abre una sonrisa enorme.
+
+> —¡Vayamos, Luffy!
+
+—¡¡SÍ!!
+
+Luffy se agacha. Las piernas se le inflan y se le desinflan, se le pone roja la piel y le sale vapor de todo el cuerpo. Gear Second. Sale disparado hacia la pared de marines como una bala roja. Jinbe corre detrás, Ivankov detrás de Jinbe, y Buggy grita «¡Espérenme!» desde atrás de todo.
+
+Corres a su lado.
+
+Akainu no se movió del borde del hielo. Está parado ahí, con el vapor subiendo a su alrededor, mirando a Luffy acercarse.
+
+Levanta el brazo derecho.
+
+El brazo deja de ser un brazo. Se hincha, se vuelve rojo, negro y naranja, burbujeante, y crece hasta convertirse en un puño gigantesco de magma, más grande que un barco, que derrite el aire alrededor y hace llover gotas de fuego sobre el hielo.
+
+—Sombrero de Paja. —La voz le sale grave, sin una sola emoción—. Hijo de Dragon. Tu sangre no sale de esta isla.
+
+Lanza el puño.
+
+—Dai Funka.
+
+La montaña de magma sale volando en línea recta, por encima del hielo, derritiéndolo todo a su paso en un río de vapor, directo hacia Luffy, que corre de frente y no frena.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 891 · ONE PIECE · DÍA 57 · 13:05       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 220.440/240.000               ║
+║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
+║ Akainu ataca a Luffy.                        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:05, bahía congelada de Marineford. Facundo destruyó los tres Pacifistas con flechas Quincy (+600 EXP, +75 F). Luffy salió en Gear Second hacia la pared de marines con Jinbe, Ivankov y Buggy; Facundo corre a su lado. Akainu lanzó un puño gigante de magma (Dai Funka) directo a Luffy: "Tu sangre no sale de esta isla." El puño está en el aire. Marcas: I Luffy, II Barbablanca.

@@ -231,3 +231,4 @@
 - Barbablanca, Marco, Squard, tripulación del Moby Dick · T888 · Ven a Facundo darle a Barbablanca una semilla que lo deja entero; ven al viejo arrancarse los tubos.
 - Luffy, Jinbe, Ivankov, Mr. 3, Buggy, Crocodile · T889 · Facundo llega junto a Luffy en el hielo: "Hola, capitán. Perdón por llegar tarde." Facundo sabe por Luffy que Kuma mandó lejos a toda la tripulación.
 - Luffy, Jinbe, Ivankov, Crocodile, Buggy, Mr. 3, Barbablanca, Marco · T890 · Ven a Facundo darle a Luffy una semilla que lo cura y tocarlos a Luffy y a Barbablanca "para asegurarse por si les pasa algo". Nadie ve las Marcas (solo se ven con energía maldita).
+- Todos en el frente de la bahía (marines, piratas, Akainu, almirantes; transmisión) · T891 · Ven a Ojos de Eclipse formar un arco de luz azul de la nada y destruir tres Pacifistas con tres flechas.
