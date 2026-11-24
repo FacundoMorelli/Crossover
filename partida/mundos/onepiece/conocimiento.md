@@ -171,3 +171,4 @@
 - Tripulación, familia Franky, Paulie y capataces, CP9 completo, Spandam, Robin, Franky, Usopp, cientos de soldados de Enies Lobby · T745 · Ven a Facundo formar un arco de luz azul de la nada y derribar a flechazos todas las banderas del Gobierno Mundial de la isla. Lo atribuyen a una fruta. Spandam y el CP9 lo informarán al Gobierno.
 - Tripulación, familia Franky, Paulie y capataces, soldados de la Torre · T747 · Ven a Facundo cruzarlos a todos por el aire sobre el abismo (su "fruta").
 - Lucci, Luffy · T752 · Ven a Facundo recibir el Rokuōgan sin moverse ni sangrar. Lucci lo informará si sobrevive.
+- Spandam, Robin, marines de las Puertas de la Justicia · T755 · Ven a Facundo usar Soru (técnica del CP9). Spandam lo reconoce como Rokushiki.

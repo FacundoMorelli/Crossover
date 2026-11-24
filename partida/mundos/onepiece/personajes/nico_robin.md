@@ -53,3 +53,4 @@ ESTADO: activa
 - T716 · Enmascarada en el ataque a Iceburg; se le corre la máscara.
 - T744 · Desde el balcón de la Torre: "¡QUIERO VIVIR! ¡LLÉVENME AL MAR CON USTEDES!". Busca a Facundo con la mirada mientras lo grita.
 - T754 · Puente de la Vacilación · Ve salir a Facundo del túnel. Oye "Buster Call" y se queda blanca.
+- T755 · Facundo la arranca de las manos de Spandam con un Soru. Esposada, sin fuerza, se aferra a él: "Ya viene. Es Ohara otra vez."

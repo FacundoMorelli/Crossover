@@ -11,3 +11,4 @@ ENCUENTROS:
 ESTADO: activo
 - T745 · Facundo derriba las banderas del Gobierno. Spandam: "¡Le declararon la guerra al Gobierno Mundial!"
 - T754 · Puente de la Vacilación · Ve llegar a Facundo, entra en pánico y activa el Buster Call por error con el Den Den Mushi dorado.
+- T755 · Facundo le quita a Robin con un Soru. Cae sentado. "¡Eso es Soru! ¡Técnica del CP9!"

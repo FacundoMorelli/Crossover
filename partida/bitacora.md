@@ -753,3 +753,4 @@ T751 · One Piece · Pasaje subterráneo · Luffy contra Lucci; Lucci en forma h
 T752 · One Piece · Pasaje subterráneo · Recibe el Rokuōgan de frente y sigue de pie. COPIA Lucci (+800 EXP). Lucci retrocede.
 T753 · One Piece · Pasaje subterráneo · Semilla del ermitaño a Luffy. Luffy se queda con Lucci y saca el Gear Third. El túnel, libre para Facundo.
 T754 · One Piece · Puente de la Vacilación · Facundo sale del túnel. Spandam lo ve y activa el Buster Call por error.
+T755 · One Piece · Puente de la Vacilación · Soru: le quita a Robin a Spandam. Robin sigue esposada.
