@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T844)
-es mi compañero, no se separa de mí, coronel
-
-## RESPUESTA 1 (T844)
-
-> es mi compañero, no se separa de mí, coronel
-
-> —Es mi compañero. No se separa de mí, coronel.
-
-Muller sonríe un poco más, apenas.
-
-—Lo recuerdo. —Junta las manos detrás de la espalda—. El señor Morelli. Asesor civil. De las colonias del sur. —Pronuncia cada palabra despacio, como quien lee una ficha—. El mes pasado asesoraba al general Magath. Hoy, al señor Tybur. —Inclina la cabeza—. Es un hombre muy solicitado.
-
-Willy se adelanta medio paso, con la sonrisa social intacta y la voz tranquila.
-
-—El general Magath me lo recomendó, coronel. Para la logística de los embajadores. Veinte delegaciones, veinte protocolos distintos, veinte formas de ofenderse por una silla mal puesta. —Se ríe, ligero—. Necesitaba a alguien que supiera de esas cosas.
-
-—Por supuesto. —Muller saca una libreta chica de cuero del bolsillo del uniforme y anota algo, sin apuro, con un lápiz corto—. Logística.
-
-Guarda la libreta.
-
-—Les informo, por cortesía, que el día de la fiesta la seguridad interna de esta plaza va a estar a mi cargo. —Mira alrededor: el escenario, los palcos, las gradas y, solo por un instante, los techos—. Cada puerta. Cada techo. Cada persona que entre y salga.
-
-Kase, en tu hombro, lo mira fijo con las pupilas finas como hilos. Muller le devuelve la mirada al gato un segundo y después te mira a ti.
-
-—Una última cosa, señor Morelli. —Lo dice suave, casi amable—. La casa del número catorce de la calle del Reloj, donde se alojaba el mes pasado, sigue vacía. Mis hombres pasan todos los días. Nadie entra, nadie sale.
-
-Da un paso hacia ti.
-
-—¿Dónde se aloja ahora?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 844 · SHINGEKI · DÍA 36 · 20:17        ║
-║ Liberio · plaza de la fiesta                 ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, mirando a Muller         ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
-║ Ver la plaza. Muller sospecha.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T845)
+## COMANDO 1 (T845)
 en la casa de los tybur, como asesor de willy
 
-## RESPUESTA 2 (T845)
+## RESPUESTA 1 (T845)
 
 > en la casa de los tybur, como asesor de willy
 
@@ -103,10 +55,10 @@ Los organizadores se acercan con los planos desenrollados. Detrás de ellos, el 
 
 ---
 
-## COMANDO 3 (T846)
+## COMANDO 2 (T846)
 miro el escenario y los techos con el haki
 
-## RESPUESTA 3 (T846)
+## RESPUESTA 2 (T846)
 
 > miro el escenario y los techos con el haki
 
@@ -155,4 +107,54 @@ Willy se separa de los organizadores con una excusa y se acerca, como si fuera a
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 36 20:25, arriba del escenario de la plaza. Haki: hueco debajo del escenario con trampilla; sótano del edificio de ladrillo con ventanas hacia el escenario; seis cañones (cuatro apuntan al atril, dos del fondo apuntan a la primera fila, donde van los cadetes). Un soldado de Muller vigila a Facundo. Willy, bajito: "¿Qué ve?"
+## COMANDO 3 (T847)
+hay seis cañones, dos apuntan a los cadetes
+
+## RESPUESTA 3 (T847)
+
+> hay seis cañones, dos apuntan a los cadetes
+
+> —Hay seis cañones. Dos apuntan a los cadetes.
+
+Willy no se mueve. Sigue mirando la plaza vacía, con la sonrisa social puesta. Pero la cara se le pone blanca de a poco, desde la frente hacia abajo, como si alguien le hubiera abierto una canilla.
+
+Apoya la mano en la baranda de madera del escenario. Los nudillos se le ponen blancos.
+
+—A los cadetes. —Lo repite muy bajo—. ¿Está seguro?
+
+No espera que le contestes. Ya lo sabe.
+
+Se queda callado un momento largo. Los obreros siguen martillando. El organizador gordo grita algo sobre los músicos.
+
+—Los generales no matarían a sus propios cadetes. —Habla despacio, pensando en voz alta—. Son los futuros guerreros. Les costaron años. A menos que...
+
+Se le corta la voz.
+
+—A menos que necesiten un culpable. —Cierra los ojos—. Si algo sale mal esa noche, si la reina de la isla aparece en el escenario, si yo digo algo que no estaba en el guion... disparan a la primera fila. Y después le dicen al mundo, delante de veinte embajadores, que fueron los demonios de Paradis. Que mataron a niños delante de todos.
+
+Abre los ojos. Tiene la mandíbula apretada y algo nuevo en la mirada, algo que no le habías visto: rabia.
+
+—Niños eldianos con brazalete. —La voz le sale ronca—. Para ellos, son munición.
+
+Se da vuelta hacia ti, de espaldas a la plaza, para que nadie le vea la cara.
+
+—Su barrera. —Te agarra la manga del traje—. ¿Puede cubrir también la primera fila? ¿Y los palcos de los embajadores?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 847 · SHINGEKI · DÍA 36 · 20:27        ║
+║ Liberio · escenario de la plaza              ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: caminando por el borde del escenario   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
+║ Plaza: 6 cañones; 2 apuntan a la 1.ª fila.   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 36 20:27, escenario de la plaza. Facundo le dijo a Willy que dos cañones apuntan a los cadetes. Willy dedujo una bandera falsa (disparar a los niños y culpar a Paradis). Furioso. Pregunta si la barrera puede cubrir también la primera fila y los palcos de los embajadores.
