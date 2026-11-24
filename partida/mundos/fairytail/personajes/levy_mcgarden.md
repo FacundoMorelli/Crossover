@@ -11,6 +11,7 @@ ENCUENTROS:
 - T998 · 07:06 · Facundo lo/la baja del árbol y le da una semilla del ermitaño. Despierta curado/a.
 - T999 · Facundo le dice su nombre.
 DIÁLOGOS CLAVE:
+- T1001 · "Fue Gajeel, maestro. Gajeel Redfox, de Phantom Lord."
 - T999 · "Eso no es solo pasar. Ese hierro era de Gajeel." "¿Qué era eso que nos diste?"
 - T998 · "Tú nos bajaste. ¿Quién eres?"
 QUÉ SABE DE FACUNDO: se llama Facundo Morelli (T999, él lo dijo); que los bajó del árbol y los curó con una semilla (T998). No sabe su nombre.

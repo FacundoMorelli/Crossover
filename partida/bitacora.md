@@ -999,3 +999,4 @@ T997 · Jujutsu → Fairy Tail · Puerta en el portón de Kioto (Nanami, reveren
 T998 · Fairy Tail · Parque de la Puerta Sur · Baja a Shadow Gear arrancando el hierro; tres semillas del ermitaño: curados. Levy: "Tú nos bajaste. ¿Quién eres?"
 T999 · Fairy Tail · Parque · "Me llamo Facundo Morelli. Solo pasaba por aquí." Levy: "Eso no es solo pasar." Llega Fairy Tail; Makarov lo mira.
 T1000 · Fairy Tail · Parque · "Los encontré colgados. Ya están bien." Makarov, reverencia: "Gracias por bajar a mis hijos." "¿Viste quién fue?"
+T1001 · Fairy Tail · Parque · "Cuando llegué ya estaban colgados." Levy: Gajeel. Makarov rompe el bastón: "¡ES LA GUERRA!" A Facundo: "Vete de Magnolia unos días."

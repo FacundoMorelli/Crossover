@@ -3,85 +3,10 @@
 
 ---
 
-## COMANDO 1 (T998)
-bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
-
-## RESPUESTA 1 (T998)
-
-> bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
-
-Cruzas el césped. La gente se aparta sin darse cuenta de que se aparta: un forastero de negro, alto, con un gato enorme en el hombro, que camina derecho hacia el árbol como si nadie más estuviera ahí.
-
-—Oiga, muchacho... —empieza el viejo del perro.
-
-Saltas.
-
-No es un salto de mago. Es solo un salto, alto y limpio, y te agarras de una rama gruesa junto a la chica de pelo azul. Kase se queda clavado en tu hombro, con la cola enroscada en tu cuello.
-
-De cerca, el hierro es peor. Los grilletes no tienen cerradura ni bisagra: son una sola pieza que le rodea las muñecas y se hunde en la corteza, y la madera alrededor está astillada, como si los hubieran clavado de un golpe. Cierras la mano sobre el primero y tiras. El hierro chirría, se dobla como una lata y sale de la madera con un crujido seco. Después el segundo. La chica se te cae encima, liviana como un abrigo mojado, y la sostienes con un brazo.
-
-Abajo, alguien grita bajito.
-
-Bajas con ella, la acuestas sobre el pasto con la cabeza apoyada en tu sobretodo doblado y vuelves a subir. El flaco de gorro. El robusto, que pesa el doble y tiene un hombro fuera de lugar. Los tres quedan en fila sobre el césped, bajo la sombra del árbol, con los trozos de hierro retorcido todavía colgando de las muñecas como pulseras rotas.
-
-Nadie dice nada. La panadera tiene las dos manos en la boca.
-
-Sacas tres semillas del ermitaño de adentro del sobretodo. A la vista, salen de un bolsillo.
-
-Están inconscientes y no pueden tragar. Partes cada semilla entre los dedos y se la pones en la boca a cada uno, de a poco, con un poco de agua de la cantimplora. La chica es la primera. Traga por reflejo.
-
-Durante un segundo no pasa nada.
-
-Después le vuelve el color a la cara. Primero a los labios, después a las mejillas. Los moretones de los brazos se aclaran y desaparecen, como tinta en el agua. El corte del labio se cierra. Respira hondo, una vez, con todo el pecho, como quien sale de abajo del agua.
-
-Al flaco el hombro se le acomoda solo con un chasquido. Al robusto se le deshincha la cara.
-
-La chica abre los ojos.
-
-Son marrones y grandes, y miran el cielo a través de las hojas del árbol sin entender nada. Parpadea. Se toca la boca. Se mira la mano, limpia, sin sangre.
-
-—Estoy... —dice, con la voz ronca—. No me duele nada.
-
-A su lado, el flaco se sienta de golpe, como si lo hubieran pinchado.
-
-—¡LEVY! —Gira la cabeza hacia ella—. ¡Levy! ¿Estás bien? ¿Te...?
-
-El robusto se incorpora sobre un codo, mirando para todos lados con los puños apretados.
-
-—¡¿Dónde está?! ¡Ese tipo de hierro! ¡Phantom...!
-
-—Ya no está —dice la panadera desde atrás, con la voz temblando—. Los encontramos así, al amanecer. Colgados del árbol.
-
-Los tres se quedan callados.
-
-Levy baja la vista y ve el emblema pintado en su vestido. Lo toca con dos dedos. La pintura negra le queda en las yemas. Se le aprieta la mandíbula.
-
-Después levanta la cabeza y te mira a ti. Mira el sobretodo doblado debajo de su cabeza, el gato enorme que la mira desde tu hombro con los ojos de distinto color, tus ojos, y los pedazos de hierro arrancados que tienes todavía en la mano.
-
-—Tú nos bajaste —dice. No es una pregunta—. ¿Quién eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 998 · FAIRY TAIL · X784 · DÍA 1 · 07:06║
-║ Magnolia · Parque de la Puerta Sur           ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T999)
+## COMANDO 1 (T999)
 me llamo facundo morelli, solo pasaba por acá
 
-## RESPUESTA 2 (T999)
+## RESPUESTA 1 (T999)
 
 > me llamo facundo morelli, solo pasaba por acá
 
@@ -157,10 +82,10 @@ Por último, te mira a ti.
 
 ---
 
-## COMANDO 3 (T1000)
+## COMANDO 2 (T1000)
 los encontre colgados, ya estan bien, me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1000)
+## RESPUESTA 2 (T1000)
 
 > los encontre colgados, ya estan bien, me llamo Facundo Morelli
 
@@ -214,4 +139,61 @@ Vuelve a mirarte a ti.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:11, Parque de la Puerta Sur. Makarov le agradeció con una reverencia y le pregunta si vio quién fue. Lucy con Levy. Gremio presente. Facundo puede responder.
+## COMANDO 3 (T1001)
+no, cuando llegué ya estaban colgados
+
+## RESPUESTA 3 (T1001)
+
+> no, cuando llegué ya estaban colgados
+
+> —No. Cuando llegué, ya estaban colgados.
+
+Makarov asiente una vez, despacio.
+
+—Fue Gajeel, maestro. —Levy se pone de pie con ayuda de Lucy. Tiene la voz firme, aunque le tiemblan las manos—. Gajeel Redfox, de Phantom Lord. Nos esperó a la salida de la ciudad, anoche. Estaba solo. —Traga saliva—. No pudimos hacer nada. Ni siquiera lo tocamos.
+
+—Se reía —dice Jet, con los ojos en el pasto—. Todo el tiempo.
+
+Droy no dice nada. Tiene los puños tan apretados que le tiemblan los brazos.
+
+Makarov no contesta. Levanta el bastón con las dos manos, delante del pecho, y lo mira como si fuera la primera vez que lo ve. Es de madera vieja, oscura, gastada por los años en el lugar donde la agarra.
+
+Lo parte.
+
+El crujido suena en todo el parque. Las dos mitades caen al pasto, a sus pies.
+
+—Puedo aguantar que destruyan nuestra sede —dice. Ya no habla en voz baja—. Es madera y piedra. Se vuelve a levantar. Pero ningún padre se queda callado cuando le lastiman a sus hijos.
+
+Se da vuelta hacia el gremio. El aire a su alrededor ya no está pesado: arde.
+
+—¡ES LA GUERRA!
+
+El gremio entero estalla. El muchacho de pelo rosado levanta los dos puños y el fuego le sube hasta los codos, tan alto que los vecinos se tiran para atrás. El muchacho sin camisa hace crujir los nudillos y en la palma se le forma escarcha. La mujer pelirroja abre los ojos. Alguien grita "¡Vamos a Oak Town!", y detrás lo repiten diez voces.
+
+—¡Me estoy encendiendo! —grita el de pelo rosado.
+
+—¡Aye, señor! —El gato azul da una vuelta en el aire.
+
+Makarov, en el medio del ruido, se vuelve a mirarte. Por encima de su hombro se ve a Lucy, todavía con Levy del brazo, mirando a su gremio con una cara que no es la de los demás: está pálida.
+
+—Muchacho —dice Makarov. Ya no hay furia cuando te habla a ti, solo cansancio y algo parecido al respeto—. Esto no es asunto tuyo. Phantom va a saber que alguien bajó a mis chicos de ese árbol, y no les va a gustar. —Te mira el hierro en la mano—. Si yo fuera tú, me iría de Magnolia por unos días.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1001 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 07:13 · Magnolia · Parque de la Puerta Sur   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:13, Parque de la Puerta Sur. Makarov declaró la guerra a Phantom Lord; el gremio quiere ir a Oak Town. Makarov le aconseja a Facundo irse de Magnolia unos días. Facundo puede responder.
