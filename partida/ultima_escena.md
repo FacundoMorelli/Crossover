@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T839)
-si, dura lo que yo quiera y cubre todo el escenario
-
-## RESPUESTA 1 (T839)
-
-> si, dura lo que yo quiera y cubre todo el escenario
-
-> —Sí. Dura lo que yo quiera y cubre todo el escenario.
-
-Willy se deja caer en la silla de hierro blanco, como si se le hubieran cortado los hilos. Se ríe, una risa larga, cansada, con los ojos cerrados y la cabeza hacia atrás, contra el respaldo. Tiene el traje mojado de té y no le importa.
-
-—Lo que usted quiera. —Abre los ojos y mira el techo de vidrio empañado—. Hace un mes que no duermo pensando en esos cañones. Y usted me lo resuelve en un desayuno.
-
-Se endereza. Vuelve a ser el hombre de negocios, el que planea.
-
-—Bien. Entonces escuche. —Se inclina sobre la mesa—. Mañana a la noche, el día treinta y seis, voy a revisar la plaza y el escenario con los organizadores. Usted viene conmigo como mi asesor civil, igual que con Magath. Así ve el lugar, las medidas, los techos. Y la barrera la pone la madrugada del día cuarenta, antes de que llegue nadie.
-
-Se queda callado un segundo. Frunce el ceño.
-
-—Pero el escenario es solo una parte. —Lo cuenta con los dedos—. Frente al escenario, en primera fila, van a estar los cadetes guerreros. Chicos de doce, trece años. Detrás, los embajadores de veinte países. Y detrás, miles de eldianos de la zona de internamiento, que traen para que aplaudan. —Le tiembla un poco la voz—. Si los generales disparan, no van a disparar solo al escenario.
-
-La puerta de vidrio del invernadero se abre con un chirrido.
-
-Entra una mujer joven, de pelo oscuro y largo suelto sobre los hombros. Lleva una bata gris y una taza humeante en la mano, y camina despacio, todavía medio dormida, entre los helechos. Se detiene en seco al verte.
-
-Te mira a ti. Mira al gato, que la mira desde el piso, al lado de la pared invisible que todavía gotea té. Mira a su hermano, sentado con el traje mojado.
-
-No grita ni deja caer la taza. Se queda quieta, serena, con los ojos tranquilos.
-
-Y ahora que la tienes a cinco metros, lo sientes con claridad: la presencia densa, pesada y dormida que sentías desde el otro lado del mar sale de ella.
-
-—Willy. —La voz es suave—. ¿Este es el hombre de la isla?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 839 · SHINGEKI · DÍA 35 · 07:24        ║
-║ Liberio · mansión Tybur, invernadero         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: junto a la línea invisible             ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Barrera sobre el escenario. Ver la plaza     ║
-║ mañana a la noche con Willy.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T840)
+## COMANDO 1 (T840)
 si, soy yo, mucho gusto lara
 
-## RESPUESTA 2 (T840)
+## RESPUESTA 1 (T840)
 
 > si, soy yo, mucho gusto lara
 
@@ -107,10 +56,10 @@ Lara levanta los ojos hacia ti. Son oscuros, tranquilos y muy cansados.
 
 ---
 
-## COMANDO 3 (T841)
+## COMANDO 2 (T841)
 creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
 
-## RESPUESTA 3 (T841)
+## RESPUESTA 2 (T841)
 
 > creo que si, puedo intentarlo lara, pero es mejor que no sea ahora
 
@@ -156,4 +105,62 @@ Lara, sin dejar de rascarle la cabeza a Kase, agrega sin levantar la vista:
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:30, invernadero Tybur. Facundo intentará borrar el titán de Lara después de la fiesta; ella aceptó. Cita con Willy: día 36, 20:00, puerta de servicio, vestido de asesor civil marleyano; de ahí a la plaza en el coche de Willy. Lara: "Y traiga al gato."
+## COMANDO 3 (T842)
+me despido y vuelvo a paradis con la teletransportación. simula
+
+## RESPUESTA 3 (T842)
+
+> me despido y vuelvo a paradis con la teletransportación. simula
+
+Te despides de Willy y de Lara en el invernadero. Willy te da la mano con las dos suyas. Lara levanta la taza. Kase vuelve a tu hombro y desaparecen.
+
+En Mitras, Erwin te espera en la misma oficina, como si no se hubiera movido. Le cuentas todo: lo que te dijo Zeke sobre el Martillo y sobre la fiesta, que en su origen era para declarar la guerra; que Willy sigue firme, pero el alto mando no sabe nada y cree que es una declaración de guerra; los cañones en los techos, los cadetes en primera fila, la flota en el puerto; la barrera invisible sobre el escenario; y Lara, que lleva el Martillo y quiere dejar de llevarlo.
+
+Erwin escucha sin interrumpir. Cuando terminas, se queda mirando el mapa de Liberio un largo rato. Después agarra la pluma.
+
+A la tarde reúne a la comitiva entera en el salón grande del palacio. Levi y Zeke se mudan de Trost a Mitras ese mismo día, encadenados, en un carro cerrado. Al día siguiente dibujas de memoria la plaza de Liberio, el escenario y los techos, y Hange y Armin se pasan la tarde entera encima de esos dibujos, discutiendo dónde puede ir cada cañón. Hange llena otro cuaderno.
+
+Desayunas tarde con Historia y con Ymir, como le habías prometido a Ymir. Historia habla sin parar, con Kase en las rodillas. Ymir come tres manzanas y no te mira ni una vez, pero se sienta pegada a ti.
+
+Esa tarde, Historia ensaya el discurso en el salón vacío, delante de Ymir y de ti. Le tiembla la voz las dos primeras veces. La tercera, ya no.
+
+Eren entrena con Levi en el patio hasta que se pone el sol. Mikasa dice que esa noche, por primera vez en tres semanas, Eren durmió de un tirón.
+
+Esa noche, la del día treinta y cinco, Ymir te lleva por una escalera de servicio hasta el techo del palacio, con una bolsa de manzanas robadas de la cocina. Se sientan entre dos chimeneas, mirando las luces de Mitras y las murallas negras a lo lejos. Hablan poco. Ella te tira las manzanas sin avisar para ver si las atrapas. Pasada la medianoche, se queda dormida con la cabeza en tu hombro y la manta sobre los dos. Kase se acuesta en sus piernas.
+
+El día treinta y seis pasa entre preparativos. Pixis manda desde Trost un baúl con ropa de gala y una nota con letra temblorosa: «Para que la reina no parezca una campesina en tierra enemiga».
+
+A las siete y cincuenta y cinco de la noche, en tu cuarto del ala este, te pones el traje de burócrata marleyano: gris oscuro de tres piezas, camisa blanca, corbata gris, zapatos negros, reloj de bolsillo, sombrero de ala corta. Te atas el pelo de dos colores atrás y lo escondes bajo el sombrero lo mejor que puedes. Kase te mira desde la cama con cara de desconfianza y salta a tu hombro igual.
+
+Te llevas dos dedos a la frente.
+
+Liberio de noche huele a carbón, a mar y a fritura de los puestos de la calle. Apareces en un callejón oscuro, a media cuadra de la mansión Tybur, detrás de un muro cubierto de hiedra. Las calles del barrio alto están llenas de banderas nuevas, colgadas de balcón a balcón, y de faroles. Pasan coches negros con banderines de países extranjeros: los embajadores ya están en la ciudad.
+
+A las siete y cincuenta y ocho golpeas la puerta de servicio, al costado de la mansión, la misma de la otra vez.
+
+Se abre enseguida. Willy está del otro lado, con un abrigo largo oscuro y un sombrero que le tapa media cara. Te mira de arriba abajo, el traje, el sombrero y el gato, y asiente, conforme.
+
+—Puntual. —Se acomoda los guantes—. El coche está atrás. El chofer es de confianza: trabajaba para mi padre.
+
+Mira a Kase.
+
+—Lara le manda saludos. Al gato, no a usted.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 842 · SHINGEKI · DÍA 36 · 19:58        ║
+║ Liberio · mansión Tybur, puerta de servicio  ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
+║ Ver la plaza con Willy esta noche.           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 36 19:58, Liberio, puerta de servicio de la mansión Tybur. Facundo con traje de burócrata marleyano y sombrero (pelo atado), Kase en el hombro. Willy abrió de abrigo y sombrero: el coche está atrás, chofer de confianza. Van a ver la plaza y el escenario. Embajadores ya en la ciudad. Faltan 4 días.

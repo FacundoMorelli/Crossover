@@ -64,3 +64,4 @@
 - Días 11-35 · (T822, simulado en ausencia) Paradis prepara la comitiva de Historia a Liberio para la fiesta Tybur (día 40). Ymir vive en el palacio con Historia. Eren entrena con Levi, más callado, con sueños raros. Hange estudia el tramo destruido. En Marley: Willy enciende la vela sin noticias; Magath frena la flota; Muller vigila; los embajadores llegan a Liberio desde el día 33.
 - Día 35 05:58 · (T822) Facundo vuelve por una puerta a la escalinata del palacio de Mitras.
 - Día 14 · (T827, revelado) Ceremonia de medallas en Mitras; Eren besa la mano de Historia y empieza a ver recuerdos del futuro (canon).
+- Día 35 07:30 → día 36 19:58 · (T842) Facundo vuelve a Mitras e informa a Erwin. Levi y Zeke se mudan a Mitras. Hange y Armin estudian la plaza con dibujos de Facundo. Historia ensaya. Noche del 35: Facundo e Ymir en el techo del palacio. Día 36 19:58: Facundo en la puerta de servicio de la mansión Tybur.

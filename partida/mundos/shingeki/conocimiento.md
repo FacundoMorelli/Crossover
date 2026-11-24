@@ -141,3 +141,5 @@
 - Willy · T839 · Por Facundo: la barrera dura lo que él quiera y cubre todo el escenario.
 - Facundo · T840 · Por Lara: heredó el Martillo de Guerra hace cuatro años; le quedan nueve (maldición).
 - Lara · T840 · Ve la pared invisible de Sakaime (mojada de té) y la toca. Sabe por Willy lo de la muralla borrada.
+- Erwin · T842 · Por Facundo: lo de Zeke (Martillo de Guerra de los Tybur, la fiesta era para declarar la guerra), lo de Willy (firme; el alto mando cree que es guerra; cañones; cadetes; flota), la barrera invisible de Sakaime, Lara.
+- Levi, Hange, Armin, Historia, Ymir, Mikasa, Eren, Zeke · T842 · Por Erwin (reunión de la comitiva, día 35 a la tarde): el plan de la barrera sobre el escenario; los cañones del alto mando; el Martillo de Guerra de los Tybur.
