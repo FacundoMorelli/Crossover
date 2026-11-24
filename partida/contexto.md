@@ -1,6 +1,6 @@
 TURNO: 757 | MUNDO: One Piece | Día 36 (Grand Line) | HORA: 07:10 | Lugar: Enies Lobby, en el aire, sobre la Torre de la Justicia
 MOMENTO DEL CANON: Arco de Enies Lobby (cap. ~375): llegada antes que el tren. Ver mundos/onepiece/cronologia.md.
-FACUNDO: 18 años · Nivel 26 · EXP 212.440/215.000 · 134.022 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 85% · Ojos: bien
+FACUNDO: 18 años · Nivel 26 · EXP 212.440/215.000 · 134.022 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 84% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
