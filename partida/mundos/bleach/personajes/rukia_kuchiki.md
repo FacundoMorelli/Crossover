@@ -109,3 +109,4 @@ ESTADO: en Karakura, libre, con sus poderes completos (25/08). Miembro del equip
 - T1036 · "Los Arrancar sellan su poder verdadero dentro de la espada. Sin ella, no puede liberar su resurrección. Va a querer recuperarla. Y va a volver a buscarla."
 - T1037 · "También le devolvemos su resurrección. Kurosaki la puede aguantar, pero el pueblo no sé."
 - T1038 · "Es como una mariposa del infierno. Pero al revés. Para que nosotros te avisemos a ti."
+- T1039 · Despedida: "idiota", más bajito; le acomoda la bufanda a Kase.

@@ -33,3 +33,4 @@ ESTADO: observando a Ichigo.
 - T1036 · "Bueno. Eso fue... eficiente." "Su zanpakutō. Se quedó aquí."
 - T1037 · "Si la guardas tú, no la encuentra nadie. Te vi sacar las espadas de ningún lado." "Urahara la va a abrir en dos para ver qué tiene adentro."
 - T1038 · "No lo aprietes por cualquier cosa, Kurosaki. Ni para pedirle revancha."
+- T1039 · "Cuídate... más o menos."

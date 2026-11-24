@@ -104,3 +104,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1036 · vieron a Facundo tirar a Grimmjow por la Garganta. Saben que la zanpakutō de Grimmjow quedó en el árbol.
 - Ichigo, Rukia, Orihime, Chad, Uryū · T1038 · Facundo se va a hacer algo, sin saber cuándo vuelve; les deja la espada de Grimmjow (para Urahara) y le da a Ichigo un botón plateado: si lo aprietan, Facundo sabe que están en peligro (él lo dijo). Lo toman por un artefacto de aviso ("una mariposa del infierno al revés").
 - Karin · T1038 · vio a Facundo subir y golpear a Grimmjow; promete no contarlo.
+- Ichigo, Rukia, Orihime, Chad, Uryū, Karin · T1039 · vieron a Facundo abrir una puerta de luz en la plaza de la feria y cruzarla (21/12 21:26).

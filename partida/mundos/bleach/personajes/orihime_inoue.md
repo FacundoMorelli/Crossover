@@ -21,3 +21,4 @@ ESTADO: rescatada por Urahara.
 - T1033 · 21/12 · Feria: dulce de batata con mantequilla de maní.
 - T1037 · "¿Y si se la damos a Urahara-san? Él sabe guardar cosas."
 - T1038 · "Vas a volver, ¿verdad? Aunque sea en mucho tiempo."
+- T1039 · Despedida: lo abraza rápido y se aparta roja.

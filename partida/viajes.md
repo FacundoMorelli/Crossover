@@ -159,3 +159,17 @@
 - Fairy Tail: salida X784 Día 3 18:25, explanada del río de Magnolia (Fairy Tail vio la Puerta). Corre.
 - Bleach: CUARTO REGRESO 18/12 10:40 (~80 d 16 h después de irse el 28/09 18:42), orilla del río de Karakura.
 - Jujutsu, Shingeki, One Piece, Dragon Ball, Black Clover: corren.
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 8 | Hunter x Hunter | Día 1, 16:13 | Arco 8: día del duelo Hisoka vs. Chrollo (cap. ~351) | Que Shalnark y Kortopi sigan vivos cuando zarpe el Black Whale. | ACTIVA |
+
+## RELOJES (actualizado T1039)
+- Bleach: cuarta salida 21/12 21:26, plaza de la feria navideña de Karakura (vieron la Puerta). Ichigo tiene un botón de aviso. Corre.
+- Hunter x Hunter: llegada Día 1 16:13, avenida frente a la Torre Celestial.
+- Fairy Tail, Jujutsu, Shingeki, One Piece, Dragon Ball, Black Clover: corren.
+
+### Hunter x Hunter
+- MISIÓN: Que Shalnark y Kortopi sigan vivos cuando zarpe el Black Whale.
+- RECOMPENSA: 10.000 EXP · 300 Fragmentos
+- VENCE: nunca · CAMBIADA: no

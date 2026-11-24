@@ -12,4 +12,4 @@ DIÁLOGOS CLAVE:
 - T1038 · Le devuelve a Kase. "Vi lo que hiciste allá arriba. No le voy a contar a nadie."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1033).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: activa; en la feria con Kase en brazos (lo atajó), vio a Facundo golpear a Grimmjow (T1035).
+ESTADO: activa; vio a Facundo golpear a Grimmjow y abrir la Puerta (T1035-T1039); guarda el secreto.

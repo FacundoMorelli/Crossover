@@ -93,3 +93,4 @@
 - 21/12 21:17 · (T1035) Facundo deja inconsciente a Grimmjow sobre la feria.
 - 21/12 21:19 · (T1036) Facundo arroja a Grimmjow inconsciente por la Garganta a Hueco Mundo. Su zanpakutō queda clavada en el árbol de la feria.
 - 21/12 21:24 · (T1038) Facundo le da a Ichigo un botón de aviso y anuncia que se va.
+- 21/12 21:26 · (T1039) Facundo se despide y cruza una Puerta en la plaza de la feria (cuarta salida).

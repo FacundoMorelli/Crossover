@@ -1037,3 +1037,4 @@ T1035 · Bleach · Feria · Grimmjow inconsciente de un puñetazo (mandíbula ra
 T1036 · Bleach · Feria · Tira a Grimmjow por la Garganta. Su zanpakutō quedó clavada en el árbol. Rukia: "Va a volver a buscarla."
 T1037 · Bleach · Feria · "¿Quieren que la guarde?" Uryū sí; Ichigo no (que venga a pelearlo); Orihime: Urahara. Chad: "Es tuya. Tú decides."
 T1038 · Bleach · Feria · "Dénsela a Urahara. Me tengo que ir." Botón de aviso a Ichigo. Karin: "No le voy a contar a nadie." Ichigo: "Vuelve. Y avisa antes de irte."
+T1039 · Bleach → Hunter x Hunter · Despedida en la feria; Puerta. Avenida frente a la Torre Celestial: HISOKA vs. CHROLLO hoy 18:00. Don: Libro de Deudas. Misión: que Shalnark y Kortopi sigan vivos al zarpar el Black Whale.
