@@ -43,3 +43,4 @@
 - Día 1 09:11 · (T1010) Facundo deja inconsciente a Gajeel. CAMBIO: Gajeel fuera de combate en el primer asalto. Arriba, Makarov frente a la proyección de Jose; Aria se le acerca por detrás (canon, a punto del Metsu).
 - Día 1 ~08:30-09:00 · Juvia y Sol capturan a Lucy en Magnolia (canon; Facundo se entera por Jose en T1011).
 - Día 1 09:12 · (T1011) CAMBIO: Facundo frena el Metsu de Aria; Makarov conserva su magia.
+- Día 1 09:13 · (T1012) Facundo vence a Aria y rescata a Lucy de la torre (CAMBIO: en el canon Lucy escapaba sola saltando de la torre y Natsu la atrapaba). Jose sabe el nombre de Facundo.

@@ -9,7 +9,8 @@ RELACIÓN CON FACUNDO: enemigo.
 ENCUENTROS:
 - T1011 · Día 1 09:12 · Último piso de Phantom: Facundo frena el Metsu de Aria sobre Makarov.
 DIÁLOGOS CLAVE:
+- T1012 · "Facundo Morelli." (memoriza su cara)
 - T1011 · "...la heredera Heartfilia ya está en nuestras manos, Makarov. Fufufu." "Vaya. ¿Y tú quién eres?"
-QUÉ SABE DE FACUNDO: lo vio aparecer volando y frenar a Aria (T1011). No sabe su nombre.
+QUÉ SABE DE FACUNDO: lo vio aparecer volando y frenar a Aria (T1011). Su nombre, Facundo Morelli (T1012, él lo dijo). Lo vio vencer a Aria y teletransportarse (T1012).
 QUÉ PODERES DE FACUNDO VIO: vuelo; frenó el Metsu sujetando a Aria (T1011).
 ESTADO: Proyección en la sala; su cuerpo en otro lugar de la sede.

@@ -3,97 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1009)
-uso mi magia de constelacion viva, hagan el trabajo ustedes
-
-## RESPUESTA 1 (T1009)
-
-> uso mi magia de constelacion viva, hagan el trabajo ustedes
-
-No le contestas a Gajeel.
-
-Levantas una mano y trazas en el aire.
-
-El dedo deja una estrella donde pasa: un punto de luz blanca, frío y duro como un diamante, que se queda flotando delante de ti. Después otra. Después otra, unida a la primera por una línea finísima de luz celeste. Lo haces rápido, sin mirar, como quien firma su nombre. Nueve estrellas, doce, quince. Una cabeza, un lomo, cuatro patas, una cola.
-
-Cierras la figura.
-
-[Constelación Viva.]
-
-Las estrellas se encienden todas juntas, y la figura se llena de luz desde adentro. Ya no son puntos ni líneas: es un cuerpo. Un lobo del tamaño de un caballo, hecho de luz estelar sólida, con el pelaje lleno de chispas plateadas que se mueven como polvo en un rayo de sol, y los ojos, dos estrellas azules. Pisa las baldosas y las baldosas se escarchan.
-
-No te detienes. Con la otra mano trazas una segunda figura, más alta, de pie: un guerrero de dos metros y medio con armadura, una lanza larga y un escudo redondo, todo de luz, con una corona de cinco estrellas en la cabeza. La tercera la trazas hacia arriba, hacia las vigas, larga y ondulada: una serpiente con alas, de veinte estrellas, que se enrosca en el aire debajo del techo.
-
-Tres constelaciones. Te bajas la mano.
-
-Las tres te miran un instante, esperando.
-
-Y van.
-
-El lobo sale primero. Cruza el salón en dos saltos, se mete entre una fila de magos de Phantom que cargaban contra los de Fairy Tail y los barre como a bolos. Muerde un escudo mágico y el escudo se deshace. El guerrero camina, no corre, y cada vez que alguien de Phantom levanta una espada o lanza un hechizo, el escudo de luz se pone delante, absorbe el golpe y la lanza contesta con el asta, seca, y el mago cae. La serpiente baja en picada desde las vigas, pasa rozando las mesas y deja una estela de luz que tumba a una docena de una sola vez.
-
-No matan a nadie. Los tiran, los desarman, los dejan en el piso.
-
-El salón cambia de ritmo. Los de Phantom ya no atacan: retroceden. Algunos tiran las armas y salen corriendo hacia las escaleras. Los de Fairy Tail se quedan con los puños en alto mirando cómo un lobo de estrellas pasa a su lado, les olfatea la marca del gremio y sigue de largo.
-
-—¡¿Espíritus celestiales?! —grita alguien de Fairy Tail—. ¡¿Sin llave?!
-
-—¡Eso no es de Lucy! —grita otro.
-
-—¡ES DE HOMBRES! —grita Elfman.
-
-Gray se queda mirando al guerrero, con la mano todavía congelada, sin decir nada. Erza, en el medio del salón, con una espada en cada mano y tres enemigos a sus pies, gira la cabeza hacia la serpiente, después hacia ti, y se le estrechan los ojos.
-
-Desde arriba, gigante, Makarov también te mira. Un segundo nada más. Después aplasta a dos magos con la palma, se encoge de golpe a su tamaño normal y grita:
-
-—¡Erza, quedas a cargo! ¡Voy por Jose!
-
-Sube las escaleras de a tres escalones.
-
-Delante de ti, Gajeel no se movió.
-
-El lobo vuelve a tu lado y se le planta enfrente, con las orejas de luz hacia atrás, gruñendo un sonido que parece hielo que se rompe. Gajeel lo mira. Mira al guerrero, que se para del otro lado. Mira la serpiente, que se enrosca en una columna detrás de él.
-
-Se le borra la sonrisa.
-
-Su brazo derecho cambia. La piel se vuelve gris, después negra, se estira, se endurece, y en un segundo ya no tiene brazo: tiene una columna de hierro macizo, larga como una viga.
-
-—¡Garrote del Dragón de Hierro!
-
-Lo descarga contra el lobo.
-
-El lobo abre la boca y lo atrapa con los dientes en el aire. El hierro chirría. Gajeel empuja, con los pies hundiéndose en las baldosas, y no lo mueve. El lobo tampoco lo suelta.
-
-Gajeel gira la cabeza hacia ti, con la vena del cuello hinchada y los dientes apretados.
-
-—¡¿Me vas a mandar a tus perritos de luz?! —ruge—. ¡Pelea tú, cobarde!
-
-[Rivales vencidos: 41 magos de Phantom Lord. +1.230 EXP · +41 Fragmentos.]
-
-[Constelación Viva: maestría 30 → 31.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1009 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:09 · Oak Town · sede de Phantom Lord      ║
-║ NIVEL 27 · EXP 224.000/240.000               ║
-║ FRAGMENTOS 107.537 · 0 jewel                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: La guerra contra Phantom           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1010)
+## COMANDO 1 (T1010)
 le doy un golpe a Gajeel y lo dejo inconsciente
 
-## RESPUESTA 2 (T1010)
+## RESPUESTA 1 (T1010)
 
 > le doy un golpe a Gajeel y lo dejo inconsciente
 
@@ -163,10 +76,10 @@ Makarov no la siente.
 
 ---
 
-## COMANDO 3 (T1011)
+## COMANDO 2 (T1011)
 subo volando y freno a Aria antes de que toque a Makarov
 
-## RESPUESTA 3 (T1011)
+## RESPUESTA 2 (T1011)
 
 > subo volando y freno a Aria antes de que toque a Makarov
 
@@ -244,4 +157,95 @@ Frente a ustedes, la sonrisa de Jose se congela.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:12, último piso de Phantom. Facundo tiene a Aria agarrado de las muñecas (Metsu frenado). Makarov salvado. Jose (proyección) dijo que tienen a Lucy y le pregunta a Facundo quién es. Facundo puede responder.
+## COMANDO 3 (T1012)
+me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
+
+## RESPUESTA 3 (T1012)
+
+> me llamo Facundo Morelli, y dejo inconsciente a Aria, me teletransporto a donde esta lucy la salvo y la traigo con los demas
+
+> —Me llamo Facundo Morelli.
+
+Aprietas las muñecas de Aria y tiras de él hacia abajo, hacia ti. El gigante se inclina, sorprendido, con la cabeza vendada a tu altura, y le das con la frente en la cara.
+
+Un golpe seco. El sombrero de copa sale volando y rueda por el piso de piedra. Aria se queda tieso un segundo, todavía colgado de tus manos, con la boca abierta y las lágrimas cortadas a la mitad.
+
+Después se desploma. Tres metros de hombre caen de espaldas sobre las baldosas, y el candelabro del techo se sacude.
+
+[Rival vencido: Aria (Element 4). +800 EXP · +25 Fragmentos.]
+
+Jose da un paso atrás. Un paso de proyección, sin ruido, que no levanta polvo.
+
+—Facundo Morelli —repite. Ya no sonríe. Te mira la cara, los ojos, el gato. Está memorizando.
+
+Makarov abre la boca para decir algo.
+
+No te quedas a escucharlo.
+
+Buscas. Es fácil: en todo el edificio, entre cien presencias asustadas que corren por las escaleras, hay una que está quieta, chiquita y dormida, encerrada entre muros. Está en lo alto de una torre, al otro lado de la sede, y al lado tiene otras dos presencias, de pie.
+
+Desapareces.
+
+Apareces en una celda redonda de piedra, con una ventana de barrotes por donde entra el viento. Lucy está en el piso, sobre un colchón de paja, con las manos atadas a la espalda y el pelo mojado pegado a la cara. Duerme, o la durmieron. Tiene la ropa empapada, como si la hubieran sacado de un río.
+
+Junto a la puerta de la celda, del lado de adentro, hay dos personas.
+
+Una es una chica pálida, de pelo azul ondulado, con un sombrero ruso y un abrigo largo; lleva un paraguas rosado cerrado en la mano, y a su alrededor el aire huele a lluvia. La otra es un hombre flaco con un monóculo y bigote fino, parado en una posición imposible, con el cuerpo doblado hacia un costado como una planta.
+
+╔════════════════════════════════════════╗
+║ JUVIA LOCKSER                          ║
+║ Element 4 de Phantom Lord (agua)       ║
+║ PODER: Cuerpo de Agua                  ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x120 sobre ella║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+╔════════════════════════════════════════╗
+║ SOL                                    ║
+║ Element 4 de Phantom Lord (tierra)     ║
+║ PODER: Magia de Arena y Tierra         ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x120 sobre él ║
+║ COPIABLE · MISIÓN: BAJA                ║
+╚════════════════════════════════════════╝
+
+Te ven aparecer de la nada en el medio de la celda.
+
+—¡¿Non?! —dice el del monóculo.
+
+La chica de pelo azul no dice nada. Abre la boca y no le sale ningún sonido.
+
+Te agachas, levantas a Lucy en brazos, con las manos todavía atadas, y desapareces otra vez antes de que alguno de los dos se mueva.
+
+Apareces en el salón principal, en el medio de Fairy Tail.
+
+Hay un segundo de silencio total. Natsu, que estaba discutiendo con Erza al pie de la escalera, se da vuelta y te ve: tú, de pie entre las mesas rotas, con Kase en el hombro y Lucy dormida en los brazos.
+
+—¡¿LUCY?!
+
+El grito retumba en todo el salón.
+
+Lucy se mueve. Frunce la cara, parpadea, abre los ojos. Lo primero que ve es tu cara, desde abajo, muy cerca. Después a Kase, que la mira desde tu hombro con los ojos de distinto color. Después el techo de un salón que no conoce.
+
+—¿Eh...? —murmura, con la voz pastosa—. ¿Dónde...? ¿Quién eres tú?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1012 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:13 · Phantom Lord · salón principal       ║
+║ NIVEL 27 · EXP 225.700/240.000               ║
+║ FRAGMENTOS 107.587 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:13, salón principal de Phantom. Facundo trajo a Lucy desde la torre; despierta en sus brazos y le pregunta quién es. Natsu gritó su nombre. Makarov arriba con la proyección de Jose. Facundo puede responder.

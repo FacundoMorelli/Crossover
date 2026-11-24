@@ -8,8 +8,9 @@ PERSONALIDAD Y FORMA DE HABLAR: Llora por todo; 'qué triste'.
 RELACIÓN CON FACUNDO: enemigo.
 ENCUENTROS:
 - T1011 · Día 1 09:12 · Último piso de Phantom: Facundo frena el Metsu de Aria sobre Makarov.
+- T1012 · Facundo lo deja inconsciente de un cabezazo.
 DIÁLOGOS CLAVE:
 - T1011 · "Qué triste..." "¿Q-qué...? No lo sentí venir. No sentí... nada."
 QUÉ SABE DE FACUNDO: lo vio aparecer volando y frenar a Aria (T1011). No sabe su nombre.
 QUÉ PODERES DE FACUNDO VIO: vuelo; frenó el Metsu sujetando a Aria (T1011).
-ESTADO: Agarrado de las muñecas por Facundo.
+ESTADO: inconsciente en la sala del último piso (T1012, cabezazo de Facundo).

@@ -1010,3 +1010,4 @@ T1008 · Fairy Tail · Sede de Phantom · Para el hacha con una mano y tumba al 
 T1009 · Fairy Tail · Sede de Phantom · Constelación Viva: lobo, guerrero, serpiente alada; 41 vencidos. Makarov sube por Jose. El lobo atrapa el garrote de Gajeel: "¡Pelea tú, cobarde!"
 T1010 · Fairy Tail · Sede de Phantom · Gajeel inconsciente de un golpe. Misión de copia (hierro). Natsu: "¡Ese era mío!" Facundo siente a Aria detrás de Makarov.
 T1011 · Fairy Tail · Último piso de Phantom · Sube volando; frena el Metsu de Aria agarrándole las muñecas. Jose (proyección): tienen a Lucy. "¿Y tú quién eres?"
+T1012 · Fairy Tail · Phantom · "Me llamo Facundo Morelli." Aria inconsciente. Teletransporte a la torre: Lucy rescatada frente a Juvia y Sol. Al salón: "¡¿LUCY?!" Lucy: "¿Quién eres tú?"

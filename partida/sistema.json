@@ -1,13 +1,13 @@
 {
-  "turno": 1011,
+  "turno": 1012,
   "mundo_actual": "fairytail",
   "fecha_local": "X784, julio · Día 1",
-  "hora": "09:12",
+  "hora": "09:13",
   "edad": 18,
   "nivel": 27,
-  "exp": 224900,
+  "exp": 225700,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107562,
+  "fragmentos": 107587,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -61,7 +61,7 @@
     "energia": 3992,
     "control": 3991
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1620,6 +1620,13 @@
       "turno": 1010,
       "fragmentos": 25,
       "exp": 900
+    },
+    {
+      "mundo": "fairytail",
+      "quien": "Aria (Element 4, Phantom Lord)",
+      "turno": 1012,
+      "fragmentos": 25,
+      "exp": 800
     }
   ],
   "viaje": {

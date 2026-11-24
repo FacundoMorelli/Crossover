@@ -26,3 +26,7 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Natsu, Happy, Erza, Gray, Elfman, Fairy Tail y los de Phantom que huyen · T1010 · vieron a Facundo dejar inconsciente a Gajeel de un solo golpe (le rompió las escamas de hierro). Los que huyen lo van a contar.
 - Natsu, Happy, Erza y Fairy Tail del salón · T1011 · vieron a Facundo volar (subir por el hueco de la escalera sin tocar nada). Magos de Phantom en la escalera también.
 - Makarov, Aria, Jose (por su proyección) · T1011 · vieron a Facundo aparecer flotando y frenar el Metsu de Aria agarrándole las muñecas; Aria no lo sintió venir (Velo). Ninguno sabe su nombre todavía (Makarov sí).
+- Jose Porla (proyección) y Makarov · T1012 · su nombre: Facundo Morelli (él lo dijo). Jose memoriza su cara, sus ojos y el gato. Ambos lo vieron dejar inconsciente a Aria de un cabezazo y desaparecer (teletransporte).
+- Juvia y Sol · T1012 · lo vieron aparecer de la nada en la celda de la torre, levantar a Lucy y desaparecer. No saben su nombre. Van a informar a Jose.
+- Fairy Tail del salón (Natsu, Happy, Erza, Gray, Elfman y otros) · T1012 · lo vieron aparecer de la nada con Lucy en brazos (teletransporte).
+- Lucy · T1012 · despierta en sus brazos; no lo conoce (no estuvo en el salón ni lo vio antes salvo en el parque de lejos: lo vio en el parque de Magnolia, T999-T1002, pero no habló con él).
