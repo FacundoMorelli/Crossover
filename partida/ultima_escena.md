@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T876)
-ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
-
-## RESPUESTA 1 (T876)
-
-> ah perdon me olvide, si lo voy a salvar, tengo que estar al lado de mi capitan en algo asi, no lo puedo dejar solo
-
-> —Ah, perdón, me olvidé. Sí, lo voy a salvar. Tengo que estar al lado de mi capitán en algo así. No lo puedo dejar solo.
-
-Rayleigh se detiene entre dos raíces.
-
-Se da vuelta despacio. Te mira por encima de los lentes, largo. Y sonríe, con una sonrisa tranquila, cansada y contenta, la de un viejo que acaba de oír algo que esperaba oír.
-
-—Esa es la respuesta correcta.
-
-Vuelve dos pasos hacia ti. Baja la voz, como si los árboles pudieran escuchar.
-
-—Entonces escúchame bien, porque te lo voy a decir una sola vez. Mañana en esa plaza van a estar los tres almirantes. Kizaru es rápido. Aokiji, ya lo conoces, por lo que dicen los diarios. —Se le endurece la cara—. Pero el que tienes que vigilar es Akainu. Magma. No perdona nada, no negocia nada y no se detiene nunca. Y odia a los que llevan la D en el nombre.
-
-Hace una pausa.
-
-—Tu capitán lleva una. Y el chico que van a ejecutar también.
-
-Kase, en tu hombro, mueve la cola una sola vez.
-
-Rayleigh se acomoda la capa.
-
-—Y una cosa más. —Se da vuelta otra vez hacia el bar—. Cuando todo esto termine... si tu capitán sigue vivo, tráelo aquí. O dile que lo espero. Tengo algunas cosas que enseñarle.
-
-Sigue caminando entre las raíces, con Shakky al lado, fumando. Hachi corre detrás de ellos con los seis brazos agitándose, gritando ingredientes de takoyaki.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 876 · ONE PIECE · DÍA 56 · 16:52       ║
-║ Sabaody · Grove 1, claro abandonado          ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace mañana, al lado de    ║
-║ Luffy. Shingeki: antes del D59 16:30.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T877)
+## COMANDO 1 (T877)
 voy a descansar hasta mañana
 
-## RESPUESTA 2 (T877)
+## RESPUESTA 1 (T877)
 
 > voy a descansar hasta mañana
 
@@ -107,10 +59,10 @@ Rayleigh deja la taza en el platito.
 
 ---
 
-## COMANDO 3 (T878)
+## COMANDO 2 (T878)
 voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme(dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
 
-## RESPUESTA 3 (T878)
+## RESPUESTA 2 (T878)
 
 > voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme (dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
 
@@ -180,4 +132,66 @@ Hachi se despierta de golpe sobre la mesa, ve el uniforme blanco y salta hacia a
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:10, bar de Shakky. Facundo compró un uniforme de marine raso (1 F), recibió la habilidad "Pelo a voluntad" (R12) y bajó con el pelo negro corto y la gorra. Shakky: "Casi. Los ojos de dos colores y la cicatriz se ven igual. Y el gato te delata, querido." Rayleigh se rió. Hachi lo confundió con un marine. Kase a sus pies, ofendido. Ejecución de Ace hoy a las 15:00.
+## COMANDO 3 (T879)
+compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
+
+## RESPUESTA 3 (T879)
+
+> compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
+
+Vuelves a abrir la tienda.
+
+[Lentes de contacto de color, par — 1 Fragmento.]
+
+Aparecen en tu mano en un estuche chico de nácar. Te los pones con cuidado, frente al vidrio de una vitrina del bar. El rojo carmesí y el azul hielo desaparecen detrás de un marrón común, opaco, de cualquiera.
+
+Shakky asiente despacio, aprobando.
+
+—Mejor.
+
+Te agachas hacia Kase, que sigue sentado a tus pies con la cara más ofendida del mundo.
+
+> —Kase, ¿puedes entrar en mi uniforme, donde no te vean?
+
+Kase te mira.
+
+Es una mirada larga, cargada de un desprecio tan profundo que Hachi deja de llorar para mirar. Después mira el cuello de tu camisa, mira el uniforme, y vuelve a mirarte a ti, como diciendo «¿en serio?».
+
+Suspira. Los gatos no suspiran, pero Kase sí.
+
+Salta, se te sube al pecho, mete la cabeza por el cuello abierto de la camisa y se desliza para adentro, entero, despacio, con la cola al final como una serpiente. Se acomoda: da una vuelta sobre tu panza, se enrosca y se queda quieto, apretado contra tu estómago, caliente como una bolsa de agua.
+
+El uniforme blanco de marine queda con una barriga enorme, redonda, que sube y baja.
+
+Y ronronea.
+
+Shakky suelta el vaso en la barra y se ríe. Es la primera vez que la ves reírse de verdad, a carcajadas, con la mano en el pecho y el cigarrillo temblando entre los dedos.
+
+Rayleigh se acomoda los lentes y te mira de arriba abajo con mucha seriedad.
+
+—Ahora pareces un marine que comió demasiado en el desayuno. —Toma un sorbo de café—. Excelente. Nadie mira dos veces a un marine gordo.
+
+Hachi aplaude con los seis brazos.
+
+—¡Nyu! ¡Ya no te reconozco! ¡Bueno, un poco por la cicatriz!
+
+La gorra blanca te tapa a medias la cicatriz del ojo izquierdo. La barriga ronronea.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 879 · ONE PIECE · DÍA 57 · 09:14       ║
+║ Sabaody · bar de Shakky                      ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa, ronroneando       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
+║ lado de Luffy. Shingeki: antes del D59.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:14, bar de Shakky. Disfraz completo: uniforme de marine raso, pelo negro corto, lentes de contacto marrones, Kase escondido dentro de la camisa (barriga que ronronea). La gorra tapa a medias la cicatriz. Shakky se rió; Rayleigh: "Nadie mira dos veces a un marine gordo." Ejecución de Ace hoy a las 15:00.

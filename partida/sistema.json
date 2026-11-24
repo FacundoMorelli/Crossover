@@ -1,13 +1,13 @@
 {
-  "turno": 878,
+  "turno": 879,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Archipiélago Sabaody)",
-  "hora": "09:10",
+  "hora": "09:14",
   "edad": 18,
   "nivel": 27,
   "exp": 219840,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 134507,
+  "fragmentos": 134506,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -424,6 +424,11 @@
     {
       "objeto": "Uniforme de marine raso (One Piece)",
       "detalle": "Comprado en la tienda T878 (1 Fragmento): camisa blanca de cuello azul, pantalón azul, gorra con la gaviota, botas.",
+      "mundo": "tienda"
+    },
+    {
+      "objeto": "Lentes de contacto marrones (2)",
+      "detalle": "Comprados en la tienda T879 (1 Fragmento). Puestos: tapan el rojo y el azul de los ojos.",
       "mundo": "tienda"
     }
   ],
@@ -1679,7 +1684,8 @@
       "Documentos de ciudadano marleyano (Shingeki)": "10 Fragmentos (fijado T548)",
       "Comida para un animal gigante (una comida)": "20 Fragmentos (fijado T669)",
       "Madera de barco, clavos, brea y planchas de hierro (para una reparación grande)": "15 Fragmentos (fijado T715)",
-      "Uniforme de marine raso (One Piece)": 1
+      "Uniforme de marine raso (One Piece)": 1,
+      "Lentes de contacto de color (par)": 1
     },
     "stock_rotativo": {
       "Piedra de maná pequeña (recarga energía 10%)": 3,
