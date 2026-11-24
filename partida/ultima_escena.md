@@ -3,87 +3,10 @@
 
 ---
 
-## COMANDO 1 (T959)
-si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
-
-## RESPUESTA 1 (T959)
-
-> si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
-
-> —Sí, Eren. Tu mamá está ahí.
-
-Eren se queda quieto. Después se le doblan las piernas, y Mikasa lo sostiene antes de que toque el pasto. No llora. Ya no le quedan lágrimas. Se queda colgado del brazo de Mikasa, respirando con la boca abierta, mirando al oeste.
-
-Te das vuelta hacia el dragón.
-
-> —Y el último deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes.
-
-—ESE ES EL DESEO MÁS FÁCIL DE LOS TRES.
-
-Eclipse levanta la cabeza hacia el cielo. Abre la boca, enorme, llena de dientes plateados, y exhala.
-
-No sale fuego. Sale viento. Un viento tibio, que huele a madera recién cortada, a cal fresca y a pan, y que corre sobre la meseta, sobre el acantilado, y se va hacia el oeste, sobre toda la isla, como una ola invisible.
-
-Lo sientes pasar.
-
-En Shiganshina, las casas aplastadas por las rocas del Colosal hace cinco años se levantan del suelo. Las vigas rotas se enderezan. Las piedras caídas suben solas, despacio, y vuelven a ocupar su lugar en las paredes. Los techos se cierran. Las ventanas vuelven a tener vidrios. La casa de madera del borde de la ciudad, junto a la presencia que sigue sentada en el piso tocándose las piernas, se rearma alrededor de ella: el piso, las paredes, la puerta, la viga del techo, entera, en su lugar, por encima de su cabeza.
-
-En Trost, los agujeros que dejaron los titanes el día del ataque se cierran.
-
-En Ragako, las casas destrozadas por los cuerpos gigantes de los aldeanos vuelven a estar de pie. La mujer que despertó en el piso de su propia casa ve cómo se le cierra el techo encima.
-
-En cada pueblo, en cada granja, en cada distrito de Wall Maria abandonado hace cinco años, las casas vuelven a ser casas. Las chimeneas, a tener chimenea. Las puertas, a tener bisagras. Y adentro de los campamentos, cientos de miles de personas recién revividas, que se buscaban a gritos en la oscuridad, ven cómo a su alrededor el mundo se arma de nuevo, como era antes. Como era el día que murieron.
-
-Del otro lado del mar, el viento también llega. A los pueblos del Medio Oriente que Marley arrasó con titanes. A las granjas, a las aldeas. Se levantan.
-
-El viento se apaga.
-
-Eclipse baja la cabeza hasta quedar frente a ti, tan cerca que la luz del anillo blanco te ilumina la cara.
-
-—TUS TRES DESEOS HAN SIDO CONCEDIDOS. —Los ojos rojo y azul te miran, quietos—. ADIÓS, CREADOR.
-
-La cabeza se aleja. El cuerpo enorme se enrosca una última vez sobre el mar, sobre el acantilado, sobre todos ustedes, y se convierte en luz negra con borde blanco. Vuelve a la tierra, de golpe, en una sola columna, y se mete en las siete esferas del pasto.
-
-Las esferas se levantan en el aire. Giran una vez alrededor tuyo. Y se apagan.
-
-Caen al pasto. Ya no son de cristal. Son siete piedras grises del río, redondas, lisas, frías, una al lado de la otra.
-
-[Las Esferas del Eclipse quedan inactivas. Volverán a brillar dentro de un año.]
-
-Entonces el cielo vuelve.
-
-No de golpe: como un amanecer de verdad. La línea gris del horizonte reaparece, y se vuelve rosa, y después naranja, y después dorada, y el sol asoma por encima del mar, enorme, rojo, sobre el agua quieta. El viento vuelve a soplar. Las olas vuelven a romper abajo, contra el acantilado.
-
-Es el primer amanecer de un mundo sin titanes.
-
-En la meseta, nadie se mueve. Todos miran el sol.
-
-Hasta que Eren se suelta del brazo de Mikasa. Se da vuelta hacia ti. Tiene la cara roja de llorar, los ojos hinchados, el pelo pegado a la frente, y te mira como si fueras la única persona en el mundo.
-
-—Facundo. —Da un paso—. Llévame a Shiganshina. Por favor.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 959 · SHINGEKI · DÍA 63 · 05:08        ║
-║ Costa este de Paradis · meseta del           ║
-║ acantilado · amanecer                        ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tres deseos cumplidos. Eren pide   ║
-║ ir a Shiganshina.                            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T960)
+## COMANDO 1 (T960)
 guardo las esferas en el inventario, esta bien eren, vamos
 
-## RESPUESTA 2 (T960)
+## RESPUESTA 1 (T960)
 
 > guardo las esferas en el inventario, esta bien eren, vamos
 
@@ -165,10 +88,10 @@ Y en ese momento, del interior de la casa, por la puerta abierta, se oyen pasos.
 
 ---
 
-## COMANDO 3 (T961)
+## COMANDO 2 (T961)
 Ahora les explico todo, por favor nada mas disfruten todo, armin, no queres ir a ver a tu abuelo?
 
-## RESPUESTA 3 (T961)
+## RESPUESTA 2 (T961)
 
 > Ahora les explico todo, por favor nada mas disfruten todo, armin, no queres ir a ver a tu abuelo?
 
@@ -221,4 +144,49 @@ Se le llenan los ojos otra vez. Mira hacia la calle, hacia el centro de la ciuda
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:23, Shiganshina, casa de los Jaeger. Grisha sale y ve a Eren ("¿Eren?"); Eren helado. Armin pregunta si Facundo puede encontrar a su abuelo (murió en la recuperación del 846; casa cerca del canal; puede estar en cualquier campamento). Facundo puede responder.
+## COMANDO 3 (T962)
+si
+
+## RESPUESTA 3 (T962)
+
+> si
+
+> —Sí.
+
+Armin se queda mirándote un segundo, como si no pudiera creer que la respuesta fuera tan corta.
+
+Después te agarra del brazo con las dos manos. Fuerte. Le tiemblan los dedos.
+
+—Por favor. —Se seca la cara con la manga, rápido, sin soltarte con la otra mano—. Es bajito, más bajo que yo. Pelo blanco, poco, peinado para atrás. Usa un chaleco marrón con un botón que no es del mismo color que los otros. Se lo cosió él. —Se le escapa una risa rota—. Huele a tabaco de pipa y a libros viejos. Se llama...
+
+Se detiene. Traga.
+
+—Se llama igual que siempre. Abuelo.
+
+En el escalón, a sus espaldas, Eren se levantó despacio, sin soltar la mano de su madre. Está de pie, a dos pasos de su padre, en la piedra fría de la calle. Ninguno de los dos habla. Grisha tiene los ojos llenos detrás de los anteojos torcidos. Eren tiene los puños cerrados.
+
+Carla los mira a los dos. A uno y al otro. Frunce el ceño, apenas, como quien no entiende por qué el hijo que acaba de recuperar mira así al padre.
+
+Mikasa se pone al lado de Eren. No le agarra la mano. Solo se queda cerca.
+
+Armin no ve nada de eso. Solo te mira a ti, con las dos manos en tu brazo.
+
+—¿Vamos? —susurra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 962 · SHINGEKI · DÍA 63 · 05:24        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Encontrar al abuelo de Armin.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:24, Shiganshina, casa de los Jaeger. Armin, agarrado del brazo de Facundo, describió a su abuelo y pregunta "¿Vamos?". Eren de pie frente a Grisha, sin hablar; Carla y Mikasa cerca. Facundo puede actuar.

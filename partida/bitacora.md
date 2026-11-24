@@ -960,3 +960,4 @@ T958 · Shingeki · Costa este · SEGUNDO DESEO: cientos de miles de muertos por
 T959 · Shingeki · Costa este · TERCER DESEO: casas reconstruidas. "Adiós, creador." Esferas inactivas un año. Primer amanecer sin titanes. Eren: "Llévame a Shiganshina."
 T960 · Shingeki · Shiganshina · Teletransporte con Eren, Mikasa y Armin. Carla en el escalón: "¿Eren?" Abrazo. Grisha baja la escalera.
 T961 · Shingeki · Shiganshina · "Nada más disfruten." Grisha ve a Eren. "Armin, ¿no quieres ver a tu abuelo?" "¿Puedes encontrarlo?"
+T962 · Shingeki · Shiganshina · "Sí." Armin describe a su abuelo. "¿Vamos?" Eren frente a Grisha.

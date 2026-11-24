@@ -13,3 +13,4 @@ QUÉ SABE DE FACUNDO: nada (lo ve llegar de la nada con Eren, Mikasa y Armin).
 QUÉ PODERES DE FACUNDO VIO: aparición de la nada.
 ESTADO: viva (revivida T958).
 - T961 · Facundo: "Ahora les explico todo. Nada más disfruten." Asiente sin preguntar.
+- T962 · No entiende por qué Eren mira así a su padre.
