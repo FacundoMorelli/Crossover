@@ -755,3 +755,4 @@ T753 · One Piece · Pasaje subterráneo · Semilla del ermitaño a Luffy. Luffy
 T754 · One Piece · Puente de la Vacilación · Facundo sale del túnel. Spandam lo ve y activa el Buster Call por error.
 T755 · One Piece · Puente de la Vacilación · Soru: le quita a Robin a Spandam. Robin sigue esposada.
 T756 · One Piece · Puente de la Vacilación · Rompe las esposas de Robin y la besa. Primera andanada del Buster Call.
+T757 · One Piece · Sobre la Torre · Vuela con Robin. Haki: las peleas de las llaves. Zoro esposado a Usopp contra Kaku. Andanada hacia ese piso.
