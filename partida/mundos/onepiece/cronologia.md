@@ -117,3 +117,4 @@
 - Día 36 06:54 · (T746) Luffy cruza el abismo solo hacia la Torre (canon). Spandam se lleva a Robin adentro; el CP9 entra con Franky y Usopp (canon: Spandam se la llevaba hacia las Puertas de la Justicia por el pasaje subterráneo). Puente levadizo arriba.
 - Día 36 06:56 · (T747) Facundo cruza a toda la alianza con la Luna (canon: puente levadizo y Rocketman). Fukurou explica las cinco llaves (canon). Spandam lleva a Robin hacia las Puertas de la Justicia; Lucci va con él (canon).
 - Día 36 06:58 · (T748) La tripulación se reparte contra los agentes (canon). Facundo y Luffy bajan al pasaje subterráneo; Blueno lo custodia (canon: Luffy peleaba con Blueno arriba y después perseguía).
+- Día 36 07:01 · (T749) Luffy estrena el Gear Second y derrota a Blueno (canon), en el sótano frente al pasaje (cambio de lugar).
