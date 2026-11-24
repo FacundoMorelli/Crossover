@@ -13,3 +13,4 @@ QUÉ SABE DE FACUNDO: probablemente el cartel de Ojos de Eclipse (400M) y notici
 QUÉ PODERES DE FACUNDO VIO: ninguno. Por Facundo (T927, "Así es"): fue él quien llegó antes y liberó a los presos.
 ESTADO: activo
 - T927 · "Me llamo Corvin. Del Ejército Revolucionario." No pregunta cómo se rompieron las cadenas. A Luffy ("¿Ustedes son buenos?"): "Intentamos serlo." Ordena atender a los presos y atar a los guardias; mandarán más barcos. Le tiende la mano a Robin: el comandante quiere hablar con ella.
+- T928 · Facundo pide poder visitar a Robin en su isla. "El lugar no existe en ningún mapa. Lo decide el comandante; se lo voy a decir. Si usted llegó hasta aquí sin barco, no creo que una isla escondida lo frene mucho." Se lleva a Robin.

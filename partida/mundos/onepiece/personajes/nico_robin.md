@@ -93,3 +93,4 @@ ESTADO: activa
 - T924 · Por Facundo: vienen revolucionarios; Kuma la mandó ahí para que se vaya con ellos. Acepta. "¿Me vas a venir a ver?"
 - T925 · Facundo promete ir a verla: "Sí, amor" (delante de Luffy). "Entonces te voy a esperar." Amenaza a Luffy: "Si se lo cuentas a Nami, te voy a hacer brotar manos en lugares que no te van a gustar."
 - T926 · "Gracias, capitán." Llegan los revolucionarios por ella.
+- T928 · Beso de despedida: "Tranquila. Puedes irte." A Corvin: "No lo va a frenar. Créame." Se toca los labios mirando a Facundo y sube al barco revolucionario.

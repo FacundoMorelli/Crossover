@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T925)
-si amor
-
-## RESPUESTA 1 (T925)
-
-> si amor
-
-> —Sí, amor.
-
-Robin se queda mirándote.
-
-Ya se lo dijiste antes, a solas. Nunca delante de nadie. Lo notas porque se le sube el color a la cara de golpe, hasta las orejas, debajo del polvo, y porque por un segundo no sabe qué hacer con las manos que tiene apoyadas en tu pecho.
-
-Después se ríe. Bajito, con la boca cerrada, como si se le escapara sin permiso.
-
-—Amor —repite, bajito. Se le humedecen los ojos otra vez—. Está bien. Entonces te voy a esperar.
-
-Se apoya en ti. Te pasa los brazos por la cintura, por debajo del sobretodo, y esconde la cara en tu cuello. Kase se corre un poco en tu hombro para hacerle lugar y le apoya la cola encima del pelo.
-
-En la baranda, Luffy se tapa la boca con las dos manos, con los ojos enormes.
-
-—Shishishi... —Se ríe entre los dedos—. ¡Amor! ¡Facundo le dijo amor a Robin!
-
-Robin no levanta la cara de tu cuello.
-
-—Capitán —dice, con la voz amortiguada—. Si se lo cuentas a Nami, te voy a hacer brotar manos en lugares que no te van a gustar.
-
-Luffy cierra la boca de golpe. Se le pone la cara azul.
-
-Alrededor, el puente se va calmando. Los presos liberados se juntan en grupos cada vez más grandes, se reparten el agua de los guardias, ayudan a caminar a los que no pueden. Algunos los miran a ustedes tres desde lejos y se señalan entre ellos. Nadie se acerca.
-
-Y en el horizonte, donde antes no había nada, aparece una vela.
-
-Un barco mediano, oscuro, sin bandera pirata y sin la gaviota de la Marina. Viene directo hacia el puente, rápido, cortando el agua gris. Mientras se acerca, se le ven siluetas en la cubierta: muchas, de pie, mirando hacia Tequila Wolf con catalejos.
-
-En la proa, una figura se sube a la baranda y levanta un brazo.
-
-Robin levanta la cabeza de tu cuello. Mira el barco por encima de tu hombro.
-
-No se separa de ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 925 · ONE PIECE · DÍA 57 · 17:38       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Llega el barco revolucionario.     ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T926)
+## COMANDO 1 (T926)
 bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
 
-## RESPUESTA 2 (T926)
+## RESPUESTA 1 (T926)
 
 > bueno capitan, nos quedamos aqui cuando lleguen o quieres ir con rayleigh?
 
@@ -119,10 +61,10 @@ Se queda mirándote un segundo más que a los otros dos.
 
 ---
 
-## COMANDO 3 (T927)
+## COMANDO 2 (T927)
 mucho gusto, asi es
 
-## RESPUESTA 3 (T927)
+## RESPUESTA 2 (T927)
 
 > mucho gusto, asi es
 
@@ -175,4 +117,72 @@ Se queda mirándola un momento. Después levanta la vista hacia ti. Tiene las ma
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:46, Tequila Wolf. Corvin (jefe revolucionario) se presentó, organiza a los presos y le tiende la mano a Robin: el comandante quiere hablar con ella; el barco zarpa cuando esté lista. Robin, sin soltar el sobretodo de Facundo, lo mira. Facundo puede actuar.
+## COMANDO 3 (T928)
+le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
+
+## RESPUESTA 3 (T928)
+
+> le doy un beso, tranquila puedes irte, ehh una pregunta, tienen problema si en algun momento voy a verla en la isla donde este? no se preocupen no voy a decir nada sobre su isla ni nada, tampoco sabria como llegar en barco
+
+La besas. Corto, esta vez. Con una mano en su nuca.
+
+> —Tranquila. Puedes irte.
+
+Robin cierra los ojos un segundo. Después te suelta el sobretodo, despacio, dedo por dedo.
+
+Te das vuelta hacia Corvin.
+
+> —Eh, una pregunta. ¿Tienen problema si en algún momento voy a verla a la isla donde esté? No se preocupen, no voy a decir nada sobre su isla ni nada. Tampoco sabría cómo llegar en barco.
+
+Corvin se queda callado.
+
+Detrás de él, dos de sus hombres intercambian una mirada rápida. Uno se acomoda la mano en el cinturón, cerca del arma, sin pensarlo, y la vuelve a sacar.
+
+Corvin baja la mano que le había tendido a Robin. Se pasa el pulgar por la cicatriz del mentón. Te mira largo, de arriba abajo, y después mira el puente: las cadenas rotas, los guardias atados, los miles de presos libres.
+
+—El lugar al que vamos no existe en ningún mapa —dice al fin, despacio—. Hay gente que dio la vida para que siga así. No es algo que yo pueda decidir.
+
+Hace una pausa.
+
+—Eso lo decide el comandante. Se lo voy a decir. —Le sale una media sonrisa cansada, la primera—. Aunque, si usted llegó hasta la mitad de este mar sin barco y antes que nosotros, no creo que una isla escondida lo vaya a frenar mucho.
+
+Robin se ríe, bajito, con la mano delante de la boca.
+
+—No lo va a frenar —le dice a Corvin, tranquila—. Créame.
+
+Corvin suspira por la nariz. Le vuelve a tender la mano.
+
+Robin se la toma esta vez.
+
+Camina con él hasta la pasarela del barco. Los presos que están cerca se apartan para dejarla pasar, y algunos le inclinan la cabeza sin saber muy bien por qué. Kase la sigue con los ojos desde tu hombro, con la cola quieta.
+
+Al pie de la pasarela, Robin se detiene.
+
+Se da vuelta.
+
+Mira a Luffy primero, que la saluda con el brazo estirado, muy alto, por encima de la cabeza de todos.
+
+—¡¡Nos vemos en Sabaody, Robin!! ¡¡Dos años!!
+
+Robin le sonríe. Después te mira a ti. No dice nada. Se lleva una mano a la boca y se toca los labios con los dedos, una sola vez, mirándote.
+
+Después sube.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 928 · ONE PIECE · DÍA 57 · 17:49       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Robin se va. Después, Rayleigh.    ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:49, Tequila Wolf. Facundo despidió a Robin con un beso y pidió poder visitarla; Corvin lo consultará con el comandante. Robin subió al barco revolucionario después de tocarse los labios mirando a Facundo. Luffy al lado de Facundo. Facundo puede actuar.

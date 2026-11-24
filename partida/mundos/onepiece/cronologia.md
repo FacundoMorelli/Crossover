@@ -177,3 +177,4 @@
 - Día 57 17:23 · (T920) Facundo libera a Robin y rompe las cadenas de todos los presos de Tequila Wolf (canon: el Ejército Revolucionario liberaba a Robin y a los esclavos más tarde).
 - Día 57 17:31 · (T924) Un barco del Ejército Revolucionario se acerca a Tequila Wolf (canon: venían a buscar a Robin).
 - Día 57 17:44 · (T926) El Ejército Revolucionario llega a Tequila Wolf por Robin; encuentran a los presos ya libres.
+- Día 57 17:49 · (T928) Robin se va con el Ejército Revolucionario (Corvin) rumbo a su base (canon: Baltigo).

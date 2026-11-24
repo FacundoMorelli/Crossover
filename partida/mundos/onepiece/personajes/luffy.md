@@ -54,3 +54,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T925 · "¡Facundo le dijo amor a Robin!" Robin lo amenaza; se calla.
 - T926 · "Primero nos quedamos. Quiero ver que Robin se va con gente buena. Si son malos, les pego. Después vamos con Rayleigh."
 - T927 · A Corvin: "¿Ustedes son buenos?" Lo aprueba.
+- T928 · "¡Nos vemos en Sabaody, Robin! ¡Dos años!"
