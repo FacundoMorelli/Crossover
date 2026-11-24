@@ -66,3 +66,4 @@ ESTADO: en el borde oeste del campo gris; Mahito original corriendo hacia ella.
 - T988 · Toca la puerta. Saori la reconoce y la abraza; Nobara llora a gritos en su hombro.
 - T989 · "Es un idiota. Son todos idiotas. Son mis amigos."
 - T990 · Medias de fresas de Saori; dice "escuela técnica estricta". Intercambia números con Saori; sonríe y mira el teléfono todo el día.
+- T991 · Quiere acompañarlo a Kioto.

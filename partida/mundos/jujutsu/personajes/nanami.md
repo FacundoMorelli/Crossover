@@ -55,3 +55,4 @@ ESTADO (17/01/2019): vivo. Perdió el brazo izquierdo en Shinjuku (24/12/2018). 
 - T984 · Rechaza usar un deseo en su brazo: "Mal uso de los recursos. Se puede vivir con un brazo." "Escribo torcido. Igual, no." Sobre maldiciones que no maten: "Los hechiceros nos quedaríamos sin trabajo. No sería tan malo."
 - T987 · Acepta el teletransporte a Setagaya "como una reunión que no estaba en la agenda".
 - T990 · Paga la comida en secreto al repartidor. Pasa por la escuela todas las tardes con excusas.
+- T991 · Acompaña a Facundo a Kioto: "Soy grado uno, tengo derecho a estar presente. Alguien tiene que tomar notas que no estén escritas por ellos." Toma notas en la audiencia; deja de escribir ante la oferta y mira a Facundo.

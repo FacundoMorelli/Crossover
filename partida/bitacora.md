@@ -989,3 +989,4 @@ T987 · Jujutsu · Setagaya · Teletransporte de los cuatro a la puerta de Saori
 T988 · Jujutsu · Setagaya · Nobara toca. Saori: "¿Nobara-chan?" Abrazo; Nobara llora. Saori: "¿Quiénes son ustedes?"
 T989 · Jujutsu · Setagaya · "Nada importante." Saori se ríe. Nobara: "Son mis amigos." Saori falta al trabajo y los invita a pasar.
 T990 · Jujutsu · 25-28/04 · (simulado) Mañana con Saori; días tranquilos (Maki, Panda, Inumaki, Yuta). 28/04 21:40: Ijichi trae la citación de la nueva junta: mañana 10:00 en Kioto.
+T991 · Jujutsu · Kioto · (simulado) Tren bala con Nanami. Sala de los biombos: la nueva junta ofrece anular la orden si se registra como grado especial bajo su autoridad.

@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T988)
-se va a acordar de ti, ahora toca la puerta
-
-## RESPUESTA 1 (T988)
-
-> se va a acordar de ti, ahora toca la puerta
-
-> —Se va a acordar de ti. Ahora toca la puerta.
-
-Nobara respira hondo. Una vez.
-
-Toca.
-
-Tres golpes cortos, flojos, casi sin fuerza.
-
-Adentro, el tarareo se corta. La radio sigue. Pasos descalzos sobre el piso de madera, apurados. Una voz de mujer, del otro lado, con la boca llena:
-
-—¡Ya va, ya va! ¿Es el del paquete? Le dije que lo dejara en...
-
-La cerradura gira. La puerta se abre.
-
-Saori está en el umbral. Pijama, la cinta roja en el pelo, media tostada en la mano y la taza de los gatos en la otra. Tiene cara de apuro, de jueves, de "voy a llegar tarde al trabajo".
-
-Ve a una chica de pelo castaño corto, en pijama, descalza, con una campera de uniforme encima y los puños apretados a los costados del cuerpo.
-
-Y la cara de apuro se le va, despacio.
-
-Se queda mirándola. Parpadea. Baja la vista a los pies descalzos. La sube otra vez a la cara. Se le entreabre la boca.
-
-—¿...Nobara-chan?
-
-Nobara no puede contestar. Abre la boca y no le sale nada. Asiente con la cabeza, rápido, muchas veces, con la cara cada vez más roja.
-
-A Saori se le cae la tostada al piso.
-
-Deja la taza de los gatos en el suelo del pasillo, sin mirar dónde, y abraza a Nobara. Fuerte. Con los dos brazos, la cara en el pelo de ella, balanceándose apenas, como se abraza a una hermana chica.
-
-—¡Nobara-chan! —Se ríe, y se le quiebra la risa—. ¡Estás enorme! ¡Mírate! ¡Qué haces aquí! ¡Estás descalza!
-
-Nobara se le agarra de la espalda del pijama con los dos puños. Esconde la cara en su hombro. Y llora. Como no lloró en el portón, ni en la cocina, ni en Shibuya. A gritos, sin vergüenza, como una nena.
-
-Saori la sostiene. Le acaricia la cabeza. Le dice cosas al oído que nadie más escucha.
-
-Yuji se da vuelta hacia la baranda, rápido, y se frota los ojos con el antebrazo. Megumi mira la calle, muy concentrado en un señor con un perro. Nanami se acomoda los anteojos y mira el techo del pasillo con mucha atención.
-
-Por encima del hombro de Nobara, Saori levanta la vista. Ve a un chico de pelo rosa llorando contra una baranda. A otro, de pelo negro, que finge mirar la calle. A un hombre de traje con un solo brazo. Y a ti: pelo blanco y azul, ojos de dos colores, una cicatriz y un gato enorme en el hombro.
-
-Parpadea, sin soltar a Nobara.
-
-—Ehm... —Sonríe, confundida, con los ojos mojados—. ¿Y ustedes... quiénes son? ¿Cómo llegaron hasta aquí? Nobara-chan nunca supo mi dirección.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 988 · JUJUTSU · 25/04/2019 · 07:25     ║
-║ Setagaya · puerta 203, departamento de Saori ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Nobara y Saori, juntas. Saori      ║
-║ pregunta quiénes son.                        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T989)
+## COMANDO 1 (T989)
 te busque entre 14millones de personas, nada importante
 
-## RESPUESTA 2 (T989)
+## RESPUESTA 1 (T989)
 
 > te busque entre 14millones de personas, nada importante
 
@@ -124,10 +56,10 @@ Agarra la taza del piso. Abre la puerta del todo.
 
 ---
 
-## COMANDO 3 (T990)
+## COMANDO 2 (T990)
 simula
 
-## RESPUESTA 3 (T990)
+## RESPUESTA 2 (T990)
 
 > simula
 
@@ -176,4 +108,70 @@ Duda.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 28/04/2019 21:40, techo de los dormitorios. Tras la mañana con Saori y días tranquilos en la escuela, Ijichi trae una citación de la nueva junta de altos mandos: quieren ver a Facundo mañana a las 10:00 en la sede de Kioto para resolver la orden de retención. Facundo puede responder.
+## COMANDO 3 (T991)
+esta bien. simula hasta mañana a las 10 en la sede de kioto
+
+## RESPUESTA 3 (T991)
+
+> esta bien. simula hasta mañana a las 10 en la sede de kioto
+
+> —Está bien.
+
+Ijichi suelta el aire como si llevara un rato sin respirar. Te deja el sobre en la mano, hace una reverencia y baja corriendo por la escalera de servicio.
+
+A la mañana, la noticia ya dio la vuelta a la escuela entera.
+
+Yuji quiere ir. Nobara también. Megumi no lo dice, pero está vestido y esperando en la puerta del dormitorio a las seis. Maki dice que, si te tocan un pelo, va a romper otra puerta, esta vez la de la sede. Yuta te ofrece acompañarte "como testigo", con una sonrisa que no es del todo una sonrisa.
+
+El que termina yendo es Nanami. Aparece a las seis y media en el estacionamiento, de traje, recién afeitado, con la manga sujeta con el alfiler y un portafolio.
+
+—Soy hechicero de grado uno —dice, sin que nadie le pregunte—. Tengo derecho a estar presente en cualquier audiencia de la junta. Y alguien tiene que tomar notas que no estén escritas por ellos.
+
+Ijichi los lleva a la estación. El tren bala sale a las siete. Nanami lee el diario. Kase duerme todo el viaje en el asiento de la ventana, sobre tu sobretodo doblado. A las nueve y cuarto llegan a Kioto, que huele a incienso y a lluvia.
+
+La sede de los altos mandos está en las afueras, detrás de un templo que no figura en ninguna guía: un complejo antiguo de madera oscura, con muros de barrera que zumban en el borde de la percepción, jardines de piedra rastrillada y faroles que no se encienden de día. Dos hechiceros de túnica gris los esperan en el portón. No los miran a los ojos.
+
+Los llevan por un corredor largo de madera hasta una sala amplia, en penumbra.
+
+Es la misma sala de siempre, la que conocen todos los hechiceros de Japón por los cuentos: un piso de tatami vacío en el centro y, alrededor, en semicírculo, biombos de papel altos, iluminados desde atrás. Detrás de cada biombo, una silueta sentada. Cinco. No se les ve la cara.
+
+A un costado, sentada en el suelo sobre un almohadón, hay una mujer joven con un traje de miko, el pelo negro atado y una cicatriz que le cruza la cara. Utahime Iori, profesora de la escuela de Kioto. Te mira con desconfianza abierta, y a Nanami con algo parecido al alivio.
+
+Nanami se sienta en el almohadón que le señalan, a un costado, y abre el portafolio. Saca una libreta y una lapicera.
+
+A ti nadie te señala ningún almohadón. Te dejan de pie en el centro del tatami, con el gato en el hombro.
+
+A las diez en punto, desde el biombo del medio, habla una voz de hombre, vieja, seca como papel.
+
+—Facundo Morelli. —No es un saludo—. Estudiante transferido, registrado irregularmente por el difunto Masamichi Yaga. Prófugo de una orden de retención desde noviembre. Presente en Shibuya. Presente en el Juego del Sacrificio. Responsable de la desaparición del último dedo del Rey de las Maldiciones, en Sendai, en enero. —Una pausa larga—. Desaparecido tres meses. Y de vuelta, como si nada.
+
+Otra voz, desde el biombo de la izquierda, una mujer:
+
+—Esta junta no es la anterior. Los que firmaron su orden están muertos. No tenemos interés en repetir sus errores.
+
+La voz del medio retoma.
+
+—La junta está dispuesta a anular la orden de retención. —Las siluetas no se mueven—. A cambio de una sola condición: que usted se registre oficialmente como hechicero de grado especial, bajo la autoridad de esta junta. Con todo lo que eso implica.
+
+Silencio. Detrás de los biombos, nadie respira.
+
+Nanami deja de escribir. Levanta la vista de la libreta y te mira.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 991 · JUJUTSU · 29/04/2019 · 10:02     ║
+║ Kioto · sede de los altos mandos             ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: La junta ofrece anular la orden si ║
+║ te registras como grado especial.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:02, sede de los altos mandos en Kioto. Facundo de pie en el tatami ante cinco biombos (nueva junta). Utahime y Nanami presentes. La junta enumera sus faltas y ofrece anular la orden de retención si se registra como hechicero de grado especial bajo su autoridad. Facundo puede responder.

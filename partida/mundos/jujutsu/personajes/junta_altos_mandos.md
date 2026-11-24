@@ -1,0 +1,13 @@
+NOMBRE: Nueva junta de altos mandos (formada tras Shinjuku)
+AFILIACIÓN: mundo de la hechicería, Kioto
+RANGO: autoridad máxima
+PODER VISTO POR FACUNDO: ninguno
+EDAD EN ESTE MOMENTO DEL CANON: —
+FÍSICO: cinco siluetas detrás de biombos; voz vieja de hombre en el medio; voz de mujer a la izquierda.
+PERSONALIDAD Y FORMA DE HABLAR: formal, seca, calculadora.
+RELACIÓN CON FACUNDO: lo cita por la orden de retención.
+ENCUENTROS:
+- T991 · 29/04/2019 10:02 · Enumera sus faltas. Mujer: "No somos la junta anterior. No queremos repetir sus errores." Oferta: anular la orden si se registra como grado especial bajo su autoridad.
+QUÉ SABE DE FACUNDO: registro de Yaga; orden de retención; presencia en Shibuya y el Juego (informes); desaparición del último dedo de Sukuna en Sendai (informe de la misión); tres meses ausente; volvió.
+QUÉ PODERES DE FACUNDO VIO: ninguno en persona.
+ESTADO: activa

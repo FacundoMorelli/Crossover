@@ -58,3 +58,4 @@ ESTADO: despierto, muy débil, en la carpa médica. Sin marca.
 - T983 · Colonias del Juego destruidas (Sendai, Sakurajima, Tokio), gente en refugios. Vuelve a comer.
 - T984 · Las maldiciones nacen de lo que siente la gente; borrarlas no sirve, nacerían otras.
 - T990 · Come tres veces por día.
+- T991 · Vestido y esperando a las seis para ir a Kioto.
