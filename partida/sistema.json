@@ -1,13 +1,13 @@
 {
-  "turno": 952,
+  "turno": 953,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 55 tras Shiganshina (año 850)",
-  "hora": "02:05",
+  "hora": "02:20",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 137581,
+  "fragmentos": 107581,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -47,14 +47,14 @@
   },
   "puntos_de_stat_sin_asignar": 145,
   "stats": {
-    "fuerza": 240,
-    "velocidad": 243,
-    "resistencia": 240,
-    "tecnica": 243,
-    "percepcion": 241,
-    "voluntad": 241,
-    "energia": 242,
-    "control": 241
+    "fuerza": 3990,
+    "velocidad": 3993,
+    "resistencia": 3990,
+    "tecnica": 3993,
+    "percepcion": 3991,
+    "voluntad": 3991,
+    "energia": 3992,
+    "control": 3991
   },
   "energia_actual_pct": 98,
   "eclipse": {
@@ -456,6 +456,12 @@
       "objeto": "Carta de Lara Tybur",
       "cantidad": 1,
       "detalle": "Día 54, primer correo oficial Marley-Paradis. Pide intentar borrar el Martillo; está casi todas las mañanas en el invernadero antes de que despierte la casa; Willy no sabe. 'Traiga al gato.'",
+      "mundo": "shingeki"
+    },
+    {
+      "objeto": "Esferas del Eclipse",
+      "cantidad": 7,
+      "detalle": "Creadas por Facundo (T953, día 55, río al sur de Mitras) con el poder de Dende. Cristal negro transparente con un anillo de luz blanca en el centro; estrellas mitad rojas mitad azules (1 a 7). Dragón: ECLIPSE, más fuerte que los de Dende. 3 deseos por invocación. Por ahora en la orilla, no guardadas.",
       "mundo": "shingeki"
     }
   ],
@@ -1779,7 +1785,8 @@
     "ver_reglas_extra": "Todas las reglas agregadas están completas en partida/reglas_extra.md (manda sobre el prompt original). Última escena textual en partida/ultima_escena.md.",
     "relaciones_por_mundo": "T803: Facundo puede tener una pareja por mundo; ninguna sabe de las otras salvo que él lo diga (ver reglas_extra.md R9).",
     "haki_color": "T874 (declarado por el jugador): el Haki de armadura de Facundo es azul intenso y blanco, no negro (también los rayos de su Haki del Rey con recubrimiento).",
-    "T911_bankai_sobre_flota": "El Bankai Hate no Sakaime de Facundo se mantiene sobre la flota de Barbablanca aunque Facundo se aleje, mientras tenga energía (declarado por el jugador)."
+    "T911_bankai_sobre_flota": "El Bankai Hate no Sakaime de Facundo se mantiene sobre la flota de Barbablanca aunque Facundo se aleje, mientras tenga energía (declarado por el jugador).",
+    "T953_esferas_eclipse": "Facundo creó las Esferas del Eclipse (7) y el dragón Eclipse, superior a los de Dende, 3 deseos por invocación. Facundo dijo que las usará una sola vez en Shingeki (día 63 al amanecer)."
   },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",

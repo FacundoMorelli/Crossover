@@ -100,3 +100,4 @@
 - Día 55 01:17 · (T948) Facundo anuncia a la cúpula de la Legión y a la reina que puede revivir a los muertos por titanes, hacer desaparecer todos los titanes del mundo y devolver a los titanes puros a la normalidad.
 - Día 55 01:30 · (T952) Plan acordado: 7 días de preparación en Wall Maria; Facundo avisará a Willy, Magath y Lara; deseos el día 63 al amanecer (titanes → muertos → reconstrucción). Erwin, Hange y Armin empiezan la logística.
 - Día 55 02:05 · (T952) Facundo junta siete piedras en un río al sur de Mitras.
+- Día 55 02:20 · (T953) Facundo crea las siete Esferas del Eclipse (dragón Eclipse) en la orilla del río al sur de Mitras. Nadie lo ve.

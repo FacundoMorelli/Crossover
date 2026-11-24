@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T950)
-Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
-
-## RESPUESTA 1 (T950)
-
-> Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
-
-> —Es una habilidad mía. Puedo crear algo capaz de cumplir deseos. No importa que estén enterrados: no van a aparecer en sus tumbas. Puedo hacer que aparezcan todos en un mismo lugar.
-
-—¿Cumplir... deseos? —Hange se pone de pie tan rápido que la silla cae para atrás—. ¿Deseos? ¿Como en los cuentos? ¿Cualquier deseo? ¿Cómo funciona? ¿Tiene límite? ¿Cuántos se pueden pedir? ¿Hay que...?
-
-—Hange. —Levi no levanta la voz.
-
-Hange cierra la boca. Levanta la silla. Se sienta. Le tiembla la rodilla debajo de la mesa.
-
-Sasha se agacha, por fin, a buscar el pan. Lo encuentra debajo de la mesa y se queda ahí abajo, en cuclillas, abrazada a él, mirando a Connie desde el piso.
-
-Connie llora. No hace ruido. Le caen las lágrimas por la cara y no se las seca, con los ojos fijos en ti, y Jean sigue con la mano en su hombro, apretando.
-
-Erwin cierra los ojos un segundo. Respira hondo. Cuando los abre, es otra vez el comandante.
-
-—Todos en un mismo lugar —repite—. Entonces necesitamos saber cuántos son "todos".
-
-Camina hasta el mapa de la pared. Pone el dedo sobre Shiganshina.
-
-—La caída de Wall Maria, hace cinco años: decenas de miles en el primer día. La operación de recuperación del año siguiente: doscientas cincuenta mil personas enviadas afuera de las murallas, para que no hubiera bocas que alimentar. Volvieron menos de doscientas. —Lo dice sin que le tiemble la voz, y eso es peor—. Las expediciones de la Legión desde su fundación. Ragako. Y si hablamos de los que fueron convertidos en titanes y murieron después, en el continente, en Marley, durante un siglo...
-
-Se da vuelta.
-
-—Pueden ser cientos de miles de personas apareciendo en una noche. Con hambre, sin ropa de abrigo, sin saber qué año es, sin saber que murieron. Familias que se buscan entre una multitud del tamaño de una ciudad.
-
-Historia levanta la cabeza. Todavía tiene el brazo sobre los hombros de Ymir.
-
-—El territorio de Wall Maria está vacío —dice, con la voz firme de reina—. Shiganshina, Quinta, todos los distritos. Hay casas. Hay tierra para sembrar. Era su casa.
-
-Erwin la mira. Asiente, despacio.
-
-—Entonces necesitamos tiempo para preparar comida, mantas, médicos, registros. —Vuelve a mirarte—. Una pregunta más, señor Morelli. Lo que usted crea... ¿cuántos deseos cumple? Porque si es más de uno, el orden importa. Y mucho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 950 · SHINGEKI · DÍA 55 · 01:22        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Los deseos. Erwin: ¿cuántos? El    ║
-║ orden importa. Lugar: Wall Maria.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T951)
+## COMANDO 1 (T951)
 Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
 
-## RESPUESTA 2 (T951)
+## RESPUESTA 1 (T951)
 
 > Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
 
@@ -115,10 +59,10 @@ Erwin deja pasar un segundo.
 
 ---
 
-## COMANDO 3 (T952)
+## COMANDO 2 (T952)
 esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
 
-## RESPUESTA 3 (T952)
+## RESPUESTA 2 (T952)
 
 > esta bien, antes voy a hacer la preparacion para los deseos necesito buscar algo. Me teletransporto y busco 7 piedras del mismo tamaño
 
@@ -167,4 +111,93 @@ El río sigue corriendo al lado. La rana se calló.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 02:05, orilla de un río al sur de Mitras. Facundo aceptó el plan de Erwin (deseos el día 63 al amanecer) y juntó siete piedras del mismo tamaño en la orilla, en fila. Kase ofendido en otra piedra. Facundo puede actuar.
+## COMANDO 3 (T953)
+gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
+
+## RESPUESTA 3 (T953)
+
+> gasto 30000 fragmentos en puntos sueltos y los pongo equitativamente para crear a un dragon mas fuerte que dende. Uso la habilidad y creo las esferas del dragon para el dragon que se llame eclipse
+
+Abres la tienda con un pensamiento. La ventana aparece sobre el río, fría, azulada contra la noche.
+
+[Compra: 30.000 puntos de stat sueltos. Costo: 30.000 Fragmentos.]
+
+[Reparto equitativo: +3.750 a cada stat.]
+
+╔══════════════════════════════════════════════╗
+║ FACUNDO A. MORELLI        NIVEL 27           ║
+║ EXP 222.740 / 240.000 · FRAGMENTOS 107.581   ║
+║ ENERGÍA ██████████ 98%                       ║
+╠══════════════════════════════════════════════╣
+║ FUERZA      3.990    VELOCIDAD    3.993      ║
+║ RESISTENCIA 3.990    TÉCNICA      3.993      ║
+║ PERCEPCIÓN  3.991    VOLUNTAD     3.991      ║
+║ ENERGÍA     3.992    CONTROL      3.991      ║
+╚══════════════════════════════════════════════╝
+
+No lo sientes como un golpe. Lo sientes como una marea que sube. Algo se te asienta en el pecho, en los huesos, en la punta de los dedos, despacio, capa sobre capa, hasta que el cuerpo entero te pesa distinto: no más pesado, más lleno. El río sigue corriendo igual, pero ahora lo oyes entero, cada gota contra cada piedra, hasta la desembocadura. Sientes cada sauce de la orilla. Sientes a la rana, callada debajo de una hoja, a treinta metros. Sientes a Mitras dormida a tus espaldas, cada una de sus casas, cada una de sus personas.
+
+El Velo lo tapa todo. Nadie en el mundo nota nada.
+
+Kase, en su piedra, se da vuelta despacio y te mira. Se le erizan los pelos de la cola, un segundo, y se le vuelven a bajar. Después parpadea una vez y vuelve a darte la espalda, como si nada.
+
+Te agachas frente a las siete piedras.
+
+Juntas las manos en forma de cuenco sobre la primera, como hizo Dende en el jardín. Cierras los ojos.
+
+Primero, la forma.
+
+La piedra se levanta sola de la arena y flota entre tus palmas. Gira. Se aprieta sobre sí misma, se pule, pierde el gris y las vetas, y se vuelve cristal. No ámbar, como la de Dende: negro. Un negro profundo y transparente al mismo tiempo, como el cielo de una noche sin luna visto a través de un vidrio. En el centro le nace un brillo que no viene de ningún lado: un anillo fino de luz blanca, como el borde del sol cuando lo tapa la luna.
+
+Después, el corazón.
+
+La esfera late una vez entre tus manos. Tibia. Viva.
+
+Después, el número.
+
+Adentro se enciende una estrella. Una sola. Mitad roja como tu ojo izquierdo, mitad azul como el derecho, flotando en el negro como una brasa partida al medio.
+
+Haces lo mismo con las otras seis. Una por una. Dos estrellas. Tres. Cuatro. Cinco. Seis. Siete. Cada una con su anillo blanco en el centro, cada una con sus estrellas rojas y azules girando despacio adentro, cada una un poco más rápido que la anterior, porque ya sabes hacerlo.
+
+Al final, el nombre.
+
+Las siete esferas flotan delante de ti, en semicírculo, sobre la arena de la orilla. Les dices el nombre del dragón, en voz baja, una sola vez.
+
+Eclipse.
+
+Las siete laten al mismo tiempo. Un solo latido, profundo, que sientes en el pecho, en el agua del río, en las raíces de los sauces. La luna, en el cielo, parece oscurecerse un instante, apenas, como si algo enorme le hubiera pasado por delante. Después vuelve a brillar.
+
+Las esferas bajan despacio hasta la arena y se quedan quietas, en fila, brillando.
+
+╔══════════════════════════════════════════════╗
+║ CREACIÓN COMPLETADA                          ║
+║ Esferas del Eclipse · 7                      ║
+║ Dragón: ECLIPSE                              ║
+║                                              ║
+║ Poder: superior al de los dragones de Dende  ║
+║ Deseos por invocación: 3                     ║
+║ Creadas en: Shingeki no Kyojin               ║
+╚══════════════════════════════════════════════╝
+
+El río sigue corriendo. Las estrellas rojas y azules giran despacio adentro de las esferas, reflejándose en el agua.
+
+Kase baja de su piedra. Camina hasta la fila, olfatea la esfera de siete estrellas, estornuda y se sienta al lado de ella, mirándote, con la cola enroscada alrededor de las patas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 953 · SHINGEKI · DÍA 55 · 02:20        ║
+║ Río al sur de Mitras · la orilla             ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a la esfera de 7 estrellas       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Esferas del Eclipse listas.        ║
+║ Avisar a Liberio. Deseos: día 63.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 02:20, orilla del río al sur de Mitras. Facundo gastó 30.000 Fragmentos en +3.750 a cada stat y creó las siete Esferas del Eclipse (dragón Eclipse, 3 deseos). Las esferas están en fila sobre la arena; Kase junto a la de siete estrellas. Facundo puede actuar.

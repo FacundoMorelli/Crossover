@@ -951,3 +951,4 @@ T949 · Shingeki · Mitras · "Todos. Ustedes no." Ymir llora; Eren aliviado; Ar
 T950 · Shingeki · Mitras · "Puedo crear algo capaz de cumplir deseos." Erwin: cientos de miles; Historia: Wall Maria. "¿Cuántos deseos? El orden importa."
 T951 · Shingeki · Mitras · Dos o tres deseos, una sola vez. Armin: titanes, muertos, casas. Erwin: 7 días, avisar a Liberio, deseos el 8.º día. "¿Le parece?"
 T952 · Shingeki · Río al sur de Mitras · Acepta el plan de Erwin. Junta siete piedras del mismo tamaño en la orilla.
+T953 · Shingeki · Río al sur de Mitras · 30.000 F en puntos (+3.750 a cada stat). Crea las Esferas del Eclipse: dragón Eclipse, 3 deseos.
