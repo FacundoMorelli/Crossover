@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T877)
-voy a descansar hasta mañana
-
-## RESPUESTA 1 (T877)
-
-> voy a descansar hasta mañana
-
-La cena en el bar de Shakky es larga y ruidosa.
-
-Hachi monta una plancha de hierro con agujeros redondos en la barra y hace takoyaki con los seis brazos a la vez, dando vuelta las bolitas con palillos tan rápido que parecen bailar. Se le queman las primeras. Las segundas le salen perfectas. Kase se come cuatro del plato de Hachi sin pedir permiso y Hachi lo deja, llorando de emoción porque al gato le gustan.
-
-Rayleigh bebe y cuenta historias del mar. Islas que flotan, serpientes del tamaño de montañas, una tormenta que duró un mes, un banquete con gigantes. Nunca dice el nombre de su capitán. No hace falta.
-
-Shakky escucha detrás de la barra, fumando, y al final de la noche te pasa la cuenta en un papelito doblado: cincuenta mil berries «por la entrada, el bar y medio grove». Pagas. Rayleigh se ríe tanto que se le caen los lentes.
-
-Te dan un cuarto chico arriba, con una ventana que da a las burbujas del archipiélago, que suben de noche iluminadas por los faroles. Kase se acuesta sobre tu pecho, pesado, con la panza llena de takoyaki, y ronca.
-
-Duermes.
-
-El Día 57 amanece despejado.
-
-A las nueve, Shakky te sirve café en la barra. Rayleigh ya está sentado en su taburete con el diario abierto. Hachi duerme sobre una mesa, abrazado a la plancha de takoyaki.
-
-Rayleigh dobla el diario y te lo pasa por la barra sin decir nada.
-
-«FUGA MASIVA EN IMPEL DOWN. Monkey D. Luffy, Crocodile, Jinbe, Emporio Ivankov y cientos de presos escapan de la prisión submarina en un buque de la Marina. Se desconoce su rumbo.»
-
-Debajo, más chico: «La ejecución de Portgas D. Ace se realizará hoy a las 15:00 en el Cuartel General de la Marina, Marineford, como estaba previsto».
-
-—Tu capitán salió. —Rayleigh toma un sorbo de café—. Como dijiste.
-
-Shakky apaga el cigarrillo.
-
-—Y a mediodía van a poner pantallas en la plaza del Grove 13. Van a transmitir la ejecución entera, por Den Den Mushi visual. Para que todo el mundo vea qué le pasa a quien desafía al Gobierno.
-
-Rayleigh deja la taza en el platito.
-
-—Marineford está a medio día de barco de aquí. —Te mira de reojo, por encima de los lentes—. Supongo que tú no vas en barco.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 877 · ONE PIECE · DÍA 57 · 09:00       ║
-║ Sabaody · bar de Shakky                      ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.508 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
-║ lado de Luffy. Shingeki: antes del D59.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T878)
+## COMANDO 1 (T878)
 voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme(dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
 
-## RESPUESTA 2 (T878)
+## RESPUESTA 1 (T878)
 
 > voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme (dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
 
@@ -132,10 +76,10 @@ Hachi se despierta de golpe sobre la mesa, ve el uniforme blanco y salta hacia a
 
 ---
 
-## COMANDO 3 (T879)
+## COMANDO 2 (T879)
 compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
 
-## RESPUESTA 3 (T879)
+## RESPUESTA 2 (T879)
 
 > compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
 
@@ -194,4 +138,56 @@ La gorra blanca te tapa a medias la cicatriz del ojo izquierdo. La barriga ronro
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:14, bar de Shakky. Disfraz completo: uniforme de marine raso, pelo negro corto, lentes de contacto marrones, Kase escondido dentro de la camisa (barriga que ronronea). La gorra tapa a medias la cicatriz. Shakky se rió; Rayleigh: "Nadie mira dos veces a un marine gordo." Ejecución de Ace hoy a las 15:00.
+## COMANDO 3 (T880)
+cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
+
+## RESPUESTA 3 (T880)
+
+> cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
+
+> —Cualquiera tiene una cicatriz en el ojo.
+
+Rayleigh, sin decir nada, se toca con un dedo la cicatriz que le cruza el ojo derecho, detrás de los lentes. Sonríe de costado.
+
+—Cualquiera, sí.
+
+> —Rayleigh, igual, ¿qué piensas? Lo que pasó aquí en Sabaody con mis compañeros le tiene que hacer ver a Luffy que todavía no están preparados para el Nuevo Mundo.
+
+Rayleigh deja la taza en el platito. Se queda mirando el café un rato, sin contestar. Shakky deja de reírse y apoya los codos en la barra.
+
+—Pienso lo mismo. —Lo dice despacio—. Tus amigos tienen corazón. Mucho. Pero el corazón no alcanza allá. —Mira por la ventana, hacia el mar—. Del otro lado de la Red Line mandan los Yonko. Barbablanca, Kaido, Big Mom, Shanks. Y los almirantes los cazan sin descanso. Lo que les hizo Kuma aquí, en un rato, allá se lo harían todos los días.
+
+Hace una pausa.
+
+—A tu capitán le falta el Haki. Lo tiene, lo sentí cuando golpeó al Noble. Pero dormido. Y a los demás les falta lo suyo, cada uno lo suyo. —Junta las manos sobre la barra—. Quizás Kuma les hizo un favor sin querer. Los mandó a lugares donde van a tener que hacerse fuertes, o morir.
+
+Te mira.
+
+—Si tu capitán sobrevive a lo de hoy, tráemelo. Le voy a dar lo que sé. —Se encoge de hombros—. Un año. Dos. Lo que haga falta.
+
+Después baja la vista hacia tu barriga de marine, que sube, baja y ronronea. Se queda mirándola un segundo. Vuelve a mirarte a la cara, más serio.
+
+—¿Y tú? —Inclina la cabeza—. ¿Vas a estar con ellos cuando entren al Nuevo Mundo?
+
+Toma un sorbo de café.
+
+—Porque tú no pareces alguien que necesite prepararse para nada, muchacho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 880 · ONE PIECE · DÍA 57 · 09:18       ║
+║ Sabaody · bar de Shakky                      ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa, ronroneando       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
+║ lado de Luffy. Shingeki: antes del D59.      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:18, bar de Shakky. Rayleigh coincide: la tripulación no está preparada para el Nuevo Mundo (Yonko, almirantes); a Luffy le falta despertar el Haki. Si Luffy sobrevive hoy, que se lo traigan: lo entrena "un año, dos". Pregunta: "¿Y tú? ¿Vas a estar con ellos cuando entren al Nuevo Mundo?" Ejecución de Ace a las 15:00.
