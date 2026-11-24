@@ -992,3 +992,4 @@ T990 · Jujutsu · 25-28/04 · (simulado) Mañana con Saori; días tranquilos (M
 T991 · Jujutsu · Kioto · (simulado) Tren bala con Nanami. Sala de los biombos: la nueva junta ofrece anular la orden si se registra como grado especial bajo su autoridad.
 T992 · Jujutsu · Kioto · "Mientras me dejen irme y volver." La junta acepta: orden anulada, grado especial libre. "Declare su técnica innata."
 T993 · Jujutsu · Kioto · Declara la Manecilla Inversa. Utahime mira el brazo de Nanami. La junta registra. "¿Qué fue el punto negro de Sendai?"
+T994 · Jujutsu · Kioto · "Es una habilidad de mis ojos." Rasgo ocular hereditario. "Bienvenido al grado especial." Nanami en el portón: su brazo no tenía marca; "solo quería que supiera que lo entendí."

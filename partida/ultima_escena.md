@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T991)
-esta bien. simula hasta mañana a las 10 en la sede de kioto
-
-## RESPUESTA 1 (T991)
-
-> esta bien. simula hasta mañana a las 10 en la sede de kioto
-
-> —Está bien.
-
-Ijichi suelta el aire como si llevara un rato sin respirar. Te deja el sobre en la mano, hace una reverencia y baja corriendo por la escalera de servicio.
-
-A la mañana, la noticia ya dio la vuelta a la escuela entera.
-
-Yuji quiere ir. Nobara también. Megumi no lo dice, pero está vestido y esperando en la puerta del dormitorio a las seis. Maki dice que, si te tocan un pelo, va a romper otra puerta, esta vez la de la sede. Yuta te ofrece acompañarte "como testigo", con una sonrisa que no es del todo una sonrisa.
-
-El que termina yendo es Nanami. Aparece a las seis y media en el estacionamiento, de traje, recién afeitado, con la manga sujeta con el alfiler y un portafolio.
-
-—Soy hechicero de grado uno —dice, sin que nadie le pregunte—. Tengo derecho a estar presente en cualquier audiencia de la junta. Y alguien tiene que tomar notas que no estén escritas por ellos.
-
-Ijichi los lleva a la estación. El tren bala sale a las siete. Nanami lee el diario. Kase duerme todo el viaje en el asiento de la ventana, sobre tu sobretodo doblado. A las nueve y cuarto llegan a Kioto, que huele a incienso y a lluvia.
-
-La sede de los altos mandos está en las afueras, detrás de un templo que no figura en ninguna guía: un complejo antiguo de madera oscura, con muros de barrera que zumban en el borde de la percepción, jardines de piedra rastrillada y faroles que no se encienden de día. Dos hechiceros de túnica gris los esperan en el portón. No los miran a los ojos.
-
-Los llevan por un corredor largo de madera hasta una sala amplia, en penumbra.
-
-Es la misma sala de siempre, la que conocen todos los hechiceros de Japón por los cuentos: un piso de tatami vacío en el centro y, alrededor, en semicírculo, biombos de papel altos, iluminados desde atrás. Detrás de cada biombo, una silueta sentada. Cinco. No se les ve la cara.
-
-A un costado, sentada en el suelo sobre un almohadón, hay una mujer joven con un traje de miko, el pelo negro atado y una cicatriz que le cruza la cara. Utahime Iori, profesora de la escuela de Kioto. Te mira con desconfianza abierta, y a Nanami con algo parecido al alivio.
-
-Nanami se sienta en el almohadón que le señalan, a un costado, y abre el portafolio. Saca una libreta y una lapicera.
-
-A ti nadie te señala ningún almohadón. Te dejan de pie en el centro del tatami, con el gato en el hombro.
-
-A las diez en punto, desde el biombo del medio, habla una voz de hombre, vieja, seca como papel.
-
-—Facundo Morelli. —No es un saludo—. Estudiante transferido, registrado irregularmente por el difunto Masamichi Yaga. Prófugo de una orden de retención desde noviembre. Presente en Shibuya. Presente en el Juego del Sacrificio. Responsable de la desaparición del último dedo del Rey de las Maldiciones, en Sendai, en enero. —Una pausa larga—. Desaparecido tres meses. Y de vuelta, como si nada.
-
-Otra voz, desde el biombo de la izquierda, una mujer:
-
-—Esta junta no es la anterior. Los que firmaron su orden están muertos. No tenemos interés en repetir sus errores.
-
-La voz del medio retoma.
-
-—La junta está dispuesta a anular la orden de retención. —Las siluetas no se mueven—. A cambio de una sola condición: que usted se registre oficialmente como hechicero de grado especial, bajo la autoridad de esta junta. Con todo lo que eso implica.
-
-Silencio. Detrás de los biombos, nadie respira.
-
-Nanami deja de escribir. Levanta la vista de la libreta y te mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 991 · JUJUTSU · 29/04/2019 · 10:02     ║
-║ Kioto · sede de los altos mandos             ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: La junta ofrece anular la orden si ║
-║ te registras como grado especial.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T992)
+## COMANDO 1 (T992)
 eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
 
-## RESPUESTA 2 (T992)
+## RESPUESTA 1 (T992)
 
 > eh esta bien, mientras me dejen irme cuando quiera y volver cuando quiera
 
@@ -125,10 +59,10 @@ Nanami deja la lapicera sobre la libreta. Te mira, sin expresión. Pero sabe tan
 
 ---
 
-## COMANDO 3 (T993)
+## COMANDO 2 (T993)
 eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
 
-## RESPUESTA 3 (T993)
+## RESPUESTA 2 (T993)
 
 > eh bueno mi tecnica especial se llama manecilla inversa, al tocar a algien puedo dejar una marca y cuando la activo la persona o el objeto puede volver al estado cuando le deje la marca, heridas, roturas, etc, no revierte el alma ni la muerte, y con el dominio puedo revertir a cualquier ser u objeto de adentro a cualquier instante desde que se cerró el dominio, cuantas veces quiera
 
@@ -181,4 +115,64 @@ Otra pausa. Más larga.
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:09, sede de Kioto. Facundo declaró y escribió su técnica (Manecilla Inversa). Utahime, impresionada, miró la manga de Nanami. La junta la registró. Pregunta final: qué fue el punto negro que se tragó el último dedo en Sendai. Facundo puede responder.
+## COMANDO 3 (T994)
+eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
+
+## RESPUESTA 3 (T994)
+
+> eh eso es una habilidad de mis ojos, no es ninguna tecnica maldita
+
+> —Eh, eso es una habilidad de mis ojos. No es ninguna técnica maldita.
+
+Las siluetas se miran entre ellas detrás del papel.
+
+—De los ojos —repite la voz vieja, despacio.
+
+—Como los Seis Ojos de los Gojo —dice la mujer, más para los otros que para ti—. Un rasgo heredado. No una técnica. —Una pausa—. Rojo y azul. —Lo dice como quien anota un color en una ficha.
+
+Utahime te mira a la cara. A los ojos. Primero al izquierdo, después al derecho. Se le tensa la mandíbula, como si de pronto se acordara de alguien que también tenía ojos que no eran normales y que también entraba y salía cuando quería.
+
+Nanami escribe algo más en la libreta. Cierra la libreta.
+
+Detrás de los biombos, un murmullo corto. Después, silencio.
+
+—Se registrará como rasgo ocular hereditario, de naturaleza desconocida —dice la voz vieja. Ya no suena seca: suena cansada—. La audiencia terminó. Puede retirarse, Morelli.
+
+Una última pausa.
+
+—Bienvenido al grado especial.
+
+Los dos hechiceros de túnica gris abren la puerta corrediza.
+
+Afuera llueve. Una llovizna fina, que cae sobre la piedra rastrillada del jardín sin hacer ruido. Utahime sale detrás de ustedes, se detiene en el corredor de madera, te mira un momento como si fuera a decir algo, y no lo dice. Hace una reverencia corta a Nanami y se va por otro pasillo.
+
+Nanami camina a tu lado por el corredor, en silencio, con el portafolio bajo el brazo y la manga vacía sujeta con el alfiler. Kase mira la lluvia desde tu hombro.
+
+Al llegar al portón, Nanami se detiene bajo el alero, donde no llega el agua. Mira la lluvia. No te mira a ti.
+
+—Morelli-kun. —La voz, plana como siempre—. Esa marca. La de su técnica. —Hace una pausa—. Hay que ponerla antes, ¿no? Antes de que se rompa lo que se quiere arreglar.
+
+No espera respuesta.
+
+—Mi brazo lo perdí en diciembre. —Se acomoda los anteojos—. No tenía ninguna marca. —Una pausa larga—. No le estoy pidiendo nada. Solo quería que supiera que lo entendí.
+
+Abre un paraguas negro con una sola mano, con la práctica de cuatro meses.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 994 · JUJUTSU · 29/04/2019 · 10:15     ║
+║ Kioto · portón de la sede, bajo la lluvia    ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Audiencia terminada: grado         ║
+║ especial. Nanami habla de su brazo.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 29/04/2019 10:15, portón de la sede de Kioto bajo la llovizna. Audiencia terminada: grado especial, Manecilla Inversa registrada, el punto negro como rasgo ocular hereditario. Nanami, bajo el alero, le dice que entendió que la marca hay que ponerla antes y que su brazo no tenía ninguna; no le pide nada. Facundo puede responder.

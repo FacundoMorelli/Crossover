@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: activa
 - T992 · "Un grado especial que entra y sale cuando se le da la gana. Ya tuvimos uno así. Nadie lo pudo controlar nunca." Nanami la calla. Se interesa por la técnica de Facundo.
 - T993 · Oye la Manecilla Inversa: casi miedo. "Revertir... una herida. Una fractura. Un brazo..." Mira la manga de Nanami.
+- T994 · Mira los ojos de Facundo; parece acordarse de Gojo. Se va sin hablar; reverencia a Nanami.

@@ -108,3 +108,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Junta, Utahime, Nanami · T992 · Facundo acepta registrarse como grado especial con libertad de ir y venir.
 - Junta, Utahime, Nanami · T993 · Por Facundo: su técnica es la Manecilla Inversa (marca y revierte; dominio que revierte a cualquier instante; no revierte alma ni muerte). Registrada oficialmente.
 - Junta · T993 · Por el informe de Sendai (Ijichi/alumnos): el dedo desapareció en un punto negro creado por Facundo.
+- Junta, Utahime, Nanami · T994 · Por Facundo: el punto negro de Sendai es una habilidad de sus ojos, no una técnica maldita. La junta lo registra como rasgo ocular hereditario.
