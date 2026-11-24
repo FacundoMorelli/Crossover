@@ -51,3 +51,5 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 
 ### Fairy Tail
 - T997 · Cruza la Puerta con Facundo. Llega a Magnolia sin erizarse; mira todo tranquilo.
+
+- T1005 (Fairy Tail) · Baja del hombro en el tren y se sienta frente a Erza, mirándola. Erza se ablanda.

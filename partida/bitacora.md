@@ -1003,3 +1003,4 @@ T1001 · Fairy Tail · Parque · "Cuando llegué ya estaban colgados." Levy: Gaj
 T1002 · Fairy Tail · Parque · "Voy con ustedes a Oak Town." Erza objeta; Makarov: "Haz lo que quieras." Lucy se queda con Shadow Gear. Natsu: "¿Eres fuerte?"
 T1003 · Fairy Tail · Parque · "Un poco." Natsu lo desafía para después de Phantom. Gray se presenta. Tren en diez minutos.
 T1004 · Fairy Tail · Tren a Oak Town · Acepta el desafío de Natsu. Erza se sienta enfrente: "¿Qué magia usas?"
+T1005 · Fairy Tail · Tren · "Facundo Morelli. Ya la vas a ver." Erza explica Phantom. Kase se sienta frente a ella. "¿Cómo se llama?"

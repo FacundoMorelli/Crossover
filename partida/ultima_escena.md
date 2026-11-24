@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1002)
-voy con ustedes a Oak Town
-
-## RESPUESTA 1 (T1002)
-
-> voy con ustedes a Oak Town
-
-> —Voy con ustedes a Oak Town.
-
-Makarov te mira sin decir nada.
-
-Detrás de él, el ruido del gremio baja un poco. Los que estaban cerca escucharon.
-
-—No es de Fairy Tail, maestro. —La mujer pelirroja da un paso adelante. No levanta la voz, y no le hace falta—. Es un asunto entre gremios. Si un mago sin gremio entra a la sede de Phantom con nosotros, el Consejo va a tener una excusa más.
-
-—¡¿Y eso qué importa?! —El de pelo rosado se le pone al lado de un salto, con el fuego todavía en los puños—. ¡Arrancó el hierro de ese tipo con las manos, Erza! ¡Con las manos! ¡Me cae bien!
-
-—Natsu.
-
-—¡Aye! —dice el gato, sin que nadie le haya preguntado.
-
-Makarov levanta una mano. Se hace silencio.
-
-Mira a Erza, después a Natsu y después a ti. Se queda mirándote un rato largo, con los labios apretados debajo del bigote. Después mira a Levy, de pie al lado de Lucy, entera.
-
-—Fairy Tail no le pide ayuda a nadie —dice al fin—. Nunca lo hizo. —Hace una pausa—. Pero tampoco le cierra la puerta a quien bajó a mis hijos de un árbol. —Se da vuelta, de espaldas a ti, hacia la salida del parque—. Haz lo que quieras, muchacho. Nadie aquí te va a dar órdenes. Pero adentro de Phantom no te voy a poder cuidar.
-
-—Maestro —dice Erza.
-
-—Ya está decidido, Erza.
-
-Erza te mira. Es una mirada corta, de pies a cabeza, como quien mide una espada antes de comprarla. No dice nada más.
-
-—¡Yo también voy! —Levy se suelta del brazo de Lucy—. ¡Estoy bien, maestro! ¡Me curó!
-
-—¡Y nosotros! —gritan Jet y Droy a la vez.
-
-—Ustedes tres se quedan. —Makarov ni se da vuelta—. Anoche estaban colgados de un árbol. Hoy descansan. —Gira apenas la cabeza—. Lucy, quédate con ellos.
-
-Lucy abre la boca para decir algo. La cierra. Asiente.
-
-—Sí, maestro.
-
-El gremio empieza a moverse, una marea de gente con marcas en los brazos, en los hombros, en el pecho, saliendo del parque hacia la estación. Natsu no se mueve. Se queda delante de ti, con los brazos cruzados y una sonrisa enorme, de dientes afilados, y el gato azul se le posa en la cabeza.
-
-—Oye, tú. Facundo. —Te señala con el pulgar—. ¿Eres fuerte?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1002 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 07:15 · Magnolia · Parque de la Puerta Sur   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1003)
+## COMANDO 1 (T1003)
 un poco
 
-## RESPUESTA 2 (T1003)
+## RESPUESTA 1 (T1003)
 
 > un poco
 
@@ -131,10 +66,10 @@ Natsu respira hondo, se endereza y te vuelve a apuntar con el dedo, todavía med
 
 ---
 
-## COMANDO 3 (T1004)
+## COMANDO 2 (T1004)
 dale, cuando volvamos peleamos
 
-## RESPUESTA 3 (T1004)
+## RESPUESTA 2 (T1004)
 
 > dale, cuando volvamos peleamos
 
@@ -186,4 +121,61 @@ Después te mira a ti, a los ojos, sin pestañear.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:28, tren a Oak Town. Erza, sentada enfrente de Facundo, le pregunta qué magia usa. Facundo puede responder.
+## COMANDO 3 (T1005)
+Facundo Morelli, ya la vas a ver
+
+## RESPUESTA 3 (T1005)
+
+> Facundo Morelli, ya la vas a ver
+
+> —Facundo Morelli. Ya la vas a ver.
+
+Erza no contesta enseguida.
+
+Te sostiene la mirada. Por la ventana pasan los últimos techos de Magnolia, después un puente de piedra sobre el río y después campo abierto, verde, con molinos a lo lejos. El vagón se sacude en una curva. Ella no se mueve ni un centímetro.
+
+—Está bien —dice al fin—. Entonces la voy a ver.
+
+No suena ofendida. Suena como alguien que acaba de anotar algo en una lista.
+
+—Pero escucha lo que te voy a decir, porque no lo voy a repetir. —Se inclina un poco hacia adelante—. Phantom Lord es el gremio más grande de Fiore. Su maestro, Jose Porla, es uno de los Diez Magos Santos, igual que el nuestro. Tiene cuatro magos a los que llaman los Element 4: agua, fuego, tierra y viento. Y tiene a Gajeel, el que colgó a Levy. Dicen que es el más fuerte de todos ellos.
+
+Hace una pausa.
+
+—Cuando entremos, va a ser un caos. Nadie va a tener tiempo de cuidar a nadie. Si te caes, te levantas solo. Si alguien de los nuestros cae cerca tuyo... —No termina la frase. Te mira—. Bajaste a Levy de ese árbol. Supongo que no hace falta que te lo pida.
+
+Se endereza otra vez en el asiento.
+
+Durante un rato, solo se escucha el traqueteo del tren.
+
+Kase se baja de tu hombro. Lo hace despacio, como hace todo: pisa tu rodilla, después el asiento de madera, y se sienta en el medio del compartimento, sobre el piso, mirando a Erza. Mueve la cola una vez, de un lado al otro.
+
+Erza baja la vista hacia él.
+
+Algo le pasa en la cara. Es muy poco, casi nada: se le aflojan un poco los hombros debajo de la armadura y la boca le cambia de forma, como si fuera a sonreír y se lo prohibiera.
+
+—Es muy grande para ser un gato —dice, en otro tono.
+
+Kase la sigue mirando.
+
+—¿Cómo se llama?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1005 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 07:40 · Tren Magnolia–Oak Town               ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el piso, mirando a Erza             ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:40, tren a Oak Town. Erza le explicó Phantom Lord y le pregunta cómo se llama el gato. Kase en el piso mirándola. Facundo puede responder.
