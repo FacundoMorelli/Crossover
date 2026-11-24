@@ -18,3 +18,4 @@ ESTADO: rescatada por Urahara.
 - T1030 · 18/12 15:42 · En el puente: hablaba de un pastel de frijoles con mayonesa; lo ve y se tapa la boca con las dos manos.
 - T1031 · "¡Facundo-kun! ¡Volviste! Perdón, no estoy llorando, es el frío. Estamos bien. Kurosaki-kun estaba preocupado, aunque diga que no."
 - T1032 · "Facundo-kun... ¿Es peligroso? Los lugares adonde vas." "¡Y yo! ¡Puedo curar cualquier cosa!"
+- T1033 · 21/12 · Feria: dulce de batata con mantequilla de maní.

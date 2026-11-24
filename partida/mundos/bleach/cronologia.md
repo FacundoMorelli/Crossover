@@ -85,3 +85,7 @@
 - 18/12 11:20 · (T1029) Urahara le cuenta a Facundo lo de los tres meses (Facundo ahora sabe: Central 46, Gin y Tōsen presos, Hueco Mundo quieto, Arrancar sueltos, Ichigo con poderes, Rukia en el 13.º).
 - 18/12 15:42 · (T1030) Ichigo, Chad y Orihime ven a Facundo en el puente.
 - 19/12 · (T1032, por Ichigo) Rukia llega a Karakura.
+- 18/12 noche · (T1033) Cena en la casa Kurosaki.
+- 19/12 · (T1033) Rukia llega a Karakura.
+- 20/12 · (T1033) Entrenamiento Facundo-Ichigo en el sótano de Urahara.
+- 21/12 21:15 · (T1033) Grimmjow abre una Garganta sobre la feria navideña: desafía a Ichigo ("la tercera es la vencida") y reconoce a Facundo.

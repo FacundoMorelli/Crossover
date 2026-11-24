@@ -92,3 +92,11 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Ichigo, Chad, Orihime · T1030 · lo ven en persona en el puente: volvió (18/12).
 - Ichigo, Orihime, Chad · T1031 · Facundo volvió para ver si todo estaba bien; Urahara ya le contó (él lo dijo).
 - Ichigo, Orihime, Chad · T1032 · Facundo se queda unos días y se va; si no vuelve es porque sigue recorriendo ("no estoy muerto... espero").
+- Isshin Kurosaki · T1033 · lo vio en la tele (T88, público) y en persona en la cena (18/12). Sabe que Facundo estuvo con Ichigo "allá" (Hueco Mundo) por Urahara (viejo amigo, en secreto; deducción de Isshin y confidencia de Urahara). No pregunta adónde.
+- Yuzu, Karin · T1033 · lo conocen en la cena (18/12). Karin ve espíritus y nota que el gato es raro; no siente nada de Facundo (Velo).
+- Kon · T1033 · lo vio volver (18/12).
+- Rukia · T1033 · volvió a verlo el 19/12. Sabe que estuvo fuera tres meses sin dar señales.
+- Ukitake, Kyōraku, Nanao · T1033 · preguntaron por él a Rukia durante su ausencia (no saben que volvió).
+- Uryū · T1033 · lo vio el 20/12.
+- Keigo, Mizuiro, Tatsuki · T1033 · lo conocen en la feria (21/12) como amigo de Ichigo; Keigo lo reconoce del especial de Kanonji.
+- Grimmjow Jaegerjaques · T1033 · lo reconoce por la descripción de Aizen a las Espadas (pelo bicolor, gato) y por lo que contó Ulquiorra en Las Noches: que Facundo petrificó a Aizen y se fue.

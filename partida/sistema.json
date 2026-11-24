@@ -1,8 +1,8 @@
 {
-  "turno": 1032,
+  "turno": 1033,
   "mundo_actual": "bleach",
-  "fecha_local": "18/12",
-  "hora": "15:47",
+  "fecha_local": "21/12",
+  "hora": "21:15",
   "edad": 18,
   "nivel": 27,
   "exp": 234850,
@@ -496,6 +496,10 @@
       "objeto": "Bufanda de lana gris tejida a mano (para Kase)",
       "origen": "bleach, regalo de Tessai (T1030)",
       "nota": "Kase la lleva puesta."
+    },
+    {
+      "objeto": "Bufanda tejida por Uryū Ishida (para Kase)",
+      "origen": "bleach, regalo de Uryū (T1033, 20/12)"
     }
   ],
   "copias": [

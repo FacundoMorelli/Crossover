@@ -6,3 +6,4 @@ ENCUENTROS:
 - T102 · 24/06 15:44 · Rukia saca la píldora; Kon entra al cuerpo de Ichigo y sale corriendo detrás de ellos gritando.
 DIÁLOGOS CLAVE:
 - T102: "¡Oigan! ¡¿Y yo qué hago con el cuerpo?! ¡¿Y ese gato quién es?!"
+- T1033 · 18/12 · Se esconde en el placard al ver al "gato asesino".

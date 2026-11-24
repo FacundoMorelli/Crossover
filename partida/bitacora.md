@@ -1031,3 +1031,4 @@ T1029 · Bleach · Tienda de Urahara · Té con Tessai; Yoruichi: "Te tardaste."
 T1030 · Bleach · Puente · Lo espera. Bufanda de Tessai para Kase. Ichigo, Chad y Orihime lo ven. Ichigo: "...¿Facundo?"
 T1031 · Bleach · Puente · "Volví a ver si todo estaba bien." Ichigo, puñetazo: "¡Tres meses, idiota!" Orihime llora; Chad: "Bienvenido." "¿Cuánto te vas a quedar esta vez?"
 T1032 · Bleach · Puente · "Unos días... Espero." Ichigo: "Si no vuelves, voy a buscarte." Invitación a cenar en la casa Kurosaki. Rukia llega mañana.
+T1033 · Bleach · (simulado 18-21/12) Cena Kurosaki; Rukia vuelve; entrenamiento; feria navideña. Grimmjow sale de una Garganta: "¡KUROSAKI!" Ve a Facundo.
