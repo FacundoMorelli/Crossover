@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T698 · Dock 1.
 ESTADO: activo
+- T745 · Ve a Facundo derribar las banderas con un arco de luz. Sonríe apenas: ahora tiene una razón oficial.

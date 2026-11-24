@@ -1,8 +1,8 @@
 {
-  "turno": 744,
+  "turno": 745,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 36 (Grand Line, Enies Lobby)",
-  "hora": "06:52",
+  "hora": "06:53",
   "edad": 18,
   "nivel": 26,
   "exp": 211640,
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 88,
+  "energia_actual_pct": 87,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

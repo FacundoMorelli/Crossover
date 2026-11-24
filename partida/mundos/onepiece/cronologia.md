@@ -113,3 +113,4 @@
 - 06:20 · (T742) Ataque a Enies Lobby (canon, antes y con otra entrada). Luffy grita a Robin desde el portón. Gigantes Oimo y Kashi.
 - 06:50 · (T743) Asalto hasta la plaza del Juzgado. Facundo noquea a Oimo y Kashi. Spandam saca a Robin al balcón de la Torre; Luffy le pide que diga que quiere vivir (canon).
 - Día 36 06:52 · (T744) Robin grita que quiere vivir (canon). Usopp, preso en el balcón, no está como Sogeking para quemar la bandera (cambio).
+- Día 36 06:53 · (T745) Facundo derriba y quema con flechas todas las banderas del Gobierno Mundial de Enies Lobby (canon: Sogeking quemaba la bandera de la torre por orden de Luffy). Declaración de guerra contra el Gobierno Mundial.

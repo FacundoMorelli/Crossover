@@ -9,3 +9,4 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T741 · Recibe a los presos en el andén.
 ESTADO: activo
+- T745 · Facundo derriba las banderas del Gobierno. Spandam: "¡Le declararon la guerra al Gobierno Mundial!"
