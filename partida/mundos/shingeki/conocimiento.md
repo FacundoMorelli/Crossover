@@ -132,3 +132,4 @@
 - Facundo · T827 · Por Eren: desde la ceremonia de medallas (día 14), al besar la mano de Historia, sueña con cosas que no vivió (escenario nocturno, fuego, titán martillo, él mayor). Facundo no aparece en ninguno.
 - Eren · T828 · Por Facundo: el futuro ya cambió; cree tener una forma de revivir a los que murieron comidos por titanes (no está seguro). Le pidió que no lo diga a nadie. Eren prometió callar.
 - Facundo · T830 · Por Erwin: Pixis consiguió ropa de gala marleyana; Historia preparó un discurso; Zeke dice que lo que se reservó "para después" es sobre la fiesta Tybur.
+- Guardias del sótano de la Guarnición de Trost · T832 · Ven aparecer de la nada a Facundo y Levi en el pasillo.

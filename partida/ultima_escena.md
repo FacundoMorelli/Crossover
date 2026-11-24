@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T829)
-bajamos con eren al patio
-
-## RESPUESTA 1 (T829)
-
-> bajamos con eren al patio
-
-Kase salta del techo a tu hombro. Bajan la escalera de madera, Eren adelante, tú detrás. Los escalones crujen.
-
-En el patio, Mikasa está exactamente donde la dejaron, con los dos cuchillos de madera en las manos. Cuando Eren llega al último escalón, le ve la cara: los ojos rojos, los párpados hinchados, el borde de la manga mojado.
-
-Mikasa deja caer los cuchillos en la tierra.
-
-No va hacia Eren. Va hacia ti. Se te planta delante, a un palmo, con la bufanda roja hasta la nariz y los ojos negros clavados en los tuyos. Tiene los puños cerrados a los costados.
-
-—¿Qué le dijiste?
-
-Lo dice bajo, sin gritar, y por eso suena peor.
-
-Eren se mete entre los dos de un paso y le apoya la mano en el hombro.
-
-—Nada, Mikasa. —Le sostiene la mirada—. Está bien. Estoy bien.
-
-Mikasa lo mira. Le mira los ojos rojos, la boca, la mano en su hombro. No le cree. Se le nota en toda la cara.
-
-Pero se aparta. Un paso. Recoge los cuchillos de la tierra sin dejar de mirarte de reojo.
-
-Levi, apoyado contra la pared del cuartel con los brazos cruzados, no hizo ni un gesto en todo ese tiempo. Se despega de la pared, agarra uno de los cuchillos de madera de las manos de Mikasa y se lo tira a Eren, que lo atrapa contra el pecho.
-
-—Lávate la cara. —Con voz plana—. Pareces un recluta llorón. Después, cien cortes. No me importa si llueve.
-
-Eren asiente y va hacia el pozo del patio.
-
-Levi se da vuelta hacia ti. Te mira de arriba abajo una sola vez.
-
-—Erwin está despierto desde las cuatro. Siempre está despierto desde las cuatro. —Señala con el mentón una ventana iluminada del segundo piso—. Quiere verte. Su oficina. Y límpiate los pies antes de entrar, que acabo de barrer la escalera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 829 · SHINGEKI · DÍA 35 · 06:40        ║
-║ Mitras · patio del cuartel de la Legión      ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Revivir a los comidos (secreto con Eren).    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T830)
+## COMANDO 1 (T830)
 subo a la oficina de erwin
 
-## RESPUESTA 2 (T830)
+## RESPUESTA 1 (T830)
 
 > subo a la oficina de erwin
 
@@ -109,10 +55,10 @@ Te mira fijo, con los ojos azules muy quietos.
 
 ---
 
-## COMANDO 3 (T831)
+## COMANDO 2 (T831)
 primero voy a hablar con zeke, despues con willy
 
-## RESPUESTA 3 (T831)
+## RESPUESTA 2 (T831)
 
 > primero voy a hablar con zeke, despues con willy
 
@@ -159,4 +105,64 @@ Levi guarda el pañuelo en el bolsillo. No pregunta nada más.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:48, oficina de Erwin. Plan: Zeke primero (sótano de la Guarnición de Trost, bajo Pixis, a cargo de Levi), después Willy (cita del invernadero, próxima el día 37 a las 21). Levi subió: "¿Vamos caminando hasta Trost, o vamos con esa cosa tuya de los dedos en la frente?"
+## COMANDO 3 (T832)
+con la teletransportación, agarro a levi y vamos a trost
+
+## RESPUESTA 3 (T832)
+
+> con la teletransportación, agarro a levi y vamos a trost
+
+Apoyas la mano en el hombro de Levi. Levi mira la mano con cara de que no le gusta nada que lo toquen, pero no se aparta.
+
+Te llevas dos dedos a la frente y buscas.
+
+Trost está lejos, al sur, detrás de dos murallas. Entre miles de presencias chicas y cálidas encuentras una que no se parece a las demás: más densa, más cansada, con algo enorme y dormido adentro. Está bajo tierra, quieta, en un mismo lugar.
+
+Desaparecen de la oficina.
+
+Aparecen en un pasillo de piedra, angosto, húmedo, iluminado con antorchas. Huele a moho, a humo y a sopa vieja. Al fondo, dos soldados de la Guarnición jugaban a las cartas sobre un barril. Uno se cae de la banqueta. El otro manotea el rifle y te apunta, temblando.
+
+—¡¿Q-quién...?!
+
+Levi lo mira. Nada más que eso. El soldado baja el rifle solo.
+
+—Capitán Levi, señor. Perdón, señor. No sabíamos que...
+
+—Sigan jugando.
+
+Al final del pasillo hay una celda con barrotes de hierro gruesos. Adentro, una cama de tablas, una mesa chica y una vela. Una cadena larga sale de la pared y termina en un grillete cerrado alrededor del tobillo izquierdo de un hombre sentado en la cama.
+
+Zeke tiene la barba más larga que la última vez, desprolija, y el pelo rubio más largo también. Los lentes, con una grieta en el vidrio izquierdo. Lleva una camisa gris de presidiario. Tiene un libro viejo abierto sobre las rodillas, con dibujos de plantas, y lo lee a la luz de la vela.
+
+Levanta la vista despacio. Te ve. Ve a Levi. Ve al gato.
+
+Cierra el libro con un dedo adentro, para no perder la página. Sonríe.
+
+—Hola, del gato. —Se acomoda los lentes rajados—. Tardaste. Veinticuatro días. Levi me los contaba cada vez que bajaba a traerme la comida. Bueno, no me los contaba. Yo le preguntaba y él decía «no» y se iba.
+
+Mira a Levi.
+
+—Necesito hablar con él. A solas.
+
+Levi se apoya contra la pared de enfrente, cruza los brazos y no se mueve.
+
+—Ni en sueños.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 832 · SHINGEKI · DÍA 35 · 06:52        ║
+║ Trost · sótano de la Guarnición, celda       ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Hablar con Zeke; después con Willy.          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:52, sótano de la Guarnición de Trost. Facundo y Levi frente a la celda de Zeke (encadenado de un tobillo, barba larga, lentes rajados, libro de botánica). Zeke: "Tardaste veinticuatro días." Pide hablar a solas con Facundo; Levi, contra la pared: "Ni en sueños."

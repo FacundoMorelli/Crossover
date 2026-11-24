@@ -830,3 +830,4 @@ T828 · Shingeki · Mitras · Le dice a Eren que el futuro cambió y que quizá 
 T829 · Shingeki · Mitras · Patio: Mikasa pregunta qué le dijo a Eren; Eren calla. Levi: Erwin quiere verlo.
 T830 · Shingeki · Mitras · Oficina de Erwin: le pide el plan para los próximos cinco días.
 T831 · Shingeki · Mitras · Plan: Zeke primero, después Willy. Erwin llama a Levi.
+T832 · Shingeki · Trost · Teletransportación con Levi a la celda de Zeke. Zeke pide hablar a solas; Levi no.

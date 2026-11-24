@@ -33,3 +33,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T540 · "Marley perdió su quinto titán en una semana. Magath va a sumar dos más dos. ¿Se lo vas a decir o lo vas a dejar adivinar?"
 - T566 · Muy serio al oír la oferta de destruir los titanes de las murallas.
 - T567 · "Para ellos, la isla es el infierno." "¿Qué les vas a decir? ¿Que sus hijos están vivos en la isla del demonio?"
+- T832 · Día 35 · Celda en Trost, barba larga, libro de botánica. "Hola, del gato. Tardaste veinticuatro días." Pide hablar a solas; Levi: "Ni en sueños."
