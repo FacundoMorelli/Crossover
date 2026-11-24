@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T809)
-miro a kuma y espero
-
-## RESPUESTA 1 (T809)
-
-> miro a kuma y espero
-
-No te mueves. Kase tampoco. Tiene las pupilas clavadas en el gigante, finas como hilos.
-
-Kuma cierra la Biblia con un dedo, despacio. Su voz es grave y plana, sin una sola emoción.
-
-—Por orden del Gobierno Mundial. —Recorre la explanada con la mirada—. Todos los que vieron caer a Gecko Moria deben desaparecer. El mundo no puede saber que un Guerrero del Mar perdió contra piratas.
-
-Los Piratas Rolling dejan de cantar. Lola se pone pálida. Brook se agarra el sombrero.
-
-Los ojos de Kuma se detienen en ti. No hay nada en esa cara, ni curiosidad ni odio. Solo una mirada larga.
-
-—«Ojos de Eclipse». Cuatrocientos millones. —Inclina la cabeza, apenas—. Si tuvieras que viajar a algún lugar... ¿adónde te gustaría ir de vacaciones?
-
-No espera respuesta. Se vuelve hacia el cuerpo de Luffy, que sigue desmayado en el barro, roncando.
-
-—Pero podría perdonarlos a todos. A todos los que están aquí. —Abre una mano enorme hacia Luffy—. A cambio de una sola cosa. La cabeza de Monkey D. Luffy.
-
-El silencio dura un segundo.
-
-Después, uno a uno, todos se levantan como pueden. Zoro se apoya en la Shusui y se pone de pie, sangrando. Sanji escupe sangre y enciende un cigarro con los dedos temblando. Nami se para con el Clima-Tact, Usopp con la Kabuto, Chopper con los puños cerrados. Franky se acomoda los lentes. Brook desenvaina la espada fina de su bastón. Robin da un paso adelante y se pone a tu lado.
-
-—Ni lo sueñes —dice Zoro.
-
-—Nos niegamos —dice Robin, tranquila.
-
-Kuma los mira a todos, sin cambiar de cara.
-
-—Entiendo.
-
-Se saca el guante de la mano derecha. En la palma, en lugar de piel lisa, tiene una almohadilla redonda, rosada, como la pata de un oso.
-
-Apoya la palma en el aire y empuja.
-
-El aire de la isla empieza a moverse hacia él. Al principio es una brisa y después un viento que arrastra polvo, astillas y pedazos de piedra. En la palma de Kuma se forma una burbuja transparente, con la forma de una pata de oso, que crece y crece. El aire alrededor se vuelve tan denso que cuesta respirar. Los oídos te zumban.
-
-La burbuja ya es más grande que Kuma. Sigue creciendo.
-
-Brook se pone blanco, más blanco que sus huesos.
-
-—Eso... eso es todo el aire de la isla... comprimido...
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 809 · ONE PIECE · DÍA 44 · 06:44       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 26 · EXP 214.940/215.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, alerta                   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Moria vencido. Kuma ataca. Salir   ║
-║ de One Piece antes del Día 49.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T810)
+## COMANDO 1 (T810)
 aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
 
-## RESPUESTA 2 (T810)
+## RESPUESTA 1 (T810)
 
 > aguanta kuma, dejo inconsciente a mis compañeros (sin ser brusco, con tacto suave)
 
@@ -133,10 +69,10 @@ Por primera vez, algo se le mueve en la cara. Es mínimo: las cejas, apenas.
 
 ---
 
-## COMANDO 3 (T811)
+## COMANDO 2 (T811)
 hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
 
-## RESPUESTA 3 (T811)
+## RESPUESTA 2 (T811)
 
 > hagamos un trato, dejame recibir el daño que recibieron todos de sus cuerpos, si lo aguanto te vas sin la cabeza de nadie
 
@@ -229,4 +165,46 @@ Se oye un «pop» seco de aire comprimido y Kuma ya no está.
 
 ---
 
-ESTADO AL CIERRE: Día 44 06:52. Facundo recibió todo el dolor de la tripulación (trato con Kuma), quedó cubierto de sangre pero de pie. Copió Nikyu Nikyu; Nivel 27. Kuma se fue. La tripulación sigue inconsciente y curada; no vio nada. Lola y los Rolling lo vieron todo. Kase mirándolo fijo junto a Robin.
+## COMANDO 3 (T812)
+me como una semilla, y me siento con kase
+
+## RESPUESTA 3 (T812)
+
+> me como una semilla, y me siento con kase
+
+Sacas una semilla del ermitaño del inventario y la masticas. Es seca, sabe a pasto y a tierra.
+
+El efecto es inmediato. Los cortes de los brazos se cierran y los del pecho y la espalda desaparecen. El dolor se apaga como una vela que alguien sopla. Respiras hondo y no te duele nada, ni una costilla. La energía te vuelve entera, de golpe.
+
+Solo queda la sangre en la ropa, el sobretodo empapado y tieso, y el charco rojo en el pasto.
+
+Te sientas en el suelo, al lado de Robin dormida.
+
+Kase no espera. Se te sube a las piernas de un salto y se te planta delante, con las patas delanteras en tu pecho y la cara a la altura de la tuya. Te mira fijo con los ojos de colores, rojo y azul, las pupilas finas.
+
+Te da un cabezazo en la mandíbula. Fuerte. No es una caricia: es un reto.
+
+Después da dos vueltas sobre tus piernas, se acurruca contra tu pecho, apretado, y apoya la cabeza bajo tu mentón. Ronronea, con un ruido grave y profundo que te vibra en el pecho. Cuando te mueves un poco, te clava las uñas en la ropa, sin lastimarte, para que no te vayas a ningún lado.
+
+El sol de la mañana sube despacio sobre las ruinas de Thriller Bark. La niebla se abre. Alrededor, la tripulación duerme en el pasto, curada, respirando tranquila. Luffy ronca con Chopper sobre la panza. Brook, al sol, con su sombra a los pies.
+
+Al borde de la explanada, Lola y los Piratas Rolling siguen mirándote. Ninguno se acerca todavía.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 812 · ONE PIECE · DÍA 44 · 06:55       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en tus piernas, ronroneando            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
+║ One Piece antes del Día 49.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 06:55. Facundo curado con una semilla (la ropa sigue empapada de sangre), sentado en el pasto junto a Robin dormida, con Kase acurrucado en el pecho ronroneando. Tripulación dormida y curada. Lola y los Rolling miran de lejos.

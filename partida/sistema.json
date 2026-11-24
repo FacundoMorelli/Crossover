@@ -1,8 +1,8 @@
 {
-  "turno": 811,
+  "turno": 812,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 44 (Grand Line, Thriller Bark)",
-  "hora": "06:52",
+  "hora": "06:55",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 64,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -400,8 +400,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 95,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci).",
+      "cantidad": 94,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma).",
       "mundo": "tienda"
     },
     {

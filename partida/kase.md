@@ -45,3 +45,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T285 (Jujutsu) · Se acuesta contra el pie de Megumi y deja que le ponga la mano en el lomo.
 - T294 (Jujutsu) · Deja que Panda le toque una oreja en la despedida.
 - T299 (Bleach) · Nel lo acaricia y lo abraza del cuello. Lo tolera con resignación.
+- T812 (One Piece) · Después de que Facundo recibe el dolor de Kuma, le da un cabezazo fuerte en la mandíbula y se acurruca contra su pecho ronroneando, sin soltarlo.
