@@ -33,3 +33,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T760 · Le gana a Lucci en el pasaje; queda sin poder moverse; Facundo lo saca en brazos. Duerme en cubierta.
 - T765 · Acepta quemar el Merry: "Sí. La despedimos nosotros. Que nadie más la toque."
 - T808 · Vence a Moria al amanecer (Gear Second + Third). Le robaron la sombra y la recuperó.
+- T816 · Saca la vivre card de Ace: se está quemando. "Ace es fuerte. Va a estar bien."

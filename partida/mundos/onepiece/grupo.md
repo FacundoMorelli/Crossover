@@ -7,3 +7,4 @@ RANGO: tripulante (sin puesto definido todavía).
 - T695 · Facundo y Robin empiezan una relación.
 - Día 40 · Se une Franky (carpintero).
 - Día 41 · Barco nuevo: Thousand Sunny.
+- Día 44 · Se une Brook (músico).

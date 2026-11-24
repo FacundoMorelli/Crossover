@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T813)
-espero a que despierten los demás
-
-## RESPUESTA 1 (T813)
-
-> espero a que despierten los demás
-
-Te quedas sentado en el pasto con Kase en el pecho, mirando cómo la niebla se termina de levantar. Lola y los Piratas Rolling encienden una fogata al borde de la explanada y ponen a calentar algo en una olla. Cada tanto alguno te mira de reojo y vuelve a mirar el fuego.
-
-A las siete y cuarenta, el primero en moverse es Luffy.
-
-Se sienta de golpe, con Chopper rodando de su panza al pasto, y se estira con los brazos de goma hasta el cielo.
-
-—¡Aaaah! ¡Qué bien dormí! —Se toca el estómago—. ¡Tengo hambre! ¡Carne!
-
-Uno por uno, despiertan los demás. Sanji se incorpora y busca el cigarro en el bolsillo. Nami se frota los ojos. Usopp se levanta gritando que vio a un oso gigante en un sueño. Franky se estira y le crujen todos los huesos de metal. Brook se sienta, ve la luz del sol sobre sus huesos y se queda quieto, mirándose la sombra.
-
-Zoro se sienta contra la piedra y se mira el pecho. Se toca los brazos, las costillas, el costado. No hay nada. Ni un corte.
-
-—...Me partieron la espalda anoche. —Frunce el ceño—. ¿Y ahora qué?
-
-Chopper corre de uno a otro, revisándolos con las pezuñas temblando.
-
-—¡Están todos sanos! ¡Todos! ¡No hay ni un hueso roto! ¡Ni una quemadura! ¡¿Cómo puede ser?! ¡Anoche Luffy estaba casi muerto!
-
-Robin es la última en abrir los ojos.
-
-Se despierta despacio, en el pasto, a tu lado. Lo primero que ve es tu sobretodo empapado y tieso, de un rojo oscuro casi negro. Después ve el charco a tus pies, ya seco en los bordes.
-
-Se le borra el color de la cara.
-
-Se sienta de golpe y se lleva la mano a la nuca. Se acuerda de los dos dedos.
-
-—¿Qué hiciste? —La voz casi no le sale—. Facundo. ¿Qué hiciste?
-
-Todos se dan vuelta a mirarte. Recién ahí ven la sangre.
-
-Zoro se levanta apoyándose en la Shusui. Mira el charco, a ti y el lugar vacío donde estaba Kuma.
-
-—¿Dónde está el oso?
-
-Al borde de la explanada, junto a la fogata, Lola se pone de pie de golpe con una cuchara en la mano. Abre la boca para contar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 813 · ONE PIECE · DÍA 44 · 07:40       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en tus piernas                         ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
-║ One Piece antes del Día 49.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T814)
+## COMANDO 1 (T814)
 se fue, dijo que no queria nada
 
-## RESPUESTA 2 (T814)
+## RESPUESTA 1 (T814)
 
 > se fue, dijo que no queria nada
 
@@ -123,10 +63,10 @@ Kase, en tus piernas, estira una pata y la apoya sobre la mano de Robin.
 
 ---
 
-## COMANDO 3 (T815)
+## COMANDO 2 (T815)
 le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
 
-## RESPUESTA 3 (T815)
+## RESPUESTA 2 (T815)
 
 > le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
 
@@ -179,4 +119,78 @@ Después, despacio, el violín se le resbala de los dedos y cae al pasto.
 
 ---
 
-ESTADO AL CIERRE: Día 44 08:05. Desayuno en las ruinas con Lola y los Rolling. Facundo con ropa limpia. Robin pegada a él ("Después me lo vas a contar. Todo."). Luffy le contó a Brook de Laboon; a Brook se le cayó el violín: "...¿Laboon?". Canon siguiente: flashback de Brook (Piratas Rumbar, Binks no Sake, la promesa).
+## COMANDO 3 (T816)
+miro a brook y espero
+
+## RESPUESTA 3 (T816)
+
+> miro a brook y espero
+
+Brook se queda mucho rato sin decir nada, con el violín en el pasto, a sus pies.
+
+Después empieza a hablar, despacio, mirando el fuego.
+
+Cuenta que hace más de cincuenta años era músico de una tripulación de piratas alegres, los Piratas Rumbar, que recorrían el mar tocando canciones. Su capitán se llamaba Yorki. En el West Blue, una ballena bebé empezó a seguir el barco porque le gustaba la música. Era chiquita, del tamaño de un bote, y la llamaron Laboon.
+
+—Cuando entramos al Grand Line no podíamos llevarla. Era muy peligroso. —Se le quiebra la voz—. La dejamos en el Cabo Gemelo, con el farolero, un tal Crocus. Le prometimos volver. Dos años, tres a lo sumo. Le dijimos: «Espéranos».
+
+En el Grand Line los emboscaron. Armas envenenadas. El capitán, enfermo, se fue con una parte de la tripulación y no volvió nunca. Los demás fueron muriendo uno por uno, en este mismo mar, en la niebla. Antes del final, sabiendo que ninguno iba a volver, grabaron una canción.
+
+Brook mete la mano en el saco y saca una caracola chiquita, blanca, gastada: un Tone Dial.
+
+—Para Laboon. Para que la escuchara. Y me hicieron prometer... a mí, el único que podía volver por la fruta... que se la llevaría.
+
+Aprieta el botón de la caracola.
+
+Sale una canción, vieja, con la grabación gastada, de muchas voces de hombres cantando a la vez, borrachos, felices, con violines y tambores y risas de fondo.
+
+«Vamos a llevarles el sake de Binks...»
+
+Brook se tapa la cara con las dos manos y llora sin lágrimas, con los hombros temblando.
+
+Luffy es el primero en cantar. Sin saber la letra, a los gritos, desafinado. Después Usopp, y Chopper, y Franky llorando, y Sanji, y Nami en voz baja. Zoro mueve los labios sin sonido. Lola y los Piratas Rolling se suman de pie, con las jarras en alto. Robin canta despacio, a tu lado, con la mano en la tuya.
+
+La canción de cincuenta años atrás suena entre las ruinas de Thriller Bark, al sol.
+
+Cuando termina, Brook se levanta. Se pone el sombrero de copa. Se para derecho.
+
+—Luffy-san. —Hace una reverencia profunda—. Acepto de verdad. Voy a ser el músico de esta tripulación. Y voy a ir a ver a Laboon... no como un fantasma. Vivo. De frente.
+
+—¡Shishishi! ¡Claro que sí!
+
+Toda la tripulación grita. Lola llora abrazada a uno de sus hombres.
+
+Luffy, contento, se saca el sombrero de paja para abanicarse y algo se le cae del forro. Es un papel blanco, doblado. Lo levanta.
+
+Es el papel que le dio Ace en Arabasta.
+
+Tiene los bordes negros, quemados. Y mientras Luffy lo mira, se encoge solo un poco más, de a milímetros, como si se consumiera desde adentro.
+
+Nami deja de reírse.
+
+—Luffy... eso es una vivre card. —Se pone seria—. Si se quema así... significa que la persona está en peligro. Que su vida se está apagando.
+
+Toda la explanada se queda callada.
+
+Luffy mira el papel un largo rato, serio, sin sonreír. Después lo dobla con cuidado y lo vuelve a guardar en el sombrero.
+
+—Ace es fuerte. —Se pone el sombrero—. Va a estar bien.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 816 · ONE PIECE · DÍA 44 · 09:10       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la piedra, vigilándote              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
+║ One Piece antes del Día 49.                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 09:10. Brook contó su historia, cantaron Binks no Sake, se unió de verdad. Luffy sacó la vivre card de Ace: se está quemando; Nami explicó que Ace está en peligro; Luffy la guardó: "Ace es fuerte. Va a estar bien." (Secreto: Ace fue capturado por Barbanegra el Día 40.)

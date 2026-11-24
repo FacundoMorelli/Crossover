@@ -13,3 +13,4 @@ ESTADO: activo
 - T805 · Acepta unirse a Luffy. Le pide las bragas a Nami. Cuenta: Yomi Yomi no Mi; murió hace 50 años; le robaron la sombra; el sol lo desintegra. Thriller Bark se traga al Sunny: "Ahí está el hombre que me robó la sombra."
 - T806 · Advierte sobre Gecko Moria. Llora de emoción cuando la tripulación decide recuperar su sombra.
 - T808 · Le devuelven la sombra (Zoro vence a Ryuma). Ve el amanecer de pie.
+- T816 · Cuenta su historia (Rumbar, Yorki, Laboon, Binks no Sake). Se une oficialmente; va a ver a Laboon vivo.

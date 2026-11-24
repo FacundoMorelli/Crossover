@@ -206,3 +206,4 @@
 - Tripulación · T813 · Ven a Facundo con la ropa empapada de sangre y un charco rojo; se despertaron sin heridas ni cansancio. Robin recuerda que Facundo la durmió con un toque. No saben lo del trato.
 - Tripulación · T814 · Por Facundo: Kuma "se fue, dijo que no quería nada". Lola NO contó el trato (lo guarda por decisión propia). Robin y Zoro sospechan que hubo algo más (no saben qué).
 - Brook · T815 · Por Luffy: Laboon sigue vivo en el Cabo Gemelo, esperando.
+- Tripulación, Facundo · T816 · Por Brook: los Piratas Rumbar, Laboon, la promesa, Binks no Sake. Ven la vivre card de Ace quemándose (Nami: Ace está en peligro).
