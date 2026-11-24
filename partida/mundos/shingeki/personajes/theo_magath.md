@@ -29,3 +29,4 @@ ESTADO: activo
 - T861 · Plan: arrestar a Calvi y a los golpistas con sus oficiales leales; al amanecer, al Primer Ministro con los nombres de los dos ministros; Willy habla a las 9. Pide que Facundo se vaya antes de que lleguen sus hombres.
 - T931 · Día 49: llega en persona a Paradis con dos oficiales; le da la mano a Erwin en la escalinata del palacio. No prueba el vino. Día 50 en el mirador, ya sabía de los colosales.
 - T932 · Ve desaparecer 1 km de Wall Rose; no retrocede; le tiembla la mandíbula una vez.
+- T933 · Respalda a Facundo ante los embajadores: el golpe de Liberio, 65 hombres en tres minutos sin heridos. "Sé reconocer a alguien que podría haber matado y eligió no hacerlo."

@@ -14,3 +14,4 @@ ESTADO: activo
 - T858 · Día 40 · Conoce a Mikasa: la marca está. Llora. Acuerdo de principio con Historia.
 - T931 · Día 49: llega con la delegación de Hizuru; en la cena habla bajito con Mikasa; no le contesta a un embajador sobre Facundo. Día 50 en el mirador.
 - T932 · Ve la demostración; se tapa la boca con el abanico.
+- T933 · "Hizuru ya hizo su apuesta." Pide hablar a solas con Facundo antes de la recepción: una propuesta solo para él.

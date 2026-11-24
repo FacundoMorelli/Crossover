@@ -3,86 +3,10 @@
 
 ---
 
-## COMANDO 1 (T930)
-bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
-
-## RESPUESTA 1 (T930)
-
-> bueno luffy, te dejo a solas con el, yo me tengo que ir a viajar por el mundo, nos vemos en 2 años capitan. me voy a shingeki
-
-> —Bueno, Luffy. Te dejo a solas con él. Yo me tengo que ir a viajar por el mundo. Nos vemos en dos años, capitán.
-
-Luffy se da vuelta de golpe.
-
-Se te queda mirando con la boca abierta, como si recién ahora entendiera que esa parte también iba en serio. Después aprieta los labios. Baja la vista. Se acomoda el sombrero de paja con una mano, muy despacio, hasta que le tapa los ojos.
-
-—Dos años —dice, bajito.
-
-Después levanta la cabeza, y está sonriendo. Enorme. Con los ojos brillosos.
-
-—¡Shishishi! ¡Cuando nos veamos, voy a ser mucho más fuerte que tú!
-
-Te pega un puñetazo en el pecho, flojo, de despedida. Después te abraza. Fuerte, con los brazos estirados dando dos vueltas alrededor de tu espalda, aplastando a Kase contra tu cuello. Kase gruñe. Luffy no lo suelta.
-
-—Gracias, Facundo. —Te lo dice al oído, sin gritar, por primera vez en todo el día—. Por Ace. Por todos.
-
-Te suelta y se da vuelta rápido, hacia la barra, para que no le veas la cara.
-
-—¡Oye, señora! ¡¿Tienes carne?!
-
-Shakky se ríe con el cigarrillo en la boca y se va a la cocina.
-
-Rayleigh no se levanta de la mesa. Te mira por encima del vaso, largo, con esa calma de mar quieto.
-
-—Así que eso era lo que querías decir con que viajabas mucho. —No es una pregunta. Levanta el vaso un poco, hacia ti, a modo de brindis—. Ve tranquilo, muchacho. Dentro de dos años te devuelvo a un capitán que valga la pena seguir.
-
-Te alejas un paso de la mesa. Levantas la mano.
-
-La puerta se abre en el medio del bar, entre la barra y la ventana redonda: un marco de luz recto, alto, que no pertenece a este lugar. Del otro lado no hay burbujas ni manglares, sino piedra gris, un ventanal alto y olor a papel viejo y a tinta.
-
-Luffy se da vuelta con un pedazo de carne en la boca y los ojos enormes.
-
-—¡¿Qué es esooo?!
-
-Cruzas.
-
-Sabaody se cierra detrás de ti.
-
-El aire es más frío, más seco. Hay silencio, ese silencio grueso de los edificios de piedra. Estás de pie en la sala de mapas del palacio de Mitras, exactamente donde te fuiste: la mesa larga cubierta de planos, el ventanal que da a los techos de la capital, el mapa enorme de Paradis clavado en la pared, con alfileres de colores sobre Wall Rose al norte de Karanes.
-
-Por el ventanal entra luz de mediodía.
-
-En la mesa, inclinados sobre un plano de la muralla, hay dos personas. Hange, con los anteojos en la frente y un lápiz atravesado en la boca, marcando algo con el dedo. Y Erwin, de pie, con la única mano apoyada en el borde de la mesa y la manga vacía doblada.
-
-Los dos levantan la cabeza al mismo tiempo.
-
-A Hange se le cae el lápiz de la boca. Rebota en el plano y rueda hasta el borde de la mesa.
-
-Erwin no se mueve. Te mira de arriba abajo: el sobretodo, el gato, la cara. Mira el reloj de pared que hay sobre la puerta.
-
-—Día cuarenta y ocho —dice, tranquilo—. Llega dos días antes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 930 · SHINGEKI · DÍA 48 · 12:21        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 73% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Demostración, día 50, mediodía,    ║
-║ Wall Rose al norte de Karanes.               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T931)
+## COMANDO 1 (T931)
 no, aparenta unos 18 o 19 pero estuvo 60 años de titan, asi que dejala como mayor, simula hasta el dia 50 en la demostracion
 
-## RESPUESTA 2 (T931)
+## RESPUESTA 1 (T931)
 
 > simula hasta el dia 50 en la demostracion
 
@@ -153,10 +77,10 @@ El viento te sacude el sobretodo. Kase, en tu hombro, entrecierra los ojos contr
 
 ---
 
-## COMANDO 3 (T932)
+## COMANDO 2 (T932)
 uso eclipse
 
-## RESPUESTA 3 (T932)
+## RESPUESTA 2 (T932)
 
 > uso eclipse
 
@@ -233,4 +157,70 @@ Uno de los embajadores de los cuatro países, un hombre mayor de barba blanca, s
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 50 12:04, mirador sobre Wall Rose. Facundo borró con el Eclipse 1 km de Wall Rose y sus colosales ante las delegaciones. Historia prometió borrar todas las murallas. Un embajador de barba blanca le pregunta a Facundo qué garantiza que no haga eso con una ciudad. Facundo puede responder.
+## COMANDO 3 (T933)
+por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
+
+## RESPUESTA 3 (T933)
+
+> por que si quisiera hacerlo ya lo hubiera hecho, señor yo soy una persona que viaja mucho, no le gusta hacer el mal, no hubiese hecho nada de esto si quisiera hacer algo asi
+
+> —Porque, si quisiera hacerlo, ya lo habría hecho. Señor, yo soy una persona que viaja mucho. No me gusta hacer el mal. No habría hecho nada de esto si quisiera hacer algo así.
+
+El embajador de barba blanca te sostiene la mirada. No contesta enseguida. Aprieta el sombrero contra el pecho, y se le ven los nudillos blancos.
+
+—Las palabras de un hombre... —empieza, despacio.
+
+—No son solo palabras.
+
+Lo dice Magath. No levantó la voz, pero todo el mirador se da vuelta hacia él. Sigue con las manos detrás de la espalda y la vista clavada en el hueco de la muralla.
+
+—Hace seis días, en Liberio, un grupo de oficiales de mi propio ejército intentó un golpe de Estado. Rodearon la casa de Willy Tybur. Rodearon la mía. Eran sesenta y cinco hombres armados. —Hace una pausa—. Este hombre los detuvo a todos. En tres minutos. Sin un solo herido. Sin una gota de sangre. Ni siquiera la de los traidores.
+
+Por fin gira la cabeza y mira al embajador.
+
+—Yo llevo treinta años en la guerra, señor. Sé reconocer a alguien que podría haber matado y eligió no hacerlo. Lo vi dos veces en este mes. Las dos veces fue él.
+
+El embajador se queda callado.
+
+Kiyomi cierra el abanico con un chasquido seco.
+
+—Hizuru ya hizo su apuesta —dice, con una sonrisa fina—. Y en mi familia rara vez apostamos mal.
+
+Detrás de ella, los otros tres embajadores se miran entre ellos. Uno asiente, apenas. Otro sigue pálido, mirando el hueco. El de barba blanca respira hondo, largo, y se vuelve a poner el sombrero con las manos todavía temblando.
+
+—Lo voy a informar así —dice al fin, hacia Historia—. Con todo lo que vi. Y con lo que dijo el general.
+
+Historia inclina la cabeza.
+
+Erwin da un paso al frente, entre la reina y las delegaciones, y su voz llena el mirador como en una formación.
+
+—La demostración terminó. Los carruajes los llevarán de vuelta a Mitras. A las seis habrá una recepción en el palacio, donde la reina responderá a todas sus preguntas.
+
+Las delegaciones empiezan a moverse hacia los elevadores, despacio, hablando en voz baja, mirando hacia atrás, hacia el hueco, cada pocos pasos.
+
+Kiyomi no se mueve con los suyos.
+
+Espera a que el embajador de barba blanca pase a su lado. Después camina hasta ti, con el abanico cerrado en una mano y una sonrisa muy amable, demasiado amable, de comerciante.
+
+—Emisario. —Hace una pequeña reverencia—. ¿Me concede unas palabras a solas antes de la recepción? Tengo una propuesta para usted. Solo para usted.
+
+Detrás de ti, en la baranda, Ymir deja de balancear las piernas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 933 · SHINGEKI · DÍA 50 · 12:09        ║
+║ Wall Rose, norte de Karanes · el mirador     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Kiyomi pide hablar a solas. A las  ║
+║ 18, recepción en el palacio.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 50 12:09, mirador sobre Wall Rose. Magath respaldó a Facundo ante los embajadores; el de barba blanca lo informará. Erwin cerró la demostración (recepción a las 18). Kiyomi pide hablar a solas con Facundo: tiene una propuesta solo para él. Ymir atenta. Facundo puede responder.

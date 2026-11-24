@@ -170,3 +170,4 @@
 - Erwin, Hange · T930 · Día 48 · Ven a Facundo volver por una puerta a la sala de mapas, dos días antes de lo prometido.
 - Embajadores de cuatro países, Magath y sus oficiales, Kiyomi · T931 · Ven en persona al Emisario del Gato en Paradis (cena del día 49) y los colosales dentro de Wall Rose (día 50).
 - Todas las delegaciones (Hizuru, cuatro países, Marley) y la cúpula de Paradis · T932 · Ven al Emisario del Gato borrar con un punto negro 1 km de Wall Rose y sus colosales.
+- Embajadores de cuatro países, Kiyomi, la cúpula de Paradis · T933 · Por Magath: Facundo detuvo el golpe de Liberio (65 hombres, tres minutos, sin heridos). Por Facundo: viaja mucho, no le gusta hacer el mal.

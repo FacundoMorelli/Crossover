@@ -30,3 +30,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T864 · Día 47 · Con Facundo en su cuarto (fundido). Después, en su pecho: "Ahora sí te puedes ir. Pero vuelve, lindo. Que esto no lo hago con cualquiera."
 - T931 · Noche del día 48: "Dos días antes. ¿Me extrañaste, lindo?" Día 50: en la baranda del mirador comiendo una manzana.
 - T932 · El Eclipse se traga su manzana: "¡Ey!"
+- T933 · Deja de balancear las piernas cuando Kiyomi pide hablar a solas con Facundo.

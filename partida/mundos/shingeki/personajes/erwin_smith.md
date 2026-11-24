@@ -31,3 +31,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T866 · Facundo promete estar el día 50. "Entonces vaya. Y vuelva." Lo esperan antes de las 11 sobre la muralla al norte de Karanes.
 - T930 · Día 48 12:21 · Sala de mapas. Ve llegar a Facundo por la puerta: "Día cuarenta y ocho. Llega dos días antes."
 - T931 · Día 48-50. Planifica la demostración. Recibe a Magath en la escalinata. Día 50 12:00: "Cuando usted diga."
+- T933 · Cierra la demostración: recepción a las 18 en el palacio.
