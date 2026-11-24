@@ -12,3 +12,4 @@ DIÁLOGOS CLAVE: "Chapapa. Cinco llaves, una sirve."
 QUÉ SABE DE FACUNDO: lo vio en Water 7 con la tripulación; lo vio derribar las banderas (T745) y cruzar volando (T747).
 QUÉ PODERES DE FACUNDO VIO: arco de luz (T745), vuelo/gravedad (T747).
 ESTADO: activo.
+- T760 · Vencido por Franky. Ve quemar los planos de Plutón.

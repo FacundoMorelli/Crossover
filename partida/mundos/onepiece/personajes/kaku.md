@@ -8,3 +8,4 @@ RELACIÓN CON FACUNDO: ninguna.
 ENCUENTROS:
 - T698 · Va a revisar el Merry.
 ESTADO: activo
+- T760 · Vencido por Zoro (Asura). Le da la llave 5.

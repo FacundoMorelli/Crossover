@@ -22,3 +22,4 @@ DIÁLOGO T356: "¿Y tú quién demonios eres?"
 - T608 · Desenvaina a medias ante Robin: "¿Qué hace la socia del cocodrilo aquí?"
 - T609 · Envaina. "Si el capitán lo dice. Pero la voy a vigilar."
 - T737 · Entiende por qué Facundo los dejó ir.
+- T760 · Vence a Kaku con el Kyutoryu Asura, esposado a Usopp.

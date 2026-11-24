@@ -14,3 +14,8 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T679 · Enel vencido por Luffy; el Raigo, tragado por Facundo. Skypiea a salvo.
 - T680 · La campana de Shandora suena por primera vez en 400 años. Promesa a Cricket cumplida.
 - T682 · Paz entre shandianos y habitantes de Skypiea. Enel se fue.
+- T745 · Declaración de guerra al Gobierno Mundial: Facundo derriba todas las banderas de Enies Lobby.
+- T754 · Spandam activa el Buster Call por error.
+- T756 · Robin, libre de las esposas en el Puente de la Vacilación, gracias a Facundo.
+- T759 · Tres acorazados del Buster Call fuera de combate por la Shio Shio no Mi.
+- T760 · El CP9 cae entero. Lucci vencido por Luffy. Spandam aplastado por Robin. Planos de Plutón quemados por Franky.

@@ -20,3 +20,4 @@ QUÉ SABE DE FACUNDO (T352): lo vio en persona (pelo, tatuajes, gato). Cree que 
 - T707 · Acepta el plan del último viaje. Abraza a Facundo. "Que se despida en el mar."
 - T714 · "El último viaje del Merry: a Enies Lobby, a buscar a Robin."
 - T731 · Franky ofrece reforzar el Merry para el último viaje.
+- T760 · Esposado a Zoro; Zoro vence a Kaku. Sube al Merry.
