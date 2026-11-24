@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T917)
-nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
-
-## RESPUESTA 1 (T917)
-
-> nos volvemos a ver en 2 años, entrena aqui, con aparentemente el castillo de mihawk, no estan preparados para el nuevo mundo
-
-> —Nos volvemos a ver en dos años. Entrena aquí. Aparentemente, ese es el castillo de Mihawk. No están preparados para el Nuevo Mundo.
-
-Zoro se te queda mirando. No dice nada.
-
-Después mira a Luffy, que sigue colgado de su hombro.
-
-—¿Dos años? —Lo dice despacio, como si probara el peso de la palabra—. ¿Tú estás de acuerdo con esto?
-
-Luffy se suelta. Se para delante de él. Se le borra la sonrisa.
-
-—Sí. —Se acomoda el sombrero—. El oso nos hizo desaparecer a todos y no pude hacer nada. Hoy casi se muere Ace y tampoco pude hacer nada. Si vamos así al Nuevo Mundo, nos van a matar. —Aprieta el puño—. Dos años, Zoro. Y después nos juntamos en Sabaody.
-
-Zoro lo mira un rato largo. Después cierra los ojos.
-
-—Hmph. —Se rasca la nuca—. Si el capitán lo dice.
-
-Pero cuando vuelve a abrir el ojo, ya no te mira a ti. Mira por encima de los árboles muertos, hacia la colina, hacia las torres rotas del castillo negro.
-
-—¿Mihawk? —Se le tensa la mandíbula—. ¿Este es su castillo?
-
-Arriba, Perona da un respingo en el aire.
-
-—¡¿Ojos de Halcón?! ¡¿El espadachín ese?! —Se agarra la cabeza con las dos manos—. ¡Con razón hay cuadros tan feos en todas las paredes! ¡Y yo dormí en su cama! ¡Ay, no, ay, no, ay, no...!
-
-Zoro no la escucha. Camina hasta el borde del claro, hasta donde la niebla se abre y se ve el castillo entero, y se queda parado ahí, con las manos sobre las empuñaduras de las tres espadas.
-
-Se le dibuja una sonrisa en la cara. Una sonrisa fea, con los dientes, la misma que tenía en el Baratie con el pecho abierto de un corte.
-
-—Entonces lo espero aquí.
-
-Se da vuelta hacia ustedes.
-
-—Dos años. —Levanta el puño, cerrado, hacia Luffy—. Cuando vuelvas a verme, no voy a perder contra nadie más.
-
-Luffy choca el puño con el suyo, con una sonrisa enorme.
-
-Después Zoro te mira a ti. Te mira de arriba abajo: el pelo, los ojos, el gato en el hombro.
-
-—Y tú. —Inclina la cabeza—. ¿Qué vas a hacer en estos dos años? Porque tú no pareces necesitar entrenar mucho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 917 · ONE PIECE · DÍA 57 · 13:48       ║
-║ Kuraigana · claro del bosque muerto          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisados 1/8 (Zoro). Bankai sobre  ║
-║ la flota. Shingeki: antes del D59 16:30.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T918)
+## COMANDO 1 (T918)
 voy a estar viajando. simula decirle al resto hasta robin(ultima)
 
-## RESPUESTA 2 (T918)
+## RESPUESTA 1 (T918)
 
 > voy a estar viajando. simula decirle al resto hasta robin(ultima)
 
@@ -151,10 +87,10 @@ Y te ve.
 
 ---
 
-## COMANDO 3 (T919)
+## COMANDO 2 (T919)
 me acerco caminando a ella
 
-## RESPUESTA 3 (T919)
+## RESPUESTA 2 (T919)
 
 > me acerco caminando a ella
 
@@ -209,4 +145,76 @@ Luffy, que venía caminando detrás de ti, se detiene. Se pone de espaldas a ust
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:21, Tequila Wolf. Facundo frente a Robin. Ella llora en silencio: "Tardaste. Me prometiste que me ibas a contar cómo termina la historia de ese mundo." Guardias llegando (látigo, fusil, alarma). Luffy los enfrenta de espaldas a la pareja. Facundo puede actuar.
+## COMANDO 3 (T920)
+todavia no termino la historia, pero no queda mucho para que termine, luffy entreten a los guardias. le doy un beso largo a robin agarrandola de la cara y mientras la beso rompo las cadenas de todos con luna
+
+## RESPUESTA 3 (T920)
+
+> todavia no termino la historia, pero no queda mucho para que termine, luffy entreten a los guardias. le doy un beso largo a robin agarrandola de la cara y mientras la beso rompo las cadenas de todos con luna
+
+> —Todavía no terminó la historia. Pero no falta mucho para que termine.
+
+> —Luffy, entretén a los guardias.
+
+—¡Shishishi! ¡Déjamelo a mí!
+
+Detrás de ti, el látigo baja. No llega. Se oye un estirón de goma, un golpe seco y un guardia que sale volando por encima de la baranda del puente, gritando, hasta caer al mar.
+
+—¡¿Qué...?! ¡Es Sombrero de Paja! ¡¡Es Monkey D. Luffy!! ¡¡Disparen!!
+
+No te das vuelta.
+
+Le agarras la cara a Robin con las dos manos. Tiene la piel fría y áspera de polvo, y está temblando. Ella abre la boca para decir algo.
+
+La besas.
+
+Despacio. Largo. Robin se queda quieta un segundo, rígida, con las manos esposadas entre los dos. Después se le aflojan los hombros, como si se le cayera de encima algo mucho más pesado que el bloque de piedra, y te devuelve el beso con los ojos cerrados y las lágrimas corriéndole todavía por las mejillas, hasta tus dedos.
+
+Mientras tanto, el ojo derecho se te enfría.
+
+Primero se rompen las de ella. Las esposas de piedra marina crujen entre tu pecho y el suyo, se parten en cuatro pedazos y caen al suelo. Robin no se da cuenta. O sí, y no le importa: las manos libres le suben solas hasta tu pecho y se te agarran del sobretodo.
+
+Después, el resto.
+
+La Luna se abre por el puente como una ola sin agua. Corre hacia los dos horizontes a la vez, por encima de las cabezas de los presos, y por donde pasa, el hierro se rinde. Las cadenas de los tobillos se estiran hasta reventar. Los grilletes se abren como cáscaras. Los eslabones saltan por el aire, cientos, miles, y caen sobre la piedra con un ruido de lluvia de metal que se oye a kilómetros.
+
+Durante un segundo, nadie en Tequila Wolf entiende nada.
+
+Un viejo se mira el tobillo. Se lo toca. Da un paso, uno solo, sin arrastrar nada. Se cae de rodillas y se pone a llorar.
+
+Después alguien grita.
+
+Y el grito se contagia por el puente como un incendio. Miles de presos se miran los pies, las manos, se miran entre ellos. Tiran las herramientas. Algunos se abrazan. Otros se dan vuelta hacia los guardias, todavía con los martillos en la mano, y en la cara se les ve algo que hace años que no tenían.
+
+Los guardias retroceden. Uno suelta el fusil y sale corriendo.
+
+—¡¡Las cadenas!! ¡¡Se rompieron todas las cadenas!!
+
+—¡¡Somos libres!!
+
+Luffy, en medio de cuatro guardias tirados en el piso, se ríe con los brazos en la cintura.
+
+Robin se separa de ti, apenas, lo justo para respirar. Te mira desde muy cerca. Tiene los ojos rojos, la boca entreabierta y las manos todavía agarradas a tu sobretodo. Detrás de ella, el puente entero estalla en gritos.
+
+Mira por encima de tu hombro, a los miles de presos sin cadenas. Después te mira a ti otra vez.
+
+—Eres imposible —dice, con la voz rota, y se ríe, bajito, contra tu pecho—. Siempre eres imposible.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 920 · ONE PIECE · DÍA 57 · 17:23       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Robin libre. Los presos de Tequila ║
+║ Wolf, libres. Shingeki: antes del D59 16:30. ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:23, Tequila Wolf. Facundo besó a Robin y rompió con la Luna sus esposas y las cadenas de todos los presos. El puente estalla en gritos de libertad; los guardias huyen. Luffy noqueó a cuatro. Robin, abrazada a Facundo: "Eres imposible. Siempre eres imposible." Facundo puede responder.

@@ -25,3 +25,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T903 · El Ryusei Kazan de Akainu sobre la flota en retirada: cero daños, por el Bankai de Facundo.
 - T906 · La flota de Barbablanca sale de Marineford con Barbablanca y Ace vivos. Veinte buques de la Marina levantados y apartados por Facundo.
 - T911 · El Bankai de Facundo queda protegiendo a la flota de Barbablanca.
+- T920 · Tequila Wolf: miles de esclavos liberados de golpe por Facundo. Robin libre.
