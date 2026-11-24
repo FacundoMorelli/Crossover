@@ -1,8 +1,8 @@
 {
-  "turno": 770,
+  "turno": 771,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 37 (Grand Line, Water 7)",
-  "hora": "09:45",
+  "hora": "09:48",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -393,11 +393,6 @@
       "objeto": "(entregado) Documentos de Baroque Works",
       "detalle": "Robados del despacho de Crocodile en Rain Dinners (T596) y entregados a Koza: orden de la Operación Utopía con el emblema del cocodrilo; registro de cargamentos de Polvo de Baile (fechas, barcos, depósitos del palacio); lista de agentes con números; plano de Alubarna.",
       "mundo": "onepiece"
-    },
-    {
-      "objeto": "Libro de Paradis (de Robin, guardado por Facundo)",
-      "detalle": "Libro de tapas de cuero gastadas, impreso en Paradis (Shingeki), sobre las murallas y los titanes, con grabados. Regalado a Robin en T617. Escrito en el alfabeto de las murallas: Robin no puede leerlo. Robin se lo devolvió para que se lo guarde (T711).",
-      "mundo": "shingeki → onepiece"
     },
     {
       "objeto": "Semillas del ermitaño",
