@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1028)
-voy a la tienda de Urahara
-
-## RESPUESTA 1 (T1028)
-
-> voy a la tienda de Urahara
-
-Caminas río arriba por la orilla y después subes a las calles.
-
-Karakura en invierno es la misma de siempre, pero más callada. Las veredas tienen una capa fina de escarcha que cruje bajo los borceguíes. En las vidrieras hay guirnaldas de papel, y en un konbini de la esquina, un Santa Claus de cartón saluda con la mano. Pasa una señora en bicicleta con una bufanda hasta la nariz. Te mira, mira a Kase, casi se cae y sigue de largo.
-
-La tienda de Urahara está donde estaba. La misma casa vieja de madera, apretada entre dos edificios más nuevos, con el letrero gastado sobre la puerta corrediza y el patio de tierra adelante. Ahora el patio está blanco de escarcha.
-
-En el medio del patio, un chico pelirrojo, con un gorro de lana y una escoba en las manos, barre la nieve con furia, mandándola para cualquier lado. A su lado, una nena de coletas negras y cara triste barre con mucho cuidado un cuadradito de un metro, siempre el mismo.
-
-—¡Esto es inútil, Ururu! ¡Sigue cayendo! ¡Para qué barrer si sigue cayen...!
-
-Jinta te ve.
-
-Se le cae la escoba.
-
-—Tú... —Te señala con el dedo enguantado—. ¡¿TÚ?! ¡El de la tele! ¡El que se fue por una puerta en el río y no volvió nunca! —Mira a Kase, que lo mira desde tu hombro con los ojos entrecerrados, y retrocede un paso sin darse cuenta—. ¡Y el gato ladrón de pescado!
-
-Ururu deja de barrer. Se queda mirándote con la escoba abrazada.
-
-—Señor Facundo... —dice, muy bajito—. Volvió.
-
-La puerta corrediza de la tienda se abre despacio, con un chirrido.
-
-En el umbral aparece un hombre alto, con un sombrero a rayas verdes y blancas, sandalias de madera sobre la escarcha y un haori oscuro con las mangas largas. Tiene el bastón bajo el brazo y un abanico cerrado en la mano. Te mira desde la sombra del sombrero. Se queda quieto un segundo, solo uno.
-
-Después abre el abanico de golpe y se tapa media cara.
-
-—¡Vaya, vaya, vaya! —Su voz es alegre y cantarina, como si hubiera ganado la lotería—. ¡Pero si es el señor Bicolor! Casi tres meses sin una postal, ni una llamada, ni un mensaje en una botella, y aparece así, un jueves a media mañana, como si hubiera salido a comprar pan. —Se ríe detrás del abanico—. ¡Qué descortés! ¡Me encanta!
-
-Detrás de sus piernas, en el piso de madera de la tienda, un gato negro de ojos dorados se asoma, se sienta y mira a Kase.
-
-Kase le devuelve la mirada.
-
-Urahara baja un poco el abanico. Los ojos, debajo del ala del sombrero, ya no se ríen tanto: te miran de arriba abajo, con cuidado, buscando algo.
-
-—Pase, pase, que se congela —dice, y se hace a un lado—. Tessai acaba de hacer té. —Una pausa corta—. Y supongo que querrá saber qué pasó por aquí mientras estuvo de viaje.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1028 · BLEACH · 18/12 · 10:58          ║
-║ Karakura · patio de la tienda de Urahara     ║
-║ NIVEL 27 · EXP 234.850/240.000               ║
-║ FRAGMENTOS 107.840 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, mirando a Yoruichi       ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1029)
+## COMANDO 1 (T1029)
 paso y le digo que sí, cuéntame qué pasó
 
-## RESPUESTA 2 (T1029)
+## RESPUESTA 1 (T1029)
 
 > paso y le digo que sí, cuéntame qué pasó
 
@@ -124,10 +64,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1030)
+## COMANDO 2 (T1030)
 le doy la sorpresa, lo espero en el puente
 
-## RESPUESTA 3 (T1030)
+## RESPUESTA 2 (T1030)
 
 > le doy la sorpresa, lo espero en el puente
 
@@ -192,4 +132,62 @@ Se le cae la mochila del hombro. Cae a la vereda con un golpe sordo.
 
 ---
 
-ESTADO AL CIERRE: Bleach, 18/12 15:42, puente sobre el río de Karakura. Ichigo, Chad y Orihime lo ven. A Ichigo se le cae la mochila: "...¿Facundo?" Facundo puede actuar.
+## COMANDO 3 (T1031)
+hola chicos, como estan? volvi para ver si todo estaba bien, urahara ya me dijo que si, asi que vine a saludarlos
+
+## RESPUESTA 3 (T1031)
+
+> hola chicos, como estan? volvi para ver si todo estaba bien, urahara ya me dijo que si, asi que vine a saludarlos
+
+> —Hola, chicos. ¿Cómo están? Volví para ver si todo estaba bien. Urahara ya me dijo que sí, así que vine a saludarlos.
+
+Durante un segundo, ninguno de los tres se mueve.
+
+Después Ichigo cruza la vereda en cuatro pasos, con la cara roja, y te da un puñetazo en el hombro. No en el que tiene a Kase. Fuerte, de verdad, con toda la intención.
+
+No te mueve ni un centímetro. Ichigo se agarra la mano y sacude los dedos.
+
+—¡Tres meses! —grita, y un par de alumnos que pasaban se dan vuelta—. ¡Tres meses sin decir nada, idiota! ¡Te fuiste por una puerta en el río y nada! ¡Ni una señal! ¡Rukia preguntó por ti cada vez que vino! ¡Cada vez! —Se pasa la mano por el pelo, furioso—. ¡Y apareces en el puente como si nada, diciendo "vine a saludarlos"!
+
+Kase, desde tu hombro, envuelto en la bufanda, lo mira con los ojos entrecerrados.
+
+Ichigo lo mira a él. Se le corta el grito.
+
+—...¿Qué le pasó al gato? ¿Por qué tiene una bufanda?
+
+Orihime llega detrás, corriendo, con los ojos llenos de lágrimas y una sonrisa enorme, las dos cosas a la vez.
+
+—¡Facundo-kun! —Se frena delante de ti, con las manos juntas en el pecho, sin saber si abrazarte o no, y al final no lo hace—. ¡Volviste! ¡De verdad volviste! —Se limpia los ojos con la manga del abrigo—. Perdón, perdón, no estoy llorando, es el frío. Estamos bien. ¡Todos estamos bien! —Se ríe—. Kurosaki-kun estaba preocupado, aunque diga que no.
+
+—¡No estaba preocupado!
+
+—Sí estaba —dice Chad.
+
+Chad se acerca último, despacio, con la mochila de Ichigo en la mano: la levantó de la vereda sin que nadie se diera cuenta. Se para frente a ti, te mira desde detrás del flequillo y asiente una vez, grave.
+
+—Bienvenido —dice.
+
+Le extiende la mochila a Ichigo, que se la arranca de la mano sin mirarlo, todavía rojo.
+
+Ichigo se cuelga la mochila, se mete las manos en los bolsillos del abrigo, mira el río, mira el cielo, mira cualquier cosa menos a ti. Después suspira, largo, y algo en la cara se le afloja.
+
+—Bueno. Ya estás aquí. —Te mira de reojo—. ¿Y ahora qué? ¿Cuánto te vas a quedar esta vez? ¿O vas a desaparecer de nuevo mañana por otra puerta?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1031 · BLEACH · 18/12 · 15:44          ║
+║ Karakura · puente sobre el río               ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, con bufanda              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 18/12 15:44, puente sobre el río de Karakura. Reencuentro con Ichigo, Orihime y Chad. Ichigo pregunta cuánto se va a quedar. Facundo puede responder.

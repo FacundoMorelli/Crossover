@@ -77,3 +77,4 @@ ESTADO: Shinigami con poder propio, Zangetsu en shikai permanente. Listo para ir
 - T325 · Curado por Orihime. Ve a Facundo con Aizen de piedra y a Gin y Tōsen. En guardia.
 - DIÁLOGO T325: "¡¿Qué hacen ESOS aquí?!" / "...¿Eso es Aizen?"
 - T1030 · 18/12 15:42 · En el puente, de vuelta de la escuela con Chad y Orihime; ve a Facundo; se le cae la mochila. "...¿Facundo?" (pelo más largo que en septiembre).
+- T1031 · Puñetazo en el hombro de Facundo (se lastima la mano). "¡Tres meses sin decir nada, idiota! ¡Rukia preguntó por ti cada vez que vino!" "¿Qué le pasó al gato? ¿Por qué tiene una bufanda?" "¿Cuánto te vas a quedar esta vez? ¿O vas a desaparecer de nuevo mañana por otra puerta?"
