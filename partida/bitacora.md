@@ -786,3 +786,4 @@ T784 · One Piece · Islote · "Puedo copiar habilidades." Robin ata cabos y pre
 T785 · One Piece · Islote · "Sí, lo tengo también." Robin le tira de la oreja con una mano de la arena. "Muéstrame."
 T786 · One Piece · Islote · Usa la Hana Hana delante de Robin: brazos tatuados, pétalos blancos y azules.
 T787 · One Piece · Islote · "¿Volvemos con los demás, amor?" Robin: "Nadie me había llamado así."
+T788 · One Piece · Water 7 · Vuelven por Teletransportación al almuerzo. Escándalo en la mesa.

@@ -186,3 +186,4 @@
 - Luffy, Chopper, Usopp · T774 · Ven a Facundo y a Robin desaparecer de la cocina de golpe (Facundo con dos dedos en la frente).
 - Robin · T774 · Viaja con Facundo por Teletransportación a un islote vacío. Lo vivió en persona.
 - Robin · T775 · VE a Facundo transformarse en un titán de 17 m (Titán de Ceniza). Deduce (fuente 4) que los titanes del libro de las murallas son reales y que Facundo tiene relación con ese lugar. No sabe que es otro mundo.
+- Tripulación (Luffy, Zoro, Nami, Usopp, Sanji, Chopper) · T788 · Ven a Facundo, Robin y Kase aparecer de la nada en el comedor.

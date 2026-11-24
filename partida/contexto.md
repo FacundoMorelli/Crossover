@@ -1,16 +1,16 @@
-TURNO: 787 | MUNDO: One Piece | Día 37 (Grand Line) | HORA: 12:30 | Lugar: islote deshabitado del Grand Line, a cientos de km de Water 7
+TURNO: 788 | MUNDO: One Piece | Día 37 (Grand Line) | HORA: 12:31 | Lugar: Water 7, casa de la Galley-La, comedor
 MOMENTO DEL CANON: Post-Enies Lobby (cap. ~431): regreso a Water 7. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 212.440/215.000 · 134.022 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 100M (200M para la madera de Adán) · 140 puntos sin asignar · Energía 97% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. ROBIN SABE QUE VIENE DE OTRO MUNDO (T776) y le cree. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T788: Guarda la cámara y se teletransporta con Robin y Kase al comedor de la casa de la Galley-La, en pleno almuerzo. Aparecen al lado de la mesa: Luffy escupe arroz; Usopp se cae de la silla; Chopper grita; Nami deja caer el tenedor; Zoro levanta una ceja; Sanji ve a Robin colorada y con arena en el pelo y pétalos azules, y casi le da algo. Luffy: "¡¿Dónde estaban?! ¡¿Cómo hiciste eso?! ¡Enséñame!" Robin se sienta tranquila y se sirve.
 - T787: "Bueno, ¿volvemos con los demás, amor?" Robin se queda quieta al oír "amor"; se pone colorada, se ríe bajito, lo repite. "Nadie me había llamado así." Se levanta con el libro y la cámara (le devuelve la cámara), le toma la mano: "Volvamos. Luffy ya debe haberse comido la cocina." Kase salta al hombro. Listos para irse.
 - T786: Facundo usa la Hana Hana: brotan de la palmera y de la arena brazos suyos, con los tatuajes de dragón, entre pétalos blancos y azules (no rosados). Uno le acomoda el pelo detrás de la oreja a Robin, otro le toma la mano, otro le rasca la cabeza a Kase (que lo permite). Robin, maravillada: "Tus flores son de otro color." Toca uno de los brazos, sigue con el dedo el dragón tatuado. "Es muy raro verse desde afuera."
 - T785: "Sí, lo tengo también." Robin lo mira seria un segundo; después le brota una mano de la arena que le tira de la oreja, y otra que le hace cosquillas en el cuello. "Entonces ya sabes lo que se siente que te espíen con cien ojos." Se ríe. Lo desafía: "Muéstrame. Quiero ver cómo se ven mis flores en otra persona."
 - T784: "Siempre voy a volver. Y también otra cosa: puedo copiar habilidades." Robin le cree lo de volver (le aprieta la mano). Ata cabos: el Soru del puente era de Lucci; el hielo de Aokiji; el rayo de Enel. "Por eso tantas frutas." Lo mira de costado, entrecerrando los ojos: "¿Y lo mío? ¿Lo copiaste también?"
-- T783: "Eh, sí, pero no el más, para que te des una idea." Robin se queda callada, mira el mar, se ríe bajito: "Y Aokiji te congeló entero." Después, seria: piensa en Luffy y en el Grand Line, en lo chico que es todo. Le toma la mano: "No me importa cuán fuerte seas. Me importa que vuelvas." Mete el libro bajo el brazo.
-PRESENTES EN ESCENA: Robin (con el libro), en el islote. Kase en el hombro. (Luffy, Chopper y Usopp los vieron desaparecer de la cocina.)
+PRESENTES EN ESCENA: En el comedor de la casa de la Galley-La: Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji), Neko Neko Leopardo + Rokushiki (Lucci) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
