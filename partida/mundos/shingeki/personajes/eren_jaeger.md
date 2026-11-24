@@ -49,3 +49,4 @@ ENCUENTROS:
 - T965 · "Nos alistamos los tres. En la Legión de Reconocimiento."
 - T966 · Le devuelve los anteojos limpios a su padre.
 - T968 · Hannes lo visita; Eren lo hace pasar.
+- T970 · Oye "son libres de salir al mundo a explorar" y se le transforma la cara.

@@ -968,3 +968,4 @@ T966 · Shingeki · Shiganshina · "Estamos en paz con todos los países." Grish
 T967 · Shingeki · Shiganshina · "No soy quien se los tiene que explicar." Historia: anuncio en 3 días en la plaza. Carla: "Pasen a desayunar."
 T968 · Shingeki · Shiganshina · (simulado días 63-66) Reencuentros: la escuadra de Levi, Marco, Hannes, Frieda; Marcel vivo. Anuncio de Historia en la plaza. "Facundo Morelli, ¿saldrías aquí conmigo?"
 T969 · Shingeki · Shiganshina · Sale al balcón. Un chico grita "¡El del gato!" y la plaza estalla. APODO: "El del gato". Historia: "Si quieres hablarles, están esperando."
+T970 · Shingeki · Shiganshina · Discurso: "No quiero que me deban nada. Son libres de salir a explorar." La plaza en fiesta. Ymir: "¿Y ahora qué?"

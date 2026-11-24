@@ -31,3 +31,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T958 · Mira al oeste con la cara de piedra, los puños cerrados.
 - T968 · Vuelve con su escuadra revivida, Farlan e Isabel; se le oye reír por primera vez.
 - T969 · Apoyado en el marco, desvía la mirada; busca a Isabel en la plaza.
+- T970 · "Tch. Libres. Ahora a ver quién organiza a medio millón de idiotas que quieren subirse a un barco." (sin enojo)

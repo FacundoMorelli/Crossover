@@ -12,3 +12,4 @@
 - (Día 45) El Parlamento de Marley ratifica el tratado de paz con Paradis por 212 votos a 140.
 - Días 50-54 · En Paradis: el hueco de Wall Rose; peregrinación de curiosos. Dos países firmarán con Paradis.
 - Día 66 · Plaza de Shiganshina: la reina presenta a Facundo Morelli; el pueblo lo llama "el del gato".
+- Día 66 · Discurso de Facundo Morelli en Shiganshina: "No quiero que me deban nada. Los que quieran salir al mundo a explorar son libres de hacerlo." Fiesta en la plaza.

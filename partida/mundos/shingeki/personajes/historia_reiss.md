@@ -38,3 +38,4 @@ ESTADO: activo
 - T967 · Se presenta a Carla y Grisha como reina. Anuncio de la verdad entera en 3 días (día 66), en la plaza de Shiganshina. Carla le hace una reverencia; se pone colorada.
 - T968 · Reencuentro con Frieda. Día 66: discurso de una hora en la plaza de Shiganshina. "Facundo Morelli. ¿Saldrías aquí, conmigo, para que te vean?"
 - T969 · Le toma la mano en el balcón. "No tienes que decir nada. Pero si quieres hablarles... están esperando."
+- T970 · "Eso fue más de lo que podría haber dicho yo en una hora."

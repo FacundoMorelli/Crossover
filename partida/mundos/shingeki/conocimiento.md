@@ -199,3 +199,4 @@
 - Carla, Grisha · T967 · Por Historia: es la reina; anuncio de la verdad en 3 días. Carla ve a Ymir de la mano de Facundo (deduce que es su novia).
 - Decenas de miles en la plaza de Shiganshina · T968 · Por Historia: la verdad del mundo; que Facundo Morelli es a quien la isla le debe todo.
 - Decenas de miles en Shiganshina · T969 · Ven a Facundo en el balcón: pelo blanco y azul, cicatriz, gato. Lo llaman "el del gato".
+- Decenas de miles en Shiganshina · T970 · Por Facundo: no quiere que le deban nada; lo hizo porque le gusta ayudar; los que quieran salir al mundo son libres.

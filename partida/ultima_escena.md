@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T967)
-tienen muchas cosas que saber, lo van a entender despues yo no soy quien se los tiene que explicar, la reina va a hacer una conferencia seguro en unos dias de estos
-
-## RESPUESTA 1 (T967)
-
-> tienen muchas cosas que saber, lo van a entender despues yo no soy quien se los tiene que explicar, la reina va a hacer una conferencia seguro en unos dias de estos
-
-> —Tienen muchas cosas que saber. Lo van a entender después. Yo no soy quien se las tiene que explicar. La reina va a hacer un anuncio seguro, en unos días.
-
-Historia se baja de la grupa del caballo con ayuda del soldado. Se acomoda la capa blanca, manchada de barro en el borde. Camina hasta el escalón, despacio, y se para delante de Carla y de Grisha.
-
-Carla la mira sin entender: una chica rubia, bajita, de quince años, con una corona fina en el pelo.
-
-—Mi nombre es Historia Reiss —dice Historia, con la voz clara—. Soy la reina de Paradis. —Hace una pausa—. Él tiene razón. Ustedes, y medio millón de personas que despertaron esta mañana, merecen saber la verdad entera. Toda. Y la van a escuchar de mí, en persona, en tres días, en Shiganshina. En la plaza.
-
-Mira a Erwin. Erwin asiente.
-
-Carla se queda mirándola. Mira la corona. Mira a la chica. Después, despacio, sin saber muy bien cómo se hace, hace una reverencia torpe con el delantal en las manos.
-
-—Majestad.
-
-Historia se pone colorada hasta las orejas.
-
-—No, no hace falta, por favor...
-
-Grisha sigue sentado en el escalón. Mira a la reina, después a Erwin, después a ti. No dice nada. Se pone por fin los anteojos, despacio. Se le ve en la cara que tiene cien preguntas y que, por primera vez en su vida, decide no hacerlas.
-
-Ymir se acerca entre los caballos. No dice nada. Te agarra la mano, entrelaza los dedos con los tuyos y se queda a tu lado, mirando la escena, con la manta colgada del otro brazo.
-
-Kase le olfatea la oreja desde tu hombro.
-
-Carla se endereza de la reverencia. Se seca las manos en el delantal. Mira alrededor: la calle llena de soldados, de caballos, a su hijo, a Mikasa, a su marido en el escalón. A ti.
-
-Y hace lo único que sabe hacer cuando el mundo se vuelve demasiado grande.
-
-—Bueno. —Se aclara la garganta—. No sé qué día es, ni qué es Marley, ni qué es nada. Pero es de mañana y hay gente en mi puerta. —Te mira a ti, directo, con esa voz de madre que no admite discusión—. Usted, joven. Usted y su... —Mira a Ymir, a las manos entrelazadas—. Y su novia. Y su gato. Pasen a desayunar. No tengo idea de qué hay en mi cocina, pero algo voy a encontrar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 967 · SHINGEKI · DÍA 63 · 05:42        ║
-║ Shiganshina · la casa de los Jaeger          ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Carla invita a desayunar. Anuncio  ║
-║ de la reina: día 66, plaza de Shiganshina.   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T968)
+## COMANDO 1 (T968)
 esta bien, muchas gracias carla. simula varios dias, tambien el anuncio
 
-## RESPUESTA 2 (T968)
+## RESPUESTA 1 (T968)
 
 > esta bien, muchas gracias carla. simula varios dias, tambien el anuncio
 
@@ -131,10 +77,10 @@ En la plaza, decenas de miles de cabezas se levantan hacia el balcón.
 
 ---
 
-## COMANDO 3 (T969)
+## COMANDO 2 (T969)
 salgo al balcon
 
-## RESPUESTA 3 (T969)
+## RESPUESTA 2 (T969)
 
 > salgo al balcon
 
@@ -199,4 +145,67 @@ Historia se acerca a tu oído para que la oigas por encima del ruido.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 66 13:08, balcón del ayuntamiento de Shiganshina. Facundo salió con Historia; la plaza estalló gritando "¡Facundo!" y "¡El del gato!" (apodo nuevo). Historia le dice que, si quiere, puede hablarles. Facundo puede decidir.
+## COMANDO 3 (T970)
+No quiero que me deban nada, esto lo hice por que me gusta ayudar, asi que por favor, quiero que todos disfruten sus vidas, sin titanes, ni nadie que nos quiera matar, los que quieran salir al mundo a explorar son libres de hacerlo, con eso ya es mas que suficiente para mi
+
+## RESPUESTA 3 (T970)
+
+> No quiero que me deban nada, esto lo hice por que me gusta ayudar, asi que por favor, quiero que todos disfruten sus vidas, sin titanes, ni nadie que nos quiera matar, los que quieran salir al mundo a explorar son libres de hacerlo, con eso ya es mas que suficiente para mi
+
+Levantas una mano.
+
+La plaza se va callando de a poco, desde adelante hacia atrás, como una ola que se retira. En medio minuto, no se oye nada más que el viento entre los techos.
+
+Hablas. No gritas. No hace falta: la voz te sale clara y llega hasta el último techo, hasta la última rama de los árboles del fondo.
+
+> —No quiero que me deban nada. Esto lo hice porque me gusta ayudar. Así que, por favor, quiero que todos disfruten sus vidas, sin titanes, sin nadie que nos quiera matar. Los que quieran salir al mundo a explorar son libres de hacerlo. Con eso, para mí, ya es más que suficiente.
+
+Silencio.
+
+Un silencio distinto al de antes. Largo. Decenas de miles de personas que se quedan quietas, mirándote, como si estuvieran tratando de entender una palabra en un idioma que no conocen.
+
+Libres.
+
+Abajo, en la plaza, Eren levanta la cabeza. Tiene a su madre abrazada de un lado y a Mikasa del otro. Te mira. Y se le transforma la cara entera, despacio, como si alguien le hubiera dicho en voz alta lo que él quería oír desde los diez años y no sabía que se podía decir.
+
+A unos metros, Armin se da vuelta hacia su abuelo, que sigue sobre los hombros del soldado. Le dice algo, rápido, con los ojos brillando. El viejo se ríe y le revuelve el pelo.
+
+Después, la plaza explota otra vez.
+
+Más fuerte que antes. Ya no es un rugido de gratitud: es otra cosa. Es gente que se ríe y se abraza y salta y grita, como en una fiesta, como si alguien hubiera abierto todas las puertas de la ciudad a la vez. Alguien empieza a cantar una canción vieja, de las que se cantaban antes de la caída de Wall Maria, y la canción se contagia y crece hasta que la cantan diez mil voces desafinadas.
+
+Historia no te suelta la mano. Te mira. Tiene la cara roja y los ojos llenos.
+
+—Eso fue más de lo que podría haber dicho yo en una hora —te dice, al oído, riéndose.
+
+Erwin, detrás, cierra los ojos un momento. Cuando los abre, está sonriendo. Es una sonrisa pequeña, de verdad, sin cálculo. La primera.
+
+Levi chasquea la lengua.
+
+—Tch. Libres. —Se despega del marco de la puerta—. Ahora a ver quién organiza a medio millón de idiotas que quieren subirse a un barco.
+
+Pero no lo dice enojado.
+
+Ymir se acerca desde la puerta del balcón, entre los demás. Se para a tu lado, del lado que no tiene ocupado Historia. No te agarra la mano. Se apoya en la baranda con los dos codos, mirando la plaza, la gente cantando, los pañuelos en el aire. Se queda así un rato largo, con el viento en el pelo.
+
+Después gira la cabeza y te mira, de costado, con la media sonrisa.
+
+—Bueno, lindo. —Te lo dice bajo, solo para ti, por debajo de la canción—. Ya salvaste al mundo. —Ladea la cabeza—. ¿Y ahora qué?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 970 · SHINGEKI · DÍA 66 · 13:12        ║
+║ Shiganshina · balcón del ayuntamiento        ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Ymir pregunta: ¿y ahora qué?       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 66 13:12, balcón del ayuntamiento de Shiganshina. Facundo habló a la plaza (no quiere que le deban nada; que sean libres de salir a explorar). La plaza en fiesta. Erwin sonríe; Levi bromea. Ymir, en la baranda, le pregunta: "Ya salvaste al mundo. ¿Y ahora qué?" Facundo puede responder.
