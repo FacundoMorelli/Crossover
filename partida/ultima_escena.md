@@ -3,107 +3,10 @@
 
 ---
 
-## COMANDO 1 (T997)
-voy al nuevo mundo
-
-## RESPUESTA 1 (T997)
-
-> voy al nuevo mundo
-
-Nanami no pregunta adónde.
-
-Das dos pasos hacia la lluvia y el aire delante de ti se abre. Es una puerta sin marco, un rectángulo de luz blanca recortado en la llovizna, con un borde rojo y azul que tiembla como el calor sobre el asfalto. Del otro lado no se ve nada.
-
-Nanami la mira por encima del paraguas. Se acomoda los anteojos con la izquierda. No dice nada. Después hace una reverencia corta, la misma que les hace a los superiores, y se queda quieto bajo el alero, mirando, hasta que cruzas.
-
-Kase entierra las uñas en el hombro del sobretodo.
-
-La luz te pasa por encima como agua tibia.
-
-[Mundo nuevo.]
-
-Lo primero es el olor. Pan recién horneado, piedra mojada por el rocío, el olor a río que sube de un canal. No llueve. El cielo está despejado y celeste pálido, con el sol todavía bajo, y la luz cae dorada sobre techos de tejas rojas y paredes blancas con vigas de madera.
-
-Estás parado sobre el césped de un parque, entre dos faroles de hierro forjado. Los faroles tienen adentro unas esferas de cristal que se van apagando solas, una por una, a medida que sube el sol, sin que nadie las toque. Más allá de los techos se levanta el campanario de una catedral enorme, de piedra gris, y las campanas dan la hora: siete golpes lentos que retumban sobre toda la ciudad.
-
-Kase no se eriza. Mira a su alrededor con las orejas paradas, olfatea, y se queda tranquilo. Es la primera vez en mucho tiempo.
-
-Entonces escuchas las voces.
-
-A unos ochenta metros, en el centro del parque, hay un árbol enorme, viejo, con el tronco grueso como una torre y la copa abierta. Alrededor se junta gente. Vecinos en ropa de trabajo, una panadera con el delantal puesto, un viejo con un perro, dos chicos que deberían estar yendo a algún lado. Hablan bajo. Nadie se acerca demasiado al tronco.
-
-Hay tres personas clavadas en el árbol.
-
-Tres chicos jóvenes, colgados a varios metros del suelo con grilletes de hierro negro hundidos en la madera, los brazos abiertos. Un muchacho alto y flaco, de gorro, con la cabeza caída sobre el pecho. Otro robusto, de pelo negro en punta, con la cara hinchada de golpes. Y entre los dos, una chica bajita de pelo azul corto, con una bandana naranja torcida sobre la frente y el vestido roto. Tiene sangre seca en la boca. En el vientre, sobre la tela, alguien le pintó un emblema negro, grande, con trazos gruesos: una figura con forma de lápida.
-
-Los tres respiran. Apenas.
-
-Los grilletes no están atornillados. El hierro está metido en la corteza como si hubiera crecido ahí, y el aire alrededor del tronco huele a metal.
-
-—Son los chicos de Fairy Tail —dice la panadera, con la mano en la boca—. La pequeña Levy... La que viene todos los días por el pan de nuez.
-
-—Ese emblema es de Phantom —murmura el viejo del perro—. Phantom Lord. Ayer a la noche le metieron pilares de hierro a la sede del gremio. Y ahora esto.
-
-—Que alguien vaya a avisarle al maestro Makarov.
-
-—Ya fue mi hijo. Corriendo.
-
-Nadie trepa. Nadie toca el hierro.
-
-[Destino fijado.]
-
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Fairy Tail                            ║
-║ MAGIA PERDIDA: CONSTELACIÓN VIVA             ║
-║ Trazas estrellas en el aire y la figura se   ║
-║ vuelve un cuerpo de luz sólida con voluntad  ║
-║ propia: bestia, guerrero, arma o muro. Más   ║
-║ estrellas, más poder. Marca de Estrella:     ║
-║ una estrella en un aliado, para pasarle      ║
-║ magia y saber dónde está.                    ║
-║ 3 constelaciones a la vez · Bloqueadas:      ║
-║ Gran Firmamento (60), Supernova (90)         ║
-║ Maestría 30                                  ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Fairy Tail                            ║
-║                                              ║
-║ MISIÓN: Que la sede de Fairy Tail siga en    ║
-║ pie cuando termine la guerra con Phantom     ║
-║ Lord.                                        ║
-║ RECOMPENSA: 9.000 EXP · 250 Fragmentos       ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-
-Una de las esferas de cristal del farol que tienes al lado se apaga con un chasquido suave.
-
-En el árbol, la chica de pelo azul mueve los dedos de una mano. Solo los dedos. No abre los ojos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 997 · FAIRY TAIL · X784 · DÍA 1 · 07:00║
-║ Magnolia · Parque de la Puerta Sur           ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T998)
+## COMANDO 1 (T998)
 bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
 
-## RESPUESTA 2 (T998)
+## RESPUESTA 1 (T998)
 
 > bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
 
@@ -175,10 +78,10 @@ Después levanta la cabeza y te mira a ti. Mira el sobretodo doblado debajo de s
 
 ---
 
-## COMANDO 3 (T999)
+## COMANDO 2 (T999)
 me llamo facundo morelli, solo pasaba por acá
 
-## RESPUESTA 3 (T999)
+## RESPUESTA 2 (T999)
 
 > me llamo facundo morelli, solo pasaba por acá
 
@@ -254,4 +157,61 @@ Por último, te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:09, Parque de la Puerta Sur. Fairy Tail recién llegó y ve a Shadow Gear curado y a Facundo con el hierro de Gajeel en la mano. Makarov lo mira. Facundo puede actuar.
+## COMANDO 3 (T1000)
+los encontre colgados, ya estan bien, me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1000)
+
+> los encontre colgados, ya estan bien, me llamo Facundo Morelli
+
+> —Los encontré colgados. Ya están bien. Me llamo Facundo Morelli.
+
+Nadie del gremio se mueve. Durante un segundo, en el parque solo se escucha a un pájaro en la copa del árbol y las alas del gato azul batiendo en el aire.
+
+Después la chica rubia sale corriendo hacia Levy, y detrás de ella van tres o cuatro más.
+
+—¡Levy-chan! —Se arrodilla a su lado y le agarra las manos—. ¡Nos dijeron que estaban... que los habían...!
+
+—Estoy bien, Lu-chan. —Levy le aprieta las manos—. De verdad. Él nos bajó. Nos dio una semilla y ya no me dolió nada.
+
+El viejo camina hacia ustedes. Despacio, con el bastón, sin apurarse, y el gremio se abre a su paso sin que nadie lo diga. Se detiene delante de Jet y de Droy, que se ponen derechos como alumnos, y los mira de cerca. Le toca el hombro a Droy, el del hombro curado, y se lo aprieta una vez. A Jet le da una palmada en la rodilla.
+
+Después se para frente a ti.
+
+Te llega a la cintura. Tiene que levantar la cabeza para mirarte, y lo hace sin incomodidad, como quien está acostumbrado a mirar hacia arriba a todo el mundo. Te mira la cara, los ojos, la cicatriz. Mira a Kase, y Kase le sostiene la mirada sin pestañear.
+
+Por último mira los pedazos de hierro que tienes en la mano.
+
+—Facundo Morelli —dice. Tiene la voz grave, mucho más de lo que su cuerpo promete—. Yo soy Makarov, el maestro de estos mocosos.
+
+Se quita el gorro y hace una reverencia. No es corta. Se dobla por la cintura y se queda así un momento largo, con la cabeza gacha, delante de un forastero, con todo su gremio mirando.
+
+—Gracias por bajar a mis hijos de ese árbol.
+
+Detrás de él, el muchacho de pelo rosado aprieta los dientes. La mujer pelirroja cierra los ojos un instante. El muchacho sin camisa se mete las manos en los bolsillos y mira para otro lado.
+
+Makarov se endereza y se vuelve a poner el gorro. Gira la cabeza hacia Levy, hacia el emblema negro pintado sobre su vestido, y algo le cambia en la cara. La arruga entre las cejas se hunde. El aire alrededor del viejo se pone pesado, como antes de una tormenta, y unos vecinos dan un paso atrás sin saber por qué.
+
+Vuelve a mirarte a ti.
+
+—Muchacho —dice, en voz baja—. ¿Viste quién fue?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1000 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 07:11 · Magnolia · Parque de la Puerta Sur   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:11, Parque de la Puerta Sur. Makarov le agradeció con una reverencia y le pregunta si vio quién fue. Lucy con Levy. Gremio presente. Facundo puede responder.
