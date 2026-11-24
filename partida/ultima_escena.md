@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T995)
-uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
-
-## RESPUESTA 1 (T995)
-
-> uso la tecnica maldita de mahito para reconstruir su brazo y me llevo un dedo a la boca
-
-No dices nada.
-
-Le apoyas la palma de la mano en el hombro izquierdo, justo donde termina la manga doblada.
-
-Nanami se pone rígido. Por un instante, solo uno, todo el cuerpo le reacciona antes que la cabeza: una palma abierta apoyada en él, la sensación de algo que toca más allá de la ropa y de la piel. Le tiembla la mano del paraguas. Conoce esa sensación. La sintió una vez, en un túnel de Shibuya, el día que casi muere.
-
-No se aparta.
-
-Y algo se acomoda.
-
-No es dolor. Es como si alguien, desde adentro, hubiera encontrado una pieza que faltaba en un rompecabezas y la pusiera en su lugar. Debajo de tu palma, la forma de su alma está incompleta: tiene un hueco del lado izquierdo, un brazo que debería estar ahí y no está. La tocas. La completas. La rehaces como era. Y el cuerpo, que siempre obedece al alma, sigue.
-
-La manga doblada se mueve. El alfiler salta, tintinea en la piedra del suelo y rueda bajo la lluvia.
-
-La tela se llena desde adentro. Un hombro, un codo, un antebrazo, una mano. La manga del saco beige cae entera, hasta la muñeca, como si nunca hubiera estado doblada.
-
-Retiras la palma.
-
-Nanami se queda quieto debajo del alero, con el paraguas abierto en la mano derecha, mirando hacia adelante, hacia la lluvia, sin parpadear.
-
-Después baja la vista.
-
-Levanta el brazo izquierdo. Despacio. Lo mira como si fuera de otra persona. Abre la mano. La cierra. La vuelve a abrir. Mueve los dedos uno por uno, desde el meñique hasta el pulgar, como quien cuenta.
-
-No dice nada.
-
-Lo miras. Te llevas un dedo a los labios.
-
-Nanami ve el gesto. Te mira a la cara, por encima de los anteojos, un momento largo. En esa cara que nunca cambia, algo se mueve. Se le endurece la mandíbula. Se le humedecen los ojos detrás de los cristales, apenas, y él no hace nada para evitarlo.
-
-Asiente. Una sola vez.
-
-Se agacha, recoge el alfiler del suelo mojado con la mano izquierda, la nueva, y se lo guarda en el bolsillo del saco. Lo mira un segundo antes de soltarlo.
-
-—No voy a preguntar —dice al fin, con la voz más baja que le oíste nunca—. Ni qué fue. Ni de dónde lo sacó.
-
-Se acomoda los anteojos. Con la izquierda.
-
-—Gracias, Morelli-kun.
-
-Kase, en tu hombro, mira a Nanami con los ojos entrecerrados. Parpadea una vez, despacio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 995 · JUJUTSU · 29/04/2019 · 10:17     ║
-║ Kioto · portón de la sede, bajo la lluvia    ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: El brazo de Nanami, devuelto. En   ║
-║ secreto.                                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T996)
+## COMANDO 1 (T996)
 bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
 
-## RESPUESTA 2 (T996)
+## RESPUESTA 1 (T996)
 
 > bueno, yo me voy nanami, tengo que seguir recorriendo, saluda a los chicos de mi parte. (cuando es el arco de bills en dragon ball o cuanto falta?)
 
@@ -117,10 +51,10 @@ Detrás de él, la llovizna sigue cayendo sobre los jardines de piedra de la sed
 
 ---
 
-## COMANDO 3 (T997)
+## COMANDO 2 (T997)
 voy al nuevo mundo
 
-## RESPUESTA 3 (T997)
+## RESPUESTA 2 (T997)
 
 > voy al nuevo mundo
 
@@ -214,4 +148,79 @@ En el árbol, la chica de pelo azul mueve los dedos de una mano. Solo los dedos.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:00, Magnolia, Parque de la Puerta Sur. Shadow Gear crucificado en el árbol; vecinos alrededor; avisaron a Makarov. Facundo recién llegado, nadie lo vio llegar. Facundo puede actuar.
+## COMANDO 3 (T998)
+bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
+
+## RESPUESTA 3 (T998)
+
+> bajo a los tres del árbol con cuidado y les doy una semilla del ermitaño a cada uno
+
+Cruzas el césped. La gente se aparta sin darse cuenta de que se aparta: un forastero de negro, alto, con un gato enorme en el hombro, que camina derecho hacia el árbol como si nadie más estuviera ahí.
+
+—Oiga, muchacho... —empieza el viejo del perro.
+
+Saltas.
+
+No es un salto de mago. Es solo un salto, alto y limpio, y te agarras de una rama gruesa junto a la chica de pelo azul. Kase se queda clavado en tu hombro, con la cola enroscada en tu cuello.
+
+De cerca, el hierro es peor. Los grilletes no tienen cerradura ni bisagra: son una sola pieza que le rodea las muñecas y se hunde en la corteza, y la madera alrededor está astillada, como si los hubieran clavado de un golpe. Cierras la mano sobre el primero y tiras. El hierro chirría, se dobla como una lata y sale de la madera con un crujido seco. Después el segundo. La chica se te cae encima, liviana como un abrigo mojado, y la sostienes con un brazo.
+
+Abajo, alguien grita bajito.
+
+Bajas con ella, la acuestas sobre el pasto con la cabeza apoyada en tu sobretodo doblado y vuelves a subir. El flaco de gorro. El robusto, que pesa el doble y tiene un hombro fuera de lugar. Los tres quedan en fila sobre el césped, bajo la sombra del árbol, con los trozos de hierro retorcido todavía colgando de las muñecas como pulseras rotas.
+
+Nadie dice nada. La panadera tiene las dos manos en la boca.
+
+Sacas tres semillas del ermitaño de adentro del sobretodo. A la vista, salen de un bolsillo.
+
+Están inconscientes y no pueden tragar. Partes cada semilla entre los dedos y se la pones en la boca a cada uno, de a poco, con un poco de agua de la cantimplora. La chica es la primera. Traga por reflejo.
+
+Durante un segundo no pasa nada.
+
+Después le vuelve el color a la cara. Primero a los labios, después a las mejillas. Los moretones de los brazos se aclaran y desaparecen, como tinta en el agua. El corte del labio se cierra. Respira hondo, una vez, con todo el pecho, como quien sale de abajo del agua.
+
+Al flaco el hombro se le acomoda solo con un chasquido. Al robusto se le deshincha la cara.
+
+La chica abre los ojos.
+
+Son marrones y grandes, y miran el cielo a través de las hojas del árbol sin entender nada. Parpadea. Se toca la boca. Se mira la mano, limpia, sin sangre.
+
+—Estoy... —dice, con la voz ronca—. No me duele nada.
+
+A su lado, el flaco se sienta de golpe, como si lo hubieran pinchado.
+
+—¡LEVY! —Gira la cabeza hacia ella—. ¡Levy! ¿Estás bien? ¿Te...?
+
+El robusto se incorpora sobre un codo, mirando para todos lados con los puños apretados.
+
+—¡¿Dónde está?! ¡Ese tipo de hierro! ¡Phantom...!
+
+—Ya no está —dice la panadera desde atrás, con la voz temblando—. Los encontramos así, al amanecer. Colgados del árbol.
+
+Los tres se quedan callados.
+
+Levy baja la vista y ve el emblema pintado en su vestido. Lo toca con dos dedos. La pintura negra le queda en las yemas. Se le aprieta la mandíbula.
+
+Después levanta la cabeza y te mira a ti. Mira el sobretodo doblado debajo de su cabeza, el gato enorme que la mira desde tu hombro con los ojos de distinto color, tus ojos, y los pedazos de hierro arrancados que tienes todavía en la mano.
+
+—Tú nos bajaste —dice. No es una pregunta—. ¿Quién eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 998 · FAIRY TAIL · X784 · DÍA 1 · 07:06║
+║ Magnolia · Parque de la Puerta Sur           ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:06, Parque de la Puerta Sur. Shadow Gear bajado y curado. Levy le pregunta a Facundo quién es. Vecinos mirando; Fairy Tail en camino. Facundo puede responder.

@@ -5,4 +5,4 @@ ESTADO: Anoche Phantom Lord atravesó la sede de Fairy Tail con pilares de hierr
 DON DE MUNDO: Magia Perdida: Constelación Viva (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
-- (ninguno todavía)
+- T998 · Shadow Gear curado del todo en la mañana del Día 1 con semillas del ermitaño (en el canon iban al hospital de Magnolia y Lucy se quedaba cuidándolos; ahí la capturaban Juvia y Sol).
