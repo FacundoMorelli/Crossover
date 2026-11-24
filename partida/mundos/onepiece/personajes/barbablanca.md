@@ -12,3 +12,4 @@ ESTADO: activo
 - T888 · Come una semilla del ermitaño de Facundo: heridas cerradas, fuerza y aire de hace veinte años (la enfermedad de fondo y la vejez siguen). Se arranca los tubos. "Hoy no me muero."
 - T890 · Facundo le pone una Marca (II) de la Manecilla Inversa. No ve nada; se ríe.
 - T902 · "Un mocoso dándome órdenes en mi barco." Parte el hielo para cubrir la retirada; la flota zarpa. No se queda atrás (cambio).
+- T903 · "Le dijiste a mi hijo que no hiciera estupideces, y tú te pones a tapar el cielo."

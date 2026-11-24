@@ -22,3 +22,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T761 · Escapan de Enies Lobby volando en el Going Merry.
 - T767 · El Going Merry, despedido con fuego en el mar frente a Water 7.
 - T900 · Ace liberado en la cima del cadalso de Marineford, ante el mundo.
+- T903 · El Ryusei Kazan de Akainu sobre la flota en retirada: cero daños, por el Bankai de Facundo.

@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T900)
-no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
-
-## RESPUESTA 1 (T900)
-
-> no es necesario, perdon sengoku, me caes bien, mejor que akainu eso seguro, pero tengo que ayudar a mi capitan, me teletransporto con luffy y rompo las esposas y le doy una semilla a ace
-
-> —No es necesario.
-
-Mr. 3 se queda congelado en la escalera, con la llave de cera a medio hacer en la mano.
-
-Levantas la vista hacia la cara dorada de Sengoku, que sigue empujando la palma contra tu mano con todo el peso del Buda.
-
-> —Perdón, Sengoku. Me caes bien. Mejor que Akainu, eso seguro. Pero tengo que ayudar a mi capitán.
-
-Los ojos del Buda se abren detrás de los lentes.
-
-Te vas.
-
-La palma dorada, de golpe sin nada que la frene, cae con todo su peso sobre la escalera vacía. Los escalones de arriba revientan en una explosión de piedra y polvo dorado. Mr. 3 sale rodando escaleras abajo, gritando. Más abajo, Garp ni se mueve: los escombros le pasan por los costados.
-
-Apareces en la cima del cadalso, al lado de Luffy y de Ace.
-
-Te agachas delante de Ace. Le agarras las esposas de piedra marina con las dos manos: frías, pesadas, lisas. A ti no te hacen nada.
-
-Aprietas.
-
-Las esposas crujen y se parten como galletas viejas. Los pedazos caen sobre el cadalso con un ruido sordo.
-
-Ace se mira las muñecas libres, rojas, con las marcas de semanas de cadenas. No entiende.
-
-Sacas una semilla del ermitaño y se la pones en la boca antes de que diga nada.
-
-Ace mastica por reflejo.
-
-Las semanas de Impel Down se le borran del cuerpo en un segundo: los moretones, los cortes de los látigos, las costillas marcadas por el hambre, las ojeras de no dormir. Se le endereza la espalda. La respiración se le vuelve larga y llena. Los ojos se le encienden.
-
-Se pone de pie.
-
-Y estalla.
-
-El fuego le sale de todo el cuerpo a la vez, como si alguien hubiera abierto la puerta de un horno: un pilar de llamas naranjas y rojas que sube veinte metros sobre el cadalso, que se ve desde toda la bahía, desde cada barco, desde cada pantalla del mundo. El calor les vuela el pelo a ti y a Luffy. Kase entrecierra los ojos.
-
-Abajo, en toda Marineford, los piratas que quedan de pie gritan a la vez, un rugido que sacude la isla.
-
-—¡¡ACE ESTÁ LIBRE!!
-
-Luffy se le tira encima, llorando y riendo al mismo tiempo, sin miedo al fuego, y Ace lo atrapa con un brazo de llamas que no lo quema.
-
-Por encima del hombro de Luffy, Ace te mira. Con los ojos muy abiertos, con las llamas bailándole en la cara.
-
-—Tú... —Le tiembla la voz—. Arabasta. El del gato. El compañero de mi hermano.
-
-Mira las esposas rotas a sus pies. Te mira a ti.
-
-—¿Quién demonios eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 900 · ONE PIECE · DÍA 57 · 13:11       ║
-║ Marineford · cima del cadalso                ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: ¡ACE LIBRE! Salir de Marineford    ║
-║ con todos. Shingeki: antes del D59.          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T901)
+## COMANDO 1 (T901)
 Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
 
-## RESPUESTA 2 (T901)
+## RESPUESTA 1 (T901)
 
 > Facundo Morelli, de la tripulacion sombrero de paja, volvamos con barba blanca, la guerra ya tiene que terminar estas libre, solo hay que irnos ahora, no hace falta que haya mas bajas
 
@@ -147,10 +73,10 @@ Se le apagan las risas. Se le encienden los puños, despacio, en un fuego que ya
 
 ---
 
-## COMANDO 3 (T902)
+## COMANDO 2 (T902)
 ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
 
-## RESPUESTA 3 (T902)
+## RESPUESTA 2 (T902)
 
 > ace, no hagas estupideces, todos vinieron hacia aqui a salvarte, no es el momento ahora de atacarlo, y tu viejo, tampoco hagas nada, vayamonos, la guerra ya tiene que terminar
 
@@ -217,4 +143,78 @@ El magma le sube por los brazos hacia arriba, hacia las nubes, en columnas de fu
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:16, cubierta del Moby Dick. Ace no cayó en la provocación (Luffy le agarró el brazo). Barbablanca partió el hielo con un abismo de agua entre la plaza y los barcos; la flota zarpa con todos. Akainu, furioso, lanza una lluvia de cientos de meteoritos de magma (Ryusei Kazan) sobre los barcos que se retiran: "¡Ninguno sale vivo de esta bahía!"
+## COMANDO 3 (T903)
+bankai alrededor de toda la flota
+
+## RESPUESTA 3 (T903)
+
+> bankai alrededor de toda la flota
+
+La katana aparece en tu mano antes de que el primer meteoro termine de bajar: guarda cuadrada negra, empuñadura blanca, la línea plateada temblando a lo largo de la hoja.
+
+Liberas el Bankai.
+
+La línea plateada se suelta del filo.
+
+Corre por el aire como un hilo de luz, sale disparada hacia arriba, hacia los costados, y se abre. Pasa por encima del mástil del Moby Dick, por encima de los barcos de los capitanes aliados, de las balsas, de los botes más chicos que remolcan heridos, y cae por detrás de la última popa, sobre el agua negra. En un segundo, toda la flota queda dentro de una sola frontera, una cúpula enorme de bordes plateados, tan fina que casi no se ve, como el reflejo del sol en una pompa de jabón.
+
+Afuera queda Marineford. Adentro, los barcos.
+
+El primer puño de magma llega.
+
+Toca la frontera y deja de existir. No explota, no salpica, no humea. Choca contra el borde plateado y desaparece de golpe, como si nunca lo hubieran lanzado.
+
+Después el segundo. El quinto. El vigésimo.
+
+Durante varios segundos el cielo sigue rojo y la lluvia sigue cayendo, cientos de rocas ardientes del tamaño de casas, y ninguna llega abajo. Se apagan una tras otra contra la cúpula, en silencio, mientras los barcos siguen navegando por debajo, intactos, hacia la salida de la bahía. Ni una brasa cae sobre una cubierta. El agua alrededor de los cascos ni siquiera se calienta.
+
+En los barcos, los piratas que se habían tirado al suelo para cubrirse levantan la cabeza, despacio. Uno se ríe, nervioso. Después otro. Después cientos.
+
+—¡¿Qué es eso?!
+
+—¡No pasa! ¡No pasa nada!
+
+—¡¡OJOS DE ECLIPSE!!
+
+En la orilla, Akainu baja los brazos. El cielo deja de escupir fuego. Se queda mirando la cúpula plateada con la cara quieta, demasiado quieta, y el vapor le sale de los hombros en chorros.
+
+A su lado, recién llegado sobre el hielo partido, Kizaru se rasca la cabeza.
+
+—Oooh... Eso sí que da miedo~.
+
+En la cubierta del Moby Dick, Kase sigue la línea plateada con los ojos, de un extremo al otro del cielo, con las orejas paradas.
+
+Ace mira para arriba con la boca abierta.
+
+—¿Eso... también lo hiciste tú?
+
+Luffy se sube a la baranda de un salto, con los ojos brillando.
+
+—¡¡INCREÍBLE!! ¡¡Facundo, eso es genial!!
+
+Un aleteo de fuego azul cae sobre la baranda a tu lado. Marco se agacha, con las alas todavía encendidas, mira la cúpula, mira tu katana, te mira a ti.
+
+—Yoi. Linda pared. —Tiene la voz tranquila, pero los ojos no—. ¿Cuánto la puedes sostener? Todavía nos falta salir de la bahía, y esos dos no se van a quedar mirando.
+
+Detrás de ti, Barbablanca apoya el bisento en la cubierta, y la madera cruje.
+
+—Gurarara... —Te mira desde arriba, largo—. Mocoso. Le dijiste a mi hijo que no hiciera estupideces, y tú te pones a tapar el cielo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 903 · ONE PIECE · DÍA 57 · 13:17       ║
+║ Marineford · cubierta del Moby Dick          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Sacar la flota de la bahía bajo    ║
+║ el Bankai. Shingeki: antes del D59 16:30.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:17, cubierta del Moby Dick. Facundo liberó el Bankai Hate no Sakaime alrededor de toda la flota pirata; el Ryusei Kazan de Akainu se borra contra la frontera, ningún barco tocado. La flota navega hacia la salida de la bahía. Akainu quieto y furioso en la orilla; Kizaru llegó a su lado. Marco pregunta cuánto la puede sostener; Barbablanca le echa en cara que tape el cielo después de pedirle a Ace que no hiciera estupideces. Facundo puede responder.

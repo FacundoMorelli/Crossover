@@ -38,3 +38,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T890 · Come una semilla del ermitaño de Facundo en Marineford: entero. Facundo le pone una Marca (I) de la Manecilla Inversa.
 - T894 · Atrapa a Kase que le tira Facundo; ve a Akainu pegarle con magma.
 - T899 · Llega a la cima del cadalso y abraza a Ace; las esposas de piedra marina lo debilitan.
+- T903 · Ve el Bankai sobre la flota. "¡¡Increíble!! ¡¡Facundo, eso es genial!!"

@@ -19,3 +19,4 @@ ESTADO: activo
 - T900 · Marineford · Facundo le rompe las esposas de piedra marina y le da una semilla del ermitaño: libre y curado. Estalla en llamas. "¿Quién demonios eres?"
 - T901 · Facundo los lleva a él y a Luffy al Moby Dick. Barbablanca lo abraza. Akainu lo provoca insultando a Barbablanca; se queda quieto en la baranda con los puños en llamas.
 - T902 · Facundo le pide no caer en la provocación. Luffy le agarra el brazo. Apaga el fuego: "...Tienes razón." No se da vuelta (cambio: en el canon se daba vuelta y moría).
+- T903 · Ve el Bankai sobre la flota. "¿Eso... también lo hiciste tú?"

@@ -14,3 +14,4 @@ ESTADO: activo
 - T894 · Le pega a Facundo un puño de magma en el pecho: no le quema ni la ropa ni el cuerpo. "...¿Qué eres?"
 - T895 · Facundo lo empuja con la Luna: cruza la bahía y se estrella contra el muro de la plaza, que se le cae encima.
 - T901 · Sale del muro y provoca a Ace insultando a Barbablanca ("un perdedor que se esconde detrás de sus hijos").
+- T903 · Su Ryusei Kazan se borra contra la cúpula-frontera de Facundo. Baja los brazos, quieto, furioso.
