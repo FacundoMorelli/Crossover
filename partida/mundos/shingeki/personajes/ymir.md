@@ -40,3 +40,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T946 · Día 55 00:40 · Lo espera en el techo envuelta en una manta, con el frasco de manzanas secas casi vacío. "Ocho horas y media. Dijiste un día. Me adelanté con las manzanas." "¿Conseguiste lo que fuiste a buscar, lindo?"
 - T947 · "¿Ahora? Son las doce y cuarenta, lindo." "Bueno. Ahora." Convoca a todos con él. En la mesa con la manta y el frasco.
 - T948 · Pálida: "¿Eso son también los Nueve? ¿Eso es el mío también?"
+- T949 · Por Facundo: su titán desaparecería, ella no. Se tapa la cara y llora en silencio.

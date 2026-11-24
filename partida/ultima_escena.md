@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T946)
-algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
-
-## RESPUESTA 1 (T946)
-
-> algo asi, nos vemos dende en unos dias seguro vuelvo a pasar el tiempo por aca a ver a los demas hoy andaba medio apurado. Vuelvo a shingeki
-
-> —Algo así. Nos vemos, Dende. En unos días seguro vuelvo a pasar un tiempo por aquí, a ver a los demás. Hoy andaba medio apurado.
-
-Dende asiente. Se nota que quiere preguntar más, y se nota que decide no hacerlo.
-
-—Está bien. —Sonríe—. Cuando vuelvas, Videl-san va a querer verte. Entrena todos los días con Gohan-san. Dice que te va a ganar.
-
-Mr. Popo levanta una mano, sin cambiar la sonrisa.
-
-—Mr. Popo dice adiós al gato.
-
-Kase lo mira desde tu hombro. Parpadea una vez, despacio. Es lo más cerca de un saludo que le dedicó jamás a nadie.
-
-Levantas la mano. La puerta se abre en el borde de la plataforma, recta y alta, contra el cielo naranja del atardecer. Del otro lado hay noche, tejas oscuras y estrellas.
-
-Cruzas.
-
-El aire de Mitras es frío y huele a humo de chimeneas y a piedra mojada. Debe de haber llovido mientras no estabas. Estás otra vez en el techo del palacio, sobre las tejas, exactamente donde te fuiste. La ciudad duerme abajo: apenas algunos faroles encendidos en las calles, el reloj de la torre marcando las doce y cuarenta, y el silencio grueso de la madrugada.
-
-No estás solo en el techo.
-
-A unos metros, contra la chimenea, hay un bulto envuelto en una manta. Del bulto asoma una cabeza de pelo oscuro, revuelto, con la nariz roja de frío. En el regazo, apoyado sobre la manta, tiene un frasco de vidrio abierto. Está casi vacío.
-
-Ymir te mira por encima de la manta. Mastica despacio. Traga.
-
-Levanta el frasco y lo sacude: quedan dos manzanas secas en el fondo.
-
-—Ocho horas y media. —Lo dice con la boca medio llena—. Dijiste un día. Me adelanté un poco con las manzanas, por las dudas.
-
-Kase te salta del hombro, cruza las tejas mojadas sacudiendo las patas con asco a cada paso, y se mete debajo de la manta con ella sin pedir permiso. Ymir levanta el borde para dejarlo pasar, sin dejar de mirarte.
-
-—¿Y? —Ladea la cabeza—. ¿Conseguiste lo que fuiste a buscar, lindo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 946 · SHINGEKI · DÍA 55 · 00:40        ║
-║ Mitras · techo del palacio                   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: bajo la manta de Ymir                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Lara (borrar el Martillo; el       ║
-║ invernadero, de mañana).                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T947)
+## COMANDO 1 (T947)
 si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
 
-## RESPUESTA 2 (T947)
+## RESPUESTA 1 (T947)
 
 > si, necesito una reunion con todos, erwin, eren, levi, mikasa, etc, todos los que esten
 
@@ -112,10 +56,10 @@ Levi se apoya en la pared, con los brazos cruzados.
 
 ---
 
-## COMANDO 3 (T948)
+## COMANDO 2 (T948)
 Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
 
-## RESPUESTA 3 (T948)
+## RESPUESTA 2 (T948)
 
 > Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
 
@@ -176,4 +120,59 @@ Se lleva una mano al pecho, sin darse cuenta.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 01:17, sala de mapas. Facundo anunció que puede revivir a los muertos por titanes, hacer desaparecer todos los titanes y devolver a los titanes puros a la normalidad. Conmoción. Connie pregunta por su madre y Ragako; Levi repite "todos"; Erwin pregunta cómo; Ymir pregunta si incluye a los Nueve y a su propio titán. Facundo puede responder.
+## COMANDO 3 (T949)
+Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
+
+## RESPUESTA 3 (T949)
+
+> Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
+
+> —Sí, todos. Todo lo que tienen adentro desaparecería. Ustedes no.
+
+Ymir se queda quieta en el borde de la mesa.
+
+Después se le escapa el aire de golpe, como si alguien le hubiera sacado algo del pecho. Se le doblan los hombros. Se tapa la cara con las dos manos y se queda así, sin hacer ruido, con la manta caída en el regazo.
+
+Historia cruza la sala sin decir nada y se sienta a su lado, en la mesa, y le pasa un brazo por la espalda.
+
+Eren se mira las manos. Las abre y las cierra, despacio, como si fueran de otro.
+
+—El mío también —dice, en voz muy baja—. El Fundador. El Ataque. Todo lo que... —Se le corta la voz. Traga—. Todo lo que veo de noche.
+
+No suena asustado. Suena como alguien que recién se da cuenta de que podría dejar de cargar algo.
+
+Mikasa lo mira a la cara, muy cerca, buscando algo en ella. Lo encuentra. No le suelta la manga.
+
+—Trece años —murmura Armin, detrás de las manos. Se las baja—. La maldición. Si no hay titán, no hay maldición. Ymir, Eren, Reiner, Annie, la señorita Tybur... —Se le iluminan los ojos, húmedos—. Y los eldianos dejarían de ser... lo que el mundo cree que son. Ya no habría nada que temer de nosotros.
+
+Hange se sienta de golpe en una silla, con el cuaderno apretado contra el pecho.
+
+Levi no dice nada. Mira a Ymir llorando con la cara tapada, y después a Eren mirándose las manos, y mantiene la boca cerrada.
+
+Erwin es el único que sigue de pie en el mismo lugar.
+
+Mira el mapa de Paradis en la pared. Las tres murallas. Los alfileres rojos de la demostración.
+
+—Sin titanes, Paradis no tiene ejército capaz de defenderse de un continente que tiene barcos de vapor, cañones y aviones —dice, tranquilo, como quien enumera—. Marley tampoco. El equilibrio del mundo cambiaría en una sola noche. —Se da vuelta hacia ti—. No lo digo como objeción. Lo digo porque alguien en esta sala tiene que pensarlo.
+
+Hace una pausa. Se le nota el esfuerzo en la voz cuando sigue, más bajo.
+
+—Y porque, si es cierto lo de los muertos... hay soldados de la Legión enterrados en fosas sin nombre más allá de Wall Maria. Hay miles. —Te sostiene la mirada—. Le pregunté cómo, señor Morelli. Todavía no me respondió.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 949 · SHINGEKI · DÍA 55 · 01:19        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Explicar el cómo. Erwin espera.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 01:19, sala de mapas. Facundo confirmó: todos los titanes (también los Nueve) desaparecerían, los portadores no. Ymir llora (Historia la abraza); Eren aliviado; Armin entiende el fin de la maldición. Erwin advierte el cambio de equilibrio mundial y vuelve a preguntar cómo. Facundo puede responder.

@@ -34,3 +34,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T933 · Cierra la demostración: recepción a las 18 en el palacio.
 - T947 · Día 55 01:15 · Llega vestido, con té. "Supongo que no es para hablar del clima."
 - T948 · "¿Cómo?" (aprieta el muñón).
+- T949 · Sin titanes cambia el equilibrio del mundo ("alguien tiene que pensarlo"); miles de soldados en fosas sin nombre. "Le pregunté cómo. Todavía no me respondió."

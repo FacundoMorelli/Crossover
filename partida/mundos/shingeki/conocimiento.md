@@ -178,3 +178,4 @@
 - Ymir · T939 · Por la carta de Lara (leída por encima del hombro de Facundo) y deducción: Lara Tybur porta el Martillo de Guerra, le quedan nueve años, quiere que Facundo intente borrarle el titán.
 - Ymir · T940 · Ve a Facundo abrir una puerta de luz al cielo y cruzarla.
 - Erwin, Levi, Hange, Armin, Mikasa, Eren, Historia, Jean, Connie, Sasha, Ymir · T948 · Por Facundo: dice tener una forma de revivir a todos los muertos por titanes, hacer desaparecer todos los titanes y devolver a los titanes puros a la normalidad.
+- Todos en la sala de mapas · T949 · Por Facundo: los Nueve también desaparecerían; los portadores seguirían vivos.

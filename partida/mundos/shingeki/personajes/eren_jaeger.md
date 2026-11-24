@@ -34,3 +34,4 @@ ENCUENTROS:
 - T938 · Días 50-54 · Duerme toda la noche sin pesadillas (Mikasa).
 - T947 · Llega medio dormido, descalzo, empujado por Mikasa.
 - T948 · Se despierta de golpe; piensa en su madre; da un paso hacia Facundo sin hablar.
+- T949 · "El mío también. El Fundador. El Ataque. Todo lo que veo de noche." Alivio.
