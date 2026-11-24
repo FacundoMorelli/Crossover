@@ -16,3 +16,4 @@ ESTADO: activo
 - T951 · Orden de los deseos: 1) titanes fuera y puros a personas, en todo el mundo; 2) los muertos; 3) reconstrucción, para que tengan casas esa misma noche.
 - T954 · Calcula raciones.
 - T960 · Llora en silencio junto a Facundo en la calle.
+- T961 · Su abuelo murió en la recuperación del 846; casa cerca del canal. "Facundo... ¿tú puedes encontrarlo?"

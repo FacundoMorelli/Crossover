@@ -192,3 +192,4 @@
 - Todos en el acantilado · T958 · Ven la lluvia de chispas y oyen a Eclipse: los muertos por titanes vuelven (isla: Wall Maria; continente: sus casas).
 - Eren y todos en el acantilado · T959 · Por Facundo: la madre de Eren está viva en Shiganshina. Ven a Eclipse reconstruir las casas e irse ("Adiós, creador": saben que Facundo creó al dragón).
 - Carla Jaeger · T960 · Ve a Facundo (desconocido, pelo blanco y azul, gato) llegar de la nada con Eren, Mikasa y Armin.
+- Carla, Grisha · T961 · Por Facundo: "Ahora les explico todo." (nada todavía).

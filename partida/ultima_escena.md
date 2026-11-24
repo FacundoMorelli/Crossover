@@ -3,81 +3,10 @@
 
 ---
 
-## COMANDO 1 (T958)
-Segundo quiero que revivas a todos los muertos por titanes de esta epoca
-
-## RESPUESTA 1 (T958)
-
-> Segundo quiero que revivas a todos los muertos por titanes de esta epoca
-
-> —Segundo: quiero que revivas a todos los muertos por titanes de esta época.
-
-El dragón cierra los ojos.
-
-Durante un momento largo no pasa nada. El cielo sigue negro. El mar, quieto. En el silencio solo se oye a Connie, que todavía llora de rodillas en el pasto, y la respiración entrecortada de Eren contra el hombro de Mikasa.
-
-—ES UN DESEO GRANDE —dice Eclipse, con los ojos cerrados—. MUCHOS MURIERON EN ESTA ÉPOCA. DESDE QUE SE LEVANTARON LAS MURALLAS, HACE CIENTO SIETE AÑOS. LOS BUSCARÉ A TODOS.
-
-Abre los ojos.
-
-—LOS DE ESTA ISLA VOLVERÁN AL LUGAR QUE PREPARARON PARA ELLOS. LOS DEL OTRO LADO DEL MAR, A SUS CASAS.
-
-La cresta de fuego blanco y azul que le corre por el lomo se enciende de punta a punta, kilómetros de llama, y el cielo negro se llena de puntos de luz. No son estrellas. Son miles, cientos de miles de chispas blancas que caen despacio, como nieve al revés, como cenizas de una fogata que alguien sopló hacia arriba, y se reparten por el cielo de la isla entera.
-
-Caen.
-
-Lo sientes otra vez, con todo lo que tienes. La isla en la palma de la mano.
-
-Sobre el territorio de Wall Maria, sobre los campamentos que Paradis armó durante una semana, en Shiganshina, en Quinta, en cada distrito vacío, las chispas tocan el suelo. Y en el lugar donde toca cada una, se enciende una presencia. Tibia. Humana. Asustada.
-
-Una. Diez. Mil. Cien mil.
-
-No paran.
-
-Sientes cómo se llenan los campamentos. Cómo se llenan las calles vacías de Shiganshina, las plazas, los campos de alrededor. Cientos de miles de personas que abren los ojos al mismo tiempo, vestidas como estaban el día que murieron, de pie en un territorio que reconocen y no reconocen, debajo de un cielo negro lleno de luces que caen. Sientes el primer grito, en un campamento al norte de Shiganshina. Y el segundo. Y diez mil más. No son de miedo. No todos.
-
-En el borde de Shiganshina, junto a lo que queda de una casa de madera, una presencia se enciende y se sienta en el piso, despacio, llevándose las manos a las piernas, como si esperara encontrarlas aplastadas. No lo están.
-
-Más allá, en el mar, lejos, del otro lado del agua, las chispas también caen sobre el continente. En pueblos del Medio Oriente, en trincheras, en casas de campo de Marley. Y en la ciudad de Liberio, en la puerta de una casa de la zona de internamiento, se enciende una presencia joven, de un muchacho, que mira a su alrededor sin entender por qué no está en una isla, en medio de un bosque, con la mitad del cuerpo en la boca de un titán.
-
-Las chispas dejan de caer.
-
-En la meseta, nadie habla.
-
-Levi se dio vuelta hacia el oeste, hacia la isla. Tiene los puños cerrados, la cara de piedra, y no se mueve. No dice nombres. Pero se le ve en la cara que los está diciendo todos, uno por uno, por dentro.
-
-Erwin se aprieta el puente de la nariz con la única mano. Le tiemblan los hombros. Es la primera vez que alguien en la Legión lo ve así. Nadie lo mira.
-
-Eren se levanta del pasto. Tambaleándose, con Mikasa sujetándole el brazo. Tiene la cara deshecha. Mira al oeste, hacia donde está Shiganshina, y después te mira a ti.
-
-—Mi mamá —dice. Lo dice como un chico de diez años—. Facundo. Mi mamá está ahí. ¿Está ahí?
-
-El dragón sigue suspendido sobre todos, con los ojos clavados en ti.
-
-—TU SEGUNDO DESEO HA SIDO CONCEDIDO. DIME TU TERCER Y ÚLTIMO DESEO.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 958 · SHINGEKI · DÍA 63 · 05:02        ║
-║ Costa este de Paradis · meseta del           ║
-║ acantilado                                   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tercer y último deseo:             ║
-║ reconstrucción. Eren pregunta por su madre.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T959)
+## COMANDO 1 (T959)
 si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
 
-## RESPUESTA 2 (T959)
+## RESPUESTA 1 (T959)
 
 > si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
 
@@ -151,10 +80,10 @@ Hasta que Eren se suelta del brazo de Mikasa. Se da vuelta hacia ti. Tiene la ca
 
 ---
 
-## COMANDO 3 (T960)
+## COMANDO 2 (T960)
 guardo las esferas en el inventario, esta bien eren, vamos
 
-## RESPUESTA 3 (T960)
+## RESPUESTA 2 (T960)
 
 > guardo las esferas en el inventario, esta bien eren, vamos
 
@@ -236,4 +165,60 @@ Y en ese momento, del interior de la casa, por la puerta abierta, se oyen pasos.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:20, Shiganshina, casa de los Jaeger. Facundo llevó a Eren, Mikasa y Armin. Carla Jaeger, revivida, abraza a Eren y a Mikasa en el escalón. Grisha Jaeger, revivido, baja la escalera preguntando qué pasa. Armin llora junto a Facundo. Facundo puede actuar.
+## COMANDO 3 (T961)
+Ahora les explico todo, por favor nada mas disfruten todo, armin, no queres ir a ver a tu abuelo?
+
+## RESPUESTA 3 (T961)
+
+> Ahora les explico todo, por favor nada mas disfruten todo, armin, no queres ir a ver a tu abuelo?
+
+> —Ahora les explico todo. Por favor, nada más disfruten.
+
+Carla levanta la vista hacia ti, por encima de la cabeza de Eren y de Mikasa. Te mira el pelo, los ojos, el gato. Abre la boca para preguntar quién eres. No lo hace. Solo asiente, despacio, con los ojos mojados, y vuelve a abrazar a los dos chicos.
+
+En la puerta aparece Grisha.
+
+Alto, con el pelo largo atado y los anteojos torcidos, en camisa, descalzo como su mujer, con una mano apoyada en el marco. Se queda ahí, sin terminar la pregunta.
+
+Mira a su mujer, sentada en el escalón. Mira al muchacho que la abraza de rodillas. Al pelo largo. A los hombros anchos. A la cara.
+
+Se le cae la mano del marco.
+
+Eren levanta la cabeza del delantal de su madre. Lo ve.
+
+Se queda completamente quieto. No se levanta. No dice nada. Se le va el color de la cara, y por un segundo, en los ojos, le pasa algo que ni Mikasa entiende: algo viejo, oscuro, de una cueva debajo de una iglesia, de una noche que él no debería recordar y recuerda.
+
+Grisha da un paso fuera de la casa, descalzo, sobre la piedra fría.
+
+—¿Eren? —dice, muy bajo.
+
+Te das vuelta hacia Armin, que sigue a tu lado en la calle, con la cara mojada.
+
+> —Armin, ¿no quieres ir a ver a tu abuelo?
+
+Armin se saca las manos de la cara de golpe. Te mira. Se le abre la boca.
+
+—Mi abuelo. —Lo repite como si no hubiera pensado en eso hasta ahora. Como si no se hubiera animado a pensarlo—. Lo mandaron afuera, en la recuperación. Con los doscientos cincuenta mil. Él... —Se le corta la voz. Traga—. Murió por los titanes. Así que...
+
+Se le llenan los ojos otra vez. Mira hacia la calle, hacia el centro de la ciudad, de donde vienen los gritos y los nombres.
+
+—Nuestra casa estaba cerca del canal. —Señala con un dedo que tiembla—. Pero dijeron que los de la isla iban a aparecer en los campamentos. Puede estar en cualquier lado, entre medio millón de personas. —Te mira, desesperado y con esperanza al mismo tiempo—. Facundo... ¿tú puedes encontrarlo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 961 · SHINGEKI · DÍA 63 · 05:23        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: El abuelo de Armin. Grisha y Eren, ║
+║ frente a frente.                             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:23, Shiganshina, casa de los Jaeger. Grisha sale y ve a Eren ("¿Eren?"); Eren helado. Armin pregunta si Facundo puede encontrar a su abuelo (murió en la recuperación del 846; casa cerca del canal; puede estar en cualquier campamento). Facundo puede responder.
