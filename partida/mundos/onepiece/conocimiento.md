@@ -235,3 +235,4 @@
 - Todos en el frente (Akainu, Kizaru, Marco, marines, piratas, transmisión) · T892 · Ven a Ojos de Eclipse aplaudir y que Luffy y Kizaru cambien de lugar; Kizaru recibe el Dai Funka de Akainu. Otro aplauso: Luffy vuelve junto a Facundo y una piedra aparece en la plaza.
 - Todos en el frente (Akainu, Luffy, Jinbe, Ivankov, marines, piratas, transmisión) · T894 · Ven a Ojos de Eclipse recibir un puño de magma de Akainu en el pecho sin moverse ni quemarse; ni la ropa se le quema (corregido por el jugador).
 - Todos en Marineford (y la transmisión) · T895 · Ven a Ojos de Eclipse mandar a volar a Akainu con un gesto de la mano hasta el muro de la plaza.
+- Todos en Marineford (y la transmisión mundial) · T896 · Ven a Ojos de Eclipse soltar un Haki del Rey azul y blanco que desmaya a unos tres mil marines y a los verdugos de Ace. Sengoku, Garp, almirantes, Shichibukai lo reconocen como Haki del Rey.

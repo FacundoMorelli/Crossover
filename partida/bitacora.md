@@ -894,3 +894,4 @@ T892 · One Piece · Marineford · Boogie Woogie: Kizaru recibe el Dai Funka; Lu
 T893 · One Piece · Marineford · Burla a Akainu. Misión de copia: Akainu. Akainu se lanza con el puño de magma.
 T894 · One Piece · Marineford · Recibe el puño de magma de Akainu: ileso, ni la ropa se quema (corrección del jugador). COPIA Akainu (+800 EXP). "¿Qué eres?"
 T895 · One Piece · Marineford · Empuja a Akainu con la Luna contra el muro. Recupera a Kase. Sengoku adelanta la ejecución; verdugos levantan las espadas.
+T896 · One Piece · Marineford · Haki del Rey: caen los verdugos y ~3.000 marines. +1.000 EXP, +3.000 F.

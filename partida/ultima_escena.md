@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T894)
-perdon kase, le tiro a kase a luffy y dejo que me pegue
-
-## RESPUESTA 1 (T894)
-
-> perdon kase, le tiro a kase a luffy y dejo que me pegue
-
-> —Perdón, Kase.
-
-Lo agarras del lomo con una mano y lo tiras hacia atrás, por encima de tu hombro.
-
-Kase vuela por el aire con las cuatro patas abiertas, la cola erizada y un maullido de indignación absoluta. Luffy lo atrapa contra el pecho con los dos brazos, por reflejo.
-
-—¡¿Eh?! ¡El gato!
-
-Te das vuelta hacia Akainu. Bajas los brazos. Te quedas quieto.
-
-El puño de magma te pega en el pecho.
-
-El ruido es un siseo enorme, como el de mil hierros al rojo metidos en agua. Una explosión de vapor blanco te envuelve de golpe y sube en una columna. El hielo alrededor se derrite en un círculo de diez metros y se convierte en agua hirviendo. Los borceguíes se te hunden hasta el tobillo.
-
-No te mueves.
-
-Ni un paso. Ni medio centímetro. El puño de Akainu, del tamaño de un barril, queda apoyado contra tu pecho, empujando, y no avanza.
-
-El sobretodo y la camisa no aguantan. Se prenden fuego en un círculo grande, sobre el pecho, y se deshacen en ceniza que el vapor se lleva. Debajo queda la piel desnuda, con el dragón tatuado que te cruza el pecho a la vista de todos.
-
-La piel no se quema. No se pone roja ni se le levanta una ampolla. El magma te chorrea por el cuerpo como agua de lluvia sobre una piedra, baja por las piernas y cae al agua hirviendo, sin dejar marca.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER — NO COMPLETADO            ║
-║ Magu Magu no Mi + Haki                       ║
-║                                              ║
-║ Condición: «que no te queme ni la ropa».     ║
-║ La ropa se quemó. La misión sigue activa.    ║
-╚══════════════════════════════════════════════╝
-```
-
-El vapor se abre despacio.
-
-Akainu sigue ahí, a un brazo de distancia, con el puño de magma apoyado en tu pecho. Lo mira. Mira tu piel intacta debajo del magma. Te mira a la cara.
-
-Por primera vez, el almirante de la justicia absoluta no sabe qué hacer con lo que tiene delante.
-
-—... —Le tiembla apenas un músculo de la mandíbula—. ¿Qué eres?
-
-Detrás de ti, Luffy, empapado de vapor, con Kase apretado contra el pecho, grita tu nombre con toda la voz.
-
-—¡¡FACUNDO!!
-
-En sus brazos, Kase te mira a través del vapor sin moverse, con las pupilas finas como agujas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 894 · ONE PIECE · DÍA 57 · 13:06       ║
-║ Marineford · bahía congelada                 ║
-║ NIVEL 27 · EXP 220.440/240.000               ║
-║ FRAGMENTOS 134.581 · 5.950.000 berries       ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en brazos de Luffy                     ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Salvar a Ace, al lado de Luffy.    ║
-║ Akainu frente a ti.                          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T894, corrección)
+## COMANDO 1 (T894, corrección)
 (hace que no se me haya quemado la ropa)
 
-## RESPUESTA 2 (T894, corrección)
+## RESPUESTA 1 (T894, corrección)
 
 > (hace que no se me haya quemado la ropa)
 
@@ -138,10 +68,10 @@ En sus brazos, Kase te mira a través del vapor sin moverse, con las pupilas fin
 
 ---
 
-## COMANDO 3 (T895)
+## COMANDO 2 (T895)
 lo empujo con la luna, agarro a kase
 
-## RESPUESTA 3 (T895)
+## RESPUESTA 2 (T895)
 
 > lo empujo con la luna, agarro a kase
 
@@ -196,4 +126,68 @@ Luffy grita con todo lo que tiene.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:07, bahía de Marineford. Facundo mandó a Akainu con la Luna contra el muro de la plaza (se le derrumbó encima; vivo). Recuperó a Kase (le mordió la oreja). Sengoku ordenó adelantar la ejecución: dos verdugos levantaron las espadas sobre Ace. Luffy grita "¡¡ACEEEEE!!".
+## COMANDO 3 (T896)
+expulso mi haki del rey
+
+## RESPUESTA 3 (T896)
+
+> expulso mi haki del rey
+
+Las espadas de los verdugos están arriba, en el punto más alto, a un segundo de bajar.
+
+Lo sueltas.
+
+No es un hilo, como en el bar de Shakky. Tampoco es la mitad, como contra Rayleigh. Es una ola.
+
+Sale de ti hacia adelante, hacia la plaza y hacia el cadalso, invisible y enorme. El aire se dobla. El hielo de la bahía se raja en mil líneas, en abanico, desde tus pies hasta el muro. Por encima de la ola, en el aire, saltan rayos: no negros, sino azules y blancos, ramas de electricidad del color de tu Haki que chasquean como látigos sobre las cabezas de miles de personas.
+
+Los dos verdugos se quedan quietos con las espadas en alto.
+
+Se les ponen los ojos en blanco. Caen de rodillas, primero uno y después el otro, y las espadas se les resbalan de las manos y caen al cadalso con un ruido de hierro, a un palmo de la nuca de Ace, sin tocarlo.
+
+Después cae la plaza.
+
+Miles de marines se desmayan a la vez, como un trigal que se dobla con el viento: las primeras filas, las del medio, las del muro, las del ala este. El de anteojos, que tanto miedo tenía. Los artilleros de los cañones. Los soldados del hielo. Cientos, miles, uno sobre otro, con los fusiles cayendo como lluvia sobre la piedra.
+
+Detrás de ti, los piratas aliados apenas sienten un viento fuerte que les despeina el pelo. Ninguno cae.
+
+Cuando la ola pasa, en toda la plaza de Marineford quedan de pie muy pocos.
+
+Sengoku, en lo alto del cadalso, agarrado al poste, pálido. Garp, que se levantó de golpe de su silla al pie del cadalso, con la bolsa de galletas en el piso. Aokiji, que bajó el antifaz. Los Guerreros del Mar en sus gradas: Mihawk, sin moverse, con los ojos amarillos muy abiertos; Doflamingo, que dejó de reírse; Hancock, que se agarra el pecho. Los vicealmirantes. Los comandantes de Barbablanca en el hielo.
+
+En su cráter, Kizaru se acomoda los lentes torcidos.
+
+—Ooo... —Se le corta la voz—. Qué miedo~.
+
+Debajo del muro derrumbado, las piedras se mueven. Algo rojo late debajo.
+
+Arriba del cadalso, Ace está de rodillas entre dos verdugos desmayados. Te mira desde allá arriba, con los ojos muy abiertos, sin entender.
+
+Sengoku agarra el Den Den Mushi con la mano temblando.
+
+—Haki del Rey... —Ya no grita. Lo dice para sí—. ¿Azul?
+
+Desde el Moby Dick, por encima de la bahía en silencio, llega una carcajada enorme.
+
+—¡GURARARARARA!
+
+[+1.000 EXP · +3.000 Fragmentos]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 896 · ONE PIECE · DÍA 57 · 13:07       ║
+║ Marineford · bahía congelada                 ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace. Verdugos caídos.     ║
+║ Shingeki: antes del D59 16:30.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:07, Marineford. El Haki del Rey azul y blanco de Facundo desmayó a los dos verdugos (las espadas cayeron junto a Ace sin tocarlo) y a ~3.000 marines. De pie: Sengoku (pálido, "¿Azul?"), Garp (levantado), Aokiji, Kizaru (en el cráter), Akainu (bajo el muro, vivo), Shichibukai, vicealmirantes, comandantes de Barbablanca. Barbablanca ríe. Ace, de rodillas, mira a Facundo. +1.000 EXP, +3.000 F.

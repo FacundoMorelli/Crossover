@@ -159,3 +159,4 @@
 - Día 57 13:01 · (T888) Barbablanca come una semilla del ermitaño de Facundo: entero para la guerra (cambio grande: en el canon estaba enfermo y herido, Squard lo apuñalaba).
 - Día 57 13:05 · (T892) Kizaru recibe el Dai Funka de Akainu por el Boogie Woogie de Facundo (cambio).
 - Día 57 13:07 · (T895) Akainu, lanzado contra el muro de la plaza por Facundo. Sengoku adelanta la ejecución (canon: la adelantaba al acercarse Luffy).
+- Día 57 13:07 · (T896) El Haki del Rey de Facundo desmaya a los verdugos y a ~3.000 marines. La ejecución se frena (cambio).

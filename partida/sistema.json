@@ -1,13 +1,13 @@
 {
-  "turno": 895,
+  "turno": 896,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 57 (Grand Line, Marineford)",
   "hora": "13:07",
   "edad": 18,
   "nivel": 27,
-  "exp": 221240,
+  "exp": 222240,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 134581,
+  "fragmentos": 137581,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -56,7 +56,7 @@
     "energia": 242,
     "control": 241
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 92,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1535,6 +1535,12 @@
       "turno": 891,
       "quien": "Tres Pacifistas (PX), Marineford, flechas Quincy a la cabeza",
       "fragmentos": 75
+    },
+    {
+      "mundo": "onepiece",
+      "turno": 896,
+      "quien": "~3.000 marines de Marineford (soldados rasos y oficiales bajos) y los dos verdugos, desmayados por el Haki del Rey",
+      "fragmentos": 3000
     }
   ],
   "viaje": {
