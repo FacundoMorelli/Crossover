@@ -1,4 +1,5 @@
 TURNO: 794 | MUNDO: One Piece | Día 38 (Grand Line) | HORA: 10:07 | Lugar: Water 7, casa de la Galley-La, comedor
+REGLAS EXTRA: leer partida/reglas_extra.md (8 reglas). Última escena textual: partida/ultima_escena.md.
 MOMENTO DEL CANON: Post-Enies Lobby (cap. ~431): regreso a Water 7. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 213.240/215.000 · 134.022 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 100M (200M para la madera de Adán) · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
