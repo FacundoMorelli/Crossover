@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T850)
-miro a willy y espero
-
-## RESPUESTA 1 (T850)
-
-> miro a willy y espero
-
-Te quedas detrás del telón, con un ojo en la rendija. Kase, en tu hombro, tiene las orejas hacia adelante.
-
-Willy empieza tal como lo ensayó delante de los generales.
-
-—Hace cien años... —Su voz llena la plaza sin gritar, grave, entrenada—. El mundo entero sufrió bajo el pie de los titanes del Imperio de Eldia. Durante mil setecientos años, Eldia hizo de la tierra un infierno. Y en la hora más oscura, un héroe se levantó: Helos, el salvador de Marley. Y con él, la familia Tybur.
-
-Los embajadores asienten. En el palco del alto mando, el general Calvi se acomoda en la silla, satisfecho. Las cámaras de fuelle hacen ruido.
-
-Willy sigue. Cuenta la Gran Guerra de los Titanes, la derrota del rey Fritz y su huida a la isla con los últimos eldianos, las murallas, la amenaza. Cada palabra es exactamente la que los generales aplaudieron tres veces.
-
-Al quinto minuto, se detiene.
-
-Mira el papel que tiene sobre el atril. Lo dobla en dos y lo aparta.
-
-—Todo lo que les acabo de decir es mentira.
-
-La plaza se queda helada.
-
-—Helos nunca existió. —La voz de Willy no tiembla—. Fue un invento de mi familia. Hace cien años, el rey Fritz no huyó derrotado. Se encerró en esa isla con su pueblo porque no quería hacer más la guerra. Le dejó el mundo a Marley y juró que nunca volvería. Y mi familia escribió la historia que necesitaba el mundo para odiar a los que quedaron.
-
-El murmullo empieza en los palcos y corre como fuego por las gradas. Los periodistas se ponen de pie con los blocs en la mano. En la primera fila, la nena de pelo oscuro mira el escenario con la boca abierta.
-
-—Hace semanas —sigue Willy, más fuerte—, un hombre de esa isla entró a Marley. No con un ejército. Solo. A pedir la paz. Y nos devolvió vivo a Zeke Jaeger, el jefe de los guerreros que creíamos perdido. Paradis puede destruir a los titanes de sus murallas, los que todos temen. Y ya lo demostró.
-
-En el palco del alto mando, el general Calvi se pone de pie. Tiene la cara del color de la ceniza. A su lado, Magath no se mueve. Ni siquiera parpadea.
-
-—Y para que no sean solo mis palabras... —Willy abre los brazos hacia los palcos, hacia el mundo—. Les presento a quien cruzó el mar para firmar esa paz.
-
-Se da vuelta hacia el telón. Hacia ti.
-
-—La reina de Paradis. Historia Reiss.
-
-A tu lado, Historia deja de temblar. Ymir le suelta la mano.
-
-Y por la rendija ves cómo, en el palco del alto mando, el general Calvi saca del cinturón una pistola corta, de caño ancho, y la levanta hacia el cielo.
-
-Una pistola de bengalas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 850 · SHINGEKI · DÍA 40 · 19:11        ║
-║ Liberio · detrás del telón del escenario     ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: LA FIESTA. Historia firma la paz.  ║
-║ Barrera sobre la plaza. Que disparen primero.║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T851)
+## COMANDO 1 (T851)
 miro a historia
 
-## RESPUESTA 2 (T851)
+## RESPUESTA 1 (T851)
 
 > miro a historia
 
@@ -133,10 +71,10 @@ En el escenario, Historia da un paso adelante y apoya las dos manos en el atril.
 
 ---
 
-## COMANDO 3 (T852)
+## COMANDO 2 (T852)
 miro
 
-## RESPUESTA 3 (T852)
+## RESPUESTA 2 (T852)
 
 > miro
 
@@ -209,4 +147,56 @@ Estira la mano hacia el telón.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 40 19:22. Historia dio su discurso sin papel (perdón, "no vamos a devolver el disparo", ofrece destruir los titanes de las murallas). Magath arrestó a Calvi en el palco. Kiyomi Azumabito (Hizuru) aplaudió primero; toda la plaza la siguió. Willy puso el tratado en una mesa. Historia, con la pluma, llama al emisario: "¿Saldría, por favor?". Facundo detrás del telón con Ymir y Kase.
+## COMANDO 3 (T853)
+Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
+
+## RESPUESTA 3 (T853)
+
+> Salgo al escenario y me presento, mucho gusto soy Facundo Morelli, el emisario de paradis
+
+Ymir te mira de reojo cuando apartas el telón. No dice nada. Te da un empujoncito en la espalda.
+
+Sales al escenario.
+
+La luz de los faroles te pega de frente. Al principio la plaza es una mancha de caras, banderas y humo que todavía flota. Caminas despacio sobre las tablas nuevas, con el traje gris de burócrata marleyano y Kase sentado en tu hombro, con la cola colgando por tu espalda, y te detienes junto a Historia, al lado de la mesa del tratado.
+
+> —Mucho gusto. Soy Facundo Morelli, el emisario de Paradis.
+
+El murmullo empieza en la primera fila y se extiende. Los periodistas se empujan para sacar la foto. Las cámaras de fuelle disparan una tras otra: el pelo de dos colores que asoma bajo el sombrero, la cicatriz del ojo, el gato. Desde los palcos, los embajadores se inclinan hacia adelante. La mujer del kimono te mira con los ojos entrecerrados y una sonrisa chiquita de interés detrás del abanico.
+
+En el pasillo central, el coronel Muller se quedó quieto como una estatua.
+
+Te mira y te reconoce. El asesor civil. Las colonias del sur. La casa del catorce. El gato. Se le borra el color de la cara de a poco. Mira la libreta que tiene en la mano. La cierra, despacio, con un ruido seco que nadie más oye, y la guarda en el bolsillo.
+
+En el palco del alto mando, solo, Magath se cruza de brazos. Se le mueve algo en la comisura de la boca. Casi parece una sonrisa.
+
+Historia se inclina sobre la mesa y firma. La pluma raspa el papel en el silencio. Hay una firma clara, redonda, de una chica de quince años que aprendió a escribir su nombre verdadero hace poco: Historia Reiss.
+
+Willy firma al lado, por la familia Tybur, con una firma larga y elegante. Después levanta la mano hacia el palco del alto mando.
+
+Magath baja por la escalera del palco, cruza la plaza entre los cadetes y sube al escenario con pasos pesados, militares. Toma la pluma sin decir nada y firma como representante del ejército de Marley. Después se endereza y te mira, un segundo, con sus ojos grises de viejo soldado.
+
+Historia toma la pluma de la mesa y te la tiende con las dos manos.
+
+—Firme como testigo. —Lo dice bajito, solo para ti, y después más fuerte, para la plaza—. Usted lo hizo posible.
+
+Toda la plaza espera, en silencio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 853 · SHINGEKI · DÍA 40 · 19:25        ║
+║ Liberio · escenario de la plaza              ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 92% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tratado firmado por Historia,      ║
+║ Willy y Magath. Firmar como testigo.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 40 19:25, sobre el escenario de la fiesta. Facundo se presentó ante el mundo como Facundo Morelli, el emisario de Paradis (fotografiado). Muller lo reconoció y cerró la libreta. Firmaron el tratado Historia, Willy (por los Tybur) y Magath (por el ejército de Marley). Historia le tiende la pluma: "Firme como testigo. Usted lo hizo posible." La plaza espera.

@@ -1,8 +1,8 @@
 {
-  "turno": 852,
+  "turno": 853,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 40 tras Shiganshina (Liberio, fiesta Tybur)",
-  "hora": "19:22",
+  "hora": "19:25",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -247,7 +247,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (One Piece)"
+    "poder_mostrado": "persona común (Shingeki: emisario de Paradis, en público)"
   },
   "armas": [
     {

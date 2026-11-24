@@ -24,3 +24,4 @@ ESTADO: activo
 - T551 · Facundo golpea y le avisa de Muller. Propone que se presente mañana a las 8 como su asesor civil ante Muller.
 - T556 · Corta a Muller por rango. "No le creyó. Pero no va a ir contra mí sin pruebas."
 - T852 · Arresta a Calvi en el palco ante el mundo.
+- T853 · Baja del palco y firma el tratado como representante militar de Marley.
