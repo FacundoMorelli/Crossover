@@ -135,3 +135,4 @@
 - Guardias del sótano de la Guarnición de Trost · T832 · Ven aparecer de la nada a Facundo y Levi en el pasillo.
 - Facundo · T833 · Por Zeke: la familia Tybur guarda el Martillo de Guerra; nadie fuera de la familia sabe quién lo porta; no es Willy. Antes de Facundo, Willy y el alto mando planeaban la fiesta para declarar la guerra a Paradis ante el mundo.
 - Levi, Zeke · T835 · Facundo se va de Trost hacia Liberio por teletransportación para hablar con Willy.
+- Facundo · T836 · Por Willy: el alto mando (Calvi y otros) cree que la fiesta es para declarar la guerra; cañones en los techos de la plaza, cadetes guerreros, flota lista; Muller informó del "agente del Medio Oriente con un gato"; Lara Tybur, hermana de Willy, porta el Martillo de Guerra.

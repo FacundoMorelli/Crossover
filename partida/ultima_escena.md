@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T833)
-esta bien levi, puedes irte, 5 minutos tienes zeke, si no terminas en ese tiempo levi entra y escucha el resto
-
-## RESPUESTA 1 (T833)
-
-> esta bien levi, puedes irte, 5 minutos tienes zeke, si no terminas en ese tiempo levi entra y escucha el resto
-
-> —Está bien, Levi, puedes irte. Cinco minutos tienes, Zeke. Si no terminas en ese tiempo, Levi entra y escucha el resto.
-
-Levi te mira un segundo largo. Después mira a Zeke.
-
-—Cinco. —Se despega de la pared—. Los cuento.
-
-Va hasta el final del pasillo y les hace una seña a los dos guardias, que dejan las cartas y lo siguen sin preguntar. Se paran los tres al pie de la escalera, de espaldas, a veinte metros. Levi saca un reloj de bolsillo y lo abre.
-
-Zeke deja el libro sobre la cama. Se inclina hacia los barrotes, con los codos en las rodillas, y baja la voz.
-
-—Voy a ser rápido, porque ese hombre cuenta en serio. —Se acomoda los lentes—. Son dos cosas.
-
-Levanta un dedo.
-
-—La familia Tybur no es solo una familia rica. Guarda uno de los Nueve. El Martillo de Guerra. —Te mira fijo—. Nadie fuera de la familia sabe quién lo porta. Ni el alto mando, ni yo. Pero no es Willy. Willy es la cara, el que habla. El martillo lo tiene otro. Alguien que esa noche va a estar cerca de él, seguro.
-
-Levanta el segundo dedo.
-
-—Lo otro es peor. —Respira hondo—. Esa fiesta no la inventaste tú. Hace más de un año, antes de que tú aparecieras, Willy y el alto mando ya la estaban preparando. Una fiesta enorme en Liberio, con embajadores de todo el mundo, con un escenario en la plaza. ¿Para qué?
-
-Hace una pausa.
-
-—Para declararle la guerra a Paradis delante de todos. Para que el mundo entero se uniera contra la isla. Lo escuché en el cuartel general cuando todavía era el jefe de los guerreros.
-
-Se recuesta un poco hacia atrás.
-
-—Lo que tú pactaste con él es la misma fiesta. El mismo escenario, los mismos embajadores, los mismos cañones en los techos. Todo ya estaba listo para la guerra. —Se encoge de hombros—. Puede que Willy haya cambiado de idea por ti. Es un hombre raro, más inteligente de lo que parece. O puede que solo haya cambiado el discurso, y no el final.
-
-Al fondo del pasillo, Levi mira el reloj.
-
-—Dos minutos.
-
-Zeke se inclina otra vez, rápido.
-
-—Así que te pido una sola cosa. —Se agarra de los barrotes—. Llévame. A Liberio. Encadenado, a Levi, a quien quieras. Si es una trampa, voy a ser el único en esa plaza que sabe dónde están los cañones, quién manda a los soldados y por dónde se sale.
-
-Te sostiene la mirada detrás de los lentes rajados.
-
-—Y quiero estar ahí cuando la reina de los demonios firme la paz. Quiero ver la cara de Magath.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 833 · SHINGEKI · DÍA 35 · 06:56        ║
-║ Trost · sótano de la Guarnición, celda       ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Hablar con Willy.                            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T834)
+## COMANDO 1 (T834)
 está bien zeke, vas a venir con nosotros encadenado a levi
 
-## RESPUESTA 2 (T834)
+## RESPUESTA 1 (T834)
 
 > está bien zeke, vas a venir con nosotros encadenado a levi
 
@@ -125,10 +61,10 @@ Levi lo ignora. Se da vuelta hacia ti y se cruza de brazos.
 
 ---
 
-## COMANDO 3 (T835)
+## COMANDO 2 (T835)
 si, ahora voy a hablar con willy
 
-## RESPUESTA 3 (T835)
+## RESPUESTA 2 (T835)
 
 > si, ahora voy a hablar con willy
 
@@ -183,4 +119,60 @@ Willy dobla el diario mojado, despacio, y lo deja a un lado. Cuando vuelve a mir
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 07:05, invernadero de la mansión Tybur en Liberio. Levi se quedó con Zeke en Trost. Willy, desayunando solo, se derramó el té al verlo; encendió la vela ocho veces. Facundo siente la presencia de titán en el piso de arriba (Lara, no sabe quién). Willy: "Siéntese, por favor. Tenemos menos tiempo del que cree."
+## COMANDO 3 (T836)
+me siento, que pasó estos días willy?
+
+## RESPUESTA 3 (T836)
+
+> me siento, que pasó estos días willy?
+
+Te sientas en la silla de hierro blanco, frente a él. Kase baja de tu hombro a la mesa, olfatea las tostadas y se sienta al lado del plato, mirando a Willy.
+
+> —¿Qué pasó estos días, Willy?
+
+Willy se toma un momento. Sirve té en una taza limpia y te la pasa. Sirve otra para él. Las manos le tiemblan apenas, lo justo para que la tetera tintinee contra la porcelana.
+
+—Lo primero, para que no haya dudas. —Te mira a los ojos—. Sigo firme. Quiero esa paz. Más que antes.
+
+Toma un sorbo.
+
+—Lo segundo es el problema. —Deja la taza—. El alto mando no sabe nada. Ni de usted, ni de la reina, ni de la paz. Para el general Calvi y los demás, la fiesta es lo que siempre fue: hace más de un año que la preparamos para declararle la guerra a Paradis delante del mundo entero. Ese era el plan. Mi plan.
+
+Se le endurece la cara al decirlo.
+
+—Si cambiaba algo en público, me iban a preguntar por qué. Así que no cambié nada. Ensayé el discurso de guerra delante de ellos tres veces. Lo aplaudieron. —Se le escapa una risa amarga—. Pienso cambiarlo arriba del escenario, cuando esté frente a los embajadores. Ahí ya no me pueden callar.
+
+Se inclina hacia adelante.
+
+—Pero como los generales creen que es una declaración de guerra, la prepararon como tal. Hay cañones en los techos de toda la plaza. Pusieron a los cadetes guerreros en primera fila, a los chicos, a la pequeña Braun y a los demás, para la foto. La flota está lista en el puerto. Magath la frena con excusas, pero no la puede frenar para siempre.
+
+Hace una pausa.
+
+—Y el capitán Muller presentó un informe sobre un «agente del Medio Oriente con un gato» que fue visto con Magath el mes pasado. Magath lo archivó. Pero está escrito.
+
+Se queda callado un momento. Mira hacia arriba, hacia el techo de vidrio, hacia la casa.
+
+—Hay algo más que no le dije la última vez. —Baja la voz—. Si va a confiar en mí, tiene que saberlo. Mi familia guarda uno de los Nueve. El Martillo de Guerra. No lo porto yo. Lo porta mi hermana, Lara. —Señala el piso de arriba con los ojos—. Está arriba, durmiendo.
+
+Junta las manos sobre la mesa.
+
+—Así que la pregunta que no me deja dormir es esta. Si los generales deciden disparar igual cuando su reina suba a ese escenario... —Te mira—. ¿Cómo la protegemos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 836 · SHINGEKI · DÍA 35 · 07:15        ║
+║ Liberio · mansión Tybur, invernadero         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto a las tostadas       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Proteger a Historia en la plaza.             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 07:15, invernadero de la mansión Tybur. Willy sigue firme, pero el alto mando cree que la fiesta es para declarar la guerra (cañones en los techos, cadetes en primera fila, flota lista); va a cambiar el discurso en el escenario. Muller informó del "agente con gato". Willy confesó que su hermana Lara porta el Martillo de Guerra (está arriba). Pregunta: "¿Cómo la protegemos?" (a Historia, si los generales disparan).

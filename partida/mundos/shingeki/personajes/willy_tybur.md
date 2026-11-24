@@ -18,3 +18,4 @@ ESTADO: activo
 - T564 · Se ríe. Propone: invernadero cada tres noches a las nueve; vela apagada si no hay novedades.
 - T565 · Recibe el botón de aviso. Lo guarda en el bolsillo del chaleco.
 - T835 · Día 35, mañana · Facundo aparece en su invernadero. "Veinticuatro días. Empezaba a pensar que el emisario de la isla había sido un sueño mío." "Siéntese. Tenemos menos tiempo del que cree."
+- T836 · Cuenta: el alto mando no sabe del plan de paz (creen que la fiesta es para declarar la guerra); cañones en los techos; cadetes; flota lista. Muller informó del "agente con gato". Confiesa que su hermana Lara porta el Martillo de Guerra. Pregunta cómo proteger a la reina si los generales disparan.
