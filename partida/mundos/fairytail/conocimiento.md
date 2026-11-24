@@ -17,3 +17,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Makarov y el gremio · T1001 · Facundo dijo que no vio a quien los colgó.
 - Todo Fairy Tail presente · T1002 · Facundo va con ellos a Oak Town (él lo dijo; Makarov lo permitió).
 - Natsu, Gray, Happy · T1003 · Facundo dijo que es "un poco" fuerte.
+- Natsu, Happy (y todos los cercanos) · T1004 · Facundo aceptó pelear con Natsu al volver de Phantom.

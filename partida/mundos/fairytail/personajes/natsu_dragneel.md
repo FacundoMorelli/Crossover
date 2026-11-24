@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: le cae bien; lo desafió a pelear después de Phantom (T1
 ENCUENTROS:
 - T999 · Día 1 07:09 · Parque de la Puerta Sur: llega con Fairy Tail y ve a Facundo junto a Shadow Gear curado, con el hierro arrancado en la mano.
 DIÁLOGOS CLAVE:
+- T1004 · "¡SÍ! ¡Happy, ¿escuchaste?! ¡Dijo que sí!"
 - T1003 · "¡Eso dicen siempre los que son fuertes de verdad! ¡Cuando terminemos con Phantom, peleas conmigo!" "¡Cuando volvamos, tú y yo!"
 - T1002 · "¡Arrancó el hierro de ese tipo con las manos, Erza! ¡Me cae bien!" "Oye, tú. Facundo. ¿Eres fuerte?"
 - T1001 · "¡Me estoy encendiendo!"

@@ -36,3 +36,4 @@
 - Día 1 07:09 · (T999) Fairy Tail llega al parque (canon), pero encuentra a Shadow Gear curado.
 - Día 1 07:13 · (T1001) Makarov rompe su bastón y declara la guerra a Phantom Lord (canon). Le aconseja a Facundo irse de Magnolia.
 - Día 1 07:15 · (T1002) Makarov permite que Facundo vaya a Oak Town. Shadow Gear y Lucy se quedan en Magnolia (canon: Lucy se queda; Shadow Gear sanos en vez de en el hospital).
+- Día 1 07:28 · (T1004) Fairy Tail sale en tren hacia Oak Town (con Facundo).

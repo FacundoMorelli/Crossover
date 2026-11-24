@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1001)
-no, cuando llegué ya estaban colgados
-
-## RESPUESTA 1 (T1001)
-
-> no, cuando llegué ya estaban colgados
-
-> —No. Cuando llegué, ya estaban colgados.
-
-Makarov asiente una vez, despacio.
-
-—Fue Gajeel, maestro. —Levy se pone de pie con ayuda de Lucy. Tiene la voz firme, aunque le tiemblan las manos—. Gajeel Redfox, de Phantom Lord. Nos esperó a la salida de la ciudad, anoche. Estaba solo. —Traga saliva—. No pudimos hacer nada. Ni siquiera lo tocamos.
-
-—Se reía —dice Jet, con los ojos en el pasto—. Todo el tiempo.
-
-Droy no dice nada. Tiene los puños tan apretados que le tiemblan los brazos.
-
-Makarov no contesta. Levanta el bastón con las dos manos, delante del pecho, y lo mira como si fuera la primera vez que lo ve. Es de madera vieja, oscura, gastada por los años en el lugar donde la agarra.
-
-Lo parte.
-
-El crujido suena en todo el parque. Las dos mitades caen al pasto, a sus pies.
-
-—Puedo aguantar que destruyan nuestra sede —dice. Ya no habla en voz baja—. Es madera y piedra. Se vuelve a levantar. Pero ningún padre se queda callado cuando le lastiman a sus hijos.
-
-Se da vuelta hacia el gremio. El aire a su alrededor ya no está pesado: arde.
-
-—¡ES LA GUERRA!
-
-El gremio entero estalla. El muchacho de pelo rosado levanta los dos puños y el fuego le sube hasta los codos, tan alto que los vecinos se tiran para atrás. El muchacho sin camisa hace crujir los nudillos y en la palma se le forma escarcha. La mujer pelirroja abre los ojos. Alguien grita "¡Vamos a Oak Town!", y detrás lo repiten diez voces.
-
-—¡Me estoy encendiendo! —grita el de pelo rosado.
-
-—¡Aye, señor! —El gato azul da una vuelta en el aire.
-
-Makarov, en el medio del ruido, se vuelve a mirarte. Por encima de su hombro se ve a Lucy, todavía con Levy del brazo, mirando a su gremio con una cara que no es la de los demás: está pálida.
-
-—Muchacho —dice Makarov. Ya no hay furia cuando te habla a ti, solo cansancio y algo parecido al respeto—. Esto no es asunto tuyo. Phantom va a saber que alguien bajó a mis chicos de ese árbol, y no les va a gustar. —Te mira el hierro en la mano—. Si yo fuera tú, me iría de Magnolia por unos días.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1001 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 07:13 · Magnolia · Parque de la Puerta Sur   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1002)
+## COMANDO 1 (T1002)
 voy con ustedes a Oak Town
 
-## RESPUESTA 2 (T1002)
+## RESPUESTA 1 (T1002)
 
 > voy con ustedes a Oak Town
 
@@ -125,10 +68,10 @@ El gremio empieza a moverse, una marea de gente con marcas en los brazos, en los
 
 ---
 
-## COMANDO 3 (T1003)
+## COMANDO 2 (T1003)
 un poco
 
-## RESPUESTA 3 (T1003)
+## RESPUESTA 2 (T1003)
 
 > un poco
 
@@ -188,4 +131,59 @@ Natsu respira hondo, se endereza y te vuelve a apuntar con el dedo, todavía med
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:17, Parque de la Puerta Sur. Natsu desafía a Facundo para después de Phantom. Gray se presentó. Tren a Oak Town en diez minutos. Facundo puede responder.
+## COMANDO 3 (T1004)
+dale, cuando volvamos peleamos
+
+## RESPUESTA 3 (T1004)
+
+> dale, cuando volvamos peleamos
+
+> —Dale. Cuando volvamos, peleamos.
+
+—¡SÍ! —Natsu salta en el lugar y el fuego le sube por los brazos hasta los hombros. Happy se cae de su cabeza, da una vuelta en el aire y vuelve a aterrizar—. ¡Me estoy encendiendo! ¡Happy, ¿escuchaste?! ¡Dijo que sí!
+
+—Aye. Lo escuché todo el parque.
+
+Natsu sale corriendo detrás de Gray, gritándole que tiene un rival nuevo, y Gray le contesta sin darse vuelta que nadie quiere ser su rival.
+
+Caminas detrás del gremio por las calles de Magnolia.
+
+La ciudad ya está despierta. Abren los puestos del mercado, pasa un carro cargado de verduras, una mujer riega las macetas de un balcón. Cuando ven pasar a Fairy Tail, todo junto y en silencio, con la cara que tiene, la gente se aparta y se queda mirando. Algunos se dan cuenta y bajan la cabeza. Un viejo se saca el sombrero.
+
+A ti también te miran. Al gato, sobre todo.
+
+La estación es de ladrillo rojo y hierro, con un reloj grande sobre la entrada y un tren negro que echa vapor en el andén. La mitad del gremio se sube a los vagones de atrás, haciendo ruido otra vez, más tranquilos ahora que están en movimiento. Makarov sube al primero sin mirar a nadie. Natsu se sube al tercero, se derrumba sobre un asiento antes de que el tren arranque y se pone de color verde oliva. Gray se sienta enfrente y lo mira con desprecio.
+
+Te toca un compartimento a medio llenar. Dos asientos de madera enfrentados, una ventana, un portaequipaje de bronce.
+
+El tren silba y arranca.
+
+La puerta del compartimento se abre.
+
+Erza entra, con la armadura que suena a cada paso, y se sienta enfrente de ti sin pedir permiso. Apoya las manos sobre las rodillas. Tiene la espalda derecha como una lanza.
+
+Kase la mira desde tu hombro. Ella mira a Kase.
+
+Después te mira a ti, a los ojos, sin pestañear.
+
+—Erza Scarlet —dice—. Antes de llegar a Oak Town, quiero saber con quién voy a pelear al lado. —Hace una pausa—. ¿Qué magia usas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1004 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 07:28 · Tren Magnolia–Oak Town               ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:28, tren a Oak Town. Erza, sentada enfrente de Facundo, le pregunta qué magia usa. Facundo puede responder.
