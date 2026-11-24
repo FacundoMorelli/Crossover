@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T815)
-le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
-
-## RESPUESTA 1 (T815)
-
-> le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
-
-Le apoyas los labios en la frente, despacio.
-
-> —Tranquila, estoy bien, amor.
-
-Robin cierra los ojos. Respira hondo una vez, contra tu pecho, como si recién en ese momento le volviera el aire.
-
-—Después me lo vas a contar. —Lo dice bajito, sin abrir los ojos—. Todo.
-
-No te suelta la mano.
-
-Abres el inventario y te cambias detrás de un pedazo de pared caída. El sobretodo empapado y la camisa tiesa desaparecen, y te pones ropa negra limpia, igual a la de siempre. Kase te espera sentado en la piedra, vigilando que no te vayas a ningún lado.
-
-El desayuno es alrededor de la fogata de Lola, entre las ruinas, al sol. Sanji tomó el mando de la olla de los Rolling y la convirtió en un guiso que hace llorar a los piratas de Lola de felicidad. Hay pan, carne asada, fruta de las bodegas de Moria y café. Luffy come con las dos manos. Usopp le cuenta a Chopper, por tercera vez, cómo derrotó a la princesa de los fantasmas. Franky y Zoro toman sake del barril de Moria. Nami ya hace cuentas del tesoro que hay en los sótanos de la mansión.
-
-Robin se sienta pegada a ti, con el hombro contra el tuyo, y come poco.
-
-Brook, al sol, toca el violín. Toca bajito, una melodía alegre, y cada tanto se detiene para mirarse la sombra en el pasto, como para asegurarse de que sigue ahí.
-
-—¡Yohohoho! ¡Hace tantos años que no veía el sol! ¡Me quema los ojos! ¡Aunque no tengo ojos!
-
-Luffy, con un hueso de carne en la boca, lo señala.
-
-—¡Oye, Brook! ¡Me acordé de algo! —Mastica—. En el Cabo Gemelo, antes de entrar al Grand Line, conocimos a una ballena gigante. ¡Enorme! ¡Como una montaña! Se llama Laboon. ¡Se estaba golpeando la cabeza contra la Red Line porque espera a unos piratas amigos suyos hace cincuenta años!
-
-El violín deja de sonar.
-
-Brook se queda quieto, con el arco apoyado en las cuerdas. Al violín se le cae la cuerda floja, que hace un ruido roto.
-
-Después, despacio, el violín se le resbala de los dedos y cae al pasto.
-
-—...¿Laboon?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 815 · ONE PIECE · DÍA 44 · 08:05       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la piedra, vigilándote              ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
-║ One Piece antes del Día 49.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T816)
+## COMANDO 1 (T816)
 miro a brook y espero
 
-## RESPUESTA 2 (T816)
+## RESPUESTA 1 (T816)
 
 > miro a brook y espero
 
@@ -133,10 +77,10 @@ Luffy mira el papel un largo rato, serio, sin sonreír. Después lo dobla con cu
 
 ---
 
-## COMANDO 3 (T817)
+## COMANDO 2 (T817)
 bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
 
-## RESPUESTA 3 (T817)
+## RESPUESTA 2 (T817)
 
 > bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
 
@@ -195,4 +139,50 @@ Kase salta de la piedra y los sigue.
 
 ---
 
-ESTADO AL CIERRE: Día 44 09:14. Facundo avisó que se va hoy. La tripulación lo tomó con calma. Robin lo lleva de la mano hacia el Sunny: "Me debes una historia" (lo de Kuma y la sangre). Kase los sigue.
+## COMANDO 3 (T818)
+voy con robin
+
+## RESPUESTA 3 (T818)
+
+> voy con robin
+
+Caminas con ella entre las ruinas, de la mano, hasta el muelle. Robin no dice una palabra en todo el camino. Sube la planchada del Sunny delante de ti, cruza la cubierta de césped y sube la escalera hasta el puesto del vigía, hasta la puerta de su biblioteca.
+
+La abre y te hace pasar.
+
+Es un cuarto redondo, con ventanas de ojo de buey por todos lados, y la luz de la mañana entra en círculos sobre el piso de madera. Los estantes llegan hasta el techo y todavía están casi vacíos: una docena de libros de Water 7, mapas enrollados, el cuaderno con la tabla de letras. En el escritorio, en un lugar especial, con un atril tallado por Franky, está el libro de Paradis abierto.
+
+Kase entra detrás de ustedes, salta al escritorio y se echa al lado del libro, con la cola colgando.
+
+Robin cierra la puerta. Apoya la espalda contra ella y se queda mirándote, con los brazos cruzados.
+
+Durante un momento no dice nada. Le tiembla apenas el mentón y lo controla.
+
+—No me mientas a mí. —Lo dice tranquila, pero firme—. A los demás, si quieres. A Luffy, que no pregunta. A Zoro, que entiende sin preguntar. Pero a mí no.
+
+Da un paso hacia ti.
+
+—Me dormiste para que no viera. Te vi la cara antes de que me tocaras. —Se toca la nuca—. Y cuando me desperté, todos estábamos sanos. Todos. Luffy, que anoche no se podía ni parar. Zoro, que tenía la espalda abierta. Y tú, cubierto de sangre de la cabeza a los pies, sentado en un charco.
+
+Se le quiebra la voz en la última palabra. Respira y la recupera.
+
+—Así que te lo pregunto una sola vez. —Te mira a los ojos, con los brazos todavía cruzados—. ¿Qué le diste a Kuma?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 818 · ONE PIECE · DÍA 44 · 09:20       ║
+║ Thousand Sunny · biblioteca de Robin         ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el escritorio, junto al libro       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Irte hoy de One Piece. Volver      ║
+║ después donde estén.                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 09:20, biblioteca de Robin en el Sunny, puerta cerrada. Robin, con los brazos cruzados contra la puerta, le pregunta una sola vez: "¿Qué le diste a Kuma?". Kase en el escritorio junto al libro de Paradis.
