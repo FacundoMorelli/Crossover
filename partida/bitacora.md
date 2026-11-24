@@ -721,3 +721,4 @@ T719 · One Piece · Galley-La · Le cuenta a Iceburg lo del Gobierno y el Buste
 T720 · One Piece · Galley-La · Le dice a Iceburg que eran Lucci, Kaku y Kalifa. Iceburg deduce a Blueno. Los planos los tiene otro.
 T721 · One Piece · Galley-La · Iceburg no culpará a los Mugiwara. Le pide cuidar a Franky.
 T722 · One Piece · Galley-La · Promete cuidar a Franky. Iceburg: "cuídate de Lucci".
+T723 · One Piece · Water 7 · Simula hasta la mañana. Iceburg "no vio caras". Aqua Laguna esta noche. Franky viene a buscar a Facundo.

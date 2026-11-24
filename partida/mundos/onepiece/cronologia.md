@@ -100,3 +100,4 @@
 - 23:15 · (T716, corregido) Primera noche: cinco enmascarados (CP9, con Robin) balean a Iceburg y revuelven su cuarto buscando los planos; no los encuentran; huyen. Iceburg ve la cara de Robin (canon). La revelación del CP9 y el incendio son la segunda noche.
 - 23:16 · (T717) Iceburg se cura de golpe de los balazos (semilla de Facundo, sin testigos). CAMBIO: no queda convaleciente.
 - 23:58 · (T721) Iceburg decide no acusar a Robin ni a los Sombrero de Paja (canon: declaraba haber visto a Robin; la ciudad los cazaba).
+- Día 35 · (T723) Diarios: atentado contra Iceburg, "no vio caras" (canon: acusaba a Robin). Aviso de Aqua Laguna para la noche (canon). 08:40: Franky llega al Merry buscando a Facundo.

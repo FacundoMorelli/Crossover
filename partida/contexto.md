@@ -1,13 +1,14 @@
-TURNO: 722 | MUNDO: One Piece | Día 34 (Grand Line) | HORA: 23:59 | Lugar: Water 7, oficinas de la Galley-La, cuarto de Iceburg (escondido en el techo)
+TURNO: 723 | MUNDO: One Piece | Día 35 (Grand Line) | HORA: 08:40 | Lugar: Water 7, muelle de las afueras, Going Merry
 MOMENTO DEL CANON: Arco de Water 7 (cap. ~322-325): llegada. Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 26 · EXP 209.640/215.000 · 133.672 Fragmentos · 1.000.000 berries (de Facundo) · la tripulación tiene 300M · 140 puntos sin asignar · Energía 100% · Ojos: bien
 PARA ESTE MUNDO: Sombrero de Paja; cartel 26M "Ojos de Eclipse". Smoker lo conoce. Baroque Works sabe que viaja con Luffy.
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. Vivi y Chopper solo por lo que contó la tripulación.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T723: vuelve al Merry y simula. Noche: el espíritu del Merry sigue martillando en la bodega. Mañana: los diarios: "Atentado contra el alcalde Iceburg: cinco enmascarados. El alcalde, ileso de milagro, no pudo ver sus caras." Ni una palabra de Robin ni de piratas. Por las calles, avisos de la Aqua Laguna: esta noche, marea gigante; evacuación de la parte baja. 08:40: en el muelle, una figura enorme: un hombre con camisa hawaiana abierta, calzoncillos, pelo azul en forma de tupé y brazos gigantes de metal, con la familia Franky detrás (Mozu y Kiwi con chichones): "¡¡¡¿QUIÉN ES EL DEL PELO DE DOS COLORES QUE LES HIZO ESTO A MIS HERMANITAS?!!! ¡¡¡SAL, QUE FRANKY TE VA A DAR UNA LECCIÓN SUUUPER!!!"
 - T722: "Está bien. Franky seguro venga con nosotros. Le pegué a algunos de los suyos... bueno, se pegaron solos, pero van a decir que fue mi culpa." Iceburg se ríe de verdad, por primera vez: "Nmaa. Entonces mañana ese idiota te va a buscar él solo, gritando. Es lo que hace siempre." Se recuesta, cansado: "Vete antes de que entren los guardias. Y cuídate de Lucci. Es el más peligroso de los cuatro."
 - T696: la abraza y miran las estrellas un buen rato. "Bueno, después de esto hay que ir a la siguiente isla." Robin, con la cabeza en su hombro: "Si el Log Pose sigue la ruta, la próxima es Water 7. La ciudad del agua. Tiene los mejores carpinteros de barcos del mundo." Mira hacia la playa, al Going Merry, con las alas de madera rotas y el casco remendado. "Y a ese barco le hace falta." Desde la playa, Nami grita: "¡Los tortolitos! ¡Zarpamos al amanecer!"
-PRESENTES EN ESCENA: Iceburg (solo, en el sillón), Facundo. Guardias en el pasillo. Kase en el hombro.
+PRESENTES EN ESCENA: toda la tripulación (sin Robin) en el Merry. En el muelle: Franky, Mozu, Kiwi y la familia Franky. Kase en el hombro.
 VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy. RELACIÓN: Nico Robin (desde T695, empezando).
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
