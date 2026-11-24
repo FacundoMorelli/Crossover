@@ -10,3 +10,4 @@ ENCUENTROS:
 - T723 · Llega al Merry: "¿Quién es el del pelo de dos colores?"
 QUÉ SABE DE FACUNDO: por su gente (aura plateada, esquivó a quince).
 ESTADO: activo
+- T724 · Strong Right y Fresh Fire contra Facundo: nada. Llora: "¡¡¡QUÉ HOMBRE MÁS SUPER!!!"

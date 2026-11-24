@@ -722,3 +722,4 @@ T720 · One Piece · Galley-La · Le dice a Iceburg que eran Lucci, Kaku y Kalif
 T721 · One Piece · Galley-La · Iceburg no culpará a los Mugiwara. Le pide cuidar a Franky.
 T722 · One Piece · Galley-La · Promete cuidar a Franky. Iceburg: "cuídate de Lucci".
 T723 · One Piece · Water 7 · Simula hasta la mañana. Iceburg "no vio caras". Aqua Laguna esta noche. Franky viene a buscar a Facundo.
+T724 · One Piece · muelle · Deja que Franky le pegue. Nada. Franky llora de admiración. Mozu confiesa que se pegaron solas.
