@@ -30,3 +30,4 @@
 - Día 1 18:00-19:00 · (T1041) Duelo Hisoka vs. Chrollo (canon): Chrollo gana; Hisoka muere. Facundo lo observa sin intervenir.
 - Día 1 19:05-19:20 · (T1041) Shalnark, Kortopi y Machi verifican el cuerpo (canon); Shalnark y Kortopi se van por separado; Machi se queda cosiendo.
 - Día 1 19:31 · (T1041) Hisoka revive con Bungee Gum post-mortem y ata a Machi (canon). Próximo canon: mata a Kortopi en unos baños públicos y después a Shalnark.
+- Día 1 19:38 · (T1042) CAMBIO: Hisoka llega a los baños públicos a matar a Kortopi y encuentra a Facundo delante.

@@ -8,7 +8,9 @@ PERSONALIDAD Y FORMA DE HABLAR: Callado.
 RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1039 · Día 1 16:13 · Facundo lo/la ve en las pantallas o siente su presencia desde la avenida.
+- T1042 · Facundo aparece y se para delante de él en la puerta de los baños.
 DIÁLOGOS CLAVE:
+- T1042 · "...¿Quién eres?"
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: (T1041) verificó el cuerpo de Hisoka; 19:31 camina solo a 4 cuadras de la Torre hacia unos baños públicos.
+ESTADO: en la puerta de los baños públicos, detrás de Facundo (T1042).

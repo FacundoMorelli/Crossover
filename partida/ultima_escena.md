@@ -3,100 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1039)
-me despido y abro la puerta a un mundo nuevo
-
-## RESPUESTA 1 (T1039)
-
-> me despido y abro la puerta a un mundo nuevo
-
-Te despides de ellos uno por uno, en la plaza, delante del árbol, mientras la gente de la feria pasa a su lado sin mirar.
-
-Ichigo te da la mano. La aprieta más fuerte de lo necesario y no dice nada más. Rukia te dice "idiota" otra vez, más bajito, y te acomoda la bufanda de Kase. Orihime te abraza, rápido, y se aparta roja. Chad asiente. Uryū se acomoda los lentes y dice que te cuides "más o menos".
-
-Te alejas unos pasos, hasta el borde de la plaza, donde las luces de la feria no llegan.
-
-Abres la Puerta. El rectángulo de luz blanca, con el borde rojo y azul temblando, se recorta contra la nieve que cae. Los cinco la ven. Los civiles no. Karin, desde el puesto de algodón de azúcar, la ve también, y se queda quieta con el palito en la mano.
-
-Kase se acomoda en tu hombro.
-
-Cruzas.
-
-[Mundo nuevo.]
-
-Lo primero es el ruido.
-
-Un rugido de miles de voces, todas juntas, que sube y baja como el mar. Bocinas, motores, un altavoz que anuncia algo en un idioma que entiendes al instante, música electrónica que sale de algún lado, vendedores ambulantes que gritan precios. El aire es tibio, seco, de ciudad grande, con olor a fritura, a combustible y a asfalto caliente por el sol de la tarde.
-
-Estás en una avenida ancha, en medio de una multitud. Hay gente por todos lados: en las veredas, en la calle cortada al tránsito, subida a los techos de los autos estacionados, colgada de los faroles. Muchos tienen camisetas estampadas, banderines, carteles pintados a mano.
-
-Y al final de la avenida, enorme, ocupando medio cielo, hay una torre.
-
-Es tan alta que la punta se pierde entre las nubes. Lisa, gris, con franjas de ventanas que suben y suben hasta que se vuelven una línea. En el costado tiene pantallas gigantes, de cien metros cada una, y en todas aparece lo mismo: dos fotos enfrentadas, con letras enormes en el medio.
-
-A la izquierda, un hombre pelirrojo de cara blanca y sonrisa afilada, con una estrella pintada en una mejilla y una lágrima en la otra.
-
-A la derecha, un hombre joven de pelo negro peinado hacia atrás, con una cruz tatuada en la frente y unos ojos oscuros, tranquilos, que no miran a la cámara.
-
-HISOKA vs. CHROLLO — DUELO DE MAESTRO DE PISO — HOY 18:00
-
-Un reloj en la pantalla cuenta hacia atrás: 1:47:12.
-
-Kase está erizado. Entero. Tiene la cola gruesa como un plumero y las orejas aplastadas, y no mira la torre: mira hacia arriba, hacia algún piso alto, donde hay algo que no le gusta.
-
-Tú también lo sientes. Ahí arriba hay dos presencias que no se parecen a nada de lo que hay en esta avenida. Una es filosa, juguetona, hambrienta, como un animal que sonríe. La otra es fría y quieta, profunda como un pozo. Y entre la multitud, mucho más cerca, desparramadas en distintos puntos alrededor de la torre, hay otras tres, menos intensas pero del mismo tipo: atentas, silenciosas, vigilando.
-
-[Destino fijado.]
-
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Hunter x Hunter                       ║
-║ LIBRO DE DEUDAS                              ║
-║ Hatsu · Especialista                         ║
-║ Todo golpe, técnica o herida que alguien te  ║
-║ haga queda anotado con su nombre en un libro ║
-║ negro de aura. Puedes cobrar cada deuda      ║
-║ cuando quieras, a cualquier distancia: el    ║
-║ daño vuelve al deudor multiplicado por dos.  ║
-║ Maestría 30                                  ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Hunter x Hunter                       ║
-║                                              ║
-║ MISIÓN: Que Shalnark y Kortopi sigan vivos   ║
-║ cuando zarpe el Black Whale.                 ║
-║ RECOMPENSA: 10.000 EXP · 300 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-
-A tu lado, un chico con una camiseta de Hisoka levanta su cartel y grita algo. Una señora te pisa el borceguí, te mira, mira a Kase, se disculpa y desaparece entre la gente.
-
-En la pantalla gigante, el reloj sigue bajando: 1:46:58.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1039 · HUNTER X HUNTER · DÍA 1 · 16:13 ║
-║ Avenida frente a la Torre Celestial          ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1040)
+## COMANDO 1 (T1040)
 entro a la torre a ver la pelea
 
-## RESPUESTA 2 (T1040)
+## RESPUESTA 1 (T1040)
 
 > entro a la torre a ver la pelea
 
@@ -175,10 +85,10 @@ Chrollo abre el libro.
 
 ---
 
-## COMANDO 3 (T1041)
+## COMANDO 2 (T1041)
 obvservo la pelea
 
-## RESPUESTA 3 (T1041)
+## RESPUESTA 2 (T1041)
 
 > obvservo la pelea
 
@@ -292,4 +202,63 @@ En la calle, a cuatro cuadras de la Torre, el pequeño de pelo largo camina solo
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:31. Chrollo mató a Hisoka en el duelo; Hisoka acaba de revivir en una sala del piso de abajo y ató a Machi. Kortopi camina solo hacia unos baños públicos a 4 cuadras; Shalnark a ~1 km. Facundo en las gradas vacías. Facundo puede actuar.
+## COMANDO 3 (T1042)
+me teletransporto a los baños y protejo a Kortopi
+
+## RESPUESTA 3 (T1042)
+
+> me teletransporto a los baños y protejo a Kortopi
+
+Desapareces de la columna.
+
+Apareces en una calle angosta, detrás de la Torre, entre edificios bajos de departamentos y un estacionamiento. La noche ya cayó. Los faroles tiran una luz amarilla y sucia. A diez metros hay un edificio chico de azulejos blancos, con un cartel de neón medio roto: BAÑOS PÚBLICOS, y una flecha que parpadea.
+
+El pequeño de pelo largo está entrando.
+
+Se detiene en la puerta. Se da vuelta.
+
+No te sintió llegar. Te vio. Un joven alto, de negro, con un gato erizado y envuelto en una bufanda gris, parado en el medio de la calle donde hace un segundo no había nadie. El único ojo que se le ve entre el pelo se queda fijo en ti.
+
+No dice nada. Las manos, que le cuelgan a los costados, se mueven apenas. En la derecha, entre los dedos cortos, el aura se le junta.
+
+Caminas hasta la puerta de los baños y te paras entre él y la calle, de espaldas a él.
+
+Kortopi no ataca. Se queda quieto detrás de ti, mirándote la espalda, sin entender.
+
+—...¿Quién eres? —pregunta. La voz es baja, ronca, de alguien que habla poco.
+
+No llegas a contestar.
+
+Por la esquina de la calle, desde el lado de la Torre, viene alguien caminando.
+
+Camina tranquilo, con un paso raro, un poco desparejo. Silbando. La luz del farol le da en la cara: pelo rojo despeinado, sin el peinado de antes, la cara sin pintura, la ropa rota y manchada de sangre seca. La mano izquierda está ahí, en su lugar, pero tiene un color demasiado uniforme, como de goma. La pierna derecha también: perfecta, lisa, sin una arruga en el pantalón. Hecha de aura.
+
+Hisoka se detiene a veinte metros. Ve a Kortopi detrás de ti, en la puerta. Te ve a ti.
+
+Deja de silbar.
+
+—Mmm... —Ladea la cabeza. Los ojos amarillos te recorren de arriba abajo, despacio, sin perderse nada: el pelo, los ojos de distinto color, la cicatriz, el gato—. ¿Y tú quién eres? No eres una araña. —Se lame los labios—. No siento nada de ti. Nada de nada. Como si no estuvieras ahí. ♥
+
+Saca una carta de la manga. La hace girar entre los dedos de la mano de goma.
+
+—Qué interesante... ♠
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1042 · HUNTER X HUNTER · DÍA 1 · 19:38 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 237.350/240.000               ║
+║ FRAGMENTOS 107.990 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:38, puerta de los baños públicos detrás de la Torre. Facundo entre Kortopi y Hisoka. Hisoka (miembros de aura) no siente nada de Facundo y lo encuentra interesante. Facundo puede actuar.
