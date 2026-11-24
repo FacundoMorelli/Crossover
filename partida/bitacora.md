@@ -879,3 +879,4 @@ T877 · One Piece · Sabaody · Cena en el bar de Shakky, noche. Día 57: el dia
 T878 · One Piece · Sabaody · Uniforme de marine (tienda, 1 F). Nueva habilidad: Pelo a voluntad. Pelo negro.
 T879 · One Piece · Sabaody · Lentes marrones. Kase escondido en la camisa: barriga de marine.
 T880 · One Piece · Sabaody · Rayleigh: no están preparados; entrenará a Luffy si sobrevive. "¿Y tú?"
+T881 · One Piece · Marineford · Teletransportación disfrazado de marine. Ace en el cadalso. Un sargento lo encara.

@@ -17,3 +17,4 @@ ESTADO: activo
 - T875 · "Te dije que viajo mucho." "Muy lejos, por lo que veo." No pregunta más. Invita a cenar y a dormir antes de Marineford.
 - T876 · Facundo le dice que va a salvar a Ace, al lado de su capitán. "Esa es la respuesta correcta." Le advierte de Akainu. "Cuando termine, si tu capitán sigue vivo, tráelo aquí."
 - T880 · Coincide en que la tripulación no está preparada para el Nuevo Mundo. Ofrece entrenar a Luffy "un año, dos" si sobrevive. Pregunta si Facundo estará con ellos en el Nuevo Mundo.
+- T881 · Despide a Facundo: "Que vuelvas con tu capitán, muchacho."

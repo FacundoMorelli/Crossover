@@ -3,83 +3,10 @@
 
 ---
 
-## COMANDO 1 (T878)
-voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme(dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
-
-## RESPUESTA 1 (T878)
-
-> voy a ir de otra manera, compro en la tienda un traje de marine comun, ya vengo, voy a mi habitacion a cambiarme (dame una habilidad para poder cambiar mi pelo a voluntad) me pongo el pelo negro y salgo asi
-
-> —Voy a ir de otra manera.
-
-Rayleigh levanta una ceja por encima de la taza.
-
-Abres la tienda del Sistema con un pensamiento. Entre las cosas comunes, a precio fijo, está lo que buscas.
-
-[Uniforme de marine raso — 1 Fragmento.]
-
-> —Ya vengo.
-
-Subes la escalera de madera hasta el cuarto chico de arriba. Kase te sigue escalón por escalón.
-
-El uniforme aparece doblado sobre la cama: camisa blanca de cuello azul con el pañuelo, pantalón azul, botas negras y la gorra blanca con la gaviota bordada. Te lo pones.
-
-Delante del espejo chico de la pared, una ventana del Sistema se abre, fría:
-
-```
-╔══════════════════════════════════════════════╗
-║ HABILIDAD DEL SISTEMA                        ║
-║ Pelo a voluntad                              ║
-║                                              ║
-║ Cambias el color y el largo de tu pelo       ║
-║ cuando quieras, al instante, en cualquier    ║
-║ mundo. Vuelves a tu pelo cuando quieras.     ║
-║ No cambia los ojos, la cicatriz ni los       ║
-║ tatuajes.                                    ║
-╚══════════════════════════════════════════════╝
-```
-
-Lo piensas, y pasa.
-
-El blanco y el azul se apagan desde la raíz hacia las puntas, como una vela que se consume al revés. El pelo se te vuelve negro, liso, y se acorta hasta quedar como el de cualquier recluta, por encima de las orejas. Te pones la gorra.
-
-El del espejo es un marine raso cualquiera. Menos por los ojos, uno rojo y otro azul, y por la cicatriz que te cruza el izquierdo.
-
-Kase te mira desde la cama con las pupilas finas y una expresión de profundo desagrado. Gruñe bajito.
-
-Bajas.
-
-Shakky deja de secar un vaso. Te mira de arriba abajo, despacio: la gorra, la camisa, las botas, el pelo negro corto. Suelta el humo por la nariz.
-
-—Casi. —Señala con el cigarrillo—. Pero los ojos de dos colores se ven igual. Y la cicatriz también. —Mira hacia abajo, a tus pies, donde Kase se sentó y te mira con desprecio—. Y el gato te delata, querido. Está en tu cartel.
-
-Rayleigh se ríe con la taza en la boca y se le va el café por la nariz.
-
-Hachi se despierta de golpe sobre la mesa, ve el uniforme blanco y salta hacia atrás con los seis brazos en alto, derribando la plancha de takoyaki.
-
-—¡Nyu! ¡Un marine! ¡Nos encontraron!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 878 · ONE PIECE · DÍA 57 · 09:10       ║
-║ Sabaody · bar de Shakky                      ║
-║ NIVEL 27 · EXP 219.840/240.000               ║
-║ FRAGMENTOS 134.507 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: a tus pies, ofendido                   ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: HOY: salvar a Ace (15:00), al      ║
-║ lado de Luffy. Shingeki: antes del D59.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T879)
+## COMANDO 1 (T879)
 compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
 
-## RESPUESTA 2 (T879)
+## RESPUESTA 1 (T879)
 
 > compro 2 lentes de contacto marrones, kase puedes entrar a mi uniforme donde no te vean?
 
@@ -138,10 +65,10 @@ La gorra blanca te tapa a medias la cicatriz del ojo izquierdo. La barriga ronro
 
 ---
 
-## COMANDO 3 (T880)
+## COMANDO 2 (T880)
 cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
 
-## RESPUESTA 3 (T880)
+## RESPUESTA 2 (T880)
 
 > cualquiera tiene una cicatriz en el ojo, rayleigh igual que piensas, lo que paso aqui en sabaody con mis compañeros le tiene que hacer ver a luffy que todavia no estan preparados para el nuevo mundo
 
@@ -190,4 +117,68 @@ Toma un sorbo de café.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 09:18, bar de Shakky. Rayleigh coincide: la tripulación no está preparada para el Nuevo Mundo (Yonko, almirantes); a Luffy le falta despertar el Haki. Si Luffy sobrevive hoy, que se lo traigan: lo entrena "un año, dos". Pregunta: "¿Y tú? ¿Vas a estar con ellos cuando entren al Nuevo Mundo?" Ejecución de Ace a las 15:00.
+## COMANDO 3 (T881)
+si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
+
+## RESPUESTA 3 (T881)
+
+> si, yo voy a estar el tiempo que esten entrenando viajando y cuando vuelvan voy a estar con ellos, bueno ahora me tengo que ir, me teletransporto a marineford donde nadie me vea y me meto como un marine mas
+
+> —Sí. Yo voy a estar, el tiempo que estén entrenando, viajando. Y cuando vuelvan, voy a estar con ellos. Bueno, ahora me tengo que ir.
+
+Rayleigh levanta la taza de café hacia ti, como un brindis.
+
+—Que vuelvas con tu capitán, muchacho.
+
+Shakky te saluda con el cigarrillo, sin decir nada. Hachi te abraza con los seis brazos antes de que te muevas, llorando otra vez, y te aplasta la barriga. Desde adentro de la camisa, Kase suelta un gruñido de protesta que hace saltar a Hachi para atrás.
+
+Te llevas dos dedos a la frente.
+
+Buscas una presencia que conoces: enorme, ruidosa, cálida como un horno. Garp. Está lejos, al este, rodeado de miles y miles de presencias tensas, como un hormiguero a punto de estallar. Eliges un punto vacío a un costado, detrás de algo, donde no haya nadie.
+
+Desapareces del bar.
+
+Aparece un callejón angosto entre dos paredes de piedra blanca, que huele a pólvora, a alquitrán y a mar. Del otro lado de una de las paredes se oyen botas marchando, órdenes a los gritos y el ruido metálico de miles de fusiles que se mueven a la vez. Nadie te vio.
+
+Sales del callejón y te metes en el borde de una fila de marines que pasa trotando. Nadie te mira dos veces. Un marine gordo más.
+
+Marineford se abre delante de ti.
+
+Es una isla con forma de media luna, con una bahía enorme en el medio y el mar entrando como en una boca. Del lado de tierra hay una fortaleza gigante, blanca, con el símbolo de la Marina pintado arriba, del tamaño de una montaña. Delante, una plaza inmensa de piedra, y en la plaza, miles de marines. Decenas de miles, en filas perfectas, con fusiles, espadas y bayonetas. Detrás, en la costa, un muro entero de cañones apuntando al mar. En la bahía, decenas de buques de guerra.
+
+Y en el centro de todo, arriba de un cadalso alto de piedra, hay un muchacho de rodillas.
+
+Ace. Sin camisa, con el pecho tatuado, las muñecas encadenadas con piedra marina y la cabeza baja. El pelo negro le tapa los ojos.
+
+Detrás de él, de pie en lo alto del cadalso, hay un hombre alto de uniforme, con una gaviota sobre la gorra y barba trenzada: el almirante de flota Sengoku. A un costado, sentado y comiendo galletas de arroz con la mirada clavada en el suelo, Garp.
+
+Más abajo, en tres sillas en fila, los tres almirantes. Un hombre de traje amarillo a rayas que bosteza: Kizaru. Aokiji, con el antifaz levantado sobre la frente. Y en el medio, inmóvil, un hombre enorme de traje rojo con una gorra de marine y una rosa en el pecho, que no mira a nadie. Akainu.
+
+A los costados de la plaza, sobre unas gradas, están los Guerreros del Mar: un espadachín de ojos amarillos con una espada negra gigante a la espalda, un hombre rubio con un abrigo de plumas rosadas que se ríe solo, una mujer bellísima de pelo negro largo con una serpiente blanca, Kuma con su Biblia y Moria, vendado, encorvado.
+
+Kase se mueve adentro de la camisa, inquieto.
+
+—¡Tú! ¡El gordo!
+
+Un sargento de bigote y cara roja se te planta adelante, con el sable en la mano.
+
+—¿De qué unidad eres? ¡Esa no es tu fila! ¡Te veo cara nueva!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 881 · ONE PIECE · DÍA 57 · 09:25       ║
+║ Marineford · plaza, filas del fondo          ║
+║ NIVEL 27 · EXP 219.840/240.000               ║
+║ FRAGMENTOS 134.506 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien (lentes marrones)  ║
+║ Velo: persona común                          ║
+║ Kase: dentro de la camisa, inquieto          ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Salvar a Ace (15:00), al lado de   ║
+║ Luffy. Shingeki: antes del D59 16:30.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 09:25, MARINEFORD. Facundo llegó por teletransportación a un callejón sin testigos y se mezcló en una fila del fondo, disfrazado de marine raso (pelo negro, lentes marrones, Kase dentro de la camisa). Ace en el cadalso encadenado; Sengoku arriba; Garp sentado; Akainu, Kizaru, Aokiji en sillas; Shichibukai (Mihawk, Doflamingo, Hancock, Kuma, Moria) en gradas. Un sargento lo encara: "¡Tú, el gordo! ¿De qué unidad eres? ¡Esa no es tu fila!"
