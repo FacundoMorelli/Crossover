@@ -846,3 +846,4 @@ T844 · Shingeki · Liberio · Muller reconoce al "señor Morelli" y pregunta d�
 T845 · Shingeki · Liberio · Coartada: se aloja con los Tybur. Muller se va. Willy: tendrá que dormir ahí de verdad.
 T846 · Shingeki · Liberio · Haki sobre la plaza: el hueco del escenario, el sótano, seis cañones; dos apuntan a la primera fila.
 T847 · Shingeki · Liberio · Willy: los cañones de los cadetes son para culpar a Paradis.
+T848 · Shingeki · Liberio · Barrera sobre toda la plaza. Willy: que disparen primero, ante el mundo.

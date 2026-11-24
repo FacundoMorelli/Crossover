@@ -24,3 +24,4 @@ ESTADO: activo
 - T839 · Aliviado por la barrera. Lo invita a ver la plaza mañana a la noche como su asesor civil. Llega Lara.
 - T841 · Cita: día 36, 20:00, puerta de servicio; Facundo como asesor civil para ver la plaza.
 - T847 · Sabe por Facundo que dos cañones apuntan a los cadetes. Deduce una bandera falsa: culpar a Paradis. "Para ellos, son munición." Pregunta si la barrera cubre también la primera fila y los palcos.
+- T848 · Facundo puede cubrir toda la plaza. Willy propone dejar que disparen delante de los embajadores: "La mejor prueba de paz que podemos dar es que ellos disparen primero." Pregunta si está de acuerdo.

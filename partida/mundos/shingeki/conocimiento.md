@@ -147,3 +147,4 @@
 - Muller · T844 · Por Willy: Magath le recomendó a Morelli para la logística de los embajadores (versión de Willy).
 - Muller · T845 · Por Facundo y Willy: Morelli se aloja en el ala de huéspedes de la mansión Tybur, como asesor de Willy.
 - Willy · T847 · Por Facundo: seis cañones en los techos de la plaza; dos apuntan a la primera fila (cadetes). Deduce un plan de bandera falsa de los generales.
+- Willy · T848 · Por Facundo: la barrera puede cubrir toda la plaza.

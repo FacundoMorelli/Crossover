@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T845)
-en la casa de los tybur, como asesor de willy
-
-## RESPUESTA 1 (T845)
-
-> en la casa de los tybur, como asesor de willy
-
-> —En la casa de los Tybur, como asesor de Willy.
-
-Muller se queda mirándote un segundo. Después mira a Willy.
-
-Willy no pestañea.
-
-—En el ala de huéspedes —dice, como si fuera lo más natural del mundo—. Con veinte delegaciones llegando, no podía dejarlo en una pensión del puerto. Mi hermana insistió. Le gustan los gatos.
-
-Muller vuelve a sacar la libreta. Escribe algo corto. Esta vez, cuando la guarda, la sonrisa le llega un poco más arriba en la cara, sin llegar a los ojos.
-
-—Entonces lo voy a ver seguido, señor Morelli. —Se acomoda los guantes—. Mis hombres también vigilan el barrio alto. Con tantos embajadores en la ciudad, toda precaución es poca.
-
-Hace una inclinación corta, militar.
-
-—Señor Tybur. Que tengan buena noche.
-
-Se da vuelta y camina hacia un grupo de soldados junto a la entrada de la plaza, con las manos detrás de la espalda. Uno de los soldados se cuadra y Muller le dice algo al oído. El soldado mira hacia ustedes un segundo.
-
-Willy suelta el aire despacio, sin dejar de sonreír para los organizadores que esperan a unos metros.
-
-—Bueno. —Habla casi sin mover los labios—. Ahora va a tener que dormir en mi casa de verdad. Aunque sea algunas noches. Ese hombre manda gente a mirar las ventanas.
-
-Se acomoda el sombrero y levanta la voz, alegre, hacia los organizadores.
-
-—¡Señores! Disculpen la demora. Muéstrenme ese escenario.
-
-Los organizadores se acercan con los planos desenrollados. Detrás de ellos, el escenario de madera espera a medio terminar bajo los faroles, con el telón rojo moviéndose con el viento del mar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 845 · SHINGEKI · DÍA 36 · 20:19        ║
-║ Liberio · plaza de la fiesta                 ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
-║ Ver la plaza. Coartada: casa de los Tybur.   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T846)
+## COMANDO 1 (T846)
 miro el escenario y los techos con el haki
 
-## RESPUESTA 2 (T846)
+## RESPUESTA 1 (T846)
 
 > miro el escenario y los techos con el haki
 
@@ -107,10 +55,10 @@ Willy se separa de los organizadores con una excusa y se acerca, como si fuera a
 
 ---
 
-## COMANDO 3 (T847)
+## COMANDO 2 (T847)
 hay seis cañones, dos apuntan a los cadetes
 
-## RESPUESTA 3 (T847)
+## RESPUESTA 2 (T847)
 
 > hay seis cañones, dos apuntan a los cadetes
 
@@ -157,4 +105,54 @@ Se da vuelta hacia ti, de espaldas a la plaza, para que nadie le vea la cara.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 36 20:27, escenario de la plaza. Facundo le dijo a Willy que dos cañones apuntan a los cadetes. Willy dedujo una bandera falsa (disparar a los niños y culpar a Paradis). Furioso. Pregunta si la barrera puede cubrir también la primera fila y los palcos de los embajadores.
+## COMANDO 3 (T848)
+si, puedo cubrir toda la plaza si quiero
+
+## RESPUESTA 3 (T848)
+
+> si, puedo cubrir toda la plaza si quiero
+
+> —Sí. Puedo cubrir toda la plaza si quiero.
+
+Willy te suelta la manga despacio. Respira hondo una vez, y otra. El color le vuelve a la cara de a poco.
+
+—Toda la plaza. —Mira hacia los techos, sin levantar la cabeza, solo los ojos—. Toda.
+
+Se queda callado un momento. Ves cómo le cambia la expresión: el miedo se le va de la cara y en su lugar aparece algo más filoso. Es el hombre que lleva veinte años manejando a los generales de Marley desde atrás de una sonrisa.
+
+—Entonces no los toquemos.
+
+Te mira.
+
+—Los cañones. No los desarme antes. No les corte las sogas, no les moje la pólvora. —Habla rápido y bajo—. Si los generales se atreven a disparar, que disparen. Delante de veinte embajadores. Delante de los periodistas de cinco países. Delante de miles de eldianos.
+
+Se le enciende algo en los ojos.
+
+—Que el mundo entero vea cómo las balas de Marley se frenan en el aire encima de la cabeza de niños eldianos. Y que vea a la reina de los demonios ahí arriba, en el escenario, sin moverse, sin levantar una mano. —Se le escapa una risa corta, sin alegría—. No hay discurso que yo pueda escribir que valga más que eso.
+
+Apoya las dos manos en la baranda y mira la plaza vacía como si ya la viera llena.
+
+—La mejor prueba de paz que podemos dar es que ellos disparen primero.
+
+Después se da vuelta hacia ti. Ya no sonríe. Está serio, y por primera vez parece inseguro.
+
+—Pero usted es el que va a sostener esa barrera. —Baja la voz—. Si prefiere neutralizarlos antes, en silencio, lo entiendo. Es su decisión. ¿Qué prefiere?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 848 · SHINGEKI · DÍA 36 · 20:29        ║
+║ Liberio · escenario de la plaza              ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: caminando por el borde del escenario   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 4 días (día 40).   ║
+║ Barrera sobre toda la plaza.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 36 20:29, escenario de la plaza. Facundo puede cubrir toda la plaza con la barrera. Willy propone NO desarmar los cañones: dejar que disparen delante de los embajadores para que el mundo vea las balas frenadas sobre los niños y a la reina quieta. Pregunta si Facundo prefiere eso o neutralizarlos antes.
