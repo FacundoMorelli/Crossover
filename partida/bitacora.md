@@ -921,3 +921,4 @@ T919 · One Piece · Tequila Wolf · Camina hasta Robin. "Tardaste." Guardias co
 T920 · One Piece · Tequila Wolf · Beso largo a Robin; con la Luna rompe sus esposas y las cadenas de todos los presos. "Eres imposible."
 T921 · One Piece · Tequila Wolf · La levanta y la besa de nuevo. Luffy: "Tengo hambre." Robin: "¿Dónde están los otros?"
 T922 · One Piece · Tequila Wolf · Le cuenta lo de Ace y Marineford. Semilla de un beso: Robin curada. "Eso fue trampa." "¿Y los otros?"
+T923 · One Piece · Tequila Wolf · Robin avisada (8/8). "¿Qué quería Kuma que aprendiera aquí?" Luffy: "¡Robin puede venir con nosotros!"

@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T920)
-todavia no termino la historia, pero no queda mucho para que termine, luffy entreten a los guardias. le doy un beso largo a robin agarrandola de la cara y mientras la beso rompo las cadenas de todos con luna
-
-## RESPUESTA 1 (T920)
-
-> todavia no termino la historia, pero no queda mucho para que termine, luffy entreten a los guardias. le doy un beso largo a robin agarrandola de la cara y mientras la beso rompo las cadenas de todos con luna
-
-> —Todavía no terminó la historia. Pero no falta mucho para que termine.
-
-> —Luffy, entretén a los guardias.
-
-—¡Shishishi! ¡Déjamelo a mí!
-
-Detrás de ti, el látigo baja. No llega. Se oye un estirón de goma, un golpe seco y un guardia que sale volando por encima de la baranda del puente, gritando, hasta caer al mar.
-
-—¡¿Qué...?! ¡Es Sombrero de Paja! ¡¡Es Monkey D. Luffy!! ¡¡Disparen!!
-
-No te das vuelta.
-
-Le agarras la cara a Robin con las dos manos. Tiene la piel fría y áspera de polvo, y está temblando. Ella abre la boca para decir algo.
-
-La besas.
-
-Despacio. Largo. Robin se queda quieta un segundo, rígida, con las manos esposadas entre los dos. Después se le aflojan los hombros, como si se le cayera de encima algo mucho más pesado que el bloque de piedra, y te devuelve el beso con los ojos cerrados y las lágrimas corriéndole todavía por las mejillas, hasta tus dedos.
-
-Mientras tanto, el ojo derecho se te enfría.
-
-Primero se rompen las de ella. Las esposas de piedra marina crujen entre tu pecho y el suyo, se parten en cuatro pedazos y caen al suelo. Robin no se da cuenta. O sí, y no le importa: las manos libres le suben solas hasta tu pecho y se te agarran del sobretodo.
-
-Después, el resto.
-
-La Luna se abre por el puente como una ola sin agua. Corre hacia los dos horizontes a la vez, por encima de las cabezas de los presos, y por donde pasa, el hierro se rinde. Las cadenas de los tobillos se estiran hasta reventar. Los grilletes se abren como cáscaras. Los eslabones saltan por el aire, cientos, miles, y caen sobre la piedra con un ruido de lluvia de metal que se oye a kilómetros.
-
-Durante un segundo, nadie en Tequila Wolf entiende nada.
-
-Un viejo se mira el tobillo. Se lo toca. Da un paso, uno solo, sin arrastrar nada. Se cae de rodillas y se pone a llorar.
-
-Después alguien grita.
-
-Y el grito se contagia por el puente como un incendio. Miles de presos se miran los pies, las manos, se miran entre ellos. Tiran las herramientas. Algunos se abrazan. Otros se dan vuelta hacia los guardias, todavía con los martillos en la mano, y en la cara se les ve algo que hace años que no tenían.
-
-Los guardias retroceden. Uno suelta el fusil y sale corriendo.
-
-—¡¡Las cadenas!! ¡¡Se rompieron todas las cadenas!!
-
-—¡¡Somos libres!!
-
-Luffy, en medio de cuatro guardias tirados en el piso, se ríe con los brazos en la cintura.
-
-Robin se separa de ti, apenas, lo justo para respirar. Te mira desde muy cerca. Tiene los ojos rojos, la boca entreabierta y las manos todavía agarradas a tu sobretodo. Detrás de ella, el puente entero estalla en gritos.
-
-Mira por encima de tu hombro, a los miles de presos sin cadenas. Después te mira a ti otra vez.
-
-—Eres imposible —dice, con la voz rota, y se ríe, bajito, contra tu pecho—. Siempre eres imposible.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 920 · ONE PIECE · DÍA 57 · 17:23       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Robin libre. Los presos de Tequila ║
-║ Wolf, libres. Shingeki: antes del D59 16:30. ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T921)
+## COMANDO 1 (T921)
 la levanto de la cintura y la beso de nuevo
 
-## RESPUESTA 2 (T921)
+## RESPUESTA 1 (T921)
 
 > la levanto de la cintura y la beso de nuevo
 
@@ -127,10 +55,10 @@ Robin te vuelve a mirar. La sonrisa se le acomoda despacio, la de siempre, la tr
 
 ---
 
-## COMANDO 3 (T922)
+## COMANDO 2 (T922)
 arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
 
-## RESPUESTA 3 (T922)
+## RESPUESTA 2 (T922)
 
 > arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
 
@@ -181,4 +109,52 @@ Después apoya la frente contra la tuya.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:27, Tequila Wolf. Robin sabe lo de Ace y Marineford; curada con una semilla pasada de un beso. Insiste: dónde están Nami, Zoro, Chopper y los demás, y si están bien. Facundo puede responder.
+## COMANDO 3 (T923)
+estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
+
+## RESPUESTA 3 (T923)
+
+> estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
+
+> —Están bien. Cada uno está en una isla. Kuma los mandó a islas donde pueden mejorar: a Zoro lo mandó a la isla de Mihawk. Así que la idea es que estén dos años mejorando sus habilidades y que después volvamos a vernos todos en Sabaody.
+
+Robin cierra los ojos un segundo. Se le aflojan los hombros entre tus manos, despacio, como si soltara algo que tenía agarrado desde el archipiélago.
+
+—Están bien —repite, muy bajo—. Todos.
+
+Después abre los ojos, y ya está pensando. Lo ves en la cara: la misma expresión que pone delante de un poneglyph.
+
+—Kuma. —Frunce apenas el ceño—. No los dispersó al azar, entonces. Los mandó a cada uno a donde podía crecer. Zoro con el mejor espadachín del mundo... —Se queda callada un momento—. Ese hombre nunca hizo nada sin una razón. Ni siquiera en Thriller Bark.
+
+Te mira el pecho, donde recibiste el dolor de todos aquella noche en Thriller Bark. No dice nada de eso. Solo apoya la palma ahí, un segundo.
+
+—Dos años. —Lo prueba en la boca—. Dos años sin el barco. Sin la tripulación.
+
+Mira alrededor. El puente infinito. El mar gris. Los presos que ya empiezan a organizarse en grupos, a hablar en voz alta, a mirar hacia el horizonte buscando una salida que no hay.
+
+Se le escapa una risa corta, sin alegría.
+
+—Pero si Kuma los mandó a cada uno a donde podían crecer... —Te mira, con una ceja levantada—. ¿Qué crees que quería que yo aprendiera aquí? ¿A cargar piedras?
+
+Luffy, que está sentado en la baranda del puente con las piernas colgando hacia el mar, se da vuelta.
+
+—¡Robin puede venir con nosotros!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 923 · ONE PIECE · DÍA 57 · 17:29       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el piso, a tu lado                  ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisados 8/8. ¿Dónde entrena       ║
+║ Robin? Shingeki: antes del D59 16:30.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:29, Tequila Wolf. Robin sabe el plan (dos años, Sabaody). Deduce que Kuma eligió los destinos a propósito y pregunta qué tendría que aprender ella en Tequila Wolf. Luffy propone que venga con ellos. Facundo puede responder.

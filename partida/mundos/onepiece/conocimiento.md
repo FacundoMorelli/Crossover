@@ -254,3 +254,4 @@
 - Guardias y presos de Tequila Wolf · T919 · Ven a un desconocido sin cadenas (pelo blanco y azul, gato) aparecer y caminar hasta la presa Nico Robin; un chico con sombrero de paja con él. Alarma.
 - Guardias y presos de Tequila Wolf · T920 · Ven a Sombrero de Paja (Luffy, reconocido) noquear guardias y a un desconocido de pelo blanco y azul con un gato besar a la presa Nico Robin mientras todas las cadenas del puente se rompen solas. Los guardias informarán al Gobierno (relacionarán con Ojos de Eclipse si conocen el cartel).
 - Robin · T922 · Por Facundo: arresto de Ace, rescate en Marineford, huida con la flota de Barbablanca. Por Luffy: Facundo dio semillas a Ace, Zoro y Barbablanca.
+- Robin · T923 · Por Facundo: los ocho bien, cada uno en una isla para mejorar elegida por Kuma; Zoro en la isla de Mihawk; dos años y Sabaody.
