@@ -825,3 +825,4 @@ T823 · Shingeki · Mitras · "Volví vivo, linda." Ymir baja descalza: "Veintic
 T824 · Shingeki · Mitras · "¿Ahora sí?" Ymir lo besa. Historia la llama desde la puerta.
 T825 · Shingeki · Mitras · Historia le cuenta lo que pasó en su ausencia.
 T826 · Shingeki · Mitras · Va al cuartel de la Legión: Levi y Eren entrenan; Mikasa mira.
+T827 · Shingeki · Mitras · A solas con Eren en el techo: los sueños del futuro; Facundo no aparece en ninguno.

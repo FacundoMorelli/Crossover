@@ -1,8 +1,8 @@
 {
-  "turno": 826,
+  "turno": 827,
   "mundo_actual": "shingeki",
   "fecha_local": "Año 850, día 35 tras Shiganshina (Mitras)",
-  "hora": "06:25",
+  "hora": "06:35",
   "edad": 18,
   "nivel": 27,
   "exp": 215740,
@@ -1765,7 +1765,8 @@
     "onepiece_enies": "T740: El tren del CP9 (Puffing Tom) con Robin, Franky y Usopp salió a las 23:00 y llega a Enies Lobby a las 06:00 del día 36. Sanji no va escondido (está en el Merry). Spandam, jefe del CP9, espera en la Torre de la Justicia con el Golden Den Den Mushi para el Buster Call. Jabra, Kumadori y Fukurou también están en la torre.",
     "post_enies_lobby": "Hecho: Garp llegó el Día 38. Pendiente: Garp ataca el barco a cañonazos cuando zarpen (canon, 'para que no digan que los dejó ir'). Aokiji pasa a ver a Robin antes de que zarpen. Día 40: en Isla Banaro, Ace pelea contra Barbanegra y pierde; Barbanegra lo captura para entregarlo al Gobierno (canon, sucedió offscreen; Facundo no lo sabe; la noticia sale en unos días).",
     "onepiece_al_salir": "Facundo cruzó la Puerta el Día 44 11:25 desde el Sunny en Thriller Bark. El canon sigue: Días 44-45 recuperación, tumba de los Rumbar; Lola le da a Nami media vivre card (de Big Mom). Sunny sale del Triángulo Florian. ~Día 47-48: llegan a Sabaody (Hachi, Camie, Duval, subastas, Celestial Dragon golpeado por Luffy, Kizaru, Pacifistas). Si nadie interviene, ~Día 49: Kuma dispersa a la tripulación por el mundo (Robin a Tequila Wolf); Ace, capturado por Barbanegra (Día 40), será trasladado a Impel Down y su ejecución anunciada (Marineford). Robin queda sin Facundo hasta que vuelva.",
-    "shingeki_en_ausencia_2": "Días 11-35 (simulado al volver, T822): Paradis prepara el viaje de Historia a Liberio para la fiesta Tybur (día 40): Erwin, Zackly y Pixis arman la comitiva (Historia, Ymir, Erwin, Levi, Hange, Mikasa, Eren; Zeke sigue preso en Trost bajo Levi/Pixis). Ymir vive en el palacio junto a Historia. Hange estudia el tramo destruido de Wall Maria: no quedan restos. Eren entrena con Levi; tiene sueños raros (recuerdos de Grisha y del futuro, por el contacto con Zeke en T502) y está más callado. En Marley: Willy enciende la vela del invernadero cada tres noches sin noticias (sin Facundo, la vela apagada). Magath frenó la flota en el gabinete con la excusa de la fiesta; Muller sigue sospechando y vigila la casa del Reloj (vacía). Los embajadores del mundo empiezan a llegar a Liberio desde el día 33. Marley cree que la fiesta es para un anuncio de Tybur; solo Willy, Lara Tybur y Magath saben del plan de paz. El botón de Willy no se usó."
+    "shingeki_en_ausencia_2": "Días 11-35 (simulado al volver, T822): Paradis prepara el viaje de Historia a Liberio para la fiesta Tybur (día 40): Erwin, Zackly y Pixis arman la comitiva (Historia, Ymir, Erwin, Levi, Hange, Mikasa, Eren; Zeke sigue preso en Trost bajo Levi/Pixis). Ymir vive en el palacio junto a Historia. Hange estudia el tramo destruido de Wall Maria: no quedan restos. Eren entrena con Levi; tiene sueños raros (recuerdos de Grisha y del futuro, por el contacto con Zeke en T502) y está más callado. En Marley: Willy enciende la vela del invernadero cada tres noches sin noticias (sin Facundo, la vela apagada). Magath frenó la flota en el gabinete con la excusa de la fiesta; Muller sigue sospechando y vigila la casa del Reloj (vacía). Los embajadores del mundo empiezan a llegar a Liberio desde el día 33. Marley cree que la fiesta es para un anuncio de Tybur; solo Willy, Lara Tybur y Magath saben del plan de paz. El botón de Willy no se usó.",
+    "eren_memorias_futuras": "Día 14 tras Shiganshina (en ausencia de Facundo): ceremonia de medallas en Mitras; Eren besa la mano de Historia al recibir la suya (canon) y ve recuerdos del futuro (poder del Titán de Ataque + contacto con sangre real). Desde entonces sueña con fragmentos: el escenario de la fiesta en Liberio de noche, fuego, gente gritando, un titán enorme con forma de martillo, y una versión de sí mismo mucho mayor. Facundo NO aparece en ninguna (Velo). Eren no sabe si el futuro que ve es fijo o si ya cambió. No se lo contó entero a nadie."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

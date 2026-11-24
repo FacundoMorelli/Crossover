@@ -129,3 +129,4 @@
 - Guardias de la Policía Militar del palacio, Ymir · T822 · Ven a Facundo y al gato salir de una puerta de luz en la escalinata del palacio.
 - Guardia de la Policía Militar de la escalinata · T824 · Vio (de reojo) a Ymir besar a Facundo.
 - Facundo · T825 · Por Historia: la comitiva (Historia, Ymir, Erwin, Levi, Hange, Mikasa, Eren; Armin pidió ir) está lista; Zackly y Pixis se quedan; el tramo de muralla destruido no dejó restos; Eren tiene sueños raros "de cosas que no vivió"; Zeke pregunta por Facundo cada semana; ningún barco de Marley a la vista.
+- Facundo · T827 · Por Eren: desde la ceremonia de medallas (día 14), al besar la mano de Historia, sueña con cosas que no vivió (escenario nocturno, fuego, titán martillo, él mayor). Facundo no aparece en ninguno.

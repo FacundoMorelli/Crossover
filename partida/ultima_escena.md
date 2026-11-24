@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T824)
-le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
-
-## RESPUESTA 1 (T824)
-
-> le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
-
-Le sonríes. Subes el escalón que los separa y le pasas el brazo por la cintura, por encima del abrigo mal abrochado.
-
-> —¿Ahora sí, o todavía no?
-
-Ymir se queda tiesa como una tabla. La manzana se le cae de la mano y rueda escalones abajo, rebotando, hasta los pies del guardia.
-
-El guardia la mira, te mira, mira la manzana, y vuelve a mirar el horizonte con toda la concentración de su vida.
-
-Ymir abre la boca. La cierra. Le tiembla un párpado.
-
-—Tú... tú eres un... —Se le traba la lengua—. ¡Hay un guardia!
-
-—Yo no veo nada, señorita —dice el guardia, sin girar la cabeza.
-
-Ymir lo fulmina con la mirada. Después te mira a ti, a un palmo.
-
-Te agarra del cuello de la camisa con las dos manos, tira hacia abajo y te besa ella.
-
-Es rápido al principio, torpe, como si se hubiera tirado al agua sin pensarlo. Después ya no es tan rápido. Los dedos se le aflojan en tu camisa. Kase, en tu hombro, gira la cabeza hacia el otro lado.
-
-Se separa de golpe. Está roja hasta el cuello.
-
-—Eso. —Respira rápido—. Eso era el «después hablamos». Ya está. Hablamos.
-
-No te suelta la camisa.
-
-—No te acostumbres, lindo.
-
-Desde la puerta del palacio, arriba, llega una voz de chica, clara, todavía con sueño.
-
-—¿Ymir? ¿Ymir, dónde estás? ¡Dicen que volvió!
-
-Ymir te suelta la camisa como si quemara, da un paso atrás, se acomoda el abrigo y se pasa la mano por el pelo, todo al mismo tiempo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 824 · SHINGEKI · DÍA 35 · 06:02        ║
-║ Mitras · escalinata del palacio real         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Preparar la comitiva de Historia.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T825)
+## COMANDO 1 (T825)
 subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
 
-## RESPUESTA 2 (T825)
+## RESPUESTA 1 (T825)
 
 > subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
 
@@ -123,10 +65,10 @@ Deja la taza en la mesa. Acaricia a Kase, despacio.
 
 ---
 
-## COMANDO 3 (T826)
+## COMANDO 2 (T826)
 vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
 
-## RESPUESTA 3 (T826)
+## RESPUESTA 2 (T826)
 
 > vamos a llegar, los llevo con la teletransportación, ahora voy a ir a hablar con eren
 
@@ -183,4 +125,70 @@ Eren se frota la nuca y te mira. Tiene la cara más flaca que hace veinticuatro 
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:25, patio del cuartel de la Legión en Mitras. Levi y Eren entrenaban con cuchillos de madera; Mikasa miraba. Eren vio a Facundo y Levi le pegó en la nuca por distraerse ("Ah. Volviste."). Mikasa se bajó de la cerca. Eren más flaco, con ojeras y algo nuevo en los ojos (sueños de cosas que no vivió).
+## COMANDO 3 (T827)
+hola eren, tenemos que hablar a solas
+
+## RESPUESTA 3 (T827)
+
+> hola eren, tenemos que hablar a solas
+
+> —Hola, Eren. Tenemos que hablar a solas.
+
+Eren baja el cuchillo de madera. Mira a Levi.
+
+Levi te mira a ti un segundo, con esos ojos grises que no dicen nada, y después se encoge de hombros.
+
+—Cinco minutos. —Le tira el cuchillo de madera a Mikasa, que lo atrapa al vuelo sin mirar—. Después sigues. Te faltan cien cortes.
+
+Mikasa da un paso hacia Eren.
+
+—Eren...
+
+—Está bien, Mikasa. —No la mira—. Ya vuelvo.
+
+Mikasa se queda en el patio, con los dos cuchillos de madera en las manos y la bufanda tapándole media cara. Te sigue con la mirada todo el camino.
+
+Eren te lleva por una escalera de madera exterior, desvencijada, hasta el techo plano del depósito del cuartel. Desde ahí se ven los techos de Mitras, el palacio, Wall Sina a lo lejos y el sol que termina de salir. Kase salta de tu hombro a la chimenea y se sienta a tomar sol.
+
+Eren se sienta en el borde, con los pies colgando. Tarda en hablar.
+
+—Hubo una ceremonia. —Mira el palacio a lo lejos—. Tres días después de que te fuiste. Medallas para todos los de Shiganshina. Historia nos las daba una por una, y había que besarle la mano.
+
+Se mira la mano derecha, abierta.
+
+—Cuando le toqué la mano... vi cosas.
+
+Cierra el puño.
+
+—Desde ese día sueño con ellas. Todas las noches. —Habla rápido, bajo, como si tuviera miedo de que alguien lo escuche—. Un escenario de noche, enorme, con cientos de personas mirando. Banderas. Después fuego. Gente gritando. Un titán gigante con forma de... de martillo, como de piedra blanca. Y yo. —Traga saliva—. Yo, pero más grande. Con el pelo largo. Mirando todo eso como si lo hubiera hecho yo.
+
+Se da vuelta para mirarte. Tiene los ojos rojos de no dormir.
+
+—Son recuerdos, Facundo. No son sueños. Sé que son recuerdos. Pero de cosas que todavía no pasaron.
+
+Hace una pausa.
+
+—Y a ti no te veo. —Lo dice muy despacio—. En ninguno. Nunca. Busco y busco y no estás. Es como si no existieras.
+
+Te mira fijo, con algo entre miedo y esperanza en la cara.
+
+—¿Eso qué significa? ¿Que lo que veo ya no va a pasar? ¿Que el futuro cambió por ti?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 827 · SHINGEKI · DÍA 35 · 06:35        ║
+║ Mitras · techo del cuartel de la Legión      ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la chimenea, al sol                 ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Hablar con Eren.                             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:35, techo del depósito del cuartel de la Legión. Eren le contó que desde la ceremonia de medallas (día 14, beso en la mano de Historia) ve recuerdos del futuro: escenario de noche, fuego, titán martillo, él mayor. Facundo no aparece en ninguno (Velo). Pregunta: "¿Que el futuro cambió por ti?". Levi y Mikasa en el patio. Kase en la chimenea.
