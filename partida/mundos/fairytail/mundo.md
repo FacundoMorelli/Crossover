@@ -8,3 +8,4 @@ DON DE MUNDO: Magia Perdida: Constelación Viva (ver sistema.json).
 - T998 · Shadow Gear curado del todo en la mañana del Día 1 con semillas del ermitaño (en el canon iban al hospital de Magnolia y Lucy se quedaba cuidándolos; ahí la capturaban Juvia y Sol).
 - T1009 · Facundo barre el salón de Phantom con tres constelaciones (41 vencidos). Makarov sube por Jose (canon).
 - T1010 · Gajeel vencido por Facundo en el salón de Phantom.
+- T1011 · Makarov NO es drenado por Aria (Facundo lo frenó).

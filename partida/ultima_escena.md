@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1008)
-le paro el hacha con una mano y lo tumbo
-
-## RESPUESTA 1 (T1008)
-
-> le paro el hacha con una mano y lo tumbo
-
-El hacha baja con todo el peso del tipo detrás, envuelta en luz verde, directo a tu cabeza.
-
-Levantas una mano y la agarras por el filo.
-
-El golpe se frena en seco, a un palmo de tu cara, como si hubiera chocado contra una pared. La luz verde chisporrotea contra tu palma, se retuerce, intenta morder y no puede. No te corta. No te mueve. Ni siquiera te dobla el codo.
-
-El tipo se queda con los dos brazos estirados y la boca abierta, empujando con todo. Le tiemblan los hombros. Le sale una vena en la frente.
-
-—¿Q-qué...?
-
-Le apoyas la otra mano en el pecho y empujas. Apenas.
-
-Sale volando para atrás, como si lo hubiera atropellado un carro. Atraviesa una mesa, se lleva por delante a dos de los suyos y termina contra una columna de piedra, sentado en el piso, con los ojos en blanco. El hacha se queda en tu mano. La luz verde se apaga sola.
-
-La tiras al piso.
-
-[Rival vencido: mago de Phantom Lord. +30 EXP · +1 Fragmento.]
-
-Alrededor tuyo, por un segundo, la pelea se afloja. Tres magos de Phantom que venían en tu dirección se frenan y se miran entre ellos. Uno de Fairy Tail, un tipo fornido de pelo blanco que tenía agarrados a dos enemigos del cuello, se queda mirándote con la boca abierta.
-
-—¡Eso es de hombres! —grita.
-
-Arriba, en la viga, el de los piercings deja de reírse.
-
-Deja de masticar. Se inclina hacia adelante, apoyado en las rodillas, y te mira. Una mirada larga y roja, de animal que acaba de encontrar algo más interesante que lo que tenía en el plato.
-
-Después se deja caer.
-
-Cae desde quince metros sin abrir los brazos y aterriza delante de ti con un golpe que raja las baldosas. No se le doblan las rodillas. Se endereza despacio, sacudiéndose el polvo del hombro, y sonríe con todos los dientes.
-
-╔════════════════════════════════════════╗
-║ GAJEEL REDFOX                          ║
-║ Mago de Phantom Lord                   ║
-║ PODER: Dragon Slayer de hierro         ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x100 sobre él ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-
-—Gihi. —Te mira de arriba abajo. Mira la mano con la que agarraste el hacha, sin un corte—. Tú no tienes marca. —Ladea la cabeza—. ¿Y entonces qué demonios eres, eh?
-
-Kase le bufa desde tu hombro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1008 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:06 · Oak Town · sede de Phantom Lord      ║
-║ NIVEL 27 · EXP 222.770/240.000               ║
-║ FRAGMENTOS 107.496 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, bufando                  ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: La guerra contra Phantom           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1009)
+## COMANDO 1 (T1009)
 uso mi magia de constelacion viva, hagan el trabajo ustedes
 
-## RESPUESTA 2 (T1009)
+## RESPUESTA 1 (T1009)
 
 > uso mi magia de constelacion viva, hagan el trabajo ustedes
 
@@ -158,10 +90,10 @@ Gajeel gira la cabeza hacia ti, con la vena del cuello hinchada y los dientes ap
 
 ---
 
-## COMANDO 3 (T1010)
+## COMANDO 2 (T1010)
 le doy un golpe a Gajeel y lo dejo inconsciente
 
-## RESPUESTA 3 (T1010)
+## RESPUESTA 2 (T1010)
 
 > le doy un golpe a Gajeel y lo dejo inconsciente
 
@@ -231,4 +163,85 @@ Makarov no la siente.
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:11, salón de Phantom. Gajeel inconsciente. Facundo siente arriba a Makarov frente a la proyección de Jose y a Aria acercándose por detrás. Facundo puede actuar.
+## COMANDO 3 (T1011)
+subo volando y freno a Aria antes de que toque a Makarov
+
+## RESPUESTA 3 (T1011)
+
+> subo volando y freno a Aria antes de que toque a Makarov
+
+Te despegas del piso.
+
+No saltas: subes. Kase te clava las uñas en el hombro. Debajo de ti, Natsu levanta la cabeza y se queda con la boca abierta, Happy dice "¡¿Vuela?!", y Erza da un paso adelante como para detenerte y no llega a decir nada.
+
+Atraviesas el hueco de la escalera en espiral sin tocar un escalón. Un piso, dos, tres. Pasas al lado de un par de magos de Phantom que bajaban corriendo y se tiran contra la pared al verte pasar. Al final de la escalera hay una puerta doble de madera tallada, entreabierta.
+
+La cruzas.
+
+Es una sala grande de piedra, con ventanales altos y un candelabro de hierro colgando del techo. En el medio, Makarov, de pie, con los puños cerrados y la espalda rígida. Delante de él, un hombre alto con ropa de gala oscura y el pelo negro largo, recogido, sonriendo con los ojos entrecerrados. La luz de los ventanales lo atraviesa: no tiene sombra.
+
+—...y la heredera Heartfilia ya está en nuestras manos, Makarov —está diciendo, con una voz suave, educada, que da asco—. Mis Element 4 la encontraron sola, en la calle, mientras ustedes venían a romperme la puerta. Fufufu. ¿Qué maestro deja sola a una de sus hijas en medio de una guerra?
+
+Makarov tiembla. No de miedo.
+
+—¡Lucy! —dice entre dientes—. ¿Qué hicieron con...?
+
+Y detrás de él, el aire se dobla.
+
+Aparece de la nada, como si hubiera estado ahí desde siempre: un hombre enorme, de casi tres metros, con un sombrero de copa, la cara cuadrada y los ojos tapados con una venda blanca. Está llorando. Las lágrimas le caen por debajo de la venda y le mojan las mejillas. Tiene las dos manos abiertas, con los dedos separados, a un palmo de la espalda del viejo, y entre sus dedos el aire se pone verde, denso, como una enfermedad.
+
+—Qué triste... —solloza—. Qué triste es esto...
+
+Las manos bajan.
+
+Lo agarras de las dos muñecas.
+
+El aire verde se apaga entre sus dedos como una vela que alguien sopla. Aria se queda con los brazos frenados en el aire, a un dedo del cuello de Makarov, y por primera vez deja de llorar. Debajo de la venda, la boca se le abre.
+
+—¿Q-qué...? —Gira la cabeza vendada hacia ti, despacio—. No lo sentí venir. No sentí... nada.
+
+Makarov se da vuelta de golpe. Ve las manos de Aria a un palmo de su espalda. Te ve a ti, que lo tienes agarrado de las muñecas, flotando a medio metro del piso. Ve a Kase.
+
+Frente a ustedes, la sonrisa de Jose se congela.
+
+╔════════════════════════════════════════╗
+║ ARIA                                   ║
+║ Element 4 de Phantom Lord (aire)       ║
+║ PODER: Airspace, Metsu, Zero           ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x100 sobre él ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+╔════════════════════════════════════════╗
+║ JOSE PORLA                             ║
+║ Maestro de Phantom Lord · Mago Santo   ║
+║ PODER: Sombras, Magia Oscura,          ║
+║        Proyección de Pensamiento       ║
+║ (PROYECCIÓN: el cuerpo no está aquí)   ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x70 sobre él  ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+
+—Vaya —dice Jose. Ya no suena suave—. ¿Y tú quién eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1011 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:12 · Phantom Lord · sala del último piso  ║
+║ NIVEL 27 · EXP 224.900/240.000               ║
+║ FRAGMENTOS 107.562 · 0 jewel                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:12, último piso de Phantom. Facundo tiene a Aria agarrado de las muñecas (Metsu frenado). Makarov salvado. Jose (proyección) dijo que tienen a Lucy y le pregunta a Facundo quién es. Facundo puede responder.

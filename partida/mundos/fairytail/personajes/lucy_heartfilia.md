@@ -11,4 +11,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio en persona (T999). Su nombre, Facundo Morelli, y que encontró a Shadow Gear colgado (T1000, él lo dijo). Por Levy: que los bajó y los curó con una semilla (T1000).
 QUÉ PODERES DE FACUNDO VIO: ninguno (vio el resultado: hierro arrancado, Shadow Gear curado).
-ESTADO: Llega con el gremio.
+ESTADO: CAPTURADA por Juvia y Sol en Magnolia (Día 1, mañana; dicho por Jose en T1011).
