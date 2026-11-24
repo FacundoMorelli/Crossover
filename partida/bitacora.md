@@ -908,3 +908,4 @@ T906 · One Piece · Marineford · Luna: aparta los 20 buques de bloqueo como un
 T907 · One Piece · Mar abierto · "Eres el hermano de mi capitán." Reverencia de Ace. Kizaru se vuelve. Luffy: "¿Tú sabes dónde están?"
 T908 · One Piece · Mar abierto · Busca el ki de todos: encuentra a los ocho de la tripulación. Robin del otro lado de la Red Line, entre presos. Luffy: "¿Están bien?"
 T909 · One Piece · Mar abierto · Propone dos años de entrenamiento y reunión en Sabaody. Luffy acepta. "¿Cómo les avisamos?"
+T910 · One Piece · Mar abierto · Propone ir a ver a cada uno. Luffy: "¡Vamos ya!" Ace: "¿Si te vas, la pared sigue?" La Marina sale tras la flota.

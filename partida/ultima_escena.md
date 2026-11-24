@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T907)
-no me tienes que pagar nada ace, sos el hermano de mi capitan
-
-## RESPUESTA 1 (T907)
-
-> no me tienes que pagar nada ace, sos el hermano de mi capitan
-
-> —No me tienes que pagar nada, Ace. Eres el hermano de mi capitán.
-
-Ace se queda quieto un segundo.
-
-Después se para derecho, junta los talones y se dobla por la cintura en una reverencia profunda, rígida, con el sombrero naranja en la mano, ahí en medio de la cubierta, delante de toda la tripulación de su padre.
-
-—Entonces te lo agradezco igual. —Lo dice hacia el piso, con la voz firme—. Gracias por cuidar a mi hermanito. Y gracias por lo de hoy.
-
-Luffy se ríe con todo el cuerpo.
-
-—¡Shishishi! ¡Facundo es increíble, Ace!
-
-Ace se endereza, se pone el sombrero y le da un coscorrón en la cabeza que a Luffy no le hace nada. Pero se está riendo también.
-
-Detrás de ustedes, la cúpula plateada cruza la boca de la bahía con el último bote de heridos adentro. Marco aterriza en la popa del Moby Dick y levanta un brazo de fuego azul: no queda nadie atrás.
-
-Afuera de la frontera, Kizaru se detiene en el aire, justo sobre las rocas de la salida. Ya no los sigue. Los mira alejarse con las manos en los bolsillos, ladea la cabeza, como quien se guarda una cara para recordarla. Después se convierte en luz y vuelve hacia Marineford en un destello amarillo.
-
-La flota de Barbablanca navega hacia el mar abierto, sola.
-
-En la cubierta, por primera vez desde que empezó la guerra, nadie corre. Los médicos de la tripulación empiezan a moverse entre los heridos. Alguien se sienta en el piso y se pone a llorar sin hacer ruido. Squard se acerca a la baranda y mira hacia atrás, hacia la isla que se achica.
-
-Ace se queda mirando a Luffy, ahora con la cara seria.
-
-—Oye, Luffy. —Mira alrededor de la cubierta, a los piratas de su padre, a ti, a nadie más—. ¿Y el resto de tu tripulación? ¿Dónde están?
-
-A Luffy se le borra la sonrisa de golpe.
-
-Se queda callado. Baja la vista a sus sandalias. Aprieta los puños.
-
-—No sé —dice, muy bajo—. El oso los hizo desaparecer. A todos. En el archipiélago.
-
-Levanta la cabeza y te mira a ti.
-
-—Facundo... ¿tú sabes dónde están?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 907 · ONE PIECE · DÍA 57 · 13:27       ║
-║ Mar abierto, frente a Marineford · Moby Dick ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Flota a salvo. La tripulación,     ║
-║ dispersa. Shingeki: antes del D59 16:30.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T908)
+## COMANDO 1 (T908)
 ehh ahi te digo, busco el ki de todos
 
-## RESPUESTA 2 (T908)
+## RESPUESTA 1 (T908)
 
 > ehh ahi te digo, busco el ki de todos
 
@@ -135,10 +75,10 @@ Luffy sigue parado delante de ti, quieto, con los puños apretados a los costado
 
 ---
 
-## COMANDO 3 (T909)
+## COMANDO 2 (T909)
 estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
 
-## RESPUESTA 3 (T909)
+## RESPUESTA 2 (T909)
 
 > estan todos bien, cada uno esta en una isla, luffy, creo que que lo mejor es que les mandemos un mensaje a todos, todavia no estan preparados para el nuevo mundo, creo que es mejor que entrenen 2 años en las islas a las que cayeron y despues nos juntamos todos en sabaody
 
@@ -193,4 +133,56 @@ Luffy te agarra del brazo, de golpe, con los ojos grandes.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:32, Moby Dick. Luffy aceptó: dos años de entrenamiento y reunión en Sabaody. Pregunta cómo avisarles a los ocho (no tienen Den Den Mushi de nadie). Facundo puede responder.
+## COMANDO 3 (T910)
+mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
+
+## RESPUESTA 3 (T910)
+
+> mmm, quieres verlos a todos igualmente? podemos ir a donde esta cada uno con mi habilidad y les avisamos
+
+> —Mmm... ¿Quieres verlos a todos igual? Podemos ir a donde está cada uno con mi habilidad y les avisamos.
+
+Luffy se queda quieto, con la mano todavía agarrada a tu brazo.
+
+Después se le abre la cara entera.
+
+—¡¡¿EN SERIO?!! —Te sacude el brazo para arriba y para abajo—. ¡¿Podemos?! ¡¿A todos?! ¡¿Hoy?!
+
+Kase aplana las orejas contra la cabeza y te clava las uñas en el hombro para no caerse.
+
+—¡A Zoro, a Nami, a Usopp, a Sanji, a Chopper, a Franky, a Robin, a Brook! —Los va contando con los dedos de la otra mano, a los saltos—. ¡¡Shishishi!! ¡Facundo, eres lo máximo! ¡Vamos ya!
+
+Ace se ríe, con la mano todavía sobre el sombrero de su hermano.
+
+—Igual que siempre. —Le da un empujón suave en la cabeza—. No pudiste esperar ni dos minutos.
+
+Pero cuando te mira a ti, ya no se ríe tanto.
+
+—Oye. Antes de que se vayan. —Señala con el mentón hacia arriba, hacia la línea plateada que sigue cubriendo toda la flota de punta a punta—. Esa cosa. Si te vas, ¿sigue ahí?
+
+Marco, que estaba en la baranda, gira la cabeza.
+
+Detrás de ustedes, todavía a la vista, el humo negro de Marineford sube hacia el cielo. Y en el horizonte, a los costados de la isla, se empiezan a ver velas grises con la gaviota azul, saliendo despacio de la bahía por el corredor que abriste.
+
+—Ya nos están siguiendo, yoi —dice Marco, tranquilo.
+
+Barbablanca no se mueve de la proa. Solo te mira, esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 910 · ONE PIECE · DÍA 57 · 13:34       ║
+║ Mar abierto, frente a Marineford · Moby Dick ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Visitar a los ocho con Luffy. La   ║
+║ Marina sale tras la flota. Shingeki: D59.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:34, Moby Dick. Luffy quiere ir ya a ver a los ocho con Facundo. Ace pregunta si el Bankai sobre la flota sigue si Facundo se va; buques de la Marina salen de la bahía tras la flota. Barbablanca espera. Facundo puede responder.

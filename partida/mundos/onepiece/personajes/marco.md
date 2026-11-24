@@ -15,3 +15,4 @@ QUÉ PODERES DE FACUNDO VIO: los de hoy en Marineford (ver conocimiento.md).
 ESTADO: activo
 - T904 · "Entonces te lo dejo a ti, yoi." Vuela a la popa a cubrir los botes de heridos.
 - T907 · Confirma desde la popa que no quedó nadie atrás.
+- T910 · "Ya nos están siguiendo, yoi."

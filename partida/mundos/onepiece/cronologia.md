@@ -169,3 +169,4 @@
 - Día 57 13:23 · (T906) Facundo aparta con la Luna la flota de bloqueo; la flota de Barbablanca sale de la bahía de Marineford con Ace vivo y Barbablanca vivo (canon: ambos morían).
 - Día 57 13:27 · (T907) La flota entera fuera de la bahía. Kizaru no persigue y vuelve a Marineford.
 - Día 57 13:32 · (T909) Luffy decide, por propuesta de Facundo, dos años de entrenamiento y reunión en Sabaody (canon: lo decidía con Rayleigh en Rusukaina y avisaba con el 3D2Y en el diario).
+- Día 57 13:34 · (T910) Buques de la Marina empiezan a salir de la bahía tras la flota de Barbablanca.
