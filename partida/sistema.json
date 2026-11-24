@@ -1,8 +1,8 @@
 {
-  "turno": 777,
+  "turno": 778,
   "mundo_actual": "onepiece",
   "fecha_local": "Día 37 (Grand Line, Water 7)",
-  "hora": "12:10",
+  "hora": "12:14",
   "edad": 18,
   "nivel": 26,
   "exp": 212440,
@@ -334,7 +334,8 @@
       "objeto": "Cámara de fotos y video (compacta, con pantalla y batería del Sistema)",
       "mundo": "tienda del Sistema",
       "turno": 431,
-      "precio": "15 F"
+      "precio": "15 F",
+      "detalle": " T778: le muestra a Robin (One Piece) el video de Eren en Shiganshina."
     },
     {
       "objeto": "Capa verde de la Legión de Reconocimiento (regalo de Erwin)",
