@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T978)
-todos fushiguro, ella tambien
-
-## RESPUESTA 1 (T978)
-
-> todos fushiguro, ella tambien
-
-> —Todos, Fushiguro. Ella también.
-
-Megumi no contesta.
-
-Se queda parado arriba de la escalinata un segundo más. Después se le aflojan las rodillas, despacio, y se sienta en el escalón de arriba de todo, entre los pedazos de la taza. Apoya los antebrazos en las rodillas. Baja la cabeza hasta que el pelo le tapa la cara.
-
-No hace ningún ruido. Solo le tiemblan los hombros.
-
-Yuji sube los escalones corriendo, de dos en dos. Nobara detrás, descalza, sin quejarse de las piedras. Se sientan uno a cada lado de él, en el mismo escalón. Yuji le pasa un brazo por los hombros. Nobara no lo toca: se sienta pegada, hombro con hombro, mirando para otro lado, hacia los cerezos.
-
-Nadie dice nada durante un rato largo.
-
-El viento sopla. Caen pétalos sobre los tres.
-
-Al final, Megumi levanta la cabeza. Tiene los ojos rojos, la cara mojada y una expresión que no le viste nunca: como si alguien le hubiera sacado de encima una piedra que llevaba en el pecho desde diciembre.
-
-Te mira desde arriba de la escalinata.
-
-—Gracias. —Le sale ronco, roto—. No sé cómo... Gracias.
-
-Y entonces, en el silencio, se le oye el estómago. Un rugido largo, hueco, de alguien que no come bien hace semanas.
-
-Megumi se queda congelado. Se pone colorado hasta las orejas.
-
-Yuji suelta una carcajada que hace volar a dos pájaros de un cedro.
-
-—¡¡Fushiguro tiene hambre!! —Lo zarandea por los hombros—. ¡Por fin! ¡Nobara, Fushiguro tiene hambre!
-
-—Ya lo oí, idiota, lo oyó todo Tokio. —Nobara se seca la cara con la campera y se pone de pie. Te mira desde arriba, con las manos en la cintura, y otra vez la voz de siempre—. Bueno. Ya que volviste y nos arruinaste la mañana con tanto llanto, por lo menos ayúdanos con el desayuno. Itadori no trajo el pan.
-
-Se cruza de brazos.
-
-—¿Te quedas, o te vas a ir otra vez dentro de cinco minutos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 978 · JUJUTSU · 25/04/2019 · 06:50     ║
-║ Escuela de Hechicería de Tokio · el portón   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Megumi tiene hambre. Nobara        ║
-║ pregunta si te quedas.                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T979)
+## COMANDO 1 (T979)
 esta bien, me quedo unos dias si quieren
 
-## RESPUESTA 2 (T979)
+## RESPUESTA 1 (T979)
 
 > esta bien, me quedo unos dias si quieren
 
@@ -115,10 +57,10 @@ Toma un sorbo de café.
 
 ---
 
-## COMANDO 3 (T980)
+## COMANDO 2 (T980)
 hola nanami
 
-## RESPUESTA 3 (T980)
+## RESPUESTA 2 (T980)
 
 > hola nanami
 
@@ -171,4 +113,60 @@ Después, sin levantar la vista de la mesa, con la voz más baja que le oíste n
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:00, cocina de los dormitorios. Yuji le contó a Nanami la promesa de Facundo. Nanami, sin anteojos, pregunta en voz muy baja si incluye a los de hace doce años (Haibara, muerto por una maldición en 2007). Facundo puede responder.
+## COMANDO 3 (T981)
+asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
+
+## RESPUESTA 3 (T981)
+
+> asi es, ahora que estan los 4 aqui, quieren que cuando los reviva tengan la edad que deberian tener ahora?
+
+> —Así es. Ahora que están los cuatro aquí: ¿quieren que, cuando los reviva, tengan la edad que deberían tener ahora?
+
+La cocina se queda en silencio. Solo se oye el huevo chisporroteando en la sartén, que Yuji olvidó por completo.
+
+Nanami es el primero en hablar. No levanta la vista de la mesa.
+
+—Haibara tenía diecisiete años. —Lo dice como quien lee un dato de un informe—. Si vuelve con diecisiete, va a despertarse en un mundo donde su compañero de clase tiene veintiocho, un solo brazo y un trabajo que odia. Donde sus padres son viejos. Donde todo lo que conocía cambió. —Se pone los anteojos otra vez—. Doce años que no vivió, y que nadie le va a devolver.
+
+Hace una pausa.
+
+—Pero si vuelve con veintinueve, despierta con un cuerpo de adulto y la cabeza de un chico. Sin recuerdos de esos doce años, porque nunca los vivió.
+
+Megumi levanta la cabeza desde la punta de la mesa. Tiene la voz ronca.
+
+—Tsumiki era un año mayor que yo. —Mira el mantel—. Si vuelve como estaba, va a ser más chica que yo. Casi lo mismo. Pero Gojo... —Se interrumpe—. Si Gojo vuelve como estaba, no cambia nada. Murió hace cuatro meses.
+
+—Junpei tendría la misma edad que nosotros —dice Yuji, en voz baja, con la espátula colgando de la mano—. Podría... podría venir a la escuela. Con nosotros. Si quisiera.
+
+Nobara se cruza de brazos, apoyada en la mesada.
+
+—Es raro de cualquier forma —dice—. No hay una opción que no sea rara. —Mira a Nanami—. Pero a mí me parece peor volver y que todos te hayan dejado atrás.
+
+Nanami asiente, muy despacio.
+
+—Con la edad que deberían tener —dice al fin—. Que no vuelvan a un mundo que siguió de largo sin ellos. Que vuelvan a ocupar el lugar que les tocaba. —Te mira—. Para los que murieron hace poco, la diferencia es mínima. Para los que murieron hace años... es lo único justo.
+
+Megumi asiente. Yuji también. Nobara se encoge de hombros, que en ella es un sí.
+
+Yuji mira la sartén. El huevo se quemó por abajo. No le importa.
+
+—Oye, Facundo —dice, despacio—. Cuando vuelvan... ¿se van a acordar? De que murieron, digo. ¿De cómo fue?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 981 · JUJUTSU · 25/04/2019 · 07:04     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Revividos con la edad que deberían ║
+║ tener. Yuji: ¿recordarán cómo murieron?      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:04, cocina de los dormitorios. Facundo preguntó si los revividos deben volver con la edad que tendrían ahora. Nanami, Megumi, Yuji y Nobara acordaron que sí. Yuji pregunta si recordarán que murieron y cómo fue. Facundo puede responder.
