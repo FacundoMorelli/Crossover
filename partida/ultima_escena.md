@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T968)
-esta bien, muchas gracias carla. simula varios dias, tambien el anuncio
-
-## RESPUESTA 1 (T968)
-
-> esta bien, muchas gracias carla. simula varios dias, tambien el anuncio
-
-> —Está bien. Muchas gracias, Carla.
-
-En la cocina de Carla hay harina, que no debería estar ahí, y huevos, que tampoco. Nadie pregunta. Carla hace panqueques en una sartén vieja, con Mikasa al lado cortando pan y Eren sentado a la mesa sin sacarle los ojos de encima, como si tuviera miedo de que se evaporara si parpadea. Grisha se sienta en la cabecera y no habla, y cada tanto se le llenan los ojos y se los seca con la servilleta. Ymir se come cinco panqueques. Kase se come dos, robados, y Carla hace como que no lo vio.
-
-Los días siguientes, Shiganshina no duerme.
-
-La gente se busca. Durante tres días, los registros de Hange son lo más valioso de la isla: filas de cientos de personas frente a cada mesa, nombres que se gritan en los campamentos, padres que encuentran a hijos que ahora son más grandes que ellos, viudas que encuentran a maridos que nunca supieron que habían enviudado. Los soldados de la Guarnición reparten mantas y sopa y no paran de llorar.
-
-Levi desaparece la primera mañana. Vuelve a la noche, con la ropa sucia de barro y la cara de siempre. Detrás de él vienen cuatro soldados con uniforme de la Legión de hace un año —una muchacha de pelo cobrizo y un tipo que no para de hablar imitándole la voz—, un muchacho rubio de pelo largo y una chica pelirroja con dos coletas que se le cuelga del brazo como una hermana. Levi no le explica nada a nadie. Pero esa noche, por primera vez que alguien recuerde, se le escucha reír.
-
-Jean encuentra a Marco en un campamento al sur de la ciudad, sentado sobre una caja de provisiones, con la mitad de la cara llena de pecas y entera. No se dicen nada. Jean le pega un puñetazo en el hombro y después lo abraza hasta que Marco se queja.
-
-Hannes aparece en la puerta de los Jaeger al segundo día, con una botella en la mano y la gorra de la Guarnición torcida. Se queda en el umbral, mirando a Eren, sin poder hablar. Eren lo hace pasar.
-
-El tercer día llega a Shiganshina una joven de pelo negro corto, con un vestido sencillo de la nobleza y la cara redonda y amable. Pregunta en la mesa de registro por una chica llamada Historia. Cuando Historia la ve, en la escalinata del ayuntamiento, se le caen todos los papeles de las manos.
-
-Frieda Reiss la abraza en la escalinata, delante de todos. Le acaricia el pelo y le pide perdón por algo que Historia no termina de entender: por haberla hecho olvidar.
-
-Esa misma tarde, Frieda pasa por la calle de los Jaeger. Ve a Grisha en el escalón. Se detiene. Lo reconoce. Grisha también a ella: se pone de pie, blanco como el papel. Se quedan mirándose largo rato, en el medio de la calle. Después Frieda sigue caminando, sin decir nada, y Grisha se vuelve a sentar en el escalón y no se levanta hasta la noche.
-
-En Mitras, Annie está en una habitación del palacio, bajo guardia, con una manta sobre los hombros. No habla con nadie. El segundo día, Armin pide verla. Se sienta en una silla del otro lado de la habitación. No dicen nada durante una hora. Después él le cuenta lo de los titanes. Ella llora sin hacer ruido, mirando la ventana.
-
-Hange baja a las celdas de Trost con una carta del correo de Marley. La lee en voz alta frente a Reiner y Bertholdt. Es de Magath. En una línea dice que en Liberio, en la zona de internamiento, apareció vivo un muchacho llamado Marcel Galliard, y que no deja de preguntar por ellos dos. Bertholdt se sienta en el suelo. Reiner se tapa la cara con las dos manos y se queda así hasta la madrugada.
-
-Ymir duerme contigo en un cuarto que Carla les arregla arriba, en la casa de los Jaeger. Se despierta cada tanto en la noche y se mira la mano, a oscuras, como para asegurarse de algo.
-
-El día sesenta y seis, a mediodía, la plaza central de Shiganshina está llena.
-
-No cabe nadie más. Hay gente en los techos, en las ventanas, en las ramas de los árboles, en los hombros de otros. Decenas de miles de personas, la mayoría con ropa de hace cinco años, de hace diez, de hace treinta, muchas con la cara de no haber dormido en tres días. Hay soldados de los tres cuerpos en el borde, pero no hace falta mantener el orden: la plaza entera está en silencio.
-
-En el balcón del ayuntamiento, Historia Reiss se adelanta hasta la baranda.
-
-Habla una hora.
-
-Cuenta todo. Que la isla es una isla. Que más allá del mar hay un mundo entero, con países y ciudades y gente. Que los eldianos no son los últimos humanos, sino un pueblo odiado por ese mundo, encerrado tras las murallas por un rey que eligió olvidar. Que los titanes eran personas. Que los colosales de las murallas eran personas. Que una semana antes de que ellos despertaran, Paradis firmó la paz con Marley, el país que les mandaba titanes. Que hace tres días, al amanecer, los titanes dejaron de existir en todo el mundo, para siempre.
-
-Y que los que estaban ahí, en esa plaza, habían muerto. Y que ya no.
-
-Cuando termina, nadie aplaude. La plaza llora. Decenas de miles de personas a la vez, en silencio, abrazadas unas a otras.
-
-Historia espera. Deja que lloren. Después levanta una mano, y la plaza vuelve a callarse.
-
-—Hay una persona —dice, con la voz quebrada pero clara— a quien esta isla le debe todo. La paz. El fin de los titanes. A ustedes. —Se da vuelta hacia el interior del balcón, donde estás de pie, al fondo, junto a Erwin, con Ymir al lado y Kase en el hombro—. No le gusta que lo nombren. Lo sé. Lo hago igual.
-
-Te mira.
-
-—Facundo Morelli. —Extiende la mano hacia ti—. ¿Saldrías aquí, conmigo, para que te vean?
-
-En la plaza, decenas de miles de cabezas se levantan hacia el balcón.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 968 · SHINGEKI · DÍA 66 · 13:05        ║
-║ Shiganshina · balcón del ayuntamiento        ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Historia te llama al balcón ante   ║
-║ la plaza de Shiganshina.                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T969)
+## COMANDO 1 (T969)
 salgo al balcon
 
-## RESPUESTA 2 (T969)
+## RESPUESTA 1 (T969)
 
 > salgo al balcon
 
@@ -145,10 +71,10 @@ Historia se acerca a tu oído para que la oigas por encima del ruido.
 
 ---
 
-## COMANDO 3 (T970)
+## COMANDO 2 (T970)
 No quiero que me deban nada, esto lo hice por que me gusta ayudar, asi que por favor, quiero que todos disfruten sus vidas, sin titanes, ni nadie que nos quiera matar, los que quieran salir al mundo a explorar son libres de hacerlo, con eso ya es mas que suficiente para mi
 
-## RESPUESTA 3 (T970)
+## RESPUESTA 2 (T970)
 
 > No quiero que me deban nada, esto lo hice por que me gusta ayudar, asi que por favor, quiero que todos disfruten sus vidas, sin titanes, ni nadie que nos quiera matar, los que quieran salir al mundo a explorar son libres de hacerlo, con eso ya es mas que suficiente para mi
 
@@ -208,4 +134,68 @@ Después gira la cabeza y te mira, de costado, con la media sonrisa.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 66 13:12, balcón del ayuntamiento de Shiganshina. Facundo habló a la plaza (no quiere que le deban nada; que sean libres de salir a explorar). La plaza en fiesta. Erwin sonríe; Levi bromea. Ymir, en la baranda, le pregunta: "Ya salvaste al mundo. ¿Y ahora qué?" Facundo puede responder.
+## COMANDO 3 (T971)
+por ahora me voy a ir hay muchas cosas que me faltan conocer, voy a volver no te preocupes, le agarro de la cintura y le doy un beso. Erwin, ya es hora que tambien liberen a los demas, a zeke, annie, reiner, bertholdt, pieck
+
+## RESPUESTA 3 (T971)
+
+> por ahora me voy a ir hay muchas cosas que me faltan conocer, voy a volver no te preocupes, le agarro de la cintura y le doy un beso. Erwin, ya es hora que tambien liberen a los demas, a zeke, annie, reiner, bertholdt, pieck
+
+> —Por ahora me voy a ir. Hay muchas cosas que me faltan conocer. Voy a volver, no te preocupes.
+
+Ymir no dice nada. Se te queda mirando con la media sonrisa todavía puesta, pero algo en los ojos se le aquieta.
+
+La agarras de la cintura y la besas.
+
+Ahí, en el balcón, delante de la reina, del comandante, de la plaza entera. Abajo, alguien lo ve y silba. Después silban cien. La canción se corta y se convierte en un griterío alegre que sube hasta el balcón. Ymir te agarra de la solapa del sobretodo y no te suelta hasta que termina.
+
+Se separa apenas. Te mira de cerca.
+
+—Más te vale, lindo. —Te lo dice contra la boca—. Esta vez no me como tus manzanas. Las guardo. Para cuando vuelvas.
+
+Te suelta la solapa. Se vuelve a apoyar en la baranda, de espaldas a la plaza, de brazos cruzados, haciéndose la que no le importa. Tiene las orejas coloradas.
+
+Historia mira para otro lado, muy concentrada en la plaza, con una sonrisa que no puede esconder.
+
+Te das vuelta hacia Erwin.
+
+> —Erwin, ya es hora de que también liberen a los demás. A Zeke, a Annie, a Reiner, a Bertholdt, a Pieck.
+
+Erwin no contesta enseguida. Mira la plaza. Mira a Levi, que se tensó apenas al oír el primer nombre.
+
+—Pieck Finger no está en nuestras manos —dice al fin, tranquilo—. Está en Liberio, libre, con su padre. Lo demás... —Hace una pausa—. Bajo el tratado, los cuatro son prisioneros de guerra de un conflicto que terminó. Ya no tienen titanes. Ya no son armas. Y la mayoría de la gente que mataron está en esa plaza, cantando.
+
+Levi chasquea la lengua. Mira para otro lado.
+
+—El barbudo me debe una conversación larga —murmura—. Pero no tiene que ser en una celda.
+
+Erwin asiente, como si eso fuera una firma.
+
+—Se hará. Esta semana. Zeke, Reiner y Bertholdt saldrán de sus celdas, y la señorita Leonhart de su habitación. Podrán quedarse en Paradis o volver a Liberio en el próximo barco del correo, como prefieran. —Te mira—. Le escribiré a Magath hoy mismo.
+
+Hange te mira con una sonrisa torcida.
+
+—Reiner va a llorar. Lo sé. Lo voy a anotar.
+
+Erwin se acerca un paso. Te tiende la única mano.
+
+—Señor Morelli. —Su voz es la de siempre, pero más baja—. Cuando vuelva, esta isla va a ser otra. Espero que la reconozca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 971 · SHINGEKI · DÍA 66 · 13:16        ║
+║ Shiganshina · balcón del ayuntamiento        ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Despedirse. Erwin liberará a Zeke, ║
+║ Annie, Reiner y Bertholdt.                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 66 13:16, balcón de Shiganshina. Facundo anunció que se va por ahora y volverá; besó a Ymir (guardará las manzanas). Erwin acepta liberar a Zeke, Annie, Reiner y Bertholdt esta semana (Pieck ya libre en Liberio) y le tiende la mano: "Cuando vuelva, esta isla va a ser otra." Facundo puede despedirse.

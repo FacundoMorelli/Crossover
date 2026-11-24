@@ -119,3 +119,4 @@
 - Día 66 12:00-13:05 · (T968) Anuncio de Historia en la plaza de Shiganshina: la verdad entera. Llama a Facundo al balcón.
 - Día 66 13:08 · (T969) Facundo sale al balcón con Historia; la plaza lo aclama ("¡El del gato!").
 - Día 66 13:12 · (T970) Facundo habla a la plaza: no quiere deudas; libertad para salir al mundo. Fiesta.
+- Día 66 13:16 · (T971) Erwin acepta, a pedido de Facundo, liberar esta semana a Zeke, Reiner, Bertholdt y Annie (podrán quedarse o volver a Liberio). Le escribirá a Magath.

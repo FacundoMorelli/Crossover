@@ -51,3 +51,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T968 · Duerme con Facundo en la casa Jaeger; de noche se mira la mano.
 - T969 · Lo empuja con dos dedos hacia el balcón; se queda en la puerta con los ojos brillantes.
 - T970 · Apoyada en la baranda: "Bueno, lindo. Ya salvaste al mundo. ¿Y ahora qué?"
+- T971 · Facundo: "Me voy por ahora. Voy a volver." Beso en el balcón. "Más te vale, lindo. Esta vez no me como tus manzanas. Las guardo. Para cuando vuelvas." Orejas coloradas.

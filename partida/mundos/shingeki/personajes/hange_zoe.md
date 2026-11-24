@@ -27,3 +27,4 @@ ESTADO: activo
 - T950 · "¿Deseos? ¿Como en los cuentos? ¿Cuántos se pueden pedir?" Levi la calla.
 - T954 · Arma el sistema de registros. Avisa a Reiner y Bertholdt.
 - T956 · Ve al dragón Eclipse: llora y sonríe, se le cae el cuaderno.
+- T971 · "Reiner va a llorar. Lo voy a anotar."

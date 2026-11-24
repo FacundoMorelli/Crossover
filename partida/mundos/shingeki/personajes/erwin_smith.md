@@ -44,3 +44,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T966 · Llega a Shiganshina. A Grisha: "Doctor Grisha Jaeger. Leí sus diarios. Los del sótano. Son la razón por la que esta isla sigue viva."
 - T969 · Mira a Facundo en el balcón con algo nuevo en los ojos.
 - T970 · Sonríe de verdad, sin cálculo, por primera vez.
+- T971 · Acepta liberar a Zeke, Reiner, Bertholdt y Annie esta semana (Pieck ya libre). Escribirá a Magath. Le tiende la mano: "Cuando vuelva, esta isla va a ser otra. Espero que la reconozca."
