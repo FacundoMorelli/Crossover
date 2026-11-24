@@ -25,3 +25,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T824 · "¿Ahora sí, o todavía no?" Lo agarra de la camisa y lo besa. "Eso era el «después hablamos». No te acostumbres." RELACIÓN: pareja (empezando). Lo suelta de golpe cuando la llama Historia.
 - T842 · Noche del día 35: con Facundo en el techo del palacio, comiendo manzanas; se duerme en su hombro.
 - T858 · Días 41-43 · Tiempo con Facundo en Mitras.
+- T862 · Día 47 · Desayuno: "Tienes cara de que te vas a ir otra vez, lindo."

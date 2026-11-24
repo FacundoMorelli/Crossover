@@ -80,3 +80,6 @@
 - Día 44 02:40 · (T858) Willy aprieta el botón de aviso.
 - Día 44 01:30-02:41 · (T859) Golpe de oficiales leales a Calvi: lo sacan de la prisión militar; rodean la mansión Tybur para arrestar a Willy por traición; van por Magath.
 - Día 44 02:43-02:46 · (T860) Facundo detiene el golpe sin heridos: Haki del Rey sobre la mansión Tybur (~40 soldados y un mayor desmayados) y sobre la casa de Magath (~25 soldados y el general Calvi desmayados). Willy, Lara y Magath a salvo.
+- Día 44 · (T862) Los golpistas despiertan sin daño, arrestados por el regimiento de Magath. El Primer Ministro destituye y arresta a los dos ministros. Willy habla por radio a las 9: el golpe fracasó sin heridos.
+- Día 45 · (T862) El Parlamento de Marley ratifica el tratado de paz con Paradis (212 a 140). Calvi a prisión militar.
+- Días 45-47 · (T862) Preparativos de la demostración (día 50, Wall Rose). Delegaciones de Hizuru y cuatro países zarpan hacia Paradis en barco de Hizuru (llegan el día 49).

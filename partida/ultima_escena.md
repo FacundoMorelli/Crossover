@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T859)
-voy con willy
-
-## RESPUESTA 1 (T859)
-
-> voy con willy
-
-Kase salta de la cama a tu hombro antes de que lo llames. Te llevas dos dedos a la frente.
-
-El hilo del botón te lleva directo. Del otro lado del mar, Willy: miedo, mucho, y algo más firme debajo. Al lado, Lara, tranquila como agua quieta, con el titán dormido adentro. Y alrededor de la casa, decenas de presencias tensas, con armas.
-
-Desapareces de Mitras.
-
-Aparece un cuarto oscuro con olor a tabaco, cuero y papel viejo: el estudio de Willy, en el primer piso de la mansión Tybur. Las lámparas están apagadas. Solo entra luz por la ventana, una luz amarilla y temblorosa, de faroles.
-
-Willy está de pie junto al escritorio, en bata, despeinado, con el botón plateado todavía apretado en el puño. Cuando te ve aparecer da un salto, y después se le doblan las rodillas del alivio. Se agarra del escritorio.
-
-—Vino. —Lo dice casi sin voz—. Vino.
-
-Lara está junto a la ventana, en camisón, con una manta sobre los hombros, mirando hacia abajo entre las cortinas. Tranquila. En el sofá del fondo duerme un nene de seis años, el sobrino, envuelto en una frazada. A su lado, una mujer joven, la madre, tiembla con las manos en la boca.
-
-Te asomas a la ventana.
-
-Abajo, en el jardín y en la calle, hay unos cuarenta soldados con fusiles y faroles. Rodean la casa. Hay dos camiones militares con el motor encendido. En el centro del jardín, un mayor de uniforme sostiene un altoparlante de metal.
-
-—¡Willy Tybur! —La voz rebota en las paredes de la casa—. ¡Por orden del Estado Mayor de Marley, queda usted detenido por alta traición! ¡Lo mismo que el general Theo Magath! ¡Salga con las manos en alto!
-
-—Calvi. —Willy se acerca a la ventana, sin asomarse—. Lo sacaron de la prisión militar hace una hora. Un grupo de oficiales leales a él, y dos ministros. Dicen que el tratado es un golpe de los demonios. —Traga saliva—. Vinieron por mí. Y ya fueron por Magath, a su casa.
-
-Abajo, alguien golpea la puerta principal con la culata de un fusil. Una vez. Dos. Tres. La madera cruje.
-
-Lara se da vuelta desde la ventana. Te mira con sus ojos oscuros y tranquilos.
-
-—Podría transformarme aquí. —Lo dice bajo, sin dramatismo—. Pero si lo hago, muere gente. Soldados de Marley, aplastados por un titán de los Tybur, cuatro días después de la paz. —Niega despacio con la cabeza—. Y se acaba todo.
-
-Abajo, la puerta principal empieza a ceder. Se oye el crujido largo de la madera que se parte y los gritos de los soldados en la escalera.
-
-El nene del sofá se despierta y empieza a llorar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 859 · SHINGEKI · DÍA 44 · 02:41        ║
-║ Liberio · mansión Tybur, estudio de Willy    ║
-║ NIVEL 27 · EXP 218.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Golpe de los leales a Calvi.       ║
-║ Proteger a los Tybur. Magath en peligro.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T860)
+## COMANDO 1 (T860)
 me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
 
-## RESPUESTA 2 (T860)
+## RESPUESTA 1 (T860)
 
 > me acerco al nene, tranquilo no llores, bueno yo me encargo willy. detengo a todos sin heridos incluso los que fueron a por magath
 
@@ -133,10 +77,10 @@ Baja la pistola despacio.
 
 ---
 
-## COMANDO 3 (T861)
+## COMANDO 2 (T861)
 bueno, ahora que tienen que hacer?(que dia de shingeki seria marineford?)
 
-## RESPUESTA 3 (T861)
+## RESPUESTA 2 (T861)
 
 > bueno, ahora que tienen que hacer?
 
@@ -185,4 +129,58 @@ Sobre tu pregunta: según el canon, Marineford cae cerca de los Días 57-58 de O
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 44 02:48, vestíbulo de Magath. Plan de Magath: su regimiento del puerto arresta a Calvi y a los golpistas en 20 minutos; al amanecer, al Primer Ministro con los nombres de los dos ministros; Willy habla a las 9. Pide que Facundo se vaya antes de que lleguen sus hombres. Pregunta si los soldados van a despertar bien. Kase en la mansión Tybur. MARINEFORD ≈ días 48-49 de Shingeki (OP Día 53 hoy).
+## COMANDO 3 (T862)
+si, se van a despertar bien todos, simula hasta el dia 47
+
+## RESPUESTA 3 (T862)
+
+> si, se van a despertar bien todos, simula hasta el dia 47
+
+> —Sí, se van a despertar bien. Todos.
+
+Magath asiente una vez. No da las gracias, y no hace falta.
+
+—Entonces váyase.
+
+Te vas antes de que suenen los primeros camiones del regimiento del puerto. En la mansión Tybur, Kase está dormido en el sofá del estudio, enroscado contra el sobrino de Willy, que también duerme, con un brazo encima del gato. La madre te mira desde un sillón sin decir nada. Willy te acompaña hasta la puerta del estudio y te aprieta el hombro. Lara levanta una mano desde la ventana. Levantas a Kase con cuidado para no despertar al nene, y el nene igual abre un ojo, te ve y vuelve a dormirse.
+
+Vuelves a Mitras antes del amanecer.
+
+El día cuarenta y cuatro, los sesenta y tantos golpistas se despiertan sin un dolor, sin un moretón, esposados en los calabozos de la guarnición del puerto, sin entender qué pasó. Ninguno sabe explicarlo. Calvi tampoco. A las nueve, Willy habla por la radio de Liberio: hubo un intento de golpe contra el tratado, fracasó, no hay un solo herido y los responsables están detenidos. No dice cómo. Al mediodía, el Primer Ministro destituye y manda arrestar a dos ministros.
+
+El día cuarenta y cinco, el Parlamento de Marley vota el tratado con la isla. Lo ratifica por doscientos doce votos contra ciento cuarenta. Calvi va a la prisión militar a esperar juicio.
+
+Cada tarde vas a Liberio con los dedos en la frente, a tomar té con Willy en el invernadero. Lara siempre está. Nunca te pregunta por el Martillo. Te sirve el té, le da pescado a Kase y espera.
+
+En Mitras, el palacio es un hormiguero. Erwin y Hange preparan la demostración del día cincuenta en Wall Rose. Llegan cartas de Hizuru: Kiyomi Azumabito y delegados de cuatro países zarparon de Liberio en un barco de Hizuru y llegan a la costa de Paradis el día cuarenta y nueve. Mikasa se pasa horas mirándose la marca de la muñeca. Ya no se pone la venda.
+
+Ymir y tú pasan esos días juntos, cuando se puede. Los techos de noche, los mercados de día y las manzanas robadas. Ella no dice mucho. Te agarra la mano cuando cree que nadie mira.
+
+El día cuarenta y siete, a las ocho y diez de la mañana, desayunas con Historia y con Ymir en el comedor chico del ala de la reina. Les traes la noticia de la ratificación del Parlamento, que Willy te dio la tarde anterior.
+
+Historia deja la taza en el plato. Se tapa la cara con las dos manos y llora, sin ruido, con los hombros temblando. Ymir le pasa el brazo por los hombros sin dejar de comer.
+
+Después, Ymir te mira.
+
+Te mira largo, fijo, con una manzana a medio comer en la mano. Tiene los ojos filosos de siempre, pero algo más quieto adentro.
+
+—Tienes cara de que te vas a ir otra vez, lindo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 862 · SHINGEKI · DÍA 47 · 08:10        ║
+║ Mitras · comedor chico del ala de la reina   ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tratado ratificado. Demostración:  ║
+║ día 50. Marineford ≈ días 48-49.             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 47 08:10, comedor chico del ala de la reina (Mitras). Golpe juzgado: golpistas arrestados sin daño, dos ministros destituidos, Calvi preso. Día 45: el Parlamento de Marley ratificó el tratado (212-140). Demostración: día 50 en Wall Rose; Kiyomi y cuatro delegaciones llegan el día 49. Lara espera (Facundo la visita cada tarde). Historia lloró de alegría. Ymir: "Tienes cara de que te vas a ir otra vez, lindo." MARINEFORD ≈ días 48-49 de Shingeki (OP Días 57-58).

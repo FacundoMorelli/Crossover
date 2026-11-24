@@ -23,3 +23,4 @@ ESTADO: activo
 - T851 · Sale sola al escenario; los cañones disparan y no se mueve ni se agacha. Apoya las manos en el atril.
 - T852 · Discurso sin papel: perdón, "no vamos a devolver el disparo", ofrece destruir los titanes. Antes de firmar llama al emisario al escenario.
 - T853 · Firma el tratado. Invita a Facundo a firmar como testigo.
+- T862 · Día 47 · Llora al saber que el Parlamento de Marley ratificó el tratado.
