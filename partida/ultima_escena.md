@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T911)
-si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
-
-## RESPUESTA 1 (T911)
-
-> si, se queda, hasta que se agote mi energia y como sabran, es complicado eso
-
-> —Sí, se queda. Hasta que se me agote la energía. Y, como sabrán, eso es complicado.
-
-Ace se te queda mirando un segundo. Después se le escapa una carcajada corta, de incredulidad.
-
-—Complicado, dice. —Mira la cúpula de punta a punta, todos los barcos de su padre adentro—. Claro. Complicado.
-
-Marco se cruza de brazos en la baranda.
-
-—Entonces la Marina puede seguirnos hasta el fin del mundo, que no va a tocar ni una tabla, yoi. —Se le arquea una ceja—. Eso les va a doler más que perder la guerra.
-
-En la proa, Barbablanca se ríe tan fuerte que el Moby Dick entero se sacude, desde la quilla hasta la punta del mástil.
-
-—¡¡Gurararara!! —Golpea el bisento contra la cubierta—. ¡Vayan, mocosos! ¡Vayan a buscar a su gente! ¡Mi flota se cuida sola, y ahora tiene techo!
-
-Después baja la vista hacia Luffy. La risa se le apaga despacio en el bigote.
-
-—Sombrero de Paja. —Luffy levanta la cabeza—. Hoy te metiste en una guerra que no era tuya por tu hermano. Eso no se olvida en este barco. Ni yo, ni ninguno de mis hijos.
-
-Luffy lo mira serio un segundo. Después sonríe enorme.
-
-—¡Shishishi! ¡Gracias, viejo de bigote!
-
-A Barbablanca le tiembla el bigote. Toda la cubierta contiene el aire. Después se ríe otra vez.
-
-Ace se agacha delante de su hermano, le acomoda el sombrero de paja con las dos manos y se lo baja hasta los ojos.
-
-—Hazle caso a tu compañero, ¿oíste? Dos años. —Se endereza y te mira a ti—. Y tú, cuídamelo.
-
-Le da a Luffy un último empujón hacia ti.
-
-Luffy aterriza a tu lado de un salto, con el puño en alto, los ojos brillando y una pierna estirada para salir corriendo a ningún lado.
-
-—¡¡Vamos, Facundo!! ¡¿A quién vamos a ver primero?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 911 · ONE PIECE · DÍA 57 · 13:36       ║
-║ Mar abierto, frente a Marineford · Moby Dick ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Visitar a los ocho con Luffy. El   ║
-║ Bankai queda sobre la flota. Shingeki: D59.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T912)
+## COMANDO 1 (T912)
 eh vamos con zoro
 
-## RESPUESTA 2 (T912)
+## RESPUESTA 1 (T912)
 
 > eh vamos con zoro
 
@@ -123,10 +65,10 @@ Se le cae Wado de la boca.
 
 ---
 
-## COMANDO 3 (T913)
+## COMANDO 2 (T913)
 te esta costando unos monos zoro?
 
-## RESPUESTA 3 (T913)
+## RESPUESTA 2 (T913)
 
 > te esta costando unos monos zoro?
 
@@ -177,4 +119,66 @@ Arriba, entre las ramas, Perona se abraza las rodillas en el aire.
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:38, Kuraigana. Zoro, vendado, pide que no se metan con los Humandrills (copian su estilo). Luffy junto a él. Salieron 20 Humandrills más. Perona le pide a Facundo que haga algo. Facundo puede actuar.
+## COMANDO 3 (T914)
+esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
+
+## RESPUESTA 3 (T914)
+
+> esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
+
+> —Está bien. Pero después, que te dejen descansar un poco, que tenemos que decirte algo.
+
+Zoro ni se da vuelta. Levanta una mano por encima del hombro, una sola vez, y la baja.
+
+Después se lanza.
+
+El claro se llena de acero. Zoro entra en el medio del círculo de babuinos como un remolino de tres hojas, girando, cortando, empujando. Los primeros cuatro caen enseguida: uno con la armadura partida, otro con la espada rota, dos lanzados de espaldas contra los troncos. Luffy se sienta en una raíz a mirar, con las piernas cruzadas y las manos en los tobillos, gritando cada golpe como si fuera una pelea de feria.
+
+—¡Bien, Zoro! ¡Dale a ese! ¡No, a ese otro! ¡Shishishi!
+
+Perona baja un poco entre las ramas, sin dejar de morderse las uñas.
+
+Durante un minuto entero, Zoro va ganando. Caen seis, ocho, diez. Pero los que quedan de pie aprenden. Cada vez que Zoro hace algo, uno de los monos lo repite, un poco más torpe, pero lo repite. Y son muchos.
+
+Una venda del pecho se le suelta del todo y cae al piso, roja. Se le abre una herida vieja en el costado. Zoro respira cada vez más corto. Le tiemblan los brazos cuando para dos golpes a la vez. Se le escapa un pie en el barro.
+
+El babuino canoso de los dos sables espera. No se mete. Mira desde atrás, con los ojos chiquitos y atentos, cómo los demás lo cansan.
+
+Cuando Zoro se tambalea después de partir la armadura del duodécimo, el canoso se mueve.
+
+Entra en tres pasos largos, cruza los dos sables y corta en X, en el mismo ángulo y con la misma fuerza con que Zoro cortaba hace diez minutos.
+
+Zoro lo para con las tres espadas. El choque lo hace retroceder dos metros, arrastrando los pies por el barro. Se le dobla una rodilla. Cae sobre ella.
+
+Le gotea sangre de la frente, por debajo del pañuelo, y le entra en el ojo.
+
+Los catorce babuinos que quedan de pie lo rodean despacio, en círculo, con las espadas levantadas, todos en la misma guardia. El canoso levanta los dos sables por encima de la cabeza.
+
+Luffy deja de reírse. Se le borra la cara. Pone una mano en la raíz para pararse.
+
+—¡Zoro!
+
+—¡No! —Zoro escupe sangre, sin levantar la vista—. ¡No se metan!
+
+Arriba, Perona chilla, con las dos manos en la cara.
+
+—¡¡Lo van a matar!!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 914 · ONE PIECE · DÍA 57 · 13:41       ║
+║ Kuraigana · claro del bosque muerto          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:41, Kuraigana. Zoro, herido, cayó sobre una rodilla rodeado por 14 Humandrills; el jefe canoso levanta los dos sables sobre él. Zoro pide que no se metan. Luffy se para. Perona grita. Facundo puede actuar.
