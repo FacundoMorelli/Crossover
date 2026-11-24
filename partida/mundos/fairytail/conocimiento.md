@@ -15,3 +15,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Makarov, Natsu, Happy, Lucy, Gray, Erza y ~dos docenas de Fairy Tail · T999 · lo ven en persona: forastero de negro con un gato, de pie junto a Shadow Gear curado, con los grilletes arrancados en la mano; el tronco con los agujeros. No saben nada más.
 - Makarov y todo Fairy Tail presente · T1000 · su nombre: Facundo Morelli (él lo dijo); que encontró a Shadow Gear colgado. Levy le dijo a Lucy (y a todos los cercanos) que él los bajó y los curó con una semilla.
 - Makarov y el gremio · T1001 · Facundo dijo que no vio a quien los colgó.
+- Todo Fairy Tail presente · T1002 · Facundo va con ellos a Oak Town (él lo dijo; Makarov lo permitió).

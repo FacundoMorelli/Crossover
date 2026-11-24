@@ -3,89 +3,10 @@
 
 ---
 
-## COMANDO 1 (T999)
-me llamo facundo morelli, solo pasaba por acá
-
-## RESPUESTA 1 (T999)
-
-> me llamo facundo morelli, solo pasaba por acá
-
-> —Me llamo Facundo Morelli. Solo pasaba por aquí.
-
-Levy te mira un momento más. Después mira los trozos de hierro que tienes en la mano, y después el tronco, donde quedaron cuatro agujeros astillados del tamaño de un puño.
-
-—Solo pasabas —repite.
-
-Se sienta despacio, apoyando una mano en el pasto, como si esperara que algo le doliera. No le duele nada. Se palpa las costillas por encima del vestido roto, primero de un lado y después del otro.
-
-—Eso no es solo pasar. —Le sale media risa, cortada, temblorosa—. Ese hierro era de Gajeel. Lo vi hacerlo. Se le salía de los brazos.
-
-—¡Levy, no te levantes! —El flaco ya está de rodillas a su lado, con las manos en el aire, sin saber dónde ponerlas—. ¿Te duele algo? ¿La cabeza? ¡Te dio con...!
-
-—Jet. No me duele nada. —Se toca la boca otra vez—. Nada de nada. —Te mira—. ¿Qué era eso que nos diste? Yo leí sobre medicinas mágicas, y ninguna hace esto. Ni las de Porlyusica.
-
-El robusto se pone de pie de golpe, con los puños cerrados. Mueve el hombro, el que tenía salido, lo gira dos veces y se queda mirándolo con la boca abierta.
-
-—Mi hombro... —Se da vuelta hacia ti, desconfiado—. Oye. ¿Tú no eres de Phantom, no?
-
-—Droy —dice Levy.
-
-—¡Es que es raro! ¡Aparece de la nada, arranca el hierro de Gajeel con las manos y...!
-
-Kase lo mira desde tu hombro con los ojos entrecerrados, y Droy, sin saber por qué, se calla.
-
-Entonces se escuchan pasos. Muchos, corriendo por el sendero de piedra del lado de la ciudad, y una voz que grita antes de que se vea a nadie:
-
-—¡¿DÓNDE?! ¡¿DÓNDE ESTÁN?!
-
-Aparecen entre los árboles del parque. Un muchacho de pelo rosado con una bufanda blanca de escamas, al frente de todos, corriendo con los puños prendidos fuego. Detrás, un gato azul con alas blancas que vuela a la altura de su cabeza. Una chica rubia con un látigo y un llavero en la cintura. Un muchacho de pelo negro que no lleva camisa. Una mujer pelirroja con armadura, que no corre: avanza. Y más gente, una docena, dos docenas, todos con la misma marca en algún lugar del cuerpo.
-
-Al frente, más bajo que todos, un viejo de bigote blanco y capa, con un bastón en la mano.
-
-Se frenan en seco a diez metros del árbol.
-
-Ven el tronco con los agujeros. Ven los grilletes arrancados en el pasto. Ven a Levy sentada, a Jet arrodillado y a Droy de pie, los tres enteros, con la ropa rota y sin un rasguño.
-
-Y te ven a ti, en el medio, con los pedazos de hierro todavía en la mano.
-
-El fuego de los puños del muchacho de pelo rosado se apaga solo.
-
-╔════════════════════════════════════════╗
-║ MAKAROV DREYAR                         ║
-║ Maestro de Fairy Tail · Mago Santo     ║
-║ PODER: Titán, Magia de Luz,            ║
-║        Fairy Law                       ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x65 sobre él  ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-
-El viejo no mira a nadie más. Mira a Levy, después a Jet, después a Droy, uno por uno, de pies a cabeza. Después mira el emblema negro pintado en el vestido de Levy, y los nudillos se le ponen blancos alrededor del bastón.
-
-Por último, te mira a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 999 · FAIRY TAIL · X784 · DÍA 1 · 07:09║
-║ Magnolia · Parque de la Puerta Sur           ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1000)
+## COMANDO 1 (T1000)
 los encontre colgados, ya estan bien, me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1000)
+## RESPUESTA 1 (T1000)
 
 > los encontre colgados, ya estan bien, me llamo Facundo Morelli
 
@@ -139,10 +60,10 @@ Vuelve a mirarte a ti.
 
 ---
 
-## COMANDO 3 (T1001)
+## COMANDO 2 (T1001)
 no, cuando llegué ya estaban colgados
 
-## RESPUESTA 3 (T1001)
+## RESPUESTA 2 (T1001)
 
 > no, cuando llegué ya estaban colgados
 
@@ -196,4 +117,69 @@ Makarov, en el medio del ruido, se vuelve a mirarte. Por encima de su hombro se 
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:13, Parque de la Puerta Sur. Makarov declaró la guerra a Phantom Lord; el gremio quiere ir a Oak Town. Makarov le aconseja a Facundo irse de Magnolia unos días. Facundo puede responder.
+## COMANDO 3 (T1002)
+voy con ustedes a Oak Town
+
+## RESPUESTA 3 (T1002)
+
+> voy con ustedes a Oak Town
+
+> —Voy con ustedes a Oak Town.
+
+Makarov te mira sin decir nada.
+
+Detrás de él, el ruido del gremio baja un poco. Los que estaban cerca escucharon.
+
+—No es de Fairy Tail, maestro. —La mujer pelirroja da un paso adelante. No levanta la voz, y no le hace falta—. Es un asunto entre gremios. Si un mago sin gremio entra a la sede de Phantom con nosotros, el Consejo va a tener una excusa más.
+
+—¡¿Y eso qué importa?! —El de pelo rosado se le pone al lado de un salto, con el fuego todavía en los puños—. ¡Arrancó el hierro de ese tipo con las manos, Erza! ¡Con las manos! ¡Me cae bien!
+
+—Natsu.
+
+—¡Aye! —dice el gato, sin que nadie le haya preguntado.
+
+Makarov levanta una mano. Se hace silencio.
+
+Mira a Erza, después a Natsu y después a ti. Se queda mirándote un rato largo, con los labios apretados debajo del bigote. Después mira a Levy, de pie al lado de Lucy, entera.
+
+—Fairy Tail no le pide ayuda a nadie —dice al fin—. Nunca lo hizo. —Hace una pausa—. Pero tampoco le cierra la puerta a quien bajó a mis hijos de un árbol. —Se da vuelta, de espaldas a ti, hacia la salida del parque—. Haz lo que quieras, muchacho. Nadie aquí te va a dar órdenes. Pero adentro de Phantom no te voy a poder cuidar.
+
+—Maestro —dice Erza.
+
+—Ya está decidido, Erza.
+
+Erza te mira. Es una mirada corta, de pies a cabeza, como quien mide una espada antes de comprarla. No dice nada más.
+
+—¡Yo también voy! —Levy se suelta del brazo de Lucy—. ¡Estoy bien, maestro! ¡Me curó!
+
+—¡Y nosotros! —gritan Jet y Droy a la vez.
+
+—Ustedes tres se quedan. —Makarov ni se da vuelta—. Anoche estaban colgados de un árbol. Hoy descansan. —Gira apenas la cabeza—. Lucy, quédate con ellos.
+
+Lucy abre la boca para decir algo. La cierra. Asiente.
+
+—Sí, maestro.
+
+El gremio empieza a moverse, una marea de gente con marcas en los brazos, en los hombros, en el pecho, saliendo del parque hacia la estación. Natsu no se mueve. Se queda delante de ti, con los brazos cruzados y una sonrisa enorme, de dientes afilados, y el gato azul se le posa en la cabeza.
+
+—Oye, tú. Facundo. —Te señala con el pulgar—. ¿Eres fuerte?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1002 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 07:15 · Magnolia · Parque de la Puerta Sur   ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 07:15, Parque de la Puerta Sur. Makarov deja que Facundo vaya a Oak Town. Lucy se queda con Shadow Gear. El gremio sale a la estación. Natsu le pregunta a Facundo si es fuerte. Facundo puede responder.
