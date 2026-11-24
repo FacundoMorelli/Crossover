@@ -16,3 +16,4 @@ ESTADO: activo
 - T729 · Se calma. "Iceburg siempre fue el listo." "¿Qué hacemos?"
 - T730 · "¡Cuenten conmigo!" (Enies Lobby: donde condenaron a Tom.) Luffy lo quiere de carpintero.
 - T731 · No se une ("no me subo al barco de un pirata cualquiera"). Toca el Merry: "Se está muriendo, pero no quiere morirse todavía." Lo refuerza gratis esta tarde.
+- T732 · Refuerza el Merry todo el día con Usopp.
