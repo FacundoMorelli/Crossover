@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T822)
-le doy un beso y me despido de todos y voy a shingeki
-
-## RESPUESTA 1 (T822)
-
-> le doy un beso y me despido de todos y voy a shingeki
-
-Le das un beso a Robin en la biblioteca, largo, con el libro de Paradis apretado entre los dos. Ella te acomoda el cuello de la camisa limpia, como si fueras a salir a hacer un mandado.
-
-—Ve.
-
-Bajan juntos a la cubierta. La tripulación entera está ahí, cargando el tesoro de Moria en cajones. Cuando te ven, dejan todo.
-
-Te despides de cada uno. Luffy te da un abrazo de goma que te envuelve tres veces y después te suelta como un resorte.
-
-—¡Vuelve rápido! ¡Y tráeme carne de donde vayas!
-
-Nami te pone en la mano una bolsa chica de monedas de oro: un tercio de tu parte, dice, el resto lo guarda ella. Zoro levanta la mano desde el mástil, sin abrir los ojos. Sanji te da un paquete envuelto en papel: comida para el viaje, y para el gato. Usopp te abraza llorando y dice que no llora. Chopper se te cuelga de la pierna. Franky hace la pose. Brook se quita el sombrero.
-
-—¡Yohohoho! ¡Que tenga buen viaje! ¡Aunque no sé adónde va!
-
-Lola y los Piratas Rolling, en el muelle, levantan las jarras.
-
-Te paras en el medio del césped, con Kase en el hombro. Abres la mano en el aire.
-
-Se abre una puerta: un óvalo de luz blanca y azul, alto como una persona, con los bordes temblando como agua. Del otro lado no se ve nada, solo luz.
-
-Toda la tripulación se queda con la boca abierta. Menos Robin, que te mira desde la baranda de la biblioteca, con el libro contra el pecho y una sonrisa tranquila.
-
-Cruzas.
-
-...
-
-Del otro lado hace frío.
-
-Es la hora gris antes del amanecer. Estás de pie sobre piedra blanca, en la escalinata ancha del palacio real de Mitras. Arriba, los faroles de gas todavía están encendidos, pálidos contra un cielo que empieza a aclarar. Huele a piedra mojada, a pan recién horneado de alguna cocina lejana y a caballo.
-
-Detrás de las murallas interiores, el cielo se tiñe de rosa sobre Wall Sina.
-
-Kase se sacude en tu hombro, estornuda y mira alrededor.
-
-Los dos guardias de la Policía Militar que custodian la puerta del palacio dan un salto atrás con los rifles a medio levantar. Te ven el pelo de dos colores, la cicatriz y el gato. Se miran entre ellos y bajan los rifles despacio. Uno se lleva el puño derecho al pecho, en el saludo de los soldados.
-
-—E-es el aliado de la reina. —Le tiembla la voz—. Orden del comandante supremo. Bienvenido, señor.
-
-El otro sale corriendo escaleras arriba, hacia adentro, a avisar a alguien.
-
-Por la posición del sol y los faroles todavía encendidos, sabes que no pasaron pocos días. Pasaron semanas.
-
-Arriba, en el ala este del palacio, en una ventana alta del piso de la reina, se abre un postigo de madera.
-
-Una chica pecosa, de pelo castaño desordenado y ojos filosos, se asoma en camisón con una manta sobre los hombros y una manzana a medio comer en la mano. Te mira desde allá arriba. Mastica.
-
-Sonríe de costado.
-
-—Mira quién volvió. —Lo dice fuerte, para que la oigas desde abajo—. El lindo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 822 · SHINGEKI · DÍA 35 · 05:58        ║
-║ Mitras · escalinata del palacio real         ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
-║ Preparar la comitiva de Historia.            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T823)
+## COMANDO 1 (T823)
 volvi vivo linda
 
-## RESPUESTA 2 (T823)
+## RESPUESTA 1 (T823)
 
 > volvi vivo linda
 
@@ -127,10 +53,10 @@ Tiene las mejillas todavía rojas. Los pies descalzos, sobre la piedra fría, se
 
 ---
 
-## COMANDO 3 (T824)
+## COMANDO 2 (T824)
 le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
 
-## RESPUESTA 3 (T824)
+## RESPUESTA 2 (T824)
 
 > le sonrio, me acerco, le agarro de la cintura, ahora si o todavia no?
 
@@ -185,4 +111,66 @@ Ymir te suelta la camisa como si quemara, da un paso atrás, se acomoda el abrig
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 35 06:02, escalinata del palacio. Ymir besó a Facundo ("Eso era el «después hablamos»... No te acostumbres, lindo"); pareja en Shingeki (empezando, R9). Historia la llama desde la puerta del palacio: "¡Dicen que volvió!". Ymir se acomoda a las apuradas.
+## COMANDO 3 (T825)
+subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
+
+## RESPUESTA 3 (T825)
+
+> subo y saludo a historia, hola reina, quiere contarme que pasaron estos dias que no estuve?
+
+Subes la escalinata con Ymir dos pasos detrás, que finge que no viene contigo.
+
+En la puerta del palacio está Historia, en bata blanca, con el pelo rubio suelto y despeinado y la cara todavía marcada por la almohada. Cuando te ve, se le ilumina toda la cara.
+
+> —Hola, reina. ¿Quiere contarme qué pasó estos días que no estuve?
+
+—¡Volviste! —No contesta la pregunta. Baja dos escalones corriendo y te abraza por la cintura, fuerte, un segundo. Después ve a Kase en tu hombro—. ¡Y él también!
+
+Kase se deja bajar a sus brazos sin protestar. Historia lo aprieta contra el pecho y hunde la cara en el pelo blanco y azul. Kase cierra los ojos y ronronea.
+
+—Vengan, vengan. Hace frío. —Se da vuelta hacia Ymir y frunce el ceño—. Estás descalza. Y tienes la cara roja.
+
+—Es el frío —dice Ymir.
+
+—Ajá.
+
+Los lleva por un pasillo largo, de alfombras gastadas, hasta un salón chico del ala este con una chimenea encendida. Una criada trae té y pan caliente sin que nadie lo pida. Historia se sienta en un sillón con Kase en el regazo y te señala el de enfrente. Ymir se queda apoyada en el marco de la puerta, con otra manzana que sacó de algún lado.
+
+Historia se acomoda la bata y se pone seria, como una reina de verdad.
+
+—Bueno. Desde que te fuiste... —Cuenta con los dedos, sobre el lomo de Kase—. La comitiva está lista. Vamos yo, Ymir, el comandante Erwin, el capitán Levi, la líder de escuadra Hange, Mikasa y Eren. Armin pidió ir también; Erwin todavía no le contestó. El comandante supremo Zackly y Pixis se quedan, por si pasa algo.
+
+Toma un sorbo de té.
+
+—Hange fue tres veces al tramo de muralla que borraste. Dice que no queda nada. Ni piedra, ni hueso, ni vapor. Está obsesionada. Escribió un cuaderno entero.
+
+Hace una pausa más larga. Mira el fuego.
+
+—Eren entrena todos los días con el capitán Levi. Pero está... raro. Más callado. Mikasa dice que se despierta de noche, que tiene sueños. —Baja la voz—. Le dijo a Armin que sueña con cosas que no vivió.
+
+Ymir, desde la puerta, deja de masticar un segundo.
+
+—Zeke sigue preso en Trost. —Historia vuelve a mirarte—. Pregunta por ti cada semana. Siempre lo mismo: «¿Volvió el del gato?». Y del mar no llegó nada. Ni un barco de Marley.
+
+Deja la taza en la mesa. Acaricia a Kase, despacio.
+
+—Faltan cinco días para la fiesta. —Te mira a los ojos, con algo de miedo que intenta esconder—. ¿Vamos a llegar a tiempo? ¿Cómo vamos a ir hasta Liberio?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 825 · SHINGEKI · DÍA 35 · 06:10        ║
+║ Mitras · palacio, salón del ala de la reina  ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el regazo de Historia               ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Fiesta Tybur en 5 días (día 40).   ║
+║ Preparar la comitiva de Historia.            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 35 06:10, salón chico del ala de la reina, con chimenea y té. Historia le contó lo que pasó (comitiva lista; Eren con sueños; Zeke pregunta por él; Hange obsesionada con el tramo borrado). Pregunta si van a llegar a tiempo y cómo van a ir a Liberio. Ymir en la puerta con una manzana. Kase en el regazo de Historia.

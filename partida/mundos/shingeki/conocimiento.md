@@ -128,3 +128,4 @@
 - Historia, Ymir, Erwin, Zackly, Pixis, Hange · T580 · Ven a Facundo abrir una puerta de luz e irse.
 - Guardias de la Policía Militar del palacio, Ymir · T822 · Ven a Facundo y al gato salir de una puerta de luz en la escalinata del palacio.
 - Guardia de la Policía Militar de la escalinata · T824 · Vio (de reojo) a Ymir besar a Facundo.
+- Facundo · T825 · Por Historia: la comitiva (Historia, Ymir, Erwin, Levi, Hange, Mikasa, Eren; Armin pidió ir) está lista; Zackly y Pixis se quedan; el tramo de muralla destruido no dejó restos; Eren tiene sueños raros "de cosas que no vivió"; Zeke pregunta por Facundo cada semana; ningún barco de Marley a la vista.

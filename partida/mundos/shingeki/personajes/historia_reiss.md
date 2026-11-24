@@ -17,3 +17,4 @@ ESTADO: activo
 - T570 · Acepta viajar a Marley y firmar sin dudar: "Si una firma mía vale más que esas murallas, firmo mil veces."
 - T571 · Le ofrece a Facundo el cuarto de huéspedes del ala este.
 - T577 · "Te esperamos."
+- T825 · Abraza a Facundo y a Kase. Le cuenta los días 11-35: comitiva lista; Eren con sueños raros; Zeke pregunta por él cada semana. Pregunta cómo van a llegar a Liberio.

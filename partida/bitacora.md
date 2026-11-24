@@ -823,3 +823,4 @@ T821 · One Piece · Sunny · Dos horas abrazado a Robin en la biblioteca. "Vete
 T822 · One Piece → Shingeki · Se despide de Robin y la tripulación; cruza la puerta. Llega a Mitras, día 35 tras Shiganshina, 05:58.
 T823 · Shingeki · Mitras · "Volví vivo, linda." Ymir baja descalza: "Veinticuatro días. Los conté."
 T824 · Shingeki · Mitras · "¿Ahora sí?" Ymir lo besa. Historia la llama desde la puerta.
+T825 · Shingeki · Mitras · Historia le cuenta lo que pasó en su ausencia.
