@@ -22,3 +22,4 @@ ESTADO: activo
 - T960 · Carla: "Ven aquí, hija." Va.
 - T963 · Mira a Facundo pidiéndole ayuda con los ojos.
 - T964 · Le inclina la cabeza a Facundo en agradecimiento.
+- T965 · Confirma el año; a Carla, de la mano: "Él lo hizo. Todo. Fue él."

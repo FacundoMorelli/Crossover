@@ -194,3 +194,4 @@
 - Carla Jaeger · T960 · Ve a Facundo (desconocido, pelo blanco y azul, gato) llegar de la nada con Eren, Mikasa y Armin.
 - Carla, Grisha · T961 · Por Facundo: "Ahora les explico todo." (nada todavía).
 - Grisha, Carla, Mikasa, Eren · T964 · Por Facundo: "No hubo Retumbar. Nadie usó el Titán Fundador." Grisha nota que Facundo conoce la palabra "Retumbar" (no insiste). Por Eren: ya no hay titanes.
+- Carla y Grisha Jaeger · T965 · Por Facundo: su nombre; año 850. Por Mikasa: Facundo hizo todo (revivirlos, reconstruir, quitar los titanes). Por Eren: los tres en la Legión.

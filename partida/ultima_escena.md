@@ -3,55 +3,10 @@
 
 ---
 
-## COMANDO 1 (T962)
-si
-
-## RESPUESTA 1 (T962)
-
-> si
-
-> —Sí.
-
-Armin se queda mirándote un segundo, como si no pudiera creer que la respuesta fuera tan corta.
-
-Después te agarra del brazo con las dos manos. Fuerte. Le tiemblan los dedos.
-
-—Por favor. —Se seca la cara con la manga, rápido, sin soltarte con la otra mano—. Es bajito, más bajo que yo. Pelo blanco, poco, peinado para atrás. Usa un chaleco marrón con un botón que no es del mismo color que los otros. Se lo cosió él. —Se le escapa una risa rota—. Huele a tabaco de pipa y a libros viejos. Se llama...
-
-Se detiene. Traga.
-
-—Se llama igual que siempre. Abuelo.
-
-En el escalón, a sus espaldas, Eren se levantó despacio, sin soltar la mano de su madre. Está de pie, a dos pasos de su padre, en la piedra fría de la calle. Ninguno de los dos habla. Grisha tiene los ojos llenos detrás de los anteojos torcidos. Eren tiene los puños cerrados.
-
-Carla los mira a los dos. A uno y al otro. Frunce el ceño, apenas, como quien no entiende por qué el hijo que acaba de recuperar mira así al padre.
-
-Mikasa se pone al lado de Eren. No le agarra la mano. Solo se queda cerca.
-
-Armin no ve nada de eso. Solo te mira a ti, con las dos manos en tu brazo.
-
-—¿Vamos? —susurra.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 962 · SHINGEKI · DÍA 63 · 05:24        ║
-║ Shiganshina · la casa de los Jaeger          ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Encontrar al abuelo de Armin.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T963)
+## COMANDO 1 (T963)
 si, me teletransporto con armin con su abuelo, cuando llegamos le digo: armin, voy a volver con eren, quiero ver que pasa y poder ayudar a eren en ese momento
 
-## RESPUESTA 2 (T963)
+## RESPUESTA 1 (T963)
 
 > si, me teletransporto con armin con su abuelo, cuando llegamos le digo: armin, voy a volver con eren, quiero ver que pasa y poder ayudar a eren en ese momento
 
@@ -126,10 +81,10 @@ Mikasa te ve llegar. Te mira a ti, sin decir nada. Pidiéndote algo con los ojos
 
 ---
 
-## COMANDO 3 (T964)
+## COMANDO 2 (T964)
 le toco el hombro a eren, no paso nada, no hubo retumbar, nadie uso el titan fundador
 
-## RESPUESTA 3 (T964)
+## RESPUESTA 2 (T964)
 
 > le toco el hombro a eren, no paso nada, no hubo retumbar, nadie uso el titan fundador
 
@@ -188,4 +143,68 @@ Se da vuelta hacia ti. Se seca los ojos con el delantal.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:31, Shiganshina, calle de los Jaeger. Facundo cubrió a Eren ante Grisha (no hubo Retumbar, nadie usó el Fundador). Eren y Grisha se abrazan llorando. Carla pide la explicación: quién es Facundo y qué día es. Facundo puede responder.
+## COMANDO 3 (T965)
+me llamo Facundo Morelli, el año 850, no mikasa?
+
+## RESPUESTA 3 (T965)
+
+> me llamo Facundo Morelli, el año 850, no mikasa?
+
+> —Me llamo Facundo Morelli. Es el año 850. ¿No, Mikasa?
+
+Mikasa baja la bufanda de la boca. Mira a Carla. Tarda un segundo en hablar, como si las palabras le pesaran.
+
+—Sí. Año 850. —Lo dice bajo, con esa voz tranquila de siempre, pero le tiembla al final—. Pasaron cinco años, Carla. Desde el día que cayó la muralla.
+
+Carla se queda inmóvil.
+
+—Cinco años —repite.
+
+Se da vuelta hacia Eren, que sigue abrazado a su padre en el medio de la calle. Lo mira de nuevo. Los hombros anchos. La altura. El pelo largo. Las cicatrices que no tenía. La cara de alguien que vio cosas que un chico no debería ver.
+
+Se lleva una mano a la boca.
+
+—Tenía diez años —dice, casi sin voz—. Ayer tenía diez años.
+
+Grisha levanta la cabeza del hombro de Eren. Tiene la cara mojada. Mira a su mujer. Después a Mikasa.
+
+—Cinco años... —murmura—. ¿Y ustedes? ¿Qué hicieron todo este tiempo?
+
+Mikasa duda. Mira a Eren. Eren se separa despacio de su padre y se seca la cara con la manga, rápido, como un chico.
+
+—Nos alistamos —dice Eren, ronco—. Los tres. Armin también. En la Legión de Reconocimiento.
+
+Carla cierra los ojos. Respira hondo. No dice nada de eso. No todavía. Se le nota en la cara que va a decir mucho después.
+
+Después abre los ojos y te mira a ti otra vez. De arriba abajo. El sobretodo negro, los tatuajes que asoman en el cuello, la cicatriz del ojo, el gato.
+
+—Facundo Morelli. —Dice tu nombre despacio, como para aprendérselo—. Y usted, ¿qué tiene que ver con todo esto?
+
+Antes de que nadie conteste, Mikasa da un paso hacia Carla. Le toma la mano.
+
+—Él lo hizo —dice, muy bajo—. Todo. Que estés aquí. Que la casa esté entera. Que no haya más titanes. —Le aprieta la mano—. Fue él.
+
+Carla se queda mirándote.
+
+Grisha también.
+
+En la calle, a lo lejos, se oyen cascos de caballos acercándose al trote por el empedrado. Muchos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 965 · SHINGEKI · DÍA 63 · 05:34        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Los Jaeger saben quién fue. Llega  ║
+║ la Legión a caballo.                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:34, Shiganshina, calle de los Jaeger. Facundo se presentó; año 850, cinco años desde la caída. Eren contó que los tres se alistaron en la Legión. Carla preguntó qué tiene que ver Facundo; Mikasa: "Él lo hizo. Todo." Carla y Grisha lo miran. Se acercan muchos caballos. Facundo puede responder/actuar.

@@ -9,9 +9,10 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T960 · Día 63 05:20 · Revivida (segundo deseo) en su casa de Shiganshina, reconstruida. Reconoce a Eren: "¿Eren? Estás enorme." A Mikasa: "Ven aquí, hija."
 DIÁLOGOS CLAVE: ver encuentros.
-QUÉ SABE DE FACUNDO: nada (lo ve llegar de la nada con Eren, Mikasa y Armin).
+QUÉ SABE DE FACUNDO: se llama Facundo Morelli (T965); por Mikasa, él hizo todo (revivirla, la casa, el fin de los titanes).
 QUÉ PODERES DE FACUNDO VIO: aparición de la nada.
 ESTADO: viva (revivida T958).
 - T961 · Facundo: "Ahora les explico todo. Nada más disfruten." Asiente sin preguntar.
 - T962 · No entiende por qué Eren mira así a su padre.
 - T964 · "Joven. Dijo que nos iba a explicar todo. Creo que ya es hora. ¿Quién es usted? ¿Y qué día es hoy?"
+- T965 · Por Facundo y Mikasa: año 850, cinco años. "Ayer tenía diez años." Por Eren: los tres en la Legión (calla). "¿Usted qué tiene que ver con todo esto?" Por Mikasa: "Él lo hizo. Todo."

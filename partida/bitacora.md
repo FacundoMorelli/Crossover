@@ -963,3 +963,4 @@ T961 · Shingeki · Shiganshina · "Nada más disfruten." Grisha ve a Eren. "Arm
 T962 · Shingeki · Shiganshina · "Sí." Armin describe a su abuelo. "¿Vamos?" Eren frente a Grisha.
 T963 · Shingeki · Shiganshina · Armin encuentra a su abuelo junto al canal. Facundo vuelve con Eren: Grisha pregunta qué pasó en la cueva. Eren no puede hablar.
 T964 · Shingeki · Shiganshina · "No hubo Retumbar. Nadie usó el Fundador." Eren y Grisha se abrazan. Carla: "¿Quién es usted? ¿Qué día es hoy?"
+T965 · Shingeki · Shiganshina · "Me llamo Facundo Morelli. Año 850." Cinco años. Mikasa a Carla: "Él lo hizo. Todo." Llegan caballos.
