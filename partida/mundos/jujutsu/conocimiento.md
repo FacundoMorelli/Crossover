@@ -97,3 +97,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nanami, Megumi, Yuji, Nobara · T981 · Por Facundo: pregunta si los revividos deben volver con la edad que tendrían; acuerdan que sí.
 - Nanami, Megumi, Yuji, Nobara · T984 · Por Facundo: puede pedir tres cosas.
 - Facundo · T984 · Por Nobara: Saori, su amiga del pueblo, se fue a Tokio y no supo más de ella.
+- Facundo · T985 · Por Nobara: descripción de Saori Fujinuma.
+- Nobara, Yuji, Megumi, Nanami · T985 · Por Facundo: puede encontrar a alguien sin un deseo.

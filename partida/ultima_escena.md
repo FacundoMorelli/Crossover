@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T982)
-la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
-
-## RESPUESTA 1 (T982)
-
-> la verdad no estoy seguro, capaz recuerdan el instante anterior, pero lo puedo cambiar, diganme tambien que prefieren en eso, que recuerden o que no?
-
-> —La verdad, no estoy seguro. Capaz que recuerdan el instante anterior. Pero lo puedo cambiar. Díganme también qué prefieren en eso: ¿que recuerden o que no?
-
-Yuji apaga el fuego. Se queda con la espátula en la mano, mirando el huevo quemado.
-
-—Junpei... —dice, bajito—. Mahito le cambió la forma del cuerpo. Delante de mí. —Traga—. No quiero que se acuerde de eso. No quiero que se despierte con eso.
-
-Megumi tarda en hablar. Se mira las manos sobre la mesa.
-
-—A Tsumiki la usó una de esas cosas del Juego. Le quitó el cuerpo. —Aprieta los dedos—. Y después Sukuna la mató. Con mis manos. —La voz le sale plana, controlada, y por eso duele más—. No quiero que se acuerde de ninguna de las dos cosas. Nunca.
-
-Nanami se cruza el brazo sobre el pecho, sobre la manga vacía.
-
-—Haibara murió partido al medio por una maldición que nadie había evaluado bien —dice, sin cambiar la voz—. Yo lo vi en la mesa de la morgue. —Pausa—. No hay ninguna razón para que él cargue con eso. Ya lo cargo yo.
-
-Nobara está apoyada en la mesada, con los brazos cruzados, mirando el piso.
-
-—Gojo-sensei —dice, y se le escapa media sonrisa amarga—. Ese idiota va a querer saber cómo perdió. Para quejarse. Para decir que no fue justo y que la próxima le gana. —Se le humedecen los ojos y se enoja con ellos—. Pero tampoco necesita acordarse de cómo se sintió.
-
-Nanami asiente.
-
-—Entonces —dice, despacio, como quien redacta un acuerdo—: que sepan que murieron. Que alguien se lo pueda explicar, que no se despierten creyendo que fue un sueño, porque eso sería peor. Pero sin el recuerdo del momento. Ni el dolor. Ni el miedo. —Te mira—. Que se despierten como quien se despierta de una siesta larga, y que alguien esté ahí para contarles.
-
-Yuji asiente rápido, varias veces. Megumi también, una sola vez. Nobara resopla, que en ella también es un sí.
-
-Después Nobara se despega de la mesada, agarra un plato y le arrebata a Yuji la espátula.
-
-—Bueno. Basta. —Raspa el huevo quemado de la sartén, enojada, con la nariz roja—. Basta de muertos en el desayuno. Es jueves, son las siete de la mañana y Fushiguro tiene hambre.
-
-Te pone el plato con el huevo quemado delante, en la mesa, sin ceremonia.
-
-—Tú, el que revive gente. —Te señala con la espátula—. ¿Te comes un huevo quemado, o eres demasiado importante para eso?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 982 · JUJUTSU · 25/04/2019 · 07:08     ║
-║ Escuela de Tokio · cocina de los dormitorios ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, junto al diario            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Acordado: sabrán que murieron,     ║
-║ sin recordar el momento. Desayuno.           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T983)
+## COMANDO 1 (T983)
 yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
 
-## RESPUESTA 2 (T983)
+## RESPUESTA 1 (T983)
 
 > yo lo como, sigue habiendo ciudades destruidas? tambien puedo reparar eso, para que la gente que reviva pueda tener su hogar al que volver
 
@@ -107,10 +51,10 @@ Se queda callado un momento, con la mano sobre el diario. Después te mira, con 
 
 ---
 
-## COMANDO 3 (T984)
+## COMANDO 2 (T984)
 puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
 
-## RESPUESTA 3 (T984)
+## RESPUESTA 2 (T984)
 
 > puedo pedirle 3, pero lo de los muertos, la edad y que sepan que murieron puede ser 1 solo bien pedido y el reconstruir el segundo, y el tercero, hay algo mas que quieran que no se pueda hacer normalemente?
 
@@ -170,4 +114,52 @@ Se da vuelta hacia la sartén. Rompe otro huevo, con más fuerza de la necesaria
 
 ---
 
-ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:16, cocina. Facundo explicó los tres deseos (1: muertos con edad y sin recuerdo; 2: reconstrucción; 3: abierto). Ideas: Nanami rechaza recuperar su brazo; Megumi descarta borrar maldiciones; Yuji propone que no puedan matar a gente común (Nanami: "no sería tan malo"); Nobara menciona a Saori y dice "olvídalo". Facundo puede responder.
+## COMANDO 3 (T985)
+para eso no es necesario un deseo, me dices mas o menos como es ella?
+
+## RESPUESTA 3 (T985)
+
+> para eso no es necesario un deseo, me dices mas o menos como es ella?
+
+> —Para eso no hace falta un deseo. ¿Me dices más o menos cómo es ella?
+
+Nobara se queda quieta con la espátula sobre la sartén.
+
+Se da vuelta despacio. Te mira con los ojos entrecerrados, como si esperara que fuera una broma.
+
+—¿No hace falta un deseo? —repite—. Tokio tiene catorce millones de personas.
+
+Nadie le contesta. Yuji está sonriendo de oreja a oreja. Megumi la mira por encima del plato, sin decir nada. Nanami toma un sorbo de café, como si fuera lo más normal del mundo.
+
+Nobara se muerde el labio. El huevo empieza a quemarse en la sartén. Esta vez Yuji se lo saca de la mano y apaga el fuego.
+
+—Saori. Saori Fujinuma. —Lo dice rápido, como si le diera vergüenza—. Era unos años más grande que yo. Ahora tendría... veinte, veintiuno. Pelo largo, castaño, liso, siempre atado atrás con una cinta. Tenía una sonrisa... —Se interrumpe. Mira el piso—. Una sonrisa que no le tenía miedo a nada. Aunque en el pueblo la trataban como si fuera una enfermedad. Se reía igual.
+
+Se cruza de brazos, fuerte.
+
+—Usaba unos aros chiquitos, de plata. Le gustaba la ropa de la ciudad. Me prestaba revistas. —Se le quiebra apenas la voz, y la endereza de golpe—. Y tenía un lunar acá. —Se toca debajo del ojo izquierdo con un dedo—. Chiquito.
+
+Se queda callada.
+
+Después te mira. Y por primera vez en toda la mañana no tiene cara de enojada, ni de desconfiada, ni de dura. Tiene cara de chica de pueblo.
+
+—¿La puedes encontrar? —Casi no le sale la voz—. ¿De verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 985 · JUJUTSU · 25/04/2019 · 07:19     ║
+║ Escuela de Tokio · cocina de los dormitorios ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.495 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, junto al diario            ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Encontrar a Saori Fujinuma para    ║
+║ Nobara.                                      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Jujutsu, 25/04/2019 07:19, cocina. Facundo ofreció encontrar a Saori sin deseo. Nobara la describió (Saori Fujinuma, ~20-21, pelo largo castaño con cinta, aros de plata, lunar bajo el ojo izquierdo) y pregunta si de verdad puede encontrarla. Facundo puede actuar.
