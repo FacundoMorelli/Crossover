@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1005)
-Facundo Morelli, ya la vas a ver
-
-## RESPUESTA 1 (T1005)
-
-> Facundo Morelli, ya la vas a ver
-
-> —Facundo Morelli. Ya la vas a ver.
-
-Erza no contesta enseguida.
-
-Te sostiene la mirada. Por la ventana pasan los últimos techos de Magnolia, después un puente de piedra sobre el río y después campo abierto, verde, con molinos a lo lejos. El vagón se sacude en una curva. Ella no se mueve ni un centímetro.
-
-—Está bien —dice al fin—. Entonces la voy a ver.
-
-No suena ofendida. Suena como alguien que acaba de anotar algo en una lista.
-
-—Pero escucha lo que te voy a decir, porque no lo voy a repetir. —Se inclina un poco hacia adelante—. Phantom Lord es el gremio más grande de Fiore. Su maestro, Jose Porla, es uno de los Diez Magos Santos, igual que el nuestro. Tiene cuatro magos a los que llaman los Element 4: agua, fuego, tierra y viento. Y tiene a Gajeel, el que colgó a Levy. Dicen que es el más fuerte de todos ellos.
-
-Hace una pausa.
-
-—Cuando entremos, va a ser un caos. Nadie va a tener tiempo de cuidar a nadie. Si te caes, te levantas solo. Si alguien de los nuestros cae cerca tuyo... —No termina la frase. Te mira—. Bajaste a Levy de ese árbol. Supongo que no hace falta que te lo pida.
-
-Se endereza otra vez en el asiento.
-
-Durante un rato, solo se escucha el traqueteo del tren.
-
-Kase se baja de tu hombro. Lo hace despacio, como hace todo: pisa tu rodilla, después el asiento de madera, y se sienta en el medio del compartimento, sobre el piso, mirando a Erza. Mueve la cola una vez, de un lado al otro.
-
-Erza baja la vista hacia él.
-
-Algo le pasa en la cara. Es muy poco, casi nada: se le aflojan un poco los hombros debajo de la armadura y la boca le cambia de forma, como si fuera a sonreír y se lo prohibiera.
-
-—Es muy grande para ser un gato —dice, en otro tono.
-
-Kase la sigue mirando.
-
-—¿Cómo se llama?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1005 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 07:40 · Tren Magnolia–Oak Town               ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.495 · 0 jewel                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el piso, mirando a Erza             ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Ir con Fairy Tail a Oak Town       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1006)
+## COMANDO 1 (T1006)
 se llama Kase
 
-## RESPUESTA 2 (T1006)
+## RESPUESTA 1 (T1006)
 
 > se llama Kase
 
@@ -117,10 +60,10 @@ Erza se pone de pie. La armadura suena.
 
 ---
 
-## COMANDO 3 (T1007)
+## COMANDO 2 (T1007)
 bajo del tren y voy con ellos a la sede de Phantom
 
-## RESPUESTA 3 (T1007)
+## RESPUESTA 2 (T1007)
 
 > bajo del tren y voy con ellos a la sede de Phantom
 
@@ -182,4 +125,72 @@ Desde lo alto del salón, sentado en una viga del techo con las piernas colgando
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:05, salón de Phantom Lord en plena batalla. Un mago de Phantom con un hacha de luz verde carga contra Facundo. Gajeel mira desde una viga. Facundo puede actuar.
+## COMANDO 3 (T1008)
+le paro el hacha con una mano y lo tumbo
+
+## RESPUESTA 3 (T1008)
+
+> le paro el hacha con una mano y lo tumbo
+
+El hacha baja con todo el peso del tipo detrás, envuelta en luz verde, directo a tu cabeza.
+
+Levantas una mano y la agarras por el filo.
+
+El golpe se frena en seco, a un palmo de tu cara, como si hubiera chocado contra una pared. La luz verde chisporrotea contra tu palma, se retuerce, intenta morder y no puede. No te corta. No te mueve. Ni siquiera te dobla el codo.
+
+El tipo se queda con los dos brazos estirados y la boca abierta, empujando con todo. Le tiemblan los hombros. Le sale una vena en la frente.
+
+—¿Q-qué...?
+
+Le apoyas la otra mano en el pecho y empujas. Apenas.
+
+Sale volando para atrás, como si lo hubiera atropellado un carro. Atraviesa una mesa, se lleva por delante a dos de los suyos y termina contra una columna de piedra, sentado en el piso, con los ojos en blanco. El hacha se queda en tu mano. La luz verde se apaga sola.
+
+La tiras al piso.
+
+[Rival vencido: mago de Phantom Lord. +30 EXP · +1 Fragmento.]
+
+Alrededor tuyo, por un segundo, la pelea se afloja. Tres magos de Phantom que venían en tu dirección se frenan y se miran entre ellos. Uno de Fairy Tail, un tipo fornido de pelo blanco que tenía agarrados a dos enemigos del cuello, se queda mirándote con la boca abierta.
+
+—¡Eso es de hombres! —grita.
+
+Arriba, en la viga, el de los piercings deja de reírse.
+
+Deja de masticar. Se inclina hacia adelante, apoyado en las rodillas, y te mira. Una mirada larga y roja, de animal que acaba de encontrar algo más interesante que lo que tenía en el plato.
+
+Después se deja caer.
+
+Cae desde quince metros sin abrir los brazos y aterriza delante de ti con un golpe que raja las baldosas. No se le doblan las rodillas. Se endereza despacio, sacudiéndose el polvo del hombro, y sonríe con todos los dientes.
+
+╔════════════════════════════════════════╗
+║ GAJEEL REDFOX                          ║
+║ Mago de Phantom Lord                   ║
+║ PODER: Dragon Slayer de hierro         ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x100 sobre él ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+—Gihi. —Te mira de arriba abajo. Mira la mano con la que agarraste el hacha, sin un corte—. Tú no tienes marca. —Ladea la cabeza—. ¿Y entonces qué carajo eres, eh?
+
+Kase le bufa desde tu hombro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1008 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:06 · Oak Town · sede de Phantom Lord      ║
+║ NIVEL 27 · EXP 222.770/240.000               ║
+║ FRAGMENTOS 107.496 · 0 jewel                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, bufando                  ║
+║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
+║ siga en pie al terminar la guerra            ║
+║ OBJETIVO: La guerra contra Phantom           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:06, salón de Phantom. Facundo tumbó al del hacha. Gajeel bajó de la viga y le pregunta qué es. Facundo puede actuar.

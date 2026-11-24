@@ -1,13 +1,13 @@
 {
-  "turno": 1007,
+  "turno": 1008,
   "mundo_actual": "fairytail",
   "fecha_local": "X784, julio · Día 1",
-  "hora": "09:05",
+  "hora": "09:06",
   "edad": 18,
   "nivel": 27,
-  "exp": 222740,
+  "exp": 222770,
   "exp_siguiente_nivel": 240000,
-  "fragmentos": 107495,
+  "fragmentos": 107496,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1592,6 +1592,13 @@
       "turno": 896,
       "quien": "~3.000 marines de Marineford (soldados rasos y oficiales bajos) y los dos verdugos, desmayados por el Haki del Rey",
       "fragmentos": 3000
+    },
+    {
+      "mundo": "fairytail",
+      "quien": "mago de Phantom Lord (hacha de luz verde)",
+      "turno": 1008,
+      "fragmentos": 1,
+      "exp": 30
     }
   ],
   "viaje": {

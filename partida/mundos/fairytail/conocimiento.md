@@ -21,3 +21,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Erza · T1005 · su nombre (él se lo dijo otra vez); no le dijo su magia ("ya la vas a ver").
 - Erza · T1006 · el gato se llama Kase (él se lo dijo).
 - Magos de Phantom en el salón · T1007 · ven a Facundo entrar con Fairy Tail (sin marca). Gajeel lo ve desde la viga.
+- Gajeel, Elfman, magos de Phantom y Fairy Tail cercanos · T1008 · vieron a Facundo parar con la mano desnuda un hacha cargada de magia y tirar a su dueño contra una columna de un empujón. Lo toman por un mago de fuerza física enorme.

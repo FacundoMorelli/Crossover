@@ -54,3 +54,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 
 - T1005 (Fairy Tail) · Baja del hombro en el tren y se sienta frente a Erza, mirándola. Erza se ablanda.
 - T1006 (Fairy Tail) · Huele el guantelete de Erza, le da la espalda y vuelve al hombro.
+- T1008 (Fairy Tail) · Le bufa a Gajeel.
