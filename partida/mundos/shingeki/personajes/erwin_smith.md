@@ -28,3 +28,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T831 · Aprueba el orden: Zeke primero, después Willy. Levi irá a lo de Zeke. Recuerda la cita del invernadero (próxima: día 37 a las 21).
 - T842 · Día 35: recibe el informe de Facundo. Muda a Levi y Zeke a Mitras; Hange y Armin estudian la plaza.
 - T865 · Repasa la demostración (día 50 a mediodía, Wall Rose; barco de Hizuru el 49). "¿Va a estar aquí el día cincuenta?"
+- T866 · Facundo promete estar el día 50. "Entonces vaya. Y vuelva." Lo esperan antes de las 11 sobre la muralla al norte de Karanes.

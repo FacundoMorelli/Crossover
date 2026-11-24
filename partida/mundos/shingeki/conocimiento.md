@@ -165,3 +165,4 @@
 - Magath · T860 · Ve aparecer a Facundo en su vestíbulo y caer desmayados a la vez a Calvi y a todos los soldados, sin que nadie los toque.
 - Historia, Ymir · T862 · Por Facundo: el Parlamento de Marley ratificó el tratado (212 a 140).
 - Historia · T863 · Ve a Facundo decir "Permiso, su majestad", agarrar a Ymir y desaparecer con ella.
+- Erwin, Hange, Armin · T866 · Por Facundo: se va, pero estará el día 50 sin falta (quizá llegue ese mismo día).

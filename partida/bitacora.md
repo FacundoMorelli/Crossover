@@ -864,3 +864,4 @@ T862 · Shingeki · Simula días 44-47: golpe juzgado, tratado ratificado. Desay
 T863 · Shingeki · Mitras · Se teletransporta con Ymir a su cuarto y la besa contra la pared.
 T864 · Shingeki · Mitras · Con Ymir (fundido). Historia golpea la puerta: Erwin pregunta por Facundo.
 T865 · Shingeki · Mitras · Sala de mapas: Erwin pregunta si va a estar el día 50.
+T866 · Shingeki · Mitras · Promete a Erwin estar el día 50.

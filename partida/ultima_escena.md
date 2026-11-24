@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T863)
-si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
-
-## RESPUESTA 1 (T863)
-
-> si, tienes razon, por eso antes de nada, permiso su majestad, agarro a ymir, la teletransporto conmigo a una habitacion y la empujo contra la pared y la empiezo a besar
-
-> —Sí, tienes razón. Por eso, antes de nada...
-
-Te levantas de la silla. Le haces una inclinación chica a Historia.
-
-> —Permiso, su majestad.
-
-Historia levanta la cara de las manos, con los ojos todavía mojados, sin entender. Kase salta de tu hombro a la mesa, al lado de su plato, como si ya supiera.
-
-Agarras a Ymir de la muñeca.
-
-—¿Qué...?
-
-Desaparecen del comedor.
-
-Lo último que alcanza a ver Historia es la silla vacía de Ymir girando sola y la mano de Ymir todavía en el aire.
-
-Aparecen en tu cuarto de huéspedes del ala este. Las cortinas están corridas a medias, la cama sin hacer y la luz de la mañana entra en una franja sobre el piso de madera. Ymir parpadea, desorientada, con la manzana todavía en la mano.
-
-Antes de que diga nada, la empujas despacio contra la pared y la besas.
-
-Ymir se queda tiesa medio segundo, con los ojos muy abiertos.
-
-Después suelta la manzana. Rueda por el piso hasta debajo de la cama.
-
-Te agarra la camisa con las dos manos y te devuelve el beso con ganas, sin la torpeza del de la escalinata: con hambre, como si lo hubiera estado esperando desde el día veinticuatro. Te mete los dedos en el pelo de dos colores y tira. Se le escapa un ruido chiquito contra tu boca, mitad risa y mitad otra cosa.
-
-Se separa un centímetro, apenas, para respirar. Tiene la cara roja hasta el cuello, los ojos brillosos y la frente apoyada en la tuya.
-
-—Si te vas a ir otra vez... —Lo dice bajito, ronco, sin soltarte la camisa—. Esta vez no me vas a dejar con las ganas, lindo.
-
-Te besa otra vez, más despacio, y te tira de la camisa hacia ella.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 863 · SHINGEKI · DÍA 47 · 08:12        ║
-║ Mitras · cuarto de huéspedes, ala este       ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: con Historia, en el comedor            ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tratado ratificado. Demostración:  ║
-║ día 50. Marineford ≈ días 48-49.             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T864)
+## COMANDO 1 (T864)
 estando contra la pared le levanto las piernas y la sigo besando
 
-## RESPUESTA 2 (T864)
+## RESPUESTA 1 (T864)
 
 > estando contra la pared le levanto las piernas y la sigo besando
 
@@ -119,10 +63,10 @@ Ymir hunde la cara en tu pecho y se ríe sin hacer ruido.
 
 ---
 
-## COMANDO 3 (T865)
+## COMANDO 2 (T865)
 salgo, agarro a kase y voy con erwin
 
-## RESPUESTA 3 (T865)
+## RESPUESTA 2 (T865)
 
 > salgo, agarro a kase y voy con erwin
 
@@ -173,4 +117,48 @@ Se queda callado. Te mira fijo, con los ojos azules muy quietos.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 47 10:20, sala de mapas del palacio. Erwin, Hange y Armin con el plan de la demostración: tramo de 800 m de Wall Rose al norte de Karanes, tribuna para delegaciones; barco de Hizuru llega el día 49 (Pixis los recibe); demostración el día 50 a mediodía. Erwin: "Tiene la cara de un hombre que se va. ¿Va a estar aquí el día cincuenta?" Marineford ≈ días 48-49 de Shingeki.
+## COMANDO 3 (T866)
+si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
+
+## RESPUESTA 3 (T866)
+
+> si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
+
+> —Sí. El día cincuenta, aquí, sin falta. A lo mejor llego el mismo día cincuenta. No se preocupen: voy a estar.
+
+Erwin te sostiene la mirada un segundo más. Después asiente, una sola vez.
+
+—Bien. —Apoya el dedo en el tramo rojo del mapa—. Lo esperamos sobre la muralla, al norte de Karanes, antes de las once. Las delegaciones suben a la tribuna a las once y media.
+
+Hange golpea la mesa con las dos manos y hace saltar los lápices.
+
+—¡Y si no viene, voy a buscarlo al fin del mundo! —Te señala con un compás—. ¡Con el gato! ¡Al fin del mundo! ¡Tengo un cuaderno entero de preguntas sin contestar y pienso cobrármelas!
+
+Armin levanta la vista del mapa, todavía un poco colorado.
+
+—¿Puedo... puedo verlo desde la tribuna? —Se le traba la voz—. Quiero ver cómo es. De cerca. Qué pasa con los titanes de adentro.
+
+Erwin rodea la mesa y te tiende la mano izquierda. Se la estrechas. Tiene la mano firme y seca.
+
+—Entonces vaya. —Lo dice tranquilo—. Y vuelva.
+
+Kase, en tu hombro, mira a Erwin, después a Hange y a Armin, y bosteza larguísimo, enseñando todos los dientes.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 866 · SHINGEKI · DÍA 47 · 10:22        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, bostezando               ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Volver el día 50 antes de las 11   ║
+║ (Wall Rose, Karanes). Marineford ≈ 48-49.    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 47 10:22, sala de mapas. Facundo prometió estar el día 50 antes de las 11 sobre Wall Rose al norte de Karanes. Erwin: "Entonces vaya. Y vuelva." Hange amenaza con buscarlo al fin del mundo; Armin quiere ver la demostración desde la tribuna. Facundo está por irse (probablemente a One Piece: hoy allá es el Día 56; Marineford ≈ OP Días 57-58).
