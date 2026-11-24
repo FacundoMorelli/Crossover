@@ -44,3 +44,4 @@ ENCUENTROS:
 - T960 · Shiganshina: se tira de rodillas y abraza a su madre, llorando a gritos.
 - T961 · Ve a su padre en la puerta y se queda helado (recuerda la cueva).
 - T962 · De pie frente a Grisha, puños cerrados, sin hablar.
+- T963 · Frente a Grisha, tiembla sin poder contestar.

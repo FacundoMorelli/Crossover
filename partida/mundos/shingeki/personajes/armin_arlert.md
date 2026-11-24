@@ -18,3 +18,4 @@ ESTADO: activo
 - T960 · Llora en silencio junto a Facundo en la calle.
 - T961 · Su abuelo murió en la recuperación del 846; casa cerca del canal. "Facundo... ¿tú puedes encontrarlo?"
 - T962 · Describe a su abuelo: bajito, pelo blanco peinado para atrás, chaleco marrón con un botón distinto (cosido por él), tabaco de pipa y libros viejos. "¿Vamos?"
+- T963 · Reencuentro con su abuelo junto al canal. A Facundo: "Ve. Él te necesita más que yo ahora."

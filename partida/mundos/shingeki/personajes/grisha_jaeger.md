@@ -13,3 +13,4 @@ QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: vivo (revivido T958), sin titán.
 - T961 · Sale a la puerta, ve a Eren crecido: "¿Eren?"
+- T963 · A Eren: "Lo último que recuerdo es la cueva debajo de la capilla. Te inyecté. ¿Qué pasó después? ¿Qué hiciste?"

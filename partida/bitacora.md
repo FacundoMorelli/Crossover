@@ -961,3 +961,4 @@ T959 · Shingeki · Costa este · TERCER DESEO: casas reconstruidas. "Adiós, cr
 T960 · Shingeki · Shiganshina · Teletransporte con Eren, Mikasa y Armin. Carla en el escalón: "¿Eren?" Abrazo. Grisha baja la escalera.
 T961 · Shingeki · Shiganshina · "Nada más disfruten." Grisha ve a Eren. "Armin, ¿no quieres ver a tu abuelo?" "¿Puedes encontrarlo?"
 T962 · Shingeki · Shiganshina · "Sí." Armin describe a su abuelo. "¿Vamos?" Eren frente a Grisha.
+T963 · Shingeki · Shiganshina · Armin encuentra a su abuelo junto al canal. Facundo vuelve con Eren: Grisha pregunta qué pasó en la cueva. Eren no puede hablar.

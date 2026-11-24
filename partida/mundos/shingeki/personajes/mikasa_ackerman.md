@@ -20,3 +20,4 @@ ESTADO: activo
 - T956 · Se pone delante de Eren al aparecer el dragón.
 - T957 · Sostiene a Eren cuando pierde su titán.
 - T960 · Carla: "Ven aquí, hija." Va.
+- T963 · Mira a Facundo pidiéndole ayuda con los ojos.

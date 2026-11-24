@@ -3,95 +3,10 @@
 
 ---
 
-## COMANDO 1 (T960)
-guardo las esferas en el inventario, esta bien eren, vamos
-
-## RESPUESTA 1 (T960)
-
-> guardo las esferas en el inventario, esta bien eren, vamos
-
-Te agachas y juntas las siete piedras grises del pasto. Frías, apagadas, como cualquier piedra de río. Desaparecen en el inventario.
-
-> —Está bien, Eren. Vamos.
-
-Eren te agarra del brazo antes de que termines de decirlo. Mikasa le agarra el otro sin pedir permiso. Armin le pone la mano en el hombro a Mikasa, sin pensarlo, con los ojos todavía rojos.
-
-Erwin asiente desde atrás.
-
-—Vayan. Los demás iremos a caballo. —Mira a Levi—. Hay mucha gente allá que no sabe qué día es.
-
-Kase se te acomoda en el hombro.
-
-Buscas la presencia que sentiste hace un rato. La del borde de Shiganshina, junto a la casa de madera. Sigue ahí. No se movió.
-
-Dos dedos en la frente.
-
-El acantilado desaparece.
-
-Shiganshina huele a pan.
-
-Es lo primero que sientes: pan, humo de chimeneas recién encendidas, madera nueva. Y después el ruido. Gente. Mucha. Gritos que vienen de todas las calles, nombres que se llaman de una esquina a otra, llantos, risas, alguien que golpea una puerta y otro que la abre. El sol del amanecer entra en diagonal por las calles empedradas y pinta todo de dorado: las paredes enteras, los techos enteros, las ventanas con vidrios.
-
-Están en una calle tranquila, en el borde de la ciudad, cerca de la muralla interior. Delante de ustedes, una casa de madera de dos pisos, con la puerta abierta y una viga entera sosteniendo el techo.
-
-En el escalón de la puerta hay una mujer sentada.
-
-Pelo castaño largo, atado de costado. Un delantal sobre el vestido. Está descalza. Tiene las dos manos apoyadas sobre las rodillas, como si todavía se estuviera tocando las piernas para asegurarse de que están ahí. Mira la calle con los ojos muy abiertos, perdida, como quien se despierta en una casa que conoce y no entiende por qué el mundo afuera está tan raro.
-
-Levanta la vista al oírlos aparecer.
-
-Ve a una chica de pelo negro con una bufanda roja. Ve a un chico rubio, flaco. Ve a un muchacho alto, de quince años, con el pelo largo pegado a la frente y la cara deshecha.
-
-No lo reconoce enseguida. Cinco años es mucho, a esa edad.
-
-Después sí.
-
-Se le abre la boca. Se le van las manos de las rodillas a la boca.
-
-—¿Eren?
-
-Eren ya está corriendo.
-
-No llega a decir nada. Se tira de rodillas en el escalón y la abraza por la cintura con tanta fuerza que casi la tira para atrás, contra la puerta, y esconde la cara en el delantal, y llora como no lloró en el acantilado, como no lloró en cinco años, a gritos, con todo el cuerpo.
-
-Carla lo abraza. Le agarra la cabeza con las dos manos, le mete los dedos en el pelo largo, y lo mira, y lo vuelve a abrazar, y se ríe y llora al mismo tiempo.
-
-—Estás enorme —dice, con la voz rota—. Estás enorme. ¿Qué te pasó en el pelo? ¿Cuánto... cuánto tiempo...?
-
-Mikasa se quedó parada en la calle, a dos pasos, con las manos apretadas sobre la bufanda. No se mueve. Le tiemblan los labios.
-
-Carla levanta la vista por encima de la cabeza de Eren. La ve.
-
-—Mikasa. —Estira un brazo hacia ella—. Ven aquí, hija. Ven.
-
-Mikasa va.
-
-Armin se queda a tu lado, en la calle, llorando en silencio, con las dos manos en la cara.
-
-Y en ese momento, del interior de la casa, por la puerta abierta, se oyen pasos. Unos pasos pesados, lentos, de alguien que baja una escalera de madera con cuidado. Una voz de hombre, grave y desconcertada.
-
-—¿Carla? ¿Qué es todo ese ruido? ¿Por qué estoy...?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 960 · SHINGEKI · DÍA 63 · 05:20        ║
-║ Shiganshina · la casa de los Jaeger          ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Shiganshina viva.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T961)
+## COMANDO 1 (T961)
 Ahora les explico todo, por favor nada mas disfruten todo, armin, no queres ir a ver a tu abuelo?
 
-## RESPUESTA 2 (T961)
+## RESPUESTA 1 (T961)
 
 > Ahora les explico todo, por favor nada mas disfruten todo, armin, no queres ir a ver a tu abuelo?
 
@@ -144,10 +59,10 @@ Se le llenan los ojos otra vez. Mira hacia la calle, hacia el centro de la ciuda
 
 ---
 
-## COMANDO 3 (T962)
+## COMANDO 2 (T962)
 si
 
-## RESPUESTA 3 (T962)
+## RESPUESTA 2 (T962)
 
 > si
 
@@ -189,4 +104,82 @@ Armin no ve nada de eso. Solo te mira a ti, con las dos manos en tu brazo.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:24, Shiganshina, casa de los Jaeger. Armin, agarrado del brazo de Facundo, describió a su abuelo y pregunta "¿Vamos?". Eren de pie frente a Grisha, sin hablar; Carla y Mikasa cerca. Facundo puede actuar.
+## COMANDO 3 (T963)
+si, me teletransporto con armin con su abuelo, cuando llegamos le digo: armin, voy a volver con eren, quiero ver que pasa y poder ayudar a eren en ese momento
+
+## RESPUESTA 3 (T963)
+
+> si, me teletransporto con armin con su abuelo, cuando llegamos le digo: armin, voy a volver con eren, quiero ver que pasa y poder ayudar a eren en ese momento
+
+Cierras los ojos.
+
+Shiganshina entera se abre en tu cabeza: cada calle, cada casa, cada una de las miles de presencias que se buscan entre los gritos. Buscas una chiquita. Vieja. Tranquila debajo del miedo. Que esté sola, mirando alrededor, sin encontrar a quien busca.
+
+La encuentras cerca del canal.
+
+Dos dedos en la frente.
+
+Aparecen en una calle angosta, junto al agua. Las casas de dos pisos están pegadas unas a otras, todas recién reconstruidas, con macetas en las ventanas y ropa colgada que nadie colgó. El canal corre lento al costado, con la luz del amanecer encima.
+
+Delante de una puerta verde, en la vereda, hay un viejo.
+
+Bajito. Pelo blanco, poco, peinado para atrás. Un chaleco marrón, con un botón más claro que los demás. Está parado en la vereda, con una pipa apagada en la mano, mirando la calle de un lado al otro, perdido, como quien sale a buscar algo y no recuerda qué.
+
+Armin te suelta el brazo.
+
+No corre. Camina. Un paso, dos, despacio, como si tuviera miedo de que se desarme si se acerca demasiado rápido.
+
+El viejo se da vuelta. Lo ve. Mira al muchacho rubio, flaco, con uniforme de la Legión, más alto de lo que debería ser. Entrecierra los ojos.
+
+—¿Armin?
+
+Armin se rompe.
+
+Se le tira encima, se lo come en un abrazo, y el viejo se tambalea y se le cae la pipa en la vereda, y lo abraza también, con los brazos flacos, palmeándole la espalda, diciendo su nombre una vez y otra, preguntando por qué está tan alto, por qué tiene ese uniforme, dónde está, qué día es, mientras Armin no puede contestar nada porque está llorando con la cara en su hombro.
+
+Esperas un momento. Después te acercas.
+
+> —Armin, voy a volver con Eren. Quiero ver qué pasa y poder ayudarlo en ese momento.
+
+Armin levanta la cara del hombro de su abuelo. Te mira. Tiene los ojos hinchados, la nariz roja. Asiente, rápido, varias veces.
+
+—Ve. —Se le quiebra la voz—. Ve con él. Él te necesita más que yo ahora.
+
+El viejo te mira por encima del hombro de su nieto. A ti, al pelo, al gato. No entiende nada. Pero se quita el sombrero que no tiene, en un gesto viejo, cortés, y te inclina la cabeza.
+
+Dos dedos en la frente.
+
+Vuelves a la calle de los Jaeger.
+
+Pasó apenas un minuto. Nadie se movió mucho. Carla sigue en el escalón, de pie ahora, con una mano en la boca. Mikasa, al lado de Eren, con el cuerpo tenso, lista para algo que no sabe qué es.
+
+Y Eren y Grisha, frente a frente, a un paso, en el medio de la calle.
+
+Grisha está hablando. Despacio, con la voz baja, temblorosa, sin sacarle los ojos de encima a su hijo.
+
+—...lo último que recuerdo es la cueva. Debajo de la capilla. Tú estabas atado, y yo... —Se le corta. Se mira la mano—. Yo te inyecté. Te pedí que... Y después, nada. —Levanta la vista—. Eren. ¿Qué pasó después? ¿Qué hiciste?
+
+Eren no contesta.
+
+Está temblando. Entero, de pies a cabeza, con los puños cerrados tan fuerte que tiene los nudillos blancos. Abre la boca. No sale nada. La cierra. Mira a su padre a la cara, y en los ojos tiene cinco años de algo que nunca le contó a nadie.
+
+Mikasa te ve llegar. Te mira a ti, sin decir nada. Pidiéndote algo con los ojos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 963 · SHINGEKI · DÍA 63 · 05:28        ║
+║ Shiganshina · la casa de los Jaeger          ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Eren y Grisha. Grisha pregunta     ║
+║ qué pasó en la cueva.                        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:28, Shiganshina, calle de los Jaeger. Armin quedó con su abuelo junto al canal. Facundo volvió: Grisha le pregunta a Eren qué pasó después de la cueva (lo inyectó); Eren tiembla sin poder hablar. Carla y Mikasa miran; Mikasa le pide ayuda a Facundo con los ojos. Facundo puede actuar.
