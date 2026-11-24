@@ -1026,3 +1026,4 @@ T1024 · Fairy Tail · Interrogatorio · "Magia y fuerza física." Registrado co
 T1025 · Fairy Tail · Interrogatorio · "Medicina de los lugares a los que viajo; le puedo dar una." Lahar acepta y tiende la mano: "La llevo a Era yo mismo."
 T1026 · Fairy Tail · Sede · Semilla del ermitaño a Lahar (donación al Consejo). Fin del interrogatorio. Natsu: "¡Tú y yo! ¡Ahora!"
 T1027 · Fairy Tail → Bleach · Duelo con Natsu (cae diez veces). Despedida en el río; Puerta delante de todos: "¡LA PRÓXIMA TE GANO!" Karakura, 18/12 10:40, nieve bajo el puente.
+T1028 · Bleach · Tienda de Urahara · Jinta: "¡El de la tele!" Ururu: "Volvió." Urahara: "¡El señor Bicolor! ¡Qué descortés! ¡Me encanta!" Yoruichi mira a Kase. "Pase."

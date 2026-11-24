@@ -81,3 +81,4 @@
 - Noviembre · Orihime, Chad y Uryū siguen en la escuela con Ichigo (primer año de preparatoria). Uryū y su padre Ryūken, en tensión.
 - En secreto (nadie lo sabe): Xcution (Kūgo Ginjō) observa a Ichigo en Karakura. En el Wandenreich, bajo el Seireitei, Yhwach se prepara (canon; faltan muchos meses).
 - 18/12 10:40 · (T1027) Facundo vuelve por la Puerta a la orilla del río de Karakura, bajo el puente. Nadie lo ve. Nieva.
+- 18/12 10:58 · (T1028) Facundo llega a la tienda de Urahara.

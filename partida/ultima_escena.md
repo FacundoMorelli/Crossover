@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1025)
-es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
-
-## RESPUESTA 1 (T1025)
-
-> es una medicina de los lugares a los que viajo, si quiere le puedo dar una para que la vea, pero no va a poder hacer mucho
-
-> —Es una medicina de los lugares a los que viajo. Si quiere, le puedo dar una para que la vea, pero no va a poder hacer mucho con ella.
-
-Lahar suelta el picaporte.
-
-Se queda un segundo en silencio, mirándote, como si no esperara esa respuesta. Después cruza los brazos.
-
-—De los lugares a los que viaja —repite. Lo dice despacio, sin ironía—. Que no figuran en ningún registro de Fiore.
-
-No es una pregunta, y no espera respuesta. Mira a Kase, que sigue sentado en la mesa con la cola enroscada en las patas, y después al caballero del rincón, que tiene la pluma en el aire y la boca un poco abierta.
-
-—Anote eso, Rene. Medicina de origen extranjero. Ofrecida voluntariamente para examen.
-
-—Sí, capitán.
-
-Lahar vuelve a mirarte.
-
-—Le agradezco la oferta. —Se acomoda los lentes—. Y le creo cuando dice que no vamos a poder hacer mucho. Si los médicos de Era no pueden explicar cómo curó a esos chicos, dudo que puedan explicar de qué está hecha. —Hace una pausa—. Pero si existe algo que borra heridas así, en un segundo, el Consejo tiene que saberlo. Hay hospitales en Fiore donde la gente se muere de cosas mucho más chicas que lo que tenían esos tres colgados de un árbol.
-
-Extiende una mano, con la palma hacia arriba.
-
-—Si me da una, la llevo a Era yo mismo. Con su nombre en el registro, como donante. Nadie va a tocarla sin que yo esté presente.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1025 · FAIRY TAIL · X784 · DÍA 3 ·     ║
-║ 17:26 · Magnolia · sede, cuarto del fondo    ║
-║ NIVEL 27 · EXP 234.700/240.000               ║
-║ FRAGMENTOS 107.837 · 0 jewel                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sobre la mesa                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: Interrogatorio del Consejo         ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1026)
+## COMANDO 1 (T1026)
 le doy una semilla del ermitaño
 
-## RESPUESTA 2 (T1026)
+## RESPUESTA 1 (T1026)
 
 > le doy una semilla del ermitaño
 
@@ -103,10 +57,10 @@ Se despega de la pared de un salto. Happy se despierta y se cae.
 
 ---
 
-## COMANDO 3 (T1027)
+## COMANDO 2 (T1027)
 dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
 
-## RESPUESTA 3 (T1027)
+## RESPUESTA 2 (T1027)
 
 > dale, vamos a la explanada del río. simula la pelea y les digo que me voy a ir y me voy a bleach
 
@@ -211,4 +165,64 @@ Nadie te vio llegar.
 
 ---
 
-ESTADO AL CIERRE: Bleach, 18/12 10:40, orilla del río de Karakura bajo el puente, nevando. Facundo acaba de volver (cuarta llegada); nadie lo vio. Ichigo y los demás en la escuela (recreo). Facundo puede actuar.
+## COMANDO 3 (T1028)
+voy a la tienda de Urahara
+
+## RESPUESTA 3 (T1028)
+
+> voy a la tienda de Urahara
+
+Caminas río arriba por la orilla y después subes a las calles.
+
+Karakura en invierno es la misma de siempre, pero más callada. Las veredas tienen una capa fina de escarcha que cruje bajo los borceguíes. En las vidrieras hay guirnaldas de papel, y en un konbini de la esquina, un Santa Claus de cartón saluda con la mano. Pasa una señora en bicicleta con una bufanda hasta la nariz. Te mira, mira a Kase, casi se cae y sigue de largo.
+
+La tienda de Urahara está donde estaba. La misma casa vieja de madera, apretada entre dos edificios más nuevos, con el letrero gastado sobre la puerta corrediza y el patio de tierra adelante. Ahora el patio está blanco de escarcha.
+
+En el medio del patio, un chico pelirrojo, con un gorro de lana y una escoba en las manos, barre la nieve con furia, mandándola para cualquier lado. A su lado, una nena de coletas negras y cara triste barre con mucho cuidado un cuadradito de un metro, siempre el mismo.
+
+—¡Esto es inútil, Ururu! ¡Sigue cayendo! ¡Para qué barrer si sigue cayen...!
+
+Jinta te ve.
+
+Se le cae la escoba.
+
+—Tú... —Te señala con el dedo enguantado—. ¡¿TÚ?! ¡El de la tele! ¡El que se fue por una puerta en el río y no volvió nunca! —Mira a Kase, que lo mira desde tu hombro con los ojos entrecerrados, y retrocede un paso sin darse cuenta—. ¡Y el gato ladrón de pescado!
+
+Ururu deja de barrer. Se queda mirándote con la escoba abrazada.
+
+—Señor Facundo... —dice, muy bajito—. Volvió.
+
+La puerta corrediza de la tienda se abre despacio, con un chirrido.
+
+En el umbral aparece un hombre alto, con un sombrero a rayas verdes y blancas, sandalias de madera sobre la escarcha y un haori oscuro con las mangas largas. Tiene el bastón bajo el brazo y un abanico cerrado en la mano. Te mira desde la sombra del sombrero. Se queda quieto un segundo, solo uno.
+
+Después abre el abanico de golpe y se tapa media cara.
+
+—¡Vaya, vaya, vaya! —Su voz es alegre y cantarina, como si hubiera ganado la lotería—. ¡Pero si es el señor Bicolor! Casi tres meses sin una postal, ni una llamada, ni un mensaje en una botella, y aparece así, un jueves a media mañana, como si hubiera salido a comprar pan. —Se ríe detrás del abanico—. ¡Qué descortés! ¡Me encanta!
+
+Detrás de sus piernas, en el piso de madera de la tienda, un gato negro de ojos dorados se asoma, se sienta y mira a Kase.
+
+Kase le devuelve la mirada.
+
+Urahara baja un poco el abanico. Los ojos, debajo del ala del sombrero, ya no se ríen tanto: te miran de arriba abajo, con cuidado, buscando algo.
+
+—Pase, pase, que se congela —dice, y se hace a un lado—. Tessai acaba de hacer té. —Una pausa corta—. Y supongo que querrá saber qué pasó por aquí mientras estuvo de viaje.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1028 · BLEACH · 18/12 · 10:58          ║
+║ Karakura · patio de la tienda de Urahara     ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, mirando a Yoruichi       ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 18/12 10:58, patio de la tienda de Urahara. Jinta y Ururu lo reconocen; Urahara lo invita a pasar a tomar té y ofrece contarle lo que pasó. Yoruichi (gato) mira a Kase. Facundo puede actuar.

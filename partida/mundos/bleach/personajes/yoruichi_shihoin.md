@@ -36,3 +36,4 @@ QUÉ SABE DE FACUNDO: que dice tener un lugar donde esconder cosas que nadie pue
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en la tienda, como gato.
 - T296 · 21:38 · En forma de gato, en el sótano. Mira a Kase.
+- T1028 · 18/12 · En forma de gato, se asoma en la puerta de la tienda y mira a Kase.
