@@ -19,3 +19,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T756 · Robin, libre de las esposas en el Puente de la Vacilación, gracias a Facundo.
 - T759 · Tres acorazados del Buster Call fuera de combate por la Shio Shio no Mi.
 - T760 · El CP9 cae entero. Lucci vencido por Luffy. Spandam aplastado por Robin. Planos de Plutón quemados por Franky.
+- T761 · Escapan de Enies Lobby volando en el Going Merry.

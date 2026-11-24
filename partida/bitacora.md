@@ -759,3 +759,4 @@ T757 · One Piece · Sobre la Torre · Vuela con Robin. Haki: las peleas de las 
 T758 · One Piece · Sobre la Torre · Frena cinco balas con la Luna y las tira al mar. Onigumo ordena apuntarle.
 T759 · One Piece · Borde oeste · Shio Shio: olas y remolino sacan de combate a tres acorazados. Onigumo ordena desembarcar.
 T760 · One Piece · Enies Lobby · Simula: el CP9 cae entero; Franky quema los planos de Plutón; Luffy vence a Lucci; Robin aplasta a Spandam. Todos a bordo del Merry, rodeados por siete acorazados.
+T761 · One Piece · En el aire · El Merry sale volando del cerco del Buster Call. Enies Lobby queda atrás.
