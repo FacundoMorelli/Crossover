@@ -739,3 +739,4 @@ T737 · One Piece · muelle · "Vamos a Enies Lobby con ellos." Zoro entiende el
 T738 · One Piece · Aqua Laguna · Zarpan con la familia Franky y Paulie. Ola de cuarenta metros.
 T739 · One Piece · Aqua Laguna · Levanta el Merry con la Luna sobre la ola. Volando bajo, llegarían antes que el tren.
 T740 · One Piece · Enies Lobby · Simula: cuatro horas de vuelo. Llegan a Enies Lobby cinco horas antes que el tren.
+T741 · One Piece · Enies Lobby · Esperan escondidos. 06:00: llega el tren con Robin, Franky y Usopp. Spandam los recibe.

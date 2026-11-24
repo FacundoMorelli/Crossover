@@ -165,3 +165,4 @@
 - Tripulación, familia Franky · T736 · Vieron a Facundo no intervenir cuando se llevaron a Franky y Usopp.
 - Facundo · T736 · Siente con el Haki que Franky y Usopp están en la estación del puerto, con el CP9 y Robin.
 - Familia Franky, Paulie y capataces · T739 · Ven al Merry volar sobre la ola gigante; el ojo azul de Facundo brilla.
+- Facundo · T741 · Siente con el Haki a Robin, Franky y Usopp encadenados, al CP9 y a un jefe con máscara de metal (Spandam), y cientos de soldados.
