@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T921)
-la levanto de la cintura y la beso de nuevo
-
-## RESPUESTA 1 (T921)
-
-> la levanto de la cintura y la beso de nuevo
-
-La agarras de la cintura y la levantas.
-
-Robin suelta un sonido corto, sorprendido, que se le convierte en risa a mitad de camino. Pesa casi nada: está más flaca que la última vez, se le notan las costillas bajo la ropa gris. Te apoya las manos en los hombros. Kase salta al suelo justo a tiempo, ofendido, y se sienta a un costado a lamerse una pata.
-
-La besas de nuevo.
-
-Esta vez ella no se queda quieta. Te agarra la cara con las dos manos, las muñecas todavía rojas y lastimadas, y te besa como si quisiera asegurarse de que eres real. Se le escapa el pelo de la tira de tela y te cae alrededor de la cara, negro, oliendo a polvo y a sal.
-
-Alrededor, el puente sigue gritando.
-
-Los presos pasan corriendo a los costados, se abrazan, lloran, tiran los grilletes rotos al mar. Algunos se detienen al verlos, sin entender, y siguen de largo. Un chico de unos diez años se queda parado al lado de Kase, mirándolos con la boca abierta, hasta que su madre lo agarra del brazo y se lo lleva.
-
-Luffy se acerca, con las manos detrás de la cabeza, esquivando a un guardia que ya no quiere pelear con nadie.
-
-—Oigan. —Se detiene a un metro, los mira, ladea la cabeza—. Oigan, ¿terminaron? Tengo hambre.
-
-Robin se separa de tu boca. No se baja. Se queda ahí arriba, con las manos en tus mejillas, mirándote desde muy cerca, y se ríe con los ojos todavía mojados.
-
-Después mira a Luffy por encima de tu hombro, con la cara colorada debajo del polvo.
-
-—Capitán. —Carraspea—. Hola.
-
-—¡Hola, Robin! —Luffy sonríe enorme—. ¡Shishishi! ¡Qué bueno que estás bien!
-
-Robin te vuelve a mirar. La sonrisa se le acomoda despacio, la de siempre, la tranquila, pero en los ojos tiene otra cosa: una pregunta.
-
-—Vinieron los dos solos. —Lo dice bajo, solo para ti—. Sin el barco. Sin los demás. —Te pasa el pulgar por la cicatriz del ojo—. ¿Dónde están los otros? ¿Qué pasó mientras yo estaba aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 921 · ONE PIECE · DÍA 57 · 17:25       ║
-║ Tequila Wolf · el puente                     ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 74% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el piso, a tu lado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a Robin (8/8). Bankai sobre ║
-║ la flota. Shingeki: antes del D59 16:30.     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T922)
+## COMANDO 1 (T922)
 arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
 
-## RESPUESTA 2 (T922)
+## RESPUESTA 1 (T922)
 
 > arrestaron a ace, fuimos a marineford, lo rescatamos y huimos con la flota de barbablanca, me meto una semilla del ermitaño en la boca y se la paso de un beso
 
@@ -109,10 +57,10 @@ Después apoya la frente contra la tuya.
 
 ---
 
-## COMANDO 3 (T923)
+## COMANDO 2 (T923)
 estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
 
-## RESPUESTA 3 (T923)
+## RESPUESTA 2 (T923)
 
 > estan bien, cada uno esta en una isla, kuma los mando a una isla donde pueden mejorar, a zoro lo mando a la isla de mihawk, asi que la idea es que esten 2 años mejorando sus habilidades y volver a vernos todos en sabaody
 
@@ -157,4 +105,60 @@ Luffy, que está sentado en la baranda del puente con las piernas colgando hacia
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 17:29, Tequila Wolf. Robin sabe el plan (dos años, Sabaody). Deduce que Kuma eligió los destinos a propósito y pregunta qué tendría que aprender ella en Tequila Wolf. Luffy propone que venga con ellos. Facundo puede responder.
+## COMANDO 3 (T924)
+no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
+
+## RESPUESTA 3 (T924)
+
+> no, siento algunas presencias viniendo en barco, estan algo lejos, pero no son marines, ni parte del gobierno ni piratas, creo que son revolucionarios, creo que por eso te mando aqui, para que vayas con ellos
+
+> —No. Siento algunas presencias que vienen en barco. Están algo lejos, pero no son marines, ni del Gobierno, ni piratas. Creo que son revolucionarios. Creo que por eso te mandó aquí: para que vayas con ellos.
+
+Robin se queda muy quieta.
+
+Gira la cabeza hacia donde miras tú, hacia el horizonte gris del mar quieto, donde todavía no se ve nada. Ni una vela. Ni una sombra.
+
+—Revolucionarios. —Lo dice despacio—. El ejército de Dragon.
+
+En la baranda, Luffy deja de balancear las piernas.
+
+—¿De mi papá?
+
+Robin asiente, sin dejar de mirar el horizonte.
+
+—Kuma... —Se le arruga la frente—. Claro. Por eso. Siempre me pareció raro que un hombre del Gobierno nos dejara vivir en Thriller Bark. —Se muerde el labio—. Ellos también buscan la verdad que el Gobierno esconde. Los revolucionarios. Si tienen archivos, documentos, gente que sabe cosas del Siglo Vacío...
+
+Se interrumpe.
+
+Te mira. Y se le cae algo de la cara, despacio, como cuando se apaga una vela.
+
+—Entonces me voy con ellos. —Lo dice tranquila, y no está tranquila—. Dos años. Con desconocidos, en algún lugar del mundo. Sin la tripulación.
+
+Te pone las dos manos en el pecho, sobre el sobretodo, y las deja ahí. No te empuja. No te abraza. Solo las deja.
+
+—Y tú dijiste que vas a estar viajando. —Levanta la vista—. Por allá. Por ese otro lugar.
+
+Kase se te sube por la pierna, por la espalda, y vuelve a acomodarse en tu hombro. Mira a Robin desde ahí, con el ojo rojo y el azul, muy serio.
+
+Robin le acaricia la cabeza al gato con un dedo. Después te mira a ti, y la voz le sale más baja.
+
+—¿Me vas a venir a ver?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 924 · ONE PIECE · DÍA 57 · 17:31       ║
+║ Tequila Wolf · el puente                     ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 74% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Robin, con los revolucionarios.    ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 17:31, Tequila Wolf. Un barco revolucionario se acerca (lejos, sin verse). Robin acepta irse con ellos dos años. Le pregunta a Facundo si la va a ir a ver. Facundo puede responder.
