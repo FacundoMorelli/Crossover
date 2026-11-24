@@ -866,3 +866,4 @@ T864 · Shingeki · Mitras · Con Ymir (fundido). Historia golpea la puerta: Erw
 T865 · Shingeki · Mitras · Sala de mapas: Erwin pregunta si va a estar el día 50.
 T866 · Shingeki · Mitras · Promete a Erwin estar el día 50.
 T867 · Shingeki → One Piece · Saludos a Historia e Ymir. Cruza la puerta. Llega a Sabaody, Grove 41, Día 56 15:55. Rayleigh junto al Sunny.
+T868 · One Piece · Sabaody · Rayleigh cuenta la dispersión de Kuma, Ace mañana, el rumor de Impel Down.

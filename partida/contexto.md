@@ -1,4 +1,4 @@
-TURNO: 867 | MUNDO: One Piece | Día 56 (Grand Line) | HORA: 15:55 | Lugar: Archipiélago Sabaody, Grove 41, junto al Thousand Sunny
+TURNO: 868 | MUNDO: One Piece | Día 56 (Grand Line) | HORA: 16:05 | Lugar: Archipiélago Sabaody, Grove 41, junto al Thousand Sunny
 REGLAS EXTRA: leer partida/reglas_extra.md (10 reglas; R9: una pareja por mundo; R10: líneas de Sakaime invisibles y sin límite). Última escena textual: partida/ultima_escena.md.
 MOMENTO DEL CANON: Sabaody, después de la dispersión de Kuma (Día 49). Mañana, Día 57 a las 15:00: ejecución de Ace en Marineford (Barbablanca ataca). Hoy: fuga de Impel Down en curso (Luffy adentro). Ver mundos/onepiece/cronologia.md.
 FACUNDO: 18 años · Nivel 27 · EXP 219.040/240.000 · 134.508 Fragmentos · 6.000.000 berries · 145 puntos sin asignar · Energía 100% · Ojos: bien
@@ -6,13 +6,13 @@ PARA ESTE MUNDO: Sombrero de Paja; cartel 400M "Ojos de Eclipse". Velo: persona 
 QUIÉN SABE QUÉ: ver mundos/onepiece/conocimiento.md. ROBIN sabe que viene de otro mundo y que recibió el dolor de Kuma. Lola sabe lo de Kuma.
 MISIÓN DE MUNDO: CUMPLIDA (T369).
 ÚLTIMOS 5 TURNOS:
+- T868: "Hola... ¿quién eres? ¿Y me puedes contar todo lo que pasó mientras no estuve?" Rayleigh se presenta ("Silvers Rayleigh. Un viejo que cuida este barco") y cuenta: la tripulación llegó hace nueve días; Hachi; rescataron a la sirena Camie de una subasta; Luffy golpeó a un Dragón Celestial; vino el almirante Kizaru con Pacifistas (cyborgs con la cara de Kuma); Kuma apareció y los hizo desaparecer uno por uno con la mano: "No los mató. Los mandó lejos. A cada uno a un lugar distinto del mundo." Luffy fue el último. Él vio a Robin desaparecer. Nadie sabe dónde quedó cada uno. Hachi herido, en el bar de Shakky. El diario: Ace, capturado por Barbanegra, ejecución mañana; y un rumor: alguien con sombrero de paja entró a Impel Down. Rayleigh comenta que no puede leerlo con el Haki ("Eres como un agujero en el mar"). Pregunta: "¿Y tú qué vas a hacer, muchacho?"
 - T867: (Shingeki) "Sí, puedes, Armin. Mándenle saludos a la reina y a Ymir... aunque creo que ya la despedí lo suficientemente bien a ella." Hange se ríe, Armin rojo, Erwin sonrisa seca. Facundo abre una puerta y cruza. (One Piece) Día 56 15:55, Sabaody, Grove 41: el Thousand Sunny amarrado y tapado con lonas, sin nadie a bordo. Un viejo de pelo blanco, lentes y cicatriz (Rayleigh) revisa las amarras; lo reconoce por el cartel: "Ojos de Eclipse. Llegas tarde, muchacho. Una semana tarde." Un diario en un barril: ejecución de Ace mañana en Marineford.
 - T866: (Shingeki) Promesa a Erwin: volver el día 50 antes de las 11 (Wall Rose, Karanes).
 - T864: (Shingeki) Con Ymir (fundido). "Vuelve, lindo."
 - T860: (Shingeki) Detiene el golpe de Calvi sin heridos (Haki del Rey).
-- T854: (Shingeki) Firma como testigo el tratado de paz Paradis-Marley.
 PRESENTES EN ESCENA: Grove 41 de Sabaody: Silvers Rayleigh, junto al Sunny (tapado con lonas, vacío). Kase en el hombro.
-VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy (DISPERSADA por Kuma el Día 49; Facundo no sabe a dónde fue cada uno). PAREJA EN ONE PIECE: Nico Robin (desde T695) — no sabe de Ymir (R9). PROMESA A ROBIN (T820): no volver a dormirla ni sacrificarse solo a escondidas.
+VÍNCULOS ACTIVOS (One Piece): tripulación de Luffy (DISPERSADA por Kuma el Día 49; Facundo lo sabe por Rayleigh, T868; nadie sabe adónde fue cada uno). PAREJA EN ONE PIECE: Nico Robin (desde T695) — no sabe de Ymir (R9). PROMESA A ROBIN (T820): no volver a dormirla ni sacrificarse solo a escondidas.
 COPIAS: Nanami, Mahito, Yuji, Yuki, Todo, Nobara, Yaga (Jujutsu). Uryū, Gin, Aizen, Byakuya, Renji, Ichigo (Bleach). Goku, Dabura (DB). Anti-Magia (Asta), Viento y Espíritu (Yuno), Rayo (Luck) (BC). Mera Mera (Ace), Hana Hana (Robin), Bane Bane (Bellamy), Haki de observación AL MÁXIMO (de Shura), Goro Goro (Enel), Hie Hie (Aokiji), Neko Neko Leopardo + Rokushiki (Lucci), Puño y Haki (Garp), Horo Horo (Perona), Nikyu Nikyu (Kuma) (OP).
 FUSIONES nuevas: UI + Rayo + Sol (T485, sin nombre).
 DONES: Manecilla Inversa (100). Sakaime (100). Forma Cenit (100). Shio Shio no Mi (40). Titán de Ceniza (30). Grimorio del Firmamento (30).

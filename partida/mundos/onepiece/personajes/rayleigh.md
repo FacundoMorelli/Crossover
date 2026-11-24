@@ -9,3 +9,4 @@ ENCUENTROS:
 - T867 · Día 56 15:55 · Grove 41, junto al Sunny tapado con lonas. Lo reconoce por el cartel (400M, Ojos de Eclipse).
 QUÉ SABE DE FACUNDO: el cartel (400M, Enies Lobby); que viaja con Luffy (por la tripulación, Días 47-49). Con el Haki nota que no puede medirlo (Velo).
 ESTADO: activo
+- T868 · Le cuenta a Facundo lo de Sabaody y la dispersión. "¿Y tú qué vas a hacer, muchacho?"

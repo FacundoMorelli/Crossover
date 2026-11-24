@@ -210,3 +210,5 @@
 - Tripulación, Brook, Lola · T817 · Por Facundo: hoy se va; a lo mejor se pierde Sabaody; donde estén, va a poder ir.
 - NICO ROBIN · T819 · Por Facundo: recibió el dolor de toda la tripulación (trato con Kuma). Nadie más de la tripulación lo sabe.
 - Tripulación, Lola y los Piratas Rolling · T822 · Ven a Facundo abrir una puerta de luz en el aire y cruzarla con Kase. Desaparece.
+- Facundo · T868 · Por Rayleigh: llegada a Sabaody, Hachi, Camie y la subasta, Luffy golpeó a un Dragón Celestial, Kizaru y Pacifistas, Kuma dispersó a la tripulación uno por uno (vivos, a lugares distintos; nadie sabe dónde); Robin desapareció delante de Rayleigh; Hachi herido en el bar de Shakky. Ace capturado por Barbanegra; ejecución mañana; rumor de que alguien con sombrero de paja entró a Impel Down.
+- Rayleigh · T868 · Intenta leer a Facundo con el Haki y no puede: "Eres como un agujero en el mar." (Velo.)

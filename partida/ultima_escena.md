@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T865)
-salgo, agarro a kase y voy con erwin
-
-## RESPUESTA 1 (T865)
-
-> salgo, agarro a kase y voy con erwin
-
-Te vistes. Ymir te mira desde la cama, con la sábana hasta el mentón, y te tira la manzana que encontró debajo de la cama. La atrapas sin mirar.
-
-—Presumido —repite, y esconde la cara en la almohada.
-
-Abres la puerta.
-
-En el pasillo está Historia, sola, con Kase en brazos. Está colorada como un tomate desde la frente hasta el cuello, mirando con muchísima atención una mancha del techo.
-
-—El comandante. —Lo dice sin bajar la vista—. En la sala de mapas. Pregunta por ti. Desde hace... un rato.
-
-Kase salta de sus brazos a tu hombro. Se acomoda, te mira de reojo con desprecio absoluto y te muerde la oreja. Despacio, sin lastimar, pero te la muerde. Después se queda quieto, con la cola enroscada en tu cuello, como si te perdonara a medias.
-
-Historia se escapa por el pasillo hacia el cuarto, sin mirarte, con pasos rápidos.
-
-La sala de mapas está en el segundo piso. Es una sala larga, con ventanales al patio y una mesa enorme en el centro cubierta de papeles. Erwin está inclinado sobre un mapa de Wall Rose, con Hange a un lado y Armin al otro. Hay un tramo de muralla marcado en rojo, al norte del distrito de Karanes, y al pie, del lado de adentro, una tribuna dibujada en lápiz.
-
-—Ahí va la tribuna de las delegaciones —está diciendo Hange, sin levantar la vista—. A ochocientos metros. Si es como la otra vez, ni un hueso, ni vapor, nada. ¡Nada! Quiero que lo vean con lentes de aumento, con...
-
-Te ve entrar. Se calla. Te mira la cara, el pelo, el cuello de la camisa mal puesto. Levanta las cejas hasta el techo y no dice nada, cosa que en Hange es muchísimo.
-
-Armin se pone colorado y mira el mapa.
-
-Erwin se endereza.
-
-—Facundo. —Te señala el mapa con la mano—. El barco de Hizuru llega a la costa sur el día cuarenta y nueve, a la tarde. Pixis los recibe y los lleva por tierra a Karanes. Al día siguiente, a mediodía, la demostración. Ochocientos metros de Wall Rose, con todo lo que tienen adentro, delante de cinco naciones.
-
-Se queda callado. Te mira fijo, con los ojos azules muy quietos.
-
-—Tiene la cara de un hombre que se va. —No es una pregunta, pero la hace igual—. ¿Va a estar aquí el día cincuenta?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 865 · SHINGEKI · DÍA 47 · 10:20        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 219.040/240.000               ║
-║ FRAGMENTOS 134.508 · 30 monedas de Marley    ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, ofendido                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Demostración: día 50 (Wall Rose,   ║
-║ Karanes). Marineford ≈ días 48-49.           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T866)
+## COMANDO 1 (T866)
 si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
 
-## RESPUESTA 2 (T866)
+## RESPUESTA 1 (T866)
 
 > si, el dia 50 aqui, sin falla, capaz llego el mismo dia 50, no se preocupen, voy a estar
 
@@ -101,10 +47,10 @@ Kase, en tu hombro, mira a Erwin, después a Hange y a Armin, y bosteza larguís
 
 ---
 
-## COMANDO 3 (T867)
+## COMANDO 2 (T867)
 si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
 
-## RESPUESTA 3 (T867)
+## RESPUESTA 2 (T867)
 
 > si, puedes armin, mandenle saludos a la reina y a ymir de mi parte, aunque creo que ya la despedi lo suficientemente bien a ella. me voy a one piece
 
@@ -169,4 +115,70 @@ El viejo se cruza de brazos y te mira por encima de los lentes.
 
 ---
 
-ESTADO AL CIERRE: CAMBIO DE MUNDO. Facundo dejó Shingeki (día 47 10:25; promesa: volver el día 50 antes de las 11) y llegó a One Piece: Día 56 15:55, Sabaody, Grove 41, junto al Thousand Sunny tapado con lonas y vacío. Silvers Rayleigh revisa las amarras; lo reconoce por el cartel: "Llegas tarde, muchacho. Una semana tarde." Diario: ejecución de Ace mañana a las 15:00 en Marineford. La tripulación fue dispersada por Kuma el Día 49 (Facundo no lo sabe todavía).
+## COMANDO 3 (T868)
+hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
+
+## RESPUESTA 3 (T868)
+
+> hola, mmm quien eres? y me puedes contar todo lo que paso mientras no estuve?
+
+> —Hola... Mmm, ¿quién eres? ¿Y me puedes contar todo lo que pasó mientras no estuve?
+
+El viejo se ríe por la nariz, divertido.
+
+—Silvers Rayleigh. —Se acomoda los lentes—. Un viejo que cuida este barco. Y que hace mucho tiempo navegó en otro.
+
+Se sienta sobre el barril, al lado del diario, y te señala un rollo de soga para que te sientes. Kase baja de tu hombro, olfatea las botas de Rayleigh y se sienta frente a él, mirándolo fijo.
+
+—Tus amigos llegaron hace nueve días. —Rayleigh toma un trago y mira el Sunny tapado—. Con un hombre-pez de seis brazos, Hachi, y una sirena, Camie. A la sirena la secuestraron unos traficantes y la pusieron en una subasta. Tus amigos entraron a sacarla.
+
+Sonríe, un poco.
+
+—Y tu capitán le pegó un puñetazo a un Dragón Celestial. Delante de todos. —Se ríe—. Hacía años que no veía algo tan hermoso.
+
+La sonrisa se le va.
+
+—Golpear a un Noble Mundial trae un almirante. Vino Kizaru, con soldados y con unas máquinas que tienen la cara de Bartholomew Kuma. Pacifistas, les dicen. Tus amigos pelearon bien. Pero eran demasiados.
+
+Hace una pausa larga. Mira el agua.
+
+—Y entonces llegó el Kuma de verdad. —Levanta una mano, abierta, y la mueve en el aire, despacio—. Les apoyó la mano, así, uno por uno, y desaparecieron. Puf. No los mató. De eso estoy seguro: lo vi. Los mandó lejos. A cada uno a un lugar distinto del mundo.
+
+Te mira por encima de los lentes.
+
+—La morena alta, la de los libros, fue de las primeras. Gritó el nombre de alguien antes de desaparecer. —Hace una pausa—. Creo que era el tuyo.
+
+Kase, frente a él, mueve la cola una sola vez sobre la madera.
+
+—Tu capitán fue el último. Nadie sabe dónde quedó ninguno. Hachi recibió un balazo del Noble y está en el bar de una amiga mía, recuperándose.
+
+Golpea el diario con un dedo.
+
+—Y esto. Al hermano de tu capitán, Portgas D. Ace, lo capturó un tal Barbanegra y lo entregó al Gobierno. Lo ejecutan mañana a las tres, en Marineford. Barbablanca va a ir a buscarlo. Va a ser una guerra. —Baja la voz—. Y hay un rumor de esta mañana: que alguien con un sombrero de paja entró a Impel Down. La prisión de la que nadie sale.
+
+Se queda callado un rato. Después te mira de una forma distinta, con los ojos entrecerrados.
+
+—Una cosa más. —Lo dice tranquilo—. Intenté leerte con el Haki desde que apareciste. Y no hay nada. Ni miedo, ni fuerza, ni nada. —Inclina la cabeza—. Eres como un agujero en el mar, muchacho.
+
+Toma el último trago de la botella.
+
+—¿Y tú qué vas a hacer?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 868 · ONE PIECE · DÍA 56 · 16:05       ║
+║ Sabaody · Grove 41, junto al Sunny           ║
+║ NIVEL 27 · EXP 219.040/240.000               ║
+║ FRAGMENTOS 134.508 · 6.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: frente a Rayleigh, mirándolo           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tripulación dispersada. Marineford ║
+║ mañana. Shingeki: antes del D59 16:30.       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 56 16:05, Grove 41 de Sabaody. Rayleigh contó todo: subasta, Luffy golpeó a un Dragón Celestial, Kizaru y Pacifistas, Kuma dispersó a la tripulación (vivos, cada uno a un lugar distinto; Robin gritó el nombre de Facundo antes de desaparecer), Hachi herido. Ace: ejecución mañana a las 15:00 en Marineford; rumor de Luffy en Impel Down. Rayleigh no puede leerlo con el Haki. Pregunta: "¿Y tú qué vas a hacer?"
