@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1000 · Se presenta; reverencia larga delante del gremio.
 - T1011 · Facundo lo salva del Metsu de Aria.
 DIÁLOGOS CLAVE:
+- T1018 · "Toda mi magia... como si me hubiera despertado de una siesta." "Y dices que no quieres nada." "Esta noche Fairy Tail va a hacer una fiesta. Me gustaría que vinieras. No como invitado. Ya sé que no tienes marca, muchacho. ¿Alguna vez pensaste en tener una?"
 - T1017 · "Te doy tres segundos para arrodillarte, Jose. Por todo lo que fuiste alguna vez." "Fairy Law." A Facundo: "Se terminó, muchacho. Phantom Lord se terminó."
 - T1016 · Colgado de la capa: "Avisa la próxima vez, muchacho." Rompe la ventana de la torre. "Jose."
 - T1015 · "No siento nada. Si de verdad está ahí arriba, está escondiendo su magia a propósito." "Entonces muéstrame dónde está, muchacho. Esta vez voy yo. No quiero que te metas. Esto es entre él y yo."
@@ -21,4 +22,4 @@ DIÁLOGOS CLAVE:
 - T1000 · "Yo soy Makarov, el maestro de estos mocosos." "Gracias por bajar a mis hijos de ese árbol." "Muchacho. ¿Viste quién fue?"
 QUÉ SABE DE FACUNDO: lo vio en persona (T999). Su nombre, Facundo Morelli, y que encontró a Shadow Gear colgado (T1000, él lo dijo). Por Levy: que los bajó y los curó con una semilla (T1000).
 QUÉ PODERES DE FACUNDO VIO: ninguno (vio el resultado: hierro arrancado, Shadow Gear curado).; Constelación Viva (lobo, guerrero, serpiente alada) en el salón de Phantom (T1009).; vuelo y el freno al Metsu de Aria (T1011).
-ESTADO: Llega al parque; ve a Shadow Gear curado. Furioso por el emblema.
+ESTADO: curado y con toda su magia (semilla del ermitaño, T1018), en lo alto de la torre de Phantom.

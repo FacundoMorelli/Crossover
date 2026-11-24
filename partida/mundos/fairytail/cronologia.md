@@ -48,3 +48,4 @@
 - Día 1 09:20 · (T1015, declarado por el jugador) El cuerpo de Jose está en la torre de la sede, escondiendo su magia. Makarov decide subir él solo.
 - Día 1 09:23 · (T1016) Makarov irrumpe en lo alto de la torre frente al Jose real (CAMBIO: en el canon Makarov caía drenado y el duelo era en el MK II, día 2). Juvia y Sol presentes.
 - Día 1 09:23-09:31 · (T1017) Makarov vs Jose en la torre: Sombras, Onda Muerta, FAIRY LAW. Jose vencido. Phantom entero cae. CAMBIO: la guerra termina el Día 1; no hay Jupiter, ni MK II, ni Abyss Break; Erza no queda herida; la sede de Fairy Tail no cae.
+- Día 1 09:34 · (T1018) Makarov, curado con una semilla del ermitaño, invita a Facundo a la fiesta y a unirse a Fairy Tail.

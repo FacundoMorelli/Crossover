@@ -36,3 +36,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Fairy Tail del salón · T1016 · vieron a Facundo salir volando por un ventanal con Makarov colgado de la capa. Habitantes de Oak Town pueden haber visto a alguien volar junto a la torre.
 - Jose, Juvia, Sol · T1016 · vieron a Facundo flotar afuera de la ventana de la torre con Makarov. Jose les confirma su nombre (Facundo Morelli) en voz alta: Juvia y Sol ahora lo saben.
 - Makarov · T1017 · vio que la Fairy Law no le hizo nada a Facundo (no lo considera enemigo; la luz siguió de largo).
+- Makarov · T1018 · comió una semilla de Facundo: lo curó y le devolvió toda la magia después de Fairy Law. Lo invitó a la fiesta y a unirse al gremio.

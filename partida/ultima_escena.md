@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1015)
-nada, solo quiero ayudar, el viejo ese el maestro esta arriba en su torre, lo siento desde aqui
-
-## RESPUESTA 1 (T1015)
-
-> nada, solo quiero ayudar, el viejo ese el maestro esta arriba en su torre, lo siento desde aqui
-
-> —Nada. Solo quiero ayudar. El maestro de ellos, el viejo ese, está arriba en su torre. Lo siento desde aquí.
-
-El salón se queda callado.
-
-Makarov no se mueve. Te mira un segundo largo, con los ojos entrecerrados bajo las cejas blancas, como si buscara la mentira en tu cara y no la encontrara.
-
-—En la torre —repite.
-
-Gira la cabeza despacio hacia arriba, hacia el techo, hacia el otro lado del edificio, donde está la torre de la que sacaste a Lucy. Cierra los ojos. Se le tensan los hombros debajo de la capa.
-
-Pasan dos segundos. Tres.
-
-Los vuelve a abrir.
-
-—No siento nada —dice en voz baja. No suena a duda: suena a que eso es lo que lo preocupa—. Ni un rastro. Si de verdad está ahí arriba, entonces está escondiendo su magia a propósito. Proyectó esa imagen para que lo buscara en el lugar equivocado. —Aprieta la mandíbula—. Y yo me lo creí.
-
-—¿Entonces Jose está aquí? —Gray da un paso adelante. Tiene escarcha en los nudillos—. ¿En el mismo edificio?
-
-—¡Pues vamos a buscarlo! —Natsu ya tiene los puños encendidos—. ¡Le voy a dar una paliza a ese...!
-
-—No. —Makarov ni siquiera levanta la voz, y Natsu se calla igual—. Jose es un Mago Santo. Si es una trampa, no voy a mandar a ninguno de ustedes a meterse en ella.
-
-Se vuelve hacia el gremio.
-
-—¡Erza! Los heridos, Gajeel y Aria, todos abajo. Que nadie se separe de nadie. Si este edificio empieza a moverse, salgan por la puerta principal y no se den vuelta.
-
-—Sí, maestro.
-
-Después te mira otra vez a ti. Un momento largo.
-
-—Dijiste que solo quieres ayudar. —Se arremanga la capa, despacio, mostrando unos brazos flacos y llenos de arrugas, y el aire alrededor vuelve a ponerse pesado, como en el parque, como antes de una tormenta—. Entonces muéstrame dónde está, muchacho. Esta vez voy yo. Y si tienes razón, no quiero que te metas. Esto es entre él y yo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1015 · FAIRY TAIL · X784 · DÍA 1 ·     ║
-║ 09:20 · Phantom Lord · salón principal       ║
-║ NIVEL 27 · EXP 225.700/240.000               ║
-║ FRAGMENTOS 107.587 · 0 jewel                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que la sede de Fairy Tail   ║
-║ siga en pie al terminar la guerra            ║
-║ OBJETIVO: Llevar a Makarov hasta Jose        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1016)
+## COMANDO 1 (T1016)
 lo llevo volando hasta la torre donde está Jose
 
-## RESPUESTA 2 (T1016)
+## RESPUESTA 1 (T1016)
 
 > lo llevo volando hasta la torre donde está Jose
 
@@ -125,10 +68,10 @@ Makarov empieza a crecer.
 
 ---
 
-## COMANDO 3 (T1017)
+## COMANDO 2 (T1017)
 observo la pelea entre Makarov y Jose
 
-## RESPUESTA 3 (T1017)
+## RESPUESTA 2 (T1017)
 
 > observo la pelea entre Makarov y Jose
 
@@ -254,4 +197,64 @@ Makarov se tambalea. Apoya una mano en lo que queda de pared. Levanta la vista h
 
 ---
 
-ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:31, lo alto de la torre de Phantom (sin techo). Makarov venció a Jose con Fairy Law. Misión de Mundo cumplida. Makarov le dice a Facundo: "Se terminó." Facundo puede actuar.
+## COMANDO 3 (T1018)
+le doy una semilla del ermitaño, comela viejo
+
+## RESPUESTA 3 (T1018)
+
+> le doy una semilla del ermitaño, comela viejo
+
+> —Cómela, viejo.
+
+Pasas por el marco roto de la ventana y te posas sobre la alfombra, entre los vidrios. Sacas una semilla del bolsillo del sobretodo y se la tiendes en la palma.
+
+Makarov la mira. Es un poroto chico, verde, de nada.
+
+—¿Esto fue lo que le diste a Levy? —Levanta una ceja blanca—. Ella dijo que ni las medicinas de Porlyusica hacían eso.
+
+No espera respuesta. La agarra con dos dedos, se la mete en la boca y la mastica, con cara de viejo que desconfía de la comida ajena.
+
+Traga.
+
+Durante un segundo no pasa nada.
+
+Después se le endereza la espalda. Las quemaduras de la Onda Muerta en los brazos se le aclaran, se le cierran, desaparecen, y debajo queda la piel lisa, arrugada y sana de siempre. Deja de jadear. Se le va el temblor de las piernas. El color le vuelve a las mejillas, y algo más: una luz suave alrededor del cuerpo, apenas visible, como la que tenía en el parque antes de romper el bastón.
+
+Se mira las manos. Las abre y las cierra.
+
+—Toda mi magia... —murmura—. Acabo de usar Fairy Law, y la tengo entera. Como si me hubiera despertado de una siesta.
+
+Te mira. Después mira a Jose, gris y quieto en el piso. A Juvia y a Sol, desmayados contra la pared. El cielo abierto donde antes estaba el techo de la torre.
+
+Se queda en silencio un rato.
+
+—Bajaste a mis hijos de un árbol. —Lo dice despacio, como quien hace una cuenta—. Le pegaste a Gajeel, le pegaste a Aria. Me salvaste la espalda. Sacaste a Lucy de una torre. Encontraste a Jose cuando yo no podía. Y ahora esto. —Levanta la vista—. Y dices que no quieres nada.
+
+Se rasca el bigote.
+
+Desde abajo, por el hueco de la escalera de la torre, se escuchan pasos que suben corriendo y la voz de Natsu gritando "¡VIEJO!", y la de Erza detrás, más tranquila, diciéndole que no grite.
+
+Makarov no les hace caso. Sigue mirándote.
+
+—Esta noche, cuando volvamos a Magnolia, Fairy Tail va a hacer una fiesta. Una de las grandes. —Una pausa—. Me gustaría que vinieras. No como invitado. —Se cruza de brazos—. Ya sé que no tienes marca, muchacho. ¿Alguna vez pensaste en tener una?
+
+[Semillas del ermitaño: 84.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1018 · FAIRY TAIL · X784 · DÍA 1 ·     ║
+║ 09:34 · Phantom Lord · lo alto de la torre   ║
+║ NIVEL 27 · EXP 234.700/240.000               ║
+║ FRAGMENTOS 107.837 · 0 jewel                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Fairy Tail, X784 Día 1 09:34, lo alto de la torre de Phantom. Makarov, curado por la semilla, invita a Facundo a la fiesta y le pregunta si pensó en tener la marca de Fairy Tail. Natsu y Erza suben. Facundo puede responder.
