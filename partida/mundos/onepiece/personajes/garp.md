@@ -13,3 +13,4 @@ QUÉ SABE DE FACUNDO: el cartel (26M, Ojos de Eclipse, dibujo con el gato); que 
 QUÉ PODERES DE FACUNDO VIO: ninguno todavía.
 ESTADO: activo.
 - T793 · Leyó los informes del Buster Call sobre Facundo (vuelo, balas frenadas). Levanta el puño para "probarlo".
+- T794 · Le pega a Facundo un Puño del Amor; Facundo ni pestañea. "¡Es como pegarle a la Red Line!"
