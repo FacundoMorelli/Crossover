@@ -949,3 +949,4 @@ T947 · Shingeki · Mitras · Convoca reunión: 01:15, sala de mapas, todos. Erw
 T948 · Shingeki · Mitras · Anuncia que puede revivir a los muertos por titanes y borrar todos los titanes. Erwin: "¿Cómo?" Ymir: "¿Los Nueve también? ¿El mío?"
 T949 · Shingeki · Mitras · "Todos. Ustedes no." Ymir llora; Eren aliviado; Armin: fin de la maldición. Erwin: el equilibrio del mundo cambia. "Todavía no me respondió cómo."
 T950 · Shingeki · Mitras · "Puedo crear algo capaz de cumplir deseos." Erwin: cientos de miles; Historia: Wall Maria. "¿Cuántos deseos? El orden importa."
+T951 · Shingeki · Mitras · Dos o tres deseos, una sola vez. Armin: titanes, muertos, casas. Erwin: 7 días, avisar a Liberio, deseos el 8.º día. "¿Le parece?"

@@ -180,3 +180,4 @@
 - Erwin, Levi, Hange, Armin, Mikasa, Eren, Historia, Jean, Connie, Sasha, Ymir · T948 · Por Facundo: dice tener una forma de revivir a todos los muertos por titanes, hacer desaparecer todos los titanes y devolver a los titanes puros a la normalidad.
 - Todos en la sala de mapas · T949 · Por Facundo: los Nueve también desaparecerían; los portadores seguirían vivos.
 - Todos en la sala de mapas · T950 · Por Facundo: es una habilidad suya; puede crear algo que cumple deseos; los revividos aparecerían en un mismo lugar.
+- Todos en la sala de mapas · T951 · Por Facundo: dos o tres deseos, una sola vez (puede causar problemas de estabilidad), también la reconstrucción; "es de los lugares a los que viajo". Por Ymir: Lara Tybur le escribió a Facundo sobre su titán.

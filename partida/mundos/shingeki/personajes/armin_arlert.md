@@ -13,3 +13,4 @@ ESTADO: activo
 - T931 · Día 48: marca con alfileres las posiciones de la demostración.
 - T948 · Se tapa la boca con las dos manos.
 - T949 · Sin titán no hay maldición de trece años; los eldianos dejarían de ser temidos.
+- T951 · Orden de los deseos: 1) titanes fuera y puros a personas, en todo el mundo; 2) los muertos; 3) reconstrucción, para que tengan casas esa misma noche.

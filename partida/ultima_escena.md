@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T948)
-Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
-
-## RESPUESTA 1 (T948)
-
-> Tengo una forma de revivir a todos los que murieron por los titanes y de desaparecer a todos los titanes del mundo y los que estan transformados en titanes puros que vuelvan a la normalidad
-
-> —Tengo una forma de revivir a todos los que murieron por los titanes, de hacer desaparecer a todos los titanes del mundo, y de que los que están transformados en titanes puros vuelvan a la normalidad.
-
-Nadie dice nada.
-
-Durante un segundo, en la sala de mapas, lo único que se mueve son las llamas de las velas.
-
-A Sasha se le cae el pan de la mano. Rebota en el piso de piedra y rueda debajo de la mesa, y nadie se agacha a buscarlo.
-
-Eren es el primero en reaccionar. Se le va el sueño de la cara de golpe. Da un paso hacia ti, descalzo, con los ojos muy abiertos y la boca entreabierta, y se queda ahí. No pregunta nada. Está pensando en una sola cosa, y todos en la sala saben cuál es: una casa en Shiganshina, una viga, una sonrisa de dientes torcidos.
-
-Mikasa le agarra la manga. No para frenarlo. Para agarrarse ella.
-
-Armin se tapa la boca con las dos manos.
-
-Connie no se mueve. Está pálido, quieto, con los puños cerrados a los costados, y cuando por fin habla, la voz le sale rota y chiquita, como la de un chico.
-
-—Los que están... transformados. —Traga—. ¿Eso es... mi mamá? ¿Ragako? ¿Todo el pueblo?
-
-Jean le pone una mano en el hombro sin mirarlo, sin dejar de mirarte a ti.
-
-Levi se despega de la pared. Ya no tiene cara de sueño. Tiene una expresión que nadie de los presentes le vio nunca, y que nadie se anima a mirar mucho tiempo.
-
-—Todos los que murieron por los titanes —repite, despacio, en voz baja—. Todos.
-
-No dice nombres. No hace falta.
-
-Historia se lleva una mano al pecho. Hange se saca los anteojos, que tenía al revés, y se los vuelve a poner al derecho, muy despacio, como si tuviera que ver mejor para entender.
-
-Erwin es el único que no cambia la cara. Pero tiene la mano de la manga vacía apretada contra el muñón, con fuerza, y los nudillos blancos.
-
-—¿Cómo? —pregunta. Solo eso.
-
-En el borde de la mesa, Ymir dejó el frasco de manzanas a un lado. Está sentada muy derecha, con la manta resbalándole de los hombros, mirándote. Tiene la cara blanca.
-
-—"Todos los titanes del mundo" —repite, bajito—. Lindo... ¿Eso son también los Nueve?
-
-Se lleva una mano al pecho, sin darse cuenta.
-
-—¿Eso es el mío también?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 948 · SHINGEKI · DÍA 55 · 01:17        ║
-║ Mitras · palacio, sala de mapas              ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Explicar el cómo. Erwin pregunta;  ║
-║ Ymir pregunta por los Nueve.                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T949)
+## COMANDO 1 (T949)
 Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
 
-## RESPUESTA 2 (T949)
+## RESPUESTA 1 (T949)
 
 > Si, todos, todo lo que tienen dentro eso desapareceria, ustedes no
 
@@ -122,10 +58,10 @@ Hace una pausa. Se le nota el esfuerzo en la voz cuando sigue, más bajo.
 
 ---
 
-## COMANDO 3 (T950)
+## COMANDO 2 (T950)
 Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
 
-## RESPUESTA 3 (T950)
+## RESPUESTA 2 (T950)
 
 > Es una habilidad mia, puedo crear algo que es capaz de cumplir deseos, no importa que esten enterrados, no van a aparecer en sus tumbas, puedo hacer que aparezcan todos en un mismo lugar
 
@@ -178,4 +114,60 @@ Erwin la mira. Asiente, despacio.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 55 01:22, sala de mapas. Facundo explicó que puede crear algo que cumple deseos y que los revividos aparecerían en un mismo lugar. Erwin calcula cientos de miles; Historia propone el territorio de Wall Maria. Erwin pide tiempo para logística y pregunta cuántos deseos cumple, porque el orden importa. Facundo puede responder.
+## COMANDO 3 (T951)
+Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
+
+## RESPUESTA 3 (T951)
+
+> Tendria que verlo, pero seguro sean 2 o 3, tambien puedo pedir la reconstruccion de todo lo que fue destruido, no intenten entender como es, por que es de los lugares a los que viajo, solo simplemente aprovechenlo, no creo que vaya a usar mucho mas este poder, por el hecho que puede causar problemas en la estabilidad asi que solo lo voy a usar una vez
+
+> —Tendría que verlo, pero seguro sean dos o tres. También puedo pedir la reconstrucción de todo lo que fue destruido. No intenten entender cómo es, porque es de los lugares a los que viajo. Simplemente aprovéchenlo. No creo que vaya a usar mucho más este poder, porque puede causar problemas de estabilidad. Así que lo voy a usar una sola vez.
+
+—No intenten entender —repite Levi, por lo bajo, mirando a Hange—. ¿Oíste?
+
+Hange abre la boca. La cierra. Escribe algo en el cuaderno, muy rápido, y lo tapa con el brazo.
+
+Erwin no discute. Asiente una sola vez, como quien recibe una orden que no necesita explicación, y se vuelve hacia la mesa.
+
+—Una sola vez. Dos o tres deseos. —Apoya la mano sobre los planos—. Entonces no hay margen para el error. Armin.
+
+Armin da un paso adelante, todavía con los ojos rojos. Se seca la cara con la manga.
+
+—El orden —dice. Se le aclara la voz a medida que habla, como siempre que piensa—. Si los muertos vuelven primero, aparecen en un territorio donde todavía hay titanes. Así que lo primero tiene que ser que desaparezcan los titanes y que los puros vuelvan a ser personas. Todos a la vez, en todo el mundo. —Mira a Connie—. Después, los muertos. Y si hay tercero, la reconstrucción. Que tengan casas donde dormir esa misma noche.
+
+—Titanes, muertos, casas —resume Erwin—. Coincido.
+
+Connie asiente sin poder hablar.
+
+—Pero hay algo más. —Erwin levanta la vista hacia ti—. Si todos los titanes del mundo desaparecen, también desaparecen los de Marley. El Acorazado, la Hembra, el Carguero, el Martillo de los Tybur. Y su poder militar con ellos. —Hace una pausa—. Si eso pasa una mañana, sin aviso, en Liberio lo van a leer como un ataque de Paradis. A diez días de haber firmado la paz.
+
+—Willy y Magath tienen que saberlo antes —dice Historia, desde la mesa—. Y la señorita Tybur.
+
+Ymir, a su lado, levanta la cabeza por primera vez desde que se tapó la cara. Tiene los ojos rojos e hinchados. Te mira a ti.
+
+—Ella ya lo sabe —dice, con la voz ronca—. Más o menos. Le escribió a él.
+
+Todos se dan vuelta hacia ti.
+
+Erwin deja pasar un segundo.
+
+—Entonces le propongo esto, señor Morelli. —Enumera con los dedos de la única mano—. Siete días para que Paradis prepare comida, mantas, médicos y registros en todo el territorio de Wall Maria. En esos siete días, usted habla con Liberio: con Willy Tybur, con Magath y con la señorita Tybur. Y el octavo día, al amanecer, en el lugar que elija, pide los deseos. —Baja la mano—. ¿Le parece?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 951 · SHINGEKI · DÍA 55 · 01:26        ║
+║ Mitras · palacio, sala de mapas              ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Plan de Erwin: 7 días de           ║
+║ preparación, avisar a Liberio, deseos el 8.  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 55 01:26, sala de mapas. Facundo: dos o tres deseos, una sola vez, también la reconstrucción. Armin fija el orden (titanes → muertos → reconstrucción). Erwin advierte sobre Marley y propone: 7 días de preparación en Wall Maria, Facundo avisa a Willy, Magath y Lara, deseos el 8.º día al amanecer. Pregunta si le parece. Facundo puede responder.
