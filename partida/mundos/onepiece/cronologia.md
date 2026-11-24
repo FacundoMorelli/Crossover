@@ -131,3 +131,4 @@
 - Día 36 08:08-12:15 · (T764) Regreso a Water 7 en el Merry volando (canon: en los barcos de la Galley-La/Merry muerto; aquí el Merry sigue vivo, cansado). Iceburg, Kokoro, Chimney y Gonbe esperan en el Dock 1.
 - Día 36 12:20 · (T765) Facundo propone el funeral del Merry; Luffy y Usopp aceptan (canon: el Merry se rompía en Enies Lobby y Luffy lo quemaba en el mar).
 - Día 36 18:40 · (T766) Funeral del Going Merry en el mar frente a Water 7 (canon: frente a Enies Lobby/Water 7 tras el rescate). Luffy enciende el barco.
+- Día 36 19:05 · (T767) El Merry habla en su funeral (canon) y agradece también a Facundo por los refuerzos (cambio). Se hunde. Nieve en el cielo despejado (canon).
