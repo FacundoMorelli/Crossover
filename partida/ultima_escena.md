@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T814)
-se fue, dijo que no queria nada
-
-## RESPUESTA 1 (T814)
-
-> se fue, dijo que no queria nada
-
-> —Se fue. Dijo que no quería nada.
-
-Junto a la fogata, Lola se queda con la boca abierta y la cuchara en el aire.
-
-Te mira, y lo ve en tu cara.
-
-Cierra la boca despacio. Se da vuelta hacia la olla y se pone a revolver con mucha concentración, sin mirar a nadie. Uno de los Rolling le dice algo al oído. Lola le pega con la cuchara en la cabeza sin darse vuelta.
-
-—¿Se fue? —Luffy se rasca la cabeza—. ¡Qué tipo raro! —Se olvida en el acto—. ¡Sanji! ¡Carne!
-
-—Ya voy, ya voy, maldito estómago de goma.
-
-Zoro no se mueve. Mira el charco de sangre seca en el pasto. Mira tu sobretodo. Te mira a los ojos un segundo largo, con la mano apoyada en la Shusui.
-
-—Si tú lo dices.
-
-Se da vuelta y se va a sentar contra la piedra. No pregunta más.
-
-Robin no se mueve de tu lado.
-
-Estira la mano y te toca la manga del sobretodo. Está dura, tiesa de sangre seca, y cruje entre sus dedos. Pasa la mano hasta el pecho, donde la tela está empapada, y la deja ahí, apoyada, sintiéndote respirar.
-
-Te mira a los ojos.
-
-No te cree. Se le nota en toda la cara. Mira a la tripulación entera, sana, descansada, riéndose alrededor de la fogata como si anoche no hubiera pasado nada. Te mira a ti, cubierto de sangre. Hace la cuenta. Es arqueóloga: une piezas.
-
-Abre la boca. La cierra.
-
-Aprieta la mandíbula, con los ojos brillosos. No dice nada.
-
-Te toma la mano y entrelaza los dedos con los tuyos, fuerte, casi con rabia. Y no la suelta.
-
-Kase, en tus piernas, estira una pata y la apoya sobre la mano de Robin.
-
-—¡Desayuno! —grita Sanji, junto a la olla de Lola—. ¡Las damas primero!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 814 · ONE PIECE · DÍA 44 · 07:41       ║
-║ Thriller Bark · explanada en ruinas          ║
-║ NIVEL 27 · EXP 215.740/240.000               ║
-║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en tus piernas                         ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Kuma se fue sin cabezas. Salir de  ║
-║ One Piece antes del Día 49.                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T815)
+## COMANDO 1 (T815)
 le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
 
-## RESPUESTA 2 (T815)
+## RESPUESTA 1 (T815)
 
 > le doy un beso en la frente a robin, tranquila estoy bien amor y desayunamos
 
@@ -119,10 +59,10 @@ Después, despacio, el violín se le resbala de los dedos y cae al pasto.
 
 ---
 
-## COMANDO 3 (T816)
+## COMANDO 2 (T816)
 miro a brook y espero
 
-## RESPUESTA 3 (T816)
+## RESPUESTA 2 (T816)
 
 > miro a brook y espero
 
@@ -193,4 +133,66 @@ Luffy mira el papel un largo rato, serio, sin sonreír. Después lo dobla con cu
 
 ---
 
-ESTADO AL CIERRE: Día 44 09:10. Brook contó su historia, cantaron Binks no Sake, se unió de verdad. Luffy sacó la vivre card de Ace: se está quemando; Nami explicó que Ace está en peligro; Luffy la guardó: "Ace es fuerte. Va a estar bien." (Secreto: Ace fue capturado por Barbanegra el Día 40.)
+## COMANDO 3 (T817)
+bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
+
+## RESPUESTA 3 (T817)
+
+> bueno chicos, hoy me voy a ir, capaz me pierdo sabaody, no se preocupen en donde esten voy a poder ir
+
+> —Bueno, chicos, hoy me voy a ir. A lo mejor me pierdo Sabaody. No se preocupen: donde estén, voy a poder ir.
+
+Por un segundo, nadie dice nada alrededor de la fogata.
+
+Luffy es el primero. Se encoge de hombros con un hueso en la boca, como si le hubieras dicho que vas a buscar agua.
+
+—¡Está bien! —Mastica—. ¡Pero vuelve! ¡Eres de mi tripulación!
+
+Brook gira la calavera de uno a otro, confundido.
+
+—¿Irse? ¿Adónde? ¿Ahora? ¡Si acabo de unirme!
+
+—Siempre hace eso —le explica Usopp, en voz baja, como quien cuenta un secreto—. Desaparece. Y después vuelve. Nunca sabemos de dónde.
+
+—¡Yohohoho! ¡Qué misterioso! ¡Me da escalofríos! ¡Aunque no tengo piel!
+
+Nami se pone de pie con los brazos en jarra.
+
+—Muy bien, pero antes de irte te llevas tu parte del tesoro de Moria. Bueno, la mitad de tu parte. Bueno, un tercio. —Hace cuentas con los dedos—. Te la guardo yo.
+
+Zoro, contra la piedra, te mira un segundo y asiente, una sola vez.
+
+Sanji enciende un cigarro y suelta el humo.
+
+—Te guardo comida. Pero no te quejes si está fría.
+
+Franky levanta el pulgar. Chopper te mira con los ojos húmedos y se agarra a la pierna de Usopp.
+
+Robin no dice nada delante de todos.
+
+Se levanta despacio, se sacude el pasto de la falda y te tiende la mano. Cuando se la tomas, tira de ti para que te pares.
+
+—Antes de irte, ven conmigo. —Lo dice tranquila, pero con los ojos fijos en los tuyos—. Me debes una historia.
+
+Sin esperar respuesta, sin soltarte la mano, camina entre las ruinas hacia el muelle donde está anclado el Sunny.
+
+Kase salta de la piedra y los sigue.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 817 · ONE PIECE · DÍA 44 · 09:14       ║
+║ Thriller Bark · camino al Sunny              ║
+║ NIVEL 27 · EXP 215.740/240.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: detrás de ustedes                      ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Irte hoy de One Piece. Volver      ║
+║ después donde estén.                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 09:14. Facundo avisó que se va hoy. La tripulación lo tomó con calma. Robin lo lleva de la mano hacia el Sunny: "Me debes una historia" (lo de Kuma y la sangre). Kase los sigue.

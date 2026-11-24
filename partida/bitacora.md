@@ -815,3 +815,4 @@ T813 · One Piece · Thriller Bark · Despiertan todos curados. Robin ve la sang
 T814 · One Piece · Thriller Bark · "Se fue. Dijo que no quería nada." Lola calla. Zoro no pregunta. Robin no le cree.
 T815 · One Piece · Thriller Bark · Beso en la frente a Robin. Desayuno. Luffy le cuenta a Brook de Laboon.
 T816 · One Piece · Thriller Bark · Historia de Brook, Binks no Sake; se une. La vivre card de Ace se quema.
+T817 · One Piece · Thriller Bark · Avisa que se va hoy. Robin lo lleva aparte: "Me debes una historia."

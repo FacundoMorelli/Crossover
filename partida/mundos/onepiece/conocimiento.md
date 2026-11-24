@@ -207,3 +207,4 @@
 - Tripulación · T814 · Por Facundo: Kuma "se fue, dijo que no quería nada". Lola NO contó el trato (lo guarda por decisión propia). Robin y Zoro sospechan que hubo algo más (no saben qué).
 - Brook · T815 · Por Luffy: Laboon sigue vivo en el Cabo Gemelo, esperando.
 - Tripulación, Facundo · T816 · Por Brook: los Piratas Rumbar, Laboon, la promesa, Binks no Sake. Ven la vivre card de Ace quemándose (Nami: Ace está en peligro).
+- Tripulación, Brook, Lola · T817 · Por Facundo: hoy se va; a lo mejor se pierde Sabaody; donde estén, va a poder ir.
