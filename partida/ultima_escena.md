@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T798)
-ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
-
-## RESPUESTA 1 (T798)
-
-> ehh yo le vi la cara a dragon, lo vi cuando estaba en loguetown antes de volver al barco con ustedes
-
-> —Eh, yo le vi la cara a Dragon. Lo vi cuando estaba en Loguetown, antes de volver al barco con ustedes.
-
-Todos se dan vuelta a mirarte. Todos a la vez: la tripulación, los dos marines y Garp.
-
-Garp se endereza en la silla. La sonrisa se le borra entera. Por un segundo deja de parecer un abuelo ruidoso y se ve lo que es, un vicealmirante con cincuenta años de guerra encima.
-
-—¿Le viste la cara? —Lo dice bajo—. ¿De cerca?
-
-Se inclina sobre el respaldo de la silla.
-
-—¿Te dijo algo?
-
-Junto a la pared rota, Koby y Helmeppo se miran. Helmeppo traga saliva. Hay marines que pasaron la vida entera persiguiendo a ese hombre sin verle más que la capa, y lo saben los dos.
-
-Robin te mira desde el sillón con los ojos entrecerrados, en silencio, sumando otra pieza.
-
-Pero antes de que nadie diga nada más, Luffy salta de la mesa, cruza el comedor de dos pasos y se te planta delante, tan cerca que le ves los granos de arroz que todavía tiene en la mejilla.
-
-—¡¿Cómo es?! —Te agarra de las solapas del sobretodo y te sacude—. ¡¿Se parece a mí?! ¡¿Es alto?! ¡¿Tiene sombrero?! ¡¿Come carne?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 798 · ONE PIECE · DÍA 38 · 10:35       ║
-║ Water 7 · casa de la Galley-La               ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el alféizar, al sol                 ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Barco nuevo en construcción (4-5   ║
-║ días). Salir de One Piece antes del Día 49.  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T799)
+## COMANDO 1 (T799)
 es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
 
-## RESPUESTA 2 (T799)
+## RESPUESTA 1 (T799)
 
 > es alto, con capa verde y un tatuaje rojo en la cara, le pregunte quien era y me dijo " Alguien que tiene curiosidad por ver qué hacen ustedes con el mar"
 
@@ -103,10 +59,10 @@ Robin sigue mirándote desde el sillón, en silencio, con el libro cerrado sobre
 
 ---
 
-## COMANDO 3 (T800)
+## COMANDO 2 (T800)
 simula hasta que este el barco
 
-## RESPUESTA 3 (T800)
+## RESPUESTA 2 (T800)
 
 > simula hasta que este el barco
 
@@ -191,4 +147,56 @@ Luffy ya está trepando por la cabeza del león.
 
 ---
 
-ESTADO AL CIERRE: Día 41 09:00, Dock 1. Se descubrió el barco nuevo (cabeza de león, césped). Iceburg propone el nombre "Thousand Sunny". Luffy trepa al león. Franky ya es tripulante. Facundo tiene cartel de 400M. Pendiente (canon): Garp atacará cuando zarpen; Aokiji visita a Robin antes de zarpar.
+## COMANDO 3 (T801)
+me acerco a robin y miro el barco con ella
+
+## RESPUESTA 3 (T801)
+
+> me acerco a robin y miro el barco con ella
+
+Caminas entre la gente hasta donde está Robin, un poco apartada de los demás, al borde del muelle. Te paras a su lado. Kase estira el cuello desde tu hombro para ver mejor el león.
+
+Robin no te mira. Sigue con los ojos en el barco, pero te pasa el brazo por la cintura y apoya la cabeza contra tu hombro, del lado libre.
+
+Durante un rato miran juntos, en silencio. El sol de la mañana pega sobre la madera oscura y la hace brillar casi roja. En la cubierta, el césped se mueve con la brisa. Usopp ya está colgado de un mástil, Chopper corre por el pasto como un cachorro, y Zoro encontró el árbol del centro y se acostó a la sombra antes que nadie.
+
+—Cuando llegué a Arabasta —dice Robin, bajito—, pensé que iba a morir sola. En algún desierto, en alguna celda. Que así terminaba esto.
+
+Mira el césped, el león, a Luffy trepado en la melena.
+
+—Y ahora tengo un barco con pasto.
+
+Se le escapa una risa corta.
+
+Desde la cubierta, Franky se asoma por la baranda, haciendo bocina con las manos.
+
+—¡Ey, Nico Robin! ¡Arriba, al lado del puesto del vigía, te hice una biblioteca! —Levanta el pulgar—. ¡Con escritorio, estantes hasta el techo y un lugar especial para ese libro raro que siempre andas leyendo! ¡SUPEEER!
+
+Robin se queda quieta. Aprieta el libro de Paradis contra el costado.
+
+—...Una biblioteca. —Se le humedecen los ojos, pero sonríe—. Nunca tuve una biblioteca.
+
+Arriba, en la cabeza del león, Luffy se para sobre la melena con los brazos abiertos.
+
+—¡THOUSAND SUNNY! ¡Así se llama! ¡Me gusta!
+
+Toda la Galley-La aplaude. La familia Franky llora a mares. Iceburg asiente, satisfecho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 801 · ONE PIECE · DÍA 41 · 09:03       ║
+║ Water 7 · Dock 1 de la Galley-La             ║
+║ NIVEL 26 · EXP 213.240/215.000               ║
+║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Thousand Sunny listo. Zarpar.      ║
+║ Salir de One Piece antes del Día 49.         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 41 09:03, Dock 1. Facundo y Robin miran el Thousand Sunny abrazados. Franky le hizo una biblioteca a Robin. Luffy bautizó el barco. Pendiente (canon): Garp atacará cuando zarpen; Aokiji visita a Robin antes de zarpar.
