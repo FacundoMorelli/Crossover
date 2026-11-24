@@ -51,3 +51,4 @@ ESTADO: activa
 - T710 · "Prométeme que no van a venir." Le cuenta de Ohara.
 - T711 · "Están todos locos." Lo besa. Le deja el libro de Paradis: "Guárdamelo." "Si vienen, no se mueran." Se va.
 - T716 · Enmascarada en el ataque a Iceburg; se le corre la máscara.
+- T744 · Desde el balcón de la Torre: "¡QUIERO VIVIR! ¡LLÉVENME AL MAR CON USTEDES!". Busca a Facundo con la mirada mientras lo grita.

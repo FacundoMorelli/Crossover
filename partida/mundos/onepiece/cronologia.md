@@ -112,3 +112,4 @@
 - Día 36 06:00 · (T741) Llega el tren del CP9 a Enies Lobby con Robin, Franky y Usopp presos. Spandam los recibe y los llevan a la Torre de la Justicia (canon).
 - 06:20 · (T742) Ataque a Enies Lobby (canon, antes y con otra entrada). Luffy grita a Robin desde el portón. Gigantes Oimo y Kashi.
 - 06:50 · (T743) Asalto hasta la plaza del Juzgado. Facundo noquea a Oimo y Kashi. Spandam saca a Robin al balcón de la Torre; Luffy le pide que diga que quiere vivir (canon).
+- Día 36 06:52 · (T744) Robin grita que quiere vivir (canon). Usopp, preso en el balcón, no está como Sogeking para quemar la bandera (cambio).
