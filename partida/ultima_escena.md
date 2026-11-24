@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T956)
-saco las 7 esferas, sal eclipse
-
-## RESPUESTA 1 (T956)
-
-> saco las 7 esferas, sal eclipse
-
-Sacas las siete esferas del inventario. Aparecen en el aire, delante de ti, y bajan despacio hasta el pasto, formando un círculo. Las estrellas rojas y azules giran adentro, cada vez más rápido. Los siete anillos blancos brillan a la vez.
-
-Detrás de ti, alguien contiene el aire. Es Hange.
-
-Las esferas empiezan a latir. Al mismo ritmo. Cada vez más fuerte.
-
-> —¡Sal, Eclipse!
-
-El cielo se apaga.
-
-No de a poco: de golpe. La línea gris del amanecer, en el horizonte, desaparece como si alguien la hubiera borrado con la mano. Las estrellas que quedaban en el cielo se apagan una por una. El mar se pone negro. El viento se detiene en seco, y con él el ruido de las olas. Durante un segundo, sobre la meseta, no hay nada: ni luz, ni sonido, ni aire que se mueva.
-
-Solo las siete esferas, brillando en el pasto.
-
-Después, de las esferas sale una columna de luz.
-
-No es dorada, como la de los dragones de Dende. Es negra con borde blanco: un rayo de oscuridad pura rodeado por un anillo de luz, que sube hasta el cielo apagado, se retuerce, se dobla, y empieza a tomar forma.
-
-Un cuerpo largo, enorme, enroscado sobre sí mismo. Kilómetros de cuerpo, que se pierden en el cielo negro, se enroscan sobre el mar, pasan por encima del acantilado y vuelven. Las escamas son de un negro profundo, brillante como obsidiana mojada, y a lo largo del lomo le corre una cresta de fuego blanco y azul, igual que la Corona. Tiene cuatro garras plateadas, cada una del tamaño de una casa. Los bigotes, largos, flotan en el aire quieto como cintas de humo.
-
-Y la cabeza.
-
-Baja despacio, desde muy alto, hasta quedar suspendida sobre la meseta, frente a ti. Es más grande que el palacio de Mitras. Tiene cuernos curvos, plateados, y alrededor del cráneo un anillo de luz blanca que brilla como el borde de un eclipse. Los ojos se abren.
-
-El izquierdo, rojo carmesí. El derecho, azul hielo. Con pupilas verticales, finísimas.
-
-Detrás de ti, se oye un golpe seco en el pasto: Zackly se cayó sentado. Sasha grita y se tapa la boca. Pixis deja caer la petaca. Connie agarra a Jean del brazo con tanta fuerza que Jean se queja. Levi tiene la mano en la empuñadura de la espada y no la saca. Mikasa se puso delante de Eren sin pensarlo. Eren no se mueve, con la boca abierta y los ojos muy abiertos, mirando hacia arriba.
-
-Hange llora. Sonríe y llora al mismo tiempo, con el cuaderno caído a los pies.
-
-Kase, en tu hombro, mira al dragón a los ojos. No se eriza. Parpadea despacio, una vez.
-
-El dragón parpadea también.
-
-Y habla. Con una voz que no viene de su boca sino de todas partes a la vez, del cielo, del mar, de la tierra que tienes debajo de los pies, grave y lenta como un trueno que no termina.
-
-—HAS REUNIDO LAS SIETE ESFERAS DEL ECLIPSE. YO SOY ECLIPSE. TE CONCEDERÉ TRES DESEOS, CUALESQUIERA QUE SEAN.
-
-Los ojos rojo y azul bajan hasta ti.
-
-—DIME TU PRIMER DESEO.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 956 · SHINGEKI · DÍA 63 · 04:55        ║
-║ Costa este de Paradis · meseta del           ║
-║ acantilado                                   ║
-║ NIVEL 27 · EXP 222.740/240.000               ║
-║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Tres deseos: titanes → muertos →   ║
-║ reconstrucción.                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T957)
+## COMANDO 1 (T957)
 Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
 
-## RESPUESTA 2 (T957)
+## RESPUESTA 1 (T957)
 
 > Primero, deseo que desaparezcan los titanes del mundo y que los que estan transformados en titanes vuelvan a ser humanos
 
@@ -148,10 +81,10 @@ El cielo sigue negro. El dragón sigue ahí, suspendido sobre la meseta, enorme,
 
 ---
 
-## COMANDO 3 (T958)
+## COMANDO 2 (T958)
 Segundo quiero que revivas a todos los muertos por titanes de esta epoca
 
-## RESPUESTA 3 (T958)
+## RESPUESTA 2 (T958)
 
 > Segundo quiero que revivas a todos los muertos por titanes de esta epoca
 
@@ -219,4 +152,81 @@ El dragón sigue suspendido sobre todos, con los ojos clavados en ti.
 
 ---
 
-ESTADO AL CIERRE: Shingeki, día 63 05:02, meseta del acantilado. Segundo deseo cumplido: todos los muertos por titanes de los últimos 107 años revividos (los de la isla en los campamentos de Wall Maria; los del continente en sus casas). Eren pregunta si su madre está en Shiganshina. Eclipse pide el tercer y último deseo. Facundo puede responder/pedir.
+## COMANDO 3 (T959)
+si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
+
+## RESPUESTA 3 (T959)
+
+> si eren, tu mama esta ahi, y ultimo deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes
+
+> —Sí, Eren. Tu mamá está ahí.
+
+Eren se queda quieto. Después se le doblan las piernas, y Mikasa lo sostiene antes de que toque el pasto. No llora. Ya no le quedan lágrimas. Se queda colgado del brazo de Mikasa, respirando con la boca abierta, mirando al oeste.
+
+Te das vuelta hacia el dragón.
+
+> —Y el último deseo: quiero que reconstruyas todas las casas que fueron destruidas por los titanes.
+
+—ESE ES EL DESEO MÁS FÁCIL DE LOS TRES.
+
+Eclipse levanta la cabeza hacia el cielo. Abre la boca, enorme, llena de dientes plateados, y exhala.
+
+No sale fuego. Sale viento. Un viento tibio, que huele a madera recién cortada, a cal fresca y a pan, y que corre sobre la meseta, sobre el acantilado, y se va hacia el oeste, sobre toda la isla, como una ola invisible.
+
+Lo sientes pasar.
+
+En Shiganshina, las casas aplastadas por las rocas del Colosal hace cinco años se levantan del suelo. Las vigas rotas se enderezan. Las piedras caídas suben solas, despacio, y vuelven a ocupar su lugar en las paredes. Los techos se cierran. Las ventanas vuelven a tener vidrios. La casa de madera del borde de la ciudad, junto a la presencia que sigue sentada en el piso tocándose las piernas, se rearma alrededor de ella: el piso, las paredes, la puerta, la viga del techo, entera, en su lugar, por encima de su cabeza.
+
+En Trost, los agujeros que dejaron los titanes el día del ataque se cierran.
+
+En Ragako, las casas destrozadas por los cuerpos gigantes de los aldeanos vuelven a estar de pie. La mujer que despertó en el piso de su propia casa ve cómo se le cierra el techo encima.
+
+En cada pueblo, en cada granja, en cada distrito de Wall Maria abandonado hace cinco años, las casas vuelven a ser casas. Las chimeneas, a tener chimenea. Las puertas, a tener bisagras. Y adentro de los campamentos, cientos de miles de personas recién revividas, que se buscaban a gritos en la oscuridad, ven cómo a su alrededor el mundo se arma de nuevo, como era antes. Como era el día que murieron.
+
+Del otro lado del mar, el viento también llega. A los pueblos del Medio Oriente que Marley arrasó con titanes. A las granjas, a las aldeas. Se levantan.
+
+El viento se apaga.
+
+Eclipse baja la cabeza hasta quedar frente a ti, tan cerca que la luz del anillo blanco te ilumina la cara.
+
+—TUS TRES DESEOS HAN SIDO CONCEDIDOS. —Los ojos rojo y azul te miran, quietos—. ADIÓS, CREADOR.
+
+La cabeza se aleja. El cuerpo enorme se enrosca una última vez sobre el mar, sobre el acantilado, sobre todos ustedes, y se convierte en luz negra con borde blanco. Vuelve a la tierra, de golpe, en una sola columna, y se mete en las siete esferas del pasto.
+
+Las esferas se levantan en el aire. Giran una vez alrededor tuyo. Y se apagan.
+
+Caen al pasto. Ya no son de cristal. Son siete piedras grises del río, redondas, lisas, frías, una al lado de la otra.
+
+[Las Esferas del Eclipse quedan inactivas. Volverán a brillar dentro de un año.]
+
+Entonces el cielo vuelve.
+
+No de golpe: como un amanecer de verdad. La línea gris del horizonte reaparece, y se vuelve rosa, y después naranja, y después dorada, y el sol asoma por encima del mar, enorme, rojo, sobre el agua quieta. El viento vuelve a soplar. Las olas vuelven a romper abajo, contra el acantilado.
+
+Es el primer amanecer de un mundo sin titanes.
+
+En la meseta, nadie se mueve. Todos miran el sol.
+
+Hasta que Eren se suelta del brazo de Mikasa. Se da vuelta hacia ti. Tiene la cara roja de llorar, los ojos hinchados, el pelo pegado a la frente, y te mira como si fueras la única persona en el mundo.
+
+—Facundo. —Da un paso—. Llévame a Shiganshina. Por favor.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 959 · SHINGEKI · DÍA 63 · 05:08        ║
+║ Costa este de Paradis · meseta del           ║
+║ acantilado · amanecer                        ║
+║ NIVEL 27 · EXP 222.740/240.000               ║
+║ FRAGMENTOS 107.581 · 30 platas de Marley     ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Tres deseos cumplidos. Eren pide   ║
+║ ir a Shiganshina.                            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Shingeki, día 63 05:08, meseta del acantilado, amanecer. Tercer deseo cumplido: todas las casas destruidas por titanes, reconstruidas (Shiganshina, Trost, Ragako, Wall Maria, el continente). Eclipse se despidió ("Adiós, creador"); las esferas quedaron como piedras inactivas un año. Primer amanecer sin titanes. Eren le pide a Facundo que lo lleve a Shiganshina. Facundo puede actuar.

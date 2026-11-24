@@ -1,8 +1,8 @@
 {
-  "turno": 958,
+  "turno": 959,
   "mundo_actual": "shingeki",
   "fecha_local": "Día 63 tras Shiganshina (año 850)",
-  "hora": "05:02",
+  "hora": "05:08",
   "edad": 18,
   "nivel": 27,
   "exp": 222740,
@@ -461,7 +461,7 @@
     {
       "objeto": "Esferas del Eclipse",
       "cantidad": 7,
-      "detalle": "Creadas por Facundo (T953, día 55, río al sur de Mitras) con el poder de Dende. Cristal negro transparente con un anillo de luz blanca en el centro; estrellas mitad rojas mitad azules (1 a 7). Dragón: ECLIPSE, más fuerte que los de Dende. 3 deseos por invocación. Guardadas en el inventario (T954). T956: sacadas e invocado Eclipse en la costa este de Paradis.",
+      "detalle": "Creadas por Facundo (T953, día 55, río al sur de Mitras) con el poder de Dende. Cristal negro transparente con un anillo de luz blanca en el centro; estrellas mitad rojas mitad azules (1 a 7). Dragón: ECLIPSE, más fuerte que los de Dende. 3 deseos por invocación. Guardadas en el inventario (T954). T956: sacadas e invocado Eclipse en la costa este de Paradis. T959: tres deseos cumplidos; vuelven a ser piedras grises de río, inactivas un año (hasta ~día 63 del año 851). Están en el pasto de la meseta, no en el inventario.",
       "mundo": "shingeki"
     }
   ],

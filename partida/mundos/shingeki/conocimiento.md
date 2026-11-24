@@ -190,3 +190,4 @@
 - Todos los presentes en el acantilado · T956 · Ven a Facundo invocar con siete esferas a un dragón gigante (Eclipse) que ofrece tres deseos. En toda Paradis (y quizás el mar cercano) ven el cielo apagarse de golpe antes del amanecer.
 - Toda Paradis y el mundo · T957 · Ven/sienten que los titanes desaparecen; las murallas se agrietan y sale gente; los titanes del campo se vuelven personas. Nadie fuera del acantilado sabe por qué (salvo Liberio: Lara, Willy, Magath, Pieck, el gabinete, avisados del plan).
 - Todos en el acantilado · T958 · Ven la lluvia de chispas y oyen a Eclipse: los muertos por titanes vuelven (isla: Wall Maria; continente: sus casas).
+- Eren y todos en el acantilado · T959 · Por Facundo: la madre de Eren está viva en Shiganshina. Ven a Eclipse reconstruir las casas e irse ("Adiós, creador": saben que Facundo creó al dragón).

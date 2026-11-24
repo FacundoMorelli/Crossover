@@ -23,3 +23,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T932 · Día 50 · 1 km de Wall Rose (norte de Karanes) desaparecido con sus colosales, ante seis delegaciones extranjeras. Segundo tramo borrado (el primero: Wall Maria, T575).
 - T957 · Día 63 · NO QUEDAN TITANES EN EL MUNDO. Las murallas siguen en pie, agrietadas y huecas; sus colosales volvieron a ser personas. Los eldianos ya no pueden transformarse. Fin de la maldición de Ymir.
 - T958 · Día 63 · Cientos de miles de muertos por titanes revividos. Wall Maria vuelve a estar poblada en una noche.
+- T959 · Día 63 · Todas las casas destruidas por titanes, reconstruidas. Shiganshina entera de pie (con la casa de los Jaeger).
