@@ -154,3 +154,4 @@
 - Iceburg · T722 · Facundo dice que "le pegó" a gente de Franky (se pegaron solos).
 - Facundo · T722 · Por Iceburg: Lucci es el más peligroso de los cuatro.
 - Franky, familia Franky, tripulación · T724 · Franky le pegó con el Strong Right y le escupió fuego a Facundo: nada. Mozu admite que se pegaron entre ellos.
+- Franky · T726 · Por Facundo (fuente: Iceburg): el CP9 busca los planos; fueron a Iceburg; ahora irán por él.
