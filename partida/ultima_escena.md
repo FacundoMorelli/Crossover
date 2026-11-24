@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T938)
-no me molesta. simula varios dias
-
-## RESPUESTA 1 (T938)
-
-> no me molesta. simula varios dias
-
-> —No me molesta.
-
-Ymir sonríe, enorme, sin el filo de siempre. Te da otro beso, corto, y te agarra de la mano para volver al mirador.
-
-La recepción de esa noche dura hasta pasada la medianoche. Historia responde preguntas durante tres horas sin sentarse, con la voz cada vez más firme. El embajador de barba blanca no te saca los ojos de encima, pero a la segunda copa se acerca a decirte que su país va a firmar. Otro de los cuatro lo sigue a la mañana siguiente. Los dos restantes piden tiempo para consultar con sus gobiernos. Magath no baila, no bebe y se va temprano, pero antes de irse le da la mano a Erwin por segunda vez y, por primera vez, a Levi.
-
-El día cincuenta y dos, el barco de Hizuru zarpa con las delegaciones. Kiyomi se despide de Mikasa en el muelle con un abrazo largo, y de ti con una reverencia y un recordatorio en voz baja: que le debes un relato. Magath vuelve con ellos hasta el continente. En la cubierta, mientras el barco se aleja, se lleva dos dedos a la gorra en dirección al muelle. Nadie sabe bien a quién.
-
-Los días siguientes son tranquilos. Raros de tan tranquilos.
-
-En Mitras no se habla de otra cosa que del hueco en Wall Rose. La gente viaja en carreta desde Karanes y desde Trost para verlo con sus propios ojos: un kilómetro de pasto donde antes había una pared. Los chicos corren de un lado al otro del corte gritando que están en el exterior. Un predicador del Culto de las Murallas se para en el borde liso a anunciar el fin del mundo, y la Policía Militar lo baja sin mucha ceremonia.
-
-Hange se pasa dos días enteros sobre el corte con una cinta de medir, una lupa y Moblit, tomando notas sobre la superficie de la piedra. Armin y Erwin empiezan a dibujar en la sala de mapas un plan de años: qué tramo va primero, cuál después, qué pueblos hay que mudar. Eren duerme. Mikasa lo dice en voz baja en el desayuno, como un milagro: Eren duerme toda la noche, sin despertarse gritando.
-
-Ymir, sin pedir permiso a nadie, se muda a tu cuarto del palacio. Trae una manta, dos libros que no lee y un frasco de manzanas secas que esconde debajo de la cama. Historia se entera al segundo día, y lo único que dice, con las mejillas coloradas, es que ya era hora. Kase acepta a Ymir en la cama con la condición tácita de que ella no se mueva de su lado.
-
-A la mañana del día cincuenta y cuatro, en el puerto improvisado de la costa sur, atraca un barco pequeño con bandera de Marley. Es el primer correo oficial desde que se firmó el tratado. Trae cartas para la reina, para Zackly, para Erwin.
-
-Y una para ti.
-
-Te la trae un mensajero de la Legión a media tarde, mientras estás con Ymir en el techo del palacio, al sol. Un sobre grueso, de papel crema, cerrado con lacre rojo. En el lacre, el escudo de la familia Tybur. En el frente, escrito a mano con una letra prolija, inclinada, de mujer:
-
-Para el emisario. Y para el gato.
-
-Ymir se incorpora en el techo, apoyada en un codo, y mira el sobre por encima de tu hombro con una ceja levantada.
-
-—¿Tybur? —Lee la letra—. Eso no lo escribió el señor del discurso.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 938 · SHINGEKI · DÍA 54 · 16:10        ║
-║ Mitras · techo del palacio                   ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 30 platas de Marley     ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el techo, al sol                    ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Una carta con el sello Tybur.      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T939)
+## COMANDO 1 (T939)
 leo el mensaje
 
-## RESPUESTA 2 (T939)
+## RESPUESTA 1 (T939)
 
 > leo el mensaje
 
@@ -114,10 +63,10 @@ Gira la cabeza en el tejado y te mira.
 
 ---
 
-## COMANDO 3 (T940)
+## COMANDO 2 (T940)
 no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
 
-## RESPUESTA 3 (T940)
+## RESPUESTA 2 (T940)
 
 > no lo se, tengo que ir a hacer algo, vuelvo espero en 1 dia, no te preocupes, no voy a ningun lugar que me pueda lastimar. Voy a dragon ball y me teletransporto con dende
 
@@ -180,4 +129,80 @@ Mr. Popo deja la regadera en el suelo, despacio.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 774 ~día 96, media mañana, Templo Sagrado (jardín de atrás). Facundo llegó desde Shingeki (prometió a Ymir volver en un día). Dende y Mr. Popo lo reciben; Dende nota que viene a pedir algo importante. Facundo puede hablar.
+## COMANDO 3 (T941)
+hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
+
+## RESPUESTA 3 (T941)
+
+> hola dende, te puedo pedir algo? me muestras tu habilidad para crear esferas del dragon?
+
+> —Hola, Dende. ¿Te puedo pedir algo? ¿Me muestras tu habilidad para crear Esferas del Dragón?
+
+Dende parpadea.
+
+—¿Crear...? —Mira a Mr. Popo, que no cambia la sonrisa. Después te mira a ti otra vez—. Las esferas de la Tierra ya existen. Las hice de nuevo cuando me nombraron Dios, con el dragón de Kami-sama como modelo. Si hago otro juego completo, habría dos dragones, y eso... no sé qué pasaría.
+
+Se rasca la nuca, entre las antenas, y piensa un momento.
+
+—Pero una sola no hace nada. Una sola esfera es una piedra bonita hasta que están las siete. —Se le ilumina la cara—. Puedo hacer una y mostrarte cómo. Y después la deshago. Así nadie se confunde.
+
+Se agacha, junta las manos en forma de cuenco sobre la tierra del cantero y cierra los ojos.
+
+Durante un momento no pasa nada. Después sientes el cambio. No es ki de pelea: es otra cosa, más lenta, más profunda, como el calor de la tierra cuando le da el sol. Las antenas de Dende se le ponen rectas. La tierra entre sus manos empieza a brillar desde adentro, en un tono naranja suave.
+
+—Primero se le da forma —murmura, sin abrir los ojos—. Después se le da un corazón.
+
+La tierra se levanta. Sube despacio entre sus palmas, girando, apretándose sobre sí misma, puliéndose, hasta que deja de ser tierra y se vuelve cristal. Una esfera perfecta, del tamaño de una naranja, de color ámbar, transparente, con la luz del mediodía atravesándola.
+
+—Después, el número. El lugar que ocupa entre sus hermanas.
+
+Adentro de la esfera se encienden puntos rojos, uno, dos, tres, cuatro, como brasas que flotan en miel. Cuatro estrellas.
+
+—Y al final, el nombre del dragón. —Dende abre los ojos. Le brillan—. Eso es lo que las une. Sin eso, son solo vidrio.
+
+Le habla a la esfera en voz muy baja, en un idioma que no es el de la Tierra, con sonidos largos, como viento entre piedras. La esfera late una vez, como un corazón, y queda quieta en sus manos, tibia, viva.
+
+Mr. Popo inclina la cabeza.
+
+—Bonita —dice.
+
+Dende sonríe, un poco orgulloso y un poco avergonzado. Te muestra la esfera de cerca, para que la veas bien. Después cierra las manos sobre ella, despacio. Las estrellas se apagan una por una. El cristal se vuelve tierra otra vez y se le escurre entre los dedos hasta el cantero.
+
+Delante de tus ojos, frío, se abre una ventana.
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Poder de Dende (Dios de la Tierra)           ║
+║ USUARIO: Dende · Dragon Ball                 ║
+║ Incluye: creación de Esferas del Dragón y    ║
+║ su dragón, curación namekiana, vigilancia    ║
+║ de un planeta desde lo alto.                 ║
+║                                              ║
+║ MISIÓN: Llevar a Dende a ver a su gente en   ║
+║ el Nuevo Namek y traerlo de vuelta al        ║
+║ templo el mismo día.                         ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+
+Dende se sacude la tierra de las manos y se pone de pie.
+
+—Así se hacen. —Te mira, curioso, con la cabeza ladeada—. ¿Para qué querías verlo, Facundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 941 · DRAGON BALL · AÑO 774 · ~DÍA 96  ║
+║ Templo Sagrado · el jardín                   ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Copia de Dende: llevarlo al Nuevo  ║
+║ Namek y volver el mismo día.                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Dragon Ball, ~día 96, Templo Sagrado (jardín). Dende creó y deshizo una esfera de muestra. Misión de copia emitida: llevar a Dende al Nuevo Namek y traerlo el mismo día. Dende pregunta para qué quería verlo. Facundo puede responder.

@@ -21,3 +21,4 @@ QUÉ SABE DE FACUNDO: lo vio desde el templo (vigila la Tierra): Babidi, Buu, la
 QUÉ PODERES DE FACUNDO VIO: casi todos los usados en la Tierra desde su llegada (desde lejos).
 ESTADO: bien.
 - T940 · ~Día 96 · En el jardín regando con Mr. Popo. "¡Facundo! ¡Volviste! ¡Y el gato también! Pasaron casi tres meses... ¿Pasó algo? Tienes cara de venir a pedir algo importante."
+- T941 · Crea una esfera de muestra (cuatro estrellas) y la deshace: "Primero se le da forma, después un corazón, después el número, y al final el nombre del dragón." No hará otro juego (habría dos dragones). "¿Para qué querías verlo, Facundo?"

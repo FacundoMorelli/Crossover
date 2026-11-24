@@ -62,3 +62,4 @@
 - Dentro de Buu hay algo peor; un trato no lo contiene para siempre: Shin se lo dijo (T196).
 - Goku está muerto, con permiso hasta la medianoche: Goku se lo dijo (T189).
 - Está en la Tierra, Isla Papaya, 25.º Torneo: Goku se lo dijo (T187).
+- Dende, Mr. Popo · T941 · Facundo pidió ver cómo se crean las Esferas del Dragón.

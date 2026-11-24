@@ -1,8 +1,8 @@
 {
-  "turno": 940,
+  "turno": 941,
   "mundo_actual": "dragonball",
   "fecha_local": "Año 774, ~día 96 (unos 87 días después de irse el día 9)",
-  "hora": "~10:00",
+  "hora": "~10:10",
   "edad": 18,
   "nivel": 27,
   "exp": 222240,
@@ -1127,6 +1127,13 @@
       "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
       "dificultad": "BAJA",
       "emitida": "T808"
+    },
+    {
+      "poder": "Poder de Dende (creación de Esferas del Dragón y su dragón, curación namekiana, vigilancia del planeta)",
+      "mundo": "dragonball",
+      "mision": "Llevar a Dende a ver a su gente en el Nuevo Namek y traerlo de vuelta al templo el mismo día.",
+      "dificultad": "MEDIA",
+      "emitida": "T941"
     }
   ],
   "misiones_de_copia_rechazadas": [],

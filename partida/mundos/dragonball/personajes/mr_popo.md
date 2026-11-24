@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo que vio Dende.
 ESTADO: bien.
 - T940 · ~Día 96 · "Mr. Popo también dice bienvenido."
+- T941 · Ve la esfera de muestra: "Bonita."
