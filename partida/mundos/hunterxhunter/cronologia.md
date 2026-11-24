@@ -34,3 +34,4 @@
 - Día 1 19:39 · (T1043) Hisoka elige a Facundo como presa por encima de las arañas y lo ataca.
 - Día 1 19:40 · (T1045) CAMBIO: Facundo deja inconsciente a Hisoka en la calle de los baños públicos. Kortopi vivo.
 - Día 1 19:42 · (T1046) Kortopi llama a Shalnark; Shalnark va hacia los baños. Machi no contesta.
+- Día 1 19:47 · (T1047) Shalnark llega a los baños; propone controlar a Hisoka con Black Voice.

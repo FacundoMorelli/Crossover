@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1044)
-atrapo la carta con dos dedos y se las devuelvo
-
-## RESPUESTA 1 (T1044)
-
-> atrapo la carta con dos dedos y se las devuelvo
-
-Levantas la mano.
-
-La carta se frena entre tu índice y tu dedo medio, a un centímetro de tu ojo izquierdo. Sigue girando un instante entre tus dedos, con el aura chisporroteando en el borde como una sierra que no encuentra qué cortar. Después se queda quieta.
-
-Es un as de picas.
-
-[Libro de Deudas: HISOKA MOROW — una carta de aura a la cara (sin daño).]
-
-Hisoka abre los ojos. La sonrisa no se le borra; se le congela, como una foto.
-
-La devuelves con un giro de muñeca.
-
-No la tiras fuerte. Apenas. Pero la carta sale de tus dedos con un sonido que no hizo cuando la tiró él: un chasquido seco, como un látigo, y en el camino arranca una línea de chispas del asfalto.
-
-Hisoka se mueve. Rápido, más rápido que cualquier cosa que haya en esta calle. Gira la cara medio palmo.
-
-No alcanza.
-
-La carta le abre la mejilla izquierda, de la comisura de la boca hasta la oreja, y sigue de largo. Atraviesa el poste de luz de la esquina, de lado a lado, y se clava hasta la mitad en la pared de ladrillo de un edificio, al fondo de la calle. El poste tarda un segundo en darse cuenta. Después se inclina, despacio, cruje y se queda torcido. La lámpara parpadea y se apaga.
-
-La calle queda más oscura.
-
-Hisoka se lleva dos dedos a la cara. Los mira. Están rojos.
-
-Durante un momento largo no dice nada.
-
-Después empieza a temblar. No de miedo. Le tiemblan los hombros, las manos, la mano de goma, la pierna de aura. Se le escapa un sonido desde el fondo de la garganta, ronco, que no es una risa todavía.
-
-—Ah... —Se lame la sangre de los dedos, despacio, con los ojos cerrados—. Aaah... ♥
-
-Abre los ojos. Brillan en la oscuridad como los de un gato.
-
-—Más —susurra—. Dame más.
-
-Detrás de ti, en la puerta de los baños, Kortopi da un paso atrás. Lo sientes juntar aura en las dos manos ahora, sin saber hacia quién apuntarla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1044 · HUNTER X HUNTER · DÍA 1 · 19:39 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 237.350/240.000               ║
-║ FRAGMENTOS 107.990 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1045)
+## COMANDO 1 (T1045)
 lo dejo inconsciente de un golpe
 
-## RESPUESTA 2 (T1045)
+## RESPUESTA 1 (T1045)
 
 > lo dejo inconsciente de un golpe
 
@@ -125,10 +64,10 @@ Saca un celular viejo del bolsillo, con la tapa rayada. No marca ningún número
 
 ---
 
-## COMANDO 3 (T1046)
+## COMANDO 2 (T1046)
 me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
 
-## RESPUESTA 3 (T1046)
+## RESPUESTA 2 (T1046)
 
 > me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
 
@@ -182,4 +121,76 @@ Después te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:42, baños públicos. Kortopi llamó a Shalnark, que viene y quiere ver a Facundo; Machi no contesta. Hisoka inconsciente. Facundo puede actuar.
+## COMANDO 3 (T1047)
+espero a Shalnark ahí con Kortopi
+
+## RESPUESTA 3 (T1047)
+
+> espero a Shalnark ahí con Kortopi
+
+Te quedas en la puerta de los baños, apoyado contra los azulejos blancos, con Kase en el hombro y Hisoka tirado a tus pies.
+
+Kortopi no se va. Se sienta en el escalón de la entrada, con las rodillas juntas, y no te saca el ojo de encima. Cada tanto mira a Hisoka, que sigue respirando despacio en el asfalto, y después a ti otra vez.
+
+No hablan.
+
+Pasan cuatro minutos. En la avenida de la Torre se escuchan sirenas, lejos: la policía o las ambulancias, por la gente que se desmayó en el estadio. En algún departamento alguien prende la televisión y se oye la voz de un periodista hablando de "la muerte en vivo de Hisoka Morow".
+
+Lo sientes antes de verlo: una presencia que viene corriendo por los techos, rápida, liviana, desde la dirección opuesta a la Torre.
+
+Aterriza en la calle, a quince metros, en cuclillas, sin hacer ruido. Se endereza.
+
+Es el muchacho rubio de la tercera fila. De cerca parece todavía más joven: cara redonda, ojos grandes, una sonrisa que parece puesta por costumbre. Tiene el celular en la mano izquierda. En la derecha, entre los dedos, sostiene una antena como la que usó Chrollo en el ring, chica, metálica, con forma de clavo.
+
+Mira a Kortopi. Lo recorre de arriba abajo con la vista, rápido, como quien cuenta.
+
+—¿Estás bien?
+
+Kortopi asiente.
+
+Después Shalnark mira a Hisoka. La sonrisa se le queda en la cara, pero los ojos no sonríen nada.
+
+Por último te mira a ti.
+
+╔════════════════════════════════════════╗
+║ SHALNARK                               ║
+║ Tropa Fantasma (n.º 6) · Manipulador   ║
+║ PODER: Black Voice, Modo Automático    ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x110 sobre él ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+—Así que eres tú. —Ladea la cabeza. Te mira el pelo, los ojos, la cicatriz, el gato con la bufanda—. Pelo blanco y azul. Un ojo rojo y uno azul. Un gato enorme. —Se ríe, corto—. Estuviste en el estadio, ¿no? Gradas altas, al lado de una columna. Te vi en una de las pantallas, de pasada. Pensé que eras un cosplayer.
+
+Guarda el celular en el bolsillo. La antena no.
+
+—Kortopi dice que tienes una misión de protegerlo. Y que sabes mi nombre. —Sonríe—. Nadie sabe nuestros nombres. Bueno, algunos. Los que todavía están vivos son pocos.
+
+Da un paso hacia Hisoka. Se agacha a su lado, en cuclillas, con la antena entre los dedos, a centímetros de la cabeza pelirroja.
+
+—Kortopi también dice que no quieres que lo matemos. —Te mira desde abajo—. Está bien. Te escucho. No lo matamos.
+
+Acerca la antena a la nuca de Hisoka.
+
+—Pero si le clavo esto, va a hacer todo lo que yo le diga, para siempre. —La sonrisa se le estira—. Eso no es matarlo, ¿verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1047 · HUNTER X HUNTER · DÍA 1 · 19:47 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, tranquilo                ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi y a Shalnark    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:47, baños públicos. Shalnark llegó; está agachado junto a Hisoka con una antena de Black Voice a centímetros de su nuca: "Si le clavo esto, hará todo lo que yo diga. Eso no es matarlo, ¿verdad?" Facundo puede actuar.
