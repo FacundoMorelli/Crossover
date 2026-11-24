@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T913)
-te esta costando unos monos zoro?
-
-## RESPUESTA 1 (T913)
-
-> te esta costando unos monos zoro?
-
-> —¿Te están costando unos monos, Zoro?
-
-A Zoro se le hincha una vena en la frente, justo encima de la venda.
-
-—¡¿Unos monos?! —Te apunta con Shusui, con la otra mano todavía abierta donde estaba Wado—. ¡Estos no son monos normales! ¡Copian todo lo que ven! ¡Pelean como soldados porque vieron pelear soldados, y ahora...!
-
-El mono más grande del claro, un babuino canoso con una armadura negra abollada y un sable en cada mano, aprovecha el grito. Se le tira encima por la espalda.
-
-Zoro gira sin mirar, para el sable con Kitetsu y lo empuja hacia atrás. El babuino aterriza en cuclillas, con los dos sables cruzados delante de la cara, exactamente en la misma guardia en la que estaba Zoro un segundo antes.
-
-—...y ahora pelean como yo. —Zoro escupe—. Eso es lo que me cuesta.
-
-—¡¡Zoro!! —Luffy ya está corriendo hacia él, a los saltos, con los brazos abiertos—. ¡¡Estás vivo!! ¡¡Shishishi!! ¡¿Por qué estás todo vendado?! ¡¿Te peleaste con los monos?!
-
-Tres babuinos se le cruzan delante, con lanzas.
-
-Luffy ni frena. Estira un brazo para el costado, lo trae de vuelta como un látigo y los manda a volar contra los troncos de un manotazo, sin mirarlos, sin dejar de sonreír.
-
-Zoro levanta Wado del piso. Le saca la tierra con el pulgar. Por un segundo, cuando mira a Luffy, se le afloja la cara entera. Se le escapa algo parecido a una sonrisa.
-
-Después se la vuelve a poner seria y se ata el pañuelo negro en la cabeza.
-
-—No te metas, Luffy. —Muerde a Wado—. Tú tampoco, Facundo. Estos me los termino yo.
-
-Alrededor del claro, de entre la niebla, salen más. Diez, quince, veinte babuinos con armaduras, todos con espadas, todos en la misma guardia de tres espadas, mirando a Zoro.
-
-Arriba, entre las ramas, Perona se abraza las rodillas en el aire.
-
-—¡Ay, no! ¡Ahora son más! ¡Tú! —Te señala con el paraguas—. ¡El del gato! ¡Haz algo, que este idiota no escucha a nadie!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 913 · ONE PIECE · DÍA 57 · 13:38       ║
-║ Kuraigana · claro del bosque muerto          ║
-║ NIVEL 27 · EXP 222.240/240.000               ║
-║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
-║ Bankai sobre la flota. Shingeki: D59.        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T914)
+## COMANDO 1 (T914)
 esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
 
-## RESPUESTA 2 (T914)
+## RESPUESTA 1 (T914)
 
 > esta bien, pero despues que te dejen descansar un poco que tenemos que decir algo
 
@@ -119,10 +65,10 @@ Arriba, Perona chilla, con las dos manos en la cara.
 
 ---
 
-## COMANDO 3 (T915)
+## COMANDO 2 (T915)
 le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
 
-## RESPUESTA 3 (T915)
+## RESPUESTA 2 (T915)
 
 > le tiro una semilla a zoro, tienes que seguir, si no puedes contra estos monos como vas a poder con mihawk
 
@@ -185,4 +131,76 @@ Está a diez metros de Zoro, con los dos sables cruzados delante de la cara, res
 
 ---
 
-ESTADO AL CIERRE: One Piece, Día 57 13:43, Kuraigana. Zoro, curado con una semilla, volteó a todos los Humandrills menos al jefe canoso; están frente a frente a 10 m. Zoro: "Este es el último." Luffy mira desde una raíz, Perona flota. Facundo puede actuar.
+## COMANDO 3 (T916)
+miro
+
+## RESPUESTA 3 (T916)
+
+> miro
+
+Te quedas quieto, con Kase en el hombro, mirando.
+
+Nadie se mueve en el claro. La niebla se arrastra entre los dos, por encima del barro y de los babuinos caídos. Arriba, una rama cruje con el viento.
+
+El canoso ataca primero.
+
+Viene en zigzag, bajo, con los dos sables pegados al cuerpo, y en el último paso los abre como dos alas. Es el mismo ángulo con el que Zoro abrió el círculo hace un minuto: lo aprendió mirándolo. Zoro lo para con Wado y Kitetsu. El choque suena seco, metálico, y los dos se quedan trabados, frente contra frente, empujando.
+
+El mono es fuerte. Más que los otros. Le aguanta el peso a Zoro sin retroceder, con los dientes amarillos al descubierto y los ojos chiquitos clavados en el suyo.
+
+Se separan. Vuelven a chocar. Tres veces, cuatro, cinco. Cada intercambio dura menos de un segundo, y en cada uno el canoso copia algo nuevo: una finta, un cambio de peso, un giro de muñeca. Zoro recibe un corte superficial en el antebrazo. Le devuelve uno en el hombro, a través de la armadura.
+
+Luffy no grita. Mira con los brazos cruzados, serio.
+
+Perona baja hasta quedar a la altura de tus ojos, sin darse cuenta, con el paraguas apretado contra el pecho.
+
+En el sexto intercambio, Zoro hace algo distinto.
+
+No copia nada: retrocede. Da un salto largo hacia atrás, aterriza agachado y cruza las tres espadas delante del cuerpo, con Wado en la boca entre las otras dos. Se queda quieto. Respira una vez.
+
+El canoso lo mira. Duda. Después hace lo único que sabe: imita. Se agacha y cruza los dos sables en la misma guardia, delante de la cara.
+
+Pero tiene dos espadas. No tres.
+
+—Oni... —murmura Zoro alrededor de la empuñadura.
+
+Desaparece.
+
+—...Giri.
+
+Aparece del otro lado del canoso, de espaldas, con las tres hojas hacia afuera.
+
+Durante un segundo, no pasa nada.
+
+Después los dos sables del babuino se parten por la mitad. La armadura negra se le abre en tres tajos limpios sobre el pecho. El canoso da un paso, otro, y cae de cara en el barro, desmayado.
+
+Zoro se queda parado, con la espalda hacia él. Respira hondo. Envaina, una espada por vez: Kitetsu, Shusui, Wado.
+
+Después se da vuelta.
+
+Luffy salta de la raíz y se le tira encima con los brazos abiertos. Zoro lo frena con una mano en la cara, sin mirarlo, pero no lo empuja.
+
+—Ya, ya. Suéltame. —Se suelta el pañuelo de la cabeza, despacio. Te mira a ti por encima del hombro de Luffy. Mira el gato. Mira el claro lleno de monos—. ¿Cómo diablos llegaron hasta aquí? ¿Y dónde están los demás?
+
+Se cruza de brazos.
+
+—Dijiste que tenían algo que decirme. Habla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 916 · ONE PIECE · DÍA 57 · 13:46       ║
+║ Kuraigana · claro del bosque muerto          ║
+║ NIVEL 27 · EXP 222.240/240.000               ║
+║ FRAGMENTOS 137.581 · 5.950.000 berries       ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Avisar a los ocho (1/8: Zoro).     ║
+║ Bankai sobre la flota. Shingeki: D59.        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: One Piece, Día 57 13:46, Kuraigana. Zoro venció al jefe de los Humandrills con Oni Giri. Luffy lo abraza. Zoro pregunta cómo llegaron, dónde están los demás y qué tenían que decirle. Facundo puede responder.

@@ -914,3 +914,4 @@ T912 · One Piece · Kuraigana · Teletransporte con Luffy. Zoro vendado contra 
 T913 · One Piece · Kuraigana · "¿Te cuestan unos monos?" Zoro: "Pelean como yo. Me los termino yo." Salen 20 más. Perona: "¡Haz algo!"
 T914 · One Piece · Kuraigana · Zoro voltea a 12 Humandrills pero cae sobre una rodilla; el jefe canoso levanta los sables. "¡No se metan!"
 T915 · One Piece · Kuraigana · Semilla a Zoro. "¿Cómo vas a poder con Mihawk?" Zoro voltea a los Humandrills; queda solo el canoso.
+T916 · One Piece · Kuraigana · Zoro vence al jefe de los Humandrills con Oni Giri. "Dijiste que tenían algo que decirme. Habla."

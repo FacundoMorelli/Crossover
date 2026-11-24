@@ -171,3 +171,4 @@
 - Día 57 13:32 · (T909) Luffy decide, por propuesta de Facundo, dos años de entrenamiento y reunión en Sabaody (canon: lo decidía con Rayleigh en Rusukaina y avisaba con el 3D2Y en el diario).
 - Día 57 13:34 · (T910) Buques de la Marina empiezan a salir de la bahía tras la flota de Barbablanca.
 - Día 57 13:37 · (T912) Facundo y Luffy llegan a Kuraigana. Zoro herido peleando contra Humandrills; Perona lo cuida (canon).
+- Día 57 13:46 · (T916) Zoro vence a los Humandrills y a su jefe en Kuraigana (canon: lo lograba recién tras meses de entrenamiento con Mihawk).
