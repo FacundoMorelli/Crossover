@@ -806,3 +806,4 @@ T804 · One Piece · Triángulo Florian · Simula dos días de mar. Barril con b
 T805 · One Piece · Thriller Bark · Brook acepta unirse; cuenta lo de su sombra. Las puertas de Thriller Bark se tragan al Sunny.
 T806 · One Piece · Thriller Bark · "¿Vamos a recuperar la sombra de nuestro músico?" Luffy acepta. Brook nombra a Moria.
 T807 · One Piece · Thriller Bark · Bajan Facundo, Robin y Luffy. Un fantasma deprime a Luffy; otro va hacia Facundo.
+T808 · One Piece · Thriller Bark · Fantasma sin efecto: COPIA Horo Horo. Simula la noche: purifica ~400 zombis con agua de mar; Luffy vence a Moria al amanecer. Llega Kuma. +1.700 EXP, +420 F.

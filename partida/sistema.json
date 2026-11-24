@@ -1,13 +1,13 @@
 {
-  "turno": 807,
+  "turno": 808,
   "mundo_actual": "onepiece",
-  "fecha_local": "Día 43 (Grand Line, Triángulo Florian)",
-  "hora": "23:45",
+  "fecha_local": "Día 44 (Grand Line, Thriller Bark)",
+  "hora": "06:40",
   "edad": 18,
   "nivel": 26,
-  "exp": 213240,
+  "exp": 214940,
   "exp_siguiente_nivel": 215000,
-  "fragmentos": 134022,
+  "fragmentos": 134442,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -56,7 +56,7 @@
     "energia": 241,
     "control": 240
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 82,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -181,7 +181,7 @@
     "onepiece": {
       "nombre": "Shio Shio no Mi (Fruta Marea Marea)",
       "tipo": "Fruta del Diablo, Paramecia (Don de Mundo)",
-      "maestria": 34,
+      "maestria": 40,
       "reglas": [
         "Controla el agua de mar: corrientes, olas, remolinos, mareas. Puede pararse y caminar sobre el mar y moverse bajo el agua como en tierra.",
         "Alcance en maestría 30: unos 300 m alrededor; olas de hasta 10 m. Crece con la maestría (+alcance, +volumen, +fuerza).",
@@ -747,6 +747,20 @@
         "Galaxy Impact, tirar balas de cañón con la mano, y todo lo que Garp llega a hacer en el canon",
         "Dominio total e inmediato"
       ]
+    },
+    {
+      "poder": "Horo Horo no Mi (poder de Perona)",
+      "de": "Perona",
+      "mundo": "onepiece",
+      "cuando": "T808 (un Negative Hollow lo atravesó y siguió igual, de buen ánimo)",
+      "incluye": [
+        "Negative Hollow (fantasmas que deprimen a quien atraviesan)",
+        "Mini Hollow (fantasmas explosivos)",
+        "Proyección astral (salir del cuerpo como fantasma)",
+        "Ghost Rap, Tokuhollow, y todo lo que Perona llega a hacer",
+        "Sin la debilidad del mar",
+        "Dominio total e inmediato"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1008,6 +1022,20 @@
       "mision": "Entrar por una de las puertas de Blueno y salir por la que tú elijas.",
       "dificultad": "BAJA",
       "emitida": "T735"
+    },
+    {
+      "poder": "Gecko Moria: Kage Kage no Mi",
+      "mundo": "onepiece",
+      "mision": "Que Moria intente cortarte la sombra con sus tijeras y no lo logre.",
+      "dificultad": "MEDIA",
+      "emitida": "T808"
+    },
+    {
+      "poder": "Absalom: Suke Suke no Mi",
+      "mundo": "onepiece",
+      "mision": "Encontrar a Absalom invisible y tocarle el hombro antes de que se dé cuenta.",
+      "dificultad": "BAJA",
+      "emitida": "T808"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -1409,6 +1437,12 @@
       "turno": 743,
       "fragmentos": 50,
       "exp": 1000
+    },
+    {
+      "mundo": "onepiece",
+      "turno": 808,
+      "quien": "~400 zombis de Thriller Bark purificados con agua de mar (Shio Shio), incluidos Cerberus y los generales zombi Jigoro, Inuppe, Tararan y el Capitán John",
+      "fragmentos": 420
     }
   ],
   "viaje": {

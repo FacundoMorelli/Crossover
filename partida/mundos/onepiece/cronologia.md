@@ -144,3 +144,4 @@
 - Día 41 09:28 · (T803) Garp ataca al Sunny con balas de cañón tiradas a mano (canon); Franky usa el Coup de Burst y escapan (canon). Koby promete ser enemigo de verdad la próxima vez.
 - Días 41-43 · (T804) Dos días de mar en el Sunny. Día 43: barril con bengala; entran al Triángulo Florian (canon). 22:40: el barco fantasma de Brook (canon).
 - Día 43 23:30 · (T805) Brook acepta unirse (canon). Thriller Bark se traga al Sunny (canon).
+- Día 43 23:45 → Día 44 06:40 · (T808) Thriller Bark (canon con ayuda de Facundo): Moria roba las sombras de Luffy, Zoro y Sanji (canon). Facundo purifica ~400 zombis con agua de mar (cambio) y protege a Robin. Zoro vence a Ryuma y gana la Shusui; la sombra vuelve a Brook. Usopp vence a Perona; Sanji a Absalom; Robin y Chopper a Hogback. Nightmare Luffy vence a Oars. Luffy vence a Moria al amanecer; las sombras vuelven (canon). 06:40: llega Bartholomew Kuma (canon).

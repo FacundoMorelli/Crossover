@@ -3,89 +3,10 @@
 
 ---
 
-## COMANDO 1 (T805)
-miro a brook y espero
-
-## RESPUESTA 1 (T805)
-
-> miro a brook y espero
-
-Te quedas quieto en la baranda, mirando al esqueleto. Kase sigue erizado en tu hombro, pero ya no gruñe. Lo mira con las pupilas finas como hilos.
-
-```
-╔════════════════════════════════════════╗
-║ BROOK                                  ║
-║ Músico · ex Piratas Rumbar             ║
-║ PODER: sin datos · esgrima             ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: x0,15 sobre ti    ║
-║ COPIABLE (no visto en acción)          ║
-╚════════════════════════════════════════╝
-```
-
-El esqueleto se queda inmóvil con la taza de té en la mano, mirando a Luffy. Después deja la taza en la baranda, muy despacio.
-
-—¿Unirme...? ¿A su tripulación? —Se le traba la mandíbula—. ¿Así, sin más?
-
-—¡Sí! ¡Eres un esqueleto! ¡Y cantas! ¡Necesitamos un músico!
-
-—¡Yohohoho! —Brook se tapa la cara con las manos huesudas—. ¡Acepto! ¡Será un honor! Aunque no tengo cara para sonrojarme... ¡Yohohoho!
-
-Salta del barco fantasma a la cubierta del Sunny con una ligereza que no parece de un cuerpo hecho de huesos. Aterriza sobre el césped, hace una reverencia a todos y ve a Nami, que acaba de despertarse del desmayo, con Chopper todavía abrazado a la pierna.
-
-Se le acerca con el sombrero en la mano.
-
-—Señorita, discúlpeme. ¿Me permitiría ver sus bragas?
-
-—¡¡CLARO QUE NO!!
-
-Nami y Sanji le pegan una patada a la vez, uno de cada lado, y la cabeza de Brook da una vuelta completa sobre el cuello. Se la acomoda con las dos manos.
-
-—¡Yohohoho! Se me iba a caer la cabeza. ¡Aunque no tengo cerebro!
-
-Media hora después, Brook está sentado a la mesa del Sunny comiendo lo que le sirvió Sanji. La comida le pasa entre las costillas y cae en una servilleta que le puso Chopper. A pesar de eso, come con modales perfectos. Kase lo vigila desde la otra punta de la mesa sin parpadear.
-
-Brook cuenta su historia sin que nadie se lo pida. Comió una Fruta del Diablo, la Yomi Yomi no Mi. Murió hace cincuenta años, con toda su tripulación, en este mismo mar. La fruta le devolvió el alma, pero en la niebla el alma tardó un año entero en encontrar su cuerpo, y cuando lo encontró solo quedaban los huesos.
-
-—Y luego, hace unos años... —Deja el tenedor—. Un hombre me robó la sombra.
-
-Todos se quedan callados.
-
-—Sin sombra, si me toca el sol, me desintegro. Por eso vivo en la niebla, donde nunca llega la luz. Por eso...
-
-No termina la frase.
-
-El mar se mueve debajo del Sunny. La mesa se inclina. Detrás del barco, en la niebla, suena un estruendo de hierro contra hierro, largo y grave. Todos corren a la popa: dos puertas gigantes, más altas que el mástil, se están cerrando a sus espaldas.
-
-Una corriente agarra el Sunny y lo arrastra hacia adelante, rápido, a una bahía oscura. La niebla se abre de golpe y delante aparece una isla.
-
-No parece una isla. Es una montaña de tierra y piedra que flota, con un bosque de árboles muertos, retorcidos como manos, una mansión enorme de ventanas iluminadas en la cima y, más atrás, una torre altísima con forma de mástil que se pierde en la niebla.
-
-Brook se queda petrificado en la baranda. Le tiemblan los huesos.
-
-—Ese es el lugar. —La voz le sale apenas—. Thriller Bark. Ahí está el hombre que me robó la sombra.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 805 · ONE PIECE · DÍA 43 · 23:30       ║
-║ Thousand Sunny · bahía de Thriller Bark      ║
-║ NIVEL 26 · EXP 213.240/215.000               ║
-║ FRAGMENTOS 134.022 · 1.000.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: Thriller Bark. Rumbo a Sabaody.    ║
-║ Salir de One Piece antes del Día 49.         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T806)
+## COMANDO 1 (T806)
 bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
 
-## RESPUESTA 2 (T806)
+## RESPUESTA 1 (T806)
 
 > bueno, capitan, vamos a recuperar la sombra de nuestro nuevo musico entonces?
 
@@ -144,10 +65,10 @@ Luffy, en la cabeza del león, mira la isla con los ojos brillando y se le hace 
 
 ---
 
-## COMANDO 3 (T807)
+## COMANDO 2 (T807)
 bajamos a la isla con robin y luffy
 
-## RESPUESTA 3 (T807)
+## RESPUESTA 2 (T807)
 
 > bajamos a la isla con robin y luffy
 
@@ -208,4 +129,128 @@ Y viene flotando directo hacia ti.
 
 ---
 
-ESTADO AL CIERRE: Día 43 23:45. Facundo, Robin y Luffy en el bosque de Thriller Bark. Un fantasma de Perona (Negative Hollow) atravesó a Luffy: deprimido en el barro. Un segundo fantasma va flotando directo hacia Facundo. El resto de la tripulación y Brook quedaron en el Sunny.
+## COMANDO 3 (T808)
+dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria(hasta que aparezca kuma simula)
+
+## RESPUESTA 3 (T808)
+
+> dejo que me atraviese el fantasma y sigo normal. simula esta isla ayudando pero dejando que luffy venza a moria (hasta que aparezca kuma simula)
+
+El fantasma te atraviesa el pecho como una corriente de aire frío.
+
+Por un instante sientes que algo intenta tirar de ti hacia abajo, una voz chiquita que te dice que no vales nada, que todo da igual. Pasa de largo como agua sobre una piedra.
+
+Sigues exactamente igual.
+
+El fantasma sale por tu espalda, da media vuelta en el aire y te mira, confundido, con la lengua afuera. Se ríe menos.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER — COMPLETADO               ║
+║ Horo Horo no Mi                              ║
+║ USUARIO ORIGINAL: Perona · One Piece         ║
+║                                              ║
+║ MISIÓN: Que un fantasma negativo te          ║
+║ atraviese y no se te baje el ánimo.          ║
+║                                              ║
+║ Negative Hollow · Mini Hollow · cuerpo       ║
+║ astral · todo lo que Perona llega a hacer    ║
+║ DOMINIO: total                               ║
+╚══════════════════════════════════════════════╝
+```
+
+[+800 EXP]
+
+La noche de Thriller Bark es larga.
+
+Levantas a Luffy del barro y lo sacudes hasta que se le pasa la depresión. A los cinco minutos ya está persiguiendo a la araña con cabeza de ratón. En la mansión de la cima los recibe un doctor enano y loco, Hogback, con una actriz muerta que camina y sirve el té con una sonrisa de porcelana. Robin le ve las costuras en el cuello y te aprieta el brazo.
+
+Es la trampa de la casa. Mientras Robin y tú siguen a una sombra por el Wonder Garden, Luffy, Zoro y Sanji, que llegan desde el barco detrás de Nami, se duermen en un salón de la mansión con el gas de Hogback. Un hombre enorme, gris y cornudo, se ríe con un «kishishishi» y les corta las sombras con unas tijeras gigantes. Gecko Moria se las lleva y las mete en tres cadáveres.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Kage Kage no Mi                              ║
+║ USUARIO: Gecko Moria · One Piece             ║
+║                                              ║
+║ MISIÓN: Que Moria intente cortarte la sombra ║
+║ con sus tijeras y no lo logre.               ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Suke Suke no Mi                              ║
+║ USUARIO: Absalom · One Piece                 ║
+║                                              ║
+║ MISIÓN: Encontrar a Absalom invisible y      ║
+║ tocarle el hombro antes de que se dé cuenta. ║
+║ DIFICULTAD: BAJA                             ║
+╚══════════════════════════════════════════════╝
+```
+
+Cuando se despiertan, ya no tienen sombra. Brook les cuenta lo que pasa al amanecer. Les queda hasta que salga el sol.
+
+El resto de la noche, la isla es una guerra.
+
+Hay cientos de zombis en los pasillos, en el bosque y en los patios, soldados podridos con sombras robadas que pelean como piratas vivos. Brook les dice cuál es el secreto: la sal. Y tú tienes el mar entero debajo de la isla.
+
+Levantas el agua de la bahía. Sube por las paredes de piedra en columnas, se arrastra por los patios como una marea viva y entra por las ventanas de la mansión. Los zombis que toca se desarman en el acto: los cuerpos caen como muñecos y de cada boca sale una sombra negra que sale volando por la niebla, buscando a su dueño. Cerberus, el perro de tres cabezas, cae entero en una ola. Caen también los generales zombi, el luchador Jigoro, el perro Inuppe, la araña Tararan y el Capitán John, y con ellos cuatrocientos zombis más en toda la noche. En un pasillo del sótano, un grupo de piratas sin sombra, escondidos del sol hace años, ve volver sus sombras uno por uno y llora de rodillas. Su capitana, una mujer enorme y despeinada llamada Lola, te pide matrimonio a gritos. Robin le dice muy amablemente que no.
+
+[Shio Shio no Mi: maestría 34 → 40]
+
+Las peleas grandes son de los demás.
+
+Zoro se cruza con el samurái de Wano, Ryuma, que tiene la sombra de Brook y una espada negra legendaria. Le gana. Ryuma le entrega la espada antes de deshacerse, y la sombra de Brook vuelve volando a su dueño. Usopp le gana a la princesa de los fantasmas, Perona, porque es tan negativo que los fantasmas no le hacen nada, y la tumba con un martillo de juguete. Sanji caza al invisible Absalom, que quería casarse con Nami a la fuerza, y lo destroza a patadas. Robin y Chopper hacen caer a Hogback en su propia trampa.
+
+Al final, Moria mete la sombra de Luffy en un gigante congelado de quinientos años, Oars. Oars despierta gritando que va a ser el Rey de los Piratas y arrasa la isla. Lola y los suyos le meten a Luffy cien sombras en el cuerpo y se vuelve una pesadilla azul, tres veces su tamaño. Con toda la tripulación peleando a la par, derriban a Oars.
+
+Y cuando la niebla empieza a volverse gris, Moria absorbe él mismo todas las sombras de la isla y se vuelve un monstruo deforme, del tamaño de una montaña.
+
+Luffy, sin fuerzas y sin las sombras prestadas, se levanta igual.
+
+Tú te quedas atrás, con Robin, y lo miras pelear. No te metes.
+
+Gear Second y Gear Third a la vez. El puño gigante, rojo y humeante, se hunde en Moria justo cuando el primer rayo de sol corta la niebla. La torre-mástil de Thriller Bark se derrumba encima de él. Las sombras salen de su cuerpo en un torbellino negro, cientos, miles, y vuelan cada una hacia su dueño a tiempo, mientras la luz del amanecer cubre la isla.
+
+Brook está parado en la explanada, al sol, con su sombra a los pies. Mira la luz y llora sin lágrimas.
+
+A las seis y cuarenta de la mañana, toda la tripulación está tirada entre las ruinas, agotada. Luffy, desmayado, ronca boca arriba. Los Piratas Rolling cantan y bailan alrededor, con sus sombras recuperadas.
+
+Kase, en tu hombro, levanta de golpe la cabeza.
+
+Entre las ruinas, al borde de la explanada, hay un hombre que no estaba ahí un segundo antes. Es enorme, de casi siete metros, tiene una gorra con orejas de oso, un abrigo largo y una Biblia abierta en la mano. Los mira a todos sin expresión.
+
+```
+╔════════════════════════════════════════╗
+║ BARTHOLOMEW KUMA                       ║
+║ Shichibukai · Gobierno Mundial         ║
+║ PODER: Nikyu Nikyu no Mi · sin datos   ║
+║ AMENAZA: ALTA                          ║
+║ Diferencia estimada: x0,25 sobre ti    ║
+║ COPIABLE (no visto en acción)          ║
+╚════════════════════════════════════════╝
+```
+
+[+900 EXP · +420 Fragmentos]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 808 · ONE PIECE · DÍA 44 · 06:40       ║
+║ Thriller Bark · explanada en ruinas          ║
+║ NIVEL 26 · EXP 214.940/215.000               ║
+║ FRAGMENTOS 134.442 · 1.000.000 berries       ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, alerta                   ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: Moria vencido. Llegó Kuma. Salir   ║
+║ de One Piece antes del Día 49.               ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 44 06:40, Thriller Bark, explanada en ruinas al amanecer. Moria vencido por Luffy; sombras devueltas; Brook al sol. Tripulación agotada, Luffy desmayado. Acaba de aparecer Bartholomew Kuma (Shichibukai) con la Biblia. Canon: trae orden de borrar a los testigos; ofrece perdonar a todos a cambio de la cabeza de Luffy; Zoro se ofrece.

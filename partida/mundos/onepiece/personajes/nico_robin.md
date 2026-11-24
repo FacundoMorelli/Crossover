@@ -76,3 +76,4 @@ ESTADO: activa
 - T790 · Noche del Día 37 con Facundo en el cuarto chico (fundido). Día 38 a la mañana lee el libro de Paradis en el sillón.
 - T800 · Días 38-41 · Días tranquilos con Facundo en Water 7; le roba la malla a Franky con Nami (Hana Hana). Cartel 80M.
 - T801 · Mira el Sunny con Facundo: "Ahora tengo un barco con césped." Franky le hizo una biblioteca.
+- T808 · Noche de Thriller Bark; Facundo la protege; con Chopper vence a Hogback.
