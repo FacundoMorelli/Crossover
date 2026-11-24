@@ -748,3 +748,4 @@ T746 · One Piece · Enies Lobby · "Vayamos." Luffy cruza solo el abismo. Spand
 T747 · One Piece · Torre de la Justicia · Cruza a todos con la Luna. Fukurou explica las cinco llaves.
 T748 · One Piece · Torre de la Justicia · Facundo y Luffy van tras Lucci. La tripulación se reparte. Blueno en la puerta del pasaje.
 T749 · One Piece · Torre, sótano · Luffy estrena el Gear Second y noquea a Blueno. Sale corriendo por el pasaje.
+T750 · One Piece · Pasaje subterráneo · Lucci les corta el paso. Spandam sigue con Robin.
