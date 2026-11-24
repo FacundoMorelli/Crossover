@@ -87,3 +87,4 @@ ESTADO: activa
 - T918 · Día 57 17:20 · Tequila Wolf. Presa: esposas de piedra marina, cargando un bloque en el puente. Levanta la cabeza y ve a Facundo (no lo veía desde T822).
 - T919 · Suelta el bloque. Llora en silencio, sonríe: "Tardaste. Me prometiste que, cuando volvieras, me ibas a contar cómo termina la historia de ese mundo."
 - T920 · Facundo: "Todavía no terminó la historia, pero no falta mucho." Beso largo; Facundo le rompe las esposas de piedra marina. LIBRE. "Eres imposible. Siempre eres imposible."
+- T921 · Facundo la levanta de la cintura y la besa de nuevo; ella lo besa "como para asegurarse de que es real". A Luffy: "Capitán. Hola." A Facundo: "¿Dónde están los otros? ¿Qué pasó mientras yo estaba aquí?"
