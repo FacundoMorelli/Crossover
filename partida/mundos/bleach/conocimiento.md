@@ -91,3 +91,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Urahara, Yoruichi, Jinta, Ururu (y Tessai por ellos) · T1028 · Facundo volvió a Karakura el 18/12 (lo ven en persona en el patio de la tienda).
 - Ichigo, Chad, Orihime · T1030 · lo ven en persona en el puente: volvió (18/12).
 - Ichigo, Orihime, Chad · T1031 · Facundo volvió para ver si todo estaba bien; Urahara ya le contó (él lo dijo).
+- Ichigo, Orihime, Chad · T1032 · Facundo se queda unos días y se va; si no vuelve es porque sigue recorriendo ("no estoy muerto... espero").

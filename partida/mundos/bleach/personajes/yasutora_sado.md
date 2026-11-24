@@ -16,3 +16,4 @@ ESTADO: herido leve, rescatado por Urahara.
 - DIÁLOGO T311: "...Facundo." / "Gracias. Otra vez."
 - T1030 · 18/12 15:42 · En el puente con Ichigo y Orihime: lo ve primero y se detiene en seco.
 - T1031 · Levanta la mochila de Ichigo. "Sí estaba." "Bienvenido."
+- T1032 · "Yo también." (ir a buscarlo)

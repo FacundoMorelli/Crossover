@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1029)
-paso y le digo que sí, cuéntame qué pasó
-
-## RESPUESTA 1 (T1029)
-
-> paso y le digo que sí, cuéntame qué pasó
-
-> —Sí. Cuéntame qué pasó.
-
-Adentro de la tienda hace calor. Huele a madera vieja, a caramelos baratos y a té verde. Los estantes de la entrada siguen llenos de golosinas que nadie compra.
-
-Te lleva por el pasillo hasta el cuarto del fondo, el del kotatsu. Tessai ya está ahí, arrodillado junto a la mesa baja, enorme, con el delantal puesto y los anteojos brillando. Al verte inclina la cabeza, muy formal, y te sirve una taza de té sin decir una palabra. Después pone en el piso un platito con un pescado seco para Kase.
-
-Kase baja de tu hombro, olfatea el pescado y se lo come.
-
-El gato negro entra detrás, se sube al kotatsu y se echa sobre la manta, del lado más caliente.
-
-—Te tardaste —dice el gato, con voz grave de hombre—. Kisuke apostó que volvías en un mes. Yo dije que en tres. Me debe una cena.
-
-—Detalles, detalles. —Urahara se sienta frente a ti, deja el bastón a un lado y se abanica, aunque hace calor—. Bueno. Por dónde empiezo...
-
-Lo cuenta en orden, con su voz ligera de siempre, como quien lee las noticias del diario.
-
-Que después del 24 de septiembre, cuando Yamamoto rompió la estatua de Aizen en el Muken, la Sociedad de Almas pasó un mes entero dando vueltas sobre sí misma. Que se formó una Central 46 nueva, con jueces que no había matado nadie. Que el primer caso que juzgaron fue el de Gin Ichimaru y Kaname Tōsen: prisión en el Muken, por tiempo indefinido.
-
-—Dicen que la teniente Matsumoto va a verlo una vez por semana —agrega, bajando un poco la voz—. Se sientan a los dos lados de la reja y no hablan. —Se encoge de hombros—. Eso dicen.
-
-Que Hueco Mundo está en silencio desde que te fuiste. Las Noches sigue en pie, cerrada, y nadie de este lado sabe muy bien quién manda adentro.
-
-—Ulquiorra no se movió de ahí —dice el gato—. No mandó a nadie. No atacó a nadie. Es como si estuviera esperando órdenes de alguien que ya no existe. —Te mira con los ojos dorados—. O de alguien que se fue de viaje.
-
-Urahara sigue. Que de vez en cuando se escapa algún Arrancar suelto, sin dueño, y aparece en el Mundo Humano a hacer escándalo; que el más ruidoso es uno de pelo celeste que anda vagando por el desierto, y que Kurosaki ya lo echó dos veces.
-
-—Ah, sí. Kurosaki. —Sonríe detrás del abanico—. Sigue siendo Shinigami sustituto. Con todos sus poderes, el bankai, la máscara, todo. Cada vez más fuerte, y cada vez más insoportable. —Toma un sorbo de té—. La señorita Kuchiki va y viene. La nombraron en el 13.º, y Ukitake la manda a Karakura cada vez que puede. Inoue, Sado e Ishida, en la escuela, como si nada. Terminan el semestre la semana que viene.
-
-Deja la taza en la mesa.
-
-—Y eso es todo. Tres meses de paz. —Te mira. Ya no se abanica—. Nunca había visto tres meses así de tranquilos en este pueblo. Es casi aburrido.
-
-Hace una pausa.
-
-—Kurosaki sale de clase a las tres y media. Pasa por el puente todos los días, de vuelta a la clínica. —Vuelve a abrir el abanico—. No sabe que volvió. Nadie lo sabe todavía, salvo los que estamos en este cuarto. —Se tapa media cara—. ¿Le va a dar la sorpresa, o prefiere que se lo cuente yo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1029 · BLEACH · 18/12 · 11:20          ║
-║ Karakura · tienda de Urahara, cuarto del     ║
-║ kotatsu                                      ║
-║ NIVEL 27 · EXP 234.850/240.000               ║
-║ FRAGMENTOS 107.840 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el piso, comiendo pescado seco      ║
-║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1030)
+## COMANDO 1 (T1030)
 le doy la sorpresa, lo espero en el puente
 
-## RESPUESTA 2 (T1030)
+## RESPUESTA 1 (T1030)
 
 > le doy la sorpresa, lo espero en el puente
 
@@ -132,10 +71,10 @@ Se le cae la mochila del hombro. Cae a la vereda con un golpe sordo.
 
 ---
 
-## COMANDO 3 (T1031)
+## COMANDO 2 (T1031)
 hola chicos, como estan? volvi para ver si todo estaba bien, urahara ya me dijo que si, asi que vine a saludarlos
 
-## RESPUESTA 3 (T1031)
+## RESPUESTA 2 (T1031)
 
 > hola chicos, como estan? volvi para ver si todo estaba bien, urahara ya me dijo que si, asi que vine a saludarlos
 
@@ -190,4 +129,54 @@ Ichigo se cuelga la mochila, se mete las manos en los bolsillos del abrigo, mira
 
 ---
 
-ESTADO AL CIERRE: Bleach, 18/12 15:44, puente sobre el río de Karakura. Reencuentro con Ichigo, Orihime y Chad. Ichigo pregunta cuánto se va a quedar. Facundo puede responder.
+## COMANDO 3 (T1032)
+unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que sigo recorriendo, no estoy muerto ni nada asi... Espero
+
+## RESPUESTA 3 (T1032)
+
+> unos días, y después me voy, no se preocupen por mi, si no vuelvo es por que sigo recorriendo, no estoy muerto ni nada asi... Espero
+
+> —Unos días, y después me voy. No se preocupen por mí. Si no vuelvo, es porque sigo recorriendo. No estoy muerto ni nada así... Espero.
+
+—¡¿"Espero"?! —Ichigo se da vuelta de golpe—. ¡¿Cómo que "espero"?! ¡No digas esas cosas así nomás, como si hablaras del clima!
+
+Orihime se queda con la sonrisa a medio camino. Se le borra despacio.
+
+—Facundo-kun... —Junta las manos sobre el pecho—. ¿Es peligroso? Los lugares adonde vas.
+
+Chad no dice nada. Te mira desde detrás del flequillo, muy quieto.
+
+Ichigo resopla y patea un poco de nieve sucia contra la baranda del puente.
+
+—Mira. —Se rasca la nuca, sin mirarte—. Una vez te fuiste y volviste justo cuando secuestraron a Inoue. Y la vez siguiente volviste con Aizen hecho piedra. —Se le escapa media risa, a su pesar—. Así que sé que sabes cuidarte. Pero si un día no vuelves, no voy a pensar que estás "recorriendo". Voy a ir a buscarte, aunque tenga que patear todas las puertas raras que encuentre.
+
+—Yo también —dice Chad.
+
+—¡Y yo! —Orihime levanta la mano, como en clase—. ¡Puedo curar cualquier cosa!
+
+Ichigo se pone rojo de nuevo, como si recién se diera cuenta de lo que dijo. Se mete las manos en los bolsillos y empieza a caminar por el puente, hacia el lado de la clínica.
+
+—Bueno, ya. —No se da vuelta—. Si te vas a quedar unos días, vienes a cenar a casa esta noche. Mi viejo te vio en la tele aquella vez, en lo de Kanonji, y no deja de preguntar por "el chico del gato". Yuzu va a hacer curry. Karin va a fingir que no le importa. —Una pausa—. Y Rukia llega mañana. Si te ve antes que yo le avise, me mata.
+
+Se detiene a mitad del puente y te mira por encima del hombro, con el ceño fruncido de siempre.
+
+—¿Vienes o no?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1032 · BLEACH · 18/12 · 15:47          ║
+║ Karakura · puente sobre el río               ║
+║ NIVEL 27 · EXP 234.850/240.000               ║
+║ FRAGMENTOS 107.840 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, con bufanda              ║
+║ MISIÓN DE MUNDO: cumplida · viaje libre      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Bleach, 18/12 15:47, puente de Karakura. Ichigo lo invita a cenar a su casa esta noche (curry de Yuzu; Isshin quiere conocer al chico del gato); Rukia llega mañana. "¿Vienes o no?" Facundo puede responder.
