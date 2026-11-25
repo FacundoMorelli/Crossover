@@ -25,3 +25,4 @@ ESTADO: curado, chakra lleno (T1311).
 RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1313 · Lleva a Facundo a la carpa de la colina ("Viene conmigo" a los ANBU). Convence a Shizune ("Ayer no podía ni sentarme"). Muele la semilla y se la da a Tsunade, que despierta.
 - T1314 · Le resume a Tsunade: Naruto venció a Pain; revivió a los muertos; aldea destruida; Danzō nombrado Hokage. Señala a Facundo con el pulgar cuando Tsunade pregunta por qué se siente así.
+- T1316 · Confirma ante Tsunade que Facundo no pidió nada. Recibe la orden de convocar a Homura y Koharu.

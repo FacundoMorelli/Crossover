@@ -3,96 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1313)
-
-esta bien
-
-## RESPUESTA 1 (T1313)
-
-> esta bien
-
-> —Está bien.
-
-Kakashi asiente una vez y sale de la carpa sin decir más. Camina rápido, con la pierna sana, y a cada paso parece acordarse de que no le duele.
-
-La carpa de la colina está apartada del resto, sobre una loma desde donde se ve el cráter entero. Hay dos ninjas con máscaras de animal parados en la entrada. Cuando ven a Kakashi se corren; cuando te ven a ti, uno da un paso para cerrarte el paso.
-
-—Viene conmigo —dice Kakashi.
-
-El de la máscara duda. Se corre.
-
-Adentro huele a hierbas medicinales y a alcohol de curar. En un futón, en medio de la carpa, hay una mujer rubia, con dos coletas largas sobre la almohada y un rombo violeta en la frente. Está muy quieta, pálida, con las manos cruzadas sobre el pecho. Sobre su hombro descansa una babosa blanca y celeste del tamaño de una mano, que levanta las antenas cuando entran.
-
-╔══════════════════════════════════════════════╗
-║ TSUNADE                                      ║
-║ Quinta Hokage · una de los Tres Sannin       ║
-║ PODER: Ninjutsu médico, fuerza monstruosa,   ║
-║        Sello de los Cien (Byakugō),          ║
-║        invocación de Katsuyu                 ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE (sin verla en acción)               ║
-║ Estado: coma por agotamiento de chakra       ║
-╚══════════════════════════════════════════════╝
-
-A su lado, de rodillas, una mujer de pelo negro corto, con un cerdito rosado dormido en el regazo, le cambia un paño húmedo de la frente. Levanta la vista. Tiene ojeras de días.
-
-—Kakashi-san. ¿Qué haces parado? Tenías que...
-
-Se frena. Te ve.
-
-—¿Quién es él?
-
-—Un viajero —dice Kakashi—. Shizune, no hay tiempo para explicarte bien, así que te lo explico mal: me dio esto, me lo comí, y mírame.
-
-Se agacha junto al futón, abre el puño y le muestra la semilla. Shizune la mira, lo mira a él, te mira a ti.
-
-—Kakashi-san, no puedes darle a Tsunade-sama algo que trajo un descono...
-
-—Shizune. —Kakashi la mira a los ojos—. Ayer no podía ni sentarme.
-
-Shizune se queda callada. La babosa sobre el hombro de Tsunade gira las antenas hacia ti.
-
-—Tiene que tragar —dice Shizune al fin, con la voz chiquita.
-
-Kakashi parte la semilla con los dedos, la muele con el mango de un kunai sobre un cuenco, la mezcla con un poco de agua y le levanta la cabeza a Tsunade con una mano. Shizune le abre la boca con cuidado, y entre los dos le hacen tragar de a sorbos.
-
-Pasa un segundo. Pasan dos.
-
-A Tsunade se le colorean las mejillas. Las manos sobre el pecho se le mueven. Respira hondo, una vez, como alguien que sale del agua.
-
-Abre los ojos. Son color miel, y están furiosos, y confundidos, y vivos.
-
-—¿Dónde...? —Se incorpora de golpe sobre un codo, y Shizune ahoga un grito—. ¡La aldea! ¿Y Naruto? ¡¿Dónde está Naruto?!
-
-Mira a Shizune, mira a Kakashi, de pie y sin vendas. Y después mira, detrás de ellos, a un desconocido de pelo blanco y azul, con un ojo rojo, un ojo azul y un gato enorme en el cuello.
-
-Entrecierra los ojos.
-
-—¿Y tú quién demonios eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1313 · NARUTO · DÍA 1 · 08:21          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1314)
+## COMANDO 1 (T1314)
 
 mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
 
-## RESPUESTA 2 (T1314)
+## RESPUESTA 1 (T1314)
 
 > mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
 
@@ -143,11 +58,11 @@ Tsunade se da vuelta despacio hacia ti. Te mira de arriba abajo, el pelo, los oj
 
 ---
 
-## COMANDO 3 (T1315)
+## COMANDO 2 (T1315)
 
 se llama semilla del hermitaño
 
-## RESPUESTA 3 (T1315)
+## RESPUESTA 2 (T1315)
 
 > se llama semilla del hermitaño
 
@@ -190,4 +105,53 @@ Deja el cuenco en el suelo. Se cruza de brazos. A pesar del camisón y los pies 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:25, carpa de la colina. Tsunade probó el resto de la semilla y se revisó con chakra médico: canales intactos, chakra lleno; "esto no es medicina". Kakashi le dijo que fueron 44 (43 en la carpa del este). Tsunade: "¿Qué quieres?" Facundo tiene que contestar.
+## COMANDO 3 (T1316)
+
+nada, ya le dije antes a kakashi y a yamato, vine a ayudar
+
+## RESPUESTA 3 (T1316)
+
+> nada, ya le dije antes a kakashi y a yamato, vine a ayudar
+
+> —Nada. Ya se lo dije antes a Kakashi y a Yamato: vine a ayudar.
+
+Tsunade no dice nada. Te sostiene la mirada un rato largo, sin parpadear, como si esperara que en algún momento se te escapara la verdad por la cara.
+
+No se te escapa nada.
+
+—Es cierto —dice Kakashi, sin descruzar los brazos—. Me lo dijo antes de darme la primera. Y no pidió ni las gracias.
+
+Tsunade resopla por la nariz. Mira a Kase, que bosteza con toda la boca abierta, mostrándole los colmillos a la Quinta Hokage.
+
+—Hmph. —Algo se le afloja en la boca, casi una sonrisa, y se le va enseguida—. Conocí a un solo idiota capaz de algo así. Y ese idiota ahora anda por ahí con media aldea gritándole el nombre.
+
+Se da vuelta y empieza a dar órdenes, con la misma voz con que gritó por Danzō.
+
+—Shizune, mi ropa. La de Hokage, no la del hospital. —Shizune ya está revolviendo un baúl—. Kakashi, quiero a Homura y a Koharu en la carpa de mando dentro de una hora. Y que alguien le avise a Danzō que la Hokage está despierta. —Hace una pausa—. No. Que no le avise nadie. Quiero verle la cara cuando se entere.
+
+—Entendido. —A Kakashi se le arruga el ojo.
+
+Shizune vuelve con una chaqueta verde y el abrigo blanco y rojo con el kanji del Fuego en la espalda. Tsunade se lo pone encima del camisón, sin ceremonia, y se ata el pelo en dos coletas en tres segundos.
+
+Después vuelve a mirarte. De arriba abajo, una última vez.
+
+—Bien, Facundo Morelli. Te tomo la palabra. —Te apunta con el dedo—. Si viniste a ayudar, te voy a hacer trabajar, que aquí sobra trabajo y faltan brazos. Pero antes quiero saber para qué sirves. ¿Sabes algo de medicina? ¿O de construir casas? ¿O solo sabes regalar semillas milagrosas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1316 · NARUTO · DÍA 1 · 08:28          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:28, carpa de la colina. Facundo: "No quiero nada, vine a ayudar." Kakashi lo confirma. Tsunade (casi sonríe: "conocí a un solo idiota así", Naruto) se viste de Hokage; ordena: Homura y Koharu en la carpa de mando en una hora; que nadie le avise a Danzō ("quiero verle la cara"). A Facundo: "Te voy a hacer trabajar. ¿Sabes algo de medicina? ¿O de construir casas? ¿O solo sabes regalar semillas milagrosas?" Facundo tiene que contestar.

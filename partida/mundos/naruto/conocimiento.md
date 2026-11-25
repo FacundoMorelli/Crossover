@@ -25,3 +25,4 @@
 - Tsunade · T1314 · por Kakashi: Naruto venció a Pain; muertos revividos; Danzō nombrado Hokage por el Señor Feudal.
 - Dos ANBU de la entrada · T1314 · oyeron gritar a Tsunade: está despierta.
 - Tsunade, Shizune · T1315 · por Facundo: "semilla del ermitaño". Por Kakashi: dio 44 (43 en la carpa del este con Yamato, 1 para Tsunade). Tsunade comprobó con chakra médico que no es una medicina conocida.
+- Tsunade, Shizune · T1316 · por Facundo y Kakashi: no pide nada a cambio; vino a ayudar.
