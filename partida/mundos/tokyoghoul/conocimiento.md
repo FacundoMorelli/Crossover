@@ -132,3 +132,5 @@
 - Facundo · T1231 · vio en una pantalla de la carpa la fachada de Anteiku (cámara de la CCG).
 - Washuu, Marude, Shinohara, Houji, Kuroiwa · T1232 · Facundo dice ser "un humano viajero".
 - Facundo · T1232 · por Washuu: la orden la firmó su padre, presidente de la CCG; hay 400 investigadores en el distrito; "hay gente" (la familia Washuu) con ganas de conocerlo.
+- Facundo · T1233 · Tasación de Arima (Clase Especial, Escuadrón 0, IXA y Narukami). Por Washuu: su padre no pisa la calle hace 30 años.
+- Arima · T1233 · vio a Facundo (esposado, gato) en la carpa; Washuu se lo presentó como "el viajero". (Washuu le informó antes, presumiblemente.)

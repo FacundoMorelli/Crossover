@@ -1231,3 +1231,4 @@ T1229 · TG · Avenida 3 · Lleva a los 4 Apes heridos a Anteiku. Se deja esposa
 T1230 · TG · Puesto de mando · Devuelve la quinque. Caminan escoltados. Dos Black Dobers muertos en el camino. Washuu Yoshitoki: "Bienvenido. ¿Le apetece un té?"
 T1231 · TG · Carpa central · Té con Washuu. Resume todo lo que sabe. "¿Qué es usted?"
 T1232 · TG · Carpa central · "Soy un humano viajero." Propuesta de Washuu: el Búho se entrega, los demás libres; Facundo, invitado de la familia Washuu.
+T1233 · TG · Carpa central · "Dile al presidente que venga." Washuu lo va a llamar. Entra Kishou Arima: "¿Te gusta leer?"

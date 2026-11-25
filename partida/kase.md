@@ -85,3 +85,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1175 (Tokyo Ghoul) · Yoshimura le sirve leche tibia y pescado cocido. Desconfía un rato largo y después come.
 - T1186 (Tokyo Ghoul) · Come un pedazo de tostada de la palma de Hinami, con cuidado. Después hace como si nada.
 - T1229 (Tokyo Ghoul) · Olfatea las esposas de supresión de Facundo y estornuda.
+- T1233 (Tokyo Ghoul) · Se le eriza el lomo al ver a Kishou Arima, por primera vez en este mundo.

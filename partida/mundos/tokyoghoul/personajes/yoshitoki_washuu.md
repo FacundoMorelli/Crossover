@@ -7,6 +7,7 @@ ENCUENTROS:
 - T1230 · Puesto de mando (cruce de la avenida 1) · Recibe a Facundo en la entrada de la carpa del medio.
 - T1227 · Por radio · Niega el alto el fuego; pide que le lleven al detenido.
 DIÁLOGOS CLAVE:
+- T1233 · "Mi padre no viene a las calles. Hace treinta años que no pisa una." "Voy a llamarlo. Personalmente." "Permítame presentarle a alguien." "Arima-san. Él es el viajero."
 - T1232 · "Un viajero. De algún lugar donde los humanos detienen quinques con la palma de la mano." "Yo tengo una orden firmada por mi padre, el presidente de esta Comisión, que dice que el Búho no amanece vivo." "El Búho se entrega. Solo él. Todos los demás quedan libres. Sin cargos. Fuera de nuestras listas." "Y usted viene conmigo también. Como invitado de la familia Washuu." "Piénselo con calma. El té todavía está caliente."
 - T1231 · "Le voy a hablar con franqueza." "Lo archivé como un rumor." "Y ahora está sentado en mi carpa, esposado, tomando mi té. Por propia voluntad." "¿Qué es usted?"
 - T1230 · "Bienvenido. Washuu Yoshitoki. Usted debe ser el responsable de la avenida 3." "Pase, por favor. ¿Le apetece un té?"

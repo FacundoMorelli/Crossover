@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1230)
-le doy el quinque
-
-## RESPUESTA 1 (T1230)
-
-> le doy la quinque
-
-Le devuelves la quinque a Houji, con el mango hacia él.
-
-La agarra. La mira un segundo, la hoja curva, el filo, el lugar exacto donde se apoyó en tu palma. No tiene ni una marca. Aprieta un botón en el mango y la hoja se repliega sola, con un chasquido mecánico, hasta volverse un maletín plateado del tamaño de un portafolios.
-
-—Gracias —dice. Lo dice igual que todo lo demás, sin emoción. Pero lo dice.
-
-Shinohara se pone el casco bajo el brazo y señala hacia el oeste con la cabeza.
-
-—Por acá.
-
-Caminan.
-
-Kuroiwa va adelante, con el casco puesto otra vez. Shinohara, a tu izquierda, con una mano apoyada en tu brazo, como corresponde a un detenido. Houji, detrás. Kase, en tu hombro, mirando todo con los ojos entrecerrados.
-
-El Distrito 20 se ve distinto. Las calles están vacías de gente común. Hay camionetas blancas cada dos cuadras, cintas amarillas, faroles apagados. En una esquina, un grupo de investigadores carga en una camilla a un compañero con la pierna vendada. Se quedan mirándote al pasar: el muchacho de pelo blanco y azul, esposado, con un gato en el hombro, escoltado por tres Clase Especial. Uno de ellos le dice algo al oído al de al lado.
-
-Más adelante, contra la pared de un banco, hay dos cuerpos con máscaras de perro. No se mueven. Shinohara no los mira. Tú sí.
-
-Cuatro cuadras. Cinco.
-
-En el cruce de la avenida 1, la CCG levantó un campamento en medio de la calle: tres carpas blancas grandes, generadores que zumban, reflectores que ya se encendieron aunque todavía queda algo de luz, antenas, mesas plegables llenas de mapas y pantallas. Hay investigadores por todas partes, entrando y saliendo de las carpas, hablando por radio.
-
-Cuando ustedes entran al círculo de luz de los reflectores, el ruido baja. No de golpe: de a poco, como cuando alguien entra a un aula. La gente deja de hablar, se da vuelta, se queda mirando.
-
-En la entrada de la carpa del medio hay dos hombres.
-
-Uno es bajo y ancho, de pelo corto peinado hacia atrás, con un cigarrillo apagado en la boca y cara de no haber dormido en tres días. Te mira con los ojos entrecerrados, de arriba abajo, como quien evalúa un auto usado.
-
-El otro es delgado, de mediana edad, con lentes de marco fino, el pelo negro prolijamente peinado y un traje oscuro impecable, sin una sola arruga. Tiene las manos cruzadas por detrás de la espalda. Sonríe apenas, con educación, como un anfitrión que recibe a un invitado algo tardío.
-
-Da un paso hacia ti. Reconoces la voz antes de que termine la primera palabra: es la de la radio.
-
-—Bienvenido —dice—. Washuu Yoshitoki. Usted debe ser el responsable de la avenida 3.
-
-Te mira las esposas, encendidas. Te mira la cara. Te mira el gato.
-
-—Pase, por favor. —Señala la carpa con un gesto suave de la mano—. ¿Le apetece un té?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1230 · TOKYO GHOUL · DÍA 6 · 18:09     ║
-║ Distrito 20 · puesto de mando, avenida 1     ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con Washuu                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1231)
+## COMANDO 1 (T1231)
 esta bien
 
-## RESPUESTA 2 (T1231)
+## RESPUESTA 1 (T1231)
 
 > —Está bien.
 
@@ -123,10 +59,10 @@ Te mira por encima de los lentes. La sonrisa educada no se le mueve ni un milím
 
 ---
 
-## COMANDO 3 (T1232)
+## COMANDO 2 (T1232)
 soy un humano viajero
 
-## RESPUESTA 3 (T1232)
+## RESPUESTA 2 (T1232)
 
 > —Soy un humano viajero.
 
@@ -179,7 +115,81 @@ Washuu toma la taza otra vez.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1233)
+no, ya lo dije, no voy a entregar a nadie, dile al presidente que venga
+
+## RESPUESTA 3 (T1233)
+
+> —No. Ya lo dije: no voy a entregar a nadie. Dile al presidente que venga.
+
+Washuu deja la taza en el platillo. Despacio. Sin ruido.
+
+Por primera vez desde que entraste, la sonrisa se le queda quieta un segundo de más, como un cuadro que se torció apenas en la pared.
+
+—Mi padre no viene a las calles —dice—. Hace treinta años que no pisa una.
+
+Se levanta de la silla. Se alisa el saco con las dos manos.
+
+—Pero entiendo. Usted no habla con intermediarios. —Asiente, como si eso le pareciera razonable—. Voy a llamarlo. Personalmente. Le voy a contar lo que vi esta noche y le voy a transmitir su pedido, palabra por palabra.
+
+Saca del bolsillo interior del saco un teléfono delgado y negro. No marca todavía. Lo sostiene en la mano, mirándote.
+
+—Mientras tanto —dice—, permítame presentarle a alguien. Llegó hace unos minutos. Le pedí que esperara afuera hasta que termináramos el té.
+
+La lona de la entrada de la carpa se abre.
+
+Houji y Kuroiwa se apartan al mismo tiempo, sin que nadie se lo pida. El hombre del cigarrillo apagado se despega del poste. Shinohara, a tu lado, deja de respirar un segundo.
+
+Entra un hombre alto y delgado, de pelo blanco, casi gris, cortado sin cuidado. Lentes de marco fino. Traje oscuro, camisa blanca, sin corbata. Un maletín plateado en la mano izquierda, colgando, como el de un oficinista que vuelve a casa. La cara no tiene ninguna expresión. No es frialdad. Es ausencia.
+
+No hace ruido al caminar.
+
+Lo sientes antes de mirarlo bien. Debajo de esa cara vacía hay algo tranquilo, afilado, muy viejo para la edad que aparenta. Es la presencia más pesada que encontraste en este mundo después de la del Búho. Quizás más.
+
+Tu instinto lo tasa.
+
+```
+╔════════════════════════════════════════╗
+║ KISHOU ARIMA                           ║
+║ CCG · Clase Especial, Escuadrón 0      ║
+║ PODER: Quinques IXA y Narukami,        ║
+║        combate perfeccionado           ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+```
+
+Se detiene a dos metros de tu silla. Te mira. Mira las esposas encendidas. Mira a Kase.
+
+Kase lo mira a él. Y por primera vez en todo este mundo, se le eriza un poco el lomo.
+
+—Arima-san —dice Washuu, con el teléfono todavía en la mano—. Él es el viajero.
+
+Arima no saluda. No se presenta. Inclina la cabeza un poco hacia un lado, como un pájaro que estudia algo nuevo.
+
+—¿Te gusta leer? —te pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1233 · TOKYO GHOUL · DÍA 6 · 18:15     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, lomo erizado             ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con Washuu                ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:13, carpa central. Washuu propone: el Búho se entrega, los demás libres, y Facundo va a la oficina central como invitado de la familia Washuu. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:15, carpa central. Washuu va a llamar al presidente. Entró Kishou Arima y le pregunta a Facundo "¿Te gusta leer?". Facundo puede responder.
