@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1151 · Facundo le da una semilla y lo cura con la Transfiguración Ociosa. Despierta.
 - T1148 · Laboratorio subterráneo · Tirado, abdomen atravesado, mordido en el hombro, ojos abiertos sin ver, respira apenas.
 DIÁLOGOS CLAVE:
+- T1226 · "¿Te estás entregando?" "Si llego a la oficina con el hombre que durmió a veintisiete investigadores caminando a mi lado, me sacan la placa." "Esposas de supresión. A ti no te van a hacer nada. Pero tienen que verte llegar con ellas puestas."
 - T1225 · "Entonces dime qué hacemos. Porque yo no lo sé." "En diez minutos hay otras tres unidades en esta calle. En veinte, viene alguien con quien tú no quieres hablar." "¿Qué propones?"
 - T1223 · "¡Houji!"
 - T1222 · "Lo sé. Están todos respirando." "Me salvó la vida. En la mansión de Kanou." "Ese de ahí mató a investigadores. Hay viudas que todavía esperan esta noche." "Apártate. Llévate a los chicos, al mono, a quien quieras. Pero el Búho se queda."

@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1223)
-no puedo, por que asi como el mato a investigadores, ustedes tambien mataron ghouls compañeros, aca nadie esta limpio de nada, no hay que tirar la piedra y esconder la mano
-
-## RESPUESTA 1 (T1223)
-
-> —No puedo. Porque así como él mató a investigadores, ustedes también mataron a ghouls que eran compañeros de alguien. Aquí nadie está limpio de nada. No se puede tirar la piedra y esconder la mano.
-
-Shinohara se queda callado.
-
-No baja la mirada. Pero algo en la cara se le mueve, como si le hubieras pegado en un lugar donde ya le dolía.
-
-El de la armadura negra gira apenas el casco hacia él. Espera.
-
-Detrás de ti, en el portal, uno de los Apes heridos empieza a llorar bajito, con la cara escondida en las rodillas. Koma no dice nada. Está mirando a los tres compañeros con máscaras de mono que siguen quietos contra la pared, en el charco oscuro.
-
-Houji es el único que no espera.
-
-—Palabras —dice, plano, sin ninguna emoción en la voz—. No cambian el informe.
-
-Y se mueve.
-
-Es rápido. Mucho más rápido que los investigadores de la fila. No va hacia ti: te rodea por la izquierda, en diagonal, buscando el costado del Búho, con la quinque curva levantada por encima del hombro, la hoja abierta como una guadaña, apuntando al cuello encorvado del Búho, donde las plumas de kagune son más finas.
-
-—¡Houji! —grita Shinohara.
-
-Demasiado tarde para que él pueda frenarlo.
-
-El Búho gira la cabeza redonda. Los brazos larguísimos empiezan a levantarse. Del otro lado, Kaneki ya soltó la manga de Touka y los cuatro tentáculos le brotan de la espalda.
-
-La hoja de Houji está a tres metros del cuello del Búho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1223 · TOKYO GHOUL · DÍA 6 · 17:49     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1224)
+## COMANDO 1 (T1224)
 lo detengo con la mano
 
-## RESPUESTA 2 (T1224)
+## RESPUESTA 1 (T1224)
 
 > lo detengo con la mano
 
@@ -107,10 +58,10 @@ Te mira la mano, todavía cerrada sobre la hoja. No tiene ni un rasguño.
 
 ---
 
-## COMANDO 3 (T1225)
+## COMANDO 2 (T1225)
 si quisiera matar ya podrian estar todos muertos, ya lo dijo el de la armadura negra antes
 
-## RESPUESTA 3 (T1225)
+## RESPUESTA 2 (T1225)
 
 > —Si quisiera matar, ya podrían estar todos muertos. Ya lo dijo antes el de la armadura negra.
 
@@ -148,7 +99,64 @@ Houji, a tu lado, sigue sin moverse. Pero ahora te está escuchando.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1226)
+no les voy a decir que lo se, por que no lo se, hagamos algo, voy con ustedes a la oficina y ellos se van
+
+## RESPUESTA 3 (T1226)
+
+> —No les voy a decir que lo sé, porque no lo sé. Hagamos algo: voy con ustedes a la oficina, y ellos se van.
+
+—¡No! —Kaneki da un paso adelante, con los tentáculos todavía levantados—. ¡Facundo-san, no!
+
+Touka no dice nada. Pero cierra el ala de golpe y te mira como si le hubieras pegado.
+
+Koma suelta una carcajada corta, incrédula.
+
+—¿Te vas a meter solo en la boca del lobo, Panadero? ¿Con ellos?
+
+El Búho no se mueve. Pero la voz de Yoshimura sale de adentro de la cabeza redonda, grave, despacio.
+
+—Morelli-san. Ese lugar no es como esta calle. Ahí adentro no se duerme a nadie con la mirada. Hay cosas que ni siquiera la CCG sabe que tiene.
+
+Shinohara te mira en silencio. Mucho rato.
+
+—¿Te estás entregando? —pregunta al final.
+
+Houji, a tu lado, inclina apenas la cabeza.
+
+—No se está entregando —dice, plano—. Se está invitando. —Te mira la mano, que todavía sostiene su quinque—. No hay celda en la oficina central que pueda retener a alguien que detiene esto con la palma. Lo sabe. Por eso lo ofrece.
+
+Kuroiwa suelta un resoplido que puede ser una risa.
+
+Shinohara cierra los ojos un segundo. Cuando los abre, tiene la cara de un hombre que acaba de elegir el camino que menos le gusta entre todos los malos.
+
+—Está bien —dice—. Pero escúchame. Si llego a la oficina con el hombre que durmió a veintisiete investigadores caminando a mi lado como si fuera un compañero, me sacan la placa antes de que cruce la puerta. Y a ti te reciben con todo lo que tengan.
+
+Se mete la mano en el cinturón de la armadura y saca un par de esposas. No las de siempre: son gruesas, de un metal blanco y opaco, con una franja roja en el medio. Las sostiene en el aire, sin acercarse.
+
+—Esposas de supresión. Para ghouls. A ti no te van a hacer nada, lo sé. —Las mira, como si le dieran vergüenza—. Pero tienen que verte llegar con ellas puestas.
+
+Detrás de ti, el Búho da un paso. Uno solo. El asfalto cruje.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1226 · TOKYO GHOUL · DÍA 6 · 17:51     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 77                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:50, avenida 3. Kuroiwa le da la razón a Facundo. Shinohara pregunta qué propone: en 10 minutos llegan tres unidades y en 20 alguien peor. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:51, avenida 3. Shinohara acepta el trato si Facundo llega con esposas de supresión. Kaneki y Touka no quieren; el Búho da un paso. Facundo puede responder.

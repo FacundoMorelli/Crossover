@@ -118,3 +118,5 @@
 - Shinohara, Houji, Kuroiwa, Koma, Apes, Kaneki, Touka, Yoshimura · T1223 · Facundo se negó a apartarse: "nadie está limpio".
 - Houji, Shinohara, Kuroiwa, Kaneki, Touka, Yoshimura, Koma · T1224 · vieron a Facundo detener con la palma la quinque de Houji (kakuhou de rango S) sin un rasguño y quitársela.
 - Facundo · T1225 · por Shinohara: en 10 minutos llegan otras tres unidades a la avenida 3; en 20, "alguien con quien no quieres hablar". El de la armadura negra se llama Iwao Kuroiwa.
+- Todos en la avenida 3 · T1226 · Facundo propuso ir a la oficina de la CCG con los Clase Especial a cambio de que los ghouls se vayan.
+- Facundo · T1226 · por Yoshimura: en la oficina hay "cosas que ni siquiera la CCG sabe que tiene". Por Shinohara: lo recibirían "con todo lo que tengan"; existen esposas de supresión para ghouls.

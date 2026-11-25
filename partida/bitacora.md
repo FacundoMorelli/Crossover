@@ -1224,3 +1224,4 @@ T1222 · TG · Avenida 3 · "No vine a matar a nadie." Shinohara le cree, pero: 
 T1223 · TG · Avenida 3 · "Nadie está limpio." Houji ataca al Búho; la hoja a tres metros del cuello.
 T1224 · TG · Avenida 3 · Detiene la quinque de Houji con la mano y se la queda. Houji: "¿Qué eres?"
 T1225 · TG · Avenida 3 · Kuroiwa se saca el casco: "Tiene razón." Shinohara: "Dime qué hacemos." En 10 min, tres unidades; en 20, alguien peor.
+T1226 · TG · Avenida 3 · Propone ir a la oficina de la CCG para que los ghouls se vayan. Shinohara acepta con esposas de supresión.

@@ -6,6 +6,7 @@ ENCUENTROS:
 - T1215 · Día 5: recibe a Facundo gritando "¡El Panadero!". Quema papeles con Yoshimura. Día 6: afuera con los Apes, fuera de la pared.
 - T1209 (Día 2) · Llega por el callejón con Irimi; pide la transfiguración primero, riéndose para disimular el miedo.
 DIÁLOGOS CLAVE:
+- T1226 · "¿Te vas a meter solo en la boca del lobo, Panadero? ¿Con ellos?"
 - T1221 · "¡Panadero! ¿Qué me diste? ¡Me siento como a los veinte años!" "¡Estoy vivo, idiotas! ¡Estoy vivo!"
 - T1219 · "Panadero. Mierda. Eso fue con dos dedos."
 - T1209 · Pregunta si es cierto que el gerente encontró un "milagro de dos colores".
