@@ -1206,3 +1206,4 @@ T1204 · TG · Distrito 24 · Sigue esquivando a oscuras. Touka agotada. Kaneki 
 T1205 · TG · Distrito 24 · Kaneki en kakuja completo, controlado, tres minutos. COPIA el kagune de Kaneki (+600 EXP). "¿Lo hice bien?"
 T1206 · TG · Distrito 24 · Premio para los dos. Kaneki: hamburguesa de Big Girl. Touka: pastel de frutillas entero.
 T1207 · TG · Anteiku · Vuelven por teletransporte. Nishiki ve el pelo plateado. Touka a bañarse. Yomo: "¿Sabes dónde queda Big Girl?"
+T1208 · TG · Anteiku · Suelta el UI. Yomo: dónde quedan Big Girl y la pastelería; cámaras y CCG en la estación. "¿Tienes dinero?"

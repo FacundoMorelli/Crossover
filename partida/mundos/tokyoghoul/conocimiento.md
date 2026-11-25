@@ -84,3 +84,5 @@
 - Kaneki, Touka, Yomo · T1205 · Kaneki usó el kakuja completo sin perder el control por primera vez y lo deshizo a voluntad. (La copia no se ve ni se nota.)
 - Facundo, Touka, Yomo · T1206 · por Kaneki: su mejor amigo humano es Hide; iban a Big Girl; vomitó una hamburguesa ahí después de volverse ghoul.
 - Nishiki · T1207 · vio a Facundo aparecer de la nada en la cocina con Kaneki, Touka y Yomo; con el pelo plateado y un brillo en la piel (Ultra Instinto).
+- Facundo · T1208 · por Yomo: Big Girl (15 min: calle de adelante, derecha en la avenida, pasar la estación, 4 cuadras; cartel rojo con chica de trenzas). Pastelería de toldo rosa frente a la estación (Touka compraba ahí para la escuela y lo tiraba). Cámaras en la estación; investigadores viajan en tren.
+- Nishiki, Yomo, Kaneki · T1208 · vieron el pelo de Facundo volver a blanco y azul.

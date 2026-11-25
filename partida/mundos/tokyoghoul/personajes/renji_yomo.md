@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1196.
 ENCUENTROS:
 - T1196 · Entra por la puerta del callejón a las 12:40 con una bolsa de supermercado.
 DIÁLOGOS CLAVE:
+- T1208 · "Big Girl está a quince minutos caminando." "El pastel, en la pastelería que está enfrente de la estación. La de toldo rosa. Touka compraba ahí para la escuela. Lo tiraba después, en el baño." "Afuera hay cámaras en la estación. Y gente de la CCG que viaja en tren." "¿Tienes dinero?"
 - T1207 · "¿Big Girl? ¿Sabes dónde queda?"
 - T1204 · "Kaneki."
 - T1200 · "Es el 24. Un nivel más abajo que donde lo traía yo." "Nos ahorraste una hora."

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1186.
 ENCUENTROS:
 - T1186 · Entra a Anteiku a las 07:41 y se frena al ver a Facundo, el gato y a Hinami comiendo una tostada.
 DIÁLOGOS CLAVE:
+- T1208 · "Bueno. Ya está. Ya no me sorprende nada. Si mañana entras volando, ni levanto la vista."
 - T1207 · "¿Qué...? ¿Y eso? ¿Te teñiste en el subte?"
 - T1191 · "¡Kirishima, carajo!" "Te compro diez, loca."
 - T1190 · "Mierda." "Te debo una. Y yo pago lo que debo. Así que no te hagas el santo conmigo."
