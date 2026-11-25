@@ -1129,3 +1129,4 @@ T1127 · BnHA · Jaku · Haki del Rey. Garaki inconsciente sin apretar el botón
 T1128 · BnHA · Jaku · Llama a Nezu. "No los destruya: eran personas." Endeavor, Tsukauchi y la policía en camino (~20 min).
 T1129 · BnHA · Jaku · Se queda a esperar a Endeavor. Nezu: "No toque nada." Pantalla: lista de los sujetos con fotos.
 T1130 · BnHA · Jaku · Endeavor derrite la puerta. "¿Cuál es tu nombre de héroe? ¿Por qué nunca escuché de ti?"
+T1131 · BnHA · Jaku · "Me llamo Eclipse, estuve de paseo." Endeavor: "¿Lo de la cabaña también?" La Comisión llama por Eclipse.

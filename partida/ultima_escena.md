@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1128)
-llamo a Nezu y le digo que mande gente al hospital, quieren que destruya a los nomus o que hago?
-
-## RESPUESTA 1 (T1128)
-
-> llamo a Nezu
-
-Contesta al primer tono.
-
-—¿Señor Morelli?
-
-> —Manden gente al hospital. ¿Quieren que destruya a los Nomu, o qué hago?
-
-Silencio. Del otro lado se escucha la respiración de Nezu, rápida, y un ruido de papeles que se detiene de golpe.
-
-—¿Ya está en Jaku? —dice—. Usted me cortó hace... —Una pausa—. No importa. No importa.
-
-Respira hondo.
-
-—No. No los destruya. Por favor. —La voz aguda le sale muy firme—. Escúcheme bien, señor Morelli. Los Nomu que capturamos en Hosu y en Kamino... los analizamos. Eran personas. Gente con nombre, con familia, que alguien desapareció y después convirtió en eso. No sabemos si queda algo de ellos ahí adentro. Probablemente no. —Se le quiebra apenas la voz—. Pero no nos toca a nosotros decidirlo así. Y además, cada uno de esos cuerpos es una prueba. Para saber quiénes eran. Para devolvérselos a alguien.
-
-Lo escuchas teclear, rápido.
-
-—Voy a llamar a Tsukauchi y a la policía de la prefectura. Y a la agencia de Endeavor, que es la más cercana a Jaku. —Pausa—. Arriba de ese laboratorio hay un hospital lleno de pacientes, señor Morelli. Enfermos, ancianos, recién nacidos. Si alguno de esos Nomu despierta, va a ser una masacre.
-
-Las teclas se detienen.
-
-—¿Cómo están ahora? ¿Y el viejo?
-
-Antes de que contestes, agrega, más despacio:
-
-—¿Puede quedarse ahí hasta que llegue Endeavor? Unos veinte minutos, como mucho. O si tiene que irse... ¿puede hacer con ese laboratorio lo mismo que hizo con la cabaña?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1128 · BOKU NO HERO · DIC. · 12:12     ║
-║ Jaku · laboratorio bajo el hospital          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Llamada en curso: Nezu                       ║
-║ Garaki: inconsciente · 64 Nomu: sin reacción ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Asegurar el laboratorio            ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1129)
+## COMANDO 1 (T1129)
 esta bien me quedo aqui, el doctor esta inconsciente y los 64 nomus sin reaccion
 
-## RESPUESTA 2 (T1129)
+## RESPUESTA 1 (T1129)
 
 > —Está bien, me quedo aquí. El doctor está inconsciente y los 64 Nomu, sin reacción.
 
@@ -111,10 +56,10 @@ Al lado de su nombre dice: "SUJETO 1".
 
 ---
 
-## COMANDO 3 (T1130)
+## COMANDO 2 (T1130)
 espero a endeavor
 
-## RESPUESTA 3 (T1130)
+## RESPUESTA 2 (T1130)
 
 > espero a Endeavor
 
@@ -167,4 +112,58 @@ Da dos pasos más hacia ti. El calor que despide se siente desde lejos.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:32, laboratorio de Jaku. Endeavor entró con héroes y policías. Pregunta a Facundo su nombre de héroe y por qué nunca supo de él. Facundo puede responder.
+## COMANDO 3 (T1131)
+me llamo eclipse y nunca escucho de mi por que estuve de paseo
+
+## RESPUESTA 3 (T1131)
+
+> —Me llamo Eclipse. Y nunca escuchaste de mí porque estuve de paseo.
+
+El fuego de la barba de Endeavor se queda quieto un segundo.
+
+—"De paseo" —repite.
+
+Detrás de él, uno de los héroes, un muchacho alto con un traje gris y un visor, se tapa la boca con la mano. Una policía hace como que revisa su radio.
+
+Endeavor no se ríe. Te mira de arriba abajo, despacio: la ropa común, el gato sentado a tus pies, las manos vacías. Después vuelve a mirar las sesenta y cuatro filas de tanques.
+
+—Eclipse —dice, como si probara el nombre y no terminara de gustarle—. Bien.
+
+Se da vuelta hacia la puerta derretida.
+
+—¡Ustedes! El viejo, esposado y sedado. No le saquen los ojos de encima ni un segundo. —Uno de los policías se acerca con unas esposas gruesas, especiales, y un paramédico con un maletín—. ¡Y nadie toca los tanques hasta que llegue el equipo de Tsukauchi!
+
+Vuelve a mirarte.
+
+—Nezu me dijo otra cosa por teléfono. —Baja la voz, pero no la suaviza—. Dijo que en las montañas del noroeste hay una cabaña encerrada en una caja que nadie puede abrir. Con la Liga de Villanos adentro. Shigaraki incluido. Y un gigante tirado en la nieve. —El ojo bueno se le clava en ti—. ¿Eso también lo hiciste tú? ¿Esta mañana?
+
+Lo dice como si no le cupiera en la cabeza. Como si le molestara.
+
+Uno de los héroes que vino con él, una mujer de pelo como fuego verde, se le acerca por detrás.
+
+—Endeavor, señor —dice—. La Comisión en la línea dos. Preguntan por un tal Eclipse. Dicen que acaba de aparecer en el registro.
+
+El fuego de la barba de Endeavor sube un poco más.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1131 · BOKU NO HERO · DIC. · 12:33     ║
+║ Jaku · laboratorio bajo el hospital          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: a tus pies                             ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Garaki: esposándolo la policía               ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:33, laboratorio de Jaku. Facundo se presentó como Eclipse. La policía esposa a Garaki. Endeavor pregunta si lo de la cabaña también fue él. La Comisión llama preguntando por Eclipse. Facundo puede responder.

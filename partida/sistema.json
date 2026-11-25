@@ -1,8 +1,8 @@
 {
-  "turno": 1130,
+  "turno": 1131,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "12:32",
+  "hora": "12:33",
   "edad": 18,
   "nivel": 28,
   "exp": 263930,
@@ -589,7 +589,7 @@
     },
     {
       "objeto": "Licencia de Héroe Profesional",
-      "detalle": "Comprada en la tienda T1115 (30 Fragmentos). Legítima: registro completo en la Comisión de Seguridad Pública de Héroes a nombre de Facundo Morelli, estado activo. Tarjeta física en el bolsillo.",
+      "detalle": "Comprada en la tienda T1115 (30 Fragmentos). Legítima: registro completo en la Comisión de Seguridad Pública de Héroes a nombre de Facundo Morelli, estado activo. Tarjeta física en el bolsillo. Nombre de héroe: ECLIPSE (T1131).",
       "mundo": "bokunohero"
     },
     {
