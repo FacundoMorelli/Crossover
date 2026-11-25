@@ -73,3 +73,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1061 · Llega tranquilo; olfatea y mira hacia la torre Babel, donde siente a los dioses.
 - T1069 (DanMachi) · Huele a Wiene y le apoya la nariz en la punta de los dedos.
 - T1078 (DanMachi) · Le huele la gema de la frente a Wiene y estornuda.
+- T1084 (DanMachi) · Se roba un pedazo de queso de la bandeja de Loki.

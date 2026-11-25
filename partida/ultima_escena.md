@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1081)
-soy el que andan buscando
-
-## RESPUESTA 1 (T1081)
-
-> soy el que andan buscando
-
-> —Soy el que andan buscando.
-
-En el balcón, Loki se queda quieta un segundo. Después echa la cabeza para atrás y se ríe a carcajadas, golpeando la baranda con la palma.
-
-—¡Ja! ¡Lo dice como si nada! —Se seca un ojo—. ¡Me encanta este chico! ¡Finn, me encanta!
-
-Finn no se ríe.
-
-Baja la escalinata despacio, un escalón por vez, sin sacar la lanza de la espalda. Riveria baja detrás, con el báculo en la mano. Gareth no se mueve del último escalón, pero se cambia el hacha de hombro.
-
-Los treinta aventureros abren paso. Finn cruza el patio y se detiene del otro lado del portón de hierro, a tres metros de ti, con los barrotes entre los dos. Desde ahí arriba parece un chico. De cerca no: tiene arrugas finas al costado de los ojos y una cicatriz vieja en la mano derecha.
-
-Te mira el pelo, los ojos, la cicatriz, el gato. Se toma su tiempo.
-
-—Finn Deimne, capitán de la Familia Loki —dice. La voz es tranquila, educada, sin una pizca de calor—. Hace dos horas dejaste inconscientes a seis de nuestros aventureros en Dédalo. Uno de ellos, Bete Loga, es Nivel cinco. Dice que no te vio moverte.
-
-Se le contrae el pulgar de la mano derecha, apenas, un tic. Se lo mira de reojo. Después vuelve a mirarte.
-
-—Y desde hace veinte minutos —sigue— los rastros de los monstruos de Dédalo se cortaron. Todos. A la vez. Los perros de la Familia Ganesha no encuentran nada. Ni sangre, ni olor, ni huellas. Como si hubieran desaparecido de la superficie.
-
-Detrás de él, Riveria entrecierra los ojos.
-
-Arriba, en el balcón, Loki ya no se ríe. Tiene los ojos rojos abiertos, fijos en ti, y una sonrisa chiquita, curiosa.
-
-—Así que voy a preguntarte esto una sola vez —dice Finn—. Y te advierto que mi diosa está escuchando, y que a los dioses no se les puede mentir.
-
-Apoya una mano en un barrote del portón.
-
-—¿Dónde están los monstruos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1081 · DANMACHI · NOCHE 2 · 00:46      ║
-║ Orario · portón de la Mansión del Crepúsculo ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La Familia Loki                    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1082)
+## COMANDO 1 (T1082)
 ya están en su casa
 
-## RESPUESTA 2 (T1082)
+## RESPUESTA 1 (T1082)
 
 > ya están en su casa
 
@@ -111,10 +57,10 @@ Levanta la vista hacia ti.
 
 ---
 
-## COMANDO 3 (T1083)
+## COMANDO 2 (T1083)
 entro y me tomo algo con loki
 
-## RESPUESTA 3 (T1083)
+## RESPUESTA 2 (T1083)
 
 > entro y me tomo algo con loki
 
@@ -161,4 +107,58 @@ Se inclina hacia adelante.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:52, sala de Loki. Loki le sirvió vino de Soma y le pregunta de qué Familia es y qué dios lo bendijo (no le siente aura ni Falna). Finn y Riveria presentes. Facundo puede responder.
+## COMANDO 3 (T1084)
+de ninguna familia, soy un viajero
+
+## RESPUESTA 3 (T1084)
+
+> de ninguna familia, soy un viajero
+
+> —De ninguna Familia. Soy un viajero.
+
+Loki se queda con el vaso a medio camino de la boca.
+
+Lo deja sobre la mesa, despacio, sin tomar. Te mira. Los ojos rojos se le abren del todo.
+
+—Verdad —dice. Ya no canturrea—. Ninguna Familia. Ningún dios.
+
+Detrás de ella, Riveria levanta la cabeza de golpe. Finn no se mueve, pero se le detiene el pulgar en la rodilla.
+
+—Eso es imposible —dice Riveria, en voz baja—. Sin Falna, un humano no puede ni levantar la espada de un aventurero de Nivel dos. Y tú tiraste a Bete.
+
+—Imposible —repite Loki. Se ríe, una risa corta, nerviosa, que no se parece a las de antes—. Imposible, dice. Mil años bajé a este mundo, y ahora viene un chico con un gato a mi sala y me dice la verdad más imposible que oí en todo ese tiempo. —Se pasa una mano por el pelo rojo—. Y no está mintiendo. No está mintiendo, Riveria.
+
+Agarra el vaso. Se toma todo de un trago.
+
+Finn habla por primera vez desde que entraron.
+
+—Un viajero sin Familia, sin dios, sin Falna. —Te mira, frío, calculando—. Que tiene la fuerza de un aventurero de primera clase, o más. Que se mueve sin que nadie lo vea. Y que decidió que los monstruos de Dédalo merecían volver a casa. —Hace una pausa—. ¿Cuánto tiempo piensas quedarte en Orario?
+
+Loki levanta la mano antes de que puedas contestar.
+
+—No, no, no, Finn. Espera. Primero lo importante. —Se inclina por encima de la mesa, tan cerca que le sientes el olor a vino. Los ojos rojos le brillan como brasas—. Guapo. Escúchame bien. Mamá Loki tiene la Familia más fuerte de Orario. Comida, cama, el mejor vino de la ciudad, la Princesa Espada, y a Finn, que es aburrido pero útil. —Sonríe con todos los dientes—. Y yo tengo una Falna esperando para ti.
+
+Te tiende una mano por encima de la mesa, con la palma hacia arriba.
+
+—¿Quieres ser de los míos?
+
+Kase, en el sillón de al lado, aprovecha que nadie lo mira y se roba un pedazo de queso de la bandeja.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1084 · DANMACHI · NOCHE 2 · 00:54      ║
+║ Orario · Mansión del Crepúsculo, sala        ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sillón, robando queso            ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La Familia Loki                    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:54, sala de Loki. Loki confirmó que no tiene Familia ni dios; Riveria dice que es imposible. Finn preguntó cuánto se queda; Loki le ofrece unirse a la Familia Loki con la mano tendida. Facundo puede responder.
