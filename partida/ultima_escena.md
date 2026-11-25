@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1191)
-no me debes nada, ahora mejor ponte a trabajar antes que touka quiera matarte
-
-## RESPUESTA 1 (T1191)
-
-> —No me debes nada. Ahora mejor ponte a trabajar, antes de que Touka quiera matarte.
-
-—Ya quiere —dice Touka desde la barra, sin levantar la vista.
-
-Nishiki chasquea la lengua. Se mete el resto del pan en la boca de un bocado, se levanta del taburete y termina de atarse el delantal a la espalda con un tirón, de mal humor, como si lo hubieran retado. Al pasar al lado de Touka para meterse detrás de la barra, ella le pisa el pie con el talón, fuerte y sin mirar.
-
-—¡Ay! ¡Kirishima, carajo!
-
-—Me debes un pan.
-
-—Te compro diez, loca.
-
-Se va a la máquina de café frotándose el empeine contra la pantorrilla. Yoshimura le alcanza una bandeja de tazas limpias sin decir nada, y la cara le tiembla apenas, en la comisura, como si se estuviera aguantando una sonrisa.
-
-Suena la campanita.
-
-Entran dos oficinistas de traje gris con los portafolios en la mano, hablando de un informe, y se sientan en una mesa junto a la ventana. Detrás de ellos, una señora mayor con un pañuelo en la cabeza que va directo a la barra y pide lo de siempre, querido. El umbral no tiembla. El hilo plateado junto al cordón sigue quieto.
-
-Anteiku empieza a ser un café.
-
-Hinami se baja del taburete con la tostada terminada y la muñeca bajo el brazo, y se va escaleras arriba saltando los escalones de a uno.
-
-Se cruza a mitad de camino con Kaneki, que baja. Él la deja pasar, le pone una mano en la cabeza un segundo y termina de bajar. Se cambió la ropa destrozada por una camisa blanca que le queda grande, seguramente de Yoshimura, y tiene el pelo blanco todavía húmedo, recién lavado. Ya no tiene sangre en la cara.
-
-Busca con la mirada por todo el local hasta que te encuentra. Viene hasta tu taburete esquivando a la señora del pañuelo, y se inclina un poco hacia ti para hablarte bajo, de espaldas a la barra, donde están Yoshimura y Touka.
-
-—Facundo-san —dice—. Lo de anoche. Lo de la operación. —Mira de reojo hacia Yoshimura, que atiende a la señora con su sonrisa de siempre—. ¿Podemos hablar? Afuera. Solos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1191 · TOKYO GHOUL · MAÑANA · 07:52    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1192)
+## COMANDO 1 (T1192)
 si
 
-## RESPUESTA 2 (T1192)
+## RESPUESTA 1 (T1192)
 
 > —Sí.
 
@@ -101,10 +50,10 @@ Te mira de frente.
 
 ---
 
-## COMANDO 3 (T1193)
+## COMANDO 2 (T1193)
 si
 
-## RESPUESTA 3 (T1193)
+## RESPUESTA 2 (T1193)
 
 > —Sí.
 
@@ -148,7 +97,52 @@ Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1194)
+no me voy a ir hasta que no termine la operacion del buho, y ahora puedes comer comida normal, puedes mejorar tu habilidad con el kagune sin necesidad de comer humanos
+
+## RESPUESTA 3 (T1194)
+
+> —No me voy a ir hasta que no termine la Operación del Búho. Y ahora puedes comer comida normal. Puedes mejorar tu habilidad con el kagune sin necesidad de comer humanos.
+
+Kaneki se queda mirándote.
+
+Algo en los hombros se le suelta, de a poco, como una cuerda que alguien deja de tirar. Baja la vista hacia sus propias manos, las uñas negras, los nudillos todavía marcados por la pelea de anoche.
+
+—Sin comer humanos —repite.
+
+Abre y cierra la mano derecha, despacio.
+
+—Desde que me volví esto, cada vez que me hice más fuerte fue porque comí algo. Alguien. —Lo dice bajito, sin mirarte—. Yamori. Los de Aogiri. Los ghouls de la mansión. Comía para no perder, y cada vez que comía, me perdía un poco más. Ya no sabía dónde terminaba yo y dónde empezaba... —Se toca el pecho, el lugar exacto donde anoche apoyaste la palma—. Esto.
+
+Se queda en silencio. El verdulero de enfrente silba algo desafinado.
+
+Después se levanta del banco. Se para derecho frente a ti, con la camisa prestada demasiado grande colgándole de los hombros, y hace una reverencia corta y torpe, como alguien que no tiene práctica.
+
+—Entonces enséñame —dice, todavía inclinado—. Tú tienes cuatro kagune y no tienes hambre. Sabes usarlos. Yo solo sé usar el mío cuando pierdo el control.
+
+Se endereza. Tiene los ojos firmes.
+
+—No quiero perder el control nunca más. Y cuando venga la CCG, no quiero estar escondido arriba mientras tú peleas por nosotros. ¿Me entrenarías?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1194 · TOKYO GHOUL · MAÑANA · 08:00    ║
+║ Distrito 20 · plaza chica, a media cuadra    ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:58, plaza chica. Kaneki sabe que Yoshimura es el Búho y pregunta qué pasará cuando Facundo no esté. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 08:00, plaza chica. Kaneki pide que Facundo lo entrene. Facundo puede responder.

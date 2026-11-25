@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1194 · "Comía para no perder, y cada vez que comía, me perdía un poco más." "Entonces enséñame. Yo solo sé usar el mío cuando pierdo el control." "¿Me entrenarías?"
 - T1193 · "Él fue el que me enseñó a hacer café." "Y es el ghoul más buscado del país." "Tu barrera los frena. Pero tú dijiste mientras yo esté aquí. ¿Y cuando no estés?"
 - T1192 · "Aquí no nos escucha. Creo." "Cuando Yoshimura-san se sacó los lentes y te miró, sentí lo mismo. La misma presión." "Tú sabes cosas, Facundo-san. ¿Yoshimura-san es el Búho?"
 - T1191 · "Facundo-san. Lo de anoche. Lo de la operación. ¿Podemos hablar? Afuera. Solos."

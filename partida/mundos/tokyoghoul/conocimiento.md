@@ -64,3 +64,5 @@
 - Nishiki, Touka, Hinami, Yoshimura · T1190 · vieron a Facundo transfigurar a Nishiki (palma en la frente).
 - Kaneki · T1192 · deducción: Yoshimura es el Búho (no se sorprendió; misma presión que el búho del Distrito 11). Le pide la verdad a Facundo. Cree que Facundo "sabe cosas" (sabía el nombre de la operación).
 - Kaneki · T1193 · por Facundo (confirmado): Yoshimura es el Búho. Deduce que la Operación del Búho es por él y que la CCG atacará Anteiku.
+- Kaneki · T1194 · por Facundo: se quedará hasta que termine la Operación del Búho.
+- Facundo · T1194 · por Kaneki: se hizo fuerte comiendo (Yamori, los de Aogiri, los ghouls de la mansión).
