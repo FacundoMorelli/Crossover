@@ -27,3 +27,5 @@
 - Yami, Luck, Asta, Noelle, Magna · T485 · Ven el aura plateada, un rayo amarillo idéntico al de Luck y una luz roja ardiente en el puño de Facundo. Luck: "¡Ese es mi rayo!" (lo explican como una magia que copia o imita; sospecha). Yami sale volando por un solo golpe.
 - Asta, Luck, Noelle, Magna, Vanessa · T488 · Ven a Facundo parar las dos espadas antimagia con las manos desnudas.
 - Asta, Noelle, Luck, Magna, Vanessa, Charmy · T489 · Facundo dice que se va por ahora y vuelve en unos días. Ven abrirse una puerta de luz de la nada y a Facundo cruzarla con el gato. Lo explican como magia espacial (Luck: "¡¿también eso?!"). Yami lo oye desde la ventana del baño.
+- Gauche (y Gordon, Grey de reojo) · T1277 · vieron a Facundo aparecer en la explanada con una línea de luz detrás, ~3 meses después de irse.
+- Rades · T1277 · todavía no lo vio (está mirando la pelea).

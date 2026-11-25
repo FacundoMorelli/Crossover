@@ -58,3 +58,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 1166 · Le quita el hambre de ghoul a Kaneki con la Transfiguración Ociosa. Después, a ~138 ghouls más. Apodo entre ghouls: el Panadero.
 - Turno 1205 · Copia el kagune de Kaneki (kakuja controlado).
 - Turno 1237 · MISIÓN DE MUNDO DE TOKYO GHOUL CUMPLIDA: negocia con Washuu Tsuneyoshi y la Operación del Búho se suspende; nadie de Anteiku muere ni es capturado. Nivel 29. Mundos completados: 11.
+- Turno 1277 · Deja Tokyo Ghoul (Día 7, Anteiku) y vuelve a Black Clover ~90 días después de irse, el día del asalto a la base del Ojo.

@@ -202,3 +202,4 @@
 - Todos en Anteiku · T1272 · por Touka: vio a Ayato; está vivo y flaco.
 - Todos en Anteiku · T1273 · Facundo se va esta noche. Dejó un botón (si lo tocan, él sabe que están en problemas) y 4 semillas del ermitaño (Yoshimura las guarda en la lata de té verde; el botón en su chaleco).
 - Todos en Anteiku · T1275 · Facundo no sabe cuándo vuelve (una semana o tres meses).
+- Todos en Anteiku · T1277 · vieron a Facundo abrir una puerta de luz en el salón (otro cielo, pasto) y cruzarla con el gato. Yoshimura: "Así que de verdad es un viajero."

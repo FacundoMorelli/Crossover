@@ -26,3 +26,10 @@
 - 06:10 · (T485) Facundo vence a Yami en duelo con un golpe contenido.
 - 06:16 · (T487) Duelo Facundo-Asta.
 - 06:18 · (T489) Facundo se despide de los Toros Negros y se va por una puerta. Promete volver en unos días. El reloj del mundo sigue corriendo.
+
+## MIENTRAS FACUNDO NO ESTUVO (~90 días, simulado al volver, T1277)
+- Asta no fue al Bosque de las Brujas (no tenía los brazos malditos). Los demás buscaron cura de nada; vida normal en la base.
+- Festival de Premios de Estrellas (c102-106): Toros Negros 2.º (101 estrellas). Mereoleona capitana interina de León Carmesí. Kaiser Granvorka de Orca Púrpura.
+- El rey crea los Caballeros Reales; entrenamiento en el Ultime-Volcán; examen (c107-133): aprueban Asta, Noelle, Luck y Zora (Toros), entre otros. Langris en interrogatorio.
+- HOY (c135-149, un solo día): asalto de los Caballeros Reales a la base del Ojo (Zona de Rocas Gravito). En paralelo, Rades, Sally y Valtos atacan la base de los Toros Negros (Gauche, Gordon, Grey; Henry). Yami espera a William en Amanecer Dorado; William/Licht vs. Julius en la muralla (Julius muere en el canon, c146). Al anochecer, la Reencarnación de los elfos (c149).
+- 12:10 · (T1277) Facundo llega por la Puerta a la explanada en plena pelea de la base.

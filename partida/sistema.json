@@ -1,8 +1,8 @@
 {
-  "turno": 1276,
-  "mundo_actual": "tokyoghoul",
-  "fecha_local": "Día 7 desde la llegada (mañana siguiente a la suspensión de la Operación del Búho)",
-  "hora": "21:30",
+  "turno": 1277,
+  "mundo_actual": "blackclover",
+  "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
+  "hora": "12:10",
   "edad": 18,
   "nivel": 29,
   "exp": 290230,
@@ -2014,19 +2014,13 @@
       "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre.",
       "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
       "shingeki": "Salida día 66 13:35 desde el patio trasero del ayuntamiento de Shiganshina. Mundo sin titanes; revividos; paz. Prometió a Ymir volver (guarda las manzanas). Corre.",
-      "blackclover": {
-        "llegada": "luna llena 21:40, Templo Submarino (cap. ~60)",
-        "salida": "dos días después de la luna llena, 06:18, base de los Toros Negros",
-        "dias_transcurridos_al_salir": "1 día y 8 horas",
-        "corre_desde": "T489 al ritmo de Facundo",
-        "nota": "Prometió volver en unos días."
-      },
+      "blackclover": "VUELVE ~90 días después de irse (T489, salida dos días después de la luna llena 06:18). Explanada de la base de los Toros Negros, 12:10, día del asalto a la base del Ojo (canon c138).",
       "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
       "fairytail": "Llegada X784 julio Día 1 06:55 (Parque de la Puerta Sur). Salida Día 3 18:25, explanada del río de Magnolia, delante de Fairy Tail (vieron la Puerta). Prometió revancha a Natsu y pelear con Erza. Makarov: la puerta abierta. Corre.",
       "hunterxhunter": "Llegada Día 1 16:13. Salida Día 4 12:05, techo de un depósito del puerto de Kakin (nadie vio la Puerta; el hilo de Bungee Gum de Hisoka se cortó al cruzar). Corre.",
       "danmachi": "Llegada Noche 1 23:10. Salida Noche 2 01:01, techo de la Mansión del Crepúsculo (nadie vio la Puerta). Promesas: Bell visitará a Wiene; Finn pensará sobre los Xenos; Loki: 'vuelve cuando quieras'. Corre.",
       "bokunohero": "Llegada diciembre 08:40 (T1087). Salida día 10 ~06:30 (T1147), bosque del campus de la U.A. (nadie vio la Puerta). Misión cumplida. Liga, Garaki, Gigantomachia en Tartarus; Ejército de Liberación neutralizado; AFO en silencio, 'espera'. Izuku domina el Látigo Negro. Nezu: 'la puerta va a estar abierta'. Licencia de Eclipse activa. Corre.",
-      "tokyoghoul": "Llegada noche, otoño, 23:40 (T1147), acantilado frente a la mansión de Kanou, durante el asalto de la CCG (TG cap. ~105)."
+      "tokyoghoul": "Salida Día 7 21:30 desde el salón de Anteiku (todos vieron la Puerta). Prometió volver \"en una semana o en tres meses\". Botón de aviso en el chaleco de Yoshimura. Corre."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2319,7 +2313,8 @@
     "tokyoghoul_ccg": "Días 1-3: un investigador de civil oye el rumor en el andén (Día 1 tarde) y lo informa. Shinohara relaciona la descripción ('humano, ojos de dos colores, gato') con el hombre que lo salvó en la mansión; pide permiso para verificar por su cuenta (Día 2) y va a Anteiku el Día 3 con Juuzou. Shinohara va con intención de agradecer y hablar (pasa la barrera). Juuzou va con ganas de 'cortar' al de los dos colores (no pasa). La preparación de la Operación del Búho sigue su curso en la CCG (el Búho ya vinculado al Distrito 20). | Día 4 noche: Kaiko (de V) visita a Yoshimura (advertencia: su hija y Aogiri rompen el equilibrio). Día 5: Yoshimura, Irimi y Koma queman documentos. Día 6 17:40: Yoshitoki Washuu da inicio a la Operación del Búho (adelantada por el rumor y la actividad en Anteiku). Fuerzas: Clase Especial Houji, Kuroiwa, Tanakamaru (Higher Mind), Ui, Hirako, Hachikawa, Amon, Escuadrón 1 (Akira, Takizawa), Juuzou; Arima en V14. Shinohara participa (no puede negarse). Eto (Búho de un Ojo) y Aogiri rondan.",
     "tokyoghoul_washuu": "La familia Washuu es un linaje mitad humano, mitad ghoul (los 'Washuu' de V); necesitan carne humana a escondidas. Tsuneyoshi habla de 'alguien en mi familia que tiene hambre hace mucho' (puede ser él mismo, o la familia entera). Quiere la transfiguración; también puede querer controlarla (amenaza al equilibrio de V). Yoshitoki sabe y se incomoda. | T1248: 14 Washuu transfigurados (Tsuneyoshi, Kaori, Yoshitoki, servidumbre, primos, tíos, etc.). Matsuri Washuu (hijo de Yoshitoki, investigador) se negó. Arima es del Jardín del Sol (Sunlit Garden): mitad humanos criados para servir a los Washuu; envejecen rápido, mueren antes de los 40, pierden la vista primero.",
     "tokyoghoul_eto": "Día 7 ~20:30: Eto Yoshimura (el Búho de un Ojo, líder de Aogiri; también la escritora Sen Takatsuki) entra a Anteiku para ver a su padre tras enterarse de la suspensión y del rumor. Va sin intención de dañar (la pared la deja pasar): quiere entender qué pasó y ver al 'Panadero'. Envuelta en capa y vendas.",
-    "tokyoghoul_aogiri": "Base temporal de Aogiri: edificio viejo grande en zona de depósitos junto a la bahía, al sur del río, pasando los distritos 20/21. 50-60+ ghouls. En el último piso: Tatara (fría, piedra de río) y Noro (hueca, rara). Ayato solo en la azotea. Eto no está ahí ahora."
+    "tokyoghoul_aogiri": "Base temporal de Aogiri: edificio viejo grande en zona de depósitos junto a la bahía, al sur del río, pasando los distritos 20/21. 50-60+ ghouls. En el último piso: Tatara (fría, piedra de río) y Noro (hueca, rara). Ayato solo en la azotea. Eto no está ahí ahora.",
+    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

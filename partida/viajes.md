@@ -210,3 +210,8 @@
 - RECOMPENSA: 13.000 EXP · 450 Fragmentos
 - VENCE: cuando termine la Operación · CAMBIADA: no
 - CUMPLIDA: T1237 · Día 6 18:23. Washuu Tsuneyoshi suspende la operación por teléfono tras negociar con Facundo. Ningún miembro de Anteiku muerto ni capturado. +13.000 EXP, +450 F. Nivel 29. Mundos completados: 11.
+
+## RELOJES (actualizado T1277)
+- Tokyo Ghoul: salida Día 7 21:30, salón de Anteiku (vieron la Puerta). Prometió volver "en una semana o en tres meses". Botón de aviso a Yoshimura. 4 semillas en Anteiku. Corre.
+- Black Clover: VUELVE ~90 días después de irse (T489). Explanada de la base de los Toros Negros, 12:10, día del asalto a la base del Ojo (canon c138): Rades ataca la base.
+- Bleach, Fairy Tail, Jujutsu, Shingeki, One Piece, Dragon Ball, Hunter x Hunter, DanMachi, Boku no Hero: corren.

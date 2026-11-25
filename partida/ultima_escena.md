@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1274)
-esta bien kaneki, acaricio el pelo de hinami, si esta noche me voy
-
-## RESPUESTA 1 (T1274)
-
-> —Está bien, Kaneki.
-
-Kaneki asiente y sube la escalera de dos en dos.
-
-Le acaricias el pelo a Hinami. Ella cierra los ojos un segundo, igual que la primera mañana, cuando tenía miedo de que doliera.
-
-> —Sí. Esta noche me voy.
-
-Hinami no dice nada. Se queda con los ojos cerrados y la muñeca de tela apretada contra el pecho. Después los abre. Están mojados.
-
-Da un paso y te abraza la cintura. Fuerte, con un solo brazo, porque con el otro sigue agarrando la muñeca. Esconde la cara contra el sobretodo. No llora fuerte. Solo tiembla un poco.
-
-Kase baja de la barra al taburete de al lado y se queda mirándola, con la cola enroscada sobre las patas.
-
-Hinami se separa. Se seca la cara con la manga del pijama. Después mete la mano en el bolsillo y saca algo chico, de papel: una grulla de origami, de papel celeste, un poco torcida, con un ala más larga que la otra.
-
-—Me la enseñó a hacer mamá —dice, bajito—. Es la primera que me salió bien.
-
-Te la pone en la mano.
-
-Arriba se abre una puerta. Se oyen voces bajas: la de Kaneki, la de Touka, cortante. Después, pasos en la escalera. Lentos.
-
-Touka baja sola. Kaneki se quedó arriba, en el primer escalón, sin bajar.
-
-Tiene la cara lavada y los ojos todavía un poco rojos, y el flequillo mojado pegado a la frente. Se detiene en el último escalón. No se acerca. Se cruza de brazos.
-
-Te mira. Mira la grulla de papel en tu mano. Mira a Hinami. Vuelve a mirarte a ti.
-
-—Así que te vas —dice. No es una pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1274 · TOKYO GHOUL · DÍA 7 · 21:26     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete                         ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: despedirse de Anteiku              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1275)
+## COMANDO 1 (T1275)
 si, me voy, no se cuando voy a volver, puede ser en 1 semana, o en 3 meses, no lo se
 
-## RESPUESTA 2 (T1275)
+## RESPUESTA 1 (T1275)
 
 > —Sí, me voy. No sé cuándo voy a volver. Puede ser en una semana, o en tres meses. No lo sé.
 
@@ -107,10 +55,10 @@ En la escalera, Kaneki baja el último escalón. Se queda al lado de Hinami, con
 
 ---
 
-## COMANDO 3 (T1276)
+## COMANDO 2 (T1276)
 nos vemos chicos, kaneki cuidate y no coman carne humana
 
-## RESPUESTA 3 (T1276)
+## RESPUESTA 2 (T1276)
 
 > —Nos vemos, chicos. Kaneki, cuídate. Y no coman carne humana.
 
@@ -161,7 +109,85 @@ El salón queda en silencio. Todos te miran. Nadie se mueve hacia la puerta. Esp
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1277)
+me voy a black clover
+
+## RESPUESTA 3 (T1277)
+
+> me voy a Black Clover
+
+Das un paso atrás, al medio del salón, entre las mesas.
+
+Levantas la mano.
+
+El aire delante de ti se abre. No hay ruido. Solo una línea vertical de luz, fina como un cabello, que se ensancha despacio, de arriba abajo, hasta tener el alto y el ancho de una puerta. Del otro lado no se ve el salón de Anteiku. Se ve otra luz. Otro cielo. Pasto verde. Una brisa que entra y mueve las cortinas del café y huele a tierra, a lluvia de campo, a algo quemado.
+
+Nadie dice nada.
+
+Hinami se tapa la boca con las dos manos. Koma deja caer la cuchara. Nishiki se queda con el plato a medio secar. Irimi da un paso atrás. Kaneki abre los ojos como cuando leyó la firma del libro.
+
+Touka se queda quieta, con los brazos cruzados, mirando la puerta de luz. Le tiembla la barbilla. La aprieta.
+
+Yoshimura se quita los lentes otra vez. Mira la puerta un rato largo, en silencio, con una expresión que no le viste nunca: la de alguien muy viejo que, por primera vez en mucho tiempo, ve algo que no entiende y no le da miedo.
+
+—Así que de verdad es un viajero —dice, muy bajo.
+
+Kase, en tu cuello, mira la puerta. Se acomoda.
+
+Cruzas.
+
+[Viaje libre: Black Clover.]
+
+...
+
+El aire cambia.
+
+Huele a pasto mojado, a tierra, a madera, y a humo. Mucho humo. El cielo es gris claro, de mediodía nublado. Hay viento. Lejos, un pájaro chilla.
+
+Estás en la explanada de la base de los Toros Negros. La reconoces: el pasto, el camino de tierra, el borde del bosque. La misma explanada donde le ganaste a Yami con un golpe contenido. Donde te despediste.
+
+La base no está como la dejaste.
+
+El edificio, ese castillo torcido y loco que se movía solo de noche, tiene la mitad del frente arrancado. Hay vigas quemadas, piedras en el piso, una torre partida al medio. Sale humo negro de las ventanas del segundo piso. Y en el medio del patio, entre los escombros, algo enorme se mueve.
+
+Es grande como una casa. Tiene forma de hombre, o la tuvo alguna vez: dos cuerpos cosidos en uno, con piel gris, cuatro brazos, un ojo abierto en el pecho y una boca donde debería estar la cara. Se mueve torcido, a los tirones, como un muñeco de trapo manejado por alguien que no sabe cómo. Suelta magia por los cuatro brazos al mismo tiempo: fuego, viento.
+
+Delante de esa cosa, en el patio, hay tres figuras que conoces.
+
+Un muchacho alto, rubio, con un parche en el ojo y una cara de furia absoluta, que levanta una mano llena de espejos flotantes para desviar las ráfagas. Gauche. Detrás de él, un muchacho pálido, enorme, con la cara pintada de sombras y unos labios negros, murmurando algo mientras levanta una barrera de magia de maldición. Gordon. Y más atrás, encogida detrás de una piedra caída, una figura chica que cambia de forma a cada segundo, de nervios: Grey.
+
+Gauche tiene sangre en la frente. Una de sus capas de espejos se rompe con un estallido de cristal.
+
+Sobre una pila de escombros, mirando la pelea con las manos en los bolsillos y una sonrisa torcida, hay un muchacho de pelo negro desordenado, con una túnica del Ojo del Sol de Medianoche y una costura gruesa que le cruza la cara.
+
+—¡Vamos, No.0! —grita, riéndose—. ¡Termina con esos fracasados y vamos por el cuarto del enano antimagia!
+
+Gauche se da vuelta un segundo, para cubrir a Gordon. Y te ve.
+
+Al borde de la explanada. Pelo blanco y azul. Sobretodo negro. Un gato en el hombro. Detrás de ti, cerrándose sin ruido, una línea de luz.
+
+A Gauche se le cae la mandíbula.
+
+—¡¿Tú?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1277 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · explanada · 12:10 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:30, salón de Anteiku. Despedidas hechas. Todos esperan a ver cómo se va Facundo. Puerta abierta. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, ~90 días después, 12:10, explanada de la base de los Toros Negros. Rades y su monstruo No.0 atacan a Gauche, Gordon y Grey. Gauche ve a Facundo: "¡¿Tú?!" Facundo puede actuar.
