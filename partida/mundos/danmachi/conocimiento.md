@@ -17,3 +17,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Gros · T1066 · vio a Facundo tirar a Bete (Nivel 5) y a cinco más en un segundo.
 - Gros · T1067 · lo vio teletransportarse con él al sótano tocándole la espalda.
 - Lido, Wiene · T1067 · lo ven aparecer de la nada con Gros en el sótano tapiado. Por Gros: que lo tocó y aparecieron ahí. No saben su nombre.
+- Lido, Wiene · T1068 · su nombre, Facundo Morelli; que viene a llevarlos a la Mazmorra sin que nadie lo vea (él lo dijo). Por Gros: tiró a Bete y a cinco más de un golpe cada uno.

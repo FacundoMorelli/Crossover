@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1065)
-es un gato normal, tienes algun problema con mi gato?
-
-## RESPUESTA 1 (T1065)
-
-> es un gato normal, tienes algun problema con mi gato?
-
-> —Es un gato normal. ¿Tienes algún problema con mi gato?
-
-Abajo, una de las de la máscara de elefante suspira, como quien ya sabe lo que viene.
-
-El hombre lobo sonríe. No es una sonrisa simpática: le muestra todos los colmillos.
-
-—¿Problema? —Se cruje el cuello—. Mi problema es que hay monstruos sueltos en este barrio, que la mitad de la ciudad está encerrada en su casa por eso, y que tú estás parado en un techo a medianoche con un bicho que huele a algo que no conozco.
-
-Salta.
-
-Desde el callejón hasta el borde de tu techo, cuatro metros de pared, de un solo impulso, sin esfuerzo. Aterriza frente a ti, a dos pasos, con las botas de metal haciendo crujir las tejas. Es más alto de cerca. Lleva unas grebas de metal plateado en las piernas y unos guantes con nudillos de acero.
-
-—Bete, la capitana dijo que no... —empieza la de la máscara desde abajo.
-
-—Cállate.
-
-Se acerca un paso. Te mira de arriba abajo, el pelo, los ojos de distinto color, la cicatriz, el sobretodo negro. Después a Kase, de muy cerca. Kase le sostiene la mirada sin moverse, con las pupilas finas como agujas.
-
-Bete arruga la nariz otra vez.
-
-—Tú no hueles a nada —dice despacio, extrañado—. Ni a miedo. Ni a sudor. Nada. —Frunce el ceño—. Y el gato huele a... lugares. Muchos lugares. Ninguno de aquí.
-
-Se queda callado. Olfatea otra vez, más fuerte. Gira la cabeza, despacio, hacia el techo de al lado.
-
-Hacia la gárgola de piedra agazapada en el borde.
-
-Se le paran las orejas.
-
-—Y eso de ahí... —murmura— no huele a piedra.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1065 · DANMACHI · NOCHE 1 · 23:14      ║
-║ Orario · Calle Dédalo, techo de una casa     ║
-║ NIVEL 28 · EXP 252.350/280.000               ║
-║ FRAGMENTOS 108.590 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Llevar a todos los Xenos           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1066)
+## COMANDO 1 (T1066)
 lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
 
-## RESPUESTA 2 (T1066)
+## RESPUESTA 1 (T1066)
 
 > lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
 
@@ -131,10 +76,10 @@ Salta del techo. Abre las alas en el aire y planea, bajo, entre las chimeneas, h
 
 ---
 
-## COMANDO 3 (T1067)
+## COMANDO 2 (T1067)
 lo toco y me teletransporto hacia lido
 
-## RESPUESTA 3 (T1067)
+## RESPUESTA 2 (T1067)
 
 > lo toco y me teletransporto hacia lido
 
@@ -198,4 +143,63 @@ Ladea la cabeza escamosa.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:16, sótano de la panadería quemada. Facundo apareció con Gros. Lido apunta las cimitarras a su cuello y le pregunta quién es; Wiene pregunta por Bell. Facundo puede responder.
+## COMANDO 3 (T1068)
+me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
+
+## RESPUESTA 3 (T1068)
+
+> me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
+
+> —Me llamo Facundo Morelli. Vengo a llevarlos a la Mazmorra. Así como entré a este lugar, puedo llevarlos sin que nadie me vea.
+
+Lido se queda quieto, con las cimitarras en el aire.
+
+Mira a Gros. Gros asiente, una vez, de mala gana.
+
+—Lo vi tirar a Vanargand y a cinco más de un golpe cada uno, sin que se dieran cuenta —dice la gárgola—. En el callejón de los ropavejeros. Hace dos minutos.
+
+Lido abre los ojos de reptil, enormes.
+
+Después baja las cimitarras. Despacio. Las clava de punta en la ceniza del piso, una a cada lado, y se apoya en ellas como si de golpe le pesara todo el cuerpo. Suelta un suspiro largo que le sacude las escamas del cuello.
+
+—Ah... —Se ríe, una risa cansada, rota—. Tres días. Tres días escondidos en agujeros como este, escuchando a los aventureros pasar por encima de nuestras cabezas. —Se pasa una garra por la cara—. Y ahora viene un humano con un gato a decirme que nos lleva a casa.
+
+Se endereza. Te mira. Hay algo nuevo en los ojos amarillos, una cosa que todavía no se anima a ser esperanza.
+
+—Si es verdad, Facundo... —Lo dice como si probara tu nombre—. Si es verdad, no sé cómo te vamos a pagar.
+
+—Todos —gruñe Gros—. Le dije que todos o ninguno. Rei, Fia, Aruru, los de Knossos. El troll.
+
+—Todos —repite Lido, y asiente.
+
+Wiene sale despacio de detrás de la cola de Lido. Da un paso hacia ti, arrastrando la capa marrón por la ceniza. Mira a Kase, en tu hombro. Kase la mira a ella.
+
+Después te mira a ti, con los ojos dorados enormes.
+
+—¿A casa? —dice—. ¿Abajo? ¿Con todos?
+
+Se aprieta la capa contra el pecho. Es una capa de aventurero, vieja, con un remiendo en el borde. Le queda enorme.
+
+—Esta es de Bell —dice, bajito—. Me la dio para que no tuviera frío. —Le tiembla la voz—. Si me voy... ¿puedo verlo antes? Aunque sea un ratito. Para devolvérsela. —Baja la vista—. Para decirle adiós.
+
+Lido le pone una garra en el hombro. No dice nada.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1068 · DANMACHI · NOCHE 1 · 23:18      ║
+║ Orario · sótano de la panadería quemada      ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Llevar a todos los Xenos           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:18, sótano de la panadería quemada. Lido acepta (todos). Wiene pide ver a Bell antes de irse, para devolverle la capa y despedirse. Facundo puede responder.
