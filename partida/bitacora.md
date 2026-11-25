@@ -1048,3 +1048,4 @@ T1046 · HxH · Baños públicos · "Me llamo Facundo Morelli. No lo maten." Kor
 T1047 · HxH · Baños públicos · Llega Shalnark: "Te vi en una pantalla." Antena junto a la nuca de Hisoka: "Eso no es matarlo, ¿verdad?"
 T1048 · HxH · Torre, sala médica 3 · "Si le hacen algo, están muertos." Shalnark: "No lo tocamos." Libera a Machi del Bungee Gum: "Lo soltaste como si fuera tuyo."
 T1049 · HxH · Baños públicos · Vuelve con Machi. Chrollo llegó: "¿Por qué no debería terminar lo que empecé?"
+T1050 · HxH · Baños públicos · "Si terminas lo que empezaste, yo termino lo que él empezó." Chrollo: "No lo tocamos." "¿Hasta cuándo nos vas a proteger?"

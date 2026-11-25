@@ -23,3 +23,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Machi · T1048 · lo vio aparecer en la sala médica 3 y soltar el Bungee Gum de Hisoka como si fuera suyo (ella no pudo en 20 minutos). No sabe su nombre. No siente su aura.
 - Machi · T1049 · su nombre, Facundo Morelli (él se lo dijo). La teletransportó con él a los baños.
 - Chrollo · T1049 · por Shalnark (teléfono, mientras Facundo estaba en la Torre): Facundo derribó a Hisoka de un golpe, no se le siente el aura, sabe sus nombres, tiene una misión de protegerlos, amenazó con matarlos si tocan a Hisoka. Su nombre (por Shalnark, que lo supo por Kortopi). Lo ve en persona aparecer con Machi (teletransporte). Lo vio de lejos en la pantalla del estadio (posible).
+- Chrollo, Shalnark, Kortopi, Machi · T1050 · Facundo amenazó con terminar lo que Hisoka empezó (matarlos) si matan a Hisoka. Chrollo decidió no tocarlo.

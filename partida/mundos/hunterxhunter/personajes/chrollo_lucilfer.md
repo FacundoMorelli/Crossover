@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1039 · Día 1 16:13 · Facundo lo/la ve en las pantallas o siente su presencia desde la avenida.
 - T1049 · En la calle de los baños, junto a Hisoka inconsciente (llamado por Shalnark).
 DIÁLOGOS CLAVE:
+- T1050 · "Hay una regla en la Araña: la Araña vale más que cualquiera de sus patas. Más que la cabeza también." "No voy a apostar a la Araña entera para averiguarlo esta noche. No lo tocamos." "Dijiste que tu misión es protegernos. ¿Hasta cuándo?"
 - T1049 · "Machi." "Shalnark me contó lo que pasó." "Facundo Morelli. Hace una hora maté a Hisoka delante de diez mil personas. Era mi pelea. La gané. Y ahora está vivo, y nos va a cazar a todos. Entonces dime. ¿Por qué no debería terminar lo que empecé?"
 - T1040 · "Te advierto una cosa antes de empezar. Voy a usar todo lo que tengo. Todas las habilidades que robé. Y antes de que termine la pelea, voy a explicarte cada una."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1049).

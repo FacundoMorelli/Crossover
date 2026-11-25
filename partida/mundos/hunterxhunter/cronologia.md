@@ -37,3 +37,4 @@
 - Día 1 19:47 · (T1047) Shalnark llega a los baños; propone controlar a Hisoka con Black Voice.
 - Día 1 19:49 · (T1048) Facundo libera a Machi del Bungee Gum en la sala médica 3.
 - Día 1 19:51 · (T1049) Chrollo llega a los baños públicos (llamado por Shalnark). Facundo vuelve con Machi.
+- Día 1 19:53 · (T1050) Chrollo decide no matar a Hisoka por la amenaza de Facundo (CAMBIO).

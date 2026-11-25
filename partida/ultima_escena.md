@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1047)
-espero a Shalnark ahí con Kortopi
-
-## RESPUESTA 1 (T1047)
-
-> espero a Shalnark ahí con Kortopi
-
-Te quedas en la puerta de los baños, apoyado contra los azulejos blancos, con Kase en el hombro y Hisoka tirado a tus pies.
-
-Kortopi no se va. Se sienta en el escalón de la entrada, con las rodillas juntas, y no te saca el ojo de encima. Cada tanto mira a Hisoka, que sigue respirando despacio en el asfalto, y después a ti otra vez.
-
-No hablan.
-
-Pasan cuatro minutos. En la avenida de la Torre se escuchan sirenas, lejos: la policía o las ambulancias, por la gente que se desmayó en el estadio. En algún departamento alguien prende la televisión y se oye la voz de un periodista hablando de "la muerte en vivo de Hisoka Morow".
-
-Lo sientes antes de verlo: una presencia que viene corriendo por los techos, rápida, liviana, desde la dirección opuesta a la Torre.
-
-Aterriza en la calle, a quince metros, en cuclillas, sin hacer ruido. Se endereza.
-
-Es el muchacho rubio de la tercera fila. De cerca parece todavía más joven: cara redonda, ojos grandes, una sonrisa que parece puesta por costumbre. Tiene el celular en la mano izquierda. En la derecha, entre los dedos, sostiene una antena como la que usó Chrollo en el ring, chica, metálica, con forma de clavo.
-
-Mira a Kortopi. Lo recorre de arriba abajo con la vista, rápido, como quien cuenta.
-
-—¿Estás bien?
-
-Kortopi asiente.
-
-Después Shalnark mira a Hisoka. La sonrisa se le queda en la cara, pero los ojos no sonríen nada.
-
-Por último te mira a ti.
-
-╔════════════════════════════════════════╗
-║ SHALNARK                               ║
-║ Tropa Fantasma (n.º 6) · Manipulador   ║
-║ PODER: Black Voice, Modo Automático    ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x110 sobre él ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-
-—Así que eres tú. —Ladea la cabeza. Te mira el pelo, los ojos, la cicatriz, el gato con la bufanda—. Pelo blanco y azul. Un ojo rojo y uno azul. Un gato enorme. —Se ríe, corto—. Estuviste en el estadio, ¿no? Gradas altas, al lado de una columna. Te vi en una de las pantallas, de pasada. Pensé que eras un cosplayer.
-
-Guarda el celular en el bolsillo. La antena no.
-
-—Kortopi dice que tienes una misión de protegerlo. Y que sabes mi nombre. —Sonríe—. Nadie sabe nuestros nombres. Bueno, algunos. Los que todavía están vivos son pocos.
-
-Da un paso hacia Hisoka. Se agacha a su lado, en cuclillas, con la antena entre los dedos, a centímetros de la cabeza pelirroja.
-
-—Kortopi también dice que no quieres que lo matemos. —Te mira desde abajo—. Está bien. Te escucho. No lo matamos.
-
-Acerca la antena a la nuca de Hisoka.
-
-—Pero si le clavo esto, va a hacer todo lo que yo le diga, para siempre. —La sonrisa se le estira—. Eso no es matarlo, ¿verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1047 · HUNTER X HUNTER · DÍA 1 · 19:47 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, tranquilo                ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi y a Shalnark    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1048)
+## COMANDO 1 (T1048)
 no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
 
-## RESPUESTA 2 (T1048)
+## RESPUESTA 1 (T1048)
 
 > no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
 
@@ -140,10 +68,10 @@ Los hilos de los dedos se le tensan solos, sin que haga un gesto.
 
 ---
 
-## COMANDO 3 (T1049)
+## COMANDO 2 (T1049)
 me llamo Facundo Morelli, vamos con Shalnark y Kortopi
 
-## RESPUESTA 3 (T1049)
+## RESPUESTA 2 (T1049)
 
 > me llamo Facundo Morelli, vamos con Shalnark y Kortopi
 
@@ -207,4 +135,61 @@ Vuelve a mirarte.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:51, baños públicos. Facundo volvió con Machi. Chrollo llegó y está junto a Hisoka inconsciente: le pregunta a Facundo por qué no debería terminar lo que empezó (matarlo). Facundo puede responder.
+## COMANDO 3 (T1050)
+si terminas lo que empezaste yo termino lo que el empezo, ustedes deciden
+
+## RESPUESTA 3 (T1050)
+
+> si terminas lo que empezaste yo termino lo que el empezo, ustedes deciden
+
+> —Si terminas lo que empezaste, yo termino lo que él empezó. Ustedes deciden.
+
+Nadie se mueve.
+
+Shalnark deja de mirar el celular. Kortopi se queda congelado en el escalón. Machi, a tu lado, no te mira: mira a Chrollo, y los hilos de sus dedos se le quedan quietos, colgando, como si esperara una orden.
+
+Chrollo no cambia de cara.
+
+Te mira un momento largo. Después baja la vista a Hisoka, a sus pies, y otra vez a ti. Una vez. Dos veces. Como si estuviera sumando algo.
+
+—Lo que él empezó —repite, despacio—. Matarnos a todos.
+
+Mira a Kortopi en el escalón. A Shalnark contra la pared. A Machi.
+
+—Hay una regla en la Araña —dice. Lo dice para ti, pero los otros tres lo escuchan como quien escucha algo que ya sabe de memoria—. La Araña vale más que cualquiera de sus patas. Más que la cabeza también. Si mi vida pone en riesgo a la Araña, mi vida no vale nada.
+
+Se vuelve a meter la mano en el bolsillo.
+
+—Vi a Hisoka pelear durante una hora con todo lo que tenía. —La voz no sube ni baja—. Shalnark dice que tú lo tiraste en un segundo. No sé qué eres. No siento nada de ti. No sé de dónde sacaste nuestros nombres. —Hace una pausa—. Y no voy a apostar a la Araña entera para averiguarlo esta noche.
+
+Da un paso atrás. Se aparta del cuerpo de Hisoka.
+
+—No lo tocamos.
+
+Machi suelta el aire despacio. Shalnark se guarda el celular. Kortopi baja la cabeza.
+
+—Pero entiende esto, Facundo Morelli. —Chrollo te mira, tranquilo—. Cuando ese hombre se despierte, va a seguir queriendo matarnos. No va a cambiar de idea porque tú lo hayas golpeado. Al contrario. —Mira la sonrisa congelada en la cara de Hisoka—. Y nosotros no vamos a quedarnos quietos esperando que lo haga.
+
+Ladea apenas la cabeza.
+
+—Dijiste que tu misión es protegernos. —Por primera vez en toda la noche, algo parecido a la curiosidad le aparece en los ojos—. ¿Hasta cuándo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1050 · HUNTER X HUNTER · DÍA 1 · 19:53 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi y a Shalnark    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:53, baños públicos. Chrollo acepta no tocar a Hisoka por la Araña, pero advierte que Hisoka seguirá cazándolos. Le pregunta a Facundo hasta cuándo dura su misión de protegerlos. Facundo puede responder.
