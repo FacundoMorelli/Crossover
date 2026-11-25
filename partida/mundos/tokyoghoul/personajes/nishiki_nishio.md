@@ -7,6 +7,7 @@ FÍSICO: Alto y flaco, pelo castaño claro, anteojos de marco fino, mochila de u
 PERSONALIDAD Y FORMA DE HABLAR: Burlón, malhablado, desconfiado.
 RELACIÓN CON FACUNDO: Primer encuentro T1186.
 ENCUENTROS:
+- T1215 · Sale dos noches con Kimi.
 - T1186 · Entra a Anteiku a las 07:41 y se frena al ver a Facundo, el gato y a Hinami comiendo una tostada.
 DIÁLOGOS CLAVE:
 - T1208 · "Bueno. Ya está. Ya no me sorprende nada. Si mañana entras volando, ni levanto la vista."

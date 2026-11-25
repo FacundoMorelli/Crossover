@@ -1,8 +1,8 @@
 {
-  "turno": 1214,
+  "turno": 1215,
   "mundo_actual": "tokyoghoul",
-  "fecha_local": "Día 3 desde la llegada (T1147 = noche del Día 0; Día 1 = mañana siguiente al asalto a la mansión de Kanou)",
-  "hora": "10:34",
+  "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
+  "hora": "17:41",
   "edad": 18,
   "nivel": 28,
   "exp": 276530,
@@ -2059,7 +2059,8 @@
     "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
     "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa, desde T214)",
     "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)",
-    "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)"
+    "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)",
+    "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)"
   },
   "tienda": {
     "catalogo_permanente": {
@@ -2204,7 +2205,7 @@
       "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'.",
       "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'. | NUEVO (T854): la prensa del continente lo va a llamar 'el Emisario del Gato' (diarios del día 41). | REVELADO T969: \"El del gato\" (gritado por la plaza de Shiganshina).",
       "blackclover": "Si pelea delante de caballeros: 'el Mago de las Estrellas' / entre los Toros Negros: 'el del gato'. En el Ojo del Sol de Medianoche: 'el Desconocido de dos colores'.",
-      "tokyoghoul": "Entre los ghouls del Distrito 20: 'el Panadero' (por el pan que comen los transfigurados). En la CCG, si lo reportan: 'Dos Colores' / 'el Bicolor del Distrito 20'."
+      "tokyoghoul": "REVELADO T1215: 'el Panadero' (ghouls). Pendiente en la CCG: 'Dos Colores' / 'el Bicolor del Distrito 20'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
@@ -2306,7 +2307,7 @@
       "lugar_de_llegada": "acantilado arbolado a ~300 m de la mansión de Kanou, con camionetas de la CCG en el claro",
       "apodo_pendiente": "'El Ghoul Gris' / 'Ceniza' (CCG) · entre ghouls: 'el del gato'"
     },
-    "tokyoghoul_ccg": "Días 1-3: un investigador de civil oye el rumor en el andén (Día 1 tarde) y lo informa. Shinohara relaciona la descripción ('humano, ojos de dos colores, gato') con el hombre que lo salvó en la mansión; pide permiso para verificar por su cuenta (Día 2) y va a Anteiku el Día 3 con Juuzou. Shinohara va con intención de agradecer y hablar (pasa la barrera). Juuzou va con ganas de 'cortar' al de los dos colores (no pasa). La preparación de la Operación del Búho sigue su curso en la CCG (el Búho ya vinculado al Distrito 20)."
+    "tokyoghoul_ccg": "Días 1-3: un investigador de civil oye el rumor en el andén (Día 1 tarde) y lo informa. Shinohara relaciona la descripción ('humano, ojos de dos colores, gato') con el hombre que lo salvó en la mansión; pide permiso para verificar por su cuenta (Día 2) y va a Anteiku el Día 3 con Juuzou. Shinohara va con intención de agradecer y hablar (pasa la barrera). Juuzou va con ganas de 'cortar' al de los dos colores (no pasa). La preparación de la Operación del Búho sigue su curso en la CCG (el Búho ya vinculado al Distrito 20). | Día 4 noche: Kaiko (de V) visita a Yoshimura (advertencia: su hija y Aogiri rompen el equilibrio). Día 5: Yoshimura, Irimi y Koma queman documentos. Día 6 17:40: Yoshitoki Washuu da inicio a la Operación del Búho (adelantada por el rumor y la actividad en Anteiku). Fuerzas: Clase Especial Houji, Kuroiwa, Tanakamaru (Higher Mind), Ui, Hirako, Hachikawa, Amon, Escuadrón 1 (Akira, Takizawa), Juuzou; Arima en V14. Shinohara participa (no puede negarse). Eto (Búho de un Ojo) y Aogiri rondan."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

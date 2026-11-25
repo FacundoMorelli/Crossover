@@ -19,6 +19,7 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 - T1205 · Kaneki controla su kakuja por primera vez (en el canon, su kakuja lo dominaba).
 - T1209 · Días 1-2: 41 ghouls transfigurados en total (incl. Koma de los Apes, Irimi de los Black Dobers y Yoshimura, que lo pidió el Día 2 a la noche al cerrar el café). Kaneki come con Hide (Día 2). Día 3: la barrera frena a Juuzou en la puerta, delante de clientes.
 - T1213 · Yoshimura muestra el kakugan y come un bollo delante de Shinohara (Clase Especial de la CCG), que no sabe que es el Búho.
+- T1215 · Días 3-5: ~97 transfigurados más (total ~138), de varios distritos. Apodo de Facundo entre ghouls: el Panadero. Día 6 17:40: la Operación del Búho empieza (antes que en el canon? el canon no tiene fecha exacta; adelantada por el rumor).
 
 ## TRANSFIGURACIÓN CONTRA EL HAMBRE (mecánica fijada T1169, explicada al jugador)
 - Siguen siendo ghouls: kagune, kakugan al usarlo, fuerza, regeneración y piel dura. Las células RC no cambian: las puertas RC de la CCG los detectan igual y siguen oliendo a ghoul.

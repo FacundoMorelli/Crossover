@@ -103,3 +103,6 @@
 - Touka, Nishiki, Facundo · T1213 · vieron a Yoshimura exponerse ante Shinohara.
 - Shinohara · T1214 · por Yoshimura: la pared deja pasar solo a los que no vienen a hacer daño; la puso "este muchacho" (Facundo).
 - Juuzou · T1214 · sabe que la pared es "del de los dos colores" (deducción por lo que vio y el saludo); no sabe nada de ghouls adentro (Shinohara no le contó).
+- Ghouls de los distritos 11, 13, 14 · T1215 · el rumor del Panadero.
+- Facundo · T1215 · oyó su apodo: "el Panadero". Vio al hombre del bombín hablar con Yoshimura (no oyó qué). Vio quemar papeles.
+- Facundo, Kaneki, Touka · T1215 · por Yoshimura: va a salir (como el Búho) para que no busquen en Anteiku; Irimi y Koma están afuera con su gente, fuera de la pared.

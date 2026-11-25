@@ -5,3 +5,4 @@
 - T1154 · Facundo saca de la mansión a Kaneki, Banjou, los tres de las máscaras, Tsukiyama y Hinami. Kaneki no atraviesa a Banjou.
 - T1156 · 00:02 · Facundo lleva al grupo de Kaneki a Anteiku. Kaneki entra primero. Yoshimura los invita a pasar.
 - T1209 · Días 1-3 · Rumor del "humano de dos colores que quita el hambre" en el Distrito 20. Un investigador de civil lo oye (Día 1) e informa. Shinohara lo vincula con su salvador y va a Anteiku el Día 3 con Juuzou. La CCG sigue preparando la Operación del Búho.
+- T1215 · Día 4 noche: Kaiko (V) visita a Yoshimura. Día 5: queman documentos (Yoshimura, Irimi, Koma). Día 6 17:40: inicio de la Operación del Búho; altavoces, evacuación al norte; Irimi y Koma con Black Dobers y Apes en las calles de alrededor.

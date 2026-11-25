@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1215 · "Irimi y Koma están afuera, con su gente. Ellos no están dentro de su pared, Morelli-san." "Y yo tengo que salir. Si el Búho no aparece, van a seguir buscando, y van a buscar acá." "Le pido una sola cosa. Que los chicos no salgan de esta casa."
 - T1214 · "Porque soy el más viejo de esta casa." "Usted entró por esa puerta y la pared lo dejó pasar." "Usted lo pidió negro. Como lo toma la gente que trabaja de noche."
 - T1213 · "Señor Shinohara. Usted pidió no saber nombres. Se lo agradezco." "Es la primera vez en sesenta y tantos años que como algo que hizo un panadero."
 - T1199 · "Ve. Nishiki-kun puede lavar platos. Le va a hacer bien."
@@ -35,4 +36,4 @@ DIÁLOGOS CLAVE:
 - T1156 · "Kaneki me dice que fue usted quien los trajo. A todos. Pasen, por favor. Les voy a preparar café."
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1176); dice ser de Argentina (T1177). Por Kaneki: trajo a todos y salvó a un investigador de Clase Especial delante de él. Huele y respira como humano (T1157).
 QUÉ PODERES VIO: Katana sacada de la nada; algo cambió en el umbral (T1180). Ninguno (lo "miró" con su presencia). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
-ESTADO: SIN HAMBRE DE GHOUL (transfigurado el Día 2 a la noche, T1209). T1213: se expuso como ghoul ante Shinohara (kakugan en el ojo derecho, comió un bollo).
+ESTADO: Transfigurado (Día 2). Día 4: lo visitó Kaiko (V). Día 6 17:41: sin delantal ni lentes, a punto de salir como el Búho.

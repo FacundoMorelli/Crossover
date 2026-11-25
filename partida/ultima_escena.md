@@ -3,57 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1212)
-si
-
-## RESPUESTA 1 (T1212)
-
-> —Sí.
-
-Shinohara asiente despacio. Suelta el aire por la nariz, largo, como si hubiera estado aguantándolo desde que entró.
-
-—Entonces voy a poner mis condiciones antes de que me muestres nada —dice—. Para que quede claro.
-
-Levanta un dedo grueso.
-
-—No quiero nombres. No quiero saber quién es, ni dónde vive, ni con quién anda. —Levanta otro—. Si tiene que taparse la cara, que se la tape. Me da igual. —Y un tercero—. Y lo que vea hoy no va a estar en ningún informe con mi firma. Tienes mi palabra.
-
-Mira hacia la puerta. Juuzou sigue haciendo equilibrio en el cordón, con los ojos cerrados ahora, contando en voz alta.
-
-—Él no entra —agrega—. Tu pared ya lo decidió por mí. —Algo parecido a una sonrisa cansada—. Y no le voy a contar. Juuzou no sabe guardar secretos. Los cuenta en voz alta, a cualquiera, como si fueran chistes.
-
-Se da vuelta en el taburete, quedando de frente a la barra, con las manos alrededor de la taza, y se queda quieto. Esperando.
-
-Detrás de la barra, Touka dejó de secar el vaso. Lo tiene apretado contra el pecho, con los nudillos blancos, y te mira fijo con el único ojo que se le ve. No dice nada. No hace falta.
-
-Nishiki ya no barre. Está apoyado en la escoba, junto a la puerta de la cocina, inmóvil.
-
-Por la puerta del callejón, al fondo, se oye que se cierra la puerta de metal. Pasos lentos. Yoshimura aparece en el pasillo, entre la cocina y el salón, secándose las manos con el repasador. Mira a Shinohara en la barra. Te mira a ti. No dice nada.
-
-El reloj de pared hace tic tac.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1212 · TOKYO GHOUL · DÍA 3 · 10:27     ║
-║ Distrito 20 · Anteiku, barra                 ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1213)
+## COMANDO 1 (T1213)
 esta bien
 
-## RESPUESTA 2 (T1213)
+## RESPUESTA 1 (T1213)
 
 > —Está bien.
 
@@ -112,10 +65,10 @@ Pasa mucho tiempo antes de que hable. Cuando lo hace, la voz le sale ronca, sin 
 
 ---
 
-## COMANDO 3 (T1214)
+## COMANDO 2 (T1214)
 miro
 
-## RESPUESTA 3 (T1214)
+## RESPUESTA 2 (T1214)
 
 > miro
 
@@ -182,7 +135,88 @@ Después te mira a ti, por encima de los lentes.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1215)
+simula
+
+## RESPUESTA 3 (T1215)
+
+> simula
+
+La tarjeta de Shinohara termina debajo de la caja registradora, donde Yoshimura la deja con cuidado, al lado de un sobre de recibos viejos.
+
+...
+
+Pasan tres días.
+
+A las diez, la puerta del callejón. El tercer día son veintiséis. El cuarto, treinta y uno. El quinto, cuarenta. Ya no vienen solo del Distrito 20: llegan del 11, del 13, del 14, en tren, en grupos de dos o tres, con la capucha puesta y los ojos clavados en el suelo. Algunos se quedan en la boca del callejón una hora entera antes de animarse. Una madre trae a tres chicos en fila, de la mano. Un hombre de traje, con un portafolios, que dice trabajar en un banco desde hace veinte años, llora como un chico cuando muerde una galletita de agua y después se seca la cara con un pañuelo planchado, avergonzado.
+
+El quinto día, Koma te recibe en el callejón con los brazos abiertos y a los gritos:
+
+—¡Ahí está! ¡El Panadero!
+
+Y no es el único. En la fila, entre los que esperan, ya nadie dice "el humano de los dos colores". Dicen el Panadero.
+
+A la tarde, el Distrito 24. Kaneki ya no necesita decir "yo" para no perderse. Touka no te toca, pero el cuarto día un cristal te pasa tan cerca de la oreja que te corta un mechón de pelo azul, y ella se pasa el resto de la tarde insoportable.
+
+Hinami aprende a hacer tostadas. Banjou y los tres de las máscaras se vuelven a su departamento junto al río, pero vienen todos los días a la hora del almuerzo. Tsukiyama manda flores dos veces. Nishiki sale dos noches con Kimi, y la segunda vuelve con una cara que nadie le había visto nunca.
+
+El cuarto día a la noche, después del cierre, un hombre con sombrero bombín y traje oscuro entra por la puerta principal. La pared lo deja pasar. Habla con Yoshimura media hora, a solas, en la cámara del fondo, con la puerta cerrada y la voz tan baja que solo se oye un murmullo. Cuando se va, Yoshimura se queda sentado en la cocina, a oscuras, hasta pasada la medianoche.
+
+Al día siguiente, Yoshimura, Irimi y Koma pasan la mañana en la cámara del fondo quemando papeles en un balde de metal. El humo sale por la ventanita de arriba de la pileta. Yomo llega a la tarde, habla con Yoshimura en voz baja, mira a Touka un largo rato y no dice nada.
+
+Nadie te explica nada. Pero Anteiku cambia. Yoshimura sonríe igual, sirve igual, seca las tazas igual. Pero cada tanto se queda quieto, mirando la puerta.
+
+...
+
+Día 6. Cinco y cuarenta de la tarde.
+
+El sol se pone temprano. La calle de Anteiku está naranja y fría. Hay pocos clientes: una pareja de estudiantes, un viejo con un diario.
+
+Kase es el primero en notarlo. Levanta la cabeza en el taburete, con las orejas paradas, y mira la ventana.
+
+Después lo sientes tú. Afuera, a lo lejos, en todas las direcciones a la vez, presencias que se mueven. Muchas. Cientos. Se acercan de a grupos, ordenadas, por las avenidas, por las calles laterales, por los techos. Humanos, casi todos. Con algo frío en las manos que no termina de estar vivo.
+
+En la calle suena un altavoz. Una voz de hombre, metálica, repetida por varios parlantes en distintas esquinas, que rebota entre los edificios:
+
+—Atención a todos los residentes del Distrito 20. La Comisión Contra Ghouls inicia en este momento una operación especial en la zona. Se ordena a todos los civiles evacuar inmediatamente hacia el norte del distrito, siguiendo las indicaciones del personal. Repito...
+
+La pareja de estudiantes se levanta de un salto. El viejo dobla el diario.
+
+Por la ventana se ven las primeras camionetas blancas con el emblema de la CCG cortando la avenida, a dos cuadras. Hombres de traje negro con maletines plateados que bajan corriendo, en fila.
+
+En la cocina, Yoshimura se desata el delantal.
+
+Lo dobla en cuatro, igual que el repasador, y lo deja sobre la mesada. Se quita los lentes. Los dobla. Los deja encima del delantal.
+
+Después se vuelve hacia ti.
+
+—Irimi y Koma están afuera, con su gente —dice, tranquilo—. En las calles de alrededor, para frenar a los que vengan. Se lo prometieron hace muchos años a este lugar. Ellos no están dentro de su pared, Morelli-san.
+
+Mira la puerta trasera, la del callejón.
+
+—Y yo tengo que salir. Si el Búho no aparece, van a seguir buscando, y van a buscar acá. —Hace una pausa—. Le pido una sola cosa. Que los chicos no salgan de esta casa.
+
+Arriba, en la escalera, Kaneki ya está parado, con la cara blanca. Detrás de él, Touka.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1215 · TOKYO GHOUL · DÍA 6 · 17:41     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete, orejas paradas         ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:34, barra de Anteiku. Shinohara se fue y dejó su tarjeta; Juuzou prometió cortar la pared algún día. Yoshimura mira a Facundo. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:41, cocina de Anteiku. Empezó la Operación del Búho. Yoshimura va a salir como el Búho y pide que los chicos no salgan. Irimi y Koma pelean afuera, fuera de la pared. Facundo puede actuar.
