@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1074 · Noche 2 00:23 · Sala de la Hearthstone Manor: Facundo aparece con Wiene.
 DIÁLOGOS CLAVE:
+- T1080 · "¡Diosa, la Familia Loki es la más fuerte de Orario! ¡Y Loki es Loki!"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1074).
 QUÉ PODERES DE FACUNDO VIO: teletransporte (aparecer de la nada).
 ESTADO: En la sala, detrás del sillón.

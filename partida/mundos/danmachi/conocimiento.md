@@ -35,3 +35,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Bell, Wiene, Asterius y los 14 Xenos · T1077 · vieron a Facundo llevarlos a todos, de una vez, al piso 20 (teletransporte múltiple). Asterius sintió que no podía mover la cabeza cuando Facundo le agarró el cuerno.
 - Hestia · T1077 · Bell se fue con Facundo y Wiene; prometió volver antes del amanecer.
 - Hestia, Lili, Welf, Mikoto, Haruhime · T1079 · por Bell: los Xenos están todos en el piso 20, Asterius incluido; Facundo los llevó. Vieron a Bell aparecer con Facundo.
+- Hestia y su Familia · T1080 · Facundo va a ver a la Familia Loki; no les tiene miedo (Hestia: verdad).
+- Familia Loki en la Mansión del Crepúsculo (Finn, Riveria, Gareth, Loki, ~30 aventureros, guardias) · T1080 · lo ven aparecer en el portón; coincide con la descripción de Bete. No saben su nombre.

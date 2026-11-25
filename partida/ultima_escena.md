@@ -3,119 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1077)
-esta bien, agarrate a mi, me teletransporto con wiene y bell con el minotauro, lo agarro lo llevo a donde estan los demas y los llevo a todos a la mazmorra al piso 20
-
-## RESPUESTA 1 (T1077)
-
-> esta bien, agarrate a mi, me teletransporto con wiene y bell con el minotauro, lo agarro lo llevo a donde estan los demas y los llevo a todos a la mazmorra al piso 20
-
-> —Está bien. Agárrate de mí.
-
-Bell no duda. Se cuelga la capa al cuello y te agarra del brazo. Wiene te toma de la otra mano.
-
-—¡Bell! —Hestia da un paso hacia adelante—. ¡Vuelve antes del amanecer! ¡Y vuelve entero, ¿me oíste?!
-
-La sala desaparece.
-
-Lo buscas mientras viajas. No es difícil: en toda la ciudad no hay otra presencia como la suya. Pesada, caliente, enorme, como una fragua encendida debajo de la tierra.
-
-[00:28 · Borde de Dédalo, un depósito derrumbado.]
-
-Aparecen entre escombros. Un galpón de piedra con el techo hundido, vigas caídas, polvo. La luna entra por el agujero del techo.
-
-En el fondo, sentado contra la pared, hay un toro.
-
-Un minotauro negro, gigantesco, más alto sentado que tú de pie, con cuernos curvos como lanzas y un hacha doble del tamaño de una puerta apoyada contra el muro. Le falta el brazo izquierdo desde el hombro. El muñón está vendado con trapos sucios, negros de sangre seca. Respira despacio, con un ruido de fuelle.
-
-Abre los ojos. Rojos. Te ve. Ve a Wiene.
-
-Ve a Bell.
-
-Se levanta. De golpe, entero, con la mano sana en el mango del hacha, y el galpón entero cruje. Los ojos se le encienden.
-
-╔════════════════════════════════════════╗
-║ ASTERIUS                               ║
-║ Xenos · Minotauro negro                ║
-║ PODER: fuerza y hacha (≈Nivel 7)       ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x60 sobre él  ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-
-—Tú... —La voz le sale del fondo del pecho, como un trueno lento. Mira solo a Bell—. Al fin.
-
-Bell suelta tu brazo y da un paso adelante, sin pensar, con la mano en el cuchillo de la cintura.
-
-No le das tiempo a ninguno de los dos.
-
-Cruzas el galpón y le agarras el cuerno al minotauro con una mano.
-
-Asterius se queda inmóvil, con el hacha a medio levantar, mirándote de cerca, sin entender por qué no puede mover la cabeza.
-
-El galpón desaparece.
-
-[00:29 · Sótano de la panadería quemada.]
-
-Diecisiete cuerpos en un sótano para cuatro. Los Xenos gritan al ver aparecer al minotauro. La lamia se esconde detrás del troll. Lido levanta las cimitarras. Gros abre las alas. Asterius, con el cuerno todavía en tu mano, mira alrededor, a sus compañeros, y baja despacio el hacha.
-
-No hace falta decir nada.
-
-Lido entiende primero. Pone la mano en tu espalda. Rei, el ala. Gros, la garra. Fia, el goblin, la lamia, Aruru, los demás, uno detrás de otro, en cadena, mano sobre hombro, ala sobre brazo. El troll alarga un dedo enorme y te toca la bota. Wiene sigue con tu mano. Bell, con tu brazo.
-
-El sótano desaparece.
-
-[00:30 · La Mazmorra · piso 20.]
-
-Luz.
-
-No la del sol: una luz verde, dorada, suave, que sale de todas partes a la vez. Del suelo, cubierto de un musgo que brilla. De las paredes, que no son paredes sino raíces, raíces gigantescas, más gruesas que torres, que suben y se entrelazan hasta perderse en una bóveda de ramas y hojas que también brillan. Del aire, lleno de motas luminosas que flotan como polen. Huele a tierra mojada, a savia, a flores que no existen arriba.
-
-Es un bosque adentro de la tierra. Un árbol colosal visto desde adentro.
-
-Entre las raíces hay chozas de madera y tela, hamacas, fogones apagados, jarras de barro, una ropa tendida. Algunas cosas rotas, de algún ataque. Pero está todo ahí.
-
-Los Xenos no dicen nada.
-
-Después la lamia rompe a llorar en voz alta. El goblin tira la espada rota al musgo y se tira de espaldas encima, riéndose. Fia levanta vuelo y da tres vueltas en el aire, chillando de alegría. Aruru salta en el lugar como un conejo de verdad. Gros se queda quieto, mirando las raíces, con la cara de piedra torcida en algo que podría ser una sonrisa. Rei canta. Esta vez una canción entera, y nadie la hace callar.
-
-Lido se da vuelta hacia ti. Se agacha hasta tocar el musgo con la frente escamosa, y se queda así, inclinado, en silencio.
-
-[Misión de Mundo cumplida: todos los Xenos atrapados en la superficie volvieron a la Mazmorra, y no murió ninguno.]
-
-[+10.000 EXP · +300 Fragmentos.]
-
-Asterius suelta el hacha en el musgo. Se queda de pie, enorme, a un lado, con el brazo que no tiene vendado. Mira a Bell, que está parado en medio de la aldea, con la capa al cuello y la boca abierta.
-
-—Esto no termina aquí, humano —le dice. Despacio. Sin furia—. Cuando tenga mi brazo otra vez, voy a volver a buscarte. Arriba o abajo.
-
-Bell lo mira. Traga saliva. Asiente.
-
-Y Wiene, todavía agarrada de tu mano, te tira de los dedos para que la mires.
-
-—Estamos en casa, Facundo —dice. Le brillan los ojos como el musgo—. Estamos en casa.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1077 · DANMACHI · NOCHE 2 · 00:31      ║
-║ La Mazmorra · piso 20, aldea de los Xenos    ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1078)
+## COMANDO 1 (T1078)
 me alegro wiene, le acaricio la cabeza
 
-## RESPUESTA 2 (T1078)
+## RESPUESTA 1 (T1078)
 
 > me alegro wiene, le acaricio la cabeza
 
@@ -162,10 +53,10 @@ Wiene abre los ojos debajo de tu mano. Mira a Bell. Se le borra un poco la sonri
 
 ---
 
-## COMANDO 3 (T1079)
+## COMANDO 2 (T1079)
 bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
 
-## RESPUESTA 3 (T1079)
+## RESPUESTA 2 (T1079)
 
 > bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
 
@@ -228,4 +119,76 @@ Frunce el ceño.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:38, sala de la Hearthstone Manor. Bell volvió a casa. Hestia agradece, le ofrece un lugar en su casa y pregunta si tiene dónde pasar la noche (lo busca la Familia Loki). Facundo puede responder.
+## COMANDO 3 (T1080)
+voy a ir a ver a la familia loki, no tengo miedo de ellos
+
+## RESPUESTA 3 (T1080)
+
+> voy a ir a ver a la familia loki, no tengo miedo de ellos
+
+> —Voy a ir a ver a la Familia Loki. No les tengo miedo.
+
+Hestia abre la boca. La cierra. Te mira de arriba abajo, después a Bell, después otra vez a ti.
+
+—Es verdad —murmura—. No les tienes miedo. —Se pasa una mano por la cara—. Ay, por todos los cielos.
+
+—¡Diosa, la Familia Loki es la más fuerte de Orario! —La chica de la mochila sale de atrás del sillón, alarmada—. ¡Finn Deimne, Riveria, Gareth, la Princesa Espada! ¡Nivel seis los cuatro!
+
+—Lili...
+
+—¡Y Loki es Loki!
+
+Hestia suspira largo.
+
+—La Mansión del Crepúsculo —dice al fin, señalando con la cabeza hacia una pared, hacia el norte—. Torres altas, banderas con el bufón. No tiene pérdida. —Se cruza de brazos—. Y si Loki te dice algo de mí, dile que es una tabla de planchar.
+
+Bell da un paso hacia ti.
+
+—Señor Facundo... tenga cuidado.
+
+[00:45 · Mansión del Crepúsculo · Familia Loki.]
+
+Apareces en la calle, frente a un portón de hierro negro, alto, con el emblema del bufón sonriente en el centro. Detrás, una mansión de piedra gris con torres puntiagudas, ventanas encendidas en todos los pisos y banderas que flamean en lo alto. El patio de adelante está lleno de antorchas y de gente: aventureros que entran y salen corriendo, mensajeros, un chico de pelo castaño con un mapa de Dédalo extendido sobre un barril, marcando cuadras con tiza.
+
+En la escalinata de la entrada hay tres personas que no corren.
+
+Un muchacho de aspecto infantil, bajito como un chico de diez años, de pelo rubio y ojos azules, con una lanza dorada en la espalda: habla bajo, rápido, dando órdenes con los dedos. A su lado, una mujer elfa alta, de pelo verde largo y un báculo, con la cara seria. Del otro lado, un enano barbudo, ancho como un barril, con un hacha de guerra apoyada en el hombro.
+
+Arriba, en un balcón del segundo piso, apoyada en la baranda con un vaso de algo en la mano, hay una mujer de pelo rojo atado en una cola, con los ojos entrecerrados, finitos, como dos rayas. No da órdenes. Mira.
+
+Uno de los guardias del portón te ve. Mira tu pelo. Tus ojos. El gato.
+
+Se le cae la antorcha.
+
+—¡E... es él! —grita—. ¡Capitán! ¡Es el del gato! ¡Está aquí! ¡En la puerta!
+
+El patio entero se da vuelta.
+
+Las antorchas se levantan. Treinta aventureros desenvainan a la vez, con un ruido de metal que llena la calle. El chico del mapa se cae del barril.
+
+En la escalinata, el muchacho rubio levanta una mano. Nadie se mueve.
+
+Te mira. Tiene los ojos azules tranquilos, fríos, de alguien que ya calculó diez maneras de matarte y ninguna le gusta.
+
+Arriba, en el balcón, la mujer pelirroja deja el vaso en la baranda y abre los ojos. Son rojos.
+
+—Vaya, vaya, vaya —dice, con una sonrisa enorme—. Le tocan la puerta a mamá Loki a la una de la mañana. —Se inclina sobre la baranda—. ¿Y tú quién eres, guapo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1080 · DANMACHI · NOCHE 2 · 00:45      ║
+║ Orario · portón de la Mansión del Crepúsculo ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La Familia Loki                    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:45, portón de la Mansión del Crepúsculo. La Familia Loki lo reconoce; 30 armas desenvainadas; Finn los frena con una mano. Loki, desde el balcón, le pregunta quién es. Facundo puede responder.

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: confía en él (T1076).
 ENCUENTROS:
 - T1074 · Noche 2 00:23 · Sala de la Hearthstone Manor: Facundo aparece con Wiene.
 DIÁLOGOS CLAVE:
+- T1080 · "Es verdad. No les tienes miedo. Ay, por todos los cielos." "La Mansión del Crepúsculo. Y si Loki te dice algo de mí, dile que es una tabla de planchar."
 - T1079 · "Facundo Morelli. En diez minutos hiciste lo que yo no pude hacer en dos días, ni con Ouranos, ni con Fels. No sé de dónde vienes. No voy a preguntarte. Pero en esta casa hay un lugar para ti, para cuando quieras." "Toda la Familia Loki te está buscando. ¿Tienes dónde pasar la noche?"
 - T1077 · "¡Bell! ¡Vuelve antes del amanecer! ¡Y vuelve entero, ¿me oíste?!"
 - T1076 · "Verdad. Todo. Hasta lo de la misión." "Dos días sin que nadie, ni un mortal, ni un dios, dijera lo que acabas de decir tú."
