@@ -5,9 +5,11 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Transeúntes de la calle · T1087 · un joven de negro con un gato enorme. Nada más.
 
 ## QUIÉN VIO QUÉ PODERES
+- Aizawa, Vlad King, All Might · T1098 · teletransporte inmune a Borrar.
 - Empleados del banco · T1088 · teletransporte (aparecer de la nada) y un golpe que deshizo un brazo de roca.
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
+- Aizawa, Vlad King, All Might · T1098 · teletransporte inmune a Borrar.
 - Empleados del banco · T1088 · teletransporte (aparecer de la nada) y un golpe que deshizo un brazo de roca.
 - Empleados del banco (5), señora mayor · T1088 · lo vieron aparecer de la nada en el banco y derribar al villano de un golpe (la roca del brazo se deshizo). Preguntó dónde estaba.
 - Death Arms (héroe profesional) · T1088 · lo ve junto al villano derribado; la empleada confirma que fue él. Asume que usó un Don.
@@ -24,3 +26,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu, All Might · T1096 · Facundo aceptó proteger la U.A. mientras esté en Japón; figura como consultor de seguridad externo.
 - Aizawa, Vlad King · T1096 · lo ven en persona en la sala de monitoreo; conocen el video del banco (Aizawa: "vigilantismo con treinta mil reproducciones"). Nezu les quiere presentar al nuevo consultor.
 - Aizawa, Vlad King · T1097 · su nombre: Facundo Morelli, consultor de seguridad (nombrado por Nezu). Aizawa sabe por un mensaje de All Might: hielo y fuego en los ojos, teletransporte, fuerza desproporcionada, sin registro.
+- Aizawa, Vlad King, All Might · T1098 · vieron a Facundo teletransportarse detrás de Aizawa mientras Aizawa usaba Borrar sobre él: Borrar no le hizo nada. Aizawa: "Eso no es un Don, o es uno que no se parece a ninguno."

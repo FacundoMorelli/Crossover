@@ -25,3 +25,4 @@
 - Diciembre 09:45 · (T1092) All Might entra al interrogatorio de Facundo (sospecha de All For One por los múltiples poderes).
 - Diciembre 10:30 · (T1095) Facundo entra a la U.A. con All Might; Nezu le ofrece registro y licencia temporal a cambio de proteger la escuela.
 - Diciembre 10:50 · (T1096) Facundo, consultor de seguridad externo de la U.A. (Nezu). Visita la sala de monitoreo del entrenamiento conjunto.
+- Diciembre 11:00 · (T1098) Empieza el quinto combate del entrenamiento conjunto (canon: Izuku despierta Látigo Negro sin control).

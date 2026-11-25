@@ -3,81 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1095)
-sí, le doy la mano y voy con él a la U.A.
-
-## RESPUESTA 1 (T1095)
-
-> sí, le doy la mano y voy con él a la U.A.
-
-Le das la mano. All Might la aprieta con una fuerza que no tiene nada que ver con lo flaco que está.
-
-—Muy bien —dice, y sonríe de verdad por primera vez.
-
-[10:30 · U.A.]
-
-Suben la colina en un taxi que paga All Might, con Kase en tu regazo mirando la nieve por la ventanilla. En la entrada, la reja enorme de la U.A. se cierra con un muro de acero que baja del cielo apenas el taxi se acerca: la Barrera de la U.A. All Might baja, le muestra una tarjeta a una cámara, dice tres palabras a un parlante. El muro vuelve a subir.
-
-—Seguridad nueva —dice, encogiéndose de hombros—. Desde el año pasado no entra nadie sin permiso.
-
-Adentro, el campus es enorme. Edificios de vidrio azul, caminos de piedra con la nieve apartada a los costados, árboles pelados. A lo lejos, detrás de los edificios, se escucha una explosión sorda y se levanta una columna de humo negro y una de vapor blanco.
-
-—El entrenamiento conjunto de primer año —explica All Might—. La clase 1-A contra la 1-B. Hoy no se aburren.
-
-Lo sientes desde aquí: allá, en ese campo, cuarenta presencias jóvenes que arden, chocan, se apagan y se encienden. Y una, en particular, enorme, inestable, como un fuego que todavía no aprendió su propio tamaño.
-
-El edificio principal. Un ascensor. Un pasillo largo. Una puerta doble con una placa dorada: DIRECTOR.
-
-All Might golpea dos veces.
-
-—¡Adelante! —dice una voz aguda, alegre, de dibujo animado.
-
-La oficina es amplia, con una ventana enorme que da al campus nevado, estanterías llenas de libros, un juego de té de porcelana sobre una mesa baja. Detrás del escritorio, sentado en un sillón de cuero que le queda enorme, hay un animal.
-
-Es blanco, del tamaño de un perro chico, con orejas redondas, un hocico de ratón, una cicatriz en el ojo derecho y un traje negro impecable con corbata roja. Sostiene una taza de té con las dos patas.
-
-Te mira. Mira a Kase. Los ojitos negros le brillan.
-
-—¿Ratón? ¿Perro? ¿Oso? —dice, encantado—. ¡Nada de eso! ¡Soy el director! Nezu, para servirle. —Deja la taza—. Y usted debe ser el joven del video del banco. Treinta y una mil reproducciones a esta hora, por cierto. El gato es muy fotogénico.
-
-Kase lo mira fijo, con las orejas paradas. Nezu lo mira a él. Se miran un rato largo, los dos, en silencio, sin parpadear.
-
-—Interesante —murmura Nezu—. Muy interesante.
-
-Señala dos sillas frente al escritorio. All Might se sienta en una, despacio.
-
-—Toshinori me llamó desde la comisaría. Me contó todo. Que no existe en ningún registro. Que tiene al menos tres capacidades distintas. Que no miente. —Sirve dos tazas de té más, sin que nadie se las pida—. Y que solo vino a ayudar.
-
-Se acomoda en el sillón, con las patitas cruzadas sobre el escritorio.
-
-—Yo tengo una propuesta, joven Morelli. Y le advierto que soy un ratón que nunca pierde una partida de shogi. —Sonríe, con dientes chiquitos—. La U.A. puede conseguirle un registro, un documento y una licencia temporal especial. A cambio de una sola cosa.
-
-Te empuja la taza de té por el escritorio.
-
-—Que, mientras esté en Japón, trabaje para nosotros. Protegiendo esta escuela.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1095 · BOKU NO HERO · DIC. · 10:40     ║
-║ U.A. · oficina del director                  ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, mirando a Nezu           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: La propuesta de Nezu               ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1096)
+## COMANDO 1 (T1096)
 está bien, acepto, protejo la escuela
 
-## RESPUESTA 2 (T1096)
+## RESPUESTA 1 (T1096)
 
 > está bien, acepto, protejo la escuela
 
@@ -141,10 +70,10 @@ Sorbe el jugo por la pajita.
 
 ---
 
-## COMANDO 3 (T1097)
+## COMANDO 2 (T1097)
 no, soy el consultor de seguridad, me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1097)
+## RESPUESTA 2 (T1097)
 
 > no, soy el consultor de seguridad, me llamo Facundo Morelli
 
@@ -198,4 +127,69 @@ No parpadea.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 10:57, sala de monitoreo. Aizawa activó Borrar mirando a Facundo y le pide que se teletransporte (para probar). Facundo puede actuar.
+## COMANDO 3 (T1098)
+me teletransporto detrás de él
+
+## RESPUESTA 3 (T1098)
+
+> me teletransporto detrás de él
+
+Aizawa te está mirando. Fijo. Los ojos rojos, sin parpadear, el pelo flotando.
+
+Y de golpe no estás.
+
+Estás detrás de él. A medio metro de su espalda, en la sala oscura, con el resplandor de las pantallas en la nuca.
+
+Aizawa se queda mirando el lugar vacío donde estabas.
+
+Un segundo. Dos.
+
+El pelo se le cae de golpe sobre los hombros. La bufanda deja de flotar. Los ojos rojos se le apagan. Se da vuelta despacio, muy despacio, y te encuentra a sus espaldas, con el gato en el hombro, mirándolo.
+
+No dice nada.
+
+Vlad King tiene la boca abierta. All Might, en la puerta, se tapa la boca con una mano huesuda.
+
+—Te estaba mirando —dice Aizawa, al fin. La voz le sale baja, plana, muy controlada—. No parpadeé. Lo sé porque me arden los ojos.
+
+Se frota un ojo con el dorso de la mano. Te mira otra vez.
+
+—Mi Don borra cualquier Don. Cualquiera. Lo usé contra villanos que regeneran, que se transforman, que mueven montañas. A todos los apagué. —Se le tensa la mandíbula—. A ti no te apagué nada. No sentí nada. Como si mirara una pared.
+
+—Shota... —empieza All Might.
+
+—Eso no es un Don. —Aizawa no aparta la vista de ti—. O es un Don que no se parece a ninguno que haya visto. Y vi muchos.
+
+Se queda callado un momento largo. Se acomoda la bufanda en el cuello, despacio.
+
+—Bueno. —Suspira—. Eso significa que, si algún día pierdes el control, o te vuelves en contra nuestro, no hay nadie en esta escuela que pueda pararte. —Te mira, cansado—. Ni yo.
+
+Vuelve a su silla. Se sienta. Agarra el jugo de la consola.
+
+—Y también significa que, si alguien viene a lastimar a mis alumnos, nadie va a poder pararte a ti. —Sorbe por la pajita—. Eso último me gusta un poco más.
+
+En una de las pantallas suena un timbre. Una voz grabada anuncia por los parlantes del Campo Gamma: "Quinto combate. Equipos en posición."
+
+En la pantalla grande aparece un chico bajito, de pelo verde oscuro despeinado y pecas, con un traje verde y unos guantes blancos. Al lado, una chica de pelo castaño corto y mejillas redondas. Del otro lado del laberinto, un muchacho rubio de sonrisa arrogante se ríe solo, frente a la cámara.
+
+Lo sientes desde aquí, a través de las paredes: la presencia enorme e inestable de antes. Es la del chico de pelo verde. Y ahora está temblando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1098 · BOKU NO HERO · DIC. · 11:00     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger la U.A.                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:00, sala de monitoreo. Borrar no funcionó con Facundo. Aizawa lo acepta a su manera. Empieza el quinto combate del entrenamiento conjunto (Izuku vs Monoma + Shinso); la presencia de Izuku tiembla. Facundo puede actuar.
