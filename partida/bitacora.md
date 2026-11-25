@@ -1221,3 +1221,4 @@ T1219 · TG · Avenida 3 · Dos dedos: Higher Mind destruida, Tanakamaru inconsc
 T1220 · TG · Avenida 3 · Haki del Rey: 26 investigadores inconscientes (+46 F, +300 EXP). Vienen Houji, Kuroiwa y Shinohara.
 T1221 · TG · Avenida 3 · Semilla a Koma (quedan 77). Llegan Houji, Kuroiwa y Shinohara. Shinohara ve a Facundo junto al Búho.
 T1222 · TG · Avenida 3 · "No vine a matar a nadie." Shinohara le cree, pero: "Apártate. El Búho se queda."
+T1223 · TG · Avenida 3 · "Nadie está limpio." Houji ataca al Búho; la hoja a tres metros del cuello.
