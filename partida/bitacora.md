@@ -1106,3 +1106,4 @@ T1104 · BnHA · Sala de monitoreo · All Might: "Gracias. Ese chico es muy impo
 T1105 · BnHA · Sala de monitoreo · "Medicina de los lugares a los que viajo." Aizawa: "Me importa que funciona." Nezu: algo grande viene. "¿Cuántas tiene?"
 T1106 · BnHA · Sala de monitoreo · "Tengo muchas. Puedo ir y derrotarlos." Aizawa: la ley y no saben dónde están. Nezu: "¿Usted puede encontrar a la gente?"
 T1107 · BnHA · Sala de monitoreo · "Puedo sentir a la gente." Nezu: "¡Lo sabía! Búsquelos, solo eso. No vaya. Dígame qué siente."
+T1108 · BnHA · Sala de monitoreo · Busca a la Liga: Shigaraki vs Gigantomachia en montañas del noroeste; la Liga cerca; ejército en una ciudad al sur; Nomu bajo un hospital; All For One enterrado mira hacia Izuku. Nezu: "¿Qué sintió?"

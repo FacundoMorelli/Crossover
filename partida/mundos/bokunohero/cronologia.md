@@ -31,3 +31,4 @@
 - Diciembre 11:14 · (T1101) Facundo frena con la gravedad el Látigo Negro; Uraraka hace flotar a Izuku y Shinso lo lava (canon con Facundo). Izuku inconsciente (canon: dentro de One For All conoce a Daigoro Banjo).
 - Diciembre 11:16 · (T1102) Facundo cura a Izuku con una semilla del ermitaño; Izuku despierta.
 - Diciembre 11:18 · (T1103) Aizawa suspende el combate 5 (CAMBIO: en el canon continuaba y ganaba la 1-A). Izuku y Shinso a la enfermería.
+- Diciembre 11:37 · (T1108) Facundo siente: Shigaraki vs Gigantomachia en montañas del noroeste (canon: entrenamiento de semanas); la Liga en una cabaña cercana; el Ejército de Liberación Meta en Deika (Re-Destro); los Nomu y Garaki bajo el hospital de Jaku; All For One en Tártaro (se gira hacia Izuku).

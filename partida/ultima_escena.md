@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1105)
-es una medicina de los lugares a los que viajo
-
-## RESPUESTA 1 (T1105)
-
-> es una medicina de los lugares a los que viajo
-
-> —Es una medicina de los lugares a los que viajo.
-
-Aizawa te mira un momento largo. No dice nada. Después suspira por la nariz y se recuesta en la silla.
-
-—Los lugares a los que viajas —repite, plano—. Que no figuran en ningún mapa de inmigración.
-
-No pregunta más. Se frota los ojos con el pulgar y el índice.
-
-—Está bien. No me importa de dónde sale. —Levanta la vista—. Me importa que funciona.
-
-All Might se sienta en la otra silla, despacio, sin dejar de mirarte. Tiene los ojos hundidos muy abiertos.
-
-—Curó a Midoriya en un segundo. Del todo —murmura—. Si hubiéramos tenido algo así en Kamino...
-
-No termina la frase. Se mira las manos, flacas.
-
-En la pantalla, Nezu deja la taza de té sobre el escritorio. Junta las patitas delante del hocico. Ya no sonríe tanto: los ojitos negros se le achican, calculando.
-
-—Señor Morelli. —La voz aguda suena distinta, más lenta—. Voy a ser práctico, porque es mi trabajo serlo. —Hace una pausa—. Hace dos meses, la Liga de Villanos desapareció del mapa. Hace uno, un Nomu que habla y piensa casi mata a nuestro héroe número uno en Fukuoka. Todos los informes de inteligencia dicen lo mismo: algo grande se está moviendo debajo de la tierra. Algo que va a llegar. —Los ojitos no se le apartan de ti—. Y cuando llegue, esta escuela va a estar en medio.
-
-Se inclina un poco hacia la cámara.
-
-—Una medicina que cura cualquier herida en un segundo, en una guerra, cambia la guerra. —Sonríe apenas—. Así que voy a preguntarle lo único que me interesa como director.
-
-Una pausa.
-
-—¿Cuántas tiene?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1105 · BOKU NO HERO · DIC. · 11:31     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1106)
+## COMANDO 1 (T1106)
 tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
 
-## RESPUESTA 2 (T1106)
+## RESPUESTA 1 (T1106)
 
 > tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
 
@@ -109,10 +56,10 @@ Inclina la cabeza, como un pájaro.
 
 ---
 
-## COMANDO 3 (T1107)
+## COMANDO 2 (T1107)
 sí, puedo sentir a la gente, los busco si quieren
 
-## RESPUESTA 3 (T1107)
+## RESPUESTA 2 (T1107)
 
 > sí, puedo sentir a la gente, los busco si quieren
 
@@ -164,4 +111,63 @@ Mira a All Might. Después a Aizawa. Después otra vez a ti.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:35, sala de monitoreo. Nezu le pide que busque ahora a la Liga, solo para localizarla (sin ir ni actuar), para organizar una operación legal. Aizawa advierte que esa capacidad es peligrosa de revelar. Facundo puede actuar.
+## COMANDO 3 (T1108)
+busco a la Liga
+
+## RESPUESTA 3 (T1108)
+
+> busco a la Liga
+
+Cierras los ojos.
+
+La sala de monitoreo se queda en silencio. Aizawa no se mueve. All Might contiene la respiración. En la pantalla, Nezu deja la taza.
+
+Te abres.
+
+Primero lo cercano: los tres en la sala, cálidos, quietos. Kase en tu hombro, tranquilo. Las cuarenta presencias jóvenes del Campo Gamma, cansadas, agitadas, una de ellas en la enfermería, todavía temblando un poco pero entera. Más allá, la ciudad entera: millones de presencias chiquitas, como luces de un pueblo de noche, cada una con su Don apagado o encendido, yendo y viniendo.
+
+Sigues. Más lejos. Más hondo.
+
+Y empiezas a encontrar cosas que no encajan.
+
+Al noroeste, muy lejos, a cientos de kilómetros, entre montañas cubiertas de nieve, hay dos presencias que pelean. No paran. Una es colosal, pesada como una montaña que camina, y cada golpe que da sacude la tierra alrededor. La otra es más chica, flaca, rabiosa, y tiene algo que no se parece a nada: todo lo que toca se pudre, se deshace, se vuelve polvo. Llevan días así. Semanas, quizás. Sin dormir.
+
+A unos kilómetros de ellos, en una cabaña o una cueva, un puñado más: una presencia que arde desde adentro, como alguien que se quema vivo y no se apaga; una que se ríe sola, filosa, inquieta, que huele a sangre; una que está partida en dos, como si fuera muchas personas a la vez y ninguna; otras más, menos fuertes, juntas.
+
+Más al sur, en una ciudad mediana, decenas de miles de presencias que se mueven al mismo tiempo, en orden, como un ejército que finge ser una ciudad. En el centro, una sola, enorme, dura como una torre, rodeada de otras que le obedecen.
+
+En otra ciudad, debajo de un hospital, bajo tierra, muchos pisos abajo: docenas de presencias dormidas. No están vivas del todo. Están cosidas, mezcladas, mal hechas, como muñecos armados con pedazos de otras personas. Y entre ellas, despierto, un viejo, cuidándolas.
+
+Y por último, muy lejos, muy abajo, enterrado a una profundidad que no se mide en metros, hay algo.
+
+No es una presencia. Es un agujero. Un hueco frío que traga todo lo que tiene alrededor, quieto, paciente, que espera. Y mientras lo miras, por un instante, sientes que el agujero se da vuelta. Como si te hubiera notado.
+
+No te nota. El Velo no deja. Pero se da vuelta igual, hacia el Campo Gamma, hacia la enfermería donde está el chico de pelo verde.
+
+Abres los ojos.
+
+En la sala, los tres te están mirando. Nadie habla.
+
+Nezu es el primero.
+
+—¿Y bien, señor Morelli? —dice, en voz muy baja—. ¿Qué sintió?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1108 · BOKU NO HERO · DIC. · 11:37     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Encontrar a la Liga                ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:37, sala de monitoreo. Facundo sintió a Shigaraki y Gigantomachia en las montañas del noroeste, a la Liga cerca, a un ejército en una ciudad al sur, a los Nomu bajo un hospital y a All For One enterrado. Nezu le pregunta qué sintió. Facundo puede responder.
