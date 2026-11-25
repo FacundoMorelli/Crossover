@@ -52,3 +52,4 @@
 - Facundo · T1182 · por Yoshimura: a veces investigadores entran de civil como clientes.
 - Yoshimura, Touka · T1183 · por Facundo: la barrera deja pasar a investigadores que vienen a tomar café, no a los que vienen a destruir o matar.
 - Hinami · T1183 · por lo que vio arriba: Kaneki y Banjou comen pan sin asco. Sabe (por las paredes finas y por ellos) que Facundo lo hizo.
+- Hinami, Touka, Yoshimura · T1185 · vieron a Facundo transfigurar a Hinami (mano en la cabeza).
