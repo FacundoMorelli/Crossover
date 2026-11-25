@@ -27,3 +27,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Aizawa, Vlad King · T1096 · lo ven en persona en la sala de monitoreo; conocen el video del banco (Aizawa: "vigilantismo con treinta mil reproducciones"). Nezu les quiere presentar al nuevo consultor.
 - Aizawa, Vlad King · T1097 · su nombre: Facundo Morelli, consultor de seguridad (nombrado por Nezu). Aizawa sabe por un mensaje de All Might: hielo y fuego en los ojos, teletransporte, fuerza desproporcionada, sin registro.
 - Aizawa, Vlad King, All Might · T1098 · vieron a Facundo teletransportarse detrás de Aizawa mientras Aizawa usaba Borrar sobre él: Borrar no le hizo nada. Aizawa: "Eso no es un Don, o es uno que no se parece a ninguno."
+- Uraraka, Shinso (y los alumnos cercanos del quinto combate) · T1100 · un desconocido de pelo blanco y azul con un gato apareció de la nada en el Campo Gamma y atrapó con la mano un látigo negro de Izuku sin moverse.
+- Aizawa, Vlad King, All Might (y las cámaras del Campo Gamma) · T1100 · lo vieron desaparecer de la sala de monitoreo y aparecer en el Campo Gamma (grabado).

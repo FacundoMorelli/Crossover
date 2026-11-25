@@ -1098,3 +1098,4 @@ T1096 · BnHA · U.A. · Acepta: consultor de seguridad externo de la U.A. (lice
 T1097 · BnHA · Sala de monitoreo · "Soy el consultor de seguridad." Vlad King lo recibe. Aizawa activa Borrar: "Ahora, teletranspórtate."
 T1098 · BnHA · Sala de monitoreo · Teletransporte detrás de Aizawa pese a Borrar. "Eso no es un Don. Nadie puede pararte. Ni yo." Empieza el quinto combate; Izuku tiembla.
 T1099 · BnHA · Sala de monitoreo · Observa el quinto combate: Monoma no copia nada; Shinso lava a Izuku; Látigo Negro desbordado. Aizawa: "No llego." Un látigo va hacia Uraraka.
+T1100 · BnHA · Campo Gamma · Teletransporte; atrapa con la mano el látigo que iba hacia Uraraka. Uraraka: "¡Es Deku! ¡Tengo que llegar hasta él!"

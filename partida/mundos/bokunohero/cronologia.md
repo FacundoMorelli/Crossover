@@ -27,3 +27,4 @@
 - Diciembre 10:50 · (T1096) Facundo, consultor de seguridad externo de la U.A. (Nezu). Visita la sala de monitoreo del entrenamiento conjunto.
 - Diciembre 11:00 · (T1098) Empieza el quinto combate del entrenamiento conjunto (canon: Izuku despierta Látigo Negro sin control).
 - Diciembre 11:12 · (T1099) Quinto combate: Izuku despierta el Látigo Negro sin control (canon, cap. 211). Vlad King detiene el combate.
+- Diciembre 11:13 · (T1100) CAMBIO: Facundo se teletransporta al Campo Gamma y frena con la mano un látigo de Izuku que iba hacia Uraraka.
