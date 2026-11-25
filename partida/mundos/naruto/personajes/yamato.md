@@ -20,3 +20,5 @@ QUÉ SABE DE FACUNDO (T1306): lo vio en persona: pelo blanco y azul, heterocrom�
 RELACIÓN CON FACUNDO: desconfianza cortés.
 - T1307 · Facundo se presenta: "Facundo Morelli, viajero", y pregunta quién los atacó. Yamato: "Akatsuki... Su líder se hacía llamar Pain." Nota la ropa sin barro; le parece raro que no se haya enterado. Insiste en por dónde entró (del norte no hay camino, había barrera).
 QUÉ SABE DE FACUNDO (T1307): nombre (Facundo Morelli), dice ser viajero; no se enteró del ataque (raro); no dijo por dónde entró.
+- T1308 · Facundo: "Me teletransporté." Yamato prepara raíces de Mokuton bajo sus pies (sin salir). "Ninjutsu espacio-tiempo. En toda mi vida vi a dos personas hacer eso. Uno fue el Cuarto Hokage... El otro usa una máscara naranja y anda con Akatsuki." "No te estoy acusando de nada." "Te voy a pedir que me acompañes... Hay alguien con quien vas a tener que hablar." Ordena con dos dedos a dos chūnin quedarse quietos.
+QUÉ SABE DE FACUNDO (T1308): Facundo dice que llegó teletransportándose (no lo vio).

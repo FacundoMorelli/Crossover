@@ -3,112 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1305)
-
-esta bien, nos vemos kiato, me voy a un nuevo mundo
-
-## RESPUESTA 1 (T1305)
-
-> esta bien, nos vemos kiato, me voy a un nuevo mundo
-
-> —Está bien. Nos vemos, Kiato. Me voy a un nuevo mundo.
-
-Kiato afloja los brazos de a poco, como si le costara. Levanta la cara. Tiene los ojos rojos, pero no llora.
-
-—No sé qué es un nuevo mundo —dice—. Pero cuando vuelvas, voy a bailar para ti. Bien. No como en el templo.
-
-Se aparta un paso y se queda al lado de su hermana. Kahono le pone una mano en el hombro.
-
-Kase se estira sobre tu cuello y bosteza, aburrido de tanta despedida.
-
-Levantas la mano. El aire del claro se abre en una línea de luz vertical que se ensancha hasta tener el alto de una puerta. Del otro lado no se ve nada.
-
-—¡¿Otra vez esa puerta?! —grita Asta.
-
-Yami suelta el humo hacia la luna y no dice nada. Mereoleona, desde el fondo del cráter, levanta un puño.
-
-Cruzas.
-
-Oscuridad. Ni arriba ni abajo, ni frío ni calor. Una ventana se abre en la nada.
-
-[Destino fijado.]
-
-Lo primero que llega es el olor: tierra mojada, madera astillada, savia fresca, como un aserradero gigante después de la lluvia.
-
-Abres los ojos entre árboles altos. Están partidos y torcidos, todos inclinados hacia el mismo lado, como si una mano enorme los hubiera empujado desde un mismo punto. El suelo está lleno de ramas y de hojas arrancadas. Un pájaro canta en algún lado, solo.
-
-Kase baja la cabeza y olfatea el aire, con las orejas para adelante.
-
-Unos pasos más allá, el bosque se termina de golpe en un borde de tierra cortada. Abajo hay un cráter. Es enorme, casi perfectamente redondo, de varios kilómetros, y en el fondo no queda nada en pie: piedras, vigas, tejas rotas. Parece que en ese lugar hubo una ciudad entera hasta hace muy poco.
-
-Del otro lado del cráter, tallados en la pared de un acantilado, hay cinco rostros de piedra gigantes. Están intactos, mirando sobre la nada.
-
-En el borde del cráter hay carpas blancas, decenas, con una hoja dibujada en la tela. Se ve gente cargando escombros y gente haciendo fila para la comida. Un hombre con una banda de metal en la frente junta las manos, y del suelo brotan vigas de madera que crecen, se trenzan y se levantan solas hasta formar una casa de dos pisos en segundos. La gente que mira aplaude.
-
-Un grupo de chicos corre entre las carpas gritando un nombre, una y otra vez.
-
-—¡Naruto! ¡Naruto! ¡Naruto!
-
-[Mundo nuevo registrado.]
-
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Naruto                                ║
-║ Kekkei Genkai: Venas del Dragón (Ryūmyaku)   ║
-║ Tus tatuajes de dragón despiertan como       ║
-║ dragones de chakra. Muerden y devoran        ║
-║ cualquier técnica o chakra ajeno y te lo     ║
-║ devuelven como tuyo, o lo escupen de vuelta. ║
-║ Dos dragones (brazos) · nivel jōnin          ║
-║ Maestría 30                                  ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Naruto                                ║
-║                                              ║
-║ MISIÓN: Que Neji Hyūga siga vivo cuando      ║
-║ termine la Cuarta Gran Guerra Ninja.         ║
-║ RECOMPENSA: 20.000 EXP · 500 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Mokuton (Estilo Madera)                      ║
-║ USUARIO: Yamato · Naruto                     ║
-║                                              ║
-║ MISIÓN: Que Yamato construya con su Mokuton  ║
-║ una casa para ti.                            ║
-║ DIFICULTAD: BAJA                             ║
-╚══════════════════════════════════════════════╝
-
-Los tatuajes de tus brazos laten una vez bajo la piel, tibios, como si algo se hubiera despertado y se volviera a dormir.
-
-Abajo, los chicos siguen gritando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1305 · NARUTO · DÍA 1 · 07:40          ║
-║ Konoha · bosque sobre el cráter (norte)      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1306)
+## COMANDO 1 (T1306)
 
 me acerco al que creo la casa, perdon, me podrias decir donde estoy?
 
-## RESPUESTA 2 (T1306)
+## RESPUESTA 1 (T1306)
 
 > me acerco al que creo la casa, perdon, me podrias decir donde estoy?
 
@@ -162,11 +61,11 @@ Sus ojos se quedan fijos en los tuyos.
 
 ---
 
-## COMANDO 3 (T1307)
+## COMANDO 2 (T1307)
 
 me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
 
-## RESPUESTA 3 (T1307)
+## RESPUESTA 2 (T1307)
 
 > me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
 
@@ -205,4 +104,47 @@ Un chico de unos ocho años se acerca corriendo con un cuenco de sopa, se frena 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 07:54, borde norte del cráter. Facundo se presentó ("viajero") y preguntó quién atacó. Yamato: Akatsuki, su líder Pain. Le parece raro que un viajero no se haya enterado. Insiste: ¿por dónde entraste? (del norte no hay camino; había barrera). Facundo tiene que contestar.
+## COMANDO 3 (T1308)
+
+me teletransporte
+
+## RESPUESTA 3 (T1308)
+
+> me teletransporte
+
+> —Me teletransporté.
+
+Yamato no se mueve. Durante un segundo, no pasa nada.
+
+Después, sin que cambie la cara, el suelo bajo tus botas se pone tenso. Lo sientes antes de verlo: raíces finas, debajo de la tierra, que se acomodan alrededor de tus pies sin salir a la superficie. Listas.
+
+—Ninjutsu espacio-tiempo —dice, despacio—. En toda mi vida vi a dos personas hacer eso. Uno fue el Cuarto Hokage, y está muerto. El otro usa una máscara naranja y anda con Akatsuki.
+
+Mira a Kase. Mira tu frente vacía. Mira el cráter.
+
+—Y apareces a los dos días de que Akatsuki borrara la aldea, en el único lado donde no hay nadie vigilando. —Suspira por la nariz, como alguien que no durmió en dos días—. No te estoy acusando de nada. Si fueras uno de ellos, supongo que no te habrías acercado a preguntarme dónde estás.
+
+A unos metros, dos ninjas con chaleco verde que cargaban tablas se quedan quietos. Uno mira a Yamato. Yamato levanta dos dedos de la mano izquierda, sin girarse, y los dos dejan las tablas en el suelo y se quedan donde están.
+
+—Pero tampoco te puedo dejar caminar por aquí como si nada. —Vuelve a mirarte a los ojos—. Te voy a pedir que me acompañes. Tranquilo, sin vueltas. Hay alguien con quien vas a tener que hablar.
+
+Las raíces bajo tus pies siguen quietas. Esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1308 · NARUTO · DÍA 1 · 07:55          ║
+║ Konoha · borde norte del cráter, carpas      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 07:55, borde norte del cráter. Facundo dijo que se teletransportó. Yamato: ninjutsu espacio-tiempo (solo lo vio en el Cuarto y en el enmascarado de Akatsuki). Raíces de Mokuton listas bajo los pies de Facundo. Dos chūnin quietos a la orden de Yamato. Yamato le pide que lo acompañe a hablar con alguien. Facundo tiene que decidir.
