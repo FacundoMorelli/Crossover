@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1197)
-me llamo Facundo Morelli
-
-## RESPUESTA 1 (T1197)
-
-> —Me llamo Facundo Morelli.
-
-Yomo no se mueve.
-
-Te mira un rato largo, con esos ojos chicos y quietos que no dicen nada. Inspira una vez por la nariz, despacio, sin disimular. Hueles a humano y lo sabe. Mira a Kase. Mira tus manos.
-
-—Eso es un nombre —dice al final—. No es lo que pregunté.
-
-Pero no insiste. Gira la cabeza hacia Yoshimura, que salió de la cámara del fondo con las manos vacías y se quedó en el pasillo, entre la cocina y el salón.
-
-—La vieja lo está gritando en el andén —le dice. Es lo más largo que habló hasta ahora—. En el andén. Con gente pasando. Si alguien de la CCG que viaja de civil la escuchó, esta tarde ya está en un informe.
-
-Yoshimura asiente despacio.
-
-—Lo sé, Yomo-kun.
-
-—¿Lo sabes?
-
-—Nadie les pidió silencio. Fue mi decisión. —Se quita los lentes y los dobla—. Hoy nueve personas comieron pan por primera vez en su vida. No iba a pedirles que se callaran.
-
-Yomo lo mira. Algo se mueve en su cara: no llega a ser una expresión, apenas una sombra.
-
-Después mira a Kaneki, que sigue en la cocina con el repasador apretado en el puño, la camisa blanca prestada, el pelo blanco limpio. Lo mira de arriba abajo, como si contara cuántas partes le faltan y se sorprendiera de que estén todas.
-
-—Volviste —le dice.
-
-Kaneki traga saliva y asiente.
-
-Yomo vuelve a mirarte a ti. Se agacha, levanta la bolsa del supermercado del piso y la deja sobre la mesada de la cocina, sin apuro. Adentro se ven paquetes envueltos en papel marrón, como los de la cámara.
-
-—Kaneki —dice, sin dejar de mirarte—. A él también le quitó el hambre.
-
-No es una pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1197 · TOKYO GHOUL · MEDIODÍA · 12:42  ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la puerta de la cocina              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: entrenar a Kaneki (Distrito 24)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1198)
+## COMANDO 1 (T1198)
 asi es
 
-## RESPUESTA 2 (T1198)
+## RESPUESTA 1 (T1198)
 
 > —Así es.
 
@@ -117,10 +60,10 @@ Después te mira a la cara.
 
 ---
 
-## COMANDO 3 (T1199)
+## COMANDO 2 (T1199)
 si
 
-## RESPUESTA 3 (T1199)
+## RESPUESTA 2 (T1199)
 
 > —Sí.
 
@@ -168,7 +111,68 @@ Deja la bandeja sobre la mesada con un golpe seco.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1200)
+bueno, pongan una mano encima mio. me teletransporto a donde me dijo kaneki
+
+## RESPUESTA 3 (T1200)
+
+> —Bueno, pongan una mano encima mío.
+
+Touka te mira como si le hubieras pedido algo indecente.
+
+Kaneki no duda. Te apoya la mano en el hombro, el que no tiene a Kase, porque ya lo vio anoche en el acantilado. Yomo mira la mano de Kaneki, después te mira a ti, y apoya la suya en tu otro brazo, sin una palabra, firme, como quien se agarra de una baranda.
+
+Touka chasquea la lengua.
+
+—Si esto es una broma... —Te agarra la manga del sobretodo con dos dedos, lo mínimo indispensable.
+
+Kase se acomoda en tu cuello y te envuelve con la cola.
+
+Buscas abajo. Más abajo que las cloacas, más abajo que los cimientos de los edificios y que los túneles del tren. Ahí está: un hueco enorme debajo de la ciudad, frío y vacío, kilómetros de aire quieto que no se mueve desde hace años. Unas pocas presencias lejanas, dispersas, dormidas en los rincones. Nadie cerca.
+
+Te mueves.
+
+La cocina de Anteiku desaparece.
+
+Oscuridad. Frío. Un olor a piedra húmeda, a polvo viejo y a hierro oxidado. El eco de una gota que cae, muy lejos, y tarda en terminar de sonar.
+
+Enciendes un poco de luz en la palma de la mano. Una llama chica, blanca y quieta.
+
+Están en el borde de una galería tan grande que la luz no llega al techo. Columnas de concreto gruesas como edificios se pierden hacia arriba, en lo negro. El piso es de piedra, liso en algunas partes y roto en otras, con charcos que reflejan la llama. A lo lejos, a un costado, hay una estructura vieja medio derrumbada que parece una escalera que no lleva a ningún lado. Más allá, el vacío.
+
+Touka te suelta la manga de golpe, como si quemara.
+
+—¿Qué...? —Mira alrededor. La voz le rebota en la piedra y vuelve dos veces—. ¿Qué fue eso?
+
+Kaneki suelta el aire despacio. Ya lo había vivido una vez.
+
+Yomo no dice nada. Te suelta el brazo, da tres pasos hacia adelante, se agacha y pasa los dedos por el polvo del suelo. Los huele. Levanta la vista hacia las columnas y después hacia la oscuridad de la galería, girando la cabeza despacio, como si leyera un mapa en la nada.
+
+—Es el 24 —dice al final—. Un nivel más abajo que donde lo traía yo.
+
+Se levanta. Se limpia los dedos en el pantalón y te mira por encima del hombro.
+
+—Nos ahorraste una hora.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1200 · TOKYO GHOUL · TARDE · 12:48     ║
+║ Distrito 24 · galería subterránea            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki y a Touka        ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 12:47, cocina de Anteiku. Por salir al Distrito 24 (entrada bajo el Distrito 14). Touka exige que también la entrene. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 12:48, galería del Distrito 24. Llegaron Facundo, Kaneki, Touka, Yomo y Kase. Listos para entrenar. Facundo puede actuar.

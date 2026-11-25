@@ -1198,3 +1198,4 @@ T1196 · TG · Anteiku (simulación 08:01-12:41) · Mañana en el café. Transfi
 T1197 · TG · Anteiku · "Me llamo Facundo Morelli." Yomo teme el informe de la CCG. Yoshimura: "Fue mi decisión." Yomo: "A él también le quitó el hambre."
 T1198 · TG · Anteiku · "Así es." Yomo: "¿Touka?" "Gracias." Kaneki le cuenta del entrenamiento. Yomo: "¿Puedo mirar?"
 T1199 · TG · Anteiku · Yomo irá a mirar. Entrada bajo el Distrito 14. Touka: "Yo también voy. Me entrenas a mí también."
+T1200 · TG · Distrito 24 · Teletransporte con Kaneki, Touka y Yomo a una galería subterránea. Yomo: "Nos ahorraste una hora."

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1200 · "Si esto es una broma..." "¿Qué...? ¿Qué fue eso?"
 - T1199 · "Yo también voy." "No te pregunté. Dije que mi kagune se queda donde está hasta que pase lo del Búho. Entonces que sirva para algo. Si vas a entrenar a este idiota, me entrenas a mí también."
 - T1191 · "Ya quiere." "Me debes un pan."
 - T1190 · "¡Oye!" (Nishiki le roba el pan)
@@ -26,5 +27,5 @@ DIÁLOGOS CLAVE:
 - T1171 · "Buenos días." "Este idiota se va sin decir nada... y vuelve con un humano que tiene kagune." "Yo vengo comiendo esa basura de los humanos desde que tengo memoria para que nadie en la escuela se dé cuenta. Y después la vomito en el baño." "¿Qué le hiciste a Kaneki? Exactamente."
 - T1170 · "¡¿Que hizo qué?!" "¿Tú eres el viajero?"
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (lo oyó T1176). Por Yoshimura (mañana T1170): humano con kagune; quitó el hambre a Kaneki con la mano, y a Banjou y sus amigos.
-QUÉ PODERES DE FACUNDO VIO: Katana (Sakaime) sacada de la nada en la calle (T1180). Transfiguración Ociosa sobre ella (T1174; lo sintió, no sabe qué es).
+QUÉ PODERES DE FACUNDO VIO: Teletransporte y llama blanca en la palma (T1200). Katana (Sakaime) sacada de la nada en la calle (T1180). Transfiguración Ociosa sobre ella (T1174; lo sintió, no sabe qué es).
 ESTADO: SIN HAMBRE DE GHOUL (T1174). Salió del baño con los ojos rojos; limpia una mesa limpia de espaldas (T1176).

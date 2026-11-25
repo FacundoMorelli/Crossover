@@ -75,3 +75,4 @@
 - Yomo · T1198 · confirmado por Facundo: Kaneki transfigurado. Por Yoshimura: Touka también. Por Kaneki: Facundo lo entrenará esta tarde en el Distrito 24.
 - Facundo · T1199 · por Yomo: entrada al Distrito 24 bajo el Distrito 14 (desagüe viejo detrás de una obra abandonada; 40 min de tren + 15 a pie).
 - Touka · T1199 · escuchó tras la cortina lo del entrenamiento en el Distrito 24.
+- Touka, Yomo · T1200 · vivieron el teletransporte de Facundo (de la cocina de Anteiku al Distrito 24). Vieron una llama blanca en su palma.
