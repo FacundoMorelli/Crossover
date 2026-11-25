@@ -11,4 +11,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: quinto combate: Látigo Negro de Izuku descontrolado (T1099).
+ESTADO: inconsciente (lavado por Shinso), flotando en brazos de Uraraka; Látigo Negro retraído (T1101).

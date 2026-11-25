@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1099-T1100 · Quinto combate; golpeado contra una pared por el Látigo Negro; ve a Facundo atrapar un látigo.
 DIÁLOGOS CLAVE:
+- T1101 · "Midoriya. Escúchame. Respóndeme." (lo lava y lo detiene)
 QUÉ SABE DE FACUNDO: lo vio aparecer y atrapar un látigo (T1100).
 QUÉ PODERES DE FACUNDO VIO: teletransporte; fuerza.
 ESTADO: herido leve (frente), consciente, en el Campo Gamma.

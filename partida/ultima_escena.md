@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1098)
-me teletransporto detrás de él
-
-## RESPUESTA 1 (T1098)
-
-> me teletransporto detrás de él
-
-Aizawa te está mirando. Fijo. Los ojos rojos, sin parpadear, el pelo flotando.
-
-Y de golpe no estás.
-
-Estás detrás de él. A medio metro de su espalda, en la sala oscura, con el resplandor de las pantallas en la nuca.
-
-Aizawa se queda mirando el lugar vacío donde estabas.
-
-Un segundo. Dos.
-
-El pelo se le cae de golpe sobre los hombros. La bufanda deja de flotar. Los ojos rojos se le apagan. Se da vuelta despacio, muy despacio, y te encuentra a sus espaldas, con el gato en el hombro, mirándolo.
-
-No dice nada.
-
-Vlad King tiene la boca abierta. All Might, en la puerta, se tapa la boca con una mano huesuda.
-
-—Te estaba mirando —dice Aizawa, al fin. La voz le sale baja, plana, muy controlada—. No parpadeé. Lo sé porque me arden los ojos.
-
-Se frota un ojo con el dorso de la mano. Te mira otra vez.
-
-—Mi Don borra cualquier Don. Cualquiera. Lo usé contra villanos que regeneran, que se transforman, que mueven montañas. A todos los apagué. —Se le tensa la mandíbula—. A ti no te apagué nada. No sentí nada. Como si mirara una pared.
-
-—Shota... —empieza All Might.
-
-—Eso no es un Don. —Aizawa no aparta la vista de ti—. O es un Don que no se parece a ninguno que haya visto. Y vi muchos.
-
-Se queda callado un momento largo. Se acomoda la bufanda en el cuello, despacio.
-
-—Bueno. —Suspira—. Eso significa que, si algún día pierdes el control, o te vuelves en contra nuestro, no hay nadie en esta escuela que pueda pararte. —Te mira, cansado—. Ni yo.
-
-Vuelve a su silla. Se sienta. Agarra el jugo de la consola.
-
-—Y también significa que, si alguien viene a lastimar a mis alumnos, nadie va a poder pararte a ti. —Sorbe por la pajita—. Eso último me gusta un poco más.
-
-En una de las pantallas suena un timbre. Una voz grabada anuncia por los parlantes del Campo Gamma: "Quinto combate. Equipos en posición."
-
-En la pantalla grande aparece un chico bajito, de pelo verde oscuro despeinado y pecas, con un traje verde y unos guantes blancos. Al lado, una chica de pelo castaño corto y mejillas redondas. Del otro lado del laberinto, un muchacho rubio de sonrisa arrogante se ríe solo, frente a la cámara.
-
-Lo sientes desde aquí, a través de las paredes: la presencia enorme e inestable de antes. Es la del chico de pelo verde. Y ahora está temblando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1098 · BOKU NO HERO · DIC. · 11:00     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger la U.A.                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1099)
+## COMANDO 1 (T1099)
 observo el combate
 
-## RESPUESTA 2 (T1099)
+## RESPUESTA 1 (T1099)
 
 > observo el combate
 
@@ -141,10 +76,10 @@ En la pantalla, uno de los látigos negros se estira hacia la chica de mejillas 
 
 ---
 
-## COMANDO 3 (T1100)
+## COMANDO 2 (T1100)
 me teletransporto y protejo a Uraraka
 
-## RESPUESTA 3 (T1100)
+## RESPUESTA 2 (T1100)
 
 > me teletransporto y protejo a Uraraka
 
@@ -198,4 +133,67 @@ La chica de mejillas redondas reacciona primero. Se pasa la mano por la cara, se
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:13, Campo Gamma. Facundo atrapó con la mano el látigo que iba hacia Uraraka; más látigos se giran hacia él. Uraraka le pide que no lastime a Deku y quiere llegar hasta él para hacerlo flotar. Facundo puede actuar.
+## COMANDO 3 (T1101)
+sujeto los látigos y la llevo hasta Deku
+
+## RESPUESTA 3 (T1101)
+
+> sujeto los látigos y la llevo hasta Deku
+
+Tu ojo azul se enciende.
+
+El aire alrededor del nudo de látigos se pone pesado, de golpe, como si el cielo entero se hubiera apoyado encima. Los cinco látigos que se tensaban hacia ti caen al suelo como si les hubieran atado plomo y se quedan pegados a la nieve, retorciéndose, sin poder levantarse. Los demás, los que sacudían al chico de pelo verde de un lado a otro, se aplastan contra las tuberías. Una escarcha fina se forma sobre ellos, crujiendo.
+
+El nudo se detiene.
+
+Agarras a la chica de mejillas redondas del brazo, sin soltar el látigo de la otra mano, y en dos pasos estás con ella al lado del chico.
+
+Está colgado a un metro del suelo, sostenido por sus propios látigos aplastados. Tiene los ojos abiertos y vacíos, la cara pálida, sudada, las venas de los brazos marcadas de verde y negro. Respira a tirones.
+
+La chica no duda. Le pone las dos manos en la cara. Las yemas de los dedos se le iluminan de rosa.
+
+—¡Deku! —grita—. ¡Deku, soy yo!
+
+El chico flota. El peso se le va del cuerpo. Los látigos que lo sostenían pierden de dónde agarrarse y quedan colgando de sus brazos, flojos, pegados al suelo por tu gravedad.
+
+Contra la pared, el muchacho de pelo violeta se arranca la máscara metálica de la boca. Tose. Levanta la voz, ronca, sin la máscara.
+
+—Midoriya. —Lo dice firme, directo—. Escúchame. Respóndeme.
+
+—¿Shin...? —murmura el chico de pelo verde, con la boca casi cerrada.
+
+El brillo de los ojos se le apaga del todo. Se queda quieto. Lavado.
+
+Y los látigos negros se encogen.
+
+Despacio, todos a la vez, como una marea que baja. Se le meten otra vez adentro de los brazos, de los hombros, de la espalda, hasta que no queda ninguno. El látigo que tenías en el puño se te escapa entre los dedos como humo y desaparece dentro del antebrazo del chico.
+
+Apagas el ojo azul. El aire vuelve a pesar lo normal. La escarcha se derrite sobre las tuberías.
+
+El chico de pelo verde flota, inconsciente, en los brazos de la chica de mejillas redondas, que lo abraza del cuello, llorando, y no lo suelta.
+
+Detrás de ustedes, por encima del laberinto de tuberías, se escuchan pasos que corren sobre el acero. Muchos. Desde varios lados a la vez.
+
+La primera en aparecer, saltando desde una tubería alta, es una chica de piel rosada y cuernos amarillos. Se frena en seco al verte.
+
+—¡Uraraka! ¡¿Está bien Midoriya?! —Te mira a ti, con los ojos negros enormes—. ¡¿Y TÚ QUIÉN ERES?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1101 · BOKU NO HERO · DIC. · 11:14     ║
+║ U.A. · Campo Gamma                           ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger a los alumnos             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:14, Campo Gamma. Facundo sujetó los látigos con la gravedad; Uraraka hizo flotar a Izuku y Shinso lo lavó: los látigos se retrajeron. Izuku inconsciente en brazos de Uraraka. Llega Ashido: "¡¿Y TÚ QUIÉN ERES?!" Facundo puede responder.

@@ -28,3 +28,4 @@
 - Diciembre 11:00 · (T1098) Empieza el quinto combate del entrenamiento conjunto (canon: Izuku despierta Látigo Negro sin control).
 - Diciembre 11:12 · (T1099) Quinto combate: Izuku despierta el Látigo Negro sin control (canon, cap. 211). Vlad King detiene el combate.
 - Diciembre 11:13 · (T1100) CAMBIO: Facundo se teletransporta al Campo Gamma y frena con la mano un látigo de Izuku que iba hacia Uraraka.
+- Diciembre 11:14 · (T1101) Facundo frena con la gravedad el Látigo Negro; Uraraka hace flotar a Izuku y Shinso lo lava (canon con Facundo). Izuku inconsciente (canon: dentro de One For All conoce a Daigoro Banjo).

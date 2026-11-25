@@ -29,3 +29,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Aizawa, Vlad King, All Might · T1098 · vieron a Facundo teletransportarse detrás de Aizawa mientras Aizawa usaba Borrar sobre él: Borrar no le hizo nada. Aizawa: "Eso no es un Don, o es uno que no se parece a ninguno."
 - Uraraka, Shinso (y los alumnos cercanos del quinto combate) · T1100 · un desconocido de pelo blanco y azul con un gato apareció de la nada en el Campo Gamma y atrapó con la mano un látigo negro de Izuku sin moverse.
 - Aizawa, Vlad King, All Might (y las cámaras del Campo Gamma) · T1100 · lo vieron desaparecer de la sala de monitoreo y aparecer en el Campo Gamma (grabado).
+- Uraraka, Shinso, Ashido y los alumnos del quinto combate (y las cámaras/profesores) · T1101 · vieron el ojo azul de Facundo encenderse: los látigos cayeron como de plomo, con escarcha. Lo interpretan como un Don de gravedad y hielo.
