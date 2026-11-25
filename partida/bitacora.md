@@ -1313,3 +1313,4 @@ T1311 · NARUTO · Carpa de mando · Explica la semilla del ermitaño. Kakashi s
 T1312 · NARUTO · Carpa de mando · Da 44 semillas. Yamato lleva 43 a la carpa médica del este. Kakashi guarda 1 para Tsunade (la Hokage, en coma): "Quiero que vengas conmigo cuando se la dé. ¿Vienes?"
 T1313 · NARUTO · Carpa de la colina · Acompaña a Kakashi. Shizune duda; Kakashi le da la semilla molida a Tsunade. Tsunade DESPIERTA: "¿Dónde está Naruto?" "¿Y tú quién demonios eres?"
 T1314 · NARUTO · Carpa de la colina · Se presenta a Tsunade. Shizune la abraza. Kakashi resume (Pain vencido, muertos revividos, Danzō Hokage). Tsunade parte el piso: "¡¿DANZŌ?!" Se siente de veinte años. "Tú. ¿Qué me diste?"
+T1315 · NARUTO · Carpa de la colina · "Se llama semilla del ermitaño." Tsunade prueba el resto y se revisa: "Esto no es medicina." Kakashi: fueron 44. Tsunade: "En cincuenta años no conocí a nadie que regalara algo así sin querer algo a cambio. ¿Qué quieres?"

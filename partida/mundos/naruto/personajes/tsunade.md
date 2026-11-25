@@ -16,3 +16,5 @@ TASACIÓN (T1313): ninjutsu médico, fuerza monstruosa, Byakugō, Katsuyu; amena
 ESTADO: despierta (T1313), recuperada.
 - T1314 · Facundo se presenta ("viajero"). Shizune la abraza. Kakashi le cuenta todo, incluido que el Señor Feudal nombró a Danzō. Golpea el piso (grieta hasta los pies de Facundo). Se para en camisón. "¡¿Ese viejo podrido?! ¡¿Mientras yo dormía?!" "¡Me siento como si tuviera veinte años!" "...¿Por qué me siento así?" A Facundo: "Tú. ¿Qué me diste?"
 QUÉ SABE DE FACUNDO (T1314): nombre, dice ser viajero (por él). Por el gesto de Kakashi: que él tiene que ver con su recuperación.
+- T1315 · Prueba el resto de la semilla y se revisa con chakra médico: canales sin daño, chakra lleno "como si nunca lo hubiera gastado". "Esto no es medicina. Ninguna medicina hace esto." Sabe por Kakashi que fueron 44. "Le das a mi aldea, sin pedir nada, algo que vale más que todo el oro del País del Fuego." "En cincuenta años no conocí a nadie que regalara algo así sin querer algo a cambio. ¿Qué quieres?"
+QUÉ SABE DE FACUNDO (T1315): por Facundo: la semilla se llama semilla del ermitaño. Por Kakashi: dio 44.

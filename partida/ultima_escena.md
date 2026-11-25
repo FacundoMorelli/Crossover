@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1312)
-
-saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
-
-## RESPUESTA 1 (T1312)
-
-> saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
-
-> —Aquí tienen cuarenta y cuatro. Una más para la médica que dicen que no despierta.
-
-Sacas del sobretodo una bolsita de tela y se la pones a Kakashi en la mano. Pesa poco. Adentro suenan las semillas como porotos secos.
-
-Kakashi abre la bolsa y mira adentro. No cuenta: con el Sharingan tapado igual se nota que no le hace falta. Las mira un segundo de más.
-
-—Cuarenta y cuatro —dice, muy bajo.
-
-Yamato se acerca y mira también. No dice nada. Se le mueve la nuez de la garganta.
-
-Kakashi saca una semilla y la aparta en el puño. Le pasa la bolsa a Yamato.
-
-—Cuarenta y tres. La carpa del este. Una por cabeza, empieza por los que están peor. Que los médicos no pregunten, que las den y ya. —Hace una pausa—. Y una para cada médico, si sobra alguna después. Que ellos también se están muriendo de pie.
-
-—Senpai, no sabemos...
-
-—Yo sí. —Se toca la pierna—. Ve.
-
-Yamato duda un segundo. Te mira. Después hace una reverencia corta, de cabeza, rápida, y sale de la carpa casi corriendo con la bolsa apretada contra el pecho.
-
-Kakashi se queda con la última semilla en el puño cerrado.
-
-—La médica que no despierta es la Hokage —dice—. Tsunade-sama. Curó a toda la aldea a la vez mientras nos atacaban, a través de una babosa gigante, y se quedó sin nada. Desde entonces no abre los ojos.
-
-Te mira. El ojo ya no se le arruga.
-
-—Esto no se lo regala nadie a nadie. Ni siquiera un viajero. —Se guarda el puño en el bolsillo del chaleco—. Está en la carpa de la colina. Quiero que vengas conmigo cuando se la dé. ¿Vienes?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1312 · NARUTO · DÍA 1 · 08:12          ║
-║ Konoha · campamento · carpa de mando         ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1313)
+## COMANDO 1 (T1313)
 
 esta bien
 
-## RESPUESTA 2 (T1313)
+## RESPUESTA 1 (T1313)
 
 > esta bien
 
@@ -141,11 +88,11 @@ Entrecierra los ojos.
 
 ---
 
-## COMANDO 3 (T1314)
+## COMANDO 2 (T1314)
 
 mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
 
-## RESPUESTA 3 (T1314)
+## RESPUESTA 2 (T1314)
 
 > mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
 
@@ -196,4 +143,51 @@ Tsunade se da vuelta despacio hacia ti. Te mira de arriba abajo, el pelo, los oj
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:23, carpa de la colina. Facundo se presentó. Shizune abraza a Tsunade llorando. Kakashi le resume: Naruto venció a Pain, muertos revividos, aldea destruida, Danzō nombrado Hokage por el Señor Feudal. Tsunade parte el piso de un puñetazo, se para ("me siento como si tuviera veinte años"). Kakashi señala a Facundo. Tsunade: "Tú. ¿Qué me diste?" Facundo tiene que contestar.
+## COMANDO 3 (T1315)
+
+se llama semilla del hermitaño
+
+## RESPUESTA 3 (T1315)
+
+> se llama semilla del hermitaño
+
+> —Se llama semilla del ermitaño.
+
+—Semilla del ermitaño —repite Tsunade.
+
+Se agacha, todavía descalza, y recoge del suelo el cuenco donde Kakashi molió la semilla. Queda un resto verde pálido pegado en el fondo. Lo toca con la punta del dedo, se lo lleva a la lengua, lo prueba como quien prueba un veneno. Cierra los ojos un segundo.
+
+Las manos se le encienden de verde, un verde suave, de chakra médico, y se las pasa por el propio pecho, por el estómago, por la cabeza. Revisándose por dentro.
+
+—No hay daño en los canales de chakra —murmura—. Ninguno. Tendría que tenerlos destrozados. Y el chakra está lleno, completo, no como cuando te recuperas: como si nunca lo hubiera gastado. —Abre los ojos—. Esto no es medicina. Ninguna medicina hace esto.
+
+—Le dio cuarenta y cuatro —dice Kakashi—. Una era para usted. Las otras cuarenta y tres están en la carpa del este, con Yamato.
+
+Shizune se tapa la boca con las dos manos.
+
+Tsunade se queda inmóvil, con el cuenco en la mano, y te mira de nuevo. Esta vez es otra mirada. No la de una mujer que se despierta y encuentra a un desconocido en su cuarto. Es la de alguien que hizo la cuenta de cuántas vidas son cuarenta y cuatro semillas, y de cuántas más serían en una guerra.
+
+—Llegas el día después de que nos borran del mapa —dice, despacio—. Te metes en la carpa de la Hokage. Le das a mi aldea, sin pedir nada, algo que vale más que todo el oro del País del Fuego.
+
+Deja el cuenco en el suelo. Se cruza de brazos. A pesar del camisón y los pies descalzos, ahora sí parece la Hokage.
+
+—En cincuenta años no conocí a nadie que regalara algo así sin querer algo a cambio. —Levanta una ceja—. Así que dímelo de frente, Facundo Morelli. ¿Qué quieres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1315 · NARUTO · DÍA 1 · 08:25          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:25, carpa de la colina. Tsunade probó el resto de la semilla y se revisó con chakra médico: canales intactos, chakra lleno; "esto no es medicina". Kakashi le dijo que fueron 44 (43 en la carpa del este). Tsunade: "¿Qué quieres?" Facundo tiene que contestar.
