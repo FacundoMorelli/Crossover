@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1094)
-soy un viajero, solo vine a ayudar
-
-## RESPUESTA 1 (T1094)
-
-> soy un viajero, solo vine a ayudar
-
-> —Soy un viajero. Solo vine a ayudar.
-
-—Verdad —dice Tsukauchi. Esta vez sin pausa, casi enseguida, como si ya lo esperara.
-
-All Might se queda mirándote un momento largo. Después se ríe, bajito, una risa ronca que le sacude los hombros flacos y termina en una tos. Se limpia la boca con un pañuelo.
-
-—Solo vino a ayudar —repite, divertido—. Sin papeles. Sin nombre en ningún lado. Sin pedir permiso. —Mira a Tsukauchi—. ¿Te acuerdas de lo que decía yo a su edad, Tsukauchi?
-
-—Decías cosas peores —dice Tsukauchi—. Y más fuerte.
-
-All Might guarda el pañuelo. Junta las manos sobre la mesa.
-
-—Mira, joven Morelli. Hay una cosa que yo puedo hacer, y una que no. —Levanta un dedo huesudo—. No puedo borrar lo del banco. Usaste un Don en la calle, sin licencia, y hay dieciséis mil personas que lo vieron. Eso no desaparece. —Levanta otro dedo—. Pero puedo llevarte a alguien que sí sabe qué hacer con los casos imposibles.
-
-Se pone de pie. Le cuesta. Se apoya en la mesa.
-
-—El director de la escuela donde enseño. La U.A. —Se acomoda el traje enorme sobre los hombros—. Se llama Nezu. Es... especial. Le encantan los problemas que no tienen solución. Y tiene contactos en la Comisión que nadie más tiene. Si alguien puede conseguirle un papel a un joven que no existe, es él.
-
-Mira a Tsukauchi.
-
-—Si el detective está de acuerdo, lo llevo bajo mi responsabilidad.
-
-Tsukauchi te mira. Después a All Might. Suspira.
-
-—Bajo tu responsabilidad, Toshinori. Si mañana aparece en el noticiero tirando villanos desde los techos, la culpa es tuya.
-
-—Aceptado.
-
-All Might te tiende la mano, flaca, huesuda, pero firme.
-
-—¿Vienes conmigo a la U.A., joven Morelli?
-
-Kase abre los dos ojos en la silla. Se estira. Lo mira a All Might de arriba abajo, con las pupilas finas como agujas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1094 · BOKU NO HERO · DIC. · 09:50     ║
-║ Musutafu · Comisaría Central, sala de        ║
-║ interrogatorio                               ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la silla, despierto                 ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1095)
+## COMANDO 1 (T1095)
 sí, le doy la mano y voy con él a la U.A.
 
-## RESPUESTA 2 (T1095)
+## RESPUESTA 1 (T1095)
 
 > sí, le doy la mano y voy con él a la U.A.
 
@@ -134,10 +74,10 @@ Te empuja la taza de té por el escritorio.
 
 ---
 
-## COMANDO 3 (T1096)
+## COMANDO 2 (T1096)
 está bien, acepto, protejo la escuela
 
-## RESPUESTA 3 (T1096)
+## RESPUESTA 2 (T1096)
 
 > está bien, acepto, protejo la escuela
 
@@ -201,4 +141,61 @@ Sorbe el jugo por la pajita.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 10:55, sala de monitoreo del Campo Gamma de la U.A. Facundo aceptó ser consultor de seguridad de la U.A. Aizawa, desde su silla, le pide a All Might que le diga que no es un alumno nuevo. Facundo puede actuar.
+## COMANDO 3 (T1097)
+no, soy el consultor de seguridad, me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1097)
+
+> no, soy el consultor de seguridad, me llamo Facundo Morelli
+
+> —No. Soy el consultor de seguridad. Me llamo Facundo Morelli.
+
+Aizawa deja de sorber el jugo.
+
+Se queda quieto un segundo, con la pajita en la boca. Después baja los pies de la consola, muy despacio, y gira la silla hacia ti.
+
+—¿Consultor de seguridad? —Mira a All Might—. ¿Desde cuándo tenemos un consultor de seguridad?
+
+—Desde hace quince minutos —dice All Might, con una sonrisa culpable—. Lo nombró el director.
+
+Aizawa cierra los ojos. Respira hondo por la nariz.
+
+—Por supuesto que lo nombró el director.
+
+—¡Ja! ¡Bienvenido! —El grandote de piel morada te da una palmada en la espalda que haría tambalear a un caballo—. ¡Vlad King, profesor de la clase 1-B! ¡Si vas a proteger esta escuela, más vale que sepas que mis chicos son los mejores! ¡Mira, mira cómo pelean! —Señala una pantalla donde una chica de pelo naranja con un puño del tamaño de una puerta aplasta una tubería—. ¡Esa es Kendo!
+
+—Y la 1-B va perdiendo dos a uno —murmura Aizawa.
+
+—¡Uno a uno! ¡El tercero fue empate!
+
+Aizawa lo ignora. Se levanta de la silla. Es más alto de lo que parecía sentado. Camina hasta ti con las manos en los bolsillos, arrastrando los pies, y se para a un metro. Te mira de arriba abajo con los ojos rojos de no dormir.
+
+—Hielo y fuego en los ojos. Teletransporte. Fuerza física desproporcionada. Sin registro. —Lo recita como una lista de compras—. All Might me mandó un mensaje desde la comisaría. —Te mira a los ojos—. Si vas a estar cerca de mis alumnos, quiero saber exactamente qué puedes hacer.
+
+El pelo negro se le levanta solo, de golpe, como si soplara un viento de abajo. Los ojos se le ponen rojos, brillantes, fijos en ti, sin parpadear. La bufanda gris se le afloja en el cuello y empieza a flotar.
+
+—Este es mi Don —dice—. Borrar. Mientras te mire, no puedes usar el tuyo.
+
+No parpadea.
+
+—Ahora, teletranspórtate.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1097 · BOKU NO HERO · DIC. · 10:57     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger la U.A.                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 10:57, sala de monitoreo. Aizawa activó Borrar mirando a Facundo y le pide que se teletransporte (para probar). Facundo puede actuar.

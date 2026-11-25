@@ -23,3 +23,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu · T1095 · por All Might (teléfono): Facundo no existe en registros, tiene al menos tres capacidades, no miente, vino a ayudar. Vio el video del banco (31.000 reproducciones).
 - Nezu, All Might · T1096 · Facundo aceptó proteger la U.A. mientras esté en Japón; figura como consultor de seguridad externo.
 - Aizawa, Vlad King · T1096 · lo ven en persona en la sala de monitoreo; conocen el video del banco (Aizawa: "vigilantismo con treinta mil reproducciones"). Nezu les quiere presentar al nuevo consultor.
+- Aizawa, Vlad King · T1097 · su nombre: Facundo Morelli, consultor de seguridad (nombrado por Nezu). Aizawa sabe por un mensaje de All Might: hielo y fuego en los ojos, teletransporte, fuerza desproporcionada, sin registro.

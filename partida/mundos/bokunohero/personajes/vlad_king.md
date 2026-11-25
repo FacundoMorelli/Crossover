@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1096 · Diciembre 10:55 · Sala de monitoreo del Campo Gamma: All Might trae a Facundo.
 DIÁLOGOS CLAVE:
+- T1097 · "¡Ja! ¡Bienvenido! ¡Vlad King, profesor de la clase 1-B! ¡Mis chicos son los mejores! ¡Esa es Kendo!" "¡Uno a uno! ¡El tercero fue empate!"
 QUÉ SABE DE FACUNDO: el video del banco; lo ve en persona (T1096).
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: En la sala de monitoreo.

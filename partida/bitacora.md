@@ -1095,3 +1095,4 @@ T1093 · BnHA · Comisaría · "Nadie me los dio. Los tengo desde siempre." Tsuk
 T1094 · BnHA · Comisaría · "Solo vine a ayudar." Tsukauchi: "Verdad." All Might: "¿Vienes conmigo a la U.A.?" (Nezu).
 T1095 · BnHA · U.A. · Taxi con All Might; Barrera de la U.A.; entrenamiento conjunto a lo lejos. Nezu: "¡Soy el director!" Propuesta: registro y licencia temporal a cambio de proteger la escuela.
 T1096 · BnHA · U.A. · Acepta: consultor de seguridad externo de la U.A. (licencia temporal en trámite). Sala de monitoreo: Aizawa: "Dígame que no es un alumno nuevo."
+T1097 · BnHA · Sala de monitoreo · "Soy el consultor de seguridad." Vlad King lo recibe. Aizawa activa Borrar: "Ahora, teletranspórtate."
