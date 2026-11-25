@@ -29,3 +29,4 @@ QUÉ SABE DE FACUNDO (T1308): Facundo dice que llegó teletransportándose (no l
 RELACIÓN CON FACUNDO (T1312): de la desconfianza al agradecimiento contenido.
 - T1318 · Carpa médica del este: repartió las 43 semillas (graves curados; dos médicos también). Deduce que la Hokage despertó por una semilla de Facundo. Reverencia larga de cintura. "Gracias. Hace una hora casi te ato al suelo." "¿Qué haces aquí? Pensé que Tsunade-sama no te iba a soltar en todo el día."
 RELACIÓN CON FACUNDO (T1318): agradecido de verdad.
+- T1319 · Casi sonríe: "Típico de ella. Te debe la vida y te manda a cargar piedras." Lo lleva al terreno del borde sur (4 casas para familias con chicos). "El Mokuton no puede crecer sobre escombros. Necesito tierra limpia." Aparta una muñeca de trapo. Instrucciones: palas, pozo de la bandera roja, apartar objetos personales. "¿Necesitas que te explique algo más, o empiezas?"

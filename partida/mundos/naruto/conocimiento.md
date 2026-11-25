@@ -31,3 +31,5 @@
 - Todo el campamento · T1317 · ven/oyen que la Hokage despertó (público).
 - Yamato · T1318 · deduce (sabía que Kakashi guardó una para la "médica que no despierta" + los gritos) que Tsunade despertó por la semilla de Facundo.
 - 43 heridos y 2 médicos de la carpa del este · T1318 · se curaron con "unas semillas" que trajo Yamato. No saben de quién son (Yamato no lo dijo). Vieron a Facundo en la entrada con Yamato.
+- Yamato · T1319 · por Facundo: Tsunade lo mandó a ayudarlo a despejar.
+- Chūnin del terreno sur · T1319 · ven al forastero de pelo blanco y azul con Yamato.
