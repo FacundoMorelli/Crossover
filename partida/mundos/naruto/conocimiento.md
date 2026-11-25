@@ -41,3 +41,6 @@
 - Chūnin y familias de la lista · T1322 · vienen hacia las casas del sur; el rumor de los brazos corre por el campamento.
 - Facundo · T1323 · por Yamato: las carpas grises del oeste del cráter son de Raíz (Danzō).
 - Primeras familias de la lista · T1323 · ven a Facundo junto a Yamato frente a las casas.
+- Neji, Lee, Tenten · T1324 · por el rumor de los chūnin del terreno sur (corrió por el campamento; T1321-1322): un forastero de pelo de dos colores con un gato hizo brotar mil brazos y limpió el terreno sur en diez minutos. Rumor deformado ("mil").
+- Neji · T1324 · lo vio con el Byakugan: chakra mínimo, de civil (Velo).
+- Gai · T1324 · todavía no se fijó en él.

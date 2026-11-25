@@ -1,0 +1,17 @@
+NOMBRE: Neji Hyūga
+AFILIACIÓN: Konoha · Equipo Gai · rama secundaria del clan Hyūga
+RANGO: jōnin
+PODER VISTO POR FACUNDO: Byakugan (T1324)
+EDAD EN ESTE MOMENTO DEL CANON: 17 (menor: nunca opción romántica)
+FÍSICO: Pelo largo oscuro atado bajo la nuca, ojos blancos sin pupila, banda sobre la frente (sello del pájaro enjaulado).
+PERSONALIDAD Y FORMA DE HABLAR: Serio, observador, frío al hablar; habla poco y preciso.
+RELACIÓN CON FACUNDO: lo observa con desconfianza.
+ENCUENTROS:
+- T1324 · Día 1 09:24 · Borde este del cráter, con el Equipo Gai. Mira a Facundo desde que aparece. Lo revisa con el Byakugan: ve chakra mínimo (Velo).
+DIÁLOGOS CLAVE:
+- T1324 · "Ese es el forastero del que hablaban los chūnin. El del pelo de dos colores y el gato." "Tiene el chakra de un vendedor de verduras."
+QUÉ SABE DE FACUNDO: rumor de los chūnin (pelo de dos colores, gato, mil brazos, terreno del sur).
+QUÉ PODERES DE FACUNDO VIO: ninguno (con el Byakugan ve un chakra de civil: Velo).
+TASACIÓN (T1324): Byakugan, Puño Suave, Rotación, 64 Palmas; mínima; x0,01.
+MISIÓN DE MUNDO: que siga vivo al terminar la Cuarta Guerra (canon: muere protegiendo a Naruto y Hinata, cap. ~614).
+ESTADO: activo.

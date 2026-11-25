@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1321)
-
-no tengo clan, soy un viajero
-
-## RESPUESTA 1 (T1321)
-
-> no tengo clan, soy un viajero
-
-> —No tengo clan. Soy un viajero.
-
-Yamato se te queda mirando. Esperas que insista, como insistió con lo del bosque.
-
-No insiste.
-
-—Yo tampoco tengo clan —dice al fin, más bajo—. Este Mokuton no lo heredé de nadie. Me lo pusieron de chico, en un laboratorio, junto a otros sesenta chicos. Fui el único que sobrevivió.
-
-Lo dice sin drama, como quien comenta el clima. Se mira las manos un segundo.
-
-—Así que no voy a ser yo el que le pregunte a alguien de dónde sacó lo que tiene. —Te mira de reojo—. Aunque Tsunade-sama te lo va a preguntar. Y Danzō también, si se entera. Él no va a preguntar tan amable.
-
-Se da vuelta hacia el terreno limpio y junta las manos frente al pecho. Un sello, otro, otro.
-
-—Estilo Madera: ¡Técnica de la Casa de Cuatro Pilares!
-
-La tierra húmeda se abre en cuatro puntos y de cada uno brota un tronco grueso que sube, se ramifica y se curva. Las ramas se aplanan en tablones, los tablones se encastran solos, y en menos de un minuto hay cuatro casas de dos pisos en fila, con ventanas, puertas, techos inclinados y hasta escalones en la entrada. Huele a madera recién cortada.
-
-Los chūnin aplauden, todavía medio atontados. Uno de ellos sale corriendo hacia el campamento, gritando que ya están las casas del sur.
-
-Yamato baja las manos. Respira hondo. Tiene una gota de sudor en la sien, pero sonríe apenas.
-
-—Con tierra limpia, salen solas. —Se da vuelta hacia ti—. Hace dos días que estábamos atrasados con este terreno. Lo hiciste en diez minutos.
-
-Se queda pensando un momento.
-
-—Ahora que lo pienso, viajero. Hay cuatro casas para familias, cientos de carpas y nadie anotó tu nombre en ninguna lista. —Se cruza de brazos—. ¿Dónde vas a dormir tú esta noche?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1321 · NARUTO · DÍA 1 · 09:03          ║
-║ Konoha · borde sur del cráter · 4 casas      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1322)
+## COMANDO 1 (T1322)
 
 en algun arbol o algo de eso
 
-## RESPUESTA 2 (T1322)
+## RESPUESTA 1 (T1322)
 
 > en algun arbol o algo de eso
 
@@ -120,11 +67,11 @@ Yamato no nota nada. Se sacude las manos y mira hacia el campamento, de donde vi
 
 ---
 
-## COMANDO 3 (T1323)
+## COMANDO 2 (T1323)
 
 ehh puedo ir a recorrer mientras?
 
-## RESPUESTA 3 (T1323)
+## RESPUESTA 2 (T1323)
 
 > ehh puedo ir a recorrer mientras?
 
@@ -165,4 +112,88 @@ Yamato se da vuelta hacia ellos y ya no te mira.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:08, borde sur, frente a la casa de Facundo. Yamato le deja recorrer: no meterse en las carpas grises del oeste (Raíz, de Danzō); si Tsunade lo manda a buscar, que lo encuentren rápido. Llegan las primeras familias a las casas. Facundo libre para recorrer.
+## COMANDO 3 (T1324)
+
+salgo a recorrer
+
+## RESPUESTA 3 (T1324)
+
+> salgo a recorrer
+
+Le dejas la casa a Kase un segundo para que la huela, pero no se baja del cuello. Echas a andar.
+
+Rodeas el cráter por el borde, hacia el este. El campamento tiene su propio orden: carpas para dormir en filas, carpas médicas con cruces rojas, una fila de ollas donde unas señoras reparten arroz y ningún ninja se cuela. Hay un tablero de madera clavado en un poste, lleno de papelitos: nombres, flechas, "buscamos a la abuela Haru", "Tomoe y los chicos están en la carpa 31", "gracias a quien encontró al perro".
+
+Pasas junto a la tarima del cartel de GRACIAS, NARUTO. Alguien le agregó abajo, con otra letra y otra pintura: Y A LA HOKAGE.
+
+Más allá, donde el cráter tiene la pendiente más suave, hay un grupo trabajando distinto a los demás.
+
+Un hombre de traje verde ajustado, chaleco de jōnin, cejas tremendas y pelo negro cortado como un tazón, levanta solo una roca del tamaño de una carreta. La tiene sobre la cabeza, con los brazos estirados, y sonríe con todos los dientes.
+
+—¡Cuatrocientas noventa y ocho! ¡Cuatrocientas noventa y nueve! ¡QUINIENTAS! ¡El poder de la juventud no conoce el cansancio!
+
+Al lado, un muchacho vestido exactamente igual, con las mismas cejas y el mismo corte, carga otra roca un poco más chica y llora de emoción.
+
+—¡Gai-sensei! ¡Yo también voy a llegar a quinientas! ¡Y si no llego, daré quinientas vueltas al cráter con las manos!
+
+Una chica con dos rodetes en la cabeza ordena en el suelo, sin levantar la vista, armas recuperadas de entre los escombros: kunai, shuriken, una espada partida.
+
+—Lee, primero deja la roca. Después llora.
+
+Y apoyado en una viga, con los brazos cruzados y el pelo largo y oscuro atado bajo la nuca, hay un muchacho de ojos blancos, sin pupila, que no trabaja. Mira. Te está mirando a ti desde que apareciste por el borde.
+
+╔══════════════════════════════════════════════╗
+║ MAITO GAI                                    ║
+║ Jōnin de Konoha · la Bestia Verde            ║
+║ PODER: Taijutsu, las Ocho Puertas            ║
+║        Internas, Puño Fuerte, nunchaku       ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ NEJI HYŪGA                                   ║
+║ Jōnin de Konoha · rama secundaria Hyūga      ║
+║ PODER: Byakugan, Puño Suave, Rotación        ║
+║        Celestial, Sesenta y Cuatro Palmas    ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+║ MISIÓN DE MUNDO: este                        ║
+╚══════════════════════════════════════════════╝
+
+Las venas alrededor de los ojos de Neji se hinchan de golpe. Byakugan. Te recorre de arriba abajo, con la mirada clavada en algún punto dentro de tu pecho.
+
+Frunce el ceño.
+
+—Lee —dice, sin dejar de mirarte—. Ese es el forastero del que hablaban los chūnin. El del pelo de dos colores y el gato.
+
+Lee deja caer la roca. Hace temblar el suelo. Tenten suspira.
+
+—¡¿El de los mil brazos?! —Lee se da vuelta como un resorte—. ¡¿El que limpió el terreno del sur en diez minutos?!
+
+—Eso dicen. —Neji desactiva el Byakugan. Las venas se le aplanan—. Pero tiene el chakra de un vendedor de verduras. No tiene casi nada.
+
+Lee ya viene corriendo hacia ti, con los puños apretados y los ojos brillando como dos estrellas.
+
+—¡Mucho gusto! ¡Soy Rock Lee, la Bella Bestia Verde de Konoha! —Se planta frente a ti y se pone en guardia, con una mano adelante y la otra atrás—. ¡Dicen que tienes una técnica increíble! ¡Por favor! ¡Pelea conmigo!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1324 · NARUTO · DÍA 1 · 09:24          ║
+║ Konoha · borde este del cráter               ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:24, borde este del cráter. Equipo Gai trabajando (Gai con una roca, Lee, Tenten con armas). Neji lo miró con el Byakugan: "chakra de un vendedor de verduras" (Velo). Por el rumor de los chūnin, Lee sabe que es "el de los mil brazos". Lee se planta en guardia: "¡Por favor! ¡Pelea conmigo!" Facundo tiene que contestar.
