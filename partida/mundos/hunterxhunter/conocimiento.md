@@ -5,10 +5,12 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Multitud de la avenida · T1039 · un forastero de negro con un gato enorme. Nada más.
 
 ## QUIÉN VIO QUÉ PODERES
+- Hisoka · T1057 · Ultra Instinto Dominado (pelo plateado, esquiva automática).
 - Hisoka · T1053 · Transfiguración Ociosa: le rehízo la mano y la pierna desde el alma (no es Nen).
 - Hisoka, Kortopi · T1044 · atrapar una carta de aura con dos dedos y devolverla a una velocidad que Hisoka no pudo esquivar.
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
+- Hisoka · T1057 · Ultra Instinto Dominado (pelo plateado, esquiva automática).
 - Hisoka · T1053 · Transfiguración Ociosa: le rehízo la mano y la pierna desde el alma (no es Nen).
 - Hisoka, Kortopi · T1044 · atrapar una carta de aura con dos dedos y devolverla a una velocidad que Hisoka no pudo esquivar.
 - Empleado de la puerta de la Torre · T1040 · vio pasar a un joven con un gato enorme sin poder revisarle el boleto.
@@ -31,3 +33,6 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hisoka · T1053 · su nombre, Facundo Morelli (él se lo dijo). Facundo le devolvió la mano izquierda y la pierna derecha tocándole el pecho; Hisoka sintió que le tocaron "algo más adentro" que el cuerpo; sabe que no es Nen.
 - Hisoka · T1054 · Facundo le pidió no ir por las arañas hasta que zarpe el Black Whale. Hisoka deduce que la Tropa subirá al barco.
 - Hisoka · T1055 · TRATO con Facundo (aceptado con apretón de manos). Le pegó una gota de Bungee Gum en la palma: sabe dónde está Facundo en todo momento (mientras la gota siga ahí).
+- Hisoka · T1057 · vio a Facundo transformarse (pelo plateado, ojos grises brillantes, resplandor plateado quieto) y esquivar todo durante 12 minutos sin mirarlo ni contraatacar ("tu cuerpo me esquiva solo"). Facundo dijo que es lo más fuerte que tiene.
+- Helicóptero de la televisión (y quienes vean la transmisión) · T1057 · filmó desde lejos el techo del depósito: dos figuras peleando, una con un resplandor plateado, el techo destrozado. Calidad de imagen incierta.
+- Gente del muelle · T1057 · vio algo en los techos (luces, ruido, chapas que vuelan).

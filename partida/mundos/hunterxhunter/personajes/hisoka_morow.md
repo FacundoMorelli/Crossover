@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1042 · Llega a los baños a matar a Kortopi y encuentra a Facundo delante.
 - T1045 · Facundo lo deja inconsciente de un golpe.
 DIÁLOGOS CLAVE:
+- T1057 · "Ni una vez. Ni la ropa. Hace doce minutos que te estoy pegando con todo, y ni siquiera me estás mirando. Tu cuerpo me esquiva solo. ♣" "Esto es lo más fuerte que tienes. Y yo no llego a tocarlo." "Pégame. Aunque sea una vez. Quiero saber qué se siente. ♥"
 - T1056 · Día 4 09:40 · "Llegaste puntual. ♥ El barco zarpa en dos horas y veinte minutos. Las arañas ya están en la fila. Y yo cumplí. No toqué a ninguna. Ahora te toca a ti, Facundo. ♠ En serio. Todo lo que tienes."
 - T1055 · "Trato. ♥" "No me mires así. Es solo para saber dónde estás. Por si te olvidas de nuestro trato. ♣" "El día que zarpe ese barco, Facundo Morelli. ♠ No llegues tarde."
 - T1054 · "¿Las arañas van a subir a ese barco? ¿Tú lo sabes?" "Yo no hago promesas. Las promesas son aburridas. Pero me gustan los tratos." Trato: no toca arañas hasta el zarpe; ese día pelea en serio con Facundo; si Facundo gana, se olvida de las arañas para siempre. "¿Trato? ♠"
@@ -22,4 +23,4 @@ DIÁLOGOS CLAVE:
 - T1040 · "Mmm... ♠ Eso es justo lo que quería escuchar."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1053).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en el techo de un depósito del puerto de Kakin, listo para pelear (T1056); maquillado, ropa nueva blanca y violeta; cumplió el trato.
+ESTADO: agotado tras 12 minutos de ataques sin tocar a Facundo (T1057); maquillaje corrido, nudillos pelados, ropa rota en las rodillas.

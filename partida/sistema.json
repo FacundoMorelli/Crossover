@@ -1,8 +1,8 @@
 {
-  "turno": 1056,
+  "turno": 1057,
   "mundo_actual": "hunterxhunter",
   "fecha_local": "Día 4 (día del zarpe del Black Whale 1)",
-  "hora": "09:40",
+  "hora": "09:53",
   "edad": 18,
   "nivel": 27,
   "exp": 239850,
@@ -66,7 +66,7 @@
     "energia": 3992,
     "control": 3991
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -303,6 +303,13 @@
           "que": "una carta de aura (as de picas) a la cara",
           "daño": "ninguno (atrapada con dos dedos); vale el daño que habría hecho",
           "turno": 1044,
+          "estado": "sin cobrar"
+        },
+        {
+          "deudor": "Hisoka Morow",
+          "que": "12 minutos de ataques: decenas de cartas, puñetazos, patadas, chicle, martillo, chapas (ninguno lo tocó)",
+          "daño": "ninguno; vale el daño que habrían hecho",
+          "turno": 1057,
           "estado": "sin cobrar"
         }
       ]

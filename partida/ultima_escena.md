@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1054)
-ahora no vayas a por las arañas, cuando zarpe el black whale puedes hacer lo que quieras
-
-## RESPUESTA 1 (T1054)
-
-> ahora no vayas a por las arañas, cuando zarpe el black whale puedes hacer lo que quieras
-
-> —Ahora no vayas por las arañas. Cuando zarpe el Black Whale, puedes hacer lo que quieras.
-
-Hisoka inclina la cabeza hacia un lado. Después hacia el otro. Como un gato que escucha un ruido que no termina de ubicar.
-
-—El Black Whale —repite—. El barco de Kakin. El que va al Continente Oscuro. —Se ríe, bajito—. ¿Las arañas van a subir a ese barco? ¿Tú lo sabes?
-
-No espera respuesta. Se mira la mano nueva. Flexiona los dedos.
-
-—Me pides que no los toque. Unos días. —Te mira—. Y a cambio, ¿qué? ♣
-
-Se acerca un paso. Otro. Hasta quedar a medio metro de ti, con la cara manchada de sangre seca y los ojos amarillos fijos en los tuyos. Kase le gruñe bajito desde tu hombro. Hisoka ni lo mira.
-
-—Yo no hago promesas, Facundo. Las promesas son aburridas. —Sonríe—. Pero me gustan los tratos. Y los juegos.
-
-Levanta un dedo, el índice de la mano nueva.
-
-—Te propongo uno. Hasta que zarpe ese barco, no toco a ninguna araña. Ni a Chrollo, ni al rubio, ni al peludito, ni a Machi. Nada. —Levanta otro dedo—. Y el día que zarpe, antes de que yo vaya a buscarlos, tú y yo peleamos. En serio. Sin que me tires de un golpe. —Los ojos le brillan—. Quiero ver qué hay ahí adentro. Todo. Lo que me escondes.
-
-Baja la mano.
-
-—Si me ganas, me olvido de las arañas para siempre. Las arañas te las regalo. ♥ —Se lame el labio—. Si te gano yo... bueno. Ya veremos.
-
-Se queda esperando, con las manos en la espalda, balanceándose apenas sobre los talones de las dos piernas, la nueva y la vieja.
-
-—¿Trato? ♠
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1054 · HUNTER X HUNTER · DÍA 1 · 20:01 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, gruñendo                 ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1055)
+## COMANDO 1 (T1055)
 trato, le doy la mano
 
-## RESPUESTA 2 (T1055)
+## RESPUESTA 1 (T1055)
 
 > trato, le doy la mano
 
@@ -111,10 +60,10 @@ Kase la mira. Después te mira a ti. Estornuda.
 
 ---
 
-## COMANDO 3 (T1056)
+## COMANDO 2 (T1056)
 simula hasta el día que zarpe el Black Whale
 
-## RESPUESTA 3 (T1056)
+## RESPUESTA 2 (T1056)
 
 > simula hasta el día que zarpe el Black Whale
 
@@ -190,4 +139,82 @@ Saca una carta de la manga. La hace girar.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 4 09:40, techo de un depósito del puerto de Kakin. El Black Whale zarpa a las 12:00. Hisoka cumplió el trato y aparece para la pelea: "Todo lo que tienes." Facundo puede actuar.
+## COMANDO 3 (T1057)
+me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
+
+## RESPUESTA 3 (T1057)
+
+> me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
+
+No haces ningún gesto.
+
+Te quedas parado sobre las chapas del depósito, con los brazos sueltos, y algo cambia. No hay grito ni explosión. El pelo blanco y azul se te vuelve plateado, de golpe, entero, brillante como metal fundido. Los ojos, el rojo y el azul, se llenan de un brillo gris claro que no parpadea. Alrededor de tu cuerpo aparece un resplandor plateado, quieto, que no se mueve como el fuego sino como el agua de un lago sin viento.
+
+Kase salta de tu hombro al techo de chapa y se aleja tres metros, con la cola en alto. No erizado. Mirándote.
+
+> —Bien. Intenta pegarme. Esto es lo más fuerte que tengo.
+
+Hisoka se queda quieto.
+
+La carta deja de girar en sus dedos. Te mira el pelo, los ojos, el resplandor. No siente nada. No hay aura que medir. Solo ve. Y lo que ve lo deja con la boca entreabierta, sin sonrisa, durante un segundo entero.
+
+Después se ríe. Fuerte. Echando la cabeza para atrás.
+
+—♥ ♥ ♥
+
+Y viene.
+
+La carta primero. Después diez cartas, en abanico, cada una con un ángulo distinto. No las esquivas tú: tu cuerpo se mueve solo, un centímetro a la izquierda, medio giro de hombro, la cabeza que se inclina apenas, y las diez cartas pasan rozando, cortando el aire donde estabas, y se clavan en las chapas del techo detrás de ti.
+
+Hisoka ya está encima. Un puñetazo con la mano nueva, envuelta en aura. No está. Una patada a las costillas. No está. Lanza un hilo de chicle a tu tobillo para frenarte, y el hilo se pega a la chapa vacía. Tira del chicle y lo usa para impulsarse, gira en el aire, cae desde arriba con las dos manos juntas como un martillo.
+
+Tu cuerpo da medio paso atrás. El martillo hunde la chapa del techo y abre un agujero hasta el depósito de abajo, lleno de cajas.
+
+Hisoka no para. Rodilla, codo, cartas, chicle, un tajo con los dedos rígidos como cuchillas, una carta escondida en la palma, otra en la boca, un chicle pegado a una chapa suelta que vuela hacia tu nuca desde atrás. Todo. Cada truco que tiene, uno detrás de otro, más rápido cada vez, más preciso, más feroz.
+
+Nada te toca.
+
+Ni la ropa. Ni el pelo. Ni la punta del sobretodo. Tu cuerpo se mueve antes de que él decida moverse, como si leyera la orden en sus músculos antes que su propio cerebro. No contraatacas. No hace falta. Te quedas en un círculo de un metro, y él da vueltas alrededor como una polilla alrededor de una lámpara.
+
+Pasan cinco minutos. Diez.
+
+El techo del depósito está lleno de agujeros y de cartas clavadas. Las chapas sueltas cuelgan. Abajo, en el puerto, alguien señala hacia los techos. Uno de los helicópteros de la televisión gira despacio y apunta la cámara hacia aquí.
+
+A los doce minutos, Hisoka se detiene.
+
+Está a tres metros. Jadea. El maquillaje se le corrió con el sudor: la estrella de la mejilla es una mancha, la lágrima le chorrea hasta la mandíbula. Tiene la ropa nueva rota en las rodillas y los nudillos de la mano nueva pelados de pegarle a las chapas.
+
+Te mira. Tú sigues exactamente en el mismo lugar donde empezaste, con el pelo plateado quieto y los brazos sueltos. Respiras normal.
+
+Hisoka se ríe. Despacio. Sin aire.
+
+—Ni una vez —dice—. Ni la ropa. —Se seca la boca con el dorso de la mano—. Hace doce minutos que te estoy pegando con todo, y ni siquiera me estás mirando. Tu cuerpo me esquiva solo. ♣
+
+Se endereza. Le tiemblan las piernas, las dos.
+
+—Esto es lo más fuerte que tienes. —Se le estira la sonrisa, enorme, manchada de maquillaje corrido—. Y yo no llego a tocarlo.
+
+Se queda en silencio un momento, mirándote, con los ojos amarillos brillando más que nunca.
+
+—Pégame —dice, bajito—. Aunque sea una vez. Quiero saber qué se siente. ♥
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1057 · HUNTER X HUNTER · DÍA 4 · 09:53 ║
+║ Kakin · puerto, techo de un depósito         ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común · ULTRA INSTINTO         ║
+║ DOMINADO (visible: pelo plateado)            ║
+║ Kase: en el techo, a tres metros             ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Pelea con Hisoka                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 4 09:53, techo del depósito del puerto de Kakin. Facundo en Ultra Instinto Dominado; Hisoka no lo tocó en 12 minutos. Hisoka, agotado, le pide que le pegue una vez. Un helicóptero de TV filma. Facundo puede actuar.

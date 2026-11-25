@@ -1055,3 +1055,4 @@ T1053 · HxH · Baños públicos · "Me llamo Facundo Morelli." Transfiguración
 T1054 · HxH · Baños públicos · "No vayas por las arañas hasta que zarpe." Hisoka propone trato: pelea en serio el día del zarpe; si gana Facundo, deja a las arañas. "¿Trato? ♠"
 T1055 · HxH · Baños públicos · "Trato." Apretón de manos; Hisoka le pega una gota de Bungee Gum en la palma. "El día que zarpe ese barco. No llegues tarde." Se va.
 T1056 · HxH · (simulado Días 1-4) Azotea; cuerpo de Hisoka "desaparecido"; viaje a Kakin; festival de víspera (familia real a bordo; Kurapika de lejos). Día 4 09:40, techo del puerto: Hisoka, "Ahora te toca a ti. Todo lo que tienes."
+T1057 · HxH · Puerto de Kakin · Ultra Instinto Dominado. Hisoka ataca 12 minutos: nada lo toca. Helicóptero de TV filma. Hisoka: "Pégame. Aunque sea una vez."
