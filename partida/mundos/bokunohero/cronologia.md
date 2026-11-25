@@ -44,3 +44,4 @@
 - T1132 · Kyudai Garaki detenido. La Comisión cita a Eclipse.
 - T1134 · Cúpula del Ejército de Liberación Paranormal (Re-Destro, Curious, Skeptic, Trumpet, Geten) inconsciente en la torre Detnerat. La ciudad no se entera.
 - T1137 · Deika entera inconsciente. El Ejército de Liberación Paranormal neutralizado sin muertos.
+- T1141 · La Comisión prepara el anuncio: operativo conjunto en cuatro frentes. Gigantomachia empieza a despertar.

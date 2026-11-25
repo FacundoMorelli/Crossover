@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: cauteloso, lo acepta a su manera (T1098).
 ENCUENTROS:
 - T1096 · Diciembre 10:55 · Sala de monitoreo del Campo Gamma: All Might trae a Facundo.
 DIÁLOGOS CLAVE:
+- T1141 · (por teléfono) "No podemos sacar a nadie; hay una pared que no se ve." "Dígale que el gigante del valle empezó a mover los dedos."
 - T1116 · "Está en Tartarus." "Esta mañana tampoco existía tu licencia." "Alguien tiene que quedarse cuidando la escuela."
 - T1115 · "Esta mañana no estaba." "Entonces ahora puede detener villanos. Legalmente."
 - T1114 · "No vas a falsificar una licencia. No en esta escuela. No conmigo sentado aquí."

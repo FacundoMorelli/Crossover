@@ -12,4 +12,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1123).
 QUÉ PODERES VIO: Ninguno.
-ESTADO: Inconsciente (T1123, golpe de Facundo).
+ESTADO: Inconsciente en el valle, empezando a mover los dedos (T1141).

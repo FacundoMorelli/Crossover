@@ -68,3 +68,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hawks · T1138 · Facundo le pidió que la Comisión mande a muchos a recoger a todos en Deika.
 - Presidenta de la Comisión · T1139 · Facundo entró "con una habilidad". La licencia apareció a las 11:57 con historial de 3 años y la firma de ella, que no firmó.
 - Presidenta de la Comisión · T1140 · Facundo dice que no quiere nada, vino a ayudar y desaparecerá en unos días.
+- Presidenta de la Comisión · T1141 · Facundo elige que no se lo nombre: versión pública de operativo conjunto. Aizawa, en la cabaña, no puede sacar a los villanos.

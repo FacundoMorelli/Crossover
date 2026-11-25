@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1138)
-ahora tengo que ir a hablar con ellos, diles que traigan a muchos a buscar a todos, nos vemos hakws, me teletransporto a la comision
-
-## RESPUESTA 1 (T1138)
-
-> —Ahora tengo que ir a hablar con ellos. Diles que traigan a muchos para buscar a todos. Nos vemos, Hawks.
-
-Hawks se ríe. Una risa de verdad, corta, que le sale sin querer.
-
-—"Muchos" —repite—. Sí. Creo que esta vez les voy a pedir a todos. —Ya está marcando—. Nos vemos, Eclipse. Cuídate el gato.
-
-Te vas.
-
-Una oficina en lo alto de un edificio, en el centro de una ciudad gigante. Por los ventanales se ven rascacielos hasta el horizonte. Alfombra gris, muebles de madera clara, un escritorio enorme y ordenado al milímetro, con tres teléfonos y varias pantallas. Banderas a un costado. Diplomas en la pared.
-
-Detrás del escritorio hay una mujer.
-
-Mayor, de unos sesenta años, con el pelo gris recogido en un rodete apretado y un traje oscuro sin una arruga. Está de pie, con un teléfono en la oreja y la otra mano apoyada sobre el escritorio. En la pantalla grande de la pared hay un mapa de Deika con un punto rojo que parpadea en el centro.
-
-—...¿cómo que toda la ciudad, Hawks? —está diciendo, muy despacio, con una voz seca, controlada—. Explícate. ¿Qué significa "toda"?
-
-Te ve.
-
-No grita. No da un paso atrás. Solo baja el teléfono unos centímetros, sin cortar, y te mira de arriba abajo con unos ojos fríos, grises, detrás de unos lentes de marco fino.
-
-Detrás de ti se abre la puerta de golpe. Dos hombres de traje negro con auriculares en la oreja, con las manos ya levantadas hacia ti. Uno tiene los dedos cubiertos de algo que parece metal líquido.
-
-—¡Presidenta, al suelo!
-
-—Quietos —dice ella.
-
-Lo dice sin levantar la voz, y los dos se quedan congelados en la puerta.
-
-La presidenta vuelve a acercarse el teléfono a la oreja.
-
-—Hawks, te llamo después. —Corta. Deja el teléfono sobre el escritorio, alineado con los otros dos. Después junta las manos frente a ella—. Supongo que usted es Eclipse.
-
-No es una pregunta.
-
-—Siéntese, por favor. —Señala la silla frente al escritorio con la palma abierta—. Tenemos mucho de qué hablar. Empezando por cómo entró a una oficina del piso cuarenta y dos que tiene tres controles de seguridad, sin pasar por ninguno.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1138 · BOKU NO HERO · DIC. · 12:43     ║
-║ Comisión de Seguridad Pública · oficina de   ║
-║ la presidenta, piso 42                       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Hablar con la Comisión             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1139)
+## COMANDO 1 (T1139)
 una habilidad, en fin, querian hablar conmigo
 
-## RESPUESTA 2 (T1139)
+## RESPUESTA 1 (T1139)
 
 > —Una habilidad. En fin, querían hablar conmigo.
 
@@ -133,10 +71,10 @@ Una pausa.
 
 ---
 
-## COMANDO 3 (T1140)
+## COMANDO 2 (T1140)
 nada, vine a ayudarlos, seguro en unos dias desaparezca
 
-## RESPUESTA 3 (T1140)
+## RESPUESTA 2 (T1140)
 
 > —Nada. Vine a ayudarlos. Seguro en unos días desaparezca.
 
@@ -187,4 +125,55 @@ Junta las manos otra vez.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:46, oficina de la presidenta. Ella le cree "por ahora". Ofrece dos versiones públicas: la verdad (Eclipse) o un operativo conjunto sin su nombre. Pregunta qué prefiere. Facundo puede responder.
+## COMANDO 3 (T1141)
+eh hagan la segunda opcion, no me interesa el reconocimiento, me interesa que nadie muera
+
+## RESPUESTA 3 (T1141)
+
+> —Eh, hagan la segunda opción. No me interesa el reconocimiento. Me interesa que nadie muera.
+
+La presidenta parpadea. Una sola vez.
+
+Es lo más parecido a una sorpresa que le viste en la cara desde que llegaste.
+
+—Que nadie muera —repite en voz baja.
+
+Se queda mirando el mapa. Los cuatro puntos rojos.
+
+—Muy bien. Operativo conjunto. —Ya está tecleando con dos dedos, rápido, precisa—. Comisión, policía nacional, Endeavor, Hawks, la U.A. Meses de inteligencia, un golpe coordinado en cuatro frentes al mismo tiempo. Nadie va a preguntar demasiado; la gente quiere creer que sus héroes ganaron. —Hace una pausa—. Y esta vez, más o menos, es cierto. Endeavor estuvo en Jaku. Hawks estuvo en Deika. Aizawa en las montañas.
+
+Uno de los tres teléfonos del escritorio empieza a sonar. Ella lo mira. Lo deja sonar dos veces y atiende.
+
+—Presidenta. —Escucha. Las cejas se le juntan apenas—. ¿Cómo que no pueden?
+
+Escucha más. Después te mira a ti, por encima de los lentes.
+
+—Es el profesor Aizawa —dice, tapando el micrófono con la palma—. Está en la cabaña de las montañas con su equipo y la policía. Dice que pudieron entrar sin problema. —Hace una pausa—. Pero que no pueden sacar a nadie. Que cuando intentan cargar a Shigaraki hacia afuera, hay una pared que no se ve. Que los villanos no pasan.
+
+Del teléfono sale, débil, la voz de Aizawa, cansada, seca:
+
+—...y dígale que el gigante del valle empezó a mover los dedos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1141 · BOKU NO HERO · DIC. · 12:47     ║
+║ Comisión de Seguridad Pública · oficina de   ║
+║ la presidenta, piso 42                       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ ALERTA: Gigantomachia empieza a despertar    ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:47, oficina de la presidenta. Versión pública: operativo conjunto, sin Eclipse. Aizawa (por teléfono) no puede sacar a los villanos del Recinto, y Gigantomachia empieza a mover los dedos en el valle. Facundo puede actuar.
