@@ -35,3 +35,4 @@
 - Día 1 19:40 · (T1045) CAMBIO: Facundo deja inconsciente a Hisoka en la calle de los baños públicos. Kortopi vivo.
 - Día 1 19:42 · (T1046) Kortopi llama a Shalnark; Shalnark va hacia los baños. Machi no contesta.
 - Día 1 19:47 · (T1047) Shalnark llega a los baños; propone controlar a Hisoka con Black Voice.
+- Día 1 19:49 · (T1048) Facundo libera a Machi del Bungee Gum en la sala médica 3.

@@ -8,7 +8,9 @@ PERSONALIDAD Y FORMA DE HABLAR: Directa, intuitiva, seca.
 RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1039 · Día 1 16:13 · Facundo lo/la ve en las pantallas o siente su presencia desde la avenida.
+- T1048 · Facundo la libera del Bungee Gum en la sala médica 3.
 DIÁLOGOS CLAVE:
-QUÉ SABE DE FACUNDO: nada
+- T1048 · "Ese chicle solo lo suelta él. Lo sé. Lo intenté veinte minutos. Y tú lo soltaste como si fuera tuyo."
+QUÉ SABE DE FACUNDO: ver conocimiento.md (T1048).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: (T1041) verificó el cuerpo de Hisoka; se quedó a coserlo; atada por Hisoka al revivir (19:31).
+ESTADO: liberada por Facundo del Bungee Gum en la sala médica 3 (T1048); de pie, hilos tensos.

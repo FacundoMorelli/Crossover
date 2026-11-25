@@ -19,3 +19,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Shalnark · T1046 · por Kortopi (teléfono): Hisoka revivió y vino a matar a Kortopi; un tipo con un gato lo tiró de un golpe; sin aura; no es de la Tropa; dice tener una misión de protegerlo; sabe el nombre de Shalnark. (No sabe aún su nombre, salvo que Kortopi se lo diga después.)
 - Shalnark · T1047 · lo ve en persona; lo había visto de pasada en una pantalla del estadio (gradas altas, junto a una columna; pensó que era un cosplayer). Por Kortopi: misión de protegerlo, sabe su nombre, no quiere que maten a Hisoka. No siente su aura.
 - Público / TV · T1047 · "la muerte en vivo de Hisoka Morow" (noticias de esta noche).
+- Shalnark, Kortopi · T1048 · Facundo les advirtió que si le hacen algo a Hisoka están muertos, aunque falle su misión. Lo vieron desaparecer (teletransporte).
+- Machi · T1048 · lo vio aparecer en la sala médica 3 y soltar el Bungee Gum de Hisoka como si fuera suyo (ella no pudo en 20 minutos). No sabe su nombre. No siente su aura.

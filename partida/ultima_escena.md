@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1045)
-lo dejo inconsciente de un golpe
-
-## RESPUESTA 1 (T1045)
-
-> lo dejo inconsciente de un golpe
-
-Hisoka no te ve moverte.
-
-Está ahí, a diez metros, con los dedos rojos en la boca y los ojos brillando, y un instante después estás delante de él, tan cerca que ves la sangre fresca bajándole por el cuello desde el corte de la mejilla.
-
-Llega a abrir la boca.
-
-El puño le entra en el plexo, por debajo del esternón, justo donde la mano de Machi había cosido hace media hora.
-
-No hay sonido de golpe. Hay un sonido sordo, hondo, como cuando se cae algo pesado dentro de un pozo. A Hisoka se le escapa todo el aire de una vez. La pierna de aura se le deshace en el acto, como humo, y la mano de goma también. Se dobla sobre tu brazo, con los ojos abiertos, sin entender todavía qué pasó.
-
-Después los ojos se le ponen en blanco.
-
-Cae de rodillas, en una sola pierna, y después de costado sobre el asfalto. Se queda ahí, quieto, con la mejilla abierta contra el piso, el muñón de la mano izquierda a la vista y la sonrisa todavía puesta, torcida, congelada en la cara.
-
-Respira. Apenas.
-
-[Rival vencido: Hisoka Morow. +2.500 EXP · +150 Fragmentos.]
-
-La calle queda en silencio. El perro del departamento deja de ladrar.
-
-Kase, en tu hombro, se baja el pelo de golpe. Mira a Hisoka tirado en el piso, olfatea el aire una vez y se acomoda en tu cuello, con la bufanda gris, como si ya no hubiera nada que ver.
-
-Detrás de ti, en la puerta de los baños, Kortopi no se movió. Tiene las dos manos todavía levantadas, con el aura juntada entre los dedos, y no la suelta. El único ojo que se le ve entre el pelo va de Hisoka a ti, de ti a Hisoka, varias veces.
-
-Después baja las manos, despacio. El aura se le apaga.
-
-—Lo mataron hace una hora —dice, con la voz ronca—. El jefe lo mató. Yo lo vi. Machi le estaba cosiendo el cuerpo.
-
-Mira a Hisoka otra vez.
-
-—Y tú lo tiraste de un golpe.
-
-Saca un celular viejo del bolsillo, con la tapa rayada. No marca ningún número. Lo tiene en la mano, nada más, y te mira.
-
-—¿Quién eres? —pregunta otra vez, igual que antes. Pero ahora la voz es distinta—. ¿Y por qué me estás protegiendo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1045 · HUNTER X HUNTER · DÍA 1 · 19:40 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, tranquilo                ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1046)
+## COMANDO 1 (T1046)
 me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
 
-## RESPUESTA 2 (T1046)
+## RESPUESTA 1 (T1046)
 
 > me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
 
@@ -121,10 +60,10 @@ Después te mira a ti.
 
 ---
 
-## COMANDO 3 (T1047)
+## COMANDO 2 (T1047)
 espero a Shalnark ahí con Kortopi
 
-## RESPUESTA 3 (T1047)
+## RESPUESTA 2 (T1047)
 
 > espero a Shalnark ahí con Kortopi
 
@@ -193,4 +132,69 @@ Acerca la antena a la nuca de Hisoka.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:47, baños públicos. Shalnark llegó; está agachado junto a Hisoka con una antena de Black Voice a centímetros de su nuca: "Si le clavo esto, hará todo lo que yo diga. Eso no es matarlo, ¿verdad?" Facundo puede actuar.
+## COMANDO 3 (T1048)
+no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
+
+## RESPUESTA 3 (T1048)
+
+> no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
+
+> —No. Déjalo así. Voy a rescatar a Machi. Si le hacen algo, aunque no complete mi misión, están muertos.
+
+No lo dices fuerte.
+
+Shalnark se queda quieto, en cuclillas, con la antena a dos centímetros de la nuca de Hisoka. Te mira desde abajo. La sonrisa le sigue en la cara, pero algo se le apaga detrás de los ojos, muy rápido, como una luz que alguien baja.
+
+Por primera vez desde que llegó, no dice nada gracioso.
+
+Se endereza despacio. Guarda la antena en el bolsillo del pantalón, a la vista, para que veas que la guardó.
+
+—Entendido —dice. Liviano. Pero no se ríe—. No lo tocamos.
+
+En el escalón, Kortopi asiente, una sola vez.
+
+Desapareces.
+
+Apareces en un pasillo de servicio de la Torre, en el piso de abajo del estadio. Luz blanca de tubos, piso de linóleo gris, olor a desinfectante. Al fondo, una puerta de metal con un cartel: SALA MÉDICA 3. Está entreabierta.
+
+La empujas.
+
+Adentro hay una camilla vacía, con una sábana manchada de sangre tirada en el piso. Instrumental médico desparramado, una bandeja volcada. Y contra la pared del fondo, a medio metro del suelo, está ella.
+
+La mujer de pelo violeta, pegada a la pared como una mosca en una tela. Tiene los brazos abiertos en cruz y las muñecas, los tobillos y la cintura envueltos en una masa rosada, elástica, brillante, que la sujeta a los azulejos. Una tira más fina le tapa la boca. El kimono corto está manchado de sangre, de la de otro. Tiene las manos llenas de hilos finísimos de aura, cortados, colgando: estaba cosiendo cuando él se levantó.
+
+Te mira entrar. Los ojos, encima de la mordaza rosada, se le endurecen, fríos y quietos.
+
+Te acercas. Agarras la masa rosada que le sujeta la muñeca derecha.
+
+La conoces. Hace diez minutos no la conocías, y ahora sí: sabes cómo está hecha, cómo se pega, cómo se suelta. Le das la orden y el chicle te obedece a ti también. Se afloja. Se despega de la pared y de la piel como una cinta que pierde el pegamento. La muñeca izquierda. La cintura. Los tobillos. La mordaza, la última.
+
+Machi cae de pie. No se tambalea.
+
+Se toca la boca con el dorso de la mano. Se mira las muñecas, sin una marca. Después te mira a ti, de arriba abajo, sin moverse de su lugar, con los hilos de aura todavía colgando de los dedos.
+
+—Ese chicle solo lo suelta él —dice. La voz es seca, baja—. Lo sé. Lo intenté veinte minutos.
+
+Los hilos de los dedos se le tensan solos, sin que haga un gesto.
+
+—Y tú lo soltaste como si fuera tuyo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1048 · HUNTER X HUNTER · DÍA 1 · 19:49 ║
+║ Torre Celestial · sala médica 3              ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, tranquilo                ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Rescatar a Machi                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:49, sala médica 3 de la Torre. Facundo liberó a Machi del Bungee Gum; ella nota que lo soltó como si fuera suyo. Shalnark y Kortopi con Hisoka inconsciente en la calle (prometieron no tocarlo). Facundo puede actuar.
