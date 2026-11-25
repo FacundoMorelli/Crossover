@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: gratitud inmensa (salvó a Izuku; lo curó y le devolvió
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1113 · "Y la U.A. va a estar en medio."
 - T1112 · "Viniste de otro mundo... y lo primero que hiciste fue detener un robo en un banco." "Te creo, joven Morelli. No sé si es verdad, pero te creo."
 - T1111 · "Joven Morelli. ¿Qué... qué me hiciste? Siento lo que tenía. Lo que quedaba. Pero ya no es una brasa. Está entera."
 - T1110 · "¿Cómo...?" "Hace seis años, ese hombre me abrió aquí. Me sacaron el estómago entero. La mitad de un pulmón." "Aunque me la sanes, One For All ya no está en mí. Pero podría estar ahí. Con ellos. Sin toser sangre. ¿De verdad... podrías?"

@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1110)
-sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
-
-## RESPUESTA 1 (T1110)
-
-> sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
-
-Te acercas a la pantalla del mapa. Es táctil: con un dedo marcas un punto, y en el mapa se enciende un círculo rojo.
-
-Las montañas del noroeste, en la cordillera, lejos de cualquier pueblo. Un círculo. Unos kilómetros más abajo, en un valle, la cabaña. Otro. La ciudad del sur, que se mueve como un ejército: un círculo grande, sobre el nombre impreso de la ciudad. Deika. Y el hospital: en otra ciudad, más al este, sobre una mancha gris de edificios. Jaku. El último círculo.
-
-No marcas el agujero. Ya saben dónde está.
-
-En la pantalla, Nezu mira los cuatro puntos rojos. No dice nada. Pero teclea muy rápido fuera de cámara, y en otra pantalla empiezan a abrirse archivos, fotos satelitales, nombres.
-
-—Deika —murmura—. Ciudad de ciento quince mil habitantes. Alcaldía modelo. Cero incidentes de villanos en los últimos veinte años. —Los ojitos se le achican—. Demasiado perfecta.
-
-Te das vuelta hacia All Might.
-
-> —Señor Toshinori, ¿quiere que le sane esa herida que tiene ahí, en el cuerpo?
-
-All Might se queda quieto.
-
-Te mira. Se le borra la cara de golpe, como si alguien la hubiera apagado. Sin darse cuenta, se lleva la mano huesuda al costado izquierdo del torso, por encima del traje amarillo, al lugar exacto. Lo aprieta.
-
-—¿Cómo...?
-
-No termina la pregunta. La deja caer.
-
-Aizawa se da vuelta en la silla, despacio, sin decir nada.
-
-—Seis años. —All Might baja la vista a su propia mano—. Hace seis años, ese hombre me abrió aquí. Me sacaron el estómago entero. La mitad de un pulmón. Desde entonces como de a poco, toso sangre, duermo mal. Cada vez que me miro al espejo, veo lo que me quitó. —Le tiembla la voz—. Los mejores médicos del país dijeron que no había nada que hacer. Recovery Girl dijo que no había nada que hacer.
-
-Se queda callado un rato largo. Se mira la mano, apretada contra el costado.
-
-—Y aunque me la sanes... —murmura—. One For All ya no está en mí. Se lo di. Ya no puedo ser lo que era. Nunca más. —Levanta la vista hacia ti. Tiene los ojos hundidos llenos de lágrimas—. Pero podría... podría estar ahí. Con ellos. Sin toser sangre. Sin que me tiemblen las piernas cada vez que subo una escalera.
-
-La voz se le quiebra del todo.
-
-—¿De verdad... podrías?
-
-En la pantalla, Nezu dejó de teclear.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1110 · BOKU NO HERO · DIC. · 11:46     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1111)
+## COMANDO 1 (T1111)
 permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
 
-## RESPUESTA 2 (T1111)
+## RESPUESTA 1 (T1111)
 
 > permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
 
@@ -131,10 +70,10 @@ Se lleva una mano gigante al pecho, donde la brasa dorada sigue ardiendo, quieta
 
 ---
 
-## COMANDO 3 (T1112)
+## COMANDO 2 (T1112)
 tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
 
-## RESPUESTA 3 (T1112)
+## RESPUESTA 2 (T1112)
 
 > tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
 
@@ -190,4 +129,100 @@ Inclina la cabeza.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:51, sala de monitoreo. Facundo les reveló a All Might, Aizawa y Nezu que viene de otro mundo y que va a cada mundo con una misión. All Might le cree; Aizawa lo acepta; Nezu pregunta cuál es la misión de este mundo. Facundo puede responder.
+## COMANDO 3 (T1113)
+que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
+
+## RESPUESTA 3 (T1113)
+
+> que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
+
+> —Que nadie de la U.A. muera hasta que termine la guerra.
+
+Nezu se queda quieto.
+
+All Might, todavía arrodillado frente a ti, deja de sonreír. Aizawa levanta la vista de golpe.
+
+—Hasta que termine la guerra —repite Nezu, despacio—. No "una guerra". "La" guerra.
+
+Junta las patitas sobre el escritorio mojado. La voz aguda le sale más baja que nunca.
+
+—Usted no está hablando de una posibilidad, señor Morelli. Está hablando de algo que va a pasar.
+
+[Registros de poder emitidos.]
+
+╔══════════════════════════════════════════════╗
+║ REGISTROS DE PODER · Boku no Hero            ║
+╠══════════════════════════════════════════════╣
+║ ONE FOR ALL (Full Cowl, Látigo Negro y lo    ║
+║ que despierte) · Izuku Midoriya              ║
+║ MISIÓN: Entrenar con él hasta que use el     ║
+║ Látigo Negro con control. · ALTA             ║
+╠══════════════════════════════════════════════╣
+║ GRAVEDAD CERO · Ochaco Uraraka               ║
+║ MISIÓN: Dejar que te haga flotar y te baje   ║
+║ donde ella elija. · BAJA                     ║
+╠══════════════════════════════════════════════╣
+║ BORRAR · Shota Aizawa                        ║
+║ MISIÓN: Que te pida ayuda con sus alumnos.   ║
+║ · MEDIA                                      ║
+╠══════════════════════════════════════════════╣
+║ LAVADO DE CEREBRO · Hitoshi Shinso           ║
+║ MISIÓN: Contestarle a propósito una          ║
+║ pregunta. · MEDIA                            ║
+╠══════════════════════════════════════════════╣
+║ COPIA · Neito Monoma                         ║
+║ MISIÓN: Que admita que la 1-A tiene algo     ║
+║ bueno. · MEDIA                               ║
+╠══════════════════════════════════════════════╣
+║ ÁCIDO · Mina Ashido                          ║
+║ MISIÓN: Que te enseñe un paso de baile.      ║
+║ · BAJA                                       ║
+╠══════════════════════════════════════════════╣
+║ POP OFF · Minoru Mineta                      ║
+║ MISIÓN: Despegarte una de sus bolitas sin    ║
+║ ayuda. · BAJA                                ║
+╠══════════════════════════════════════════════╣
+║ MEDIO Y MEDIO · Shoto Todoroki               ║
+║ MISIÓN: Que use su fuego contra ti con       ║
+║ todo. · MEDIA                                ║
+╠══════════════════════════════════════════════╣
+║ PUÑO GRANDE · Itsuka Kendo                   ║
+║ MISIÓN: Ganarle una pulseada con su Puño     ║
+║ Grande. · BAJA                               ║
+╚══════════════════════════════════════════════╝
+
+Aizawa se inclina hacia adelante en la silla. Ya no parece cansado.
+
+—Lo de las montañas —dice—. Lo de Deika. La fábrica de Nomu. Todo eso que nos marcaste. —Te mira—. Eso es la guerra.
+
+All Might se pone de pie despacio, enorme, y se queda mirando el mapa de la pantalla con los cuatro círculos rojos.
+
+—Y la U.A. va a estar en medio —murmura—. Como dijo el director.
+
+Nezu no aparta los ojitos de ti.
+
+—"Que nadie muera" —repite, en voz baja—. Eso quiere decir que usted cree que, si no hace nada, alguien de esta escuela va a morir. —Una pausa larga—. Un alumno. O un profesor.
+
+Se le tensa la cara diminuta, blanca.
+
+—Señor Morelli. —Lo dice con mucho cuidado—. ¿Usted sabe quién?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1113 · BOKU NO HERO · DIC. · 11:53     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:53, sala de monitoreo. Facundo dijo su misión (que nadie de la U.A. muera hasta que termine la guerra). Nueve misiones de copia emitidas. Nezu entiende que habrá una guerra y pregunta si Facundo sabe quién va a morir. Facundo puede responder.

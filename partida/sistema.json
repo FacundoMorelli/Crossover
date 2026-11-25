@@ -1,8 +1,8 @@
 {
-  "turno": 1112,
+  "turno": 1113,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "11:51",
+  "hora": "11:53",
   "edad": 18,
   "nivel": 28,
   "exp": 263930,
@@ -1322,6 +1322,69 @@
       "mision": "Dejar que Chrollo Lucilfer intente robarte una habilidad.",
       "dificultad": "ALTA",
       "emitida": "T1041"
+    },
+    {
+      "poder": "One For All (Full Cowl, Látigo Negro y lo que despierte) — Izuku Midoriya",
+      "mundo": "bokunohero",
+      "mision": "Entrenar con Izuku Midoriya hasta que use el Látigo Negro con control.",
+      "dificultad": "ALTA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Gravedad Cero — Ochaco Uraraka",
+      "mundo": "bokunohero",
+      "mision": "Dejar que Ochaco Uraraka te haga flotar y te baje donde ella elija.",
+      "dificultad": "BAJA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Borrar — Shota Aizawa",
+      "mundo": "bokunohero",
+      "mision": "Que Shota Aizawa te pida ayuda con sus alumnos.",
+      "dificultad": "MEDIA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Lavado de Cerebro — Hitoshi Shinso",
+      "mundo": "bokunohero",
+      "mision": "Contestarle a propósito una pregunta a Hitoshi Shinso.",
+      "dificultad": "MEDIA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Copia — Neito Monoma",
+      "mundo": "bokunohero",
+      "mision": "Que Neito Monoma admita que la 1-A tiene algo bueno.",
+      "dificultad": "MEDIA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Ácido — Mina Ashido",
+      "mundo": "bokunohero",
+      "mision": "Que Mina Ashido te enseñe un paso de baile.",
+      "dificultad": "BAJA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Pop Off — Minoru Mineta",
+      "mundo": "bokunohero",
+      "mision": "Despegarte una de las bolitas de Minoru Mineta sin ayuda.",
+      "dificultad": "BAJA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Medio y Medio — Shoto Todoroki",
+      "mundo": "bokunohero",
+      "mision": "Que Shoto Todoroki use su fuego contra ti con todo.",
+      "dificultad": "MEDIA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Puño Grande — Itsuka Kendo",
+      "mundo": "bokunohero",
+      "mision": "Ganarle a Itsuka Kendo una pulseada con su Puño Grande.",
+      "dificultad": "BAJA",
+      "emitida": "T1113 (pedido del jugador: las que vio)"
     }
   ],
   "misiones_de_copia_rechazadas": [],

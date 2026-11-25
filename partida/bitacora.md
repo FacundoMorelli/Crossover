@@ -1111,3 +1111,4 @@ T1109 · BnHA · Sala de monitoreo · Les cuenta todo. All Might: "Se dio vuelta
 T1110 · BnHA · Sala de monitoreo · Marca montañas, cabaña, Deika y Jaku. Nezu: "Deika, demasiado perfecta." Ofrece sanar la herida de All Might. "¿De verdad podrías?"
 T1111 · BnHA · Sala de monitoreo · Transfiguración Ociosa: All Might curado (estómago, pulmón) y la brasa de One For All entera. Forma musculosa. "¿Qué me hiciste? Ya no es una brasa. Está entera."
 T1112 · BnHA · Sala de monitoreo · Revela que viene de otro mundo y que va a cada mundo con una misión. All Might: "Te creo." Nezu: "¿Cuál es la de este?"
+T1113 · BnHA · Sala de monitoreo · "Que nadie de la U.A. muera hasta que termine la guerra." Nueve misiones de copia. Nezu: "LA guerra. ¿Sabe quién va a morir?"

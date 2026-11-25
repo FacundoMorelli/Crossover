@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1113 · "Hasta que termine la guerra. No una guerra. La guerra." "Usted cree que, si no hace nada, alguien de esta escuela va a morir. Un alumno. O un profesor. ¿Usted sabe quién?"
 - T1112 · "Fascinante. Absolutamente fascinante." "No voy a preguntarle cómo funciona, ni de dónde viene, ni cuántos mundos hay." "Dijo que va a cada mundo con una misión. ¿Cuál es la de este?"
 - T1110 · "Deika. Ciudad de ciento quince mil habitantes. Cero incidentes de villanos en los últimos veinte años. Demasiado perfecta."
 - T1109 · "Lo que usted acaba de hacer en dos minutos, con los ojos cerrados, es lo que el país entero no consiguió en cuatro meses. Esto ya no es un asunto de la U.A. Es de la Comisión. Del héroe número uno. Del número dos." "Necesito que me marque los lugares. ¿Puede marcarlos?"
