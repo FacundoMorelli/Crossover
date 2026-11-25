@@ -49,3 +49,6 @@
 - Día 4 09:40-09:53 · (T1057) Pelea Facundo (Ultra Instinto Dominado) vs. Hisoka en los techos del puerto: Hisoka no lo toca. Lo filma un helicóptero de TV.
 - Día 4 09:54 · (T1058) Facundo gana la pelea pactada; Hisoka renuncia a cazar a la Tropa (CAMBIO TOTAL: en el canon la caza a bordo del Black Whale).
 - Día 4 10:00 · (T1059) Facundo cura a Hisoka con una semilla del ermitaño; Hisoka se va. Primer aviso de sirena del Black Whale.
+- Día 4 10:00-11:30 · (T1060) La Tropa (9) sube de incógnito a los niveles bajos (canon). Hisoka NO sube (CAMBIO: en el canon sube para cazar a la Tropa); se queda en la capital de Kakin.
+- Día 4 11:45 · (T1060) Machi saluda a Facundo desde la baranda.
+- Día 4 12:00 · (T1060) Zarpa el Black Whale 1 (canon). Shalnark y Kortopi vivos a bordo. MISIÓN DE MUNDO CUMPLIDA.

@@ -42,3 +42,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 ### Hunter x Hunter
 - Turno 1039 · Cruza la Puerta desde Karakura. Llega frente a la Torre Celestial el día del duelo Hisoka vs. Chrollo. Don de Mundo: Libro de Deudas (Hatsu, Especialista).
 - Turno 1058 · NIVEL 28 tras ganarle a Hisoka la pelea pactada en el puerto de Kakin.
+- Turno 1060 · MISIÓN DE MUNDO DE HUNTER X HUNTER CUMPLIDA: Shalnark y Kortopi vivos al zarpar el Black Whale. Venció dos veces a Hisoka y cerró un trato con él; Hisoka renunció a la Tropa.

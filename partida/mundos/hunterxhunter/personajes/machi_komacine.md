@@ -15,4 +15,5 @@ DIÁLOGOS CLAVE:
 - T1048 · "Ese chicle solo lo suelta él. Lo sé. Lo intenté veinte minutos. Y tú lo soltaste como si fuera tuyo."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1048).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en la fila de embarque del Black Whale 1, puerto de Kakin (T1056).
+ESTADO: a bordo del Black Whale 1, de incógnito en los niveles bajos (T1060). Vivo/a.
+- Día 4 11:45 · Mirando al puerto desde la baranda de una cubierta baja: ve a Facundo y levanta una mano un segundo.

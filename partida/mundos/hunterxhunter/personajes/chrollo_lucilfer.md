@@ -16,4 +16,4 @@ DIÁLOGOS CLAVE:
 - T1040 · "Te advierto una cosa antes de empezar. Voy a usar todo lo que tengo. Todas las habilidades que robé. Y antes de que termine la pelea, voy a explicarte cada una."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1049).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en la fila de embarque del Black Whale 1, puerto de Kakin (T1056).
+ESTADO: a bordo del Black Whale 1, de incógnito en los niveles bajos (T1060). Vivo/a.

@@ -25,4 +25,4 @@ DIÁLOGOS CLAVE:
 - T1040 · "Mmm... ♠ Eso es justo lo que quería escuchar."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1053).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: curado del todo (semilla del ermitaño, T1059); se fue del puerto (paradero desconocido; la gota de Bungee Gum en la palma de Facundo lo conecta). Renunció a la Tropa.
+ESTADO: curado; NO subió al Black Whale; en algún lugar de la capital de Kakin (T1060). Renunció a la Tropa.

@@ -1058,3 +1058,4 @@ T1056 · HxH · (simulado Días 1-4) Azotea; cuerpo de Hisoka "desaparecido"; vi
 T1057 · HxH · Puerto de Kakin · Ultra Instinto Dominado. Hisoka ataca 12 minutos: nada lo toca. Helicóptero de TV filma. Hisoka: "Pégame. Aunque sea una vez."
 T1058 · HxH · Puerto de Kakin · Golpe suave: Hisoka incrustado en un contenedor. NIVEL 28. "Ganaste. Las arañas son tuyas. Pero a ti algún día voy a volver a buscarte."
 T1059 · HxH · Puerto de Kakin · Semilla del ermitaño a Hisoka. "Nos vemos, Hisoka." "Gracias por el mejor día de mi vida. ♥" Primer aviso del Black Whale.
+T1060 · HxH · Puerto de Kakin · La Tropa sube de incógnito; Hisoka no. Machi lo saluda desde la baranda. 12:00 zarpa el Black Whale. MISIÓN DE MUNDO CUMPLIDA. 8 mundos.

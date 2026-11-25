@@ -173,3 +173,4 @@
 - MISIÓN: Que Shalnark y Kortopi sigan vivos cuando zarpe el Black Whale.
 - RECOMPENSA: 10.000 EXP · 300 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- CUMPLIDA: T1060 · Día 4 12:00. Shalnark y Kortopi vivos al zarpar el Black Whale 1. +10.000 EXP, +300 F. Mundos completados: 8.

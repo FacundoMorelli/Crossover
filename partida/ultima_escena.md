@@ -3,88 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1057)
-me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
-
-## RESPUESTA 1 (T1057)
-
-> me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
-
-No haces ningún gesto.
-
-Te quedas parado sobre las chapas del depósito, con los brazos sueltos, y algo cambia. No hay grito ni explosión. El pelo blanco y azul se te vuelve plateado, de golpe, entero, brillante como metal fundido. Los ojos, el rojo y el azul, se llenan de un brillo gris claro que no parpadea. Alrededor de tu cuerpo aparece un resplandor plateado, quieto, que no se mueve como el fuego sino como el agua de un lago sin viento.
-
-Kase salta de tu hombro al techo de chapa y se aleja tres metros, con la cola en alto. No erizado. Mirándote.
-
-> —Bien. Intenta pegarme. Esto es lo más fuerte que tengo.
-
-Hisoka se queda quieto.
-
-La carta deja de girar en sus dedos. Te mira el pelo, los ojos, el resplandor. No siente nada. No hay aura que medir. Solo ve. Y lo que ve lo deja con la boca entreabierta, sin sonrisa, durante un segundo entero.
-
-Después se ríe. Fuerte. Echando la cabeza para atrás.
-
-—♥ ♥ ♥
-
-Y viene.
-
-La carta primero. Después diez cartas, en abanico, cada una con un ángulo distinto. No las esquivas tú: tu cuerpo se mueve solo, un centímetro a la izquierda, medio giro de hombro, la cabeza que se inclina apenas, y las diez cartas pasan rozando, cortando el aire donde estabas, y se clavan en las chapas del techo detrás de ti.
-
-Hisoka ya está encima. Un puñetazo con la mano nueva, envuelta en aura. No está. Una patada a las costillas. No está. Lanza un hilo de chicle a tu tobillo para frenarte, y el hilo se pega a la chapa vacía. Tira del chicle y lo usa para impulsarse, gira en el aire, cae desde arriba con las dos manos juntas como un martillo.
-
-Tu cuerpo da medio paso atrás. El martillo hunde la chapa del techo y abre un agujero hasta el depósito de abajo, lleno de cajas.
-
-Hisoka no para. Rodilla, codo, cartas, chicle, un tajo con los dedos rígidos como cuchillas, una carta escondida en la palma, otra en la boca, un chicle pegado a una chapa suelta que vuela hacia tu nuca desde atrás. Todo. Cada truco que tiene, uno detrás de otro, más rápido cada vez, más preciso, más feroz.
-
-Nada te toca.
-
-Ni la ropa. Ni el pelo. Ni la punta del sobretodo. Tu cuerpo se mueve antes de que él decida moverse, como si leyera la orden en sus músculos antes que su propio cerebro. No contraatacas. No hace falta. Te quedas en un círculo de un metro, y él da vueltas alrededor como una polilla alrededor de una lámpara.
-
-Pasan cinco minutos. Diez.
-
-El techo del depósito está lleno de agujeros y de cartas clavadas. Las chapas sueltas cuelgan. Abajo, en el puerto, alguien señala hacia los techos. Uno de los helicópteros de la televisión gira despacio y apunta la cámara hacia aquí.
-
-A los doce minutos, Hisoka se detiene.
-
-Está a tres metros. Jadea. El maquillaje se le corrió con el sudor: la estrella de la mejilla es una mancha, la lágrima le chorrea hasta la mandíbula. Tiene la ropa nueva rota en las rodillas y los nudillos de la mano nueva pelados de pegarle a las chapas.
-
-Te mira. Tú sigues exactamente en el mismo lugar donde empezaste, con el pelo plateado quieto y los brazos sueltos. Respiras normal.
-
-Hisoka se ríe. Despacio. Sin aire.
-
-—Ni una vez —dice—. Ni la ropa. —Se seca la boca con el dorso de la mano—. Hace doce minutos que te estoy pegando con todo, y ni siquiera me estás mirando. Tu cuerpo me esquiva solo. ♣
-
-Se endereza. Le tiemblan las piernas, las dos.
-
-—Esto es lo más fuerte que tienes. —Se le estira la sonrisa, enorme, manchada de maquillaje corrido—. Y yo no llego a tocarlo.
-
-Se queda en silencio un momento, mirándote, con los ojos amarillos brillando más que nunca.
-
-—Pégame —dice, bajito—. Aunque sea una vez. Quiero saber qué se siente. ♥
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1057 · HUNTER X HUNTER · DÍA 4 · 09:53 ║
-║ Kakin · puerto, techo de un depósito         ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común · ULTRA INSTINTO         ║
-║ DOMINADO (visible: pelo plateado)            ║
-║ Kase: en el techo, a tres metros             ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Pelea con Hisoka                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1058)
+## COMANDO 1 (T1058)
 le pego suave
 
-## RESPUESTA 2 (T1058)
+## RESPUESTA 1 (T1058)
 
 > le pego suave
 
@@ -146,10 +68,10 @@ Cierra los ojos un segundo. Los vuelve a abrir.
 
 ---
 
-## COMANDO 3 (T1059)
+## COMANDO 2 (T1059)
 le doy una semilla del ermitaño, nos vemos hisoka
 
-## RESPUESTA 3 (T1059)
+## RESPUESTA 2 (T1059)
 
 > le doy una semilla del ermitaño, nos vemos hisoka
 
@@ -205,4 +127,72 @@ A lo lejos, en los muelles, una sirena larga y grave sale del casco del Black Wh
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 4 10:00, contenedores del puerto de Kakin. Hisoka curado y se fue ("Gracias por el mejor día de mi vida"). Primer aviso del Black Whale; zarpa a las 12:00. Facundo puede actuar.
+## COMANDO 3 (T1060)
+simula hasta que zarpe el Black Whale
+
+## RESPUESTA 3 (T1060)
+
+> simula hasta que zarpe el Black Whale
+
+Te sientas en el borde del techo del depósito, con las piernas colgando sobre la calle de contenedores, y miras.
+
+[10:00 – 11:30.]
+
+La fila avanza. Doscientas mil personas suben por las rampas de los niveles bajos del barco, despacio, con valijas, chicos dormidos en brazos, jaulas, bolsas de arroz. Inspectores de uniforme gris revisan pasajes en mesas plegables. Por encima de todo, los helicópteros de la televisión dan vueltas y vueltas.
+
+Las presencias de la Tropa suben en distintos momentos, separadas, cada una por una rampa distinta, mezcladas con la gente. El rubio sube con una gorra y una mochila de turista. El pequeño de pelo largo, detrás de una familia numerosa, casi invisible. La mujer de pelo violeta, con un abrigo largo encima del kimono. Chrollo es el último. Nadie lo mira. Una por una, las nueve presencias se pierden adentro del casco, en los niveles más bajos.
+
+El hilo de chicle de tu palma, en cambio, se aleja. Hacia la ciudad. Lejos del barco. Se queda quieto en algún lugar entre los rascacielos, a varios kilómetros, y ya no se mueve.
+
+Hisoka no sube.
+
+[11:45.]
+
+Segunda sirena. Más larga.
+
+Los inspectores levantan las mesas. Las rampas de los niveles bajos se repliegan con un chirrido de hidráulicos que se escucha en todo el puerto. En los niveles altos, sobre las cubiertas escalonadas, aparecen pasajeros en las barandas: pañuelos, banderitas de Kakin, gente que llora y saluda a la que se queda en el muelle.
+
+En la baranda de una de las cubiertas bajas, una figura se queda quieta entre la gente que saluda. Pelo violeta recogido, abrigo largo. No saluda a nadie. Está mirando hacia los techos de los depósitos del puerto.
+
+Hacia ti.
+
+Te ve. Sentado en el borde del techo destrozado, con el gato en el hombro, a doscientos metros. No hace ningún gesto. Se queda mirando un rato largo.
+
+Después levanta una mano, apenas, a la altura del hombro. Un segundo. La baja.
+
+Se da vuelta y se mete en el barco.
+
+[12:00.]
+
+La tercera sirena no termina nunca. Sale del casco del Black Whale 1 como el bramido de un animal enorme y hace vibrar los vidrios de todo el puerto, las chapas del techo donde estás sentado, el agua de la bahía.
+
+Las amarras caen. Los remolcadores tiran. Y despacio, muy despacio, la montaña blanca empieza a separarse del muelle.
+
+Fuegos artificiales en pleno día. Las bandas tocan el himno de Kakin. La multitud del muelle ruge. Los helicópteros siguen al barco mar adentro.
+
+El Black Whale 1 zarpa hacia el Continente Oscuro.
+
+[Misión de Mundo cumplida: Shalnark y Kortopi siguen vivos cuando zarpa el Black Whale.]
+
+[+10.000 EXP · +300 Fragmentos.]
+
+Kase se estira en tu hombro, largo, con las patas delanteras hacia adelante, y bosteza. Mira el barco alejarse por la bahía, cada vez más chico, hasta que es una línea blanca en el horizonte.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1060 · HUNTER X HUNTER · DÍA 4 · 12:00 ║
+║ Kakin · puerto, techo de un depósito         ║
+║ NIVEL 28 · EXP 252.350/280.000               ║
+║ FRAGMENTOS 108.590 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 4 12:00, techo del depósito del puerto de Kakin. Zarpó el Black Whale 1 con la Tropa a bordo; Machi lo saludó desde la baranda. Misión de Mundo cumplida (8 mundos). Hisoka quedó en la ciudad. Facundo puede actuar.

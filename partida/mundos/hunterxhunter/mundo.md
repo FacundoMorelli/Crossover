@@ -8,3 +8,4 @@ DON DE MUNDO: Libro de Deudas (ver sistema.json).
 - T1045 · Hisoka vencido por Facundo frente a los baños públicos; Kortopi vivo (en el canon, Hisoka lo mataba ahí).
 - T1055 · Trato con Hisoka: tregua con la Tropa hasta el zarpe del Black Whale.
 - T1058 · Hisoka renuncia a cazar a la Tropa para siempre (trato).
+- T1060 · Shalnark y Kortopi vivos al zarpar el Black Whale (en el canon morían a manos de Hisoka). Hisoka no subió al barco. MISIÓN DE MUNDO CUMPLIDA.
