@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1289)
-te escuchamos
-
-## RESPUESTA 1 (T1289)
-
-> —Te escuchamos.
-
-Julius se queda agachado junto a William un momento más. Después se sienta en la piedra de la muralla, con las piernas cruzadas, como un chico en un recreo. Cierra el libro. Lo deja en el regazo.
-
-—Lo encontré cuando tenía trece años —dice—. En un pueblo de la frontera, en la Región Abandonada. Tenía la cara quemada y nadie lo quería mirar. Un grimorio de un trébol de tres hojas que nadie le había enseñado a usar. —Sonríe apenas, sin alegría—. Me pareció la persona más gentil que había conocido en mi vida.
-
-El viento le revuelve el pelo rubio.
-
-—Al año me di cuenta. A veces, cuando lo miraba con mi magia, veía dos maná. El suyo, tranquilo, cálido. Y otro, por debajo. Dormido. Frío. Muy viejo. —Se mira las manos—. Se lo pregunté. Me dijo que lo sentía desde siempre. Que a veces soñaba con una boda que no era la suya. Con gente de orejas largas que se moría entre luces.
-
-Yami no dice nada. Se pasa una mano por la cara.
-
-—Le dije que no importaba. —Julius levanta la vista hacia Yami—. Que él era William, y que eso era lo que importaba. Que yo lo iba a proteger. Lo hice capitán. Le di una casa. Le di gente que lo quisiera. —Se le quiebra la voz, apenas—. Pensé que si tenía suficiente luz alrededor, lo otro se iba a quedar dormido para siempre.
-
-Mira el cuerpo en el suelo. El pelo blanco largo. La marca apagada en la frente.
-
-—Hace unas semanas, cuando el maná de Langris se volvió negro en el examen, supe que algo andaba mal. Que lo de adentro de William se estaba despertando, y que no era el único. —Aprieta el libro—. Hoy William me pidió que nos viéramos aquí. Me dijo que tenía que contarme algo. Que había otro a quien él también apreciaba, además de mí.
-
-Se queda callado.
-
-—Y después ya no era él.
-
-El viento sopla entre las almenas. Abajo, en la ciudad, suena una campana lejana: mediodía y media.
-
-Julius te mira a ti. Ya no tiene la sonrisa curiosa. Tiene la cara de un hombre que lleva diez años guardando un secreto y que acaba de soltarlo.
-
-—Lo que habló con su boca no es humano, Facundo-kun. Odia a los humanos con un odio que tiene siglos. Y si es quien yo creo que es, quien manda en el Ojo del Sol de Medianoche desde las sombras... —Respira hondo—. Lo que está pasando hoy en las Rocas Gravito no es un ataque. Es una trampa.
-
-Se inclina un poco hacia ti.
-
-—Tú lo dormiste de un golpe. Así que ahora la pregunta es tuya. —Hace una pausa—. ¿Qué piensas hacer con él?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1289 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · muralla oeste                      ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:30       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1290)
+## COMANDO 1 (T1290)
 eh no se, tu eres el rey mago, es tu responsabilidad, a mi me da igual lo que quieran hacer con el
 
-## RESPUESTA 2 (T1290)
+## RESPUESTA 1 (T1290)
 
 > —Eh... no sé. Tú eres el Rey Mago, es tu responsabilidad. A mí me da igual lo que quieran hacer con él.
 
@@ -109,10 +55,10 @@ Le da una pitada larga. Suelta el humo.
 
 ---
 
-## COMANDO 3 (T1291)
+## COMANDO 2 (T1291)
 voy con vos, te acompaño a ayudarlos, nos teletransportamos
 
-## RESPUESTA 3 (T1291)
+## RESPUESTA 2 (T1291)
 
 > —Voy contigo. Te acompaño a ayudarlos.
 
@@ -173,7 +119,59 @@ El grito rebota en toda la caverna. Las rocas flotantes vibran. Hasta Mereoleona
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1292)
+te esta costando mucho asta
+
+## RESPUESTA 3 (T1292)
+
+> —Te está costando mucho, Asta.
+
+—¡¿QUÉ?! —Asta levanta la espada del suelo de un tirón, rojo hasta las orejas—. ¡No me está costando nada! ¡Estaba calentando! ¡Estaba... estaba esperando el momento!
+
+Y después, sin pausa, en el mismo grito:
+
+—¡¿Y TÚ DÓNDE ESTABAS?! ¡Dijiste unos días! ¡UNOS DÍAS! ¡Te esperé todas las mañanas en la explanada! ¡Todas! ¡Hice flexiones de brazo esperándote! ¡Diez mil por día! —Se le quiebra la voz en algún lugar entre la rabia y otra cosa—. ¡Volviste!
+
+Zora, a su lado, lo mira de reojo con cara de asco.
+
+—¿Este es el famoso Facundo? —Te mira de arriba abajo—. Asta no paró de hablar de ti en tres meses. Creí que te había inventado.
+
+Desde el centro de la roca, Mereoleona se da vuelta, con las garras de fuego todavía encendidas y una sonrisa salvaje.
+
+—¡Oye, Yami! ¿Y este quién es? —Te mira con interés de depredador—. ¡Si vino a robarme la pelea, que haga fila!
+
+Yami no le contesta. Ya tiene la katana desenvainada y la mirada clavada en el muchacho de las magias.
+
+Y el muchacho de las magias sonríe.
+
+Aprovecha que Mereoleona se distrajo y salta hacia atrás, a otra roca flotante. Se queda ahí, en cuclillas, mirándote con la cabeza ladeada. Los ojos le brillan. No mira a Yami. No mira a Asta. Te mira a ti.
+
+—Qué raro —dice, con una voz alegre, suave—. No te siento el maná. Nada. Como si no fueras nada. —Se pasa la lengua por los labios—. Pero apareciste de la nada, con el capitán de los Toros.
+
+Extiende una mano hacia ti, con los dedos abiertos.
+
+—Me encantaría tocar tu grimorio —dice—. ¿Tienes uno? Seguro tienes uno lindo.
+
+Y se lanza hacia ti, saltando de roca en roca, rápido como un pájaro, con la mano estirada.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1292 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:34       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:33, caverna de la base del Ojo en las Rocas Gravito. Mereoleona pelea contra un copiador de magias. Asta ve a Facundo y grita su nombre; todos se detienen. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:34, caverna de las Rocas Gravito. Asta celebra que volvió. El copiador de magias se lanza hacia Facundo para tocarle el grimorio. Facundo puede actuar.

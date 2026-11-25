@@ -1290,3 +1290,4 @@ T1288 · BC · Muralla oeste · Noquea al otro alma de William (+1.000 F, +2.000
 T1289 · BC · Muralla oeste · Julius explica: dos almas en William; lo otro no es humano y quizá manda en el Ojo; lo de las Rocas Gravito es una trampa. "¿Qué piensas hacer con él?"
 T1290 · BC · Muralla oeste · "Es tu responsabilidad, me da igual." Julius se lleva a William a una celda. Yami se va a las Rocas Gravito: "Me ahorrarías medio día de caballo."
 T1291 · BC · Rocas Gravito · Llega con Yami a la base del Ojo. Mereoleona contra un copiador de magias. Asta: "¡¿FACUNDO?!"
+T1292 · BC · Rocas Gravito · "Te está costando, Asta." Asta: "¡Volviste!" El copiador se lanza hacia Facundo: "Me encantaría tocar tu grimorio."

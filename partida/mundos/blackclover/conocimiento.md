@@ -54,3 +54,6 @@
 - Julius, Yami · T1290 · Facundo dejó a William en manos de Julius ("es tu responsabilidad, a mí me da igual").
 - Asta, Zora, Mereoleona, Rhya (sin nombre) · T1291 · vieron a Facundo y a Yami aparecer de la nada en la caverna.
 - Julius · T1291 · vio a Facundo irse con Yami por teletransporte hacia las Rocas Gravito.
+- Zora · T1292 · por Asta (tres meses): el famoso Facundo.
+- Rhya (sin nombre) · T1292 · no le siente el maná a Facundo (Velo); quiere tocar su grimorio (copia magias tocando grimorios — deducción de Facundo pendiente).
+- Facundo · T1292 · por Asta: lo esperó todas las mañanas en la explanada; diez mil flexiones por día.
