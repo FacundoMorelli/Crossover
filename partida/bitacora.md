@@ -1249,3 +1249,4 @@ T1247 · TG · Casa Washuu · Transfigura a Tsuneyoshi (cadena de anzuelos). Com
 T1248 · TG · Casa Washuu (simulación) · 14 Washuu transfigurados; el hijo de Yoshitoki se niega. Arima: "Lo que yo tengo no es hambre. ¿Eso también se puede sacar?"
 T1249 · TG · Casa Washuu · "Puedo probarlo." Arima se saca los lentes (ojos con anillo lechoso; 5-8 años de vida). "Pruébalo."
 T1250 · TG · Casa Washuu · Transfigura a Arima: vida normal y ojos sanos. "Gracias." "En el Jardín quedan otros. Los más chicos tienen nueve años."
+T1251 · TG · Simulación · El Jardín: 31 chicos y Hairu transfigurados. Arima: "Voy a estar leyendo." Anteiku 20:46: una figura con capa y vendas sentada frente a Yoshimura.

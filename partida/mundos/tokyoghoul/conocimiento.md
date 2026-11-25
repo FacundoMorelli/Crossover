@@ -162,3 +162,5 @@
 - Facundo · T1249 · por Arima: el ojo derecho casi no ve de noche, el izquierdo tampoco con poca luz; los médicos del Jardín le dan 5-8 años; ninguno de los que crecieron con él pasó de los 37. Vio el anillo lechoso en sus iris.
 - Arima · T1250 · Facundo le alargó la vida y le devolvió la vista con la mano (lo sintió por dentro; no sabe cómo).
 - Facundo · T1250 · por Arima: en el Jardín quedan otros; los más chicos tienen 9 años.
+- 31 chicos del Jardín, Hairu, dos cuidadoras Washuu · T1251 · por Arima: quién es Facundo y lo que hizo; vivieron la transfiguración.
+- Facundo · T1251 · conoce la ubicación del Jardín (1 h 30 de la ciudad, montaña de cedros).

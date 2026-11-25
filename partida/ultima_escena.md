@@ -3,81 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1248)
-simula hasta que termino con todos
-
-## RESPUESTA 1 (T1248)
-
-> simula hasta que termino con todos
-
-Empiezas por Kaori, ahí mismo, en el pasillo. Ella no levanta la frente del piso mientras le apoyas la mano en la cabeza. Cuando terminas, se queda así un rato más, quieta, y después se levanta, hace una reverencia perfecta y sale a cumplir la orden que Tsuneyoshi le da sin mirarla: que vengan todos.
-
-...
-
-Vienen durante todo el día.
-
-Primero los que viven en la casa: dos mujeres mayores de la cocina, el jardinero viejo, un chofer, tres muchachas jóvenes que trabajan en la limpieza. Todos con el mismo apellido, aunque ninguno lo usa. Todos con la misma cara quieta, educada, sin emoción, que se les rompe en el mismo momento: el primer bocado. Kaori les trae a cada uno un manjū de la tienda de la esquina. A las once ya no quedan manjū en la tienda de la esquina, y la cocinera sale a comprar a otra.
-
-A las doce llega Washuu Yoshitoki, en un auto negro, todavía con el traje de la noche anterior y los ojos rojos de no dormir. Entra a la sala de tatami. Ve a su padre comiendo arroz con encurtidos con palitos, despacio, como un chico. Se queda parado en la puerta mucho tiempo. Después se arrodilla delante de ti, sin decir una palabra, y baja la cabeza.
-
-Cuando terminas, se pone los lentes otra vez. Le tiemblan las manos al hacerlo. No dice gracias. Pero esa tarde, cuando se va, se detiene en la galería y te hace una reverencia más profunda que la que le hizo a su padre.
-
-A la una llegan otros. Primos, tíos, una mujer de unos cuarenta años con un chico de diez de la mano, un hombre de la edad de Yoshitoki con un bastón. Algunos llegan en auto desde otros distritos. Uno llega en tren desde otra ciudad. Ninguno pregunta quién eres. Tsuneyoshi les dice lo mismo a todos, en la sala de tatami, en voz baja, y todos se arrodillan.
-
-Uno solo no.
-
-Un muchacho de unos veinticinco años, de pelo claro peinado con cuidado y anteojos de marco fino, con un traje de investigador de la CCG. El hijo de Yoshitoki. Escucha a su abuelo de pie, con las manos en los bolsillos y una sonrisa torcida. Te mira de arriba abajo con desprecio.
-
-—No necesito nada de un vagabundo con un gato —dice. Y se va.
-
-Yoshitoki cierra los ojos. Tsuneyoshi no dice nada.
-
-A las cuatro y media, el último se levanta del tatami con la boca llena de pan y los ojos mojados. Son catorce, contando a Tsuneyoshi. Uno dijo que no.
-
-La casa está en silencio. Un silencio distinto al de la mañana. En la cocina, alguien se ríe bajito por primera vez en el día.
-
-Kase está dormido sobre un almohadón junto a la ventana, con la panza al sol, como si siempre hubiera vivido ahí.
-
-Sales a la galería.
-
-El jardín está naranja con la luz de la tarde. Los peces del estanque suben a la superficie a buscar algo que nadie les tira. La grava sigue rastrillada en círculos perfectos.
-
-Arima está donde lo dejaste a las diez. De pie, en el borde de la galería, con el maletín plateado al lado de los pies y el libro abierto en las manos. Estuvo ahí todo el día. Lo cierra cuando sales.
-
-Te mira. Después mira hacia adentro, hacia la sala de tatami donde Tsuneyoshi sigue sentado, comiendo, solo.
-
-—Catorce —dice.
-
-Se queda callado un momento largo. El viento mueve los pinos.
-
-—Yo no soy de esta casa. —Lo dice sin mirarte, mirando el estanque—. Soy de otro lugar. Un lugar donde crecen chicos como yo para servir a esta casa. Crecemos rápido. Somos fuertes. —Hace una pausa—. Y nos morimos pronto. Antes de los cuarenta, casi todos. Los ojos se van primero.
-
-Se toca el borde de los lentes con un dedo, una sola vez.
-
-—No tengo hambre. Nunca tuve. —Te mira, por fin. La cara sigue vacía. Pero los ojos, detrás de los lentes, no—. Lo que yo tengo no es hambre. ¿Eso también se puede sacar?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1248 · TOKYO GHOUL · DÍA 7 · 16:41     ║
-║ Distrito 1 · casa Washuu, galería            ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: dormido junto a la ventana             ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1249)
+## COMANDO 1 (T1249)
 puedo probarlo
 
-## RESPUESTA 2 (T1249)
+## RESPUESTA 1 (T1249)
 
 > —Puedo probarlo.
 
@@ -119,10 +48,10 @@ Inclina un poco la cabeza hacia ti, sin darse vuelta. Te ofrece la nuca.
 
 ---
 
-## COMANDO 3 (T1250)
+## COMANDO 2 (T1250)
 lo hago
 
-## RESPUESTA 3 (T1250)
+## RESPUESTA 2 (T1250)
 
 > lo hago
 
@@ -184,7 +113,88 @@ Después, sin mirarte, con la voz igual de plana que siempre, Arima dice:
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1251)
+esta bien, lo voy a hacer con todos. simula
+
+## RESPUESTA 3 (T1251)
+
+> —Está bien. Lo voy a hacer con todos.
+
+...
+
+Arima no pide permiso a nadie. Entra a la sala de tatami, habla con Tsuneyoshi menos de un minuto, y sale con las llaves de un auto negro.
+
+Maneja él. Kase va en tu falda, despierto, mirando por la ventanilla. Arima no pone música ni habla. Salen de la ciudad por una autopista, después por una ruta, después por un camino de montaña entre cedros, mientras el cielo se pone azul oscuro. Una hora y media.
+
+El Jardín es un edificio blanco, bajo, rodeado de un muro y de árboles, al final de un camino de tierra. Parece una escuela. Tiene una cancha de deportes, un huerto, ventanas con rejas finas. Lo cuidan dos mujeres mayores de cara quieta y educada. Washuu, las dos. Arima les dice algo en la puerta y ellas se apartan sin preguntar.
+
+Adentro hay chicos.
+
+Treinta y uno. El más chico tiene nueve años. Los más grandes, diecisiete. Todos de pelo blanco o casi blanco, todos con uniformes grises iguales, todos con los mismos movimientos precisos y la misma cara sin expresión, como si los hubieran sacado del mismo molde. Están en el comedor, cenando en silencio, cuando entran ustedes. Se ponen de pie al mismo tiempo al ver a Arima. Ninguno sonríe.
+
+Una muchacha de unos veinte años, bajita, de pelo blanco corto y ojos rojizos, que no lleva el uniforme gris sino un traje de investigadora de la CCG, cruza el comedor corriendo al verlo.
+
+—¿Arima-san? —Se frena en seco delante de él. Lo mira a la cara—. No tiene los lentes.
+
+—No los necesito —dice Arima.
+
+Ella se queda mirándolo con la boca abierta.
+
+Arima les habla a todos desde la puerta del comedor. Poco. Lo justo. Les dice quién eres. Les dice qué hiciste en la galería. Les dice que pueden elegir.
+
+Eligen todos.
+
+Uno por uno, en fila, sin empujarse, como en un control médico. Les apoyas la mano en la nuca. Treinta y una velas de dos puntas. Treinta y una veces apagas una. En los más chicos la cera todavía está entera, y apenas hay que tocar. En los más grandes, en los ojos, ya empezó la escarcha, y la devuelves atrás.
+
+La muchacha del traje de investigadora es la última. Hairu, le dice Arima. Cuando terminas, se tapa la cara con las dos manos y no se mueve. Arima se queda parado al lado de ella, sin tocarla, sin decir nada, hasta que deja de temblar.
+
+Al final, los chicos vuelven a sentarse a la mesa. Comen. En silencio, igual que antes. Pero en la punta, el de nueve años mira un rato largo la lámpara del techo, entrecerrando los ojos, y después le dice algo al oído al de al lado. Y el de al lado, por primera vez, se ríe.
+
+Arima te lleva de vuelta. En el camino no habla. Cuando dejan atrás los cedros y aparecen las luces de la ciudad, dice una sola cosa, mirando la ruta:
+
+—Hairu quería ser investigadora para estar cerca mío. Nunca supe qué decirle. —Una pausa larga—. Ahora tengo tiempo para pensarlo.
+
+Te deja en el Distrito 20, a una cuadra de Anteiku, a las nueve menos cuarto. No se baja. Te mira por el espejo retrovisor.
+
+—Si alguna vez necesitas algo —dice—, voy a estar leyendo.
+
+Y se va.
+
+...
+
+La calle de Anteiku está oscura y tranquila. Las cintas amarillas de la CCG ya no están. Algunos vecinos volvieron: hay luces en las ventanas de arriba de los edificios.
+
+El cartel de la puerta dice CERRADO. Pero adentro, en el salón, la luz está encendida.
+
+Y la gente de adentro está quieta. Demasiado quieta.
+
+Por el vidrio ves a Kaneki de pie junto a la escalera, con la cara blanca. A Touka detrás de la barra, con el ojo negro y rojo y el ala a medio salir. A Koma y a Irimi en la puerta de la cocina, tensos. Nishiki tiene a Hinami detrás de él, contra la pared.
+
+Y en el medio del salón, sentado en un taburete de la barra, de espaldas a la puerta, hay alguien que no estaba cuando te fuiste. Una figura chica, envuelta de la cabeza a los pies en una capa gris con capucha. Por debajo de la capa asoman vendas: en las manos, en los tobillos, alrededor del cuello. Tiene las piernas colgando del taburete, balanceándolas, como un chico.
+
+Del otro lado de la barra, frente a esa figura, Yoshimura está de pie. Sin lentes. Con las manos apoyadas en la madera. No se mueve.
+
+El hilo plateado junto al cordón está quieto. El umbral no tembló. Quien sea que esté sentado ahí, entró sin venir a hacer daño.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1251 · TOKYO GHOUL · DÍA 7 · 20:46     ║
+║ Distrito 20 · vereda de Anteiku              ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 16:47, galería de la casa Washuu. Arima transfigurado (vida normal, vista sana). Dice que en el Jardín quedan otros, los más chicos de 9 años. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:46, vereda de Anteiku. Adentro, una figura chica con capa gris y vendas está sentada frente a Yoshimura; todos tensos. Facundo puede actuar.

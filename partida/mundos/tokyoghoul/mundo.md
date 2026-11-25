@@ -27,6 +27,7 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 - T1247 · Día 7 · Washuu Tsuneyoshi, presidente de la CCG, transfigurado (sin hambre). Trato: Anteiku y los suyos fuera de las listas de la CCG; secreto de los Washuu.
 - T1248 · Día 7 · 14 miembros de la familia Washuu transfigurados (incl. Tsuneyoshi, Yoshitoki, Kaori). El hijo de Yoshitoki (investigador) se negó.
 - T1250 · Kishou Arima: vida de largo normal (ya no "vela de dos puntas") y vista restaurada (Transfiguración Ociosa). En el canon moría a los ~28 por su propia mano, casi ciego.
+- T1251 · Día 7 · El Jardín del Sol: 31 chicos (9-17) y Hairu Ihei con vida de largo normal y vista sana.
 
 ## TRANSFIGURACIÓN CONTRA EL HAMBRE (mecánica fijada T1169, explicada al jugador)
 - Siguen siendo ghouls: kagune, kakugan al usarlo, fuerza, regeneración y piel dura. Las células RC no cambian: las puertas RC de la CCG los detectan igual y siguen oliendo a ghoul.
