@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1210)
-que quieres shinohara?
-
-## RESPUESTA 1 (T1210)
-
-> —¿Qué quieres, Shinohara?
-
-Shinohara no contesta enseguida.
-
-Mira una vez más hacia la puerta. Juuzou apoyó las dos palmas en la nada y la cara entera, aplastándose la nariz contra algo que no se ve, como un chico contra la vidriera de una juguetería. Los estudiantes de la ventana lo miran, se miran entre ellos y se ríen nerviosos, creyendo que es una broma.
-
-—Juuzou —dice Shinohara, sin levantar la voz—. Espérame afuera. Y levanta eso del piso.
-
-Juuzou hace puchero, pero levanta la navaja y se sienta en el cordón de la vereda, justo al lado del hilo plateado, a mirarlo de cerca con la cabeza ladeada.
-
-Shinohara camina hasta la barra. Se sienta en el taburete que está del otro lado de Kase, despacio, con cuidado, como un hombre al que todavía le tira una herida que ya no tiene. Kase abre un ojo, el azul, lo mira y lo vuelve a cerrar.
-
-Touka sigue con la bandeja en la mano, inmóvil, a tres metros. Nishiki empieza a barrer otra vez, demasiado lento, sin sacar la vista del suelo.
-
-—Un café, por favor —le dice Shinohara a Touka, con una sonrisa amable de cliente—. Negro.
-
-Touka tarda un segundo de más en reaccionar. Después asiente y va hacia la máquina, rígida.
-
-Shinohara se vuelve hacia ti. Habla bajo.
-
-—Me desperté en el sótano de esa mansión con un agujero cerrado en la barriga y un muchacho al que nunca había visto en mi vida diciéndome que me mantuviera alejado de un ghoul. —Apoya los antebrazos en la barra—. Los médicos de la CCG no encontraron ni una cicatriz. Me hicieron análisis durante dos días. Nadie sabe explicar por qué estoy vivo.
-
-Hace una pausa.
-
-—Así que lo primero que quiero es darte las gracias como corresponde. No en un sótano, con la armadura rota y un Ciempiés a dos metros. —Inclina la cabeza, una reverencia corta pero seria—. Gracias. Tengo una esposa y dos hijos que no van a ir a mi funeral por ti.
-
-Se endereza.
-
-—Y lo segundo... —Baja más la voz—. Anteayer llegó un informe a la oficina. Un investigador escuchó en el andén de esta estación a una anciana que decía que un muchacho de ojos de dos colores le quitó el hambre a su nieto. —Te mira a los ojos, uno y otro—. Un ghoul. Le quitó el hambre a un ghoul.
-
-Touka deja la taza de café delante de él. Le tiembla apenas el platillo.
-
-Shinohara no la mira. Te mira a ti.
-
-—¿Es verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1210 · TOKYO GHOUL · DÍA 3 · 10:23     ║
-║ Distrito 20 · Anteiku, barra                 ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1211)
+## COMANDO 1 (T1211)
 si
 
-## RESPUESTA 2 (T1211)
+## RESPUESTA 1 (T1211)
 
 > —Sí.
 
@@ -113,10 +54,10 @@ Se queda callado. Mira de reojo a Touka, que está detrás de la barra secando u
 
 ---
 
-## COMANDO 3 (T1212)
+## COMANDO 2 (T1212)
 si
 
-## RESPUESTA 3 (T1212)
+## RESPUESTA 2 (T1212)
 
 > —Sí.
 
@@ -158,7 +99,69 @@ El reloj de pared hace tic tac.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1213)
+esta bien
+
+## RESPUESTA 3 (T1213)
+
+> —Está bien.
+
+Nadie se mueve.
+
+Touka sigue con el vaso contra el pecho. Nishiki, con la escoba. Shinohara, con las manos alrededor de la taza, mirando la madera de la barra para no mirar a nadie, como prometió.
+
+Entonces Yoshimura deja el repasador sobre la mesada.
+
+Lo dobla en cuatro, con el mismo cuidado de siempre, y camina sin apuro por detrás de la barra hasta la vitrina de vidrio donde están los bollos dulces de la mañana. Abre la puertita. Saca uno, el más chico, con azúcar por encima. Lo pone en un platillo blanco.
+
+Touka abre la boca. Yoshimura la mira, apenas, por encima de los lentes, y ella la cierra.
+
+Yoshimura se para delante de Shinohara, del otro lado de la barra, con el platillo en la mano. Se sacan una cabeza de diferencia. Uno grande, de traje gris, con una venda en el cuello. El otro, delgado, de chaleco y moño, con el pelo blanco peinado con cuidado.
+
+—Señor Shinohara —dice Yoshimura, con su voz suave de barista—. Usted pidió no saber nombres. Se lo agradezco.
+
+Se quita los lentes. Los dobla. Los guarda en el bolsillo del chaleco.
+
+Y su ojo derecho cambia.
+
+No del todo, no de golpe: el blanco se oscurece despacio hasta volverse negro, como tinta que cae en agua, y en el centro el iris se enciende en rojo. Uno solo. El otro sigue siendo el ojo cansado y amable de un viejo.
+
+Shinohara no se mueve. No retrocede. No lleva la mano a ningún lado. Pero se le pone tensa toda la espalda, de un solo golpe, como a un perro viejo que huele algo en el aire.
+
+Yoshimura toma el bollo del platillo con dos dedos. Lo muerde.
+
+Mastica despacio. Con los ojos, el negro y el normal, fijos en Shinohara. Traga. Le queda un poco de azúcar en el labio y se lo saca con la punta del pulgar.
+
+—Es la primera vez en sesenta y tantos años —dice, en voz muy baja— que como algo que hizo un panadero.
+
+Deja el resto del bollo en el platillo. El ojo derecho se le aclara de a poco hasta volver a ser normal. Se pone los lentes.
+
+Shinohara sigue mirándolo. Tiene la taza apretada entre las manos, tan fuerte que el café tiembla.
+
+Pasa mucho tiempo antes de que hable. Cuando lo hace, la voz le sale ronca, sin aire.
+
+—¿Por qué usted? —le pregunta a Yoshimura—. Podía haber sido cualquiera. ¿Por qué se arriesgó usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1213 · TOKYO GHOUL · DÍA 3 · 10:29     ║
+║ Distrito 20 · Anteiku, barra                 ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+(Nota del motor: dentro de la simulación de los dos días, Yoshimura fue uno de "los de la casa" que pidieron la transfiguración, el Día 2 a la noche, al cerrar el café. Quedó registrado así.)
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:27, barra de Anteiku. Shinohara espera ver a un ghoul comer pan, con sus condiciones. Touka, Nishiki y Yoshimura miran a Facundo. Facundo decide cómo mostrarlo.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:29, barra de Anteiku. Yoshimura mostró el kakugan y comió un bollo delante de Shinohara. Shinohara le pregunta por qué se arriesgó él. Facundo puede intervenir.

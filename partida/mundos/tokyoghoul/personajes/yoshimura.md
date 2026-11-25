@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1213 · "Señor Shinohara. Usted pidió no saber nombres. Se lo agradezco." "Es la primera vez en sesenta y tantos años que como algo que hizo un panadero."
 - T1199 · "Ve. Nishiki-kun puede lavar platos. Le va a hacer bien."
 - T1198 · "Esta mañana. Se comió una tostada a escondidas en la cocina. Y después le robaron la otra mitad."
 - T1197 · "Nadie les pidió silencio. Fue mi decisión. Hoy nueve personas comieron pan por primera vez en su vida. No iba a pedirles que se callaran."
@@ -33,4 +34,4 @@ DIÁLOGOS CLAVE:
 - T1156 · "Kaneki me dice que fue usted quien los trajo. A todos. Pasen, por favor. Les voy a preparar café."
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1176); dice ser de Argentina (T1177). Por Kaneki: trajo a todos y salvó a un investigador de Clase Especial delante de él. Huele y respira como humano (T1157).
 QUÉ PODERES VIO: Katana sacada de la nada; algo cambió en el umbral (T1180). Ninguno (lo "miró" con su presencia). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
-ESTADO: Detrás de la barra de Anteiku; no negó ser el Búho (T1160); agradeció la promesa de Facundo (T1161).
+ESTADO: SIN HAMBRE DE GHOUL (transfigurado el Día 2 a la noche, T1209). T1213: se expuso como ghoul ante Shinohara (kakugan en el ojo derecho, comió un bollo).

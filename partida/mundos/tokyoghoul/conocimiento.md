@@ -99,3 +99,5 @@
 - Shinohara · T1211 · confirmado por Facundo: le quitó el hambre a un ghoul.
 - Facundo, Touka, Nishiki (oyen) · T1211 · por Shinohara: la CCG verá a un humano que ayuda a ghouls; gente muy arriba no quiere que esto termine; el Distrito 20 bajo la lupa hace semanas; Shinohara pidió verificar el informe en persona para ganar tiempo.
 - Facundo, Touka, Nishiki, Yoshimura · T1212 · Shinohara dio su palabra: no pedirá nombres ni lo pondrá en un informe.
+- Shinohara · T1213 · vio a Yoshimura (gerente de Anteiku, sin nombre dicho) mostrar un kakugan en el ojo derecho y comer un bollo: sabe que el gerente de Anteiku es un ghoul. NO sabe que es el Búho. Dio su palabra de no informarlo.
+- Touka, Nishiki, Facundo · T1213 · vieron a Yoshimura exponerse ante Shinohara.
