@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1096)
-está bien, acepto, protejo la escuela
-
-## RESPUESTA 1 (T1096)
-
-> está bien, acepto, protejo la escuela
-
-> —Está bien. Acepto. Protejo la escuela.
-
-Nezu aplaude con las dos patitas, encantado.
-
-—¡Espléndido! —Saca de un cajón una carpeta gruesa, ya preparada, con un sello rojo de la U.A. en la tapa, y la deja sobre el escritorio—. Ya tenía los papeles empezados. Toshinori tarda veinte minutos en subir la colina. Yo pienso más rápido.
-
-All Might se ríe por lo bajo, con una mano en la frente.
-
-—Los detalles, rápido, porque sé que los jóvenes se aburren. —Nezu levanta una patita por cada punto—. Uno: va a figurar como "consultor de seguridad externo" de la U.A. Licencia temporal especial, tramitada por mí ante la Comisión. Tardará unos días; mientras tanto, si alguien pregunta, trabaja para mí. Dos: tendrá un cuarto en el edificio de profesores, dentro del campus. Con comida. Y con lugar para el gato. —Mira a Kase—. Me cae bien el gato.
-
-Kase parpadea despacio. Es lo más amable que le hizo a alguien en este mundo.
-
-—Tres. —Nezu baja las patitas—. Sus Dones, en el campus, solo en emergencias. Y fuera del campus, solo con mi permiso o el de un héroe profesional presente. Si no, los papeles no sirven de nada y Tsukauchi me va a llamar muy enojado.
-
-Firma la última hoja con una pluma diminuta. Te pasa la carpeta.
-
-—Bienvenido a la U.A., señor Morelli. —Sonríe—. Ahora, su primera tarea.
-
-Se vuelve hacia All Might.
-
-—Toshinori, llévelo a la sala de monitoreo del Campo Gamma. Quiero que vea a los chicos que va a proteger. Y quiero que los profesores lo vean a él. —Toma un sorbo de té—. Sobre todo Aizawa.
-
-[10:55 · Sala de monitoreo del Campo Gamma.]
-
-Una sala oscura con una pared entera de pantallas. En las pantallas, desde veinte ángulos distintos, un laberinto de tuberías gigantes, de acero, con nieve en los bordes, lleno de chicos con trajes de héroe que corren, saltan, chocan y se lanzan cosas. En una se ve a un muchacho de pelo mitad blanco, mitad rojo, con el brazo derecho cubierto de hielo y el izquierdo en llamas, que congela media tubería de un golpe.
-
-Delante de las pantallas hay dos hombres.
-
-Uno es enorme, musculoso, de piel morada oscura y pelo blanco, con un traje negro de cuello alto. Se da vuelta cuando entras, con los brazos cruzados.
-
-El otro no se da vuelta. Es flaco, de pelo negro largo y despeinado, barba de tres días, un traje negro gastado y una bufanda gris de tela larguísima, enrollada al cuello varias veces. Tiene una cicatriz debajo del ojo derecho. Está sentado en una silla con los pies arriba de la consola y un cartón de jugo en la mano.
-
-Te mira por el reflejo de una pantalla apagada. Mira a Kase. Mira a All Might.
-
-Suspira. Un suspiro largo, cansado, de alguien que ya sabe que le van a dar más trabajo.
-
-—Así que este es el chico del video del banco —dice, sin moverse de la silla—. Vigilantismo con treinta mil reproducciones.
-
-Sorbe el jugo por la pajita.
-
-—All Might. Por favor, dígame que no es un alumno nuevo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1096 · BOKU NO HERO · DIC. · 10:55     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger la U.A.                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1097)
+## COMANDO 1 (T1097)
 no, soy el consultor de seguridad, me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1097)
+## RESPUESTA 1 (T1097)
 
 > no, soy el consultor de seguridad, me llamo Facundo Morelli
 
@@ -127,10 +60,10 @@ No parpadea.
 
 ---
 
-## COMANDO 3 (T1098)
+## COMANDO 2 (T1098)
 me teletransporto detrás de él
 
-## RESPUESTA 3 (T1098)
+## RESPUESTA 2 (T1098)
 
 > me teletransporto detrás de él
 
@@ -192,4 +125,77 @@ Lo sientes desde aquí, a través de las paredes: la presencia enorme e inestabl
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:00, sala de monitoreo. Borrar no funcionó con Facundo. Aizawa lo acepta a su manera. Empieza el quinto combate del entrenamiento conjunto (Izuku vs Monoma + Shinso); la presencia de Izuku tiembla. Facundo puede actuar.
+## COMANDO 3 (T1099)
+observo el combate
+
+## RESPUESTA 3 (T1099)
+
+> observo el combate
+
+Te quedas de pie detrás de la silla de Aizawa, con los brazos cruzados, mirando las pantallas.
+
+El combate empieza rápido.
+
+El chico de pelo verde salta de tubería en tubería con una energía verde que le chisporrotea por todo el cuerpo, como relámpagos chiquitos sobre la piel. Es rápido, preciso, analítico: cada salto mide el siguiente. La chica de mejillas redondas toca una tubería con la yema de los dedos y la tubería entera flota. Una chica de piel rosada lanza ácido. Un chico bajito con bolitas violetas en la cabeza las tira por todos lados y las bolitas se pegan a todo.
+
+Del otro lado, el rubio arrogante se ríe en voz alta. Toca a uno de sus compañeros en el hombro y, de golpe, le salen cuernos en la cabeza igual que a la chica rubia de su equipo.
+
+—Copia —murmura Vlad King, orgulloso—. Monoma copia el Don de cualquiera que toca. Por cinco minutos.
+
+En otra pantalla, un muchacho de pelo violeta despeinado y ojeras, con una máscara metálica sobre la boca y una bufanda igual a la de Aizawa, se mueve entre las sombras. Aizawa se inclina hacia adelante en la silla, sin darse cuenta.
+
+—Shinso —dice, bajito, para nadie—. Vamos.
+
+Monoma consigue tocar al chico de pelo verde. Una palmada en el brazo, en un cruce. Se aleja riéndose. Y después se queda quieto. Frunce el ceño. Se mira las manos.
+
+—No pasa nada —dice, en voz alta, desconcertado—. ¿Por qué no pasa nada?
+
+All Might, en la puerta, se pone rígido.
+
+Monoma se ríe otra vez, nervioso, y empieza a gritarle cosas al chico de pelo verde. Provocaciones. Que la 1-A se cree la gran cosa. Que no son nada sin All Might. El chico de pelo verde aprieta los dientes y le contesta.
+
+Y en ese instante, a través de la máscara metálica, la voz de Shinso le responde imitando la voz de alguien más. El chico de pelo verde se queda quieto. Los ojos se le vacían.
+
+Shinso se lanza a capturarlo con la bufanda.
+
+Y entonces pasa.
+
+Lo sientes antes de verlo: la presencia enorme e inestable del chico se dispara, se descontrola, se desborda como un río que rompe un dique.
+
+De los brazos del chico de pelo verde brotan unos látigos negros. Docenas. Gruesos como cables, negros como tinta, retorciéndose solos. Le salen de los antebrazos, de los hombros, de la espalda. No los controla. Lo sacuden a él, lo levantan del suelo, lo estrellan contra una tubería, se estiran en todas direcciones y arrancan pedazos de acero como si fueran papel.
+
+Shinso sale despedido contra una pared.
+
+La chica de mejillas redondas grita su nombre. Corre hacia él, en lugar de alejarse.
+
+—¡Midoriya! —All Might se agarra del marco de la puerta, blanco como un papel—. ¡Joven Midoriya!
+
+Vlad King aprieta el botón rojo de la consola.
+
+—¡Detengan el combate! ¡Detengan el...!
+
+Aizawa ya está de pie, con el pelo levantado, los ojos rojos fijos en la pantalla. Pero es una pantalla. Desde aquí no puede borrar nada.
+
+—Está a cuatrocientos metros —dice, con la voz tensa—. No llego.
+
+En la pantalla, uno de los látigos negros se estira hacia la chica de mejillas redondas, que sigue corriendo hacia el chico sin frenar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1099 · BOKU NO HERO · DIC. · 11:12     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger la U.A.                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:12, sala de monitoreo. En el quinto combate, el Látigo Negro de Izuku se descontroló; Shinso fue golpeado; un látigo se estira hacia Uraraka. Aizawa no llega (400 m). Facundo puede actuar.

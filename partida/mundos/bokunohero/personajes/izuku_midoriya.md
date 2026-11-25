@@ -11,4 +11,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en el quinto combate del entrenamiento conjunto (Campo Gamma).
+ESTADO: quinto combate: Látigo Negro de Izuku descontrolado (T1099).

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: alivio, curiosidad, simpatía (T1093).
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1099 · "¡Midoriya! ¡Joven Midoriya!"
 - T1097 · "Desde hace quince minutos. Lo nombró el director."
 - T1095 · "Seguridad nueva. Desde el año pasado no entra nadie sin permiso." "El entrenamiento conjunto de primer año. Hoy no se aburren."
 - T1094 · "Solo vino a ayudar. ¿Te acuerdas de lo que decía yo a su edad, Tsukauchi?" "No puedo borrar lo del banco. Pero puedo llevarte a alguien que sí sabe qué hacer con los casos imposibles. Nezu. Le encantan los problemas que no tienen solución." "¿Vienes conmigo a la U.A., joven Morelli?"

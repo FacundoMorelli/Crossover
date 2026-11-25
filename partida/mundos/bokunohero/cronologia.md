@@ -26,3 +26,4 @@
 - Diciembre 10:30 · (T1095) Facundo entra a la U.A. con All Might; Nezu le ofrece registro y licencia temporal a cambio de proteger la escuela.
 - Diciembre 10:50 · (T1096) Facundo, consultor de seguridad externo de la U.A. (Nezu). Visita la sala de monitoreo del entrenamiento conjunto.
 - Diciembre 11:00 · (T1098) Empieza el quinto combate del entrenamiento conjunto (canon: Izuku despierta Látigo Negro sin control).
+- Diciembre 11:12 · (T1099) Quinto combate: Izuku despierta el Látigo Negro sin control (canon, cap. 211). Vlad King detiene el combate.
