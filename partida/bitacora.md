@@ -1148,3 +1148,4 @@ T1146 · BnHA · U.A. · Atrapa la cinta. Izuku se calma y mueve una cinta a vol
 T1147 · BnHA → Tokyo Ghoul · 6 días entrenando a Izuku: domina el Látigo Negro → copia One For All. Despedidas. Puerta. Tokyo Ghoul (tirada 0.9141; momento 0.3248, cap. ~105): acantilado frente a la mansión de Kanou en pleno asalto de la CCG. Don: Kagune de Ceniza. Misión: Anteiku en la Operación del Búho.
 T1148 · TG · Laboratorio · Aparece junto al muchacho de pelo blanco que se come al hombre de la armadura. Los tentáculos giran hacia él. Alguien llega por el pasillo.
 T1149 · TG · Laboratorio · "¿Cómo te llamas?" "Kaneki Ken." Llega el de la maza: "¡Señor Shinohara! ¡Aléjese, es un ghoul!" Carga.
+T1150 · TG · Laboratorio · "Quédense ahí. ¿Dónde estoy?" Amon frena y explica; pide que salga. Kaneki retrocede. Shinohara se desangra.

@@ -3,144 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1147)
-simula unos dias y despues me voy al nuevo mundo
-
-## RESPUESTA 1 (T1147)
-
-> simulo unos días y después me voy al mundo nuevo
-
-[Simulación: seis días.]
-
-Entrenan todas las mañanas, a las seis, antes de que empiecen las clases. Siempre en el mismo campo, detrás del edificio de los profesores, con Kase en el mismo banco.
-
-El primer día, Izuku saca dos cintas y las mantiene quietas en el aire durante diez segundos. Después se le escapan, y una le desordena el pelo a Present Mic, que pasaba por el sendero con un café. Mic grita tan fuerte que se rompe el vidrio de un farol.
-
-El segundo día, son tres cintas y treinta segundos. Izuku ya no cierra los ojos para calmarse. Respira, nada más.
-
-El tercer día llega con un cuaderno lleno de dibujos y anotaciones con letra diminuta: ángulos, distancias, qué siente en el pecho cuando una cinta tira de más. Te lo muestra con las orejas coloradas. Tiene once páginas solo sobre "la cinta asustada".
-
-El cuarto día, All Might baja a mirar. Se sienta en el banco al lado de Kase, en su forma musculosa, y no dice nada en toda la hora. Al final, cuando Izuku atrapa con una cinta una piedra que le tiraste por la espalda sin avisar, All Might se pone de pie y aplaude solo, enorme, con los ojos brillantes.
-
-El quinto día nieva otra vez. Izuku usa el Látigo Negro para engancharse de las ramas de los árboles del bosque y moverse entre ellas, de una a otra, con Full Cowl al ocho por ciento. Se cae cuatro veces en la nieve. La quinta no se cae.
-
-El sexto día amanece despejado y frío.
-
-Izuku llega corriendo, como siempre. Se para en el medio del campo, como siempre. Y esta vez, sin que le digas nada, saca las cintas.
-
-Una. Tres. Seis. Ocho.
-
-Las ocho salen al mismo tiempo, negras, firmes, y se quedan suspendidas a su alrededor como los rayos de una rueda. No tiemblan. Ninguna se mueve sola. Después, una por una, se van hacia los ocho postes de luz que rodean el campo y se enganchan en cada uno, sin doblar ninguno. Izuku se levanta del suelo, suspendido en el medio, sostenido por las ocho cintas a la vez. Se queda ahí, flotando a dos metros del pasto, respirando tranquilo.
-
-Las suelta todas a la vez. Cae de pie, en la nieve, sin hacer ruido.
-
-Se da vuelta hacia ti, temblando, y sonríe con toda la cara.
-
-[Misión de copia cumplida: Izuku Midoriya usa el Látigo Negro con control.]
-
-╔══════════════════════════════════════════════╗
-║ PODER REGISTRADO                             ║
-║ One For All                                  ║
-║ DE: Izuku Midoriya · Boku no Hero Academia   ║
-║ Poder acumulado que se multiplica. Full      ║
-║ Cowl, Látigo Negro, Flotación, Humo, Peligro ║
-║ y Fa Jin, Transmisión y lo que despierte.    ║
-║ Izuku conserva el suyo.                      ║
-║ Dominio total.                               ║
-╚══════════════════════════════════════════════╝
-
-Esa misma mañana te despides.
-
-En la oficina de Nezu, el director te sirve té, como el primer día. Esta vez no se le derrama. Te escucha sin interrumpirte, con las patitas juntas sobre el escritorio.
-
-—Unos días, había dicho —murmura al final—. Fueron diez. —Te mira con los ojitos negros brillantes—. La puerta de esta escuela va a estar abierta, señor Morelli. Para usted y para su gato. Aunque usted no necesite puertas.
-
-Aizawa está apoyado en la pared del fondo, con los brazos cruzados. Cuando sales de la oficina, te alcanza en el pasillo.
-
-—Midoriya va a querer despedirse —dice—. Los demás también. Aunque no sepan muy bien de qué. —Se rasca la nuca—. Les dije que eras un consultor que se iba a otro trabajo. Que es casi verdad.
-
-All Might te abraza en la puerta del edificio de los profesores. Fuerte. Tan fuerte que Kase salta de tu hombro para no quedar en el medio.
-
-—Gracias, joven Morelli —dice, y la voz le sale ronca—. Por todo.
-
-Izuku está esperando en el campo de entrenamiento, con el cuaderno en la mano. No dice nada. Hace una reverencia, la más profunda de todas. Cuando se endereza, tiene los ojos mojados y una cinta negra le sale sola de la muñeca, suave, y te roza la mano antes de volver.
-
-Esta vez no es que se le escapa. Esta vez la manda él.
-
-Kase vuelve a tu hombro.
-
-Detrás de los árboles del bosque del campus, donde nadie mira, abres la Puerta. El rectángulo de luz blanca, con el borde rojo y azul temblando, se recorta contra la nieve.
-
-Cruzas.
-
-[Mundo nuevo.]
-
-Noche.
-
-Hace frío, pero no el de la nieve. Es un frío húmedo, de otoño, con olor a mar y a hojas podridas. Estás en lo alto de un acantilado cubierto de árboles, con el viento golpeándote de frente. Abajo, muy abajo, se oyen las olas romper contra las rocas.
-
-Y del otro lado, a unos trescientos metros, sobre un claro rodeado de bosque, hay una mansión.
-
-Grande, vieja, de estilo occidental, con un techo a dos aguas y ventanas altas. Todas las luces están apagadas. Pero el claro de enfrente no está oscuro: hay camionetas blancas estacionadas en fila, con faros encendidos que apuntan a la puerta principal, y una docena de personas con trajes oscuros y abrigos blancos que corren entre ellas. Llevan maletines plateados en la mano. En los costados de las camionetas, un emblema: tres letras, CCG.
-
-Desde adentro de la mansión, desde abajo de la tierra, llega un ruido sordo. Un golpe. Otro. Algo que se derrumba.
-
-Cierras los ojos.
-
-Abajo, muchos pisos bajo la mansión, hay presencias. Muchas. Algunas son humanas, cansadas, asustadas, heridas. Otras no. Otras tienen algo adentro que no se parece a nada que hayas sentido antes: un hambre que no es hambre de comida, sino algo más hondo, más viejo, enroscado en la parte baja de la espalda como un segundo corazón.
-
-Y en el centro de todo, dos presencias juntas. Una humana, grande, fuerte, que se está apagando despacio. Y otra encima de ella. Una que no es del todo humana ni del todo lo otro. Furiosa. Hambrienta. Llorando.
-
-[Destino fijado.]
-
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Tokyo Ghoul                           ║
-║ DON: KAGUNE DE CENIZA                        ║
-║ Un órgano depredador de ceniza gris que sale ║
-║ de tu espalda en las cuatro formas: ukaku,   ║
-║ koukaku, rinkaku y bikaku. Se alimenta de tu ║
-║ energía, nunca de carne. Las quinques y las  ║
-║ balas Q no lo dañan.                         ║
-║ Bloqueadas: Kakuja (60), Crisálida (90)      ║
-║ Maestría 30                                  ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Tokyo Ghoul                           ║
-║                                              ║
-║ MISIÓN: Que ningún miembro de Anteiku muera  ║
-║ ni sea capturado durante la Operación de     ║
-║ Exterminio del Búho.                         ║
-║ RECOMPENSA: 13.000 EXP · 450 Fragmentos      ║
-║ VENCE: cuando termine la Operación           ║
-╚══════════════════════════════════════════════╝
-
-Allá abajo, la presencia humana que se apaga deja de luchar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1147 · TOKYO GHOUL · NOCHE · 23:40     ║
-║ Acantilado frente a la mansión de Kanou      ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1148)
+## COMANDO 1 (T1148)
 me teletransporto a donde estaba la otra presencia
 
-## RESPUESTA 2 (T1148)
+## RESPUESTA 1 (T1148)
 
 > me teletransporto a donde estaba la otra presencia
 
@@ -196,10 +62,10 @@ A lo lejos, por el pasillo que se abre a tu derecha, sientes que alguien viene c
 
 ---
 
-## COMANDO 3 (T1149)
+## COMANDO 2 (T1149)
 como te llamas niño
 
-## RESPUESTA 3 (T1149)
+## RESPUESTA 2 (T1149)
 
 > —¿Cómo te llamas, niño?
 
@@ -259,4 +125,63 @@ El de la maza ya está corriendo hacia él.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:41, laboratorio. Kaneki dijo su nombre y se calmaba, pero el hombre de la maza (Amon) llegó gritando y carga contra él. Shinohara moribundo. Facundo puede actuar.
+## COMANDO 3 (T1150)
+quedense ahi, los dos. lo digo tranquilo, me pueden explicar donde estoy?
+
+## RESPUESTA 3 (T1150)
+
+> —Quédense ahí, los dos.
+
+Lo dices tranquilo. Sin levantar la voz.
+
+El de la maza frena.
+
+No del todo: patina sobre los escombros, con la maza todavía arriba, y se detiene a cinco metros de Kaneki, con la respiración desbocada. Te mira como si no pudiera creer lo que acaba de escuchar.
+
+Kaneki tampoco se mueve. Los tres tentáculos siguen tensos en el aire, pero no atacan. Él te mira a ti, no al de la maza. Le tiembla la mandíbula.
+
+> —¿Me pueden explicar dónde estoy?
+
+Silencio.
+
+La lámpara que cuelga del cable sigue balanceándose. Las sombras van y vienen.
+
+—¿...Dónde está? —El de la maza lo repite despacio, con la voz ronca—. ¿Me está preguntando dónde está?
+
+Baja la maza unos centímetros. No la suelta. La cabeza metálica se retuerce sola, inquieta, como un perro que quiere morder.
+
+—Está en el sótano de la mansión de un criminal, en medio de un operativo de la CCG, a dos metros de un ghoul de rango S que acaba de... —Se le quiebra la voz. Mira al hombre de la armadura en el piso, y la mandíbula se le aprieta tanto que le cruje—. ...que acaba de destrozar a un investigador de Clase Especial.
+
+Vuelve a mirarte.
+
+—No sé cómo entró aquí. No sé quién es. Pero si es un civil, tiene que salir. Ahora. Por ese pasillo, todo derecho, hasta las escaleras. Hay agentes arriba. Dígales que lo manda Amon.
+
+No te quita los ojos de encima, ni a Kaneki tampoco.
+
+—Y tú —le dice a Kaneki, entre dientes—, aléjate de él.
+
+Kaneki no contesta. Mira a Shinohara, debajo de él. Mira sus propias manos. Y despacio, muy despacio, se levanta de encima del cuerpo y retrocede un paso. Después otro. Los tentáculos se le arrastran por el suelo, dejando surcos en el polvo.
+
+—No... no quería —murmura—. No quería...
+
+En el piso, el hombre de la armadura respira una vez más. Un silbido corto, mojado. El charco de sangre debajo de él ya llega hasta tus zapatos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1150 · TOKYO GHOUL · NOCHE · 23:42     ║
+║ Mansión · laboratorio subterráneo            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:42, laboratorio. Amon se detuvo y le explicó dónde está; le pide que salga. Kaneki retrocede de Shinohara. Shinohara se desangra. Facundo puede actuar.
