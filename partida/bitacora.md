@@ -1184,3 +1184,4 @@ T1182 · TG · Anteiku · Explica la barrera. Yoshimura: investigadores vienen d
 T1183 · TG · Anteiku · El Recinto ahora filtra por intención (café sí; matar no). Anteiku abre. Hinami: "¿Yo también puedo?"
 T1184 · TG · Anteiku · "Sí, Hinami." Hinami: "¿Duele?" Cierra los ojos y espera.
 T1185 · TG · Anteiku · Transfigura a Hinami. Touka le hace una tostada. "Está rica." "¿Cómo te llamas?"
+T1186 · TG · Anteiku · "Me llamo Facundo." Hinami: "Facundo-san." Kase come pan de su mano. Entra Nishiki: "¿Qué carajo me perdí?"

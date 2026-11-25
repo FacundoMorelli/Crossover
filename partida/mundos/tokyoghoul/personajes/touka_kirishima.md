@@ -1,4 +1,4 @@
-NOMBRE: Touka (Kirishima; Facundo todavía no oyó el apellido)
+NOMBRE: Touka Kirishima (apellido oído T1186)
 AFILIACIÓN: Anteiku (mesera)
 RANGO: —
 PODER VISTO POR FACUNDO: —

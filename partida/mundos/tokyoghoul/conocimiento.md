@@ -53,3 +53,6 @@
 - Yoshimura, Touka · T1183 · por Facundo: la barrera deja pasar a investigadores que vienen a tomar café, no a los que vienen a destruir o matar.
 - Hinami · T1183 · por lo que vio arriba: Kaneki y Banjou comen pan sin asco. Sabe (por las paredes finas y por ellos) que Facundo lo hizo.
 - Hinami, Touka, Yoshimura · T1185 · vieron a Facundo transfigurar a Hinami (mano en la cabeza).
+- Hinami · T1186 · Facundo se llama Facundo.
+- Muchacho de anteojos (Nishiki) · T1186 · vio a Facundo (pelo, tatuajes, ojos), al gato y a Hinami comiendo una tostada. No sabe nada más.
+- Facundo · T1186 · por el muchacho de anteojos: el apellido de Touka es Kirishima.
