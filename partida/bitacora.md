@@ -1246,3 +1246,4 @@ T1244 · TG · Casa Washuu · Entra con Arima a su lado. Jardín, sirvienta de k
 T1245 · TG · Casa Washuu · Tasación: sin datos, oculta su naturaleza. Tsuneyoshi confiesa: los Washuu comen carne humana hace más de cien años.
 T1246 · TG · Casa Washuu · Trato: Anteiku y todos fuera de las listas; secreto de los Washuu. Tsuneyoshi inclina la cabeza: "Empiece por mí."
 T1247 · TG · Casa Washuu · Transfigura a Tsuneyoshi (cadena de anzuelos). Come un manjū: "Nunca supe que era dulce." Kaori: "Yo también soy de esta casa."
+T1248 · TG · Casa Washuu (simulación) · 14 Washuu transfigurados; el hijo de Yoshitoki se niega. Arima: "Lo que yo tengo no es hambre. ¿Eso también se puede sacar?"

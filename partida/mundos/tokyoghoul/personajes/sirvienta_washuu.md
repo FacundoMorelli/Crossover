@@ -7,4 +7,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T1247 · "Morelli-sama. Yo también soy de esta casa."
 - T1244 · "Bienvenido, Morelli-sama. El señor lo espera." "Por favor, quítese el calzado."
-ESTADO: De rodillas en el pasillo, frente al piso, pidiendo la transfiguración (T1247).
+ESTADO: TRANSFIGURADA (T1248). Reparte manjū a toda la familia.

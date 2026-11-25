@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1245)
-me siento y uso tasacion en el
-
-## RESPUESTA 1 (T1245)
-
-> me siento y uso Tasación en él
-
-Te sientas sobre el almohadón, frente a él. La taza de té humea a un palmo de tus manos.
-
-Lo miras.
-
-```
-╔════════════════════════════════════════╗
-║ WASHUU TSUNEYOSHI                      ║
-║ Presidente de la CCG                   ║
-║ PODER: sin datos                       ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: muy inferior      ║
-║ Oculta su naturaleza.                  ║
-║ COPIABLE · MISIÓN: sin datos           ║
-╚════════════════════════════════════════╝
-```
-
-Debajo de la piel de papel, de los huesos finos, de la sonrisa amable, hay algo que no termina de ser humano. No lo ves. Lo intuyes, igual que se intuye un segundo latido debajo del primero. Algo que espera, quieto, plegado, muy viejo y muy cansado.
-
-Y con hambre.
-
-Kase, en tu hombro, suelta un gruñido bajo, apenas audible, desde el fondo del pecho.
-
-Tsuneyoshi lo oye. Mira al gato. Sonríe un poco más.
-
-—Los animales siempre se dan cuenta primero —dice—. Mis perros nunca me quisieron.
-
-Toma su taza con las dos manos, despacio, y bebe un sorbo. La deja. Te mira por encima del borde, con los ojos pequeños, oscuros, muy atentos.
-
-—Usted también se dio cuenta, ¿verdad, Morelli-kun? —La voz no cambia. Sigue siendo cálida—. Lo noto en cómo me mira. Igual que mira un médico.
-
-Apoya las manos huesudas sobre la mesa, una encima de la otra.
-
-—Le voy a ahorrar las vueltas. Soy viejo y no tengo tiempo para muchas. —Una pausa—. La persona de mi familia que tiene hambre desde hace mucho tiempo... soy yo. Y no solo yo.
-
-Mira por la ventana, hacia el estanque, donde un pez rojo sube a la superficie y vuelve a hundirse.
-
-—Mi hijo. Mis nietos. Mi padre, antes que yo. Y el padre de mi padre. —Vuelve a mirarte—. Hace más de cien años que la familia que caza ghouls en este país come lo mismo que ellos. A escondidas. Una vez por semana. En esta misma casa.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1245 · TOKYO GHOUL · DÍA 7 · 10:02     ║
-║ Distrito 1 · casa Washuu, sala de tatami     ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, gruñendo bajo            ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: hablar con Tsuneyoshi              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1246)
+## COMANDO 1 (T1246)
 asi que el presidente de la asociacion que caza ghouls es un ghoul, esta bien, puedo sacarte el hambre a ti y a tu familia, ya sabe mis condiciones
 
-## RESPUESTA 2 (T1246)
+## RESPUESTA 1 (T1246)
 
 > —Así que el presidente de la asociación que caza ghouls es un ghoul. Está bien. Puedo sacarte el hambre a ti y a tu familia. Ya sabes mis condiciones.
 
@@ -115,10 +52,10 @@ Se inclina hacia adelante, despacio, sobre la mesa. Baja la cabeza, hasta que la
 
 ---
 
-## COMANDO 3 (T1247)
+## COMANDO 2 (T1247)
 esta bien, lo acepto, me acerco le toco y hago lo mismo de siempre
 
-## RESPUESTA 3 (T1247)
+## RESPUESTA 2 (T1247)
 
 > —Está bien. Lo acepto.
 
@@ -176,7 +113,78 @@ Hace una reverencia hasta tocar la madera del pasillo con la frente. Y se queda 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1248)
+simula hasta que termino con todos
+
+## RESPUESTA 3 (T1248)
+
+> simula hasta que termino con todos
+
+Empiezas por Kaori, ahí mismo, en el pasillo. Ella no levanta la frente del piso mientras le apoyas la mano en la cabeza. Cuando terminas, se queda así un rato más, quieta, y después se levanta, hace una reverencia perfecta y sale a cumplir la orden que Tsuneyoshi le da sin mirarla: que vengan todos.
+
+...
+
+Vienen durante todo el día.
+
+Primero los que viven en la casa: dos mujeres mayores de la cocina, el jardinero viejo, un chofer, tres muchachas jóvenes que trabajan en la limpieza. Todos con el mismo apellido, aunque ninguno lo usa. Todos con la misma cara quieta, educada, sin emoción, que se les rompe en el mismo momento: el primer bocado. Kaori les trae a cada uno un manjū de la tienda de la esquina. A las once ya no quedan manjū en la tienda de la esquina, y la cocinera sale a comprar a otra.
+
+A las doce llega Washuu Yoshitoki, en un auto negro, todavía con el traje de la noche anterior y los ojos rojos de no dormir. Entra a la sala de tatami. Ve a su padre comiendo arroz con encurtidos con palitos, despacio, como un chico. Se queda parado en la puerta mucho tiempo. Después se arrodilla delante de ti, sin decir una palabra, y baja la cabeza.
+
+Cuando terminas, se pone los lentes otra vez. Le tiemblan las manos al hacerlo. No dice gracias. Pero esa tarde, cuando se va, se detiene en la galería y te hace una reverencia más profunda que la que le hizo a su padre.
+
+A la una llegan otros. Primos, tíos, una mujer de unos cuarenta años con un chico de diez de la mano, un hombre de la edad de Yoshitoki con un bastón. Algunos llegan en auto desde otros distritos. Uno llega en tren desde otra ciudad. Ninguno pregunta quién eres. Tsuneyoshi les dice lo mismo a todos, en la sala de tatami, en voz baja, y todos se arrodillan.
+
+Uno solo no.
+
+Un muchacho de unos veinticinco años, de pelo claro peinado con cuidado y anteojos de marco fino, con un traje de investigador de la CCG. El hijo de Yoshitoki. Escucha a su abuelo de pie, con las manos en los bolsillos y una sonrisa torcida. Te mira de arriba abajo con desprecio.
+
+—No necesito nada de un vagabundo con un gato —dice. Y se va.
+
+Yoshitoki cierra los ojos. Tsuneyoshi no dice nada.
+
+A las cuatro y media, el último se levanta del tatami con la boca llena de pan y los ojos mojados. Son catorce, contando a Tsuneyoshi. Uno dijo que no.
+
+La casa está en silencio. Un silencio distinto al de la mañana. En la cocina, alguien se ríe bajito por primera vez en el día.
+
+Kase está dormido sobre un almohadón junto a la ventana, con la panza al sol, como si siempre hubiera vivido ahí.
+
+Sales a la galería.
+
+El jardín está naranja con la luz de la tarde. Los peces del estanque suben a la superficie a buscar algo que nadie les tira. La grava sigue rastrillada en círculos perfectos.
+
+Arima está donde lo dejaste a las diez. De pie, en el borde de la galería, con el maletín plateado al lado de los pies y el libro abierto en las manos. Estuvo ahí todo el día. Lo cierra cuando sales.
+
+Te mira. Después mira hacia adentro, hacia la sala de tatami donde Tsuneyoshi sigue sentado, comiendo, solo.
+
+—Catorce —dice.
+
+Se queda callado un momento largo. El viento mueve los pinos.
+
+—Yo no soy de esta casa. —Lo dice sin mirarte, mirando el estanque—. Soy de otro lugar. Un lugar donde crecen chicos como yo para servir a esta casa. Crecemos rápido. Somos fuertes. —Hace una pausa—. Y nos morimos pronto. Antes de los cuarenta, casi todos. Los ojos se van primero.
+
+Se toca el borde de los lentes con un dedo, una sola vez.
+
+—No tengo hambre. Nunca tuve. —Te mira, por fin. La cara sigue vacía. Pero los ojos, detrás de los lentes, no—. Lo que yo tengo no es hambre. ¿Eso también se puede sacar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1248 · TOKYO GHOUL · DÍA 7 · 16:41     ║
+║ Distrito 1 · casa Washuu, galería            ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: dormido junto a la ventana             ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:07, casa Washuu. Tsuneyoshi transfigurado, comió un manjū. Kaori, la sirvienta, también es Washuu y pide la transfiguración, de rodillas. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 16:41, galería de la casa Washuu. 14 Washuu transfigurados, el hijo de Yoshitoki se negó. Arima cuenta que viene de un lugar donde los crían para servir y mueren antes de los 40, y pregunta si eso también se puede sacar. Facundo puede responder.

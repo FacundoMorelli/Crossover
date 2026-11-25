@@ -155,3 +155,7 @@
 - Facundo · T1246 · por Tsuneyoshi: los Washuu son "algo a mitad de camino" entre ghoul y humano; cazan ghouls para esconder lo que son; hay gente con la que su familia hizo tratos a la que no le conviene que los ghouls dejen de tener hambre. SECRETO pedido por Tsuneyoshi: no contarlo fuera de esa casa.
 - Kaori (sirvienta) · T1247 · vio a Tsuneyoshi comer un manjū tras la transfiguración.
 - Facundo · T1247 · la sirvienta se llama Kaori y es de la familia Washuu (ella lo dice).
+- 14 Washuu · T1248 · vivieron la transfiguración de Facundo. (Secreto de familia.)
+- Hijo de Yoshitoki · T1248 · vio a Facundo; sabe que transfigura a la familia; lo despreció y se fue.
+- Arima · T1248 · estuvo todo el día en la galería: sabe que fueron catorce.
+- Facundo · T1248 · por Arima: viene de un lugar donde crían chicos para servir a los Washuu; crecen rápido, son fuertes, mueren antes de los 40; los ojos se van primero. No tiene hambre.

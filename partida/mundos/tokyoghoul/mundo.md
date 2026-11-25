@@ -25,6 +25,7 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 - T1230 · Día 6 · Dos Black Dobers muertos contra la pared de un banco (camino al puesto de mando).
 - T1237 · Día 6 18:23 · LA OPERACIÓN DEL BÚHO SE SUSPENDE por orden de Washuu Tsuneyoshi (en el canon: masacre, Yoshimura capturado por Eto/Kanou, Kaneki capturado por Arima). Muertos de la noche: al menos 3 Apes y 2 Black Dobers, e investigadores en otras calles. Facundo citado en la casa de Tsuneyoshi, Día 7 10:00.
 - T1247 · Día 7 · Washuu Tsuneyoshi, presidente de la CCG, transfigurado (sin hambre). Trato: Anteiku y los suyos fuera de las listas de la CCG; secreto de los Washuu.
+- T1248 · Día 7 · 14 miembros de la familia Washuu transfigurados (incl. Tsuneyoshi, Yoshitoki, Kaori). El hijo de Yoshitoki (investigador) se negó.
 
 ## TRANSFIGURACIÓN CONTRA EL HAMBRE (mecánica fijada T1169, explicada al jugador)
 - Siguen siendo ghouls: kagune, kakugan al usarlo, fuerza, regeneración y piel dura. Las células RC no cambian: las puertas RC de la CCG los detectan igual y siguen oliendo a ghoul.
