@@ -55,3 +55,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu · T1126 · Facundo: Gigantomachia inconsciente en el valle. Nezu manda rodearlo y pedir un segundo transporte. Facundo corta.
 - Kyudai Garaki · T1126 · vio a Facundo aparecer en el laboratorio con un gato.
 - Nezu · T1128 · Facundo está en el laboratorio de Jaku y pregunta si destruir a los Nomu. Nezu avisa a Tsukauchi, a la policía y a Endeavor.
+- Endeavor · T1130 · por Nezu: Facundo es el consultor de la U.A. y está en el laboratorio. Ve el resultado: Garaki y 64 Nomu neutralizados.

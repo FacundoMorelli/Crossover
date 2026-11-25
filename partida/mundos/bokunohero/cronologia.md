@@ -40,3 +40,4 @@
 - T1121 · Cinco miembros de la Liga quedan inconscientes en su cabaña. Shigaraki y Gigantomachia no se enteran.
 - T1123 · Shigaraki y Gigantomachia derrotados e inconscientes. La Liga entera queda encerrada en su cabaña.
 - T1127 · Laboratorio de Jaku neutralizado: Garaki inconsciente, 64 Nomu sin reacción.
+- T1130 · Endeavor, héroes y policía llegan al laboratorio de Jaku. Evacuan el hospital de arriba.

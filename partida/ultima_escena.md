@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1127)
-uso el haki del rey en todo el laboratorio
-
-## RESPUESTA 1 (T1127)
-
-> uso el haki del rey en todo el laboratorio
-
-No das un paso. No mueves un dedo.
-
-Solo sueltas la voluntad.
-
-El aire del laboratorio se pone pesado de golpe, como si el techo hubiera bajado un metro. Las luces verdes de los tanques parpadean todas juntas. Un zumbido grave recorre las paredes de metal, las mesas, las pantallas. Un vaso de laboratorio se raja solo en una repisa. Kase aplasta las orejas.
-
-Los dedos de Garaki llegan a tocar la tapa de plástico.
-
-No llegan a levantarla.
-
-Los ojos se le van para atrás detrás de las gafas. Le sale espuma por la comisura de la boca, debajo del bigote. Se desliza de la silla con ruedas, que se va rodando sola hacia atrás, y cae al piso de costado, inconsciente. El plato de fideos se vuelca encima de él.
-
-En los tanques, las burbujas cambian.
-
-Por un instante, en todas las filas al mismo tiempo, los cuerpos que flotan se tensan. Docenas de manos deformes que se cierran contra el vidrio. Una cola que da un golpe seco contra la pared de un tanque. Un ala que se abre a medias.
-
-Y después, nada.
-
-Los cuerpos se aflojan. Se hunden un poco en el líquido. Las burbujas vuelven a subir, pero más lentas, más espaciadas. Ya no respiran como si estuvieran dormidos. Respiran como si estuvieran muy, muy lejos.
-
-En las pantallas de la pared, los gráficos que miraba Garaki se ponen en rojo. Todos. Una alarma suave, de máquina, empieza a pitar en un monitor del costado.
-
-[CONSTANTES VITALES: SUJETOS 1 AL 64 — ACTIVIDAD CEREBRAL MÍNIMA]
-
-El botón rojo sigue ahí, bajo su tapa transparente. Sin apretar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1127 · BOKU NO HERO · DIC. · 12:11     ║
-║ Jaku · laboratorio bajo el hospital          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro (orejas aplastadas)       ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Garaki: inconsciente · 64 Nomu: sin reacción ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Garaki y los Nomu                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1128)
+## COMANDO 1 (T1128)
 llamo a Nezu y le digo que mande gente al hospital, quieren que destruya a los nomus o que hago?
 
-## RESPUESTA 2 (T1128)
+## RESPUESTA 1 (T1128)
 
 > llamo a Nezu
 
@@ -112,10 +58,10 @@ Antes de que contestes, agrega, más despacio:
 
 ---
 
-## COMANDO 3 (T1129)
+## COMANDO 2 (T1129)
 esta bien me quedo aqui, el doctor esta inconsciente y los 64 nomus sin reaccion
 
-## RESPUESTA 3 (T1129)
+## RESPUESTA 2 (T1129)
 
 > —Está bien, me quedo aquí. El doctor está inconsciente y los 64 Nomu, sin reacción.
 
@@ -165,4 +111,60 @@ Al lado de su nombre dice: "SUJETO 1".
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:13, laboratorio de Jaku. Esperando a Endeavor (~20 min). Garaki inconsciente. Una pantalla muestra la lista de nombres y fotos de los sujetos (Sujeto 1: mujer joven de oficina). Kase a los pies. Facundo puede actuar.
+## COMANDO 3 (T1130)
+espero a endeavor
+
+## RESPUESTA 3 (T1130)
+
+> espero a Endeavor
+
+Esperas.
+
+Los minutos pasan lentos ahí abajo. El pitido del monitor. Las burbujas. Garaki gime una vez, sin despertarse, y se queda quieto otra vez.
+
+A los quince minutos sientes que llegan. Arriba, muy arriba, a través de todos los pisos de concreto: sirenas, muchas, que se acercan desde varias direcciones. Pasos que corren por los pasillos del hospital. Gente asustada. Y entre todo eso, una presencia que baja. Rápida. Caliente. Directa, como un incendio que no busca puertas.
+
+A los diecinueve minutos, la puerta blindada del fondo del laboratorio se pone roja. Después naranja. Después blanca.
+
+Y después se derrite hacia adentro, como mantequilla, y deja un agujero redondo con los bordes chorreando metal.
+
+Del otro lado, entre el humo, hay un hombre enorme.
+
+Casi tan alto como All Might. Traje azul oscuro, ajustado, con unas llamas que le salen de los hombros, del pecho, de las muñecas. En la cara, una barba y unas cejas que no son pelo, sino fuego, vivo, ondeando. Y del lado izquierdo, una cicatriz larga y nueva que le cruza el ojo desde la frente hasta la mejilla.
+
+Detrás de él se asoman dos o tres personas más con trajes de héroe, y policías con chalecos y armas.
+
+El hombre entra primero. Las botas suenan pesadas en el piso. Recorre con los ojos las filas de tanques, los cuerpos que flotan, las pantallas en rojo. Se detiene un segundo en Garaki, en el piso, con los fideos en el bigote.
+
+Después te mira a ti.
+
+No sonríe. No saluda. El fuego de la barba le arde un poco más fuerte.
+
+—Tú eres el consultor de Nezu —dice. No es una pregunta. La voz le sale grave, áspera—. El que salió de la nada esta mañana.
+
+Da dos pasos más hacia ti. El calor que despide se siente desde lejos.
+
+—Sesenta y cuatro Nomu y el que los fabrica. Solo. En menos de veinte minutos. —Entrecierra el ojo bueno—. ¿Cuál es tu nombre de héroe? Y ¿por qué nunca escuché hablar de ti?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1130 · BOKU NO HERO · DIC. · 12:32     ║
+║ Jaku · laboratorio bajo el hospital          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: a tus pies                             ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Garaki: inconsciente · 64 Nomu: sin reacción ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:32, laboratorio de Jaku. Endeavor entró con héroes y policías. Pregunta a Facundo su nombre de héroe y por qué nunca supo de él. Facundo puede responder.

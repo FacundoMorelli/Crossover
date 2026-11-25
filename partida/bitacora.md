@@ -1128,3 +1128,4 @@ T1126 · BnHA · Jaku · Gigante en el valle (a Nezu). Laboratorio de Nomu. Gara
 T1127 · BnHA · Jaku · Haki del Rey. Garaki inconsciente sin apretar el botón. 64 Nomu con actividad mínima.
 T1128 · BnHA · Jaku · Llama a Nezu. "No los destruya: eran personas." Endeavor, Tsukauchi y la policía en camino (~20 min).
 T1129 · BnHA · Jaku · Se queda a esperar a Endeavor. Nezu: "No toque nada." Pantalla: lista de los sujetos con fotos.
+T1130 · BnHA · Jaku · Endeavor derrite la puerta. "¿Cuál es tu nombre de héroe? ¿Por qué nunca escuché de ti?"
