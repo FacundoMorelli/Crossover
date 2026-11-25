@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1272)
-volvemos a la cafeteria
-
-## RESPUESTA 1 (T1272)
-
-> volvemos a la cafetería
-
-La azotea desaparece. El viento salado, el olor a óxido, las capas oscuras, la espalda encogida de Ayato: todo se va de golpe.
-
-Salón de Anteiku. Luz amarilla. Olor a café y a arroz recién hecho.
-
-Están todos. Koma con un plato en la mano, a medio bocado. Irimi apoyada en la barra. Nishiki secando tazas. Hinami sentada en un taburete con las piernas colgando. Kaneki en el mismo lugar de antes, con las manos sobre la barra. Los cuatro Apes, en una mesa del fondo, comiendo como si fuera la primera vez. Y Yoshimura, detrás de la barra, con el libro de Eto apoyado junto a la caja registradora.
-
-Todos se quedan quietos al verlos aparecer.
-
-Touka te suelta la manga. Se pasa el dorso de la mano por la cara, rápido, de un lado y del otro. No sirve de mucho. Tiene los ojos rojos y la nariz roja, y lo sabe.
-
-Kaneki se levanta del taburete.
-
-—Touka-chan...
-
-—Lo vi —dice ella. Corto. Sin mirar a nadie—. Está vivo. Está flaco. Sigue siendo un idiota.
-
-Se le quiebra la voz en "idiota". Se da vuelta, cruza el salón y sube la escalera de dos en dos sin decir nada más. Arriba, la puerta del cuarto chico se cierra con un golpe.
-
-Nadie dice nada. Hinami baja del taburete y se queda al pie de la escalera, mirando para arriba, sin animarse a subir. Kaneki da un paso hacia la escalera. Se detiene. Vuelve a sentarse.
-
-Yoshimura no comenta nada. Saca una taza limpia, sirve café recién hecho y la pone sobre la barra, delante del taburete vacío que quedó al lado de Kaneki. Después llena otro platito con leche tibia y lo deja al lado, para Kase.
-
-Kase baja de tu hombro a la barra y bebe.
-
-Yoshimura se seca las manos. Te mira por encima de los lentes, que volvió a ponerse.
-
-—Gracias por llevarla —dice—. Hacía tres años que no se atrevía.
-
-Se queda un momento callado, mirando la escalera. Después vuelve a mirarte.
-
-—Morelli-san. Usted nos dijo, la primera noche, que no se iba a ir hasta que terminara la operación. —Lo dice suave, sin reproche—. La operación terminó.
-
-Hace una pausa.
-
-—¿Ya sabe cuándo se va?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1272 · TOKYO GHOUL · DÍA 7 · 21:21     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra, tomando leche             ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1273)
+## COMANDO 1 (T1273)
 esta noche, les voy a dar esto, les doy un boton, si tocan este boton voy a saber que estan en problemas, les doy 4 semillas del ermitaño, esto lo mismo, comanlas si estan en problemas
 
-## RESPUESTA 2 (T1273)
+## RESPUESTA 1 (T1273)
 
 > —Esta noche.
 
@@ -117,10 +57,10 @@ Kaneki se levantó del taburete. Mira hacia arriba, hacia la puerta cerrada del 
 
 ---
 
-## COMANDO 3 (T1274)
+## COMANDO 2 (T1274)
 esta bien kaneki, acaricio el pelo de hinami, si esta noche me voy
 
-## RESPUESTA 3 (T1274)
+## RESPUESTA 2 (T1274)
 
 > —Está bien, Kaneki.
 
@@ -167,7 +107,59 @@ Te mira. Mira la grulla de papel en tu mano. Mira a Hinami. Vuelve a mirarte a t
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1275)
+si, me voy, no se cuando voy a volver, puede ser en 1 semana, o en 3 meses, no lo se
+
+## RESPUESTA 3 (T1275)
+
+> —Sí, me voy. No sé cuándo voy a volver. Puede ser en una semana, o en tres meses. No lo sé.
+
+Touka no se mueve del último escalón.
+
+Se queda mirándote con los brazos cruzados. Aprieta la boca. Afloja. La vuelve a apretar.
+
+—Una semana o tres meses —repite—. Qué preciso.
+
+Baja el escalón. Cruza el salón despacio, esquivando el taburete donde está Kase, y se para delante de ti. No tan cerca como en la azotea. A un paso.
+
+—Cuando vuelvas —dice, mirándote a los ojos, uno y otro—, ya voy a saber lo que quiero. Lo de ser humana. —Traga—. Ayato dijo que esperara. Puede que espere. Puede que no. Pero lo voy a decidir yo. No él. No tú.
+
+Hace una pausa. Se le pone rojo el borde de las orejas.
+
+—Y otra cosa.
+
+Te clava un dedo en el pecho. Fuerte. Justo en el medio del esternón.
+
+—Me debes una revancha. En el 24. —Lo dice entre dientes—. Todavía no te toqué ni una vez. Y la próxima vez que vengas, te voy a tocar. Aunque tenga que entrenar tres meses sola en ese agujero.
+
+Te mira el dedo, apoyado en tu pecho. Se da cuenta de lo que acaba de hacer. Lo retira de golpe, como si quemara.
+
+—Eso no cuenta —dice rápido, roja hasta el cuello—. Eso fue un dedo. No vale.
+
+Detrás de la barra, a Yoshimura se le escapa un sonido que podría ser una tos. Koma se tapa la boca con la mano. Nishiki no se molesta en disimular: se ríe en voz alta.
+
+—¡Cállate, Nishiki! —le grita Touka sin darse vuelta.
+
+En la escalera, Kaneki baja el último escalón. Se queda al lado de Hinami, con las manos en los bolsillos del pantalón prestado. Te mira. Espera su turno.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1275 · TOKYO GHOUL · DÍA 7 · 21:28     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete                         ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: despedirse de Anteiku              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:26, salón de Anteiku. Hinami le regaló una grulla de origami. Touka bajó: "Así que te vas." Facundo tiene la grulla en la mano (no la guardó todavía). Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:28, salón de Anteiku. Touka reclamó una revancha y dijo que decidirá ella lo de ser humana. Kaneki espera su turno para despedirse. Facundo puede actuar.

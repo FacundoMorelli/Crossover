@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1275 · "Una semana o tres meses. Qué preciso." "Cuando vuelvas, ya voy a saber lo que quiero. Lo voy a decidir yo. No él. No tú." "Me debes una revancha. En el 24. La próxima vez que vengas, te voy a tocar." "Eso no cuenta. Eso fue un dedo. No vale." "¡Cállate, Nishiki!"
 - T1274 · "Así que te vas."
 - T1272 · "Lo vi. Está vivo. Está flaco. Sigue siendo un idiota."
 - T1271 · "¿Hasta que qué? Dilo."
