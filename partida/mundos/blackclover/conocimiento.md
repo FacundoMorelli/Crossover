@@ -69,3 +69,4 @@
 - Luck, Rill, Klaus, Hamon y demás tocados · T1298 · sintieron frío y luego calor; Luck "la panza más liviana".
 - Mereoleona · T1298 · sabe que Facundo está en la base de los Toros Negros; viene a pelear.
 - Toros Negros, Mereoleona, Zora, Kiato, Kahono y su abuela · T1300 · vieron a Facundo en Ultra Instinto (aura y pelo plateados, sin mana) esquivar todo. Facundo dijo que es "su mejor fase".
+- Todos los del claro · T1301 · vieron a Facundo tomar la katana de Yami sin que nadie lo viera y cortar Leo Rugiens con una luz azul que congela.

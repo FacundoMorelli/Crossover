@@ -1,8 +1,8 @@
 {
-  "turno": 1300,
+  "turno": 1301,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~94 días después de la salida (T489). Día 4 después de la Reencarnación frustrada (asalto a Rocas Gravito). Noche.",
-  "hora": "Día 4, 21:14",
+  "hora": "Día 4, 21:15",
   "edad": 18,
   "nivel": 29,
   "exp": 294280,
@@ -81,7 +81,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 99,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

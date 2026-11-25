@@ -3,98 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1298)
-si. simula varios dias sacandole lo de adentro a todos
-
-## RESPUESTA 1 (T1298)
-
-> —Sí.
-
-(Simulación: cuatro días sacando las semillas.)
-
-Día 0, la tarde.
-
-Luck es el primero. Lo encuentras en el pasillo del norte, sentado sobre un mago del Ojo dormido, con Noelle al lado retándolo por algo. Cuando le apoyas la mano en el pecho, Luck se ríe, cree que es un juego.
-
-Adentro, enroscada en el fondo de su alma, hay una cosa chiquita, oscura, dormida. Tiene forma. Parece alguien hecho un ovillo, con orejas largas. No está despierta. No sabe que la tocas.
-
-La desenrollas despacio, hebra por hebra, como sacarle un anzuelo a un pez sin romperle la boca. Sale. Queda flotando un segundo sobre tu palma, una lucecita gris. Después se apaga, tranquila, como una vela que nadie sopló.
-
-Luck parpadea.
-
-—Oye... ¿por qué siento la panza más liviana?
-
-Yami, apoyado en la pared, no dice nada. Se prende un cigarrillo y se va por el pasillo.
-
-En la misma base sacas otras cinco. Una en la capitana de pelo blanco del Ciervo Azul, que pinta en el aire y se queja de que le arruinaste el trazo. Una en un muchacho del Amanecer Dorado que usa magia de árboles. Otra en un mago de agua grandote, que sostiene a un compañero herido. Ninguno siente nada más que un frío y después calor.
-
-En el grupo de Yuno no hay nada en Yuno. Tiene algo viejo, sí, pegado al alma, pero no es oscuro y no está dormido: es un espíritu chiquito de viento que te saca la lengua desde su hombro. No es una semilla. Lo dejas.
-
-Esa noche, en el castillo, Julius escucha todo sin interrumpir, con las manos cruzadas. Al final llama a un mago de pelo largo y ojeras, de su guardia, con magia de búsqueda.
-
-—Marx. Quiero la lista de cada Caballero que haya cambiado en estos tres meses. Aunque sea un poco. Para mañana.
-
-Día 1 y Día 2.
-
-La lista son cuarenta y un nombres. La mitad son del Amanecer Dorado.
-
-Vas escuadrón por escuadrón. En la base del Amanecer Dorado, con William todavía en su celda del castillo, el vicecapitán te recibe con la cara dura de quien no sabe si le estás haciendo un favor o un insulto. Pero pone a sus hombres en fila. Diecinueve. A uno, un muchacho de pelo verde que lanza piedras de mana, la semilla se le revuelve cuando la tocas, como si se fuera a despertar. No llega. La sacas antes.
-
-Águilas Plateadas, tres. Mantis Verde, cuatro. La Orca Púrpura, dos. Un noble viejo, en una mansión del Reino Noble, que no es Caballero y que no entiende por qué el Rey Mago le manda a un muchacho sin escudo a tocarle el pecho.
-
-Asta te sigue el Día 1 entero, gritando que le enseñes. El Día 2 ya no viene: Yami lo puso a entrenar con la espada nueva hasta que se le caigan los brazos.
-
-Día 3.
-
-Recorres el reino con el Ki, de punta a punta, despacio. Ciudades, pueblos, el campo, los castillos.
-
-No queda ninguna.
-
-[Semillas oscuras sacadas: 47. Ninguna despertó.]
-
-[Las almas dormidas se apagaron solas al salir.]
-
-Los presos del Ojo, el que cosía cuerpos, el copiador, la invocadora de fuego y los demás, están en las celdas del castillo, con grilletes que les sellan el mana. Julius va a verlos todos los días. No dice para qué.
-
-Día 4, la noche.
-
-La base de los Toros Negros tiene un ala entera todavía en escombros, pero Gordon y Grey taparon los agujeros del comedor con tablas y una cortina. Charmy cocinó para un ejército. Hay una mesa larga, platos que no paran de salir, Magna y Luck peleándose por la última costilla, Vanessa con una copa en cada mano, Noelle sentada al lado de Asta haciendo como que no está sentada al lado de Asta.
-
-Yami, en la punta de la mesa, te sirve algo en un vaso sin preguntarte.
-
-Kiato y Kahono vinieron con su abuela, que no deja de mirarte. Kiato tiene una cicatriz nueva en el brazo, de una práctica, y la muestra como si fuera un trofeo.
-
-Entonces la puerta del comedor se abre de una patada.
-
-La puerta cae. Las tablas de Gordon caen con ella.
-
-En el marco, con el pelo como fuego y la capa de los Leones Carmesí, está Mereoleona. Te busca con la mirada por toda la mesa. Te encuentra.
-
-—Tú —dice—. Me debes una presa. Afuera. Ahora.
-
-Todo el comedor se queda en silencio. Charmy abraza su olla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1298 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · comedor           ║
-║ NIVEL 29 · EXP 294.280/320.000 · D4 21:10    ║
-║ FRAGMENTOS 111.657 · 0 yul                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1299)
+## COMANDO 1 (T1299)
 eh esta bien
 
-## RESPUESTA 2 (T1299)
+## RESPUESTA 1 (T1299)
 
 > —Eh... está bien.
 
@@ -143,10 +55,10 @@ Sale disparada hacia ti. El claro se ilumina como de día. La primera garra vien
 
 ---
 
-## COMANDO 3 (T1300)
+## COMANDO 2 (T1300)
 activo el ultra instinto dominado, esta es mi mejor fase
 
-## RESPUESTA 3 (T1300)
+## RESPUESTA 2 (T1300)
 
 > —Esta es mi mejor fase.
 
@@ -208,7 +120,69 @@ El león de fuego se tira sobre ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1301)
+le robo la espada a yami con luna y corto el dragon
+
+## RESPUESTA 3 (T1301)
+
+> (Le robo la espada a Yami con Luna y corto el león.)
+
+En la puerta, Yami parpadea.
+
+Su mano sigue cerrada, pero ya no hay nada en ella. La katana que llevaba al costado, la vieja, la de la empuñadura gastada, ya no está en su vaina.
+
+Está en tu mano. Del otro lado del claro.
+
+La hoja se pone azul. La luz de la Luna le corre por el filo como agua fría, desde la empuñadura hasta la punta, y alrededor de tus pies la hierba quemada se cubre de escarcha. El vapor del calor de Mereoleona se vuelve neblina.
+
+El león de fuego está encima. Su boca abierta te tapa la luna, el cielo, todo.
+
+Lo cortas.
+
+Un solo tajo, de abajo hacia arriba.
+
+Durante un segundo no pasa nada. Después, el león se parte en dos, de la mandíbula a la melena. Las dos mitades siguen de largo a cada lado de ti, sin tocarte, y mientras pasan se van apagando. El fuego se vuelve azul en los bordes del corte, después blanco, después escarcha. Lo que llega a la tierra detrás de ti no es fuego: es una lluvia de hielo fino, que cae tintineando sobre los escombros del ala rota.
+
+Los árboles que se habían prendido se apagan solos.
+
+[Leo Rugiens: cortado con Luna.]
+
+El claro queda a oscuras, solo con la luna de verdad y tu brillo plateado.
+
+Nadie respira.
+
+—Oye —dice Yami desde la puerta, mirándose la mano vacía—. Esa es mía.
+
+Mereoleona está de pie a quince metros, con los brazos todavía levantados. Las llamas de su cuerpo tiemblan, bajitas, como brasas. Tiene la mirada clavada en ti. En la katana azul. En la escarcha que le llega casi hasta los pies.
+
+Baja los brazos despacio.
+
+Después aprieta los puños. Las brasas vuelven a encenderse, más chicas, más rojas. No le queda mucho. Igual sonríe, con los dientes apretados.
+
+—Todavía no terminé.
+
+Se tira hacia ti con los puños desnudos, envueltos en lo último que le queda de fuego.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1301 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · claro             ║
+║ NIVEL 29 · EXP 294.280/320.000 · D4 21:15    ║
+║ FRAGMENTOS 111.657 · 0 yul                   ║
+║ Energía 99% · Ojos: bien                     ║
+║ Ultra Instinto Dominado                      ║
+║ En la mano: katana de Yami (Luna)            ║
+║ Velo: persona común (aura plateada visible)  ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:14, claro. Facundo en Ultra Instinto Dominado. Mereoleona lanza Leo Rugiens sobre él. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, Día 4 21:15, claro. Leo Rugiens cortado. Facundo con la katana de Yami. Mereoleona carga a puño limpio con lo último de fuego. Facundo puede actuar.
