@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1271 · "¿Hasta que qué? Dilo."
 - T1269 · (a Ayato) "No vine a pedirte que vuelvas. Ya sé que no vas a volver." "El café sigue abierto. Las siete y media, todos los días. Si un día quieres un pan con mermelada, sabes dónde queda." "Sí. Vámonos."
 - T1267 · "Ayato."
 - T1266 · "Vine a verte." "Nadie se murió. Esa es la cosa." "Pan. Y no me da asco. Ya no. Él me lo quitó." "Puede hacer que yo sea humana, Ayato." "Quería que lo supieras antes. De mí."

@@ -1269,3 +1269,4 @@ T1267 · TG · Azotea · Detiene los cristales con un brazo. "No merece llamarse
 T1268 · TG · Azotea · "Me llamo Eclipse. Me conocen como el Panadero." Capa roja: "Aogiri no necesita pan. Necesita dientes. Llévate a la chica y vete. Ayato se queda."
 T1269 · TG · Azotea · "¿Lista para irnos?" Touka se despide de Ayato: el café sigue abierto. Ayato: "Espera."
 T1270 · TG · Azotea · Ayato: "No te hagas humana todavía; aquí saben tu cara." A Facundo: "¿Puedes cuidarla?"
+T1271 · TG · Azotea · "Soy un viajero." Ayato: "Hasta que yo pueda cuidarte. Yo." "Vete con él." Touka llora.

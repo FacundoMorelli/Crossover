@@ -6,6 +6,7 @@ PODER VISTO POR FACUNDO: Tasación: ukaku de dos alas violetas, eléctricas; cri
 ENCUENTROS:
 - T1265 · Azotea de la base de Aogiri · Sentado en el borde; se da vuelta al oler a Touka; alas afuera, kakugan.
 DIÁLOGOS CLAVE:
+- T1271 · "Viajero. Claro. Todos se van." "Entonces que no lo haga. Que no se haga humana. No hasta que..." "Hasta que yo pueda. Cuidarte. Yo." "Vete. Antes de que esto se ponga feo. Vete con él."
 - T1270 · "No te hagas humana todavía. No es por lo que dije." "Hay gente aquí que sabe tu cara." "Tú. Panadero. Paraste todo eso con un brazo. Paraste a la CCG. Al Búho." "¿Puedes cuidarla?"
 - T1269 · "Espera."
 - T1268 · "¿El Panadero? ¿El de los callejones del 20? ¿El que...? Mierda."
@@ -13,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1266 · "¿A verme? ¿Después de tres años? ¿Después del Distrito 11?" "¿Se te murió el viejo del café y te quedaste sin dueño?" "¡¿HUMANA?! ¡¿Te vas a volver una de ellos?! ¡¿Después de lo que le hicieron a papá?!" "¡Entonces no eres mi hermana!"
 - T1265 · "¿Touka? ¿Qué mierda haces aquí? ¿Y quién carajo es este?"
 QUÉ SABE DE FACUNDO: (no consta)
-ESTADO: Detrás de Touka en la azotea; le pidió a Facundo que la cuide (T1270).
+ESTADO: Volvió junto al de la capa roja en la azotea (T1271).
