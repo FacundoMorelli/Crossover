@@ -82,3 +82,4 @@
 - Kaneki, Touka, Yomo · T1203 · apuesta de Facundo: quien lo toque elige la comida que quiera.
 - Facundo · T1204 · sintió (Haki) el kakuja de Kaneki formarse: armadura segmentada de ciempiés sobre hombro, brazo derecho, cuello y cara; tentáculos más gruesos. Kaneki consciente.
 - Kaneki, Touka, Yomo · T1205 · Kaneki usó el kakuja completo sin perder el control por primera vez y lo deshizo a voluntad. (La copia no se ve ni se nota.)
+- Facundo, Touka, Yomo · T1206 · por Kaneki: su mejor amigo humano es Hide; iban a Big Girl; vomitó una hamburguesa ahí después de volverse ghoul.

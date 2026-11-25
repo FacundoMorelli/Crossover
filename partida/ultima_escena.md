@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1203)
-si alguien me logra tocar le doy la comida que quiera
-
-## RESPUESTA 1 (T1203)
-
-> —Si alguien me logra tocar, le doy la comida que quiera.
-
-Kaneki, a mitad de camino hacia tu izquierda, frena medio paso.
-
-Touka, con cientos de cristales temblando en el ala, también.
-
-Se miran. Una sola vez, por encima de tu cabeza. Es una mirada corta, sin palabras, de esas que se cruzan dos personas que se pelearon mucho y se conocen demasiado.
-
-—La que quiera —repite Touka despacio, entrecerrando el ojo.
-
-—Lo que sea —dice Kaneki.
-
-Y vienen.
-
-Ya no atacan cada uno por su lado. Touka suelta los cristales en tandas, no todos juntos: una ráfaga baja a los pies, otra alta a la cabeza, otra en diagonal, cerrando huecos. Kaneki entra por los lugares que dejan libres, con los tentáculos barriendo de lado en vez de caer desde arriba, para obligarte a saltar.
-
-No saltas.
-
-El cuerpo encuentra los huecos solo. Un giro, una inclinación, un paso hacia el costado que llega justo cuando el tentáculo ya pasó. Los cristales se clavan en la piedra alrededor tuyo hasta que el piso parece un campo de agujas violetas. Kaneki pasa a tu lado tres veces, tan cerca que sientes el viento de su camisa, y las tres veces su mano se cierra en el aire donde un instante antes estaba tu hombro.
-
-Un minuto. Dos.
-
-Touka jadea. Kaneki suda, con el pelo blanco pegado a la frente. Ninguno de los dos te tocó ni con la punta de un dedo.
-
-Entonces Touka deja de apuntarte a ti.
-
-Levanta el ala hacia arriba y dispara un solo cristal, grueso como un brazo, directo a la llama blanca que flota a diez metros del suelo.
-
-La llama se apaga.
-
-Oscuridad total. Negro, sin bordes, sin fondo. El eco del cristal rompiéndose contra el techo invisible tarda una eternidad en apagarse.
-
-En la oscuridad se encienden dos ojos rojos con el fondo negro. Después otros dos. Los ghouls ven en lo oscuro.
-
-Tú no los ves.
-
-Desde la izquierda, muy cerca, el roce de cuatro tentáculos que se mueven a la vez. Desde atrás, el zumbido eléctrico del ala de Touka, que ya no está donde estaba.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1203 · TOKYO GHOUL · TARDE · 12:56     ║
-║ Distrito 24 · galería (a oscuras)            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Ultra Instinto Dominado: activo              ║
-║ Kase: en un bloque, junto a Yomo             ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: entrenar a Kaneki y a Touka        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1204)
+## COMANDO 1 (T1204)
 sigo esquivando
 
-## RESPUESTA 2 (T1204)
+## RESPUESTA 1 (T1204)
 
 > sigo esquivando
 
@@ -123,10 +61,10 @@ Y gira la cabeza hacia ti en la oscuridad.
 
 ---
 
-## COMANDO 3 (T1205)
+## COMANDO 2 (T1205)
 bien, controlalo
 
-## RESPUESTA 3 (T1205)
+## RESPUESTA 2 (T1205)
 
 > —Bien. Contrólalo.
 
@@ -198,7 +136,59 @@ Kaneki levanta la vista hacia ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1206)
+lo hicieron bien los dos, diganme que quieren comer?
+
+## RESPUESTA 3 (T1206)
+
+> —Lo hicieron bien los dos. Díganme, ¿qué quieren comer?
+
+Touka levanta la cabeza del charco de golpe.
+
+—No te tocamos. —Lo dice enojada, como si la estuvieras insultando—. Ni una vez. Ni con un dedo.
+
+Se queda esperando que retires lo que dijiste. No lo retiras. Ella aprieta los labios, mira hacia otro lado, se escurre el agua del flequillo con la mano, y por un momento no dice nada.
+
+Kaneki contesta primero. Sigue de rodillas, a la luz temblorosa del encendedor, y no tiene que pensarlo.
+
+—Una hamburguesa. —Se le escapa una sonrisa chica—. Hay un lugar en el Distrito 20, Big Girl. Iba con mi mejor amigo, Hide, todos los fines de semana. Después de que me pasó esto, intenté comer una ahí, delante de él, para que no se diera cuenta. —Baja la vista—. La vomité en el baño.
+
+Se pasa el dorso de la mano por los ojos.
+
+—Una hamburguesa de Big Girl. Con queso. La grande.
+
+Touka sigue mirando para otro lado. Tarda.
+
+—Un pastel —murmura al final, tan bajo que casi no se oye—. De frutillas. Con crema.
+
+Se pone colorada hasta las orejas en la luz amarilla.
+
+—Uno entero —agrega enseguida, más fuerte, cruzándose de brazos, como si eso lo arreglara—. Y no me mires así.
+
+Desde la columna, Yomo no dice nada. Pero la llama del encendedor tiembla un poco más que antes, como si al que lo sostiene se le hubiera escapado algo parecido a una risa por la nariz.
+
+Kase bosteza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1206 · TOKYO GHOUL · TARDE · 13:14     ║
+║ Distrito 24 · galería (encendedor de Yomo)   ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Ultra Instinto Dominado: activo              ║
+║ Kase: en un bloque, junto a Yomo             ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki y a Touka        ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 13:12, galería del Distrito 24. Kaneki controló el kakuja; copia cumplida. De rodillas, pregunta si lo hizo bien. Touka en el charco; Yomo alumbra con un encendedor. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 13:14, galería del Distrito 24. Kaneki pidió una hamburguesa de Big Girl y Touka un pastel de frutillas entero. Facundo puede actuar.

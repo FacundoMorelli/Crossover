@@ -1204,3 +1204,4 @@ T1202 · TG · Distrito 24 · Ultra Instinto Dominado: esquiva todo sin contraat
 T1203 · TG · Distrito 24 · Apuesta: quien lo toque, elige comida. Ataques coordinados. Touka apaga la llama: oscuridad.
 T1204 · TG · Distrito 24 · Sigue esquivando a oscuras. Touka agotada. Kaneki saca el kakuja sin perder el control: "Sigo siendo yo."
 T1205 · TG · Distrito 24 · Kaneki en kakuja completo, controlado, tres minutos. COPIA el kagune de Kaneki (+600 EXP). "¿Lo hice bien?"
+T1206 · TG · Distrito 24 · Premio para los dos. Kaneki: hamburguesa de Big Girl. Touka: pastel de frutillas entero.
