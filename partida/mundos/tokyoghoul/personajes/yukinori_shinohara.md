@@ -7,12 +7,13 @@ FÍSICO: Grande, pelo corto oscuro.
 PERSONALIDAD: Amable, paternal, directo; habla bajo y serio.
 RELACIÓN: Primer encuentro T1148.
 ENCUENTROS:
-- T1237 · Le saca las esposas a Facundo al suspenderse la operación.
+- T1237-T1238 · Busca la llave de las esposas; Facundo se las arranca antes. Lo acompaña al borde del puesto de mando.
 - T1221 · Día 6, avenida 3 · Llega con Houji y Kuroiwa (armadura Arata, casco bajo el brazo). Ve a Facundo junto al Búho entre los investigadores caídos.
 - T1209 · Día 3, 10:20 · Entra a Anteiku (traje gris, venda en el cuello) y encuentra a Facundo en la barra. Detrás, Juuzou rebota contra la barrera.
 - T1151 · Facundo le da una semilla y lo cura con la Transfiguración Ociosa. Despierta.
 - T1148 · Laboratorio subterráneo · Tirado, abdomen atravesado, mordido en el hombro, ojos abiertos sin ver, respira apenas.
 DIÁLOGOS CLAVE:
+- T1238 · "Bueno. Una cosa menos que firmar." "Mañana a las diez vas a entrar a una casa donde ni yo tengo permiso para entrar." "Sé que el viejo nunca llama a nadie kun por teléfono." "¿Vas a volver al café esta noche?"
 - T1229 · "Ni lo sientes."
 - T1228 · "El Búho, en un café. Con una pared que nadie puede cruzar. Y yo, que voy a llevarle a Washuu al único hombre que sabe cómo abrirla."
 - T1227 · "Eso no lo decido yo. La operación la manda Washuu Yoshitoki." (radio) "Tengo conmigo al responsable. Un humano. Se entrega voluntariamente. Su única condición es el cese de la operación."

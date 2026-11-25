@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1235)
-agarro el telefono, mucho gusto presidente, soy Facundo Morelli, un viajero
-
-## RESPUESTA 1 (T1235)
-
-> agarro el teléfono
-
-> —Mucho gusto, presidente. Soy Facundo Morelli, un viajero.
-
-Un silencio corto del otro lado. Después, una risa suave, de viejo. Una risa amable, de abuelo que escucha a un nieto contar algo gracioso en la mesa.
-
-—Morelli-kun. —La voz es cálida, pausada, un poco ronca, con el tono de alguien que tiene todo el tiempo del mundo—. El gusto es mío. Washuu Tsuneyoshi. Disculpe que no pueda recibirlo en persona. Ya no estoy para andar por las calles de noche, y menos en una noche como esta.
-
-Se oye, de fondo, el tintineo de una cuchara contra una taza.
-
-—Mi hijo me cuenta cosas muy difíciles de creer. Que usted duerme a mis hombres con la mirada. Que las esposas que les ponemos a los ghouls más peligrosos no le hacen ni cosquillas. Que levantó una pared alrededor de un café que mis quinques no pueden cruzar. —Una pausa breve—. Yo soy viejo, Morelli-kun. Ya vi muchas cosas difíciles de creer. Así que le creo.
-
-La cuchara deja de sonar.
-
-—Pero hay una de esas cosas que me interesa más que todas las demás. —La voz no cambia de tono, sigue igual de cálida, pero se vuelve más lenta, más cuidadosa—. El informe dice que usted les quita el hambre. Que un ghoul, después de que usted lo toca, come pan. Y que ya no necesita comer personas.
-
-Otra pausa. Más larga.
-
-—¿Es verdad?
-
-En la carpa, nadie se mueve. Washuu Yoshitoki está a un metro de ti, con las manos detrás de la espalda, mirándote. Shinohara tiene la mandíbula apretada. Arima sigue de espaldas, mirando la pantalla de Anteiku, pero inclinó la cabeza apenas hacia ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1235 · TOKYO GHOUL · DÍA 6 · 18:18     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, lomo erizado             ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con el presidente         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1236)
+## COMANDO 1 (T1236)
 asi es, es verdad, de hecho el mismo buho puede comer comida de verdad ahora
 
-## RESPUESTA 2 (T1236)
+## RESPUESTA 1 (T1236)
 
 > —Así es, es verdad. De hecho, el mismo Búho ahora puede comer comida de verdad.
 
@@ -107,10 +61,10 @@ En la carpa, Washuu Yoshitoki cierra los ojos un instante detrás de los lentes.
 
 ---
 
-## COMANDO 3 (T1237)
+## COMANDO 2 (T1237)
 esta bien, mañana estare ahi
 
-## RESPUESTA 3 (T1237)
+## RESPUESTA 2 (T1237)
 
 > —Está bien. Mañana estaré ahí.
 
@@ -181,7 +135,65 @@ Washuu Yoshitoki deja el micrófono sobre la mesa. Saca del bolsillo una libreta
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1238)
+me arranco las esposas, esta bien, muchas gracias, mañana estare a las diez entonces
+
+## RESPUESTA 3 (T1238)
+
+> me arranco las esposas
+
+Shinohara todavía está buscando la llave chica en el cinturón cuando separas las muñecas.
+
+No haces fuerza. Solo las separas.
+
+El metal blanco se abre como papel mojado. La franja roja chisporrotea una vez y se apaga. Los dos aros caen al piso de la carpa, retorcidos, con un tintineo seco, y ruedan hasta los pies de Washuu Yoshitoki.
+
+Él los mira. Se agacha, despacio, y levanta uno. Lo da vuelta entre los dedos. Es una aleación hecha para contener a ghouls de rango S. Está doblada como el envoltorio de un caramelo.
+
+Shinohara se queda con la llave en la mano, a medio camino. Suelta una risa corta por la nariz, cansada, casi aliviada, y se guarda la llave otra vez.
+
+—Bueno —murmura—. Una cosa menos que firmar.
+
+Tomas la hoja doblada que te tiende Washuu.
+
+> —Está bien, muchas gracias. Mañana estaré a las diez, entonces.
+
+Washuu deja el aro roto sobre la mesa de los mapas, junto a tu taza de té todavía llena, como si fuera un pisapapeles.
+
+—Lo estaremos esperando —dice. Y por primera vez en toda la noche, la sonrisa educada parece un poco cansada.
+
+Desdoblas la hoja. Una letra prolija, fina, de tinta negra: una dirección en el Distrito 1, una calle con nombre de árbol, un número. Abajo, en letra más chica: "Portón negro. Diga su nombre."
+
+Al salir de la carpa, la noche está fría y huele a humo. Los reflectores siguen encendidos. Los investigadores que antes te miraban llegar se apartan para dejarte pasar, en silencio, sin mirarte a los ojos. Algunos se sacan el casco. Uno, joven, con la cara manchada de hollín, te mira las manos sin esposas y retrocede un paso.
+
+Shinohara te acompaña hasta el borde del círculo de luz. Ahí se detiene.
+
+—Hasta acá llego yo. —Mira hacia el este, hacia la avenida 3, hacia el café que no se ve desde ahí—. Mañana a las diez vas a entrar a una casa donde ni yo tengo permiso para entrar. —Te mira de costado—. Yo no sé qué hay ahí adentro. Pero sé que el viejo nunca llama a nadie "kun" por teléfono.
+
+Se pone el casco bajo el brazo.
+
+—¿Vas a volver al café esta noche?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1238 · TOKYO GHOUL · DÍA 6 · 18:27     ║
+║ Distrito 20 · borde del puesto de mando      ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
+╚══════════════════════════════════════════════╝
+```
+
+(Ajusté el turno anterior para que encaje: Shinohara no llegó a abrirte las esposas. Te las arrancaste tú.)
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:24, carpa central. Operación suspendida. Misión de Mundo cumplida, nivel 29, Puerta abierta. Sin esposas. Yoshitoki le dio la dirección de su padre para mañana a las 10. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:27, borde del puesto de mando. Facundo se arrancó las esposas, tiene la dirección de Tsuneyoshi (Distrito 1, portón negro). Shinohara pregunta si va a volver al café esta noche. Facundo puede responder.

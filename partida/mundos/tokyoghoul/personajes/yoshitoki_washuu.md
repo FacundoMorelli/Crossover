@@ -7,6 +7,7 @@ ENCUENTROS:
 - T1230 · Puesto de mando (cruce de la avenida 1) · Recibe a Facundo en la entrada de la carpa del medio.
 - T1227 · Por radio · Niega el alto el fuego; pide que le lleven al detenido.
 DIÁLOGOS CLAVE:
+- T1238 · "Lo estaremos esperando." (deja un aro de las esposas rotas sobre la mesa)
 - T1237 · (radio) "Por orden directa del presidente, la Operación de Exterminio del Búho queda suspendida." "La dirección de mi padre. A las diez. Le sugiero ser puntual. Él siempre lo es."
 - T1234 · (al teléfono) "...un humano... sí, esposado... no, ninguna reacción... veintisiete... ninguno muerto..." "Mi padre quiere hablar con usted. Directamente."
 - T1233 · "Mi padre no viene a las calles. Hace treinta años que no pisa una." "Voy a llamarlo. Personalmente." "Permítame presentarle a alguien." "Arima-san. Él es el viajero."

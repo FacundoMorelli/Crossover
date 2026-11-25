@@ -141,3 +141,5 @@
 - Facundo · T1236 · por Tsuneyoshi: "hay alguien en mi familia que hace mucho tiempo que tiene hambre".
 - Todas las unidades de la CCG · T1237 · la operación quedó suspendida por orden directa del presidente.
 - Arima · T1237 · sabe que Facundo va mañana a la casa del presidente ("Mañana").
+- Yoshitoki, Shinohara, Houji, Kuroiwa, Marude · T1238 · vieron a Facundo arrancarse las esposas de supresión como papel.
+- Facundo · T1238 · por Yoshitoki: dirección de Tsuneyoshi (Distrito 1). Por Shinohara: ni él tiene permiso para entrar a esa casa; el viejo nunca le dice "kun" a nadie.
