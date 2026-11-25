@@ -59,3 +59,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Endeavor, Burnin, sidekicks y policía · T1131 · Facundo se presenta como "Eclipse". La Comisión pregunta por Eclipse, recién aparecido en el registro.
 - Endeavor, Comisión de Seguridad Pública · T1132 · Facundo confirma que hizo todo (Liga, gigante, laboratorio). La Comisión quiere verlo hoy.
 - Facundo · T1133 · por Endeavor (en secreto): hay un héroe infiltrado en Deika hace meses, alas rojas de plumas. (Fuente válida: Endeavor.)
+- Hawks · T1134 · vio a Facundo de pie en la sala de Detnerat con los cinco líderes del Ejército inconscientes.

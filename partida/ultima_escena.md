@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1131)
-me llamo eclipse y nunca escucho de mi por que estuve de paseo
-
-## RESPUESTA 1 (T1131)
-
-> —Me llamo Eclipse. Y nunca escuchaste de mí porque estuve de paseo.
-
-El fuego de la barba de Endeavor se queda quieto un segundo.
-
-—"De paseo" —repite.
-
-Detrás de él, uno de los héroes, un muchacho alto con un traje gris y un visor, se tapa la boca con la mano. Una policía hace como que revisa su radio.
-
-Endeavor no se ríe. Te mira de arriba abajo, despacio: la ropa común, el gato sentado a tus pies, las manos vacías. Después vuelve a mirar las sesenta y cuatro filas de tanques.
-
-—Eclipse —dice, como si probara el nombre y no terminara de gustarle—. Bien.
-
-Se da vuelta hacia la puerta derretida.
-
-—¡Ustedes! El viejo, esposado y sedado. No le saquen los ojos de encima ni un segundo. —Uno de los policías se acerca con unas esposas gruesas, especiales, y un paramédico con un maletín—. ¡Y nadie toca los tanques hasta que llegue el equipo de Tsukauchi!
-
-Vuelve a mirarte.
-
-—Nezu me dijo otra cosa por teléfono. —Baja la voz, pero no la suaviza—. Dijo que en las montañas del noroeste hay una cabaña encerrada en una caja que nadie puede abrir. Con la Liga de Villanos adentro. Shigaraki incluido. Y un gigante tirado en la nieve. —El ojo bueno se le clava en ti—. ¿Eso también lo hiciste tú? ¿Esta mañana?
-
-Lo dice como si no le cupiera en la cabeza. Como si le molestara.
-
-Uno de los héroes que vino con él, una mujer de pelo como fuego verde, se le acerca por detrás.
-
-—Endeavor, señor —dice—. La Comisión en la línea dos. Preguntan por un tal Eclipse. Dicen que acaba de aparecer en el registro.
-
-El fuego de la barba de Endeavor sube un poco más.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1131 · BOKU NO HERO · DIC. · 12:33     ║
-║ Jaku · laboratorio bajo el hospital          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: a tus pies                             ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Garaki: esposándolo la policía               ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1132)
+## COMANDO 1 (T1132)
 si todo eso lo hice yo
 
-## RESPUESTA 2 (T1132)
+## RESPUESTA 1 (T1132)
 
 > —Sí, todo eso lo hice yo.
 
@@ -109,10 +55,10 @@ Lo deja ahí. No pregunta qué. Espera.
 
 ---
 
-## COMANDO 3 (T1133)
+## COMANDO 2 (T1133)
 diles que esta bien, termino con lo que tengo que hacer y voy a hablar con ellos
 
-## RESPUESTA 3 (T1133)
+## RESPUESTA 2 (T1133)
 
 > —Diles que está bien. Termino con lo que tengo que hacer y voy a hablar con ellos.
 
@@ -155,4 +101,84 @@ Se endereza. Vuelve a hablar normal, áspero, como si no hubiera dicho nada.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:35, laboratorio de Jaku. Burnin avisa a la Comisión. Endeavor advirtió en secreto que en Deika hay un héroe infiltrado (alas rojas). Facundo puede actuar (Deika, luego la Comisión).
+## COMANDO 3 (T1134)
+hago lo que tengo que hacer sin hacerle nada a hawks
+
+## RESPUESTA 3 (T1134)
+
+> hago lo que tengo que hacer sin hacerle nada a Hawks
+
+Kase te sube al hombro de un salto. Endeavor ya te dio la espalda.
+
+Te vas.
+
+Deika.
+
+Desde arriba, desde el aire, es una ciudad normal. Calles limpias, edificios de oficinas, una estación de tren, un parque con un lago. Gente que camina con bolsas de compras, autos en los semáforos, niños saliendo de una escuela con sus mochilas.
+
+Pero cuando cierras los ojos, la sientes como la sentiste desde la U.A.: decenas de miles de presencias que no se mueven como una ciudad. Se mueven como un ejército. Cada edificio importante, cada esquina, cada comercio, tiene a alguien que espera una orden.
+
+Y en el centro, en lo alto de una torre de cristal con un letrero que dice DETNERAT, las presencias que dan esas órdenes.
+
+Buscas la otra primero. La que no tienes que tocar.
+
+La encuentras lejos del centro, en una azotea del lado este: una presencia liviana, rápida, que nunca se queda quieta del todo, y alrededor de ella, cientos de puntitos chiquitos que se mueven como si fueran parte del mismo cuerpo. Plumas. Está sola. Está mirando hacia la torre.
+
+Bien.
+
+Apareces en el último piso de la torre.
+
+Es una sala de reuniones enorme, con ventanales de piso a techo y una mesa larga de madera oscura. Hay cinco personas sentadas alrededor.
+
+En la cabecera, un hombre muy alto, de traje caro, pelo castaño peinado hacia atrás y anteojos de marco fino, con las manos juntas sobre la mesa. A su derecha, una mujer de lentes con una libreta. Un hombre flaco con una máscara de tela que le tapa la boca, frente a una laptop. Otro de traje con cara de político, con una corbata roja. Y un muchacho de pelo blanco, de pie junto al ventanal, con la mano metida en un vaso de agua.
+
+El de la cabecera alcanza a levantar la vista.
+
+—¿Quién...?
+
+No termina.
+
+Cinco golpes. Ninguno lo ve. Ninguno lo oye.
+
+La mujer de lentes cae sobre su libreta. El de la laptop, de cara contra el teclado, y la pantalla se llena de letras. El de corbata roja se resbala de la silla. El de pelo blanco se dobla junto al ventanal, y el vaso de agua se le cae y se rompe contra el piso. El agua, que había empezado a levantarse sola del vaso como una serpiente, se desarma en un charco.
+
+El hombre alto de la cabecera es el último. Se queda sentado, con los ojos abiertos detrás de los anteojos, rígido, un segundo entero. Después se le va la cabeza hacia adelante y golpea la mesa.
+
+Silencio.
+
+Afuera, en la ciudad, nadie se da cuenta. Los semáforos siguen cambiando. Los niños siguen saliendo de la escuela.
+
+Y entonces sientes que la presencia liviana del lado este se mueve. Rápido. Muy rápido.
+
+Un segundo después, algo golpea el ventanal desde afuera. No lo rompe. Se queda ahí, pegado al vidrio, aleteando.
+
+Es un hombre joven, rubio, con unos lentes de aviador amarillos en la frente, una chaqueta con cuello de piel, y unas alas rojas enormes, de plumas, abiertas a los dos lados. Está mirando la sala. Los cinco cuerpos. La mesa.
+
+Y a ti.
+
+Una de las plumas de sus alas se desprende sola, flota hasta el vidrio, y se queda ahí, apuntándote, como una daga roja.
+
+—Ey —dice, con una sonrisa que no le llega a los ojos. Se le oye apenas, a través del cristal—. ¿Y tú quién eres, amigo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1134 · BOKU NO HERO · DIC. · 12:37     ║
+║ Deika · torre Detnerat, último piso          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Cúpula del Ejército: 5 inconscientes         ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Deika                              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:37, torre Detnerat (Deika), último piso. Re-Destro, Curious, Skeptic, Trumpet y Geten inconscientes. Hawks pegado al ventanal por fuera, una pluma apuntando a Facundo: "¿Y tú quién eres, amigo?" Facundo puede responder.
