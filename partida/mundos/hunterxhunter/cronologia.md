@@ -38,3 +38,4 @@
 - Día 1 19:49 · (T1048) Facundo libera a Machi del Bungee Gum en la sala médica 3.
 - Día 1 19:51 · (T1049) Chrollo llega a los baños públicos (llamado por Shalnark). Facundo vuelve con Machi.
 - Día 1 19:53 · (T1050) Chrollo decide no matar a Hisoka por la amenaza de Facundo (CAMBIO).
+- Día 1 19:55 · (T1051) La Tropa se va; Facundo los protege hasta que zarpe el Black Whale. Hisoka empieza a despertar.

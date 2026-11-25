@@ -1049,3 +1049,4 @@ T1047 · HxH · Baños públicos · Llega Shalnark: "Te vi en una pantalla." Ant
 T1048 · HxH · Torre, sala médica 3 · "Si le hacen algo, están muertos." Shalnark: "No lo tocamos." Libera a Machi del Bungee Gum: "Lo soltaste como si fuera tuyo."
 T1049 · HxH · Baños públicos · Vuelve con Machi. Chrollo llegó: "¿Por qué no debería terminar lo que empecé?"
 T1050 · HxH · Baños públicos · "Si terminas lo que empezaste, yo termino lo que él empezó." Chrollo: "No lo tocamos." "¿Hasta cuándo nos vas a proteger?"
+T1051 · HxH · Baños públicos · "Hasta que zarpe el Black Whale. Váyanse." Chrollo: "El Black Whale." Se van. Kortopi: "Gracias." Machi: "No lo voy a olvidar." Hisoka mueve los dedos.

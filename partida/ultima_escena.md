@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1048)
-no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
-
-## RESPUESTA 1 (T1048)
-
-> no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
-
-> —No. Déjalo así. Voy a rescatar a Machi. Si le hacen algo, aunque no complete mi misión, están muertos.
-
-No lo dices fuerte.
-
-Shalnark se queda quieto, en cuclillas, con la antena a dos centímetros de la nuca de Hisoka. Te mira desde abajo. La sonrisa le sigue en la cara, pero algo se le apaga detrás de los ojos, muy rápido, como una luz que alguien baja.
-
-Por primera vez desde que llegó, no dice nada gracioso.
-
-Se endereza despacio. Guarda la antena en el bolsillo del pantalón, a la vista, para que veas que la guardó.
-
-—Entendido —dice. Liviano. Pero no se ríe—. No lo tocamos.
-
-En el escalón, Kortopi asiente, una sola vez.
-
-Desapareces.
-
-Apareces en un pasillo de servicio de la Torre, en el piso de abajo del estadio. Luz blanca de tubos, piso de linóleo gris, olor a desinfectante. Al fondo, una puerta de metal con un cartel: SALA MÉDICA 3. Está entreabierta.
-
-La empujas.
-
-Adentro hay una camilla vacía, con una sábana manchada de sangre tirada en el piso. Instrumental médico desparramado, una bandeja volcada. Y contra la pared del fondo, a medio metro del suelo, está ella.
-
-La mujer de pelo violeta, pegada a la pared como una mosca en una tela. Tiene los brazos abiertos en cruz y las muñecas, los tobillos y la cintura envueltos en una masa rosada, elástica, brillante, que la sujeta a los azulejos. Una tira más fina le tapa la boca. El kimono corto está manchado de sangre, de la de otro. Tiene las manos llenas de hilos finísimos de aura, cortados, colgando: estaba cosiendo cuando él se levantó.
-
-Te mira entrar. Los ojos, encima de la mordaza rosada, se le endurecen, fríos y quietos.
-
-Te acercas. Agarras la masa rosada que le sujeta la muñeca derecha.
-
-La conoces. Hace diez minutos no la conocías, y ahora sí: sabes cómo está hecha, cómo se pega, cómo se suelta. Le das la orden y el chicle te obedece a ti también. Se afloja. Se despega de la pared y de la piel como una cinta que pierde el pegamento. La muñeca izquierda. La cintura. Los tobillos. La mordaza, la última.
-
-Machi cae de pie. No se tambalea.
-
-Se toca la boca con el dorso de la mano. Se mira las muñecas, sin una marca. Después te mira a ti, de arriba abajo, sin moverse de su lugar, con los hilos de aura todavía colgando de los dedos.
-
-—Ese chicle solo lo suelta él —dice. La voz es seca, baja—. Lo sé. Lo intenté veinte minutos.
-
-Los hilos de los dedos se le tensan solos, sin que haga un gesto.
-
-—Y tú lo soltaste como si fuera tuyo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1048 · HUNTER X HUNTER · DÍA 1 · 19:49 ║
-║ Torre Celestial · sala médica 3              ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, tranquilo                ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Rescatar a Machi                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1049)
+## COMANDO 1 (T1049)
 me llamo Facundo Morelli, vamos con Shalnark y Kortopi
 
-## RESPUESTA 2 (T1049)
+## RESPUESTA 1 (T1049)
 
 > me llamo Facundo Morelli, vamos con Shalnark y Kortopi
 
@@ -135,10 +70,10 @@ Vuelve a mirarte.
 
 ---
 
-## COMANDO 3 (T1050)
+## COMANDO 2 (T1050)
 si terminas lo que empezaste yo termino lo que el empezo, ustedes deciden
 
-## RESPUESTA 3 (T1050)
+## RESPUESTA 2 (T1050)
 
 > si terminas lo que empezaste yo termino lo que el empezo, ustedes deciden
 
@@ -192,4 +127,67 @@ Ladea apenas la cabeza.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:53, baños públicos. Chrollo acepta no tocar a Hisoka por la Araña, pero advierte que Hisoka seguirá cazándolos. Le pregunta a Facundo hasta cuándo dura su misión de protegerlos. Facundo puede responder.
+## COMANDO 3 (T1051)
+hasta que zarpe el Black Whale, después hagan lo que quieran, si quieren intentar matar a hisoka o lo que quieran despues de eso se los dejo, ahora vayanse de aca
+
+## RESPUESTA 3 (T1051)
+
+> hasta que zarpe el Black Whale, después hagan lo que quieran, si quieren intentar matar a hisoka o lo que quieran despues de eso se los dejo, ahora vayanse de aca
+
+> —Hasta que zarpe el Black Whale. Después, hagan lo que quieran. Si quieren intentar matar a Hisoka o lo que sea, después de eso se los dejo. Ahora, váyanse de aquí.
+
+—El Black Whale —repite Chrollo.
+
+No pregunta nada más. Te mira con la misma calma de antes, pero algo se le mueve detrás de los ojos: una idea que se acomoda, una pieza que encaja en un lugar que nadie más ve.
+
+Shalnark mira a Chrollo de reojo. Chrollo no lo mira a él.
+
+—Está bien —dice al fin.
+
+Se da vuelta. No se apura. Camina hacia la esquina de la calle, por debajo del poste torcido, con las manos en los bolsillos del abrigo.
+
+—Vamos.
+
+Shalnark se despega de la pared. Al pasar junto a ti te mira, con la sonrisa otra vez puesta, más chica que antes.
+
+—Fue un gusto, Facundo Morelli. —Levanta el celular—. Ahora tengo tu nombre en mi lista de contactos. No tengo tu número, pero ya lo voy a conseguir. —Le guiña un ojo a Kase. Kase lo mira con desprecio.
+
+Kortopi se levanta del escalón. Pasa a tu lado sin decir nada, despacio. Se detiene un segundo. El ojo, entre el pelo, se queda en ti.
+
+—Gracias —dice. Bajito, ronco. Es lo único.
+
+Después sigue.
+
+Machi es la última. No se mueve enseguida. Te mira con los brazos cruzados, los hilos ya guardados, la cara seria.
+
+—Me salvaste —dice—. No te lo pedí. —Una pausa—. Pero no lo voy a olvidar.
+
+Se da vuelta y alcanza a los otros tres en la esquina. Chrollo no mira atrás. Los cuatro doblan y desaparecen entre las luces de la avenida.
+
+La calle queda vacía. Solo el farol que zumba, el neón roto de los baños que parpadea, y a lo lejos las sirenas, que ya se están apagando.
+
+Y Hisoka, en el asfalto, a tus pies.
+
+Kase baja la cabeza desde tu hombro y lo mira.
+
+Los dedos de la mano derecha de Hisoka, la que tiene entera, se mueven. Un poco. Rascan el asfalto, despacio, como un animal que sueña.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1051 · HUNTER X HUNTER · DÍA 1 · 19:55 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:55, baños públicos. La Tropa se fue (Kortopi: "Gracias"; Machi: "No lo voy a olvidar"). Facundo solo con Hisoka, que empieza a mover los dedos. Facundo puede actuar.
