@@ -68,3 +68,6 @@
 - Facundo · T1194 · por Kaneki: se hizo fuerte comiendo (Yamori, los de Aogiri, los ghouls de la mansión).
 - Facundo · T1195 · por Kaneki: el Distrito 24 es una red de túneles y galerías bajo la ciudad; Yomo lo entrenaba ahí; la CCG no baja; la entrada más cercana está lejos.
 - Kaneki · T1195 · oyó desde arriba (anoche/hoy) lo de las 10 en la puerta del callejón con Yoshimura.
+- Ghouls del callejón (Kimura y Kenta, obrero, dos hermanas, embarazada, viejo de bastón y otros) · T1196 · vieron a Facundo (ojos de dos colores, tatuajes) quitar el hambre con la mano en la puerta trasera de Anteiku, con Yoshimura.
+- Ghouls del Distrito 20 (rumor) · T1196 · "un humano de ojos de dos colores quita el hambre" (deformado según quién lo cuente).
+- Yomo · T1196 · por el rumor de la estación (una vieja) + lo que ve al entrar (Facundo con ojos de dos colores en Anteiku).

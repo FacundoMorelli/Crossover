@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1196 · (Mañana en el callejón: habla con cada ghoul en el umbral, les da comida; se limpia los lentes cada vez que uno muerde algo por primera vez.)
 - T1187 · "Nishiki-kun. Buenos días. Es un invitado."
 - T1183 · "A qué vienen. No quiénes son." "Va a ser raro igual. Pero va a ser raro para uno a la vez, y no delante de todos. Eso se puede explicar."
 - T1182 · "Es un regalo enorme. Pero soy viejo y desconfío de todo lo que es demasiado bueno." "A veces, investigadores. Vienen de civil. Si uno de ellos llega a esa puerta y no puede pasar..."
