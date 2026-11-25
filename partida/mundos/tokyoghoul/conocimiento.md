@@ -31,3 +31,4 @@
 - Kaneki, Tsukiyama · T1166 · vieron a Facundo tocar a Kaneki en el pecho y quitarle el hambre (Kaneki lo sintió por dentro; no sabe cómo). Vieron a Facundo sacar una manzana de la nada. Kaneki comió la manzana sin asco.
 - Kaneki, Tsukiyama, Banjou, tres máscaras · T1167 · Facundo ofrece quitar el hambre de ghoul a los que quieran. Banjou y las máscaras escucharon todo desde el cuarto (vieron después a Kaneki con la manzana).
 - Facundo · T1168 · por Banjou: fue jefe del Distrito 11; siempre le dio asco comer gente; comía lo que le tiraban. Vio la cara de los tres de las máscaras.
+- Banjou, tres máscaras, Kaneki, Tsukiyama · T1169 · vieron a Facundo quitarles el hambre de ghoul a Banjou y a los tres con la palma en la frente.

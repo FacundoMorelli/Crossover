@@ -1167,3 +1167,4 @@ T1165 · TG · Anteiku arriba · "Acércate, Kaneki." Kaneki en cuclillas frente
 T1166 · TG · Anteiku arriba · Transfiguración Ociosa: Kaneki sin hambre de ghoul ni asco a la comida humana. Come una manzana llorando. "¿Puedes hacerlo con ellos también?"
 T1167 · TG · Anteiku arriba · "Con los que quieran." Tsukiyama declina. Banjou y las máscaras escuchaban: "¿Es verdad?"
 T1168 · TG · Anteiku arriba · "Sí." Banjou se arrodilla: "Hazlo. Por favor." Las tres máscaras se sacan las máscaras.
+T1169 · TG · Anteiku arriba · Transfigura a Banjou y a las tres máscaras. Banjou tiene hambre de arroz. Kaneki se ríe. Tsukiyama: "Una tragedia hermosa."

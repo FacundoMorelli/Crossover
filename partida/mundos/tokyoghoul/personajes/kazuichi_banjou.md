@@ -9,10 +9,11 @@ RELACIÓN: Primer encuentro T1154 (Facundo los saca de la mansión).
 ENCUENTROS:
 - T1154 · Herido en las costillas. Sostenido por tres hombres con máscaras antigás. Facundo los teletransporta al acantilado.
 DIÁLOGOS CLAVE:
+- T1169 · "Tengo hambre. Pero no de... Tengo ganas de comer pan. De arroz. Nunca tuve ganas de comer arroz."
 - T1168 · "Yo nunca fui bueno para esto. Siempre me dio asco. Cuando era el jefe del Distrito 11, comía lo que me tiraban los otros." "Hazlo. Por favor."
 - T1167 · "¿Es verdad? ¿Puedes hacer que uno ya no tenga que... comer gente?"
 - T1155 · "El escondite. Nuestro departamento en el Distrito 20. Necesito comer algo para que esto cierre." "Kaneki, ya nos están buscando igual."
 - T1154 · "¿Kaneki? ¿De dónde...?" "Kaneki... ¿quién es este tipo?"
 QUÉ SABE DE FACUNDO: Nada. Apareció con Kaneki y los sacó de la mansión.
 QUÉ PODERES VIO: Teletransporte. Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
-ESTADO: En el acantilado, a salvo (T1154).
+ESTADO: Anteiku, planta alta. SIN HAMBRE DE GHOUL (T1169); come comida normal. Herida en las costillas: necesita comer mucho para cerrarla.

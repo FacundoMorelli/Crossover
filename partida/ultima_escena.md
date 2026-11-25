@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1166)
-toco a kaneki y uso la tecnica de mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal, toma prueba esto, le doy una manzana
-
-## RESPUESTA 1 (T1166)
-
-> toco a Kaneki y uso la técnica de Mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal
-
-Le apoyas la palma en el pecho, sobre el corazón, por encima de la ropa rota.
-
-Kaneki se tensa de golpe, por reflejo, como un animal al que tocan donde duele. No se aparta.
-
-Y lo sientes. Debajo de la piel, debajo de las costillas, más hondo que la carne: la forma de su alma. Tiene dos capas mal cosidas. Una es la de un muchacho que leía novelas y tomaba café los domingos. La otra está pegada encima, ajena, áspera, y de ella sale un tirón constante, como un anzuelo clavado desde adentro que nunca deja de tirar. Hambre.
-
-La Transfiguración Ociosa no hace ruido. No brilla. Tu mano no se mueve.
-
-Tomas el anzuelo y lo sacas. Alisas el borde áspero donde las dos capas se juntan, hasta que encajan sin tironear. Buscas el lugar donde la comida de antes se volvió asco y lo devuelves a como estaba.
-
-Dejas todo lo demás como está.
-
-Kaneki abre la boca. No sale nada. Tiene los ojos muy abiertos, fijos en ningún lado, y respira por la boca, cortado, como alguien que salió del agua después de mucho tiempo abajo.
-
-Se lleva una mano al estómago. La deja ahí.
-
-—Se fue —susurra—. Está... callado.
-
-En la silla junto a la ventana, a Tsukiyama se le cae el libro al piso. No lo levanta.
-
-Sacas una manzana roja del inventario y se la pones en la mano.
-
-> —Toma, prueba esto.
-
-Kaneki la mira como si le hubieras dado algo peligroso. La sostiene con las dos manos. La acerca a la cara y la huele, y no se le arruga la nariz. Se queda quieto, esperando la arcada.
-
-No llega.
-
-Muerde. Un bocado chico, con miedo.
-
-Mastica despacio. Una vez. Dos. Se le llenan los ojos de lágrimas antes de tragar.
-
-—Es dulce —dice, con la boca todavía llena, y la voz se le rompe del todo—. Es dulce. Sabe a manzana.
-
-Muerde otra vez, más grande, y llora masticando, sin taparse la cara, con jugo corriéndole por el mentón, encorvado sobre la manzana como si alguien se la fuera a quitar.
-
-Tsukiyama se levantó de la silla sin darse cuenta. Está de pie, con una mano en la boca, mirando a Kaneki comer.
-
-Kaneki traga. Se seca la cara con el dorso de la muñeca y te mira, con los ojos rojos y la manzana mordida entre los dedos.
-
-—Hinami —dice—. Banjou-san. Los demás. —Le tiembla la voz—. ¿Puedes hacer esto con ellos también?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1166 · TOKYO GHOUL · NOCHE · 00:30     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá, mirando a Kaneki           ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1167)
+## COMANDO 1 (T1167)
 con los que quieran
 
-## RESPUESTA 2 (T1167)
+## RESPUESTA 1 (T1167)
 
 > —Con los que quieran.
 
@@ -113,10 +47,10 @@ Banjou mira la manzana en la mano de Kaneki. Mira el corazón mordido, la cásca
 
 ---
 
-## COMANDO 3 (T1168)
+## COMANDO 2 (T1168)
 si
 
-## RESPUESTA 3 (T1168)
+## RESPUESTA 2 (T1168)
 
 > —Sí.
 
@@ -155,7 +89,59 @@ Agacha la cabeza.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1169)
+hago lo mismo (igual una pregunta, les saco el hambre pero que pasa exactamente?)
+
+## RESPUESTA 3 (T1169)
+
+> hago lo mismo
+
+Le apoyas la palma a Banjou en la frente, sobre la cabeza gacha.
+
+Su alma es ancha y pesada, como él, y está llena de marcas viejas: golpes recibidos, cosas tragadas con asco, años de bajar la cabeza. El anzuelo está ahí, clavado igual que en Kaneki, pero más hondo, más antiguo, como un clavo oxidado que ya se hizo parte de la madera. Lo sacas igual. Alisas el borde. Devuelves el gusto a lo que tenía antes de nacer así, aunque Banjou nunca tuvo un antes.
+
+Banjou suelta el aire de golpe, un ruido largo y bajo, como un fuelle que se vacía. Se queda arrodillado, con los ojos cerrados y los puños apoyados en el piso.
+
+Los tres de la puerta se acercan sin que los llames. El muchacho flaco primero, después el de la cicatriz en el labio, después el de cara redonda, que tiembla tanto que tienes que sostenerle la nuca con la otra mano. Uno por uno: la palma en la frente, el anzuelo afuera, el borde liso. Los tres son más chicos por dentro que Banjou, más simples, y en los tres el anzuelo es igual de grande.
+
+Cuando terminas con el último, el de cara redonda se sienta en el piso de golpe, como si le hubieran cortado los hilos, y se pone a reír bajito, sin saber por qué.
+
+Entonces suena el estómago de Banjou.
+
+Fuerte. Un rugido largo que se escucha en toda la sala.
+
+Banjou abre los ojos. Se lleva la mano a la panza, despacio, con cara de no entender. Después mira a Kaneki, y Kaneki, con media manzana en la mano, se ríe por primera vez en toda la noche: una risa corta y rota que se le escapa sin permiso.
+
+—Tengo hambre —dice Banjou, atónito—. Pero no de... —Se le quiebra la voz—. Tengo ganas de comer pan. De arroz. Hace años que no... Nunca tuve ganas de comer arroz.
+
+Desde su silla, Tsukiyama se cubre los ojos con una mano.
+
+—Esto es una tragedia —murmura—. Una tragedia hermosa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1169 · TOKYO GHOUL · NOCHE · 00:36     ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá                             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+Fuera de la partida, qué pasa exactamente con los que transfiguras:
+- Siguen siendo ghouls. Conservan el kagune, el kakugan cuando lo usan, la fuerza, la regeneración y la piel dura. Las células RC no cambian, así que los detectores de la CCG (las puertas RC) los siguen marcando, y su olor sigue siendo de ghoul.
+- Lo único que cambia es la comida. Su cuerpo ahora se alimenta con comida normal, y con ella les alcanza para vivir y para regenerarse. Para curar una herida grande necesitan comer mucho, como le pasa ahora a Banjou.
+- No sienten hambre de carne humana y la comida normal ya no les da asco. Si quieren, pueden seguir comiendo carne humana o de ghoul, pero no la necesitan ni la desean. El kakuja (comer otros ghouls para hacerse más fuertes) les sigue funcionando si alguna vez lo eligen.
+- Es permanente.
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:33, sala de arriba de Anteiku. Banjou arrodillado frente a Facundo: "Hazlo. Por favor." Las tres máscaras, sin máscara, esperan. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:36, sala de arriba de Anteiku. Banjou y las tres máscaras sin hambre de ghoul; Banjou tiene hambre de arroz. Hinami duerme sin transfigurar. Facundo puede actuar.
