@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1050)
-si terminas lo que empezaste yo termino lo que el empezo, ustedes deciden
-
-## RESPUESTA 1 (T1050)
-
-> si terminas lo que empezaste yo termino lo que el empezo, ustedes deciden
-
-> —Si terminas lo que empezaste, yo termino lo que él empezó. Ustedes deciden.
-
-Nadie se mueve.
-
-Shalnark deja de mirar el celular. Kortopi se queda congelado en el escalón. Machi, a tu lado, no te mira: mira a Chrollo, y los hilos de sus dedos se le quedan quietos, colgando, como si esperara una orden.
-
-Chrollo no cambia de cara.
-
-Te mira un momento largo. Después baja la vista a Hisoka, a sus pies, y otra vez a ti. Una vez. Dos veces. Como si estuviera sumando algo.
-
-—Lo que él empezó —repite, despacio—. Matarnos a todos.
-
-Mira a Kortopi en el escalón. A Shalnark contra la pared. A Machi.
-
-—Hay una regla en la Araña —dice. Lo dice para ti, pero los otros tres lo escuchan como quien escucha algo que ya sabe de memoria—. La Araña vale más que cualquiera de sus patas. Más que la cabeza también. Si mi vida pone en riesgo a la Araña, mi vida no vale nada.
-
-Se vuelve a meter la mano en el bolsillo.
-
-—Vi a Hisoka pelear durante una hora con todo lo que tenía. —La voz no sube ni baja—. Shalnark dice que tú lo tiraste en un segundo. No sé qué eres. No siento nada de ti. No sé de dónde sacaste nuestros nombres. —Hace una pausa—. Y no voy a apostar a la Araña entera para averiguarlo esta noche.
-
-Da un paso atrás. Se aparta del cuerpo de Hisoka.
-
-—No lo tocamos.
-
-Machi suelta el aire despacio. Shalnark se guarda el celular. Kortopi baja la cabeza.
-
-—Pero entiende esto, Facundo Morelli. —Chrollo te mira, tranquilo—. Cuando ese hombre se despierte, va a seguir queriendo matarnos. No va a cambiar de idea porque tú lo hayas golpeado. Al contrario. —Mira la sonrisa congelada en la cara de Hisoka—. Y nosotros no vamos a quedarnos quietos esperando que lo haga.
-
-Ladea apenas la cabeza.
-
-—Dijiste que tu misión es protegernos. —Por primera vez en toda la noche, algo parecido a la curiosidad le aparece en los ojos—. ¿Hasta cuándo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1050 · HUNTER X HUNTER · DÍA 1 · 19:53 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi y a Shalnark    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1051)
+## COMANDO 1 (T1051)
 hasta que zarpe el Black Whale, después hagan lo que quieran, si quieren intentar matar a hisoka o lo que quieran despues de eso se los dejo, ahora vayanse de aca
 
-## RESPUESTA 2 (T1051)
+## RESPUESTA 1 (T1051)
 
 > hasta que zarpe el Black Whale, después hagan lo que quieran, si quieren intentar matar a hisoka o lo que quieran despues de eso se los dejo, ahora vayanse de aca
 
@@ -123,10 +66,10 @@ Los dedos de la mano derecha de Hisoka, la que tiene entera, se mueven. Un poco.
 
 ---
 
-## COMANDO 3 (T1052)
+## COMANDO 2 (T1052)
 hola hisoka
 
-## RESPUESTA 3 (T1052)
+## RESPUESTA 2 (T1052)
 
 > hola hisoka
 
@@ -178,4 +121,65 @@ Apoya la mano sana en el asfalto y se incorpora, apenas, sobre un codo. Le cuest
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:57, baños públicos. Hisoka despertó, encantado de haber perdido; deduce que Facundo dejó ir a la Tropa y no dejó que lo mataran. Le pregunta su nombre. Facundo puede responder.
+## COMANDO 3 (T1053)
+me llamo Facundo Morelli, le curo el brazo y las piernas con la tecnica de mahito
+
+## RESPUESTA 3 (T1053)
+
+> me llamo Facundo Morelli, le curo el brazo y las piernas con la tecnica de mahito
+
+> —Me llamo Facundo Morelli.
+
+—Facundo... —repite Hisoka, saboreándolo—. Facundo Morelli. ♥
+
+Te agachas a su lado. Le apoyas la palma de la mano sobre el pecho.
+
+Hisoka se queda quieto. No se aparta. Te mira con los ojos muy abiertos, curioso, como un chico al que le van a mostrar un truco de magia.
+
+Y algo se acomoda.
+
+No es aura. No es nada que él conozca. Debajo de tu palma, la forma de su alma tiene dos huecos: uno donde debería haber una mano, otro donde debería haber una pierna. La tocas. La completas. La rehaces como era antes de que Chrollo se la volara. Y el cuerpo, que siempre obedece al alma, sigue.
+
+El muñón de la muñeca izquierda se estira. La piel se abre y se cierra como una flor que crece al revés, y en un segundo hay una palma, cinco dedos, uñas, la mano entera, pálida y nueva. La pernera derecha del pantalón, que colgaba vacía, se llena desde adentro: rodilla, pantorrilla, tobillo. El pie desnudo toca el asfalto.
+
+Retiras la palma.
+
+Hisoka no se mueve.
+
+Levanta la mano izquierda delante de la cara. La mira. Abre los dedos. Los cierra. Los vuelve a abrir. Después se mira la pierna. Mueve los dedos del pie, uno por uno.
+
+Por primera vez en toda la noche, no sonríe.
+
+Se queda mirándote, muy serio, con la mano nueva en el aire. Los ojos amarillos te recorren la cara como si buscaran algo que no encuentran.
+
+—Eso no fue Nen —dice en voz baja. Despacio. Sin canturrear—. Lo sentí. Me tocaste algo que no es el cuerpo. Algo más adentro. —Se toca el pecho, donde estaba tu mano—. Nadie puede hacer eso.
+
+Se pone de pie. Sobre las dos piernas. Firme, sin tambalearse. Estira los brazos por encima de la cabeza, se truena los dedos de la mano nueva, gira el tobillo.
+
+Y entonces la sonrisa vuelve. Lenta. Enorme. Más afilada que nunca.
+
+—Me tiraste de un golpe. Me devolviste lo que Chrollo me quitó. Le perdonaste la vida a las arañas y a mí. —Se ríe, bajito, con los hombros—. No entiendo nada de ti, Facundo Morelli. ♠ Nada.
+
+Se lame el labio de abajo.
+
+—¿Por qué lo hiciste? ♥
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1053 · HUNTER X HUNTER · DÍA 1 · 19:59 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:59, baños públicos. Facundo le devolvió a Hisoka la mano y la pierna con la Transfiguración Ociosa. Hisoka, de pie, le pregunta por qué lo hizo. Facundo puede responder.

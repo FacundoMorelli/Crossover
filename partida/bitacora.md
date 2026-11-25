@@ -1051,3 +1051,4 @@ T1049 · HxH · Baños públicos · Vuelve con Machi. Chrollo llegó: "¿Por qu�
 T1050 · HxH · Baños públicos · "Si terminas lo que empezaste, yo termino lo que él empezó." Chrollo: "No lo tocamos." "¿Hasta cuándo nos vas a proteger?"
 T1051 · HxH · Baños públicos · "Hasta que zarpe el Black Whale. Váyanse." Chrollo: "El Black Whale." Se van. Kortopi: "Gracias." Machi: "No lo voy a olvidar." Hisoka mueve los dedos.
 T1052 · HxH · Baños públicos · "Hola, Hisoka." Hisoka despierta riéndose: "Es el mejor día de mi vida." "¿Cómo te llamas? ♥"
+T1053 · HxH · Baños públicos · "Me llamo Facundo Morelli." Transfiguración Ociosa: mano y pierna de Hisoka de vuelta. "Eso no fue Nen." "¿Por qué lo hiciste? ♥"

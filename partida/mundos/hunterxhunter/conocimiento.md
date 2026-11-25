@@ -5,9 +5,11 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Multitud de la avenida · T1039 · un forastero de negro con un gato enorme. Nada más.
 
 ## QUIÉN VIO QUÉ PODERES
+- Hisoka · T1053 · Transfiguración Ociosa: le rehízo la mano y la pierna desde el alma (no es Nen).
 - Hisoka, Kortopi · T1044 · atrapar una carta de aura con dos dedos y devolverla a una velocidad que Hisoka no pudo esquivar.
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
+- Hisoka · T1053 · Transfiguración Ociosa: le rehízo la mano y la pierna desde el alma (no es Nen).
 - Hisoka, Kortopi · T1044 · atrapar una carta de aura con dos dedos y devolverla a una velocidad que Hisoka no pudo esquivar.
 - Empleado de la puerta de la Torre · T1040 · vio pasar a un joven con un gato enorme sin poder revisarle el boleto.
 - Kortopi · T1042 · lo vio aparecer de la nada en la calle de los baños (teletransporte) y pararse delante de él, de espaldas. No lo siente (Velo). No sabe quién es.
@@ -26,3 +28,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Chrollo, Shalnark, Kortopi, Machi · T1050 · Facundo amenazó con terminar lo que Hisoka empezó (matarlos) si matan a Hisoka. Chrollo decidió no tocarlo.
 - Chrollo, Shalnark, Kortopi, Machi · T1051 · Facundo los protege hasta que zarpe el Black Whale; después, libres de hacer lo que quieran (también con Hisoka). Chrollo deduce que Facundo sabe algo del Black Whale y de los planes de la Tropa (no pregunta).
 - Hisoka · T1052 · despierta y deduce (por estar vivo y por la calle vacía) que Facundo dejó ir a la Tropa y no dejó que lo mataran. No sabe su nombre.
+- Hisoka · T1053 · su nombre, Facundo Morelli (él se lo dijo). Facundo le devolvió la mano izquierda y la pierna derecha tocándole el pecho; Hisoka sintió que le tocaron "algo más adentro" que el cuerpo; sabe que no es Nen.
