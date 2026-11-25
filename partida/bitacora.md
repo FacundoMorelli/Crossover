@@ -1189,3 +1189,4 @@ T1187 · TG · Anteiku · "Tengo 18." Hinami: "¿Facundo-nii?" Nishiki se burla.
 T1188 · TG · Anteiku · Le cuenta a Nishiki. Touka come pan delante de él: "Es verdad." Nishiki: "¿Cuánto cobras?"
 T1189 · TG · Anteiku · "Lo hago gratis." Nishiki desconfía, después se sienta: "Hazlo antes de que me arrepienta."
 T1190 · TG · Anteiku · Transfigura a Nishiki. Le roba el pan a Touka. "Te debo una. No te hagas el santo conmigo."
+T1191 · TG · Anteiku · Nishiki a trabajar; Touka le pisa el pie. Primeros clientes. Kaneki: "¿Podemos hablar? Afuera. Solos."

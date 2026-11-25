@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1188)
-les saque el hambre de carne humana y que puedan comer comida normal
-
-## RESPUESTA 1 (T1188)
-
-> —Les saqué el hambre de carne humana, y ahora pueden comer comida normal.
-
-Nishiki se ríe otra vez, más corto.
-
-—Claro. Y yo soy el Rey de un Ojo. —Se pone el delantal por la cabeza y empieza a atárselo a la espalda—. Kirishima, en serio, ¿de dónde sacan a estos...?
-
-No termina, porque Touka no se está riendo.
-
-Ella deja el cuchillo de manteca en la pileta. Agarra la otra mitad de la rebanada de pan que sobró, la que estaba en la tabla, y le da un mordisco. Así, sin mermelada, sin nada. Mastica mirando a Nishiki a los ojos, despacio, sin una sola mueca. Traga.
-
-—Es verdad —dice—. A mí también.
-
-Nishiki se queda con las tiras del delantal en las manos, a medio atar.
-
-Mira a Touka. Mira el pan. Mira a Hinami, que le sonríe con mermelada en la boca y le muestra la tostada como si fuera un premio. Mira a Yoshimura, que no dice nada y sigue secando un platillo, lo cual, viniendo de Yoshimura, es una forma de decir que sí.
-
-Después te mira a ti, y ya no se está burlando.
-
-—No me jodas —murmura.
-
-Se le aflojan las tiras del delantal. Se queda quieto, en el medio del local, con la cara de alguien que hace una cuenta muy rápida. Se le va la vista, un segundo, hacia el celular que dejó sobre la barra, con la pantalla encendida. En el fondo de pantalla hay una foto: él y una chica de pelo corto, sonriendo en un parque.
-
-Traga saliva.
-
-—¿Cuánto cobras? —pregunta, en voz baja, sin nada de humor—. Por hacerlo conmigo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1188 · TOKYO GHOUL · MAÑANA · 07:43    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1189)
+## COMANDO 1 (T1189)
 nada nishiki, lo hago gratis
 
-## RESPUESTA 2 (T1189)
+## RESPUESTA 1 (T1189)
 
 > —Nada, Nishiki. Lo hago gratis.
 
@@ -101,10 +52,10 @@ Kase lo mira de costado, con un ojo, y se corre un poco en el taburete para que 
 
 ---
 
-## COMANDO 3 (T1190)
+## COMANDO 2 (T1190)
 lo hago con nishiki
 
-## RESPUESTA 3 (T1190)
+## RESPUESTA 2 (T1190)
 
 > lo hago con Nishiki
 
@@ -150,7 +101,58 @@ Cuando vuelve a mirarte, tiene los ojos húmedos detrás de los anteojos torcido
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1191)
+no me debes nada, ahora mejor ponte a trabajar antes que touka quiera matarte
+
+## RESPUESTA 3 (T1191)
+
+> —No me debes nada. Ahora mejor ponte a trabajar, antes de que Touka quiera matarte.
+
+—Ya quiere —dice Touka desde la barra, sin levantar la vista.
+
+Nishiki chasquea la lengua. Se mete el resto del pan en la boca de un bocado, se levanta del taburete y termina de atarse el delantal a la espalda con un tirón, de mal humor, como si lo hubieran retado. Al pasar al lado de Touka para meterse detrás de la barra, ella le pisa el pie con el talón, fuerte y sin mirar.
+
+—¡Ay! ¡Kirishima, carajo!
+
+—Me debes un pan.
+
+—Te compro diez, loca.
+
+Se va a la máquina de café frotándose el empeine contra la pantorrilla. Yoshimura le alcanza una bandeja de tazas limpias sin decir nada, y la cara le tiembla apenas, en la comisura, como si se estuviera aguantando una sonrisa.
+
+Suena la campanita.
+
+Entran dos oficinistas de traje gris con los portafolios en la mano, hablando de un informe, y se sientan en una mesa junto a la ventana. Detrás de ellos, una señora mayor con un pañuelo en la cabeza que va directo a la barra y pide lo de siempre, querido. El umbral no tiembla. El hilo plateado junto al cordón sigue quieto.
+
+Anteiku empieza a ser un café.
+
+Hinami se baja del taburete con la tostada terminada y la muñeca bajo el brazo, y se va escaleras arriba saltando los escalones de a uno.
+
+Se cruza a mitad de camino con Kaneki, que baja. Él la deja pasar, le pone una mano en la cabeza un segundo y termina de bajar. Se cambió la ropa destrozada por una camisa blanca que le queda grande, seguramente de Yoshimura, y tiene el pelo blanco todavía húmedo, recién lavado. Ya no tiene sangre en la cara.
+
+Busca con la mirada por todo el local hasta que te encuentra. Viene hasta tu taburete esquivando a la señora del pañuelo, y se inclina un poco hacia ti para hablarte bajo, de espaldas a la barra, donde están Yoshimura y Touka.
+
+—Facundo-san —dice—. Lo de anoche. Lo de la operación. —Mira de reojo hacia Yoshimura, que atiende a la señora con su sonrisa de siempre—. ¿Podemos hablar? Afuera. Solos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1191 · TOKYO GHOUL · MAÑANA · 07:52    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:46, Anteiku. Nishiki transfigurado: "Te debo una. No te hagas el santo conmigo." Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:52, Anteiku abierto con clientes. Kaneki pide hablar con Facundo afuera, a solas, sobre la operación. Facundo puede responder.

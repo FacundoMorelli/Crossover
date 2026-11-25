@@ -3,7 +3,7 @@ AFILIACIÓN: —
 RANGO: —
 PODER VISTO POR FACUNDO: Cuatro tentáculos rojos (kagune) desde la parte baja de la espalda; una armadura roja segmentada tipo ciempiés sobre hombro, brazo derecho y media cara; ojo izquierdo negro con iris rojo.
 EDAD: ~20.
-FÍSICO: Flaco, pelo blanco, uñas negras, ropa negra ajustada destrozada.
+FÍSICO: (T1191: camisa blanca grande prestada, pelo húmedo, sin sangre.) Flaco, pelo blanco, uñas negras, ropa negra ajustada destrozada.
 PERSONALIDAD: Fuera de control, llorando: "No quiero comer más."
 RELACIÓN: Primer encuentro T1148.
 ENCUENTROS:
@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1191 · "Facundo-san. Lo de anoche. Lo de la operación. ¿Podemos hablar? Afuera. Solos."
 - T1172 · "Sigue ahí, Touka-chan. Lo siento. Igual que siempre. Solo que ya no me pide nada."
 - T1170 · "Muchas. Buenas noches."
 - T1166 · "Se fue. Está... callado." "Es dulce. Sabe a manzana." "Hinami. Banjou-san. Los demás. ¿Puedes hacer esto con ellos también?"
