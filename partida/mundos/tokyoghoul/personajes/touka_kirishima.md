@@ -1,7 +1,7 @@
 NOMBRE: Touka Kirishima (apellido oído T1186)
 AFILIACIÓN: Anteiku (mesera)
 RANGO: —
-PODER VISTO POR FACUNDO: —
+PODER VISTO POR FACUNDO: — Ala ukaku violeta (derecha) y lluvia de cristales (T1201).
 EDAD EN ESTE MOMENTO DEL CANON: ~17 (menor)
 FÍSICO: Ojo visible gris oscuro. Delgada, pelo corto oscuro y lacio, flequillo que le tapa un ojo. Delantal de mesera.
 PERSONALIDAD Y FORMA DE HABLAR: Brusca, explosiva, grita; directa.
@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1201 · "Si no vas a usar el tuyo, peor para ti."
 - T1200 · "Si esto es una broma..." "¿Qué...? ¿Qué fue eso?"
 - T1199 · "Yo también voy." "No te pregunté. Dije que mi kagune se queda donde está hasta que pase lo del Búho. Entonces que sirva para algo. Si vas a entrenar a este idiota, me entrenas a mí también."
 - T1191 · "Ya quiere." "Me debes un pan."

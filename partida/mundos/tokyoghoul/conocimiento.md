@@ -76,3 +76,5 @@
 - Facundo · T1199 · por Yomo: entrada al Distrito 24 bajo el Distrito 14 (desagüe viejo detrás de una obra abandonada; 40 min de tren + 15 a pie).
 - Touka · T1199 · escuchó tras la cortina lo del entrenamiento en el Distrito 24.
 - Touka, Yomo · T1200 · vivieron el teletransporte de Facundo (de la cocina de Anteiku al Distrito 24). Vieron una llama blanca en su palma.
+- Facundo · T1201 · vio el kagune de Touka (ala ukaku violeta, cristales) y el de Kaneki (4 tentáculos rinkaku) en acción.
+- Kaneki, Touka, Yomo · T1201 · vieron a Facundo crear una llama flotante.

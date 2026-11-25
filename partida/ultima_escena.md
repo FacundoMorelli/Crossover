@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1198)
-asi es
-
-## RESPUESTA 1 (T1198)
-
-> —Así es.
-
-Yomo se queda callado.
-
-Mira la bolsa que acaba de dejar en la mesada: los paquetes envueltos en papel marrón, atados con hilo. Los mira mucho rato, como si de golpe pesaran distinto. Después mira a Kaneki.
-
-—¿Comiste?
-
-—Una manzana —contesta Kaneki—. Pan. Un bollo. —Se le escapa algo parecido a una risa—. Y café, como siempre.
-
-Yomo asiente una sola vez.
-
-—¿Touka?
-
-Lo pregunta mirando a Yoshimura, no a ti. Y lo pregunta un poco demasiado rápido.
-
-—Esta mañana —responde Yoshimura—. Se comió una tostada a escondidas en la cocina. Y después le robaron la otra mitad.
-
-Yomo cierra los ojos un segundo. Cuando los abre, no cambió nada en su cara. Pero los hombros, que tenía tensos desde que entró, le bajan un poco.
-
-Se vuelve hacia ti. Se queda mirándote, sin decir nada, el tiempo suficiente para que se vuelva incómodo. Después inclina la cabeza. No es una reverencia. Es apenas un movimiento, corto y seco.
-
-—Gracias.
-
-Kaneki da un paso adelante, todavía con el repasador en la mano.
-
-—Yomo-san. Facundo-san me va a entrenar. Hoy, a la tarde, en el Distrito 24. —Duda—. Para no tener que perder el control. Para poder pelear sin... comer.
-
-Yomo lo mira. Mira tus manos otra vez, como si buscara en ellas algo que no encuentra: callos de pelea, cicatrices de quinque, sangre seca debajo de las uñas.
-
-Después te mira a la cara.
-
-—¿Puedo mirar?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1198 · TOKYO GHOUL · MEDIODÍA · 12:44  ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la puerta de la cocina              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: entrenar a Kaneki (Distrito 24)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1199)
+## COMANDO 1 (T1199)
 si
 
-## RESPUESTA 2 (T1199)
+## RESPUESTA 1 (T1199)
 
 > —Sí.
 
@@ -113,10 +56,10 @@ Deja la bandeja sobre la mesada con un golpe seco.
 
 ---
 
-## COMANDO 3 (T1200)
+## COMANDO 2 (T1200)
 bueno, pongan una mano encima mio. me teletransporto a donde me dijo kaneki
 
-## RESPUESTA 3 (T1200)
+## RESPUESTA 2 (T1200)
 
 > —Bueno, pongan una mano encima mío.
 
@@ -172,7 +115,84 @@ Se levanta. Se limpia los dedos en el pantalón y te mira por encima del hombro.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1201)
+bueno, yo no voy a usar mi kagune, empecemos
+
+## RESPUESTA 3 (T1201)
+
+> —Bueno, yo no voy a usar mi kagune. Empecemos.
+
+Yomo se sienta sobre un bloque de concreto caído, junto a una columna, con los codos en las rodillas. Kase salta de tu cuello, camina hasta él sin apuro, lo mira un segundo y se sienta en el bloque de al lado, a medio metro, como si fueran dos espectadores en la misma tribuna. Yomo lo mira de reojo y no se mueve.
+
+Haces crecer la llama de la palma y la sueltas hacia arriba. Queda flotando quieta a diez metros del suelo, como un sol chico, e ilumina un círculo amplio de piedra gris entre cuatro columnas.
+
+Kaneki y Touka se separan. Quedan uno a cada lado, a quince metros de ti, sin ponerse de acuerdo.
+
+Touka se arremanga la camisa, se suelta el delantal que todavía tenía puesto y lo tira a un charco. Rueda los hombros.
+
+Debajo de los omóplatos, la tela se le abre sola. Le sale un ala. Una sola, del lado derecho: violeta oscuro, casi negra en la base, que se abre como una llama de gas y despide un brillo frío. El ojo que no le tapa el flequillo se le vuelve negro, con el iris rojo.
+
+Kaneki cierra los ojos. Respira.
+
+Cuando los abre, el izquierdo ya es negro y rojo. Desde la parte baja de la espalda, por debajo de la camisa prestada, le brotan los tentáculos: cuatro, rojos como sangre, segmentados, que se arquean detrás de él como la cola de un escorpión. Se le quedan quietos en el aire.
+
+Se mira las manos, sorprendido.
+
+—No grita —dice, casi para sí—. Siempre gritaba. Pedía. Ahora está... callado.
+
+Tu instinto los tasa sin que lo pidas.
+
+╔════════════════════════════════════════╗
+║ KEN KANEKI                             ║
+║ Ghoul · "Ciempiés", rango S (CCG)      ║
+║ PODER: Kagune rinkaku (4 tentáculos),  ║
+║        kakuja parcial, regeneración    ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+╔════════════════════════════════════════╗
+║ TOUKA KIRISHIMA                        ║
+║ Ghoul · "Conejo" (CCG)                 ║
+║ PODER: Kagune ukaku (ala), disparo     ║
+║        de cristales, velocidad         ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+[Kagune de Kaneki y de Touka vistos en acción. Misiones de copia disponibles.]
+
+Touka no espera.
+
+—Si no vas a usar el tuyo —dice—, peor para ti.
+
+Gira medio cuerpo y bate el ala.
+
+Una lluvia de cristales violetas, finos y filosos como agujas, sale disparada hacia ti, decenas, abriéndose en abanico. Cortan el aire con un silbido agudo que rebota en todas las columnas a la vez.
+
+Al mismo tiempo, del otro lado, Kaneki se lanza. Los cuatro tentáculos se estiran hacia adelante y bajan sobre ti desde arriba, en cuatro direcciones distintas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1201 · TOKYO GHOUL · TARDE · 12:52     ║
+║ Distrito 24 · galería subterránea            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en un bloque, junto a Yomo             ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki y a Touka        ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 12:48, galería del Distrito 24. Llegaron Facundo, Kaneki, Touka, Yomo y Kase. Listos para entrenar. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 12:52, galería del Distrito 24. Touka dispara una lluvia de cristales y Kaneki baja sus cuatro tentáculos a la vez sobre Facundo. Facundo puede reaccionar.

@@ -1,8 +1,8 @@
 {
-  "turno": 1200,
+  "turno": 1201,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "otoño (TG cap. ~105), mañana siguiente al asalto a la mansión de Kanou",
-  "hora": "12:48",
+  "hora": "12:52",
   "edad": 18,
   "nivel": 28,
   "exp": 275930,
@@ -1428,6 +1428,20 @@
       "mision": "Ganarle a Itsuka Kendo una pulseada con su Puño Grande.",
       "dificultad": "BAJA",
       "emitida": "T1113 (pedido del jugador: las que vio)"
+    },
+    {
+      "poder": "Kagune de Ken Kaneki (rinkaku, kakuja y todas sus etapas por R2)",
+      "mundo": "tokyoghoul",
+      "mision": "Que Kaneki saque su kakuja completo en un combate contra ti y no pierda el control ni un segundo.",
+      "dificultad": "MEDIA",
+      "emitida": "T1201"
+    },
+    {
+      "poder": "Kagune de Touka Kirishima (ukaku y todas sus etapas por R2)",
+      "mundo": "tokyoghoul",
+      "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
+      "dificultad": "MEDIA",
+      "emitida": "T1201"
     }
   ],
   "misiones_de_copia_rechazadas": [],

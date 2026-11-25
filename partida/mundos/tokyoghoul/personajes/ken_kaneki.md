@@ -1,7 +1,7 @@
 NOMBRE: Ken Kaneki (se presenta T1149)
 AFILIACIÓN: —
 RANGO: —
-PODER VISTO POR FACUNDO: Cuatro tentáculos rojos (kagune) desde la parte baja de la espalda; una armadura roja segmentada tipo ciempiés sobre hombro, brazo derecho y media cara; ojo izquierdo negro con iris rojo.
+PODER VISTO POR FACUNDO: Cuatro tentáculos rojos (kagune) desde la parte baja de la espalda; una armadura roja segmentada tipo ciempiés sobre hombro, brazo derecho y media cara; ojo izquierdo negro con iris rojo. Kagune rinkaku de 4 tentáculos en entrenamiento (T1201).
 EDAD: ~20.
 FÍSICO: (T1191: camisa blanca grande prestada, pelo húmedo, sin sangre.) Flaco, pelo blanco, uñas negras, ropa negra ajustada destrozada.
 PERSONALIDAD: Fuera de control, llorando: "No quiero comer más."
@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1201 · "No grita. Siempre gritaba. Pedía. Ahora está... callado."
 - T1198 · "Una manzana. Pan. Un bollo. Y café, como siempre." "Yomo-san. Facundo-san me va a entrenar. Hoy, a la tarde, en el Distrito 24."
 - T1196 · "Yomo-san."
 - T1195 · "Gracias, Facundo-san." "Hay un lugar. Debajo de la ciudad, en el Distrito 24." "Las paredes son finas." "¿Cuándo empezamos?"
