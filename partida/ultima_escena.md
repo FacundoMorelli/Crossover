@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1292)
-te esta costando mucho asta
-
-## RESPUESTA 1 (T1292)
-
-> —Te está costando mucho, Asta.
-
-—¡¿QUÉ?! —Asta levanta la espada del suelo de un tirón, rojo hasta las orejas—. ¡No me está costando nada! ¡Estaba calentando! ¡Estaba... estaba esperando el momento!
-
-Y después, sin pausa, en el mismo grito:
-
-—¡¿Y TÚ DÓNDE ESTABAS?! ¡Dijiste unos días! ¡UNOS DÍAS! ¡Te esperé todas las mañanas en la explanada! ¡Todas! ¡Hice flexiones de brazo esperándote! ¡Diez mil por día! —Se le quiebra la voz en algún lugar entre la rabia y otra cosa—. ¡Volviste!
-
-Zora, a su lado, lo mira de reojo con cara de asco.
-
-—¿Este es el famoso Facundo? —Te mira de arriba abajo—. Asta no paró de hablar de ti en tres meses. Creí que te había inventado.
-
-Desde el centro de la roca, Mereoleona se da vuelta, con las garras de fuego todavía encendidas y una sonrisa salvaje.
-
-—¡Oye, Yami! ¿Y este quién es? —Te mira con interés de depredador—. ¡Si vino a robarme la pelea, que haga fila!
-
-Yami no le contesta. Ya tiene la katana desenvainada y la mirada clavada en el muchacho de las magias.
-
-Y el muchacho de las magias sonríe.
-
-Aprovecha que Mereoleona se distrajo y salta hacia atrás, a otra roca flotante. Se queda ahí, en cuclillas, mirándote con la cabeza ladeada. Los ojos le brillan. No mira a Yami. No mira a Asta. Te mira a ti.
-
-—Qué raro —dice, con una voz alegre, suave—. No te siento el maná. Nada. Como si no fueras nada. —Se pasa la lengua por los labios—. Pero apareciste de la nada, con el capitán de los Toros.
-
-Extiende una mano hacia ti, con los dedos abiertos.
-
-—Me encantaría tocar tu grimorio —dice—. ¿Tienes uno? Seguro tienes uno lindo.
-
-Y se lanza hacia ti, saltando de roca en roca, rápido como un pájaro, con la mano estirada.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1292 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:34       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1293)
+## COMANDO 1 (T1293)
 quieres sentir mi mana? nunca lo mostre abiertamente pero te voy a dejar ver el 1%
 
-## RESPUESTA 2 (T1293)
+## RESPUESTA 1 (T1293)
 
 > —¿Quieres sentir mi maná? Nunca lo mostré abiertamente. Pero te voy a dejar ver el uno por ciento.
 
@@ -117,10 +65,10 @@ Vuelve a mirarte. Y por primera vez, en esa cara burlona, no hay burla. Hay mied
 
 ---
 
-## COMANDO 3 (T1294)
+## COMANDO 2 (T1294)
 guardo de nuevo el velo, bueno ustedes ignorenme, sigan con la pelea
 
-## RESPUESTA 3 (T1294)
+## RESPUESTA 2 (T1294)
 
 > guardo de nuevo el Velo
 
@@ -173,7 +121,73 @@ Mereoleona frena en seco a cinco metros de él, con las garras en alto. Asta tam
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1295)
+lo noqueo
+
+## RESPUESTA 3 (T1295)
+
+> lo noqueo
+
+El remolino negro ya le llega a la garganta cuando apareces delante de él.
+
+Le das un golpe seco en la frente con el dorso de los dedos. Un chasquido, como quien golpea una puerta para ver si hay alguien.
+
+Los ojos se le van para arriba.
+
+La luz negra que se arremolinaba en el pecho pierde el hilo, como agua cuando le sacas el tapón al revés. Se desarma en hebras que se deshacen en el aire, sin ruido, sin estallido, como humo en el viento. Las rocas flotantes dejan de temblar.
+
+El muchacho de las magias se dobla hacia adelante. Lo agarras del cuello de la túnica antes de que caiga de la roca al vacío y lo dejas acostado sobre la piedra partida, boca arriba. Respira.
+
+[Rival vencido: el copiador de magias. +150 Fragmentos.]
+
+[+400 EXP.]
+
+Silencio en la caverna.
+
+Mereoleona se queda con las garras de fuego en el aire, a cinco metros. Te mira. Mira al muchacho tirado. Te mira otra vez. El fuego que la rodea chisporrotea, ofendido.
+
+—¡OYE! —ruge—. ¡¿No dijiste que te ignoráramos?! ¡Ese era MÍO!
+
+Asta aterriza en la roca de al lado, con la espada todavía en alto, y se queda mirando al muchacho dormido con la boca abierta.
+
+—Se iba a hacer volar... y tú... con un dedo... —Se vuelve hacia ti, con los ojos brillantes—. ¡¿CÓMO HICISTE ESO?! ¡Enséñame!
+
+Zora no dice nada. Se sienta en el borde de una roca, de golpe, y se pasa las manos por la cara.
+
+Yami camina por un puente de piedra hasta ustedes, sin apuro, fumando. Mira al muchacho en el suelo. Después levanta la vista hacia las paredes de la caverna, hacia los pasillos oscuros que se abren en todas direcciones.
+
+—Aquí no estaban todos —dice—. Mereoleona. ¿Cuántos grupos entraron?
+
+—Cinco —contesta ella, todavía de mal humor, apagando las garras—. Se separaron en la entrada. Nozel con su grupo. Los de Rill. El grupo de Yuno. Y el de Luck y Noelle, por el pasillo del norte.
+
+Yami se queda quieto un segundo. Lo sientes: está estirando el Ki por los pasillos.
+
+Tú también. Y más lejos que él.
+
+Por los pasillos de la base, desparramadas, presencias de Caballeros Reales. La mayoría tranquilas, peleando contra cosas chicas o caminando. Pero en algunas, no en todas, hay algo raro. Algo que no estaba en ellos hace tres meses. Una semilla oscura, plantada muy adentro, quieta, como la que tenía William, pero mucho más chica. Dormida.
+
+Una está en el pasillo del norte. Al lado de la presencia de Noelle.
+
+Es la de Luck.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1295 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 293.380/320.000 · 12:37       ║
+║ FRAGMENTOS 111.257 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:36, Rocas Gravito. Mereoleona destrozó al copiador, que empieza a autodestruirse con luz negra para llevárselos a todos. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:37, Rocas Gravito. El copiador noqueado, sin explosión. Facundo siente semillas oscuras dormidas en algunos Caballeros Reales, entre ellos Luck (pasillo norte, con Noelle). Facundo puede actuar.

@@ -59,3 +59,6 @@
 - Facundo · T1292 · por Asta: lo esperó todas las mañanas en la explanada; diez mil flexiones por día.
 - Rhya, Mereoleona, Yami, Asta, Zora · T1293 · sintieron el maná de Facundo al 1% (de nivel capitán) y le oyeron decir que es "el uno por ciento". Primera vez que alguien en este mundo le siente maná.
 - Facundo · T1293 · por el copiador: la magia espacial está bloqueada en la base ("el idiota de la barrera").
+- Mereoleona, Asta, Zora, Yami · T1295 · vieron a Facundo desactivar la autodestrucción del copiador de un golpe en la frente.
+- Facundo, Yami · T1295 · por Mereoleona: entraron cinco grupos (Nozel; Rill; Yuno; Luck y Noelle por el pasillo norte; el suyo).
+- Facundo · T1295 · (ki) semillas oscuras dormidas en algunos Caballeros Reales; una en Luck (pasillo norte, con Noelle).
