@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1175)
-bajo a desayunar
-
-## RESPUESTA 1 (T1175)
-
-> bajo a desayunar
-
-Kase salta a tu hombro sin que lo llames. Bajan la escalera angosta, que cruje igual que anoche.
-
-Abajo, Anteiku está a medio abrir. Las sillas ya no están patas arriba. Alguien bajó las mesas y les puso los floreros chicos con una flor blanca cada uno. La persiana de la ventana grande está subida hasta la mitad, y entra una franja de luz gris que corta el piso de madera en dos. El cartel de la puerta todavía dice CERRADO del lado de afuera.
-
-Huele a café recién hecho y a pan tostado con manteca.
-
-Yoshimura está detrás de la barra, con el delantal puesto y los lentes en su lugar, como si la noche anterior no hubiera pasado. Delante del taburete que usaste anoche hay una taza humeante, un plato con dos tostadas, un frasco de mermelada de frutilla y un cuchillo de manteca.
-
-Al lado, en un platito, un poco de leche tibia y un pedazo de pescado cocido, cortado en trozos chicos.
-
-Kase lo ve. Baja de tu hombro a la barra, olfatea el pescado desde lejos con mucha desconfianza y, después de un rato largo, se digna a comer.
-
-La puerta del baño, al fondo, sigue cerrada. Pero en la cocina, detrás de la barra, se ve un plato con migas y un frasco de mermelada abierto con una cuchara adentro. Alguien comió una tostada ahí, de pie, muy rápido, y no quiso que la vieran.
-
-Yoshimura no comenta nada de eso. Seca un platillo con el repasador blanco y lo deja en su pila.
-
-—Siéntese, por favor. Anoche no quise abrumarlo, y usted estaba cansado. —Te mira por encima de los lentes, con la misma amabilidad de siempre—. Pero hay algo que me incomoda desde que cruzó esa puerta. Le serví café, le di un sofá, le confié a mis muchachos, y usted le devolvió el gusto por la comida a mi mesera.
-
-Deja el repasador.
-
-—Y todavía no sé cómo se llama.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1175 · TOKYO GHOUL · MAÑANA · 07:20    ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la barra, comiendo pescado          ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1176)
+## COMANDO 1 (T1176)
 JAJAJAJA, tiene razon, me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1176)
+## RESPUESTA 1 (T1176)
 
 > —¡Jajajaja! Tiene razón. Me llamo Facundo Morelli.
 
@@ -91,10 +45,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1177)
+## COMANDO 2 (T1177)
 si, sin problema, y no soy de aqui pero seria de Argentina
 
-## RESPUESTA 3 (T1177)
+## RESPUESTA 2 (T1177)
 
 > —Sí, sin problema. Y no soy de aquí, pero sería de Argentina.
 
@@ -135,7 +89,51 @@ Detrás de él, Touka vuelve a frotar la mesa, más fuerte que antes.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1178)
+esta bien, y si quisieran podria sacarles el kagune a todos, veras mi habilidad no tiene tanto que ver con el cuerpo, tiene que ver con el alma, moldea el alma
+
+## RESPUESTA 3 (T1178)
+
+> —Está bien. Y si quisieran, podría sacarles el kagune a todos. Verás, mi habilidad no tiene tanto que ver con el cuerpo. Tiene que ver con el alma. Moldea el alma.
+
+El trapo de Touka se detiene otra vez.
+
+Esta vez se da vuelta.
+
+Yoshimura no se mueve. Se queda con las manos apoyadas en la barra, mirándote por encima de los lentes, y por un rato largo no dice nada. Afuera pasa una bicicleta; el timbre suena dos veces y se aleja.
+
+—El alma —repite.
+
+Lo dice despacio, sin incredulidad. Como alguien que escucha la respuesta a una pregunta que se hizo toda la vida y que nunca le contó a nadie.
+
+—Un ghoul sin kagune, sin kakuhou, que come lo que comen los demás. —Baja la vista hacia sus propias manos, viejas, sobre la madera—. Eso no es un ghoul, Morelli-san. Eso es una persona.
+
+Touka cruzó el local sin que nadie la oyera. Está al lado de la barra, con el trapo todavía en la mano, apretado.
+
+—¿Una persona? —Te mira a ti, no a Yoshimura—. ¿Del todo? ¿Que si la CCG le apunta con esas máquinas en la estación no suena nada? ¿Que si se corta, sangra y no se cierra? ¿Que puede ir a la escuela y comer en el almuerzo con los demás y no... —se le corta la voz— y no tiene que tener miedo de que se den cuenta?
+
+Aprieta el trapo hasta que gotea agua sobre el piso.
+
+—¿Puedes hacer eso?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1178 · TOKYO GHOUL · MAÑANA · 07:25    ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:23, barra de Anteiku. Yoshimura pide que Facundo lo acompañe a la puerta del callejón a las diez. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:25, barra de Anteiku. Touka pregunta si Facundo puede volver a alguien humano del todo. Facundo puede responder.

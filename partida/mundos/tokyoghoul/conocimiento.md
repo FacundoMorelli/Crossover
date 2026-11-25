@@ -42,3 +42,4 @@
 - Facundo · T1176 · por Yoshimura: por la puerta de atrás vienen ghouls a buscar paquetes de comida todos los días (viejos, madres, muchachos).
 - Yoshimura, Touka · T1177 · Facundo dice que sería de Argentina. Aceptó transfigurar a los ghouls que vienen por los paquetes.
 - Facundo · T1177 · por Yoshimura: los primeros llegan a las 10 por la puerta del callejón (señora Kimura y su hijo de 12, que no sabe usar el kagune); otros durante el día; no todos confían.
+- Yoshimura, Touka · T1178 · por Facundo: su habilidad moldea el alma; podría sacarles el kagune a los que quieran.

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1178 · "¿Una persona? ¿Del todo? ¿Que si la CCG le apunta con esas máquinas no suena nada? ¿Que puede ir a la escuela y comer en el almuerzo con los demás y no tiene que tener miedo? ¿Puedes hacer eso?"
 - T1174 · "Tengo que abrir. Ya es tarde." (voz demasiado aguda)
 - T1173 · "Tengo que abrir a las siete y media." "Hazlo. Y si me haces algo raro, te mato."
 - T1172 · "¿Y el kagune? ¿Siguen sirviendo para algo o los dejaste como humanos con dientes?" "Eso que hiciste. ¿Le sirve a cualquiera? ¿O solo a los que eran humanos antes, como este idiota?"

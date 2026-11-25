@@ -1176,3 +1176,4 @@ T1174 · TG · Anteiku · Transfigura a Touka. Baja y se encierra en el baño. Y
 T1175 · TG · Anteiku · Desayuno. Touka comió una tostada a escondidas. Yoshimura: "Todavía no sé cómo se llama."
 T1176 · TG · Anteiku · "Me llamo Facundo Morelli." Yoshimura: "¿Lo haría con los que vienen a buscar los paquetes?"
 T1177 · TG · Anteiku · "Sí, sin problema. Sería de Argentina." Yoshimura: los primeros llegan a las 10. "¿Me acompañaría?"
+T1178 · TG · Anteiku · "Podría sacarles el kagune; moldea el alma." Yoshimura: "Eso es una persona." Touka: "¿Puedes hacer eso?"

@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1178 · "El alma." "Un ghoul sin kagune, sin kakuhou, que come lo que comen los demás. Eso no es un ghoul, Morelli-san. Eso es una persona."
 - T1177 · "Sin problema." "Argentina. Está muy lejos. Allá toman una infusión de hierbas en una calabaza, con una bombilla de metal. Siempre quise probarla." "Morelli-san. ¿Me acompañaría a esa puerta a las diez?"
 - T1176 · "Facundo Morelli. No es un nombre de aquí. Mucho gusto, Morelli-san. Yoshimura." "Lo que hizo arriba anoche... Si se lo pidiera, ¿lo haría con ellos también?"
 - T1175 · "Le serví café, le di un sofá, le confié a mis muchachos, y usted le devolvió el gusto por la comida a mi mesera. Y todavía no sé cómo se llama."
