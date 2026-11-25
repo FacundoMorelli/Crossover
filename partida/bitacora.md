@@ -1159,3 +1159,4 @@ T1157 · TG · Anteiku · Yoshimura se presenta y sirve café. "Usted es humano.
 T1158 · TG · Anteiku · Muestra el Kagune de Ceniza en las cuatro formas. Kaneki: "¿Te hicieron esto?" Yoshimura: "Nunca vi un kagune que no tuviera hambre."
 T1159 · TG · Anteiku · "¿Conocen la Operación del Búho?" Yoshimura: "No, pero sí al Búho (SSS). ¿Cuál es su misión?"
 T1160 · TG · Anteiku · Le recita la misión. Yoshimura no finge: "¿Cuánto tiempo nos queda?" Kaneki empieza a sospechar en voz alta.
+T1161 · TG · Anteiku · "No lo sé. Mientras esté aquí, no les va a pasar nada." Yoshimura: "Gracias." Kaneki: "¿Por qué haces esto por nosotros?"

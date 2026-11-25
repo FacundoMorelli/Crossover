@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1161 · "Nos salvaste en la mansión. Salvaste a Shinohara. No nos conoces. No nos debes nada. ¿Por qué haces esto por nosotros?"
 - T1160 · "Yoshimura-san. Si la operación se llama así... y es contra este lugar..." (no termina)
 - T1159 · "En el Distrito 11, cuando atacaron Aogiri, apareció algo envuelto en kagune de pies a cabeza. Un búho."
 - T1158 · "Tienes los cuatro tipos. Y tus ojos no se ponen negros. ¿Eres como yo? ¿Te hicieron esto a ti también?"
