@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1084)
-de ninguna familia, soy un viajero
-
-## RESPUESTA 1 (T1084)
-
-> de ninguna familia, soy un viajero
-
-> —De ninguna Familia. Soy un viajero.
-
-Loki se queda con el vaso a medio camino de la boca.
-
-Lo deja sobre la mesa, despacio, sin tomar. Te mira. Los ojos rojos se le abren del todo.
-
-—Verdad —dice. Ya no canturrea—. Ninguna Familia. Ningún dios.
-
-Detrás de ella, Riveria levanta la cabeza de golpe. Finn no se mueve, pero se le detiene el pulgar en la rodilla.
-
-—Eso es imposible —dice Riveria, en voz baja—. Sin Falna, un humano no puede ni levantar la espada de un aventurero de Nivel dos. Y tú tiraste a Bete.
-
-—Imposible —repite Loki. Se ríe, una risa corta, nerviosa, que no se parece a las de antes—. Imposible, dice. Mil años bajé a este mundo, y ahora viene un chico con un gato a mi sala y me dice la verdad más imposible que oí en todo ese tiempo. —Se pasa una mano por el pelo rojo—. Y no está mintiendo. No está mintiendo, Riveria.
-
-Agarra el vaso. Se toma todo de un trago.
-
-Finn habla por primera vez desde que entraron.
-
-—Un viajero sin Familia, sin dios, sin Falna. —Te mira, frío, calculando—. Que tiene la fuerza de un aventurero de primera clase, o más. Que se mueve sin que nadie lo vea. Y que decidió que los monstruos de Dédalo merecían volver a casa. —Hace una pausa—. ¿Cuánto tiempo piensas quedarte en Orario?
-
-Loki levanta la mano antes de que puedas contestar.
-
-—No, no, no, Finn. Espera. Primero lo importante. —Se inclina por encima de la mesa, tan cerca que le sientes el olor a vino. Los ojos rojos le brillan como brasas—. Guapo. Escúchame bien. Mamá Loki tiene la Familia más fuerte de Orario. Comida, cama, el mejor vino de la ciudad, la Princesa Espada, y a Finn, que es aburrido pero útil. —Sonríe con todos los dientes—. Y yo tengo una Falna esperando para ti.
-
-Te tiende una mano por encima de la mesa, con la palma hacia arriba.
-
-—¿Quieres ser de los míos?
-
-Kase, en el sillón de al lado, aprovecha que nadie lo mira y se roba un pedazo de queso de la bandeja.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1084 · DANMACHI · NOCHE 2 · 00:54      ║
-║ Orario · Mansión del Crepúsculo, sala        ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sillón, robando queso            ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La Familia Loki                    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1085)
+## COMANDO 1 (T1085)
 no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
 
-## RESPUESTA 2 (T1085)
+## RESPUESTA 1 (T1085)
 
 > no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
 
@@ -113,10 +59,10 @@ Loki deja el vaso a medio camino. Riveria no se mueve. Kase, con la boca llena d
 
 ---
 
-## COMANDO 3 (T1086)
+## COMANDO 2 (T1086)
 por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
 
-## RESPUESTA 3 (T1086)
+## RESPUESTA 2 (T1086)
 
 > por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
 
@@ -169,4 +115,97 @@ Agarra la botella verde y se sirve el último resto.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:59, sala de Loki. Facundo dijo que volvería por los Xenos y que no son malos. Riveria recuerda que Lido le habló; Finn promete pensarlo y le tiende la mano. Loki pregunta adónde va a ir. Facundo puede actuar.
+## COMANDO 3 (T1087)
+le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
+
+## RESPUESTA 3 (T1087)
+
+> le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
+
+Le das la mano a Finn. La aprieta una vez, firme, corta.
+
+> —Nos vemos en otro momento.
+
+—Eso espero —dice Finn. Y por primera vez en toda la noche, casi sonríe.
+
+Loki levanta el vaso desde el sillón.
+
+—¡Vuelve cuando quieras, guapo! ¡Y trae al gato!
+
+Kase salta del sillón a tu hombro con un pedazo de queso todavía en la boca.
+
+Desapareces de la sala.
+
+Apareces en el techo más alto de la Mansión del Crepúsculo, entre las banderas del bufón que flamean en la noche. Abajo, Orario sigue llena de antorchas, pero las campanas ya se callaron. A lo lejos, blanca, la torre de Babel. Debajo de ella, veinte pisos más abajo, en una aldea de raíces luminosas, catorce monstruos y un minotauro duermen en casa.
+
+Abres la Puerta. El rectángulo de luz blanca, con el borde rojo y azul temblando, se recorta contra las estrellas.
+
+Nadie mira hacia arriba. Las banderas tapan la luz.
+
+Cruzas.
+
+[Mundo nuevo.]
+
+Nieve.
+
+Cae despacio, en copos grandes, sobre una ciudad que no tiene nada de castillos ni de torres de piedra. Edificios de cemento, de vidrio, de ladrillo, con carteles luminosos y aire acondicionado en las ventanas. Un semáforo que cambia a verde. Autos que pasan con las luces prendidas aunque ya es de día. Una mañana gris, fría, de invierno.
+
+Estás en una vereda angosta, entre una tienda de conveniencia y una lavandería, en una calle en pendiente que sube hacia una colina. Kase se acurruca en tu cuello con la bufanda de Tessai y el queso de Loki todavía en la boca.
+
+Pasa una señora con un paraguas. Tiene cuatro brazos, y con dos de ellos lleva bolsas del supermercado. No le llama la atención a nadie.
+
+Detrás de ella, un chico de unos diez años, con un gorro de lana, va soplando burbujas de jabón que le salen de la punta de los dedos, sin aparato, sin frasco, y se ríe.
+
+En la vidriera de la lavandería hay una televisión encendida. Un noticiero. En la pantalla, un hombre enorme con la cara y los hombros envueltos en fuego, con un traje azul oscuro, en una foto de archivo. Abajo, el titular: "A UN MES DE SU ASCENSO, ENDEAVOR, HÉROE N.º 1, SIGUE SIN CONVENCER AL PÚBLICO". Después, un muchacho rubio con alas de plumas rojas enormes, sonriendo a la cámara: "HAWKS, N.º 2: 'LO ESTÁ HACIENDO BIEN'".
+
+Arriba, en la cima de la colina, por encima de los techos nevados, se ven unos edificios enormes, de vidrio azul, con forma de H. Alrededor, un muro alto, gris, que encierra todo el complejo. En la reja de entrada, a lo lejos, se distingue un emblema: dos letras, U y A.
+
+[Destino fijado.]
+
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Boku no Hero Academia                 ║
+║ DON: LLAMA DEL RENACER                       ║
+║ Llamas blancas y azules que curan cualquier  ║
+║ herida al tocar. Y una vez por día, tú y     ║
+║ todos los que tocaste ese día, si mueren,    ║
+║ arden y vuelven a la vida enteros.           ║
+║ Bloqueadas: Pira (60), Amanecer (90)         ║
+║ Maestría 30                                  ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Boku no Hero Academia                 ║
+║                                              ║
+║ MISIÓN: Que ningún alumno ni profesor de la  ║
+║ U.A. muera antes de que termine la Guerra    ║
+║ de Liberación Paranormal.                    ║
+║ RECOMPENSA: 12.000 EXP · 400 Fragmentos      ║
+║ VENCE: nunca                                 ║
+╚══════════════════════════════════════════════╝
+
+A dos cuadras, colina abajo, suena una alarma. Un estruendo de vidrio. Gente que grita y corre por la vereda hacia donde estás, resbalando en la nieve.
+
+—¡Un villano! —grita un hombre de traje, pasando a tu lado—. ¡En el banco de la esquina! ¡Tiene el brazo de piedra!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1087 · BOKU NO HERO · DIC. · 08:40     ║
+║ Musutafu · calle al pie de la colina de la   ║
+║ U.A.                                         ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, con bufanda y queso      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 08:40, calle de Musutafu al pie de la U.A. Un villano con brazo de piedra asalta un banco a dos cuadras; la gente huye. Facundo puede actuar.

@@ -1,8 +1,8 @@
 {
-  "turno": 1086,
-  "mundo_actual": "danmachi",
-  "fecha_local": "Noche 2 (madrugada; vol. 11)",
-  "hora": "00:59",
+  "turno": 1087,
+  "mundo_actual": "bokunohero",
+  "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
+  "hora": "08:40",
   "edad": 18,
   "nivel": 28,
   "exp": 263900,
@@ -58,6 +58,11 @@
       "moneda": "valis",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 valis (fijado T1061)"
+    },
+    "bokunohero": {
+      "moneda": "yenes",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 yenes (fijado T1087)"
     }
   },
   "puntos_de_stat_sin_asignar": 150,
@@ -331,6 +336,18 @@
         "Formas bloqueadas: ÉGIDA ABSOLUTA (maestría 60: alcance 10 km y protege también de heridas que dejan secuelas); ÉGIDA DEL HOGAR (maestría 90: puede jurar proteger un lugar entero; nadie dentro muere mientras él esté adentro)."
       ],
       "turno": 1061
+    },
+    "bokunohero": {
+      "nombre": "Don: Llama del Renacer",
+      "tipo": "Don (quirk) de emisión",
+      "maestria": 30,
+      "reglas": [
+        "Facundo emite llamas blancas y azules que no queman: al tocar a alguien, le curan cualquier herida (cortes, quemaduras, huesos rotos, órganos), no enfermedades ni Dones perdidos (maestría 30).",
+        "RENACER: una vez cada 24 horas por persona, si Facundo o cualquiera que él haya tocado en esas 24 horas muere, el cuerpo arde en llamas blancas y azules y vuelve a la vida entero, con lo que tenía puesto.",
+        "Las llamas se ven: quien esté mirando, las ve.",
+        "Formas bloqueadas: PIRA (maestría 60: cura a todos en 100 m a la vez); AMANECER (maestría 90: revive a un muerto de hasta 1 hora aunque Facundo no lo haya tocado antes)."
+      ],
+      "turno": 1087
     }
   },
   "velo": {
@@ -1809,7 +1826,8 @@
       "blackclover",
       "fairytail",
       "hunterxhunter",
-      "danmachi"
+      "danmachi",
+      "bokunohero"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -1824,12 +1842,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "danmachi",
-      "mision": "Que todos los Xenos atrapados en la superficie vuelvan a la Mazmorra sin que muera ninguno.",
-      "recompensa": "10.000 EXP · 300 Fragmentos",
+      "mundo": "bokunohero",
+      "mision": "Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal.",
+      "recompensa": "12.000 EXP · 400 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1077): los 15 Xenos de la superficie (14 + Asterius) en el piso 20, ninguno muerto (Noche 2, 00:30)."
+      "estado": "ACTIVA (T1087)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -1856,7 +1874,8 @@
       "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
       "fairytail": "Llegada X784 julio Día 1 06:55 (Parque de la Puerta Sur). Salida Día 3 18:25, explanada del río de Magnolia, delante de Fairy Tail (vieron la Puerta). Prometió revancha a Natsu y pelear con Erza. Makarov: la puerta abierta. Corre.",
       "hunterxhunter": "Llegada Día 1 16:13. Salida Día 4 12:05, techo de un depósito del puerto de Kakin (nadie vio la Puerta; el hilo de Bungee Gum de Hisoka se cortó al cruzar). Corre.",
-      "danmachi": "Llegada Noche 1 23:10 (T1061), techo de una casa de la Calle Dédalo, Orario. Momento: inicio del vol. 11."
+      "danmachi": "Llegada Noche 1 23:10. Salida Noche 2 01:01, techo de la Mansión del Crepúsculo (nadie vio la Puerta). Promesas: Bell visitará a Wiene; Finn pensará sobre los Xenos; Loki: 'vuelve cuando quieras'. Corre.",
+      "bokunohero": "Llegada diciembre 08:40 (T1087), calle al pie de la colina de la U.A., Musutafu. Arco 14 (entrenamiento conjunto 1-A vs 1-B, cap. ~200)."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2121,6 +2140,13 @@
       "momento_del_canon": "Vol. 11, inicio: un día después de la batalla de la Calle Dédalo (vol. 10). Los Xenos (Lido, Gros, Rei, Wiene y otros; Asterius aparte) están atrapados en la superficie, escondidos en Knossos/Calle Dédalo. Bell es despreciado ('el conejo blanco caído'). La Familia Loki (Finn) y la Ganesha (Shakti) bloquean las entradas a la Mazmorra y peinan Dédalo. Hestia, Fels y Ouranos planean sacarlos. Hermes quiere que Bell ejecute Xenos en público. Próximos: escaramuza en Dédalo; Ais intenta matar a Wiene y duda; Bell vs Asterius ante la ciudad; Wiene halla una entrada cerca del orfanato de María; los Xenos escapan.",
       "lugar_de_llegada": "techo de una casa de la Calle Dédalo, cerca de Gros (gárgola Xenos)",
       "apodo_pendiente": "'Eclipse Errante' (título que le darían los dioses en un Denatus si se hace famoso)"
+    },
+    "bokunohero": {
+      "tirada_mundo": 0.1844,
+      "tirada_momento": 0.4656,
+      "momento_del_canon": "Arco 14 (caps. 194-217), cap. ~200: día del entrenamiento conjunto 1-A vs 1-B en el Campo Gamma de la U.A. (diciembre, nieve). Endeavor N.º 1 desde noviembre; Hawks N.º 2 (doble agente). Después: arco 15 (Ejército de Liberación Meta: Shigaraki vs Re-Destro, nace el Frente de Liberación Paranormal), arco 16 (pasantía con Endeavor), arco 17 (Guerra de Liberación Paranormal: mueren Midnight, Crust, Twice, muchos héroes; Shigaraki despierta).",
+      "lugar_de_llegada": "calle al pie de la colina de la U.A., Musutafu",
+      "apodo_pendiente": "'El Héroe sin Licencia' / 'Gato de Hielo y Fuego' (prensa)"
     }
   },
   "recompensa_onepiece": {

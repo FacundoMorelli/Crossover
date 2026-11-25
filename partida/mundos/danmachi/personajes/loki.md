@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: curiosidad, simpatía (T1082).
 ENCUENTROS:
 - T1080 · Noche 2 00:45 · Mansión del Crepúsculo: Facundo aparece en el portón.
 DIÁLOGOS CLAVE:
+- T1087 · "¡Vuelve cuando quieras, guapo! ¡Y trae al gato!"
 - T1086 · "Ay, mira eso. Mi capitán dándole la mano a un desconocido sin Falna. Me lo vas a convertir en un sentimental, guapo." "¿Adónde vas a ir, viajero?"
 - T1085 · "Verdad, verdad, verdad. Ay, qué cruel eres, guapo. Rompiste el corazón de mamá Loki. Pero me gustas igual. Por los viajeros que no se quedan."
 - T1084 · "Verdad. Ninguna Familia. Ningún dios." "Mil años bajé a este mundo, y ahora viene un chico con un gato y me dice la verdad más imposible que oí." "Tengo una Falna esperando para ti. ¿Quieres ser de los míos?"

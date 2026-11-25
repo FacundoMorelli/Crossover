@@ -189,3 +189,17 @@
 - RECOMPENSA: 10.000 EXP · 300 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T1077 · Noche 2 00:30. Los 15 Xenos en el piso 20, ninguno muerto. +10.000 EXP, +300 F. Mundos completados: 9.
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 10 | Boku no Hero Academia | Diciembre, 08:40 | Arco 14: entrenamiento conjunto 1-A vs 1-B (cap. ~200) | Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal. | ACTIVA |
+
+## RELOJES (actualizado T1087)
+- DanMachi: salida Noche 2 01:01, techo de la Mansión del Crepúsculo. Corre.
+- Boku no Hero: llegada diciembre 08:40, Musutafu.
+- Hunter x Hunter, Bleach, Fairy Tail, Jujutsu, Shingeki, One Piece, Dragon Ball, Black Clover: corren.
+
+### Boku no Hero Academia
+- MISIÓN: Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal.
+- RECOMPENSA: 12.000 EXP · 400 Fragmentos
+- VENCE: nunca · CAMBIADA: no

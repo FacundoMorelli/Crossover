@@ -38,3 +38,4 @@
 - Noche 2 00:48 · (T1082) La Familia Loki sabe por Facundo (confirmado por Loki) que los Xenos están en la Mazmorra. Loki lo invita a entrar.
 - Noche 2 00:57 · (T1085) Finn decide informar al Gremio que la amenaza terminó y el "humano del gato" era un aventurero de paso.
 - Noche 2 00:59 · (T1086) Finn promete reconsiderar su postura sobre los Xenos (CAMBIO: siembra en la Familia Loki la duda sobre los Xenos antes de tiempo).
+- Noche 2 01:01 · (T1087) Facundo le da la mano a Finn, se despide ("nos vemos en otro momento"), se teletransporta al techo de la mansión y se va por la Puerta (nadie la ve).
