@@ -39,3 +39,4 @@
 - T1117 · Intrusión en Tartarus: All Might y un desconocido aparecen en la celda de All For One. Alarma general.
 - T1121 · Cinco miembros de la Liga quedan inconscientes en su cabaña. Shigaraki y Gigantomachia no se enteran.
 - T1123 · Shigaraki y Gigantomachia derrotados e inconscientes. La Liga entera queda encerrada en su cabaña.
+- T1127 · Laboratorio de Jaku neutralizado: Garaki inconsciente, 64 Nomu sin reacción.

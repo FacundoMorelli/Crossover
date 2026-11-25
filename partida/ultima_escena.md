@@ -3,80 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1124)
-dejo pasar el aire y llamo a Nezu, pueden ir viniendo a la cabaña, ya deje inconscientes a dabi, toga, compress, shigaraki y twice, ahora voy a por los demas
-
-## RESPUESTA 1 (T1124)
-
-> dejo pasar el aire y llamo a Nezu
-
-Tocas la frontera con la punta de Sakaime. El brillo del Recinto tiembla un instante. Después el copo de nieve que estaba pegado arriba cae al techo de la cabaña, y el humo de la chimenea vuelve a salir hacia el cielo.
-
-[Recinto modificado: deja pasar el aire. Nada más.]
-
-No tienes teléfono. Lo compras.
-
-╔══════════════════════════════════════════════╗
-║ TIENDA DEL SISTEMA · compra                  ║
-╠══════════════════════════════════════════════╣
-║ Celular local con línea                      ║
-║ Costo: 5 Fragmentos                          ║
-╠══════════════════════════════════════════════╣
-║ FRAGMENTOS: 108.911 → 108.906                ║
-╚══════════════════════════════════════════════╝
-
-En la carpeta de la U.A., debajo del sello rojo del nombramiento, hay una línea impresa: "Contacto directo del director". Marcas.
-
-No suena ni dos veces.
-
-—¡Señor Morelli! —La voz aguda de Nezu sale casi gritando—. All Might acaba de llamarme desde Tartarus. ¡Desde Tartarus! Tiene a medio cuerpo de guardia apuntándole y a la Comisión entera en la otra línea, y yo estoy...
-
-> —Pueden ir viniendo a la cabaña. Ya dejé inconscientes a Dabi, Toga, Compress, Shigaraki y Twice. Ahora voy por los demás.
-
-Silencio en la línea.
-
-Un silencio largo. Escuchas, del otro lado, una taza de té que se apoya muy despacio sobre un plato.
-
-—...Shigaraki —dice Nezu al fin. Lo escuchas teclear, como si lo anotara—. Señor Morelli, la Comisión buscó a la Liga durante meses. Meses. —Respira—. Y usted salió de mi oficina hace cinco minutos.
-
-Las teclas se detienen.
-
-—Muy bien. Muy bien. Ya tengo las coordenadas de la cabaña, las que marcó en el mapa. Voy a mandar a Aizawa con un equipo y a pedirle a la Comisión que mande transporte de contención. —Una pausa—. Con todo lo que tienen, por si acaso.
-
-Después la voz le baja, más seria.
-
-—Una cosa. Usted dijo que Shigaraki estaba peleando con un ser colosal. —Te imaginas sus orejitas paradas—. ¿Dónde está ese ser ahora?
-
-Y antes de que contestes, agrega, más rápido:
-
-—Y cuando dice "los demás"... ¿a quiénes se refiere exactamente?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1124 · BOKU NO HERO · DIC. · 12:09     ║
-║ Montañas del noroeste · afuera de la cabaña  ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Sakaime: en la mano (Shikai)                 ║
-║ Recinto activo: cabaña (deja pasar el aire)  ║
-║ Llamada en curso: Nezu                       ║
-║ Gigantomachia: inconsciente en el valle      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a los demás               ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1125)
+## COMANDO 1 (T1125)
 a los que estaban armando lo que les dije antes, dejo que en sakaime solo pasen los heroes y los buenos
 
-## RESPUESTA 2 (T1125)
+## RESPUESTA 1 (T1125)
 
 > —A los que estaban armando lo que les dije antes.
 
@@ -128,10 +58,10 @@ Vuelve a hablarte.
 
 ---
 
-## COMANDO 3 (T1126)
+## COMANDO 2 (T1126)
 está inconsciente en el valle, me teletransporto al hospital primero
 
-## RESPUESTA 3 (T1126)
+## RESPUESTA 2 (T1126)
 
 > —Está inconsciente en el valle.
 
@@ -192,4 +122,58 @@ La mano arrugada se le va, muy despacio, como sin querer, hacia un botón rojo g
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:11, laboratorio bajo el hospital de Jaku. Garaki con la mano yendo al botón rojo que despierta a los Nomu. Docenas de Nomu en tanques. Facundo puede actuar.
+## COMANDO 3 (T1127)
+uso el haki del rey en todo el laboratorio
+
+## RESPUESTA 3 (T1127)
+
+> uso el haki del rey en todo el laboratorio
+
+No das un paso. No mueves un dedo.
+
+Solo sueltas la voluntad.
+
+El aire del laboratorio se pone pesado de golpe, como si el techo hubiera bajado un metro. Las luces verdes de los tanques parpadean todas juntas. Un zumbido grave recorre las paredes de metal, las mesas, las pantallas. Un vaso de laboratorio se raja solo en una repisa. Kase aplasta las orejas.
+
+Los dedos de Garaki llegan a tocar la tapa de plástico.
+
+No llegan a levantarla.
+
+Los ojos se le van para atrás detrás de las gafas. Le sale espuma por la comisura de la boca, debajo del bigote. Se desliza de la silla con ruedas, que se va rodando sola hacia atrás, y cae al piso de costado, inconsciente. El plato de fideos se vuelca encima de él.
+
+En los tanques, las burbujas cambian.
+
+Por un instante, en todas las filas al mismo tiempo, los cuerpos que flotan se tensan. Docenas de manos deformes que se cierran contra el vidrio. Una cola que da un golpe seco contra la pared de un tanque. Un ala que se abre a medias.
+
+Y después, nada.
+
+Los cuerpos se aflojan. Se hunden un poco en el líquido. Las burbujas vuelven a subir, pero más lentas, más espaciadas. Ya no respiran como si estuvieran dormidos. Respiran como si estuvieran muy, muy lejos.
+
+En las pantallas de la pared, los gráficos que miraba Garaki se ponen en rojo. Todos. Una alarma suave, de máquina, empieza a pitar en un monitor del costado.
+
+[CONSTANTES VITALES: SUJETOS 1 AL 64 — ACTIVIDAD CEREBRAL MÍNIMA]
+
+El botón rojo sigue ahí, bajo su tapa transparente. Sin apretar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1127 · BOKU NO HERO · DIC. · 12:11     ║
+║ Jaku · laboratorio bajo el hospital          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro (orejas aplastadas)       ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Garaki: inconsciente · 64 Nomu: sin reacción ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Garaki y los Nomu                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:11, laboratorio de Jaku. Garaki inconsciente en el piso, botón rojo sin apretar. 64 Nomu en tanques con actividad cerebral mínima; pitido de alarma suave. Facundo puede actuar.

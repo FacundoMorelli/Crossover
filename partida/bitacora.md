@@ -1125,3 +1125,4 @@ T1123 · BnHA · Montañas · Shigaraki y Giganto inconscientes. Shigaraki a la 
 T1124 · BnHA · Cabaña · Aire permitido. Celular (5 F). Llama a Nezu: vengan a la cabaña. Nezu manda a Aizawa y a la Comisión. "¿Dónde está el gigante? ¿Quiénes son los demás?"
 T1125 · BnHA · Cabaña · "Los demás": Deika y Jaku. Recinto deja pasar a héroes y buenos. Nezu manda a Aizawa, Mic y Ectoplasm. Pregunta otra vez por el gigante.
 T1126 · BnHA · Jaku · Gigante en el valle (a Nezu). Laboratorio de Nomu. Garaki va al botón rojo: "Ni un paso más."
+T1127 · BnHA · Jaku · Haki del Rey. Garaki inconsciente sin apretar el botón. 64 Nomu con actividad mínima.
