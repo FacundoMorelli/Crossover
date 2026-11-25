@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1243 · Noche del Día 6: prepara café tres veces; no cuenta nada de los Washuu. A Facundo, bajo: "Si mañana no vuelve, voy a entender."
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1261 · "No es una mala idea. Es una idea muy grande. Las ideas muy grandes hay que dejarlas reposar. Como el café."
 - T1260 · "¿Sería para todos, de una sola vez, en todo el mundo? ¿O para cada uno que lo elija?"
 - T1259 · "Mi hija dijo que usted era de los que creen que se puede arreglar un mundo roto con las manos." "¿Podría explicarnos qué quiere decir normal? Para cada persona en esta habitación, esa palabra significa algo distinto."
 - T1258 · "Un chico que crece solo no madura. Se endurece." "Ella creció sola. Porque yo la dejé sola." "Las historias que escribe hablan de gente que intenta arreglar el mundo y fracasa. Empezando por su padre." "Gracias, Kaneki-kun." "Ella va a buscarlo cuando quiera. Siempre fue así."

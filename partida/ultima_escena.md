@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1258)
-tu hija no sabe que hay gente todavia capaz de cambiar el mundo, le falta madurar
-
-## RESPUESTA 1 (T1258)
-
-> —Tu hija todavía no sabe que hay gente capaz de cambiar el mundo. Le falta madurar.
-
-Yoshimura deja de doblar repasadores.
-
-Se queda con uno a medio doblar en las manos. Te mira por encima del hombro. Y se le escapa algo que no esperabas: una risa. Corta, suave, cansada, por la nariz.
-
-—Le falta madurar —repite. Asiente despacio—. Sí. Es posible.
-
-Termina de doblar el repasador. Lo deja con los otros.
-
-—Pero no es culpa de ella, Morelli-san. —Se apoya en la barra con las dos manos—. Un chico que crece solo no madura. Se endurece. Que no es lo mismo. —Hace una pausa—. Y ella creció sola. Porque yo la dejé sola, cuando era muy chica, en un lugar donde nadie iba a buscarla. Creí que la estaba salvando.
-
-Mira la puerta, la vereda vacía, el farol de la esquina.
-
-—Las historias que escribe hablan de gente que intenta arreglar el mundo y fracasa. —Lo dice sin amargura, como quien lee un dato en voz alta—. Porque es lo único que vio. Gente que lo intentó y fracasó. Empezando por su padre.
-
-Nadie dice nada en el salón. Touka mira el piso. Koma se rasca la nuca, incómodo. Hinami, detrás de Nishiki, abraza a su muñeca.
-
-Kaneki da un paso hacia la barra. Mira el libro que tiene en las manos. Lo mira mucho tiempo, como si le costara. Después lo deja sobre la madera, delante de Yoshimura, con la tapa hacia arriba, y lo empuja despacio con dos dedos hasta que toca las manos del viejo.
-
-—Usted debería leerlo primero —dice, en voz baja.
-
-Yoshimura mira el libro. Mira a Kaneki.
-
-Lo toma. Despacio. Con las dos manos, igual que toma las tazas.
-
-Pasa la mano una vez por la tapa negra, por las letras doradas, como si le sacara un polvo que no tiene. No lo abre.
-
-—Gracias, Kaneki-kun.
-
-Después levanta la vista hacia ti. Los ojos se le arrugan en los bordes.
-
-—Y si algún día usted vuelve a cruzarse con ella... —Se calla. Lo piensa. Niega despacio con la cabeza—. No. Nada. Ella va a buscarlo cuando quiera. Siempre fue así.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1258 · TOKYO GHOUL · DÍA 7 · 20:58     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1259)
+## COMANDO 1 (T1259)
 yo tengo una forma de volver este mundo normal, sin ghouls, ni investigadores
 
-## RESPUESTA 2 (T1259)
+## RESPUESTA 1 (T1259)
 
 > —Yo tengo una forma de volver este mundo normal. Sin ghouls, ni investigadores.
 
@@ -113,10 +57,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1260)
+## COMANDO 2 (T1260)
 sacarles el ghoul de dentro, los que son ghoul de nacimiento convertirse en humanos y igual con la gente como kaneki
 
-## RESPUESTA 3 (T1260)
+## RESPUESTA 2 (T1260)
 
 > —Sacarles el ghoul de adentro. Los que son ghouls de nacimiento se convertirían en humanos. Y lo mismo la gente como Kaneki.
 
@@ -163,7 +107,59 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1261)
+podria hacerlo para los que lo deseen plenamente, pero no, es una mala idea, olvidense de eso
+
+## RESPUESTA 3 (T1261)
+
+> —Podría hacerlo para los que lo deseen plenamente. Pero no. Es una mala idea. Olvídense de eso.
+
+El salón suelta el aire.
+
+No todo de golpe. De a poco, como una casa vieja que se acomoda de noche. Koma se deja caer sentado en un taburete y se pasa las dos manos por la cara. Uno de los Apes del pasillo murmura algo y otro le contesta con una risa corta, nerviosa. Irimi vuelve a apoyarse en el marco de la puerta.
+
+Hinami asoma la cabeza por detrás de Nishiki.
+
+Yoshimura no dice nada enseguida. Te mira un momento largo. Después asiente, despacio, una sola vez.
+
+—No es una mala idea, Morelli-san —dice—. Es una idea muy grande. —Toma el libro de Eto otra vez y lo apoya contra el pecho—. Las ideas muy grandes hay que dejarlas reposar. Como el café.
+
+Se da vuelta hacia la cafetera.
+
+—Que nadie se vaya todavía. Voy a preparar otra tanda. —Una pausa—. Y Koma-kun, tus muchachos van a cenar. Están comiendo lo que encuentran desde anoche.
+
+—¡Por fin alguien que me entiende! —Koma se levanta de un salto y se va a la cocina a los gritos, llamando a los Apes por sus apodos.
+
+El salón se mueve otra vez. Nishiki suelta el hombro de Hinami y va a sacar tazas. Irimi lo sigue a la cocina. Kaneki se sienta en un taburete de la barra, con los codos sobre la madera, mirando la nada, todavía con las manos abiertas sobre la barra como si no supiera qué hacer con ellas.
+
+Touka no se mueve.
+
+Se quedó parada donde estaba, frente a ti, a un metro. Los brazos colgando. Espera a que el ruido de la cocina tape lo demás. Después da un paso más cerca y habla bajo, sin mirarte a los ojos, mirando un botón de tu sobretodo.
+
+—Lo de antes. —Traga saliva—. Lo que te pregunté en la barra, el primer día. Que podías hacerlo con una sola persona. Que esperara a que pasara lo del Búho.
+
+Levanta la vista.
+
+—Ya pasó lo del Búho. —El ojo gris le tiembla un poco—. ¿Eso sigue en pie?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1261 · TOKYO GHOUL · DÍA 7 · 21:04     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:02, salón de Anteiku. Facundo explicó el plan de volver humanos a todos los ghouls. Dudas de Kaneki, Koma e Irimi. Yoshimura pregunta si sería para todos de una vez o para quien lo elija. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:04, salón de Anteiku. Facundo descartó el plan grande. Café para todos. Touka, a solas, pregunta si sigue en pie volverla humana a ella. Facundo puede responder.
