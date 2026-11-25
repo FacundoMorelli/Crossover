@@ -1109,3 +1109,4 @@ T1107 · BnHA · Sala de monitoreo · "Puedo sentir a la gente." Nezu: "¡Lo sab
 T1108 · BnHA · Sala de monitoreo · Busca a la Liga: Shigaraki vs Gigantomachia en montañas del noroeste; la Liga cerca; ejército en una ciudad al sur; Nomu bajo un hospital; All For One enterrado mira hacia Izuku. Nezu: "¿Qué sintió?"
 T1109 · BnHA · Sala de monitoreo · Les cuenta todo. All Might: "Se dio vuelta hacia Midoriya." Nezu: esto es de la Comisión. Mapa: "¿Puede marcar los lugares?"
 T1110 · BnHA · Sala de monitoreo · Marca montañas, cabaña, Deika y Jaku. Nezu: "Deika, demasiado perfecta." Ofrece sanar la herida de All Might. "¿De verdad podrías?"
+T1111 · BnHA · Sala de monitoreo · Transfiguración Ociosa: All Might curado (estómago, pulmón) y la brasa de One For All entera. Forma musculosa. "¿Qué me hiciste? Ya no es una brasa. Está entera."

@@ -6,3 +6,4 @@ DON DE MUNDO: Llama del Renacer (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
 - T1096 · Facundo es consultor de seguridad externo de la U.A. (Nezu).
+- T1111 · All Might curado y con su poder restaurado (la brasa de One For All, entera). El Símbolo de la Paz puede volver.

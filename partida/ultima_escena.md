@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1108)
-busco a la Liga
-
-## RESPUESTA 1 (T1108)
-
-> busco a la Liga
-
-Cierras los ojos.
-
-La sala de monitoreo se queda en silencio. Aizawa no se mueve. All Might contiene la respiración. En la pantalla, Nezu deja la taza.
-
-Te abres.
-
-Primero lo cercano: los tres en la sala, cálidos, quietos. Kase en tu hombro, tranquilo. Las cuarenta presencias jóvenes del Campo Gamma, cansadas, agitadas, una de ellas en la enfermería, todavía temblando un poco pero entera. Más allá, la ciudad entera: millones de presencias chiquitas, como luces de un pueblo de noche, cada una con su Don apagado o encendido, yendo y viniendo.
-
-Sigues. Más lejos. Más hondo.
-
-Y empiezas a encontrar cosas que no encajan.
-
-Al noroeste, muy lejos, a cientos de kilómetros, entre montañas cubiertas de nieve, hay dos presencias que pelean. No paran. Una es colosal, pesada como una montaña que camina, y cada golpe que da sacude la tierra alrededor. La otra es más chica, flaca, rabiosa, y tiene algo que no se parece a nada: todo lo que toca se pudre, se deshace, se vuelve polvo. Llevan días así. Semanas, quizás. Sin dormir.
-
-A unos kilómetros de ellos, en una cabaña o una cueva, un puñado más: una presencia que arde desde adentro, como alguien que se quema vivo y no se apaga; una que se ríe sola, filosa, inquieta, que huele a sangre; una que está partida en dos, como si fuera muchas personas a la vez y ninguna; otras más, menos fuertes, juntas.
-
-Más al sur, en una ciudad mediana, decenas de miles de presencias que se mueven al mismo tiempo, en orden, como un ejército que finge ser una ciudad. En el centro, una sola, enorme, dura como una torre, rodeada de otras que le obedecen.
-
-En otra ciudad, debajo de un hospital, bajo tierra, muchos pisos abajo: docenas de presencias dormidas. No están vivas del todo. Están cosidas, mezcladas, mal hechas, como muñecos armados con pedazos de otras personas. Y entre ellas, despierto, un viejo, cuidándolas.
-
-Y por último, muy lejos, muy abajo, enterrado a una profundidad que no se mide en metros, hay algo.
-
-No es una presencia. Es un agujero. Un hueco frío que traga todo lo que tiene alrededor, quieto, paciente, que espera. Y mientras lo miras, por un instante, sientes que el agujero se da vuelta. Como si te hubiera notado.
-
-No te nota. El Velo no deja. Pero se da vuelta igual, hacia el Campo Gamma, hacia la enfermería donde está el chico de pelo verde.
-
-Abres los ojos.
-
-En la sala, los tres te están mirando. Nadie habla.
-
-Nezu es el primero.
-
-—¿Y bien, señor Morelli? —dice, en voz muy baja—. ¿Qué sintió?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1108 · BOKU NO HERO · DIC. · 11:37     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Encontrar a la Liga                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1109)
+## COMANDO 1 (T1109)
 los encontre, les digo todo
 
-## RESPUESTA 2 (T1109)
+## RESPUESTA 1 (T1109)
 
 > los encontre, les digo todo
 
@@ -119,10 +60,10 @@ Te mira por la cámara.
 
 ---
 
-## COMANDO 3 (T1110)
+## COMANDO 2 (T1110)
 sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
 
-## RESPUESTA 3 (T1110)
+## RESPUESTA 2 (T1110)
 
 > sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
 
@@ -180,4 +121,71 @@ En la pantalla, Nezu dejó de teclear.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:46, sala de monitoreo. Facundo marcó en el mapa las montañas, la cabaña, Deika y Jaku. Le ofreció a All Might sanarle la herida; All Might, emocionado, pregunta si de verdad podría. Facundo puede actuar.
+## COMANDO 3 (T1111)
+permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
+
+## RESPUESTA 3 (T1111)
+
+> permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
+
+> —Permiso, señor.
+
+Le apoyas la palma de la mano en el costado izquierdo, encima de la suya, encima del traje amarillo.
+
+All Might no se aparta. Se queda quieto, temblando, con los ojos hundidos clavados en tu cara.
+
+Y algo se acomoda.
+
+Debajo de tu palma, la forma de su alma está rota. No de un golpe: gastada, raspada, con un agujero enorme en el costado, donde un puño le arrancó lo que había. Alrededor del agujero, todo está flaco, encogido, apagado. Y en el centro del pecho, muy en el fondo, casi invisible, queda algo. Una brasa. Una chispa diminuta, dorada, del tamaño de una lenteja, que todavía brilla, apenas, como la última vela de una casa vacía.
+
+La tocas. La completas. Le devuelves al alma la forma que tenía antes de que ese hombre la rompiera. Y el cuerpo, que siempre obedece al alma, sigue.
+
+All Might ahoga un grito.
+
+Debajo del traje, algo se le mueve en el costado. Se llena. El estómago que no tenía. El pulmón entero. La cicatriz enorme, que le cruzaba el torso como un cráter, se cierra y desaparece. Se le enderezan los hombros. Se le ensancha el pecho. El traje amarillo, que le quedaba tres talles grande, deja de colgarle.
+
+Y la brasa del centro del pecho se enciende.
+
+Es una luz dorada que le sale desde adentro, a través de la ropa, a través de la piel. Crece. Llena la sala oscura de monitoreo como si alguien hubiera abierto una ventana al sol del mediodía.
+
+Retiras la palma.
+
+All Might cae de rodillas. Respira. Hondo, con todo el pecho, con los dos pulmones, por primera vez en seis años, y el aire le entra entero y no tose.
+
+Y entonces el cuerpo se le infla.
+
+De golpe, en un estallido de vapor que empaña todas las pantallas de la sala. Los brazos, los hombros, el cuello, el pecho: músculo sobre músculo, enorme, imposible. El traje amarillo se le raja en las costuras. El pelo rubio se le levanta en los dos mechones de siempre, como antenas. La cara se le llena, se le ensancha, se le marca con esas sombras profundas alrededor de los ojos, que brillan azules.
+
+Se pone de pie. Llega casi al techo de la sala.
+
+Se mira las manos. Enormes. Las abre. Las cierra.
+
+Aizawa está de pie, con la silla tirada detrás de él, la boca abierta. En la pantalla, Nezu se quedó con la taza de té a medio camino del hocico, y la taza se le cae, y el té se derrama por todo el escritorio, y él ni lo nota.
+
+All Might no habla. Se le llenan los ojos de lágrimas, enormes, que le caen por la cara gigante y se le meten en la sonrisa. Porque está sonriendo. La sonrisa de siempre, la del póster, la de los noticieros, la que el país entero dejó de ver en Kamino.
+
+—Joven Morelli —dice. Y la voz ya no es la de un hombre enfermo. Es la voz que retumba, grave, enorme, que hace vibrar las pantallas—. ¿Qué... qué me hiciste?
+
+Se lleva una mano gigante al pecho, donde la brasa dorada sigue ardiendo, quieta, entera.
+
+—Siento... siento lo que tenía. Lo que quedaba. —Le tiembla la voz enorme—. Pero ya no es una brasa. Está entera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1111 · BOKU NO HERO · DIC. · 11:48     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:48, sala de monitoreo. Facundo curó a All Might con la Transfiguración Ociosa y le restauró entera la brasa de One For All: All Might vuelve a su forma musculosa. Aizawa y Nezu, atónitos. All Might pregunta qué le hizo. Facundo puede responder.

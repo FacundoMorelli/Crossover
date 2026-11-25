@@ -50,3 +50,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 
 ### Boku no Hero Academia
 - Turno 1087 · Cruza la Puerta desde Orario. Llega a Musutafu, al pie de la colina de la U.A. (diciembre, arco del entrenamiento conjunto). Don de Mundo: Llama del Renacer.
+- Turno 1111 · Cura a All Might y le restaura entera la brasa de One For All (vuelve su forma musculosa).

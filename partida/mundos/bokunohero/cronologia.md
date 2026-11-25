@@ -34,3 +34,4 @@
 - Diciembre 11:37 · (T1108) Facundo siente: Shigaraki vs Gigantomachia en montañas del noroeste (canon: entrenamiento de semanas); la Liga en una cabaña cercana; el Ejército de Liberación Meta en Deika (Re-Destro); los Nomu y Garaki bajo el hospital de Jaku; All For One en Tártaro (se gira hacia Izuku).
 - Diciembre 11:42 · (T1109) CAMBIO: Nezu conoce la ubicación de la Liga, del Ejército de Liberación Meta (Deika) y de la fábrica de Nomu meses antes que en el canon (allí la informaba Hawks en febrero).
 - Diciembre 11:44 · (T1110) Facundo marca en el mapa de Nezu las montañas, la cabaña de la Liga, Deika y Jaku.
+- Diciembre 11:48 · (T1111) CAMBIO ENORME: Facundo cura a All Might (Transfiguración Ociosa) y restaura entera la brasa de One For All que le quedaba: All Might vuelve a tener su forma musculosa y su poder. Izuku conserva One For All.

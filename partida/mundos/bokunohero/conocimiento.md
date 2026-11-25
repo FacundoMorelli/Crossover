@@ -5,10 +5,12 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Transeúntes de la calle · T1087 · un joven de negro con un gato enorme. Nada más.
 
 ## QUIÉN VIO QUÉ PODERES
+- All Might, Aizawa, Nezu · T1111 · un toque que rehace el cuerpo desde adentro (Transfiguración Ociosa) y devuelve el poder.
 - Aizawa, Vlad King, All Might · T1098 · teletransporte inmune a Borrar.
 - Empleados del banco · T1088 · teletransporte (aparecer de la nada) y un golpe que deshizo un brazo de roca.
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
+- All Might, Aizawa, Nezu · T1111 · un toque que rehace el cuerpo desde adentro (Transfiguración Ociosa) y devuelve el poder.
 - Aizawa, Vlad King, All Might · T1098 · teletransporte inmune a Borrar.
 - Empleados del banco · T1088 · teletransporte (aparecer de la nada) y un golpe que deshizo un brazo de roca.
 - Empleados del banco (5), señora mayor · T1088 · lo vieron aparecer de la nada en el banco y derribar al villano de un golpe (la roca del brazo se deshizo). Preguntó dónde estaba.
@@ -39,3 +41,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu, Aizawa, All Might · T1107 · Facundo puede sentir a la gente a distancia (él lo dijo). Acuerdan mantenerlo en secreto ("esta conversación no existe").
 - Nezu, Aizawa, All Might · T1109 · por Facundo: Shigaraki vs un ser colosal en montañas del noroeste; la Liga escondida cerca; una ciudad al sur con decenas de miles que se mueven como ejército y un líder como una torre; una fábrica de Nomu bajo un hospital con un viejo; All For One se giró hacia Izuku. Nada de esto estaba en ningún informe oficial.
 - Nezu, Aizawa, All Might · T1110 · Facundo marcó en el mapa: montañas del noroeste (Shigaraki y el colosal), una cabaña en un valle cercano (la Liga), Deika (ejército) y el hospital de Jaku (Nomu). Facundo sabe de la herida de All Might (la sintió); se ofreció a sanarla.
+- All Might, Aizawa, Nezu · T1111 · vieron a Facundo apoyar la palma en el costado de All Might: All Might quedó curado (estómago y pulmón de vuelta, cicatriz cerrada) y recuperó su forma musculosa con una luz dorada desde el pecho. All Might siente "lo que quedaba" de su poder, entero.

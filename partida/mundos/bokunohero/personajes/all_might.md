@@ -1,14 +1,15 @@
 NOMBRE: Toshinori Yagi (All Might)
 AFILIACIÓN: U.A. (profesor); ex símbolo de la paz, retirado tras Kamino
 RANGO: héroe retirado
-PODER VISTO POR FACUNDO: ninguno (ya no tiene One For All)
+PODER VISTO POR FACUNDO: forma musculosa restaurada; brasa de One For All entera (T1111)
 EDAD EN ESTE MOMENTO DEL CANON: adulto (~50)
-FÍSICO: Altísimo, flaco hasta los huesos, traje amarillo grande, mechones rubios, ojos hundidos con brillo azul.
+FÍSICO: (hasta T1111) altísimo, flaco hasta los huesos, traje amarillo grande, mechones rubios, ojos hundidos con brillo azul.
 PERSONALIDAD Y FORMA DE HABLAR: Cálido, serio cuando importa; dice "joven" a los chicos.
-RELACIÓN CON FACUNDO: gratitud profunda (salvó a Izuku, T1104).
+RELACIÓN CON FACUNDO: gratitud inmensa (salvó a Izuku; lo curó y le devolvió el poder, T1111).
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1111 · "Joven Morelli. ¿Qué... qué me hiciste? Siento lo que tenía. Lo que quedaba. Pero ya no es una brasa. Está entera."
 - T1110 · "¿Cómo...?" "Hace seis años, ese hombre me abrió aquí. Me sacaron el estómago entero. La mitad de un pulmón." "Aunque me la sanes, One For All ya no está en mí. Pero podría estar ahí. Con ellos. Sin toser sangre. ¿De verdad... podrías?"
 - T1109 · "Se dio vuelta. Hacia el joven Midoriya. Hoy despertó algo nuevo en ese chico. Algo que viene de lo que le di. Y él siempre lo supo."
 - T1107 · "Sentir a la gente. A cualquier distancia..."
@@ -22,4 +23,4 @@ DIÁLOGOS CLAVE:
 - T1092 · "Está bien, Tsukauchi. Ya lo escuché todo." "Joven Morelli. Voy a hacerte una sola pregunta, y Tsukauchi va a saber si me mientes. ¿Alguien te dio esos poderes?"
 QUÉ SABE DE FACUNDO: todo lo dicho en el interrogatorio (T1092).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
-ESTADO: en la sala de interrogatorio.
+ESTADO: CURADO (T1111): estómago y pulmón restaurados por la Transfiguración Ociosa de Facundo; la brasa de One For All encendida entera: vuelve a tener la forma musculosa y su poder (Izuku conserva One For All).
