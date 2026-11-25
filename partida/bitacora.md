@@ -1223,3 +1223,4 @@ T1221 · TG · Avenida 3 · Semilla a Koma (quedan 77). Llegan Houji, Kuroiwa y 
 T1222 · TG · Avenida 3 · "No vine a matar a nadie." Shinohara le cree, pero: "Apártate. El Búho se queda."
 T1223 · TG · Avenida 3 · "Nadie está limpio." Houji ataca al Búho; la hoja a tres metros del cuello.
 T1224 · TG · Avenida 3 · Detiene la quinque de Houji con la mano y se la queda. Houji: "¿Qué eres?"
+T1225 · TG · Avenida 3 · Kuroiwa se saca el casco: "Tiene razón." Shinohara: "Dime qué hacemos." En 10 min, tres unidades; en 20, alguien peor.

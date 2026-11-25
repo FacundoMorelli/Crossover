@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1222)
-no me malentiendas shinohara, no vine aqui a matar a nadie
-
-## RESPUESTA 1 (T1222)
-
-> —No me malentiendas, Shinohara. No vine aquí a matar a nadie.
-
-Shinohara mira la avenida otra vez. Despacio. Los veintiséis cuerpos en el suelo, uno por uno, como si contara. El que cuelga de la puerta de la camioneta. Los dos que cayeron corriendo en la vereda. El pecho de cada uno, que sube y baja.
-
-—Lo sé —dice. La voz le sale cansada—. Están todos respirando. Ya lo vi.
-
-A su lado, el de los anteojos no baja la quinque. Gira apenas la cabeza hacia Shinohara, sin dejar de apuntar al Búho.
-
-—¿Lo conoce, Shinohara-san?
-
-Shinohara tarda en contestar.
-
-—Me salvó la vida —dice al final—. En la mansión de Kanou.
-
-El de los anteojos procesa eso sin que se le mueva un músculo de la cara.
-
-—Entonces está con el Búho. —No es una pregunta. Lo dice igual que diría la hora.
-
-—Houji. —El de la armadura negra habla por primera vez, desde adentro del casco, con una voz grave que suena a metal—. Mira el suelo. Veintiséis de los nuestros, Tanakamaru incluido. Sin una gota de sangre. Y la Higher Mind partida como una lata. —Hace una pausa—. Si quisiera matarnos, no estaríamos hablando.
-
-Houji no contesta. Pero tampoco baja la quinque.
-
-Shinohara da un paso adelante. Uno solo. Se pone el casco bajo el otro brazo, como si de golpe le pesara.
-
-—Escúchame bien. —Te habla a ti, y la voz le sale baja, áspera—. Te creo. Te creí en la mansión y te creí en el café. Pero esto no es un café. Esto es una orden de la oficina central, con la firma del jefe de operaciones. —Señala al Búho con la barbilla, sin mirarlo—. Ese de ahí mató a investigadores. A compañeros míos. Hace años. Hay viudas que todavía esperan esta noche.
-
-Aprieta la mandíbula.
-
-—Así que te lo pido una sola vez, por lo que me diste. Apártate. Llévate a los chicos, al mono, a quien quieras. Pero el Búho se queda.
-
-Detrás de ti, el Búho no se mueve. No dice nada. Kaneki da un paso hacia él, y Touka lo agarra de la manga.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1222 · TOKYO GHOUL · DÍA 6 · 17:49     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1223)
+## COMANDO 1 (T1223)
 no puedo, por que asi como el mato a investigadores, ustedes tambien mataron ghouls compañeros, aca nadie esta limpio de nada, no hay que tirar la piedra y esconder la mano
 
-## RESPUESTA 2 (T1223)
+## RESPUESTA 1 (T1223)
 
 > —No puedo. Porque así como él mató a investigadores, ustedes también mataron a ghouls que eran compañeros de alguien. Aquí nadie está limpio de nada. No se puede tirar la piedra y esconder la mano.
 
@@ -107,10 +52,10 @@ La hoja de Houji está a tres metros del cuello del Búho.
 
 ---
 
-## COMANDO 3 (T1224)
+## COMANDO 2 (T1224)
 lo detengo con la mano
 
-## RESPUESTA 3 (T1224)
+## RESPUESTA 2 (T1224)
 
 > lo detengo con la mano
 
@@ -160,7 +105,50 @@ Te mira la mano, todavía cerrada sobre la hoja. No tiene ni un rasguño.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1225)
+si quisiera matar ya podrian estar todos muertos, ya lo dijo el de la armadura negra antes
+
+## RESPUESTA 3 (T1225)
+
+> —Si quisiera matar, ya podrían estar todos muertos. Ya lo dijo antes el de la armadura negra.
+
+Houji no contesta.
+
+Se queda mirándote, con los brazos colgando a los costados y las manos vacías. Detrás de los anteojos, los ojos le van y vienen de tu cara a tu mano, de tu mano a los veintiséis cuerpos dormidos en el asfalto, de los cuerpos a la Higher Mind destrozada contra la camioneta. Como alguien que hace una cuenta y la cuenta no le cierra por ningún lado.
+
+Detrás de él, el de la armadura negra levanta las dos manos hasta el casco. Suelta dos trabas, con dos chasquidos metálicos, y se lo saca.
+
+Abajo hay un hombre de unos cincuenta años, de cara ancha y cuadrada, pelo corto gris, cejas gruesas. Tiene la frente empapada de sudor. Te mira un largo rato, sin rencor, con algo parecido al cansancio.
+
+—Kuroiwa —dice, señalándose el pecho con el casco—. Iwao Kuroiwa. —Y después, a Shinohara, sin darse vuelta—: Yukinori. Tiene razón. Lo dije yo y lo sigo diciendo.
+
+Shinohara no contesta enseguida. Se pasa una mano por la cara. Se queda mirando al Búho, que sigue inmóvil detrás de ti, enorme y encorvado, con los brazos bajos y los ojos rojos fijos en él. Después mira a Kaneki, con los tentáculos todavía en el aire. A Touka, con el ala abierta. A Koma, que ya no tiene ni un rasguño. A los Apes del portal.
+
+Por último, te mira a ti.
+
+—Entonces dime qué hacemos —dice, y la voz le sale ronca, casi rota—. Porque yo no lo sé. —Señala la avenida con el casco que tiene en la mano—. Ese de ahí es el Búho. La radio ya lo dijo. En diez minutos hay otras tres unidades en esta calle. En veinte, viene alguien con quien tú no quieres hablar. —Traga—. ¿Qué propones? ¿Que volvamos a la oficina y digamos que se nos escapó? ¿Que nos durmió a todos, igual que a ellos?
+
+Houji, a tu lado, sigue sin moverse. Pero ahora te está escuchando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1225 · TOKYO GHOUL · DÍA 6 · 17:50     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 77                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:49, avenida 3. Facundo detuvo la quinque de Houji con la palma y la tiene en la mano. Houji pregunta "¿Qué eres?". Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:50, avenida 3. Kuroiwa le da la razón a Facundo. Shinohara pregunta qué propone: en 10 minutos llegan tres unidades y en 20 alguien peor. Facundo puede responder.

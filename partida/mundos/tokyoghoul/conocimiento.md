@@ -117,3 +117,4 @@
 - Houji, Kuroiwa · T1222 · por Shinohara: Facundo le salvó la vida en la mansión de Kanou. Houji deduce: está con el Búho.
 - Shinohara, Houji, Kuroiwa, Koma, Apes, Kaneki, Touka, Yoshimura · T1223 · Facundo se negó a apartarse: "nadie está limpio".
 - Houji, Shinohara, Kuroiwa, Kaneki, Touka, Yoshimura, Koma · T1224 · vieron a Facundo detener con la palma la quinque de Houji (kakuhou de rango S) sin un rasguño y quitársela.
+- Facundo · T1225 · por Shinohara: en 10 minutos llegan otras tres unidades a la avenida 3; en 20, "alguien con quien no quieres hablar". El de la armadura negra se llama Iwao Kuroiwa.
