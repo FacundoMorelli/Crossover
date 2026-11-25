@@ -50,3 +50,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - All For One · T1118 · Facundo anuncia que va a arrestar a la Liga.
 - Dabi, Toga, Twice, Spinner, Mr. Compress · T1119 · vieron a Facundo aparecer dentro de la cabaña (teletransporte), con un gato en el hombro.
 - Shigaraki, Gigantomachia · T1122 · ven a Facundo aparecer en el valle donde pelean (con un gato en el hombro).
+- Nezu · T1124 · por Facundo (teléfono): Dabi, Toga, Compress, Shigaraki, Twice (y Spinner) inconscientes en la cabaña. Facundo va por "los demás". All Might le avisó desde Tartarus.

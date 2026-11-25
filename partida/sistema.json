@@ -1,13 +1,13 @@
 {
-  "turno": 1123,
+  "turno": 1124,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "12:07",
+  "hora": "12:09",
   "edad": 18,
   "nivel": 28,
   "exp": 263930,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 108911,
+  "fragmentos": 108906,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -180,7 +180,7 @@
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
       "marcas_o_lineas_activas": [
-        "T1123 · Recinto cerrado en 6 caras (con techo) alrededor de la cabaña de la Liga, montañas del noroeste (BnHA). Nada entra ni sale, ni el aire. Dentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes."
+        "T1123 · Recinto cerrado en 6 caras (con techo) alrededor de la cabaña de la Liga, montañas del noroeste (BnHA). Nada entra ni sale salvo el aire (modificado T1124). Dentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes."
       ],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
@@ -590,6 +590,11 @@
     {
       "objeto": "Licencia de Héroe Profesional",
       "detalle": "Comprada en la tienda T1115 (30 Fragmentos). Legítima: registro completo en la Comisión de Seguridad Pública de Héroes a nombre de Facundo Morelli, estado activo. Tarjeta física en el bolsillo.",
+      "mundo": "bokunohero"
+    },
+    {
+      "objeto": "Celular local con línea (BnHA)",
+      "detalle": "Comprado T1124 (5 F). Tiene el contacto directo de Nezu (de la carpeta de la U.A.).",
       "mundo": "bokunohero"
     }
   ],

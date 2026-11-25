@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1121)
-digo 0 lentamente y los dejo inconscientes
-
-## RESPUESTA 1 (T1121)
-
-> —Cero.
-
-Lo dices despacio.
-
-Dabi alcanza a abrir los dedos. La llama no llega a salir.
-
-Para ellos no pasa nada. No hay ruido, no hay viento, no hay nada que se vea. La lámpara ni siquiera se mueve.
-
-Dabi se va de costado contra la pared, con los pies todavía sobre la mesa, y la llama de la palma se apaga sola, como una vela.
-
-La canica de Mr. Compress cae al piso y rueda debajo de un colchón. Él se queda sentado junto a la ventana, con la cabeza caída sobre el pecho y el sombrero de copa ladeado.
-
-Toga se dobla sobre el colchón del que se había levantado. El cuchillo se le escapa de la mano y queda clavado en la madera del piso, vibrando.
-
-Twice cae arrodillado junto a la estufa y después de cara contra un costal de papas. La olla sigue hirviendo.
-
-Spinner es el último. Se va hacia atrás, por encima de la silla que había tumbado, y se queda tirado con los brazos abiertos.
-
-Silencio.
-
-Solo el crujido de la leña. Y, afuera, el estruendo de la montaña, una y otra vez, que no se detiene.
-
-Kase se estira en tu hombro y bosteza.
-
-Allá lejos, a un par de kilómetros, sientes las dos presencias que siguen peleando sin darse cuenta de nada: una enorme, colosal, que golpea como un terremoto; y otra más chica, rabiosa, que pudre todo lo que toca. No se detuvieron. No sintieron nada.
-
-En la cabaña, cinco villanos de la Liga duermen en el piso.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1121 · BOKU NO HERO · DIC. · 12:05     ║
-║ Montañas del noroeste · cabaña de la Liga    ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ Liga: 5 inconscientes (Dabi, Toga, Twice,    ║
-║ Spinner, Compress)                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a la Liga                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1122)
+## COMANDO 1 (T1122)
 voy a donde está Shigaraki peleando con Gigantomachia
 
-## RESPUESTA 2 (T1122)
+## RESPUESTA 1 (T1122)
 
 > voy a donde está Shigaraki peleando con Gigantomachia
 
@@ -120,10 +66,10 @@ El muchacho se queda quieto, a cuatro patas en la nieve, jadeando. Te mira con u
 
 ---
 
-## COMANDO 3 (T1123)
+## COMANDO 2 (T1123)
 me llamo Facundo Morelli, los dejo inconscientes a los dos y llevo a shigaraki a la cabaña con los otros y les pongo una barrera con sakaime para que nada pueda entrar ni salir
 
-## RESPUESTA 3 (T1123)
+## RESPUESTA 2 (T1123)
 
 > —Me llamo Facundo Morelli.
 
@@ -181,4 +127,78 @@ Kase mira la caja, después te mira a ti, y mueve la cola despacio.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:07, afuera de la cabaña. Recinto de Sakaime de 6 caras (sin aire: unas pocas horas). Adentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes. Gigantomachia inconsciente en el valle. All Might en Tartarus. Facundo puede actuar.
+## COMANDO 3 (T1124)
+dejo pasar el aire y llamo a Nezu, pueden ir viniendo a la cabaña, ya deje inconscientes a dabi, toga, compress, shigaraki y twice, ahora voy a por los demas
+
+## RESPUESTA 3 (T1124)
+
+> dejo pasar el aire y llamo a Nezu
+
+Tocas la frontera con la punta de Sakaime. El brillo del Recinto tiembla un instante. Después el copo de nieve que estaba pegado arriba cae al techo de la cabaña, y el humo de la chimenea vuelve a salir hacia el cielo.
+
+[Recinto modificado: deja pasar el aire. Nada más.]
+
+No tienes teléfono. Lo compras.
+
+╔══════════════════════════════════════════════╗
+║ TIENDA DEL SISTEMA · compra                  ║
+╠══════════════════════════════════════════════╣
+║ Celular local con línea                      ║
+║ Costo: 5 Fragmentos                          ║
+╠══════════════════════════════════════════════╣
+║ FRAGMENTOS: 108.911 → 108.906                ║
+╚══════════════════════════════════════════════╝
+
+En la carpeta de la U.A., debajo del sello rojo del nombramiento, hay una línea impresa: "Contacto directo del director". Marcas.
+
+No suena ni dos veces.
+
+—¡Señor Morelli! —La voz aguda de Nezu sale casi gritando—. All Might acaba de llamarme desde Tartarus. ¡Desde Tartarus! Tiene a medio cuerpo de guardia apuntándole y a la Comisión entera en la otra línea, y yo estoy...
+
+> —Pueden ir viniendo a la cabaña. Ya dejé inconscientes a Dabi, Toga, Compress, Shigaraki y Twice. Ahora voy por los demás.
+
+Silencio en la línea.
+
+Un silencio largo. Escuchas, del otro lado, una taza de té que se apoya muy despacio sobre un plato.
+
+—...Shigaraki —dice Nezu al fin.
+
+—Y el lagarto —agregas.
+
+—Y el lagarto —repite él, como si lo anotara. Lo escuchas teclear—. Señor Morelli, la Comisión buscó a la Liga durante meses. Meses. —Respira—. Y usted salió de mi oficina hace cinco minutos.
+
+Las teclas se detienen.
+
+—Muy bien. Muy bien. Ya tengo las coordenadas de la cabaña, las que marcó en el mapa. Voy a mandar a Aizawa con un equipo y a pedirle a la Comisión que mande transporte de contención. —Una pausa—. Con todo lo que tienen, por si acaso.
+
+Después la voz le baja, más seria.
+
+—Una cosa. Usted dijo que Shigaraki estaba peleando con un ser colosal. —Te imaginas sus orejitas paradas—. ¿Dónde está ese ser ahora?
+
+Y antes de que contestes, agrega, más rápido:
+
+—Y cuando dice "los demás"... ¿a quiénes se refiere exactamente?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1124 · BOKU NO HERO · DIC. · 12:09     ║
+║ Montañas del noroeste · afuera de la cabaña  ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Sakaime: en la mano (Shikai)                 ║
+║ Recinto activo: cabaña (deja pasar el aire)  ║
+║ Llamada en curso: Nezu                       ║
+║ Gigantomachia: inconsciente en el valle      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a los demás               ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:09, afuera de la cabaña, en llamada con Nezu. El Recinto deja pasar el aire. Nezu manda a Aizawa y transporte de la Comisión. Pregunta dónde está Gigantomachia y quiénes son "los demás". Facundo puede responder.
