@@ -1292,3 +1292,4 @@ T1290 · BC · Muralla oeste · "Es tu responsabilidad, me da igual." Julius se 
 T1291 · BC · Rocas Gravito · Llega con Yami a la base del Ojo. Mereoleona contra un copiador de magias. Asta: "¡¿FACUNDO?!"
 T1292 · BC · Rocas Gravito · "Te está costando, Asta." Asta: "¡Volviste!" El copiador se lanza hacia Facundo: "Me encantaría tocar tu grimorio."
 T1293 · BC · Rocas Gravito · Muestra el 1% de su maná (de capitán). "Uno por ciento." Mereoleona se ríe; a Yami se le cae el cigarro. El copiador, sin salida: "¿Qué eres?"
+T1294 · BC · Rocas Gravito · Cierra el Velo: "Ignórenme." Mereoleona aplasta al copiador, que empieza a autodestruirse: "Me los llevo a todos conmigo."

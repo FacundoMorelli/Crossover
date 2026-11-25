@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1291)
-voy con vos, te acompaño a ayudarlos, nos teletransportamos
-
-## RESPUESTA 1 (T1291)
-
-> —Voy contigo. Te acompaño a ayudarlos.
-
-Yami se saca el cigarro de la boca. Te mira un segundo. No dice gracias. No hace falta. Asiente una vez, corto, y te apoya él mismo la mano en el hombro.
-
-Julius, con la esfera dorada flotando a su lado, levanta la mano en un saludo.
-
-—Tráiganlos a todos —dice—. Yo me encargo de esto.
-
-> nos teletransportamos
-
-Buscas.
-
-Al oeste. Lejos. Más allá de las llanuras, en una zona donde el maná del mundo se tuerce, como el agua alrededor de un remolino. Presencias. Muchas. Desparramadas en grupos chicos por un lugar enorme y laberíntico. Algunas las conoces.
-
-Una, ruidosa, terca, que no se rinde nunca, sin una gota de maná: Asta.
-
-Te mueves.
-
-El aire cambia de peso. Pesa menos. Las piedras flotan.
-
-Es una caverna enorme, más grande que una catedral, con el techo perdido en la oscuridad. Rocas del tamaño de casas flotan en el aire, quietas, girando despacio, conectadas por puentes de piedra y escaleras talladas que no llevan a ningún lado. Hay marcas raras grabadas en las paredes, círculos con símbolos que brillan apenas. Huele a piedra, a polvo y a algo quemado.
-
-Y en el centro, sobre una roca flotante grande como una plaza, hay una pelea.
-
-Una mujer alta, de pelo rojo larguísimo y salvaje, con una túnica de Caballero Real hecha jirones, está envuelta en un aura de fuego que se extiende a su alrededor como una zona viva. Tiene los brazos convertidos en dos garras de llamas. Mereoleona. Se ríe, a carcajadas, con la cara llena de sangre.
-
-Delante de ella, un muchacho flaco, de pelo claro, con una sonrisa burlona, que cambia de magia a cada segundo: fuego, rayo, una luz negra rara, cada vez una distinta, como si se probara ropa ajena.
-
-Y a un costado, más atrás, en el borde de la roca, dos figuras.
-
-Un muchacho de pelo blanco, con una túnica rota y unos ojos afilados, de mal humor: Zora. Y al lado, un chico bajito, musculoso, de pelo gris cenizo, con una espada enorme y negra, del tamaño de una puerta, en las manos.
-
-Asta.
-
-Tiene la cara sucia, un raspón en la mejilla y la túnica de Caballero Real rota en el hombro. Está jadeando. Pero tiene la espada levantada, como siempre.
-
-Se da vuelta al sentirlos aparecer. Mira a Yami. Mira el pelo blanco y azul. El gato. Los ojos.
-
-Se le cae la espada de las manos.
-
-—¡¿FACUNDO?!
-
-El grito rebota en toda la caverna. Las rocas flotantes vibran. Hasta Mereoleona y el muchacho de las magias se detienen un segundo, en medio del golpe, a mirar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1291 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:33       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1292)
+## COMANDO 1 (T1292)
 te esta costando mucho asta
 
-## RESPUESTA 2 (T1292)
+## RESPUESTA 1 (T1292)
 
 > —Te está costando mucho, Asta.
 
@@ -121,10 +55,10 @@ Y se lanza hacia ti, saltando de roca en roca, rápido como un pájaro, con la m
 
 ---
 
-## COMANDO 3 (T1293)
+## COMANDO 2 (T1293)
 quieres sentir mi mana? nunca lo mostre abiertamente pero te voy a dejar ver el 1%
 
-## RESPUESTA 3 (T1293)
+## RESPUESTA 2 (T1293)
 
 > —¿Quieres sentir mi maná? Nunca lo mostré abiertamente. Pero te voy a dejar ver el uno por ciento.
 
@@ -181,7 +115,65 @@ Vuelve a mirarte. Y por primera vez, en esa cara burlona, no hay burla. Hay mied
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1294)
+guardo de nuevo el velo, bueno ustedes ignorenme, sigan con la pelea
+
+## RESPUESTA 3 (T1294)
+
+> guardo de nuevo el Velo
+
+Cierras la rendija.
+
+El peso desaparece del aire tan rápido como llegó. El polvo suspendido cae al suelo de golpe. Las rocas flotantes vuelven a su lugar, despacio. Donde había un capitán, otra vez no hay nada. Un muchacho con un gato en el hombro.
+
+> —Bueno, ustedes ignórenme. Sigan con la pelea.
+
+Silencio.
+
+Después, Mereoleona suelta una carcajada que hace temblar la caverna.
+
+—¡¿Ignorarte?! —Se da vuelta hacia el muchacho de las magias con las garras de fuego encendidas al doble—. ¡Ya lo oíste, mocoso! ¡Me lo dejó a mí!
+
+El fuego a su alrededor se extiende de golpe, como una ola, y cubre toda la roca grande, y la siguiente, y la siguiente. Una zona viva, roja, que respira.
+
+El muchacho de las magias reacciona tarde. Sigue mirándote a ti, por encima del hombro, cuando Mereoleona le cae encima. Copia algo de rayo, desesperado, y lo dispara. Ella lo atraviesa con la garra sin frenar. Él cambia a fuego. Ella se ríe y le devuelve el doble. Cambia a esa luz negra rara. Ella le pega en la cara con el puño desnudo, envuelto en llamas, y lo manda volando contra una roca flotante, que se parte en dos.
+
+Asta grita algo y salta detrás, con la espada en alto. Zora lo sigue, maldiciendo, con un círculo mágico en la mano.
+
+Yami se agacha, levanta el cigarro del suelo, lo sopla, y se lo vuelve a poner en la boca. Te mira de reojo.
+
+—"Ignórenme" —repite, con la voz arrastrada—. Claro.
+
+En la roca partida, entre el polvo, el muchacho de las magias se levanta. Tiene la cara ensangrentada y una sonrisa nueva, torcida, distinta. Ya no de burla. De otra cosa.
+
+—Está bien —dice, con la voz rota—. Está bien. Si no puedo salir...
+
+Abre los brazos. Del pecho le empieza a salir una luz negra, densa, que se arremolina hacia adentro de él, cada vez más rápido, cada vez más apretada, como un remolino que se traga a sí mismo. El aire de la caverna se tensa. Las rocas flotantes empiezan a temblar.
+
+—...me los llevo a todos conmigo.
+
+Mereoleona frena en seco a cinco metros de él, con las garras en alto. Asta también.
+
+—¡Se va a hacer estallar! —grita Zora.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1294 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:36       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:34, Rocas Gravito. Facundo mostró el 1% de su maná. El copiador, asustado y sin salida espacial, pregunta "¿Qué eres?". Facundo puede responder.
+ESTADO AL CIERRE: Black Clover, 12:36, Rocas Gravito. Mereoleona destrozó al copiador, que empieza a autodestruirse con luz negra para llevárselos a todos. Facundo puede actuar.
