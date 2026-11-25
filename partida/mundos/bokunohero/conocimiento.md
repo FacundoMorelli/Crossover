@@ -57,3 +57,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu · T1128 · Facundo está en el laboratorio de Jaku y pregunta si destruir a los Nomu. Nezu avisa a Tsukauchi, a la policía y a Endeavor.
 - Endeavor · T1130 · por Nezu: Facundo es el consultor de la U.A. y está en el laboratorio. Ve el resultado: Garaki y 64 Nomu neutralizados.
 - Endeavor, Burnin, sidekicks y policía · T1131 · Facundo se presenta como "Eclipse". La Comisión pregunta por Eclipse, recién aparecido en el registro.
+- Endeavor, Comisión de Seguridad Pública · T1132 · Facundo confirma que hizo todo (Liga, gigante, laboratorio). La Comisión quiere verlo hoy.

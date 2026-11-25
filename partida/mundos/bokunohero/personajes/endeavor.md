@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1130.
 ENCUENTROS:
 - T1130 · Laboratorio de Jaku · Llega derritiendo la puerta blindada con héroes y policías. Interroga a Facundo.
 DIÁLOGOS CLAVE:
+- T1132 · "Seis meses los buscamos. Y tú lo hiciste en una mañana. De paseo." "La Comisión quiere verte. Hoy. La presidenta en persona." "Nezu también me dijo que no terminaste."
 - T1131 · "\"De paseo\"." "Eclipse. Bien." "¿Eso también lo hiciste tú? ¿Esta mañana?"
 - T1130 · "Tú eres el consultor de Nezu. El que salió de la nada esta mañana." "Sesenta y cuatro Nomu y el que los fabrica. Solo. En menos de veinte minutos. ¿Cuál es tu nombre de héroe? ¿Por qué nunca escuché hablar de ti?"
 QUÉ SABE DE FACUNDO: Nombre de héroe Eclipse; "estuvo de paseo" (T1131). Por Nezu: lo de la cabaña de la Liga y el gigante. Por Nezu: es el consultor de la U.A., está en el laboratorio. Que redujo solo a Garaki y a los 64 Nomu.

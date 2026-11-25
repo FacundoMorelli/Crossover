@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1126 · "¿Te perdiste? ¿Cómo bajaste hasta aquí?" "No te muevas. Ni un paso más."
 QUÉ SABE DE FACUNDO: Nada (pero algo de él lo inquieta al verlo con el gato).
 QUÉ PODERES VIO: La aparición.
-ESTADO: Inconsciente en el piso del laboratorio (T1127, Haki del Rey).
+ESTADO: Detenido, esposado y sedado por la policía (T1132).
