@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1190 · "¡Oye!" (Nishiki le roba el pan)
 - T1188 · (comiendo pan solo delante de Nishiki) "Es verdad. A mí también."
 - T1187 · "Nishiki. Cállate y ponte el delantal. Llegas tarde."
 - T1185 · (a Hinami, con una tostada) "Toma."

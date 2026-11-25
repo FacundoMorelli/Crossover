@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1187)
-y hinami, no me digas viejo por favor tengo 18 años
-
-## RESPUESTA 1 (T1187)
-
-> —Y Hinami, no me digas señor, por favor. Tengo dieciocho años.
-
-Hinami se queda con la tostada a medio camino de la boca.
-
-—Pero... —Mira a Touka, como pidiendo ayuda, y Touka se encoge de hombros—. Eres alto. Y tienes muchos dibujos. Y una espada.
-
-Lo piensa con mucha seriedad, moviendo los labios sin sonido, como si probara opciones.
-
-—¿Facundo-nii? —prueba al final, bajito, y se pone colorada hasta las orejas.
-
-En el medio del local, el muchacho de los anteojos suelta una carcajada.
-
-—¿Dieciocho? —Se acomoda la mochila en el hombro y te mira de arriba abajo—. ¿Con esa pinta? Yo te daba veinticinco, mínimo. Y una condena en suspenso.
-
-—Nishiki —dice Touka, seca, sin levantar la vista del cuchillo de manteca que está limpiando—. Cállate y ponte el delantal. Llegas tarde.
-
-—Llego a las siete y cuarenta, como siempre. —Pero deja la mochila detrás de la barra igual, sin dejar de mirarte. Baja la voz, aunque no lo suficiente—. En serio, Kirishima. ¿Quién es? Huele a humano. ¿Y por qué la mocosa está comiendo pan?
-
-Yoshimura, en la otra punta de la barra, le alcanza un delantal doblado, sin apuro.
-
-—Nishiki-kun. Buenos días. Es un invitado.
-
-Nishiki agarra el delantal y se lo queda en la mano, sin ponérselo, esperando más.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1187 · TOKYO GHOUL · MAÑANA · 07:42    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-(Escribiste "no me digas viejo"; como Hinami te había dicho "señor", lo puse como "no me digas señor".)
-
----
-
-## COMANDO 2 (T1188)
+## COMANDO 1 (T1188)
 les saque el hambre de carne humana y que puedan comer comida normal
 
-## RESPUESTA 2 (T1188)
+## RESPUESTA 1 (T1188)
 
 > —Les saqué el hambre de carne humana, y ahora pueden comer comida normal.
 
@@ -101,10 +52,10 @@ Traga saliva.
 
 ---
 
-## COMANDO 3 (T1189)
+## COMANDO 2 (T1189)
 nada nishiki, lo hago gratis
 
-## RESPUESTA 3 (T1189)
+## RESPUESTA 2 (T1189)
 
 > —Nada, Nishiki. Lo hago gratis.
 
@@ -148,7 +99,58 @@ Kase lo mira de costado, con un ojo, y se corre un poco en el taburete para que 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1190)
+lo hago con nishiki
+
+## RESPUESTA 3 (T1190)
+
+> lo hago con Nishiki
+
+Le apoyas la palma en la frente. Nishiki se tensa entero y aprieta los anteojos en el puño hasta que cruje el marco, pero no se mueve.
+
+Su alma es angulosa y está llena de cerraduras. Casi todas son nuevas, puestas a las apuradas, una encima de otra. En una esquina hay un hueco viejo con la forma de alguien que ya no está. Y en otro lado, al revés, hay un lugar tibio y reciente, todavía frágil, como una planta chica en una maceta: tiene la forma de una chica de pelo corto.
+
+No tocas ninguna de las dos cosas.
+
+El anzuelo está donde está en todos. Lo sacas. Alisas el borde. Le devuelves el gusto.
+
+Nishiki suelta el aire de golpe, entre los dientes. Abre los ojos. Se queda mirando el piso, quieto, con la mano libre apretada sobre el estómago y la boca entreabierta.
+
+—Mierda —dice, muy bajito. No suena enojado.
+
+Se pone los anteojos. Una de las patillas quedó torcida por el apretón, y se le sientan chuecos en la cara. No los acomoda.
+
+Estira el brazo sobre la barra, agarra de la mano de Touka el pedazo de pan que le quedaba, antes de que ella pueda reaccionar, y le da un mordisco.
+
+—¡Oye! —protesta Touka.
+
+Nishiki no la escucha. Mastica despacio, con los ojos fijos en ningún lado. Traga. Se queda un momento con el resto del pan en la mano, mirándolo como si fuera una prueba de algo.
+
+Después mira el celular apagado sobre la barra.
+
+Cuando vuelve a mirarte, tiene los ojos húmedos detrás de los anteojos torcidos, y lo disimula frunciendo el ceño con todas sus fuerzas.
+
+—Te debo una —dice, áspero—. Y yo pago lo que debo. Así que no te hagas el santo conmigo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1190 · TOKYO GHOUL · MAÑANA · 07:46    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:44, Anteiku. Nishiki sentado frente a Facundo, sin anteojos, espera la transfiguración. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:46, Anteiku. Nishiki transfigurado: "Te debo una. No te hagas el santo conmigo." Facundo puede responder.
