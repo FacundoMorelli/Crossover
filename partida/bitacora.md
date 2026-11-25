@@ -1300,3 +1300,4 @@ T1298 · BC · 4 días · Saca las 47 semillas oscuras del reino (Luck primero; 
 T1299 · BC · Claro de los Toros · Acepta el duelo con Mereoleona; ella ataca con Mana Zone de fuego.
 T1300 · BC · Claro de los Toros · Ultra Instinto Dominado: Mereoleona no lo toca. Ella se ríe y lanza Leo Rugiens.
 T1301 · BC · Claro de los Toros · Toma la katana de Yami, la carga con Luna y corta Leo Rugiens. Yami: "Esa es mía." Mereoleona carga con lo último.
+T1302 · BC · Claro de los Toros · Grimorio del Firmamento: León Estelar vence a Mereoleona (cráter, consciente). +300 F, +800 EXP. "¿Cuántos tienes?"

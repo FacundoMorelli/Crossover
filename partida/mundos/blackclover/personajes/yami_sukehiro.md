@@ -23,6 +23,7 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
 
 DIÁLOGOS CLAVE:
+- T1302 · (mano extendida, sin mirarlo) "La espada."
 - T1301 · (mirándose la mano vacía) "Oye. Esa es mía."
 - T1300 · (Vanessa: "¡Nos va a quemar la casa!") "Ya está quemada."
 - T1297 · "Luck es de mi escuadrón. Cuando entrenamos, el enano no tenía nada." "William tenía otra cosa adentro, y casi mata al Rey Mago. ¿Lo de Luck es eso? ¿Y si se lo sacas, queda bien?"

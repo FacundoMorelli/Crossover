@@ -1,13 +1,13 @@
 {
-  "turno": 1301,
+  "turno": 1302,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~94 días después de la salida (T489). Día 4 después de la Reencarnación frustrada (asalto a Rocas Gravito). Noche.",
-  "hora": "Día 4, 21:15",
+  "hora": "Día 4, 21:16",
   "edad": 18,
   "nivel": 29,
-  "exp": 294280,
+  "exp": 295080,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 111657,
+  "fragmentos": 111957,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -81,7 +81,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -263,7 +263,7 @@
     "blackclover": {
       "nombre": "Grimorio del Firmamento (Magia de Constelación)",
       "tipo": "Grimorio de trébol de tres hojas (Don de Mundo)",
-      "maestria": 30,
+      "maestria": 31,
       "forma": "grimorio de tapas negras con un trébol de tres hojas plateadas y un círculo de estrellas grabado; flota a su lado cuando lo invoca",
       "reglas": [
         "Crea puntos de luz (estrellas) en el aire con su maná. Al unirlos con líneas forma constelaciones que se vuelven sólidas: bestias, armas, escudos, cadenas.",
@@ -2017,6 +2017,13 @@
       "como": "Haki del Rey selectivo por toda la base; inconscientes.",
       "fragmentos": 400,
       "exp": 900
+    },
+    {
+      "quien": "Mereoleona Vermillion (duelo, en serio de su parte): León Estelar del Grimorio del Firmamento la clava en un cráter; consciente, chamuscada, riéndose",
+      "mundo": "blackclover",
+      "turno": "T1302",
+      "fragmentos": 300,
+      "exp": 800
     }
   ],
   "viaje": {

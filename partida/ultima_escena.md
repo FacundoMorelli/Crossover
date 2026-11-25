@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1299)
-eh esta bien
-
-## RESPUESTA 1 (T1299)
-
-> —Eh... está bien.
-
-Mereoleona sonríe. No es una sonrisa linda. Es la de un león que vio que la presa no corre.
-
-Se da vuelta y sale. No espera para ver si la sigues.
-
-Detrás de ti, el comedor entero se levanta a la vez. Las sillas raspan el piso. Magna ya está gritando apuestas. Vanessa agarra una botella por el cuello y sale con ella. Charmy no suelta la olla, pero sale igual. Luck pasa a tu lado corriendo, con los ojos brillantes.
-
-—¡Si ganas tú, después me toca a mí!
-
-Kiato tira de la manga de su abuela para que salgan más rápido. Kahono lo sigue tapándose la boca.
-
-Yami sale último, con el vaso todavía en la mano. Se apoya en el marco de la puerta caída.
-
-Afuera, en el claro delante de la base, la noche está fresca. La luna alumbra la hierba pisoteada y los escombros del ala rota. Los árboles del bosque están quietos.
-
-Mereoleona se para en el medio del claro, a veinte metros. Se saca la capa y la tira al suelo.
-
-El aire alrededor de ella empieza a temblar. Primero un brillo naranja en los brazos. Después llamas que le suben por los hombros, por el cuello, hasta el pelo, que se le levanta como una corona encendida. La hierba bajo sus pies se pone negra en un círculo.
-
-[Mereoleona: Mana Zone, fuego. Va en serio.]
-
-—En la caverna me robaste la presa —dice—. Hoy no me la vas a robar, porque la presa eres tú.
-
-Dobla las rodillas. Los brazos se le cubren de dos garras gigantes de fuego, cada una más grande que un carro.
-
-—¡Y no te atrevas a contenerte!
-
-Sale disparada hacia ti. El claro se ilumina como de día. La primera garra viene de arriba, directo a tu cabeza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1299 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · claro             ║
-║ NIVEL 29 · EXP 294.280/320.000 · D4 21:12    ║
-║ FRAGMENTOS 111.657 · 0 yul                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1300)
+## COMANDO 1 (T1300)
 activo el ultra instinto dominado, esta es mi mejor fase
 
-## RESPUESTA 2 (T1300)
+## RESPUESTA 1 (T1300)
 
 > —Esta es mi mejor fase.
 
@@ -122,10 +70,10 @@ El león de fuego se tira sobre ti.
 
 ---
 
-## COMANDO 3 (T1301)
+## COMANDO 2 (T1301)
 le robo la espada a yami con luna y corto el dragon
 
-## RESPUESTA 3 (T1301)
+## RESPUESTA 2 (T1301)
 
 > (Le robo la espada a Yami con Luna y corto el león.)
 
@@ -182,7 +130,86 @@ Se tira hacia ti con los puños desnudos, envueltos en lo último que le queda d
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1302)
+te voy a mostrar 1 solo de mis ataques por que te robe a tu presa, saco mi grimorio y lo uso contra ella
+
+## RESPUESTA 3 (T1302)
+
+> —Te voy a mostrar uno solo de mis ataques, porque te robé la presa.
+
+Mereoleona está a cinco metros, con los puños encendidos.
+
+El grimorio aparece a tu lado sin que lo llames dos veces. Tapas negras, el trébol de tres hojas plateado, el círculo de estrellas grabado. Se abre solo y las páginas pasan como si las moviera un viento que nadie más siente.
+
+En la explanada, a Asta se le cae la mandíbula.
+
+—¡¿TIENE GRIMORIO?!
+
+Arriba, el cielo nocturno del claro está lleno de estrellas. Las de verdad. Por un segundo, todas parpadean a la vez, como si alguien las hubiera llamado por su nombre.
+
+Bajan hilos de luz. Finos, plateados, del cielo a tu mano libre. Con la punta de la katana de Yami trazas en el aire, rápido: una melena, un lomo, cuatro patas, una cola. Las estrellas se encienden en cada punto. Las líneas se cierran.
+
+[Magia de Constelación: Bestia — León Estelar.]
+
+[Noche al aire libre: el grimorio bebe de las estrellas.]
+
+El león que sale no es de fuego. Es de luz blanca y azul, transparente, con el cielo adentro. Tiene el tamaño del de Mereoleona. Las estrellas le brillan en el pecho, en los ojos, en la punta de cada garra.
+
+Ruge sin hacer ruido. Solo el aire tiembla.
+
+Mereoleona lo ve venir y no frena. Se ríe con toda la cara.
+
+—¡ESO!
+
+Los dos leones chocan. El de luz la atrapa entre las patas delanteras, en el aire, a mitad del salto, y la lleva hacia abajo. Las brasas de sus puños se apagan contra las estrellas. La tierra del claro se hunde en un cráter ancho como el comedor, con ella en el fondo, boca arriba, el león encima, las garras de luz clavadas en la tierra a cada lado de su cabeza, sin tocarla.
+
+El polvo tarda en bajar.
+
+El león estelar se queda quieto un momento, mirándola con sus ojos de estrella. Después se deshace en puntos de luz que suben despacio de vuelta al cielo, como luciérnagas.
+
+[Rival vencido en duelo: Mereoleona Vermillion. +300 Fragmentos.]
+
+[+800 EXP.]
+
+[Grimorio del Firmamento: maestría 30 → 31.]
+
+En el fondo del cráter, Mereoleona no se mueve. El pecho le sube y baja. Tiene la ropa chamuscada, el pelo lleno de tierra, un corte en la ceja.
+
+Está consciente. Mirando el cielo.
+
+—Ja —dice, ronca—. Ja, ja, ja.
+
+Afuera del cráter, nadie habla. Magna tiene los billetes de las apuestas apretados en el puño. Luck ya no quiere pelear: se lo ve en la cara. Noelle se tapó la boca con las dos manos. Kiato está saltando en el lugar.
+
+Yami camina hasta el borde del cráter y extiende la mano hacia ti, sin mirarte.
+
+—La espada.
+
+Abajo, Mereoleona levanta un brazo hacia las estrellas, como si las quisiera agarrar.
+
+—¿Eso era uno solo? —pregunta, sin sacar los ojos del cielo—. ¿Cuántos tienes?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1302 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · claro (cráter)    ║
+║ NIVEL 29 · EXP 295.080/320.000 · D4 21:16    ║
+║ FRAGMENTOS 111.957 · 0 yul                   ║
+║ Energía 98% · Ojos: bien                     ║
+║ Ultra Instinto Dominado                      ║
+║ En la mano: katana de Yami                   ║
+║ Grimorio del Firmamento (flotando)           ║
+║ Velo: persona común (aura plateada visible)  ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:15, claro. Leo Rugiens cortado. Facundo con la katana de Yami. Mereoleona carga a puño limpio con lo último de fuego. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, Día 4 21:16, cráter del claro. Mereoleona vencida, consciente: "¿Cuántos tienes?" Yami pide su espada. Facundo puede actuar.

@@ -5,6 +5,7 @@ PODER VISTO POR FACUNDO: Aura de fuego que se extiende como zona viva; brazos co
 ENCUENTROS:
 - T1291 · Rocas Gravito · Pelea riéndose a carcajadas, con la cara ensangrentada, contra un copiador de magias.
 DIÁLOGOS CLAVE:
+- T1302 · "¡ESO!" (vencida en el cráter) "Ja. Ja, ja, ja." "¿Eso era uno solo? ¿Cuántos tienes?"
 - T1301 · (tras ver cortado su Leo Rugiens) "Todavía no terminé."
 - T1300 · "¡QUÉDATE QUIETO!" "¡Ja! ¡JA! ¡Esto es! ¡Esto es lo que quería!" "¡Leo Rugiens!"
 - T1299 · "En la caverna me robaste la presa. Hoy no me la vas a robar, porque la presa eres tú. ¡Y no te atrevas a contenerte!"
@@ -14,4 +15,4 @@ DIÁLOGOS CLAVE:
 - T1294 · "¡¿Ignorarte?! ¡Ya lo oíste, mocoso! ¡Me lo dejó a mí!"
 - T1293 · "¡Ja! ¡JAJAJA! ¡¿Uno por ciento?! ¡Yami! ¡¿De dónde sacaste a este?!"
 - T1292 · "¡Oye, Yami! ¿Y este quién es? ¡Si vino a robarme la pelea, que haga fila!"
-ESTADO: Duelo contra Facundo en el claro de los Toros Negros, Mana Zone de fuego (T1299).
+ESTADO: Vencida por Facundo en duelo (León Estelar); tirada en un cráter, consciente, chamuscada, corte en la ceja (T1302).

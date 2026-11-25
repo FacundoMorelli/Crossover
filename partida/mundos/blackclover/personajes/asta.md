@@ -19,3 +19,4 @@ ENCUENTROS:
 - T1293 · (a Zora) "¡Te dije! ¡TE DIJE QUE ERA ASÍ!"
 - T1295 · "Se iba a hacer volar... y tú... con un dedo... ¡¿CÓMO HICISTE ESO?! ¡Enséñame!"
 - T1296 · "¡¿Tengo algo adentro?! ¡¿Es contagioso?!"
+- T1302 · "¡¿TIENE GRIMORIO?!"
