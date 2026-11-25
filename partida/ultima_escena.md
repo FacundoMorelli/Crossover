@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1218)
-vamos
-
-## RESPUESTA 1 (T1218)
-
-> —Vamos.
-
-El Búho sale primero. No corre: se lanza, encorvado, por encima de los tachos, y trepa por la pared del callejón hasta los techos con dos impulsos de los brazos larguísimos. Kaneki y Touka lo siguen por arriba. Kaneki se agarra de las cornisas con los tentáculos. Touka bate el ala y sube en tres saltos.
-
-Tú vas por el aire. Kase se te aferra al hombro con las uñas.
-
-Dos cuadras al este, la avenida es otra ciudad.
-
-Hay camionetas blancas cruzadas en el medio de la calle, con las puertas abiertas. Faroles caídos. Vidrios rotos en todas las veredas. Contra la pared de un edificio de departamentos, tres cuerpos con máscaras de mono, quietos, en un charco oscuro. Más allá, cuatro o cinco Apes más, heridos, arrastrándose hacia un portal, mientras una fila de investigadores con quinques les corta el paso.
-
-Y en el centro, sobre el asfalto agrietado, la máquina.
-
-Es enorme, del tamaño de un camión chico: un cuerpo de metal blanco y negro, con patas articuladas como las de un insecto y un brazo largo, segmentado, que termina en algo que gira y chirría, a medio camino entre un taladro y una sierra. Sale humo de las juntas. Detrás, conectado a ella por cables y tubos, hay un hombre grande, de casco y armadura, con una sonrisa ancha detrás del visor. Un investigador.
-
-Tu instinto lo tasa sin que lo pidas.
-
-```
-╔════════════════════════════════════════╗
-║ MOUGAN TANAKAMARU                      ║
-║ CCG · Investigador de Clase Especial   ║
-║ PODER: Quinque Higher Mind (máquina    ║
-║        de asalto, modos de ataque)     ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: muy inferior      ║
-║ COPIABLE · MISIÓN: BAJA                ║
-╚════════════════════════════════════════╝
-```
-
-Debajo del brazo de la máquina está Koma.
-
-Tirado de espaldas sobre el asfalto, con el kagune roto en pedazos a su alrededor y la máscara de mono partida a la mitad. Le sangra la cabeza. Tiene una pierna en un ángulo que no es el de una pierna. Intenta levantarse, apoyándose en un codo, y no puede.
-
-El brazo de la máquina se levanta por encima de él. La punta gira más rápido. El chirrido sube hasta volverse un aullido.
-
-—¡Lo siento, mono! —grita el investigador, alegre, detrás del visor—. ¡Es el trabajo!
-
-El brazo empieza a bajar.
-
-A tu lado, en el borde del techo, el Búho ya está tensando los brazos para saltar. Kaneki grita algo. Touka abre el ala entera.
-
-Estás más cerca que todos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1218 · TOKYO GHOUL · DÍA 6 · 17:46     ║
-║ Distrito 20 · avenida, dos cuadras al este   ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1219)
+## COMANDO 1 (T1219)
 le pego con 2dedos
 
-## RESPUESTA 2 (T1219)
+## RESPUESTA 1 (T1219)
 
 > le pego con dos dedos
 
@@ -129,10 +64,10 @@ Todas apuntan hacia ustedes. Hacia el Búho. Hacia Koma en el piso. Hacia ti.
 
 ---
 
-## COMANDO 3 (T1220)
+## COMANDO 2 (T1220)
 suelto haki del rey a los investigadors
 
-## RESPUESTA 3 (T1220)
+## RESPUESTA 2 (T1220)
 
 > suelto Haki del Rey a los investigadores
 
@@ -184,7 +119,72 @@ Koma, a tus pies, tose sangre otra vez. La pierna rota le tiembla sola sobre el 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1221)
+le doy una semilla del ermitaño a koma
+
+## RESPUESTA 3 (T1221)
+
+> le doy una semilla del ermitaño a Koma
+
+Te agachas junto a Koma y le pones en la boca un grano chico, verde, del tamaño de un poroto.
+
+—¿Qué...? —alcanza a decir, con la boca llena de sangre.
+
+Lo mastica por reflejo. Traga.
+
+Y se le arquea el cuerpo entero sobre el asfalto, como si le hubieran pasado corriente.
+
+La pierna rota se endereza sola con un crujido seco que hace que Touka mire para otro lado. El corte de la cabeza se cierra de una punta a la otra, como un cierre que alguien sube. Los pedazos de kagune que estaban desparramados por el piso se deshacen en polvo rojo, y de la espalda de Koma brota uno nuevo, entero, que se sacude en el aire como un perro que sale del agua.
+
+Koma se sienta de golpe. Se mira la pierna. La mueve. Se toca la cabeza. Se mira la mano llena de sangre seca, y la cabeza ya no sangra.
+
+—¿Qué carajo...? —Se levanta de un salto, se tambalea, se agarra de tu hombro sin pensar, y se queda parado, entero, con la máscara de mono partida colgándole de la oreja—. ¡Panadero! ¿Qué me diste? ¡Me siento como a los veinte años!
+
+Kase, en tu otro hombro, le mira la mano apoyada con profundo desagrado.
+
+Koma se da vuelta hacia el portal donde están sus Apes heridos, cuatro o cinco, apiñados, mirándolo con la boca abierta. Levanta los dos brazos.
+
+—¡Estoy vivo, idiotas! ¡Estoy vivo!
+
+No le contesta nadie, porque en ese momento llegan.
+
+Tres figuras saltan desde el techo de un edificio al fondo de la avenida y caen sobre el asfalto, en fila, a cuarenta metros. El impacto levanta polvo.
+
+A la izquierda, un hombre de pelo rapado y anteojos de marco fino, con una quinque larga y curva como una hoja de guadaña, y la cara completamente inexpresiva. A la derecha, un hombre enorme, metido en una armadura negra y segmentada que le cubre todo el cuerpo, con el casco cerrado. En el medio, otro hombre con la misma armadura, blanca y negra, el casco bajo el brazo.
+
+Shinohara.
+
+Mira la avenida. Los veintiséis investigadores tirados en el suelo, dormidos. La máquina de Tanakamaru hecha chatarra contra la camioneta. Tanakamaru inconsciente en la vereda.
+
+Mira al Búho, enorme y encorvado en medio de la calle.
+
+Y te mira a ti, parado al lado del Búho, con un gato en el hombro.
+
+Se le borra la cara. No es enojo. Es algo peor: es un hombre al que se le cae algo que acababa de construir.
+
+El de los anteojos levanta la quinque curva, sin una palabra, apuntando al Búho. El de la armadura negra da un paso adelante. El asfalto cruje bajo su peso.
+
+Shinohara no se mueve. Sigue mirándote.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1221 · TOKYO GHOUL · DÍA 6 · 17:48     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 77                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:47, avenida 3. 26 investigadores inconscientes por el Haki del Rey. Vienen Houji, Kuroiwa y Shinohara desde el norte. Koma herido grave. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:48, avenida 3. Koma curado. Llegaron Houji, Kuroiwa y Shinohara; Houji apunta al Búho, Kuroiwa avanza, Shinohara mira a Facundo. Facundo puede actuar.

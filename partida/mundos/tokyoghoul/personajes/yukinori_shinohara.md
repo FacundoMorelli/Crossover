@@ -7,6 +7,7 @@ FÍSICO: Grande, pelo corto oscuro.
 PERSONALIDAD: Amable, paternal, directo; habla bajo y serio.
 RELACIÓN: Primer encuentro T1148.
 ENCUENTROS:
+- T1221 · Día 6, avenida 3 · Llega con Houji y Kuroiwa (armadura Arata, casco bajo el brazo). Ve a Facundo junto al Búho entre los investigadores caídos.
 - T1209 · Día 3, 10:20 · Entra a Anteiku (traje gris, venda en el cuello) y encuentra a Facundo en la barra. Detrás, Juuzou rebota contra la barrera.
 - T1151 · Facundo le da una semilla y lo cura con la Transfiguración Ociosa. Despierta.
 - T1148 · Laboratorio subterráneo · Tirado, abdomen atravesado, mordido en el hombro, ojos abiertos sin ver, respira apenas.
@@ -20,4 +21,4 @@ DIÁLOGOS CLAVE:
 - T1151 · "Amon. ¿Cuánto tiempo estuve fuera? ¿Y quién demonios es este?"
 QUÉ SABE DE FACUNDO: (T1213) Sabe que el gerente de Anteiku es un ghoul que come pan (no sabe que es el Búho). (T1211) Facundo le confirmó que le quitó el hambre a un ghoul. Lo curó con la mano y algo de comer (por Amon, T1152). No sabe quién es.
 QUÉ PODERES VIO: Despertó curado (no vio cómo).
-ESTADO: Curado (T1151). Le dio a Facundo su tarjeta con número (T1214). Retiene el informe del rumor verificándolo; mantiene su palabra. Sabe que el gerente de Anteiku es ghoul (no que es el Búho).
+ESTADO: En la Operación del Búho, avenida 3, frente a Facundo y el Búho (T1221).

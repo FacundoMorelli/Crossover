@@ -112,3 +112,5 @@
 - Investigadores de la avenida 3, Koma, Apes heridos, Kaneki, Touka, Yoshimura · T1219 · vieron a Facundo aparecer en el asfalto y destruir Higher Mind con dos dedos. La CCG por radio: "el Búho está en la avenida 3" (Facundo no fue nombrado aún, pero lo vieron).
 - Koma, Kaneki, Touka, Yoshimura, Apes heridos · T1220 · vieron (y sintieron sin caer) el Haki del Rey de Facundo: rayos azules y blancos; todos los investigadores cayeron.
 - CCG (mando por radio) · T1220 · perdió contacto con la unidad de Tanakamaru en la avenida 3; cree que fue el Búho.
+- Koma, Kaneki, Touka, Yoshimura, Apes · T1221 · vieron a Facundo curar a Koma con un grano verde.
+- Shinohara, Houji, Kuroiwa · T1221 · vieron a Facundo de pie junto al Búho, en medio de los investigadores caídos. Shinohara lo reconoce.

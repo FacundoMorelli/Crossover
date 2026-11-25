@@ -1219,3 +1219,4 @@ T1217 · TG · Callejón · Salen. Nishiki se queda con Hinami. Yoshimura se tra
 T1218 · TG · Avenida · Tres Apes muertos. Higher Mind de Tanakamaru baja el brazo sobre Koma. Facundo es el más cerca.
 T1219 · TG · Avenida 3 · Dos dedos: Higher Mind destruida, Tanakamaru inconsciente (+150 F, +400 EXP). Llega el Búho. "¡Fuego a todo lo que se mueva!"
 T1220 · TG · Avenida 3 · Haki del Rey: 26 investigadores inconscientes (+46 F, +300 EXP). Vienen Houji, Kuroiwa y Shinohara.
+T1221 · TG · Avenida 3 · Semilla a Koma (quedan 77). Llegan Houji, Kuroiwa y Shinohara. Shinohara ve a Facundo junto al Búho.
