@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1259)
-yo tengo una forma de volver este mundo normal, sin ghouls, ni investigadores
-
-## RESPUESTA 1 (T1259)
-
-> —Yo tengo una forma de volver este mundo normal. Sin ghouls, ni investigadores.
-
-El salón se queda en silencio.
-
-No es el silencio de antes, el de la sorpresa. Es otro. Más pesado. Como cuando alguien deja caer una taza y todos se quedan esperando el ruido del golpe contra el piso.
-
-Yoshimura no se mueve. Tiene las manos todavía apoyadas sobre la tapa negra del libro de su hija.
-
-Koma es el primero en reaccionar. Suelta una risa corta, nerviosa, sin ganas.
-
-—Sin ghouls —repite—. Panadero... nosotros somos los ghouls.
-
-Touka sale de detrás de la barra. Despacio. Se te para delante, a un metro, con los brazos cruzados y el ojo gris clavado en ti. No está enojada. Es peor: tiene miedo, y lo esconde mal.
-
-—¿Qué significa "sin ghouls"? —La voz le sale baja, áspera—. ¿Que nos borras? ¿Que nos volvemos humanos? ¿Que nunca existimos?
-
-Kaneki se quedó al lado de la barra, quieto. Mira sus propias manos. Las uñas negras.
-
-—Yo era humano —dice, muy bajo, a nadie—. Hace unos meses. Si el mundo vuelve a ser normal... —Levanta la vista—. ¿Qué pasa con los que nacieron así? ¿Con Hinami? ¿Con Touka-chan? ¿Con Yoshimura-san?
-
-Hinami, detrás de Nishiki, se aprieta más contra su espalda.
-
-Irimi no dice nada. Pero se puso de pie, despacio, apoyándose en el marco de la puerta de la cocina.
-
-Yoshimura levanta la vista del libro. Te mira por encima de los lentes que no tiene puestos.
-
-—Morelli-san —dice, con la misma voz suave de siempre, pero más lenta—. Hace un rato, mi hija dijo que usted era de los que creen que se puede arreglar un mundo roto con las manos.
-
-Hace una pausa.
-
-—Antes de que nadie aquí le diga que sí o que no... ¿podría explicarnos qué quiere decir "normal"? Porque para cada persona en esta habitación, esa palabra significa algo distinto.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1259 · TOKYO GHOUL · DÍA 7 · 21:00     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1260)
+## COMANDO 1 (T1260)
 sacarles el ghoul de dentro, los que son ghoul de nacimiento convertirse en humanos y igual con la gente como kaneki
 
-## RESPUESTA 2 (T1260)
+## RESPUESTA 1 (T1260)
 
 > —Sacarles el ghoul de adentro. Los que son ghouls de nacimiento se convertirían en humanos. Y lo mismo la gente como Kaneki.
 
@@ -109,10 +55,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1261)
+## COMANDO 2 (T1261)
 podria hacerlo para los que lo deseen plenamente, pero no, es una mala idea, olvidense de eso
 
-## RESPUESTA 3 (T1261)
+## RESPUESTA 2 (T1261)
 
 > —Podría hacerlo para los que lo deseen plenamente. Pero no. Es una mala idea. Olvídense de eso.
 
@@ -159,7 +105,57 @@ Levanta la vista.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1262)
+si
+
+## RESPUESTA 3 (T1262)
+
+> —Sí.
+
+Touka asiente. Una vez. Rápido. Como si tuviera miedo de que, si tarda, la respuesta cambie.
+
+Después se queda quieta. No te pide que lo hagas ahora. No se acerca. Mira hacia la cocina, donde Koma está repartiendo arroz a los gritos y Nishiki le pelea por los platos. Mira a Kaneki, en el taburete, con las manos abiertas sobre la barra. Mira a Hinami, que ayuda a Yoshimura a poner las tazas en fila.
+
+—No hoy —dice, muy bajo—. Todavía no.
+
+Se muerde el labio.
+
+—Hay alguien... —Se interrumpe. Se le endurece la cara, como cuando se enoja, pero no está enojada—. Tengo un hermano. Ayato. Es menor que yo. Se fue hace años con los de Aogiri, con los encapuchados. Dice que los humanos son basura y que yo soy una cobarde por servirles café. —Aprieta los puños—. La última vez que lo vi casi me mata.
+
+Te mira a los ojos.
+
+—Si yo me vuelvo humana, él no me va a perdonar nunca. Va a decir que tenía razón. Que me rendí. —Traga—. Y si a él le pasa algo allá, con esa gente... y yo ya no tengo cómo ir a buscarlo...
+
+No termina la frase.
+
+En la barra, Yoshimura dejó de acomodar tazas. No se da vuelta. Pero escucha.
+
+Touka respira hondo.
+
+—Así que primero quiero verlo. A Ayato. Una vez. —Lo dice firme, como una decisión que ya tomó hace tiempo y recién ahora dice en voz alta—. Y después vengo y te pido lo otro.
+
+Se queda callada un segundo. Después, más bajo todavía, casi sin voz:
+
+—Tú sabes dónde están los de Aogiri, ¿no? Como sabías lo del Búho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1262 · TOKYO GHOUL · DÍA 7 · 21:06     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:04, salón de Anteiku. Facundo descartó el plan grande. Café para todos. Touka, a solas, pregunta si sigue en pie volverla humana a ella. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:06, salón de Anteiku. Touka quiere ver a su hermano Ayato (Aogiri) antes de volverse humana, y pregunta si Facundo sabe dónde está Aogiri. Facundo puede responder.

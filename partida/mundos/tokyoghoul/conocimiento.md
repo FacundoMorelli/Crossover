@@ -182,3 +182,6 @@
 - Todos en Anteiku · T1260 · por Facundo: el plan es volver humanos a todos los ghouls (de nacimiento y como Kaneki).
 - Facundo · T1260 · por Koma: su abuela de 90 años es ghoul.
 - Todos en Anteiku · T1261 · Facundo descartó el plan de volver humanos a todos ("mala idea, olvídense"); dijo que podría hacerlo solo con quien lo desee plenamente.
+- Facundo, Yoshimura (oye) · T1262 · por Touka: su hermano menor Ayato está en Aogiri; la desprecia; casi la mata la última vez.
+- Touka · T1262 · por Facundo: volverla humana sigue en pie.
+- Touka · T1262 · deducción: Facundo "sabe cosas" (sabía lo del Búho).

@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1262 · "No hoy. Todavía no." "Tengo un hermano. Ayato. Se fue hace años con los de Aogiri." "La última vez que lo vi casi me mata." "Primero quiero verlo. A Ayato. Una vez. Y después vengo y te pido lo otro." "Tú sabes dónde están los de Aogiri, ¿no? Como sabías lo del Búho."
 - T1261 · "Lo de antes. Lo que te pregunté en la barra, el primer día. Que podías hacerlo con una sola persona. Ya pasó lo del Búho. ¿Eso sigue en pie?"
 - T1259 · "¿Qué significa sin ghouls? ¿Que nos borras? ¿Que nos volvemos humanos? ¿Que nunca existimos?"
 - T1257 · "¿La escritora esa que lees todo el tiempo? ¿La de las portadas raras?"

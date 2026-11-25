@@ -1260,3 +1260,4 @@ T1258 · TG · Anteiku · "A tu hija le falta madurar." Yoshimura: "La dejé sol
 T1259 · TG · Anteiku · "Tengo una forma de volver el mundo normal, sin ghouls ni investigadores." Miedo. Yoshimura: "¿Qué quiere decir normal?"
 T1260 · TG · Anteiku · Explica: volverlos humanos. Dudas de Kaneki, Koma e Irimi. Yoshimura: "¿Para todos de una vez o para cada uno que lo elija?"
 T1261 · TG · Anteiku · "Es una mala idea, olvídense." Café para todos. Touka, a solas: "¿Lo de volverme humana sigue en pie?"
+T1262 · TG · Anteiku · "Sí." Touka: primero quiere ver a su hermano Ayato, de Aogiri. "¿Sabes dónde están?"
