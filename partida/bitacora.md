@@ -1193,3 +1193,4 @@ T1191 · TG · Anteiku · Nishiki a trabajar; Touka le pisa el pie. Primeros cli
 T1192 · TG · Plaza cerca de Anteiku · Kaneki, a solas: "¿Yoshimura-san es el Búho?"
 T1193 · TG · Plaza · Confirma que Yoshimura es el Búho. Kaneki: "¿Y cuando no estés?"
 T1194 · TG · Plaza · "No me voy hasta que termine la operación." Kaneki: "¿Me entrenarías?"
+T1195 · TG · Plaza · Acepta entrenar a Kaneki. Kaneki propone el Distrito 24. "¿Cuándo empezamos?"

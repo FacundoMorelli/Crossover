@@ -3,57 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1192)
+## COMANDO 1 (T1193)
 si
 
-## RESPUESTA 1 (T1192)
-
-> —Sí.
-
-Kase salta del taburete a tu hombro antes de que te levantes.
-
-Kaneki no sale por la puerta de adelante. Te lleva por detrás de la barra, pasando junto a Nishiki, que los mira de reojo mientras muele café, y por la cocina, hasta la puerta de metal del fondo. Sale al callejón y sigue caminando: entre los tachos, más allá del hilo plateado pegado al asfalto, que pisa sin verlo, hasta la boca del callejón, y después media cuadra más por la calle lateral, rápido, con las manos en los bolsillos de un pantalón que tampoco es suyo.
-
-Recién se detiene en una plaza chica, encajada entre dos edificios de departamentos: un tobogán despintado, dos hamacas, un banco de madera y un árbol que ya perdió casi todas las hojas. No hay nadie. Del otro lado de la calle, un vendedor levanta la persiana de una verdulería.
-
-Kaneki mira hacia atrás, hacia Anteiku, que ya no se ve. Calcula la distancia con los ojos.
-
-—Aquí no nos escucha —dice—. Creo.
-
-No se sienta. Se queda de pie junto al banco, con los hombros tensos bajo la camisa prestada.
-
-—Anoche, cuando dijiste "Operación del Búho" —empieza—, Yoshimura-san no se sorprendió. Se quedó quieto, pero no se sorprendió. Y cuando yo empecé a preguntar, no me contestó, pero tampoco dijo que no.
-
-Se pasa una mano por el pelo húmedo.
-
-—En el Distrito 11, cuando atacamos Aogiri, apareció ese búho. Envuelto en kagune. Peleó contra los investigadores de Clase Especial como si fueran nada. Y anoche, en el café, cuando Yoshimura-san se sacó los lentes y te miró... sentí lo mismo. La misma presión. —Le tiembla un poco la voz—. Yo creía que me lo estaba imaginando.
-
-Te mira de frente.
-
-—Tú sabes cosas, Facundo-san. Sabías el nombre de la operación antes que nadie. —Traga—. Dime la verdad. ¿Yoshimura-san es el Búho?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1192 · TOKYO GHOUL · MAÑANA · 07:56    ║
-║ Distrito 20 · plaza chica, a media cuadra    ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1193)
-si
-
-## RESPUESTA 2 (T1193)
+## RESPUESTA 1 (T1193)
 
 > —Sí.
 
@@ -99,10 +52,10 @@ Te mira.
 
 ---
 
-## COMANDO 3 (T1194)
+## COMANDO 2 (T1194)
 no me voy a ir hasta que no termine la operacion del buho, y ahora puedes comer comida normal, puedes mejorar tu habilidad con el kagune sin necesidad de comer humanos
 
-## RESPUESTA 3 (T1194)
+## RESPUESTA 2 (T1194)
 
 > —No me voy a ir hasta que no termine la Operación del Búho. Y ahora puedes comer comida normal. Puedes mejorar tu habilidad con el kagune sin necesidad de comer humanos.
 
@@ -142,7 +95,52 @@ Se endereza. Tiene los ojos firmes.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1195)
+esta bien
+
+## RESPUESTA 3 (T1195)
+
+> —Está bien.
+
+Kaneki suelta el aire de golpe, como si lo hubiera estado aguantando desde que salieron del café.
+
+—Gracias. —Inclina la cabeza otra vez, más rápido, menos torpe—. Gracias, Facundo-san.
+
+Se queda un momento quieto, con las manos abiertas a los costados, sin saber muy bien qué hacer con ellas. Después mira alrededor de la plaza: las hamacas, el tobogán, los balcones de los departamentos con ropa colgada, el verdulero de enfrente.
+
+—Aquí no se puede —dice, pensando en voz alta—. Si saco el kagune en medio de la ciudad, en diez minutos tenemos a la CCG encima. Ni en el café, con los clientes.
+
+Se rasca la nuca.
+
+—Hay un lugar. Debajo de la ciudad, en el Distrito 24. Túneles, galerías viejas, kilómetros. Yomo-san me llevaba ahí a entrenar antes de que me fuera. Nadie baja, ni la CCG. —Hace una pausa—. Pero la entrada más cercana está lejos, y se tarda.
+
+Mira hacia la calle, en dirección a Anteiku, y después a ti.
+
+—Y a las diez tienes que estar en la puerta del callejón con Yoshimura-san. Te escuché anoche desde arriba. —Se le escapa una media sonrisa—. Las paredes son finas.
+
+Mete las manos en los bolsillos del pantalón prestado.
+
+—¿Cuándo empezamos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1195 · TOKYO GHOUL · MAÑANA · 08:01    ║
+║ Distrito 20 · plaza chica, a media cuadra    ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 08:00, plaza chica. Kaneki pide que Facundo lo entrene. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 08:01, plaza chica. Facundo aceptó entrenar a Kaneki; él propone el Distrito 24 y pregunta cuándo empiezan. Facundo puede responder.

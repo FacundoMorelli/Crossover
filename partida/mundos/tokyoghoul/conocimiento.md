@@ -66,3 +66,5 @@
 - Kaneki · T1193 · por Facundo (confirmado): Yoshimura es el Búho. Deduce que la Operación del Búho es por él y que la CCG atacará Anteiku.
 - Kaneki · T1194 · por Facundo: se quedará hasta que termine la Operación del Búho.
 - Facundo · T1194 · por Kaneki: se hizo fuerte comiendo (Yamori, los de Aogiri, los ghouls de la mansión).
+- Facundo · T1195 · por Kaneki: el Distrito 24 es una red de túneles y galerías bajo la ciudad; Yomo lo entrenaba ahí; la CCG no baja; la entrada más cercana está lejos.
+- Kaneki · T1195 · oyó desde arriba (anoche/hoy) lo de las 10 en la puerta del callejón con Yoshimura.
