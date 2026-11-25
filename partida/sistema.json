@@ -1,8 +1,8 @@
 {
-  "turno": 1228,
+  "turno": 1229,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
-  "hora": "17:56",
+  "hora": "17:58",
   "edad": 18,
   "nivel": 28,
   "exp": 277230,
@@ -189,7 +189,7 @@
           "tipo": "Recinto de 6 caras (con techo)",
           "lugar": "Anteiku, Distrito 20 (Tokyo Ghoul)",
           "desde": "T1180 07:31",
-          "reglas": "Desde T1228: NADIE de los que están adentro puede salir (puerta, callejón, ventanas, techo); nadie entra a hacer daño; ningún ataque contra el lugar pasa. (Antes: entra y sale cualquiera; CCG solo si viene a tomar café.) Se mantiene aunque Facundo se aleje. Adentro: Yoshimura (Búho), Kaneki, Touka, Koma, Irimi (herida, lanza en el hombro), Nishiki, Hinami.",
+          "reglas": "Desde T1228: NADIE de los que están adentro puede salir (puerta, callejón, ventanas, techo); nadie entra a hacer daño; ningún ataque contra el lugar pasa. (Antes: entra y sale cualquiera; CCG solo si viene a tomar café.) Se mantiene aunque Facundo se aleje. Adentro: Yoshimura (Búho), Kaneki, Touka, Koma, Irimi (herida, lanza en el hombro), Nishiki, Hinami, 4 Apes heridos (T1229).",
           "visibilidad": "Líneas visibles: un hilo plateado finísimo en la vereda junto al cordón y por los costados/callejón; las paredes y el techo no se ven."
         }
       ],

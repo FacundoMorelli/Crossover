@@ -84,3 +84,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1170 (Tokyo Ghoul) · Duerme sobre el pecho de Facundo en el sofá de Anteiku. Lo despierta con la pata en la cara a las 7.
 - T1175 (Tokyo Ghoul) · Yoshimura le sirve leche tibia y pescado cocido. Desconfía un rato largo y después come.
 - T1186 (Tokyo Ghoul) · Come un pedazo de tostada de la palma de Hinami, con cuidado. Después hace como si nada.
+- T1229 (Tokyo Ghoul) · Olfatea las esposas de supresión de Facundo y estornuda.

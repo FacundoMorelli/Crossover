@@ -4,6 +4,7 @@ RANGO: Clase Especial
 PODER VISTO POR FACUNDO: Armadura Arata negra, segmentada, casco cerrado.
 FÍSICO: Enorme; ~50 años, cara ancha y cuadrada, pelo corto gris, cejas gruesas.
 ENCUENTROS:
+- T1229 · Se aparta para que Facundo se lleve a los Apes heridos.
 - T1228 · Se para delante de los 4 Apes heridos del portal, de espaldas a ellos, protegiéndolos.
 - T1221 · Avenida 3 · Llega con Houji y Shinohara; da un paso adelante.
 DIÁLOGOS CLAVE:

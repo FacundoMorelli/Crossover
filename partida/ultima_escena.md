@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1226)
-no les voy a decir que lo se, por que no lo se, hagamos algo, voy con ustedes a la oficina y ellos se van
-
-## RESPUESTA 1 (T1226)
-
-> —No les voy a decir que lo sé, porque no lo sé. Hagamos algo: voy con ustedes a la oficina, y ellos se van.
-
-—¡No! —Kaneki da un paso adelante, con los tentáculos todavía levantados—. ¡Facundo-san, no!
-
-Touka no dice nada. Pero cierra el ala de golpe y te mira como si le hubieras pegado.
-
-Koma suelta una carcajada corta, incrédula.
-
-—¿Te vas a meter solo en la boca del lobo, Panadero? ¿Con ellos?
-
-El Búho no se mueve. Pero la voz de Yoshimura sale de adentro de la cabeza redonda, grave, despacio.
-
-—Morelli-san. Ese lugar no es como esta calle. Ahí adentro no se duerme a nadie con la mirada. Hay cosas que ni siquiera la CCG sabe que tiene.
-
-Shinohara te mira en silencio. Mucho rato.
-
-—¿Te estás entregando? —pregunta al final.
-
-Houji, a tu lado, inclina apenas la cabeza.
-
-—No se está entregando —dice, plano—. Se está invitando. —Te mira la mano, que todavía sostiene su quinque—. No hay celda en la oficina central que pueda retener a alguien que detiene esto con la palma. Lo sabe. Por eso lo ofrece.
-
-Kuroiwa suelta un resoplido que puede ser una risa.
-
-Shinohara cierra los ojos un segundo. Cuando los abre, tiene la cara de un hombre que acaba de elegir el camino que menos le gusta entre todos los malos.
-
-—Está bien —dice—. Pero escúchame. Si llego a la oficina con el hombre que durmió a veintisiete investigadores caminando a mi lado como si fuera un compañero, me sacan la placa antes de que cruce la puerta. Y a ti te reciben con todo lo que tengan.
-
-Se mete la mano en el cinturón de la armadura y saca un par de esposas. No las de siempre: son gruesas, de un metal blanco y opaco, con una franja roja en el medio. Las sostiene en el aire, sin acercarse.
-
-—Esposas de supresión. Para ghouls. A ti no te van a hacer nada, lo sé. —Las mira, como si le dieran vergüenza—. Pero tienen que verte llegar con ellas puestas.
-
-Detrás de ti, el Búho da un paso. Uno solo. El asfalto cruje.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1226 · TOKYO GHOUL · DÍA 6 · 17:51     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1227)
+## COMANDO 1 (T1227)
 esta bien, solo con la condicion que dejen ir a todos esta noche, que dejen la operacion
 
-## RESPUESTA 2 (T1227)
+## RESPUESTA 1 (T1227)
 
 > —Está bien. Solo con la condición de que dejen ir a todos esta noche. Que dejen la operación.
 
@@ -115,10 +58,10 @@ Detrás de ti, el Búho no se mueve.
 
 ---
 
-## COMANDO 3 (T1228)
+## COMANDO 2 (T1228)
 bueno entonces no quedara otra, teletransporto a yoshimura, touka, kaneki y koma a anteiku, despues voy a buscar a irimi y tambien la llevo a anteiku y pongo en la barrera que no deje salir a nadie y vuelvo al callejon, listo, ahora si llevenme, no van a poder hacerles nada a ellos
 
-## RESPUESTA 3 (T1228)
+## RESPUESTA 2 (T1228)
 
 > —Bueno, entonces no quedará otra.
 
@@ -196,7 +139,65 @@ Da un paso hacia ti. Levanta las esposas blancas, abiertas, a la altura de tus m
 
 (Escribiste "vuelvo al callejón"; lo tomé como volver a la avenida 3, donde te esperaban Shinohara y los demás.)
 
+---
+
+## COMANDO 3 (T1229)
+aguanta, llevo a los apes a anteiku y vuelvo a la avenida y me pongo las esposas
+
+## RESPUESTA 3 (T1229)
+
+> —Aguanta.
+
+Shinohara se queda con las esposas en el aire.
+
+Caminas hasta el portal. Kuroiwa te ve venir y no se mueve de delante de los Apes, el casco bajo el brazo, mirándote fijo. Lo miras. Él te mira. Después da un paso al costado, despacio, sin decir nada.
+
+Los cuatro Apes se aprietan contra la pared al verte de cerca. Uno tiene la cara llena de sangre. Otro se agarra el estómago. El más joven, casi un chico, todavía lleva puesta la máscara de mono, rota en la frente.
+
+Apoyas la mano en el hombro del primero. Los otros tres se agarran de él, sin entender, por instinto.
+
+Desaparecen.
+
+Cocina de Anteiku. Los cuatro caen amontonados sobre las baldosas, al lado de Irimi. Koma suelta un grito ronco y se tira encima de ellos, abrazando a dos a la vez. Por el vidrio de la puerta, desde la vereda, lo ves un segundo antes de irte: Koma llorando a carcajadas, el Búho inclinado sobre Irimi, Hinami corriendo a buscar toallas.
+
+Avenida 3.
+
+Apareces otra vez delante de Shinohara.
+
+Kuroiwa, junto al portal vacío, deja escapar el aire por la nariz, largo. Se pone el casco bajo el otro brazo.
+
+Extiendes las muñecas.
+
+Shinohara te mira un segundo. Después te pone las esposas. Click. Click. El metal blanco se cierra frío sobre tu piel. La franja roja se enciende con una luz tenue y zumba, bajito, como un aparato eléctrico. No sientes nada. Ni presión, ni mareo, ni el más mínimo peso. Solo el frío del metal.
+
+Shinohara también se da cuenta. Mira la franja roja encendida, mira tu cara, que no cambió, y aprieta los labios.
+
+—Ni lo sientes —murmura.
+
+Kase, en tu hombro, se estira hacia las esposas, las olfatea, y estornuda.
+
+Houji da un paso hacia ti. Señala con un dedo la quinque curva, que quedó colgando de tu mano esposada, entre los dedos.
+
+—Mi quinque —dice, plano—. Si llegas al puesto de mando esposado y armado, no nos van a creer nada a ninguno de los tres.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1229 · TOKYO GHOUL · DÍA 6 · 17:58     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: ir al puesto de mando con Shinohara║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:56, avenida 3. Todos los de Anteiku encerrados en el café (nadie sale). Facundo volvió con la quinque de Houji en la mano. Shinohara le ofrece las esposas abiertas. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:58, avenida 3. Apes a salvo en Anteiku. Facundo esposado (sin efecto) con la quinque de Houji en la mano. Houji la pide. Facundo puede actuar.

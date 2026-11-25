@@ -125,3 +125,4 @@
 - Shinohara, Houji, Kuroiwa, Apes · T1228 · vieron a Facundo desaparecer con el Búho, Kaneki, Touka y Koma, y volver solo. Shinohara deduce: el Búho está en el café, detrás de la pared, y solo Facundo sabe abrirla.
 - Seis investigadores de la calle del sur (uno de mandíbula dura, pistola) y una anciana · T1228 · vieron a Irimi desaparecer al tocarla alguien que apareció de la nada (un muchacho con un gato).
 - Kaneki, Touka, Koma, Yoshimura, Irimi, Nishiki, Hinami · T1228 · están encerrados en Anteiku; no pueden salir (Kaneki lo probó en el vidrio).
+- Shinohara, Houji, Kuroiwa · T1229 · vieron a Facundo llevarse a los Apes y volver; las esposas de supresión no le hacen nada.
