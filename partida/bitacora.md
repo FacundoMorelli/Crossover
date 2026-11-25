@@ -1258,3 +1258,4 @@ T1256 · TG · Anteiku · Deshace el Recinto. Eto se va y deja un libro firmado 
 T1257 · TG · Anteiku · Kaneki deduce que Takatsuki Sen es Eto, hija de Yoshimura. Yoshimura: "Escribe desde chica."
 T1258 · TG · Anteiku · "A tu hija le falta madurar." Yoshimura: "La dejé sola." Kaneki le da el libro.
 T1259 · TG · Anteiku · "Tengo una forma de volver el mundo normal, sin ghouls ni investigadores." Miedo. Yoshimura: "¿Qué quiere decir normal?"
+T1260 · TG · Anteiku · Explica: volverlos humanos. Dudas de Kaneki, Koma e Irimi. Yoshimura: "¿Para todos de una vez o para cada uno que lo elija?"

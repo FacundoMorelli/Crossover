@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1257)
-todavia no te diste cuenta?
-
-## RESPUESTA 1 (T1257)
-
-> —¿Todavía no te diste cuenta?
-
-Kaneki te mira. Después mira el libro.
-
-Lo da vuelta despacio. La tapa negra, las letras doradas. La firma en la primera página, en tinta violeta, con una letra redonda, juguetona, que se inclina hacia la derecha como si se estuviera riendo. Y al lado de la firma, un dibujito chico: un búho con un solo ojo abierto.
-
-Se queda mirando el dibujito mucho tiempo.
-
-—Ojos verdes —dice, en voz muy baja, para sí mismo—. Vendas. Una novela que todavía no salió, firmada. —Traga saliva—. "Gente que cree que puede arreglar un mundo roto con las manos." Eso... eso está en todos sus libros. Es lo que escribe siempre. Personajes que lo intentan y...
-
-No termina la frase. Levanta la vista hacia la puerta, hacia la vereda vacía donde la perdió el farol. Se pone pálido.
-
-—Takatsuki Sen es un ghoul.
-
-Touka, detrás de la barra, frunce el ceño.
-
-—¿La escritora esa que lees todo el tiempo? ¿La de las portadas raras?
-
-Kaneki no le contesta. Mira a Yoshimura. Con los ojos muy abiertos.
-
-—Y es su hija.
-
-Yoshimura no responde enseguida. Toma un repasador limpio de la pila, lo dobla en cuatro, lo deja sobre la barra. Toma otro. Lo dobla. Las manos le tiemblan apenas. Es la primera vez que le tiemblan doblando un repasador.
-
-—Escribe desde chica —dice al final, muy bajo, sin levantar la vista—. Con lápiz, en cuadernos viejos. Historias de gente que se perdía. —Deja el segundo repasador encima del primero—. No sabía que ya había otra.
-
-Mira el libro en las manos de Kaneki. Durante un segundo, en los ojos cansados de barista, hay algo que se parece mucho a las ganas de pedírselo.
-
-No lo pide.
-
-Afuera, en la calle, pasa un auto despacio. Los faros iluminan un instante el salón por el vidrio y siguen de largo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1257 · TOKYO GHOUL · DÍA 7 · 20:55     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1258)
+## COMANDO 1 (T1258)
 tu hija no sabe que hay gente todavia capaz de cambiar el mundo, le falta madurar
 
-## RESPUESTA 2 (T1258)
+## RESPUESTA 1 (T1258)
 
 > —Tu hija todavía no sabe que hay gente capaz de cambiar el mundo. Le falta madurar.
 
@@ -113,10 +59,10 @@ Después levanta la vista hacia ti. Los ojos se le arrugan en los bordes.
 
 ---
 
-## COMANDO 3 (T1259)
+## COMANDO 2 (T1259)
 yo tengo una forma de volver este mundo normal, sin ghouls, ni investigadores
 
-## RESPUESTA 3 (T1259)
+## RESPUESTA 2 (T1259)
 
 > —Yo tengo una forma de volver este mundo normal. Sin ghouls, ni investigadores.
 
@@ -165,7 +111,59 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1260)
+sacarles el ghoul de dentro, los que son ghoul de nacimiento convertirse en humanos y igual con la gente como kaneki
+
+## RESPUESTA 3 (T1260)
+
+> —Sacarles el ghoul de adentro. Los que son ghouls de nacimiento se convertirían en humanos. Y lo mismo la gente como Kaneki.
+
+Nadie habla durante un rato largo.
+
+Touka descruza los brazos. Se le van solos. Te mira, después mira sus propias manos, como si buscara algo en ellas. Hace dos días te preguntó si se podía. Hace un día dijo "después". Ahora el "después" llegó, y no sabe qué hacer con él.
+
+Kaneki es el que se mueve primero. Da un paso atrás, hasta chocar con la barra.
+
+—Humano —dice. Lo prueba, como una palabra vieja que no usaba hacía mucho—. Otra vez.
+
+Pero no sonríe. Se toca el costado, el lugar donde le salen los tentáculos. Se toca el pecho, el lugar donde le apoyaste la palma la primera noche.
+
+—Hace dos meses habría dado cualquier cosa por eso —dice, muy bajo—. Cualquier cosa. —Mira a Touka. Mira a Hinami—. Pero ayer, en la avenida, si no hubiera tenido esto... no habría podido ir con ustedes. Con nadie.
+
+Koma se rasca la cabeza afeitada con las dos manos.
+
+—¿Y los que no quieran, Panadero? —pregunta, sin el ruido de siempre—. Hay ghouls viejos que nunca fueron otra cosa. Que no saben ser otra cosa. Mi abuela tiene noventa años y nunca en la vida tuvo miedo de un humano. Si le dices que mañana se despierta como una vieja cualquiera, que se cansa subiendo la escalera... —Niega despacio—. Creo que prefiere morirse.
+
+—Y los que tienen cuentas pendientes —dice Irimi, desde la puerta de la cocina. Corto, seco—. Ghouls que hicieron cosas. Si mañana son humanos, sin kagune, sin nada, y alguien se acuerda de su cara...
+
+No termina. No hace falta. Es lo mismo que le dijiste tú a Touka tres días atrás.
+
+Yoshimura escuchó a todos sin interrumpir. Ahora deja el libro de Eto a un lado, con cuidado, y apoya las dos manos sobre la barra.
+
+—Morelli-san. Le voy a hacer la única pregunta que importa, creo. —Te mira a los ojos—. Lo que usted dice, ¿sería para todos, de una sola vez, en todo el mundo?
+
+Hace una pausa.
+
+—¿O para cada uno que lo elija?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1260 · TOKYO GHOUL · DÍA 7 · 21:02     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:00, salón de Anteiku. Facundo dijo que puede volver el mundo normal sin ghouls ni investigadores. Todos tienen miedo de lo que eso significa para ellos. Yoshimura pide que explique qué quiere decir "normal". Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:02, salón de Anteiku. Facundo explicó el plan de volver humanos a todos los ghouls. Dudas de Kaneki, Koma e Irimi. Yoshimura pregunta si sería para todos de una vez o para quien lo elija. Facundo puede responder.

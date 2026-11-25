@@ -7,6 +7,7 @@ ENCUENTROS:
 - T1215 · Día 5: quema papeles con Yoshimura. Día 6: afuera con los Black Dobers, fuera de la pared.
 - T1209 (Día 2) · Llega por el callejón con Koma; pide la transfiguración después de él, sin decir nada.
 DIÁLOGOS CLAVE:
+- T1260 · "Y los que tienen cuentas pendientes. Ghouls que hicieron cosas. Si mañana son humanos, sin kagune, y alguien se acuerda de su cara..."
 - T1242 · "Gracias, Panadero."
 QUÉ SABE DE FACUNDO: Quita el hambre (lo vivió).
 ESTADO: Sin hambre de ghoul. Curada entera por una semilla del ermitaño (T1242). En Anteiku.

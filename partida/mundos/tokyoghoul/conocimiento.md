@@ -179,3 +179,5 @@
 - Todos en Anteiku · T1257 · lo oyeron; Yoshimura lo confirma implícitamente ("escribe desde chica").
 - Facundo y todos en Anteiku · T1258 · por Yoshimura: dejó sola a Eto de muy chica "en un lugar donde nadie iba a buscarla", creyendo salvarla.
 - Todos en Anteiku · T1259 · por Facundo: tiene una forma de volver el mundo "normal", sin ghouls ni investigadores (sin detalles).
+- Todos en Anteiku · T1260 · por Facundo: el plan es volver humanos a todos los ghouls (de nacimiento y como Kaneki).
+- Facundo · T1260 · por Koma: su abuela de 90 años es ghoul.
