@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1086)
-por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
-
-## RESPUESTA 1 (T1086)
-
-> por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
-
-> —Por ellos. Si los lastiman, voy a estar. Pero no lo van a hacer. Ninguno de ellos es malo, y son inteligentes.
-
-Nadie dice nada.
-
-Loki deja el vaso en la mesa sin tomar. Te mira con los ojos rojos abiertos del todo. No le hace falta decir "verdad". Se le nota en la cara.
-
-—Inteligentes —repite Finn, en voz baja.
-
-No lo dice como pregunta. Lo dice como alguien que acaba de escuchar en voz alta algo que ya sospechaba y no quería pensar.
-
-Riveria es la que habla.
-
-—En la Calle Dédalo, la noche del ataque —dice, despacio, mirando las llamas de la chimenea—, uno de ellos me habló. El lagarto rojo. Me pidió que no lastimara a la pequeña de la gema. Me lo pidió por favor. —Se le aprieta la mano en el báculo—. Le dije a Finn que debía haber sido un truco de los de Ikelos. Que una magia hacía hablar al monstruo.
-
-—Y Ais dudó —dice Finn—. Por primera vez desde que la conozco, Ais dudó frente a un monstruo.
-
-Se queda callado.
-
-Después se pone de pie. Se acomoda la lanza en la espalda.
-
-—No voy a cambiar de idea esta noche, Facundo Morelli. Ni por ti, ni por nadie. Hay cosas que pasaron en esta ciudad, hace años, por culpa de los monstruos, que no se olvidan. —Te mira—. Pero voy a pensarlo. Eso sí te lo prometo.
-
-Te tiende la mano. Una mano chica, firme, con la cicatriz vieja.
-
-Loki se ríe bajito desde el sillón, con la cabeza apoyada en el respaldo.
-
-—Ay, mira eso. Mi capitán dándole la mano a un desconocido sin Falna a la una de la mañana. —Sacude la cabeza—. Me lo vas a convertir en un sentimental, guapo.
-
-Agarra la botella verde y se sirve el último resto.
-
-—Bueno. —Te mira por encima del vaso, con una sonrisa chueca—. Ahora que ya nos rompiste el corazón y nos dejaste pensando a todos... ¿adónde vas a ir, viajero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1086 · DANMACHI · NOCHE 2 · 00:59      ║
-║ Orario · Mansión del Crepúsculo, sala        ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sillón                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1087)
+## COMANDO 1 (T1087)
 le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
 
-## RESPUESTA 2 (T1087)
+## RESPUESTA 1 (T1087)
 
 > le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
 
@@ -152,10 +96,10 @@ A dos cuadras, colina abajo, suena una alarma. Un estruendo de vidrio. Gente que
 
 ---
 
-## COMANDO 3 (T1088)
+## COMANDO 2 (T1088)
 me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
 
-## RESPUESTA 3 (T1088)
+## RESPUESTA 2 (T1088)
 
 > me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
 
@@ -219,4 +163,53 @@ Death Arms frunce el ceño detrás del visor.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 08:42, Banco Musutafu Norte. Facundo derribó al villano. Death Arms llegó y le pregunta si tiene licencia de héroe (si no, es ilegal). Facundo puede responder.
+## COMANDO 3 (T1089)
+no se donde estoy, soy un viajero, no conozco nada de aca
+
+## RESPUESTA 3 (T1089)
+
+> no se donde estoy, soy un viajero, no conozco nada de aca
+
+> —No sé dónde estoy. Soy un viajero. No conozco nada de aquí.
+
+Death Arms se queda quieto. Ladea la cabeza, con el visor brillando bajo los tubos de luz.
+
+—¿Un viajero? —Mira a la empleada, que se encoge de hombros detrás del mostrador. Después te mira a ti otra vez—. ¿Extranjero? Hablas japonés perfecto.
+
+Afuera frenan dos patrulleros más. Policías de uniforme azul entran al banco, uno detrás de otro, con las manos en las esposas. Uno se agacha junto al villano, le toma el pulso, le pone unas esposas gruesas, especiales, que se le cierran en las muñecas con un zumbido.
+
+—Inconsciente —dice—. Ni un rasguño. El Don, anulado... no, solo dormido. ¿Quién lo hizo?
+
+Varios dedos te señalan a la vez: la empleada, dos empleados más, la señora de la cartera.
+
+—Apareció de la nada —dice la señora, con la voz temblorosa, sin soltar la cartera—. Así. ¡Puf! Y le pegó una vez. Una sola.
+
+Death Arms suspira. Se rasca la nuca por debajo del casco.
+
+—Escucha, muchacho. —Baja la voz, menos de héroe, más de persona—. Aquí, en Japón, usar un Don en público sin licencia es delito. Da igual si es para bien. Se llama "vigilantismo", y la gente va presa por eso. —Se cruza de brazos—. Nadie está diciendo que hiciste algo malo. Salvaste a esta gente. Pero las reglas son las reglas.
+
+Uno de los policías se acerca. Un hombre de mediana edad, con bigote, una libreta en la mano.
+
+—Joven. —Te mira, mira a Kase, mira la nieve que todavía tienes en el pelo blanco y azul—. Necesito su nombre, su registro de Don y algún documento. Y después, me temo que va a tener que acompañarnos a la comisaría a declarar.
+
+Detrás de él, en la vereda, se juntan curiosos con los celulares levantados. Alguien ya está filmando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1089 · BOKU NO HERO · DIC. · 08:45     ║
+║ Musutafu · Banco Musutafu Norte              ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 08:45, Banco Musutafu Norte. Death Arms explica que usar un Don sin licencia es delito. Un policía le pide nombre, registro de Don y documento, y que los acompañe a la comisaría. Curiosos filman. Facundo puede responder.

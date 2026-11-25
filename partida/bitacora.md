@@ -1087,3 +1087,4 @@ T1085 · DanMachi · Sala de Loki · Rechaza la Familia: "Soy de viajar." Loki: 
 T1086 · DanMachi · Sala de Loki · "Por ellos. Son inteligentes." Riveria: el lagarto le habló. Finn: "Voy a pensarlo." Le tiende la mano. Loki: "¿Adónde vas a ir, viajero?"
 T1087 · DanMachi → Boku no Hero · Mano a Finn; Loki: "¡Y trae al gato!" Puerta desde el techo. Musutafu nevado, al pie de la U.A. Don: Llama del Renacer. Misión: que nadie de la U.A. muera hasta el fin de la Guerra de Liberación. Asalto a un banco a dos cuadras.
 T1088 · BnHA · Banco Musutafu Norte · Villano del brazo de roca, inconsciente. "¿Dónde estoy?" Death Arms: "¿Tienes licencia de héroe?"
+T1089 · BnHA · Banco · "Soy un viajero." Death Arms: vigilantismo es delito. Policía: "Nombre, registro de Don, documento. Acompáñenos a la comisaría." Filman.

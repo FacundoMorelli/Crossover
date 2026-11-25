@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: sospecha legal (T1088).
 ENCUENTROS:
 - T1088 · Diciembre 08:42 · Llega al Banco Musutafu Norte tras el asalto.
 DIÁLOGOS CLAVE:
+- T1089 · "¿Un viajero? ¿Extranjero? Hablas japonés perfecto." "Aquí, usar un Don en público sin licencia es delito. Se llama vigilantismo. Nadie está diciendo que hiciste algo malo. Salvaste a esta gente. Pero las reglas son las reglas."
 - T1088 · "¡Death Arms, héroe profesional!" "¿Tú lo derribaste? Con un Don." "Muchacho, ¿tienes licencia de héroe? Porque si no la tienes, lo que acabas de hacer es ilegal."
 QUÉ SABE DE FACUNDO: que derribó al villano (por la empleada).
 QUÉ PODERES DE FACUNDO VIO: ninguno (el resultado).
