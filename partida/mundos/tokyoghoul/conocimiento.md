@@ -172,3 +172,4 @@
 - Todos en Anteiku y Eto · T1254 · por Facundo: los van a borrar a todos del listado de la CCG; nadie va a venir a buscarlos.
 - Eto · T1254 · deducción: solo Washuu Tsuneyoshi puede decidir eso; Facundo fue a su casa y salió vivo. (Eto conoce a Tsuneyoshi: "toma té con las dos manos".)
 - Todos en Anteiku · T1254 · por Eto: hay "un viejito detrás de un muro de piedra" que decide en la ciudad (Washuu).
+- Eto · T1255 · comprobó la pared: no puede salir de Anteiku.

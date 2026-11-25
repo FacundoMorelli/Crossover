@@ -1253,3 +1253,4 @@ T1251 · TG · Simulación · El Jardín: 31 chicos y Hairu transfigurados. Arim
 T1252 · TG · Anteiku · La chica de las vendas: "Así que tú eres el famoso Panadero. Me arruinaste la función. ¿Por qué?"
 T1253 · TG · Anteiku · "Eto, porque iban a morir muchos." Eto: "¿Mi papá come pan ahora?" Todos se enteran de que es hija de Yoshimura.
 T1254 · TG · Anteiku · "Los van a borrar del listado, a todos." Yoshimura: "Gracias." Eto: "Fuiste a ver al viejo Washuu. ¿Qué le diste a cambio?"
+T1255 · TG · Anteiku · "A ti no te importa." Eto intenta irse y rebota en el umbral: "¿Me encerraste con mi papá?"

@@ -3,79 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1252)
-entro a anteiku
-
-## RESPUESTA 1 (T1252)
-
-> entro a Anteiku
-
-Suena la campanita.
-
-Nadie se mueve más de lo que ya estaba quieto. Pero todos los ojos del salón van de golpe hacia ti, y después, sin querer, hacia la figura del taburete.
-
-La figura no se da vuelta enseguida. Termina de balancear las piernas una vez más, despacio, como si llevara la cuenta de algo. Después gira en el taburete, sobre sí misma, con un rechinido de madera.
-
-Debajo de la capucha, la cara está cubierta de vendas. Todas, menos los ojos. Por las aberturas asoman dos ojos verdes, grandes, brillantes, uno de ellos con un ligero tinte rojo en el borde. Las vendas se mueven a la altura de la boca. Está sonriendo.
-
-Tu instinto la tasa.
-
-```
-╔════════════════════════════════════════╗
-║ SIN DATOS                              ║
-║ Ghoul                                  ║
-║ PODER: Kagune ukaku; kakuja (sin datos)║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: muy inferior      ║
-║ Esconde su fuerza. Mucha.              ║
-║ COPIABLE · MISIÓN: sin datos           ║
-╚════════════════════════════════════════╝
-```
-
-Debajo de las vendas hay algo enorme, plegado, muy apretado. Algo que se parece a lo que tiene Yoshimura detrás de su calma, pero más joven. Más filoso. Y que no está dormido.
-
-—Aaah. —La voz que sale de las vendas es la de una chica. Aguda, alegre, cantarina, casi infantil—. Así que tú eres el famoso Panadero.
-
-Se baja del taburete de un saltito. Es bajita: te llega al pecho. Se acerca con las manos detrás de la espalda, inclinándose hacia adelante para mirarte de cerca, de abajo hacia arriba. Huele a papel viejo, a tinta y a sangre seca.
-
-Mira tu ojo rojo. Mira tu ojo azul. Mira a Kase, que tiene el lomo erizado de punta a punta y no le quita los ojos de encima.
-
-—Qué gato tan serio. —Se ríe, una risita corta, por la nariz—. Me cae bien.
-
-Detrás de la barra, Yoshimura no se mueve. Pero tiene las manos tan apretadas contra la madera que se le ven blancos los nudillos.
-
-La chica de las vendas se endereza. Se da vuelta un segundo hacia él, por encima del hombro, y le guiña un ojo. Él no reacciona.
-
-Después vuelve a mirarte a ti.
-
-—¿Sabes una cosa? Esta noche iba a ser la más divertida en veinte años. Iba a haber fuego, gritos, un búho viejo cayendo del cielo, y un montón de investigadores muy tristes. —Se balancea sobre los talones—. Tenía un asiento en primera fila. Y tú me arruinaste la función.
-
-La voz no cambia de tono. Sigue alegre. Pero los ojos verdes, detrás de las vendas, ya no se ríen.
-
-—Así que vine a ver la cara del que me la arruinó. Y a hacerle una sola pregunta. —Inclina la cabeza—. ¿Por qué?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1252 · TOKYO GHOUL · DÍA 7 · 20:47     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, lomo erizado             ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1253)
+## COMANDO 1 (T1253)
 eto, por que iban a morir muchos
 
-## RESPUESTA 2 (T1253)
+## RESPUESTA 1 (T1253)
 
 > —Eto. Porque iban a morir muchos.
 
@@ -129,10 +60,10 @@ Yoshimura no abre los ojos.
 
 ---
 
-## COMANDO 3 (T1254)
+## COMANDO 2 (T1254)
 la ignoro, yoshimura, los van a borrar a todos del listado, nadie mas va a venir a buscarlos, a ninguno
 
-## RESPUESTA 3 (T1254)
+## RESPUESTA 2 (T1254)
 
 > la ignoro
 
@@ -186,7 +117,68 @@ Los ojos verdes brillan entre las vendas.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1255)
+a ti no te imporrta eso
+
+## RESPUESTA 3 (T1255)
+
+> —A ti no te importa eso.
+
+Eto se queda mirándote.
+
+Los ojos verdes, entre las vendas, no parpadean. Por un segundo, en el salón, el aire se pone pesado, denso, como antes de una tormenta. Detrás de las vendas, algo enorme se mueve, despierta, se estira apenas.
+
+Kase, en tu hombro, le muestra los dientes.
+
+Y después, igual de rápido, el aire se afloja. Eto suelta una risita por la nariz.
+
+—Qué grosero. —Se lleva una mano vendada al pecho, ofendida de mentira—. Y yo que pensaba que éramos amigos.
+
+Se da vuelta, girando sobre un talón, y camina hacia la puerta con las manos otra vez detrás de la espalda, tarareando algo sin melodía. Al pasar junto a la barra, sin mirar, le dice a Yoshimura:
+
+—Me alegra que comas pan, papá. De verdad. —La voz es dulce. Nadie sabe si miente—. Pero no te acostumbres. Esta ciudad no cambia porque un viejito firme un papel.
+
+Yoshimura no le contesta. La sigue con los ojos.
+
+Eto llega a la puerta. Agarra el picaporte. La campanita suena cuando la abre.
+
+Da un paso hacia la vereda.
+
+Y rebota.
+
+Se frena en seco contra el aire, en el umbral, con un sonido sordo, como si se hubiera llevado por delante una pared de vidrio. La capucha se le corre para atrás. Se queda quieta un segundo, con la puerta abierta en la mano y la nariz vendada apoyada contra la nada.
+
+Estira un dedo. Lo apoya en el aire. No pasa.
+
+Empuja con la palma abierta. Nada. Empuja con el hombro. Nada.
+
+Detrás de las vendas, despacio, algo que podría ser una sonrisa se le congela.
+
+Se da vuelta hacia ti. Muy despacio.
+
+—Panadero. —La voz cantarina tiene, por primera vez, un filo—. ¿Me encerraste con mi papá?
+
+En la escalera, a Nishiki se le escapa una risa nerviosa que convierte enseguida en tos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1255 · TOKYO GHOUL · DÍA 7 · 20:51     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, mostrando los dientes    ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:50, salón de Anteiku. Yoshimura agradeció. Eto dedujo que Facundo fue a ver a Washuu y pregunta qué le dio a cambio. (Facundo prometió el secreto de los Washuu.) Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:51, salón de Anteiku. Eto intentó irse y el Recinto no la deja salir. Pregunta si Facundo la encerró con su papá. Facundo puede responder.

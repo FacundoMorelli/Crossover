@@ -88,3 +88,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1233 (Tokyo Ghoul) · Se le eriza el lomo al ver a Kishou Arima, por primera vez en este mundo.
 - T1245 (Tokyo Ghoul) · Gruñe bajo frente a Washuu Tsuneyoshi.
 - T1248 (Tokyo Ghoul) · Se duerme panza al sol sobre un almohadón junto a la ventana de la casa Washuu, como si viviera ahí.
+- T1255 (Tokyo Ghoul) · Le muestra los dientes a Eto cuando el aire se pone pesado.
