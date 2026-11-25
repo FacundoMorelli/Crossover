@@ -1190,3 +1190,4 @@ T1188 · TG · Anteiku · Le cuenta a Nishiki. Touka come pan delante de él: "E
 T1189 · TG · Anteiku · "Lo hago gratis." Nishiki desconfía, después se sienta: "Hazlo antes de que me arrepienta."
 T1190 · TG · Anteiku · Transfigura a Nishiki. Le roba el pan a Touka. "Te debo una. No te hagas el santo conmigo."
 T1191 · TG · Anteiku · Nishiki a trabajar; Touka le pisa el pie. Primeros clientes. Kaneki: "¿Podemos hablar? Afuera. Solos."
+T1192 · TG · Plaza cerca de Anteiku · Kaneki, a solas: "¿Yoshimura-san es el Búho?"

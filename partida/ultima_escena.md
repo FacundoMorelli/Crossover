@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1189)
-nada nishiki, lo hago gratis
-
-## RESPUESTA 1 (T1189)
-
-> —Nada, Nishiki. Lo hago gratis.
-
-Nishiki te mira como si le hubieras hablado en otro idioma.
-
-—Gratis —repite.
-
-Se cruza de brazos, con las tiras del delantal colgando sueltas a los costados, y entrecierra los ojos detrás de los anteojos.
-
-—Nadie hace nada gratis. Menos un humano. Menos por un ghoul. —Lo dice rápido, como algo que aprendió hace mucho y le costó caro—. ¿Qué ganas tú? ¿Qué es lo que quieres de verdad?
-
-Nadie le contesta por ti. Touka mastica el pan, mirando para otro lado. Yoshimura deja el platillo en la pila. Hinami se queda quieta con la tostada en la mano, mirando a Nishiki con cara de no entender por qué está enojado.
-
-Nishiki aguanta la mirada un rato largo. Después la baja, hacia la barra, hacia el celular. La pantalla ya se apagó.
-
-Suelta el aire por la nariz, fuerte.
-
-—Al carajo —dice.
-
-Cruza el local en tres pasos largos, corre el taburete que está al lado de Kase de un tirón y se sienta frente a ti, con los codos en las rodillas y la cara tensa, como alguien que se sienta en el sillón del dentista.
-
-Se saca los anteojos. Los dobla. Los aprieta en el puño.
-
-—Hazlo antes de que me arrepienta.
-
-Kase lo mira de costado, con un ojo, y se corre un poco en el taburete para que no lo toque.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1189 · TOKYO GHOUL · MAÑANA · 07:44    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1190)
+## COMANDO 1 (T1190)
 lo hago con nishiki
 
-## RESPUESTA 2 (T1190)
+## RESPUESTA 1 (T1190)
 
 > lo hago con Nishiki
 
@@ -103,10 +54,10 @@ Cuando vuelve a mirarte, tiene los ojos húmedos detrás de los anteojos torcido
 
 ---
 
-## COMANDO 3 (T1191)
+## COMANDO 2 (T1191)
 no me debes nada, ahora mejor ponte a trabajar antes que touka quiera matarte
 
-## RESPUESTA 3 (T1191)
+## RESPUESTA 2 (T1191)
 
 > —No me debes nada. Ahora mejor ponte a trabajar, antes de que Touka quiera matarte.
 
@@ -152,7 +103,54 @@ Busca con la mirada por todo el local hasta que te encuentra. Viene hasta tu tab
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1192)
+si
+
+## RESPUESTA 3 (T1192)
+
+> —Sí.
+
+Kase salta del taburete a tu hombro antes de que te levantes.
+
+Kaneki no sale por la puerta de adelante. Te lleva por detrás de la barra, pasando junto a Nishiki, que los mira de reojo mientras muele café, y por la cocina, hasta la puerta de metal del fondo. Sale al callejón y sigue caminando: entre los tachos, más allá del hilo plateado pegado al asfalto, que pisa sin verlo, hasta la boca del callejón, y después media cuadra más por la calle lateral, rápido, con las manos en los bolsillos de un pantalón que tampoco es suyo.
+
+Recién se detiene en una plaza chica, encajada entre dos edificios de departamentos: un tobogán despintado, dos hamacas, un banco de madera y un árbol que ya perdió casi todas las hojas. No hay nadie. Del otro lado de la calle, un vendedor levanta la persiana de una verdulería.
+
+Kaneki mira hacia atrás, hacia Anteiku, que ya no se ve. Calcula la distancia con los ojos.
+
+—Aquí no nos escucha —dice—. Creo.
+
+No se sienta. Se queda de pie junto al banco, con los hombros tensos bajo la camisa prestada.
+
+—Anoche, cuando dijiste "Operación del Búho" —empieza—, Yoshimura-san no se sorprendió. Se quedó quieto, pero no se sorprendió. Y cuando yo empecé a preguntar, no me contestó, pero tampoco dijo que no.
+
+Se pasa una mano por el pelo húmedo.
+
+—En el Distrito 11, cuando atacamos Aogiri, apareció ese búho. Envuelto en kagune. Peleó contra los investigadores de Clase Especial como si fueran nada. Y anoche, en el café, cuando Yoshimura-san se sacó los lentes y te miró... sentí lo mismo. La misma presión. —Le tiembla un poco la voz—. Yo creía que me lo estaba imaginando.
+
+Te mira de frente.
+
+—Tú sabes cosas, Facundo-san. Sabías el nombre de la operación antes que nadie. —Traga—. Dime la verdad. ¿Yoshimura-san es el Búho?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1192 · TOKYO GHOUL · MAÑANA · 07:56    ║
+║ Distrito 20 · plaza chica, a media cuadra    ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:52, Anteiku abierto con clientes. Kaneki pide hablar con Facundo afuera, a solas, sobre la operación. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:56, plaza chica cerca de Anteiku. Kaneki, a solas, pregunta si Yoshimura es el Búho. Facundo puede responder.
