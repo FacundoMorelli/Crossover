@@ -9,3 +9,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 - (nadie)
+- Gros · T1062 · Facundo le ofreció llevarlo a la Mazmorra; sabe que es un Xenos y que necesita volver (Gros lo deduce: no grita, habla como si supiera). Sospecha que es de Ikelos.

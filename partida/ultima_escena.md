@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1059)
-le doy una semilla del ermitaño, nos vemos hisoka
-
-## RESPUESTA 1 (T1059)
-
-> le doy una semilla del ermitaño, nos vemos hisoka
-
-Sacas una semilla del bolsillo y se la pones entre los labios.
-
-Hisoka la mira de reojo, bizco, con la semilla en la boca. No pregunta. La mastica despacio, con los ojos fijos en ti, y traga.
-
-Un segundo.
-
-Después le vuelve el color a la cara, de golpe, debajo del maquillaje corrido. El silbido de la respiración se le corta. Las costillas, que tenía hundidas de un lado, crujen y se acomodan solas. El corte de la mejilla, el que le abriste con su propia carta en la calle de los baños, se cierra de la comisura a la oreja y no deja ni una línea.
-
-Saca un brazo del metal. Después el otro. Se despega de la pared del contenedor con un sonido de chapa que se dobla y cae de pie, entero, sobre el techo del contenedor de abajo.
-
-Se toca el pecho. Se toca la mejilla. Mueve los hombros.
-
-—Esto tampoco es Nen. —Lo dice bajito, casi para él mismo. Después se ríe—. Nada de lo que haces es Nen. ♣
-
-> —Nos vemos, Hisoka.
-
-Te das vuelta.
-
-—Facundo.
-
-Lo dice a tu espalda. No canturrea.
-
-—Gracias por el mejor día de mi vida. ♥
-
-No te sigue. Cuando miras por encima del hombro, ya no está en el contenedor. Solo queda la abolladura con la forma de su espalda en el acero rojo, y una carta clavada en el borde: un as de corazones.
-
-En tu palma, la gota rosada de Bungee Gum sigue ahí. El hilo se estira hacia el puerto, hacia la ciudad, cada vez más fino.
-
-Kase lo mira. Estornuda.
-
-A lo lejos, en los muelles, una sirena larga y grave sale del casco del Black Whale 1. Primer aviso. Las bandas militares empiezan a tocar más fuerte. La fila de doscientas mil personas se mueve un poco más rápido.
-
-[Semillas del ermitaño: 82.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1059 · HUNTER X HUNTER · DÍA 4 · 10:00 ║
-║ Kakin · puerto, contenedores                 ║
-║ NIVEL 28 · EXP 242.350/280.000               ║
-║ FRAGMENTOS 108.290 · 0 jenny                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1060)
+## COMANDO 1 (T1060)
 simula hasta que zarpe el Black Whale
 
-## RESPUESTA 2 (T1060)
+## RESPUESTA 1 (T1060)
 
 > simula hasta que zarpe el Black Whale
 
@@ -130,10 +71,10 @@ Kase se estira en tu hombro, largo, con las patas delanteras hacia adelante, y b
 
 ---
 
-## COMANDO 3 (T1061)
+## COMANDO 2 (T1061)
 abro la puerta a un mundo nuevo
 
-## RESPUESTA 3 (T1061)
+## RESPUESTA 2 (T1061)
 
 > abro la puerta a un mundo nuevo
 
@@ -230,4 +171,53 @@ Tiene los ojos rojos. Inteligentes.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:10, techo de una casa de la Calle Dédalo (Orario). Patrullas de Ganesha y Loki buscan a los Xenos. Una gárgola Xenos (Gros) en el techo de al lado mira a Facundo. Facundo puede actuar.
+## COMANDO 3 (T1062)
+hola, necesitas volver a la mazmorra no? quieres que te lleve?
+
+## RESPUESTA 3 (T1062)
+
+> hola, necesitas volver a la mazmorra no? quieres que te lleve?
+
+> —Hola. Necesitas volver a la Mazmorra, ¿no? ¿Quieres que te lleve?
+
+La gárgola se queda quieta.
+
+Después las alas se le abren de golpe, enteras, con un ruido de piedra contra piedra, y se agacha en el borde del techo como un animal a punto de saltar. Las garras de las manos se le clavan en el borde de las tejas y las rajan.
+
+—Humano. —La voz es áspera, grave, como dos piedras que se frotan—. Me ves. Me hablas. —Los ojos rojos se le achican—. Y no gritas.
+
+Mira hacia abajo, hacia el callejón por donde se fue la patrulla. Después a ti otra vez. Después al gato.
+
+—¿De qué Familia eres? —gruñe—. ¿Ikelos? Los de Ikelos también hablaban bonito antes de meter a los nuestros en jaulas. —Abre la boca y le ves los colmillos de piedra—. Dix Perdix está muerto. Si vienes a terminar su trabajo, te arranco la garganta antes de que llames a nadie.
+
+No salta. Se queda en el borde, con las alas abiertas, tenso, temblando apenas. Tiene una grieta larga en un ala, reciente, de un golpe de espada, y una mancha oscura en el costado.
+
+—Nadie en esta ciudad quiere llevarnos a ningún lado. Solo el chico blanco. —Escupe las palabras—. Y mira lo que le hicieron por eso.
+
+Detrás de él, más lejos, sobre los techos de Dédalo, una antorcha vuelve a aparecer en un puente de madera. Otra patrulla. Viene hacia aquí.
+
+Gros la ve. Se le tensan los hombros de piedra.
+
+Te mira.
+
+—¿Quién eres? —repite, en voz más baja—. Contesta rápido, humano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1062 · DANMACHI · NOCHE 1 · 23:11      ║
+║ Orario · Calle Dédalo, techo de una casa     ║
+║ NIVEL 28 · EXP 252.350/280.000               ║
+║ FRAGMENTOS 108.590 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:11, techos de la Calle Dédalo. Gros, desconfiado y herido, pregunta quién es Facundo y de qué Familia; se acerca otra patrulla. Facundo puede responder.
