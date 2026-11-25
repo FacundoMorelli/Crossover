@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1227)
-esta bien, solo con la condicion que dejen ir a todos esta noche, que dejen la operacion
-
-## RESPUESTA 1 (T1227)
-
-> —Está bien. Solo con la condición de que dejen ir a todos esta noche. Que dejen la operación.
-
-Shinohara baja las esposas un poco.
-
-—Eso no lo decido yo —dice, honesto—. Ni él. —Señala a Kuroiwa con la cabeza—. Ni nadie en esta calle. La operación la manda Washuu Yoshitoki, desde el puesto de mando. Solo él puede pararla.
-
-—Pero puede pedirlo —dice Houji, sin emoción—. Tiene un herido de muerte que volvió a caminar. Tiene veintisiete hombres vivos que deberían estar muertos. Tiene un detenido. Eso pesa.
-
-Shinohara lo mira de reojo, sorprendido de que Houji diga algo así. Después suelta el aire por la nariz y se agacha junto a uno de los investigadores dormidos. Le saca la radio del cinturón. La sostiene un momento sin apretar el botón, mirándote.
-
-Aprieta.
-
-—Puesto de mando, aquí Clase Especial Shinohara, avenida 3. —La voz le sale firme, de oficina—. La unidad de Tanakamaru está fuera de combate. Repito: fuera de combate, no muertos. Veintisiete efectivos inconscientes, sin heridas. Tengo conmigo al responsable. Un humano. Se entrega voluntariamente y va a venir al puesto de mando por su cuenta. —Hace una pausa—. Su única condición es el cese de la operación. Solicito autorización para un alto el fuego en todo el distrito mientras se negocia.
-
-Estática.
-
-Pasan diez segundos. Quince. En las otras calles siguen sonando los disparos, más lejos, más esporádicos.
-
-La radio se enciende. Una voz de hombre, tranquila, educada, sin apuro, como la de alguien que habla desde un escritorio con una taza de té.
-
-—Shinohara-san. Aquí Washuu. —Una pausa breve—. Entendido. Agradezco el informe.
-
-Otra pausa.
-
-—Negativo al alto el fuego. La operación continúa hasta la eliminación del Búho, como estaba previsto. —El tono no cambia en lo más mínimo—. Traiga al detenido al puesto de mando, junto al cruce de la avenida 1. Me interesa mucho conocerlo. Y Shinohara-san... el Búho está a su lado, según entiendo. Proceda.
-
-La radio se corta.
-
-Shinohara se queda con el aparato en la mano. No dice nada. Kuroiwa aprieta el casco entre los dedos hasta que cruje el metal. Houji se acomoda los anteojos.
-
-Detrás de ti, el Búho no se mueve.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1227 · TOKYO GHOUL · DÍA 6 · 17:53     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1228)
+## COMANDO 1 (T1228)
 bueno entonces no quedara otra, teletransporto a yoshimura, touka, kaneki y koma a anteiku, despues voy a buscar a irimi y tambien la llevo a anteiku y pongo en la barrera que no deje salir a nadie y vuelvo al callejon, listo, ahora si llevenme, no van a poder hacerles nada a ellos
 
-## RESPUESTA 2 (T1228)
+## RESPUESTA 1 (T1228)
 
 > —Bueno, entonces no quedará otra.
 
@@ -141,10 +86,10 @@ Da un paso hacia ti. Levanta las esposas blancas, abiertas, a la altura de tus m
 
 ---
 
-## COMANDO 3 (T1229)
+## COMANDO 2 (T1229)
 aguanta, llevo a los apes a anteiku y vuelvo a la avenida y me pongo las esposas
 
-## RESPUESTA 3 (T1229)
+## RESPUESTA 2 (T1229)
 
 > —Aguanta.
 
@@ -197,7 +142,71 @@ Houji da un paso hacia ti. Señala con un dedo la quinque curva, que quedó colg
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1230)
+le doy el quinque
+
+## RESPUESTA 3 (T1230)
+
+> le doy la quinque
+
+Le devuelves la quinque a Houji, con el mango hacia él.
+
+La agarra. La mira un segundo, la hoja curva, el filo, el lugar exacto donde se apoyó en tu palma. No tiene ni una marca. Aprieta un botón en el mango y la hoja se repliega sola, con un chasquido mecánico, hasta volverse un maletín plateado del tamaño de un portafolios.
+
+—Gracias —dice. Lo dice igual que todo lo demás, sin emoción. Pero lo dice.
+
+Shinohara se pone el casco bajo el brazo y señala hacia el oeste con la cabeza.
+
+—Por acá.
+
+Caminan.
+
+Kuroiwa va adelante, con el casco puesto otra vez. Shinohara, a tu izquierda, con una mano apoyada en tu brazo, como corresponde a un detenido. Houji, detrás. Kase, en tu hombro, mirando todo con los ojos entrecerrados.
+
+El Distrito 20 se ve distinto. Las calles están vacías de gente común. Hay camionetas blancas cada dos cuadras, cintas amarillas, faroles apagados. En una esquina, un grupo de investigadores carga en una camilla a un compañero con la pierna vendada. Se quedan mirándote al pasar: el muchacho de pelo blanco y azul, esposado, con un gato en el hombro, escoltado por tres Clase Especial. Uno de ellos le dice algo al oído al de al lado.
+
+Más adelante, contra la pared de un banco, hay dos cuerpos con máscaras de perro. No se mueven. Shinohara no los mira. Tú sí.
+
+Cuatro cuadras. Cinco.
+
+En el cruce de la avenida 1, la CCG levantó un campamento en medio de la calle: tres carpas blancas grandes, generadores que zumban, reflectores que ya se encendieron aunque todavía queda algo de luz, antenas, mesas plegables llenas de mapas y pantallas. Hay investigadores por todas partes, entrando y saliendo de las carpas, hablando por radio.
+
+Cuando ustedes entran al círculo de luz de los reflectores, el ruido baja. No de golpe: de a poco, como cuando alguien entra a un aula. La gente deja de hablar, se da vuelta, se queda mirando.
+
+En la entrada de la carpa del medio hay dos hombres.
+
+Uno es bajo y ancho, de pelo corto peinado hacia atrás, con un cigarrillo apagado en la boca y cara de no haber dormido en tres días. Te mira con los ojos entrecerrados, de arriba abajo, como quien evalúa un auto usado.
+
+El otro es delgado, de mediana edad, con lentes de marco fino, el pelo negro prolijamente peinado y un traje oscuro impecable, sin una sola arruga. Tiene las manos cruzadas por detrás de la espalda. Sonríe apenas, con educación, como un anfitrión que recibe a un invitado algo tardío.
+
+Da un paso hacia ti. Reconoces la voz antes de que termine la primera palabra: es la de la radio.
+
+—Bienvenido —dice—. Washuu Yoshitoki. Usted debe ser el responsable de la avenida 3.
+
+Te mira las esposas, encendidas. Te mira la cara. Te mira el gato.
+
+—Pase, por favor. —Señala la carpa con un gesto suave de la mano—. ¿Le apetece un té?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1230 · TOKYO GHOUL · DÍA 6 · 18:09     ║
+║ Distrito 20 · puesto de mando, avenida 1     ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con Washuu                ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:58, avenida 3. Apes a salvo en Anteiku. Facundo esposado (sin efecto) con la quinque de Houji en la mano. Houji la pide. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:09, puesto de mando de la CCG. Washuu Yoshitoki recibe a Facundo en la entrada de la carpa y le ofrece té. Facundo puede responder.

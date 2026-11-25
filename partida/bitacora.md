@@ -1228,3 +1228,4 @@ T1226 · TG · Avenida 3 · Propone ir a la oficina de la CCG para que los ghoul
 T1227 · TG · Avenida 3 · Shinohara pide alto el fuego por radio. Washuu Yoshitoki: "Negativo. Traiga al detenido. Proceda con el Búho."
 T1228 · TG · Avenida 3 → Anteiku → sur → Anteiku → avenida 3 · Encierra a Yoshimura, Kaneki, Touka, Koma e Irimi en Anteiku (nadie sale). Vuelve. Kuroiwa protege a los Apes. Shinohara levanta las esposas.
 T1229 · TG · Avenida 3 · Lleva a los 4 Apes heridos a Anteiku. Se deja esposar (sin efecto). Houji pide su quinque.
+T1230 · TG · Puesto de mando · Devuelve la quinque. Caminan escoltados. Dos Black Dobers muertos en el camino. Washuu Yoshitoki: "Bienvenido. ¿Le apetece un té?"
