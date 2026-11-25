@@ -15,3 +15,5 @@
 - Vecinos del campamento · T1309 · vieron pasar al forastero de pelo blanco y azul con un gato, acompañado por Yamato.
 - Kakashi, Yamato · T1310 · vieron a Facundo sacar una semilla del bolsillo y dársela a Kakashi. Oyeron: "vine a conocer y a ayudar en lo que pueda". No saben qué es la semilla.
 - Kakashi, Yamato · T1311 · por Facundo: la semilla se llama "semilla del ermitaño" donde él viene; cura heridas y recupera energía. Lo vieron funcionar en Kakashi (pierna sana, chakra lleno). Kakashi la relaciona con los ermitaños (monte Myōboku).
+- Kakashi, Yamato · T1312 · Facundo les dio 44 semillas del ermitaño en una bolsa (sabe que hay una "médica que no despierta": deducción por lo que dijo Kakashi en T1310).
+- Facundo · T1312 · por Kakashi: la médica es Tsunade, la Hokage; curó a toda la aldea con una babosa gigante y quedó en coma; está en la carpa de la colina.

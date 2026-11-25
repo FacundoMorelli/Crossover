@@ -21,3 +21,5 @@ INVENTARIO: 1 semilla del ermitaño en la mano (sin comer).
 - T1311 · Se come la semilla (bajándose la máscara de espaldas). Pierna curada, chakra lleno. Se para. Abre un instante el Sharingan para comprobar. "El chakra. Está todo. Como si hubiera dormido una semana." Pide a Yamato pensar en la carpa médica del este (43 graves, 2 médicos). "Facundo. ¿Tienes más de estas?"
 QUÉ SABE DE FACUNDO (T1311): por Facundo: "de donde vengo" se llama semilla del ermitaño; cura heridas y recupera energía (lo comprobó en sí mismo). Facundo dedujo su estado por lo que él mismo dijo.
 ESTADO: curado, chakra lleno (T1311).
+- T1312 · Recibe 44 semillas. Manda 43 con Yamato a la carpa del este ("una por cabeza, empieza por los peores"; las que sobren, a los médicos). Guarda 1 para Tsunade. "Esto no se lo regala nadie a nadie. Ni siquiera un viajero." "Quiero que vengas conmigo cuando se la dé. ¿Vienes?"
+RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.

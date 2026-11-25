@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1309)
-
-esta bien
-
-## RESPUESTA 1 (T1309)
-
-> esta bien
-
-> —Está bien.
-
-Las raíces bajo tus pies se aflojan y se hunden en la tierra sin dejar marca.
-
-—Gracias —dice Yamato, y lo dice en serio—. Por aquí.
-
-Camina a tu lado, no adelante ni atrás, a medio paso de distancia: lo bastante cerca para agarrarte si hace falta y lo bastante lejos para que no parezca que te está llevando preso. Los dos chūnin vuelven a levantar las tablas, pero no les sacan los ojos de encima.
-
-El campamento es más grande de lo que se veía desde el bosque. Hay carpas para dormir, carpas con una cruz roja donde entran y salen ninjas médicos con las manos brillando de verde, y ollas enormes humeando sobre fuegos de leña. La gente se aparta un poco cuando pasas. No por miedo: por el pelo, por los ojos, por el gato. Una viejita deja de pelar papas para mirarte. Un ninja con vendas en toda la cara se da vuelta en la fila de la sopa.
-
-En medio del campamento, sobre una tarima de tablas recién clavadas, alguien colgó a mano un cartel de tela con letras torcidas: GRACIAS, NARUTO.
-
-Yamato se detiene frente a una carpa más grande que las otras, con la lona levantada de un lado. Adentro hay mesas hechas con puertas viejas, mapas de la aldea con media aldea tachada, pergaminos apilados en el suelo.
-
-En un catre del fondo, medio sentado, hay un hombre de pelo blanco y parado hacia un costado, con una máscara negra que le tapa la cara de la nariz para abajo y la banda de la frente bajada sobre el ojo izquierdo. Tiene un libro naranja abierto sobre el pecho y una pierna vendada encima de un cajón.
-
-Levanta la vista del libro. Te mira el pelo. Te mira a Kase. Te mira a ti.
-
-╔══════════════════════════════════════════════╗
-║ KAKASHI HATAKE                               ║
-║ Jōnin de Konoha · el Ninja Copia             ║
-║ PODER: Sharingan (Mangekyō: Kamui),          ║
-║        Raikiri, Estilo Rayo, Agua, Tierra,   ║
-║        Fuego; perros ninja; mil técnicas     ║
-║        copiadas                              ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE (sin verlo en acción)               ║
-║ Estado: chakra bajo, recuperándose           ║
-╚══════════════════════════════════════════════╝
-
-—Yo —dice, levantando dos dedos a modo de saludo.
-
-Yamato entra y se queda de pie al lado del catre.
-
-—Kakashi-senpai. Se llama Facundo Morelli. Dice que es viajero. Apareció en el bosque del norte, donde no hay camino. Dice que llegó teletransportándose.
-
-Kakashi cierra el libro con un dedo marcando la página. Lo mira un rato largo a Yamato, como diciendo "¿y me lo traes aquí?", y después a ti.
-
-—Teletransportándote —repite, tranquilo, casi aburrido—. Qué casualidad. Justo esta semana.
-
-Se acomoda un poco en el catre, con una mueca por la pierna.
-
-—Bueno, Facundo Morelli. Perdona que no me levante, morí hace dos días y todavía no me acostumbro a estar vivo. —Se le arruga el ojo visible, como si sonriera debajo de la máscara—. Dime una cosa: ¿a qué vino un viajero a una aldea que ya no existe?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1309 · NARUTO · DÍA 1 · 08:06          ║
-║ Konoha · campamento · carpa de mando         ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1310)
+## COMANDO 1 (T1310)
 
 antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
 
-## RESPUESTA 2 (T1310)
+## RESPUESTA 1 (T1310)
 
 > antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
 
@@ -122,11 +52,11 @@ Cierra los dedos sobre la semilla.
 
 ---
 
-## COMANDO 3 (T1311)
+## COMANDO 2 (T1311)
 
 por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
 
-## RESPUESTA 3 (T1311)
+## RESPUESTA 2 (T1311)
 
 > por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
 
@@ -175,4 +105,57 @@ Se queda mirándote un rato largo. Ya no tiene cara de aburrido.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:10, carpa de mando. Kakashi se comió la semilla: pierna curada, chakra lleno; se paró, mostró un instante el Sharingan. Carpa médica del este: 43 heridos graves, 2 médicos agotados. Kakashi pregunta: "¿Tienes más de estas?" Facundo tiene que contestar.
+## COMANDO 3 (T1312)
+
+saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
+
+## RESPUESTA 3 (T1312)
+
+> saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
+
+> —Aquí tienen cuarenta y cuatro. Una más para la médica que dicen que no despierta.
+
+Sacas del sobretodo una bolsita de tela y se la pones a Kakashi en la mano. Pesa poco. Adentro suenan las semillas como porotos secos.
+
+Kakashi abre la bolsa y mira adentro. No cuenta: con el Sharingan tapado igual se nota que no le hace falta. Las mira un segundo de más.
+
+—Cuarenta y cuatro —dice, muy bajo.
+
+Yamato se acerca y mira también. No dice nada. Se le mueve la nuez de la garganta.
+
+Kakashi saca una semilla y la aparta en el puño. Le pasa la bolsa a Yamato.
+
+—Cuarenta y tres. La carpa del este. Una por cabeza, empieza por los que están peor. Que los médicos no pregunten, que las den y ya. —Hace una pausa—. Y una para cada médico, si sobra alguna después. Que ellos también se están muriendo de pie.
+
+—Senpai, no sabemos...
+
+—Yo sí. —Se toca la pierna—. Ve.
+
+Yamato duda un segundo. Te mira. Después hace una reverencia corta, de cabeza, rápida, y sale de la carpa casi corriendo con la bolsa apretada contra el pecho.
+
+Kakashi se queda con la última semilla en el puño cerrado.
+
+—La médica que no despierta es la Hokage —dice—. Tsunade-sama. Curó a toda la aldea a la vez mientras nos atacaban, a través de una babosa gigante, y se quedó sin nada. Desde entonces no abre los ojos.
+
+Te mira. El ojo ya no se le arruga.
+
+—Esto no se lo regala nadie a nadie. Ni siquiera un viajero. —Se guarda el puño en el bolsillo del chaleco—. Está en la carpa de la colina. Quiero que vengas conmigo cuando se la dé. ¿Vienes?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1312 · NARUTO · DÍA 1 · 08:12          ║
+║ Konoha · campamento · carpa de mando         ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:12, carpa de mando. Facundo dio 44 semillas. Yamato salió con 43 a la carpa médica del este. Kakashi guardó 1 para Tsunade (en coma, carpa de la colina) y le pide a Facundo que lo acompañe: "¿Vienes?" Facundo tiene que contestar.

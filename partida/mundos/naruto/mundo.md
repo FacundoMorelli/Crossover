@@ -7,3 +7,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
 - T1311 · Kakashi curado del todo por una semilla del ermitaño de Facundo (canon: se recuperaba despacio).
+- T1312 · 43 semillas del ermitaño a la carpa médica del este (heridos graves de la invasión). 1 reservada para Tsunade.

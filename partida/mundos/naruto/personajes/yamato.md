@@ -25,3 +25,5 @@ QUÉ SABE DE FACUNDO (T1308): Facundo dice que llegó teletransportándose (no l
 - T1309 · Facundo acepta acompañarlo. Retira las raíces. "Gracias." Lo lleva a la carpa de mando con Kakashi y le informa: nombre, viajero, bosque norte, teletransporte.
 - T1310 · "Senpai." Intenta frenar lo de la semilla; Kakashi lo para con la mano.
 - T1311 · Ve a Kakashi curarse con la semilla. "Senpai."
+- T1312 · Recibe la bolsa con 43 semillas para la carpa médica del este. Reverencia corta a Facundo; sale corriendo.
+RELACIÓN CON FACUNDO (T1312): de la desconfianza al agradecimiento contenido.
