@@ -8,4 +8,4 @@ DIÁLOGOS CLAVE:
 - T1287 · "Más humanos. Siempre llegan más humanos."
 - T1286 · (ki) En la muralla oeste con Julius; su presencia se da vuelta: algo viejo, frío y enorme despierta.
 QUÉ SABE DE FACUNDO: (no consta)
-ESTADO: Transformado (otra alma al mando); tres espadas de luz apuntando a Julius, Yami y Facundo (T1287).
+ESTADO: Inconsciente en la muralla oeste (las dos almas vivas), con el pelo blanco largo; grimorio de cuatro hojas cerrado a su lado (T1288).

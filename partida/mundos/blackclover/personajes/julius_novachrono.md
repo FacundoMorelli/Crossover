@@ -9,3 +9,4 @@ QUÉ SABE DE FACUNDO: el reporte de Yami (barrera rota, Vetto derribado, nuevo T
 ESTADO: activo
 - T1286 · En la muralla oeste de la capital con William Vangeance, que empieza a transformarse (Licht). (Facundo lo siente con el ki.)
 - T1287 · Muralla oeste: "¡Oh! ¡Yami! ¡Y tú debes ser el muchacho del informe! ¡El nuevo de los Toros, el que yo no podía medir! ¡Facundo-kun! ¡Siempre quise conocerte!" (libro abierto, hojas pasando solas).
+- T1288 · "No. Está vivo. Los dos están vivos. Puedo verlo." Le aparta el pelo a William con cuidado. "Supongo que les debo una explicación. A los dos." VIVO (canon: moría hoy).

@@ -49,3 +49,4 @@
 - Julius · T1287 · conoce a Facundo por el informe de Yami (T473); lo saluda por su nombre. Lo vio llegar por teletransporte con Yami.
 - William/el otro · T1287 · vio a Facundo y a Yami aparecer en la muralla.
 - Facundo · T1287 · Tasación de William: Luz y Espadas, grimorio de cuatro hojas, otra alma en el mismo cuerpo (sin datos).
+- Julius, Yami · T1288 · vieron a Facundo noquear a William transformado de un golpe. Julius "ve" que los dos (dos almas) están vivos.

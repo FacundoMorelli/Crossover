@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1285)
-que esta pasando en realidad?
-
-## RESPUESTA 1 (T1285)
-
-> —¿Qué está pasando en realidad?
-
-Yami no contesta enseguida.
-
-Se apoya de espaldas contra la balaustrada, con los codos sobre la piedra, y mira hacia abajo, al patio de las fuentes. Unos caballeros de Amanecer Dorado cruzan el patio con capas blancas y doradas, conversando, sin levantar la vista.
-
-—Hace unas semanas, en el examen de los Caballeros Reales —dice al final—, el vicecapitán de esta casa, Langris, el hermano de Finral, sacó un maná que no era suyo. Negro. Pesado. Igual que el de aquel bicho del templo, el que mandaste a volar por tres paredes. —Le da una pitada al cigarro—. Marx, el de Julius, cree que hay gente del Ojo metida en los Caballeros Mágicos sin saberlo ellos mismos. Como si les hubieran plantado algo adentro.
-
-Suelta el humo despacio.
-
-—Hoy los mocosos se fueron con los Caballeros Reales a reventar la base del Ojo, en las Rocas Gravito. Asta, Noelle, Luck, el nuevo, Zora. Con la loca de Mereoleona al frente.
-
-Se queda callado un momento. Mira el estandarte dorado con el sol, que flamea arriba de la entrada.
-
-—Y yo estoy aquí.
-
-Se da vuelta hacia ti. Se saca el cigarro de la boca y lo aplasta contra la balaustrada, sin apuro.
-
-—Hace años que conozco al capitán de esta casa. William Vangeance. Siempre con esa máscara, siempre tan amable, siempre el que tiene la frase correcta. —Le cambia la voz, apenas—. Le debo cosas. Y él me debe a mí. Somos de los pocos capitanes que no nacieron con apellido.
-
-Te mira a los ojos.
-
-—Los que vieron al líder del Ojo cuando atacaron la capital dicen que tenía una cicatriz en la cara. —Hace una pausa—. William se tapa media cara con una máscara desde que lo conozco.
-
-No dice nada más por un segundo. El viento mueve el estandarte.
-
-—Así que lo vine a esperar. Para preguntarle en la cara. —Saca otro cigarro del bolsillo y lo prende con un chasquido de dedos—. Si dice que no, le creo. Si dice que sí...
-
-No termina.
-
-Te mira otra vez, de reojo, con la mirada pesada.
-
-—Tú siempre sabes cosas que no deberías saber, gato. Ya lo hiciste en el templo: llegaste preguntando por Kiato y Kahono por nombre. —Le da una pitada larga—. ¿Sabes algo de esto?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1285 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · base de Amanecer Dorado · terraza  ║
-║ NIVEL 29 · EXP 290.980/320.000 · 12:18       ║
-║ FRAGMENTOS 110.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1286)
+## COMANDO 1 (T1286)
 creo que el oculta algo y tambien el rey mago
 
-## RESPUESTA 2 (T1286)
+## RESPUESTA 1 (T1286)
 
 > —Creo que él oculta algo. Y también el Rey Mago.
 
@@ -115,10 +59,10 @@ Agarra la katana con las dos manos.
 
 ---
 
-## COMANDO 3 (T1287)
+## COMANDO 2 (T1287)
 vamos, me teletransporto con yami, hola hola, como estan, mucho gusto rey mago, mucho gusto capitan del amanecer dorado
 
-## RESPUESTA 3 (T1287)
+## RESPUESTA 2 (T1287)
 
 > —Vamos.
 
@@ -185,7 +129,71 @@ Levanta una mano. Sobre la muralla, en el aire, se forman tres espadas de luz bl
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1288)
+noqueo a william, bueno bueno
+
+## RESPUESTA 3 (T1288)
+
+> noqueo a William
+
+Las tres espadas de luz no llegan a salir disparadas.
+
+Estás delante de él antes de que bajen la mano. Le das un golpe seco con el canto de la mano en el costado del cuello, justo debajo de la oreja, donde el pelo blanco largo todavía está terminando de crecer.
+
+Los ojos de otro color se le abren mucho. Una vez. Después se le ponen en blanco.
+
+Las tres espadas de luz se apagan en el aire como velas a las que alguien sopla. El grimorio de cuatro hojas deja de flotar y cae sobre la piedra con un golpe sordo, cerrado. El cuerpo se dobla hacia adelante y lo agarras antes de que se golpee la cara contra la muralla.
+
+Lo bajas despacio. Queda boca arriba, con el pelo blanco desparramado sobre la piedra gris como una capa. La marca de la frente parpadea una vez, débil, y se apaga.
+
+Respira.
+
+[Rival vencido: el otro alma de William. +1.000 Fragmentos.]
+
+[+2.000 EXP.]
+
+> —Bueno, bueno.
+
+El viento silba entre las almenas.
+
+Yami baja la katana despacio. Mira el cuerpo en el suelo. Mira el grimorio de cuatro hojas. Te mira a ti.
+
+—¿Lo mataste? —pregunta, ronco.
+
+Lo dice sin acusar. Pero se le tensan los nudillos en la empuñadura.
+
+Julius dio un paso adelante sin darse cuenta. El libro, en su mano, dejó de pasar hojas. Está abierto en una página en blanco. Se queda mirando a William, tirado en la muralla con el pelo de otro, y por primera vez desde que llegaste, la sonrisa curiosa se le borra del todo.
+
+—No —dice Julius, en voz baja, antes de que contestes—. Está vivo. Los dos están vivos. —Traga—. Lo siento. Puedo verlo.
+
+Se agacha junto a William. Le aparta un mechón de pelo blanco de la cara con un cuidado que no le viste a nadie en este reino.
+
+Yami lo mira desde arriba.
+
+—Viejo —dice. Muy bajo—. ¿Qué carajo era eso?
+
+Julius no levanta la vista. Sigue agachado junto a William, con la mano todavía sobre su pelo.
+
+—Supongo que les debo una explicación —dice—. A los dos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1288 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · muralla oeste                      ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:22       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:21, muralla oeste. William se transformó en otro ser y apunta tres espadas de luz a Julius, Yami y Facundo. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:22, muralla oeste. William noqueado, vivo. Julius vivo, agachado junto a él, va a dar una explicación. Yami pregunta qué era eso. Facundo puede actuar.

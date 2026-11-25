@@ -1286,3 +1286,4 @@ T1284 · BC · Amanecer Dorado · "Átenlos." Se teletransporta con Yami. Yami: 
 T1285 · BC · Amanecer Dorado · Yami explica: Langris con maná como el de Vetto; sospecha de William. "¿Sabes algo de esto?"
 T1286 · BC · Amanecer Dorado · "Oculta algo, y el Rey Mago también." Facundo y Yami sienten a Julius y William en la muralla; algo despierta dentro de William.
 T1287 · BC · Muralla oeste · Llega con Yami. Julius: "¡Facundo-kun!" William se transforma: "Más humanos." Tres espadas de luz apuntan.
+T1288 · BC · Muralla oeste · Noquea al otro alma de William (+1.000 F, +2.000 EXP). Julius vivo. "Les debo una explicación."

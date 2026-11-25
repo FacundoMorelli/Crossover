@@ -1,13 +1,13 @@
 {
-  "turno": 1287,
+  "turno": 1288,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:21",
+  "hora": "12:22",
   "edad": 18,
   "nivel": 29,
-  "exp": 290980,
+  "exp": 292980,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 110107,
+  "fragmentos": 111107,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1993,6 +1993,14 @@
       "como": "Golpecito con un dedo en la frente; inconsciente.",
       "fragmentos": 5,
       "exp": 50
+    },
+    {
+      "nombre": "El otro alma de William Vangeance (Licht/Patolli, líder del Ojo)",
+      "mundo": "blackclover",
+      "turno": "T1288",
+      "como": "Golpe con el canto de la mano en el cuello; inconsciente; espadas de luz y grimorio de cuatro hojas apagados.",
+      "fragmentos": 1000,
+      "exp": 2000
     }
   ],
   "viaje": {
@@ -2346,7 +2354,7 @@
     "tokyoghoul_washuu": "La familia Washuu es un linaje mitad humano, mitad ghoul (los 'Washuu' de V); necesitan carne humana a escondidas. Tsuneyoshi habla de 'alguien en mi familia que tiene hambre hace mucho' (puede ser él mismo, o la familia entera). Quiere la transfiguración; también puede querer controlarla (amenaza al equilibrio de V). Yoshitoki sabe y se incomoda. | T1248: 14 Washuu transfigurados (Tsuneyoshi, Kaori, Yoshitoki, servidumbre, primos, tíos, etc.). Matsuri Washuu (hijo de Yoshitoki, investigador) se negó. Arima es del Jardín del Sol (Sunlit Garden): mitad humanos criados para servir a los Washuu; envejecen rápido, mueren antes de los 40, pierden la vista primero.",
     "tokyoghoul_eto": "Día 7 ~20:30: Eto Yoshimura (el Búho de un Ojo, líder de Aogiri; también la escritora Sen Takatsuki) entra a Anteiku para ver a su padre tras enterarse de la suspensión y del rumor. Va sin intención de dañar (la pared la deja pasar): quiere entender qué pasó y ver al 'Panadero'. Envuelta en capa y vendas.",
     "tokyoghoul_aogiri": "Base temporal de Aogiri: edificio viejo grande en zona de depósitos junto a la bahía, al sur del río, pasando los distritos 20/21. 50-60+ ghouls. En el último piso: Tatara (fría, piedra de río) y Noro (hueca, rara). Ayato solo en la azotea. Eto no está ahí ahora.",
-    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William."
+    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William. | T1288: Patolli (en el cuerpo de William) noqueado en la muralla antes de pelear con Julius: Julius NO muere (canon c146), Licht no se lleva las piedras de Julius; sin Patolli consciente, la Reencarnación de esta noche no puede activarse (las piedras no se colocan en el Monumento del Árbol de la Vida). Rhya y los demás del Ojo siguen en la base de las Rocas Gravito con los Caballeros Reales."
   },
   "recompensa_onepiece": {
     "monto": 400000000,
