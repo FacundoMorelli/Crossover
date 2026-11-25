@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1114)
-no, no sé quién, pero voy a estar atento y una pregunta... si consiguiera una licencia de heroe totalmente legitima, de la nada misma, les molestaria que los detenga?
-
-## RESPUESTA 1 (T1114)
-
-> —No, no sé quién. Pero voy a estar atento. Y una pregunta... si consiguiera una licencia de héroe totalmente legítima, de la nada misma, ¿les molestaría que los detenga?
-
-Nezu parpadea. Una vez. Dos.
-
-Después se ríe. Una risita aguda, corta, que se le escapa sin permiso.
-
-—"Totalmente legítima" y "de la nada misma" —repite—. Señor Morelli, esas dos cosas no suelen ir en la misma frase.
-
-Aizawa se frota los ojos.
-
-—No vas a falsificar una licencia —dice, plano—. No en esta escuela. No conmigo sentado aquí.
-
-—Nadie dijo falsificar —contesta All Might, y se le nota que está conteniendo una sonrisa—. El joven dijo legítima.
-
-Nezu se lleva una patita al mentón. El destello de risa se le apaga y vuelve la cara de cálculo.
-
-—A ver si entiendo —dice—. Usted no quiere esperar a que ellos se muevan. Quiere ir a buscarlos. A la Liga, a Deika, a la fábrica. —Te mira—. Y quiere que, cuando los traiga, sea un arresto y no un secuestro.
-
-Se queda callado unos segundos. Afuera, en el Campo Gamma, se oye a los alumnos de la 1-A y la 1-B gritándose entre ellos mientras los profesores los llevan a la enfermería.
-
-—Hay una sola entidad que da licencias en este país —dice al fin—. La Comisión de Seguridad Pública de Héroes. Y la Comisión no da nada "de la nada". Pide registro, pide nombre, pide historial. —Inclina la cabeza—. Usted no tiene ninguna de las tres cosas.
-
-—Entonces no se puede —dice Aizawa.
-
-—Yo no dije eso. —Nezu junta las patitas—. Dije que la Comisión pide esas cosas. No dije que yo no pueda hablar con la Comisión.
-
-All Might se gira hacia él, sorprendido.
-
-—Director...
-
-—Un consultor externo de la U.A., recomendado por mí, avalado por el Símbolo de la Paz —Nezu señala a All Might sin mirarlo— y con cuatro ubicaciones que la Comisión lleva meses sin encontrar. —Sus ojitos brillan—. Creo que me escucharían.
-
-Te mira de nuevo.
-
-—Pero si los voy a convencer, necesito algo para ponerles en la mesa, señor Morelli. Y le advierto una cosa: la Comisión no es la U.A. —La voz se le enfría un poco—. Allá no van a preguntar con amabilidad de dónde viene usted.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1114 · BOKU NO HERO · DIC. · 11:56     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Licencia de héroe (Nezu ofrece     ║
-║ hablar con la Comisión)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1115)
+## COMANDO 1 (T1115)
 usted tiene algo para comprobar si estoy en el sistema actualmente? compro una licencia en la tienda legitima a mi nombre
 
-## RESPUESTA 2 (T1115)
+## RESPUESTA 1 (T1115)
 
 > —¿Usted tiene algo para comprobar si estoy en el sistema actualmente?
 
@@ -139,10 +79,10 @@ Aizawa se cruza de brazos.
 
 ---
 
-## COMANDO 3 (T1116)
+## COMANDO 2 (T1116)
 alguien quiere venir conmigo? osea no por que necesite ayuda, creo que a alguien no le gustaria para nada ver a allmight con sus poderes de nuevo
 
-## RESPUESTA 3 (T1116)
+## RESPUESTA 2 (T1116)
 
 > —¿Alguien quiere venir conmigo? O sea, no porque necesite ayuda. Creo que a alguien no le gustaría para nada ver a All Might con sus poderes de nuevo.
 
@@ -197,4 +137,72 @@ Nezu junta las patitas sobre el escritorio.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:01, sala de monitoreo. Facundo insinuó a All For One. All Might quiere ir con él. Aizawa se queda cuidando la escuela. Tartarus no se abre con licencia. Nezu pregunta: ¿All For One primero o los que están libres? Facundo puede responder.
+## COMANDO 3 (T1117)
+primero a él, vamos All Might, me teletransporto a Tartarus
+
+## RESPUESTA 3 (T1117)
+
+> —Primero a él. Vamos, All Might.
+
+All Might no duda. Te pone una mano enorme en el hombro, del lado donde no está Kase.
+
+Nezu se levanta de un salto sobre la silla.
+
+—¡Esperen! Tartarus tiene protocolo de...
+
+Ya no lo escuchas.
+
+Frío.
+
+Es lo primero que notas. Un frío seco, de aire filtrado, de lugar al que nunca le llegó el sol. Después, la luz: blanca, dura, sin sombras, que sale del techo y de las paredes al mismo tiempo.
+
+Es una celda redonda, enorme, de paredes de metal liso. En el centro, sobre una plataforma, hay una silla de contención llena de tubos y correas. Y en la silla hay un hombre.
+
+Traje negro. Cuerpo flaco, inmóvil. Las manos atadas, los brazos sujetos con abrazaderas de acero. La cabeza cubierta por un casco de respiración del que salen mangueras hacia las máquinas del costado. Debajo del casco, donde debería haber ojos, hay piel lisa, cicatrizada.
+
+En el techo, alrededor de toda la celda, una docena de cañones automáticos giran al mismo tiempo, con un zumbido mecánico, y te apuntan a ti y a All Might.
+
+Una sirena empieza a sonar en algún lugar arriba, lejos, a través de muchas capas de roca.
+
+—¡INTRUSOS EN EL NIVEL MÁS BAJO! —ruge un altavoz—. ¡NO SE MUEVAN! ¡Están en el área de contención de...! —Una pausa. La voz cambia—. ¿Ese es... All Might?
+
+All Might no contesta. No mira los cañones. Mira la silla.
+
+Su mano sigue en tu hombro, y la sientes temblar. No de miedo. Es otra cosa.
+
+El hombre de la silla no se mueve. Pero el respirador cambia de ritmo. Una inhalación más larga. Más lenta.
+
+Después, despacio, la cabeza sin ojos gira hacia ustedes.
+
+—Qué curioso —dice. La voz sale suave, ronca, por el altavoz del casco, como si estuviera sonriendo—. Hace mucho que nadie entra sin avisar. —La cabeza se inclina un poco, hacia All Might—. Y hace mucho más que no sentía esto, Toshinori.
+
+Silencio. Solo la sirena, lejana, y el zumbido de los cañones.
+
+—Está entera —dice el hombre, en voz más baja. Ya no suena divertido—. La brasa. Está entera otra vez.
+
+Y la cabeza gira, muy lentamente, hacia ti.
+
+—¿Fuiste tú?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1117 · BOKU NO HERO · DIC. · 12:02     ║
+║ Tartarus · celda de contención, nivel más    ║
+║ bajo                                         ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Con: All Might                               ║
+║ ALERTA: 12 cañones automáticos apuntándote   ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: All For One                        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:02, Tartarus, celda del nivel más bajo. Facundo y All Might frente a All For One (atado). 12 cañones apuntando, alarma. AFO pregunta a Facundo: "¿Fuiste tú?" (la brasa entera). Facundo puede actuar.

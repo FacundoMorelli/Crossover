@@ -1115,3 +1115,4 @@ T1113 · BnHA · Sala de monitoreo · "Que nadie de la U.A. muera hasta que term
 T1114 · BnHA · Sala de monitoreo · Facundo pide licencia de héroe legítima. Nezu ofrece hablar con la Comisión de Seguridad Pública; pide algo para la mesa.
 T1115 · BnHA · Sala de monitoreo · Compra Licencia de Héroe Profesional legítima (30 F). Nezu la verifica en la Comisión: ayer no estaba, hoy sí. "¿A quién va a buscar primero?"
 T1116 · BnHA · Sala de monitoreo · Insinúa a All For One. All Might: "Él. Yo voy." Aizawa se queda. Nezu: "¿Él primero o los que están libres?"
+T1117 · BnHA · Tartarus · Teletransporte con All Might a la celda de All For One. Cañones, alarma. AFO: "La brasa está entera. ¿Fuiste tú?"
