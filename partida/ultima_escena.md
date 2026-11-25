@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1265)
-vamos
-
-## RESPUESTA 1 (T1265)
-
-> —Vamos.
-
-Touka no dice nada. Se te acerca y te agarra la manga del sobretodo, igual que las otras veces. Pero esta vez no con dos dedos. Con toda la mano.
-
-Desde la barra, Yoshimura los ve. No dice nada. Solo asiente, despacio.
-
-Kase se acomoda en tu cuello.
-
-El salón desaparece.
-
-Viento.
-
-Viento frío, salado, que viene del mar y huele a óxido, a aceite de motor y a agua quieta. La azotea es ancha, de cemento agrietado, con charcos de lluvia vieja y un tanque de agua oxidado en una esquina. Abajo, en todas direcciones, depósitos con los techos hundidos, grúas apagadas, contenedores apilados. Más allá, la bahía, negra, con las luces de la ciudad temblando en el agua.
-
-En el borde de la azotea, de espaldas a ustedes, hay un muchacho sentado.
-
-Tiene las piernas colgando hacia el vacío, diez pisos más abajo. El pelo negro, revuelto por el viento. Una campera negra con capucha, demasiado grande para él. Al lado, sobre el cemento, una máscara negra con dos orejas de conejo largas.
-
-Tu instinto lo tasa sin que lo pidas.
-
-```
-╔════════════════════════════════════════╗
-║ AYATO KIRISHIMA                        ║
-║ Ghoul · Aogiri · "Conejo Negro" (CCG)  ║
-║ PODER: Kagune ukaku (dos alas),        ║
-║        disparo de cristales, velocidad ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: muy inferior      ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-```
-
-Se pone tenso antes de darse vuelta. Huele algo. Lo ves en los hombros, en cómo se le endurece la espalda debajo de la campera.
-
-Se levanta de un salto, girando en el aire, y cae parado sobre el borde, de frente a ustedes, con el vacío detrás. De la espalda le estallan dos alas de un violeta oscuro, eléctricas, que zumban en el viento.
-
-Tiene la cara de la foto. Más larga, más flaca, más dura. La misma boca. Los mismos ojos, ahora negros y rojos. Pero no sonríe, y no le falta ningún diente.
-
-Mira a Touka. A ti. Al gato. Otra vez a Touka. Se le desfigura la cara.
-
-—¿Touka? —La voz le sale ronca, incrédula, furiosa—. ¿Qué mierda haces aquí? —Las alas se abren más. Te clava los ojos—. ¿Y quién carajo es este?
-
-Touka te suelta la manga.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1265 · TOKYO GHOUL · DÍA 7 · 21:10     ║
-║ Bahía · azotea de la base de Aogiri          ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: Touka y Ayato                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1266)
+## COMANDO 1 (T1266)
 miro
 
-## RESPUESTA 2 (T1266)
+## RESPUESTA 1 (T1266)
 
 > miro
 
@@ -135,10 +69,10 @@ Se queda parada, de frente, con la media tostada todavía en la mano.
 
 ---
 
-## COMANDO 3 (T1267)
+## COMANDO 2 (T1267)
 lo detengo con un solo brazo a todos, tienes razon, alguien que ataca a su propia familia no merece llamarse hermano de nadie
 
-## RESPUESTA 3 (T1267)
+## RESPUESTA 2 (T1267)
 
 > lo detengo con un solo brazo, a todos
 
@@ -193,7 +127,55 @@ El de la capa roja se detiene. Mira a Ayato en el borde. Mira a Touka. Te mira a
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1268)
+Me llamo eclipse, me conocen como el panadero
+
+## RESPUESTA 3 (T1268)
+
+> —Me llamo Eclipse. Me conocen como el Panadero.
+
+Entre las capas oscuras se corre un murmullo. Corto. Alguien le dice algo al oído al de al lado. Otro da medio paso atrás sin darse cuenta.
+
+En el borde de la azotea, Ayato se queda quieto. Las alas, que titilaban, se le apagan del todo.
+
+—¿El Panadero? —repite, y por primera vez la voz no le sale con rabia, sino con algo parecido al desconcierto—. ¿El de los callejones del 20? ¿El que...? —Mira a Touka. Mira la media tostada que ella todavía tiene en la mano—. Mierda.
+
+El de la capa roja no reacciona. Ni siquiera parpadea. Te mira de arriba abajo, despacio: el pelo blanco y azul, los ojos de dos colores, los tatuajes del cuello, el gato.
+
+—El Panadero —repite, sin ningún tono—. Ojos de dos colores. Un gato en el hombro. Quita el hambre con la mano.
+
+No es una pregunta.
+
+—Esta noche, todos los ghouls de Tokio hablan de ti. De que la CCG se retiró del 20 sin llevarse al Búho. De que hay gente comiendo pan en los callejones como si fueran humanos. —Los ojos fríos no se apartan de tu cara—. Algunos de los nuestros ya preguntaron si es verdad. Si vale la pena ir a ver.
+
+Hace una pausa.
+
+—Y ahora apareces en mi azotea, delante de mis hombres, con la hermana de uno de los míos.
+
+Levanta apenas una mano. La docena de capas oscuras da un paso adelante al mismo tiempo y cierra el semicírculo. En la puerta, el enorme de la máscara de tela gira hacia ti la cabeza sin rasgos, despacio, con un crujido de cuello.
+
+—Aogiri no necesita pan, Eclipse —dice el de la capa roja—. Necesita dientes. —Inclina la cabeza, apenas—. Llévate a la chica y vete. Ayato se queda.
+
+Detrás de ti, Touka aprieta la media tostada en el puño hasta deshacerla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1268 · TOKYO GHOUL · DÍA 7 · 21:14     ║
+║ Bahía · azotea de la base de Aogiri          ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: Touka y Ayato                      ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:13, azotea de Aogiri. Facundo detuvo los cristales. Llegaron una docena de Aogiri, el de capa roja y el enorme enmascarado. Capa roja pregunta quiénes son. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:14, azotea de Aogiri. El de capa roja reconoce al Panadero y ordena: "Llévate a la chica y vete. Ayato se queda." Facundo puede responder.
