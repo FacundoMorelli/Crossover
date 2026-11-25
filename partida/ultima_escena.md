@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1109)
-los encontre, les digo todo
-
-## RESPUESTA 1 (T1109)
-
-> los encontre, les digo todo
-
-Les dices que los encontraste, y les cuentas todo: las dos presencias peleando en las montañas del noroeste, la colosal y la que pudre lo que toca; el puñado escondido cerca, el que arde, la que se ríe, el que está partido en muchos; la ciudad del sur que se mueve como un ejército, con una presencia como una torre en el centro; los muñecos cosidos y dormidos debajo de un hospital, y el viejo que los cuida. Y el agujero, enterrado muy abajo, que se dio vuelta hacia la enfermería.
-
-Cuando terminas, nadie habla durante un rato largo.
-
-All Might es el primero en moverse. Se levanta de la silla de golpe, demasiado rápido para su cuerpo, y tiene que apoyarse en la consola. Tiene la cara blanca.
-
-—Se dio vuelta —dice, casi sin voz—. Hacia el joven Midoriya. Hacia la enfermería.
-
-—No sabemos si lo sintió, Toshinori —dice Nezu desde la pantalla, suave.
-
-—Lo sintió. —All Might aprieta la consola con los dedos huesudos—. Hoy despertó algo nuevo en ese chico. Algo que viene de... de lo que le di. Y él siempre lo supo. Desde el principio. —Se le quiebra la voz—. Ese hombre está enterrado a quinientos metros, encadenado, con máquinas que lo mantienen vivo. Y aun así...
-
-Aizawa se pone de pie. Le apoya una mano en el hombro a All Might, sin decir nada.
-
-Después se vuelve hacia ti.
-
-—Un ejército que finge ser una ciudad —dice, despacio—. ¿Decenas de miles?
-
-—Eso no está en ningún informe —murmura Nezu. Ya no sonríe. Tiene los ojitos negros fijos en algún punto lejos de la cámara, moviéndose rápido, como si leyera algo que nadie más ve—. Ni la Comisión, ni la policía, ni nuestros contactos. Nadie sabe que existe algo así. Y los Nomu... debajo de un hospital. —Se queda callado un segundo—. Una fábrica.
-
-Junta las patitas. Cuando vuelve a hablar, la voz aguda suena firme, decidida, como un general.
-
-—Señor Morelli. Lo que usted acaba de hacer en dos minutos, con los ojos cerrados, es lo que el país entero no consiguió en cuatro meses. —Respira hondo—. Esto ya no es un asunto de la U.A. Es de la Comisión de Seguridad Pública. Del héroe número uno. Del número dos.
-
-Teclea algo fuera de la cámara. En otra de las pantallas de la sala aparece un mapa enorme de Japón, con montañas, ríos, ciudades y prefecturas.
-
-—Necesito que me marque los lugares —dice—. Las montañas. La ciudad. El hospital. Lo más exacto que pueda. —Una pausa—. Y después voy a hacer una llamada muy larga, a gente muy importante, que no me va a creer.
-
-Te mira por la cámara.
-
-—¿Puede marcarlos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1109 · BOKU NO HERO · DIC. · 11:42     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Marcar el mapa                     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1110)
+## COMANDO 1 (T1110)
 sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
 
-## RESPUESTA 2 (T1110)
+## RESPUESTA 1 (T1110)
 
 > sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
 
@@ -121,10 +64,10 @@ En la pantalla, Nezu dejó de teclear.
 
 ---
 
-## COMANDO 3 (T1111)
+## COMANDO 2 (T1111)
 permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
 
-## RESPUESTA 3 (T1111)
+## RESPUESTA 2 (T1111)
 
 > permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
 
@@ -188,4 +131,63 @@ Se lleva una mano gigante al pecho, donde la brasa dorada sigue ardiendo, quieta
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:48, sala de monitoreo. Facundo curó a All Might con la Transfiguración Ociosa y le restauró entera la brasa de One For All: All Might vuelve a su forma musculosa. Aizawa y Nezu, atónitos. All Might pregunta qué le hizo. Facundo puede responder.
+## COMANDO 3 (T1112)
+tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
+
+## RESPUESTA 3 (T1112)
+
+> tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
+
+> —Tenías una pizca todavía. Te la recuperé y la dejé como estaba. Bueno, ahora se estarán preguntando qué es esta habilidad, y les voy a ser sincero a ustedes: no vengo de este mundo. Muchas de mis habilidades son de distintos mundos. Soy viajero, sí, pero de mundos. Voy a cada mundo con una misión.
+
+Nadie dice nada.
+
+El vapor de la transformación de All Might sigue flotando en el aire de la sala, iluminado por las pantallas. Se escucha el zumbido de los equipos, nada más.
+
+Aizawa levanta la silla del piso. La pone derecha. Se sienta. Se frota la cara con las dos manos, despacio, durante un rato largo.
+
+—Otros mundos —dice al fin, con la voz apagada detrás de las manos—. Claro. Por qué no.
+
+Baja las manos. Te mira.
+
+—Explicaría por qué no existes en ningún registro. Por qué mi Don no te borra nada. Por qué tienes tres, cuatro, cinco poderes que no tienen nada que ver entre sí. —Suspira—. Es la explicación más absurda que escuché en mi vida, y es la única que cierra.
+
+All Might no se mueve. Está de pie, enorme, con el traje roto, mirándote desde arriba. Tiene los ojos brillantes y todavía le caen lágrimas.
+
+—Otro mundo —repite, en voz baja, la voz enorme convertida en un murmullo—. Viniste de otro mundo... y lo primero que hiciste fue detener un robo en un banco. —Se le escapa una risa, temblorosa, que sacude el pecho enorme—. Y después salvaste al joven Midoriya. Y después me devolviste... —Se toca el pecho—. Esto.
+
+Se arrodilla delante de ti para quedar a tu altura. Aun arrodillado, te pasa por una cabeza.
+
+—Te creo, joven Morelli. —Sonríe, con las lágrimas metidas en la sonrisa—. No sé si es verdad, pero te creo.
+
+En la pantalla, Nezu se limpia el té derramado del escritorio con un pañuelo, despacio, sin apuro. Cuando termina, dobla el pañuelo. Lo deja a un lado. Vuelve a juntar las patitas.
+
+—Fascinante —dice, muy bajito—. Absolutamente fascinante.
+
+Te mira por la cámara, con los ojitos negros brillando como nunca.
+
+—No voy a preguntarle cómo funciona, ni de dónde viene, ni cuántos mundos hay. Tengo muchas preguntas y ninguna es urgente. —Sonríe—. Pero hay una sola que sí me importa, como director de esta escuela.
+
+Inclina la cabeza.
+
+—Dijo que va a cada mundo con una misión. —Hace una pausa—. ¿Cuál es la de este?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1112 · BOKU NO HERO · DIC. · 11:51     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:51, sala de monitoreo. Facundo les reveló a All Might, Aizawa y Nezu que viene de otro mundo y que va a cada mundo con una misión. All Might le cree; Aizawa lo acepta; Nezu pregunta cuál es la misión de este mundo. Facundo puede responder.

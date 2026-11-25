@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: cauteloso, lo acepta a su manera (T1098).
 ENCUENTROS:
 - T1096 · Diciembre 10:55 · Sala de monitoreo del Campo Gamma: All Might trae a Facundo.
 DIÁLOGOS CLAVE:
+- T1112 · "Otros mundos. Claro. Por qué no." "Es la explicación más absurda que escuché en mi vida, y es la única que cierra."
 - T1109 · "Un ejército que finge ser una ciudad. ¿Decenas de miles?" (le apoya una mano en el hombro a All Might)
 - T1107 · "Si puedes sentir dónde está Shigaraki, puedes sentir dónde está cualquiera. Un alumno. Un profesor. Yo. Eso es algo que no le diría a nadie más, si fuera tú."
 - T1106 · "Ir y derrotarlos. Así como así." "Hay dos problemas. Uno es la ley: vigilantismo, esta vez contra la Liga. El otro: no sabemos dónde están."
@@ -19,6 +20,6 @@ DIÁLOGOS CLAVE:
 - T1098 · "Te estaba mirando. No parpadeé." "A ti no te apagué nada. No sentí nada. Como si mirara una pared." "Eso no es un Don. O es un Don que no se parece a ninguno que haya visto." "Si algún día pierdes el control, no hay nadie en esta escuela que pueda pararte. Ni yo. Y si alguien viene a lastimar a mis alumnos, nadie va a poder pararte a ti. Eso último me gusta un poco más."
 - T1097 · "¿Consultor de seguridad? ¿Desde cuándo tenemos un consultor de seguridad?" "Por supuesto que lo nombró el director." "Si vas a estar cerca de mis alumnos, quiero saber exactamente qué puedes hacer." "Este es mi Don. Borrar. Mientras te mire, no puedes usar el tuyo. Ahora, teletranspórtate."
 - T1096 · "Así que este es el chico del video del banco. Vigilantismo con treinta mil reproducciones." "All Might. Por favor, dígame que no es un alumno nuevo."
-QUÉ SABE DE FACUNDO: el video del banco; lo ve en persona (T1096).
+QUÉ SABE DE FACUNDO: el video del banco; lo ve en persona (T1096).; que viene de otro mundo y va a cada mundo con una misión (T1112, él lo dijo).
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: En la sala de monitoreo, con un jugo y los pies en la consola.

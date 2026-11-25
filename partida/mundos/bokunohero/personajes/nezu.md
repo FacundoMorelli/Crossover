@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1112 · "Fascinante. Absolutamente fascinante." "No voy a preguntarle cómo funciona, ni de dónde viene, ni cuántos mundos hay." "Dijo que va a cada mundo con una misión. ¿Cuál es la de este?"
 - T1110 · "Deika. Ciudad de ciento quince mil habitantes. Cero incidentes de villanos en los últimos veinte años. Demasiado perfecta."
 - T1109 · "Lo que usted acaba de hacer en dos minutos, con los ojos cerrados, es lo que el país entero no consiguió en cuatro meses. Esto ya no es un asunto de la U.A. Es de la Comisión. Del héroe número uno. Del número dos." "Necesito que me marque los lugares. ¿Puede marcarlos?"
 - T1107 · "¡Ah! ¡Lo sabía!" "Esta conversación no existe." "Sí, quiero que los busque. Pero solo eso. No vaya. No los toque." "Si sabemos dónde están, yo puedo mover las piezas correctas. Una operación legal. Y usted ahí, en el lugar justo." "Búsquelos. Ahora, si puede. Y dígame qué siente."
@@ -17,6 +18,6 @@ DIÁLOGOS CLAVE:
 - T1104 · "¡Qué mañana más entretenida! Lo vi todo. Primer día de trabajo y ya salvó a dos alumnos. Me encanta cuando mis cálculos salen bien."
 - T1096 · "¡Espléndido! Ya tenía los papeles empezados. Toshinori tarda veinte minutos en subir la colina. Yo pienso más rápido." "Consultor de seguridad externo. Cuarto en el edificio de profesores. Me cae bien el gato." "Sus Dones, en el campus, solo en emergencias. Fuera, solo con mi permiso o el de un héroe profesional presente." "Bienvenido a la U.A., señor Morelli." "Quiero que los profesores lo vean. Sobre todo Aizawa."
 - T1095 · "¿Ratón? ¿Perro? ¿Oso? ¡Nada de eso! ¡Soy el director! Nezu, para servirle." "El gato es muy fotogénico." "Interesante. Muy interesante." "La U.A. puede conseguirle un registro, un documento y una licencia temporal especial. A cambio de una sola cosa: que, mientras esté en Japón, trabaje para nosotros. Protegiendo esta escuela."
-QUÉ SABE DE FACUNDO: ver conocimiento.md (T1095).
+QUÉ SABE DE FACUNDO: ver conocimiento.md (T1095).; que viene de otro mundo y va a cada mundo con una misión (T1112, él lo dijo).
 QUÉ PODERES DE FACUNDO VIO: ninguno (el video).
 ESTADO: en su oficina.
