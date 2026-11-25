@@ -1277,3 +1277,4 @@ T1275 · TG · Anteiku · "No sé cuándo vuelvo." Touka: decidirá ella lo de s
 T1276 · TG · Anteiku · Despedidas. Kaneki: "No voy a comer carne humana." Yoshimura: "Vuelva cuando quiera. El café va a estar caliente."
 T1277 · TG → Black Clover · Puerta en el salón de Anteiku. Black Clover ~90 días después: base de los Toros medio destruida; Rades y No.0 contra Gauche, Gordon y Grey. Gauche: "¡¿Tú?!"
 T1278 · BC · Base · "Volví. ¿Qué pasó?" Gauche: "¡Tres meses!" Resumen. Rades manda a No.0 contra Facundo.
+T1279 · BC · Base · Le clava la cabeza a No.0 contra el piso (+150 F, +400 EXP). Rades furioso. Alguien salta entre puertas hacia el cuarto de Asta.

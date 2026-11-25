@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1276)
-nos vemos chicos, kaneki cuidate y no coman carne humana
-
-## RESPUESTA 1 (T1276)
-
-> —Nos vemos, chicos. Kaneki, cuídate. Y no coman carne humana.
-
-—¡Ja! —Koma se golpea el pecho con el puño—. ¡Con lo que cuesta el arroz, Panadero, no prometo nada!
-
-Irimi le pega en la nuca. Koma se calla, se frota la cabeza, y después se ríe igual.
-
-Kaneki da un paso adelante. Saca las manos de los bolsillos. Se queda un segundo sin saber qué hacer con ellas. Después hace una reverencia, profunda, hasta la cintura, como la de la plaza, pero ya no torpe.
-
-—Gracias, Facundo-san. —Se endereza. Tiene los ojos firmes—. Por la mansión. Por Shinohara-san. Por la manzana. Por el 24. —Traga saliva—. Me voy a cuidar. Y voy a cuidarlos a ellos. Con lo que me enseñaste.
-
-Se le escapa una sonrisa chica, la primera de verdad que le viste en toda la semana.
-
-—Y no voy a comer carne humana. Ya no tengo por qué.
-
-Nishiki, desde la pileta, levanta un plato enjabonado a modo de saludo.
-
-—Lo de la deuda va en serio, eh —dice—. Algún día te la cobro. O te la pago. No sé cómo va eso.
-
-Hinami no dice nada. Sigue con la muñeca contra el pecho y los ojos mojados, mirando la grulla de papel en tu mano.
-
-Touka se cruzó de brazos otra vez. Mira para otro lado. No dice nada. Pero no se va.
-
-Yoshimura sale de detrás de la barra. Es la primera vez que lo ves salir de ahí sin una taza o un repasador en la mano. Se para delante de ti. Se saca los lentes, los dobla y los guarda en el bolsillo del chaleco, al lado del botón.
-
-Hace una reverencia. Lenta. Larga. Más larga que la de Kaneki.
-
-Cuando se endereza, sonríe.
-
-—Vuelva cuando quiera, Morelli-san. Una semana, tres meses o diez años. —Se pone otra vez los lentes—. El café va a estar caliente.
-
-Kase salta del taburete a tu hombro y se acomoda en tu cuello, con la cola enroscada.
-
-El salón queda en silencio. Todos te miran. Nadie se mueve hacia la puerta. Esperan a ver cómo te vas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1276 · TOKYO GHOUL · DÍA 7 · 21:30     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: despedirse de Anteiku              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1277)
+## COMANDO 1 (T1277)
 me voy a black clover
 
-## RESPUESTA 2 (T1277)
+## RESPUESTA 1 (T1277)
 
 > me voy a Black Clover
 
@@ -137,10 +81,10 @@ A Gauche se le cae la mandíbula.
 
 ---
 
-## COMANDO 3 (T1278)
+## COMANDO 2 (T1278)
 hola chicos, volvi, que paso?
 
-## RESPUESTA 3 (T1278)
+## RESPUESTA 2 (T1278)
 
 > —Hola, chicos. Volví. ¿Qué pasó?
 
@@ -183,7 +127,63 @@ Detrás de la piedra, Grey grita algo que nadie entiende.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1279)
+le clavo la cabeza contra el piso
+
+## RESPUESTA 3 (T1279)
+
+> le clavo la cabeza contra el piso
+
+No.0 no llega a disparar.
+
+Las cuatro magias todavía se están juntando en sus palmas cuando ya estás arriba de él, en el aire, a la altura de la boca que tiene donde debería estar la cara. Le agarras la cabeza con una mano. Toda la cabeza, como quien agarra una pelota.
+
+Y bajas.
+
+El golpe hace temblar la explanada entera. El patio se hunde en un cráter de tres metros alrededor de la cabeza de No.0, que queda enterrada en la tierra hasta los hombros. Las piedras de los escombros saltan por el aire. Las cuatro magias se le deshacen en las palmas: el fuego se apaga, el viento se dispersa, el agua negra salpica el pasto y se evapora, el rayo chisporrotea y muere. Los cuatro brazos tiemblan una vez, en el aire, y caen.
+
+El ojo del pecho se cierra.
+
+No.0 no se mueve más.
+
+Te enderezas. Te sacudes la tierra de la mano contra el sobretodo. Kase, que no se movió de tu cuello, se lame una pata con indiferencia.
+
+[Rival vencido: No.0. +150 Fragmentos.]
+
+[+400 EXP.]
+
+Silencio en el patio. El humo sigue saliendo por las ventanas. Una viga cae en algún lugar adentro del edificio.
+
+Gauche se quedó con la mano levantada y los espejos flotando a medio armar. Gordon, detrás de su barrera rota, abre la boca y murmura algo que, por una vez, se entiende:
+
+—...ah.
+
+Grey asoma la cabeza por encima de la piedra. Tiene forma de Gauche, después de Gordon, después de nadie, de los nervios.
+
+Sobre los escombros, el muchacho de la costura en la cara da un paso atrás. Se le borró la sonrisa por completo. Mira el cráter. Mira a No.0, enterrado de cabeza. Te mira a ti.
+
+—Ese... —La voz le tiembla de rabia—. ¡Ese era mi obra maestra! ¡Dos capitanes! ¡Me llevó meses coserlo!
+
+Y en ese momento lo sientes. Adentro de la base, en el segundo piso, entre el humo, una presencia que no estaba hace un segundo. Aparece, desaparece, aparece otra vez un poco más lejos, como alguien que salta entre puertas. Se mueve rápido, de cuarto en cuarto. Hacia el ala de los dormitorios. Hacia el cuarto de Asta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1279 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · patio · 12:11     ║
+║ NIVEL 29 · EXP 290.630/320.000               ║
+║ FRAGMENTOS 110.052 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:11, base de los Toros Negros. Gauche resumió lo que pasó. Rades manda a No.0 a atacar a Facundo con cuatro magias a la vez. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:11, patio de la base. No.0 enterrado e inmóvil. Rades furioso. Facundo siente a alguien saltando entre puertas adentro, hacia el cuarto de Asta. Facundo puede actuar.

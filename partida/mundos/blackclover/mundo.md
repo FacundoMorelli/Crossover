@@ -10,3 +10,4 @@ DON DE MUNDO: Grimorio del Firmamento (ver sistema.json).
 
 - T489 · Facundo se va de Black Clover por una puerta, frente a los Toros Negros. Promete volver en unos días.
 - T1277 · Facundo vuelve ~90 días después. La base de los Toros Negros está medio destruida: Rades (Ojo del Sol de Medianoche) ataca con No.0 (dos cuerpos cosidos, cuatro brazos) a Gauche, Gordon y Grey (canon c138-142).
+- T1279 · No.0 destruido por Facundo (canon: lo vencen Henry y los Toros con la base-toro).

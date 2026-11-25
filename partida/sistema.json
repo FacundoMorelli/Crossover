@@ -1,13 +1,13 @@
 {
-  "turno": 1278,
+  "turno": 1279,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
   "hora": "12:11",
   "edad": 18,
   "nivel": 29,
-  "exp": 290230,
+  "exp": 290630,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 109902,
+  "fragmentos": 110052,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1961,6 +1961,14 @@
       "como": "Haki del Rey selectivo (rayos azules y blancos); inconscientes, vivos.",
       "fragmentos": 46,
       "exp": 300
+    },
+    {
+      "nombre": "No.0 (Michael Caesal; dos ex capitanes cosidos por Rades)",
+      "mundo": "blackclover",
+      "turno": "T1279",
+      "como": "Le clava la cabeza contra el piso del patio; cráter de 3 m; queda inmóvil.",
+      "fragmentos": 150,
+      "exp": 400
     }
   ],
   "viaje": {

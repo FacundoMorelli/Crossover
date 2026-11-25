@@ -31,3 +31,5 @@
 - Rades · T1277 · todavía no lo vio (está mirando la pelea).
 - Facundo · T1278 · por Gauche: Asta, Noelle y Luck fueron con los Caballeros Reales a la base del Ojo; Yami en la capital; Magna y Vanessa de misión; Charmy durmiendo; el ataque empezó hace 10 minutos. Facundo se fue hace tres meses.
 - Rades · T1278 · vio a Facundo (pelo, gato, la línea de luz cerrándose).
+- Gauche, Gordon, Grey, Rades · T1279 · vieron a Facundo enterrar a No.0 de cabeza en el piso con una mano.
+- Facundo · T1279 · (ki) presencia que salta entre puertas dentro de la base, hacia el cuarto de Asta. Por Rades: No.0 está hecho de dos capitanes.

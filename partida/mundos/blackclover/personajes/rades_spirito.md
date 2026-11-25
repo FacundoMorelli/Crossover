@@ -5,6 +5,7 @@ PODER VISTO POR FACUNDO: Controla a "No.0": dos cuerpos cosidos en uno, gigante,
 ENCUENTROS:
 - T1277 · Base de los Toros Negros · Sobre una pila de escombros, dirige a No.0.
 DIÁLOGOS CLAVE:
+- T1279 · "¡Ese era mi obra maestra! ¡Dos capitanes! ¡Me llevó meses coserlo!"
 - T1278 · "¿Y tú quién eres? ¿Otro fracasado de los Toros?" "Dale, No.0. Empecemos por el nuevo."
 - T1277 · "¡Vamos, No.0! ¡Termina con esos fracasados y vamos por el cuarto del enano antimagia!"
 ESTADO: Atacando la base.
