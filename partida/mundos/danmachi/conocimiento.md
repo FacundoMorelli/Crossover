@@ -41,3 +41,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Loki, Finn, Riveria, Gareth y la Familia Loki · T1082 · Facundo dijo que los monstruos "ya están en su casa" (Loki: verdad). Finn deduce que volvieron a la Mazmorra pese a los accesos cerrados, en 20 minutos, sin ser vistos: lo considera un problema.
 - Loki · T1083 · no le siente aura ni Falna (Velo); Bete tampoco le sintió olor. Supone que con esa fuerza debe tener Falna.
 - Loki, Finn, Riveria · T1084 · Facundo no es de ninguna Familia; viajero (Loki: verdad, "ningún dios"). Lo consideran "imposible": fuerza de primera clase sin Falna.
+- Loki, Finn, Riveria · T1085 · Facundo prefiere seguir sin Familia; viaja y casi nunca se queda mucho en un lugar (Loki: verdad).

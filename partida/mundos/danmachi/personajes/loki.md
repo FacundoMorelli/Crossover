@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: curiosidad, simpatía (T1082).
 ENCUENTROS:
 - T1080 · Noche 2 00:45 · Mansión del Crepúsculo: Facundo aparece en el portón.
 DIÁLOGOS CLAVE:
+- T1085 · "Verdad, verdad, verdad. Ay, qué cruel eres, guapo. Rompiste el corazón de mamá Loki. Pero me gustas igual. Por los viajeros que no se quedan."
 - T1084 · "Verdad. Ninguna Familia. Ningún dios." "Mil años bajé a este mundo, y ahora viene un chico con un gato y me dice la verdad más imposible que oí." "Tengo una Falna esperando para ti. ¿Quieres ser de los míos?"
 - T1083 · "Vino de Soma. Del bueno, del que no vuelve loco a nadie. Bueno, casi." "No te siento nada de aura. Y yo, que soy una diosa, tampoco te huelo la Falna. ¿De qué Familia eres? ¿Quién es el dios que te bendijo?"
 - T1082 · "Verdad. Limpia como el agua, Finn." "Mira nada más. Ese gato me está juzgando." "Ya que viniste hasta mi casa a la una de la mañana a decirle la verdad a una diosa en la cara, por lo menos entra y tómate algo con mamá Loki. Tengo muchas preguntas. Y Finn tiene más."

@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1082)
-ya están en su casa
-
-## RESPUESTA 1 (T1082)
-
-> ya están en su casa
-
-> —Ya están en su casa.
-
-Finn no se mueve. No mira hacia atrás. Espera.
-
-En el balcón, Loki inclina la cabeza, como si escuchara una música que solo ella oye. Después silba, largo, bajito.
-
-—Verdad —dice—. Limpia como el agua, Finn.
-
-Un murmullo recorre el patio. Los treinta aventureros se miran entre ellos. Alguien baja la espada sin darse cuenta.
-
-—En su casa —repite Finn, despacio. Los ojos azules se le mueven apenas, como si recorriera un mapa en la cabeza—. La Mazmorra. —Una pausa—. Todos los accesos a la Mazmorra están cerrados desde ayer. Babel, Knossos, las entradas de Dédalo. Tenemos gente en cada uno. —Te mira—. Y aun así, en veinte minutos, sin que nadie los viera, todos.
-
-No es una pregunta. Lo dice como un general que lee el informe de una batalla que perdió sin enterarse de que la estaba peleando.
-
-Riveria da un paso al lado de Finn.
-
-—Si de verdad volvieron a la Mazmorra —dice, con la voz baja, seria—, la ciudad está a salvo. Se terminó. —Mira a Finn de reojo—. Eso era lo que queríamos.
-
-—Eso era lo que queríamos —asiente Finn. Después te vuelve a mirar, y la voz se le enfría un grado más—. Lo que no queríamos era que alguien, sin Familia, sin registro, sin nombre, entrara en Orario, golpeara a seis de los nuestros y moviera a veinte monstruos debajo de nuestras narices como si fueran piezas de ajedrez. —El pulgar le late otra vez—. Eso, en esta ciudad, también es un problema.
-
-—¡Ay, Finn, qué aburrido eres! —Loki se sube a la baranda del balcón, de pie, haciendo equilibrio como una nena traviesa, y salta.
-
-Cae en el patio, entre los aventureros, con una facilidad que no tiene nada de mortal. Se acomoda la cola de pelo rojo. Camina hasta el portón, con las manos en la espalda, y se para al lado de Finn, mirándote de cerca a través de los barrotes. Los ojos rojos te recorren entero, de los pies a la cabeza, despacio, y se detienen en Kase, que le devuelve la mirada sin pestañear.
-
-—Mira nada más —murmura, con una sonrisa enorme—. Ese gato me está juzgando.
-
-Levanta la vista hacia ti.
-
-—Bueno, guapo. —Le hace una seña a un guardia, que abre el portón con un chirrido—. Ya que viniste hasta mi casa a la una de la mañana a decirle la verdad a una diosa en la cara, por lo menos entra y tómate algo con mamá Loki. —Se ríe—. Tengo muchas preguntas. Y Finn tiene más.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1082 · DANMACHI · NOCHE 2 · 00:48      ║
-║ Orario · portón de la Mansión del Crepúsculo ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La Familia Loki                    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1083)
+## COMANDO 1 (T1083)
 entro y me tomo algo con loki
 
-## RESPUESTA 2 (T1083)
+## RESPUESTA 1 (T1083)
 
 > entro y me tomo algo con loki
 
@@ -107,10 +53,10 @@ Se inclina hacia adelante.
 
 ---
 
-## COMANDO 3 (T1084)
+## COMANDO 2 (T1084)
 de ninguna familia, soy un viajero
 
-## RESPUESTA 3 (T1084)
+## RESPUESTA 2 (T1084)
 
 > de ninguna familia, soy un viajero
 
@@ -161,4 +107,60 @@ Kase, en el sillón de al lado, aprovecha que nadie lo mira y se roba un pedazo 
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:54, sala de Loki. Loki confirmó que no tiene Familia ni dios; Riveria dice que es imposible. Finn preguntó cuánto se queda; Loki le ofrece unirse a la Familia Loki con la mano tendida. Facundo puede responder.
+## COMANDO 3 (T1085)
+no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
+
+## RESPUESTA 3 (T1085)
+
+> no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
+
+> —No. Prefiero seguir sin Familia. Soy de viajar. Casi nunca me quedo mucho en un lugar.
+
+Loki se queda con la mano en el aire.
+
+Después la baja, despacio, y se deja caer otra vez en el sillón con un suspiro larguísimo, dramático, con el brazo sobre los ojos.
+
+—Verdad, verdad, verdad. —Se queja hacia el techo—. Ay, qué cruel eres, guapo. Rompiste el corazón de mamá Loki.
+
+Se destapa un ojo. Te mira. Sonríe.
+
+—Pero me gustas igual.
+
+Se sirve otro vaso. Lo levanta hacia ti.
+
+—Por los viajeros que no se quedan.
+
+Riveria suspira junto a la chimenea, con una mano en la frente. Pero algo se le aflojó en la cara.
+
+Finn no levanta ningún vaso. Se queda mirándote un momento largo, en silencio, con las manos sobre las rodillas. El pulgar ya no le late.
+
+—Entonces voy a ser directo —dice al fin—. No te voy a pedir que te disculpes por Bete. Él empezó, estoy seguro, y a lo mejor le hacía falta. Tampoco te voy a pedir que me digas cómo hiciste lo que hiciste. —Una pausa—. La Familia Loki va a decirle al Gremio que los monstruos de Dédalo desaparecieron de la superficie. Que no hay más amenaza. Que la búsqueda terminó. Y que el humano del gato era un aventurero de paso que ya se fue de la ciudad. —Te mira—. Eso último va a ser verdad cuando te vayas, ¿no?
+
+Se inclina un poco hacia adelante.
+
+—Pero quiero saber una cosa, para poder dormir tranquilo. —La voz le baja un grado—. Si algún día esos monstruos vuelven a subir. Si atacan a alguien en esta ciudad. Si alguien muere.
+
+Los ojos azules se le endurecen.
+
+—¿Vas a volver por ellos? ¿O por nosotros?
+
+Loki deja el vaso a medio camino. Riveria no se mueve. Kase, con la boca llena de queso, deja de masticar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1085 · DANMACHI · NOCHE 2 · 00:57      ║
+║ Orario · Mansión del Crepúsculo, sala        ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sillón, con queso en la boca     ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La Familia Loki                    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:57, sala de Loki. Facundo rechazó la Falna de Loki. Finn dará la búsqueda por terminada ante el Gremio, pero pregunta: si los monstruos vuelven a subir y alguien muere, ¿volverá por ellos o por la ciudad? Facundo puede responder.
