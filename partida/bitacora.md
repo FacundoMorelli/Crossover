@@ -1218,3 +1218,4 @@ T1216 · TG · Anteiku · "Voy con usted." Yoshimura acepta. Kaneki quiere ir; Y
 T1217 · TG · Callejón · Salen. Nishiki se queda con Hinami. Yoshimura se transforma en el Búho. Koma acorralado en la avenida; su grito se corta.
 T1218 · TG · Avenida · Tres Apes muertos. Higher Mind de Tanakamaru baja el brazo sobre Koma. Facundo es el más cerca.
 T1219 · TG · Avenida 3 · Dos dedos: Higher Mind destruida, Tanakamaru inconsciente (+150 F, +400 EXP). Llega el Búho. "¡Fuego a todo lo que se mueva!"
+T1220 · TG · Avenida 3 · Haki del Rey: 26 investigadores inconscientes (+46 F, +300 EXP). Vienen Houji, Kuroiwa y Shinohara.
