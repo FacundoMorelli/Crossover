@@ -28,3 +28,4 @@
 - Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou, tres máscaras · T1162 · Facundo dijo que Kaneki le cae bien y que no va a matar a nadie: solo dejará inconscientes; lo que hagan después lo deciden ellos.
 - Facundo · T1162 · por Yoshimura: la regla de Anteiku (no matar si se puede evitar; dan de comer a los que no pueden cazar). Arriba hay dos cuartos y un sofá. Touka llega a las 7 para abrir.
 - Facundo, Tsukiyama · T1164 · por Kaneki: era humano hace meses (universidad, novelas, café con un amigo los domingos); accidente, órganos de otra persona; desde entonces hambre constante; la comida humana le da asco.
+- Kaneki, Tsukiyama · T1166 · vieron a Facundo tocar a Kaneki en el pecho y quitarle el hambre (Kaneki lo sintió por dentro; no sabe cómo). Vieron a Facundo sacar una manzana de la nada. Kaneki comió la manzana sin asco.

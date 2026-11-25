@@ -1164,3 +1164,4 @@ T1162 · TG · Anteiku · "No voy a matar a nadie, solo inconscientes." Yoshimur
 T1163 · TG · Anteiku arriba · Se queda a dormir: el sofá. Tsukiyama lee hasta el amanecer. Kaneki: "¿Puedo preguntarte algo?"
 T1164 · TG · Anteiku arriba · Kaneki cuenta que era humano y que el hambre no se va: "¿Hay una forma de dejar de tener hambre?"
 T1165 · TG · Anteiku arriba · "Acércate, Kaneki." Kaneki en cuclillas frente al sofá, espera.
+T1166 · TG · Anteiku arriba · Transfiguración Ociosa: Kaneki sin hambre de ghoul ni asco a la comida humana. Come una manzana llorando. "¿Puedes hacerlo con ellos también?"

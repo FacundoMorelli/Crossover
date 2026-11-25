@@ -8,3 +8,4 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 ## CAMBIOS POR CULPA DE FACUNDO
 - T1151 · Shinohara curado y despierto (en el canon quedaba en estado vegetativo).
 - T1156 · Kaneki vuelve a Anteiku mucho antes que en el canon, con todo su grupo.
+- T1166 · Kaneki ya no tiene hambre de ghoul ni asco a la comida humana (Transfiguración Ociosa). Conserva su kagune y lo demás. Puede comer comida normal.

@@ -15,5 +15,5 @@ DIÁLOGOS CLAVE:
 - T1155 · "La residencia de mi familia: médico privado, sábanas de seda y muros que ni el Búho podría cruzar."
 - T1154 · "¡Mi querido Kaneki!"
 QUÉ SABE DE FACUNDO: Nada. Apareció con Kaneki y los sacó de la mansión.
-QUÉ PODERES VIO: Teletransporte. Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
+QUÉ PODERES VIO: (T1166) Facundo le quitó el hambre a Kaneki con la mano; sacó una manzana de la nada. Teletransporte. Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
 ESTADO: En el acantilado, a salvo (T1154).

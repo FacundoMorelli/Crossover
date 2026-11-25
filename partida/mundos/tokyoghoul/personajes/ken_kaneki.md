@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1166 · "Se fue. Está... callado." "Es dulce. Sabe a manzana." "Hinami. Banjou-san. Los demás. ¿Puedes hacer esto con ellos también?"
 - T1164 · "Yo era humano. Hace unos meses." "Desde ese día tengo hambre. Siempre." "¿Cómo lo haces? ¿Hay una forma de... dejar de tener hambre?"
 - T1163 · "¿Puedo... preguntarte algo?"
 - T1162 · "Te caí bien." "Yo no quiero matar a nadie más. Ya no sé cuántas veces dije eso."
@@ -27,4 +28,4 @@ DIÁLOGOS CLAVE:
 - T1148 · "No. Uno más no. No quiero... no quiero comer más..."
 QUÉ SABE DE FACUNDO: Le preguntó su nombre (T1149); salvó a Shinohara; quiere llevarlo a un lugar seguro (T1153).
 QUÉ PODERES VIO: La aparición; la curación de Shinohara (T1151). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
-ESTADO: En el acantilado con su grupo, a salvo (T1154).
+ESTADO: En Anteiku. SIN HAMBRE DE GHOUL y sin asco a la comida humana (T1166, Transfiguración Ociosa); conserva el kagune.

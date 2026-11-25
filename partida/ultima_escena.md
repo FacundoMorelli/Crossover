@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1163)
-si esta bien, gracias
-
-## RESPUESTA 1 (T1163)
-
-> —Sí, está bien. Gracias.
-
-Yoshimura asiente, como si no hubiera esperado otra respuesta.
-
-Apaga la cafetera, baja la luz de la barra y deja encendida solo una lámpara chica junto a la caja. Después abre una puerta angosta al costado del mostrador. Detrás hay una escalera de madera, empinada, que cruje con cada paso.
-
-Kase salta de la barra a tu hombro antes de que te levantes.
-
-Arriba huele a madera vieja y a jabón. Hay un pasillo corto con dos puertas, un baño chico al fondo y una sala con un sofá largo de tela verde gastada, una mesa baja, una estantería llena de libros y una ventana con cortinas gruesas, cerradas.
-
-Yoshimura reparte sin discutir. Hinami, al cuarto de la izquierda, el más chico, con una cama y una muñeca de tela sobre la almohada que parece haber estado esperándola. Banjou y los tres de las máscaras, al de la derecha, con dos colchones en el piso. Banjou se deja caer sobre uno con un gemido y ya no se mueve.
-
-Tsukiyama se asoma al cuarto, ve los colchones y retrocede un paso, con una mano en la boca.
-
-—Esperaré el amanecer en la sala, leyendo —anuncia—. Y luego, con todo respeto, me retiraré a mi residencia. Mi cuerpo no fue hecho para el piso.
-
-Se lleva un libro de la estantería sin preguntar y se acomoda en una silla junto a la ventana.
-
-Yoshimura saca de un armario una manta gruesa de lana, gris, y una almohada, y te las da a ti.
-
-—El sofá es suyo. Es más cómodo de lo que parece. —Mira a Kase un segundo—. Y él también es bienvenido. Hay leche en la heladera de abajo, si la quiere.
-
-Kase lo ignora con mucha dignidad.
-
-—Buenas noches. —Yoshimura inclina apenas la cabeza y baja la escalera despacio. Los crujidos se van apagando hasta que no queda ninguno.
-
-Dejas la manta sobre el sofá. Kase baja de tu hombro, da tres vueltas sobre la almohada y se echa en el medio, como si la hubieran traído para él.
-
-En la puerta de la sala, Kaneki no se fue a ningún lado. Está apoyado en el marco, con los brazos cruzados y la ropa negra todavía destrozada, mirando el piso.
-
-—¿Puedo... preguntarte algo? —dice en voz baja, para no despertar a Hinami.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1163 · TOKYO GHOUL · NOCHE · 00:24     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: sobre la almohada del sofá             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1164)
+## COMANDO 1 (T1164)
 si
 
-## RESPUESTA 2 (T1164)
+## RESPUESTA 1 (T1164)
 
 > —Sí.
 
@@ -99,10 +45,10 @@ Kase, sobre la almohada, abre un ojo, el rojo, y lo mira.
 
 ---
 
-## COMANDO 3 (T1165)
+## COMANDO 2 (T1165)
 acercate kaneki
 
-## RESPUESTA 3 (T1165)
+## RESPUESTA 2 (T1165)
 
 > —Acércate, Kaneki.
 
@@ -135,7 +81,73 @@ Kaneki traga saliva. No pregunta nada más. Espera.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1166)
+toco a kaneki y uso la tecnica de mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal, toma prueba esto, le doy una manzana
+
+## RESPUESTA 3 (T1166)
+
+> toco a Kaneki y uso la técnica de Mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal
+
+Le apoyas la palma en el pecho, sobre el corazón, por encima de la ropa rota.
+
+Kaneki se tensa de golpe, por reflejo, como un animal al que tocan donde duele. No se aparta.
+
+Y lo sientes. Debajo de la piel, debajo de las costillas, más hondo que la carne: la forma de su alma. Tiene dos capas mal cosidas. Una es la de un muchacho que leía novelas y tomaba café los domingos. La otra está pegada encima, ajena, áspera, y de ella sale un tirón constante, como un anzuelo clavado desde adentro que nunca deja de tirar. Hambre.
+
+La Transfiguración Ociosa no hace ruido. No brilla. Tu mano no se mueve.
+
+Tomas el anzuelo y lo sacas. Alisas el borde áspero donde las dos capas se juntan, hasta que encajan sin tironear. Buscas el lugar donde la comida de antes se volvió asco y lo devuelves a como estaba.
+
+Dejas todo lo demás como está.
+
+Kaneki abre la boca. No sale nada. Tiene los ojos muy abiertos, fijos en ningún lado, y respira por la boca, cortado, como alguien que salió del agua después de mucho tiempo abajo.
+
+Se lleva una mano al estómago. La deja ahí.
+
+—Se fue —susurra—. Está... callado.
+
+En la silla junto a la ventana, a Tsukiyama se le cae el libro al piso. No lo levanta.
+
+Sacas una manzana roja del inventario y se la pones en la mano.
+
+> —Toma, prueba esto.
+
+Kaneki la mira como si le hubieras dado algo peligroso. La sostiene con las dos manos. La acerca a la cara y la huele, y no se le arruga la nariz. Se queda quieto, esperando la arcada.
+
+No llega.
+
+Muerde. Un bocado chico, con miedo.
+
+Mastica despacio. Una vez. Dos. Se le llenan los ojos de lágrimas antes de tragar.
+
+—Es dulce —dice, con la boca todavía llena, y la voz se le rompe del todo—. Es dulce. Sabe a manzana.
+
+Muerde otra vez, más grande, y llora masticando, sin taparse la cara, con jugo corriéndole por el mentón, encorvado sobre la manzana como si alguien se la fuera a quitar.
+
+Tsukiyama se levantó de la silla sin darse cuenta. Está de pie, con una mano en la boca, mirando a Kaneki comer.
+
+Kaneki traga. Se seca la cara con el dorso de la muñeca y te mira, con los ojos rojos y la manzana mordida entre los dedos.
+
+—Hinami —dice—. Banjou-san. Los demás. —Le tiembla la voz—. ¿Puedes hacer esto con ellos también?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1166 · TOKYO GHOUL · NOCHE · 00:30     ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá, mirando a Kaneki           ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:27, sala de arriba de Anteiku. Kaneki en cuclillas frente a Facundo, esperando. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:30, sala de arriba de Anteiku. Kaneki, sin hambre, come la manzana y pregunta si Facundo puede hacer lo mismo con Hinami, Banjou y los demás. Facundo puede responder.
