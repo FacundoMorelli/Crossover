@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1132)
-si todo eso lo hice yo
-
-## RESPUESTA 1 (T1132)
-
-> —Sí, todo eso lo hice yo.
-
-Endeavor no contesta enseguida.
-
-Mira de nuevo los tanques. A Garaki, al que dos policías ya levantan del piso, esposado, con una aguja en el brazo. La puerta derretida. Al gato. A ti.
-
-Aprieta la mandíbula.
-
-—La Liga de Villanos —dice, muy despacio—. Seis meses. Seis meses los buscamos, con todas las agencias del país. Hawks, yo, la Comisión, la policía de cada prefectura. —El fuego de la barba le chisporrotea—. Y tú lo hiciste en una mañana. "De paseo."
-
-No suena a elogio. Suena a otra cosa. Algo que le pesa.
-
-Le extiende la mano abierta a la heroína de pelo verde, sin mirarla. Ella le pone el teléfono en la palma.
-
-—Endeavor —dice al aparato—. Sí. Está aquí, frente a mí. —Escucha—. Sí. Lo confirmo. El laboratorio de Jaku, sesenta y cuatro Nomu y el creador, detenidos. —Escucha más. El ojo bueno se le va hacia ti—. No. No sé de dónde salió. —Pausa larga—. ...Entendido.
-
-Corta y le devuelve el teléfono a la heroína sin mirarla.
-
-—La Comisión quiere verte —te dice—. Hoy. La presidenta en persona. —Lo dice con una mueca, como si eso tampoco le gustara—. Están nerviosos. Un héroe que aparece en el registro esta mañana, sin historial que nadie recuerde, y que en tres horas hace lo que el país entero no pudo en medio año. —Te mira fijo—. Eso pone nerviosa a la gente que tiene que controlar a los héroes.
-
-Se cruza de brazos. Las llamas de los hombros bajan un poco.
-
-—Nezu también me dijo que no terminaste. Que hay algo más.
-
-Lo deja ahí. No pregunta qué. Espera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1132 · BOKU NO HERO · DIC. · 12:34     ║
-║ Jaku · laboratorio bajo el hospital          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: a tus pies                             ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Garaki: detenido                             ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: — (la Comisión quiere verte hoy)   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1133)
+## COMANDO 1 (T1133)
 diles que esta bien, termino con lo que tengo que hacer y voy a hablar con ellos
 
-## RESPUESTA 2 (T1133)
+## RESPUESTA 1 (T1133)
 
 > —Diles que está bien. Termino con lo que tengo que hacer y voy a hablar con ellos.
 
@@ -101,10 +49,10 @@ Se endereza. Vuelve a hablar normal, áspero, como si no hubiera dicho nada.
 
 ---
 
-## COMANDO 3 (T1134)
+## COMANDO 2 (T1134)
 hago lo que tengo que hacer sin hacerle nada a hawks
 
-## RESPUESTA 3 (T1134)
+## RESPUESTA 2 (T1134)
 
 > hago lo que tengo que hacer sin hacerle nada a Hawks
 
@@ -181,4 +129,58 @@ Una de las plumas de sus alas se desprende sola, flota hasta el vidrio, y se que
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:37, torre Detnerat (Deika), último piso. Re-Destro, Curious, Skeptic, Trumpet y Geten inconscientes. Hawks pegado al ventanal por fuera, una pluma apuntando a Facundo: "¿Y tú quién eres, amigo?" Facundo puede responder.
+## COMANDO 3 (T1135)
+hola, soy el nuevo consultor de la ua, me llamo eclipse, tu debes ser el infiltrado no?
+
+## RESPUESTA 3 (T1135)
+
+> —Hola. Soy el nuevo consultor de la U.A. Me llamo Eclipse. Tú debes ser el infiltrado, ¿no?
+
+La sonrisa de Hawks se congela.
+
+Durante un segundo no se mueve nada. Ni las alas. Ni la pluma que te apunta.
+
+Después, cientos de plumas se desprenden de sus alas a la vez. No hacia ti. Hacia todos lados. Se deslizan por las rendijas del ventanal, por debajo de la puerta, por las rejillas del aire acondicionado del techo. Las oyes moverse por los pasillos del piso, rápidas, como un enjambre.
+
+Hawks no aparta los ojos de ti.
+
+Pasan tres segundos. Cuatro.
+
+Las plumas vuelven. Una se le posa en el hombro. Otra, junto a la oreja. Él ladea la cabeza como si escuchara algo.
+
+Recién entonces suelta el aire.
+
+Una de las plumas grandes se mete en la junta del ventanal y lo destraba desde adentro. El vidrio se corre hacia un lado con un siseo. Hawks entra a la sala de un paso, plegando las alas a la espalda, y cierra el ventanal detrás de él.
+
+—Nadie en el piso —dice, en voz baja—. Nadie escuchó. Tuviste suerte. —Se pasa una mano por la cara—. Amigo, no sé de dónde saliste, pero no se dice "infiltrado" en voz alta en el último piso del cuartel general del enemigo. Ni aunque estén todos dormidos.
+
+Se agacha junto a la cabecera de la mesa. Le levanta un párpado a Re-Destro con dos dedos, lo suelta. Después mira a Geten, a Curious, a la pantalla de Skeptic llena de letras.
+
+—Cinco tenientes. Re-Destro incluido. —Silba bajito—. Ni un vidrio roto. Ni una alarma. —Te mira, y ahora no sonríe nada—. Llevo meses aquí adentro tratando de llegar hasta esta mesa sin que me maten. Y tú entras y los apagas como si fueran lámparas.
+
+Se endereza.
+
+—Consultor de la U.A. —repite—. Eclipse. —Una pausa—. ¿Quién te dijo que había un infiltrado?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1135 · BOKU NO HERO · DIC. · 12:38     ║
+║ Deika · torre Detnerat, último piso          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Cúpula del Ejército: 5 inconscientes         ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Deika                              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:38, torre Detnerat, último piso. Hawks entró, verificó que nadie oyó. Pregunta quién le dijo a Facundo que había un infiltrado. Facundo puede responder.

@@ -1133,3 +1133,4 @@ T1131 · BnHA · Jaku · "Me llamo Eclipse, estuve de paseo." Endeavor: "¿Lo de
 T1132 · BnHA · Jaku · "Sí, todo lo hice yo." Endeavor: "Seis meses... tú en una mañana." La Comisión quiere verlo hoy. "Nezu dijo que no terminaste."
 T1133 · BnHA · Jaku · Burnin avisa a la Comisión. Endeavor, en secreto: "En Deika hay uno de los nuestros, alas rojas. No lo toques."
 T1134 · BnHA · Deika · Cúpula del Ejército de Liberación inconsciente en Detnerat. Hawks al ventanal: "¿Y tú quién eres, amigo?"
+T1135 · BnHA · Detnerat · "¿Tú eres el infiltrado?" Hawks revisa con plumas: nadie oyó. "¿Quién te dijo?"

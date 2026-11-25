@@ -60,3 +60,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Endeavor, Comisión de Seguridad Pública · T1132 · Facundo confirma que hizo todo (Liga, gigante, laboratorio). La Comisión quiere verlo hoy.
 - Facundo · T1133 · por Endeavor (en secreto): hay un héroe infiltrado en Deika hace meses, alas rojas de plumas. (Fuente válida: Endeavor.)
 - Hawks · T1134 · vio a Facundo de pie en la sala de Detnerat con los cinco líderes del Ejército inconscientes.
+- Hawks · T1135 · Facundo (Eclipse, consultor de la U.A.) sabe que es el infiltrado.
