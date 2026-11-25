@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1060)
-simula hasta que zarpe el Black Whale
-
-## RESPUESTA 1 (T1060)
-
-> simula hasta que zarpe el Black Whale
-
-Te sientas en el borde del techo del depósito, con las piernas colgando sobre la calle de contenedores, y miras.
-
-[10:00 – 11:30.]
-
-La fila avanza. Doscientas mil personas suben por las rampas de los niveles bajos del barco, despacio, con valijas, chicos dormidos en brazos, jaulas, bolsas de arroz. Inspectores de uniforme gris revisan pasajes en mesas plegables. Por encima de todo, los helicópteros de la televisión dan vueltas y vueltas.
-
-Las presencias de la Tropa suben en distintos momentos, separadas, cada una por una rampa distinta, mezcladas con la gente. El rubio sube con una gorra y una mochila de turista. El pequeño de pelo largo, detrás de una familia numerosa, casi invisible. La mujer de pelo violeta, con un abrigo largo encima del kimono. Chrollo es el último. Nadie lo mira. Una por una, las nueve presencias se pierden adentro del casco, en los niveles más bajos.
-
-El hilo de chicle de tu palma, en cambio, se aleja. Hacia la ciudad. Lejos del barco. Se queda quieto en algún lugar entre los rascacielos, a varios kilómetros, y ya no se mueve.
-
-Hisoka no sube.
-
-[11:45.]
-
-Segunda sirena. Más larga.
-
-Los inspectores levantan las mesas. Las rampas de los niveles bajos se repliegan con un chirrido de hidráulicos que se escucha en todo el puerto. En los niveles altos, sobre las cubiertas escalonadas, aparecen pasajeros en las barandas: pañuelos, banderitas de Kakin, gente que llora y saluda a la que se queda en el muelle.
-
-En la baranda de una de las cubiertas bajas, una figura se queda quieta entre la gente que saluda. Pelo violeta recogido, abrigo largo. No saluda a nadie. Está mirando hacia los techos de los depósitos del puerto.
-
-Hacia ti.
-
-Te ve. Sentado en el borde del techo destrozado, con el gato en el hombro, a doscientos metros. No hace ningún gesto. Se queda mirando un rato largo.
-
-Después levanta una mano, apenas, a la altura del hombro. Un segundo. La baja.
-
-Se da vuelta y se mete en el barco.
-
-[12:00.]
-
-La tercera sirena no termina nunca. Sale del casco del Black Whale 1 como el bramido de un animal enorme y hace vibrar los vidrios de todo el puerto, las chapas del techo donde estás sentado, el agua de la bahía.
-
-Las amarras caen. Los remolcadores tiran. Y despacio, muy despacio, la montaña blanca empieza a separarse del muelle.
-
-Fuegos artificiales en pleno día. Las bandas tocan el himno de Kakin. La multitud del muelle ruge. Los helicópteros siguen al barco mar adentro.
-
-El Black Whale 1 zarpa hacia el Continente Oscuro.
-
-[Misión de Mundo cumplida: Shalnark y Kortopi siguen vivos cuando zarpa el Black Whale.]
-
-[+10.000 EXP · +300 Fragmentos.]
-
-Kase se estira en tu hombro, largo, con las patas delanteras hacia adelante, y bosteza. Mira el barco alejarse por la bahía, cada vez más chico, hasta que es una línea blanca en el horizonte.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1060 · HUNTER X HUNTER · DÍA 4 · 12:00 ║
-║ Kakin · puerto, techo de un depósito         ║
-║ NIVEL 28 · EXP 252.350/280.000               ║
-║ FRAGMENTOS 108.590 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1061)
+## COMANDO 1 (T1061)
 abro la puerta a un mundo nuevo
 
-## RESPUESTA 2 (T1061)
+## RESPUESTA 1 (T1061)
 
 > abro la puerta a un mundo nuevo
 
@@ -171,10 +103,10 @@ Tiene los ojos rojos. Inteligentes.
 
 ---
 
-## COMANDO 3 (T1062)
+## COMANDO 2 (T1062)
 hola, necesitas volver a la mazmorra no? quieres que te lleve?
 
-## RESPUESTA 3 (T1062)
+## RESPUESTA 2 (T1062)
 
 > hola, necesitas volver a la mazmorra no? quieres que te lleve?
 
@@ -220,4 +152,55 @@ Te mira.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:11, techos de la Calle Dédalo. Gros, desconfiado y herido, pregunta quién es Facundo y de qué Familia; se acerca otra patrulla. Facundo puede responder.
+## COMANDO 3 (T1063)
+me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
+
+## RESPUESTA 3 (T1063)
+
+> me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
+
+> —Me llamo Facundo Morelli. No soy de ninguna Familia. Acabo de llegar aquí. Soy un viajero. No me interesa matarlos. Entonces, ¿quieres que te lleve o no?
+
+Gros te mira un momento largo, sin pestañear. Los ojos de piedra no pestañean.
+
+—Un viajero —repite—. Sin Familia. Que acaba de llegar. —Gruñe por lo bajo—. Y lo primero que haces en Orario es subirte a un techo de Dédalo y ofrecerle a un monstruo llevarlo a casa.
+
+La antorcha del puente de madera se acerca. Ya se escuchan las voces de la patrulla, dos calles más allá.
+
+Gros mira la antorcha. Te mira a ti. Algo le cambia en la cara de piedra: no confianza, pero sí cansancio. Mucho cansancio.
+
+—No —dice.
+
+Pliega las alas, despacio.
+
+—No me voy solo. —Lo dice firme, aunque la voz se le quiebra un poco en la mitad—. Somos muchos. Lido. Rei. La pequeña Wiene. Otros. Estamos todos escondidos en este laberinto desde ayer, separados, porque si nos juntamos nos encuentran. Hay heridos. Hay uno que no se puede mover. —Se le tensa la mandíbula—. Si me voy solo, los dejo para que los cacen.
+
+Mira hacia abajo, hacia la red de callejones oscuros de Dédalo.
+
+—Si de verdad puedes llevar a alguien a la Mazmorra, humano, entonces no me lleves a mí. Llévanos a todos. O a ninguno.
+
+La antorcha dobla la esquina del puente. Una voz grita algo, una orden. Pasos que se aceleran.
+
+Gros se agacha más contra el techo, pegado a las tejas, hasta volverse otra vez una estatua. Solo los ojos rojos siguen vivos.
+
+—Y si no eres lo que dices —susurra—, te voy a encontrar. Aunque me cueste las dos alas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1063 · DANMACHI · NOCHE 1 · 23:12      ║
+║ Orario · Calle Dédalo, techo de una casa     ║
+║ NIVEL 28 · EXP 252.350/280.000               ║
+║ FRAGMENTOS 108.590 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Llevar a todos los Xenos           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:12, techos de Dédalo. Gros no se va solo: los Xenos están dispersos y heridos por Dédalo; pide que los lleve a todos o a ninguno. La patrulla llega. Facundo puede actuar.

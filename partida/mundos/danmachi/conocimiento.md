@@ -10,3 +10,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 - (nadie)
 - Gros · T1062 · Facundo le ofreció llevarlo a la Mazmorra; sabe que es un Xenos y que necesita volver (Gros lo deduce: no grita, habla como si supiera). Sospecha que es de Ikelos.
+- Gros · T1063 · su nombre, Facundo Morelli; sin Familia; viajero recién llegado; no quiere matarlos (él lo dijo).

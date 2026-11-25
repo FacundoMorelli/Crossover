@@ -1061,3 +1061,4 @@ T1059 · HxH · Puerto de Kakin · Semilla del ermitaño a Hisoka. "Nos vemos, H
 T1060 · HxH · Puerto de Kakin · La Tropa sube de incógnito; Hisoka no. Machi lo saluda desde la baranda. 12:00 zarpa el Black Whale. MISIÓN DE MUNDO CUMPLIDA. 8 mundos.
 T1061 · HxH → DanMachi · Puerta desde Kakin (se corta el hilo de Hisoka). Orario, Calle Dédalo, de noche: patrullas de Ganesha y Loki; cartel de monstruos. Don: Falna del Eclipse, Égida del Juramento. Misión: que los Xenos vuelvan a la Mazmorra sin muertes. Gros lo mira.
 T1062 · DanMachi · Techos de Dédalo · "¿Quieres que te lleve a la Mazmorra?" Gros: "¿De qué Familia eres? ¿Ikelos?" Se acerca una patrulla. "¿Quién eres?"
+T1063 · DanMachi · Techos de Dédalo · "Soy un viajero, no me interesa matarlos." Gros: "Llévanos a todos. O a ninguno." Llega la patrulla.
