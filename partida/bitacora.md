@@ -1307,3 +1307,4 @@ T1305 · BC→NARUTO · Se despide de Kiato ("voy a bailar para ti") y cruza la 
 T1306 · NARUTO · Borde del cráter · Le pregunta a Yamato dónde está. "En Konohagakure. O en lo que queda." Yamato nota que no lleva banda; se pone entre él y los chicos: "¿Quién eres, y por dónde entraste?"
 T1307 · NARUTO · Borde del cráter · "Me llamo Facundo Morelli, soy un viajero. ¿Quiénes los atacaron?" Yamato: Akatsuki, Pain. Raro que no se haya enterado. Insiste: "¿Por dónde entraste?"
 T1308 · NARUTO · Borde del cráter · "Me teletransporté." Yamato pone raíces listas bajo sus pies: solo vio eso en el Cuarto y en el de la máscara naranja de Akatsuki. No lo acusa, pero le pide que lo acompañe a hablar con alguien.
+T1309 · NARUTO · Carpa de mando · Acompaña a Yamato por el campamento (cartel "GRACIAS, NARUTO"). Conoce a Kakashi (catre, pierna vendada). Tasación. Kakashi: "¿A qué vino un viajero a una aldea que ya no existe?"

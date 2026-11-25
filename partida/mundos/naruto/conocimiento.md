@@ -11,3 +11,5 @@
 - Facundo · T1307 · por Yamato: Akatsuki (renegados), líder Pain, atacó buscando "a uno de los nuestros"; había barrera en el norte.
 - Yamato · T1308 · por Facundo: dice que llegó teletransportándose. Yamato lo asocia al Cuarto Hokage y al enmascarado de Akatsuki; no lo acusa, pero sospecha.
 - Dos chūnin de chaleco verde · T1308 · vieron a Yamato tensarse frente al forastero de pelo blanco y azul.
+- Kakashi · T1309 · por Yamato (informe en la carpa de mando, motivo: seguridad): nombre, dice ser viajero, apareció en el bosque norte sin camino, dice que se teletransportó. Lo vio en persona.
+- Vecinos del campamento · T1309 · vieron pasar al forastero de pelo blanco y azul con un gato, acompañado por Yamato.

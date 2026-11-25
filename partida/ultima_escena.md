@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1306)
-
-me acerco al que creo la casa, perdon, me podrias decir donde estoy?
-
-## RESPUESTA 1 (T1306)
-
-> me acerco al que creo la casa, perdon, me podrias decir donde estoy?
-
-> —Perdón, ¿me podrías decir dónde estoy?
-
-Bajas por la ladera entre los árboles caídos y sales al borde del cráter por detrás de una fila de carpas. Nadie se fija en ti al principio: todos andan cargando algo, tablas, baldes de agua, sacos de arroz. Una señora pasa con un niño dormido en la espalda. Huele a sopa de miso y a polvo de piedra.
-
-El hombre de la banda en la frente está agachado junto a la casa nueva, con una palma apoyada en el suelo, mirando cómo una última viga se acomoda sola bajo el techo. Tiene el pelo castaño, una placa de metal que le enmarca toda la cara y unos ojos negros, grandes, que no parpadean mucho. En la placa hay una hoja grabada.
-
-Cuando le hablas, gira apenas la cabeza.
-
-Primero ve el pelo, mitad blanco y mitad azul. Después los ojos, uno rojo y uno azul, y la cicatriz que te cruza el izquierdo. Después a Kase, que lo mira desde tu cuello como si el que sobrara fuera él. Por último, la frente: no llevas banda.
-
-Se levanta despacio, sin apuro, y se sacude la tierra de las manos.
-
-╔══════════════════════════════════════════════╗
-║ YAMATO                                       ║
-║ Jōnin de Konoha · ex ANBU                    ║
-║ PODER: Mokuton (Estilo Madera), Estilo       ║
-║        Agua, Estilo Tierra, sellos de        ║
-║        supresión de bijū                     ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE · MISIÓN: BAJA                      ║
-╚══════════════════════════════════════════════╝
-
-—¿Dónde estás? —repite. Mira un segundo hacia el cráter y vuelve a mirarte—. En Konohagakure. La Aldea Oculta de la Hoja. O en lo que queda de ella.
-
-Lo dice tranquilo, casi amable. Pero se corre medio paso hacia un costado y queda entre tú y las carpas, donde hay chicos comiendo sentados en el piso.
-
-—No llevas banda ninja, y no te había visto nunca. Y alguien con esa pinta no se olvida fácil. —Inclina un poco la cabeza—. Hace dos días nos atacaron, y la mitad de los guardias del perímetro siguen en el hospital de campaña. Así que me da curiosidad.
-
-Sus ojos se quedan fijos en los tuyos.
-
-—¿Quién eres, y por dónde entraste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1306 · NARUTO · DÍA 1 · 07:52          ║
-║ Konoha · borde norte del cráter, carpas      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1307)
+## COMANDO 1 (T1307)
 
 me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
 
-## RESPUESTA 2 (T1307)
+## RESPUESTA 1 (T1307)
 
 > me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
 
@@ -104,11 +46,11 @@ Un chico de unos ocho años se acerca corriendo con un cuenco de sopa, se frena 
 
 ---
 
-## COMANDO 3 (T1308)
+## COMANDO 2 (T1308)
 
 me teletransporte
 
-## RESPUESTA 3 (T1308)
+## RESPUESTA 2 (T1308)
 
 > me teletransporte
 
@@ -147,4 +89,74 @@ Las raíces bajo tus pies siguen quietas. Esperando.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 07:55, borde norte del cráter. Facundo dijo que se teletransportó. Yamato: ninjutsu espacio-tiempo (solo lo vio en el Cuarto y en el enmascarado de Akatsuki). Raíces de Mokuton listas bajo los pies de Facundo. Dos chūnin quietos a la orden de Yamato. Yamato le pide que lo acompañe a hablar con alguien. Facundo tiene que decidir.
+## COMANDO 3 (T1309)
+
+esta bien
+
+## RESPUESTA 3 (T1309)
+
+> esta bien
+
+> —Está bien.
+
+Las raíces bajo tus pies se aflojan y se hunden en la tierra sin dejar marca.
+
+—Gracias —dice Yamato, y lo dice en serio—. Por aquí.
+
+Camina a tu lado, no adelante ni atrás, a medio paso de distancia: lo bastante cerca para agarrarte si hace falta y lo bastante lejos para que no parezca que te está llevando preso. Los dos chūnin vuelven a levantar las tablas, pero no les sacan los ojos de encima.
+
+El campamento es más grande de lo que se veía desde el bosque. Hay carpas para dormir, carpas con una cruz roja donde entran y salen ninjas médicos con las manos brillando de verde, y ollas enormes humeando sobre fuegos de leña. La gente se aparta un poco cuando pasas. No por miedo: por el pelo, por los ojos, por el gato. Una viejita deja de pelar papas para mirarte. Un ninja con vendas en toda la cara se da vuelta en la fila de la sopa.
+
+En medio del campamento, sobre una tarima de tablas recién clavadas, alguien colgó a mano un cartel de tela con letras torcidas: GRACIAS, NARUTO.
+
+Yamato se detiene frente a una carpa más grande que las otras, con la lona levantada de un lado. Adentro hay mesas hechas con puertas viejas, mapas de la aldea con media aldea tachada, pergaminos apilados en el suelo.
+
+En un catre del fondo, medio sentado, hay un hombre de pelo blanco y parado hacia un costado, con una máscara negra que le tapa la cara de la nariz para abajo y la banda de la frente bajada sobre el ojo izquierdo. Tiene un libro naranja abierto sobre el pecho y una pierna vendada encima de un cajón.
+
+Levanta la vista del libro. Te mira el pelo. Te mira a Kase. Te mira a ti.
+
+╔══════════════════════════════════════════════╗
+║ KAKASHI HATAKE                               ║
+║ Jōnin de Konoha · el Ninja Copia             ║
+║ PODER: Sharingan (Mangekyō: Kamui),          ║
+║        Raikiri, Estilo Rayo, Agua, Tierra,   ║
+║        Fuego; perros ninja; mil técnicas     ║
+║        copiadas                              ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+║ Estado: chakra bajo, recuperándose           ║
+╚══════════════════════════════════════════════╝
+
+—Yo —dice, levantando dos dedos a modo de saludo.
+
+Yamato entra y se queda de pie al lado del catre.
+
+—Kakashi-senpai. Se llama Facundo Morelli. Dice que es viajero. Apareció en el bosque del norte, donde no hay camino. Dice que llegó teletransportándose.
+
+Kakashi cierra el libro con un dedo marcando la página. Lo mira un rato largo a Yamato, como diciendo "¿y me lo traes aquí?", y después a ti.
+
+—Teletransportándote —repite, tranquilo, casi aburrido—. Qué casualidad. Justo esta semana.
+
+Se acomoda un poco en el catre, con una mueca por la pierna.
+
+—Bueno, Facundo Morelli. Perdona que no me levante, morí hace dos días y todavía no me acostumbro a estar vivo. —Se le arruga el ojo visible, como si sonriera debajo de la máscara—. Dime una cosa: ¿a qué vino un viajero a una aldea que ya no existe?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1309 · NARUTO · DÍA 1 · 08:06          ║
+║ Konoha · campamento · carpa de mando         ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:06, carpa de mando del campamento. Yamato llevó a Facundo con Kakashi (en un catre, pierna vendada, chakra bajo). Kakashi pregunta a qué vino un viajero a una aldea que ya no existe. Facundo tiene que contestar.
