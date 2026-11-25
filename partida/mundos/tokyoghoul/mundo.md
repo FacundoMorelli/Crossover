@@ -1,0 +1,8 @@
+# MUNDO: TOKYO GHOUL
+MONEDA: yenes · CAMBIO: 1 Fragmento = 11.000 yenes (fijado T1147)
+MOMENTO DE LLEGADA: noche de otoño, 23:40 · Asalto de la CCG a la mansión de Kanou (TG arco 06, cap. ~105).
+ESTADO: Ghouls (comen humanos; kagune; kakuhou) y la CCG (Comisión Contra Ghouls: investigadores con quinques). Facundo no sabe nombres todavía.
+DON DE MUNDO: Kagune de Ceniza (ver sistema.json).
+MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operación de Exterminio del Búho.
+
+## CAMBIOS POR CULPA DE FACUNDO

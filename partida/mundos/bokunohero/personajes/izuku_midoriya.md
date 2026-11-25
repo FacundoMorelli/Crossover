@@ -7,6 +7,7 @@ FÍSICO: Bajito, pelo verde oscuro despeinado, pecas, traje verde, guantes blanc
 PERSONALIDAD Y FORMA DE HABLAR: Analítico, tímido, valiente hasta la locura; murmura.
 RELACIÓN CON FACUNDO: fascinado (T1102).
 ENCUENTROS:
+- T1147 · Seis días de entrenamiento; domina el Látigo Negro. Se despide con una reverencia y una cinta que le roza la mano.
 - T1144 · Campo de entrenamiento, 07:02 · Pide entrenar el Látigo Negro.
 - T1098 · Diciembre 11:00 · Facundo lo/la ve en las pantallas del quinto combate.
 DIÁLOGOS CLAVE:

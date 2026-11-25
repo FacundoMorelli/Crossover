@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: gratitud inmensa (salvó a Izuku; lo curó y le devolvió
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1147 · "Gracias, joven Morelli. Por todo."
 - T1144 · "Dijo que yo tenía la culpa de todo." "Él no volvió a hablar. Solo respira. Y espera."
 - T1118 · "Me quedo." "Él y Shigaraki... si puede avisarle, lo va a hacer."
 - T1117 · (en Tartarus, frente a All For One; no dice nada, le tiembla la mano)

@@ -203,3 +203,4 @@
 - MISIÓN: Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal.
 - RECOMPENSA: 12.000 EXP · 400 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- T1147 · Salida de Boku no Hero (día 10, bosque de la U.A.) → Tokyo Ghoul (acantilado frente a la mansión de Kanou, noche).

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1147 · "Unos días, había dicho. Fueron diez." "La puerta de esta escuela va a estar abierta. Aunque usted no necesite puertas."
 - T1129 · "Sesenta y cuatro." "Gracias, señor Morelli." "No toque nada: Tsukauchi va a querer todo exactamente como está." "Endeavor es directo. No lo tome personal."
 - T1128 · "No los destruya. Eran personas. Cada uno de esos cuerpos es una prueba, para devolvérselos a alguien." "¿Puede hacer con ese laboratorio lo mismo que hizo con la cabaña?"
 - T1125 · "La mitad de esa ciudad no sabe que está en una guerra." "El ser colosal. ¿Dónde está? ¿Mi equipo se lo va a cruzar?"

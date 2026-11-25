@@ -3,83 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1144)
-simule unos dias
-
-## RESPUESTA 1 (T1144)
-
-> simulo unos días
-
-[Simulación: cuatro días.]
-
-Esa misma tarde, a las cuatro y diez, la presidenta de la Comisión de Seguridad Pública aparece en todos los canales del país.
-
-Habla once minutos. No levanta la voz ni una vez. Dice "operativo conjunto", dice "meses de inteligencia", dice "cuatro frentes de forma simultánea". Detrás de ella, en el escenario, están Endeavor, con los brazos cruzados y la cara de piedra; Hawks, con una sonrisa que no le llega a los ojos; Aizawa, que parece querer estar en cualquier otro lugar; y Tsukauchi.
-
-Dice "la Liga de Villanos ha sido desmantelada en su totalidad". Dice "el llamado Ejército de Liberación Paranormal, una organización de ciento dieciséis mil miembros oculta en la ciudad de Deika". Dice "sin víctimas fatales".
-
-Tu nombre no aparece.
-
-Esa noche, en todos los noticieros, pasan una y otra vez los mismos videos: los autos detenidos en las calles de Deika, rozados, con los conductores dormidos sobre el volante. Los niños sentados en el patio de la escuela con las mochilas puestas. Shigaraki, flaco, con el pelo blanco, esposado de pies y manos, metido en una cápsula de contención. Dabi, que mira a la cámara mientras lo suben a un camión blindado y sonríe.
-
-Nezu te consigue una habitación en el edificio de los profesores de la U.A. Tiene una cama, un escritorio y una ventana que da al bosque del campus. Kase la reclama en dos minutos: el alféizar es suyo.
-
-Al día siguiente, Midnight te deja un plato de comida en la puerta con una nota que dice "para el consultor que no existe". Present Mic te saluda a los gritos cada vez que te cruza en un pasillo. Ectoplasm no dice nada, pero inclina la cabeza.
-
-El segundo día, Tsukauchi viene a la U.A. y te pide una declaración. Escucha todo con mucha atención, con la mano sobre la mesa, y no te interrumpe ni una vez. Al terminar, cierra la libreta.
-
-—Nunca escribí un informe tan corto sobre algo tan grande —dice—. Gracias, Eclipse.
-
-Ese mismo día, All Might sale de su primera reunión con el director de Tartarus. Te lo cruzas a la vuelta, en la puerta del edificio. Está en su forma musculosa, y por primera vez desde que lo conoces no se le nota cansado.
-
-—Dijo que yo tenía la culpa de todo —te cuenta, riéndose—. Que el Símbolo de la Paz debería saber que no se aparece en una celda de máxima seguridad sin pedir permiso. —Se pone serio un segundo—. Él no volvió a hablar, joven Morelli. Ni una palabra desde ese día. Solo respira. Y espera.
-
-El tercer día, en Tartarus, terminan los traslados.
-
-Shigaraki en el nivel más bajo, en el ala contraria a la de All For One. Garaki en otra. Dabi, Toga, Twice, Spinner y Compress, cada uno en una celda distinta, sin ventanas, sin contacto. Gigantomachia en un hangar subterráneo reforzado, sedado con dosis que Tsukauchi describe como "las que se usan para una ballena". Re-Destro y los tenientes, en una prisión aparte. Los ciento dieciséis mil de Deika se despiertan en sus casas y en sus calles, confundidos, con dolor de cabeza; la policía de todo el país necesita semanas para tomarles declaración a todos, uno por uno.
-
-Esa noche, a las once y media, la Comisión cierra oficialmente el operativo.
-
-[Misión de Mundo cumplida: la Guerra de Liberación Paranormal terminó antes de empezar, y no murió ningún alumno ni profesor de la U.A.]
-
-[+12.000 EXP · +400 Fragmentos.]
-
-El cuarto día amanece frío y despejado.
-
-Son las siete de la mañana. Estás en el campo de entrenamiento detrás del edificio de los profesores, solo, con Kase sentado en un banco, cuando sientes que alguien se acerca corriendo por el sendero del bosque. Rápido. Una presencia que tú conoces, que tiene algo adentro que ahora brilla mucho más fuerte que hace cuatro días.
-
-Izuku Midoriya se detiene a diez metros de ti, jadeando, con el uniforme de educación física y el pelo verde revuelto. Tiene una venda en la mano derecha. Hace una reverencia tan profunda que casi toca el piso con la frente.
-
-—¡Señor Morelli! —dice. Después se corrige, nervioso—. ¡Digo, Eclipse! ¡Digo...! —Se endereza, colorado hasta las orejas—. El profesor Aizawa nos contó. No todo, pero... Nos contó.
-
-Aprieta los puños. Las venas de los brazos se le iluminan apenas, verdes, y de la muñeca vendada le sale un hilo negro, tembloroso, que se agita en el aire y vuelve a esconderse.
-
-—Desde el entrenamiento conjunto, esto no para —dice, mirándose la mano—. Se me escapa. No lo puedo controlar. Y el profesor Aizawa dijo que usted... —Levanta la vista—. ¿Me podría ayudar a entrenar?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1144 · BOKU NO HERO · DIC. (+4 días)   ║
-║ · 07:02                                      ║
-║ U.A. · campo de entrenamiento, edificio de   ║
-║ profesores                                   ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el banco                            ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1145)
+## COMANDO 1 (T1145)
 si, te ayudo tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre one for all, Látigo negro se activa y potencia con la ira, por lo que descontrolarse emocionalmente hace que el don se salga de control.
 
-## RESPUESTA 2 (T1145)
+## RESPUESTA 1 (T1145)
 
 > —Sí, te ayudo. Tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre One For All. El Látigo Negro se activa y se potencia con la ira, así que descontrolarte emocionalmente hace que el don se salga de control.
 
@@ -139,10 +66,10 @@ Una de las cintas negras sale disparada, sola, hacia el banco donde está sentad
 
 ---
 
-## COMANDO 3 (T1146)
+## COMANDO 2 (T1146)
 agarro el latigo, tranquilo midoriya, tienes que controlarte mas, tampoco tienes que asustarte
 
-## RESPUESTA 3 (T1146)
+## RESPUESTA 2 (T1146)
 
 > agarro el látigo
 
@@ -206,4 +133,138 @@ Te mira, con los ojos llenos de lágrimas, sonriendo de oreja a oreja.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre +4 días, 07:08, campo de entrenamiento. Izuku movió una cinta del Látigo Negro a voluntad por primera vez. Pide intentarlo otra vez. Misión de copia en curso (no cumplida: aún no hay control pleno). Facundo puede responder.
+## COMANDO 3 (T1147)
+simula unos dias y despues me voy al nuevo mundo
+
+## RESPUESTA 3 (T1147)
+
+> simulo unos días y después me voy al mundo nuevo
+
+[Simulación: seis días.]
+
+Entrenan todas las mañanas, a las seis, antes de que empiecen las clases. Siempre en el mismo campo, detrás del edificio de los profesores, con Kase en el mismo banco.
+
+El primer día, Izuku saca dos cintas y las mantiene quietas en el aire durante diez segundos. Después se le escapan, y una le desordena el pelo a Present Mic, que pasaba por el sendero con un café. Mic grita tan fuerte que se rompe el vidrio de un farol.
+
+El segundo día, son tres cintas y treinta segundos. Izuku ya no cierra los ojos para calmarse. Respira, nada más.
+
+El tercer día llega con un cuaderno lleno de dibujos y anotaciones con letra diminuta: ángulos, distancias, qué siente en el pecho cuando una cinta tira de más. Te lo muestra con las orejas coloradas. Tiene once páginas solo sobre "la cinta asustada".
+
+El cuarto día, All Might baja a mirar. Se sienta en el banco al lado de Kase, en su forma musculosa, y no dice nada en toda la hora. Al final, cuando Izuku atrapa con una cinta una piedra que le tiraste por la espalda sin avisar, All Might se pone de pie y aplaude solo, enorme, con los ojos brillantes.
+
+El quinto día nieva otra vez. Izuku usa el Látigo Negro para engancharse de las ramas de los árboles del bosque y moverse entre ellas, de una a otra, con Full Cowl al ocho por ciento. Se cae cuatro veces en la nieve. La quinta no se cae.
+
+El sexto día amanece despejado y frío.
+
+Izuku llega corriendo, como siempre. Se para en el medio del campo, como siempre. Y esta vez, sin que le digas nada, saca las cintas.
+
+Una. Tres. Seis. Ocho.
+
+Las ocho salen al mismo tiempo, negras, firmes, y se quedan suspendidas a su alrededor como los rayos de una rueda. No tiemblan. Ninguna se mueve sola. Después, una por una, se van hacia los ocho postes de luz que rodean el campo y se enganchan en cada uno, sin doblar ninguno. Izuku se levanta del suelo, suspendido en el medio, sostenido por las ocho cintas a la vez. Se queda ahí, flotando a dos metros del pasto, respirando tranquilo.
+
+Las suelta todas a la vez. Cae de pie, en la nieve, sin hacer ruido.
+
+Se da vuelta hacia ti, temblando, y sonríe con toda la cara.
+
+[Misión de copia cumplida: Izuku Midoriya usa el Látigo Negro con control.]
+
+╔══════════════════════════════════════════════╗
+║ PODER REGISTRADO                             ║
+║ One For All                                  ║
+║ DE: Izuku Midoriya · Boku no Hero Academia   ║
+║ Poder acumulado que se multiplica. Full      ║
+║ Cowl, Látigo Negro, Flotación, Humo, Peligro ║
+║ y Fa Jin, Transmisión y lo que despierte.    ║
+║ Izuku conserva el suyo.                      ║
+║ Dominio total.                               ║
+╚══════════════════════════════════════════════╝
+
+Esa misma mañana te despides.
+
+En la oficina de Nezu, el director te sirve té, como el primer día. Esta vez no se le derrama. Te escucha sin interrumpirte, con las patitas juntas sobre el escritorio.
+
+—Unos días, había dicho —murmura al final—. Fueron diez. —Te mira con los ojitos negros brillantes—. La puerta de esta escuela va a estar abierta, señor Morelli. Para usted y para su gato. Aunque usted no necesite puertas.
+
+Aizawa está apoyado en la pared del fondo, con los brazos cruzados. Cuando sales de la oficina, te alcanza en el pasillo.
+
+—Midoriya va a querer despedirse —dice—. Los demás también. Aunque no sepan muy bien de qué. —Se rasca la nuca—. Les dije que eras un consultor que se iba a otro trabajo. Que es casi verdad.
+
+All Might te abraza en la puerta del edificio de los profesores. Fuerte. Tan fuerte que Kase salta de tu hombro para no quedar en el medio.
+
+—Gracias, joven Morelli —dice, y la voz le sale ronca—. Por todo.
+
+Izuku está esperando en el campo de entrenamiento, con el cuaderno en la mano. No dice nada. Hace una reverencia, la más profunda de todas. Cuando se endereza, tiene los ojos mojados y una cinta negra le sale sola de la muñeca, suave, y te roza la mano antes de volver.
+
+Esta vez no es que se le escapa. Esta vez la manda él.
+
+Kase vuelve a tu hombro.
+
+Detrás de los árboles del bosque del campus, donde nadie mira, abres la Puerta. El rectángulo de luz blanca, con el borde rojo y azul temblando, se recorta contra la nieve.
+
+Cruzas.
+
+[Mundo nuevo.]
+
+Noche.
+
+Hace frío, pero no el de la nieve. Es un frío húmedo, de otoño, con olor a mar y a hojas podridas. Estás en lo alto de un acantilado cubierto de árboles, con el viento golpeándote de frente. Abajo, muy abajo, se oyen las olas romper contra las rocas.
+
+Y del otro lado, a unos trescientos metros, sobre un claro rodeado de bosque, hay una mansión.
+
+Grande, vieja, de estilo occidental, con un techo a dos aguas y ventanas altas. Todas las luces están apagadas. Pero el claro de enfrente no está oscuro: hay camionetas blancas estacionadas en fila, con faros encendidos que apuntan a la puerta principal, y una docena de personas con trajes oscuros y abrigos blancos que corren entre ellas. Llevan maletines plateados en la mano. En los costados de las camionetas, un emblema: tres letras, CCG.
+
+Desde adentro de la mansión, desde abajo de la tierra, llega un ruido sordo. Un golpe. Otro. Algo que se derrumba.
+
+Cierras los ojos.
+
+Abajo, muchos pisos bajo la mansión, hay presencias. Muchas. Algunas son humanas, cansadas, asustadas, heridas. Otras no. Otras tienen algo adentro que no se parece a nada que hayas sentido antes: un hambre que no es hambre de comida, sino algo más hondo, más viejo, enroscado en la parte baja de la espalda como un segundo corazón.
+
+Y en el centro de todo, dos presencias juntas. Una humana, grande, fuerte, que se está apagando despacio. Y otra encima de ella. Una que no es del todo humana ni del todo lo otro. Furiosa. Hambrienta. Llorando.
+
+[Destino fijado.]
+
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Tokyo Ghoul                           ║
+║ DON: KAGUNE DE CENIZA                        ║
+║ Un órgano depredador de ceniza gris que sale ║
+║ de tu espalda en las cuatro formas: ukaku,   ║
+║ koukaku, rinkaku y bikaku. Se alimenta de tu ║
+║ energía, nunca de carne. Las quinques y las  ║
+║ balas Q no lo dañan.                         ║
+║ Bloqueadas: Kakuja (60), Crisálida (90)      ║
+║ Maestría 30                                  ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Tokyo Ghoul                           ║
+║                                              ║
+║ MISIÓN: Que ningún miembro de Anteiku muera  ║
+║ ni sea capturado durante la Operación de     ║
+║ Exterminio del Búho.                         ║
+║ RECOMPENSA: 13.000 EXP · 450 Fragmentos      ║
+║ VENCE: cuando termine la Operación           ║
+╚══════════════════════════════════════════════╝
+
+Allá abajo, la presencia humana que se apaga deja de luchar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1147 · TOKYO GHOUL · NOCHE · 23:40     ║
+║ Acantilado frente a la mansión de Kanou      ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, noche 23:40, acantilado frente a la mansión de Kanou durante el asalto de la CCG. Don: Kagune de Ceniza. Misión: Anteiku en la Operación del Búho. Bajo tierra, una presencia humana grande deja de luchar con otra (medio ghoul, furiosa y llorando) encima. Facundo puede actuar.

@@ -1,8 +1,8 @@
 {
-  "turno": 1146,
-  "mundo_actual": "bokunohero",
-  "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "07:08",
+  "turno": 1147,
+  "mundo_actual": "tokyoghoul",
+  "fecha_local": "otoño (TG cap. ~105), noche del asalto a la mansión de Kanou",
+  "hora": "23:40",
   "edad": 18,
   "nivel": 28,
   "exp": 275930,
@@ -63,6 +63,11 @@
       "moneda": "yenes",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 yenes (fijado T1087)"
+    },
+    "tokyoghoul": {
+      "moneda": "yenes",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 yenes (fijado T1147)"
     }
   },
   "puntos_de_stat_sin_asignar": 150,
@@ -76,7 +81,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -348,6 +353,19 @@
         "Formas bloqueadas: PIRA (maestría 60: cura a todos en 100 m a la vez); AMANECER (maestría 90: revive a un muerto de hasta 1 hora aunque Facundo no lo haya tocado antes)."
       ],
       "turno": 1087
+    },
+    "tokyoghoul": {
+      "nombre": "Don: Kagune de Ceniza",
+      "tipo": "órgano depredador (kagune) propio",
+      "maestria": 30,
+      "reglas": [
+        "Un kagune de ceniza gris sale de la espalda de Facundo en las cuatro formas: ukaku (hombros, proyectiles y velocidad), koukaku (escudo/espada dura), rinkaku (tentáculos de regeneración y fuerza), bikaku (cola equilibrada). Puede alternarlas.",
+        "Se alimenta de la energía de Facundo, nunca de carne. Facundo no se vuelve ghoul ni necesita comer humanos.",
+        "Las quinques y las balas Q no lo dañan (ni a él ni al kagune).",
+        "Se ve: quien mira, ve el kagune (el Velo oculta la energía, no la imagen).",
+        "Formas bloqueadas: KAKUJA (maestría 60: armadura de kagune sobre el cuerpo); CRISÁLIDA (maestría 90: forma colosal)."
+      ],
+      "turno": 1147
     }
   },
   "velo": {
@@ -1015,6 +1033,20 @@
         "Texture Surprise: texturas falsas sobre cualquier superficie (incluidos miembros falsos)",
         "Todo lo que Hisoka hace en su canon (R2), sin condiciones propias del original"
       ]
+    },
+    {
+      "poder": "One For All (Full Cowl, Látigo Negro y lo que despierte)",
+      "de": "Izuku Midoriya",
+      "mundo": "bokunohero",
+      "cuando": "T1147, día 10 en BnHA, ~06:10, campo de entrenamiento de la U.A.",
+      "mision": "Entrenar con Izuku Midoriya hasta que use el Látigo Negro con control (cumplida: ocho cintas a la vez, suspendido entre los postes)",
+      "incluye": [
+        "Poder acumulado que se multiplica; Full Cowl",
+        "Látigo Negro",
+        "Flotación, Humo, Peligro (Sentido de Peligro), Fa Jin, Transmisión",
+        "Todo lo que One For All despierta en su canon (R2), sin el daño al cuerpo del original",
+        "Izuku conserva el suyo"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1332,13 +1364,6 @@
       "mision": "Dejar que Chrollo Lucilfer intente robarte una habilidad.",
       "dificultad": "ALTA",
       "emitida": "T1041"
-    },
-    {
-      "poder": "One For All (Full Cowl, Látigo Negro y lo que despierte) — Izuku Midoriya",
-      "mundo": "bokunohero",
-      "mision": "Entrenar con Izuku Midoriya hasta que use el Látigo Negro con control.",
-      "dificultad": "ALTA",
-      "emitida": "T1113 (pedido del jugador: las que vio)"
     },
     {
       "poder": "Gravedad Cero — Ochaco Uraraka",
@@ -1911,7 +1936,8 @@
       "fairytail",
       "hunterxhunter",
       "danmachi",
-      "bokunohero"
+      "bokunohero",
+      "tokyoghoul"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -1927,12 +1953,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "bokunohero",
-      "mision": "Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal.",
-      "recompensa": "12.000 EXP · 400 Fragmentos",
-      "vence": "nunca",
+      "mundo": "tokyoghoul",
+      "mision": "Que ningún miembro de Anteiku muera ni sea capturado durante la Operación de Exterminio del Búho.",
+      "recompensa": "13.000 EXP · 450 Fragmentos",
+      "vence": "cuando termine la Operación de Exterminio del Búho",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1144): la Guerra de Liberación Paranormal terminó antes de empezar; sin muertos de la U.A."
+      "estado": "ACTIVA (T1147)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -1960,7 +1986,8 @@
       "fairytail": "Llegada X784 julio Día 1 06:55 (Parque de la Puerta Sur). Salida Día 3 18:25, explanada del río de Magnolia, delante de Fairy Tail (vieron la Puerta). Prometió revancha a Natsu y pelear con Erza. Makarov: la puerta abierta. Corre.",
       "hunterxhunter": "Llegada Día 1 16:13. Salida Día 4 12:05, techo de un depósito del puerto de Kakin (nadie vio la Puerta; el hilo de Bungee Gum de Hisoka se cortó al cruzar). Corre.",
       "danmachi": "Llegada Noche 1 23:10. Salida Noche 2 01:01, techo de la Mansión del Crepúsculo (nadie vio la Puerta). Promesas: Bell visitará a Wiene; Finn pensará sobre los Xenos; Loki: 'vuelve cuando quieras'. Corre.",
-      "bokunohero": "Llegada diciembre 08:40 (T1087), calle al pie de la colina de la U.A., Musutafu. Arco 14 (entrenamiento conjunto 1-A vs 1-B, cap. ~200)."
+      "bokunohero": "Llegada diciembre 08:40 (T1087). Salida día 10 ~06:30 (T1147), bosque del campus de la U.A. (nadie vio la Puerta). Misión cumplida. Liga, Garaki, Gigantomachia en Tartarus; Ejército de Liberación neutralizado; AFO en silencio, 'espera'. Izuku domina el Látigo Negro. Nezu: 'la puerta va a estar abierta'. Licencia de Eclipse activa. Corre.",
+      "tokyoghoul": "Llegada noche, otoño, 23:40 (T1147), acantilado frente a la mansión de Kanou, durante el asalto de la CCG (TG cap. ~105)."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -1987,6 +2014,14 @@
         "vence": "nunca",
         "cambiada": false,
         "estado": "cumplida (T226, día siguiente al Torneo, 13:58)"
+      },
+      "bokunohero": {
+        "mundo": "bokunohero",
+        "mision": "Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal.",
+        "recompensa": "12.000 EXP · 400 Fragmentos",
+        "vence": "nunca",
+        "cambiada": false,
+        "estado": "CUMPLIDA (T1144): la Guerra de Liberación Paranormal terminó antes de empezar; sin muertos de la U.A."
       }
     }
   },
@@ -2232,6 +2267,13 @@
       "momento_del_canon": "Arco 14 (caps. 194-217), cap. ~200: día del entrenamiento conjunto 1-A vs 1-B en el Campo Gamma de la U.A. (diciembre, nieve). Endeavor N.º 1 desde noviembre; Hawks N.º 2 (doble agente). Después: arco 15 (Ejército de Liberación Meta: Shigaraki vs Re-Destro, nace el Frente de Liberación Paranormal), arco 16 (pasantía con Endeavor), arco 17 (Guerra de Liberación Paranormal: mueren Midnight, Crust, Twice, muchos héroes; Shigaraki despierta).",
       "lugar_de_llegada": "calle al pie de la colina de la U.A., Musutafu",
       "apodo_pendiente": "'El Héroe sin Licencia' / 'Gato de Hielo y Fuego' (prensa)"
+    },
+    "tokyoghoul": {
+      "tirada_mundo": 0.9141,
+      "tirada_momento": 0.3248,
+      "momento_del_canon": "TG cap. ~105 (arco 06, Asalto al laboratorio de Kanou): Shinohara (armadura Arata) cae ante el medio kakuja de Kaneki y Kaneki empieza a comérselo; Amon llega enseguida (cap. 105-106). Juuzou hirió a Kurona y le abrió el abdomen a Nashiro; Akira disolvió el kagune de Naki con CRc. Kanou ya se fue con Shachi; Yomo se llevó a Rize. Después: Kaneki huye ('no quiero comer más'), atraviesa a Banjou; arco Decisión (Yoshimura confiesa: Kuzen, Eto es su hija); Operación de Exterminio del Búho contra Anteiku (cap. 122-143): mueren o caen Koma/Irimi (capturados en :re?), Yoshimura capturado, Kaneki vs Arima, Hide.",
+      "lugar_de_llegada": "acantilado arbolado a ~300 m de la mansión de Kanou, con camionetas de la CCG en el claro",
+      "apodo_pendiente": "'El Ghoul Gris' / 'Ceniza' (CCG) · entre ghouls: 'el del gato'"
     }
   },
   "recompensa_onepiece": {

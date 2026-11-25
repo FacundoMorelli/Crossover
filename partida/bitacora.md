@@ -1145,3 +1145,4 @@ T1143 · BnHA · Comisión · Perdón por Tartarus. AFO: "Que no se apure en irs
 T1144 · BnHA · Simulación 4 días · Anuncio de la Comisión (operativo conjunto, sin Eclipse). Traslados a Tartarus. Día 3: cierre del operativo → MISIÓN DE MUNDO CUMPLIDA (+12.000 EXP, +400 F). Día 4: Izuku pide entrenar.
 T1145 · BnHA · U.A. · Entrenamiento con Izuku: regular la ira. El Látigo Negro se descontrola; una cinta va hacia Kase.
 T1146 · BnHA · U.A. · Atrapa la cinta. Izuku se calma y mueve una cinta a voluntad por primera vez. "¿Otra vez?"
+T1147 · BnHA → Tokyo Ghoul · 6 días entrenando a Izuku: domina el Látigo Negro → copia One For All. Despedidas. Puerta. Tokyo Ghoul (tirada 0.9141; momento 0.3248, cap. ~105): acantilado frente a la mansión de Kanou en pleno asalto de la CCG. Don: Kagune de Ceniza. Misión: Anteiku en la Operación del Búho.

@@ -50,3 +50,4 @@
 - T1144 · Día 2 · Declaración de Facundo a Tsukauchi. All Might se reúne con el director de Tartarus.
 - T1144 · Día 3 · Traslados terminados: Shigaraki (nivel más bajo, ala opuesta a AFO), Garaki, Dabi, Toga, Twice, Spinner, Compress en celdas separadas; Gigantomachia sedado en hangar reforzado; Re-Destro y tenientes en otra prisión. 23:30: la Comisión cierra el operativo. FIN DE LA GUERRA DE LIBERACIÓN PARANORMAL (antes de empezar).
 - T1144 · Día 4, 07:02 · Izuku busca a Facundo para entrenar.
+- T1147 · Días 5-10 · Entrenamiento diario con Izuku: el día 10 domina el Látigo Negro (ocho cintas). Despedidas: Nezu, Aizawa, All Might, Izuku. Facundo se va por la Puerta desde el bosque del campus.
