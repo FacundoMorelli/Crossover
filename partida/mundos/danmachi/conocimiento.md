@@ -11,3 +11,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - (nadie)
 - Gros · T1062 · Facundo le ofreció llevarlo a la Mazmorra; sabe que es un Xenos y que necesita volver (Gros lo deduce: no grita, habla como si supiera). Sospecha que es de Ikelos.
 - Gros · T1063 · su nombre, Facundo Morelli; sin Familia; viajero recién llegado; no quiere matarlos (él lo dijo).
+- Bete Loga y patrulla (4 Ganesha, 1 Loki más) · T1064 · ven a Facundo en un techo de Dédalo a las 23:13, con un gato enorme. Bete dice que el gato huele raro. No ven a Gros.

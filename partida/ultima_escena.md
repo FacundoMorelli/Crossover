@@ -3,110 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1061)
-abro la puerta a un mundo nuevo
-
-## RESPUESTA 1 (T1061)
-
-> abro la puerta a un mundo nuevo
-
-Te levantas del borde del techo. El Black Whale ya es una línea blanca en el horizonte, y los helicópteros vuelven al puerto.
-
-Abres la Puerta sobre las chapas destrozadas, entre las cartas clavadas. El rectángulo de luz blanca, con su borde rojo y azul, tiembla bajo el sol del mediodía. Nadie mira hacia aquí: el puerto entero mira al mar.
-
-En tu palma, la gota rosada de Bungee Gum se estira hacia la ciudad, fina como un pelo.
-
-Cruzas.
-
-El hilo se corta con un chasquido que solo tú escuchas.
-
-[Mundo nuevo.]
-
-Es de noche.
-
-Lo primero que sientes es el aire: fresco, limpio, con olor a piedra húmeda, a leña quemada y a algo dulce, como pan de miel. Después, el silencio. No el silencio de un pueblo dormido, sino el de una ciudad grande que contiene la respiración.
-
-Estás en el techo de una casa de piedra, plano, con macetas de hierbas secas y una cuerda de ropa tendida. Alrededor, hasta donde llega la vista, hay techos. Cientos. Miles. Todos apretados unos contra otros, a distintas alturas, unidos por escaleras, puentes de madera, pasarelas, arcos, callejones que suben y bajan y se cruzan como los hilos de un ovillo enredado. Un laberinto de ciudad.
-
-Y por encima de todo, en el centro, se levanta una torre blanca.
-
-Es tan alta y tan blanca que de noche parece brillar sola, recortada contra las estrellas. Alrededor, a lo lejos, se ven murallas enormes que encierran la ciudad entera en un círculo.
-
-Kase no se eriza. Levanta la nariz y olfatea. Después mira hacia la torre, quieto, con las orejas paradas. Sientes lo mismo que él: allá, en esa torre, y en varios puntos de la ciudad, hay presencias que no son humanas. No son como las de los otros mundos. Son enormes, y al mismo tiempo están apretadas, encogidas, como un sol metido a la fuerza dentro de una caja.
-
-Abajo, en el callejón, se escuchan pasos. Muchos. Armaduras.
-
-Pasa una patrulla: diez hombres y mujeres con lanzas y escudos, todos con el mismo emblema pintado en el pecho, una máscara de elefante. Uno lleva una antorcha. Detrás viene otra patrulla, distinta: cuatro aventureros jóvenes, con capas verdes y un emblema de bufón sonriente bordado en la espalda. Revisan los portales, los sótanos, las escaleras que bajan.
-
-—...ni rastro en este sector —dice una mujer de la máscara de elefante—. La capitana Shakti quiere todo el barrio peinado antes del amanecer.
-
-—¿Y si están en los sótanos?
-
-—Entonces peinamos los sótanos. Esas cosas no pueden quedarse en la superficie. No después de lo de ayer.
-
-—Todavía no puedo creer que Little Rookie los haya protegido —murmura uno de capa verde—. Un aventurero protegiendo monstruos. Dicen que la diosa Hestia ni sale de la casa.
-
-Siguen de largo. La antorcha se aleja por el callejón y la luz se pierde detrás de una esquina.
-
-En la pared de la casa de enfrente hay un cartel pegado, nuevo, con el sello de algo que parece un gremio:
-
-ALERTA · MONSTRUOS EN LA SUPERFICIE · CALLE DÉDALO
-NO SE ACERQUE. NO LOS ESCONDA. AVISE AL GREMIO.
-
-[Destino fijado.]
-
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: DanMachi                              ║
-║ FALNA DEL ECLIPSE · Skill: ÉGIDA DEL         ║
-║ JURAMENTO                                    ║
-║ Cuando nombras a alguien en voz alta y       ║
-║ juras protegerlo, no puede morir mientras    ║
-║ estés a menos de 1 km y consciente: todo el  ║
-║ daño mortal que reciba pasa a ti.            ║
-║ 3 protegidos a la vez                        ║
-║ Maestría 30                                  ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: DanMachi                              ║
-║                                              ║
-║ MISIÓN: Que todos los Xenos atrapados en la  ║
-║ superficie vuelvan a la Mazmorra sin que     ║
-║ muera ninguno.                               ║
-║ RECOMPENSA: 10.000 EXP · 300 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-
-Y en el techo de la casa de al lado, a doce metros, del otro lado de un callejón angosto, algo que parecía una estatua de piedra se mueve.
-
-Es una gárgola. Gris, alta como un hombre, con alas de murciélago plegadas y cuernos curvos. Estaba agazapada en el borde del techo, inmóvil, mirando pasar la patrulla. Ahora gira la cabeza de piedra, despacio, con un crujido, y te mira.
-
-Tiene los ojos rojos. Inteligentes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1061 · DANMACHI · NOCHE 1 · 23:10      ║
-║ Orario · Calle Dédalo, techo de una casa     ║
-║ NIVEL 28 · EXP 252.350/280.000               ║
-║ FRAGMENTOS 108.590 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1062)
+## COMANDO 1 (T1062)
 hola, necesitas volver a la mazmorra no? quieres que te lleve?
 
-## RESPUESTA 2 (T1062)
+## RESPUESTA 1 (T1062)
 
 > hola, necesitas volver a la mazmorra no? quieres que te lleve?
 
@@ -152,10 +52,10 @@ Te mira.
 
 ---
 
-## COMANDO 3 (T1063)
+## COMANDO 2 (T1063)
 me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
 
-## RESPUESTA 3 (T1063)
+## RESPUESTA 2 (T1063)
 
 > me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
 
@@ -203,4 +103,53 @@ Gros se agacha más contra el techo, pegado a las tejas, hasta volverse otra vez
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:12, techos de Dédalo. Gros no se va solo: los Xenos están dispersos y heridos por Dédalo; pide que los lleve a todos o a ninguno. La patrulla llega. Facundo puede actuar.
+## COMANDO 3 (T1064)
+está bien, los llevo a todos, dime dónde están
+
+## RESPUESTA 3 (T1064)
+
+> está bien, los llevo a todos, dime dónde están
+
+> —Está bien. Los llevo a todos. Dime dónde están.
+
+Gros no se mueve. Habla sin abrir casi la boca, rápido, con la voz convertida en un roce de piedra que apenas cruza el callejón.
+
+—Lido y Wiene, en un sótano debajo de una panadería quemada, al este, cerca del orfanato de la vieja María. Rei, en el campanario roto de la parte alta, el que no tiene campana. —Una pausa—. Fia, la arpía, y Aruru, el conejo con cuerno, en las cloacas debajo de la plaza del pozo. Hay más en Knossos, cerca de la puerta de hierro que da a la calle de los tintoreros: siete, ocho. Ahí está el troll. Tiene las dos piernas rotas. No camina.
+
+Los ojos rojos se mueven hacia la antorcha.
+
+—El minotauro negro... no sé. Anda solo. Nadie sabe dónde.
+
+Abajo, en el callejón, la patrulla llega.
+
+Son seis, esta vez. Cuatro de la máscara de elefante y dos de capa verde con el bufón en la espalda. Uno de los de capa verde es un muchacho alto, de pelo gris, con orejas de lobo y la cara cruzada por un tatuaje. Se detiene en medio del callejón. Olfatea el aire.
+
+Levanta la vista directo al techo donde estás.
+
+—Eh. —La voz es ronca, desagradable—. Tú. El del techo. —Entrecierra los ojos—. ¿Qué demonios haces ahí arriba a esta hora?
+
+Los otros cinco levantan las antorchas. La luz te da en la cara. En el pelo blanco y azul. En el gato.
+
+El hombre lobo arruga la nariz. No mira hacia el techo de al lado, donde Gros es una estatua más entre las tejas. Te mira a ti.
+
+—Y ese gato... —gruñe—. Huele raro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1064 · DANMACHI · NOCHE 1 · 23:13      ║
+║ Orario · Calle Dédalo, techo de una casa     ║
+║ NIVEL 28 · EXP 252.350/280.000               ║
+║ FRAGMENTOS 108.590 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Llevar a todos los Xenos           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:13, techos de Dédalo. Gros dio las ubicaciones de los Xenos. Una patrulla (con Bete Loga) ilumina a Facundo en el techo y le pregunta qué hace ahí; el gato "huele raro". Gros sigue como estatua. Facundo puede actuar.

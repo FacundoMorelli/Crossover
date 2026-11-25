@@ -1062,3 +1062,4 @@ T1060 · HxH · Puerto de Kakin · La Tropa sube de incógnito; Hisoka no. Machi
 T1061 · HxH → DanMachi · Puerta desde Kakin (se corta el hilo de Hisoka). Orario, Calle Dédalo, de noche: patrullas de Ganesha y Loki; cartel de monstruos. Don: Falna del Eclipse, Égida del Juramento. Misión: que los Xenos vuelvan a la Mazmorra sin muertes. Gros lo mira.
 T1062 · DanMachi · Techos de Dédalo · "¿Quieres que te lleve a la Mazmorra?" Gros: "¿De qué Familia eres? ¿Ikelos?" Se acerca una patrulla. "¿Quién eres?"
 T1063 · DanMachi · Techos de Dédalo · "Soy un viajero, no me interesa matarlos." Gros: "Llévanos a todos. O a ninguno." Llega la patrulla.
+T1064 · DanMachi · Techos de Dédalo · Gros da las ubicaciones de los Xenos. Patrulla con Bete: "¿Qué demonios haces ahí? Ese gato huele raro."
