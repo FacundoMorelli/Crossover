@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1107)
-sí, puedo sentir a la gente, los busco si quieren
-
-## RESPUESTA 1 (T1107)
-
-> sí, puedo sentir a la gente, los busco si quieren
-
-> —Sí. Puedo sentir a la gente. Los busco, si quieren.
-
-Nadie dice nada durante un segundo.
-
-Después Nezu se ríe. Una risa aguda, cortita, encantada, que suena por el parlante de la pantalla como un chillido de juguete.
-
-—¡Ah! ¡Lo sabía! —Golpea el escritorio con una patita—. ¡Lo sabía!
-
-All Might se queda mirándote con la boca entreabierta.
-
-—Sentir a la gente —murmura—. A cualquier distancia...
-
-Aizawa no se ríe. Se queda muy quieto en la silla, con los codos en las rodillas.
-
-—Si puedes sentir dónde está Shigaraki —dice, despacio—, puedes sentir dónde está cualquiera. Un alumno. Un profesor. Un héroe. Yo. —Te mira—. Eso es algo que no le diría a nadie más, si fuera tú.
-
-—Por eso no va a salir de esta sala, Shota —dice Nezu, todavía sonriendo—. Esta conversación no existe.
-
-Se acomoda en el sillón. Deja de reírse. Junta las patitas otra vez.
-
-—Escúcheme bien, señor Morelli, porque esto es importante. —La voz se le pone seria, lenta—. Sí, quiero que los busque. Pero solo eso: buscarlos. Saber dónde están, cuántos son, qué hacen. Nada más. No vaya. No los toque. No haga nada.
-
-Levanta una patita.
-
-—Porque si usted aparece mañana en las noticias derribando a la Liga de Villanos en medio de una montaña, sin licencia, sin orden judicial, sin la Comisión, la Liga cae... y usted también. Y la U.A. con usted. Y esa noticia, en este país, después de Kamino, puede romper cosas que no se arreglan con semillas. —Una pausa—. Si sabemos dónde están, yo puedo mover las piezas correctas. Héroes con licencia. La Comisión. Una operación legal, con todo el peso del Estado detrás. Y usted ahí, en el lugar justo.
-
-Mira a All Might. Después a Aizawa. Después otra vez a ti.
-
-—Búsquelos. Ahora, si puede. —Sonríe apenas—. Y dígame qué siente.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1107 · BOKU NO HERO · DIC. · 11:35     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Encontrar a la Liga                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1108)
+## COMANDO 1 (T1108)
 busco a la Liga
 
-## RESPUESTA 2 (T1108)
+## RESPUESTA 1 (T1108)
 
 > busco a la Liga
 
@@ -117,10 +62,10 @@ Nezu es el primero.
 
 ---
 
-## COMANDO 3 (T1109)
+## COMANDO 2 (T1109)
 los encontre, les digo todo
 
-## RESPUESTA 3 (T1109)
+## RESPUESTA 2 (T1109)
 
 > los encontre, les digo todo
 
@@ -174,4 +119,65 @@ Te mira por la cámara.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:42, sala de monitoreo. Facundo les contó todo. All Might teme que All For One sintiera a Izuku. Nezu llevará esto a la Comisión y a los N.º 1 y 2; puso un mapa de Japón y le pide que marque los lugares. Facundo puede actuar.
+## COMANDO 3 (T1110)
+sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
+
+## RESPUESTA 3 (T1110)
+
+> sí, marco los lugares en el mapa y señor toshinori quiere que la sane esa herida que tiene ahi en el cuerpo?
+
+Te acercas a la pantalla del mapa. Es táctil: con un dedo marcas un punto, y en el mapa se enciende un círculo rojo.
+
+Las montañas del noroeste, en la cordillera, lejos de cualquier pueblo. Un círculo. Unos kilómetros más abajo, en un valle, la cabaña. Otro. La ciudad del sur, que se mueve como un ejército: un círculo grande, sobre el nombre impreso de la ciudad. Deika. Y el hospital: en otra ciudad, más al este, sobre una mancha gris de edificios. Jaku. El último círculo.
+
+No marcas el agujero. Ya saben dónde está.
+
+En la pantalla, Nezu mira los cuatro puntos rojos. No dice nada. Pero teclea muy rápido fuera de cámara, y en otra pantalla empiezan a abrirse archivos, fotos satelitales, nombres.
+
+—Deika —murmura—. Ciudad de ciento quince mil habitantes. Alcaldía modelo. Cero incidentes de villanos en los últimos veinte años. —Los ojitos se le achican—. Demasiado perfecta.
+
+Te das vuelta hacia All Might.
+
+> —Señor Toshinori, ¿quiere que le sane esa herida que tiene ahí, en el cuerpo?
+
+All Might se queda quieto.
+
+Te mira. Se le borra la cara de golpe, como si alguien la hubiera apagado. Sin darse cuenta, se lleva la mano huesuda al costado izquierdo del torso, por encima del traje amarillo, al lugar exacto. Lo aprieta.
+
+—¿Cómo...?
+
+No termina la pregunta. La deja caer.
+
+Aizawa se da vuelta en la silla, despacio, sin decir nada.
+
+—Seis años. —All Might baja la vista a su propia mano—. Hace seis años, ese hombre me abrió aquí. Me sacaron el estómago entero. La mitad de un pulmón. Desde entonces como de a poco, toso sangre, duermo mal. Cada vez que me miro al espejo, veo lo que me quitó. —Le tiembla la voz—. Los mejores médicos del país dijeron que no había nada que hacer. Recovery Girl dijo que no había nada que hacer.
+
+Se queda callado un rato largo. Se mira la mano, apretada contra el costado.
+
+—Y aunque me la sanes... —murmura—. One For All ya no está en mí. Se lo di. Ya no puedo ser lo que era. Nunca más. —Levanta la vista hacia ti. Tiene los ojos hundidos llenos de lágrimas—. Pero podría... podría estar ahí. Con ellos. Sin toser sangre. Sin que me tiemblen las piernas cada vez que subo una escalera.
+
+La voz se le quiebra del todo.
+
+—¿De verdad... podrías?
+
+En la pantalla, Nezu dejó de teclear.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1110 · BOKU NO HERO · DIC. · 11:46     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:46, sala de monitoreo. Facundo marcó en el mapa las montañas, la cabaña, Deika y Jaku. Le ofreció a All Might sanarle la herida; All Might, emocionado, pregunta si de verdad podría. Facundo puede actuar.
