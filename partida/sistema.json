@@ -1,13 +1,13 @@
 {
-  "turno": 1065,
+  "turno": 1066,
   "mundo_actual": "danmachi",
   "fecha_local": "Noche 1 (vol. 11, día siguiente a la batalla de la Calle Dédalo)",
-  "hora": "23:14",
+  "hora": "23:15",
   "edad": 18,
   "nivel": 28,
-  "exp": 252350,
+  "exp": 253900,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 108590,
+  "fragmentos": 108640,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1778,6 +1778,20 @@
       "turno": 1058,
       "fragmentos": 150,
       "exp": 2500
+    },
+    {
+      "mundo": "danmachi",
+      "quien": "Bete Loga (Familia Loki, Nivel 5)",
+      "turno": 1066,
+      "fragmentos": 25,
+      "exp": 800
+    },
+    {
+      "mundo": "danmachi",
+      "quien": "5 aventureros de patrulla (4 Ganesha, 1 Loki)",
+      "turno": 1066,
+      "fragmentos": 25,
+      "exp": 750
     }
   ],
   "viaje": {

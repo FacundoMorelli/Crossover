@@ -5,3 +5,4 @@ ESTADO: Los Xenos (monstruos inteligentes) atrapados en la superficie, escondido
 DON DE MUNDO: Falna del Eclipse · Égida del Juramento (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
+- T1066 · Bete Loga y una patrulla de Ganesha/Loki derrotados por Facundo en Dédalo.

@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1063)
-me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
-
-## RESPUESTA 1 (T1063)
-
-> me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
-
-> —Me llamo Facundo Morelli. No soy de ninguna Familia. Acabo de llegar aquí. Soy un viajero. No me interesa matarlos. Entonces, ¿quieres que te lleve o no?
-
-Gros te mira un momento largo, sin pestañear. Los ojos de piedra no pestañean.
-
-—Un viajero —repite—. Sin Familia. Que acaba de llegar. —Gruñe por lo bajo—. Y lo primero que haces en Orario es subirte a un techo de Dédalo y ofrecerle a un monstruo llevarlo a casa.
-
-La antorcha del puente de madera se acerca. Ya se escuchan las voces de la patrulla, dos calles más allá.
-
-Gros mira la antorcha. Te mira a ti. Algo le cambia en la cara de piedra: no confianza, pero sí cansancio. Mucho cansancio.
-
-—No —dice.
-
-Pliega las alas, despacio.
-
-—No me voy solo. —Lo dice firme, aunque la voz se le quiebra un poco en la mitad—. Somos muchos. Lido. Rei. La pequeña Wiene. Otros. Estamos todos escondidos en este laberinto desde ayer, separados, porque si nos juntamos nos encuentran. Hay heridos. Hay uno que no se puede mover. —Se le tensa la mandíbula—. Si me voy solo, los dejo para que los cacen.
-
-Mira hacia abajo, hacia la red de callejones oscuros de Dédalo.
-
-—Si de verdad puedes llevar a alguien a la Mazmorra, humano, entonces no me lleves a mí. Llévanos a todos. O a ninguno.
-
-La antorcha dobla la esquina del puente. Una voz grita algo, una orden. Pasos que se aceleran.
-
-Gros se agacha más contra el techo, pegado a las tejas, hasta volverse otra vez una estatua. Solo los ojos rojos siguen vivos.
-
-—Y si no eres lo que dices —susurra—, te voy a encontrar. Aunque me cueste las dos alas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1063 · DANMACHI · NOCHE 1 · 23:12      ║
-║ Orario · Calle Dédalo, techo de una casa     ║
-║ NIVEL 28 · EXP 252.350/280.000               ║
-║ FRAGMENTOS 108.590 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Llevar a todos los Xenos           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1064)
+## COMANDO 1 (T1064)
 está bien, los llevo a todos, dime dónde están
 
-## RESPUESTA 2 (T1064)
+## RESPUESTA 1 (T1064)
 
 > está bien, los llevo a todos, dime dónde están
 
@@ -103,10 +52,10 @@ El hombre lobo arruga la nariz. No mira hacia el techo de al lado, donde Gros es
 
 ---
 
-## COMANDO 3 (T1065)
+## COMANDO 2 (T1065)
 es un gato normal, tienes algun problema con mi gato?
 
-## RESPUESTA 3 (T1065)
+## RESPUESTA 2 (T1065)
 
 > es un gato normal, tienes algun problema con mi gato?
 
@@ -158,4 +107,77 @@ Se le paran las orejas.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:14, techos de Dédalo. Bete subió al techo de Facundo; nota que Facundo no huele a nada y que el gato huele a lugares de afuera; olfatea a Gros: "eso no huele a piedra". Facundo puede actuar.
+## COMANDO 3 (T1066)
+lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
+
+## RESPUESTA 3 (T1066)
+
+> lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
+
+Bete da un paso hacia el borde del techo, hacia Gros.
+
+No llega a dar el segundo.
+
+El golpe le entra en la nuca, de costado, con el canto de la mano. No lo ve venir. No lo huele venir. Las orejas de lobo se le quedan paradas un instante, todavía apuntando hacia la gárgola, y después se le doblan las rodillas y cae de cara sobre las tejas, con los brazos abiertos. No se mueve más.
+
+Abajo, en el callejón, cinco antorchas se levantan a la vez.
+
+—¡¿Bete?!
+
+—¡¿Qué...?!
+
+Bajas.
+
+No saltas: estás arriba y después estás abajo, en medio de ellos, entre las antorchas. La de la máscara de elefante que suspiró antes es la primera: no llega a bajar la lanza. Un golpe seco en la sien. Después el de al lado. El chico de capa verde, que tenía la mano en la empuñadura de la espada, se queda con la mano ahí. Los otros dos alcanzan a abrir la boca para gritar.
+
+Cinco golpes. Cinco cuerpos en el empedrado, en el mismo segundo, como muñecos a los que les cortan los hilos. Las antorchas caen, ruedan, siguen ardiendo en el suelo.
+
+Ninguno sangra. Todos respiran.
+
+[Rivales vencidos: Bete Loga y cinco aventureros de las Familias Ganesha y Loki. +1.550 EXP · +50 Fragmentos.]
+
+El callejón queda en silencio. Solo crepitan las antorchas.
+
+Vuelves a subir al techo. Kase sigue en tu hombro, como si nada.
+
+Te das vuelta hacia la gárgola.
+
+> —Bueno, bien. Vamos con los demás. ¿Vienes o te quedas ahí haciéndote la estatua?
+
+Gros no se mueve durante un segundo largo.
+
+Después la estatua se vuelve gárgola otra vez, con un crujido de piedra. Se levanta despacio en el borde del techo. Mira a Bete, tirado de cara en las tejas. Mira hacia abajo, al callejón, a los cinco cuerpos alrededor de las antorchas.
+
+—Ese es Vanargand —dice. La voz de piedra se le quedó baja, casi un susurro—. Bete Loga. Nivel cinco. De la Familia Loki. Ayer nos persiguió por media Dédalo. Le rompió el ala a Fia de una patada.
+
+Te mira.
+
+—Y lo tiraste sin que se diera cuenta.
+
+Se le abren las alas, con la grieta del golpe todavía marcada en una de ellas.
+
+—Voy —dice—. Pero escúchame bien, Facundo Morelli. —Los ojos rojos se le encienden—. Cuando se despierten, van a decir tu cara. Tu gato. Tu pelo. A Finn Deimne. Al Gremio. A todos. —Una pausa—. Desde esta noche, en esta ciudad, eres igual que nosotros.
+
+Salta del techo. Abre las alas en el aire y planea, bajo, entre las chimeneas, hacia el este.
+
+—Primero Lido —dice por encima del hombro—. Es el que más sabe salir de aquí.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1066 · DANMACHI · NOCHE 1 · 23:15      ║
+║ Orario · Calle Dédalo, techos                ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Lido y Wiene (panadería quemada)   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:15, techos de Dédalo. Bete y la patrulla inconscientes. Gros guía a Facundo al este, hacia Lido y Wiene (sótano de la panadería quemada). Facundo puede actuar.
