@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1104)
-sí, después hablamos, voy con Aizawa a la sala
-
-## RESPUESTA 1 (T1104)
-
-> sí, después hablamos, voy con Aizawa a la sala
-
-> —Sí, después hablamos.
-
-El chico de pelo verde sonríe de oreja a oreja mientras Uraraka lo arrastra flotando hacia la salida, como un globo. Lo escuchas murmurar cosas a toda velocidad, para sí mismo, hasta que doblan detrás de una tubería.
-
-Caminas con Aizawa por el laberinto de acero, sobre la nieve sucia. Él no habla en todo el camino. Va con las manos en los bolsillos, mirando el suelo, arrastrando los pies. Cada tanto te mira de reojo.
-
-[11:28 · Sala de monitoreo del Campo Gamma.]
-
-All Might está sentado en la silla de Aizawa, encorvado, con las dos manos juntas sobre la boca. Se levanta de golpe cuando entran. Le tiemblan un poco las piernas.
-
-—Joven Morelli. —Se te acerca. Te agarra la mano con las dos suyas, huesudas, y la aprieta—. Gracias. —La voz le sale rota—. Ese chico es... es muy importante. Para mí. Para todos. Gracias.
-
-No te suelta enseguida.
-
-Aizawa se deja caer en la silla que dejó libre All Might. Se frota los ojos. Agarra el cartón de jugo que había quedado en la consola, lo sacude, comprueba que está vacío y lo deja otra vez.
-
-En una de las pantallas, la que estaba apagada, aparece la cara de Nezu, sonriente, con una taza de té en las patitas.
-
-—¡Qué mañana más entretenida! —dice desde la pantalla—. Lo vi todo. Primer día de trabajo y ya salvó a dos alumnos. Me encanta cuando mis cálculos salen bien.
-
-—Director —dice Aizawa, sin levantar la vista—. Le debo un informe.
-
-—Por supuesto, por supuesto.
-
-Aizawa gira la silla hacia ti. Apoya los codos en las rodillas. Te mira con los ojos rojos, cansados.
-
-—Sujetaste un Don de tipo emisión que ni el propio Midoriya podía controlar, con una mano. Lo aplastaste contra el suelo con algo que parecía gravedad, y que congelaba. Y después le diste a Midoriya algo de comer que en un segundo le curó todo. Raspones, golpes, el agotamiento del Don. —Hace una pausa—. Recovery Girl tarda una tarde en hacer eso. Y lo deja dormido dos días.
-
-Junta las manos.
-
-—Esa semilla —dice—. ¿Qué es?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1104 · BOKU NO HERO · DIC. · 11:28     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1105)
+## COMANDO 1 (T1105)
 es una medicina de los lugares a los que viajo
 
-## RESPUESTA 2 (T1105)
+## RESPUESTA 1 (T1105)
 
 > es una medicina de los lugares a los que viajo
 
@@ -113,10 +56,10 @@ Una pausa.
 
 ---
 
-## COMANDO 3 (T1106)
+## COMANDO 2 (T1106)
 tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
 
-## RESPUESTA 3 (T1106)
+## RESPUESTA 2 (T1106)
 
 > tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
 
@@ -166,4 +109,59 @@ Inclina la cabeza, como un pájaro.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:33, sala de monitoreo. Facundo ofreció ir a derrotar a la Liga. Aizawa: problemas legales y nadie sabe dónde están. Nezu pregunta si Facundo puede encontrar a la gente. Facundo puede responder.
+## COMANDO 3 (T1107)
+sí, puedo sentir a la gente, los busco si quieren
+
+## RESPUESTA 3 (T1107)
+
+> sí, puedo sentir a la gente, los busco si quieren
+
+> —Sí. Puedo sentir a la gente. Los busco, si quieren.
+
+Nadie dice nada durante un segundo.
+
+Después Nezu se ríe. Una risa aguda, cortita, encantada, que suena por el parlante de la pantalla como un chillido de juguete.
+
+—¡Ah! ¡Lo sabía! —Golpea el escritorio con una patita—. ¡Lo sabía!
+
+All Might se queda mirándote con la boca entreabierta.
+
+—Sentir a la gente —murmura—. A cualquier distancia...
+
+Aizawa no se ríe. Se queda muy quieto en la silla, con los codos en las rodillas.
+
+—Si puedes sentir dónde está Shigaraki —dice, despacio—, puedes sentir dónde está cualquiera. Un alumno. Un profesor. Un héroe. Yo. —Te mira—. Eso es algo que no le diría a nadie más, si fuera tú.
+
+—Por eso no va a salir de esta sala, Shota —dice Nezu, todavía sonriendo—. Esta conversación no existe.
+
+Se acomoda en el sillón. Deja de reírse. Junta las patitas otra vez.
+
+—Escúcheme bien, señor Morelli, porque esto es importante. —La voz se le pone seria, lenta—. Sí, quiero que los busque. Pero solo eso: buscarlos. Saber dónde están, cuántos son, qué hacen. Nada más. No vaya. No los toque. No haga nada.
+
+Levanta una patita.
+
+—Porque si usted aparece mañana en las noticias derribando a la Liga de Villanos en medio de una montaña, sin licencia, sin orden judicial, sin la Comisión, la Liga cae... y usted también. Y la U.A. con usted. Y esa noticia, en este país, después de Kamino, puede romper cosas que no se arreglan con semillas. —Una pausa—. Si sabemos dónde están, yo puedo mover las piezas correctas. Héroes con licencia. La Comisión. Una operación legal, con todo el peso del Estado detrás. Y usted ahí, en el lugar justo.
+
+Mira a All Might. Después a Aizawa. Después otra vez a ti.
+
+—Búsquelos. Ahora, si puede. —Sonríe apenas—. Y dígame qué siente.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1107 · BOKU NO HERO · DIC. · 11:35     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Encontrar a la Liga                ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:35, sala de monitoreo. Nezu le pide que busque ahora a la Liga, solo para localizarla (sin ir ni actuar), para organizar una operación legal. Aizawa advierte que esa capacidad es peligrosa de revelar. Facundo puede actuar.

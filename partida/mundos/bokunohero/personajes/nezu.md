@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1107 · "¡Ah! ¡Lo sabía!" "Esta conversación no existe." "Sí, quiero que los busque. Pero solo eso. No vaya. No los toque." "Si sabemos dónde están, yo puedo mover las piezas correctas. Una operación legal. Y usted ahí, en el lugar justo." "Búsquelos. Ahora, si puede. Y dígame qué siente."
 - T1106 · "Desde Kamino, la Liga desapareció. Están juntando gente. Su líder, Tomura Shigaraki, es el heredero del hombre que está en Tártaro." "Señor Morelli. ¿Usted puede encontrar a la gente?"
 - T1105 · "La Liga de Villanos desapareció del mapa. Un Nomu que habla y piensa casi mata a nuestro héroe número uno en Fukuoka. Algo grande se está moviendo debajo de la tierra. Y cuando llegue, esta escuela va a estar en medio." "Una medicina que cura cualquier herida en un segundo, en una guerra, cambia la guerra. ¿Cuántas tiene?"
 - T1104 · "¡Qué mañana más entretenida! Lo vi todo. Primer día de trabajo y ya salvó a dos alumnos. Me encanta cuando mis cálculos salen bien."
