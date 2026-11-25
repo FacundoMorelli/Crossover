@@ -164,3 +164,5 @@
 - Facundo · T1250 · por Arima: en el Jardín quedan otros; los más chicos tienen 9 años.
 - 31 chicos del Jardín, Hairu, dos cuidadoras Washuu · T1251 · por Arima: quién es Facundo y lo que hizo; vivieron la transfiguración.
 - Facundo · T1251 · conoce la ubicación del Jardín (1 h 30 de la ciudad, montaña de cedros).
+- Facundo · T1252 · Tasación de la chica de las vendas: sin datos; ghoul ukaku con kakuja; esconde mucha fuerza. Ella iba a mirar la operación "en primera fila".
+- Chica de las vendas · T1252 · sabe del Panadero (rumor) y que la operación se suspendió por él (por deducción/fuentes propias de Aogiri: no consta cuál; anotar si se pregunta con /fuente).

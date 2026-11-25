@@ -3,55 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1249)
-puedo probarlo
-
-## RESPUESTA 1 (T1249)
-
-> —Puedo probarlo.
-
-Arima no contesta enseguida.
-
-Mira el libro que tiene en la mano. Lo da vuelta. Pasa el pulgar por el lomo gastado, como si estuviera despidiéndose de algo. Después lo deja sobre la madera de la galería, al lado del maletín plateado, con cuidado, bien alineado con el borde.
-
-Se quita los lentes.
-
-Sin ellos, la cara es más joven de lo que parecía. Y los ojos son distintos. No del todo: hay que mirarlos de cerca. El color es gris claro, pero en el borde del iris, en los dos, hay un anillo blanquecino, lechoso, como la escarcha en el borde de un vidrio. Cuando mueve la vista hacia ti, tarda un instante de más en enfocar.
-
-—El derecho ya casi no ve de noche —dice, como quien da un informe—. El izquierdo, desde el año pasado, tampoco con poca luz. Los médicos del Jardín dicen que me quedan entre cinco y ocho años. Ninguno de los que crecieron conmigo pasó de los treinta y siete.
-
-Dobla los lentes. Los guarda en el bolsillo del saco, junto al lugar donde antes estaba el libro.
-
-Después se sienta en el borde de la galería, con los pies sobre la grava, de cara al estanque. Se queda quieto, con las manos apoyadas en las rodillas y la espalda recta, como un alumno que espera a que le tomen una prueba.
-
-—Nunca le pedí nada a nadie —dice, mirando los peces—. No sé cómo se hace.
-
-Inclina un poco la cabeza hacia ti, sin darse vuelta. Te ofrece la nuca.
-
-—Pruébalo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1249 · TOKYO GHOUL · DÍA 7 · 16:43     ║
-║ Distrito 1 · casa Washuu, galería            ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: dormido junto a la ventana             ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1250)
+## COMANDO 1 (T1250)
 lo hago
 
-## RESPUESTA 2 (T1250)
+## RESPUESTA 1 (T1250)
 
 > lo hago
 
@@ -115,10 +70,10 @@ Después, sin mirarte, con la voz igual de plana que siempre, Arima dice:
 
 ---
 
-## COMANDO 3 (T1251)
+## COMANDO 2 (T1251)
 esta bien, lo voy a hacer con todos. simula
 
-## RESPUESTA 3 (T1251)
+## RESPUESTA 2 (T1251)
 
 > —Está bien. Lo voy a hacer con todos.
 
@@ -194,7 +149,76 @@ El hilo plateado junto al cordón está quieto. El umbral no tembló. Quien sea 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1252)
+entro a anteiku
+
+## RESPUESTA 3 (T1252)
+
+> entro a Anteiku
+
+Suena la campanita.
+
+Nadie se mueve más de lo que ya estaba quieto. Pero todos los ojos del salón van de golpe hacia ti, y después, sin querer, hacia la figura del taburete.
+
+La figura no se da vuelta enseguida. Termina de balancear las piernas una vez más, despacio, como si llevara la cuenta de algo. Después gira en el taburete, sobre sí misma, con un rechinido de madera.
+
+Debajo de la capucha, la cara está cubierta de vendas. Todas, menos los ojos. Por las aberturas asoman dos ojos verdes, grandes, brillantes, uno de ellos con un ligero tinte rojo en el borde. Las vendas se mueven a la altura de la boca. Está sonriendo.
+
+Tu instinto la tasa.
+
+```
+╔════════════════════════════════════════╗
+║ SIN DATOS                              ║
+║ Ghoul                                  ║
+║ PODER: Kagune ukaku; kakuja (sin datos)║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ Esconde su fuerza. Mucha.              ║
+║ COPIABLE · MISIÓN: sin datos           ║
+╚════════════════════════════════════════╝
+```
+
+Debajo de las vendas hay algo enorme, plegado, muy apretado. Algo que se parece a lo que tiene Yoshimura detrás de su calma, pero más joven. Más filoso. Y que no está dormido.
+
+—Aaah. —La voz que sale de las vendas es la de una chica. Aguda, alegre, cantarina, casi infantil—. Así que tú eres el famoso Panadero.
+
+Se baja del taburete de un saltito. Es bajita: te llega al pecho. Se acerca con las manos detrás de la espalda, inclinándose hacia adelante para mirarte de cerca, de abajo hacia arriba. Huele a papel viejo, a tinta y a sangre seca.
+
+Mira tu ojo rojo. Mira tu ojo azul. Mira a Kase, que tiene el lomo erizado de punta a punta y no le quita los ojos de encima.
+
+—Qué gato tan serio. —Se ríe, una risita corta, por la nariz—. Me cae bien.
+
+Detrás de la barra, Yoshimura no se mueve. Pero tiene las manos tan apretadas contra la madera que se le ven blancos los nudillos.
+
+La chica de las vendas se endereza. Se da vuelta un segundo hacia él, por encima del hombro, y le guiña un ojo. Él no reacciona.
+
+Después vuelve a mirarte a ti.
+
+—¿Sabes una cosa? Esta noche iba a ser la más divertida en veinte años. Iba a haber fuego, gritos, un búho viejo cayendo del cielo, y un montón de investigadores muy tristes. —Se balancea sobre los talones—. Tenía un asiento en primera fila. Y tú me arruinaste la función.
+
+La voz no cambia de tono. Sigue alegre. Pero los ojos verdes, detrás de las vendas, ya no se ríen.
+
+—Así que vine a ver la cara del que me la arruinó. Y a hacerle una sola pregunta. —Inclina la cabeza—. ¿Por qué?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1252 · TOKYO GHOUL · DÍA 7 · 20:47     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, lomo erizado             ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:46, vereda de Anteiku. Adentro, una figura chica con capa gris y vendas está sentada frente a Yoshimura; todos tensos. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:47, salón de Anteiku. La chica de las vendas (tasación sin datos) dice que Facundo le arruinó la función y pregunta por qué. Facundo puede responder.
