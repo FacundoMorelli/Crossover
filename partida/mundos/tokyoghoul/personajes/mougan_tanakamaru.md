@@ -9,4 +9,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T1218 · "¡Lo siento, mono! ¡Es el trabajo!"
 QUÉ SABE DE FACUNDO: Nada.
-ESTADO: Atacando a Koma.
+ESTADO: Inconsciente y vivo en la vereda de la avenida 3; armadura abollada; Higher Mind destruida (T1219).

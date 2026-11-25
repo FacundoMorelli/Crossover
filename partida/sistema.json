@@ -1,13 +1,13 @@
 {
-  "turno": 1218,
+  "turno": 1219,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
   "hora": "17:46",
   "edad": 18,
   "nivel": 28,
-  "exp": 276530,
+  "exp": 276930,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 109256,
+  "fragmentos": 109406,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1953,6 +1953,14 @@
       "turno": 1088,
       "fragmentos": 1,
       "exp": 30
+    },
+    {
+      "nombre": "Mougan Tanakamaru (Clase Especial, CCG) y su quinque Higher Mind",
+      "mundo": "tokyoghoul",
+      "turno": "T1219",
+      "como": "Dos dedos contra el brazo de Higher Mind: la máquina destruida; Tanakamaru arrastrado por los cables, inconsciente, vivo.",
+      "fragmentos": 150,
+      "exp": 400
     }
   ],
   "viaje": {

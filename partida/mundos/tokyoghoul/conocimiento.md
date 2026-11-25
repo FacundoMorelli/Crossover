@@ -109,3 +109,4 @@
 - Yoshimura, Kaneki, Touka · T1216 · Facundo irá con Yoshimura; la barrera se mantiene aunque se aleje.
 - Facundo · T1216 · por Yoshimura: afuera hay "hombres que la CCG guarda para días como hoy" y "otras cosas que no tienen nada que ver con la CCG".
 - Kaneki, Touka, Facundo · T1217 · vieron a Yoshimura transformarse en el Búho. Kaneki: el búho del Distrito 11 "no era él, era parecido".
+- Investigadores de la avenida 3, Koma, Apes heridos, Kaneki, Touka, Yoshimura · T1219 · vieron a Facundo aparecer en el asfalto y destruir Higher Mind con dos dedos. La CCG por radio: "el Búho está en la avenida 3" (Facundo no fue nombrado aún, pero lo vieron).

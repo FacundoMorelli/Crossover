@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1216)
-yoshimura, tu tampoco tienes que morir voy a ir con usted, nadie va a poder entrar a este lugar, aunque me aleje
-
-## RESPUESTA 1 (T1216)
-
-> —Yoshimura, usted tampoco tiene que morir. Voy a ir con usted. Nadie va a poder entrar a este lugar, aunque me aleje.
-
-Yoshimura se queda quieto, con una mano todavía apoyada sobre el delantal doblado.
-
-Afuera, el altavoz repite la orden de evacuación por tercera vez. Se oyen puertas que se cierran de golpe, pasos corriendo en la vereda, el motor de una camioneta que acelera. En algún lugar, lejos, hacia el este, suena el primer disparo. Después otro. Después un grito, que no es humano.
-
-Yoshimura mira hacia la ventana. Después te mira a ti, y por un momento no parece el gerente de un café ni el ghoul más buscado del país. Parece un viejo muy cansado al que le dijeron algo que no se animaba a esperar.
-
-—Usted no sabe lo que hay ahí afuera —dice despacio—. No son solo investigadores. Hay hombres que la CCG guarda para días como hoy. Y hay... otras cosas que pueden venir, que no tienen nada que ver con la CCG.
-
-No dice cuáles. Se le endurece apenas la boca.
-
-—Pero ya entendí que usted no es de los que se quedan adentro cuando se lo piden.
-
-Se le escapa algo parecido a una sonrisa.
-
-Desde la escalera, Kaneki baja los últimos escalones de un salto.
-
-—Yo también voy.
-
-—No. —Yoshimura no levanta la voz, pero lo dice de una forma que hace que Kaneki se detenga en seco al pie de la escalera—. Kaneki-kun. Tú te quedas.
-
-—Puedo pelear. Puedo controlarlo. Facundo-san me entrenó para esto. —Kaneki aprieta los puños—. Irimi-san y Koma-san están afuera. Usted va a salir. ¿Y yo me escondo arriba? ¿Otra vez?
-
-Detrás de él, en la escalera, Touka no dice nada. Pero tiene el ojo negro y rojo, y debajo de la camisa, entre los omóplatos, la tela ya empieza a abrirse sola.
-
-Yoshimura no le contesta a Kaneki. Te mira a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1216 · TOKYO GHOUL · DÍA 6 · 17:43     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete, orejas paradas         ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1217)
+## COMANDO 1 (T1217)
 que vengan si quieren, no voy a dejar que se mueran
 
-## RESPUESTA 2 (T1217)
+## RESPUESTA 1 (T1217)
 
 > —Que vengan si quieren. No voy a dejar que se mueran.
 
@@ -119,10 +68,10 @@ En la boca del callejón, a lo lejos, por encima de los disparos, se oye un soni
 
 ---
 
-## COMANDO 3 (T1218)
+## COMANDO 2 (T1218)
 vamos
 
-## RESPUESTA 3 (T1218)
+## RESPUESTA 2 (T1218)
 
 > —Vamos.
 
@@ -182,7 +131,68 @@ Estás más cerca que todos.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1219)
+le pego con 2dedos
+
+## RESPUESTA 3 (T1219)
+
+> le pego con dos dedos
+
+Bajas.
+
+No hay salto, no hay impulso. Un instante estás en el aire, sobre el borde del techo, y al siguiente estás parado en el asfalto, entre Koma y la máquina, con Kase en el hombro y el brazo giratorio a medio metro de tu cara.
+
+Levantas la mano derecha. Juntas el índice y el medio.
+
+Y le pegas al brazo con la punta de los dos dedos.
+
+No suena como un golpe. Suena como una explosión.
+
+El brazo de la máquina se deshace desde la punta hacia atrás: el taladro, los segmentos, las juntas, los pistones, todo revienta en pedazos de metal blanco y negro que salen disparados como metralla y rebotan en las paredes de los edificios, en las camionetas, en el asfalto. La onda sigue por adentro del cuerpo de la máquina. Las patas de insecto se doblan hacia afuera al mismo tiempo. El cuerpo entero se levanta del suelo, gira dos veces en el aire, como un auto en un choque, y se estrella contra una camioneta blanca a veinte metros, que se dobla en V con un estruendo que hace temblar los vidrios de toda la cuadra.
+
+Los cables y los tubos que unían la máquina al investigador se tensan de golpe.
+
+Tanakamaru sale volando detrás de su quinque. Da una vuelta en el aire, con los brazos abiertos y la sonrisa todavía congelada detrás del visor, choca contra el capó de otra camioneta, rebota y cae boca arriba sobre la vereda. El casco rueda solo, unos metros más allá. Él no se mueve. Respira: lo ves subir y bajar el pecho, despacio, debajo de la armadura abollada.
+
+Silencio.
+
+Un silencio raro, en medio de los disparos que siguen sonando en las otras calles. En esta avenida nadie dispara. Los investigadores de la fila tienen las quinques levantadas y la boca abierta. Uno de ellos baja el arma sin darse cuenta.
+
+A tus pies, Koma te mira desde el asfalto, con la cara llena de sangre y media máscara de mono colgándole de una oreja.
+
+—Panadero —dice, ronco, y se le escapa una risa que le hace toser sangre—. Mierda. Eso fue con dos dedos.
+
+Detrás de ti, el Búho cae en la avenida con un golpe sordo que agrieta el asfalto. Kaneki y Touka aterrizan a los costados.
+
+Al verlo, la fila de investigadores reacciona por fin. Alguien grita, con la voz rota:
+
+—¡El Búho! ¡Es el Búho! ¡Todas las unidades, el Búho está en la avenida 3!
+
+—¡Fuego! ¡Fuego a todo lo que se mueva!
+
+Una docena de quinques se encienden al mismo tiempo. Del fondo de la avenida, desde detrás de las camionetas, aparecen más investigadores corriendo, con armas largas. Se oye el ruido metálico de muchas armas que se cargan a la vez.
+
+Todas apuntan hacia ustedes. Hacia el Búho. Hacia Koma en el piso. Hacia ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1219 · TOKYO GHOUL · DÍA 6 · 17:46     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 276.930/280.000               ║
+║ FRAGMENTOS 109.406 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:46, avenida. El brazo de Higher Mind baja sobre Koma. Facundo es el más cerca. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:46, avenida 3. Higher Mind destruida, Tanakamaru inconsciente. Llegó el Búho. Docenas de investigadores abren fuego contra todos. Facundo puede actuar.
