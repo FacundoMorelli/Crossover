@@ -5,10 +5,11 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: diosa
 FÍSICO: Pelo rojo atado en una cola, ojos rojos que suele tener entrecerrados como rayas.
 PERSONALIDAD Y FORMA DE HABLAR: Juguetona, pícara, astuta; rival de Hestia.
-RELACIÓN CON FACUNDO: no lo conoce.
+RELACIÓN CON FACUNDO: curiosidad, simpatía (T1082).
 ENCUENTROS:
 - T1080 · Noche 2 00:45 · Mansión del Crepúsculo: Facundo aparece en el portón.
 DIÁLOGOS CLAVE:
+- T1082 · "Verdad. Limpia como el agua, Finn." "Mira nada más. Ese gato me está juzgando." "Ya que viniste hasta mi casa a la una de la mañana a decirle la verdad a una diosa en la cara, por lo menos entra y tómate algo con mamá Loki. Tengo muchas preguntas. Y Finn tiene más."
 - T1081 · "¡Ja! ¡Lo dice como si nada! ¡Me encanta este chico! ¡Finn, me encanta!"
 - T1080 · "Vaya, vaya, vaya. Le tocan la puerta a mamá Loki a la una de la mañana. ¿Y tú quién eres, guapo?"
 QUÉ SABE DE FACUNDO: la descripción de Bete; lo ve en persona (T1080).

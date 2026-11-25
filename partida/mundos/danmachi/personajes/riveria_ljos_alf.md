@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1080 · Noche 2 00:45 · Mansión del Crepúsculo: Facundo aparece en el portón.
 DIÁLOGOS CLAVE:
+- T1082 · "Si de verdad volvieron a la Mazmorra, la ciudad está a salvo. Se terminó. Eso era lo que queríamos."
 QUÉ SABE DE FACUNDO: la descripción de Bete; lo ve en persona (T1080).
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: En la escalinata.

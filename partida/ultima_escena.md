@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1079)
-bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
-
-## RESPUESTA 1 (T1079)
-
-> bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
-
-> —Bueno, despídete si quieres. Otro día puedes volver. Vamos, te llevo a tu casa, Bell.
-
-Bell asiente.
-
-Se arrodilla otra vez en el musgo delante de Wiene. Ella no espera: se le tira al cuello, y esta vez no llora. Se ríe, bajito, con la cara escondida en la capa.
-
-—Vuelve pronto —le dice—. Prometido.
-
-—Prometido.
-
-Lido le da una palmada en la espalda a Bell que casi lo tira de cara al musgo. Rei le roza la mejilla con la punta de un ala. Fia da una vuelta en el aire por encima de su cabeza. El goblin le muestra los dientes, que en goblin quiere decir algo bueno. Asterius, a un costado, no se mueve, pero lo mira hasta el final.
-
-Bell se pone de pie. Te agarra del brazo.
-
-El piso 20 desaparece.
-
-[00:37 · Hearthstone Manor.]
-
-La sala de antes. La lámpara de piedra mágica, la chimenea con las brasas, las cortinas corridas. Afuera siguen las campanas.
-
-Hestia está de pie en el medio de la alfombra, exactamente donde la dejaste, como si no se hubiera movido ni un centímetro en diez minutos. Ve a Bell aparecer. Se le cae algo de la cara, todo junto, de golpe.
-
-—¡BELL!
-
-Cruza la sala corriendo y se le cuelga del cuello. Bell tambalea igual que con Wiene.
-
-—¡Diosa! ¡Estoy bien, estoy bien! —Se ríe, con los ojos todavía rojos—. ¡Están todos en casa! ¡En el piso veinte! ¡Todos, diosa! ¡Asterius también!
-
-La chica de la mochila sale de atrás del sillón. El pelirrojo suelta un silbido largo. La chica de la katana se deja caer sentada en el piso. La muchacha zorro llora otra vez.
-
-Hestia se despega de Bell. Se vuelve hacia ti. Se seca los ojos con la palma de la mano, rápido, y se pone derecha, con las manos en la cintura, tratando de parecer una diosa.
-
-No le sale. Le tiembla la boca.
-
-—Facundo Morelli —dice—. En diez minutos hiciste lo que yo no pude hacer en dos días, ni con Ouranos, ni con Fels, ni con nadie. —Toma aire—. No sé de dónde vienes. No voy a preguntarte. Pero en esta casa hay un lugar para ti, para cuando quieras.
-
-Mira hacia las cortinas. Afuera, una voz vuelve a gritar tu descripción por los techos.
-
-Frunce el ceño.
-
-—Aunque por ahora, toda la Familia Loki te está buscando. —Se cruza de brazos—. ¿Tienes dónde pasar la noche?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1079 · DANMACHI · NOCHE 2 · 00:38      ║
-║ Orario · Hearthstone Manor, la sala          ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1080)
+## COMANDO 1 (T1080)
 voy a ir a ver a la familia loki, no tengo miedo de ellos
 
-## RESPUESTA 2 (T1080)
+## RESPUESTA 1 (T1080)
 
 > voy a ir a ver a la familia loki, no tengo miedo de ellos
 
@@ -141,10 +75,10 @@ Arriba, en el balcón, la mujer pelirroja deja el vaso en la baranda y abre los 
 
 ---
 
-## COMANDO 3 (T1081)
+## COMANDO 2 (T1081)
 soy el que andan buscando
 
-## RESPUESTA 3 (T1081)
+## RESPUESTA 2 (T1081)
 
 > soy el que andan buscando
 
@@ -195,4 +129,58 @@ Apoya una mano en un barrote del portón.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:46, portón de la Mansión del Crepúsculo. Finn, al otro lado de los barrotes, le pregunta dónde están los monstruos; Loki escucha (detecta mentiras). Facundo puede responder.
+## COMANDO 3 (T1082)
+ya están en su casa
+
+## RESPUESTA 3 (T1082)
+
+> ya están en su casa
+
+> —Ya están en su casa.
+
+Finn no se mueve. No mira hacia atrás. Espera.
+
+En el balcón, Loki inclina la cabeza, como si escuchara una música que solo ella oye. Después silba, largo, bajito.
+
+—Verdad —dice—. Limpia como el agua, Finn.
+
+Un murmullo recorre el patio. Los treinta aventureros se miran entre ellos. Alguien baja la espada sin darse cuenta.
+
+—En su casa —repite Finn, despacio. Los ojos azules se le mueven apenas, como si recorriera un mapa en la cabeza—. La Mazmorra. —Una pausa—. Todos los accesos a la Mazmorra están cerrados desde ayer. Babel, Knossos, las entradas de Dédalo. Tenemos gente en cada uno. —Te mira—. Y aun así, en veinte minutos, sin que nadie los viera, todos.
+
+No es una pregunta. Lo dice como un general que lee el informe de una batalla que perdió sin enterarse de que la estaba peleando.
+
+Riveria da un paso al lado de Finn.
+
+—Si de verdad volvieron a la Mazmorra —dice, con la voz baja, seria—, la ciudad está a salvo. Se terminó. —Mira a Finn de reojo—. Eso era lo que queríamos.
+
+—Eso era lo que queríamos —asiente Finn. Después te vuelve a mirar, y la voz se le enfría un grado más—. Lo que no queríamos era que alguien, sin Familia, sin registro, sin nombre, entrara en Orario, golpeara a seis de los nuestros y moviera a veinte monstruos debajo de nuestras narices como si fueran piezas de ajedrez. —El pulgar le late otra vez—. Eso, en esta ciudad, también es un problema.
+
+—¡Ay, Finn, qué aburrido eres! —Loki se sube a la baranda del balcón, de pie, haciendo equilibrio como una nena traviesa, y salta.
+
+Cae en el patio, entre los aventureros, con una facilidad que no tiene nada de mortal. Se acomoda la cola de pelo rojo. Camina hasta el portón, con las manos en la espalda, y se para al lado de Finn, mirándote de cerca a través de los barrotes. Los ojos rojos te recorren entero, de los pies a la cabeza, despacio, y se detienen en Kase, que le devuelve la mirada sin pestañear.
+
+—Mira nada más —murmura, con una sonrisa enorme—. Ese gato me está juzgando.
+
+Levanta la vista hacia ti.
+
+—Bueno, guapo. —Le hace una seña a un guardia, que abre el portón con un chirrido—. Ya que viniste hasta mi casa a la una de la mañana a decirle la verdad a una diosa en la cara, por lo menos entra y tómate algo con mamá Loki. —Se ríe—. Tengo muchas preguntas. Y Finn tiene más.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1082 · DANMACHI · NOCHE 2 · 00:48      ║
+║ Orario · portón de la Mansión del Crepúsculo ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La Familia Loki                    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:48, portón de la Mansión del Crepúsculo. Loki confirmó que dice la verdad (los Xenos en la Mazmorra). Finn lo ve como un problema. Loki abre el portón y lo invita a entrar a tomar algo. Facundo puede actuar.
