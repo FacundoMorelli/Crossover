@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1266)
-miro
-
-## RESPUESTA 1 (T1266)
-
-> miro
-
-Touka da un paso adelante. Uno solo. Se para entre tú y su hermano, de espaldas a ti, con los brazos a los costados.
-
-—Vine a verte —dice.
-
-Ayato se ríe. Una risa corta, fea, que el viento se lleva.
-
-—¿A verme? —Las alas zumban más fuerte—. ¿Después de tres años? ¿Después del Distrito 11, cuando me dijiste que era un monstruo? —Escupe hacia el costado, al vacío—. ¿Qué pasó, se te murió el viejo del café y te quedaste sin dueño?
-
-—Nadie se murió —dice Touka—. Esa es la cosa. Nadie se murió.
-
-Ayato frunce el ceño. No entiende. No le gusta no entender.
-
-Touka mete la mano en el bolsillo de la campera. Saca algo envuelto en una servilleta de papel de Anteiku: media tostada con mermelada de frutilla, de la mañana, aplastada. La desenvuelve. Se la muestra, en la palma abierta, bajo la luz de la ciudad.
-
-Y le da un mordisco. Despacio. Mirándolo a los ojos. Mastica. Traga.
-
-Ayato se queda helado sobre el borde.
-
-—¿Qué...? —La voz se le quiebra—. ¿Qué es eso? ¿Qué estás...?
-
-—Pan —dice Touka—. Y no me da asco. Ya no. —Se le tensa la mandíbula—. Él me lo quitó. El hambre. Con la mano. —No se da vuelta a mirarte—. Y puede hacer más. Puede hacer que yo sea humana, Ayato. De verdad. Sin kagune, sin nada. Puede ir a la escuela sin vomitar en el baño. Sin tener miedo cada vez que alguien me mira de más.
-
-Se le quiebra la voz en la última palabra. La endereza.
-
-—Quería que lo supieras antes. De mí. No que te lo contara alguien.
-
-Ayato la mira. Mira el pan. Mira tus manos, detrás de ella.
-
-Y algo en la cara se le rompe y se vuelve a soldar, en un segundo, más duro que antes.
-
-—Humana —repite, muy bajo. Y después grita—: ¡¿HUMANA?! ¡¿Te vas a volver una de ellos?! ¡¿Después de lo que le hicieron a papá?!
-
-Las dos alas se le encienden de golpe, violetas, cegadoras. El zumbido se vuelve un aullido eléctrico. De las alas se desprenden cristales, decenas, cientos, filosos como agujas, temblando en el aire.
-
-—¡Entonces no eres mi hermana!
-
-Los dispara. Todos. Directo al pecho de Touka.
-
-Touka no se mueve. No saca el ala. No levanta los brazos.
-
-Se queda parada, de frente, con la media tostada todavía en la mano.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1266 · TOKYO GHOUL · DÍA 7 · 21:12     ║
-║ Bahía · azotea de la base de Aogiri          ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: Touka y Ayato                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1267)
+## COMANDO 1 (T1267)
 lo detengo con un solo brazo a todos, tienes razon, alguien que ataca a su propia familia no merece llamarse hermano de nadie
 
-## RESPUESTA 2 (T1267)
+## RESPUESTA 1 (T1267)
 
 > lo detengo con un solo brazo, a todos
 
@@ -129,10 +63,10 @@ El de la capa roja se detiene. Mira a Ayato en el borde. Mira a Touka. Te mira a
 
 ---
 
-## COMANDO 3 (T1268)
+## COMANDO 2 (T1268)
 Me llamo eclipse, me conocen como el panadero
 
-## RESPUESTA 3 (T1268)
+## RESPUESTA 2 (T1268)
 
 > —Me llamo Eclipse. Me conocen como el Panadero.
 
@@ -175,7 +109,61 @@ Detrás de ti, Touka aprieta la media tostada en el puño hasta deshacerla.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1269)
+bueno, lista para irnos?
+
+## RESPUESTA 3 (T1269)
+
+> —Bueno, ¿lista para irnos?
+
+Touka no te contesta enseguida.
+
+Abre el puño. La tostada deshecha cae en migas sobre el cemento y el viento se las lleva. Se limpia la mano en la campera. Después da un paso hacia el borde, hacia su hermano, y se detiene a tres metros. Las capas oscuras se tensan. El de la capa roja no se mueve.
+
+—Ayato —dice.
+
+Él no contesta. Está de pie en el borde, con las alas apagadas, los puños apretados a los costados y la cara de quince años que le queda chica a tanta rabia.
+
+—No vine a pedirte que vuelvas. —Touka habla bajo, firme—. Ya sé que no vas a volver. Vine a decirte lo que te dije. Y a decirte otra cosa.
+
+Respira hondo.
+
+—El café sigue abierto. Las siete y media, todos los días. El viejo sigue haciendo el café horrible ese que a ti te gustaba de chico. —Se le escapa algo que casi es una sonrisa, y se le borra enseguida—. Si un día quieres un pan con mermelada, sabes dónde queda.
+
+Ayato la mira. La boca se le abre y se le cierra. No dice nada.
+
+Touka se da vuelta. Vuelve hasta ti. Te agarra la manga del sobretodo, con toda la mano, sin mirarte a la cara.
+
+—Sí —dice—. Vámonos.
+
+Los de las capas abren un hueco en el semicírculo, despacio, sin bajar la guardia. El de la capa roja los mira irse sin decir nada. El enorme de la máscara de tela sigue en la puerta, inmóvil.
+
+Kase, en tu cuello, mira para atrás.
+
+Y desde el borde de la azotea, con la voz rota, casi tapada por el viento del mar, Ayato dice:
+
+—Espera.
+
+Touka se queda clavada. No se da vuelta. Te aprieta la manga tan fuerte que se le ponen blancos los nudillos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1269 · TOKYO GHOUL · DÍA 7 · 21:16     ║
+║ Bahía · azotea de la base de Aogiri          ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: Touka y Ayato                      ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:14, azotea de Aogiri. El de capa roja reconoce al Panadero y ordena: "Llévate a la chica y vete. Ayato se queda." Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:16, azotea de Aogiri. Touka se despidió de Ayato y estaban por irse. Ayato dijo "Espera." Touka se quedó clavada. Facundo puede actuar.

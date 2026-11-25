@@ -1267,3 +1267,4 @@ T1265 · TG · Azotea de Aogiri · Llegan Facundo y Touka. Ayato: "¿Qué mierda
 T1266 · TG · Azotea · Touka come pan delante de Ayato y le dice que puede volverse humana. Ayato: "¡No eres mi hermana!" Le dispara cientos de cristales; Touka no se defiende.
 T1267 · TG · Azotea · Detiene los cristales con un brazo. "No merece llamarse hermano." Llegan los de Aogiri: capa roja y el enmascarado de tela. "Ayato, ¿quiénes son?"
 T1268 · TG · Azotea · "Me llamo Eclipse. Me conocen como el Panadero." Capa roja: "Aogiri no necesita pan. Necesita dientes. Llévate a la chica y vete. Ayato se queda."
+T1269 · TG · Azotea · "¿Lista para irnos?" Touka se despide de Ayato: el café sigue abierto. Ayato: "Espera."
