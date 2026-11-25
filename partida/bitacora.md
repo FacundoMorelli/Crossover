@@ -1151,3 +1151,4 @@ T1149 · TG · Laboratorio · "¿Cómo te llamas?" "Kaneki Ken." Llega el de la 
 T1150 · TG · Laboratorio · "Quédense ahí. ¿Dónde estoy?" Amon frena y explica; pide que salga. Kaneki retrocede. Shinohara se desangra.
 T1151 · TG · Laboratorio · Semilla y Transfiguración Ociosa a Shinohara: curado, despierto. Kaneki: "No lo maté." Shinohara: "¿Quién demonios es este?"
 T1152 · TG · Laboratorio · Shinohara se disculpa y agradece. "¿Lo tomamos?" Juuzou llega cantando. "¿Tú qué quieres que pase con él?"
+T1153 · TG · Laboratorio · "Yo me lo llevo." Kaneki no se va sin Banjou, Hinami, Tsukiyama y los de las máscaras. Juuzou: "¿Lo puedo cortar?"

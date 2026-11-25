@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1150)
-quedense ahi, los dos. lo digo tranquilo, me pueden explicar donde estoy?
-
-## RESPUESTA 1 (T1150)
-
-> —Quédense ahí, los dos.
-
-Lo dices tranquilo. Sin levantar la voz.
-
-El de la maza frena.
-
-No del todo: patina sobre los escombros, con la maza todavía arriba, y se detiene a cinco metros de Kaneki, con la respiración desbocada. Te mira como si no pudiera creer lo que acaba de escuchar.
-
-Kaneki tampoco se mueve. Los tres tentáculos siguen tensos en el aire, pero no atacan. Él te mira a ti, no al de la maza. Le tiembla la mandíbula.
-
-> —¿Me pueden explicar dónde estoy?
-
-Silencio.
-
-La lámpara que cuelga del cable sigue balanceándose. Las sombras van y vienen.
-
-—¿...Dónde está? —El de la maza lo repite despacio, con la voz ronca—. ¿Me está preguntando dónde está?
-
-Baja la maza unos centímetros. No la suelta. La cabeza metálica se retuerce sola, inquieta, como un perro que quiere morder.
-
-—Está en el sótano de la mansión de un criminal, en medio de un operativo de la CCG, a dos metros de un ghoul de rango S que acaba de... —Se le quiebra la voz. Mira al hombre de la armadura en el piso, y la mandíbula se le aprieta tanto que le cruje—. ...que acaba de destrozar a un investigador de Clase Especial.
-
-Vuelve a mirarte.
-
-—No sé cómo entró aquí. No sé quién es. Pero si es un civil, tiene que salir. Ahora. Por ese pasillo, todo derecho, hasta las escaleras. Hay agentes arriba. Dígales que lo manda Amon.
-
-No te quita los ojos de encima, ni a Kaneki tampoco.
-
-—Y tú —le dice a Kaneki, entre dientes—, aléjate de él.
-
-Kaneki no contesta. Mira a Shinohara, debajo de él. Mira sus propias manos. Y despacio, muy despacio, se levanta de encima del cuerpo y retrocede un paso. Después otro. Los tentáculos se le arrastran por el suelo, dejando surcos en el polvo.
-
-—No... no quería —murmura—. No quería...
-
-En el piso, el hombre de la armadura respira una vez más. Un silbido corto, mojado. El charco de sangre debajo de él ya llega hasta tus zapatos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1150 · TOKYO GHOUL · NOCHE · 23:42     ║
-║ Mansión · laboratorio subterráneo            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1151)
+## COMANDO 1 (T1151)
 bueno es facil entonces, me acerco a shinohara y le doy una semilla del ermitaño y uso la tecnica de mahito
 
-## RESPUESTA 2 (T1151)
+## RESPUESTA 1 (T1151)
 
 > —Bueno, es fácil entonces.
 
@@ -122,10 +63,10 @@ Se le tensa el cuerpo entero.
 
 ---
 
-## COMANDO 3 (T1152)
+## COMANDO 2 (T1152)
 no es una buena forma de hablarle al que te salvo la vida
 
-## RESPUESTA 3 (T1152)
+## RESPUESTA 2 (T1152)
 
 > —No es una buena forma de hablarle al que te salvó la vida.
 
@@ -186,4 +127,62 @@ Después te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:44, laboratorio. Shinohara agradecido; Amon quiere tomar a Kaneki; Juuzou llega por el pasillo. Shinohara pregunta a Facundo qué quiere que pase con Kaneki. Facundo puede responder.
+## COMANDO 3 (T1153)
+no se preocupen yo me lo llevo, kaneki ken, no? dime a donde te llevo donde puedas estar seguro?
+
+## RESPUESTA 3 (T1153)
+
+> —No se preocupen, yo me lo llevo.
+
+—¿Cómo que se lo...? —empieza Amon.
+
+Shinohara le apoya una mano en el brazo, sin mirarlo. Amon se calla. Aprieta la maza, pero no la levanta.
+
+Te acercas a la pared. Te agachas frente al muchacho de pelo blanco.
+
+> —Kaneki Ken, ¿no? Dime adónde te llevo, donde puedas estar seguro.
+
+Kaneki te mira de cerca. Tiene la cara manchada de sangre seca y de lágrimas, y le tiemblan los labios. Te mira la cara, el gato, las manos. Después mira por encima de tu hombro, a Shinohara, de pie, entero.
+
+—¿Por qué...? —dice—. ¿Por qué me ayudas? Yo... casi lo mato. Me lo estaba comiendo.
+
+No espera la respuesta. Sacude la cabeza, como para despejarla, y de golpe se le abren los ojos.
+
+—Banjou. —Se agarra de tu manga con una mano negra—. Banjou-san. Y los demás. Están aquí abajo. Vinieron conmigo. Hinami, Tsukiyama-san, los tres de las máscaras... —Mira hacia el pasillo, desesperado—. No me puedo ir sin ellos. No me puedo ir solo.
+
+Se le corta la voz.
+
+—Si los encuentran los de la CCG...
+
+En la entrada del pasillo aparece alguien.
+
+Un chico flaco, bajito, de pelo blanco cortado de forma irregular, con unas costuras rojas cosidas en la piel debajo de un ojo, como un muñeco remendado. Lleva un uniforme negro con tirantes y una sonrisa enorme. En una mano arrastra una especie de guadaña de metal con forma de cuchilla serrada. En la otra lleva un brazo humano cortado a la altura del codo, con la mano todavía abierta, colgando de los dedos.
+
+Se detiene en la entrada.
+
+Mira a Shinohara de pie. Mira a Amon. Mira al ghoul de pelo blanco agarrado de tu manga. Y te mira a ti.
+
+La sonrisa no se le mueve ni un milímetro.
+
+—¿Eh? —dice, inclinando la cabeza de costado, como un pájaro—. ¿Y este quién es, señor Shinohara? ¿Lo puedo cortar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1153 · TOKYO GHOUL · NOCHE · 23:44     ║
+║ Mansión · laboratorio subterráneo            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: Sacar a Kaneki y a su grupo        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:44, laboratorio. Kaneki no se va sin su grupo (Banjou, Hinami, Tsukiyama, tres máscaras). Juuzou en la entrada: "¿Lo puedo cortar?". Facundo puede actuar.

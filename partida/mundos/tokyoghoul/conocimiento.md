@@ -13,3 +13,5 @@
 - Amon, Kaneki · T1151 · vieron a Facundo darle una semilla a Shinohara y curarlo con la palma (agujero cerrado, despertó).
 - Facundo · T1152 · Shinohara se presenta: Investigador de Clase Especial de la CCG. A Kaneki lo llaman "el Ciempiés". Juuzou se acerca.
 - Shinohara · T1152 · por Amon: Facundo lo curó con la mano después de darle algo de comer.
+- Facundo · T1153 · por Kaneki: en la mansión están también Banjou, Hinami, Tsukiyama y "los tres de las máscaras", que vinieron con él.
+- Shinohara, Amon · T1153 · Facundo dijo que se llevará a Kaneki. Kaneki nombró a Banjou, Hinami y Tsukiyama delante de ellos.
