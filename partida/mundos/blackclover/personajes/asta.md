@@ -18,3 +18,4 @@ ENCUENTROS:
 - T1292 · "¡No me está costando nada! ¡Estaba calentando!" "¡¿Y TÚ DÓNDE ESTABAS?! ¡Dijiste unos días! ¡Te esperé todas las mañanas en la explanada! ¡Diez mil flexiones por día! ¡Volviste!"
 - T1293 · (a Zora) "¡Te dije! ¡TE DIJE QUE ERA ASÍ!"
 - T1295 · "Se iba a hacer volar... y tú... con un dedo... ¡¿CÓMO HICISTE ESO?! ¡Enséñame!"
+- T1296 · "¡¿Tengo algo adentro?! ¡¿Es contagioso?!"

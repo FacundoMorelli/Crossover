@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1293)
-quieres sentir mi mana? nunca lo mostre abiertamente pero te voy a dejar ver el 1%
-
-## RESPUESTA 1 (T1293)
-
-> —¿Quieres sentir mi maná? Nunca lo mostré abiertamente. Pero te voy a dejar ver el uno por ciento.
-
-Aflojas el Velo. Apenas. Una rendija.
-
-El aire de la caverna cambia de golpe.
-
-No es una explosión. Es peso. De un segundo a otro, donde para todos había un muchacho sin una gota de maná, hay una presencia del tamaño de un capitán de los Caballeros Mágicos. Densa, quieta, caliente, como una piedra grande que alguien acaba de poner sobre una balanza vacía. Las rocas flotantes más cercanas se mueven unos centímetros, despacio, apartándose. El polvo del suelo se levanta en un anillo alrededor de tus pies y se queda suspendido.
-
-Para cualquiera que mida, es mucho. Es lo que tiene un capitán en un buen día.
-
-Pero no es eso lo que asusta.
-
-Lo que asusta es lo que dijiste antes.
-
-El muchacho de las magias se frena en el aire, a mitad de un salto, como si hubiera chocado contra una pared. Cae sobre una roca flotante a diez metros de ti, de rodillas, con la mano todavía estirada. La baja despacio. Se queda mirándote. Se le borró la sonrisa.
-
-—Uno —dice, muy bajo—. Por ciento.
-
-Lo ves hacer la cuenta. Le tiembla el labio.
-
-En el centro de la roca grande, Mereoleona dejó de reírse. Se quedó con las garras de fuego en el aire, y el aura de fuego que la rodeaba retrocede sola un metro, como un animal que siente algo más grande en el bosque. Después se le estira la boca en una sonrisa enorme, salvaje, que le muestra todos los dientes.
-
-—¡Ja! —grita—. ¡JAJAJA! ¡¿Uno por ciento?! ¡Yami! ¡¿De dónde sacaste a este?!
-
-Yami no le contesta. Se quedó quieto, con la katana baja, mirándote de costado. No dice nada. Pero el cigarro que tenía en la boca se le cayó al suelo y no lo levantó.
-
-Asta te mira con la boca abierta y la espada colgando.
-
-—¡Te dije! —le grita a Zora, señalándote—. ¡TE DIJE QUE ERA ASÍ!
-
-Zora no dice nada. Tiene la cara pálida.
-
-El muchacho de las magias se levanta despacio, sobre su roca. Mira hacia atrás, hacia las paredes de la caverna, hacia los pasillos oscuros. Busca una salida. Levanta la mano y la abre: entre los dedos se forma un círculo negro, el principio de una puerta. Tiembla un segundo y se deshace solo, como si algo lo bloqueara.
-
-—Espacial no funciona aquí —murmura, más para sí que para nadie—. Claro. El idiota de la barrera.
-
-Vuelve a mirarte. Y por primera vez, en esa cara burlona, no hay burla. Hay miedo.
-
-—¿Qué eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1293 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:34       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: 1% (maná de capitán, a la vista)       ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1294)
+## COMANDO 1 (T1294)
 guardo de nuevo el velo, bueno ustedes ignorenme, sigan con la pelea
 
-## RESPUESTA 2 (T1294)
+## RESPUESTA 1 (T1294)
 
 > guardo de nuevo el Velo
 
@@ -123,10 +61,10 @@ Mereoleona frena en seco a cinco metros de él, con las garras en alto. Asta tam
 
 ---
 
-## COMANDO 3 (T1295)
+## COMANDO 2 (T1295)
 lo noqueo
 
-## RESPUESTA 3 (T1295)
+## RESPUESTA 2 (T1295)
 
 > lo noqueo
 
@@ -187,7 +125,73 @@ Es la de Luck.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1296)
+suelto mi haki del rey y noqueo a todos los enemigos, bueno, quieren que les saque esa semilla que tienen dentro todos?
+
+## RESPUESTA 3 (T1296)
+
+> —Bueno, ¿quieren que les saque esa semilla que tienen dentro, a todos?
+
+Sueltas el Haki del Rey.
+
+No hace ruido. Sale de ti como una ola que no moja, y se mete por todos los pasillos de la base a la vez, por las rocas flotantes, por las escaleras talladas, por las grietas del techo.
+
+Eliges a quién toca.
+
+En el pasillo del este, una mujer de pelo largo con un ojo marcado, a punto de soltar un espíritu de fuego, se queda tiesa y se cae de cara. En una galería más arriba, un muchacho con cara de aburrido que copiaba hechizos con los dedos abre la boca y se desploma. Más adentro, una decena de magos con túnicas del Ojo, escondidos en los pasillos, caen uno detrás de otro como fichas de dominó.
+
+Los Caballeros Reales que estaban peleando contra ellos se quedan con los grimorios abiertos, apuntando a nada.
+
+[Haki del Rey: todos los enemigos de la base, inconscientes.]
+
+[Rivales vencidos: la invocadora de fuego, el copiador de los dedos y once magos del Ojo. +400 Fragmentos.]
+
+[+900 EXP.]
+
+En la caverna, el fuego de Mereoleona se agita solo, como si hubiera pasado un viento. Asta se tambalea, aunque la ola no era para él. Zora levanta la cabeza de golpe, pálido.
+
+Yami es el único que no se mueve. Se saca el cigarrillo de la boca.
+
+—Eso no fue mana —dice, despacio.
+
+Les haces la pregunta.
+
+Silencio.
+
+Mereoleona te mira con el ceño fruncido, como si le hubieras hablado en otro idioma.
+
+—¿Semilla? —repite—. ¿Qué semilla?
+
+Asta se mira el pecho, se toca la panza, se palpa los brazos.
+
+—¡¿Tengo algo adentro?! ¡¿Es contagioso?!
+
+Zora no dice nada, pero se lleva la mano al pecho sin darse cuenta.
+
+Yami te mira de costado.
+
+—Ninguno de los que estamos acá tiene nada raro —dice—. Lo sentiría. Hablas de los de los pasillos, ¿no? —Exhala humo—. Del enano de los rayos.
+
+Los cuatro te están mirando. Ellos no tienen la semilla. Los que la tienen están lejos, en los pasillos, y no te oyeron.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1296 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 294.280/320.000 · 12:38       ║
+║ FRAGMENTOS 111.657 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:37, Rocas Gravito. El copiador noqueado, sin explosión. Facundo siente semillas oscuras dormidas en algunos Caballeros Reales, entre ellos Luck (pasillo norte, con Noelle). Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:38, caverna. Enemigos de la base KO por Haki. Los presentes no tienen semilla; los que la tienen (Luck y otros) están en los pasillos. Facundo puede actuar.

@@ -1,13 +1,13 @@
 {
-  "turno": 1295,
+  "turno": 1296,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:37",
+  "hora": "12:38",
   "edad": 18,
   "nivel": 29,
-  "exp": 293380,
+  "exp": 294280,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 111257,
+  "fragmentos": 111657,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2009,6 +2009,14 @@
       "como": "Golpe en la frente con el dorso de los dedos; la autodestrucción se deshace; inconsciente.",
       "fragmentos": 150,
       "exp": 400
+    },
+    {
+      "nombre": "Fana, Raia y once magos del Ojo",
+      "mundo": "blackclover",
+      "turno": "T1296",
+      "como": "Haki del Rey selectivo por toda la base; inconscientes.",
+      "fragmentos": 400,
+      "exp": 900
     }
   ],
   "viaje": {

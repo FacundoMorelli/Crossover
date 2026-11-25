@@ -62,3 +62,5 @@
 - Mereoleona, Asta, Zora, Yami · T1295 · vieron a Facundo desactivar la autodestrucción del copiador de un golpe en la frente.
 - Facundo, Yami · T1295 · por Mereoleona: entraron cinco grupos (Nozel; Rill; Yuno; Luck y Noelle por el pasillo norte; el suyo).
 - Facundo · T1295 · (ki) semillas oscuras dormidas en algunos Caballeros Reales; una en Luck (pasillo norte, con Noelle).
+- Mereoleona, Asta, Zora, Yami · T1296 · por Facundo: algunos Caballeros tienen "una semilla" dentro. Yami deduce que habla de los de los pasillos y de Luck. Yami: el Haki "no fue mana".
+- Caballeros Reales de los pasillos · T1296 · vieron caer a sus rivales sin saber por qué; sintieron una presión.

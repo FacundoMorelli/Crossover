@@ -23,6 +23,7 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
 
 DIÁLOGOS CLAVE:
+- T1296 · "Eso no fue mana." "Ninguno de los que estamos acá tiene nada raro. Lo sentiría. Hablas de los de los pasillos, ¿no? Del enano de los rayos."
 - T1295 · "Aquí no estaban todos. Mereoleona. ¿Cuántos grupos entraron?"
 - T1294 · "Ignórenme. Claro."
 - T1290 · "Viejo. Dijiste trampa." "Los mocosos están ahí." "No te voy a pedir nada, gato. Tú ya me dijiste en la cara que te da igual. Y está bien." "Pero yo me voy para allá. Ahora. Tú me trajiste aquí en un segundo. Con eso me ahorrarías medio día de caballo."

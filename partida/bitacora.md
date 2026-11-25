@@ -1294,3 +1294,4 @@ T1292 · BC · Rocas Gravito · "Te está costando, Asta." Asta: "¡Volviste!" E
 T1293 · BC · Rocas Gravito · Muestra el 1% de su maná (de capitán). "Uno por ciento." Mereoleona se ríe; a Yami se le cae el cigarro. El copiador, sin salida: "¿Qué eres?"
 T1294 · BC · Rocas Gravito · Cierra el Velo: "Ignórenme." Mereoleona aplasta al copiador, que empieza a autodestruirse: "Me los llevo a todos conmigo."
 T1295 · BC · Rocas Gravito · Noquea al copiador antes de que explote (+150 F, +400 EXP). Mereoleona: "¡Era mío!" Siente semillas oscuras dormidas en algunos Caballeros; una es Luck.
+T1296 · BC · Rocas Gravito · Haki del Rey: caen Fana, Raia y 11 magos (+400 F, +900 EXP). Ofrece sacar la semilla; los presentes no la tienen.
