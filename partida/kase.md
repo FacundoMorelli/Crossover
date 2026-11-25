@@ -67,3 +67,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 
 ### Hunter x Hunter
 - T1039 · Cruza la Puerta con la bufanda de Tessai puesta. Llega erizado entero: siente arriba a Hisoka y a Chrollo.
+- T1056 (HxH) · Duerme contra el pecho de Facundo en una azotea. Come lo último de la canasta de Mirajane.

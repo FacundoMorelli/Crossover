@@ -16,4 +16,4 @@ DIÁLOGOS CLAVE:
 - T1042 · "...¿Quién eres?"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1046).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: se fue con la Tropa hacia la avenida de la Torre (T1051).
+ESTADO: en la fila de embarque del Black Whale 1, puerto de Kakin (T1056).

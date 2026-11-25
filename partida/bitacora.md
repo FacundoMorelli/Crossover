@@ -1054,3 +1054,4 @@ T1052 · HxH · Baños públicos · "Hola, Hisoka." Hisoka despierta riéndose: 
 T1053 · HxH · Baños públicos · "Me llamo Facundo Morelli." Transfiguración Ociosa: mano y pierna de Hisoka de vuelta. "Eso no fue Nen." "¿Por qué lo hiciste? ♥"
 T1054 · HxH · Baños públicos · "No vayas por las arañas hasta que zarpe." Hisoka propone trato: pelea en serio el día del zarpe; si gana Facundo, deja a las arañas. "¿Trato? ♠"
 T1055 · HxH · Baños públicos · "Trato." Apretón de manos; Hisoka le pega una gota de Bungee Gum en la palma. "El día que zarpe ese barco. No llegues tarde." Se va.
+T1056 · HxH · (simulado Días 1-4) Azotea; cuerpo de Hisoka "desaparecido"; viaje a Kakin; festival de víspera (familia real a bordo; Kurapika de lejos). Día 4 09:40, techo del puerto: Hisoka, "Ahora te toca a ti. Todo lo que tienes."

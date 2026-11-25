@@ -15,4 +15,4 @@ DIÁLOGOS CLAVE:
 - T1048 · "Ese chicle solo lo suelta él. Lo sé. Lo intenté veinte minutos. Y tú lo soltaste como si fuera tuyo."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1048).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: se fue con la Tropa hacia la avenida de la Torre (T1051).
+ESTADO: en la fila de embarque del Black Whale 1, puerto de Kakin (T1056).

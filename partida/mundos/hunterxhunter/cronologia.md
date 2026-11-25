@@ -41,3 +41,8 @@
 - Día 1 19:55 · (T1051) La Tropa se va; Facundo los protege hasta que zarpe el Black Whale. Hisoka empieza a despertar.
 - Día 1 19:59 · (T1053) CAMBIO: Facundo le devuelve a Hisoka la mano izquierda y la pierna derecha (en el canon las reemplaza con Bungee Gum y Texture Surprise).
 - Día 1 20:03 · (T1055) Trato Facundo-Hisoka: Hisoka no toca a la Tropa hasta el zarpe; ese día pelean; si gana Facundo, deja a la Tropa para siempre. CAMBIO total: en el canon Hisoka cazaba a la Tropa desde esta noche.
+- Día 1 noche · (T1056) Facundo duerme en una azotea frente a la Torre.
+- Día 2 · (T1056) Noticia: el cuerpo de Hisoka desapareció de la Torre. La Tropa deja la ciudad. Hisoka viaja al este (Kakin). Facundo también.
+- Día 3 · (T1056) Festival de víspera en la capital de Kakin (canon 358): el rey Nasubi, Beyond y los 14 príncipes suben al Black Whale 1. Kurapika con la reina Oito y el bebé Woble.
+- Día 3 noche · (T1056) La Tropa (9+ miembros) en el puerto. Hisoka en un hotel del puerto. Cumple el trato.
+- Día 4 09:40 · (T1056) Hisoka aparece ante Facundo en el techo de un depósito del puerto para la pelea pactada. Zarpe: 12:00.

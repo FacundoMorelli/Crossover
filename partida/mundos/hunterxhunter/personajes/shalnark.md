@@ -15,4 +15,4 @@ DIÁLOGOS CLAVE:
 - T1047 · "Así que eres tú. Te vi en una de las pantallas. Pensé que eras un cosplayer." "Nadie sabe nuestros nombres. Bueno, algunos. Los que todavía están vivos son pocos." "No lo matamos. Pero si le clavo esto, va a hacer todo lo que yo le diga, para siempre. Eso no es matarlo, ¿verdad?"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1046).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: se fue con la Tropa hacia la avenida de la Torre (T1051).
+ESTADO: en la fila de embarque del Black Whale 1, puerto de Kakin (T1056).

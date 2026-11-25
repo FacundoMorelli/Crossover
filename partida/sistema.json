@@ -1,8 +1,8 @@
 {
-  "turno": 1055,
+  "turno": 1056,
   "mundo_actual": "hunterxhunter",
-  "fecha_local": "Día 1 (día del duelo Hisoka vs. Chrollo)",
-  "hora": "20:03",
+  "fecha_local": "Día 4 (día del zarpe del Black Whale 1)",
+  "hora": "09:40",
   "edad": 18,
   "nivel": 27,
   "exp": 239850,
@@ -66,7 +66,7 @@
     "energia": 3992,
     "control": 3991
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -517,7 +517,7 @@
       "origen": "fairytail, regalo de Levy (T1027)"
     },
     {
-      "objeto": "Canasta de Mirajane: pan, carne asada y un pescado para Kase",
+      "objeto": "(consumida T1056) Canasta de Mirajane",
       "origen": "fairytail, regalo de Mirajane (T1027)"
     },
     {
