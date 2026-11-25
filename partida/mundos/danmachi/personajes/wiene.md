@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: esperanza cautelosa (T1068).
 ENCUENTROS:
 - T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:
+- T1076 · "Te la devuelvo. Para que no tengas frío tú." "Me voy a casa, Bell. Abajo. Con todos. Facundo nos lleva."
 - T1075 · "¡Facundo nos encontró, Bell! Curó a Rei. Curó a Fia. ¡Y nos va a llevar a casa! ¡Sin que nadie nos vea!"
 - T1074 · "¡BELL!" (llora y ríe abrazada a él)
 - T1073 · "¿Ahora vamos a ver a Bell?"

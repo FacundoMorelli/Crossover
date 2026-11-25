@@ -30,3 +30,4 @@
 - Noche 1 23:30-23:40 · (T1073) Facundo reúne a los 8 Xenos de Knossos (troll herido). Los 14 Xenos en el sótano de la panadería quemada. Falta Asterius.
 - Noche 2 00:10 · (T1073) Bete y su patrulla despiertan e informan.
 - Noche 2 00:20 · (T1073) Alarma general en Orario; la Familia Loki entera sale por orden de Finn a buscar al "humano del gato". Ais en los techos de Dédalo.
+- Noche 2 00:27 · (T1076) Wiene se despide de Bell en la Hearthstone Manor y le devuelve la capa.

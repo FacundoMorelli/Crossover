@@ -3,87 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1073)
-le doy una semilla del ermitaño a Fia. simula
-
-## RESPUESTA 1 (T1073)
-
-> le doy una semilla del ermitaño a Fia. simula
-
-Le pones una semilla entre los labios, entre los dedos de Lido. Fia la muerde por reflejo, con los ojos llenos de pánico. La traga.
-
-El ala doblada al revés se le endereza con un chasquido. La fiebre se le va de la cara en un segundo. Se queda quieta en los brazos de Lido, mirándote, con la boca todavía tapada por la garra, sin entender nada.
-
-Arriba, la luz de la antorcha se aparta de la reja.
-
-—...fue un pájaro. Vamos, que la capitana quiere el sector norte antes de la una.
-
-Los pasos se alejan.
-
-[23:30 · Knossos.]
-
-Aparecen en la oscuridad absoluta de un corredor de piedra negra, liso, perfecto, demasiado regular para ser una cueva. Knossos. Huele a hierro y a sangre seca. Al fondo, una puerta de metal enorme, cerrada, con un ojo grabado en el centro.
-
-Contra la pared, en un hueco, hay ocho Xenos amontonados. Un goblin pequeño con una espada rota. Una lamia de escamas verdes que se enrosca sobre sí misma. Un hombre con cabeza de caballo. Dos más que no ves bien en la oscuridad. Y en el fondo, ocupando medio corredor, un troll enorme, de piel gris, tirado en el piso con las dos piernas torcidas en ángulos imposibles y la respiración pesada, lenta, como un fuelle roto.
-
-Gritan cuando te ven. Lido grita más fuerte. Rei abre las alas. Wiene sale de tu espalda y les dice, con su voz de nena, que eres un amigo, que te llamas Facundo y que te gustan los gatos. Tardan dos minutos en calmarse.
-
-No hay tiempo para más. Los tocas, uno por uno. El troll es lo último: le apoyas la mano en el brazo, enorme como un tronco.
-
-[23:40 · Sótano de la panadería quemada.]
-
-Catorce monstruos en un sótano para cuatro. Lido, Gros, Rei, Wiene, Fia, Aruru y los ocho de Knossos. El troll ocupa toda una pared, tirado entre las cenizas. Rei le da de beber lo que queda de tu cantimplora. La lamia llora en silencio. El goblin no te saca los ojos de encima.
-
-Afuera, por la rendija a ras de la calle, se escucha la ciudad.
-
-[00:10.]
-
-Lo sientes antes de oírlo: arriba, al oeste, en el callejón de los ropavejeros, una presencia que estaba apagada se enciende. Después cinco más. Bete y su patrulla se despiertan.
-
-[00:20.]
-
-Las campanas de alarma. No una: todas. Desde la torre del Gremio hasta las de los barrios de afuera, una detrás de otra, hasta que la ciudad entera suena como un panal golpeado. Se escuchan gritos. Órdenes. Pasos que corren por los techos, muchos, rápidos, mucho más rápidos que las patrullas de antes.
-
-—Familia Loki —dice Gros, con la cara pegada a la rendija—. Toda. No solo patrullas. Están saliendo todos.
-
-Por la rendija ves pasar, en lo alto de un techo de enfrente, una figura que salta de una chimenea a otra sin tocar las tejas: pelo dorado largo, armadura ligera, una espada en la cintura. Se detiene un segundo en el borde del techo, mirando hacia el este, hacia donde estás. Ojos dorados. Después sigue.
-
-—La Princesa Espada —susurra Lido—. Ais Wallenstein. La que le cortó el brazo a Asterius.
-
-Las voces de la calle se escuchan cada vez más cerca. Una de ellas, joven, clara, se impone a las demás desde algún techo:
-
-—¡Un humano de pelo blanco y azul, ojos de distinto color, con un gato gigante! ¡Atacó a una patrulla de Loki y Ganesha! ¡El capitán Finn ordena encontrarlo! ¡Puede estar con los monstruos!
-
-Los catorce Xenos te miran, en la penumbra del sótano.
-
-Wiene, sentada en la ceniza con la capa de Bell apretada contra el pecho, levanta los ojos dorados hacia ti.
-
-—¿Ahora vamos a ver a Bell? —pregunta, bajito.
-
-[Semillas del ermitaño: 80.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1073 · DANMACHI · NOCHE 2 · 00:22      ║
-║ Orario · sótano de la panadería quemada      ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Bell, y la Mazmorra                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1074)
+## COMANDO 1 (T1074)
 sí, toco a Wiene y me teletransporto a la casa de Bell
 
-## RESPUESTA 2 (T1074)
+## RESPUESTA 1 (T1074)
 
 > sí, toco a Wiene y me teletransporto a la casa de Bell
 
@@ -160,10 +83,10 @@ Inclina la cabeza.
 
 ---
 
-## COMANDO 3 (T1075)
+## COMANDO 2 (T1075)
 me llamo Facundo Morelli, un viajero
 
-## RESPUESTA 3 (T1075)
+## RESPUESTA 2 (T1075)
 
 > me llamo Facundo Morelli, un viajero
 
@@ -217,4 +140,69 @@ Una pausa.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:24, sala de la Hearthstone Manor. Hestia comprobó que Facundo dice la verdad. Wiene contó que él los reunió y los llevará a la Mazmorra. Hestia pregunta si es verdad y qué gana él. Facundo puede responder.
+## COMANDO 3 (T1076)
+tengo una mision, y no se ven malos, no conozco nada de aqui, pero solo se parecen a los mounstros, pero ninguno es, no creo que se merezca que los maten
+
+## RESPUESTA 3 (T1076)
+
+> tengo una mision, y no se ven malos, no conozco nada de aqui, pero solo se parecen a los mounstros, pero ninguno es, no creo que se merezca que los maten
+
+> —Tengo una misión. Y no se ven malos. No conozco nada de aquí, pero solo se parecen a los monstruos. Ninguno lo es. No creo que merezcan que los maten.
+
+Hestia te escucha hasta el final sin moverse.
+
+Cuando terminas, se queda un momento callada. Después descruza los brazos. Despacio.
+
+—Verdad —dice, en voz baja—. Todo. Hasta lo de la misión.
+
+Se le quiebra algo en la cara. No mucho. Solo la boca, que se le tuerce hacia abajo un segundo, como si estuviera a punto de llorar y no se lo permitiera.
+
+—Dos días —murmura—. Dos días escuchando a toda esta ciudad gritarle a mi Bell que es un traidor. Que protege monstruos. Que debería morirse. Dos días sin que nadie, ni un mortal, ni un dios, dijera lo que acabas de decir tú. —Se pasa el dorso de la mano por los ojos, rápido, como si tuviera una basura—. Y viene un viajero que no sabe nada de Orario y lo ve en una noche.
+
+Se hace a un lado. Te deja ver a Bell.
+
+Bell te mira. Tiene los ojos rojos llenos de lágrimas que todavía no se le caen.
+
+—Gracias —dice. Le sale la voz rota—. De verdad. Gracias.
+
+Wiene se despega de él. Se saca la capa marrón del brazo, despacio, la dobla como puede, mal, con las manos temblorosas, y se la pone a Bell en las manos.
+
+—Te la devuelvo —dice—. Para que no tengas frío tú.
+
+Bell mira la capa. Mira a Wiene.
+
+—Wiene...
+
+—Me voy a casa, Bell. —Sonríe, con la cara mojada—. Abajo. Con todos. Facundo nos lleva.
+
+Bell se arrodilla en la alfombra para quedar a su altura y la abraza otra vez. Muy fuerte. Wiene le rodea el cuello con los brazos y la cola.
+
+—Te voy a ir a ver —le dice él, en el pelo—. Al piso veinte. Te lo prometo. En cuanto pueda. Te lo prometo.
+
+Detrás, la chica de la mochila se suena la nariz con un pañuelo. El pelirrojo mira para otro lado, hacia la chimenea. La muchacha zorro llora sin disimulo.
+
+Bell se separa de Wiene. Se seca la cara con la manga. Se pone de pie.
+
+Y te mira a ti, con una cara distinta. Decidida.
+
+—Señor Facundo. —Aprieta la capa contra el pecho—. ¿Puedo ir con ustedes? Hasta la Mazmorra. Solo para verlos llegar. —Una pausa—. Y hay alguien más. Asterius. El minotauro negro. Él también es un Xenos, aunque esté solo. Si se queda en la superficie, lo van a matar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1076 · DANMACHI · NOCHE 2 · 00:27      ║
+║ Orario · Hearthstone Manor, la sala          ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Llevar a todos (Asterius incluido) ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:27, Hearthstone Manor. Hestia confirma que Facundo dice la verdad y se conmueve. Wiene le devolvió la capa a Bell y se despidió. Bell pide ir con ellos hasta la Mazmorra y recuerda a Asterius. Facundo puede responder.
