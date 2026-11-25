@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1279)
-le clavo la cabeza contra el piso
-
-## RESPUESTA 1 (T1279)
-
-> le clavo la cabeza contra el piso
-
-No.0 no llega a disparar.
-
-Las cuatro magias todavía se están juntando en sus palmas cuando ya estás arriba de él, en el aire, a la altura de la boca que tiene donde debería estar la cara. Le agarras la cabeza con una mano. Toda la cabeza, como quien agarra una pelota.
-
-Y bajas.
-
-El golpe hace temblar la explanada entera. El patio se hunde en un cráter de tres metros alrededor de la cabeza de No.0, que queda enterrada en la tierra hasta los hombros. Las piedras de los escombros saltan por el aire. Las cuatro magias se le deshacen en las palmas: el fuego se apaga, el viento se dispersa, el agua negra salpica el pasto y se evapora, el rayo chisporrotea y muere. Los cuatro brazos tiemblan una vez, en el aire, y caen.
-
-El ojo del pecho se cierra.
-
-No.0 no se mueve más.
-
-Te enderezas. Te sacudes la tierra de la mano contra el sobretodo. Kase, que no se movió de tu cuello, se lame una pata con indiferencia.
-
-[Rival vencido: No.0. +150 Fragmentos.]
-
-[+400 EXP.]
-
-Silencio en el patio. El humo sigue saliendo por las ventanas. Una viga cae en algún lugar adentro del edificio.
-
-Gauche se quedó con la mano levantada y los espejos flotando a medio armar. Gordon, detrás de su barrera rota, abre la boca y murmura algo que, por una vez, se entiende:
-
-—...ah.
-
-Grey asoma la cabeza por encima de la piedra. Tiene forma de Gauche, después de Gordon, después de nadie, de los nervios.
-
-Sobre los escombros, el muchacho de la costura en la cara da un paso atrás. Se le borró la sonrisa por completo. Mira el cráter. Mira a No.0, enterrado de cabeza. Te mira a ti.
-
-—Ese... —La voz le tiembla de rabia—. ¡Ese era mi obra maestra! ¡Dos capitanes! ¡Me llevó meses coserlo!
-
-Y en ese momento lo sientes. Adentro de la base, en el segundo piso, entre el humo, una presencia que no estaba hace un segundo. Aparece, desaparece, aparece otra vez un poco más lejos, como alguien que salta entre puertas. Se mueve rápido, de cuarto en cuarto. Hacia el ala de los dormitorios. Hacia el cuarto de Asta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1279 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · patio · 12:11     ║
-║ NIVEL 29 · EXP 290.630/320.000               ║
-║ FRAGMENTOS 110.052 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1280)
+## COMANDO 1 (T1280)
 lo dejo inconsciente y sigo al que va entre puerta y puerta
 
-## RESPUESTA 2 (T1280)
+## RESPUESTA 1 (T1280)
 
 > lo dejo inconsciente
 
@@ -117,10 +61,10 @@ El círculo negro, a su lado, empieza a agrandarse.
 
 ---
 
-## COMANDO 3 (T1281)
+## COMANDO 2 (T1281)
 lo dejo inconsciente y lo llevo con los demas
 
-## RESPUESTA 3 (T1281)
+## RESPUESTA 2 (T1281)
 
 > lo dejo inconsciente
 
@@ -175,7 +119,59 @@ Entonces, desde el bosque, del otro lado de la explanada, se oye un zumbido mec�
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1282)
+aparezco en frente de ella, y tu quien eres?
+
+## RESPUESTA 3 (T1282)
+
+> aparezco enfrente de ella
+
+En el borde del bosque, entre los primeros árboles, viene volando algo raro: una especie de tabla de metal con dos hélices chicas, zumbando, que esquiva los troncos a toda velocidad. Arriba, parada sobre la tabla como sobre una patineta, viene una chica.
+
+Apareces enfrente.
+
+La tabla frena tan de golpe que la chica casi sale despedida por encima. Se agarra de una de las hélices con las dos manos, se balancea, y queda colgando a medio metro del pasto, con la tabla zumbando sobre su cabeza.
+
+Es bajita, de pelo corto rosado, con unas antiparras enormes subidas en la frente y una bata blanca de laboratorio, llena de manchas de colores y bolsillos con frascos que tintinean. Tiene una sonrisa gigante y los ojos brillantes, como los de un chico en una juguetería.
+
+> —¿Y tú quién eres?
+
+—¡¿Yo?! —Se suelta de la hélice y cae parada en el pasto, delante de ti, con los brazos abiertos—. ¡Sally! ¡La investigadora más brillante del Ojo del Sol de Medianoche! ¡Y la más linda!
+
+Después te mira. De verdad. Se le van los ojos al pelo, mitad blanco, mitad azul. A los tatuajes del cuello. A Kase. Y al final, a tus ojos. El rojo. El azul.
+
+Se le abre la boca. Se baja las antiparras de un tirón y te mira a través de ellas, acercándose hasta quedar a un palmo de tu cara, en puntas de pie.
+
+—Oooh —susurra, encantada—. Oooooh. ¡Heterocromía completa! ¡Y no es magia, es de nacimiento! —Se sube las antiparras otra vez, con las mejillas rojas de emoción—. ¡Y no te puedo leer el maná! ¡Nada! ¡Es como si no tuvieras! ¡Pero acabo de verte aparecer de la nada!
+
+Mira por encima de tu hombro, hacia el patio. Ve a No.0 enterrado de cabeza. A Rades y a Valtos tirados en el pasto. A Gordon con la piedra en las manos.
+
+Se le pone la cara seria un segundo. Después se le ilumina otra vez, más que antes.
+
+—¡¿Tú hiciste eso?! ¡¿Tú solo?! —Saca de un bolsillo de la bata una libreta y un lápiz y empieza a anotar sin mirar—. ¡Olvídate del enano antimagia! ¡Tú eres mucho más interesante!
+
+Levanta la vista de la libreta. Sonríe enorme.
+
+—¿Puedo abrirte? Aunque sea un poquito.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1282 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros · borde del bosque · 12:13 ║
+║ NIVEL 29 · EXP 290.930/320.000               ║
+║ FRAGMENTOS 110.102 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:13, patio de la base. Rades y Valtos inconscientes; Gordon tiene la piedra mágica. Llega desde el bosque una chica del Ojo que quiere "abrir al enano antimagia". Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:13, borde del bosque. Sally, investigadora del Ojo, fascinada con Facundo, le pregunta si puede "abrirlo". Facundo puede actuar.
