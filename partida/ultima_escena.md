@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1244)
-Facundo Morelli
-
-## RESPUESTA 1 (T1244)
-
-> —Facundo Morelli.
-
-Silencio en el parlante. Un segundo.
-
-Después, un zumbido eléctrico, grave, y el portón negro empieza a abrirse hacia adentro, solo, sin ruido, las dos hojas a la vez.
-
-Arima se agacha, levanta el maletín y se guarda el libro en el bolsillo del saco. Se pone a tu lado, a un paso de distancia, mirando al frente. No te pregunta nada. No te explica nada. Cuando caminas, camina contigo.
-
-Del otro lado del muro no hay una casa. Hay un jardín.
-
-Un jardín enorme, de esos que se ven en las postales: grava blanca rastrillada en círculos perfectos, piedras negras puestas con cuidado, un estanque quieto con peces rojos y blancos que se mueven despacio debajo del agua oscura, pinos viejos podados en formas que parecen nubes. Un sendero de piedras planas lo cruza en diagonal. No hay un solo sonido, salvo el agua y el crujido de tus pasos sobre las piedras.
-
-Kase, en tu hombro, no se mueve. Tiene las orejas aplastadas hacia atrás y la cola enroscada fuerte alrededor de tu cuello.
-
-Al final del sendero hay una casa tradicional de madera oscura, larga, de un solo piso, con techo de tejas curvas y puertas corredizas de papel. En la galería de madera, de rodillas junto a la entrada, espera una mujer joven con un kimono gris liso. Tiene el pelo negro recogido y la cara completamente quieta. Hace una reverencia profunda cuando llegan, hasta tocar la madera con la frente.
-
-—Bienvenido, Morelli-sama. El señor lo espera. —Es la voz del intercomunicador. Se levanta sin hacer ruido, abre la puerta corrediza y se hace a un lado—. Por favor, quítese el calzado.
-
-Arima se detiene al borde de la galería. No entra. Se queda de pie, con el maletín en la mano, mirando el jardín.
-
-Adentro, un pasillo de madera pulida, en penumbra, que huele a incienso y a té verde. Al fondo, una puerta corrediza abierta, y luz.
-
-Es una habitación de tatami, amplia y casi vacía. Una mesa baja de madera oscura. Un rollo con caligrafía colgado en la pared. Una ventana grande que da al jardín y al estanque.
-
-Detrás de la mesa, sentado sobre las piernas, hay un hombre muy viejo. Delgado, con el pelo blanco y escaso peinado hacia atrás, un kimono negro sencillo y las manos huesudas apoyadas sobre las rodillas. Tiene la cara surcada de arrugas y una sonrisa amable, la de un abuelo que espera a un nieto que llega de visita.
-
-Delante de él, sobre la mesa, hay dos tazas de té humeando. Una frente a él. La otra, frente al almohadón vacío del otro lado.
-
-—Morelli-kun. —La misma voz cálida del teléfono—. Llega puntual. Me alegro.
-
-Hace un gesto suave con la mano hacia el almohadón.
-
-—Siéntese, por favor. El té está recién hecho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1244 · TOKYO GHOUL · DÍA 7 · 10:01     ║
-║ Distrito 1 · casa Washuu, sala de tatami     ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, orejas aplastadas        ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: hablar con Tsuneyoshi              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1245)
+## COMANDO 1 (T1245)
 me siento y uso tasacion en el
 
-## RESPUESTA 2 (T1245)
+## RESPUESTA 1 (T1245)
 
 > me siento y uso Tasación en él
 
@@ -123,10 +66,10 @@ Mira por la ventana, hacia el estanque, donde un pez rojo sube a la superficie y
 
 ---
 
-## COMANDO 3 (T1246)
+## COMANDO 2 (T1246)
 asi que el presidente de la asociacion que caza ghouls es un ghoul, esta bien, puedo sacarte el hambre a ti y a tu familia, ya sabe mis condiciones
 
-## RESPUESTA 3 (T1246)
+## RESPUESTA 2 (T1246)
 
 > —Así que el presidente de la asociación que caza ghouls es un ghoul. Está bien. Puedo sacarte el hambre a ti y a tu familia. Ya sabes mis condiciones.
 
@@ -170,7 +113,70 @@ Se inclina hacia adelante, despacio, sobre la mesa. Baja la cabeza, hasta que la
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1247)
+esta bien, lo acepto, me acerco le toco y hago lo mismo de siempre
+
+## RESPUESTA 3 (T1247)
+
+> —Está bien. Lo acepto.
+
+Te levantas, rodeas la mesa baja y te arrodillas junto a él. Le apoyas la palma sobre la coronilla blanca.
+
+Su alma es antigua. Mucho más que la de Yoshimura. Tiene la forma de una casa grande con demasiadas habitaciones cerradas con llave, pasillos largos y oscuros, puertas detrás de puertas. Y en el centro, en el lugar donde en los demás estaba el anzuelo, hay algo distinto: no uno, sino una cadena de anzuelos, uno enganchado al otro, cada uno más viejo y más oxidado que el anterior. Como si se hubieran pasado de padre a hijo, generación tras generación, y nadie hubiera podido soltarlos nunca.
+
+Los sacas. Uno por uno. El último está tan hundido que tienes que tirar con cuidado, despacio, para no arrancar nada de lo que tiene alrededor.
+
+Alisas el borde. Le devuelves el gusto.
+
+No tocas ninguna de las puertas cerradas. Son suyas.
+
+Tsuneyoshi no se mueve. No abre la boca. Pero debajo de tu mano sientes cómo le tiembla todo el cuerpo, una sola vez, fuerte, como un árbol viejo cuando se le cae una rama muy pesada que cargó demasiado tiempo.
+
+Retiras la mano.
+
+Él se queda así, con la frente casi apoyada sobre la mesa, un rato largo. Después se endereza. Despacio. Tiene la cara mojada. No se la seca.
+
+—Kaori —dice, sin levantar la voz.
+
+La puerta corrediza se abre sin ruido. La mujer joven del kimono gris está de rodillas en el pasillo.
+
+—Tráeme un manjū. De los de la tienda de la esquina. Los que compra la cocinera para los jardineros.
+
+La mujer se queda quieta un segundo de más. Después hace una reverencia y desaparece. Vuelve en menos de un minuto con un platito de cerámica: un bollito blanco, redondo, relleno de pasta de porotos dulces.
+
+Tsuneyoshi lo toma con dos dedos temblorosos. Lo muerde.
+
+Mastica con los ojos cerrados. Mucho tiempo. Traga.
+
+—Dulce —dice. Y se ríe, una risa rota, de viejo, que se le mezcla con algo que no es risa—. Ochenta y tres años, y nunca supe que era dulce.
+
+En el pasillo, de rodillas, la mujer del kimono gris lo mira comer. La cara quieta, perfecta, sin ninguna emoción. Pero se le escapa una lágrima, una sola, por la mejilla, y no se la seca.
+
+Después te mira a ti.
+
+Hace una reverencia hasta tocar la madera del pasillo con la frente. Y se queda así.
+
+—Morelli-sama —dice, contra el piso, con la voz todavía perfecta, educada, y apenas quebrada en la última sílaba—. Yo también soy de esta casa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1247 · TOKYO GHOUL · DÍA 7 · 10:07     ║
+║ Distrito 1 · casa Washuu, sala de tatami     ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: transfigurar a los Washuu          ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:04, sala de tatami de la casa Washuu. Tsuneyoshi aceptó y amplió las condiciones, pidió secreto, y ofrece la cabeza: "Empiece por mí." Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:07, casa Washuu. Tsuneyoshi transfigurado, comió un manjū. Kaori, la sirvienta, también es Washuu y pide la transfiguración, de rodillas. Facundo puede actuar.

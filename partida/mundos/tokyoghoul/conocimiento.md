@@ -153,3 +153,5 @@
 - Facundo · T1245 · Tasación de Tsuneyoshi: sin datos, oculta su naturaleza; intuye algo no del todo humano y con hambre. Por Tsuneyoshi: él, su hijo, sus nietos, su padre y su abuelo comen carne humana a escondidas, una vez por semana, en esa casa, desde hace más de cien años.
 - Tsuneyoshi · T1245 · deduce que Facundo "se dio cuenta" de su naturaleza (por cómo lo mira y por el gruñido de Kase).
 - Facundo · T1246 · por Tsuneyoshi: los Washuu son "algo a mitad de camino" entre ghoul y humano; cazan ghouls para esconder lo que son; hay gente con la que su familia hizo tratos a la que no le conviene que los ghouls dejen de tener hambre. SECRETO pedido por Tsuneyoshi: no contarlo fuera de esa casa.
+- Kaori (sirvienta) · T1247 · vio a Tsuneyoshi comer un manjū tras la transfiguración.
+- Facundo · T1247 · la sirvienta se llama Kaori y es de la familia Washuu (ella lo dice).
