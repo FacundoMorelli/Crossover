@@ -1303,3 +1303,4 @@ T1301 · BC · Claro de los Toros · Toma la katana de Yami, la carga con Luna y
 T1302 · BC · Claro de los Toros · Grimorio del Firmamento: León Estelar vence a Mereoleona (cráter, consciente). +300 F, +800 EXP. "¿Cuántos tienes?"
 T1303 · BC · Claro de los Toros · Anuncia que se va (quizás vuelve en semanas). Despedidas: Mereoleona quiere revancha; Asta "seré Rey Mago"; Kiato lo abraza. Yami recupera la katana.
 T1304 · BC · Claro de los Toros · Pide a Charmy comida para el viaje; ella le da todo el guiso y los panecillos (se queda uno). Le recuerda la promesa del meñique.
+T1305 · BC→NARUTO · Se despide de Kiato ("voy a bailar para ti") y cruza la puerta frente a los Toros. Llega a Naruto: bosque sobre el cráter de Konoha (cap. ~452). Don: Venas del Dragón. Misión: Neji vivo al final de la guerra. Copia: Mokuton (Yamato).

@@ -3,89 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1302)
-te voy a mostrar 1 solo de mis ataques por que te robe a tu presa, saco mi grimorio y lo uso contra ella
-
-## RESPUESTA 1 (T1302)
-
-> —Te voy a mostrar uno solo de mis ataques, porque te robé la presa.
-
-Mereoleona está a cinco metros, con los puños encendidos.
-
-El grimorio aparece a tu lado sin que lo llames dos veces. Tapas negras, el trébol de tres hojas plateado, el círculo de estrellas grabado. Se abre solo y las páginas pasan como si las moviera un viento que nadie más siente.
-
-En la explanada, a Asta se le cae la mandíbula.
-
-—¡¿TIENE GRIMORIO?!
-
-Arriba, el cielo nocturno del claro está lleno de estrellas. Las de verdad. Por un segundo, todas parpadean a la vez, como si alguien las hubiera llamado por su nombre.
-
-Bajan hilos de luz. Finos, plateados, del cielo a tu mano libre. Con la punta de la katana de Yami trazas en el aire, rápido: una melena, un lomo, cuatro patas, una cola. Las estrellas se encienden en cada punto. Las líneas se cierran.
-
-[Magia de Constelación: Bestia — León Estelar.]
-
-[Noche al aire libre: el grimorio bebe de las estrellas.]
-
-El león que sale no es de fuego. Es de luz blanca y azul, transparente, con el cielo adentro. Tiene el tamaño del de Mereoleona. Las estrellas le brillan en el pecho, en los ojos, en la punta de cada garra.
-
-Ruge sin hacer ruido. Solo el aire tiembla.
-
-Mereoleona lo ve venir y no frena. Se ríe con toda la cara.
-
-—¡ESO!
-
-Los dos leones chocan. El de luz la atrapa entre las patas delanteras, en el aire, a mitad del salto, y la lleva hacia abajo. Las brasas de sus puños se apagan contra las estrellas. La tierra del claro se hunde en un cráter ancho como el comedor, con ella en el fondo, boca arriba, el león encima, las garras de luz clavadas en la tierra a cada lado de su cabeza, sin tocarla.
-
-El polvo tarda en bajar.
-
-El león estelar se queda quieto un momento, mirándola con sus ojos de estrella. Después se deshace en puntos de luz que suben despacio de vuelta al cielo, como luciérnagas.
-
-[Rival vencido en duelo: Mereoleona Vermillion. +300 Fragmentos.]
-
-[+800 EXP.]
-
-[Grimorio del Firmamento: maestría 30 → 31.]
-
-En el fondo del cráter, Mereoleona no se mueve. El pecho le sube y baja. Tiene la ropa chamuscada, el pelo lleno de tierra, un corte en la ceja.
-
-Está consciente. Mirando el cielo.
-
-—Ja —dice, ronca—. Ja, ja, ja.
-
-Afuera del cráter, nadie habla. Magna tiene los billetes de las apuestas apretados en el puño. Luck ya no quiere pelear: se lo ve en la cara. Noelle se tapó la boca con las dos manos. Kiato está saltando en el lugar.
-
-Yami camina hasta el borde del cráter y extiende la mano hacia ti, sin mirarte.
-
-—La espada.
-
-Abajo, Mereoleona levanta un brazo hacia las estrellas, como si las quisiera agarrar.
-
-—¿Eso era uno solo? —pregunta, sin sacar los ojos del cielo—. ¿Cuántos tienes?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1302 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · claro (cráter)    ║
-║ NIVEL 29 · EXP 295.080/320.000 · D4 21:16    ║
-║ FRAGMENTOS 111.957 · 0 yul                   ║
-║ Energía 98% · Ojos: bien                     ║
-║ Ultra Instinto Dominado                      ║
-║ En la mano: katana de Yami                   ║
-║ Grimorio del Firmamento (flotando)           ║
-║ Velo: persona común (aura plateada visible)  ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1303)
+## COMANDO 1 (T1303)
 muchos, bueno chicos y con este combate, me retiro de nuevo, en unos semanas, quizas vuelvo hay cosas que tengo que hacer
 
-## RESPUESTA 2 (T1303)
+## RESPUESTA 1 (T1303)
 
 > —Muchos. Bueno, chicos, con este combate me retiro de nuevo. En unas semanas, quizás, vuelvo. Hay cosas que tengo que hacer.
 
@@ -155,11 +76,11 @@ Yami se prende un cigarrillo. Exhala el humo hacia la luna.
 
 ---
 
-## COMANDO 3 (T1304)
+## COMANDO 2 (T1304)
 
 nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
 
-## RESPUESTA 3 (T1304)
+## RESPUESTA 2 (T1304)
 
 > nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
 
@@ -207,4 +128,105 @@ Kiato sigue abrazado a tu cintura. No te suelta.
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:21, claro. Charmy le dio a Facundo su comida en un paquete (se quedó un panecillo) y le recordó la promesa del meñique. Kiato sigue abrazado. Falta elegir destino. Facundo puede actuar.
+## COMANDO 3 (T1305)
+
+esta bien, nos vemos kiato, me voy a un nuevo mundo
+
+## RESPUESTA 3 (T1305)
+
+> esta bien, nos vemos kiato, me voy a un nuevo mundo
+
+> —Está bien. Nos vemos, Kiato. Me voy a un nuevo mundo.
+
+Kiato afloja los brazos de a poco, como si le costara. Levanta la cara. Tiene los ojos rojos, pero no llora.
+
+—No sé qué es un nuevo mundo —dice—. Pero cuando vuelvas, voy a bailar para ti. Bien. No como en el templo.
+
+Se aparta un paso y se queda al lado de su hermana. Kahono le pone una mano en el hombro.
+
+Kase se estira sobre tu cuello y bosteza, aburrido de tanta despedida.
+
+Levantas la mano. El aire del claro se abre en una línea de luz vertical que se ensancha hasta tener el alto de una puerta. Del otro lado no se ve nada.
+
+—¡¿Otra vez esa puerta?! —grita Asta.
+
+Yami suelta el humo hacia la luna y no dice nada. Mereoleona, desde el fondo del cráter, levanta un puño.
+
+Cruzas.
+
+Oscuridad. Ni arriba ni abajo, ni frío ni calor. Una ventana se abre en la nada.
+
+[Destino fijado.]
+
+Lo primero que llega es el olor: tierra mojada, madera astillada, savia fresca, como un aserradero gigante después de la lluvia.
+
+Abres los ojos entre árboles altos. Están partidos y torcidos, todos inclinados hacia el mismo lado, como si una mano enorme los hubiera empujado desde un mismo punto. El suelo está lleno de ramas y de hojas arrancadas. Un pájaro canta en algún lado, solo.
+
+Kase baja la cabeza y olfatea el aire, con las orejas para adelante.
+
+Unos pasos más allá, el bosque se termina de golpe en un borde de tierra cortada. Abajo hay un cráter. Es enorme, casi perfectamente redondo, de varios kilómetros, y en el fondo no queda nada en pie: piedras, vigas, tejas rotas. Parece que en ese lugar hubo una ciudad entera hasta hace muy poco.
+
+Del otro lado del cráter, tallados en la pared de un acantilado, hay cinco rostros de piedra gigantes. Están intactos, mirando sobre la nada.
+
+En el borde del cráter hay carpas blancas, decenas, con una hoja dibujada en la tela. Se ve gente cargando escombros y gente haciendo fila para la comida. Un hombre con una banda de metal en la frente junta las manos, y del suelo brotan vigas de madera que crecen, se trenzan y se levantan solas hasta formar una casa de dos pisos en segundos. La gente que mira aplaude.
+
+Un grupo de chicos corre entre las carpas gritando un nombre, una y otra vez.
+
+—¡Naruto! ¡Naruto! ¡Naruto!
+
+[Mundo nuevo registrado.]
+
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Naruto                                ║
+║ Kekkei Genkai: Venas del Dragón (Ryūmyaku)   ║
+║ Tus tatuajes de dragón despiertan como       ║
+║ dragones de chakra. Muerden y devoran        ║
+║ cualquier técnica o chakra ajeno y te lo     ║
+║ devuelven como tuyo, o lo escupen de vuelta. ║
+║ Dos dragones (brazos) · nivel jōnin          ║
+║ Maestría 30                                  ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Naruto                                ║
+║                                              ║
+║ MISIÓN: Que Neji Hyūga siga vivo cuando      ║
+║ termine la Cuarta Gran Guerra Ninja.         ║
+║ RECOMPENSA: 20.000 EXP · 500 Fragmentos      ║
+║ VENCE: nunca                                 ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Mokuton (Estilo Madera)                      ║
+║ USUARIO: Yamato · Naruto                     ║
+║                                              ║
+║ MISIÓN: Que Yamato construya con su Mokuton  ║
+║ una casa para ti.                            ║
+║ DIFICULTAD: BAJA                             ║
+╚══════════════════════════════════════════════╝
+
+Los tatuajes de tus brazos laten una vez bajo la piel, tibios, como si algo se hubiera despertado y se volviera a dormir.
+
+Abajo, los chicos siguen gritando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1305 · NARUTO · DÍA 1 · 07:40          ║
+║ Konoha · bosque sobre el cráter (norte)      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO (mundo nuevo, el 12.º), Día 1 07:40, bosque sobre el cráter de Konoha. Dos días después de la Invasión de Pain. Facundo y Kase acaban de llegar sin testigos. Don: Venas del Dragón. Misión: que Neji siga vivo al final de la guerra. Misión de copia: Mokuton de Yamato. Facundo puede actuar.

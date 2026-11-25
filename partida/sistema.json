@@ -1,8 +1,8 @@
 {
-  "turno": 1304,
-  "mundo_actual": "blackclover",
-  "fecha_local": "Black Clover: ~94 días después de la salida (T489). Día 4 después de la Reencarnación frustrada (asalto a Rocas Gravito). Noche.",
-  "hora": "Día 4, 21:21",
+  "turno": 1305,
+  "mundo_actual": "naruto",
+  "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
+  "hora": "Día 1, 07:40",
   "edad": 18,
   "nivel": 29,
   "exp": 295080,
@@ -68,6 +68,11 @@
       "moneda": "yenes",
       "cantidad": 543700,
       "cambio": "1 Fragmento = 11.000 yenes (fijado T1147)"
+    },
+    "naruto": {
+      "moneda": "ryo",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 ryo (fijado T1305)"
     }
   },
   "puntos_de_stat_sin_asignar": 155,
@@ -81,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -366,6 +371,20 @@
         "Formas bloqueadas: KAKUJA (maestría 60: armadura de kagune sobre el cuerpo); CRISÁLIDA (maestría 90: forma colosal)."
       ],
       "turno": 1147
+    },
+    "naruto": {
+      "nombre": "Kekkei Genkai: Venas del Dragón (Ryūmyaku)",
+      "tipo": "kekkei genkai",
+      "maestria": 30,
+      "reglas": [
+        "Los tatuajes de dragón de Facundo despiertan como dragones de chakra: salen de la piel y pelean solos o a su orden.",
+        "Cada dragón muerde y devora cualquier técnica o chakra ajeno que toque (jutsu, Haki, reiatsu, maná, ki, energía maldita) y lo convierte en chakra de Facundo.",
+        "Lo devorado puede devolverse: el dragón escupe la misma técnica, con la fuerza con que llegó, a donde Facundo quiera.",
+        "Maestría 30: dos dragones (brazos); devoran técnicas de nivel jōnin. Maestría 50: cuatro (brazos, pecho y cuello); nivel Kage. Maestría 70: el dragón del eclipse de la espalda, enorme, tamaño Susanoo. Maestría 100: devoran cualquier cosa.",
+        "Límite propio: no muerden lo que no es energía (una espada sin chakra, un puño desnudo). Un dragón destruido vuelve a la piel y tarda un minuto en volver a salir.",
+        "Sin desventajas. Funciona en todos los mundos. Se fusiona con todo."
+      ],
+      "obtenido": "T1305"
     }
   },
   "velo": {
@@ -1447,6 +1466,14 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
+    },
+    {
+      "poder": "Mokuton (Estilo Madera)",
+      "usuario": "Yamato",
+      "mundo": "naruto",
+      "mision": "Que Yamato construya con su Mokuton una casa para Facundo.",
+      "dificultad": "BAJA",
+      "emitida": "T1305"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -2043,7 +2070,8 @@
       "hunterxhunter",
       "danmachi",
       "bokunohero",
-      "tokyoghoul"
+      "tokyoghoul",
+      "naruto"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -2060,12 +2088,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "tokyoghoul",
-      "mision": "Que ningún miembro de Anteiku muera ni sea capturado durante la Operación de Exterminio del Búho.",
-      "recompensa": "13.000 EXP · 450 Fragmentos",
-      "vence": "cuando termine la Operación de Exterminio del Búho",
+      "mundo": "naruto",
+      "mision": "Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra Ninja.",
+      "recompensa": "20.000 EXP · 500 Fragmentos",
+      "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1237, Día 6 18:23: Tsuneyoshi Washuu suspende la operación; ningún miembro de Anteiku muerto ni capturado)"
+      "estado": "activa"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -2088,7 +2116,9 @@
       "hunterxhunter": "Llegada Día 1 16:13. Salida Día 4 12:05, techo de un depósito del puerto de Kakin (nadie vio la Puerta; el hilo de Bungee Gum de Hisoka se cortó al cruzar). Corre.",
       "danmachi": "Llegada Noche 1 23:10. Salida Noche 2 01:01, techo de la Mansión del Crepúsculo (nadie vio la Puerta). Promesas: Bell visitará a Wiene; Finn pensará sobre los Xenos; Loki: 'vuelve cuando quieras'. Corre.",
       "bokunohero": "Llegada diciembre 08:40 (T1087). Salida día 10 ~06:30 (T1147), bosque del campus de la U.A. (nadie vio la Puerta). Misión cumplida. Liga, Garaki, Gigantomachia en Tartarus; Ejército de Liberación neutralizado; AFO en silencio, 'espera'. Izuku domina el Látigo Negro. Nezu: 'la puerta va a estar abierta'. Licencia de Eclipse activa. Corre.",
-      "tokyoghoul": "Salida Día 7 21:30 desde el salón de Anteiku (todos vieron la Puerta). Prometió volver \"en una semana o en tres meses\". Botón de aviso en el chaleco de Yoshimura. Corre."
+      "tokyoghoul": "Salida Día 7 21:30 desde el salón de Anteiku (todos vieron la Puerta). Prometió volver \"en una semana o en tres meses\". Botón de aviso en el chaleco de Yoshimura. Corre.",
+      "blackclover_salida_2": "Salida Día 4 21:22 (T1305), claro de los Toros Negros, frente a todos. Dijo: quizás vuelve en unas semanas. Corre.",
+      "naruto": "Llegada Día 1 07:40 (T1305), bosque sobre el cráter de Konoha. Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2131,7 +2161,8 @@
     "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa, desde T214)",
     "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)",
     "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)",
-    "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)"
+    "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)",
+    "naruto": ""
   },
   "tienda": {
     "catalogo_permanente": {
@@ -2214,9 +2245,21 @@
       "Moto moderna (negra mate, escape doble)": 80
     },
     "stock_rotativo": {
-      "Piedra de maná pequeña (recarga energía 10%)": 3,
-      "Capa de los Toros Negros (réplica)": 2,
-      "Poción de respiración acuática": 1
+      "mundo": "naruto",
+      "slots": [
+        {
+          "item": "Pergamino de sello de almacenamiento en blanco (x10)",
+          "precio": 3
+        },
+        {
+          "item": "Píldora de soldado de los Akimichi (recupera 50% de energía y cansancio)",
+          "precio": 15
+        },
+        {
+          "item": "Banda ninja sin aldea (placa lisa, tela negra)",
+          "precio": 2
+        }
+      ]
     },
     "ultimo_hito_de_catalogo": 20
   },
@@ -2382,7 +2425,10 @@
     "tokyoghoul_washuu": "La familia Washuu es un linaje mitad humano, mitad ghoul (los 'Washuu' de V); necesitan carne humana a escondidas. Tsuneyoshi habla de 'alguien en mi familia que tiene hambre hace mucho' (puede ser él mismo, o la familia entera). Quiere la transfiguración; también puede querer controlarla (amenaza al equilibrio de V). Yoshitoki sabe y se incomoda. | T1248: 14 Washuu transfigurados (Tsuneyoshi, Kaori, Yoshitoki, servidumbre, primos, tíos, etc.). Matsuri Washuu (hijo de Yoshitoki, investigador) se negó. Arima es del Jardín del Sol (Sunlit Garden): mitad humanos criados para servir a los Washuu; envejecen rápido, mueren antes de los 40, pierden la vista primero.",
     "tokyoghoul_eto": "Día 7 ~20:30: Eto Yoshimura (el Búho de un Ojo, líder de Aogiri; también la escritora Sen Takatsuki) entra a Anteiku para ver a su padre tras enterarse de la suspensión y del rumor. Va sin intención de dañar (la pared la deja pasar): quiere entender qué pasó y ver al 'Panadero'. Envuelta en capa y vendas.",
     "tokyoghoul_aogiri": "Base temporal de Aogiri: edificio viejo grande en zona de depósitos junto a la bahía, al sur del río, pasando los distritos 20/21. 50-60+ ghouls. En el último piso: Tatara (fría, piedra de río) y Noro (hueca, rara). Ayato solo en la azotea. Eto no está ahí ahora.",
-    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William. | T1288: Patolli (en el cuerpo de William) noqueado en la muralla antes de pelear con Julius: Julius NO muere (canon c146), Licht no se lleva las piedras de Julius; sin Patolli consciente, la Reencarnación de esta noche no puede activarse (las piedras no se colocan en el Monumento del Árbol de la Vida). Rhya y los demás del Ojo siguen en la base de las Rocas Gravito con los Caballeros Reales. | T1295: almas de elfo dormidas en varios Caballeros (Luck=Lufulu, Rill, Klaus, Hamon, Yuno, Puli, Fragil, Ruben, Ben, etc.); sin Patolli consciente, no despiertan por ahora. | T1298: Facundo sacó las 47 semillas (almas de elfo dormidas) de todo el reino en 4 días; se apagaron al salir (Lufulu de Luck, la de Rill, Klaus, Hamon, Fragil, Puli, etc.). Yuno NO tenía (solo Bell). La Reencarnación de los elfos ya no puede ocurrir. No sabe nadie que eran elfos."
+    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William. | T1288: Patolli (en el cuerpo de William) noqueado en la muralla antes de pelear con Julius: Julius NO muere (canon c146), Licht no se lleva las piedras de Julius; sin Patolli consciente, la Reencarnación de esta noche no puede activarse (las piedras no se colocan en el Monumento del Árbol de la Vida). Rhya y los demás del Ojo siguen en la base de las Rocas Gravito con los Caballeros Reales. | T1295: almas de elfo dormidas en varios Caballeros (Luck=Lufulu, Rill, Klaus, Hamon, Yuno, Puli, Fragil, Ruben, Ben, etc.); sin Patolli consciente, no despiertan por ahora. | T1298: Facundo sacó las 47 semillas (almas de elfo dormidas) de todo el reino en 4 días; se apagaron al salir (Lufulu de Luck, la de Rill, Klaus, Hamon, Fragil, Puli, etc.). Yuno NO tenía (solo Bell). La Reencarnación de los elfos ya no puede ocurrir. No sabe nadie que eran elfos.",
+    "duodecimo_mundo": "naruto (único mundo sin visitar; elegido por descarte al /viajar nuevo, T1305)",
+    "momento_del_canon_naruto": "Tirada 0,6458 → cap. ~452: dos días después de la Invasión de Pain. Konoha es un cráter. Nagato revivió a los muertos y murió; Konan se fue. Tsunade en coma. Danzō acaba de ser designado Sexto Hokage por el Señor Feudal y ordenó eliminar a Sasuke. Samui, Karui y Omoi (Kumo) llegan en estos días. Sigue: Cumbre de los Cinco Kages (cap. 454+).",
+    "apodos_pendientes_naruto": "\"El Hombre de los Dragones\" / \"Ryūjin\" si muestra Venas del Dragón en público; antes, \"el forastero del gato\"."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

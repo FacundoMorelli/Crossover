@@ -11,3 +11,4 @@ ESTADO: activo
 ENCUENTROS:
 - T458 · Facundo aparece en medio de su duelo con Asta.
 - T1303 · Lo abraza de la cintura sin decir nada y no lo suelta.
+- T1305 · Lo suelta. "No sé qué es un nuevo mundo. Pero cuando vuelvas, voy a bailar para ti. Bien. No como en el templo."

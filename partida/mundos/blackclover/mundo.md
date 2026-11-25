@@ -12,3 +12,4 @@ DON DE MUNDO: Grimorio del Firmamento (ver sistema.json).
 - T1277 · Facundo vuelve ~90 días después. La base de los Toros Negros está medio destruida: Rades (Ojo del Sol de Medianoche) ataca con No.0 (dos cuerpos cosidos, cuatro brazos) a Gauche, Gordon y Grey (canon c138-142).
 - T1279 · No.0 destruido por Facundo (canon: lo vencen Henry y los Toros con la base-toro).
 - T1288 · El otro alma de William (Licht/Patolli) noqueado por Facundo en la muralla oeste antes de la pelea con Julius. Julius NO muere (canon c146). La Reencarnación de los elfos queda sin quien coloque las piedras.
+- T1305 · Día 4 21:22 · Facundo se va otra vez por una puerta, desde el claro de los Toros. Dijo "un nuevo mundo".

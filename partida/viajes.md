@@ -215,3 +215,15 @@
 - Tokyo Ghoul: salida Día 7 21:30, salón de Anteiku (vieron la Puerta). Prometió volver "en una semana o en tres meses". Botón de aviso a Yoshimura. 4 semillas en Anteiku. Corre.
 - Black Clover: VUELVE ~90 días después de irse (T489). Explanada de la base de los Toros Negros, 12:10, día del asalto a la base del Ojo (canon c138): Rades ataca la base.
 - Bleach, Fairy Tail, Jujutsu, Shingeki, One Piece, Dragon Ball, Hunter x Hunter, DanMachi, Boku no Hero: corren.
+
+| 12 | Naruto | Día 1, 07:40 | Dos días después de la Invasión de Pain (cap. ~452) | Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra Ninja. | ACTIVA |
+
+## RELOJES (actualizado T1305)
+- Black Clover: segunda salida Día 4 21:22 (T1305), claro de los Toros Negros. Corre.
+- Naruto: llegada Día 1 07:40 (T1305). Corre al ritmo de Facundo.
+
+### Naruto
+- MISIÓN: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra Ninja.
+- RECOMPENSA: 20.000 EXP · 500 Fragmentos
+- VENCE: nunca · CAMBIADA: no
+- Los doce mundos ya fueron visitados.

@@ -73,3 +73,4 @@
 - Todos los del claro · T1302 · Facundo TIENE GRIMORIO (tapas negras, trébol de tres hojas plateado, estrellas): magia de constelación (león de estrellas). Venció a Mereoleona. Dijo que fue "uno solo de sus ataques".
 - Todos los del claro · T1303 · Facundo se va otra vez; dijo que quizás vuelve en unas semanas y que tiene "muchos" ataques.
 - Todos los del claro · T1304 · vieron a Facundo recibir la comida de Charmy para el viaje.
+- Todos los del claro · T1305 · Facundo dijo que se va "a un nuevo mundo" (Kiato no entiende qué es). Lo vieron cruzar otra puerta de luz con el gato.
