@@ -1180,3 +1180,4 @@ T1178 · TG · Anteiku · "Podría sacarles el kagune; moldea el alma." Yoshimur
 T1179 · TG · Anteiku · Advierte el riesgo de quitar el kagune. Yoshimura: "es una presa". Touka: "Después. Cuando pase lo del Búho."
 T1180 · TG · Anteiku · Recinto de Sakaime de 6 caras sobre Anteiku: ni CCG ni ataques. Touka: "¿Una quinque? ¿De dónde la sacaste?"
 T1181 · TG · Anteiku · Sakaime en el mostrador. Touka: no huele a quinque. Yoshimura sintió algo cerrarse: "¿Qué hizo, Morelli-san?"
+T1182 · TG · Anteiku · Explica la barrera. Yoshimura: investigadores vienen de civil; si chocan, se darán cuenta. Touka: "Vuelven con más."

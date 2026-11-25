@@ -48,3 +48,5 @@
 - Touka (por la ventana) · T1180 · vio a Facundo sacar una katana de la nada en la calle y caminar alrededor del café con ella. No vio el Recinto (no se ve). Cree que puede ser una quinque.
 - Yoshimura · T1180 · vio la espada desde la barra; nota algo distinto en el umbral (deducción por sus sentidos; el Velo no oculta el Recinto, que no es poder de Facundo sobre sí mismo, pero no se ve ni se siente como kagune). No sabe qué es.
 - Touka, Yoshimura · T1181 · vieron y olieron la espada (no huele a ghoul: no es una quinque). Yoshimura sintió el Recinto cerrarse "como la tapa de una caja" y lo sigue sintiendo (deducción: lo relaciona con la línea plateada de la hoja y la de la vereda).
+- Yoshimura, Touka · T1182 · por Facundo: la barrera invisible no deja pasar a nadie de la CCG ni ningún ataque.
+- Facundo · T1182 · por Yoshimura: a veces investigadores entran de civil como clientes.

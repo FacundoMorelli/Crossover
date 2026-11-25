@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1179)
-puedo hacerlo si, el tema es este, los radares de la ccg no los detectarian, pero si uno de la ccg sabe como es su cara y sabe que antes era kagune capaz intenta matarlo y no podrian defenderse
-
-## RESPUESTA 1 (T1179)
-
-> —Puedo hacerlo, sí. El tema es este: los radares de la CCG no los detectarían, pero si uno de la CCG sabe cómo es su cara y sabe que antes era ghoul, capaz intenta matarlo, y no podrían defenderse.
-
-Touka abre la boca para contestar y la cierra.
-
-Se queda mirando el trapo que tiene en la mano. El agua sigue goteando, una gota cada tanto, sobre las tablas del piso.
-
-—A mí no me conocen la cara —dice al final, en voz baja—. Siempre usé máscara. Nunca me vieron sin ella.
-
-Pero no lo dice con alivio. Lo dice como quien hace una cuenta y no le da.
-
-Yoshimura toma el trapo de su mano, con suavidad, y lo deja escurriendo en la pileta. Después le pone la mano en el hombro, apenas, un segundo.
-
-—Morelli-san tiene razón, Touka-chan. —Habla sin apuro—. Un ghoul que no puede defenderse, en un mundo que no perdona, no es una persona libre. Es una presa. —Retira la mano—. Y la CCG no olvida las caras. Tiene fotos, informes, testigos. Investigadores que pasan años buscando a uno solo.
-
-Te mira a ti.
-
-—No es una decisión para tomar en una mañana. Ni para tomar sola.
-
-Touka aprieta los labios. Mira el piso. Mira la escalera, hacia arriba, donde está Kaneki. Mira la puerta del fondo, la del callejón, por donde a las diez va a entrar un chico de doce años que no sabe usar su kagune.
-
-Cuando vuelve a hablar, la voz le sale firme otra vez, casi enojada.
-
-—Entonces después —dice—. Cuando pase lo del Búho. Cuando ya no haya nadie que venga a quemar este lugar. —Te clava el ojo gris—. Hasta entonces, mi kagune se queda donde está.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1179 · TOKYO GHOUL · MAÑANA · 07:27    ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-(Escribiste "antes era kagune"; lo tomé como "antes era ghoul".)
-
----
-
-## COMANDO 2 (T1180)
+## COMANDO 1 (T1180)
 bueno si me permiten voy a hacer algo para que los de la ccg no puedan atacar este lugar, saco sakaime y pongo lineas alrededor de anteiku para dejar pasar a todos menos a los de la ccg, ni ningun ataque que venga hacia aqui
 
-## RESPUESTA 2 (T1180)
+## RESPUESTA 1 (T1180)
 
 > —Bueno, si me permiten, voy a hacer algo para que los de la CCG no puedan atacar este lugar.
 
@@ -112,10 +64,10 @@ Cuando vuelves a entrar, la campanita de la puerta suena. Touka está a dos paso
 
 ---
 
-## COMANDO 3 (T1181)
+## COMANDO 2 (T1181)
 no es una quinque, es una espada, la saco y la pongo en el mostrador, pueden mirarla si quieren
 
-## RESPUESTA 3 (T1181)
+## RESPUESTA 2 (T1181)
 
 > —No es una quinque. Es una espada.
 
@@ -163,7 +115,58 @@ Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1182)
+puse una barrera invisible, no permite pasar a nadie de la ccg ni ningun ataque
+
+## RESPUESTA 3 (T1182)
+
+> —Puse una barrera invisible. No deja pasar a nadie de la CCG ni ningún ataque.
+
+Touka levanta la vista de la espada de golpe.
+
+—¿A nadie? —Mira la puerta, el vidrio, la vereda gris—. ¿Ni aunque vengan cien? ¿Con sus quinques y sus camionetas?
+
+—Ni aunque vengan cien —repite Yoshimura, despacio. No es una pregunta.
+
+Se queda mirando la puerta un largo rato. La campanita de bronce, quieta. El cartel de CERRADO del lado de afuera. La franja de luz gris en el piso.
+
+Después vuelve a ponerse los lentes, y con ellos vuelve también la cara de barista amable. Pero la voz le sale más baja.
+
+—Es un regalo enorme, Morelli-san. No sé cómo voy a agradecérselo. —Apoya una mano sobre la barra, cerca de la espada, sin tocarla—. Pero déjeme pensar en voz alta, porque soy viejo y desconfío de todo lo que es demasiado bueno.
+
+Toma un platillo limpio y lo seca otra vez, sin necesidad.
+
+—Este es un café. Entran clientes. Estudiantes, oficinistas, señoras del barrio. —Hace una pausa—. Y a veces, investigadores. Vienen de civil, a tomar un café o a mirar. Uno nunca sabe cuál de los que se sientan en esas mesas lleva un maletín plateado debajo de la mesa.
+
+Deja el platillo en la pila.
+
+—Si uno de ellos llega a esa puerta y no puede pasar... si choca contra algo que no ve, en plena vereda, delante de todos...
+
+No termina. No hace falta.
+
+Touka lo entiende al mismo tiempo. Se le borra el principio de alivio que tenía en la cara.
+
+—Se van a dar cuenta —dice—. De que este lugar es raro. Y vuelven con más.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1182 · TOKYO GHOUL · MAÑANA · 07:34    ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra, junto a la espada         ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:32, Anteiku. Sakaime en el mostrador. Yoshimura sintió el Recinto y pregunta qué hizo. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:34, Anteiku. Yoshimura y Touka temen que un investigador de civil choque con la barrera y delate el lugar. Facundo puede responder.
