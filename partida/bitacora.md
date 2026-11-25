@@ -1081,3 +1081,4 @@ T1079 · DanMachi · Piso 20 → Hearthstone Manor · Despedida Bell-Wiene ("Pro
 T1080 · DanMachi · Mansión del Crepúsculo · Hestia: "dile que es una tabla de planchar." Va a la Familia Loki: "¡Es el del gato!" Finn frena a todos. Loki: "¿Y tú quién eres, guapo?"
 T1081 · DanMachi · Mansión del Crepúsculo · "Soy el que andan buscando." Loki se ríe. Finn: "Los rastros se cortaron. Mi diosa escucha. ¿Dónde están los monstruos?"
 T1082 · DanMachi · Mansión del Crepúsculo · "Ya están en su casa." Loki: "Verdad." Finn: "Eso también es un problema." Loki abre el portón: "Entra y tómate algo con mamá Loki."
+T1083 · DanMachi · Mansión del Crepúsculo · Vino de Soma con Loki. "No te siento aura ni Falna. ¿De qué Familia eres?"

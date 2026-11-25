@@ -39,3 +39,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Familia Loki en la Mansión del Crepúsculo (Finn, Riveria, Gareth, Loki, ~30 aventureros, guardias) · T1080 · lo ven aparecer en el portón; coincide con la descripción de Bete. No saben su nombre.
 - Finn, Loki, Riveria, Gareth y la Familia Loki · T1081 · Facundo admitió ser "el que andan buscando". Finn sabe (por Ganesha) que los rastros de los Xenos se cortaron todos a la vez hace ~20 minutos.
 - Loki, Finn, Riveria, Gareth y la Familia Loki · T1082 · Facundo dijo que los monstruos "ya están en su casa" (Loki: verdad). Finn deduce que volvieron a la Mazmorra pese a los accesos cerrados, en 20 minutos, sin ser vistos: lo considera un problema.
+- Loki · T1083 · no le siente aura ni Falna (Velo); Bete tampoco le sintió olor. Supone que con esa fuerza debe tener Falna.

@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1080)
-voy a ir a ver a la familia loki, no tengo miedo de ellos
-
-## RESPUESTA 1 (T1080)
-
-> voy a ir a ver a la familia loki, no tengo miedo de ellos
-
-> —Voy a ir a ver a la Familia Loki. No les tengo miedo.
-
-Hestia abre la boca. La cierra. Te mira de arriba abajo, después a Bell, después otra vez a ti.
-
-—Es verdad —murmura—. No les tienes miedo. —Se pasa una mano por la cara—. Ay, por todos los cielos.
-
-—¡Diosa, la Familia Loki es la más fuerte de Orario! —La chica de la mochila sale de atrás del sillón, alarmada—. ¡Finn Deimne, Riveria, Gareth, la Princesa Espada! ¡Nivel seis los cuatro!
-
-—Lili...
-
-—¡Y Loki es Loki!
-
-Hestia suspira largo.
-
-—La Mansión del Crepúsculo —dice al fin, señalando con la cabeza hacia una pared, hacia el norte—. Torres altas, banderas con el bufón. No tiene pérdida. —Se cruza de brazos—. Y si Loki te dice algo de mí, dile que es una tabla de planchar.
-
-Bell da un paso hacia ti.
-
-—Señor Facundo... tenga cuidado.
-
-[00:45 · Mansión del Crepúsculo · Familia Loki.]
-
-Apareces en la calle, frente a un portón de hierro negro, alto, con el emblema del bufón sonriente en el centro. Detrás, una mansión de piedra gris con torres puntiagudas, ventanas encendidas en todos los pisos y banderas que flamean en lo alto. El patio de adelante está lleno de antorchas y de gente: aventureros que entran y salen corriendo, mensajeros, un chico de pelo castaño con un mapa de Dédalo extendido sobre un barril, marcando cuadras con tiza.
-
-En la escalinata de la entrada hay tres personas que no corren.
-
-Un muchacho de aspecto infantil, bajito como un chico de diez años, de pelo rubio y ojos azules, con una lanza dorada en la espalda: habla bajo, rápido, dando órdenes con los dedos. A su lado, una mujer elfa alta, de pelo verde largo y un báculo, con la cara seria. Del otro lado, un enano barbudo, ancho como un barril, con un hacha de guerra apoyada en el hombro.
-
-Arriba, en un balcón del segundo piso, apoyada en la baranda con un vaso de algo en la mano, hay una mujer de pelo rojo atado en una cola, con los ojos entrecerrados, finitos, como dos rayas. No da órdenes. Mira.
-
-Uno de los guardias del portón te ve. Mira tu pelo. Tus ojos. El gato.
-
-Se le cae la antorcha.
-
-—¡E... es él! —grita—. ¡Capitán! ¡Es el del gato! ¡Está aquí! ¡En la puerta!
-
-El patio entero se da vuelta.
-
-Las antorchas se levantan. Treinta aventureros desenvainan a la vez, con un ruido de metal que llena la calle. El chico del mapa se cae del barril.
-
-En la escalinata, el muchacho rubio levanta una mano. Nadie se mueve.
-
-Te mira. Tiene los ojos azules tranquilos, fríos, de alguien que ya calculó diez maneras de matarte y ninguna le gusta.
-
-Arriba, en el balcón, la mujer pelirroja deja el vaso en la baranda y abre los ojos. Son rojos.
-
-—Vaya, vaya, vaya —dice, con una sonrisa enorme—. Le tocan la puerta a mamá Loki a la una de la mañana. —Se inclina sobre la baranda—. ¿Y tú quién eres, guapo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1080 · DANMACHI · NOCHE 2 · 00:45      ║
-║ Orario · portón de la Mansión del Crepúsculo ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La Familia Loki                    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1081)
+## COMANDO 1 (T1081)
 soy el que andan buscando
 
-## RESPUESTA 2 (T1081)
+## RESPUESTA 1 (T1081)
 
 > soy el que andan buscando
 
@@ -129,10 +57,10 @@ Apoya una mano en un barrote del portón.
 
 ---
 
-## COMANDO 3 (T1082)
+## COMANDO 2 (T1082)
 ya están en su casa
 
-## RESPUESTA 3 (T1082)
+## RESPUESTA 2 (T1082)
 
 > ya están en su casa
 
@@ -183,4 +111,54 @@ Levanta la vista hacia ti.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:48, portón de la Mansión del Crepúsculo. Loki confirmó que dice la verdad (los Xenos en la Mazmorra). Finn lo ve como un problema. Loki abre el portón y lo invita a entrar a tomar algo. Facundo puede actuar.
+## COMANDO 3 (T1083)
+entro y me tomo algo con loki
+
+## RESPUESTA 3 (T1083)
+
+> entro y me tomo algo con loki
+
+Cruzas el portón.
+
+Los treinta aventureros se apartan, despacio, con las armas bajas pero sin guardarlas. Te miran pasar. Algunos miran al gato más que a ti. Gareth, en el último escalón, te sigue con los ojos debajo de las cejas espesas y no dice nada, pero sonríe apenas detrás de la barba, como si le gustara lo que ve.
+
+Loki te lleva adentro, caminando delante, canturreando.
+
+Pasillos de piedra con tapices, retratos, armas colgadas. Escaleras. Una puerta de madera tallada que da a una sala grande, con una chimenea encendida, sillones de cuero rojo, una mesa baja llena de botellas, vasos sucios y una bandeja de queso a medio comer. En la pared hay un tapiz enorme con el bufón sonriente.
+
+Finn y Riveria entran detrás. Finn cierra la puerta.
+
+Loki se tira en un sillón, con las piernas por encima del apoyabrazos. Agarra una botella de vidrio verde, la destapa con los dientes y sirve dos vasos hasta el borde. Te empuja uno por la mesa.
+
+—Vino de Soma. —Guiña un ojo—. Del bueno, del que no vuelve loco a nadie. Bueno, casi.
+
+Kase baja de tu hombro al sillón de al lado, olfatea el queso de la bandeja y se sienta a mirarlo con interés.
+
+Loki levanta su vaso. Bebe la mitad de un trago. Suspira de placer.
+
+Riveria se queda de pie junto a la chimenea, con el báculo apoyado en el piso. Finn se sienta en el sillón de enfrente, derecho, con las manos en las rodillas, sin tocar ningún vaso.
+
+—Bueno. —Loki deja el vaso en la mesa y te mira por encima del borde, con los ojos rojos entrecerrados—. Empecemos por lo fácil, guapo. No te siento nada de aura, nada de nada. A Bete le pasó lo mismo con el olor. Y yo, que soy una diosa, tampoco te huelo la Falna.
+
+Se inclina hacia adelante.
+
+—Y todos los que tienen esa fuerza en esta ciudad tienen una. —Sonríe, con todos los dientes—. Así que: ¿de qué Familia eres? ¿Quién es el dios que te bendijo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1083 · DANMACHI · NOCHE 2 · 00:52      ║
+║ Orario · Mansión del Crepúsculo, sala        ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sillón, mirando el queso         ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La Familia Loki                    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:52, sala de Loki. Loki le sirvió vino de Soma y le pregunta de qué Familia es y qué dios lo bendijo (no le siente aura ni Falna). Finn y Riveria presentes. Facundo puede responder.

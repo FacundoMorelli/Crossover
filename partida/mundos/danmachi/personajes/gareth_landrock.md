@@ -7,6 +7,7 @@ FÍSICO: Enano barbudo, ancho, hacha de guerra.
 PERSONALIDAD Y FORMA DE HABLAR: Bonachón, rudo, bebedor.
 RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
+- T1083 · Le sonríe a Facundo desde la escalinata al verlo entrar.
 - T1080 · Noche 2 00:45 · Mansión del Crepúsculo: Facundo aparece en el portón.
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: la descripción de Bete; lo ve en persona (T1080).
