@@ -139,3 +139,5 @@
 - Washuu Tsuneyoshi · T1235 · Facundo se presentó: Facundo Morelli, un viajero. Tsuneyoshi conoce el informe del hambre.
 - Tsuneyoshi, Yoshitoki, Arima, Shinohara, Houji, Kuroiwa, Marude · T1236 · por Facundo: el Búho ahora puede comer comida de verdad (fue transfigurado).
 - Facundo · T1236 · por Tsuneyoshi: "hay alguien en mi familia que hace mucho tiempo que tiene hambre".
+- Todas las unidades de la CCG · T1237 · la operación quedó suspendida por orden directa del presidente.
+- Arima · T1237 · sabe que Facundo va mañana a la casa del presidente ("Mañana").

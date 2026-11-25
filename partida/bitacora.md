@@ -1235,3 +1235,4 @@ T1233 · TG · Carpa central · "Dile al presidente que venga." Washuu lo va a l
 T1234 · TG · Carpa central · Arima: "Ya sabes cómo terminan las historias de este lugar." Washuu llama al presidente; le pasa el teléfono a Facundo.
 T1235 · TG · Carpa central · Al teléfono con Washuu Tsuneyoshi: "¿Es verdad que les quita el hambre?"
 T1236 · TG · Carpa central · "El Búho come comida de verdad." Tsuneyoshi ofrece cesar la operación ya, a cambio de que Facundo vaya mañana a las 10 a su casa, solo: "Alguien en mi familia tiene hambre hace mucho."
+T1237 · TG · Carpa central · Acepta ir mañana a las 10. OPERACIÓN DEL BÚHO SUSPENDIDA. MISIÓN DE MUNDO CUMPLIDA (+13.000 EXP, +450 F). Nivel 29. Mundos completados: 11. Arima: "Mañana."

@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1234)
-leo mucho si, me gusta conocer al lugar al que viajo
-
-## RESPUESTA 1 (T1234)
-
-> —Leo mucho, sí. Me gusta conocer el lugar al que viajo.
-
-Arima te mira un rato más.
-
-No asiente. No sonríe. Pero algo en la cara vacía se mueve, muy poco, como la superficie de un lago cuando cae una hoja.
-
-—Entonces ya sabes cómo terminan casi todas las historias de este lugar —dice. Lo dice sin amenaza, sin tristeza, como quien comenta el clima—. Mal. Para casi todos.
-
-Se da vuelta hacia la mesa de los mapas. Mira la pantalla donde se ve la fachada de Anteiku. La mira mucho tiempo.
-
-—Ese café hace buen café —dice, a nadie en particular.
-
-Detrás de él, Washuu ya tiene el teléfono en la oreja. Marcó mientras Arima hablaba. Habla en voz baja, de espaldas, con frases cortas y respetuosas. Se oye, aunque no del todo: "...un humano... sí, esposado... no, ninguna reacción... veintisiete... ninguno muerto... sí, el Búho está adentro... una pared... no lo sé, Presidente... sí... sí, entiendo..."
-
-Se queda callado un momento largo, escuchando.
-
-Después se da vuelta. Baja el teléfono. Tiene la misma sonrisa educada de siempre, pero algo detrás de los lentes cambió. Algo que se parece mucho a la sorpresa.
-
-Camina hasta tu silla y te ofrece el teléfono, con la pantalla iluminada hacia arriba.
-
-—Mi padre quiere hablar con usted —dice—. Directamente.
-
-Shinohara, a tu lado, cierra los ojos un segundo. Kuroiwa, en la entrada, se cruza de brazos. Houji se acomoda los anteojos.
-
-Arima no se da vuelta. Sigue mirando la pantalla de Anteiku.
-
-Del parlante del teléfono sale el silencio de una línea abierta. Alguien, del otro lado, espera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1234 · TOKYO GHOUL · DÍA 6 · 18:17     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, lomo erizado             ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con el presidente         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1235)
+## COMANDO 1 (T1235)
 agarro el telefono, mucho gusto presidente, soy Facundo Morelli, un viajero
 
-## RESPUESTA 2 (T1235)
+## RESPUESTA 1 (T1235)
 
 > agarro el teléfono
 
@@ -101,10 +49,10 @@ En la carpa, nadie se mueve. Washuu Yoshitoki está a un metro de ti, con las ma
 
 ---
 
-## COMANDO 3 (T1236)
+## COMANDO 2 (T1236)
 asi es, es verdad, de hecho el mismo buho puede comer comida de verdad ahora
 
-## RESPUESTA 3 (T1236)
+## RESPUESTA 2 (T1236)
 
 > —Así es, es verdad. De hecho, el mismo Búho ahora puede comer comida de verdad.
 
@@ -157,7 +105,83 @@ En la carpa, Washuu Yoshitoki cierra los ojos un instante detrás de los lentes.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1237)
+esta bien, mañana estare ahi
+
+## RESPUESTA 3 (T1237)
+
+> —Está bien. Mañana estaré ahí.
+
+—Excelente. —Del otro lado se oye la sonrisa, de verdad esta vez—. Lo espero con té, Morelli-kun. Del bueno. Ahora, por favor, páseme con mi hijo.
+
+Le devuelves el teléfono a Washuu Yoshitoki.
+
+Él lo toma. Escucha. No habla, salvo un "sí" corto cada tanto, y un "entendido" al final. Corta. Se queda un segundo con el teléfono apagado en la mano, mirándolo, como si hubiera escuchado algo que va a tardar mucho en digerir.
+
+Después se da vuelta hacia la mesa de los mapas, toma el micrófono de la radio central y aprieta el botón.
+
+—A todas las unidades del Distrito 20. Habla Washuu, puesto de mando. —La voz le sale igual de educada que siempre, igual de tranquila—. Por orden directa del presidente, la Operación de Exterminio del Búho queda suspendida a partir de este momento. Repito: suspendida. Cese el fuego en todos los sectores. Recojan a los heridos y repliéguense al perímetro norte. Nadie se acerca a la avenida 3 ni al café. Confirmen recepción.
+
+Suelta el botón.
+
+Durante un segundo no pasa nada. Después, la radio estalla: una docena de voces a la vez, confundidas, "repita", "¿confirmado?", "¿suspendida?", "¿y el Búho?". Washuu repite la orden dos veces más, sin cambiar el tono, y las voces se van apagando, una por una, con un "entendido" seco.
+
+Afuera, de a poco, dejan de sonar los disparos.
+
+Primero en las calles cercanas. Después en las de más lejos. Al final queda solo el zumbido de los generadores, el de las sirenas de las ambulancias que empiezan a acercarse, y el viento.
+
+[Misión de Mundo cumplida.]
+
+```
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO CUMPLIDA                     ║
+║ Mundo: Tokyo Ghoul                           ║
+║                                              ║
+║ Ningún miembro de Anteiku murió ni fue       ║
+║ capturado en la Operación del Búho.          ║
+║                                              ║
+║ RECOMPENSA: 13.000 EXP · 450 Fragmentos ·    ║
+║ la Puerta                                    ║
+║ MUNDOS COMPLETADOS: 11                       ║
+╚══════════════════════════════════════════════╝
+```
+
+[Has subido de nivel. Nivel 29.]
+
+[+1 a todos los stats. +5 puntos asignables.]
+
+Shinohara suelta el aire. Largo, como alguien que lo estuvo aguantando desde la mansión de Kanou. Da un paso hacia ti, saca una llave chica del cinturón y te abre las esposas. Clic. Clic. La franja roja se apaga.
+
+En la entrada de la carpa, Kuroiwa se saca el casco otra vez y se pasa una mano por la cara empapada. Houji se acomoda los anteojos y, por primera vez, mira para otro lado.
+
+Arima se da vuelta desde la pantalla. Te mira un momento. Después levanta el maletín plateado y camina hacia la salida, sin apuro, sin hacer ruido. Al pasar a tu lado se detiene un instante.
+
+—Mañana —dice, nada más.
+
+Y se va.
+
+Washuu Yoshitoki deja el micrófono sobre la mesa. Saca del bolsillo una libreta chica de cuero, escribe algo con una lapicera fina, arranca la hoja y te la tiende, doblada en dos.
+
+—La dirección de mi padre —dice—. A las diez. Le sugiero ser puntual. —Se acomoda los lentes—. Él siempre lo es.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1237 · TOKYO GHOUL · DÍA 6 · 18:24     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:19, carpa central. Tsuneyoshi ofrece cesar la operación ya a cambio de que Facundo vaya mañana a las 10 a su casa, solo, a conocer a alguien de su familia que tiene hambre. Pregunta si le parece justo. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:24, carpa central. Operación suspendida. Misión de Mundo cumplida, nivel 29, Puerta abierta. Sin esposas. Yoshitoki le dio la dirección de su padre para mañana a las 10. Facundo puede actuar.

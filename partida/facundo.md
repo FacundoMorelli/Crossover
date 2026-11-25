@@ -51,3 +51,10 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 ### Boku no Hero Academia
 - Turno 1087 · Cruza la Puerta desde Orario. Llega a Musutafu, al pie de la colina de la U.A. (diciembre, arco del entrenamiento conjunto). Don de Mundo: Llama del Renacer.
 - Turno 1111 · Cura a All Might y le restaura entera la brasa de One For All (vuelve su forma musculosa).
+
+### Tokyo Ghoul
+- Turno 1147 · Cruza la Puerta desde la U.A. Llega al acantilado frente a la mansión de Kanou en pleno asalto de la CCG. Don de Mundo: Kagune de Ceniza.
+- Turno 1151 · Cura a Shinohara en el sótano de la mansión.
+- Turno 1166 · Le quita el hambre de ghoul a Kaneki con la Transfiguración Ociosa. Después, a ~138 ghouls más. Apodo entre ghouls: el Panadero.
+- Turno 1205 · Copia el kagune de Kaneki (kakuja controlado).
+- Turno 1237 · MISIÓN DE MUNDO DE TOKYO GHOUL CUMPLIDA: negocia con Washuu Tsuneyoshi y la Operación del Búho se suspende; nadie de Anteiku muere ni es capturado. Nivel 29. Mundos completados: 11.

@@ -23,6 +23,7 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 - T1218 · Día 6 · Tres Apes muertos en la avenida antes de que Facundo llegue (cap. 127 del canon: Tanakamaru mata Apes con Higher Mind).
 - T1228 · Irimi sacada de la calle donde Hachikawa (?) quería ejecutarla (canon cap. 130-131: queda gravemente herida y reducida). Yoshimura, Kaneki, Touka, Koma e Irimi encerrados en Anteiku por el Recinto (nadie sale). Kuroiwa protege a los Apes heridos.
 - T1230 · Día 6 · Dos Black Dobers muertos contra la pared de un banco (camino al puesto de mando).
+- T1237 · Día 6 18:23 · LA OPERACIÓN DEL BÚHO SE SUSPENDE por orden de Washuu Tsuneyoshi (en el canon: masacre, Yoshimura capturado por Eto/Kanou, Kaneki capturado por Arima). Muertos de la noche: al menos 3 Apes y 2 Black Dobers, e investigadores en otras calles. Facundo citado en la casa de Tsuneyoshi, Día 7 10:00.
 
 ## TRANSFIGURACIÓN CONTRA EL HAMBRE (mecánica fijada T1169, explicada al jugador)
 - Siguen siendo ghouls: kagune, kakugan al usarlo, fuerza, regeneración y piel dura. Las células RC no cambian: las puertas RC de la CCG los detectan igual y siguen oliendo a ghoul.

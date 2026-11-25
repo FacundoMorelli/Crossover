@@ -1,13 +1,13 @@
 {
-  "turno": 1236,
+  "turno": 1237,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
-  "hora": "18:19",
+  "hora": "18:24",
   "edad": 18,
-  "nivel": 28,
-  "exp": 277230,
-  "exp_siguiente_nivel": 280000,
-  "fragmentos": 109452,
+  "nivel": 29,
+  "exp": 290230,
+  "exp_siguiente_nivel": 320000,
+  "fragmentos": 109902,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -70,16 +70,16 @@
       "cambio": "1 Fragmento = 11.000 yenes (fijado T1147)"
     }
   },
-  "puntos_de_stat_sin_asignar": 150,
+  "puntos_de_stat_sin_asignar": 155,
   "stats": {
-    "fuerza": 3991,
-    "velocidad": 3994,
-    "resistencia": 3991,
-    "tecnica": 3994,
-    "percepcion": 3992,
-    "voluntad": 3992,
-    "energia": 3993,
-    "control": 3992
+    "fuerza": 3992,
+    "velocidad": 3995,
+    "resistencia": 3992,
+    "tecnica": 3995,
+    "percepcion": 3993,
+    "voluntad": 3993,
+    "energia": 3994,
+    "control": 3993
   },
   "energia_actual_pct": 98,
   "eclipse": {
@@ -1995,7 +1995,8 @@
       "fairytail",
       "hunterxhunter",
       "danmachi",
-      "bokunohero"
+      "bokunohero",
+      "tokyoghoul"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -2004,7 +2005,7 @@
       "recompensa": "13.000 EXP · 450 Fragmentos",
       "vence": "cuando termine la Operación de Exterminio del Búho",
       "cambiada": false,
-      "estado": "ACTIVA (T1147)"
+      "estado": "CUMPLIDA (T1237, Día 6 18:23: Tsuneyoshi Washuu suspende la operación; ningún miembro de Anteiku muerto ni capturado)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",

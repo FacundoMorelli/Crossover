@@ -204,3 +204,9 @@
 - RECOMPENSA: 12.000 EXP · 400 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - T1147 · Salida de Boku no Hero (día 10, bosque de la U.A.) → Tokyo Ghoul (acantilado frente a la mansión de Kanou, noche).
+
+### Tokyo Ghoul
+- MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operación de Exterminio del Búho.
+- RECOMPENSA: 13.000 EXP · 450 Fragmentos
+- VENCE: cuando termine la Operación · CAMBIADA: no
+- CUMPLIDA: T1237 · Día 6 18:23. Washuu Tsuneyoshi suspende la operación por teléfono tras negociar con Facundo. Ningún miembro de Anteiku muerto ni capturado. +13.000 EXP, +450 F. Nivel 29. Mundos completados: 11.

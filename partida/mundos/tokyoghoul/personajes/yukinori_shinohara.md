@@ -7,6 +7,7 @@ FÍSICO: Grande, pelo corto oscuro.
 PERSONALIDAD: Amable, paternal, directo; habla bajo y serio.
 RELACIÓN: Primer encuentro T1148.
 ENCUENTROS:
+- T1237 · Le saca las esposas a Facundo al suspenderse la operación.
 - T1221 · Día 6, avenida 3 · Llega con Houji y Kuroiwa (armadura Arata, casco bajo el brazo). Ve a Facundo junto al Búho entre los investigadores caídos.
 - T1209 · Día 3, 10:20 · Entra a Anteiku (traje gris, venda en el cuello) y encuentra a Facundo en la barra. Detrás, Juuzou rebota contra la barrera.
 - T1151 · Facundo le da una semilla y lo cura con la Transfiguración Ociosa. Despierta.
