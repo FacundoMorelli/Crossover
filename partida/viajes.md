@@ -174,3 +174,17 @@
 - RECOMPENSA: 10.000 EXP · 300 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - CUMPLIDA: T1060 · Día 4 12:00. Shalnark y Kortopi vivos al zarpar el Black Whale 1. +10.000 EXP, +300 F. Mundos completados: 8.
+
+| # | Mundo | Llegada | Momento del canon | Misión | Estado |
+|---|---|---|---|---|---|
+| 9 | DanMachi | Noche 1, 23:10 | Vol. 11: Xenos atrapados en la superficie (Calle Dédalo) | Que todos los Xenos atrapados en la superficie vuelvan a la Mazmorra sin que muera ninguno. | ACTIVA |
+
+## RELOJES (actualizado T1061)
+- Hunter x Hunter: salida Día 4 12:05, puerto de Kakin. Corre.
+- DanMachi: llegada Noche 1 23:10, Calle Dédalo (Orario).
+- Bleach, Fairy Tail, Jujutsu, Shingeki, One Piece, Dragon Ball, Black Clover: corren.
+
+### DanMachi
+- MISIÓN: Que todos los Xenos atrapados en la superficie vuelvan a la Mazmorra sin que muera ninguno.
+- RECOMPENSA: 10.000 EXP · 300 Fragmentos
+- VENCE: nunca · CAMBIADA: no

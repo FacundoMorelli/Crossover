@@ -52,3 +52,4 @@
 - Día 4 10:00-11:30 · (T1060) La Tropa (9) sube de incógnito a los niveles bajos (canon). Hisoka NO sube (CAMBIO: en el canon sube para cazar a la Tropa); se queda en la capital de Kakin.
 - Día 4 11:45 · (T1060) Machi saluda a Facundo desde la baranda.
 - Día 4 12:00 · (T1060) Zarpa el Black Whale 1 (canon). Shalnark y Kortopi vivos a bordo. MISIÓN DE MUNDO CUMPLIDA.
+- Día 4 12:05 · (T1061) Facundo se va por la Puerta desde el techo del depósito del puerto de Kakin. Nadie lo ve. El hilo de Bungee Gum de Hisoka se corta.

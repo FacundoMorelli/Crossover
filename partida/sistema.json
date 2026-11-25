@@ -1,8 +1,8 @@
 {
-  "turno": 1060,
-  "mundo_actual": "hunterxhunter",
-  "fecha_local": "Día 4 (día del zarpe del Black Whale 1)",
-  "hora": "12:00",
+  "turno": 1061,
+  "mundo_actual": "danmachi",
+  "fecha_local": "Noche 1 (vol. 11, día siguiente a la batalla de la Calle Dédalo)",
+  "hora": "23:10",
   "edad": 18,
   "nivel": 28,
   "exp": 252350,
@@ -53,6 +53,11 @@
       "moneda": "jenny",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 jenny (fijado T1039)"
+    },
+    "danmachi": {
+      "moneda": "valis",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 valis (fijado T1061)"
     }
   },
   "puntos_de_stat_sin_asignar": 150,
@@ -313,6 +318,19 @@
           "estado": "sin cobrar"
         }
       ]
+    },
+    "danmachi": {
+      "nombre": "Falna del Eclipse · Skill: Égida del Juramento",
+      "tipo": "Falna (sin dios; la otorga el Sistema) con Skill",
+      "maestria": 30,
+      "reglas": [
+        "El Sistema le graba a Facundo una Falna propia, sin dios ni Familia. Sus jeroglíficos aparecen sobre el tatuaje del eclipse de la espalda; ningún dios puede leerlos, cambiarlos ni actualizarlos.",
+        "Skill ÉGIDA DEL JURAMENTO: cuando Facundo nombra a alguien en voz alta y jura protegerlo, esa persona no puede morir mientras Facundo esté a menos de 1 km y consciente. Todo daño que la mataría pasa a Facundo (y lo recibe como daño normal en su cuerpo).",
+        "Protegidos simultáneos: 3 en maestría 30; +1 cada 10 de maestría.",
+        "El juramento dura hasta que Facundo lo retira o el protegido se aleja de su alcance más de 24 horas seguidas.",
+        "Formas bloqueadas: ÉGIDA ABSOLUTA (maestría 60: alcance 10 km y protege también de heridas que dejan secuelas); ÉGIDA DEL HOGAR (maestría 90: puede jurar proteger un lugar entero; nadie dentro muere mientras él esté adentro)."
+      ],
+      "turno": 1061
     }
   },
   "velo": {
@@ -1771,7 +1789,8 @@
       "shingeki",
       "blackclover",
       "fairytail",
-      "hunterxhunter"
+      "hunterxhunter",
+      "danmachi"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -1785,12 +1804,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "hunterxhunter",
-      "mision": "Que Shalnark y Kortopi sigan vivos cuando zarpe el Black Whale.",
+      "mundo": "danmachi",
+      "mision": "Que todos los Xenos atrapados en la superficie vuelvan a la Mazmorra sin que muera ninguno.",
       "recompensa": "10.000 EXP · 300 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1060): Shalnark y Kortopi vivos al zarpar el Black Whale 1 (Día 4, 12:00)."
+      "estado": "ACTIVA (T1061)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -1816,7 +1835,8 @@
       },
       "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
       "fairytail": "Llegada X784 julio Día 1 06:55 (Parque de la Puerta Sur). Salida Día 3 18:25, explanada del río de Magnolia, delante de Fairy Tail (vieron la Puerta). Prometió revancha a Natsu y pelear con Erza. Makarov: la puerta abierta. Corre.",
-      "hunterxhunter": "Llegada Día 1 16:13 (T1039), avenida frente a la Torre Celestial, 1 h 47 min antes del duelo Hisoka vs. Chrollo (cap. ~351)."
+      "hunterxhunter": "Llegada Día 1 16:13. Salida Día 4 12:05, techo de un depósito del puerto de Kakin (nadie vio la Puerta; el hilo de Bungee Gum de Hisoka se cortó al cruzar). Corre.",
+      "danmachi": "Llegada Noche 1 23:10 (T1061), techo de una casa de la Calle Dédalo, Orario. Momento: inicio del vol. 11."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2074,6 +2094,13 @@
       "momento_del_canon": "Arco 8 (Continente Oscuro / Sucesión de Kakin), cap. ~351: día del duelo Hisoka vs. Chrollo en la Torre Celestial (Chrollo es Maestro de Piso). Canon: Chrollo usa Black Voice (Shalnark), Sun and Moon, Double Face, Gallery Fake (Kortopi), Order Stamp, Convert Hands; mata a Hisoka. Shalnark, Kortopi y Machi verifican; Machi se queda; Hisoka revive con Bungee Gum post-mortem, ata a Machi, mata a Kortopi (baño público) y a Shalnark (columpio). Después: la Tropa sube al Black Whale para matar a Hisoka. Kurapika y Leorio en la expedición; zarpe en unos días (festival de víspera, cap. 358).",
       "lugar_de_llegada": "avenida frente a la Torre Celestial, entre la multitud",
       "apodo_pendiente": "'El Gato de Dos Ojos' (si la Tropa o el público de la Torre lo ven pelear)"
+    },
+    "danmachi": {
+      "tirada_mundo": 0.6513,
+      "tirada_momento": 0.5163,
+      "momento_del_canon": "Vol. 11, inicio: un día después de la batalla de la Calle Dédalo (vol. 10). Los Xenos (Lido, Gros, Rei, Wiene y otros; Asterius aparte) están atrapados en la superficie, escondidos en Knossos/Calle Dédalo. Bell es despreciado ('el conejo blanco caído'). La Familia Loki (Finn) y la Ganesha (Shakti) bloquean las entradas a la Mazmorra y peinan Dédalo. Hestia, Fels y Ouranos planean sacarlos. Hermes quiere que Bell ejecute Xenos en público. Próximos: escaramuza en Dédalo; Ais intenta matar a Wiene y duda; Bell vs Asterius ante la ciudad; Wiene halla una entrada cerca del orfanato de María; los Xenos escapan.",
+      "lugar_de_llegada": "techo de una casa de la Calle Dédalo, cerca de Gros (gárgola Xenos)",
+      "apodo_pendiente": "'Eclipse Errante' (título que le darían los dioses en un Denatus si se hace famoso)"
     }
   },
   "recompensa_onepiece": {

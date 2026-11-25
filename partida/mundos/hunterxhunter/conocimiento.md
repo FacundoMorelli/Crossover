@@ -40,3 +40,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Trabajadores del puerto (2) · T1058 · vieron a un hombre volar por encima de los contenedores y estrellarse contra uno.
 - Hisoka · T1059 · comió una semilla de Facundo: curado del todo ("nada de lo que haces es Nen").
 - Machi · T1060 · lo vio desde la baranda del Black Whale, sentado en el techo del depósito; lo saludó levantando una mano.
+- Hisoka · T1061 · siente que el hilo de Bungee Gum se corta de golpe (Facundo cruzó a otro mundo); no sabe por qué.
