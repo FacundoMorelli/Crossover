@@ -98,3 +98,4 @@
 - Facundo, Touka, Nishiki (oído de ghoul) · T1210 · por Shinohara: el informe del andén llegó a la oficina de la CCG anteayer; Shinohara tiene esposa y dos hijos; los médicos de la CCG no encontraron cicatriz.
 - Shinohara · T1211 · confirmado por Facundo: le quitó el hambre a un ghoul.
 - Facundo, Touka, Nishiki (oyen) · T1211 · por Shinohara: la CCG verá a un humano que ayuda a ghouls; gente muy arriba no quiere que esto termine; el Distrito 20 bajo la lupa hace semanas; Shinohara pidió verificar el informe en persona para ganar tiempo.
+- Facundo, Touka, Nishiki, Yoshimura · T1212 · Shinohara dio su palabra: no pedirá nombres ni lo pondrá en un informe.

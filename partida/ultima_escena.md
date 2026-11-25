@@ -3,103 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1209)
-si, no te preocupes por eso, cambio fragmentos. simula un par de dias hasta que pase algo
-
-## RESPUESTA 1 (T1209)
-
-> —Sí, no te preocupes por eso.
-
-Abres la tienda del Sistema en silencio y cambias cincuenta Fragmentos. En el bolsillo interior del sobretodo aparece un sobre grueso de billetes.
-
-[50 Fragmentos cambiados por 550.000 yenes.]
-
-...
-
-La fila de Big Girl da vuelta la esquina. Nadie mira dos veces a un muchacho con un gato en el hombro: en el Distrito 20, a la hora del almuerzo, hay cosas más raras. En la pastelería del toldo rosa, la chica del mostrador te pregunta si es para un cumpleaños. Le contestas que algo así.
-
-Kaneki se come la hamburguesa sentado en la escalera de Anteiku, todavía con el pelo mojado del baño. Se la come entera, sin hablar, con las dos manos, y cuando termina se queda un rato largo mirando el papel vacío. Esa noche no baja a cenar. Lo oyen llorar en el cuarto, bajito, y nadie sube.
-
-Touka se encierra con el pastel en el cuarto chico de arriba y no deja entrar a nadie. A la mañana siguiente, la caja aparece vacía en el tacho de la cocina, doblada en cuatro con mucho cuidado, como si no quisiera que nadie la viera. Hinami la ve igual, y se lo cuenta a todo el mundo.
-
-El primer día pasa así. El segundo, también.
-
-A las diez, la puerta del callejón. El primer día son nueve. El segundo, diecinueve. Ya no vienen solo los que buscaban paquetes de papel marrón: vienen ghouls que nunca pisaron Anteiku, que se paran en la boca del callejón y miran desde lejos, desconfiados, un largo rato, antes de acercarse. Algunos se van sin entrar. Otros entran y lloran. Una pareja de ancianos trae a su nieta en brazos. Un muchacho con la cara llena de cicatrices te pregunta tres veces si es una trampa antes de dejarse tocar la frente.
-
-El segundo día, a la tarde, entran por el callejón dos que no vienen a buscar comida.
-
-Uno es un hombre grandote, con la cabeza afeitada y una sonrisa enorme de dientes torcidos, que se presenta a los gritos como Koma, jefe de los Apes del Distrito 20, y quiere saber si es cierto que el gerente encontró un "milagro de dos colores". La otra es una mujer seria, de pelo negro corto y mirada filosa: Irimi, de los Black Dobers. Los dos conocen a Yoshimura desde hace mucho; se nota en cómo le hablan, con un respeto viejo. Escuchan. Miran comer pan a un chico de doce años. Koma pide primero, riéndose fuerte para disimular el miedo. Irimi, después, sin decir nada.
-
-Al final del segundo día, entre la puerta del callejón y los de la casa, van cuarenta y uno.
-
-Por las tardes, el Distrito 24. Kaneki ya saca el kakuja sin que le cruja la cara de dolor, y lo deshace cuando quiere. Touka no te toca ni una vez, pero el segundo día deja de disparar a lo loco y empieza a mirarte los pies antes de atacar. Yomo baja con ellos las dos veces y no dice nada. La segunda vez, cuando terminan, le tira a Touka una toalla seca sin mirarla.
-
-Tsukiyama vuelve el segundo día con un ramo de rosas negras, un traje nuevo y una invitación a cenar en la mansión de su familia "cuando el viajero lo desee". Le pregunta a Kaneki, en un rincón, si la hamburguesa sabía bien, con una cara de dolor tan profunda que Nishiki tiene que salir al callejón a reírse.
-
-Kaneki sale solo el segundo día a la mañana. Vuelve a la tarde, con los ojos rojos y una sonrisa que no se le va. Fue a la universidad. Comió un sándwich con Hide en un banco del patio, y no lo vomitó.
-
-En la vereda de Anteiku, el hilo plateado sigue quieto junto al cordón. Nadie choca contra nada. Los clientes entran y salen. Los dos días, el umbral no tiembla ni una sola vez.
-
-Hasta el tercer día.
-
-...
-
-Día 3. Diez y veinte de la mañana.
-
-Estás en la barra, con el café que te sirvió Yoshimura. Kase duerme en el taburete de al lado. Touka atiende una mesa de estudiantes. Nishiki pasa la escoba. Por la puerta del callejón, en el fondo, se oye a Yoshimura hablando bajito con el primero del día.
-
-Suena la campanita de la puerta.
-
-Entra un hombre grande, de unos cuarenta y cinco años, de pelo corto oscuro, con un traje gris que le queda un poco ajustado en los hombros y una venda asomándole por el cuello de la camisa. Camina derecho, sin apuro, con las manos vacías. Mira el local. Te encuentra en la barra.
-
-Shinohara.
-
-Se le aflojan los hombros. Sonríe, cansado, como quien encuentra por fin a alguien que buscó mucho.
-
-Detrás de él, en la vereda, viene alguien más. Bajito, flaco, de pelo blanco cortado a tijeretazos, con una camiseta rayada y tirantes, y unas costuras rojas cosidas debajo de un ojo. Viene canturreando algo sin melodía, con las manos en los bolsillos.
-
-Juuzou llega al umbral.
-
-Y rebota.
-
-Se frena en seco contra algo que no se ve, como un pájaro contra un vidrio. Da un paso atrás, sorprendido, frotándose la nariz. En la vereda se le cae algo del bolsillo, que suena contra las baldosas: una navaja chica, de hoja curva.
-
-Los estudiantes de la mesa de la ventana se dan vuelta.
-
-Juuzou mira la puerta abierta. Mira el aire. Estira un dedo, despacio, y lo apoya en la nada, a la altura de la campanita. El dedo no pasa.
-
-Se le abre una sonrisa enorme.
-
-—¡Señor Shinohara! —canturrea, sin dejar de tocar la nada—. ¡No me deja entrar! ¡Hay una pared!
-
-Shinohara, ya adentro, a dos pasos de la puerta, se da vuelta despacio. Mira a Juuzou del otro lado del umbral. Mira la navaja en las baldosas. Mira el hilo plateado finísimo junto al cordón.
-
-Después te mira a ti.
-
-En todo el local no se mueve nadie. Touka se quedó con la bandeja en el aire. Nishiki, con la escoba quieta. Desde el fondo, la voz de Yoshimura se cortó a mitad de una frase.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1209 · TOKYO GHOUL · DÍA 3 · 10:21     ║
-║ Distrito 20 · Anteiku, barra                 ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado, dormido     ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1210)
+## COMANDO 1 (T1210)
 que quieres shinohara?
 
-## RESPUESTA 2 (T1210)
+## RESPUESTA 1 (T1210)
 
 > —¿Qué quieres, Shinohara?
 
@@ -155,10 +62,10 @@ Shinohara no la mira. Te mira a ti.
 
 ---
 
-## COMANDO 3 (T1211)
+## COMANDO 2 (T1211)
 si
 
-## RESPUESTA 3 (T1211)
+## RESPUESTA 2 (T1211)
 
 > —Sí.
 
@@ -204,7 +111,54 @@ Se queda callado. Mira de reojo a Touka, que está detrás de la barra secando u
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1212)
+si
+
+## RESPUESTA 3 (T1212)
+
+> —Sí.
+
+Shinohara asiente despacio. Suelta el aire por la nariz, largo, como si hubiera estado aguantándolo desde que entró.
+
+—Entonces voy a poner mis condiciones antes de que me muestres nada —dice—. Para que quede claro.
+
+Levanta un dedo grueso.
+
+—No quiero nombres. No quiero saber quién es, ni dónde vive, ni con quién anda. —Levanta otro—. Si tiene que taparse la cara, que se la tape. Me da igual. —Y un tercero—. Y lo que vea hoy no va a estar en ningún informe con mi firma. Tienes mi palabra.
+
+Mira hacia la puerta. Juuzou sigue haciendo equilibrio en el cordón, con los ojos cerrados ahora, contando en voz alta.
+
+—Él no entra —agrega—. Tu pared ya lo decidió por mí. —Algo parecido a una sonrisa cansada—. Y no le voy a contar. Juuzou no sabe guardar secretos. Los cuenta en voz alta, a cualquiera, como si fueran chistes.
+
+Se da vuelta en el taburete, quedando de frente a la barra, con las manos alrededor de la taza, y se queda quieto. Esperando.
+
+Detrás de la barra, Touka dejó de secar el vaso. Lo tiene apretado contra el pecho, con los nudillos blancos, y te mira fijo con el único ojo que se le ve. No dice nada. No hace falta.
+
+Nishiki ya no barre. Está apoyado en la escoba, junto a la puerta de la cocina, inmóvil.
+
+Por la puerta del callejón, al fondo, se oye que se cierra la puerta de metal. Pasos lentos. Yoshimura aparece en el pasillo, entre la cocina y el salón, secándose las manos con el repasador. Mira a Shinohara en la barra. Te mira a ti. No dice nada.
+
+El reloj de pared hace tic tac.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1212 · TOKYO GHOUL · DÍA 3 · 10:27     ║
+║ Distrito 20 · Anteiku, barra                 ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:26, barra de Anteiku. Shinohara advirtió sobre la CCG y pide ver a un ghoul comer pan. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:27, barra de Anteiku. Shinohara espera ver a un ghoul comer pan, con sus condiciones. Touka, Nishiki y Yoshimura miran a Facundo. Facundo decide cómo mostrarlo.
