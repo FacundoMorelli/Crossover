@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1290)
-eh no se, tu eres el rey mago, es tu responsabilidad, a mi me da igual lo que quieran hacer con el
-
-## RESPUESTA 1 (T1290)
-
-> —Eh... no sé. Tú eres el Rey Mago, es tu responsabilidad. A mí me da igual lo que quieran hacer con él.
-
-Julius se queda mirándote un segundo. Después suelta una risa corta, por la nariz, casi aliviada.
-
-—Tienes razón —dice—. Es mi responsabilidad. Hace diez años que lo es.
-
-Se pone de pie. Se sacude la túnica blanca y dorada. Mira a William, en el suelo, con el pelo blanco desparramado, y la cara se le pone seria, firme, de Rey Mago.
-
-—Lo voy a llevar al cuartel. A una celda que yo mismo voy a cerrar, con Marx vigilando la puerta. —Abre el libro otra vez. Las hojas vuelven a pasar solas, despacio—. Nadie le va a hacer daño. Ni a William, ni a lo otro. Hasta que sepamos qué es y qué quiere. —Hace una pausa—. Y cuando William despierte, si es William el que despierta, va a tener que contarme todo. Lo que no me contó en diez años.
-
-Levanta la mano libre. Alrededor de William se forma una esfera de luz dorada, tenue, transparente, que lo levanta del suelo despacio, con el grimorio de cuatro hojas adentro, flotando junto a él. Como un pájaro dormido dentro de una burbuja de jabón.
-
-Yami no mira a William. Mira hacia el oeste, más allá de la muralla, hacia las llanuras.
-
-—Viejo —dice—. Dijiste trampa.
-
-Julius asiente.
-
-—Las Rocas Gravito.
-
-—Los mocosos están ahí. —Yami aprieta la empuñadura de la katana—. Asta. Noelle. Luck. El nuevo. Con Mereoleona y medio ejército de Caballeros Reales que no saben en qué se metieron.
-
-Se da vuelta hacia ti. Te mira con los ojos entrecerrados, pesados.
-
-—No te voy a pedir nada, gato. —Saca un cigarro, lo prende con un chasquido de dedos—. Tú ya me dijiste en la cara que te da igual. Y está bien.
-
-Le da una pitada larga. Suelta el humo.
-
-—Pero yo me voy para allá. Ahora. —Te mira de reojo—. Y tú me trajiste aquí en un segundo. Con eso me ahorrarías medio día de caballo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1290 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · muralla oeste                      ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:32       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1291)
+## COMANDO 1 (T1291)
 voy con vos, te acompaño a ayudarlos, nos teletransportamos
 
-## RESPUESTA 2 (T1291)
+## RESPUESTA 1 (T1291)
 
 > —Voy contigo. Te acompaño a ayudarlos.
 
@@ -121,10 +69,10 @@ El grito rebota en toda la caverna. Las rocas flotantes vibran. Hasta Mereoleona
 
 ---
 
-## COMANDO 3 (T1292)
+## COMANDO 2 (T1292)
 te esta costando mucho asta
 
-## RESPUESTA 3 (T1292)
+## RESPUESTA 2 (T1292)
 
 > —Te está costando mucho, Asta.
 
@@ -171,7 +119,69 @@ Y se lanza hacia ti, saltando de roca en roca, rápido como un pájaro, con la m
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1293)
+quieres sentir mi mana? nunca lo mostre abiertamente pero te voy a dejar ver el 1%
+
+## RESPUESTA 3 (T1293)
+
+> —¿Quieres sentir mi maná? Nunca lo mostré abiertamente. Pero te voy a dejar ver el uno por ciento.
+
+Aflojas el Velo. Apenas. Una rendija.
+
+El aire de la caverna cambia de golpe.
+
+No es una explosión. Es peso. De un segundo a otro, donde para todos había un muchacho sin una gota de maná, hay una presencia del tamaño de un capitán de los Caballeros Mágicos. Densa, quieta, caliente, como una piedra grande que alguien acaba de poner sobre una balanza vacía. Las rocas flotantes más cercanas se mueven unos centímetros, despacio, apartándose. El polvo del suelo se levanta en un anillo alrededor de tus pies y se queda suspendido.
+
+Para cualquiera que mida, es mucho. Es lo que tiene un capitán en un buen día.
+
+Pero no es eso lo que asusta.
+
+Lo que asusta es lo que dijiste antes.
+
+El muchacho de las magias se frena en el aire, a mitad de un salto, como si hubiera chocado contra una pared. Cae sobre una roca flotante a diez metros de ti, de rodillas, con la mano todavía estirada. La baja despacio. Se queda mirándote. Se le borró la sonrisa.
+
+—Uno —dice, muy bajo—. Por ciento.
+
+Lo ves hacer la cuenta. Le tiembla el labio.
+
+En el centro de la roca grande, Mereoleona dejó de reírse. Se quedó con las garras de fuego en el aire, y el aura de fuego que la rodeaba retrocede sola un metro, como un animal que siente algo más grande en el bosque. Después se le estira la boca en una sonrisa enorme, salvaje, que le muestra todos los dientes.
+
+—¡Ja! —grita—. ¡JAJAJA! ¡¿Uno por ciento?! ¡Yami! ¡¿De dónde sacaste a este?!
+
+Yami no le contesta. Se quedó quieto, con la katana baja, mirándote de costado. No dice nada. Pero el cigarro que tenía en la boca se le cayó al suelo y no lo levantó.
+
+Asta te mira con la boca abierta y la espada colgando.
+
+—¡Te dije! —le grita a Zora, señalándote—. ¡TE DIJE QUE ERA ASÍ!
+
+Zora no dice nada. Tiene la cara pálida.
+
+El muchacho de las magias se levanta despacio, sobre su roca. Mira hacia atrás, hacia las paredes de la caverna, hacia los pasillos oscuros. Busca una salida. Levanta la mano y la abre: entre los dedos se forma un círculo negro, el principio de una puerta. Tiembla un segundo y se deshace solo, como si algo lo bloqueara.
+
+—Espacial no funciona aquí —murmura, más para sí que para nadie—. Claro. El idiota de la barrera.
+
+Vuelve a mirarte. Y por primera vez, en esa cara burlona, no hay burla. Hay miedo.
+
+—¿Qué eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1293 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:34       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: 1% (maná de capitán, a la vista)       ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:34, caverna de las Rocas Gravito. Asta celebra que volvió. El copiador de magias se lanza hacia Facundo para tocarle el grimorio. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:34, Rocas Gravito. Facundo mostró el 1% de su maná. El copiador, asustado y sin salida espacial, pregunta "¿Qué eres?". Facundo puede responder.

@@ -16,3 +16,4 @@ ENCUENTROS:
 - T489 · Facundo lo levanta y le sonríe; se despide. Asta: "¡Cuando vuelvas, peleamos otra vez!"
 - T1291 · Rocas Gravito · Cara sucia, raspón en la mejilla, túnica de Caballero Real rota, espada negra enorme. Ve a Facundo, deja caer la espada: "¡¿FACUNDO?!"
 - T1292 · "¡No me está costando nada! ¡Estaba calentando!" "¡¿Y TÚ DÓNDE ESTABAS?! ¡Dijiste unos días! ¡Te esperé todas las mañanas en la explanada! ¡Diez mil flexiones por día! ¡Volviste!"
+- T1293 · (a Zora) "¡Te dije! ¡TE DIJE QUE ERA ASÍ!"

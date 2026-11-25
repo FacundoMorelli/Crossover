@@ -57,3 +57,5 @@
 - Zora · T1292 · por Asta (tres meses): el famoso Facundo.
 - Rhya (sin nombre) · T1292 · no le siente el maná a Facundo (Velo); quiere tocar su grimorio (copia magias tocando grimorios — deducción de Facundo pendiente).
 - Facundo · T1292 · por Asta: lo esperó todas las mañanas en la explanada; diez mil flexiones por día.
+- Rhya, Mereoleona, Yami, Asta, Zora · T1293 · sintieron el maná de Facundo al 1% (de nivel capitán) y le oyeron decir que es "el uno por ciento". Primera vez que alguien en este mundo le siente maná.
+- Facundo · T1293 · por el copiador: la magia espacial está bloqueada en la base ("el idiota de la barrera").
