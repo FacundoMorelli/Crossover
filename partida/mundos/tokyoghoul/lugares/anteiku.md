@@ -3,3 +3,4 @@ DESCRIPCIÓN: Cafetería chica de madera oscura en una esquina, con toldo y vent
 VISITAS: T1156 · Facundo llega con el grupo de Kaneki. Cartel de CERRADO; luz adentro.
 T1157 · Interior: barra de madera, cafetera de metal, tazas blancas, mesas con sillas patas arriba, plantas, reloj de pared, frascos de granos. Cámara al fondo con paquetes en papel marrón (comida de ghoul).
 T1162 · Arriba: dos cuartos y un sofá, cortinas gruesas. Touka abre a las 7.
+T1163 · Planta alta (escalera angosta junto al mostrador): pasillo, cuarto izq. chico (cama, muñeca de tela: Hinami), cuarto der. (dos colchones: Banjou y máscaras), baño, sala con sofá verde gastado, mesa baja, estantería de libros, ventana con cortinas gruesas. Facundo duerme en el sofá.

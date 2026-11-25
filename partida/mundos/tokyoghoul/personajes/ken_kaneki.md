@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1163 · "¿Puedo... preguntarte algo?"
 - T1162 · "Te caí bien." "Yo no quiero matar a nadie más. Ya no sé cuántas veces dije eso."
 - T1161 · "Nos salvaste en la mansión. Salvaste a Shinohara. No nos conoces. No nos debes nada. ¿Por qué haces esto por nosotros?"
 - T1160 · "Yoshimura-san. Si la operación se llama así... y es contra este lugar..." (no termina)

@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1163 · "El sofá es suyo. Y él también es bienvenido. Hay leche en la heladera de abajo."
 - T1162 · "En este lugar tenemos una sola regla. No se mata si se puede evitar." "Si alguien de los nuestros quiere decidir otra cosa después, eso va a ser un asunto entre él y yo." "¿Va a pasar la noche aquí?"
 - T1161 · "Hace muchos años que nadie le promete nada a este lugar. Gracias."
 - T1160 · "Dice 'que nadie muera'. Quien le dio esa misión sabía que el lugar no se iba a poder salvar." "No voy a fingir con usted. ¿Cuánto tiempo nos queda?"

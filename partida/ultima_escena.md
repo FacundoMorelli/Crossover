@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1160)
-te la voy a decir como me la dijeron a mi "Que nadie de anteiku muera ni caiga en la operacion del buho"
-
-## RESPUESTA 1 (T1160)
-
-> —Te la voy a decir como me la dijeron a mí: "Que nadie de Anteiku muera ni caiga en la Operación del Búho".
-
-Nadie dice nada.
-
-Hinami afloja los brazos alrededor de la espalda de Kaneki. Tsukiyama baja despacio la mano del pecho. Desde la puerta del fondo, Banjou deja el paquete de papel marrón sobre un estante sin darse cuenta de que lo suelta.
-
-Yoshimura no se mueve.
-
-Sigue con las dos manos apoyadas en la barra, inclinado hacia ti. Pero la presencia que tiene adentro, esa cosa enorme que se había despertado, se queda quieta. No se encoge, no ataca. Se queda escuchando, como un animal viejo que oye por fin un ruido que esperaba hacía años.
-
-—Anteiku —repite en voz baja.
-
-Se endereza. Mira el local, despacio, como si lo viera por primera vez: las sillas patas arriba sobre las mesas, los frascos de granos, las tazas colgadas en fila, el reloj de pared.
-
-—"Que nadie muera ni caiga." —Asiente una vez, para sí—. No dice "que no destruyan el lugar". Dice "que nadie muera". Quien le dio esa misión sabía que el lugar no se iba a poder salvar.
-
-Saca los lentes del bolsillo del chaleco. No se los pone. Los deja doblados sobre la barra, junto al repasador.
-
-Kaneki lo está mirando. Ya no de reojo.
-
-—Yoshimura-san. —La voz le sale ronca—. Si la operación se llama así... y es contra este lugar...
-
-No termina la frase.
-
-Yoshimura tampoco la termina por él. Le sostiene la mirada a Kaneki un momento largo, con una tristeza muy tranquila, y después vuelve a mirarte a ti.
-
-—Usted no me preguntó si yo sé por qué la CCG le pondría ese nombre a una operación contra mi café. —Habla con la misma voz suave de antes, pero más lenta—. Y tampoco parece sorprendido de nada de lo que pasa en esta habitación.
-
-Hace una pausa.
-
-—Así que no voy a fingir con usted. —Junta las manos sobre la barra—. Solo dígame una cosa, señor viajero. ¿Cuánto tiempo nos queda?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1160 · TOKYO GHOUL · NOCHE · 00:07     ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ Kagune de Ceniza: fuera (bikaku)             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1161)
+## COMANDO 1 (T1161)
 la verdad no lo se, guardo mi kagune, y me termino el cafe, pero mientras este aqui a ustedes no les va a pasar nada
 
-## RESPUESTA 2 (T1161)
+## RESPUESTA 1 (T1161)
 
 > —La verdad, no lo sé.
 
@@ -114,10 +59,10 @@ Kaneki es el único que no se ablanda. Sigue sentado en el taburete, con la toal
 
 ---
 
-## COMANDO 3 (T1162)
+## COMANDO 2 (T1162)
 tengo una mision y tambien me caiste bien, eso si, no voy a matar a nadie. yo, solo voy a dejar inconscientes, si ustedes despues los quieren matar, lo deciden ustedes
 
-## RESPUESTA 3 (T1162)
+## RESPUESTA 2 (T1162)
 
 > —Tengo una misión, y también me caíste bien. Eso sí, no voy a matar a nadie. Yo solo los voy a dejar inconscientes. Si ustedes después los quieren matar, lo deciden ustedes.
 
@@ -170,7 +115,61 @@ Se vuelve hacia ti y apoya una mano sobre la barra, junto al lugar donde estaba 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1163)
+si esta bien, gracias
+
+## RESPUESTA 3 (T1163)
+
+> —Sí, está bien. Gracias.
+
+Yoshimura asiente, como si no hubiera esperado otra respuesta.
+
+Apaga la cafetera, baja la luz de la barra y deja encendida solo una lámpara chica junto a la caja. Después abre una puerta angosta al costado del mostrador. Detrás hay una escalera de madera, empinada, que cruje con cada paso.
+
+Kase salta de la barra a tu hombro antes de que te levantes.
+
+Arriba huele a madera vieja y a jabón. Hay un pasillo corto con dos puertas, un baño chico al fondo y una sala con un sofá largo de tela verde gastada, una mesa baja, una estantería llena de libros y una ventana con cortinas gruesas, cerradas.
+
+Yoshimura reparte sin discutir. Hinami, al cuarto de la izquierda, el más chico, con una cama y una muñeca de tela sobre la almohada que parece haber estado esperándola. Banjou y los tres de las máscaras, al de la derecha, con dos colchones en el piso. Banjou se deja caer sobre uno con un gemido y ya no se mueve.
+
+Tsukiyama se asoma al cuarto, ve los colchones y retrocede un paso, con una mano en la boca.
+
+—Esperaré el amanecer en la sala, leyendo —anuncia—. Y luego, con todo respeto, me retiraré a mi residencia. Mi cuerpo no fue hecho para el piso.
+
+Se lleva un libro de la estantería sin preguntar y se acomoda en una silla junto a la ventana.
+
+Yoshimura saca de un armario una manta gruesa de lana, gris, y una almohada, y te las da a ti.
+
+—El sofá es suyo. Es más cómodo de lo que parece. —Mira a Kase un segundo—. Y él también es bienvenido. Hay leche en la heladera de abajo, si la quiere.
+
+Kase lo ignora con mucha dignidad.
+
+—Buenas noches. —Yoshimura inclina apenas la cabeza y baja la escalera despacio. Los crujidos se van apagando hasta que no queda ninguno.
+
+Dejas la manta sobre el sofá. Kase baja de tu hombro, da tres vueltas sobre la almohada y se echa en el medio, como si la hubieran traído para él.
+
+En la puerta de la sala, Kaneki no se fue a ningún lado. Está apoyado en el marco, con los brazos cruzados y la ropa negra todavía destrozada, mirando el piso.
+
+—¿Puedo... preguntarte algo? —dice en voz baja, para no despertar a Hinami.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1163 · TOKYO GHOUL · NOCHE · 00:24     ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: sobre la almohada del sofá             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:15, Anteiku. Yoshimura le ofrece a Facundo pasar la noche arriba. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:24, planta alta de Anteiku. Kaneki, en la puerta de la sala, pregunta si puede preguntarle algo. Facundo puede responder.
