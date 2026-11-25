@@ -95,3 +95,4 @@
 - Juuzou · T1209 · chocó contra la barrera invisible en la puerta de Anteiku.
 - Shinohara · T1209 · vio a Juuzou rebotar contra algo invisible; vio el hilo plateado junto al cordón.
 - Estudiantes clientes · T1209 · vieron a un chico raro chocar contra la nada en la puerta.
+- Facundo, Touka, Nishiki (oído de ghoul) · T1210 · por Shinohara: el informe del andén llegó a la oficina de la CCG anteayer; Shinohara tiene esposa y dos hijos; los médicos de la CCG no encontraron cicatriz.

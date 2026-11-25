@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1207)
-bueno, vamos a anteiku, yo les voy a buscar la comida, tienen que bañarse y descansar
-
-## RESPUESTA 1 (T1207)
-
-> —Bueno, vamos a Anteiku. Yo les voy a buscar la comida. Tienen que bañarse y descansar.
-
-Esta vez nadie duda. Kaneki se levanta del suelo y te apoya la mano en el hombro. Touka sale del charco chorreando agua, te agarra la manga con dos dedos, igual que antes, y mira para otro lado. Yomo apaga el encendedor, se lo guarda en el bolsillo y apoya la mano en tu brazo. Kase cruza la piedra a oscuras y te trepa por la pierna hasta el cuello.
-
-La galería desaparece.
-
-La cocina de Anteiku huele a café y a jabón de platos. La luz de la tarde entra gris por la ventanita de arriba de la pileta.
-
-Nishiki está ahí, con los brazos metidos hasta los codos en el agua espumosa, lavando una pila de tazas que no se termina nunca. Se da vuelta al oír el roce de los pies en el piso.
-
-Los mira.
-
-Kaneki, con la camisa prestada convertida en jirones. Touka, empapada de pies a cabeza, dejando un charco en el piso recién trapeado. Yomo, cubierto de polvo gris. Y tú, con el pelo entero de color plata y un brillo plateado y suave que todavía te corre por la piel, como el reflejo del agua en una pared.
-
-A Nishiki se le resbala una taza de las manos. Cae de nuevo en la pileta con un plop.
-
-—¿Qué...? —Abre la boca. La cierra. Te señala la cabeza con un dedo lleno de espuma—. ¿Y eso? ¿Te teñiste en el subte?
-
-Touka pasa a su lado sin mirarlo, dejando huellas mojadas.
-
-—Me baño primero —anuncia, ya en la escalera—. El que suba antes de que termine, muere.
-
-Kaneki la ve desaparecer arriba y suelta una risa corta, agotada. Se apoya contra la mesada.
-
-Yomo se sacude el polvo de la campera, mira el charco que dejó Touka, mira el trapo de piso, y no dice nada. Después te mira a ti.
-
-—¿Big Girl? —pregunta—. ¿Sabes dónde queda?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1207 · TOKYO GHOUL · TARDE · 13:16     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Ultra Instinto Dominado: activo              ║
-║ Kase: en el cuello                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: comprar la hamburguesa y el pastel ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1208)
+## COMANDO 1 (T1208)
 ay me olvide de sacarmelo, me destransformo, ehh no, me dices donde?
 
-## RESPUESTA 2 (T1208)
+## RESPUESTA 1 (T1208)
 
 > —Ay, me olvidé de sacármelo.
 
@@ -108,10 +56,10 @@ Se mete las manos en los bolsillos de la campera.
 
 ---
 
-## COMANDO 3 (T1209)
+## COMANDO 2 (T1209)
 si, no te preocupes por eso, cambio fragmentos. simula un par de dias hasta que pase algo
 
-## RESPUESTA 3 (T1209)
+## RESPUESTA 2 (T1209)
 
 > —Sí, no te preocupes por eso.
 
@@ -199,7 +147,66 @@ En todo el local no se mueve nadie. Touka se quedó con la bandeja en el aire. N
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1210)
+que quieres shinohara?
+
+## RESPUESTA 3 (T1210)
+
+> —¿Qué quieres, Shinohara?
+
+Shinohara no contesta enseguida.
+
+Mira una vez más hacia la puerta. Juuzou apoyó las dos palmas en la nada y la cara entera, aplastándose la nariz contra algo que no se ve, como un chico contra la vidriera de una juguetería. Los estudiantes de la ventana lo miran, se miran entre ellos y se ríen nerviosos, creyendo que es una broma.
+
+—Juuzou —dice Shinohara, sin levantar la voz—. Espérame afuera. Y levanta eso del piso.
+
+Juuzou hace puchero, pero levanta la navaja y se sienta en el cordón de la vereda, justo al lado del hilo plateado, a mirarlo de cerca con la cabeza ladeada.
+
+Shinohara camina hasta la barra. Se sienta en el taburete que está del otro lado de Kase, despacio, con cuidado, como un hombre al que todavía le tira una herida que ya no tiene. Kase abre un ojo, el azul, lo mira y lo vuelve a cerrar.
+
+Touka sigue con la bandeja en la mano, inmóvil, a tres metros. Nishiki empieza a barrer otra vez, demasiado lento, sin sacar la vista del suelo.
+
+—Un café, por favor —le dice Shinohara a Touka, con una sonrisa amable de cliente—. Negro.
+
+Touka tarda un segundo de más en reaccionar. Después asiente y va hacia la máquina, rígida.
+
+Shinohara se vuelve hacia ti. Habla bajo.
+
+—Me desperté en el sótano de esa mansión con un agujero cerrado en la barriga y un muchacho al que nunca había visto en mi vida diciéndome que me mantuviera alejado de un ghoul. —Apoya los antebrazos en la barra—. Los médicos de la CCG no encontraron ni una cicatriz. Me hicieron análisis durante dos días. Nadie sabe explicar por qué estoy vivo.
+
+Hace una pausa.
+
+—Así que lo primero que quiero es darte las gracias como corresponde. No en un sótano, con la armadura rota y un Ciempiés a dos metros. —Inclina la cabeza, una reverencia corta pero seria—. Gracias. Tengo una esposa y dos hijos que no van a ir a mi funeral por ti.
+
+Se endereza.
+
+—Y lo segundo... —Baja más la voz—. Anteayer llegó un informe a la oficina. Un investigador escuchó en el andén de esta estación a una anciana que decía que un muchacho de ojos de dos colores le quitó el hambre a su nieto. —Te mira a los ojos, uno y otro—. Un ghoul. Le quitó el hambre a un ghoul.
+
+Touka deja la taza de café delante de él. Le tiembla apenas el platillo.
+
+Shinohara no la mira. Te mira a ti.
+
+—¿Es verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1210 · TOKYO GHOUL · DÍA 3 · 10:23     ║
+║ Distrito 20 · Anteiku, barra                 ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:21, Anteiku. Shinohara entró y mira a Facundo; Juuzou rebotó contra la barrera en la puerta delante de clientes. Todo el local quieto. Facundo puede reaccionar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:23, barra de Anteiku. Shinohara agradeció y pregunta si es verdad que Facundo le quitó el hambre a un ghoul. Juuzou espera afuera. Facundo puede responder.

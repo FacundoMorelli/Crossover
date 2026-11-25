@@ -1208,3 +1208,4 @@ T1206 · TG · Distrito 24 · Premio para los dos. Kaneki: hamburguesa de Big Gi
 T1207 · TG · Anteiku · Vuelven por teletransporte. Nishiki ve el pelo plateado. Touka a bañarse. Yomo: "¿Sabes dónde queda Big Girl?"
 T1208 · TG · Anteiku · Suelta el UI. Yomo: dónde quedan Big Girl y la pastelería; cámaras y CCG en la estación. "¿Tienes dinero?"
 T1209 · TG · Simulación Día 1 → Día 3 · Cambio de 50 F. Hamburguesa y pastel. 41 transfigurados (Koma e Irimi incluidos). Entrenamientos en el 24. Día 3 10:20: entra Shinohara; Juuzou rebota contra la barrera delante de clientes.
+T1210 · TG · Anteiku · "¿Qué quieres, Shinohara?" Agradece. El informe del andén llegó a la CCG. "¿Es verdad?"
