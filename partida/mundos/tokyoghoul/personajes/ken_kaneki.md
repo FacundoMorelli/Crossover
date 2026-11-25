@@ -16,6 +16,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1256 · "Es de Takatsuki Sen. Es su próxima novela. Todavía no salió. Está firmada." "Yoshimura-san... ¿quién era ella?"
 - T1241 · "¿Hambre? ¿En la casa del presidente de la CCG? ¿Un ghoul? Eso no tiene sentido."
 - T1239 · "Los disparos pararon. Hace diez minutos. Todos. Al mismo tiempo."
 - T1226 · "¡No! ¡Facundo-san, no!"

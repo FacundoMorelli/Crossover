@@ -173,3 +173,5 @@
 - Eto · T1254 · deducción: solo Washuu Tsuneyoshi puede decidir eso; Facundo fue a su casa y salió vivo. (Eto conoce a Tsuneyoshi: "toma té con las dos manos".)
 - Todos en Anteiku · T1254 · por Eto: hay "un viejito detrás de un muro de piedra" que decide en la ciudad (Washuu).
 - Eto · T1255 · comprobó la pared: no puede salir de Anteiku.
+- Todos en Anteiku, Eto · T1256 · la pared ya no está (Eto pasó; el resto puede salir).
+- Kaneki · T1256 · el libro que dejó Eto es la próxima novela de Takatsuki Sen, inédita y firmada. No sabe la relación entre Eto y Takatsuki.

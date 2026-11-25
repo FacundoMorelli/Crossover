@@ -1,8 +1,8 @@
 {
-  "turno": 1255,
+  "turno": 1256,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 7 desde la llegada (mañana siguiente a la suspensión de la Operación del Búho)",
-  "hora": "20:51",
+  "hora": "20:53",
   "edad": 18,
   "nivel": 29,
   "exp": 290230,
@@ -184,15 +184,7 @@
         "estado": "desbloqueado (T246)",
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
-      "marcas_o_lineas_activas": [
-        {
-          "tipo": "Recinto de 6 caras (con techo)",
-          "lugar": "Anteiku, Distrito 20 (Tokyo Ghoul)",
-          "desde": "T1180 07:31",
-          "reglas": "Desde T1228: NADIE de los que están adentro puede salir (puerta, callejón, ventanas, techo); nadie entra a hacer daño; ningún ataque contra el lugar pasa. (Antes: entra y sale cualquiera; CCG solo si viene a tomar café.) Se mantiene aunque Facundo se aleje. Adentro: Yoshimura (Búho), Kaneki, Touka, Koma, Irimi (herida, lanza en el hombro), Nishiki, Hinami, 4 Apes heridos (T1229).",
-          "visibilidad": "Líneas visibles: un hilo plateado finísimo en la vereda junto al cordón y por los costados/callejón; las paredes y el techo no se ven."
-        }
-      ],
+      "marcas_o_lineas_activas": [],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
         "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"
