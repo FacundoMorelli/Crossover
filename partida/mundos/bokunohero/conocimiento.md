@@ -17,3 +17,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Detective Tsukauchi (y la policía) · T1090 · Facundo Morelli no figura en ninguna base de datos japonesa (nacimiento, Dones, inmigración, antecedentes). Sabe lo del banco por el informe.
 - Tsukauchi (y quien mire tras el espejo) · T1091 · Facundo tiene un Don de hielo y fuego en los ojos; es viajero (verdad). Deduce que el golpe del banco fue fuerza, no Don. Testigos: apareció de la nada (señora del banco, empleado de la tienda de enfrente).
 - Tsukauchi, All Might (tras el espejo y luego en la sala) · T1092 · Facundo se teletransportó al banco (verdad). Deducen: tres poderes sin relación en un solo cuerpo → temen una conexión con los Nomu / All For One.
+- Tsukauchi, All Might · T1093 · nadie le dio sus poderes; los tiene "desde siempre" (verdad). Descartan conexión con All For One.
+- Público de internet · T1093 · video del banco (16.000 reproducciones a las 09:47): un joven de pelo blanco y azul con un gato derriba al villano del brazo de roca. Sin nombre.

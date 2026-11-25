@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1090)
-me llamo Facundo Morelli, no tengo documentos, los acompaño
-
-## RESPUESTA 1 (T1090)
-
-> me llamo Facundo Morelli, no tengo documentos, los acompaño
-
-> —Me llamo Facundo Morelli. No tengo documentos. Los acompaño.
-
-El policía de bigote anota. Levanta la vista de la libreta, sorprendido de que no discutas.
-
-—Bien. Gracias por su colaboración.
-
-No te esposan. Death Arms te acompaña hasta el patrullero con una mano grande apoyada en tu hombro, el que no tiene a Kase, más para que los curiosos vean que está todo bajo control que para sujetarte. Los celulares te siguen hasta la puerta del auto.
-
-—Que no se te ocurra usar ese Don en el auto —murmura Death Arms antes de cerrar la puerta—. Ni para salir, ni para nada. Te lo pido por favor.
-
-[09:20 · Comisaría Central de Musutafu.]
-
-Una sala chica, sin ventanas, con una mesa de metal, tres sillas y un espejo grande en una pared. Luz blanca. Un vaso de agua de plástico delante de ti. Kase, en el piso, olfatea las patas de la mesa con desconfianza y después se sube a la silla de al lado.
-
-Esperas veinte minutos.
-
-La puerta se abre. Entra un hombre delgado, de unos treinta y tantos, con un abrigo largo color arena, un sombrero de ala corta y la cara cansada de alguien que trabaja demasiadas horas. Trae una carpeta delgada debajo del brazo. Se quita el sombrero, lo deja en la mesa y se sienta frente a ti.
-
-—Detective Naomasa Tsukauchi. —Abre la carpeta. Está casi vacía—. Facundo Morelli, ¿no es así?
-
-Pasa una hoja. Después otra. Las dos están en blanco, salvo unas líneas escritas a mano.
-
-—Quiero que sepas algo antes de empezar, porque me parece justo. —Te mira, tranquilo—. Mi Don me permite saber si alguien me miente. No me dice la verdad, solo si lo que me dicen es mentira. Así que esto puede ser muy rápido, o muy largo. Depende de ti.
-
-Junta las manos sobre la carpeta.
-
-—Buscamos tu nombre en la base de datos nacional. En la de Dones. En la de inmigración. En la de antecedentes. —Hace una pausa—. No existes. No hay ningún registro de nacimiento, ningún registro de Don, ningún ingreso al país, nada. Para el Estado japonés, Facundo Morelli no existe.
-
-Se recuesta en la silla.
-
-—Y esta mañana apareciste de la nada en un banco y derribaste de un golpe a un villano con un Don de transformación de tipo rocoso, sin dejarle una marca. —Te mira a los ojos, del rojo al azul—. Así que empecemos por lo básico. ¿Qué Don tienes?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1090 · BOKU NO HERO · DIC. · 09:40     ║
-║ Musutafu · Comisaría Central, sala de        ║
-║ interrogatorio                               ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la silla de al lado                 ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1091)
+## COMANDO 1 (T1091)
 un don de hielo y fuego en los ojos, soy un viajero
 
-## RESPUESTA 2 (T1091)
+## RESPUESTA 1 (T1091)
 
 > un don de hielo y fuego en los ojos, soy un viajero
 
@@ -111,10 +53,10 @@ Kase, en la silla de al lado, bosteza y se acomoda para dormir.
 
 ---
 
-## COMANDO 3 (T1092)
+## COMANDO 2 (T1092)
 me teletransporte
 
-## RESPUESTA 3 (T1092)
+## RESPUESTA 2 (T1092)
 
 > me teletransporte
 
@@ -175,4 +117,62 @@ Se le tensa la mandíbula.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 09:45, sala de interrogatorio. Tsukauchi relaciona los múltiples poderes con los Nomu y All For One. Entró All Might (flaco, Toshinori) y le pregunta si alguien le dio esos poderes (Tsukauchi detecta mentiras). Facundo puede responder.
+## COMANDO 3 (T1093)
+no, nadie me los dio, los tengo desde siempre
+
+## RESPUESTA 3 (T1093)
+
+> no, nadie me los dio, los tengo desde siempre
+
+> —No. Nadie me los dio. Los tengo desde siempre.
+
+All Might no aparta la vista de ti. Pero no te mira a ti: espera.
+
+Tsukauchi tarda un segundo en hablar.
+
+—Verdad.
+
+All Might cierra los ojos.
+
+Se le afloja todo el cuerpo de golpe, como si alguien le hubiera sacado un peso de encima que cargaba desde que entró por esa puerta. Apoya la frente en una mano, sobre la mesa. Suelta el aire por la nariz, largo, temblando un poco.
+
+—Gracias —murmura. No se sabe si a ti, a Tsukauchi o a nadie—. Gracias.
+
+Tsukauchi se vuelve a sentar. Se pasa una mano por la cara.
+
+—Bueno. —Te mira. La voz vuelve a ser la de antes, cansada, casi amable—. Entonces tenemos un problema distinto. Uno más chico, pero un problema igual. —Abre la carpeta otra vez—. Un joven sin registro, sin documentos, sin Don declarado, que usa sus poderes en la vía pública. Eso es vigilantismo. Y la gente de la vereda del banco ya subió el video a internet. Tiene doce mil reproducciones.
+
+—Dieciséis mil —corrige All Might, sin levantar la cabeza—. Lo vi en el pasillo.
+
+—Dieciséis mil. —Tsukauchi suspira—. La prensa va a preguntar quién eres. La Comisión de Seguridad Pública de los Héroes va a preguntar quién eres. Y no hay ninguna respuesta en ningún papel.
+
+All Might levanta la cabeza. Te mira, y esta vez, en los ojos hundidos, hay algo distinto. No miedo. Curiosidad.
+
+—Salvaste a siete personas en ese banco, joven Morelli. Sin dudar. Sin licencia, sin uniforme, sin que nadie te lo pidiera. —Se le estira apenas una sonrisa cansada—. Conozco a un chico que haría lo mismo. Varias veces lo hizo.
+
+Se inclina un poco hacia adelante, con los codos en la mesa.
+
+—Así que te pregunto, no como sospechoso, sino porque quiero saberlo: ¿qué viniste a hacer a Japón?
+
+Kase abre un ojo en la silla, mira al hombre flaco, y lo vuelve a cerrar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1093 · BOKU NO HERO · DIC. · 09:47     ║
+║ Musutafu · Comisaría Central, sala de        ║
+║ interrogatorio                               ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: durmiendo en la silla                  ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 09:47, sala de interrogatorio. Tsukauchi confirmó que nadie le dio los poderes; All Might, aliviado. Queda el vigilantismo y el video viral. All Might le pregunta qué vino a hacer a Japón. Facundo puede responder.
