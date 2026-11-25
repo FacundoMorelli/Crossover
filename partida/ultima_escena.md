@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1256)
-me olvide de eso, saco la barrera
-
-## RESPUESTA 1 (T1256)
-
-> —Me olvidé de eso.
-
-Te agachas junto a la puerta y apoyas dos dedos sobre el hilo plateado, pegado al cordón de la vereda.
-
-Lo deshaces.
-
-El hilo brilla un instante, como una telaraña al sol, y se apaga. Esta vez no vuelve a encenderse. Corre por el cordón, por la esquina, por el callejón y por encima del techo, apagándose a medida que avanza, hasta que no queda nada. Ni una línea. Ni un temblor en el aire. Anteiku vuelve a ser un café cualquiera en una calle cualquiera.
-
-Eto apoya otra vez el dedo en el umbral. Pasa.
-
-Saca la mano a la vereda. La mira. La da vuelta, como si se la estuviera devolviendo alguien.
-
-—Ah —dice. La voz vuelve a ser cantarina—. Así que fue un olvido. Qué alivio. Por un momento pensé que me tenías miedo.
-
-Se acomoda la capucha. Sale a la vereda, al frío de la noche, bajo el farol amarillo. Se da vuelta una vez más, con las manos detrás de la espalda.
-
-—Te voy a dejar un regalo, Panadero. Por la función que me arruinaste.
-
-Mete una mano debajo de la capa y saca algo. Un libro. Tapa dura, negra, con letras doradas. Lo tira hacia adentro del café, sin apuntar, como quien tira un caramelo, y el libro cae de canto sobre la barra, justo al lado de la mano de Yoshimura.
-
-—Léelo. Habla de gente como tú. —Se le arrugan las vendas a la altura de los ojos—. Gente que cree que puede arreglar un mundo roto con las manos.
-
-Le hace a Yoshimura un saludo con dos dedos, desde la frente.
-
-—Nos vemos, papá.
-
-Y se va. No corre, no salta. Camina por la vereda, despacio, tarareando, hasta que el farol de la esquina la pierde.
-
-Nadie dice nada durante un rato.
-
-Después, Kaneki se acerca a la barra, despacio. Mira el libro. Lo toma con las dos manos, como si fuera a romperse.
-
-—Esto es... —Da vuelta la tapa. Lee la primera página. Se le cae la mandíbula—. Es de Takatsuki Sen. Es su próxima novela. Todavía no salió. —Pasa una hoja más y se queda helado—. Está firmada.
-
-Levanta la vista hacia la puerta, hacia la vereda vacía. Después hacia Yoshimura.
-
-—Yoshimura-san... ¿quién era ella?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1256 · TOKYO GHOUL · DÍA 7 · 20:53     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1257)
+## COMANDO 1 (T1257)
 todavia no te diste cuenta?
 
-## RESPUESTA 2 (T1257)
+## RESPUESTA 1 (T1257)
 
 > —¿Todavía no te diste cuenta?
 
@@ -117,10 +57,10 @@ Afuera, en la calle, pasa un auto despacio. Los faros iluminan un instante el sa
 
 ---
 
-## COMANDO 3 (T1258)
+## COMANDO 2 (T1258)
 tu hija no sabe que hay gente todavia capaz de cambiar el mundo, le falta madurar
 
-## RESPUESTA 3 (T1258)
+## RESPUESTA 2 (T1258)
 
 > —Tu hija todavía no sabe que hay gente capaz de cambiar el mundo. Le falta madurar.
 
@@ -171,7 +111,61 @@ Después levanta la vista hacia ti. Los ojos se le arrugan en los bordes.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1259)
+yo tengo una forma de volver este mundo normal, sin ghouls, ni investigadores
+
+## RESPUESTA 3 (T1259)
+
+> —Yo tengo una forma de volver este mundo normal. Sin ghouls, ni investigadores.
+
+El salón se queda en silencio.
+
+No es el silencio de antes, el de la sorpresa. Es otro. Más pesado. Como cuando alguien deja caer una taza y todos se quedan esperando el ruido del golpe contra el piso.
+
+Yoshimura no se mueve. Tiene las manos todavía apoyadas sobre la tapa negra del libro de su hija.
+
+Koma es el primero en reaccionar. Suelta una risa corta, nerviosa, sin ganas.
+
+—Sin ghouls —repite—. Panadero... nosotros somos los ghouls.
+
+Touka sale de detrás de la barra. Despacio. Se te para delante, a un metro, con los brazos cruzados y el ojo gris clavado en ti. No está enojada. Es peor: tiene miedo, y lo esconde mal.
+
+—¿Qué significa "sin ghouls"? —La voz le sale baja, áspera—. ¿Que nos borras? ¿Que nos volvemos humanos? ¿Que nunca existimos?
+
+Kaneki se quedó al lado de la barra, quieto. Mira sus propias manos. Las uñas negras.
+
+—Yo era humano —dice, muy bajo, a nadie—. Hace unos meses. Si el mundo vuelve a ser normal... —Levanta la vista—. ¿Qué pasa con los que nacieron así? ¿Con Hinami? ¿Con Touka-chan? ¿Con Yoshimura-san?
+
+Hinami, detrás de Nishiki, se aprieta más contra su espalda.
+
+Irimi no dice nada. Pero se puso de pie, despacio, apoyándose en el marco de la puerta de la cocina.
+
+Yoshimura levanta la vista del libro. Te mira por encima de los lentes que no tiene puestos.
+
+—Morelli-san —dice, con la misma voz suave de siempre, pero más lenta—. Hace un rato, mi hija dijo que usted era de los que creen que se puede arreglar un mundo roto con las manos.
+
+Hace una pausa.
+
+—Antes de que nadie aquí le diga que sí o que no... ¿podría explicarnos qué quiere decir "normal"? Porque para cada persona en esta habitación, esa palabra significa algo distinto.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1259 · TOKYO GHOUL · DÍA 7 · 21:00     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:58, salón de Anteiku. Yoshimura habla de Eto; Kaneki le dio el libro. Calma después de la operación. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:00, salón de Anteiku. Facundo dijo que puede volver el mundo normal sin ghouls ni investigadores. Todos tienen miedo de lo que eso significa para ellos. Yoshimura pide que explique qué quiere decir "normal". Facundo puede responder.

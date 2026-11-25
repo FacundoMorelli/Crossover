@@ -16,6 +16,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1259 · "Yo era humano. Si el mundo vuelve a ser normal... ¿Qué pasa con los que nacieron así? ¿Con Hinami? ¿Con Touka-chan? ¿Con Yoshimura-san?"
 - T1258 · "Usted debería leerlo primero."
 - T1257 · "Takatsuki Sen es un ghoul." "Y es su hija."
 - T1256 · "Es de Takatsuki Sen. Es su próxima novela. Todavía no salió. Está firmada." "Yoshimura-san... ¿quién era ella?"
