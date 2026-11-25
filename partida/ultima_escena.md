@@ -3,50 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1172)
-les cambie lo que pueden comer, sus cuerpos se alimentan con comida normal y con eso pueden vivir y regenerarse, pueden seguir comiendo carne humana si quieren pero ya no sienten hambre de eso
-
-## RESPUESTA 1 (T1172)
-
-> —Les cambié lo que pueden comer. Sus cuerpos se alimentan con comida normal, y con eso pueden vivir y regenerarse. Pueden seguir comiendo carne humana si quieren, pero ya no sienten hambre de eso.
-
-La muchacha no contesta enseguida.
-
-Se queda en el marco de la puerta con los brazos cruzados, pero algo en la postura se le afloja, apenas. Mira hacia la mesa baja: los envoltorios de onigiri doblados, las cáscaras, la bolsa vacía del pan. Mira al de cara redonda, que sigue en el piso abrazado a la caja del pollo como si fuera un tesoro.
-
-—¿Y el kagune? —pregunta al final, áspera—. Si alguien de la CCG entra por esa puerta, ¿siguen sirviendo para algo o los dejaste como humanos con dientes?
-
-—Sigue ahí, Touka-chan. —Es Kaneki, desde la escalera, en voz baja—. Lo siento. Igual que siempre. Solo que ya no me pide nada.
-
-Touka chasquea la lengua sin mirarlo.
-
-Pasa un momento largo. Afuera, en la calle, alguien levanta la persiana de un negocio con un estruendo metálico. Abajo, Yoshimura mueve tazas; se oye el tintineo de la porcelana contra el platillo.
-
-Touka mira por la ventana, hacia la cortina cerrada, para no mirarte a ti.
-
-—Y eso... —empieza. Se interrumpe. Se le ponen rojas las orejas—. Eso que hiciste. ¿Le sirve a cualquiera? ¿O solo a los que eran humanos antes, como este idiota?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1172 · TOKYO GHOUL · MAÑANA · 07:14    ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá, de espaldas                ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1173)
+## COMANDO 1 (T1173)
 a cualquiera
 
-## RESPUESTA 2 (T1173)
+## RESPUESTA 1 (T1173)
 
 > —A cualquiera.
 
@@ -85,10 +45,10 @@ En la escalera, Kaneki se tapa la boca con la mano. Kase, en la otra punta del s
 
 ---
 
-## COMANDO 3 (T1174)
+## COMANDO 2 (T1174)
 hago lo mismo con touka
 
-## RESPUESTA 3 (T1174)
+## RESPUESTA 2 (T1174)
 
 > hago lo mismo con Touka
 
@@ -133,7 +93,53 @@ Un momento más tarde, la voz de Yoshimura sube por la escalera, tranquila, como
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1175)
+bajo a desayunar
+
+## RESPUESTA 3 (T1175)
+
+> bajo a desayunar
+
+Kase salta a tu hombro sin que lo llames. Bajan la escalera angosta, que cruje igual que anoche.
+
+Abajo, Anteiku está a medio abrir. Las sillas ya no están patas arriba. Alguien bajó las mesas y les puso los floreros chicos con una flor blanca cada uno. La persiana de la ventana grande está subida hasta la mitad, y entra una franja de luz gris que corta el piso de madera en dos. El cartel de la puerta todavía dice CERRADO del lado de afuera.
+
+Huele a café recién hecho y a pan tostado con manteca.
+
+Yoshimura está detrás de la barra, con el delantal puesto y los lentes en su lugar, como si la noche anterior no hubiera pasado. Delante del taburete que usaste anoche hay una taza humeante, un plato con dos tostadas, un frasco de mermelada de frutilla y un cuchillo de manteca.
+
+Al lado, en un platito, un poco de leche tibia y un pedazo de pescado cocido, cortado en trozos chicos.
+
+Kase lo ve. Baja de tu hombro a la barra, olfatea el pescado desde lejos con mucha desconfianza y, después de un rato largo, se digna a comer.
+
+La puerta del baño, al fondo, sigue cerrada. Pero en la cocina, detrás de la barra, se ve un plato con migas y un frasco de mermelada abierto con una cuchara adentro. Alguien comió una tostada ahí, de pie, muy rápido, y no quiso que la vieran.
+
+Yoshimura no comenta nada de eso. Seca un platillo con el repasador blanco y lo deja en su pila.
+
+—Siéntese, por favor. Anoche no quise abrumarlo, y usted estaba cansado. —Te mira por encima de los lentes, con la misma amabilidad de siempre—. Pero hay algo que me incomoda desde que cruzó esa puerta. Le serví café, le di un sofá, le confié a mis muchachos, y usted le devolvió el gusto por la comida a mi mesera.
+
+Deja el repasador.
+
+—Y todavía no sé cómo se llama.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1175 · TOKYO GHOUL · MAÑANA · 07:20    ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la barra, comiendo pescado          ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:17, sala de arriba de Anteiku. Touka transfigurada, encerrada en el baño de abajo. Yoshimura invita a Facundo a bajar a desayunar. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:20, barra de Anteiku. Yoshimura le pregunta a Facundo cómo se llama. Facundo puede responder.

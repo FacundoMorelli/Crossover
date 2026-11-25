@@ -16,4 +16,4 @@ DIÁLOGOS CLAVE:
 - T1170 · "¡¿Que hizo qué?!" "¿Tú eres el viajero?"
 QUÉ SABE DE FACUNDO: Por Yoshimura (mañana T1170): humano con kagune; quitó el hambre a Kaneki con la mano, y a Banjou y sus amigos.
 QUÉ PODERES DE FACUNDO VIO: Transfiguración Ociosa sobre ella (T1174; lo sintió, no sabe qué es).
-ESTADO: SIN HAMBRE DE GHOUL (T1174). Encerrada en el baño del local de Anteiku.
+ESTADO: SIN HAMBRE DE GHOUL (T1174). Comió una tostada con mermelada a escondidas en la cocina y volvió a encerrarse en el baño (T1175).
