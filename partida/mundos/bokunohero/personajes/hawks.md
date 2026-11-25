@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1134.
 ENCUENTROS:
 - T1134 · Torre Detnerat, Deika · Llega al ventanal al sentir el movimiento; ve a los cinco inconscientes y a Facundo.
 DIÁLOGOS CLAVE:
+- T1138 · "\"Muchos\". Sí. Creo que esta vez les voy a pedir a todos." "Nos vemos, Eclipse. Cuídate el gato."
 - T1137 · "...¿Todos?" "Están vivos. Están todos vivos." "Voy a tener que llamar a la Comisión. Y no tengo la menor idea de qué les voy a decir."
 - T1136 · "¿Dabi? ¿Esposado? ¿Hoy?" "Yo me metí aquí por él." "Ciento dieciséis mil miembros. La mayoría no son soldados." "¿Qué tenías pensado hacer con ciento dieciséis mil personas?"
 - T1135 · "No se dice \"infiltrado\" en voz alta en el último piso del cuartel general del enemigo." "Tú entras y los apagas como si fueran lámparas." "¿Quién te dijo que había un infiltrado?"

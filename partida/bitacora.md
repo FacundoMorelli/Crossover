@@ -1136,3 +1136,4 @@ T1134 · BnHA · Deika · Cúpula del Ejército de Liberación inconsciente en D
 T1135 · BnHA · Detnerat · "¿Tú eres el infiltrado?" Hawks revisa con plumas: nadie oyó. "¿Quién te dijo?"
 T1136 · BnHA · Detnerat · Hawks: "¿Dabi?" 116.000 miembros, la mayoría civiles. Informe de Skeptic a las 14:00. "¿Qué piensas hacer con ellos?"
 T1137 · BnHA · Deika · Haki del Rey sobre toda la ciudad (menos Hawks). 116.000 inconscientes, vivos. Hawks va a llamar a la Comisión.
+T1138 · BnHA · Comisión · "Nos vemos, Hawks." Aparece en la oficina de la presidenta. "Supongo que usted es Eclipse. Siéntese."

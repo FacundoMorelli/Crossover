@@ -64,3 +64,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hawks · T1136 · por Facundo: Shigaraki, Dabi, Toga y los demás de la Liga detenidos. Facundo lo supo por Endeavor.
 - Facundo · T1136 · por Hawks: el Ejército de Liberación tiene unos 116.000 miembros en Deika; Skeptic debía mandar un informe a las 14:00.
 - Hawks · T1137 · vio a Facundo dejar inconsciente a toda Deika (116.000) con una presión de voluntad desde el ventanal, excepto a él.
+- Presidenta de la Comisión, dos guardias · T1138 · vieron a Eclipse aparecer en el piso 42 sin pasar los controles.
+- Hawks · T1138 · Facundo le pidió que la Comisión mande a muchos a recoger a todos en Deika.

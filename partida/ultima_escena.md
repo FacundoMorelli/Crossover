@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1135)
-hola, soy el nuevo consultor de la ua, me llamo eclipse, tu debes ser el infiltrado no?
-
-## RESPUESTA 1 (T1135)
-
-> —Hola. Soy el nuevo consultor de la U.A. Me llamo Eclipse. Tú debes ser el infiltrado, ¿no?
-
-La sonrisa de Hawks se congela.
-
-Durante un segundo no se mueve nada. Ni las alas. Ni la pluma que te apunta.
-
-Después, cientos de plumas se desprenden de sus alas a la vez. No hacia ti. Hacia todos lados. Se deslizan por las rendijas del ventanal, por debajo de la puerta, por las rejillas del aire acondicionado del techo. Las oyes moverse por los pasillos del piso, rápidas, como un enjambre.
-
-Hawks no aparta los ojos de ti.
-
-Pasan tres segundos. Cuatro.
-
-Las plumas vuelven. Una se le posa en el hombro. Otra, junto a la oreja. Él ladea la cabeza como si escuchara algo.
-
-Recién entonces suelta el aire.
-
-Una de las plumas grandes se mete en la junta del ventanal y lo destraba desde adentro. El vidrio se corre hacia un lado con un siseo. Hawks entra a la sala de un paso, plegando las alas a la espalda, y cierra el ventanal detrás de él.
-
-—Nadie en el piso —dice, en voz baja—. Nadie escuchó. Tuviste suerte. —Se pasa una mano por la cara—. Amigo, no sé de dónde saliste, pero no se dice "infiltrado" en voz alta en el último piso del cuartel general del enemigo. Ni aunque estén todos dormidos.
-
-Se agacha junto a la cabecera de la mesa. Le levanta un párpado a Re-Destro con dos dedos, lo suelta. Después mira a Geten, a Curious, a la pantalla de Skeptic llena de letras.
-
-—Cinco tenientes. Re-Destro incluido. —Silba bajito—. Ni un vidrio roto. Ni una alarma. —Te mira, y ahora no sonríe nada—. Llevo meses aquí adentro tratando de llegar hasta esta mesa sin que me maten. Y tú entras y los apagas como si fueran lámparas.
-
-Se endereza.
-
-—Consultor de la U.A. —repite—. Eclipse. —Una pausa—. ¿Quién te dijo que había un infiltrado?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1135 · BOKU NO HERO · DIC. · 12:38     ║
-║ Deika · torre Detnerat, último piso          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Cúpula del Ejército: 5 inconscientes         ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Deika                              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1136)
+## COMANDO 1 (T1136)
 endeavor y dije que sos infiltrado por que no hay muchos mas, eh digamos que shigaraki, dabi, toga, y los demas ya estan esposados, solo me falta aqui los demas
 
-## RESPUESTA 2 (T1136)
+## RESPUESTA 1 (T1136)
 
 > —Endeavor. Y dije que eras el infiltrado porque no hay muchos más. Eh... digamos que Shigaraki, Dabi, Toga y los demás ya están esposados. Solo me faltan los demás de aquí.
 
@@ -118,10 +64,10 @@ Se apoya en el borde de la mesa y te mira.
 
 ---
 
-## COMANDO 3 (T1137)
+## COMANDO 2 (T1137)
 solo mira y te diria que aprendas pero es imposible, uso haki del rey sobre toda deika, tranquilo estan inconscientes nada mas
 
-## RESPUESTA 3 (T1137)
+## RESPUESTA 2 (T1137)
 
 > —Solo mira. Te diría que aprendas, pero es imposible.
 
@@ -186,4 +132,66 @@ Después saca un celular del bolsillo interno de la chaqueta. Un celular negro, 
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:41, torre Detnerat. Deika entera inconsciente (116.000, vivos). Hawks a tu lado con su celular secreto, a punto de llamar a la Comisión. Facundo puede actuar.
+## COMANDO 3 (T1138)
+ahora tengo que ir a hablar con ellos, diles que traigan a muchos a buscar a todos, nos vemos hakws, me teletransporto a la comision
+
+## RESPUESTA 3 (T1138)
+
+> —Ahora tengo que ir a hablar con ellos. Diles que traigan a muchos para buscar a todos. Nos vemos, Hawks.
+
+Hawks se ríe. Una risa de verdad, corta, que le sale sin querer.
+
+—"Muchos" —repite—. Sí. Creo que esta vez les voy a pedir a todos. —Ya está marcando—. Nos vemos, Eclipse. Cuídate el gato.
+
+Te vas.
+
+Una oficina en lo alto de un edificio, en el centro de una ciudad gigante. Por los ventanales se ven rascacielos hasta el horizonte. Alfombra gris, muebles de madera clara, un escritorio enorme y ordenado al milímetro, con tres teléfonos y varias pantallas. Banderas a un costado. Diplomas en la pared.
+
+Detrás del escritorio hay una mujer.
+
+Mayor, de unos sesenta años, con el pelo gris recogido en un rodete apretado y un traje oscuro sin una arruga. Está de pie, con un teléfono en la oreja y la otra mano apoyada sobre el escritorio. En la pantalla grande de la pared hay un mapa de Deika con un punto rojo que parpadea en el centro.
+
+—...¿cómo que toda la ciudad, Hawks? —está diciendo, muy despacio, con una voz seca, controlada—. Explícate. ¿Qué significa "toda"?
+
+Te ve.
+
+No grita. No da un paso atrás. Solo baja el teléfono unos centímetros, sin cortar, y te mira de arriba abajo con unos ojos fríos, grises, detrás de unos lentes de marco fino.
+
+Detrás de ti se abre la puerta de golpe. Dos hombres de traje negro con auriculares en la oreja, con las manos ya levantadas hacia ti. Uno tiene los dedos cubiertos de algo que parece metal líquido.
+
+—¡Presidenta, al suelo!
+
+—Quietos —dice ella.
+
+Lo dice sin levantar la voz, y los dos se quedan congelados en la puerta.
+
+La presidenta vuelve a acercarse el teléfono a la oreja.
+
+—Hawks, te llamo después. —Corta. Deja el teléfono sobre el escritorio, alineado con los otros dos. Después junta las manos frente a ella—. Supongo que usted es Eclipse.
+
+No es una pregunta.
+
+—Siéntese, por favor. —Señala la silla frente al escritorio con la palma abierta—. Tenemos mucho de qué hablar. Empezando por cómo entró a una oficina del piso cuarenta y dos que tiene tres controles de seguridad, sin pasar por ninguno.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1138 · BOKU NO HERO · DIC. · 12:43     ║
+║ Comisión de Seguridad Pública · oficina de   ║
+║ la presidenta, piso 42                       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Hablar con la Comisión             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:43, oficina de la presidenta de la Comisión, piso 42. Ella pide que se siente y pregunta cómo entró sin pasar tres controles. Dos guardias congelados en la puerta. Facundo puede responder.

@@ -1,0 +1,15 @@
+NOMBRE: Presidenta de la Comisión de Seguridad Pública de Héroes
+AFILIACIÓN: Comisión de Seguridad Pública de Héroes
+RANGO: Presidenta
+PODER VISTO POR FACUNDO: Ninguno.
+EDAD: Unos sesenta años.
+FÍSICO: Pelo gris recogido en rodete apretado, traje oscuro impecable, lentes de marco fino, ojos grises fríos.
+PERSONALIDAD: Seca, controlada, no levanta la voz; ordena con una palabra.
+RELACIÓN: Primer encuentro T1138.
+ENCUENTROS:
+- T1138 · Su oficina, piso 42 · Facundo aparece mientras habla con Hawks sobre Deika.
+DIÁLOGOS CLAVE:
+- T1138 · "¿Cómo que toda la ciudad, Hawks?" "Quietos." "Supongo que usted es Eclipse." "Empezando por cómo entró a una oficina del piso cuarenta y dos que tiene tres controles de seguridad."
+QUÉ SABE DE FACUNDO: Eclipse, licencia aparecida esta mañana; por Endeavor: Jaku; por Nezu: la Liga; por Hawks: Deika entera.
+QUÉ PODERES VIO: La aparición en su oficina.
+ESTADO: En su oficina, con dos guardias.
