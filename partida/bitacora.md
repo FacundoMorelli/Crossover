@@ -1070,3 +1070,4 @@ T1068 · DanMachi · Sótano · "Puedo llevarlos sin que nadie me vea." Lido ace
 T1069 · DanMachi · Sótano · "Está bien." Wiene feliz; Kase le toca los dedos. Lido: "¿Primero los demás, o primero Bellucchi?"
 T1070 · DanMachi · Campanario roto · Teletransporte con Lido, Wiene y Gros. Rei, ala rota y sin voz: "Agua... por favor..."
 T1071 · DanMachi · Campanario · Agua y semilla a Rei: curada, canta una nota. Antorchas giran. Gros: "Las cloacas. Ahora."
+T1072 · DanMachi · Cloacas · Teletransporte con los cuatro. Fia (ala rota, fiebre) y Aruru. Patrulla en la reja con antorcha. Lido le tapa la boca a Fia.
