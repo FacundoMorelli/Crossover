@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1214)
-miro
-
-## RESPUESTA 1 (T1214)
-
-> miro
-
-Yoshimura junta las manos sobre la barra.
-
-—Porque soy el más viejo de esta casa —dice—. Porque los demás tienen toda la vida por delante, y yo ya viví la mía. —Hace una pausa—. Y porque usted entró por esa puerta y la pared lo dejó pasar. Este muchacho la puso para que solo entraran los que no vienen a hacer daño. Así que ya sabía algo de usted antes de que se sentara.
-
-Shinohara gira la cabeza hacia la puerta. Hacia el hilo plateado del cordón. Hacia Juuzou, que sigue afuera, en cuclillas sobre la vereda, empujando la nada con un dedo, como si probara la superficie de un estanque.
-
-Se queda un rato así. Después vuelve a mirar a Yoshimura.
-
-—Mi trabajo es encontrarlo a usted —dice despacio—. A gente como usted. Lo hice veintitrés años.
-
-—Lo sé.
-
-—Y sin embargo me sirvió café.
-
-—Usted lo pidió negro —dice Yoshimura—. Como lo toma la gente que trabaja de noche.
-
-A Shinohara se le escapa una risa corta, sin ganas, por la nariz. Se pasa una mano grande por la cara.
-
-—Esto no está pasando —murmura.
-
-Pero está pasando. Toma el último trago de café, ya frío, y deja la taza en el platillo con mucho cuidado, como si fuera de vidrio fino. Se levanta del taburete. Saca la billetera, deja un billete sobre la barra, bastante más de lo que cuesta un café, y no espera el vuelto.
-
-Después se vuelve hacia ti.
-
-—Mantuve mi palabra —dice—. Y la voy a seguir manteniendo. —Mete la mano en el bolsillo interior del saco y saca una tarjeta blanca, simple, con un número de teléfono escrito a mano en el dorso—. Pero hay cosas que yo no controlo. No sé cuántos días le quedan a ese informe en el escritorio. No sé qué decide la gente de arriba ni cuándo.
-
-Deja la tarjeta en la barra, delante de ti, junto a la cabeza de Kase.
-
-—Si un día ves que esto se pone feo, llámame. No como investigador. Como alguien que te debe la vida.
-
-Inclina la cabeza, primero hacia ti y después, un segundo más tarde, hacia Yoshimura. Una reverencia corta, la misma para los dos.
-
-Camina hasta la puerta. Cruza el umbral sin que el aire tiemble.
-
-En la vereda, Juuzou se pone de pie de un salto.
-
-—¡Señor Shinohara! ¿Qué había? ¿Había algo rico? —Y antes de que Shinohara conteste, se asoma por un costado de él y te busca con la mirada a través del vidrio. Te encuentra. Sonríe con toda la cara, con las costuras rojas estiradas bajo el ojo, y levanta la navaja curva para saludarte, girándola entre los dedos—. ¡Oye, el de los dos colores! ¡Tu pared es muy buena! ¡Algún día la voy a cortar!
-
-Shinohara lo agarra del cuello de la camiseta y se lo lleva por la vereda, sin mirar atrás. Juuzou se deja arrastrar, saludando todavía con la mano libre, canturreando.
-
-Adentro, nadie habla.
-
-Touka deja el vaso sobre la barra. Le tiemblan las manos. Nishiki suelta la escoba, que cae contra la pared con un golpe seco.
-
-Yoshimura levanta el billete que dejó Shinohara. Lo mira un momento. Lo guarda en la caja.
-
-Después te mira a ti, por encima de los lentes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1214 · TOKYO GHOUL · DÍA 3 · 10:34     ║
-║ Distrito 20 · Anteiku, barra                 ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1215)
+## COMANDO 1 (T1215)
 simula
 
-## RESPUESTA 2 (T1215)
+## RESPUESTA 1 (T1215)
 
 > simula
 
@@ -156,10 +84,10 @@ Arriba, en la escalera, Kaneki ya está parado, con la cara blanca. Detrás de �
 
 ---
 
-## COMANDO 3 (T1216)
+## COMANDO 2 (T1216)
 yoshimura, tu tampoco tienes que morir voy a ir con usted, nadie va a poder entrar a este lugar, aunque me aleje
 
-## RESPUESTA 3 (T1216)
+## RESPUESTA 2 (T1216)
 
 > —Yoshimura, usted tampoco tiene que morir. Voy a ir con usted. Nadie va a poder entrar a este lugar, aunque me aleje.
 
@@ -205,7 +133,72 @@ Yoshimura no le contesta a Kaneki. Te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1217)
+que vengan si quieren, no voy a dejar que se mueran
+
+## RESPUESTA 3 (T1217)
+
+> —Que vengan si quieren. No voy a dejar que se mueran.
+
+Yoshimura cierra los ojos un segundo.
+
+Cuando los abre, suspira, largo, como un padre que perdió una discusión que sabía que iba a perder.
+
+—Entonces que así sea.
+
+Kaneki suelta el aire de golpe. Touka baja la escalera y se para a su lado, sin mirarlo, con el ala ya afuera, violeta, encogida contra la espalda para no chocar con las paredes.
+
+Desde arriba asoma Nishiki, con Hinami agarrada de la manga de su campera.
+
+—Yo me quedo con la mocosa —dice, antes de que nadie le pregunte—. Alguien tiene que cuidar el café. —Mira a Touka, a Kaneki, a ti—. No se mueran, idiotas.
+
+Hinami no dice nada. Tiene los ojos muy abiertos y la muñeca de tela apretada contra el pecho.
+
+Kase salta del taburete a tu hombro.
+
+Yoshimura abre la puerta de metal del callejón.
+
+Afuera huele a pólvora y a humo. El cielo sobre los techos está naranja, y del lado del este sube una columna de humo negro. Los disparos ya no son de a uno: son ráfagas, cortas, seguidas, que rebotan entre los edificios. Se oyen gritos de mando, y por debajo, rugidos.
+
+Yoshimura da tres pasos por el callejón, más allá del hilo plateado, y se detiene entre los tachos de basura.
+
+—Kaneki-kun. Touka-chan. —No se da vuelta—. No se asusten.
+
+Y cambia.
+
+Le brota de la espalda primero, de abajo de la camisa blanca: algo rojo oscuro, denso, que no se parece a ningún kagune que hayas visto en este mundo. Le sube por los hombros, le baja por los brazos, le cubre las piernas, se le cierra sobre la cabeza. Capa tras capa, hasta que no queda nada del viejo de chaleco y moño. Queda una figura enorme, encorvada, cubierta de plumas de kagune rojas y negras, con dos brazos larguísimos y una cabeza redonda de la que miran dos ojos rojos con el fondo negro.
+
+Un búho.
+
+Kaneki da un paso atrás. Touka se queda inmóvil, con el ala temblando.
+
+—El búho del Distrito 11 —susurra Kaneki—. No. No era él. Era... parecido.
+
+El Búho gira la cabeza redonda hacia ustedes. Cuando habla, la voz de Yoshimura sale de adentro, grave, igual de suave que siempre.
+
+—Koma está en la avenida, a dos cuadras al este. Lo están acorralando.
+
+En la boca del callejón, a lo lejos, por encima de los disparos, se oye un sonido nuevo: un chirrido metálico enorme, como el de una máquina que se pone en marcha. Y después un grito de Koma, ronco, que se corta de golpe.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1217 · TOKYO GHOUL · DÍA 6 · 17:45     ║
+║ Distrito 20 · callejón de Anteiku            ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:43, cocina de Anteiku. Facundo irá con Yoshimura. Kaneki quiere ir; Yoshimura dice que no; Touka saca el kakugan. Yoshimura mira a Facundo para que decida.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:45, callejón de Anteiku. Yoshimura es el Búho. Koma, acorralado dos cuadras al este; su grito se cortó. Facundo puede actuar.

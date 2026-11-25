@@ -1,7 +1,7 @@
 NOMBRE: Yoshimura (se presenta T1157)
 AFILIACIÓN: Anteiku (gerente)
 RANGO: —
-PODER VISTO POR FACUNDO: Ninguno. Presencia enorme, dormida bajo la calma, "como un búho con las alas plegadas"; se despereza y mira a Facundo.
+PODER VISTO POR FACUNDO: Ninguno. Presencia enorme, dormida bajo la calma, "como un búho con las alas plegadas"; se despereza y mira a Facundo. T1217: kakuja del Búho (cuerpo cubierto de plumas de kagune rojas y negras, encorvado, brazos larguísimos, cabeza redonda, ojos kakugan).
 EDAD: ~60-70.
 FÍSICO: Delgado, pelo blanco peinado con cuidado, chaleco negro, camisa blanca, moño, delantal de barista, lentes, ojos entrecerrados.
 PERSONALIDAD: Tranquilo, amable, sin prisa.
@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1217 · "Entonces que así sea." "Kaneki-kun. Touka-chan. No se asusten." (como Búho) "Koma está en la avenida, a dos cuadras al este. Lo están acorralando."
 - T1216 · "Usted no sabe lo que hay ahí afuera. Hay hombres que la CCG guarda para días como hoy. Y hay otras cosas que pueden venir." "Ya entendí que usted no es de los que se quedan adentro cuando se lo piden." "No. Kaneki-kun. Tú te quedas."
 - T1215 · "Irimi y Koma están afuera, con su gente. Ellos no están dentro de su pared, Morelli-san." "Y yo tengo que salir. Si el Búho no aparece, van a seguir buscando, y van a buscar acá." "Le pido una sola cosa. Que los chicos no salgan de esta casa."
 - T1214 · "Porque soy el más viejo de esta casa." "Usted entró por esa puerta y la pared lo dejó pasar." "Usted lo pidió negro. Como lo toma la gente que trabaja de noche."

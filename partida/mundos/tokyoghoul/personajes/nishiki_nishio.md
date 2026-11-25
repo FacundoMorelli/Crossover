@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1215 · Sale dos noches con Kimi.
 - T1186 · Entra a Anteiku a las 07:41 y se frena al ver a Facundo, el gato y a Hinami comiendo una tostada.
 DIÁLOGOS CLAVE:
+- T1217 · "Yo me quedo con la mocosa. Alguien tiene que cuidar el café. No se mueran, idiotas."
 - T1208 · "Bueno. Ya está. Ya no me sorprende nada. Si mañana entras volando, ni levanto la vista."
 - T1207 · "¿Qué...? ¿Y eso? ¿Te teñiste en el subte?"
 - T1191 · "¡Kirishima, carajo!" "Te compro diez, loca."
