@@ -35,3 +35,5 @@ QUÉ PODERES DE FACUNDO VIO: Hana Hana no Mi (T1320), interpretada como técnica
 - T1321 · "Yo tampoco tengo clan. Este Mokuton no lo heredé de nadie. Me lo pusieron de chico, en un laboratorio, junto a otros sesenta chicos. Fui el único que sobrevivió." "No voy a ser yo el que le pregunte a alguien de dónde sacó lo que tiene. Aunque Tsunade-sama te lo va a preguntar. Y Danzō también, si se entera. Él no va a preguntar tan amable." Usa "¡Estilo Madera: Técnica de la Casa de Cuatro Pilares!": 4 casas en un minuto. "¿Dónde vas a dormir tú esta noche?"
 PODER VISTO POR FACUNDO: Mokuton (Casa de Cuatro Pilares, de cerca, T1321).
 RELACIÓN CON FACUNDO (T1321): complicidad; se identifica con él.
+- T1322 · Le construye a Facundo una casa chica (un piso, ventana redonda, alero, estante para el gato) al final de la fila. "No es gran cosa. Pero tiene techo, y es tuya mientras estés aquí. Es lo mínimo, después de lo de hoy." "En un rato todo el campamento va a saber que el forastero del gato hizo brotar brazos del suelo. Yo que tú me metería adentro un rato."
+COPIADO POR FACUNDO: Mokuton completo (T1322). Yamato no lo sabe.

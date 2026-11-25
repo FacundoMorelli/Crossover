@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1319)
-
-me dijo que venga a ayudarte a despejar la zona para hacer casas
-
-## RESPUESTA 1 (T1319)
-
-> me dijo que venga a ayudarte a despejar la zona para hacer casas
-
-> —Me dijo que viniera a ayudarte a despejar la zona para hacer casas.
-
-Yamato parpadea. Después, por primera vez, se le escapa algo parecido a una sonrisa.
-
-—Típico de ella. Te debe la vida y te manda a cargar piedras. —Dobla la bolsa vacía y se la guarda en el chaleco—. Bueno. Ven.
-
-Lo sigues hacia el borde sur del cráter. A medida que se alejan del campamento el ruido baja, y empiezan los escombros de verdad: no piedras sueltas, sino pedazos enteros de la aldea. Medio techo de tejas rojas tirado boca abajo. Una pared con una ventana todavía entera y la cortina flameando. Vigas partidas, macetas, un letrero de una tienda de ramen torcido sobre un montón de ladrillos. Huele a madera húmeda y a algo quemado hace dos días.
-
-Hay un grupo de chūnin trabajando con palas y carretillas, cubiertos de polvo hasta las cejas. Cuando ven a Yamato levantan la mano. Cuando te ven a ti, se quedan mirando el pelo.
-
-Yamato se detiene frente a un terreno lleno hasta la altura del pecho de restos de casas. Es grande, del tamaño de media manzana.
-
-—Aquí van a ir cuatro casas. Familias con chicos chicos, las primeras de la lista. —Se agacha y aparta con la mano una muñeca de trapo que asoma entre las tejas. La deja con cuidado sobre una piedra—. El problema es que el Mokuton no puede crecer sobre escombros. Necesito tierra limpia. Si no, las raíces no agarran y la casa se cae a la semana.
-
-Señala a los chūnin.
-
-—Ellos llevan dos días con este terreno y van por la cuarta parte. —Te mira de reojo, con algo de curiosidad—. Hay palas en la carretilla. Lo que saques, llévalo al pozo del fondo, donde está la bandera roja. Si encuentras algo que parezca de alguien, fotos, cartas, cosas así, apártalo. La gente vuelve a buscarlas.
-
-Se arremanga el chaleco.
-
-—¿Necesitas que te explique algo más, o empiezas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1319 · NARUTO · DÍA 1 · 08:47          ║
-║ Konoha · borde sur del cráter · terreno      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Ayudar a Yamato con los escombros  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1320)
+## COMANDO 1 (T1320)
 
 uso la hana hana no mi para hacer todo el trabajo
 
-## RESPUESTA 2 (T1320)
+## RESPUESTA 1 (T1320)
 
 > uso la hana hana no mi para hacer todo el trabajo
 
@@ -105,11 +58,11 @@ Se rasca la nuca, igual que Kakashi.
 
 ---
 
-## COMANDO 3 (T1321)
+## COMANDO 2 (T1321)
 
 no tengo clan, soy un viajero
 
-## RESPUESTA 3 (T1321)
+## RESPUESTA 2 (T1321)
 
 > no tengo clan, soy un viajero
 
@@ -158,4 +111,68 @@ Se queda pensando un momento.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:03, borde sur del cráter. "No tengo clan." Yamato tampoco (Mokuton de laboratorio, único sobreviviente de 60); no pregunta más, pero avisa que Tsunade preguntará y Danzō "no tan amable". Levantó 4 casas con Mokuton en un minuto. Pregunta: "¿Dónde vas a dormir tú esta noche?" Facundo tiene que contestar. (Misión de copia: que Yamato le construya una casa.)
+## COMANDO 3 (T1322)
+
+en algun arbol o algo de eso
+
+## RESPUESTA 3 (T1322)
+
+> en algun arbol o algo de eso
+
+> —En algún árbol o algo así.
+
+Yamato levanta las cejas.
+
+—¿En un árbol? —Mira alrededor: los árboles del borde del cráter están todos partidos, torcidos o arrancados de raíz—. Hace dos días que aquí no queda un árbol derecho.
+
+Se rasca la nuca. Mira las cuatro casas. Mira el terreno vacío que queda al final de la fila, un pedazo de tierra limpia del tamaño de un cuarto, que tus brazos también barrieron.
+
+—Bueno. Eso lo arreglo yo.
+
+Junta las manos otra vez. Un solo sello, esta vez.
+
+Del suelo brota un tronco más fino que los otros, que sube, se abre en ramas y se curva hacia adentro. En medio minuto hay una casa chica, de un piso, con una sola puerta, una ventana redonda, un techo bajo de tablas y un alero ancho que da sombra a la entrada. Al costado, sin que nadie se lo pida, la madera forma un estante angosto, a la altura de la ventana, justo del ancho de un gato grande echado al sol.
+
+Kase la mira desde tu cuello. Mueve la cola una vez.
+
+—No es gran cosa —dice Yamato, bajando las manos—. Pero tiene techo, y es tuya mientras estés aquí. Es lo mínimo, después de lo de hoy.
+
+[Misión de copia cumplida.]
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Mokuton (Estilo Madera) · COPIADO            ║
+║ USUARIO: Yamato · Naruto                     ║
+║                                              ║
+║ INCLUYE: Mokuton completo, Estilo Agua,      ║
+║ Estilo Tierra, sellos de supresión de bijū   ║
+║ y todo lo que su poder llega a hacer.        ║
+║ Dominio total.                               ║
+╚══════════════════════════════════════════════╝
+
+[+300 EXP.]
+
+Sientes la madera debajo de los pies de una forma nueva, como si la tierra tuviera venas y supieras dónde latían.
+
+Yamato no nota nada. Se sacude las manos y mira hacia el campamento, de donde viene corriendo el chūnin que se había ido, con dos más atrás, señalando las casas nuevas.
+
+—Ahí viene la gente de la lista —dice—. En un rato todo el campamento va a saber que el forastero del gato hizo brotar brazos del suelo. —Se encoge de hombros—. Yo que tú me metería adentro un rato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1322 · NARUTO · DÍA 1 · 09:06          ║
+║ Konoha · borde sur · tu casa de madera       ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:06, borde sur del cráter. Yamato le construyó una casa chica de madera (un piso, ventana redonda, estante para Kase) al final de la fila. MOKUTON COPIADO (+300 EXP). Vienen chūnin y familias de la lista; Yamato le sugiere meterse adentro un rato porque todos van a saber lo de los brazos. Facundo puede actuar.

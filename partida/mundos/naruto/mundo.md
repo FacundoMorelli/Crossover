@@ -12,3 +12,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1318 · Carpa médica del este: 43 heridos graves curados de golpe, y los dos médicos repuestos.
 - T1320 · Terreno del borde sur (4 casas) limpio en 10 minutos por Facundo (Hana Hana no Mi). Objetos personales apartados en una tabla.
 - T1321 · 4 casas nuevas en el borde sur (Mokuton de Yamato) gracias al terreno limpio.
+- T1322 · Casa chica de madera para Facundo en el borde sur (Yamato).

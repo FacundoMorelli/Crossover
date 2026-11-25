@@ -38,3 +38,4 @@
 - Yamato · T1321 · por Facundo: no tiene clan; viajero. Yamato no pregunta más.
 - Facundo · T1321 · por Yamato: su Mokuton vino de un laboratorio (60 chicos, único sobreviviente).
 - Chūnin del terreno sur · T1321 · uno corre al campamento a avisar que están las casas del sur (y, de paso, lo de los brazos).
+- Chūnin y familias de la lista · T1322 · vienen hacia las casas del sur; el rumor de los brazos corre por el campamento.
