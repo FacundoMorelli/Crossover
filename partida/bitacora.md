@@ -1138,3 +1138,4 @@ T1136 · BnHA · Detnerat · Hawks: "¿Dabi?" 116.000 miembros, la mayoría civi
 T1137 · BnHA · Deika · Haki del Rey sobre toda la ciudad (menos Hawks). 116.000 inconscientes, vivos. Hawks va a llamar a la Comisión.
 T1138 · BnHA · Comisión · "Nos vemos, Hawks." Aparece en la oficina de la presidenta. "Supongo que usted es Eclipse. Siéntese."
 T1139 · BnHA · Comisión · "Una habilidad." La presidenta: su firma está en la licencia y no la firmó. "Me aterra. ¿Qué es lo que usted quiere?"
+T1140 · BnHA · Comisión · "Nada, vine a ayudar; en unos días desaparezco." La presidenta: ¿la verdad o un operativo conjunto sin su nombre?

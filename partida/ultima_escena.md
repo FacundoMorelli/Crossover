@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1137)
-solo mira y te diria que aprendas pero es imposible, uso haki del rey sobre toda deika, tranquilo estan inconscientes nada mas
-
-## RESPUESTA 1 (T1137)
-
-> —Solo mira. Te diría que aprendas, pero es imposible.
-
-Te acercas al ventanal. Hawks se queda donde está, apoyado en la mesa, con una ceja levantada.
-
-Miras la ciudad.
-
-Y sueltas la voluntad. No como en el laboratorio. Más. Mucho más. Hacia afuera, hacia abajo, hacia cada calle, cada edificio, cada esquina de Deika. Todo, menos el hombre de alas rojas que tienes detrás.
-
-[Haki del Rey · alcance: Deika entera · excepción: Hawks]
-
-El ventanal vibra. Un zumbido grave, como un trueno que no termina, recorre la torre de arriba abajo. Afuera, una bandada de palomas se levanta de golpe de la plaza y sale volando hacia el horizonte, lejos de la ciudad.
-
-Hawks se agarra al borde de la mesa. Las plumas de sus alas se erizan todas a la vez. No cae. Pero se le corta la respiración y se le ponen los ojos muy abiertos.
-
-Allá abajo, la ciudad se apaga.
-
-Empieza en el centro, alrededor de la torre, y se extiende hacia afuera como una ola. La gente que camina por las veredas se dobla y cae, despacio, como si se acostara. Un hombre con bolsas de compras se sienta en el cordón y se queda dormido contra un poste. Los autos de los semáforos siguen avanzando unos metros con los conductores desmayados sobre el volante y se van frenando solos, rozándose unos con otros, abollándose los guardabarros. Una camioneta se sube a la vereda y se queda empujando un buzón. Un ciclista se va de costado sobre un cantero de flores.
-
-En el patio de la escuela, los niños se sientan en el suelo con las mochilas puestas.
-
-Y después, silencio.
-
-Toda la ciudad. Ciento dieciséis mil personas.
-
-Solo quedan las bocinas de algunos autos que suenan solas, trabadas contra la cabeza de alguien. Las alarmas de los negocios. Un perro que ladra en algún patio. Los semáforos que siguen cambiando de color para nadie.
-
-Hawks suelta la mesa. Camina hasta el ventanal, despacio, y se queda a tu lado, mirando hacia abajo.
-
-No dice nada durante un rato largo.
-
-—...¿Todos? —dice al fin, con la voz muy baja.
-
-Una pluma se desprende sola de su ala y baja flotando hacia la calle, hacia un chico de unos diez años tirado junto a la reja de la escuela. Se le posa en el pecho. Sube y baja. Respira.
-
-Hawks cierra los ojos un segundo.
-
-—Están vivos —murmura—. Están todos vivos.
-
-Después saca un celular del bolsillo interno de la chaqueta. Un celular negro, pequeño, que no es el que usa adentro del Ejército. Lo mira. Te mira a ti.
-
-—Amigo —dice, con una sonrisa torcida que le tiembla un poco—, voy a tener que llamar a la Comisión. Y no tengo la menor idea de qué les voy a decir.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1137 · BOKU NO HERO · DIC. · 12:41     ║
-║ Deika · torre Detnerat, último piso          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Deika: 116.000 inconscientes · vivos         ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1138)
+## COMANDO 1 (T1138)
 ahora tengo que ir a hablar con ellos, diles que traigan a muchos a buscar a todos, nos vemos hakws, me teletransporto a la comision
 
-## RESPUESTA 2 (T1138)
+## RESPUESTA 1 (T1138)
 
 > —Ahora tengo que ir a hablar con ellos. Diles que traigan a muchos para buscar a todos. Nos vemos, Hawks.
 
@@ -133,10 +65,10 @@ No es una pregunta.
 
 ---
 
-## COMANDO 3 (T1139)
+## COMANDO 2 (T1139)
 una habilidad, en fin, querian hablar conmigo
 
-## RESPUESTA 3 (T1139)
+## RESPUESTA 2 (T1139)
 
 > —Una habilidad. En fin, querían hablar conmigo.
 
@@ -201,4 +133,58 @@ Una pausa.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:44, oficina de la presidenta. Solos. Ella expuso todo lo que sabe (incluida su firma en la licencia, que no firmó) y pregunta: "¿Qué es lo que usted quiere?" Facundo puede responder.
+## COMANDO 3 (T1140)
+nada, vine a ayudarlos, seguro en unos dias desaparezca
+
+## RESPUESTA 3 (T1140)
+
+> —Nada. Vine a ayudarlos. Seguro en unos días desaparezca.
+
+La presidenta te sostiene la mirada un rato largo.
+
+Esperas que insista. Que pregunte de dónde, por qué, para quién. No lo hace.
+
+—"Nada" —dice al fin—. En treinta y dos años en esta Comisión, nunca escuché a nadie decir esa palabra y que fuera verdad.
+
+Se quita los lentes. Los limpia con un pañuelo que saca del bolsillo del saco, despacio, sin apuro. Sin los lentes parece más vieja. Más cansada.
+
+—Pero tampoco vi nunca a nadie hacer lo que usted hizo hoy sin que muriera una sola persona. —Se vuelve a poner los lentes—. Así que voy a decidir creerle. Por ahora.
+
+Toca la pantalla. Tu ficha desaparece y aparece otra cosa: un mapa del país con cuatro puntos rojos. Las montañas. Jaku. Deika. Y uno más, abajo, que no parpadea. Tartarus.
+
+—Unos días —repite—. Bien. Entonces le voy a pedir una sola cosa antes de que desaparezca.
+
+Apoya un dedo sobre el mapa.
+
+—Esta tarde, en tres horas como mucho, todo el país se va a enterar de lo que pasó en Deika. Ciento dieciséis mil personas no se duermen en silencio. Ya hay videos de los autos, de los niños en el patio. —Hace una pausa—. La gente va a tener miedo. Mucho. Va a querer saber quién fue, y si ese alguien puede hacerle lo mismo a su ciudad.
+
+Te mira.
+
+—Tengo dos opciones. Puedo decir la verdad: que un héroe llamado Eclipse, del que nadie sabía nada, hizo esto solo. O puedo decir que fue un operativo conjunto de la Comisión y de todos los héroes, coordinado durante meses, y que su nombre no aparezca en ninguna parte.
+
+Junta las manos otra vez.
+
+—Si va a desaparecer en unos días, la segunda es más fácil para todos. Pero es su trabajo. Y su nombre. —La voz le sale seca, pero no fría—. ¿Qué prefiere usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1140 · BOKU NO HERO · DIC. · 12:46     ║
+║ Comisión de Seguridad Pública · oficina de   ║
+║ la presidenta, piso 42                       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Hablar con la Comisión             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:46, oficina de la presidenta. Ella le cree "por ahora". Ofrece dos versiones públicas: la verdad (Eclipse) o un operativo conjunto sin su nombre. Pregunta qué prefiere. Facundo puede responder.
