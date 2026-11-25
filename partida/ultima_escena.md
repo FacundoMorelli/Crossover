@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1322)
-
-en algun arbol o algo de eso
-
-## RESPUESTA 1 (T1322)
-
-> en algun arbol o algo de eso
-
-> —En algún árbol o algo así.
-
-Yamato levanta las cejas.
-
-—¿En un árbol? —Mira alrededor: los árboles del borde del cráter están todos partidos, torcidos o arrancados de raíz—. Hace dos días que aquí no queda un árbol derecho.
-
-Se rasca la nuca. Mira las cuatro casas. Mira el terreno vacío que queda al final de la fila, un pedazo de tierra limpia del tamaño de un cuarto, que tus brazos también barrieron.
-
-—Bueno. Eso lo arreglo yo.
-
-Junta las manos otra vez. Un solo sello, esta vez.
-
-Del suelo brota un tronco más fino que los otros, que sube, se abre en ramas y se curva hacia adentro. En medio minuto hay una casa chica, de un piso, con una sola puerta, una ventana redonda, un techo bajo de tablas y un alero ancho que da sombra a la entrada. Al costado, sin que nadie se lo pida, la madera forma un estante angosto, a la altura de la ventana, justo del ancho de un gato grande echado al sol.
-
-Kase la mira desde tu cuello. Mueve la cola una vez.
-
-—No es gran cosa —dice Yamato, bajando las manos—. Pero tiene techo, y es tuya mientras estés aquí. Es lo mínimo, después de lo de hoy.
-
-[Misión de copia cumplida.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Mokuton (Estilo Madera) · COPIADO            ║
-║ USUARIO: Yamato · Naruto                     ║
-║                                              ║
-║ INCLUYE: Mokuton completo, Estilo Agua,      ║
-║ Estilo Tierra, sellos de supresión de bijū   ║
-║ y todo lo que su poder llega a hacer.        ║
-║ Dominio total.                               ║
-╚══════════════════════════════════════════════╝
-
-[+300 EXP.]
-
-Sientes la madera debajo de los pies de una forma nueva, como si la tierra tuviera venas y supieras dónde latían.
-
-Yamato no nota nada. Se sacude las manos y mira hacia el campamento, de donde viene corriendo el chūnin que se había ido, con dos más atrás, señalando las casas nuevas.
-
-—Ahí viene la gente de la lista —dice—. En un rato todo el campamento va a saber que el forastero del gato hizo brotar brazos del suelo. —Se encoge de hombros—. Yo que tú me metería adentro un rato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1322 · NARUTO · DÍA 1 · 09:06          ║
-║ Konoha · borde sur · tu casa de madera       ║
-║ NIVEL 29 · EXP 295.380/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1323)
+## COMANDO 1 (T1323)
 
 ehh puedo ir a recorrer mientras?
 
-## RESPUESTA 2 (T1323)
+## RESPUESTA 1 (T1323)
 
 > ehh puedo ir a recorrer mientras?
 
@@ -112,11 +48,11 @@ Yamato se da vuelta hacia ellos y ya no te mira.
 
 ---
 
-## COMANDO 3 (T1324)
+## COMANDO 2 (T1324)
 
 salgo a recorrer
 
-## RESPUESTA 3 (T1324)
+## RESPUESTA 2 (T1324)
 
 > salgo a recorrer
 
@@ -196,4 +132,63 @@ Lee ya viene corriendo hacia ti, con los puños apretados y los ojos brillando c
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:24, borde este del cráter. Equipo Gai trabajando (Gai con una roca, Lee, Tenten con armas). Neji lo miró con el Byakugan: "chakra de un vendedor de verduras" (Velo). Por el rumor de los chūnin, Lee sabe que es "el de los mil brazos". Lee se planta en guardia: "¡Por favor! ¡Pelea conmigo!" Facundo tiene que contestar.
+## COMANDO 3 (T1325)
+
+eh mucho gusto, soy facundo morelli, esta bien peleemos
+
+## RESPUESTA 3 (T1325)
+
+> eh mucho gusto, soy facundo morelli, esta bien peleemos
+
+> —Eh, mucho gusto. Soy Facundo Morelli. Está bien, peleemos.
+
+A Lee le explota la cara de alegría.
+
+—¡¡ACEPTÓ!! —Se da vuelta hacia el hombre de la roca—. ¡Gai-sensei! ¡Aceptó!
+
+El hombre de verde deja caer la roca detrás de él sin mirar, con un estruendo que levanta polvo hasta las carpas. Aparece al lado de Lee en un parpadeo, con el pulgar arriba y los dientes brillando.
+
+—¡Un combate entre jóvenes en medio de las ruinas! ¡Esto es lo que necesita la aldea! ¡Que la llama de la juventud vuelva a arder sobre las cenizas! —Te señala con el dedo—. ¡Forastero! ¡Yo seré el árbitro! ¡Y si mi alumno pierde, dará mil vueltas al cráter!
+
+—¡Y si gano, daré dos mil! —grita Lee.
+
+—¡ESE ES MI ALUMNO!
+
+Se abrazan. Lloran. Detrás de ellos se forma una puesta de sol que no existe.
+
+Tenten se tapa la cara con la mano.
+
+—Nunca lo vas a ver dos veces y vas a desear no haberlo visto la primera —te dice, sin levantar la vista de las armas.
+
+Neji se separa de la viga. Las venas de los ojos se le vuelven a hinchar. Esta vez no te mira a la cara: mira todo, tus pies, tus manos, tu centro, como si buscara algo que no está.
+
+Gai se pone entre ustedes dos, levanta una mano y la deja caer como una guillotina.
+
+—¡Comiencen!
+
+Lee desaparece.
+
+No corre: desaparece. Una nube de polvo marca el lugar donde estaba, y medio segundo después está en el aire, a tu izquierda, girando sobre sí mismo con la pierna estirada como una lanza.
+
+—¡Remolino de la Hoja!
+
+El talón viene directo a tu cabeza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1325 · NARUTO · DÍA 1 · 09:26          ║
+║ Konoha · borde este del cráter · duelo       ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Duelo con Rock Lee                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:26, borde este. Facundo aceptó el duelo con Lee. Gai es árbitro ("si pierde, mil vueltas"). Neji mira con el Byakugan. "¡Comiencen!" Lee lanza el Remolino de la Hoja: el talón viene a la cabeza de Facundo. Facundo tiene que reaccionar.

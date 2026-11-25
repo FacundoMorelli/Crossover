@@ -44,3 +44,4 @@
 - Neji, Lee, Tenten · T1324 · por el rumor de los chūnin del terreno sur (corrió por el campamento; T1321-1322): un forastero de pelo de dos colores con un gato hizo brotar mil brazos y limpió el terreno sur en diez minutos. Rumor deformado ("mil").
 - Neji · T1324 · lo vio con el Byakugan: chakra mínimo, de civil (Velo).
 - Gai · T1324 · todavía no se fijó en él.
+- Lee, Gai, Neji, Tenten · T1325 · por Facundo: se llama Facundo Morelli. Aceptó pelear con Lee.

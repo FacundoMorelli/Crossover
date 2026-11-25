@@ -12,3 +12,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: rumor de los chūnin.
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo.
+- T1325 · Facundo acepta. "¡¡ACEPTÓ!!" "¡Y si gano, daré dos mil!" Ataca primero: "¡Remolino de la Hoja!" (patada giratoria al aire, a la cabeza).
+QUÉ SABE DE FACUNDO (T1325): nombre, por él.

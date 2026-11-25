@@ -13,3 +13,5 @@ QUÉ SABE DE FACUNDO: nada (no prestó atención todavía).
 QUÉ PODERES DE FACUNDO VIO: ninguno
 TASACIÓN (T1324): taijutsu, Ocho Puertas, Puño Fuerte, nunchaku; mínima; x0,01.
 ESTADO: activo.
+- T1325 · Se hace árbitro. "¡Un combate entre jóvenes en medio de las ruinas!" "¡Si mi alumno pierde, dará mil vueltas al cráter!" Abraza a Lee llorando. "¡Comiencen!"
+QUÉ SABE DE FACUNDO (T1325): nombre (lo oyó). Forastero.
