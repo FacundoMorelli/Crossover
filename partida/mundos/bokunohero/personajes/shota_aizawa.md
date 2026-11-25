@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: cauteloso, lo acepta a su manera (T1098).
 ENCUENTROS:
 - T1096 · Diciembre 10:55 · Sala de monitoreo del Campo Gamma: All Might trae a Facundo.
 DIÁLOGOS CLAVE:
+- T1104 · "Recovery Girl tarda una tarde en hacer eso. Y lo deja dormido dos días. Esa semilla, ¿qué es?"
 - T1103 · "Desde hoy." "Midoriya. ¿Te duele algo?" A Facundo: "Gracias." "El combate cinco se suspende." "Y tú, consultor. Vuelve a la sala de monitoreo conmigo. Nezu va a querer un informe. Y yo también."
 - T1099 · "Shinso. Vamos." "Está a cuatrocientos metros. No llego."
 - T1098 · "Te estaba mirando. No parpadeé." "A ti no te apagué nada. No sentí nada. Como si mirara una pared." "Eso no es un Don. O es un Don que no se parece a ninguno que haya visto." "Si algún día pierdes el control, no hay nadie en esta escuela que pueda pararte. Ni yo. Y si alguien viene a lastimar a mis alumnos, nadie va a poder pararte a ti. Eso último me gusta un poco más."

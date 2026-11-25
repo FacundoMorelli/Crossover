@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1101)
-sujeto los látigos y la llevo hasta Deku
-
-## RESPUESTA 1 (T1101)
-
-> sujeto los látigos y la llevo hasta Deku
-
-Tu ojo azul se enciende.
-
-El aire alrededor del nudo de látigos se pone pesado, de golpe, como si el cielo entero se hubiera apoyado encima. Los cinco látigos que se tensaban hacia ti caen al suelo como si les hubieran atado plomo y se quedan pegados a la nieve, retorciéndose, sin poder levantarse. Los demás, los que sacudían al chico de pelo verde de un lado a otro, se aplastan contra las tuberías. Una escarcha fina se forma sobre ellos, crujiendo.
-
-El nudo se detiene.
-
-Agarras a la chica de mejillas redondas del brazo, sin soltar el látigo de la otra mano, y en dos pasos estás con ella al lado del chico.
-
-Está colgado a un metro del suelo, sostenido por sus propios látigos aplastados. Tiene los ojos abiertos y vacíos, la cara pálida, sudada, las venas de los brazos marcadas de verde y negro. Respira a tirones.
-
-La chica no duda. Le pone las dos manos en la cara. Las yemas de los dedos se le iluminan de rosa.
-
-—¡Deku! —grita—. ¡Deku, soy yo!
-
-El chico flota. El peso se le va del cuerpo. Los látigos que lo sostenían pierden de dónde agarrarse y quedan colgando de sus brazos, flojos, pegados al suelo por tu gravedad.
-
-Contra la pared, el muchacho de pelo violeta se arranca la máscara metálica de la boca. Tose. Levanta la voz, ronca, sin la máscara.
-
-—Midoriya. —Lo dice firme, directo—. Escúchame. Respóndeme.
-
-—¿Shin...? —murmura el chico de pelo verde, con la boca casi cerrada.
-
-El brillo de los ojos se le apaga del todo. Se queda quieto. Lavado.
-
-Y los látigos negros se encogen.
-
-Despacio, todos a la vez, como una marea que baja. Se le meten otra vez adentro de los brazos, de los hombros, de la espalda, hasta que no queda ninguno. El látigo que tenías en el puño se te escapa entre los dedos como humo y desaparece dentro del antebrazo del chico.
-
-Apagas el ojo azul. El aire vuelve a pesar lo normal. La escarcha se derrite sobre las tuberías.
-
-El chico de pelo verde flota, inconsciente, en los brazos de la chica de mejillas redondas, que lo abraza del cuello, llorando, y no lo suelta.
-
-Detrás de ustedes, por encima del laberinto de tuberías, se escuchan pasos que corren sobre el acero. Muchos. Desde varios lados a la vez.
-
-La primera en aparecer, saltando desde una tubería alta, es una chica de piel rosada y cuernos amarillos. Se frena en seco al verte.
-
-—¡Uraraka! ¡¿Está bien Midoriya?! —Te mira a ti, con los ojos negros enormes—. ¡¿Y TÚ QUIÉN ERES?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1101 · BOKU NO HERO · DIC. · 11:14     ║
-║ U.A. · Campo Gamma                           ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1102)
+## COMANDO 1 (T1102)
 me llamo Facundo Morelli, soy el consultor de seguridad, le doy una semilla del ermitaño a midoriya
 
-## RESPUESTA 2 (T1102)
+## RESPUESTA 1 (T1102)
 
 > me llamo Facundo Morelli, soy el consultor de seguridad, le doy una semilla del ermitaño a midoriya
 
@@ -129,10 +66,10 @@ Aizawa mira al chico de pelo verde, entero. Te mira a ti.
 
 ---
 
-## COMANDO 3 (T1103)
+## COMANDO 2 (T1103)
 soy el nuevo consultor de seguridad de la ua
 
-## RESPUESTA 3 (T1103)
+## RESPUESTA 2 (T1103)
 
 > soy el nuevo consultor de seguridad de la ua
 
@@ -190,4 +127,61 @@ El chico de pelo verde, todavía flotando en brazos de la chica de mejillas redo
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:18, Campo Gamma. Aizawa suspendió el combate 5, mandó a Izuku y Shinso a la enfermería, le dio las gracias a Facundo y le pide volver a la sala de monitoreo para el informe. Izuku quiere hablar con él después. Facundo puede actuar.
+## COMANDO 3 (T1104)
+sí, después hablamos, voy con Aizawa a la sala
+
+## RESPUESTA 3 (T1104)
+
+> sí, después hablamos, voy con Aizawa a la sala
+
+> —Sí, después hablamos.
+
+El chico de pelo verde sonríe de oreja a oreja mientras Uraraka lo arrastra flotando hacia la salida, como un globo. Lo escuchas murmurar cosas a toda velocidad, para sí mismo, hasta que doblan detrás de una tubería.
+
+Caminas con Aizawa por el laberinto de acero, sobre la nieve sucia. Él no habla en todo el camino. Va con las manos en los bolsillos, mirando el suelo, arrastrando los pies. Cada tanto te mira de reojo.
+
+[11:28 · Sala de monitoreo del Campo Gamma.]
+
+All Might está sentado en la silla de Aizawa, encorvado, con las dos manos juntas sobre la boca. Se levanta de golpe cuando entran. Le tiemblan un poco las piernas.
+
+—Joven Morelli. —Se te acerca. Te agarra la mano con las dos suyas, huesudas, y la aprieta—. Gracias. —La voz le sale rota—. Ese chico es... es muy importante. Para mí. Para todos. Gracias.
+
+No te suelta enseguida.
+
+Aizawa se deja caer en la silla que dejó libre All Might. Se frota los ojos. Agarra el cartón de jugo que había quedado en la consola, lo sacude, comprueba que está vacío y lo deja otra vez.
+
+En una de las pantallas, la que estaba apagada, aparece la cara de Nezu, sonriente, con una taza de té en las patitas.
+
+—¡Qué mañana más entretenida! —dice desde la pantalla—. Lo vi todo. Primer día de trabajo y ya salvó a dos alumnos. Me encanta cuando mis cálculos salen bien.
+
+—Director —dice Aizawa, sin levantar la vista—. Le debo un informe.
+
+—Por supuesto, por supuesto.
+
+Aizawa gira la silla hacia ti. Apoya los codos en las rodillas. Te mira con los ojos rojos, cansados.
+
+—Sujetaste un Don de tipo emisión que ni el propio Midoriya podía controlar, con una mano. Lo aplastaste contra el suelo con algo que parecía gravedad, y que congelaba. Y después le diste a Midoriya algo de comer que en un segundo le curó todo. Raspones, golpes, el agotamiento del Don. —Hace una pausa—. Recovery Girl tarda una tarde en hacer eso. Y lo deja dormido dos días.
+
+Junta las manos.
+
+—Esa semilla —dice—. ¿Qué es?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1104 · BOKU NO HERO · DIC. · 11:28     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger a los alumnos             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:28, sala de monitoreo. All Might agradece emocionado. Nezu mira por pantalla. Aizawa pide el informe y pregunta qué es la semilla. Facundo puede responder.

@@ -1102,3 +1102,4 @@ T1100 · BnHA · Campo Gamma · Teletransporte; atrapa con la mano el látigo qu
 T1101 · BnHA · Campo Gamma · Ojo azul: gravedad sobre los látigos. Uraraka hace flotar a Izuku; Shinso lo lava; los látigos se retraen. Ashido: "¡¿Y TÚ QUIÉN ERES?!"
 T1102 · BnHA · Campo Gamma · "Soy el consultor de seguridad." Semilla a Izuku: curado, despierta. "Usted sujetó el Látigo Negro. ¿De qué agencia es?" Llegan Aizawa y Vlad King.
 T1103 · BnHA · Campo Gamma · "Soy el nuevo consultor de seguridad." Aizawa: "Desde hoy. Gracias." Combate 5 suspendido. Izuku: "¿Puedo hablar con usted después?"
+T1104 · BnHA · Sala de monitoreo · All Might: "Gracias. Ese chico es muy importante." Nezu: "Primer día y ya salvó a dos alumnos." Aizawa: "Esa semilla, ¿qué es?"

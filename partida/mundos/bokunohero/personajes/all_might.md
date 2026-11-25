@@ -5,10 +5,11 @@ PODER VISTO POR FACUNDO: ninguno (ya no tiene One For All)
 EDAD EN ESTE MOMENTO DEL CANON: adulto (~50)
 FÍSICO: Altísimo, flaco hasta los huesos, traje amarillo grande, mechones rubios, ojos hundidos con brillo azul.
 PERSONALIDAD Y FORMA DE HABLAR: Cálido, serio cuando importa; dice "joven" a los chicos.
-RELACIÓN CON FACUNDO: alivio, curiosidad, simpatía (T1093).
+RELACIÓN CON FACUNDO: gratitud profunda (salvó a Izuku, T1104).
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1104 · "Joven Morelli. Gracias. Ese chico es... muy importante. Para mí. Para todos. Gracias."
 - T1099 · "¡Midoriya! ¡Joven Midoriya!"
 - T1097 · "Desde hace quince minutos. Lo nombró el director."
 - T1095 · "Seguridad nueva. Desde el año pasado no entra nadie sin permiso." "El entrenamiento conjunto de primer año. Hoy no se aburren."
