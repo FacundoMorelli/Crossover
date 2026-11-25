@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1083)
-entro y me tomo algo con loki
-
-## RESPUESTA 1 (T1083)
-
-> entro y me tomo algo con loki
-
-Cruzas el portón.
-
-Los treinta aventureros se apartan, despacio, con las armas bajas pero sin guardarlas. Te miran pasar. Algunos miran al gato más que a ti. Gareth, en el último escalón, te sigue con los ojos debajo de las cejas espesas y no dice nada, pero sonríe apenas detrás de la barba, como si le gustara lo que ve.
-
-Loki te lleva adentro, caminando delante, canturreando.
-
-Pasillos de piedra con tapices, retratos, armas colgadas. Escaleras. Una puerta de madera tallada que da a una sala grande, con una chimenea encendida, sillones de cuero rojo, una mesa baja llena de botellas, vasos sucios y una bandeja de queso a medio comer. En la pared hay un tapiz enorme con el bufón sonriente.
-
-Finn y Riveria entran detrás. Finn cierra la puerta.
-
-Loki se tira en un sillón, con las piernas por encima del apoyabrazos. Agarra una botella de vidrio verde, la destapa con los dientes y sirve dos vasos hasta el borde. Te empuja uno por la mesa.
-
-—Vino de Soma. —Guiña un ojo—. Del bueno, del que no vuelve loco a nadie. Bueno, casi.
-
-Kase baja de tu hombro al sillón de al lado, olfatea el queso de la bandeja y se sienta a mirarlo con interés.
-
-Loki levanta su vaso. Bebe la mitad de un trago. Suspira de placer.
-
-Riveria se queda de pie junto a la chimenea, con el báculo apoyado en el piso. Finn se sienta en el sillón de enfrente, derecho, con las manos en las rodillas, sin tocar ningún vaso.
-
-—Bueno. —Loki deja el vaso en la mesa y te mira por encima del borde, con los ojos rojos entrecerrados—. Empecemos por lo fácil, guapo. No te siento nada de aura, nada de nada. A Bete le pasó lo mismo con el olor. Y yo, que soy una diosa, tampoco te huelo la Falna.
-
-Se inclina hacia adelante.
-
-—Y todos los que tienen esa fuerza en esta ciudad tienen una. —Sonríe, con todos los dientes—. Así que: ¿de qué Familia eres? ¿Quién es el dios que te bendijo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1083 · DANMACHI · NOCHE 2 · 00:52      ║
-║ Orario · Mansión del Crepúsculo, sala        ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sillón, mirando el queso         ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La Familia Loki                    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1084)
+## COMANDO 1 (T1084)
 de ninguna familia, soy un viajero
 
-## RESPUESTA 2 (T1084)
+## RESPUESTA 1 (T1084)
 
 > de ninguna familia, soy un viajero
 
@@ -107,10 +57,10 @@ Kase, en el sillón de al lado, aprovecha que nadie lo mira y se roba un pedazo 
 
 ---
 
-## COMANDO 3 (T1085)
+## COMANDO 2 (T1085)
 no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
 
-## RESPUESTA 3 (T1085)
+## RESPUESTA 2 (T1085)
 
 > no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
 
@@ -163,4 +113,60 @@ Loki deja el vaso a medio camino. Riveria no se mueve. Kase, con la boca llena d
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:57, sala de Loki. Facundo rechazó la Falna de Loki. Finn dará la búsqueda por terminada ante el Gremio, pero pregunta: si los monstruos vuelven a subir y alguien muere, ¿volverá por ellos o por la ciudad? Facundo puede responder.
+## COMANDO 3 (T1086)
+por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
+
+## RESPUESTA 3 (T1086)
+
+> por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
+
+> —Por ellos. Si los lastiman, voy a estar. Pero no lo van a hacer. Ninguno de ellos es malo, y son inteligentes.
+
+Nadie dice nada.
+
+Loki deja el vaso en la mesa sin tomar. Te mira con los ojos rojos abiertos del todo. No le hace falta decir "verdad". Se le nota en la cara.
+
+—Inteligentes —repite Finn, en voz baja.
+
+No lo dice como pregunta. Lo dice como alguien que acaba de escuchar en voz alta algo que ya sospechaba y no quería pensar.
+
+Riveria es la que habla.
+
+—En la Calle Dédalo, la noche del ataque —dice, despacio, mirando las llamas de la chimenea—, uno de ellos me habló. El lagarto rojo. Me pidió que no lastimara a la pequeña de la gema. Me lo pidió por favor. —Se le aprieta la mano en el báculo—. Le dije a Finn que debía haber sido un truco de los de Ikelos. Que una magia hacía hablar al monstruo.
+
+—Y Ais dudó —dice Finn—. Por primera vez desde que la conozco, Ais dudó frente a un monstruo.
+
+Se queda callado.
+
+Después se pone de pie. Se acomoda la lanza en la espalda.
+
+—No voy a cambiar de idea esta noche, Facundo Morelli. Ni por ti, ni por nadie. Hay cosas que pasaron en esta ciudad, hace años, por culpa de los monstruos, que no se olvidan. —Te mira—. Pero voy a pensarlo. Eso sí te lo prometo.
+
+Te tiende la mano. Una mano chica, firme, con la cicatriz vieja.
+
+Loki se ríe bajito desde el sillón, con la cabeza apoyada en el respaldo.
+
+—Ay, mira eso. Mi capitán dándole la mano a un desconocido sin Falna a la una de la mañana. —Sacude la cabeza—. Me lo vas a convertir en un sentimental, guapo.
+
+Agarra la botella verde y se sirve el último resto.
+
+—Bueno. —Te mira por encima del vaso, con una sonrisa chueca—. Ahora que ya nos rompiste el corazón y nos dejaste pensando a todos... ¿adónde vas a ir, viajero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1086 · DANMACHI · NOCHE 2 · 00:59      ║
+║ Orario · Mansión del Crepúsculo, sala        ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sillón                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:59, sala de Loki. Facundo dijo que volvería por los Xenos y que no son malos. Riveria recuerda que Lido le habló; Finn promete pensarlo y le tiende la mano. Loki pregunta adónde va a ir. Facundo puede actuar.

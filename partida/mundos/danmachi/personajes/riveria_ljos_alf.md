@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1080 · Noche 2 00:45 · Mansión del Crepúsculo: Facundo aparece en el portón.
 DIÁLOGOS CLAVE:
+- T1086 · "Uno de ellos me habló. El lagarto rojo. Me pidió que no lastimara a la pequeña de la gema. Por favor. Le dije a Finn que debía haber sido un truco."
 - T1084 · "Eso es imposible. Sin Falna, un humano no puede ni levantar la espada de un aventurero de Nivel dos. Y tú tiraste a Bete."
 - T1082 · "Si de verdad volvieron a la Mazmorra, la ciudad está a salvo. Se terminó. Eso era lo que queríamos."
 QUÉ SABE DE FACUNDO: la descripción de Bete; lo ve en persona (T1080).
