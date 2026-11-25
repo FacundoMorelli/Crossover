@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1246)
-asi que el presidente de la asociacion que caza ghouls es un ghoul, esta bien, puedo sacarte el hambre a ti y a tu familia, ya sabe mis condiciones
-
-## RESPUESTA 1 (T1246)
-
-> —Así que el presidente de la asociación que caza ghouls es un ghoul. Está bien. Puedo sacarte el hambre a ti y a tu familia. Ya sabes mis condiciones.
-
-Tsuneyoshi se ríe. Bajito, de verdad, con los hombros.
-
-—Un ghoul no, Morelli-kun. Ni siquiera eso. —Mueve una mano huesuda en el aire, como espantando una mosca—. Algo a mitad de camino. Los ghouls nos desprecian. Los humanos no saben que existimos. Y nosotros cazamos a unos para esconderles a los otros lo que somos. —La sonrisa no se le va, pero se le pone vieja—. Un negocio familiar muy antiguo. Muy cansador.
-
-Toma la taza. No bebe. La sostiene entre las manos, mirando el té.
-
-—Sus condiciones. —Asiente despacio—. Que dejen ir a todos. Que la operación termine. —Levanta la vista—. Le doy más que eso.
-
-Deja la taza sobre la mesa.
-
-—El café del Distrito 20 sale de todas nuestras listas. Hoy. El Búho también, con el nombre que tenga. Los que estaban en ese café anoche, todos, sin excepción, dejan de existir para la Comisión. Mi hijo se encarga personalmente. —Una pausa breve—. Y mientras yo viva, ningún investigador vuelve a cruzar la puerta de ese lugar con una quinque en la mano.
-
-Junta las manos sobre las rodillas.
-
-—Yo también tengo una condición. Una sola. —La voz se le vuelve muy suave—. Lo que se habló en esta habitación no sale de esta habitación. Nadie fuera de esta casa sabe lo que somos. Ni ese café. Ni el Búho. Ni Shinohara-kun, que es un buen hombre y no merece cargar con esto.
-
-Te sostiene la mirada.
-
-—Hay gente en esta ciudad, Morelli-kun, a la que no le conviene nada que los ghouls dejen de tener hambre. Gente con la que mi familia hizo tratos hace mucho tiempo. Si se enteran de lo que usted puede hacer antes de que yo esté listo... —No termina.
-
-Se inclina hacia adelante, despacio, sobre la mesa. Baja la cabeza, hasta que la frente casi toca la madera, ofreciéndote la coronilla blanca y escasa.
-
-—Empiece por mí, por favor. Después llamo a los demás.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1246 · TOKYO GHOUL · DÍA 7 · 10:04     ║
-║ Distrito 1 · casa Washuu, sala de tatami     ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: hablar con Tsuneyoshi              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1247)
+## COMANDO 1 (T1247)
 esta bien, lo acepto, me acerco le toco y hago lo mismo de siempre
 
-## RESPUESTA 2 (T1247)
+## RESPUESTA 1 (T1247)
 
 > —Está bien. Lo acepto.
 
@@ -115,10 +66,10 @@ Hace una reverencia hasta tocar la madera del pasillo con la frente. Y se queda 
 
 ---
 
-## COMANDO 3 (T1248)
+## COMANDO 2 (T1248)
 simula hasta que termino con todos
 
-## RESPUESTA 3 (T1248)
+## RESPUESTA 2 (T1248)
 
 > simula hasta que termino con todos
 
@@ -184,7 +135,52 @@ Se toca el borde de los lentes con un dedo, una sola vez.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1249)
+puedo probarlo
+
+## RESPUESTA 3 (T1249)
+
+> —Puedo probarlo.
+
+Arima no contesta enseguida.
+
+Mira el libro que tiene en la mano. Lo da vuelta. Pasa el pulgar por el lomo gastado, como si estuviera despidiéndose de algo. Después lo deja sobre la madera de la galería, al lado del maletín plateado, con cuidado, bien alineado con el borde.
+
+Se quita los lentes.
+
+Sin ellos, la cara es más joven de lo que parecía. Y los ojos son distintos. No del todo: hay que mirarlos de cerca. El color es gris claro, pero en el borde del iris, en los dos, hay un anillo blanquecino, lechoso, como la escarcha en el borde de un vidrio. Cuando mueve la vista hacia ti, tarda un instante de más en enfocar.
+
+—El derecho ya casi no ve de noche —dice, como quien da un informe—. El izquierdo, desde el año pasado, tampoco con poca luz. Los médicos del Jardín dicen que me quedan entre cinco y ocho años. Ninguno de los que crecieron conmigo pasó de los treinta y siete.
+
+Dobla los lentes. Los guarda en el bolsillo del saco, junto al lugar donde antes estaba el libro.
+
+Después se sienta en el borde de la galería, con los pies sobre la grava, de cara al estanque. Se queda quieto, con las manos apoyadas en las rodillas y la espalda recta, como un alumno que espera a que le tomen una prueba.
+
+—Nunca le pedí nada a nadie —dice, mirando los peces—. No sé cómo se hace.
+
+Inclina un poco la cabeza hacia ti, sin darse vuelta. Te ofrece la nuca.
+
+—Pruébalo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1249 · TOKYO GHOUL · DÍA 7 · 16:43     ║
+║ Distrito 1 · casa Washuu, galería            ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: dormido junto a la ventana             ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 16:41, galería de la casa Washuu. 14 Washuu transfigurados, el hijo de Yoshitoki se negó. Arima cuenta que viene de un lugar donde los crían para servir y mueren antes de los 40, y pregunta si eso también se puede sacar. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 16:43, galería de la casa Washuu. Arima, sin lentes, sentado de cara al estanque, ofrece la nuca: "Pruébalo." Facundo puede actuar.

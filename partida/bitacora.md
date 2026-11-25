@@ -1247,3 +1247,4 @@ T1245 · TG · Casa Washuu · Tasación: sin datos, oculta su naturaleza. Tsuney
 T1246 · TG · Casa Washuu · Trato: Anteiku y todos fuera de las listas; secreto de los Washuu. Tsuneyoshi inclina la cabeza: "Empiece por mí."
 T1247 · TG · Casa Washuu · Transfigura a Tsuneyoshi (cadena de anzuelos). Come un manjū: "Nunca supe que era dulce." Kaori: "Yo también soy de esta casa."
 T1248 · TG · Casa Washuu (simulación) · 14 Washuu transfigurados; el hijo de Yoshitoki se niega. Arima: "Lo que yo tengo no es hambre. ¿Eso también se puede sacar?"
+T1249 · TG · Casa Washuu · "Puedo probarlo." Arima se saca los lentes (ojos con anillo lechoso; 5-8 años de vida). "Pruébalo."
