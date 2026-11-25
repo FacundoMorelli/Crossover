@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1146)
-agarro el latigo, tranquilo midoriya, tienes que controlarte mas, tampoco tienes que asustarte
-
-## RESPUESTA 1 (T1146)
-
-> agarro el látigo
-
-Estiras la mano y la cinta negra se detiene en seco, a medio metro de la cabeza de Kase, atrapada en tu puño.
-
-Tira. Fuerte, como un animal que quiere soltarse. La sientes vibrar en la palma, caliente, viva, con un pulso propio que no es el de Izuku.
-
-Kase ni se movió. Bosteza.
-
-> —Tranquilo, Midoriya. Tienes que controlarte más. Tampoco tienes que asustarte.
-
-Izuku te mira. Mira la cinta en tu mano. Traga saliva.
-
-—Tranquilo —repite, con la voz temblorosa—. No asustarme.
-
-Cierra los ojos otra vez. Respira. Una vez, larga. Otra.
-
-Las otras siete cintas siguen azotando el aire alrededor de él, pero más lento. Una suelta el poste de luz doblado. Otra se queda colgando, floja, como una cuerda mojada. Después otra. Se van recogiendo hacia sus brazos, de a una, como si alguien tirara despacio de ellas desde adentro.
-
-La que tienes en la mano es la última. Sigue tirando. Pero cada vez menos.
-
-—Esa... esa es la que salió cuando me asusté —murmura Izuku, sin abrir los ojos—. La siento. Está... enojada. No, no enojada. Está asustada. Como yo.
-
-Se le arruga la frente.
-
-—Si yo me calmo, ella se calma.
-
-Respira otra vez.
-
-La cinta en tu puño deja de tirar. Se afloja. Durante un segundo se queda quieta, negra, tibia, apoyada en tu palma como una cuerda cualquiera.
-
-Y después, despacio, por primera vez, se mueve porque Izuku la mueve. Se enrosca una vez alrededor de tu muñeca, suave, sin apretar, y se suelta. Vuelve hacia él por el aire, ondulando, y se mete en la venda de su muñeca.
-
-Izuku abre los ojos.
-
-Se mira la mano. Le tiembla.
-
-—Lo hice —susurra—. ¿Lo hice? Lo moví yo. Esa última la moví yo.
-
-Te mira, con los ojos llenos de lágrimas, sonriendo de oreja a oreja.
-
-—¿Otra vez? ¿Lo puedo intentar otra vez?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1146 · BOKU NO HERO · DIC. (+4 días)   ║
-║ · 07:08                                      ║
-║ U.A. · campo de entrenamiento, edificio de   ║
-║ profesores                                   ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el banco                            ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ MISIÓN DE COPIA: One For All (en curso)      ║
-║ OBJETIVO: Entrenar a Izuku                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1147)
+## COMANDO 1 (T1147)
 simula unos dias y despues me voy al nuevo mundo
 
-## RESPUESTA 2 (T1147)
+## RESPUESTA 1 (T1147)
 
 > simulo unos días y después me voy al mundo nuevo
 
@@ -204,10 +137,10 @@ Allá abajo, la presencia humana que se apaga deja de luchar.
 
 ---
 
-## COMANDO 3 (T1148)
+## COMANDO 2 (T1148)
 me teletransporto a donde estaba la otra presencia
 
-## RESPUESTA 3 (T1148)
+## RESPUESTA 2 (T1148)
 
 > me teletransporto a donde estaba la otra presencia
 
@@ -263,4 +196,67 @@ A lo lejos, por el pasillo que se abre a tu derecha, sientes que alguien viene c
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:41, laboratorio bajo la mansión. Kaneki (medio kakuja) gira los tentáculos hacia Facundo; Shinohara moribundo. Amon llega corriendo por el pasillo. Facundo puede actuar.
+## COMANDO 3 (T1149)
+como te llamas niño
+
+## RESPUESTA 3 (T1149)
+
+> —¿Cómo te llamas, niño?
+
+Los tentáculos se detienen.
+
+Las cuatro puntas rojas quedan suspendidas en el aire, a un metro de tu cara, temblando.
+
+El muchacho parpadea. El ojo gris, el normal, se le enfoca de golpe en ti, como si recién ahora te viera. Lo sacude algo. Un escalofrío que le recorre la espalda y le hace crujir las placas del ciempiés.
+
+—¿...Cómo me llamo? —repite.
+
+Mira el cuerpo que tiene debajo. La sangre en sus manos. Se lleva una mano negra a la boca, temblando, y se toca los labios. Se mira los dedos, rojos.
+
+—Me llamo... —La voz le sale chiquita, de otro lado, como la de alguien que no habló en mucho tiempo—. Ka...
+
+Se le traba.
+
+—Kaneki. Ken. Kaneki Ken. —Lo dice dos veces, como si se lo recordara a sí mismo—. Soy Kaneki. Soy...
+
+Los tentáculos bajan unos centímetros. Uno se afloja del todo y cae al piso, flojo, como una cuerda.
+
+Y entonces el pasillo de la derecha estalla en luz.
+
+Un hombre entra corriendo. Enorme, de hombros anchos, con el pelo negro peinado hacia atrás y un abrigo blanco largo manchado de polvo y de sangre. Lleva en la mano una maza metálica gigante, tan grande como él, con una cabeza de metal ondulante que se mueve sola, viva, como si respirara. Tiene la cara cortada y un ojo hinchado.
+
+Ve al hombre de la armadura en el piso.
+
+—¡SEÑOR SHINOHARA!
+
+Después ve al muchacho de pelo blanco encima de él, con la boca roja.
+
+Y después te ve a ti, parado a dos metros, con un gato en el hombro, ropa común, sin armas, sin abrigo blanco.
+
+Se le transforma la cara.
+
+—¡Usted! ¡Aléjese de ahí! —ruge, levantando la maza por encima de la cabeza—. ¡Es un ghoul! ¡ALÉJESE!
+
+El muchacho, Kaneki, se da vuelta hacia el grito. El ojo rojo se le enciende otra vez. Los tres tentáculos que quedaban en el aire se le tensan como resortes, y las placas del ciempiés le trepan otro poco por la mejilla.
+
+El de la maza ya está corriendo hacia él.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1149 · TOKYO GHOUL · NOCHE · 23:41     ║
+║ Mansión · laboratorio subterráneo            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:41, laboratorio. Kaneki dijo su nombre y se calmaba, pero el hombre de la maza (Amon) llegó gritando y carga contra él. Shinohara moribundo. Facundo puede actuar.

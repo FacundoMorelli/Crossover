@@ -1,4 +1,4 @@
-NOMBRE: (desconocido) Hombre de la armadura negra y blanca — [Yukinori Shinohara]
+NOMBRE: Shinohara (el hombre de la armadura; nombre gritado por el de la maza, T1149)
 AFILIACIÓN: CCG (por el contexto)
 RANGO: —
 PODER VISTO POR FACUNDO: Armadura segmentada negra y blanca (rota).

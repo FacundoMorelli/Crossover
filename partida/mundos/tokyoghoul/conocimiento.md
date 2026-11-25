@@ -7,3 +7,5 @@
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 - Muchacho de pelo blanco · T1148 · vio (u olió) a Facundo aparecer a su lado con un gato.
+- Facundo · T1149 · el muchacho se llama Ken Kaneki (él mismo). El hombre de la armadura: "señor Shinohara" (gritado por el de la maza). Palabra "ghoul" (el de la maza).
+- Hombre de la maza · T1149 · vio a Facundo, civil aparente con un gato, junto al ghoul y Shinohara.
