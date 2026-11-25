@@ -116,3 +116,4 @@
 - Shinohara, Houji, Kuroiwa · T1221 · vieron a Facundo de pie junto al Búho, en medio de los investigadores caídos. Shinohara lo reconoce.
 - Houji, Kuroiwa · T1222 · por Shinohara: Facundo le salvó la vida en la mansión de Kanou. Houji deduce: está con el Búho.
 - Shinohara, Houji, Kuroiwa, Koma, Apes, Kaneki, Touka, Yoshimura · T1223 · Facundo se negó a apartarse: "nadie está limpio".
+- Houji, Shinohara, Kuroiwa, Kaneki, Touka, Yoshimura, Koma · T1224 · vieron a Facundo detener con la palma la quinque de Houji (kakuhou de rango S) sin un rasguño y quitársela.

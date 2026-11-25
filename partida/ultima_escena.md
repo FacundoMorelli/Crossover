@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1221)
-le doy una semilla del ermitaño a koma
-
-## RESPUESTA 1 (T1221)
-
-> le doy una semilla del ermitaño a Koma
-
-Te agachas junto a Koma y le pones en la boca un grano chico, verde, del tamaño de un poroto.
-
-—¿Qué...? —alcanza a decir, con la boca llena de sangre.
-
-Lo mastica por reflejo. Traga.
-
-Y se le arquea el cuerpo entero sobre el asfalto, como si le hubieran pasado corriente.
-
-La pierna rota se endereza sola con un crujido seco que hace que Touka mire para otro lado. El corte de la cabeza se cierra de una punta a la otra, como un cierre que alguien sube. Los pedazos de kagune que estaban desparramados por el piso se deshacen en polvo rojo, y de la espalda de Koma brota uno nuevo, entero, que se sacude en el aire como un perro que sale del agua.
-
-Koma se sienta de golpe. Se mira la pierna. La mueve. Se toca la cabeza. Se mira la mano llena de sangre seca, y la cabeza ya no sangra.
-
-—¿Qué carajo...? —Se levanta de un salto, se tambalea, se agarra de tu hombro sin pensar, y se queda parado, entero, con la máscara de mono partida colgándole de la oreja—. ¡Panadero! ¿Qué me diste? ¡Me siento como a los veinte años!
-
-Kase, en tu otro hombro, le mira la mano apoyada con profundo desagrado.
-
-Koma se da vuelta hacia el portal donde están sus Apes heridos, cuatro o cinco, apiñados, mirándolo con la boca abierta. Levanta los dos brazos.
-
-—¡Estoy vivo, idiotas! ¡Estoy vivo!
-
-No le contesta nadie, porque en ese momento llegan.
-
-Tres figuras saltan desde el techo de un edificio al fondo de la avenida y caen sobre el asfalto, en fila, a cuarenta metros. El impacto levanta polvo.
-
-A la izquierda, un hombre de pelo rapado y anteojos de marco fino, con una quinque larga y curva como una hoja de guadaña, y la cara completamente inexpresiva. A la derecha, un hombre enorme, metido en una armadura negra y segmentada que le cubre todo el cuerpo, con el casco cerrado. En el medio, otro hombre con la misma armadura, blanca y negra, el casco bajo el brazo.
-
-Shinohara.
-
-Mira la avenida. Los veintiséis investigadores tirados en el suelo, dormidos. La máquina de Tanakamaru hecha chatarra contra la camioneta. Tanakamaru inconsciente en la vereda.
-
-Mira al Búho, enorme y encorvado en medio de la calle.
-
-Y te mira a ti, parado al lado del Búho, con un gato en el hombro.
-
-Se le borra la cara. No es enojo. Es algo peor: es un hombre al que se le cae algo que acababa de construir.
-
-El de los anteojos levanta la quinque curva, sin una palabra, apuntando al Búho. El de la armadura negra da un paso adelante. El asfalto cruje bajo su peso.
-
-Shinohara no se mueve. Sigue mirándote.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1221 · TOKYO GHOUL · DÍA 6 · 17:48     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1222)
+## COMANDO 1 (T1222)
 no me malentiendas shinohara, no vine aqui a matar a nadie
 
-## RESPUESTA 2 (T1222)
+## RESPUESTA 1 (T1222)
 
 > —No me malentiendas, Shinohara. No vine aquí a matar a nadie.
 
@@ -123,10 +58,10 @@ Detrás de ti, el Búho no se mueve. No dice nada. Kaneki da un paso hacia él, 
 
 ---
 
-## COMANDO 3 (T1223)
+## COMANDO 2 (T1223)
 no puedo, por que asi como el mato a investigadores, ustedes tambien mataron ghouls compañeros, aca nadie esta limpio de nada, no hay que tirar la piedra y esconder la mano
 
-## RESPUESTA 3 (T1223)
+## RESPUESTA 2 (T1223)
 
 > —No puedo. Porque así como él mató a investigadores, ustedes también mataron a ghouls que eran compañeros de alguien. Aquí nadie está limpio de nada. No se puede tirar la piedra y esconder la mano.
 
@@ -170,7 +105,62 @@ La hoja de Houji está a tres metros del cuello del Búho.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1224)
+lo detengo con la mano
+
+## RESPUESTA 3 (T1224)
+
+> lo detengo con la mano
+
+Llegas antes que la hoja.
+
+No te ven moverte. Un instante estás junto a Koma, y al siguiente estás de pie entre Houji y el Búho, con la mano derecha abierta y levantada a la altura del hombro.
+
+La hoja curva cae sobre tu palma.
+
+Se detiene.
+
+No hay chispas. No hay sangre. Solo un sonido seco, corto, como el de una rama que choca contra una piedra. El filo queda apoyado sobre tu piel sin cortarla, y el impulso entero de Houji —el salto, el giro, todo el peso del cuerpo— se muere ahí, en tu mano, como si hubiera chocado contra una pared de diez metros de concreto.
+
+Cierras los dedos sobre la hoja.
+
+Houji queda colgado del mango, a medio metro del suelo, con los pies todavía en el aire, por un segundo que se hace muy largo. Después cae parado. Tira de la quinque una vez, con fuerza. No se mueve ni un milímetro. Tira de nuevo, con las dos manos. Nada.
+
+Detrás de ti, el Búho baja despacio los brazos larguísimos. Kaneki se quedó a dos metros, con los cuatro tentáculos levantados en el aire, sin saber qué hacer con ellos. Touka tiene la boca abierta.
+
+Kase, en tu hombro, mira a Houji de muy cerca, a la altura de los anteojos, sin pestañear.
+
+Al fondo de la avenida, Shinohara dio dos pasos hacia adelante y se quedó clavado. El de la armadura negra no se movió.
+
+Houji suelta el mango.
+
+Da un paso atrás. Se acomoda los anteojos con un dedo. La cara sigue siendo la misma, inexpresiva, plana como una pared. Pero debajo del ojo izquierdo, en la mejilla, le late un músculo que antes no se movía.
+
+—Esa quinque —dice, en el mismo tono con el que hablaría del clima— está hecha del kakuhou de un ghoul de rango S. Cortó acero. Cortó kakuja.
+
+Te mira la mano, todavía cerrada sobre la hoja. No tiene ni un rasguño.
+
+—¿Qué eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1224 · TOKYO GHOUL · DÍA 6 · 17:49     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 77                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:49, avenida 3. Houji se lanza al cuello del Búho; la hoja está a tres metros. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:49, avenida 3. Facundo detuvo la quinque de Houji con la palma y la tiene en la mano. Houji pregunta "¿Qué eres?". Facundo puede responder.

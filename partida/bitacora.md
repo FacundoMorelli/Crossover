@@ -1222,3 +1222,4 @@ T1220 · TG · Avenida 3 · Haki del Rey: 26 investigadores inconscientes (+46 F
 T1221 · TG · Avenida 3 · Semilla a Koma (quedan 77). Llegan Houji, Kuroiwa y Shinohara. Shinohara ve a Facundo junto al Búho.
 T1222 · TG · Avenida 3 · "No vine a matar a nadie." Shinohara le cree, pero: "Apártate. El Búho se queda."
 T1223 · TG · Avenida 3 · "Nadie está limpio." Houji ataca al Búho; la hoja a tres metros del cuello.
+T1224 · TG · Avenida 3 · Detiene la quinque de Houji con la mano y se la queda. Houji: "¿Qué eres?"
