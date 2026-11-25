@@ -10,9 +10,10 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1151 · "Está vivo. No lo maté."
 - T1150 · "No... no quería. No quería..."
 - T1149 · "¿Cómo me llamo? Kaneki. Ken. Kaneki Ken. Soy Kaneki."
 - T1148 · "No. Uno más no. No quiero... no quiero comer más..."
 QUÉ SABE DE FACUNDO: Nada. Le preguntó su nombre (T1149).
-QUÉ PODERES VIO: La aparición.
-ESTADO: Se levantó de encima de Shinohara y retrocede, tentáculos arrastrándose (T1150).
+QUÉ PODERES VIO: La aparición; la curación de Shinohara (T1151).
+ESTADO: Sentado contra la pared, sin kagune ni kakuja, llorando (T1151).

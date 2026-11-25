@@ -1149,3 +1149,4 @@ T1147 · BnHA → Tokyo Ghoul · 6 días entrenando a Izuku: domina el Látigo N
 T1148 · TG · Laboratorio · Aparece junto al muchacho de pelo blanco que se come al hombre de la armadura. Los tentáculos giran hacia él. Alguien llega por el pasillo.
 T1149 · TG · Laboratorio · "¿Cómo te llamas?" "Kaneki Ken." Llega el de la maza: "¡Señor Shinohara! ¡Aléjese, es un ghoul!" Carga.
 T1150 · TG · Laboratorio · "Quédense ahí. ¿Dónde estoy?" Amon frena y explica; pide que salga. Kaneki retrocede. Shinohara se desangra.
+T1151 · TG · Laboratorio · Semilla y Transfiguración Ociosa a Shinohara: curado, despierto. Kaneki: "No lo maté." Shinohara: "¿Quién demonios es este?"

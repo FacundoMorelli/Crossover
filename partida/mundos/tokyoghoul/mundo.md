@@ -6,3 +6,4 @@ DON DE MUNDO: Kagune de Ceniza (ver sistema.json).
 MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operación de Exterminio del Búho.
 
 ## CAMBIOS POR CULPA DE FACUNDO
+- T1151 · Shinohara curado y despierto (en el canon quedaba en estado vegetativo).

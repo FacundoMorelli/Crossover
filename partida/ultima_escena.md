@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1148)
-me teletransporto a donde estaba la otra presencia
-
-## RESPUESTA 1 (T1148)
-
-> me teletransporto a donde estaba la otra presencia
-
-El viento del acantilado desaparece.
-
-Olor a sangre. Mucha. Fresca, caliente, mezclada con polvo de concreto, con aceite quemado y con algo dulce y podrido que se te pega al fondo de la garganta.
-
-Estás en una sala subterránea enorme, de techo alto, a medio derrumbar. Las paredes de concreto están agrietadas de arriba abajo, con agujeros del tamaño de una persona. Hay luces de emergencia rojas que parpadean en el techo y tubos de vidrio rotos por todo el piso, con un líquido verde que se escurre hacia los desagües. Una de las lámparas cuelga de un cable y se balancea, y la sombra de todo lo que hay en la sala va y viene con ella.
-
-En el medio, sobre los escombros, hay un hombre tirado de espaldas.
-
-Es grande, de unos cuarenta y tantos años, de pelo corto y oscuro. Lleva puesta una armadura negra y blanca, pesada, con placas segmentadas, como el caparazón de un insecto. La armadura está rota. Tiene un agujero en el costado del abdomen, de lado a lado, por donde le sale sangre a borbotones. Los ojos están abiertos, mirando el techo sin ver. El pecho sube y baja apenas. Muy apenas.
-
-Y encima de él, agachado, hay un muchacho.
-
-Flaco, de unos veinte años, con el pelo completamente blanco. Ropa negra, ajustada, destrozada. Las uñas de las manos, negras. Tiene la boca hundida en el hombro del hombre de la armadura, en una parte donde las placas se rompieron, y está masticando.
-
-De la parte baja de la espalda le salen cuatro tentáculos rojos, gruesos, brillantes, como músculos sin piel, que se retuercen en el aire. Uno de ellos se le enrosca alrededor del cuerpo y del brazo derecho, y sobre ese, por encima del hombro y media cara, tiene algo más: una especie de armadura roja oscura, segmentada, con patitas, como si un ciempiés gigante se le hubiera fundido a la carne.
-
-Llora. Mientras mastica, le caen lágrimas.
-
-Kase se te pega al cuello. Se le eriza todo el lomo. No bufa. Se queda quieto.
-
-El muchacho levanta la cabeza.
-
-Tiene la boca y la barbilla bañadas en sangre. Uno de sus ojos es normal, gris, lleno de lágrimas. El otro es negro, todo negro, con el iris rojo encendido como una brasa. Y de ese lado de la cara, las placas del ciempiés se mueven solas, crujiendo.
-
-Te mira. No parece verte del todo. Te huele.
-
-Los cuatro tentáculos se detienen en el aire. Después, despacio, las puntas giran hacia ti.
-
-—...No —dice, con la voz rota—. No. Uno más no. No quiero... no quiero comer más...
-
-Pero los tentáculos siguen girando.
-
-A lo lejos, por el pasillo que se abre a tu derecha, sientes que alguien viene corriendo. Una presencia humana, grande, pesada, desesperada, con algo frío y metálico en la mano que vibra con una vida que no es suya.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1148 · TOKYO GHOUL · NOCHE · 23:41     ║
-║ Mansión · laboratorio subterráneo            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello, erizado                  ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1149)
+## COMANDO 1 (T1149)
 como te llamas niño
 
-## RESPUESTA 2 (T1149)
+## RESPUESTA 1 (T1149)
 
 > —¿Cómo te llamas, niño?
 
@@ -125,10 +66,10 @@ El de la maza ya está corriendo hacia él.
 
 ---
 
-## COMANDO 3 (T1150)
+## COMANDO 2 (T1150)
 quedense ahi, los dos. lo digo tranquilo, me pueden explicar donde estoy?
 
-## RESPUESTA 3 (T1150)
+## RESPUESTA 2 (T1150)
 
 > —Quédense ahí, los dos.
 
@@ -184,4 +125,64 @@ En el piso, el hombre de la armadura respira una vez más. Un silbido corto, moj
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:42, laboratorio. Amon se detuvo y le explicó dónde está; le pide que salga. Kaneki retrocede de Shinohara. Shinohara se desangra. Facundo puede actuar.
+## COMANDO 3 (T1151)
+bueno es facil entonces, me acerco a shinohara y le doy una semilla del ermitaño y uso la tecnica de mahito
+
+## RESPUESTA 3 (T1151)
+
+> —Bueno, es fácil entonces.
+
+Te acercas al hombre de la armadura. Pisas el charco. Te arrodillas a su lado.
+
+—¡Oiga! —grita Amon—. ¡No lo toque! ¡Está...!
+
+Sacas una semilla del ermitaño. Le abres la boca con dos dedos, se la pones entre los dientes y le cierras la mandíbula. Mastica sola, por reflejo, una vez. Traga.
+
+Después le apoyas la palma abierta sobre el pecho, sobre las placas rotas de la armadura, y tocas lo que hay debajo. No la carne. Lo otro. La forma de lo que él es.
+
+Transfiguración Ociosa.
+
+El agujero del abdomen se cierra. No como una herida que cicatriza, sino como algo que se rehace desde adentro: el músculo vuelve a su lugar, las costillas se enderezan con un crujido seco, la piel se junta sobre todo eso y queda lisa, sin marca. La mordida del hombro se llena. La sangre deja de salir. El pecho, que apenas se movía, se levanta de golpe, lleno de aire, una vez, enorme.
+
+Y los ojos, que miraban el techo sin ver, parpadean.
+
+El hombre de la armadura tose. Se le arquea la espalda sobre los escombros. Tose otra vez, se lleva una mano al costado, al agujero que ya no está, y se toca la piel entera a través de la armadura rota.
+
+—...¿Qué...? —dice, con la voz pastosa.
+
+Amon tiene la maza a medio camino entre arriba y abajo. No se mueve. Tiene la boca abierta.
+
+Kaneki, a cuatro metros, contra la pared, se ha quedado inmóvil. Mira al hombre que estaba comiendo. Lo mira respirar. Los tentáculos se le aflojan los tres de golpe y caen al piso. Las placas del ciempiés empiezan a desprenderse de su cara, una por una, y se deshacen en polvo rojo antes de tocar el suelo.
+
+Se le doblan las rodillas. Se sienta contra la pared, despacio, con la espalda en el concreto.
+
+—Está vivo —susurra—. No lo maté.
+
+Se tapa la cara con las dos manos negras y empieza a llorar, bajito.
+
+El hombre de la armadura gira la cabeza en el piso. Te ve, arrodillado a su lado. Ve a Amon. Y después ve, contra la pared, al muchacho de pelo blanco con la boca manchada de su sangre.
+
+Se le tensa el cuerpo entero.
+
+—Amon —dice, sin apartar los ojos de Kaneki, y la mano derecha se le va sola al costado, buscando algo en el cinturón que ya no está—. ¿Cuánto tiempo estuve fuera? ¿Y quién demonios es este?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1151 · TOKYO GHOUL · NOCHE · 23:43     ║
+║ Mansión · laboratorio subterráneo            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:43, laboratorio. Shinohara curado y despierto, tenso hacia Kaneki. Kaneki sin kagune, llorando contra la pared. Amon paralizado. Shinohara pregunta quién es Facundo. Facundo puede actuar.
