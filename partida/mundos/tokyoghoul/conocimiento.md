@@ -190,3 +190,5 @@
 - Touka · T1264 · deducción (por la cara de Facundo): lo encontró.
 - Yoshimura · T1265 · vio irse a Facundo y Touka (a buscar a Ayato, lo oyó antes).
 - Ayato · T1265 · vio aparecer de la nada a Touka con un desconocido y un gato en la azotea.
+- Ayato · T1266 · por Touka: Facundo le quitó el hambre con la mano y puede volverla humana. Vio a Touka comer pan.
+- Facundo · T1266 · por Ayato: algo le hicieron (humanos) a su papá.

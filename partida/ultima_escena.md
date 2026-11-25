@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1263)
-decime como es tu hermano asi lo busco
-
-## RESPUESTA 1 (T1263)
-
-> —Dime cómo es tu hermano, así lo busco.
-
-Touka se queda quieta un segundo. Después mete la mano en el bolsillo trasero del pantalón y saca una billetera chica, de tela gastada, con un dibujo de conejo casi borrado. La abre. Del bolsillito de adentro, de atrás de una tarjeta de la escuela, saca una foto doblada en dos.
-
-La desdobla con cuidado. Te la da.
-
-Es vieja. Los colores están lavados, como si la hubieran tenido al sol mucho tiempo. Dos chicos sentados en un escalón de madera, en lo que parece la entrada de una casa chica. Una nena de unos ocho años, con el pelo negro corto y un flequillo torcido, frunciendo el ceño a la cámara. Al lado, un nene más chico, de seis, con el mismo pelo negro, la misma cara, abrazado a una pierna de ella. Él sí sonríe. Le faltan dos dientes.
-
-—Ese es Ayato —dice Touka. Mira la foto desde arriba, sin tocarla—. Ahora tiene quince. Es más alto que yo, el muy idiota. El pelo igual de negro, un poco más largo. Los ojos más oscuros que los míos. Siempre tiene cara de que alguien le debe plata.
-
-Se cruza de brazos.
-
-—Tiene el kagune igual que yo. Ukaku. Alas. Dos, él, no una. —Aprieta la boca—. Y usa una máscara negra, con orejas de conejo. Como la mía. La copió.
-
-Se queda mirando la foto un rato más. Después mira para otro lado.
-
-—La última vez estaba en el Distrito 11, cuando atacaron Aogiri. Después de eso, nadie sabe. Dicen que se movieron. —Traga saliva—. Si sientes a alguien con mi... con mi olor, pero más enojado, es él.
-
-Se le escapa un resoplido que casi es una risa.
-
-Después te mira de reojo.
-
-—Y quiero ir contigo. —Lo dice rápido, antes de arrepentirse—. Cuando lo encuentres. No me dejes atrás como hiciste ayer.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1263 · TOKYO GHOUL · DÍA 7 · 21:08     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: buscar a Ayato Kirishima           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1264)
+## COMANDO 1 (T1264)
 lo busco con el ki
 
-## RESPUESTA 2 (T1264)
+## RESPUESTA 1 (T1264)
 
 > lo busco con el ki
 
@@ -105,10 +59,10 @@ Se le descruzan los brazos solos.
 
 ---
 
-## COMANDO 3 (T1265)
+## COMANDO 2 (T1265)
 vamos
 
-## RESPUESTA 3 (T1265)
+## RESPUESTA 2 (T1265)
 
 > —Vamos.
 
@@ -169,7 +123,73 @@ Touka te suelta la manga.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1266)
+miro
+
+## RESPUESTA 3 (T1266)
+
+> miro
+
+Touka da un paso adelante. Uno solo. Se para entre tú y su hermano, de espaldas a ti, con los brazos a los costados.
+
+—Vine a verte —dice.
+
+Ayato se ríe. Una risa corta, fea, que el viento se lleva.
+
+—¿A verme? —Las alas zumban más fuerte—. ¿Después de tres años? ¿Después del Distrito 11, cuando me dijiste que era un monstruo? —Escupe hacia el costado, al vacío—. ¿Qué pasó, se te murió el viejo del café y te quedaste sin dueño?
+
+—Nadie se murió —dice Touka—. Esa es la cosa. Nadie se murió.
+
+Ayato frunce el ceño. No entiende. No le gusta no entender.
+
+Touka mete la mano en el bolsillo de la campera. Saca algo envuelto en una servilleta de papel de Anteiku: media tostada con mermelada de frutilla, de la mañana, aplastada. La desenvuelve. Se la muestra, en la palma abierta, bajo la luz de la ciudad.
+
+Y le da un mordisco. Despacio. Mirándolo a los ojos. Mastica. Traga.
+
+Ayato se queda helado sobre el borde.
+
+—¿Qué...? —La voz se le quiebra—. ¿Qué es eso? ¿Qué estás...?
+
+—Pan —dice Touka—. Y no me da asco. Ya no. —Se le tensa la mandíbula—. Él me lo quitó. El hambre. Con la mano. —No se da vuelta a mirarte—. Y puede hacer más. Puede hacer que yo sea humana, Ayato. De verdad. Sin kagune, sin nada. Puede ir a la escuela sin vomitar en el baño. Sin tener miedo cada vez que alguien me mira de más.
+
+Se le quiebra la voz en la última palabra. La endereza.
+
+—Quería que lo supieras antes. De mí. No que te lo contara alguien.
+
+Ayato la mira. Mira el pan. Mira tus manos, detrás de ella.
+
+Y algo en la cara se le rompe y se vuelve a soldar, en un segundo, más duro que antes.
+
+—Humana —repite, muy bajo. Y después grita—: ¡¿HUMANA?! ¡¿Te vas a volver una de ellos?! ¡¿Después de lo que le hicieron a papá?!
+
+Las dos alas se le encienden de golpe, violetas, cegadoras. El zumbido se vuelve un aullido eléctrico. De las alas se desprenden cristales, decenas, cientos, filosos como agujas, temblando en el aire.
+
+—¡Entonces no eres mi hermana!
+
+Los dispara. Todos. Directo al pecho de Touka.
+
+Touka no se mueve. No saca el ala. No levanta los brazos.
+
+Se queda parada, de frente, con la media tostada todavía en la mano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1266 · TOKYO GHOUL · DÍA 7 · 21:12     ║
+║ Bahía · azotea de la base de Aogiri          ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: Touka y Ayato                      ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:10, azotea de la base de Aogiri. Ayato, con las alas afuera, pregunta furioso qué hace Touka ahí y quién es Facundo. Touka le soltó la manga. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:12, azotea de Aogiri. Ayato dispara cientos de cristales al pecho de Touka, que no se defiende. Facundo puede actuar.

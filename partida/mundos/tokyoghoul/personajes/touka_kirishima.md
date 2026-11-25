@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1266 · "Vine a verte." "Nadie se murió. Esa es la cosa." "Pan. Y no me da asco. Ya no. Él me lo quitó." "Puede hacer que yo sea humana, Ayato." "Quería que lo supieras antes. De mí."
 - T1264 · "Lo encontraste."
 - T1263 · "Ese es Ayato. Ahora tiene quince. Es más alto que yo, el muy idiota." "Siempre tiene cara de que alguien le debe plata." "Si sientes a alguien con mi olor, pero más enojado, es él." "Quiero ir contigo. No me dejes atrás como hiciste ayer."
 - T1262 · "No hoy. Todavía no." "Tengo un hermano. Ayato. Se fue hace años con los de Aogiri." "La última vez que lo vi casi me mata." "Primero quiero verlo. A Ayato. Una vez. Y después vengo y te pido lo otro." "Tú sabes dónde están los de Aogiri, ¿no? Como sabías lo del Búho."
@@ -43,4 +44,4 @@ DIÁLOGOS CLAVE:
 - T1170 · "¡¿Que hizo qué?!" "¿Tú eres el viajero?"
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (lo oyó T1176). Por Yoshimura (mañana T1170): humano con kagune; quitó el hambre a Kaneki con la mano, y a Banjou y sus amigos.
 QUÉ PODERES DE FACUNDO VIO: Teletransporte y llama blanca en la palma (T1200). Katana (Sakaime) sacada de la nada en la calle (T1180). Transfiguración Ociosa sobre ella (T1174; lo sintió, no sabe qué es).
-ESTADO: SIN HAMBRE DE GHOUL (T1174). Salió del baño con los ojos rojos; limpia una mesa limpia de espaldas (T1176).
+ESTADO: En la azotea de Aogiri, frente a Ayato, sin defenderse de sus cristales (T1266).

@@ -1264,3 +1264,4 @@ T1262 · TG · Anteiku · "Sí." Touka: primero quiere ver a su hermano Ayato, d
 T1263 · TG · Anteiku · Touka le da una foto de Ayato y lo describe. "Quiero ir contigo."
 T1264 · TG · Anteiku · Busca con el ki: Ayato en la azotea de una base de Aogiri junto a la bahía. Touka: "Lo encontraste."
 T1265 · TG · Azotea de Aogiri · Llegan Facundo y Touka. Ayato: "¿Qué mierda haces aquí? ¿Y quién carajo es este?"
+T1266 · TG · Azotea · Touka come pan delante de Ayato y le dice que puede volverse humana. Ayato: "¡No eres mi hermana!" Le dispara cientos de cristales; Touka no se defiende.
