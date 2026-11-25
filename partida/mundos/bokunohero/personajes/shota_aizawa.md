@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: cauteloso, lo acepta a su manera (T1098).
 ENCUENTROS:
 - T1096 · Diciembre 10:55 · Sala de monitoreo del Campo Gamma: All Might trae a Facundo.
 DIÁLOGOS CLAVE:
+- T1115 · "Esta mañana no estaba." "Entonces ahora puede detener villanos. Legalmente."
 - T1114 · "No vas a falsificar una licencia. No en esta escuela. No conmigo sentado aquí."
 - T1113 · "Lo de las montañas. Lo de Deika. La fábrica de Nomu. Eso es la guerra."
 - T1112 · "Otros mundos. Claro. Por qué no." "Es la explicación más absurda que escuché en mi vida, y es la única que cierra."

@@ -1,13 +1,13 @@
 {
-  "turno": 1114,
+  "turno": 1115,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "11:56",
+  "hora": "11:59",
   "edad": 18,
   "nivel": 28,
   "exp": 263930,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 108941,
+  "fragmentos": 108911,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -584,6 +584,11 @@
     {
       "objeto": "Carpeta de la U.A. (sello rojo): nombramiento de 'consultor de seguridad externo' y trámite de licencia temporal especial",
       "origen": "bokunohero, Nezu (T1096)"
+    },
+    {
+      "objeto": "Licencia de Héroe Profesional",
+      "detalle": "Comprada en la tienda T1115 (30 Fragmentos). Legítima: registro completo en la Comisión de Seguridad Pública de Héroes a nombre de Facundo Morelli, estado activo. Tarjeta física en el bolsillo.",
+      "mundo": "bokunohero"
     }
   ],
   "copias": [

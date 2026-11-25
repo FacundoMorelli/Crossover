@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1115 · "Usted se convenció a la Comisión solo, sin que la Comisión se entere." "¿A quién va a ir a buscar primero?"
 - T1114 · "\"Totalmente legítima\" y \"de la nada misma\" no suelen ir en la misma frase." "No dije que yo no pueda hablar con la Comisión." "Allá no van a preguntar con amabilidad de dónde viene usted."
 - T1113 · "Hasta que termine la guerra. No una guerra. La guerra." "Usted cree que, si no hace nada, alguien de esta escuela va a morir. Un alumno. O un profesor. ¿Usted sabe quién?"
 - T1112 · "Fascinante. Absolutamente fascinante." "No voy a preguntarle cómo funciona, ni de dónde viene, ni cuántos mundos hay." "Dijo que va a cada mundo con una misión. ¿Cuál es la de este?"

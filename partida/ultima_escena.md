@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1112)
-tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
-
-## RESPUESTA 1 (T1112)
-
-> tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
-
-> —Tenías una pizca todavía. Te la recuperé y la dejé como estaba. Bueno, ahora se estarán preguntando qué es esta habilidad, y les voy a ser sincero a ustedes: no vengo de este mundo. Muchas de mis habilidades son de distintos mundos. Soy viajero, sí, pero de mundos. Voy a cada mundo con una misión.
-
-Nadie dice nada.
-
-El vapor de la transformación de All Might sigue flotando en el aire de la sala, iluminado por las pantallas. Se escucha el zumbido de los equipos, nada más.
-
-Aizawa levanta la silla del piso. La pone derecha. Se sienta. Se frota la cara con las dos manos, despacio, durante un rato largo.
-
-—Otros mundos —dice al fin, con la voz apagada detrás de las manos—. Claro. Por qué no.
-
-Baja las manos. Te mira.
-
-—Explicaría por qué no existes en ningún registro. Por qué mi Don no te borra nada. Por qué tienes tres, cuatro, cinco poderes que no tienen nada que ver entre sí. —Suspira—. Es la explicación más absurda que escuché en mi vida, y es la única que cierra.
-
-All Might no se mueve. Está de pie, enorme, con el traje roto, mirándote desde arriba. Tiene los ojos brillantes y todavía le caen lágrimas.
-
-—Otro mundo —repite, en voz baja, la voz enorme convertida en un murmullo—. Viniste de otro mundo... y lo primero que hiciste fue detener un robo en un banco. —Se le escapa una risa, temblorosa, que sacude el pecho enorme—. Y después salvaste al joven Midoriya. Y después me devolviste... —Se toca el pecho—. Esto.
-
-Se arrodilla delante de ti para quedar a tu altura. Aun arrodillado, te pasa por una cabeza.
-
-—Te creo, joven Morelli. —Sonríe, con las lágrimas metidas en la sonrisa—. No sé si es verdad, pero te creo.
-
-En la pantalla, Nezu se limpia el té derramado del escritorio con un pañuelo, despacio, sin apuro. Cuando termina, dobla el pañuelo. Lo deja a un lado. Vuelve a juntar las patitas.
-
-—Fascinante —dice, muy bajito—. Absolutamente fascinante.
-
-Te mira por la cámara, con los ojitos negros brillando como nunca.
-
-—No voy a preguntarle cómo funciona, ni de dónde viene, ni cuántos mundos hay. Tengo muchas preguntas y ninguna es urgente. —Sonríe—. Pero hay una sola que sí me importa, como director de esta escuela.
-
-Inclina la cabeza.
-
-—Dijo que va a cada mundo con una misión. —Hace una pausa—. ¿Cuál es la de este?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1112 · BOKU NO HERO · DIC. · 11:51     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1113)
+## COMANDO 1 (T1113)
 que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
 
-## RESPUESTA 2 (T1113)
+## RESPUESTA 1 (T1113)
 
 > que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
 
@@ -158,10 +99,10 @@ Se le tensa la cara diminuta, blanca.
 
 ---
 
-## COMANDO 3 (T1114)
+## COMANDO 2 (T1114)
 no, no sé quién, pero voy a estar atento y una pregunta... si consiguiera una licencia de heroe totalmente legitima, de la nada misma, les molestaria que los detenga?
 
-## RESPUESTA 3 (T1114)
+## RESPUESTA 2 (T1114)
 
 > —No, no sé quién. Pero voy a estar atento. Y una pregunta... si consiguiera una licencia de héroe totalmente legítima, de la nada misma, ¿les molestaría que los detenga?
 
@@ -218,4 +159,80 @@ Te mira de nuevo.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:56, sala de monitoreo. Facundo pidió una licencia de héroe legítima para detener a la Liga y demás. Nezu ofrece hablar con la Comisión de Seguridad Pública y pide algo para ponerles en la mesa; advierte que la Comisión preguntará de dónde viene. Facundo puede responder.
+## COMANDO 3 (T1115)
+usted tiene algo para comprobar si estoy en el sistema actualmente? compro una licencia en la tienda legitima a mi nombre
+
+## RESPUESTA 3 (T1115)
+
+> —¿Usted tiene algo para comprobar si estoy en el sistema actualmente?
+
+Nezu ladea la cabeza.
+
+—La U.A. tiene acceso al registro de la Comisión —dice—. Es como verificamos a los profesionales que vienen a dar clases. —Ya está tecleando con las dos patitas en el teclado de la consola—. Pero le adelanto la respuesta: esta mañana lo busqué. No existe ningún Facundo Morelli.
+
+Mientras él teclea, abres la tienda.
+
+╔══════════════════════════════════════════════╗
+║ TIENDA DEL SISTEMA · compra                  ║
+╠══════════════════════════════════════════════╣
+║ Licencia de Héroe Profesional (legítima)     ║
+║ A nombre de: Facundo Morelli                 ║
+║ Registro completo en la Comisión de          ║
+║ Seguridad Pública de Héroes: número, Don     ║
+║ registrado, fecha de emisión, estado activo. ║
+║ Tarjeta física incluida.                     ║
+║ Costo: 30 Fragmentos                         ║
+╠══════════════════════════════════════════════╣
+║ FRAGMENTOS: 108.941 → 108.911                ║
+╚══════════════════════════════════════════════╝
+
+Sientes un peso nuevo en el bolsillo de atrás. Una tarjeta rígida, plastificada.
+
+—Nombre... —murmura Nezu, escribiendo—. Facundo. Morelli. Y...
+
+Se detiene.
+
+La pantalla del costado, la que mostraba el mapa con los cuatro círculos rojos, cambia a una ficha con el sello de la Comisión arriba. Hay una foto. Tu cara.
+
+Nezu no se mueve.
+
+Aizawa se levanta de la silla y se acerca a leer por encima del hombro del director. All Might también se inclina, tan grande que tapa la mitad de la luz.
+
+—"Licencia de Héroe Profesional" —lee Aizawa, en voz baja—. "Estado: activa." Número de registro... Don registrado... —Se interrumpe y te mira—. Esta mañana no estaba.
+
+—No estaba —confirma Nezu. Vuelve a teclear, rápido. Abre el historial de la ficha, la fecha de emisión, las firmas de validación. Revisa todo dos veces. Después se recuesta en la silla, muy despacio—. Y ahora está. Con todo en orden. Firmas, sellos, todo.
+
+Hay un silencio largo.
+
+All Might suelta una carcajada enorme que hace temblar los vidrios.
+
+—¡Totalmente legítima! —dice—. ¡Y de la nada misma! ¡Lo dijo, director!
+
+—Lo dijo —admite Nezu. Te mira con los ojitos muy abiertos y algo que parece medio admiración, medio dolor de cabeza—. Señor Morelli, acabo de pasar diez minutos pensando cómo convencer a la Comisión. Y usted se convenció a la Comisión solo, sin que la Comisión se entere.
+
+Aizawa se cruza de brazos.
+
+—Entonces ahora puede detener villanos —dice—. Legalmente.
+
+—Legalmente —repite Nezu. Se le escapa una risita—. Bueno. Ya no tengo que poner nada en la mesa. —Junta las patitas—. La pregunta es otra, entonces. Ahora que puede ir a buscarlos... ¿a quién va a ir a buscar primero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1115 · BOKU NO HERO · DIC. · 11:59     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:59, sala de monitoreo. Facundo tiene una Licencia de Héroe Profesional legítima (tienda, 30 F), verificada por Nezu en el registro de la Comisión. Nezu pregunta a quién va a buscar primero (Liga, Deika, fábrica de Nomu, All For One). Facundo puede responder.
