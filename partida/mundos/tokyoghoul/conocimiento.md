@@ -96,3 +96,5 @@
 - Shinohara · T1209 · vio a Juuzou rebotar contra algo invisible; vio el hilo plateado junto al cordón.
 - Estudiantes clientes · T1209 · vieron a un chico raro chocar contra la nada en la puerta.
 - Facundo, Touka, Nishiki (oído de ghoul) · T1210 · por Shinohara: el informe del andén llegó a la oficina de la CCG anteayer; Shinohara tiene esposa y dos hijos; los médicos de la CCG no encontraron cicatriz.
+- Shinohara · T1211 · confirmado por Facundo: le quitó el hambre a un ghoul.
+- Facundo, Touka, Nishiki (oyen) · T1211 · por Shinohara: la CCG verá a un humano que ayuda a ghouls; gente muy arriba no quiere que esto termine; el Distrito 20 bajo la lupa hace semanas; Shinohara pidió verificar el informe en persona para ganar tiempo.

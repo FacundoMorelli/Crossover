@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1208)
-ay me olvide de sacarmelo, me destransformo, ehh no, me dices donde?
-
-## RESPUESTA 1 (T1208)
-
-> —Ay, me olvidé de sacármelo.
-
-Sueltas el Ultra Instinto. El brillo plateado se te apaga en la piel como una lámpara que alguien desenchufa, y el pelo te vuelve de golpe a su blanco y su azul, mitad y mitad.
-
-Nishiki se queda mirándote con la boca abierta y la taza enjabonada en la mano.
-
-—Bueno —dice al rato, con voz plana—. Ya está. Ya no me sorprende nada. Si mañana entras volando, ni levanto la vista.
-
-Y vuelve a hundir las manos en la espuma.
-
-> —Eh... no. ¿Me dices dónde?
-
-Yomo asiente una vez. Se apoya en el marco de la puerta de la cocina y habla igual que antes, como quien da un informe.
-
-—Big Girl está a quince minutos caminando. Sales por la calle de adelante, doblas a la derecha en la avenida, pasas la estación y sigues derecho cuatro cuadras. Un cartel grande, rojo, con una chica de trenzas que sostiene una hamburguesa. A esta hora hay fila.
-
-Hace una pausa.
-
-—El pastel, en la pastelería que está enfrente de la estación. La de toldo rosa. Touka compraba ahí para la escuela. Lo tiraba después, en el baño.
-
-Lo dice sin cambiar el tono, pero se calla un segundo más de la cuenta.
-
-Después te mira de arriba abajo. El sobretodo negro con polvo del 24. Los borceguíes. Los tatuajes que asoman por el cuello. Los ojos.
-
-—Afuera hay cámaras en la estación —dice—. Y gente de la CCG que viaja en tren.
-
-Se mete las manos en los bolsillos de la campera.
-
-—¿Tienes dinero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1208 · TOKYO GHOUL · TARDE · 13:17     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: comprar la hamburguesa y el pastel ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1209)
+## COMANDO 1 (T1209)
 si, no te preocupes por eso, cambio fragmentos. simula un par de dias hasta que pase algo
 
-## RESPUESTA 2 (T1209)
+## RESPUESTA 1 (T1209)
 
 > —Sí, no te preocupes por eso.
 
@@ -149,10 +96,10 @@ En todo el local no se mueve nadie. Touka se quedó con la bandeja en el aire. N
 
 ---
 
-## COMANDO 3 (T1210)
+## COMANDO 2 (T1210)
 que quieres shinohara?
 
-## RESPUESTA 3 (T1210)
+## RESPUESTA 2 (T1210)
 
 > —¿Qué quieres, Shinohara?
 
@@ -206,7 +153,58 @@ Shinohara no la mira. Te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1211)
+si
+
+## RESPUESTA 3 (T1211)
+
+> —Sí.
+
+Shinohara no dice nada por un rato.
+
+Agarra la taza con las dos manos, grandes, con los nudillos marcados de años de quinque, y la mira sin tomar. El vapor le sube a la cara.
+
+—Veintitrés años —dice al final, muy bajo—. Veintitrés años en esto. Enterré a compañeros. Saqué chicos de departamentos donde no quedaba nada de los padres. —Se le endurece la mandíbula un momento, y se le afloja—. Y todo ese tiempo, la única respuesta que tuvimos fue la misma. Que ellos tienen que comer personas. Que no pueden elegir otra cosa. Que no hay nada que hablar.
+
+Toma un trago de café. Lo deja.
+
+—Si eso deja de ser cierto...
+
+No termina.
+
+Afuera, Juuzou se aburrió del hilo plateado y está haciendo equilibrio sobre el cordón con los brazos abiertos, de punta a punta de la vereda, canturreando.
+
+Shinohara lo mira por el vidrio un largo rato. Después vuelve a ti, y la cara ya no es la de un hombre agradecido. Es la de un investigador de Clase Especial.
+
+—Escúchame bien, porque esto no lo digo dos veces. —Habla casi sin mover los labios—. La CCG no va a ver un milagro. Va a ver a un humano que ayuda a ghouls. Hay gente arriba, muy arriba, que no quiere que esto termine nunca. Y el Distrito 20 está bajo la lupa desde hace semanas, por cosas que no tienen nada que ver contigo.
+
+Te sostiene la mirada.
+
+—Ese informe ya está en un escritorio. Yo pedí verificarlo en persona, para ganar tiempo. Pero no voy a poder sostenerlo mucho.
+
+Se queda callado. Mira de reojo a Touka, que está detrás de la barra secando un vaso que ya está seco. Después mira la puerta, donde Juuzou rebotó contra la nada. Después a ti.
+
+—Una cosa más —dice—. Necesito verlo. No por la CCG. Por mí. —Se le quiebra un poco la voz grave—. Necesito ver con mis propios ojos a un ghoul comer pan. Aunque sea una vez. ¿Puedes mostrármelo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1211 · TOKYO GHOUL · DÍA 3 · 10:26     ║
+║ Distrito 20 · Anteiku, barra                 ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:23, barra de Anteiku. Shinohara agradeció y pregunta si es verdad que Facundo le quitó el hambre a un ghoul. Juuzou espera afuera. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:26, barra de Anteiku. Shinohara advirtió sobre la CCG y pide ver a un ghoul comer pan. Facundo puede responder.
