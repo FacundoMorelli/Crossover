@@ -1262,3 +1262,4 @@ T1260 · TG · Anteiku · Explica: volverlos humanos. Dudas de Kaneki, Koma e Ir
 T1261 · TG · Anteiku · "Es una mala idea, olvídense." Café para todos. Touka, a solas: "¿Lo de volverme humana sigue en pie?"
 T1262 · TG · Anteiku · "Sí." Touka: primero quiere ver a su hermano Ayato, de Aogiri. "¿Sabes dónde están?"
 T1263 · TG · Anteiku · Touka le da una foto de Ayato y lo describe. "Quiero ir contigo."
+T1264 · TG · Anteiku · Busca con el ki: Ayato en la azotea de una base de Aogiri junto a la bahía. Touka: "Lo encontraste."

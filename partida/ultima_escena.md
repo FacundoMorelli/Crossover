@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1261)
-podria hacerlo para los que lo deseen plenamente, pero no, es una mala idea, olvidense de eso
-
-## RESPUESTA 1 (T1261)
-
-> —Podría hacerlo para los que lo deseen plenamente. Pero no. Es una mala idea. Olvídense de eso.
-
-El salón suelta el aire.
-
-No todo de golpe. De a poco, como una casa vieja que se acomoda de noche. Koma se deja caer sentado en un taburete y se pasa las dos manos por la cara. Uno de los Apes del pasillo murmura algo y otro le contesta con una risa corta, nerviosa. Irimi vuelve a apoyarse en el marco de la puerta.
-
-Hinami asoma la cabeza por detrás de Nishiki.
-
-Yoshimura no dice nada enseguida. Te mira un momento largo. Después asiente, despacio, una sola vez.
-
-—No es una mala idea, Morelli-san —dice—. Es una idea muy grande. —Toma el libro de Eto otra vez y lo apoya contra el pecho—. Las ideas muy grandes hay que dejarlas reposar. Como el café.
-
-Se da vuelta hacia la cafetera.
-
-—Que nadie se vaya todavía. Voy a preparar otra tanda. —Una pausa—. Y Koma-kun, tus muchachos van a cenar. Están comiendo lo que encuentran desde anoche.
-
-—¡Por fin alguien que me entiende! —Koma se levanta de un salto y se va a la cocina a los gritos, llamando a los Apes por sus apodos.
-
-El salón se mueve otra vez. Nishiki suelta el hombro de Hinami y va a sacar tazas. Irimi lo sigue a la cocina. Kaneki se sienta en un taburete de la barra, con los codos sobre la madera, mirando la nada, todavía con las manos abiertas sobre la barra como si no supiera qué hacer con ellas.
-
-Touka no se mueve.
-
-Se quedó parada donde estaba, frente a ti, a un metro. Los brazos colgando. Espera a que el ruido de la cocina tape lo demás. Después da un paso más cerca y habla bajo, sin mirarte a los ojos, mirando un botón de tu sobretodo.
-
-—Lo de antes. —Traga saliva—. Lo que te pregunté en la barra, el primer día. Que podías hacerlo con una sola persona. Que esperara a que pasara lo del Búho.
-
-Levanta la vista.
-
-—Ya pasó lo del Búho. —El ojo gris le tiembla un poco—. ¿Eso sigue en pie?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1261 · TOKYO GHOUL · DÍA 7 · 21:04     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1262)
+## COMANDO 1 (T1262)
 si
 
-## RESPUESTA 2 (T1262)
+## RESPUESTA 1 (T1262)
 
 > —Sí.
 
@@ -105,10 +53,10 @@ Se queda callada un segundo. Después, más bajo todavía, casi sin voz:
 
 ---
 
-## COMANDO 3 (T1263)
+## COMANDO 2 (T1263)
 decime como es tu hermano asi lo busco
 
-## RESPUESTA 3 (T1263)
+## RESPUESTA 2 (T1263)
 
 > —Dime cómo es tu hermano, así lo busco.
 
@@ -149,7 +97,63 @@ Después te mira de reojo.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1264)
+lo busco con el ki
+
+## RESPUESTA 3 (T1264)
+
+> lo busco con el ki
+
+Cierras los ojos.
+
+El salón se aleja. El ruido de la cocina, las risas de Koma, el tintineo de las tazas: todo se apaga de a poco, como una radio a la que le bajan el volumen.
+
+Y la ciudad aparece.
+
+Millones de luces chicas, tibias, apretadas unas contra otras. Humanos. En los trenes, en los edificios, en las calles, durmiendo, cocinando, discutiendo. Y entre ellos, desparramadas como piedras en un río, otras luces distintas. Con un segundo latido debajo del primero. Ghouls. Cientos. Miles.
+
+Buscas la de Touka primero. Está a un metro de ti: filosa, compacta, nerviosa, con algo eléctrico en el borde. La memorizas. Y después buscas una igual. Igual, pero más enojada.
+
+Hacia el sur. Más allá del río. Más allá del Distrito 20, del 21, cerca de la bahía.
+
+Ahí.
+
+Un edificio grande, viejo, en una zona de depósitos y fábricas cerradas junto al agua. Adentro hay muchas presencias juntas. Cincuenta, sesenta, quizás más. Todas ghouls. Algunas débiles, nerviosas, amontonadas en los pisos de abajo. Otras más fuertes, repartidas en los de arriba. Dos muy pesadas, quietas, en el último piso: una fría y tranquila como una piedra de río; otra rara, hueca, que no se parece a nada.
+
+Y en la azotea, sola, sentada en el borde, con las piernas colgando hacia el vacío, una presencia filosa, compacta, nerviosa, con algo eléctrico en el borde.
+
+Igual a la de Touka.
+
+Pero más enojada. Mucho más. Y debajo del enojo, apretado, escondido, algo que en Touka no hay: cansancio. Un cansancio viejo, de alguien de quince años que no duerme bien hace mucho.
+
+Abres los ojos.
+
+Touka está exactamente donde estaba, a un metro de ti, con los brazos cruzados. No se movió en todo el tiempo. Te mira la cara.
+
+Y lo ve. Lo que sea que tienes en la cara, lo ve.
+
+Se le descruzan los brazos solos.
+
+—Lo encontraste —dice. No es una pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1264 · TOKYO GHOUL · DÍA 7 · 21:09     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: buscar a Ayato Kirishima           ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:08, salón de Anteiku. Touka le dio a Facundo una foto de Ayato y lo describió; quiere ir con él a buscarlo. Facundo tiene la foto en la mano. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:09, salón de Anteiku. Facundo encontró a Ayato con el ki: solo en la azotea de una base de Aogiri junto a la bahía. Touka: "Lo encontraste." Facundo puede actuar.

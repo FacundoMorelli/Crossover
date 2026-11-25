@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1264 · "Lo encontraste."
 - T1263 · "Ese es Ayato. Ahora tiene quince. Es más alto que yo, el muy idiota." "Siempre tiene cara de que alguien le debe plata." "Si sientes a alguien con mi olor, pero más enojado, es él." "Quiero ir contigo. No me dejes atrás como hiciste ayer."
 - T1262 · "No hoy. Todavía no." "Tengo un hermano. Ayato. Se fue hace años con los de Aogiri." "La última vez que lo vi casi me mata." "Primero quiero verlo. A Ayato. Una vez. Y después vengo y te pido lo otro." "Tú sabes dónde están los de Aogiri, ¿no? Como sabías lo del Búho."
 - T1261 · "Lo de antes. Lo que te pregunté en la barra, el primer día. Que podías hacerlo con una sola persona. Ya pasó lo del Búho. ¿Eso sigue en pie?"
