@@ -1243,3 +1243,4 @@ T1241 · TG · Anteiku · "Tiene a alguien que tiene mucha hambre." Yoshimura: "
 T1242 · TG · Anteiku · Semilla a Irimi (quedan 76). "Gracias, Panadero." Yoshimura: "¿Se queda?"
 T1243 · TG · Simulación noche → Día 7 09:59 · Noche en Anteiku. TV: operación concluida. Portón negro de los Washuu: Arima espera con un libro. "Diga su nombre."
 T1244 · TG · Casa Washuu · Entra con Arima a su lado. Jardín, sirvienta de kimono gris. Tsuneyoshi lo espera con té: "Siéntese."
+T1245 · TG · Casa Washuu · Tasación: sin datos, oculta su naturaleza. Tsuneyoshi confiesa: los Washuu comen carne humana hace más de cien años.

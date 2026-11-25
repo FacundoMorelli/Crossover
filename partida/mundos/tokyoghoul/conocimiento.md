@@ -150,3 +150,5 @@
 - Todos en Anteiku · T1242 · vieron a Facundo curar a Irimi con un grano verde.
 - Nishiki · T1243 · Kimi está bien (por teléfono).
 - Sirvienta de los Washuu, Tsuneyoshi, Arima · T1244 · Facundo llegó puntual y dijo su nombre.
+- Facundo · T1245 · Tasación de Tsuneyoshi: sin datos, oculta su naturaleza; intuye algo no del todo humano y con hambre. Por Tsuneyoshi: él, su hijo, sus nietos, su padre y su abuelo comen carne humana a escondidas, una vez por semana, en esa casa, desde hace más de cien años.
+- Tsuneyoshi · T1245 · deduce que Facundo "se dio cuenta" de su naturaleza (por cómo lo mira y por el gruñido de Kase).

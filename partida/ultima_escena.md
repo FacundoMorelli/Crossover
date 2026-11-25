@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1242)
-si perdon me fui muy rapido y no llegue a curarla, le doy una semilla a irimi
-
-## RESPUESTA 1 (T1242)
-
-> —Sí, perdón. Me fui muy rápido y no llegué a curarla.
-
-Te agachas junto a Irimi y le pones un grano verde en la boca.
-
-Ella abre los ojos. Te mira un segundo, desconfiada por costumbre. Después mastica. Traga.
-
-Se le arquea la espalda contra la mesada. Debajo de las toallas manchadas se oye un sonido húmedo, como de algo que se cierra. El gris de la cara se le va de golpe y vuelve el color. Se lleva la mano al hombro, aprieta el vendaje empapado, y no siente nada. Tira de la cinta. Las toallas caen al piso. Debajo, la piel está entera. Sin agujero. Sin cicatriz.
-
-Irimi mueve el brazo derecho. Lo levanta por encima de la cabeza. Lo baja. Cierra el puño.
-
-Koma suelta el aire como un globo que se desinfla y se sienta de culo en el piso, con las manos en la cara.
-
-—Gracias, Panadero —dice Irimi. Lo dice seca, corta, como dice todo. Pero no te saca los ojos de encima mientras lo dice.
-
-[Semillas del ermitaño: 76.]
-
-En el pasillo, los cuatro Apes miran la escena desde donde están, vendados, con los ojos muy abiertos. El más joven, el de la máscara rota en la frente, tiene un tajo en la pierna atado con un cinturón. Ninguno dice nada. Koma los mira, abre la boca, la cierra, y no pide.
-
-Hinami baja el último escalón con la caja de vendas todavía en las manos, ya sin saber para qué la trae.
-
-Yoshimura se queda mirando a Irimi mover el brazo. Después se lava las manos en la pileta, al lado de Nishiki, despacio, hasta que el agua sale limpia. Se seca. Se arremanga otra vez.
-
-—Esta noche nadie va a dormir —dice, a nadie en particular, y saca la lata de café de la estantería—. Así que voy a preparar café.
-
-Te mira por encima del hombro.
-
-—Morelli-san. ¿Se queda?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1242 · TOKYO GHOUL · DÍA 6 · 18:35     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la mesada                           ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1243)
+## COMANDO 1 (T1243)
 si. simula hasta mañana a las 10
 
-## RESPUESTA 2 (T1243)
+## RESPUESTA 1 (T1243)
 
 > —Sí.
 
@@ -125,10 +74,10 @@ El intercomunicador hace un clic. Una voz de mujer, joven, perfectamente educada
 
 ---
 
-## COMANDO 3 (T1244)
+## COMANDO 2 (T1244)
 Facundo Morelli
 
-## RESPUESTA 3 (T1244)
+## RESPUESTA 2 (T1244)
 
 > —Facundo Morelli.
 
@@ -180,7 +129,70 @@ Hace un gesto suave con la mano hacia el almohadón.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1245)
+me siento y uso tasacion en el
+
+## RESPUESTA 3 (T1245)
+
+> me siento y uso Tasación en él
+
+Te sientas sobre el almohadón, frente a él. La taza de té humea a un palmo de tus manos.
+
+Lo miras.
+
+```
+╔════════════════════════════════════════╗
+║ WASHUU TSUNEYOSHI                      ║
+║ Presidente de la CCG                   ║
+║ PODER: sin datos                       ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ Oculta su naturaleza.                  ║
+║ COPIABLE · MISIÓN: sin datos           ║
+╚════════════════════════════════════════╝
+```
+
+Debajo de la piel de papel, de los huesos finos, de la sonrisa amable, hay algo que no termina de ser humano. No lo ves. Lo intuyes, igual que se intuye un segundo latido debajo del primero. Algo que espera, quieto, plegado, muy viejo y muy cansado.
+
+Y con hambre.
+
+Kase, en tu hombro, suelta un gruñido bajo, apenas audible, desde el fondo del pecho.
+
+Tsuneyoshi lo oye. Mira al gato. Sonríe un poco más.
+
+—Los animales siempre se dan cuenta primero —dice—. Mis perros nunca me quisieron.
+
+Toma su taza con las dos manos, despacio, y bebe un sorbo. La deja. Te mira por encima del borde, con los ojos pequeños, oscuros, muy atentos.
+
+—Usted también se dio cuenta, ¿verdad, Morelli-kun? —La voz no cambia. Sigue siendo cálida—. Lo noto en cómo me mira. Igual que mira un médico.
+
+Apoya las manos huesudas sobre la mesa, una encima de la otra.
+
+—Le voy a ahorrar las vueltas. Soy viejo y no tengo tiempo para muchas. —Una pausa—. La persona de mi familia que tiene hambre desde hace mucho tiempo... soy yo. Y no solo yo.
+
+Mira por la ventana, hacia el estanque, donde un pez rojo sube a la superficie y vuelve a hundirse.
+
+—Mi hijo. Mis nietos. Mi padre, antes que yo. Y el padre de mi padre. —Vuelve a mirarte—. Hace más de cien años que la familia que caza ghouls en este país come lo mismo que ellos. A escondidas. Una vez por semana. En esta misma casa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1245 · TOKYO GHOUL · DÍA 7 · 10:02     ║
+║ Distrito 1 · casa Washuu, sala de tatami     ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, gruñendo bajo            ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: hablar con Tsuneyoshi              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:01, sala de tatami de la casa Washuu. Tsuneyoshi invita a Facundo a sentarse frente al té. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:02, sala de tatami de la casa Washuu. Tsuneyoshi confesó que él y toda la familia Washuu comen carne humana desde hace más de cien años. Facundo puede responder.
