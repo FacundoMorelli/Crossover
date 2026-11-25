@@ -12,7 +12,6 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
-- T1268 · "¿Pareja? ¡¿Estás loco?! ¡No soy tu pareja, idiota! ¡Tengo diecisiete años!" "¡Es un mentiroso! ¡Es el que me quitó el hambre, nada más!"
 - T1267 · "Ayato."
 - T1266 · "Vine a verte." "Nadie se murió. Esa es la cosa." "Pan. Y no me da asco. Ya no. Él me lo quitó." "Puede hacer que yo sea humana, Ayato." "Quería que lo supieras antes. De mí."
 - T1264 · "Lo encontraste."

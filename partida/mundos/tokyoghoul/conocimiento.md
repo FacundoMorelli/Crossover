@@ -194,5 +194,3 @@
 - Facundo · T1266 · por Ayato: algo le hicieron (humanos) a su papá.
 - Ayato, Touka · T1267 · vieron a Facundo detener cientos de cristales con un brazo, sin una marca.
 - Aogiri (docena), capa roja, enmascarado de tela · T1267 · vieron a Facundo, a Touka y a Ayato en la azotea; la manga humeante de Facundo.
-- Aogiri en la azotea, Ayato, Touka · T1268 · Facundo se presentó como "Eclipse". Dijo que Touka era su pareja; Touka lo desmintió (tiene 17).
-- Capa roja (Tatara) · T1268 · por el rumor entre ghouls: identifica a Facundo como el Panadero (ojos de dos colores, gato, quita el hambre); sabe que la CCG se retiró del 20 sin llevarse al Búho.

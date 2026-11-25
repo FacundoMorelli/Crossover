@@ -1266,4 +1266,3 @@ T1264 · TG · Anteiku · Busca con el ki: Ayato en la azotea de una base de Aog
 T1265 · TG · Azotea de Aogiri · Llegan Facundo y Touka. Ayato: "¿Qué mierda haces aquí? ¿Y quién carajo es este?"
 T1266 · TG · Azotea · Touka come pan delante de Ayato y le dice que puede volverse humana. Ayato: "¡No eres mi hermana!" Le dispara cientos de cristales; Touka no se defiende.
 T1267 · TG · Azotea · Detiene los cristales con un brazo. "No merece llamarse hermano." Llegan los de Aogiri: capa roja y el enmascarado de tela. "Ayato, ¿quiénes son?"
-T1268 · TG · Azotea · "Me llamo Eclipse." Touka desmiente lo de pareja. Capa roja lo reconoce como el Panadero: "Llévate a la chica y vete. Ayato se queda."
