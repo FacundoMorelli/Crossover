@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1199 · "Yo también voy." "No te pregunté. Dije que mi kagune se queda donde está hasta que pase lo del Búho. Entonces que sirva para algo. Si vas a entrenar a este idiota, me entrenas a mí también."
 - T1191 · "Ya quiere." "Me debes un pan."
 - T1190 · "¡Oye!" (Nishiki le roba el pan)
 - T1188 · (comiendo pan solo delante de Nishiki) "Es verdad. A mí también."

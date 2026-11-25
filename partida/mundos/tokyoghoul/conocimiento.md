@@ -73,3 +73,5 @@
 - Yomo · T1196 · por el rumor de la estación (una vieja) + lo que ve al entrar (Facundo con ojos de dos colores en Anteiku).
 - Yomo · T1197 · Facundo se llama Facundo Morelli; huele a humano. Por Yoshimura: nueve personas transfiguradas hoy, sin pedir silencio. Deduce (por el olor/la cara de Kaneki) que Kaneki también.
 - Yomo · T1198 · confirmado por Facundo: Kaneki transfigurado. Por Yoshimura: Touka también. Por Kaneki: Facundo lo entrenará esta tarde en el Distrito 24.
+- Facundo · T1199 · por Yomo: entrada al Distrito 24 bajo el Distrito 14 (desagüe viejo detrás de una obra abandonada; 40 min de tren + 15 a pie).
+- Touka · T1199 · escuchó tras la cortina lo del entrenamiento en el Distrito 24.
