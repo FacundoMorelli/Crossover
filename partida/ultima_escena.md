@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1046)
-me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
-
-## RESPUESTA 1 (T1046)
-
-> me llamo Facundo Morelli, tengo una misión de protegerte, no lo maten a este, donde esta shalnark?
-
-> —Me llamo Facundo Morelli. Tengo una misión: protegerte. No lo maten a este. ¿Dónde está Shalnark?
-
-Kortopi se queda quieto al escuchar el nombre.
-
-—Sabes cómo se llama Shal. —No es una pregunta—. Sabes cómo me llamo yo. —El ojo se le achica entre el pelo—. Y dices que no lo matemos.
-
-Mira a Hisoka, tirado en el asfalto, con la mejilla abierta y la sonrisa torcida.
-
-—Eso no lo decido yo —dice al fin—. Lo decide el jefe. —Pausa—. Él va a querer matarlo. Hisoka dijo que nos iba a cazar a todos. Lo escuché. Machi también.
-
-No contesta lo de Shalnark. Mira el celular en su mano. Lo abre. Lo vuelve a cerrar.
-
-Después lo abre otra vez, aprieta un botón y se lo pone en la oreja. Lo ves esperar, con el ojo fijo en ti, un tono, dos.
-
-—Shal. —Una pausa—. Hisoka está vivo.
-
-Del otro lado se escucha una voz joven, alegre, que se corta de golpe. Después la voz otra vez, rápida, más seria. No alcanzas a entender las palabras, pero sí el tono.
-
-—Sí. Revivió. —Kortopi te mira—. Vino a matarme. Hay alguien aquí. Un tipo con un gato. Lo tiró de un golpe. No siento su aura. —Escucha—. No. No es de los nuestros. Dice que tiene una misión de protegerme. —Escucha más—. Sabe tu nombre.
-
-Silencio del otro lado. Largo.
-
-Kortopi escucha, asiente una vez como si el otro pudiera verlo, y cierra el celular.
-
-—Shal dice que viene —dice—. Y que llamó a Machi y no contesta.
-
-Se guarda el celular en el bolsillo. Mira hacia la Torre, enorme, iluminada, al fondo de la calle, donde en una sala del piso de abajo Machi sigue atada.
-
-Después te mira a ti.
-
-—Shal también dice otra cosa. —La voz ronca no cambia, pero los dedos se le mueven otra vez, nerviosos—. Que si lo vas a proteger a él también, que no te muevas de aquí hasta que llegue. Que quiere verte la cara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1046 · HUNTER X HUNTER · DÍA 1 · 19:42 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, tranquilo                ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Proteger a Kortopi                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1047)
+## COMANDO 1 (T1047)
 espero a Shalnark ahí con Kortopi
 
-## RESPUESTA 2 (T1047)
+## RESPUESTA 1 (T1047)
 
 > espero a Shalnark ahí con Kortopi
 
@@ -132,10 +75,10 @@ Acerca la antena a la nuca de Hisoka.
 
 ---
 
-## COMANDO 3 (T1048)
+## COMANDO 2 (T1048)
 no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
 
-## RESPUESTA 3 (T1048)
+## RESPUESTA 2 (T1048)
 
 > no, déjalo así, voy a rescatar a Machi, si le hacen algo, aunque no complete mi mision, estan muertos
 
@@ -197,4 +140,71 @@ Los hilos de los dedos se le tensan solos, sin que haga un gesto.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:49, sala médica 3 de la Torre. Facundo liberó a Machi del Bungee Gum; ella nota que lo soltó como si fuera suyo. Shalnark y Kortopi con Hisoka inconsciente en la calle (prometieron no tocarlo). Facundo puede actuar.
+## COMANDO 3 (T1049)
+me llamo Facundo Morelli, vamos con Shalnark y Kortopi
+
+## RESPUESTA 3 (T1049)
+
+> me llamo Facundo Morelli, vamos con Shalnark y Kortopi
+
+> —Me llamo Facundo Morelli. Vamos con Shalnark y Kortopi.
+
+Machi te mira un segundo más. Los hilos se le aflojan entre los dedos.
+
+—Están vivos —dice. No pregunta: lo afirma, pero hay algo en la voz que espera que se lo confirmes.
+
+Le apoyas una mano en el hombro.
+
+Antes de que se aparte, la sala médica desaparece.
+
+Aparecen en la calle de los baños públicos, bajo el farol que todavía funciona. Machi da medio paso para recuperar el equilibrio y se queda quieta, mirando alrededor, con los hilos tensos otra vez: los azulejos blancos, el cartel de neón roto, el poste torcido de la esquina, la carta clavada en la pared del fondo.
+
+Kortopi sigue sentado en el escalón. Shalnark está de pie, apoyado contra la pared, con el celular en la mano. Hisoka sigue en el asfalto, en el mismo lugar, con la misma sonrisa torcida.
+
+No están solos.
+
+Junto a Hisoka, de pie, con las manos en los bolsillos del abrigo largo de la cruz invertida, está Chrollo.
+
+Lo sentiste recién al aparecer. Llegó mientras estabas en la Torre. Tiene la vista clavada en el cuerpo de Hisoka, sin expresión, como quien mira un problema de ajedrez que no esperaba volver a ver.
+
+Levanta la cabeza cuando aparecen.
+
+Mira a Machi primero. La recorre de pies a cabeza, rápido, igual que Shalnark miró a Kortopi. Las muñecas, la boca, el kimono manchado.
+
+—Machi.
+
+—Estoy bien —dice ella—. Él me soltó.
+
+Chrollo te mira a ti.
+
+No es la mirada de Hisoka, hambrienta, ni la de Shalnark, que calcula sonriendo. Es una mirada tranquila, lenta, sin apuro, de alguien que lee una página dos veces para no perderse nada. Te mira el pelo, los ojos, la cicatriz, el gato. Se detiene en tus manos.
+
+—Shalnark me contó lo que pasó —dice. La voz es suave, la misma que usó en el ring para explicar cada habilidad—. Que derribaste a Hisoka de un golpe. Que no se te siente el aura. Que sabes nuestros nombres. Que tienes una misión de protegernos. —Una pausa—. Y que si alguno de nosotros le hace algo a este hombre, nos vas a matar.
+
+Saca una mano del bolsillo. No tiene el libro.
+
+—Facundo Morelli. —Lo dice como si probara cómo suena—. Hace una hora maté a Hisoka delante de diez mil personas. Era mi pelea. La gané. —Mira el cuerpo otra vez—. Y ahora está vivo, y nos va a cazar a todos, uno por uno, en cuanto abra los ojos.
+
+Vuelve a mirarte.
+
+—Entonces dime. ¿Por qué no debería terminar lo que empecé?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1049 · HUNTER X HUNTER · DÍA 1 · 19:51 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Proteger a Kortopi y a Shalnark    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:51, baños públicos. Facundo volvió con Machi. Chrollo llegó y está junto a Hisoka inconsciente: le pregunta a Facundo por qué no debería terminar lo que empezó (matarlo). Facundo puede responder.

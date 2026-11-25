@@ -1047,3 +1047,4 @@ T1045 · HxH · Baños públicos · Hisoka inconsciente de un golpe. Kortopi: "�
 T1046 · HxH · Baños públicos · "Me llamo Facundo Morelli. No lo maten." Kortopi llama a Shalnark: viene; quiere verle la cara. Machi no contesta.
 T1047 · HxH · Baños públicos · Llega Shalnark: "Te vi en una pantalla." Antena junto a la nuca de Hisoka: "Eso no es matarlo, ¿verdad?"
 T1048 · HxH · Torre, sala médica 3 · "Si le hacen algo, están muertos." Shalnark: "No lo tocamos." Libera a Machi del Bungee Gum: "Lo soltaste como si fuera tuyo."
+T1049 · HxH · Baños públicos · Vuelve con Machi. Chrollo llegó: "¿Por qué no debería terminar lo que empecé?"
