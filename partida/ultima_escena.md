@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1123)
-me llamo Facundo Morelli, los dejo inconscientes a los dos y llevo a shigaraki a la cabaña con los otros y les pongo una barrera con sakaime para que nada pueda entrar ni salir
-
-## RESPUESTA 1 (T1123)
-
-> —Me llamo Facundo Morelli.
-
-Shigaraki abre la boca para contestar algo.
-
-No llega.
-
-Se desploma de cara en la nieve, con los cinco dedos todavía abiertos. La tierra bajo su mano no se pudre.
-
-El gigante tarda un poco más. Se queda de pie un segundo, con la mirada perdida, y después se va hacia atrás, enorme, despacio, como un edificio al que le cortan los cimientos. Cuando toca el suelo, el valle entero tiembla. Una avalancha chica se desprende de la ladera y se le acumula contra el costado.
-
-Después, silencio. Por primera vez en quién sabe cuántas semanas, la montaña se queda quieta.
-
-Levantas a Shigaraki. No pesa casi nada. Es todo huesos y piel agrietada.
-
-Y estás de nuevo en la cabaña.
-
-La olla de Twice sigue hirviendo. Los cinco siguen donde cayeron. Dejas a Shigaraki en un colchón, al lado de Toga, y sales a la nieve.
-
-Sacas a Sakaime de la nada. La katana de guarda cuadrada negra pesa lo justo en tu mano.
-
-—Traza, Sakaime.
-
-La línea plateada de la hoja se enciende. Trazas en el aire: una línea en el suelo, alrededor de toda la cabaña, cerrando un cuadrado. Las paredes-frontera se levantan, transparentes, apenas un brillo en el aire que distorsiona la nieve que cae. Después, cuatro trazos más arriba, sobre el techo de la cabaña, que cierran el último plano.
-
-Una caja. Sin puertas, sin grietas.
-
-Un copo de nieve choca contra la frontera de arriba y se queda ahí, pegado, sin poder pasar.
-
-[Recinto de Sakaime cerrado en seis caras alrededor de la cabaña. Nada entra ni sale.]
-
-[Aviso: eso incluye el aire. Seis personas en una cabaña cerrada, con una estufa encendida: unas pocas horas.]
-
-Kase mira la caja, después te mira a ti, y mueve la cola despacio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1123 · BOKU NO HERO · DIC. · 12:07     ║
-║ Montañas del noroeste · afuera de la cabaña  ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Sakaime: en la mano (Shikai)                 ║
-║ Recinto activo: cabaña de la Liga (6 caras)  ║
-║ Liga: Shigaraki + 5 inconscientes adentro    ║
-║ Gigantomachia: inconsciente en el valle      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a la Liga                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1124)
+## COMANDO 1 (T1124)
 dejo pasar el aire y llamo a Nezu, pueden ir viniendo a la cabaña, ya deje inconscientes a dabi, toga, compress, shigaraki y twice, ahora voy a por los demas
 
-## RESPUESTA 2 (T1124)
+## RESPUESTA 1 (T1124)
 
 > dejo pasar el aire y llamo a Nezu
 
@@ -134,10 +73,10 @@ Y antes de que contestes, agrega, más rápido:
 
 ---
 
-## COMANDO 3 (T1125)
+## COMANDO 2 (T1125)
 a los que estaban armando lo que les dije antes, dejo que en sakaime solo pasen los heroes y los buenos
 
-## RESPUESTA 3 (T1125)
+## RESPUESTA 2 (T1125)
 
 > —A los que estaban armando lo que les dije antes.
 
@@ -189,4 +128,68 @@ Vuelve a hablarte.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:10, afuera de la cabaña, en llamada con Nezu. Recinto: aire, héroes y buenos. Aizawa, Present Mic y Ectoplasm salen hacia la cabaña. Nezu pregunta otra vez por el ser colosal. Facundo puede responder.
+## COMANDO 3 (T1126)
+está inconsciente en el valle, me teletransporto al hospital primero
+
+## RESPUESTA 3 (T1126)
+
+> —Está inconsciente en el valle.
+
+—En el valle —repite Nezu—. Entendido. Le digo a Aizawa que lo rodee y que la Comisión mande un segundo transporte, más gran...
+
+Cortas.
+
+Te guardas el celular y Sakaime desaparece de tu mano.
+
+Jaku.
+
+El olor te llega antes que la imagen: alcohol, desinfectante, y debajo, algo más espeso, más dulce, más podrido. Formol.
+
+Estás bajo tierra. Muchos pisos abajo del hospital. Es un laboratorio enorme, de techo bajo, iluminado con luces verdes y frías que salen de unos tanques de vidrio alineados en filas hasta perderse en la penumbra.
+
+Hay docenas de tanques. Y en cada uno flota algo.
+
+Cuerpos. Grandes, deformes, con la piel negra o gris, sin pelo, con el cerebro expuesto en la parte de arriba del cráneo. Algunos tienen alas. Otros, más brazos de los que deberían. Todos con los ojos cerrados y tubos que les entran por la boca y por la espalda. Están quietos, pero respiran. Las burbujas suben despacio por el líquido de cada tanque.
+
+Los Nomu duermen.
+
+Al fondo, entre las máquinas, frente a una pared llena de pantallas y teclados, hay un viejo.
+
+Chiquito, encorvado, con bata blanca. Calvo, con un bigote gris enorme que le cae como dos cortinas a los costados de la boca, y unas gafas redondas de cristales gruesos empujadas hacia la frente. Está sentado en una silla con ruedas, comiendo algo de un plato con palillos, mientras mira una pantalla con gráficos.
+
+Se le cae un fideo.
+
+Se da vuelta despacio, con la silla, y te ve. Parpadea detrás de las gafas.
+
+—¿Eh? —dice, con una voz aguda, cascada—. ¿Y tú quién eres? Esta área es privada, muchacho, ¿te perdiste? ¿Cómo bajaste hasta aquí...?
+
+Entonces ve a Kase en tu hombro. Y te mira la cara de nuevo, con más atención. Y algo le cambia en la expresión.
+
+Deja el plato en la mesa.
+
+La mano arrugada se le va, muy despacio, como sin querer, hacia un botón rojo grande que hay en el borde del teclado, debajo de una tapa de plástico transparente.
+
+—No te muevas —dice, ya sin voz de abuelito—. Ni un paso más.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1126 · BOKU NO HERO · DIC. · 12:11     ║
+║ Jaku · laboratorio bajo el hospital          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ ALERTA: docenas de Nomu en tanques           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Garaki y los Nomu                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:11, laboratorio bajo el hospital de Jaku. Garaki con la mano yendo al botón rojo que despierta a los Nomu. Docenas de Nomu en tanques. Facundo puede actuar.

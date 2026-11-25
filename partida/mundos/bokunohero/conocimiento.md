@@ -52,3 +52,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Shigaraki, Gigantomachia · T1122 · ven a Facundo aparecer en el valle donde pelean (con un gato en el hombro).
 - Nezu · T1124 · por Facundo (teléfono): Dabi, Toga, Compress, Shigaraki, Twice (y Spinner) inconscientes en la cabaña. Facundo va por "los demás". All Might le avisó desde Tartarus.
 - Nezu, Aizawa · T1125 · Facundo irá por Deika y la fábrica de Jaku. Aizawa, Present Mic y Ectoplasm van a la cabaña con transporte de la Comisión.
+- Nezu · T1126 · Facundo: Gigantomachia inconsciente en el valle. Nezu manda rodearlo y pedir un segundo transporte. Facundo corta.
+- Kyudai Garaki · T1126 · vio a Facundo aparecer en el laboratorio con un gato.
