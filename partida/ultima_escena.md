@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1078)
-me alegro wiene, le acaricio la cabeza
-
-## RESPUESTA 1 (T1078)
-
-> me alegro wiene, le acaricio la cabeza
-
-> —Me alegro, Wiene.
-
-Le apoyas la mano en la cabeza, entre el pelo celeste, al lado de la gema roja de la frente.
-
-Wiene cierra los ojos. Se queda quieta debajo de tu mano, como un gato al sol, con una sonrisa enorme. La cola se le mueve sola, de un lado al otro, barriendo el musgo luminoso.
-
-Kase la mira desde tu hombro. Después estira el cuello y le olfatea la gema de la frente. Estornuda. Wiene se ríe.
-
-Lido se levanta del musgo, despacio. Tiene los ojos de reptil húmedos y no hace nada para disimularlo.
-
-—Facundo. —Se acerca. Se saca algo del cuello: un cordón de cuero gastado con una escama colgando, roja, grande como la palma de una mano, brillante como un vidrio de catedral—. Esta es mía. Del pecho, de cuando cambié de piel la primera vez, apenas nací. Los Xenos no tenemos mucho que dar. —Te la pone en la mano y te cierra los dedos encima con su garra—. Pero si algún día bajas a la Mazmorra y ves una de estas, sabes que estás entre amigos. Y si alguno de nosotros la ve en tu cuello, va a saber quién eres.
-
-Gros se acerca por detrás, con las alas plegadas.
-
-—Te dije que si no eras lo que decías, te iba a encontrar. —Gruñe, bajo—. Eras lo que decías.
-
-No dice nada más. Pero inclina la cabeza de piedra, apenas.
-
-Bell está a un costado, con la capa de Wiene en el cuello, mirando la aldea con los ojos brillantes, como si no pudiera creer que de verdad estuvieran todos ahí. Después mira hacia arriba, hacia la bóveda de ramas, como si a través de veinte pisos de piedra pudiera ver el cielo de Orario.
-
-—Señor Facundo... —dice, un poco avergonzado—. La diosa Hestia dijo antes del amanecer. Y si me encuentran fuera de casa con la alarma...
-
-Wiene abre los ojos debajo de tu mano. Mira a Bell. Se le borra un poco la sonrisa.
-
-[Objeto: escama de Lido (roja, de su primera muda), en un cordón de cuero.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1078 · DANMACHI · NOCHE 2 · 00:34      ║
-║ La Mazmorra · piso 20, aldea de los Xenos    ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: Devolver a Bell a casa             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1079)
+## COMANDO 1 (T1079)
 bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
 
-## RESPUESTA 2 (T1079)
+## RESPUESTA 1 (T1079)
 
 > bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
 
@@ -119,10 +69,10 @@ Frunce el ceño.
 
 ---
 
-## COMANDO 3 (T1080)
+## COMANDO 2 (T1080)
 voy a ir a ver a la familia loki, no tengo miedo de ellos
 
-## RESPUESTA 3 (T1080)
+## RESPUESTA 2 (T1080)
 
 > voy a ir a ver a la familia loki, no tengo miedo de ellos
 
@@ -191,4 +141,58 @@ Arriba, en el balcón, la mujer pelirroja deja el vaso en la baranda y abre los 
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:45, portón de la Mansión del Crepúsculo. La Familia Loki lo reconoce; 30 armas desenvainadas; Finn los frena con una mano. Loki, desde el balcón, le pregunta quién es. Facundo puede responder.
+## COMANDO 3 (T1081)
+soy el que andan buscando
+
+## RESPUESTA 3 (T1081)
+
+> soy el que andan buscando
+
+> —Soy el que andan buscando.
+
+En el balcón, Loki se queda quieta un segundo. Después echa la cabeza para atrás y se ríe a carcajadas, golpeando la baranda con la palma.
+
+—¡Ja! ¡Lo dice como si nada! —Se seca un ojo—. ¡Me encanta este chico! ¡Finn, me encanta!
+
+Finn no se ríe.
+
+Baja la escalinata despacio, un escalón por vez, sin sacar la lanza de la espalda. Riveria baja detrás, con el báculo en la mano. Gareth no se mueve del último escalón, pero se cambia el hacha de hombro.
+
+Los treinta aventureros abren paso. Finn cruza el patio y se detiene del otro lado del portón de hierro, a tres metros de ti, con los barrotes entre los dos. Desde ahí arriba parece un chico. De cerca no: tiene arrugas finas al costado de los ojos y una cicatriz vieja en la mano derecha.
+
+Te mira el pelo, los ojos, la cicatriz, el gato. Se toma su tiempo.
+
+—Finn Deimne, capitán de la Familia Loki —dice. La voz es tranquila, educada, sin una pizca de calor—. Hace dos horas dejaste inconscientes a seis de nuestros aventureros en Dédalo. Uno de ellos, Bete Loga, es Nivel cinco. Dice que no te vio moverte.
+
+Se le contrae el pulgar de la mano derecha, apenas, un tic. Se lo mira de reojo. Después vuelve a mirarte.
+
+—Y desde hace veinte minutos —sigue— los rastros de los monstruos de Dédalo se cortaron. Todos. A la vez. Los perros de la Familia Ganesha no encuentran nada. Ni sangre, ni olor, ni huellas. Como si hubieran desaparecido de la superficie.
+
+Detrás de él, Riveria entrecierra los ojos.
+
+Arriba, en el balcón, Loki ya no se ríe. Tiene los ojos rojos abiertos, fijos en ti, y una sonrisa chiquita, curiosa.
+
+—Así que voy a preguntarte esto una sola vez —dice Finn—. Y te advierto que mi diosa está escuchando, y que a los dioses no se les puede mentir.
+
+Apoya una mano en un barrote del portón.
+
+—¿Dónde están los monstruos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1081 · DANMACHI · NOCHE 2 · 00:46      ║
+║ Orario · portón de la Mansión del Crepúsculo ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: La Familia Loki                    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:46, portón de la Mansión del Crepúsculo. Finn, al otro lado de los barrotes, le pregunta dónde están los monstruos; Loki escucha (detecta mentiras). Facundo puede responder.

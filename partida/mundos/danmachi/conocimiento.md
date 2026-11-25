@@ -37,3 +37,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hestia, Lili, Welf, Mikoto, Haruhime · T1079 · por Bell: los Xenos están todos en el piso 20, Asterius incluido; Facundo los llevó. Vieron a Bell aparecer con Facundo.
 - Hestia y su Familia · T1080 · Facundo va a ver a la Familia Loki; no les tiene miedo (Hestia: verdad).
 - Familia Loki en la Mansión del Crepúsculo (Finn, Riveria, Gareth, Loki, ~30 aventureros, guardias) · T1080 · lo ven aparecer en el portón; coincide con la descripción de Bete. No saben su nombre.
+- Finn, Loki, Riveria, Gareth y la Familia Loki · T1081 · Facundo admitió ser "el que andan buscando". Finn sabe (por Ganesha) que los rastros de los Xenos se cortaron todos a la vez hace ~20 minutos.
