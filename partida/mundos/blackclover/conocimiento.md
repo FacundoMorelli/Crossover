@@ -42,3 +42,5 @@
 - Gauche, Gordon, Grey · T1284 · Facundo les pidió atar a los del Ojo y desapareció (teletransporte).
 - Yami · T1284 · vio a Facundo aparecer en la terraza de Amanecer Dorado; nota su Ki tranquilo (no su poder).
 - Facundo · T1284 · por Yami: Asta preguntó por él todos los días durante tres semanas y después miraba la explanada cada mañana.
+- Facundo · T1285 · por Yami: Langris (vicecapitán de Amanecer Dorado, hermano de Finral) mostró en el examen un maná como el de Vetto; Marx sospecha de infiltrados inconscientes; hoy los Caballeros Reales atacan la base del Ojo en las Rocas Gravito (Asta, Noelle, Luck, Zora, Mereoleona); Yami sospecha que William Vangeance es el líder del Ojo (cicatriz/máscara) y lo espera para preguntarle.
+- Yami · T1285 · recuerda que Facundo llegó al templo preguntando por Kiato y Kahono por nombre.

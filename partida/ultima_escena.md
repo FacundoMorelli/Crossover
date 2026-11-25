@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1282)
-aparezco en frente de ella, y tu quien eres?
-
-## RESPUESTA 1 (T1282)
-
-> aparezco enfrente de ella
-
-En el borde del bosque, entre los primeros árboles, viene volando algo raro: una especie de tabla de metal con dos hélices chicas, zumbando, que esquiva los troncos a toda velocidad. Arriba, parada sobre la tabla como sobre una patineta, viene una chica.
-
-Apareces enfrente.
-
-La tabla frena tan de golpe que la chica casi sale despedida por encima. Se agarra de una de las hélices con las dos manos, se balancea, y queda colgando a medio metro del pasto, con la tabla zumbando sobre su cabeza.
-
-Es bajita, de pelo corto rosado, con unas antiparras enormes subidas en la frente y una bata blanca de laboratorio, llena de manchas de colores y bolsillos con frascos que tintinean. Tiene una sonrisa gigante y los ojos brillantes, como los de un chico en una juguetería.
-
-> —¿Y tú quién eres?
-
-—¡¿Yo?! —Se suelta de la hélice y cae parada en el pasto, delante de ti, con los brazos abiertos—. ¡Sally! ¡La investigadora más brillante del Ojo del Sol de Medianoche! ¡Y la más linda!
-
-Después te mira. De verdad. Se le van los ojos al pelo, mitad blanco, mitad azul. A los tatuajes del cuello. A Kase. Y al final, a tus ojos. El rojo. El azul.
-
-Se le abre la boca. Se baja las antiparras de un tirón y te mira a través de ellas, acercándose hasta quedar a un palmo de tu cara, en puntas de pie.
-
-—Oooh —susurra, encantada—. Oooooh. ¡Heterocromía completa! ¡Y no es magia, es de nacimiento! —Se sube las antiparras otra vez, con las mejillas rojas de emoción—. ¡Y no te puedo leer el maná! ¡Nada! ¡Es como si no tuvieras! ¡Pero acabo de verte aparecer de la nada!
-
-Mira por encima de tu hombro, hacia el patio. Ve a No.0 enterrado de cabeza. A Rades y a Valtos tirados en el pasto. A Gordon con la piedra en las manos.
-
-Se le pone la cara seria un segundo. Después se le ilumina otra vez, más que antes.
-
-—¡¿Tú hiciste eso?! ¡¿Tú solo?! —Saca de un bolsillo de la bata una libreta y un lápiz y empieza a anotar sin mirar—. ¡Olvídate del enano antimagia! ¡Tú eres mucho más interesante!
-
-Levanta la vista de la libreta. Sonríe enorme.
-
-—¿Puedo abrirte? Aunque sea un poquito.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1282 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros · borde del bosque · 12:13 ║
-║ NIVEL 29 · EXP 290.930/320.000               ║
-║ FRAGMENTOS 110.102 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1283)
+## COMANDO 1 (T1283)
 la dejo inconsciente, bueno donde esta el capitan yami entonces?
 
-## RESPUESTA 2 (T1283)
+## RESPUESTA 1 (T1283)
 
 > la dejo inconsciente
 
@@ -113,10 +61,10 @@ En el pasto, Sally murmura algo dormida y se ríe sola.
 
 ---
 
-## COMANDO 3 (T1284)
+## COMANDO 2 (T1284)
 atenlos, me teletransporto con yami
 
-## RESPUESTA 3 (T1284)
+## RESPUESTA 2 (T1284)
 
 > —Átenlos.
 
@@ -169,7 +117,63 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1285)
+que esta pasando en realidad?
+
+## RESPUESTA 3 (T1285)
+
+> —¿Qué está pasando en realidad?
+
+Yami no contesta enseguida.
+
+Se apoya de espaldas contra la balaustrada, con los codos sobre la piedra, y mira hacia abajo, al patio de las fuentes. Unos caballeros de Amanecer Dorado cruzan el patio con capas blancas y doradas, conversando, sin levantar la vista.
+
+—Hace unas semanas, en el examen de los Caballeros Reales —dice al final—, el vicecapitán de esta casa, Langris, el hermano de Finral, sacó un maná que no era suyo. Negro. Pesado. Igual que el de aquel bicho del templo, el que mandaste a volar por tres paredes. —Le da una pitada al cigarro—. Marx, el de Julius, cree que hay gente del Ojo metida en los Caballeros Mágicos sin saberlo ellos mismos. Como si les hubieran plantado algo adentro.
+
+Suelta el humo despacio.
+
+—Hoy los mocosos se fueron con los Caballeros Reales a reventar la base del Ojo, en las Rocas Gravito. Asta, Noelle, Luck, el nuevo, Zora. Con la loca de Mereoleona al frente.
+
+Se queda callado un momento. Mira el estandarte dorado con el sol, que flamea arriba de la entrada.
+
+—Y yo estoy aquí.
+
+Se da vuelta hacia ti. Se saca el cigarro de la boca y lo aplasta contra la balaustrada, sin apuro.
+
+—Hace años que conozco al capitán de esta casa. William Vangeance. Siempre con esa máscara, siempre tan amable, siempre el que tiene la frase correcta. —Le cambia la voz, apenas—. Le debo cosas. Y él me debe a mí. Somos de los pocos capitanes que no nacieron con apellido.
+
+Te mira a los ojos.
+
+—Los que vieron al líder del Ojo cuando atacaron la capital dicen que tenía una cicatriz en la cara. —Hace una pausa—. William se tapa media cara con una máscara desde que lo conozco.
+
+No dice nada más por un segundo. El viento mueve el estandarte.
+
+—Así que lo vine a esperar. Para preguntarle en la cara. —Saca otro cigarro del bolsillo y lo prende con un chasquido de dedos—. Si dice que no, le creo. Si dice que sí...
+
+No termina.
+
+Te mira otra vez, de reojo, con la mirada pesada.
+
+—Tú siempre sabes cosas que no deberías saber, gato. Ya lo hiciste en el templo: llegaste preguntando por Kiato y Kahono por nombre. —Le da una pitada larga—. ¿Sabes algo de esto?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1285 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · base de Amanecer Dorado · terraza  ║
+║ NIVEL 29 · EXP 290.980/320.000 · 12:18       ║
+║ FRAGMENTOS 110.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:16, terraza de Amanecer Dorado. Yami recibe a Facundo y pregunta qué hace ahí el único día del año en que no quiere ver a nadie. Facundo puede responder.
+ESTADO AL CIERRE: Black Clover, 12:18, terraza de Amanecer Dorado. Yami explicó sus sospechas sobre William Vangeance y le pregunta a Facundo si sabe algo. Facundo puede responder.

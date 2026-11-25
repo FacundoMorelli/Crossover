@@ -1283,3 +1283,4 @@ T1281 · BC · Base · Valtos inconsciente (+25 F, +150 EXP); la piedra mágica 
 T1282 · BC · Borde del bosque · Aparece frente a Sally. "¡Heterocromía! ¡No te puedo leer el maná! ¿Puedo abrirte?"
 T1283 · BC · Base · Sally inconsciente (+5 F, +50 EXP). "¿Dónde está Yami?" En Amanecer Dorado, esperando a alguien. Gauche: "¿Los tiramos al lago?"
 T1284 · BC · Amanecer Dorado · "Átenlos." Se teletransporta con Yami. Yami: "El gato. Dijiste unos días." "¿Qué haces aquí el único día del año en que no tengo ganas de ver a nadie?"
+T1285 · BC · Amanecer Dorado · Yami explica: Langris con maná como el de Vetto; sospecha de William. "¿Sabes algo de esto?"

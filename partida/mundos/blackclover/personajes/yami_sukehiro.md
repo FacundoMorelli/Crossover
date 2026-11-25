@@ -23,4 +23,5 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
 
 DIÁLOGOS CLAVE:
+- T1285 · "Langris sacó un maná que no era suyo. Negro. Pesado. Igual que el de aquel bicho del templo." "Hoy los mocosos se fueron con los Caballeros Reales a reventar la base del Ojo." "Somos de los pocos capitanes que no nacieron con apellido." "William se tapa media cara con una máscara desde que lo conozco." "Si dice que no, le creo. Si dice que sí..." "Tú siempre sabes cosas que no deberías saber, gato. ¿Sabes algo de esto?"
 - T1284 · "Mira tú. El gato." "Unos días, dijiste." "Asta preguntó por ti todos los putos días durante tres semanas. Después dejó de preguntar en voz alta. Igual seguía mirando la explanada todas las mañanas." "Tu Ki está igual. Demasiado tranquilo, como un lago sin fondo." "¿Qué haces aquí, en Amanecer Dorado, en el único día del año en que no tengo ganas de ver a nadie?"
