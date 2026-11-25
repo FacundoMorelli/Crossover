@@ -63,3 +63,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hawks · T1135 · Facundo (Eclipse, consultor de la U.A.) sabe que es el infiltrado.
 - Hawks · T1136 · por Facundo: Shigaraki, Dabi, Toga y los demás de la Liga detenidos. Facundo lo supo por Endeavor.
 - Facundo · T1136 · por Hawks: el Ejército de Liberación tiene unos 116.000 miembros en Deika; Skeptic debía mandar un informe a las 14:00.
+- Hawks · T1137 · vio a Facundo dejar inconsciente a toda Deika (116.000) con una presión de voluntad desde el ventanal, excepto a él.

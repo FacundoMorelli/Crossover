@@ -3,90 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1134)
-hago lo que tengo que hacer sin hacerle nada a hawks
-
-## RESPUESTA 1 (T1134)
-
-> hago lo que tengo que hacer sin hacerle nada a Hawks
-
-Kase te sube al hombro de un salto. Endeavor ya te dio la espalda.
-
-Te vas.
-
-Deika.
-
-Desde arriba, desde el aire, es una ciudad normal. Calles limpias, edificios de oficinas, una estación de tren, un parque con un lago. Gente que camina con bolsas de compras, autos en los semáforos, niños saliendo de una escuela con sus mochilas.
-
-Pero cuando cierras los ojos, la sientes como la sentiste desde la U.A.: decenas de miles de presencias que no se mueven como una ciudad. Se mueven como un ejército. Cada edificio importante, cada esquina, cada comercio, tiene a alguien que espera una orden.
-
-Y en el centro, en lo alto de una torre de cristal con un letrero que dice DETNERAT, las presencias que dan esas órdenes.
-
-Buscas la otra primero. La que no tienes que tocar.
-
-La encuentras lejos del centro, en una azotea del lado este: una presencia liviana, rápida, que nunca se queda quieta del todo, y alrededor de ella, cientos de puntitos chiquitos que se mueven como si fueran parte del mismo cuerpo. Plumas. Está sola. Está mirando hacia la torre.
-
-Bien.
-
-Apareces en el último piso de la torre.
-
-Es una sala de reuniones enorme, con ventanales de piso a techo y una mesa larga de madera oscura. Hay cinco personas sentadas alrededor.
-
-En la cabecera, un hombre muy alto, de traje caro, pelo castaño peinado hacia atrás y anteojos de marco fino, con las manos juntas sobre la mesa. A su derecha, una mujer de lentes con una libreta. Un hombre flaco con una máscara de tela que le tapa la boca, frente a una laptop. Otro de traje con cara de político, con una corbata roja. Y un muchacho de pelo blanco, de pie junto al ventanal, con la mano metida en un vaso de agua.
-
-El de la cabecera alcanza a levantar la vista.
-
-—¿Quién...?
-
-No termina.
-
-Cinco golpes. Ninguno lo ve. Ninguno lo oye.
-
-La mujer de lentes cae sobre su libreta. El de la laptop, de cara contra el teclado, y la pantalla se llena de letras. El de corbata roja se resbala de la silla. El de pelo blanco se dobla junto al ventanal, y el vaso de agua se le cae y se rompe contra el piso. El agua, que había empezado a levantarse sola del vaso como una serpiente, se desarma en un charco.
-
-El hombre alto de la cabecera es el último. Se queda sentado, con los ojos abiertos detrás de los anteojos, rígido, un segundo entero. Después se le va la cabeza hacia adelante y golpea la mesa.
-
-Silencio.
-
-Afuera, en la ciudad, nadie se da cuenta. Los semáforos siguen cambiando. Los niños siguen saliendo de la escuela.
-
-Y entonces sientes que la presencia liviana del lado este se mueve. Rápido. Muy rápido.
-
-Un segundo después, algo golpea el ventanal desde afuera. No lo rompe. Se queda ahí, pegado al vidrio, aleteando.
-
-Es un hombre joven, rubio, con unos lentes de aviador amarillos en la frente, una chaqueta con cuello de piel, y unas alas rojas enormes, de plumas, abiertas a los dos lados. Está mirando la sala. Los cinco cuerpos. La mesa.
-
-Y a ti.
-
-Una de las plumas de sus alas se desprende sola, flota hasta el vidrio, y se queda ahí, apuntándote, como una daga roja.
-
-—Ey —dice, con una sonrisa que no le llega a los ojos. Se le oye apenas, a través del cristal—. ¿Y tú quién eres, amigo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1134 · BOKU NO HERO · DIC. · 12:37     ║
-║ Deika · torre Detnerat, último piso          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Cúpula del Ejército: 5 inconscientes         ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Deika                              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1135)
+## COMANDO 1 (T1135)
 hola, soy el nuevo consultor de la ua, me llamo eclipse, tu debes ser el infiltrado no?
 
-## RESPUESTA 2 (T1135)
+## RESPUESTA 1 (T1135)
 
 > —Hola. Soy el nuevo consultor de la U.A. Me llamo Eclipse. Tú debes ser el infiltrado, ¿no?
 
@@ -137,10 +57,10 @@ Se endereza.
 
 ---
 
-## COMANDO 3 (T1136)
+## COMANDO 2 (T1136)
 endeavor y dije que sos infiltrado por que no hay muchos mas, eh digamos que shigaraki, dabi, toga, y los demas ya estan esposados, solo me falta aqui los demas
 
-## RESPUESTA 3 (T1136)
+## RESPUESTA 2 (T1136)
 
 > —Endeavor. Y dije que eras el infiltrado porque no hay muchos más. Eh... digamos que Shigaraki, Dabi, Toga y los demás ya están esposados. Solo me faltan los demás de aquí.
 
@@ -198,4 +118,72 @@ Se apoya en el borde de la mesa y te mira.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:40, torre Detnerat. Hawks sabe que la Liga cayó. Explica: 116.000 miembros, la mayoría civiles; informe de Skeptic a las 14:00. Pregunta qué piensa hacer Facundo con ellos. Facundo puede responder.
+## COMANDO 3 (T1137)
+solo mira y te diria que aprendas pero es imposible, uso haki del rey sobre toda deika, tranquilo estan inconscientes nada mas
+
+## RESPUESTA 3 (T1137)
+
+> —Solo mira. Te diría que aprendas, pero es imposible.
+
+Te acercas al ventanal. Hawks se queda donde está, apoyado en la mesa, con una ceja levantada.
+
+Miras la ciudad.
+
+Y sueltas la voluntad. No como en el laboratorio. Más. Mucho más. Hacia afuera, hacia abajo, hacia cada calle, cada edificio, cada esquina de Deika. Todo, menos el hombre de alas rojas que tienes detrás.
+
+[Haki del Rey · alcance: Deika entera · excepción: Hawks]
+
+El ventanal vibra. Un zumbido grave, como un trueno que no termina, recorre la torre de arriba abajo. Afuera, una bandada de palomas se levanta de golpe de la plaza y sale volando hacia el horizonte, lejos de la ciudad.
+
+Hawks se agarra al borde de la mesa. Las plumas de sus alas se erizan todas a la vez. No cae. Pero se le corta la respiración y se le ponen los ojos muy abiertos.
+
+Allá abajo, la ciudad se apaga.
+
+Empieza en el centro, alrededor de la torre, y se extiende hacia afuera como una ola. La gente que camina por las veredas se dobla y cae, despacio, como si se acostara. Un hombre con bolsas de compras se sienta en el cordón y se queda dormido contra un poste. Los autos de los semáforos siguen avanzando unos metros con los conductores desmayados sobre el volante y se van frenando solos, rozándose unos con otros, abollándose los guardabarros. Una camioneta se sube a la vereda y se queda empujando un buzón. Un ciclista se va de costado sobre un cantero de flores.
+
+En el patio de la escuela, los niños se sientan en el suelo con las mochilas puestas.
+
+Y después, silencio.
+
+Toda la ciudad. Ciento dieciséis mil personas.
+
+Solo quedan las bocinas de algunos autos que suenan solas, trabadas contra la cabeza de alguien. Las alarmas de los negocios. Un perro que ladra en algún patio. Los semáforos que siguen cambiando de color para nadie.
+
+Hawks suelta la mesa. Camina hasta el ventanal, despacio, y se queda a tu lado, mirando hacia abajo.
+
+No dice nada durante un rato largo.
+
+—...¿Todos? —dice al fin, con la voz muy baja.
+
+Una pluma se desprende sola de su ala y baja flotando hacia la calle, hacia un chico de unos diez años tirado junto a la reja de la escuela. Se le posa en el pecho. Sube y baja. Respira.
+
+Hawks cierra los ojos un segundo.
+
+—Están vivos —murmura—. Están todos vivos.
+
+Después saca un celular del bolsillo interno de la chaqueta. Un celular negro, pequeño, que no es el que usa adentro del Ejército. Lo mira. Te mira a ti.
+
+—Amigo —dice, con una sonrisa torcida que le tiembla un poco—, voy a tener que llamar a la Comisión. Y no tengo la menor idea de qué les voy a decir.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1137 · BOKU NO HERO · DIC. · 12:41     ║
+║ Deika · torre Detnerat, último piso          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Deika: 116.000 inconscientes · vivos         ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:41, torre Detnerat. Deika entera inconsciente (116.000, vivos). Hawks a tu lado con su celular secreto, a punto de llamar a la Comisión. Facundo puede actuar.

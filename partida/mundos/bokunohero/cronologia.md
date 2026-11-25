@@ -43,3 +43,4 @@
 - T1130 · Endeavor, héroes y policía llegan al laboratorio de Jaku. Evacuan el hospital de arriba.
 - T1132 · Kyudai Garaki detenido. La Comisión cita a Eclipse.
 - T1134 · Cúpula del Ejército de Liberación Paranormal (Re-Destro, Curious, Skeptic, Trumpet, Geten) inconsciente en la torre Detnerat. La ciudad no se entera.
+- T1137 · Deika entera inconsciente. El Ejército de Liberación Paranormal neutralizado sin muertos.
