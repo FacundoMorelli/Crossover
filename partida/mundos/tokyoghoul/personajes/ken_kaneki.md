@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1155 · "Yo me fui de ahí para protegerlos." "Anteiku está en el centro del Distrito 20, a unas cuadras de la estación. Si es Anteiku, quiero entrar yo primero. Solo."
 - T1154 · "Gracias. Están todos vivos." "No sé quién eres ni cómo haces esto. Pero nos sacaste a todos. ¿Y ahora adónde vamos?"
 - T1153 · "¿Por qué me ayudas? Casi lo mato." "Banjou-san. Hinami, Tsukiyama-san, los tres de las máscaras. Están aquí abajo. No me puedo ir sin ellos."
 - T1151 · "Está vivo. No lo maté."

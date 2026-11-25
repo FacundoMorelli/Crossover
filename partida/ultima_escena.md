@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1152)
-no es una buena forma de hablarle al que te salvo la vida
-
-## RESPUESTA 1 (T1152)
-
-> —No es una buena forma de hablarle al que te salvó la vida.
-
-El hombre de la armadura te mira. Parpadea.
-
-Después mira a Amon.
-
-—Lo curó, señor Shinohara —dice Amon, con la voz rara, como si no se terminara de creer lo que dice—. Con la mano. Le dio algo de comer y le puso la mano en el pecho, y el agujero... —Traga saliva—. Usted tenía un agujero. Del tamaño de mi puño. Yo lo vi.
-
-Shinohara se queda callado un segundo. Se toca otra vez el costado, por debajo de las placas rotas. Piel lisa. Ni una cicatriz.
-
-Y entonces se ríe. Una carcajada corta, ronca, que le sale del fondo del pecho y le hace toser otra vez.
-
-—Tienes razón, muchacho. Tienes toda la razón. —Se incorpora despacio, apoyando un codo en los escombros, con una mueca—. Perdón. Uno se despierta en el piso de un sótano, con la boca de un ghoul todavía manchada de su sangre a cuatro metros, y se le olvidan los modales. —Te extiende la mano enguantada, desde el piso—. Yukinori Shinohara. Investigador de Clase Especial de la CCG. Gracias. De verdad.
-
-Tiene un apretón fuerte, de alguien que entrenó toda la vida.
-
-Se pone de pie con ayuda de Amon. Se tambalea un poco, se endereza. Mira alrededor: la sala destrozada, las luces rojas, su propia sangre en el piso. Y vuelve a mirar al muchacho de pelo blanco sentado contra la pared, que sigue tapándose la cara con las manos.
-
-Se le borra la sonrisa.
-
-—El Ciempiés —dice, en voz baja—. Lo teníamos. Lo tenía de rodillas, y sacó un segundo kagune de la nada.
-
-Amon levanta la maza otra vez. La cabeza metálica se retuerce, despierta.
-
-—Señor Shinohara, ¿lo tomamos?
-
-Shinohara no contesta enseguida. Mira a Kaneki. Kaneki baja las manos despacio y lo mira a él. Tiene los dos ojos normales ahora, grises, rojos de llorar. Parece un chico de veinte años cualquiera, sentado en un charco de sangre ajena.
-
-Por el pasillo se oye otra cosa. Pasos rápidos, livianos, saltarines. Y una voz aguda, cantando una canción sin melodía, cada vez más cerca.
-
-—¡Señor Shinohaaaaraaa! ¿Sigue vivo? ¡Le traje uno de los brazos de la gemela, por si lo quiere ver!
-
-Shinohara cierra los ojos un segundo.
-
-—Juuzou —murmura.
-
-Después te mira a ti.
-
-—Muchacho, no sé quién eres ni de dónde saliste. Pero lo que viene por ese pasillo no va a preguntar si el ghoul está llorando o no. —Hace una pausa—. ¿Tú qué quieres que pase con él?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1152 · TOKYO GHOUL · NOCHE · 23:44     ║
-║ Mansión · laboratorio subterráneo            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1153)
+## COMANDO 1 (T1153)
 no se preocupen yo me lo llevo, kaneki ken, no? dime a donde te llevo donde puedas estar seguro?
 
-## RESPUESTA 2 (T1153)
+## RESPUESTA 1 (T1153)
 
 > —No se preocupen, yo me lo llevo.
 
@@ -125,10 +61,10 @@ La sonrisa no se le mueve ni un milímetro.
 
 ---
 
-## COMANDO 3 (T1154)
+## COMANDO 2 (T1154)
 quedate ahi chico, bueno kaneki entonces vamos a buscarlos, lo toco y me teletransporto a donde estan cada uno y los llevo todos a anteiku
 
-## RESPUESTA 3 (T1154)
+## RESPUESTA 2 (T1154)
 
 > —Quédate ahí, chico.
 
@@ -211,4 +147,68 @@ Kaneki no le contesta. Sigue mirándote a ti.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:46, acantilado. El grupo de Kaneki a salvo con Facundo. Facundo no conoce Anteiku (necesita verlo o sentir a alguien de ahí). Kaneki pregunta adónde van. Facundo puede responder.
+## COMANDO 3 (T1155)
+diganme cual es un lugar seguro
+
+## RESPUESTA 3 (T1155)
+
+> —Díganme cuál es un lugar seguro.
+
+Se miran entre ellos.
+
+El grandote es el primero en hablar, con la mano todavía apretada contra las costillas.
+
+—El escondite —dice—. Nuestro departamento, en el Distrito 20. Nadie de la CCG lo conoce. —Hace una mueca de dolor—. Tiene comida. Necesito comer algo para que esto cierre.
+
+Uno de los de las máscaras asiente, rápido.
+
+—Si me permiten —dice el de pelo violeta, con una sonrisa elegante pese a la cara cortada en diagonal—, la residencia de mi familia es infinitamente más cómoda que ese cuchitril. Tiene médico privado, cocina, sábanas de seda y unos muros que ni el Búho podría cruzar. —Se lleva una mano al pecho—. Y mi padre estaría encantado de recibir a Kaneki.
+
+—No —dice Kaneki enseguida, sin mirarlo.
+
+El de pelo violeta suspira, teatral, y no insiste.
+
+La chica sigue abrazada a Kaneki. Levanta la vista despacio, primero hacia él, después hacia ti. Tiene la voz muy bajita.
+
+—Anteiku —dice.
+
+Kaneki se pone rígido.
+
+—Hinami...
+
+—El señor Yoshimura siempre dijo que podíamos volver —insiste ella, todavía más bajito—. Que la puerta estaba abierta. Touka está ahí. Y el señor Yomo. —Le aprieta la manga—. Ahí nunca me pasó nada malo, hermano.
+
+Kaneki no contesta. Mira el suelo. Se le aprieta la mandíbula.
+
+—Yo me fui de ahí —murmura—. Me fui para protegerlos. Si vuelvo así, con la CCG buscándome... —Se mira las manos manchadas—. Si vuelvo así, los voy a poner en peligro a todos.
+
+El grandote resopla desde el tronco.
+
+—Kaneki, ya nos están buscando igual.
+
+Se hace un silencio. Solo el viento en los árboles y, abajo, las olas.
+
+Kaneki levanta la cabeza y te mira a ti.
+
+—El escondite está en el Distrito 20, cerca del río. Anteiku también, en el centro, a unas cuadras de la estación. —Hace una pausa—. Tú decides. Pero si es Anteiku... —Traga saliva—. Si es Anteiku, quiero entrar yo primero. Solo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1155 · TOKYO GHOUL · NOCHE · 23:47     ║
+║ Acantilado, bosque frente a la mansión       ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: Llevarlos a un lugar seguro        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:47, acantilado. Opciones: escondite (Distrito 20, cerca del río), residencia Tsukiyama, Anteiku (centro del Distrito 20, cerca de la estación). Kaneki deja decidir a Facundo; si es Anteiku, quiere entrar solo primero. Facundo puede decidir.
