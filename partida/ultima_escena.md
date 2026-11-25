@@ -3,83 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1066)
-lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
-
-## RESPUESTA 1 (T1066)
-
-> lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
-
-Bete da un paso hacia el borde del techo, hacia Gros.
-
-No llega a dar el segundo.
-
-El golpe le entra en la nuca, de costado, con el canto de la mano. No lo ve venir. No lo huele venir. Las orejas de lobo se le quedan paradas un instante, todavía apuntando hacia la gárgola, y después se le doblan las rodillas y cae de cara sobre las tejas, con los brazos abiertos. No se mueve más.
-
-Abajo, en el callejón, cinco antorchas se levantan a la vez.
-
-—¡¿Bete?!
-
-—¡¿Qué...?!
-
-Bajas.
-
-No saltas: estás arriba y después estás abajo, en medio de ellos, entre las antorchas. La de la máscara de elefante que suspiró antes es la primera: no llega a bajar la lanza. Un golpe seco en la sien. Después el de al lado. El chico de capa verde, que tenía la mano en la empuñadura de la espada, se queda con la mano ahí. Los otros dos alcanzan a abrir la boca para gritar.
-
-Cinco golpes. Cinco cuerpos en el empedrado, en el mismo segundo, como muñecos a los que les cortan los hilos. Las antorchas caen, ruedan, siguen ardiendo en el suelo.
-
-Ninguno sangra. Todos respiran.
-
-[Rivales vencidos: Bete Loga y cinco aventureros de las Familias Ganesha y Loki. +1.550 EXP · +50 Fragmentos.]
-
-El callejón queda en silencio. Solo crepitan las antorchas.
-
-Vuelves a subir al techo. Kase sigue en tu hombro, como si nada.
-
-Te das vuelta hacia la gárgola.
-
-> —Bueno, bien. Vamos con los demás. ¿Vienes o te quedas ahí haciéndote la estatua?
-
-Gros no se mueve durante un segundo largo.
-
-Después la estatua se vuelve gárgola otra vez, con un crujido de piedra. Se levanta despacio en el borde del techo. Mira a Bete, tirado de cara en las tejas. Mira hacia abajo, al callejón, a los cinco cuerpos alrededor de las antorchas.
-
-—Ese es Vanargand —dice. La voz de piedra se le quedó baja, casi un susurro—. Bete Loga. Nivel cinco. De la Familia Loki. Ayer nos persiguió por media Dédalo. Le rompió el ala a Fia de una patada.
-
-Te mira.
-
-—Y lo tiraste sin que se diera cuenta.
-
-Se le abren las alas, con la grieta del golpe todavía marcada en una de ellas.
-
-—Voy —dice—. Pero escúchame bien, Facundo Morelli. —Los ojos rojos se le encienden—. Cuando se despierten, van a decir tu cara. Tu gato. Tu pelo. A Finn Deimne. Al Gremio. A todos. —Una pausa—. Desde esta noche, en esta ciudad, eres igual que nosotros.
-
-Salta del techo. Abre las alas en el aire y planea, bajo, entre las chimeneas, hacia el este.
-
-—Primero Lido —dice por encima del hombro—. Es el que más sabe salir de aquí.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1066 · DANMACHI · NOCHE 1 · 23:15      ║
-║ Orario · Calle Dédalo, techos                ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Lido y Wiene (panadería quemada)   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1067)
+## COMANDO 1 (T1067)
 lo toco y me teletransporto hacia lido
 
-## RESPUESTA 2 (T1067)
+## RESPUESTA 1 (T1067)
 
 > lo toco y me teletransporto hacia lido
 
@@ -143,10 +70,10 @@ Ladea la cabeza escamosa.
 
 ---
 
-## COMANDO 3 (T1068)
+## COMANDO 2 (T1068)
 me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
 
-## RESPUESTA 3 (T1068)
+## RESPUESTA 2 (T1068)
 
 > me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
 
@@ -202,4 +129,59 @@ Lido le pone una garra en el hombro. No dice nada.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:18, sótano de la panadería quemada. Lido acepta (todos). Wiene pide ver a Bell antes de irse, para devolverle la capa y despedirse. Facundo puede responder.
+## COMANDO 3 (T1069)
+esta bien
+
+## RESPUESTA 3 (T1069)
+
+> esta bien
+
+> —Está bien.
+
+Wiene levanta la cabeza de golpe.
+
+La cara pálida se le ilumina entera, como si alguien hubiera prendido una vela adentro. Se le escapa una risa chiquita, aguda, y da un saltito en la ceniza con la capa enorme colgando.
+
+—¿De verdad? ¿De verdad de verdad?
+
+Corre hacia ti. Se frena a un paso, de golpe, como si de pronto se acordara de que no te conoce. Te mira desde abajo. Después mira a Kase. Levanta una mano con escamas, despacio, hacia el gato.
+
+Kase la huele. Una vez. Después le apoya la nariz en la punta de los dedos.
+
+Wiene se ríe otra vez.
+
+—Gracias, Facundo —dice, con una sonrisa que le ocupa toda la cara—. Gracias.
+
+Lido arranca las cimitarras de la ceniza y se las cruza a la espalda. Se le ve más derecho que hace un minuto.
+
+—Bellucchi vive en la casa de la diosa Hestia, en la parte noroeste —dice, ya pensando—. La Hearthstone Manor. Pero desde ayer hay gente de la Familia Ganesha vigilando la puerta día y noche, y los de Loki pasan cada hora. Saben que Bell nos ayudó. —Frunce el hocico—. Si aparece un monstruo cerca de esa casa, lo van a colgar a él.
+
+Gros gruñe desde su rincón.
+
+—Hay que juntar a los demás primero. El troll no aguanta otra noche en Knossos. Y Rei lleva dos días sin agua en ese campanario.
+
+—Y si juntamos a todos y después vamos a ver a Bell, somos veinte monstruos —dice Lido—. Más fácil de ver.
+
+Se queda callado. Después se vuelve hacia ti, con los brazos cruzados sobre la armadura de cuero.
+
+—Tú eres el que nos mueve, compañero. —Te mira, serio—. ¿Primero los demás, o primero Bellucchi?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1069 · DANMACHI · NOCHE 1 · 23:19      ║
+║ Orario · sótano de la panadería quemada      ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Llevar a todos los Xenos           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:19, sótano de la panadería quemada. Facundo le prometió a Wiene que verá a Bell. Lido pregunta si primero juntan a los demás Xenos o primero van con Bell (Hearthstone Manor vigilada). Facundo decide.

@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: esperanza cautelosa (T1068).
 ENCUENTROS:
 - T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:
+- T1069 · "¿De verdad? ¿De verdad de verdad?" "Gracias, Facundo. Gracias."
 - T1068 · "¿A casa? ¿Abajo? ¿Con todos?" "Esta es de Bell. Me la dio para que no tuviera frío. Si me voy... ¿puedo verlo antes? Aunque sea un ratito. Para devolvérsela. Para decirle adiós."
 - T1067 · "¿Bell...? ¿Viene Bell?"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1067).
