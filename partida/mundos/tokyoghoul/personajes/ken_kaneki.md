@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1160 · "Yoshimura-san. Si la operación se llama así... y es contra este lugar..." (no termina)
 - T1159 · "En el Distrito 11, cuando atacaron Aogiri, apareció algo envuelto en kagune de pies a cabeza. Un búho."
 - T1158 · "Tienes los cuatro tipos. Y tus ojos no se ponen negros. ¿Eres como yo? ¿Te hicieron esto a ti también?"
 - T1155 · "Yo me fui de ahí para protegerlos." "Anteiku está en el centro del Distrito 20, a unas cuadras de la estación. Si es Anteiku, quiero entrar yo primero. Solo."

@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1157)
-entro
-
-## RESPUESTA 1 (T1157)
-
-> entro
-
-Adentro hace calor. Huele a café recién molido, a madera encerada y a algo dulce, como canela.
-
-Es un lugar chico y ordenado. Una barra de madera oscura con taburetes, una cafetera grande de metal que brilla bajo la luz amarilla, tazas blancas colgadas en fila. Cuatro o cinco mesas con sillas de respaldo alto, todas con las sillas apoyadas encima, patas arriba, como se dejan al cerrar. Plantas en macetas. Un reloj de pared que hace tic tac. En una estantería, frascos de vidrio con granos de café de distintos colores.
-
-Kaneki está sentado en un taburete de la barra, de espaldas a la puerta, con los hombros caídos. Tiene una toalla blanca en las manos, húmeda, con la que se estuvo limpiando la cara. La toalla está roja.
-
-Cuando entran los demás, no se da vuelta.
-
-Hinami sí. Cruza el local corriendo y se le abraza a la espalda.
-
-El grandote entra último, encorvado, apoyado en uno de los de las máscaras. El hombre mayor lo mira de reojo y hace un gesto suave hacia una puerta del fondo, detrás de la barra.
-
-—En la cámara del fondo, en el segundo estante, hay paquetes envueltos en papel marrón. —Lo dice con la misma voz con la que hablaría del clima—. Coma lo que necesite. Esa herida no va a cerrar sola.
-
-El grandote asiente, agradecido, y se va hacia el fondo con dos de los de las máscaras. El de pelo violeta se sienta en un taburete con las piernas cruzadas, como si estuviera en un club de lujo.
-
-El hombre mayor se pone detrás de la barra. Sin apuro, saca tres tazas, muele un puñado de granos en un molinillo de manivela, calienta el agua. Las manos se le mueven solas, con la precisión de alguien que hizo eso diez mil veces.
-
-Pone una taza frente a Kaneki. Otra frente a Hinami. Otra frente al de pelo violeta.
-
-Y después saca una cuarta taza, la llena despacio y la pone en la barra, frente al taburete vacío que queda a tu lado.
-
-—Me llamo Yoshimura —dice—. Soy el gerente de este lugar.
-
-Te mira por encima de los lentes. La cara sigue siendo amable. La voz sigue siendo suave.
-
-—Usted es humano, ¿verdad? —Hace una pausa—. Huele como uno. Respira como uno. Y sin embargo salió de una mansión llena de investigadores de la CCG con seis ghouls heridos, y ninguno de ellos lo quiere comer. —Inclina apenas la cabeza—. Kaneki dice que le salvó la vida a un investigador de Clase Especial. Delante de él.
-
-Kaneki, en el taburete, aprieta la toalla.
-
-Yoshimura empuja la cuarta taza unos centímetros hacia ti.
-
-—No tiene que contestarme nada, si no quiere. Pero me gustaría saber qué busca un humano como usted en un lugar como este.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1157 · TOKYO GHOUL · NOCHE · 00:04     ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1158)
+## COMANDO 1 (T1158)
 les miestro mi kagune
 
-## RESPUESTA 2 (T1158)
+## RESPUESTA 1 (T1158)
 
 > les muestro mi kagune
 
@@ -129,10 +69,10 @@ Pasa un segundo largo. El reloj de pared hace tic tac.
 
 ---
 
-## COMANDO 3 (T1159)
+## COMANDO 2 (T1159)
 no soy de aqui, soy un viajero, vine con una mision, conocen el nombre operacion del buho?
 
-## RESPUESTA 3 (T1159)
+## RESPUESTA 2 (T1159)
 
 > —No soy de aquí. Soy un viajero. Vine con una misión. ¿Conocen el nombre "Operación del Búho"?
 
@@ -183,4 +123,60 @@ Se apoya en la barra con las dos manos. Se inclina un poco hacia ti.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:06, Anteiku. Yoshimura, en guardia, pregunta cuál es la misión de Facundo y qué tiene que ver con Anteiku. Kaneki sospecha algo de Yoshimura y el Búho. Facundo puede responder.
+## COMANDO 3 (T1160)
+te la voy a decir como me la dijeron a mi "Que nadie de anteiku muera ni caiga en la operacion del buho"
+
+## RESPUESTA 3 (T1160)
+
+> —Te la voy a decir como me la dijeron a mí: "Que nadie de Anteiku muera ni caiga en la Operación del Búho".
+
+Nadie dice nada.
+
+Hinami afloja los brazos alrededor de la espalda de Kaneki. Tsukiyama baja despacio la mano del pecho. Desde la puerta del fondo, Banjou deja el paquete de papel marrón sobre un estante sin darse cuenta de que lo suelta.
+
+Yoshimura no se mueve.
+
+Sigue con las dos manos apoyadas en la barra, inclinado hacia ti. Pero la presencia que tiene adentro, esa cosa enorme que se había despertado, se queda quieta. No se encoge, no ataca. Se queda escuchando, como un animal viejo que oye por fin un ruido que esperaba hacía años.
+
+—Anteiku —repite en voz baja.
+
+Se endereza. Mira el local, despacio, como si lo viera por primera vez: las sillas patas arriba sobre las mesas, los frascos de granos, las tazas colgadas en fila, el reloj de pared.
+
+—"Que nadie muera ni caiga." —Asiente una vez, para sí—. No dice "que no destruyan el lugar". Dice "que nadie muera". Quien le dio esa misión sabía que el lugar no se iba a poder salvar.
+
+Saca los lentes del bolsillo del chaleco. No se los pone. Los deja doblados sobre la barra, junto al repasador.
+
+Kaneki lo está mirando. Ya no de reojo.
+
+—Yoshimura-san. —La voz le sale ronca—. Si la operación se llama así... y es contra este lugar...
+
+No termina la frase.
+
+Yoshimura tampoco la termina por él. Le sostiene la mirada a Kaneki un momento largo, con una tristeza muy tranquila, y después vuelve a mirarte a ti.
+
+—Usted no me preguntó si yo sé por qué la CCG le pondría ese nombre a una operación contra mi café. —Habla con la misma voz suave de antes, pero más lenta—. Y tampoco parece sorprendido de nada de lo que pasa en esta habitación.
+
+Hace una pausa.
+
+—Así que no voy a fingir con usted. —Junta las manos sobre la barra—. Solo dígame una cosa, señor viajero. ¿Cuánto tiempo nos queda?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1160 · TOKYO GHOUL · NOCHE · 00:07     ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ Kagune de Ceniza: fuera (bikaku)             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 00:07, Anteiku. Yoshimura no finge ante Facundo y pregunta cuánto tiempo les queda. Kaneki sospecha que Yoshimura es el Búho. Facundo puede responder.

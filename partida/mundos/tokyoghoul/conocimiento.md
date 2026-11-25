@@ -23,3 +23,4 @@
 - Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou · T1158 · vieron el Kagune de Ceniza de Facundo en las cuatro formas; sus ojos no cambian; huele a humano.
 - Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou · T1159 · Facundo: no es de aquí, es un viajero con una misión; preguntó por la "Operación del Búho". Yoshimura no la conoce.
 - Facundo · T1159 · por Yoshimura: el Búho es un ghoul de rango SSS, el más buscado del país. Por Kaneki: apareció en el Distrito 11 cuando atacaron Aogiri.
+- Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou · T1160 · Facundo dijo la misión textual: "Que nadie de Anteiku muera ni caiga en la Operación del Búho". Yoshimura deduce que la CCG planea destruir Anteiku y que el lugar no se salvará. Kaneki empieza a deducir que Yoshimura es el Búho (no lo dice entero).
