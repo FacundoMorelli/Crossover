@@ -3,53 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1225)
-si quisiera matar ya podrian estar todos muertos, ya lo dijo el de la armadura negra antes
-
-## RESPUESTA 1 (T1225)
-
-> —Si quisiera matar, ya podrían estar todos muertos. Ya lo dijo antes el de la armadura negra.
-
-Houji no contesta.
-
-Se queda mirándote, con los brazos colgando a los costados y las manos vacías. Detrás de los anteojos, los ojos le van y vienen de tu cara a tu mano, de tu mano a los veintiséis cuerpos dormidos en el asfalto, de los cuerpos a la Higher Mind destrozada contra la camioneta. Como alguien que hace una cuenta y la cuenta no le cierra por ningún lado.
-
-Detrás de él, el de la armadura negra levanta las dos manos hasta el casco. Suelta dos trabas, con dos chasquidos metálicos, y se lo saca.
-
-Abajo hay un hombre de unos cincuenta años, de cara ancha y cuadrada, pelo corto gris, cejas gruesas. Tiene la frente empapada de sudor. Te mira un largo rato, sin rencor, con algo parecido al cansancio.
-
-—Kuroiwa —dice, señalándose el pecho con el casco—. Iwao Kuroiwa. —Y después, a Shinohara, sin darse vuelta—: Yukinori. Tiene razón. Lo dije yo y lo sigo diciendo.
-
-Shinohara no contesta enseguida. Se pasa una mano por la cara. Se queda mirando al Búho, que sigue inmóvil detrás de ti, enorme y encorvado, con los brazos bajos y los ojos rojos fijos en él. Después mira a Kaneki, con los tentáculos todavía en el aire. A Touka, con el ala abierta. A Koma, que ya no tiene ni un rasguño. A los Apes del portal.
-
-Por último, te mira a ti.
-
-—Entonces dime qué hacemos —dice, y la voz le sale ronca, casi rota—. Porque yo no lo sé. —Señala la avenida con el casco que tiene en la mano—. Ese de ahí es el Búho. La radio ya lo dijo. En diez minutos hay otras tres unidades en esta calle. En veinte, viene alguien con quien tú no quieres hablar. —Traga—. ¿Qué propones? ¿Que volvamos a la oficina y digamos que se nos escapó? ¿Que nos durmió a todos, igual que a ellos?
-
-Houji, a tu lado, sigue sin moverse. Pero ahora te está escuchando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1225 · TOKYO GHOUL · DÍA 6 · 17:50     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1226)
+## COMANDO 1 (T1226)
 no les voy a decir que lo se, por que no lo se, hagamos algo, voy con ustedes a la oficina y ellos se van
 
-## RESPUESTA 2 (T1226)
+## RESPUESTA 1 (T1226)
 
 > —No les voy a decir que lo sé, porque no lo sé. Hagamos algo: voy con ustedes a la oficina, y ellos se van.
 
@@ -103,10 +60,10 @@ Detrás de ti, el Búho da un paso. Uno solo. El asfalto cruje.
 
 ---
 
-## COMANDO 3 (T1227)
+## COMANDO 2 (T1227)
 esta bien, solo con la condicion que dejen ir a todos esta noche, que dejen la operacion
 
-## RESPUESTA 3 (T1227)
+## RESPUESTA 2 (T1227)
 
 > —Está bien. Solo con la condición de que dejen ir a todos esta noche. Que dejen la operación.
 
@@ -156,7 +113,90 @@ Detrás de ti, el Búho no se mueve.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1228)
+bueno entonces no quedara otra, teletransporto a yoshimura, touka, kaneki y koma a anteiku, despues voy a buscar a irimi y tambien la llevo a anteiku y pongo en la barrera que no deje salir a nadie y vuelvo al callejon, listo, ahora si llevenme, no van a poder hacerles nada a ellos
+
+## RESPUESTA 3 (T1228)
+
+> —Bueno, entonces no quedará otra.
+
+No le das tiempo a nadie.
+
+Te das vuelta, apoyas la mano libre en el brazo cubierto de plumas del Búho, y en el mismo movimiento alcanzas el hombro de Kaneki, la muñeca de Touka y la espalda de Koma. Los cuatro sienten el tirón al mismo tiempo.
+
+—¡Facundo-san...! —alcanza a decir Kaneki.
+
+La avenida desaparece.
+
+La cocina de Anteiku. Olor a café. Nishiki, en la escalera, con una sartén en la mano como si fuera un arma, y Hinami detrás de él, con los ojos enormes. El Búho ocupa media cocina, encorvado, con la cabeza redonda rozando el techo. Koma cae sentado contra la mesada.
+
+—¿Qué...? —Koma mira alrededor—. ¡Mis muchachos están en el portal! ¡Panadero!
+
+Ya no estás.
+
+Buscas. A cinco cuadras al sur, en una calle angosta entre edificios bajos, hay una presencia que conoces: filosa, cansada, sangrando. Irimi.
+
+Apareces en la esquina.
+
+Está contra una pared, de rodillas, con una lanza de quinque clavada en el hombro derecho y la mano izquierda apretada sobre la herida. Delante de ella, en el suelo, una anciana humana acurrucada, con una bolsa de compras: Irimi está con el cuerpo en medio, entre la anciana y una fila de seis investigadores. Uno de ellos, un hombre de mandíbula dura y pelo corto, con una pistola en la mano, está diciendo algo sobre "ejecución en el lugar".
+
+Tocas a Irimi en la espalda.
+
+La calle desaparece. La anciana se queda sola en la vereda, en el medio de los investigadores, que miran la pared vacía.
+
+Cocina de Anteiku. Irimi cae de lado sobre las baldosas con la lanza todavía clavada en el hombro. Koma grita su nombre.
+
+Mientras todos se dan vuelta hacia ella, tú ya estás en la vereda, frente a la puerta, con la mano sobre el hilo plateado junto al cordón.
+
+Le das la orden nueva. Nadie sale. Nadie de los que están adentro puede cruzar el umbral hacia afuera, ni por la puerta, ni por el callejón, ni por las ventanas, ni por el techo. Nadie entra a hacer daño. Nada que venga contra este lugar pasa.
+
+El hilo brilla un instante, como una telaraña al sol, y se apaga.
+
+Por el vidrio de la puerta ves al Búho, del otro lado, mirándote. La cabeza redonda inclinada. No se mueve hacia la puerta. Detrás de él, Kaneki golpea el vidrio con las dos manos, una vez, y el vidrio no se rompe. Ni siquiera vibra.
+
+Te vas.
+
+...
+
+Avenida 3.
+
+Apareces donde estabas, en medio del asfalto, entre los veintiséis investigadores dormidos, con la quinque curva de Houji todavía en la mano.
+
+En el portal, los cuatro Apes heridos siguen apiñados. Pero ahora, delante de ellos, de espaldas a ellos, de pie, con el casco bajo el brazo, está Kuroiwa. Entre ellos y la avenida.
+
+Shinohara está donde lo dejaste, con la radio en una mano y las esposas en la otra. Houji, a un metro, mira el lugar vacío donde estaba el Búho. Después te mira la mano, donde está su quinque.
+
+> —Listo. Ahora sí, llévenme. No van a poder hacerles nada a ellos.
+
+Shinohara se queda mirándote. Después mira el lugar donde estaba el Búho. Después, las esposas.
+
+Suelta una risa corta, sin aire, que se le muere en la garganta.
+
+—El Búho, en un café. Con una pared que nadie puede cruzar. —Niega despacio con la cabeza—. Y yo, que voy a llevarle a Washuu al único hombre que sabe cómo abrirla.
+
+Da un paso hacia ti. Levanta las esposas blancas, abiertas, a la altura de tus muñecas. Se queda así, esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1228 · TOKYO GHOUL · DÍA 6 · 17:56     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: ir al puesto de mando con Shinohara║
+╚══════════════════════════════════════════════╝
+```
+
+(Escribiste "vuelvo al callejón"; lo tomé como volver a la avenida 3, donde te esperaban Shinohara y los demás.)
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:53, avenida 3. Washuu Yoshitoki negó el alto el fuego y ordenó proceder contra el Búho y llevar a Facundo al puesto de mando. Los tres Clase Especial quietos. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:56, avenida 3. Todos los de Anteiku encerrados en el café (nadie sale). Facundo volvió con la quinque de Houji en la mano. Shinohara le ofrece las esposas abiertas. Facundo puede actuar.

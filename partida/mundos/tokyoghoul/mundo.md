@@ -21,6 +21,7 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 - T1213 · Yoshimura muestra el kakugan y come un bollo delante de Shinohara (Clase Especial de la CCG), que no sabe que es el Búho.
 - T1215 · Días 3-5: ~97 transfigurados más (total ~138), de varios distritos. Apodo de Facundo entre ghouls: el Panadero. Día 6 17:40: la Operación del Búho empieza (antes que en el canon? el canon no tiene fecha exacta; adelantada por el rumor).
 - T1218 · Día 6 · Tres Apes muertos en la avenida antes de que Facundo llegue (cap. 127 del canon: Tanakamaru mata Apes con Higher Mind).
+- T1228 · Irimi sacada de la calle donde Hachikawa (?) quería ejecutarla (canon cap. 130-131: queda gravemente herida y reducida). Yoshimura, Kaneki, Touka, Koma e Irimi encerrados en Anteiku por el Recinto (nadie sale). Kuroiwa protege a los Apes heridos.
 
 ## TRANSFIGURACIÓN CONTRA EL HAMBRE (mecánica fijada T1169, explicada al jugador)
 - Siguen siendo ghouls: kagune, kakugan al usarlo, fuerza, regeneración y piel dura. Las células RC no cambian: las puertas RC de la CCG los detectan igual y siguen oliendo a ghoul.

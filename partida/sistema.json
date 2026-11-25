@@ -1,8 +1,8 @@
 {
-  "turno": 1227,
+  "turno": 1228,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
-  "hora": "17:53",
+  "hora": "17:56",
   "edad": 18,
   "nivel": 28,
   "exp": 277230,
@@ -81,7 +81,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -189,7 +189,7 @@
           "tipo": "Recinto de 6 caras (con techo)",
           "lugar": "Anteiku, Distrito 20 (Tokyo Ghoul)",
           "desde": "T1180 07:31",
-          "reglas": "Entra y sale todo el que quiera. Investigadores de la CCG: pasan solo si vienen con intención de tomar café o similar; si vienen con intención de destruir o matar, no pasan (cambio T1183). No entra ningún ataque dirigido contra el lugar. Dura lo que Facundo quiera. Se mantiene aunque Facundo se aleje (declarado T1216).",
+          "reglas": "Desde T1228: NADIE de los que están adentro puede salir (puerta, callejón, ventanas, techo); nadie entra a hacer daño; ningún ataque contra el lugar pasa. (Antes: entra y sale cualquiera; CCG solo si viene a tomar café.) Se mantiene aunque Facundo se aleje. Adentro: Yoshimura (Búho), Kaneki, Touka, Koma, Irimi (herida, lanza en el hombro), Nishiki, Hinami.",
           "visibilidad": "Líneas visibles: un hilo plateado finísimo en la vereda junto al cordón y por los costados/callejón; las paredes y el techo no se ven."
         }
       ],

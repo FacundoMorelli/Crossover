@@ -1226,3 +1226,4 @@ T1224 · TG · Avenida 3 · Detiene la quinque de Houji con la mano y se la qued
 T1225 · TG · Avenida 3 · Kuroiwa se saca el casco: "Tiene razón." Shinohara: "Dime qué hacemos." En 10 min, tres unidades; en 20, alguien peor.
 T1226 · TG · Avenida 3 · Propone ir a la oficina de la CCG para que los ghouls se vayan. Shinohara acepta con esposas de supresión.
 T1227 · TG · Avenida 3 · Shinohara pide alto el fuego por radio. Washuu Yoshitoki: "Negativo. Traiga al detenido. Proceda con el Búho."
+T1228 · TG · Avenida 3 → Anteiku → sur → Anteiku → avenida 3 · Encierra a Yoshimura, Kaneki, Touka, Koma e Irimi en Anteiku (nadie sale). Vuelve. Kuroiwa protege a los Apes. Shinohara levanta las esposas.

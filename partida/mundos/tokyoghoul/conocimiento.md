@@ -122,3 +122,6 @@
 - Facundo · T1226 · por Yoshimura: en la oficina hay "cosas que ni siquiera la CCG sabe que tiene". Por Shinohara: lo recibirían "con todo lo que tengan"; existen esposas de supresión para ghouls.
 - Washuu Yoshitoki (puesto de mando) · T1227 · por Shinohara (radio): la unidad de Tanakamaru fuera de combate sin muertos; un humano responsable se entrega y pide el cese; el Búho está junto a Shinohara.
 - Facundo y todos en la avenida · T1227 · oyeron a Washuu: no hay alto el fuego; puesto de mando en el cruce de la avenida 1.
+- Shinohara, Houji, Kuroiwa, Apes · T1228 · vieron a Facundo desaparecer con el Búho, Kaneki, Touka y Koma, y volver solo. Shinohara deduce: el Búho está en el café, detrás de la pared, y solo Facundo sabe abrirla.
+- Seis investigadores de la calle del sur (uno de mandíbula dura, pistola) y una anciana · T1228 · vieron a Irimi desaparecer al tocarla alguien que apareció de la nada (un muchacho con un gato).
+- Kaneki, Touka, Koma, Yoshimura, Irimi, Nishiki, Hinami · T1228 · están encerrados en Anteiku; no pueden salir (Kaneki lo probó en el vidrio).
