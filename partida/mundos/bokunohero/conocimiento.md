@@ -71,3 +71,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Presidenta de la Comisión · T1141 · Facundo elige que no se lo nombre: versión pública de operativo conjunto. Aizawa, en la cabaña, no puede sacar a los villanos.
 - Facundo · T1143 · por la presidenta (transcripción de Tartarus): mensaje de AFO para "el muchacho del gato". Guardia triplicada.
 - Presidenta, director de Tartarus · T1143 · All Might les explicó que Facundo lo curó y le devolvió sus poderes. No se anunciará.
+- Izuku (y la 1-A en parte) · T1144 · Aizawa les contó "no todo" lo que hizo Facundo. Tsukauchi tomó declaración completa a Facundo.

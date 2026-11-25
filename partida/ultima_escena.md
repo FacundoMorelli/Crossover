@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1141)
-eh hagan la segunda opcion, no me interesa el reconocimiento, me interesa que nadie muera
-
-## RESPUESTA 1 (T1141)
-
-> —Eh, hagan la segunda opción. No me interesa el reconocimiento. Me interesa que nadie muera.
-
-La presidenta parpadea. Una sola vez.
-
-Es lo más parecido a una sorpresa que le viste en la cara desde que llegaste.
-
-—Que nadie muera —repite en voz baja.
-
-Se queda mirando el mapa. Los cuatro puntos rojos.
-
-—Muy bien. Operativo conjunto. —Ya está tecleando con dos dedos, rápido, precisa—. Comisión, policía nacional, Endeavor, Hawks, la U.A. Meses de inteligencia, un golpe coordinado en cuatro frentes al mismo tiempo. Nadie va a preguntar demasiado; la gente quiere creer que sus héroes ganaron. —Hace una pausa—. Y esta vez, más o menos, es cierto. Endeavor estuvo en Jaku. Hawks estuvo en Deika. Aizawa en las montañas.
-
-Uno de los tres teléfonos del escritorio empieza a sonar. Ella lo mira. Lo deja sonar dos veces y atiende.
-
-—Presidenta. —Escucha. Las cejas se le juntan apenas—. ¿Cómo que no pueden?
-
-Escucha más. Después te mira a ti, por encima de los lentes.
-
-—Es el profesor Aizawa —dice, tapando el micrófono con la palma—. Está en la cabaña de las montañas con su equipo y la policía. Dice que pudieron entrar sin problema. —Hace una pausa—. Pero que no pueden sacar a nadie. Que cuando intentan cargar a Shigaraki hacia afuera, hay una pared que no se ve. Que los villanos no pasan.
-
-Del teléfono sale, débil, la voz de Aizawa, cansada, seca:
-
-—...y dígale que el gigante del valle empezó a mover los dedos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1141 · BOKU NO HERO · DIC. · 12:47     ║
-║ Comisión de Seguridad Pública · oficina de   ║
-║ la presidenta, piso 42                       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ ALERTA: Gigantomachia empieza a despertar    ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1142)
+## COMANDO 1 (T1142)
 eh perdon lo deje asi por que no sabia si se podian despertar antes que lleguen, dejo salir a todos, ya pueden sacarlos, ya vengo, le pego a machia de nuevo y vuelvo en 1 segundo
 
-## RESPUESTA 2 (T1142)
+## RESPUESTA 1 (T1142)
 
 > —Eh, perdón, lo dejé así porque no sabía si se podían despertar antes de que llegaran. Ya dejo salir a todos, ya pueden sacarlos. Ya vengo. Le pego a Machia de nuevo y vuelvo en un segundo.
 
@@ -109,10 +58,10 @@ Y por primera vez desde que llegaste, la comisura de la boca se le mueve apenas.
 
 ---
 
-## COMANDO 3 (T1143)
+## COMANDO 2 (T1143)
 bueno ahora si, eh y perdon por el problema que cause yendo con all might a tartaro
 
-## RESPUESTA 3 (T1143)
+## RESPUESTA 2 (T1143)
 
 > —Bueno, ahora sí. Eh, y perdón por el problema que causé yendo con All Might a Tartarus.
 
@@ -161,4 +110,77 @@ Apaga la pantalla.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:50, oficina de la presidenta. Ella contó el enojo de Tartarus y el mensaje de AFO ("que no se apure en irse; quiero conocerlo"). Guardia triplicada. Pide aviso si vuelve a entrar. Facundo puede actuar.
+## COMANDO 3 (T1144)
+simule unos dias
+
+## RESPUESTA 3 (T1144)
+
+> simulo unos días
+
+[Simulación: cuatro días.]
+
+Esa misma tarde, a las cuatro y diez, la presidenta de la Comisión de Seguridad Pública aparece en todos los canales del país.
+
+Habla once minutos. No levanta la voz ni una vez. Dice "operativo conjunto", dice "meses de inteligencia", dice "cuatro frentes de forma simultánea". Detrás de ella, en el escenario, están Endeavor, con los brazos cruzados y la cara de piedra; Hawks, con una sonrisa que no le llega a los ojos; Aizawa, que parece querer estar en cualquier otro lugar; y Tsukauchi.
+
+Dice "la Liga de Villanos ha sido desmantelada en su totalidad". Dice "el llamado Ejército de Liberación Paranormal, una organización de ciento dieciséis mil miembros oculta en la ciudad de Deika". Dice "sin víctimas fatales".
+
+Tu nombre no aparece.
+
+Esa noche, en todos los noticieros, pasan una y otra vez los mismos videos: los autos detenidos en las calles de Deika, rozados, con los conductores dormidos sobre el volante. Los niños sentados en el patio de la escuela con las mochilas puestas. Shigaraki, flaco, con el pelo blanco, esposado de pies y manos, metido en una cápsula de contención. Dabi, que mira a la cámara mientras lo suben a un camión blindado y sonríe.
+
+Nezu te consigue una habitación en el edificio de los profesores de la U.A. Tiene una cama, un escritorio y una ventana que da al bosque del campus. Kase la reclama en dos minutos: el alféizar es suyo.
+
+Al día siguiente, Midnight te deja un plato de comida en la puerta con una nota que dice "para el consultor que no existe". Present Mic te saluda a los gritos cada vez que te cruza en un pasillo. Ectoplasm no dice nada, pero inclina la cabeza.
+
+El segundo día, Tsukauchi viene a la U.A. y te pide una declaración. Escucha todo con mucha atención, con la mano sobre la mesa, y no te interrumpe ni una vez. Al terminar, cierra la libreta.
+
+—Nunca escribí un informe tan corto sobre algo tan grande —dice—. Gracias, Eclipse.
+
+Ese mismo día, All Might sale de su primera reunión con el director de Tartarus. Te lo cruzas a la vuelta, en la puerta del edificio. Está en su forma musculosa, y por primera vez desde que lo conoces no se le nota cansado.
+
+—Dijo que yo tenía la culpa de todo —te cuenta, riéndose—. Que el Símbolo de la Paz debería saber que no se aparece en una celda de máxima seguridad sin pedir permiso. —Se pone serio un segundo—. Él no volvió a hablar, joven Morelli. Ni una palabra desde ese día. Solo respira. Y espera.
+
+El tercer día, en Tartarus, terminan los traslados.
+
+Shigaraki en el nivel más bajo, en el ala contraria a la de All For One. Garaki en otra. Dabi, Toga, Twice, Spinner y Compress, cada uno en una celda distinta, sin ventanas, sin contacto. Gigantomachia en un hangar subterráneo reforzado, sedado con dosis que Tsukauchi describe como "las que se usan para una ballena". Re-Destro y los tenientes, en una prisión aparte. Los ciento dieciséis mil de Deika se despiertan en sus casas y en sus calles, confundidos, con dolor de cabeza; la policía de todo el país necesita semanas para tomarles declaración a todos, uno por uno.
+
+Esa noche, a las once y media, la Comisión cierra oficialmente el operativo.
+
+[Misión de Mundo cumplida: la Guerra de Liberación Paranormal terminó antes de empezar, y no murió ningún alumno ni profesor de la U.A.]
+
+[+12.000 EXP · +400 Fragmentos.]
+
+El cuarto día amanece frío y despejado.
+
+Son las siete de la mañana. Estás en el campo de entrenamiento detrás del edificio de los profesores, solo, con Kase sentado en un banco, cuando sientes que alguien se acerca corriendo por el sendero del bosque. Rápido. Una presencia que tú conoces, que tiene algo adentro que ahora brilla mucho más fuerte que hace cuatro días.
+
+Izuku Midoriya se detiene a diez metros de ti, jadeando, con el uniforme de educación física y el pelo verde revuelto. Tiene una venda en la mano derecha. Hace una reverencia tan profunda que casi toca el piso con la frente.
+
+—¡Señor Morelli! —dice. Después se corrige, nervioso—. ¡Digo, Eclipse! ¡Digo...! —Se endereza, colorado hasta las orejas—. El profesor Aizawa nos contó. No todo, pero... Nos contó.
+
+Aprieta los puños. Las venas de los brazos se le iluminan apenas, verdes, y de la muñeca vendada le sale un hilo negro, tembloroso, que se agita en el aire y vuelve a esconderse.
+
+—Desde el entrenamiento conjunto, esto no para —dice, mirándose la mano—. Se me escapa. No lo puedo controlar. Y el profesor Aizawa dijo que usted... —Levanta la vista—. ¿Me podría ayudar a entrenar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1144 · BOKU NO HERO · DIC. (+4 días)   ║
+║ · 07:02                                      ║
+║ U.A. · campo de entrenamiento, edificio de   ║
+║ profesores                                   ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el banco                            ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre +4 días, 07:02, campo de entrenamiento de la U.A. Misión de mundo cumplida (10 mundos). Villanos en Tartarus; AFO en silencio. Izuku pide a Facundo que lo ayude a entrenar el Látigo Negro (misión de copia ALTA). Facundo puede responder.

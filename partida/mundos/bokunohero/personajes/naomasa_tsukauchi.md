@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: investigador (T1090).
 ENCUENTROS:
 - T1090 · Diciembre 09:40 · Sala de interrogatorio de la Comisaría Central.
 DIÁLOGOS CLAVE:
+- T1144 · "Nunca escribí un informe tan corto sobre algo tan grande. Gracias, Eclipse."
 - T1094 · "Verdad." "Decías cosas peores. Y más fuerte." "Bajo tu responsabilidad, Toshinori. Si mañana aparece en el noticiero tirando villanos desde los techos, la culpa es tuya."
 - T1093 · "Verdad." "Un joven sin registro, sin documentos, sin Don declarado, que usa sus poderes en la vía pública. Eso es vigilantismo." "La Comisión de Seguridad Pública de los Héroes va a preguntar quién eres."
 - T1092 · "Verdad." "Tres cosas que no tienen nada que ver entre sí. En un solo cuerpo." "Vimos algo parecido dos veces: en unas criaturas que atacaron a alumnos de la U.A., y en un hombre que hoy está en una prisión a quinientos metros bajo tierra."

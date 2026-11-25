@@ -1,13 +1,13 @@
 {
-  "turno": 1143,
+  "turno": 1144,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "12:50",
+  "hora": "07:02",
   "edad": 18,
   "nivel": 28,
-  "exp": 263930,
+  "exp": 275930,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 108906,
+  "fragmentos": 109306,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -179,9 +179,7 @@
         "estado": "desbloqueado (T246)",
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
-      "marcas_o_lineas_activas": [
-        "T1123 · Recinto cerrado en 6 caras (con techo) alrededor de la cabaña de la Liga, montañas del noroeste (BnHA). Nada entra ni sale salvo el aire (T1124) y los héroes y las personas buenas (T1125). Dentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes. T1142: deja pasar a todos (abierto para sacar a los villanos)."
-      ],
+      "marcas_o_lineas_activas": [],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
         "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"
@@ -1924,7 +1922,8 @@
       "blackclover",
       "fairytail",
       "hunterxhunter",
-      "danmachi"
+      "danmachi",
+      "bokunohero"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -1933,7 +1932,7 @@
       "recompensa": "12.000 EXP · 400 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "ACTIVA (T1087)"
+      "estado": "CUMPLIDA (T1144): la Guerra de Liberación Paranormal terminó antes de empezar; sin muertos de la U.A."
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",

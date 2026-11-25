@@ -14,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1117 · "Hace mucho que nadie entra sin avisar." "Hace mucho más que no sentía esto, Toshinori." "Está entera. La brasa." "¿Fuiste tú?"
 QUÉ SABE DE FACUNDO: Su nombre por All Might ("joven Morelli", en voz baja, quizá no lo oyó). Que va a ir por la Liga. Que llegó con All Might y que la brasa de One For All está entera otra vez; sospecha de él.
 QUÉ PODERES VIO: Ninguno directamente (la llegada a la celda).
-ESTADO: Preso, inmovilizado.
+ESTADO: Preso en Tartarus, guardia triplicada. No volvió a hablar desde T1117; "solo respira y espera" (T1144).

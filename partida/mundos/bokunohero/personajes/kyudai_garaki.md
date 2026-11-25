@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1126 · "¿Te perdiste? ¿Cómo bajaste hasta aquí?" "No te muevas. Ni un paso más."
 QUÉ SABE DE FACUNDO: Nada (pero algo de él lo inquieta al verlo con el gato).
 QUÉ PODERES VIO: La aparición.
-ESTADO: Detenido, esposado y sedado por la policía (T1132).
+ESTADO: Preso en Tartarus, celda individual sin contacto (T1144).

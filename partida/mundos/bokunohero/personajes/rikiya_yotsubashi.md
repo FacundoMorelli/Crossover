@@ -12,4 +12,4 @@ DIÁLOGOS CLAVE:
 - T1134 · "¿Quién...?"
 QUÉ SABE DE FACUNDO: Nada.
 QUÉ PODERES VIO: Ninguno (no vio el golpe).
-ESTADO: Inconsciente en la cabecera de la mesa (T1134).
+ESTADO: Preso en una prisión aparte (T1144).

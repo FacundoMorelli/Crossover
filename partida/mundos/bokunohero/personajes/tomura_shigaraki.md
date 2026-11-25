@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1122 · "Otra vez, maldito..." "¿Y tú quién demonios eres?"
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1123).
 QUÉ PODERES VIO: Ninguno (Facundo ya estaba ahí).
-ESTADO: Inconsciente (T1123, golpe de Facundo).
+ESTADO: Preso en Tartarus, nivel más bajo, ala opuesta a All For One (T1144).

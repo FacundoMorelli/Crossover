@@ -13,4 +13,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1123).
 QUÉ PODERES VIO: Ninguno.
-ESTADO: Inconsciente en el valle (T1142). La Comisión pedirá sedantes.
+ESTADO: Sedado en un hangar subterráneo reforzado de Tartarus (T1144).

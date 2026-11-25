@@ -12,4 +12,4 @@ DIÁLOGOS CLAVE:
 
 QUÉ SABE DE FACUNDO: Nada.
 QUÉ PODERES VIO: Ninguno.
-ESTADO: Inconsciente (T1134).
+ESTADO: Preso en una prisión aparte (T1144).

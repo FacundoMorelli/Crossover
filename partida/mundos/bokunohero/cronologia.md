@@ -46,3 +46,7 @@
 - T1137 · Deika entera inconsciente. El Ejército de Liberación Paranormal neutralizado sin muertos.
 - T1141 · La Comisión prepara el anuncio: operativo conjunto en cuatro frentes. Gigantomachia empieza a despertar.
 - T1142 · La Liga sale del Recinto, trasladada por Aizawa y la policía. Gigantomachia vuelve a quedar inconsciente.
+- T1144 · Día 0, 16:10 · Anuncio de la Comisión: operativo conjunto en cuatro frentes; Liga desmantelada; Ejército de Liberación (116.000) neutralizado; sin víctimas fatales. Sin mención de Eclipse.
+- T1144 · Día 2 · Declaración de Facundo a Tsukauchi. All Might se reúne con el director de Tartarus.
+- T1144 · Día 3 · Traslados terminados: Shigaraki (nivel más bajo, ala opuesta a AFO), Garaki, Dabi, Toga, Twice, Spinner, Compress en celdas separadas; Gigantomachia sedado en hangar reforzado; Re-Destro y tenientes en otra prisión. 23:30: la Comisión cierra el operativo. FIN DE LA GUERRA DE LIBERACIÓN PARANORMAL (antes de empezar).
+- T1144 · Día 4, 07:02 · Izuku busca a Facundo para entrenar.

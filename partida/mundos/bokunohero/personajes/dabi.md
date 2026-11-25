@@ -14,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1119 · "Nadie sabe que estamos acá. Tienes cinco segundos para decirme cómo nos encontraste."
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1120). Que apareció dentro de la cabaña sin puerta, con un gato en el hombro.
 QUÉ PODERES VIO: La aparición (teletransporte).
-ESTADO: Inconsciente en la cabaña, dentro del Recinto de Sakaime (T1123).
+ESTADO: Preso en Tartarus, celda individual sin contacto (T1144).
