@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1204)
-sigo esquivando
-
-## RESPUESTA 1 (T1204)
-
-> sigo esquivando
-
-No los ves. No hace falta.
-
-El cuerpo no mira. Escucha. Siente el aire que se corre un instante antes de que llegue el golpe, el peso que cambia de un pie al otro, el corazón de Kaneki que se acelera justo antes de lanzarse. Y más allá de los sentidos, el Haki los dibuja en la oscuridad como siluetas de luz tibia: dos, moviéndose rápido. Y una tercera, quieta, de pie junto a una columna. Y una cuarta, muy chica, aburrida, al lado.
-
-Los tentáculos pasan. Los cristales pasan. Tú no estás donde llegan.
-
-Kaneki ataca desde abajo, a ras del suelo, para barrerte las piernas. Das un paso corto y el tentáculo pasa entre tus pies. Touka se lanza en picada desde arriba con el ala recogida, para caer con todo el cuerpo encima tuyo. Inclinas el torso y ella pasa de largo, tan cerca que te roza el aire de su pelo, y se estrella contra un charco a tres metros. Se levanta escupiendo agua y vuelve a cargar.
-
-Cinco minutos. Diez.
-
-Los ataques empiezan a ser más lentos. Más torpes. Touka ya no dispara cientos de cristales, dispara de a diez, de a cinco. El ala se le achica. En la oscuridad se oye su respiración, entrecortada, rabiosa.
-
-Kaneki se detiene.
-
-Lo sientes quieto, a unos ocho metros, con los tentáculos caídos. Jadea. Y dentro de él, algo cambia.
-
-Es un sonido primero. Un crujido seco, húmedo, como de huesos que se acomodan. Después otro. Y otro. La silueta de Kaneki en tu Haki se deforma: algo le crece sobre el hombro derecho, sobre el brazo, le sube por el cuello hasta la cara. Una armadura segmentada, dura, que se cierra sobre él placa a placa, como el cuerpo de un ciempiés. Los cuatro tentáculos se engrosan, se alargan, cambian de forma.
-
-En la oscuridad, por encima del crujido, su respiración cambia de ritmo.
-
-Desde la columna, la voz de Yomo, por primera vez más fuerte que un murmullo:
-
-—Kaneki.
-
-Pero Kaneki no grita. No ruge. No se lanza.
-
-Se queda donde está, dentro de la armadura que se le sigue cerrando sobre la cara, y respira. Hondo. Lento. Como alguien que se agarra con las dos manos a un borde y no se suelta.
-
-—Estoy aquí —dice, con la voz rara, doble, como si hablaran dos al mismo tiempo dentro de la máscara—. Estoy aquí. Sigo siendo yo.
-
-Y gira la cabeza hacia ti en la oscuridad.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1204 · TOKYO GHOUL · TARDE · 13:08     ║
-║ Distrito 24 · galería (a oscuras)            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 91% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Ultra Instinto Dominado: activo              ║
-║ Kase: en un bloque, junto a Yomo             ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: entrenar a Kaneki y a Touka        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1205)
+## COMANDO 1 (T1205)
 bien, controlalo
 
-## RESPUESTA 2 (T1205)
+## RESPUESTA 1 (T1205)
 
 > —Bien. Contrólalo.
 
@@ -138,10 +80,10 @@ Kaneki levanta la vista hacia ti.
 
 ---
 
-## COMANDO 3 (T1206)
+## COMANDO 2 (T1206)
 lo hicieron bien los dos, diganme que quieren comer?
 
-## RESPUESTA 3 (T1206)
+## RESPUESTA 2 (T1206)
 
 > —Lo hicieron bien los dos. Díganme, ¿qué quieren comer?
 
@@ -188,7 +130,59 @@ Kase bosteza.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1207)
+bueno, vamos a anteiku, yo les voy a buscar la comida, tienen que bañarse y descansar
+
+## RESPUESTA 3 (T1207)
+
+> —Bueno, vamos a Anteiku. Yo les voy a buscar la comida. Tienen que bañarse y descansar.
+
+Esta vez nadie duda. Kaneki se levanta del suelo y te apoya la mano en el hombro. Touka sale del charco chorreando agua, te agarra la manga con dos dedos, igual que antes, y mira para otro lado. Yomo apaga el encendedor, se lo guarda en el bolsillo y apoya la mano en tu brazo. Kase cruza la piedra a oscuras y te trepa por la pierna hasta el cuello.
+
+La galería desaparece.
+
+La cocina de Anteiku huele a café y a jabón de platos. La luz de la tarde entra gris por la ventanita de arriba de la pileta.
+
+Nishiki está ahí, con los brazos metidos hasta los codos en el agua espumosa, lavando una pila de tazas que no se termina nunca. Se da vuelta al oír el roce de los pies en el piso.
+
+Los mira.
+
+Kaneki, con la camisa prestada convertida en jirones. Touka, empapada de pies a cabeza, dejando un charco en el piso recién trapeado. Yomo, cubierto de polvo gris. Y tú, con el pelo entero de color plata y un brillo plateado y suave que todavía te corre por la piel, como el reflejo del agua en una pared.
+
+A Nishiki se le resbala una taza de las manos. Cae de nuevo en la pileta con un plop.
+
+—¿Qué...? —Abre la boca. La cierra. Te señala la cabeza con un dedo lleno de espuma—. ¿Y eso? ¿Te teñiste en el subte?
+
+Touka pasa a su lado sin mirarlo, dejando huellas mojadas.
+
+—Me baño primero —anuncia, ya en la escalera—. El que suba antes de que termine, muere.
+
+Kaneki la ve desaparecer arriba y suelta una risa corta, agotada. Se apoya contra la mesada.
+
+Yomo se sacude el polvo de la campera, mira el charco que dejó Touka, mira el trapo de piso, y no dice nada. Después te mira a ti.
+
+—¿Big Girl? —pregunta—. ¿Sabes dónde queda?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1207 · TOKYO GHOUL · TARDE · 13:16     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Ultra Instinto Dominado: activo              ║
+║ Kase: en el cuello                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: comprar la hamburguesa y el pastel ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 13:14, galería del Distrito 24. Kaneki pidió una hamburguesa de Big Girl y Touka un pastel de frutillas entero. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 13:16, cocina de Anteiku. Facundo sigue en Ultra Instinto (pelo plateado). Touka se baña. Yomo pregunta si sabe dónde queda Big Girl. Facundo tiene 0 yenes. Facundo puede responder.

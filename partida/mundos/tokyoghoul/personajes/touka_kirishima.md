@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1207 · "Me baño primero. El que suba antes de que termine, muere."
 - T1206 · "No te tocamos. Ni una vez. Ni con un dedo." "Un pastel. De frutillas. Con crema." "Uno entero. Y no me mires así."
 - T1203 · "La que quiera." (Apaga la llama de Facundo con un cristal grueso.)
 - T1202 · "¿Qué...? ¡No te moviste! ¡Apenas te moviste!" "Kaneki. Por la izquierda. Ahora."

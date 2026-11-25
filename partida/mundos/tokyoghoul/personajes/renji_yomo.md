@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1196.
 ENCUENTROS:
 - T1196 · Entra por la puerta del callejón a las 12:40 con una bolsa de supermercado.
 DIÁLOGOS CLAVE:
+- T1207 · "¿Big Girl? ¿Sabes dónde queda?"
 - T1204 · "Kaneki."
 - T1200 · "Es el 24. Un nivel más abajo que donde lo traía yo." "Nos ahorraste una hora."
 - T1199 · "La entrada que usamos está debajo del Distrito 14. Un desagüe viejo detrás de una obra abandonada. Cuarenta minutos en tren y quince caminando. Si salimos ahora, llegamos con luz."
