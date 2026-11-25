@@ -13,4 +13,4 @@ DIÁLOGOS CLAVE:
 - T1070 · "Lido... ¿Quién... es...?" "Agua... Por favor... un poco de agua..."
 QUÉ SABE DE FACUNDO: por Lido, que es un amigo y los lleva a casa.
 QUÉ PODERES DE FACUNDO VIO: teletransporte (los vio aparecer).
-ESTADO: curada (agua y semilla del ermitaño, T1071); en el campanario.
+ESTADO: curada; en el sótano de la panadería con los demás (T1073).

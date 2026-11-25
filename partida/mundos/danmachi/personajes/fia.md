@@ -12,4 +12,4 @@ DIÁLOGOS CLAVE:
 - T1072 · "Lido... creí que eran ellos... que el lobo había vuelto..."
 QUÉ SABE DE FACUNDO: lo ve aparecer (T1072).
 QUÉ PODERES DE FACUNDO VIO: teletransporte.
-ESTADO: herida: ala rota, fiebre; en las cloacas.
+ESTADO: curada (semilla del ermitaño, T1073); en el sótano de la panadería con los demás.

@@ -26,3 +26,7 @@
 - Noche 1 · (T1063, por Gros) Los Xenos están escondidos y dispersos por Dédalo desde ayer; hay heridos; uno no se puede mover.
 - Noche 1 23:15 · (T1066) Facundo deja inconscientes a Bete Loga y a cinco de la patrulla. Gros lo guía hacia Lido y Wiene.
 - Noche 1 23:23 · (T1071) Facundo cura a Rei. Rei canta una nota; patrullas lejanas la oyen.
+- Noche 1 23:24-23:30 · (T1073) Fia curada; la patrulla de la reja se va.
+- Noche 1 23:30-23:40 · (T1073) Facundo reúne a los 8 Xenos de Knossos (troll herido). Los 14 Xenos en el sótano de la panadería quemada. Falta Asterius.
+- Noche 2 00:10 · (T1073) Bete y su patrulla despiertan e informan.
+- Noche 2 00:20 · (T1073) Alarma general en Orario; la Familia Loki entera sale por orden de Finn a buscar al "humano del gato". Ais en los techos de Dédalo.

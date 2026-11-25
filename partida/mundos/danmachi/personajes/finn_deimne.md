@@ -10,4 +10,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: Ordenó eliminar a Wiene.
+ESTADO: ordenó encontrar al "humano del gato" (T1073); toda la Familia Loki en la calle.

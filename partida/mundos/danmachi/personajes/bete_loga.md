@@ -14,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1064 · "Eh. Tú. El del techo. ¿Qué demonios haces ahí arriba a esta hora?" "Y ese gato... huele raro."
 QUÉ SABE DE FACUNDO: lo ve en el techo (T1064).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: INCONSCIENTE en el techo de Dédalo (T1066, golpe en la nuca de Facundo).
+ESTADO: despierto (00:10, T1073); informó a Finn.

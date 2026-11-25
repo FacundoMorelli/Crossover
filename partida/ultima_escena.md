@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1070)
-primero los demás, vamos con Rei
-
-## RESPUESTA 1 (T1070)
-
-> primero los demás, vamos con Rei
-
-> —Primero los demás. Vamos con Rei.
-
-Lido asiente.
-
-—Agárrense de él —le dice a Wiene y a Gros—. No me pregunten cómo, pero agárrense.
-
-Wiene te agarra de la manga del sobretodo con las dos manos. Gros te apoya una garra de piedra en el hombro libre, el que no tiene a Kase, con cara de que le duele hacerlo. Lido te pone la mano escamosa en la espalda.
-
-El sótano desaparece.
-
-Aparecen en lo alto.
-
-El viento les pega de golpe, frío, desde todas las direcciones. Están en la cima de un campanario de piedra, en un cuarto cuadrado sin paredes, con cuatro arcos abiertos a la noche y un techo puntiagudo de tejas rotas. En el centro, donde alguna vez colgó una campana, quedó solo el yugo de madera podrida y una cuerda cortada. Abajo, por los arcos, se ve Dédalo entera: miles de techos y escaleras bajo la luna, puntos de antorchas moviéndose entre los callejones como luciérnagas. Y a lo lejos, blanca, la torre de Babel.
-
-Wiene suelta un gritito y se abraza a tu pierna.
-
-En el rincón, contra la base de uno de los arcos, hay algo acurrucado.
-
-Al principio parece un montón de plumas. Después se mueve. Es una mujer, o la mitad de arriba de una mujer: pelo largo, verde azulado, enredado y sucio, cara fina, piel pálida. Donde tendrían que estar los brazos tiene alas de ave, enormes, de plumas celestes y blancas, que cierra alrededor del cuerpo como una manta. Las piernas terminan en garras de pájaro. Tiene los labios partidos, secos. Una de las alas cuelga torcida, en un ángulo que no es el suyo.
-
-Abre los ojos. Son de un azul profundo, como agua de mar.
-
-Ve a Lido. Ve a Gros. Ve a Wiene. Te ve a ti.
-
-Se encoge contra la piedra, con el ala sana delante de la cara, y abre la boca. No sale ninguna voz. Lo intenta otra vez. Le sale un susurro ronco, roto, de garganta seca.
-
-—Lido... —Tose. Le duele—. ¿Quién... es...?
-
-—Un amigo, Rei —dice Lido, arrodillándose a su lado—. Creo. Viene a llevarnos a casa.
-
-Rei te mira por encima del ala, con los ojos azules llenos de miedo y de cansancio. Se pasa la lengua por los labios partidos. No le sirve de nada.
-
-—Agua... —susurra—. Por favor... un poco de agua...
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1070 · DANMACHI · NOCHE 1 · 23:21      ║
-║ Orario · Dédalo, campanario roto             ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Rei                                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1071)
+## COMANDO 1 (T1071)
 le doy agua y una semilla del ermitaño
 
-## RESPUESTA 2 (T1071)
+## RESPUESTA 1 (T1071)
 
 > le doy agua y una semilla del ermitaño
 
@@ -131,10 +72,10 @@ Gros gruñe.
 
 ---
 
-## COMANDO 3 (T1072)
+## COMANDO 2 (T1072)
 los toco a todos y me teletransporto a las cloacas
 
-## RESPUESTA 3 (T1072)
+## RESPUESTA 2 (T1072)
 
 > los toco a todos y me teletransporto a las cloacas
 
@@ -196,4 +137,81 @@ Lido le tapa la boca con una garra.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:24, cloacas bajo la plaza del pozo. Fia (ala rota, fiebre) y Aruru encontrados. Una patrulla arriba, en la reja, ilumina el agua. Fia, aterrada de Facundo, iba a gritar; Lido le tapa la boca. Facundo puede actuar.
+## COMANDO 3 (T1073)
+le doy una semilla del ermitaño a Fia. simula
+
+## RESPUESTA 3 (T1073)
+
+> le doy una semilla del ermitaño a Fia. simula
+
+Le pones una semilla entre los labios, entre los dedos de Lido. Fia la muerde por reflejo, con los ojos llenos de pánico. La traga.
+
+El ala doblada al revés se le endereza con un chasquido. La fiebre se le va de la cara en un segundo. Se queda quieta en los brazos de Lido, mirándote, con la boca todavía tapada por la garra, sin entender nada.
+
+Arriba, la luz de la antorcha se aparta de la reja.
+
+—...fue un pájaro. Vamos, que la capitana quiere el sector norte antes de la una.
+
+Los pasos se alejan.
+
+[23:30 · Knossos.]
+
+Aparecen en la oscuridad absoluta de un corredor de piedra negra, liso, perfecto, demasiado regular para ser una cueva. Knossos. Huele a hierro y a sangre seca. Al fondo, una puerta de metal enorme, cerrada, con un ojo grabado en el centro.
+
+Contra la pared, en un hueco, hay ocho Xenos amontonados. Un goblin pequeño con una espada rota. Una lamia de escamas verdes que se enrosca sobre sí misma. Un hombre con cabeza de caballo. Dos más que no ves bien en la oscuridad. Y en el fondo, ocupando medio corredor, un troll enorme, de piel gris, tirado en el piso con las dos piernas torcidas en ángulos imposibles y la respiración pesada, lenta, como un fuelle roto.
+
+Gritan cuando te ven. Lido grita más fuerte. Rei abre las alas. Wiene sale de tu espalda y les dice, con su voz de nena, que eres un amigo, que te llamas Facundo y que te gustan los gatos. Tardan dos minutos en calmarse.
+
+No hay tiempo para más. Los tocas, uno por uno. El troll es lo último: le apoyas la mano en el brazo, enorme como un tronco.
+
+[23:40 · Sótano de la panadería quemada.]
+
+Catorce monstruos en un sótano para cuatro. Lido, Gros, Rei, Wiene, Fia, Aruru y los ocho de Knossos. El troll ocupa toda una pared, tirado entre las cenizas. Rei le da de beber lo que queda de tu cantimplora. La lamia llora en silencio. El goblin no te saca los ojos de encima.
+
+Afuera, por la rendija a ras de la calle, se escucha la ciudad.
+
+[00:10.]
+
+Lo sientes antes de oírlo: arriba, al oeste, en el callejón de los ropavejeros, una presencia que estaba apagada se enciende. Después cinco más. Bete y su patrulla se despiertan.
+
+[00:20.]
+
+Las campanas de alarma. No una: todas. Desde la torre del Gremio hasta las de los barrios de afuera, una detrás de otra, hasta que la ciudad entera suena como un panal golpeado. Se escuchan gritos. Órdenes. Pasos que corren por los techos, muchos, rápidos, mucho más rápidos que las patrullas de antes.
+
+—Familia Loki —dice Gros, con la cara pegada a la rendija—. Toda. No solo patrullas. Están saliendo todos.
+
+Por la rendija ves pasar, en lo alto de un techo de enfrente, una figura que salta de una chimenea a otra sin tocar las tejas: pelo dorado largo, armadura ligera, una espada en la cintura. Se detiene un segundo en el borde del techo, mirando hacia el este, hacia donde estás. Ojos dorados. Después sigue.
+
+—La Princesa Espada —susurra Lido—. Ais Wallenstein. La que le cortó el brazo a Asterius.
+
+Las voces de la calle se escuchan cada vez más cerca. Una de ellas, joven, clara, se impone a las demás desde algún techo:
+
+—¡Un humano de pelo blanco y azul, ojos de distinto color, con un gato gigante! ¡Atacó a una patrulla de Loki y Ganesha! ¡El capitán Finn ordena encontrarlo! ¡Puede estar con los monstruos!
+
+Los catorce Xenos te miran, en la penumbra del sótano.
+
+Wiene, sentada en la ceniza con la capa de Bell apretada contra el pecho, levanta los ojos dorados hacia ti.
+
+—¿Ahora vamos a ver a Bell? —pregunta, bajito.
+
+[Semillas del ermitaño: 80.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1073 · DANMACHI · NOCHE 2 · 00:22      ║
+║ Orario · sótano de la panadería quemada      ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Bell, y la Mazmorra                ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:22, sótano de la panadería quemada. Los 14 Xenos reunidos (falta Asterius). Alarma general: la Familia Loki entera busca a Facundo por orden de Finn; Ais cerca. Wiene pregunta si ahora van a ver a Bell. Facundo puede actuar.
