@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1089)
-no se donde estoy, soy un viajero, no conozco nada de aca
-
-## RESPUESTA 1 (T1089)
-
-> no se donde estoy, soy un viajero, no conozco nada de aca
-
-> —No sé dónde estoy. Soy un viajero. No conozco nada de aquí.
-
-Death Arms se queda quieto. Ladea la cabeza, con el visor brillando bajo los tubos de luz.
-
-—¿Un viajero? —Mira a la empleada, que se encoge de hombros detrás del mostrador. Después te mira a ti otra vez—. ¿Extranjero? Hablas japonés perfecto.
-
-Afuera frenan dos patrulleros más. Policías de uniforme azul entran al banco, uno detrás de otro, con las manos en las esposas. Uno se agacha junto al villano, le toma el pulso, le pone unas esposas gruesas, especiales, que se le cierran en las muñecas con un zumbido.
-
-—Inconsciente —dice—. Ni un rasguño. El Don, anulado... no, solo dormido. ¿Quién lo hizo?
-
-Varios dedos te señalan a la vez: la empleada, dos empleados más, la señora de la cartera.
-
-—Apareció de la nada —dice la señora, con la voz temblorosa, sin soltar la cartera—. Así. ¡Puf! Y le pegó una vez. Una sola.
-
-Death Arms suspira. Se rasca la nuca por debajo del casco.
-
-—Escucha, muchacho. —Baja la voz, menos de héroe, más de persona—. Aquí, en Japón, usar un Don en público sin licencia es delito. Da igual si es para bien. Se llama "vigilantismo", y la gente va presa por eso. —Se cruza de brazos—. Nadie está diciendo que hiciste algo malo. Salvaste a esta gente. Pero las reglas son las reglas.
-
-Uno de los policías se acerca. Un hombre de mediana edad, con bigote, una libreta en la mano.
-
-—Joven. —Te mira, mira a Kase, mira la nieve que todavía tienes en el pelo blanco y azul—. Necesito su nombre, su registro de Don y algún documento. Y después, me temo que va a tener que acompañarnos a la comisaría a declarar.
-
-Detrás de él, en la vereda, se juntan curiosos con los celulares levantados. Alguien ya está filmando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1089 · BOKU NO HERO · DIC. · 08:45     ║
-║ Musutafu · Banco Musutafu Norte              ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1090)
+## COMANDO 1 (T1090)
 me llamo Facundo Morelli, no tengo documentos, los acompaño
 
-## RESPUESTA 2 (T1090)
+## RESPUESTA 1 (T1090)
 
 > me llamo Facundo Morelli, no tengo documentos, los acompaño
 
@@ -110,10 +61,10 @@ Se recuesta en la silla.
 
 ---
 
-## COMANDO 3 (T1091)
+## COMANDO 2 (T1091)
 un don de hielo y fuego en los ojos, soy un viajero
 
-## RESPUESTA 3 (T1091)
+## RESPUESTA 2 (T1091)
 
 > un don de hielo y fuego en los ojos, soy un viajero
 
@@ -160,4 +111,68 @@ Kase, en la silla de al lado, bosteza y se acomoda para dormir.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 09:43, sala de interrogatorio. Tsukauchi confirmó que dijo la verdad (Don de hielo y fuego en los ojos; viajero), pero eso no explica la aparición ni la fuerza. Pregunta cómo llegó al banco. Facundo puede responder.
+## COMANDO 3 (T1092)
+me teletransporte
+
+## RESPUESTA 3 (T1092)
+
+> me teletransporte
+
+> —Me teletransporté.
+
+Tsukauchi no se mueve.
+
+La lapicera se le queda quieta sobre la hoja. Te mira un segundo, dos, tres. Después, muy despacio, la deja sobre la mesa.
+
+—Verdad —dice.
+
+Ya no lo dice tranquilo.
+
+—Hielo y fuego en los ojos. Una fuerza que deja dormido a un villano de tipo rocoso de un golpe, sin un moretón. Y teletransporte. —Lo cuenta con los dedos, sobre la mesa, uno, dos, tres—. Tres cosas que no tienen nada que ver entre sí. En un solo cuerpo. —Te mira—. Un Don es uno, Facundo. A veces mezcla dos cosas de los padres, como el hijo de Endeavor. Pero tres, sin ninguna relación...
+
+No termina la frase.
+
+Se le endurece la cara. Mira el espejo de la pared otra vez, y esta vez no aparta la vista enseguida.
+
+—En los últimos años vimos algo parecido dos veces. —Baja la voz—. En unas criaturas que atacaron a unos alumnos de la U.A. el año pasado. Y en un hombre que hoy está en una prisión de máxima seguridad, a quinientos metros bajo tierra.
+
+La puerta de la sala se abre.
+
+Entra un hombre altísimo, flaco hasta los huesos, con un traje amarillo que le queda tres talles grande, el pelo rubio caído en dos mechones sobre la frente y los ojos hundidos en unas cuencas oscuras, con un brillo azul adentro. Tiene la cara de alguien que estuvo muy enfermo durante mucho tiempo. Se apoya un segundo en el marco de la puerta antes de entrar.
+
+Tsukauchi se pone de pie.
+
+—Toshinori.
+
+—Está bien, Tsukauchi. —La voz es suave, ronca, cansada—. Ya lo escuché todo.
+
+El hombre flaco cierra la puerta detrás de él. Te mira. Mira tus ojos, el rojo y el azul. Mira a Kase, dormido en la silla. Después se sienta en la tercera silla, despacio, como si le dolieran las rodillas, y apoya los codos en la mesa.
+
+No te tasa. No te mide. Te mira como si buscara algo en tu cara que le diera miedo encontrar.
+
+—Joven Morelli. —Hace una pausa—. Voy a hacerte una sola pregunta, y Tsukauchi va a saber si me mientes.
+
+Se le tensa la mandíbula.
+
+—¿Alguien te dio esos poderes?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1092 · BOKU NO HERO · DIC. · 09:45     ║
+║ Musutafu · Comisaría Central, sala de        ║
+║ interrogatorio                               ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: durmiendo en la silla                  ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 09:45, sala de interrogatorio. Tsukauchi relaciona los múltiples poderes con los Nomu y All For One. Entró All Might (flaco, Toshinori) y le pregunta si alguien le dio esos poderes (Tsukauchi detecta mentiras). Facundo puede responder.

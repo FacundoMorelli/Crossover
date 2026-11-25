@@ -22,3 +22,4 @@
 - Diciembre 08:42 · (T1088) Facundo derriba al villano del banco. Llega Death Arms.
 - Diciembre 08:45 · (T1089) La policía pide a Facundo identificación y que declare (vigilantismo).
 - Diciembre 09:20 · (T1090) Facundo en la Comisaría Central; interrogatorio del detective Tsukauchi.
+- Diciembre 09:45 · (T1092) All Might entra al interrogatorio de Facundo (sospecha de All For One por los múltiples poderes).

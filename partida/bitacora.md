@@ -1090,3 +1090,4 @@ T1088 · BnHA · Banco Musutafu Norte · Villano del brazo de roca, inconsciente
 T1089 · BnHA · Banco · "Soy un viajero." Death Arms: vigilantismo es delito. Policía: "Nombre, registro de Don, documento. Acompáñenos a la comisaría." Filman.
 T1090 · BnHA · Comisaría Central · "Los acompaño." Tsukauchi (detecta mentiras): "No existes en ningún registro. ¿Qué Don tienes?"
 T1091 · BnHA · Comisaría · "Don de hielo y fuego en los ojos. Soy un viajero." Tsukauchi: "Verdad." "¿Cómo llegaste a ese banco?"
+T1092 · BnHA · Comisaría · "Me teletransporté." Tsukauchi: tres poderes, como los Nomu y All For One. Entra All Might (Toshinori): "¿Alguien te dio esos poderes?"
