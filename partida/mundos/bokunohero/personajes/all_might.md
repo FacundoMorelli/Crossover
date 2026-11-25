@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: gratitud profunda (salvó a Izuku, T1104).
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1105 · "Curó a Midoriya en un segundo. Si hubiéramos tenido algo así en Kamino..."
 - T1104 · "Joven Morelli. Gracias. Ese chico es... muy importante. Para mí. Para todos. Gracias."
 - T1099 · "¡Midoriya! ¡Joven Midoriya!"
 - T1097 · "Desde hace quince minutos. Lo nombró el director."

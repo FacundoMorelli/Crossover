@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1102)
-me llamo Facundo Morelli, soy el consultor de seguridad, le doy una semilla del ermitaño a midoriya
-
-## RESPUESTA 1 (T1102)
-
-> me llamo Facundo Morelli, soy el consultor de seguridad, le doy una semilla del ermitaño a midoriya
-
-> —Me llamo Facundo Morelli. Soy el consultor de seguridad.
-
-—¿El... qué? —La chica de cuernos parpadea—. ¿La U.A. tiene un consultor de seguridad?
-
-No le contestas. Sacas una semilla del bolsillo y se la pones al chico de pelo verde entre los labios. La chica de mejillas redondas te mira hacerlo, todavía abrazada a él, con los ojos llenos de lágrimas, sin entender.
-
-—¿Qué es eso...?
-
-El chico mastica por reflejo, dormido. Traga.
-
-Un segundo.
-
-Las venas verdes y negras de los brazos se le borran. El color le vuelve a la cara de golpe. Los raspones de la frente, los cortes de las mejillas, el moretón del hombro donde se estrelló contra la tubería, todo se le cierra, se le aclara, desaparece. Respira hondo. Una vez. Con todo el pecho.
-
-Abre los ojos.
-
-Ya no están vacíos. Son verdes, enormes, y tardan un momento en enfocar. Mira el cielo blanco. Mira a la chica que lo abraza.
-
-—¿Ura... raka? —La voz le sale ronca—. ¿Qué...? Había un hombre. Adentro. Un hombre con... con un látigo... me dijo que...
-
-Se calla. Se mira los brazos. Los mueve. No hay látigos.
-
-—¡Deku! —La chica de mejillas redondas lo abraza más fuerte, hundiéndole la cara en el hombro—. ¡Idiota! ¡Casi te matas! ¡Casi nos matas a todos!
-
-—P-perdón... perdón...
-
-El chico de pelo verde gira la cabeza, todavía flotando. Te ve.
-
-De pie, a un paso, con el sobretodo negro, el pelo blanco y azul, un gato enorme en el hombro y los ojos de distinto color. Se le abre la boca.
-
-—Usted... —Los ojos se le iluminan, de golpe, de una forma que no tiene nada que ver con el susto—. Usted sujetó el Látigo Negro con la mano. Lo sentí. Desde adentro. Algo me agarró desde afuera y no me dejó romper nada. —Las palabras le salen cada vez más rápido, atropelladas—. ¿Es un Don de gravedad? ¿De hielo? Sentí frío. ¿O de los dos? ¿Es un héroe? ¿Profesional? ¿De qué agencia? No lo reconozco de ningún ranking, y yo me sé todos los rankings, y...
-
-—Deku. —La chica de mejillas redondas le tapa la boca con la mano.
-
-Por encima de las tuberías, aterrizan dos figuras. Aizawa, con el pelo flotando y la bufanda desplegada. Detrás, Vlad King, a los saltos, jadeando.
-
-Aizawa mira al chico de pelo verde, entero. Te mira a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1102 · BOKU NO HERO · DIC. · 11:16     ║
-║ U.A. · Campo Gamma                           ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1103)
+## COMANDO 1 (T1103)
 soy el nuevo consultor de seguridad de la ua
 
-## RESPUESTA 2 (T1103)
+## RESPUESTA 1 (T1103)
 
 > soy el nuevo consultor de seguridad de la ua
 
@@ -127,10 +64,10 @@ El chico de pelo verde, todavía flotando en brazos de la chica de mejillas redo
 
 ---
 
-## COMANDO 3 (T1104)
+## COMANDO 2 (T1104)
 sí, después hablamos, voy con Aizawa a la sala
 
-## RESPUESTA 3 (T1104)
+## RESPUESTA 2 (T1104)
 
 > sí, después hablamos, voy con Aizawa a la sala
 
@@ -184,4 +121,57 @@ Junta las manos.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:28, sala de monitoreo. All Might agradece emocionado. Nezu mira por pantalla. Aizawa pide el informe y pregunta qué es la semilla. Facundo puede responder.
+## COMANDO 3 (T1105)
+es una medicina de los lugares a los que viajo
+
+## RESPUESTA 3 (T1105)
+
+> es una medicina de los lugares a los que viajo
+
+> —Es una medicina de los lugares a los que viajo.
+
+Aizawa te mira un momento largo. No dice nada. Después suspira por la nariz y se recuesta en la silla.
+
+—Los lugares a los que viajas —repite, plano—. Que no figuran en ningún mapa de inmigración.
+
+No pregunta más. Se frota los ojos con el pulgar y el índice.
+
+—Está bien. No me importa de dónde sale. —Levanta la vista—. Me importa que funciona.
+
+All Might se sienta en la otra silla, despacio, sin dejar de mirarte. Tiene los ojos hundidos muy abiertos.
+
+—Curó a Midoriya en un segundo. Del todo —murmura—. Si hubiéramos tenido algo así en Kamino...
+
+No termina la frase. Se mira las manos, flacas.
+
+En la pantalla, Nezu deja la taza de té sobre el escritorio. Junta las patitas delante del hocico. Ya no sonríe tanto: los ojitos negros se le achican, calculando.
+
+—Señor Morelli. —La voz aguda suena distinta, más lenta—. Voy a ser práctico, porque es mi trabajo serlo. —Hace una pausa—. Hace dos meses, la Liga de Villanos desapareció del mapa. Hace uno, un Nomu que habla y piensa casi mata a nuestro héroe número uno en Fukuoka. Todos los informes de inteligencia dicen lo mismo: algo grande se está moviendo debajo de la tierra. Algo que va a llegar. —Los ojitos no se le apartan de ti—. Y cuando llegue, esta escuela va a estar en medio.
+
+Se inclina un poco hacia la cámara.
+
+—Una medicina que cura cualquier herida en un segundo, en una guerra, cambia la guerra. —Sonríe apenas—. Así que voy a preguntarle lo único que me interesa como director.
+
+Una pausa.
+
+—¿Cuántas tiene?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1105 · BOKU NO HERO · DIC. · 11:31     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger a los alumnos             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:31, sala de monitoreo. Aizawa acepta la medicina sin preguntar el origen. Nezu advierte que se acerca algo grande y pregunta cuántas semillas tiene. Facundo puede responder.
