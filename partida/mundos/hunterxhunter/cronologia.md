@@ -47,3 +47,4 @@
 - Día 3 noche · (T1056) La Tropa (9+ miembros) en el puerto. Hisoka en un hotel del puerto. Cumple el trato.
 - Día 4 09:40 · (T1056) Hisoka aparece ante Facundo en el techo de un depósito del puerto para la pelea pactada. Zarpe: 12:00.
 - Día 4 09:40-09:53 · (T1057) Pelea Facundo (Ultra Instinto Dominado) vs. Hisoka en los techos del puerto: Hisoka no lo toca. Lo filma un helicóptero de TV.
+- Día 4 09:54 · (T1058) Facundo gana la pelea pactada; Hisoka renuncia a cazar a la Tropa (CAMBIO TOTAL: en el canon la caza a bordo del Black Whale).

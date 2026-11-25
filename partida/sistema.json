@@ -1,13 +1,13 @@
 {
-  "turno": 1057,
+  "turno": 1058,
   "mundo_actual": "hunterxhunter",
   "fecha_local": "Día 4 (día del zarpe del Black Whale 1)",
-  "hora": "09:53",
+  "hora": "09:54",
   "edad": 18,
-  "nivel": 27,
-  "exp": 239850,
-  "exp_siguiente_nivel": 240000,
-  "fragmentos": 108140,
+  "nivel": 28,
+  "exp": 242350,
+  "exp_siguiente_nivel": 280000,
+  "fragmentos": 108290,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -55,16 +55,16 @@
       "cambio": "1 Fragmento = 11.000 jenny (fijado T1039)"
     }
   },
-  "puntos_de_stat_sin_asignar": 145,
+  "puntos_de_stat_sin_asignar": 150,
   "stats": {
-    "fuerza": 3990,
-    "velocidad": 3993,
-    "resistencia": 3990,
-    "tecnica": 3993,
-    "percepcion": 3991,
-    "voluntad": 3991,
-    "energia": 3992,
-    "control": 3991
+    "fuerza": 3991,
+    "velocidad": 3994,
+    "resistencia": 3991,
+    "tecnica": 3994,
+    "percepcion": 3992,
+    "voluntad": 3992,
+    "energia": 3993,
+    "control": 3992
   },
   "energia_actual_pct": 98,
   "eclipse": {
@@ -1751,6 +1751,13 @@
       "mundo": "hunterxhunter",
       "quien": "Hisoka Morow",
       "turno": 1045,
+      "fragmentos": 150,
+      "exp": 2500
+    },
+    {
+      "mundo": "hunterxhunter",
+      "quien": "Hisoka Morow (pelea pactada; un golpe 'suave' en Ultra Instinto Dominado; costillas rotas, consciente)",
+      "turno": 1058,
       "fragmentos": 150,
       "exp": 2500
     }

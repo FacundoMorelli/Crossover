@@ -36,3 +36,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hisoka · T1057 · vio a Facundo transformarse (pelo plateado, ojos grises brillantes, resplandor plateado quieto) y esquivar todo durante 12 minutos sin mirarlo ni contraatacar ("tu cuerpo me esquiva solo"). Facundo dijo que es lo más fuerte que tiene.
 - Helicóptero de la televisión (y quienes vean la transmisión) · T1057 · filmó desde lejos el techo del depósito: dos figuras peleando, una con un resplandor plateado, el techo destrozado. Calidad de imagen incierta.
 - Gente del muelle · T1057 · vio algo en los techos (luces, ruido, chapas que vuelan).
+- Hisoka · T1058 · recibió un golpe "suave" de Facundo en Ultra Instinto (40 m, contenedor doblado); reconoce la derrota; trato cumplido.
+- Trabajadores del puerto (2) · T1058 · vieron a un hombre volar por encima de los contenedores y estrellarse contra uno.

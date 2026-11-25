@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1055)
-trato, le doy la mano
-
-## RESPUESTA 1 (T1055)
-
-> trato, le doy la mano
-
-> —Trato.
-
-Le tiendes la mano.
-
-Hisoka la mira un segundo, como si nadie le hubiera tendido una mano en años. Después la agarra con la izquierda, la nueva. La aprieta. Tiene la piel fría y suave, sin un callo, como recién hecha.
-
-—Trato. ♥
-
-No te suelta enseguida. Te sostiene la mano un segundo de más, mirándote a los ojos, con la sonrisa quieta.
-
-Y lo sientes.
-
-En el centro de tu palma, donde la suya toca la tuya, algo se pega. Una gota de aura chiquita, rosada, elástica, que se queda en tu piel cuando él te suelta. Invisible para cualquiera. Pero no para ti. Sabes exactamente qué es y cómo funciona, porque hace veinte minutos aprendiste cómo funciona: un hilo de chicle, finísimo, que va de tu mano a la suya y que se estira lo que haga falta. Para no perderte nunca.
-
-Hisoka da un paso atrás. Mete las manos en los bolsillos del pantalón roto.
-
-—No me mires así —dice, sin que hayas dicho nada—. Es solo para saber dónde estás. Por si te olvidas de nuestro trato. ♣
-
-Se da vuelta. Camina hacia la esquina por debajo del poste torcido, despacio, con el paso parejo de las dos piernas, silbando otra vez la misma melodía de antes.
-
-Antes de doblar, gira la cabeza por encima del hombro.
-
-—El día que zarpe ese barco, Facundo Morelli. ♠ No llegues tarde.
-
-Y se va.
-
-La calle queda vacía. El farol zumba. El neón de los baños parpadea.
-
-En tu palma, la gota rosada sigue ahí, tibia, con el hilo invisible estirándose hacia la avenida, cada vez más largo, siguiéndolo.
-
-Kase la mira. Después te mira a ti. Estornuda.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1055 · HUNTER X HUNTER · DÍA 1 · 20:03 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Pelea con Hisoka el día del zarpe  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1056)
+## COMANDO 1 (T1056)
 simula hasta el día que zarpe el Black Whale
 
-## RESPUESTA 2 (T1056)
+## RESPUESTA 1 (T1056)
 
 > simula hasta el día que zarpe el Black Whale
 
@@ -139,10 +82,10 @@ Saca una carta de la manga. La hace girar.
 
 ---
 
-## COMANDO 3 (T1057)
+## COMANDO 2 (T1057)
 me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
 
-## RESPUESTA 3 (T1057)
+## RESPUESTA 2 (T1057)
 
 > me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
 
@@ -217,4 +160,69 @@ Se queda en silencio un momento, mirándote, con los ojos amarillos brillando m�
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 4 09:53, techo del depósito del puerto de Kakin. Facundo en Ultra Instinto Dominado; Hisoka no lo tocó en 12 minutos. Hisoka, agotado, le pide que le pegue una vez. Un helicóptero de TV filma. Facundo puede actuar.
+## COMANDO 3 (T1058)
+le pego suave
+
+## RESPUESTA 3 (T1058)
+
+> le pego suave
+
+Das un paso.
+
+No hay distancia. Estás a tres metros de él y después ya no. Hisoka llega a abrir los ojos. Es lo único que llega a hacer.
+
+Le apoyas el puño en el pecho. No lo descargas: lo apoyas, con la fuerza con que se empuja una puerta que está abierta.
+
+Alcanza.
+
+El aire alrededor de tu puño se dobla. Las cartas clavadas en las chapas tiemblan todas a la vez. Hisoka sale despedido hacia atrás como si lo hubiera atropellado un tren, sin tocar el techo, en línea recta, con los brazos y las piernas abiertos, la boca abierta, sin sonido. Cruza el techo del depósito de al lado, la calle de contenedores, otro techo. A cuarenta metros se estrella contra un contenedor de acero rojo, apilado en tercera fila, y lo dobla hacia adentro con la espalda como una lata de gaseosa.
+
+Se queda ahí, incrustado en el metal, con la cabeza caída sobre el pecho.
+
+Abajo, entre los contenedores, dos trabajadores del puerto con casco se miran y salen corriendo para el otro lado.
+
+El resplandor plateado se apaga. El pelo te vuelve a ser blanco y azul, mechón por mechón. Los ojos, rojo y azul. Kase cruza el techo destrozado, salta a tu hombro y se acomoda en el cuello como si nada.
+
+[Rival vencido: Hisoka Morow. +2.500 EXP · +150 Fragmentos.]
+
+[Has subido de nivel. NIVEL 28.]
+
+[+1 a todos los stats · +5 puntos asignables.]
+
+Vas hasta el contenedor rojo.
+
+Hisoka está consciente. Tiene los ojos entreabiertos, vidriosos, la cara blanca debajo del maquillaje corrido, y un hilo de sangre que le baja de la comisura de la boca. Respira corto, con un silbido. Te ve llegar y, muy despacio, como si le costara cada músculo de la cara, sonríe.
+
+—Ah... —El silbido de la respiración le corta la voz—. Eso... eso fue suave, ¿no?
+
+No puede moverse. Tiene los brazos hundidos en el metal hasta los codos.
+
+—Lo sentí... hasta los huesos. Todos. —Se ríe y tose sangre al mismo tiempo—. Me rompiste... algo. Varias cosas. ♣
+
+Se queda mirándote un rato largo. Ya no hay hambre en los ojos amarillos. Hay otra cosa. Algo casi tranquilo.
+
+—Ganaste, Facundo Morelli. —Lo dice despacio, cada palabra con su respiración—. Un trato es un trato. Las arañas... son tuyas. No las voy a buscar. Nunca. ♠
+
+Cierra los ojos un segundo. Los vuelve a abrir.
+
+—Pero a ti... —La sonrisa se le estira, apenas, torcida, ensangrentada—. A ti no te prometí nada. ♥ Algún día voy a volver a buscarte. Cuando pueda tocarte la ropa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1058 · HUNTER X HUNTER · DÍA 4 · 09:54 ║
+║ Kakin · puerto, contenedores                 ║
+║ NIVEL 28 · EXP 242.350/280.000               ║
+║ FRAGMENTOS 108.290 · 0 jenny                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 4 09:54, contenedores del puerto de Kakin. Facundo (nivel 28) ganó la pelea pactada: Hisoka, incrustado en un contenedor, herido y consciente, renuncia a las arañas para siempre pero promete volver a buscar a Facundo. El Black Whale zarpa a las 12:00. Facundo puede actuar.
