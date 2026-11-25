@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1116)
-alguien quiere venir conmigo? osea no por que necesite ayuda, creo que a alguien no le gustaria para nada ver a allmight con sus poderes de nuevo
-
-## RESPUESTA 1 (T1116)
-
-> —¿Alguien quiere venir conmigo? O sea, no porque necesite ayuda. Creo que a alguien no le gustaría para nada ver a All Might con sus poderes de nuevo.
-
-La sala se queda en silencio.
-
-All Might deja de reírse. Muy despacio, se le borra la sonrisa, y por primera vez desde que lo curaste, la cara enorme se le pone seria. Seria de verdad.
-
-—Él —dice. No es una pregunta.
-
-Aizawa se gira hacia ti.
-
-—Si estás hablando de quien creo que estás hablando —dice, con la voz muy baja—, está en Tartarus. La prisión más segura del país. Bajo tierra, con cámaras en cada centímetro y orden de disparar si mueve un dedo.
-
-—Y una licencia profesional no abre esa puerta —agrega Nezu. Ya no se ríe—. Ni siquiera la más legítima del mundo. A Tartarus no se entra a visitar, señor Morelli.
-
-—Esta mañana —dice Aizawa— tampoco existía tu licencia.
-
-Nezu lo mira de reojo. No le contesta.
-
-All Might se queda mirando el mapa de la pantalla. El círculo que marcaste lejos, bajo tierra, donde sentiste a alguien que se giraba hacia Izuku.
-
-—Cuando lo vencí en Kamino —dice, despacio— me quedé sin nada. Usé hasta la última brasa. Y él lo sabía. Lo último que me dijo fue que se iba a quedar mirando cómo el mundo se caía sin mí. —Aprieta el puño. Los nudillos le crujen—. Se va a enterar. Tarde o temprano, se va a enterar.
-
-—Toshinori —dice Aizawa.
-
-—Yo voy —contesta All Might. Te mira—. Si vas a ir a buscar a alguien, joven Morelli, y si de verdad es él... yo voy.
-
-Aizawa suspira largo por la nariz.
-
-—Yo no puedo —dice—. Tengo cuarenta alumnos en la enfermería y uno de ellos acaba de convertirse en un tornado de látigos negros. —Te mira—. Y si esto es la guerra, alguien tiene que quedarse cuidando la escuela que te pidieron proteger.
-
-Nezu junta las patitas sobre el escritorio.
-
-—Señor Morelli —dice—. Antes de que alguien vaya a ninguna parte. —Inclina la cabeza—. ¿A quién va a buscar primero, exactamente? ¿A él? ¿O a los que todavía están libres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1116 · BOKU NO HERO · DIC. · 12:01     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: — (All Might quiere ir contigo)    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1117)
+## COMANDO 1 (T1117)
 primero a él, vamos All Might, me teletransporto a Tartarus
 
-## RESPUESTA 2 (T1117)
+## RESPUESTA 1 (T1117)
 
 > —Primero a él. Vamos, All Might.
 
@@ -129,10 +71,10 @@ Y la cabeza gira, muy lentamente, hacia ti.
 
 ---
 
-## COMANDO 3 (T1118)
+## COMANDO 2 (T1118)
 quien sabe, los siguientes en ser arrestados van a ser la liga, eh allmight, te puedes quedar a explicar esto a los guardias mientras yo voy?
 
-## RESPUESTA 3 (T1118)
+## RESPUESTA 2 (T1118)
 
 > —Quién sabe. Los siguientes en ser arrestados van a ser los de la Liga. —Te giras—. Eh, All Might, ¿te puedes quedar a explicarles esto a los guardias mientras yo voy?
 
@@ -179,4 +121,62 @@ En la silla, All For One vuelve a respirar despacio. Tranquilo. Como si estuvier
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:03, Tartarus. All Might se queda con los guardias y vigilando a AFO. AFO, tranquilo, "esperando algo"; All Might advierte que podría avisar a Shigaraki. Facundo puede irse por la Liga.
+## COMANDO 3 (T1119)
+me teletransporto a la cabaña donde está la Liga
+
+## RESPUESTA 3 (T1119)
+
+> me teletransporto a la cabaña donde está la Liga
+
+El frío de Tartarus se cambia por otro frío. Más vivo. Con olor a madera húmeda y a humo.
+
+Estás dentro de una cabaña de troncos, chica, con las ventanas tapadas con tablas. Hay una estufa de leña encendida en un rincón, una mesa con latas vacías y mapas arrugados, colchones tirados en el piso. Afuera, a lo lejos, se oye un estruendo grave que hace vibrar el vidrio de la única lámpara: algo enorme golpeando la montaña, una y otra vez.
+
+Hay cinco personas.
+
+Un tipo flaco de pelo negro, con la piel de media cara y de los brazos quemada, morada, cosida con grapas de metal. Sentado contra la pared, con los pies en la mesa. Deja de mirar el techo y te mira a ti.
+
+Una chica rubia con dos rodetes desordenados, sentada en un colchón, que estaba afilando un cuchillo. Se queda con la piedra a medio camino.
+
+Un hombre con traje negro y blanco que lo cubre entero, cabeza incluida, con un dibujo de máscara en la cara. Estaba revolviendo una olla en la estufa.
+
+Un muchacho de cara de lagarto, con escamas verdes, que se pone de pie tan rápido que tumba la silla.
+
+Y un hombre con máscara de teatro y sombrero de copa, sentado junto a la ventana, que inclina la cabeza con mucho interés.
+
+Nadie dice nada durante un segundo.
+
+—¿Y tú quién demonios eres? —dice el de traje negro y blanco, y enseguida, con la misma voz pero más aguda—. ¡Bienvenido, amigo! ¡Siéntate! —y otra vez grave—: ¡No, no te sientes!
+
+La chica rubia sonríe despacio.
+
+—Ay —dice—. ¿De dónde saliste? No hay puerta de ese lado.
+
+El de las quemaduras no se levanta. Solo extiende una mano hacia ti, la palma abierta, y de los dedos le empieza a subir un humo azul que calienta todo el aire de la cabaña.
+
+—Nadie sabe que estamos acá —dice, muy tranquilo—. Así que tienes cinco segundos para decirme cómo nos encontraste.
+
+El de la máscara de teatro se ríe bajito y mete una mano en el bolsillo de la chaqueta.
+
+—Dabi, querido —dice—. Fíjate en el gato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1119 · BOKU NO HERO · DIC. · 12:04     ║
+║ Montañas del noroeste · cabaña de la Liga    ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a la Liga                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:04, cabaña de la Liga en las montañas. Dabi con llama azul en la palma, exige saber cómo los encontró. Toga, Twice, Spinner, Mr. Compress (mano en el bolsillo). Shigaraki y Gigantomachia peleando a lo lejos. Facundo puede actuar.
