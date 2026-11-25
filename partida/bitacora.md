@@ -1241,3 +1241,4 @@ T1239 · TG · Anteiku · Vuelve. Irimi vendada, sin la lanza. Kaneki: "Los disp
 T1240 · TG · Anteiku · "Mañana voy a ver al presidente." Touka: "¿Estás loco?" Yoshimura: "Los Washuu siempre cobran más. ¿Qué le pidió a cambio?"
 T1241 · TG · Anteiku · "Tiene a alguien que tiene mucha hambre." Yoshimura: "Así que es eso." Irimi sangra. Koma: "¿Te queda otro grano?"
 T1242 · TG · Anteiku · Semilla a Irimi (quedan 76). "Gracias, Panadero." Yoshimura: "¿Se queda?"
+T1243 · TG · Simulación noche → Día 7 09:59 · Noche en Anteiku. TV: operación concluida. Portón negro de los Washuu: Arima espera con un libro. "Diga su nombre."

@@ -5,6 +5,7 @@ PODER VISTO POR FACUNDO: (Tasación) Quinques IXA y Narukami; combate perfeccion
 FÍSICO: Alto, delgado, pelo blanco casi gris cortado sin cuidado, lentes de marco fino, traje oscuro sin corbata, maletín plateado. Cara sin expresión ("ausencia"). No hace ruido al caminar.
 PERSONALIDAD Y FORMA DE HABLAR: Casi no habla; preguntas inesperadas.
 ENCUENTROS:
+- T1243 · Día 7 09:59 · Espera junto al portón negro de los Washuu, leyendo; cierra el libro marcando la página al ver llegar a Facundo.
 - T1233 · Carpa central del puesto de mando · Entra; se para a 2 m de Facundo; lo estudia. Kase se eriza.
 DIÁLOGOS CLAVE:
 - T1237 · "Mañana."

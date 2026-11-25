@@ -4,3 +4,4 @@
 - T1215 · Días 3-5 · El rumor llega a los distritos 11, 13 y 14. Los ghouls lo llaman "el Panadero".
 - T1215 · Día 6 17:40 · Altavoces de la CCG en el Distrito 20: "operación especial", evacuación de civiles hacia el norte.
 - T1237 · Día 6 ~18:25 · Radio de la CCG: operación suspendida por orden del presidente. (Lo oyen todas las unidades; mañana los medios hablarán de una "operación especial" en el Distrito 20.)
+- T1243 · Día 7 07:00 · TV: "operación especial de la CCG en el Distrito 20, concluida; varios efectivos heridos; no se informaron víctimas civiles". Nada del Búho, del café ni de Facundo.

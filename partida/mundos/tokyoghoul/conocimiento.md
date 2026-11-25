@@ -148,3 +148,4 @@
 - Todos en Anteiku · T1241 · por Facundo: el presidente tiene en su casa a alguien con mucha hambre.
 - Yoshimura · T1241 · deducción (confirma una sospecha vieja sobre los Washuu; no la dice).
 - Todos en Anteiku · T1242 · vieron a Facundo curar a Irimi con un grano verde.
+- Nishiki · T1243 · Kimi está bien (por teléfono).

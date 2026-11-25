@@ -7,6 +7,7 @@ FÍSICO: Ojo visible gris oscuro. Delgada, pelo corto oscuro y lacio, flequillo 
 PERSONALIDAD Y FORMA DE HABLAR: Brusca, explosiva, grita; directa.
 RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
+- T1243 · Se sienta en la escalera, dos escalones arriba de Facundo, de las 4 al amanecer, sin hablar. A la mañana mira a Kase como encargándole algo.
 - T1215 · Día 4: un cristal le corta a Facundo un mechón azul. Día 6: en la escalera al empezar la operación.
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.

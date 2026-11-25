@@ -1,8 +1,8 @@
 {
-  "turno": 1242,
+  "turno": 1243,
   "mundo_actual": "tokyoghoul",
-  "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
-  "hora": "18:35",
+  "fecha_local": "Día 7 desde la llegada (mañana siguiente a la suspensión de la Operación del Búho)",
+  "hora": "09:59",
   "edad": 18,
   "nivel": 29,
   "exp": 290230,
@@ -81,7 +81,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

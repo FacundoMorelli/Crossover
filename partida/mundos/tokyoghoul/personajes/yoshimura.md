@@ -7,6 +7,7 @@ FÍSICO: Delgado, pelo blanco peinado con cuidado, chaleco negro, camisa blanca,
 PERSONALIDAD: Tranquilo, amable, sin prisa.
 RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
+- T1243 · Noche del Día 6: prepara café tres veces; no cuenta nada de los Washuu. A Facundo, bajo: "Si mañana no vuelve, voy a entender."
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
 - T1242 · "Esta noche nadie va a dormir. Así que voy a preparar café." "Morelli-san. ¿Se queda?"

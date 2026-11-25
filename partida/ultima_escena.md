@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1240)
-mañana voy a ir a ver al presidente a su casa
-
-## RESPUESTA 1 (T1240)
-
-> —Mañana voy a ir a ver al presidente a su casa.
-
-Nadie entiende enseguida.
-
-Kaneki parpadea. Koma levanta la cabeza desde el piso, con la taza de agua todavía en la mano.
-
-—¿Qué presidente? —pregunta Nishiki desde la pileta.
-
-Pero Yoshimura sí entiende.
-
-Se le queda quieta la cara. No como antes, cuando escuchaba algo que lo sorprendía: ahora se le queda quieta como se queda quieta la superficie de un estanque cuando algo enorme pasa por debajo.
-
-—El presidente de la CCG —dice, muy despacio—. Washuu Tsuneyoshi.
-
-Touka se da vuelta desde la puerta de golpe.
-
-—¿Qué? —Cruza la cocina en tres pasos y se te planta delante, al lado de Kaneki—. ¿Vas a ir a la casa del jefe de todos esos? ¿Del que mandó a quemarnos? ¿Estás loco?
-
-—Touka-chan —dice Yoshimura, suave.
-
-Ella se calla. Pero no se mueve de delante de ti.
-
-Yoshimura se apoya en la mesada con las dos manos manchadas. Mira el piso. Se toma un tiempo largo antes de hablar.
-
-—Morelli-san. La operación paró porque él lo ordenó. Y él lo ordenó porque usted le dio algo a cambio. —No es una pregunta—. Hace muchos años que conozco el nombre Washuu. Más de los que me gustaría. Esa familia no hace nada sin cobrarlo después, y siempre cobra más de lo que pidió.
-
-Levanta la vista hacia ti. Detrás de los ojos tranquilos de barista, hay algo viejo y muy cansado.
-
-—El hombre del sombrero que vino a verme hace dos noches... trabaja para gente que trabaja para esa casa. —Hace una pausa—. No le voy a decir que no vaya. Ya sé que va a ir igual.
-
-Se le endurece la voz, apenas.
-
-—Pero dígame, por favor: ¿qué le pidió a cambio?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1240 · TOKYO GHOUL · DÍA 6 · 18:31     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la mesada                           ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1241)
+## COMANDO 1 (T1241)
 me dijo que tiene a alguien en su casa que tiene mucha hambre
 
-## RESPUESTA 2 (T1241)
+## RESPUESTA 1 (T1241)
 
 > —Me dijo que tiene a alguien en su casa que tiene mucha hambre.
 
@@ -108,10 +52,10 @@ Koma lo ve. Se le borra la sonrisa.
 
 ---
 
-## COMANDO 3 (T1242)
+## COMANDO 2 (T1242)
 si perdon me fui muy rapido y no llegue a curarla, le doy una semilla a irimi
 
-## RESPUESTA 3 (T1242)
+## RESPUESTA 2 (T1242)
 
 > —Sí, perdón. Me fui muy rápido y no llegué a curarla.
 
@@ -157,7 +101,78 @@ Te mira por encima del hombro.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1243)
+si. simula hasta mañana a las 10
+
+## RESPUESTA 3 (T1243)
+
+> —Sí.
+
+...
+
+La noche en Anteiku es larga y no duerme nadie.
+
+Yoshimura prepara café tres veces. La primera, nadie lo toma. La segunda, Koma se toma dos tazas y se pone a contar a los gritos cómo la Higher Mind voló por el aire "con dos dedos, ¡dos!", hasta que Irimi le pega en la nuca y se calla. La tercera, a las dos de la mañana, Hinami se queda dormida sobre la mesa con la cabeza apoyada en los brazos, y Touka le pone una manta encima sin decir nada.
+
+Los cuatro Apes comen. Pan, arroz frío, lo que hay. Comen mucho. Las heridas se les cierran de a poco, con la comida, como si el cuerpo se acordara de algo. Al amanecer, el más joven ya camina sin el cinturón atado en la pierna.
+
+Nishiki se encierra un rato en el baño con el celular. Cuando sale, tiene los ojos rojos y dice que Kimi está bien, que se quedó en su casa, del otro lado del distrito, y que la CCG no pasó por su calle.
+
+Kaneki intenta salir dos veces a la vereda. Las dos veces el umbral lo frena. La segunda se queda sentado del lado de adentro de la puerta, con la espalda contra el vidrio, mirando la calle vacía hasta que se hace de día.
+
+Touka no habla con nadie. A las cuatro de la mañana se sienta en la escalera, dos escalones más arriba que tú, y se queda ahí, abrazada a las rodillas, sin decir nada, hasta que amanece.
+
+Yoshimura no cuenta nada de los Washuu. Nadie le pregunta. Cerca de las cinco, mientras lava las tazas, dice solo una cosa, sin darse vuelta, en voz tan baja que solo la oyes tú:
+
+—Si mañana no vuelve, voy a entender.
+
+Duermes un par de horas en el sofá de arriba, con Kase sobre el pecho.
+
+A las siete, la tele de la cocina dice lo que dice siempre: "operación especial de la CCG en el Distrito 20", "concluida", "varios efectivos heridos", "no se informaron víctimas civiles". Ni una palabra del Búho. Ni del café. Ni de ti.
+
+A las nueve y media te lavas la cara. Kaneki y Touka te esperan al pie de la escalera. No te piden ir. Saben que el umbral no los dejaría.
+
+—Vuelve —dice Kaneki. Solo eso.
+
+Touka no dice nada. Te mira a los ojos, uno y otro, y después mira a Kase en tu hombro, como si le encargara algo a él.
+
+...
+
+Distrito 1. Diez menos un minuto.
+
+Es otra ciudad. Calles anchas, silenciosas, con árboles viejos alineados en las veredas y muros altos, de piedra gris, detrás de los cuales no se ve nada. No hay negocios. No hay gente caminando. Pasa un auto negro, despacio, y dobla en la esquina.
+
+La calle tiene nombre de árbol. El número está grabado en una placa de bronce, en un muro de piedra que ocupa media cuadra. En el medio del muro, un portón de hierro negro, alto, liso, sin adornos. Al lado, un intercomunicador con una lente de cámara.
+
+Y apoyado en el muro, a dos metros del portón, con el maletín plateado en el suelo junto a los pies y un libro abierto en las manos, está Arima.
+
+Levanta la vista del libro cuando llegas. Te mira. Lo cierra, marcando la página con un dedo.
+
+No dice nada.
+
+El intercomunicador hace un clic. Una voz de mujer, joven, perfectamente educada, sin ninguna emoción:
+
+—Buenos días. Por favor, diga su nombre.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1243 · TOKYO GHOUL · DÍA 7 · 09:59     ║
+║ Distrito 1 · portón negro de los Washuu      ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, 10:00          ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:35, cocina de Anteiku. Irimi curada. Los 4 Apes siguen vendados. Yoshimura prepara café y pregunta si Facundo se queda. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 09:59, portón negro de la casa Washuu (Distrito 1). Arima espera junto al muro. El intercomunicador pide el nombre. Facundo puede responder.
