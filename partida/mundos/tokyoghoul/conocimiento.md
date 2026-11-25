@@ -199,3 +199,4 @@
 - Ayato, Aogiri en la azotea · T1269 · por Touka: Anteiku sigue abierto, 7:30 todos los días.
 - Facundo, Touka · T1270 · por Ayato: en Aogiri hay gente que conoce la cara de Touka (la de la máscara de conejo que atacó investigadores el año pasado).
 - Ayato, Touka · T1271 · por Facundo: es un viajero; no se queda mucho ni vuelve seguido.
+- Todos en Anteiku · T1272 · por Touka: vio a Ayato; está vivo y flaco.

@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1269)
-bueno, lista para irnos?
-
-## RESPUESTA 1 (T1269)
-
-> —Bueno, ¿lista para irnos?
-
-Touka no te contesta enseguida.
-
-Abre el puño. La tostada deshecha cae en migas sobre el cemento y el viento se las lleva. Se limpia la mano en la campera. Después da un paso hacia el borde, hacia su hermano, y se detiene a tres metros. Las capas oscuras se tensan. El de la capa roja no se mueve.
-
-—Ayato —dice.
-
-Él no contesta. Está de pie en el borde, con las alas apagadas, los puños apretados a los costados y la cara de quince años que le queda chica a tanta rabia.
-
-—No vine a pedirte que vuelvas. —Touka habla bajo, firme—. Ya sé que no vas a volver. Vine a decirte lo que te dije. Y a decirte otra cosa.
-
-Respira hondo.
-
-—El café sigue abierto. Las siete y media, todos los días. El viejo sigue haciendo el café horrible ese que a ti te gustaba de chico. —Se le escapa algo que casi es una sonrisa, y se le borra enseguida—. Si un día quieres un pan con mermelada, sabes dónde queda.
-
-Ayato la mira. La boca se le abre y se le cierra. No dice nada.
-
-Touka se da vuelta. Vuelve hasta ti. Te agarra la manga del sobretodo, con toda la mano, sin mirarte a la cara.
-
-—Sí —dice—. Vámonos.
-
-Los de las capas abren un hueco en el semicírculo, despacio, sin bajar la guardia. El de la capa roja los mira irse sin decir nada. El enorme de la máscara de tela sigue en la puerta, inmóvil.
-
-Kase, en tu cuello, mira para atrás.
-
-Y desde el borde de la azotea, con la voz rota, casi tapada por el viento del mar, Ayato dice:
-
-—Espera.
-
-Touka se queda clavada. No se da vuelta. Te aprieta la manga tan fuerte que se le ponen blancos los nudillos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1269 · TOKYO GHOUL · DÍA 7 · 21:16     ║
-║ Bahía · azotea de la base de Aogiri          ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: Touka y Ayato                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1270)
+## COMANDO 1 (T1270)
 espero
 
-## RESPUESTA 2 (T1270)
+## RESPUESTA 1 (T1270)
 
 > espero
 
@@ -111,10 +57,10 @@ Lo dice muy bajo. Tan bajo que los de las capas no lo oyen. Solo tú, y Touka, q
 
 ---
 
-## COMANDO 3 (T1271)
+## COMANDO 2 (T1271)
 puedo si, pero soy un viajero, no me quedo mucho y no vuelvo tanto
 
-## RESPUESTA 3 (T1271)
+## RESPUESTA 2 (T1271)
 
 > —Puedo, sí. Pero soy un viajero. No me quedo mucho y no vuelvo tan seguido.
 
@@ -169,7 +115,67 @@ Después vuelve a agarrarte la manga. No dice nada. Tiene la cara mojada, y no e
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1272)
+volvemos a la cafeteria
+
+## RESPUESTA 3 (T1272)
+
+> volvemos a la cafetería
+
+La azotea desaparece. El viento salado, el olor a óxido, las capas oscuras, la espalda encogida de Ayato: todo se va de golpe.
+
+Salón de Anteiku. Luz amarilla. Olor a café y a arroz recién hecho.
+
+Están todos. Koma con un plato en la mano, a medio bocado. Irimi apoyada en la barra. Nishiki secando tazas. Hinami sentada en un taburete con las piernas colgando. Kaneki en el mismo lugar de antes, con las manos sobre la barra. Los cuatro Apes, en una mesa del fondo, comiendo como si fuera la primera vez. Y Yoshimura, detrás de la barra, con el libro de Eto apoyado junto a la caja registradora.
+
+Todos se quedan quietos al verlos aparecer.
+
+Touka te suelta la manga. Se pasa el dorso de la mano por la cara, rápido, de un lado y del otro. No sirve de mucho. Tiene los ojos rojos y la nariz roja, y lo sabe.
+
+Kaneki se levanta del taburete.
+
+—Touka-chan...
+
+—Lo vi —dice ella. Corto. Sin mirar a nadie—. Está vivo. Está flaco. Sigue siendo un idiota.
+
+Se le quiebra la voz en "idiota". Se da vuelta, cruza el salón y sube la escalera de dos en dos sin decir nada más. Arriba, la puerta del cuarto chico se cierra con un golpe.
+
+Nadie dice nada. Hinami baja del taburete y se queda al pie de la escalera, mirando para arriba, sin animarse a subir. Kaneki da un paso hacia la escalera. Se detiene. Vuelve a sentarse.
+
+Yoshimura no comenta nada. Saca una taza limpia, sirve café recién hecho y la pone sobre la barra, delante del taburete vacío que quedó al lado de Kaneki. Después llena otro platito con leche tibia y lo deja al lado, para Kase.
+
+Kase baja de tu hombro a la barra y bebe.
+
+Yoshimura se seca las manos. Te mira por encima de los lentes, que volvió a ponerse.
+
+—Gracias por llevarla —dice—. Hacía tres años que no se atrevía.
+
+Se queda un momento callado, mirando la escalera. Después vuelve a mirarte.
+
+—Morelli-san. Usted nos dijo, la primera noche, que no se iba a ir hasta que terminara la operación. —Lo dice suave, sin reproche—. La operación terminó.
+
+Hace una pausa.
+
+—¿Ya sabe cuándo se va?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1272 · TOKYO GHOUL · DÍA 7 · 21:21     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra, tomando leche             ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:19, azotea de Aogiri. Ayato le dijo a Touka que espere hasta que él pueda cuidarla y que se vaya con Facundo. Volvió con Aogiri. Touka, llorando, agarra la manga de Facundo. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:21, salón de Anteiku. Touka se encerró arriba tras ver a Ayato. Yoshimura le sirve café a Facundo y le pregunta si ya sabe cuándo se va. Facundo puede responder.

@@ -1270,3 +1270,4 @@ T1268 · TG · Azotea · "Me llamo Eclipse. Me conocen como el Panadero." Capa r
 T1269 · TG · Azotea · "¿Lista para irnos?" Touka se despide de Ayato: el café sigue abierto. Ayato: "Espera."
 T1270 · TG · Azotea · Ayato: "No te hagas humana todavía; aquí saben tu cara." A Facundo: "¿Puedes cuidarla?"
 T1271 · TG · Azotea · "Soy un viajero." Ayato: "Hasta que yo pueda cuidarte. Yo." "Vete con él." Touka llora.
+T1272 · TG · Anteiku · Vuelven. Touka: "Lo vi. Sigue siendo un idiota." Se encierra. Yoshimura: "¿Ya sabe cuándo se va?"
