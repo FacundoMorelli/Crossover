@@ -1195,3 +1195,4 @@ T1193 · TG · Plaza · Confirma que Yoshimura es el Búho. Kaneki: "¿Y cuando 
 T1194 · TG · Plaza · "No me voy hasta que termine la operación." Kaneki: "¿Me entrenarías?"
 T1195 · TG · Plaza · Acepta entrenar a Kaneki. Kaneki propone el Distrito 24. "¿Cuándo empezamos?"
 T1196 · TG · Anteiku (simulación 08:01-12:41) · Mañana en el café. Transfigura a 9 ghouls en la puerta del callejón. El rumor corre. Llega Yomo: "¿Quién eres?"
+T1197 · TG · Anteiku · "Me llamo Facundo Morelli." Yomo teme el informe de la CCG. Yoshimura: "Fue mi decisión." Yomo: "A él también le quitó el hambre."

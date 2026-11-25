@@ -71,3 +71,4 @@
 - Ghouls del callejón (Kimura y Kenta, obrero, dos hermanas, embarazada, viejo de bastón y otros) · T1196 · vieron a Facundo (ojos de dos colores, tatuajes) quitar el hambre con la mano en la puerta trasera de Anteiku, con Yoshimura.
 - Ghouls del Distrito 20 (rumor) · T1196 · "un humano de ojos de dos colores quita el hambre" (deformado según quién lo cuente).
 - Yomo · T1196 · por el rumor de la estación (una vieja) + lo que ve al entrar (Facundo con ojos de dos colores en Anteiku).
+- Yomo · T1197 · Facundo se llama Facundo Morelli; huele a humano. Por Yoshimura: nueve personas transfiguradas hoy, sin pedir silencio. Deduce (por el olor/la cara de Kaneki) que Kaneki también.

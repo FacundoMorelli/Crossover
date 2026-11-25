@@ -3,55 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1194)
-no me voy a ir hasta que no termine la operacion del buho, y ahora puedes comer comida normal, puedes mejorar tu habilidad con el kagune sin necesidad de comer humanos
-
-## RESPUESTA 1 (T1194)
-
-> —No me voy a ir hasta que no termine la Operación del Búho. Y ahora puedes comer comida normal. Puedes mejorar tu habilidad con el kagune sin necesidad de comer humanos.
-
-Kaneki se queda mirándote.
-
-Algo en los hombros se le suelta, de a poco, como una cuerda que alguien deja de tirar. Baja la vista hacia sus propias manos, las uñas negras, los nudillos todavía marcados por la pelea de anoche.
-
-—Sin comer humanos —repite.
-
-Abre y cierra la mano derecha, despacio.
-
-—Desde que me volví esto, cada vez que me hice más fuerte fue porque comí algo. Alguien. —Lo dice bajito, sin mirarte—. Yamori. Los de Aogiri. Los ghouls de la mansión. Comía para no perder, y cada vez que comía, me perdía un poco más. Ya no sabía dónde terminaba yo y dónde empezaba... —Se toca el pecho, el lugar exacto donde anoche apoyaste la palma—. Esto.
-
-Se queda en silencio. El verdulero de enfrente silba algo desafinado.
-
-Después se levanta del banco. Se para derecho frente a ti, con la camisa prestada demasiado grande colgándole de los hombros, y hace una reverencia corta y torpe, como alguien que no tiene práctica.
-
-—Entonces enséñame —dice, todavía inclinado—. Tú tienes cuatro kagune y no tienes hambre. Sabes usarlos. Yo solo sé usar el mío cuando pierdo el control.
-
-Se endereza. Tiene los ojos firmes.
-
-—No quiero perder el control nunca más. Y cuando venga la CCG, no quiero estar escondido arriba mientras tú peleas por nosotros. ¿Me entrenarías?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1194 · TOKYO GHOUL · MAÑANA · 08:00    ║
-║ Distrito 20 · plaza chica, a media cuadra    ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1195)
+## COMANDO 1 (T1195)
 esta bien
 
-## RESPUESTA 2 (T1195)
+## RESPUESTA 1 (T1195)
 
 > —Está bien.
 
@@ -93,10 +48,10 @@ Mete las manos en los bolsillos del pantalón prestado.
 
 ---
 
-## COMANDO 3 (T1196)
+## COMANDO 2 (T1196)
 ehh no se, cuando termine con yoshimura si quieres. simula
 
-## RESPUESTA 3 (T1196)
+## RESPUESTA 2 (T1196)
 
 > —Eh... no sé. Cuando termine con Yoshimura, si quieres.
 
@@ -166,7 +121,64 @@ Se quita la capucha del todo.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1197)
+me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1197)
+
+> —Me llamo Facundo Morelli.
+
+Yomo no se mueve.
+
+Te mira un rato largo, con esos ojos chicos y quietos que no dicen nada. Inspira una vez por la nariz, despacio, sin disimular. Hueles a humano y lo sabe. Mira a Kase. Mira tus manos.
+
+—Eso es un nombre —dice al final—. No es lo que pregunté.
+
+Pero no insiste. Gira la cabeza hacia Yoshimura, que salió de la cámara del fondo con las manos vacías y se quedó en el pasillo, entre la cocina y el salón.
+
+—La vieja lo está gritando en el andén —le dice. Es lo más largo que habló hasta ahora—. En el andén. Con gente pasando. Si alguien de la CCG que viaja de civil la escuchó, esta tarde ya está en un informe.
+
+Yoshimura asiente despacio.
+
+—Lo sé, Yomo-kun.
+
+—¿Lo sabes?
+
+—Nadie les pidió silencio. Fue mi decisión. —Se quita los lentes y los dobla—. Hoy nueve personas comieron pan por primera vez en su vida. No iba a pedirles que se callaran.
+
+Yomo lo mira. Algo se mueve en su cara: no llega a ser una expresión, apenas una sombra.
+
+Después mira a Kaneki, que sigue en la cocina con el repasador apretado en el puño, la camisa blanca prestada, el pelo blanco limpio. Lo mira de arriba abajo, como si contara cuántas partes le faltan y se sorprendiera de que estén todas.
+
+—Volviste —le dice.
+
+Kaneki traga saliva y asiente.
+
+Yomo vuelve a mirarte a ti. Se agacha, levanta la bolsa del supermercado del piso y la deja sobre la mesada de la cocina, sin apuro. Adentro se ven paquetes envueltos en papel marrón, como los de la cámara.
+
+—Kaneki —dice, sin dejar de mirarte—. A él también le quitó el hambre.
+
+No es una pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1197 · TOKYO GHOUL · MEDIODÍA · 12:42  ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la puerta de la cocina              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki (Distrito 24)    ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 12:41, cocina de Anteiku. Yomo llegó por el callejón con el rumor de la estación y pregunta quién es Facundo. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 12:42, cocina de Anteiku. Yomo afirma que Facundo también le quitó el hambre a Kaneki. Facundo puede responder.
