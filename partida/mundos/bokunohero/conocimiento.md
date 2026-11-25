@@ -32,3 +32,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Uraraka, Shinso, Ashido y los alumnos del quinto combate (y las cámaras/profesores) · T1101 · vieron el ojo azul de Facundo encenderse: los látigos cayeron como de plomo, con escarcha. Lo interpretan como un Don de gravedad y hielo.
 - Izuku, Uraraka, Shinso, Ashido y alumnos cercanos · T1102 · su nombre: Facundo Morelli, consultor de seguridad de la U.A. (él lo dijo). Vieron cómo una semilla curó a Izuku al instante.
 - Izuku · T1102 · sintió "desde adentro" que algo agarraba el Látigo Negro desde afuera; sintió frío.
+- Alumnos de 1-A y 1-B del quinto combate (Izuku, Uraraka, Shinso, Ashido, Mineta, Monoma, Tsunotori, Shoda, Fukidashi) · T1103 · Facundo es el nuevo consultor de seguridad de la U.A. "desde hoy" (Aizawa lo confirma).

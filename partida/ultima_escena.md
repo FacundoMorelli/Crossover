@@ -3,67 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1100)
-me teletransporto y protejo a Uraraka
-
-## RESPUESTA 1 (T1100)
-
-> me teletransporto y protejo a Uraraka
-
-Desapareces de la sala de monitoreo.
-
-Detrás de ti, alcanzas a escuchar a Vlad King gritar algo, y a All Might decir tu nombre.
-
-Apareces en el Campo Gamma.
-
-Frío. Nieve sucia. Olor a acero recalentado y a polvo. Tuberías gigantes por todos lados, retorcidas, arrancadas, algunas flotando a medio metro del suelo con el brillo rosado de la chica de mejillas redondas. Y en el centro, a quince metros, un nudo de látigos negros que se retuerce como un animal enfermo, con el chico de pelo verde colgando adentro, sacudido de un lado a otro.
-
-La chica de mejillas redondas viene corriendo hacia él. Tiene la cara manchada de hollín, el traje rosado y negro roto en una rodilla, los ojos fijos en el chico. No te ve.
-
-El látigo negro baja hacia ella. Grueso como una pierna. Rápido como un rayo.
-
-Te pones delante.
-
-El látigo te golpea en la palma abierta de la mano.
-
-No te mueve. Ni un centímetro. Se te enrosca en el antebrazo, tira, se tensa, y no consigue moverte. Lo cierras en el puño. Vibra contra tu mano como un cable de alta tensión, caliente, furioso, sin dueño.
-
-Kase, en tu hombro, le bufa al látigo.
-
-La chica de mejillas redondas frena en seco detrás de ti. Se resbala en la nieve. Casi se cae. Te mira la espalda: el sobretodo negro, el pelo blanco y azul, el gato. El látigo negro atrapado en tu puño.
-
-—¿Q-quién...? —jadea.
-
-Más látigos se mueven en el nudo. Se dan vuelta hacia ti. Hacia la mano que tiene atrapado a uno de ellos. Tres, cuatro, cinco, que se tensan como serpientes a punto de saltar.
-
-Detrás del nudo, contra la pared, el muchacho de pelo violeta se incorpora, sangrando por la frente, con la máscara metálica torcida. Mira al chico de pelo verde. Te mira a ti.
-
-La chica de mejillas redondas reacciona primero. Se pasa la mano por la cara, se limpia el hollín, y te mira a los ojos, decidida.
-
-—¡No lo lastimes! —grita—. ¡Es Deku! ¡No lo está haciendo a propósito! —Da un paso al costado, rodeándote, hacia el nudo de látigos—. ¡Si lo toco, lo hago flotar, y deja de golpearse! ¡Tengo que llegar hasta él!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1100 · BOKU NO HERO · DIC. · 11:13     ║
-║ U.A. · Campo Gamma                           ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, bufándole al látigo      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1101)
+## COMANDO 1 (T1101)
 sujeto los látigos y la llevo hasta Deku
 
-## RESPUESTA 2 (T1101)
+## RESPUESTA 1 (T1101)
 
 > sujeto los látigos y la llevo hasta Deku
 
@@ -123,10 +66,10 @@ La primera en aparecer, saltando desde una tubería alta, es una chica de piel r
 
 ---
 
-## COMANDO 3 (T1102)
+## COMANDO 2 (T1102)
 me llamo Facundo Morelli, soy el consultor de seguridad, le doy una semilla del ermitaño a midoriya
 
-## RESPUESTA 3 (T1102)
+## RESPUESTA 2 (T1102)
 
 > me llamo Facundo Morelli, soy el consultor de seguridad, le doy una semilla del ermitaño a midoriya
 
@@ -186,4 +129,65 @@ Aizawa mira al chico de pelo verde, entero. Te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:16, Campo Gamma. Izuku curado con una semilla, despierto, lleno de preguntas sobre el Don de Facundo. Llegan Aizawa y Vlad King. Facundo puede actuar.
+## COMANDO 3 (T1103)
+soy el nuevo consultor de seguridad de la ua
+
+## RESPUESTA 3 (T1103)
+
+> soy el nuevo consultor de seguridad de la ua
+
+> —Soy el nuevo consultor de seguridad de la U.A.
+
+El chico de pelo verde se queda con la boca abierta debajo de la mano de la chica de mejillas redondas. Ella le saca la mano despacio.
+
+—Consultor... de seguridad... —repite él, como si saboreara cada palabra—. ¿La U.A. contrató a alguien así? ¿Desde cuándo? ¿Después de lo del campamento? ¿Por los villanos? ¿El director Nezu lo...?
+
+—Desde hoy —dice Aizawa.
+
+Camina hasta ustedes sobre la nieve sucia, con las manos en los bolsillos, el pelo ya caído sobre los hombros. Se agacha junto al chico de pelo verde. Le toca la frente con dos dedos. Le mira los brazos, uno y después el otro. Sin una marca.
+
+Se queda un segundo así, quieto.
+
+—Midoriya. ¿Te duele algo?
+
+—N-no, profesor. Nada. —El chico se mira las manos, desconcertado—. Me siento... mejor que esta mañana.
+
+Aizawa se levanta. Te mira de reojo. Mira el bolsillo de tu sobretodo, de donde sacaste la semilla.
+
+—Gracias —dice. Corto. Seco. Sin adornos.
+
+Es todo.
+
+Detrás, llegan más alumnos por encima de las tuberías: el chico bajito de las bolitas violetas, la chica rubia con cuernos, un chico de cara redonda, uno que tiene la cabeza llena de globos de historieta. Y el rubio arrogante, que se frena en seco en lo alto de una tubería al verte, con la sonrisa a medio borrar.
+
+—¡¿Y ese quién es?! —grita—. ¡¿Un refuerzo de la 1-A?! ¡Eso es trampa! ¡Profesor Vlad, eso es trampa!
+
+—Cállate, Monoma —dice Vlad King, sin mirarlo.
+
+Aizawa se vuelve hacia los alumnos, alzando apenas la voz.
+
+—El combate cinco se suspende. Shinso, a la enfermería con Recovery Girl, ahora. Midoriya, tú también, aunque digas que no te duele nada. —Se gira hacia ti, más bajo—. Y tú, consultor. Vuelve a la sala de monitoreo conmigo. Nezu va a querer un informe de lo que pasó. —Una pausa—. Y yo también.
+
+El chico de pelo verde, todavía flotando en brazos de la chica de mejillas redondas, te mira con los ojos brillantes, sin poder contenerse.
+
+—¡Señor Morelli! —grita, mientras Uraraka lo arrastra hacia la salida del campo—. ¡Después! ¡¿Puedo hablar con usted después?! ¡Tengo que preguntarle tantas cosas...!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1103 · BOKU NO HERO · DIC. · 11:18     ║
+║ U.A. · Campo Gamma                           ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger a los alumnos             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:18, Campo Gamma. Aizawa suspendió el combate 5, mandó a Izuku y Shinso a la enfermería, le dio las gracias a Facundo y le pide volver a la sala de monitoreo para el informe. Izuku quiere hablar con él después. Facundo puede actuar.
