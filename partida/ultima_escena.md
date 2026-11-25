@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1239)
-si, nos vemos shinohara. me teletransporto al cafe
-
-## RESPUESTA 1 (T1239)
-
-> —Sí. Nos vemos, Shinohara.
-
-Shinohara asiente una vez. No dice nada más.
-
-Te vas.
-
-Cocina de Anteiku.
-
-Huele a café, a sangre y a alcohol de botiquín. La luz de la cocina está encendida y la del salón, apagada.
-
-Irimi está sentada en el piso, contra la mesada, con la espalda apoyada en un almohadón. Ya no tiene la lanza clavada: está tirada en un rincón, partida en dos, con la punta manchada. Tiene el hombro vendado con toallas de cocina y cinta, y la cara gris de dolor, pero los ojos abiertos. Koma está arrodillado a su lado, sosteniéndole una taza de agua. Los cuatro Apes están desparramados por el pasillo, vendados como pueden, uno dormido sobre el hombro de otro.
-
-Hinami está en la escalera con una caja de vendas en las manos. Nishiki, junto a la pileta, se limpia la sangre de las manos con un trapo.
-
-Yoshimura ya no es el Búho. Está de pie en medio de la cocina, otra vez con la camisa blanca, sin chaleco, sin moño, con las mangas arremangadas hasta el codo y las manos manchadas de rojo hasta las muñecas. Fue él quien le sacó la lanza a Irimi. Se le nota en la cara.
-
-Kaneki y Touka están junto a la puerta del salón, mirando por el vidrio hacia la calle oscura. Tienen los ojos rojos de tanto mirar.
-
-Kase salta de tu hombro a la mesada.
-
-Todos se dan vuelta al mismo tiempo.
-
-Por un segundo, nadie dice nada.
-
-Después, Kaneki cruza la cocina en dos pasos, se para delante de ti y te mira de arriba abajo: las muñecas, la cara, las manos. Buscando algo. Una herida, una marca, cualquier cosa.
-
-—Los disparos pararon —dice, con la voz rara—. Hace diez minutos. Todos. Al mismo tiempo.
-
-Touka se quedó junto a la puerta. No se acerca. Pero tiene los puños apretados a los costados, y el ojo que se le ve, brillante.
-
-Yoshimura se seca las manos en un repasador, despacio, dedo por dedo. Deja el repasador manchado sobre la mesada. Te mira.
-
-—Morelli-san —dice, en voz muy baja—. ¿Qué hizo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1239 · TOKYO GHOUL · DÍA 6 · 18:29     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la mesada                           ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1240)
+## COMANDO 1 (T1240)
 mañana voy a ir a ver al presidente a su casa
 
-## RESPUESTA 2 (T1240)
+## RESPUESTA 1 (T1240)
 
 > —Mañana voy a ir a ver al presidente a su casa.
 
@@ -115,10 +59,10 @@ Se le endurece la voz, apenas.
 
 ---
 
-## COMANDO 3 (T1241)
+## COMANDO 2 (T1241)
 me dijo que tiene a alguien en su casa que tiene mucha hambre
 
-## RESPUESTA 3 (T1241)
+## RESPUESTA 2 (T1241)
 
 > —Me dijo que tiene a alguien en su casa que tiene mucha hambre.
 
@@ -162,7 +106,58 @@ Koma lo ve. Se le borra la sonrisa.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1242)
+si perdon me fui muy rapido y no llegue a curarla, le doy una semilla a irimi
+
+## RESPUESTA 3 (T1242)
+
+> —Sí, perdón. Me fui muy rápido y no llegué a curarla.
+
+Te agachas junto a Irimi y le pones un grano verde en la boca.
+
+Ella abre los ojos. Te mira un segundo, desconfiada por costumbre. Después mastica. Traga.
+
+Se le arquea la espalda contra la mesada. Debajo de las toallas manchadas se oye un sonido húmedo, como de algo que se cierra. El gris de la cara se le va de golpe y vuelve el color. Se lleva la mano al hombro, aprieta el vendaje empapado, y no siente nada. Tira de la cinta. Las toallas caen al piso. Debajo, la piel está entera. Sin agujero. Sin cicatriz.
+
+Irimi mueve el brazo derecho. Lo levanta por encima de la cabeza. Lo baja. Cierra el puño.
+
+Koma suelta el aire como un globo que se desinfla y se sienta de culo en el piso, con las manos en la cara.
+
+—Gracias, Panadero —dice Irimi. Lo dice seca, corta, como dice todo. Pero no te saca los ojos de encima mientras lo dice.
+
+[Semillas del ermitaño: 76.]
+
+En el pasillo, los cuatro Apes miran la escena desde donde están, vendados, con los ojos muy abiertos. El más joven, el de la máscara rota en la frente, tiene un tajo en la pierna atado con un cinturón. Ninguno dice nada. Koma los mira, abre la boca, la cierra, y no pide.
+
+Hinami baja el último escalón con la caja de vendas todavía en las manos, ya sin saber para qué la trae.
+
+Yoshimura se queda mirando a Irimi mover el brazo. Después se lava las manos en la pileta, al lado de Nishiki, despacio, hasta que el agua sale limpia. Se seca. Se arremanga otra vez.
+
+—Esta noche nadie va a dormir —dice, a nadie en particular, y saca la lata de café de la estantería—. Así que voy a preparar café.
+
+Te mira por encima del hombro.
+
+—Morelli-san. ¿Se queda?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1242 · TOKYO GHOUL · DÍA 6 · 18:35     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la mesada                           ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:33, cocina de Anteiku. Yoshimura advierte que Facundo va a ver algo que pocos vieron y sobrevivieron. El vendaje de Irimi sangra; Koma pregunta si le queda otra semilla. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:35, cocina de Anteiku. Irimi curada. Los 4 Apes siguen vendados. Yoshimura prepara café y pregunta si Facundo se queda. Facundo puede responder.

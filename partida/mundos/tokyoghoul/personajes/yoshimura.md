@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1242 · "Esta noche nadie va a dormir. Así que voy a preparar café." "Morelli-san. ¿Se queda?"
 - T1241 · "Así que es eso." "Hay cosas de esa familia que no se dicen." "Usted no va a una negociación. Va a ver algo que muy poca gente vio y siguió viviendo."
 - T1240 · "El presidente de la CCG. Washuu Tsuneyoshi." "Esa familia no hace nada sin cobrarlo después, y siempre cobra más de lo que pidió." "El hombre del sombrero trabaja para gente que trabaja para esa casa." "¿Qué le pidió a cambio?"
 - T1239 · "Morelli-san. ¿Qué hizo?"

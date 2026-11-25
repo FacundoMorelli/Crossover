@@ -1240,3 +1240,4 @@ T1238 · TG · Puesto de mando · Se arranca las esposas. "Mañana estaré a las
 T1239 · TG · Anteiku · Vuelve. Irimi vendada, sin la lanza. Kaneki: "Los disparos pararon." Yoshimura: "¿Qué hizo?"
 T1240 · TG · Anteiku · "Mañana voy a ver al presidente." Touka: "¿Estás loco?" Yoshimura: "Los Washuu siempre cobran más. ¿Qué le pidió a cambio?"
 T1241 · TG · Anteiku · "Tiene a alguien que tiene mucha hambre." Yoshimura: "Así que es eso." Irimi sangra. Koma: "¿Te queda otro grano?"
+T1242 · TG · Anteiku · Semilla a Irimi (quedan 76). "Gracias, Panadero." Yoshimura: "¿Se queda?"

@@ -147,3 +147,4 @@
 - Facundo · T1240 · por Yoshimura: conoce el nombre Washuu hace muchos años; esa familia siempre cobra más de lo que pide; el hombre del sombrero trabaja para gente que trabaja para esa casa.
 - Todos en Anteiku · T1241 · por Facundo: el presidente tiene en su casa a alguien con mucha hambre.
 - Yoshimura · T1241 · deducción (confirma una sospecha vieja sobre los Washuu; no la dice).
+- Todos en Anteiku · T1242 · vieron a Facundo curar a Irimi con un grano verde.
