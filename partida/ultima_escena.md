@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1311)
-
-por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
-
-## RESPUESTA 1 (T1311)
-
-> por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
-
-> —Porque dijiste que reviviste hace dos días. Dudo que una persona así esté bien ahora. Y de donde vengo se llama semilla del ermitaño. Cura heridas y recupera tu energía.
-
-Kakashi parpadea una vez.
-
-—Es verdad. Lo dije yo. —Se rasca la nuca con la mano libre—. Me descuidé.
-
-Mira la semilla. Mira a Yamato. Yamato tiene la boca apretada y no dice nada, pero tampoco se mueve.
-
-—Una semilla de ermitaño —repite Kakashi—. En el monte Myōboku los sapos dan cada cosa para comer que mejor no preguntar. Supongo que en otros lados también hay ermitaños.
-
-Se baja la máscara apenas con un dedo, de costado, de espaldas a ustedes, tan rápido que no alcanzas a verle la cara, y se mete la semilla en la boca. Se oye un crujido. La máscara vuelve a su lugar.
-
-Durante un segundo, no pasa nada.
-
-Después Kakashi se queda completamente quieto. El ojo visible se le abre de a poco, más de lo que lo abrió desde que entraste.
-
-Mueve los dedos de la mano. Los cierra y los abre. Baja la pierna vendada del cajón y la apoya en el suelo, con cuidado primero, después con todo el peso. Se para. Sin mueca.
-
-—Senpai —dice Yamato, en voz baja.
-
-Kakashi se desenrolla la venda de la pierna. Debajo, donde tendría que haber una herida, hay piel sana. Se sube la banda de la frente y abre el ojo izquierdo: un ojo rojo, con tres comas negras que giran despacio, y se la vuelve a bajar enseguida.
-
-—El chakra —dice—. Está todo. Como si hubiera dormido una semana.
-
-Se queda mirándote un rato largo. Ya no tiene cara de aburrido.
-
-—Yamato, la carpa médica del este tiene cuarenta y tres heridos graves y dos médicos que se están cayendo de cansancio. —No le saca los ojos de encima a Kase ni a ti—. Facundo. ¿Tienes más de estas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1311 · NARUTO · DÍA 1 · 08:10          ║
-║ Konoha · campamento · carpa de mando         ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1312)
+## COMANDO 1 (T1312)
 
 saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
 
-## RESPUESTA 2 (T1312)
+## RESPUESTA 1 (T1312)
 
 > saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
 
@@ -109,11 +56,11 @@ Te mira. El ojo ya no se le arruga.
 
 ---
 
-## COMANDO 3 (T1313)
+## COMANDO 2 (T1313)
 
 esta bien
 
-## RESPUESTA 3 (T1313)
+## RESPUESTA 2 (T1313)
 
 > esta bien
 
@@ -194,4 +141,59 @@ Entrecierra los ojos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:21, carpa de la colina. Kakashi le dio la semilla molida a Tsunade (Shizune ayudó). Tsunade despertó, pregunta por la aldea y por Naruto, y le pregunta a Facundo: "¿Y tú quién demonios eres?" Presentes: Tsunade, Shizune (Tonton), Kakashi, Katsuyu chiquita; dos ANBU en la entrada. Facundo tiene que contestar.
+## COMANDO 3 (T1314)
+
+mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
+
+## RESPUESTA 3 (T1314)
+
+> mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
+
+> —Mucho gusto, Hokage. Me llamo Facundo Morelli. Soy un viajero.
+
+—Un viajero —repite Tsunade, como si la palabra le diera mala espina.
+
+No alcanza a decir nada más. Shizune se le tira encima y la abraza por el cuello, llorando a gritos. El cerdito se despierta, chilla y se pone a dar vueltas alrededor del futón.
+
+—¡Tsunade-sama! ¡Tsunade-sama, despertó!
+
+—Sí, sí, Shizune, me estás ahogando. —Pero le pone una mano en la espalda y la deja llorar un momento. Después la aparta, con suavidad y con firmeza, y mira a Kakashi—. Habla. Rápido. Lo último que recuerdo es a Katsuyu partiéndose en mil pedazos y la aldea volando.
+
+Kakashi se cruza de brazos.
+
+—Naruto venció a Pain. A los seis cuerpos y al que los movía. El que los movía revivió a todos los muertos antes de morir, incluidos Shizune y yo. La aldea no existe, pero la gente sí. —Hace una pausa corta—. Y hace dos días el Señor Feudal nombró Hokage a Danzō, mientras usted dormía.
+
+El silencio dura medio segundo.
+
+Tsunade cierra el puño y golpea el suelo junto al futón. Las tablas del piso de la carpa se parten en una grieta que llega hasta tus pies. Kase levanta la cabeza y la mira, ofendido.
+
+—¡¿DANZŌ?! —Se pone de pie de un salto, descalza, en camisón, con las coletas sueltas, y se tambalea un poco, pero no se cae—. ¡¿Ese viejo podrido?! ¡¿Mientras yo dormía?!
+
+—Tsunade-sama, por favor, recién despierta...
+
+—¡Recién despierta, nada! ¡Me siento como si tuviera veinte años! —Se mira las manos, sorprendida de su propia fuerza. Se queda quieta—. ...¿Por qué me siento así?
+
+Kakashi te señala con el pulgar, sin decir nada.
+
+Tsunade se da vuelta despacio hacia ti. Te mira de arriba abajo, el pelo, los ojos, la cicatriz, el gato, el sobretodo negro. Tiene una mirada de médica, que te revisa entero, y otra de Hokage, que te mide.
+
+—Tú —dice—. ¿Qué me diste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1314 · NARUTO · DÍA 1 · 08:23          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:23, carpa de la colina. Facundo se presentó. Shizune abraza a Tsunade llorando. Kakashi le resume: Naruto venció a Pain, muertos revividos, aldea destruida, Danzō nombrado Hokage por el Señor Feudal. Tsunade parte el piso de un puñetazo, se para ("me siento como si tuviera veinte años"). Kakashi señala a Facundo. Tsunade: "Tú. ¿Qué me diste?" Facundo tiene que contestar.

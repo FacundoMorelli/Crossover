@@ -14,3 +14,5 @@ QUÉ SABE DE FACUNDO: nada. Lo vio en persona al despertar (pelo, ojos, gato).
 QUÉ PODERES DE FACUNDO VIO: ninguno
 TASACIÓN (T1313): ninjutsu médico, fuerza monstruosa, Byakugō, Katsuyu; amenaza mínima; x0,01.
 ESTADO: despierta (T1313), recuperada.
+- T1314 · Facundo se presenta ("viajero"). Shizune la abraza. Kakashi le cuenta todo, incluido que el Señor Feudal nombró a Danzō. Golpea el piso (grieta hasta los pies de Facundo). Se para en camisón. "¡¿Ese viejo podrido?! ¡¿Mientras yo dormía?!" "¡Me siento como si tuviera veinte años!" "...¿Por qué me siento así?" A Facundo: "Tú. ¿Qué me diste?"
+QUÉ SABE DE FACUNDO (T1314): nombre, dice ser viajero (por él). Por el gesto de Kakashi: que él tiene que ver con su recuperación.

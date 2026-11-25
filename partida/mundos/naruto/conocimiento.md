@@ -21,3 +21,6 @@
 - Shizune · T1313 · por Kakashi: Facundo es viajero; le dio una semilla que lo curó. Vio a Tsunade despertar con ella.
 - Tsunade · T1313 · vio a Facundo en persona al despertar. No sabe nada de él.
 - Katsuyu (fragmento) · T1313 · vio a Facundo; Katsuyu comparte lo que ven sus partes.
+- Tsunade, Shizune · T1314 · por Facundo: nombre (Facundo Morelli), viajero. Tsunade, por el gesto de Kakashi: Facundo tiene que ver con su recuperación.
+- Tsunade · T1314 · por Kakashi: Naruto venció a Pain; muertos revividos; Danzō nombrado Hokage por el Señor Feudal.
+- Dos ANBU de la entrada · T1314 · oyeron gritar a Tsunade: está despierta.

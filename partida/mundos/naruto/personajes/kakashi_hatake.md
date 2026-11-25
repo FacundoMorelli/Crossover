@@ -24,3 +24,4 @@ ESTADO: curado, chakra lleno (T1311).
 - T1312 · Recibe 44 semillas. Manda 43 con Yamato a la carpa del este ("una por cabeza, empieza por los peores"; las que sobren, a los médicos). Guarda 1 para Tsunade. "Esto no se lo regala nadie a nadie. Ni siquiera un viajero." "Quiero que vengas conmigo cuando se la dé. ¿Vienes?"
 RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1313 · Lleva a Facundo a la carpa de la colina ("Viene conmigo" a los ANBU). Convence a Shizune ("Ayer no podía ni sentarme"). Muele la semilla y se la da a Tsunade, que despierta.
+- T1314 · Le resume a Tsunade: Naruto venció a Pain; revivió a los muertos; aldea destruida; Danzō nombrado Hokage. Señala a Facundo con el pulgar cuando Tsunade pregunta por qué se siente así.

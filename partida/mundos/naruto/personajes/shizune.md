@@ -12,3 +12,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: por Kakashi: viajero; le dio la semilla que lo curó.
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activa (murió y revivió en la invasión).
+- T1314 · Abraza a Tsunade llorando: "¡Tsunade-sama, despertó!"
