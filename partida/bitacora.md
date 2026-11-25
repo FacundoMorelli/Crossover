@@ -1298,3 +1298,4 @@ T1296 · BC · Rocas Gravito · Haki del Rey: caen Fana, Raia y 11 magos (+400 F
 T1297 · BC · Caverna · Confirma que habla de Luck. Yami pregunta si es lo mismo que William y si queda bien al sacarlo.
 T1298 · BC · 4 días · Saca las 47 semillas oscuras del reino (Luck primero; Yuno no tenía). Lista de Marx por orden de Julius. Cena en la base de los Toros; Mereoleona tira la puerta y lo desafía.
 T1299 · BC · Claro de los Toros · Acepta el duelo con Mereoleona; ella ataca con Mana Zone de fuego.
+T1300 · BC · Claro de los Toros · Ultra Instinto Dominado: Mereoleona no lo toca. Ella se ríe y lanza Leo Rugiens.

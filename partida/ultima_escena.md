@@ -3,52 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1297)
-si
-
-## RESPUESTA 1 (T1297)
-
-> —Sí.
-
-Yami se queda mirando el pasillo del norte, por donde se fue el Ki de Luck. Tira el cigarrillo al vacío entre las rocas.
-
-—Luck es de mi escuadrón —dice. No lo dice fuerte. Lo dice como quien pone una piedra encima de la mesa—. Cuando entrenamos, el enano no tenía nada. Lo habría notado.
-
-—Hace tres meses tampoco lo tenía —le dice Mereoleona, cruzándose de brazos. Te mira a ti, no a él—. Si tú lo sientes y nosotros no, es que está bien escondido.
-
-Asta da un paso adelante, con la espada apretada.
-
-—¡¿Y qué le hace?! ¡¿Le duele?! ¡¿Luck está bien?!
-
-Zora habla por primera vez desde que se sentó, sin levantarse.
-
-—Lo que tenía el capitán del Amanecer Dorado... ¿era lo mismo?
-
-Yami gira la cabeza hacia ti despacio.
-
-—Pregunta lo que pregunté yo —dice—. William tenía otra cosa adentro, y casi mata al Rey Mago. —Hace una pausa—. ¿Lo de Luck es eso? ¿Y si se lo sacas, queda bien?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1297 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 294.280/320.000 · 12:38       ║
-║ FRAGMENTOS 111.657 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1298)
+## COMANDO 1 (T1298)
 si. simula varios dias sacandole lo de adentro a todos
 
-## RESPUESTA 2 (T1298)
+## RESPUESTA 1 (T1298)
 
 > —Sí.
 
@@ -133,10 +91,10 @@ Todo el comedor se queda en silencio. Charmy abraza su olla.
 
 ---
 
-## COMANDO 3 (T1299)
+## COMANDO 2 (T1299)
 eh esta bien
 
-## RESPUESTA 3 (T1299)
+## RESPUESTA 2 (T1299)
 
 > —Eh... está bien.
 
@@ -183,7 +141,74 @@ Sale disparada hacia ti. El claro se ilumina como de día. La primera garra vien
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1300)
+activo el ultra instinto dominado, esta es mi mejor fase
+
+## RESPUESTA 3 (T1300)
+
+> —Esta es mi mejor fase.
+
+La garra cae.
+
+Y tu cuerpo ya no está ahí.
+
+No te moviste. Se movió solo, medio paso a la izquierda, con la calma de quien se corre para dejar pasar a alguien en un pasillo. La garra de fuego pasa a un dedo de tu oreja y se hunde en la tierra. El claro entero tiembla. Un géiser de tierra y llamas sube detrás de ti.
+
+Un brillo plateado te envuelve. Te sube por los brazos, por la espalda, se te mete en los ojos. El pelo se te vuelve blanco, plateado, como hecho de luna. El aire alrededor de ti se queda quieto, más quieto que la noche.
+
+[Ultra Instinto Dominado.]
+
+Los Toros Negros se quedan mudos.
+
+—No tiene mana —dice Noelle, bajito, agarrándose de la manga de Asta—. Sigue sin tener nada de mana. ¿Qué es eso...?
+
+Mereoleona no se detiene. Saca la garra de la tierra con un tirón y la barre de costado, a la altura del pecho. Tu cuerpo se inclina hacia atrás, lo justo. La segunda garra viene de abajo. Giras sobre un pie. Un rodillazo envuelto en fuego. Se lo dejas pasar por debajo del brazo. Patada a la cabeza. Te agachas medio centímetro.
+
+Diez golpes. Veinte. Ella acelera. El fuego se le vuelve más blanco, más caliente, y el claro se llena de humo y de hierba quemada.
+
+No te toca ni el humo.
+
+—¡QUÉDATE QUIETO! —ruge, y el rugido sale con fuego.
+
+Se echa para atrás de un salto. Aterriza a quince metros, con el pecho subiendo y bajando. Por primera vez desde la caverna, se ríe. Una carcajada grande, salvaje, que le hace tirar la cabeza para atrás.
+
+—¡Ja! ¡JA! ¡Esto es! ¡Esto es lo que quería!
+
+Las llamas a su alrededor se juntan arriba de su cabeza. Toman forma. Una cabeza de león enorme, de fuego blanco y naranja, más alta que la base de los Toros Negros. Las ramas de los árboles más cercanos se prenden solas por el calor.
+
+Kiato se esconde detrás de su abuela. Charmy deja caer la olla.
+
+—¡Sukehiro! —grita Vanessa—. ¡Nos va a quemar la casa!
+
+Yami no se mueve de la puerta.
+
+—Ya está quemada.
+
+Mereoleona levanta los brazos. El león abre la boca.
+
+—¡Leo Rugiens!
+
+El león de fuego se tira sobre ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1300 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · claro             ║
+║ NIVEL 29 · EXP 294.280/320.000 · D4 21:14    ║
+║ FRAGMENTOS 111.657 · 0 yul                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Ultra Instinto Dominado                      ║
+║ Velo: persona común (aura plateada visible)  ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:12, claro de los Toros Negros. Mereoleona ataca con una garra de fuego hacia la cabeza de Facundo. Todos miran. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, Día 4 21:14, claro. Facundo en Ultra Instinto Dominado. Mereoleona lanza Leo Rugiens sobre él. Facundo puede actuar.

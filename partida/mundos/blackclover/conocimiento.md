@@ -68,3 +68,4 @@
 - Julius, Marx, Yami, capitanes · T1298 · Facundo sacó "semillas oscuras" a 47 personas del reino (no saben qué eran; solo que eran parecidas a lo de William).
 - Luck, Rill, Klaus, Hamon y demás tocados · T1298 · sintieron frío y luego calor; Luck "la panza más liviana".
 - Mereoleona · T1298 · sabe que Facundo está en la base de los Toros Negros; viene a pelear.
+- Toros Negros, Mereoleona, Zora, Kiato, Kahono y su abuela · T1300 · vieron a Facundo en Ultra Instinto (aura y pelo plateados, sin mana) esquivar todo. Facundo dijo que es "su mejor fase".

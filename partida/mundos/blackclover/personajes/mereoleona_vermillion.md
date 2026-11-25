@@ -5,6 +5,7 @@ PODER VISTO POR FACUNDO: Aura de fuego que se extiende como zona viva; brazos co
 ENCUENTROS:
 - T1291 · Rocas Gravito · Pelea riéndose a carcajadas, con la cara ensangrentada, contra un copiador de magias.
 DIÁLOGOS CLAVE:
+- T1300 · "¡QUÉDATE QUIETO!" "¡Ja! ¡JA! ¡Esto es! ¡Esto es lo que quería!" "¡Leo Rugiens!"
 - T1299 · "En la caverna me robaste la presa. Hoy no me la vas a robar, porque la presa eres tú. ¡Y no te atrevas a contenerte!"
 - T1298 · (tira la puerta del comedor de los Toros) "Tú. Me debes una presa. Afuera. Ahora."
 - T1296 · "¿Semilla? ¿Qué semilla?"
