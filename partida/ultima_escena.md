@@ -3,56 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1133)
-diles que esta bien, termino con lo que tengo que hacer y voy a hablar con ellos
-
-## RESPUESTA 1 (T1133)
-
-> —Diles que está bien. Termino con lo que tengo que hacer y voy a hablar con ellos.
-
-Endeavor resopla por la nariz. Dos chorritos de humo.
-
-—No soy tu secretario —dice. Pero le hace un gesto seco a la heroína de pelo verde—. Burnin. Avísales.
-
-—¡Sí, señor! —Ella se aleja hacia la puerta con el teléfono en la oreja.
-
-Endeavor se queda mirándote. Después mira de reojo a los policías, a los sidekicks, al paramédico. Da un paso más hacia ti, tan cerca que el calor de las llamas te seca los ojos, y baja la voz hasta que solo tú lo escuchas.
-
-—Nezu dijo Deika.
-
-No es una pregunta.
-
-—Escúchame bien, Eclipse, porque esto no lo voy a repetir y no lo sabe casi nadie. —El ojo bueno no parpadea—. En Deika hay uno de los nuestros. Adentro. Desde hace meses. Un héroe. Alas rojas, grandes, de plumas. Si lo ves, no lo toques. Y si alguien de ahí adentro sospecha de él, lo matan.
-
-Se endereza. Vuelve a hablar normal, áspero, como si no hubiera dicho nada.
-
-—Haz lo que tengas que hacer. Y después ve a la Comisión. —Se da vuelta hacia los tanques—. Y no me hagas quedar mal, que fui yo el que confirmó que existes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1133 · BOKU NO HERO · DIC. · 12:35     ║
-║ Jaku · laboratorio bajo el hospital          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: a tus pies                             ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Deika (hay un héroe infiltrado:    ║
-║ alas rojas, no tocarlo)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1134)
+## COMANDO 1 (T1134)
 hago lo que tengo que hacer sin hacerle nada a hawks
 
-## RESPUESTA 2 (T1134)
+## RESPUESTA 1 (T1134)
 
 > hago lo que tengo que hacer sin hacerle nada a Hawks
 
@@ -129,10 +83,10 @@ Una de las plumas de sus alas se desprende sola, flota hasta el vidrio, y se que
 
 ---
 
-## COMANDO 3 (T1135)
+## COMANDO 2 (T1135)
 hola, soy el nuevo consultor de la ua, me llamo eclipse, tu debes ser el infiltrado no?
 
-## RESPUESTA 3 (T1135)
+## RESPUESTA 2 (T1135)
 
 > —Hola. Soy el nuevo consultor de la U.A. Me llamo Eclipse. Tú debes ser el infiltrado, ¿no?
 
@@ -183,4 +137,65 @@ Se endereza.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:38, torre Detnerat, último piso. Hawks entró, verificó que nadie oyó. Pregunta quién le dijo a Facundo que había un infiltrado. Facundo puede responder.
+## COMANDO 3 (T1136)
+endeavor y dije que sos infiltrado por que no hay muchos mas, eh digamos que shigaraki, dabi, toga, y los demas ya estan esposados, solo me falta aqui los demas
+
+## RESPUESTA 3 (T1136)
+
+> —Endeavor. Y dije que eras el infiltrado porque no hay muchos más. Eh... digamos que Shigaraki, Dabi, Toga y los demás ya están esposados. Solo me faltan los demás de aquí.
+
+Hawks abre la boca.
+
+La cierra.
+
+—¿Endeavor? —repite—. ¿El señor Endeavor te contó...? —Se frota la nuca—. Vaya. Debes haberle caído muy bien. O muy mal. Con él nunca se sabe.
+
+Después se le borra la sonrisa del todo.
+
+—Espera. Espera, espera. —Levanta una mano—. ¿Dabi?
+
+Lo dice distinto. No como pregunta, como si el nombre le pesara.
+
+—¿Dabi, el de las grapas? ¿El de la llama azul? —Te mira fijo—. ¿Esposado? ¿Hoy?
+
+Una de las plumas que tiene en el hombro tiembla sola.
+
+Se queda callado un momento largo. Mira por el ventanal, hacia el noroeste, como si pudiera ver las montañas desde ahí.
+
+—Yo me metí aquí por él —dice, en voz baja, casi para sí mismo—. Para que me presentara. Para llegar hasta Shigaraki. Meses. —Suelta una risa corta, sin ganas—. Y ya está. Ya está todo hecho.
+
+Sacude la cabeza, como para despejarse, y vuelve a ser el de antes, rápido, ligero.
+
+—Bueno. "Los demás de aquí." —Señala el ventanal con el pulgar—. Amigo, mira allá abajo. Esa ciudad entera es el Ejército de Liberación. Ciento dieciséis mil miembros, más o menos. Los tengo contados. El de la panadería. La maestra de la escuela. El chofer del autobús. —Se cruza de brazos—. La mayoría no son soldados. Son gente que se cree que está en un club de libertad y que paga una cuota. Unos miles sí son peligrosos de verdad. El resto...
+
+Mira a Re-Destro, tirado sobre la mesa.
+
+—...el resto va a enloquecer cuando se entere de que a su líder lo apagaron en su propia oficina. Y se van a enterar. En una hora, como mucho. Skeptic tenía que mandar un informe a las dos.
+
+Se apoya en el borde de la mesa y te mira.
+
+—Así que dime, Eclipse. ¿Qué tenías pensado hacer con ciento dieciséis mil personas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1136 · BOKU NO HERO · DIC. · 12:40     ║
+║ Deika · torre Detnerat, último piso          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Cúpula del Ejército: 5 inconscientes         ║
+║ AVISO: Skeptic debía informar a las 14:00    ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Deika (116.000 miembros)           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:40, torre Detnerat. Hawks sabe que la Liga cayó. Explica: 116.000 miembros, la mayoría civiles; informe de Skeptic a las 14:00. Pregunta qué piensa hacer Facundo con ellos. Facundo puede responder.

@@ -61,3 +61,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Facundo · T1133 · por Endeavor (en secreto): hay un héroe infiltrado en Deika hace meses, alas rojas de plumas. (Fuente válida: Endeavor.)
 - Hawks · T1134 · vio a Facundo de pie en la sala de Detnerat con los cinco líderes del Ejército inconscientes.
 - Hawks · T1135 · Facundo (Eclipse, consultor de la U.A.) sabe que es el infiltrado.
+- Hawks · T1136 · por Facundo: Shigaraki, Dabi, Toga y los demás de la Liga detenidos. Facundo lo supo por Endeavor.
+- Facundo · T1136 · por Hawks: el Ejército de Liberación tiene unos 116.000 miembros en Deika; Skeptic debía mandar un informe a las 14:00.
