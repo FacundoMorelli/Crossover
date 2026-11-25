@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1260)
-sacarles el ghoul de dentro, los que son ghoul de nacimiento convertirse en humanos y igual con la gente como kaneki
-
-## RESPUESTA 1 (T1260)
-
-> —Sacarles el ghoul de adentro. Los que son ghouls de nacimiento se convertirían en humanos. Y lo mismo la gente como Kaneki.
-
-Nadie habla durante un rato largo.
-
-Touka descruza los brazos. Se le van solos. Te mira, después mira sus propias manos, como si buscara algo en ellas. Hace dos días te preguntó si se podía. Hace un día dijo "después". Ahora el "después" llegó, y no sabe qué hacer con él.
-
-Kaneki es el que se mueve primero. Da un paso atrás, hasta chocar con la barra.
-
-—Humano —dice. Lo prueba, como una palabra vieja que no usaba hacía mucho—. Otra vez.
-
-Pero no sonríe. Se toca el costado, el lugar donde le salen los tentáculos. Se toca el pecho, el lugar donde le apoyaste la palma la primera noche.
-
-—Hace dos meses habría dado cualquier cosa por eso —dice, muy bajo—. Cualquier cosa. —Mira a Touka. Mira a Hinami—. Pero ayer, en la avenida, si no hubiera tenido esto... no habría podido ir con ustedes. Con nadie.
-
-Koma se rasca la cabeza afeitada con las dos manos.
-
-—¿Y los que no quieran, Panadero? —pregunta, sin el ruido de siempre—. Hay ghouls viejos que nunca fueron otra cosa. Que no saben ser otra cosa. Mi abuela tiene noventa años y nunca en la vida tuvo miedo de un humano. Si le dices que mañana se despierta como una vieja cualquiera, que se cansa subiendo la escalera... —Niega despacio—. Creo que prefiere morirse.
-
-—Y los que tienen cuentas pendientes —dice Irimi, desde la puerta de la cocina. Corto, seco—. Ghouls que hicieron cosas. Si mañana son humanos, sin kagune, sin nada, y alguien se acuerda de su cara...
-
-No termina. No hace falta. Es lo mismo que le dijiste tú a Touka tres días atrás.
-
-Yoshimura escuchó a todos sin interrumpir. Ahora deja el libro de Eto a un lado, con cuidado, y apoya las dos manos sobre la barra.
-
-—Morelli-san. Le voy a hacer la única pregunta que importa, creo. —Te mira a los ojos—. Lo que usted dice, ¿sería para todos, de una sola vez, en todo el mundo?
-
-Hace una pausa.
-
-—¿O para cada uno que lo elija?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1260 · TOKYO GHOUL · DÍA 7 · 21:02     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1261)
+## COMANDO 1 (T1261)
 podria hacerlo para los que lo deseen plenamente, pero no, es una mala idea, olvidense de eso
 
-## RESPUESTA 2 (T1261)
+## RESPUESTA 1 (T1261)
 
 > —Podría hacerlo para los que lo deseen plenamente. Pero no. Es una mala idea. Olvídense de eso.
 
@@ -107,10 +55,10 @@ Levanta la vista.
 
 ---
 
-## COMANDO 3 (T1262)
+## COMANDO 2 (T1262)
 si
 
-## RESPUESTA 3 (T1262)
+## RESPUESTA 2 (T1262)
 
 > —Sí.
 
@@ -155,7 +103,53 @@ Se queda callada un segundo. Después, más bajo todavía, casi sin voz:
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1263)
+decime como es tu hermano asi lo busco
+
+## RESPUESTA 3 (T1263)
+
+> —Dime cómo es tu hermano, así lo busco.
+
+Touka se queda quieta un segundo. Después mete la mano en el bolsillo trasero del pantalón y saca una billetera chica, de tela gastada, con un dibujo de conejo casi borrado. La abre. Del bolsillito de adentro, de atrás de una tarjeta de la escuela, saca una foto doblada en dos.
+
+La desdobla con cuidado. Te la da.
+
+Es vieja. Los colores están lavados, como si la hubieran tenido al sol mucho tiempo. Dos chicos sentados en un escalón de madera, en lo que parece la entrada de una casa chica. Una nena de unos ocho años, con el pelo negro corto y un flequillo torcido, frunciendo el ceño a la cámara. Al lado, un nene más chico, de seis, con el mismo pelo negro, la misma cara, abrazado a una pierna de ella. Él sí sonríe. Le faltan dos dientes.
+
+—Ese es Ayato —dice Touka. Mira la foto desde arriba, sin tocarla—. Ahora tiene quince. Es más alto que yo, el muy idiota. El pelo igual de negro, un poco más largo. Los ojos más oscuros que los míos. Siempre tiene cara de que alguien le debe plata.
+
+Se cruza de brazos.
+
+—Tiene el kagune igual que yo. Ukaku. Alas. Dos, él, no una. —Aprieta la boca—. Y usa una máscara negra, con orejas de conejo. Como la mía. La copió.
+
+Se queda mirando la foto un rato más. Después mira para otro lado.
+
+—La última vez estaba en el Distrito 11, cuando atacaron Aogiri. Después de eso, nadie sabe. Dicen que se movieron. —Traga saliva—. Si sientes a alguien con mi... con mi olor, pero más enojado, es él.
+
+Se le escapa un resoplido que casi es una risa.
+
+Después te mira de reojo.
+
+—Y quiero ir contigo. —Lo dice rápido, antes de arrepentirse—. Cuando lo encuentres. No me dejes atrás como hiciste ayer.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1263 · TOKYO GHOUL · DÍA 7 · 21:08     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: buscar a Ayato Kirishima           ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:06, salón de Anteiku. Touka quiere ver a su hermano Ayato (Aogiri) antes de volverse humana, y pregunta si Facundo sabe dónde está Aogiri. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:08, salón de Anteiku. Touka le dio a Facundo una foto de Ayato y lo describió; quiere ir con él a buscarlo. Facundo tiene la foto en la mano. Facundo puede responder.

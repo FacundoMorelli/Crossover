@@ -185,3 +185,4 @@
 - Facundo, Yoshimura (oye) · T1262 · por Touka: su hermano menor Ayato está en Aogiri; la desprecia; casi la mata la última vez.
 - Touka · T1262 · por Facundo: volverla humana sigue en pie.
 - Touka · T1262 · deducción: Facundo "sabe cosas" (sabía lo del Búho).
+- Facundo · T1263 · por Touka: Ayato tiene 15, pelo negro, ojos oscuros, más alto que ella; kagune ukaku de dos alas; máscara negra con orejas de conejo; visto por última vez en el Distrito 11; Aogiri se movió. Tiene una foto de ellos de chicos.
