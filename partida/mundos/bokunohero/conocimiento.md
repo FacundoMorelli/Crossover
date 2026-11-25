@@ -13,3 +13,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Death Arms (héroe profesional) · T1088 · lo ve junto al villano derribado; la empleada confirma que fue él. Asume que usó un Don.
 - Death Arms, policías, empleados · T1089 · Facundo dice ser un viajero que no sabe dónde está ni conoce nada de aquí; habla japonés perfecto.
 - Curiosos en la vereda · T1089 · filman a Facundo (pelo blanco y azul, gato) en el banco: posible video en redes.
+- Policía de Musutafu, Death Arms · T1090 · su nombre: Facundo Morelli; sin documentos; colaboró y fue a la comisaría.
+- Detective Tsukauchi (y la policía) · T1090 · Facundo Morelli no figura en ninguna base de datos japonesa (nacimiento, Dones, inmigración, antecedentes). Sabe lo del banco por el informe.

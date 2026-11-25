@@ -3,103 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1087)
-le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
-
-## RESPUESTA 1 (T1087)
-
-> le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
-
-Le das la mano a Finn. La aprieta una vez, firme, corta.
-
-> —Nos vemos en otro momento.
-
-—Eso espero —dice Finn. Y por primera vez en toda la noche, casi sonríe.
-
-Loki levanta el vaso desde el sillón.
-
-—¡Vuelve cuando quieras, guapo! ¡Y trae al gato!
-
-Kase salta del sillón a tu hombro con un pedazo de queso todavía en la boca.
-
-Desapareces de la sala.
-
-Apareces en el techo más alto de la Mansión del Crepúsculo, entre las banderas del bufón que flamean en la noche. Abajo, Orario sigue llena de antorchas, pero las campanas ya se callaron. A lo lejos, blanca, la torre de Babel. Debajo de ella, veinte pisos más abajo, en una aldea de raíces luminosas, catorce monstruos y un minotauro duermen en casa.
-
-Abres la Puerta. El rectángulo de luz blanca, con el borde rojo y azul temblando, se recorta contra las estrellas.
-
-Nadie mira hacia arriba. Las banderas tapan la luz.
-
-Cruzas.
-
-[Mundo nuevo.]
-
-Nieve.
-
-Cae despacio, en copos grandes, sobre una ciudad que no tiene nada de castillos ni de torres de piedra. Edificios de cemento, de vidrio, de ladrillo, con carteles luminosos y aire acondicionado en las ventanas. Un semáforo que cambia a verde. Autos que pasan con las luces prendidas aunque ya es de día. Una mañana gris, fría, de invierno.
-
-Estás en una vereda angosta, entre una tienda de conveniencia y una lavandería, en una calle en pendiente que sube hacia una colina. Kase se acurruca en tu cuello con la bufanda de Tessai y el queso de Loki todavía en la boca.
-
-Pasa una señora con un paraguas. Tiene cuatro brazos, y con dos de ellos lleva bolsas del supermercado. No le llama la atención a nadie.
-
-Detrás de ella, un chico de unos diez años, con un gorro de lana, va soplando burbujas de jabón que le salen de la punta de los dedos, sin aparato, sin frasco, y se ríe.
-
-En la vidriera de la lavandería hay una televisión encendida. Un noticiero. En la pantalla, un hombre enorme con la cara y los hombros envueltos en fuego, con un traje azul oscuro, en una foto de archivo. Abajo, el titular: "A UN MES DE SU ASCENSO, ENDEAVOR, HÉROE N.º 1, SIGUE SIN CONVENCER AL PÚBLICO". Después, un muchacho rubio con alas de plumas rojas enormes, sonriendo a la cámara: "HAWKS, N.º 2: 'LO ESTÁ HACIENDO BIEN'".
-
-Arriba, en la cima de la colina, por encima de los techos nevados, se ven unos edificios enormes, de vidrio azul, con forma de H. Alrededor, un muro alto, gris, que encierra todo el complejo. En la reja de entrada, a lo lejos, se distingue un emblema: dos letras, U y A.
-
-[Destino fijado.]
-
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Boku no Hero Academia                 ║
-║ DON: LLAMA DEL RENACER                       ║
-║ Llamas blancas y azules que curan cualquier  ║
-║ herida al tocar. Y una vez por día, tú y     ║
-║ todos los que tocaste ese día, si mueren,    ║
-║ arden y vuelven a la vida enteros.           ║
-║ Bloqueadas: Pira (60), Amanecer (90)         ║
-║ Maestría 30                                  ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Boku no Hero Academia                 ║
-║                                              ║
-║ MISIÓN: Que ningún alumno ni profesor de la  ║
-║ U.A. muera antes de que termine la Guerra    ║
-║ de Liberación Paranormal.                    ║
-║ RECOMPENSA: 12.000 EXP · 400 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-
-A dos cuadras, colina abajo, suena una alarma. Un estruendo de vidrio. Gente que grita y corre por la vereda hacia donde estás, resbalando en la nieve.
-
-—¡Un villano! —grita un hombre de traje, pasando a tu lado—. ¡En el banco de la esquina! ¡Tiene el brazo de piedra!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1087 · BOKU NO HERO · DIC. · 08:40     ║
-║ Musutafu · calle al pie de la colina de la   ║
-║ U.A.                                         ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, con bufanda y queso      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1088)
+## COMANDO 1 (T1088)
 me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
 
-## RESPUESTA 2 (T1088)
+## RESPUESTA 1 (T1088)
 
 > me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
 
@@ -163,10 +70,10 @@ Death Arms frunce el ceño detrás del visor.
 
 ---
 
-## COMANDO 3 (T1089)
+## COMANDO 2 (T1089)
 no se donde estoy, soy un viajero, no conozco nada de aca
 
-## RESPUESTA 3 (T1089)
+## RESPUESTA 2 (T1089)
 
 > no se donde estoy, soy un viajero, no conozco nada de aca
 
@@ -212,4 +119,62 @@ Detrás de él, en la vereda, se juntan curiosos con los celulares levantados. A
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 08:45, Banco Musutafu Norte. Death Arms explica que usar un Don sin licencia es delito. Un policía le pide nombre, registro de Don y documento, y que los acompañe a la comisaría. Curiosos filman. Facundo puede responder.
+## COMANDO 3 (T1090)
+me llamo Facundo Morelli, no tengo documentos, los acompaño
+
+## RESPUESTA 3 (T1090)
+
+> me llamo Facundo Morelli, no tengo documentos, los acompaño
+
+> —Me llamo Facundo Morelli. No tengo documentos. Los acompaño.
+
+El policía de bigote anota. Levanta la vista de la libreta, sorprendido de que no discutas.
+
+—Bien. Gracias por su colaboración.
+
+No te esposan. Death Arms te acompaña hasta el patrullero con una mano grande apoyada en tu hombro, el que no tiene a Kase, más para que los curiosos vean que está todo bajo control que para sujetarte. Los celulares te siguen hasta la puerta del auto.
+
+—Que no se te ocurra usar ese Don en el auto —murmura Death Arms antes de cerrar la puerta—. Ni para salir, ni para nada. Te lo pido por favor.
+
+[09:20 · Comisaría Central de Musutafu.]
+
+Una sala chica, sin ventanas, con una mesa de metal, tres sillas y un espejo grande en una pared. Luz blanca. Un vaso de agua de plástico delante de ti. Kase, en el piso, olfatea las patas de la mesa con desconfianza y después se sube a la silla de al lado.
+
+Esperas veinte minutos.
+
+La puerta se abre. Entra un hombre delgado, de unos treinta y tantos, con un abrigo largo color arena, un sombrero de ala corta y la cara cansada de alguien que trabaja demasiadas horas. Trae una carpeta delgada debajo del brazo. Se quita el sombrero, lo deja en la mesa y se sienta frente a ti.
+
+—Detective Naomasa Tsukauchi. —Abre la carpeta. Está casi vacía—. Facundo Morelli, ¿no es así?
+
+Pasa una hoja. Después otra. Las dos están en blanco, salvo unas líneas escritas a mano.
+
+—Quiero que sepas algo antes de empezar, porque me parece justo. —Te mira, tranquilo—. Mi Don me permite saber si alguien me miente. No me dice la verdad, solo si lo que me dicen es mentira. Así que esto puede ser muy rápido, o muy largo. Depende de ti.
+
+Junta las manos sobre la carpeta.
+
+—Buscamos tu nombre en la base de datos nacional. En la de Dones. En la de inmigración. En la de antecedentes. —Hace una pausa—. No existes. No hay ningún registro de nacimiento, ningún registro de Don, ningún ingreso al país, nada. Para el Estado japonés, Facundo Morelli no existe.
+
+Se recuesta en la silla.
+
+—Y esta mañana apareciste de la nada en un banco y derribaste de un golpe a un villano con un Don de transformación de tipo rocoso, sin dejarle una marca. —Te mira a los ojos, del rojo al azul—. Así que empecemos por lo básico. ¿Qué Don tienes?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1090 · BOKU NO HERO · DIC. · 09:40     ║
+║ Musutafu · Comisaría Central, sala de        ║
+║ interrogatorio                               ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la silla de al lado                 ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 09:40, sala de interrogatorio de la Comisaría Central de Musutafu. El detective Tsukauchi (detecta mentiras) le dice que no existe en ningún registro y le pregunta qué Don tiene. Facundo puede responder.

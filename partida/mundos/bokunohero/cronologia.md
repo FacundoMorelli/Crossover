@@ -21,3 +21,4 @@
 - Diciembre 08:40 · Facundo y Kase llegan a una calle de Musutafu al pie de la colina de la U.A. Un villano asalta un banco a dos cuadras.
 - Diciembre 08:42 · (T1088) Facundo derriba al villano del banco. Llega Death Arms.
 - Diciembre 08:45 · (T1089) La policía pide a Facundo identificación y que declare (vigilantismo).
+- Diciembre 09:20 · (T1090) Facundo en la Comisaría Central; interrogatorio del detective Tsukauchi.

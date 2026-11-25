@@ -1,0 +1,15 @@
+NOMBRE: Naomasa Tsukauchi
+AFILIACIÓN: Policía (detective), amigo de All Might
+RANGO: detective
+PODER VISTO POR FACUNDO: Don: Detector de Mentiras (él lo explicó)
+EDAD EN ESTE MOMENTO DEL CANON: adulto (~30 y tantos)
+FÍSICO: Delgado, abrigo largo color arena, sombrero de ala corta, cara cansada.
+PERSONALIDAD Y FORMA DE HABLAR: Tranquilo, justo, honesto.
+RELACIÓN CON FACUNDO: investigador (T1090).
+ENCUENTROS:
+- T1090 · Diciembre 09:40 · Sala de interrogatorio de la Comisaría Central.
+DIÁLOGOS CLAVE:
+- T1090 · "Mi Don me permite saber si alguien me miente. Esto puede ser muy rápido, o muy largo. Depende de ti." "No existes. Para el Estado japonés, Facundo Morelli no existe." "¿Qué Don tienes?"
+QUÉ SABE DE FACUNDO: ver conocimiento.md (T1090).
+QUÉ PODERES DE FACUNDO VIO: ninguno (informe del banco).
+ESTADO: interrogando a Facundo.

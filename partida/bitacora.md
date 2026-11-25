@@ -1088,3 +1088,4 @@ T1086 · DanMachi · Sala de Loki · "Por ellos. Son inteligentes." Riveria: el 
 T1087 · DanMachi → Boku no Hero · Mano a Finn; Loki: "¡Y trae al gato!" Puerta desde el techo. Musutafu nevado, al pie de la U.A. Don: Llama del Renacer. Misión: que nadie de la U.A. muera hasta el fin de la Guerra de Liberación. Asalto a un banco a dos cuadras.
 T1088 · BnHA · Banco Musutafu Norte · Villano del brazo de roca, inconsciente. "¿Dónde estoy?" Death Arms: "¿Tienes licencia de héroe?"
 T1089 · BnHA · Banco · "Soy un viajero." Death Arms: vigilantismo es delito. Policía: "Nombre, registro de Don, documento. Acompáñenos a la comisaría." Filman.
+T1090 · BnHA · Comisaría Central · "Los acompaño." Tsukauchi (detecta mentiras): "No existes en ningún registro. ¿Qué Don tienes?"
