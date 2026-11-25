@@ -1050,3 +1050,4 @@ T1048 · HxH · Torre, sala médica 3 · "Si le hacen algo, están muertos." Sha
 T1049 · HxH · Baños públicos · Vuelve con Machi. Chrollo llegó: "¿Por qué no debería terminar lo que empecé?"
 T1050 · HxH · Baños públicos · "Si terminas lo que empezaste, yo termino lo que él empezó." Chrollo: "No lo tocamos." "¿Hasta cuándo nos vas a proteger?"
 T1051 · HxH · Baños públicos · "Hasta que zarpe el Black Whale. Váyanse." Chrollo: "El Black Whale." Se van. Kortopi: "Gracias." Machi: "No lo voy a olvidar." Hisoka mueve los dedos.
+T1052 · HxH · Baños públicos · "Hola, Hisoka." Hisoka despierta riéndose: "Es el mejor día de mi vida." "¿Cómo te llamas? ♥"

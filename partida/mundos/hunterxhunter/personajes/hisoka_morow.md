@@ -11,10 +11,11 @@ ENCUENTROS:
 - T1042 · Llega a los baños a matar a Kortopi y encuentra a Facundo delante.
 - T1045 · Facundo lo deja inconsciente de un golpe.
 DIÁLOGOS CLAVE:
+- T1052 · "Hola... ♥ Me tiraste. De un golpe." "Hoy me mataron una vez. Y me tiraste otra. Es el mejor día de mi vida. ♠" "No siento nada de ti. Nadie se esconde así. Ni Chrollo. Ni el viejo Zeno." "¿Cómo te llamas? ♥"
 - T1044 · Con la mejilla abierta: "Ah... Aaah... ♥ Más. Dame más."
 - T1043 · "¿Una misión? ¿Proteger a una araña? ¿Quién te mandó? ¿Chrollo? No, Chrollo no sabe hacer amigos. ♣" "Me acaban de matar. Fue lo mejor que me pasó en años." "Cambio de planes. ♥ Las arañas pueden esperar. Tú vas primero."
 - T1042 · "Mmm... ¿Y tú quién eres? No eres una araña. No siento nada de ti. Nada de nada. Como si no estuvieras ahí. ♥ Qué interesante... ♠"
 - T1040 · "Mmm... ♠ Eso es justo lo que quería escuchar."
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: INCONSCIENTE en el asfalto de la calle de los baños (T1045, un golpe de Facundo al plexo); sin mano izq. ni pierna der. (se deshicieron las de aura); mejilla abierta. Respira.
+ESTADO: despierto en el asfalto de la calle de los baños, sobre un codo (T1052); sin mano izq. ni pierna der.; mejilla con costra.
