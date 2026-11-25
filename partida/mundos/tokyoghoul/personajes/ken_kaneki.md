@@ -7,6 +7,7 @@ FÍSICO: (T1191: camisa blanca grande prestada, pelo húmedo, sin sangre.) Flaco
 PERSONALIDAD: Fuera de control, llorando: "No quiero comer más."
 RELACIÓN: Primer encuentro T1148.
 ENCUENTROS:
+- T1209 · Come la hamburguesa de Big Girl entera; esa noche llora en su cuarto. Domina el kakuja en los entrenamientos. Día 2: come un sándwich con Hide en la universidad.
 - T1170 · Mañana: Touka lo golpea (mejilla) al enterarse; sube detrás de ella.
 - T1169 · Se ríe por primera vez en la noche al oír el estómago de Banjou.
 - T1165 · Sala de Anteiku · Se acerca y se pone en cuclillas frente a Facundo, temblando, esperando. Cortada a medio cerrar en el cuello.

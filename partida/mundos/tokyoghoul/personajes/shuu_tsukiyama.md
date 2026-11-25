@@ -7,6 +7,7 @@ FÍSICO: Alto, pelo violeta, cara cortada en diagonal, traje elegante destrozado
 PERSONALIDAD: —
 RELACIÓN: Primer encuentro T1154 (Facundo los saca de la mansión).
 ENCUENTROS:
+- T1209 · Día 2: vuelve con rosas negras, traje nuevo e invitación a cenar en la mansión de su familia para Facundo. Le pregunta a Kaneki si la hamburguesa sabía bien.
 - T1154 · Retrocedía ante una investigadora de abrigo blanco. Se ilumina al ver a Kaneki. Facundo los teletransporta al acantilado.
 DIÁLOGOS CLAVE:
 - T1169 · "Esto es una tragedia. Una tragedia hermosa."

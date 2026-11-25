@@ -86,3 +86,12 @@
 - Nishiki · T1207 · vio a Facundo aparecer de la nada en la cocina con Kaneki, Touka y Yomo; con el pelo plateado y un brillo en la piel (Ultra Instinto).
 - Facundo · T1208 · por Yomo: Big Girl (15 min: calle de adelante, derecha en la avenida, pasar la estación, 4 cuadras; cartel rojo con chica de trenzas). Pastelería de toldo rosa frente a la estación (Touka compraba ahí para la escuela y lo tiraba). Cámaras en la estación; investigadores viajan en tren.
 - Nishiki, Yomo, Kaneki · T1208 · vieron el pelo de Facundo volver a blanco y azul.
+- 41 ghouls del Distrito 20 (Días 1-2) · T1209 · vieron a Facundo quitarles el hambre en el callejón de Anteiku.
+- Koma, Irimi · T1209 (Día 2) · por Yoshimura y lo que vieron: Facundo quita el hambre; transfigurados.
+- Tsukiyama · T1209 · Kaneki comió una hamburguesa (preguntó).
+- Hide · T1209 (Día 2) · vio a Kaneki comer un sándwich sin vomitar. No sabe nada de Facundo (Kaneki no lo nombró, salvo que lo cuente después).
+- CCG (un investigador de civil) · T1209 (Día 1) · oyó el rumor del andén e informó.
+- Shinohara · T1209 · por el informe del rumor + su encuentro en la mansión: deduce que el "humano de dos colores" es su salvador y que está en Anteiku (o lo buscó ahí por el rumor de la puerta del callejón). Día 3: lo ve en la barra.
+- Juuzou · T1209 · chocó contra la barrera invisible en la puerta de Anteiku.
+- Shinohara · T1209 · vio a Juuzou rebotar contra algo invisible; vio el hilo plateado junto al cordón.
+- Estudiantes clientes · T1209 · vieron a un chico raro chocar contra la nada en la puerta.

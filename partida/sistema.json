@@ -1,13 +1,13 @@
 {
-  "turno": 1208,
+  "turno": 1209,
   "mundo_actual": "tokyoghoul",
-  "fecha_local": "otoño (TG cap. ~105), mañana siguiente al asalto a la mansión de Kanou",
-  "hora": "13:17",
+  "fecha_local": "Día 3 desde la llegada (T1147 = noche del Día 0; Día 1 = mañana siguiente al asalto a la mansión de Kanou)",
+  "hora": "10:21",
   "edad": 18,
   "nivel": 28,
   "exp": 276530,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 109306,
+  "fragmentos": 109256,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -66,7 +66,7 @@
     },
     "tokyoghoul": {
       "moneda": "yenes",
-      "cantidad": 0,
+      "cantidad": 543700,
       "cambio": "1 Fragmento = 11.000 yenes (fijado T1147)"
     }
   },
@@ -81,7 +81,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 90,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2203,7 +2203,8 @@
       "dragonball": "Revelado T214: 'El muchacho del gato'. Pendiente: Vegeta, 'el insecto de dos colores'.",
       "onepiece": "REVELADO T380: 'Ojos de Eclipse' (cartel). Pendiente entre aldeanos de Cocoyasi: 'el hermano del gato'.",
       "shingeki": "Si se transforma en titán delante de la Legión: 'el Titán de Ceniza' / entre los reclutas: 'el del gato'. Marley (si sobreviven y lo informan): 'el titán sin dueño'. | NUEVO (T854): la prensa del continente lo va a llamar 'el Emisario del Gato' (diarios del día 41). | REVELADO T969: \"El del gato\" (gritado por la plaza de Shiganshina).",
-      "blackclover": "Si pelea delante de caballeros: 'el Mago de las Estrellas' / entre los Toros Negros: 'el del gato'. En el Ojo del Sol de Medianoche: 'el Desconocido de dos colores'."
+      "blackclover": "Si pelea delante de caballeros: 'el Mago de las Estrellas' / entre los Toros Negros: 'el del gato'. En el Ojo del Sol de Medianoche: 'el Desconocido de dos colores'.",
+      "tokyoghoul": "Entre los ghouls del Distrito 20: 'el Panadero' (por el pan que comen los transfigurados). En la CCG, si lo reportan: 'Dos Colores' / 'el Bicolor del Distrito 20'."
     },
     "quien_sospecha": {},
     "planes_ajenos": "Kenjaku sostiene el Reino de la Prisión con Gojo sellado cerca de la estación; Uraume junto a Sukuna; Mahito busca a Yuji para quebrarlo; Choso confundido; Yuki llegará al final.",
@@ -2304,7 +2305,8 @@
       "momento_del_canon": "TG cap. ~105 (arco 06, Asalto al laboratorio de Kanou): Shinohara (armadura Arata) cae ante el medio kakuja de Kaneki y Kaneki empieza a comérselo; Amon llega enseguida (cap. 105-106). Juuzou hirió a Kurona y le abrió el abdomen a Nashiro; Akira disolvió el kagune de Naki con CRc. Kanou ya se fue con Shachi; Yomo se llevó a Rize. Después: Kaneki huye ('no quiero comer más'), atraviesa a Banjou; arco Decisión (Yoshimura confiesa: Kuzen, Eto es su hija); Operación de Exterminio del Búho contra Anteiku (cap. 122-143): mueren o caen Koma/Irimi (capturados en :re?), Yoshimura capturado, Kaneki vs Arima, Hide.",
       "lugar_de_llegada": "acantilado arbolado a ~300 m de la mansión de Kanou, con camionetas de la CCG en el claro",
       "apodo_pendiente": "'El Ghoul Gris' / 'Ceniza' (CCG) · entre ghouls: 'el del gato'"
-    }
+    },
+    "tokyoghoul_ccg": "Días 1-3: un investigador de civil oye el rumor en el andén (Día 1 tarde) y lo informa. Shinohara relaciona la descripción ('humano, ojos de dos colores, gato') con el hombre que lo salvó en la mansión; pide permiso para verificar por su cuenta (Día 2) y va a Anteiku el Día 3 con Juuzou. Shinohara va con intención de agradecer y hablar (pasa la barrera). Juuzou va con ganas de 'cortar' al de los dos colores (no pasa). La preparación de la Operación del Búho sigue su curso en la CCG (el Búho ya vinculado al Distrito 20)."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

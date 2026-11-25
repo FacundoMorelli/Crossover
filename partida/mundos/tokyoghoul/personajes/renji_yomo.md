@@ -7,6 +7,7 @@ FÍSICO: Alto, hombros anchos, pelo gris plateado, barba corta del mismo color, 
 PERSONALIDAD Y FORMA DE HABLAR: Callado, seco, voz grave, habla muy poco.
 RELACIÓN CON FACUNDO: Primer encuentro T1196.
 ENCUENTROS:
+- T1209 · Baja a los entrenamientos y no habla. Le tira una toalla seca a Touka.
 - T1196 · Entra por la puerta del callejón a las 12:40 con una bolsa de supermercado.
 DIÁLOGOS CLAVE:
 - T1208 · "Big Girl está a quince minutos caminando." "El pastel, en la pastelería que está enfrente de la estación. La de toldo rosa. Touka compraba ahí para la escuela. Lo tiraba después, en el baño." "Afuera hay cámaras en la estación. Y gente de la CCG que viaja en tren." "¿Tienes dinero?"
