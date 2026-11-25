@@ -30,3 +30,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Ais Wallenstein · T1073 · busca al "humano del gato" por orden de Finn.
 - Bell, Hestia, Lili, Welf, Mikoto, Haruhime · T1074 · lo ven aparecer de la nada en la sala con Wiene. Hestia lo identifica como "el que buscan" por el pregón (pelo, ojos, gato). No saben su nombre.
 - NOTA DEL MUNDO · Los dioses (Hestia y todos) detectan las mentiras de los mortales. El Velo no lo impide (no lee mentes: ven si una frase es mentira, no los pensamientos).
+- Familia Hestia (Hestia, Bell, Lili, Welf, Mikoto, Haruhime) · T1075 · su nombre, Facundo Morelli, viajero (Hestia confirma que es verdad). Por Wiene: los encontró a todos, curó a Rei y a Fia, los reunió y los llevará a la Mazmorra sin que nadie los vea.

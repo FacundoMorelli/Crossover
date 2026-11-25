@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1074 · Noche 2 00:23 · Sala de la Hearthstone Manor: Facundo aparece con Wiene.
 DIÁLOGOS CLAVE:
+- T1075 · "¿Usted... la trajo? ¿Usted la sacó de Dédalo?"
 - T1074 · "¿Wiene...? ¡Wiene! ¿Cómo...? ¿Qué haces aquí? ¡Afuera está lleno de...!"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1074).
 QUÉ PODERES DE FACUNDO VIO: ninguno
