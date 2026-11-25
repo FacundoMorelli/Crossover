@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1111)
-permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
-
-## RESPUESTA 1 (T1111)
-
-> permiso señor, uso la tecnica de mahito en all might para recuperarlo y tambien recuperar lo que tenia dentro por que todavia tenia una pizca
-
-> —Permiso, señor.
-
-Le apoyas la palma de la mano en el costado izquierdo, encima de la suya, encima del traje amarillo.
-
-All Might no se aparta. Se queda quieto, temblando, con los ojos hundidos clavados en tu cara.
-
-Y algo se acomoda.
-
-Debajo de tu palma, la forma de su alma está rota. No de un golpe: gastada, raspada, con un agujero enorme en el costado, donde un puño le arrancó lo que había. Alrededor del agujero, todo está flaco, encogido, apagado. Y en el centro del pecho, muy en el fondo, casi invisible, queda algo. Una brasa. Una chispa diminuta, dorada, del tamaño de una lenteja, que todavía brilla, apenas, como la última vela de una casa vacía.
-
-La tocas. La completas. Le devuelves al alma la forma que tenía antes de que ese hombre la rompiera. Y el cuerpo, que siempre obedece al alma, sigue.
-
-All Might ahoga un grito.
-
-Debajo del traje, algo se le mueve en el costado. Se llena. El estómago que no tenía. El pulmón entero. La cicatriz enorme, que le cruzaba el torso como un cráter, se cierra y desaparece. Se le enderezan los hombros. Se le ensancha el pecho. El traje amarillo, que le quedaba tres talles grande, deja de colgarle.
-
-Y la brasa del centro del pecho se enciende.
-
-Es una luz dorada que le sale desde adentro, a través de la ropa, a través de la piel. Crece. Llena la sala oscura de monitoreo como si alguien hubiera abierto una ventana al sol del mediodía.
-
-Retiras la palma.
-
-All Might cae de rodillas. Respira. Hondo, con todo el pecho, con los dos pulmones, por primera vez en seis años, y el aire le entra entero y no tose.
-
-Y entonces el cuerpo se le infla.
-
-De golpe, en un estallido de vapor que empaña todas las pantallas de la sala. Los brazos, los hombros, el cuello, el pecho: músculo sobre músculo, enorme, imposible. El traje amarillo se le raja en las costuras. El pelo rubio se le levanta en los dos mechones de siempre, como antenas. La cara se le llena, se le ensancha, se le marca con esas sombras profundas alrededor de los ojos, que brillan azules.
-
-Se pone de pie. Llega casi al techo de la sala.
-
-Se mira las manos. Enormes. Las abre. Las cierra.
-
-Aizawa está de pie, con la silla tirada detrás de él, la boca abierta. En la pantalla, Nezu se quedó con la taza de té a medio camino del hocico, y la taza se le cae, y el té se derrama por todo el escritorio, y él ni lo nota.
-
-All Might no habla. Se le llenan los ojos de lágrimas, enormes, que le caen por la cara gigante y se le meten en la sonrisa. Porque está sonriendo. La sonrisa de siempre, la del póster, la de los noticieros, la que el país entero dejó de ver en Kamino.
-
-—Joven Morelli —dice. Y la voz ya no es la de un hombre enfermo. Es la voz que retumba, grave, enorme, que hace vibrar las pantallas—. ¿Qué... qué me hiciste?
-
-Se lleva una mano gigante al pecho, donde la brasa dorada sigue ardiendo, quieta, entera.
-
-—Siento... siento lo que tenía. Lo que quedaba. —Le tiembla la voz enorme—. Pero ya no es una brasa. Está entera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1111 · BOKU NO HERO · DIC. · 11:48     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1112)
+## COMANDO 1 (T1112)
 tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
 
-## RESPUESTA 2 (T1112)
+## RESPUESTA 1 (T1112)
 
 > tenias una pizca todavia, te la recupere y la volvi como estaba, bueno ahora se estaran preguntando que es esta habilidad y les voy a ser sincero a ustedes, no vengo de este mundo, muchas de mis habilidades son de distintos mundos, soy viajero si, pero de mundos, voy a cada mundo con una mision
 
@@ -129,10 +62,10 @@ Inclina la cabeza.
 
 ---
 
-## COMANDO 3 (T1113)
+## COMANDO 2 (T1113)
 que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
 
-## RESPUESTA 3 (T1113)
+## RESPUESTA 2 (T1113)
 
 > que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
 
@@ -225,4 +158,64 @@ Se le tensa la cara diminuta, blanca.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:53, sala de monitoreo. Facundo dijo su misión (que nadie de la U.A. muera hasta que termine la guerra). Nueve misiones de copia emitidas. Nezu entiende que habrá una guerra y pregunta si Facundo sabe quién va a morir. Facundo puede responder.
+## COMANDO 3 (T1114)
+no, no sé quién, pero voy a estar atento y una pregunta... si consiguiera una licencia de heroe totalmente legitima, de la nada misma, les molestaria que los detenga?
+
+## RESPUESTA 3 (T1114)
+
+> —No, no sé quién. Pero voy a estar atento. Y una pregunta... si consiguiera una licencia de héroe totalmente legítima, de la nada misma, ¿les molestaría que los detenga?
+
+Nezu parpadea. Una vez. Dos.
+
+Después se ríe. Una risita aguda, corta, que se le escapa sin permiso.
+
+—"Totalmente legítima" y "de la nada misma" —repite—. Señor Morelli, esas dos cosas no suelen ir en la misma frase.
+
+Aizawa se frota los ojos.
+
+—No vas a falsificar una licencia —dice, plano—. No en esta escuela. No conmigo sentado aquí.
+
+—Nadie dijo falsificar —contesta All Might, y se le nota que está conteniendo una sonrisa—. El joven dijo legítima.
+
+Nezu se lleva una patita al mentón. El destello de risa se le apaga y vuelve la cara de cálculo.
+
+—A ver si entiendo —dice—. Usted no quiere esperar a que ellos se muevan. Quiere ir a buscarlos. A la Liga, a Deika, a la fábrica. —Te mira—. Y quiere que, cuando los traiga, sea un arresto y no un secuestro.
+
+Se queda callado unos segundos. Afuera, en el Campo Gamma, se oye a los alumnos de la 1-A y la 1-B gritándose entre ellos mientras los profesores los llevan a la enfermería.
+
+—Hay una sola entidad que da licencias en este país —dice al fin—. La Comisión de Seguridad Pública de Héroes. Y la Comisión no da nada "de la nada". Pide registro, pide nombre, pide historial. —Inclina la cabeza—. Usted no tiene ninguna de las tres cosas.
+
+—Entonces no se puede —dice Aizawa.
+
+—Yo no dije eso. —Nezu junta las patitas—. Dije que la Comisión pide esas cosas. No dije que yo no pueda hablar con la Comisión.
+
+All Might se gira hacia él, sorprendido.
+
+—Director...
+
+—Un consultor externo de la U.A., recomendado por mí, avalado por el Símbolo de la Paz —Nezu señala a All Might sin mirarlo— y con cuatro ubicaciones que la Comisión lleva meses sin encontrar. —Sus ojitos brillan—. Creo que me escucharían.
+
+Te mira de nuevo.
+
+—Pero si los voy a convencer, necesito algo para ponerles en la mesa, señor Morelli. Y le advierto una cosa: la Comisión no es la U.A. —La voz se le enfría un poco—. Allá no van a preguntar con amabilidad de dónde viene usted.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1114 · BOKU NO HERO · DIC. · 11:56     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Licencia de héroe (Nezu ofrece     ║
+║ hablar con la Comisión)                      ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:56, sala de monitoreo. Facundo pidió una licencia de héroe legítima para detener a la Liga y demás. Nezu ofrece hablar con la Comisión de Seguridad Pública y pide algo para ponerles en la mesa; advierte que la Comisión preguntará de dónde viene. Facundo puede responder.
