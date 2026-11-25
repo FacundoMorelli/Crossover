@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1138.
 ENCUENTROS:
 - T1138 · Su oficina, piso 42 · Facundo aparece mientras habla con Hawks sobre Deika.
 DIÁLOGOS CLAVE:
+- T1139 · "Una de esas firmas es la mía. Yo no la firmé. Pero es mi firma." "Eso me alegra. Y también me aterra." "De usted no sé ninguna de las tres cosas." "¿Qué es lo que usted quiere?"
 - T1138 · "¿Cómo que toda la ciudad, Hawks?" "Quietos." "Supongo que usted es Eclipse." "Empezando por cómo entró a una oficina del piso cuarenta y dos que tiene tres controles de seguridad."
 QUÉ SABE DE FACUNDO: Eclipse, licencia aparecida esta mañana; por Endeavor: Jaku; por Nezu: la Liga; por Hawks: Deika entera.
 QUÉ PODERES VIO: La aparición en su oficina.

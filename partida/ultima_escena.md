@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1136)
-endeavor y dije que sos infiltrado por que no hay muchos mas, eh digamos que shigaraki, dabi, toga, y los demas ya estan esposados, solo me falta aqui los demas
-
-## RESPUESTA 1 (T1136)
-
-> —Endeavor. Y dije que eras el infiltrado porque no hay muchos más. Eh... digamos que Shigaraki, Dabi, Toga y los demás ya están esposados. Solo me faltan los demás de aquí.
-
-Hawks abre la boca.
-
-La cierra.
-
-—¿Endeavor? —repite—. ¿El señor Endeavor te contó...? —Se frota la nuca—. Vaya. Debes haberle caído muy bien. O muy mal. Con él nunca se sabe.
-
-Después se le borra la sonrisa del todo.
-
-—Espera. Espera, espera. —Levanta una mano—. ¿Dabi?
-
-Lo dice distinto. No como pregunta, como si el nombre le pesara.
-
-—¿Dabi, el de las grapas? ¿El de la llama azul? —Te mira fijo—. ¿Esposado? ¿Hoy?
-
-Una de las plumas que tiene en el hombro tiembla sola.
-
-Se queda callado un momento largo. Mira por el ventanal, hacia el noroeste, como si pudiera ver las montañas desde ahí.
-
-—Yo me metí aquí por él —dice, en voz baja, casi para sí mismo—. Para que me presentara. Para llegar hasta Shigaraki. Meses. —Suelta una risa corta, sin ganas—. Y ya está. Ya está todo hecho.
-
-Sacude la cabeza, como para despejarse, y vuelve a ser el de antes, rápido, ligero.
-
-—Bueno. "Los demás de aquí." —Señala el ventanal con el pulgar—. Amigo, mira allá abajo. Esa ciudad entera es el Ejército de Liberación. Ciento dieciséis mil miembros, más o menos. Los tengo contados. El de la panadería. La maestra de la escuela. El chofer del autobús. —Se cruza de brazos—. La mayoría no son soldados. Son gente que se cree que está en un club de libertad y que paga una cuota. Unos miles sí son peligrosos de verdad. El resto...
-
-Mira a Re-Destro, tirado sobre la mesa.
-
-—...el resto va a enloquecer cuando se entere de que a su líder lo apagaron en su propia oficina. Y se van a enterar. En una hora, como mucho. Skeptic tenía que mandar un informe a las dos.
-
-Se apoya en el borde de la mesa y te mira.
-
-—Así que dime, Eclipse. ¿Qué tenías pensado hacer con ciento dieciséis mil personas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1136 · BOKU NO HERO · DIC. · 12:40     ║
-║ Deika · torre Detnerat, último piso          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Cúpula del Ejército: 5 inconscientes         ║
-║ AVISO: Skeptic debía informar a las 14:00    ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Deika (116.000 miembros)           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1137)
+## COMANDO 1 (T1137)
 solo mira y te diria que aprendas pero es imposible, uso haki del rey sobre toda deika, tranquilo estan inconscientes nada mas
 
-## RESPUESTA 2 (T1137)
+## RESPUESTA 1 (T1137)
 
 > —Solo mira. Te diría que aprendas, pero es imposible.
 
@@ -132,10 +71,10 @@ Después saca un celular del bolsillo interno de la chaqueta. Un celular negro, 
 
 ---
 
-## COMANDO 3 (T1138)
+## COMANDO 2 (T1138)
 ahora tengo que ir a hablar con ellos, diles que traigan a muchos a buscar a todos, nos vemos hakws, me teletransporto a la comision
 
-## RESPUESTA 3 (T1138)
+## RESPUESTA 2 (T1138)
 
 > —Ahora tengo que ir a hablar con ellos. Diles que traigan a muchos para buscar a todos. Nos vemos, Hawks.
 
@@ -194,4 +133,72 @@ No es una pregunta.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:43, oficina de la presidenta de la Comisión, piso 42. Ella pide que se siente y pregunta cómo entró sin pasar tres controles. Dos guardias congelados en la puerta. Facundo puede responder.
+## COMANDO 3 (T1139)
+una habilidad, en fin, querian hablar conmigo
+
+## RESPUESTA 3 (T1139)
+
+> —Una habilidad. En fin, querían hablar conmigo.
+
+La presidenta no se inmuta.
+
+—Una habilidad —repite, como quien anota algo en un expediente—. Bien.
+
+Les hace un gesto mínimo a los guardias con dos dedos. Ellos dudan un segundo, se miran, y salen. La puerta se cierra con un clic suave.
+
+Ella se sienta. Despacio, derecha, sin apoyar la espalda en el respaldo. Toca una de las pantallas del escritorio y la gira hacia ti.
+
+Es tu ficha. Tu foto. "ECLIPSE · Facundo Morelli · Licencia de Héroe Profesional · ACTIVA".
+
+—Sí, quería hablar con usted —dice—. Le voy a decir lo que sé, y usted me va a decir si me equivoco.
+
+Levanta un dedo.
+
+—A las once y cincuenta y siete de esta mañana, su licencia apareció en nuestro registro. Con número, fecha de emisión de hace tres años, historial de evaluaciones, firmas de validación. —Hace una pausa—. Una de esas firmas es la mía. Yo no la firmé. Pero es mi firma. La revisaron cuatro peritos.
+
+Segundo dedo.
+
+—A las doce y cinco, según Nezu, la Liga de Villanos completa quedó encerrada en una cabaña en las montañas de Gunma. Shigaraki incluido. Y la criatura que estaba con ellos, que mide como un edificio, tirada en la nieve.
+
+Tercer dedo.
+
+—A las doce y once, Kyudai Garaki y sesenta y cuatro Nomu bajo el hospital de Jaku. Endeavor lo confirma.
+
+Cuarto dedo.
+
+—Y hace dos minutos, una ciudad entera. —La voz no le cambia nada—. Ciento dieciséis mil personas, según mi agente. Inconscientes. En un segundo.
+
+Baja la mano. La apoya plana sobre el escritorio.
+
+—En una hora, usted hizo lo que esta Comisión y todos los héroes del país no pudimos hacer en un año. Eso me alegra, señor Morelli. Sinceramente. —Los ojos grises no se mueven de los tuyos—. Y también me aterra. Mi trabajo es que los héroes de este país sean confiables. Que la gente sepa qué pueden hacer, a quién responden, y qué pasa si un día dejan de responder.
+
+Se inclina apenas hacia adelante.
+
+—De usted no sé ninguna de las tres cosas.
+
+Una pausa.
+
+—Así que se lo pregunto directamente. —Junta las manos sobre el escritorio—. ¿Qué es lo que usted quiere?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1139 · BOKU NO HERO · DIC. · 12:44     ║
+║ Comisión de Seguridad Pública · oficina de   ║
+║ la presidenta, piso 42                       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Hablar con la Comisión             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:44, oficina de la presidenta. Solos. Ella expuso todo lo que sabe (incluida su firma en la licencia, que no firmó) y pregunta: "¿Qué es lo que usted quiere?" Facundo puede responder.

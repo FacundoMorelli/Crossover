@@ -66,3 +66,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hawks · T1137 · vio a Facundo dejar inconsciente a toda Deika (116.000) con una presión de voluntad desde el ventanal, excepto a él.
 - Presidenta de la Comisión, dos guardias · T1138 · vieron a Eclipse aparecer en el piso 42 sin pasar los controles.
 - Hawks · T1138 · Facundo le pidió que la Comisión mande a muchos a recoger a todos en Deika.
+- Presidenta de la Comisión · T1139 · Facundo entró "con una habilidad". La licencia apareció a las 11:57 con historial de 3 años y la firma de ella, que no firmó.
