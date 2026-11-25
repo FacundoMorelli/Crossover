@@ -39,3 +39,6 @@
 - Facundo · T1281 · vio la forma real de Grey (chica bajita, pelo largo oscuro). Oyó a la recién llegada nombrar a "Rades", "Valtos" y "Licht-sama".
 - Sally · T1282 · vio a Facundo aparecer de la nada; heterocromía "de nacimiento"; no le puede leer el maná (Velo); deduce que él venció a No.0, Rades y Valtos. Lo anota en una libreta.
 - Facundo · T1283 · por Gauche y Gordon: Yami fue esta mañana a la base de Amanecer Dorado (capital) a "esperar a alguien"; estaba raro, fumó tres cigarros antes del desayuno.
+- Gauche, Gordon, Grey · T1284 · Facundo les pidió atar a los del Ojo y desapareció (teletransporte).
+- Yami · T1284 · vio a Facundo aparecer en la terraza de Amanecer Dorado; nota su Ki tranquilo (no su poder).
+- Facundo · T1284 · por Yami: Asta preguntó por él todos los días durante tres semanas y después miraba la explanada cada mañana.

@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1281)
-lo dejo inconsciente y lo llevo con los demas
-
-## RESPUESTA 1 (T1281)
-
-> lo dejo inconsciente
-
-El círculo negro ya tiene el tamaño de una puerta cuando el hombre de las marcas en la cara pone un pie adentro.
-
-No llega a poner el segundo.
-
-Le apoyas dos dedos en la frente. Nada más.
-
-Se le aflojan las rodillas. El círculo negro tiembla, se encoge y se cierra con un chasquido seco, como una burbuja que revienta. El hombre se cae hacia atrás, sobre la cama de Asta, y queda despatarrado entre las sábanas revueltas, con la piedra mágica todavía apretada en el puño.
-
-[Rival vencido: el de las puertas. +25 Fragmentos.]
-
-[+150 EXP.]
-
-> y lo llevo con los demás
-
-Te lo cargas al hombro, el que no tiene a Kase. Kase lo mira de reojo con mucho desprecio y se corre todo lo que puede hacia tu cuello.
-
-Patio.
-
-Lo dejas caer sobre el pasto al lado del de la costura, que sigue boca abajo, roncando bajito. Del puño del de las marcas se escapa la piedra mágica. Rueda por el pasto hasta los pies de Gordon y se queda ahí, latiendo verde.
-
-Gordon la mira. Te mira. Se agacha despacio y la levanta con las dos manos, como si fuera un pájaro herido.
-
-—...la de Asta —murmura—. Se la iban a llevar...
-
-Gauche baja la mano. Los espejos que flotaban a su alrededor se deshacen uno por uno, tintineando. Mira a los dos del Ojo tirados en el pasto. Mira a No.0, todavía enterrado de cabeza en el cráter. Te mira a ti. Se pasa la mano por la cara, se mancha de sangre, y no le importa.
-
-—Tres meses —dice, muy despacio—. Tres meses sin aparecer. Y llegas, y en un minuto...
-
-No termina. Suelta el aire por la nariz.
-
-Detrás de la piedra caída, Grey sale por fin. Ya no tiene la forma de nadie. Es una chica bajita, de pelo largo y oscuro, con la cara roja hasta las orejas, que te mira desde detrás de las manos con los ojos muy abiertos. Cuando ve que la miras, se transforma en Gauche de un salto, de puro susto.
-
-Entonces, desde el bosque, del otro lado de la explanada, se oye un zumbido mecánico. Y una voz de chica, aguda, alegre, que se acerca a toda velocidad:
-
-—¡Rades! ¡Valtos! ¿Ya tienen la piedra? ¡Quiero ver al enano antimagia antes de que llegue Licht-sama! ¡Quiero abrirlo!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1281 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · patio · 12:13     ║
-║ NIVEL 29 · EXP 290.930/320.000               ║
-║ FRAGMENTOS 110.102 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1282)
+## COMANDO 1 (T1282)
 aparezco en frente de ella, y tu quien eres?
 
-## RESPUESTA 2 (T1282)
+## RESPUESTA 1 (T1282)
 
 > aparezco enfrente de ella
 
@@ -115,10 +55,10 @@ Levanta la vista de la libreta. Sonríe enorme.
 
 ---
 
-## COMANDO 3 (T1283)
+## COMANDO 2 (T1283)
 la dejo inconsciente, bueno donde esta el capitan yami entonces?
 
-## RESPUESTA 3 (T1283)
+## RESPUESTA 2 (T1283)
 
 > la dejo inconsciente
 
@@ -171,7 +111,65 @@ En el pasto, Sally murmura algo dormida y se ríe sola.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1284)
+atenlos, me teletransporto con yami
+
+## RESPUESTA 3 (T1284)
+
+> —Átenlos.
+
+—¡¿Yo?! —Gauche se señala el pecho—. ¡Soy un herido de guerra!
+
+Pero Gordon ya dejó la piedra mágica en el pasto, con cuidado, y empieza a desenrollar una cuerda negra de magia de maldición de la punta de los dedos, murmurando.
+
+> me teletransporto con Yami
+
+Buscas.
+
+La capital está lejos, al norte. Un hormiguero de presencias, cálidas y apretadas. Y entre todas, una que reconoces enseguida: pesada, tranquila, oscura como el fondo de un lago de noche, con algo áspero en el borde, como el humo de un cigarro.
+
+Te mueves.
+
+Una terraza de piedra blanca, alta, con balaustradas talladas. Debajo, un patio enorme con fuentes, jardines recortados y un estandarte dorado con un sol que flamea al viento. Más allá, los techos de la Ciudad Castillo, el castillo real a lo lejos, el cielo gris.
+
+Yami está sentado en la balaustrada, de espaldas al vacío, con una pierna arriba y la otra colgando. Sin el sobretodo de los Toros, solo con la camisa sin mangas y la katana apoyada en el hombro. Tiene un cigarro a medio fumar entre los dientes. A su alrededor, en el piso de la terraza, hay seis colillas aplastadas.
+
+No se sobresalta. Ni siquiera se mueve. Solo gira los ojos, despacio, hacia el lugar donde apareciste, y se queda mirándote un rato largo, sin expresión.
+
+Suelta el humo por la nariz.
+
+—Mira tú —dice, con esa voz áspera, arrastrada—. El gato.
+
+Se saca el cigarro de la boca. Lo mira. Lo vuelve a meter.
+
+—"Unos días", dijiste. —No lo dice enojado. Lo dice como quien comenta el clima—. Asta preguntó por ti todos los putos días durante tres semanas. Después dejó de preguntar en voz alta. Igual seguía mirando la explanada todas las mañanas.
+
+Se baja de la balaustrada de un salto y aterriza sin ruido. Te mira de arriba abajo. Entrecierra los ojos, no a tu cuerpo: a algo alrededor tuyo, como siempre hacía.
+
+—Tu Ki está igual —dice—. Tranquilo. Demasiado tranquilo, como un lago sin fondo. —Le da otra pitada al cigarro—. Así que no viniste porque estés en problemas.
+
+Hace una pausa.
+
+—¿Qué haces aquí, en Amanecer Dorado, en el único día del año en que no tengo ganas de ver a nadie?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1284 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · base de Amanecer Dorado · terraza  ║
+║ NIVEL 29 · EXP 290.980/320.000 · 12:16       ║
+║ FRAGMENTOS 110.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:15, patio de la base. Los tres del Ojo inconscientes. Yami está en la base de Amanecer Dorado esperando a alguien. Gauche pregunta qué hacer con los del Ojo. Facundo puede responder.
+ESTADO AL CIERRE: Black Clover, 12:16, terraza de Amanecer Dorado. Yami recibe a Facundo y pregunta qué hace ahí el único día del año en que no quiere ver a nadie. Facundo puede responder.

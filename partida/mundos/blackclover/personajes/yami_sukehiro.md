@@ -7,7 +7,7 @@ RELACIÓN CON FACUNDO: su capitán; lo respeta como monstruo, lo trata con confi
 ENCUENTROS:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: activo
+ESTADO: En la terraza de la base de Amanecer Dorado, esperando a William (T1284).
 ENCUENTROS:
 - T451 · ve entrar a Facundo; abre un ojo, lo mira con interés.
 TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
@@ -21,3 +21,6 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T485 · Recibe el ataque 3 (contenido). Vuela, parte dos árboles, queda tirado, consciente, riéndose. Torso quemado, costillas.
 - T486 · Facundo lo ayuda a pararse. "Hace años que nadie me hacía besar el pasto." Le revuelve el pelo: "Eres un monstruo de verdad. A los mocosos les viene bien tener uno cerca." Se va al baño.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
+
+DIÁLOGOS CLAVE:
+- T1284 · "Mira tú. El gato." "Unos días, dijiste." "Asta preguntó por ti todos los putos días durante tres semanas. Después dejó de preguntar en voz alta. Igual seguía mirando la explanada todas las mañanas." "Tu Ki está igual. Demasiado tranquilo, como un lago sin fondo." "¿Qué haces aquí, en Amanecer Dorado, en el único día del año en que no tengo ganas de ver a nadie?"

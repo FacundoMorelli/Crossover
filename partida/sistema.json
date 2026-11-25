@@ -1,8 +1,8 @@
 {
-  "turno": 1283,
+  "turno": 1284,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:15",
+  "hora": "12:16",
   "edad": 18,
   "nivel": 29,
   "exp": 290980,
@@ -81,7 +81,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 88,
+  "energia_actual_pct": 87,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
