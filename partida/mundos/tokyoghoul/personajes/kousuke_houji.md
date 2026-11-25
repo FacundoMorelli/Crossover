@@ -6,6 +6,7 @@ FÍSICO: Pelo rapado, anteojos de marco fino, cara inexpresiva.
 ENCUENTROS:
 - T1221 · Avenida 3 · Llega con Kuroiwa y Shinohara; apunta al Búho.
 DIÁLOGOS CLAVE:
+- T1227 · "Pero puede pedirlo. Tiene un herido de muerte que volvió a caminar. Tiene veintisiete hombres vivos. Tiene un detenido. Eso pesa."
 - T1226 · "No se está entregando. Se está invitando. No hay celda en la oficina central que pueda retener a alguien que detiene esto con la palma."
 - T1224 · "Esa quinque está hecha del kakuhou de un ghoul de rango S. Cortó acero. Cortó kakuja." "¿Qué eres?"
 - T1223 · "Palabras. No cambian el informe."

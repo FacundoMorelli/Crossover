@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1224)
-lo detengo con la mano
-
-## RESPUESTA 1 (T1224)
-
-> lo detengo con la mano
-
-Llegas antes que la hoja.
-
-No te ven moverte. Un instante estás junto a Koma, y al siguiente estás de pie entre Houji y el Búho, con la mano derecha abierta y levantada a la altura del hombro.
-
-La hoja curva cae sobre tu palma.
-
-Se detiene.
-
-No hay chispas. No hay sangre. Solo un sonido seco, corto, como el de una rama que choca contra una piedra. El filo queda apoyado sobre tu piel sin cortarla, y el impulso entero de Houji —el salto, el giro, todo el peso del cuerpo— se muere ahí, en tu mano, como si hubiera chocado contra una pared de diez metros de concreto.
-
-Cierras los dedos sobre la hoja.
-
-Houji queda colgado del mango, a medio metro del suelo, con los pies todavía en el aire, por un segundo que se hace muy largo. Después cae parado. Tira de la quinque una vez, con fuerza. No se mueve ni un milímetro. Tira de nuevo, con las dos manos. Nada.
-
-Detrás de ti, el Búho baja despacio los brazos larguísimos. Kaneki se quedó a dos metros, con los cuatro tentáculos levantados en el aire, sin saber qué hacer con ellos. Touka tiene la boca abierta.
-
-Kase, en tu hombro, mira a Houji de muy cerca, a la altura de los anteojos, sin pestañear.
-
-Al fondo de la avenida, Shinohara dio dos pasos hacia adelante y se quedó clavado. El de la armadura negra no se movió.
-
-Houji suelta el mango.
-
-Da un paso atrás. Se acomoda los anteojos con un dedo. La cara sigue siendo la misma, inexpresiva, plana como una pared. Pero debajo del ojo izquierdo, en la mejilla, le late un músculo que antes no se movía.
-
-—Esa quinque —dice, en el mismo tono con el que hablaría del clima— está hecha del kakuhou de un ghoul de rango S. Cortó acero. Cortó kakuja.
-
-Te mira la mano, todavía cerrada sobre la hoja. No tiene ni un rasguño.
-
-—¿Qué eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1224 · TOKYO GHOUL · DÍA 6 · 17:49     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 77                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1225)
+## COMANDO 1 (T1225)
 si quisiera matar ya podrian estar todos muertos, ya lo dijo el de la armadura negra antes
 
-## RESPUESTA 2 (T1225)
+## RESPUESTA 1 (T1225)
 
 > —Si quisiera matar, ya podrían estar todos muertos. Ya lo dijo antes el de la armadura negra.
 
@@ -101,10 +46,10 @@ Houji, a tu lado, sigue sin moverse. Pero ahora te está escuchando.
 
 ---
 
-## COMANDO 3 (T1226)
+## COMANDO 2 (T1226)
 no les voy a decir que lo se, por que no lo se, hagamos algo, voy con ustedes a la oficina y ellos se van
 
-## RESPUESTA 3 (T1226)
+## RESPUESTA 2 (T1226)
 
 > —No les voy a decir que lo sé, porque no lo sé. Hagamos algo: voy con ustedes a la oficina, y ellos se van.
 
@@ -156,7 +101,62 @@ Detrás de ti, el Búho da un paso. Uno solo. El asfalto cruje.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1227)
+esta bien, solo con la condicion que dejen ir a todos esta noche, que dejen la operacion
+
+## RESPUESTA 3 (T1227)
+
+> —Está bien. Solo con la condición de que dejen ir a todos esta noche. Que dejen la operación.
+
+Shinohara baja las esposas un poco.
+
+—Eso no lo decido yo —dice, honesto—. Ni él. —Señala a Kuroiwa con la cabeza—. Ni nadie en esta calle. La operación la manda Washuu Yoshitoki, desde el puesto de mando. Solo él puede pararla.
+
+—Pero puede pedirlo —dice Houji, sin emoción—. Tiene un herido de muerte que volvió a caminar. Tiene veintisiete hombres vivos que deberían estar muertos. Tiene un detenido. Eso pesa.
+
+Shinohara lo mira de reojo, sorprendido de que Houji diga algo así. Después suelta el aire por la nariz y se agacha junto a uno de los investigadores dormidos. Le saca la radio del cinturón. La sostiene un momento sin apretar el botón, mirándote.
+
+Aprieta.
+
+—Puesto de mando, aquí Clase Especial Shinohara, avenida 3. —La voz le sale firme, de oficina—. La unidad de Tanakamaru está fuera de combate. Repito: fuera de combate, no muertos. Veintisiete efectivos inconscientes, sin heridas. Tengo conmigo al responsable. Un humano. Se entrega voluntariamente y va a venir al puesto de mando por su cuenta. —Hace una pausa—. Su única condición es el cese de la operación. Solicito autorización para un alto el fuego en todo el distrito mientras se negocia.
+
+Estática.
+
+Pasan diez segundos. Quince. En las otras calles siguen sonando los disparos, más lejos, más esporádicos.
+
+La radio se enciende. Una voz de hombre, tranquila, educada, sin apuro, como la de alguien que habla desde un escritorio con una taza de té.
+
+—Shinohara-san. Aquí Washuu. —Una pausa breve—. Entendido. Agradezco el informe.
+
+Otra pausa.
+
+—Negativo al alto el fuego. La operación continúa hasta la eliminación del Búho, como estaba previsto. —El tono no cambia en lo más mínimo—. Traiga al detenido al puesto de mando, junto al cruce de la avenida 1. Me interesa mucho conocerlo. Y Shinohara-san... el Búho está a su lado, según entiendo. Proceda.
+
+La radio se corta.
+
+Shinohara se queda con el aparato en la mano. No dice nada. Kuroiwa aprieta el casco entre los dedos hasta que cruje el metal. Houji se acomoda los anteojos.
+
+Detrás de ti, el Búho no se mueve.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1227 · TOKYO GHOUL · DÍA 6 · 17:53     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 77                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:51, avenida 3. Shinohara acepta el trato si Facundo llega con esposas de supresión. Kaneki y Touka no quieren; el Búho da un paso. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:53, avenida 3. Washuu Yoshitoki negó el alto el fuego y ordenó proceder contra el Búho y llevar a Facundo al puesto de mando. Los tres Clase Especial quietos. Facundo puede actuar.
