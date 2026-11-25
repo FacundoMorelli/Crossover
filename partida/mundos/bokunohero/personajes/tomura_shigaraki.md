@@ -7,9 +7,10 @@ FÍSICO: Flaco hasta lo enfermizo, pelo largo blanco revuelto, piel seca agrieta
 PERSONALIDAD: Rabioso, risa rota, no se rinde.
 RELACIÓN: Primer encuentro T1122.
 ENCUENTROS:
+- T1123 · Facundo dice su nombre y lo deja inconsciente.
 - T1122 · Valle arrasado · Facundo llega en medio de su pelea contra Gigantomachia.
 DIÁLOGOS CLAVE:
 - T1122 · "Otra vez, maldito..." "¿Y tú quién demonios eres?"
-QUÉ SABE DE FACUNDO: Nada.
+QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1123).
 QUÉ PODERES VIO: Ninguno (Facundo ya estaba ahí).
-ESTADO: Agotado, peleando contra Gigantomachia.
+ESTADO: Inconsciente (T1123, golpe de Facundo).

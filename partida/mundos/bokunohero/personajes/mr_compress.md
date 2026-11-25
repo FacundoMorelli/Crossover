@@ -14,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1119 · "Dabi, querido. Fíjate en el gato."
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1120). Que apareció dentro de la cabaña sin puerta, con un gato en el hombro.
 QUÉ PODERES VIO: La aparición (teletransporte).
-ESTADO: Inconsciente en la cabaña (T1121, golpe de Facundo que nadie vio).
+ESTADO: Inconsciente en la cabaña, dentro del Recinto de Sakaime (T1123).

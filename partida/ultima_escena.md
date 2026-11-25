@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1120)
-mucho gusto, me llamo Facundo Morelli, hago una reverencia teatral
-
-## RESPUESTA 1 (T1120)
-
-> —Mucho gusto. Me llamo Facundo Morelli.
-
-Haces una reverencia teatral: una mano al pecho, la otra hacia un costado, la cabeza bien baja. Kase se agarra con las uñas a tu hombro para no caerse.
-
-El de la máscara de teatro aplaude. Tres palmadas lentas, enguantadas.
-
-—¡Oh! —dice, encantado—. ¡Por fin alguien con modales! Señores, tomen nota. Así se hace una entrada.
-
-—Compress —dice el de las quemaduras, sin mirarlo.
-
-—Ya sé, ya sé. Pero hay que reconocerlo.
-
-La chica rubia se ríe y deja la piedra de afilar en el colchón. El cuchillo, no.
-
-—Facundo —repite, probando el nombre como si fuera un caramelo—. Qué lindo. ¿Y el gatito cómo se llama?
-
-—¡Toga, no le preguntes el nombre al gato! —salta el de cara de lagarto, todavía de pie, con las manos en alto como si no supiera qué hacer con ellas—. ¡Apareció de la nada! ¡Adentro! ¡Eso es lo único que importa!
-
-—¡Exacto! —dice el del traje negro y blanco—. ¡Qué gato tan bonito! ¡No, qué miedo!
-
-El de las quemaduras no se ríe.
-
-—Tres —dice.
-
-El humo azul de la palma se vuelve llama. Pequeña, apretada, casi blanca en el centro. La estufa del rincón parece apagada al lado de eso.
-
-—Te pregunté cómo nos encontraste —dice Dabi—. Y me contestaste tu nombre. —Ladea la cabeza, aburrido—. Dos.
-
-Mr. Compress saca la mano del bolsillo. Tiene algo entre los dedos, una canica de vidrio que gira y brilla con la luz de la llama.
-
-Toga se levanta del colchón, muy despacio, sin dejar de sonreír.
-
-Afuera, la montaña vuelve a temblar.
-
-—Uno.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1120 · BOKU NO HERO · DIC. · 12:04     ║
-║ Montañas del noroeste · cabaña de la Liga    ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a la Liga                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1121)
+## COMANDO 1 (T1121)
 digo 0 lentamente y los dejo inconscientes
 
-## RESPUESTA 2 (T1121)
+## RESPUESTA 1 (T1121)
 
 > —Cero.
 
@@ -117,10 +57,10 @@ En la cabaña, cinco villanos de la Liga duermen en el piso.
 
 ---
 
-## COMANDO 3 (T1122)
+## COMANDO 2 (T1122)
 voy a donde está Shigaraki peleando con Gigantomachia
 
-## RESPUESTA 3 (T1122)
+## RESPUESTA 2 (T1122)
 
 > voy a donde está Shigaraki peleando con Gigantomachia
 
@@ -180,4 +120,65 @@ El muchacho se queda quieto, a cuatro patas en la nieve, jadeando. Te mira con u
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:06, valle arrasado. Shigaraki (a cuatro patas, agotado) y Gigantomachia miran a Facundo. Shigaraki: "¿Y tú quién demonios eres?" Los 5 de la Liga inconscientes en la cabaña a un par de km. Facundo puede actuar.
+## COMANDO 3 (T1123)
+me llamo Facundo Morelli, los dejo inconscientes a los dos y llevo a shigaraki a la cabaña con los otros y les pongo una barrera con sakaime para que nada pueda entrar ni salir
+
+## RESPUESTA 3 (T1123)
+
+> —Me llamo Facundo Morelli.
+
+Shigaraki abre la boca para contestar algo.
+
+No llega.
+
+Se desploma de cara en la nieve, con los cinco dedos todavía abiertos. La tierra bajo su mano no se pudre.
+
+El gigante tarda un poco más. Se queda de pie un segundo, con la mirada perdida, y después se va hacia atrás, enorme, despacio, como un edificio al que le cortan los cimientos. Cuando toca el suelo, el valle entero tiembla. Una avalancha chica se desprende de la ladera y se le acumula contra el costado.
+
+Después, silencio. Por primera vez en quién sabe cuántas semanas, la montaña se queda quieta.
+
+Levantas a Shigaraki. No pesa casi nada. Es todo huesos y piel agrietada.
+
+Y estás de nuevo en la cabaña.
+
+La olla de Twice sigue hirviendo. Los cinco siguen donde cayeron. Dejas a Shigaraki en un colchón, al lado de Toga, y sales a la nieve.
+
+Sacas a Sakaime de la nada. La katana de guarda cuadrada negra pesa lo justo en tu mano.
+
+—Traza, Sakaime.
+
+La línea plateada de la hoja se enciende. Trazas en el aire: una línea en el suelo, alrededor de toda la cabaña, cerrando un cuadrado. Las paredes-frontera se levantan, transparentes, apenas un brillo en el aire que distorsiona la nieve que cae. Después, cuatro trazos más arriba, sobre el techo de la cabaña, que cierran el último plano.
+
+Una caja. Sin puertas, sin grietas.
+
+Un copo de nieve choca contra la frontera de arriba y se queda ahí, pegado, sin poder pasar.
+
+[Recinto de Sakaime cerrado en seis caras alrededor de la cabaña. Nada entra ni sale.]
+
+[Aviso: eso incluye el aire. Seis personas en una cabaña cerrada, con una estufa encendida: unas pocas horas.]
+
+Kase mira la caja, después te mira a ti, y mueve la cola despacio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1123 · BOKU NO HERO · DIC. · 12:07     ║
+║ Montañas del noroeste · afuera de la cabaña  ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Sakaime: en la mano (Shikai)                 ║
+║ Recinto activo: cabaña de la Liga (6 caras)  ║
+║ Liga: Shigaraki + 5 inconscientes adentro    ║
+║ Gigantomachia: inconsciente en el valle      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a la Liga                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:07, afuera de la cabaña. Recinto de Sakaime de 6 caras (sin aire: unas pocas horas). Adentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes. Gigantomachia inconsciente en el valle. All Might en Tartarus. Facundo puede actuar.

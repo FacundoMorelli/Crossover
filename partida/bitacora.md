@@ -1121,3 +1121,4 @@ T1119 · BnHA · Cabaña de la Liga · Aparece entre Dabi, Toga, Twice, Spinner 
 T1120 · BnHA · Cabaña de la Liga · Reverencia teatral y nombre. Compress aplaude. Dabi cuenta hasta uno.
 T1121 · BnHA · Cabaña de la Liga · "Cero." Cinco villanos inconscientes. Shigaraki y Giganto siguen peleando sin notar nada.
 T1122 · BnHA · Valle arrasado · Llega a la pelea Shigaraki vs Gigantomachia. Pisotón a 20 m. Shigaraki: "¿Y tú quién demonios eres?"
+T1123 · BnHA · Montañas · Shigaraki y Giganto inconscientes. Shigaraki a la cabaña. Recinto de Sakaime de 6 caras. Aviso: tampoco pasa el aire.
