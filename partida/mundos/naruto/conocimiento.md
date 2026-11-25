@@ -35,3 +35,6 @@
 - Chūnin del terreno sur · T1319 · ven al forastero de pelo blanco y azul con Yamato.
 ## QUIÉN VIO QUÉ PODERES (cont.)
 - Yamato + 6 chūnin del terreno sur · T1320 · vieron la Hana Hana no Mi: cientos de brazos con tatuajes de dragón brotando de cualquier superficie, con pétalos. Lo interpretan como técnica secreta de un clan desconocido. Nadie sintió chakra (Velo). Poder de otro mundo: llama la atención; Yamato sospecha (clan desconocido).
+- Yamato · T1321 · por Facundo: no tiene clan; viajero. Yamato no pregunta más.
+- Facundo · T1321 · por Yamato: su Mokuton vino de un laboratorio (60 chicos, único sobreviviente).
+- Chūnin del terreno sur · T1321 · uno corre al campamento a avisar que están las casas del sur (y, de paso, lo de los brazos).

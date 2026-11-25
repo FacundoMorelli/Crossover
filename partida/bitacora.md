@@ -1319,3 +1319,4 @@ T1317 · NARUTO · Carpa de la colina · "Sé pelear." Tsunade se ríe ("aquí s
 T1318 · NARUTO · Carpa médica del este · Va con Yamato. Los 43 graves y los 2 médicos curados. Yamato deduce lo de la Hokage; reverencia larga: "Gracias. Hace una hora casi te ato al suelo." "¿Qué haces aquí?"
 T1319 · NARUTO · Borde sur del cráter · "Tsunade me dijo que te ayude a despejar." Yamato: "Te debe la vida y te manda a cargar piedras." Terreno para 4 casas; el Mokuton necesita tierra limpia. "¿Empiezas?"
 T1320 · NARUTO · Terreno sur · Hana Hana no Mi: cientos de brazos limpian el terreno en 10 minutos y apartan los objetos personales. Yamato: no es clon ni invocación, no sintió chakra. "¿De qué clan eres, Facundo?"
+T1321 · NARUTO · Terreno sur · "No tengo clan, soy un viajero." Yamato: "Yo tampoco tengo clan" (laboratorio, 60 chicos, único sobreviviente). Advierte de Danzō. Levanta 4 casas con Mokuton. "¿Dónde vas a dormir tú esta noche?"

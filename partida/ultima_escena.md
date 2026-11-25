@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1318)
-
-voy con yamato
-
-## RESPUESTA 1 (T1318)
-
-> voy con yamato
-
-Bajas por la loma entre la gente que sube corriendo a ver a la Hokage. Nadie te mira ahora: todos miran hacia arriba. Una mujer llora abrazada a un ninja con muletas. Un viejo se saca el sombrero.
-
-La casa nueva de madera está vacía. Yamato no está.
-
-Lo encuentras en el lado este del campamento, frente a la carpa grande de la cruz roja. Tiene la bolsa de tela vacía colgando de una mano, dada vuelta, y está parado en la entrada sin moverse, mirando para adentro.
-
-Adentro hay cuarenta y tres catres. En casi todos, la gente está sentada.
-
-Un ninja con el pecho vendado se arranca las vendas y se mira la piel sana, tocándose con los dedos como si no fuera suya. Una chica con el brazo en cabestrillo mueve el brazo en círculos y se ríe, y se pone a llorar, y se ríe otra vez. Un hombre mayor que tenía la cabeza envuelta pide comida a los gritos. Los dos médicos, cada uno con una semilla recién tragada, ya no parecen a punto de caerse: uno revisa a un paciente con las manos verdes encendidas y repite "no puede ser, no puede ser" en voz baja.
-
-Yamato se da vuelta y te ve.
-
-Se queda callado un momento. Después mira hacia la loma, de donde todavía llegan los gritos.
-
-—La Hokage —dice—. También fue tu semilla.
-
-No es una pregunta.
-
-Aprieta la bolsa vacía en el puño, y por primera vez desde que lo conociste, no sabe qué hacer con la cara. Hace una reverencia, esta vez larga, de cintura, y se queda así un segundo de más.
-
-—Gracias. —Se endereza—. Hace una hora casi te ato al suelo.
-
-Atrás, en la carpa, alguien tira un catre al levantarse y se oyen risas.
-
-—¿Qué haces aquí? —pregunta Yamato—. Pensé que Tsunade-sama no te iba a soltar en todo el día.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1318 · NARUTO · DÍA 1 · 08:38          ║
-║ Konoha · campamento este · carpa médica      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Ayudar a Yamato con los escombros  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1319)
+## COMANDO 1 (T1319)
 
 me dijo que venga a ayudarte a despejar la zona para hacer casas
 
-## RESPUESTA 2 (T1319)
+## RESPUESTA 1 (T1319)
 
 > me dijo que venga a ayudarte a despejar la zona para hacer casas
 
@@ -101,11 +50,11 @@ Se arremanga el chaleco.
 
 ---
 
-## COMANDO 3 (T1320)
+## COMANDO 2 (T1320)
 
 uso la hana hana no mi para hacer todo el trabajo
 
-## RESPUESTA 3 (T1320)
+## RESPUESTA 2 (T1320)
 
 > uso la hana hana no mi para hacer todo el trabajo
 
@@ -156,4 +105,57 @@ Se rasca la nuca, igual que Kakashi.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:58, terreno del borde sur. Con la Hana Hana no Mi (cientos de brazos con tatuajes de dragón, pétalos), Facundo limpió el terreno entero en 10 minutos y apartó los objetos personales (foto, cuaderno, caja, muñeca, el letrero del ramen). Los chūnin, mudos. Yamato no sintió chakra; no es clon ni invocación. "¿De qué clan eres, Facundo?" Facundo tiene que contestar.
+## COMANDO 3 (T1321)
+
+no tengo clan, soy un viajero
+
+## RESPUESTA 3 (T1321)
+
+> no tengo clan, soy un viajero
+
+> —No tengo clan. Soy un viajero.
+
+Yamato se te queda mirando. Esperas que insista, como insistió con lo del bosque.
+
+No insiste.
+
+—Yo tampoco tengo clan —dice al fin, más bajo—. Este Mokuton no lo heredé de nadie. Me lo pusieron de chico, en un laboratorio, junto a otros sesenta chicos. Fui el único que sobrevivió.
+
+Lo dice sin drama, como quien comenta el clima. Se mira las manos un segundo.
+
+—Así que no voy a ser yo el que le pregunte a alguien de dónde sacó lo que tiene. —Te mira de reojo—. Aunque Tsunade-sama te lo va a preguntar. Y Danzō también, si se entera. Él no va a preguntar tan amable.
+
+Se da vuelta hacia el terreno limpio y junta las manos frente al pecho. Un sello, otro, otro.
+
+—Estilo Madera: ¡Técnica de la Casa de Cuatro Pilares!
+
+La tierra húmeda se abre en cuatro puntos y de cada uno brota un tronco grueso que sube, se ramifica y se curva. Las ramas se aplanan en tablones, los tablones se encastran solos, y en menos de un minuto hay cuatro casas de dos pisos en fila, con ventanas, puertas, techos inclinados y hasta escalones en la entrada. Huele a madera recién cortada.
+
+Los chūnin aplauden, todavía medio atontados. Uno de ellos sale corriendo hacia el campamento, gritando que ya están las casas del sur.
+
+Yamato baja las manos. Respira hondo. Tiene una gota de sudor en la sien, pero sonríe apenas.
+
+—Con tierra limpia, salen solas. —Se da vuelta hacia ti—. Hace dos días que estábamos atrasados con este terreno. Lo hiciste en diez minutos.
+
+Se queda pensando un momento.
+
+—Ahora que lo pienso, viajero. Hay cuatro casas para familias, cientos de carpas y nadie anotó tu nombre en ninguna lista. —Se cruza de brazos—. ¿Dónde vas a dormir tú esta noche?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1321 · NARUTO · DÍA 1 · 09:03          ║
+║ Konoha · borde sur del cráter · 4 casas      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:03, borde sur del cráter. "No tengo clan." Yamato tampoco (Mokuton de laboratorio, único sobreviviente de 60); no pregunta más, pero avisa que Tsunade preguntará y Danzō "no tan amable". Levantó 4 casas con Mokuton en un minuto. Pregunta: "¿Dónde vas a dormir tú esta noche?" Facundo tiene que contestar. (Misión de copia: que Yamato le construya una casa.)
