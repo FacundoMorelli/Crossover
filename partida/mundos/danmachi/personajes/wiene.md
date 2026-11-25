@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: esperanza cautelosa (T1068).
 ENCUENTROS:
 - T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:
+- T1077 · "Estamos en casa, Facundo. Estamos en casa."
 - T1076 · "Te la devuelvo. Para que no tengas frío tú." "Me voy a casa, Bell. Abajo. Con todos. Facundo nos lleva."
 - T1075 · "¡Facundo nos encontró, Bell! Curó a Rei. Curó a Fia. ¡Y nos va a llevar a casa! ¡Sin que nadie nos vea!"
 - T1074 · "¡BELL!" (llora y ríe abrazada a él)
@@ -18,4 +19,4 @@ DIÁLOGOS CLAVE:
 - T1067 · "¿Bell...? ¿Viene Bell?"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1067).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en el sótano de la panadería quemada con Lido (T1067); asustada, quiere ver a Bell.
+ESTADO: en casa, piso 20, aldea de los Xenos (T1077).

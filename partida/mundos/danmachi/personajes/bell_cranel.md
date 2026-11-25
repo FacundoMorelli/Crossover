@@ -14,4 +14,4 @@ DIÁLOGOS CLAVE:
 - T1074 · "¿Wiene...? ¡Wiene! ¿Cómo...? ¿Qué haces aquí? ¡Afuera está lleno de...!"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1074).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en la Hearthstone Manor, despierto, abrazando a Wiene (T1074).
+ESTADO: en el piso 20 con los Xenos (T1077); Hestia lo espera antes del amanecer.

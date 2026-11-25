@@ -3,90 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1074)
-sí, toco a Wiene y me teletransporto a la casa de Bell
-
-## RESPUESTA 1 (T1074)
-
-> sí, toco a Wiene y me teletransporto a la casa de Bell
-
-> —Sí.
-
-Le tiendes la mano a Wiene. Ella la mira un segundo, con los ojos dorados enormes, y después la agarra con las dos manos, fuerte, con la capa de Bell todavía colgándole de un brazo.
-
-—Cuídenlos —le dice Lido a Gros, en voz baja, sin dejar de mirarte—. Si en diez minutos no vuelven...
-
-No escuchas el resto.
-
-El sótano desaparece.
-
-Aparecen en una sala.
-
-Hay luz: una lámpara de piedra mágica en una mesa baja, otra en la pared. Una alfombra gastada, un sillón viejo de cuero, una chimenea apagada con brasas todavía rojas. Huele a té frío y a madera. Las ventanas están cerradas con las cortinas corridas, y detrás de las cortinas se escucha el ruido de la ciudad: las campanas, los gritos, botas que pasan corriendo por la calle.
-
-Hay cinco personas en la sala. Todas despiertas. Todas vestidas.
-
-Una nena de pelo negro atado en dos coletas largas, con un vestido blanco y una cinta azul cruzándole el pecho, de pie junto a la chimenea con los brazos cruzados. Una chica bajita, de pelo castaño y orejas de no humana, sentada en el borde del sillón con una mochila enorme a los pies. Un muchacho pelirrojo con un trapo atado en la frente, apoyado en la pared con los brazos cruzados. Una chica de pelo negro corto y ropa de oriente, con una katana en las rodillas. Una muchacha zorro de pelo dorado y colas esponjosas, que se tapa la boca al verte.
-
-Y en el medio de la sala, de pie, un chico.
-
-Bajito. Pelo blanco, despeinado. Ojos rojos, enormes, con ojeras de no haber dormido en dos días. Una armadura ligera a medio poner, con una correa suelta. Estaba diciendo algo. Se le quedó la palabra en la boca.
-
-╔════════════════════════════════════════╗
-║ BELL CRANEL                            ║
-║ Familia Hestia · Nivel 3               ║
-║ PODER: Firebolt, Argonaut              ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú, x170 sobre él ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-
-Wiene suelta tu mano.
-
-—¡BELL!
-
-Cruza la sala corriendo, con la capa arrastrando, la cola levantada, y se le tira encima. Bell la ataja por reflejo. Tambalea dos pasos hacia atrás con ella en los brazos. La mira, sin poder creerlo.
-
-—¿Wiene...? ¡Wiene! ¿Cómo...? ¿Qué haces aquí? ¡Afuera está lleno de...!
-
-Wiene no le contesta. Le esconde la cara en el pecho, contra la armadura, y llora y se ríe al mismo tiempo.
-
-El muchacho pelirrojo se despega de la pared con la mano en el mango de una espada enorme. La chica de la katana se pone de pie de un salto. La de la mochila se esconde detrás del sillón.
-
-La nena de las coletas no se mueve. Te mira a ti. Directo a los ojos, del rojo al azul, con una mirada que no es de nena. Es mucho más vieja que la cara que tiene.
-
-—Tú —dice. La voz es clara, firme, sin miedo—. El de las campanas. El que buscan.
-
-Da un paso hacia ti, con las manos en la cintura, entre tú y Bell.
-
-—Apareciste en mi casa de la nada. Con una de ellos. —Te mira el pelo, la cicatriz, el gato—. Soy la diosa Hestia, y esta es mi Familia. Y a mí no se me puede mentir, así que piensa bien lo que vas a decir.
-
-Inclina la cabeza.
-
-—¿Quién eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1074 · DANMACHI · NOCHE 2 · 00:23      ║
-║ Orario · Hearthstone Manor, la sala          ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: La despedida de Wiene              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1075)
+## COMANDO 1 (T1075)
 me llamo Facundo Morelli, un viajero
 
-## RESPUESTA 2 (T1075)
+## RESPUESTA 1 (T1075)
 
 > me llamo Facundo Morelli, un viajero
 
@@ -140,10 +60,10 @@ Una pausa.
 
 ---
 
-## COMANDO 3 (T1076)
+## COMANDO 2 (T1076)
 tengo una mision, y no se ven malos, no conozco nada de aqui, pero solo se parecen a los mounstros, pero ninguno es, no creo que se merezca que los maten
 
-## RESPUESTA 3 (T1076)
+## RESPUESTA 2 (T1076)
 
 > tengo una mision, y no se ven malos, no conozco nada de aqui, pero solo se parecen a los mounstros, pero ninguno es, no creo que se merezca que los maten
 
@@ -205,4 +125,113 @@ Y te mira a ti, con una cara distinta. Decidida.
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:27, Hearthstone Manor. Hestia confirma que Facundo dice la verdad y se conmueve. Wiene le devolvió la capa a Bell y se despidió. Bell pide ir con ellos hasta la Mazmorra y recuerda a Asterius. Facundo puede responder.
+## COMANDO 3 (T1077)
+esta bien, agarrate a mi, me teletransporto con wiene y bell con el minotauro, lo agarro lo llevo a donde estan los demas y los llevo a todos a la mazmorra al piso 20
+
+## RESPUESTA 3 (T1077)
+
+> esta bien, agarrate a mi, me teletransporto con wiene y bell con el minotauro, lo agarro lo llevo a donde estan los demas y los llevo a todos a la mazmorra al piso 20
+
+> —Está bien. Agárrate de mí.
+
+Bell no duda. Se cuelga la capa al cuello y te agarra del brazo. Wiene te toma de la otra mano.
+
+—¡Bell! —Hestia da un paso hacia adelante—. ¡Vuelve antes del amanecer! ¡Y vuelve entero, ¿me oíste?!
+
+La sala desaparece.
+
+Lo buscas mientras viajas. No es difícil: en toda la ciudad no hay otra presencia como la suya. Pesada, caliente, enorme, como una fragua encendida debajo de la tierra.
+
+[00:28 · Borde de Dédalo, un depósito derrumbado.]
+
+Aparecen entre escombros. Un galpón de piedra con el techo hundido, vigas caídas, polvo. La luna entra por el agujero del techo.
+
+En el fondo, sentado contra la pared, hay un toro.
+
+Un minotauro negro, gigantesco, más alto sentado que tú de pie, con cuernos curvos como lanzas y un hacha doble del tamaño de una puerta apoyada contra el muro. Le falta el brazo izquierdo desde el hombro. El muñón está vendado con trapos sucios, negros de sangre seca. Respira despacio, con un ruido de fuelle.
+
+Abre los ojos. Rojos. Te ve. Ve a Wiene.
+
+Ve a Bell.
+
+Se levanta. De golpe, entero, con la mano sana en el mango del hacha, y el galpón entero cruje. Los ojos se le encienden.
+
+╔════════════════════════════════════════╗
+║ ASTERIUS                               ║
+║ Xenos · Minotauro negro                ║
+║ PODER: fuerza y hacha (≈Nivel 7)       ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x60 sobre él  ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+
+—Tú... —La voz le sale del fondo del pecho, como un trueno lento. Mira solo a Bell—. Al fin.
+
+Bell suelta tu brazo y da un paso adelante, sin pensar, con la mano en el cuchillo de la cintura.
+
+No le das tiempo a ninguno de los dos.
+
+Cruzas el galpón y le agarras el cuerno al minotauro con una mano.
+
+Asterius se queda inmóvil, con el hacha a medio levantar, mirándote de cerca, sin entender por qué no puede mover la cabeza.
+
+El galpón desaparece.
+
+[00:29 · Sótano de la panadería quemada.]
+
+Diecisiete cuerpos en un sótano para cuatro. Los Xenos gritan al ver aparecer al minotauro. La lamia se esconde detrás del troll. Lido levanta las cimitarras. Gros abre las alas. Asterius, con el cuerno todavía en tu mano, mira alrededor, a sus compañeros, y baja despacio el hacha.
+
+No hace falta decir nada.
+
+Lido entiende primero. Pone la mano en tu espalda. Rei, el ala. Gros, la garra. Fia, el goblin, la lamia, Aruru, los demás, uno detrás de otro, en cadena, mano sobre hombro, ala sobre brazo. El troll alarga un dedo enorme y te toca la bota. Wiene sigue con tu mano. Bell, con tu brazo.
+
+El sótano desaparece.
+
+[00:30 · La Mazmorra · piso 20.]
+
+Luz.
+
+No la del sol: una luz verde, dorada, suave, que sale de todas partes a la vez. Del suelo, cubierto de un musgo que brilla. De las paredes, que no son paredes sino raíces, raíces gigantescas, más gruesas que torres, que suben y se entrelazan hasta perderse en una bóveda de ramas y hojas que también brillan. Del aire, lleno de motas luminosas que flotan como polen. Huele a tierra mojada, a savia, a flores que no existen arriba.
+
+Es un bosque adentro de la tierra. Un árbol colosal visto desde adentro.
+
+Entre las raíces hay chozas de madera y tela, hamacas, fogones apagados, jarras de barro, una ropa tendida. Algunas cosas rotas, de algún ataque. Pero está todo ahí.
+
+Los Xenos no dicen nada.
+
+Después la lamia rompe a llorar en voz alta. El goblin tira la espada rota al musgo y se tira de espaldas encima, riéndose. Fia levanta vuelo y da tres vueltas en el aire, chillando de alegría. Aruru salta en el lugar como un conejo de verdad. Gros se queda quieto, mirando las raíces, con la cara de piedra torcida en algo que podría ser una sonrisa. Rei canta. Esta vez una canción entera, y nadie la hace callar.
+
+Lido se da vuelta hacia ti. Se agacha hasta tocar el musgo con la frente escamosa, y se queda así, inclinado, en silencio.
+
+[Misión de Mundo cumplida: todos los Xenos atrapados en la superficie volvieron a la Mazmorra, y no murió ninguno.]
+
+[+10.000 EXP · +300 Fragmentos.]
+
+Asterius suelta el hacha en el musgo. Se queda de pie, enorme, a un lado, con el brazo que no tiene vendado. Mira a Bell, que está parado en medio de la aldea, con la capa al cuello y la boca abierta.
+
+—Esto no termina aquí, humano —le dice. Despacio. Sin furia—. Cuando tenga mi brazo otra vez, voy a volver a buscarte. Arriba o abajo.
+
+Bell lo mira. Traga saliva. Asiente.
+
+Y Wiene, todavía agarrada de tu mano, te tira de los dedos para que la mires.
+
+—Estamos en casa, Facundo —dice. Le brillan los ojos como el musgo—. Estamos en casa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1077 · DANMACHI · NOCHE 2 · 00:31      ║
+║ La Mazmorra · piso 20, aldea de los Xenos    ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:31, piso 20 de la Mazmorra, aldea de los Xenos. Los 15 Xenos en casa (Asterius incluido). Misión de Mundo cumplida (9 mundos). Bell está con ellos y debe volver antes del amanecer. Facundo puede actuar.

@@ -1075,3 +1075,4 @@ T1073 · DanMachi · (simulado) Fia curada; Knossos: 8 Xenos con el troll; los 1
 T1074 · DanMachi · Hearthstone Manor · Teletransporte con Wiene. "¡BELL!" Hestia: "A mí no se me puede mentir. ¿Quién eres?"
 T1075 · DanMachi · Hearthstone Manor · "Facundo Morelli, un viajero." Hestia: "Es verdad." Wiene cuenta todo. "¿Qué ganas tú, Facundo Morelli?"
 T1076 · DanMachi · Hearthstone Manor · "No merecen que los maten." Hestia: "Verdad. Todo." Wiene devuelve la capa a Bell. Bell: "¿Puedo ir con ustedes? Y está Asterius."
+T1077 · DanMachi · Piso 20 · Recoge a Asterius (del cuerno), junta a todos y los lleva al piso 20. MISIÓN DE MUNDO CUMPLIDA. 9 mundos. Asterius a Bell: "Voy a volver a buscarte." Wiene: "Estamos en casa."

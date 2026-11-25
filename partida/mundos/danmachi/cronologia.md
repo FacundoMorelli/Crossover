@@ -31,3 +31,5 @@
 - Noche 2 00:10 · (T1073) Bete y su patrulla despiertan e informan.
 - Noche 2 00:20 · (T1073) Alarma general en Orario; la Familia Loki entera sale por orden de Finn a buscar al "humano del gato". Ais en los techos de Dédalo.
 - Noche 2 00:27 · (T1076) Wiene se despide de Bell en la Hearthstone Manor y le devuelve la capa.
+- Noche 2 00:28 · (T1077) Facundo encuentra a Asterius en un depósito derrumbado al borde de Dédalo y lo lleva con los demás.
+- Noche 2 00:30 · (T1077) Facundo lleva a los 15 Xenos (y a Bell) al piso 20. MISIÓN DE MUNDO CUMPLIDA. CAMBIO TOTAL del vol. 11: sin escaramuza, sin Ais vs Wiene, sin duelo público Bell vs Asterius; la ciudad no ve el heroísmo de Bell (su reputación sigue mal, por ahora).

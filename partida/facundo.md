@@ -46,3 +46,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 
 ### DanMachi
 - Turno 1061 · Cruza la Puerta desde Kakin. Llega a la Calle Dédalo de Orario (vol. 11). Don de Mundo: Falna del Eclipse con la Skill Égida del Juramento.
+- Turno 1077 · MISIÓN DE MUNDO DE DANMACHI CUMPLIDA: los 15 Xenos de la superficie, de vuelta en el piso 20. Venció a Bete Loga.

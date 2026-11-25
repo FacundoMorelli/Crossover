@@ -16,4 +16,4 @@ DIÁLOGOS CLAVE:
 - T1067 · "¡Atrás! ¡Un paso más y...!" "¿Gros? ¿Quién es este? ¡La puerta está tapiada!" "Gros no confía en ningún humano. Ni en Bellucchi confió del todo al principio. Y te trajo hasta aquí. ¿Quién diablos eres, compañero?"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1067).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: en el sótano de la panadería quemada, protegiendo a Wiene (T1067).
+ESTADO: en casa, piso 20, aldea de los Xenos (T1077).

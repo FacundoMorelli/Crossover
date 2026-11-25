@@ -6,3 +6,4 @@ DON DE MUNDO: Falna del Eclipse · Égida del Juramento (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
 - T1066 · Bete Loga y una patrulla de Ganesha/Loki derrotados por Facundo en Dédalo.
+- T1077 · Los 15 Xenos de la superficie vuelven al piso 20 por Facundo, ninguno muerto. MISIÓN DE MUNDO CUMPLIDA. En el canon, Bell recuperaba su fama con el duelo contra Asterius: ahora no ocurrió.

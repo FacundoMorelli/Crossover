@@ -12,4 +12,4 @@ DIÁLOGOS CLAVE:
 - (no habla)
 QUÉ SABE DE FACUNDO: lo ve aparecer (T1072).
 QUÉ PODERES DE FACUNDO VIO: teletransporte.
-ESTADO: en el sótano de la panadería con los demás (T1073).
+ESTADO: en casa, piso 20, aldea de los Xenos (T1077).

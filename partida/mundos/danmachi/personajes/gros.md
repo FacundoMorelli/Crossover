@@ -18,4 +18,4 @@ DIÁLOGOS CLAVE:
 - T1062 · "Humano. Me ves. Me hablas. Y no gritas." "¿De qué Familia eres? ¿Ikelos? Si vienes a terminar su trabajo, te arranco la garganta." "Nadie en esta ciudad quiere llevarnos a ningún lado. Solo el chico blanco." "¿Quién eres? Contesta rápido, humano."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1063).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: herido (grieta en un ala, mancha en el costado), en el techo de al lado, tenso (T1062).
+ESTADO: en casa, piso 20, aldea de los Xenos (T1077).

@@ -188,3 +188,4 @@
 - MISIÓN: Que todos los Xenos atrapados en la superficie vuelvan a la Mazmorra sin que muera ninguno.
 - RECOMPENSA: 10.000 EXP · 300 Fragmentos
 - VENCE: nunca · CAMBIADA: no
+- CUMPLIDA: T1077 · Noche 2 00:30. Los 15 Xenos en el piso 20, ninguno muerto. +10.000 EXP, +300 F. Mundos completados: 9.
