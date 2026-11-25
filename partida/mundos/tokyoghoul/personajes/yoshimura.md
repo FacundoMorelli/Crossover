@@ -9,8 +9,9 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1158 · "Ukaku, koukaku, rinkaku, bikaku. En setenta años nunca vi a un ghoul con más de uno. Ni a uno que oliera a humano. Y tampoco vi nunca un kagune que no tuviera hambre."
 - T1157 · "Me llamo Yoshimura. Soy el gerente de este lugar." "Usted es humano, ¿verdad? Huele como uno." "Me gustaría saber qué busca un humano como usted en un lugar como este."
 - T1156 · "Kaneki me dice que fue usted quien los trajo. A todos. Pasen, por favor. Les voy a preparar café."
 QUÉ SABE DE FACUNDO: Por Kaneki: trajo a todos y salvó a un investigador de Clase Especial delante de él. Huele y respira como humano (T1157).
-QUÉ PODERES VIO: Ninguno (lo "miró" con su presencia).
+QUÉ PODERES VIO: Ninguno (lo "miró" con su presencia). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
 ESTADO: Abre la puerta de Anteiku.

@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1155)
-diganme cual es un lugar seguro
-
-## RESPUESTA 1 (T1155)
-
-> —Díganme cuál es un lugar seguro.
-
-Se miran entre ellos.
-
-El grandote es el primero en hablar, con la mano todavía apretada contra las costillas.
-
-—El escondite —dice—. Nuestro departamento, en el Distrito 20. Nadie de la CCG lo conoce. —Hace una mueca de dolor—. Tiene comida. Necesito comer algo para que esto cierre.
-
-Uno de los de las máscaras asiente, rápido.
-
-—Si me permiten —dice el de pelo violeta, con una sonrisa elegante pese a la cara cortada en diagonal—, la residencia de mi familia es infinitamente más cómoda que ese cuchitril. Tiene médico privado, cocina, sábanas de seda y unos muros que ni el Búho podría cruzar. —Se lleva una mano al pecho—. Y mi padre estaría encantado de recibir a Kaneki.
-
-—No —dice Kaneki enseguida, sin mirarlo.
-
-El de pelo violeta suspira, teatral, y no insiste.
-
-La chica sigue abrazada a Kaneki. Levanta la vista despacio, primero hacia él, después hacia ti. Tiene la voz muy bajita.
-
-—Anteiku —dice.
-
-Kaneki se pone rígido.
-
-—Hinami...
-
-—El señor Yoshimura siempre dijo que podíamos volver —insiste ella, todavía más bajito—. Que la puerta estaba abierta. Touka está ahí. Y el señor Yomo. —Le aprieta la manga—. Ahí nunca me pasó nada malo, hermano.
-
-Kaneki no contesta. Mira el suelo. Se le aprieta la mandíbula.
-
-—Yo me fui de ahí —murmura—. Me fui para protegerlos. Si vuelvo así, con la CCG buscándome... —Se mira las manos manchadas—. Si vuelvo así, los voy a poner en peligro a todos.
-
-El grandote resopla desde el tronco.
-
-—Kaneki, ya nos están buscando igual.
-
-Se hace un silencio. Solo el viento en los árboles y, abajo, las olas.
-
-Kaneki levanta la cabeza y te mira a ti.
-
-—El escondite está en el Distrito 20, cerca del río. Anteiku también, en el centro, a unas cuadras de la estación. —Hace una pausa—. Tú decides. Pero si es Anteiku... —Traga saliva—. Si es Anteiku, quiero entrar yo primero. Solo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1155 · TOKYO GHOUL · NOCHE · 23:47     ║
-║ Acantilado, bosque frente a la mansión       ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: Llevarlos a un lugar seguro        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1156)
+## COMANDO 1 (T1156)
 me teletransporto afuera de anteiku, ahi esta kaneki, entra tu primero
 
-## RESPUESTA 2 (T1156)
+## RESPUESTA 1 (T1156)
 
 > me teletransporto afuera de Anteiku
 
@@ -141,10 +77,10 @@ Y vuelve a cerrarse.
 
 ---
 
-## COMANDO 3 (T1157)
+## COMANDO 2 (T1157)
 entro
 
-## RESPUESTA 3 (T1157)
+## RESPUESTA 2 (T1157)
 
 > entro
 
@@ -201,4 +137,70 @@ Yoshimura empuja la cuarta taza unos centímetros hacia ti.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:04, Anteiku. Yoshimura sirvió una taza de café para Facundo y pregunta qué busca un humano en un lugar así. Facundo puede responder.
+## COMANDO 3 (T1158)
+les miestro mi kagune
+
+## RESPUESTA 3 (T1158)
+
+> les muestro mi kagune
+
+Te paras al lado del taburete. Kase, que te conoce, salta del cuello a la barra y se sienta junto a la taza de café.
+
+Lo sientes en la parte baja de la espalda. No duele. Es como abrir una mano que estuvo cerrada toda la vida.
+
+Sale.
+
+Ceniza.
+
+Una ceniza gris, densa, que brota de la parte baja de tu espalda por encima de la ropa sin romperla, y se va juntando en el aire en forma de cuatro brazos largos y gruesos que se mueven solos, despacio, como el humo de una vela en un cuarto sin viento. No brillan rojos como los de Kaneki. Son grises, opacos, con una luz tenue que se mueve por dentro, como brasas debajo de la ceniza de una fogata.
+
+Después cambian.
+
+Los cuatro brazos se recogen hacia los hombros y se abren en dos alas de ceniza, cristalinas, que sueltan chispas grises que flotan hacia el techo y se apagan antes de tocarlo.
+
+Las alas se repliegan y se funden en una sola placa gruesa, dura, sobre tu brazo derecho, con el filo de una espada.
+
+La placa se disuelve y baja hasta la cintura, y de ahí sale una cola larga, de ceniza, que se enrosca en el aire y apoya la punta sobre la barra, al lado de Kase, sin tocar nada.
+
+Tus ojos no cambian. Siguen siendo los tuyos.
+
+Nadie en el café respira.
+
+Hinami tiene la boca abierta y los ojos enormes. El de pelo violeta se levantó del taburete sin darse cuenta y tiene una mano en el pecho, sobre el corazón, temblando de algo que parece pura felicidad. Desde la puerta del fondo, el grandote asoma la cabeza con un pedazo de algo envuelto en papel marrón todavía en la mano, y se queda congelado.
+
+Kaneki es el que más tarda en reaccionar. Se da vuelta en el taburete, muy despacio, con la toalla roja todavía en las manos. Mira la cola de ceniza. Mira tus ojos.
+
+—Los cuatro —susurra—. Tienes los cuatro tipos. Y tus ojos... no se ponen negros. —Se le quiebra la voz—. ¿Eres... como yo? ¿Te hicieron esto a ti también?
+
+Yoshimura no se movió de detrás de la barra.
+
+Tiene una taza en la mano, a medio secar con un repasador blanco. La deja despacio sobre el mostrador. Se saca los lentes. Los dobla. Los guarda en el bolsillo del chaleco.
+
+Sin los lentes, los ojos ya no parecen entrecerrados. Te miran, quietos, oscuros, muy viejos.
+
+—Ukaku, koukaku, rinkaku, bikaku —dice, muy bajo, nombrándolos uno por uno, como si rezara—. En setenta años nunca vi a un ghoul con más de uno. Ni a uno que oliera a humano.
+
+Pasa un segundo largo. El reloj de pared hace tic tac.
+
+—Y tampoco —agrega— vi nunca un kagune que no tuviera hambre.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1158 · TOKYO GHOUL · NOCHE · 00:05     ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ Kagune de Ceniza: fuera (bikaku)             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 00:05, Anteiku. Facundo mostró su Kagune de Ceniza (cuatro formas). Kaneki pregunta si le hicieron lo mismo; Yoshimura, sin lentes: nunca vio un kagune sin hambre. Facundo puede responder.

@@ -12,5 +12,5 @@ DIÁLOGOS CLAVE:
 - T1155 · "El escondite. Nuestro departamento en el Distrito 20. Necesito comer algo para que esto cierre." "Kaneki, ya nos están buscando igual."
 - T1154 · "¿Kaneki? ¿De dónde...?" "Kaneki... ¿quién es este tipo?"
 QUÉ SABE DE FACUNDO: Nada. Apareció con Kaneki y los sacó de la mansión.
-QUÉ PODERES VIO: Teletransporte.
+QUÉ PODERES VIO: Teletransporte. Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
 ESTADO: En el acantilado, a salvo (T1154).
