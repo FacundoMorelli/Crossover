@@ -34,3 +34,5 @@
 - Banjou, tres máscaras, Kaneki, Tsukiyama · T1169 · vieron a Facundo quitarles el hambre de ghoul a Banjou y a los tres con la palma en la frente.
 - Banjou, tres máscaras, Kaneki, Tsukiyama · T1170 · vieron a Facundo sacar del sobretodo mucha más comida de la que cabe (pan, onigiri, pollo, bollos, té, galletas).
 - Touka · T1170 · por Yoshimura (y Kaneki): lo de anoche; sabe que hay un "viajero" arriba. (Qué le contaron exactamente: la cocina de Anteiku, 07:00-07:12; al menos lo suficiente para gritar "¿Que hizo qué?".)
+- Touka · T1171 · por Yoshimura: Facundo es humano, tiene kagune, le quitó el hambre a Kaneki con la mano y lo mismo a Banjou y sus amigos. Vio a Facundo (pelo, ojos de dos colores, tatuajes, gato).
+- Facundo, Kaneki, el de cara redonda · T1171 · por Touka: come comida humana para disimular en la escuela y la vomita en el baño.

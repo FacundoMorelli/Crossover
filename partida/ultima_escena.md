@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1168)
-si
-
-## RESPUESTA 1 (T1168)
-
-> —Sí.
-
-Banjou se queda quieto en el marco de la puerta.
-
-Es un hombre enorme, y por un momento parece que no sabe qué hacer con su propio cuerpo. Abre la boca, la cierra. Mira a Kaneki, que tiene la manzana a medio comer entre las manos y los ojos todavía rojos, y Kaneki le devuelve la mirada y asiente, despacio.
-
-Banjou baja la vista al piso.
-
-—Yo nunca fui bueno para esto —dice, y no queda claro si habla de pelear, de cazar o de comer—. Siempre me dio asco. Cuando era el jefe del Distrito 11, comía lo que me tiraban los otros, para no tener que salir a buscar. Me decían que era débil por eso.
-
-Se le aprieta la mandíbula.
-
-Detrás de él, las tres máscaras antigás se miran entre sí. Una de ellas, la del medio, levanta despacio una mano y se la saca. Debajo hay un muchacho flaco, de cara chupada y ojeras profundas, que no debe tener más de veinte años. Las otras dos tardan un segundo más y hacen lo mismo. Un hombre de pelo rapado con una cicatriz en el labio. Otro de cara redonda, casi un chico, con los ojos muy abiertos.
-
-Ninguno dice nada. No hace falta.
-
-Banjou da un paso adentro de la sala. Después otro. El piso cruje bajo su peso. Llega hasta el sofá y, sin que nadie se lo pida, se arrodilla frente a ti con la mano todavía apretada en las costillas, como un oso que se acuesta.
-
-Agacha la cabeza.
-
-—Hazlo —dice—. Por favor.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1168 · TOKYO GHOUL · NOCHE · 00:33     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá                             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1169)
+## COMANDO 1 (T1169)
 hago lo mismo (igual una pregunta, les saco el hambre pero que pasa exactamente?)
 
-## RESPUESTA 2 (T1169)
+## RESPUESTA 1 (T1169)
 
 > hago lo mismo
 
@@ -99,10 +55,10 @@ Fuera de la partida, qué pasa exactamente con los que transfiguras:
 
 ---
 
-## COMANDO 3 (T1170)
+## COMANDO 2 (T1170)
 tomen, saco comida del abrigo y se las doy, yo voy a dormir, mañana yoshimura va a tener muchas preguntas
 
-## RESPUESTA 3 (T1170)
+## RESPUESTA 2 (T1170)
 
 > —Tomen.
 
@@ -159,7 +115,57 @@ Te mira. Mira a Kase sobre tu pecho. Te vuelve a mirar.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1171)
+buenos dias para ti tambien, si soy el viajero
+
+## RESPUESTA 3 (T1171)
+
+> —Buenos días para ti también. Sí, soy el viajero.
+
+A la muchacha se le tensa la mandíbula.
+
+Por un segundo parece que va a gritar otra vez. No grita. Cruza los brazos sobre el delantal y se apoya en el marco de la puerta con todo el peso en una pierna, mirándote de arriba abajo: el pelo blanco y azul revuelto de dormir, los ojos de dos colores, los tatuajes que asoman por el cuello, el gato.
+
+—Buenos días —repite, seca, como si le costara plata decirlo.
+
+Kase bosteza, muy grande, mostrándole todos los dientes. Después baja de tu pecho y se va a sentar al otro extremo del sofá, dándole la espalda.
+
+Ella mira al gato con los ojos entrecerrados. Después vuelve a ti.
+
+—Este idiota —señala hacia atrás con el pulgar, sin darse vuelta; Kaneki, en la escalera, baja la vista— se va sin decir nada, se junta con un montón de raros, se mete en la mansión de un loco con la CCG adentro, y vuelve a las doce de la noche con un humano que tiene kagune. —Levanta un dedo por cada cosa—. Y ahora el gerente me dice que le quitaste el hambre. Con la mano. Así.
+
+Chasquea los dedos.
+
+—Y que hiciste lo mismo con el gorila y sus amigos.
+
+En el piso, el de cara redonda se despierta con el chasquido, ve a la muchacha y se queda muy quieto abrazado a la caja del pollo, como si se hiciera el muerto.
+
+Ella no le presta atención. Te sigue mirando.
+
+—Yo vengo comiendo esa basura de los humanos desde que tengo memoria para que nadie en la escuela se dé cuenta. —Lo dice rápido, en voz más baja, casi entre dientes, como si se le escapara—. Y después la vomito en el baño.
+
+Se calla. Aprieta los labios, enojada consigo misma por haberlo dicho.
+
+—¿Qué le hiciste a Kaneki? —pregunta—. Exactamente.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1171 · TOKYO GHOUL · MAÑANA · 07:13    ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá, de espaldas                ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:12, sala de arriba de Anteiku. Touka, furiosa, en la puerta: "¿Tú eres el viajero?" Kaneki detrás, con la mejilla golpeada. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:13, sala de arriba de Anteiku. Touka confesó que vomita la comida humana y pregunta qué le hizo exactamente a Kaneki. Facundo puede responder.

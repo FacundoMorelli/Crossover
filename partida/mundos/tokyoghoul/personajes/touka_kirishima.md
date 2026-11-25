@@ -9,7 +9,8 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1171 · "Buenos días." "Este idiota se va sin decir nada... y vuelve con un humano que tiene kagune." "Yo vengo comiendo esa basura de los humanos desde que tengo memoria para que nadie en la escuela se dé cuenta. Y después la vomito en el baño." "¿Qué le hiciste a Kaneki? Exactamente."
 - T1170 · "¡¿Que hizo qué?!" "¿Tú eres el viajero?"
-QUÉ SABE DE FACUNDO: Lo que le contaron Yoshimura y Kaneki en la mañana (ver conocimiento.md).
+QUÉ SABE DE FACUNDO: Por Yoshimura (mañana T1170): humano con kagune; quitó el hambre a Kaneki con la mano, y a Banjou y sus amigos.
 QUÉ PODERES DE FACUNDO VIO: Ninguno.
 ESTADO: En la puerta de la sala de arriba de Anteiku.
