@@ -8,4 +8,4 @@ DIÁLOGOS CLAVE:
 - T1279 · "¡Ese era mi obra maestra! ¡Dos capitanes! ¡Me llevó meses coserlo!"
 - T1278 · "¿Y tú quién eres? ¿Otro fracasado de los Toros?" "Dale, No.0. Empecemos por el nuevo."
 - T1277 · "¡Vamos, No.0! ¡Termina con esos fracasados y vamos por el cuarto del enano antimagia!"
-ESTADO: Atacando la base.
+ESTADO: Inconsciente boca abajo en el pasto del patio (T1280).

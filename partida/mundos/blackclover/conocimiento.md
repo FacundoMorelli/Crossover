@@ -33,3 +33,5 @@
 - Rades · T1278 · vio a Facundo (pelo, gato, la línea de luz cerrándose).
 - Gauche, Gordon, Grey, Rades · T1279 · vieron a Facundo enterrar a No.0 de cabeza en el piso con una mano.
 - Facundo · T1279 · (ki) presencia que salta entre puertas dentro de la base, hacia el cuarto de Asta. Por Rades: No.0 está hecho de dos capitanes.
+- Gauche, Gordon, Grey · T1280 · vieron a Facundo desmayar a Rades y desaparecer hacia la base.
+- Valtos (sin nombre) · T1280 · vio a Facundo en el marco del cuarto de Asta, con el gato.

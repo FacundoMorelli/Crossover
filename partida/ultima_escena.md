@@ -3,88 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1277)
-me voy a black clover
-
-## RESPUESTA 1 (T1277)
-
-> me voy a Black Clover
-
-Das un paso atrás, al medio del salón, entre las mesas.
-
-Levantas la mano.
-
-El aire delante de ti se abre. No hay ruido. Solo una línea vertical de luz, fina como un cabello, que se ensancha despacio, de arriba abajo, hasta tener el alto y el ancho de una puerta. Del otro lado no se ve el salón de Anteiku. Se ve otra luz. Otro cielo. Pasto verde. Una brisa que entra y mueve las cortinas del café y huele a tierra, a lluvia de campo, a algo quemado.
-
-Nadie dice nada.
-
-Hinami se tapa la boca con las dos manos. Koma deja caer la cuchara. Nishiki se queda con el plato a medio secar. Irimi da un paso atrás. Kaneki abre los ojos como cuando leyó la firma del libro.
-
-Touka se queda quieta, con los brazos cruzados, mirando la puerta de luz. Le tiembla la barbilla. La aprieta.
-
-Yoshimura se quita los lentes otra vez. Mira la puerta un rato largo, en silencio, con una expresión que no le viste nunca: la de alguien muy viejo que, por primera vez en mucho tiempo, ve algo que no entiende y no le da miedo.
-
-—Así que de verdad es un viajero —dice, muy bajo.
-
-Kase, en tu cuello, mira la puerta. Se acomoda.
-
-Cruzas.
-
-[Viaje libre: Black Clover.]
-
-...
-
-El aire cambia.
-
-Huele a pasto mojado, a tierra, a madera, y a humo. Mucho humo. El cielo es gris claro, de mediodía nublado. Hay viento. Lejos, un pájaro chilla.
-
-Estás en la explanada de la base de los Toros Negros. La reconoces: el pasto, el camino de tierra, el borde del bosque. La misma explanada donde le ganaste a Yami con un golpe contenido. Donde te despediste.
-
-La base no está como la dejaste.
-
-El edificio, ese castillo torcido y loco que se movía solo de noche, tiene la mitad del frente arrancado. Hay vigas quemadas, piedras en el piso, una torre partida al medio. Sale humo negro de las ventanas del segundo piso. Y en el medio del patio, entre los escombros, algo enorme se mueve.
-
-Es grande como una casa. Tiene forma de hombre, o la tuvo alguna vez: dos cuerpos cosidos en uno, con piel gris, cuatro brazos, un ojo abierto en el pecho y una boca donde debería estar la cara. Se mueve torcido, a los tirones, como un muñeco de trapo manejado por alguien que no sabe cómo. Suelta magia por los cuatro brazos al mismo tiempo: fuego, viento.
-
-Delante de esa cosa, en el patio, hay tres figuras que conoces.
-
-Un muchacho alto, rubio, con un parche en el ojo y una cara de furia absoluta, que levanta una mano llena de espejos flotantes para desviar las ráfagas. Gauche. Detrás de él, un muchacho pálido, enorme, con la cara pintada de sombras y unos labios negros, murmurando algo mientras levanta una barrera de magia de maldición. Gordon. Y más atrás, encogida detrás de una piedra caída, una figura chica que cambia de forma a cada segundo, de nervios: Grey.
-
-Gauche tiene sangre en la frente. Una de sus capas de espejos se rompe con un estallido de cristal.
-
-Sobre una pila de escombros, mirando la pelea con las manos en los bolsillos y una sonrisa torcida, hay un muchacho de pelo negro desordenado, con una túnica del Ojo del Sol de Medianoche y una costura gruesa que le cruza la cara.
-
-—¡Vamos, No.0! —grita, riéndose—. ¡Termina con esos fracasados y vamos por el cuarto del enano antimagia!
-
-Gauche se da vuelta un segundo, para cubrir a Gordon. Y te ve.
-
-Al borde de la explanada. Pelo blanco y azul. Sobretodo negro. Un gato en el hombro. Detrás de ti, cerrándose sin ruido, una línea de luz.
-
-A Gauche se le cae la mandíbula.
-
-—¡¿Tú?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1277 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · explanada · 12:10 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1278)
+## COMANDO 1 (T1278)
 hola chicos, volvi, que paso?
 
-## RESPUESTA 2 (T1278)
+## RESPUESTA 1 (T1278)
 
 > —Hola, chicos. Volví. ¿Qué pasó?
 
@@ -129,10 +51,10 @@ Detrás de la piedra, Grey grita algo que nadie entiende.
 
 ---
 
-## COMANDO 3 (T1279)
+## COMANDO 2 (T1279)
 le clavo la cabeza contra el piso
 
-## RESPUESTA 3 (T1279)
+## RESPUESTA 2 (T1279)
 
 > le clavo la cabeza contra el piso
 
@@ -183,7 +105,65 @@ Y en ese momento lo sientes. Adentro de la base, en el segundo piso, entre el hu
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1280)
+lo dejo inconsciente y sigo al que va entre puerta y puerta
+
+## RESPUESTA 3 (T1280)
+
+> lo dejo inconsciente
+
+El muchacho de la costura todavía está gritando lo de su obra maestra cuando apareces a su lado, sobre la pila de escombros.
+
+Le das un golpecito en la nuca con dos dedos.
+
+Los ojos se le ponen en blanco a mitad de la palabra "meses". Se dobla como un saco vacío, rueda por la pila de escombros y queda boca abajo sobre el pasto, con un brazo debajo del cuerpo. Respira.
+
+[Rival vencido: el de la costura. +25 Fragmentos.]
+
+[+150 EXP.]
+
+—¡Oye! —grita Gauche desde el patio—. ¡¿Adónde vas?!
+
+> y sigo al que va entre puerta y puerta
+
+Ya no estás.
+
+Segundo piso. Humo. Un pasillo largo con la mitad del techo caído y una alfombra que se quema despacio en una punta. Las puertas de los cuartos están abiertas o arrancadas. Al fondo, la del cuarto de Asta: la de madera llena de rayones, con un cartel torcido que dice "¡¡¡ASTA!!! ¡¡¡NO ENTRAR SIN PERMISO!!!".
+
+Adentro, un hombre alto y flaco, con una capa del Ojo del Sol de Medianoche, está de rodillas junto a la cama de Asta, revolviendo un cajón. Tiene el pelo oscuro peinado hacia atrás y dos marcas extrañas en la cara, como cortes simétricos. A su lado, en el aire, flota un círculo negro chiquito, del tamaño de un plato: una puerta.
+
+Saca algo del cajón. Una piedra del tamaño de un puño, translúcida, con un brillo verde por dentro que late como un corazón.
+
+La piedra mágica.
+
+Se levanta. Se da vuelta para meterse en su puerta negra.
+
+Y te ve, parado en el marco de la puerta del cuarto, con el gato en el hombro y humo a tu alrededor.
+
+Se queda quieto. No grita. No ataca. Te mira con unos ojos fríos, cansados, de alguien que hace un trabajo que no le gusta.
+
+—Tú no estabas en la lista —dice, en voz baja.
+
+El círculo negro, a su lado, empieza a agrandarse.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1280 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros · cuarto de Asta · 12:12   ║
+║ NIVEL 29 · EXP 290.780/320.000               ║
+║ FRAGMENTOS 110.077 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:11, patio de la base. No.0 enterrado e inmóvil. Rades furioso. Facundo siente a alguien saltando entre puertas adentro, hacia el cuarto de Asta. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:12, cuarto de Asta. Rades inconsciente abajo. Un hombre del Ojo tiene la piedra mágica y está por escapar por su puerta negra: "Tú no estabas en la lista." Facundo puede actuar.

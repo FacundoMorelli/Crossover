@@ -1,13 +1,13 @@
 {
-  "turno": 1279,
+  "turno": 1280,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:11",
+  "hora": "12:12",
   "edad": 18,
   "nivel": 29,
-  "exp": 290630,
+  "exp": 290780,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 110052,
+  "fragmentos": 110077,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1969,6 +1969,14 @@
       "como": "Le clava la cabeza contra el piso del patio; cráter de 3 m; queda inmóvil.",
       "fragmentos": 150,
       "exp": 400
+    },
+    {
+      "nombre": "Rades Spirito (Ojo del Sol de Medianoche)",
+      "mundo": "blackclover",
+      "turno": "T1280",
+      "como": "Golpecito con dos dedos en la nuca; inconsciente sobre el pasto.",
+      "fragmentos": 25,
+      "exp": 150
     }
   ],
   "viaje": {
