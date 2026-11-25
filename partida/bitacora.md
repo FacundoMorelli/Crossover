@@ -1202,3 +1202,4 @@ T1200 · TG · Distrito 24 · Teletransporte con Kaneki, Touka y Yomo a una gale
 T1201 · TG · Distrito 24 · Empieza el entrenamiento. Tasación de Kaneki y Touka. Atacan a la vez: cristales y tentáculos.
 T1202 · TG · Distrito 24 · Ultra Instinto Dominado: esquiva todo sin contraatacar. Touka carga cientos de cristales; Kaneki por la izquierda.
 T1203 · TG · Distrito 24 · Apuesta: quien lo toque, elige comida. Ataques coordinados. Touka apaga la llama: oscuridad.
+T1204 · TG · Distrito 24 · Sigue esquivando a oscuras. Touka agotada. Kaneki saca el kakuja sin perder el control: "Sigo siendo yo."

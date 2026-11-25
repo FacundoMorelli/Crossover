@@ -1,8 +1,8 @@
 {
-  "turno": 1203,
+  "turno": 1204,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "otoño (TG cap. ~105), mañana siguiente al asalto a la mansión de Kanou",
-  "hora": "12:56",
+  "hora": "13:08",
   "edad": 18,
   "nivel": 28,
   "exp": 275930,
@@ -81,7 +81,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 93,
+  "energia_actual_pct": 91,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
