@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1229)
-aguanta, llevo a los apes a anteiku y vuelvo a la avenida y me pongo las esposas
-
-## RESPUESTA 1 (T1229)
-
-> —Aguanta.
-
-Shinohara se queda con las esposas en el aire.
-
-Caminas hasta el portal. Kuroiwa te ve venir y no se mueve de delante de los Apes, el casco bajo el brazo, mirándote fijo. Lo miras. Él te mira. Después da un paso al costado, despacio, sin decir nada.
-
-Los cuatro Apes se aprietan contra la pared al verte de cerca. Uno tiene la cara llena de sangre. Otro se agarra el estómago. El más joven, casi un chico, todavía lleva puesta la máscara de mono, rota en la frente.
-
-Apoyas la mano en el hombro del primero. Los otros tres se agarran de él, sin entender, por instinto.
-
-Desaparecen.
-
-Cocina de Anteiku. Los cuatro caen amontonados sobre las baldosas, al lado de Irimi. Koma suelta un grito ronco y se tira encima de ellos, abrazando a dos a la vez. Por el vidrio de la puerta, desde la vereda, lo ves un segundo antes de irte: Koma llorando a carcajadas, el Búho inclinado sobre Irimi, Hinami corriendo a buscar toallas.
-
-Avenida 3.
-
-Apareces otra vez delante de Shinohara.
-
-Kuroiwa, junto al portal vacío, deja escapar el aire por la nariz, largo. Se pone el casco bajo el otro brazo.
-
-Extiendes las muñecas.
-
-Shinohara te mira un segundo. Después te pone las esposas. Click. Click. El metal blanco se cierra frío sobre tu piel. La franja roja se enciende con una luz tenue y zumba, bajito, como un aparato eléctrico. No sientes nada. Ni presión, ni mareo, ni el más mínimo peso. Solo el frío del metal.
-
-Shinohara también se da cuenta. Mira la franja roja encendida, mira tu cara, que no cambió, y aprieta los labios.
-
-—Ni lo sientes —murmura.
-
-Kase, en tu hombro, se estira hacia las esposas, las olfatea, y estornuda.
-
-Houji da un paso hacia ti. Señala con un dedo la quinque curva, que quedó colgando de tu mano esposada, entre los dedos.
-
-—Mi quinque —dice, plano—. Si llegas al puesto de mando esposado y armado, no nos van a creer nada a ninguno de los tres.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1229 · TOKYO GHOUL · DÍA 6 · 17:58     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: ir al puesto de mando con Shinohara║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1230)
+## COMANDO 1 (T1230)
 le doy el quinque
 
-## RESPUESTA 2 (T1230)
+## RESPUESTA 1 (T1230)
 
 > le doy la quinque
 
@@ -125,10 +67,10 @@ Te mira las esposas, encendidas. Te mira la cara. Te mira el gato.
 
 ---
 
-## COMANDO 3 (T1231)
+## COMANDO 2 (T1231)
 esta bien
 
-## RESPUESTA 3 (T1231)
+## RESPUESTA 2 (T1231)
 
 > —Está bien.
 
@@ -179,7 +121,65 @@ Te mira por encima de los lentes. La sonrisa educada no se le mueve ni un milím
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1232)
+soy un humano viajero
+
+## RESPUESTA 3 (T1232)
+
+> —Soy un humano viajero.
+
+Washuu no cambia la cara.
+
+Toma otro sorbo de té. Lo deja. Asiente despacio, como si le hubieras dado exactamente la respuesta que esperaba, y no le gustara ni le disgustara.
+
+—Un viajero —repite—. De algún lugar donde los humanos detienen quinques con la palma de la mano.
+
+Desde el poste, el hombre del cigarrillo apagado suelta un resoplido. Washuu ni lo mira.
+
+—Muy bien. Respetaré su discreción. —Se acomoda los lentes con un dedo—. Hablemos entonces de lo que nos trae aquí.
+
+Se inclina un poco hacia la mesa. Apoya un dedo sobre el mapa, justo sobre el pequeño rectángulo que marca Anteiku.
+
+—Usted quiere que esta operación termine esta noche. Que nadie de ese café muera ni sea capturado. —No es una pregunta—. Yo tengo una orden firmada por mi padre, el presidente de esta Comisión, que dice que el Búho no amanece vivo. Y tengo cuatrocientos investigadores en este distrito, que esta noche vieron morir a compañeros, y que necesitan volver a sus casas con algo en las manos.
+
+Levanta el dedo del mapa.
+
+—Así que le hago una propuesta. Una sola.
+
+Junta las manos sobre la mesa.
+
+—El Búho se entrega. Solo él. Sale de ese café por su propio pie y viene conmigo. A cambio, todos los demás que están adentro, los que usted metió ahí y los que ya estaban, quedan libres. Sin cargos. Fuera de nuestras listas. La operación termina en el momento en que el Búho cruce esa puerta.
+
+Hace una pausa.
+
+—Y usted viene conmigo también. A la oficina central. Como invitado de la familia Washuu. —La sonrisa se le estira apenas un milímetro—. Hay gente que tiene muchas ganas de conocer a un hombre que les quita el hambre a los ghouls.
+
+Detrás de ti, Shinohara se pone tenso. Lo sientes sin mirarlo.
+
+Washuu toma la taza otra vez.
+
+—Piénselo con calma. El té todavía está caliente.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1232 · TOKYO GHOUL · DÍA 6 · 18:13     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con Washuu                ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:11, carpa central del puesto de mando. Washuu, con té, pregunta "¿Qué es usted?". Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:13, carpa central. Washuu propone: el Búho se entrega, los demás libres, y Facundo va a la oficina central como invitado de la familia Washuu. Facundo puede responder.

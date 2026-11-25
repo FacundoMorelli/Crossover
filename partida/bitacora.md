@@ -1230,3 +1230,4 @@ T1228 · TG · Avenida 3 → Anteiku → sur → Anteiku → avenida 3 · Encier
 T1229 · TG · Avenida 3 · Lleva a los 4 Apes heridos a Anteiku. Se deja esposar (sin efecto). Houji pide su quinque.
 T1230 · TG · Puesto de mando · Devuelve la quinque. Caminan escoltados. Dos Black Dobers muertos en el camino. Washuu Yoshitoki: "Bienvenido. ¿Le apetece un té?"
 T1231 · TG · Carpa central · Té con Washuu. Resume todo lo que sabe. "¿Qué es usted?"
+T1232 · TG · Carpa central · "Soy un humano viajero." Propuesta de Washuu: el Búho se entrega, los demás libres; Facundo, invitado de la familia Washuu.
