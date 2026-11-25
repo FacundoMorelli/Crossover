@@ -6,3 +6,4 @@ DON DE MUNDO: Kekkei Genkai: Venas del Dragón (ver sistema.json).
 MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra Ninja.
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
+- T1311 · Kakashi curado del todo por una semilla del ermitaño de Facundo (canon: se recuperaba despacio).

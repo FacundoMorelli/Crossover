@@ -24,3 +24,4 @@ QUÉ SABE DE FACUNDO (T1307): nombre (Facundo Morelli), dice ser viajero; no se 
 QUÉ SABE DE FACUNDO (T1308): Facundo dice que llegó teletransportándose (no lo vio).
 - T1309 · Facundo acepta acompañarlo. Retira las raíces. "Gracias." Lo lleva a la carpa de mando con Kakashi y le informa: nombre, viajero, bosque norte, teletransporte.
 - T1310 · "Senpai." Intenta frenar lo de la semilla; Kakashi lo para con la mano.
+- T1311 · Ve a Kakashi curarse con la semilla. "Senpai."

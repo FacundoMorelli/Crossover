@@ -1309,3 +1309,4 @@ T1307 · NARUTO · Borde del cráter · "Me llamo Facundo Morelli, soy un viajer
 T1308 · NARUTO · Borde del cráter · "Me teletransporté." Yamato pone raíces listas bajo sus pies: solo vio eso en el Cuarto y en el de la máscara naranja de Akatsuki. No lo acusa, pero le pide que lo acompañe a hablar con alguien.
 T1309 · NARUTO · Carpa de mando · Acompaña a Yamato por el campamento (cartel "GRACIAS, NARUTO"). Conoce a Kakashi (catre, pierna vendada). Tasación. Kakashi: "¿A qué vino un viajero a una aldea que ya no existe?"
 T1310 · NARUTO · Carpa de mando · Le da una semilla del ermitaño a Kakashi: "Cómetela. Vine a conocer y a ayudar." Kakashi la guarda en la mano: la ayuda sirve (faltan médicos, manos, casas; Tsunade en coma). "Dime qué es, y cómo sabías que la necesitaba."
+T1311 · NARUTO · Carpa de mando · Explica la semilla del ermitaño. Kakashi se la come: pierna curada, chakra lleno, se para. Carpa médica del este: 43 graves. "¿Tienes más de estas?"

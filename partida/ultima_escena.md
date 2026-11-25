@@ -3,54 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1308)
-
-me teletransporte
-
-## RESPUESTA 1 (T1308)
-
-> me teletransporte
-
-> —Me teletransporté.
-
-Yamato no se mueve. Durante un segundo, no pasa nada.
-
-Después, sin que cambie la cara, el suelo bajo tus botas se pone tenso. Lo sientes antes de verlo: raíces finas, debajo de la tierra, que se acomodan alrededor de tus pies sin salir a la superficie. Listas.
-
-—Ninjutsu espacio-tiempo —dice, despacio—. En toda mi vida vi a dos personas hacer eso. Uno fue el Cuarto Hokage, y está muerto. El otro usa una máscara naranja y anda con Akatsuki.
-
-Mira a Kase. Mira tu frente vacía. Mira el cráter.
-
-—Y apareces a los dos días de que Akatsuki borrara la aldea, en el único lado donde no hay nadie vigilando. —Suspira por la nariz, como alguien que no durmió en dos días—. No te estoy acusando de nada. Si fueras uno de ellos, supongo que no te habrías acercado a preguntarme dónde estás.
-
-A unos metros, dos ninjas con chaleco verde que cargaban tablas se quedan quietos. Uno mira a Yamato. Yamato levanta dos dedos de la mano izquierda, sin girarse, y los dos dejan las tablas en el suelo y se quedan donde están.
-
-—Pero tampoco te puedo dejar caminar por aquí como si nada. —Vuelve a mirarte a los ojos—. Te voy a pedir que me acompañes. Tranquilo, sin vueltas. Hay alguien con quien vas a tener que hablar.
-
-Las raíces bajo tus pies siguen quietas. Esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1308 · NARUTO · DÍA 1 · 07:55          ║
-║ Konoha · borde norte del cráter, carpas      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1309)
+## COMANDO 1 (T1309)
 
 esta bien
 
-## RESPUESTA 2 (T1309)
+## RESPUESTA 1 (T1309)
 
 > esta bien
 
@@ -116,11 +73,11 @@ Se acomoda un poco en el catre, con una mueca por la pierna.
 
 ---
 
-## COMANDO 3 (T1310)
+## COMANDO 2 (T1310)
 
 antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
 
-## RESPUESTA 3 (T1310)
+## RESPUESTA 2 (T1310)
 
 > antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
 
@@ -165,4 +122,57 @@ Cierra los dedos sobre la semilla.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:08, carpa de mando. Facundo le dio una semilla del ermitaño a Kakashi ("cómetela") y dijo que vino a conocer y ayudar. Kakashi la tiene en la mano, sin comer: acepta la ayuda (faltan médicos, manos y casas; Tsunade en coma), pero pregunta qué es y cómo supo que la necesitaba. Facundo tiene que contestar.
+## COMANDO 3 (T1311)
+
+por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
+
+## RESPUESTA 3 (T1311)
+
+> por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
+
+> —Porque dijiste que reviviste hace dos días. Dudo que una persona así esté bien ahora. Y de donde vengo se llama semilla del ermitaño. Cura heridas y recupera tu energía.
+
+Kakashi parpadea una vez.
+
+—Es verdad. Lo dije yo. —Se rasca la nuca con la mano libre—. Me descuidé.
+
+Mira la semilla. Mira a Yamato. Yamato tiene la boca apretada y no dice nada, pero tampoco se mueve.
+
+—Una semilla de ermitaño —repite Kakashi—. En el monte Myōboku los sapos dan cada cosa para comer que mejor no preguntar. Supongo que en otros lados también hay ermitaños.
+
+Se baja la máscara apenas con un dedo, de costado, de espaldas a ustedes, tan rápido que no alcanzas a verle la cara, y se mete la semilla en la boca. Se oye un crujido. La máscara vuelve a su lugar.
+
+Durante un segundo, no pasa nada.
+
+Después Kakashi se queda completamente quieto. El ojo visible se le abre de a poco, más de lo que lo abrió desde que entraste.
+
+Mueve los dedos de la mano. Los cierra y los abre. Baja la pierna vendada del cajón y la apoya en el suelo, con cuidado primero, después con todo el peso. Se para. Sin mueca.
+
+—Senpai —dice Yamato, en voz baja.
+
+Kakashi se desenrolla la venda de la pierna. Debajo, donde tendría que haber una herida, hay piel sana. Se sube la banda de la frente y abre el ojo izquierdo: un ojo rojo, con tres comas negras que giran despacio, y se la vuelve a bajar enseguida.
+
+—El chakra —dice—. Está todo. Como si hubiera dormido una semana.
+
+Se queda mirándote un rato largo. Ya no tiene cara de aburrido.
+
+—Yamato, la carpa médica del este tiene cuarenta y tres heridos graves y dos médicos que se están cayendo de cansancio. —No le saca los ojos de encima a Kase ni a ti—. Facundo. ¿Tienes más de estas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1311 · NARUTO · DÍA 1 · 08:10          ║
+║ Konoha · campamento · carpa de mando         ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:10, carpa de mando. Kakashi se comió la semilla: pierna curada, chakra lleno; se paró, mostró un instante el Sharingan. Carpa médica del este: 43 heridos graves, 2 médicos agotados. Kakashi pregunta: "¿Tienes más de estas?" Facundo tiene que contestar.

@@ -18,3 +18,6 @@ ESTADO: recuperándose en la carpa de mando.
 DIÁLOGOS (T1310): "Lo primero que nos enseñan es a no comer cosas que nos da un desconocido. Lo segundo es que, si alguien quiere envenenar a un ninja, no se lo da en la mano delante de un testigo y de un gato." "Ayuda aquí nunca sobra... la que podía curarnos a todos está en coma... Si viniste a ayudar, viniste al lugar correcto." "Antes de comer nada, dime qué es. Y dime cómo sabías que la necesitaba."
 QUÉ SABE DE FACUNDO (T1310): Facundo dice que vino a conocer y ayudar. Le dio una semilla.
 INVENTARIO: 1 semilla del ermitaño en la mano (sin comer).
+- T1311 · Se come la semilla (bajándose la máscara de espaldas). Pierna curada, chakra lleno. Se para. Abre un instante el Sharingan para comprobar. "El chakra. Está todo. Como si hubiera dormido una semana." Pide a Yamato pensar en la carpa médica del este (43 graves, 2 médicos). "Facundo. ¿Tienes más de estas?"
+QUÉ SABE DE FACUNDO (T1311): por Facundo: "de donde vengo" se llama semilla del ermitaño; cura heridas y recupera energía (lo comprobó en sí mismo). Facundo dedujo su estado por lo que él mismo dijo.
+ESTADO: curado, chakra lleno (T1311).
