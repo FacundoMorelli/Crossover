@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1262)
-si
-
-## RESPUESTA 1 (T1262)
-
-> —Sí.
-
-Touka asiente. Una vez. Rápido. Como si tuviera miedo de que, si tarda, la respuesta cambie.
-
-Después se queda quieta. No te pide que lo hagas ahora. No se acerca. Mira hacia la cocina, donde Koma está repartiendo arroz a los gritos y Nishiki le pelea por los platos. Mira a Kaneki, en el taburete, con las manos abiertas sobre la barra. Mira a Hinami, que ayuda a Yoshimura a poner las tazas en fila.
-
-—No hoy —dice, muy bajo—. Todavía no.
-
-Se muerde el labio.
-
-—Hay alguien... —Se interrumpe. Se le endurece la cara, como cuando se enoja, pero no está enojada—. Tengo un hermano. Ayato. Es menor que yo. Se fue hace años con los de Aogiri, con los encapuchados. Dice que los humanos son basura y que yo soy una cobarde por servirles café. —Aprieta los puños—. La última vez que lo vi casi me mata.
-
-Te mira a los ojos.
-
-—Si yo me vuelvo humana, él no me va a perdonar nunca. Va a decir que tenía razón. Que me rendí. —Traga—. Y si a él le pasa algo allá, con esa gente... y yo ya no tengo cómo ir a buscarlo...
-
-No termina la frase.
-
-En la barra, Yoshimura dejó de acomodar tazas. No se da vuelta. Pero escucha.
-
-Touka respira hondo.
-
-—Así que primero quiero verlo. A Ayato. Una vez. —Lo dice firme, como una decisión que ya tomó hace tiempo y recién ahora dice en voz alta—. Y después vengo y te pido lo otro.
-
-Se queda callada un segundo. Después, más bajo todavía, casi sin voz:
-
-—Tú sabes dónde están los de Aogiri, ¿no? Como sabías lo del Búho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1262 · TOKYO GHOUL · DÍA 7 · 21:06     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1263)
+## COMANDO 1 (T1263)
 decime como es tu hermano asi lo busco
 
-## RESPUESTA 2 (T1263)
+## RESPUESTA 1 (T1263)
 
 > —Dime cómo es tu hermano, así lo busco.
 
@@ -99,10 +49,10 @@ Después te mira de reojo.
 
 ---
 
-## COMANDO 3 (T1264)
+## COMANDO 2 (T1264)
 lo busco con el ki
 
-## RESPUESTA 3 (T1264)
+## RESPUESTA 2 (T1264)
 
 > lo busco con el ki
 
@@ -153,7 +103,73 @@ Se le descruzan los brazos solos.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1265)
+vamos
+
+## RESPUESTA 3 (T1265)
+
+> —Vamos.
+
+Touka no dice nada. Se te acerca y te agarra la manga del sobretodo, igual que las otras veces. Pero esta vez no con dos dedos. Con toda la mano.
+
+Desde la barra, Yoshimura los ve. No dice nada. Solo asiente, despacio.
+
+Kase se acomoda en tu cuello.
+
+El salón desaparece.
+
+Viento.
+
+Viento frío, salado, que viene del mar y huele a óxido, a aceite de motor y a agua quieta. La azotea es ancha, de cemento agrietado, con charcos de lluvia vieja y un tanque de agua oxidado en una esquina. Abajo, en todas direcciones, depósitos con los techos hundidos, grúas apagadas, contenedores apilados. Más allá, la bahía, negra, con las luces de la ciudad temblando en el agua.
+
+En el borde de la azotea, de espaldas a ustedes, hay un muchacho sentado.
+
+Tiene las piernas colgando hacia el vacío, diez pisos más abajo. El pelo negro, revuelto por el viento. Una campera negra con capucha, demasiado grande para él. Al lado, sobre el cemento, una máscara negra con dos orejas de conejo largas.
+
+Tu instinto lo tasa sin que lo pidas.
+
+```
+╔════════════════════════════════════════╗
+║ AYATO KIRISHIMA                        ║
+║ Ghoul · Aogiri · "Conejo Negro" (CCG)  ║
+║ PODER: Kagune ukaku (dos alas),        ║
+║        disparo de cristales, velocidad ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+```
+
+Se pone tenso antes de darse vuelta. Huele algo. Lo ves en los hombros, en cómo se le endurece la espalda debajo de la campera.
+
+Se levanta de un salto, girando en el aire, y cae parado sobre el borde, de frente a ustedes, con el vacío detrás. De la espalda le estallan dos alas de un violeta oscuro, eléctricas, que zumban en el viento.
+
+Tiene la cara de la foto. Más larga, más flaca, más dura. La misma boca. Los mismos ojos, ahora negros y rojos. Pero no sonríe, y no le falta ningún diente.
+
+Mira a Touka. A ti. Al gato. Otra vez a Touka. Se le desfigura la cara.
+
+—¿Touka? —La voz le sale ronca, incrédula, furiosa—. ¿Qué mierda haces aquí? —Las alas se abren más. Te clava los ojos—. ¿Y quién carajo es este?
+
+Touka te suelta la manga.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1265 · TOKYO GHOUL · DÍA 7 · 21:10     ║
+║ Bahía · azotea de la base de Aogiri          ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: Touka y Ayato                      ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:09, salón de Anteiku. Facundo encontró a Ayato con el ki: solo en la azotea de una base de Aogiri junto a la bahía. Touka: "Lo encontraste." Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:10, azotea de la base de Aogiri. Ayato, con las alas afuera, pregunta furioso qué hace Touka ahí y quién es Facundo. Touka le soltó la manga. Facundo puede actuar.

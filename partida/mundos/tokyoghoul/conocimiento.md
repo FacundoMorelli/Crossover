@@ -188,3 +188,5 @@
 - Facundo · T1263 · por Touka: Ayato tiene 15, pelo negro, ojos oscuros, más alto que ella; kagune ukaku de dos alas; máscara negra con orejas de conejo; visto por última vez en el Distrito 11; Aogiri se movió. Tiene una foto de ellos de chicos.
 - Facundo · T1264 · (ki) Ayato está solo en la azotea de un edificio viejo junto a la bahía, al sur, con 50-60+ ghouls (Aogiri) adentro; dos presencias muy pesadas en el último piso.
 - Touka · T1264 · deducción (por la cara de Facundo): lo encontró.
+- Yoshimura · T1265 · vio irse a Facundo y Touka (a buscar a Ayato, lo oyó antes).
+- Ayato · T1265 · vio aparecer de la nada a Touka con un desconocido y un gato en la azotea.

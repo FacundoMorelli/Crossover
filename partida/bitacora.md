@@ -1263,3 +1263,4 @@ T1261 · TG · Anteiku · "Es una mala idea, olvídense." Café para todos. Touk
 T1262 · TG · Anteiku · "Sí." Touka: primero quiere ver a su hermano Ayato, de Aogiri. "¿Sabes dónde están?"
 T1263 · TG · Anteiku · Touka le da una foto de Ayato y lo describe. "Quiero ir contigo."
 T1264 · TG · Anteiku · Busca con el ki: Ayato en la azotea de una base de Aogiri junto a la bahía. Touka: "Lo encontraste."
+T1265 · TG · Azotea de Aogiri · Llegan Facundo y Touka. Ayato: "¿Qué mierda haces aquí? ¿Y quién carajo es este?"
