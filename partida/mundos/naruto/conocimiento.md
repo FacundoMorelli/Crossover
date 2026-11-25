@@ -13,3 +13,4 @@
 - Dos chūnin de chaleco verde · T1308 · vieron a Yamato tensarse frente al forastero de pelo blanco y azul.
 - Kakashi · T1309 · por Yamato (informe en la carpa de mando, motivo: seguridad): nombre, dice ser viajero, apareció en el bosque norte sin camino, dice que se teletransportó. Lo vio en persona.
 - Vecinos del campamento · T1309 · vieron pasar al forastero de pelo blanco y azul con un gato, acompañado por Yamato.
+- Kakashi, Yamato · T1310 · vieron a Facundo sacar una semilla del bolsillo y dársela a Kakashi. Oyeron: "vine a conocer y a ayudar en lo que pueda". No saben qué es la semilla.

@@ -14,3 +14,7 @@ QUÉ SABE DE FACUNDO: por Yamato (T1309): nombre, dice ser viajero, apareció en
 QUÉ PODERES DE FACUNDO VIO: ninguno
 TASACIÓN (T1309): Sharingan (Mangekyō: Kamui), Raikiri, cuatro elementos, ninken, mil técnicas copiadas; amenaza mínima; x0,01; chakra bajo.
 ESTADO: recuperándose en la carpa de mando.
+- T1310 · Facundo le da una semilla del ermitaño. Frena a Yamato con la mano. La huele; no la come todavía. Acepta la ayuda.
+DIÁLOGOS (T1310): "Lo primero que nos enseñan es a no comer cosas que nos da un desconocido. Lo segundo es que, si alguien quiere envenenar a un ninja, no se lo da en la mano delante de un testigo y de un gato." "Ayuda aquí nunca sobra... la que podía curarnos a todos está en coma... Si viniste a ayudar, viniste al lugar correcto." "Antes de comer nada, dime qué es. Y dime cómo sabías que la necesitaba."
+QUÉ SABE DE FACUNDO (T1310): Facundo dice que vino a conocer y ayudar. Le dio una semilla.
+INVENTARIO: 1 semilla del ermitaño en la mano (sin comer).

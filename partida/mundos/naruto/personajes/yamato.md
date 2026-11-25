@@ -23,3 +23,4 @@ QUÉ SABE DE FACUNDO (T1307): nombre (Facundo Morelli), dice ser viajero; no se 
 - T1308 · Facundo: "Me teletransporté." Yamato prepara raíces de Mokuton bajo sus pies (sin salir). "Ninjutsu espacio-tiempo. En toda mi vida vi a dos personas hacer eso. Uno fue el Cuarto Hokage... El otro usa una máscara naranja y anda con Akatsuki." "No te estoy acusando de nada." "Te voy a pedir que me acompañes... Hay alguien con quien vas a tener que hablar." Ordena con dos dedos a dos chūnin quedarse quietos.
 QUÉ SABE DE FACUNDO (T1308): Facundo dice que llegó teletransportándose (no lo vio).
 - T1309 · Facundo acepta acompañarlo. Retira las raíces. "Gracias." Lo lleva a la carpa de mando con Kakashi y le informa: nombre, viajero, bosque norte, teletransporte.
+- T1310 · "Senpai." Intenta frenar lo de la semilla; Kakashi lo para con la mano.

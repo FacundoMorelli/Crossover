@@ -3,54 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1307)
-
-me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
-
-## RESPUESTA 1 (T1307)
-
-> me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
-
-> —Me llamo Facundo Morelli. Soy un viajero. Dijiste que los atacaron. ¿Quiénes?
-
-Yamato repite el nombre en voz baja, despacio, como si lo guardara en un cajón.
-
-—Facundo Morelli. —No es un nombre de ningún país que conozca, y se le nota—. Un viajero.
-
-Mira tu ropa negra, el sobretodo largo, las botas sin una mancha de barro a pesar de que acabas de bajar por un bosque destrozado. Mira a Kase otra vez. Kase bosteza.
-
-—Akatsuki —dice al fin—. Una organización de ninjas renegados. Su líder se hacía llamar Pain. Vino con sus cuerpos a buscar a uno de los nuestros y, cuando no lo encontró, hizo esto.
-
-Señala el cráter con el mentón, sin darse vuelta. Abajo, un grupo de ninjas levanta una roca enorme entre seis, y alguien grita que tengan cuidado con la tubería.
-
-—Se vio desde muy lejos. Las aves de los pueblos de la frontera salieron volando, y la explosión se sintió hasta en el País del Fuego entero. —Vuelve a fijar los ojos en los tuyos—. Es raro encontrar a un viajero que pasa justo por aquí y no se enteró.
-
-Un chico de unos ocho años se acerca corriendo con un cuenco de sopa, se frena de golpe al verte y se queda mirando tus ojos con la boca abierta. Yamato le apoya una mano en la cabeza sin mirarlo y lo hace girar suavemente hacia las carpas. El chico se va, mirando para atrás.
-
-—Y todavía no me dijiste por dónde entraste —agrega Yamato, sin cambiar el tono—. Del lado norte no hay camino. Hay bosque, y hasta hace dos días había una barrera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1307 · NARUTO · DÍA 1 · 07:54          ║
-║ Konoha · borde norte del cráter, carpas      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1308)
+## COMANDO 1 (T1308)
 
 me teletransporte
 
-## RESPUESTA 2 (T1308)
+## RESPUESTA 1 (T1308)
 
 > me teletransporte
 
@@ -89,11 +46,11 @@ Las raíces bajo tus pies siguen quietas. Esperando.
 
 ---
 
-## COMANDO 3 (T1309)
+## COMANDO 2 (T1309)
 
 esta bien
 
-## RESPUESTA 3 (T1309)
+## RESPUESTA 2 (T1309)
 
 > esta bien
 
@@ -159,4 +116,53 @@ Se acomoda un poco en el catre, con una mueca por la pierna.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:06, carpa de mando del campamento. Yamato llevó a Facundo con Kakashi (en un catre, pierna vendada, chakra bajo). Kakashi pregunta a qué vino un viajero a una aldea que ya no existe. Facundo tiene que contestar.
+## COMANDO 3 (T1310)
+
+antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
+
+## RESPUESTA 3 (T1310)
+
+> antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
+
+> —Antes de responder eso, toma. Cómetela. —Le das una semilla—. Vine a conocer y a ayudar en lo que pueda.
+
+Metes la mano en el bolsillo del sobretodo y la sacas con una semilla chiquita entre los dedos, verde pálido, del tamaño de un poroto. Se la extiendes.
+
+Yamato da medio paso adelante.
+
+—Senpai.
+
+Kakashi levanta una mano, sin mirarlo, y Yamato se queda donde está.
+
+Toma la semilla. La pone en la palma y la mira de cerca, la hace rodar con el pulgar. La acerca a la máscara y la huele. No huele a nada.
+
+—En la academia, lo primero que nos enseñan es a no comer cosas que nos da un desconocido —dice—. Lo segundo es que, si alguien quiere envenenar a un ninja, no se lo da en la mano delante de un testigo y de un gato.
+
+Se queda mirándola un rato más. Después te mira a ti, por encima de la semilla.
+
+—Conocer y ayudar. —El ojo se le arruga otra vez—. Bueno, ayuda aquí nunca sobra. Hay medio pueblo durmiendo en carpas, y la que podía curarnos a todos está en coma desde hace dos días. Nos faltan médicos, nos faltan manos y nos faltan casas. Si viniste a ayudar, viniste al lugar correcto.
+
+Afuera de la carpa pasa alguien cargando una pila de tablas que se le cae con estrépito. Alguien se ríe. Kakashi no se distrae.
+
+Cierra los dedos sobre la semilla.
+
+—Antes de comer nada, dime qué es —pide—. Y dime cómo sabías que la necesitaba. No me levanté del catre desde que entraste.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1310 · NARUTO · DÍA 1 · 08:08          ║
+║ Konoha · campamento · carpa de mando         ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:08, carpa de mando. Facundo le dio una semilla del ermitaño a Kakashi ("cómetela") y dijo que vino a conocer y ayudar. Kakashi la tiene en la mano, sin comer: acepta la ayuda (faltan médicos, manos y casas; Tsunade en coma), pero pregunta qué es y cómo supo que la necesitaba. Facundo tiene que contestar.
