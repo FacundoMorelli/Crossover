@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1181)
-no es una quinque, es una espada, la saco y la pongo en el mostrador, pueden mirarla si quieren
-
-## RESPUESTA 1 (T1181)
-
-> —No es una quinque. Es una espada.
-
-Abres la mano otra vez y Sakaime aparece en ella. La apoyas de costado sobre el mostrador, entre la taza vacía y el frasco de mermelada, con la empuñadura blanca hacia ellos.
-
-> —Pueden mirarla si quieren.
-
-Kase, que estaba echado en la barra, se levanta, se acerca a la espada, olfatea la guarda negra y se sienta al lado, como si la custodiara.
-
-Touka no se acerca enseguida. Se queda donde está, con los brazos pegados al cuerpo, mirando la hoja desde lejos, como se mira a un perro que no conoces.
-
-Después da un paso. Otro. Se inclina sobre el mostrador sin tocarla y huele el aire, despacio, con la nariz casi encima de la hoja.
-
-Frunce el ceño.
-
-—No huele a nada —dice, desconcertada—. Las quinques huelen a ghoul. A sangre vieja, a kakuhou. Huelen a muerto. Esto huele a... metal. Y a nada.
-
-Estira un dedo y lo apoya en la línea plateada que recorre la hoja. Lo retira enseguida, como si esperara quemarse. No pasa nada. Lo vuelve a apoyar.
-
-—Está fría.
-
-Yoshimura se acerca por detrás de la barra. No mira la espada mucho tiempo. Mira la línea plateada de la hoja, y después levanta la vista hacia la puerta, hacia la vereda, donde el mismo hilo plateado finísimo corre pegado al cordón.
-
-Se quita los lentes. Los dobla. Los deja junto a la espada.
-
-—Mientras usted caminaba alrededor del local —dice, muy tranquilo—, sentí cómo se cerraba algo. Como cuando se cierra la tapa de una caja. Todavía lo siento. Aquí. —Se toca con dos dedos el borde de la barra—. Y allá afuera.
-
-Te mira.
-
-—¿Qué hizo, Morelli-san?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1181 · TOKYO GHOUL · MAÑANA · 07:32    ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra, junto a la espada         ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1182)
+## COMANDO 1 (T1182)
 puse una barrera invisible, no permite pasar a nadie de la ccg ni ningun ataque
 
-## RESPUESTA 2 (T1182)
+## RESPUESTA 1 (T1182)
 
 > —Puse una barrera invisible. No deja pasar a nadie de la CCG ni ningún ataque.
 
@@ -107,10 +54,10 @@ Touka lo entiende al mismo tiempo. Se le borra el principio de alivio que tenía
 
 ---
 
-## COMANDO 3 (T1183)
+## COMANDO 2 (T1183)
 bueno, entonces, dejo pasar a los investigadores si solo vienen con la idea de tomar un cafe, si vienen con la idea de destruir o matar a alguien no
 
-## RESPUESTA 3 (T1183)
+## RESPUESTA 2 (T1183)
 
 > —Bueno, entonces dejo pasar a los investigadores si solo vienen con la idea de tomar un café. Si vienen con la idea de destruir o de matar a alguien, no.
 
@@ -160,7 +107,44 @@ Aprieta la muñeca.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1184)
+si hinami
+
+## RESPUESTA 3 (T1184)
+
+> —Sí, Hinami.
+
+Hinami se queda quieta en el último escalón, como si no se lo esperara tan rápido.
+
+Después baja del todo y cruza el local en puntas de pie, con la muñeca apretada contra el pecho, esquivando las mesas. Touka la sigue con la mirada desde la barra, con los labios apretados, y no dice nada.
+
+Hinami se detiene frente a tu taburete. Es tan chica que, sentado, le quedas casi a la altura de los ojos. Te mira la cara un rato, con mucha seriedad: la cicatriz, el ojo rojo, el ojo azul.
+
+—¿Duele? —pregunta.
+
+Y antes de que nadie conteste, cierra los ojos fuerte, como hacen los chicos antes de una vacuna, y levanta un poco la cara hacia ti. La bufanda le tapa la barbilla.
+
+Kase baja de la barra al taburete de al lado y se sienta a mirarla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1184 · TOKYO GHOUL · MAÑANA · 07:37    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:36, Anteiku abierto. Hinami pregunta si ella también puede comer pan. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:37, Anteiku. Hinami pregunta si duele y espera con los ojos cerrados. Facundo puede actuar.

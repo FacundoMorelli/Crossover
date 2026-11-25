@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1154 (Facundo los saca de la mansión).
 ENCUENTROS:
 - T1154 · Escondida entre los helechos del bosque. Corre a abrazar a Kaneki. Facundo los teletransporta al acantilado.
 DIÁLOGOS CLAVE:
+- T1184 · "¿Duele?"
 - T1183 · "Buenos días." "Arriba, Onii-chan y el señor Banjou están comiendo pan. Y no les da asco." "¿Yo también puedo?"
 - T1155 · "Anteiku. El señor Yoshimura siempre dijo que podíamos volver. Touka está ahí. Y el señor Yomo. Ahí nunca me pasó nada malo, hermano."
 - T1154 · "¡Hermano!"
