@@ -12,6 +12,7 @@ MISIÓN: Que ningún miembro de Anteiku muera ni sea capturado durante la Operac
 - T1169 · Banjou y los tres de las máscaras, sin hambre de ghoul (Transfiguración Ociosa).
 - T1174 · Touka, sin hambre de ghoul (Transfiguración Ociosa).
 - T1180 · Recinto de Sakaime (6 caras) sobre Anteiku: entra y sale cualquiera salvo la CCG; no entra ningún ataque contra el lugar. Hilo plateado finísimo en la vereda.
+- T1183 · Recinto modificado: la CCG pasa si viene a tomar café; no pasa si viene a destruir o matar.
 
 ## TRANSFIGURACIÓN CONTRA EL HAMBRE (mecánica fijada T1169, explicada al jugador)
 - Siguen siendo ghouls: kagune, kakugan al usarlo, fuerza, regeneración y piel dura. Las células RC no cambian: las puertas RC de la CCG los detectan igual y siguen oliendo a ghoul.

@@ -50,3 +50,5 @@
 - Touka, Yoshimura · T1181 · vieron y olieron la espada (no huele a ghoul: no es una quinque). Yoshimura sintió el Recinto cerrarse "como la tapa de una caja" y lo sigue sintiendo (deducción: lo relaciona con la línea plateada de la hoja y la de la vereda).
 - Yoshimura, Touka · T1182 · por Facundo: la barrera invisible no deja pasar a nadie de la CCG ni ningún ataque.
 - Facundo · T1182 · por Yoshimura: a veces investigadores entran de civil como clientes.
+- Yoshimura, Touka · T1183 · por Facundo: la barrera deja pasar a investigadores que vienen a tomar café, no a los que vienen a destruir o matar.
+- Hinami · T1183 · por lo que vio arriba: Kaneki y Banjou comen pan sin asco. Sabe (por las paredes finas y por ellos) que Facundo lo hizo.

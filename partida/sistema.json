@@ -1,8 +1,8 @@
 {
-  "turno": 1182,
+  "turno": 1183,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "otoño (TG cap. ~105), mañana siguiente al asalto a la mansión de Kanou",
-  "hora": "07:34",
+  "hora": "07:36",
   "edad": 18,
   "nivel": 28,
   "exp": 275930,
@@ -189,7 +189,7 @@
           "tipo": "Recinto de 6 caras (con techo)",
           "lugar": "Anteiku, Distrito 20 (Tokyo Ghoul)",
           "desde": "T1180 07:31",
-          "reglas": "Entra y sale todo el que quiera, salvo miembros de la CCG. No entra ningún ataque dirigido contra el lugar (balas, quinques, fuego, nada lanzado contra Anteiku). Dura lo que Facundo quiera.",
+          "reglas": "Entra y sale todo el que quiera. Investigadores de la CCG: pasan solo si vienen con intención de tomar café o similar; si vienen con intención de destruir o matar, no pasan (cambio T1183). No entra ningún ataque dirigido contra el lugar. Dura lo que Facundo quiera.",
           "visibilidad": "Líneas visibles: un hilo plateado finísimo en la vereda junto al cordón y por los costados/callejón; las paredes y el techo no se ven."
         }
       ],

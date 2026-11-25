@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1180)
-bueno si me permiten voy a hacer algo para que los de la ccg no puedan atacar este lugar, saco sakaime y pongo lineas alrededor de anteiku para dejar pasar a todos menos a los de la ccg, ni ningun ataque que venga hacia aqui
-
-## RESPUESTA 1 (T1180)
-
-> —Bueno, si me permiten, voy a hacer algo para que los de la CCG no puedan atacar este lugar.
-
-Yoshimura inclina apenas la cabeza. Es un permiso.
-
-Te levantas del taburete y sales a la calle. Kase se queda en la barra, junto al plato vacío, mirándote irte por el vidrio.
-
-Afuera el aire está frío y huele a lluvia de anoche. La calle angosta todavía duerme: los faroles amarillos apagados, el buzón rojo, la máquina expendedora zumbando sola en la esquina. Una señora con un perro chico pasa por la vereda de enfrente y no te mira.
-
-Abres la mano y Sakaime aparece en ella: la katana de guarda cuadrada negra y empuñadura blanca, con la línea plateada que le recorre la hoja.
-
-Tras la ventana, Touka se queda helada a mitad de camino hacia la puerta.
-
-—Traza, Sakaime.
-
-La línea plateada de la hoja se despega del metal y queda flotando en el aire, delante de ti, como un hilo de luz.
-
-Caminas.
-
-Bajas la punta de la espada hasta casi tocar la vereda y recorres el borde de Anteiku. Primero el frente, debajo del toldo. Después doblas la esquina y sigues por el costado, hasta el callejón de atrás, entre los tachos de basura y la puerta trasera de metal. Después el otro costado, pegado a la pared del edificio de al lado. Donde pasa la punta, queda una línea plateada en el suelo, delgada como un cabello.
-
-Cuando las cuatro líneas se tocan, el Marco se cierra. Levantas la espada, y de cada línea sube una pared que no se ve, hasta mucho más arriba del techo. Trazas la última línea en el aire, de un lado al otro, por encima de la azotea, y la cierras.
-
-Seis caras. Un Recinto entero alrededor del café, con techo.
-
-Le das la orden en silencio. Que entren todos los que quieran entrar, que salgan todos los que quieran salir. Que no entre nadie de la CCG. Que no entre ningún ataque que venga hacia aquí: ni balas, ni quinques, ni fuego, ni nada que alguien lance contra este lugar.
-
-El aire tiembla un instante, como el calor sobre el asfalto en verano, y vuelve a quedarse quieto.
-
-Sakaime vuelve a ser una espada. La guardas.
-
-En la vereda, si alguien se agacha a mirar de muy cerca, puede ver un hilo plateado finísimo que corre pegado al cordón, delante de la puerta, y se pierde por la esquina. Nada más.
-
-La señora del perro ya dobló la esquina. Nadie más te vio.
-
-Cuando vuelves a entrar, la campanita de la puerta suena. Touka está a dos pasos de la entrada, con los ojos muy abiertos, mirando la espada que ya no está en tu mano. Detrás de la barra, Yoshimura no se movió, pero tiene la vista clavada en el umbral, en el lugar exacto por donde acabas de pasar, como si pudiera sentir que algo cambió en el aire.
-
-—¿Qué... era eso? —pregunta Touka—. ¿Una quinque? ¿De dónde la sacaste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1180 · TOKYO GHOUL · MAÑANA · 07:31    ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1181)
+## COMANDO 1 (T1181)
 no es una quinque, es una espada, la saco y la pongo en el mostrador, pueden mirarla si quieren
 
-## RESPUESTA 2 (T1181)
+## RESPUESTA 1 (T1181)
 
 > —No es una quinque. Es una espada.
 
@@ -117,10 +56,10 @@ Te mira.
 
 ---
 
-## COMANDO 3 (T1182)
+## COMANDO 2 (T1182)
 puse una barrera invisible, no permite pasar a nadie de la ccg ni ningun ataque
 
-## RESPUESTA 3 (T1182)
+## RESPUESTA 2 (T1182)
 
 > —Puse una barrera invisible. No deja pasar a nadie de la CCG ni ningún ataque.
 
@@ -166,7 +105,62 @@ Touka lo entiende al mismo tiempo. Se le borra el principio de alivio que tenía
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1183)
+bueno, entonces, dejo pasar a los investigadores si solo vienen con la idea de tomar un cafe, si vienen con la idea de destruir o matar a alguien no
+
+## RESPUESTA 3 (T1183)
+
+> —Bueno, entonces dejo pasar a los investigadores si solo vienen con la idea de tomar un café. Si vienen con la idea de destruir o de matar a alguien, no.
+
+Apoyas dos dedos sobre la línea plateada de Sakaime, en el mostrador.
+
+Afuera, en la vereda, el hilo finísimo pegado al cordón brilla un instante, apenas, como una telaraña cuando le pega el sol, y se vuelve a apagar. El aire del umbral tiembla otra vez y se acomoda.
+
+La frontera ya no pregunta quién eres. Pregunta a qué vienes.
+
+Yoshimura lo siente. Se le nota en los hombros, que bajan un centímetro.
+
+—A qué vienen —dice, en voz baja, como si probara la idea—. No quiénes son.
+
+Se queda pensando, con la vista en la puerta.
+
+—Entonces un investigador que entra a tomar café, toma café. Y uno que viene a buscarnos, se queda afuera sin entender por qué. —Asiente despacio—. Va a ser raro igual, Morelli-san. Pero va a ser raro para uno a la vez, y no delante de todos. Eso se puede explicar. Un hombre que se olvida algo y se vuelve. Un hombre que cambia de idea en la puerta.
+
+Guardas la espada. Kase, que la estaba custodiando, se queda mirando el lugar vacío del mostrador con cara de ofendido.
+
+Touka mira el reloj de pared. Son las siete y treinta y cinco.
+
+—Ya es tarde —dice, y va hasta la puerta a dar vuelta el cartel. Del lado de afuera, ahora dice ABIERTO. Se queda un segundo con la mano en el picaporte, mirando la vereda, el hilo plateado junto al cordón. Después suelta el picaporte y vuelve detrás de la barra a atarse mejor el delantal.
+
+Cruje la escalera.
+
+Hinami baja despacio, un escalón por vez, con el pelo revuelto de dormir y la bufanda puesta encima del pijama, abrazada a la muñeca de tela del cuarto. Se frota un ojo con la mano libre. Mira a Touka, mira a Yoshimura, te mira a ti.
+
+—Buenos días —dice bajito. Y después, más bajito todavía, mirando el plato con migas de tus tostadas—: Arriba, Onii-chan y el señor Banjou están comiendo pan. Y no les da asco.
+
+Aprieta la muñeca.
+
+—¿Yo también puedo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1183 · TOKYO GHOUL · MAÑANA · 07:36    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:34, Anteiku. Yoshimura y Touka temen que un investigador de civil choque con la barrera y delate el lugar. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:36, Anteiku abierto. Hinami pregunta si ella también puede comer pan. Facundo puede responder.

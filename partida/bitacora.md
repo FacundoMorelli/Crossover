@@ -1181,3 +1181,4 @@ T1179 · TG · Anteiku · Advierte el riesgo de quitar el kagune. Yoshimura: "es
 T1180 · TG · Anteiku · Recinto de Sakaime de 6 caras sobre Anteiku: ni CCG ni ataques. Touka: "¿Una quinque? ¿De dónde la sacaste?"
 T1181 · TG · Anteiku · Sakaime en el mostrador. Touka: no huele a quinque. Yoshimura sintió algo cerrarse: "¿Qué hizo, Morelli-san?"
 T1182 · TG · Anteiku · Explica la barrera. Yoshimura: investigadores vienen de civil; si chocan, se darán cuenta. Touka: "Vuelven con más."
+T1183 · TG · Anteiku · El Recinto ahora filtra por intención (café sí; matar no). Anteiku abre. Hinami: "¿Yo también puedo?"
