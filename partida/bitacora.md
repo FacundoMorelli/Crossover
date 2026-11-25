@@ -1234,3 +1234,4 @@ T1232 · TG · Carpa central · "Soy un humano viajero." Propuesta de Washuu: el
 T1233 · TG · Carpa central · "Dile al presidente que venga." Washuu lo va a llamar. Entra Kishou Arima: "¿Te gusta leer?"
 T1234 · TG · Carpa central · Arima: "Ya sabes cómo terminan las historias de este lugar." Washuu llama al presidente; le pasa el teléfono a Facundo.
 T1235 · TG · Carpa central · Al teléfono con Washuu Tsuneyoshi: "¿Es verdad que les quita el hambre?"
+T1236 · TG · Carpa central · "El Búho come comida de verdad." Tsuneyoshi ofrece cesar la operación ya, a cambio de que Facundo vaya mañana a las 10 a su casa, solo: "Alguien en mi familia tiene hambre hace mucho."

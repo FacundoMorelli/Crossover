@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1233)
-no, ya lo dije, no voy a entregar a nadie, dile al presidente que venga
-
-## RESPUESTA 1 (T1233)
-
-> —No. Ya lo dije: no voy a entregar a nadie. Dile al presidente que venga.
-
-Washuu deja la taza en el platillo. Despacio. Sin ruido.
-
-Por primera vez desde que entraste, la sonrisa se le queda quieta un segundo de más, como un cuadro que se torció apenas en la pared.
-
-—Mi padre no viene a las calles —dice—. Hace treinta años que no pisa una.
-
-Se levanta de la silla. Se alisa el saco con las dos manos.
-
-—Pero entiendo. Usted no habla con intermediarios. —Asiente, como si eso le pareciera razonable—. Voy a llamarlo. Personalmente. Le voy a contar lo que vi esta noche y le voy a transmitir su pedido, palabra por palabra.
-
-Saca del bolsillo interior del saco un teléfono delgado y negro. No marca todavía. Lo sostiene en la mano, mirándote.
-
-—Mientras tanto —dice—, permítame presentarle a alguien. Llegó hace unos minutos. Le pedí que esperara afuera hasta que termináramos el té.
-
-La lona de la entrada de la carpa se abre.
-
-Houji y Kuroiwa se apartan al mismo tiempo, sin que nadie se lo pida. El hombre del cigarrillo apagado se despega del poste. Shinohara, a tu lado, deja de respirar un segundo.
-
-Entra un hombre alto y delgado, de pelo blanco, casi gris, cortado sin cuidado. Lentes de marco fino. Traje oscuro, camisa blanca, sin corbata. Un maletín plateado en la mano izquierda, colgando, como el de un oficinista que vuelve a casa. La cara no tiene ninguna expresión. No es frialdad. Es ausencia.
-
-No hace ruido al caminar.
-
-Lo sientes antes de mirarlo bien. Debajo de esa cara vacía hay algo tranquilo, afilado, muy viejo para la edad que aparenta. Es la presencia más pesada que encontraste en este mundo después de la del Búho. Quizás más.
-
-Tu instinto lo tasa.
-
-```
-╔════════════════════════════════════════╗
-║ KISHOU ARIMA                           ║
-║ CCG · Clase Especial, Escuadrón 0      ║
-║ PODER: Quinques IXA y Narukami,        ║
-║        combate perfeccionado           ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: muy inferior      ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-```
-
-Se detiene a dos metros de tu silla. Te mira. Mira las esposas encendidas. Mira a Kase.
-
-Kase lo mira a él. Y por primera vez en todo este mundo, se le eriza un poco el lomo.
-
-—Arima-san —dice Washuu, con el teléfono todavía en la mano—. Él es el viajero.
-
-Arima no saluda. No se presenta. Inclina la cabeza un poco hacia un lado, como un pájaro que estudia algo nuevo.
-
-—¿Te gusta leer? —te pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1233 · TOKYO GHOUL · DÍA 6 · 18:15     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, lomo erizado             ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con Washuu                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1234)
+## COMANDO 1 (T1234)
 leo mucho si, me gusta conocer al lugar al que viajo
 
-## RESPUESTA 2 (T1234)
+## RESPUESTA 1 (T1234)
 
 > —Leo mucho, sí. Me gusta conocer el lugar al que viajo.
 
@@ -129,10 +55,10 @@ Del parlante del teléfono sale el silencio de una línea abierta. Alguien, del 
 
 ---
 
-## COMANDO 3 (T1235)
+## COMANDO 2 (T1235)
 agarro el telefono, mucho gusto presidente, soy Facundo Morelli, un viajero
 
-## RESPUESTA 3 (T1235)
+## RESPUESTA 2 (T1235)
 
 > agarro el teléfono
 
@@ -173,7 +99,65 @@ En la carpa, nadie se mueve. Washuu Yoshitoki está a un metro de ti, con las ma
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1236)
+asi es, es verdad, de hecho el mismo buho puede comer comida de verdad ahora
+
+## RESPUESTA 3 (T1236)
+
+> —Así es, es verdad. De hecho, el mismo Búho ahora puede comer comida de verdad.
+
+Del otro lado de la línea no se oye nada.
+
+No es un silencio de sorpresa. Es otro tipo de silencio: el de alguien que deja una taza sobre la mesa muy despacio, con las dos manos, para que no tiemble.
+
+Pasan cinco segundos. Diez.
+
+Washuu Yoshitoki, a un metro de ti, deja de sonreír. No del todo. Solo un poco. Lo suficiente.
+
+Cuando la voz de Tsuneyoshi vuelve, sigue siendo cálida. Pero es más baja. Más vieja, de golpe.
+
+—El Búho —repite—. Come pan.
+
+Se le escapa algo que podría ser una risa, o un suspiro.
+
+—Ochenta años, Morelli-kun. Tengo ochenta y tantos años, y nunca nadie me dijo una cosa como esa por teléfono.
+
+Otra pausa. Se oye una silla que cruje del otro lado, como si alguien se recostara.
+
+—Le voy a decir lo que voy a hacer, y después usted me dice si le parece justo.
+
+La voz se vuelve más firme. La de un hombre que manda desde hace mucho tiempo.
+
+—Voy a ordenar el cese de la operación. Ahora. Mis hombres se retiran del Distrito 20 esta noche. Nadie más muere. Nadie más entra en ese café. El Búho... —una pausa mínima— no amanece muerto. Por ahora.
+
+Se oye la cuchara otra vez, una sola vuelta en la taza.
+
+—A cambio, le pido una sola cosa. Mañana a la mañana, a las diez, venga a mi casa. Mi hijo le va a dar la dirección. Venga solo. Sin esas esposas ridículas, que no le hacen nada. —Una pausa—. Hay alguien en mi familia que hace mucho tiempo que tiene hambre, Morelli-kun. Mucho más tiempo que el Búho. Y me gustaría que lo conociera.
+
+En la carpa, Washuu Yoshitoki cierra los ojos un instante detrás de los lentes. Muy breve. Cuando los abre, mira el suelo.
+
+—¿Le parece justo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1236 · TOKYO GHOUL · DÍA 6 · 18:19     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con el presidente         ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:18, carpa central. Al teléfono, el presidente Washuu Tsuneyoshi pregunta si es verdad que Facundo les quita el hambre a los ghouls. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:19, carpa central. Tsuneyoshi ofrece cesar la operación ya a cambio de que Facundo vaya mañana a las 10 a su casa, solo, a conocer a alguien de su familia que tiene hambre. Pregunta si le parece justo. Facundo puede responder.

@@ -137,3 +137,5 @@
 - Arima, Washuu y los presentes · T1234 · Facundo dice que lee mucho y le gusta conocer el lugar al que viaja.
 - Washuu Tsuneyoshi (presidente) · T1234 · por Yoshitoki (teléfono): un humano esposado sin reacción a las esposas, 27 dormidos sin muertos, el Búho dentro de una pared. Pide hablar con Facundo.
 - Washuu Tsuneyoshi · T1235 · Facundo se presentó: Facundo Morelli, un viajero. Tsuneyoshi conoce el informe del hambre.
+- Tsuneyoshi, Yoshitoki, Arima, Shinohara, Houji, Kuroiwa, Marude · T1236 · por Facundo: el Búho ahora puede comer comida de verdad (fue transfigurado).
+- Facundo · T1236 · por Tsuneyoshi: "hay alguien en mi familia que hace mucho tiempo que tiene hambre".
