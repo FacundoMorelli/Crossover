@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1138.
 ENCUENTROS:
 - T1138 · Su oficina, piso 42 · Facundo aparece mientras habla con Hawks sobre Deika.
 DIÁLOGOS CLAVE:
+- T1142 · "Le voy a pedir un sedante para esa criatura. Uno para elefantes. Varios." (casi sonríe)
 - T1141 · "Que nadie muera." "Operativo conjunto. La gente quiere creer que sus héroes ganaron. Y esta vez, más o menos, es cierto."
 - T1140 · "En treinta y dos años nunca escuché a nadie decir \"nada\" y que fuera verdad." "Voy a decidir creerle. Por ahora." "¿La verdad, o un operativo conjunto sin su nombre? ¿Qué prefiere usted?"
 - T1139 · "Una de esas firmas es la mía. Yo no la firmé. Pero es mi firma." "Eso me alegra. Y también me aterra." "De usted no sé ninguna de las tres cosas." "¿Qué es lo que usted quiere?"

@@ -7,9 +7,10 @@ FÍSICO: Más alto que un edificio de cuatro pisos, cuerpo deforme lleno de mús
 PERSONALIDAD: —
 RELACIÓN: Primer encuentro T1122.
 ENCUENTROS:
+- T1142 · Empieza a despertar; Facundo le da un golpe en la frente y vuelve a quedar inconsciente.
 - T1123 · Facundo dice su nombre y lo deja inconsciente.
 - T1122 · Valle arrasado · Peleando contra Shigaraki; pisa a 20 m de Facundo.
 DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1123).
 QUÉ PODERES VIO: Ninguno.
-ESTADO: Inconsciente en el valle, empezando a mover los dedos (T1141).
+ESTADO: Inconsciente en el valle (T1142). La Comisión pedirá sedantes.

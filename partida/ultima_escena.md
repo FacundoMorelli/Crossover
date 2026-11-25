@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1139)
-una habilidad, en fin, querian hablar conmigo
-
-## RESPUESTA 1 (T1139)
-
-> —Una habilidad. En fin, querían hablar conmigo.
-
-La presidenta no se inmuta.
-
-—Una habilidad —repite, como quien anota algo en un expediente—. Bien.
-
-Les hace un gesto mínimo a los guardias con dos dedos. Ellos dudan un segundo, se miran, y salen. La puerta se cierra con un clic suave.
-
-Ella se sienta. Despacio, derecha, sin apoyar la espalda en el respaldo. Toca una de las pantallas del escritorio y la gira hacia ti.
-
-Es tu ficha. Tu foto. "ECLIPSE · Facundo Morelli · Licencia de Héroe Profesional · ACTIVA".
-
-—Sí, quería hablar con usted —dice—. Le voy a decir lo que sé, y usted me va a decir si me equivoco.
-
-Levanta un dedo.
-
-—A las once y cincuenta y siete de esta mañana, su licencia apareció en nuestro registro. Con número, fecha de emisión de hace tres años, historial de evaluaciones, firmas de validación. —Hace una pausa—. Una de esas firmas es la mía. Yo no la firmé. Pero es mi firma. La revisaron cuatro peritos.
-
-Segundo dedo.
-
-—A las doce y cinco, según Nezu, la Liga de Villanos completa quedó encerrada en una cabaña en las montañas de Gunma. Shigaraki incluido. Y la criatura que estaba con ellos, que mide como un edificio, tirada en la nieve.
-
-Tercer dedo.
-
-—A las doce y once, Kyudai Garaki y sesenta y cuatro Nomu bajo el hospital de Jaku. Endeavor lo confirma.
-
-Cuarto dedo.
-
-—Y hace dos minutos, una ciudad entera. —La voz no le cambia nada—. Ciento dieciséis mil personas, según mi agente. Inconscientes. En un segundo.
-
-Baja la mano. La apoya plana sobre el escritorio.
-
-—En una hora, usted hizo lo que esta Comisión y todos los héroes del país no pudimos hacer en un año. Eso me alegra, señor Morelli. Sinceramente. —Los ojos grises no se mueven de los tuyos—. Y también me aterra. Mi trabajo es que los héroes de este país sean confiables. Que la gente sepa qué pueden hacer, a quién responden, y qué pasa si un día dejan de responder.
-
-Se inclina apenas hacia adelante.
-
-—De usted no sé ninguna de las tres cosas.
-
-Una pausa.
-
-—Así que se lo pregunto directamente. —Junta las manos sobre el escritorio—. ¿Qué es lo que usted quiere?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1139 · BOKU NO HERO · DIC. · 12:44     ║
-║ Comisión de Seguridad Pública · oficina de   ║
-║ la presidenta, piso 42                       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Hablar con la Comisión             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1140)
+## COMANDO 1 (T1140)
 nada, vine a ayudarlos, seguro en unos dias desaparezca
 
-## RESPUESTA 2 (T1140)
+## RESPUESTA 1 (T1140)
 
 > —Nada. Vine a ayudarlos. Seguro en unos días desaparezca.
 
@@ -125,10 +57,10 @@ Junta las manos otra vez.
 
 ---
 
-## COMANDO 3 (T1141)
+## COMANDO 2 (T1141)
 eh hagan la segunda opcion, no me interesa el reconocimiento, me interesa que nadie muera
 
-## RESPUESTA 3 (T1141)
+## RESPUESTA 2 (T1141)
 
 > —Eh, hagan la segunda opción. No me interesa el reconocimiento. Me interesa que nadie muera.
 
@@ -176,4 +108,59 @@ Del teléfono sale, débil, la voz de Aizawa, cansada, seca:
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:47, oficina de la presidenta. Versión pública: operativo conjunto, sin Eclipse. Aizawa (por teléfono) no puede sacar a los villanos del Recinto, y Gigantomachia empieza a mover los dedos en el valle. Facundo puede actuar.
+## COMANDO 3 (T1142)
+eh perdon lo deje asi por que no sabia si se podian despertar antes que lleguen, dejo salir a todos, ya pueden sacarlos, ya vengo, le pego a machia de nuevo y vuelvo en 1 segundo
+
+## RESPUESTA 3 (T1142)
+
+> —Eh, perdón, lo dejé así porque no sabía si se podían despertar antes de que llegaran. Ya dejo salir a todos, ya pueden sacarlos. Ya vengo. Le pego a Machia de nuevo y vuelvo en un segundo.
+
+A cientos de kilómetros, en la nieve, las seis caras del Recinto de Sakaime dejan de ser una frontera.
+
+[Recinto modificado: deja pasar a todos.]
+
+Desapareces.
+
+El valle. Frío, viento, el olor a tierra removida. El gigante está de espaldas sobre la nieve, con la avalancha chica todavía acumulada contra el costado. Los dedos de una mano, cada uno más grueso que un tronco, se abren y se cierran despacio. Un párpado enorme tiembla. Del pecho le sale un gruñido grave que hace vibrar el suelo.
+
+Le das un golpe en la frente.
+
+El gruñido se corta. Los dedos se aflojan y caen sobre la nieve. El párpado se queda quieto.
+
+Estás otra vez en la oficina del piso cuarenta y dos.
+
+La presidenta sigue con el teléfono en la mano. Te mira. No pasó ni un segundo entero; Kase ni siquiera alcanzó a acomodarse en tu hombro.
+
+Del teléfono sale la voz de Aizawa, ahora un poco más fuerte, con ruido de fondo de gente que se mueve:
+
+—...ya pasan. Ya los estamos sacando. Shigaraki primero. —Una pausa—. Y el gigante... —Otra pausa, más larga—. ¿Ya volvió a dormirse? Hace un segundo estaba gruñendo. ¿Fue él?
+
+La presidenta no le contesta a Aizawa. Te mira a ti.
+
+—Le voy a pedir un sedante para esa criatura —dice, muy despacio—. Uno para elefantes. Varios.
+
+Y por primera vez desde que llegaste, la comisura de la boca se le mueve apenas. Casi una sonrisa.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1142 · BOKU NO HERO · DIC. · 12:48     ║
+║ Comisión de Seguridad Pública · oficina de   ║
+║ la presidenta, piso 42                       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (abierto, deja pasar a todos)║
+║ Gigantomachia: inconsciente otra vez         ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:48, oficina de la presidenta. Recinto abierto; Aizawa saca a los villanos. Gigantomachia inconsciente otra vez. La presidenta pide sedantes y casi sonríe. Facundo puede actuar.
