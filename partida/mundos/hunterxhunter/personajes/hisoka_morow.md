@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1042 · Llega a los baños a matar a Kortopi y encuentra a Facundo delante.
 - T1045 · Facundo lo deja inconsciente de un golpe.
 DIÁLOGOS CLAVE:
+- T1054 · "¿Las arañas van a subir a ese barco? ¿Tú lo sabes?" "Yo no hago promesas. Las promesas son aburridas. Pero me gustan los tratos." Trato: no toca arañas hasta el zarpe; ese día pelea en serio con Facundo; si Facundo gana, se olvida de las arañas para siempre. "¿Trato? ♠"
 - T1053 · "Facundo Morelli. ♥" "Eso no fue Nen. Lo sentí. Me tocaste algo que no es el cuerpo. Algo más adentro. Nadie puede hacer eso." "No entiendo nada de ti, Facundo Morelli. ♠ Nada. ¿Por qué lo hiciste? ♥"
 - T1052 · "Hola... ♥ Me tiraste. De un golpe." "Hoy me mataron una vez. Y me tiraste otra. Es el mejor día de mi vida. ♠" "No siento nada de ti. Nadie se esconde así. Ni Chrollo. Ni el viejo Zeno." "¿Cómo te llamas? ♥"
 - T1044 · Con la mejilla abierta: "Ah... Aaah... ♥ Más. Dame más."

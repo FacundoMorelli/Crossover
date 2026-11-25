@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1051)
-hasta que zarpe el Black Whale, después hagan lo que quieran, si quieren intentar matar a hisoka o lo que quieran despues de eso se los dejo, ahora vayanse de aca
-
-## RESPUESTA 1 (T1051)
-
-> hasta que zarpe el Black Whale, después hagan lo que quieran, si quieren intentar matar a hisoka o lo que quieran despues de eso se los dejo, ahora vayanse de aca
-
-> —Hasta que zarpe el Black Whale. Después, hagan lo que quieran. Si quieren intentar matar a Hisoka o lo que sea, después de eso se los dejo. Ahora, váyanse de aquí.
-
-—El Black Whale —repite Chrollo.
-
-No pregunta nada más. Te mira con la misma calma de antes, pero algo se le mueve detrás de los ojos: una idea que se acomoda, una pieza que encaja en un lugar que nadie más ve.
-
-Shalnark mira a Chrollo de reojo. Chrollo no lo mira a él.
-
-—Está bien —dice al fin.
-
-Se da vuelta. No se apura. Camina hacia la esquina de la calle, por debajo del poste torcido, con las manos en los bolsillos del abrigo.
-
-—Vamos.
-
-Shalnark se despega de la pared. Al pasar junto a ti te mira, con la sonrisa otra vez puesta, más chica que antes.
-
-—Fue un gusto, Facundo Morelli. —Levanta el celular—. Ahora tengo tu nombre en mi lista de contactos. No tengo tu número, pero ya lo voy a conseguir. —Le guiña un ojo a Kase. Kase lo mira con desprecio.
-
-Kortopi se levanta del escalón. Pasa a tu lado sin decir nada, despacio. Se detiene un segundo. El ojo, entre el pelo, se queda en ti.
-
-—Gracias —dice. Bajito, ronco. Es lo único.
-
-Después sigue.
-
-Machi es la última. No se mueve enseguida. Te mira con los brazos cruzados, los hilos ya guardados, la cara seria.
-
-—Me salvaste —dice—. No te lo pedí. —Una pausa—. Pero no lo voy a olvidar.
-
-Se da vuelta y alcanza a los otros tres en la esquina. Chrollo no mira atrás. Los cuatro doblan y desaparecen entre las luces de la avenida.
-
-La calle queda vacía. Solo el farol que zumba, el neón roto de los baños que parpadea, y a lo lejos las sirenas, que ya se están apagando.
-
-Y Hisoka, en el asfalto, a tus pies.
-
-Kase baja la cabeza desde tu hombro y lo mira.
-
-Los dedos de la mano derecha de Hisoka, la que tiene entera, se mueven. Un poco. Rascan el asfalto, despacio, como un animal que sueña.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1051 · HUNTER X HUNTER · DÍA 1 · 19:55 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1052)
+## COMANDO 1 (T1052)
 hola hisoka
 
-## RESPUESTA 2 (T1052)
+## RESPUESTA 1 (T1052)
 
 > hola hisoka
 
@@ -121,10 +58,10 @@ Apoya la mano sana en el asfalto y se incorpora, apenas, sobre un codo. Le cuest
 
 ---
 
-## COMANDO 3 (T1053)
+## COMANDO 2 (T1053)
 me llamo Facundo Morelli, le curo el brazo y las piernas con la tecnica de mahito
 
-## RESPUESTA 3 (T1053)
+## RESPUESTA 2 (T1053)
 
 > me llamo Facundo Morelli, le curo el brazo y las piernas con la tecnica de mahito
 
@@ -182,4 +119,55 @@ Se lame el labio de abajo.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 19:59, baños públicos. Facundo le devolvió a Hisoka la mano y la pierna con la Transfiguración Ociosa. Hisoka, de pie, le pregunta por qué lo hizo. Facundo puede responder.
+## COMANDO 3 (T1054)
+ahora no vayas a por las arañas, cuando zarpe el black whale puedes hacer lo que quieras
+
+## RESPUESTA 3 (T1054)
+
+> ahora no vayas a por las arañas, cuando zarpe el black whale puedes hacer lo que quieras
+
+> —Ahora no vayas por las arañas. Cuando zarpe el Black Whale, puedes hacer lo que quieras.
+
+Hisoka inclina la cabeza hacia un lado. Después hacia el otro. Como un gato que escucha un ruido que no termina de ubicar.
+
+—El Black Whale —repite—. El barco de Kakin. El que va al Continente Oscuro. —Se ríe, bajito—. ¿Las arañas van a subir a ese barco? ¿Tú lo sabes?
+
+No espera respuesta. Se mira la mano nueva. Flexiona los dedos.
+
+—Me pides que no los toque. Unos días. —Te mira—. Y a cambio, ¿qué? ♣
+
+Se acerca un paso. Otro. Hasta quedar a medio metro de ti, con la cara manchada de sangre seca y los ojos amarillos fijos en los tuyos. Kase le gruñe bajito desde tu hombro. Hisoka ni lo mira.
+
+—Yo no hago promesas, Facundo. Las promesas son aburridas. —Sonríe—. Pero me gustan los tratos. Y los juegos.
+
+Levanta un dedo, el índice de la mano nueva.
+
+—Te propongo uno. Hasta que zarpe ese barco, no toco a ninguna araña. Ni a Chrollo, ni al rubio, ni al peludito, ni a Machi. Nada. —Levanta otro dedo—. Y el día que zarpe, antes de que yo vaya a buscarlos, tú y yo peleamos. En serio. Sin que me tires de un golpe. —Los ojos le brillan—. Quiero ver qué hay ahí adentro. Todo. Lo que me escondes.
+
+Baja la mano.
+
+—Si me ganas, me olvido de las arañas para siempre. Las arañas te las regalo. ♥ —Se lame el labio—. Si te gano yo... bueno. Ya veremos.
+
+Se queda esperando, con las manos en la espalda, balanceándose apenas sobre los talones de las dos piernas, la nueva y la vieja.
+
+—¿Trato? ♠
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1054 · HUNTER X HUNTER · DÍA 1 · 20:01 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, gruñendo                 ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 20:01, baños públicos. Hisoka propone un trato: no toca a las arañas hasta el zarpe; ese día pelean en serio; si gana Facundo, deja a las arañas para siempre. "¿Trato?" Facundo puede responder.

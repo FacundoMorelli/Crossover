@@ -1052,3 +1052,4 @@ T1050 · HxH · Baños públicos · "Si terminas lo que empezaste, yo termino lo
 T1051 · HxH · Baños públicos · "Hasta que zarpe el Black Whale. Váyanse." Chrollo: "El Black Whale." Se van. Kortopi: "Gracias." Machi: "No lo voy a olvidar." Hisoka mueve los dedos.
 T1052 · HxH · Baños públicos · "Hola, Hisoka." Hisoka despierta riéndose: "Es el mejor día de mi vida." "¿Cómo te llamas? ♥"
 T1053 · HxH · Baños públicos · "Me llamo Facundo Morelli." Transfiguración Ociosa: mano y pierna de Hisoka de vuelta. "Eso no fue Nen." "¿Por qué lo hiciste? ♥"
+T1054 · HxH · Baños públicos · "No vayas por las arañas hasta que zarpe." Hisoka propone trato: pelea en serio el día del zarpe; si gana Facundo, deja a las arañas. "¿Trato? ♠"
