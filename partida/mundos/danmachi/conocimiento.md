@@ -28,3 +28,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Los 8 Xenos de Knossos · T1073 · lo vieron aparecer y llevarlos al sótano tocándolos. Por Wiene: se llama Facundo, es amigo, le gustan los gatos.
 - Familia Loki (Finn), Familia Ganesha, Gremio y toda Orario (pregón público en los techos) · T1073 · por Bete y su patrulla: un humano de pelo blanco y azul, ojos de distinto color, con un gato gigante, atacó a una patrulla de Loki y Ganesha; puede estar con los monstruos. Finn ordenó encontrarlo. No saben su nombre.
 - Ais Wallenstein · T1073 · busca al "humano del gato" por orden de Finn.
+- Bell, Hestia, Lili, Welf, Mikoto, Haruhime · T1074 · lo ven aparecer de la nada en la sala con Wiene. Hestia lo identifica como "el que buscan" por el pregón (pelo, ojos, gato). No saben su nombre.
+- NOTA DEL MUNDO · Los dioses (Hestia y todos) detectan las mentiras de los mortales. El Velo no lo impide (no lee mentes: ven si una frase es mentira, no los pensamientos).

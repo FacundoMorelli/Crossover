@@ -1072,3 +1072,4 @@ T1070 · DanMachi · Campanario roto · Teletransporte con Lido, Wiene y Gros. R
 T1071 · DanMachi · Campanario · Agua y semilla a Rei: curada, canta una nota. Antorchas giran. Gros: "Las cloacas. Ahora."
 T1072 · DanMachi · Cloacas · Teletransporte con los cuatro. Fia (ala rota, fiebre) y Aruru. Patrulla en la reja con antorcha. Lido le tapa la boca a Fia.
 T1073 · DanMachi · (simulado) Fia curada; Knossos: 8 Xenos con el troll; los 14 en el sótano. Bete despierta; alarma general; la Familia Loki entera busca al "humano del gato". Ais pasa. Wiene: "¿Ahora vamos a ver a Bell?"
+T1074 · DanMachi · Hearthstone Manor · Teletransporte con Wiene. "¡BELL!" Hestia: "A mí no se me puede mentir. ¿Quién eres?"

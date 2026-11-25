@@ -3,79 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1071)
-le doy agua y una semilla del ermitaño
-
-## RESPUESTA 1 (T1071)
-
-> le doy agua y una semilla del ermitaño
-
-Te arrodillas a su lado. Sacas la cantimplora del sobretodo y se la acercas a los labios.
-
-Rei no puede sostenerla: no tiene manos. Se la inclinas tú, despacio. El primer trago le cae por la barbilla. El segundo lo traga. El tercero lo traga con desesperación, con los ojos cerrados, haciendo un ruido chiquito con la garganta, como un pájaro que bebe de un charco.
-
-Cuando la cantimplora queda medio vacía, le pones una semilla del ermitaño entre los labios.
-
-—Mastícala —dice Lido, a su lado, sin saber qué es.
-
-Rei mastica. Traga.
-
-Un segundo.
-
-El ala torcida se le endereza sola, con un crujido seco que hace que Wiene se tape los ojos. Las plumas, opacas y sucias, se le aclaran, se le vuelven brillantes, celestes y blancas, como si alguien las hubiera lavado. Los labios partidos se le cierran. El color le vuelve a la cara.
-
-Rei abre los ojos.
-
-Abre las dos alas, despacio, de par en par, enormes, de un arco al otro del campanario. Las mira. Las mueve una vez, y el viento de las plumas levanta el polvo del piso y hace girar la cuerda cortada de la campana.
-
-Después respira hondo. Con todo el pecho.
-
-Y canta.
-
-No es una canción. Es una sola nota, larga, clara, que sale de su garganta como agua que se derrama: limpia, alta, perfecta. Dura apenas dos segundos. Se pierde por los arcos del campanario hacia la noche de Dédalo.
-
-Se tapa la boca con la punta de un ala, asustada de sí misma.
-
-—Perdón —susurra. Pero ya no es un susurro roto: es una voz dulce, entera—. Hacía tanto que no podía...
-
-Te mira. Los ojos azules se le llenan de lágrimas.
-
-—Gracias. —Inclina la cabeza, tan bajo que el pelo le toca el piso—. Muchas gracias.
-
-Lido se ríe, una risa corta, sorprendida.
-
-—Bueno, eso no fue muy disimulado. —Mira hacia los arcos, hacia los techos de abajo—. Si alguien estaba escuchando...
-
-En un techo lejano, tres calles más abajo, una antorcha se detiene. Después otra. Las dos giran hacia el campanario.
-
-Gros gruñe.
-
-—Las cloacas —dice—. Fia y Aruru. Ahora.
-
-[Semillas del ermitaño: 81.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1071 · DANMACHI · NOCHE 1 · 23:23      ║
-║ Orario · Dédalo, campanario roto             ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Fia y Aruru (cloacas)              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1072)
+## COMANDO 1 (T1072)
 los toco a todos y me teletransporto a las cloacas
 
-## RESPUESTA 2 (T1072)
+## RESPUESTA 1 (T1072)
 
 > los toco a todos y me teletransporto a las cloacas
 
@@ -137,10 +68,10 @@ Lido le tapa la boca con una garra.
 
 ---
 
-## COMANDO 3 (T1073)
+## COMANDO 2 (T1073)
 le doy una semilla del ermitaño a Fia. simula
 
-## RESPUESTA 3 (T1073)
+## RESPUESTA 2 (T1073)
 
 > le doy una semilla del ermitaño a Fia. simula
 
@@ -214,4 +145,84 @@ Wiene, sentada en la ceniza con la capa de Bell apretada contra el pecho, levant
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:22, sótano de la panadería quemada. Los 14 Xenos reunidos (falta Asterius). Alarma general: la Familia Loki entera busca a Facundo por orden de Finn; Ais cerca. Wiene pregunta si ahora van a ver a Bell. Facundo puede actuar.
+## COMANDO 3 (T1074)
+sí, toco a Wiene y me teletransporto a la casa de Bell
+
+## RESPUESTA 3 (T1074)
+
+> sí, toco a Wiene y me teletransporto a la casa de Bell
+
+> —Sí.
+
+Le tiendes la mano a Wiene. Ella la mira un segundo, con los ojos dorados enormes, y después la agarra con las dos manos, fuerte, con la capa de Bell todavía colgándole de un brazo.
+
+—Cuídenlos —le dice Lido a Gros, en voz baja, sin dejar de mirarte—. Si en diez minutos no vuelven...
+
+No escuchas el resto.
+
+El sótano desaparece.
+
+Aparecen en una sala.
+
+Hay luz: una lámpara de piedra mágica en una mesa baja, otra en la pared. Una alfombra gastada, un sillón viejo de cuero, una chimenea apagada con brasas todavía rojas. Huele a té frío y a madera. Las ventanas están cerradas con las cortinas corridas, y detrás de las cortinas se escucha el ruido de la ciudad: las campanas, los gritos, botas que pasan corriendo por la calle.
+
+Hay cinco personas en la sala. Todas despiertas. Todas vestidas.
+
+Una nena de pelo negro atado en dos coletas largas, con un vestido blanco y una cinta azul cruzándole el pecho, de pie junto a la chimenea con los brazos cruzados. Una chica bajita, de pelo castaño y orejas de no humana, sentada en el borde del sillón con una mochila enorme a los pies. Un muchacho pelirrojo con un trapo atado en la frente, apoyado en la pared con los brazos cruzados. Una chica de pelo negro corto y ropa de oriente, con una katana en las rodillas. Una muchacha zorro de pelo dorado y colas esponjosas, que se tapa la boca al verte.
+
+Y en el medio de la sala, de pie, un chico.
+
+Bajito. Pelo blanco, despeinado. Ojos rojos, enormes, con ojeras de no haber dormido en dos días. Una armadura ligera a medio poner, con una correa suelta. Estaba diciendo algo. Se le quedó la palabra en la boca.
+
+╔════════════════════════════════════════╗
+║ BELL CRANEL                            ║
+║ Familia Hestia · Nivel 3               ║
+║ PODER: Firebolt, Argonaut              ║
+║ AMENAZA: NULA                          ║
+║ Diferencia estimada: tú, x170 sobre él ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+
+Wiene suelta tu mano.
+
+—¡BELL!
+
+Cruza la sala corriendo, con la capa arrastrando, la cola levantada, y se le tira encima. Bell la ataja por reflejo. Tambalea dos pasos hacia atrás con ella en los brazos. La mira, sin poder creerlo.
+
+—¿Wiene...? ¡Wiene! ¿Cómo...? ¿Qué haces aquí? ¡Afuera está lleno de...!
+
+Wiene no le contesta. Le esconde la cara en el pecho, contra la armadura, y llora y se ríe al mismo tiempo.
+
+El muchacho pelirrojo se despega de la pared con la mano en el mango de una espada enorme. La chica de la katana se pone de pie de un salto. La de la mochila se esconde detrás del sillón.
+
+La nena de las coletas no se mueve. Te mira a ti. Directo a los ojos, del rojo al azul, con una mirada que no es de nena. Es mucho más vieja que la cara que tiene.
+
+—Tú —dice. La voz es clara, firme, sin miedo—. El de las campanas. El que buscan.
+
+Da un paso hacia ti, con las manos en la cintura, entre tú y Bell.
+
+—Apareciste en mi casa de la nada. Con una de ellos. —Te mira el pelo, la cicatriz, el gato—. Soy la diosa Hestia, y esta es mi Familia. Y a mí no se me puede mentir, así que piensa bien lo que vas a decir.
+
+Inclina la cabeza.
+
+—¿Quién eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1074 · DANMACHI · NOCHE 2 · 00:23      ║
+║ Orario · Hearthstone Manor, la sala          ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: La despedida de Wiene              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:23, sala de la Hearthstone Manor. Wiene abraza a Bell. La Familia Hestia en guardia. Hestia (que detecta mentiras) le pregunta a Facundo quién es. Facundo puede responder.
