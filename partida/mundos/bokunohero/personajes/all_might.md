@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: gratitud inmensa (salvó a Izuku; lo curó y le devolvió
 ENCUENTROS:
 - T1092 · Diciembre 09:45 · Entra a la sala de interrogatorio (estaba tras el espejo; amigo de Tsukauchi).
 DIÁLOGOS CLAVE:
+- T1116 · "Él." "Se va a enterar. Tarde o temprano." "Si de verdad es él... yo voy."
 - T1115 · "¡Totalmente legítima! ¡Y de la nada misma!"
 - T1113 · "Y la U.A. va a estar en medio."
 - T1112 · "Viniste de otro mundo... y lo primero que hiciste fue detener un robo en un banco." "Te creo, joven Morelli. No sé si es verdad, pero te creo."

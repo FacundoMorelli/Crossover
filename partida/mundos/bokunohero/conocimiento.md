@@ -45,3 +45,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu, Aizawa, All Might · T1113 · la misión de Facundo en este mundo: que nadie de la U.A. muera hasta que termine "la guerra". Deducen que habrá una guerra y que Facundo cree que alguien de la U.A. moriría.
 - Nezu, Aizawa, All Might · T1114 · Facundo no sabe quién moriría. Quiere licencia de héroe legítima para detener a los villanos. Nezu ofrece interceder ante la Comisión.
 - Nezu, Aizawa, All Might · T1115 · vieron aparecer en el registro de la Comisión una licencia profesional activa a nombre de Facundo, que esa mañana no existía. Saben que la consiguió él solo "de la nada".
+- Nezu, Aizawa, All Might · T1116 · entienden que Facundo habla de All For One (Tartarus). All Might decide acompañarlo.

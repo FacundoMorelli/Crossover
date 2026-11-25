@@ -3,106 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1113)
-que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
-
-## RESPUESTA 1 (T1113)
-
-> que nadie de la UA muera hasta que termine la guerra(y dame las misiones de copia de midoriya, uraraka, etc las que vi)
-
-> —Que nadie de la U.A. muera hasta que termine la guerra.
-
-Nezu se queda quieto.
-
-All Might, todavía arrodillado frente a ti, deja de sonreír. Aizawa levanta la vista de golpe.
-
-—Hasta que termine la guerra —repite Nezu, despacio—. No "una guerra". "La" guerra.
-
-Junta las patitas sobre el escritorio mojado. La voz aguda le sale más baja que nunca.
-
-—Usted no está hablando de una posibilidad, señor Morelli. Está hablando de algo que va a pasar.
-
-[Registros de poder emitidos.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTROS DE PODER · Boku no Hero            ║
-╠══════════════════════════════════════════════╣
-║ ONE FOR ALL (Full Cowl, Látigo Negro y lo    ║
-║ que despierte) · Izuku Midoriya              ║
-║ MISIÓN: Entrenar con él hasta que use el     ║
-║ Látigo Negro con control. · ALTA             ║
-╠══════════════════════════════════════════════╣
-║ GRAVEDAD CERO · Ochaco Uraraka               ║
-║ MISIÓN: Dejar que te haga flotar y te baje   ║
-║ donde ella elija. · BAJA                     ║
-╠══════════════════════════════════════════════╣
-║ BORRAR · Shota Aizawa                        ║
-║ MISIÓN: Que te pida ayuda con sus alumnos.   ║
-║ · MEDIA                                      ║
-╠══════════════════════════════════════════════╣
-║ LAVADO DE CEREBRO · Hitoshi Shinso           ║
-║ MISIÓN: Contestarle a propósito una          ║
-║ pregunta. · MEDIA                            ║
-╠══════════════════════════════════════════════╣
-║ COPIA · Neito Monoma                         ║
-║ MISIÓN: Que admita que la 1-A tiene algo     ║
-║ bueno. · MEDIA                               ║
-╠══════════════════════════════════════════════╣
-║ ÁCIDO · Mina Ashido                          ║
-║ MISIÓN: Que te enseñe un paso de baile.      ║
-║ · BAJA                                       ║
-╠══════════════════════════════════════════════╣
-║ POP OFF · Minoru Mineta                      ║
-║ MISIÓN: Despegarte una de sus bolitas sin    ║
-║ ayuda. · BAJA                                ║
-╠══════════════════════════════════════════════╣
-║ MEDIO Y MEDIO · Shoto Todoroki               ║
-║ MISIÓN: Que use su fuego contra ti con       ║
-║ todo. · MEDIA                                ║
-╠══════════════════════════════════════════════╣
-║ PUÑO GRANDE · Itsuka Kendo                   ║
-║ MISIÓN: Ganarle una pulseada con su Puño     ║
-║ Grande. · BAJA                               ║
-╚══════════════════════════════════════════════╝
-
-Aizawa se inclina hacia adelante en la silla. Ya no parece cansado.
-
-—Lo de las montañas —dice—. Lo de Deika. La fábrica de Nomu. Todo eso que nos marcaste. —Te mira—. Eso es la guerra.
-
-All Might se pone de pie despacio, enorme, y se queda mirando el mapa de la pantalla con los cuatro círculos rojos.
-
-—Y la U.A. va a estar en medio —murmura—. Como dijo el director.
-
-Nezu no aparta los ojitos de ti.
-
-—"Que nadie muera" —repite, en voz baja—. Eso quiere decir que usted cree que, si no hace nada, alguien de esta escuela va a morir. —Una pausa larga—. Un alumno. O un profesor.
-
-Se le tensa la cara diminuta, blanca.
-
-—Señor Morelli. —Lo dice con mucho cuidado—. ¿Usted sabe quién?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1113 · BOKU NO HERO · DIC. · 11:53     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1114)
+## COMANDO 1 (T1114)
 no, no sé quién, pero voy a estar atento y una pregunta... si consiguiera una licencia de heroe totalmente legitima, de la nada misma, les molestaria que los detenga?
 
-## RESPUESTA 2 (T1114)
+## RESPUESTA 1 (T1114)
 
 > —No, no sé quién. Pero voy a estar atento. Y una pregunta... si consiguiera una licencia de héroe totalmente legítima, de la nada misma, ¿les molestaría que los detenga?
 
@@ -159,10 +63,10 @@ Te mira de nuevo.
 
 ---
 
-## COMANDO 3 (T1115)
+## COMANDO 2 (T1115)
 usted tiene algo para comprobar si estoy en el sistema actualmente? compro una licencia en la tienda legitima a mi nombre
 
-## RESPUESTA 3 (T1115)
+## RESPUESTA 2 (T1115)
 
 > —¿Usted tiene algo para comprobar si estoy en el sistema actualmente?
 
@@ -235,4 +139,62 @@ Aizawa se cruza de brazos.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:59, sala de monitoreo. Facundo tiene una Licencia de Héroe Profesional legítima (tienda, 30 F), verificada por Nezu en el registro de la Comisión. Nezu pregunta a quién va a buscar primero (Liga, Deika, fábrica de Nomu, All For One). Facundo puede responder.
+## COMANDO 3 (T1116)
+alguien quiere venir conmigo? osea no por que necesite ayuda, creo que a alguien no le gustaria para nada ver a allmight con sus poderes de nuevo
+
+## RESPUESTA 3 (T1116)
+
+> —¿Alguien quiere venir conmigo? O sea, no porque necesite ayuda. Creo que a alguien no le gustaría para nada ver a All Might con sus poderes de nuevo.
+
+La sala se queda en silencio.
+
+All Might deja de reírse. Muy despacio, se le borra la sonrisa, y por primera vez desde que lo curaste, la cara enorme se le pone seria. Seria de verdad.
+
+—Él —dice. No es una pregunta.
+
+Aizawa se gira hacia ti.
+
+—Si estás hablando de quien creo que estás hablando —dice, con la voz muy baja—, está en Tartarus. La prisión más segura del país. Bajo tierra, con cámaras en cada centímetro y orden de disparar si mueve un dedo.
+
+—Y una licencia profesional no abre esa puerta —agrega Nezu. Ya no se ríe—. Ni siquiera la más legítima del mundo. A Tartarus no se entra a visitar, señor Morelli.
+
+—Esta mañana —dice Aizawa— tampoco existía tu licencia.
+
+Nezu lo mira de reojo. No le contesta.
+
+All Might se queda mirando el mapa de la pantalla. El círculo que marcaste lejos, bajo tierra, donde sentiste a alguien que se giraba hacia Izuku.
+
+—Cuando lo vencí en Kamino —dice, despacio— me quedé sin nada. Usé hasta la última brasa. Y él lo sabía. Lo último que me dijo fue que se iba a quedar mirando cómo el mundo se caía sin mí. —Aprieta el puño. Los nudillos le crujen—. Se va a enterar. Tarde o temprano, se va a enterar.
+
+—Toshinori —dice Aizawa.
+
+—Yo voy —contesta All Might. Te mira—. Si vas a ir a buscar a alguien, joven Morelli, y si de verdad es él... yo voy.
+
+Aizawa suspira largo por la nariz.
+
+—Yo no puedo —dice—. Tengo cuarenta alumnos en la enfermería y uno de ellos acaba de convertirse en un tornado de látigos negros. —Te mira—. Y si esto es la guerra, alguien tiene que quedarse cuidando la escuela que te pidieron proteger.
+
+Nezu junta las patitas sobre el escritorio.
+
+—Señor Morelli —dice—. Antes de que alguien vaya a ninguna parte. —Inclina la cabeza—. ¿A quién va a buscar primero, exactamente? ¿A él? ¿O a los que todavía están libres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1116 · BOKU NO HERO · DIC. · 12:01     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: — (All Might quiere ir contigo)    ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:01, sala de monitoreo. Facundo insinuó a All For One. All Might quiere ir con él. Aizawa se queda cuidando la escuela. Tartarus no se abre con licencia. Nezu pregunta: ¿All For One primero o los que están libres? Facundo puede responder.

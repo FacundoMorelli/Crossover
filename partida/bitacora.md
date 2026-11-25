@@ -1114,3 +1114,4 @@ T1112 · BnHA · Sala de monitoreo · Revela que viene de otro mundo y que va a 
 T1113 · BnHA · Sala de monitoreo · "Que nadie de la U.A. muera hasta que termine la guerra." Nueve misiones de copia. Nezu: "LA guerra. ¿Sabe quién va a morir?"
 T1114 · BnHA · Sala de monitoreo · Facundo pide licencia de héroe legítima. Nezu ofrece hablar con la Comisión de Seguridad Pública; pide algo para la mesa.
 T1115 · BnHA · Sala de monitoreo · Compra Licencia de Héroe Profesional legítima (30 F). Nezu la verifica en la Comisión: ayer no estaba, hoy sí. "¿A quién va a buscar primero?"
+T1116 · BnHA · Sala de monitoreo · Insinúa a All For One. All Might: "Él. Yo voy." Aizawa se queda. Nezu: "¿Él primero o los que están libres?"
