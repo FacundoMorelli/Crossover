@@ -166,3 +166,6 @@
 - Facundo · T1251 · conoce la ubicación del Jardín (1 h 30 de la ciudad, montaña de cedros).
 - Facundo · T1252 · Tasación de la chica de las vendas: sin datos; ghoul ukaku con kakuja; esconde mucha fuerza. Ella iba a mirar la operación "en primera fila".
 - Chica de las vendas · T1252 · sabe del Panadero (rumor) y que la operación se suspendió por él (por deducción/fuentes propias de Aogiri: no consta cuál; anotar si se pregunta con /fuente).
+- Eto · T1253 · Facundo sabe su nombre (no sabe cómo; no insiste).
+- Kaneki, Touka, Koma, Irimi, Nishiki, Hinami, Apes · T1253 · por Eto: la chica de las vendas es hija de Yoshimura ("mi papá") y se llama Eto (lo dijo Facundo y lo repitió Yoshimura).
+- Eto · T1253 · sabe (rumor/fuentes propias) que Facundo le quitó el hambre a su padre: "dicen".

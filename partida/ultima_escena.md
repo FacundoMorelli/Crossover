@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1250)
-lo hago
-
-## RESPUESTA 1 (T1250)
-
-> lo hago
-
-Te sientas a su lado, en el borde de la galería, y le apoyas la palma en la nuca.
-
-Su alma no se parece a ninguna de las que tocaste en este mundo.
-
-No hay anzuelo. No hay hambre. Es limpia, ordenada, silenciosa, como una biblioteca vacía a la madrugada: estantes derechos, todo en su lugar, nada fuera de sitio. Y en el centro, una vela.
-
-Una vela que arde por las dos puntas.
-
-Alguien la armó así a propósito. Lo sientes en la forma: no es un accidente, es un diseño. Una llama que da el doble de luz y dura la mitad. Todo en él está hecho para brillar fuerte y apagarse pronto. Los ojos son el lugar donde la cera ya se está terminando.
-
-Apagas una de las dos puntas.
-
-No de golpe. Despacio, con cuidado, como quien cierra una canilla que gotea. La otra punta sigue ardiendo, igual de fuerte, igual de clara. Pero ahora la vela es larga. Tan larga como la de cualquier hombre.
-
-Después vas a los ojos. Al borde de escarcha. Lo devuelves a como estaba antes de que empezara a avanzar, a como estaba cuando él tenía diez años y todavía veía las estrellas de noche.
-
-No tocas nada más. Los estantes son suyos.
-
-Retiras la mano.
-
-Arima no se mueve. Sigue sentado con la espalda recta, las manos en las rodillas, mirando el estanque.
-
-Pasa un rato largo.
-
-Después parpadea. Una vez. Dos. Gira la cabeza, despacio, hacia el otro lado del jardín, hacia los pinos del fondo, donde la luz de la tarde ya se está poniendo violeta entre las ramas. Se queda mirándolos mucho tiempo.
-
-—Las agujas —dice en voz baja—. Se ven las agujas de los pinos. Una por una.
-
-Se agacha, toma el libro que dejó sobre la madera y lo abre en la página marcada. Lo sostiene a la distancia normal de un brazo, sin lentes. Lee una línea. Otra. Pasa la página.
-
-Cierra el libro.
-
-Y por primera vez desde que lo conoces, a Kishou Arima se le mueve la cara. No mucho. Una comisura apenas, del lado izquierdo, que sube un milímetro y se queda ahí.
-
-—Gracias —dice. Lo prueba, como una palabra en otro idioma—. Gracias.
-
-Se queda en silencio. Los peces del estanque suben y bajan. Adentro de la casa, alguien vuelve a reírse en la cocina.
-
-Después, sin mirarte, con la voz igual de plana que siempre, Arima dice:
-
-—En el Jardín quedan otros. Los más chicos tienen nueve años.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1250 · TOKYO GHOUL · DÍA 7 · 16:47     ║
-║ Distrito 1 · casa Washuu, galería            ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: dormido junto a la ventana             ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1251)
+## COMANDO 1 (T1251)
 esta bien, lo voy a hacer con todos. simula
 
-## RESPUESTA 2 (T1251)
+## RESPUESTA 1 (T1251)
 
 > —Está bien. Lo voy a hacer con todos.
 
@@ -151,10 +84,10 @@ El hilo plateado junto al cordón está quieto. El umbral no tembló. Quien sea 
 
 ---
 
-## COMANDO 3 (T1252)
+## COMANDO 2 (T1252)
 entro a anteiku
 
-## RESPUESTA 3 (T1252)
+## RESPUESTA 2 (T1252)
 
 > entro a Anteiku
 
@@ -218,7 +151,64 @@ La voz no cambia de tono. Sigue alegre. Pero los ojos verdes, detrás de las ven
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1253)
+eto, por que iban a morir muchos
+
+## RESPUESTA 3 (T1253)
+
+> —Eto. Porque iban a morir muchos.
+
+Ella se queda quieta.
+
+No del todo. Las manos, detrás de la espalda, se le abren y se le cierran una vez. Los ojos verdes se le agrandan un poco entre las vendas.
+
+Detrás de la barra, Yoshimura cierra los ojos.
+
+—Oh —dice la chica. Suave. Casi admirada—. Oh, oh, oh. ¿Y cómo sabes tú ese nombre, Panadero?
+
+Te mira la cara un rato largo, buscando algo. No lo encuentra. Se encoge de hombros, exagerado, con las manos abiertas.
+
+—Bueno. No me lo digas. Es más divertido así.
+
+Se ríe otra vez. Después se da vuelta, salta de nuevo al taburete y se sienta con las piernas cruzadas, mirándote desde ahí.
+
+—Iban a morir muchos —repite, saboreando la frase—. Siempre mueren muchos. Mueren todos los días, en todos los distritos. Ghouls, humanos, investigadores, chicos que se equivocaron de calle. —Agita una mano vendada en el aire—. Esta ciudad es una picadora de carne, Panadero. Lo único que cambia es quién está arriba mirando y quién está abajo, adentro.
+
+Hace una pausa. Se inclina hacia adelante, con los codos en las rodillas.
+
+—¿Y tú qué vas a hacer? ¿Quedarte aquí parado en la puerta para siempre, con tu paredcita invisible? ¿Quitarles el hambre a todos los ghouls de Tokio de a uno, con la manito?
+
+Se ríe. Y después, en medio de la risa, gira la cabeza hacia la barra, hacia Yoshimura, y la voz se le pone dulce, demasiado dulce, como un caramelo con vidrio adentro.
+
+—Dicen que a mi papá también se lo quitaste. ¿Es verdad? ¿El gran Búho come pan ahora?
+
+En el salón no se oye nada.
+
+Kaneki se da vuelta muy despacio hacia Yoshimura. Touka se queda con la boca entreabierta. Koma deja de respirar. Nishiki pone una mano sobre el hombro de Hinami.
+
+Yoshimura no abre los ojos.
+
+—Eto —dice. Solo eso.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1253 · TOKYO GHOUL · DÍA 7 · 20:48     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, lomo erizado             ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:47, salón de Anteiku. La chica de las vendas (tasación sin datos) dice que Facundo le arruinó la función y pregunta por qué. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:48, salón de Anteiku. Eto se burla del plan de Facundo y revela delante de todos que Yoshimura es su padre. Yoshimura, ojos cerrados: "Eto." Facundo puede reaccionar.

@@ -1251,3 +1251,4 @@ T1249 · TG · Casa Washuu · "Puedo probarlo." Arima se saca los lentes (ojos c
 T1250 · TG · Casa Washuu · Transfigura a Arima: vida normal y ojos sanos. "Gracias." "En el Jardín quedan otros. Los más chicos tienen nueve años."
 T1251 · TG · Simulación · El Jardín: 31 chicos y Hairu transfigurados. Arima: "Voy a estar leyendo." Anteiku 20:46: una figura con capa y vendas sentada frente a Yoshimura.
 T1252 · TG · Anteiku · La chica de las vendas: "Así que tú eres el famoso Panadero. Me arruinaste la función. ¿Por qué?"
+T1253 · TG · Anteiku · "Eto, porque iban a morir muchos." Eto: "¿Mi papá come pan ahora?" Todos se enteran de que es hija de Yoshimura.

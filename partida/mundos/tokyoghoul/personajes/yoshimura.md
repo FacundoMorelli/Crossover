@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1243 · Noche del Día 6: prepara café tres veces; no cuenta nada de los Washuu. A Facundo, bajo: "Si mañana no vuelve, voy a entender."
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1253 · (ojos cerrados) "Eto."
 - T1242 · "Esta noche nadie va a dormir. Así que voy a preparar café." "Morelli-san. ¿Se queda?"
 - T1241 · "Así que es eso." "Hay cosas de esa familia que no se dicen." "Usted no va a una negociación. Va a ver algo que muy poca gente vio y siguió viviendo."
 - T1240 · "El presidente de la CCG. Washuu Tsuneyoshi." "Esa familia no hace nada sin cobrarlo después, y siempre cobra más de lo que pidió." "El hombre del sombrero trabaja para gente que trabaja para esa casa." "¿Qué le pidió a cambio?"
