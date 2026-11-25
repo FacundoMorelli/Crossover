@@ -37,3 +37,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Aizawa, All Might, Nezu · T1105 · la semilla es "una medicina de los lugares a los que viaja" (él lo dijo).
 - Aizawa, All Might, Nezu · T1106 · Facundo tiene muchas semillas; ofreció ir a derrotar a la Liga. Nezu sospecha que puede encontrar personas (lo vio mirar a Midoriya antes del incidente; llegó al banco sin verlo).
 - Nezu, Aizawa, All Might · T1107 · Facundo puede sentir a la gente a distancia (él lo dijo). Acuerdan mantenerlo en secreto ("esta conversación no existe").
+- Nezu, Aizawa, All Might · T1109 · por Facundo: Shigaraki vs un ser colosal en montañas del noroeste; la Liga escondida cerca; una ciudad al sur con decenas de miles que se mueven como ejército y un líder como una torre; una fábrica de Nomu bajo un hospital con un viejo; All For One se giró hacia Izuku. Nada de esto estaba en ningún informe oficial.

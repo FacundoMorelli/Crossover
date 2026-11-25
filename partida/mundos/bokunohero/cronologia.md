@@ -32,3 +32,4 @@
 - Diciembre 11:16 · (T1102) Facundo cura a Izuku con una semilla del ermitaño; Izuku despierta.
 - Diciembre 11:18 · (T1103) Aizawa suspende el combate 5 (CAMBIO: en el canon continuaba y ganaba la 1-A). Izuku y Shinso a la enfermería.
 - Diciembre 11:37 · (T1108) Facundo siente: Shigaraki vs Gigantomachia en montañas del noroeste (canon: entrenamiento de semanas); la Liga en una cabaña cercana; el Ejército de Liberación Meta en Deika (Re-Destro); los Nomu y Garaki bajo el hospital de Jaku; All For One en Tártaro (se gira hacia Izuku).
+- Diciembre 11:42 · (T1109) CAMBIO: Nezu conoce la ubicación de la Liga, del Ejército de Liberación Meta (Deika) y de la fábrica de Nomu meses antes que en el canon (allí la informaba Hawks en febrero).

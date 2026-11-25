@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1106)
-tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
-
-## RESPUESTA 1 (T1106)
-
-> tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
-
-> —Tengo muchas. Pero, ¿quieren esperar a que hagan algo? Porque simplemente puedo ir y derrotarlos.
-
-La sala se queda en silencio.
-
-All Might levanta la cabeza de golpe. Aizawa deja de frotarse los ojos. En la pantalla, Nezu se queda quieto, con las patitas juntas delante del hocico.
-
-—"Ir y derrotarlos" —repite Aizawa, despacio—. Así como así.
-
-—Shota —murmura All Might.
-
-—No, déjame. —Aizawa se inclina hacia adelante en la silla—. Tiene sentido preguntarlo. —Te mira—. Hay dos problemas. Uno es la ley. Un consultor de seguridad sin licencia que va a buscar villanos por su cuenta y los derriba es exactamente lo mismo que lo del banco esta mañana. Vigilantismo. Y esta vez no sería un ladrón: sería la Liga. Con cámaras. Con muertos, a lo mejor.
-
-Levanta un segundo dedo.
-
-—El otro problema es más simple. —Se encoge de hombros—. No sabemos dónde están.
-
-Nezu habla desde la pantalla, en voz baja.
-
-—Desde Kamino, la Liga desapareció. Sin rastros. Sin movimientos de dinero, sin cámaras, sin testigos. Los mejores investigadores del país llevan cuatro meses buscándolos. —Se toca el hocico con una patita—. Lo único que sabemos es que están juntando gente. Y que su líder, Tomura Shigaraki, es el heredero del hombre que está en Tártaro. —Mira a All Might un segundo. All Might baja la vista—. Si fuéramos a buscarlos, señor Morelli, primero tendríamos que encontrarlos.
-
-Se queda callado. Te mira por la cámara, largo. Los ojitos negros brillan.
-
-—Aunque... —Se acomoda en el sillón, despacio—. Usted sintió al joven Midoriya desde esta sala. A cuatrocientos metros, a través de las paredes. Toshinori me contó que lo miró antes de que nadie más se diera cuenta de lo que iba a pasar. —Una pausa—. Y apareció en un banco, desde la calle, sin verlo.
-
-Inclina la cabeza, como un pájaro.
-
-—Señor Morelli. ¿Usted puede encontrar a la gente?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1106 · BOKU NO HERO · DIC. · 11:33     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1107)
+## COMANDO 1 (T1107)
 sí, puedo sentir a la gente, los busco si quieren
 
-## RESPUESTA 2 (T1107)
+## RESPUESTA 1 (T1107)
 
 > sí, puedo sentir a la gente, los busco si quieren
 
@@ -111,10 +58,10 @@ Mira a All Might. Después a Aizawa. Después otra vez a ti.
 
 ---
 
-## COMANDO 3 (T1108)
+## COMANDO 2 (T1108)
 busco a la Liga
 
-## RESPUESTA 3 (T1108)
+## RESPUESTA 2 (T1108)
 
 > busco a la Liga
 
@@ -170,4 +117,61 @@ Nezu es el primero.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:37, sala de monitoreo. Facundo sintió a Shigaraki y Gigantomachia en las montañas del noroeste, a la Liga cerca, a un ejército en una ciudad al sur, a los Nomu bajo un hospital y a All For One enterrado. Nezu le pregunta qué sintió. Facundo puede responder.
+## COMANDO 3 (T1109)
+los encontre, les digo todo
+
+## RESPUESTA 3 (T1109)
+
+> los encontre, les digo todo
+
+Les dices que los encontraste, y les cuentas todo: las dos presencias peleando en las montañas del noroeste, la colosal y la que pudre lo que toca; el puñado escondido cerca, el que arde, la que se ríe, el que está partido en muchos; la ciudad del sur que se mueve como un ejército, con una presencia como una torre en el centro; los muñecos cosidos y dormidos debajo de un hospital, y el viejo que los cuida. Y el agujero, enterrado muy abajo, que se dio vuelta hacia la enfermería.
+
+Cuando terminas, nadie habla durante un rato largo.
+
+All Might es el primero en moverse. Se levanta de la silla de golpe, demasiado rápido para su cuerpo, y tiene que apoyarse en la consola. Tiene la cara blanca.
+
+—Se dio vuelta —dice, casi sin voz—. Hacia el joven Midoriya. Hacia la enfermería.
+
+—No sabemos si lo sintió, Toshinori —dice Nezu desde la pantalla, suave.
+
+—Lo sintió. —All Might aprieta la consola con los dedos huesudos—. Hoy despertó algo nuevo en ese chico. Algo que viene de... de lo que le di. Y él siempre lo supo. Desde el principio. —Se le quiebra la voz—. Ese hombre está enterrado a quinientos metros, encadenado, con máquinas que lo mantienen vivo. Y aun así...
+
+Aizawa se pone de pie. Le apoya una mano en el hombro a All Might, sin decir nada.
+
+Después se vuelve hacia ti.
+
+—Un ejército que finge ser una ciudad —dice, despacio—. ¿Decenas de miles?
+
+—Eso no está en ningún informe —murmura Nezu. Ya no sonríe. Tiene los ojitos negros fijos en algún punto lejos de la cámara, moviéndose rápido, como si leyera algo que nadie más ve—. Ni la Comisión, ni la policía, ni nuestros contactos. Nadie sabe que existe algo así. Y los Nomu... debajo de un hospital. —Se queda callado un segundo—. Una fábrica.
+
+Junta las patitas. Cuando vuelve a hablar, la voz aguda suena firme, decidida, como un general.
+
+—Señor Morelli. Lo que usted acaba de hacer en dos minutos, con los ojos cerrados, es lo que el país entero no consiguió en cuatro meses. —Respira hondo—. Esto ya no es un asunto de la U.A. Es de la Comisión de Seguridad Pública. Del héroe número uno. Del número dos.
+
+Teclea algo fuera de la cámara. En otra de las pantallas de la sala aparece un mapa enorme de Japón, con montañas, ríos, ciudades y prefecturas.
+
+—Necesito que me marque los lugares —dice—. Las montañas. La ciudad. El hospital. Lo más exacto que pueda. —Una pausa—. Y después voy a hacer una llamada muy larga, a gente muy importante, que no me va a creer.
+
+Te mira por la cámara.
+
+—¿Puede marcarlos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1109 · BOKU NO HERO · DIC. · 11:42     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Marcar el mapa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:42, sala de monitoreo. Facundo les contó todo. All Might teme que All For One sintiera a Izuku. Nezu llevará esto a la Comisión y a los N.º 1 y 2; puso un mapa de Japón y le pide que marque los lugares. Facundo puede actuar.
