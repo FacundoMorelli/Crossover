@@ -7,11 +7,13 @@ FÍSICO: Flaco, pelo blanco, uñas negras, ropa negra ajustada destrozada.
 PERSONALIDAD: Fuera de control, llorando: "No quiero comer más."
 RELACIÓN: Primer encuentro T1148.
 ENCUENTROS:
+- T1170 · Mañana: Touka lo golpea (mejilla) al enterarse; sube detrás de ella.
 - T1169 · Se ríe por primera vez en la noche al oír el estómago de Banjou.
 - T1165 · Sala de Anteiku · Se acerca y se pone en cuclillas frente a Facundo, temblando, esperando. Cortada a medio cerrar en el cuello.
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1170 · "Muchas. Buenas noches."
 - T1166 · "Se fue. Está... callado." "Es dulce. Sabe a manzana." "Hinami. Banjou-san. Los demás. ¿Puedes hacer esto con ellos también?"
 - T1164 · "Yo era humano. Hace unos meses." "Desde ese día tengo hambre. Siempre." "¿Cómo lo haces? ¿Hay una forma de... dejar de tener hambre?"
 - T1163 · "¿Puedo... preguntarte algo?"

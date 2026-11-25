@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1167)
-con los que quieran
-
-## RESPUESTA 1 (T1167)
-
-> —Con los que quieran.
-
-Kaneki asiente rápido, varias veces, apretando la manzana. No dice nada. No le sale.
-
-En el otro extremo de la sala, Tsukiyama se recupera primero. Levanta el libro del piso, lo sacude con dos dedos y se lleva la otra mano al pecho, con un dramatismo exagerado.
-
-—Con los que quieran —repite, como saboreando las palabras—. Entonces permítame ser el primero en declinar, monsieur. —Hace una reverencia corta—. Usted acaba de hacer algo que no tiene precio, y lo digo con toda sinceridad. Pero yo no renunciaría a mi paladar ni a cambio de la luna.
-
-Mira a Kaneki, que tiene jugo de manzana en el mentón, y por un instante algo complicado le cruza la cara: hambre, celos, ternura y una tristeza que no termina de entender. Se le pasa enseguida.
-
-—Aunque admito —agrega, más bajo— que nunca había visto a mi querido Kaneki comer con esa cara.
-
-Cruje una tabla en el pasillo.
-
-La puerta del cuarto de la derecha está abierta. Banjou está en el marco, enorme, descalzo, con la camisa ensangrentada desabrochada y una mano en las costillas. Detrás de él, en la penumbra, se asoman las tres máscaras antigás, ladeadas, como tres cabezas de búho.
-
-No estaban dormidos. Las paredes de arriba son finas.
-
-Banjou mira la manzana en la mano de Kaneki. Mira el corazón mordido, la cáscara roja, el jugo. Después te mira a ti.
-
-—¿Es verdad? —pregunta con la voz grave y ronca—. ¿Puedes hacer que uno ya no tenga que... comer gente?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1167 · TOKYO GHOUL · NOCHE · 00:32     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá                             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1168)
+## COMANDO 1 (T1168)
 si
 
-## RESPUESTA 2 (T1168)
+## RESPUESTA 1 (T1168)
 
 > —Sí.
 
@@ -91,10 +47,10 @@ Agacha la cabeza.
 
 ---
 
-## COMANDO 3 (T1169)
+## COMANDO 2 (T1169)
 hago lo mismo (igual una pregunta, les saco el hambre pero que pasa exactamente?)
 
-## RESPUESTA 3 (T1169)
+## RESPUESTA 2 (T1169)
 
 > hago lo mismo
 
@@ -141,7 +97,69 @@ Fuera de la partida, qué pasa exactamente con los que transfiguras:
 - No sienten hambre de carne humana y la comida normal ya no les da asco. Si quieren, pueden seguir comiendo carne humana o de ghoul, pero no la necesitan ni la desean. El kakuja (comer otros ghouls para hacerse más fuertes) les sigue funcionando si alguna vez lo eligen.
 - Es permanente.
 
+---
+
+## COMANDO 3 (T1170)
+tomen, saco comida del abrigo y se las doy, yo voy a dormir, mañana yoshimura va a tener muchas preguntas
+
+## RESPUESTA 3 (T1170)
+
+> —Tomen.
+
+Metes la mano en el sobretodo y empiezas a sacar comida, una cosa detrás de otra, mucho más de lo que podría caber en ningún bolsillo: una bolsa de pan de molde, una bandeja de onigiri envueltos en film, un pollo asado todavía tibio en su caja de cartón, una docena de bollos dulces, dos botellas de té frío y un paquete de galletas. Lo vas dejando sobre la mesa baja hasta que no queda lugar.
+
+Nadie pregunta de dónde sale. A esta altura de la noche, ya nadie pregunta nada.
+
+Banjou agarra un onigiri con las dos manos, como si fuera algo vivo. Lo desenvuelve torpe, con los dedos enormes, y lo muerde. Cierra los ojos. Mastica muy despacio. No dice nada, pero los hombros se le aflojan de una forma que no se le aflojaron en toda la noche.
+
+El de cara redonda ya está con el pollo. El muchacho flaco y el de la cicatriz comparten la bolsa de pan, en silencio, de a una rebanada por vez, y se miran cada tanto como para confirmar que al otro tampoco le da asco.
+
+Kaneki toma un bollo dulce y lo sostiene sin morderlo todavía.
+
+> —Yo voy a dormir. Mañana Yoshimura va a tener muchas preguntas.
+
+—Muchas —dice Kaneki, muy bajo, con algo parecido a una sonrisa—. Buenas noches.
+
+Te acuestas en el sofá con la manta gris. Kase espera a que termines de acomodarte y se te sube al pecho, da una vuelta y se echa, pesado y tibio, con la cola sobre tu cuello.
+
+Lo último que escuchas es el ruido de papel desenvolviéndose, gente masticando bajito, y a Tsukiyama que, desde la ventana, suspira una sola vez, largo.
+
+...
+
+Te despierta una pata en la cara.
+
+Kase está sentado sobre tu pecho, mirándote fijo, con la pata todavía apoyada en tu mejilla. Por los bordes de las cortinas gruesas entra una luz gris de mañana. Huele a café y a pan tostado.
+
+La mesa baja está vacía, salvo por envoltorios doblados con cuidado y una pila ordenada de cáscaras. El de cara redonda duerme en el piso, abrazado a la caja vacía del pollo. La silla junto a la ventana está vacía: el libro de Tsukiyama quedó sobre el asiento, cerrado, con una tarjeta blanca de borde dorado metida entre las páginas.
+
+Abajo hay voces. Una es la de Yoshimura, tranquila. La otra es de una chica, y no está tranquila para nada.
+
+—¡¿Que hizo qué?!
+
+Se oye un golpe seco, como de alguien que pateó un taburete, y después pasos rápidos subiendo la escalera, de dos escalones por vez.
+
+Una muchacha aparece en la puerta de la sala. Es delgada, con el pelo corto, oscuro y lacio, y un flequillo que le tapa un ojo. Lleva un delantal de mesera encima de la ropa, y la cara roja de furia o de algo parecido. Detrás de ella, en la escalera, Kaneki se frota la mejilla.
+
+Te mira. Mira a Kase sobre tu pecho. Te vuelve a mirar.
+
+—¿Tú eres el viajero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1170 · TOKYO GHOUL · MAÑANA · 07:12    ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el pecho                            ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:36, sala de arriba de Anteiku. Banjou y las tres máscaras sin hambre de ghoul; Banjou tiene hambre de arroz. Hinami duerme sin transfigurar. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:12, sala de arriba de Anteiku. Touka, furiosa, en la puerta: "¿Tú eres el viajero?" Kaneki detrás, con la mejilla golpeada. Facundo puede responder.

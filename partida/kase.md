@@ -81,3 +81,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1096 (BnHA) · Le parpadea despacio a Nezu (lo más amable que hizo en este mundo).
 - T1100 (BnHA) · Le bufa al Látigo Negro de Izuku.
 - T1163 (Tokyo Ghoul) · Ignora a Yoshimura cuando le ofrece leche. Se adueña de la almohada del sofá de Anteiku.
+- T1170 (Tokyo Ghoul) · Duerme sobre el pecho de Facundo en el sofá de Anteiku. Lo despierta con la pata en la cara a las 7.

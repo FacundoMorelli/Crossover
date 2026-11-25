@@ -18,4 +18,4 @@ DIÁLOGOS CLAVE:
 - T1154 · "¡Mi querido Kaneki!"
 QUÉ SABE DE FACUNDO: Nada. Apareció con Kaneki y los sacó de la mansión.
 QUÉ PODERES VIO: (T1166) Facundo le quitó el hambre a Kaneki con la mano; sacó una manzana de la nada. Teletransporte. Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
-ESTADO: En el acantilado, a salvo (T1154).
+ESTADO: Se fue de Anteiku antes del amanecer a su residencia (T1170). Dejó el libro en la silla con una tarjeta blanca de borde dorado entre las páginas.
