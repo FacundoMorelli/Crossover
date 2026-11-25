@@ -94,6 +94,7 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 
 ## NOTAS DE FORMATO (correcciones del jugador en esta partida)
 - T750: la Tasación va siempre en su ventana (recuadro de la sección 5), nunca como línea entre corchetes. El guardado (commit y push) se hace en silencio, sin anunciarlo en la narración.
+- T1202: las misiones de copia van siempre en su ventana REGISTRO DE PODER (recuadro de la sección 8), una por poder, nunca resumidas en una línea entre corchetes ni en una lista fuera de la narración.
 
 ## R13. YMIR ES ADULTA (T931 · Día 48 Shingeki · decisión del jugador)
 - Texto del jugador: "aparenta unos 18 o 19 pero estuvo 60 años de titán, así que déjala como mayor".

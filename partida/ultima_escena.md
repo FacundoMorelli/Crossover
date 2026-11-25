@@ -3,63 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1199)
-si
-
-## RESPUESTA 1 (T1199)
-
-> —Sí.
-
-Yomo asiente. No dice nada más. Saca los paquetes de papel marrón de la bolsa, uno por uno, y los lleva a la cámara del fondo, donde los acomoda en el estante sin apuro, como si fuera lo único que importa en el mundo.
-
-Kaneki se vuelve hacia Yoshimura, con el repasador todavía en la mano.
-
-—Yoshimura-san, ¿puedo...?
-
-—Ve. —Yoshimura le saca el repasador de los dedos con suavidad—. Nishiki-kun puede lavar platos. Le va a hacer bien.
-
-Desde el salón se oye un "¡¿Qué?!" ahogado.
-
-Yomo sale de la cámara secándose las manos en los pantalones.
-
-—La entrada que usamos está debajo del Distrito 14 —te dice, como si fuera un informe—. Un desagüe viejo detrás de una obra abandonada. Cuarenta minutos en tren y quince caminando. Si salimos ahora, llegamos con luz.
-
-Kaneki ya está desatándose el delantal.
-
-Pero antes de que nadie se mueva, la cortina que separa la cocina del salón se abre de un tirón.
-
-Es Touka. Tiene una bandeja vacía en una mano y la cara de alguien que estuvo escuchando todo desde el otro lado, porque es exactamente lo que estuvo haciendo. Mira a Kaneki, que se queda con el delantal a medio sacar. Mira a Yomo. Te mira a ti.
-
-—Yo también voy —dice.
-
-Yomo abre la boca.
-
-—No te pregunté —lo corta Touka, sin mirarlo—. Dije que mi kagune se queda donde está hasta que pase lo del Búho. —Te clava el ojo gris—. Entonces que sirva para algo. Si vas a entrenar a este idiota, me entrenas a mí también.
-
-Deja la bandeja sobre la mesada con un golpe seco.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1199 · TOKYO GHOUL · MEDIODÍA · 12:47  ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la puerta de la cocina              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: entrenar a Kaneki (Distrito 24)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1200)
+## COMANDO 1 (T1200)
 bueno, pongan una mano encima mio. me teletransporto a donde me dijo kaneki
 
-## RESPUESTA 2 (T1200)
+## RESPUESTA 1 (T1200)
 
 > —Bueno, pongan una mano encima mío.
 
@@ -117,10 +64,10 @@ Se levanta. Se limpia los dedos en el pantalón y te mira por encima del hombro.
 
 ---
 
-## COMANDO 3 (T1201)
+## COMANDO 2 (T1201)
 bueno, yo no voy a usar mi kagune, empecemos
 
-## RESPUESTA 3 (T1201)
+## RESPUESTA 2 (T1201)
 
 > —Bueno, yo no voy a usar mi kagune. Empecemos.
 
@@ -192,7 +139,88 @@ Al mismo tiempo, del otro lado, Kaneki se lanza. Los cuatro tentáculos se estir
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1202)
+activo el ultra instinto dominado (Y que es esa forma de poner las cosas:, asi no es el formato) [captura: la línea "[Kagune de Kaneki y de Touka vistos en acción. Misiones de copia disponibles.]"]
+
+## RESPUESTA 3 (T1202)
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Kagune rinkaku                               ║
+║ USUARIO: Ken Kaneki · Tokyo Ghoul            ║
+║                                              ║
+║ MISIÓN: Que Kaneki saque su kakuja completo  ║
+║ peleando contra ti y no pierda el control    ║
+║ ni un segundo.                               ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Kagune ukaku                                 ║
+║ USUARIO: Touka Kirishima · Tokyo Ghoul       ║
+║                                              ║
+║ MISIÓN: Que Touka te alcance con un cristal  ║
+║ en un combate de entrenamiento.              ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+```
+
+> activo el Ultra Instinto Dominado
+
+No piensas en nada.
+
+Eso es lo primero. La mente se queda quieta, como el agua de un charco cuando deja de llover. El cuerpo se queda solo.
+
+Un brillo plateado te recorre la piel, de los pies a la cabeza, sin ruido. El pelo blanco y azul se te vuelve plata entera, y alrededor del cuerpo se levanta un aura fina, transparente, que no quema ni empuja: solo está, como el vapor del agua que hierve.
+
+Los cristales llegan.
+
+No te mueves hacia ellos. No te mueves contra ellos. Te mueves entre ellos. Un giro de hombro, y tres pasan a un centímetro de tu oreja. Un medio paso hacia atrás, y un abanico entero se clava en la piedra donde estaban tus pies. Inclinas la cabeza, y uno te pasa rozando el pelo y sigue de largo hasta una columna, donde se rompe con un tintineo de vidrio.
+
+Ninguno te toca.
+
+Los tentáculos de Kaneki caen desde arriba, los cuatro a la vez. Das un solo paso adelante, hacia el centro, hacia el lugar exacto donde se cruzan, y los cuatro se estrellan contra el suelo alrededor tuyo, a un palmo de cada lado, levantando cuatro columnas de polvo y piedra rota. Quedas parado en medio, intacto, con las manos a los costados, mientras los tentáculos todavía tiemblan por el impacto.
+
+El polvo se asienta.
+
+Kaneki se quedó a mitad de la estocada, con la cara congelada. Desde ahí, con los tentáculos clavados en la piedra a tu alrededor, ve lo mismo que tú: que tenías tiempo de sobra para tocarle el pecho con un dedo, y no lo hiciste.
+
+Del otro lado, Touka tiene el ala todavía abierta y el ojo negro y rojo muy abierto.
+
+—¿Qué...? —Le tiembla la voz de pura rabia—. ¡No te moviste! ¡Apenas te moviste!
+
+En el bloque de concreto, Yomo se puso de pie sin darse cuenta. Kase sigue sentado a su lado, lamiéndose una pata, sin mirar.
+
+Touka aprieta los dientes. El ala se le abre más, dos veces más grande, y empieza a brillar más fuerte, con un zumbido eléctrico que eriza los pelos de la nuca. Los cristales que se forman ahora son más gruesos, más largos, y no son decenas.
+
+Son cientos.
+
+—Kaneki —gruñe sin mirarlo—. Por la izquierda. Ahora.
+
+Kaneki arranca los tentáculos de la piedra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1202 · TOKYO GHOUL · TARDE · 12:53     ║
+║ Distrito 24 · galería subterránea            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Ultra Instinto Dominado: activo              ║
+║ Kase: en un bloque, junto a Yomo             ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki y a Touka        ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 12:52, galería del Distrito 24. Touka dispara una lluvia de cristales y Kaneki baja sus cuatro tentáculos a la vez sobre Facundo. Facundo puede reaccionar.
+ESTADO AL CIERRE: Tokyo Ghoul, 12:53, galería del Distrito 24. Facundo en Ultra Instinto Dominado esquivó todo. Touka carga cientos de cristales y Kaneki ataca por la izquierda. Facundo puede reaccionar.

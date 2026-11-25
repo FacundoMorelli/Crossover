@@ -1200,3 +1200,4 @@ T1198 · TG · Anteiku · "Así es." Yomo: "¿Touka?" "Gracias." Kaneki le cuent
 T1199 · TG · Anteiku · Yomo irá a mirar. Entrada bajo el Distrito 14. Touka: "Yo también voy. Me entrenas a mí también."
 T1200 · TG · Distrito 24 · Teletransporte con Kaneki, Touka y Yomo a una galería subterránea. Yomo: "Nos ahorraste una hora."
 T1201 · TG · Distrito 24 · Empieza el entrenamiento. Tasación de Kaneki y Touka. Atacan a la vez: cristales y tentáculos.
+T1202 · TG · Distrito 24 · Ultra Instinto Dominado: esquiva todo sin contraatacar. Touka carga cientos de cristales; Kaneki por la izquierda.
