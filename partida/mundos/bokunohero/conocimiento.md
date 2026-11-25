@@ -20,3 +20,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Tsukauchi, All Might · T1093 · nadie le dio sus poderes; los tiene "desde siempre" (verdad). Descartan conexión con All For One.
 - Público de internet · T1093 · video del banco (16.000 reproducciones a las 09:47): un joven de pelo blanco y azul con un gato derriba al villano del brazo de roca. Sin nombre.
 - Tsukauchi, All Might · T1094 · Facundo es viajero y solo vino a ayudar (verdad). All Might lo lleva bajo su responsabilidad (si acepta) a ver a Nezu.
+- Nezu · T1095 · por All Might (teléfono): Facundo no existe en registros, tiene al menos tres capacidades, no miente, vino a ayudar. Vio el video del banco (31.000 reproducciones).

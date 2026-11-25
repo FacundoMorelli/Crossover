@@ -77,3 +77,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 
 ### Boku no Hero Academia
 - T1087 · Cruza con la bufanda de Tessai y un pedazo de queso de Loki en la boca. Se acurruca del frío.
+- T1095 (BnHA) · Se queda mirando fijo a Nezu; Nezu le sostiene la mirada.
