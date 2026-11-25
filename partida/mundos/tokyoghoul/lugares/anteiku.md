@@ -8,3 +8,4 @@ T1170 · Mañana: libro de Tsukiyama con tarjeta blanca de borde dorado en la si
 T1177 · Puerta trasera al callejón: por ahí vienen ghouls a buscar paquetes; los primeros a las 10.
 T1180 · RECINTO DE SAKAIME (6 caras, con techo) alrededor del edificio: frente bajo el toldo, costados, callejón trasero (tachos, puerta de metal). Hilo plateado finísimo pegado al cordón.
 T1256 · Recinto deshecho. Libro inédito y firmado de Takatsuki Sen sobre la barra.
+T1273 · 4 semillas del ermitaño en la lata de té verde de la estantería (la que nadie abre). Botón de aviso en el chaleco de Yoshimura.

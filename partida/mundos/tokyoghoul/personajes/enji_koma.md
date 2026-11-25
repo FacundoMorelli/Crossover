@@ -6,6 +6,7 @@ ENCUENTROS:
 - T1215 · Día 5: recibe a Facundo gritando "¡El Panadero!". Quema papeles con Yoshimura. Día 6: afuera con los Apes, fuera de la pared.
 - T1209 (Día 2) · Llega por el callejón con Irimi; pide la transfiguración primero, riéndose para disimular el miedo.
 DIÁLOGOS CLAVE:
+- T1273 · "Cuatro. Con uno me pusiste la pierna en su lugar."
 - T1261 · "¡Por fin alguien que me entiende!"
 - T1260 · "¿Y los que no quieran, Panadero? Mi abuela tiene noventa años... Creo que prefiere morirse."
 - T1259 · "Sin ghouls. Panadero... nosotros somos los ghouls."

@@ -1,8 +1,8 @@
 {
-  "turno": 1272,
+  "turno": 1273,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 7 desde la llegada (mañana siguiente a la suspensión de la Operación del Búho)",
-  "hora": "21:21",
+  "hora": "21:23",
   "edad": 18,
   "nivel": 29,
   "exp": 290230,
@@ -525,8 +525,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 76,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford). 1 a Ace (T900, Marineford). 1 a Zoro (T915, Kuraigana). 1 a Robin (T922, Tequila Wolf, de un beso). 3 a Shadow Gear (Levy, Jet, Droy) (T998, Magnolia, Fairy Tail). 1 a Makarov (T1018, torre de Phantom). 1 al capitán Lahar, donación al Consejo Mágico (T1026, Magnolia). 1 a Hisoka Morow (T1059, puerto de Kakin). 1 a Rei (Xenos, T1071, Orario). 1 a Fia (Xenos, T1073, Orario). 1 a Izuku Midoriya (T1102, U.A.). 1 a Yukinori Shinohara (T1151, mansión de Kanou, Tokyo Ghoul). 1 a Enji Koma (T1221, avenida 3, Operación del Búho). 1 a Kaya Irimi (T1242, Anteiku).",
+      "cantidad": 72,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford). 1 a Ace (T900, Marineford). 1 a Zoro (T915, Kuraigana). 1 a Robin (T922, Tequila Wolf, de un beso). 3 a Shadow Gear (Levy, Jet, Droy) (T998, Magnolia, Fairy Tail). 1 a Makarov (T1018, torre de Phantom). 1 al capitán Lahar, donación al Consejo Mágico (T1026, Magnolia). 1 a Hisoka Morow (T1059, puerto de Kakin). 1 a Rei (Xenos, T1071, Orario). 1 a Fia (Xenos, T1073, Orario). 1 a Izuku Midoriya (T1102, U.A.). 1 a Yukinori Shinohara (T1151, mansión de Kanou, Tokyo Ghoul). 1 a Enji Koma (T1221, avenida 3, Operación del Búho). 1 a Kaya Irimi (T1242, Anteiku). 4 a Yoshimura para Anteiku (T1273), guardadas en la lata de té verde.",
       "mundo": "tienda"
     },
     {
@@ -2339,6 +2339,13 @@
       "mundo": "bleach",
       "entregado": "T1038",
       "usado": null
+    },
+    {
+      "tiene": "Yoshimura (Anteiku)",
+      "mundo": "tokyoghoul",
+      "entregado": "T1273",
+      "usado": null,
+      "nota": "En el bolsillo del chaleco, del lado del corazón."
     }
   ],
   "relacion_actual": {

@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1270)
-espero
-
-## RESPUESTA 1 (T1270)
-
-> espero
-
-Te quedas quieto. Touka también.
-
-Detrás de ustedes, unos pasos sobre el cemento. Cortos, duros, que se detienen. Vuelven a empezar.
-
-Ayato baja del borde. Cruza la azotea entre las capas oscuras, que se apartan sin que nadie se lo pida. El de la capa roja lo mira pasar.
-
-—Ayato —dice, bajo, frío. Una advertencia.
-
-Ayato no le contesta. No lo mira.
-
-Se detiene a dos pasos de Touka, detrás de ella. No la toca. Tiene las manos metidas en los bolsillos de la campera demasiado grande, y los hombros encogidos contra el viento.
-
-—No te hagas humana todavía —dice. La voz le sale ronca, a los tirones, como si cada palabra le costara sacarla de un lugar muy hondo—. No es por lo que dije. Es... —Aprieta los dientes—. Hay gente aquí que sabe tu cara. La de la máscara de conejo. La que le pegó a esos investigadores el año pasado. Si un día te encuentran y no tienes con qué...
-
-No termina.
-
-Touka no se da vuelta. Pero le tiembla la espalda.
-
-Ayato levanta la vista. No hacia ella. Hacia ti. Por encima del hombro de su hermana, con los ojos todavía negros y rojos, pero ya sin el brillo de rabia de antes. Lo que queda es otra cosa. Cansancio. El mismo que sentiste desde lejos con el ki.
-
-Te mira el brazo, la manga que todavía humea un poco. Te mira la cara.
-
-—Tú. Panadero. —Traga—. Paraste todo eso con un brazo. Paraste a la CCG. Al Búho.
-
-Saca una mano del bolsillo. La cierra en un puño. Lo abre.
-
-—¿Puedes cuidarla?
-
-Lo dice muy bajo. Tan bajo que los de las capas no lo oyen. Solo tú, y Touka, que aprieta tu manga hasta que el puño le tiembla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1270 · TOKYO GHOUL · DÍA 7 · 21:17     ║
-║ Bahía · azotea de la base de Aogiri          ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: Touka y Ayato                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1271)
+## COMANDO 1 (T1271)
 puedo si, pero soy un viajero, no me quedo mucho y no vuelvo tanto
 
-## RESPUESTA 2 (T1271)
+## RESPUESTA 1 (T1271)
 
 > —Puedo, sí. Pero soy un viajero. No me quedo mucho y no vuelvo tan seguido.
 
@@ -117,10 +63,10 @@ Después vuelve a agarrarte la manga. No dice nada. Tiene la cara mojada, y no e
 
 ---
 
-## COMANDO 3 (T1272)
+## COMANDO 2 (T1272)
 volvemos a la cafeteria
 
-## RESPUESTA 3 (T1272)
+## RESPUESTA 2 (T1272)
 
 > volvemos a la cafetería
 
@@ -175,7 +121,61 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1273)
+esta noche, les voy a dar esto, les doy un boton, si tocan este boton voy a saber que estan en problemas, les doy 4 semillas del ermitaño, esto lo mismo, comanlas si estan en problemas
+
+## RESPUESTA 3 (T1273)
+
+> —Esta noche.
+
+Yoshimura asiente despacio, como si ya lo supiera.
+
+> —Les voy a dar esto.
+
+Sacas del inventario un botón chico, redondo, del tamaño de una moneda grande, de metal oscuro, con un círculo plateado en el centro. Lo dejas sobre la barra, al lado de la taza.
+
+> —Les doy un botón. Si tocan este botón, voy a saber que están en problemas.
+
+Después sacas una bolsita de tela y dejas caer en tu palma cuatro granos verdes, chicos, del tamaño de un poroto. Los pones en fila al lado del botón.
+
+> —Y les doy cuatro semillas del ermitaño. Esto, lo mismo: cómanlas si están en problemas.
+
+[Semillas del ermitaño: 72.]
+
+Koma deja el plato sobre la mesa de golpe. Mira los cuatro granos. Mira a Irimi, que se lleva la mano al hombro, al lugar donde ya no tiene ni una cicatriz.
+
+—Cuatro —murmura Koma—. Con uno me pusiste la pierna en su lugar.
+
+Yoshimura no toca nada todavía. Mira el botón. Mira las semillas. Mira el libro de Eto, apoyado al lado de la caja. Después, despacio, junta las cuatro semillas en la palma de la mano, con cuidado, como si fueran granos de café de los caros, y las guarda en una de las latas de la estantería: la de té verde, la que nadie abre nunca. Pone el botón en el bolsillo del chaleco, del lado del corazón.
+
+—Los voy a cuidar —dice—. Y espero no tener que usarlos nunca.
+
+Hinami está al pie de la escalera. Se dio vuelta al oír "esta noche". Te mira con los ojos enormes, con la muñeca de tela apretada contra el pecho.
+
+—¿Te vas ya, Facundo-nii? —pregunta bajito—. ¿Ahora?
+
+Kaneki se levantó del taburete. Mira hacia arriba, hacia la puerta cerrada del cuarto chico. Después a ti.
+
+—Déjame ir a buscar a Touka-chan antes —dice—. Si te vas sin que te vea, no me lo va a perdonar nunca. Ni a mí ni a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1273 · TOKYO GHOUL · DÍA 7 · 21:23     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: despedirse de Anteiku              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:21, salón de Anteiku. Touka se encerró arriba tras ver a Ayato. Yoshimura le sirve café a Facundo y le pregunta si ya sabe cuándo se va. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:23, salón de Anteiku. Facundo se va esta noche; dejó botón y 4 semillas. Hinami pregunta si se va ya; Kaneki quiere ir a buscar a Touka antes. Facundo puede responder.

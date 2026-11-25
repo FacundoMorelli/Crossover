@@ -200,3 +200,4 @@
 - Facundo, Touka · T1270 · por Ayato: en Aogiri hay gente que conoce la cara de Touka (la de la máscara de conejo que atacó investigadores el año pasado).
 - Ayato, Touka · T1271 · por Facundo: es un viajero; no se queda mucho ni vuelve seguido.
 - Todos en Anteiku · T1272 · por Touka: vio a Ayato; está vivo y flaco.
+- Todos en Anteiku · T1273 · Facundo se va esta noche. Dejó un botón (si lo tocan, él sabe que están en problemas) y 4 semillas del ermitaño (Yoshimura las guarda en la lata de té verde; el botón en su chaleco).
