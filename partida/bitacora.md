@@ -1212,3 +1212,4 @@ T1210 · TG · Anteiku · "¿Qué quieres, Shinohara?" Agradece. El informe del 
 T1211 · TG · Anteiku · "Sí." Shinohara advierte sobre la CCG y pide ver a un ghoul comer pan.
 T1212 · TG · Anteiku · "Sí." Shinohara pone condiciones (sin nombres, sin informe) y espera. Yoshimura aparece en el pasillo.
 T1213 · TG · Anteiku · Yoshimura se ofrece: muestra el kakugan y come un bollo delante de Shinohara. "¿Por qué usted?"
+T1214 · TG · Anteiku · Shinohara habla con Yoshimura, paga de más, deja su tarjeta a Facundo y se va. Juuzou: "¡Algún día voy a cortar tu pared!"

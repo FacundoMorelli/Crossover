@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1211)
+## COMANDO 1 (T1212)
 si
 
-## RESPUESTA 1 (T1211)
-
-> —Sí.
-
-Shinohara no dice nada por un rato.
-
-Agarra la taza con las dos manos, grandes, con los nudillos marcados de años de quinque, y la mira sin tomar. El vapor le sube a la cara.
-
-—Veintitrés años —dice al final, muy bajo—. Veintitrés años en esto. Enterré a compañeros. Saqué chicos de departamentos donde no quedaba nada de los padres. —Se le endurece la mandíbula un momento, y se le afloja—. Y todo ese tiempo, la única respuesta que tuvimos fue la misma. Que ellos tienen que comer personas. Que no pueden elegir otra cosa. Que no hay nada que hablar.
-
-Toma un trago de café. Lo deja.
-
-—Si eso deja de ser cierto...
-
-No termina.
-
-Afuera, Juuzou se aburrió del hilo plateado y está haciendo equilibrio sobre el cordón con los brazos abiertos, de punta a punta de la vereda, canturreando.
-
-Shinohara lo mira por el vidrio un largo rato. Después vuelve a ti, y la cara ya no es la de un hombre agradecido. Es la de un investigador de Clase Especial.
-
-—Escúchame bien, porque esto no lo digo dos veces. —Habla casi sin mover los labios—. La CCG no va a ver un milagro. Va a ver a un humano que ayuda a ghouls. Hay gente arriba, muy arriba, que no quiere que esto termine nunca. Y el Distrito 20 está bajo la lupa desde hace semanas, por cosas que no tienen nada que ver contigo.
-
-Te sostiene la mirada.
-
-—Ese informe ya está en un escritorio. Yo pedí verificarlo en persona, para ganar tiempo. Pero no voy a poder sostenerlo mucho.
-
-Se queda callado. Mira de reojo a Touka, que está detrás de la barra secando un vaso que ya está seco. Después mira la puerta, donde Juuzou rebotó contra la nada. Después a ti.
-
-—Una cosa más —dice—. Necesito verlo. No por la CCG. Por mí. —Se le quiebra un poco la voz grave—. Necesito ver con mis propios ojos a un ghoul comer pan. Aunque sea una vez. ¿Puedes mostrármelo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1211 · TOKYO GHOUL · DÍA 3 · 10:26     ║
-║ Distrito 20 · Anteiku, barra                 ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1212)
-si
-
-## RESPUESTA 2 (T1212)
+## RESPUESTA 1 (T1212)
 
 > —Sí.
 
@@ -101,10 +50,10 @@ El reloj de pared hace tic tac.
 
 ---
 
-## COMANDO 3 (T1213)
+## COMANDO 2 (T1213)
 esta bien
 
-## RESPUESTA 3 (T1213)
+## RESPUESTA 2 (T1213)
 
 > —Está bien.
 
@@ -161,7 +110,79 @@ Pasa mucho tiempo antes de que hable. Cuando lo hace, la voz le sale ronca, sin 
 
 (Nota del motor: dentro de la simulación de los dos días, Yoshimura fue uno de "los de la casa" que pidieron la transfiguración, el Día 2 a la noche, al cerrar el café. Quedó registrado así.)
 
+---
+
+## COMANDO 3 (T1214)
+miro
+
+## RESPUESTA 3 (T1214)
+
+> miro
+
+Yoshimura junta las manos sobre la barra.
+
+—Porque soy el más viejo de esta casa —dice—. Porque los demás tienen toda la vida por delante, y yo ya viví la mía. —Hace una pausa—. Y porque usted entró por esa puerta y la pared lo dejó pasar. Este muchacho la puso para que solo entraran los que no vienen a hacer daño. Así que ya sabía algo de usted antes de que se sentara.
+
+Shinohara gira la cabeza hacia la puerta. Hacia el hilo plateado del cordón. Hacia Juuzou, que sigue afuera, en cuclillas sobre la vereda, empujando la nada con un dedo, como si probara la superficie de un estanque.
+
+Se queda un rato así. Después vuelve a mirar a Yoshimura.
+
+—Mi trabajo es encontrarlo a usted —dice despacio—. A gente como usted. Lo hice veintitrés años.
+
+—Lo sé.
+
+—Y sin embargo me sirvió café.
+
+—Usted lo pidió negro —dice Yoshimura—. Como lo toma la gente que trabaja de noche.
+
+A Shinohara se le escapa una risa corta, sin ganas, por la nariz. Se pasa una mano grande por la cara.
+
+—Esto no está pasando —murmura.
+
+Pero está pasando. Toma el último trago de café, ya frío, y deja la taza en el platillo con mucho cuidado, como si fuera de vidrio fino. Se levanta del taburete. Saca la billetera, deja un billete sobre la barra, bastante más de lo que cuesta un café, y no espera el vuelto.
+
+Después se vuelve hacia ti.
+
+—Mantuve mi palabra —dice—. Y la voy a seguir manteniendo. —Mete la mano en el bolsillo interior del saco y saca una tarjeta blanca, simple, con un número de teléfono escrito a mano en el dorso—. Pero hay cosas que yo no controlo. No sé cuántos días le quedan a ese informe en el escritorio. No sé qué decide la gente de arriba ni cuándo.
+
+Deja la tarjeta en la barra, delante de ti, junto a la cabeza de Kase.
+
+—Si un día ves que esto se pone feo, llámame. No como investigador. Como alguien que te debe la vida.
+
+Inclina la cabeza, primero hacia ti y después, un segundo más tarde, hacia Yoshimura. Una reverencia corta, la misma para los dos.
+
+Camina hasta la puerta. Cruza el umbral sin que el aire tiemble.
+
+En la vereda, Juuzou se pone de pie de un salto.
+
+—¡Señor Shinohara! ¿Qué había? ¿Había algo rico? —Y antes de que Shinohara conteste, se asoma por un costado de él y te busca con la mirada a través del vidrio. Te encuentra. Sonríe con toda la cara, con las costuras rojas estiradas bajo el ojo, y levanta la navaja curva para saludarte, girándola entre los dedos—. ¡Oye, el de los dos colores! ¡Tu pared es muy buena! ¡Algún día la voy a cortar!
+
+Shinohara lo agarra del cuello de la camiseta y se lo lleva por la vereda, sin mirar atrás. Juuzou se deja arrastrar, saludando todavía con la mano libre, canturreando.
+
+Adentro, nadie habla.
+
+Touka deja el vaso sobre la barra. Le tiemblan las manos. Nishiki suelta la escoba, que cae contra la pared con un golpe seco.
+
+Yoshimura levanta el billete que dejó Shinohara. Lo mira un momento. Lo guarda en la caja.
+
+Después te mira a ti, por encima de los lentes.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1214 · TOKYO GHOUL · DÍA 3 · 10:34     ║
+║ Distrito 20 · Anteiku, barra                 ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:29, barra de Anteiku. Yoshimura mostró el kakugan y comió un bollo delante de Shinohara. Shinohara le pregunta por qué se arriesgó él. Facundo puede intervenir.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 3 10:34, barra de Anteiku. Shinohara se fue y dejó su tarjeta; Juuzou prometió cortar la pared algún día. Yoshimura mira a Facundo. Facundo puede actuar.

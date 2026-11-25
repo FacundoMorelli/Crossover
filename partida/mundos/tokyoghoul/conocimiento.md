@@ -101,3 +101,5 @@
 - Facundo, Touka, Nishiki, Yoshimura · T1212 · Shinohara dio su palabra: no pedirá nombres ni lo pondrá en un informe.
 - Shinohara · T1213 · vio a Yoshimura (gerente de Anteiku, sin nombre dicho) mostrar un kakugan en el ojo derecho y comer un bollo: sabe que el gerente de Anteiku es un ghoul. NO sabe que es el Búho. Dio su palabra de no informarlo.
 - Touka, Nishiki, Facundo · T1213 · vieron a Yoshimura exponerse ante Shinohara.
+- Shinohara · T1214 · por Yoshimura: la pared deja pasar solo a los que no vienen a hacer daño; la puso "este muchacho" (Facundo).
+- Juuzou · T1214 · sabe que la pared es "del de los dos colores" (deducción por lo que vio y el saludo); no sabe nada de ghouls adentro (Shinohara no le contó).

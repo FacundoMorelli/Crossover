@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1214 · "Porque soy el más viejo de esta casa." "Usted entró por esa puerta y la pared lo dejó pasar." "Usted lo pidió negro. Como lo toma la gente que trabaja de noche."
 - T1213 · "Señor Shinohara. Usted pidió no saber nombres. Se lo agradezco." "Es la primera vez en sesenta y tantos años que como algo que hizo un panadero."
 - T1199 · "Ve. Nishiki-kun puede lavar platos. Le va a hacer bien."
 - T1198 · "Esta mañana. Se comió una tostada a escondidas en la cocina. Y después le robaron la otra mitad."

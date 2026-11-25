@@ -1,8 +1,8 @@
 {
-  "turno": 1213,
+  "turno": 1214,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 3 desde la llegada (T1147 = noche del Día 0; Día 1 = mañana siguiente al asalto a la mansión de Kanou)",
-  "hora": "10:29",
+  "hora": "10:34",
   "edad": 18,
   "nivel": 28,
   "exp": 276530,
@@ -620,6 +620,11 @@
       "objeto": "Celular local con línea (BnHA)",
       "detalle": "Comprado T1124 (5 F). Tiene el contacto directo de Nezu (de la carpeta de la U.A.).",
       "mundo": "bokunohero"
+    },
+    {
+      "objeto": "Tarjeta de Shinohara (número de teléfono escrito a mano en el dorso)",
+      "mundo": "tokyoghoul",
+      "desde": "T1214"
     }
   ],
   "copias": [

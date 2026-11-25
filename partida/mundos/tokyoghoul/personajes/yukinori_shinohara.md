@@ -11,6 +11,7 @@ ENCUENTROS:
 - T1151 · Facundo le da una semilla y lo cura con la Transfiguración Ociosa. Despierta.
 - T1148 · Laboratorio subterráneo · Tirado, abdomen atravesado, mordido en el hombro, ojos abiertos sin ver, respira apenas.
 DIÁLOGOS CLAVE:
+- T1214 · "Mi trabajo es encontrarlo a usted." "Y sin embargo me sirvió café." "Esto no está pasando." "Mantuve mi palabra. Y la voy a seguir manteniendo." "Si un día ves que esto se pone feo, llámame. No como investigador. Como alguien que te debe la vida."
 - T1213 · (a Yoshimura) "¿Por qué usted? Podía haber sido cualquiera. ¿Por qué se arriesgó usted?"
 - T1212 · "No quiero nombres." "Si tiene que taparse la cara, que se la tape." "Lo que vea hoy no va a estar en ningún informe con mi firma. Tienes mi palabra." "Juuzou no sabe guardar secretos."
 - T1211 · "Veintitrés años en esto." "La CCG no va a ver un milagro. Va a ver a un humano que ayuda a ghouls. Hay gente arriba, muy arriba, que no quiere que esto termine nunca." "Yo pedí verificarlo en persona, para ganar tiempo." "Necesito ver con mis propios ojos a un ghoul comer pan. ¿Puedes mostrármelo?"
@@ -19,4 +20,4 @@ DIÁLOGOS CLAVE:
 - T1151 · "Amon. ¿Cuánto tiempo estuve fuera? ¿Y quién demonios es este?"
 QUÉ SABE DE FACUNDO: (T1213) Sabe que el gerente de Anteiku es un ghoul que come pan (no sabe que es el Búho). (T1211) Facundo le confirmó que le quitó el hambre a un ghoul. Lo curó con la mano y algo de comer (por Amon, T1152). No sabe quién es.
 QUÉ PODERES VIO: Despertó curado (no vio cómo).
-ESTADO: Curado (T1151). Día 3 en Anteiku, de civil, buscando a Facundo.
+ESTADO: Curado (T1151). Le dio a Facundo su tarjeta con número (T1214). Retiene el informe del rumor verificándolo; mantiene su palabra. Sabe que el gerente de Anteiku es ghoul (no que es el Búho).
