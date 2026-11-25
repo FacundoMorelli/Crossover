@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1203 · "Lo que sea."
 - T1201 · "No grita. Siempre gritaba. Pedía. Ahora está... callado."
 - T1198 · "Una manzana. Pan. Un bollo. Y café, como siempre." "Yomo-san. Facundo-san me va a entrenar. Hoy, a la tarde, en el Distrito 24."
 - T1196 · "Yomo-san."

@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1200)
-bueno, pongan una mano encima mio. me teletransporto a donde me dijo kaneki
-
-## RESPUESTA 1 (T1200)
-
-> —Bueno, pongan una mano encima mío.
-
-Touka te mira como si le hubieras pedido algo indecente.
-
-Kaneki no duda. Te apoya la mano en el hombro, el que no tiene a Kase, porque ya lo vio anoche en el acantilado. Yomo mira la mano de Kaneki, después te mira a ti, y apoya la suya en tu otro brazo, sin una palabra, firme, como quien se agarra de una baranda.
-
-Touka chasquea la lengua.
-
-—Si esto es una broma... —Te agarra la manga del sobretodo con dos dedos, lo mínimo indispensable.
-
-Kase se acomoda en tu cuello y te envuelve con la cola.
-
-Buscas abajo. Más abajo que las cloacas, más abajo que los cimientos de los edificios y que los túneles del tren. Ahí está: un hueco enorme debajo de la ciudad, frío y vacío, kilómetros de aire quieto que no se mueve desde hace años. Unas pocas presencias lejanas, dispersas, dormidas en los rincones. Nadie cerca.
-
-Te mueves.
-
-La cocina de Anteiku desaparece.
-
-Oscuridad. Frío. Un olor a piedra húmeda, a polvo viejo y a hierro oxidado. El eco de una gota que cae, muy lejos, y tarda en terminar de sonar.
-
-Enciendes un poco de luz en la palma de la mano. Una llama chica, blanca y quieta.
-
-Están en el borde de una galería tan grande que la luz no llega al techo. Columnas de concreto gruesas como edificios se pierden hacia arriba, en lo negro. El piso es de piedra, liso en algunas partes y roto en otras, con charcos que reflejan la llama. A lo lejos, a un costado, hay una estructura vieja medio derrumbada que parece una escalera que no lleva a ningún lado. Más allá, el vacío.
-
-Touka te suelta la manga de golpe, como si quemara.
-
-—¿Qué...? —Mira alrededor. La voz le rebota en la piedra y vuelve dos veces—. ¿Qué fue eso?
-
-Kaneki suelta el aire despacio. Ya lo había vivido una vez.
-
-Yomo no dice nada. Te suelta el brazo, da tres pasos hacia adelante, se agacha y pasa los dedos por el polvo del suelo. Los huele. Levanta la vista hacia las columnas y después hacia la oscuridad de la galería, girando la cabeza despacio, como si leyera un mapa en la nada.
-
-—Es el 24 —dice al final—. Un nivel más abajo que donde lo traía yo.
-
-Se levanta. Se limpia los dedos en el pantalón y te mira por encima del hombro.
-
-—Nos ahorraste una hora.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1200 · TOKYO GHOUL · TARDE · 12:48     ║
-║ Distrito 24 · galería subterránea            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 95% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: entrenar a Kaneki y a Touka        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1201)
+## COMANDO 1 (T1201)
 bueno, yo no voy a usar mi kagune, empecemos
 
-## RESPUESTA 2 (T1201)
+## RESPUESTA 1 (T1201)
 
 > —Bueno, yo no voy a usar mi kagune. Empecemos.
 
@@ -141,10 +80,10 @@ Al mismo tiempo, del otro lado, Kaneki se lanza. Los cuatro tentáculos se estir
 
 ---
 
-## COMANDO 3 (T1202)
+## COMANDO 2 (T1202)
 activo el ultra instinto dominado (Y que es esa forma de poner las cosas:, asi no es el formato) [captura: la línea "[Kagune de Kaneki y de Touka vistos en acción. Misiones de copia disponibles.]"]
 
-## RESPUESTA 3 (T1202)
+## RESPUESTA 2 (T1202)
 
 ```
 ╔══════════════════════════════════════════════╗
@@ -220,7 +159,69 @@ Kaneki arranca los tentáculos de la piedra.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1203)
+si alguien me logra tocar le doy la comida que quiera
+
+## RESPUESTA 3 (T1203)
+
+> —Si alguien me logra tocar, le doy la comida que quiera.
+
+Kaneki, a mitad de camino hacia tu izquierda, frena medio paso.
+
+Touka, con cientos de cristales temblando en el ala, también.
+
+Se miran. Una sola vez, por encima de tu cabeza. Es una mirada corta, sin palabras, de esas que se cruzan dos personas que se pelearon mucho y se conocen demasiado.
+
+—La que quiera —repite Touka despacio, entrecerrando el ojo.
+
+—Lo que sea —dice Kaneki.
+
+Y vienen.
+
+Ya no atacan cada uno por su lado. Touka suelta los cristales en tandas, no todos juntos: una ráfaga baja a los pies, otra alta a la cabeza, otra en diagonal, cerrando huecos. Kaneki entra por los lugares que dejan libres, con los tentáculos barriendo de lado en vez de caer desde arriba, para obligarte a saltar.
+
+No saltas.
+
+El cuerpo encuentra los huecos solo. Un giro, una inclinación, un paso hacia el costado que llega justo cuando el tentáculo ya pasó. Los cristales se clavan en la piedra alrededor tuyo hasta que el piso parece un campo de agujas violetas. Kaneki pasa a tu lado tres veces, tan cerca que sientes el viento de su camisa, y las tres veces su mano se cierra en el aire donde un instante antes estaba tu hombro.
+
+Un minuto. Dos.
+
+Touka jadea. Kaneki suda, con el pelo blanco pegado a la frente. Ninguno de los dos te tocó ni con la punta de un dedo.
+
+Entonces Touka deja de apuntarte a ti.
+
+Levanta el ala hacia arriba y dispara un solo cristal, grueso como un brazo, directo a la llama blanca que flota a diez metros del suelo.
+
+La llama se apaga.
+
+Oscuridad total. Negro, sin bordes, sin fondo. El eco del cristal rompiéndose contra el techo invisible tarda una eternidad en apagarse.
+
+En la oscuridad se encienden dos ojos rojos con el fondo negro. Después otros dos. Los ghouls ven en lo oscuro.
+
+Tú no los ves.
+
+Desde la izquierda, muy cerca, el roce de cuatro tentáculos que se mueven a la vez. Desde atrás, el zumbido eléctrico del ala de Touka, que ya no está donde estaba.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1203 · TOKYO GHOUL · TARDE · 12:56     ║
+║ Distrito 24 · galería (a oscuras)            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Ultra Instinto Dominado: activo              ║
+║ Kase: en un bloque, junto a Yomo             ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki y a Touka        ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 12:53, galería del Distrito 24. Facundo en Ultra Instinto Dominado esquivó todo. Touka carga cientos de cristales y Kaneki ataca por la izquierda. Facundo puede reaccionar.
+ESTADO AL CIERRE: Tokyo Ghoul, 12:56, galería del Distrito 24 a oscuras. Kaneki por la izquierda y Touka por detrás atacan en la oscuridad. Facundo en Ultra Instinto Dominado. Facundo puede reaccionar.

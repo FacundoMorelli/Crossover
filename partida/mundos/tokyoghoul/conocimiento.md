@@ -79,3 +79,4 @@
 - Facundo · T1201 · vio el kagune de Touka (ala ukaku violeta, cristales) y el de Kaneki (4 tentáculos rinkaku) en acción.
 - Kaneki, Touka, Yomo · T1201 · vieron a Facundo crear una llama flotante.
 - Kaneki, Touka, Yomo · T1202 · vieron a Facundo con el Ultra Instinto Dominado (pelo plateado, brillo plateado, aura fina) esquivar todo con movimientos mínimos. Kaneki notó que pudo haberlo tocado y no lo hizo.
+- Kaneki, Touka, Yomo · T1203 · apuesta de Facundo: quien lo toque elige la comida que quiera.
