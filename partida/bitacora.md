@@ -1100,3 +1100,4 @@ T1098 · BnHA · Sala de monitoreo · Teletransporte detrás de Aizawa pese a Bo
 T1099 · BnHA · Sala de monitoreo · Observa el quinto combate: Monoma no copia nada; Shinso lava a Izuku; Látigo Negro desbordado. Aizawa: "No llego." Un látigo va hacia Uraraka.
 T1100 · BnHA · Campo Gamma · Teletransporte; atrapa con la mano el látigo que iba hacia Uraraka. Uraraka: "¡Es Deku! ¡Tengo que llegar hasta él!"
 T1101 · BnHA · Campo Gamma · Ojo azul: gravedad sobre los látigos. Uraraka hace flotar a Izuku; Shinso lo lava; los látigos se retraen. Ashido: "¡¿Y TÚ QUIÉN ERES?!"
+T1102 · BnHA · Campo Gamma · "Soy el consultor de seguridad." Semilla a Izuku: curado, despierta. "Usted sujetó el Látigo Negro. ¿De qué agencia es?" Llegan Aizawa y Vlad King.

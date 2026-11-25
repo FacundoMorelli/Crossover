@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 - T1101 · Campo Gamma: llega y ve a Facundo junto a Izuku y Uraraka.
 DIÁLOGOS CLAVE:
+- T1102 · "¿El... qué? ¿La U.A. tiene un consultor de seguridad?"
 - T1101 · "¡Uraraka! ¡¿Está bien Midoriya?! ¡¿Y TÚ QUIÉN ERES?!"
 QUÉ SABE DE FACUNDO: lo ve en persona (T1101).
 QUÉ PODERES DE FACUNDO VIO: posiblemente la gravedad sobre los látigos.

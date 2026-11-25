@@ -30,3 +30,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Uraraka, Shinso (y los alumnos cercanos del quinto combate) · T1100 · un desconocido de pelo blanco y azul con un gato apareció de la nada en el Campo Gamma y atrapó con la mano un látigo negro de Izuku sin moverse.
 - Aizawa, Vlad King, All Might (y las cámaras del Campo Gamma) · T1100 · lo vieron desaparecer de la sala de monitoreo y aparecer en el Campo Gamma (grabado).
 - Uraraka, Shinso, Ashido y los alumnos del quinto combate (y las cámaras/profesores) · T1101 · vieron el ojo azul de Facundo encenderse: los látigos cayeron como de plomo, con escarcha. Lo interpretan como un Don de gravedad y hielo.
+- Izuku, Uraraka, Shinso, Ashido y alumnos cercanos · T1102 · su nombre: Facundo Morelli, consultor de seguridad de la U.A. (él lo dijo). Vieron cómo una semilla curó a Izuku al instante.
+- Izuku · T1102 · sintió "desde adentro" que algo agarraba el Látigo Negro desde afuera; sintió frío.

@@ -1,8 +1,8 @@
 {
-  "turno": 1101,
+  "turno": 1102,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "11:14",
+  "hora": "11:16",
   "edad": 18,
   "nivel": 28,
   "exp": 263930,
@@ -507,8 +507,8 @@
     },
     {
       "objeto": "Semillas del ermitaño",
-      "cantidad": 80,
-      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford). 1 a Ace (T900, Marineford). 1 a Zoro (T915, Kuraigana). 1 a Robin (T922, Tequila Wolf, de un beso). 3 a Shadow Gear (Levy, Jet, Droy) (T998, Magnolia, Fairy Tail). 1 a Makarov (T1018, torre de Phantom). 1 al capitán Lahar, donación al Consejo Mágico (T1026, Magnolia). 1 a Hisoka Morow (T1059, puerto de Kakin). 1 a Rei (Xenos, T1071, Orario). 1 a Fia (Xenos, T1073, Orario).",
+      "cantidad": 79,
+      "detalle": "Compradas en T630 (100 × 400 Fragmentos). Dadas: 1 a Luffy, 1 a Zoro. 1 a Usopp (T705). 1 a Iceburg (T717). 1 a Luffy (T753, contra Lucci). 1 Facundo (T812, tras el dolor de Kuma). 1 a Hachi (T870, Sabaody). 1 a Barbablanca (T888, Marineford). 1 a Luffy (T890, Marineford). 1 a Ace (T900, Marineford). 1 a Zoro (T915, Kuraigana). 1 a Robin (T922, Tequila Wolf, de un beso). 3 a Shadow Gear (Levy, Jet, Droy) (T998, Magnolia, Fairy Tail). 1 a Makarov (T1018, torre de Phantom). 1 al capitán Lahar, donación al Consejo Mágico (T1026, Magnolia). 1 a Hisoka Morow (T1059, puerto de Kakin). 1 a Rei (Xenos, T1071, Orario). 1 a Fia (Xenos, T1073, Orario). 1 a Izuku Midoriya (T1102, U.A.).",
       "mundo": "tienda"
     },
     {
