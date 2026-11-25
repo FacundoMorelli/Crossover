@@ -3,86 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1115)
-usted tiene algo para comprobar si estoy en el sistema actualmente? compro una licencia en la tienda legitima a mi nombre
-
-## RESPUESTA 1 (T1115)
-
-> —¿Usted tiene algo para comprobar si estoy en el sistema actualmente?
-
-Nezu ladea la cabeza.
-
-—La U.A. tiene acceso al registro de la Comisión —dice—. Es como verificamos a los profesionales que vienen a dar clases. —Ya está tecleando con las dos patitas en el teclado de la consola—. Pero le adelanto la respuesta: esta mañana lo busqué. No existe ningún Facundo Morelli.
-
-Mientras él teclea, abres la tienda.
-
-╔══════════════════════════════════════════════╗
-║ TIENDA DEL SISTEMA · compra                  ║
-╠══════════════════════════════════════════════╣
-║ Licencia de Héroe Profesional (legítima)     ║
-║ A nombre de: Facundo Morelli                 ║
-║ Registro completo en la Comisión de          ║
-║ Seguridad Pública de Héroes: número, Don     ║
-║ registrado, fecha de emisión, estado activo. ║
-║ Tarjeta física incluida.                     ║
-║ Costo: 30 Fragmentos                         ║
-╠══════════════════════════════════════════════╣
-║ FRAGMENTOS: 108.941 → 108.911                ║
-╚══════════════════════════════════════════════╝
-
-Sientes un peso nuevo en el bolsillo de atrás. Una tarjeta rígida, plastificada.
-
-—Nombre... —murmura Nezu, escribiendo—. Facundo. Morelli. Y...
-
-Se detiene.
-
-La pantalla del costado, la que mostraba el mapa con los cuatro círculos rojos, cambia a una ficha con el sello de la Comisión arriba. Hay una foto. Tu cara.
-
-Nezu no se mueve.
-
-Aizawa se levanta de la silla y se acerca a leer por encima del hombro del director. All Might también se inclina, tan grande que tapa la mitad de la luz.
-
-—"Licencia de Héroe Profesional" —lee Aizawa, en voz baja—. "Estado: activa." Número de registro... Don registrado... —Se interrumpe y te mira—. Esta mañana no estaba.
-
-—No estaba —confirma Nezu. Vuelve a teclear, rápido. Abre el historial de la ficha, la fecha de emisión, las firmas de validación. Revisa todo dos veces. Después se recuesta en la silla, muy despacio—. Y ahora está. Con todo en orden. Firmas, sellos, todo.
-
-Hay un silencio largo.
-
-All Might suelta una carcajada enorme que hace temblar los vidrios.
-
-—¡Totalmente legítima! —dice—. ¡Y de la nada misma! ¡Lo dijo, director!
-
-—Lo dijo —admite Nezu. Te mira con los ojitos muy abiertos y algo que parece medio admiración, medio dolor de cabeza—. Señor Morelli, acabo de pasar diez minutos pensando cómo convencer a la Comisión. Y usted se convenció a la Comisión solo, sin que la Comisión se entere.
-
-Aizawa se cruza de brazos.
-
-—Entonces ahora puede detener villanos —dice—. Legalmente.
-
-—Legalmente —repite Nezu. Se le escapa una risita—. Bueno. Ya no tengo que poner nada en la mesa. —Junta las patitas—. La pregunta es otra, entonces. Ahora que puede ir a buscarlos... ¿a quién va a ir a buscar primero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1115 · BOKU NO HERO · DIC. · 11:59     ║
-║ U.A. · sala de monitoreo del Campo Gamma     ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1116)
+## COMANDO 1 (T1116)
 alguien quiere venir conmigo? osea no por que necesite ayuda, creo que a alguien no le gustaria para nada ver a allmight con sus poderes de nuevo
 
-## RESPUESTA 2 (T1116)
+## RESPUESTA 1 (T1116)
 
 > —¿Alguien quiere venir conmigo? O sea, no porque necesite ayuda. Creo que a alguien no le gustaría para nada ver a All Might con sus poderes de nuevo.
 
@@ -137,10 +61,10 @@ Nezu junta las patitas sobre el escritorio.
 
 ---
 
-## COMANDO 3 (T1117)
+## COMANDO 2 (T1117)
 primero a él, vamos All Might, me teletransporto a Tartarus
 
-## RESPUESTA 3 (T1117)
+## RESPUESTA 2 (T1117)
 
 > —Primero a él. Vamos, All Might.
 
@@ -205,4 +129,54 @@ Y la cabeza gira, muy lentamente, hacia ti.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:02, Tartarus, celda del nivel más bajo. Facundo y All Might frente a All For One (atado). 12 cañones apuntando, alarma. AFO pregunta a Facundo: "¿Fuiste tú?" (la brasa entera). Facundo puede actuar.
+## COMANDO 3 (T1118)
+quien sabe, los siguientes en ser arrestados van a ser la liga, eh allmight, te puedes quedar a explicar esto a los guardias mientras yo voy?
+
+## RESPUESTA 3 (T1118)
+
+> —Quién sabe. Los siguientes en ser arrestados van a ser los de la Liga. —Te giras—. Eh, All Might, ¿te puedes quedar a explicarles esto a los guardias mientras yo voy?
+
+El respirador de All For One se detiene un segundo.
+
+Después sale un sonido raro por el altavoz del casco. Bajo, entrecortado. Tardas un momento en darte cuenta de que es una risa.
+
+—"La Liga" —repite—. Qué palabra tan pequeña para lo que Tomura está construyendo. —La cabeza sin ojos se queda fija en ti—. Ve, entonces. Ve a buscarlo. Me encantaría saber cómo te va.
+
+All Might aprieta la mandíbula. Te suelta el hombro.
+
+—Me quedo —dice, sin apartar la vista de la silla—. Alguien tiene que explicarles a los de arriba por qué el Símbolo de la Paz apareció de la nada en el nivel más bajo de Tartarus. —Una sonrisa tensa, apenas—. Y alguien tiene que asegurarse de que él no se mueva.
+
+Los cañones del techo siguen girando entre ustedes dos, indecisos. El altavoz cruje.
+
+—¡All Might! ¡Identifíquese! ¡Y su acompañante también!
+
+—¡Soy yo! —ruge All Might hacia el techo, y la voz retumba en el metal de toda la celda—. ¡Bajen las armas! ¡Voy a subir a explicar todo!
+
+Después baja la voz y se inclina hacia ti, muy cerca, para que solo lo escuches tú.
+
+—Ten cuidado, joven Morelli. Él y Shigaraki... siempre supo cosas que no debería saber. Si puede avisarle, lo va a hacer.
+
+En la silla, All For One vuelve a respirar despacio. Tranquilo. Como si estuviera esperando algo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1118 · BOKU NO HERO · DIC. · 12:03     ║
+║ Tartarus · celda de contención, nivel más    ║
+║ bajo                                         ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Con: All Might (se queda con los guardias)   ║
+║ ALERTA: 12 cañones automáticos               ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a la Liga                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:03, Tartarus. All Might se queda con los guardias y vigilando a AFO. AFO, tranquilo, "esperando algo"; All Might advierte que podría avisar a Shigaraki. Facundo puede irse por la Liga.

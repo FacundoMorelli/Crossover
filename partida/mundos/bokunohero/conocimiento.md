@@ -47,3 +47,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Nezu, Aizawa, All Might · T1115 · vieron aparecer en el registro de la Comisión una licencia profesional activa a nombre de Facundo, que esa mañana no existía. Saben que la consiguió él solo "de la nada".
 - Nezu, Aizawa, All Might · T1116 · entienden que Facundo habla de All For One (Tartarus). All Might decide acompañarlo.
 - All For One · T1117 · siente que la brasa de One For All de All Might está entera; sospecha de Facundo. Los guardias de Tartarus vieron a dos intrusos (uno, All Might) aparecer en la celda.
+- All For One · T1118 · Facundo anuncia que va a arrestar a la Liga.
