@@ -1,10 +1,10 @@
-TURNO: 1144 | MUNDO: Boku no Hero Academia | Diciembre | HORA: 07:02 (+4 días) | Lugar: U.A., sala de monitoreo del Campo Gamma
+TURNO: 1144 | MUNDO: Boku no Hero Academia | Diciembre | HORA: 07:02 (+4 días) | Lugar: U.A., campo de entrenamiento detrás del edificio de profesores
 REGLAS EXTRA: leer partida/reglas_extra.md (13 reglas; R9: una pareja por mundo; R10: Sakaime invisible; R11: Haki azul y blanco; R12: pelo a voluntad; R13: Ymir adulta). Última escena textual: partida/ultima_escena.md.
 MOMENTO DEL CANON: Boku no Hero, arco 14 (cap. ~200): día del entrenamiento conjunto 1-A vs 1-B en la U.A. Endeavor N.º 1, Hawks N.º 2. Por delante: Ejército de Liberación Meta, Guerra de Liberación Paranormal (muere Midnight). Ver mundos/bokunohero/. (DanMachi: salida Noche 2 01:01. HxH: Día 4. Bleach: 21/12.)
 FACUNDO: 18 años · NIVEL 28 · EXP 275.930/280.000 · 109.306 Fragmentos · 0 yenes · 150 puntos sin asignar · Energía 99% · Ojos: bien
 PARA ESTE MUNDO (Boku no Hero): consultor de seguridad externo de la U.A. (Nezu). All Might, Aizawa y Nezu SABEN QUE VIENE DE OTRO MUNDO (T1112). Video viral del banco. Velo: persona común.
 QUIÉN SABE QUÉ: ver mundos/bokunohero/conocimiento.md (nadie sabe nada).
-MISIÓN DE MUNDO (Boku no Hero): Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal. 12.000 EXP · 400 F. ACTIVA (T1087). Completados 9.
+MISIÓN DE MUNDO (Boku no Hero): Que ningún alumno ni profesor de la U.A. muera antes de que termine la Guerra de Liberación Paranormal. CUMPLIDA (T1144): +12.000 EXP · +400 F. Completados 10.
 ÚLTIMOS 5 TURNOS:
 - T1144 (simulación, 4 días): Anuncio de la Comisión: operativo conjunto, sin el nombre de Eclipse. Habitación en el edificio de profesores de la U.A. Declaración a Tsukauchi. All Might: AFO no volvió a hablar, "solo espera". Traslados a Tartarus (Shigaraki en el ala opuesta a AFO; Gigantomachia sedado). Día 3 23:30: la Comisión cierra el operativo → MISIÓN DE MUNDO CUMPLIDA (+12.000 EXP, +400 F). Día 4, 07:02: Izuku llega al campo; el Látigo Negro se le escapa; pide que lo ayude a entrenar.
 - T1143: Pide perdón por Tartarus. Presidenta: el director de Tartarus quiere su cabeza (11 controles; si dos pudieron, cualquiera). No anunciará que All Might recuperó sus poderes. Transcripción: AFO, tras 4 min de silencio, a All Might: "Dile al muchacho del gato que no se apure en irse. Me gustaría conocerlo como es debido." Guardia triplicada. "Si vuelve a entrar ahí, avíseme antes."
