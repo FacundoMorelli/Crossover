@@ -161,11 +161,7 @@ Silencio en la línea.
 
 Un silencio largo. Escuchas, del otro lado, una taza de té que se apoya muy despacio sobre un plato.
 
-—...Shigaraki —dice Nezu al fin.
-
-—Y el lagarto —agregas.
-
-—Y el lagarto —repite él, como si lo anotara. Lo escuchas teclear—. Señor Morelli, la Comisión buscó a la Liga durante meses. Meses. —Respira—. Y usted salió de mi oficina hace cinco minutos.
+—...Shigaraki —dice Nezu al fin. Lo escuchas teclear, como si lo anotara—. Señor Morelli, la Comisión buscó a la Liga durante meses. Meses. —Respira—. Y usted salió de mi oficina hace cinco minutos.
 
 Las teclas se detienen.
 
