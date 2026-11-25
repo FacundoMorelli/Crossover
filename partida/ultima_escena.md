@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1143)
-bueno ahora si, eh y perdon por el problema que cause yendo con all might a tartaro
-
-## RESPUESTA 1 (T1143)
-
-> —Bueno, ahora sí. Eh, y perdón por el problema que causé yendo con All Might a Tartarus.
-
-La presidenta le dice a Aizawa "gracias, profesor, lo llamo luego" y cuelga. Deja el teléfono alineado con los otros dos.
-
-—Tartarus —dice.
-
-Se reclina en la silla por primera vez. Apenas.
-
-—El director de Tartarus me llamó tres veces en media hora. Quiere su cabeza, señor Morelli. Y la de All Might. Dice que nadie, nunca, había llegado al nivel más bajo sin pasar por los once controles, y que si dos personas pudieron aparecer en la celda de All For One, cualquiera puede. —Hace una pausa—. Tiene razón, por cierto. Eso me quita el sueño más que Deika.
-
-Junta las manos.
-
-—All Might le explicó lo que pudo. Que usted lo curó. Que volvió a tener sus poderes. —Te mira fijo—. Eso tampoco lo voy a anunciar, por si se lo pregunta. Hay un hombre en esa celda que lleva meses convencido de que el Símbolo de la Paz ya no existe. Prefiero que siga sin saber cuánto se equivoca. Aunque a estas alturas...
-
-Se interrumpe. Toca la pantalla del escritorio y abre algo. Un informe corto, con el sello de Tartarus.
-
-—Los guardias transcribieron todo lo que pasó en esa celda. Las cámaras graban audio. —Lee, sin cambiar el tono—. "Después de que el intruso desconocido se retiró, el recluso All For One permaneció en silencio durante cuatro minutos. Luego habló una sola vez, dirigido a All Might, que seguía presente."
-
-Levanta la vista hacia ti.
-
-—Dijo: "Dile al muchacho del gato que no se apure en irse. Me gustaría conocerlo como es debido."
-
-Apaga la pantalla.
-
-—El director de Tartarus pidió triplicar la guardia de esa celda. Se lo autoricé. —Te sostiene la mirada—. No tiene que disculparse, señor Morelli. Pero si piensa volver a entrar ahí, le voy a pedir que me avise antes. Por favor.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1143 · BOKU NO HERO · DIC. · 12:50     ║
-║ Comisión de Seguridad Pública · oficina de   ║
-║ la presidenta, piso 42                       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (abierto, deja pasar a todos)║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1144)
+## COMANDO 1 (T1144)
 simule unos dias
 
-## RESPUESTA 2 (T1144)
+## RESPUESTA 1 (T1144)
 
 > simulo unos días
 
@@ -128,10 +76,10 @@ Aprieta los puños. Las venas de los brazos se le iluminan apenas, verdes, y de 
 
 ---
 
-## COMANDO 3 (T1145)
+## COMANDO 2 (T1145)
 si, te ayudo tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre one for all, Látigo negro se activa y potencia con la ira, por lo que descontrolarse emocionalmente hace que el don se salga de control.
 
-## RESPUESTA 3 (T1145)
+## RESPUESTA 2 (T1145)
 
 > —Sí, te ayudo. Tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre One For All. El Látigo Negro se activa y se potencia con la ira, así que descontrolarte emocionalmente hace que el don se salga de control.
 
@@ -191,4 +139,71 @@ Una de las cintas negras sale disparada, sola, hacia el banco donde está sentad
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre +4 días, 07:05, campo de entrenamiento de la U.A. Izuku intentó sacar el Látigo Negro a propósito y se descontroló; una cinta negra sale disparada hacia Kase en el banco. Facundo puede actuar.
+## COMANDO 3 (T1146)
+agarro el latigo, tranquilo midoriya, tienes que controlarte mas, tampoco tienes que asustarte
+
+## RESPUESTA 3 (T1146)
+
+> agarro el látigo
+
+Estiras la mano y la cinta negra se detiene en seco, a medio metro de la cabeza de Kase, atrapada en tu puño.
+
+Tira. Fuerte, como un animal que quiere soltarse. La sientes vibrar en la palma, caliente, viva, con un pulso propio que no es el de Izuku.
+
+Kase ni se movió. Bosteza.
+
+> —Tranquilo, Midoriya. Tienes que controlarte más. Tampoco tienes que asustarte.
+
+Izuku te mira. Mira la cinta en tu mano. Traga saliva.
+
+—Tranquilo —repite, con la voz temblorosa—. No asustarme.
+
+Cierra los ojos otra vez. Respira. Una vez, larga. Otra.
+
+Las otras siete cintas siguen azotando el aire alrededor de él, pero más lento. Una suelta el poste de luz doblado. Otra se queda colgando, floja, como una cuerda mojada. Después otra. Se van recogiendo hacia sus brazos, de a una, como si alguien tirara despacio de ellas desde adentro.
+
+La que tienes en la mano es la última. Sigue tirando. Pero cada vez menos.
+
+—Esa... esa es la que salió cuando me asusté —murmura Izuku, sin abrir los ojos—. La siento. Está... enojada. No, no enojada. Está asustada. Como yo.
+
+Se le arruga la frente.
+
+—Si yo me calmo, ella se calma.
+
+Respira otra vez.
+
+La cinta en tu puño deja de tirar. Se afloja. Durante un segundo se queda quieta, negra, tibia, apoyada en tu palma como una cuerda cualquiera.
+
+Y después, despacio, por primera vez, se mueve porque Izuku la mueve. Se enrosca una vez alrededor de tu muñeca, suave, sin apretar, y se suelta. Vuelve hacia él por el aire, ondulando, y se mete en la venda de su muñeca.
+
+Izuku abre los ojos.
+
+Se mira la mano. Le tiembla.
+
+—Lo hice —susurra—. ¿Lo hice? Lo moví yo. Esa última la moví yo.
+
+Te mira, con los ojos llenos de lágrimas, sonriendo de oreja a oreja.
+
+—¿Otra vez? ¿Lo puedo intentar otra vez?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1146 · BOKU NO HERO · DIC. (+4 días)   ║
+║ · 07:08                                      ║
+║ U.A. · campo de entrenamiento, edificio de   ║
+║ profesores                                   ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el banco                            ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ MISIÓN DE COPIA: One For All (en curso)      ║
+║ OBJETIVO: Entrenar a Izuku                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre +4 días, 07:08, campo de entrenamiento. Izuku movió una cinta del Látigo Negro a voluntad por primera vez. Pide intentarlo otra vez. Misión de copia en curso (no cumplida: aún no hay control pleno). Facundo puede responder.

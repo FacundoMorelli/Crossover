@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1144 · Campo de entrenamiento, 07:02 · Pide entrenar el Látigo Negro.
 - T1098 · Diciembre 11:00 · Facundo lo/la ve en las pantallas del quinto combate.
 DIÁLOGOS CLAVE:
+- T1146 · "Está asustada. Como yo. Si yo me calmo, ella se calma." "Lo moví yo. ¿Otra vez? ¿Lo puedo intentar otra vez?"
 - T1145 · "¿Látigo Negro? Así lo llamó él. ¿All Might se lo contó?" "Es un círculo. Me enojo, sale, me enojo porque sale." "Entonces no tengo que hacerlo más fuerte. Tengo que estar más tranquilo."
 - T1144 · "¡Señor Morelli! ¡Digo, Eclipse!" "El profesor Aizawa nos contó. No todo." "Se me escapa. No lo puedo controlar. ¿Me podría ayudar a entrenar?"
 - T1103 · "¿La U.A. contrató a alguien así? ¿Desde cuándo?" "Me siento mejor que esta mañana." "¡Señor Morelli! ¡¿Puedo hablar con usted después?! ¡Tengo que preguntarle tantas cosas...!"
