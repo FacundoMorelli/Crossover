@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1314)
-
-mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
-
-## RESPUESTA 1 (T1314)
-
-> mucho gusto hokage, me llamo Facundo Morelli, soy un viajero
-
-> —Mucho gusto, Hokage. Me llamo Facundo Morelli. Soy un viajero.
-
-—Un viajero —repite Tsunade, como si la palabra le diera mala espina.
-
-No alcanza a decir nada más. Shizune se le tira encima y la abraza por el cuello, llorando a gritos. El cerdito se despierta, chilla y se pone a dar vueltas alrededor del futón.
-
-—¡Tsunade-sama! ¡Tsunade-sama, despertó!
-
-—Sí, sí, Shizune, me estás ahogando. —Pero le pone una mano en la espalda y la deja llorar un momento. Después la aparta, con suavidad y con firmeza, y mira a Kakashi—. Habla. Rápido. Lo último que recuerdo es a Katsuyu partiéndose en mil pedazos y la aldea volando.
-
-Kakashi se cruza de brazos.
-
-—Naruto venció a Pain. A los seis cuerpos y al que los movía. El que los movía revivió a todos los muertos antes de morir, incluidos Shizune y yo. La aldea no existe, pero la gente sí. —Hace una pausa corta—. Y hace dos días el Señor Feudal nombró Hokage a Danzō, mientras usted dormía.
-
-El silencio dura medio segundo.
-
-Tsunade cierra el puño y golpea el suelo junto al futón. Las tablas del piso de la carpa se parten en una grieta que llega hasta tus pies. Kase levanta la cabeza y la mira, ofendido.
-
-—¡¿DANZŌ?! —Se pone de pie de un salto, descalza, en camisón, con las coletas sueltas, y se tambalea un poco, pero no se cae—. ¡¿Ese viejo podrido?! ¡¿Mientras yo dormía?!
-
-—Tsunade-sama, por favor, recién despierta...
-
-—¡Recién despierta, nada! ¡Me siento como si tuviera veinte años! —Se mira las manos, sorprendida de su propia fuerza. Se queda quieta—. ...¿Por qué me siento así?
-
-Kakashi te señala con el pulgar, sin decir nada.
-
-Tsunade se da vuelta despacio hacia ti. Te mira de arriba abajo, el pelo, los ojos, la cicatriz, el gato, el sobretodo negro. Tiene una mirada de médica, que te revisa entero, y otra de Hokage, que te mide.
-
-—Tú —dice—. ¿Qué me diste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1314 · NARUTO · DÍA 1 · 08:23          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1315)
+## COMANDO 1 (T1315)
 
 se llama semilla del hermitaño
 
-## RESPUESTA 2 (T1315)
+## RESPUESTA 1 (T1315)
 
 > se llama semilla del hermitaño
 
@@ -105,11 +50,11 @@ Deja el cuenco en el suelo. Se cruza de brazos. A pesar del camisón y los pies 
 
 ---
 
-## COMANDO 3 (T1316)
+## COMANDO 2 (T1316)
 
 nada, ya le dije antes a kakashi y a yamato, vine a ayudar
 
-## RESPUESTA 3 (T1316)
+## RESPUESTA 2 (T1316)
 
 > nada, ya le dije antes a kakashi y a yamato, vine a ayudar
 
@@ -154,4 +99,55 @@ Después vuelve a mirarte. De arriba abajo, una última vez.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:28, carpa de la colina. Facundo: "No quiero nada, vine a ayudar." Kakashi lo confirma. Tsunade (casi sonríe: "conocí a un solo idiota así", Naruto) se viste de Hokage; ordena: Homura y Koharu en la carpa de mando en una hora; que nadie le avise a Danzō ("quiero verle la cara"). A Facundo: "Te voy a hacer trabajar. ¿Sabes algo de medicina? ¿O de construir casas? ¿O solo sabes regalar semillas milagrosas?" Facundo tiene que contestar.
+## COMANDO 3 (T1317)
+
+ehh se pelear
+
+## RESPUESTA 3 (T1317)
+
+> ehh se pelear
+
+> —Eh... sé pelear.
+
+Tsunade se te queda mirando.
+
+Shizune, con el baúl todavía abierto, se queda mirando también. Hasta el cerdito.
+
+Después Tsunade se ríe. Una carcajada corta, fuerte, de las que salen sin permiso.
+
+—¡Sabe pelear! —Se da una palmada en la frente—. En una aldea ninja. Muchacho, aquí sabe pelear hasta la señora que vende dangos. —Niega con la cabeza, todavía con la risa en la cara—. Lo que no sabe hacer nadie es levantar una casa de la nada. Salvo uno.
+
+Se ajusta el abrigo sobre los hombros y camina hacia la salida de la carpa. Al pasar a tu lado se detiene un momento, muy cerca, y baja la voz.
+
+—Aunque alguien que aparece de la nada en el bosque norte, sin banda y con eso en los bolsillos, supongo que no pelea como la señora de los dangos. —Te mira de reojo—. Cuando termine con lo de Danzō, me vas a mostrar qué tan bien peleas. Yo misma.
+
+Levanta la lona de la entrada. Afuera, los dos ANBU se ponen firmes de golpe al verla de pie, y uno de ellos casi deja caer la máscara.
+
+—Mientras tanto, los brazos te sirven. —Señala con el mentón hacia el borde del cráter, donde se ve, chiquita a lo lejos, la casa nueva de madera—. Ve con Yamato. Él levanta las casas, pero alguien tiene que limpiarle el terreno de escombros antes. Que te diga qué hacer.
+
+Se da vuelta hacia Kakashi.
+
+—Tú, conmigo. Shizune, también.
+
+Y sale. Desde la loma, abajo en el campamento, se oye a alguien gritar algo, y después otro, y después muchos, una ola de voces que sube hasta la carpa:
+
+—¡La Hokage! ¡La Hokage despertó!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1317 · NARUTO · DÍA 1 · 08:30          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Ayudar a Yamato con los escombros  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:30, carpa de la colina. "Sé pelear." Tsunade se ríe; le dirá después de lo de Danzō que le muestre cómo pelea (ella misma). Lo manda con Yamato a limpiar escombros para las casas. Sale con Kakashi y Shizune. El campamento grita: "¡La Hokage despertó!" Facundo queda en la entrada de la carpa con los dos ANBU.

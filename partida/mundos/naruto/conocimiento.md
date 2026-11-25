@@ -26,3 +26,6 @@
 - Dos ANBU de la entrada · T1314 · oyeron gritar a Tsunade: está despierta.
 - Tsunade, Shizune · T1315 · por Facundo: "semilla del ermitaño". Por Kakashi: dio 44 (43 en la carpa del este con Yamato, 1 para Tsunade). Tsunade comprobó con chakra médico que no es una medicina conocida.
 - Tsunade, Shizune · T1316 · por Facundo y Kakashi: no pide nada a cambio; vino a ayudar.
+- Tsunade, Shizune, Kakashi · T1317 · por Facundo: "sé pelear".
+- Tsunade · T1317 · sabe (por Kakashi o Yamato, implícito en T1309-1315: Kakashi contó lo de Yamato) que apareció en el bosque norte sin banda. FUENTE: Kakashi lo dijo delante de ella? NO: Yamato se lo dijo a Kakashi en T1309. Deducción válida: Tsunade lo supone por la ropa y el contexto; lo de "bosque norte" queda como algo que Kakashi le resumió fuera de escena al salir (T1317). Registrado.
+- Todo el campamento · T1317 · ven/oyen que la Hokage despertó (público).
