@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1303)
-muchos, bueno chicos y con este combate, me retiro de nuevo, en unos semanas, quizas vuelvo hay cosas que tengo que hacer
-
-## RESPUESTA 1 (T1303)
-
-> —Muchos. Bueno, chicos, con este combate me retiro de nuevo. En unas semanas, quizás, vuelvo. Hay cosas que tengo que hacer.
-
-Yami no espera a que se la des. Saca la katana de tu mano con dos dedos, la mira de punta a punta, ve la escarcha que todavía le queda en el filo, y la guarda en la vaina sin decir nada.
-
-Después te mira.
-
-—Otra vez te vas justo cuando hay comida.
-
-En el fondo del cráter, Mereoleona se sienta. Le cuesta. Se escupe tierra al costado y se limpia la sangre de la ceja con el dorso de la mano.
-
-—¿"Muchos"? —Se ríe otra vez, más bajo—. Entonces vuelve. Y cuando vuelvas, me muestras otro. Para ese día voy a estar más fuerte. —Te señala con el dedo, desde abajo—. Mucho más.
-
-Asta salta al borde del cráter de un brinco.
-
-—¡¿OTRA VEZ TE VAS?! ¡No me enseñaste nada! —Aprieta los puños, los ojos le brillan, pero no de tristeza—. ¡Cuando vuelvas, voy a ser Rey Mago! ¡O casi! ¡Vas a ver!
-
-Noelle se acerca detrás de él, con los brazos cruzados, mirando para otro lado.
-
-—No es que nos importe. Pero... la próxima vez avisa antes. Charmy cocinó para ti.
-
-Charmy, abrazada a su olla, asiente muy fuerte.
-
-Luck te mira con la sonrisa de siempre, aunque un poco distinta. Se toca la panza.
-
-—Gracias por lo de la panza. No sé qué era, pero me siento mejor.
-
-Kiato llega corriendo y se te tira encima. Te abraza la cintura con los dos brazos, la cara hundida en tu ropa. Kahono viene detrás, más despacio, y se para al lado, con las manos juntas.
-
-—Cuando vuelvas —dice Kahono—, voy a estar cantando en un escenario grande. Ven a escucharme.
-
-Kiato no dice nada. No te suelta.
-
-La abuela de los chicos, desde atrás, te hace una reverencia profunda. No dice una palabra.
-
-Zora, apoyado contra un árbol apagado, levanta una mano a medias. Gauche, Gordon y Grey miran desde la puerta caída. Gordon murmura algo que nadie oye. Grey se esconde detrás de él.
-
-Vanessa levanta su copa hacia ti.
-
-—¡Por el que se va y siempre vuelve!
-
-Magna levanta su puño con los billetes de la apuesta.
-
-—¡Por el que me hizo ganar plata!
-
-Yami se prende un cigarrillo. Exhala el humo hacia la luna.
-
-—Ya sabes dónde está la base —dice—. La puerta, por ahora, no.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1303 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · claro (cráter)    ║
-║ NIVEL 29 · EXP 295.080/320.000 · D4 21:18    ║
-║ FRAGMENTOS 111.957 · 0 yul                   ║
-║ Energía 98% · Ojos: bien                     ║
-║ Ultra Instinto Dominado                      ║
-║ Grimorio del Firmamento (flotando)           ║
-║ Velo: persona común (aura plateada visible)  ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1304)
+## COMANDO 1 (T1304)
 
 nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
 
-## RESPUESTA 2 (T1304)
+## RESPUESTA 1 (T1304)
 
 > nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
 
@@ -128,11 +55,11 @@ Kiato sigue abrazado a tu cintura. No te suelta.
 
 ---
 
-## COMANDO 3 (T1305)
+## COMANDO 2 (T1305)
 
 esta bien, nos vemos kiato, me voy a un nuevo mundo
 
-## RESPUESTA 3 (T1305)
+## RESPUESTA 2 (T1305)
 
 > esta bien, nos vemos kiato, me voy a un nuevo mundo
 
@@ -229,4 +156,62 @@ Abajo, los chicos siguen gritando.
 
 ---
 
-ESTADO AL CIERRE: NARUTO (mundo nuevo, el 12.º), Día 1 07:40, bosque sobre el cráter de Konoha. Dos días después de la Invasión de Pain. Facundo y Kase acaban de llegar sin testigos. Don: Venas del Dragón. Misión: que Neji siga vivo al final de la guerra. Misión de copia: Mokuton de Yamato. Facundo puede actuar.
+## COMANDO 3 (T1306)
+
+me acerco al que creo la casa, perdon, me podrias decir donde estoy?
+
+## RESPUESTA 3 (T1306)
+
+> me acerco al que creo la casa, perdon, me podrias decir donde estoy?
+
+> —Perdón, ¿me podrías decir dónde estoy?
+
+Bajas por la ladera entre los árboles caídos y sales al borde del cráter por detrás de una fila de carpas. Nadie se fija en ti al principio: todos andan cargando algo, tablas, baldes de agua, sacos de arroz. Una señora pasa con un niño dormido en la espalda. Huele a sopa de miso y a polvo de piedra.
+
+El hombre de la banda en la frente está agachado junto a la casa nueva, con una palma apoyada en el suelo, mirando cómo una última viga se acomoda sola bajo el techo. Tiene el pelo castaño, una placa de metal que le enmarca toda la cara y unos ojos negros, grandes, que no parpadean mucho. En la placa hay una hoja grabada.
+
+Cuando le hablas, gira apenas la cabeza.
+
+Primero ve el pelo, mitad blanco y mitad azul. Después los ojos, uno rojo y uno azul, y la cicatriz que te cruza el izquierdo. Después a Kase, que lo mira desde tu cuello como si el que sobrara fuera él. Por último, la frente: no llevas banda.
+
+Se levanta despacio, sin apuro, y se sacude la tierra de las manos.
+
+╔══════════════════════════════════════════════╗
+║ YAMATO                                       ║
+║ Jōnin de Konoha · ex ANBU                    ║
+║ PODER: Mokuton (Estilo Madera), Estilo       ║
+║        Agua, Estilo Tierra, sellos de        ║
+║        supresión de bijū                     ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE · MISIÓN: BAJA                      ║
+╚══════════════════════════════════════════════╝
+
+—¿Dónde estás? —repite. Mira un segundo hacia el cráter y vuelve a mirarte—. En Konohagakure. La Aldea Oculta de la Hoja. O en lo que queda de ella.
+
+Lo dice tranquilo, casi amable. Pero se corre medio paso hacia un costado y queda entre tú y las carpas, donde hay chicos comiendo sentados en el piso.
+
+—No llevas banda ninja, y no te había visto nunca. Y alguien con esa pinta no se olvida fácil. —Inclina un poco la cabeza—. Hace dos días nos atacaron, y la mitad de los guardias del perímetro siguen en el hospital de campaña. Así que me da curiosidad.
+
+Sus ojos se quedan fijos en los tuyos.
+
+—¿Quién eres, y por dónde entraste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1306 · NARUTO · DÍA 1 · 07:52          ║
+║ Konoha · borde norte del cráter, carpas      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 07:52, borde norte del cráter de Konoha, junto a la casa nueva. Yamato (receloso, se puso entre Facundo y los chicos) le preguntó quién es y por dónde entró. Facundo tiene que contestar.
