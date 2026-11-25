@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1236)
-asi es, es verdad, de hecho el mismo buho puede comer comida de verdad ahora
-
-## RESPUESTA 1 (T1236)
-
-> —Así es, es verdad. De hecho, el mismo Búho ahora puede comer comida de verdad.
-
-Del otro lado de la línea no se oye nada.
-
-No es un silencio de sorpresa. Es otro tipo de silencio: el de alguien que deja una taza sobre la mesa muy despacio, con las dos manos, para que no tiemble.
-
-Pasan cinco segundos. Diez.
-
-Washuu Yoshitoki, a un metro de ti, deja de sonreír. No del todo. Solo un poco. Lo suficiente.
-
-Cuando la voz de Tsuneyoshi vuelve, sigue siendo cálida. Pero es más baja. Más vieja, de golpe.
-
-—El Búho —repite—. Come pan.
-
-Se le escapa algo que podría ser una risa, o un suspiro.
-
-—Ochenta años, Morelli-kun. Tengo ochenta y tantos años, y nunca nadie me dijo una cosa como esa por teléfono.
-
-Otra pausa. Se oye una silla que cruje del otro lado, como si alguien se recostara.
-
-—Le voy a decir lo que voy a hacer, y después usted me dice si le parece justo.
-
-La voz se vuelve más firme. La de un hombre que manda desde hace mucho tiempo.
-
-—Voy a ordenar el cese de la operación. Ahora. Mis hombres se retiran del Distrito 20 esta noche. Nadie más muere. Nadie más entra en ese café. El Búho... —una pausa mínima— no amanece muerto. Por ahora.
-
-Se oye la cuchara otra vez, una sola vuelta en la taza.
-
-—A cambio, le pido una sola cosa. Mañana a la mañana, a las diez, venga a mi casa. Mi hijo le va a dar la dirección. Venga solo. Sin esas esposas ridículas, que no le hacen nada. —Una pausa—. Hay alguien en mi familia que hace mucho tiempo que tiene hambre, Morelli-kun. Mucho más tiempo que el Búho. Y me gustaría que lo conociera.
-
-En la carpa, Washuu Yoshitoki cierra los ojos un instante detrás de los lentes. Muy breve. Cuando los abre, mira el suelo.
-
-—¿Le parece justo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1236 · TOKYO GHOUL · DÍA 6 · 18:19     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con el presidente         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1237)
+## COMANDO 1 (T1237)
 esta bien, mañana estare ahi
 
-## RESPUESTA 2 (T1237)
+## RESPUESTA 1 (T1237)
 
 > —Está bien. Mañana estaré ahí.
 
@@ -137,10 +79,10 @@ Washuu Yoshitoki deja el micrófono sobre la mesa. Saca del bolsillo una libreta
 
 ---
 
-## COMANDO 3 (T1238)
+## COMANDO 2 (T1238)
 me arranco las esposas, esta bien, muchas gracias, mañana estare a las diez entonces
 
-## RESPUESTA 3 (T1238)
+## RESPUESTA 2 (T1238)
 
 > me arranco las esposas
 
@@ -193,7 +135,63 @@ Se pone el casco bajo el brazo.
 
 (Ajusté el turno anterior para que encaje: Shinohara no llegó a abrirte las esposas. Te las arrancaste tú.)
 
+---
+
+## COMANDO 3 (T1239)
+si, nos vemos shinohara. me teletransporto al cafe
+
+## RESPUESTA 3 (T1239)
+
+> —Sí. Nos vemos, Shinohara.
+
+Shinohara asiente una vez. No dice nada más.
+
+Te vas.
+
+Cocina de Anteiku.
+
+Huele a café, a sangre y a alcohol de botiquín. La luz de la cocina está encendida y la del salón, apagada.
+
+Irimi está sentada en el piso, contra la mesada, con la espalda apoyada en un almohadón. Ya no tiene la lanza clavada: está tirada en un rincón, partida en dos, con la punta manchada. Tiene el hombro vendado con toallas de cocina y cinta, y la cara gris de dolor, pero los ojos abiertos. Koma está arrodillado a su lado, sosteniéndole una taza de agua. Los cuatro Apes están desparramados por el pasillo, vendados como pueden, uno dormido sobre el hombro de otro.
+
+Hinami está en la escalera con una caja de vendas en las manos. Nishiki, junto a la pileta, se limpia la sangre de las manos con un trapo.
+
+Yoshimura ya no es el Búho. Está de pie en medio de la cocina, otra vez con la camisa blanca, sin chaleco, sin moño, con las mangas arremangadas hasta el codo y las manos manchadas de rojo hasta las muñecas. Fue él quien le sacó la lanza a Irimi. Se le nota en la cara.
+
+Kaneki y Touka están junto a la puerta del salón, mirando por el vidrio hacia la calle oscura. Tienen los ojos rojos de tanto mirar.
+
+Kase salta de tu hombro a la mesada.
+
+Todos se dan vuelta al mismo tiempo.
+
+Por un segundo, nadie dice nada.
+
+Después, Kaneki cruza la cocina en dos pasos, se para delante de ti y te mira de arriba abajo: las muñecas, la cara, las manos. Buscando algo. Una herida, una marca, cualquier cosa.
+
+—Los disparos pararon —dice, con la voz rara—. Hace diez minutos. Todos. Al mismo tiempo.
+
+Touka se quedó junto a la puerta. No se acerca. Pero tiene los puños apretados a los costados, y el ojo que se le ve, brillante.
+
+Yoshimura se seca las manos en un repasador, despacio, dedo por dedo. Deja el repasador manchado sobre la mesada. Te mira.
+
+—Morelli-san —dice, en voz muy baja—. ¿Qué hizo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1239 · TOKYO GHOUL · DÍA 6 · 18:29     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la mesada                           ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:27, borde del puesto de mando. Facundo se arrancó las esposas, tiene la dirección de Tsuneyoshi (Distrito 1, portón negro). Shinohara pregunta si va a volver al café esta noche. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:29, cocina de Anteiku. Todos a salvo; Irimi herida y vendada. Yoshimura pregunta qué hizo Facundo. Facundo puede responder.

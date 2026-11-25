@@ -1237,3 +1237,4 @@ T1235 · TG · Carpa central · Al teléfono con Washuu Tsuneyoshi: "¿Es verdad
 T1236 · TG · Carpa central · "El Búho come comida de verdad." Tsuneyoshi ofrece cesar la operación ya, a cambio de que Facundo vaya mañana a las 10 a su casa, solo: "Alguien en mi familia tiene hambre hace mucho."
 T1237 · TG · Carpa central · Acepta ir mañana a las 10. OPERACIÓN DEL BÚHO SUSPENDIDA. MISIÓN DE MUNDO CUMPLIDA (+13.000 EXP, +450 F). Nivel 29. Mundos completados: 11. Arima: "Mañana." (Esposas: corregido en T1238.)
 T1238 · TG · Puesto de mando · Se arranca las esposas. "Mañana estaré a las diez." Dirección: Distrito 1, portón negro. Shinohara: "¿Vas a volver al café?"
+T1239 · TG · Anteiku · Vuelve. Irimi vendada, sin la lanza. Kaneki: "Los disparos pararon." Yoshimura: "¿Qué hizo?"

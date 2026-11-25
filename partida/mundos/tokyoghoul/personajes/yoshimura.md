@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1239 · "Morelli-san. ¿Qué hizo?"
 - T1226 · (Búho) "Morelli-san. Ese lugar no es como esta calle. Ahí adentro no se duerme a nadie con la mirada. Hay cosas que ni siquiera la CCG sabe que tiene."
 - T1217 · "Entonces que así sea." "Kaneki-kun. Touka-chan. No se asusten." (como Búho) "Koma está en la avenida, a dos cuadras al este. Lo están acorralando."
 - T1216 · "Usted no sabe lo que hay ahí afuera. Hay hombres que la CCG guarda para días como hoy. Y hay otras cosas que pueden venir." "Ya entendí que usted no es de los que se quedan adentro cuando se lo piden." "No. Kaneki-kun. Tú te quedas."

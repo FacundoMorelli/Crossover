@@ -7,4 +7,4 @@ ENCUENTROS:
 - T1215 · Día 5: quema papeles con Yoshimura. Día 6: afuera con los Black Dobers, fuera de la pared.
 - T1209 (Día 2) · Llega por el callejón con Koma; pide la transfiguración después de él, sin decir nada.
 QUÉ SABE DE FACUNDO: Quita el hambre (lo vivió).
-ESTADO: Sin hambre de ghoul. En la cocina de Anteiku, herida: lanza de quinque clavada en el hombro derecho (T1228). Encerrada por el Recinto.
+ESTADO: Sin hambre de ghoul. En Anteiku: Yoshimura le sacó la lanza; hombro vendado con toallas y cinta; gris de dolor, consciente (T1239).
