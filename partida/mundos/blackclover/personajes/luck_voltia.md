@@ -18,3 +18,4 @@ QUÉ SABE DE FACUNDO: nombre, que es nuevo, el rumor deformado de Gauche.
 QUÉ PODERES DE FACUNDO VIO: Ultra Instinto (aura plateada, esquiva sola) T479; un rayo igual al suyo y una luz roja ardiente T485
 ESTADO: magullado, activo
 - T1295 · (ki de Facundo) Tiene una semilla oscura dormida adentro, como la de William pero más chica. En el pasillo norte de la base del Ojo, con Noelle.
+- T1298 · Semilla sacada por Facundo: "Oye... ¿por qué siento la panza más liviana?" Sin semilla.

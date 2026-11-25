@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1295)
-lo noqueo
-
-## RESPUESTA 1 (T1295)
-
-> lo noqueo
-
-El remolino negro ya le llega a la garganta cuando apareces delante de él.
-
-Le das un golpe seco en la frente con el dorso de los dedos. Un chasquido, como quien golpea una puerta para ver si hay alguien.
-
-Los ojos se le van para arriba.
-
-La luz negra que se arremolinaba en el pecho pierde el hilo, como agua cuando le sacas el tapón al revés. Se desarma en hebras que se deshacen en el aire, sin ruido, sin estallido, como humo en el viento. Las rocas flotantes dejan de temblar.
-
-El muchacho de las magias se dobla hacia adelante. Lo agarras del cuello de la túnica antes de que caiga de la roca al vacío y lo dejas acostado sobre la piedra partida, boca arriba. Respira.
-
-[Rival vencido: el copiador de magias. +150 Fragmentos.]
-
-[+400 EXP.]
-
-Silencio en la caverna.
-
-Mereoleona se queda con las garras de fuego en el aire, a cinco metros. Te mira. Mira al muchacho tirado. Te mira otra vez. El fuego que la rodea chisporrotea, ofendido.
-
-—¡OYE! —ruge—. ¡¿No dijiste que te ignoráramos?! ¡Ese era MÍO!
-
-Asta aterriza en la roca de al lado, con la espada todavía en alto, y se queda mirando al muchacho dormido con la boca abierta.
-
-—Se iba a hacer volar... y tú... con un dedo... —Se vuelve hacia ti, con los ojos brillantes—. ¡¿CÓMO HICISTE ESO?! ¡Enséñame!
-
-Zora no dice nada. Se sienta en el borde de una roca, de golpe, y se pasa las manos por la cara.
-
-Yami camina por un puente de piedra hasta ustedes, sin apuro, fumando. Mira al muchacho en el suelo. Después levanta la vista hacia las paredes de la caverna, hacia los pasillos oscuros que se abren en todas direcciones.
-
-—Aquí no estaban todos —dice—. Mereoleona. ¿Cuántos grupos entraron?
-
-—Cinco —contesta ella, todavía de mal humor, apagando las garras—. Se separaron en la entrada. Nozel con su grupo. Los de Rill. El grupo de Yuno. Y el de Luck y Noelle, por el pasillo del norte.
-
-Yami se queda quieto un segundo. Lo sientes: está estirando el Ki por los pasillos.
-
-Tú también. Y más lejos que él.
-
-Por los pasillos de la base, desparramadas, presencias de Caballeros Reales. La mayoría tranquilas, peleando contra cosas chicas o caminando. Pero en algunas, no en todas, hay algo raro. Algo que no estaba en ellos hace tres meses. Una semilla oscura, plantada muy adentro, quieta, como la que tenía William, pero mucho más chica. Dormida.
-
-Una está en el pasillo del norte. Al lado de la presencia de Noelle.
-
-Es la de Luck.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1295 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 293.380/320.000 · 12:37       ║
-║ FRAGMENTOS 111.257 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1296)
+## COMANDO 1 (T1296)
 suelto mi haki del rey y noqueo a todos los enemigos, bueno, quieren que les saque esa semilla que tienen dentro todos?
 
-## RESPUESTA 2 (T1296)
+## RESPUESTA 1 (T1296)
 
 > —Bueno, ¿quieren que les saque esa semilla que tienen dentro, a todos?
 
@@ -135,10 +69,10 @@ Los cuatro te están mirando. Ellos no tienen la semilla. Los que la tienen est�
 
 ---
 
-## COMANDO 3 (T1297)
+## COMANDO 2 (T1297)
 si
 
-## RESPUESTA 3 (T1297)
+## RESPUESTA 2 (T1297)
 
 > —Sí.
 
@@ -175,7 +109,95 @@ Yami gira la cabeza hacia ti despacio.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1298)
+si. simula varios dias sacandole lo de adentro a todos
+
+## RESPUESTA 3 (T1298)
+
+> —Sí.
+
+(Simulación: cuatro días sacando las semillas.)
+
+Día 0, la tarde.
+
+Luck es el primero. Lo encuentras en el pasillo del norte, sentado sobre un mago del Ojo dormido, con Noelle al lado retándolo por algo. Cuando le apoyas la mano en el pecho, Luck se ríe, cree que es un juego.
+
+Adentro, enroscada en el fondo de su alma, hay una cosa chiquita, oscura, dormida. Tiene forma. Parece alguien hecho un ovillo, con orejas largas. No está despierta. No sabe que la tocas.
+
+La desenrollas despacio, hebra por hebra, como sacarle un anzuelo a un pez sin romperle la boca. Sale. Queda flotando un segundo sobre tu palma, una lucecita gris. Después se apaga, tranquila, como una vela que nadie sopló.
+
+Luck parpadea.
+
+—Oye... ¿por qué siento la panza más liviana?
+
+Yami, apoyado en la pared, no dice nada. Se prende un cigarrillo y se va por el pasillo.
+
+En la misma base sacas otras cinco. Una en la capitana de pelo blanco del Ciervo Azul, que pinta en el aire y se queja de que le arruinaste el trazo. Una en un muchacho del Amanecer Dorado que usa magia de árboles. Otra en un mago de agua grandote, que sostiene a un compañero herido. Ninguno siente nada más que un frío y después calor.
+
+En el grupo de Yuno no hay nada en Yuno. Tiene algo viejo, sí, pegado al alma, pero no es oscuro y no está dormido: es un espíritu chiquito de viento que te saca la lengua desde su hombro. No es una semilla. Lo dejas.
+
+Esa noche, en el castillo, Julius escucha todo sin interrumpir, con las manos cruzadas. Al final llama a un mago de pelo largo y ojeras, de su guardia, con magia de búsqueda.
+
+—Marx. Quiero la lista de cada Caballero que haya cambiado en estos tres meses. Aunque sea un poco. Para mañana.
+
+Día 1 y Día 2.
+
+La lista son cuarenta y un nombres. La mitad son del Amanecer Dorado.
+
+Vas escuadrón por escuadrón. En la base del Amanecer Dorado, con William todavía en su celda del castillo, el vicecapitán te recibe con la cara dura de quien no sabe si le estás haciendo un favor o un insulto. Pero pone a sus hombres en fila. Diecinueve. A uno, un muchacho de pelo verde que lanza piedras de mana, la semilla se le revuelve cuando la tocas, como si se fuera a despertar. No llega. La sacas antes.
+
+Águilas Plateadas, tres. Mantis Verde, cuatro. La Orca Púrpura, dos. Un noble viejo, en una mansión del Reino Noble, que no es Caballero y que no entiende por qué el Rey Mago le manda a un muchacho sin escudo a tocarle el pecho.
+
+Asta te sigue el Día 1 entero, gritando que le enseñes. El Día 2 ya no viene: Yami lo puso a entrenar con la espada nueva hasta que se le caigan los brazos.
+
+Día 3.
+
+Recorres el reino con el Ki, de punta a punta, despacio. Ciudades, pueblos, el campo, los castillos.
+
+No queda ninguna.
+
+[Semillas oscuras sacadas: 47. Ninguna despertó.]
+
+[Las almas dormidas se apagaron solas al salir.]
+
+Los presos del Ojo, el que cosía cuerpos, el copiador, la invocadora de fuego y los demás, están en las celdas del castillo, con grilletes que les sellan el mana. Julius va a verlos todos los días. No dice para qué.
+
+Día 4, la noche.
+
+La base de los Toros Negros tiene un ala entera todavía en escombros, pero Gordon y Grey taparon los agujeros del comedor con tablas y una cortina. Charmy cocinó para un ejército. Hay una mesa larga, platos que no paran de salir, Magna y Luck peleándose por la última costilla, Vanessa con una copa en cada mano, Noelle sentada al lado de Asta haciendo como que no está sentada al lado de Asta.
+
+Yami, en la punta de la mesa, te sirve algo en un vaso sin preguntarte.
+
+Kiato y Kahono vinieron con su abuela, que no deja de mirarte. Kiato tiene una cicatriz nueva en el brazo, de una práctica, y la muestra como si fuera un trofeo.
+
+Entonces la puerta del comedor se abre de una patada.
+
+La puerta cae. Las tablas de Gordon caen con ella.
+
+En el marco, con el pelo como fuego y la capa de los Leones Carmesí, está Mereoleona. Te busca con la mirada por toda la mesa. Te encuentra.
+
+—Tú —dice—. Me debes una presa. Afuera. Ahora.
+
+Todo el comedor se queda en silencio. Charmy abraza su olla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1298 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · comedor           ║
+║ NIVEL 29 · EXP 294.280/320.000 · D4 21:10    ║
+║ FRAGMENTOS 111.657 · 0 yul                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:38, caverna. Yami pregunta si lo de Luck es como lo de William y si queda bien al sacárselo. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, Día 4 21:10, comedor de los Toros Negros. 47 semillas sacadas. Mereoleona desafía a Facundo a pelear afuera. Facundo puede actuar.

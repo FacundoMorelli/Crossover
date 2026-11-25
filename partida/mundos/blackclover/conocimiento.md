@@ -65,3 +65,6 @@
 - Mereoleona, Asta, Zora, Yami · T1296 · por Facundo: algunos Caballeros tienen "una semilla" dentro. Yami deduce que habla de los de los pasillos y de Luck. Yami: el Haki "no fue mana".
 - Caballeros Reales de los pasillos · T1296 · vieron caer a sus rivales sin saber por qué; sintieron una presión.
 - Yami, Mereoleona, Asta, Zora · T1297 · por Facundo: Luck tiene la semilla. Sospechan relación con lo de William.
+- Julius, Marx, Yami, capitanes · T1298 · Facundo sacó "semillas oscuras" a 47 personas del reino (no saben qué eran; solo que eran parecidas a lo de William).
+- Luck, Rill, Klaus, Hamon y demás tocados · T1298 · sintieron frío y luego calor; Luck "la panza más liviana".
+- Mereoleona · T1298 · sabe que Facundo está en la base de los Toros Negros; viene a pelear.

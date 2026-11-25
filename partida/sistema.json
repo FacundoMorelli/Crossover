@@ -1,8 +1,8 @@
 {
-  "turno": 1297,
+  "turno": 1298,
   "mundo_actual": "blackclover",
-  "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:38",
+  "fecha_local": "Black Clover: ~94 días después de la salida (T489). Día 4 después de la Reencarnación frustrada (asalto a Rocas Gravito). Noche.",
+  "hora": "Día 4, 21:10",
   "edad": 18,
   "nivel": 29,
   "exp": 294280,
@@ -81,7 +81,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 86,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2370,7 +2370,7 @@
     "tokyoghoul_washuu": "La familia Washuu es un linaje mitad humano, mitad ghoul (los 'Washuu' de V); necesitan carne humana a escondidas. Tsuneyoshi habla de 'alguien en mi familia que tiene hambre hace mucho' (puede ser él mismo, o la familia entera). Quiere la transfiguración; también puede querer controlarla (amenaza al equilibrio de V). Yoshitoki sabe y se incomoda. | T1248: 14 Washuu transfigurados (Tsuneyoshi, Kaori, Yoshitoki, servidumbre, primos, tíos, etc.). Matsuri Washuu (hijo de Yoshitoki, investigador) se negó. Arima es del Jardín del Sol (Sunlit Garden): mitad humanos criados para servir a los Washuu; envejecen rápido, mueren antes de los 40, pierden la vista primero.",
     "tokyoghoul_eto": "Día 7 ~20:30: Eto Yoshimura (el Búho de un Ojo, líder de Aogiri; también la escritora Sen Takatsuki) entra a Anteiku para ver a su padre tras enterarse de la suspensión y del rumor. Va sin intención de dañar (la pared la deja pasar): quiere entender qué pasó y ver al 'Panadero'. Envuelta en capa y vendas.",
     "tokyoghoul_aogiri": "Base temporal de Aogiri: edificio viejo grande en zona de depósitos junto a la bahía, al sur del río, pasando los distritos 20/21. 50-60+ ghouls. En el último piso: Tatara (fría, piedra de río) y Noro (hueca, rara). Ayato solo en la azotea. Eto no está ahí ahora.",
-    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William. | T1288: Patolli (en el cuerpo de William) noqueado en la muralla antes de pelear con Julius: Julius NO muere (canon c146), Licht no se lleva las piedras de Julius; sin Patolli consciente, la Reencarnación de esta noche no puede activarse (las piedras no se colocan en el Monumento del Árbol de la Vida). Rhya y los demás del Ojo siguen en la base de las Rocas Gravito con los Caballeros Reales. | T1295: almas de elfo dormidas en varios Caballeros (Luck=Lufulu, Rill, Klaus, Hamon, Yuno, Puli, Fragil, Ruben, Ben, etc.); sin Patolli consciente, no despiertan por ahora."
+    "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William. | T1288: Patolli (en el cuerpo de William) noqueado en la muralla antes de pelear con Julius: Julius NO muere (canon c146), Licht no se lleva las piedras de Julius; sin Patolli consciente, la Reencarnación de esta noche no puede activarse (las piedras no se colocan en el Monumento del Árbol de la Vida). Rhya y los demás del Ojo siguen en la base de las Rocas Gravito con los Caballeros Reales. | T1295: almas de elfo dormidas en varios Caballeros (Luck=Lufulu, Rill, Klaus, Hamon, Yuno, Puli, Fragil, Ruben, Ben, etc.); sin Patolli consciente, no despiertan por ahora. | T1298: Facundo sacó las 47 semillas (almas de elfo dormidas) de todo el reino en 4 días; se apagaron al salir (Lufulu de Luck, la de Rill, Klaus, Hamon, Fragil, Puli, etc.). Yuno NO tenía (solo Bell). La Reencarnación de los elfos ya no puede ocurrir. No sabe nadie que eran elfos."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

@@ -8,3 +8,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo que le dijo Asta.
 ESTADO: activo
 - T477 · "Entonces también eres el mío." (rival)
+- T1298 · No tenía semilla; solo un espíritu de viento (le sacó la lengua a Facundo).
