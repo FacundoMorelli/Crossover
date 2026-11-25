@@ -192,3 +192,5 @@
 - Ayato · T1265 · vio aparecer de la nada a Touka con un desconocido y un gato en la azotea.
 - Ayato · T1266 · por Touka: Facundo le quitó el hambre con la mano y puede volverla humana. Vio a Touka comer pan.
 - Facundo · T1266 · por Ayato: algo le hicieron (humanos) a su papá.
+- Ayato, Touka · T1267 · vieron a Facundo detener cientos de cristales con un brazo, sin una marca.
+- Aogiri (docena), capa roja, enmascarado de tela · T1267 · vieron a Facundo, a Touka y a Ayato en la azotea; la manga humeante de Facundo.

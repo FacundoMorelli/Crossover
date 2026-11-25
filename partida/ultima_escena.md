@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1264)
-lo busco con el ki
-
-## RESPUESTA 1 (T1264)
-
-> lo busco con el ki
-
-Cierras los ojos.
-
-El salón se aleja. El ruido de la cocina, las risas de Koma, el tintineo de las tazas: todo se apaga de a poco, como una radio a la que le bajan el volumen.
-
-Y la ciudad aparece.
-
-Millones de luces chicas, tibias, apretadas unas contra otras. Humanos. En los trenes, en los edificios, en las calles, durmiendo, cocinando, discutiendo. Y entre ellos, desparramadas como piedras en un río, otras luces distintas. Con un segundo latido debajo del primero. Ghouls. Cientos. Miles.
-
-Buscas la de Touka primero. Está a un metro de ti: filosa, compacta, nerviosa, con algo eléctrico en el borde. La memorizas. Y después buscas una igual. Igual, pero más enojada.
-
-Hacia el sur. Más allá del río. Más allá del Distrito 20, del 21, cerca de la bahía.
-
-Ahí.
-
-Un edificio grande, viejo, en una zona de depósitos y fábricas cerradas junto al agua. Adentro hay muchas presencias juntas. Cincuenta, sesenta, quizás más. Todas ghouls. Algunas débiles, nerviosas, amontonadas en los pisos de abajo. Otras más fuertes, repartidas en los de arriba. Dos muy pesadas, quietas, en el último piso: una fría y tranquila como una piedra de río; otra rara, hueca, que no se parece a nada.
-
-Y en la azotea, sola, sentada en el borde, con las piernas colgando hacia el vacío, una presencia filosa, compacta, nerviosa, con algo eléctrico en el borde.
-
-Igual a la de Touka.
-
-Pero más enojada. Mucho más. Y debajo del enojo, apretado, escondido, algo que en Touka no hay: cansancio. Un cansancio viejo, de alguien de quince años que no duerme bien hace mucho.
-
-Abres los ojos.
-
-Touka está exactamente donde estaba, a un metro de ti, con los brazos cruzados. No se movió en todo el tiempo. Te mira la cara.
-
-Y lo ve. Lo que sea que tienes en la cara, lo ve.
-
-Se le descruzan los brazos solos.
-
-—Lo encontraste —dice. No es una pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1264 · TOKYO GHOUL · DÍA 7 · 21:09     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: buscar a Ayato Kirishima           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1265)
+## COMANDO 1 (T1265)
 vamos
 
-## RESPUESTA 2 (T1265)
+## RESPUESTA 1 (T1265)
 
 > —Vamos.
 
@@ -125,10 +69,10 @@ Touka te suelta la manga.
 
 ---
 
-## COMANDO 3 (T1266)
+## COMANDO 2 (T1266)
 miro
 
-## RESPUESTA 3 (T1266)
+## RESPUESTA 2 (T1266)
 
 > miro
 
@@ -189,7 +133,67 @@ Se queda parada, de frente, con la media tostada todavía en la mano.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1267)
+lo detengo con un solo brazo a todos, tienes razon, alguien que ataca a su propia familia no merece llamarse hermano de nadie
+
+## RESPUESTA 3 (T1267)
+
+> lo detengo con un solo brazo, a todos
+
+Te pones delante de Touka y levantas el brazo derecho.
+
+Los cristales llegan. Cientos. Violetas, filosos, aullando.
+
+Y se estrellan contra tu brazo. Contra la manga del sobretodo, contra la mano abierta, contra el antebrazo. Uno detrás de otro, en una lluvia que dura dos segundos y suena como granizo sobre un techo de chapa. Se rompen al tocarte. Se hacen polvo violeta que el viento se lleva hacia el mar.
+
+Ninguno pasa. Ninguno llega a Touka. Ninguno te deja una marca.
+
+El último se deshace contra tu palma. Bajas el brazo. La manga del sobretodo humea un poco.
+
+> —Tienes razón. Alguien que ataca a su propia familia no merece llamarse hermano de nadie.
+
+Ayato se queda en el borde, con las alas todavía abiertas, temblando. La boca abierta. Mira tu brazo. Mira el polvo violeta que se va con el viento. Mira a Touka, detrás de ti, que no se movió, que todavía tiene la media tostada en la mano.
+
+—Tú... —La voz se le quiebra de rabia—. ¡¿Tú qué carajo sabes de familia?! ¡No sabes nada! ¡Ella se fue! ¡Ella eligió a los humanos, al viejo, al café...!
+
+Pero las alas le titilan. Se le encienden y se le apagan, como una lámpara a punto de quemarse. Y no vuelve a disparar.
+
+Detrás de ti, Touka habla, muy bajo.
+
+—Ayato.
+
+Él aprieta los dientes. No la mira.
+
+Entonces la puerta de metal de la azotea, junto al tanque oxidado, se abre de una patada.
+
+Por la puerta sale una docena de figuras con capas oscuras y máscaras, desplegándose en semicírculo sobre el cemento. Los de Aogiri. Detrás de ellos, sin apuro, salen dos más.
+
+Uno es un hombre alto y delgado, de pelo blanco corto, con una capa roja y una máscara que le tapa la boca. Camina con las manos en la espalda. Tiene los ojos fríos y tranquilos como una piedra de río. Es una de las dos presencias pesadas del último piso.
+
+El otro es enorme, encorvado, con una máscara de tela negra cosida que le tapa toda la cabeza, sin rasgos, como un muñeco de trapo. Se queda en la puerta, inmóvil. Es la otra. La hueca. La que no se parece a nada.
+
+El de la capa roja se detiene. Mira a Ayato en el borde. Mira a Touka. Te mira a ti. Mira tu brazo, la manga humeante.
+
+—Ayato —dice. La voz es baja, fría, sin apuro—. ¿Quiénes son?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1267 · TOKYO GHOUL · DÍA 7 · 21:13     ║
+║ Bahía · azotea de la base de Aogiri          ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: Touka y Ayato                      ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:12, azotea de Aogiri. Ayato dispara cientos de cristales al pecho de Touka, que no se defiende. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:13, azotea de Aogiri. Facundo detuvo los cristales. Llegaron una docena de Aogiri, el de capa roja y el enorme enmascarado. Capa roja pregunta quiénes son. Facundo puede actuar.
