@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1185)
-le acaricio el pelo, y lo hago
-
-## RESPUESTA 1 (T1185)
-
-> le acaricio el pelo, y lo hago
-
-Le apoyas la mano en la cabeza y le acaricias el pelo despacio, revuelto de la almohada.
-
-Hinami abre un ojo, sorprendida. Lo vuelve a cerrar. Los hombros, que tenía levantados hasta las orejas, le bajan de a poco.
-
-Dejas la mano ahí, sobre su cabeza, y entras.
-
-Su alma es chica y tibia, como una casa con las luces prendidas. Tiene dos sillas vacías en el centro, todavía tibias, como si alguien acabara de levantarse de ellas. Las dejas como están. Son suyas.
-
-El anzuelo está más abajo, igual de grande que en los demás, clavado desde que nació. Lo sacas con cuidado. Alisas el borde, que en ella es fino, casi nuevo. Le devuelves el gusto.
-
-No duele. Ni a ella ni a ti.
-
-Hinami abre los ojos. Parpadea. Se lleva la mano libre al estómago, por encima del pijama, igual que hicieron todos, y se queda muy quieta, escuchando algo adentro que ya no hace ruido.
-
-—¿Ya? —susurra.
-
-Detrás de la barra, Touka ya está cortando una rebanada de pan. La pone en la tostadora sin decir nada, de espaldas, con movimientos bruscos. Cuando salta, le pone manteca y una cucharada de mermelada de frutilla, la deja en un plato y la empuja por el mostrador hasta el borde, delante de Hinami.
-
-—Toma —dice, sin mirarla.
-
-Hinami agarra la tostada con las dos manos. La muñeca de tela le queda apretada bajo el brazo. La mira mucho rato. Muerde una esquina chiquita.
-
-Mastica. Se le abren los ojos.
-
-—Está rica —dice, con la boca llena, y lo dice tan sorprendida que a Touka se le escapa una risa corta por la nariz, que disimula enseguida tosiendo.
-
-Hinami muerde otra vez, más grande. Con migas en la bufanda y mermelada en la comisura, se da vuelta hacia ti.
-
-—Gracias, señor. —Inclina la cabeza—. ¿Cómo te llamas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1185 · TOKYO GHOUL · MAÑANA · 07:39    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1186)
+## COMANDO 1 (T1186)
 me llamo Facundo
 
-## RESPUESTA 2 (T1186)
+## RESPUESTA 1 (T1186)
 
 > —Me llamo Facundo.
 
@@ -109,10 +54,10 @@ Se le cae un poco la mandíbula.
 
 ---
 
-## COMANDO 3 (T1187)
+## COMANDO 2 (T1187)
 y hinami, no me digas viejo por favor tengo 18 años
 
-## RESPUESTA 3 (T1187)
+## RESPUESTA 2 (T1187)
 
 > —Y Hinami, no me digas señor, por favor. Tengo dieciocho años.
 
@@ -156,7 +101,56 @@ Nishiki agarra el delantal y se lo queda en la mano, sin ponérselo, esperando m
 
 (Escribiste "no me digas viejo"; como Hinami te había dicho "señor", lo puse como "no me digas señor".)
 
+---
+
+## COMANDO 3 (T1188)
+les saque el hambre de carne humana y que puedan comer comida normal
+
+## RESPUESTA 3 (T1188)
+
+> —Les saqué el hambre de carne humana, y ahora pueden comer comida normal.
+
+Nishiki se ríe otra vez, más corto.
+
+—Claro. Y yo soy el Rey de un Ojo. —Se pone el delantal por la cabeza y empieza a atárselo a la espalda—. Kirishima, en serio, ¿de dónde sacan a estos...?
+
+No termina, porque Touka no se está riendo.
+
+Ella deja el cuchillo de manteca en la pileta. Agarra la otra mitad de la rebanada de pan que sobró, la que estaba en la tabla, y le da un mordisco. Así, sin mermelada, sin nada. Mastica mirando a Nishiki a los ojos, despacio, sin una sola mueca. Traga.
+
+—Es verdad —dice—. A mí también.
+
+Nishiki se queda con las tiras del delantal en las manos, a medio atar.
+
+Mira a Touka. Mira el pan. Mira a Hinami, que le sonríe con mermelada en la boca y le muestra la tostada como si fuera un premio. Mira a Yoshimura, que no dice nada y sigue secando un platillo, lo cual, viniendo de Yoshimura, es una forma de decir que sí.
+
+Después te mira a ti, y ya no se está burlando.
+
+—No me jodas —murmura.
+
+Se le aflojan las tiras del delantal. Se queda quieto, en el medio del local, con la cara de alguien que hace una cuenta muy rápida. Se le va la vista, un segundo, hacia el celular que dejó sobre la barra, con la pantalla encendida. En el fondo de pantalla hay una foto: él y una chica de pelo corto, sonriendo en un parque.
+
+Traga saliva.
+
+—¿Cuánto cobras? —pregunta, en voz baja, sin nada de humor—. Por hacerlo conmigo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1188 · TOKYO GHOUL · MAÑANA · 07:43    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:42, Anteiku. Hinami lo llama Facundo-nii. Nishiki desconfía y espera saber quién es. Facundo puede reaccionar.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:43, Anteiku. Nishiki, convencido, pregunta cuánto cobra por transfigurarlo. Facundo puede responder.

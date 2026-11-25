@@ -1186,3 +1186,4 @@ T1184 · TG · Anteiku · "Sí, Hinami." Hinami: "¿Duele?" Cierra los ojos y es
 T1185 · TG · Anteiku · Transfigura a Hinami. Touka le hace una tostada. "Está rica." "¿Cómo te llamas?"
 T1186 · TG · Anteiku · "Me llamo Facundo." Hinami: "Facundo-san." Kase come pan de su mano. Entra Nishiki: "¿Qué carajo me perdí?"
 T1187 · TG · Anteiku · "Tengo 18." Hinami: "¿Facundo-nii?" Nishiki se burla. Yoshimura: "Es un invitado."
+T1188 · TG · Anteiku · Le cuenta a Nishiki. Touka come pan delante de él: "Es verdad." Nishiki: "¿Cuánto cobras?"

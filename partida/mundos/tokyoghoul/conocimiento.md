@@ -59,3 +59,5 @@
 - Hinami, Touka, Yoshimura, Nishiki · T1187 · Facundo dice tener 18 años.
 - Nishiki · T1187 · huele que Facundo es humano; Yoshimura lo presenta como "un invitado".
 - Facundo · T1187 · el muchacho de anteojos se llama Nishiki (por Touka y Yoshimura).
+- Nishiki · T1188 · por Facundo y Touka: Facundo les quitó el hambre de carne humana; pueden comer comida normal. Lo vio en Touka y Hinami.
+- Facundo · T1188 · vio el fondo de pantalla del celular de Nishiki: él con una chica de pelo corto en un parque.
