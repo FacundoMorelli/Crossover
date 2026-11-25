@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1232)
-soy un humano viajero
-
-## RESPUESTA 1 (T1232)
-
-> —Soy un humano viajero.
-
-Washuu no cambia la cara.
-
-Toma otro sorbo de té. Lo deja. Asiente despacio, como si le hubieras dado exactamente la respuesta que esperaba, y no le gustara ni le disgustara.
-
-—Un viajero —repite—. De algún lugar donde los humanos detienen quinques con la palma de la mano.
-
-Desde el poste, el hombre del cigarrillo apagado suelta un resoplido. Washuu ni lo mira.
-
-—Muy bien. Respetaré su discreción. —Se acomoda los lentes con un dedo—. Hablemos entonces de lo que nos trae aquí.
-
-Se inclina un poco hacia la mesa. Apoya un dedo sobre el mapa, justo sobre el pequeño rectángulo que marca Anteiku.
-
-—Usted quiere que esta operación termine esta noche. Que nadie de ese café muera ni sea capturado. —No es una pregunta—. Yo tengo una orden firmada por mi padre, el presidente de esta Comisión, que dice que el Búho no amanece vivo. Y tengo cuatrocientos investigadores en este distrito, que esta noche vieron morir a compañeros, y que necesitan volver a sus casas con algo en las manos.
-
-Levanta el dedo del mapa.
-
-—Así que le hago una propuesta. Una sola.
-
-Junta las manos sobre la mesa.
-
-—El Búho se entrega. Solo él. Sale de ese café por su propio pie y viene conmigo. A cambio, todos los demás que están adentro, los que usted metió ahí y los que ya estaban, quedan libres. Sin cargos. Fuera de nuestras listas. La operación termina en el momento en que el Búho cruce esa puerta.
-
-Hace una pausa.
-
-—Y usted viene conmigo también. A la oficina central. Como invitado de la familia Washuu. —La sonrisa se le estira apenas un milímetro—. Hay gente que tiene muchas ganas de conocer a un hombre que les quita el hambre a los ghouls.
-
-Detrás de ti, Shinohara se pone tenso. Lo sientes sin mirarlo.
-
-Washuu toma la taza otra vez.
-
-—Piénselo con calma. El té todavía está caliente.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1232 · TOKYO GHOUL · DÍA 6 · 18:13     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con Washuu                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1233)
+## COMANDO 1 (T1233)
 no, ya lo dije, no voy a entregar a nadie, dile al presidente que venga
 
-## RESPUESTA 2 (T1233)
+## RESPUESTA 1 (T1233)
 
 > —No. Ya lo dije: no voy a entregar a nadie. Dile al presidente que venga.
 
@@ -135,10 +77,10 @@ Arima no saluda. No se presenta. Inclina la cabeza un poco hacia un lado, como u
 
 ---
 
-## COMANDO 3 (T1234)
+## COMANDO 2 (T1234)
 leo mucho si, me gusta conocer al lugar al que viajo
 
-## RESPUESTA 3 (T1234)
+## RESPUESTA 2 (T1234)
 
 > —Leo mucho, sí. Me gusta conocer el lugar al que viajo.
 
@@ -185,7 +127,53 @@ Del parlante del teléfono sale el silencio de una línea abierta. Alguien, del 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1235)
+agarro el telefono, mucho gusto presidente, soy Facundo Morelli, un viajero
+
+## RESPUESTA 3 (T1235)
+
+> agarro el teléfono
+
+> —Mucho gusto, presidente. Soy Facundo Morelli, un viajero.
+
+Un silencio corto del otro lado. Después, una risa suave, de viejo. Una risa amable, de abuelo que escucha a un nieto contar algo gracioso en la mesa.
+
+—Morelli-kun. —La voz es cálida, pausada, un poco ronca, con el tono de alguien que tiene todo el tiempo del mundo—. El gusto es mío. Washuu Tsuneyoshi. Disculpe que no pueda recibirlo en persona. Ya no estoy para andar por las calles de noche, y menos en una noche como esta.
+
+Se oye, de fondo, el tintineo de una cuchara contra una taza.
+
+—Mi hijo me cuenta cosas muy difíciles de creer. Que usted duerme a mis hombres con la mirada. Que las esposas que les ponemos a los ghouls más peligrosos no le hacen ni cosquillas. Que levantó una pared alrededor de un café que mis quinques no pueden cruzar. —Una pausa breve—. Yo soy viejo, Morelli-kun. Ya vi muchas cosas difíciles de creer. Así que le creo.
+
+La cuchara deja de sonar.
+
+—Pero hay una de esas cosas que me interesa más que todas las demás. —La voz no cambia de tono, sigue igual de cálida, pero se vuelve más lenta, más cuidadosa—. El informe dice que usted les quita el hambre. Que un ghoul, después de que usted lo toca, come pan. Y que ya no necesita comer personas.
+
+Otra pausa. Más larga.
+
+—¿Es verdad?
+
+En la carpa, nadie se mueve. Washuu Yoshitoki está a un metro de ti, con las manos detrás de la espalda, mirándote. Shinohara tiene la mandíbula apretada. Arima sigue de espaldas, mirando la pantalla de Anteiku, pero inclinó la cabeza apenas hacia ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1235 · TOKYO GHOUL · DÍA 6 · 18:18     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, lomo erizado             ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con el presidente         ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:17, carpa central. Washuu le ofrece el teléfono: el presidente de la CCG quiere hablar directamente con Facundo. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:18, carpa central. Al teléfono, el presidente Washuu Tsuneyoshi pregunta si es verdad que Facundo les quita el hambre a los ghouls. Facundo puede responder.
