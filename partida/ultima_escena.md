@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1162)
-tengo una mision y tambien me caiste bien, eso si, no voy a matar a nadie. yo, solo voy a dejar inconscientes, si ustedes despues los quieren matar, lo deciden ustedes
-
-## RESPUESTA 1 (T1162)
-
-> —Tengo una misión, y también me caíste bien. Eso sí, no voy a matar a nadie. Yo solo los voy a dejar inconscientes. Si ustedes después los quieren matar, lo deciden ustedes.
-
-Kaneki parpadea.
-
-Por un momento no dice nada. Mira la toalla roja que tiene en las manos, la mira de verdad, como si recién ahora se diera cuenta de lo que es y de dónde salió esa sangre. Los dedos se le aflojan. La deja sobre la barra, doblada, lejos de él.
-
-—Te caí bien —repite despacio, casi sin voz. No es una pregunta. Parece que no sabe dónde poner esas palabras.
-
-Se pasa la mano por la cara.
-
-—Yo no quiero matar a nadie más —dice, más para la barra que para ti—. En la mansión no... no quería. Ya no sé cuántas veces dije eso.
-
-Hinami le pone una mano en el brazo, sin decir nada.
-
-Tsukiyama abre un ojo desde el taburete, con la mano todavía en la frente.
-
-—Inconscientes —murmura, decepcionado, como si le hubieran servido un plato sin sal—. Qué desperdicio de material.
-
-Nadie le contesta.
-
-Yoshimura termina de colgar la última taza. Se seca las manos con el repasador, sin apuro, dedo por dedo.
-
-—En este lugar tenemos una sola regla —dice—. No se mata si se puede evitar. Les damos de comer a los que no pueden cazar, para que nadie tenga que hacerlo. —Dobla el repasador y lo deja sobre la barra—. No siempre alcanza. Pero es la regla.
-
-Te mira por encima de los lentes.
-
-—Así que lo que usted acaba de decir, señor viajero, no nos ofende. Al contrario. Si alguien de los nuestros quiere decidir otra cosa después, eso va a ser un asunto entre él y yo.
-
-El reloj de pared marca las doce y cuarto. Yoshimura lo mira, y después mira a Banjou, que sigue en la puerta del fondo con una mano en las costillas, y a los tres de las máscaras, que se asoman detrás de él.
-
-—Es tarde. Arriba hay dos cuartos y un sofá. No es una mansión con sábanas de seda —Tsukiyama abre la boca y la vuelve a cerrar—, pero las ventanas tienen cortinas gruesas y nadie va a golpear la puerta hasta la mañana. Touka llega a las siete para abrir.
-
-Se vuelve hacia ti y apoya una mano sobre la barra, junto al lugar donde estaba tu taza.
-
-—Usted también, si quiere. ¿Va a pasar la noche aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1162 · TOKYO GHOUL · NOCHE · 00:15     ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1163)
+## COMANDO 1 (T1163)
 si esta bien, gracias
 
-## RESPUESTA 2 (T1163)
+## RESPUESTA 1 (T1163)
 
 > —Sí, está bien. Gracias.
 
@@ -115,10 +57,10 @@ En la puerta de la sala, Kaneki no se fue a ningún lado. Está apoyado en el ma
 
 ---
 
-## COMANDO 3 (T1164)
+## COMANDO 2 (T1164)
 si
 
-## RESPUESTA 3 (T1164)
+## RESPUESTA 2 (T1164)
 
 > —Sí.
 
@@ -155,7 +97,45 @@ Kase, sobre la almohada, abre un ojo, el rojo, y lo mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1165)
+acercate kaneki
+
+## RESPUESTA 3 (T1165)
+
+> —Acércate, Kaneki.
+
+Kaneki duda.
+
+Se queda un segundo quieto en el borde de la mesa, con los codos todavía en las rodillas, mirándote como si tratara de adivinar qué viene. Después se levanta despacio y da los dos pasos que lo separan del sofá.
+
+Se detiene frente a ti, a menos de un brazo de distancia. De cerca huele a sangre seca, a tierra del bosque y a sudor frío. Tiene una cortada a medio cerrar en el cuello y la piel de la cara tan pálida que se le ven las venas finas debajo de los ojos.
+
+Se sienta en cuclillas, para quedar a tu altura, con las manos juntas entre las rodillas. Las tiene apretadas. Le tiemblan un poco.
+
+Tsukiyama cierra el libro sobre un dedo, para no perder la página, y se inclina hacia adelante en la silla.
+
+Kase se levanta de la almohada, se estira, baja al almohadón de al lado y se sienta a mirar a Kaneki de frente, con la cola enroscada sobre las patas.
+
+Kaneki traga saliva. No pregunta nada más. Espera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1165 · TOKYO GHOUL · NOCHE · 00:27     ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá, mirando a Kaneki           ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:26, sala de arriba de Anteiku. Kaneki pregunta si hay forma de dejar de tener hambre. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:27, sala de arriba de Anteiku. Kaneki en cuclillas frente a Facundo, esperando. Facundo puede actuar.

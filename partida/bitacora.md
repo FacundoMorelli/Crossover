@@ -1163,3 +1163,4 @@ T1161 · TG · Anteiku · "No lo sé. Mientras esté aquí, no les va a pasar na
 T1162 · TG · Anteiku · "No voy a matar a nadie, solo inconscientes." Yoshimura: la regla de Anteiku. Ofrece dormir arriba: "¿Va a pasar la noche aquí?"
 T1163 · TG · Anteiku arriba · Se queda a dormir: el sofá. Tsukiyama lee hasta el amanecer. Kaneki: "¿Puedo preguntarte algo?"
 T1164 · TG · Anteiku arriba · Kaneki cuenta que era humano y que el hambre no se va: "¿Hay una forma de dejar de tener hambre?"
+T1165 · TG · Anteiku arriba · "Acércate, Kaneki." Kaneki en cuclillas frente al sofá, espera.
