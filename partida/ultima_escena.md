@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1271)
-puedo si, pero soy un viajero, no me quedo mucho y no vuelvo tanto
-
-## RESPUESTA 1 (T1271)
-
-> —Puedo, sí. Pero soy un viajero. No me quedo mucho y no vuelvo tan seguido.
-
-Ayato se queda mirándote.
-
-Algo en la cara se le cierra, como una puerta que alguien empuja despacio con el pie.
-
-—Viajero —repite, bajo—. Claro. Todos se van.
-
-Vuelve a meter la mano en el bolsillo. Mira la nuca de Touka, que sigue sin darse vuelta. Se le mueve la mandíbula, como si masticara algo duro.
-
-—Entonces que no lo haga. —La voz le sale más firme—. Que no se haga humana. No hasta que...
-
-Se calla.
-
-Esta vez, Touka sí se da vuelta. De golpe. Suelta tu manga y queda frente a él, a un paso, con el ojo gris brillante y la cara roja de viento.
-
-—¿Hasta que qué? —le dice—. Dilo.
-
-Ayato abre la boca. La cierra. Le tiembla la barbilla, una sola vez, y la aprieta para que no se note.
-
-—Hasta que yo pueda —dice al final, muy bajo—. Cuidarte. Yo.
-
-Touka se queda sin aire. No contesta. Lo mira.
-
-—Ayato. —Es el de la capa roja, desde atrás, más fuerte esta vez—. Basta.
-
-Ayato se pone rígido. Por un segundo parece que va a dar media vuelta y volver con ellos sin decir nada más.
-
-No lo hace. Se queda donde está. Pero baja la vista al cemento.
-
-—Vete —le dice a Touka. Bajo, ronco—. Antes de que esto se ponga feo. Vete con él.
-
-Y le da la espalda. Camina despacio hacia las capas oscuras, con las manos en los bolsillos y los hombros encogidos, y se para al lado del de la capa roja sin mirarlo.
-
-Touka se queda quieta un momento largo, mirándole la espalda.
-
-Después vuelve a agarrarte la manga. No dice nada. Tiene la cara mojada, y no es por el viento.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1271 · TOKYO GHOUL · DÍA 7 · 21:19     ║
-║ Bahía · azotea de la base de Aogiri          ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: Touka y Ayato                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1272)
+## COMANDO 1 (T1272)
 volvemos a la cafeteria
 
-## RESPUESTA 2 (T1272)
+## RESPUESTA 1 (T1272)
 
 > volvemos a la cafetería
 
@@ -123,10 +63,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1273)
+## COMANDO 2 (T1273)
 esta noche, les voy a dar esto, les doy un boton, si tocan este boton voy a saber que estan en problemas, les doy 4 semillas del ermitaño, esto lo mismo, comanlas si estan en problemas
 
-## RESPUESTA 3 (T1273)
+## RESPUESTA 2 (T1273)
 
 > —Esta noche.
 
@@ -175,7 +115,59 @@ Kaneki se levantó del taburete. Mira hacia arriba, hacia la puerta cerrada del 
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1274)
+esta bien kaneki, acaricio el pelo de hinami, si esta noche me voy
+
+## RESPUESTA 3 (T1274)
+
+> —Está bien, Kaneki.
+
+Kaneki asiente y sube la escalera de dos en dos.
+
+Le acaricias el pelo a Hinami. Ella cierra los ojos un segundo, igual que la primera mañana, cuando tenía miedo de que doliera.
+
+> —Sí. Esta noche me voy.
+
+Hinami no dice nada. Se queda con los ojos cerrados y la muñeca de tela apretada contra el pecho. Después los abre. Están mojados.
+
+Da un paso y te abraza la cintura. Fuerte, con un solo brazo, porque con el otro sigue agarrando la muñeca. Esconde la cara contra el sobretodo. No llora fuerte. Solo tiembla un poco.
+
+Kase baja de la barra al taburete de al lado y se queda mirándola, con la cola enroscada sobre las patas.
+
+Hinami se separa. Se seca la cara con la manga del pijama. Después mete la mano en el bolsillo y saca algo chico, de papel: una grulla de origami, de papel celeste, un poco torcida, con un ala más larga que la otra.
+
+—Me la enseñó a hacer mamá —dice, bajito—. Es la primera que me salió bien.
+
+Te la pone en la mano.
+
+Arriba se abre una puerta. Se oyen voces bajas: la de Kaneki, la de Touka, cortante. Después, pasos en la escalera. Lentos.
+
+Touka baja sola. Kaneki se quedó arriba, en el primer escalón, sin bajar.
+
+Tiene la cara lavada y los ojos todavía un poco rojos, y el flequillo mojado pegado a la frente. Se detiene en el último escalón. No se acerca. Se cruza de brazos.
+
+Te mira. Mira la grulla de papel en tu mano. Mira a Hinami. Vuelve a mirarte a ti.
+
+—Así que te vas —dice. No es una pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1274 · TOKYO GHOUL · DÍA 7 · 21:26     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete                         ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: despedirse de Anteiku              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:23, salón de Anteiku. Facundo se va esta noche; dejó botón y 4 semillas. Hinami pregunta si se va ya; Kaneki quiere ir a buscar a Touka antes. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:26, salón de Anteiku. Hinami le regaló una grulla de origami. Touka bajó: "Así que te vas." Facundo tiene la grulla en la mano (no la guardó todavía). Facundo puede responder.

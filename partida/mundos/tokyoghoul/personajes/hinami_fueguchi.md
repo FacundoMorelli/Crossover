@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1154 (Facundo los saca de la mansión).
 ENCUENTROS:
 - T1154 · Escondida entre los helechos del bosque. Corre a abrazar a Kaneki. Facundo los teletransporta al acantilado.
 DIÁLOGOS CLAVE:
+- T1274 · "Me la enseñó a hacer mamá. Es la primera que me salió bien." (le regala una grulla de origami celeste)
 - T1273 · "¿Te vas ya, Facundo-nii? ¿Ahora?"
 - T1187 · "Pero... eres alto. Y tienes muchos dibujos. Y una espada." "¿Facundo-nii?"
 - T1186 · "Fa-kun-do. Facundo-san."

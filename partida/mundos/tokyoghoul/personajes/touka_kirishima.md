@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1274 · "Así que te vas."
 - T1272 · "Lo vi. Está vivo. Está flaco. Sigue siendo un idiota."
 - T1271 · "¿Hasta que qué? Dilo."
 - T1269 · (a Ayato) "No vine a pedirte que vuelvas. Ya sé que no vas a volver." "El café sigue abierto. Las siete y media, todos los días. Si un día quieres un pan con mermelada, sabes dónde queda." "Sí. Vámonos."

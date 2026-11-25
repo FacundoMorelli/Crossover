@@ -1272,3 +1272,4 @@ T1270 · TG · Azotea · Ayato: "No te hagas humana todavía; aquí saben tu car
 T1271 · TG · Azotea · "Soy un viajero." Ayato: "Hasta que yo pueda cuidarte. Yo." "Vete con él." Touka llora.
 T1272 · TG · Anteiku · Vuelven. Touka: "Lo vi. Sigue siendo un idiota." Se encierra. Yoshimura: "¿Ya sabe cuándo se va?"
 T1273 · TG · Anteiku · "Me voy esta noche." Deja un botón de aviso y 4 semillas (quedan 72). Kaneki va a buscar a Touka.
+T1274 · TG · Anteiku · Hinami lo abraza y le regala una grulla de origami celeste. Touka baja: "Así que te vas."
