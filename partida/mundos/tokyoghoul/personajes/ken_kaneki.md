@@ -15,6 +15,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1216 · "Yo también voy." "Puedo pelear. Puedo controlarlo. Facundo-san me entrenó para esto." "¿Y yo me escondo arriba? ¿Otra vez?"
 - T1206 · "Una hamburguesa. Hay un lugar en el Distrito 20, Big Girl. Iba con mi mejor amigo, Hide." "La vomité en el baño." "Una hamburguesa de Big Girl. Con queso. La grande."
 - T1205 · "Yo. Yo. Yo." "No me perdí. Ni un segundo. Me acordé de todo." "¿Lo hice bien?"
 - T1204 · (en kakuja, voz doble) "Estoy aquí. Estoy aquí. Sigo siendo yo."

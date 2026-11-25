@@ -1,8 +1,8 @@
 {
-  "turno": 1215,
+  "turno": 1216,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "Día 6 desde la llegada (inicio de la Operación del Búho)",
-  "hora": "17:41",
+  "hora": "17:43",
   "edad": 18,
   "nivel": 28,
   "exp": 276530,
@@ -189,7 +189,7 @@
           "tipo": "Recinto de 6 caras (con techo)",
           "lugar": "Anteiku, Distrito 20 (Tokyo Ghoul)",
           "desde": "T1180 07:31",
-          "reglas": "Entra y sale todo el que quiera. Investigadores de la CCG: pasan solo si vienen con intención de tomar café o similar; si vienen con intención de destruir o matar, no pasan (cambio T1183). No entra ningún ataque dirigido contra el lugar. Dura lo que Facundo quiera.",
+          "reglas": "Entra y sale todo el que quiera. Investigadores de la CCG: pasan solo si vienen con intención de tomar café o similar; si vienen con intención de destruir o matar, no pasan (cambio T1183). No entra ningún ataque dirigido contra el lugar. Dura lo que Facundo quiera. Se mantiene aunque Facundo se aleje (declarado T1216).",
           "visibilidad": "Líneas visibles: un hilo plateado finísimo en la vereda junto al cordón y por los costados/callejón; las paredes y el techo no se ven."
         }
       ],

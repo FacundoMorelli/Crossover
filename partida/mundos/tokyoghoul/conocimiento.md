@@ -106,3 +106,5 @@
 - Ghouls de los distritos 11, 13, 14 · T1215 · el rumor del Panadero.
 - Facundo · T1215 · oyó su apodo: "el Panadero". Vio al hombre del bombín hablar con Yoshimura (no oyó qué). Vio quemar papeles.
 - Facundo, Kaneki, Touka · T1215 · por Yoshimura: va a salir (como el Búho) para que no busquen en Anteiku; Irimi y Koma están afuera con su gente, fuera de la pared.
+- Yoshimura, Kaneki, Touka · T1216 · Facundo irá con Yoshimura; la barrera se mantiene aunque se aleje.
+- Facundo · T1216 · por Yoshimura: afuera hay "hombres que la CCG guarda para días como hoy" y "otras cosas que no tienen nada que ver con la CCG".

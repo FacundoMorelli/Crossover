@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1213)
-esta bien
-
-## RESPUESTA 1 (T1213)
-
-> —Está bien.
-
-Nadie se mueve.
-
-Touka sigue con el vaso contra el pecho. Nishiki, con la escoba. Shinohara, con las manos alrededor de la taza, mirando la madera de la barra para no mirar a nadie, como prometió.
-
-Entonces Yoshimura deja el repasador sobre la mesada.
-
-Lo dobla en cuatro, con el mismo cuidado de siempre, y camina sin apuro por detrás de la barra hasta la vitrina de vidrio donde están los bollos dulces de la mañana. Abre la puertita. Saca uno, el más chico, con azúcar por encima. Lo pone en un platillo blanco.
-
-Touka abre la boca. Yoshimura la mira, apenas, por encima de los lentes, y ella la cierra.
-
-Yoshimura se para delante de Shinohara, del otro lado de la barra, con el platillo en la mano. Se sacan una cabeza de diferencia. Uno grande, de traje gris, con una venda en el cuello. El otro, delgado, de chaleco y moño, con el pelo blanco peinado con cuidado.
-
-—Señor Shinohara —dice Yoshimura, con su voz suave de barista—. Usted pidió no saber nombres. Se lo agradezco.
-
-Se quita los lentes. Los dobla. Los guarda en el bolsillo del chaleco.
-
-Y su ojo derecho cambia.
-
-No del todo, no de golpe: el blanco se oscurece despacio hasta volverse negro, como tinta que cae en agua, y en el centro el iris se enciende en rojo. Uno solo. El otro sigue siendo el ojo cansado y amable de un viejo.
-
-Shinohara no se mueve. No retrocede. No lleva la mano a ningún lado. Pero se le pone tensa toda la espalda, de un solo golpe, como a un perro viejo que huele algo en el aire.
-
-Yoshimura toma el bollo del platillo con dos dedos. Lo muerde.
-
-Mastica despacio. Con los ojos, el negro y el normal, fijos en Shinohara. Traga. Le queda un poco de azúcar en el labio y se lo saca con la punta del pulgar.
-
-—Es la primera vez en sesenta y tantos años —dice, en voz muy baja— que como algo que hizo un panadero.
-
-Deja el resto del bollo en el platillo. El ojo derecho se le aclara de a poco hasta volver a ser normal. Se pone los lentes.
-
-Shinohara sigue mirándolo. Tiene la taza apretada entre las manos, tan fuerte que el café tiembla.
-
-Pasa mucho tiempo antes de que hable. Cuando lo hace, la voz le sale ronca, sin aire.
-
-—¿Por qué usted? —le pregunta a Yoshimura—. Podía haber sido cualquiera. ¿Por qué se arriesgó usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1213 · TOKYO GHOUL · DÍA 3 · 10:29     ║
-║ Distrito 20 · Anteiku, barra                 ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-(Nota del motor: dentro de la simulación de los dos días, Yoshimura fue uno de "los de la casa" que pidieron la transfiguración, el Día 2 a la noche, al cerrar el café. Quedó registrado así.)
-
----
-
-## COMANDO 2 (T1214)
+## COMANDO 1 (T1214)
 miro
 
-## RESPUESTA 2 (T1214)
+## RESPUESTA 1 (T1214)
 
 > miro
 
@@ -137,10 +75,10 @@ Después te mira a ti, por encima de los lentes.
 
 ---
 
-## COMANDO 3 (T1215)
+## COMANDO 2 (T1215)
 simula
 
-## RESPUESTA 3 (T1215)
+## RESPUESTA 2 (T1215)
 
 > simula
 
@@ -216,7 +154,58 @@ Arriba, en la escalera, Kaneki ya está parado, con la cara blanca. Detrás de �
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1216)
+yoshimura, tu tampoco tienes que morir voy a ir con usted, nadie va a poder entrar a este lugar, aunque me aleje
+
+## RESPUESTA 3 (T1216)
+
+> —Yoshimura, usted tampoco tiene que morir. Voy a ir con usted. Nadie va a poder entrar a este lugar, aunque me aleje.
+
+Yoshimura se queda quieto, con una mano todavía apoyada sobre el delantal doblado.
+
+Afuera, el altavoz repite la orden de evacuación por tercera vez. Se oyen puertas que se cierran de golpe, pasos corriendo en la vereda, el motor de una camioneta que acelera. En algún lugar, lejos, hacia el este, suena el primer disparo. Después otro. Después un grito, que no es humano.
+
+Yoshimura mira hacia la ventana. Después te mira a ti, y por un momento no parece el gerente de un café ni el ghoul más buscado del país. Parece un viejo muy cansado al que le dijeron algo que no se animaba a esperar.
+
+—Usted no sabe lo que hay ahí afuera —dice despacio—. No son solo investigadores. Hay hombres que la CCG guarda para días como hoy. Y hay... otras cosas que pueden venir, que no tienen nada que ver con la CCG.
+
+No dice cuáles. Se le endurece apenas la boca.
+
+—Pero ya entendí que usted no es de los que se quedan adentro cuando se lo piden.
+
+Se le escapa algo parecido a una sonrisa.
+
+Desde la escalera, Kaneki baja los últimos escalones de un salto.
+
+—Yo también voy.
+
+—No. —Yoshimura no levanta la voz, pero lo dice de una forma que hace que Kaneki se detenga en seco al pie de la escalera—. Kaneki-kun. Tú te quedas.
+
+—Puedo pelear. Puedo controlarlo. Facundo-san me entrenó para esto. —Kaneki aprieta los puños—. Irimi-san y Koma-san están afuera. Usted va a salir. ¿Y yo me escondo arriba? ¿Otra vez?
+
+Detrás de él, en la escalera, Touka no dice nada. Pero tiene el ojo negro y rojo, y debajo de la camisa, entre los omóplatos, la tela ya empieza a abrirse sola.
+
+Yoshimura no le contesta a Kaneki. Te mira a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1216 · TOKYO GHOUL · DÍA 6 · 17:43     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete, orejas paradas         ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:41, cocina de Anteiku. Empezó la Operación del Búho. Yoshimura va a salir como el Búho y pide que los chicos no salgan. Irimi y Koma pelean afuera, fuera de la pared. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:43, cocina de Anteiku. Facundo irá con Yoshimura. Kaneki quiere ir; Yoshimura dice que no; Touka saca el kakugan. Yoshimura mira a Facundo para que decida.

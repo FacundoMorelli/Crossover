@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1216 · "Usted no sabe lo que hay ahí afuera. Hay hombres que la CCG guarda para días como hoy. Y hay otras cosas que pueden venir." "Ya entendí que usted no es de los que se quedan adentro cuando se lo piden." "No. Kaneki-kun. Tú te quedas."
 - T1215 · "Irimi y Koma están afuera, con su gente. Ellos no están dentro de su pared, Morelli-san." "Y yo tengo que salir. Si el Búho no aparece, van a seguir buscando, y van a buscar acá." "Le pido una sola cosa. Que los chicos no salgan de esta casa."
 - T1214 · "Porque soy el más viejo de esta casa." "Usted entró por esa puerta y la pared lo dejó pasar." "Usted lo pidió negro. Como lo toma la gente que trabaja de noche."
 - T1213 · "Señor Shinohara. Usted pidió no saber nombres. Se lo agradezco." "Es la primera vez en sesenta y tantos años que como algo que hizo un panadero."

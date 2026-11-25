@@ -1214,3 +1214,4 @@ T1212 · TG · Anteiku · "Sí." Shinohara pone condiciones (sin nombres, sin in
 T1213 · TG · Anteiku · Yoshimura se ofrece: muestra el kakugan y come un bollo delante de Shinohara. "¿Por qué usted?"
 T1214 · TG · Anteiku · Shinohara habla con Yoshimura, paga de más, deja su tarjeta a Facundo y se va. Juuzou: "¡Algún día voy a cortar tu pared!"
 T1215 · TG · Simulación Día 3 → Día 6 · ~138 transfigurados en total. Apodo: el Panadero. Kaiko visita a Yoshimura. Queman papeles. Día 6 17:40: empieza la Operación del Búho. Yoshimura va a salir; pide que los chicos no salgan.
+T1216 · TG · Anteiku · "Voy con usted." Yoshimura acepta. Kaneki quiere ir; Yoshimura le dice que no. Touka saca el kakugan.
