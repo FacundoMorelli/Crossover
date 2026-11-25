@@ -1244,3 +1244,4 @@ T1242 · TG · Anteiku · Semilla a Irimi (quedan 76). "Gracias, Panadero." Yosh
 T1243 · TG · Simulación noche → Día 7 09:59 · Noche en Anteiku. TV: operación concluida. Portón negro de los Washuu: Arima espera con un libro. "Diga su nombre."
 T1244 · TG · Casa Washuu · Entra con Arima a su lado. Jardín, sirvienta de kimono gris. Tsuneyoshi lo espera con té: "Siéntese."
 T1245 · TG · Casa Washuu · Tasación: sin datos, oculta su naturaleza. Tsuneyoshi confiesa: los Washuu comen carne humana hace más de cien años.
+T1246 · TG · Casa Washuu · Trato: Anteiku y todos fuera de las listas; secreto de los Washuu. Tsuneyoshi inclina la cabeza: "Empiece por mí."

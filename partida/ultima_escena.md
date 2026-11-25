@@ -3,81 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1243)
-si. simula hasta mañana a las 10
-
-## RESPUESTA 1 (T1243)
-
-> —Sí.
-
-...
-
-La noche en Anteiku es larga y no duerme nadie.
-
-Yoshimura prepara café tres veces. La primera, nadie lo toma. La segunda, Koma se toma dos tazas y se pone a contar a los gritos cómo la Higher Mind voló por el aire "con dos dedos, ¡dos!", hasta que Irimi le pega en la nuca y se calla. La tercera, a las dos de la mañana, Hinami se queda dormida sobre la mesa con la cabeza apoyada en los brazos, y Touka le pone una manta encima sin decir nada.
-
-Los cuatro Apes comen. Pan, arroz frío, lo que hay. Comen mucho. Las heridas se les cierran de a poco, con la comida, como si el cuerpo se acordara de algo. Al amanecer, el más joven ya camina sin el cinturón atado en la pierna.
-
-Nishiki se encierra un rato en el baño con el celular. Cuando sale, tiene los ojos rojos y dice que Kimi está bien, que se quedó en su casa, del otro lado del distrito, y que la CCG no pasó por su calle.
-
-Kaneki intenta salir dos veces a la vereda. Las dos veces el umbral lo frena. La segunda se queda sentado del lado de adentro de la puerta, con la espalda contra el vidrio, mirando la calle vacía hasta que se hace de día.
-
-Touka no habla con nadie. A las cuatro de la mañana se sienta en la escalera, dos escalones más arriba que tú, y se queda ahí, abrazada a las rodillas, sin decir nada, hasta que amanece.
-
-Yoshimura no cuenta nada de los Washuu. Nadie le pregunta. Cerca de las cinco, mientras lava las tazas, dice solo una cosa, sin darse vuelta, en voz tan baja que solo la oyes tú:
-
-—Si mañana no vuelve, voy a entender.
-
-Duermes un par de horas en el sofá de arriba, con Kase sobre el pecho.
-
-A las siete, la tele de la cocina dice lo que dice siempre: "operación especial de la CCG en el Distrito 20", "concluida", "varios efectivos heridos", "no se informaron víctimas civiles". Ni una palabra del Búho. Ni del café. Ni de ti.
-
-A las nueve y media te lavas la cara. Kaneki y Touka te esperan al pie de la escalera. No te piden ir. Saben que el umbral no los dejaría.
-
-—Vuelve —dice Kaneki. Solo eso.
-
-Touka no dice nada. Te mira a los ojos, uno y otro, y después mira a Kase en tu hombro, como si le encargara algo a él.
-
-...
-
-Distrito 1. Diez menos un minuto.
-
-Es otra ciudad. Calles anchas, silenciosas, con árboles viejos alineados en las veredas y muros altos, de piedra gris, detrás de los cuales no se ve nada. No hay negocios. No hay gente caminando. Pasa un auto negro, despacio, y dobla en la esquina.
-
-La calle tiene nombre de árbol. El número está grabado en una placa de bronce, en un muro de piedra que ocupa media cuadra. En el medio del muro, un portón de hierro negro, alto, liso, sin adornos. Al lado, un intercomunicador con una lente de cámara.
-
-Y apoyado en el muro, a dos metros del portón, con el maletín plateado en el suelo junto a los pies y un libro abierto en las manos, está Arima.
-
-Levanta la vista del libro cuando llegas. Te mira. Lo cierra, marcando la página con un dedo.
-
-No dice nada.
-
-El intercomunicador hace un clic. Una voz de mujer, joven, perfectamente educada, sin ninguna emoción:
-
-—Buenos días. Por favor, diga su nombre.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1243 · TOKYO GHOUL · DÍA 7 · 09:59     ║
-║ Distrito 1 · portón negro de los Washuu      ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, 10:00          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1244)
+## COMANDO 1 (T1244)
 Facundo Morelli
 
-## RESPUESTA 2 (T1244)
+## RESPUESTA 1 (T1244)
 
 > —Facundo Morelli.
 
@@ -131,10 +60,10 @@ Hace un gesto suave con la mano hacia el almohadón.
 
 ---
 
-## COMANDO 3 (T1245)
+## COMANDO 2 (T1245)
 me siento y uso tasacion en el
 
-## RESPUESTA 3 (T1245)
+## RESPUESTA 2 (T1245)
 
 > me siento y uso Tasación en él
 
@@ -192,7 +121,56 @@ Mira por la ventana, hacia el estanque, donde un pez rojo sube a la superficie y
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1246)
+asi que el presidente de la asociacion que caza ghouls es un ghoul, esta bien, puedo sacarte el hambre a ti y a tu familia, ya sabe mis condiciones
+
+## RESPUESTA 3 (T1246)
+
+> —Así que el presidente de la asociación que caza ghouls es un ghoul. Está bien. Puedo sacarte el hambre a ti y a tu familia. Ya sabes mis condiciones.
+
+Tsuneyoshi se ríe. Bajito, de verdad, con los hombros.
+
+—Un ghoul no, Morelli-kun. Ni siquiera eso. —Mueve una mano huesuda en el aire, como espantando una mosca—. Algo a mitad de camino. Los ghouls nos desprecian. Los humanos no saben que existimos. Y nosotros cazamos a unos para esconderles a los otros lo que somos. —La sonrisa no se le va, pero se le pone vieja—. Un negocio familiar muy antiguo. Muy cansador.
+
+Toma la taza. No bebe. La sostiene entre las manos, mirando el té.
+
+—Sus condiciones. —Asiente despacio—. Que dejen ir a todos. Que la operación termine. —Levanta la vista—. Le doy más que eso.
+
+Deja la taza sobre la mesa.
+
+—El café del Distrito 20 sale de todas nuestras listas. Hoy. El Búho también, con el nombre que tenga. Los que estaban en ese café anoche, todos, sin excepción, dejan de existir para la Comisión. Mi hijo se encarga personalmente. —Una pausa breve—. Y mientras yo viva, ningún investigador vuelve a cruzar la puerta de ese lugar con una quinque en la mano.
+
+Junta las manos sobre las rodillas.
+
+—Yo también tengo una condición. Una sola. —La voz se le vuelve muy suave—. Lo que se habló en esta habitación no sale de esta habitación. Nadie fuera de esta casa sabe lo que somos. Ni ese café. Ni el Búho. Ni Shinohara-kun, que es un buen hombre y no merece cargar con esto.
+
+Te sostiene la mirada.
+
+—Hay gente en esta ciudad, Morelli-kun, a la que no le conviene nada que los ghouls dejen de tener hambre. Gente con la que mi familia hizo tratos hace mucho tiempo. Si se enteran de lo que usted puede hacer antes de que yo esté listo... —No termina.
+
+Se inclina hacia adelante, despacio, sobre la mesa. Baja la cabeza, hasta que la frente casi toca la madera, ofreciéndote la coronilla blanca y escasa.
+
+—Empiece por mí, por favor. Después llamo a los demás.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1246 · TOKYO GHOUL · DÍA 7 · 10:04     ║
+║ Distrito 1 · casa Washuu, sala de tatami     ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: hablar con Tsuneyoshi              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:02, sala de tatami de la casa Washuu. Tsuneyoshi confesó que él y toda la familia Washuu comen carne humana desde hace más de cien años. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:04, sala de tatami de la casa Washuu. Tsuneyoshi aceptó y amplió las condiciones, pidió secreto, y ofrece la cabeza: "Empiece por mí." Facundo puede actuar.

@@ -7,6 +7,7 @@ ENCUENTROS:
 - T1244 · Casa Washuu, sala de tatami · Recibe a Facundo con té.
 - T1235 · Por teléfono · Habla con Facundo.
 DIÁLOGOS CLAVE:
+- T1246 · "Un ghoul no. Ni siquiera eso. Algo a mitad de camino." "Un negocio familiar muy antiguo. Muy cansador." "El café sale de todas nuestras listas. Hoy. El Búho también." "Mientras yo viva, ningún investigador vuelve a cruzar la puerta de ese lugar con una quinque en la mano." "Lo que se habló en esta habitación no sale de esta habitación." "Hay gente en esta ciudad a la que no le conviene nada que los ghouls dejen de tener hambre." "Empiece por mí, por favor. Después llamo a los demás."
 - T1245 · "Los animales siempre se dan cuenta primero. Mis perros nunca me quisieron." "Usted también se dio cuenta, ¿verdad? Igual que mira un médico." "La persona de mi familia que tiene hambre desde hace mucho tiempo... soy yo. Y no solo yo." "Hace más de cien años que la familia que caza ghouls en este país come lo mismo que ellos. A escondidas. Una vez por semana. En esta misma casa."
 - T1244 · "Morelli-kun. Llega puntual. Me alegro." "Siéntese, por favor. El té está recién hecho."
 - T1237 · "Excelente. Lo espero con té, Morelli-kun. Del bueno."
