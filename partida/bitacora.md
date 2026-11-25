@@ -1281,3 +1281,4 @@ T1279 · BC · Base · Le clava la cabeza a No.0 contra el piso (+150 F, +400 EX
 T1280 · BC · Base · Rades inconsciente (+25 F, +150 EXP). En el cuarto de Asta, un hombre del Ojo con la piedra mágica: "Tú no estabas en la lista."
 T1281 · BC · Base · Valtos inconsciente (+25 F, +150 EXP); la piedra mágica en manos de Gordon. Llega una chica del Ojo desde el bosque: "¡Quiero abrir al enano antimagia!"
 T1282 · BC · Borde del bosque · Aparece frente a Sally. "¡Heterocromía! ¡No te puedo leer el maná! ¿Puedo abrirte?"
+T1283 · BC · Base · Sally inconsciente (+5 F, +50 EXP). "¿Dónde está Yami?" En Amanecer Dorado, esperando a alguien. Gauche: "¿Los tiramos al lago?"

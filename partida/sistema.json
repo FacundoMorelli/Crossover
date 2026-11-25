@@ -1,13 +1,13 @@
 {
-  "turno": 1282,
+  "turno": 1283,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:13",
+  "hora": "12:15",
   "edad": 18,
   "nivel": 29,
-  "exp": 290930,
+  "exp": 290980,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 110102,
+  "fragmentos": 110107,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1985,6 +1985,14 @@
       "como": "Dos dedos en la frente; inconsciente sobre la cama de Asta; llevado al patio.",
       "fragmentos": 25,
       "exp": 150
+    },
+    {
+      "nombre": "Sally (Ojo del Sol de Medianoche)",
+      "mundo": "blackclover",
+      "turno": "T1283",
+      "como": "Golpecito con un dedo en la frente; inconsciente.",
+      "fragmentos": 5,
+      "exp": 50
     }
   ],
   "viaje": {

@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1280)
-lo dejo inconsciente y sigo al que va entre puerta y puerta
-
-## RESPUESTA 1 (T1280)
-
-> lo dejo inconsciente
-
-El muchacho de la costura todavía está gritando lo de su obra maestra cuando apareces a su lado, sobre la pila de escombros.
-
-Le das un golpecito en la nuca con dos dedos.
-
-Los ojos se le ponen en blanco a mitad de la palabra "meses". Se dobla como un saco vacío, rueda por la pila de escombros y queda boca abajo sobre el pasto, con un brazo debajo del cuerpo. Respira.
-
-[Rival vencido: el de la costura. +25 Fragmentos.]
-
-[+150 EXP.]
-
-—¡Oye! —grita Gauche desde el patio—. ¡¿Adónde vas?!
-
-> y sigo al que va entre puerta y puerta
-
-Ya no estás.
-
-Segundo piso. Humo. Un pasillo largo con la mitad del techo caído y una alfombra que se quema despacio en una punta. Las puertas de los cuartos están abiertas o arrancadas. Al fondo, la del cuarto de Asta: la de madera llena de rayones, con un cartel torcido que dice "¡¡¡ASTA!!! ¡¡¡NO ENTRAR SIN PERMISO!!!".
-
-Adentro, un hombre alto y flaco, con una capa del Ojo del Sol de Medianoche, está de rodillas junto a la cama de Asta, revolviendo un cajón. Tiene el pelo oscuro peinado hacia atrás y dos marcas extrañas en la cara, como cortes simétricos. A su lado, en el aire, flota un círculo negro chiquito, del tamaño de un plato: una puerta.
-
-Saca algo del cajón. Una piedra del tamaño de un puño, translúcida, con un brillo verde por dentro que late como un corazón.
-
-La piedra mágica.
-
-Se levanta. Se da vuelta para meterse en su puerta negra.
-
-Y te ve, parado en el marco de la puerta del cuarto, con el gato en el hombro y humo a tu alrededor.
-
-Se queda quieto. No grita. No ataca. Te mira con unos ojos fríos, cansados, de alguien que hace un trabajo que no le gusta.
-
-—Tú no estabas en la lista —dice, en voz baja.
-
-El círculo negro, a su lado, empieza a agrandarse.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1280 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros · cuarto de Asta · 12:12   ║
-║ NIVEL 29 · EXP 290.780/320.000               ║
-║ FRAGMENTOS 110.077 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1281)
+## COMANDO 1 (T1281)
 lo dejo inconsciente y lo llevo con los demas
 
-## RESPUESTA 2 (T1281)
+## RESPUESTA 1 (T1281)
 
 > lo dejo inconsciente
 
@@ -121,10 +63,10 @@ Entonces, desde el bosque, del otro lado de la explanada, se oye un zumbido mec�
 
 ---
 
-## COMANDO 3 (T1282)
+## COMANDO 2 (T1282)
 aparezco en frente de ella, y tu quien eres?
 
-## RESPUESTA 3 (T1282)
+## RESPUESTA 2 (T1282)
 
 > aparezco enfrente de ella
 
@@ -171,7 +113,65 @@ Levanta la vista de la libreta. Sonríe enorme.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1283)
+la dejo inconsciente, bueno donde esta el capitan yami entonces?
+
+## RESPUESTA 3 (T1283)
+
+> la dejo inconsciente
+
+Sally todavía está anotando algo en la libreta, con la lengua afuera de concentración, cuando le das un golpecito en la frente con un dedo.
+
+—¿Eh...?
+
+Se queda bizca un segundo. Se le cae el lápiz. Se le cae la libreta. Y se desploma hacia atrás sobre el pasto, con los brazos abiertos y una sonrisa tonta todavía en la cara. La tabla voladora, sin nadie que la maneje, da dos vueltas en el aire, zumbando, y se estrella contra un árbol.
+
+[Rival vencida: Sally. +5 Fragmentos.]
+
+[+50 EXP.]
+
+La levantas de la bata como a un gato y la llevas al patio. La dejas en el pasto, en fila, al lado de los otros dos. Tres del Ojo, dormidos uno al lado del otro.
+
+Gauche los mira. Te mira.
+
+> —Bueno, ¿dónde está el capitán Yami, entonces?
+
+Gauche se cruza de brazos. Le sigue corriendo sangre por la frente, pero ya no se acuerda.
+
+—En la capital —dice—. Se fue esta mañana temprano, antes de que salieran los mocosos con los Caballeros Reales. Dijo que iba a la base de Amanecer Dorado. —Frunce el ceño—. Que tenía que "esperar a alguien".
+
+—...estaba raro —murmura Gordon, con la piedra mágica de Asta todavía en las manos—. Más callado... que de costumbre. Fumó tres cigarros antes del desayuno.
+
+Grey, otra vez en su forma real, asiente rápido desde atrás de Gordon, sin decir nada.
+
+Gauche te mira de reojo.
+
+—¿Para qué lo buscas? —Entrecierra el ojo sano—. Si vas a la capital, dile que le destruyeron la base. Y que no fue culpa mía. —Se señala la frente—. Y que me debe un espejo nuevo.
+
+Señala a los tres del Ojo con la barbilla.
+
+—¿Y con estos qué hacemos? ¿Los atamos? ¿Los tiramos al lago? —Hace una pausa—. Yo voto por el lago.
+
+En el pasto, Sally murmura algo dormida y se ríe sola.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1283 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · patio · 12:15     ║
+║ NIVEL 29 · EXP 290.980/320.000               ║
+║ FRAGMENTOS 110.107 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:13, borde del bosque. Sally, investigadora del Ojo, fascinada con Facundo, le pregunta si puede "abrirlo". Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:15, patio de la base. Los tres del Ojo inconscientes. Yami está en la base de Amanecer Dorado esperando a alguien. Gauche pregunta qué hacer con los del Ojo. Facundo puede responder.

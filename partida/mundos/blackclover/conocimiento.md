@@ -38,3 +38,4 @@
 - Gauche, Gordon, Grey · T1281 · vieron a Facundo traer a Valtos inconsciente desde el 2.º piso. Gordon tiene la piedra mágica de Asta.
 - Facundo · T1281 · vio la forma real de Grey (chica bajita, pelo largo oscuro). Oyó a la recién llegada nombrar a "Rades", "Valtos" y "Licht-sama".
 - Sally · T1282 · vio a Facundo aparecer de la nada; heterocromía "de nacimiento"; no le puede leer el maná (Velo); deduce que él venció a No.0, Rades y Valtos. Lo anota en una libreta.
+- Facundo · T1283 · por Gauche y Gordon: Yami fue esta mañana a la base de Amanecer Dorado (capital) a "esperar a alguien"; estaba raro, fumó tres cigarros antes del desayuno.

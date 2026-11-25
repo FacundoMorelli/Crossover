@@ -7,4 +7,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T1282 · "¡Sally! ¡La investigadora más brillante del Ojo del Sol de Medianoche! ¡Y la más linda!" "¡Heterocromía completa! ¡Y no te puedo leer el maná!" "¡Olvídate del enano antimagia! ¡Tú eres mucho más interesante!" "¿Puedo abrirte? Aunque sea un poquito."
 - T1281 · "¡Rades! ¡Valtos! ¿Ya tienen la piedra? ¡Quiero ver al enano antimagia antes de que llegue Licht-sama! ¡Quiero abrirlo!"
-ESTADO: Frente a Facundo en el borde del bosque (T1282).
+ESTADO: Inconsciente en el patio de la base, en fila con Rades y Valtos (T1283). Su tabla voladora, estrellada contra un árbol.
