@@ -17,3 +17,7 @@
 - Kakashi, Yamato · T1311 · por Facundo: la semilla se llama "semilla del ermitaño" donde él viene; cura heridas y recupera energía. Lo vieron funcionar en Kakashi (pierna sana, chakra lleno). Kakashi la relaciona con los ermitaños (monte Myōboku).
 - Kakashi, Yamato · T1312 · Facundo les dio 44 semillas del ermitaño en una bolsa (sabe que hay una "médica que no despierta": deducción por lo que dijo Kakashi en T1310).
 - Facundo · T1312 · por Kakashi: la médica es Tsunade, la Hokage; curó a toda la aldea con una babosa gigante y quedó en coma; está en la carpa de la colina.
+- Dos ANBU de la carpa de la colina · T1313 · vieron entrar a Facundo con Kakashi.
+- Shizune · T1313 · por Kakashi: Facundo es viajero; le dio una semilla que lo curó. Vio a Tsunade despertar con ella.
+- Tsunade · T1313 · vio a Facundo en persona al despertar. No sabe nada de él.
+- Katsuyu (fragmento) · T1313 · vio a Facundo; Katsuyu comparte lo que ven sus partes.

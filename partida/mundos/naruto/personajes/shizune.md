@@ -1,0 +1,14 @@
+NOMBRE: Shizune
+AFILIACIÓN: Konoha
+RANGO: jōnin, ninja médica, asistente de Tsunade
+EDAD EN ESTE MOMENTO DEL CANON: ~31
+FÍSICO: Pelo negro corto, ojeras. Cerdita Tonton en el regazo.
+PERSONALIDAD Y FORMA DE HABLAR: Responsable, nerviosa, leal a Tsunade; "Tsunade-sama", "Kakashi-san".
+RELACIÓN CON FACUNDO: recelosa.
+ENCUENTROS:
+- T1313 · Carpa de la colina, cuidando a Tsunade. Se opone a darle algo de un desconocido; cede ante Kakashi ("Ayer no podía ni sentarme"). Ayuda a que Tsunade trague.
+DIÁLOGOS CLAVE:
+- T1313 · "¿Quién es él?" "Kakashi-san, no puedes darle a Tsunade-sama algo que trajo un descono..." "Tiene que tragar."
+QUÉ SABE DE FACUNDO: por Kakashi: viajero; le dio la semilla que lo curó.
+QUÉ PODERES DE FACUNDO VIO: ninguno
+ESTADO: activa (murió y revivió en la invasión).

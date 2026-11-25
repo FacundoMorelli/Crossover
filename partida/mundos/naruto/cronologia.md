@@ -16,3 +16,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - Tobi reorganiza Akatsuki (Tobi, Zetsu, Kisame + Taka). Kabuto avanza con el Edo Tensei.
 ## LO QUE CAMBIÓ
 (nada todavía)
+- T1313 · Día 1 08:21 · Tsunade despierta del coma (semilla de Facundo). Cambia: la Hokage está en pie antes de la Cumbre; la designación de Danzō como Sexto pierde sostén.

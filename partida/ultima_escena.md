@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1310)
-
-antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
-
-## RESPUESTA 1 (T1310)
-
-> antes de responder eso toma, le doy una semilla, cometela. Vine a conocer y a ayudar en lo que pueda
-
-> —Antes de responder eso, toma. Cómetela. —Le das una semilla—. Vine a conocer y a ayudar en lo que pueda.
-
-Metes la mano en el bolsillo del sobretodo y la sacas con una semilla chiquita entre los dedos, verde pálido, del tamaño de un poroto. Se la extiendes.
-
-Yamato da medio paso adelante.
-
-—Senpai.
-
-Kakashi levanta una mano, sin mirarlo, y Yamato se queda donde está.
-
-Toma la semilla. La pone en la palma y la mira de cerca, la hace rodar con el pulgar. La acerca a la máscara y la huele. No huele a nada.
-
-—En la academia, lo primero que nos enseñan es a no comer cosas que nos da un desconocido —dice—. Lo segundo es que, si alguien quiere envenenar a un ninja, no se lo da en la mano delante de un testigo y de un gato.
-
-Se queda mirándola un rato más. Después te mira a ti, por encima de la semilla.
-
-—Conocer y ayudar. —El ojo se le arruga otra vez—. Bueno, ayuda aquí nunca sobra. Hay medio pueblo durmiendo en carpas, y la que podía curarnos a todos está en coma desde hace dos días. Nos faltan médicos, nos faltan manos y nos faltan casas. Si viniste a ayudar, viniste al lugar correcto.
-
-Afuera de la carpa pasa alguien cargando una pila de tablas que se le cae con estrépito. Alguien se ríe. Kakashi no se distrae.
-
-Cierra los dedos sobre la semilla.
-
-—Antes de comer nada, dime qué es —pide—. Y dime cómo sabías que la necesitaba. No me levanté del catre desde que entraste.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1310 · NARUTO · DÍA 1 · 08:08          ║
-║ Konoha · campamento · carpa de mando         ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1311)
+## COMANDO 1 (T1311)
 
 por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
 
-## RESPUESTA 2 (T1311)
+## RESPUESTA 1 (T1311)
 
 > por que dijiste que reviviste hace 2 dias, dudo que una persona asi este bien actualmente, y de donde vengo se llama semilla del ermitaño, cura heridas y recupera tu energia
 
@@ -105,11 +56,11 @@ Se queda mirándote un rato largo. Ya no tiene cara de aburrido.
 
 ---
 
-## COMANDO 3 (T1312)
+## COMANDO 2 (T1312)
 
 saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
 
-## RESPUESTA 3 (T1312)
+## RESPUESTA 2 (T1312)
 
 > saco una bolsa, aca tienen 44, 1 mas para la medica que dicen que no despierta
 
@@ -158,4 +109,89 @@ Te mira. El ojo ya no se le arruga.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:12, carpa de mando. Facundo dio 44 semillas. Yamato salió con 43 a la carpa médica del este. Kakashi guardó 1 para Tsunade (en coma, carpa de la colina) y le pide a Facundo que lo acompañe: "¿Vienes?" Facundo tiene que contestar.
+## COMANDO 3 (T1313)
+
+esta bien
+
+## RESPUESTA 3 (T1313)
+
+> esta bien
+
+> —Está bien.
+
+Kakashi asiente una vez y sale de la carpa sin decir más. Camina rápido, con la pierna sana, y a cada paso parece acordarse de que no le duele.
+
+La carpa de la colina está apartada del resto, sobre una loma desde donde se ve el cráter entero. Hay dos ninjas con máscaras de animal parados en la entrada. Cuando ven a Kakashi se corren; cuando te ven a ti, uno da un paso para cerrarte el paso.
+
+—Viene conmigo —dice Kakashi.
+
+El de la máscara duda. Se corre.
+
+Adentro huele a hierbas medicinales y a alcohol de curar. En un futón, en medio de la carpa, hay una mujer rubia, con dos coletas largas sobre la almohada y un rombo violeta en la frente. Está muy quieta, pálida, con las manos cruzadas sobre el pecho. Sobre su hombro descansa una babosa blanca y celeste del tamaño de una mano, que levanta las antenas cuando entran.
+
+╔══════════════════════════════════════════════╗
+║ TSUNADE                                      ║
+║ Quinta Hokage · una de los Tres Sannin       ║
+║ PODER: Ninjutsu médico, fuerza monstruosa,   ║
+║        Sello de los Cien (Byakugō),          ║
+║        invocación de Katsuyu                 ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verla en acción)               ║
+║ Estado: coma por agotamiento de chakra       ║
+╚══════════════════════════════════════════════╝
+
+A su lado, de rodillas, una mujer de pelo negro corto, con un cerdito rosado dormido en el regazo, le cambia un paño húmedo de la frente. Levanta la vista. Tiene ojeras de días.
+
+—Kakashi-san. ¿Qué haces parado? Tenías que...
+
+Se frena. Te ve.
+
+—¿Quién es él?
+
+—Un viajero —dice Kakashi—. Shizune, no hay tiempo para explicarte bien, así que te lo explico mal: me dio esto, me lo comí, y mírame.
+
+Se agacha junto al futón, abre el puño y le muestra la semilla. Shizune la mira, lo mira a él, te mira a ti.
+
+—Kakashi-san, no puedes darle a Tsunade-sama algo que trajo un descono...
+
+—Shizune. —Kakashi la mira a los ojos—. Ayer no podía ni sentarme.
+
+Shizune se queda callada. La babosa sobre el hombro de Tsunade gira las antenas hacia ti.
+
+—Tiene que tragar —dice Shizune al fin, con la voz chiquita.
+
+Kakashi parte la semilla con los dedos, la muele con el mango de un kunai sobre un cuenco, la mezcla con un poco de agua y le levanta la cabeza a Tsunade con una mano. Shizune le abre la boca con cuidado, y entre los dos le hacen tragar de a sorbos.
+
+Pasa un segundo. Pasan dos.
+
+A Tsunade se le colorean las mejillas. Las manos sobre el pecho se le mueven. Respira hondo, una vez, como alguien que sale del agua.
+
+Abre los ojos. Son color miel, y están furiosos, y confundidos, y vivos.
+
+—¿Dónde...? —Se incorpora de golpe sobre un codo, y Shizune ahoga un grito—. ¡La aldea! ¿Y Naruto? ¡¿Dónde está Naruto?!
+
+Mira a Shizune, mira a Kakashi, de pie y sin vendas. Y después mira, detrás de ellos, a un desconocido de pelo blanco y azul, con un ojo rojo, un ojo azul y un gato enorme en el cuello.
+
+Entrecierra los ojos.
+
+—¿Y tú quién demonios eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1313 · NARUTO · DÍA 1 · 08:21          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:21, carpa de la colina. Kakashi le dio la semilla molida a Tsunade (Shizune ayudó). Tsunade despertó, pregunta por la aldea y por Naruto, y le pregunta a Facundo: "¿Y tú quién demonios eres?" Presentes: Tsunade, Shizune (Tonton), Kakashi, Katsuyu chiquita; dos ANBU en la entrada. Facundo tiene que contestar.
