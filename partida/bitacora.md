@@ -1092,3 +1092,4 @@ T1090 · BnHA · Comisaría Central · "Los acompaño." Tsukauchi (detecta menti
 T1091 · BnHA · Comisaría · "Don de hielo y fuego en los ojos. Soy un viajero." Tsukauchi: "Verdad." "¿Cómo llegaste a ese banco?"
 T1092 · BnHA · Comisaría · "Me teletransporté." Tsukauchi: tres poderes, como los Nomu y All For One. Entra All Might (Toshinori): "¿Alguien te dio esos poderes?"
 T1093 · BnHA · Comisaría · "Nadie me los dio. Los tengo desde siempre." Tsukauchi: "Verdad." All Might, aliviado. Video con 16.000 reproducciones. "¿Qué viniste a hacer a Japón?"
+T1094 · BnHA · Comisaría · "Solo vine a ayudar." Tsukauchi: "Verdad." All Might: "¿Vienes conmigo a la U.A.?" (Nezu).

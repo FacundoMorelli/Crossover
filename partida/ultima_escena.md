@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1091)
-un don de hielo y fuego en los ojos, soy un viajero
-
-## RESPUESTA 1 (T1091)
-
-> un don de hielo y fuego en los ojos, soy un viajero
-
-> —Un Don de hielo y fuego, en los ojos. Soy un viajero.
-
-Tsukauchi te mira a los ojos. El rojo. El azul. Se queda así un momento largo, con las manos juntas sobre la carpeta.
-
-—Verdad —dice al fin. Lo dice en voz baja, para sí mismo, y anota algo en la hoja—. Las dos cosas.
-
-Golpea la lapicera contra la mesa, una vez, dos.
-
-—Hielo y fuego —repite—. En los ojos. —Levanta la vista—. Tenemos un caso parecido en el registro: el hijo menor del héroe número uno tiene un Don de mitad hielo, mitad fuego. Pero el suyo sale del cuerpo, no de los ojos. —Hace una pausa—. Y el villano del banco no estaba ni quemado ni congelado. Estaba dormido. Como si lo hubieran apagado.
-
-Te mira las manos, apoyadas en la mesa.
-
-—Ese golpe no fue tu Don. Fue tu fuerza. —No lo pregunta—. Y la señora del banco jura que apareciste de la nada, "así, puf". Un empleado de la tienda de enfrente dice lo mismo: que estabas en la vereda y que, un segundo después, ya no estabas.
-
-Cierra la carpeta.
-
-—Hielo y fuego en los ojos no explica eso.
-
-Se queda callado. Mira de reojo el espejo de la pared, un segundo. Después vuelve a ti.
-
-—No me has mentido ni una vez, Facundo. Y no creo que lo vayas a hacer. —Tiene la voz tranquila, casi amable—. Así que te pregunto directamente: ¿cómo llegaste a ese banco?
-
-Kase, en la silla de al lado, bosteza y se acomoda para dormir.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1091 · BOKU NO HERO · DIC. · 09:43     ║
-║ Musutafu · Comisaría Central, sala de        ║
-║ interrogatorio                               ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: durmiendo en la silla                  ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1092)
+## COMANDO 1 (T1092)
 me teletransporte
 
-## RESPUESTA 2 (T1092)
+## RESPUESTA 1 (T1092)
 
 > me teletransporte
 
@@ -117,10 +67,10 @@ Se le tensa la mandíbula.
 
 ---
 
-## COMANDO 3 (T1093)
+## COMANDO 2 (T1093)
 no, nadie me los dio, los tengo desde siempre
 
-## RESPUESTA 3 (T1093)
+## RESPUESTA 2 (T1093)
 
 > no, nadie me los dio, los tengo desde siempre
 
@@ -175,4 +125,64 @@ Kase abre un ojo en la silla, mira al hombre flaco, y lo vuelve a cerrar.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 09:47, sala de interrogatorio. Tsukauchi confirmó que nadie le dio los poderes; All Might, aliviado. Queda el vigilantismo y el video viral. All Might le pregunta qué vino a hacer a Japón. Facundo puede responder.
+## COMANDO 3 (T1094)
+soy un viajero, solo vine a ayudar
+
+## RESPUESTA 3 (T1094)
+
+> soy un viajero, solo vine a ayudar
+
+> —Soy un viajero. Solo vine a ayudar.
+
+—Verdad —dice Tsukauchi. Esta vez sin pausa, casi enseguida, como si ya lo esperara.
+
+All Might se queda mirándote un momento largo. Después se ríe, bajito, una risa ronca que le sacude los hombros flacos y termina en una tos. Se limpia la boca con un pañuelo.
+
+—Solo vino a ayudar —repite, divertido—. Sin papeles. Sin nombre en ningún lado. Sin pedir permiso. —Mira a Tsukauchi—. ¿Te acuerdas de lo que decía yo a su edad, Tsukauchi?
+
+—Decías cosas peores —dice Tsukauchi—. Y más fuerte.
+
+All Might guarda el pañuelo. Junta las manos sobre la mesa.
+
+—Mira, joven Morelli. Hay una cosa que yo puedo hacer, y una que no. —Levanta un dedo huesudo—. No puedo borrar lo del banco. Usaste un Don en la calle, sin licencia, y hay dieciséis mil personas que lo vieron. Eso no desaparece. —Levanta otro dedo—. Pero puedo llevarte a alguien que sí sabe qué hacer con los casos imposibles.
+
+Se pone de pie. Le cuesta. Se apoya en la mesa.
+
+—El director de la escuela donde enseño. La U.A. —Se acomoda el traje enorme sobre los hombros—. Se llama Nezu. Es... especial. Le encantan los problemas que no tienen solución. Y tiene contactos en la Comisión que nadie más tiene. Si alguien puede conseguirle un papel a un joven que no existe, es él.
+
+Mira a Tsukauchi.
+
+—Si el detective está de acuerdo, lo llevo bajo mi responsabilidad.
+
+Tsukauchi te mira. Después a All Might. Suspira.
+
+—Bajo tu responsabilidad, Toshinori. Si mañana aparece en el noticiero tirando villanos desde los techos, la culpa es tuya.
+
+—Aceptado.
+
+All Might te tiende la mano, flaca, huesuda, pero firme.
+
+—¿Vienes conmigo a la U.A., joven Morelli?
+
+Kase abre los dos ojos en la silla. Se estira. Lo mira a All Might de arriba abajo, con las pupilas finas como agujas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1094 · BOKU NO HERO · DIC. · 09:50     ║
+║ Musutafu · Comisaría Central, sala de        ║
+║ interrogatorio                               ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la silla, despierto                 ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 09:50, sala de interrogatorio. All Might ofrece llevarlo a la U.A. con el director Nezu (bajo su responsabilidad; Tsukauchi acepta). Le tiende la mano: "¿Vienes conmigo a la U.A.?" Facundo puede responder.
