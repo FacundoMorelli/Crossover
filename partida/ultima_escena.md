@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1174)
-hago lo mismo con touka
-
-## RESPUESTA 1 (T1174)
-
-> hago lo mismo con Touka
-
-Le apoyas la palma en la frente, debajo del flequillo.
-
-Touka no cierra los ojos. Te sostiene la mirada todo el tiempo, desafiante, con los dientes apretados, como si fuera una pelea y no pensara perderla.
-
-Su alma es filosa. Chica, compacta y llena de bordes, como un erizo que se enrolla. Por dentro hay paredes levantadas una encima de otra, muchas, para que nada entre. Y en el centro, el anzuelo, igual de grande que en los demás, clavado desde siempre. Alrededor del anzuelo hay otra cosa, pegada como una costra: años enteros de tragar comida que le daba asco, sonreír en una mesa de escuela y después encerrarse en un baño.
-
-Sacas el anzuelo. Alisas el borde. Y donde estaba la costra, devuelves el gusto.
-
-No tocas las paredes. Son suyas.
-
-Touka abre la boca de golpe, como si le hubieran sacado el aire de un puñetazo. Se le dilata la pupila del ojo gris. Se lleva una mano al estómago, igual que Kaneki anoche, y la deja ahí, apretada.
-
-Se queda así un segundo. Dos.
-
-Después se levanta de la mesa baja tan rápido que casi la tira. Te da la espalda.
-
-—Tengo que abrir —dice, con la voz rara, demasiado aguda—. Ya es tarde.
-
-Pasa junto a Kaneki en la escalera sin mirarlo, casi empujándolo, y baja los escalones de dos en dos. Kaneki se queda mirándola irse y después te mira a ti, con una sonrisa chica y triste que no sabe dónde poner.
-
-Desde abajo llega el ruido de una puerta que se cierra fuerte. El baño, al fondo del local. Y después, nada.
-
-Un momento más tarde, la voz de Yoshimura sube por la escalera, tranquila, como si no hubiera escuchado nada:
-
-—Señor viajero. El café está listo. ¿Va a bajar a desayunar?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1174 · TOKYO GHOUL · MAÑANA · 07:17    ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá                             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1175)
+## COMANDO 1 (T1175)
 bajo a desayunar
 
-## RESPUESTA 2 (T1175)
+## RESPUESTA 1 (T1175)
 
 > bajo a desayunar
 
@@ -99,10 +49,10 @@ Deja el repasador.
 
 ---
 
-## COMANDO 3 (T1176)
+## COMANDO 2 (T1176)
 JAJAJAJA, tiene razon, me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1176)
+## RESPUESTA 2 (T1176)
 
 > —¡Jajajaja! Tiene razón. Me llamo Facundo Morelli.
 
@@ -139,7 +89,53 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1177)
+si, sin problema, y no soy de aqui pero seria de Argentina
+
+## RESPUESTA 3 (T1177)
+
+> —Sí, sin problema. Y no soy de aquí, pero sería de Argentina.
+
+Touka deja de frotar la mesa.
+
+No se da vuelta. Se queda con el trapo apoyado en la madera, quieta, escuchando.
+
+Yoshimura tampoco dice nada enseguida. Se quita los lentes, despacio, y los limpia con una punta del repasador, aunque no tienen nada. Cuando vuelve a ponérselos, la cara amable sigue ahí, pero algo detrás de ella se quedó muy quieto, como alguien que tiene miedo de moverse y que se rompa lo que tiene en las manos.
+
+—Sin problema —repite, en voz muy baja.
+
+Asiente una vez. Otra.
+
+—Argentina. —Sonríe un poco—. Está muy lejos. Del otro lado del mundo, si no me equivoco. Allá toman una infusión de hierbas en una calabaza, con una bombilla de metal. Lo leí hace muchos años en una revista. Siempre quise probarla.
+
+Deja el repasador sobre la barra, doblado en cuatro.
+
+—Los primeros llegan a las diez, por la puerta del callejón. La señora Kimura y su hijo, casi siempre. Él tiene doce años y todavía no sabe usar su kagune. —Hace una pausa—. Después vienen otros, de a uno, durante todo el día. No todos confían en mí. No van a confiar en usted.
+
+Mira el reloj de pared. Las siete y veintitrés.
+
+—Morelli-san. ¿Me acompañaría a esa puerta a las diez?
+
+Detrás de él, Touka vuelve a frotar la mesa, más fuerte que antes.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1177 · TOKYO GHOUL · MAÑANA · 07:23    ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:22, barra de Anteiku. Yoshimura pregunta si Facundo transfiguraría también a los ghouls que vienen a buscar paquetes de comida. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:23, barra de Anteiku. Yoshimura pide que Facundo lo acompañe a la puerta del callejón a las diez. Facundo puede responder.

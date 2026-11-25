@@ -40,3 +40,5 @@
 - Touka, Kaneki, el de cara redonda · T1174 · Facundo transfiguró a Touka con la palma en la frente (ella lo sintió por dentro). Yoshimura oyó desde abajo (oído de ghoul) al menos que Touka bajó y se encerró en el baño.
 - Yoshimura, Touka (en el salón; oído de ghoul), y probablemente los de arriba (paredes finas) · T1176 · Facundo dijo su nombre: Facundo Morelli.
 - Facundo · T1176 · por Yoshimura: por la puerta de atrás vienen ghouls a buscar paquetes de comida todos los días (viejos, madres, muchachos).
+- Yoshimura, Touka · T1177 · Facundo dice que sería de Argentina. Aceptó transfigurar a los ghouls que vienen por los paquetes.
+- Facundo · T1177 · por Yoshimura: los primeros llegan a las 10 por la puerta del callejón (señora Kimura y su hijo de 12, que no sabe usar el kagune); otros durante el día; no todos confían.

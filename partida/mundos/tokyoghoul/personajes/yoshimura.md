@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1177 · "Sin problema." "Argentina. Está muy lejos. Allá toman una infusión de hierbas en una calabaza, con una bombilla de metal. Siempre quise probarla." "Morelli-san. ¿Me acompañaría a esa puerta a las diez?"
 - T1176 · "Facundo Morelli. No es un nombre de aquí. Mucho gusto, Morelli-san. Yoshimura." "Lo que hizo arriba anoche... Si se lo pidiera, ¿lo haría con ellos también?"
 - T1175 · "Le serví café, le di un sofá, le confié a mis muchachos, y usted le devolvió el gusto por la comida a mi mesera. Y todavía no sé cómo se llama."
 - T1174 · "Señor viajero. El café está listo. ¿Va a bajar a desayunar?"
@@ -20,6 +21,6 @@ DIÁLOGOS CLAVE:
 - T1158 · "Ukaku, koukaku, rinkaku, bikaku. En setenta años nunca vi a un ghoul con más de uno. Ni a uno que oliera a humano. Y tampoco vi nunca un kagune que no tuviera hambre."
 - T1157 · "Me llamo Yoshimura. Soy el gerente de este lugar." "Usted es humano, ¿verdad? Huele como uno." "Me gustaría saber qué busca un humano como usted en un lugar como este."
 - T1156 · "Kaneki me dice que fue usted quien los trajo. A todos. Pasen, por favor. Les voy a preparar café."
-QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1176). Por Kaneki: trajo a todos y salvó a un investigador de Clase Especial delante de él. Huele y respira como humano (T1157).
+QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1176); dice ser de Argentina (T1177). Por Kaneki: trajo a todos y salvó a un investigador de Clase Especial delante de él. Huele y respira como humano (T1157).
 QUÉ PODERES VIO: Ninguno (lo "miró" con su presencia). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
 ESTADO: Detrás de la barra de Anteiku; no negó ser el Búho (T1160); agradeció la promesa de Facundo (T1161).
