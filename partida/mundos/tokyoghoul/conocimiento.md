@@ -134,3 +134,5 @@
 - Facundo · T1232 · por Washuu: la orden la firmó su padre, presidente de la CCG; hay 400 investigadores en el distrito; "hay gente" (la familia Washuu) con ganas de conocerlo.
 - Facundo · T1233 · Tasación de Arima (Clase Especial, Escuadrón 0, IXA y Narukami). Por Washuu: su padre no pisa la calle hace 30 años.
 - Arima · T1233 · vio a Facundo (esposado, gato) en la carpa; Washuu se lo presentó como "el viajero". (Washuu le informó antes, presumiblemente.)
+- Arima, Washuu y los presentes · T1234 · Facundo dice que lee mucho y le gusta conocer el lugar al que viaja.
+- Washuu Tsuneyoshi (presidente) · T1234 · por Yoshitoki (teléfono): un humano esposado sin reacción a las esposas, 27 dormidos sin muertos, el Búho dentro de una pared. Pide hablar con Facundo.

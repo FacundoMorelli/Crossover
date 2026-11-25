@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1231)
-esta bien
-
-## RESPUESTA 1 (T1231)
-
-> —Está bien.
-
-—Excelente.
-
-Washuu se hace a un lado para dejarte pasar.
-
-Adentro, la carpa es más grande de lo que parece. Hay una mesa larga en el centro, cubierta de mapas del Distrito 20 con alfileres de colores clavados en cada esquina, y tres pantallas que muestran imágenes en blanco y negro de cámaras de seguridad: calles vacías, humo, investigadores corriendo. En una de ellas se ve la fachada de Anteiku, de noche, con la luz de adentro encendida. Hay gente detrás del vidrio. No se distingue quién.
-
-En una esquina, sobre una mesa plegable, hay un termo de metal, tazas de porcelana blanca y una caja de té de buena marca. Fuera de lugar, como un mantel bordado en una trinchera.
-
-Washuu sirve él mismo. Dos tazas. Te deja una sobre la mesa de los mapas, justo encima del dibujo de la avenida 3.
-
-—Siéntese, por favor.
-
-Hay una silla plegable. Shinohara se queda de pie, a un metro de ti, con el casco en la mano. Houji y Kuroiwa, en la entrada de la carpa. El hombre del cigarrillo apagado entra último y se apoya en un poste, de brazos cruzados.
-
-Washuu se sienta frente a ti. Toma un sorbo de té. Deja la taza sin hacer ruido.
-
-—Le voy a hablar con franqueza, porque me parece que usted lo prefiere así. —Junta las yemas de los dedos—. Hace cuatro días llegó a mi escritorio un informe curioso. Un muchacho de ojos de dos colores, con un gato, que les quitaba el hambre a los ghouls en la puerta trasera de un café del Distrito 20. Lo archivé como un rumor. Los rumores de ese tipo aparecen todos los años.
-
-Señala, sin mirarla, la pantalla donde se ve la fachada de Anteiku.
-
-—Esta tarde, ese mismo muchacho durmió a veintisiete de mis hombres sin tocarlos. Destruyó una quinque de primera línea con la mano. Detuvo otra con la palma. Y se llevó al Búho, al ghoul más buscado de Japón, a ese café, donde según mis hombres hay una pared que no se ve y que ninguna quinque puede cruzar.
-
-Hace una pausa breve.
-
-—Y ahora está sentado en mi carpa, esposado, tomando mi té. Por propia voluntad.
-
-Te mira por encima de los lentes. La sonrisa educada no se le mueve ni un milímetro.
-
-—Así que, antes de hablar de condiciones, me gustaría entender una sola cosa. —Inclina apenas la cabeza—. ¿Qué es usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1231 · TOKYO GHOUL · DÍA 6 · 18:11     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Esposas de supresión: puestas (sin efecto)   ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: negociar con Washuu                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1232)
+## COMANDO 1 (T1232)
 soy un humano viajero
 
-## RESPUESTA 2 (T1232)
+## RESPUESTA 1 (T1232)
 
 > —Soy un humano viajero.
 
@@ -117,10 +61,10 @@ Washuu toma la taza otra vez.
 
 ---
 
-## COMANDO 3 (T1233)
+## COMANDO 2 (T1233)
 no, ya lo dije, no voy a entregar a nadie, dile al presidente que venga
 
-## RESPUESTA 3 (T1233)
+## RESPUESTA 2 (T1233)
 
 > —No. Ya lo dije: no voy a entregar a nadie. Dile al presidente que venga.
 
@@ -189,7 +133,59 @@ Arima no saluda. No se presenta. Inclina la cabeza un poco hacia un lado, como u
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1234)
+leo mucho si, me gusta conocer al lugar al que viajo
+
+## RESPUESTA 3 (T1234)
+
+> —Leo mucho, sí. Me gusta conocer el lugar al que viajo.
+
+Arima te mira un rato más.
+
+No asiente. No sonríe. Pero algo en la cara vacía se mueve, muy poco, como la superficie de un lago cuando cae una hoja.
+
+—Entonces ya sabes cómo terminan casi todas las historias de este lugar —dice. Lo dice sin amenaza, sin tristeza, como quien comenta el clima—. Mal. Para casi todos.
+
+Se da vuelta hacia la mesa de los mapas. Mira la pantalla donde se ve la fachada de Anteiku. La mira mucho tiempo.
+
+—Ese café hace buen café —dice, a nadie en particular.
+
+Detrás de él, Washuu ya tiene el teléfono en la oreja. Marcó mientras Arima hablaba. Habla en voz baja, de espaldas, con frases cortas y respetuosas. Se oye, aunque no del todo: "...un humano... sí, esposado... no, ninguna reacción... veintisiete... ninguno muerto... sí, el Búho está adentro... una pared... no lo sé, Presidente... sí... sí, entiendo..."
+
+Se queda callado un momento largo, escuchando.
+
+Después se da vuelta. Baja el teléfono. Tiene la misma sonrisa educada de siempre, pero algo detrás de los lentes cambió. Algo que se parece mucho a la sorpresa.
+
+Camina hasta tu silla y te ofrece el teléfono, con la pantalla iluminada hacia arriba.
+
+—Mi padre quiere hablar con usted —dice—. Directamente.
+
+Shinohara, a tu lado, cierra los ojos un segundo. Kuroiwa, en la entrada, se cruza de brazos. Houji se acomoda los anteojos.
+
+Arima no se da vuelta. Sigue mirando la pantalla de Anteiku.
+
+Del parlante del teléfono sale el silencio de una línea abierta. Alguien, del otro lado, espera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1234 · TOKYO GHOUL · DÍA 6 · 18:17     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, lomo erizado             ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con el presidente         ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:15, carpa central. Washuu va a llamar al presidente. Entró Kishou Arima y le pregunta a Facundo "¿Te gusta leer?". Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:17, carpa central. Washuu le ofrece el teléfono: el presidente de la CCG quiere hablar directamente con Facundo. Facundo puede actuar.

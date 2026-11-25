@@ -7,6 +7,7 @@ PERSONALIDAD Y FORMA DE HABLAR: Casi no habla; preguntas inesperadas.
 ENCUENTROS:
 - T1233 · Carpa central del puesto de mando · Entra; se para a 2 m de Facundo; lo estudia. Kase se eriza.
 DIÁLOGOS CLAVE:
+- T1234 · "Entonces ya sabes cómo terminan casi todas las historias de este lugar. Mal. Para casi todos." "Ese café hace buen café."
 - T1233 · "¿Te gusta leer?"
 QUÉ SABE DE FACUNDO: Lo que le haya dicho Washuu; "el viajero".
 ESTADO: Carpa central.
