@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1088)
-me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
-
-## RESPUESTA 1 (T1088)
-
-> me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
-
-Desapareces de la vereda.
-
-Apareces adentro del banco.
-
-Vidrios rotos por todo el piso. Una alarma que chilla sin parar. Cinco empleados tirados detrás del mostrador con las manos en la cabeza, una señora mayor abrazada a su cartera contra la pared, un guardia de seguridad desmayado al lado de la puerta con la gorra a un metro de la cabeza.
-
-Y en el medio, un hombre enorme, de pasamontañas, con el brazo derecho convertido en una masa de roca gris del tamaño de un barril, levantándolo para reventar la puerta de la bóveda.
-
-Ni siquiera te ve.
-
-Le das un golpe en la nuca. Uno, seco, con el canto de la mano.
-
-La roca del brazo se le deshace en grava, como si fuera arena seca, y cae al piso en una lluvia de piedritas. Él cae detrás, de cara, entero, sobre los vidrios. No se mueve.
-
-[Rival vencido: villano de Musutafu (Don: brazo de roca). +30 EXP · +1 Fragmento.]
-
-La alarma sigue chillando.
-
-Detrás del mostrador, una empleada joven, de uniforme celeste y pelo atado, levanta la cabeza despacio. Te mira. Mira al villano en el piso. Te mira otra vez. A Kase.
-
-> —Perdón, pero... ¿dónde estoy?
-
-Ella parpadea.
-
-—¿Eh...? En... en el Banco Musutafu Norte. —Tiene la voz finita, temblorosa—. Sucursal de la colina. —Traga saliva—. Ciudad de Musutafu. Prefectura de... ¿estás bien? ¿Te golpeaste la cabeza?
-
-Afuera, una sirena. Una camioneta que frena de golpe en la nieve.
-
-Un hombre entra por la puerta destrozada. Grande, musculoso, con un traje de héroe ajustado negro y amarillo, un casco con visor y unos brazos enormes, de bíceps del tamaño de cabezas. Mira el banco. Mira al villano tirado. Te mira a ti, parado al lado, con un gato en el hombro.
-
-—¡Death Arms, héroe profesional! —Se detiene en seco, con los puños en alto—. ¡Que nadie se...!
-
-Se calla. Mira al villano otra vez. La grava en el piso.
-
-—¿Tú lo derribaste? —Baja los puños, despacio, sin dejar de mirarte—. Con un Don.
-
-La empleada asiente detrás del mostrador, rápido, como si eso ayudara.
-
-Death Arms frunce el ceño detrás del visor.
-
-—Muchacho, ¿tienes licencia de héroe? —Da un paso hacia ti—. Porque si no la tienes, lo que acabas de hacer es ilegal.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1088 · BOKU NO HERO · DIC. · 08:42     ║
-║ Musutafu · Banco Musutafu Norte              ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1089)
+## COMANDO 1 (T1089)
 no se donde estoy, soy un viajero, no conozco nada de aca
 
-## RESPUESTA 2 (T1089)
+## RESPUESTA 1 (T1089)
 
 > no se donde estoy, soy un viajero, no conozco nada de aca
 
@@ -119,10 +52,10 @@ Detrás de él, en la vereda, se juntan curiosos con los celulares levantados. A
 
 ---
 
-## COMANDO 3 (T1090)
+## COMANDO 2 (T1090)
 me llamo Facundo Morelli, no tengo documentos, los acompaño
 
-## RESPUESTA 3 (T1090)
+## RESPUESTA 2 (T1090)
 
 > me llamo Facundo Morelli, no tengo documentos, los acompaño
 
@@ -177,4 +110,54 @@ Se recuesta en la silla.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 09:40, sala de interrogatorio de la Comisaría Central de Musutafu. El detective Tsukauchi (detecta mentiras) le dice que no existe en ningún registro y le pregunta qué Don tiene. Facundo puede responder.
+## COMANDO 3 (T1091)
+un don de hielo y fuego en los ojos, soy un viajero
+
+## RESPUESTA 3 (T1091)
+
+> un don de hielo y fuego en los ojos, soy un viajero
+
+> —Un Don de hielo y fuego, en los ojos. Soy un viajero.
+
+Tsukauchi te mira a los ojos. El rojo. El azul. Se queda así un momento largo, con las manos juntas sobre la carpeta.
+
+—Verdad —dice al fin. Lo dice en voz baja, para sí mismo, y anota algo en la hoja—. Las dos cosas.
+
+Golpea la lapicera contra la mesa, una vez, dos.
+
+—Hielo y fuego —repite—. En los ojos. —Levanta la vista—. Tenemos un caso parecido en el registro: el hijo menor del héroe número uno tiene un Don de mitad hielo, mitad fuego. Pero el suyo sale del cuerpo, no de los ojos. —Hace una pausa—. Y el villano del banco no estaba ni quemado ni congelado. Estaba dormido. Como si lo hubieran apagado.
+
+Te mira las manos, apoyadas en la mesa.
+
+—Ese golpe no fue tu Don. Fue tu fuerza. —No lo pregunta—. Y la señora del banco jura que apareciste de la nada, "así, puf". Un empleado de la tienda de enfrente dice lo mismo: que estabas en la vereda y que, un segundo después, ya no estabas.
+
+Cierra la carpeta.
+
+—Hielo y fuego en los ojos no explica eso.
+
+Se queda callado. Mira de reojo el espejo de la pared, un segundo. Después vuelve a ti.
+
+—No me has mentido ni una vez, Facundo. Y no creo que lo vayas a hacer. —Tiene la voz tranquila, casi amable—. Así que te pregunto directamente: ¿cómo llegaste a ese banco?
+
+Kase, en la silla de al lado, bosteza y se acomoda para dormir.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1091 · BOKU NO HERO · DIC. · 09:43     ║
+║ Musutafu · Comisaría Central, sala de        ║
+║ interrogatorio                               ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: durmiendo en la silla                  ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 09:43, sala de interrogatorio. Tsukauchi confirmó que dijo la verdad (Don de hielo y fuego en los ojos; viajero), pero eso no explica la aparición ni la fuerza. Pregunta cómo llegó al banco. Facundo puede responder.

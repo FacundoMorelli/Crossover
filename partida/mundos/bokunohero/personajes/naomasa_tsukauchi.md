@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: investigador (T1090).
 ENCUENTROS:
 - T1090 · Diciembre 09:40 · Sala de interrogatorio de la Comisaría Central.
 DIÁLOGOS CLAVE:
+- T1091 · "Verdad. Las dos cosas." "El hijo menor del héroe número uno tiene un Don de mitad hielo, mitad fuego." "Ese golpe no fue tu Don. Fue tu fuerza." "No me has mentido ni una vez, Facundo. ¿Cómo llegaste a ese banco?"
 - T1090 · "Mi Don me permite saber si alguien me miente. Esto puede ser muy rápido, o muy largo. Depende de ti." "No existes. Para el Estado japonés, Facundo Morelli no existe." "¿Qué Don tienes?"
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1090).
 QUÉ PODERES DE FACUNDO VIO: ninguno (informe del banco).

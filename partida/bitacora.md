@@ -1089,3 +1089,4 @@ T1087 · DanMachi → Boku no Hero · Mano a Finn; Loki: "¡Y trae al gato!" Pue
 T1088 · BnHA · Banco Musutafu Norte · Villano del brazo de roca, inconsciente. "¿Dónde estoy?" Death Arms: "¿Tienes licencia de héroe?"
 T1089 · BnHA · Banco · "Soy un viajero." Death Arms: vigilantismo es delito. Policía: "Nombre, registro de Don, documento. Acompáñenos a la comisaría." Filman.
 T1090 · BnHA · Comisaría Central · "Los acompaño." Tsukauchi (detecta mentiras): "No existes en ningún registro. ¿Qué Don tienes?"
+T1091 · BnHA · Comisaría · "Don de hielo y fuego en los ojos. Soy un viajero." Tsukauchi: "Verdad." "¿Cómo llegaste a ese banco?"

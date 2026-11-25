@@ -15,3 +15,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Curiosos en la vereda · T1089 · filman a Facundo (pelo blanco y azul, gato) en el banco: posible video en redes.
 - Policía de Musutafu, Death Arms · T1090 · su nombre: Facundo Morelli; sin documentos; colaboró y fue a la comisaría.
 - Detective Tsukauchi (y la policía) · T1090 · Facundo Morelli no figura en ninguna base de datos japonesa (nacimiento, Dones, inmigración, antecedentes). Sabe lo del banco por el informe.
+- Tsukauchi (y quien mire tras el espejo) · T1091 · Facundo tiene un Don de hielo y fuego en los ojos; es viajero (verdad). Deduce que el golpe del banco fue fuerza, no Don. Testigos: apareció de la nada (señora del banco, empleado de la tienda de enfrente).
