@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1122)
-voy a donde está Shigaraki peleando con Gigantomachia
-
-## RESPUESTA 1 (T1122)
-
-> voy a donde está Shigaraki peleando con Gigantomachia
-
-Sales de la cabaña. La nieve te llega a los tobillos, y el aire está tan frío que corta.
-
-Un instante después estás en otro lugar.
-
-La montaña ya no parece una montaña. Es un valle entero arrasado: pinos arrancados de raíz, rocas partidas en dos, nieve sucia de tierra y de polvo gris. Cráteres por todos lados, algunos tan grandes que podrías meter una casa adentro. Y en una franja larga del terreno, todo, piedra, árboles, tierra, está deshecho en un polvo fino, como ceniza, que el viento levanta en remolinos.
-
-En el medio, el gigante.
-
-Es enorme. Más alto que un edificio de cuatro pisos, con un cuerpo deforme lleno de músculos y una cara chata con una boca ancha de dientes cuadrados. Lleva una especie de bozal de cuero roto colgándole del cuello. Respira como un fuelle, echando nubes de vapor.
-
-Y frente a él, chiquito, en la cima de una roca rajada, un muchacho.
-
-Flaco hasta lo enfermizo. Pelo largo, blanco, revuelto. La piel de la cara seca y agrietada, con costras alrededor de los ojos y de la boca. Ropa negra hecha jirones. Tiene la ropa y las manos manchadas de sangre seca, y se está riendo. Una risa rota, cansada, que le sale entre jadeos.
-
-—Otra vez —dice—. Otra vez, maldito...
-
-El gigante levanta el puño. El puño solo es más grande que un auto.
-
-Lo baja.
-
-La roca donde estaba el muchacho estalla. Él ya no está ahí: saltó, rodó por la nieve, y en cuanto toca el suelo apoya los cinco dedos de una mano en la tierra.
-
-El suelo se pudre. La grieta corre como un relámpago gris hacia los pies del gigante, deshaciendo todo lo que toca.
-
-El gigante pisa antes. Salta hacia un costado y la grieta se pierde en la ladera.
-
-Y en ese salto, el pie colosal cae a veinte metros de ti.
-
-La onda de choque te levanta el pelo y la ropa. A Kase se le eriza todo el lomo.
-
-Las dos cabezas, la grande y la chica, se giran hacia ti al mismo tiempo.
-
-El muchacho se queda quieto, a cuatro patas en la nieve, jadeando. Te mira con unos ojos rojos, inyectados en sangre, entre el pelo blanco.
-
-—¿Y tú quién demonios eres? —escupe.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1122 · BOKU NO HERO · DIC. · 12:06     ║
-║ Montañas del noroeste · valle arrasado       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro (erizado)                 ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ Liga: 5 inconscientes en la cabaña           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a la Liga                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1123)
+## COMANDO 1 (T1123)
 me llamo Facundo Morelli, los dejo inconscientes a los dos y llevo a shigaraki a la cabaña con los otros y les pongo una barrera con sakaime para que nada pueda entrar ni salir
 
-## RESPUESTA 2 (T1123)
+## RESPUESTA 1 (T1123)
 
 > —Me llamo Facundo Morelli.
 
@@ -127,10 +64,10 @@ Kase mira la caja, después te mira a ti, y mueve la cola despacio.
 
 ---
 
-## COMANDO 3 (T1124)
+## COMANDO 2 (T1124)
 dejo pasar el aire y llamo a Nezu, pueden ir viniendo a la cabaña, ya deje inconscientes a dabi, toga, compress, shigaraki y twice, ahora voy a por los demas
 
-## RESPUESTA 3 (T1124)
+## RESPUESTA 2 (T1124)
 
 > dejo pasar el aire y llamo a Nezu
 
@@ -197,4 +134,59 @@ Y antes de que contestes, agrega, más rápido:
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:09, afuera de la cabaña, en llamada con Nezu. El Recinto deja pasar el aire. Nezu manda a Aizawa y transporte de la Comisión. Pregunta dónde está Gigantomachia y quiénes son "los demás". Facundo puede responder.
+## COMANDO 3 (T1125)
+a los que estaban armando lo que les dije antes, dejo que en sakaime solo pasen los heroes y los buenos
+
+## RESPUESTA 3 (T1125)
+
+> —A los que estaban armando lo que les dije antes.
+
+Mientras hablas, apoyas otra vez la punta de Sakaime en la frontera. La línea plateada de la hoja late una vez.
+
+[Recinto modificado: deja pasar el aire y a los héroes y las personas buenas. Nada más.]
+
+Del otro lado de la línea, Nezu se queda callado un segundo.
+
+—Deika —dice despacio—. Y la fábrica bajo el hospital de Jaku.
+
+Lo escuchas moverse, papeles, una silla que rueda.
+
+—Señor Morelli, en Deika hay decenas de miles de personas. Usted mismo me lo dijo. Se mueven como un ejército. Y no todas son soldados: hay familias, comerciantes, niños que no saben nada de lo que hacen sus padres. —La voz se le pone firme—. Si va a ir, vaya con cuidado. La mitad de esa ciudad no sabe que está en una guerra.
+
+Una pausa.
+
+—Y la fábrica... —Baja la voz—. Si usted sintió docenas de Nomu dormidos, ese viejo los va a despertar en cuanto sienta que algo anda mal. Todos a la vez.
+
+Escuchas otra voz al fondo, del lado de Nezu. Grave, cansada. Aizawa.
+
+—...ya estoy saliendo, director. ¿Dónde?
+
+—Montañas del noroeste —le contesta Nezu, tapando el teléfono a medias—. Ya te paso las coordenadas. Lleva a Present Mic. Y a Ectoplasm. Y que la Comisión mande el transporte grande.
+
+Vuelve a hablarte.
+
+—Se lo pregunto otra vez porque es importante, señor Morelli. —Muy serio—. El ser colosal. ¿Dónde está? ¿Mi equipo se lo va a cruzar en el camino?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1125 · BOKU NO HERO · DIC. · 12:10     ║
+║ Montañas del noroeste · afuera de la cabaña  ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Sakaime: en la mano (Shikai)                 ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Llamada en curso: Nezu                       ║
+║ Gigantomachia: inconsciente en el valle      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Deika y la fábrica de Jaku         ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:10, afuera de la cabaña, en llamada con Nezu. Recinto: aire, héroes y buenos. Aizawa, Present Mic y Ectoplasm salen hacia la cabaña. Nezu pregunta otra vez por el ser colosal. Facundo puede responder.

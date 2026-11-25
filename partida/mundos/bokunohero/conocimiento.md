@@ -51,3 +51,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Dabi, Toga, Twice, Spinner, Mr. Compress · T1119 · vieron a Facundo aparecer dentro de la cabaña (teletransporte), con un gato en el hombro.
 - Shigaraki, Gigantomachia · T1122 · ven a Facundo aparecer en el valle donde pelean (con un gato en el hombro).
 - Nezu · T1124 · por Facundo (teléfono): Dabi, Toga, Compress, Shigaraki, Twice (y Spinner) inconscientes en la cabaña. Facundo va por "los demás". All Might le avisó desde Tartarus.
+- Nezu, Aizawa · T1125 · Facundo irá por Deika y la fábrica de Jaku. Aizawa, Present Mic y Ectoplasm van a la cabaña con transporte de la Comisión.

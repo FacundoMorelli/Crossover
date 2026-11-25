@@ -1,8 +1,8 @@
 {
-  "turno": 1124,
+  "turno": 1125,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "12:09",
+  "hora": "12:10",
   "edad": 18,
   "nivel": 28,
   "exp": 263930,
@@ -180,7 +180,7 @@
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
       "marcas_o_lineas_activas": [
-        "T1123 · Recinto cerrado en 6 caras (con techo) alrededor de la cabaña de la Liga, montañas del noroeste (BnHA). Nada entra ni sale salvo el aire (modificado T1124). Dentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes."
+        "T1123 · Recinto cerrado en 6 caras (con techo) alrededor de la cabaña de la Liga, montañas del noroeste (BnHA). Nada entra ni sale salvo el aire (T1124) y los héroes y las personas buenas (T1125). Dentro: Shigaraki, Dabi, Toga, Twice, Spinner, Compress inconscientes."
       ],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
