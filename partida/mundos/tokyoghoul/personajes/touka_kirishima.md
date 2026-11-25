@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1170.
 ENCUENTROS:
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1181 · "No huele a nada. Las quinques huelen a ghoul. A sangre vieja, a kakuhou. Huelen a muerto. Esto huele a metal." "Está fría."
 - T1180 · "¿Qué... era eso? ¿Una quinque? ¿De dónde la sacaste?"
 - T1179 · "A mí no me conocen la cara. Siempre usé máscara." "Entonces después. Cuando pase lo del Búho. Hasta entonces, mi kagune se queda donde está."
 - T1178 · "¿Una persona? ¿Del todo? ¿Que si la CCG le apunta con esas máquinas no suena nada? ¿Que puede ir a la escuela y comer en el almuerzo con los demás y no tiene que tener miedo? ¿Puedes hacer eso?"

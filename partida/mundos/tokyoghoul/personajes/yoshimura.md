@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1181 · "Mientras usted caminaba alrededor del local, sentí cómo se cerraba algo. Como cuando se cierra la tapa de una caja. Todavía lo siento." "¿Qué hizo, Morelli-san?"
 - T1179 · "Un ghoul que no puede defenderse, en un mundo que no perdona, no es una persona libre. Es una presa." "No es una decisión para tomar en una mañana. Ni para tomar sola."
 - T1178 · "El alma." "Un ghoul sin kagune, sin kakuhou, que come lo que comen los demás. Eso no es un ghoul, Morelli-san. Eso es una persona."
 - T1177 · "Sin problema." "Argentina. Está muy lejos. Allá toman una infusión de hierbas en una calabaza, con una bombilla de metal. Siempre quise probarla." "Morelli-san. ¿Me acompañaría a esa puerta a las diez?"

@@ -3,54 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1178)
-esta bien, y si quisieran podria sacarles el kagune a todos, veras mi habilidad no tiene tanto que ver con el cuerpo, tiene que ver con el alma, moldea el alma
-
-## RESPUESTA 1 (T1178)
-
-> —Está bien. Y si quisieran, podría sacarles el kagune a todos. Verás, mi habilidad no tiene tanto que ver con el cuerpo. Tiene que ver con el alma. Moldea el alma.
-
-El trapo de Touka se detiene otra vez.
-
-Esta vez se da vuelta.
-
-Yoshimura no se mueve. Se queda con las manos apoyadas en la barra, mirándote por encima de los lentes, y por un rato largo no dice nada. Afuera pasa una bicicleta; el timbre suena dos veces y se aleja.
-
-—El alma —repite.
-
-Lo dice despacio, sin incredulidad. Como alguien que escucha la respuesta a una pregunta que se hizo toda la vida y que nunca le contó a nadie.
-
-—Un ghoul sin kagune, sin kakuhou, que come lo que comen los demás. —Baja la vista hacia sus propias manos, viejas, sobre la madera—. Eso no es un ghoul, Morelli-san. Eso es una persona.
-
-Touka cruzó el local sin que nadie la oyera. Está al lado de la barra, con el trapo todavía en la mano, apretado.
-
-—¿Una persona? —Te mira a ti, no a Yoshimura—. ¿Del todo? ¿Que si la CCG le apunta con esas máquinas en la estación no suena nada? ¿Que si se corta, sangra y no se cierra? ¿Que puede ir a la escuela y comer en el almuerzo con los demás y no... —se le corta la voz— y no tiene que tener miedo de que se den cuenta?
-
-Aprieta el trapo hasta que gotea agua sobre el piso.
-
-—¿Puedes hacer eso?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1178 · TOKYO GHOUL · MAÑANA · 07:25    ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1179)
+## COMANDO 1 (T1179)
 puedo hacerlo si, el tema es este, los radares de la ccg no los detectarian, pero si uno de la ccg sabe como es su cara y sabe que antes era kagune capaz intenta matarlo y no podrian defenderse
 
-## RESPUESTA 2 (T1179)
+## RESPUESTA 1 (T1179)
 
 > —Puedo hacerlo, sí. El tema es este: los radares de la CCG no los detectarían, pero si uno de la CCG sabe cómo es su cara y sabe que antes era ghoul, capaz intenta matarlo, y no podrían defenderse.
 
@@ -95,10 +51,10 @@ Cuando vuelve a hablar, la voz le sale firme otra vez, casi enojada.
 
 ---
 
-## COMANDO 3 (T1180)
+## COMANDO 2 (T1180)
 bueno si me permiten voy a hacer algo para que los de la ccg no puedan atacar este lugar, saco sakaime y pongo lineas alrededor de anteiku para dejar pasar a todos menos a los de la ccg, ni ningun ataque que venga hacia aqui
 
-## RESPUESTA 3 (T1180)
+## RESPUESTA 2 (T1180)
 
 > —Bueno, si me permiten, voy a hacer algo para que los de la CCG no puedan atacar este lugar.
 
@@ -154,7 +110,60 @@ Cuando vuelves a entrar, la campanita de la puerta suena. Touka está a dos paso
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1181)
+no es una quinque, es una espada, la saco y la pongo en el mostrador, pueden mirarla si quieren
+
+## RESPUESTA 3 (T1181)
+
+> —No es una quinque. Es una espada.
+
+Abres la mano otra vez y Sakaime aparece en ella. La apoyas de costado sobre el mostrador, entre la taza vacía y el frasco de mermelada, con la empuñadura blanca hacia ellos.
+
+> —Pueden mirarla si quieren.
+
+Kase, que estaba echado en la barra, se levanta, se acerca a la espada, olfatea la guarda negra y se sienta al lado, como si la custodiara.
+
+Touka no se acerca enseguida. Se queda donde está, con los brazos pegados al cuerpo, mirando la hoja desde lejos, como se mira a un perro que no conoces.
+
+Después da un paso. Otro. Se inclina sobre el mostrador sin tocarla y huele el aire, despacio, con la nariz casi encima de la hoja.
+
+Frunce el ceño.
+
+—No huele a nada —dice, desconcertada—. Las quinques huelen a ghoul. A sangre vieja, a kakuhou. Huelen a muerto. Esto huele a... metal. Y a nada.
+
+Estira un dedo y lo apoya en la línea plateada que recorre la hoja. Lo retira enseguida, como si esperara quemarse. No pasa nada. Lo vuelve a apoyar.
+
+—Está fría.
+
+Yoshimura se acerca por detrás de la barra. No mira la espada mucho tiempo. Mira la línea plateada de la hoja, y después levanta la vista hacia la puerta, hacia la vereda, donde el mismo hilo plateado finísimo corre pegado al cordón.
+
+Se quita los lentes. Los dobla. Los deja junto a la espada.
+
+—Mientras usted caminaba alrededor del local —dice, muy tranquilo—, sentí cómo se cerraba algo. Como cuando se cierra la tapa de una caja. Todavía lo siento. Aquí. —Se toca con dos dedos el borde de la barra—. Y allá afuera.
+
+Te mira.
+
+—¿Qué hizo, Morelli-san?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1181 · TOKYO GHOUL · MAÑANA · 07:32    ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra, junto a la espada         ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:31, Anteiku. Recinto de Sakaime activo. Touka pregunta si la espada es una quinque y de dónde la sacó. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:32, Anteiku. Sakaime en el mostrador. Yoshimura sintió el Recinto y pregunta qué hizo. Facundo puede responder.
