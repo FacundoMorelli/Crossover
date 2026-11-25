@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1301)
-le robo la espada a yami con luna y corto el dragon
-
-## RESPUESTA 1 (T1301)
-
-> (Le robo la espada a Yami con Luna y corto el león.)
-
-En la puerta, Yami parpadea.
-
-Su mano sigue cerrada, pero ya no hay nada en ella. La katana que llevaba al costado, la vieja, la de la empuñadura gastada, ya no está en su vaina.
-
-Está en tu mano. Del otro lado del claro.
-
-La hoja se pone azul. La luz de la Luna le corre por el filo como agua fría, desde la empuñadura hasta la punta, y alrededor de tus pies la hierba quemada se cubre de escarcha. El vapor del calor de Mereoleona se vuelve neblina.
-
-El león de fuego está encima. Su boca abierta te tapa la luna, el cielo, todo.
-
-Lo cortas.
-
-Un solo tajo, de abajo hacia arriba.
-
-Durante un segundo no pasa nada. Después, el león se parte en dos, de la mandíbula a la melena. Las dos mitades siguen de largo a cada lado de ti, sin tocarte, y mientras pasan se van apagando. El fuego se vuelve azul en los bordes del corte, después blanco, después escarcha. Lo que llega a la tierra detrás de ti no es fuego: es una lluvia de hielo fino, que cae tintineando sobre los escombros del ala rota.
-
-Los árboles que se habían prendido se apagan solos.
-
-[Leo Rugiens: cortado con Luna.]
-
-El claro queda a oscuras, solo con la luna de verdad y tu brillo plateado.
-
-Nadie respira.
-
-—Oye —dice Yami desde la puerta, mirándose la mano vacía—. Esa es mía.
-
-Mereoleona está de pie a quince metros, con los brazos todavía levantados. Las llamas de su cuerpo tiemblan, bajitas, como brasas. Tiene la mirada clavada en ti. En la katana azul. En la escarcha que le llega casi hasta los pies.
-
-Baja los brazos despacio.
-
-Después aprieta los puños. Las brasas vuelven a encenderse, más chicas, más rojas. No le queda mucho. Igual sonríe, con los dientes apretados.
-
-—Todavía no terminé.
-
-Se tira hacia ti con los puños desnudos, envueltos en lo último que le queda de fuego.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1301 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · claro             ║
-║ NIVEL 29 · EXP 294.280/320.000 · D4 21:15    ║
-║ FRAGMENTOS 111.657 · 0 yul                   ║
-║ Energía 99% · Ojos: bien                     ║
-║ Ultra Instinto Dominado                      ║
-║ En la mano: katana de Yami (Luna)            ║
-║ Velo: persona común (aura plateada visible)  ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1302)
+## COMANDO 1 (T1302)
 te voy a mostrar 1 solo de mis ataques por que te robe a tu presa, saco mi grimorio y lo uso contra ella
 
-## RESPUESTA 2 (T1302)
+## RESPUESTA 1 (T1302)
 
 > —Te voy a mostrar uno solo de mis ataques, porque te robé la presa.
 
@@ -144,10 +82,10 @@ Abajo, Mereoleona levanta un brazo hacia las estrellas, como si las quisiera aga
 
 ---
 
-## COMANDO 3 (T1303)
+## COMANDO 2 (T1303)
 muchos, bueno chicos y con este combate, me retiro de nuevo, en unos semanas, quizas vuelvo hay cosas que tengo que hacer
 
-## RESPUESTA 3 (T1303)
+## RESPUESTA 2 (T1303)
 
 > —Muchos. Bueno, chicos, con este combate me retiro de nuevo. En unas semanas, quizás, vuelvo. Hay cosas que tengo que hacer.
 
@@ -217,4 +155,56 @@ Yami se prende un cigarrillo. Exhala el humo hacia la luna.
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:18, claro. Despedida de todos; Kiato abrazado a Facundo. Falta elegir destino. Facundo puede actuar.
+## COMANDO 3 (T1304)
+
+nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
+
+## RESPUESTA 3 (T1304)
+
+> nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
+
+> —Nos vemos, chicos. Charmy, antes de irme, ¿quieres darme un poco de tu comida para el viaje? Así no la desperdicio.
+
+Charmy se queda dura, con la olla abrazada contra el pecho.
+
+Te mira a ti. Mira la olla. Te mira otra vez. Se le llenan los ojos de lágrimas, y no se sabe si es de emoción o de dolor.
+
+—¿Pa... para el viaje? —Aprieta la olla—. ¿Toda?
+
+Nadie le contesta. Magna se tapa la boca para no reírse. Vanessa le da un codazo.
+
+Charmy respira hondo, cierra los ojos con fuerza y levanta la mano. De la nada salen tres ovejitas de algodón con gorro de cocinero, que se ponen a trabajar sobre una mesa rota del patio. Una envuelve panecillos en servilletas, otra llena un tarro con el guiso todavía humeante, la tercera ata todo con un moño de algodón.
+
+—¡Es tuya! —grita Charmy, con la voz quebrada—. ¡La cociné para ti! ¡No se desperdicia nada en esta casa!
+
+La ovejita del moño te pone el paquete en las manos. Está tibio y huele a carne, a cebolla y a pan recién hecho.
+
+Charmy se queda con un panecillo en la mano. Lo mira. Se lo mete entero en la boca.
+
+—Ese era mío —dice, con la boca llena y los cachetes inflados—. El de la propina.
+
+Traga. Se limpia la nariz con el brazo y te apunta con un dedo.
+
+—Y la próxima vez que vuelvas, me traes la comida del cocinero. ¡Hicimos la promesa del meñique!
+
+Kiato sigue abrazado a tu cintura. No te suelta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1304 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · claro (cráter)    ║
+║ DÍA 4 · 21:21                                ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 yul                   ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: elegir destino                     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Black Clover, Día 4 21:21, claro. Charmy le dio a Facundo su comida en un paquete (se quedó un panecillo) y le recordó la promesa del meñique. Kiato sigue abrazado. Falta elegir destino. Facundo puede actuar.

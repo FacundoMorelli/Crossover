@@ -72,3 +72,4 @@
 - Todos los del claro · T1301 · vieron a Facundo tomar la katana de Yami sin que nadie lo viera y cortar Leo Rugiens con una luz azul que congela.
 - Todos los del claro · T1302 · Facundo TIENE GRIMORIO (tapas negras, trébol de tres hojas plateado, estrellas): magia de constelación (león de estrellas). Venció a Mereoleona. Dijo que fue "uno solo de sus ataques".
 - Todos los del claro · T1303 · Facundo se va otra vez; dijo que quizás vuelve en unas semanas y que tiene "muchos" ataques.
+- Todos los del claro · T1304 · vieron a Facundo recibir la comida de Charmy para el viaje.

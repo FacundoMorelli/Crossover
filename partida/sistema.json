@@ -1,8 +1,8 @@
 {
-  "turno": 1303,
+  "turno": 1304,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~94 días después de la salida (T489). Día 4 después de la Reencarnación frustrada (asalto a Rocas Gravito). Noche.",
-  "hora": "Día 4, 21:18",
+  "hora": "Día 4, 21:21",
   "edad": 18,
   "nivel": 29,
   "exp": 295080,
@@ -612,6 +612,11 @@
       "objeto": "Celular local con línea (BnHA)",
       "detalle": "Comprado T1124 (5 F). Tiene el contacto directo de Nezu (de la carpeta de la U.A.).",
       "mundo": "bokunohero"
+    },
+    {
+      "objeto": "Paquete de comida de Charmy (guiso en tarro, panecillos en servilletas, moño de algodón)",
+      "origen": "blackclover, Charmy (T1304)",
+      "mundo": "blackclover"
     }
   ],
   "copias": [
