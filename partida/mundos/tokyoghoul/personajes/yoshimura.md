@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1162 · "En este lugar tenemos una sola regla. No se mata si se puede evitar." "Si alguien de los nuestros quiere decidir otra cosa después, eso va a ser un asunto entre él y yo." "¿Va a pasar la noche aquí?"
 - T1161 · "Hace muchos años que nadie le promete nada a este lugar. Gracias."
 - T1160 · "Dice 'que nadie muera'. Quien le dio esa misión sabía que el lugar no se iba a poder salvar." "No voy a fingir con usted. ¿Cuánto tiempo nos queda?"
 - T1159 · "El Búho." "Ese nombre no lo conozco. Pero conozco al Búho: un ghoul de rango SSS, el más buscado del país." "La CCG no les pone nombre de operación a los ghouls que quiere investigar. Les pone nombre a los lugares que piensa destruir." "¿Cuál es su misión? ¿Y qué tiene que ver con este lugar?"

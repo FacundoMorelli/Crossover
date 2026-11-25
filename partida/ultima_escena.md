@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1159)
-no soy de aqui, soy un viajero, vine con una mision, conocen el nombre operacion del buho?
-
-## RESPUESTA 1 (T1159)
-
-> —No soy de aquí. Soy un viajero. Vine con una misión. ¿Conocen el nombre "Operación del Búho"?
-
-Silencio.
-
-El reloj de pared hace tic tac. Una vez. Dos.
-
-Kaneki levanta la vista de golpe. Hinami se le aprieta contra la espalda. Desde la puerta del fondo, el grandote baja despacio el paquete de papel marrón.
-
-Pero el que cambia es Yoshimura.
-
-No mucho. Casi nada. Las manos, que estaban apoyadas sobre la barra con el repasador blanco, se quedan quietas. Del todo. Como si de golpe hubieran dejado de ser las manos de un viejo barista. Y adentro, en lo hondo de esa presencia enorme que lleva plegada bajo la calma, algo abre los ojos y se queda despierto.
-
-—El Búho —repite, muy despacio.
-
-Dobla el repasador en cuatro. Lo deja junto a la taza.
-
-—No. Ese nombre no lo conozco. "Operación del Búho" —dice—. Pero conozco al Búho. Todos los que viven de este lado de la ciudad lo conocen. —Hace una pausa—. Es el nombre que la CCG le da a un ghoul. Uno de rango SSS. El más buscado de este país.
-
-Kaneki traga saliva.
-
-—En el Distrito 11 —murmura—. Cuando atacaron Aogiri. Había un... Apareció algo. Envuelto en kagune de pies a cabeza. Un búho. —Mira a Yoshimura de reojo, y algo en su cara cambia, como si hubiera empezado a pensar algo que no se anima a terminar—. Y la CCG estaba enloquecida buscándolo.
-
-Yoshimura no lo mira. Te mira a ti.
-
-—Usted dice que vino con una misión —dice—. Desde algún lugar que no es este. Y que la palabra que trae es "Operación del Búho". —Se le endurece apenas la voz, sin dejar de ser suave—. La CCG no les pone nombre de operación a los ghouls que quiere investigar, señor. Les pone nombre a los lugares que piensa destruir.
-
-Se apoya en la barra con las dos manos. Se inclina un poco hacia ti.
-
-—Así que le voy a preguntar con todo respeto. ¿Cuál es su misión? ¿Y qué tiene que ver con este lugar?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1159 · TOKYO GHOUL · NOCHE · 00:06     ║
-║ Distrito 20 · Anteiku                        ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ Kagune de Ceniza: fuera (bikaku)             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1160)
+## COMANDO 1 (T1160)
 te la voy a decir como me la dijeron a mi "Que nadie de anteiku muera ni caiga en la operacion del buho"
 
-## RESPUESTA 2 (T1160)
+## RESPUESTA 1 (T1160)
 
 > —Te la voy a decir como me la dijeron a mí: "Que nadie de Anteiku muera ni caiga en la Operación del Búho".
 
@@ -112,10 +58,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1161)
+## COMANDO 2 (T1161)
 la verdad no lo se, guardo mi kagune, y me termino el cafe, pero mientras este aqui a ustedes no les va a pasar nada
 
-## RESPUESTA 3 (T1161)
+## RESPUESTA 2 (T1161)
 
 > —La verdad, no lo sé.
 
@@ -166,7 +112,65 @@ Kaneki es el único que no se ablanda. Sigue sentado en el taburete, con la toal
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1162)
+tengo una mision y tambien me caiste bien, eso si, no voy a matar a nadie. yo, solo voy a dejar inconscientes, si ustedes despues los quieren matar, lo deciden ustedes
+
+## RESPUESTA 3 (T1162)
+
+> —Tengo una misión, y también me caíste bien. Eso sí, no voy a matar a nadie. Yo solo los voy a dejar inconscientes. Si ustedes después los quieren matar, lo deciden ustedes.
+
+Kaneki parpadea.
+
+Por un momento no dice nada. Mira la toalla roja que tiene en las manos, la mira de verdad, como si recién ahora se diera cuenta de lo que es y de dónde salió esa sangre. Los dedos se le aflojan. La deja sobre la barra, doblada, lejos de él.
+
+—Te caí bien —repite despacio, casi sin voz. No es una pregunta. Parece que no sabe dónde poner esas palabras.
+
+Se pasa la mano por la cara.
+
+—Yo no quiero matar a nadie más —dice, más para la barra que para ti—. En la mansión no... no quería. Ya no sé cuántas veces dije eso.
+
+Hinami le pone una mano en el brazo, sin decir nada.
+
+Tsukiyama abre un ojo desde el taburete, con la mano todavía en la frente.
+
+—Inconscientes —murmura, decepcionado, como si le hubieran servido un plato sin sal—. Qué desperdicio de material.
+
+Nadie le contesta.
+
+Yoshimura termina de colgar la última taza. Se seca las manos con el repasador, sin apuro, dedo por dedo.
+
+—En este lugar tenemos una sola regla —dice—. No se mata si se puede evitar. Les damos de comer a los que no pueden cazar, para que nadie tenga que hacerlo. —Dobla el repasador y lo deja sobre la barra—. No siempre alcanza. Pero es la regla.
+
+Te mira por encima de los lentes.
+
+—Así que lo que usted acaba de decir, señor viajero, no nos ofende. Al contrario. Si alguien de los nuestros quiere decidir otra cosa después, eso va a ser un asunto entre él y yo.
+
+El reloj de pared marca las doce y cuarto. Yoshimura lo mira, y después mira a Banjou, que sigue en la puerta del fondo con una mano en las costillas, y a los tres de las máscaras, que se asoman detrás de él.
+
+—Es tarde. Arriba hay dos cuartos y un sofá. No es una mansión con sábanas de seda —Tsukiyama abre la boca y la vuelve a cerrar—, pero las ventanas tienen cortinas gruesas y nadie va a golpear la puerta hasta la mañana. Touka llega a las siete para abrir.
+
+Se vuelve hacia ti y apoya una mano sobre la barra, junto al lugar donde estaba tu taza.
+
+—Usted también, si quiere. ¿Va a pasar la noche aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1162 · TOKYO GHOUL · NOCHE · 00:15     ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:12, Anteiku. Facundo prometió protegerlos. Yoshimura agradeció. Kaneki pregunta por qué lo hace. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:15, Anteiku. Yoshimura le ofrece a Facundo pasar la noche arriba. Facundo puede responder.

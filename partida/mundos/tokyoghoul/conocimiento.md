@@ -25,3 +25,5 @@
 - Facundo · T1159 · por Yoshimura: el Búho es un ghoul de rango SSS, el más buscado del país. Por Kaneki: apareció en el Distrito 11 cuando atacaron Aogiri.
 - Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou · T1160 · Facundo dijo la misión textual: "Que nadie de Anteiku muera ni caiga en la Operación del Búho". Yoshimura deduce que la CCG planea destruir Anteiku y que el lugar no se salvará. Kaneki empieza a deducir que Yoshimura es el Búho (no lo dice entero).
 - Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou · T1161 · Facundo no sabe cuándo es la operación. Prometió que mientras esté ahí no les va a pasar nada. Le gusta el café (lo tomó entero).
+- Yoshimura, Kaneki, Hinami, Tsukiyama, Banjou, tres máscaras · T1162 · Facundo dijo que Kaneki le cae bien y que no va a matar a nadie: solo dejará inconscientes; lo que hagan después lo deciden ellos.
+- Facundo · T1162 · por Yoshimura: la regla de Anteiku (no matar si se puede evitar; dan de comer a los que no pueden cazar). Arriba hay dos cuartos y un sofá. Touka llega a las 7 para abrir.
