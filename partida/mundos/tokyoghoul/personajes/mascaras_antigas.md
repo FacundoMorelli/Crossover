@@ -13,3 +13,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: Nada. Apareció con Kaneki y los sacó de la mansión.
 QUÉ PODERES VIO: Teletransporte.
 ESTADO: En el acantilado, a salvo (T1154).
+- T1168 · Se sacan las máscaras frente a Facundo: (1) muchacho flaco, cara chupada, ojeras, ~20 años; (2) hombre de pelo rapado con cicatriz en el labio; (3) uno de cara redonda, casi un chico, ojos muy abiertos. Quieren la transfiguración (no lo dicen).

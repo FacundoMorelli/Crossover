@@ -3,48 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1165)
-acercate kaneki
-
-## RESPUESTA 1 (T1165)
-
-> —Acércate, Kaneki.
-
-Kaneki duda.
-
-Se queda un segundo quieto en el borde de la mesa, con los codos todavía en las rodillas, mirándote como si tratara de adivinar qué viene. Después se levanta despacio y da los dos pasos que lo separan del sofá.
-
-Se detiene frente a ti, a menos de un brazo de distancia. De cerca huele a sangre seca, a tierra del bosque y a sudor frío. Tiene una cortada a medio cerrar en el cuello y la piel de la cara tan pálida que se le ven las venas finas debajo de los ojos.
-
-Se sienta en cuclillas, para quedar a tu altura, con las manos juntas entre las rodillas. Las tiene apretadas. Le tiemblan un poco.
-
-Tsukiyama cierra el libro sobre un dedo, para no perder la página, y se inclina hacia adelante en la silla.
-
-Kase se levanta de la almohada, se estira, baja al almohadón de al lado y se sienta a mirar a Kaneki de frente, con la cola enroscada sobre las patas.
-
-Kaneki traga saliva. No pregunta nada más. Espera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1165 · TOKYO GHOUL · NOCHE · 00:27     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá, mirando a Kaneki           ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1166)
+## COMANDO 1 (T1166)
 toco a kaneki y uso la tecnica de mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal, toma prueba esto, le doy una manzana
 
-## RESPUESTA 2 (T1166)
+## RESPUESTA 1 (T1166)
 
 > toco a Kaneki y uso la técnica de Mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal
 
@@ -107,10 +69,10 @@ Kaneki traga. Se seca la cara con el dorso de la muñeca y te mira, con los ojos
 
 ---
 
-## COMANDO 3 (T1167)
+## COMANDO 2 (T1167)
 con los que quieran
 
-## RESPUESTA 3 (T1167)
+## RESPUESTA 2 (T1167)
 
 > —Con los que quieran.
 
@@ -149,7 +111,51 @@ Banjou mira la manzana en la mano de Kaneki. Mira el corazón mordido, la cásca
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1168)
+si
+
+## RESPUESTA 3 (T1168)
+
+> —Sí.
+
+Banjou se queda quieto en el marco de la puerta.
+
+Es un hombre enorme, y por un momento parece que no sabe qué hacer con su propio cuerpo. Abre la boca, la cierra. Mira a Kaneki, que tiene la manzana a medio comer entre las manos y los ojos todavía rojos, y Kaneki le devuelve la mirada y asiente, despacio.
+
+Banjou baja la vista al piso.
+
+—Yo nunca fui bueno para esto —dice, y no queda claro si habla de pelear, de cazar o de comer—. Siempre me dio asco. Cuando era el jefe del Distrito 11, comía lo que me tiraban los otros, para no tener que salir a buscar. Me decían que era débil por eso.
+
+Se le aprieta la mandíbula.
+
+Detrás de él, las tres máscaras antigás se miran entre sí. Una de ellas, la del medio, levanta despacio una mano y se la saca. Debajo hay un muchacho flaco, de cara chupada y ojeras profundas, que no debe tener más de veinte años. Las otras dos tardan un segundo más y hacen lo mismo. Un hombre de pelo rapado con una cicatriz en el labio. Otro de cara redonda, casi un chico, con los ojos muy abiertos.
+
+Ninguno dice nada. No hace falta.
+
+Banjou da un paso adentro de la sala. Después otro. El piso cruje bajo su peso. Llega hasta el sofá y, sin que nadie se lo pida, se arrodilla frente a ti con la mano todavía apretada en las costillas, como un oso que se acuesta.
+
+Agacha la cabeza.
+
+—Hazlo —dice—. Por favor.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1168 · TOKYO GHOUL · NOCHE · 00:33     ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá                             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:32, sala de arriba de Anteiku. Tsukiyama declinó. Banjou pregunta si es verdad que puede quitarle la necesidad de comer gente. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:33, sala de arriba de Anteiku. Banjou arrodillado frente a Facundo: "Hazlo. Por favor." Las tres máscaras, sin máscara, esperan. Facundo puede actuar.
