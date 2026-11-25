@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1052)
-hola hisoka
-
-## RESPUESTA 1 (T1052)
-
-> hola hisoka
-
-> —Hola, Hisoka.
-
-Abre los ojos.
-
-No de a poco. De golpe, como si alguien hubiera prendido una luz. Los ojos amarillos miran el cielo negro, el farol, el cartel de neón. Después giran, despacio, y te encuentran a ti, de pie a su lado, con el gato en el hombro.
-
-No se levanta. Se queda tirado de espaldas en el asfalto, con el muñón de la mano izquierda apoyado en el pecho y la pierna que le falta a la vista. La sangre de la mejilla ya se le secó en una costra negra.
-
-Te mira un rato largo.
-
-Después empieza a reírse. Bajito. Sin moverse. La risa le sacude el pecho y le sale entrecortada, ronca, porque le duele el plexo donde le pegaste, y sigue riéndose igual.
-
-—Hola... ♥ —dice entre risas—. Me... me tiraste. De un golpe.
-
-Se lleva la mano sana a la cara. Se toca el corte de la mejilla. Se mira los dedos.
-
-—Hoy me mataron una vez. Y me tiraste otra. —Se ríe más fuerte, tose, se sigue riendo—. Es el mejor día de mi vida. ♠
-
-Gira la cabeza en el asfalto. Mira la calle vacía, el escalón de los baños donde estaba Kortopi, la esquina por donde se fue la Tropa.
-
-—Se fueron. —No suena enojado. Suena divertido—. Los dejaste ir. Las arañas. —Te mira otra vez—. Y no me mataste. Ni dejaste que me mataran, ¿no? Si no, no estaría aquí. ♣
-
-Se queda callado un segundo. La sonrisa no se le va.
-
-—No siento nada de ti. Ni ahora, que te tengo al lado. —Los ojos se le achican, brillantes—. Nadie se esconde así. Ni Chrollo. Ni el viejo Zeno. Nadie.
-
-Apoya la mano sana en el asfalto y se incorpora, apenas, sobre un codo. Le cuesta. Lo hace igual.
-
-—¿Cómo te llamas? ♥
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1052 · HUNTER X HUNTER · DÍA 1 · 19:57 ║
-║ Calle detrás de la Torre · baños públicos    ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1053)
+## COMANDO 1 (T1053)
 me llamo Facundo Morelli, le curo el brazo y las piernas con la tecnica de mahito
 
-## RESPUESTA 2 (T1053)
+## RESPUESTA 1 (T1053)
 
 > me llamo Facundo Morelli, le curo el brazo y las piernas con la tecnica de mahito
 
@@ -119,10 +64,10 @@ Se lame el labio de abajo.
 
 ---
 
-## COMANDO 3 (T1054)
+## COMANDO 2 (T1054)
 ahora no vayas a por las arañas, cuando zarpe el black whale puedes hacer lo que quieras
 
-## RESPUESTA 3 (T1054)
+## RESPUESTA 2 (T1054)
 
 > ahora no vayas a por las arañas, cuando zarpe el black whale puedes hacer lo que quieras
 
@@ -170,4 +115,61 @@ Se queda esperando, con las manos en la espalda, balanceándose apenas sobre los
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 1 20:01, baños públicos. Hisoka propone un trato: no toca a las arañas hasta el zarpe; ese día pelean en serio; si gana Facundo, deja a las arañas para siempre. "¿Trato?" Facundo puede responder.
+## COMANDO 3 (T1055)
+trato, le doy la mano
+
+## RESPUESTA 3 (T1055)
+
+> trato, le doy la mano
+
+> —Trato.
+
+Le tiendes la mano.
+
+Hisoka la mira un segundo, como si nadie le hubiera tendido una mano en años. Después la agarra con la izquierda, la nueva. La aprieta. Tiene la piel fría y suave, sin un callo, como recién hecha.
+
+—Trato. ♥
+
+No te suelta enseguida. Te sostiene la mano un segundo de más, mirándote a los ojos, con la sonrisa quieta.
+
+Y lo sientes.
+
+En el centro de tu palma, donde la suya toca la tuya, algo se pega. Una gota de aura chiquita, rosada, elástica, que se queda en tu piel cuando él te suelta. Invisible para cualquiera. Pero no para ti. Sabes exactamente qué es y cómo funciona, porque hace veinte minutos aprendiste cómo funciona: un hilo de chicle, finísimo, que va de tu mano a la suya y que se estira lo que haga falta. Para no perderte nunca.
+
+Hisoka da un paso atrás. Mete las manos en los bolsillos del pantalón roto.
+
+—No me mires así —dice, sin que hayas dicho nada—. Es solo para saber dónde estás. Por si te olvidas de nuestro trato. ♣
+
+Se da vuelta. Camina hacia la esquina por debajo del poste torcido, despacio, con el paso parejo de las dos piernas, silbando otra vez la misma melodía de antes.
+
+Antes de doblar, gira la cabeza por encima del hombro.
+
+—El día que zarpe ese barco, Facundo Morelli. ♠ No llegues tarde.
+
+Y se va.
+
+La calle queda vacía. El farol zumba. El neón de los baños parpadea.
+
+En tu palma, la gota rosada sigue ahí, tibia, con el hilo invisible estirándose hacia la avenida, cada vez más largo, siguiéndolo.
+
+Kase la mira. Después te mira a ti. Estornuda.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1055 · HUNTER X HUNTER · DÍA 1 · 20:03 ║
+║ Calle detrás de la Torre · baños públicos    ║
+║ NIVEL 27 · EXP 239.850/240.000               ║
+║ FRAGMENTOS 108.140 · 0 jenny                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: Pelea con Hisoka el día del zarpe  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 1 20:03, calle de los baños públicos, vacía. Trato cerrado con Hisoka (pelea el día del zarpe). Hisoka le dejó una gota de Bungee Gum en la palma para rastrearlo y se fue. Facundo puede actuar.

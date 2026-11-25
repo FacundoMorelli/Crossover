@@ -30,3 +30,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Hisoka · T1052 · despierta y deduce (por estar vivo y por la calle vacía) que Facundo dejó ir a la Tropa y no dejó que lo mataran. No sabe su nombre.
 - Hisoka · T1053 · su nombre, Facundo Morelli (él se lo dijo). Facundo le devolvió la mano izquierda y la pierna derecha tocándole el pecho; Hisoka sintió que le tocaron "algo más adentro" que el cuerpo; sabe que no es Nen.
 - Hisoka · T1054 · Facundo le pidió no ir por las arañas hasta que zarpe el Black Whale. Hisoka deduce que la Tropa subirá al barco.
+- Hisoka · T1055 · TRATO con Facundo (aceptado con apretón de manos). Le pegó una gota de Bungee Gum en la palma: sabe dónde está Facundo en todo momento (mientras la gota siga ahí).

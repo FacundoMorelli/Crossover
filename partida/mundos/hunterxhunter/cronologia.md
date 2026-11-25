@@ -40,3 +40,4 @@
 - Día 1 19:53 · (T1050) Chrollo decide no matar a Hisoka por la amenaza de Facundo (CAMBIO).
 - Día 1 19:55 · (T1051) La Tropa se va; Facundo los protege hasta que zarpe el Black Whale. Hisoka empieza a despertar.
 - Día 1 19:59 · (T1053) CAMBIO: Facundo le devuelve a Hisoka la mano izquierda y la pierna derecha (en el canon las reemplaza con Bungee Gum y Texture Surprise).
+- Día 1 20:03 · (T1055) Trato Facundo-Hisoka: Hisoka no toca a la Tropa hasta el zarpe; ese día pelean; si gana Facundo, deja a la Tropa para siempre. CAMBIO total: en el canon Hisoka cazaba a la Tropa desde esta noche.
