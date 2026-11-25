@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1064)
-está bien, los llevo a todos, dime dónde están
-
-## RESPUESTA 1 (T1064)
-
-> está bien, los llevo a todos, dime dónde están
-
-> —Está bien. Los llevo a todos. Dime dónde están.
-
-Gros no se mueve. Habla sin abrir casi la boca, rápido, con la voz convertida en un roce de piedra que apenas cruza el callejón.
-
-—Lido y Wiene, en un sótano debajo de una panadería quemada, al este, cerca del orfanato de la vieja María. Rei, en el campanario roto de la parte alta, el que no tiene campana. —Una pausa—. Fia, la arpía, y Aruru, el conejo con cuerno, en las cloacas debajo de la plaza del pozo. Hay más en Knossos, cerca de la puerta de hierro que da a la calle de los tintoreros: siete, ocho. Ahí está el troll. Tiene las dos piernas rotas. No camina.
-
-Los ojos rojos se mueven hacia la antorcha.
-
-—El minotauro negro... no sé. Anda solo. Nadie sabe dónde.
-
-Abajo, en el callejón, la patrulla llega.
-
-Son seis, esta vez. Cuatro de la máscara de elefante y dos de capa verde con el bufón en la espalda. Uno de los de capa verde es un muchacho alto, de pelo gris, con orejas de lobo y la cara cruzada por un tatuaje. Se detiene en medio del callejón. Olfatea el aire.
-
-Levanta la vista directo al techo donde estás.
-
-—Eh. —La voz es ronca, desagradable—. Tú. El del techo. —Entrecierra los ojos—. ¿Qué demonios haces ahí arriba a esta hora?
-
-Los otros cinco levantan las antorchas. La luz te da en la cara. En el pelo blanco y azul. En el gato.
-
-El hombre lobo arruga la nariz. No mira hacia el techo de al lado, donde Gros es una estatua más entre las tejas. Te mira a ti.
-
-—Y ese gato... —gruñe—. Huele raro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1064 · DANMACHI · NOCHE 1 · 23:13      ║
-║ Orario · Calle Dédalo, techo de una casa     ║
-║ NIVEL 28 · EXP 252.350/280.000               ║
-║ FRAGMENTOS 108.590 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Llevar a todos los Xenos           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1065)
+## COMANDO 1 (T1065)
 es un gato normal, tienes algun problema con mi gato?
 
-## RESPUESTA 2 (T1065)
+## RESPUESTA 1 (T1065)
 
 > es un gato normal, tienes algun problema con mi gato?
 
@@ -107,10 +58,10 @@ Se le paran las orejas.
 
 ---
 
-## COMANDO 3 (T1066)
+## COMANDO 2 (T1066)
 lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
 
-## RESPUESTA 3 (T1066)
+## RESPUESTA 2 (T1066)
 
 > lo dejo inconsciente de un golpe y a los otros, bueno bien, vamos con los demas, vienes o te quedas ahi haciendote la estatua?
 
@@ -180,4 +131,71 @@ Salta del techo. Abre las alas en el aire y planea, bajo, entre las chimeneas, h
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:15, techos de Dédalo. Bete y la patrulla inconscientes. Gros guía a Facundo al este, hacia Lido y Wiene (sótano de la panadería quemada). Facundo puede actuar.
+## COMANDO 3 (T1067)
+lo toco y me teletransporto hacia lido
+
+## RESPUESTA 3 (T1067)
+
+> lo toco y me teletransporto hacia lido
+
+Lo alcanzas en el aire, sobre las chimeneas, y le apoyas la mano en el lomo de piedra, entre las alas.
+
+—¿Qué ha...?
+
+No termina.
+
+Aparecen en la oscuridad.
+
+Huele a ceniza vieja, a harina quemada, a humedad. Un sótano de piedra, bajo, con vigas carbonizadas en el techo y el piso cubierto de restos negros de lo que alguna vez fueron bolsas de harina. Por una rendija alta, a ras de la calle, entra un hilo de luz de luna. En un rincón hay un horno de ladrillo derrumbado.
+
+Gros cae sobre el piso con las alas abiertas y golpea una pila de cenizas que se levanta en una nube gris. Tose. Mira alrededor, desorientado.
+
+—¿Cómo...?
+
+Algo se mueve en el rincón del horno.
+
+Una sombra grande se levanta de golpe, y dos hojas curvas brillan en la luz de la luna. Es un hombre lagarto. Alto, de escamas rojas, con una cola gruesa que barre las cenizas detrás de él, una armadura de cuero gastada y dos cimitarras, una en cada mano, apuntándote al cuello.
+
+Detrás de él, pegada a la pared, hay una chica. Pequeña, de piel muy pálida, casi azulada, con el pelo largo de un celeste claro, escamas en los brazos y una cola fina que se le enrosca en las piernas. En la frente le brilla una gema roja. Abraza con las dos manos una capa marrón demasiado grande para ella, como si fuera una manta. Tiene los ojos dorados enormes, llenos de miedo.
+
+—¡Atrás! —El lagarto no se mueve de delante de ella—. ¡Un paso más y...!
+
+Ve a Gros. Se queda quieto.
+
+—¿Gros? —Las cimitarras bajan un dedo, nada más—. ¿Qué haces aquí? ¿Quién es este? ¿Cómo entraron? ¡La puerta está tapiada!
+
+—No entramos por la puerta —gruñe Gros, sacudiéndose la ceniza de las alas—. Me tocó la espalda y aparecimos aquí. Así.
+
+Lido te mira. Los ojos de reptil, amarillos, te recorren de arriba abajo: el pelo, la cicatriz, el gato.
+
+Detrás de él, la chica de la gema se asoma apenas por un costado de su cola.
+
+—¿Bell...? —dice, con una voz chiquita, como de nena—. ¿Viene Bell?
+
+Lido no le contesta a ella. Sigue mirándote a ti, con las cimitarras quietas a la altura de tu cuello.
+
+—Gros no confía en ningún humano —dice despacio—. Ni en Bellucchi confió del todo al principio. —Una pausa—. Y te trajo hasta aquí.
+
+Ladea la cabeza escamosa.
+
+—¿Quién diablos eres, compañero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1067 · DANMACHI · NOCHE 1 · 23:16      ║
+║ Orario · sótano de la panadería quemada      ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Lido y Wiene                       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:16, sótano de la panadería quemada. Facundo apareció con Gros. Lido apunta las cimitarras a su cuello y le pregunta quién es; Wiene pregunta por Bell. Facundo puede responder.

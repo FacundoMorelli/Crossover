@@ -15,3 +15,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Bete · T1065 · Facundo no huele a nada (ni miedo ni sudor); Kase huele a "muchos lugares, ninguno de aquí" (olfato). Sospecha de la gárgola del techo de al lado ("no huele a piedra").
 - Bete Loga y 5 de la patrulla (4 Ganesha, 1 Loki) · T1066 · los dejó inconscientes en un segundo; Bete no lo vio venir. Al despertar recordarán su cara, pelo blanco y azul, ojos de distinto color, cicatriz, sobretodo negro y gato enorme. Informarán a Shakti, Finn y el Gremio.
 - Gros · T1066 · vio a Facundo tirar a Bete (Nivel 5) y a cinco más en un segundo.
+- Gros · T1067 · lo vio teletransportarse con él al sótano tocándole la espalda.
+- Lido, Wiene · T1067 · lo ven aparecer de la nada con Gros en el sótano tapiado. Por Gros: que lo tocó y aparecieron ahí. No saben su nombre.

@@ -1065,3 +1065,4 @@ T1063 · DanMachi · Techos de Dédalo · "Soy un viajero, no me interesa matarl
 T1064 · DanMachi · Techos de Dédalo · Gros da las ubicaciones de los Xenos. Patrulla con Bete: "¿Qué demonios haces ahí? Ese gato huele raro."
 T1065 · DanMachi · Techos de Dédalo · "¿Algún problema con mi gato?" Bete salta al techo: "Tú no hueles a nada." Olfatea a Gros: "Eso no huele a piedra."
 T1066 · DanMachi · Dédalo · Bete y cinco de la patrulla inconscientes. Gros: "Desde esta noche eres igual que nosotros." Vuela al este: "Primero Lido."
+T1067 · DanMachi · Sótano de la panadería quemada · Teletransporte con Gros. Lido protege a Wiene: "¿Quién diablos eres, compañero?" Wiene: "¿Viene Bell?"

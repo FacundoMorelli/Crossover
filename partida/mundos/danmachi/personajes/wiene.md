@@ -7,7 +7,9 @@ FÍSICO: Piel pálida, pelo azul claro, gema roja en la frente, escamas, cola.
 PERSONALIDAD Y FORMA DE HABLAR: Inocente, cariñosa con Bell.
 RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
+- T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:
-QUÉ SABE DE FACUNDO: nada
+- T1067 · "¿Bell...? ¿Viene Bell?"
+QUÉ SABE DE FACUNDO: ver conocimiento.md (T1067).
 QUÉ PODERES DE FACUNDO VIO: ninguno
-ESTADO: Resucitada por Fels; escondida.
+ESTADO: en el sótano de la panadería quemada con Lido (T1067); asustada, quiere ver a Bell.
