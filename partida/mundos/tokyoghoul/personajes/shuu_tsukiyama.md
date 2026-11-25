@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1154 (Facundo los saca de la mansión).
 ENCUENTROS:
 - T1154 · Retrocedía ante una investigadora de abrigo blanco. Se ilumina al ver a Kaneki. Facundo los teletransporta al acantilado.
 DIÁLOGOS CLAVE:
+- T1167 · "Permítame ser el primero en declinar, monsieur. Yo no renunciaría a mi paladar ni a cambio de la luna." "Nunca había visto a mi querido Kaneki comer con esa cara."
 - T1163 · "Esperaré el amanecer en la sala, leyendo. Y luego me retiraré a mi residencia. Mi cuerpo no fue hecho para el piso."
 - T1162 · "Inconscientes. Qué desperdicio de material."
 - T1161 · "Magnifique. Un humano que huele a pan recién hecho, con cuatro kagune, promete proteger a los ghouls... Ni la mejor ópera se atrevería a tanto."

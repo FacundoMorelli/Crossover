@@ -3,52 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1164)
-si
-
-## RESPUESTA 1 (T1164)
-
-> —Sí.
-
-Kaneki no entra enseguida. Mira hacia el cuarto de Hinami, la puerta entornada, y la cierra con cuidado hasta que hace un clic suave. Después se sienta en el borde de la mesa baja, frente al sofá, con los codos en las rodillas.
-
-En la silla junto a la ventana, Tsukiyama da vuelta una página. No levanta la vista, pero tampoco sigue leyendo.
-
-Kaneki se mira las manos. Tiene las uñas negras, y en las comisuras de la boca todavía quedan restos secos de algo oscuro que la toalla no alcanzó a sacar.
-
-—Yo era humano —dice—. Hace unos meses. Iba a la universidad, leía novelas, tomaba café con un amigo los domingos. Después tuve un accidente, me pusieron órganos de alguien más y me desperté así.
-
-Aprieta los dedos.
-
-—Desde ese día tengo hambre. Siempre. A veces más, a veces menos, pero nunca se va. La comida de antes me da asco. Y cuando dejo de comer mucho tiempo... —Mira hacia la escalera, hacia abajo, hacia donde estaba la mansión hace una hora—. Pasa lo que viste.
-
-Levanta la vista. Tiene los ojos normales otra vez, los dos grises, cansados.
-
-—Tú tienes cuatro kagune. Hueles a humano. Te tomaste el café como si nada. Y Yoshimura-san dijo que tu kagune no tiene hambre. —Se le quiebra la voz apenas, y la vuelve a juntar—. ¿Cómo lo haces? ¿Hay una forma de... dejar de tener hambre?
-
-Kase, sobre la almohada, abre un ojo, el rojo, y lo mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1164 · TOKYO GHOUL · NOCHE · 00:26     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: sobre la almohada del sofá             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1165)
+## COMANDO 1 (T1165)
 acercate kaneki
 
-## RESPUESTA 2 (T1165)
+## RESPUESTA 1 (T1165)
 
 > —Acércate, Kaneki.
 
@@ -83,10 +41,10 @@ Kaneki traga saliva. No pregunta nada más. Espera.
 
 ---
 
-## COMANDO 3 (T1166)
+## COMANDO 2 (T1166)
 toco a kaneki y uso la tecnica de mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal, toma prueba esto, le doy una manzana
 
-## RESPUESTA 3 (T1166)
+## RESPUESTA 2 (T1166)
 
 > toco a Kaneki y uso la técnica de Mahito para sacarle el hambre y que no quiera vomitar cuando coma comida normal
 
@@ -147,7 +105,51 @@ Kaneki traga. Se seca la cara con el dorso de la muñeca y te mira, con los ojos
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1167)
+con los que quieran
+
+## RESPUESTA 3 (T1167)
+
+> —Con los que quieran.
+
+Kaneki asiente rápido, varias veces, apretando la manzana. No dice nada. No le sale.
+
+En el otro extremo de la sala, Tsukiyama se recupera primero. Levanta el libro del piso, lo sacude con dos dedos y se lleva la otra mano al pecho, con un dramatismo exagerado.
+
+—Con los que quieran —repite, como saboreando las palabras—. Entonces permítame ser el primero en declinar, monsieur. —Hace una reverencia corta—. Usted acaba de hacer algo que no tiene precio, y lo digo con toda sinceridad. Pero yo no renunciaría a mi paladar ni a cambio de la luna.
+
+Mira a Kaneki, que tiene jugo de manzana en el mentón, y por un instante algo complicado le cruza la cara: hambre, celos, ternura y una tristeza que no termina de entender. Se le pasa enseguida.
+
+—Aunque admito —agrega, más bajo— que nunca había visto a mi querido Kaneki comer con esa cara.
+
+Cruje una tabla en el pasillo.
+
+La puerta del cuarto de la derecha está abierta. Banjou está en el marco, enorme, descalzo, con la camisa ensangrentada desabrochada y una mano en las costillas. Detrás de él, en la penumbra, se asoman las tres máscaras antigás, ladeadas, como tres cabezas de búho.
+
+No estaban dormidos. Las paredes de arriba son finas.
+
+Banjou mira la manzana en la mano de Kaneki. Mira el corazón mordido, la cáscara roja, el jugo. Después te mira a ti.
+
+—¿Es verdad? —pregunta con la voz grave y ronca—. ¿Puedes hacer que uno ya no tenga que... comer gente?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1167 · TOKYO GHOUL · NOCHE · 00:32     ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá                             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:30, sala de arriba de Anteiku. Kaneki, sin hambre, come la manzana y pregunta si Facundo puede hacer lo mismo con Hinami, Banjou y los demás. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 00:32, sala de arriba de Anteiku. Tsukiyama declinó. Banjou pregunta si es verdad que puede quitarle la necesidad de comer gente. Facundo puede responder.
