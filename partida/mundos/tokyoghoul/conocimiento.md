@@ -197,3 +197,4 @@
 - Aogiri en la azotea, Ayato · T1268 · Facundo se presentó como "Eclipse", el Panadero.
 - Capa roja (Tatara) · T1268 · por el rumor: el Panadero (ojos de dos colores, gato, quita el hambre); la CCG se retiró del 20 sin el Búho; algunos de Aogiri preguntaron si vale la pena ir.
 - Ayato, Aogiri en la azotea · T1269 · por Touka: Anteiku sigue abierto, 7:30 todos los días.
+- Facundo, Touka · T1270 · por Ayato: en Aogiri hay gente que conoce la cara de Touka (la de la máscara de conejo que atacó investigadores el año pasado).

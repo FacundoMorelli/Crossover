@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1267)
-lo detengo con un solo brazo a todos, tienes razon, alguien que ataca a su propia familia no merece llamarse hermano de nadie
-
-## RESPUESTA 1 (T1267)
-
-> lo detengo con un solo brazo, a todos
-
-Te pones delante de Touka y levantas el brazo derecho.
-
-Los cristales llegan. Cientos. Violetas, filosos, aullando.
-
-Y se estrellan contra tu brazo. Contra la manga del sobretodo, contra la mano abierta, contra el antebrazo. Uno detrás de otro, en una lluvia que dura dos segundos y suena como granizo sobre un techo de chapa. Se rompen al tocarte. Se hacen polvo violeta que el viento se lleva hacia el mar.
-
-Ninguno pasa. Ninguno llega a Touka. Ninguno te deja una marca.
-
-El último se deshace contra tu palma. Bajas el brazo. La manga del sobretodo humea un poco.
-
-> —Tienes razón. Alguien que ataca a su propia familia no merece llamarse hermano de nadie.
-
-Ayato se queda en el borde, con las alas todavía abiertas, temblando. La boca abierta. Mira tu brazo. Mira el polvo violeta que se va con el viento. Mira a Touka, detrás de ti, que no se movió, que todavía tiene la media tostada en la mano.
-
-—Tú... —La voz se le quiebra de rabia—. ¡¿Tú qué carajo sabes de familia?! ¡No sabes nada! ¡Ella se fue! ¡Ella eligió a los humanos, al viejo, al café...!
-
-Pero las alas le titilan. Se le encienden y se le apagan, como una lámpara a punto de quemarse. Y no vuelve a disparar.
-
-Detrás de ti, Touka habla, muy bajo.
-
-—Ayato.
-
-Él aprieta los dientes. No la mira.
-
-Entonces la puerta de metal de la azotea, junto al tanque oxidado, se abre de una patada.
-
-Por la puerta sale una docena de figuras con capas oscuras y máscaras, desplegándose en semicírculo sobre el cemento. Los de Aogiri. Detrás de ellos, sin apuro, salen dos más.
-
-Uno es un hombre alto y delgado, de pelo blanco corto, con una capa roja y una máscara que le tapa la boca. Camina con las manos en la espalda. Tiene los ojos fríos y tranquilos como una piedra de río. Es una de las dos presencias pesadas del último piso.
-
-El otro es enorme, encorvado, con una máscara de tela negra cosida que le tapa toda la cabeza, sin rasgos, como un muñeco de trapo. Se queda en la puerta, inmóvil. Es la otra. La hueca. La que no se parece a nada.
-
-El de la capa roja se detiene. Mira a Ayato en el borde. Mira a Touka. Te mira a ti. Mira tu brazo, la manga humeante.
-
-—Ayato —dice. La voz es baja, fría, sin apuro—. ¿Quiénes son?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1267 · TOKYO GHOUL · DÍA 7 · 21:13     ║
-║ Bahía · azotea de la base de Aogiri          ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 89% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 76                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: Touka y Ayato                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1268)
+## COMANDO 1 (T1268)
 Me llamo eclipse, me conocen como el panadero
 
-## RESPUESTA 2 (T1268)
+## RESPUESTA 1 (T1268)
 
 > —Me llamo Eclipse. Me conocen como el Panadero.
 
@@ -111,10 +51,10 @@ Detrás de ti, Touka aprieta la media tostada en el puño hasta deshacerla.
 
 ---
 
-## COMANDO 3 (T1269)
+## COMANDO 2 (T1269)
 bueno, lista para irnos?
 
-## RESPUESTA 3 (T1269)
+## RESPUESTA 2 (T1269)
 
 > —Bueno, ¿lista para irnos?
 
@@ -163,7 +103,61 @@ Touka se queda clavada. No se da vuelta. Te aprieta la manga tan fuerte que se l
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1270)
+espero
+
+## RESPUESTA 3 (T1270)
+
+> espero
+
+Te quedas quieto. Touka también.
+
+Detrás de ustedes, unos pasos sobre el cemento. Cortos, duros, que se detienen. Vuelven a empezar.
+
+Ayato baja del borde. Cruza la azotea entre las capas oscuras, que se apartan sin que nadie se lo pida. El de la capa roja lo mira pasar.
+
+—Ayato —dice, bajo, frío. Una advertencia.
+
+Ayato no le contesta. No lo mira.
+
+Se detiene a dos pasos de Touka, detrás de ella. No la toca. Tiene las manos metidas en los bolsillos de la campera demasiado grande, y los hombros encogidos contra el viento.
+
+—No te hagas humana todavía —dice. La voz le sale ronca, a los tirones, como si cada palabra le costara sacarla de un lugar muy hondo—. No es por lo que dije. Es... —Aprieta los dientes—. Hay gente aquí que sabe tu cara. La de la máscara de conejo. La que le pegó a esos investigadores el año pasado. Si un día te encuentran y no tienes con qué...
+
+No termina.
+
+Touka no se da vuelta. Pero le tiembla la espalda.
+
+Ayato levanta la vista. No hacia ella. Hacia ti. Por encima del hombro de su hermana, con los ojos todavía negros y rojos, pero ya sin el brillo de rabia de antes. Lo que queda es otra cosa. Cansancio. El mismo que sentiste desde lejos con el ki.
+
+Te mira el brazo, la manga que todavía humea un poco. Te mira la cara.
+
+—Tú. Panadero. —Traga—. Paraste todo eso con un brazo. Paraste a la CCG. Al Búho.
+
+Saca una mano del bolsillo. La cierra en un puño. Lo abre.
+
+—¿Puedes cuidarla?
+
+Lo dice muy bajo. Tan bajo que los de las capas no lo oyen. Solo tú, y Touka, que aprieta tu manga hasta que el puño le tiembla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1270 · TOKYO GHOUL · DÍA 7 · 21:17     ║
+║ Bahía · azotea de la base de Aogiri          ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 89% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: Touka y Ayato                      ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:16, azotea de Aogiri. Touka se despidió de Ayato y estaban por irse. Ayato dijo "Espera." Touka se quedó clavada. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:17, azotea de Aogiri. Ayato le pide a Touka que no se vuelva humana todavía y le pregunta a Facundo, muy bajo, si puede cuidarla. Facundo puede responder.
