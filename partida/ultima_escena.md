@@ -3,72 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1170)
-tomen, saco comida del abrigo y se las doy, yo voy a dormir, mañana yoshimura va a tener muchas preguntas
-
-## RESPUESTA 1 (T1170)
-
-> —Tomen.
-
-Metes la mano en el sobretodo y empiezas a sacar comida, una cosa detrás de otra, mucho más de lo que podría caber en ningún bolsillo: una bolsa de pan de molde, una bandeja de onigiri envueltos en film, un pollo asado todavía tibio en su caja de cartón, una docena de bollos dulces, dos botellas de té frío y un paquete de galletas. Lo vas dejando sobre la mesa baja hasta que no queda lugar.
-
-Nadie pregunta de dónde sale. A esta altura de la noche, ya nadie pregunta nada.
-
-Banjou agarra un onigiri con las dos manos, como si fuera algo vivo. Lo desenvuelve torpe, con los dedos enormes, y lo muerde. Cierra los ojos. Mastica muy despacio. No dice nada, pero los hombros se le aflojan de una forma que no se le aflojaron en toda la noche.
-
-El de cara redonda ya está con el pollo. El muchacho flaco y el de la cicatriz comparten la bolsa de pan, en silencio, de a una rebanada por vez, y se miran cada tanto como para confirmar que al otro tampoco le da asco.
-
-Kaneki toma un bollo dulce y lo sostiene sin morderlo todavía.
-
-> —Yo voy a dormir. Mañana Yoshimura va a tener muchas preguntas.
-
-—Muchas —dice Kaneki, muy bajo, con algo parecido a una sonrisa—. Buenas noches.
-
-Te acuestas en el sofá con la manta gris. Kase espera a que termines de acomodarte y se te sube al pecho, da una vuelta y se echa, pesado y tibio, con la cola sobre tu cuello.
-
-Lo último que escuchas es el ruido de papel desenvolviéndose, gente masticando bajito, y a Tsukiyama que, desde la ventana, suspira una sola vez, largo.
-
-...
-
-Te despierta una pata en la cara.
-
-Kase está sentado sobre tu pecho, mirándote fijo, con la pata todavía apoyada en tu mejilla. Por los bordes de las cortinas gruesas entra una luz gris de mañana. Huele a café y a pan tostado.
-
-La mesa baja está vacía, salvo por envoltorios doblados con cuidado y una pila ordenada de cáscaras. El de cara redonda duerme en el piso, abrazado a la caja vacía del pollo. La silla junto a la ventana está vacía: el libro de Tsukiyama quedó sobre el asiento, cerrado, con una tarjeta blanca de borde dorado metida entre las páginas.
-
-Abajo hay voces. Una es la de Yoshimura, tranquila. La otra es de una chica, y no está tranquila para nada.
-
-—¡¿Que hizo qué?!
-
-Se oye un golpe seco, como de alguien que pateó un taburete, y después pasos rápidos subiendo la escalera, de dos escalones por vez.
-
-Una muchacha aparece en la puerta de la sala. Es delgada, con el pelo corto, oscuro y lacio, y un flequillo que le tapa un ojo. Lleva un delantal de mesera encima de la ropa, y la cara roja de furia o de algo parecido. Detrás de ella, en la escalera, Kaneki se frota la mejilla.
-
-Te mira. Mira a Kase sobre tu pecho. Te vuelve a mirar.
-
-—¿Tú eres el viajero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1170 · TOKYO GHOUL · MAÑANA · 07:12    ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el pecho                            ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1171)
+## COMANDO 1 (T1171)
 buenos dias para ti tambien, si soy el viajero
 
-## RESPUESTA 2 (T1171)
+## RESPUESTA 1 (T1171)
 
 > —Buenos días para ti también. Sí, soy el viajero.
 
@@ -115,10 +53,10 @@ Se calla. Aprieta los labios, enojada consigo misma por haberlo dicho.
 
 ---
 
-## COMANDO 3 (T1172)
+## COMANDO 2 (T1172)
 les cambie lo que pueden comer, sus cuerpos se alimentan con comida normal y con eso pueden vivir y regenerarse, pueden seguir comiendo carne humana si quieren pero ya no sienten hambre de eso
 
-## RESPUESTA 3 (T1172)
+## RESPUESTA 2 (T1172)
 
 > —Les cambié lo que pueden comer. Sus cuerpos se alimentan con comida normal, y con eso pueden vivir y regenerarse. Pueden seguir comiendo carne humana si quieren, pero ya no sienten hambre de eso.
 
@@ -153,7 +91,49 @@ Touka mira por la ventana, hacia la cortina cerrada, para no mirarte a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1173)
+a cualquiera
+
+## RESPUESTA 3 (T1173)
+
+> —A cualquiera.
+
+Touka se queda mirando la cortina.
+
+No se mueve. Solo los dedos, sobre los brazos cruzados, se le aprietan contra la tela del delantal hasta que se le ponen blancos los nudillos.
+
+Abajo, el reloj de pared da la media hora con una campanada chica.
+
+—Tengo que abrir a las siete y media —dice, a nadie en particular.
+
+Pero no baja.
+
+Descruza los brazos. Entra en la sala con pasos cortos y rápidos, como si llegara tarde a algún lado, pasa por encima del de cara redonda sin mirarlo y se sienta de golpe en el borde de la mesa baja, frente a ti, en el mismo lugar donde anoche estuvo Kaneki. Tira los envoltorios a un costado con el dorso de la mano para hacerse lugar.
+
+Te mira por fin. De cerca, el ojo que no le tapa el flequillo es gris oscuro, y está furioso, y debajo de lo furioso hay otra cosa que no te quiere mostrar.
+
+—Hazlo —dice. Levanta la barbilla—. Y si me haces algo raro, te mato.
+
+En la escalera, Kaneki se tapa la boca con la mano. Kase, en la otra punta del sofá, gira una oreja hacia ella sin darse vuelta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1173 · TOKYO GHOUL · MAÑANA · 07:15    ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá, de espaldas                ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:14, sala de arriba de Anteiku. Touka pregunta, sin mirarlo, si la transfiguración le sirve a cualquiera o solo a los que eran humanos. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:15, sala de arriba de Anteiku. Touka sentada frente a Facundo pide la transfiguración. Facundo puede actuar.
