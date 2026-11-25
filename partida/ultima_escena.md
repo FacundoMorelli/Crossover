@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1169)
-hago lo mismo (igual una pregunta, les saco el hambre pero que pasa exactamente?)
-
-## RESPUESTA 1 (T1169)
-
-> hago lo mismo
-
-Le apoyas la palma a Banjou en la frente, sobre la cabeza gacha.
-
-Su alma es ancha y pesada, como él, y está llena de marcas viejas: golpes recibidos, cosas tragadas con asco, años de bajar la cabeza. El anzuelo está ahí, clavado igual que en Kaneki, pero más hondo, más antiguo, como un clavo oxidado que ya se hizo parte de la madera. Lo sacas igual. Alisas el borde. Devuelves el gusto a lo que tenía antes de nacer así, aunque Banjou nunca tuvo un antes.
-
-Banjou suelta el aire de golpe, un ruido largo y bajo, como un fuelle que se vacía. Se queda arrodillado, con los ojos cerrados y los puños apoyados en el piso.
-
-Los tres de la puerta se acercan sin que los llames. El muchacho flaco primero, después el de la cicatriz en el labio, después el de cara redonda, que tiembla tanto que tienes que sostenerle la nuca con la otra mano. Uno por uno: la palma en la frente, el anzuelo afuera, el borde liso. Los tres son más chicos por dentro que Banjou, más simples, y en los tres el anzuelo es igual de grande.
-
-Cuando terminas con el último, el de cara redonda se sienta en el piso de golpe, como si le hubieran cortado los hilos, y se pone a reír bajito, sin saber por qué.
-
-Entonces suena el estómago de Banjou.
-
-Fuerte. Un rugido largo que se escucha en toda la sala.
-
-Banjou abre los ojos. Se lleva la mano a la panza, despacio, con cara de no entender. Después mira a Kaneki, y Kaneki, con media manzana en la mano, se ríe por primera vez en toda la noche: una risa corta y rota que se le escapa sin permiso.
-
-—Tengo hambre —dice Banjou, atónito—. Pero no de... —Se le quiebra la voz—. Tengo ganas de comer pan. De arroz. Hace años que no... Nunca tuve ganas de comer arroz.
-
-Desde su silla, Tsukiyama se cubre los ojos con una mano.
-
-—Esto es una tragedia —murmura—. Una tragedia hermosa.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1169 · TOKYO GHOUL · NOCHE · 00:36     ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá                             ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-Fuera de la partida, qué pasa exactamente con los que transfiguras:
-- Siguen siendo ghouls. Conservan el kagune, el kakugan cuando lo usan, la fuerza, la regeneración y la piel dura. Las células RC no cambian, así que los detectores de la CCG (las puertas RC) los siguen marcando, y su olor sigue siendo de ghoul.
-- Lo único que cambia es la comida. Su cuerpo ahora se alimenta con comida normal, y con ella les alcanza para vivir y para regenerarse. Para curar una herida grande necesitan comer mucho, como le pasa ahora a Banjou.
-- No sienten hambre de carne humana y la comida normal ya no les da asco. Si quieren, pueden seguir comiendo carne humana o de ghoul, pero no la necesitan ni la desean. El kakuja (comer otros ghouls para hacerse más fuertes) les sigue funcionando si alguna vez lo eligen.
-- Es permanente.
-
----
-
-## COMANDO 2 (T1170)
+## COMANDO 1 (T1170)
 tomen, saco comida del abrigo y se las doy, yo voy a dormir, mañana yoshimura va a tener muchas preguntas
 
-## RESPUESTA 2 (T1170)
+## RESPUESTA 1 (T1170)
 
 > —Tomen.
 
@@ -117,10 +65,10 @@ Te mira. Mira a Kase sobre tu pecho. Te vuelve a mirar.
 
 ---
 
-## COMANDO 3 (T1171)
+## COMANDO 2 (T1171)
 buenos dias para ti tambien, si soy el viajero
 
-## RESPUESTA 3 (T1171)
+## RESPUESTA 2 (T1171)
 
 > —Buenos días para ti también. Sí, soy el viajero.
 
@@ -165,7 +113,47 @@ Se calla. Aprieta los labios, enojada consigo misma por haberlo dicho.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1172)
+les cambie lo que pueden comer, sus cuerpos se alimentan con comida normal y con eso pueden vivir y regenerarse, pueden seguir comiendo carne humana si quieren pero ya no sienten hambre de eso
+
+## RESPUESTA 3 (T1172)
+
+> —Les cambié lo que pueden comer. Sus cuerpos se alimentan con comida normal, y con eso pueden vivir y regenerarse. Pueden seguir comiendo carne humana si quieren, pero ya no sienten hambre de eso.
+
+La muchacha no contesta enseguida.
+
+Se queda en el marco de la puerta con los brazos cruzados, pero algo en la postura se le afloja, apenas. Mira hacia la mesa baja: los envoltorios de onigiri doblados, las cáscaras, la bolsa vacía del pan. Mira al de cara redonda, que sigue en el piso abrazado a la caja del pollo como si fuera un tesoro.
+
+—¿Y el kagune? —pregunta al final, áspera—. Si alguien de la CCG entra por esa puerta, ¿siguen sirviendo para algo o los dejaste como humanos con dientes?
+
+—Sigue ahí, Touka-chan. —Es Kaneki, desde la escalera, en voz baja—. Lo siento. Igual que siempre. Solo que ya no me pide nada.
+
+Touka chasquea la lengua sin mirarlo.
+
+Pasa un momento largo. Afuera, en la calle, alguien levanta la persiana de un negocio con un estruendo metálico. Abajo, Yoshimura mueve tazas; se oye el tintineo de la porcelana contra el platillo.
+
+Touka mira por la ventana, hacia la cortina cerrada, para no mirarte a ti.
+
+—Y eso... —empieza. Se interrumpe. Se le ponen rojas las orejas—. Eso que hiciste. ¿Le sirve a cualquiera? ¿O solo a los que eran humanos antes, como este idiota?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1172 · TOKYO GHOUL · MAÑANA · 07:14    ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá, de espaldas                ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:13, sala de arriba de Anteiku. Touka confesó que vomita la comida humana y pregunta qué le hizo exactamente a Kaneki. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:14, sala de arriba de Anteiku. Touka pregunta, sin mirarlo, si la transfiguración le sirve a cualquiera o solo a los que eran humanos. Facundo puede responder.

@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1172 · "Sigue ahí, Touka-chan. Lo siento. Igual que siempre. Solo que ya no me pide nada."
 - T1170 · "Muchas. Buenas noches."
 - T1166 · "Se fue. Está... callado." "Es dulce. Sabe a manzana." "Hinami. Banjou-san. Los demás. ¿Puedes hacer esto con ellos también?"
 - T1164 · "Yo era humano. Hace unos meses." "Desde ese día tengo hambre. Siempre." "¿Cómo lo haces? ¿Hay una forma de... dejar de tener hambre?"
