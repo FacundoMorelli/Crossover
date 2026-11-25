@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1255)
-a ti no te imporrta eso
-
-## RESPUESTA 1 (T1255)
-
-> —A ti no te importa eso.
-
-Eto se queda mirándote.
-
-Los ojos verdes, entre las vendas, no parpadean. Por un segundo, en el salón, el aire se pone pesado, denso, como antes de una tormenta. Detrás de las vendas, algo enorme se mueve, despierta, se estira apenas.
-
-Kase, en tu hombro, le muestra los dientes.
-
-Y después, igual de rápido, el aire se afloja. Eto suelta una risita por la nariz.
-
-—Qué grosero. —Se lleva una mano vendada al pecho, ofendida de mentira—. Y yo que pensaba que éramos amigos.
-
-Se da vuelta, girando sobre un talón, y camina hacia la puerta con las manos otra vez detrás de la espalda, tarareando algo sin melodía. Al pasar junto a la barra, sin mirar, le dice a Yoshimura:
-
-—Me alegra que comas pan, papá. De verdad. —La voz es dulce. Nadie sabe si miente—. Pero no te acostumbres. Esta ciudad no cambia porque un viejito firme un papel.
-
-Yoshimura no le contesta. La sigue con los ojos.
-
-Eto llega a la puerta. Agarra el picaporte. La campanita suena cuando la abre.
-
-Da un paso hacia la vereda.
-
-Y rebota.
-
-Se frena en seco contra el aire, en el umbral, con un sonido sordo, como si se hubiera llevado por delante una pared de vidrio. La capucha se le corre para atrás. Se queda quieta un segundo, con la puerta abierta en la mano y la nariz vendada apoyada contra la nada.
-
-Estira un dedo. Lo apoya en el aire. No pasa.
-
-Empuja con la palma abierta. Nada. Empuja con el hombro. Nada.
-
-Detrás de las vendas, despacio, algo que podría ser una sonrisa se le congela.
-
-Se da vuelta hacia ti. Muy despacio.
-
-—Panadero. —La voz cantarina tiene, por primera vez, un filo—. ¿Me encerraste con mi papá?
-
-En la escalera, a Nishiki se le escapa una risa nerviosa que convierte enseguida en tos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1255 · TOKYO GHOUL · DÍA 7 · 20:51     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, mostrando los dientes    ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1256)
+## COMANDO 1 (T1256)
 me olvide de eso, saco la barrera
 
-## RESPUESTA 2 (T1256)
+## RESPUESTA 1 (T1256)
 
 > —Me olvidé de eso.
 
@@ -124,10 +63,10 @@ Levanta la vista hacia la puerta, hacia la vereda vacía. Después hacia Yoshimu
 
 ---
 
-## COMANDO 3 (T1257)
+## COMANDO 2 (T1257)
 todavia no te diste cuenta?
 
-## RESPUESTA 3 (T1257)
+## RESPUESTA 2 (T1257)
 
 > —¿Todavía no te diste cuenta?
 
@@ -176,7 +115,63 @@ Afuera, en la calle, pasa un auto despacio. Los faros iluminan un instante el sa
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1258)
+tu hija no sabe que hay gente todavia capaz de cambiar el mundo, le falta madurar
+
+## RESPUESTA 3 (T1258)
+
+> —Tu hija todavía no sabe que hay gente capaz de cambiar el mundo. Le falta madurar.
+
+Yoshimura deja de doblar repasadores.
+
+Se queda con uno a medio doblar en las manos. Te mira por encima del hombro. Y se le escapa algo que no esperabas: una risa. Corta, suave, cansada, por la nariz.
+
+—Le falta madurar —repite. Asiente despacio—. Sí. Es posible.
+
+Termina de doblar el repasador. Lo deja con los otros.
+
+—Pero no es culpa de ella, Morelli-san. —Se apoya en la barra con las dos manos—. Un chico que crece solo no madura. Se endurece. Que no es lo mismo. —Hace una pausa—. Y ella creció sola. Porque yo la dejé sola, cuando era muy chica, en un lugar donde nadie iba a buscarla. Creí que la estaba salvando.
+
+Mira la puerta, la vereda vacía, el farol de la esquina.
+
+—Las historias que escribe hablan de gente que intenta arreglar el mundo y fracasa. —Lo dice sin amargura, como quien lee un dato en voz alta—. Porque es lo único que vio. Gente que lo intentó y fracasó. Empezando por su padre.
+
+Nadie dice nada en el salón. Touka mira el piso. Koma se rasca la nuca, incómodo. Hinami, detrás de Nishiki, abraza a su muñeca.
+
+Kaneki da un paso hacia la barra. Mira el libro que tiene en las manos. Lo mira mucho tiempo, como si le costara. Después lo deja sobre la madera, delante de Yoshimura, con la tapa hacia arriba, y lo empuja despacio con dos dedos hasta que toca las manos del viejo.
+
+—Usted debería leerlo primero —dice, en voz baja.
+
+Yoshimura mira el libro. Mira a Kaneki.
+
+Lo toma. Despacio. Con las dos manos, igual que toma las tazas.
+
+Pasa la mano una vez por la tapa negra, por las letras doradas, como si le sacara un polvo que no tiene. No lo abre.
+
+—Gracias, Kaneki-kun.
+
+Después levanta la vista hacia ti. Los ojos se le arrugan en los bordes.
+
+—Y si algún día usted vuelve a cruzarse con ella... —Se calla. Lo piensa. Niega despacio con la cabeza—. No. Nada. Ella va a buscarlo cuando quiera. Siempre fue así.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1258 · TOKYO GHOUL · DÍA 7 · 20:58     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:55, salón de Anteiku. Kaneki descubrió que Takatsuki Sen es Eto, hija de Yoshimura. Yoshimura mira el libro sin pedirlo. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:58, salón de Anteiku. Yoshimura habla de Eto; Kaneki le dio el libro. Calma después de la operación. Facundo puede actuar.

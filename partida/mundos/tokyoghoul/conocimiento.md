@@ -177,3 +177,4 @@
 - Kaneki · T1256 · el libro que dejó Eto es la próxima novela de Takatsuki Sen, inédita y firmada. No sabe la relación entre Eto y Takatsuki.
 - Kaneki · T1257 · deducción (pista de Facundo + firma con búho de un ojo + ojos verdes + libro inédito + temas): Takatsuki Sen es Eto, ghoul e hija de Yoshimura.
 - Todos en Anteiku · T1257 · lo oyeron; Yoshimura lo confirma implícitamente ("escribe desde chica").
+- Facundo y todos en Anteiku · T1258 · por Yoshimura: dejó sola a Eto de muy chica "en un lugar donde nadie iba a buscarla", creyendo salvarla.
