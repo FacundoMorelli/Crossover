@@ -1287,3 +1287,4 @@ T1285 · BC · Amanecer Dorado · Yami explica: Langris con maná como el de Vet
 T1286 · BC · Amanecer Dorado · "Oculta algo, y el Rey Mago también." Facundo y Yami sienten a Julius y William en la muralla; algo despierta dentro de William.
 T1287 · BC · Muralla oeste · Llega con Yami. Julius: "¡Facundo-kun!" William se transforma: "Más humanos." Tres espadas de luz apuntan.
 T1288 · BC · Muralla oeste · Noquea al otro alma de William (+1.000 F, +2.000 EXP). Julius vivo. "Les debo una explicación."
+T1289 · BC · Muralla oeste · Julius explica: dos almas en William; lo otro no es humano y quizá manda en el Ojo; lo de las Rocas Gravito es una trampa. "¿Qué piensas hacer con él?"

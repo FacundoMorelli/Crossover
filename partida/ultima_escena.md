@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1286)
-creo que el oculta algo y tambien el rey mago
-
-## RESPUESTA 1 (T1286)
-
-> —Creo que él oculta algo. Y también el Rey Mago.
-
-Yami se queda con el cigarro a medio camino de la boca.
-
-—¿Julius? —Lo dice despacio, como quien prueba si una tabla aguanta el peso—. ¿El viejo?
-
-Baja el cigarro. Se queda mirándote un rato largo. No hay enojo en la cara. Hay otra cosa, más incómoda: alguien al que le pusieron en palabras algo que ya le daba vueltas y no quería mirar.
-
-—Julius fue el que trajo a William a los Caballeros —dice al final—. Hace años. Un mocoso con la cara quemada, que nadie quería. Lo protegió de todos. Lo hizo capitán antes que a nadie de su edad. —Aprieta la mandíbula—. Si alguien sabe qué hay debajo de esa máscara, es él.
-
-Tira el cigarro a medio fumar por encima de la balaustrada. Lo mira caer hasta el patio.
-
-—Y hoy, justo hoy, Julius no fue con los Caballeros Reales. Se quedó en la capital. Solo.
-
-Cierra los ojos un momento. Respira hondo, despacio. Lo sientes: está extendiendo el Ki, como una red, hacia toda la ciudad.
-
-Tú también lo sientes. Más rápido que él.
-
-Al oeste de la capital, en lo alto de la muralla exterior, lejos de las casas, hay dos presencias juntas.
-
-Una la conoces: Julius. Brillante, ordenada, enorme, como un reloj de cristal que hace tic tac por dentro.
-
-La otra está a su lado. Tranquila, amable, conocida y desconocida a la vez. Y mientras la sientes, cambia. Despacio. Como una moneda que se da vuelta sola sobre una mesa. Por debajo de lo amable aparece algo viejo, frío y enorme, que no se parece a nada de este reino. Algo que lleva mucho tiempo esperando.
-
-Yami abre los ojos de golpe.
-
-Se le fue todo el color de la cara.
-
-—William no va a venir aquí —dice, con la voz baja, ronca—. Está en la muralla. Con Julius.
-
-Agarra la katana con las dos manos.
-
-—Y lo que tiene adentro acaba de despertarse.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1286 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · base de Amanecer Dorado · terraza  ║
-║ NIVEL 29 · EXP 290.980/320.000 · 12:20       ║
-║ FRAGMENTOS 110.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1287)
+## COMANDO 1 (T1287)
 vamos, me teletransporto con yami, hola hola, como estan, mucho gusto rey mago, mucho gusto capitan del amanecer dorado
 
-## RESPUESTA 2 (T1287)
+## RESPUESTA 1 (T1287)
 
 > —Vamos.
 
@@ -131,10 +75,10 @@ Levanta una mano. Sobre la muralla, en el aire, se forman tres espadas de luz bl
 
 ---
 
-## COMANDO 3 (T1288)
+## COMANDO 2 (T1288)
 noqueo a william, bueno bueno
 
-## RESPUESTA 3 (T1288)
+## RESPUESTA 2 (T1288)
 
 > noqueo a William
 
@@ -193,7 +137,61 @@ Julius no levanta la vista. Sigue agachado junto a William, con la mano todavía
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1289)
+te escuchamos
+
+## RESPUESTA 3 (T1289)
+
+> —Te escuchamos.
+
+Julius se queda agachado junto a William un momento más. Después se sienta en la piedra de la muralla, con las piernas cruzadas, como un chico en un recreo. Cierra el libro. Lo deja en el regazo.
+
+—Lo encontré cuando tenía trece años —dice—. En un pueblo de la frontera, en la Región Abandonada. Tenía la cara quemada y nadie lo quería mirar. Un grimorio de un trébol de tres hojas que nadie le había enseñado a usar. —Sonríe apenas, sin alegría—. Me pareció la persona más gentil que había conocido en mi vida.
+
+El viento le revuelve el pelo rubio.
+
+—Al año me di cuenta. A veces, cuando lo miraba con mi magia, veía dos maná. El suyo, tranquilo, cálido. Y otro, por debajo. Dormido. Frío. Muy viejo. —Se mira las manos—. Se lo pregunté. Me dijo que lo sentía desde siempre. Que a veces soñaba con una boda que no era la suya. Con gente de orejas largas que se moría entre luces.
+
+Yami no dice nada. Se pasa una mano por la cara.
+
+—Le dije que no importaba. —Julius levanta la vista hacia Yami—. Que él era William, y que eso era lo que importaba. Que yo lo iba a proteger. Lo hice capitán. Le di una casa. Le di gente que lo quisiera. —Se le quiebra la voz, apenas—. Pensé que si tenía suficiente luz alrededor, lo otro se iba a quedar dormido para siempre.
+
+Mira el cuerpo en el suelo. El pelo blanco largo. La marca apagada en la frente.
+
+—Hace unas semanas, cuando el maná de Langris se volvió negro en el examen, supe que algo andaba mal. Que lo de adentro de William se estaba despertando, y que no era el único. —Aprieta el libro—. Hoy William me pidió que nos viéramos aquí. Me dijo que tenía que contarme algo. Que había otro a quien él también apreciaba, además de mí.
+
+Se queda callado.
+
+—Y después ya no era él.
+
+El viento sopla entre las almenas. Abajo, en la ciudad, suena una campana lejana: mediodía y media.
+
+Julius te mira a ti. Ya no tiene la sonrisa curiosa. Tiene la cara de un hombre que lleva diez años guardando un secreto y que acaba de soltarlo.
+
+—Lo que habló con su boca no es humano, Facundo-kun. Odia a los humanos con un odio que tiene siglos. Y si es quien yo creo que es, quien manda en el Ojo del Sol de Medianoche desde las sombras... —Respira hondo—. Lo que está pasando hoy en las Rocas Gravito no es un ataque. Es una trampa.
+
+Se inclina un poco hacia ti.
+
+—Tú lo dormiste de un golpe. Así que ahora la pregunta es tuya. —Hace una pausa—. ¿Qué piensas hacer con él?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1289 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · muralla oeste                      ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:30       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:22, muralla oeste. William noqueado, vivo. Julius vivo, agachado junto a él, va a dar una explicación. Yami pregunta qué era eso. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:30, muralla oeste. Julius contó el secreto de William y advirtió que el ataque a la base del Ojo es una trampa. Pregunta qué hará Facundo con William. Facundo puede responder.
