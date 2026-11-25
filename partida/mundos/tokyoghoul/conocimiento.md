@@ -56,3 +56,6 @@
 - Hinami · T1186 · Facundo se llama Facundo.
 - Muchacho de anteojos (Nishiki) · T1186 · vio a Facundo (pelo, tatuajes, ojos), al gato y a Hinami comiendo una tostada. No sabe nada más.
 - Facundo · T1186 · por el muchacho de anteojos: el apellido de Touka es Kirishima.
+- Hinami, Touka, Yoshimura, Nishiki · T1187 · Facundo dice tener 18 años.
+- Nishiki · T1187 · huele que Facundo es humano; Yoshimura lo presenta como "un invitado".
+- Facundo · T1187 · el muchacho de anteojos se llama Nishiki (por Touka y Yoshimura).

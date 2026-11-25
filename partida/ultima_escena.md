@@ -3,47 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1184)
-si hinami
-
-## RESPUESTA 1 (T1184)
-
-> —Sí, Hinami.
-
-Hinami se queda quieta en el último escalón, como si no se lo esperara tan rápido.
-
-Después baja del todo y cruza el local en puntas de pie, con la muñeca apretada contra el pecho, esquivando las mesas. Touka la sigue con la mirada desde la barra, con los labios apretados, y no dice nada.
-
-Hinami se detiene frente a tu taburete. Es tan chica que, sentado, le quedas casi a la altura de los ojos. Te mira la cara un rato, con mucha seriedad: la cicatriz, el ojo rojo, el ojo azul.
-
-—¿Duele? —pregunta.
-
-Y antes de que nadie conteste, cierra los ojos fuerte, como hacen los chicos antes de una vacuna, y levanta un poco la cara hacia ti. La bufanda le tapa la barbilla.
-
-Kase baja de la barra al taburete de al lado y se sienta a mirarla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1184 · TOKYO GHOUL · MAÑANA · 07:37    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1185)
+## COMANDO 1 (T1185)
 le acaricio el pelo, y lo hago
 
-## RESPUESTA 2 (T1185)
+## RESPUESTA 1 (T1185)
 
 > le acaricio el pelo, y lo hago
 
@@ -95,10 +58,10 @@ Hinami muerde otra vez, más grande. Con migas en la bufanda y mermelada en la c
 
 ---
 
-## COMANDO 3 (T1186)
+## COMANDO 2 (T1186)
 me llamo Facundo
 
-## RESPUESTA 3 (T1186)
+## RESPUESTA 2 (T1186)
 
 > —Me llamo Facundo.
 
@@ -144,7 +107,56 @@ Se le cae un poco la mandíbula.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1187)
+y hinami, no me digas viejo por favor tengo 18 años
+
+## RESPUESTA 3 (T1187)
+
+> —Y Hinami, no me digas señor, por favor. Tengo dieciocho años.
+
+Hinami se queda con la tostada a medio camino de la boca.
+
+—Pero... —Mira a Touka, como pidiendo ayuda, y Touka se encoge de hombros—. Eres alto. Y tienes muchos dibujos. Y una espada.
+
+Lo piensa con mucha seriedad, moviendo los labios sin sonido, como si probara opciones.
+
+—¿Facundo-nii? —prueba al final, bajito, y se pone colorada hasta las orejas.
+
+En el medio del local, el muchacho de los anteojos suelta una carcajada.
+
+—¿Dieciocho? —Se acomoda la mochila en el hombro y te mira de arriba abajo—. ¿Con esa pinta? Yo te daba veinticinco, mínimo. Y una condena en suspenso.
+
+—Nishiki —dice Touka, seca, sin levantar la vista del cuchillo de manteca que está limpiando—. Cállate y ponte el delantal. Llegas tarde.
+
+—Llego a las siete y cuarenta, como siempre. —Pero deja la mochila detrás de la barra igual, sin dejar de mirarte. Baja la voz, aunque no lo suficiente—. En serio, Kirishima. ¿Quién es? Huele a humano. ¿Y por qué la mocosa está comiendo pan?
+
+Yoshimura, en la otra punta de la barra, le alcanza un delantal doblado, sin apuro.
+
+—Nishiki-kun. Buenos días. Es un invitado.
+
+Nishiki agarra el delantal y se lo queda en la mano, sin ponérselo, esperando más.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1187 · TOKYO GHOUL · MAÑANA · 07:42    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+(Escribiste "no me digas viejo"; como Hinami te había dicho "señor", lo puse como "no me digas señor".)
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:41, Anteiku. Entra Nishiki y le pregunta a Touka qué se perdió. Facundo puede reaccionar.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:42, Anteiku. Hinami lo llama Facundo-nii. Nishiki desconfía y espera saber quién es. Facundo puede reaccionar.
