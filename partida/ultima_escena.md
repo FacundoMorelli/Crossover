@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1241)
-me dijo que tiene a alguien en su casa que tiene mucha hambre
-
-## RESPUESTA 1 (T1241)
-
-> —Me dijo que tiene a alguien en su casa que tiene mucha hambre.
-
-La cocina se queda en silencio.
-
-Kaneki frunce el ceño, sin entender.
-
-—¿Hambre? —repite—. ¿En la casa del presidente de la CCG? ¿Un ghoul? —Mira a Yoshimura—. Eso no tiene sentido. Ellos son los que...
-
-No termina.
-
-Yoshimura no le contesta. Se quedó mirando sus propias manos sobre la mesada, las manchas rojas que se le secan entre los dedos. Muy quieto. Como alguien que escucha, después de muchos años, la confirmación de algo que siempre sospechó y nunca quiso decir en voz alta.
-
-—Así que es eso —dice al final, tan bajo que casi no se oye.
-
-Levanta la vista. No mira a Kaneki. Te mira a ti.
-
-—Hay cosas de esa familia que no se dicen, Morelli-san. Ni en este café ni en ningún otro lugar de esta ciudad. Yo tampoco las voy a decir. —Se seca las manos otra vez en el repasador, aunque ya están secas—. Pero si el viejo Washuu lo invitó a su casa por eso... entonces usted no va a una negociación. Va a ver algo que muy poca gente vio y siguió viviendo.
-
-Touka abre la boca. La cierra. Mira a Kaneki, que tiene la cara pálida.
-
-Desde el piso, Koma deja la taza en el suelo. Irimi, a su lado, cierra los ojos un segundo y aprieta los dientes. El vendaje de toallas se le está tiñendo de rojo otra vez, despacio, del lado del hombro.
-
-Koma lo ve. Se le borra la sonrisa.
-
-—Panadero. —Te mira desde abajo, sin rastro del ruido de siempre—. Antes, en la avenida, me diste ese grano verde. —Traga—. ¿Te queda otro?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1241 · TOKYO GHOUL · DÍA 6 · 18:33     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la mesada                           ║
-║ Semillas del ermitaño: 77                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1242)
+## COMANDO 1 (T1242)
 si perdon me fui muy rapido y no llegue a curarla, le doy una semilla a irimi
 
-## RESPUESTA 2 (T1242)
+## RESPUESTA 1 (T1242)
 
 > —Sí, perdón. Me fui muy rápido y no llegué a curarla.
 
@@ -103,10 +54,10 @@ Te mira por encima del hombro.
 
 ---
 
-## COMANDO 3 (T1243)
+## COMANDO 2 (T1243)
 si. simula hasta mañana a las 10
 
-## RESPUESTA 3 (T1243)
+## RESPUESTA 2 (T1243)
 
 > —Sí.
 
@@ -172,7 +123,64 @@ El intercomunicador hace un clic. Una voz de mujer, joven, perfectamente educada
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1244)
+Facundo Morelli
+
+## RESPUESTA 3 (T1244)
+
+> —Facundo Morelli.
+
+Silencio en el parlante. Un segundo.
+
+Después, un zumbido eléctrico, grave, y el portón negro empieza a abrirse hacia adentro, solo, sin ruido, las dos hojas a la vez.
+
+Arima se agacha, levanta el maletín y se guarda el libro en el bolsillo del saco. Se pone a tu lado, a un paso de distancia, mirando al frente. No te pregunta nada. No te explica nada. Cuando caminas, camina contigo.
+
+Del otro lado del muro no hay una casa. Hay un jardín.
+
+Un jardín enorme, de esos que se ven en las postales: grava blanca rastrillada en círculos perfectos, piedras negras puestas con cuidado, un estanque quieto con peces rojos y blancos que se mueven despacio debajo del agua oscura, pinos viejos podados en formas que parecen nubes. Un sendero de piedras planas lo cruza en diagonal. No hay un solo sonido, salvo el agua y el crujido de tus pasos sobre las piedras.
+
+Kase, en tu hombro, no se mueve. Tiene las orejas aplastadas hacia atrás y la cola enroscada fuerte alrededor de tu cuello.
+
+Al final del sendero hay una casa tradicional de madera oscura, larga, de un solo piso, con techo de tejas curvas y puertas corredizas de papel. En la galería de madera, de rodillas junto a la entrada, espera una mujer joven con un kimono gris liso. Tiene el pelo negro recogido y la cara completamente quieta. Hace una reverencia profunda cuando llegan, hasta tocar la madera con la frente.
+
+—Bienvenido, Morelli-sama. El señor lo espera. —Es la voz del intercomunicador. Se levanta sin hacer ruido, abre la puerta corrediza y se hace a un lado—. Por favor, quítese el calzado.
+
+Arima se detiene al borde de la galería. No entra. Se queda de pie, con el maletín en la mano, mirando el jardín.
+
+Adentro, un pasillo de madera pulida, en penumbra, que huele a incienso y a té verde. Al fondo, una puerta corrediza abierta, y luz.
+
+Es una habitación de tatami, amplia y casi vacía. Una mesa baja de madera oscura. Un rollo con caligrafía colgado en la pared. Una ventana grande que da al jardín y al estanque.
+
+Detrás de la mesa, sentado sobre las piernas, hay un hombre muy viejo. Delgado, con el pelo blanco y escaso peinado hacia atrás, un kimono negro sencillo y las manos huesudas apoyadas sobre las rodillas. Tiene la cara surcada de arrugas y una sonrisa amable, la de un abuelo que espera a un nieto que llega de visita.
+
+Delante de él, sobre la mesa, hay dos tazas de té humeando. Una frente a él. La otra, frente al almohadón vacío del otro lado.
+
+—Morelli-kun. —La misma voz cálida del teléfono—. Llega puntual. Me alegro.
+
+Hace un gesto suave con la mano hacia el almohadón.
+
+—Siéntese, por favor. El té está recién hecho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1244 · TOKYO GHOUL · DÍA 7 · 10:01     ║
+║ Distrito 1 · casa Washuu, sala de tatami     ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, orejas aplastadas        ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: hablar con Tsuneyoshi              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 09:59, portón negro de la casa Washuu (Distrito 1). Arima espera junto al muro. El intercomunicador pide el nombre. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 10:01, sala de tatami de la casa Washuu. Tsuneyoshi invita a Facundo a sentarse frente al té. Facundo puede actuar.
