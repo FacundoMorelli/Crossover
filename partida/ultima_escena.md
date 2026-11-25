@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1118)
-quien sabe, los siguientes en ser arrestados van a ser la liga, eh allmight, te puedes quedar a explicar esto a los guardias mientras yo voy?
-
-## RESPUESTA 1 (T1118)
-
-> —Quién sabe. Los siguientes en ser arrestados van a ser los de la Liga. —Te giras—. Eh, All Might, ¿te puedes quedar a explicarles esto a los guardias mientras yo voy?
-
-El respirador de All For One se detiene un segundo.
-
-Después sale un sonido raro por el altavoz del casco. Bajo, entrecortado. Tardas un momento en darte cuenta de que es una risa.
-
-—"La Liga" —repite—. Qué palabra tan pequeña para lo que Tomura está construyendo. —La cabeza sin ojos se queda fija en ti—. Ve, entonces. Ve a buscarlo. Me encantaría saber cómo te va.
-
-All Might aprieta la mandíbula. Te suelta el hombro.
-
-—Me quedo —dice, sin apartar la vista de la silla—. Alguien tiene que explicarles a los de arriba por qué el Símbolo de la Paz apareció de la nada en el nivel más bajo de Tartarus. —Una sonrisa tensa, apenas—. Y alguien tiene que asegurarse de que él no se mueva.
-
-Los cañones del techo siguen girando entre ustedes dos, indecisos. El altavoz cruje.
-
-—¡All Might! ¡Identifíquese! ¡Y su acompañante también!
-
-—¡Soy yo! —ruge All Might hacia el techo, y la voz retumba en el metal de toda la celda—. ¡Bajen las armas! ¡Voy a subir a explicar todo!
-
-Después baja la voz y se inclina hacia ti, muy cerca, para que solo lo escuches tú.
-
-—Ten cuidado, joven Morelli. Él y Shigaraki... siempre supo cosas que no debería saber. Si puede avisarle, lo va a hacer.
-
-En la silla, All For One vuelve a respirar despacio. Tranquilo. Como si estuviera esperando algo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1118 · BOKU NO HERO · DIC. · 12:03     ║
-║ Tartarus · celda de contención, nivel más    ║
-║ bajo                                         ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Con: All Might (se queda con los guardias)   ║
-║ ALERTA: 12 cañones automáticos               ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a la Liga                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1119)
+## COMANDO 1 (T1119)
 me teletransporto a la cabaña donde está la Liga
 
-## RESPUESTA 2 (T1119)
+## RESPUESTA 1 (T1119)
 
 > me teletransporto a la cabaña donde está la Liga
 
@@ -111,10 +61,10 @@ El de la máscara de teatro se ríe bajito y mete una mano en el bolsillo de la 
 
 ---
 
-## COMANDO 3 (T1120)
+## COMANDO 2 (T1120)
 mucho gusto, me llamo Facundo Morelli, hago una reverencia teatral
 
-## RESPUESTA 3 (T1120)
+## RESPUESTA 2 (T1120)
 
 > —Mucho gusto. Me llamo Facundo Morelli.
 
@@ -171,4 +121,58 @@ Afuera, la montaña vuelve a temblar.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:04, cabaña de la Liga. Dabi llegó a "uno" con la llama azul en la palma. Compress con una canica en los dedos, Toga de pie con el cuchillo. Facundo puede actuar.
+## COMANDO 3 (T1121)
+digo 0 lentamente y los dejo inconscientes
+
+## RESPUESTA 3 (T1121)
+
+> —Cero.
+
+Lo dices despacio.
+
+Dabi alcanza a abrir los dedos. La llama no llega a salir.
+
+Para ellos no pasa nada. No hay ruido, no hay viento, no hay nada que se vea. La lámpara ni siquiera se mueve.
+
+Dabi se va de costado contra la pared, con los pies todavía sobre la mesa, y la llama de la palma se apaga sola, como una vela.
+
+La canica de Mr. Compress cae al piso y rueda debajo de un colchón. Él se queda sentado junto a la ventana, con la cabeza caída sobre el pecho y el sombrero de copa ladeado.
+
+Toga se dobla sobre el colchón del que se había levantado. El cuchillo se le escapa de la mano y queda clavado en la madera del piso, vibrando.
+
+Twice cae arrodillado junto a la estufa y después de cara contra un costal de papas. La olla sigue hirviendo.
+
+Spinner es el último. Se va hacia atrás, por encima de la silla que había tumbado, y se queda tirado con los brazos abiertos.
+
+Silencio.
+
+Solo el crujido de la leña. Y, afuera, el estruendo de la montaña, una y otra vez, que no se detiene.
+
+Kase se estira en tu hombro y bosteza.
+
+Allá lejos, a un par de kilómetros, sientes las dos presencias que siguen peleando sin darse cuenta de nada: una enorme, colosal, que golpea como un terremoto; y otra más chica, rabiosa, que pudre todo lo que toca. No se detuvieron. No sintieron nada.
+
+En la cabaña, cinco villanos de la Liga duermen en el piso.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1121 · BOKU NO HERO · DIC. · 12:05     ║
+║ Montañas del noroeste · cabaña de la Liga    ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ Liga: 5 inconscientes (Dabi, Toga, Twice,    ║
+║ Spinner, Compress)                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a la Liga                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:05, cabaña de la Liga. Dabi, Toga, Twice, Spinner y Compress inconscientes. Shigaraki y Gigantomachia siguen peleando a un par de km sin enterarse. Facundo puede actuar.

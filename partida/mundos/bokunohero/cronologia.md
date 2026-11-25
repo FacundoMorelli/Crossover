@@ -37,3 +37,4 @@
 - Diciembre 11:48 · (T1111) CAMBIO ENORME: Facundo cura a All Might (Transfiguración Ociosa) y restaura entera la brasa de One For All que le quedaba: All Might vuelve a tener su forma musculosa y su poder. Izuku conserva One For All.
 - T1115 · Facundo Morelli figura en la Comisión de Seguridad Pública de Héroes con Licencia de Héroe Profesional activa.
 - T1117 · Intrusión en Tartarus: All Might y un desconocido aparecen en la celda de All For One. Alarma general.
+- T1121 · Cinco miembros de la Liga quedan inconscientes en su cabaña. Shigaraki y Gigantomachia no se enteran.

@@ -1119,3 +1119,4 @@ T1117 · BnHA · Tartarus · Teletransporte con All Might a la celda de All For 
 T1118 · BnHA · Tartarus · "La Liga es la siguiente." AFO: "Ve a buscarlo." All Might se queda con los guardias. Advierte que AFO podría avisar a Shigaraki.
 T1119 · BnHA · Cabaña de la Liga · Aparece entre Dabi, Toga, Twice, Spinner y Compress. Dabi: "Cinco segundos para decirme cómo nos encontraste."
 T1120 · BnHA · Cabaña de la Liga · Reverencia teatral y nombre. Compress aplaude. Dabi cuenta hasta uno.
+T1121 · BnHA · Cabaña de la Liga · "Cero." Cinco villanos inconscientes. Shigaraki y Giganto siguen peleando sin notar nada.
