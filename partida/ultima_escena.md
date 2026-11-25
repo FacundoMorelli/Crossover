@@ -3,96 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1154)
-quedate ahi chico, bueno kaneki entonces vamos a buscarlos, lo toco y me teletransporto a donde estan cada uno y los llevo todos a anteiku
-
-## RESPUESTA 1 (T1154)
-
-> —Quédate ahí, chico.
-
-El chico de las costuras inclina la cabeza para el otro lado. Abre la boca para contestar.
-
-—Juuzou —dice Shinohara. Firme, sin gritar—. Quieto.
-
-El chico hace un puchero. Pero se queda donde está, con la guadaña apoyada en el piso y el brazo cortado colgando de los dedos.
-
-> —Bueno, Kaneki, entonces vamos a buscarlos.
-
-Le pones la mano en el hombro.
-
-Y desaparecen los dos.
-
-Un pasillo, dos pisos más arriba, lleno de humo. Un hombre enorme, de pelo corto y castaño, con la camisa empapada de sangre del lado izquierdo y la mano apretada contra las costillas, está apoyado contra la pared. Tres hombres con máscaras antigás lo sostienen como pueden. Uno de ellos tiene una pierna arrastrando.
-
-Los cuatro ven aparecer a Kaneki frente a ellos y se quedan duros.
-
-—¿Kaneki? —El grandote abre mucho los ojos—. ¿De dónde...?
-
-Kaneki le agarra la mano, la que no tiene en las costillas. Tú los tocas a los cuatro. Al de la pierna, al hombro.
-
-Otro lugar. Un depósito de la mansión, con estanterías volcadas y olor a pólvora. En el medio, un hombre alto de pelo violeta, con la cara cortada en diagonal, un traje elegante destrozado y un kagune como una espada en espiral saliéndole del brazo, retrocede ante una mujer de abrigo blanco que le apunta con un maletín abierto. Detrás de él, un tipo de traje blanco con el pelo rubio peinado hacia atrás grita algo sobre "hermano mayor".
-
-El de pelo violeta ve a Kaneki y se le ilumina la cara.
-
-—¡Mi querido Kaneki!
-
-Lo tocas. Solo a él.
-
-Afuera. Bosque, noche, viento con olor a mar. Al pie de un árbol, a unos cientos de metros de la mansión, escondida entre los helechos, hay una chica de pelo castaño oscuro, chiquita, con un abrigo y una bufanda, abrazándose las rodillas. Levanta la cabeza de golpe al escucharlos llegar. Tiene los ojos muy grandes.
-
-—¡Hermano!
-
-Corre hacia Kaneki y se le pega al pecho.
-
-La tocas.
-
-Y después, todos juntos, siete personas, un gato, la sangre y el humo pegados a la ropa, desaparecen del bosque.
-
-Apareces con todos en el borde del acantilado, lejos de la mansión, entre los árboles, donde llegaste al principio. Las luces de las camionetas de la CCG se ven chiquitas, a trescientos metros. Nadie los sigue.
-
-El grandote se desliza por un tronco hasta quedar sentado, jadeando. Los de las máscaras se dejan caer a su alrededor. El de pelo violeta se arregla lo que queda de la chaqueta y te mira de arriba abajo con muchísimo interés. La chica no suelta a Kaneki.
-
-Kaneki se da vuelta hacia ti, despacio.
-
-—Gracias —dice—. Están todos. Están todos vivos.
-
-[Anteiku: no conoces el lugar ni a nadie de ahí. Para teletransportarte necesitas haberlo visto o sentir a alguien que esté ahí.]
-
-Kaneki se queda mirándote. Después mira la mansión a lo lejos, las luces de la CCG, y otra vez a ti.
-
-—No sé quién eres —dice en voz baja—. Ni cómo haces esto. Ni por qué curaste a ese investigador. —Se pasa la manga por la boca, y la manga queda roja—. Pero nos sacaste a todos.
-
-La chica levanta la cara de su pecho y te mira también. El grandote, desde el tronco, jadea:
-
-—Kaneki... ¿quién es este tipo?
-
-Kaneki no le contesta. Sigue mirándote a ti.
-
-—¿Y ahora adónde vamos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1154 · TOKYO GHOUL · NOCHE · 23:46     ║
-║ Acantilado, bosque frente a la mansión       ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: Llevarlos a un lugar seguro        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1155)
+## COMANDO 1 (T1155)
 diganme cual es un lugar seguro
 
-## RESPUESTA 2 (T1155)
+## RESPUESTA 1 (T1155)
 
 > —Díganme cuál es un lugar seguro.
 
@@ -153,10 +67,10 @@ Kaneki levanta la cabeza y te mira a ti.
 
 ---
 
-## COMANDO 3 (T1156)
+## COMANDO 2 (T1156)
 me teletransporto afuera de anteiku, ahi esta kaneki, entra tu primero
 
-## RESPUESTA 3 (T1156)
+## RESPUESTA 2 (T1156)
 
 > me teletransporto afuera de Anteiku
 
@@ -227,4 +141,64 @@ Y vuelve a cerrarse.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:02, frente a Anteiku. Kaneki entró. Yoshimura invita a pasar a todos y ofrece café. Facundo puede actuar.
+## COMANDO 3 (T1157)
+entro
+
+## RESPUESTA 3 (T1157)
+
+> entro
+
+Adentro hace calor. Huele a café recién molido, a madera encerada y a algo dulce, como canela.
+
+Es un lugar chico y ordenado. Una barra de madera oscura con taburetes, una cafetera grande de metal que brilla bajo la luz amarilla, tazas blancas colgadas en fila. Cuatro o cinco mesas con sillas de respaldo alto, todas con las sillas apoyadas encima, patas arriba, como se dejan al cerrar. Plantas en macetas. Un reloj de pared que hace tic tac. En una estantería, frascos de vidrio con granos de café de distintos colores.
+
+Kaneki está sentado en un taburete de la barra, de espaldas a la puerta, con los hombros caídos. Tiene una toalla blanca en las manos, húmeda, con la que se estuvo limpiando la cara. La toalla está roja.
+
+Cuando entran los demás, no se da vuelta.
+
+Hinami sí. Cruza el local corriendo y se le abraza a la espalda.
+
+El grandote entra último, encorvado, apoyado en uno de los de las máscaras. El hombre mayor lo mira de reojo y hace un gesto suave hacia una puerta del fondo, detrás de la barra.
+
+—En la cámara del fondo, en el segundo estante, hay paquetes envueltos en papel marrón. —Lo dice con la misma voz con la que hablaría del clima—. Coma lo que necesite. Esa herida no va a cerrar sola.
+
+El grandote asiente, agradecido, y se va hacia el fondo con dos de los de las máscaras. El de pelo violeta se sienta en un taburete con las piernas cruzadas, como si estuviera en un club de lujo.
+
+El hombre mayor se pone detrás de la barra. Sin apuro, saca tres tazas, muele un puñado de granos en un molinillo de manivela, calienta el agua. Las manos se le mueven solas, con la precisión de alguien que hizo eso diez mil veces.
+
+Pone una taza frente a Kaneki. Otra frente a Hinami. Otra frente al de pelo violeta.
+
+Y después saca una cuarta taza, la llena despacio y la pone en la barra, frente al taburete vacío que queda a tu lado.
+
+—Me llamo Yoshimura —dice—. Soy el gerente de este lugar.
+
+Te mira por encima de los lentes. La cara sigue siendo amable. La voz sigue siendo suave.
+
+—Usted es humano, ¿verdad? —Hace una pausa—. Huele como uno. Respira como uno. Y sin embargo salió de una mansión llena de investigadores de la CCG con seis ghouls heridos, y ninguno de ellos lo quiere comer. —Inclina apenas la cabeza—. Kaneki dice que le salvó la vida a un investigador de Clase Especial. Delante de él.
+
+Kaneki, en el taburete, aprieta la toalla.
+
+Yoshimura empuja la cuarta taza unos centímetros hacia ti.
+
+—No tiene que contestarme nada, si no quiere. Pero me gustaría saber qué busca un humano como usted en un lugar como este.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1157 · TOKYO GHOUL · NOCHE · 00:04     ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 00:04, Anteiku. Yoshimura sirvió una taza de café para Facundo y pregunta qué busca un humano en un lugar así. Facundo puede responder.

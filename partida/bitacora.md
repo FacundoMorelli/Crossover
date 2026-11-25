@@ -1155,3 +1155,4 @@ T1153 · TG · Laboratorio · "Yo me lo llevo." Kaneki no se va sin Banjou, Hina
 T1154 · TG · Mansión → acantilado · Saca a Kaneki, Banjou, 3 máscaras, Tsukiyama y Hinami. No conoce Anteiku. Kaneki: "¿Adónde vamos?"
 T1155 · TG · Acantilado · Opciones: escondite, mansión Tsukiyama, Anteiku. Kaneki: "Tú decides. Si es Anteiku, entro yo primero."
 T1156 · TG · Anteiku · Encuentra Anteiku con la percepción. Kaneki entra primero. Yoshimura: "Pasen, por favor. Les voy a preparar café."
+T1157 · TG · Anteiku · Yoshimura se presenta y sirve café. "Usted es humano. ¿Qué busca en un lugar como este?"
