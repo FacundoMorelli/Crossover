@@ -38,3 +38,5 @@
 - Facundo, Kaneki, el de cara redonda · T1171 · por Touka: come comida humana para disimular en la escuela y la vomita en el baño.
 - Touka, Kaneki, el de cara redonda · T1172 · por Facundo: la transfiguración cambia lo que pueden comer (comida normal para vivir y regenerarse; carne humana opcional, sin hambre). Por Kaneki: el kagune sigue igual.
 - Touka, Kaneki, el de cara redonda · T1174 · Facundo transfiguró a Touka con la palma en la frente (ella lo sintió por dentro). Yoshimura oyó desde abajo (oído de ghoul) al menos que Touka bajó y se encerró en el baño.
+- Yoshimura, Touka (en el salón; oído de ghoul), y probablemente los de arriba (paredes finas) · T1176 · Facundo dijo su nombre: Facundo Morelli.
+- Facundo · T1176 · por Yoshimura: por la puerta de atrás vienen ghouls a buscar paquetes de comida todos los días (viejos, madres, muchachos).

@@ -1174,3 +1174,4 @@ T1172 · TG · Anteiku · Le explica la transfiguración a Touka. Kaneki: el kag
 T1173 · TG · Anteiku · "A cualquiera." Touka se sienta frente a él: "Hazlo. Y si me haces algo raro, te mato."
 T1174 · TG · Anteiku · Transfigura a Touka. Baja y se encierra en el baño. Yoshimura: "¿Va a bajar a desayunar?"
 T1175 · TG · Anteiku · Desayuno. Touka comió una tostada a escondidas. Yoshimura: "Todavía no sé cómo se llama."
+T1176 · TG · Anteiku · "Me llamo Facundo Morelli." Yoshimura: "¿Lo haría con los que vienen a buscar los paquetes?"
