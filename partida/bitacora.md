@@ -1120,3 +1120,4 @@ T1118 · BnHA · Tartarus · "La Liga es la siguiente." AFO: "Ve a buscarlo." Al
 T1119 · BnHA · Cabaña de la Liga · Aparece entre Dabi, Toga, Twice, Spinner y Compress. Dabi: "Cinco segundos para decirme cómo nos encontraste."
 T1120 · BnHA · Cabaña de la Liga · Reverencia teatral y nombre. Compress aplaude. Dabi cuenta hasta uno.
 T1121 · BnHA · Cabaña de la Liga · "Cero." Cinco villanos inconscientes. Shigaraki y Giganto siguen peleando sin notar nada.
+T1122 · BnHA · Valle arrasado · Llega a la pelea Shigaraki vs Gigantomachia. Pisotón a 20 m. Shigaraki: "¿Y tú quién demonios eres?"

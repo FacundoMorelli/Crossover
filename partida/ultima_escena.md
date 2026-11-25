@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1119)
-me teletransporto a la cabaña donde está la Liga
-
-## RESPUESTA 1 (T1119)
-
-> me teletransporto a la cabaña donde está la Liga
-
-El frío de Tartarus se cambia por otro frío. Más vivo. Con olor a madera húmeda y a humo.
-
-Estás dentro de una cabaña de troncos, chica, con las ventanas tapadas con tablas. Hay una estufa de leña encendida en un rincón, una mesa con latas vacías y mapas arrugados, colchones tirados en el piso. Afuera, a lo lejos, se oye un estruendo grave que hace vibrar el vidrio de la única lámpara: algo enorme golpeando la montaña, una y otra vez.
-
-Hay cinco personas.
-
-Un tipo flaco de pelo negro, con la piel de media cara y de los brazos quemada, morada, cosida con grapas de metal. Sentado contra la pared, con los pies en la mesa. Deja de mirar el techo y te mira a ti.
-
-Una chica rubia con dos rodetes desordenados, sentada en un colchón, que estaba afilando un cuchillo. Se queda con la piedra a medio camino.
-
-Un hombre con traje negro y blanco que lo cubre entero, cabeza incluida, con un dibujo de máscara en la cara. Estaba revolviendo una olla en la estufa.
-
-Un muchacho de cara de lagarto, con escamas verdes, que se pone de pie tan rápido que tumba la silla.
-
-Y un hombre con máscara de teatro y sombrero de copa, sentado junto a la ventana, que inclina la cabeza con mucho interés.
-
-Nadie dice nada durante un segundo.
-
-—¿Y tú quién demonios eres? —dice el de traje negro y blanco, y enseguida, con la misma voz pero más aguda—. ¡Bienvenido, amigo! ¡Siéntate! —y otra vez grave—: ¡No, no te sientes!
-
-La chica rubia sonríe despacio.
-
-—Ay —dice—. ¿De dónde saliste? No hay puerta de ese lado.
-
-El de las quemaduras no se levanta. Solo extiende una mano hacia ti, la palma abierta, y de los dedos le empieza a subir un humo azul que calienta todo el aire de la cabaña.
-
-—Nadie sabe que estamos acá —dice, muy tranquilo—. Así que tienes cinco segundos para decirme cómo nos encontraste.
-
-El de la máscara de teatro se ríe bajito y mete una mano en el bolsillo de la chaqueta.
-
-—Dabi, querido —dice—. Fíjate en el gato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1119 · BOKU NO HERO · DIC. · 12:04     ║
-║ Montañas del noroeste · cabaña de la Liga    ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Arrestar a la Liga                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1120)
+## COMANDO 1 (T1120)
 mucho gusto, me llamo Facundo Morelli, hago una reverencia teatral
 
-## RESPUESTA 2 (T1120)
+## RESPUESTA 1 (T1120)
 
 > —Mucho gusto. Me llamo Facundo Morelli.
 
@@ -121,10 +63,10 @@ Afuera, la montaña vuelve a temblar.
 
 ---
 
-## COMANDO 3 (T1121)
+## COMANDO 2 (T1121)
 digo 0 lentamente y los dejo inconscientes
 
-## RESPUESTA 3 (T1121)
+## RESPUESTA 2 (T1121)
 
 > —Cero.
 
@@ -175,4 +117,67 @@ En la cabaña, cinco villanos de la Liga duermen en el piso.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:05, cabaña de la Liga. Dabi, Toga, Twice, Spinner y Compress inconscientes. Shigaraki y Gigantomachia siguen peleando a un par de km sin enterarse. Facundo puede actuar.
+## COMANDO 3 (T1122)
+voy a donde está Shigaraki peleando con Gigantomachia
+
+## RESPUESTA 3 (T1122)
+
+> voy a donde está Shigaraki peleando con Gigantomachia
+
+Sales de la cabaña. La nieve te llega a los tobillos, y el aire está tan frío que corta.
+
+Un instante después estás en otro lugar.
+
+La montaña ya no parece una montaña. Es un valle entero arrasado: pinos arrancados de raíz, rocas partidas en dos, nieve sucia de tierra y de polvo gris. Cráteres por todos lados, algunos tan grandes que podrías meter una casa adentro. Y en una franja larga del terreno, todo, piedra, árboles, tierra, está deshecho en un polvo fino, como ceniza, que el viento levanta en remolinos.
+
+En el medio, el gigante.
+
+Es enorme. Más alto que un edificio de cuatro pisos, con un cuerpo deforme lleno de músculos y una cara chata con una boca ancha de dientes cuadrados. Lleva una especie de bozal de cuero roto colgándole del cuello. Respira como un fuelle, echando nubes de vapor.
+
+Y frente a él, chiquito, en la cima de una roca rajada, un muchacho.
+
+Flaco hasta lo enfermizo. Pelo largo, blanco, revuelto. La piel de la cara seca y agrietada, con costras alrededor de los ojos y de la boca. Ropa negra hecha jirones. Tiene la ropa y las manos manchadas de sangre seca, y se está riendo. Una risa rota, cansada, que le sale entre jadeos.
+
+—Otra vez —dice—. Otra vez, maldito...
+
+El gigante levanta el puño. El puño solo es más grande que un auto.
+
+Lo baja.
+
+La roca donde estaba el muchacho estalla. Él ya no está ahí: saltó, rodó por la nieve, y en cuanto toca el suelo apoya los cinco dedos de una mano en la tierra.
+
+El suelo se pudre. La grieta corre como un relámpago gris hacia los pies del gigante, deshaciendo todo lo que toca.
+
+El gigante pisa antes. Salta hacia un costado y la grieta se pierde en la ladera.
+
+Y en ese salto, el pie colosal cae a veinte metros de ti.
+
+La onda de choque te levanta el pelo y la ropa. A Kase se le eriza todo el lomo.
+
+Las dos cabezas, la grande y la chica, se giran hacia ti al mismo tiempo.
+
+El muchacho se queda quieto, a cuatro patas en la nieve, jadeando. Te mira con unos ojos rojos, inyectados en sangre, entre el pelo blanco.
+
+—¿Y tú quién demonios eres? —escupe.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1122 · BOKU NO HERO · DIC. · 12:06     ║
+║ Montañas del noroeste · valle arrasado       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro (erizado)                 ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ Liga: 5 inconscientes en la cabaña           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a la Liga                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:06, valle arrasado. Shigaraki (a cuatro patas, agotado) y Gigantomachia miran a Facundo. Shigaraki: "¿Y tú quién demonios eres?" Los 5 de la Liga inconscientes en la cabaña a un par de km. Facundo puede actuar.

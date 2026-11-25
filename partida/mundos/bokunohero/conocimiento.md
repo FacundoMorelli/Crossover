@@ -49,3 +49,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - All For One · T1117 · siente que la brasa de One For All de All Might está entera; sospecha de Facundo. Los guardias de Tartarus vieron a dos intrusos (uno, All Might) aparecer en la celda.
 - All For One · T1118 · Facundo anuncia que va a arrestar a la Liga.
 - Dabi, Toga, Twice, Spinner, Mr. Compress · T1119 · vieron a Facundo aparecer dentro de la cabaña (teletransporte), con un gato en el hombro.
+- Shigaraki, Gigantomachia · T1122 · ven a Facundo aparecer en el valle donde pelean (con un gato en el hombro).

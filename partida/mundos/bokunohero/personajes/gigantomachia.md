@@ -1,0 +1,14 @@
+NOMBRE: Gigantomachia
+AFILIACIÓN: Sirviente de All For One.
+RANGO: Villano colosal
+PODER VISTO POR FACUNDO: Tamaño y fuerza colosales; un pisotón genera una onda de choque.
+EDAD: —
+FÍSICO: Más alto que un edificio de cuatro pisos, cuerpo deforme lleno de músculos, cara chata, boca ancha de dientes cuadrados, bozal de cuero roto colgando del cuello.
+PERSONALIDAD: —
+RELACIÓN: Primer encuentro T1122.
+ENCUENTROS:
+- T1122 · Valle arrasado · Peleando contra Shigaraki; pisa a 20 m de Facundo.
+DIÁLOGOS CLAVE:
+QUÉ SABE DE FACUNDO: Nada.
+QUÉ PODERES VIO: Ninguno.
+ESTADO: Peleando contra Shigaraki.
