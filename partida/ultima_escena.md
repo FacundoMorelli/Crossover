@@ -3,60 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1171)
-buenos dias para ti tambien, si soy el viajero
-
-## RESPUESTA 1 (T1171)
-
-> —Buenos días para ti también. Sí, soy el viajero.
-
-A la muchacha se le tensa la mandíbula.
-
-Por un segundo parece que va a gritar otra vez. No grita. Cruza los brazos sobre el delantal y se apoya en el marco de la puerta con todo el peso en una pierna, mirándote de arriba abajo: el pelo blanco y azul revuelto de dormir, los ojos de dos colores, los tatuajes que asoman por el cuello, el gato.
-
-—Buenos días —repite, seca, como si le costara plata decirlo.
-
-Kase bosteza, muy grande, mostrándole todos los dientes. Después baja de tu pecho y se va a sentar al otro extremo del sofá, dándole la espalda.
-
-Ella mira al gato con los ojos entrecerrados. Después vuelve a ti.
-
-—Este idiota —señala hacia atrás con el pulgar, sin darse vuelta; Kaneki, en la escalera, baja la vista— se va sin decir nada, se junta con un montón de raros, se mete en la mansión de un loco con la CCG adentro, y vuelve a las doce de la noche con un humano que tiene kagune. —Levanta un dedo por cada cosa—. Y ahora el gerente me dice que le quitaste el hambre. Con la mano. Así.
-
-Chasquea los dedos.
-
-—Y que hiciste lo mismo con el gorila y sus amigos.
-
-En el piso, el de cara redonda se despierta con el chasquido, ve a la muchacha y se queda muy quieto abrazado a la caja del pollo, como si se hiciera el muerto.
-
-Ella no le presta atención. Te sigue mirando.
-
-—Yo vengo comiendo esa basura de los humanos desde que tengo memoria para que nadie en la escuela se dé cuenta. —Lo dice rápido, en voz más baja, casi entre dientes, como si se le escapara—. Y después la vomito en el baño.
-
-Se calla. Aprieta los labios, enojada consigo misma por haberlo dicho.
-
-—¿Qué le hiciste a Kaneki? —pregunta—. Exactamente.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1171 · TOKYO GHOUL · MAÑANA · 07:13    ║
-║ Distrito 20 · Anteiku, planta alta           ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sofá, de espaldas                ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1172)
+## COMANDO 1 (T1172)
 les cambie lo que pueden comer, sus cuerpos se alimentan con comida normal y con eso pueden vivir y regenerarse, pueden seguir comiendo carne humana si quieren pero ya no sienten hambre de eso
 
-## RESPUESTA 2 (T1172)
+## RESPUESTA 1 (T1172)
 
 > —Les cambié lo que pueden comer. Sus cuerpos se alimentan con comida normal, y con eso pueden vivir y regenerarse. Pueden seguir comiendo carne humana si quieren, pero ya no sienten hambre de eso.
 
@@ -93,10 +43,10 @@ Touka mira por la ventana, hacia la cortina cerrada, para no mirarte a ti.
 
 ---
 
-## COMANDO 3 (T1173)
+## COMANDO 2 (T1173)
 a cualquiera
 
-## RESPUESTA 3 (T1173)
+## RESPUESTA 2 (T1173)
 
 > —A cualquiera.
 
@@ -133,7 +83,57 @@ En la escalera, Kaneki se tapa la boca con la mano. Kase, en la otra punta del s
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1174)
+hago lo mismo con touka
+
+## RESPUESTA 3 (T1174)
+
+> hago lo mismo con Touka
+
+Le apoyas la palma en la frente, debajo del flequillo.
+
+Touka no cierra los ojos. Te sostiene la mirada todo el tiempo, desafiante, con los dientes apretados, como si fuera una pelea y no pensara perderla.
+
+Su alma es filosa. Chica, compacta y llena de bordes, como un erizo que se enrolla. Por dentro hay paredes levantadas una encima de otra, muchas, para que nada entre. Y en el centro, el anzuelo, igual de grande que en los demás, clavado desde siempre. Alrededor del anzuelo hay otra cosa, pegada como una costra: años enteros de tragar comida que le daba asco, sonreír en una mesa de escuela y después encerrarse en un baño.
+
+Sacas el anzuelo. Alisas el borde. Y donde estaba la costra, devuelves el gusto.
+
+No tocas las paredes. Son suyas.
+
+Touka abre la boca de golpe, como si le hubieran sacado el aire de un puñetazo. Se le dilata la pupila del ojo gris. Se lleva una mano al estómago, igual que Kaneki anoche, y la deja ahí, apretada.
+
+Se queda así un segundo. Dos.
+
+Después se levanta de la mesa baja tan rápido que casi la tira. Te da la espalda.
+
+—Tengo que abrir —dice, con la voz rara, demasiado aguda—. Ya es tarde.
+
+Pasa junto a Kaneki en la escalera sin mirarlo, casi empujándolo, y baja los escalones de dos en dos. Kaneki se queda mirándola irse y después te mira a ti, con una sonrisa chica y triste que no sabe dónde poner.
+
+Desde abajo llega el ruido de una puerta que se cierra fuerte. El baño, al fondo del local. Y después, nada.
+
+Un momento más tarde, la voz de Yoshimura sube por la escalera, tranquila, como si no hubiera escuchado nada:
+
+—Señor viajero. El café está listo. ¿Va a bajar a desayunar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1174 · TOKYO GHOUL · MAÑANA · 07:17    ║
+║ Distrito 20 · Anteiku, planta alta           ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el sofá                             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:15, sala de arriba de Anteiku. Touka sentada frente a Facundo pide la transfiguración. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:17, sala de arriba de Anteiku. Touka transfigurada, encerrada en el baño de abajo. Yoshimura invita a Facundo a bajar a desayunar. Facundo puede responder.

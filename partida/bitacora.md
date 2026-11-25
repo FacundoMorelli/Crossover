@@ -1172,3 +1172,4 @@ T1170 · TG · Anteiku · Da comida a todos. Duerme. 07:12: Tsukiyama se fue (ta
 T1171 · TG · Anteiku · "Sí, soy el viajero." Touka: vomita la comida humana en la escuela. "¿Qué le hiciste a Kaneki? Exactamente."
 T1172 · TG · Anteiku · Le explica la transfiguración a Touka. Kaneki: el kagune sigue. Touka: "¿Le sirve a cualquiera?"
 T1173 · TG · Anteiku · "A cualquiera." Touka se sienta frente a él: "Hazlo. Y si me haces algo raro, te mato."
+T1174 · TG · Anteiku · Transfigura a Touka. Baja y se encierra en el baño. Yoshimura: "¿Va a bajar a desayunar?"
