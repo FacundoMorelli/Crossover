@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1186)
-me llamo Facundo
-
-## RESPUESTA 1 (T1186)
-
-> —Me llamo Facundo.
-
-—Fa... —Hinami frunce la nariz, concentrada—. Fa-kun-do.
-
-Lo repite otra vez, más despacio, como quien aprende una palabra difícil de un libro. Fa-kun-do. Asiente, satisfecha, como si ya lo hubiera guardado en algún lugar seguro.
-
-—Facundo-san.
-
-Después baja la vista hacia el taburete de al lado, donde Kase la está mirando sin parpadear. Corta una esquina de la tostada, la que no tiene mermelada, y se la ofrece en la palma abierta.
-
-Kase la mira a ella. Mira el pan. Te mira a ti.
-
-Estira el cuello, huele, y se la come de la palma de Hinami con mucho cuidado, sin tocarle la mano con los dientes. Después se da vuelta y se pone a lamerse una pata, como si no hubiera pasado nada.
-
-Hinami se tapa la boca con la mano para no reírse fuerte.
-
-Suena la campanita de la puerta.
-
-Entra un muchacho alto y flaco, de pelo castaño claro y anteojos de marco fino, con una mochila de universidad colgada de un hombro y la campera abierta. Viene bostezando, con el celular en la mano, y está a mitad de camino hacia la barra cuando levanta la vista.
-
-Se frena en seco.
-
-Te mira a ti: el pelo blanco y azul, los tatuajes, los ojos. Mira al gato. Mira a Hinami comiendo una tostada con mermelada, con migas en la bufanda. Mira a Touka, que está detrás de la barra con un cuchillo de manteca en la mano.
-
-Se le cae un poco la mandíbula.
-
-—Oye, Kirishima —dice despacio, sin sacarte los ojos de encima—. ¿Qué carajo me perdí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1186 · TOKYO GHOUL · MAÑANA · 07:41    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1187)
+## COMANDO 1 (T1187)
 y hinami, no me digas viejo por favor tengo 18 años
 
-## RESPUESTA 2 (T1187)
+## RESPUESTA 1 (T1187)
 
 > —Y Hinami, no me digas señor, por favor. Tengo dieciocho años.
 
@@ -103,10 +52,10 @@ Nishiki agarra el delantal y se lo queda en la mano, sin ponérselo, esperando m
 
 ---
 
-## COMANDO 3 (T1188)
+## COMANDO 2 (T1188)
 les saque el hambre de carne humana y que puedan comer comida normal
 
-## RESPUESTA 3 (T1188)
+## RESPUESTA 2 (T1188)
 
 > —Les saqué el hambre de carne humana, y ahora pueden comer comida normal.
 
@@ -150,7 +99,56 @@ Traga saliva.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1189)
+nada nishiki, lo hago gratis
+
+## RESPUESTA 3 (T1189)
+
+> —Nada, Nishiki. Lo hago gratis.
+
+Nishiki te mira como si le hubieras hablado en otro idioma.
+
+—Gratis —repite.
+
+Se cruza de brazos, con las tiras del delantal colgando sueltas a los costados, y entrecierra los ojos detrás de los anteojos.
+
+—Nadie hace nada gratis. Menos un humano. Menos por un ghoul. —Lo dice rápido, como algo que aprendió hace mucho y le costó caro—. ¿Qué ganas tú? ¿Qué es lo que quieres de verdad?
+
+Nadie le contesta por ti. Touka mastica el pan, mirando para otro lado. Yoshimura deja el platillo en la pila. Hinami se queda quieta con la tostada en la mano, mirando a Nishiki con cara de no entender por qué está enojado.
+
+Nishiki aguanta la mirada un rato largo. Después la baja, hacia la barra, hacia el celular. La pantalla ya se apagó.
+
+Suelta el aire por la nariz, fuerte.
+
+—Al carajo —dice.
+
+Cruza el local en tres pasos largos, corre el taburete que está al lado de Kase de un tirón y se sienta frente a ti, con los codos en las rodillas y la cara tensa, como alguien que se sienta en el sillón del dentista.
+
+Se saca los anteojos. Los dobla. Los aprieta en el puño.
+
+—Hazlo antes de que me arrepienta.
+
+Kase lo mira de costado, con un ojo, y se corre un poco en el taburete para que no lo toque.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1189 · TOKYO GHOUL · MAÑANA · 07:44    ║
+║ Distrito 20 · Anteiku (abierto)              ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el taburete de al lado              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:43, Anteiku. Nishiki, convencido, pregunta cuánto cobra por transfigurarlo. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:44, Anteiku. Nishiki sentado frente a Facundo, sin anteojos, espera la transfiguración. Facundo puede actuar.

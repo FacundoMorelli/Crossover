@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: Primer encuentro T1186.
 ENCUENTROS:
 - T1186 · Entra a Anteiku a las 07:41 y se frena al ver a Facundo, el gato y a Hinami comiendo una tostada.
 DIÁLOGOS CLAVE:
+- T1189 · "Nadie hace nada gratis. Menos un humano. Menos por un ghoul. ¿Qué ganas tú?" "Al carajo." "Hazlo antes de que me arrepienta."
 - T1188 · "Claro. Y yo soy el Rey de un Ojo." "No me jodas." "¿Cuánto cobras? Por hacerlo conmigo."
 - T1187 · "¿Dieciocho? ¿Con esa pinta? Yo te daba veinticinco, mínimo. Y una condena en suspenso." "¿Quién es? Huele a humano. ¿Y por qué la mocosa está comiendo pan?"
 - T1186 · "Oye, Kirishima. ¿Qué carajo me perdí?"
