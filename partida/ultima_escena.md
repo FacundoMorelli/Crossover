@@ -3,61 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1190)
-lo hago con nishiki
-
-## RESPUESTA 1 (T1190)
-
-> lo hago con Nishiki
-
-Le apoyas la palma en la frente. Nishiki se tensa entero y aprieta los anteojos en el puño hasta que cruje el marco, pero no se mueve.
-
-Su alma es angulosa y está llena de cerraduras. Casi todas son nuevas, puestas a las apuradas, una encima de otra. En una esquina hay un hueco viejo con la forma de alguien que ya no está. Y en otro lado, al revés, hay un lugar tibio y reciente, todavía frágil, como una planta chica en una maceta: tiene la forma de una chica de pelo corto.
-
-No tocas ninguna de las dos cosas.
-
-El anzuelo está donde está en todos. Lo sacas. Alisas el borde. Le devuelves el gusto.
-
-Nishiki suelta el aire de golpe, entre los dientes. Abre los ojos. Se queda mirando el piso, quieto, con la mano libre apretada sobre el estómago y la boca entreabierta.
-
-—Mierda —dice, muy bajito. No suena enojado.
-
-Se pone los anteojos. Una de las patillas quedó torcida por el apretón, y se le sientan chuecos en la cara. No los acomoda.
-
-Estira el brazo sobre la barra, agarra de la mano de Touka el pedazo de pan que le quedaba, antes de que ella pueda reaccionar, y le da un mordisco.
-
-—¡Oye! —protesta Touka.
-
-Nishiki no la escucha. Mastica despacio, con los ojos fijos en ningún lado. Traga. Se queda un momento con el resto del pan en la mano, mirándolo como si fuera una prueba de algo.
-
-Después mira el celular apagado sobre la barra.
-
-Cuando vuelve a mirarte, tiene los ojos húmedos detrás de los anteojos torcidos, y lo disimula frunciendo el ceño con todas sus fuerzas.
-
-—Te debo una —dice, áspero—. Y yo pago lo que debo. Así que no te hagas el santo conmigo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1190 · TOKYO GHOUL · MAÑANA · 07:46    ║
-║ Distrito 20 · Anteiku (abierto)              ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete de al lado              ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1191)
+## COMANDO 1 (T1191)
 no me debes nada, ahora mejor ponte a trabajar antes que touka quiera matarte
 
-## RESPUESTA 2 (T1191)
+## RESPUESTA 1 (T1191)
 
 > —No me debes nada. Ahora mejor ponte a trabajar, antes de que Touka quiera matarte.
 
@@ -105,10 +54,10 @@ Busca con la mirada por todo el local hasta que te encuentra. Viene hasta tu tab
 
 ---
 
-## COMANDO 3 (T1192)
+## COMANDO 2 (T1192)
 si
 
-## RESPUESTA 3 (T1192)
+## RESPUESTA 2 (T1192)
 
 > —Sí.
 
@@ -150,7 +99,56 @@ Te mira de frente.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1193)
+si
+
+## RESPUESTA 3 (T1193)
+
+> —Sí.
+
+Kaneki se sienta.
+
+No elige sentarse. Se le aflojan las piernas y el banco está ahí. Se queda con los codos en las rodillas y las manos colgando, mirando la arena gris debajo de las hamacas.
+
+Del otro lado de la calle, el verdulero acomoda cajones de mandarinas en la vereda. Un cuervo se posa en el árbol sin hojas, mira hacia abajo y se vuelve a ir.
+
+—Yoshimura-san —dice Kaneki, muy despacio, como si el nombre fuera nuevo.
+
+Se ríe una vez, sin ganas, por la nariz.
+
+—Él fue el que me enseñó a hacer café. El primer día que no sabía qué era, que no podía comer nada, que quería morirme... me sentó en la barra y me enseñó a moler los granos. Me dijo que el café era lo único que los dos podíamos tomar, ghouls y humanos, en la misma mesa. —Se le quiebra la voz—. Me dio una máscara. Me dio trabajo. Me dio un lugar.
+
+Se aprieta las manos entre las rodillas.
+
+—Y es el ghoul más buscado del país.
+
+Se queda callado un rato largo. Después levanta la cabeza, y ya no tiene la cara de chico perdido de anoche. Tiene la mandíbula apretada y algo duro, nuevo, en los ojos grises.
+
+—Entonces la operación es por él —dice—. La CCG va a ir a Anteiku a buscar al Búho. Y va a quemar todo lo que haya alrededor para encontrarlo. A Touka-chan. A Hinami. A Nishiki-senpai. A todos.
+
+Te mira.
+
+—Tu barrera los frena. Pero tú dijiste "mientras yo esté aquí". —Se le endurece la voz—. ¿Y cuando no estés?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1193 · TOKYO GHOUL · MAÑANA · 07:58    ║
+║ Distrito 20 · plaza chica, a media cuadra    ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 07:56, plaza chica cerca de Anteiku. Kaneki, a solas, pregunta si Yoshimura es el Búho. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 07:58, plaza chica. Kaneki sabe que Yoshimura es el Búho y pregunta qué pasará cuando Facundo no esté. Facundo puede responder.

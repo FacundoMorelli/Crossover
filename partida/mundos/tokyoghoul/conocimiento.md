@@ -63,3 +63,4 @@
 - Facundo · T1188 · vio el fondo de pantalla del celular de Nishiki: él con una chica de pelo corto en un parque.
 - Nishiki, Touka, Hinami, Yoshimura · T1190 · vieron a Facundo transfigurar a Nishiki (palma en la frente).
 - Kaneki · T1192 · deducción: Yoshimura es el Búho (no se sorprendió; misma presión que el búho del Distrito 11). Le pide la verdad a Facundo. Cree que Facundo "sabe cosas" (sabía el nombre de la operación).
+- Kaneki · T1193 · por Facundo (confirmado): Yoshimura es el Búho. Deduce que la Operación del Búho es por él y que la CCG atacará Anteiku.

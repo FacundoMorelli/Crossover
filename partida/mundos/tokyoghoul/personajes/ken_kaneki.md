@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1193 · "Él fue el que me enseñó a hacer café." "Y es el ghoul más buscado del país." "Tu barrera los frena. Pero tú dijiste mientras yo esté aquí. ¿Y cuando no estés?"
 - T1192 · "Aquí no nos escucha. Creo." "Cuando Yoshimura-san se sacó los lentes y te miró, sentí lo mismo. La misma presión." "Tú sabes cosas, Facundo-san. ¿Yoshimura-san es el Búho?"
 - T1191 · "Facundo-san. Lo de anoche. Lo de la operación. ¿Podemos hablar? Afuera. Solos."
 - T1172 · "Sigue ahí, Touka-chan. Lo siento. Igual que siempre. Solo que ya no me pide nada."
@@ -32,6 +33,6 @@ DIÁLOGOS CLAVE:
 - T1150 · "No... no quería. No quería..."
 - T1149 · "¿Cómo me llamo? Kaneki. Ken. Kaneki Ken. Soy Kaneki."
 - T1148 · "No. Uno más no. No quiero... no quiero comer más..."
-QUÉ SABE DE FACUNDO: Le preguntó su nombre (T1149); salvó a Shinohara; quiere llevarlo a un lugar seguro (T1153).
+QUÉ SABE DE FACUNDO: (T1193) Facundo le confirmó que Yoshimura es el Búho. Le preguntó su nombre (T1149); salvó a Shinohara; quiere llevarlo a un lugar seguro (T1153).
 QUÉ PODERES VIO: La aparición; la curación de Shinohara (T1151). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
 ESTADO: En Anteiku. SIN HAMBRE DE GHOUL y sin asco a la comida humana (T1166, Transfiguración Ociosa); conserva el kagune.
