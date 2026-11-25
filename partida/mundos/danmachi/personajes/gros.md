@@ -5,10 +5,11 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: —
 FÍSICO: Gárgola de piedra gris, alta como un hombre, alas de murciélago, cuernos curvos, ojos rojos.
 PERSONALIDAD Y FORMA DE HABLAR: Desconfiado de los humanos, leal a los Xenos, voz áspera.
-RELACIÓN CON FACUNDO: aliado provisorio; lo guía (T1066).
+RELACIÓN CON FACUNDO: respeto (T1078).
 ENCUENTROS:
 - T1061 · Noche 1 23:10 · En el techo de al lado, mira a Facundo.
 DIÁLOGOS CLAVE:
+- T1078 · "Te dije que si no eras lo que decías, te iba a encontrar. Eras lo que decías."
 - T1071 · "Las cloacas. Fia y Aruru. Ahora."
 - T1069 · "Hay que juntar a los demás primero. El troll no aguanta otra noche en Knossos. Y Rei lleva dos días sin agua."
 - T1067 · "No entramos por la puerta. Me tocó la espalda y aparecimos aquí. Así."

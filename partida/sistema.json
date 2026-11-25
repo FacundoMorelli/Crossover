@@ -1,8 +1,8 @@
 {
-  "turno": 1077,
+  "turno": 1078,
   "mundo_actual": "danmachi",
   "fecha_local": "Noche 2 (madrugada; vol. 11)",
-  "hora": "00:31",
+  "hora": "00:34",
   "edad": 18,
   "nivel": 28,
   "exp": 263900,
@@ -71,7 +71,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -558,6 +558,11 @@
       "objeto": "(entregado) Botón de aviso",
       "detalle": "Botón plateado chico con un eclipse grabado (como el de Willy Tybur). Si alguien lo aprieta, Facundo lo siente al instante en cualquier mundo y sabe de qué botón viene. Entregado a Ichigo Kurosaki (T1038, feria navideña de Karakura, 21/12).",
       "mundo": "bleach"
+    },
+    {
+      "objeto": "Escama de Lido (roja, de su primera muda) en un cordón de cuero",
+      "origen": "danmachi, regalo de Lido (T1078)",
+      "nota": "Señal de amistad: cualquier Xenos que la vea sabrá quién es Facundo."
     }
   ],
   "copias": [

@@ -5,7 +5,7 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: aparenta ~12-13 (monstruo recién nacido)
 FÍSICO: Piel pálida, pelo azul claro, gema roja en la frente, escamas, cola.
 PERSONALIDAD Y FORMA DE HABLAR: Inocente, cariñosa con Bell.
-RELACIÓN CON FACUNDO: esperanza cautelosa (T1068).
+RELACIÓN CON FACUNDO: cariño (T1078).
 ENCUENTROS:
 - T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:

@@ -5,10 +5,11 @@ PODER VISTO POR FACUNDO: ninguno
 EDAD EN ESTE MOMENTO DEL CANON: adulto (Xenos)
 FÍSICO: Hombre lagarto rojo, cimitarras.
 PERSONALIDAD Y FORMA DE HABLAR: Alegre, fraternal, valiente.
-RELACIÓN CON FACUNDO: esperanza cautelosa (T1068).
+RELACIÓN CON FACUNDO: amigo; le regaló su escama (T1078).
 ENCUENTROS:
 - T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:
+- T1078 · "Facundo. Esta es mía. Los Xenos no tenemos mucho que dar. Si algún día bajas a la Mazmorra y ves una de estas, sabes que estás entre amigos. Y si alguno de nosotros la ve en tu cuello, va a saber quién eres."
 - T1071 · "Bueno, eso no fue muy disimulado."
 - T1070 · "Agárrense de él. No me pregunten cómo, pero agárrense." "Un amigo, Rei. Creo. Viene a llevarnos a casa."
 - T1069 · "Bellucchi vive en la Hearthstone Manor, al noroeste. La vigila la Familia Ganesha día y noche; los de Loki pasan cada hora." "Tú eres el que nos mueve, compañero. ¿Primero los demás, o primero Bellucchi?"
