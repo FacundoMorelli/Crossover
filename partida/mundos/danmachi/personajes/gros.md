@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: aliado provisorio; lo guía (T1066).
 ENCUENTROS:
 - T1061 · Noche 1 23:10 · En el techo de al lado, mira a Facundo.
 DIÁLOGOS CLAVE:
+- T1071 · "Las cloacas. Fia y Aruru. Ahora."
 - T1069 · "Hay que juntar a los demás primero. El troll no aguanta otra noche en Knossos. Y Rei lleva dos días sin agua."
 - T1067 · "No entramos por la puerta. Me tocó la espalda y aparecimos aquí. Así."
 - T1066 · "Ese es Vanargand. Bete Loga. Nivel cinco. Le rompió el ala a Fia de una patada. Y lo tiraste sin que se diera cuenta." "Voy. Cuando se despierten, van a decir tu cara. Desde esta noche, en esta ciudad, eres igual que nosotros." "Primero Lido."

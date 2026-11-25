@@ -21,3 +21,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Lido, Wiene, Gros · T1069 · Facundo aceptó que Wiene vea a Bell antes de irse.
 - Lido, Wiene · T1070 · lo vieron teletransportarlos a los tres al campanario.
 - Rei · T1070 · lo ve aparecer con Lido, Wiene y Gros. Por Lido: "un amigo, viene a llevarnos a casa".
+- Rei, Lido, Wiene, Gros · T1071 · vieron a Facundo curar a Rei con una semilla (ala rota, deshidratación, voz).
+- Patrulla(s) a tres calles · T1071 · oyeron una nota de canto desde el campanario roto; giran hacia ahí.

@@ -25,3 +25,4 @@
 - Noche 1 23:10 · Facundo y Kase llegan a un techo de la Calle Dédalo. Patrullas de Ganesha y Loki. Cartel del Gremio. Gros (gárgola Xenos) en el techo de al lado los ve.
 - Noche 1 · (T1063, por Gros) Los Xenos están escondidos y dispersos por Dédalo desde ayer; hay heridos; uno no se puede mover.
 - Noche 1 23:15 · (T1066) Facundo deja inconscientes a Bete Loga y a cinco de la patrulla. Gros lo guía hacia Lido y Wiene.
+- Noche 1 23:23 · (T1071) Facundo cura a Rei. Rei canta una nota; patrullas lejanas la oyen.

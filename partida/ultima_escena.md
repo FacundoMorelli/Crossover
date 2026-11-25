@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1068)
-me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
-
-## RESPUESTA 1 (T1068)
-
-> me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
-
-> —Me llamo Facundo Morelli. Vengo a llevarlos a la Mazmorra. Así como entré a este lugar, puedo llevarlos sin que nadie me vea.
-
-Lido se queda quieto, con las cimitarras en el aire.
-
-Mira a Gros. Gros asiente, una vez, de mala gana.
-
-—Lo vi tirar a Vanargand y a cinco más de un golpe cada uno, sin que se dieran cuenta —dice la gárgola—. En el callejón de los ropavejeros. Hace dos minutos.
-
-Lido abre los ojos de reptil, enormes.
-
-Después baja las cimitarras. Despacio. Las clava de punta en la ceniza del piso, una a cada lado, y se apoya en ellas como si de golpe le pesara todo el cuerpo. Suelta un suspiro largo que le sacude las escamas del cuello.
-
-—Ah... —Se ríe, una risa cansada, rota—. Tres días. Tres días escondidos en agujeros como este, escuchando a los aventureros pasar por encima de nuestras cabezas. —Se pasa una garra por la cara—. Y ahora viene un humano con un gato a decirme que nos lleva a casa.
-
-Se endereza. Te mira. Hay algo nuevo en los ojos amarillos, una cosa que todavía no se anima a ser esperanza.
-
-—Si es verdad, Facundo... —Lo dice como si probara tu nombre—. Si es verdad, no sé cómo te vamos a pagar.
-
-—Todos —gruñe Gros—. Le dije que todos o ninguno. Rei, Fia, Aruru, los de Knossos. El troll.
-
-—Todos —repite Lido, y asiente.
-
-Wiene sale despacio de detrás de la cola de Lido. Da un paso hacia ti, arrastrando la capa marrón por la ceniza. Mira a Kase, en tu hombro. Kase la mira a ella.
-
-Después te mira a ti, con los ojos dorados enormes.
-
-—¿A casa? —dice—. ¿Abajo? ¿Con todos?
-
-Se aprieta la capa contra el pecho. Es una capa de aventurero, vieja, con un remiendo en el borde. Le queda enorme.
-
-—Esta es de Bell —dice, bajito—. Me la dio para que no tuviera frío. —Le tiembla la voz—. Si me voy... ¿puedo verlo antes? Aunque sea un ratito. Para devolvérsela. —Baja la vista—. Para decirle adiós.
-
-Lido le pone una garra en el hombro. No dice nada.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1068 · DANMACHI · NOCHE 1 · 23:18      ║
-║ Orario · sótano de la panadería quemada      ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Llevar a todos los Xenos           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1069)
+## COMANDO 1 (T1069)
 esta bien
 
-## RESPUESTA 2 (T1069)
+## RESPUESTA 1 (T1069)
 
 > esta bien
 
@@ -117,10 +58,10 @@ Se queda callado. Después se vuelve hacia ti, con los brazos cruzados sobre la 
 
 ---
 
-## COMANDO 3 (T1070)
+## COMANDO 2 (T1070)
 primero los demás, vamos con Rei
 
-## RESPUESTA 3 (T1070)
+## RESPUESTA 2 (T1070)
 
 > primero los demás, vamos con Rei
 
@@ -176,4 +117,73 @@ Rei te mira por encima del ala, con los ojos azules llenos de miedo y de cansanc
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:21, campanario roto de Dédalo. Facundo llegó con Lido, Wiene y Gros. Rei, deshidratada y con un ala rota, pide agua. Facundo puede actuar.
+## COMANDO 3 (T1071)
+le doy agua y una semilla del ermitaño
+
+## RESPUESTA 3 (T1071)
+
+> le doy agua y una semilla del ermitaño
+
+Te arrodillas a su lado. Sacas la cantimplora del sobretodo y se la acercas a los labios.
+
+Rei no puede sostenerla: no tiene manos. Se la inclinas tú, despacio. El primer trago le cae por la barbilla. El segundo lo traga. El tercero lo traga con desesperación, con los ojos cerrados, haciendo un ruido chiquito con la garganta, como un pájaro que bebe de un charco.
+
+Cuando la cantimplora queda medio vacía, le pones una semilla del ermitaño entre los labios.
+
+—Mastícala —dice Lido, a su lado, sin saber qué es.
+
+Rei mastica. Traga.
+
+Un segundo.
+
+El ala torcida se le endereza sola, con un crujido seco que hace que Wiene se tape los ojos. Las plumas, opacas y sucias, se le aclaran, se le vuelven brillantes, celestes y blancas, como si alguien las hubiera lavado. Los labios partidos se le cierran. El color le vuelve a la cara.
+
+Rei abre los ojos.
+
+Abre las dos alas, despacio, de par en par, enormes, de un arco al otro del campanario. Las mira. Las mueve una vez, y el viento de las plumas levanta el polvo del piso y hace girar la cuerda cortada de la campana.
+
+Después respira hondo. Con todo el pecho.
+
+Y canta.
+
+No es una canción. Es una sola nota, larga, clara, que sale de su garganta como agua que se derrama: limpia, alta, perfecta. Dura apenas dos segundos. Se pierde por los arcos del campanario hacia la noche de Dédalo.
+
+Se tapa la boca con la punta de un ala, asustada de sí misma.
+
+—Perdón —susurra. Pero ya no es un susurro roto: es una voz dulce, entera—. Hacía tanto que no podía...
+
+Te mira. Los ojos azules se le llenan de lágrimas.
+
+—Gracias. —Inclina la cabeza, tan bajo que el pelo le toca el piso—. Muchas gracias.
+
+Lido se ríe, una risa corta, sorprendida.
+
+—Bueno, eso no fue muy disimulado. —Mira hacia los arcos, hacia los techos de abajo—. Si alguien estaba escuchando...
+
+En un techo lejano, tres calles más abajo, una antorcha se detiene. Después otra. Las dos giran hacia el campanario.
+
+Gros gruñe.
+
+—Las cloacas —dice—. Fia y Aruru. Ahora.
+
+[Semillas del ermitaño: 81.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1071 · DANMACHI · NOCHE 1 · 23:23      ║
+║ Orario · Dédalo, campanario roto             ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Fia y Aruru (cloacas)              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:23, campanario roto. Rei curada (cantó una nota). Dos antorchas lejanas giran hacia el campanario. Gros: a las cloacas por Fia y Aruru. Facundo puede actuar.
