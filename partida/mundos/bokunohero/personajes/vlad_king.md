@@ -1,0 +1,14 @@
+NOMBRE: Vlad King (Sekijiro Kan)
+AFILIACIÓN: U.A., profesor de la clase 1-B
+RANGO: héroe profesional
+PODER VISTO POR FACUNDO: ninguno (Don: Control de Sangre)
+EDAD EN ESTE MOMENTO DEL CANON: adulto
+FÍSICO: Enorme, musculoso, piel morada oscura, pelo blanco, traje negro de cuello alto.
+PERSONALIDAD Y FORMA DE HABLAR: Ruidoso, apasionado, rival amistoso de Aizawa.
+RELACIÓN CON FACUNDO: no lo conoce.
+ENCUENTROS:
+- T1096 · Diciembre 10:55 · Sala de monitoreo del Campo Gamma: All Might trae a Facundo.
+DIÁLOGOS CLAVE:
+QUÉ SABE DE FACUNDO: el video del banco; lo ve en persona (T1096).
+QUÉ PODERES DE FACUNDO VIO: ninguno
+ESTADO: En la sala de monitoreo.

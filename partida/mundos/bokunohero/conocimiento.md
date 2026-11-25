@@ -21,3 +21,5 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Público de internet · T1093 · video del banco (16.000 reproducciones a las 09:47): un joven de pelo blanco y azul con un gato derriba al villano del brazo de roca. Sin nombre.
 - Tsukauchi, All Might · T1094 · Facundo es viajero y solo vino a ayudar (verdad). All Might lo lleva bajo su responsabilidad (si acepta) a ver a Nezu.
 - Nezu · T1095 · por All Might (teléfono): Facundo no existe en registros, tiene al menos tres capacidades, no miente, vino a ayudar. Vio el video del banco (31.000 reproducciones).
+- Nezu, All Might · T1096 · Facundo aceptó proteger la U.A. mientras esté en Japón; figura como consultor de seguridad externo.
+- Aizawa, Vlad King · T1096 · lo ven en persona en la sala de monitoreo; conocen el video del banco (Aizawa: "vigilantismo con treinta mil reproducciones"). Nezu les quiere presentar al nuevo consultor.

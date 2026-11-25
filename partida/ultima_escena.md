@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1093)
-no, nadie me los dio, los tengo desde siempre
-
-## RESPUESTA 1 (T1093)
-
-> no, nadie me los dio, los tengo desde siempre
-
-> —No. Nadie me los dio. Los tengo desde siempre.
-
-All Might no aparta la vista de ti. Pero no te mira a ti: espera.
-
-Tsukauchi tarda un segundo en hablar.
-
-—Verdad.
-
-All Might cierra los ojos.
-
-Se le afloja todo el cuerpo de golpe, como si alguien le hubiera sacado un peso de encima que cargaba desde que entró por esa puerta. Apoya la frente en una mano, sobre la mesa. Suelta el aire por la nariz, largo, temblando un poco.
-
-—Gracias —murmura. No se sabe si a ti, a Tsukauchi o a nadie—. Gracias.
-
-Tsukauchi se vuelve a sentar. Se pasa una mano por la cara.
-
-—Bueno. —Te mira. La voz vuelve a ser la de antes, cansada, casi amable—. Entonces tenemos un problema distinto. Uno más chico, pero un problema igual. —Abre la carpeta otra vez—. Un joven sin registro, sin documentos, sin Don declarado, que usa sus poderes en la vía pública. Eso es vigilantismo. Y la gente de la vereda del banco ya subió el video a internet. Tiene doce mil reproducciones.
-
-—Dieciséis mil —corrige All Might, sin levantar la cabeza—. Lo vi en el pasillo.
-
-—Dieciséis mil. —Tsukauchi suspira—. La prensa va a preguntar quién eres. La Comisión de Seguridad Pública de los Héroes va a preguntar quién eres. Y no hay ninguna respuesta en ningún papel.
-
-All Might levanta la cabeza. Te mira, y esta vez, en los ojos hundidos, hay algo distinto. No miedo. Curiosidad.
-
-—Salvaste a siete personas en ese banco, joven Morelli. Sin dudar. Sin licencia, sin uniforme, sin que nadie te lo pidiera. —Se le estira apenas una sonrisa cansada—. Conozco a un chico que haría lo mismo. Varias veces lo hizo.
-
-Se inclina un poco hacia adelante, con los codos en la mesa.
-
-—Así que te pregunto, no como sospechoso, sino porque quiero saberlo: ¿qué viniste a hacer a Japón?
-
-Kase abre un ojo en la silla, mira al hombre flaco, y lo vuelve a cerrar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1093 · BOKU NO HERO · DIC. · 09:47     ║
-║ Musutafu · Comisaría Central, sala de        ║
-║ interrogatorio                               ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: durmiendo en la silla                  ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1094)
+## COMANDO 1 (T1094)
 soy un viajero, solo vine a ayudar
 
-## RESPUESTA 2 (T1094)
+## RESPUESTA 1 (T1094)
 
 > soy un viajero, solo vine a ayudar
 
@@ -121,10 +63,10 @@ Kase abre los dos ojos en la silla. Se estira. Lo mira a All Might de arriba aba
 
 ---
 
-## COMANDO 3 (T1095)
+## COMANDO 2 (T1095)
 sí, le doy la mano y voy con él a la U.A.
 
-## RESPUESTA 3 (T1095)
+## RESPUESTA 2 (T1095)
 
 > sí, le doy la mano y voy con él a la U.A.
 
@@ -192,4 +134,71 @@ Te empuja la taza de té por el escritorio.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 10:40, oficina del director de la U.A. Nezu propone darle registro, documento y licencia temporal especial a cambio de que, mientras esté en Japón, trabaje para la U.A. protegiendo la escuela. Facundo puede responder.
+## COMANDO 3 (T1096)
+está bien, acepto, protejo la escuela
+
+## RESPUESTA 3 (T1096)
+
+> está bien, acepto, protejo la escuela
+
+> —Está bien. Acepto. Protejo la escuela.
+
+Nezu aplaude con las dos patitas, encantado.
+
+—¡Espléndido! —Saca de un cajón una carpeta gruesa, ya preparada, con un sello rojo de la U.A. en la tapa, y la deja sobre el escritorio—. Ya tenía los papeles empezados. Toshinori tarda veinte minutos en subir la colina. Yo pienso más rápido.
+
+All Might se ríe por lo bajo, con una mano en la frente.
+
+—Los detalles, rápido, porque sé que los jóvenes se aburren. —Nezu levanta una patita por cada punto—. Uno: va a figurar como "consultor de seguridad externo" de la U.A. Licencia temporal especial, tramitada por mí ante la Comisión. Tardará unos días; mientras tanto, si alguien pregunta, trabaja para mí. Dos: tendrá un cuarto en el edificio de profesores, dentro del campus. Con comida. Y con lugar para el gato. —Mira a Kase—. Me cae bien el gato.
+
+Kase parpadea despacio. Es lo más amable que le hizo a alguien en este mundo.
+
+—Tres. —Nezu baja las patitas—. Sus Dones, en el campus, solo en emergencias. Y fuera del campus, solo con mi permiso o el de un héroe profesional presente. Si no, los papeles no sirven de nada y Tsukauchi me va a llamar muy enojado.
+
+Firma la última hoja con una pluma diminuta. Te pasa la carpeta.
+
+—Bienvenido a la U.A., señor Morelli. —Sonríe—. Ahora, su primera tarea.
+
+Se vuelve hacia All Might.
+
+—Toshinori, llévelo a la sala de monitoreo del Campo Gamma. Quiero que vea a los chicos que va a proteger. Y quiero que los profesores lo vean a él. —Toma un sorbo de té—. Sobre todo Aizawa.
+
+[10:55 · Sala de monitoreo del Campo Gamma.]
+
+Una sala oscura con una pared entera de pantallas. En las pantallas, desde veinte ángulos distintos, un laberinto de tuberías gigantes, de acero, con nieve en los bordes, lleno de chicos con trajes de héroe que corren, saltan, chocan y se lanzan cosas. En una se ve a un muchacho de pelo mitad blanco, mitad rojo, con el brazo derecho cubierto de hielo y el izquierdo en llamas, que congela media tubería de un golpe.
+
+Delante de las pantallas hay dos hombres.
+
+Uno es enorme, musculoso, de piel morada oscura y pelo blanco, con un traje negro de cuello alto. Se da vuelta cuando entras, con los brazos cruzados.
+
+El otro no se da vuelta. Es flaco, de pelo negro largo y despeinado, barba de tres días, un traje negro gastado y una bufanda gris de tela larguísima, enrollada al cuello varias veces. Tiene una cicatriz debajo del ojo derecho. Está sentado en una silla con los pies arriba de la consola y un cartón de jugo en la mano.
+
+Te mira por el reflejo de una pantalla apagada. Mira a Kase. Mira a All Might.
+
+Suspira. Un suspiro largo, cansado, de alguien que ya sabe que le van a dar más trabajo.
+
+—Así que este es el chico del video del banco —dice, sin moverse de la silla—. Vigilantismo con treinta mil reproducciones.
+
+Sorbe el jugo por la pajita.
+
+—All Might. Por favor, dígame que no es un alumno nuevo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1096 · BOKU NO HERO · DIC. · 10:55     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger la U.A.                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 10:55, sala de monitoreo del Campo Gamma de la U.A. Facundo aceptó ser consultor de seguridad de la U.A. Aizawa, desde su silla, le pide a All Might que le diga que no es un alumno nuevo. Facundo puede actuar.

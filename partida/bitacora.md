@@ -1094,3 +1094,4 @@ T1092 · BnHA · Comisaría · "Me teletransporté." Tsukauchi: tres poderes, co
 T1093 · BnHA · Comisaría · "Nadie me los dio. Los tengo desde siempre." Tsukauchi: "Verdad." All Might, aliviado. Video con 16.000 reproducciones. "¿Qué viniste a hacer a Japón?"
 T1094 · BnHA · Comisaría · "Solo vine a ayudar." Tsukauchi: "Verdad." All Might: "¿Vienes conmigo a la U.A.?" (Nezu).
 T1095 · BnHA · U.A. · Taxi con All Might; Barrera de la U.A.; entrenamiento conjunto a lo lejos. Nezu: "¡Soy el director!" Propuesta: registro y licencia temporal a cambio de proteger la escuela.
+T1096 · BnHA · U.A. · Acepta: consultor de seguridad externo de la U.A. (licencia temporal en trámite). Sala de monitoreo: Aizawa: "Dígame que no es un alumno nuevo."

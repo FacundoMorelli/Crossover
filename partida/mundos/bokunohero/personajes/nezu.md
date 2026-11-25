@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1096 · "¡Espléndido! Ya tenía los papeles empezados. Toshinori tarda veinte minutos en subir la colina. Yo pienso más rápido." "Consultor de seguridad externo. Cuarto en el edificio de profesores. Me cae bien el gato." "Sus Dones, en el campus, solo en emergencias. Fuera, solo con mi permiso o el de un héroe profesional presente." "Bienvenido a la U.A., señor Morelli." "Quiero que los profesores lo vean. Sobre todo Aizawa."
 - T1095 · "¿Ratón? ¿Perro? ¿Oso? ¡Nada de eso! ¡Soy el director! Nezu, para servirle." "El gato es muy fotogénico." "Interesante. Muy interesante." "La U.A. puede conseguirle un registro, un documento y una licencia temporal especial. A cambio de una sola cosa: que, mientras esté en Japón, trabaje para nosotros. Protegiendo esta escuela."
 QUÉ SABE DE FACUNDO: ver conocimiento.md (T1095).
 QUÉ PODERES DE FACUNDO VIO: ninguno (el video).

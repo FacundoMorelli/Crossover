@@ -5,3 +5,4 @@ ESTADO: All Might retirado; Endeavor N.º 1 (desde noviembre), Hawks N.º 2 (inf
 DON DE MUNDO: Llama del Renacer (ver sistema.json).
 
 ## CAMBIOS POR CULPA DE FACUNDO
+- T1096 · Facundo es consultor de seguridad externo de la U.A. (Nezu).
