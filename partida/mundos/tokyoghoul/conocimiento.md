@@ -128,3 +128,5 @@
 - Shinohara, Houji, Kuroiwa · T1229 · vieron a Facundo llevarse a los Apes y volver; las esposas de supresión no le hacen nada.
 - Investigadores del camino y del puesto de mando · T1230 · vieron a Facundo (pelo blanco y azul, gato) llegar esposado escoltado por Shinohara, Kuroiwa y Houji.
 - Washuu Yoshitoki, Marude · T1230 · vieron a Facundo en persona: esposas encendidas sin efecto aparente (no lo saben aún), cara, gato.
+- Washuu Yoshitoki · T1231 · por el informe (hace 4 días) + sus hombres + Shinohara: el muchacho de dos colores con gato quita el hambre a ghouls en la puerta trasera de un café del Distrito 20; durmió a 27; destruyó Higher Mind con la mano; detuvo la quinque de Houji con la palma; llevó al Búho al café; pared invisible que ninguna quinque cruza. Ve Anteiku por cámara.
+- Facundo · T1231 · vio en una pantalla de la carpa la fachada de Anteiku (cámara de la CCG).

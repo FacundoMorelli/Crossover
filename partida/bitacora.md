@@ -1229,3 +1229,4 @@ T1227 · TG · Avenida 3 · Shinohara pide alto el fuego por radio. Washuu Yoshi
 T1228 · TG · Avenida 3 → Anteiku → sur → Anteiku → avenida 3 · Encierra a Yoshimura, Kaneki, Touka, Koma e Irimi en Anteiku (nadie sale). Vuelve. Kuroiwa protege a los Apes. Shinohara levanta las esposas.
 T1229 · TG · Avenida 3 · Lleva a los 4 Apes heridos a Anteiku. Se deja esposar (sin efecto). Houji pide su quinque.
 T1230 · TG · Puesto de mando · Devuelve la quinque. Caminan escoltados. Dos Black Dobers muertos en el camino. Washuu Yoshitoki: "Bienvenido. ¿Le apetece un té?"
+T1231 · TG · Carpa central · Té con Washuu. Resume todo lo que sabe. "¿Qué es usted?"

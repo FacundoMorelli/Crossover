@@ -3,93 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1228)
-bueno entonces no quedara otra, teletransporto a yoshimura, touka, kaneki y koma a anteiku, despues voy a buscar a irimi y tambien la llevo a anteiku y pongo en la barrera que no deje salir a nadie y vuelvo al callejon, listo, ahora si llevenme, no van a poder hacerles nada a ellos
-
-## RESPUESTA 1 (T1228)
-
-> —Bueno, entonces no quedará otra.
-
-No le das tiempo a nadie.
-
-Te das vuelta, apoyas la mano libre en el brazo cubierto de plumas del Búho, y en el mismo movimiento alcanzas el hombro de Kaneki, la muñeca de Touka y la espalda de Koma. Los cuatro sienten el tirón al mismo tiempo.
-
-—¡Facundo-san...! —alcanza a decir Kaneki.
-
-La avenida desaparece.
-
-La cocina de Anteiku. Olor a café. Nishiki, en la escalera, con una sartén en la mano como si fuera un arma, y Hinami detrás de él, con los ojos enormes. El Búho ocupa media cocina, encorvado, con la cabeza redonda rozando el techo. Koma cae sentado contra la mesada.
-
-—¿Qué...? —Koma mira alrededor—. ¡Mis muchachos están en el portal! ¡Panadero!
-
-Ya no estás.
-
-Buscas. A cinco cuadras al sur, en una calle angosta entre edificios bajos, hay una presencia que conoces: filosa, cansada, sangrando. Irimi.
-
-Apareces en la esquina.
-
-Está contra una pared, de rodillas, con una lanza de quinque clavada en el hombro derecho y la mano izquierda apretada sobre la herida. Delante de ella, en el suelo, una anciana humana acurrucada, con una bolsa de compras: Irimi está con el cuerpo en medio, entre la anciana y una fila de seis investigadores. Uno de ellos, un hombre de mandíbula dura y pelo corto, con una pistola en la mano, está diciendo algo sobre "ejecución en el lugar".
-
-Tocas a Irimi en la espalda.
-
-La calle desaparece. La anciana se queda sola en la vereda, en el medio de los investigadores, que miran la pared vacía.
-
-Cocina de Anteiku. Irimi cae de lado sobre las baldosas con la lanza todavía clavada en el hombro. Koma grita su nombre.
-
-Mientras todos se dan vuelta hacia ella, tú ya estás en la vereda, frente a la puerta, con la mano sobre el hilo plateado junto al cordón.
-
-Le das la orden nueva. Nadie sale. Nadie de los que están adentro puede cruzar el umbral hacia afuera, ni por la puerta, ni por el callejón, ni por las ventanas, ni por el techo. Nadie entra a hacer daño. Nada que venga contra este lugar pasa.
-
-El hilo brilla un instante, como una telaraña al sol, y se apaga.
-
-Por el vidrio de la puerta ves al Búho, del otro lado, mirándote. La cabeza redonda inclinada. No se mueve hacia la puerta. Detrás de él, Kaneki golpea el vidrio con las dos manos, una vez, y el vidrio no se rompe. Ni siquiera vibra.
-
-Te vas.
-
-...
-
-Avenida 3.
-
-Apareces donde estabas, en medio del asfalto, entre los veintiséis investigadores dormidos, con la quinque curva de Houji todavía en la mano.
-
-En el portal, los cuatro Apes heridos siguen apiñados. Pero ahora, delante de ellos, de espaldas a ellos, de pie, con el casco bajo el brazo, está Kuroiwa. Entre ellos y la avenida.
-
-Shinohara está donde lo dejaste, con la radio en una mano y las esposas en la otra. Houji, a un metro, mira el lugar vacío donde estaba el Búho. Después te mira la mano, donde está su quinque.
-
-> —Listo. Ahora sí, llévenme. No van a poder hacerles nada a ellos.
-
-Shinohara se queda mirándote. Después mira el lugar donde estaba el Búho. Después, las esposas.
-
-Suelta una risa corta, sin aire, que se le muere en la garganta.
-
-—El Búho, en un café. Con una pared que nadie puede cruzar. —Niega despacio con la cabeza—. Y yo, que voy a llevarle a Washuu al único hombre que sabe cómo abrirla.
-
-Da un paso hacia ti. Levanta las esposas blancas, abiertas, a la altura de tus muñecas. Se queda así, esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1228 · TOKYO GHOUL · DÍA 6 · 17:56     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 277.230/280.000               ║
-║ FRAGMENTOS 109.452 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: ir al puesto de mando con Shinohara║
-╚══════════════════════════════════════════════╝
-```
-
-(Escribiste "vuelvo al callejón"; lo tomé como volver a la avenida 3, donde te esperaban Shinohara y los demás.)
-
----
-
-## COMANDO 2 (T1229)
+## COMANDO 1 (T1229)
 aguanta, llevo a los apes a anteiku y vuelvo a la avenida y me pongo las esposas
 
-## RESPUESTA 2 (T1229)
+## RESPUESTA 1 (T1229)
 
 > —Aguanta.
 
@@ -144,10 +61,10 @@ Houji da un paso hacia ti. Señala con un dedo la quinque curva, que quedó colg
 
 ---
 
-## COMANDO 3 (T1230)
+## COMANDO 2 (T1230)
 le doy el quinque
 
-## RESPUESTA 3 (T1230)
+## RESPUESTA 2 (T1230)
 
 > le doy la quinque
 
@@ -206,7 +123,63 @@ Te mira las esposas, encendidas. Te mira la cara. Te mira el gato.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1231)
+esta bien
+
+## RESPUESTA 3 (T1231)
+
+> —Está bien.
+
+—Excelente.
+
+Washuu se hace a un lado para dejarte pasar.
+
+Adentro, la carpa es más grande de lo que parece. Hay una mesa larga en el centro, cubierta de mapas del Distrito 20 con alfileres de colores clavados en cada esquina, y tres pantallas que muestran imágenes en blanco y negro de cámaras de seguridad: calles vacías, humo, investigadores corriendo. En una de ellas se ve la fachada de Anteiku, de noche, con la luz de adentro encendida. Hay gente detrás del vidrio. No se distingue quién.
+
+En una esquina, sobre una mesa plegable, hay un termo de metal, tazas de porcelana blanca y una caja de té de buena marca. Fuera de lugar, como un mantel bordado en una trinchera.
+
+Washuu sirve él mismo. Dos tazas. Te deja una sobre la mesa de los mapas, justo encima del dibujo de la avenida 3.
+
+—Siéntese, por favor.
+
+Hay una silla plegable. Shinohara se queda de pie, a un metro de ti, con el casco en la mano. Houji y Kuroiwa, en la entrada de la carpa. El hombre del cigarrillo apagado entra último y se apoya en un poste, de brazos cruzados.
+
+Washuu se sienta frente a ti. Toma un sorbo de té. Deja la taza sin hacer ruido.
+
+—Le voy a hablar con franqueza, porque me parece que usted lo prefiere así. —Junta las yemas de los dedos—. Hace cuatro días llegó a mi escritorio un informe curioso. Un muchacho de ojos de dos colores, con un gato, que les quitaba el hambre a los ghouls en la puerta trasera de un café del Distrito 20. Lo archivé como un rumor. Los rumores de ese tipo aparecen todos los años.
+
+Señala, sin mirarla, la pantalla donde se ve la fachada de Anteiku.
+
+—Esta tarde, ese mismo muchacho durmió a veintisiete de mis hombres sin tocarlos. Destruyó una quinque de primera línea con la mano. Detuvo otra con la palma. Y se llevó al Búho, al ghoul más buscado de Japón, a ese café, donde según mis hombres hay una pared que no se ve y que ninguna quinque puede cruzar.
+
+Hace una pausa breve.
+
+—Y ahora está sentado en mi carpa, esposado, tomando mi té. Por propia voluntad.
+
+Te mira por encima de los lentes. La sonrisa educada no se le mueve ni un milímetro.
+
+—Así que, antes de hablar de condiciones, me gustaría entender una sola cosa. —Inclina apenas la cabeza—. ¿Qué es usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1231 · TOKYO GHOUL · DÍA 6 · 18:11     ║
+║ Distrito 20 · puesto de mando, carpa central ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Esposas de supresión: puestas (sin efecto)   ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: negociar con Washuu                ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:09, puesto de mando de la CCG. Washuu Yoshitoki recibe a Facundo en la entrada de la carpa y le ofrece té. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:11, carpa central del puesto de mando. Washuu, con té, pregunta "¿Qué es usted?". Facundo puede responder.
