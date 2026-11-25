@@ -3,89 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1056)
-simula hasta el día que zarpe el Black Whale
-
-## RESPUESTA 1 (T1056)
-
-> simula hasta el día que zarpe el Black Whale
-
-[Día 1 · noche.]
-
-Duermes en la azotea de un edificio de oficinas frente a la Torre, sobre el sobretodo, con Kase acurrucado contra el pecho. Comen lo último de la canasta de Mirajane. Abajo, la avenida tarda horas en vaciarse. En todas las pantallas gigantes de la ciudad pasan una y otra vez la explosión final del duelo, en cámara lenta.
-
-La gota rosada sigue en tu palma. El hilo se estira hacia el norte, lejos, y no se mueve en toda la noche.
-
-[Día 2.]
-
-Los noticieros de la mañana tienen una noticia nueva: el cuerpo de Hisoka Morow desapareció de la sala médica de la Torre Celestial. Las autoridades de la Torre no dan explicaciones. En las redes circulan teorías: que lo robó un coleccionista, que fue una mafia, que nunca murió. Nadie lo vio caminar por la calle de los baños.
-
-De la Tropa no hay ni rastro. Las cuatro presencias que se fueron por la esquina ya no están en la ciudad.
-
-Las pantallas también hablan del Black Whale 1: el barco más grande del mundo, del Reino de Kakin, zarpa en dos días desde el puerto de la capital, en el continente de Azia, rumbo a un lugar que los periodistas llaman "el Nuevo Mundo" sin saber muy bien qué significa. Doscientos mil pasajeros. La familia real a bordo. Un festival de tres días.
-
-A la tarde, el hilo de chicle de tu palma empieza a moverse. Hacia el este. Lento, constante, como alguien que viaja en barco o en dirigible.
-
-Vas también.
-
-[Día 3 · Kakin · festival de víspera.]
-
-La capital de Kakin es una ciudad de techos curvos de tejas rojas, pagodas, avenidas enormes de piedra blanca y rascacielos de vidrio detrás, todo mezclado. Hay faroles de papel colgados en cada calle, dragones de tela que bailan sostenidos por veinte personas, fuegos artificiales desde el mediodía. Huele a incienso, a carne asada, a pólvora.
-
-Y en el puerto, ocupando el horizonte, está el barco.
-
-No parece un barco. Parece un edificio acostado sobre el agua: blanco, de kilómetros de largo, con cinco pisos de cubiertas escalonadas que suben hacia la popa como una montaña, chimeneas, antenas, ventanas por miles. En el casco, en letras doradas de diez metros: BLACK WHALE 1.
-
-A la noche, en la ceremonia de víspera, la familia real sube a bordo por una escalinata alfombrada de rojo, entre guardias, cámaras y una multitud que ruge. Un rey gordo y sonriente. Detrás, uno por uno, catorce príncipes con sus séquitos. Algunos son niños. Uno es un bebé en brazos de su madre.
-
-Detrás de esa madre, entre los guardaespaldas de traje oscuro, camina un joven rubio de cara fina y seria, con una cadena enrollada en la mano derecha. No mira a la multitud. Mira todo lo demás.
-
-El hilo de tu palma apunta a un hotel del puerto. No se mueve en toda la noche.
-
-Las cuatro presencias de la Tropa aparecen también, al final del día, entre la multitud del puerto: separadas, sin acercarse entre ellas, sin acercarse al barco. Esperando. Hay otras más con ellas, que no conoces. Siete, ocho, nueve.
-
-[Día 4 · 09:40 · Puerto de Kakin · día del zarpe.]
-
-El zarpe es al mediodía. Desde el amanecer, doscientas mil personas hacen fila en los muelles para subir a los niveles bajos del barco, con valijas, chicos, jaulas con gallinas. Hay bandas militares tocando. Hay helicópteros de la televisión encima del puerto.
-
-Estás en el techo de un depósito de contenedores, a doscientos metros del muelle, viendo la fila avanzar despacio.
-
-El hilo de chicle de tu palma se tensa. De golpe. Como si alguien tirara del otro extremo.
-
-Y en el techo del depósito de al lado, a quince metros, sobre las chapas calientes de sol, aparece Hisoka.
-
-Está limpio. Sin sangre. Con el pelo otra vez peinado para arriba, la estrella pintada en una mejilla y la lágrima en la otra, una ropa de bufón nueva, blanca y violeta. Las dos manos en los bolsillos. Las dos piernas.
-
-Te mira y sonríe.
-
-—Llegaste puntual. ♥ —Saca la mano izquierda del bolsillo, la nueva, y te saluda con los dedos—. El barco zarpa en dos horas y veinte minutos. Las arañas ya están en la fila, ¿las sientes? Yo no. Pero sé que están. —Se lame el labio—. Y yo cumplí. No toqué a ninguna.
-
-Saca una carta de la manga. La hace girar.
-
-—Ahora te toca a ti, Facundo. ♠ —Los ojos amarillos le brillan—. En serio. Todo lo que tienes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1056 · HUNTER X HUNTER · DÍA 4 · 09:40 ║
-║ Kakin · puerto, techo de un depósito         ║
-║ NIVEL 27 · EXP 239.850/240.000               ║
-║ FRAGMENTOS 108.140 · 0 jenny                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
-║ sigan vivos cuando zarpe el Black Whale      ║
-║ OBJETIVO: Pelea con Hisoka                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1057)
+## COMANDO 1 (T1057)
 me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
 
-## RESPUESTA 2 (T1057)
+## RESPUESTA 1 (T1057)
 
 > me transformo en ultra instinto dominado, bien intenta pegarme, esto es lo mas fuerte que tengo
 
@@ -160,10 +81,10 @@ Se queda en silencio un momento, mirándote, con los ojos amarillos brillando m�
 
 ---
 
-## COMANDO 3 (T1058)
+## COMANDO 2 (T1058)
 le pego suave
 
-## RESPUESTA 3 (T1058)
+## RESPUESTA 2 (T1058)
 
 > le pego suave
 
@@ -225,4 +146,63 @@ Cierra los ojos un segundo. Los vuelve a abrir.
 
 ---
 
-ESTADO AL CIERRE: Hunter x Hunter, Día 4 09:54, contenedores del puerto de Kakin. Facundo (nivel 28) ganó la pelea pactada: Hisoka, incrustado en un contenedor, herido y consciente, renuncia a las arañas para siempre pero promete volver a buscar a Facundo. El Black Whale zarpa a las 12:00. Facundo puede actuar.
+## COMANDO 3 (T1059)
+le doy una semilla del ermitaño, nos vemos hisoka
+
+## RESPUESTA 3 (T1059)
+
+> le doy una semilla del ermitaño, nos vemos hisoka
+
+Sacas una semilla del bolsillo y se la pones entre los labios.
+
+Hisoka la mira de reojo, bizco, con la semilla en la boca. No pregunta. La mastica despacio, con los ojos fijos en ti, y traga.
+
+Un segundo.
+
+Después le vuelve el color a la cara, de golpe, debajo del maquillaje corrido. El silbido de la respiración se le corta. Las costillas, que tenía hundidas de un lado, crujen y se acomodan solas. El corte de la mejilla, el que le abriste con su propia carta en la calle de los baños, se cierra de la comisura a la oreja y no deja ni una línea.
+
+Saca un brazo del metal. Después el otro. Se despega de la pared del contenedor con un sonido de chapa que se dobla y cae de pie, entero, sobre el techo del contenedor de abajo.
+
+Se toca el pecho. Se toca la mejilla. Mueve los hombros.
+
+—Esto tampoco es Nen. —Lo dice bajito, casi para él mismo. Después se ríe—. Nada de lo que haces es Nen. ♣
+
+> —Nos vemos, Hisoka.
+
+Te das vuelta.
+
+—Facundo.
+
+Lo dice a tu espalda. No canturrea.
+
+—Gracias por el mejor día de mi vida. ♥
+
+No te sigue. Cuando miras por encima del hombro, ya no está en el contenedor. Solo queda la abolladura con la forma de su espalda en el acero rojo, y una carta clavada en el borde: un as de corazones.
+
+En tu palma, la gota rosada de Bungee Gum sigue ahí. El hilo se estira hacia el puerto, hacia la ciudad, cada vez más fino.
+
+Kase lo mira. Estornuda.
+
+A lo lejos, en los muelles, una sirena larga y grave sale del casco del Black Whale 1. Primer aviso. Las bandas militares empiezan a tocar más fuerte. La fila de doscientas mil personas se mueve un poco más rápido.
+
+[Semillas del ermitaño: 82.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1059 · HUNTER X HUNTER · DÍA 4 · 10:00 ║
+║ Kakin · puerto, contenedores                 ║
+║ NIVEL 28 · EXP 242.350/280.000               ║
+║ FRAGMENTOS 108.290 · 0 jenny                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Shalnark y Kortopi      ║
+║ sigan vivos cuando zarpe el Black Whale      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Hunter x Hunter, Día 4 10:00, contenedores del puerto de Kakin. Hisoka curado y se fue ("Gracias por el mejor día de mi vida"). Primer aviso del Black Whale; zarpa a las 12:00. Facundo puede actuar.

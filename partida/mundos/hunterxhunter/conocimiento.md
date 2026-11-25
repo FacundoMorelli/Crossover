@@ -38,3 +38,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Gente del muelle · T1057 · vio algo en los techos (luces, ruido, chapas que vuelan).
 - Hisoka · T1058 · recibió un golpe "suave" de Facundo en Ultra Instinto (40 m, contenedor doblado); reconoce la derrota; trato cumplido.
 - Trabajadores del puerto (2) · T1058 · vieron a un hombre volar por encima de los contenedores y estrellarse contra uno.
+- Hisoka · T1059 · comió una semilla de Facundo: curado del todo ("nada de lo que haces es Nen").

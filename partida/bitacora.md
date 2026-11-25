@@ -1057,3 +1057,4 @@ T1055 · HxH · Baños públicos · "Trato." Apretón de manos; Hisoka le pega u
 T1056 · HxH · (simulado Días 1-4) Azotea; cuerpo de Hisoka "desaparecido"; viaje a Kakin; festival de víspera (familia real a bordo; Kurapika de lejos). Día 4 09:40, techo del puerto: Hisoka, "Ahora te toca a ti. Todo lo que tienes."
 T1057 · HxH · Puerto de Kakin · Ultra Instinto Dominado. Hisoka ataca 12 minutos: nada lo toca. Helicóptero de TV filma. Hisoka: "Pégame. Aunque sea una vez."
 T1058 · HxH · Puerto de Kakin · Golpe suave: Hisoka incrustado en un contenedor. NIVEL 28. "Ganaste. Las arañas son tuyas. Pero a ti algún día voy a volver a buscarte."
+T1059 · HxH · Puerto de Kakin · Semilla del ermitaño a Hisoka. "Nos vemos, Hisoka." "Gracias por el mejor día de mi vida. ♥" Primer aviso del Black Whale.
