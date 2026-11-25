@@ -10,3 +10,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 ENCUENTROS:
 - T458 · Facundo aparece en medio de su duelo con Asta.
+- T1303 · Lo abraza de la cintura sin decir nada y no lo suelta.

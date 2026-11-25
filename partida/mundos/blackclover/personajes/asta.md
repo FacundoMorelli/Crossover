@@ -20,3 +20,4 @@ ENCUENTROS:
 - T1295 · "Se iba a hacer volar... y tú... con un dedo... ¡¿CÓMO HICISTE ESO?! ¡Enséñame!"
 - T1296 · "¡¿Tengo algo adentro?! ¡¿Es contagioso?!"
 - T1302 · "¡¿TIENE GRIMORIO?!"
+- T1303 · "¡¿OTRA VEZ TE VAS?! ¡No me enseñaste nada! ¡Cuando vuelvas, voy a ser Rey Mago! ¡O casi!"

@@ -13,3 +13,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: nombre, que es nuevo, el rumor de Gauche.
 QUÉ PODERES DE FACUNDO VIO: Ultra Instinto (aura plateada, esquiva sola) T479
 ESTADO: activo
+- T1303 · "¡Por el que me hizo ganar plata!"

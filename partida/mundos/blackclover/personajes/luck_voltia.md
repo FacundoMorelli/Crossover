@@ -20,3 +20,4 @@ ESTADO: magullado, activo
 - T1295 · (ki de Facundo) Tiene una semilla oscura dormida adentro, como la de William pero más chica. En el pasillo norte de la base del Ojo, con Noelle.
 - T1298 · Semilla sacada por Facundo: "Oye... ¿por qué siento la panza más liviana?" Sin semilla.
 - T1299 · "¡Si ganas tú, después me toca a mí!"
+- T1303 · "Gracias por lo de la panza. No sé qué era, pero me siento mejor."

@@ -11,3 +11,4 @@ ESTADO: activo
 ENCUENTROS:
 - T461 · Facundo trae a Kiato con Teletransportación. Se quita la máscara.
 - T465 · Agradece a Facundo; quiere cantarle una canción.
+- T1303 · "Cuando vuelvas, voy a estar cantando en un escenario grande. Ven a escucharme."

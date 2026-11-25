@@ -10,3 +10,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo
 ENCUENTROS:
 - T468 · se le acerca con una botella: "¿Brindas conmigo, nuevo?"
+- T1303 · "¡Por el que se va y siempre vuelve!"

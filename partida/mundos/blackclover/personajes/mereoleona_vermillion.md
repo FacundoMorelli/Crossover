@@ -5,6 +5,7 @@ PODER VISTO POR FACUNDO: Aura de fuego que se extiende como zona viva; brazos co
 ENCUENTROS:
 - T1291 · Rocas Gravito · Pelea riéndose a carcajadas, con la cara ensangrentada, contra un copiador de magias.
 DIÁLOGOS CLAVE:
+- T1303 · "Entonces vuelve. Y cuando vuelvas, me muestras otro. Para ese día voy a estar más fuerte. Mucho más."
 - T1302 · "¡ESO!" (vencida en el cráter) "Ja. Ja, ja, ja." "¿Eso era uno solo? ¿Cuántos tienes?"
 - T1301 · (tras ver cortado su Leo Rugiens) "Todavía no terminé."
 - T1300 · "¡QUÉDATE QUIETO!" "¡Ja! ¡JA! ¡Esto es! ¡Esto es lo que quería!" "¡Leo Rugiens!"

@@ -11,3 +11,4 @@ ESTADO: activo
 ENCUENTROS:
 - T461 · duelo con Kahono interrumpido; pregunta por Asta.
 - T1300 · "No tiene mana. Sigue sin tener nada de mana. ¿Qué es eso...?"
+- T1303 · "No es que nos importe. Pero... la próxima vez avisa antes. Charmy cocinó para ti."

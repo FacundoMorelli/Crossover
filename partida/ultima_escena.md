@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1300)
-activo el ultra instinto dominado, esta es mi mejor fase
-
-## RESPUESTA 1 (T1300)
-
-> —Esta es mi mejor fase.
-
-La garra cae.
-
-Y tu cuerpo ya no está ahí.
-
-No te moviste. Se movió solo, medio paso a la izquierda, con la calma de quien se corre para dejar pasar a alguien en un pasillo. La garra de fuego pasa a un dedo de tu oreja y se hunde en la tierra. El claro entero tiembla. Un géiser de tierra y llamas sube detrás de ti.
-
-Un brillo plateado te envuelve. Te sube por los brazos, por la espalda, se te mete en los ojos. El pelo se te vuelve blanco, plateado, como hecho de luna. El aire alrededor de ti se queda quieto, más quieto que la noche.
-
-[Ultra Instinto Dominado.]
-
-Los Toros Negros se quedan mudos.
-
-—No tiene mana —dice Noelle, bajito, agarrándose de la manga de Asta—. Sigue sin tener nada de mana. ¿Qué es eso...?
-
-Mereoleona no se detiene. Saca la garra de la tierra con un tirón y la barre de costado, a la altura del pecho. Tu cuerpo se inclina hacia atrás, lo justo. La segunda garra viene de abajo. Giras sobre un pie. Un rodillazo envuelto en fuego. Se lo dejas pasar por debajo del brazo. Patada a la cabeza. Te agachas medio centímetro.
-
-Diez golpes. Veinte. Ella acelera. El fuego se le vuelve más blanco, más caliente, y el claro se llena de humo y de hierba quemada.
-
-No te toca ni el humo.
-
-—¡QUÉDATE QUIETO! —ruge, y el rugido sale con fuego.
-
-Se echa para atrás de un salto. Aterriza a quince metros, con el pecho subiendo y bajando. Por primera vez desde la caverna, se ríe. Una carcajada grande, salvaje, que le hace tirar la cabeza para atrás.
-
-—¡Ja! ¡JA! ¡Esto es! ¡Esto es lo que quería!
-
-Las llamas a su alrededor se juntan arriba de su cabeza. Toman forma. Una cabeza de león enorme, de fuego blanco y naranja, más alta que la base de los Toros Negros. Las ramas de los árboles más cercanos se prenden solas por el calor.
-
-Kiato se esconde detrás de su abuela. Charmy deja caer la olla.
-
-—¡Sukehiro! —grita Vanessa—. ¡Nos va a quemar la casa!
-
-Yami no se mueve de la puerta.
-
-—Ya está quemada.
-
-Mereoleona levanta los brazos. El león abre la boca.
-
-—¡Leo Rugiens!
-
-El león de fuego se tira sobre ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1300 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · claro             ║
-║ NIVEL 29 · EXP 294.280/320.000 · D4 21:14    ║
-║ FRAGMENTOS 111.657 · 0 yul                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Ultra Instinto Dominado                      ║
-║ Velo: persona común (aura plateada visible)  ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1301)
+## COMANDO 1 (T1301)
 le robo la espada a yami con luna y corto el dragon
 
-## RESPUESTA 2 (T1301)
+## RESPUESTA 1 (T1301)
 
 > (Le robo la espada a Yami con Luna y corto el león.)
 
@@ -132,10 +65,10 @@ Se tira hacia ti con los puños desnudos, envueltos en lo último que le queda d
 
 ---
 
-## COMANDO 3 (T1302)
+## COMANDO 2 (T1302)
 te voy a mostrar 1 solo de mis ataques por que te robe a tu presa, saco mi grimorio y lo uso contra ella
 
-## RESPUESTA 3 (T1302)
+## RESPUESTA 2 (T1302)
 
 > —Te voy a mostrar uno solo de mis ataques, porque te robé la presa.
 
@@ -209,7 +142,79 @@ Abajo, Mereoleona levanta un brazo hacia las estrellas, como si las quisiera aga
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1303)
+muchos, bueno chicos y con este combate, me retiro de nuevo, en unos semanas, quizas vuelvo hay cosas que tengo que hacer
+
+## RESPUESTA 3 (T1303)
+
+> —Muchos. Bueno, chicos, con este combate me retiro de nuevo. En unas semanas, quizás, vuelvo. Hay cosas que tengo que hacer.
+
+Yami no espera a que se la des. Saca la katana de tu mano con dos dedos, la mira de punta a punta, ve la escarcha que todavía le queda en el filo, y la guarda en la vaina sin decir nada.
+
+Después te mira.
+
+—Otra vez te vas justo cuando hay comida.
+
+En el fondo del cráter, Mereoleona se sienta. Le cuesta. Se escupe tierra al costado y se limpia la sangre de la ceja con el dorso de la mano.
+
+—¿"Muchos"? —Se ríe otra vez, más bajo—. Entonces vuelve. Y cuando vuelvas, me muestras otro. Para ese día voy a estar más fuerte. —Te señala con el dedo, desde abajo—. Mucho más.
+
+Asta salta al borde del cráter de un brinco.
+
+—¡¿OTRA VEZ TE VAS?! ¡No me enseñaste nada! —Aprieta los puños, los ojos le brillan, pero no de tristeza—. ¡Cuando vuelvas, voy a ser Rey Mago! ¡O casi! ¡Vas a ver!
+
+Noelle se acerca detrás de él, con los brazos cruzados, mirando para otro lado.
+
+—No es que nos importe. Pero... la próxima vez avisa antes. Charmy cocinó para ti.
+
+Charmy, abrazada a su olla, asiente muy fuerte.
+
+Luck te mira con la sonrisa de siempre, aunque un poco distinta. Se toca la panza.
+
+—Gracias por lo de la panza. No sé qué era, pero me siento mejor.
+
+Kiato llega corriendo y se te tira encima. Te abraza la cintura con los dos brazos, la cara hundida en tu ropa. Kahono viene detrás, más despacio, y se para al lado, con las manos juntas.
+
+—Cuando vuelvas —dice Kahono—, voy a estar cantando en un escenario grande. Ven a escucharme.
+
+Kiato no dice nada. No te suelta.
+
+La abuela de los chicos, desde atrás, te hace una reverencia profunda. No dice una palabra.
+
+Zora, apoyado contra un árbol apagado, levanta una mano a medias. Gauche, Gordon y Grey miran desde la puerta caída. Gordon murmura algo que nadie oye. Grey se esconde detrás de él.
+
+Vanessa levanta su copa hacia ti.
+
+—¡Por el que se va y siempre vuelve!
+
+Magna levanta su puño con los billetes de la apuesta.
+
+—¡Por el que me hizo ganar plata!
+
+Yami se prende un cigarrillo. Exhala el humo hacia la luna.
+
+—Ya sabes dónde está la base —dice—. La puerta, por ahora, no.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1303 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · claro (cráter)    ║
+║ NIVEL 29 · EXP 295.080/320.000 · D4 21:18    ║
+║ FRAGMENTOS 111.957 · 0 yul                   ║
+║ Energía 98% · Ojos: bien                     ║
+║ Ultra Instinto Dominado                      ║
+║ Grimorio del Firmamento (flotando)           ║
+║ Velo: persona común (aura plateada visible)  ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:16, cráter del claro. Mereoleona vencida, consciente: "¿Cuántos tienes?" Yami pide su espada. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, Día 4 21:18, claro. Despedida de todos; Kiato abrazado a Facundo. Falta elegir destino. Facundo puede actuar.

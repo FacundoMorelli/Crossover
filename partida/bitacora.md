@@ -1301,3 +1301,4 @@ T1299 · BC · Claro de los Toros · Acepta el duelo con Mereoleona; ella ataca 
 T1300 · BC · Claro de los Toros · Ultra Instinto Dominado: Mereoleona no lo toca. Ella se ríe y lanza Leo Rugiens.
 T1301 · BC · Claro de los Toros · Toma la katana de Yami, la carga con Luna y corta Leo Rugiens. Yami: "Esa es mía." Mereoleona carga con lo último.
 T1302 · BC · Claro de los Toros · Grimorio del Firmamento: León Estelar vence a Mereoleona (cráter, consciente). +300 F, +800 EXP. "¿Cuántos tienes?"
+T1303 · BC · Claro de los Toros · Anuncia que se va (quizás vuelve en semanas). Despedidas: Mereoleona quiere revancha; Asta "seré Rey Mago"; Kiato lo abraza. Yami recupera la katana.

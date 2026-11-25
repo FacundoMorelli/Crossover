@@ -23,6 +23,7 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
 
 DIÁLOGOS CLAVE:
+- T1303 · "Otra vez te vas justo cuando hay comida." "Ya sabes dónde está la base. La puerta, por ahora, no."
 - T1302 · (mano extendida, sin mirarlo) "La espada."
 - T1301 · (mirándose la mano vacía) "Oye. Esa es mía."
 - T1300 · (Vanessa: "¡Nos va a quemar la casa!") "Ya está quemada."
