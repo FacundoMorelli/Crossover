@@ -3,78 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1117)
-primero a él, vamos All Might, me teletransporto a Tartarus
-
-## RESPUESTA 1 (T1117)
-
-> —Primero a él. Vamos, All Might.
-
-All Might no duda. Te pone una mano enorme en el hombro, del lado donde no está Kase.
-
-Nezu se levanta de un salto sobre la silla.
-
-—¡Esperen! Tartarus tiene protocolo de...
-
-Ya no lo escuchas.
-
-Frío.
-
-Es lo primero que notas. Un frío seco, de aire filtrado, de lugar al que nunca le llegó el sol. Después, la luz: blanca, dura, sin sombras, que sale del techo y de las paredes al mismo tiempo.
-
-Es una celda redonda, enorme, de paredes de metal liso. En el centro, sobre una plataforma, hay una silla de contención llena de tubos y correas. Y en la silla hay un hombre.
-
-Traje negro. Cuerpo flaco, inmóvil. Las manos atadas, los brazos sujetos con abrazaderas de acero. La cabeza cubierta por un casco de respiración del que salen mangueras hacia las máquinas del costado. Debajo del casco, donde debería haber ojos, hay piel lisa, cicatrizada.
-
-En el techo, alrededor de toda la celda, una docena de cañones automáticos giran al mismo tiempo, con un zumbido mecánico, y te apuntan a ti y a All Might.
-
-Una sirena empieza a sonar en algún lugar arriba, lejos, a través de muchas capas de roca.
-
-—¡INTRUSOS EN EL NIVEL MÁS BAJO! —ruge un altavoz—. ¡NO SE MUEVAN! ¡Están en el área de contención de...! —Una pausa. La voz cambia—. ¿Ese es... All Might?
-
-All Might no contesta. No mira los cañones. Mira la silla.
-
-Su mano sigue en tu hombro, y la sientes temblar. No de miedo. Es otra cosa.
-
-El hombre de la silla no se mueve. Pero el respirador cambia de ritmo. Una inhalación más larga. Más lenta.
-
-Después, despacio, la cabeza sin ojos gira hacia ustedes.
-
-—Qué curioso —dice. La voz sale suave, ronca, por el altavoz del casco, como si estuviera sonriendo—. Hace mucho que nadie entra sin avisar. —La cabeza se inclina un poco, hacia All Might—. Y hace mucho más que no sentía esto, Toshinori.
-
-Silencio. Solo la sirena, lejana, y el zumbido de los cañones.
-
-—Está entera —dice el hombre, en voz más baja. Ya no suena divertido—. La brasa. Está entera otra vez.
-
-Y la cabeza gira, muy lentamente, hacia ti.
-
-—¿Fuiste tú?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1117 · BOKU NO HERO · DIC. · 12:02     ║
-║ Tartarus · celda de contención, nivel más    ║
-║ bajo                                         ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.911 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Con: All Might                               ║
-║ ALERTA: 12 cañones automáticos apuntándote   ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: All For One                        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1118)
+## COMANDO 1 (T1118)
 quien sabe, los siguientes en ser arrestados van a ser la liga, eh allmight, te puedes quedar a explicar esto a los guardias mientras yo voy?
 
-## RESPUESTA 2 (T1118)
+## RESPUESTA 1 (T1118)
 
 > —Quién sabe. Los siguientes en ser arrestados van a ser los de la Liga. —Te giras—. Eh, All Might, ¿te puedes quedar a explicarles esto a los guardias mientras yo voy?
 
@@ -121,10 +53,10 @@ En la silla, All For One vuelve a respirar despacio. Tranquilo. Como si estuvier
 
 ---
 
-## COMANDO 3 (T1119)
+## COMANDO 2 (T1119)
 me teletransporto a la cabaña donde está la Liga
 
-## RESPUESTA 3 (T1119)
+## RESPUESTA 2 (T1119)
 
 > me teletransporto a la cabaña donde está la Liga
 
@@ -179,4 +111,64 @@ El de la máscara de teatro se ríe bajito y mete una mano en el bolsillo de la 
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:04, cabaña de la Liga en las montañas. Dabi con llama azul en la palma, exige saber cómo los encontró. Toga, Twice, Spinner, Mr. Compress (mano en el bolsillo). Shigaraki y Gigantomachia peleando a lo lejos. Facundo puede actuar.
+## COMANDO 3 (T1120)
+mucho gusto, me llamo Facundo Morelli, hago una reverencia teatral
+
+## RESPUESTA 3 (T1120)
+
+> —Mucho gusto. Me llamo Facundo Morelli.
+
+Haces una reverencia teatral: una mano al pecho, la otra hacia un costado, la cabeza bien baja. Kase se agarra con las uñas a tu hombro para no caerse.
+
+El de la máscara de teatro aplaude. Tres palmadas lentas, enguantadas.
+
+—¡Oh! —dice, encantado—. ¡Por fin alguien con modales! Señores, tomen nota. Así se hace una entrada.
+
+—Compress —dice el de las quemaduras, sin mirarlo.
+
+—Ya sé, ya sé. Pero hay que reconocerlo.
+
+La chica rubia se ríe y deja la piedra de afilar en el colchón. El cuchillo, no.
+
+—Facundo —repite, probando el nombre como si fuera un caramelo—. Qué lindo. ¿Y el gatito cómo se llama?
+
+—¡Toga, no le preguntes el nombre al gato! —salta el de cara de lagarto, todavía de pie, con las manos en alto como si no supiera qué hacer con ellas—. ¡Apareció de la nada! ¡Adentro! ¡Eso es lo único que importa!
+
+—¡Exacto! —dice el del traje negro y blanco—. ¡Qué gato tan bonito! ¡No, qué miedo!
+
+El de las quemaduras no se ríe.
+
+—Tres —dice.
+
+El humo azul de la palma se vuelve llama. Pequeña, apretada, casi blanca en el centro. La estufa del rincón parece apagada al lado de eso.
+
+—Te pregunté cómo nos encontraste —dice Dabi—. Y me contestaste tu nombre. —Ladea la cabeza, aburrido—. Dos.
+
+Mr. Compress saca la mano del bolsillo. Tiene algo entre los dedos, una canica de vidrio que gira y brilla con la luz de la llama.
+
+Toga se levanta del colchón, muy despacio, sin dejar de sonreír.
+
+Afuera, la montaña vuelve a temblar.
+
+—Uno.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1120 · BOKU NO HERO · DIC. · 12:04     ║
+║ Montañas del noroeste · cabaña de la Liga    ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.911 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Arrestar a la Liga                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:04, cabaña de la Liga. Dabi llegó a "uno" con la llama azul en la palma. Compress con una canica en los dedos, Toga de pie con el cuchillo. Facundo puede actuar.

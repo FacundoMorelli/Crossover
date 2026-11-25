@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1119 (Facundo viene a arrestarlos).
 ENCUENTROS:
 - T1119 · Cabaña de la Liga · Facundo aparece de la nada.
 DIÁLOGOS CLAVE:
-QUÉ SABE DE FACUNDO: Nada. Que apareció dentro de la cabaña sin puerta, con un gato en el hombro.
+- T1120 · "¡Toga, no le preguntes el nombre al gato! ¡Apareció de la nada!"
+QUÉ SABE DE FACUNDO: Se llama Facundo Morelli (T1120). Que apareció dentro de la cabaña sin puerta, con un gato en el hombro.
 QUÉ PODERES VIO: La aparición (teletransporte).
 ESTADO: Libre, en la cabaña.
