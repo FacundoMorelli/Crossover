@@ -37,3 +37,4 @@ PODER VISTO POR FACUNDO: Mokuton (Casa de Cuatro Pilares, de cerca, T1321).
 RELACIÓN CON FACUNDO (T1321): complicidad; se identifica con él.
 - T1322 · Le construye a Facundo una casa chica (un piso, ventana redonda, alero, estante para el gato) al final de la fila. "No es gran cosa. Pero tiene techo, y es tuya mientras estés aquí. Es lo mínimo, después de lo de hoy." "En un rato todo el campamento va a saber que el forastero del gato hizo brotar brazos del suelo. Yo que tú me metería adentro un rato."
 COPIADO POR FACUNDO: Mokuton completo (T1322). Yamato no lo sabe.
+- T1323 · "No soy tu carcelero. Hace una hora quería serlo, pero ya no." Advierte: carpas grises del oeste (sin la hoja) son de Raíz, la gente de Danzō, "no les gusta que nadie mire". "Si Tsunade-sama te manda a buscar... no la hagas esperar. Hoy está de muy mal humor, y no contigo." "Si te pierdes, busca la casa con el estante para el gato."

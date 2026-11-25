@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1320)
-
-uso la hana hana no mi para hacer todo el trabajo
-
-## RESPUESTA 1 (T1320)
-
-> uso la hana hana no mi para hacer todo el trabajo
-
-Cruzas los brazos sobre el pecho.
-
-Del suelo del terreno, de entre las tejas, de los costados de las vigas, de la pared de la ventana con la cortina, empiezan a brotar brazos. Primero diez. Después cien. Salen como flores que se abren, con un remolino de pétalos que se deshace en el aire, y son todos iguales: brazos de hombre, con tatuajes de dragón que suben desde la muñeca.
-
-Un chūnin suelta la pala. Se le cae sobre el pie y ni se da cuenta.
-
-Los brazos se ponen a trabajar.
-
-Forman cadenas, cientos de manos pasándose las cosas de una a otra como baldes en un incendio, desde cada rincón del terreno hasta el pozo de la bandera roja. Las tejas viajan de mano en mano en filas perfectas. Las vigas grandes las levantan veinte brazos a la vez, desde abajo, y avanzan como una procesión. Los ladrillos salen de a cuatro, de a ocho, sin que se rompa uno.
-
-Otras manos, más chicas, escarban entre los escombros y apartan: una foto de una pareja joven con un bebé, un cuaderno con dibujos de niño, una caja de madera con la tapa rota, la muñeca de trapo que había dejado Yamato sobre la piedra. Las ponen en fila, en un rincón limpio, sobre una tabla, una al lado de la otra.
-
-El letrero de la tienda de ramen pasa por encima de la cabeza de los chūnin, de mano en mano, y termina apoyado con cuidado contra un poste, no en el pozo.
-
-Diez minutos después, el terreno está limpio. Tierra marrón y húmeda, pareja, sin una piedra. Hasta la barren: un grupo de manos pasa las palmas por el suelo, de punta a punta, y lo deja liso.
-
-Los brazos se deshacen en pétalos, todos a la vez, y el viento se los lleva hacia el cráter.
-
-Nadie dice nada.
-
-Los chūnin están quietos con las palas en la mano. Uno de ellos tiene la boca abierta. Otro se frota los ojos con el puño sucio de tierra.
-
-Yamato se acerca al rincón de los objetos. Se agacha frente a la fila: la foto, el cuaderno, la caja, la muñeca. Los mira un rato. Después se levanta y se da vuelta hacia ti.
-
-—Brazos —dice—. Cientos. Que salen de cualquier superficie. —Mira el lugar de la pared donde brotaron los primeros—. No es un clon. No es invocación. Y ese chakra... tampoco lo sentí.
-
-Se rasca la nuca, igual que Kakashi.
-
-—En los archivos de la aldea había registros de clanes con técnicas secretas que ya nadie conoce. Nunca leí nada parecido a esto. —Te mira—. ¿De qué clan eres, Facundo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1320 · NARUTO · DÍA 1 · 08:58          ║
-║ Konoha · borde sur del cráter · terreno      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Ayudar a Yamato con los escombros  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1321)
+## COMANDO 1 (T1321)
 
 no tengo clan, soy un viajero
 
-## RESPUESTA 2 (T1321)
+## RESPUESTA 1 (T1321)
 
 > no tengo clan, soy un viajero
 
@@ -111,11 +56,11 @@ Se queda pensando un momento.
 
 ---
 
-## COMANDO 3 (T1322)
+## COMANDO 2 (T1322)
 
 en algun arbol o algo de eso
 
-## RESPUESTA 3 (T1322)
+## RESPUESTA 2 (T1322)
 
 > en algun arbol o algo de eso
 
@@ -175,4 +120,49 @@ Yamato no nota nada. Se sacude las manos y mira hacia el campamento, de donde vi
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:06, borde sur del cráter. Yamato le construyó una casa chica de madera (un piso, ventana redonda, estante para Kase) al final de la fila. MOKUTON COPIADO (+300 EXP). Vienen chūnin y familias de la lista; Yamato le sugiere meterse adentro un rato porque todos van a saber lo de los brazos. Facundo puede actuar.
+## COMANDO 3 (T1323)
+
+ehh puedo ir a recorrer mientras?
+
+## RESPUESTA 3 (T1323)
+
+> ehh puedo ir a recorrer mientras?
+
+> —Eh... ¿puedo ir a recorrer mientras?
+
+Yamato se ríe por la nariz, corto.
+
+—No soy tu carcelero. Hace una hora quería serlo, pero ya no. —Se sacude el polvo del chaleco—. Recorre lo que quieras. Pero escúchame dos cosas.
+
+Levanta un dedo.
+
+—Una. Del lado oeste del cráter, donde están las carpas grises sin la hoja dibujada, no te metas. Son de Raíz, la gente de Danzō. No llevan nombre, no llevan cara, y no les gusta que nadie mire.
+
+Levanta otro.
+
+—Dos. Si Tsunade-sama te manda a buscar, vas a querer que te encuentren rápido. No la hagas esperar. Hoy está de muy mal humor, y no contigo.
+
+Detrás de él llegan los chūnin con las primeras familias. Una mujer con un bebé en brazos se queda parada frente a la primera casa, sin animarse a tocar la puerta. Un nene de unos cinco años sale disparado hacia los escalones y se sienta en el primero, a ver qué se siente. Una abuela se tapa la boca.
+
+Yamato se da vuelta hacia ellos y ya no te mira.
+
+—Ve —dice, por encima del hombro—. Y si te pierdes, busca la casa con el estante para el gato. Es la única así en toda la aldea.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1323 · NARUTO · DÍA 1 · 09:08          ║
+║ Konoha · borde sur · tu casa de madera       ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:08, borde sur, frente a la casa de Facundo. Yamato le deja recorrer: no meterse en las carpas grises del oeste (Raíz, de Danzō); si Tsunade lo manda a buscar, que lo encuentren rápido. Llegan las primeras familias a las casas. Facundo libre para recorrer.

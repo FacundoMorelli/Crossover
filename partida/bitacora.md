@@ -1321,3 +1321,4 @@ T1319 · NARUTO · Borde sur del cráter · "Tsunade me dijo que te ayude a desp
 T1320 · NARUTO · Terreno sur · Hana Hana no Mi: cientos de brazos limpian el terreno en 10 minutos y apartan los objetos personales. Yamato: no es clon ni invocación, no sintió chakra. "¿De qué clan eres, Facundo?"
 T1321 · NARUTO · Terreno sur · "No tengo clan, soy un viajero." Yamato: "Yo tampoco tengo clan" (laboratorio, 60 chicos, único sobreviviente). Advierte de Danzō. Levanta 4 casas con Mokuton. "¿Dónde vas a dormir tú esta noche?"
 T1322 · NARUTO · Terreno sur · "En algún árbol." Yamato le construye una casa chica de madera (con estante para Kase). COPIA el Mokuton de Yamato (+300 EXP). Viene gente; Yamato: "Yo que tú me metería adentro un rato."
+T1323 · NARUTO · Borde sur · "¿Puedo ir a recorrer?" Yamato: "No soy tu carcelero." Advierte: carpas grises del oeste = Raíz; si Tsunade lo busca, que lo encuentren rápido. Llegan las familias a las casas.
