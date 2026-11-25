@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1159 · "El Búho." "Ese nombre no lo conozco. Pero conozco al Búho: un ghoul de rango SSS, el más buscado del país." "La CCG no les pone nombre de operación a los ghouls que quiere investigar. Les pone nombre a los lugares que piensa destruir." "¿Cuál es su misión? ¿Y qué tiene que ver con este lugar?"
 - T1158 · "Ukaku, koukaku, rinkaku, bikaku. En setenta años nunca vi a un ghoul con más de uno. Ni a uno que oliera a humano. Y tampoco vi nunca un kagune que no tuviera hambre."
 - T1157 · "Me llamo Yoshimura. Soy el gerente de este lugar." "Usted es humano, ¿verdad? Huele como uno." "Me gustaría saber qué busca un humano como usted en un lugar como este."
 - T1156 · "Kaneki me dice que fue usted quien los trajo. A todos. Pasen, por favor. Les voy a preparar café."

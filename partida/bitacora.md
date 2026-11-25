@@ -1157,3 +1157,4 @@ T1155 · TG · Acantilado · Opciones: escondite, mansión Tsukiyama, Anteiku. K
 T1156 · TG · Anteiku · Encuentra Anteiku con la percepción. Kaneki entra primero. Yoshimura: "Pasen, por favor. Les voy a preparar café."
 T1157 · TG · Anteiku · Yoshimura se presenta y sirve café. "Usted es humano. ¿Qué busca en un lugar como este?"
 T1158 · TG · Anteiku · Muestra el Kagune de Ceniza en las cuatro formas. Kaneki: "¿Te hicieron esto?" Yoshimura: "Nunca vi un kagune que no tuviera hambre."
+T1159 · TG · Anteiku · "¿Conocen la Operación del Búho?" Yoshimura: "No, pero sí al Búho (SSS). ¿Cuál es su misión?"

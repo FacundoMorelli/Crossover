@@ -3,84 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1156)
-me teletransporto afuera de anteiku, ahi esta kaneki, entra tu primero
-
-## RESPUESTA 1 (T1156)
-
-> me teletransporto afuera de Anteiku
-
-Cierras los ojos y buscas.
-
-Lejos, hacia el oeste, la ciudad es un mar de presencias: millones, apretadas, dormidas o despiertas. Buscas el distrito del que hablaron, el río, la estación. Y entre todas, unas pocas que tienen ese segundo corazón enroscado en la espalda. Están juntas, en un edificio chico, a unas cuadras de una estación de tren. Una de ellas es muy vieja, muy tranquila, y debajo de esa calma hay algo enorme, dormido, como un búho con las alas plegadas.
-
-Ahí.
-
-Tocas al grandote, a los de las máscaras, a la chica, al de pelo violeta, a Kaneki.
-
-El viento del mar se apaga.
-
-Una calle angosta, de noche, con faroles amarillos. Edificios bajos de dos y tres pisos, persianas cerradas, un buzón rojo, una máquina expendedora que zumba y alumbra la vereda. Huele a lluvia vieja y a café tostado.
-
-Enfrente, en una esquina, hay una cafetería chica, de madera oscura, con un toldo y una ventana grande con cortinas. Un letrero de madera colgado sobre la puerta, con letras pintadas a mano: ANTEIKU. El cartel de la puerta dice CERRADO. Pero adentro, detrás de las cortinas, hay una luz encendida.
-
-Kaneki se queda mirando la puerta. No se mueve.
-
-> —Ahí está, Kaneki. Entra tú primero.
-
-Kaneki traga saliva. Se mira la ropa negra destrozada, las manos con sangre seca. Se pasa los dedos por el pelo blanco, como si quisiera ordenarlo, y no sirve de nada.
-
-Hinami le suelta la manga despacio.
-
-—Ve, hermano —le susurra.
-
-Kaneki cruza la calle. Pone la mano en la manija. Duda un segundo. Empuja.
-
-Suena una campanita.
-
-La puerta se cierra detrás de él.
-
-Pasa un minuto. Otro. Desde la vereda no se escucha nada. Solo el zumbido de la máquina expendedora. El grandote se sienta en el cordón, apretándose las costillas. Los de las máscaras miran hacia todos lados. El de pelo violeta se acomoda el cuello de lo que queda de su chaqueta frente al reflejo de una vidriera. Kase bosteza.
-
-Y entonces la puerta se vuelve a abrir.
-
-No es Kaneki.
-
-Es un hombre mayor, de unos sesenta o setenta años, delgado, de pelo blanco peinado con cuidado, con un chaleco negro, camisa blanca, moño y un delantal de barista. Tiene la cara amable, llena de arrugas suaves, y los ojos entrecerrados detrás de unos lentes. Sostiene la puerta abierta con una mano.
-
-Mira a Banjou en el cordón. A los de las máscaras. A Hinami, que da un paso hacia él con los ojos llenos de lágrimas. Al de pelo violeta, con una ceja levemente levantada.
-
-Después te mira a ti.
-
-Te mira mucho rato. Tranquilo. Sin sonreír ni dejar de sonreír. Detrás de esa calma, la presencia enorme que sentiste desde lejos se despereza apenas, como un ojo que se abre en la oscuridad y te mira de arriba abajo.
-
-Y vuelve a cerrarse.
-
-—Buenas noches —dice. Tiene la voz suave, grave, sin prisa—. Kaneki me dice que fue usted quien los trajo. A todos. —Se hace a un lado y deja la puerta abierta—. Pasen, por favor. Les voy a preparar café.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1156 · TOKYO GHOUL · NOCHE · 00:02     ║
-║ Distrito 20 · frente a Anteiku               ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1157)
+## COMANDO 1 (T1157)
 entro
 
-## RESPUESTA 2 (T1157)
+## RESPUESTA 1 (T1157)
 
 > entro
 
@@ -137,10 +63,10 @@ Yoshimura empuja la cuarta taza unos centímetros hacia ti.
 
 ---
 
-## COMANDO 3 (T1158)
+## COMANDO 2 (T1158)
 les miestro mi kagune
 
-## RESPUESTA 3 (T1158)
+## RESPUESTA 2 (T1158)
 
 > les muestro mi kagune
 
@@ -203,4 +129,58 @@ Pasa un segundo largo. El reloj de pared hace tic tac.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 00:05, Anteiku. Facundo mostró su Kagune de Ceniza (cuatro formas). Kaneki pregunta si le hicieron lo mismo; Yoshimura, sin lentes: nunca vio un kagune sin hambre. Facundo puede responder.
+## COMANDO 3 (T1159)
+no soy de aqui, soy un viajero, vine con una mision, conocen el nombre operacion del buho?
+
+## RESPUESTA 3 (T1159)
+
+> —No soy de aquí. Soy un viajero. Vine con una misión. ¿Conocen el nombre "Operación del Búho"?
+
+Silencio.
+
+El reloj de pared hace tic tac. Una vez. Dos.
+
+Kaneki levanta la vista de golpe. Hinami se le aprieta contra la espalda. Desde la puerta del fondo, el grandote baja despacio el paquete de papel marrón.
+
+Pero el que cambia es Yoshimura.
+
+No mucho. Casi nada. Las manos, que estaban apoyadas sobre la barra con el repasador blanco, se quedan quietas. Del todo. Como si de golpe hubieran dejado de ser las manos de un viejo barista. Y adentro, en lo hondo de esa presencia enorme que lleva plegada bajo la calma, algo abre los ojos y se queda despierto.
+
+—El Búho —repite, muy despacio.
+
+Dobla el repasador en cuatro. Lo deja junto a la taza.
+
+—No. Ese nombre no lo conozco. "Operación del Búho" —dice—. Pero conozco al Búho. Todos los que viven de este lado de la ciudad lo conocen. —Hace una pausa—. Es el nombre que la CCG le da a un ghoul. Uno de rango SSS. El más buscado de este país.
+
+Kaneki traga saliva.
+
+—En el Distrito 11 —murmura—. Cuando atacaron Aogiri. Había un... Apareció algo. Envuelto en kagune de pies a cabeza. Un búho. —Mira a Yoshimura de reojo, y algo en su cara cambia, como si hubiera empezado a pensar algo que no se anima a terminar—. Y la CCG estaba enloquecida buscándolo.
+
+Yoshimura no lo mira. Te mira a ti.
+
+—Usted dice que vino con una misión —dice—. Desde algún lugar que no es este. Y que la palabra que trae es "Operación del Búho". —Se le endurece apenas la voz, sin dejar de ser suave—. La CCG no les pone nombre de operación a los ghouls que quiere investigar, señor. Les pone nombre a los lugares que piensa destruir.
+
+Se apoya en la barra con las dos manos. Se inclina un poco hacia ti.
+
+—Así que le voy a preguntar con todo respeto. ¿Cuál es su misión? ¿Y qué tiene que ver con este lugar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1159 · TOKYO GHOUL · NOCHE · 00:06     ║
+║ Distrito 20 · Anteiku                        ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la barra                            ║
+║ Kagune de Ceniza: fuera (bikaku)             ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 00:06, Anteiku. Yoshimura, en guardia, pregunta cuál es la misión de Facundo y qué tiene que ver con Anteiku. Kaneki sospecha algo de Yoshimura y el Búho. Facundo puede responder.
