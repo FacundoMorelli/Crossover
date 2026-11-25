@@ -119,7 +119,7 @@ Después Tsunade se ríe. Una carcajada corta, fuerte, de las que salen sin perm
 
 Se ajusta el abrigo sobre los hombros y camina hacia la salida de la carpa. Al pasar a tu lado se detiene un momento, muy cerca, y baja la voz.
 
-—Aunque alguien que aparece de la nada en el bosque norte, sin banda y con eso en los bolsillos, supongo que no pelea como la señora de los dangos. —Te mira de reojo—. Cuando termine con lo de Danzō, me vas a mostrar qué tan bien peleas. Yo misma.
+—Aunque alguien que aparece de la nada en la carpa de la Hokage, sin banda y con eso en los bolsillos, supongo que no pelea como la señora de los dangos. —Te mira de reojo—. Cuando termine con lo de Danzō, me vas a mostrar qué tan bien peleas. Yo misma.
 
 Levanta la lona de la entrada. Afuera, los dos ANBU se ponen firmes de golpe al verla de pie, y uno de ellos casi deja caer la máscara.
 
