@@ -3,70 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1151)
-bueno es facil entonces, me acerco a shinohara y le doy una semilla del ermitaño y uso la tecnica de mahito
-
-## RESPUESTA 1 (T1151)
-
-> —Bueno, es fácil entonces.
-
-Te acercas al hombre de la armadura. Pisas el charco. Te arrodillas a su lado.
-
-—¡Oiga! —grita Amon—. ¡No lo toque! ¡Está...!
-
-Sacas una semilla del ermitaño. Le abres la boca con dos dedos, se la pones entre los dientes y le cierras la mandíbula. Mastica sola, por reflejo, una vez. Traga.
-
-Después le apoyas la palma abierta sobre el pecho, sobre las placas rotas de la armadura, y tocas lo que hay debajo. No la carne. Lo otro. La forma de lo que él es.
-
-Transfiguración Ociosa.
-
-El agujero del abdomen se cierra. No como una herida que cicatriza, sino como algo que se rehace desde adentro: el músculo vuelve a su lugar, las costillas se enderezan con un crujido seco, la piel se junta sobre todo eso y queda lisa, sin marca. La mordida del hombro se llena. La sangre deja de salir. El pecho, que apenas se movía, se levanta de golpe, lleno de aire, una vez, enorme.
-
-Y los ojos, que miraban el techo sin ver, parpadean.
-
-El hombre de la armadura tose. Se le arquea la espalda sobre los escombros. Tose otra vez, se lleva una mano al costado, al agujero que ya no está, y se toca la piel entera a través de la armadura rota.
-
-—...¿Qué...? —dice, con la voz pastosa.
-
-Amon tiene la maza a medio camino entre arriba y abajo. No se mueve. Tiene la boca abierta.
-
-Kaneki, a cuatro metros, contra la pared, se ha quedado inmóvil. Mira al hombre que estaba comiendo. Lo mira respirar. Los tentáculos se le aflojan los tres de golpe y caen al piso. Las placas del ciempiés empiezan a desprenderse de su cara, una por una, y se deshacen en polvo rojo antes de tocar el suelo.
-
-Se le doblan las rodillas. Se sienta contra la pared, despacio, con la espalda en el concreto.
-
-—Está vivo —susurra—. No lo maté.
-
-Se tapa la cara con las dos manos negras y empieza a llorar, bajito.
-
-El hombre de la armadura gira la cabeza en el piso. Te ve, arrodillado a su lado. Ve a Amon. Y después ve, contra la pared, al muchacho de pelo blanco con la boca manchada de su sangre.
-
-Se le tensa el cuerpo entero.
-
-—Amon —dice, sin apartar los ojos de Kaneki, y la mano derecha se le va sola al costado, buscando algo en el cinturón que ya no está—. ¿Cuánto tiempo estuve fuera? ¿Y quién demonios es este?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1151 · TOKYO GHOUL · NOCHE · 23:43     ║
-║ Mansión · laboratorio subterráneo            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1152)
+## COMANDO 1 (T1152)
 no es una buena forma de hablarle al que te salvo la vida
 
-## RESPUESTA 2 (T1152)
+## RESPUESTA 1 (T1152)
 
 > —No es una buena forma de hablarle al que te salvó la vida.
 
@@ -127,10 +67,10 @@ Después te mira a ti.
 
 ---
 
-## COMANDO 3 (T1153)
+## COMANDO 2 (T1153)
 no se preocupen yo me lo llevo, kaneki ken, no? dime a donde te llevo donde puedas estar seguro?
 
-## RESPUESTA 3 (T1153)
+## RESPUESTA 2 (T1153)
 
 > —No se preocupen, yo me lo llevo.
 
@@ -148,7 +88,7 @@ Kaneki te mira de cerca. Tiene la cara manchada de sangre seca y de lágrimas, y
 
 No espera la respuesta. Sacude la cabeza, como para despejarla, y de golpe se le abren los ojos.
 
-—Banjou. —Se agarra de tu manga con una mano negra—. Banjou-san. Y los demás. Están aquí abajo. Vinieron conmigo. Hinami, Tsukiyama-san, los tres de las máscaras... —Mira hacia el pasillo, desesperado—. No me puedo ir sin ellos. No me puedo ir solo.
+—Banjou. —Se agarra de tu manga con una mano negra—. Banjou. Y los demás. Están aquí abajo. Vinieron conmigo. Hinami, Tsukiyama, los tres de las máscaras... —Mira hacia el pasillo, desesperado—. No me puedo ir sin ellos. No me puedo ir solo.
 
 Se le corta la voz.
 
@@ -185,4 +125,90 @@ La sonrisa no se le mueve ni un milímetro.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:44, laboratorio. Kaneki no se va sin su grupo (Banjou, Hinami, Tsukiyama, tres máscaras). Juuzou en la entrada: "¿Lo puedo cortar?". Facundo puede actuar.
+## COMANDO 3 (T1154)
+quedate ahi chico, bueno kaneki entonces vamos a buscarlos, lo toco y me teletransporto a donde estan cada uno y los llevo todos a anteiku
+
+## RESPUESTA 3 (T1154)
+
+> —Quédate ahí, chico.
+
+El chico de las costuras inclina la cabeza para el otro lado. Abre la boca para contestar.
+
+—Juuzou —dice Shinohara. Firme, sin gritar—. Quieto.
+
+El chico hace un puchero. Pero se queda donde está, con la guadaña apoyada en el piso y el brazo cortado colgando de los dedos.
+
+> —Bueno, Kaneki, entonces vamos a buscarlos.
+
+Le pones la mano en el hombro.
+
+Y desaparecen los dos.
+
+Un pasillo, dos pisos más arriba, lleno de humo. Un hombre enorme, de pelo corto y castaño, con la camisa empapada de sangre del lado izquierdo y la mano apretada contra las costillas, está apoyado contra la pared. Tres hombres con máscaras antigás lo sostienen como pueden. Uno de ellos tiene una pierna arrastrando.
+
+Los cuatro ven aparecer a Kaneki frente a ellos y se quedan duros.
+
+—¿Kaneki? —El grandote abre mucho los ojos—. ¿De dónde...?
+
+Kaneki le agarra la mano, la que no tiene en las costillas. Tú los tocas a los cuatro. Al de la pierna, al hombro.
+
+Otro lugar. Un depósito de la mansión, con estanterías volcadas y olor a pólvora. En el medio, un hombre alto de pelo violeta, con la cara cortada en diagonal, un traje elegante destrozado y un kagune como una espada en espiral saliéndole del brazo, retrocede ante una mujer de abrigo blanco que le apunta con un maletín abierto. Detrás de él, un tipo de traje blanco con el pelo rubio peinado hacia atrás grita algo sobre "hermano mayor".
+
+El de pelo violeta ve a Kaneki y se le ilumina la cara.
+
+—¡Mi querido Kaneki!
+
+Lo tocas. Solo a él.
+
+Afuera. Bosque, noche, viento con olor a mar. Al pie de un árbol, a unos cientos de metros de la mansión, escondida entre los helechos, hay una chica de pelo castaño oscuro, chiquita, con un abrigo y una bufanda, abrazándose las rodillas. Levanta la cabeza de golpe al escucharlos llegar. Tiene los ojos muy grandes.
+
+—¡Hermano!
+
+Corre hacia Kaneki y se le pega al pecho.
+
+La tocas.
+
+Y después, todos juntos, siete personas, un gato, la sangre y el humo pegados a la ropa, desaparecen del bosque.
+
+Apareces con todos en el borde del acantilado, lejos de la mansión, entre los árboles, donde llegaste al principio. Las luces de las camionetas de la CCG se ven chiquitas, a trescientos metros. Nadie los sigue.
+
+El grandote se desliza por un tronco hasta quedar sentado, jadeando. Los de las máscaras se dejan caer a su alrededor. El de pelo violeta se arregla lo que queda de la chaqueta y te mira de arriba abajo con muchísimo interés. La chica no suelta a Kaneki.
+
+Kaneki se da vuelta hacia ti, despacio.
+
+—Gracias —dice—. Están todos. Están todos vivos.
+
+[Anteiku: no conoces el lugar ni a nadie de ahí. Para teletransportarte necesitas haberlo visto o sentir a alguien que esté ahí.]
+
+Kaneki se queda mirándote. Después mira la mansión a lo lejos, las luces de la CCG, y otra vez a ti.
+
+—No sé quién eres —dice en voz baja—. Ni cómo haces esto. Ni por qué curaste a ese investigador. —Se pasa la manga por la boca, y la manga queda roja—. Pero nos sacaste a todos.
+
+La chica levanta la cara de su pecho y te mira también. El grandote, desde el tronco, jadea:
+
+—Kaneki... ¿quién es este tipo?
+
+Kaneki no le contesta. Sigue mirándote a ti.
+
+—¿Y ahora adónde vamos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1154 · TOKYO GHOUL · NOCHE · 23:46     ║
+║ Acantilado, bosque frente a la mansión       ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: Llevarlos a un lugar seguro        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:46, acantilado. El grupo de Kaneki a salvo con Facundo. Facundo no conoce Anteiku (necesita verlo o sentir a alguien de ahí). Kaneki pregunta adónde van. Facundo puede responder.

@@ -15,3 +15,5 @@
 - Shinohara · T1152 · por Amon: Facundo lo curó con la mano después de darle algo de comer.
 - Facundo · T1153 · por Kaneki: en la mansión están también Banjou, Hinami, Tsukiyama y "los tres de las máscaras", que vinieron con él.
 - Shinohara, Amon · T1153 · Facundo dijo que se llevará a Kaneki. Kaneki nombró a Banjou, Hinami y Tsukiyama delante de ellos.
+- Banjou, tres de las máscaras, Tsukiyama, Hinami · T1154 · vieron a Facundo aparecer con Kaneki y teletransportarlos al acantilado.
+- Investigadora de abrigo blanco (Akira), hombre de traje blanco (Naki) · T1154 · vieron a Facundo y Kaneki aparecer y llevarse a Tsukiyama.

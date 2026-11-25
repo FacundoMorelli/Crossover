@@ -1,0 +1,15 @@
+NOMBRE: Los tres de las máscaras antigás
+AFILIACIÓN: Grupo de Kaneki (hombres del grandote)
+RANGO: —
+PODER VISTO POR FACUNDO: —
+EDAD: —
+FÍSICO: Tres hombres con máscaras antigás; uno arrastra una pierna.
+PERSONALIDAD: —
+RELACIÓN: Primer encuentro T1154 (Facundo los saca de la mansión).
+ENCUENTROS:
+- T1154 · Sostenían al grandote en el pasillo. Facundo los teletransporta al acantilado.
+DIÁLOGOS CLAVE:
+
+QUÉ SABE DE FACUNDO: Nada. Apareció con Kaneki y los sacó de la mansión.
+QUÉ PODERES VIO: Teletransporte.
+ESTADO: En el acantilado, a salvo (T1154).
