@@ -33,3 +33,5 @@
 - 43 heridos y 2 médicos de la carpa del este · T1318 · se curaron con "unas semillas" que trajo Yamato. No saben de quién son (Yamato no lo dijo). Vieron a Facundo en la entrada con Yamato.
 - Yamato · T1319 · por Facundo: Tsunade lo mandó a ayudarlo a despejar.
 - Chūnin del terreno sur · T1319 · ven al forastero de pelo blanco y azul con Yamato.
+## QUIÉN VIO QUÉ PODERES (cont.)
+- Yamato + 6 chūnin del terreno sur · T1320 · vieron la Hana Hana no Mi: cientos de brazos con tatuajes de dragón brotando de cualquier superficie, con pétalos. Lo interpretan como técnica secreta de un clan desconocido. Nadie sintió chakra (Velo). Poder de otro mundo: llama la atención; Yamato sospecha (clan desconocido).

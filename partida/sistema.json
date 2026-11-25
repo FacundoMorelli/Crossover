@@ -1,8 +1,8 @@
 {
-  "turno": 1319,
+  "turno": 1320,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 08:47",
+  "hora": "Día 1, 08:58",
   "edad": 18,
   "nivel": 29,
   "exp": 295080,
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

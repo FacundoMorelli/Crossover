@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1317)
-
-ehh se pelear
-
-## RESPUESTA 1 (T1317)
-
-> ehh se pelear
-
-> —Eh... sé pelear.
-
-Tsunade se te queda mirando.
-
-Shizune, con el baúl todavía abierto, se queda mirando también. Hasta el cerdito.
-
-Después Tsunade se ríe. Una carcajada corta, fuerte, de las que salen sin permiso.
-
-—¡Sabe pelear! —Se da una palmada en la frente—. En una aldea ninja. Muchacho, aquí sabe pelear hasta la señora que vende dangos. —Niega con la cabeza, todavía con la risa en la cara—. Lo que no sabe hacer nadie es levantar una casa de la nada. Salvo uno.
-
-Se ajusta el abrigo sobre los hombros y camina hacia la salida de la carpa. Al pasar a tu lado se detiene un momento, muy cerca, y baja la voz.
-
-—Aunque alguien que aparece de la nada en la carpa de la Hokage, sin banda y con eso en los bolsillos, supongo que no pelea como la señora de los dangos. —Te mira de reojo—. Cuando termine con lo de Danzō, me vas a mostrar qué tan bien peleas. Yo misma.
-
-Levanta la lona de la entrada. Afuera, los dos ANBU se ponen firmes de golpe al verla de pie, y uno de ellos casi deja caer la máscara.
-
-—Mientras tanto, los brazos te sirven. —Señala con el mentón hacia el borde del cráter, donde se ve, chiquita a lo lejos, la casa nueva de madera—. Ve con Yamato. Él levanta las casas, pero alguien tiene que limpiarle el terreno de escombros antes. Que te diga qué hacer.
-
-Se da vuelta hacia Kakashi.
-
-—Tú, conmigo. Shizune, también.
-
-Y sale. Desde la loma, abajo en el campamento, se oye a alguien gritar algo, y después otro, y después muchos, una ola de voces que sube hasta la carpa:
-
-—¡La Hokage! ¡La Hokage despertó!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1317 · NARUTO · DÍA 1 · 08:30          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Ayudar a Yamato con los escombros  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1318)
+## COMANDO 1 (T1318)
 
 voy con yamato
 
-## RESPUESTA 2 (T1318)
+## RESPUESTA 1 (T1318)
 
 > voy con yamato
 
@@ -105,11 +54,11 @@ Atrás, en la carpa, alguien tira un catre al levantarse y se oyen risas.
 
 ---
 
-## COMANDO 3 (T1319)
+## COMANDO 2 (T1319)
 
 me dijo que venga a ayudarte a despejar la zona para hacer casas
 
-## RESPUESTA 3 (T1319)
+## RESPUESTA 2 (T1319)
 
 > me dijo que venga a ayudarte a despejar la zona para hacer casas
 
@@ -152,4 +101,59 @@ Se arremanga el chaleco.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:47, borde sur del cráter, terreno de media manzana lleno de escombros (para 4 casas de familias con chicos). El Mokuton necesita tierra limpia. Chūnin con palas llevan dos días y van por la cuarta parte. Escombros al pozo de la bandera roja; apartar objetos personales. Yamato: "¿Necesitas que te explique algo más, o empiezas?" Facundo puede actuar.
+## COMANDO 3 (T1320)
+
+uso la hana hana no mi para hacer todo el trabajo
+
+## RESPUESTA 3 (T1320)
+
+> uso la hana hana no mi para hacer todo el trabajo
+
+Cruzas los brazos sobre el pecho.
+
+Del suelo del terreno, de entre las tejas, de los costados de las vigas, de la pared de la ventana con la cortina, empiezan a brotar brazos. Primero diez. Después cien. Salen como flores que se abren, con un remolino de pétalos que se deshace en el aire, y son todos iguales: brazos de hombre, con tatuajes de dragón que suben desde la muñeca.
+
+Un chūnin suelta la pala. Se le cae sobre el pie y ni se da cuenta.
+
+Los brazos se ponen a trabajar.
+
+Forman cadenas, cientos de manos pasándose las cosas de una a otra como baldes en un incendio, desde cada rincón del terreno hasta el pozo de la bandera roja. Las tejas viajan de mano en mano en filas perfectas. Las vigas grandes las levantan veinte brazos a la vez, desde abajo, y avanzan como una procesión. Los ladrillos salen de a cuatro, de a ocho, sin que se rompa uno.
+
+Otras manos, más chicas, escarban entre los escombros y apartan: una foto de una pareja joven con un bebé, un cuaderno con dibujos de niño, una caja de madera con la tapa rota, la muñeca de trapo que había dejado Yamato sobre la piedra. Las ponen en fila, en un rincón limpio, sobre una tabla, una al lado de la otra.
+
+El letrero de la tienda de ramen pasa por encima de la cabeza de los chūnin, de mano en mano, y termina apoyado con cuidado contra un poste, no en el pozo.
+
+Diez minutos después, el terreno está limpio. Tierra marrón y húmeda, pareja, sin una piedra. Hasta la barren: un grupo de manos pasa las palmas por el suelo, de punta a punta, y lo deja liso.
+
+Los brazos se deshacen en pétalos, todos a la vez, y el viento se los lleva hacia el cráter.
+
+Nadie dice nada.
+
+Los chūnin están quietos con las palas en la mano. Uno de ellos tiene la boca abierta. Otro se frota los ojos con el puño sucio de tierra.
+
+Yamato se acerca al rincón de los objetos. Se agacha frente a la fila: la foto, el cuaderno, la caja, la muñeca. Los mira un rato. Después se levanta y se da vuelta hacia ti.
+
+—Brazos —dice—. Cientos. Que salen de cualquier superficie. —Mira el lugar de la pared donde brotaron los primeros—. No es un clon. No es invocación. Y ese chakra... tampoco lo sentí.
+
+Se rasca la nuca, igual que Kakashi.
+
+—En los archivos de la aldea había registros de clanes con técnicas secretas que ya nadie conoce. Nunca leí nada parecido a esto. —Te mira—. ¿De qué clan eres, Facundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1320 · NARUTO · DÍA 1 · 08:58          ║
+║ Konoha · borde sur del cráter · terreno      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Ayudar a Yamato con los escombros  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:58, terreno del borde sur. Con la Hana Hana no Mi (cientos de brazos con tatuajes de dragón, pétalos), Facundo limpió el terreno entero en 10 minutos y apartó los objetos personales (foto, cuaderno, caja, muñeca, el letrero del ramen). Los chūnin, mudos. Yamato no sintió chakra; no es clon ni invocación. "¿De qué clan eres, Facundo?" Facundo tiene que contestar.
