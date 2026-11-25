@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1283)
-la dejo inconsciente, bueno donde esta el capitan yami entonces?
-
-## RESPUESTA 1 (T1283)
-
-> la dejo inconsciente
-
-Sally todavía está anotando algo en la libreta, con la lengua afuera de concentración, cuando le das un golpecito en la frente con un dedo.
-
-—¿Eh...?
-
-Se queda bizca un segundo. Se le cae el lápiz. Se le cae la libreta. Y se desploma hacia atrás sobre el pasto, con los brazos abiertos y una sonrisa tonta todavía en la cara. La tabla voladora, sin nadie que la maneje, da dos vueltas en el aire, zumbando, y se estrella contra un árbol.
-
-[Rival vencida: Sally. +5 Fragmentos.]
-
-[+50 EXP.]
-
-La levantas de la bata como a un gato y la llevas al patio. La dejas en el pasto, en fila, al lado de los otros dos. Tres del Ojo, dormidos uno al lado del otro.
-
-Gauche los mira. Te mira.
-
-> —Bueno, ¿dónde está el capitán Yami, entonces?
-
-Gauche se cruza de brazos. Le sigue corriendo sangre por la frente, pero ya no se acuerda.
-
-—En la capital —dice—. Se fue esta mañana temprano, antes de que salieran los mocosos con los Caballeros Reales. Dijo que iba a la base de Amanecer Dorado. —Frunce el ceño—. Que tenía que "esperar a alguien".
-
-—...estaba raro —murmura Gordon, con la piedra mágica de Asta todavía en las manos—. Más callado... que de costumbre. Fumó tres cigarros antes del desayuno.
-
-Grey, otra vez en su forma real, asiente rápido desde atrás de Gordon, sin decir nada.
-
-Gauche te mira de reojo.
-
-—¿Para qué lo buscas? —Entrecierra el ojo sano—. Si vas a la capital, dile que le destruyeron la base. Y que no fue culpa mía. —Se señala la frente—. Y que me debe un espejo nuevo.
-
-Señala a los tres del Ojo con la barbilla.
-
-—¿Y con estos qué hacemos? ¿Los atamos? ¿Los tiramos al lago? —Hace una pausa—. Yo voto por el lago.
-
-En el pasto, Sally murmura algo dormida y se ríe sola.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1283 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · patio · 12:15     ║
-║ NIVEL 29 · EXP 290.980/320.000               ║
-║ FRAGMENTOS 110.107 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1284)
+## COMANDO 1 (T1284)
 atenlos, me teletransporto con yami
 
-## RESPUESTA 2 (T1284)
+## RESPUESTA 1 (T1284)
 
 > —Átenlos.
 
@@ -119,10 +61,10 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1285)
+## COMANDO 2 (T1285)
 que esta pasando en realidad?
 
-## RESPUESTA 3 (T1285)
+## RESPUESTA 2 (T1285)
 
 > —¿Qué está pasando en realidad?
 
@@ -173,7 +115,63 @@ Te mira otra vez, de reojo, con la mirada pesada.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1286)
+creo que el oculta algo y tambien el rey mago
+
+## RESPUESTA 3 (T1286)
+
+> —Creo que él oculta algo. Y también el Rey Mago.
+
+Yami se queda con el cigarro a medio camino de la boca.
+
+—¿Julius? —Lo dice despacio, como quien prueba si una tabla aguanta el peso—. ¿El viejo?
+
+Baja el cigarro. Se queda mirándote un rato largo. No hay enojo en la cara. Hay otra cosa, más incómoda: alguien al que le pusieron en palabras algo que ya le daba vueltas y no quería mirar.
+
+—Julius fue el que trajo a William a los Caballeros —dice al final—. Hace años. Un mocoso con la cara quemada, que nadie quería. Lo protegió de todos. Lo hizo capitán antes que a nadie de su edad. —Aprieta la mandíbula—. Si alguien sabe qué hay debajo de esa máscara, es él.
+
+Tira el cigarro a medio fumar por encima de la balaustrada. Lo mira caer hasta el patio.
+
+—Y hoy, justo hoy, Julius no fue con los Caballeros Reales. Se quedó en la capital. Solo.
+
+Cierra los ojos un momento. Respira hondo, despacio. Lo sientes: está extendiendo el Ki, como una red, hacia toda la ciudad.
+
+Tú también lo sientes. Más rápido que él.
+
+Al oeste de la capital, en lo alto de la muralla exterior, lejos de las casas, hay dos presencias juntas.
+
+Una la conoces: Julius. Brillante, ordenada, enorme, como un reloj de cristal que hace tic tac por dentro.
+
+La otra está a su lado. Tranquila, amable, conocida y desconocida a la vez. Y mientras la sientes, cambia. Despacio. Como una moneda que se da vuelta sola sobre una mesa. Por debajo de lo amable aparece algo viejo, frío y enorme, que no se parece a nada de este reino. Algo que lleva mucho tiempo esperando.
+
+Yami abre los ojos de golpe.
+
+Se le fue todo el color de la cara.
+
+—William no va a venir aquí —dice, con la voz baja, ronca—. Está en la muralla. Con Julius.
+
+Agarra la katana con las dos manos.
+
+—Y lo que tiene adentro acaba de despertarse.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1286 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · base de Amanecer Dorado · terraza  ║
+║ NIVEL 29 · EXP 290.980/320.000 · 12:20       ║
+║ FRAGMENTOS 110.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:18, terraza de Amanecer Dorado. Yami explicó sus sospechas sobre William Vangeance y le pregunta a Facundo si sabe algo. Facundo puede responder.
+ESTADO AL CIERRE: Black Clover, 12:20, terraza de Amanecer Dorado. Facundo y Yami sienten que William, en la muralla oeste con Julius, se está transformando en algo enorme. Yami agarra la katana. Facundo puede actuar.

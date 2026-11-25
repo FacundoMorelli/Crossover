@@ -7,3 +7,4 @@ ENCUENTROS:
 - T473 · recibe el reporte; mira a Facundo con mucha curiosidad: no puede leer su maná.
 QUÉ SABE DE FACUNDO: el reporte de Yami (barrera rota, Vetto derribado, nuevo Toro Negro).
 ESTADO: activo
+- T1286 · En la muralla oeste de la capital con William Vangeance, que empieza a transformarse (Licht). (Facundo lo siente con el ki.)

@@ -44,3 +44,5 @@
 - Facundo · T1284 · por Yami: Asta preguntó por él todos los días durante tres semanas y después miraba la explanada cada mañana.
 - Facundo · T1285 · por Yami: Langris (vicecapitán de Amanecer Dorado, hermano de Finral) mostró en el examen un maná como el de Vetto; Marx sospecha de infiltrados inconscientes; hoy los Caballeros Reales atacan la base del Ojo en las Rocas Gravito (Asta, Noelle, Luck, Zora, Mereoleona); Yami sospecha que William Vangeance es el líder del Ojo (cicatriz/máscara) y lo espera para preguntarle.
 - Yami · T1285 · recuerda que Facundo llegó al templo preguntando por Kiato y Kahono por nombre.
+- Yami · T1286 · por Facundo: William oculta algo, y Julius también. Por su Ki: William está en la muralla con Julius y algo dentro de él despertó.
+- Facundo · T1286 · por Yami: Julius trajo a William a los Caballeros de chico y lo protegió. Por el ki: Julius y William en la muralla oeste; la presencia de William se transforma en algo viejo y enorme.
