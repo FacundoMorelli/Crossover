@@ -19,3 +19,4 @@
 
 ## LO QUE PASÓ
 - Diciembre 08:40 · Facundo y Kase llegan a una calle de Musutafu al pie de la colina de la U.A. Un villano asalta un banco a dos cuadras.
+- Diciembre 08:42 · (T1088) Facundo derriba al villano del banco. Llega Death Arms.

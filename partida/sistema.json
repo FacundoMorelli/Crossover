@@ -1,13 +1,13 @@
 {
-  "turno": 1087,
+  "turno": 1088,
   "mundo_actual": "bokunohero",
   "fecha_local": "Diciembre (2.º semestre, 1.er año de la clase 1-A)",
-  "hora": "08:40",
+  "hora": "08:42",
   "edad": 18,
   "nivel": 28,
-  "exp": 263900,
+  "exp": 263930,
   "exp_siguiente_nivel": 280000,
-  "fragmentos": 108940,
+  "fragmentos": 108941,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1814,6 +1814,13 @@
       "turno": 1066,
       "fragmentos": 25,
       "exp": 750
+    },
+    {
+      "mundo": "bokunohero",
+      "quien": "villano del brazo de roca (asalto al Banco Musutafu Norte)",
+      "turno": 1088,
+      "fragmentos": 1,
+      "exp": 30
     }
   ],
   "viaje": {

@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1085)
-no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
-
-## RESPUESTA 1 (T1085)
-
-> no, prefiero seguir sin familia, soy de viajar, casi nunca me quedo mucho en un lugar
-
-> —No. Prefiero seguir sin Familia. Soy de viajar. Casi nunca me quedo mucho en un lugar.
-
-Loki se queda con la mano en el aire.
-
-Después la baja, despacio, y se deja caer otra vez en el sillón con un suspiro larguísimo, dramático, con el brazo sobre los ojos.
-
-—Verdad, verdad, verdad. —Se queja hacia el techo—. Ay, qué cruel eres, guapo. Rompiste el corazón de mamá Loki.
-
-Se destapa un ojo. Te mira. Sonríe.
-
-—Pero me gustas igual.
-
-Se sirve otro vaso. Lo levanta hacia ti.
-
-—Por los viajeros que no se quedan.
-
-Riveria suspira junto a la chimenea, con una mano en la frente. Pero algo se le aflojó en la cara.
-
-Finn no levanta ningún vaso. Se queda mirándote un momento largo, en silencio, con las manos sobre las rodillas. El pulgar ya no le late.
-
-—Entonces voy a ser directo —dice al fin—. No te voy a pedir que te disculpes por Bete. Él empezó, estoy seguro, y a lo mejor le hacía falta. Tampoco te voy a pedir que me digas cómo hiciste lo que hiciste. —Una pausa—. La Familia Loki va a decirle al Gremio que los monstruos de Dédalo desaparecieron de la superficie. Que no hay más amenaza. Que la búsqueda terminó. Y que el humano del gato era un aventurero de paso que ya se fue de la ciudad. —Te mira—. Eso último va a ser verdad cuando te vayas, ¿no?
-
-Se inclina un poco hacia adelante.
-
-—Pero quiero saber una cosa, para poder dormir tranquilo. —La voz le baja un grado—. Si algún día esos monstruos vuelven a subir. Si atacan a alguien en esta ciudad. Si alguien muere.
-
-Los ojos azules se le endurecen.
-
-—¿Vas a volver por ellos? ¿O por nosotros?
-
-Loki deja el vaso a medio camino. Riveria no se mueve. Kase, con la boca llena de queso, deja de masticar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1085 · DANMACHI · NOCHE 2 · 00:57      ║
-║ Orario · Mansión del Crepúsculo, sala        ║
-║ NIVEL 28 · EXP 263.900/280.000               ║
-║ FRAGMENTOS 108.940 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el sillón, con queso en la boca     ║
-║ MISIÓN DE MUNDO: CUMPLIDA                    ║
-║ OBJETIVO: La Familia Loki                    ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1086)
+## COMANDO 1 (T1086)
 por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
 
-## RESPUESTA 2 (T1086)
+## RESPUESTA 1 (T1086)
 
 > por ellos, si lastiman voy a estar, pero no lo van a hacer, ninguno de esos es malo y son inteligentes
 
@@ -115,10 +59,10 @@ Agarra la botella verde y se sirve el último resto.
 
 ---
 
-## COMANDO 3 (T1087)
+## COMANDO 2 (T1087)
 le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
 
-## RESPUESTA 3 (T1087)
+## RESPUESTA 2 (T1087)
 
 > le doy la mano, nos vemos en otro momento, me teletransporto y me voy a un nuevo mundo
 
@@ -208,4 +152,71 @@ A dos cuadras, colina abajo, suena una alarma. Un estruendo de vidrio. Gente que
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 08:40, calle de Musutafu al pie de la U.A. Un villano con brazo de piedra asalta un banco a dos cuadras; la gente huye. Facundo puede actuar.
+## COMANDO 3 (T1088)
+me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
+
+## RESPUESTA 3 (T1088)
+
+> me teletransporto al banco y lo dejo inconsciente de un golpe, perdon pero donde estoy?
+
+Desapareces de la vereda.
+
+Apareces adentro del banco.
+
+Vidrios rotos por todo el piso. Una alarma que chilla sin parar. Cinco empleados tirados detrás del mostrador con las manos en la cabeza, una señora mayor abrazada a su cartera contra la pared, un guardia de seguridad desmayado al lado de la puerta con la gorra a un metro de la cabeza.
+
+Y en el medio, un hombre enorme, de pasamontañas, con el brazo derecho convertido en una masa de roca gris del tamaño de un barril, levantándolo para reventar la puerta de la bóveda.
+
+Ni siquiera te ve.
+
+Le das un golpe en la nuca. Uno, seco, con el canto de la mano.
+
+La roca del brazo se le deshace en grava, como si fuera arena seca, y cae al piso en una lluvia de piedritas. Él cae detrás, de cara, entero, sobre los vidrios. No se mueve.
+
+[Rival vencido: villano de Musutafu (Don: brazo de roca). +30 EXP · +1 Fragmento.]
+
+La alarma sigue chillando.
+
+Detrás del mostrador, una empleada joven, de uniforme celeste y pelo atado, levanta la cabeza despacio. Te mira. Mira al villano en el piso. Te mira otra vez. A Kase.
+
+> —Perdón, pero... ¿dónde estoy?
+
+Ella parpadea.
+
+—¿Eh...? En... en el Banco Musutafu Norte. —Tiene la voz finita, temblorosa—. Sucursal de la colina. —Traga saliva—. Ciudad de Musutafu. Prefectura de... ¿estás bien? ¿Te golpeaste la cabeza?
+
+Afuera, una sirena. Una camioneta que frena de golpe en la nieve.
+
+Un hombre entra por la puerta destrozada. Grande, musculoso, con un traje de héroe ajustado negro y amarillo, un casco con visor y unos brazos enormes, de bíceps del tamaño de cabezas. Mira el banco. Mira al villano tirado. Te mira a ti, parado al lado, con un gato en el hombro.
+
+—¡Death Arms, héroe profesional! —Se detiene en seco, con los puños en alto—. ¡Que nadie se...!
+
+Se calla. Mira al villano otra vez. La grava en el piso.
+
+—¿Tú lo derribaste? —Baja los puños, despacio, sin dejar de mirarte—. Con un Don.
+
+La empleada asiente detrás del mostrador, rápido, como si eso ayudara.
+
+Death Arms frunce el ceño detrás del visor.
+
+—Muchacho, ¿tienes licencia de héroe? —Da un paso hacia ti—. Porque si no la tienes, lo que acabas de hacer es ilegal.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1088 · BOKU NO HERO · DIC. · 08:42     ║
+║ Musutafu · Banco Musutafu Norte              ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 08:42, Banco Musutafu Norte. Facundo derribó al villano. Death Arms llegó y le pregunta si tiene licencia de héroe (si no, es ilegal). Facundo puede responder.
