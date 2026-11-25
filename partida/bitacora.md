@@ -1143,3 +1143,4 @@ T1141 · BnHA · Comisión · "La segunda opción, que nadie muera." Aizawa no p
 T1142 · BnHA · Comisión · Recinto abierto: Aizawa saca a la Liga. Golpe a Gigantomachia y vuelta en un segundo. "Sedantes para elefantes."
 T1143 · BnHA · Comisión · Perdón por Tartarus. AFO: "Que no se apure en irse; me gustaría conocerlo." Guardia triplicada. "Avíseme antes."
 T1144 · BnHA · Simulación 4 días · Anuncio de la Comisión (operativo conjunto, sin Eclipse). Traslados a Tartarus. Día 3: cierre del operativo → MISIÓN DE MUNDO CUMPLIDA (+12.000 EXP, +400 F). Día 4: Izuku pide entrenar.
+T1145 · BnHA · U.A. · Entrenamiento con Izuku: regular la ira. El Látigo Negro se descontrola; una cinta va hacia Kase.

@@ -72,3 +72,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Facundo · T1143 · por la presidenta (transcripción de Tartarus): mensaje de AFO para "el muchacho del gato". Guardia triplicada.
 - Presidenta, director de Tartarus · T1143 · All Might les explicó que Facundo lo curó y le devolvió sus poderes. No se anunciará.
 - Izuku (y la 1-A en parte) · T1144 · Aizawa les contó "no todo" lo que hizo Facundo. Tsukauchi tomó declaración completa a Facundo.
+- Izuku · T1145 · Facundo conoce el nombre "Látigo Negro" y que se activa con la ira; Izuku supone que se lo contó All Might.

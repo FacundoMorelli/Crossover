@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1142)
-eh perdon lo deje asi por que no sabia si se podian despertar antes que lleguen, dejo salir a todos, ya pueden sacarlos, ya vengo, le pego a machia de nuevo y vuelvo en 1 segundo
-
-## RESPUESTA 1 (T1142)
-
-> —Eh, perdón, lo dejé así porque no sabía si se podían despertar antes de que llegaran. Ya dejo salir a todos, ya pueden sacarlos. Ya vengo. Le pego a Machia de nuevo y vuelvo en un segundo.
-
-A cientos de kilómetros, en la nieve, las seis caras del Recinto de Sakaime dejan de ser una frontera.
-
-[Recinto modificado: deja pasar a todos.]
-
-Desapareces.
-
-El valle. Frío, viento, el olor a tierra removida. El gigante está de espaldas sobre la nieve, con la avalancha chica todavía acumulada contra el costado. Los dedos de una mano, cada uno más grueso que un tronco, se abren y se cierran despacio. Un párpado enorme tiembla. Del pecho le sale un gruñido grave que hace vibrar el suelo.
-
-Le das un golpe en la frente.
-
-El gruñido se corta. Los dedos se aflojan y caen sobre la nieve. El párpado se queda quieto.
-
-Estás otra vez en la oficina del piso cuarenta y dos.
-
-La presidenta sigue con el teléfono en la mano. Te mira. No pasó ni un segundo entero; Kase ni siquiera alcanzó a acomodarse en tu hombro.
-
-Del teléfono sale la voz de Aizawa, ahora un poco más fuerte, con ruido de fondo de gente que se mueve:
-
-—...ya pasan. Ya los estamos sacando. Shigaraki primero. —Una pausa—. Y el gigante... —Otra pausa, más larga—. ¿Ya volvió a dormirse? Hace un segundo estaba gruñendo. ¿Fue él?
-
-La presidenta no le contesta a Aizawa. Te mira a ti.
-
-—Le voy a pedir un sedante para esa criatura —dice, muy despacio—. Uno para elefantes. Varios.
-
-Y por primera vez desde que llegaste, la comisura de la boca se le mueve apenas. Casi una sonrisa.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1142 · BOKU NO HERO · DIC. · 12:48     ║
-║ Comisión de Seguridad Pública · oficina de   ║
-║ la presidenta, piso 42                       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (abierto, deja pasar a todos)║
-║ Gigantomachia: inconsciente otra vez         ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1143)
+## COMANDO 1 (T1143)
 bueno ahora si, eh y perdon por el problema que cause yendo con all might a tartaro
 
-## RESPUESTA 2 (T1143)
+## RESPUESTA 1 (T1143)
 
 > —Bueno, ahora sí. Eh, y perdón por el problema que causé yendo con All Might a Tartarus.
 
@@ -110,10 +55,10 @@ Apaga la pantalla.
 
 ---
 
-## COMANDO 3 (T1144)
+## COMANDO 2 (T1144)
 simule unos dias
 
-## RESPUESTA 3 (T1144)
+## RESPUESTA 2 (T1144)
 
 > simulo unos días
 
@@ -183,4 +128,67 @@ Aprieta los puños. Las venas de los brazos se le iluminan apenas, verdes, y de 
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre +4 días, 07:02, campo de entrenamiento de la U.A. Misión de mundo cumplida (10 mundos). Villanos en Tartarus; AFO en silencio. Izuku pide a Facundo que lo ayude a entrenar el Látigo Negro (misión de copia ALTA). Facundo puede responder.
+## COMANDO 3 (T1145)
+si, te ayudo tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre one for all, Látigo negro se activa y potencia con la ira, por lo que descontrolarse emocionalmente hace que el don se salga de control.
+
+## RESPUESTA 3 (T1145)
+
+> —Sí, te ayudo. Tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre One For All. El Látigo Negro se activa y se potencia con la ira, así que descontrolarte emocionalmente hace que el don se salga de control.
+
+Izuku se queda con la boca abierta.
+
+—¿Látigo... Negro? —repite.
+
+Se mira la muñeca vendada. Después a ti. Después otra vez la muñeca.
+
+—Así se llama. Así lo llamó él. El de la... —Se interrumpe, se tapa la boca con la mano sana y mira alrededor, como si alguien pudiera estar escuchando—. ¿All Might se lo contó? Tiene que haber sido All Might.
+
+No espera la respuesta. Ya está murmurando, rápido, para sí mismo, con los ojos perdidos en el aire.
+
+—Con la ira... Claro. Claro. En el entrenamiento conjunto, cuando Monoma dijo lo de la 1-A, me enojé, y salió. Y cuando Shinso me tenía atrapado, me desesperé, y salió más. Y cuando quise frenarlo, era peor, porque me enojaba conmigo mismo por no poder frenarlo... —Se frota la frente—. Es un círculo. Me enojo, sale, me enojo porque sale, sale más...
+
+Respira hondo. Levanta la vista hacia ti, con la cara seria.
+
+—Entonces no es que tenga que hacerlo más fuerte. Tengo que estar más tranquilo.
+
+Se planta en el medio del campo. Separa los pies, como le enseñaron. Cierra los ojos.
+
+—Lo voy a intentar sacar ahora. A propósito. Despacio.
+
+Las venas verdes se le encienden en los brazos, suaves, parejas. Full Cowl, un cinco por ciento, quizá menos. Bien.
+
+Después, de la muñeca vendada empieza a salir el hilo negro. Uno. Fino, ondulante, como humo espeso. Se estira en el aire medio metro. Un metro. Izuku frunce el ceño, concentrado.
+
+Dos hilos. Tres.
+
+—Tranquilo —se dice a sí mismo, entre dientes—. Tranquilo, tranquilo...
+
+Cinco. Ocho. Ya no son hilos: son cintas negras, gruesas como cuerdas, que le salen de los dos brazos y empiezan a azotar el aire alrededor de él. Una golpea el pasto y levanta un terrón. Otra se enrosca sola en un poste de luz y lo dobla.
+
+Izuku abre los ojos. Están asustados.
+
+—¡No, no, no, espere...!
+
+Una de las cintas negras sale disparada, sola, hacia el banco donde está sentado Kase.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1145 · BOKU NO HERO · DIC. (+4 días)   ║
+║ · 07:05                                      ║
+║ U.A. · campo de entrenamiento, edificio de   ║
+║ profesores                                   ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el banco                            ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ MISIÓN DE COPIA: One For All (en curso)      ║
+║ OBJETIVO: Entrenar a Izuku                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre +4 días, 07:05, campo de entrenamiento de la U.A. Izuku intentó sacar el Látigo Negro a propósito y se descontroló; una cinta negra sale disparada hacia Kase en el banco. Facundo puede actuar.
