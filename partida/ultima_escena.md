@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1103)
-soy el nuevo consultor de seguridad de la ua
-
-## RESPUESTA 1 (T1103)
-
-> soy el nuevo consultor de seguridad de la ua
-
-> —Soy el nuevo consultor de seguridad de la U.A.
-
-El chico de pelo verde se queda con la boca abierta debajo de la mano de la chica de mejillas redondas. Ella le saca la mano despacio.
-
-—Consultor... de seguridad... —repite él, como si saboreara cada palabra—. ¿La U.A. contrató a alguien así? ¿Desde cuándo? ¿Después de lo del campamento? ¿Por los villanos? ¿El director Nezu lo...?
-
-—Desde hoy —dice Aizawa.
-
-Camina hasta ustedes sobre la nieve sucia, con las manos en los bolsillos, el pelo ya caído sobre los hombros. Se agacha junto al chico de pelo verde. Le toca la frente con dos dedos. Le mira los brazos, uno y después el otro. Sin una marca.
-
-Se queda un segundo así, quieto.
-
-—Midoriya. ¿Te duele algo?
-
-—N-no, profesor. Nada. —El chico se mira las manos, desconcertado—. Me siento... mejor que esta mañana.
-
-Aizawa se levanta. Te mira de reojo. Mira el bolsillo de tu sobretodo, de donde sacaste la semilla.
-
-—Gracias —dice. Corto. Seco. Sin adornos.
-
-Es todo.
-
-Detrás, llegan más alumnos por encima de las tuberías: el chico bajito de las bolitas violetas, la chica rubia con cuernos, un chico de cara redonda, uno que tiene la cabeza llena de globos de historieta. Y el rubio arrogante, que se frena en seco en lo alto de una tubería al verte, con la sonrisa a medio borrar.
-
-—¡¿Y ese quién es?! —grita—. ¡¿Un refuerzo de la 1-A?! ¡Eso es trampa! ¡Profesor Vlad, eso es trampa!
-
-—Cállate, Monoma —dice Vlad King, sin mirarlo.
-
-Aizawa se vuelve hacia los alumnos, alzando apenas la voz.
-
-—El combate cinco se suspende. Shinso, a la enfermería con Recovery Girl, ahora. Midoriya, tú también, aunque digas que no te duele nada. —Se gira hacia ti, más bajo—. Y tú, consultor. Vuelve a la sala de monitoreo conmigo. Nezu va a querer un informe de lo que pasó. —Una pausa—. Y yo también.
-
-El chico de pelo verde, todavía flotando en brazos de la chica de mejillas redondas, te mira con los ojos brillantes, sin poder contenerse.
-
-—¡Señor Morelli! —grita, mientras Uraraka lo arrastra hacia la salida del campo—. ¡Después! ¡¿Puedo hablar con usted después?! ¡Tengo que preguntarle tantas cosas...!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1103 · BOKU NO HERO · DIC. · 11:18     ║
-║ U.A. · Campo Gamma                           ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.941 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Proteger a los alumnos             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1104)
+## COMANDO 1 (T1104)
 sí, después hablamos, voy con Aizawa a la sala
 
-## RESPUESTA 2 (T1104)
+## RESPUESTA 1 (T1104)
 
 > sí, después hablamos, voy con Aizawa a la sala
 
@@ -121,10 +60,10 @@ Junta las manos.
 
 ---
 
-## COMANDO 3 (T1105)
+## COMANDO 2 (T1105)
 es una medicina de los lugares a los que viajo
 
-## RESPUESTA 3 (T1105)
+## RESPUESTA 2 (T1105)
 
 > es una medicina de los lugares a los que viajo
 
@@ -174,4 +113,57 @@ Una pausa.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 11:31, sala de monitoreo. Aizawa acepta la medicina sin preguntar el origen. Nezu advierte que se acerca algo grande y pregunta cuántas semillas tiene. Facundo puede responder.
+## COMANDO 3 (T1106)
+tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
+
+## RESPUESTA 3 (T1106)
+
+> tengo muchas, pero, quieren esperar a que hagan algo? por que simplemente puedo ir y derrotarlos
+
+> —Tengo muchas. Pero, ¿quieren esperar a que hagan algo? Porque simplemente puedo ir y derrotarlos.
+
+La sala se queda en silencio.
+
+All Might levanta la cabeza de golpe. Aizawa deja de frotarse los ojos. En la pantalla, Nezu se queda quieto, con las patitas juntas delante del hocico.
+
+—"Ir y derrotarlos" —repite Aizawa, despacio—. Así como así.
+
+—Shota —murmura All Might.
+
+—No, déjame. —Aizawa se inclina hacia adelante en la silla—. Tiene sentido preguntarlo. —Te mira—. Hay dos problemas. Uno es la ley. Un consultor de seguridad sin licencia que va a buscar villanos por su cuenta y los derriba es exactamente lo mismo que lo del banco esta mañana. Vigilantismo. Y esta vez no sería un ladrón: sería la Liga. Con cámaras. Con muertos, a lo mejor.
+
+Levanta un segundo dedo.
+
+—El otro problema es más simple. —Se encoge de hombros—. No sabemos dónde están.
+
+Nezu habla desde la pantalla, en voz baja.
+
+—Desde Kamino, la Liga desapareció. Sin rastros. Sin movimientos de dinero, sin cámaras, sin testigos. Los mejores investigadores del país llevan cuatro meses buscándolos. —Se toca el hocico con una patita—. Lo único que sabemos es que están juntando gente. Y que su líder, Tomura Shigaraki, es el heredero del hombre que está en Tártaro. —Mira a All Might un segundo. All Might baja la vista—. Si fuéramos a buscarlos, señor Morelli, primero tendríamos que encontrarlos.
+
+Se queda callado. Te mira por la cámara, largo. Los ojitos negros brillan.
+
+—Aunque... —Se acomoda en el sillón, despacio—. Usted sintió al joven Midoriya desde esta sala. A cuatrocientos metros, a través de las paredes. Toshinori me contó que lo miró antes de que nadie más se diera cuenta de lo que iba a pasar. —Una pausa—. Y apareció en un banco, desde la calle, sin verlo.
+
+Inclina la cabeza, como un pájaro.
+
+—Señor Morelli. ¿Usted puede encontrar a la gente?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1106 · BOKU NO HERO · DIC. · 11:33     ║
+║ U.A. · sala de monitoreo del Campo Gamma     ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.941 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Proteger a los alumnos             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 11:33, sala de monitoreo. Facundo ofreció ir a derrotar a la Liga. Aizawa: problemas legales y nadie sabe dónde están. Nezu pregunta si Facundo puede encontrar a la gente. Facundo puede responder.

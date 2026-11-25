@@ -1104,3 +1104,4 @@ T1102 · BnHA · Campo Gamma · "Soy el consultor de seguridad." Semilla a Izuku
 T1103 · BnHA · Campo Gamma · "Soy el nuevo consultor de seguridad." Aizawa: "Desde hoy. Gracias." Combate 5 suspendido. Izuku: "¿Puedo hablar con usted después?"
 T1104 · BnHA · Sala de monitoreo · All Might: "Gracias. Ese chico es muy importante." Nezu: "Primer día y ya salvó a dos alumnos." Aizawa: "Esa semilla, ¿qué es?"
 T1105 · BnHA · Sala de monitoreo · "Medicina de los lugares a los que viajo." Aizawa: "Me importa que funciona." Nezu: algo grande viene. "¿Cuántas tiene?"
+T1106 · BnHA · Sala de monitoreo · "Tengo muchas. Puedo ir y derrotarlos." Aizawa: la ley y no saben dónde están. Nezu: "¿Usted puede encontrar a la gente?"

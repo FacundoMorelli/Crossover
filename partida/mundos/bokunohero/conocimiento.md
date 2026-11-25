@@ -35,3 +35,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Alumnos de 1-A y 1-B del quinto combate (Izuku, Uraraka, Shinso, Ashido, Mineta, Monoma, Tsunotori, Shoda, Fukidashi) · T1103 · Facundo es el nuevo consultor de seguridad de la U.A. "desde hoy" (Aizawa lo confirma).
 - Aizawa, All Might, Nezu (cámaras) · T1104 · vieron todo el incidente del Campo Gamma: Facundo sujetó el Látigo Negro con una mano y con algo parecido a gravedad que congelaba, y curó a Izuku con una semilla en un segundo.
 - Aizawa, All Might, Nezu · T1105 · la semilla es "una medicina de los lugares a los que viaja" (él lo dijo).
+- Aizawa, All Might, Nezu · T1106 · Facundo tiene muchas semillas; ofreció ir a derrotar a la Liga. Nezu sospecha que puede encontrar personas (lo vio mirar a Midoriya antes del incidente; llegó al banco sin verlo).
