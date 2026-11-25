@@ -27,3 +27,5 @@ QUÉ SABE DE FACUNDO (T1308): Facundo dice que llegó teletransportándose (no l
 - T1311 · Ve a Kakashi curarse con la semilla. "Senpai."
 - T1312 · Recibe la bolsa con 43 semillas para la carpa médica del este. Reverencia corta a Facundo; sale corriendo.
 RELACIÓN CON FACUNDO (T1312): de la desconfianza al agradecimiento contenido.
+- T1318 · Carpa médica del este: repartió las 43 semillas (graves curados; dos médicos también). Deduce que la Hokage despertó por una semilla de Facundo. Reverencia larga de cintura. "Gracias. Hace una hora casi te ato al suelo." "¿Qué haces aquí? Pensé que Tsunade-sama no te iba a soltar en todo el día."
+RELACIÓN CON FACUNDO (T1318): agradecido de verdad.

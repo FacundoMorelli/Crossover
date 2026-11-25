@@ -9,3 +9,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1311 · Kakashi curado del todo por una semilla del ermitaño de Facundo (canon: se recuperaba despacio).
 - T1312 · 43 semillas del ermitaño a la carpa médica del este (heridos graves de la invasión). 1 reservada para Tsunade.
 - T1313 · TSUNADE DESPIERTA del coma con una semilla del ermitaño (canon: despierta después de la muerte de Danzō, en la Cuenta Regresiva). La designación de Danzō queda en duda.
+- T1318 · Carpa médica del este: 43 heridos graves curados de golpe, y los dos médicos repuestos.

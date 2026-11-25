@@ -29,3 +29,5 @@
 - Tsunade, Shizune, Kakashi · T1317 · por Facundo: "sé pelear".
 - Tsunade · T1317 · lo vio sin banda ninja y vio lo que dio (semillas). No sabe por dónde entró.
 - Todo el campamento · T1317 · ven/oyen que la Hokage despertó (público).
+- Yamato · T1318 · deduce (sabía que Kakashi guardó una para la "médica que no despierta" + los gritos) que Tsunade despertó por la semilla de Facundo.
+- 43 heridos y 2 médicos de la carpa del este · T1318 · se curaron con "unas semillas" que trajo Yamato. No saben de quién son (Yamato no lo dijo). Vieron a Facundo en la entrada con Yamato.

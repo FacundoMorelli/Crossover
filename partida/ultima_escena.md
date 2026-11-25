@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1315)
-
-se llama semilla del hermitaño
-
-## RESPUESTA 1 (T1315)
-
-> se llama semilla del hermitaño
-
-> —Se llama semilla del ermitaño.
-
-—Semilla del ermitaño —repite Tsunade.
-
-Se agacha, todavía descalza, y recoge del suelo el cuenco donde Kakashi molió la semilla. Queda un resto verde pálido pegado en el fondo. Lo toca con la punta del dedo, se lo lleva a la lengua, lo prueba como quien prueba un veneno. Cierra los ojos un segundo.
-
-Las manos se le encienden de verde, un verde suave, de chakra médico, y se las pasa por el propio pecho, por el estómago, por la cabeza. Revisándose por dentro.
-
-—No hay daño en los canales de chakra —murmura—. Ninguno. Tendría que tenerlos destrozados. Y el chakra está lleno, completo, no como cuando te recuperas: como si nunca lo hubiera gastado. —Abre los ojos—. Esto no es medicina. Ninguna medicina hace esto.
-
-—Le dio cuarenta y cuatro —dice Kakashi—. Una era para usted. Las otras cuarenta y tres están en la carpa del este, con Yamato.
-
-Shizune se tapa la boca con las dos manos.
-
-Tsunade se queda inmóvil, con el cuenco en la mano, y te mira de nuevo. Esta vez es otra mirada. No la de una mujer que se despierta y encuentra a un desconocido en su cuarto. Es la de alguien que hizo la cuenta de cuántas vidas son cuarenta y cuatro semillas, y de cuántas más serían en una guerra.
-
-—Llegas el día después de que nos borran del mapa —dice, despacio—. Te metes en la carpa de la Hokage. Le das a mi aldea, sin pedir nada, algo que vale más que todo el oro del País del Fuego.
-
-Deja el cuenco en el suelo. Se cruza de brazos. A pesar del camisón y los pies descalzos, ahora sí parece la Hokage.
-
-—En cincuenta años no conocí a nadie que regalara algo así sin querer algo a cambio. —Levanta una ceja—. Así que dímelo de frente, Facundo Morelli. ¿Qué quieres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1315 · NARUTO · DÍA 1 · 08:25          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1316)
+## COMANDO 1 (T1316)
 
 nada, ya le dije antes a kakashi y a yamato, vine a ayudar
 
-## RESPUESTA 2 (T1316)
+## RESPUESTA 1 (T1316)
 
 > nada, ya le dije antes a kakashi y a yamato, vine a ayudar
 
@@ -99,11 +52,11 @@ Después vuelve a mirarte. De arriba abajo, una última vez.
 
 ---
 
-## COMANDO 3 (T1317)
+## COMANDO 2 (T1317)
 
 ehh se pelear
 
-## RESPUESTA 3 (T1317)
+## RESPUESTA 2 (T1317)
 
 > ehh se pelear
 
@@ -150,4 +103,55 @@ Y sale. Desde la loma, abajo en el campamento, se oye a alguien gritar algo, y d
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 08:30, carpa de la colina. "Sé pelear." Tsunade se ríe; le dirá después de lo de Danzō que le muestre cómo pelea (ella misma). Lo manda con Yamato a limpiar escombros para las casas. Sale con Kakashi y Shizune. El campamento grita: "¡La Hokage despertó!" Facundo queda en la entrada de la carpa con los dos ANBU.
+## COMANDO 3 (T1318)
+
+voy con yamato
+
+## RESPUESTA 3 (T1318)
+
+> voy con yamato
+
+Bajas por la loma entre la gente que sube corriendo a ver a la Hokage. Nadie te mira ahora: todos miran hacia arriba. Una mujer llora abrazada a un ninja con muletas. Un viejo se saca el sombrero.
+
+La casa nueva de madera está vacía. Yamato no está.
+
+Lo encuentras en el lado este del campamento, frente a la carpa grande de la cruz roja. Tiene la bolsa de tela vacía colgando de una mano, dada vuelta, y está parado en la entrada sin moverse, mirando para adentro.
+
+Adentro hay cuarenta y tres catres. En casi todos, la gente está sentada.
+
+Un ninja con el pecho vendado se arranca las vendas y se mira la piel sana, tocándose con los dedos como si no fuera suya. Una chica con el brazo en cabestrillo mueve el brazo en círculos y se ríe, y se pone a llorar, y se ríe otra vez. Un hombre mayor que tenía la cabeza envuelta pide comida a los gritos. Los dos médicos, cada uno con una semilla recién tragada, ya no parecen a punto de caerse: uno revisa a un paciente con las manos verdes encendidas y repite "no puede ser, no puede ser" en voz baja.
+
+Yamato se da vuelta y te ve.
+
+Se queda callado un momento. Después mira hacia la loma, de donde todavía llegan los gritos.
+
+—La Hokage —dice—. También fue tu semilla.
+
+No es una pregunta.
+
+Aprieta la bolsa vacía en el puño, y por primera vez desde que lo conociste, no sabe qué hacer con la cara. Hace una reverencia, esta vez larga, de cintura, y se queda así un segundo de más.
+
+—Gracias. —Se endereza—. Hace una hora casi te ato al suelo.
+
+Atrás, en la carpa, alguien tira un catre al levantarse y se oyen risas.
+
+—¿Qué haces aquí? —pregunta Yamato—. Pensé que Tsunade-sama no te iba a soltar en todo el día.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1318 · NARUTO · DÍA 1 · 08:38          ║
+║ Konoha · campamento este · carpa médica      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Ayudar a Yamato con los escombros  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 08:38, carpa médica del este. Los 43 heridos graves curados, los 2 médicos también. Yamato (deduce que la Hokage despertó por la semilla) le hace una reverencia larga: "Gracias. Hace una hora casi te ato al suelo." Pregunta: "¿Qué haces aquí? Pensé que Tsunade-sama no te iba a soltar en todo el día." Facundo tiene que contestar.
