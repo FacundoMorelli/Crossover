@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1117.
 ENCUENTROS:
 - T1117 · Tartarus · Facundo y All Might aparecen en su celda. Siente que la brasa de One For All de All Might está entera.
 DIÁLOGOS CLAVE:
+- T1143 · (a All Might, tras 4 min de silencio, grabado por Tartarus) "Dile al muchacho del gato que no se apure en irse. Me gustaría conocerlo como es debido."
 - T1118 · "\"La Liga\". Qué palabra tan pequeña para lo que Tomura está construyendo. Ve a buscarlo. Me encantaría saber cómo te va."
 - T1117 · "Hace mucho que nadie entra sin avisar." "Hace mucho más que no sentía esto, Toshinori." "Está entera. La brasa." "¿Fuiste tú?"
 QUÉ SABE DE FACUNDO: Su nombre por All Might ("joven Morelli", en voz baja, quizá no lo oyó). Que va a ir por la Liga. Que llegó con All Might y que la brasa de One For All está entera otra vez; sospecha de él.

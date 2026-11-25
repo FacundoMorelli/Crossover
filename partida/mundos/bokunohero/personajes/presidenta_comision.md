@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1138.
 ENCUENTROS:
 - T1138 · Su oficina, piso 42 · Facundo aparece mientras habla con Hawks sobre Deika.
 DIÁLOGOS CLAVE:
+- T1143 · "El director de Tartarus quiere su cabeza." "Prefiero que siga sin saber cuánto se equivoca." "Si piensa volver a entrar ahí, avíseme antes. Por favor."
 - T1142 · "Le voy a pedir un sedante para esa criatura. Uno para elefantes. Varios." (casi sonríe)
 - T1141 · "Que nadie muera." "Operativo conjunto. La gente quiere creer que sus héroes ganaron. Y esta vez, más o menos, es cierto."
 - T1140 · "En treinta y dos años nunca escuché a nadie decir \"nada\" y que fuera verdad." "Voy a decidir creerle. Por ahora." "¿La verdad, o un operativo conjunto sin su nombre? ¿Qué prefiere usted?"

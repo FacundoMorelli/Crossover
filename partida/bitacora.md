@@ -1141,3 +1141,4 @@ T1139 · BnHA · Comisión · "Una habilidad." La presidenta: su firma está en 
 T1140 · BnHA · Comisión · "Nada, vine a ayudar; en unos días desaparezco." La presidenta: ¿la verdad o un operativo conjunto sin su nombre?
 T1141 · BnHA · Comisión · "La segunda opción, que nadie muera." Aizawa no puede sacar a los villanos del Recinto. Gigantomachia mueve los dedos.
 T1142 · BnHA · Comisión · Recinto abierto: Aizawa saca a la Liga. Golpe a Gigantomachia y vuelta en un segundo. "Sedantes para elefantes."
+T1143 · BnHA · Comisión · Perdón por Tartarus. AFO: "Que no se apure en irse; me gustaría conocerlo." Guardia triplicada. "Avíseme antes."

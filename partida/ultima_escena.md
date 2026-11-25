@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1140)
-nada, vine a ayudarlos, seguro en unos dias desaparezca
-
-## RESPUESTA 1 (T1140)
-
-> —Nada. Vine a ayudarlos. Seguro en unos días desaparezca.
-
-La presidenta te sostiene la mirada un rato largo.
-
-Esperas que insista. Que pregunte de dónde, por qué, para quién. No lo hace.
-
-—"Nada" —dice al fin—. En treinta y dos años en esta Comisión, nunca escuché a nadie decir esa palabra y que fuera verdad.
-
-Se quita los lentes. Los limpia con un pañuelo que saca del bolsillo del saco, despacio, sin apuro. Sin los lentes parece más vieja. Más cansada.
-
-—Pero tampoco vi nunca a nadie hacer lo que usted hizo hoy sin que muriera una sola persona. —Se vuelve a poner los lentes—. Así que voy a decidir creerle. Por ahora.
-
-Toca la pantalla. Tu ficha desaparece y aparece otra cosa: un mapa del país con cuatro puntos rojos. Las montañas. Jaku. Deika. Y uno más, abajo, que no parpadea. Tartarus.
-
-—Unos días —repite—. Bien. Entonces le voy a pedir una sola cosa antes de que desaparezca.
-
-Apoya un dedo sobre el mapa.
-
-—Esta tarde, en tres horas como mucho, todo el país se va a enterar de lo que pasó en Deika. Ciento dieciséis mil personas no se duermen en silencio. Ya hay videos de los autos, de los niños en el patio. —Hace una pausa—. La gente va a tener miedo. Mucho. Va a querer saber quién fue, y si ese alguien puede hacerle lo mismo a su ciudad.
-
-Te mira.
-
-—Tengo dos opciones. Puedo decir la verdad: que un héroe llamado Eclipse, del que nadie sabía nada, hizo esto solo. O puedo decir que fue un operativo conjunto de la Comisión y de todos los héroes, coordinado durante meses, y que su nombre no aparezca en ninguna parte.
-
-Junta las manos otra vez.
-
-—Si va a desaparecer en unos días, la segunda es más fácil para todos. Pero es su trabajo. Y su nombre. —La voz le sale seca, pero no fría—. ¿Qué prefiere usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1140 · BOKU NO HERO · DIC. · 12:46     ║
-║ Comisión de Seguridad Pública · oficina de   ║
-║ la presidenta, piso 42                       ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 93% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Hablar con la Comisión             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1141)
+## COMANDO 1 (T1141)
 eh hagan la segunda opcion, no me interesa el reconocimiento, me interesa que nadie muera
 
-## RESPUESTA 2 (T1141)
+## RESPUESTA 1 (T1141)
 
 > —Eh, hagan la segunda opción. No me interesa el reconocimiento. Me interesa que nadie muera.
 
@@ -108,10 +54,10 @@ Del teléfono sale, débil, la voz de Aizawa, cansada, seca:
 
 ---
 
-## COMANDO 3 (T1142)
+## COMANDO 2 (T1142)
 eh perdon lo deje asi por que no sabia si se podian despertar antes que lleguen, dejo salir a todos, ya pueden sacarlos, ya vengo, le pego a machia de nuevo y vuelvo en 1 segundo
 
-## RESPUESTA 3 (T1142)
+## RESPUESTA 2 (T1142)
 
 > —Eh, perdón, lo dejé así porque no sabía si se podían despertar antes de que llegaran. Ya dejo salir a todos, ya pueden sacarlos. Ya vengo. Le pego a Machia de nuevo y vuelvo en un segundo.
 
@@ -163,4 +109,56 @@ Y por primera vez desde que llegaste, la comisura de la boca se le mueve apenas.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:48, oficina de la presidenta. Recinto abierto; Aizawa saca a los villanos. Gigantomachia inconsciente otra vez. La presidenta pide sedantes y casi sonríe. Facundo puede actuar.
+## COMANDO 3 (T1143)
+bueno ahora si, eh y perdon por el problema que cause yendo con all might a tartaro
+
+## RESPUESTA 3 (T1143)
+
+> —Bueno, ahora sí. Eh, y perdón por el problema que causé yendo con All Might a Tartarus.
+
+La presidenta le dice a Aizawa "gracias, profesor, lo llamo luego" y cuelga. Deja el teléfono alineado con los otros dos.
+
+—Tartarus —dice.
+
+Se reclina en la silla por primera vez. Apenas.
+
+—El director de Tartarus me llamó tres veces en media hora. Quiere su cabeza, señor Morelli. Y la de All Might. Dice que nadie, nunca, había llegado al nivel más bajo sin pasar por los once controles, y que si dos personas pudieron aparecer en la celda de All For One, cualquiera puede. —Hace una pausa—. Tiene razón, por cierto. Eso me quita el sueño más que Deika.
+
+Junta las manos.
+
+—All Might le explicó lo que pudo. Que usted lo curó. Que volvió a tener sus poderes. —Te mira fijo—. Eso tampoco lo voy a anunciar, por si se lo pregunta. Hay un hombre en esa celda que lleva meses convencido de que el Símbolo de la Paz ya no existe. Prefiero que siga sin saber cuánto se equivoca. Aunque a estas alturas...
+
+Se interrumpe. Toca la pantalla del escritorio y abre algo. Un informe corto, con el sello de Tartarus.
+
+—Los guardias transcribieron todo lo que pasó en esa celda. Las cámaras graban audio. —Lee, sin cambiar el tono—. "Después de que el intruso desconocido se retiró, el recluso All For One permaneció en silencio durante cuatro minutos. Luego habló una sola vez, dirigido a All Might, que seguía presente."
+
+Levanta la vista hacia ti.
+
+—Dijo: "Dile al muchacho del gato que no se apure en irse. Me gustaría conocerlo como es debido."
+
+Apaga la pantalla.
+
+—El director de Tartarus pidió triplicar la guardia de esa celda. Se lo autoricé. —Te sostiene la mirada—. No tiene que disculparse, señor Morelli. Pero si piensa volver a entrar ahí, le voy a pedir que me avise antes. Por favor.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1143 · BOKU NO HERO · DIC. · 12:50     ║
+║ Comisión de Seguridad Pública · oficina de   ║
+║ la presidenta, piso 42                       ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 93% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (abierto, deja pasar a todos)║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:50, oficina de la presidenta. Ella contó el enojo de Tartarus y el mensaje de AFO ("que no se apure en irse; quiero conocerlo"). Guardia triplicada. Pide aviso si vuelve a entrar. Facundo puede actuar.
