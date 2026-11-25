@@ -1274,3 +1274,4 @@ T1272 · TG · Anteiku · Vuelven. Touka: "Lo vi. Sigue siendo un idiota." Se en
 T1273 · TG · Anteiku · "Me voy esta noche." Deja un botón de aviso y 4 semillas (quedan 72). Kaneki va a buscar a Touka.
 T1274 · TG · Anteiku · Hinami lo abraza y le regala una grulla de origami celeste. Touka baja: "Así que te vas."
 T1275 · TG · Anteiku · "No sé cuándo vuelvo." Touka: decidirá ella lo de ser humana; "me debes una revancha"; el dedo en el pecho "no cuenta".
+T1276 · TG · Anteiku · Despedidas. Kaneki: "No voy a comer carne humana." Yoshimura: "Vuelva cuando quiera. El café va a estar caliente."

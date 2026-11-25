@@ -3,64 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1273)
-esta noche, les voy a dar esto, les doy un boton, si tocan este boton voy a saber que estan en problemas, les doy 4 semillas del ermitaño, esto lo mismo, comanlas si estan en problemas
-
-## RESPUESTA 1 (T1273)
-
-> —Esta noche.
-
-Yoshimura asiente despacio, como si ya lo supiera.
-
-> —Les voy a dar esto.
-
-Sacas del inventario un botón chico, redondo, del tamaño de una moneda grande, de metal oscuro, con un círculo plateado en el centro. Lo dejas sobre la barra, al lado de la taza.
-
-> —Les doy un botón. Si tocan este botón, voy a saber que están en problemas.
-
-Después sacas una bolsita de tela y dejas caer en tu palma cuatro granos verdes, chicos, del tamaño de un poroto. Los pones en fila al lado del botón.
-
-> —Y les doy cuatro semillas del ermitaño. Esto, lo mismo: cómanlas si están en problemas.
-
-[Semillas del ermitaño: 72.]
-
-Koma deja el plato sobre la mesa de golpe. Mira los cuatro granos. Mira a Irimi, que se lleva la mano al hombro, al lugar donde ya no tiene ni una cicatriz.
-
-—Cuatro —murmura Koma—. Con uno me pusiste la pierna en su lugar.
-
-Yoshimura no toca nada todavía. Mira el botón. Mira las semillas. Mira el libro de Eto, apoyado al lado de la caja. Después, despacio, junta las cuatro semillas en la palma de la mano, con cuidado, como si fueran granos de café de los caros, y las guarda en una de las latas de la estantería: la de té verde, la que nadie abre nunca. Pone el botón en el bolsillo del chaleco, del lado del corazón.
-
-—Los voy a cuidar —dice—. Y espero no tener que usarlos nunca.
-
-Hinami está al pie de la escalera. Se dio vuelta al oír "esta noche". Te mira con los ojos enormes, con la muñeca de tela apretada contra el pecho.
-
-—¿Te vas ya, Facundo-nii? —pregunta bajito—. ¿Ahora?
-
-Kaneki se levantó del taburete. Mira hacia arriba, hacia la puerta cerrada del cuarto chico. Después a ti.
-
-—Déjame ir a buscar a Touka-chan antes —dice—. Si te vas sin que te vea, no me lo va a perdonar nunca. Ni a mí ni a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1273 · TOKYO GHOUL · DÍA 7 · 21:23     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la barra                            ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: despedirse de Anteiku              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1274)
+## COMANDO 1 (T1274)
 esta bien kaneki, acaricio el pelo de hinami, si esta noche me voy
 
-## RESPUESTA 2 (T1274)
+## RESPUESTA 1 (T1274)
 
 > —Está bien, Kaneki.
 
@@ -109,10 +55,10 @@ Te mira. Mira la grulla de papel en tu mano. Mira a Hinami. Vuelve a mirarte a t
 
 ---
 
-## COMANDO 3 (T1275)
+## COMANDO 2 (T1275)
 si, me voy, no se cuando voy a volver, puede ser en 1 semana, o en 3 meses, no lo se
 
-## RESPUESTA 3 (T1275)
+## RESPUESTA 2 (T1275)
 
 > —Sí, me voy. No sé cuándo voy a volver. Puede ser en una semana, o en tres meses. No lo sé.
 
@@ -159,7 +105,63 @@ En la escalera, Kaneki baja el último escalón. Se queda al lado de Hinami, con
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1276)
+nos vemos chicos, kaneki cuidate y no coman carne humana
+
+## RESPUESTA 3 (T1276)
+
+> —Nos vemos, chicos. Kaneki, cuídate. Y no coman carne humana.
+
+—¡Ja! —Koma se golpea el pecho con el puño—. ¡Con lo que cuesta el arroz, Panadero, no prometo nada!
+
+Irimi le pega en la nuca. Koma se calla, se frota la cabeza, y después se ríe igual.
+
+Kaneki da un paso adelante. Saca las manos de los bolsillos. Se queda un segundo sin saber qué hacer con ellas. Después hace una reverencia, profunda, hasta la cintura, como la de la plaza, pero ya no torpe.
+
+—Gracias, Facundo-san. —Se endereza. Tiene los ojos firmes—. Por la mansión. Por Shinohara-san. Por la manzana. Por el 24. —Traga saliva—. Me voy a cuidar. Y voy a cuidarlos a ellos. Con lo que me enseñaste.
+
+Se le escapa una sonrisa chica, la primera de verdad que le viste en toda la semana.
+
+—Y no voy a comer carne humana. Ya no tengo por qué.
+
+Nishiki, desde la pileta, levanta un plato enjabonado a modo de saludo.
+
+—Lo de la deuda va en serio, eh —dice—. Algún día te la cobro. O te la pago. No sé cómo va eso.
+
+Hinami no dice nada. Sigue con la muñeca contra el pecho y los ojos mojados, mirando la grulla de papel en tu mano.
+
+Touka se cruzó de brazos otra vez. Mira para otro lado. No dice nada. Pero no se va.
+
+Yoshimura sale de detrás de la barra. Es la primera vez que lo ves salir de ahí sin una taza o un repasador en la mano. Se para delante de ti. Se saca los lentes, los dobla y los guarda en el bolsillo del chaleco, al lado del botón.
+
+Hace una reverencia. Lenta. Larga. Más larga que la de Kaneki.
+
+Cuando se endereza, sonríe.
+
+—Vuelva cuando quiera, Morelli-san. Una semana, tres meses o diez años. —Se pone otra vez los lentes—. El café va a estar caliente.
+
+Kase salta del taburete a tu hombro y se acomoda en tu cuello, con la cola enroscada.
+
+El salón queda en silencio. Todos te miran. Nadie se mueve hacia la puerta. Esperan a ver cómo te vas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1276 · TOKYO GHOUL · DÍA 7 · 21:30     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: despedirse de Anteiku              ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:28, salón de Anteiku. Touka reclamó una revancha y dijo que decidirá ella lo de ser humana. Kaneki espera su turno para despedirse. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 21:30, salón de Anteiku. Despedidas hechas. Todos esperan a ver cómo se va Facundo. Puerta abierta. Facundo puede actuar.

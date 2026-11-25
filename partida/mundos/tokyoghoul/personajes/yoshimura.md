@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1243 · Noche del Día 6: prepara café tres veces; no cuenta nada de los Washuu. A Facundo, bajo: "Si mañana no vuelve, voy a entender."
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1276 · "Vuelva cuando quiera, Morelli-san. Una semana, tres meses o diez años. El café va a estar caliente."
 - T1273 · "Los voy a cuidar. Y espero no tener que usarlos nunca."
 - T1272 · "Gracias por llevarla. Hacía tres años que no se atrevía." "Usted nos dijo que no se iba a ir hasta que terminara la operación. La operación terminó. ¿Ya sabe cuándo se va?"
 - T1261 · "No es una mala idea. Es una idea muy grande. Las ideas muy grandes hay que dejarlas reposar. Como el café."

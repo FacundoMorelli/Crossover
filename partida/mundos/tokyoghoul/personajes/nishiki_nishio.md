@@ -10,6 +10,7 @@ ENCUENTROS:
 - T1215 · Sale dos noches con Kimi.
 - T1186 · Entra a Anteiku a las 07:41 y se frena al ver a Facundo, el gato y a Hinami comiendo una tostada.
 DIÁLOGOS CLAVE:
+- T1276 · "Lo de la deuda va en serio. Algún día te la cobro. O te la pago."
 - T1240 · "¿Qué presidente?"
 - T1217 · "Yo me quedo con la mocosa. Alguien tiene que cuidar el café. No se mueran, idiotas."
 - T1208 · "Bueno. Ya está. Ya no me sorprende nada. Si mañana entras volando, ni levanto la vista."
