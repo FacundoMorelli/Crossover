@@ -145,3 +145,5 @@
 - Facundo · T1238 · por Yoshitoki: dirección de Tsuneyoshi (Distrito 1). Por Shinohara: ni él tiene permiso para entrar a esa casa; el viejo nunca le dice "kun" a nadie.
 - Todos en Anteiku · T1240 · Facundo irá mañana a la casa del presidente de la CCG (Washuu Tsuneyoshi).
 - Facundo · T1240 · por Yoshimura: conoce el nombre Washuu hace muchos años; esa familia siempre cobra más de lo que pide; el hombre del sombrero trabaja para gente que trabaja para esa casa.
+- Todos en Anteiku · T1241 · por Facundo: el presidente tiene en su casa a alguien con mucha hambre.
+- Yoshimura · T1241 · deducción (confirma una sospecha vieja sobre los Washuu; no la dice).

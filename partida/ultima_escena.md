@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1238)
-me arranco las esposas, esta bien, muchas gracias, mañana estare a las diez entonces
-
-## RESPUESTA 1 (T1238)
-
-> me arranco las esposas
-
-Shinohara todavía está buscando la llave chica en el cinturón cuando separas las muñecas.
-
-No haces fuerza. Solo las separas.
-
-El metal blanco se abre como papel mojado. La franja roja chisporrotea una vez y se apaga. Los dos aros caen al piso de la carpa, retorcidos, con un tintineo seco, y ruedan hasta los pies de Washuu Yoshitoki.
-
-Él los mira. Se agacha, despacio, y levanta uno. Lo da vuelta entre los dedos. Es una aleación hecha para contener a ghouls de rango S. Está doblada como el envoltorio de un caramelo.
-
-Shinohara se queda con la llave en la mano, a medio camino. Suelta una risa corta por la nariz, cansada, casi aliviada, y se guarda la llave otra vez.
-
-—Bueno —murmura—. Una cosa menos que firmar.
-
-Tomas la hoja doblada que te tiende Washuu.
-
-> —Está bien, muchas gracias. Mañana estaré a las diez, entonces.
-
-Washuu deja el aro roto sobre la mesa de los mapas, junto a tu taza de té todavía llena, como si fuera un pisapapeles.
-
-—Lo estaremos esperando —dice. Y por primera vez en toda la noche, la sonrisa educada parece un poco cansada.
-
-Desdoblas la hoja. Una letra prolija, fina, de tinta negra: una dirección en el Distrito 1, una calle con nombre de árbol, un número. Abajo, en letra más chica: "Portón negro. Diga su nombre."
-
-Al salir de la carpa, la noche está fría y huele a humo. Los reflectores siguen encendidos. Los investigadores que antes te miraban llegar se apartan para dejarte pasar, en silencio, sin mirarte a los ojos. Algunos se sacan el casco. Uno, joven, con la cara manchada de hollín, te mira las manos sin esposas y retrocede un paso.
-
-Shinohara te acompaña hasta el borde del círculo de luz. Ahí se detiene.
-
-—Hasta acá llego yo. —Mira hacia el este, hacia la avenida 3, hacia el café que no se ve desde ahí—. Mañana a las diez vas a entrar a una casa donde ni yo tengo permiso para entrar. —Te mira de costado—. Yo no sé qué hay ahí adentro. Pero sé que el viejo nunca llama a nadie "kun" por teléfono.
-
-Se pone el casco bajo el brazo.
-
-—¿Vas a volver al café esta noche?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1238 · TOKYO GHOUL · DÍA 6 · 18:27     ║
-║ Distrito 20 · borde del puesto de mando      ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
-╚══════════════════════════════════════════════╝
-```
-
-(Ajusté el turno anterior para que encaje: Shinohara no llegó a abrirte las esposas. Te las arrancaste tú.)
-
----
-
-## COMANDO 2 (T1239)
+## COMANDO 1 (T1239)
 si, nos vemos shinohara. me teletransporto al cafe
 
-## RESPUESTA 2 (T1239)
+## RESPUESTA 1 (T1239)
 
 > —Sí. Nos vemos, Shinohara.
 
@@ -117,10 +59,10 @@ Yoshimura se seca las manos en un repasador, despacio, dedo por dedo. Deja el re
 
 ---
 
-## COMANDO 3 (T1240)
+## COMANDO 2 (T1240)
 mañana voy a ir a ver al presidente a su casa
 
-## RESPUESTA 3 (T1240)
+## RESPUESTA 2 (T1240)
 
 > —Mañana voy a ir a ver al presidente a su casa.
 
@@ -171,7 +113,56 @@ Se le endurece la voz, apenas.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1241)
+me dijo que tiene a alguien en su casa que tiene mucha hambre
+
+## RESPUESTA 3 (T1241)
+
+> —Me dijo que tiene a alguien en su casa que tiene mucha hambre.
+
+La cocina se queda en silencio.
+
+Kaneki frunce el ceño, sin entender.
+
+—¿Hambre? —repite—. ¿En la casa del presidente de la CCG? ¿Un ghoul? —Mira a Yoshimura—. Eso no tiene sentido. Ellos son los que...
+
+No termina.
+
+Yoshimura no le contesta. Se quedó mirando sus propias manos sobre la mesada, las manchas rojas que se le secan entre los dedos. Muy quieto. Como alguien que escucha, después de muchos años, la confirmación de algo que siempre sospechó y nunca quiso decir en voz alta.
+
+—Así que es eso —dice al final, tan bajo que casi no se oye.
+
+Levanta la vista. No mira a Kaneki. Te mira a ti.
+
+—Hay cosas de esa familia que no se dicen, Morelli-san. Ni en este café ni en ningún otro lugar de esta ciudad. Yo tampoco las voy a decir. —Se seca las manos otra vez en el repasador, aunque ya están secas—. Pero si el viejo Washuu lo invitó a su casa por eso... entonces usted no va a una negociación. Va a ver algo que muy poca gente vio y siguió viviendo.
+
+Touka abre la boca. La cierra. Mira a Kaneki, que tiene la cara pálida.
+
+Desde el piso, Koma deja la taza en el suelo. Irimi, a su lado, cierra los ojos un segundo y aprieta los dientes. El vendaje de toallas se le está tiñendo de rojo otra vez, despacio, del lado del hombro.
+
+Koma lo ve. Se le borra la sonrisa.
+
+—Panadero. —Te mira desde abajo, sin rastro del ruido de siempre—. Antes, en la avenida, me diste ese grano verde. —Traga—. ¿Te queda otro?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1241 · TOKYO GHOUL · DÍA 6 · 18:33     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la mesada                           ║
+║ Semillas del ermitaño: 77                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:31, cocina de Anteiku. Yoshimura advierte sobre los Washuu y pregunta qué le pidió el presidente a cambio. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:33, cocina de Anteiku. Yoshimura advierte que Facundo va a ver algo que pocos vieron y sobrevivieron. El vendaje de Irimi sangra; Koma pregunta si le queda otra semilla. Facundo puede responder.
