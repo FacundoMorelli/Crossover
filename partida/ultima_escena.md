@@ -3,59 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1062)
-hola, necesitas volver a la mazmorra no? quieres que te lleve?
-
-## RESPUESTA 1 (T1062)
-
-> hola, necesitas volver a la mazmorra no? quieres que te lleve?
-
-> —Hola. Necesitas volver a la Mazmorra, ¿no? ¿Quieres que te lleve?
-
-La gárgola se queda quieta.
-
-Después las alas se le abren de golpe, enteras, con un ruido de piedra contra piedra, y se agacha en el borde del techo como un animal a punto de saltar. Las garras de las manos se le clavan en el borde de las tejas y las rajan.
-
-—Humano. —La voz es áspera, grave, como dos piedras que se frotan—. Me ves. Me hablas. —Los ojos rojos se le achican—. Y no gritas.
-
-Mira hacia abajo, hacia el callejón por donde se fue la patrulla. Después a ti otra vez. Después al gato.
-
-—¿De qué Familia eres? —gruñe—. ¿Ikelos? Los de Ikelos también hablaban bonito antes de meter a los nuestros en jaulas. —Abre la boca y le ves los colmillos de piedra—. Dix Perdix está muerto. Si vienes a terminar su trabajo, te arranco la garganta antes de que llames a nadie.
-
-No salta. Se queda en el borde, con las alas abiertas, tenso, temblando apenas. Tiene una grieta larga en un ala, reciente, de un golpe de espada, y una mancha oscura en el costado.
-
-—Nadie en esta ciudad quiere llevarnos a ningún lado. Solo el chico blanco. —Escupe las palabras—. Y mira lo que le hicieron por eso.
-
-Detrás de él, más lejos, sobre los techos de Dédalo, una antorcha vuelve a aparecer en un puente de madera. Otra patrulla. Viene hacia aquí.
-
-Gros la ve. Se le tensan los hombros de piedra.
-
-Te mira.
-
-—¿Quién eres? —repite, en voz más baja—. Contesta rápido, humano.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1062 · DANMACHI · NOCHE 1 · 23:11      ║
-║ Orario · Calle Dédalo, techo de una casa     ║
-║ NIVEL 28 · EXP 252.350/280.000               ║
-║ FRAGMENTOS 108.590 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1063)
+## COMANDO 1 (T1063)
 me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
 
-## RESPUESTA 2 (T1063)
+## RESPUESTA 1 (T1063)
 
 > me llamo Facundo Morelli, no soy de ninguna familia, acabo de llegar aqui, soy un viajero, no me interesa matarlos, entonces quieres que te lleve o no?
 
@@ -103,10 +54,10 @@ Gros se agacha más contra el techo, pegado a las tejas, hasta volverse otra vez
 
 ---
 
-## COMANDO 3 (T1064)
+## COMANDO 2 (T1064)
 está bien, los llevo a todos, dime dónde están
 
-## RESPUESTA 3 (T1064)
+## RESPUESTA 2 (T1064)
 
 > está bien, los llevo a todos, dime dónde están
 
@@ -152,4 +103,59 @@ El hombre lobo arruga la nariz. No mira hacia el techo de al lado, donde Gros es
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:13, techos de Dédalo. Gros dio las ubicaciones de los Xenos. Una patrulla (con Bete Loga) ilumina a Facundo en el techo y le pregunta qué hace ahí; el gato "huele raro". Gros sigue como estatua. Facundo puede actuar.
+## COMANDO 3 (T1065)
+es un gato normal, tienes algun problema con mi gato?
+
+## RESPUESTA 3 (T1065)
+
+> es un gato normal, tienes algun problema con mi gato?
+
+> —Es un gato normal. ¿Tienes algún problema con mi gato?
+
+Abajo, una de las de la máscara de elefante suspira, como quien ya sabe lo que viene.
+
+El hombre lobo sonríe. No es una sonrisa simpática: le muestra todos los colmillos.
+
+—¿Problema? —Se cruje el cuello—. Mi problema es que hay monstruos sueltos en este barrio, que la mitad de la ciudad está encerrada en su casa por eso, y que tú estás parado en un techo a medianoche con un bicho que huele a algo que no conozco.
+
+Salta.
+
+Desde el callejón hasta el borde de tu techo, cuatro metros de pared, de un solo impulso, sin esfuerzo. Aterriza frente a ti, a dos pasos, con las botas de metal haciendo crujir las tejas. Es más alto de cerca. Lleva unas grebas de metal plateado en las piernas y unos guantes con nudillos de acero.
+
+—Bete, la capitana dijo que no... —empieza la de la máscara desde abajo.
+
+—Cállate.
+
+Se acerca un paso. Te mira de arriba abajo, el pelo, los ojos de distinto color, la cicatriz, el sobretodo negro. Después a Kase, de muy cerca. Kase le sostiene la mirada sin moverse, con las pupilas finas como agujas.
+
+Bete arruga la nariz otra vez.
+
+—Tú no hueles a nada —dice despacio, extrañado—. Ni a miedo. Ni a sudor. Nada. —Frunce el ceño—. Y el gato huele a... lugares. Muchos lugares. Ninguno de aquí.
+
+Se queda callado. Olfatea otra vez, más fuerte. Gira la cabeza, despacio, hacia el techo de al lado.
+
+Hacia la gárgola de piedra agazapada en el borde.
+
+Se le paran las orejas.
+
+—Y eso de ahí... —murmura— no huele a piedra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1065 · DANMACHI · NOCHE 1 · 23:14      ║
+║ Orario · Calle Dédalo, techo de una casa     ║
+║ NIVEL 28 · EXP 252.350/280.000               ║
+║ FRAGMENTOS 108.590 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Llevar a todos los Xenos           ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:14, techos de Dédalo. Bete subió al techo de Facundo; nota que Facundo no huele a nada y que el gato huele a lugares de afuera; olfatea a Gros: "eso no huele a piedra". Facundo puede actuar.
