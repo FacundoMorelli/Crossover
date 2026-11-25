@@ -3,86 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1237)
-esta bien, mañana estare ahi
-
-## RESPUESTA 1 (T1237)
-
-> —Está bien. Mañana estaré ahí.
-
-—Excelente. —Del otro lado se oye la sonrisa, de verdad esta vez—. Lo espero con té, Morelli-kun. Del bueno. Ahora, por favor, páseme con mi hijo.
-
-Le devuelves el teléfono a Washuu Yoshitoki.
-
-Él lo toma. Escucha. No habla, salvo un "sí" corto cada tanto, y un "entendido" al final. Corta. Se queda un segundo con el teléfono apagado en la mano, mirándolo, como si hubiera escuchado algo que va a tardar mucho en digerir.
-
-Después se da vuelta hacia la mesa de los mapas, toma el micrófono de la radio central y aprieta el botón.
-
-—A todas las unidades del Distrito 20. Habla Washuu, puesto de mando. —La voz le sale igual de educada que siempre, igual de tranquila—. Por orden directa del presidente, la Operación de Exterminio del Búho queda suspendida a partir de este momento. Repito: suspendida. Cese el fuego en todos los sectores. Recojan a los heridos y repliéguense al perímetro norte. Nadie se acerca a la avenida 3 ni al café. Confirmen recepción.
-
-Suelta el botón.
-
-Durante un segundo no pasa nada. Después, la radio estalla: una docena de voces a la vez, confundidas, "repita", "¿confirmado?", "¿suspendida?", "¿y el Búho?". Washuu repite la orden dos veces más, sin cambiar el tono, y las voces se van apagando, una por una, con un "entendido" seco.
-
-Afuera, de a poco, dejan de sonar los disparos.
-
-Primero en las calles cercanas. Después en las de más lejos. Al final queda solo el zumbido de los generadores, el de las sirenas de las ambulancias que empiezan a acercarse, y el viento.
-
-[Misión de Mundo cumplida.]
-
-```
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO CUMPLIDA                     ║
-║ Mundo: Tokyo Ghoul                           ║
-║                                              ║
-║ Ningún miembro de Anteiku murió ni fue       ║
-║ capturado en la Operación del Búho.          ║
-║                                              ║
-║ RECOMPENSA: 13.000 EXP · 450 Fragmentos ·    ║
-║ la Puerta                                    ║
-║ MUNDOS COMPLETADOS: 11                       ║
-╚══════════════════════════════════════════════╝
-```
-
-[Has subido de nivel. Nivel 29.]
-
-[+1 a todos los stats. +5 puntos asignables.]
-
-Shinohara suelta el aire. Largo, como alguien que lo estuvo aguantando desde la mansión de Kanou. Da un paso hacia ti, saca una llave chica del cinturón y te abre las esposas. Clic. Clic. La franja roja se apaga.
-
-En la entrada de la carpa, Kuroiwa se saca el casco otra vez y se pasa una mano por la cara empapada. Houji se acomoda los anteojos y, por primera vez, mira para otro lado.
-
-Arima se da vuelta desde la pantalla. Te mira un momento. Después levanta el maletín plateado y camina hacia la salida, sin apuro, sin hacer ruido. Al pasar a tu lado se detiene un instante.
-
-—Mañana —dice, nada más.
-
-Y se va.
-
-Washuu Yoshitoki deja el micrófono sobre la mesa. Saca del bolsillo una libreta chica de cuero, escribe algo con una lapicera fina, arranca la hoja y te la tiende, doblada en dos.
-
-—La dirección de mi padre —dice—. A las diez. Le sugiero ser puntual. —Se acomoda los lentes—. Él siempre lo es.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1237 · TOKYO GHOUL · DÍA 6 · 18:24     ║
-║ Distrito 20 · puesto de mando, carpa central ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1238)
+## COMANDO 1 (T1238)
 me arranco las esposas, esta bien, muchas gracias, mañana estare a las diez entonces
 
-## RESPUESTA 2 (T1238)
+## RESPUESTA 1 (T1238)
 
 > me arranco las esposas
 
@@ -137,10 +61,10 @@ Se pone el casco bajo el brazo.
 
 ---
 
-## COMANDO 3 (T1239)
+## COMANDO 2 (T1239)
 si, nos vemos shinohara. me teletransporto al cafe
 
-## RESPUESTA 3 (T1239)
+## RESPUESTA 2 (T1239)
 
 > —Sí. Nos vemos, Shinohara.
 
@@ -191,7 +115,63 @@ Yoshimura se seca las manos en un repasador, despacio, dedo por dedo. Deja el re
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1240)
+mañana voy a ir a ver al presidente a su casa
+
+## RESPUESTA 3 (T1240)
+
+> —Mañana voy a ir a ver al presidente a su casa.
+
+Nadie entiende enseguida.
+
+Kaneki parpadea. Koma levanta la cabeza desde el piso, con la taza de agua todavía en la mano.
+
+—¿Qué presidente? —pregunta Nishiki desde la pileta.
+
+Pero Yoshimura sí entiende.
+
+Se le queda quieta la cara. No como antes, cuando escuchaba algo que lo sorprendía: ahora se le queda quieta como se queda quieta la superficie de un estanque cuando algo enorme pasa por debajo.
+
+—El presidente de la CCG —dice, muy despacio—. Washuu Tsuneyoshi.
+
+Touka se da vuelta desde la puerta de golpe.
+
+—¿Qué? —Cruza la cocina en tres pasos y se te planta delante, al lado de Kaneki—. ¿Vas a ir a la casa del jefe de todos esos? ¿Del que mandó a quemarnos? ¿Estás loco?
+
+—Touka-chan —dice Yoshimura, suave.
+
+Ella se calla. Pero no se mueve de delante de ti.
+
+Yoshimura se apoya en la mesada con las dos manos manchadas. Mira el piso. Se toma un tiempo largo antes de hablar.
+
+—Morelli-san. La operación paró porque él lo ordenó. Y él lo ordenó porque usted le dio algo a cambio. —No es una pregunta—. Hace muchos años que conozco el nombre Washuu. Más de los que me gustaría. Esa familia no hace nada sin cobrarlo después, y siempre cobra más de lo que pidió.
+
+Levanta la vista hacia ti. Detrás de los ojos tranquilos de barista, hay algo viejo y muy cansado.
+
+—El hombre del sombrero que vino a verme hace dos noches... trabaja para gente que trabaja para esa casa. —Hace una pausa—. No le voy a decir que no vaya. Ya sé que va a ir igual.
+
+Se le endurece la voz, apenas.
+
+—Pero dígame, por favor: ¿qué le pidió a cambio?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1240 · TOKYO GHOUL · DÍA 6 · 18:31     ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la mesada                           ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: casa de Tsuneyoshi, mañana 10:00   ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:29, cocina de Anteiku. Todos a salvo; Irimi herida y vendada. Yoshimura pregunta qué hizo Facundo. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 18:31, cocina de Anteiku. Yoshimura advierte sobre los Washuu y pregunta qué le pidió el presidente a cambio. Facundo puede responder.

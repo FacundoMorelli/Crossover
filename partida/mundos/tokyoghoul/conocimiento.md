@@ -143,3 +143,5 @@
 - Arima · T1237 · sabe que Facundo va mañana a la casa del presidente ("Mañana").
 - Yoshitoki, Shinohara, Houji, Kuroiwa, Marude · T1238 · vieron a Facundo arrancarse las esposas de supresión como papel.
 - Facundo · T1238 · por Yoshitoki: dirección de Tsuneyoshi (Distrito 1). Por Shinohara: ni él tiene permiso para entrar a esa casa; el viejo nunca le dice "kun" a nadie.
+- Todos en Anteiku · T1240 · Facundo irá mañana a la casa del presidente de la CCG (Washuu Tsuneyoshi).
+- Facundo · T1240 · por Yoshimura: conoce el nombre Washuu hace muchos años; esa familia siempre cobra más de lo que pide; el hombre del sombrero trabaja para gente que trabaja para esa casa.
