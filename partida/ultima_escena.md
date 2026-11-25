@@ -3,75 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1076)
-tengo una mision, y no se ven malos, no conozco nada de aqui, pero solo se parecen a los mounstros, pero ninguno es, no creo que se merezca que los maten
-
-## RESPUESTA 1 (T1076)
-
-> tengo una mision, y no se ven malos, no conozco nada de aqui, pero solo se parecen a los mounstros, pero ninguno es, no creo que se merezca que los maten
-
-> —Tengo una misión. Y no se ven malos. No conozco nada de aquí, pero solo se parecen a los monstruos. Ninguno lo es. No creo que merezcan que los maten.
-
-Hestia te escucha hasta el final sin moverse.
-
-Cuando terminas, se queda un momento callada. Después descruza los brazos. Despacio.
-
-—Verdad —dice, en voz baja—. Todo. Hasta lo de la misión.
-
-Se le quiebra algo en la cara. No mucho. Solo la boca, que se le tuerce hacia abajo un segundo, como si estuviera a punto de llorar y no se lo permitiera.
-
-—Dos días —murmura—. Dos días escuchando a toda esta ciudad gritarle a mi Bell que es un traidor. Que protege monstruos. Que debería morirse. Dos días sin que nadie, ni un mortal, ni un dios, dijera lo que acabas de decir tú. —Se pasa el dorso de la mano por los ojos, rápido, como si tuviera una basura—. Y viene un viajero que no sabe nada de Orario y lo ve en una noche.
-
-Se hace a un lado. Te deja ver a Bell.
-
-Bell te mira. Tiene los ojos rojos llenos de lágrimas que todavía no se le caen.
-
-—Gracias —dice. Le sale la voz rota—. De verdad. Gracias.
-
-Wiene se despega de él. Se saca la capa marrón del brazo, despacio, la dobla como puede, mal, con las manos temblorosas, y se la pone a Bell en las manos.
-
-—Te la devuelvo —dice—. Para que no tengas frío tú.
-
-Bell mira la capa. Mira a Wiene.
-
-—Wiene...
-
-—Me voy a casa, Bell. —Sonríe, con la cara mojada—. Abajo. Con todos. Facundo nos lleva.
-
-Bell se arrodilla en la alfombra para quedar a su altura y la abraza otra vez. Muy fuerte. Wiene le rodea el cuello con los brazos y la cola.
-
-—Te voy a ir a ver —le dice él, en el pelo—. Al piso veinte. Te lo prometo. En cuanto pueda. Te lo prometo.
-
-Detrás, la chica de la mochila se suena la nariz con un pañuelo. El pelirrojo mira para otro lado, hacia la chimenea. La muchacha zorro llora sin disimulo.
-
-Bell se separa de Wiene. Se seca la cara con la manga. Se pone de pie.
-
-Y te mira a ti, con una cara distinta. Decidida.
-
-—Señor Facundo. —Aprieta la capa contra el pecho—. ¿Puedo ir con ustedes? Hasta la Mazmorra. Solo para verlos llegar. —Una pausa—. Y hay alguien más. Asterius. El minotauro negro. Él también es un Xenos, aunque esté solo. Si se queda en la superficie, lo van a matar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1076 · DANMACHI · NOCHE 2 · 00:27      ║
-║ Orario · Hearthstone Manor, la sala          ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Llevar a todos (Asterius incluido) ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1077)
+## COMANDO 1 (T1077)
 esta bien, agarrate a mi, me teletransporto con wiene y bell con el minotauro, lo agarro lo llevo a donde estan los demas y los llevo a todos a la mazmorra al piso 20
 
-## RESPUESTA 2 (T1077)
+## RESPUESTA 1 (T1077)
 
 > esta bien, agarrate a mi, me teletransporto con wiene y bell con el minotauro, lo agarro lo llevo a donde estan los demas y los llevo a todos a la mazmorra al piso 20
 
@@ -177,10 +112,10 @@ Y Wiene, todavía agarrada de tu mano, te tira de los dedos para que la mires.
 
 ---
 
-## COMANDO 3 (T1078)
+## COMANDO 2 (T1078)
 me alegro wiene, le acaricio la cabeza
 
-## RESPUESTA 3 (T1078)
+## RESPUESTA 2 (T1078)
 
 > me alegro wiene, le acaricio la cabeza
 
@@ -227,4 +162,70 @@ Wiene abre los ojos debajo de tu mano. Mira a Bell. Se le borra un poco la sonri
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 2 00:34, piso 20. Lido le regaló su escama a Facundo. Gros lo reconoce. Bell tiene que volver antes del amanecer. Wiene se entristece. Facundo puede actuar.
+## COMANDO 3 (T1079)
+bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
+
+## RESPUESTA 3 (T1079)
+
+> bueno despidete si quieres y otro dia puedes volver, vamos te llevo a tu casa bell
+
+> —Bueno, despídete si quieres. Otro día puedes volver. Vamos, te llevo a tu casa, Bell.
+
+Bell asiente.
+
+Se arrodilla otra vez en el musgo delante de Wiene. Ella no espera: se le tira al cuello, y esta vez no llora. Se ríe, bajito, con la cara escondida en la capa.
+
+—Vuelve pronto —le dice—. Prometido.
+
+—Prometido.
+
+Lido le da una palmada en la espalda a Bell que casi lo tira de cara al musgo. Rei le roza la mejilla con la punta de un ala. Fia da una vuelta en el aire por encima de su cabeza. El goblin le muestra los dientes, que en goblin quiere decir algo bueno. Asterius, a un costado, no se mueve, pero lo mira hasta el final.
+
+Bell se pone de pie. Te agarra del brazo.
+
+El piso 20 desaparece.
+
+[00:37 · Hearthstone Manor.]
+
+La sala de antes. La lámpara de piedra mágica, la chimenea con las brasas, las cortinas corridas. Afuera siguen las campanas.
+
+Hestia está de pie en el medio de la alfombra, exactamente donde la dejaste, como si no se hubiera movido ni un centímetro en diez minutos. Ve a Bell aparecer. Se le cae algo de la cara, todo junto, de golpe.
+
+—¡BELL!
+
+Cruza la sala corriendo y se le cuelga del cuello. Bell tambalea igual que con Wiene.
+
+—¡Diosa! ¡Estoy bien, estoy bien! —Se ríe, con los ojos todavía rojos—. ¡Están todos en casa! ¡En el piso veinte! ¡Todos, diosa! ¡Asterius también!
+
+La chica de la mochila sale de atrás del sillón. El pelirrojo suelta un silbido largo. La chica de la katana se deja caer sentada en el piso. La muchacha zorro llora otra vez.
+
+Hestia se despega de Bell. Se vuelve hacia ti. Se seca los ojos con la palma de la mano, rápido, y se pone derecha, con las manos en la cintura, tratando de parecer una diosa.
+
+No le sale. Le tiembla la boca.
+
+—Facundo Morelli —dice—. En diez minutos hiciste lo que yo no pude hacer en dos días, ni con Ouranos, ni con Fels, ni con nadie. —Toma aire—. No sé de dónde vienes. No voy a preguntarte. Pero en esta casa hay un lugar para ti, para cuando quieras.
+
+Mira hacia las cortinas. Afuera, una voz vuelve a gritar tu descripción por los techos.
+
+Frunce el ceño.
+
+—Aunque por ahora, toda la Familia Loki te está buscando. —Se cruza de brazos—. ¿Tienes dónde pasar la noche?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1079 · DANMACHI · NOCHE 2 · 00:38      ║
+║ Orario · Hearthstone Manor, la sala          ║
+║ NIVEL 28 · EXP 263.900/280.000               ║
+║ FRAGMENTOS 108.940 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA                    ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 2 00:38, sala de la Hearthstone Manor. Bell volvió a casa. Hestia agradece, le ofrece un lugar en su casa y pregunta si tiene dónde pasar la noche (lo busca la Familia Loki). Facundo puede responder.

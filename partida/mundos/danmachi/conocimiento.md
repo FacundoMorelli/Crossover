@@ -34,3 +34,4 @@ Formato: PERSONAJE · QUÉ SABE · DESDE CUÁNDO · CÓMO SE ENTERÓ
 - Familia Hestia · T1076 · Facundo tiene una misión (Hestia confirma: verdad); cree que los Xenos no son monstruos ni merecen morir. Wiene se va con él a la Mazmorra.
 - Bell, Wiene, Asterius y los 14 Xenos · T1077 · vieron a Facundo llevarlos a todos, de una vez, al piso 20 (teletransporte múltiple). Asterius sintió que no podía mover la cabeza cuando Facundo le agarró el cuerno.
 - Hestia · T1077 · Bell se fue con Facundo y Wiene; prometió volver antes del amanecer.
+- Hestia, Lili, Welf, Mikoto, Haruhime · T1079 · por Bell: los Xenos están todos en el piso 20, Asterius incluido; Facundo los llevó. Vieron a Bell aparecer con Facundo.

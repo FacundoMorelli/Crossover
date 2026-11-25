@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: cariño (T1078).
 ENCUENTROS:
 - T1067 · Noche 1 23:16 · Sótano de la panadería quemada: Facundo aparece con Gros.
 DIÁLOGOS CLAVE:
+- T1079 · "Vuelve pronto. Prometido."
 - T1077 · "Estamos en casa, Facundo. Estamos en casa."
 - T1076 · "Te la devuelvo. Para que no tengas frío tú." "Me voy a casa, Bell. Abajo. Con todos. Facundo nos lleva."
 - T1075 · "¡Facundo nos encontró, Bell! Curó a Rei. Curó a Fia. ¡Y nos va a llevar a casa! ¡Sin que nadie nos vea!"

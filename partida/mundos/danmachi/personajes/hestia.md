@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: confía en él (T1076).
 ENCUENTROS:
 - T1074 · Noche 2 00:23 · Sala de la Hearthstone Manor: Facundo aparece con Wiene.
 DIÁLOGOS CLAVE:
+- T1079 · "Facundo Morelli. En diez minutos hiciste lo que yo no pude hacer en dos días, ni con Ouranos, ni con Fels. No sé de dónde vienes. No voy a preguntarte. Pero en esta casa hay un lugar para ti, para cuando quieras." "Toda la Familia Loki te está buscando. ¿Tienes dónde pasar la noche?"
 - T1077 · "¡Bell! ¡Vuelve antes del amanecer! ¡Y vuelve entero, ¿me oíste?!"
 - T1076 · "Verdad. Todo. Hasta lo de la misión." "Dos días sin que nadie, ni un mortal, ni un dios, dijera lo que acabas de decir tú."
 - T1075 · "Es verdad. Las dos cosas." "¿Es verdad? ¿Y por qué lo harías? Nadie en esta ciudad mueve un dedo por ellos. Solo mi Bell. ¿Qué ganas tú, Facundo Morelli?"

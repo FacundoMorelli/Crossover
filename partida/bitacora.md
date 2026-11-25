@@ -1077,3 +1077,4 @@ T1075 · DanMachi · Hearthstone Manor · "Facundo Morelli, un viajero." Hestia:
 T1076 · DanMachi · Hearthstone Manor · "No merecen que los maten." Hestia: "Verdad. Todo." Wiene devuelve la capa a Bell. Bell: "¿Puedo ir con ustedes? Y está Asterius."
 T1077 · DanMachi · Piso 20 · Recoge a Asterius (del cuerno), junta a todos y los lleva al piso 20. MISIÓN DE MUNDO CUMPLIDA. 9 mundos. Asterius a Bell: "Voy a volver a buscarte." Wiene: "Estamos en casa."
 T1078 · DanMachi · Piso 20 · Acaricia a Wiene. Lido le regala su escama. Gros: "Eras lo que decías." Bell tiene que volver.
+T1079 · DanMachi · Piso 20 → Hearthstone Manor · Despedida Bell-Wiene ("Prometido"). Bell en casa. Hestia: "En esta casa hay un lugar para ti. ¿Tienes dónde pasar la noche?"

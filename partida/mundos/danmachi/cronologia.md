@@ -33,3 +33,4 @@
 - Noche 2 00:27 · (T1076) Wiene se despide de Bell en la Hearthstone Manor y le devuelve la capa.
 - Noche 2 00:28 · (T1077) Facundo encuentra a Asterius en un depósito derrumbado al borde de Dédalo y lo lleva con los demás.
 - Noche 2 00:30 · (T1077) Facundo lleva a los 15 Xenos (y a Bell) al piso 20. MISIÓN DE MUNDO CUMPLIDA. CAMBIO TOTAL del vol. 11: sin escaramuza, sin Ais vs Wiene, sin duelo público Bell vs Asterius; la ciudad no ve el heroísmo de Bell (su reputación sigue mal, por ahora).
+- Noche 2 00:37 · (T1079) Facundo devuelve a Bell a la Hearthstone Manor. Hestia le ofrece un lugar en su casa.
