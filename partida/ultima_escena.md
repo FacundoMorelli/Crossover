@@ -3,76 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1296)
-suelto mi haki del rey y noqueo a todos los enemigos, bueno, quieren que les saque esa semilla que tienen dentro todos?
-
-## RESPUESTA 1 (T1296)
-
-> —Bueno, ¿quieren que les saque esa semilla que tienen dentro, a todos?
-
-Sueltas el Haki del Rey.
-
-No hace ruido. Sale de ti como una ola que no moja, y se mete por todos los pasillos de la base a la vez, por las rocas flotantes, por las escaleras talladas, por las grietas del techo.
-
-Eliges a quién toca.
-
-En el pasillo del este, una mujer de pelo largo con un ojo marcado, a punto de soltar un espíritu de fuego, se queda tiesa y se cae de cara. En una galería más arriba, un muchacho con cara de aburrido que copiaba hechizos con los dedos abre la boca y se desploma. Más adentro, una decena de magos con túnicas del Ojo, escondidos en los pasillos, caen uno detrás de otro como fichas de dominó.
-
-Los Caballeros Reales que estaban peleando contra ellos se quedan con los grimorios abiertos, apuntando a nada.
-
-[Haki del Rey: todos los enemigos de la base, inconscientes.]
-
-[Rivales vencidos: la invocadora de fuego, el copiador de los dedos y once magos del Ojo. +400 Fragmentos.]
-
-[+900 EXP.]
-
-En la caverna, el fuego de Mereoleona se agita solo, como si hubiera pasado un viento. Asta se tambalea, aunque la ola no era para él. Zora levanta la cabeza de golpe, pálido.
-
-Yami es el único que no se mueve. Se saca el cigarrillo de la boca.
-
-—Eso no fue mana —dice, despacio.
-
-Les haces la pregunta.
-
-Silencio.
-
-Mereoleona te mira con el ceño fruncido, como si le hubieras hablado en otro idioma.
-
-—¿Semilla? —repite—. ¿Qué semilla?
-
-Asta se mira el pecho, se toca la panza, se palpa los brazos.
-
-—¡¿Tengo algo adentro?! ¡¿Es contagioso?!
-
-Zora no dice nada, pero se lleva la mano al pecho sin darse cuenta.
-
-Yami te mira de costado.
-
-—Ninguno de los que estamos acá tiene nada raro —dice—. Lo sentiría. Hablas de los de los pasillos, ¿no? —Exhala humo—. Del enano de los rayos.
-
-Los cuatro te están mirando. Ellos no tienen la semilla. Los que la tienen están lejos, en los pasillos, y no te oyeron.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1296 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 294.280/320.000 · 12:38       ║
-║ FRAGMENTOS 111.657 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1297)
+## COMANDO 1 (T1297)
 si
 
-## RESPUESTA 2 (T1297)
+## RESPUESTA 1 (T1297)
 
 > —Sí.
 
@@ -111,10 +45,10 @@ Yami gira la cabeza hacia ti despacio.
 
 ---
 
-## COMANDO 3 (T1298)
+## COMANDO 2 (T1298)
 si. simula varios dias sacandole lo de adentro a todos
 
-## RESPUESTA 3 (T1298)
+## RESPUESTA 2 (T1298)
 
 > —Sí.
 
@@ -197,7 +131,59 @@ Todo el comedor se queda en silencio. Charmy abraza su olla.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1299)
+eh esta bien
+
+## RESPUESTA 3 (T1299)
+
+> —Eh... está bien.
+
+Mereoleona sonríe. No es una sonrisa linda. Es la de un león que vio que la presa no corre.
+
+Se da vuelta y sale. No espera para ver si la sigues.
+
+Detrás de ti, el comedor entero se levanta a la vez. Las sillas raspan el piso. Magna ya está gritando apuestas. Vanessa agarra una botella por el cuello y sale con ella. Charmy no suelta la olla, pero sale igual. Luck pasa a tu lado corriendo, con los ojos brillantes.
+
+—¡Si ganas tú, después me toca a mí!
+
+Kiato tira de la manga de su abuela para que salgan más rápido. Kahono lo sigue tapándose la boca.
+
+Yami sale último, con el vaso todavía en la mano. Se apoya en el marco de la puerta caída.
+
+Afuera, en el claro delante de la base, la noche está fresca. La luna alumbra la hierba pisoteada y los escombros del ala rota. Los árboles del bosque están quietos.
+
+Mereoleona se para en el medio del claro, a veinte metros. Se saca la capa y la tira al suelo.
+
+El aire alrededor de ella empieza a temblar. Primero un brillo naranja en los brazos. Después llamas que le suben por los hombros, por el cuello, hasta el pelo, que se le levanta como una corona encendida. La hierba bajo sus pies se pone negra en un círculo.
+
+[Mereoleona: Mana Zone, fuego. Va en serio.]
+
+—En la caverna me robaste la presa —dice—. Hoy no me la vas a robar, porque la presa eres tú.
+
+Dobla las rodillas. Los brazos se le cubren de dos garras gigantes de fuego, cada una más grande que un carro.
+
+—¡Y no te atrevas a contenerte!
+
+Sale disparada hacia ti. El claro se ilumina como de día. La primera garra viene de arriba, directo a tu cabeza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1299 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · claro             ║
+║ NIVEL 29 · EXP 294.280/320.000 · D4 21:12    ║
+║ FRAGMENTOS 111.657 · 0 yul                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, Día 4 21:10, comedor de los Toros Negros. 47 semillas sacadas. Mereoleona desafía a Facundo a pelear afuera. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, Día 4 21:12, claro de los Toros Negros. Mereoleona ataca con una garra de fuego hacia la cabeza de Facundo. Todos miran. Facundo puede actuar.
