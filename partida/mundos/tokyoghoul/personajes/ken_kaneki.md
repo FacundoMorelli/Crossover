@@ -1,7 +1,7 @@
 NOMBRE: Ken Kaneki (se presenta T1149)
 AFILIACIÓN: —
 RANGO: —
-PODER VISTO POR FACUNDO: Cuatro tentáculos rojos (kagune) desde la parte baja de la espalda; una armadura roja segmentada tipo ciempiés sobre hombro, brazo derecho y media cara; ojo izquierdo negro con iris rojo. Kagune rinkaku de 4 tentáculos en entrenamiento (T1201).
+PODER VISTO POR FACUNDO: Cuatro tentáculos rojos (kagune) desde la parte baja de la espalda; una armadura roja segmentada tipo ciempiés sobre hombro, brazo derecho y media cara; ojo izquierdo negro con iris rojo. Kagune rinkaku de 4 tentáculos en entrenamiento (T1201). Kakuja completo (T1204-T1205): seis tentáculos armados con colas de ciempiés, armadura y máscara; controlado.
 EDAD: ~20.
 FÍSICO: (T1191: camisa blanca grande prestada, pelo húmedo, sin sangre.) Flaco, pelo blanco, uñas negras, ropa negra ajustada destrozada.
 PERSONALIDAD: Fuera de control, llorando: "No quiero comer más."
@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1205 · "Yo. Yo. Yo." "No me perdí. Ni un segundo. Me acordé de todo." "¿Lo hice bien?"
 - T1204 · (en kakuja, voz doble) "Estoy aquí. Estoy aquí. Sigo siendo yo."
 - T1203 · "Lo que sea."
 - T1201 · "No grita. Siempre gritaba. Pedía. Ahora está... callado."
@@ -42,4 +43,4 @@ DIÁLOGOS CLAVE:
 - T1148 · "No. Uno más no. No quiero... no quiero comer más..."
 QUÉ SABE DE FACUNDO: (T1193) Facundo le confirmó que Yoshimura es el Búho. Le preguntó su nombre (T1149); salvó a Shinohara; quiere llevarlo a un lugar seguro (T1153).
 QUÉ PODERES VIO: La aparición; la curación de Shinohara (T1151). Kagune de Ceniza en las cuatro formas, sin cambio en los ojos (T1158).
-ESTADO: En Anteiku. SIN HAMBRE DE GHOUL y sin asco a la comida humana (T1166, Transfiguración Ociosa); conserva el kagune.
+ESTADO: Sin hambre de ghoul (T1166). Controla el kakuja (T1205). Copiado por Facundo (T1205). Camisa prestada en jirones.

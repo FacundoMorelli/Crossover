@@ -81,3 +81,4 @@
 - Kaneki, Touka, Yomo · T1202 · vieron a Facundo con el Ultra Instinto Dominado (pelo plateado, brillo plateado, aura fina) esquivar todo con movimientos mínimos. Kaneki notó que pudo haberlo tocado y no lo hizo.
 - Kaneki, Touka, Yomo · T1203 · apuesta de Facundo: quien lo toque elige la comida que quiera.
 - Facundo · T1204 · sintió (Haki) el kakuja de Kaneki formarse: armadura segmentada de ciempiés sobre hombro, brazo derecho, cuello y cara; tentáculos más gruesos. Kaneki consciente.
+- Kaneki, Touka, Yomo · T1205 · Kaneki usó el kakuja completo sin perder el control por primera vez y lo deshizo a voluntad. (La copia no se ve ni se nota.)

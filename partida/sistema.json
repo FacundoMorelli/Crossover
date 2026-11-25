@@ -1,11 +1,11 @@
 {
-  "turno": 1204,
+  "turno": 1205,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "otoño (TG cap. ~105), mañana siguiente al asalto a la mansión de Kanou",
-  "hora": "13:08",
+  "hora": "13:12",
   "edad": 18,
   "nivel": 28,
-  "exp": 275930,
+  "exp": 276530,
   "exp_siguiente_nivel": 280000,
   "fragmentos": 109306,
   "plata_local": {
@@ -81,7 +81,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 91,
+  "energia_actual_pct": 90,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1055,6 +1055,21 @@
         "Todo lo que One For All despierta en su canon (R2), sin el daño al cuerpo del original",
         "Izuku conserva el suyo"
       ]
+    },
+    {
+      "poder": "Kagune de Ken Kaneki (rinkaku, kakuja y todas sus etapas)",
+      "de": "Ken Kaneki",
+      "mundo": "tokyoghoul",
+      "cuando": "T1205, galería del Distrito 24, ~13:11",
+      "mision": "Que Kaneki saque su kakuja completo peleando contra ti y no pierda el control ni un segundo (cumplida: tres minutos en kakuja de seis tentáculos, consciente; lo deshizo él solo)",
+      "incluye": [
+        "Kagune rinkaku (tentáculos) con regeneración",
+        "Kakuja (armadura de ciempiés) y todas sus formas",
+        "Todo lo que el kagune de Kaneki llega a hacer en su canon (R2): las formas del Rey de un Ojo y lo que venga después",
+        "Sin hambre, sin pérdida de control, sin efectos secundarios",
+        "Dominio total e inmediato",
+        "Kaneki conserva el suyo"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1428,13 +1443,6 @@
       "mision": "Ganarle a Itsuka Kendo una pulseada con su Puño Grande.",
       "dificultad": "BAJA",
       "emitida": "T1113 (pedido del jugador: las que vio)"
-    },
-    {
-      "poder": "Kagune de Ken Kaneki (rinkaku, kakuja y todas sus etapas por R2)",
-      "mundo": "tokyoghoul",
-      "mision": "Que Kaneki saque su kakuja completo en un combate contra ti y no pierda el control ni un segundo.",
-      "dificultad": "MEDIA",
-      "emitida": "T1201"
     },
     {
       "poder": "Kagune de Touka Kirishima (ukaku y todas sus etapas por R2)",

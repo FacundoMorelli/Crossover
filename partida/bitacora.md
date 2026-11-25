@@ -1203,3 +1203,4 @@ T1201 · TG · Distrito 24 · Empieza el entrenamiento. Tasación de Kaneki y To
 T1202 · TG · Distrito 24 · Ultra Instinto Dominado: esquiva todo sin contraatacar. Touka carga cientos de cristales; Kaneki por la izquierda.
 T1203 · TG · Distrito 24 · Apuesta: quien lo toque, elige comida. Ataques coordinados. Touka apaga la llama: oscuridad.
 T1204 · TG · Distrito 24 · Sigue esquivando a oscuras. Touka agotada. Kaneki saca el kakuja sin perder el control: "Sigo siendo yo."
+T1205 · TG · Distrito 24 · Kaneki en kakuja completo, controlado, tres minutos. COPIA el kagune de Kaneki (+600 EXP). "¿Lo hice bien?"
