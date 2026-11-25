@@ -1068,3 +1068,4 @@ T1066 · DanMachi · Dédalo · Bete y cinco de la patrulla inconscientes. Gros:
 T1067 · DanMachi · Sótano de la panadería quemada · Teletransporte con Gros. Lido protege a Wiene: "¿Quién diablos eres, compañero?" Wiene: "¿Viene Bell?"
 T1068 · DanMachi · Sótano · "Puedo llevarlos sin que nadie me vea." Lido acepta: "Todos." Wiene: "¿Puedo ver a Bell antes? Para decirle adiós."
 T1069 · DanMachi · Sótano · "Está bien." Wiene feliz; Kase le toca los dedos. Lido: "¿Primero los demás, o primero Bellucchi?"
+T1070 · DanMachi · Campanario roto · Teletransporte con Lido, Wiene y Gros. Rei, ala rota y sin voz: "Agua... por favor..."

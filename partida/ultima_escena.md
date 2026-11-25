@@ -3,77 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1067)
-lo toco y me teletransporto hacia lido
-
-## RESPUESTA 1 (T1067)
-
-> lo toco y me teletransporto hacia lido
-
-Lo alcanzas en el aire, sobre las chimeneas, y le apoyas la mano en el lomo de piedra, entre las alas.
-
-—¿Qué ha...?
-
-No termina.
-
-Aparecen en la oscuridad.
-
-Huele a ceniza vieja, a harina quemada, a humedad. Un sótano de piedra, bajo, con vigas carbonizadas en el techo y el piso cubierto de restos negros de lo que alguna vez fueron bolsas de harina. Por una rendija alta, a ras de la calle, entra un hilo de luz de luna. En un rincón hay un horno de ladrillo derrumbado.
-
-Gros cae sobre el piso con las alas abiertas y golpea una pila de cenizas que se levanta en una nube gris. Tose. Mira alrededor, desorientado.
-
-—¿Cómo...?
-
-Algo se mueve en el rincón del horno.
-
-Una sombra grande se levanta de golpe, y dos hojas curvas brillan en la luz de la luna. Es un hombre lagarto. Alto, de escamas rojas, con una cola gruesa que barre las cenizas detrás de él, una armadura de cuero gastada y dos cimitarras, una en cada mano, apuntándote al cuello.
-
-Detrás de él, pegada a la pared, hay una chica. Pequeña, de piel muy pálida, casi azulada, con el pelo largo de un celeste claro, escamas en los brazos y una cola fina que se le enrosca en las piernas. En la frente le brilla una gema roja. Abraza con las dos manos una capa marrón demasiado grande para ella, como si fuera una manta. Tiene los ojos dorados enormes, llenos de miedo.
-
-—¡Atrás! —El lagarto no se mueve de delante de ella—. ¡Un paso más y...!
-
-Ve a Gros. Se queda quieto.
-
-—¿Gros? —Las cimitarras bajan un dedo, nada más—. ¿Qué haces aquí? ¿Quién es este? ¿Cómo entraron? ¡La puerta está tapiada!
-
-—No entramos por la puerta —gruñe Gros, sacudiéndose la ceniza de las alas—. Me tocó la espalda y aparecimos aquí. Así.
-
-Lido te mira. Los ojos de reptil, amarillos, te recorren de arriba abajo: el pelo, la cicatriz, el gato.
-
-Detrás de él, la chica de la gema se asoma apenas por un costado de su cola.
-
-—¿Bell...? —dice, con una voz chiquita, como de nena—. ¿Viene Bell?
-
-Lido no le contesta a ella. Sigue mirándote a ti, con las cimitarras quietas a la altura de tu cuello.
-
-—Gros no confía en ningún humano —dice despacio—. Ni en Bellucchi confió del todo al principio. —Una pausa—. Y te trajo hasta aquí.
-
-Ladea la cabeza escamosa.
-
-—¿Quién diablos eres, compañero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1067 · DANMACHI · NOCHE 1 · 23:16      ║
-║ Orario · sótano de la panadería quemada      ║
-║ NIVEL 28 · EXP 253.900/280.000               ║
-║ FRAGMENTOS 108.640 · 0 valis                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
-║ a la Mazmorra sin que muera ninguno          ║
-║ OBJETIVO: Lido y Wiene                       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1068)
+## COMANDO 1 (T1068)
 me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
 
-## RESPUESTA 2 (T1068)
+## RESPUESTA 1 (T1068)
 
 > me llamo Facundo Morelli, vengo a llevarlos a la mazmorra, asi como entre a este lugar, puedo llevarlos sin que nadie me vea
 
@@ -129,10 +62,10 @@ Lido le pone una garra en el hombro. No dice nada.
 
 ---
 
-## COMANDO 3 (T1069)
+## COMANDO 2 (T1069)
 esta bien
 
-## RESPUESTA 3 (T1069)
+## RESPUESTA 2 (T1069)
 
 > esta bien
 
@@ -184,4 +117,63 @@ Se queda callado. Después se vuelve hacia ti, con los brazos cruzados sobre la 
 
 ---
 
-ESTADO AL CIERRE: DanMachi, Noche 1 23:19, sótano de la panadería quemada. Facundo le prometió a Wiene que verá a Bell. Lido pregunta si primero juntan a los demás Xenos o primero van con Bell (Hearthstone Manor vigilada). Facundo decide.
+## COMANDO 3 (T1070)
+primero los demás, vamos con Rei
+
+## RESPUESTA 3 (T1070)
+
+> primero los demás, vamos con Rei
+
+> —Primero los demás. Vamos con Rei.
+
+Lido asiente.
+
+—Agárrense de él —le dice a Wiene y a Gros—. No me pregunten cómo, pero agárrense.
+
+Wiene te agarra de la manga del sobretodo con las dos manos. Gros te apoya una garra de piedra en el hombro libre, el que no tiene a Kase, con cara de que le duele hacerlo. Lido te pone la mano escamosa en la espalda.
+
+El sótano desaparece.
+
+Aparecen en lo alto.
+
+El viento les pega de golpe, frío, desde todas las direcciones. Están en la cima de un campanario de piedra, en un cuarto cuadrado sin paredes, con cuatro arcos abiertos a la noche y un techo puntiagudo de tejas rotas. En el centro, donde alguna vez colgó una campana, quedó solo el yugo de madera podrida y una cuerda cortada. Abajo, por los arcos, se ve Dédalo entera: miles de techos y escaleras bajo la luna, puntos de antorchas moviéndose entre los callejones como luciérnagas. Y a lo lejos, blanca, la torre de Babel.
+
+Wiene suelta un gritito y se abraza a tu pierna.
+
+En el rincón, contra la base de uno de los arcos, hay algo acurrucado.
+
+Al principio parece un montón de plumas. Después se mueve. Es una mujer, o la mitad de arriba de una mujer: pelo largo, verde azulado, enredado y sucio, cara fina, piel pálida. Donde tendrían que estar los brazos tiene alas de ave, enormes, de plumas celestes y blancas, que cierra alrededor del cuerpo como una manta. Las piernas terminan en garras de pájaro. Tiene los labios partidos, secos. Una de las alas cuelga torcida, en un ángulo que no es el suyo.
+
+Abre los ojos. Son de un azul profundo, como agua de mar.
+
+Ve a Lido. Ve a Gros. Ve a Wiene. Te ve a ti.
+
+Se encoge contra la piedra, con el ala sana delante de la cara, y abre la boca. No sale ninguna voz. Lo intenta otra vez. Le sale un susurro ronco, roto, de garganta seca.
+
+—Lido... —Tose. Le duele—. ¿Quién... es...?
+
+—Un amigo, Rei —dice Lido, arrodillándose a su lado—. Creo. Viene a llevarnos a casa.
+
+Rei te mira por encima del ala, con los ojos azules llenos de miedo y de cansancio. Se pasa la lengua por los labios partidos. No le sirve de nada.
+
+—Agua... —susurra—. Por favor... un poco de agua...
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1070 · DANMACHI · NOCHE 1 · 23:21      ║
+║ Orario · Dédalo, campanario roto             ║
+║ NIVEL 28 · EXP 253.900/280.000               ║
+║ FRAGMENTOS 108.640 · 0 valis                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que todos los Xenos vuelvan ║
+║ a la Mazmorra sin que muera ninguno          ║
+║ OBJETIVO: Rei                                ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: DanMachi, Noche 1 23:21, campanario roto de Dédalo. Facundo llegó con Lido, Wiene y Gros. Rei, deshidratada y con un ala rota, pide agua. Facundo puede actuar.
