@@ -3,65 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1125)
-a los que estaban armando lo que les dije antes, dejo que en sakaime solo pasen los heroes y los buenos
-
-## RESPUESTA 1 (T1125)
-
-> —A los que estaban armando lo que les dije antes.
-
-Mientras hablas, apoyas otra vez la punta de Sakaime en la frontera. La línea plateada de la hoja late una vez.
-
-[Recinto modificado: deja pasar el aire y a los héroes y las personas buenas. Nada más.]
-
-Del otro lado de la línea, Nezu se queda callado un segundo.
-
-—Deika —dice despacio—. Y la fábrica bajo el hospital de Jaku.
-
-Lo escuchas moverse, papeles, una silla que rueda.
-
-—Señor Morelli, en Deika hay decenas de miles de personas. Usted mismo me lo dijo. Se mueven como un ejército. Y no todas son soldados: hay familias, comerciantes, niños que no saben nada de lo que hacen sus padres. —La voz se le pone firme—. Si va a ir, vaya con cuidado. La mitad de esa ciudad no sabe que está en una guerra.
-
-Una pausa.
-
-—Y la fábrica... —Baja la voz—. Si usted sintió docenas de Nomu dormidos, ese viejo los va a despertar en cuanto sienta que algo anda mal. Todos a la vez.
-
-Escuchas otra voz al fondo, del lado de Nezu. Grave, cansada. Aizawa.
-
-—...ya estoy saliendo, director. ¿Dónde?
-
-—Montañas del noroeste —le contesta Nezu, tapando el teléfono a medias—. Ya te paso las coordenadas. Lleva a Present Mic. Y a Ectoplasm. Y que la Comisión mande el transporte grande.
-
-Vuelve a hablarte.
-
-—Se lo pregunto otra vez porque es importante, señor Morelli. —Muy serio—. El ser colosal. ¿Dónde está? ¿Mi equipo se lo va a cruzar en el camino?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1125 · BOKU NO HERO · DIC. · 12:10     ║
-║ Montañas del noroeste · afuera de la cabaña  ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Sakaime: en la mano (Shikai)                 ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Llamada en curso: Nezu                       ║
-║ Gigantomachia: inconsciente en el valle      ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: Deika y la fábrica de Jaku         ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1126)
+## COMANDO 1 (T1126)
 está inconsciente en el valle, me teletransporto al hospital primero
 
-## RESPUESTA 2 (T1126)
+## RESPUESTA 1 (T1126)
 
 > —Está inconsciente en el valle.
 
@@ -122,10 +67,10 @@ La mano arrugada se le va, muy despacio, como sin querer, hacia un botón rojo g
 
 ---
 
-## COMANDO 3 (T1127)
+## COMANDO 2 (T1127)
 uso el haki del rey en todo el laboratorio
 
-## RESPUESTA 3 (T1127)
+## RESPUESTA 2 (T1127)
 
 > uso el haki del rey en todo el laboratorio
 
@@ -176,4 +121,59 @@ El botón rojo sigue ahí, bajo su tapa transparente. Sin apretar.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:11, laboratorio de Jaku. Garaki inconsciente en el piso, botón rojo sin apretar. 64 Nomu en tanques con actividad cerebral mínima; pitido de alarma suave. Facundo puede actuar.
+## COMANDO 3 (T1128)
+llamo a Nezu y le digo que mande gente al hospital, quieren que destruya a los nomus o que hago?
+
+## RESPUESTA 3 (T1128)
+
+> llamo a Nezu
+
+Contesta al primer tono.
+
+—¿Señor Morelli?
+
+> —Manden gente al hospital. ¿Quieren que destruya a los Nomu, o qué hago?
+
+Silencio. Del otro lado se escucha la respiración de Nezu, rápida, y un ruido de papeles que se detiene de golpe.
+
+—¿Ya está en Jaku? —dice—. Usted me cortó hace... —Una pausa—. No importa. No importa.
+
+Respira hondo.
+
+—No. No los destruya. Por favor. —La voz aguda le sale muy firme—. Escúcheme bien, señor Morelli. Los Nomu que capturamos en Hosu y en Kamino... los analizamos. Eran personas. Gente con nombre, con familia, que alguien desapareció y después convirtió en eso. No sabemos si queda algo de ellos ahí adentro. Probablemente no. —Se le quiebra apenas la voz—. Pero no nos toca a nosotros decidirlo así. Y además, cada uno de esos cuerpos es una prueba. Para saber quiénes eran. Para devolvérselos a alguien.
+
+Lo escuchas teclear, rápido.
+
+—Voy a llamar a Tsukauchi y a la policía de la prefectura. Y a la agencia de Endeavor, que es la más cercana a Jaku. —Pausa—. Arriba de ese laboratorio hay un hospital lleno de pacientes, señor Morelli. Enfermos, ancianos, recién nacidos. Si alguno de esos Nomu despierta, va a ser una masacre.
+
+Las teclas se detienen.
+
+—¿Cómo están ahora? ¿Y el viejo?
+
+Antes de que contestes, agrega, más despacio:
+
+—¿Puede quedarse ahí hasta que llegue Endeavor? Unos veinte minutos, como mucho. O si tiene que irse... ¿puede hacer con ese laboratorio lo mismo que hizo con la cabaña?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1128 · BOKU NO HERO · DIC. · 12:12     ║
+║ Jaku · laboratorio bajo el hospital          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Licencia de Héroe Profesional: ACTIVA        ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ Llamada en curso: Nezu                       ║
+║ Garaki: inconsciente · 64 Nomu: sin reacción ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Asegurar el laboratorio            ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:12, laboratorio de Jaku, en llamada con Nezu. Nezu: no destruir a los Nomu (eran personas, son pruebas). Endeavor, Tsukauchi y la policía en camino (~20 min). Pregunta cómo están el viejo y los Nomu, y si Facundo se queda o encierra el laboratorio. Facundo puede responder.

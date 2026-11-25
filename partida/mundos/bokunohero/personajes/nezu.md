@@ -9,6 +9,7 @@ RELACIÓN CON FACUNDO: interés; propuesta de trabajo (T1095).
 ENCUENTROS:
 - T1095 · Diciembre 10:40 · Oficina del director: lo recibe con All Might.
 DIÁLOGOS CLAVE:
+- T1128 · "No los destruya. Eran personas. Cada uno de esos cuerpos es una prueba, para devolvérselos a alguien." "¿Puede hacer con ese laboratorio lo mismo que hizo con la cabaña?"
 - T1125 · "La mitad de esa ciudad no sabe que está en una guerra." "El ser colosal. ¿Dónde está? ¿Mi equipo se lo va a cruzar?"
 - T1124 · "La Comisión buscó a la Liga durante meses. Y usted salió de mi oficina hace cinco minutos." "¿Dónde está ese ser ahora? ¿Y a quiénes se refiere con \"los demás\"?"
 - T1116 · "A Tartarus no se entra a visitar." "¿A él? ¿O a los que todavía están libres?"
