@@ -3,74 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1288)
-noqueo a william, bueno bueno
-
-## RESPUESTA 1 (T1288)
-
-> noqueo a William
-
-Las tres espadas de luz no llegan a salir disparadas.
-
-Estás delante de él antes de que bajen la mano. Le das un golpe seco con el canto de la mano en el costado del cuello, justo debajo de la oreja, donde el pelo blanco largo todavía está terminando de crecer.
-
-Los ojos de otro color se le abren mucho. Una vez. Después se le ponen en blanco.
-
-Las tres espadas de luz se apagan en el aire como velas a las que alguien sopla. El grimorio de cuatro hojas deja de flotar y cae sobre la piedra con un golpe sordo, cerrado. El cuerpo se dobla hacia adelante y lo agarras antes de que se golpee la cara contra la muralla.
-
-Lo bajas despacio. Queda boca arriba, con el pelo blanco desparramado sobre la piedra gris como una capa. La marca de la frente parpadea una vez, débil, y se apaga.
-
-Respira.
-
-[Rival vencido: el otro alma de William. +1.000 Fragmentos.]
-
-[+2.000 EXP.]
-
-> —Bueno, bueno.
-
-El viento silba entre las almenas.
-
-Yami baja la katana despacio. Mira el cuerpo en el suelo. Mira el grimorio de cuatro hojas. Te mira a ti.
-
-—¿Lo mataste? —pregunta, ronco.
-
-Lo dice sin acusar. Pero se le tensan los nudillos en la empuñadura.
-
-Julius dio un paso adelante sin darse cuenta. El libro, en su mano, dejó de pasar hojas. Está abierto en una página en blanco. Se queda mirando a William, tirado en la muralla con el pelo de otro, y por primera vez desde que llegaste, la sonrisa curiosa se le borra del todo.
-
-—No —dice Julius, en voz baja, antes de que contestes—. Está vivo. Los dos están vivos. —Traga—. Lo siento. Puedo verlo.
-
-Se agacha junto a William. Le aparta un mechón de pelo blanco de la cara con un cuidado que no le viste a nadie en este reino.
-
-Yami lo mira desde arriba.
-
-—Viejo —dice. Muy bajo—. ¿Qué carajo era eso?
-
-Julius no levanta la vista. Sigue agachado junto a William, con la mano todavía sobre su pelo.
-
-—Supongo que les debo una explicación —dice—. A los dos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1288 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · muralla oeste                      ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:22       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1289)
+## COMANDO 1 (T1289)
 te escuchamos
 
-## RESPUESTA 2 (T1289)
+## RESPUESTA 1 (T1289)
 
 > —Te escuchamos.
 
@@ -121,10 +57,10 @@ Se inclina un poco hacia ti.
 
 ---
 
-## COMANDO 3 (T1290)
+## COMANDO 2 (T1290)
 eh no se, tu eres el rey mago, es tu responsabilidad, a mi me da igual lo que quieran hacer con el
 
-## RESPUESTA 3 (T1290)
+## RESPUESTA 2 (T1290)
 
 > —Eh... no sé. Tú eres el Rey Mago, es tu responsabilidad. A mí me da igual lo que quieran hacer con él.
 
@@ -171,7 +107,73 @@ Le da una pitada larga. Suelta el humo.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1291)
+voy con vos, te acompaño a ayudarlos, nos teletransportamos
+
+## RESPUESTA 3 (T1291)
+
+> —Voy contigo. Te acompaño a ayudarlos.
+
+Yami se saca el cigarro de la boca. Te mira un segundo. No dice gracias. No hace falta. Asiente una vez, corto, y te apoya él mismo la mano en el hombro.
+
+Julius, con la esfera dorada flotando a su lado, levanta la mano en un saludo.
+
+—Tráiganlos a todos —dice—. Yo me encargo de esto.
+
+> nos teletransportamos
+
+Buscas.
+
+Al oeste. Lejos. Más allá de las llanuras, en una zona donde el maná del mundo se tuerce, como el agua alrededor de un remolino. Presencias. Muchas. Desparramadas en grupos chicos por un lugar enorme y laberíntico. Algunas las conoces.
+
+Una, ruidosa, terca, que no se rinde nunca, sin una gota de maná: Asta.
+
+Te mueves.
+
+El aire cambia de peso. Pesa menos. Las piedras flotan.
+
+Es una caverna enorme, más grande que una catedral, con el techo perdido en la oscuridad. Rocas del tamaño de casas flotan en el aire, quietas, girando despacio, conectadas por puentes de piedra y escaleras talladas que no llevan a ningún lado. Hay marcas raras grabadas en las paredes, círculos con símbolos que brillan apenas. Huele a piedra, a polvo y a algo quemado.
+
+Y en el centro, sobre una roca flotante grande como una plaza, hay una pelea.
+
+Una mujer alta, de pelo rojo larguísimo y salvaje, con una túnica de Caballero Real hecha jirones, está envuelta en un aura de fuego que se extiende a su alrededor como una zona viva. Tiene los brazos convertidos en dos garras de llamas. Mereoleona. Se ríe, a carcajadas, con la cara llena de sangre.
+
+Delante de ella, un muchacho flaco, de pelo claro, con una sonrisa burlona, que cambia de magia a cada segundo: fuego, rayo, una luz negra rara, cada vez una distinta, como si se probara ropa ajena.
+
+Y a un costado, más atrás, en el borde de la roca, dos figuras.
+
+Un muchacho de pelo blanco, con una túnica rota y unos ojos afilados, de mal humor: Zora. Y al lado, un chico bajito, musculoso, de pelo gris cenizo, con una espada enorme y negra, del tamaño de una puerta, en las manos.
+
+Asta.
+
+Tiene la cara sucia, un raspón en la mejilla y la túnica de Caballero Real rota en el hombro. Está jadeando. Pero tiene la espada levantada, como siempre.
+
+Se da vuelta al sentirlos aparecer. Mira a Yami. Mira el pelo blanco y azul. El gato. Los ojos.
+
+Se le cae la espada de las manos.
+
+—¡¿FACUNDO?!
+
+El grito rebota en toda la caverna. Las rocas flotantes vibran. Hasta Mereoleona y el muchacho de las magias se detienen un segundo, en medio del golpe, a mirar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1291 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:33       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:32, muralla oeste. Julius se lleva a William a una celda. Yami se va a las Rocas Gravito y da a entender que Facundo podría llevarlo. Facundo puede responder.
+ESTADO AL CIERRE: Black Clover, 12:33, caverna de la base del Ojo en las Rocas Gravito. Mereoleona pelea contra un copiador de magias. Asta ve a Facundo y grita su nombre; todos se detienen. Facundo puede actuar.
