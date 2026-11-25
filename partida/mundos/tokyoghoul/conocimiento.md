@@ -43,3 +43,5 @@
 - Yoshimura, Touka · T1177 · Facundo dice que sería de Argentina. Aceptó transfigurar a los ghouls que vienen por los paquetes.
 - Facundo · T1177 · por Yoshimura: los primeros llegan a las 10 por la puerta del callejón (señora Kimura y su hijo de 12, que no sabe usar el kagune); otros durante el día; no todos confían.
 - Yoshimura, Touka · T1178 · por Facundo: su habilidad moldea el alma; podría sacarles el kagune a los que quieran.
+- Yoshimura, Touka · T1179 · por Facundo: puede volverlos humanos del todo (los detectores no los marcarían), pero quien conozca su cara podría matarlos y no podrían defenderse.
+- Facundo · T1179 · por Touka: la CCG nunca le vio la cara (siempre usó máscara).

@@ -1177,3 +1177,4 @@ T1175 · TG · Anteiku · Desayuno. Touka comió una tostada a escondidas. Yoshi
 T1176 · TG · Anteiku · "Me llamo Facundo Morelli." Yoshimura: "¿Lo haría con los que vienen a buscar los paquetes?"
 T1177 · TG · Anteiku · "Sí, sin problema. Sería de Argentina." Yoshimura: los primeros llegan a las 10. "¿Me acompañaría?"
 T1178 · TG · Anteiku · "Podría sacarles el kagune; moldea el alma." Yoshimura: "Eso es una persona." Touka: "¿Puedes hacer eso?"
+T1179 · TG · Anteiku · Advierte el riesgo de quitar el kagune. Yoshimura: "es una presa". Touka: "Después. Cuando pase lo del Búho."
