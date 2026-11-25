@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1304)
-
-nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
-
-## RESPUESTA 1 (T1304)
-
-> nos vemos chicos, charmy antes de irme quieres darme un poco de tu comida para el viaje? asi no la desperdicio?
-
-> —Nos vemos, chicos. Charmy, antes de irme, ¿quieres darme un poco de tu comida para el viaje? Así no la desperdicio.
-
-Charmy se queda dura, con la olla abrazada contra el pecho.
-
-Te mira a ti. Mira la olla. Te mira otra vez. Se le llenan los ojos de lágrimas, y no se sabe si es de emoción o de dolor.
-
-—¿Pa... para el viaje? —Aprieta la olla—. ¿Toda?
-
-Nadie le contesta. Magna se tapa la boca para no reírse. Vanessa le da un codazo.
-
-Charmy respira hondo, cierra los ojos con fuerza y levanta la mano. De la nada salen tres ovejitas de algodón con gorro de cocinero, que se ponen a trabajar sobre una mesa rota del patio. Una envuelve panecillos en servilletas, otra llena un tarro con el guiso todavía humeante, la tercera ata todo con un moño de algodón.
-
-—¡Es tuya! —grita Charmy, con la voz quebrada—. ¡La cociné para ti! ¡No se desperdicia nada en esta casa!
-
-La ovejita del moño te pone el paquete en las manos. Está tibio y huele a carne, a cebolla y a pan recién hecho.
-
-Charmy se queda con un panecillo en la mano. Lo mira. Se lo mete entero en la boca.
-
-—Ese era mío —dice, con la boca llena y los cachetes inflados—. El de la propina.
-
-Traga. Se limpia la nariz con el brazo y te apunta con un dedo.
-
-—Y la próxima vez que vuelvas, me traes la comida del cocinero. ¡Hicimos la promesa del meñique!
-
-Kiato sigue abrazado a tu cintura. No te suelta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1304 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · claro (cráter)    ║
-║ DÍA 4 · 21:21                                ║
-║ NIVEL 29 · EXP 295.080/320.000               ║
-║ FRAGMENTOS 111.957 · 0 yul                   ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: elegir destino                     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1305)
+## COMANDO 1 (T1305)
 
 esta bien, nos vemos kiato, me voy a un nuevo mundo
 
-## RESPUESTA 2 (T1305)
+## RESPUESTA 1 (T1305)
 
 > esta bien, nos vemos kiato, me voy a un nuevo mundo
 
@@ -156,11 +104,11 @@ Abajo, los chicos siguen gritando.
 
 ---
 
-## COMANDO 3 (T1306)
+## COMANDO 2 (T1306)
 
 me acerco al que creo la casa, perdon, me podrias decir donde estoy?
 
-## RESPUESTA 3 (T1306)
+## RESPUESTA 2 (T1306)
 
 > me acerco al que creo la casa, perdon, me podrias decir donde estoy?
 
@@ -214,4 +162,47 @@ Sus ojos se quedan fijos en los tuyos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 07:52, borde norte del cráter de Konoha, junto a la casa nueva. Yamato (receloso, se puso entre Facundo y los chicos) le preguntó quién es y por dónde entró. Facundo tiene que contestar.
+## COMANDO 3 (T1307)
+
+me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
+
+## RESPUESTA 3 (T1307)
+
+> me llamo Facundo Morelli, soy un viajero, dijiste que los atacaron, quienes?
+
+> —Me llamo Facundo Morelli. Soy un viajero. Dijiste que los atacaron. ¿Quiénes?
+
+Yamato repite el nombre en voz baja, despacio, como si lo guardara en un cajón.
+
+—Facundo Morelli. —No es un nombre de ningún país que conozca, y se le nota—. Un viajero.
+
+Mira tu ropa negra, el sobretodo largo, las botas sin una mancha de barro a pesar de que acabas de bajar por un bosque destrozado. Mira a Kase otra vez. Kase bosteza.
+
+—Akatsuki —dice al fin—. Una organización de ninjas renegados. Su líder se hacía llamar Pain. Vino con sus cuerpos a buscar a uno de los nuestros y, cuando no lo encontró, hizo esto.
+
+Señala el cráter con el mentón, sin darse vuelta. Abajo, un grupo de ninjas levanta una roca enorme entre seis, y alguien grita que tengan cuidado con la tubería.
+
+—Se vio desde muy lejos. Las aves de los pueblos de la frontera salieron volando, y la explosión se sintió hasta en el País del Fuego entero. —Vuelve a fijar los ojos en los tuyos—. Es raro encontrar a un viajero que pasa justo por aquí y no se enteró.
+
+Un chico de unos ocho años se acerca corriendo con un cuenco de sopa, se frena de golpe al verte y se queda mirando tus ojos con la boca abierta. Yamato le apoya una mano en la cabeza sin mirarlo y lo hace girar suavemente hacia las carpas. El chico se va, mirando para atrás.
+
+—Y todavía no me dijiste por dónde entraste —agrega Yamato, sin cambiar el tono—. Del lado norte no hay camino. Hay bosque, y hasta hace dos días había una barrera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1307 · NARUTO · DÍA 1 · 07:54          ║
+║ Konoha · borde norte del cráter, carpas      ║
+║ NIVEL 29 · EXP 295.080/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 07:54, borde norte del cráter. Facundo se presentó ("viajero") y preguntó quién atacó. Yamato: Akatsuki, su líder Pain. Le parece raro que un viajero no se haya enterado. Insiste: ¿por dónde entraste? (del norte no hay camino; había barrera). Facundo tiene que contestar.

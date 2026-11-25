@@ -18,3 +18,5 @@ DIÁLOGOS CLAVE:
 - T1306 · "En Konohagakure. La Aldea Oculta de la Hoja. O en lo que queda de ella." "Hace dos días nos atacaron... me da curiosidad. ¿Quién eres, y por dónde entraste?"
 QUÉ SABE DE FACUNDO (T1306): lo vio en persona: pelo blanco y azul, heterocromía, cicatriz, gato, sin banda ninja. Desconocido. No sabe de dónde vino.
 RELACIÓN CON FACUNDO: desconfianza cortés.
+- T1307 · Facundo se presenta: "Facundo Morelli, viajero", y pregunta quién los atacó. Yamato: "Akatsuki... Su líder se hacía llamar Pain." Nota la ropa sin barro; le parece raro que no se haya enterado. Insiste en por dónde entró (del norte no hay camino, había barrera).
+QUÉ SABE DE FACUNDO (T1307): nombre (Facundo Morelli), dice ser viajero; no se enteró del ataque (raro); no dijo por dónde entró.

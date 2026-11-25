@@ -1305,3 +1305,4 @@ T1303 · BC · Claro de los Toros · Anuncia que se va (quizás vuelve en semana
 T1304 · BC · Claro de los Toros · Pide a Charmy comida para el viaje; ella le da todo el guiso y los panecillos (se queda uno). Le recuerda la promesa del meñique.
 T1305 · BC→NARUTO · Se despide de Kiato ("voy a bailar para ti") y cruza la puerta frente a los Toros. Llega a Naruto: bosque sobre el cráter de Konoha (cap. ~452). Don: Venas del Dragón. Misión: Neji vivo al final de la guerra. Copia: Mokuton (Yamato).
 T1306 · NARUTO · Borde del cráter · Le pregunta a Yamato dónde está. "En Konohagakure. O en lo que queda." Yamato nota que no lleva banda; se pone entre él y los chicos: "¿Quién eres, y por dónde entraste?"
+T1307 · NARUTO · Borde del cráter · "Me llamo Facundo Morelli, soy un viajero. ¿Quiénes los atacaron?" Yamato: Akatsuki, Pain. Raro que no se haya enterado. Insiste: "¿Por dónde entraste?"
