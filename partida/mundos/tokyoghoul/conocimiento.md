@@ -114,3 +114,4 @@
 - CCG (mando por radio) · T1220 · perdió contacto con la unidad de Tanakamaru en la avenida 3; cree que fue el Búho.
 - Koma, Kaneki, Touka, Yoshimura, Apes · T1221 · vieron a Facundo curar a Koma con un grano verde.
 - Shinohara, Houji, Kuroiwa · T1221 · vieron a Facundo de pie junto al Búho, en medio de los investigadores caídos. Shinohara lo reconoce.
+- Houji, Kuroiwa · T1222 · por Shinohara: Facundo le salvó la vida en la mansión de Kanou. Houji deduce: está con el Búho.

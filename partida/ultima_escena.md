@@ -3,71 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1219)
-le pego con 2dedos
-
-## RESPUESTA 1 (T1219)
-
-> le pego con dos dedos
-
-Bajas.
-
-No hay salto, no hay impulso. Un instante estás en el aire, sobre el borde del techo, y al siguiente estás parado en el asfalto, entre Koma y la máquina, con Kase en el hombro y el brazo giratorio a medio metro de tu cara.
-
-Levantas la mano derecha. Juntas el índice y el medio.
-
-Y le pegas al brazo con la punta de los dos dedos.
-
-No suena como un golpe. Suena como una explosión.
-
-El brazo de la máquina se deshace desde la punta hacia atrás: el taladro, los segmentos, las juntas, los pistones, todo revienta en pedazos de metal blanco y negro que salen disparados como metralla y rebotan en las paredes de los edificios, en las camionetas, en el asfalto. La onda sigue por adentro del cuerpo de la máquina. Las patas de insecto se doblan hacia afuera al mismo tiempo. El cuerpo entero se levanta del suelo, gira dos veces en el aire, como un auto en un choque, y se estrella contra una camioneta blanca a veinte metros, que se dobla en V con un estruendo que hace temblar los vidrios de toda la cuadra.
-
-Los cables y los tubos que unían la máquina al investigador se tensan de golpe.
-
-Tanakamaru sale volando detrás de su quinque. Da una vuelta en el aire, con los brazos abiertos y la sonrisa todavía congelada detrás del visor, choca contra el capó de otra camioneta, rebota y cae boca arriba sobre la vereda. El casco rueda solo, unos metros más allá. Él no se mueve. Respira: lo ves subir y bajar el pecho, despacio, debajo de la armadura abollada.
-
-Silencio.
-
-Un silencio raro, en medio de los disparos que siguen sonando en las otras calles. En esta avenida nadie dispara. Los investigadores de la fila tienen las quinques levantadas y la boca abierta. Uno de ellos baja el arma sin darse cuenta.
-
-A tus pies, Koma te mira desde el asfalto, con la cara llena de sangre y media máscara de mono colgándole de una oreja.
-
-—Panadero —dice, ronco, y se le escapa una risa que le hace toser sangre—. Mierda. Eso fue con dos dedos.
-
-Detrás de ti, el Búho cae en la avenida con un golpe sordo que agrieta el asfalto. Kaneki y Touka aterrizan a los costados.
-
-Al verlo, la fila de investigadores reacciona por fin. Alguien grita, con la voz rota:
-
-—¡El Búho! ¡Es el Búho! ¡Todas las unidades, el Búho está en la avenida 3!
-
-—¡Fuego! ¡Fuego a todo lo que se mueva!
-
-Una docena de quinques se encienden al mismo tiempo. Del fondo de la avenida, desde detrás de las camionetas, aparecen más investigadores corriendo, con armas largas. Se oye el ruido metálico de muchas armas que se cargan a la vez.
-
-Todas apuntan hacia ustedes. Hacia el Búho. Hacia Koma en el piso. Hacia ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1219 · TOKYO GHOUL · DÍA 6 · 17:46     ║
-║ Distrito 20 · avenida 3                      ║
-║ NIVEL 28 · EXP 276.930/280.000               ║
-║ FRAGMENTOS 109.406 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1220)
+## COMANDO 1 (T1220)
 suelto haki del rey a los investigadors
 
-## RESPUESTA 2 (T1220)
+## RESPUESTA 1 (T1220)
 
 > suelto Haki del Rey a los investigadores
 
@@ -121,10 +60,10 @@ Koma, a tus pies, tose sangre otra vez. La pierna rota le tiembla sola sobre el 
 
 ---
 
-## COMANDO 3 (T1221)
+## COMANDO 2 (T1221)
 le doy una semilla del ermitaño a koma
 
-## RESPUESTA 3 (T1221)
+## RESPUESTA 2 (T1221)
 
 > le doy una semilla del ermitaño a Koma
 
@@ -184,7 +123,62 @@ Shinohara no se mueve. Sigue mirándote.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1222)
+no me malentiendas shinohara, no vine aqui a matar a nadie
+
+## RESPUESTA 3 (T1222)
+
+> —No me malentiendas, Shinohara. No vine aquí a matar a nadie.
+
+Shinohara mira la avenida otra vez. Despacio. Los veintiséis cuerpos en el suelo, uno por uno, como si contara. El que cuelga de la puerta de la camioneta. Los dos que cayeron corriendo en la vereda. El pecho de cada uno, que sube y baja.
+
+—Lo sé —dice. La voz le sale cansada—. Están todos respirando. Ya lo vi.
+
+A su lado, el de los anteojos no baja la quinque. Gira apenas la cabeza hacia Shinohara, sin dejar de apuntar al Búho.
+
+—¿Lo conoce, Shinohara-san?
+
+Shinohara tarda en contestar.
+
+—Me salvó la vida —dice al final—. En la mansión de Kanou.
+
+El de los anteojos procesa eso sin que se le mueva un músculo de la cara.
+
+—Entonces está con el Búho. —No es una pregunta. Lo dice igual que diría la hora.
+
+—Houji. —El de la armadura negra habla por primera vez, desde adentro del casco, con una voz grave que suena a metal—. Mira el suelo. Veintiséis de los nuestros, Tanakamaru incluido. Sin una gota de sangre. Y la Higher Mind partida como una lata. —Hace una pausa—. Si quisiera matarnos, no estaríamos hablando.
+
+Houji no contesta. Pero tampoco baja la quinque.
+
+Shinohara da un paso adelante. Uno solo. Se pone el casco bajo el otro brazo, como si de golpe le pesara.
+
+—Escúchame bien. —Te habla a ti, y la voz le sale baja, áspera—. Te creo. Te creí en la mansión y te creí en el café. Pero esto no es un café. Esto es una orden de la oficina central, con la firma del jefe de operaciones. —Señala al Búho con la barbilla, sin mirarlo—. Ese de ahí mató a investigadores. A compañeros míos. Hace años. Hay viudas que todavía esperan esta noche.
+
+Aprieta la mandíbula.
+
+—Así que te lo pido una sola vez, por lo que me diste. Apártate. Llévate a los chicos, al mono, a quien quieras. Pero el Búho se queda.
+
+Detrás de ti, el Búho no se mueve. No dice nada. Kaneki da un paso hacia él, y Touka lo agarra de la manga.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1222 · TOKYO GHOUL · DÍA 6 · 17:49     ║
+║ Distrito 20 · avenida 3                      ║
+║ NIVEL 28 · EXP 277.230/280.000               ║
+║ FRAGMENTOS 109.452 · 543.700 yenes           ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 77                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:48, avenida 3. Koma curado. Llegaron Houji, Kuroiwa y Shinohara; Houji apunta al Búho, Kuroiwa avanza, Shinohara mira a Facundo. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:49, avenida 3. Shinohara le pide a Facundo que se aparte y deje al Búho. Houji apunta al Búho; Kuroiwa duda. Facundo puede responder.
