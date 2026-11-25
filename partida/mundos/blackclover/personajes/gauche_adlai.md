@@ -5,5 +5,6 @@ ENCUENTROS:
 - T456-T457 · Templo Submarino · Facundo lo protege de Zarick y Zuta.
 - T1277 · Base de los Toros Negros · Pelea contra No.0 de Rades con sangre en la frente; ve llegar a Facundo.
 DIÁLOGOS CLAVE:
+- T1278 · "¡¿TRES MESES?! ¡Dijiste unos días, maldito gato con patas!" "¡Asta, Noelle y Luck se fueron con esos Caballeros Reales!" "¡Si esto le rompe mis cartas a Marie, lo mato!" "¡Si viniste a hacer algo, hazlo ya!"
 - T1277 · "¡¿Tú?!"
 ESTADO: Herido leve, peleando.

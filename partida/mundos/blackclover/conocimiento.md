@@ -29,3 +29,5 @@
 - Asta, Noelle, Luck, Magna, Vanessa, Charmy · T489 · Facundo dice que se va por ahora y vuelve en unos días. Ven abrirse una puerta de luz de la nada y a Facundo cruzarla con el gato. Lo explican como magia espacial (Luck: "¡¿también eso?!"). Yami lo oye desde la ventana del baño.
 - Gauche (y Gordon, Grey de reojo) · T1277 · vieron a Facundo aparecer en la explanada con una línea de luz detrás, ~3 meses después de irse.
 - Rades · T1277 · todavía no lo vio (está mirando la pelea).
+- Facundo · T1278 · por Gauche: Asta, Noelle y Luck fueron con los Caballeros Reales a la base del Ojo; Yami en la capital; Magna y Vanessa de misión; Charmy durmiendo; el ataque empezó hace 10 minutos. Facundo se fue hace tres meses.
+- Rades · T1278 · vio a Facundo (pelo, gato, la línea de luz cerrándose).

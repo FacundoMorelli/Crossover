@@ -3,62 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1275)
-si, me voy, no se cuando voy a volver, puede ser en 1 semana, o en 3 meses, no lo se
-
-## RESPUESTA 1 (T1275)
-
-> —Sí, me voy. No sé cuándo voy a volver. Puede ser en una semana, o en tres meses. No lo sé.
-
-Touka no se mueve del último escalón.
-
-Se queda mirándote con los brazos cruzados. Aprieta la boca. Afloja. La vuelve a apretar.
-
-—Una semana o tres meses —repite—. Qué preciso.
-
-Baja el escalón. Cruza el salón despacio, esquivando el taburete donde está Kase, y se para delante de ti. No tan cerca como en la azotea. A un paso.
-
-—Cuando vuelvas —dice, mirándote a los ojos, uno y otro—, ya voy a saber lo que quiero. Lo de ser humana. —Traga—. Ayato dijo que esperara. Puede que espere. Puede que no. Pero lo voy a decidir yo. No él. No tú.
-
-Hace una pausa. Se le pone rojo el borde de las orejas.
-
-—Y otra cosa.
-
-Te clava un dedo en el pecho. Fuerte. Justo en el medio del esternón.
-
-—Me debes una revancha. En el 24. —Lo dice entre dientes—. Todavía no te toqué ni una vez. Y la próxima vez que vengas, te voy a tocar. Aunque tenga que entrenar tres meses sola en ese agujero.
-
-Te mira el dedo, apoyado en tu pecho. Se da cuenta de lo que acaba de hacer. Lo retira de golpe, como si quemara.
-
-—Eso no cuenta —dice rápido, roja hasta el cuello—. Eso fue un dedo. No vale.
-
-Detrás de la barra, a Yoshimura se le escapa un sonido que podría ser una tos. Koma se tapa la boca con la mano. Nishiki no se molesta en disimular: se ríe en voz alta.
-
-—¡Cállate, Nishiki! —le grita Touka sin darse vuelta.
-
-En la escalera, Kaneki baja el último escalón. Se queda al lado de Hinami, con las manos en los bolsillos del pantalón prestado. Te mira. Espera su turno.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1275 · TOKYO GHOUL · DÍA 7 · 21:28     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete                         ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: despedirse de Anteiku              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1276)
+## COMANDO 1 (T1276)
 nos vemos chicos, kaneki cuidate y no coman carne humana
 
-## RESPUESTA 2 (T1276)
+## RESPUESTA 1 (T1276)
 
 > —Nos vemos, chicos. Kaneki, cuídate. Y no coman carne humana.
 
@@ -111,10 +59,10 @@ El salón queda en silencio. Todos te miran. Nadie se mueve hacia la puerta. Esp
 
 ---
 
-## COMANDO 3 (T1277)
+## COMANDO 2 (T1277)
 me voy a black clover
 
-## RESPUESTA 3 (T1277)
+## RESPUESTA 2 (T1277)
 
 > me voy a Black Clover
 
@@ -187,7 +135,55 @@ A Gauche se le cae la mandíbula.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1278)
+hola chicos, volvi, que paso?
+
+## RESPUESTA 3 (T1278)
+
+> —Hola, chicos. Volví. ¿Qué pasó?
+
+—¡¿Que qué pasó?! —Gauche desvía otra ráfaga de fuego con un espejo, que estalla en mil pedazos—. ¡¿TRES MESES?! ¡Dijiste "unos días", maldito gato con patas! ¡Unos días!
+
+No.0 levanta los cuatro brazos. El ojo del pecho se abre más. Gordon murmura algo más rápido, y la barrera negra que tiene delante se oscurece, temblando.
+
+—¡Asta, Noelle y Luck se fueron con esos Caballeros Reales a atacar la base de estos idiotas! —grita Gauche sin mirarte, armando otra capa de espejos—. ¡Yami está en la capital! ¡Magna y Vanessa en una misión! ¡Charmy durmiendo en algún lado! ¡Y estos aparecieron hace diez minutos y se cargaron la base!
+
+Una ráfaga de viento rompe la mitad de la barrera de Gordon. Gordon retrocede un paso, tambaleándose. Le sangra la nariz.
+
+—¡Y Marie está esperando una carta! ¡Si esto le rompe mis cartas a Marie, lo mato! —Gauche se limpia la sangre de la frente con el dorso de la mano—. ¡Así que, si viniste a hacer algo, hazlo ya!
+
+Sobre los escombros, el muchacho de la costura en la cara deja de sonreír.
+
+Te mira. Al pelo. Al gato. A la línea de luz que se terminó de cerrar detrás de ti. Entrecierra los ojos.
+
+—¿Y tú quién eres? —Ladea la cabeza—. ¿Otro fracasado de los Toros?
+
+Chasquea los dedos.
+
+No.0 se da vuelta, todo torcido, con un crujido de huesos cosidos. Los cuatro brazos te apuntan a ti. Del ojo del pecho sale una luz roja. En las cuatro palmas se juntan, al mismo tiempo, fuego, viento, algo que parece agua negra y algo que parece rayo.
+
+—Dale, No.0 —dice el de la costura—. Empecemos por el nuevo.
+
+Detrás de la piedra, Grey grita algo que nadie entiende.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1278 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · explanada · 12:11 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, ~90 días después, 12:10, explanada de la base de los Toros Negros. Rades y su monstruo No.0 atacan a Gauche, Gordon y Grey. Gauche ve a Facundo: "¡¿Tú?!" Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:11, base de los Toros Negros. Gauche resumió lo que pasó. Rades manda a No.0 a atacar a Facundo con cuatro magias a la vez. Facundo puede actuar.
