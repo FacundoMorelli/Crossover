@@ -13,6 +13,7 @@ ENCUENTROS:
 - T1149 · Facundo le pregunta su nombre: se calma un instante. Al grito del de la maza, vuelve a tensarse.
 - T1148 · Laboratorio subterráneo · Comiéndose al hombre de la armadura; gira los tentáculos hacia Facundo.
 DIÁLOGOS CLAVE:
+- T1198 · "Una manzana. Pan. Un bollo. Y café, como siempre." "Yomo-san. Facundo-san me va a entrenar. Hoy, a la tarde, en el Distrito 24."
 - T1196 · "Yomo-san."
 - T1195 · "Gracias, Facundo-san." "Hay un lugar. Debajo de la ciudad, en el Distrito 24." "Las paredes son finas." "¿Cuándo empezamos?"
 - T1194 · "Comía para no perder, y cada vez que comía, me perdía un poco más." "Entonces enséñame. Yo solo sé usar el mío cuando pierdo el control." "¿Me entrenarías?"

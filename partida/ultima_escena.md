@@ -3,55 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1195)
-esta bien
-
-## RESPUESTA 1 (T1195)
-
-> —Está bien.
-
-Kaneki suelta el aire de golpe, como si lo hubiera estado aguantando desde que salieron del café.
-
-—Gracias. —Inclina la cabeza otra vez, más rápido, menos torpe—. Gracias, Facundo-san.
-
-Se queda un momento quieto, con las manos abiertas a los costados, sin saber muy bien qué hacer con ellas. Después mira alrededor de la plaza: las hamacas, el tobogán, los balcones de los departamentos con ropa colgada, el verdulero de enfrente.
-
-—Aquí no se puede —dice, pensando en voz alta—. Si saco el kagune en medio de la ciudad, en diez minutos tenemos a la CCG encima. Ni en el café, con los clientes.
-
-Se rasca la nuca.
-
-—Hay un lugar. Debajo de la ciudad, en el Distrito 24. Túneles, galerías viejas, kilómetros. Yomo-san me llevaba ahí a entrenar antes de que me fuera. Nadie baja, ni la CCG. —Hace una pausa—. Pero la entrada más cercana está lejos, y se tarda.
-
-Mira hacia la calle, en dirección a Anteiku, y después a ti.
-
-—Y a las diez tienes que estar en la puerta del callejón con Yoshimura-san. Te escuché anoche desde arriba. —Se le escapa una media sonrisa—. Las paredes son finas.
-
-Mete las manos en los bolsillos del pantalón prestado.
-
-—¿Cuándo empezamos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1195 · TOKYO GHOUL · MAÑANA · 08:01    ║
-║ Distrito 20 · plaza chica, a media cuadra    ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1196)
+## COMANDO 1 (T1196)
 ehh no se, cuando termine con yoshimura si quieres. simula
 
-## RESPUESTA 2 (T1196)
+## RESPUESTA 1 (T1196)
 
 > —Eh... no sé. Cuando termine con Yoshimura, si quieres.
 
@@ -123,10 +78,10 @@ Se quita la capucha del todo.
 
 ---
 
-## COMANDO 3 (T1197)
+## COMANDO 2 (T1197)
 me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1197)
+## RESPUESTA 2 (T1197)
 
 > —Me llamo Facundo Morelli.
 
@@ -178,7 +133,64 @@ No es una pregunta.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1198)
+asi es
+
+## RESPUESTA 3 (T1198)
+
+> —Así es.
+
+Yomo se queda callado.
+
+Mira la bolsa que acaba de dejar en la mesada: los paquetes envueltos en papel marrón, atados con hilo. Los mira mucho rato, como si de golpe pesaran distinto. Después mira a Kaneki.
+
+—¿Comiste?
+
+—Una manzana —contesta Kaneki—. Pan. Un bollo. —Se le escapa algo parecido a una risa—. Y café, como siempre.
+
+Yomo asiente una sola vez.
+
+—¿Touka?
+
+Lo pregunta mirando a Yoshimura, no a ti. Y lo pregunta un poco demasiado rápido.
+
+—Esta mañana —responde Yoshimura—. Se comió una tostada a escondidas en la cocina. Y después le robaron la otra mitad.
+
+Yomo cierra los ojos un segundo. Cuando los abre, no cambió nada en su cara. Pero los hombros, que tenía tensos desde que entró, le bajan un poco.
+
+Se vuelve hacia ti. Se queda mirándote, sin decir nada, el tiempo suficiente para que se vuelva incómodo. Después inclina la cabeza. No es una reverencia. Es apenas un movimiento, corto y seco.
+
+—Gracias.
+
+Kaneki da un paso adelante, todavía con el repasador en la mano.
+
+—Yomo-san. Facundo-san me va a entrenar. Hoy, a la tarde, en el Distrito 24. —Duda—. Para no tener que perder el control. Para poder pelear sin... comer.
+
+Yomo lo mira. Mira tus manos otra vez, como si buscara en ellas algo que no encuentra: callos de pelea, cicatrices de quinque, sangre seca debajo de las uñas.
+
+Después te mira a la cara.
+
+—¿Puedo mirar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1198 · TOKYO GHOUL · MEDIODÍA · 12:44  ║
+║ Distrito 20 · Anteiku, cocina                ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en la puerta de la cocina              ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: entrenar a Kaneki (Distrito 24)    ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 12:42, cocina de Anteiku. Yomo afirma que Facundo también le quitó el hambre a Kaneki. Facundo puede responder.
+ESTADO AL CIERRE: Tokyo Ghoul, 12:44, cocina de Anteiku. Yomo agradeció y pregunta si puede mirar el entrenamiento de Kaneki. Facundo puede responder.

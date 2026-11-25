@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1156.
 ENCUENTROS:
 - T1156 · Puerta de Anteiku · Sale a recibirlos después de que Kaneki entra.
 DIÁLOGOS CLAVE:
+- T1198 · "Esta mañana. Se comió una tostada a escondidas en la cocina. Y después le robaron la otra mitad."
 - T1197 · "Nadie les pidió silencio. Fue mi decisión. Hoy nueve personas comieron pan por primera vez en su vida. No iba a pedirles que se callaran."
 - T1196 · (Mañana en el callejón: habla con cada ghoul en el umbral, les da comida; se limpia los lentes cada vez que uno muerde algo por primera vez.)
 - T1187 · "Nishiki-kun. Buenos días. Es un invitado."

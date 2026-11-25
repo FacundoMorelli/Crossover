@@ -1196,3 +1196,4 @@ T1194 · TG · Plaza · "No me voy hasta que termine la operación." Kaneki: "¿
 T1195 · TG · Plaza · Acepta entrenar a Kaneki. Kaneki propone el Distrito 24. "¿Cuándo empezamos?"
 T1196 · TG · Anteiku (simulación 08:01-12:41) · Mañana en el café. Transfigura a 9 ghouls en la puerta del callejón. El rumor corre. Llega Yomo: "¿Quién eres?"
 T1197 · TG · Anteiku · "Me llamo Facundo Morelli." Yomo teme el informe de la CCG. Yoshimura: "Fue mi decisión." Yomo: "A él también le quitó el hambre."
+T1198 · TG · Anteiku · "Así es." Yomo: "¿Touka?" "Gracias." Kaneki le cuenta del entrenamiento. Yomo: "¿Puedo mirar?"
