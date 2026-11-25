@@ -3,66 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1130)
-espero a endeavor
-
-## RESPUESTA 1 (T1130)
-
-> espero a Endeavor
-
-Esperas.
-
-Los minutos pasan lentos ahí abajo. El pitido del monitor. Las burbujas. Garaki gime una vez, sin despertarse, y se queda quieto otra vez.
-
-A los quince minutos sientes que llegan. Arriba, muy arriba, a través de todos los pisos de concreto: sirenas, muchas, que se acercan desde varias direcciones. Pasos que corren por los pasillos del hospital. Gente asustada. Y entre todo eso, una presencia que baja. Rápida. Caliente. Directa, como un incendio que no busca puertas.
-
-A los diecinueve minutos, la puerta blindada del fondo del laboratorio se pone roja. Después naranja. Después blanca.
-
-Y después se derrite hacia adentro, como mantequilla, y deja un agujero redondo con los bordes chorreando metal.
-
-Del otro lado, entre el humo, hay un hombre enorme.
-
-Casi tan alto como All Might. Traje azul oscuro, ajustado, con unas llamas que le salen de los hombros, del pecho, de las muñecas. En la cara, una barba y unas cejas que no son pelo, sino fuego, vivo, ondeando. Y del lado izquierdo, una cicatriz larga y nueva que le cruza el ojo desde la frente hasta la mejilla.
-
-Detrás de él se asoman dos o tres personas más con trajes de héroe, y policías con chalecos y armas.
-
-El hombre entra primero. Las botas suenan pesadas en el piso. Recorre con los ojos las filas de tanques, los cuerpos que flotan, las pantallas en rojo. Se detiene un segundo en Garaki, en el piso, con los fideos en el bigote.
-
-Después te mira a ti.
-
-No sonríe. No saluda. El fuego de la barba le arde un poco más fuerte.
-
-—Tú eres el consultor de Nezu —dice. No es una pregunta. La voz le sale grave, áspera—. El que salió de la nada esta mañana.
-
-Da dos pasos más hacia ti. El calor que despide se siente desde lejos.
-
-—Sesenta y cuatro Nomu y el que los fabrica. Solo. En menos de veinte minutos. —Entrecierra el ojo bueno—. ¿Cuál es tu nombre de héroe? Y ¿por qué nunca escuché hablar de ti?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1130 · BOKU NO HERO · DIC. · 12:32     ║
-║ Jaku · laboratorio bajo el hospital          ║
-║ NIVEL 28 · EXP 263.930/280.000               ║
-║ FRAGMENTOS 108.906 · 0 yenes                 ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: a tus pies                             ║
-║ Licencia de Héroe Profesional: ACTIVA        ║
-║ Recinto: cabaña (aire, héroes y buenos)      ║
-║ Garaki: inconsciente · 64 Nomu: sin reacción ║
-║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
-║ antes del fin de la Guerra de Liberación     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1131)
+## COMANDO 1 (T1131)
 me llamo eclipse y nunca escucho de mi por que estuve de paseo
 
-## RESPUESTA 2 (T1131)
+## RESPUESTA 1 (T1131)
 
 > —Me llamo Eclipse. Y nunca escuchaste de mí porque estuve de paseo.
 
@@ -113,10 +57,10 @@ El fuego de la barba de Endeavor sube un poco más.
 
 ---
 
-## COMANDO 3 (T1132)
+## COMANDO 2 (T1132)
 si todo eso lo hice yo
 
-## RESPUESTA 3 (T1132)
+## RESPUESTA 2 (T1132)
 
 > —Sí, todo eso lo hice yo.
 
@@ -165,4 +109,50 @@ Lo deja ahí. No pregunta qué. Espera.
 
 ---
 
-ESTADO AL CIERRE: Boku no Hero, diciembre 12:34, laboratorio de Jaku. Garaki detenido. La Comisión quiere ver a Eclipse hoy (la presidenta). Endeavor dice que Nezu le contó que no terminó y espera respuesta. Facundo puede responder.
+## COMANDO 3 (T1133)
+diles que esta bien, termino con lo que tengo que hacer y voy a hablar con ellos
+
+## RESPUESTA 3 (T1133)
+
+> —Diles que está bien. Termino con lo que tengo que hacer y voy a hablar con ellos.
+
+Endeavor resopla por la nariz. Dos chorritos de humo.
+
+—No soy tu secretario —dice. Pero le hace un gesto seco a la heroína de pelo verde—. Burnin. Avísales.
+
+—¡Sí, señor! —Ella se aleja hacia la puerta con el teléfono en la oreja.
+
+Endeavor se queda mirándote. Después mira de reojo a los policías, a los sidekicks, al paramédico. Da un paso más hacia ti, tan cerca que el calor de las llamas te seca los ojos, y baja la voz hasta que solo tú lo escuchas.
+
+—Nezu dijo Deika.
+
+No es una pregunta.
+
+—Escúchame bien, Eclipse, porque esto no lo voy a repetir y no lo sabe casi nadie. —El ojo bueno no parpadea—. En Deika hay uno de los nuestros. Adentro. Desde hace meses. Un héroe. Alas rojas, grandes, de plumas. Si lo ves, no lo toques. Y si alguien de ahí adentro sospecha de él, lo matan.
+
+Se endereza. Vuelve a hablar normal, áspero, como si no hubiera dicho nada.
+
+—Haz lo que tengas que hacer. Y después ve a la Comisión. —Se da vuelta hacia los tanques—. Y no me hagas quedar mal, que fui yo el que confirmó que existes.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1133 · BOKU NO HERO · DIC. · 12:35     ║
+║ Jaku · laboratorio bajo el hospital          ║
+║ NIVEL 28 · EXP 263.930/280.000               ║
+║ FRAGMENTOS 108.906 · 0 yenes                 ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: a tus pies                             ║
+║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
+║ Recinto: cabaña (aire, héroes y buenos)      ║
+║ MISIÓN DE MUNDO: Que nadie de la U.A. muera  ║
+║ antes del fin de la Guerra de Liberación     ║
+║ OBJETIVO: Deika (hay un héroe infiltrado:    ║
+║ alas rojas, no tocarlo)                      ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Boku no Hero, diciembre 12:35, laboratorio de Jaku. Burnin avisa a la Comisión. Endeavor advirtió en secreto que en Deika hay un héroe infiltrado (alas rojas). Facundo puede actuar (Deika, luego la Comisión).

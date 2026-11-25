@@ -1131,3 +1131,4 @@ T1129 · BnHA · Jaku · Se queda a esperar a Endeavor. Nezu: "No toque nada." P
 T1130 · BnHA · Jaku · Endeavor derrite la puerta. "¿Cuál es tu nombre de héroe? ¿Por qué nunca escuché de ti?"
 T1131 · BnHA · Jaku · "Me llamo Eclipse, estuve de paseo." Endeavor: "¿Lo de la cabaña también?" La Comisión llama por Eclipse.
 T1132 · BnHA · Jaku · "Sí, todo lo hice yo." Endeavor: "Seis meses... tú en una mañana." La Comisión quiere verlo hoy. "Nezu dijo que no terminaste."
+T1133 · BnHA · Jaku · Burnin avisa a la Comisión. Endeavor, en secreto: "En Deika hay uno de los nuestros, alas rojas. No lo toques."
