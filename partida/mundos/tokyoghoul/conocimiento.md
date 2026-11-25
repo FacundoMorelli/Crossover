@@ -11,3 +11,5 @@
 - Hombre de la maza · T1149 · vio a Facundo, civil aparente con un gato, junto al ghoul y Shinohara.
 - Facundo · T1150 · por Amon: está en el sótano de la mansión de un criminal, en un operativo de la CCG; Kaneki es un ghoul de rango S; Shinohara es investigador de Clase Especial.
 - Amon, Kaneki · T1151 · vieron a Facundo darle una semilla a Shinohara y curarlo con la palma (agujero cerrado, despertó).
+- Facundo · T1152 · Shinohara se presenta: Investigador de Clase Especial de la CCG. A Kaneki lo llaman "el Ciempiés". Juuzou se acerca.
+- Shinohara · T1152 · por Amon: Facundo lo curó con la mano después de darle algo de comer.

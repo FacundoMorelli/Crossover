@@ -9,6 +9,7 @@ RELACIÓN: Primer encuentro T1149.
 ENCUENTROS:
 - T1149 · Laboratorio · Llega corriendo; grita "¡Señor Shinohara!"; le ordena a Facundo alejarse del ghoul y carga contra Kaneki.
 DIÁLOGOS CLAVE:
+- T1152 · "Lo curó, señor Shinohara. Con la mano. Usted tenía un agujero del tamaño de mi puño." "Señor Shinohara, ¿lo tomamos?"
 - T1150 · "¿Me está preguntando dónde está?" "En el sótano de la mansión de un criminal, en medio de un operativo de la CCG, a dos metros de un ghoul de rango S." "Dígales que lo manda Amon." "Y tú, aléjate de él."
 - T1149 · "¡SEÑOR SHINOHARA!" "¡Usted! ¡Aléjese de ahí! ¡Es un ghoul! ¡ALÉJESE!"
 QUÉ SABE DE FACUNDO: Nada. Lo toma por un civil (sin abrigo, sin armas, con un gato).

@@ -1150,3 +1150,4 @@ T1148 · TG · Laboratorio · Aparece junto al muchacho de pelo blanco que se co
 T1149 · TG · Laboratorio · "¿Cómo te llamas?" "Kaneki Ken." Llega el de la maza: "¡Señor Shinohara! ¡Aléjese, es un ghoul!" Carga.
 T1150 · TG · Laboratorio · "Quédense ahí. ¿Dónde estoy?" Amon frena y explica; pide que salga. Kaneki retrocede. Shinohara se desangra.
 T1151 · TG · Laboratorio · Semilla y Transfiguración Ociosa a Shinohara: curado, despierto. Kaneki: "No lo maté." Shinohara: "¿Quién demonios es este?"
+T1152 · TG · Laboratorio · Shinohara se disculpa y agradece. "¿Lo tomamos?" Juuzou llega cantando. "¿Tú qué quieres que pase con él?"

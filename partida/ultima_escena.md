@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1149)
-como te llamas niño
-
-## RESPUESTA 1 (T1149)
-
-> —¿Cómo te llamas, niño?
-
-Los tentáculos se detienen.
-
-Las cuatro puntas rojas quedan suspendidas en el aire, a un metro de tu cara, temblando.
-
-El muchacho parpadea. El ojo gris, el normal, se le enfoca de golpe en ti, como si recién ahora te viera. Lo sacude algo. Un escalofrío que le recorre la espalda y le hace crujir las placas del ciempiés.
-
-—¿...Cómo me llamo? —repite.
-
-Mira el cuerpo que tiene debajo. La sangre en sus manos. Se lleva una mano negra a la boca, temblando, y se toca los labios. Se mira los dedos, rojos.
-
-—Me llamo... —La voz le sale chiquita, de otro lado, como la de alguien que no habló en mucho tiempo—. Ka...
-
-Se le traba.
-
-—Kaneki. Ken. Kaneki Ken. —Lo dice dos veces, como si se lo recordara a sí mismo—. Soy Kaneki. Soy...
-
-Los tentáculos bajan unos centímetros. Uno se afloja del todo y cae al piso, flojo, como una cuerda.
-
-Y entonces el pasillo de la derecha estalla en luz.
-
-Un hombre entra corriendo. Enorme, de hombros anchos, con el pelo negro peinado hacia atrás y un abrigo blanco largo manchado de polvo y de sangre. Lleva en la mano una maza metálica gigante, tan grande como él, con una cabeza de metal ondulante que se mueve sola, viva, como si respirara. Tiene la cara cortada y un ojo hinchado.
-
-Ve al hombre de la armadura en el piso.
-
-—¡SEÑOR SHINOHARA!
-
-Después ve al muchacho de pelo blanco encima de él, con la boca roja.
-
-Y después te ve a ti, parado a dos metros, con un gato en el hombro, ropa común, sin armas, sin abrigo blanco.
-
-Se le transforma la cara.
-
-—¡Usted! ¡Aléjese de ahí! —ruge, levantando la maza por encima de la cabeza—. ¡Es un ghoul! ¡ALÉJESE!
-
-El muchacho, Kaneki, se da vuelta hacia el grito. El ojo rojo se le enciende otra vez. Los tres tentáculos que quedaban en el aire se le tensan como resortes, y las placas del ciempiés le trepan otro poco por la mejilla.
-
-El de la maza ya está corriendo hacia él.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1149 · TOKYO GHOUL · NOCHE · 23:41     ║
-║ Mansión · laboratorio subterráneo            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1150)
+## COMANDO 1 (T1150)
 quedense ahi, los dos. lo digo tranquilo, me pueden explicar donde estoy?
 
-## RESPUESTA 2 (T1150)
+## RESPUESTA 1 (T1150)
 
 > —Quédense ahí, los dos.
 
@@ -125,10 +62,10 @@ En el piso, el hombre de la armadura respira una vez más. Un silbido corto, moj
 
 ---
 
-## COMANDO 3 (T1151)
+## COMANDO 2 (T1151)
 bueno es facil entonces, me acerco a shinohara y le doy una semilla del ermitaño y uso la tecnica de mahito
 
-## RESPUESTA 3 (T1151)
+## RESPUESTA 2 (T1151)
 
 > —Bueno, es fácil entonces.
 
@@ -185,4 +122,68 @@ Se le tensa el cuerpo entero.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:43, laboratorio. Shinohara curado y despierto, tenso hacia Kaneki. Kaneki sin kagune, llorando contra la pared. Amon paralizado. Shinohara pregunta quién es Facundo. Facundo puede actuar.
+## COMANDO 3 (T1152)
+no es una buena forma de hablarle al que te salvo la vida
+
+## RESPUESTA 3 (T1152)
+
+> —No es una buena forma de hablarle al que te salvó la vida.
+
+El hombre de la armadura te mira. Parpadea.
+
+Después mira a Amon.
+
+—Lo curó, señor Shinohara —dice Amon, con la voz rara, como si no se terminara de creer lo que dice—. Con la mano. Le dio algo de comer y le puso la mano en el pecho, y el agujero... —Traga saliva—. Usted tenía un agujero. Del tamaño de mi puño. Yo lo vi.
+
+Shinohara se queda callado un segundo. Se toca otra vez el costado, por debajo de las placas rotas. Piel lisa. Ni una cicatriz.
+
+Y entonces se ríe. Una carcajada corta, ronca, que le sale del fondo del pecho y le hace toser otra vez.
+
+—Tienes razón, muchacho. Tienes toda la razón. —Se incorpora despacio, apoyando un codo en los escombros, con una mueca—. Perdón. Uno se despierta en el piso de un sótano, con la boca de un ghoul todavía manchada de su sangre a cuatro metros, y se le olvidan los modales. —Te extiende la mano enguantada, desde el piso—. Yukinori Shinohara. Investigador de Clase Especial de la CCG. Gracias. De verdad.
+
+Tiene un apretón fuerte, de alguien que entrenó toda la vida.
+
+Se pone de pie con ayuda de Amon. Se tambalea un poco, se endereza. Mira alrededor: la sala destrozada, las luces rojas, su propia sangre en el piso. Y vuelve a mirar al muchacho de pelo blanco sentado contra la pared, que sigue tapándose la cara con las manos.
+
+Se le borra la sonrisa.
+
+—El Ciempiés —dice, en voz baja—. Lo teníamos. Lo tenía de rodillas, y sacó un segundo kagune de la nada.
+
+Amon levanta la maza otra vez. La cabeza metálica se retuerce, despierta.
+
+—Señor Shinohara, ¿lo tomamos?
+
+Shinohara no contesta enseguida. Mira a Kaneki. Kaneki baja las manos despacio y lo mira a él. Tiene los dos ojos normales ahora, grises, rojos de llorar. Parece un chico de veinte años cualquiera, sentado en un charco de sangre ajena.
+
+Por el pasillo se oye otra cosa. Pasos rápidos, livianos, saltarines. Y una voz aguda, cantando una canción sin melodía, cada vez más cerca.
+
+—¡Señor Shinohaaaaraaa! ¿Sigue vivo? ¡Le traje uno de los brazos de la gemela, por si lo quiere ver!
+
+Shinohara cierra los ojos un segundo.
+
+—Juuzou —murmura.
+
+Después te mira a ti.
+
+—Muchacho, no sé quién eres ni de dónde saliste. Pero lo que viene por ese pasillo no va a preguntar si el ghoul está llorando o no. —Hace una pausa—. ¿Tú qué quieres que pase con él?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1152 · TOKYO GHOUL · NOCHE · 23:44     ║
+║ Mansión · laboratorio subterráneo            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:44, laboratorio. Shinohara agradecido; Amon quiere tomar a Kaneki; Juuzou llega por el pasillo. Shinohara pregunta a Facundo qué quiere que pase con Kaneki. Facundo puede responder.
