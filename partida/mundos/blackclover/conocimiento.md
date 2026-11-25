@@ -35,3 +35,5 @@
 - Facundo · T1279 · (ki) presencia que salta entre puertas dentro de la base, hacia el cuarto de Asta. Por Rades: No.0 está hecho de dos capitanes.
 - Gauche, Gordon, Grey · T1280 · vieron a Facundo desmayar a Rades y desaparecer hacia la base.
 - Valtos (sin nombre) · T1280 · vio a Facundo en el marco del cuarto de Asta, con el gato.
+- Gauche, Gordon, Grey · T1281 · vieron a Facundo traer a Valtos inconsciente desde el 2.º piso. Gordon tiene la piedra mágica de Asta.
+- Facundo · T1281 · vio la forma real de Grey (chica bajita, pelo largo oscuro). Oyó a la recién llegada nombrar a "Rades", "Valtos" y "Licht-sama".

@@ -4,5 +4,6 @@ FÍSICO: Enorme, pálido, cara pintada de sombras, labios negros. Magia de Maldi
 ENCUENTROS:
 - T1277 · Base · Levanta una barrera de maldición contra No.0.
 DIÁLOGOS CLAVE:
+- T1281 · "...la de Asta. Se la iban a llevar..."
 - T1279 · "...ah."
-ESTADO: Peleando.
+ESTADO: Con la piedra mágica de Asta en las manos (T1281).

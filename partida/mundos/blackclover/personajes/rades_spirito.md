@@ -1,4 +1,4 @@
-NOMBRE: (Rades Spirito; Facundo no oyó su nombre)
+NOMBRE: Rades (nombrado por Sally, T1281) — [Rades Spirito]
 AFILIACIÓN: Ojo del Sol de Medianoche
 FÍSICO: Pelo negro desordenado, costura gruesa que le cruza la cara, túnica del Ojo.
 PODER VISTO POR FACUNDO: Controla a "No.0": dos cuerpos cosidos en uno, gigante, piel gris, cuatro brazos, ojo en el pecho; lanza fuego y viento.

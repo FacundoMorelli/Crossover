@@ -3,58 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1278)
-hola chicos, volvi, que paso?
-
-## RESPUESTA 1 (T1278)
-
-> —Hola, chicos. Volví. ¿Qué pasó?
-
-—¡¿Que qué pasó?! —Gauche desvía otra ráfaga de fuego con un espejo, que estalla en mil pedazos—. ¡¿TRES MESES?! ¡Dijiste "unos días", maldito gato con patas! ¡Unos días!
-
-No.0 levanta los cuatro brazos. El ojo del pecho se abre más. Gordon murmura algo más rápido, y la barrera negra que tiene delante se oscurece, temblando.
-
-—¡Asta, Noelle y Luck se fueron con esos Caballeros Reales a atacar la base de estos idiotas! —grita Gauche sin mirarte, armando otra capa de espejos—. ¡Yami está en la capital! ¡Magna y Vanessa en una misión! ¡Charmy durmiendo en algún lado! ¡Y estos aparecieron hace diez minutos y se cargaron la base!
-
-Una ráfaga de viento rompe la mitad de la barrera de Gordon. Gordon retrocede un paso, tambaleándose. Le sangra la nariz.
-
-—¡Y Marie está esperando una carta! ¡Si esto le rompe mis cartas a Marie, lo mato! —Gauche se limpia la sangre de la frente con el dorso de la mano—. ¡Así que, si viniste a hacer algo, hazlo ya!
-
-Sobre los escombros, el muchacho de la costura en la cara deja de sonreír.
-
-Te mira. Al pelo. Al gato. A la línea de luz que se terminó de cerrar detrás de ti. Entrecierra los ojos.
-
-—¿Y tú quién eres? —Ladea la cabeza—. ¿Otro fracasado de los Toros?
-
-Chasquea los dedos.
-
-No.0 se da vuelta, todo torcido, con un crujido de huesos cosidos. Los cuatro brazos te apuntan a ti. Del ojo del pecho sale una luz roja. En las cuatro palmas se juntan, al mismo tiempo, fuego, viento, algo que parece agua negra y algo que parece rayo.
-
-—Dale, No.0 —dice el de la costura—. Empecemos por el nuevo.
-
-Detrás de la piedra, Grey grita algo que nadie entiende.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1278 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Base de los Toros Negros · explanada · 12:11 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 0 yul                   ║
-║ Energía 88% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1279)
+## COMANDO 1 (T1279)
 le clavo la cabeza contra el piso
 
-## RESPUESTA 2 (T1279)
+## RESPUESTA 1 (T1279)
 
 > le clavo la cabeza contra el piso
 
@@ -107,10 +59,10 @@ Y en ese momento lo sientes. Adentro de la base, en el segundo piso, entre el hu
 
 ---
 
-## COMANDO 3 (T1280)
+## COMANDO 2 (T1280)
 lo dejo inconsciente y sigo al que va entre puerta y puerta
 
-## RESPUESTA 3 (T1280)
+## RESPUESTA 2 (T1280)
 
 > lo dejo inconsciente
 
@@ -163,7 +115,67 @@ El círculo negro, a su lado, empieza a agrandarse.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1281)
+lo dejo inconsciente y lo llevo con los demas
+
+## RESPUESTA 3 (T1281)
+
+> lo dejo inconsciente
+
+El círculo negro ya tiene el tamaño de una puerta cuando el hombre de las marcas en la cara pone un pie adentro.
+
+No llega a poner el segundo.
+
+Le apoyas dos dedos en la frente. Nada más.
+
+Se le aflojan las rodillas. El círculo negro tiembla, se encoge y se cierra con un chasquido seco, como una burbuja que revienta. El hombre se cae hacia atrás, sobre la cama de Asta, y queda despatarrado entre las sábanas revueltas, con la piedra mágica todavía apretada en el puño.
+
+[Rival vencido: el de las puertas. +25 Fragmentos.]
+
+[+150 EXP.]
+
+> y lo llevo con los demás
+
+Te lo cargas al hombro, el que no tiene a Kase. Kase lo mira de reojo con mucho desprecio y se corre todo lo que puede hacia tu cuello.
+
+Patio.
+
+Lo dejas caer sobre el pasto al lado del de la costura, que sigue boca abajo, roncando bajito. Del puño del de las marcas se escapa la piedra mágica. Rueda por el pasto hasta los pies de Gordon y se queda ahí, latiendo verde.
+
+Gordon la mira. Te mira. Se agacha despacio y la levanta con las dos manos, como si fuera un pájaro herido.
+
+—...la de Asta —murmura—. Se la iban a llevar...
+
+Gauche baja la mano. Los espejos que flotaban a su alrededor se deshacen uno por uno, tintineando. Mira a los dos del Ojo tirados en el pasto. Mira a No.0, todavía enterrado de cabeza en el cráter. Te mira a ti. Se pasa la mano por la cara, se mancha de sangre, y no le importa.
+
+—Tres meses —dice, muy despacio—. Tres meses sin aparecer. Y llegas, y en un minuto...
+
+No termina. Suelta el aire por la nariz.
+
+Detrás de la piedra caída, Grey sale por fin. Ya no tiene la forma de nadie. Es una chica bajita, de pelo largo y oscuro, con la cara roja hasta las orejas, que te mira desde detrás de las manos con los ojos muy abiertos. Cuando ve que la miras, se transforma en Gauche de un salto, de puro susto.
+
+Entonces, desde el bosque, del otro lado de la explanada, se oye un zumbido mecánico. Y una voz de chica, aguda, alegre, que se acerca a toda velocidad:
+
+—¡Rades! ¡Valtos! ¿Ya tienen la piedra? ¡Quiero ver al enano antimagia antes de que llegue Licht-sama! ¡Quiero abrirlo!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1281 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Base de los Toros Negros · patio · 12:13     ║
+║ NIVEL 29 · EXP 290.930/320.000               ║
+║ FRAGMENTOS 110.102 · 0 yul                   ║
+║ Energía 88% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:12, cuarto de Asta. Rades inconsciente abajo. Un hombre del Ojo tiene la piedra mágica y está por escapar por su puerta negra: "Tú no estabas en la lista." Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:13, patio de la base. Rades y Valtos inconscientes; Gordon tiene la piedra mágica. Llega desde el bosque una chica del Ojo que quiere "abrir al enano antimagia". Facundo puede actuar.

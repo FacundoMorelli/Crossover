@@ -1,13 +1,13 @@
 {
-  "turno": 1280,
+  "turno": 1281,
   "mundo_actual": "blackclover",
   "fecha_local": "Black Clover: ~3 meses (unos 90 días) después de la salida (T489). Día de la Reencarnación de los Elfos (asalto de los Caballeros Reales a la base del Ojo; Rades ataca la base de los Toros Negros) — canon c138.",
-  "hora": "12:12",
+  "hora": "12:13",
   "edad": 18,
   "nivel": 29,
-  "exp": 290780,
+  "exp": 290930,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 110077,
+  "fragmentos": 110102,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1975,6 +1975,14 @@
       "mundo": "blackclover",
       "turno": "T1280",
       "como": "Golpecito con dos dedos en la nuca; inconsciente sobre el pasto.",
+      "fragmentos": 25,
+      "exp": 150
+    },
+    {
+      "nombre": "Valtos (Ojo del Sol de Medianoche)",
+      "mundo": "blackclover",
+      "turno": "T1281",
+      "como": "Dos dedos en la frente; inconsciente sobre la cama de Asta; llevado al patio.",
       "fragmentos": 25,
       "exp": 150
     }
