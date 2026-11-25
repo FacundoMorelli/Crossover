@@ -6,3 +6,4 @@
 ## QUIÉN VIO QUÉ PODERES
 
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
+- Muchacho de pelo blanco · T1148 · vio (u olió) a Facundo aparecer a su lado con un gato.

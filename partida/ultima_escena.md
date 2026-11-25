@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1145)
-si, te ayudo tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre one for all, Látigo negro se activa y potencia con la ira, por lo que descontrolarse emocionalmente hace que el don se salga de control.
-
-## RESPUESTA 1 (T1145)
-
-> —Sí, te ayudo. Tienes que aprender a regular la ira que potencia tu don y fortalecer tu dominio sobre One For All. El Látigo Negro se activa y se potencia con la ira, así que descontrolarte emocionalmente hace que el don se salga de control.
-
-Izuku se queda con la boca abierta.
-
-—¿Látigo... Negro? —repite.
-
-Se mira la muñeca vendada. Después a ti. Después otra vez la muñeca.
-
-—Así se llama. Así lo llamó él. El de la... —Se interrumpe, se tapa la boca con la mano sana y mira alrededor, como si alguien pudiera estar escuchando—. ¿All Might se lo contó? Tiene que haber sido All Might.
-
-No espera la respuesta. Ya está murmurando, rápido, para sí mismo, con los ojos perdidos en el aire.
-
-—Con la ira... Claro. Claro. En el entrenamiento conjunto, cuando Monoma dijo lo de la 1-A, me enojé, y salió. Y cuando Shinso me tenía atrapado, me desesperé, y salió más. Y cuando quise frenarlo, era peor, porque me enojaba conmigo mismo por no poder frenarlo... —Se frota la frente—. Es un círculo. Me enojo, sale, me enojo porque sale, sale más...
-
-Respira hondo. Levanta la vista hacia ti, con la cara seria.
-
-—Entonces no es que tenga que hacerlo más fuerte. Tengo que estar más tranquilo.
-
-Se planta en el medio del campo. Separa los pies, como le enseñaron. Cierra los ojos.
-
-—Lo voy a intentar sacar ahora. A propósito. Despacio.
-
-Las venas verdes se le encienden en los brazos, suaves, parejas. Full Cowl, un cinco por ciento, quizá menos. Bien.
-
-Después, de la muñeca vendada empieza a salir el hilo negro. Uno. Fino, ondulante, como humo espeso. Se estira en el aire medio metro. Un metro. Izuku frunce el ceño, concentrado.
-
-Dos hilos. Tres.
-
-—Tranquilo —se dice a sí mismo, entre dientes—. Tranquilo, tranquilo...
-
-Cinco. Ocho. Ya no son hilos: son cintas negras, gruesas como cuerdas, que le salen de los dos brazos y empiezan a azotar el aire alrededor de él. Una golpea el pasto y levanta un terrón. Otra se enrosca sola en un poste de luz y lo dobla.
-
-Izuku abre los ojos. Están asustados.
-
-—¡No, no, no, espere...!
-
-Una de las cintas negras sale disparada, sola, hacia el banco donde está sentado Kase.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1145 · BOKU NO HERO · DIC. (+4 días)   ║
-║ · 07:05                                      ║
-║ U.A. · campo de entrenamiento, edificio de   ║
-║ profesores                                   ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el banco                            ║
-║ Licencia: ACTIVA · nombre de héroe: ECLIPSE  ║
-║ MISIÓN DE COPIA: One For All (en curso)      ║
-║ OBJETIVO: Entrenar a Izuku                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1146)
+## COMANDO 1 (T1146)
 agarro el latigo, tranquilo midoriya, tienes que controlarte mas, tampoco tienes que asustarte
 
-## RESPUESTA 2 (T1146)
+## RESPUESTA 1 (T1146)
 
 > agarro el látigo
 
@@ -133,10 +70,10 @@ Te mira, con los ojos llenos de lágrimas, sonriendo de oreja a oreja.
 
 ---
 
-## COMANDO 3 (T1147)
+## COMANDO 2 (T1147)
 simula unos dias y despues me voy al nuevo mundo
 
-## RESPUESTA 3 (T1147)
+## RESPUESTA 2 (T1147)
 
 > simulo unos días y después me voy al mundo nuevo
 
@@ -267,4 +204,63 @@ Allá abajo, la presencia humana que se apaga deja de luchar.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, noche 23:40, acantilado frente a la mansión de Kanou durante el asalto de la CCG. Don: Kagune de Ceniza. Misión: Anteiku en la Operación del Búho. Bajo tierra, una presencia humana grande deja de luchar con otra (medio ghoul, furiosa y llorando) encima. Facundo puede actuar.
+## COMANDO 3 (T1148)
+me teletransporto a donde estaba la otra presencia
+
+## RESPUESTA 3 (T1148)
+
+> me teletransporto a donde estaba la otra presencia
+
+El viento del acantilado desaparece.
+
+Olor a sangre. Mucha. Fresca, caliente, mezclada con polvo de concreto, con aceite quemado y con algo dulce y podrido que se te pega al fondo de la garganta.
+
+Estás en una sala subterránea enorme, de techo alto, a medio derrumbar. Las paredes de concreto están agrietadas de arriba abajo, con agujeros del tamaño de una persona. Hay luces de emergencia rojas que parpadean en el techo y tubos de vidrio rotos por todo el piso, con un líquido verde que se escurre hacia los desagües. Una de las lámparas cuelga de un cable y se balancea, y la sombra de todo lo que hay en la sala va y viene con ella.
+
+En el medio, sobre los escombros, hay un hombre tirado de espaldas.
+
+Es grande, de unos cuarenta y tantos años, de pelo corto y oscuro. Lleva puesta una armadura negra y blanca, pesada, con placas segmentadas, como el caparazón de un insecto. La armadura está rota. Tiene un agujero en el costado del abdomen, de lado a lado, por donde le sale sangre a borbotones. Los ojos están abiertos, mirando el techo sin ver. El pecho sube y baja apenas. Muy apenas.
+
+Y encima de él, agachado, hay un muchacho.
+
+Flaco, de unos veinte años, con el pelo completamente blanco. Ropa negra, ajustada, destrozada. Las uñas de las manos, negras. Tiene la boca hundida en el hombro del hombre de la armadura, en una parte donde las placas se rompieron, y está masticando.
+
+De la parte baja de la espalda le salen cuatro tentáculos rojos, gruesos, brillantes, como músculos sin piel, que se retuercen en el aire. Uno de ellos se le enrosca alrededor del cuerpo y del brazo derecho, y sobre ese, por encima del hombro y media cara, tiene algo más: una especie de armadura roja oscura, segmentada, con patitas, como si un ciempiés gigante se le hubiera fundido a la carne.
+
+Llora. Mientras mastica, le caen lágrimas.
+
+Kase se te pega al cuello. Se le eriza todo el lomo. No bufa. Se queda quieto.
+
+El muchacho levanta la cabeza.
+
+Tiene la boca y la barbilla bañadas en sangre. Uno de sus ojos es normal, gris, lleno de lágrimas. El otro es negro, todo negro, con el iris rojo encendido como una brasa. Y de ese lado de la cara, las placas del ciempiés se mueven solas, crujiendo.
+
+Te mira. No parece verte del todo. Te huele.
+
+Los cuatro tentáculos se detienen en el aire. Después, despacio, las puntas giran hacia ti.
+
+—...No —dice, con la voz rota—. No. Uno más no. No quiero... no quiero comer más...
+
+Pero los tentáculos siguen girando.
+
+A lo lejos, por el pasillo que se abre a tu derecha, sientes que alguien viene corriendo. Una presencia humana, grande, pesada, desesperada, con algo frío y metálico en la mano que vibra con una vida que no es suya.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1148 · TOKYO GHOUL · NOCHE · 23:41     ║
+║ Mansión · laboratorio subterráneo            ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello, erizado                  ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 23:41, laboratorio bajo la mansión. Kaneki (medio kakuja) gira los tentáculos hacia Facundo; Shinohara moribundo. Amon llega corriendo por el pasillo. Facundo puede actuar.

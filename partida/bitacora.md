@@ -1146,3 +1146,4 @@ T1144 · BnHA · Simulación 4 días · Anuncio de la Comisión (operativo conju
 T1145 · BnHA · U.A. · Entrenamiento con Izuku: regular la ira. El Látigo Negro se descontrola; una cinta va hacia Kase.
 T1146 · BnHA · U.A. · Atrapa la cinta. Izuku se calma y mueve una cinta a voluntad por primera vez. "¿Otra vez?"
 T1147 · BnHA → Tokyo Ghoul · 6 días entrenando a Izuku: domina el Látigo Negro → copia One For All. Despedidas. Puerta. Tokyo Ghoul (tirada 0.9141; momento 0.3248, cap. ~105): acantilado frente a la mansión de Kanou en pleno asalto de la CCG. Don: Kagune de Ceniza. Misión: Anteiku en la Operación del Búho.
+T1148 · TG · Laboratorio · Aparece junto al muchacho de pelo blanco que se come al hombre de la armadura. Los tentáculos giran hacia él. Alguien llega por el pasillo.
