@@ -51,3 +51,4 @@
 - Facundo · T1287 · Tasación de William: Luz y Espadas, grimorio de cuatro hojas, otra alma en el mismo cuerpo (sin datos).
 - Julius, Yami · T1288 · vieron a Facundo noquear a William transformado de un golpe. Julius "ve" que los dos (dos almas) están vivos.
 - Facundo, Yami · T1289 · por Julius: William tiene dos maná/almas desde chico; la otra es vieja, fría, no humana, odia a los humanos desde hace siglos; William soñaba con una boda ajena y gente de orejas largas muriendo entre luces; Julius sospecha que esa alma manda en el Ojo; lo de las Rocas Gravito es una trampa.
+- Julius, Yami · T1290 · Facundo dejó a William en manos de Julius ("es tu responsabilidad, a mí me da igual").

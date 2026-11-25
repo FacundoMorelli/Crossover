@@ -8,4 +8,4 @@ DIÁLOGOS CLAVE:
 - T1287 · "Más humanos. Siempre llegan más humanos."
 - T1286 · (ki) En la muralla oeste con Julius; su presencia se da vuelta: algo viejo, frío y enorme despierta.
 QUÉ SABE DE FACUNDO: (no consta)
-ESTADO: Inconsciente en la muralla oeste (las dos almas vivas), con el pelo blanco largo; grimorio de cuatro hojas cerrado a su lado (T1288).
+ESTADO: Inconsciente dentro de una esfera de luz dorada de Julius, camino a una celda del cuartel con Marx de guardia (T1290).

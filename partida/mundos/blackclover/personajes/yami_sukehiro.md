@@ -23,6 +23,7 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
 
 DIÁLOGOS CLAVE:
+- T1290 · "Viejo. Dijiste trampa." "Los mocosos están ahí." "No te voy a pedir nada, gato. Tú ya me dijiste en la cara que te da igual. Y está bien." "Pero yo me voy para allá. Ahora. Tú me trajiste aquí en un segundo. Con eso me ahorrarías medio día de caballo."
 - T1288 · "¿Lo mataste?" "Viejo. ¿Qué carajo era eso?"
 - T1286 · "¿Julius? ¿El viejo?" "Si alguien sabe qué hay debajo de esa máscara, es él." "Hoy, justo hoy, Julius no fue con los Caballeros Reales. Se quedó en la capital. Solo." "William no va a venir aquí. Está en la muralla. Con Julius. Y lo que tiene adentro acaba de despertarse."
 - T1285 · "Langris sacó un maná que no era suyo. Negro. Pesado. Igual que el de aquel bicho del templo." "Hoy los mocosos se fueron con los Caballeros Reales a reventar la base del Ojo." "Somos de los pocos capitanes que no nacieron con apellido." "William se tapa media cara con una máscara desde que lo conozco." "Si dice que no, le creo. Si dice que sí..." "Tú siempre sabes cosas que no deberías saber, gato. ¿Sabes algo de esto?"

@@ -3,82 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1287)
-vamos, me teletransporto con yami, hola hola, como estan, mucho gusto rey mago, mucho gusto capitan del amanecer dorado
-
-## RESPUESTA 1 (T1287)
-
-> —Vamos.
-
-Le apoyas la mano en el hombro a Yami. Él no pregunta. Ya lo vio hacer en el templo.
-
-La terraza desaparece.
-
-> me teletransporto con Yami
-
-Viento. Mucho viento, frío, que viene de las llanuras del oeste y silba entre las almenas. La muralla exterior de la capital es ancha como una calle, de piedra gris gastada, con torres cada cien metros. De un lado, los techos de la ciudad. Del otro, campos verdes hasta el horizonte.
-
-Y a veinte metros, sobre la muralla, dos hombres.
-
-Uno es bajo, de pelo rubio despeinado, con una túnica blanca y dorada de Rey Mago que el viento le hace flamear. Tiene un libro abierto en la mano y una sonrisa curiosa, casi infantil, que no se le borra ni siquiera ahora. Julius Novachrono.
-
-El otro es alto. O era alto, hace un momento. Todavía tiene la túnica de capitán de Amanecer Dorado, pero ya no tiene la máscara: está en el suelo, partida en dos. El pelo, que era oscuro, se le está volviendo blanco, y le crece largo, desde la raíz hasta la cintura, mientras lo miras. La cicatriz de la cara brilla con una luz fría. En la frente le aparece una marca. A su alrededor flota un grimorio que no es el suyo: tiene cuatro hojas en la tapa.
-
-Tu instinto lo tasa.
-
-```
-╔════════════════════════════════════════╗
-║ WILLIAM VANGEANCE (?)                  ║
-║ Capitán de Amanecer Dorado             ║
-║ PODER: Magia de Luz y Espadas (grimorio║
-║        de cuatro hojas)                ║
-║ Otra alma en el mismo cuerpo:          ║
-║ sin datos                              ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: muy inferior      ║
-║ COPIABLE · MISIÓN: sin datos           ║
-╚════════════════════════════════════════╝
-```
-
-> —¡Hola, hola! ¿Cómo están? Mucho gusto, Rey Mago. Mucho gusto, capitán de Amanecer Dorado.
-
-Los dos se dan vuelta al mismo tiempo.
-
-Julius parpadea. Mira a Yami, que aterrizó a tu lado con la katana desenvainada. Te mira a ti: el pelo, los ojos, el gato. Y la sonrisa curiosa se le estira todavía más.
-
-—¡Oh! —dice, con los ojos brillantes—. ¡Yami! ¡Y tú debes ser el muchacho del informe! ¡El nuevo de los Toros, el que yo no podía medir! ¡Facundo-kun! —Se ríe, de verdad, encantado, como si estuvieran en una fiesta y no en una muralla con el viento en la cara—. ¡Siempre quise conocerte!
-
-Pero no se mueve de donde está. Y el libro que tiene en la mano sigue abierto, con las hojas pasando solas, muy rápido.
-
-El otro no se ríe.
-
-Termina de transformarse mientras lo miras. Se endereza. Es más alto que antes. El pelo blanco, largo, le flota a la espalda como si estuviera bajo el agua. Los ojos, que eran amables, ahora son de otro color, y te miran con un desprecio tranquilo, frío, antiguo, como se mira a un insecto sobre una mesa.
-
-—Más humanos —dice. La voz no es la de William. Es más grave, más vieja—. Siempre llegan más humanos.
-
-Levanta una mano. Sobre la muralla, en el aire, se forman tres espadas de luz blanca, suspendidas, apuntando: una a Julius, una a Yami, una a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1287 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · muralla oeste                      ║
-║ NIVEL 29 · EXP 290.980/320.000 · 12:21       ║
-║ FRAGMENTOS 110.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1288)
+## COMANDO 1 (T1288)
 noqueo a william, bueno bueno
 
-## RESPUESTA 2 (T1288)
+## RESPUESTA 1 (T1288)
 
 > noqueo a William
 
@@ -139,10 +67,10 @@ Julius no levanta la vista. Sigue agachado junto a William, con la mano todavía
 
 ---
 
-## COMANDO 3 (T1289)
+## COMANDO 2 (T1289)
 te escuchamos
 
-## RESPUESTA 3 (T1289)
+## RESPUESTA 2 (T1289)
 
 > —Te escuchamos.
 
@@ -191,7 +119,59 @@ Se inclina un poco hacia ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1290)
+eh no se, tu eres el rey mago, es tu responsabilidad, a mi me da igual lo que quieran hacer con el
+
+## RESPUESTA 3 (T1290)
+
+> —Eh... no sé. Tú eres el Rey Mago, es tu responsabilidad. A mí me da igual lo que quieran hacer con él.
+
+Julius se queda mirándote un segundo. Después suelta una risa corta, por la nariz, casi aliviada.
+
+—Tienes razón —dice—. Es mi responsabilidad. Hace diez años que lo es.
+
+Se pone de pie. Se sacude la túnica blanca y dorada. Mira a William, en el suelo, con el pelo blanco desparramado, y la cara se le pone seria, firme, de Rey Mago.
+
+—Lo voy a llevar al cuartel. A una celda que yo mismo voy a cerrar, con Marx vigilando la puerta. —Abre el libro otra vez. Las hojas vuelven a pasar solas, despacio—. Nadie le va a hacer daño. Ni a William, ni a lo otro. Hasta que sepamos qué es y qué quiere. —Hace una pausa—. Y cuando William despierte, si es William el que despierta, va a tener que contarme todo. Lo que no me contó en diez años.
+
+Levanta la mano libre. Alrededor de William se forma una esfera de luz dorada, tenue, transparente, que lo levanta del suelo despacio, con el grimorio de cuatro hojas adentro, flotando junto a él. Como un pájaro dormido dentro de una burbuja de jabón.
+
+Yami no mira a William. Mira hacia el oeste, más allá de la muralla, hacia las llanuras.
+
+—Viejo —dice—. Dijiste trampa.
+
+Julius asiente.
+
+—Las Rocas Gravito.
+
+—Los mocosos están ahí. —Yami aprieta la empuñadura de la katana—. Asta. Noelle. Luck. El nuevo. Con Mereoleona y medio ejército de Caballeros Reales que no saben en qué se metieron.
+
+Se da vuelta hacia ti. Te mira con los ojos entrecerrados, pesados.
+
+—No te voy a pedir nada, gato. —Saca un cigarro, lo prende con un chasquido de dedos—. Tú ya me dijiste en la cara que te da igual. Y está bien.
+
+Le da una pitada larga. Suelta el humo.
+
+—Pero yo me voy para allá. Ahora. —Te mira de reojo—. Y tú me trajiste aquí en un segundo. Con eso me ahorrarías medio día de caballo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1290 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · muralla oeste                      ║
+║ NIVEL 29 · EXP 292.980/320.000 · 12:32       ║
+║ FRAGMENTOS 111.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:30, muralla oeste. Julius contó el secreto de William y advirtió que el ataque a la base del Ojo es una trampa. Pregunta qué hará Facundo con William. Facundo puede responder.
+ESTADO AL CIERRE: Black Clover, 12:32, muralla oeste. Julius se lleva a William a una celda. Yami se va a las Rocas Gravito y da a entender que Facundo podría llevarlo. Facundo puede responder.
