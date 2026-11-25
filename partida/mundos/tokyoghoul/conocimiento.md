@@ -18,3 +18,4 @@
 - Banjou, tres de las máscaras, Tsukiyama, Hinami · T1154 · vieron a Facundo aparecer con Kaneki y teletransportarlos al acantilado.
 - Investigadora de abrigo blanco (Akira), hombre de traje blanco (Naki) · T1154 · vieron a Facundo y Kaneki aparecer y llevarse a Tsukiyama.
 - Facundo · T1155 · por el grupo: escondite (departamento) en el Distrito 20 cerca del río; residencia de la familia de Tsukiyama; Anteiku en el centro del Distrito 20, a unas cuadras de la estación (Yoshimura, Touka, Yomo). Kaneki se fue de Anteiku para protegerlos.
+- Yoshimura · T1156 · por Kaneki: Facundo trajo a todos. Lo vio llegar con el grupo (no sabe cómo).

@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1153)
-no se preocupen yo me lo llevo, kaneki ken, no? dime a donde te llevo donde puedas estar seguro?
-
-## RESPUESTA 1 (T1153)
-
-> —No se preocupen, yo me lo llevo.
-
-—¿Cómo que se lo...? —empieza Amon.
-
-Shinohara le apoya una mano en el brazo, sin mirarlo. Amon se calla. Aprieta la maza, pero no la levanta.
-
-Te acercas a la pared. Te agachas frente al muchacho de pelo blanco.
-
-> —Kaneki Ken, ¿no? Dime adónde te llevo, donde puedas estar seguro.
-
-Kaneki te mira de cerca. Tiene la cara manchada de sangre seca y de lágrimas, y le tiemblan los labios. Te mira la cara, el gato, las manos. Después mira por encima de tu hombro, a Shinohara, de pie, entero.
-
-—¿Por qué...? —dice—. ¿Por qué me ayudas? Yo... casi lo mato. Me lo estaba comiendo.
-
-No espera la respuesta. Sacude la cabeza, como para despejarla, y de golpe se le abren los ojos.
-
-—Banjou. —Se agarra de tu manga con una mano negra—. Banjou. Y los demás. Están aquí abajo. Vinieron conmigo. Hinami, Tsukiyama, los tres de las máscaras... —Mira hacia el pasillo, desesperado—. No me puedo ir sin ellos. No me puedo ir solo.
-
-Se le corta la voz.
-
-—Si los encuentran los de la CCG...
-
-En la entrada del pasillo aparece alguien.
-
-Un chico flaco, bajito, de pelo blanco cortado de forma irregular, con unas costuras rojas cosidas en la piel debajo de un ojo, como un muñeco remendado. Lleva un uniforme negro con tirantes y una sonrisa enorme. En una mano arrastra una especie de guadaña de metal con forma de cuchilla serrada. En la otra lleva un brazo humano cortado a la altura del codo, con la mano todavía abierta, colgando de los dedos.
-
-Se detiene en la entrada.
-
-Mira a Shinohara de pie. Mira a Amon. Mira al ghoul de pelo blanco agarrado de tu manga. Y te mira a ti.
-
-La sonrisa no se le mueve ni un milímetro.
-
-—¿Eh? —dice, inclinando la cabeza de costado, como un pájaro—. ¿Y este quién es, señor Shinohara? ¿Lo puedo cortar?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1153 · TOKYO GHOUL · NOCHE · 23:44     ║
-║ Mansión · laboratorio subterráneo            ║
-║ NIVEL 28 · EXP 275.930/280.000               ║
-║ FRAGMENTOS 109.306 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 78                    ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: Sacar a Kaneki y a su grupo        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1154)
+## COMANDO 1 (T1154)
 quedate ahi chico, bueno kaneki entonces vamos a buscarlos, lo toco y me teletransporto a donde estan cada uno y los llevo todos a anteiku
 
-## RESPUESTA 2 (T1154)
+## RESPUESTA 1 (T1154)
 
 > —Quédate ahí, chico.
 
@@ -147,10 +89,10 @@ Kaneki no le contesta. Sigue mirándote a ti.
 
 ---
 
-## COMANDO 3 (T1155)
+## COMANDO 2 (T1155)
 diganme cual es un lugar seguro
 
-## RESPUESTA 3 (T1155)
+## RESPUESTA 2 (T1155)
 
 > —Díganme cuál es un lugar seguro.
 
@@ -211,4 +153,78 @@ Kaneki levanta la cabeza y te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, 23:47, acantilado. Opciones: escondite (Distrito 20, cerca del río), residencia Tsukiyama, Anteiku (centro del Distrito 20, cerca de la estación). Kaneki deja decidir a Facundo; si es Anteiku, quiere entrar solo primero. Facundo puede decidir.
+## COMANDO 3 (T1156)
+me teletransporto afuera de anteiku, ahi esta kaneki, entra tu primero
+
+## RESPUESTA 3 (T1156)
+
+> me teletransporto afuera de Anteiku
+
+Cierras los ojos y buscas.
+
+Lejos, hacia el oeste, la ciudad es un mar de presencias: millones, apretadas, dormidas o despiertas. Buscas el distrito del que hablaron, el río, la estación. Y entre todas, unas pocas que tienen ese segundo corazón enroscado en la espalda. Están juntas, en un edificio chico, a unas cuadras de una estación de tren. Una de ellas es muy vieja, muy tranquila, y debajo de esa calma hay algo enorme, dormido, como un búho con las alas plegadas.
+
+Ahí.
+
+Tocas al grandote, a los de las máscaras, a la chica, al de pelo violeta, a Kaneki.
+
+El viento del mar se apaga.
+
+Una calle angosta, de noche, con faroles amarillos. Edificios bajos de dos y tres pisos, persianas cerradas, un buzón rojo, una máquina expendedora que zumba y alumbra la vereda. Huele a lluvia vieja y a café tostado.
+
+Enfrente, en una esquina, hay una cafetería chica, de madera oscura, con un toldo y una ventana grande con cortinas. Un letrero de madera colgado sobre la puerta, con letras pintadas a mano: ANTEIKU. El cartel de la puerta dice CERRADO. Pero adentro, detrás de las cortinas, hay una luz encendida.
+
+Kaneki se queda mirando la puerta. No se mueve.
+
+> —Ahí está, Kaneki. Entra tú primero.
+
+Kaneki traga saliva. Se mira la ropa negra destrozada, las manos con sangre seca. Se pasa los dedos por el pelo blanco, como si quisiera ordenarlo, y no sirve de nada.
+
+Hinami le suelta la manga despacio.
+
+—Ve, hermano —le susurra.
+
+Kaneki cruza la calle. Pone la mano en la manija. Duda un segundo. Empuja.
+
+Suena una campanita.
+
+La puerta se cierra detrás de él.
+
+Pasa un minuto. Otro. Desde la vereda no se escucha nada. Solo el zumbido de la máquina expendedora. El grandote se sienta en el cordón, apretándose las costillas. Los de las máscaras miran hacia todos lados. El de pelo violeta se acomoda el cuello de lo que queda de su chaqueta frente al reflejo de una vidriera. Kase bosteza.
+
+Y entonces la puerta se vuelve a abrir.
+
+No es Kaneki.
+
+Es un hombre mayor, de unos sesenta o setenta años, delgado, de pelo blanco peinado con cuidado, con un chaleco negro, camisa blanca, moño y un delantal de barista. Tiene la cara amable, llena de arrugas suaves, y los ojos entrecerrados detrás de unos lentes. Sostiene la puerta abierta con una mano.
+
+Mira a Banjou en el cordón. A los de las máscaras. A Hinami, que da un paso hacia él con los ojos llenos de lágrimas. Al de pelo violeta, con una ceja levemente levantada.
+
+Después te mira a ti.
+
+Te mira mucho rato. Tranquilo. Sin sonreír ni dejar de sonreír. Detrás de esa calma, la presencia enorme que sentiste desde lejos se despereza apenas, como un ojo que se abre en la oscuridad y te mira de arriba abajo.
+
+Y vuelve a cerrarse.
+
+—Buenas noches —dice. Tiene la voz suave, grave, sin prisa—. Kaneki me dice que fue usted quien los trajo. A todos. —Se hace a un lado y deja la puerta abierta—. Pasen, por favor. Les voy a preparar café.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1156 · TOKYO GHOUL · NOCHE · 00:02     ║
+║ Distrito 20 · frente a Anteiku               ║
+║ NIVEL 28 · EXP 275.930/280.000               ║
+║ FRAGMENTOS 109.306 · 0 yenes                 ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 78                    ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: Tokyo Ghoul, 00:02, frente a Anteiku. Kaneki entró. Yoshimura invita a pasar a todos y ofrece café. Facundo puede actuar.

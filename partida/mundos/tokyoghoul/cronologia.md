@@ -3,3 +3,4 @@
 - T1148 · Facundo aparece en el laboratorio junto a Kaneki y Shinohara.
 - T1151 · Shinohara no queda en estado vegetativo: curado entero por Facundo. Kaneki no se lo come.
 - T1154 · Facundo saca de la mansión a Kaneki, Banjou, los tres de las máscaras, Tsukiyama y Hinami. Kaneki no atraviesa a Banjou.
+- T1156 · 00:02 · Facundo lleva al grupo de Kaneki a Anteiku. Kaneki entra primero. Yoshimura los invita a pasar.
