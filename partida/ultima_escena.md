@@ -3,73 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1247)
-esta bien, lo acepto, me acerco le toco y hago lo mismo de siempre
-
-## RESPUESTA 1 (T1247)
-
-> —Está bien. Lo acepto.
-
-Te levantas, rodeas la mesa baja y te arrodillas junto a él. Le apoyas la palma sobre la coronilla blanca.
-
-Su alma es antigua. Mucho más que la de Yoshimura. Tiene la forma de una casa grande con demasiadas habitaciones cerradas con llave, pasillos largos y oscuros, puertas detrás de puertas. Y en el centro, en el lugar donde en los demás estaba el anzuelo, hay algo distinto: no uno, sino una cadena de anzuelos, uno enganchado al otro, cada uno más viejo y más oxidado que el anterior. Como si se hubieran pasado de padre a hijo, generación tras generación, y nadie hubiera podido soltarlos nunca.
-
-Los sacas. Uno por uno. El último está tan hundido que tienes que tirar con cuidado, despacio, para no arrancar nada de lo que tiene alrededor.
-
-Alisas el borde. Le devuelves el gusto.
-
-No tocas ninguna de las puertas cerradas. Son suyas.
-
-Tsuneyoshi no se mueve. No abre la boca. Pero debajo de tu mano sientes cómo le tiembla todo el cuerpo, una sola vez, fuerte, como un árbol viejo cuando se le cae una rama muy pesada que cargó demasiado tiempo.
-
-Retiras la mano.
-
-Él se queda así, con la frente casi apoyada sobre la mesa, un rato largo. Después se endereza. Despacio. Tiene la cara mojada. No se la seca.
-
-—Kaori —dice, sin levantar la voz.
-
-La puerta corrediza se abre sin ruido. La mujer joven del kimono gris está de rodillas en el pasillo.
-
-—Tráeme un manjū. De los de la tienda de la esquina. Los que compra la cocinera para los jardineros.
-
-La mujer se queda quieta un segundo de más. Después hace una reverencia y desaparece. Vuelve en menos de un minuto con un platito de cerámica: un bollito blanco, redondo, relleno de pasta de porotos dulces.
-
-Tsuneyoshi lo toma con dos dedos temblorosos. Lo muerde.
-
-Mastica con los ojos cerrados. Mucho tiempo. Traga.
-
-—Dulce —dice. Y se ríe, una risa rota, de viejo, que se le mezcla con algo que no es risa—. Ochenta y tres años, y nunca supe que era dulce.
-
-En el pasillo, de rodillas, la mujer del kimono gris lo mira comer. La cara quieta, perfecta, sin ninguna emoción. Pero se le escapa una lágrima, una sola, por la mejilla, y no se la seca.
-
-Después te mira a ti.
-
-Hace una reverencia hasta tocar la madera del pasillo con la frente. Y se queda así.
-
-—Morelli-sama —dice, contra el piso, con la voz todavía perfecta, educada, y apenas quebrada en la última sílaba—. Yo también soy de esta casa.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1247 · TOKYO GHOUL · DÍA 7 · 10:07     ║
-║ Distrito 1 · casa Washuu, sala de tatami     ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: transfigurar a los Washuu          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1248)
+## COMANDO 1 (T1248)
 simula hasta que termino con todos
 
-## RESPUESTA 2 (T1248)
+## RESPUESTA 1 (T1248)
 
 > simula hasta que termino con todos
 
@@ -137,10 +74,10 @@ Se toca el borde de los lentes con un dedo, una sola vez.
 
 ---
 
-## COMANDO 3 (T1249)
+## COMANDO 2 (T1249)
 puedo probarlo
 
-## RESPUESTA 3 (T1249)
+## RESPUESTA 2 (T1249)
 
 > —Puedo probarlo.
 
@@ -180,7 +117,74 @@ Inclina un poco la cabeza hacia ti, sin darse vuelta. Te ofrece la nuca.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1250)
+lo hago
+
+## RESPUESTA 3 (T1250)
+
+> lo hago
+
+Te sientas a su lado, en el borde de la galería, y le apoyas la palma en la nuca.
+
+Su alma no se parece a ninguna de las que tocaste en este mundo.
+
+No hay anzuelo. No hay hambre. Es limpia, ordenada, silenciosa, como una biblioteca vacía a la madrugada: estantes derechos, todo en su lugar, nada fuera de sitio. Y en el centro, una vela.
+
+Una vela que arde por las dos puntas.
+
+Alguien la armó así a propósito. Lo sientes en la forma: no es un accidente, es un diseño. Una llama que da el doble de luz y dura la mitad. Todo en él está hecho para brillar fuerte y apagarse pronto. Los ojos son el lugar donde la cera ya se está terminando.
+
+Apagas una de las dos puntas.
+
+No de golpe. Despacio, con cuidado, como quien cierra una canilla que gotea. La otra punta sigue ardiendo, igual de fuerte, igual de clara. Pero ahora la vela es larga. Tan larga como la de cualquier hombre.
+
+Después vas a los ojos. Al borde de escarcha. Lo devuelves a como estaba antes de que empezara a avanzar, a como estaba cuando él tenía diez años y todavía veía las estrellas de noche.
+
+No tocas nada más. Los estantes son suyos.
+
+Retiras la mano.
+
+Arima no se mueve. Sigue sentado con la espalda recta, las manos en las rodillas, mirando el estanque.
+
+Pasa un rato largo.
+
+Después parpadea. Una vez. Dos. Gira la cabeza, despacio, hacia el otro lado del jardín, hacia los pinos del fondo, donde la luz de la tarde ya se está poniendo violeta entre las ramas. Se queda mirándolos mucho tiempo.
+
+—Las agujas —dice en voz baja—. Se ven las agujas de los pinos. Una por una.
+
+Se agacha, toma el libro que dejó sobre la madera y lo abre en la página marcada. Lo sostiene a la distancia normal de un brazo, sin lentes. Lee una línea. Otra. Pasa la página.
+
+Cierra el libro.
+
+Y por primera vez desde que lo conoces, a Kishou Arima se le mueve la cara. No mucho. Una comisura apenas, del lado izquierdo, que sube un milímetro y se queda ahí.
+
+—Gracias —dice. Lo prueba, como una palabra en otro idioma—. Gracias.
+
+Se queda en silencio. Los peces del estanque suben y bajan. Adentro de la casa, alguien vuelve a reírse en la cocina.
+
+Después, sin mirarte, con la voz igual de plana que siempre, Arima dice:
+
+—En el Jardín quedan otros. Los más chicos tienen nueve años.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1250 · TOKYO GHOUL · DÍA 7 · 16:47     ║
+║ Distrito 1 · casa Washuu, galería            ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: dormido junto a la ventana             ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 16:43, galería de la casa Washuu. Arima, sin lentes, sentado de cara al estanque, ofrece la nuca: "Pruébalo." Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 16:47, galería de la casa Washuu. Arima transfigurado (vida normal, vista sana). Dice que en el Jardín quedan otros, los más chicos de 9 años. Facundo puede responder.

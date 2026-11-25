@@ -160,3 +160,5 @@
 - Arima · T1248 · estuvo todo el día en la galería: sabe que fueron catorce.
 - Facundo · T1248 · por Arima: viene de un lugar donde crían chicos para servir a los Washuu; crecen rápido, son fuertes, mueren antes de los 40; los ojos se van primero. No tiene hambre.
 - Facundo · T1249 · por Arima: el ojo derecho casi no ve de noche, el izquierdo tampoco con poca luz; los médicos del Jardín le dan 5-8 años; ninguno de los que crecieron con él pasó de los 37. Vio el anillo lechoso en sus iris.
+- Arima · T1250 · Facundo le alargó la vida y le devolvió la vista con la mano (lo sintió por dentro; no sabe cómo).
+- Facundo · T1250 · por Arima: en el Jardín quedan otros; los más chicos tienen 9 años.
