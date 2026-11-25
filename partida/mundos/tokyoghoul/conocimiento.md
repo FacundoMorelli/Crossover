@@ -175,3 +175,5 @@
 - Eto · T1255 · comprobó la pared: no puede salir de Anteiku.
 - Todos en Anteiku, Eto · T1256 · la pared ya no está (Eto pasó; el resto puede salir).
 - Kaneki · T1256 · el libro que dejó Eto es la próxima novela de Takatsuki Sen, inédita y firmada. No sabe la relación entre Eto y Takatsuki.
+- Kaneki · T1257 · deducción (pista de Facundo + firma con búho de un ojo + ojos verdes + libro inédito + temas): Takatsuki Sen es Eto, ghoul e hija de Yoshimura.
+- Todos en Anteiku · T1257 · lo oyeron; Yoshimura lo confirma implícitamente ("escribe desde chica").

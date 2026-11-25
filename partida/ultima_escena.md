@@ -3,69 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1254)
-la ignoro, yoshimura, los van a borrar a todos del listado, nadie mas va a venir a buscarlos, a ninguno
-
-## RESPUESTA 1 (T1254)
-
-> la ignoro
-
-> —Yoshimura, los van a borrar a todos del listado. Nadie más va a venir a buscarlos. A ninguno.
-
-Le das la espalda a Eto como si fuera un mueble más del salón.
-
-Yoshimura abre los ojos.
-
-Te mira. Mucho tiempo. Como alguien que escucha una frase en un idioma que estudió toda la vida y nunca había oído en voz alta.
-
-—A ninguno —repite.
-
-Detrás de ti, Koma suelta una carcajada ronca, cortada, que se le quiebra a la mitad. Irimi le pone una mano en el hombro y se lo aprieta. Uno de los Apes del pasillo se sienta en el piso de golpe.
-
-Touka no se mueve. Tiene el ojo negro y rojo clavado en ti, y el ala, que estaba a medio salir, se le recoge despacio dentro de la espalda hasta desaparecer.
-
-Kaneki mira a Yoshimura. Después a Eto. Después a ti. No sabe adónde mirar.
-
-Yoshimura apoya las dos manos en la barra. Baja la cabeza. Se queda así un momento, encorvado, como un hombre muy viejo que acaba de soltar algo que cargaba desde antes de que naciera cualquiera de los que están en ese salón.
-
-—Gracias —dice. Muy bajo. Casi no se oye—. Morelli-san. Gracias.
-
-Detrás de ti, en el taburete, Eto deja de balancear las piernas.
-
-Se queda callada un segundo entero, lo que en ella parece mucho. Después se ríe. No la risita de antes: una carcajada larga, aguda, que rebota en las tazas colgadas y en los frascos de granos de la estantería.
-
-—¡Borrados! —Se agarra la panza con las dos manos vendadas, doblada sobre el taburete—. ¡De la lista! ¡Todos! —Se seca algo de debajo del ojo, por encima de las vendas—. Ay, Panadero. Eso no lo decide un investigador. Eso no lo decide nadie en esta ciudad, salvo un viejito que vive detrás de un muro de piedra y toma té con las dos manos.
-
-Se baja del taburete. Camina alrededor tuyo, despacio, hasta ponerse otra vez delante, aunque no la mires.
-
-—Fuiste a verlo. —La voz ya no se ríe—. Entraste a esa casa y saliste caminando. —Inclina la cabeza—. El viejo Washuu no regala nada, Panadero. Nunca. A nadie.
-
-Los ojos verdes brillan entre las vendas.
-
-—¿Qué le diste a cambio?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1254 · TOKYO GHOUL · DÍA 7 · 20:50     ║
-║ Distrito 20 · Anteiku, salón                 ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, lomo erizado             ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1255)
+## COMANDO 1 (T1255)
 a ti no te imporrta eso
 
-## RESPUESTA 2 (T1255)
+## RESPUESTA 1 (T1255)
 
 > —A ti no te importa eso.
 
@@ -123,10 +64,10 @@ En la escalera, a Nishiki se le escapa una risa nerviosa que convierte enseguida
 
 ---
 
-## COMANDO 3 (T1256)
+## COMANDO 2 (T1256)
 me olvide de eso, saco la barrera
 
-## RESPUESTA 3 (T1256)
+## RESPUESTA 2 (T1256)
 
 > —Me olvidé de eso.
 
@@ -181,7 +122,61 @@ Levanta la vista hacia la puerta, hacia la vereda vacía. Después hacia Yoshimu
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1257)
+todavia no te diste cuenta?
+
+## RESPUESTA 3 (T1257)
+
+> —¿Todavía no te diste cuenta?
+
+Kaneki te mira. Después mira el libro.
+
+Lo da vuelta despacio. La tapa negra, las letras doradas. La firma en la primera página, en tinta violeta, con una letra redonda, juguetona, que se inclina hacia la derecha como si se estuviera riendo. Y al lado de la firma, un dibujito chico: un búho con un solo ojo abierto.
+
+Se queda mirando el dibujito mucho tiempo.
+
+—Ojos verdes —dice, en voz muy baja, para sí mismo—. Vendas. Una novela que todavía no salió, firmada. —Traga saliva—. "Gente que cree que puede arreglar un mundo roto con las manos." Eso... eso está en todos sus libros. Es lo que escribe siempre. Personajes que lo intentan y...
+
+No termina la frase. Levanta la vista hacia la puerta, hacia la vereda vacía donde la perdió el farol. Se pone pálido.
+
+—Takatsuki Sen es un ghoul.
+
+Touka, detrás de la barra, frunce el ceño.
+
+—¿La escritora esa que lees todo el tiempo? ¿La de las portadas raras?
+
+Kaneki no le contesta. Mira a Yoshimura. Con los ojos muy abiertos.
+
+—Y es su hija.
+
+Yoshimura no responde enseguida. Toma un repasador limpio de la pila, lo dobla en cuatro, lo deja sobre la barra. Toma otro. Lo dobla. Las manos le tiemblan apenas. Es la primera vez que le tiemblan doblando un repasador.
+
+—Escribe desde chica —dice al final, muy bajo, sin levantar la vista—. Con lápiz, en cuadernos viejos. Historias de gente que se perdía. —Deja el segundo repasador encima del primero—. No sabía que ya había otra.
+
+Mira el libro en las manos de Kaneki. Durante un segundo, en los ojos cansados de barista, hay algo que se parece mucho a las ganas de pedírselo.
+
+No lo pide.
+
+Afuera, en la calle, pasa un auto despacio. Los faros iluminan un instante el salón por el vidrio y siguen de largo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1257 · TOKYO GHOUL · DÍA 7 · 20:55     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Semillas del ermitaño: 76                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:53, salón de Anteiku, sin Recinto. Eto se fue y dejó un libro inédito y firmado de Takatsuki Sen. Kaneki le pregunta a Yoshimura quién era ella. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:55, salón de Anteiku. Kaneki descubrió que Takatsuki Sen es Eto, hija de Yoshimura. Yoshimura mira el libro sin pedirlo. Facundo puede actuar.

@@ -12,6 +12,7 @@ ENCUENTROS:
 - T1209 · Se come el pastel entero encerrada; caja doblada en el tacho. En el entrenamiento empieza a mirar los pies de Facundo antes de atacar; no lo toca.
 - T1170 · Llega a abrir Anteiku a las 7; Yoshimura le cuenta lo de anoche; golpea a Kaneki (mejilla) y sube a la sala.
 DIÁLOGOS CLAVE:
+- T1257 · "¿La escritora esa que lees todo el tiempo? ¿La de las portadas raras?"
 - T1240 · "¿Vas a ir a la casa del jefe de todos esos? ¿Del que mandó a quemarnos? ¿Estás loco?"
 - T1207 · "Me baño primero. El que suba antes de que termine, muere."
 - T1206 · "No te tocamos. Ni una vez. Ni con un dedo." "Un pastel. De frutillas. Con crema." "Uno entero. Y no me mires así."
