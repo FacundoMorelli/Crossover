@@ -46,3 +46,6 @@
 - Yami · T1285 · recuerda que Facundo llegó al templo preguntando por Kiato y Kahono por nombre.
 - Yami · T1286 · por Facundo: William oculta algo, y Julius también. Por su Ki: William está en la muralla con Julius y algo dentro de él despertó.
 - Facundo · T1286 · por Yami: Julius trajo a William a los Caballeros de chico y lo protegió. Por el ki: Julius y William en la muralla oeste; la presencia de William se transforma en algo viejo y enorme.
+- Julius · T1287 · conoce a Facundo por el informe de Yami (T473); lo saluda por su nombre. Lo vio llegar por teletransporte con Yami.
+- William/el otro · T1287 · vio a Facundo y a Yami aparecer en la muralla.
+- Facundo · T1287 · Tasación de William: Luz y Espadas, grimorio de cuatro hojas, otra alma en el mismo cuerpo (sin datos).

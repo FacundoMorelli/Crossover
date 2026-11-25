@@ -1285,3 +1285,4 @@ T1283 · BC · Base · Sally inconsciente (+5 F, +50 EXP). "¿Dónde está Yami?
 T1284 · BC · Amanecer Dorado · "Átenlos." Se teletransporta con Yami. Yami: "El gato. Dijiste unos días." "¿Qué haces aquí el único día del año en que no tengo ganas de ver a nadie?"
 T1285 · BC · Amanecer Dorado · Yami explica: Langris con maná como el de Vetto; sospecha de William. "¿Sabes algo de esto?"
 T1286 · BC · Amanecer Dorado · "Oculta algo, y el Rey Mago también." Facundo y Yami sienten a Julius y William en la muralla; algo despierta dentro de William.
+T1287 · BC · Muralla oeste · Llega con Yami. Julius: "¡Facundo-kun!" William se transforma: "Más humanos." Tres espadas de luz apuntan.

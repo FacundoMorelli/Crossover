@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1284)
-atenlos, me teletransporto con yami
-
-## RESPUESTA 1 (T1284)
-
-> —Átenlos.
-
-—¡¿Yo?! —Gauche se señala el pecho—. ¡Soy un herido de guerra!
-
-Pero Gordon ya dejó la piedra mágica en el pasto, con cuidado, y empieza a desenrollar una cuerda negra de magia de maldición de la punta de los dedos, murmurando.
-
-> me teletransporto con Yami
-
-Buscas.
-
-La capital está lejos, al norte. Un hormiguero de presencias, cálidas y apretadas. Y entre todas, una que reconoces enseguida: pesada, tranquila, oscura como el fondo de un lago de noche, con algo áspero en el borde, como el humo de un cigarro.
-
-Te mueves.
-
-Una terraza de piedra blanca, alta, con balaustradas talladas. Debajo, un patio enorme con fuentes, jardines recortados y un estandarte dorado con un sol que flamea al viento. Más allá, los techos de la Ciudad Castillo, el castillo real a lo lejos, el cielo gris.
-
-Yami está sentado en la balaustrada, de espaldas al vacío, con una pierna arriba y la otra colgando. Sin el sobretodo de los Toros, solo con la camisa sin mangas y la katana apoyada en el hombro. Tiene un cigarro a medio fumar entre los dientes. A su alrededor, en el piso de la terraza, hay seis colillas aplastadas.
-
-No se sobresalta. Ni siquiera se mueve. Solo gira los ojos, despacio, hacia el lugar donde apareciste, y se queda mirándote un rato largo, sin expresión.
-
-Suelta el humo por la nariz.
-
-—Mira tú —dice, con esa voz áspera, arrastrada—. El gato.
-
-Se saca el cigarro de la boca. Lo mira. Lo vuelve a meter.
-
-—"Unos días", dijiste. —No lo dice enojado. Lo dice como quien comenta el clima—. Asta preguntó por ti todos los putos días durante tres semanas. Después dejó de preguntar en voz alta. Igual seguía mirando la explanada todas las mañanas.
-
-Se baja de la balaustrada de un salto y aterriza sin ruido. Te mira de arriba abajo. Entrecierra los ojos, no a tu cuerpo: a algo alrededor tuyo, como siempre hacía.
-
-—Tu Ki está igual —dice—. Tranquilo. Demasiado tranquilo, como un lago sin fondo. —Le da otra pitada al cigarro—. Así que no viniste porque estés en problemas.
-
-Hace una pausa.
-
-—¿Qué haces aquí, en Amanecer Dorado, en el único día del año en que no tengo ganas de ver a nadie?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1284 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Capital · base de Amanecer Dorado · terraza  ║
-║ NIVEL 29 · EXP 290.980/320.000 · 12:16       ║
-║ FRAGMENTOS 110.107 · 0 yul                   ║
-║ Energía 87% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1285)
+## COMANDO 1 (T1285)
 que esta pasando en realidad?
 
-## RESPUESTA 2 (T1285)
+## RESPUESTA 1 (T1285)
 
 > —¿Qué está pasando en realidad?
 
@@ -117,10 +59,10 @@ Te mira otra vez, de reojo, con la mirada pesada.
 
 ---
 
-## COMANDO 3 (T1286)
+## COMANDO 2 (T1286)
 creo que el oculta algo y tambien el rey mago
 
-## RESPUESTA 3 (T1286)
+## RESPUESTA 2 (T1286)
 
 > —Creo que él oculta algo. Y también el Rey Mago.
 
@@ -171,7 +113,79 @@ Agarra la katana con las dos manos.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1287)
+vamos, me teletransporto con yami, hola hola, como estan, mucho gusto rey mago, mucho gusto capitan del amanecer dorado
+
+## RESPUESTA 3 (T1287)
+
+> —Vamos.
+
+Le apoyas la mano en el hombro a Yami. Él no pregunta. Ya lo vio hacer en el templo.
+
+La terraza desaparece.
+
+> me teletransporto con Yami
+
+Viento. Mucho viento, frío, que viene de las llanuras del oeste y silba entre las almenas. La muralla exterior de la capital es ancha como una calle, de piedra gris gastada, con torres cada cien metros. De un lado, los techos de la ciudad. Del otro, campos verdes hasta el horizonte.
+
+Y a veinte metros, sobre la muralla, dos hombres.
+
+Uno es bajo, de pelo rubio despeinado, con una túnica blanca y dorada de Rey Mago que el viento le hace flamear. Tiene un libro abierto en la mano y una sonrisa curiosa, casi infantil, que no se le borra ni siquiera ahora. Julius Novachrono.
+
+El otro es alto. O era alto, hace un momento. Todavía tiene la túnica de capitán de Amanecer Dorado, pero ya no tiene la máscara: está en el suelo, partida en dos. El pelo, que era oscuro, se le está volviendo blanco, y le crece largo, desde la raíz hasta la cintura, mientras lo miras. La cicatriz de la cara brilla con una luz fría. En la frente le aparece una marca. A su alrededor flota un grimorio que no es el suyo: tiene cuatro hojas en la tapa.
+
+Tu instinto lo tasa.
+
+```
+╔════════════════════════════════════════╗
+║ WILLIAM VANGEANCE (?)                  ║
+║ Capitán de Amanecer Dorado             ║
+║ PODER: Magia de Luz y Espadas (grimorio║
+║        de cuatro hojas)                ║
+║ Otra alma en el mismo cuerpo:          ║
+║ sin datos                              ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ COPIABLE · MISIÓN: sin datos           ║
+╚════════════════════════════════════════╝
+```
+
+> —¡Hola, hola! ¿Cómo están? Mucho gusto, Rey Mago. Mucho gusto, capitán de Amanecer Dorado.
+
+Los dos se dan vuelta al mismo tiempo.
+
+Julius parpadea. Mira a Yami, que aterrizó a tu lado con la katana desenvainada. Te mira a ti: el pelo, los ojos, el gato. Y la sonrisa curiosa se le estira todavía más.
+
+—¡Oh! —dice, con los ojos brillantes—. ¡Yami! ¡Y tú debes ser el muchacho del informe! ¡El nuevo de los Toros, el que yo no podía medir! ¡Facundo-kun! —Se ríe, de verdad, encantado, como si estuvieran en una fiesta y no en una muralla con el viento en la cara—. ¡Siempre quise conocerte!
+
+Pero no se mueve de donde está. Y el libro que tiene en la mano sigue abierto, con las hojas pasando solas, muy rápido.
+
+El otro no se ríe.
+
+Termina de transformarse mientras lo miras. Se endereza. Es más alto que antes. El pelo blanco, largo, le flota a la espalda como si estuviera bajo el agua. Los ojos, que eran amables, ahora son de otro color, y te miran con un desprecio tranquilo, frío, antiguo, como se mira a un insecto sobre una mesa.
+
+—Más humanos —dice. La voz no es la de William. Es más grave, más vieja—. Siempre llegan más humanos.
+
+Levanta una mano. Sobre la muralla, en el aire, se forman tres espadas de luz blanca, suspendidas, apuntando: una a Julius, una a Yami, una a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1287 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Capital · muralla oeste                      ║
+║ NIVEL 29 · EXP 290.980/320.000 · 12:21       ║
+║ FRAGMENTOS 110.107 · 0 yul                   ║
+║ Energía 87% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:20, terraza de Amanecer Dorado. Facundo y Yami sienten que William, en la muralla oeste con Julius, se está transformando en algo enorme. Yami agarra la katana. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:21, muralla oeste. William se transformó en otro ser y apunta tres espadas de luz a Julius, Yami y Facundo. Facundo puede actuar.
