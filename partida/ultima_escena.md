@@ -3,68 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1294)
-guardo de nuevo el velo, bueno ustedes ignorenme, sigan con la pelea
-
-## RESPUESTA 1 (T1294)
-
-> guardo de nuevo el Velo
-
-Cierras la rendija.
-
-El peso desaparece del aire tan rápido como llegó. El polvo suspendido cae al suelo de golpe. Las rocas flotantes vuelven a su lugar, despacio. Donde había un capitán, otra vez no hay nada. Un muchacho con un gato en el hombro.
-
-> —Bueno, ustedes ignórenme. Sigan con la pelea.
-
-Silencio.
-
-Después, Mereoleona suelta una carcajada que hace temblar la caverna.
-
-—¡¿Ignorarte?! —Se da vuelta hacia el muchacho de las magias con las garras de fuego encendidas al doble—. ¡Ya lo oíste, mocoso! ¡Me lo dejó a mí!
-
-El fuego a su alrededor se extiende de golpe, como una ola, y cubre toda la roca grande, y la siguiente, y la siguiente. Una zona viva, roja, que respira.
-
-El muchacho de las magias reacciona tarde. Sigue mirándote a ti, por encima del hombro, cuando Mereoleona le cae encima. Copia algo de rayo, desesperado, y lo dispara. Ella lo atraviesa con la garra sin frenar. Él cambia a fuego. Ella se ríe y le devuelve el doble. Cambia a esa luz negra rara. Ella le pega en la cara con el puño desnudo, envuelto en llamas, y lo manda volando contra una roca flotante, que se parte en dos.
-
-Asta grita algo y salta detrás, con la espada en alto. Zora lo sigue, maldiciendo, con un círculo mágico en la mano.
-
-Yami se agacha, levanta el cigarro del suelo, lo sopla, y se lo vuelve a poner en la boca. Te mira de reojo.
-
-—"Ignórenme" —repite, con la voz arrastrada—. Claro.
-
-En la roca partida, entre el polvo, el muchacho de las magias se levanta. Tiene la cara ensangrentada y una sonrisa nueva, torcida, distinta. Ya no de burla. De otra cosa.
-
-—Está bien —dice, con la voz rota—. Está bien. Si no puedo salir...
-
-Abre los brazos. Del pecho le empieza a salir una luz negra, densa, que se arremolina hacia adentro de él, cada vez más rápido, cada vez más apretada, como un remolino que se traga a sí mismo. El aire de la caverna se tensa. Las rocas flotantes empiezan a temblar.
-
-—...me los llevo a todos conmigo.
-
-Mereoleona frena en seco a cinco metros de él, con las garras en alto. Asta también.
-
-—¡Se va a hacer estallar! —grita Zora.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1294 · BLACK CLOVER · ~3 MESES DESPUÉS ║
-║ Rocas Gravito · base del Ojo · caverna       ║
-║ NIVEL 29 · EXP 292.980/320.000 · 12:36       ║
-║ FRAGMENTOS 111.107 · 0 yul                   ║
-║ Energía 86% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ Semillas del ermitaño: 72                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1295)
+## COMANDO 1 (T1295)
 lo noqueo
 
-## RESPUESTA 2 (T1295)
+## RESPUESTA 1 (T1295)
 
 > lo noqueo
 
@@ -127,10 +69,10 @@ Es la de Luck.
 
 ---
 
-## COMANDO 3 (T1296)
+## COMANDO 2 (T1296)
 suelto mi haki del rey y noqueo a todos los enemigos, bueno, quieren que les saque esa semilla que tienen dentro todos?
 
-## RESPUESTA 3 (T1296)
+## RESPUESTA 2 (T1296)
 
 > —Bueno, ¿quieren que les saque esa semilla que tienen dentro, a todos?
 
@@ -191,7 +133,49 @@ Los cuatro te están mirando. Ellos no tienen la semilla. Los que la tienen est�
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1297)
+si
+
+## RESPUESTA 3 (T1297)
+
+> —Sí.
+
+Yami se queda mirando el pasillo del norte, por donde se fue el Ki de Luck. Tira el cigarrillo al vacío entre las rocas.
+
+—Luck es de mi escuadrón —dice. No lo dice fuerte. Lo dice como quien pone una piedra encima de la mesa—. Cuando entrenamos, el enano no tenía nada. Lo habría notado.
+
+—Hace tres meses tampoco lo tenía —le dice Mereoleona, cruzándose de brazos. Te mira a ti, no a él—. Si tú lo sientes y nosotros no, es que está bien escondido.
+
+Asta da un paso adelante, con la espada apretada.
+
+—¡¿Y qué le hace?! ¡¿Le duele?! ¡¿Luck está bien?!
+
+Zora habla por primera vez desde que se sentó, sin levantarse.
+
+—Lo que tenía el capitán del Amanecer Dorado... ¿era lo mismo?
+
+Yami gira la cabeza hacia ti despacio.
+
+—Pregunta lo que pregunté yo —dice—. William tenía otra cosa adentro, y casi mata al Rey Mago. —Hace una pausa—. ¿Lo de Luck es eso? ¿Y si se lo sacas, queda bien?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1297 · BLACK CLOVER · ~3 MESES DESPUÉS ║
+║ Rocas Gravito · base del Ojo · caverna       ║
+║ NIVEL 29 · EXP 294.280/320.000 · 12:38       ║
+║ FRAGMENTOS 111.657 · 0 yul                   ║
+║ Energía 86% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ Semillas del ermitaño: 72                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Black Clover)     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Black Clover, 12:38, caverna. Enemigos de la base KO por Haki. Los presentes no tienen semilla; los que la tienen (Luck y otros) están en los pasillos. Facundo puede actuar.
+ESTADO AL CIERRE: Black Clover, 12:38, caverna. Yami pregunta si lo de Luck es como lo de William y si queda bien al sacárselo. Facundo puede actuar.

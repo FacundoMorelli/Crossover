@@ -23,6 +23,7 @@ TASACIÓN (T451): capitán de élite; diferencia estimada x0,2 sobre Facundo.
 - T489 · Desde la ventana del baño: "Si te vas, trae cigarros a la vuelta."
 
 DIÁLOGOS CLAVE:
+- T1297 · "Luck es de mi escuadrón. Cuando entrenamos, el enano no tenía nada." "William tenía otra cosa adentro, y casi mata al Rey Mago. ¿Lo de Luck es eso? ¿Y si se lo sacas, queda bien?"
 - T1296 · "Eso no fue mana." "Ninguno de los que estamos acá tiene nada raro. Lo sentiría. Hablas de los de los pasillos, ¿no? Del enano de los rayos."
 - T1295 · "Aquí no estaban todos. Mereoleona. ¿Cuántos grupos entraron?"
 - T1294 · "Ignórenme. Claro."

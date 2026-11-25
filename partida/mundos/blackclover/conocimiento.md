@@ -64,3 +64,4 @@
 - Facundo · T1295 · (ki) semillas oscuras dormidas en algunos Caballeros Reales; una en Luck (pasillo norte, con Noelle).
 - Mereoleona, Asta, Zora, Yami · T1296 · por Facundo: algunos Caballeros tienen "una semilla" dentro. Yami deduce que habla de los de los pasillos y de Luck. Yami: el Haki "no fue mana".
 - Caballeros Reales de los pasillos · T1296 · vieron caer a sus rivales sin saber por qué; sintieron una presión.
+- Yami, Mereoleona, Asta, Zora · T1297 · por Facundo: Luck tiene la semilla. Sospechan relación con lo de William.

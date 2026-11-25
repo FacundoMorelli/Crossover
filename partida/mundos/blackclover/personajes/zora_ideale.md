@@ -7,3 +7,4 @@ DIÁLOGOS CLAVE:
 - T1294 · "¡Se va a hacer estallar!"
 - T1292 · "¿Este es el famoso Facundo? Asta no paró de hablar de ti en tres meses. Creí que te había inventado."
 ESTADO: En la roca flotante.
+- T1297 · "Lo que tenía el capitán del Amanecer Dorado... ¿era lo mismo?"
