@@ -5,6 +5,7 @@ ENCUENTROS:
 PODER VISTO POR FACUNDO: Tasación: sin datos; ghoul, kagune ukaku, kakuja; esconde mucha fuerza.
 PERSONALIDAD Y FORMA DE HABLAR: Voz aguda, alegre, cantarina, casi infantil; burlona.
 DIÁLOGOS CLAVE:
+- T1254 · "¡Borrados! ¡De la lista! ¡Todos!" "Eso no lo decide nadie en esta ciudad, salvo un viejito que vive detrás de un muro de piedra y toma té con las dos manos." "Fuiste a verlo. El viejo Washuu no regala nada. ¿Qué le diste a cambio?"
 - T1253 · "Oh, oh, oh. ¿Y cómo sabes tú ese nombre, Panadero?" "Siempre mueren muchos. Esta ciudad es una picadora de carne." "¿Quitarles el hambre a todos los ghouls de Tokio de a uno, con la manito?" "Dicen que a mi papá también se lo quitaste. ¿El gran Búho come pan ahora?"
 - T1252 · "Así que tú eres el famoso Panadero." "Qué gato tan serio. Me cae bien." "Esta noche iba a ser la más divertida en veinte años. Tenía un asiento en primera fila. Y tú me arruinaste la función." "¿Por qué?"
 - T1251 · Día 7 20:46 · Sentada en un taburete de la barra de Anteiku, de espaldas a la puerta, frente a Yoshimura (sin lentes, inmóvil). Entró sin intención de dañar (el umbral no tembló).

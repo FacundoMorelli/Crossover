@@ -169,3 +169,6 @@
 - Eto · T1253 · Facundo sabe su nombre (no sabe cómo; no insiste).
 - Kaneki, Touka, Koma, Irimi, Nishiki, Hinami, Apes · T1253 · por Eto: la chica de las vendas es hija de Yoshimura ("mi papá") y se llama Eto (lo dijo Facundo y lo repitió Yoshimura).
 - Eto · T1253 · sabe (rumor/fuentes propias) que Facundo le quitó el hambre a su padre: "dicen".
+- Todos en Anteiku y Eto · T1254 · por Facundo: los van a borrar a todos del listado de la CCG; nadie va a venir a buscarlos.
+- Eto · T1254 · deducción: solo Washuu Tsuneyoshi puede decidir eso; Facundo fue a su casa y salió vivo. (Eto conoce a Tsuneyoshi: "toma té con las dos manos".)
+- Todos en Anteiku · T1254 · por Eto: hay "un viejito detrás de un muro de piedra" que decide en la ciudad (Washuu).

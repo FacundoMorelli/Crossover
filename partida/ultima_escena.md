@@ -3,91 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1251)
-esta bien, lo voy a hacer con todos. simula
-
-## RESPUESTA 1 (T1251)
-
-> —Está bien. Lo voy a hacer con todos.
-
-...
-
-Arima no pide permiso a nadie. Entra a la sala de tatami, habla con Tsuneyoshi menos de un minuto, y sale con las llaves de un auto negro.
-
-Maneja él. Kase va en tu falda, despierto, mirando por la ventanilla. Arima no pone música ni habla. Salen de la ciudad por una autopista, después por una ruta, después por un camino de montaña entre cedros, mientras el cielo se pone azul oscuro. Una hora y media.
-
-El Jardín es un edificio blanco, bajo, rodeado de un muro y de árboles, al final de un camino de tierra. Parece una escuela. Tiene una cancha de deportes, un huerto, ventanas con rejas finas. Lo cuidan dos mujeres mayores de cara quieta y educada. Washuu, las dos. Arima les dice algo en la puerta y ellas se apartan sin preguntar.
-
-Adentro hay chicos.
-
-Treinta y uno. El más chico tiene nueve años. Los más grandes, diecisiete. Todos de pelo blanco o casi blanco, todos con uniformes grises iguales, todos con los mismos movimientos precisos y la misma cara sin expresión, como si los hubieran sacado del mismo molde. Están en el comedor, cenando en silencio, cuando entran ustedes. Se ponen de pie al mismo tiempo al ver a Arima. Ninguno sonríe.
-
-Una muchacha de unos veinte años, bajita, de pelo blanco corto y ojos rojizos, que no lleva el uniforme gris sino un traje de investigadora de la CCG, cruza el comedor corriendo al verlo.
-
-—¿Arima-san? —Se frena en seco delante de él. Lo mira a la cara—. No tiene los lentes.
-
-—No los necesito —dice Arima.
-
-Ella se queda mirándolo con la boca abierta.
-
-Arima les habla a todos desde la puerta del comedor. Poco. Lo justo. Les dice quién eres. Les dice qué hiciste en la galería. Les dice que pueden elegir.
-
-Eligen todos.
-
-Uno por uno, en fila, sin empujarse, como en un control médico. Les apoyas la mano en la nuca. Treinta y una velas de dos puntas. Treinta y una veces apagas una. En los más chicos la cera todavía está entera, y apenas hay que tocar. En los más grandes, en los ojos, ya empezó la escarcha, y la devuelves atrás.
-
-La muchacha del traje de investigadora es la última. Hairu, le dice Arima. Cuando terminas, se tapa la cara con las dos manos y no se mueve. Arima se queda parado al lado de ella, sin tocarla, sin decir nada, hasta que deja de temblar.
-
-Al final, los chicos vuelven a sentarse a la mesa. Comen. En silencio, igual que antes. Pero en la punta, el de nueve años mira un rato largo la lámpara del techo, entrecerrando los ojos, y después le dice algo al oído al de al lado. Y el de al lado, por primera vez, se ríe.
-
-Arima te lleva de vuelta. En el camino no habla. Cuando dejan atrás los cedros y aparecen las luces de la ciudad, dice una sola cosa, mirando la ruta:
-
-—Hairu quería ser investigadora para estar cerca mío. Nunca supe qué decirle. —Una pausa larga—. Ahora tengo tiempo para pensarlo.
-
-Te deja en el Distrito 20, a una cuadra de Anteiku, a las nueve menos cuarto. No se baja. Te mira por el espejo retrovisor.
-
-—Si alguna vez necesitas algo —dice—, voy a estar leyendo.
-
-Y se va.
-
-...
-
-La calle de Anteiku está oscura y tranquila. Las cintas amarillas de la CCG ya no están. Algunos vecinos volvieron: hay luces en las ventanas de arriba de los edificios.
-
-El cartel de la puerta dice CERRADO. Pero adentro, en el salón, la luz está encendida.
-
-Y la gente de adentro está quieta. Demasiado quieta.
-
-Por el vidrio ves a Kaneki de pie junto a la escalera, con la cara blanca. A Touka detrás de la barra, con el ojo negro y rojo y el ala a medio salir. A Koma y a Irimi en la puerta de la cocina, tensos. Nishiki tiene a Hinami detrás de él, contra la pared.
-
-Y en el medio del salón, sentado en un taburete de la barra, de espaldas a la puerta, hay alguien que no estaba cuando te fuiste. Una figura chica, envuelta de la cabeza a los pies en una capa gris con capucha. Por debajo de la capa asoman vendas: en las manos, en los tobillos, alrededor del cuello. Tiene las piernas colgando del taburete, balanceándolas, como un chico.
-
-Del otro lado de la barra, frente a esa figura, Yoshimura está de pie. Sin lentes. Con las manos apoyadas en la madera. No se mueve.
-
-El hilo plateado junto al cordón está quieto. El umbral no tembló. Quien sea que esté sentado ahí, entró sin venir a hacer daño.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1251 · TOKYO GHOUL · DÍA 7 · 20:46     ║
-║ Distrito 20 · vereda de Anteiku              ║
-║ NIVEL 29 · EXP 290.230/320.000               ║
-║ FRAGMENTOS 109.902 · 543.700 yenes           ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ Semillas del ermitaño: 76                    ║
-║ Recinto de Sakaime: Anteiku (nadie sale)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1252)
+## COMANDO 1 (T1252)
 entro a anteiku
 
-## RESPUESTA 2 (T1252)
+## RESPUESTA 1 (T1252)
 
 > entro a Anteiku
 
@@ -153,10 +72,10 @@ La voz no cambia de tono. Sigue alegre. Pero los ojos verdes, detrás de las ven
 
 ---
 
-## COMANDO 3 (T1253)
+## COMANDO 2 (T1253)
 eto, por que iban a morir muchos
 
-## RESPUESTA 3 (T1253)
+## RESPUESTA 2 (T1253)
 
 > —Eto. Porque iban a morir muchos.
 
@@ -208,7 +127,66 @@ Yoshimura no abre los ojos.
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1254)
+la ignoro, yoshimura, los van a borrar a todos del listado, nadie mas va a venir a buscarlos, a ninguno
+
+## RESPUESTA 3 (T1254)
+
+> la ignoro
+
+> —Yoshimura, los van a borrar a todos del listado. Nadie más va a venir a buscarlos. A ninguno.
+
+Le das la espalda a Eto como si fuera un mueble más del salón.
+
+Yoshimura abre los ojos.
+
+Te mira. Mucho tiempo. Como alguien que escucha una frase en un idioma que estudió toda la vida y nunca había oído en voz alta.
+
+—A ninguno —repite.
+
+Detrás de ti, Koma suelta una carcajada ronca, cortada, que se le quiebra a la mitad. Irimi le pone una mano en el hombro y se lo aprieta. Uno de los Apes del pasillo se sienta en el piso de golpe.
+
+Touka no se mueve. Tiene el ojo negro y rojo clavado en ti, y el ala, que estaba a medio salir, se le recoge despacio dentro de la espalda hasta desaparecer.
+
+Kaneki mira a Yoshimura. Después a Eto. Después a ti. No sabe adónde mirar.
+
+Yoshimura apoya las dos manos en la barra. Baja la cabeza. Se queda así un momento, encorvado, como un hombre muy viejo que acaba de soltar algo que cargaba desde antes de que naciera cualquiera de los que están en ese salón.
+
+—Gracias —dice. Muy bajo. Casi no se oye—. Morelli-san. Gracias.
+
+Detrás de ti, en el taburete, Eto deja de balancear las piernas.
+
+Se queda callada un segundo entero, lo que en ella parece mucho. Después se ríe. No la risita de antes: una carcajada larga, aguda, que rebota en las tazas colgadas y en los frascos de granos de la estantería.
+
+—¡Borrados! —Se agarra la panza con las dos manos vendadas, doblada sobre el taburete—. ¡De la lista! ¡Todos! —Se seca algo de debajo del ojo, por encima de las vendas—. Ay, Panadero. Eso no lo decide un investigador. Eso no lo decide nadie en esta ciudad, salvo un viejito que vive detrás de un muro de piedra y toma té con las dos manos.
+
+Se baja del taburete. Camina alrededor tuyo, despacio, hasta ponerse otra vez delante, aunque no la mires.
+
+—Fuiste a verlo. —La voz ya no se ríe—. Entraste a esa casa y saliste caminando. —Inclina la cabeza—. El viejo Washuu no regala nada, Panadero. Nunca. A nadie.
+
+Los ojos verdes brillan entre las vendas.
+
+—¿Qué le diste a cambio?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1254 · TOKYO GHOUL · DÍA 7 · 20:50     ║
+║ Distrito 20 · Anteiku, salón                 ║
+║ NIVEL 29 · EXP 290.230/320.000               ║
+║ FRAGMENTOS 109.902 · 543.700 yenes           ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, lomo erizado             ║
+║ Semillas del ermitaño: 76                    ║
+║ Recinto de Sakaime: Anteiku (nadie sale)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA · Puerta abierta   ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:48, salón de Anteiku. Eto se burla del plan de Facundo y revela delante de todos que Yoshimura es su padre. Yoshimura, ojos cerrados: "Eto." Facundo puede reaccionar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 7 20:50, salón de Anteiku. Yoshimura agradeció. Eto dedujo que Facundo fue a ver a Washuu y pregunta qué le dio a cambio. (Facundo prometió el secreto de los Washuu.) Facundo puede responder.
