@@ -8,4 +8,4 @@ ENCUENTROS:
 DIÁLOGOS CLAVE:
 - T1209 · Pregunta si es cierto que el gerente encontró un "milagro de dos colores".
 QUÉ SABE DE FACUNDO: Quita el hambre (lo vivió).
-ESTADO: Sin hambre de ghoul (T1209).
+ESTADO: Sin hambre de ghoul. T1218: en el piso bajo Higher Mind, pierna quebrada, cabeza sangrando, kagune roto, máscara partida.

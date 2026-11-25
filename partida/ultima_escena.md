@@ -3,91 +3,10 @@
 
 ---
 
-## COMANDO 1 (T1215)
-simula
-
-## RESPUESTA 1 (T1215)
-
-> simula
-
-La tarjeta de Shinohara termina debajo de la caja registradora, donde Yoshimura la deja con cuidado, al lado de un sobre de recibos viejos.
-
-...
-
-Pasan tres días.
-
-A las diez, la puerta del callejón. El tercer día son veintiséis. El cuarto, treinta y uno. El quinto, cuarenta. Ya no vienen solo del Distrito 20: llegan del 11, del 13, del 14, en tren, en grupos de dos o tres, con la capucha puesta y los ojos clavados en el suelo. Algunos se quedan en la boca del callejón una hora entera antes de animarse. Una madre trae a tres chicos en fila, de la mano. Un hombre de traje, con un portafolios, que dice trabajar en un banco desde hace veinte años, llora como un chico cuando muerde una galletita de agua y después se seca la cara con un pañuelo planchado, avergonzado.
-
-El quinto día, Koma te recibe en el callejón con los brazos abiertos y a los gritos:
-
-—¡Ahí está! ¡El Panadero!
-
-Y no es el único. En la fila, entre los que esperan, ya nadie dice "el humano de los dos colores". Dicen el Panadero.
-
-A la tarde, el Distrito 24. Kaneki ya no necesita decir "yo" para no perderse. Touka no te toca, pero el cuarto día un cristal te pasa tan cerca de la oreja que te corta un mechón de pelo azul, y ella se pasa el resto de la tarde insoportable.
-
-Hinami aprende a hacer tostadas. Banjou y los tres de las máscaras se vuelven a su departamento junto al río, pero vienen todos los días a la hora del almuerzo. Tsukiyama manda flores dos veces. Nishiki sale dos noches con Kimi, y la segunda vuelve con una cara que nadie le había visto nunca.
-
-El cuarto día a la noche, después del cierre, un hombre con sombrero bombín y traje oscuro entra por la puerta principal. La pared lo deja pasar. Habla con Yoshimura media hora, a solas, en la cámara del fondo, con la puerta cerrada y la voz tan baja que solo se oye un murmullo. Cuando se va, Yoshimura se queda sentado en la cocina, a oscuras, hasta pasada la medianoche.
-
-Al día siguiente, Yoshimura, Irimi y Koma pasan la mañana en la cámara del fondo quemando papeles en un balde de metal. El humo sale por la ventanita de arriba de la pileta. Yomo llega a la tarde, habla con Yoshimura en voz baja, mira a Touka un largo rato y no dice nada.
-
-Nadie te explica nada. Pero Anteiku cambia. Yoshimura sonríe igual, sirve igual, seca las tazas igual. Pero cada tanto se queda quieto, mirando la puerta.
-
-...
-
-Día 6. Cinco y cuarenta de la tarde.
-
-El sol se pone temprano. La calle de Anteiku está naranja y fría. Hay pocos clientes: una pareja de estudiantes, un viejo con un diario.
-
-Kase es el primero en notarlo. Levanta la cabeza en el taburete, con las orejas paradas, y mira la ventana.
-
-Después lo sientes tú. Afuera, a lo lejos, en todas las direcciones a la vez, presencias que se mueven. Muchas. Cientos. Se acercan de a grupos, ordenadas, por las avenidas, por las calles laterales, por los techos. Humanos, casi todos. Con algo frío en las manos que no termina de estar vivo.
-
-En la calle suena un altavoz. Una voz de hombre, metálica, repetida por varios parlantes en distintas esquinas, que rebota entre los edificios:
-
-—Atención a todos los residentes del Distrito 20. La Comisión Contra Ghouls inicia en este momento una operación especial en la zona. Se ordena a todos los civiles evacuar inmediatamente hacia el norte del distrito, siguiendo las indicaciones del personal. Repito...
-
-La pareja de estudiantes se levanta de un salto. El viejo dobla el diario.
-
-Por la ventana se ven las primeras camionetas blancas con el emblema de la CCG cortando la avenida, a dos cuadras. Hombres de traje negro con maletines plateados que bajan corriendo, en fila.
-
-En la cocina, Yoshimura se desata el delantal.
-
-Lo dobla en cuatro, igual que el repasador, y lo deja sobre la mesada. Se quita los lentes. Los dobla. Los deja encima del delantal.
-
-Después se vuelve hacia ti.
-
-—Irimi y Koma están afuera, con su gente —dice, tranquilo—. En las calles de alrededor, para frenar a los que vengan. Se lo prometieron hace muchos años a este lugar. Ellos no están dentro de su pared, Morelli-san.
-
-Mira la puerta trasera, la del callejón.
-
-—Y yo tengo que salir. Si el Búho no aparece, van a seguir buscando, y van a buscar acá. —Hace una pausa—. Le pido una sola cosa. Que los chicos no salgan de esta casa.
-
-Arriba, en la escalera, Kaneki ya está parado, con la cara blanca. Detrás de él, Touka.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1215 · TOKYO GHOUL · DÍA 6 · 17:41     ║
-║ Distrito 20 · Anteiku, cocina                ║
-║ NIVEL 28 · EXP 276.530/280.000               ║
-║ FRAGMENTOS 109.256 · 543.700 yenes           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el taburete, orejas paradas         ║
-║ Recinto de Sakaime: activo sobre Anteiku     ║
-║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
-║ ni caiga en la Operación del Búho            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1216)
+## COMANDO 1 (T1216)
 yoshimura, tu tampoco tienes que morir voy a ir con usted, nadie va a poder entrar a este lugar, aunque me aleje
 
-## RESPUESTA 2 (T1216)
+## RESPUESTA 1 (T1216)
 
 > —Yoshimura, usted tampoco tiene que morir. Voy a ir con usted. Nadie va a poder entrar a este lugar, aunque me aleje.
 
@@ -135,10 +54,10 @@ Yoshimura no le contesta a Kaneki. Te mira a ti.
 
 ---
 
-## COMANDO 3 (T1217)
+## COMANDO 2 (T1217)
 que vengan si quieren, no voy a dejar que se mueran
 
-## RESPUESTA 3 (T1217)
+## RESPUESTA 2 (T1217)
 
 > —Que vengan si quieren. No voy a dejar que se mueran.
 
@@ -198,7 +117,72 @@ En la boca del callejón, a lo lejos, por encima de los disparos, se oye un soni
 ╚══════════════════════════════════════════════╝
 ```
 
+---
+
+## COMANDO 3 (T1218)
+vamos
+
+## RESPUESTA 3 (T1218)
+
+> —Vamos.
+
+El Búho sale primero. No corre: se lanza, encorvado, por encima de los tachos, y trepa por la pared del callejón hasta los techos con dos impulsos de los brazos larguísimos. Kaneki y Touka lo siguen por arriba. Kaneki se agarra de las cornisas con los tentáculos. Touka bate el ala y sube en tres saltos.
+
+Tú vas por el aire. Kase se te aferra al hombro con las uñas.
+
+Dos cuadras al este, la avenida es otra ciudad.
+
+Hay camionetas blancas cruzadas en el medio de la calle, con las puertas abiertas. Faroles caídos. Vidrios rotos en todas las veredas. Contra la pared de un edificio de departamentos, tres cuerpos con máscaras de mono, quietos, en un charco oscuro. Más allá, cuatro o cinco Apes más, heridos, arrastrándose hacia un portal, mientras una fila de investigadores con quinques les corta el paso.
+
+Y en el centro, sobre el asfalto agrietado, la máquina.
+
+Es enorme, del tamaño de un camión chico: un cuerpo de metal blanco y negro, con patas articuladas como las de un insecto y un brazo largo, segmentado, que termina en algo que gira y chirría, a medio camino entre un taladro y una sierra. Sale humo de las juntas. Detrás, conectado a ella por cables y tubos, hay un hombre grande, de casco y armadura, con una sonrisa ancha detrás del visor. Un investigador.
+
+Tu instinto lo tasa sin que lo pidas.
+
+```
+╔════════════════════════════════════════╗
+║ MOUGAN TANAKAMARU                      ║
+║ CCG · Investigador de Clase Especial   ║
+║ PODER: Quinque Higher Mind (máquina    ║
+║        de asalto, modos de ataque)     ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: muy inferior      ║
+║ COPIABLE · MISIÓN: BAJA                ║
+╚════════════════════════════════════════╝
+```
+
+Debajo del brazo de la máquina está Koma.
+
+Tirado de espaldas sobre el asfalto, con el kagune roto en pedazos a su alrededor y la máscara de mono partida a la mitad. Le sangra la cabeza. Tiene una pierna en un ángulo que no es el de una pierna. Intenta levantarse, apoyándose en un codo, y no puede.
+
+El brazo de la máquina se levanta por encima de él. La punta gira más rápido. El chirrido sube hasta volverse un aullido.
+
+—¡Lo siento, mono! —grita el investigador, alegre, detrás del visor—. ¡Es el trabajo!
+
+El brazo empieza a bajar.
+
+A tu lado, en el borde del techo, el Búho ya está tensando los brazos para saltar. Kaneki grita algo. Touka abre el ala entera.
+
+Estás más cerca que todos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1218 · TOKYO GHOUL · DÍA 6 · 17:46     ║
+║ Distrito 20 · avenida, dos cuadras al este   ║
+║ NIVEL 28 · EXP 276.530/280.000               ║
+║ FRAGMENTOS 109.256 · 543.700 yenes           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ Recinto de Sakaime: activo sobre Anteiku     ║
+║ MISIÓN DE MUNDO: Que nadie de Anteiku muera  ║
+║ ni caiga en la Operación del Búho            ║
+║ OBJETIVO: proteger a Yoshimura, Irimi, Koma  ║
+╚══════════════════════════════════════════════╝
+```
+
 
 ---
 
-ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:45, callejón de Anteiku. Yoshimura es el Búho. Koma, acorralado dos cuadras al este; su grito se cortó. Facundo puede actuar.
+ESTADO AL CIERRE: Tokyo Ghoul, Día 6 17:46, avenida. El brazo de Higher Mind baja sobre Koma. Facundo es el más cerca. Facundo puede actuar.
