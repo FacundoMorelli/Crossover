@@ -6,3 +6,4 @@ T1162 · Arriba: dos cuartos y un sofá, cortinas gruesas. Touka abre a las 7.
 T1163 · Planta alta (escalera angosta junto al mostrador): pasillo, cuarto izq. chico (cama, muñeca de tela: Hinami), cuarto der. (dos colchones: Banjou y máscaras), baño, sala con sofá verde gastado, mesa baja, estantería de libros, ventana con cortinas gruesas. Facundo duerme en el sofá.
 T1170 · Mañana: libro de Tsukiyama con tarjeta blanca de borde dorado en la silla de la ventana.
 T1177 · Puerta trasera al callejón: por ahí vienen ghouls a buscar paquetes; los primeros a las 10.
+T1180 · RECINTO DE SAKAIME (6 caras, con techo) alrededor del edificio: frente bajo el toldo, costados, callejón trasero (tachos, puerta de metal). Hilo plateado finísimo pegado al cordón.

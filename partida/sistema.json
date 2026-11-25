@@ -1,8 +1,8 @@
 {
-  "turno": 1179,
+  "turno": 1180,
   "mundo_actual": "tokyoghoul",
   "fecha_local": "otoño (TG cap. ~105), mañana siguiente al asalto a la mansión de Kanou",
-  "hora": "07:27",
+  "hora": "07:31",
   "edad": 18,
   "nivel": 28,
   "exp": 275930,
@@ -81,7 +81,7 @@
     "energia": 3993,
     "control": 3992
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -184,7 +184,15 @@
         "estado": "desbloqueado (T246)",
         "efecto": "Encierra una zona de hasta 200 m en una frontera total: Facundo decide qué existe, entra o sale de ella, incluidas técnicas y energía."
       },
-      "marcas_o_lineas_activas": [],
+      "marcas_o_lineas_activas": [
+        {
+          "tipo": "Recinto de 6 caras (con techo)",
+          "lugar": "Anteiku, Distrito 20 (Tokyo Ghoul)",
+          "desde": "T1180 07:31",
+          "reglas": "Entra y sale todo el que quiera, salvo miembros de la CCG. No entra ningún ataque dirigido contra el lugar (balas, quinques, fuego, nada lanzado contra Anteiku). Dura lo que Facundo quiera.",
+          "visibilidad": "Líneas visibles: un hilo plateado finísimo en la vereda junto al cordón y por los costados/callejón; las paredes y el techo no se ven."
+        }
+      ],
       "tecnicas": [
         "Marco (cuatro líneas que cierran un plano-frontera)",
         "Recinto (Marco en el suelo: cuatro paredes-frontera, sin techo)"

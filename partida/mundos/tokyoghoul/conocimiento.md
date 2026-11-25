@@ -45,3 +45,5 @@
 - Yoshimura, Touka · T1178 · por Facundo: su habilidad moldea el alma; podría sacarles el kagune a los que quieran.
 - Yoshimura, Touka · T1179 · por Facundo: puede volverlos humanos del todo (los detectores no los marcarían), pero quien conozca su cara podría matarlos y no podrían defenderse.
 - Facundo · T1179 · por Touka: la CCG nunca le vio la cara (siempre usó máscara).
+- Touka (por la ventana) · T1180 · vio a Facundo sacar una katana de la nada en la calle y caminar alrededor del café con ella. No vio el Recinto (no se ve). Cree que puede ser una quinque.
+- Yoshimura · T1180 · vio la espada desde la barra; nota algo distinto en el umbral (deducción por sus sentidos; el Velo no oculta el Recinto, que no es poder de Facundo sobre sí mismo, pero no se ve ni se siente como kagune). No sabe qué es.
