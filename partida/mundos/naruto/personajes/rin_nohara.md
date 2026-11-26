@@ -10,3 +10,4 @@ QUÉ SABE (T1425): nada de lo que hizo Obito (murió antes).
 ESTADO: viva, en la carpa de la colina.
 - T1426 · "Me lo vas a contar. Todo. Después." "Siempre me contabas todo, aunque fuera un desastre. Llegabas tarde y me contabas que habías ayudado a una viejita a cruzar la calle." "Ya lo sé." Abraza a Obito.
 QUÉ SABE (T1426): por Obito, mató gente, al sensei, a Kushina, ayudó a matar un clan y quiso borrar el mundo.
+- T1427 · Mira a Kase; le aprieta la mano a Obito. Se queda con él.

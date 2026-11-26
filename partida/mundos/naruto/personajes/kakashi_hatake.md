@@ -60,3 +60,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1423 · Se arrodilla junto a Obito, sin máscara, con el Sharingan al aire. "Lo cuidé todos los días. Diecisiete años. Fui a tu nombre en la piedra todas las mañanas. Y llegaba tarde a todo, porque me quedaba hablándote." "Ella se puso delante a propósito... Ella eligió."
 - T1424 · "¿Rin? ¿Rin está viva?" Se tapa la boca; le tiemblan los hombros.
 - T1426 · Se tapa los ojos con la mano; Minato lo abraza junto a Rin y Obito.
+- T1427 · "Más que el mundo, creo." Se queda con Obito.

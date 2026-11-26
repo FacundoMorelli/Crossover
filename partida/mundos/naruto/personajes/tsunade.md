@@ -88,3 +88,4 @@ QUÉ SABE (T1416): por Facundo, se queda unos días, se irá y volverá.
 - T1420 · Ve a Facundo sacar una katana de la nada. Revisa a Obito: "El chakra está ahí. Pero no se mueve. Ni un hilo. Es como si estuviera encerrado en una caja."
 - T1424 · "Rin Nohara. La alumna de Minato. Está bien. Está bien."
 - T1426 · Se da vuelta y se seca la cara con la manga.
+- T1427 · "Basta por hoy, o me voy a deshidratar." Deja a Minato, Kakashi, Rin y Yamato con Obito; se lleva a Facundo. Pendientes: Kisame, Zetsu blanco, Cumbre de los Kages ("por un secuestro que no pasó"), tres de la Nube. "Empecemos por el tiburón. ¿Qué hago con Kisame?"

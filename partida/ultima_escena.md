@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1424)
-
-si haz que tsmbien haya revivido con la misma edad que kakashi y obito
-
-## RESPUESTA 1 (T1424)
-
-> si haz que tsmbien haya revivido con la misma edad que kakashi y obito
-
-> —Sí.
-
-Obito se queda sin respirar.
-
-—Sí —repite, como si no entendiera la palabra.
-
-Kakashi se da vuelta hacia ti tan rápido que casi pierde el equilibrio. Tiene el ojo negro y el rojo muy abiertos.
-
-—¿Rin? —Le sale la voz quebrada—. ¿Rin está viva?
-
-En algún lugar de la aldea, en una casa de dos pisos de una calle con faroles, del lado sur, una mujer de treinta años, de pelo castaño corto y dos marcas violetas en las mejillas, se despertó hace una hora en su cama de cuando era chica. Recuerda el bosque, la lluvia, el Tres Colas debatiéndose adentro de su pecho y la mano de Kakashi llena de rayos. Recuerda haberse puesto delante. Y recuerda, al volver, una voz que le dijo que quien la trajo tenía un gato.
-
-Obito no sabe nada de eso. Pero se le nota en la cara que lo cree.
-
-Intenta levantarse del futón. Sin chakra, sin fuerza, se le doblan los brazos y se cae de costado. Lo intenta otra vez. Minato lo agarra de los hombros para que no se golpee la cabeza.
-
-—Obito, quieto...
-
-—¡Suéltame! —Se retuerce bajo las manos de su maestro, desesperado, con el ojo nuevo lleno de lágrimas—. ¡Suéltame, sensei, tengo que...! ¡Tengo que verla! ¡Tengo que...!
-
-Se le acaba el aire. Se queda tirado de costado, jadeando, con las manos aferradas al futón.
-
-Kakashi se tapa la boca con la mano. No dice nada. Le tiemblan los hombros.
-
-Tsunade se pone de pie. Mira a Obito, mira a Kakashi, te mira a ti.
-
-—Rin Nohara —dice en voz baja—. La alumna de Minato. —Se pasa la mano por la cara—. Está bien. Está bien.
-
-Obito levanta la cabeza del futón como puede. Te mira a ti. No a Minato. No a Kakashi. A ti.
-
-—Por favor. —Lo dice el hombre que hace unas horas quería atrapar al mundo entero en un sueño, y le sale como de chico—. Por favor. Llévame con ella.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1424 · NARUTO · DÍA 1 · 16:19          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1425)
+## COMANDO 1 (T1425)
 
 me teletransporto a rin y la traigo con obito
 
-## RESPUESTA 2 (T1425)
+## RESPUESTA 1 (T1425)
 
 > me teletransporto a rin y la traigo con obito
 
@@ -135,11 +78,11 @@ Se queda mirándola, como si fuera lo único que existe.
 
 ---
 
-## COMANDO 3 (T1426)
+## COMANDO 2 (T1426)
 
 miro
 
-## RESPUESTA 3 (T1426)
+## RESPUESTA 2 (T1426)
 
 > miro
 
@@ -198,4 +141,65 @@ Después Obito levanta la cabeza del hombro de Rin. Tiene la cara roja, mojada, 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:25, carpa de la colina. Obito le confiesa a Rin que hizo cosas horribles (mató al sensei, a Kushina, ayudó a matar un clan, quiso borrar el mundo). Rin: "Me lo vas a contar. Todo. Después." Lo abraza; él llora. Minato abraza a los tres (Rin, Obito, Kakashi). Tsunade se seca la cara. Fugaku sale en silencio. Obito a Facundo: "¿Por qué? Hiciste todo esto... Y a mí me diste un ojo. Después de todo lo que hice. ¿Por qué a mí también?" Facundo tiene que contestar.
+## COMANDO 3 (T1427)
+
+dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
+
+## RESPUESTA 3 (T1427)
+
+> dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
+
+> —Dime: una persona pierde todo, y después viene alguien y le dice que le puede cumplir un sueño. ¿Qué crees que hubieran hecho los demás? Lo mismo que tú. Si alguien le hiciera daño a mi gato, lo que hiciste tú se quedaría corto.
+
+Obito se queda mirándote.
+
+Durante un rato no dice nada. El ojo nuevo, rojo de llanto, va de tu cara a Kase, sentado en tu hombro, y vuelve a tu cara.
+
+Después se ríe. Una risa rota, mojada, que le sale mezclada con un sollozo.
+
+—Por un gato —dice—. Destruirías el mundo por un gato.
+
+—Más que el mundo, creo —murmura Kakashi, sin sacarse la mano de los ojos.
+
+Rin mira a Kase. Kase la mira a ella, con el ojo rojo y el ojo azul, sin parpadear. Después baja de tu hombro, sin que nadie lo espere, camina por el suelo de la carpa hasta el futón y se sube al pecho de Obito, despacio, con las cuatro patas. Se sienta encima, pesado, con la cola enroscada sobre las patas, y lo mira desde arriba, a un palmo de la cara.
+
+Obito se queda quieto, sin respirar.
+
+Kase lo huele. La nariz. La mejilla con cicatrices. El ojo nuevo.
+
+Después se echa. Ahí, sobre el pecho de Obito, con la cabeza entre las patas. Y cierra los ojos.
+
+Obito no se mueve. Mira al gato echado sobre él como quien mira algo que no merece. Le tiembla la mano. La levanta despacio y la apoya, sin fuerza, sobre el lomo de Kase. Kase no se va.
+
+—No sé cómo se paga esto —dice Obito, muy bajo, sin dejar de mirar al gato—. No sé si se puede.
+
+—Todos los días —dice Minato—. Así se paga. Un día por vez.
+
+Rin le aprieta la mano a Obito.
+
+Tsunade se aclara la garganta. Tiene los ojos rojos otra vez, y se nota que está harta de tenerlos así.
+
+—Bueno. —Se acomoda el abrigo—. Basta por hoy, o me voy a deshidratar. Minato, Kakashi, Rin, se quedan con él. Yamato, en la entrada. —Te mira—. Tú te vienes conmigo. Todavía tengo un hombre tiburón tirado en el piso de una carpa que ya no existe, media planta parlante, una Cumbre de los Kages que se convocó por un secuestro que no pasó y tres de la Nube que van a querer la cabeza de Sasuke.
+
+Se pasa la mano por la cara.
+
+—Empecemos por el tiburón. ¿Qué hago con Kisame?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1427 · NARUTO · DÍA 1 · 16:28          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: echado sobre el pecho de Obito         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:28, carpa de la colina. Facundo a Obito: cualquiera que pierde todo y le ofrecen cumplir un sueño haría lo mismo; si alguien dañara a su gato, lo que hizo Obito se quedaría corto. Obito: "Destruirías el mundo por un gato." Kakashi: "Más que el mundo." Kase se sube al pecho de Obito, lo huele y se echa; Obito le apoya la mano. "No sé cómo se paga esto." Minato: "Todos los días. Un día por vez." Tsunade: Minato, Kakashi y Rin se quedan con Obito; Yamato en la entrada; Facundo con ella. Pendientes: Kisame, Zetsu blanco, Cumbre, Kumo. "Empecemos por el tiburón. ¿Qué hago con Kisame?" Facundo tiene que contestar.

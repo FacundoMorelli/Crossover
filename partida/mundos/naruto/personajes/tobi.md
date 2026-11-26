@@ -42,3 +42,5 @@ ESTADO: ojo izquierdo nuevo (normal); derecho aún sellado y vendado; chakra enc
 - T1424 · Facundo: "Sí" (Rin vive). Intenta levantarse, no puede (sin chakra); Minato lo sostiene. "¡Suéltame, sensei, tengo que verla!" A Facundo: "Por favor. Por favor. Llévame con ella."
 - T1425 · Ve a Rin viva, con treinta años, arrodillada junto a él tocándole la cara. No puede hablar. "Rin."
 - T1426 · A Rin: "Hice cosas horribles, Rin... Maté a gente. Al sensei. A su esposa. Ayudé a matar a un clan entero. Quise borrar el mundo. Porque no estabas." "Esta vez no ayudé a ninguna viejita." Llora abrazado a Rin. Minato abraza a los tres. A Facundo: "¿Por qué? Hiciste todo esto. El sensei, Rin, la aldea. Y a mí... a mí me diste un ojo. Después de todo lo que hice. ¿Por qué a mí también?"
+- T1427 · "Por un gato. Destruirías el mundo por un gato." Kase se echa sobre su pecho; le apoya la mano. "No sé cómo se paga esto. No sé si se puede."
+RELACIÓN CON FACUNDO (T1427): gratitud y vergüenza; empieza a aceptar.

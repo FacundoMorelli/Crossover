@@ -1425,3 +1425,4 @@ T1423 · NARUTO · Carpa de la colina · Kakashi y Obito: "No me mires con mi oj
 T1424 · NARUTO · Carpa de la colina · (Corrección: Rin revivida por el deseo 2, ~30 años.) "Sí." Kakashi: "¿Rin está viva?" Obito intenta levantarse. "Por favor. Llévame con ella."
 T1425 · NARUTO · Casa de Rin → carpa de la colina · Busca a Rin ("La voz dijo que tenías un gato") y la trae. Rin ve a Obito: "¿Obito? ¿Estabas vivo?" Obito: "Rin."
 T1426 · NARUTO · Carpa de la colina · Obito confiesa a Rin. Rin: "Me lo vas a contar." Lo abraza. Minato abraza al equipo entero. Fugaku sale en silencio. Obito a Facundo: "¿Por qué a mí también?"
+T1427 · NARUTO · Carpa de la colina · "Si alguien dañara a mi gato, lo que hiciste se quedaría corto." Obito: "Destruirías el mundo por un gato." Kase se echa sobre el pecho de Obito. Minato: "Un día por vez." Tsunade: "¿Qué hago con Kisame?"

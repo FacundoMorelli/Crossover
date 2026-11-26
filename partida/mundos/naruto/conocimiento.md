@@ -185,3 +185,4 @@
 - Fugaku, Tsunade, Yamato · T1423 · oyen la historia de Rin y de Obito.
 - Obito, Kakashi, Minato, Tsunade, Fugaku, Yamato · T1424 · por Facundo: Rin también está viva.
 - Rin · T1425 · ve a Facundo (el del gato) y lo sigue; ve a Obito vivo con cicatrices, a Kakashi y a Minato. No sabe que Obito fue el enmascarado.
+- Obito, Rin, Minato, Kakashi, Tsunade, Yamato · T1427 · por Facundo: si alguien le hiciera daño a su gato, haría algo peor que lo que hizo Obito.
