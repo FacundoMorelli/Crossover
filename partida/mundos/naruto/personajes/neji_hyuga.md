@@ -18,3 +18,4 @@ ESTADO: activo.
 - T1325 · Vuelve a activar el Byakugan y mira todo el cuerpo de Facundo buscando algo que no está.
 - T1326 · "No. Nada. Ni en la mano, ni en los pies, ni en ningún lado. Lo paró con el cuerpo."
 QUÉ PODERES DE FACUNDO VIO (T1326): fuerza física enorme sin chakra visible.
+- T1328 · "Otra vez nada. No usa chakra. No se dio vuelta. No sé cómo supo dónde iban a caer."

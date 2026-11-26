@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1325)
-
-eh mucho gusto, soy facundo morelli, esta bien peleemos
-
-## RESPUESTA 1 (T1325)
-
-> eh mucho gusto, soy facundo morelli, esta bien peleemos
-
-> —Eh, mucho gusto. Soy Facundo Morelli. Está bien, peleemos.
-
-A Lee le explota la cara de alegría.
-
-—¡¡ACEPTÓ!! —Se da vuelta hacia el hombre de la roca—. ¡Gai-sensei! ¡Aceptó!
-
-El hombre de verde deja caer la roca detrás de él sin mirar, con un estruendo que levanta polvo hasta las carpas. Aparece al lado de Lee en un parpadeo, con el pulgar arriba y los dientes brillando.
-
-—¡Un combate entre jóvenes en medio de las ruinas! ¡Esto es lo que necesita la aldea! ¡Que la llama de la juventud vuelva a arder sobre las cenizas! —Te señala con el dedo—. ¡Forastero! ¡Yo seré el árbitro! ¡Y si mi alumno pierde, dará mil vueltas al cráter!
-
-—¡Y si gano, daré dos mil! —grita Lee.
-
-—¡ESE ES MI ALUMNO!
-
-Se abrazan. Lloran. Detrás de ellos se forma una puesta de sol que no existe.
-
-Tenten se tapa la cara con la mano.
-
-—Nunca lo vas a ver dos veces y vas a desear no haberlo visto la primera —te dice, sin levantar la vista de las armas.
-
-Neji se separa de la viga. Las venas de los ojos se le vuelven a hinchar. Esta vez no te mira a la cara: mira todo, tus pies, tus manos, tu centro, como si buscara algo que no está.
-
-Gai se pone entre ustedes dos, levanta una mano y la deja caer como una guillotina.
-
-—¡Comiencen!
-
-Lee desaparece.
-
-No corre: desaparece. Una nube de polvo marca el lugar donde estaba, y medio segundo después está en el aire, a tu izquierda, girando sobre sí mismo con la pierna estirada como una lanza.
-
-—¡Remolino de la Hoja!
-
-El talón viene directo a tu cabeza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1325 · NARUTO · DÍA 1 · 09:26          ║
-║ Konoha · borde este del cráter · duelo       ║
-║ NIVEL 29 · EXP 295.380/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Duelo con Rock Lee                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1326)
+## COMANDO 1 (T1326)
 
 eres rapido pero no alcanza, detengo con una mano la patada
 
-## RESPUESTA 2 (T1326)
+## RESPUESTA 1 (T1326)
 
 > eres rapido pero no alcanza, detengo con una mano la patada
 
@@ -134,11 +75,11 @@ Lee se pone otra vez en guardia. Esta vez no salta. Esta vez te mira como se mir
 
 ---
 
-## COMANDO 3 (T1327)
+## COMANDO 2 (T1327)
 
 interesante
 
-## RESPUESTA 3 (T1327)
+## RESPUESTA 2 (T1327)
 
 > interesante
 
@@ -185,4 +126,63 @@ La primera patada viene baja, a las rodillas. La segunda, alta, a la nuca, medio
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:27, borde este, duelo. "Interesante." Lee sin pesas gira en círculo a toda velocidad (Gai: "más rápido que en el examen"). Se juntan chūnin y una señora a mirar. Lee sale por detrás: "¡Huracán de la Hoja!": patada baja a las rodillas y alta a la nuca. Facundo tiene que reaccionar.
+## COMANDO 3 (T1328)
+
+lo detengo con los dedos
+
+## RESPUESTA 3 (T1328)
+
+> lo detengo con los dedos
+
+No te das vuelta.
+
+Bajas la mano derecha hacia atrás, sin mirar, y el empeine de Lee choca contra la punta de tu dedo índice, a la altura de la rodilla. Se frena ahí, en seco, como si hubiera pateado una columna de piedra.
+
+Medio segundo después llega la segunda. Levantas la izquierda por encima del hombro, también sin mirar, y atrapas el tobillo de Lee entre el índice y el mayor, a un palmo de tu nuca. Lo sostienes así, con dos dedos, como quien agarra un pincel.
+
+Kase, en tu cuello, mira la sandalia de Lee que quedó a diez centímetros de su cara. Bosteza.
+
+Durante un momento no se oye nada en todo el borde este del cráter. Ni las palas, ni la señora del balde, ni Gai.
+
+Lee está colgado de tus dedos, cabeza abajo, con la cara a la altura de tu cintura. Te mira desde abajo con la boca abierta.
+
+Sueltas. Cae, apoya las manos, da una vuelta en el aire y queda de pie frente a ti, a tres metros. Respira fuerte. Le corre el sudor por la cara.
+
+—Con... los dedos —dice un chūnin, entre los curiosos.
+
+—Neji —dice Gai, muy bajo, sin sacarte los ojos de encima.
+
+—Nada —contesta Neji. La voz le sale más tensa de lo que quiere—. Otra vez nada. No usa chakra. No se dio vuelta. No sé cómo supo dónde iban a caer.
+
+Lee se queda quieto un segundo. Después se le llenan los ojos de lágrimas. No de tristeza.
+
+—Gai-sensei. —Se le quiebra la voz de emoción—. Por favor. Las Puertas.
+
+Gai cierra los ojos. Los abre.
+
+—Hasta la quinta, Lee. Ni una más. Estamos en medio de la aldea.
+
+—¡Sí, señor!
+
+Lee cruza los brazos frente al pecho. Las venas del cuello se le hinchan y la piel se le enrojece.
+
+—¡Primera Puerta, la Puerta de la Apertura! —Un aire caliente sale de él en una ola—. ¡ABIERTA!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1328 · NARUTO · DÍA 1 · 09:28          ║
+║ Konoha · borde este del cráter · duelo       ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Duelo con Rock Lee                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:28, borde este, duelo. Facundo paró el Huracán de la Hoja con los dedos, sin darse vuelta (índice a la rodilla; tobillo atrapado entre dos dedos a un palmo de la nuca). Neji: sin chakra, no sabe cómo supo. Gai autoriza las Puertas hasta la quinta. Lee abre la Primera Puerta. Facundo puede actuar.
