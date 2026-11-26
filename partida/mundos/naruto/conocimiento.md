@@ -102,3 +102,4 @@
 - Sasuke, Taka · T1368 · por Facundo: Itachi quería evitar la guerra civil y protegerlo (confirma). Facundo preguntó qué haría si se pudiera revivir a Itachi y al clan.
 - Karin · (antes) · por Zetsu: Pain revivió a los muertos de Konoha antes de morir.
 - Sasuke, Suigetsu, Karin, Jūgo · T1369 · por Facundo: podría revivir a Itachi y a los Uchiha asesinados, no ahora pero sí más adelante.
+- Sasuke, Taka · T1370 · por Facundo: va a llevar a Obito a Konoha; Akatsuki está acabado salvo Zetsu ("el mitad y mitad"), al que va a buscar; no quiere nada a cambio.

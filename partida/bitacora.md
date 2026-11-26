@@ -1368,3 +1368,4 @@ T1366 · NARUTO · Cueva de Akatsuki · Sasuke le saca la máscara a Tobi: hombr
 T1367 · NARUTO · Cueva de Akatsuki · "Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto." Sasuke: "Otro Uchiha. Vivo." "¿También me mintió sobre Itachi?"
 T1368 · NARUTO · Cueva de Akatsuki · "Tu hermano quería evitar la guerra civil y protegerte. ¿Si pudieras revivirlo a él y a los asesinados?" Sasuke: "No juegues con eso." Karin recuerda que Pain revivió a Konoha. Sasuke: "No habría nada que no hiciera. ¿Puedes hacerlo?"
 T1369 · NARUTO · Cueva de Akatsuki · "Podría hacerlo. No ahora, pero podría." Sasuke: "Nadie da algo así gratis. Dime qué quieres a cambio."
+T1370 · NARUTO · Cueva de Akatsuki · "Nada. Llevo a este a la aldea. Sasuke, ¿quieres venir?" Sasuke: "No te creo. Todavía no. Pero voy." Condición: ver a Homura y Koharu cara a cara.

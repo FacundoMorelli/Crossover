@@ -16,3 +16,4 @@ ESTADO: activos.
 - T1366 · Suigetsu: "Ese no es Madara. Madara tendría que tener como cien años. Este no llega a cuarenta." Karin: "Su chakra es Uchiha, sí. Pero hay otra cosa mezclada. Algo como madera. Y hay muchísimo menos del que debería tener alguien que dice ser Madara."
 - T1367 · Suigetsu: "Sasuke, creo que te tomaron el pelo de una forma que ni siquiera tiene nombre." Karin: "Cállate, Suigetsu." Jūgo baja la mirada.
 - T1368 · Karin: "Hace dos días, alguien revivió a media Konoha. Lo dijo Zetsu. Pain. Antes de morir. Los trajo a todos de vuelta. Con su voluntad, con todo. Vivos."
+- T1370 · Suigetsu: "Sasuke es un renegado... Si pone un pie en Konoha, lo cuelgan. Y a nosotros con él." Karin: "No lo van a colgar. ¿No?" Jūgo espera y se pone de pie detrás de Sasuke cuando él acepta.

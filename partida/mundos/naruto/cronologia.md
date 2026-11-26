@@ -30,3 +30,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1363 · Zetsu sale de la cueva por orden de Tobi (destino desconocido).
 - T1364 · Sasuke y Taka oyen que el ojo de Tobi es el mismo que el de Kakashi: Sasuke duda de "Madara". Tobi intenta llevarse a Sasuke con Kamui.
 - T1365 · Día 1 12:50 · CAMBIO MAYOR: Tobi inconsciente en manos de Facundo, antes de la Cumbre de los Kages. Sin Tobi, no hay declaración de guerra (de momento). Zetsu negro, suelto.
+- T1370 · Día 1 12:58 · CAMBIO MAYOR: Sasuke acepta ir a Konoha con Facundo (con Taka), con la condición de ver a Homura y Koharu cara a cara.

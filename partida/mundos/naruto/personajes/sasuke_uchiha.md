@@ -30,3 +30,6 @@ QUÉ SABE (T1367): por Facundo, Tobi es Obito Uchiha, ex compañero de Kakashi, 
 QUÉ SABE (T1368): por Facundo, Itachi hizo lo de la masacre para evitar una guerra civil y protegerlo (confirmado).
 - T1369 · "No ahora." "Itachi..." (no termina). "Nadie da algo así gratis. Nadie. Ni siquiera tú, por más viajero que digas que eres." "Dime qué quieres a cambio."
 QUÉ SABE (T1369): por Facundo, podría revivir a Itachi y al clan, no ahora.
+- T1370 · Facundo lo invita a ir con él (a Konoha). Guarda la máscara de Tobi en la cintura. "Hace tres años me fui de Konoha para matar a Itachi. Lo maté..." "No te creo. Todavía no." "Pero voy." Condición: "Cuando lleguemos a Konoha, quiero ver a los dos viejos del consejo. Homura y Koharu... Quiero que me lo digan a la cara." Apaga el Sharingan.
+INVENTARIO: máscara de Tobi en la cintura.
+RELACIÓN CON FACUNDO (T1370): desconfianza, pero lo sigue.

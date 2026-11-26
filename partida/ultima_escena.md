@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1367)
-
-Obito Uchiha, ex compañero de kakashi hatake, alumno del 4to hokage
-
-## RESPUESTA 1 (T1367)
-
-> Obito Uchiha, ex compañero de kakashi hatake, alumno del 4to hokage
-
-> —Obito Uchiha. Ex compañero de Kakashi Hatake. Alumno del Cuarto Hokage.
-
-—Obito... Uchiha —repite Sasuke.
-
-Lo dice como quien prueba una palabra en un idioma que no conoce.
-
-—Uchiha. —Mira la cara del hombre en el suelo, las cicatrices, el ojo derecho entreabierto—. Otro Uchiha. Vivo.
-
-Se queda callado un momento largo.
-
-—Kakashi decía que su Sharingan era el regalo de un amigo. —Se le endurece la voz—. Que había muerto. Nunca dijo el nombre. —Mira la máscara en su mano—. Un ojo él, otro ojo... este.
-
-Suigetsu silba bajito.
-
-—Entonces el tipo que se hacía pasar por el abuelo de todos los Uchiha es el compañero de equipo de tu maestro, que se suponía muerto. —Se rasca la cabeza—. Sasuke, creo que te tomaron el pelo de una forma que ni siquiera tiene nombre.
-
-—Cállate, Suigetsu —dice Karin, sin fuerza.
-
-Sasuke no le contesta a ninguno de los dos. Deja la máscara en el suelo, al lado de la cara de Obito, con cuidado, como si pesara mucho. Se pone de pie despacio. La muñeca le cuelga lastimada contra el pecho.
-
-Te mira. Las aspas negras le giran, lentas.
-
-—Si me mintió sobre quién era —dice, y la voz le tiembla apenas, solo un poco, lo justo para que se note—, ¿también me mintió sobre Itachi?
-
-Detrás de él, Jūgo baja la mirada. Karin se muerde el labio y no se acerca.
-
-—¿Lo que me contó de la masacre... de Konoha, de la orden, de que mi hermano lo hizo por la aldea y por mí... —Se le quiebra la voz en la mitad, y la recupera—. ¿Eso también era mentira?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1367 · NARUTO · DÍA 1 · 12:53          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a Tobi                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1368)
+## COMANDO 1 (T1368)
 
 No, tu hermano queria evitar la guerra civil y protegerte a ti, una pregunta sasuke, si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, que harias?
 
-## RESPUESTA 2 (T1368)
+## RESPUESTA 1 (T1368)
 
 > No, tu hermano queria evitar la guerra civil y protegerte a ti, una pregunta sasuke, si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, que harias?
 
@@ -119,11 +66,11 @@ Levanta los ojos hacia ti.
 
 ---
 
-## COMANDO 3 (T1369)
+## COMANDO 2 (T1369)
 
 Podria hacerlo, no ahora, pero podria
 
-## RESPUESTA 3 (T1369)
+## RESPUESTA 2 (T1369)
 
 > Podria hacerlo, no ahora, pero podria
 
@@ -168,4 +115,55 @@ Da un paso hacia ti.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:56, cueva de Akatsuki. Facundo: "Podría hacerlo. No ahora, pero podría." Sasuke busca la mentira y no la encuentra. "Nadie da algo así gratis... Dime qué quieres a cambio." Facundo tiene que contestar.
+## COMANDO 3 (T1370)
+
+Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
+
+## RESPUESTA 3 (T1370)
+
+> Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
+
+> —Nada. Voy a llevar a este a la aldea; con esto, Akatsuki está acabado. Bueno, me falta el otro, el mitad y mitad, pero ahora voy por ese. —Lo miras—. Sasuke, ¿quieres venir conmigo?
+
+—¿Nada? —Sasuke te mira como si le hubieras hablado en otro idioma.
+
+—¿A la aldea? —Suigetsu se levanta del suelo de un salto—. ¿A Konoha? ¿Con él? Oye, oye, oye. Sasuke es un renegado. Atacó a la Hierba, atacó a la Nube, mató a Orochimaru, se juntó con Akatsuki. Si pone un pie en Konoha, lo cuelgan. —Lo piensa un segundo—. Y a nosotros con él, seguramente.
+
+—No lo van a colgar —dice Karin, sin mucha seguridad. Mira a Sasuke—. ¿No?
+
+Jūgo no dice nada. Mira a Sasuke y espera, como espera siempre.
+
+Sasuke tarda en contestar. Se queda mirando a Obito en el suelo, con la cara al descubierto, y después la máscara naranja tirada al lado. Se agacha, la levanta y se la queda en la mano.
+
+—Hace tres años me fui de Konoha para matar a Itachi —dice, sin mirar a nadie—. Lo maté. Después me enteré de que todo lo que creía era mentira, y me prometí destruir la aldea entera por lo que le hicieron. —Aprieta la máscara—. Y ahora un desconocido aparece de la nada, me dice que el que me contó todo era otro Uchiha muerto, que mi hermano podría volver, y que no quiere nada a cambio.
+
+Levanta los ojos hacia ti. Las aspas negras dejan de girar y se le apagan. Quedan los ojos negros, comunes, de un chico cansado.
+
+—No te creo. Todavía no.
+
+Se guarda la máscara en la cintura, bajo el cinturón.
+
+—Pero voy.
+
+Suigetsu se lleva las manos a la cabeza. Karin suelta el aire que tenía guardado y casi se ríe. Jūgo se pone de pie, despacio, detrás de Sasuke.
+
+—Con una condición. —Sasuke da un paso hacia ti—. Cuando lleguemos a Konoha, quiero ver a los dos viejos del consejo. Homura y Koharu. Los que dieron la orden con Danzō. —La voz se le vuelve muy fría—. Quiero que me lo digan a la cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1370 · NARUTO · DÍA 1 · 12:58          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a Tobi                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Llevar a Obito a Konoha            ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:58, cueva de Akatsuki. Facundo no pide nada; va a llevar a Obito a Konoha y después irá por Zetsu; invita a Sasuke. Suigetsu: "si pone un pie en Konoha, lo cuelgan". Sasuke guarda la máscara de Tobi en la cintura. "No te creo. Todavía no. Pero voy." Condición: en Konoha quiere ver a Homura y Koharu, "que me lo digan a la cara". Jūgo y Karin lo siguen. Facundo tiene que contestar.
