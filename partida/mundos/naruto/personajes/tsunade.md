@@ -45,3 +45,4 @@ QUÉ SABE (T1372): por Facundo, el inconsciente es el hombre detrás de Akatsuki
 - T1373 · "Obito Uchiha. El chico del equipo de Minato. El que murió en la Tercera Guerra, en el puente de Kannabi." "Su nombre está en la piedra de los caídos. Kakashi va a esa piedra todas las mañanas. Desde hace diecisiete años." Manda a buscar a Kakashi ("Ni una palabra a nadie"). A Sasuke: "Vas a ver a Homura y a Koharu. Hoy. Delante de mí... Pero no vas a desenvainar esa espada en mi aldea." A Facundo: "Ponlo ahí. Boca arriba. Y no te alejes de él. Si se despierta antes de que llegue Kakashi, eres el único en esta carpa que sabe cómo pararlo."
 QUÉ SABE (T1373): por Facundo, el inconsciente es Obito Uchiha; ella lo identifica.
 - T1374 · Se toma un vaso de sake de un trago mientras esperan a Kakashi.
+- T1376 · "Dijiste el verdadero Madara. Madara Uchiha murió hace décadas, peleando contra mi abuelo en el Valle del Fin." "¿Me estás diciendo que Madara Uchiha estaba vivo?"

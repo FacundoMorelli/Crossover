@@ -110,3 +110,5 @@
 - Un ANBU/mensajero · T1373 · recibe la orden de buscar a Kakashi; no sabe quién está en la carpa.
 - Kakashi · T1374 · vio a Obito vivo, inconsciente, con capa de Akatsuki, en la carpa de la Hokage. Vio a Sasuke en Konoha.
 - Kakashi, Tsunade · T1375 · por Facundo: Obito era el líder de Akatsuki, se hacía llamar Madara o Tobi, con máscara naranja. Kakashi lo confirma por la máscara y por el Kamui.
+- Tsunade, Sasuke, Facundo · T1376 · por Kakashi: Obito le confió a Rin; Rin (con el Tres Colas dentro) se puso delante del Chidori de Kakashi y murió.
+- Kakashi, Tsunade, Sasuke · T1376 · por Facundo: lo de Obito fue por lo que pasó en la Tercera Guerra y por la manipulación "del verdadero Madara".

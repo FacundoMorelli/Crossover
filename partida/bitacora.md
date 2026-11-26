@@ -1374,3 +1374,4 @@ T1372 · NARUTO · Carpa de la colina · Presenta a Sasuke y al falso Madara. Ts
 T1373 · NARUTO · Carpa de la colina · "Este es Obito Uchiha; lo conoce el dueño de la otra mitad de su Sharingan." Tsunade recuerda Kannabi y la piedra de los caídos. Manda buscar a Kakashi. A Sasuke: verá a Homura y Koharu hoy, sin espada. A Facundo: "Ponlo en el futón y no te alejes."
 T1374 · NARUTO · Carpa de la colina · Deja a Obito en el futón. Llega Kakashi: "Sasuke." Ve a Obito; el Sharingan se le abre solo. "Obito. Está vivo." "¿Dónde lo encontraste?"
 T1375 · NARUTO · Carpa de la colina · "Líder de Akatsuki, Madara o Tobi, máscara naranja." Sasuke tira la máscara. Kakashi: "Su técnica era igual a mi Kamui. Es la otra mitad." "¿Por qué haría esto?"
+T1376 · NARUTO · Carpa de la colina · "La Tercera Guerra y la manipulación del verdadero Madara." Kakashi cuenta lo de Rin: "La maté yo. Con esta mano." Tsunade: "¿Madara Uchiha estaba vivo?"

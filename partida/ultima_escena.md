@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1373)
-
-y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
-
-## RESPUESTA 1 (T1373)
-
-> y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
-
-> —Y este de aquí, capaz que lo conoces: Obito Uchiha. Y si no lo conoces tú, lo conoce el dueño de la otra parte de su Sharingan.
-
-Tsunade se da vuelta hacia ti muy despacio.
-
-—Obito Uchiha.
-
-Lo repite como si buscara el nombre en un cajón viejo, lleno de polvo. Lo encuentra. Se le nota en la cara el momento exacto en que lo encuentra.
-
-—El chico del equipo de Minato. —Baja la voz—. El que murió en la Tercera Guerra, en el puente de Kannabi. El que le dio el ojo a... —Se queda callada.
-
-Vuelve a mirar la cara del hombre que llevas al hombro. El ojo derecho entreabierto. El izquierdo, cerrado y vacío.
-
-—Su nombre está en la piedra de los caídos —dice—. Kakashi va a esa piedra todas las mañanas. Desde hace diecisiete años. Todas las mañanas, antes de cualquier misión. Llega tarde a todo por eso.
-
-Sasuke, a tu lado, aprieta la mandíbula. No dice nada.
-
-Tsunade se queda un segundo muy quieta, con los puños cerrados a los costados. Después se acerca a la entrada de la carpa y levanta la lona de un tirón.
-
-—¡Tú! —le grita a alguien afuera—. ¡Busca a Kakashi Hatake! ¡Que venga ya! ¡Ni una palabra a nadie de quién está aquí adentro!
-
-Se oyen pasos que se van corriendo.
-
-Tsunade deja caer la lona. Se da vuelta hacia Sasuke.
-
-—Vas a ver a Homura y a Koharu —le dice—. Hoy. Delante de mí. Y si lo que dices es cierto, lo van a decir delante de mí también. —Lo mira a los ojos—. Pero no vas a desenvainar esa espada en mi aldea. ¿Entendido?
-
-Sasuke la mira un rato largo. Después saca la mano sana de la empuñadura.
-
-—Entendido.
-
-Tsunade se vuelve hacia ti. Señala el futón doblado en el rincón.
-
-—Ponlo ahí. Boca arriba. Y no te alejes de él. —Se le endurece otra vez la cara—. Si se despierta antes de que llegue Kakashi, eres el único en esta carpa que sabe cómo pararlo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1373 · NARUTO · DÍA 1 · 13:03          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Esperar a Kakashi                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1374)
+## COMANDO 1 (T1374)
 
 esta bien, lo dejo ahi en el futon boca arriba
 
-## RESPUESTA 2 (T1374)
+## RESPUESTA 1 (T1374)
 
 > esta bien, lo dejo ahi en el futon boca arriba
 
@@ -133,11 +74,11 @@ Levanta la cabeza hacia ti. La máscara le tapa la boca, pero no la voz, que se 
 
 ---
 
-## COMANDO 3 (T1375)
+## COMANDO 2 (T1375)
 
 lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
 
-## RESPUESTA 3 (T1375)
+## RESPUESTA 2 (T1375)
 
 > lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
 
@@ -190,4 +131,63 @@ Levanta la cabeza hacia ti otra vez. El ojo visible está mojado.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:10, carpa de la colina. Facundo: líder de Akatsuki, se hacía llamar Madara o Tobi, máscara naranja. Sasuke tira la máscara junto al futón. Kakashi la reconoce (el que andaba con Deidara; su técnica igual a su Kamui). "Es la otra mitad. El mismo ojo." "Tú me enseñaste que los que abandonan a sus compañeros son peores que basura." Ojo mojado: "¿Por qué? ¿Por qué haría esto?" Facundo puede contestar.
+## COMANDO 3 (T1376)
+
+yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
+
+## RESPUESTA 3 (T1376)
+
+> yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
+
+> —Yo creo que fue por lo que pasó en la Tercera Guerra. Y en parte, por la manipulación del verdadero Madara.
+
+—La Tercera Guerra. —Kakashi lo repite muy bajo.
+
+Se queda mirando la cara de Obito. Y se le nota en el ojo el momento en que llega a un lugar adonde no quería llegar.
+
+—Rin.
+
+El nombre le sale como si le doliera físicamente.
+
+Tsunade levanta la vista del vaso. Sasuke, contra el poste, gira la cabeza hacia Kakashi.
+
+—Cuando Obito quedó aplastado bajo la roca en Kannabi —dice Kakashi, sin mirar a nadie, con la voz plana, como quien repite algo que se dijo a sí mismo mil veces—, me dio su ojo. Y me pidió que cuidara a Rin. Me la confió a mí.
+
+Aprieta los puños sobre las rodillas.
+
+—Unos meses después, la Niebla la secuestró. Le metieron al Tres Colas adentro para que estallara en Konoha. Ella lo sabía. Fui a rescatarla, y cuando estaba cargando el Chidori contra los que nos rodeaban, ella... —Se le cierra la garganta—. Se puso delante. A propósito. Para que no la usaran contra la aldea.
+
+Se mira la mano derecha. La mano del rayo.
+
+—La maté yo. Con esta mano.
+
+Nadie dice nada. Tsunade cierra los ojos. Sasuke no le saca la vista de encima a Kakashi, y algo le cambia en la cara, algo que no estaba antes.
+
+—Si estaba vivo... —sigue Kakashi—. Si Obito estaba vivo esa noche, y vio... —No termina la frase. No le hace falta.
+
+Tsunade se pone de pie despacio, apoyando la mano en la mesa.
+
+—Espera. —Te mira a ti, y se le endurece la cara—. Dijiste "el verdadero Madara". Madara Uchiha murió hace décadas, peleando contra mi abuelo en el Valle del Fin. Eso lo sabe todo el mundo.
+
+Rodea la mesa y se te para delante.
+
+—¿Me estás diciendo que Madara Uchiha estaba vivo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1376 · NARUTO · DÍA 1 · 13:12          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto al futón                         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:12, carpa de la colina. Facundo: por la Tercera Guerra y por la manipulación del verdadero Madara. Kakashi: "Rin." Cuenta Kannabi, que Obito le confió a Rin, que la Niebla le metió al Tres Colas y que ella se puso delante de su Chidori: "La maté yo. Con esta mano." "Si Obito estaba vivo esa noche, y vio..." Tsunade: "Dijiste el verdadero Madara... ¿Me estás diciendo que Madara Uchiha estaba vivo?" Facundo tiene que contestar.
