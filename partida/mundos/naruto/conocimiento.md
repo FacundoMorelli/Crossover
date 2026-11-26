@@ -91,3 +91,4 @@
 - Tobi, Zetsu, Taka · T1358 · oyeron a Facundo preguntar si "estos son todos" (Akatsuki).
 - Tobi, Zetsu, Taka · T1359 · por Facundo: es viajero, pasó por Konoha hace un rato y conoció gente.
 - Tobi · (antes de T1359) · por Zetsu (espía): Konoha destruida por Pain; Danzō designado Hokage. NO sabe todavía que Danzō fue arrestado ni que Tsunade despertó.
+- Tobi, Zetsu, Taka · T1360 · por Facundo: Danzō está inconsciente y arrestado. (No saben por quién ni dónde.)

@@ -3,97 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1357)
-
-ya vengo, busco la presencia de akatsuki y me teletransporto
-
-## RESPUESTA 1 (T1357)
-
-> ya vengo, busco la presencia de akatsuki y me teletransporto
-
-> —Ya vengo.
-
-—¿Eh? —Naruto levanta la cabeza, con el ojo hinchado—. ¿Adónde...?
-
-Cierras los ojos.
-
-El mundo se abre a tu alrededor como un mapa en la oscuridad. Konoha entera, cientos de presencias, chicas y grandes, cansadas, tranquilas, asustadas. Naruto a tu lado, enorme por dentro, con algo más enorme todavía enroscado en el fondo. Tsunade, Kakashi, Gai. Más allá, el bosque, los caminos, las aldeas chicas del País del Fuego.
-
-Y más lejos, mucho más al norte, al otro lado de las montañas, algo distinto.
-
-Un grupo de cinco presencias juntas, en un lugar cerrado y oscuro. Una de ellas está llena de rabia, una rabia fría y apretada como un puño. Otra no se siente casi nada, como si estuviera ahí y no estuviera a la vez, y es la que más te hiela la nuca. Una tercera está pegada a las paredes, como una planta.
-
-Kase salta del mostrador a tu hombro en el último segundo, con las uñas clavadas en el sobretodo.
-
-Te llevas dos dedos a la frente.
-
-Ichiraku desaparece.
-
-Aparece una cueva. Huele a humedad, a piedra mojada y a sangre seca. Hay antorchas clavadas en las paredes, y la luz tiembla sobre la roca. Gotea agua en algún lado.
-
-Hay cinco personas, y todas se dan vuelta hacia ti a la vez.
-
-Un muchacho de pelo negro, con una capa negra y blanca, sentado sobre una roca, con vendas en el torso. Tiene los ojos rojos, con aspas negras que giran. Un muchacho de pelo blanco y dientes de tiburón, con una espada enorme a la espalda, que se queda con una botella de agua a medio camino de la boca. Una chica de pelo rojo y anteojos, que da un paso atrás de golpe. Un grandote de pelo naranja, quieto como una montaña.
-
-Y apoyado contra la pared del fondo, un hombre con una capa negra con nubes rojas, y una máscara naranja en espiral con un solo agujero en el ojo derecho. Al lado, saliendo de la pared misma como una planta carnívora, una cosa con la cara mitad blanca y mitad negra.
-
-╔══════════════════════════════════════════════╗
-║ TOBI                                         ║
-║ Akatsuki · el enmascarado                    ║
-║ PODER: técnica espacio-tiempo (atraviesa y   ║
-║        traslada), Sharingan, otros: sin      ║
-║        datos                                 ║
-║ IDENTIDAD: sin datos                         ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,02 sobre ti          ║
-║ COPIABLE (sin verlo en acción)               ║
-╚══════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════╗
-║ SASUKE UCHIHA                                ║
-║ Renegado de Konoha · líder de Taka           ║
-║ PODER: Mangekyō Sharingan (Amaterasu,        ║
-║        Tsukuyomi, Susanoo), Chidori,         ║
-║        Estilo Fuego, Estilo Rayo             ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE (sin verlo en acción)               ║
-╚══════════════════════════════════════════════╝
-
-—¡No siento nada! —grita la chica de anteojos, con la voz aguda—. ¡Sasuke, no tiene chakra! ¡No siento nada, no lo vi llegar, no...!
-
-—Cállate, Karin. —Sasuke no te saca los ojos de encima.
-
-La cosa de la pared, la mitad negra, habla con una voz grave y rasposa:
-
-—Apareció de la nada. No es técnica de invocación. No dejó rastro.
-
-El de la máscara naranja inclina la cabeza, muy despacio, hacia un costado. Te mira por el único agujero de la máscara. Detrás, un ojo rojo gira.
-
-—Vaya, vaya —dice, con una voz tranquila, casi divertida—. Hacía mucho tiempo que nadie me sorprendía.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1357 · NARUTO · DÍA 1 · 12:46          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1358)
+## COMANDO 1 (T1358)
 
 hola hola, como estan todos?, vaya son bastante pocos, estos son todos?
 
-## RESPUESTA 2 (T1358)
+## RESPUESTA 1 (T1358)
 
 > hola hola, como estan todos?, vaya son bastante pocos, estos son todos?
 
@@ -144,11 +58,11 @@ Sasuke se pone de pie. Despacio. Las vendas del torso se le tensan. Las aspas ne
 
 ---
 
-## COMANDO 3 (T1359)
+## COMANDO 2 (T1359)
 
 soy un viajero, recien recien pase por konoha, conoci a un par de personas
 
-## RESPUESTA 3 (T1359)
+## RESPUESTA 2 (T1359)
 
 > soy un viajero, recien recien pase por konoha, conoci a un par de personas
 
@@ -193,4 +107,59 @@ Al oír el nombre, Sasuke aprieta el puño. Le crujen los nudillos. Un hilo de c
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:48, cueva de Akatsuki. "Soy un viajero. Pasé por Konoha. Conocí a un par de personas." Sasuke se tensa (aspas girando). Suigetsu: "Dijiste la palabra mágica." Tobi se acerca a 3 m: "¿Cómo está Konoha? ¿Conociste a Danzō? Me dijeron que ahora es el Hokage." Sasuke aprieta el puño, chispas de rayo. Facundo tiene que contestar.
+## COMANDO 3 (T1360)
+
+ah danzo? ehhh si, esta inconsciente y arrestado
+
+## RESPUESTA 3 (T1360)
+
+> ah danzo? ehhh si, esta inconsciente y arrestado
+
+> —¿Ah, Danzō? Eh... sí. Está inconsciente y arrestado.
+
+El silencio de la cueva cambia de peso.
+
+El enmascarado se queda quieto. Del todo. Ni siquiera le tiembla la capa.
+
+La cosa de la pared deja de reírse.
+
+—Eso no lo sabía —dice la mitad negra, despacio—. Hace dos días lo nombraron Hokage. Ayer seguía en su cargo.
+
+—¿Arrestado? —Suigetsu abre mucho los ojos y después se ríe—. ¡Ja! ¿El nuevo Hokage? ¿Quién arresta al Hokage? ¿Su abuela?
+
+Nadie se ríe con él.
+
+Sasuke da un paso hacia ti. Después otro. Tiene el chakra eléctrico corriéndole por los brazos sin control, chispeando contra la roca. A su lado, la chica de anteojos levanta una mano para detenerlo y no se anima a tocarlo.
+
+—Danzō es mío. —Lo dice con los dientes apretados, y la voz le sale ronca, como si viniera de muy lejos—. Él dio la orden. Él y los dos viejos del consejo. Mataron a mi clan entero y obligaron a mi hermano a cargar con todo. Y yo voy a ser el que lo mate.
+
+Las aspas de los ojos se le deforman. Se estiran, giran, cambian de forma.
+
+—¿Dónde lo tienen?
+
+El enmascarado levanta una mano, sin darse vuelta, hacia Sasuke. Sasuke no se detiene, pero tampoco da el siguiente paso.
+
+—Un momento, Sasuke. —La voz de la máscara ya no suena divertida. Suena atenta—. Hay una pregunta más interesante.
+
+El ojo rojo te mira por el agujero de la espiral.
+
+—Tsunade está en coma. Kakashi está muerto, o lo estaba. Y Danzō tiene a Raíz entera a su alrededor. —Inclina la cabeza—. ¿Quién lo arrestó?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1360 · NARUTO · DÍA 1 · 12:49          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:49, cueva de Akatsuki. "Danzō está inconsciente y arrestado." Zetsu: no lo sabía. Sasuke avanza, rayo descontrolado: "Danzō es mío. Él dio la orden... ¿Dónde lo tienen?" Tobi lo frena con la mano: "¿Quién lo arrestó?" (cree que Tsunade sigue en coma). Facundo tiene que contestar.
