@@ -158,3 +158,6 @@
 - Itachi revivido · T1406 · recuerda su vida entera y su muerte a manos de Sasuke (sin dolor).
 - TODO KONOHA · T1407 · vio siete luces de colores cruzar el cielo (las bestias), oyó a Alba anunciar que el Diez Colas ya no existe y que cada bestia volvió a quien se la arrancaron. Vio a Itachi Uchiha caminar hacia la multitud. PÚBLICO.
 - Gaara, Yugito, Yagura, Rōshi, Han, Utakata, Fū · T1407 · sienten volver a su bestia de golpe (no saben por qué; vieron una luz caer del cielo).
+- Todos los revividos · T1406-1408 · al volver oyeron una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. FUENTE VÁLIDA.
+- Itachi · T1408 · ve a Facundo y al gato; deduce que fue él.
+- Todos en la calle · T1408 · ven el reencuentro de Sasuke, Itachi, Fugaku y Mikoto.

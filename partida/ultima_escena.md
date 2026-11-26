@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1405)
-
-Primero, deseo que reconstruyas todo el mundo lo que fue destruido
-
-## RESPUESTA 1 (T1405)
-
-> Primero, deseo que reconstruyas todo el mundo lo que fue destruido
-
-> —Primero: deseo que reconstruyas en todo el mundo lo que fue destruido.
-
-Los ojos de Alba se encienden.
-
-—ES FÁCIL.
-
-No hace ningún gesto. No ruge. Solo cierra los ojos, una vez, despacio.
-
-Y el cráter se llena.
-
-Empieza en el fondo. Las piedras sueltas, las tejas rotas, las vigas partidas que quedaban entre los escombros se levantan del suelo solas, como hojas que suben con el viento, y vuelan cada una a su lugar. Se juntan en el aire. Las paredes se arman ladrillo por ladrillo. Los techos se cierran teja por teja, rojos, verdes, azules. Las calles se empedran solas bajo los pies de la gente, que da saltos hacia atrás y grita.
-
-La ola sube por las paredes del cráter y lo va borrando. Donde había un pozo, hay una calle. Donde había una carpa, hay una casa, con su puerta, su ventana, su maceta en el alféizar. El letrero de la tienda de ramen, el que tus brazos dejaron apoyado contra un poste, sale volando, se acomoda solo sobre una puerta de madera con cortinas nuevas y se queda ahí, derecho, con la palabra ICHIRAKU en letras rojas.
-
-Teuchi, entre la multitud, se cae de rodillas.
-
-En el centro, donde estaba la tarima, la tierra se levanta y crece en una torre redonda, roja, con un techo inclinado y el kanji del Fuego pintado en la fachada. Las ventanas se encienden por dentro. La Torre del Hokage.
-
-Los árboles partidos del borde norte se enderezan, crujiendo, y les brotan hojas verdes.
-
-Sobre el monumento, los cinco rostros de piedra dejan de soltar polvo. Las grietas de las mejillas se cierran solas.
-
-Y la ola no se detiene en el borde. Sigue. Se pierde de vista por encima del bosque, hacia el norte, hacia el sur, hacia todos lados a la vez, más allá de donde alcanza la vista, como una marea de luz dorada que se va por el mundo arreglando cosas que nadie desde aquí va a ver.
-
-En un minuto, todo termina.
-
-Konoha está entera. Las calles, las casas, los techos, la torre, los puentes, los postes de luz, las tiendas. Como si Pain no hubiera venido nunca. La gente está de pie en medio de las calles, en el mismo lugar donde estaba parada hace un minuto, pero ahora frente a su casa, o a la del vecino, o adentro del local donde trabajaba. Hay un perro que ladra en un techo y no sabe cómo bajar.
-
-Nadie grita. Nadie habla. Se miran entre ellos.
-
-Una nena, en la primera fila, de la mano de su madre, señala una casa con techo azul a la derecha de la torre.
-
-—Mamá. —Lo dice muy bajito—. Es nuestra casa.
-
-La madre se pone a llorar.
-
-Naruto, sentado en la calle empedrada donde un minuto antes estaba la tierra del cráter, mira a su alrededor sin cerrar la boca. Detrás de él, al final de una calle, hay un edificio de departamentos de tres pisos con una ventana del último piso abierta y una planta en el alféizar.
-
-—Mi departamento —dice—. Está mi departamento.
-
-Alba abre los ojos.
-
-—CUMPLIDO. —Mira a todos, y después solo a ti—. PIDE EL SEGUNDO.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1405 · NARUTO · DÍA 1 · 15:13          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Pedir el segundo deseo             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1406)
+## COMANDO 1 (T1406)
 
 deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
 
-## RESPUESTA 2 (T1406)
+## RESPUESTA 1 (T1406)
 
 > deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
 
@@ -143,11 +74,11 @@ Alba baja la cabeza hacia ti.
 
 ---
 
-## COMANDO 3 (T1407)
+## COMANDO 2 (T1407)
 
 Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
 
-## RESPUESTA 3 (T1407)
+## RESPUESTA 2 (T1407)
 
 > Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
 
@@ -216,4 +147,81 @@ Sasuke se queda completamente quieto.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:19, calle frente a la Torre del Hokage. DESEO 3 CUMPLIDO: Estatua/Diez Colas destruidos (crujido lejano al noroeste); 7 luces de colores cruzaron el cielo hacia sus jinchūriki (la de arena dorada hacia Suna: Naruto, "Gaara"). Alba se despide ("Hasta que vuelvas a llamarme") y se deshace. Las 7 esferas vuelven a ser piedras grises (inactivas un año) y caen al empedrado. Vuelve el sol. Al final de la calle del barrio Uchiha aparece Itachi (ropa de casa) y mira a Sasuke. Sasuke inmóvil. Facundo puede actuar.
+## COMANDO 3 (T1408)
+
+guardo las esferas en el inventario y miro
+
+## RESPUESTA 3 (T1408)
+
+> guardo las esferas en el inventario y miro
+
+Te agachas y juntas las siete piedras grises del empedrado. Están tibias todavía. Desaparecen en tu mano, una por una, hacia el inventario.
+
+Nadie te mira hacer eso. Todos miran al hombre del final de la calle.
+
+Itachi da un paso. Otro. Se detiene a tres metros de Sasuke.
+
+—Sasuke.
+
+La voz es baja, tranquila, un poco ronca, como la de alguien que no habló en mucho tiempo.
+
+Sasuke no contesta. Se le mueve la nuez de la garganta. Tiene los puños cerrados a los costados, tan apretados que se le ponen blancos los nudillos, y los ojos negros, sin Sharingan, abiertos de una forma que no le viste en todo el día.
+
+—Te maté —dice Sasuke. Se le quiebra la voz en la segunda palabra—. Yo te maté.
+
+—Lo sé. —Itachi no se mueve—. Lo recuerdo.
+
+—Y tú te dejaste. Estabas enfermo y te dejaste. Para darme tus ojos. Para que yo... —Se le corta la voz—. Para que yo volviera a Konoha como un héroe, odiándote. Ese era tu plan.
+
+Itachi lo mira un momento largo. Después sonríe. Apenas. Una sonrisa chica, cansada, que no le llega del todo a los ojos.
+
+—Era un mal plan —dice.
+
+Sasuke se rompe.
+
+No hace ruido. Solo se le doblan las rodillas, un poco, y se le cae la cara hacia adelante, y los hombros le empiezan a temblar. Itachi cruza los tres metros que lo separan de él. No lo abraza. Levanta la mano derecha, con dos dedos estirados, y le da un golpecito en la frente.
+
+Sasuke levanta la cara de golpe. Tiene los ojos llenos de lágrimas.
+
+—Perdóname, Sasuke —dice Itachi—. Esta vez sí hay una próxima vez.
+
+Y Sasuke lo abraza.
+
+Lo agarra con los dos brazos, la muñeca lastimada y la sana, con la cara hundida en el hombro de su hermano, y llora. Llora como un chico de ocho años. Itachi se queda quieto un segundo, sorprendido, y después le pone una mano en la nuca, despacio, y cierra los ojos.
+
+Nadie en la calle se mueve. Karin se tapa la boca. Suigetsu mira para otro lado. Jūgo baja la cabeza.
+
+Naruto está llorando a mares, sin taparse, con los puños apretados.
+
+Detrás de Itachi, al final de la calle, aparecen dos personas más. Un hombre serio, de cara dura y pelo negro corto, con el abanico rojo y blanco en el pecho, que se detiene en seco al ver a sus dos hijos abrazados. Y a su lado, una mujer de pelo largo, oscuro, que ya está corriendo.
+
+—¡Sasuke! ¡Itachi!
+
+Pasa un rato largo antes de que Itachi abra los ojos.
+
+Cuando lo hace, todavía con la mano en la nuca de su hermano, no mira a sus padres. Te mira a ti, por encima del hombro de Sasuke. Te recorre con la vista despacio: el pelo, los ojos, el gato.
+
+—Cuando volví... —dice, en voz baja—, una voz me dijo que el que me trajo de vuelta tenía un gato.
+
+Inclina la cabeza, apenas.
+
+—¿Quién eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1408 · NARUTO · DÍA 1 · 15:22          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:22. Facundo guardó las 7 Esferas (inactivas) en el inventario. Reencuentro Itachi-Sasuke: "Te maté." "Lo sé. Lo recuerdo." "Era un mal plan." Golpecito en la frente: "Perdóname, Sasuke. Esta vez sí hay una próxima vez." Sasuke lo abraza y llora. Aparecen Fugaku y Mikoto ("¡Sasuke! ¡Itachi!"). Naruto llora. Itachi mira a Facundo: "Una voz me dijo que el que me trajo de vuelta tenía un gato. ¿Quién eres?" Facundo tiene que contestar.

@@ -28,3 +28,4 @@ ESTADO: en Konoha, carpa de mando (T1386).
 - T1396 · Suigetsu: "Anotado. No tocar al gato. Nunca. Por nada del mundo." Karin: "Nunca lo tocaste." Suigetsu: "Por eso sigo vivo." Jūgo mira a Kase con respeto.
 - T1397 · Suigetsu: "Los que mató Kisame... ¿también cuentan? Porque son muchos."
 - T1398 · Karin le apoya la mano en la pierna a Sasuke; él no se la saca.
+- T1408 · Karin se tapa la boca; Suigetsu mira para otro lado; Jūgo baja la cabeza.
