@@ -95,3 +95,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1365 · Baja del hombro, huele la capucha de Tobi desmayado y le da la espalda con la cola levantada.
 - T1374 · Se sienta a medio metro de la cabeza de Obito en el futón, vigilándolo.
 - T1389 · Se eriza entero y le bufa con los colmillos al Zetsu negro: primera vez en el día que le gruñe a algo.
+- T1390 · Deja de bufar y se lame una pata, satisfecho, cuando el dragón muerde a Zetsu negro.

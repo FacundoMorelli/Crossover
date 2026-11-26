@@ -3,103 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1387)
-
-no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
-
-## RESPUESTA 1 (T1387)
-
-> no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
-
-> —No sé, tú sabrás. Nos vemos, Hokage. Voy a buscar a los dos que faltan. Bueno, mejor dicho, a uno: al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro adentro. Y no dejes que Sasuke vea a Naruto todavía. Quiero estar ahí cuando lo vea.
-
-Tsunade abre la boca. La cierra.
-
-—"Tú sabrás" —repite, mirando a Jūgo, que sigue agachado bajo el techo de la carpa—. Muy bien. Yo sabré.
-
-Sasuke levanta la cabeza al oír el nombre de Naruto. No dice nada.
-
-—Nadie le va a decir a Naruto que está aquí —dice Tsunade—. Por lo menos hasta que vuelvas. —Se sienta de nuevo, pesadamente—. Ve.
-
-Cierras los ojos y buscas.
-
-Lejos al noreste, sobre el mar, encuentras algo que no se parece a nada de lo que sentiste hoy: una presencia grande, fría y salada, enroscada alrededor de otra que no es humana y que come. Chakra que traga chakra.
-
-Te llevas dos dedos a la frente.
-
-Aparece un acantilado. Viento fuerte, olor a sal y a algas, olas que revientan contra las rocas veinte metros más abajo. Un hombre enorme, de piel azul grisácea, con branquias en las mejillas y dientes de tiburón, está sentado al borde de la piedra, con una capa de nubes rojas y una espada gigante envuelta en vendas apoyada en el hombro. Mira el mar, hacia el norte, hacia unas islas lejanas.
-
-╔══════════════════════════════════════════════╗
-║ KISAME HOSHIGAKI                             ║
-║ Akatsuki · uno de los Siete Espadachines     ║
-║ PODER: Samehada (absorbe chakra), Estilo     ║
-║        Agua masivo, fusión con Samehada,     ║
-║        reservas de chakra enormes            ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE (sin verlo en acción)               ║
-╚══════════════════════════════════════════════╝
-
-Gira la cabeza hacia ti. Sonríe con todos los dientes.
-
-—Vaya. ¿Y tú de dónde sal...?
-
-No termina. Le das con el canto de la mano en la nuca, con Haki, antes de que la sonrisa se le acabe de abrir. Los ojos chiquitos se le ponen en blanco y se va hacia adelante. Lo agarras de la capa antes de que caiga al mar. La espada envuelta en vendas se sacude sola sobre su hombro, gruñe, se queda quieta.
-
-[Derrotado: Kisame Hoshigaki.]
-
-[+150 Fragmentos. +1.200 EXP.]
-
-Te lo cargas al hombro, con espada y todo, y te llevas dos dedos a la frente.
-
-La carpa de mando.
-
-Dejas a Kisame en el suelo, al lado de la mesa rota. Cae boca arriba, con la boca abierta y los dientes al aire. La espada le cae al lado y suelta un gruñido.
-
-Suigetsu se atraganta con el agua.
-
-—¡¿KISAME?!
-
-Tsunade se queda mirando al hombre tiburón tirado en su carpa durante un segundo largo. Después levanta la vista hacia ti.
-
-—Cuatro —dice, con una calma que da miedo—. Ahora son cuatro.
-
-No le contestas. Ya estás buscando otra vez.
-
-La presencia que se pega a las paredes como una planta está cerca. Muy cerca. Mucho más de lo que esperabas.
-
-Te llevas dos dedos a la frente.
-
-Aparece el bosque partido del borde norte, donde llegaste esta mañana. Los mismos árboles torcidos, todos para el mismo lado. Desde ahí se ve el cráter entero, las carpas, la loma, la carpa de mando.
-
-Y en el tronco del árbol que tienes al lado, a la altura de tu cara, hay una cara. Mitad blanca, mitad negra. Metida en la corteza como si fuera parte de la madera, mirando hacia el campamento.
-
-Gira despacio hacia ti.
-
-—Ah —dicen las dos mitades a la vez—. Eras tú.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1387 · NARUTO · DÍA 1 · 13:46          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.180/320.000               ║
-║ FRAGMENTOS 113.494 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Zetsu                              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1388)
+## COMANDO 1 (T1388)
 
 hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
 
-## RESPUESTA 2 (T1388)
+## RESPUESTA 1 (T1388)
 
 > hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
 
@@ -150,11 +58,11 @@ La mitad blanca se queda sola en el árbol, con media cara vacía, gritando:
 
 ---
 
-## COMANDO 3 (T1389)
+## COMANDO 2 (T1389)
 
 dejo inconsciente a la parte blanca y saco al negro de ahi dentro
 
-## RESPUESTA 3 (T1389)
+## RESPUESTA 2 (T1389)
 
 > dejo inconsciente a la parte blanca y saco al negro de ahi dentro
 
@@ -209,4 +117,63 @@ Se te escurre del puño hacia arriba, por la muñeca, por el antebrazo, rápido,
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:48, bosque del borde norte. Facundo desmayó al Zetsu blanco (+5 F, +50 EXP) y sacó al Zetsu negro de la tierra con la mano envuelta en Haki: masa negra con un ojo amarillo, voz vieja. Kase le gruñe (primera vez). Zetsu negro se le escurre por el brazo hasta el codo buscando meterse en él: "Si no me dices quién eres, voy a averiguarlo desde adentro." Facundo tiene que reaccionar.
+## COMANDO 3 (T1390)
+
+puedes intentarlo
+
+## RESPUESTA 3 (T1390)
+
+> puedes intentarlo
+
+> —Puedes intentarlo.
+
+El ojo amarillo se estrecha.
+
+La masa negra se te aplasta contra la piel del brazo, del codo al hombro, como una segunda piel fría. La sientes empujar. Meterse. No por una herida, porque no tienes ninguna: por los poros, como el agua en la arena, buscando el camino hacia adentro, hacia la sangre, hacia la cabeza.
+
+Llega.
+
+Y no encuentra nada.
+
+Lo sientes detenerse adentro tuyo, en algún lugar debajo de la piel, como alguien que entra a una casa a oscuras y estira la mano hacia una pared que no está. Busca. Empuja más. Más hondo. Nada. Ni recuerdos, ni pensamientos, ni chakra, ni un borde donde agarrarse. Un vacío liso, sin fondo, como el que sintió Fū esta mañana.
+
+—¿Qué... es... esto? —La voz se le quiebra por primera vez—. No hay... no hay nada... no hay...
+
+Entonces se despierta el dragón.
+
+El tatuaje de tu antebrazo, el que sube desde la muñeca y se enrosca hasta el codo, se mueve. Primero la cola. Después el cuerpo. Se despega de la piel como humo azul y rojo, como chakra con forma, con escamas que brillan y ojos que se encienden, y abre unas fauces del ancho de tu mano.
+
+Muerde.
+
+Le muerde la masa negra justo donde se te pega a la piel, y no la suelta. La arranca. Se oye un sonido como de tela mojada que se desgarra. El dragón traga, y un pedazo de la oscuridad desaparece dentro de él, devorado, convertido en algo tibio que te sube por el brazo.
+
+[Kekkei Genkai: Venas del Dragón. Primer uso. Maestría +1.]
+
+El grito de Zetsu negro rebota en todo el bosque partido. No es un grito de dolor: es de espanto, de algo que hace siglos que no siente nada parecido.
+
+Se te despega del brazo de golpe, todo lo que queda de él, y cae al suelo, encogido, más chico, del tamaño de un gato ahora. Se retuerce entre el barro y las raíces, con el ojo amarillo abierto hasta lo imposible, mirándote.
+
+El dragón se vuelve a enroscar en tu antebrazo y se aplana en la piel, otra vez tatuaje.
+
+Kase deja de bufar. Se sienta en tu hombro, satisfecho, y se lame una pata.
+
+—¿Qué eres? —Zetsu negro retrocede por el barro, sin despegarte el ojo—. En mil años... en mil años nada me ha mordido.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1390 · NARUTO · DÍA 1 · 13:49          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.230/320.000               ║
+║ FRAGMENTOS 113.499 · 0 ryo                   ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Zetsu negro                        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:49, bosque del borde norte. "Puedes intentarlo." Zetsu negro se metió por los poros del brazo de Facundo y no encontró nada (Velo). El dragón del antebrazo (Venas del Dragón) despertó solo y le arrancó y devoró un pedazo (maestría 31). Zetsu negro cayó al barro, del tamaño de un gato, aterrado: "¿Qué eres? En mil años nada me ha mordido." Kase satisfecho. Facundo puede actuar (interrogarlo).

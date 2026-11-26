@@ -1,8 +1,8 @@
 {
-  "turno": 1389,
+  "turno": 1390,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 13:48",
+  "hora": "Día 1, 13:49",
   "edad": 18,
   "nivel": 29,
   "exp": 306230,
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -375,7 +375,7 @@
     "naruto": {
       "nombre": "Kekkei Genkai: Venas del Dragón (Ryūmyaku)",
       "tipo": "kekkei genkai",
-      "maestria": 30,
+      "maestria": 31,
       "reglas": [
         "Los tatuajes de dragón de Facundo despiertan como dragones de chakra: salen de la piel y pelean solos o a su orden.",
         "Cada dragón muerde y devora cualquier técnica o chakra ajeno que toque (jutsu, Haki, reiatsu, maná, ki, energía maldita) y lo convierte en chakra de Facundo.",
@@ -384,7 +384,10 @@
         "Límite propio: no muerden lo que no es energía (una espada sin chakra, un puño desnudo). Un dragón destruido vuelve a la piel y tarda un minuto en volver a salir.",
         "Sin desventajas. Funciona en todos los mundos. Se fusiona con todo."
       ],
-      "obtenido": "T1305"
+      "obtenido": "T1305",
+      "usos": [
+        "T1390: el dragón del antebrazo derecho despierta solo y muerde al Zetsu negro que intentaba meterse en Facundo; devora un pedazo (lo convierte en chakra de Facundo). Maestría 31."
+      ]
     }
   },
   "velo": {

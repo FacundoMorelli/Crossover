@@ -15,3 +15,5 @@ QUÉ SABE DE FACUNDO (T1388): el negro: que Facundo sabe de su antigüedad (amen
 ESTADO: negro huyendo bajo tierra; blanco en el árbol.
 - T1389 · Blanco desmayado de un golpe en la frente, colgando del tronco. Negro arrancado de la tierra por Facundo (mano con Haki): masa negra del tamaño de un perro chico, un ojo amarillo, boca sin dientes, voz vieja ("como piedra raspando piedra"). "¡Suéltame! ¡No sabes lo que tienes en la mano!" Se le escurre por el brazo hasta el codo intentando meterse en él: "Si no me dices quién eres, voy a averiguarlo desde adentro."
 ESTADO: blanco inconsciente; negro sobre el brazo de Facundo.
+- T1390 · Negro intenta meterse en Facundo por los poros: "¿Qué... es... esto? No hay... no hay nada." El dragón del tatuaje del antebrazo le arranca y devora un pedazo. Grito de espanto. Cae al barro, encogido (tamaño de un gato). "¿Qué eres? En mil años... en mil años nada me ha mordido."
+ESTADO: negro herido, reducido, en el barro frente a Facundo.

@@ -132,3 +132,4 @@
 - Zetsu · T1387 · ve a Facundo aparecer a su lado; lo reconoce (cueva).
 - Zetsu (negro y blanco) · T1388 · por Facundo: Facundo sabe que la parte negra tiene "cientos de años". El blanco no lo sabía.
 - Zetsu negro · T1389 · Facundo lo atrapó con la mano a través de la tierra (Haki; lo cree técnica desconocida).
+- Zetsu negro · T1390 · intentó entrar en el cuerpo de Facundo y no encontró nada (Velo); vio un dragón de chakra salir del tatuaje del brazo y devorarle un pedazo. (Zetsu blanco inconsciente: no lo vio.)
