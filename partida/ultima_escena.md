@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1343)
-
-uso haki del rey para dormir a todos los de raiz y dejo que me peguen las balas
-
-## RESPUESTA 1 (T1343)
-
-> uso haki del rey para dormir a todos los de raiz y dejo que me peguen las balas
-
-No te mueves.
-
-Las balas de aire te dan de lleno. En el pecho, en los hombros, en la frente. Suenan como piedras contra un muro. El sobretodo se te llena de agujeros chicos y redondos, el pelo se te sacude hacia atrás, Kase cierra los ojos un segundo por el viento.
-
-Debajo del sobretodo, la piel ni se marca.
-
-Y mientras las balas te pegan, sueltas algo que no se ve.
-
-No es chakra. No es un sonido. Es una presión que sale de ti hacia afuera en un solo golpe, como una ola que nadie ve venir, y por un instante el aire de todo el lado oeste del cráter se pone pesado como el agua. Las lonas grises de las carpas se sacuden todas a la vez, hacia afuera. Algo cruje en el suelo bajo tus pies, una línea de grietas finas que se abre en círculo.
-
-Los de Raíz caen.
-
-Todos a la vez. Los que venían saltando desde los techos se desploman en el aire y caen como bolsas sobre las lonas. Los que estaban en las vigas resbalan. Los que estaban a punto de alcanzar a Gai se le caen a los pies, uno tras otro, como si se hubieran dormido de pie. Uno queda colgado de una viga de un brazo y después se suelta. A Fū se le ponen los ojos en blanco y se va hacia atrás, rígido. Torune cae de rodillas, después de cara, y los puntitos negros de su piel se le quedan quietos.
-
-En cinco segundos, treinta y dos personas de Raíz están en el suelo, desmayadas, con espuma en la boca algunos, respirando todos.
-
-Solo queda uno de pie entre las carpas grises.
-
-Danzō.
-
-Está apoyado en el bastón, con las piernas abiertas para no caerse. Le tiembla el brazo de los diez ojos. Le corre sudor por la sien, debajo de la venda. Los diez Sharingan te miran, todos, muy abiertos.
-
-Gai se queda con un puño en el aire, frente a un enemigo que ya no está de pie. Kakashi deja que los rayos de su mano se apaguen solos. Yamato tiene a los tres que había atrapado colgando de sus raíces, todos dormidos. Ibiki se da vuelta despacio y te mira por encima del hombro de Tsunade.
-
-Tsunade no dice nada. Tiene los ojos muy abiertos.
-
-[Derrotados: 30 agentes de Raíz, Fū Yamanaka, Torune Aburame.]
-
-[+200 Fragmentos. +600 EXP.]
-
-Danzō respira hondo, una vez. Te sigue mirando. Ya no hay frialdad en el ojo visible: hay cálculo, rápido, desesperado.
-
-—No es chakra —dice, ronco—. No es genjutsu. Ninguno de mis ojos lo vio venir.
-
-Se lleva el pulgar izquierdo a la boca y se lo muerde hasta sacar sangre.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1343 · NARUTO · DÍA 1 · 11:22          ║
-║ Konoha · lado oeste · carpas de Raíz         ║
-║ NIVEL 29 · EXP 296.480/320.000               ║
-║ FRAGMENTOS 112.169 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común · vigilado por Raíz      ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1344)
+## COMANDO 1 (T1344)
 
 soy un viajero, no vengo de parte de nadie, siempre dije la verdad, venia ayudarlos, a ellos, no a ti
 
-## RESPUESTA 2 (T1344)
+## RESPUESTA 1 (T1344)
 
 > soy un viajero, no vengo de parte de nadie, siempre dije la verdad, venia ayudarlos, a ellos, no a ti
 
@@ -115,11 +54,11 @@ Danzō, detrás del animal, al amparo de la succión, ya está retrocediendo hac
 
 ---
 
-## COMANDO 3 (T1345)
+## COMANDO 2 (T1345)
 
 deja de hacer eso, lo digo tranquilo
 
-## RESPUESTA 3 (T1345)
+## RESPUESTA 2 (T1345)
 
 > deja de hacer eso, lo digo tranquilo
 
@@ -170,4 +109,71 @@ Al lado de tus pies, otro cuerpo desmayado de Raíz se arrastra hacia el hocico 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:23, carpas de Raíz. "Deja de hacer eso." Facundo no se mueve con la succión. Danzō: "No." Baku ya se tragó a 3 de Raíz desmayados. Ibiki: "Los que tragó no van a hablar." Danzō en el borde del cráter (caída de 20 m): "Esta aldea no es tuya, viajero." Flexiona para saltar. Fū se arrastra hacia el hocico, junto a los pies de Facundo. Facundo tiene que reaccionar.
+## COMANDO 3 (T1346)
+
+dejo inconsciente a danzo y al tapir
+
+## RESPUESTA 3 (T1346)
+
+> dejo inconsciente a danzo y al tapir
+
+Das un paso adelante, contra el viento.
+
+Para los que miran, desapareces. El viento sigue soplando hacia el hocico de Baku, pero tú ya no estás donde estabas: estás frente a la cara del tapir, en el aire, con la mano abierta a la altura de su frente arrugada, entre los dos ojitos viejos.
+
+Le das con la palma. Una sola vez.
+
+Suena como un tambor gigante. La cabeza del tapir se va hacia atrás, los ojitos se le ponen en blanco y la succión se corta de golpe, como si alguien hubiera cerrado una canilla. Todo lo que volaba hacia su boca cae al suelo a la vez: lonas, tablas, piedras. Baku se tambalea, abre el hocico y tose. Por la boca le salen, empapados de baba, los tres de Raíz que se había tragado, uno detrás del otro. Ruedan por el suelo. Respiran.
+
+El tapir se derrumba de costado, levantando una nube de polvo.
+
+Fū queda tirado a medio metro del hocico, boca abajo, entero.
+
+Danzō ya saltó.
+
+Está en el aire, sobre el borde del cráter, cayendo de espaldas hacia los escombros del fondo, con el bastón en la mano y los diez Sharingan del brazo abiertos. Te ve venir. Los diez ojos te ven venir. No le sirve de nada.
+
+Apareces detrás de él, en el aire, y le das un golpe seco con el canto de la mano en la nuca.
+
+El ojo visible se le apaga. El bastón se le escapa de los dedos y cae girando hacia el fondo del cráter. Los diez Sharingan se cierran todos a la vez, como diez puertas.
+
+Lo agarras del cuello del kimono antes de que caiga y subes con él de un salto hasta el borde. Lo dejas en el suelo, de espaldas, con el brazo blanco extendido sobre la tierra.
+
+Detrás de ti, Baku desaparece en una nube de humo blanco, de vuelta a donde sea que viven los tapires.
+
+[Derrotados: Danzō Shimura, Baku.]
+
+[+175 Fragmentos. +1.500 EXP.]
+
+Cuando el polvo baja, el lado oeste del cráter está en silencio. Lonas grises tiradas por todos lados. Treinta y dos de Raíz desmayados, tres de ellos llenos de baba. Gai con los pies todavía hundidos en la tierra hasta los tobillos. Yamato deshaciendo las raíces que sostenían a Tsunade y a Ibiki. Kakashi soltando la viga, despacio.
+
+Kase se suelta de tu sobretodo, se te sube al cuello, se sacude el pelo revuelto y se lame una pata, ofendido con el mundo.
+
+Tsunade camina hasta donde está Danzō. Se agacha. Le mira el brazo de los diez ojos, de cerca, sin tocarlo. Le mira la cara del Primero en el hombro. Se le aprieta la mandíbula.
+
+—Ibiki. Llévatelo. Sellos de supresión de chakra en todo el cuerpo, y una venda en cada uno de esos ojos. Que nadie de Raíz se le acerque a menos de cien metros. —Se pone de pie—. Kakashi, que los ANBU recojan a todos estos y los pongan bajo guardia. Vivos.
+
+—Sí, Hokage-sama.
+
+Después se da vuelta hacia ti. Te mira de arriba abajo: el sobretodo lleno de agujeros, el pelo revuelto, el gato ofendido en el cuello.
+
+—Esta mañana te pregunté para qué servías —dice—. Retiro la pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1346 · NARUTO · DÍA 1 · 11:24          ║
+║ Konoha · lado oeste · borde del cráter       ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:24, borde oeste del cráter. Facundo desmayó a Baku de un palmazo (escupió vivos a los 3 de Raíz tragados; Fū a salvo) y a Danzō en el aire con un golpe a la nuca; lo subió al borde. Baku desapareció (+175 F, +1.500 EXP). Tsunade: Ibiki se lleva a Danzō con sellos y vendas en los Sharingan; Kakashi y los ANBU custodian a Raíz, vivos. A Facundo: "Esta mañana te pregunté para qué servías. Retiro la pregunta." Facundo puede actuar.

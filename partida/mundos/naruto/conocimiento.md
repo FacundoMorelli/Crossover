@@ -72,3 +72,4 @@
 - Tsunade, Kakashi, Gai, Yamato, Ibiki, 4 ANBU, Danzō, curiosos de lejos · T1343 · vieron a Facundo recibir las Ráfagas del Vacío sin un rasguño (ropa agujereada) y a todo Raíz desmayarse a la vez por una presión invisible (Haki del Rey). Nadie siente chakra (Velo). Danzō: "Ninguno de mis ojos lo vio venir."
 - Danzō, Tsunade, Kakashi, Gai, Yamato, Ibiki · T1344 · oyeron a Facundo: viajero, no viene de parte de nadie, siempre dijo la verdad, vino a ayudarlos a ellos y no a Danzō.
 - Todos los presentes · T1345 · vieron a Danzō dejar que Baku se tragara a tres de Raíz desmayados. Vieron que la succión no mueve a Facundo.
+- Todos los presentes + curiosos de lejos · T1346 · vieron a Facundo desaparecer, desmayar al tapir gigante de un palmazo y alcanzar a Danzō en el aire para desmayarlo. Público en todo el campamento.

@@ -28,3 +28,5 @@ QUÉ PODERES DE FACUNDO VIO (T1343): resistencia absoluta a sus Ráfagas; Haki d
 PODER VISTO POR FACUNDO (T1344): Invocación de Baku.
 ESTADO: huyendo (T1344).
 - T1345 · Ignora a Facundo: "No." Deja que Baku se trague a su gente desmayada. En el borde del cráter: "Esta aldea no es tuya, viajero." Por saltar.
+- T1346 · Salta del borde; Facundo lo alcanza en el aire y lo desmaya con un golpe a la nuca (los diez Sharingan lo ven venir, inútil). Lo sube al borde. Baku vencido antes. ARRESTADO: Ibiki se lo lleva con sellos de supresión de chakra y vendas en los Sharingan; Raíz a 100 m mínimo.
+ESTADO: inconsciente, arrestado (T1346). Vivo. Ojo de Shisui todavía bajo la venda.

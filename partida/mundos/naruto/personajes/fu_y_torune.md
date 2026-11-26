@@ -11,3 +11,4 @@ ESTADO: activos.
 - T1341 · A los lados de Danzō frente a la carpa gris más grande.
 - T1343 · Desmayados por el Haki del Rey de Facundo (Fū rígido hacia atrás; Torune de cara, insectos quietos). VIVOS (canon: Tobi los mataba camino a la Cumbre).
 - T1345 · Fū, desmayado, se arrastra hacia el hocico de Baku junto a los pies de Facundo.
+- T1346 · Fū queda a medio metro del hocico de Baku, a salvo. Bajo guardia de los ANBU de Tsunade.

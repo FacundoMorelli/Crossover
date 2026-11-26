@@ -1344,3 +1344,4 @@ T1342 · NARUTO · Carpas de Raíz · Danzō descubre el brazo: diez Sharingan y
 T1343 · NARUTO · Carpas de Raíz · Recibe las Ráfagas del Vacío sin daño. Haki del Rey: caen 30 de Raíz, Fū y Torune (+200 F, +600 EXP). Danzō, de pie y temblando, se muerde el pulgar.
 T1344 · NARUTO · Carpas de Raíz · "Venía a ayudarlos a ellos, no a ti." Danzō: "Ellos son el árbol; nosotros, lo que está bajo tierra." Invoca a Baku: succión gigante. Danzō huye hacia el borde del cráter.
 T1345 · NARUTO · Carpas de Raíz · "Deja de hacer eso." Danzō: "No." Baku traga a 3 de Raíz. Danzō en el borde: "Esta aldea no es tuya, viajero." Va a saltar. Fū se arrastra al hocico.
+T1346 · NARUTO · Borde oeste · Desmaya a Baku de un palmazo (escupe vivos a los 3 tragados) y a Danzō en el aire. DANZŌ ARRESTADO. +175 F, +1.500 EXP. Tsunade: "Esta mañana te pregunté para qué servías. Retiro la pregunta."

@@ -17,3 +17,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1340 · Tsunade ordena arrestar a Danzō (Sharingan robados en el brazo, dicho por Facundo).
 - T1343 · Raíz entero (30 + Fū y Torune) desmayado por Facundo en el lado oeste del cráter. Fū y Torune vivos.
 - T1345 · Baku (invocación de Danzō) se tragó a 3 agentes de Raíz desmayados.
+- T1346 · DANZŌ ARRESTADO (vivo) por Facundo, por orden de Tsunade. Raíz desarticulado, bajo guardia. Fū y Torune vivos. No irá a la Cumbre (canon: va como Hokage designado y muere a manos de Sasuke). La Cumbre de los Cinco Kages seguirá sin Danzō: ¿irá Tsunade?

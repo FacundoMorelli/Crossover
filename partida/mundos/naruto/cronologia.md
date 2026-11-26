@@ -22,3 +22,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1338 · Día 1 11:00 · Danzō anuncia que parte mañana (Día 2) al País del Hierro como representante de Konoha. Tsunade despierta: la cuestión de quién es Hokage sigue abierta. Raíz vigila a Facundo.
 - T1340 · Día 1 11:04 · CAMBIO MAYOR: Tsunade decide arrestar a Danzō hoy, antes de la Cumbre, por los Sharingan robados del brazo (revelado por Facundo). Convoca a Yamato, Gai, Ibiki. Consejeros retenidos.
 - T1342 · Día 1 11:22 · Danzō expuesto en público (10 Sharingan, células del Primero). Tsunade lo arresta. Raíz se resiste: combate en las carpas grises. (Canon: nunca se expuso así; muere a manos de Sasuke en el País del Hierro.)
+- T1346 · Día 1 11:24 · Danzō vencido y arrestado. Konoha sin Danzō en la Cumbre. Consecuencias: Sasuke va a la Cumbre a buscar a Danzō (canon) y no lo encontrará; Tobi pierde ocasión de matar a Fū y Torune; el Señor Feudal deberá revocar la designación.

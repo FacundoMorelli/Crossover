@@ -11,3 +11,4 @@ ESTADO: con Tsunade, yendo por Danzō.
 - T1342 · Se pone delante de Tsunade cuando Raíz ataca.
 - T1343 · Se da vuelta y mira a Facundo por encima del hombro de Tsunade.
 - T1345 · "¡Sabe que no los necesita despiertos! ¡Y que los que tragó no van a hablar!"
+- T1346 · Recibe la orden de llevarse a Danzō con sellos de supresión y vendas en los Sharingan.
