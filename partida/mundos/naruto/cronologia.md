@@ -25,3 +25,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1346 · Día 1 11:24 · Danzō vencido y arrestado. Konoha sin Danzō en la Cumbre. Consecuencias: Sasuke va a la Cumbre a buscar a Danzō (canon) y no lo encontrará; Tobi pierde ocasión de matar a Fū y Torune; el Señor Feudal deberá revocar la designación.
 - T1349 · Día 1 11:32 · Tsunade: carta al Señor Feudal, retirar Raíz, decidir quién va a la Cumbre del País del Hierro.
 - T1355 · Día 1 12:39 · Llegan Samui, Karui y Omoi (Kumo) y encuentran a Naruto en Ichiraku: vienen por Sasuke (ataque de Taka a Killer Bee).
+- T1356 · Día 1 12:44 · (canon) Karui golpea a Naruto en Ichiraku porque no da información de Sasuke. Samui la frena.

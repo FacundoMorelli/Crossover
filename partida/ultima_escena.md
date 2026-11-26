@@ -3,54 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1353)
-
-Mmm no te puedo decir mucho, pero en uno habia titanes
-
-## RESPUESTA 1 (T1353)
-
-> Mmm no te puedo decir mucho, pero en uno habia titanes
-
-> —Mmm... No te puedo decir mucho. Pero en uno había titanes.
-
-—¿Titanes? —Naruto ladea la cabeza—. ¿Como gigantes?
-
-Abre los brazos, todo lo que puede, y casi le pega a Ayame con el codo.
-
-—¿Así de grandes? ¿O más? ¿Como Gamabunta? —Se da vuelta hacia Teuchi—. ¡Gamabunta es un sapo así de enorme, viejo, se fuma una pipa del tamaño de una casa!
-
-—Ya lo sé, Naruto. Me lo contaste cuarenta veces.
-
-Naruto no lo escucha. Se vuelve hacia ti, con los ojos muy abiertos.
-
-—¿Y qué hacían? ¿Hablaban? ¿Eran malos? —Se inclina tanto hacia ti que el banquito se tambalea—. ¿Peleaste contra ellos?
-
-Ayame deja de cortar cebollín para escuchar. Teuchi, aunque hace como que revuelve, tiene la oreja puesta.
-
-Kase, en el mostrador, bosteza. Él ya conoce la historia.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1353 · NARUTO · DÍA 1 · 12:33          ║
-║ Konoha · campamento · puesto de Ichiraku     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el mostrador                        ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Carpa de mando esta noche          ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1354)
+## COMANDO 1 (T1354)
 
 ehh si ponele que eran malos, con la gente que yo estaba vivian aislados y no sabian nada y los otros siempre decian que la gente con la que vivia eran demonios, por eso querian matarlos, pero ahora ya esta todo bien en ese lugar
 
-## RESPUESTA 2 (T1354)
+## RESPUESTA 1 (T1354)
 
 > ehh si ponele que eran malos, con la gente que yo estaba vivian aislados y no sabian nada y los otros siempre decian que la gente con la que vivia eran demonios, por eso querian matarlos, pero ahora ya esta todo bien en ese lugar
 
@@ -93,11 +50,11 @@ Teuchi deja el cucharón dentro de la olla. Ayame se queda con el cuchillo quiet
 
 ---
 
-## COMANDO 3 (T1355)
+## COMANDO 2 (T1355)
 
 el tema es que este lugar es algo distinto, no conozco las razones de los que hicieron todo esto, si no, podria ayudarte, pero igual te voy a ayudar
 
-## RESPUESTA 3 (T1355)
+## RESPUESTA 2 (T1355)
 
 > el tema es que este lugar es algo distinto, no conozco las razones de los que hicieron todo esto, si no, podria ayudarte, pero igual te voy a ayudar
 
@@ -146,4 +103,85 @@ A Naruto se le borra la sonrisa de golpe.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:39, Ichiraku. Facundo prometió ayudar a Naruto con la cadena del odio. Naruto le tiende el puño: "Entonces es una promesa." Antes de responder, llegan Samui, Karui y Omoi (Kumo). Karui: "¿Tú eres Naruto Uzumaki? Venimos de la Aldea de la Nube. Es sobre Sasuke Uchiha." A Naruto se le borra la sonrisa. Facundo puede actuar.
+## COMANDO 3 (T1356)
+
+miro
+
+## RESPUESTA 3 (T1356)
+
+> miro
+
+Naruto se baja del banquito despacio.
+
+—¿Qué pasa con Sasuke?
+
+La de pelo rojo entra a la carpa. Los otros dos se quedan en la entrada.
+
+—Hace unos días, un grupo con capas de nubes rojas atacó a Killer Bee, el hermano del Raikage. Se lo llevaron. —Le tiembla la voz de rabia—. Uno de ellos era Sasuke Uchiha. Un renegado de tu aldea. Y nos dijeron que tú eres el que mejor lo conoce.
+
+—Necesitamos toda la información que tengas sobre él —dice la rubia desde la entrada, sin cambiar la cara—. Sus técnicas. Sus debilidades. Adónde puede ir.
+
+Naruto se queda quieto. Cierra los puños.
+
+—Sasuke es mi amigo.
+
+—Tu amigo secuestró a nuestro maestro.
+
+—No les voy a decir nada.
+
+La de pelo rojo lo agarra del cuello de la chaqueta y lo levanta contra el poste de la carpa. Ayame ahoga un grito. Teuchi suelta el cucharón.
+
+—¡Repítelo!
+
+—No les voy a decir nada de Sasuke.
+
+El primer puñetazo le da en la cara. La cabeza de Naruto se va hacia un costado y vuelve. No levanta las manos.
+
+El segundo le da en el estómago. Naruto se dobla, tose, pero sigue de pie, agarrado al poste.
+
+El tercero. El cuarto. La de pelo rojo le pega con toda la bronca que tiene acumulada, con los dientes apretados y los ojos húmedos. Naruto no se defiende. No esquiva. No hace un solo sello. Le sale sangre de la nariz y de la boca, y sigue mirándola.
+
+—¡Karui! —El muchacho de la paleta da un paso adentro, nervioso—. ¡Karui, vas a matarlo! ¡Si lo matas, Konoha nos declara la guerra! ¡Y si nos declara la guerra, el Raikage nos mata a nosotros! ¡Y después...!
+
+—¡Cállate, Omoi!
+
+El quinto golpe deja a Naruto de rodillas en el suelo de la carpa.
+
+—Karui. —La voz de la rubia corta el aire como un cuchillo—. Basta. Así no vamos a conseguir nada.
+
+Karui se queda con el puño en el aire, respirando fuerte. Lo baja. Le tiembla.
+
+—Te arrepentirás de esto —le dice a Naruto, y escupe al costado.
+
+Los tres se van. La cortina chamuscada se balancea detrás de ellos.
+
+Naruto se queda de rodillas un momento. Después se apoya en el poste y se levanta, despacio. Se limpia la sangre de la boca con la manga. Tiene un ojo que se le empieza a hinchar.
+
+Teuchi y Ayame lo miran sin saber qué decir.
+
+Naruto se vuelve hacia ti. Se le nota que le duele hasta sonreír, y sonríe igual.
+
+—Gracias por no meterte —dice, con la voz un poco ronca—. Era cosa mía.
+
+Se queda mirando la entrada de la carpa, por donde se fueron.
+
+—Sasuke se llevó al hermano del Raikage. —Lo dice muy bajo—. Ya no es solo que se fue. Ahora está con Akatsuki.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1356 · NARUTO · DÍA 1 · 12:44          ║
+║ Konoha · campamento · puesto de Ichiraku     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el mostrador                        ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Carpa de mando esta noche          ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:44, Ichiraku. Facundo miró. Karui explicó: Sasuke (Akatsuki) "se llevó" a Killer Bee; piden info. Naruto se negó; Karui le pegó cinco veces, Naruto no se defendió (sangra, ojo hinchándose). Samui la paró. "Te arrepentirás de esto." Se fueron. Naruto a Facundo: "Gracias por no meterte. Era cosa mía." "Ya no es solo que se fue. Ahora está con Akatsuki." Facundo puede actuar.

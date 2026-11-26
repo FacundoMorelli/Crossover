@@ -84,3 +84,5 @@
 - Naruto, Teuchi, Ayame · T1354 · por Facundo: en el lugar de los titanes, su gente vivía aislada, los de afuera los llamaban demonios y querían matarlos; ahora está en paz. (Creen que es un país lejano.)
 - Naruto, Teuchi, Ayame · T1355 · por Facundo: Konoha es "algo distinto"; no conoce las razones de los que hicieron esto; igual va a ayudar a Naruto (promesa).
 - Samui, Karui, Omoi · T1355 · ven a Facundo en Ichiraku junto a Naruto (no saben nada de él).
+- Facundo, Naruto, Teuchi, Ayame · T1356 · por Karui y Samui: Akatsuki (con Sasuke) atacó y "se llevó" a Killer Bee, hermano del Raikage; Kumo busca información sobre Sasuke.
+- Samui, Karui, Omoi · T1356 · vieron a Facundo quedarse quieto en Ichiraku mientras golpeaban a Naruto.

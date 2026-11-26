@@ -8,3 +8,4 @@ ENCUENTROS:
 CANON: vienen a pedir información sobre Sasuke (Taka atacó a Killer Bee, hermano del Raikage). Karui golpea a Naruto.
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: en la entrada de Ichiraku.
+- T1356 · Karui: "Un grupo con capas de nubes rojas atacó a Killer Bee... Uno de ellos era Sasuke Uchiha." Samui: "Necesitamos toda la información... técnicas, debilidades, adónde puede ir." Naruto se niega. Karui lo golpea cinco veces contra el poste. Omoi: "¡Si lo matas, Konoha nos declara la guerra!" Samui: "Karui. Basta. Así no vamos a conseguir nada." Karui: "Te arrepentirás de esto." Se van.
