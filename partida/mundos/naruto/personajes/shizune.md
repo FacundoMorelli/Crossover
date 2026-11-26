@@ -16,3 +16,4 @@ ESTADO: activa (murió y revivió en la invasión).
 - T1334 · 10:47 · Busca a Facundo por el campamento y lo alcanza en el borde norte. "Tsunade-sama lo llama. A la carpa de mando. Ahora." "Le aviso antes, para que no lo agarre de sorpresa. Danzō está ahí."
 RELACIÓN CON FACUNDO (T1334): preocupada por él; ya no recelosa.
 - T1339 · Oye lo del brazo de Danzō; se tapa la boca.
+- T1340 · Sale a buscar a Yamato, Gai e Ibiki "como si fuera para hablar de casas".

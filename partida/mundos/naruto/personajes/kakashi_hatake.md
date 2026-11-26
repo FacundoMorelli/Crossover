@@ -30,3 +30,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1336 · Saca las manos de los bolsillos, despacio, cuando Fū se pone detrás de Facundo.
 - T1338 · Gira la cabeza hacia Danzō cuando Facundo pregunta por el brazo.
 - T1339 · Oye que Danzō tiene varios Sharingan en el brazo. Se toca la banda del ojo. "¿Sharingan? ¿En el brazo?" "La noche de la masacre de los Uchiha, a los cuerpos les faltaban los ojos... Siempre se pensó que había sido Itachi... Nunca se encontraron." "¿Cómo sabes eso?" (no espera respuesta; no insistirá).
+- T1340 · "Lo sé. ¿Lo quiere vivo?" Mano en la banda del ojo.

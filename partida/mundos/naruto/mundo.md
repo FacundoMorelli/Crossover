@@ -14,3 +14,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1321 · 4 casas nuevas en el borde sur (Mokuton de Yamato) gracias al terreno limpio.
 - T1322 · Casa chica de madera para Facundo en el borde sur (Yamato).
 - T1330 · Pozo de dos metros en la pendiente del borde este (Flor de Loto Oculta de Lee contra Facundo).
+- T1340 · Tsunade ordena arrestar a Danzō (Sharingan robados en el brazo, dicho por Facundo).

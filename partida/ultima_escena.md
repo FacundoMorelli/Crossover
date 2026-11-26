@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1337)
-
-esta bien, que lo haga+
-
-## RESPUESTA 1 (T1337)
-
-> esta bien, que lo haga+
-
-> —Está bien. Que lo haga.
-
-Tsunade te mira como si le hubieras dicho que vas a saltar al cráter. Kakashi no dice nada, pero no vuelve a meter las manos en los bolsillos.
-
-Danzō hace un gesto mínimo con la cabeza.
-
-Fū da un paso y te apoya la palma de la mano en la coronilla, por encima del pelo. Tiene la mano fría. Con la otra mano forma un sello frente al pecho y cierra los ojos.
-
-—Técnica de Lectura de la Mente.
-
-Pasa un segundo. Pasan dos.
-
-No sientes nada. Ni un cosquilleo, ni una presión, ni una voz. Solo la mano fría de un desconocido en la cabeza y a Kase, que se estira sobre tu cuello para olerle la manga a Fū, con cara de asco.
-
-Fū frunce el ceño. Aprieta el sello. Le aparece una arruga entre las cejas, después otra. Una gota de sudor le baja por la sien.
-
-Pasan diez segundos. Veinte.
-
-Fū abre los ojos de golpe y saca la mano como si se hubiera quemado. Da un paso atrás. Tiene la respiración agitada y lo mira a Danzō, no a ti.
-
-—Danzō-sama. —La voz le sale plana, como siempre, pero un poco más rápida—. No hay nada.
-
-—Explícate.
-
-—No es una barrera. Las barreras se sienten: se empujan, se rompen, se rodean. —Se mira la mano—. Esto no. Entro y no hay nada adentro. Ni recuerdos, ni pensamientos, ni oscuridad. Es como si no hubiera nadie.
-
-En la carpa no se oye ni la respiración de Homura.
-
-Danzō se queda quieto, apoyado en el bastón. El ojo visible se le achica un poco, apenas, lo único que le cambia en la cara.
-
-—Interesante —dice.
-
-Tsunade se echa hacia atrás en la silla y cruza los brazos. Tiene media sonrisa.
-
-—¿Satisfecho? Ahí tienes tu minuto. Ahora dale tu palabra delante de todos, como dijiste.
-
-Danzō no la mira. Te mira a ti, largo.
-
-—Un hombre al que no se le puede leer la mente —dice, despacio— es un hombre al que alguien preparó con mucho cuidado para que nadie se la lea. —Apoya las dos manos sobre el bastón—. Hokage, cumplo mi palabra: no tengo pruebas de que sea un enemigo. Pero esta aldea no puede darse el lujo de tener en medio del campamento a alguien a quien no se le puede ver el fondo. Solicito que quede bajo la vigilancia de Raíz mientras esté en Konoha.
-
-—Denegado —dice Tsunade, sin pensarlo un segundo.
-
-Danzō ni pestañea.
-
-—Entonces que lo diga él. —El ojo vuelve a ti—. Si no tienes nada que esconder, Facundo Morelli, ¿te molestaría que mi gente te siga?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1337 · NARUTO · DÍA 1 · 10:58          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1338)
+## COMANDO 1 (T1338)
 
 no para nada, pero te puedo preguntar que tienes debajo de ese brazo? el que tienes cubierto
 
-## RESPUESTA 2 (T1338)
+## RESPUESTA 1 (T1338)
 
 > no para nada, pero te puedo preguntar que tienes debajo de ese brazo? el que tienes cubierto
 
@@ -129,11 +58,11 @@ Tsunade suelta el aire por la nariz, largo. Se queda mirando la lona por donde s
 
 ---
 
-## COMANDO 3 (T1339)
+## COMANDO 2 (T1339)
 
 en ese brazo tiene los mismos ojos que tiene kakashi en el izquierdo, pero no uno, varios
 
-## RESPUESTA 3 (T1339)
+## RESPUESTA 2 (T1339)
 
 > en ese brazo tiene los mismos ojos que tiene kakashi en el izquierdo, pero no uno, varios
 
@@ -192,4 +121,59 @@ Tsunade cierra los ojos. Respira. Cuando los abre, te mira a ti.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:02, carpa de mando (Danzō ya se fue). Facundo reveló que Danzō tiene varios Sharingan en el brazo. Kakashi: los ojos de los Uchiha desaparecieron la noche de la masacre; "¿Cómo sabes eso?" (no espera respuesta). Homura y Koharu se miran; Koharu: "No sabíamos lo del brazo." Tsunade agrieta la mesa: "Si me estás diciendo esto, quiero que estés seguro. Lo que voy a hacer con eso no tiene vuelta atrás. ¿Lo estás?" Facundo tiene que contestar.
+## COMANDO 3 (T1340)
+
+estoy seguro
+
+## RESPUESTA 3 (T1340)
+
+> estoy seguro
+
+> —Estoy seguro.
+
+Tsunade te sostiene la mirada un segundo más. Después asiente una sola vez, seca, como quien cierra una puerta.
+
+—Bien.
+
+Se endereza. Cuando vuelve a hablar, ya no es la mujer que se despertó en camisón esta mañana. Es la voz de alguien que dio órdenes en dos guerras.
+
+—Homura. Koharu. Ustedes no salen de esta carpa hasta que yo diga. Ni para ir al baño. —Los dos viejos abren la boca y ella levanta una mano—. No es un castigo. Es para que nadie pueda decir después que fueron ustedes los que le avisaron.
+
+Koharu cierra la boca. Homura se pone los anteojos, despacio, y no dice nada.
+
+—Shizune. Busca a Yamato, a Gai y a Ibiki. Que vengan aquí. Sin correr, sin gritar, como si fuera para hablar de casas. —Shizune asiente y sale, con Tonton apretado contra el pecho—. Y que los cuatro ANBU de la puerta se queden donde están. Esos son míos.
+
+Mira a Kakashi.
+
+—Kakashi. Danzō tiene a su gente desparramada por todo el campamento, y cuando vea que se mueven los míos, se va a dar cuenta. No podemos esperar a mañana. Si llega al País del Hierro y se sienta en la Cumbre como Hokage, después no lo saca nadie.
+
+—Lo sé. —Kakashi ya no tiene las manos en los bolsillos. Tiene una en la banda del ojo—. ¿Lo quiere vivo?
+
+—Vivo. Quiero ver ese brazo con mis propios ojos, y quiero que me diga a la cara de dónde salió cada uno. —Se le aprieta la mandíbula—. Y después quiero que lo diga delante del Señor Feudal.
+
+Rodea la mesa. Pasa junto a ti y se detiene, igual que a la mañana en la carpa de la colina, muy cerca. Baja la voz.
+
+—Afuera hay gente de Raíz siguiéndote, por tu propia boca. Si Danzō huele algo, lo primero que va a hacer es ir por quien se lo dijo. —Te mira de reojo—. Esta mañana me dijiste que sabes pelear.
+
+Se acomoda el abrigo de Hokage sobre los hombros.
+
+—Quiero que vengas conmigo cuando vaya por él.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1340 · NARUTO · DÍA 1 · 11:04          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común · vigilado por Raíz      ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:04, carpa de mando. "Estoy seguro." Tsunade actúa: Homura y Koharu no salen de la carpa; Shizune va a buscar a Yamato, Gai e Ibiki sin llamar la atención; los 4 ANBU de la puerta son de Tsunade. A Kakashi: no esperar a mañana, Danzō vivo (quiere ver el brazo y que lo diga ante el Señor Feudal). A Facundo, en voz baja: Raíz lo sigue; Danzō irá por quien se lo dijo. "Quiero que vengas conmigo cuando vaya por él." Facundo tiene que contestar.
