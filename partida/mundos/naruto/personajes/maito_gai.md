@@ -26,3 +26,5 @@ QUÉ PODERES DE FACUNDO VIO (T1330): recibió la Flor de Loto Oculta con la Terc
 QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (Ocho Puertas). Sospecha.
 - T1332 · Ataja a Lee. "Ni una costilla rota. Lo frenaste a propósito." "¡El ganador es... Facundo Morelli!" "Te lo pregunto otra vez, con todo respeto, de hombre a hombre. Las Puertas. ¿Dónde las aprendiste?"
 QUÉ PODERES DE FACUNDO VIO (T1332): velocidad imposible de seguir; golpe contenido.
+- T1333 · "¿Mirando? ¿Lo viste abrir las Puertas una vez... y ya?" "No vas a abrir la sexta." "Kakashi es mi eterno rival. Si se entera de que alguien copia sin Sharingan lo que él no puede copiar con Sharingan... Se va a poner furioso. Y yo quiero ver eso."
+QUÉ SABE DE FACUNDO (T1333): por Facundo, aprendió las Puertas mirando a Lee. Vio la semilla curar a Lee.

@@ -3,95 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1330)
-
-miro
-
-## RESPUESTA 1 (T1330)
-
-> miro
-
-Te quedas quieto, con las manos sueltas a los costados.
-
-Kase lo entiende antes que nadie. Salta de tu cuello a la viga donde estaba apoyado Neji, aterriza sin ruido y se sienta a mirar, con la cola enroscada en las patas.
-
-Lee llega.
-
-No lo ves venir de frente: lo ves abajo, ya agachado bajo tu mentón, con una pierna recogida como un resorte.
-
-—¡Danza de la Sombra de la Hoja!
-
-La patada te da de lleno bajo la mandíbula y te despega del suelo. Subes, derecho hacia arriba, cinco metros, diez, con el sobretodo flameando. Lee sube contigo, pegado a tu espalda como una sombra, sin tocarte, siguiéndote en el aire.
-
-Y empieza.
-
-Un golpe en las costillas. Otro en la espalda. Una patada en el costado que te hace girar, y antes de terminar el giro ya hay otra del lado contrario que te devuelve. Lee aparece arriba, abajo, a los lados, cada vez más rápido, y los golpes suenan como granizo contra un techo de chapa. Desde abajo, los curiosos ya no lo ven: ven una mancha verde y roja alrededor de un hombre de negro que da vueltas en el aire.
-
-—¡Cincuenta! —cuenta Gai a los gritos, con los puños apretados—. ¡Sesenta! ¡SETENTA!
-
-Lee te agarra del sobretodo con una mano. Con la otra te envuelve con las vendas de los brazos, que se le desenrollan solas en el aire.
-
-—¡Flor de Loto...!
-
-Te tira hacia abajo con todo el peso del cuerpo, y gira. Gira tan rápido que el aire alrededor de los dos se prende en una espiral de calor.
-
-—¡...OCULTA!
-
-Caen.
-
-El golpe contra el suelo levanta una nube de tierra que tapa medio borde este. Las piedras salen volando. Una tabla de las que estaban apiladas se parte en dos. La señora del balde se tira al suelo.
-
-Cuando el polvo baja, hay un pozo de dos metros en la pendiente. Lee está tirado al borde, boca arriba, con los brazos abiertos, respirando como un fuelle. La piel le humea. No puede levantarse.
-
-Tú estás de pie en el fondo del pozo, con tierra en los hombros y el sobretodo lleno de polvo. Te sacudes una manga.
-
-No tienes un rasguño.
-
-[Misión de copia cumplida.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Taijutsu y Ocho Puertas Internas · COPIADO   ║
-║ USUARIO: Rock Lee · Naruto                   ║
-║                                              ║
-║ INCLUYE: el taijutsu completo de Lee, las    ║
-║ Ocho Puertas (hasta la Octava), Flor de Loto,║
-║ Puño Ebrio y todo lo que llega a hacer.      ║
-║ Sin desgaste del cuerpo. Dominio total.      ║
-╚══════════════════════════════════════════════╝
-
-[+300 EXP.]
-
-Gai llega al borde del pozo de un salto. Se agacha junto a Lee y le pasa una mano por la frente, sin dejar de mirarte a ti.
-
-Neji está parado al lado de la viga, con el Byakugan todavía encendido y Kase al lado de su hombro. No dice nada. Tiene la mandíbula apretada.
-
-Lee gira la cabeza hacia ti, desde el suelo, con la cara roja y llena de tierra.
-
-—Facundo-san... —jadea—. ¿Sentiste... algo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1330 · NARUTO · DÍA 1 · 09:30          ║
-║ Konoha · borde este del cráter · el pozo     ║
-║ NIVEL 29 · EXP 295.680/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en la viga, junto a Neji               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Duelo con Rock Lee                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1331)
+## COMANDO 1 (T1331)
 
 no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
 
-## RESPUESTA 2 (T1331)
+## RESPUESTA 1 (T1331)
 
 > no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
 
@@ -142,11 +58,11 @@ En el suelo, Lee ya se está levantando. Le tiemblan los brazos, las piernas no 
 
 ---
 
-## COMANDO 3 (T1332)
+## COMANDO 2 (T1332)
 
 le pego a lee conteniendome
 
-## RESPUESTA 3 (T1332)
+## RESPUESTA 2 (T1332)
 
 > le pego a lee conteniendome
 
@@ -201,4 +117,57 @@ Gai baja la mano. Ya no sonríe.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:32, borde este. Facundo desmayó a Lee de un golpe contenido al estómago (Lee: "Increíble...", sonriendo). Gai lo atajó: ni una costilla rota. Gai declaró ganador a Facundo (+12 F, +200 EXP). Gai, serio: "Las Puertas. ¿Dónde las aprendiste?" Facundo tiene que contestar. Primera Puerta sigue abierta.
+## COMANDO 3 (T1333)
+
+mirando a lee recien, le doy una semilla del ermitaño
+
+## RESPUESTA 3 (T1333)
+
+> mirando a lee recien, le doy una semilla del ermitaño
+
+> —Mirando a Lee, hace un rato.
+
+Gai se queda callado.
+
+Te agachas junto a la tabla donde está Lee, sacas una semilla del bolsillo y se la pones entre los labios. Le apoyas dos dedos bajo la mandíbula y se la haces masticar, una vez, dos. Lee traga dormido, con la sonrisa todavía puesta.
+
+—¿Mirando? —repite Gai, por fin—. ¿Lo viste abrir las Puertas una vez... y ya?
+
+Lee abre los ojos.
+
+No despacio: de golpe, como si alguien lo hubiera llamado a gritos. Se sienta en la tabla de un salto. Se mira las manos, los brazos, el estómago. La piel ya no le humea. No le sangra la nariz. No le tiembla nada.
+
+—¡Gai-sensei! —Se pone de pie de un brinco, saltando en el lugar—. ¡No me duele nada! ¡Nada! ¡Abrí tres Puertas y no me duele ni un músculo! ¡Siento que podría abrir la sexta!
+
+—No vas a abrir la sexta —dicen Gai y Tenten al mismo tiempo.
+
+Neji da un paso más hacia ustedes. Desactiva el Byakugan, y se le nota en la cara que lo hace por primera vez en toda la mañana con algo parecido a la derrota.
+
+—Lo viste una vez —dice, despacio, mirándote—. Abrir las Puertas destroza el cuerpo. Lee tardó años, Gai-sensei tardó años. Ni siquiera el Sharingan de Kakashi-sensei puede copiarlas, porque no son una técnica: son el cuerpo.
+
+Lee se da vuelta hacia ti. Le brillan los ojos como estrellas otra vez.
+
+—¡¿Las aprendiste mirándome a MÍ?! —Se le llenan los ojos de lágrimas—. ¡Gai-sensei! ¡Mis Puertas sirvieron para que alguien aprendiera!
+
+Gai no llora esta vez. Te mira a ti, largo, con los brazos cruzados. Se le ve en la cara que está haciendo una cuenta que no le cierra.
+
+—Muchacho —dice al fin—. Kakashi es mi eterno rival. Si se entera de que alguien copia sin Sharingan lo que él no puede copiar con Sharingan... —Le asoma una sonrisa chiquita, casi a su pesar—. Se va a poner furioso. Y yo quiero ver eso.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1333 · NARUTO · DÍA 1 · 09:33          ║
+║ Konoha · borde este del cráter               ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común · Primera Puerta abierta ║
+║ Kase: en la viga, junto a Neji               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:33, borde este. Facundo dijo que aprendió las Puertas "mirando a Lee, hace un rato" y le dio una semilla a Lee: curado de golpe, salta ("siento que podría abrir la sexta"). Neji: las Puertas no son una técnica, son el cuerpo; ni el Sharingan de Kakashi las copia. Lee, emocionado. Gai: "Si Kakashi se entera de que alguien copia sin Sharingan lo que él no puede... se va a poner furioso. Y yo quiero ver eso." Facundo puede actuar.

@@ -22,3 +22,5 @@ QUÉ PODERES DE FACUNDO VIO (T1326): fuerza física enorme sin chakra visible.
 - T1330 · Mudo, mandíbula apretada, Byakugan encendido, con Kase al lado en la viga.
 - T1331 · "No lo veo. Con el Byakugan tendría que ver los puntos abriéndose... Se le pone la piel roja, sale el calor, y adentro no hay nada."
 QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (solo lo visible; Velo).
+- T1333 · Desactiva el Byakugan, derrotado. "Lo viste una vez. Abrir las Puertas destroza el cuerpo... Ni siquiera el Sharingan de Kakashi-sensei puede copiarlas, porque no son una técnica: son el cuerpo."
+QUÉ SABE DE FACUNDO (T1333): dice que aprendió las Puertas mirando a Lee una vez.

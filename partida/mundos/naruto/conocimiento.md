@@ -52,3 +52,4 @@
 - Lee, Gai, Neji, Tenten, curiosos del borde este · T1330 · vieron a Facundo recibir sin defenderse la Danza de la Sombra, ~70 golpes y la Flor de Loto Oculta de Lee (Tercera Puerta) y salir sin un rasguño. Neji: sin chakra (Velo). Es público en el campamento en cuestión de minutos.
 - Gai, Lee, Neji, Tenten, curiosos · T1331 · vieron a Facundo abrir la Primera Puerta (piel roja, calor). Gai: solo él, su padre y Lee las conocían → sospecha seria. Neji no ve los puntos de chakra (Velo). Los curiosos no entienden qué es.
 - Gai, Neji, Tenten, curiosos · T1332 · vieron a Facundo salir del pozo y desmayar a Lee de un golpe sin que nadie viera el movimiento. Gai sabe que se contuvo.
+- Gai, Lee, Neji, Tenten, curiosos · T1333 · por Facundo: aprendió las Puertas "mirando a Lee, hace un rato". Vieron una semilla curar a Lee al instante. Gai piensa contárselo a Kakashi (rival) — motivo: provocarlo.

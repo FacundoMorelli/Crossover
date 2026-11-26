@@ -11,3 +11,4 @@ ESTADO: activa.
 - T1325 · "Nunca lo vas a ver dos veces y vas a desear no haberlo visto la primera" (sobre el abrazo de Gai y Lee).
 - T1326 · "Neji. ¿Usó chakra?"
 - T1329 · "Si se abrazan otra vez, me voy."
+- T1333 · "No vas a abrir la sexta" (a coro con Gai).
