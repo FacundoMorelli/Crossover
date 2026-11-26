@@ -90,3 +90,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1248 (Tokyo Ghoul) · Se duerme panza al sol sobre un almohadón junto a la ventana de la casa Washuu, como si viviera ahí.
 - T1255 (Tokyo Ghoul) · Le muestra los dientes a Eto cuando el aire se pone pesado.
 - T1348 · Naruto (mundo Naruto) intenta acariciarlo; Kase lo mira de arriba abajo y lo ignora lamiéndose una pata.
+- T1350 · En Ichiraku (Naruto), come cerdo en cubitos que le da Ayame: primera vez en el día que acepta comida de alguien que no es Facundo.

@@ -22,3 +22,4 @@ RELACIÓN CON FACUNDO: recién lo ve.
 QUÉ SABE DE FACUNDO (T1348): nombre (por él). Por Tsunade: la despertó con una semilla, curó a 43 heridos, descubrió el brazo de Danzō y lo atrapó en el aire. Por rumores: tumbó a Raíz sin moverse, venció a Lee de un golpe.
 RELACIÓN CON FACUNDO (T1348): agradecido y entusiasmado.
 - T1349 · "¡Eso no es una respuesta!" "¡Entonces pelea conmigo! ¡Aprendí el Modo Sabio! ¡Le gané a seis Pain!" Tsunade lo manda a hacer fila. Queda a cargo de mostrarle la aldea a Facundo. "¿Tienes hambre? Teuchi, el del Ichiraku, armó un puesto en una carpa al lado de la tarima."
+- T1350 · Lo arrastra de la manga a Ichiraku. "En esta aldea los chismes vuelan más rápido que Lee." Pide tres tazones (dos para él). Indignado porque Kase come de Ayame. "¿De dónde eres? Nunca vi a nadie con el pelo así. Ni con esos ojos. ¿Hay más gente como tú en tu aldea?"

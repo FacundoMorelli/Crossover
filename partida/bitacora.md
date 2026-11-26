@@ -1348,3 +1348,4 @@ T1346 · NARUTO · Borde oeste · Desmaya a Baku de un palmazo (escupe vivos a l
 T1347 · NARUTO · Borde oeste · "¿Cómo se llama el que venció a Pain?" Tsunade: "Naruto Uzumaki." Kakashi: "Es mi alumno." Naruto llega corriendo: "¡¡ABUELA TSUNADEEEE!!" A Facundo: "¿Y tú quién eres?"
 T1348 · NARUTO · Borde oeste · "Así que tú eres Naruto. Me llamo Facundo Morelli." Tsunade le cuenta lo de Facundo. Naruto lo abraza ("¡es nuestra vieja gritona!"). Kase lo ignora. "¿Cómo lo hiciste?"
 T1349 · NARUTO · Borde oeste · "Con mi fuerza." Naruto lo desafía; Tsunade: "Primero yo" (otro día). Deja a Naruto con él. Esta noche, carpa de mando. Naruto: "¿Tienes hambre? Ichiraku armó un puesto."
+T1350 · NARUTO · Ichiraku · Naruto lo lleva al ramen; la gente lo saluda. Teuchi invita. Kase come de la mano de Ayame. Naruto: "¿De dónde eres?"

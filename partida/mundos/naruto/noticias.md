@@ -9,3 +9,4 @@
 - T1342 · Día 1 11:22 · En el campamento se corre: Danzō tenía diez Sharingan en el brazo; la Hokage lo arrestó y Raíz se resiste. Pelea en las carpas grises.
 - T1343 · El forastero del gato tumbó a todo Raíz sin moverse, con "algo que no se ve".
 - T1346 · Día 1 11:24 · DANZŌ ARRESTADO por orden de la Hokage. El forastero del gato lo atrapó en el aire. Raíz entero detenido.
+- T1350 · El campamento entero sabe que el forastero del gato despertó a la Hokage y atrapó a Danzō.

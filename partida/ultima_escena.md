@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1347)
-
-gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
-
-## RESPUESTA 1 (T1347)
-
-> gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
-
-> —Gracias, Hokage. Una pregunta: ¿quién es el chico cuyo nombre corea la gente? El que venció a Pain. ¿Cómo se llamaba? Kakashi o Yamato me lo dijeron y no me acuerdo.
-
-A Tsunade se le cambia la cara. Por primera vez desde que despertó, algo se le afloja de verdad. No es una sonrisa completa, pero se le parece.
-
-—Naruto —dice—. Naruto Uzumaki.
-
-Mira hacia el centro del campamento, hacia donde, a lo lejos, todavía se ve la tarima con el cartel.
-
-—Un mocoso escandaloso, maleducado, que come ramen tres veces al día y me dice "abuela" delante de todo el mundo. —Se cruza de brazos—. Cuando lo conocí tenía doce años y quería ser Hokage para que dejaran de mirarlo como lo miraban. Y ahora mira. Salvó la aldea entera, solo, mientras yo dormía.
-
-Kakashi, que está ayudando a un ANBU a levantar a un desmayado de Raíz, levanta la cabeza.
-
-—Es mi alumno —dice, con el ojo arrugado—. Por si alguien lo olvidaba.
-
-—Nadie lo olvida, Kakashi. Lo repites cada vez que puedes.
-
-No alcanza a decir nada más.
-
-Desde el campamento llega un grito, uno solo, fuerte, que se oye por encima de todo el ruido:
-
-—¡¡ABUELA TSUNADEEEEE!!
-
-Alguien viene corriendo por el borde del cráter, saltando sobre las lonas caídas, sobre las vigas, sobre los de Raíz desmayados, sin fijarse dónde pisa. Una chaqueta naranja y negra. Pelo rubio en punta. Tres marcas como bigotes en cada mejilla.
-
-Frena de golpe frente a Tsunade, levantando una nube de tierra, y se le queda mirando con los ojos llenos de lágrimas.
-
-—¡Despertaste! ¡Me dijeron que despertaste y no les creí! ¡Y que arrestaste al viejo Danzō! ¡Y que...! —Se da vuelta. Te ve. Mira tu pelo, tus ojos, los agujeros del sobretodo, al gato—. ¿Y tú quién eres?
-
-╔══════════════════════════════════════════════╗
-║ NARUTO UZUMAKI                               ║
-║ Genin de Konoha · Jinchūriki del Nueve Colas ║
-║ PODER: Modo Sabio, Rasengan, Rasenshuriken,  ║
-║        Clones de Sombra, chakra del          ║
-║        Nueve Colas (sellado)                 ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE (sin verlo en acción)               ║
-╚══════════════════════════════════════════════╝
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1347 · NARUTO · DÍA 1 · 11:27          ║
-║ Konoha · lado oeste · borde del cráter       ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1348)
+## COMANDO 1 (T1348)
 
 asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1348)
+## RESPUESTA 1 (T1348)
 
 > asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
 
@@ -134,11 +70,11 @@ Naruto resopla, baja la mano y se vuelve hacia ti, con los puños apretados y lo
 
 ---
 
-## COMANDO 3 (T1349)
+## COMANDO 2 (T1349)
 
 con mi fuerza
 
-## RESPUESTA 3 (T1349)
+## RESPUESTA 2 (T1349)
 
 > con mi fuerza
 
@@ -195,4 +131,67 @@ Naruto se queda a tu lado, con las manos en la nuca. Te mira. Mira a Kase. Kase 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:32, borde oeste. "Con mi fuerza." Naruto quiere pelear con él; Tsunade: "Primero yo" (pero no hoy: carta al Señor Feudal, sacar a Raíz, decidir quién va a la Cumbre). Deja a Naruto con Facundo para mostrarle la aldea. Esta noche lo quiere en la carpa de mando (preguntas en privado). Se fue con Kakashi y los ANBU. Naruto lo invita al ramen de Teuchi (Ichiraku, carpa junto a la tarima). Facundo puede actuar.
+## COMANDO 3 (T1350)
+
+esta bien
+
+## RESPUESTA 3 (T1350)
+
+> esta bien
+
+> —Está bien.
+
+—¡Sí! —Naruto levanta el puño—. ¡Vamos, vamos, vamos!
+
+Sale corriendo. A los diez pasos se acuerda de que vas detrás, frena, vuelve, te agarra de la manga del sobretodo y te arrastra.
+
+Cruzan el campamento. La gente los ve pasar, y ya no los mira igual que a la mañana. Una señora deja de barrer y hace una reverencia chiquita cuando pasas. Un ninja con muletas te levanta el pulgar. Dos chicos de la academia corren un rato al lado de ustedes, mirando a Kase, hasta que la madre de uno los llama a los gritos.
+
+—Ya se enteró todo el mundo —dice Naruto, contento—. En esta aldea los chismes vuelan más rápido que Lee.
+
+El puesto de Ichiraku es una carpa abierta de un lado, con un mostrador hecho de tablas sobre dos barriles y cuatro banquitos de distinta altura. Una cortina de tela vieja, chamuscada en las puntas, cuelga en la entrada con el nombre pintado. Atrás, sobre un fogón de piedras, hierve una olla enorme que huele a hueso de cerdo, a salsa de soya y a cebollín. Es el mejor olor que sentiste en todo el día.
+
+Detrás del mostrador hay un hombre mayor, de cara redonda y amable, con un gorro blanco de cocinero, y una muchacha de pelo castaño con un pañuelo en la cabeza, cortando cebollín a toda velocidad.
+
+—¡Viejo! ¡Ayame! —grita Naruto, y se sube de un salto a un banquito—. ¡Dos de cerdo, grandes! ¡No, tres! ¡Dos para mí!
+
+—Naruto. —El viejo sonríe con toda la cara—. Ya te dije que mientras viva no pagas nada en este puesto, así que pide lo que quieras.
+
+Entonces te ve. Ve el pelo, los ojos, el gato. Deja de revolver la olla.
+
+—Usted es... el muchacho del que habla todo el campamento. El que despertó a la Hokage.
+
+Ayame deja de cortar cebollín.
+
+—Siéntese, siéntese. —El viejo le hace un gesto a su hija—. Ayame, el mejor tazón que tengamos. Con doble huevo. Y esto también corre por cuenta de la casa, ¿eh? No acepto un no.
+
+Te sientas en el banquito de al lado de Naruto. Kase baja de tu cuello al mostrador, se sienta muy derecho, con la cola enroscada en las patas, y se queda mirando la olla con una atención absoluta.
+
+Ayame se ríe y le pone delante, sin que nadie se lo pida, un platito con un pedazo de cerdo cortado en cubitos.
+
+Kase lo huele. Lo mira a ella. Y por primera vez en todo el día, se digna a comer algo que le da alguien que no eres tú.
+
+—¡¿Cómo?! —grita Naruto—. ¡A mí ni me mira y a Ayame le come de la mano!
+
+Los tazones llegan humeando. Naruto separa los palillos con los dientes, se mete un bocado enorme de fideos y habla con la boca llena.
+
+—Oye, Facundo. —Mastica, traga—. ¿De dónde eres? Nunca vi a nadie con el pelo así. Ni con esos ojos. ¿Hay más gente como tú en tu aldea?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1350 · NARUTO · DÍA 1 · 11:48          ║
+║ Konoha · campamento · puesto de Ichiraku     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el mostrador, comiendo              ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Carpa de mando esta noche          ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:48, puesto de Ichiraku (carpa junto a la tarima). Naruto lo llevó a comer; la gente ya lo saluda. Teuchi invita (doble huevo, "no acepto un no"). Ayame le dio cerdo a Kase y Kase lo comió (Naruto indignado). Naruto, con la boca llena: "¿De dónde eres? ¿Hay más gente como tú en tu aldea?" Facundo tiene que contestar.
