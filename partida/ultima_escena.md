@@ -3,94 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1412)
-
-sigo mirando
-
-## RESPUESTA 1 (T1412)
-
-> sigo mirando
-
-Jiraiya baja la cuesta a una velocidad que no corresponde a un hombre de su tamaño ni de su edad. La gente se abre a su paso. Frena delante del grupo con un derrape de sandalias que levanta chispas del empedrado, jadeando, con el pelo blanco revuelto.
-
-Ve a Naruto.
-
-Ve a Minato.
-
-Ve a Kushina.
-
-Se le cae la mandíbula.
-
-—Minato. —La voz le sale chiquita, rarísima en un hombre así—. Kushina.
-
-—Jiraiya-sensei —dice Minato, y sonríe, con los ojos mojados.
-
-—¡Sabio Pervertido! —Naruto se suelta de su madre y salta sobre Jiraiya, abrazándolo por la cintura, porque más arriba no le llega—. ¡Estás vivo! ¡Estás vivo, viejo idiota! ¡Te dije que no fueras solo! ¡Te dije!
-
-Jiraiya se queda con los brazos en el aire. Después los baja despacio y abraza a Naruto. Y después, de repente, estira uno de los brazos largos y agarra a Minato del cuello del chaleco, y lo atrae también, y a Kushina con el otro. Los abraza a los tres juntos, enormes y torpes, con la cara apretada contra el pelo rubio de su alumno.
-
-—Mis alumnos —dice, ronco—. Mis tontos, tontos alumnos.
-
-Pasa un rato largo. Después Jiraiya levanta la cabeza.
-
-Ve a Tsunade.
-
-Está a cinco metros, al pie de la torre, con los brazos caídos a los costados. No llora. No se mueve. Solo lo mira.
-
-Jiraiya suelta a los tres, despacio. Se rasca la nuca. Pone esa sonrisa de siempre, la de pícaro, la de quien sabe que hizo algo mal y espera que se lo perdonen.
-
-—Tsunade. Te ves...
-
-No termina.
-
-Tsunade cruza los cinco metros en un paso y le da un puñetazo.
-
-Jiraiya sale volando. Atraviesa la calle de lado a lado, choca contra la pared de una casa recién reconstruida y la parte en una grieta en forma de estrella. Cae sentado en el empedrado, con la nariz sangrando y los ojos dando vueltas.
-
-Tsunade se le para delante. Lo agarra del cuello de la ropa con las dos manos y lo levanta.
-
-—¡Idiota! —le grita en la cara—. ¡Idiota, idiota, idiota! ¡Te fuiste solo! ¡Sabías que te podía matar y te fuiste solo! ¡Me dejaste aquí sentada esperando un sapo con una carta! ¡Un sapo!
-
-Le tiemblan los brazos. Le tiembla la voz.
-
-—¡Te fuiste solo!
-
-Y lo abraza.
-
-Lo abraza con todas sus fuerzas, con la cara en su hombro, y esta vez sí llora, a gritos, como una chica. Jiraiya se queda rígido un segundo, sorprendido, con la nariz chorreando sangre. Después la abraza también, despacio, con cuidado, como si fuera de vidrio.
-
-—Perdón —le dice, muy bajo—. Perdón, Tsunade.
-
-En la calle, alguien empieza a aplaudir. Otro. Después muchos.
-
-Jiraiya, todavía con Tsunade colgada del cuello, gira la cabeza y te encuentra entre la gente. Te mira el pelo, los ojos, el gato.
-
-Se le arquea una ceja.
-
-—Tú —dice, con la nariz todavía sangrando—. Eres el del gato, ¿no?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1412 · NARUTO · DÍA 1 · 15:33          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 83% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1413)
+## COMANDO 1 (T1413)
 
 mucho gusto jiraiya
 
-## RESPUESTA 2 (T1413)
+## RESPUESTA 1 (T1413)
 
 > mucho gusto jiraiya
 
@@ -137,11 +54,11 @@ Y antes de que puedas hacer nada, se inclina hacia ti y baja la voz, con un bril
 
 ---
 
-## COMANDO 3 (T1414)
+## COMANDO 2 (T1414)
 
 eh no, tus libros son todos pervertidos
 
-## RESPUESTA 3 (T1414)
+## RESPUESTA 2 (T1414)
 
 > eh no, tus libros son todos pervertidos
 
@@ -196,4 +113,73 @@ Se pasa una mano por la cara.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:37, calle frente a la Torre. "Tus libros son todos pervertidos." Jiraiya ofendido ("¡Son arte!"); Tsunade y Kushina: "Son pervertidos." Naruto se ríe. Kakashi: "Son literatura." Gai: "Eso no te hace quedar bien." Jiraiya: igual escribirá el libro. Minato se ríe. Tsunade convoca a la Torre ya: Minato, Jiraiya, Fugaku, Kakashi, Homura y Koharu, "y tú, Facundo. Sobre todo tú." Facundo puede actuar.
+## COMANDO 3 (T1415)
+
+esta bien
+
+## RESPUESTA 3 (T1415)
+
+> esta bien
+
+> —Está bien.
+
+La Torre del Hokage huele a madera nueva y a pintura fresca. Las escaleras crujen por primera vez. En las paredes del pasillo cuelgan los mismos retratos de siempre, los cinco Hokage, intactos, con sus marcos. Minato se detiene un segundo frente al suyo. No dice nada. Sigue subiendo.
+
+El despacho de arriba está igual que antes de Pain, aunque ninguno de ustedes lo haya visto antes de Pain: el escritorio ancho de madera oscura, las pilas de papeles ordenadas, el ventanal redondo que da a toda la aldea, el sillón de respaldo alto. Hasta hay una botella de sake sin abrir en un cajón entreabierto. Tsunade la ve, la saca, la mira y la vuelve a guardar.
+
+Se sienta en el sillón. Pone los codos en el escritorio.
+
+Los demás se acomodan como pueden. Minato, de pie junto al ventanal, con los brazos cruzados, mirando la aldea entera. Jiraiya, apoyado en la pared, con un pañuelo apretado contra la nariz. Kakashi, en el marco de la puerta, como siempre. Fugaku, de pie en el centro, derecho como una lanza. Homura y Koharu, traídos por dos ANBU, en dos sillas contra la pared, sin levantar la vista del suelo.
+
+Tú, al costado del escritorio. Kase se baja de tu hombro, camina por encima de los papeles de Tsunade sin pedir permiso y se echa en el borde del escritorio, al sol del ventanal.
+
+Tsunade lo mira. Lo deja.
+
+Fugaku no espera a que nadie hable.
+
+—Hokage. —Su voz llena el despacho—. Recuerdo todo. La noche de la masacre. A mi hijo con la espada. Y ahora sé quién le dio la orden. —Gira la cabeza, despacio, hacia los dos viejos—. Ellos. Y Danzō. Exijo que sean juzgados. Delante del clan. Delante de la aldea.
+
+Homura levanta la cara. Abre la boca.
+
+—Fugaku, nosotros...
+
+—No le hablé a usted.
+
+Homura cierra la boca.
+
+—Van a ser juzgados —dice Tsunade, sin levantar la voz—. Los tres. Danzō primero. Delante del Señor Feudal, del consejo, de tu clan y de todo el que quiera venir. Tienes mi palabra.
+
+Fugaku la mira un rato largo. Después asiente una sola vez, seco.
+
+—Pero tú también estabas planeando un golpe, Fugaku —sigue Tsunade, en el mismo tono—. Y eso también se va a decir en voz alta. Delante de todos.
+
+La mandíbula de Fugaku se tensa. No contesta.
+
+Minato, desde el ventanal, se da vuelta, por primera vez desde que entró.
+
+—Tsunade-sama tiene razón —dice, tranquilo—. Si vamos a empezar de nuevo, empezamos con la verdad. Toda.
+
+El despacho se queda en silencio.
+
+Tsunade suspira, larguísimo. Después gira la cabeza hacia ti.
+
+—Facundo. Antes de que esto siga, y antes de que me ponga a hablar de prisioneros, de juicios y de clanes, quiero preguntarte una cosa, y quiero que me la contestes delante de todos los que están aquí. —Entrelaza los dedos frente a la boca—. ¿Te vas a quedar en Konoha? ¿O un día de estos vas a desaparecer igual que apareciste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1415 · NARUTO · DÍA 1 · 15:46          ║
+║ Konoha · Torre del Hokage · despacho         ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 83% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el escritorio, al sol               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión en la Torre del Hokage     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:46, despacho de la Torre del Hokage (reconstruido). Presentes: Tsunade (sillón), Minato (ventanal), Jiraiya (pared, pañuelo en la nariz), Kakashi (puerta), Fugaku (centro), Homura y Koharu (sillas, traídos por ANBU), Facundo; Kase echado en el escritorio al sol. Fugaku exige juicio a los viejos y a Danzō ante el clan y la aldea; Tsunade: los tres serán juzgados, y el golpe de Fugaku también se dirá en voz alta. Minato: "empezamos con la verdad. Toda." Tsunade a Facundo: "¿Te vas a quedar en Konoha? ¿O un día de estos vas a desaparecer igual que apareciste?" Facundo tiene que contestar.

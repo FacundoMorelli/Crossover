@@ -17,3 +17,4 @@ ESTADO: activos.
 - T1395 · Homura: "Y el Ocho Colas es Killer Bee. El hermano del Raikage."
 - T1397 · Al oír que Facundo revivirá a los muertos por Danzō: miedo de verdad (los Uchiha revividos). Homura: "¿Revivir?"
 - T1398 · Homura: "Si los Uchiha vuelven... van a volver recordando quién dio la orden. Fugaku va a volver. El golpe..." Sasuke lo calla. Se vuelve a sentar.
+- T1415 · Traídos por ANBU a la Torre. Homura intenta hablar; Fugaku lo calla. Serán juzgados.

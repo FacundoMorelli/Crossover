@@ -1413,3 +1413,4 @@ T1411 · NARUTO · Konoha · Naruto con sus padres: "¡Papá!" Kushina: "¡Míra
 T1412 · NARUTO · Konoha · Llega Jiraiya: abraza a Naruto, Minato y Kushina. Tsunade le da un puñetazo, lo abraza llorando: "¡Te fuiste solo!" "Perdón, Tsunade." Jiraiya a Facundo: "Eres el del gato, ¿no?"
 T1413 · NARUTO · Konoha · "Mucho gusto, Jiraiya." Jiraiya: "Gracias, muchacho. De verdad." Le tiende la mano. "¿Me contarías tu historia?" (para un libro)
 T1414 · NARUTO · Konoha · "Tus libros son todos pervertidos." Jiraiya: "¡Son arte!" Kakashi: "Son literatura." Tsunade convoca a la Torre: Minato, Jiraiya, Fugaku, Kakashi, Homura, Koharu y Facundo.
+T1415 · NARUTO · Torre del Hokage · Reunión: Fugaku exige juicio a Homura, Koharu y Danzō; Tsunade acepta, y el golpe también se dirá. Minato: "empezamos con la verdad." Tsunade a Facundo: "¿Te vas a quedar en Konoha?"
