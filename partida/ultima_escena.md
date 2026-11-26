@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1418)
-
-sellos, que no use chakra y que se reivindique, ayudando en la aldea
-
-## RESPUESTA 1 (T1418)
-
-> sellos, que no use chakra y que se reivindique, ayudando en la aldea
-
-> —Sellos. Que no pueda usar chakra. Y que se reivindique ayudando en la aldea.
-
-Nadie dice nada durante un segundo.
-
-Fugaku es el primero.
-
-—¿Ayudando? —Se da vuelta hacia ti, despacio—. Ese hombre estuvo en mi casa la noche de la masacre. Con Itachi. Con la máscara puesta. Lo vi. —Se le enciende el rojo en el fondo de los ojos—. ¿Y lo quieres barriendo las calles de la aldea que ayudó a vaciar?
-
-—Fugaku —dice Minato.
-
-—Usted también murió por su culpa, Cuarto. Su esposa también.
-
-—Lo sé. —Minato no se mueve del ventanal—. Y estoy de acuerdo con él.
-
-Fugaku se queda con la boca abierta.
-
-—Si lo matamos —sigue Minato, tranquilo—, se termina. No aprende nada. No repara nada. Si lo encerramos en una celda, tampoco. —Mira la aldea por la ventana: los techos nuevos, la gente en las calles, los revividos—. Pero si tiene que caminar por esas calles todos los días, sin chakra, entre la gente a la que les hizo daño, mirándolos a la cara... eso es otra cosa.
-
-—Eso es más difícil que morir —dice Kakashi, desde la puerta, muy bajo.
-
-Jiraiya asiente, con el pañuelo contra la nariz.
-
-—Nagato tuvo que mirarme a la cara antes de... —Se calla—. Bueno. Antes. Sé de lo que hablo.
-
-Fugaku mira a uno, después al otro. Aprieta los puños. Se le apaga el rojo de los ojos, despacio, como un fuego que se queda sin leña.
-
-—Si da un paso fuera de lugar —dice, entre dientes—, el clan Uchiha no va a esperar a ningún consejo.
-
-—Si da un paso fuera de lugar —contesta Tsunade—, no vas a tener que esperar a nadie. Va a estar Facundo.
-
-Tsunade se queda pensando un rato. Golpea el escritorio con un dedo, despacio, al lado de la cola de Kase.
-
-—Está bien. Sellado entero, sin chakra. Bajo la vigilancia de Kakashi y de Minato. Trabajo para la aldea, todos los días, donde yo lo mande. Y cuando se haga el juicio de Danzō, va a sentarse delante de todos y va a contar lo que hizo. Todo. —Levanta la vista hacia ti—. Pero los sellos de Ibiki los rompe alguien con ese ojo, tarde o temprano. Y yo no tengo tiempo para mandarlo a buscar cada vez que se escape.
-
-Se inclina hacia adelante.
-
-—Tú supiste lo del ojo. Tú supiste lo del brazo de Danzō. Tú trajiste a los muertos. —Entrelaza los dedos—. ¿Puedes ponerle tú un sello que nadie pueda romper?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1418 · NARUTO · DÍA 1 · 15:55          ║
-║ Konoha · Torre del Hokage · despacho         ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el escritorio, al sol               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión en la Torre del Hokage     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1419)
+## COMANDO 1 (T1419)
 
 ehh mmm podria probarlo
 
-## RESPUESTA 2 (T1419)
+## RESPUESTA 1 (T1419)
 
 > ehh mmm podria probarlo
 
@@ -137,11 +74,11 @@ Abre la boca.
 
 ---
 
-## COMANDO 3 (T1420)
+## COMANDO 2 (T1420)
 
 con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
 
-## RESPUESTA 3 (T1420)
+## RESPUESTA 2 (T1420)
 
 > con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
 
@@ -206,4 +143,71 @@ Kakashi, desde la entrada, cierra los ojos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:10, carpa de la colina. Facundo sacó Sakaime del inventario ("Traza, Sakaime") y le trazó a Obito líneas-frontera invisibles: pecho (corazón), muñecas, cuello y un círculo alrededor del ojo derecho. Su chakra queda encerrado en el pecho; no llega a manos, cuello ni ojo. Duran lo que Facundo quiera (R10). Tsunade lo confirma: "encerrado en una caja". Obito despierta ciego (ojo izquierdo vacío, derecho vendado): "¿Dónde estoy?" Intenta usar el Sharingan/Kamui: nada. "No funciona. ¿Qué me hicieron? ¿Quién está ahí?" Minato no puede hablar; Kakashi cierra los ojos. Facundo puede actuar.
+## COMANDO 3 (T1421)
+
+mira bien, presta atención ojito, no estas en un sueño
+
+## RESPUESTA 3 (T1421)
+
+> mira bien, presta atención ojito, no estas en un sueño
+
+> —Mira bien. Presta atención, ojito. No estás en un sueño.
+
+Obito se queda inmóvil.
+
+Gira la cabeza hacia tu voz. El ojo vacío se le mueve bajo el párpado, buscándote.
+
+—Tú. —Lo dice muy bajo—. El de la cueva. El del gato.
+
+Se le tensa la mandíbula. Intenta incorporarse sobre un codo. Le tiembla el brazo, sin chakra que lo sostenga, y se le dobla. Cae otra vez sobre el futón.
+
+—¿Mirar? —Se ríe, una risa corta, áspera, sin nada de humor—. No tengo ojos para mirar, viajero. Me tapaste el único que me quedaba. Y el otro... el otro lo tiene...
+
+Se calla.
+
+—Un sueño —repite, despacio—. No. Ya sé que no es un sueño. En un sueño, las cosas salen como uno quiere.
+
+Se queda quieto, respirando fuerte, con la cabeza girada hacia el techo de la carpa.
+
+—¿Zetsu? —pregunta, al aire—. ¿Dónde está Zetsu?
+
+Nadie le contesta.
+
+Entonces Minato se arrodilla junto al futón, del otro lado, frente a ti. Despacio. Muy cerca de la cara de Obito. Lo mira un rato largo: las cicatrices, la boca apretada, la cuenca vacía, el pelo negro revuelto que todavía tiene el mismo remolino en la coronilla que tenía a los trece años.
+
+—Obito —dice.
+
+Solo eso.
+
+Obito se queda congelado.
+
+No respira. No se mueve. El ojo vacío deja de buscar bajo el párpado. La mano que tenía apretada sobre el futón se le abre, despacio, sola.
+
+—No. —La voz le sale chiquita, casi de chico—. No... No puede ser. Esa voz no.
+
+Gira la cabeza hacia Minato, a ciegas. Le tiembla la boca.
+
+—Estás muerto. —Lo dice como si se lo dijera a sí mismo—. Yo... yo te maté. Esa noche. Con el Nueve Colas. Yo te vi morir. Te vi...
+
+Se le corta la voz.
+
+—¿Sensei?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1421 · NARUTO · DÍA 1 · 16:12          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:12, carpa de la colina. Facundo: "Mira bien, presta atención, ojito. No estás en un sueño." Obito reconoce su voz ("El de la cueva. El del gato."); no puede incorporarse sin chakra. "No tengo ojos para mirar." "En un sueño, las cosas salen como uno quiere." Pregunta por Zetsu. Minato se arrodilla junto a él: "Obito." Obito se congela: "Esa voz no. Estás muerto. Yo te maté... ¿Sensei?" Facundo puede actuar.

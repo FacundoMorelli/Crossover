@@ -178,3 +178,4 @@
 - Fugaku · T1419 · ve a Obito (el enmascarado de la masacre) en persona.
 - Tsunade, Minato, Kakashi, Fugaku, Yamato · T1420 · vieron a Facundo sacar una katana de la nada ("Traza, Sakaime") y trazar líneas plateadas sobre Obito que dejan su chakra encerrado. Lo interpretan como fūinjutsu desconocido con espada.
 - Obito · T1420 · despierta sin poder usar chakra ni Sharingan; no sabe quién está ni dónde.
+- Obito · T1421 · oye la voz de Minato (vivo). Por Facundo: no está en un sueño.
