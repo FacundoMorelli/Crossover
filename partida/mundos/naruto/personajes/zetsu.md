@@ -13,3 +13,5 @@ ESTADO: en el árbol, frente a Facundo.
 - T1388 · Facundo menciona su "parte vieja, la de cientos de años". Blanco: "¿Cientos de años? Yo soy nuevito." Negro, con voz vieja y grave: "Cállate." "Nadie sabe eso. Nadie. Ni Madara lo supo. Ni el chico de la máscara. Ni Nagato." "¿Quién eres tú?" El NEGRO se separa del blanco (alquitrán) y se hunde en la tierra por las raíces, huyendo. Blanco, solo: "¡¿NEGRO?! ¡¿Me dejaste?!"
 QUÉ SABE DE FACUNDO (T1388): el negro: que Facundo sabe de su antigüedad (amenaza máxima).
 ESTADO: negro huyendo bajo tierra; blanco en el árbol.
+- T1389 · Blanco desmayado de un golpe en la frente, colgando del tronco. Negro arrancado de la tierra por Facundo (mano con Haki): masa negra del tamaño de un perro chico, un ojo amarillo, boca sin dientes, voz vieja ("como piedra raspando piedra"). "¡Suéltame! ¡No sabes lo que tienes en la mano!" Se le escurre por el brazo hasta el codo intentando meterse en él: "Si no me dices quién eres, voy a averiguarlo desde adentro."
+ESTADO: blanco inconsciente; negro sobre el brazo de Facundo.

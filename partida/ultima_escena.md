@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1386)
-
-vienen conmigo a la aldea, sasuke esta bien, se va a quedar en la aldea hasta que juzguen a danzo
-
-## RESPUESTA 1 (T1386)
-
-> vienen conmigo a la aldea, sasuke esta bien, se va a quedar en la aldea hasta que juzguen a danzo
-
-> —Vienen conmigo a la aldea. Sasuke está bien. Se va a quedar en la aldea hasta que juzguen a Danzō.
-
-Karin se queda con la boca abierta.
-
-—¿Se va a... quedar? —Se acomoda los anteojos con los dos dedos, rápido, nerviosa—. ¿En Konoha? ¿Sasuke? ¿Por su propia cuenta?
-
-—Por su propia cuenta.
-
-Karin se lleva las dos manos a la cara. Se le escapa un ruido que no se sabe si es una risa o un sollozo.
-
-Jūgo descruza los brazos.
-
-—Si Sasuke se queda, yo voy —dice, con su voz grave y tranquila. No pregunta nada más.
-
-Suigetsu sigue tirado en el suelo. Se toma un trago largo de agua, se seca la boca con el brazo y se queda mirando el techo de la cueva.
-
-—A ver si entendí. —Levanta un dedo—. El tipo que se hacía pasar por Madara era un Uchiha muerto. El Hokage está preso. Sasuke se va a quedar a vivir en la aldea que quería destruir hace dos horas. Y nosotros, que somos un renegado de la Niebla, una que trabajaba para Orochimaru y un tipo que a veces se vuelve loco y mata gente, vamos a entrar a Konoha caminando de la mano de un desconocido con un gato. —Levanta otro dedo—. ¿Así está bien?
-
-—Así está bien —dice Jūgo.
-
-Suigetsu suspira, larguísimo. Se levanta del suelo, se cuelga la espada enorme a la espalda y agarra la botella.
-
-—Bueno. Por lo menos en Konoha debe de haber agua de verdad.
-
-Los tres se te acercan. Karin se te para al lado, todavía secándose los ojos detrás de los anteojos. Jūgo apoya la mano enorme en tu hombro libre. Suigetsu le agarra la manga a Jūgo, con cara de que esto no le gusta nada.
-
-Te llevas dos dedos a la frente.
-
-La cueva desaparece.
-
-Aparece la carpa de mando. Tsunade sigue sentada en el banquito, con un cuenco de té nuevo en las manos. Homura y Koharu, en los suyos. Sasuke, de pie, contra un poste.
-
-Karin lo ve y sale disparada hacia él.
-
-—¡Sasuke!
-
-Sasuke la frena con una mano en la frente, sin mirarla, antes de que lo abrace. Karin se queda ahí, con los brazos abiertos y la frente apoyada en su palma, llorando.
-
-Tsunade mira a Karin. Mira a Jūgo, que agacha la cabeza para no golpearse con el techo de la carpa. Mira a Suigetsu, que saluda con la botella.
-
-Deja el cuenco de té en el suelo, muy despacio.
-
-—Tres —dice—. Me dijiste tres, y son tres.
-
-Se pone de pie.
-
-—Uno de la Niebla con la espada de Zabuza, una pelirroja que huele a laboratorio de Orochimaru y... —mira a Jūgo de arriba abajo— eso. —Se frota las sienes—. Facundo, ¿dónde se supone que meto a toda esta gente?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1386 · NARUTO · DÍA 1 · 13:41          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 304.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Cazar a Zetsu y a Kisame           ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1387)
+## COMANDO 1 (T1387)
 
 no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
 
-## RESPUESTA 2 (T1387)
+## RESPUESTA 1 (T1387)
 
 > no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
 
@@ -168,11 +95,11 @@ Gira despacio hacia ti.
 
 ---
 
-## COMANDO 3 (T1388)
+## COMANDO 2 (T1388)
 
 hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
 
-## RESPUESTA 3 (T1388)
+## RESPUESTA 2 (T1388)
 
 > hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
 
@@ -223,4 +150,63 @@ La mitad blanca se queda sola en el árbol, con media cara vacía, gritando:
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:47, bosque del borde norte. Facundo le dijo a Zetsu que su parte vieja, la de cientos de años, tiene que responderle. Zetsu blanco no entiende. Zetsu negro, voz vieja: "Nadie sabe eso. Ni Madara. Ni el chico de la máscara. Ni Nagato. ¿Quién eres tú?" Se separa del blanco como alquitrán y se hunde en la tierra por las raíces para huir. Blanco: "¡¿NEGRO?! ¡¿Me dejaste?!" Facundo tiene que reaccionar.
+## COMANDO 3 (T1389)
+
+dejo inconsciente a la parte blanca y saco al negro de ahi dentro
+
+## RESPUESTA 3 (T1389)
+
+> dejo inconsciente a la parte blanca y saco al negro de ahi dentro
+
+Le das un golpe seco con los nudillos a la mitad blanca, en la frente, contra la corteza.
+
+—¡Ay...!
+
+El ojo se le pone en blanco. La cara se le afloja, se le cae la mandíbula, y se queda colgando del tronco como una máscara mal pegada, desmayada, con media cara vacía y la boca abierta.
+
+[Derrotado: Zetsu blanco.]
+
+[+5 Fragmentos. +50 EXP.]
+
+Te agachas junto a las raíces.
+
+La mancha negra ya se hundió casi entera en la tierra. Solo queda una punta, un hilo oscuro y brillante que se escurre entre las piedras y el barro, cada vez más fino, como la cola de una lagartija que se mete en un agujero.
+
+Le hundes la mano detrás, hasta la muñeca, hasta el codo, envuelta en Haki azul y blanco.
+
+La tierra se abre alrededor de tu brazo como si fuera agua. Debajo, entre las raíces, algo frío y viscoso se retuerce contra tus dedos. Intenta escurrirse. Lo cierras en el puño.
+
+Tiras.
+
+La tierra revienta hacia arriba en una lluvia de barro y raíces partidas, y sale con tu mano: una masa negra, brillante, del tamaño de un perro chico, que se retuerce en el aire como un pulpo fuera del agua. Tiene un solo ojo amarillo, enorme, abierto en medio de la oscuridad, y una boca que se abre y se cierra sin dientes.
+
+Kase, en tu hombro, se eriza entero. Suelta un bufido largo, furioso, con los colmillos al aire. Es la primera vez en todo el día que le gruñe a algo.
+
+—¡Suéltame! —La voz ya no tiene nada de la del árbol. Es vieja, gastada, como piedra raspando piedra—. ¡No sabes lo que tienes en la mano!
+
+La masa negra deja de retorcerse.
+
+Y empieza a subir.
+
+Se te escurre del puño hacia arriba, por la muñeca, por el antebrazo, rápido, como tinta que se derrama hacia arriba, y se te pega a la piel. Fría. Buscando un hueco, una grieta, algo por donde meterse. Ya te llega al codo. El ojo amarillo se te acerca a la cara por el brazo, abierto, fijo, sin parpadear.
+
+—Si no me dices quién eres —susurra la voz, desde el ojo—, voy a averiguarlo desde adentro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1389 · NARUTO · DÍA 1 · 13:48          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.230/320.000               ║
+║ FRAGMENTOS 113.499 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Zetsu negro                        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:48, bosque del borde norte. Facundo desmayó al Zetsu blanco (+5 F, +50 EXP) y sacó al Zetsu negro de la tierra con la mano envuelta en Haki: masa negra con un ojo amarillo, voz vieja. Kase le gruñe (primera vez). Zetsu negro se le escurre por el brazo hasta el codo buscando meterse en él: "Si no me dices quién eres, voy a averiguarlo desde adentro." Facundo tiene que reaccionar.

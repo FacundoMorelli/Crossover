@@ -131,3 +131,4 @@
 - Todos en la carpa de mando · T1387 · vieron a Facundo traer a Kisame inconsciente.
 - Zetsu · T1387 · ve a Facundo aparecer a su lado; lo reconoce (cueva).
 - Zetsu (negro y blanco) · T1388 · por Facundo: Facundo sabe que la parte negra tiene "cientos de años". El blanco no lo sabía.
+- Zetsu negro · T1389 · Facundo lo atrapó con la mano a través de la tierra (Haki; lo cree técnica desconocida).

@@ -94,3 +94,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1351 · Deja de comer y mira a Naruto mientras habla de Jiraiya; no se le acerca, pero no le da la espalda.
 - T1365 · Baja del hombro, huele la capucha de Tobi desmayado y le da la espalda con la cola levantada.
 - T1374 · Se sienta a medio metro de la cabeza de Obito en el futón, vigilándolo.
+- T1389 · Se eriza entero y le bufa con los colmillos al Zetsu negro: primera vez en el día que le gruñe a algo.

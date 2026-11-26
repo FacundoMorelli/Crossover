@@ -1387,3 +1387,4 @@ T1385 · NARUTO · Carpa de mando → cueva · "Voy por sus compañeros y despu�
 T1386 · NARUTO · Cueva → carpa de mando · "Vienen conmigo; Sasuke se queda hasta el juicio." Jūgo acepta, Karin llora, Suigetsu suspira. Teletransporte a la carpa de mando. Tsunade: "¿Dónde meto a toda esta gente?"
 T1387 · NARUTO · Carpa → acantilado → carpa → bosque norte · Avisa a Tsunade (no dejar que Sasuke vea a Naruto). Desmaya a Kisame en un acantilado y lo lleva a la carpa (+150 F, +1.200 EXP). "Ahora son cuatro." Encuentra a Zetsu en un árbol del borde norte espiando Konoha: "Ah. Eras tú."
 T1388 · NARUTO · Bosque norte · "Tu parte vieja, la de cientos de años, tiene que responderme." Zetsu negro: "Nadie sabe eso. ¿Quién eres tú?" Se separa del blanco y se hunde en la tierra.
+T1389 · NARUTO · Bosque norte · Desmaya al Zetsu blanco (+5 F, +50 EXP). Saca al Zetsu negro de la tierra con Haki. Kase le gruñe. Zetsu negro le trepa por el brazo: "voy a averiguarlo desde adentro."
