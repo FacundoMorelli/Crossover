@@ -176,3 +176,5 @@
 - Todos en el despacho · T1418 · por Facundo: Obito debe quedar sellado, sin chakra, y reivindicarse ayudando en la aldea. Por Fugaku: Obito estuvo enmascarado en la masacre Uchiha.
 - Yamato · T1419 · ve al Cuarto Hokage vivo.
 - Fugaku · T1419 · ve a Obito (el enmascarado de la masacre) en persona.
+- Tsunade, Minato, Kakashi, Fugaku, Yamato · T1420 · vieron a Facundo sacar una katana de la nada ("Traza, Sakaime") y trazar líneas plateadas sobre Obito que dejan su chakra encerrado. Lo interpretan como fūinjutsu desconocido con espada.
+- Obito · T1420 · despierta sin poder usar chakra ni Sharingan; no sabe quién está ni dónde.

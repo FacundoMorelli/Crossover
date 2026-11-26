@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1417)
-
-si, es verdad, estaba siendo utilizado pero lo hizo el
-
-## RESPUESTA 1 (T1417)
-
-> si, es verdad, estaba siendo utilizado pero lo hizo el
-
-> —Sí, es verdad. Estaba siendo utilizado, pero lo hizo él.
-
-Minato cierra los ojos.
-
-No dice nada. Se queda de pie junto al ventanal, con la luz de la tarde en la cara, y por un momento parece mucho más joven de lo que es, y mucho más cansado.
-
-—Obito —dice al fin, muy bajo—. El que llegaba siempre tarde. El que decía que iba a ser Hokage. El que se ponía las antiparras para no llorar delante de Kakashi.
-
-Abre los ojos. Los tiene mojados.
-
-—Lo dejé solo. En Kannabi. Creí que estaba muerto, y no volví a buscarlo. Ni siquiera su cuerpo. —Aprieta los puños—. Y alguien lo encontró antes que yo.
-
-—No fue culpa suya, sensei —dice Kakashi, desde la puerta—. Fue mía. Rin...
-
-—Basta, los dos —los corta Jiraiya, desde la pared, con la voz grave por primera vez desde que llegó—. Si nos ponemos a repartir culpas, en esta sala no queda nadie limpio. Ni yo. Yo entrené a Nagato.
-
-Nadie dice nada. Homura y Koharu miran el suelo. Fugaku cierra la boca.
-
-Minato respira hondo. Se pasa una mano por la cara. Cuando la baja, ya no tiene los ojos mojados: tiene la expresión de un Hokage.
-
-—Lo que hizo, lo hizo él. Es verdad. —Te mira—. Kushina murió por lo que hizo. Yo morí. Media aldea murió. Y Naruto creció solo, dieciséis años, con todo el mundo mirándolo como a un monstruo.
-
-Se le tensa la mandíbula.
-
-—Pero era mi alumno.
-
-Se da vuelta hacia Tsunade.
-
-—Tsunade-sama. Quiero estar cuando despierte. Con Kakashi.
-
-Tsunade asiente despacio. Después mira a todos los de la sala, uno por uno: a Minato, a Kakashi, a Jiraiya, a Fugaku, a los dos viejos. Y por último te mira a ti, con los dedos entrelazados frente a la boca.
-
-—Danzō va a ser juzgado. Homura y Koharu también. Pero con Obito no sé qué hacer. —Lo dice sin vueltas—. Mató a Minato y a Kushina, dirigió Akatsuki, casi destruyó el mundo. Y al mismo tiempo, lo usó alguien que ya no existe, y tú acabas de deshacer casi todo lo que hizo.
-
-Se inclina un poco hacia adelante.
-
-—Tú lo atrapaste. Tú sabes más de él que nadie en esta sala. —Te sostiene la mirada—. ¿Qué crees que hay que hacer con él?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1417 · NARUTO · DÍA 1 · 15:52          ║
-║ Konoha · Torre del Hokage · despacho         ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 83% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el escritorio, al sol               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión en la Torre del Hokage     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1418)
+## COMANDO 1 (T1418)
 
 sellos, que no use chakra y que se reivindique, ayudando en la aldea
 
-## RESPUESTA 2 (T1418)
+## RESPUESTA 1 (T1418)
 
 > sellos, que no use chakra y que se reivindique, ayudando en la aldea
 
@@ -129,11 +66,11 @@ Se inclina hacia adelante.
 
 ---
 
-## COMANDO 3 (T1419)
+## COMANDO 2 (T1419)
 
 ehh mmm podria probarlo
 
-## RESPUESTA 3 (T1419)
+## RESPUESTA 2 (T1419)
 
 > ehh mmm podria probarlo
 
@@ -200,4 +137,73 @@ Abre la boca.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:08, carpa de la colina (sigue en pie entre casas nuevas). "Podría probarlo." Tsunade: "Es más de lo que tengo." Van Tsunade, Minato, Kakashi, Fugaku y Facundo (Kase en el hombro); Homura y Koharu quedan en la Torre con ANBU. Yamato (custodio) ve a Minato, congelado. Ibiki ya selló a Obito (venda sellada en el ojo derecho). Obito empezó a mover los dedos hace unos minutos. Al entrar: respira hondo y murmura "Rin...", sin abrir los ojos. Facundo puede actuar (sellarlo).
+## COMANDO 3 (T1420)
+
+con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
+
+## RESPUESTA 3 (T1420)
+
+> con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
+
+Te arrodillas junto al futón.
+
+Sacas del inventario una katana de guarda cuadrada, negra, con la empuñadura blanca y una línea fina y plateada que le recorre la hoja de punta a punta. Tsunade la ve aparecer de la nada en tu mano y no dice nada. Yamato da medio paso atrás.
+
+—Traza, Sakaime.
+
+La línea plateada de la hoja se enciende.
+
+Apoyas la punta, sin cortar, sobre el pecho de Obito, justo encima del corazón, y la arrastras despacio. No deja herida. Deja una línea. Fina como un pelo, plateada, que brilla un segundo sobre la piel y después se hunde hacia adentro, debajo, hasta donde corre el chakra.
+
+Trazas otra alrededor de cada muñeca. Otra alrededor del cuello. Y la última, la más fina de todas, alrededor del ojo derecho, por encima de la venda de Ibiki, un círculo perfecto que se cierra solo.
+
+Las líneas se apagan. Ya no se ven. Pero están.
+
+Son fronteras. Nada las cruza salvo lo que tú permites. Y tú no permites que el chakra de Obito pase de su pecho a sus manos, ni a su cuello, ni a su ojo. Se queda adentro, quieto, encerrado, como agua en un pozo tapado. Y van a durar todo lo que quieras.
+
+Tsunade se agacha al otro lado del futón y le pasa a Obito la mano encendida de verde por encima del cuerpo. Se le arruga la frente.
+
+—El chakra está ahí —murmura—. Pero no se mueve. Ni un hilo. Es como si estuviera... encerrado en una caja.
+
+Guardas la espada. Desaparece.
+
+Obito abre el ojo izquierdo.
+
+El hundido. No hay nada adentro: una cuenca vacía, cerrada sobre sí misma. Pero el párpado se mueve, como si buscara ver. La mitad de la cara de las cicatrices se tensa.
+
+—¿Dónde... estoy? —La voz le sale ronca, rasposa, como si no la hubiera usado en años.
+
+Nadie le contesta.
+
+Obito mueve la cabeza hacia un lado y hacia el otro, ciego. Aprieta los dientes. Algo se le contrae bajo la piel del cuello, como si intentara empujar algo desde adentro hacia el ojo derecho, hacia la venda.
+
+No pasa nada.
+
+Lo intenta otra vez. Se le marcan las venas de la sien. Le tiemblan las manos sobre el futón.
+
+Nada.
+
+—No... —Se le quiebra la voz—. No funciona. ¿Qué me hicieron? ¿Quién está ahí?
+
+Minato da un paso hacia el futón. Abre la boca y no le sale nada.
+
+Kakashi, desde la entrada, cierra los ojos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1420 · NARUTO · DÍA 1 · 16:10          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:10, carpa de la colina. Facundo sacó Sakaime del inventario ("Traza, Sakaime") y le trazó a Obito líneas-frontera invisibles: pecho (corazón), muñecas, cuello y un círculo alrededor del ojo derecho. Su chakra queda encerrado en el pecho; no llega a manos, cuello ni ojo. Duran lo que Facundo quiera (R10). Tsunade lo confirma: "encerrado en una caja". Obito despierta ciego (ojo izquierdo vacío, derecho vendado): "¿Dónde estoy?" Intenta usar el Sharingan/Kamui: nada. "No funciona. ¿Qué me hicieron? ¿Quién está ahí?" Minato no puede hablar; Kakashi cierra los ojos. Facundo puede actuar.

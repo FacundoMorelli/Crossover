@@ -32,3 +32,5 @@ FÍSICO REVELADO (T1366).
 ESTADO: inconsciente, en Konoha (T1371).
 - T1418 · DECISIÓN DE TSUNADE (a propuesta de Facundo): sellado, sin chakra, bajo vigilancia de Kakashi y Minato, trabajo diario para la aldea, confesión pública en el juicio de Danzō. (Sigue inconsciente en la carpa de la colina con Yamato.)
 - T1419 · Sellado por Ibiki (venda sellada en el ojo derecho). Empieza a despertar: mueve los dedos, respira hondo, murmura "Rin..." sin abrir los ojos. Presentes: Tsunade, Minato, Kakashi, Fugaku, Yamato, Facundo.
+- T1420 · SELLADO POR FACUNDO con Sakaime: líneas-frontera invisibles sobre el corazón, alrededor de muñecas, cuello y ojo derecho. El chakra no sale del pecho: sin jutsu, sin Sharingan, sin Kamui. Duran lo que Facundo quiera. Despierta ciego (izquierdo vacío, derecho vendado). "¿Dónde... estoy?" Intenta activar el ojo: nada. "No... No funciona. ¿Qué me hicieron? ¿Quién está ahí?"
+ESTADO: despierto, sellado, ciego (venda), sin chakra utilizable.

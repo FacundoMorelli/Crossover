@@ -1418,3 +1418,4 @@ T1416 · NARUTO · Torre · "Me quedo unos días, después me voy y vuelvo." Min
 T1417 · NARUTO · Torre · "Es verdad. Lo usaron, pero lo hizo él." Minato: "Era mi alumno." Jiraiya: "Yo entrené a Nagato." Tsunade: "¿Qué crees que hay que hacer con él?"
 T1418 · NARUTO · Torre · Propone para Obito: sellos, sin chakra, reivindicarse ayudando. Fugaku se opone; Minato, Kakashi y Jiraiya apoyan. Tsunade decide. "¿Puedes ponerle tú un sello que nadie pueda romper?"
 T1419 · NARUTO · Carpa de la colina · "Podría probarlo." Van con Tsunade, Minato, Kakashi y Fugaku a ver a Obito. Yamato ve a Minato. Obito despierta: "Rin..."
+T1420 · NARUTO · Carpa de la colina · Sella a Obito con Sakaime: líneas-frontera en pecho, muñecas, cuello y ojo derecho (chakra encerrado). Obito despierta ciego, intenta el Sharingan: nada. "¿Qué me hicieron? ¿Quién está ahí?"

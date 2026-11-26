@@ -43,3 +43,4 @@ COPIADO POR FACUNDO: Mokuton completo (T1322). Yamato no lo sabe.
 - T1343 · Sus tres atrapados quedan dormidos colgando de las raíces.
 - T1399 · Queda en la carpa de la colina custodiando a Obito (orden de Tsunade).
 - T1419 · Custodiando a Obito en la carpa de la colina. Ve a Minato: "Cuarto..." Informa: Ibiki le puso los sellos y una venda sellada en el ojo derecho; empezó a mover los dedos hace unos minutos.
+- T1420 · Da medio paso atrás cuando Facundo saca la katana de la nada.
