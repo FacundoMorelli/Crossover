@@ -200,3 +200,4 @@
 - Killer Bee · T1437 · conoce a Facundo en persona (por rumores de Kumo y Konoha).
 - Toda Konoha · T1437 · conoce el título del manuscrito de Jiraiya, "El Viajero del Gato".
 - Naruto · T1437 · por Jiraiya, Facundo dijo que se quedaría "unos días".
+- Naruto · T1438 · por Facundo: se va mañana (Día 10), volverá, no sabe cuándo. Organiza una despedida en Ichiraku.

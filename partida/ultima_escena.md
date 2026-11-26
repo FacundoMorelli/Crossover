@@ -3,104 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1435)
-
-como te hiciste amigo de sasuke?
-
-## RESPUESTA 1 (T1435)
-
-> como te hiciste amigo de sasuke?
-
-> —¿Cómo te hiciste amigo de Sasuke?
-
-Naruto se queda con la boca abierta.
-
-Gira la cabeza, despacio, hacia lo alto del árbol donde está Sasuke, al lado de Itachi. Sasuke lo mira desde arriba. No dice nada.
-
-—Él me odiaba también —dice Naruto, muy bajo—. Bueno. No me odiaba. Pero no quería saber nada de mí. Y yo tampoco de él. Nos peleábamos todos los días.
-
-Se rasca la cabeza.
-
-—Después me di cuenta de que estaba solo. Como yo. Que nadie lo esperaba en su casa. Como a mí. —Se le arruga la frente—. Y no me rendí. Lo seguí. Le grité. Me pegó. Le pegué. Lo seguí igual. Hasta el Valle del Fin. Hasta ahora.
-
-Se queda callado.
-
-Después se toca el estómago con la mano abierta. Ya no como quien se toca una herida. Como quien toca una puerta.
-
-—Estaba solo —dice—. Todo el tiempo, encerrado. Igual que yo.
-
-Se sienta en el pasto, de golpe, con las piernas cruzadas. Cierra los ojos.
-
-—¿Naruto? —dice Kushina.
-
-Naruto no contesta.
-
-Pasa un rato largo. Nadie en el campo se mueve. Los pájaros vuelven a los árboles. El río vuelve a su cauce. Lee deja de hacer flexiones. Jiraiya baja la libreta.
-
-Después, alrededor del cuerpo de Naruto, aparece un hilo de chakra rojo.
-
-Es violento. Le sale por la piel como humo, se retuerce, se le marcan las líneas de los bigotes en las mejillas, más gruesas, más negras. El aire alrededor se calienta. Tsunade da un paso adelante, con el puño apretado. Minato se tensa.
-
-Kushina se arrodilla detrás de Naruto y le apoya las dos manos en la espalda. No hace ningún sello. Solo las deja ahí.
-
-El chakra rojo tiembla. Se retuerce más. Se le escapa a Naruto un gruñido entre los dientes, que no es del todo suyo.
-
-Y después se calma.
-
-No se apaga: cambia. Lo rojo se vuelve naranja, después dorado, como una llama que deja de quemar y empieza a dar calor. Le cubre los hombros a Naruto, los brazos, la cabeza, un manto de luz suave que sube y baja con la respiración, despacio.
-
-Naruto abre los ojos.
-
-Son naranjas, con la pupila partida como la de un zorro. Pero lo miran todo con la misma cara de siempre: la de un chico al que se le está por escapar la risa.
-
-—Kurama —dice, sin aliento—. Se llama Kurama.
-
-Kushina se tapa la boca con la mano.
-
-—Dice que todavía no confía en mí. —Naruto sonríe, enorme, con lágrimas en los ojos—. Que soy un idiota ruidoso. Que mi mamá era peor. Pero que no me odia. Que hoy vio cosas que no había visto en cien años... y que tiene ganas de ver qué pasa.
-
-[Misión de copia cumplida.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Poder de Naruto Uzumaki · COPIADO            ║
-║ USUARIO: Naruto Uzumaki · Naruto             ║
-║                                              ║
-║ INCLUYE: Multiclones de Sombra, Modo Sabio,  ║
-║ Rasengan y todas sus formas, chakra          ║
-║ Uzumaki, el manto y los modos del Nueve      ║
-║ Colas y todo lo que llega a hacer.           ║
-║ Sin la bestia ni el sello. Dominio total.    ║
-╚══════════════════════════════════════════════╝
-
-[+2.000 EXP.]
-
-Naruto se pone de pie de un salto, con el manto dorado todavía encima, encendido como un sol chiquito en medio del campo. Te apunta con el dedo.
-
-—¡Ahora sí! —grita—. ¡Ahora sí, Facundo! ¡Kurama dice que quiere ver qué tan fuerte eres! ¡De veras!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1435 · NARUTO · DÍA 5 · 06:34          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 329.530/360.000               ║
-║ FRAGMENTOS 114.099 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común · Ultra Instinto         ║
-║ Kase: en el pasto, junto al poste            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Duelo con Naruto                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1436)
+## COMANDO 1 (T1436)
 
 esta bien, peleó con el conteniendome
 
-## RESPUESTA 2 (T1436)
+## RESPUESTA 1 (T1436)
 
 > esta bien, peleó con el conteniendome
 
@@ -177,11 +84,11 @@ Sasuke te mira. Los ojos se le encienden, rojos, con las aspas negras girando.
 
 ---
 
-## COMANDO 3 (T1437)
+## COMANDO 2 (T1437)
 
 esta bien. simula unos dias
 
-## RESPUESTA 3 (T1437)
+## RESPUESTA 2 (T1437)
 
 > esta bien. simula unos dias
 
@@ -244,4 +151,61 @@ Levanta la cara. Tiene los ojos un poco rojos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 9 21:14, puerta de la casa de madera de Facundo. Duelo con Sasuke ganado (+75 F, +800 EXP). Simulados Días 5-9 (ver SECRETO sim_dias_5_9_naruto). Naruto en la puerta, solo, ojos un poco rojos: "Mamá dice que los viajeros siempre se van. El Sabio Pervertido dice que tú dijiste unos días. Y ya pasaron nueve. ¿Cuándo te vas?" Facundo tiene que contestar.
+## COMANDO 3 (T1438)
+
+mañana me voy, voy a volver igual, no se cuanto tiempo me ire
+
+## RESPUESTA 3 (T1438)
+
+> mañana me voy, voy a volver igual, no se cuanto tiempo me ire
+
+> —Mañana me voy. Igual voy a volver. No sé cuánto tiempo me voy a ir.
+
+Naruto se queda callado.
+
+Mira el suelo un rato largo. Se le mueven los labios, como si fuera a decir algo y se arrepintiera. Se pasa la manga por la nariz, rápido, como si no quisiera que lo vieras.
+
+Kase, desde el estante de la ventana, levanta la cabeza y lo mira.
+
+—Mañana —repite Naruto.
+
+Después levanta la cabeza de golpe, y ya no tiene los ojos rojos. Tiene la misma cara que en el campo tres, la de antes de pelear: la sonrisa enorme, los puños apretados.
+
+—¡Entonces mañana hacemos una despedida! —grita, tan fuerte que en la casa de enfrente se enciende una ventana—. ¡En Ichiraku! ¡Con todos! ¡El viejo Teuchi va a hacer el ramen más grande del mundo y nadie va a pagar nada! ¡Ni siquiera tú, aunque nunca pagas!
+
+—¡Naruto! —grita alguien desde la casa de enfrente—. ¡Son las nueve de la noche!
+
+—¡Perdón! —grita Naruto, sin bajar la voz.
+
+Se te acerca. Se queda parado en el escalón de la entrada, a un paso, mirándote desde abajo, porque todavía le sacas una cabeza.
+
+—Y cuando vuelvas —dice, más bajo—, voy a ser Hokage. O casi. Y Kurama va a ser mi amigo de verdad, no "no te odio todavía". Y le voy a ganar a Sasuke. Y te voy a ganar a ti. —Se le escapa una risa—. Bueno. Eso último capaz que no.
+
+Se rasca la nuca. Mira el estante, a Kase. Kase lo mira a él.
+
+—El Sabio Pervertido se fue un montón de veces —dice—. Siempre decía que volvía. Y casi siempre volvía. Pero una vez no volvió. —Se le quiebra la voz apenas—. Y tú lo trajiste de vuelta.
+
+Te mira a los ojos.
+
+Levanta la mano, el puño cerrado, entre los dos. Igual que en Ichiraku.
+
+—Prométeme que vas a volver. —Lo dice muy serio—. Una promesa de verdad. De las que no se rompen. De veras.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1438 · NARUTO · DÍA 9 · 21:16          ║
+║ Konoha · borde sur · tu casa de madera       ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el estante de la ventana            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Despedida mañana en Ichiraku       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 9 21:16, puerta de la casa de Facundo. "Mañana me voy. Voy a volver. No sé cuánto tiempo." Naruto: despedida mañana en Ichiraku con todos. "Cuando vuelvas voy a ser Hokage. O casi... y te voy a ganar a ti (capaz que no)." "El Sabio Pervertido una vez no volvió. Y tú lo trajiste." Puño en alto: "Prométeme que vas a volver. Una promesa de las que no se rompen. De veras." Facundo tiene que contestar.
