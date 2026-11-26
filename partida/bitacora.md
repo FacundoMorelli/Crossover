@@ -1409,3 +1409,4 @@ T1407 · NARUTO · Konoha · DESEO 3: destruir al Diez Colas y devolver las best
 T1408 · NARUTO · Konoha · Guarda las Esferas. Reencuentro Itachi-Sasuke: "Era un mal plan." "Perdóname, Sasuke. Esta vez sí hay una próxima vez." Sasuke llora abrazado. Fugaku y Mikoto llegan. Itachi: "¿Quién eres?"
 T1409 · NARUTO · Konoha · "Soy un viajero." Itachi: "Gracias." Mikoto abraza a sus hijos. Fugaku se inclina ante Facundo: "El clan Uchiha no olvida." A Tsunade: "Usted y yo tenemos que hablar. Hoy."
 T1410 · NARUTO · Konoha · A Fugaku: "No vuelvan a intentar algo como la última vez." Se teletransporta a la casa de Minato y Kushina: "Tienen a alguien que ver." Los trae ante Naruto. Kushina: "¿Naruto?"
+T1411 · NARUTO · Konoha · Naruto con sus padres: "¡Papá!" Kushina: "¡Mírate!" "¿Mamá?" Minato y Kakashi: "Sensei." Jiraiya baja corriendo de la colina: "¡¡NARUTOOOO!!" Tsunade, quieta.

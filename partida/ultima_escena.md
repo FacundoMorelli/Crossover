@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1408)
-
-guardo las esferas en el inventario y miro
-
-## RESPUESTA 1 (T1408)
-
-> guardo las esferas en el inventario y miro
-
-Te agachas y juntas las siete piedras grises del empedrado. Están tibias todavía. Desaparecen en tu mano, una por una, hacia el inventario.
-
-Nadie te mira hacer eso. Todos miran al hombre del final de la calle.
-
-Itachi da un paso. Otro. Se detiene a tres metros de Sasuke.
-
-—Sasuke.
-
-La voz es baja, tranquila, un poco ronca, como la de alguien que no habló en mucho tiempo.
-
-Sasuke no contesta. Se le mueve la nuez de la garganta. Tiene los puños cerrados a los costados, tan apretados que se le ponen blancos los nudillos, y los ojos negros, sin Sharingan, abiertos de una forma que no le viste en todo el día.
-
-—Te maté —dice Sasuke. Se le quiebra la voz en la segunda palabra—. Yo te maté.
-
-—Lo sé. —Itachi no se mueve—. Lo recuerdo.
-
-—Y tú te dejaste. Estabas enfermo y te dejaste. Para darme tus ojos. Para que yo... —Se le corta la voz—. Para que yo volviera a Konoha como un héroe, odiándote. Ese era tu plan.
-
-Itachi lo mira un momento largo. Después sonríe. Apenas. Una sonrisa chica, cansada, que no le llega del todo a los ojos.
-
-—Era un mal plan —dice.
-
-Sasuke se rompe.
-
-No hace ruido. Solo se le doblan las rodillas, un poco, y se le cae la cara hacia adelante, y los hombros le empiezan a temblar. Itachi cruza los tres metros que lo separan de él. No lo abraza. Levanta la mano derecha, con dos dedos estirados, y le da un golpecito en la frente.
-
-Sasuke levanta la cara de golpe. Tiene los ojos llenos de lágrimas.
-
-—Perdóname, Sasuke —dice Itachi—. Esta vez sí hay una próxima vez.
-
-Y Sasuke lo abraza.
-
-Lo agarra con los dos brazos, la muñeca lastimada y la sana, con la cara hundida en el hombro de su hermano, y llora. Llora como un chico de ocho años. Itachi se queda quieto un segundo, sorprendido, y después le pone una mano en la nuca, despacio, y cierra los ojos.
-
-Nadie en la calle se mueve. Karin se tapa la boca. Suigetsu mira para otro lado. Jūgo baja la cabeza.
-
-Naruto está llorando a mares, sin taparse, con los puños apretados.
-
-Detrás de Itachi, al final de la calle, aparecen dos personas más. Un hombre serio, de cara dura y pelo negro corto, con el abanico rojo y blanco en el pecho, que se detiene en seco al ver a sus dos hijos abrazados. Y a su lado, una mujer de pelo largo, oscuro, que ya está corriendo.
-
-—¡Sasuke! ¡Itachi!
-
-Pasa un rato largo antes de que Itachi abra los ojos.
-
-Cuando lo hace, todavía con la mano en la nuca de su hermano, no mira a sus padres. Te mira a ti, por encima del hombro de Sasuke. Te recorre con la vista despacio: el pelo, los ojos, el gato.
-
-—Cuando volví... —dice, en voz baja—, una voz me dijo que el que me trajo de vuelta tenía un gato.
-
-Inclina la cabeza, apenas.
-
-—¿Quién eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1408 · NARUTO · DÍA 1 · 15:22          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1409)
+## COMANDO 1 (T1409)
 
 soy un viajero
 
-## RESPUESTA 2 (T1409)
+## RESPUESTA 1 (T1409)
 
 > soy un viajero
 
@@ -141,11 +64,11 @@ Toda la calle se queda en silencio.
 
 ---
 
-## COMANDO 3 (T1410)
+## COMANDO 2 (T1410)
 
 no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
 
-## RESPUESTA 3 (T1410)
+## RESPUESTA 2 (T1410)
 
 > no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
 
@@ -214,4 +137,71 @@ Detrás, entre la gente, Kakashi se da vuelta. Ve al hombre rubio. Se queda quie
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:27, calle frente a la Torre. Facundo a Fugaku: "No vuelvan a intentar algo como la última vez. El mundo cambió mucho." Fugaku: algo rojo en los ojos, se apaga; no contesta. Facundo se teletransportó a la casa de Minato y Kushina (sala chica, dibujo de un remolino), "Hola. Tienen a alguien que ver", y los trajo a la calle sin esperar. Naruto se da vuelta, los ve. Minato lo reconoce. Kushina da un paso: "¿Naruto?" Kakashi ve a Minato, inmóvil. Facundo puede actuar.
+## COMANDO 3 (T1411)
+
+miro
+
+## RESPUESTA 3 (T1411)
+
+> miro
+
+Naruto no se mueve.
+
+Se queda parado en medio de la calle, con los brazos caídos a los costados y la boca abierta, mirando a la mujer pelirroja. No dice nada. Parece que se olvidó de cómo se habla.
+
+El hombre rubio da un paso hacia él. Sonríe. Es una sonrisa que Naruto conoce, porque la ve todas las mañanas en el espejo.
+
+—Naruto —dice—. Nos vimos hace tres días. Adentro tuyo. ¿Te acuerdas?
+
+—Papá. —A Naruto le sale apenas, en un susurro. Después más fuerte, quebrado—. ¡Papá!
+
+Y la mujer pelirroja ya no aguanta.
+
+Corre los dos pasos que faltan y se tira sobre Naruto con los brazos abiertos. Lo abraza tan fuerte que lo levanta del suelo, con la cara hundida en su pelo, llorando a gritos.
+
+—¡Naruto! ¡Naruto, Naruto, mi bebé, mira lo grande que estás, mírate! ¡Mírate, de veras! —Le agarra la cara con las dos manos, se la mira, lo vuelve a abrazar—. ¡Te dejé en esa cuna con un día de vida! ¡Un día! ¡Y mírate!
+
+Naruto no sabe qué hacer con los brazos. Los tiene levantados en el aire, rígidos. Después, despacio, los baja y la abraza. Y se pone a llorar como no lo viste llorar en todo el día, con la cara en el hombro de su madre, temblando entero.
+
+—¿Mamá?
+
+—Sí. —Kushina se ríe y llora al mismo tiempo—. Sí, mi amor. Soy tu mamá. Kushina. Kushina Uzumaki.
+
+Minato se acerca y los abraza a los dos. Cierra los ojos. Apoya la frente en la cabeza de Naruto.
+
+En toda la calle no hay nadie que no esté mirando. Sakura llora con las dos manos en la cara. Lee se arrodilla otra vez. Hinata, al lado de Neji, se tapa la boca y no le sacan los ojos de encima a Naruto. Teuchi, en la puerta de su Ichiraku recién hecho, se quita el gorro de cocinero y lo aprieta contra el pecho.
+
+Minato abre los ojos. Por encima del hombro de su hijo ve a alguien parado entre la gente, inmóvil, de pelo blanco, con una máscara que le tapa media cara y la banda bajada sobre el ojo izquierdo.
+
+—Kakashi —dice, en voz baja.
+
+Kakashi no contesta. Se baja la máscara de la cara de un tirón, sin darse cuenta, y se le ve la boca temblando.
+
+—Sensei.
+
+Y en ese momento, desde la colina del norte, desde la casa más alta de la aldea, la del sapo de piedra en la puerta, baja alguien corriendo por la calle empinada. Un hombre enorme, de pelo blanco y largo, en punta, con dos líneas rojas que le bajan desde los ojos, en sandalias de madera que golpean las piedras como tambores.
+
+—¡¡NARUTOOOO!!
+
+Tsunade, al pie de la torre, se da vuelta hacia la voz.
+
+Y se queda completamente quieta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1411 · NARUTO · DÍA 1 · 15:30          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:30, calle frente a la Torre. Reencuentro: Minato ("Nos vimos hace tres días. Adentro tuyo.") — Naruto: "¡Papá!" Kushina lo abraza llorando ("¡Te dejé en esa cuna con un día de vida!"); Naruto: "¿Mamá?" Minato los abraza. Minato ve a Kakashi: "Kakashi." Kakashi se baja la máscara: "Sensei." Desde la colina baja corriendo Jiraiya: "¡¡NARUTOOOO!!" Tsunade se queda completamente quieta. Facundo puede actuar.

@@ -11,3 +11,4 @@ ESTADO: activos.
 - T1352 · Escuchan la historia de Naruto; Teuchi corrige de a ratos; deja de revolver cuando Naruto habla del Kyūbi.
 - T1356 · Ven a Karui golpear a Naruto; Ayame ahoga un grito; Teuchi suelta el cucharón.
 - T1405 · El letrero de Ichiraku vuela a su puerta nueva. Teuchi se cae de rodillas.
+- T1411 · Teuchi, en la puerta de su Ichiraku nuevo, se quita el gorro y lo aprieta contra el pecho.

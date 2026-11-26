@@ -166,3 +166,4 @@
 - Minato, Kushina · T1410 · Facundo apareció en su casa y los llevó por teletransporte ante Naruto.
 - Calle frente a la Torre · T1410 · ven aparecer al Cuarto Hokage y a una mujer pelirroja junto al viajero.
 - Fugaku, Mikoto, Itachi, Sasuke · T1410 · por Facundo: que no vuelvan a intentar "algo como la última vez" (el golpe).
+- TODA LA CALLE · T1411 · ve que el Cuarto Hokage y Kushina Uzumaki son los padres de Naruto (lo dicen en voz alta). PÚBLICO. Ven a Jiraiya vivo bajar de la colina.
