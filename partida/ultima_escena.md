@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1376)
-
-yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
-
-## RESPUESTA 1 (T1376)
-
-> yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
-
-> —Yo creo que fue por lo que pasó en la Tercera Guerra. Y en parte, por la manipulación del verdadero Madara.
-
-—La Tercera Guerra. —Kakashi lo repite muy bajo.
-
-Se queda mirando la cara de Obito. Y se le nota en el ojo el momento en que llega a un lugar adonde no quería llegar.
-
-—Rin.
-
-El nombre le sale como si le doliera físicamente.
-
-Tsunade levanta la vista del vaso. Sasuke, contra el poste, gira la cabeza hacia Kakashi.
-
-—Cuando Obito quedó aplastado bajo la roca en Kannabi —dice Kakashi, sin mirar a nadie, con la voz plana, como quien repite algo que se dijo a sí mismo mil veces—, me dio su ojo. Y me pidió que cuidara a Rin. Me la confió a mí.
-
-Aprieta los puños sobre las rodillas.
-
-—Unos meses después, la Niebla la secuestró. Le metieron al Tres Colas adentro para que estallara en Konoha. Ella lo sabía. Fui a rescatarla, y cuando estaba cargando el Chidori contra los que nos rodeaban, ella... —Se le cierra la garganta—. Se puso delante. A propósito. Para que no la usaran contra la aldea.
-
-Se mira la mano derecha. La mano del rayo.
-
-—La maté yo. Con esta mano.
-
-Nadie dice nada. Tsunade cierra los ojos. Sasuke no le saca la vista de encima a Kakashi, y algo le cambia en la cara, algo que no estaba antes.
-
-—Si estaba vivo... —sigue Kakashi—. Si Obito estaba vivo esa noche, y vio... —No termina la frase. No le hace falta.
-
-Tsunade se pone de pie despacio, apoyando la mano en la mesa.
-
-—Espera. —Te mira a ti, y se le endurece la cara—. Dijiste "el verdadero Madara". Madara Uchiha murió hace décadas, peleando contra mi abuelo en el Valle del Fin. Eso lo sabe todo el mundo.
-
-Rodea la mesa y se te para delante.
-
-—¿Me estás diciendo que Madara Uchiha estaba vivo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1376 · NARUTO · DÍA 1 · 13:12          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto al futón                         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1377)
+## COMANDO 1 (T1377)
 
 como crees que obito consiguio esa mitad?
 
-## RESPUESTA 2 (T1377)
+## RESPUESTA 1 (T1377)
 
 > como crees que obito consiguio esa mitad?
 
@@ -121,11 +62,11 @@ Tsunade cierra los puños. Te mira otra vez.
 
 ---
 
-## COMANDO 3 (T1378)
+## COMANDO 2 (T1378)
 
 muerto, si no me equivoco
 
-## RESPUESTA 3 (T1378)
+## RESPUESTA 2 (T1378)
 
 > muerto, si no me equivoco
 
@@ -170,4 +111,61 @@ Tsunade gira la cabeza hacia ti.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:15, carpa de la colina. "Muerto, si no me equivoco" (Madara). Tsunade, aliviada. Kakashi quiere estar cuando Obito despierte; Tsunade: solo él, ella e Ibiki lo verán; secreto, ni a Naruto todavía. Sasuke repite "Naruto". Tsunade a Facundo: si le ponen sellos de supresión como a Danzō, "¿Lo van a frenar? ¿O se nos va a escapar por la misma espiral?" Facundo tiene que contestar.
+## COMANDO 3 (T1379)
+
+es que no se la respuesta, ponlas en mi boa
+
+## RESPUESTA 3 (T1379)
+
+> es que no se la respuesta, ponlas en mi boa
+
+> —Los sellos de supresión deberían frenarlo, porque su técnica necesita chakra. Pero sale del ojo: si le tapan el ojo derecho con un sello, no puede usarla. Y por las dudas, me quedo cerca de él hasta que despierte.
+
+Tsunade te escucha sin interrumpir, con el vaso de sake quieto en la mano.
+
+Cuando terminas, asiente una vez.
+
+—Del ojo. —Mira a Kakashi—. ¿Es así?
+
+Kakashi se toca la banda que le tapa el suyo.
+
+—Es así. Sin el ojo abierto no puedo usar el Kamui. Ni siquiera puedo apuntar. —Se queda mirando el ojo entreabierto de Obito—. Si es el mismo ojo, tiene que ser lo mismo para él.
+
+—Entonces sellos de supresión en todo el cuerpo, una venda sellada sobre el ojo derecho, y tú a un paso. —Tsunade deja el vaso en la mesa, sin tomarlo—. Y Kakashi también. Si se despierta, quiero que lo primero que vea sea la cara del hombre al que le dejó el otro ojo.
+
+Kakashi no dice nada. Asiente, despacio.
+
+Tsunade se pone de pie y se acomoda el abrigo de Hokage.
+
+—Ibiki va a venir a sellarlo en unos minutos. —Se da vuelta hacia Sasuke, que sigue contra el poste, con los brazos cruzados—. Y mientras tanto, vamos a cumplir tu condición.
+
+Sasuke levanta la cabeza.
+
+—Homura y Koharu siguen en la carpa de mando, donde los dejé esta mañana. No salieron ni para ir al baño. —Tsunade lo mira a los ojos—. Vamos. Tú, yo y Facundo. Kakashi se queda aquí con él.
+
+Levanta la lona de la entrada y se queda sosteniéndola.
+
+Sasuke se despega del poste. Mira a Kakashi una vez, de reojo. Kakashi le devuelve la mirada. Ninguno de los dos dice nada.
+
+Después Sasuke sale de la carpa.
+
+Tsunade te mira, esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1379 · NARUTO · DÍA 1 · 13:17          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto al futón                         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión con Homura y Koharu        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:17, carpa de la colina. (El jugador pidió que el motor pusiera la respuesta en boca de Facundo, solo esta vez.) Facundo: los sellos deberían frenarlo; la técnica sale del ojo, tapárselo con un sello; él se queda cerca. Kakashi lo confirma. Tsunade: sellos en el cuerpo, venda sellada en el ojo derecho, Kakashi y Facundo cerca; Ibiki viene a sellarlo. Ahora van a la carpa de mando con Sasuke a ver a Homura y Koharu (Kakashi se queda con Obito). Sasuke salió. Tsunade sostiene la lona, esperando a Facundo. Facundo puede actuar. (Kase junto al futón.)

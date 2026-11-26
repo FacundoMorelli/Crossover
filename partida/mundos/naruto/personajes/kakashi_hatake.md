@@ -46,3 +46,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1376 · "Rin." Cuenta: en Kannabi Obito le dio su ojo y le confió a Rin; meses después la Niebla la secuestró y le selló al Tres Colas para que estallara en Konoha; ella se puso delante de su Chidori a propósito. "La maté yo. Con esta mano." "Si Obito estaba vivo esa noche, y vio..."
 - T1377 · "Madara lo encontró. Lo sacó de debajo de la roca. Lo curó. Y después..."
 - T1378 · "Hokage-sama. Cuando despierte, quiero estar aquí."
+- T1379 · "Es así. Sin el ojo abierto no puedo usar el Kamui. Ni siquiera puedo apuntar." Se queda con Obito. Cruza una mirada muda con Sasuke.
