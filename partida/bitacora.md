@@ -1416,3 +1416,4 @@ T1414 · NARUTO · Konoha · "Tus libros son todos pervertidos." Jiraiya: "¡Son
 T1415 · NARUTO · Torre del Hokage · Reunión: Fugaku exige juicio a Homura, Koharu y Danzō; Tsunade acepta, y el golpe también se dirá. Minato: "empezamos con la verdad." Tsunade a Facundo: "¿Te vas a quedar en Konoha?"
 T1416 · NARUTO · Torre · "Me quedo unos días, después me voy y vuelvo." Minato: "Esta aldea va a seguir aquí." Tsunade: el enmascarado del Nueve Colas está preso. Kakashi: "Es Obito, sensei." Minato a Facundo: "¿Es verdad?"
 T1417 · NARUTO · Torre · "Es verdad. Lo usaron, pero lo hizo él." Minato: "Era mi alumno." Jiraiya: "Yo entrené a Nagato." Tsunade: "¿Qué crees que hay que hacer con él?"
+T1418 · NARUTO · Torre · Propone para Obito: sellos, sin chakra, reivindicarse ayudando. Fugaku se opone; Minato, Kakashi y Jiraiya apoyan. Tsunade decide. "¿Puedes ponerle tú un sello que nadie pueda romper?"

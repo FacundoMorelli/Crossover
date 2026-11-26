@@ -42,3 +42,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1405 · Día 1 15:13 · Konoha y todo lo destruido en el mundo, reconstruidos por el primer deseo de Alba.
 - T1406 · Día 1 15:16 · CAMBIO TOTAL: segundo deseo de Alba. Vuelven los Uchiha, Itachi, Shisui, Jiraiya, Asuma, Minato, Kushina, los jinchūriki (sin bijū), Yahiko, etc.
 - T1407 · Día 1 15:19 · Fin del Diez Colas. Sin bijū que juntar ni Estatua, el Plan del Ojo de la Luna es imposible. La Cuarta Guerra (canon) no ocurrirá como en el canon. Kabuto sigue suelto.
+- T1418 · Decisión sobre Obito: sellado, trabajo para la aldea, vigilado por Minato y Kakashi.

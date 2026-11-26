@@ -30,3 +30,4 @@ FÍSICO REVELADO (T1366).
 - T1367 · Identidad dicha en voz alta por Facundo ante Taka: Obito Uchiha. Máscara en el suelo junto a su cara.
 - T1371 · Facundo lo carga al hombro y lo lleva inconsciente a la carpa de la colina, ante Tsunade.
 ESTADO: inconsciente, en Konoha (T1371).
+- T1418 · DECISIÓN DE TSUNADE (a propuesta de Facundo): sellado, sin chakra, bajo vigilancia de Kakashi y Minato, trabajo diario para la aldea, confesión pública en el juicio de Danzō. (Sigue inconsciente en la carpa de la colina con Yamato.)

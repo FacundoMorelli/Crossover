@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1415)
-
-esta bien
-
-## RESPUESTA 1 (T1415)
-
-> esta bien
-
-> —Está bien.
-
-La Torre del Hokage huele a madera nueva y a pintura fresca. Las escaleras crujen por primera vez. En las paredes del pasillo cuelgan los mismos retratos de siempre, los cinco Hokage, intactos, con sus marcos. Minato se detiene un segundo frente al suyo. No dice nada. Sigue subiendo.
-
-El despacho de arriba está igual que antes de Pain, aunque ninguno de ustedes lo haya visto antes de Pain: el escritorio ancho de madera oscura, las pilas de papeles ordenadas, el ventanal redondo que da a toda la aldea, el sillón de respaldo alto. Hasta hay una botella de sake sin abrir en un cajón entreabierto. Tsunade la ve, la saca, la mira y la vuelve a guardar.
-
-Se sienta en el sillón. Pone los codos en el escritorio.
-
-Los demás se acomodan como pueden. Minato, de pie junto al ventanal, con los brazos cruzados, mirando la aldea entera. Jiraiya, apoyado en la pared, con un pañuelo apretado contra la nariz. Kakashi, en el marco de la puerta, como siempre. Fugaku, de pie en el centro, derecho como una lanza. Homura y Koharu, traídos por dos ANBU, en dos sillas contra la pared, sin levantar la vista del suelo.
-
-Tú, al costado del escritorio. Kase se baja de tu hombro, camina por encima de los papeles de Tsunade sin pedir permiso y se echa en el borde del escritorio, al sol del ventanal.
-
-Tsunade lo mira. Lo deja.
-
-Fugaku no espera a que nadie hable.
-
-—Hokage. —Su voz llena el despacho—. Recuerdo todo. La noche de la masacre. A mi hijo con la espada. Y ahora sé quién le dio la orden. —Gira la cabeza, despacio, hacia los dos viejos—. Ellos. Y Danzō. Exijo que sean juzgados. Delante del clan. Delante de la aldea.
-
-Homura levanta la cara. Abre la boca.
-
-—Fugaku, nosotros...
-
-—No le hablé a usted.
-
-Homura cierra la boca.
-
-—Van a ser juzgados —dice Tsunade, sin levantar la voz—. Los tres. Danzō primero. Delante del Señor Feudal, del consejo, de tu clan y de todo el que quiera venir. Tienes mi palabra.
-
-Fugaku la mira un rato largo. Después asiente una sola vez, seco.
-
-—Pero tú también estabas planeando un golpe, Fugaku —sigue Tsunade, en el mismo tono—. Y eso también se va a decir en voz alta. Delante de todos.
-
-La mandíbula de Fugaku se tensa. No contesta.
-
-Minato, desde el ventanal, se da vuelta, por primera vez desde que entró.
-
-—Tsunade-sama tiene razón —dice, tranquilo—. Si vamos a empezar de nuevo, empezamos con la verdad. Toda.
-
-El despacho se queda en silencio.
-
-Tsunade suspira, larguísimo. Después gira la cabeza hacia ti.
-
-—Facundo. Antes de que esto siga, y antes de que me ponga a hablar de prisioneros, de juicios y de clanes, quiero preguntarte una cosa, y quiero que me la contestes delante de todos los que están aquí. —Entrelaza los dedos frente a la boca—. ¿Te vas a quedar en Konoha? ¿O un día de estos vas a desaparecer igual que apareciste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1415 · NARUTO · DÍA 1 · 15:46          ║
-║ Konoha · Torre del Hokage · despacho         ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 83% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el escritorio, al sol               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión en la Torre del Hokage     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1416)
+## COMANDO 1 (T1416)
 
 me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
 
-## RESPUESTA 2 (T1416)
+## RESPUESTA 1 (T1416)
 
 > me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
 
@@ -139,11 +70,11 @@ Gira la cabeza hacia ti. Hacia el único en la sala que no es de Konoha, el que 
 
 ---
 
-## COMANDO 3 (T1417)
+## COMANDO 2 (T1417)
 
 si, es verdad, estaba siendo utilizado pero lo hizo el
 
-## RESPUESTA 3 (T1417)
+## RESPUESTA 2 (T1417)
 
 > si, es verdad, estaba siendo utilizado pero lo hizo el
 
@@ -202,4 +133,67 @@ Se inclina un poco hacia adelante.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:52, despacho de la Torre. Facundo: "Sí, es verdad. Estaba siendo utilizado, pero lo hizo él." Minato recuerda a Obito; se culpa por Kannabi. Kakashi se culpa por Rin. Jiraiya: "Si nos ponemos a repartir culpas, no queda nadie limpio. Yo entrené a Nagato." Minato: "Lo que hizo, lo hizo él... Pero era mi alumno." Quiere estar cuando despierte, con Kakashi. Tsunade: Danzō, Homura y Koharu serán juzgados; con Obito no sabe qué hacer. A Facundo: "¿Qué crees que hay que hacer con él?" Facundo tiene que contestar.
+## COMANDO 3 (T1418)
+
+sellos, que no use chakra y que se reivindique, ayudando en la aldea
+
+## RESPUESTA 3 (T1418)
+
+> sellos, que no use chakra y que se reivindique, ayudando en la aldea
+
+> —Sellos. Que no pueda usar chakra. Y que se reivindique ayudando en la aldea.
+
+Nadie dice nada durante un segundo.
+
+Fugaku es el primero.
+
+—¿Ayudando? —Se da vuelta hacia ti, despacio—. Ese hombre estuvo en mi casa la noche de la masacre. Con Itachi. Con la máscara puesta. Lo vi. —Se le enciende el rojo en el fondo de los ojos—. ¿Y lo quieres barriendo las calles de la aldea que ayudó a vaciar?
+
+—Fugaku —dice Minato.
+
+—Usted también murió por su culpa, Cuarto. Su esposa también.
+
+—Lo sé. —Minato no se mueve del ventanal—. Y estoy de acuerdo con él.
+
+Fugaku se queda con la boca abierta.
+
+—Si lo matamos —sigue Minato, tranquilo—, se termina. No aprende nada. No repara nada. Si lo encerramos en una celda, tampoco. —Mira la aldea por la ventana: los techos nuevos, la gente en las calles, los revividos—. Pero si tiene que caminar por esas calles todos los días, sin chakra, entre la gente a la que les hizo daño, mirándolos a la cara... eso es otra cosa.
+
+—Eso es más difícil que morir —dice Kakashi, desde la puerta, muy bajo.
+
+Jiraiya asiente, con el pañuelo contra la nariz.
+
+—Nagato tuvo que mirarme a la cara antes de... —Se calla—. Bueno. Antes. Sé de lo que hablo.
+
+Fugaku mira a uno, después al otro. Aprieta los puños. Se le apaga el rojo de los ojos, despacio, como un fuego que se queda sin leña.
+
+—Si da un paso fuera de lugar —dice, entre dientes—, el clan Uchiha no va a esperar a ningún consejo.
+
+—Si da un paso fuera de lugar —contesta Tsunade—, no vas a tener que esperar a nadie. Va a estar Facundo.
+
+Tsunade se queda pensando un rato. Golpea el escritorio con un dedo, despacio, al lado de la cola de Kase.
+
+—Está bien. Sellado entero, sin chakra. Bajo la vigilancia de Kakashi y de Minato. Trabajo para la aldea, todos los días, donde yo lo mande. Y cuando se haga el juicio de Danzō, va a sentarse delante de todos y va a contar lo que hizo. Todo. —Levanta la vista hacia ti—. Pero los sellos de Ibiki los rompe alguien con ese ojo, tarde o temprano. Y yo no tengo tiempo para mandarlo a buscar cada vez que se escape.
+
+Se inclina hacia adelante.
+
+—Tú supiste lo del ojo. Tú supiste lo del brazo de Danzō. Tú trajiste a los muertos. —Entrelaza los dedos—. ¿Puedes ponerle tú un sello que nadie pueda romper?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1418 · NARUTO · DÍA 1 · 15:55          ║
+║ Konoha · Torre del Hokage · despacho         ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el escritorio, al sol               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión en la Torre del Hokage     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:55, despacho de la Torre. Facundo propone para Obito: sellos, sin chakra, que se reivindique ayudando en la aldea. Fugaku se opone (Obito estuvo en la masacre). Minato lo apoya ("caminar por esas calles todos los días... es otra cosa"); Kakashi: "Eso es más difícil que morir"; Jiraiya también. Fugaku cede: "Si da un paso fuera de lugar, el clan no va a esperar." Tsunade decide: sellado entero, sin chakra, vigilado por Kakashi y Minato, trabajo diario para la aldea, confesión en el juicio de Danzō. Pregunta a Facundo: "¿Puedes ponerle tú un sello que nadie pueda romper?" Facundo tiene que contestar.

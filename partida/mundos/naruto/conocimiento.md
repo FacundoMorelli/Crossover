@@ -173,3 +173,4 @@
 - Tsunade, Minato, Jiraiya, Kakashi, Fugaku, Homura, Koharu · T1416 · por Facundo: se quedará unos días en Konoha, se irá y volverá algún día.
 - Minato, Jiraiya, Fugaku, Homura, Koharu · T1416 · por Kakashi (ante Tsunade): el enmascarado del ataque del Nueve Colas es Obito Uchiha, prisionero.
 - Todos en el despacho · T1417 · por Facundo: Obito fue utilizado, pero lo hizo él. Por Tsunade: lo usó "alguien que ya no existe" (Zetsu negro/Madara).
+- Todos en el despacho · T1418 · por Facundo: Obito debe quedar sellado, sin chakra, y reivindicarse ayudando en la aldea. Por Fugaku: Obito estuvo enmascarado en la masacre Uchiha.
