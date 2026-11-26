@@ -1430,3 +1430,4 @@ T1428 · NARUTO · Días 1-5 (simulación) · Kisame encerrado. Bee libre. Cumbr
 T1429 · NARUTO · Campo tres · Pelea con Tsunade ante medio Konoha. "No te contengas tanto que me aburra, ni tan poco que me mates." "¡Patada del Cielo!" desde diez metros.
 T1430 · NARUTO · Campo tres · Ultra Instinto Dominado. La Patada del Cielo deja un cráter de diez metros; Tsunade no lo toca ni una vez. Itachi: "No es chakra." Tsunade: "¡Pégame una vez!"
 T1431 · NARUTO · Campo tres · Palma contenida: Tsunade vuela, parte dos postes, cruza el río. Se cura con Byakugō y se ríe: "¡Así que así se siente!" "Eso fue contenido, ¿no?" Duelo ganado (+75 F, +800 EXP).
+T1432 · NARUTO · Campo tres · "Así es." Semilla a Tsunade: curada. Jiraiya titula su libro. Tsunade: "Gracias." Naruto: "¡AHORA YO! ¡Pelea conmigo, Facundo!"

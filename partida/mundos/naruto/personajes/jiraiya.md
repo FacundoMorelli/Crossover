@@ -16,3 +16,4 @@ QUÉ SABE DE FACUNDO (T1413): por Facundo, sabe su nombre. Por la voz: lo revivi
 - T1418 · "Nagato tuvo que mirarme a la cara antes de... Bueno. Antes. Sé de lo que hablo."
 - T1419 · "Por lo menos es honesto." Se queda en la Torre.
 - T1430 · Escribe tan rápido en la libreta que se le rompe la punta del lápiz.
+- T1432 · "¡Título! ¡La Princesa Babosa y la palma del viajero! ¡Capítulo uno!"

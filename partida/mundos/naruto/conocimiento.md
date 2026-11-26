@@ -192,3 +192,4 @@
 - Medio Konoha (Naruto, Kushina, Minato, Jiraiya, Lee, Gai, Kakashi, Sakura, Shizune, Sasuke, Itachi y otros) · T1429 · asiste a la pelea Tsunade vs Facundo en el campo tres.
 - Público del campo tres · T1430 · vio el Ultra Instinto Dominado de Facundo (aura y pelo plateados, esquiva todo sin moverse casi). Sin chakra visible (Velo); Itachi lo confirma con el Sharingan.
 - Público del campo tres · T1431 · vio a Facundo mandar a volar a la Hokage con una palma abierta (contenida) por encima del río. Tsunade dijo en voz alta que fue contenido.
+- Público del campo tres · T1432 · vio a Facundo tirarle a Tsunade una semilla que la curó al instante.

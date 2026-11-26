@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1429)
-
-esta bien
-
-## RESPUESTA 1 (T1429)
-
-> esta bien
-
-> —Está bien.
-
-Kase salta del estante de la ventana a tu hombro, bostezando.
-
-El campo de entrenamiento tres está al borde del bosque del este, recién vuelto a la vida por el deseo de Alba: un claro de pasto húmedo de rocío, tres postes de madera clavados en fila, un río que corre detrás y, a un costado, una piedra negra y pulida, alta como un hombre, con nombres tallados de arriba abajo. La piedra de los caídos. Alguien dejó flores frescas al pie.
-
-No están solos.
-
-No saben cómo se enteraron, pero hay gente. Muchos. Sentados en las ramas de los árboles del borde, parados en la orilla del río, trepados a los postes. Naruto, colgado de una rama baja con las piernas, de cabeza. Kushina, a su lado, con los brazos cruzados y cara de que esto le parece una pésima idea. Minato, apoyado en un árbol. Jiraiya, con una libreta en la mano y un lápiz detrás de la oreja. Lee y Gai, haciendo flexiones mientras esperan. Kakashi, sentado en la piedra de los caídos, leyendo un libro naranja. Sakura, con Shizune, las dos con las manos ya encendidas de verde, por las dudas. Sasuke, en lo alto de un árbol, con Itachi a su lado.
-
-—¡Vamos, abuela! —grita Naruto, de cabeza—. ¡Dale una paliza!
-
-—¡Naruto, a quién le hablas así! —le grita Kushina, y le da un coscorrón.
-
-Tsunade no los mira. Camina hasta el centro del claro, se da vuelta y te espera, con los pies separados y los puños vendados sueltos a los costados.
-
-—Esta mañana desperté a la aldea entera dando una patada en una puerta —dice—. La de Jiraiya. Así que estoy entrada en calor.
-
-—¡Todavía no la arreglé! —grita Jiraiya desde su árbol.
-
-Tsunade lo ignora. Te mira a ti.
-
-—Una cosa antes de empezar. —Se le pone seria la cara—. No te contengas tanto que me aburra. Pero tampoco tan poco que me mates. Hoy me siento de veinte años y quiero seguir sintiéndome así mañana.
-
-Se le enciende el rombo violeta de la frente. Un hilo de chakra le recorre los brazos, por debajo de la piel, y se le concentra en el puño derecho hasta que le brilla.
-
-Y sin avisar, salta.
-
-No hacia ti: hacia arriba. Diez metros. Gira en el aire una vez, con la pierna derecha estirada por encima de la cabeza, y baja como un martillo, el talón primero, directo hacia el lugar donde estás parado.
-
-—¡Patada del Cielo!
-
-El aire silba bajo el talón. Abajo, en las ramas, la gente se agarra.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1429 · NARUTO · DÍA 5 · 06:10          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 326.730/360.000               ║
-║ FRAGMENTOS 114.024 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Pelea con Tsunade                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1430)
+## COMANDO 1 (T1430)
 
 activo el ultra instinto dominado
 
-## RESPUESTA 2 (T1430)
+## RESPUESTA 1 (T1430)
 
 > activo el ultra instinto dominado
 
@@ -123,11 +64,11 @@ Tsunade se detiene. Respira fuerte. Le corre sudor por la frente, sobre el rombo
 
 ---
 
-## COMANDO 3 (T1431)
+## COMANDO 2 (T1431)
 
 le pego conteniendome
 
-## RESPUESTA 3 (T1431)
+## RESPUESTA 2 (T1431)
 
 > le pego conteniendome
 
@@ -194,4 +135,65 @@ Se limpia la sangre de la boca con el dorso de la mano. Te mira desde la ladera,
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:12, campo tres. Facundo le dio a Tsunade una palma contenida (Ultra Instinto): voló, partió dos postes, cruzó el río y se estrelló en la ladera de enfrente. Se curó con el Byakugō (tres costillas). Se ríe a carcajadas: "¡Así que así se siente! ¡Me pegaste con la palma abierta, desgraciado!" "Contenido. Eso fue contenido, ¿no?" Duelo ganado (+75 F, +800 EXP). Shizune y Sakura junto a ella. Facundo puede actuar.
+## COMANDO 3 (T1432)
+
+asi es, le tiro una semilla del ermitaño, comela
+
+## RESPUESTA 3 (T1432)
+
+> asi es, le tiro una semilla del ermitaño, comela
+
+> —Así es. —Le tiras una semilla por encima del río—. Cómela.
+
+La semilla cruza el agua girando. Tsunade la atrapa en el aire con dos dedos, sin mirarla, como quien atrapa una mosca. La mira un segundo. Sonríe de costado.
+
+—La tercera vez en una semana que me salvas con esta cosa. —Se la mete en la boca y la mastica—. Ya me estoy acostumbrando.
+
+Traga.
+
+Las líneas negras de la cara se le borran. El cansancio de los hombros desaparece. El hilo de sangre de la boca ya no está. Se pone de pie de un salto, dentro del hueco de la ladera, y estira los brazos por encima de la cabeza, como si acabara de despertarse de la mejor siesta de su vida.
+
+—Ah. —Se trona el cuello—. Mucho mejor que el sake.
+
+Desde los árboles se escuchan aplausos. Primero uno, después muchos. Gai aplaude llorando. Lee aplaude llorando. Kushina aplaude con dos dedos, con cara de que sigue pensando que todo esto es una pésima idea. Minato sonríe.
+
+Jiraiya, en su árbol, cierra la libreta de golpe.
+
+—¡Título! —grita—. ¡"La Princesa Babosa y la palma del viajero"! ¡Capítulo uno!
+
+—¡Te parto la otra pierna, Jiraiya! —le grita Tsunade, sin mirarlo.
+
+—¡No me partiste ninguna todavía!
+
+—¡Todavía!
+
+Tsunade cruza el río de un salto y aterriza en el pasto, delante de ti. Te mira de arriba abajo, el aura plateada, el pelo de plata, los ojos grises.
+
+—Gracias —dice, y esta vez no se ríe—. Hacía años que no me divertía así.
+
+Antes de que puedas contestar, algo naranja sale disparado del borde del campo y frena de un derrape entre ustedes dos, levantando una nube de tierra.
+
+Naruto. Con los puños apretados, la cara roja y los ojos brillando como dos estrellas.
+
+—¡AHORA YO! —te grita, apuntándote con el dedo—. ¡Me lo prometiste! ¡Bueno, no me lo prometiste, pero yo te lo dije el primer día! ¡Tengo el Modo Sabio! ¡Le gané a seis Pain! ¡Pelea conmigo, Facundo! ¡De veras!
+
+Detrás de él, Kushina se tapa la cara con la mano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1432 · NARUTO · DÍA 5 · 06:15          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 327.530/360.000               ║
+║ FRAGMENTOS 114.099 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común · Ultra Instinto         ║
+║ Kase: en el pasto, junto al poste            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:15, campo tres. "Así es." Facundo le tiró una semilla del ermitaño a Tsunade; la comió, curada ("Mucho mejor que el sake"). Aplausos. Jiraiya: "¡La Princesa Babosa y la palma del viajero!" Tsunade: "Gracias. Hacía años que no me divertía así." Naruto se planta entre ellos: "¡AHORA YO! ¡Tengo el Modo Sabio! ¡Pelea conmigo, Facundo! ¡De veras!" Kushina se tapa la cara. Facundo puede actuar.

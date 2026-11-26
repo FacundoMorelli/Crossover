@@ -51,3 +51,4 @@ QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir
 - T1414 · "¡JA! ¡Te lo dijo en la cara, Sabio Pervertido! ¡Hasta el que te revivió lo sabe!"
 - T1428 · Se muda con Minato y Kushina a la casa del oeste.
 - T1430 · Se cae de la rama. "¡¿Qué es eso?! ¡¿Qué es eso, de veras?!"
+- T1432 · Se planta entre Facundo y Tsunade: "¡AHORA YO! ¡Me lo prometiste! ¡Bueno, no me lo prometiste, pero yo te lo dije el primer día! ¡Tengo el Modo Sabio! ¡Le gané a seis Pain! ¡Pelea conmigo, Facundo! ¡De veras!"
