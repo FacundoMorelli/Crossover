@@ -281,3 +281,6 @@
 - Dragon, Sabo, Koala, Robin · T1454 · Por Facundo: Ace está (debe estar) con Barbablanca; Luffy sigue entrenando.
 - Sabo · T1454 · Por Corvin: en Tequila Wolf Facundo apareció de la nada con Luffy y se fue igual.
 - Dragon, Sabo, Koala, Robin · T1455 · Por Facundo: puede llevar a Sabo a ver a Ace y a Luffy al mismo tiempo.
+- Marco y los piratas de la mesa del Moby Dick · T1456 · Ven a Ojos de Eclipse aparecer de la nada en cubierta con un rubio de sombrero de copa, tocar a Ace dormido y desaparecer con él.
+- Luffy, Rayleigh · T1456 · Ven a Facundo aparecer de la nada en Rusukaina con Ace dormido y con Sabo.
+- Robin, Dragon, Koala · T1456 · Ven a Facundo desaparecer de la torre con Sabo.

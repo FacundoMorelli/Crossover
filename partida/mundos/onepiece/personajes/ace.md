@@ -25,3 +25,4 @@ ESTADO: activo
 - T909 · Le pone la mano en la cabeza a Luffy, en silencio.
 - T910 · "No pudiste esperar ni dos minutos." A Facundo: si se va, ¿la pared sigue?
 - T911 · A Luffy: "Hazle caso a tu compañero. Dos años." A Facundo: "Y tú, cuídamelo."
+- T1456 · Día ~121 · Moby Dick, Nuevo Mundo, mediodía: dormido con la cara en el plato (narcolepsia). Facundo le toca la espalda sin que se entere y lo lleva a Rusukaina. Sigue dormido en la nieve, con el tenedor en la mano.

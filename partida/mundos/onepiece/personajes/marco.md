@@ -17,3 +17,4 @@ ESTADO: activo
 - T907 · Confirma desde la popa que no quedó nadie atrás.
 - T910 · "Ya nos están siguiendo, yoi."
 - T911 · "La Marina puede seguirnos hasta el fin del mundo, que no va a tocar ni una tabla, yoi."
+- T1456 · Día ~121 · En la mesa del Moby Dick ve aparecer de la nada a Facundo con un rubio de sombrero de copa detrás de Ace dormido: "¿Eh...?" Los ve desaparecer con Ace.
