@@ -69,3 +69,4 @@ RELACIÓN CON NARUTO: reencuentro.
 - T1407 · Ve a Itachi al final de la calle. Inmóvil.
 - T1408 · Reencuentro con Itachi: "Te maté. Yo te maté." "Y tú te dejaste... Para que yo volviera a Konoha como un héroe, odiándote. Ese era tu plan." Se rompe; lo abraza llorando como un chico de ocho años.
 RELACIÓN CON ITACHI: reconciliados.
+- T1409 · Abrazado a Itachi, se agarra también de la ropa de Mikoto.

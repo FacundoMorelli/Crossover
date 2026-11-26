@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1406)
-
-deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
-
-## RESPUESTA 1 (T1406)
-
-> deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
-
-> —Deseo que revivas a todos los que murieron por Akatsuki y por Danzō. A todos. Y que aparezcan en sus casas, con todos sus recuerdos, incluido cómo murieron, pero sin el dolor de haber muerto.
-
-Alba se queda quieto un momento largo.
-
-Los ojos rojo y azul se le apagan, despacio, como si mirara algo muy lejos, muy atrás, más allá de este día y de este cielo.
-
-—SON MUCHOS —dice—. MÁS DE LOS QUE CREES. DE ESTA ALDEA Y DE OTRAS. DE HACE TRES DÍAS Y DE HACE DIECISÉIS AÑOS.
-
-Abre los ojos.
-
-—ES POSIBLE.
-
-Esta vez sí ruge.
-
-No es un sonido de miedo. Es grave, largo, como un trueno que no termina, y hace vibrar las ventanas nuevas de todo Konoha. El cuerpo enorme del dragón se enciende de punta a punta, y de cada escama dorada sale una chispa de luz. Miles. Decenas de miles. Suben al cielo oscuro como brasas de una fogata y se quedan ahí arriba un segundo, flotando, como estrellas.
-
-Después caen.
-
-Sobre Konoha, despacio, como nieve de luz. Y más allá, hacia el bosque, hacia el horizonte, hacia todos los lados del mundo, mucho más lejos de lo que se ve.
-
-Cada chispa encuentra una casa.
-
-Se nota primero en las ventanas. Una se enciende. Después otra. Después muchas. Y después los gritos, que no son de miedo: un grito de mujer en una casa de la calle de enfrente. Un hombre que sale corriendo por una puerta, descalzo, y se queda parado en la calle, mirando hacia adentro, sin poder hablar. Un chico que llora llamando a alguien.
-
-En una calle a la izquierda de la torre, la puerta de un departamento se abre de golpe y sale una mujer de pelo negro y ojos rojos, embarazada, con las dos manos sobre la boca. Detrás de ella, en el umbral, un hombre alto, de barba corta, con un cigarrillo que todavía no prendió, se mira las manos como si no fueran suyas.
-
-—¿Kurenai? —dice.
-
-Al este, del otro lado de la torre, se encienden, una por una, las luces de un barrio entero que llevaba años apagado. Casas bajas, con un abanico rojo y blanco pintado en las paredes. Cientos de ventanas. Y voces. Muchas voces. Gente que sale a las calles y se mira entre sí, en silencio, como si no entendiera dónde está.
-
-Sasuke se queda mirando hacia ese barrio.
-
-No se mueve. No respira. El Sharingan se le apaga solo.
-
-Karin le agarra la manga. Él no se da cuenta.
-
-Kakashi, a pocos metros, se da vuelta despacio hacia el oeste, hacia una casa vieja de dos pisos que no es la suya, en una calle tranquila, cuya ventana del primer piso también acaba de encenderse. Se queda mirándola, rígido, con la mano a medio camino de la banda del ojo.
-
-Tsunade está quieta, mirando hacia el norte, hacia una casa de la colina, la más alta de la aldea, con un sapo de piedra en la puerta. Las ventanas están encendidas.
-
-Le tiemblan las manos.
-
-Alba baja la cabeza hacia ti.
-
-—CUMPLIDO. CADA UNO ESTÁ DONDE VIVIÓ. TODOS RECUERDAN. NINGUNO SUFRE. —Los ojos rojo y azul brillan, tranquilos—. PIDE EL TERCERO.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1406 · NARUTO · DÍA 1 · 15:16          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Pedir el tercer deseo              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1407)
+## COMANDO 1 (T1407)
 
 Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
 
-## RESPUESTA 2 (T1407)
+## RESPUESTA 1 (T1407)
 
 > Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
 
@@ -147,11 +76,11 @@ Sasuke se queda completamente quieto.
 
 ---
 
-## COMANDO 3 (T1408)
+## COMANDO 2 (T1408)
 
 guardo las esferas en el inventario y miro
 
-## RESPUESTA 3 (T1408)
+## RESPUESTA 2 (T1408)
 
 > guardo las esferas en el inventario y miro
 
@@ -224,4 +153,65 @@ Inclina la cabeza, apenas.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:22. Facundo guardó las 7 Esferas (inactivas) en el inventario. Reencuentro Itachi-Sasuke: "Te maté." "Lo sé. Lo recuerdo." "Era un mal plan." Golpecito en la frente: "Perdóname, Sasuke. Esta vez sí hay una próxima vez." Sasuke lo abraza y llora. Aparecen Fugaku y Mikoto ("¡Sasuke! ¡Itachi!"). Naruto llora. Itachi mira a Facundo: "Una voz me dijo que el que me trajo de vuelta tenía un gato. ¿Quién eres?" Facundo tiene que contestar.
+## COMANDO 3 (T1409)
+
+soy un viajero
+
+## RESPUESTA 3 (T1409)
+
+> soy un viajero
+
+> —Soy un viajero.
+
+Itachi te mira un rato más. No pregunta nada. Asiente una sola vez, despacio, como quien acepta una respuesta que no explica nada porque entiende que no le hace falta.
+
+—Un viajero —repite—. Gracias.
+
+Mikoto llega corriendo y se tira sobre los dos, sobre Sasuke y sobre Itachi a la vez, abrazándolos con los brazos abiertos, llorando y riéndose, tocándoles las caras, el pelo, los hombros, como si quisiera asegurarse de que están enteros.
+
+—Mis hijos. Mis hijos. Los dos...
+
+Sasuke no se suelta de Itachi. Pero estira un brazo y se agarra también de la ropa de su madre, con fuerza.
+
+Fugaku llega caminando, más despacio.
+
+Se para a un paso de su familia. No los abraza. Los mira a los tres, uno por uno, con la cara dura y la mandíbula apretada, y en los ojos negros le brilla algo que no deja salir. Le pone a Itachi una mano en el hombro. Solo eso. Itachi abre los ojos y lo mira.
+
+—Lo sé, padre —dice Itachi, muy bajo.
+
+—Lo sé yo también —contesta Fugaku—. Ahora lo sé.
+
+Después Fugaku levanta la vista y te encuentra.
+
+Te mira un momento largo, igual que su hijo. Después mira a Kase. Después, detrás de ti, a la Torre del Hokage recién hecha, a la gente, a la calle llena de revividos que salen de sus casas y se buscan entre sí.
+
+Se acerca. Se detiene frente a ti y hace una reverencia. Profunda, desde la cintura, con la espalda recta, la del jefe de un clan entero.
+
+—El clan Uchiha no olvida —dice, todavía inclinado—. Ni a los que nos hicieron daño, ni a los que nos devolvieron lo que perdimos.
+
+Se endereza.
+
+Y entonces mira por encima de tu hombro, hacia donde está Tsunade, al pie de la torre, con los brazos cruzados y la cara seria. Se le endurece otra vez la expresión. La de antes. La del hombre que hace años planeó tomar la aldea por la fuerza.
+
+—Hokage —dice, con la voz firme, para que lo oiga todo el mundo—. Usted y yo tenemos que hablar. Hoy.
+
+Toda la calle se queda en silencio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1409 · NARUTO · DÍA 1 · 15:25          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:25, calle frente a la Torre. "Soy un viajero." Itachi: "Un viajero. Gracias." Mikoto abraza a sus dos hijos. Fugaku pone la mano en el hombro de Itachi ("Lo sé yo también. Ahora lo sé."). Fugaku hace una reverencia profunda a Facundo: "El clan Uchiha no olvida. Ni a los que nos hicieron daño, ni a los que nos devolvieron lo que perdimos." Después, con la cara dura, a Tsunade, para que lo oigan todos: "Hokage. Usted y yo tenemos que hablar. Hoy." Silencio en la calle. Facundo puede actuar.

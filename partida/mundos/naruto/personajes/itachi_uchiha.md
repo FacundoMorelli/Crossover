@@ -9,3 +9,5 @@ ENCUENTROS:
 - T1408 · "Sasuke." Sasuke: "Te maté." "Lo sé. Lo recuerdo." "Era un mal plan." Golpecito con dos dedos en la frente: "Perdóname, Sasuke. Esta vez sí hay una próxima vez." Sasuke lo abraza llorando; él le pone la mano en la nuca. A Facundo: "Cuando volví, una voz me dijo que el que me trajo de vuelta tenía un gato. ¿Quién eres?"
 QUÉ SABE DE FACUNDO: por la voz de Alba al revivir: quien lo trajo de vuelta tiene un gato. Lo ve en persona.
 ESTADO: vivo, sano.
+- T1409 · "Un viajero. Gracias." A Fugaku: "Lo sé, padre."
+RELACIÓN CON FACUNDO: gratitud tranquila.

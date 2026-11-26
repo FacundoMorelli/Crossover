@@ -161,3 +161,5 @@
 - Todos los revividos · T1406-1408 · al volver oyeron una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. FUENTE VÁLIDA.
 - Itachi · T1408 · ve a Facundo y al gato; deduce que fue él.
 - Todos en la calle · T1408 · ven el reencuentro de Sasuke, Itachi, Fugaku y Mikoto.
+- Itachi, Fugaku, Mikoto, Sasuke · T1409 · por Facundo: es un viajero.
+- TODA LA CALLE · T1409 · oyó a Fugaku exigirle a la Hokage hablar hoy (tensión por la masacre y el golpe).
