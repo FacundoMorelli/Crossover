@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1452)
-
-no recuperó la memoria todavía?
-
-## RESPUESTA 1 (T1452)
-
-> no recuperó la memoria todavía?
-
-> —¿No recuperó la memoria todavía?
-
-Sabo se da vuelta hacia ti tan rápido que el sombrero se le corre.
-
-—¿Cómo sabes eso?
-
-Nadie le contesta. Koala se agacha, por fin, y junta un papel del suelo, nada más que para tener algo que hacer con las manos. Le tiemblan.
-
-Dragon tarda en hablar. Cuando lo hace, te contesta a ti, pero no le saca los ojos de encima a Sabo.
-
-—No. —La voz le sale igual de baja que siempre—. Nunca. Lo saqué del mar, frente a la costa de Goa, hace doce años. Un bote en llamas. Un chico de diez años quemado de la cabeza a los pies, que cuando despertó no sabía ni su nombre. Lo único que tenía era la ropa de noble y una bandera pirata pintada a mano en la vela del bote.
-
-Sabo baja la mano de la frente. Tiene la cara pálida y el ojo sano muy abierto.
-
-—Eso ya lo sé —dice—. Me lo contaste mil veces. Goa, el bote, el Noble Mundial que me disparó. No me acuerdo de nada de antes, y no me importa. Mi vida empezó aquí.
-
-Pero lo dice demasiado rápido.
-
-Mira a Dragon. Te mira a ti. Mira el mapa de la mesa, donde todavía está apoyada la mano de Dragon sobre el Nuevo Mundo, y algo se le va armando en la cara, pieza por pieza: el padre de tu capitán, el otro hermano, Goa.
-
-—Tu hijo —le dice a Dragon, muy despacio—. Monkey D. Luffy. Creció en Goa. En la isla Dawn.
-
-Dragon no dice que no.
-
-Sabo da un paso atrás. Choca con la mesa. El caño de metal se cae al suelo con un ruido seco que rebota por las paredes redondas de la torre, y Sabo hace una mueca y se agarra la cabeza con las dos manos, como si el ruido le hubiera entrado por el ojo quemado.
-
-Levanta la vista hacia ti, entre los dedos.
-
-—Tú lo sabes —dice, con la voz cortada—. Sabes quién era yo. Dímelo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1452 · ONE PIECE · DÍA ~121 · 06:35    ║
-║ Baltigo · torre de Dragon                    ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1453)
+## COMANDO 1 (T1453)
 
 hermano de ace y luffy
 
-## RESPUESTA 2 (T1453)
+## RESPUESTA 1 (T1453)
 
 > hermano de ace y luffy
 
@@ -115,11 +61,11 @@ Te mira. Se seca la cara con la manga de la levita, sin que sirva de nada, porqu
 
 ---
 
-## COMANDO 3 (T1454)
+## COMANDO 2 (T1454)
 
 ace debe estar con barba blanca y luffy sigue entrenando
 
-## RESPUESTA 3 (T1454)
+## RESPUESTA 2 (T1454)
 
 > ace debe estar con barba blanca y luffy sigue entrenando
 
@@ -167,4 +113,62 @@ Detrás de él, Koala abre la boca para decir algo. Mira a Dragon. Dragon sigue 
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:39, Baltigo, torre. Sabo, de pie y con la memoria recuperada, le pide a Facundo que lo lleve a ver a Ace y Luffy. Dragon calla. Facundo puede responder.
+## COMANDO 3 (T1455)
+
+si dragon te deja los llevo a verlos a los dos al mismo tiempo
+
+## RESPUESTA 3 (T1455)
+
+> si dragon te deja los llevo a verlos a los dos al mismo tiempo
+
+> —Si Dragon te deja, te llevo a verlos a los dos al mismo tiempo.
+
+Sabo se da vuelta hacia Dragon. No dice nada. No le hace falta: lo tiene escrito en toda la cara.
+
+Dragon lo mira un largo rato. El viento le mueve la capa. Afuera, abajo, se oyen voces en el patio de la fortaleza: alguien grita una orden, alguien contesta, se abre un portón.
+
+—Nunca te pedí que te quedaras —dice al fin—. Te quedaste porque quisiste. Y te vas a ir porque quieres. —Se cruza de brazos—. No necesitas mi permiso, Sabo. Nunca lo necesitaste.
+
+Hace una pausa.
+
+—Pero el Jefe de Estado Mayor del Ejército Revolucionario no desaparece de la base sin avisar a nadie. Koala se queda con tus informes. Y vuelves.
+
+Sabo sonríe. Una sonrisa enorme, de oreja a oreja, que le arruga la cicatriz y que no se parece en nada a las sonrisas educadas de hace diez minutos. Por un segundo, se parece a Luffy.
+
+—Vuelvo.
+
+Koala suelta el aire de golpe. Mira la pila de carpetas que tiene a los pies, después a Sabo, y pone los brazos en jarra.
+
+—¡¿Yo me quedo con tus informes?! ¡Sabo-kun, son tres meses de informes atrasados!
+
+—Gracias, Koala —dice Sabo, sin mirarla, todavía sonriendo.
+
+—¡No te estoy diciendo que sí!
+
+Dragon te mira a ti por última vez.
+
+—Y tú —dice—. Esta isla no está en ningún mapa. Que siga así.
+
+Robin, a tu lado, te aprieta la mano. Te mira con la misma calma de siempre, pero tiene los ojos brillantes.
+
+Sabo se acomoda el sombrero de copa, se pone el caño al hombro y se para frente a ti, a un paso, listo.
+
+—Cuando quieras.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1455 · ONE PIECE · DÍA ~121 · 06:41    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Llevar a Sabo a ver a Ace y Luffy  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:41, Baltigo, torre. Dragon deja ir a Sabo (que vuelva). Sabo, listo frente a Facundo: "Cuando quieras." Facundo puede actuar.

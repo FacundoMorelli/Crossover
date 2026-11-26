@@ -103,3 +103,4 @@ ESTADO: activa
 - T1450 · Facundo la llama "mi novia" delante de Dragon, Sabo y Koala. Le roza la mano sin mirarlo y la deja ahí.
 - T1451 · Sabía de Ace como hermano de Luffy; no sabía que había otro. Mira a Facundo de reojo.
 - T1453 · Ve a Sabo recordar; se lleva la mano a la boca. Sabe ahora que Sabo es el tercer hermano de Luffy y Ace.
+- T1455 · Le aprieta la mano a Facundo, con los ojos brillantes.

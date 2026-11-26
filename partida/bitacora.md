@@ -1453,3 +1453,4 @@ T1451 · ONE PIECE · Baltigo, torre · "Su otro hermano también sigue vivo." D
 T1452 · ONE PIECE · Baltigo, torre · "¿No recuperó la memoria todavía?" Dragon cuenta cómo lo encontró. Sabo deduce que es de la isla de Luffy; dolor de cabeza. "Sabes quién era yo. Dímelo."
 T1453 · ONE PIECE · Baltigo, torre · "Hermano de Ace y Luffy." Sabo recupera la memoria entera (Gray Terminal, el sake). Llora. "Están vivos. Los dos. ¿Dónde están?"
 T1454 · ONE PIECE · Baltigo, torre · "Ace debe estar con Barbablanca, Luffy sigue entrenando." Sabo se pone de pie. "¿Me puedes llevar a verlos?" Dragon calla.
+T1455 · ONE PIECE · Baltigo, torre · Facundo ofrece llevar a Sabo a ver a Ace y Luffy a la vez si Dragon lo deja. Dragon: no necesita permiso; que vuelva. "Esta isla no está en ningún mapa. Que siga así." Sabo: "Cuando quieras."

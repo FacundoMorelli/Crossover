@@ -18,3 +18,4 @@ RELACIÓN CON FACUNDO (T1450): curiosidad seria; ningún puesto ofrecido; lo dej
 - T1452 · Confirma ante todos que Sabo nunca recuperó la memoria; lo sacó del mar frente a Goa hace 12 años (bote en llamas, ropa de noble, bandera pirata pintada a mano). No niega que Luffy creció en Goa.
 - T1453 · Ve a Sabo recuperar la memoria. No se mueve; puños cerrados a los costados.
 - T1454 · Sostiene la mirada de Sabo sin decir nada. Ante el pedido de Sabo a Facundo, ni sí ni no.
+- T1455 · A Sabo: "No necesitas mi permiso, Sabo. Nunca lo necesitaste." Condición: avisar, Koala con sus informes, y que vuelva. A Facundo: "Esta isla no está en ningún mapa. Que siga así."

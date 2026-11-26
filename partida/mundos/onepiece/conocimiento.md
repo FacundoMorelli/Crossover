@@ -280,3 +280,4 @@
 - Dragon, Sabo, Koala, Robin · T1453 · Por Facundo: Sabo es hermano de Ace y Luffy. Sabo recupera la memoria y lo confirma delante de todos (Gray Terminal, el juramento del sake).
 - Dragon, Sabo, Koala, Robin · T1454 · Por Facundo: Ace está (debe estar) con Barbablanca; Luffy sigue entrenando.
 - Sabo · T1454 · Por Corvin: en Tequila Wolf Facundo apareció de la nada con Luffy y se fue igual.
+- Dragon, Sabo, Koala, Robin · T1455 · Por Facundo: puede llevar a Sabo a ver a Ace y a Luffy al mismo tiempo.
