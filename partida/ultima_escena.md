@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1385)
-
-por ahora no, ahora voy a ir a buscar a sus compañeros y despues voy a buscar al akatsuki que falta
-
-## RESPUESTA 1 (T1385)
-
-> por ahora no, ahora voy a ir a buscar a sus compañeros y despues voy a buscar al akatsuki que falta
-
-> —Por ahora no. Ahora voy a ir a buscar a sus compañeros, y después voy a buscar al Akatsuki que falta.
-
-Tsunade suelta una risa corta, sin ganas, por la nariz.
-
-—"El que falta." Como quien sale a comprar pan. —Se deja caer en uno de los banquitos, al lado de Koharu, que se corre sin decir nada—. Ve. Tráelos. Y esta noche te quiero en la carpa de la colina, como te dije, con todo lo que tengas para contarme.
-
-—Faltan dos —dice Sasuke.
-
-Lo miras. Él no se mueve de donde está.
-
-—El de la pared es uno. Zetsu. —Se cruza de brazos—. El otro es Kisame Hoshigaki. Un hombre tiburón, de la Niebla. Tiene una espada que come chakra. Cuando salimos a buscar al Ocho Colas, él no vino con nosotros. Tobi lo mandó a otra cosa. No sé adónde.
-
-Tsunade se pasa una mano por la cara.
-
-—Un hombre tiburón. Perfecto.
-
-Te llevas dos dedos a la frente. Kase se acomoda en tu hombro, con las uñas clavadas.
-
-La carpa desaparece.
-
-Aparece la cueva. La misma humedad, el mismo goteo, las mismas antorchas. La sangre de Obito sigue en el suelo, al lado de la marca donde estaba la máscara.
-
-Karin está sentada en una roca con las rodillas contra el pecho. Jūgo, de pie junto a la pared, con los brazos cruzados. Suigetsu, tirado boca arriba en el suelo, con la espada al lado y una botella de agua apoyada en la panza.
-
-Los tres se dan vuelta a la vez.
-
-Karin se levanta de un salto.
-
-—¡¿Y Sasuke?! —Mira detrás de ti, a los costados, al aire—. ¡¿Dónde está Sasuke?! ¡¿Qué le hiciste?!
-
-Suigetsu ni se levanta. Gira la cabeza hacia ti y levanta la botella a modo de saludo.
-
-—Volviste solo. —Mira la cueva vacía—. Eso puede significar dos cosas, y ninguna me gusta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1385 · NARUTO · DÍA 1 · 13:37          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 304.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Traer a Taka; cazar a Zetsu        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1386)
+## COMANDO 1 (T1386)
 
 vienen conmigo a la aldea, sasuke esta bien, se va a quedar en la aldea hasta que juzguen a danzo
 
-## RESPUESTA 2 (T1386)
+## RESPUESTA 1 (T1386)
 
 > vienen conmigo a la aldea, sasuke esta bien, se va a quedar en la aldea hasta que juzguen a danzo
 
@@ -135,11 +76,11 @@ Se pone de pie.
 
 ---
 
-## COMANDO 3 (T1387)
+## COMANDO 2 (T1387)
 
 no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
 
-## RESPUESTA 3 (T1387)
+## RESPUESTA 2 (T1387)
 
 > no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
 
@@ -227,4 +168,59 @@ Gira despacio hacia ti.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:46, bosque partido del borde norte. Facundo le dijo a Tsunade que va por los dos que faltan (a Zetsu lo interrogará y lo matará) y que no deje que Sasuke vea a Naruto sin él (Tsunade acepta). Teletransporte a un acantilado al noreste: desmayó a Kisame (+150 F, +1.200 EXP) y lo llevó con Samehada a la carpa de mando (Suigetsu: "¡¿KISAME?!"; Tsunade: "Ahora son cuatro."). Teletransporte a Zetsu: estaba metido en un árbol del borde norte de Konoha, espiando el campamento. "Ah. Eras tú." Facundo puede actuar.
+## COMANDO 3 (T1388)
+
+hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
+
+## RESPUESTA 3 (T1388)
+
+> hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
+
+> —Hola, Zetsu. Tienes cosas que responderme. Tu parte vieja. La de cientos de años.
+
+La mitad blanca parpadea.
+
+—¿Cientos de años? —Se ríe, con esa voz aguda y nerviosa—. ¿De qué habla este? Yo soy nuevito. Tengo... no sé cuántos tengo. Pero cientos no...
+
+La mitad negra no se ríe.
+
+No dice nada. No se mueve. Por primera vez desde que la viste, la mitad negra de la cara se queda completamente quieta, con el ojo amarillo fijo en el tuyo, sin parpadear. La corteza del árbol alrededor de la cara cruje apenas, como si algo detrás de ella se hubiera tensado.
+
+—¿Negro? —La mitad blanca gira el ojo hacia su otra mitad—. ¿Qué te pasa? Estás raro.
+
+—Cállate —dice la mitad negra.
+
+La voz le sale distinta. Más grave que antes. Más vieja. Como si viniera de muy abajo, de un lugar donde no llega la luz.
+
+—Nadie sabe eso —dice, despacio, mirándote—. Nadie. Ni Madara lo supo. Ni el chico de la máscara. Ni Nagato.
+
+La mitad blanca se queda callada, con la boca abierta.
+
+—¿Quién eres tú?
+
+No espera la respuesta.
+
+La mitad negra se despega de la blanca. Lo ves pasar: una mancha oscura, líquida, que se separa de la cara como alquitrán, se escurre por la corteza hacia abajo, por el tronco, hasta las raíces, y empieza a hundirse en la tierra húmeda, rápido, como agua que se va por un desagüe.
+
+La mitad blanca se queda sola en el árbol, con media cara vacía, gritando:
+
+—¡¿NEGRO?! ¡¿Me dejaste?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1388 · NARUTO · DÍA 1 · 13:47          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.180/320.000               ║
+║ FRAGMENTOS 113.494 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Zetsu                              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:47, bosque del borde norte. Facundo le dijo a Zetsu que su parte vieja, la de cientos de años, tiene que responderle. Zetsu blanco no entiende. Zetsu negro, voz vieja: "Nadie sabe eso. Ni Madara. Ni el chico de la máscara. Ni Nagato. ¿Quién eres tú?" Se separa del blanco como alquitrán y se hunde en la tierra por las raíces para huir. Blanco: "¡¿NEGRO?! ¡¿Me dejaste?!" Facundo tiene que reaccionar.

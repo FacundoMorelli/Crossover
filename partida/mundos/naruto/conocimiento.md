@@ -130,3 +130,4 @@
 - Kisame · T1387 · vio a Facundo un instante antes de desmayarse.
 - Todos en la carpa de mando · T1387 · vieron a Facundo traer a Kisame inconsciente.
 - Zetsu · T1387 · ve a Facundo aparecer a su lado; lo reconoce (cueva).
+- Zetsu (negro y blanco) · T1388 · por Facundo: Facundo sabe que la parte negra tiene "cientos de años". El blanco no lo sabía.
