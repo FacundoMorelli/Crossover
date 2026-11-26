@@ -24,3 +24,6 @@ PODER VISTO POR FACUNDO: brazo con 10 Sharingan y células del Primero; Estilo V
 ESTADO: arrestado por orden de la Hokage; resiste (T1342).
 - T1343 · Sus Ráfagas del Vacío no le hacen nada a Facundo. Ve caer a todo Raíz por el Haki del Rey; él queda de pie, temblando, sudando. "No es chakra. No es genjutsu. Ninguno de mis ojos lo vio venir." Se muerde el pulgar para invocar.
 QUÉ PODERES DE FACUNDO VIO (T1343): resistencia absoluta a sus Ráfagas; Haki del Rey (presión invisible que desmaya).
+- T1344 · "Ellos no saben lo que necesita esta aldea para seguir existiendo... Por eso existe Raíz. Por eso existo yo. Ellos son el árbol, viajero. Nosotros somos lo que está bajo tierra, lo que nadie ve, lo que lo sostiene." "¡Técnica de Invocación!" Baku (tapir gigante): "¡Trágatelos!" Huye hacia el borde del cráter al amparo de la succión.
+PODER VISTO POR FACUNDO (T1344): Invocación de Baku.
+ESTADO: huyendo (T1344).

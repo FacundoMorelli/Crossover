@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1341)
-
-esta bien
-
-## RESPUESTA 1 (T1341)
-
-> esta bien
-
-> —Está bien.
-
-—Bien —dice Tsunade.
-
-No pasan diez minutos.
-
-Yamato entra primero, todavía con tierra en las manos, y cuando ve las caras se le borra la sonrisa. Después Gai, que viene hablando fuerte de la juventud de los techos nuevos y se calla a la mitad de la frase. Detrás de él, agachándose para pasar por la entrada, un hombre enorme de abrigo negro largo, con la cabeza cubierta por un pañuelo de la aldea y la cara cruzada de cicatrices viejas, como si alguien la hubiera dibujado con un cuchillo.
-
-—Hokage-sama. —La voz del grandote es grave y tranquila—. Shizune dijo que era por las casas.
-
-—Mintió porque se lo pedí, Ibiki.
-
-Tsunade les cuenta en cuatro frases. El brazo. Los ojos. La masacre. La Cumbre de mañana.
-
-Gai deja de sonreír del todo. Yamato te mira a ti, solo un instante, y no dice nada. Ibiki se cruza de brazos y se queda pensando con la vista en el suelo, como si estuviera haciendo una lista.
-
-—Raíz tiene unos cuarenta en el campamento —dice al fin—. Si nos movemos todos juntos, lo van a saber antes de que lleguemos a la mitad del camino.
-
-—Que lo sepan —dice Tsunade—. No vamos a escondernos. Soy la Hokage.
-
-Salen.
-
-Tsunade adelante, con el abrigo blanco y rojo y el kanji del Fuego en la espalda. Kakashi a su derecha, tú a su izquierda, con Kase en el cuello. Detrás, Gai, Yamato e Ibiki. Los cuatro ANBU de la puerta los siguen, de lejos, saltando de viga en viga.
-
-La gente del campamento se va apartando. Una mujer agarra a su hijo de la mano y lo mete en una carpa. Los que estaban en la fila de la sopa se dan vuelta a mirar. Nadie dice nada.
-
-Del lado oeste del cráter, las carpas grises sin la hoja dibujada están en silencio, ordenadas en filas perfectas.
-
-Danzō está parado frente a la más grande.
-
-Lo esperan, más que estar ahí. Fū a su izquierda, Torune a su derecha. Y alrededor, sobre los techos de las carpas, sobre las vigas partidas, en el suelo entre las filas, veinte, treinta figuras con máscaras lisas, sin cara, sin nombre, quietas como estatuas.
-
-Danzō levanta el ojo visible hacia ustedes. No parece sorprendido.
-
-—Hokage. —La voz es la misma de la carpa, seca y baja—. Mi gente vio a Shizune correr a buscar al jefe de interrogatorios. Supuse que no era por las casas.
-
-Te mira a ti. Se queda mirándote un segundo largo.
-
-—Te dije que no me pidieras que me quitara las vendas, viajero.
-
-Lleva la mano izquierda despacio hacia el hombro derecho, donde la tela cae vacía, y apoya los dedos en el broche que la sostiene.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1341 · NARUTO · DÍA 1 · 11:21          ║
-║ Konoha · lado oeste · carpas de Raíz         ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común · vigilado por Raíz      ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1342)
+## COMANDO 1 (T1342)
 
 miro
 
-## RESPUESTA 2 (T1342)
+## RESPUESTA 1 (T1342)
 
 > miro
 
@@ -135,11 +68,11 @@ Una lluvia de balas de aire comprimido, decenas, invisibles salvo por cómo defo
 
 ---
 
-## COMANDO 3 (T1343)
+## COMANDO 2 (T1343)
 
 uso haki del rey para dormir a todos los de raiz y dejo que me peguen las balas
 
-## RESPUESTA 3 (T1343)
+## RESPUESTA 2 (T1343)
 
 > uso haki del rey para dormir a todos los de raiz y dejo que me peguen las balas
 
@@ -196,4 +129,55 @@ Se lleva el pulgar izquierdo a la boca y se lo muerde hasta sacar sangre.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:22, carpas de Raíz. Facundo recibió las Ráfagas del Vacío sin daño (sobretodo agujereado) y con el Haki del Rey desmayó a 30 de Raíz, Fū y Torune (+200 F, +600 EXP). Solo Danzō sigue de pie, temblando: "No es chakra. No es genjutsu. Ninguno de mis ojos lo vio venir." Se muerde el pulgar (invocación). Facundo puede actuar.
+## COMANDO 3 (T1344)
+
+soy un viajero, no vengo de parte de nadie, siempre dije la verdad, venia ayudarlos, a ellos, no a ti
+
+## RESPUESTA 3 (T1344)
+
+> soy un viajero, no vengo de parte de nadie, siempre dije la verdad, venia ayudarlos, a ellos, no a ti
+
+> —Soy un viajero. No vengo de parte de nadie. Siempre dije la verdad. Venía a ayudarlos a ellos, no a ti.
+
+Danzō se queda un instante con el pulgar sangrando a medio camino del suelo.
+
+—A ellos —repite—. Ellos no saben lo que necesita esta aldea para seguir existiendo. Nunca lo supieron. —El ojo visible se le endurece—. Por eso existe Raíz. Por eso existo yo. Ellos son el árbol, viajero. Nosotros somos lo que está bajo tierra, lo que nadie ve, lo que lo sostiene.
+
+Golpea el suelo con la palma ensangrentada.
+
+—¡Técnica de Invocación!
+
+Una nube de humo blanco revienta a sus espaldas y crece, y crece, hasta tapar las tres carpas grises que tenía detrás. Cuando se abre, hay un animal enorme, del tamaño de una casa de dos pisos: un tapir de pelaje negro y blanco, con un hocico largo y arrugado que se mueve solo, como una trompa, y unos ojos chiquitos y viejos.
+
+—¡Baku! —ordena Danzō—. ¡Trágatelos!
+
+El tapir abre el hocico.
+
+Y aspira.
+
+El aire de todo el lado oeste del cráter se va hacia esa boca como agua por un desagüe. Las lonas grises se arrancan de los palos y salen volando hacia el hocico. Las tablas sueltas, las piedras, los cuerpos desmayados de Raíz se arrastran por el suelo. Gai clava los pies y se le hunden en la tierra hasta los tobillos. Yamato hace brotar raíces que lo agarran de la cintura, y a Ibiki, y a Tsunade. Kakashi se tira al suelo y se agarra de una viga.
+
+Kase se te aferra al sobretodo con las cuatro patas, con las uñas clavadas, el pelo tirado hacia adelante por la succión, y suelta un bufido furioso.
+
+El viento te tira hacia el hocico del tapir.
+
+Danzō, detrás del animal, al amparo de la succión, ya está retrocediendo hacia el borde del cráter.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1344 · NARUTO · DÍA 1 · 11:23          ║
+║ Konoha · lado oeste · carpas de Raíz         ║
+║ NIVEL 29 · EXP 296.480/320.000               ║
+║ FRAGMENTOS 112.169 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común · vigilado por Raíz      ║
+║ Kase: aferrado al sobretodo                  ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:23, carpas de Raíz. Facundo: vino a ayudarlos a ellos, no a Danzō. Danzō: "Ellos son el árbol... nosotros lo que está bajo tierra." Invoca a Baku (tapir gigante) y le ordena tragárselos: succión enorme (lonas, piedras, cuerpos de Raíz). Gai clavado, Yamato sostiene con raíces a Ibiki y Tsunade, Kakashi agarrado de una viga. Kase aferrado al sobretodo. El viento arrastra a Facundo hacia el hocico. Danzō retrocede hacia el borde del cráter para huir. Facundo tiene que reaccionar.

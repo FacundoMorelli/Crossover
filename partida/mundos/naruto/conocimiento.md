@@ -70,3 +70,4 @@
 - Campamento · T1341 · vieron a la Hokage marchar con Kakashi, el forastero, Gai, Yamato e Ibiki hacia las carpas de Raíz.
 - TODOS los presentes y la fila de la sopa (de lejos) · T1342 · vieron el brazo de Danzō: diez Sharingan y la cara del Primero. Kakashi nombró a Shisui, Itachi, Fugaku, Mikoto. PÚBLICO en el campamento en minutos. Confirma lo que dijo Facundo.
 - Tsunade, Kakashi, Gai, Yamato, Ibiki, 4 ANBU, Danzō, curiosos de lejos · T1343 · vieron a Facundo recibir las Ráfagas del Vacío sin un rasguño (ropa agujereada) y a todo Raíz desmayarse a la vez por una presión invisible (Haki del Rey). Nadie siente chakra (Velo). Danzō: "Ninguno de mis ojos lo vio venir."
+- Danzō, Tsunade, Kakashi, Gai, Yamato, Ibiki · T1344 · oyeron a Facundo: viajero, no viene de parte de nadie, siempre dijo la verdad, vino a ayudarlos a ellos y no a Danzō.
