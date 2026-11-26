@@ -26,3 +26,4 @@ QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (solo lo visible; Velo).
 QUÉ SABE DE FACUNDO (T1333): dice que aprendió las Puertas mirando a Lee una vez.
 - T1334 · Kase le roza la pierna con la cola al irse. Neji mira a Facundo y asiente una vez.
 RELACIÓN CON FACUNDO (T1334): respeto silencioso.
+- T1403 · Con el Byakugan ve las Esferas: "No... no tienen chakra. Y aun así, es lo más... lo más vivo que vi en mi vida." Hinata se agarra de su manga.

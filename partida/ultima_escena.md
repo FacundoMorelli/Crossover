@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1400)
-
-miro
-
-## RESPUESTA 1 (T1400)
-
-> miro
-
-Sasuke se pone de pie.
-
-Despacio. Sin apuro. Se sacude la tierra de la capa con la mano sana. Tsunade se corre un paso a un costado, sin decir nada, y lo deja a la vista de todos.
-
-La multitud entera se da cuenta a la vez.
-
-El murmullo empieza en la primera fila y corre hacia atrás como una ola. Alguien dice el nombre. Después otro. Después muchos. Un chūnin se lleva la mano al kunai y el de al lado se la frena. Una mujer agarra a su hijo y lo pone detrás de ella.
-
-La muchacha de pelo rosado deja de buscar.
-
-Se queda completamente quieta, con las manos vendadas a medio levantar, la boca abierta, sin sonido. Los ojos verdes se le llenan de agua en un segundo.
-
-—Sasuke... kun.
-
-Naruto no se mueve. Sasuke tampoco. Se quedan mirándose, a cinco metros, con media aldea alrededor conteniendo la respiración.
-
-—Volviste —dice Naruto, al fin. Le tiembla la voz.
-
-—Por ahora.
-
-Naruto da un paso. Otro. Después corre los tres metros que faltan y lo agarra del cuello de la capa con las dos manos, tan fuerte que Sasuke se tambalea. Tiene la cara roja y los dientes apretados, y no se sabe si va a pegarle o a llorar.
-
-—¡Te dije! —le grita en la cara—. ¡Te dije que te iba a traer de vuelta! ¡Te lo dije en el Valle del Fin! ¡Te dije que...!
-
-—No me trajiste tú.
-
-Naruto se queda con la boca abierta.
-
-Sasuke no le saca las manos de la capa. Lo mira a los ojos, desde muy cerca, con los ojos negros, sin Sharingan.
-
-—Fue él. —Gira la cabeza, apenas, hacia ti—. El del gato.
-
-Naruto sigue agarrándolo. Gira la cabeza hacia ti. Te mira. Vuelve a mirar a Sasuke. Y de golpe se le cae todo de la cara: la rabia, el orgullo, la pelea. Se ríe. Una risa ahogada, mojada, que se le mezcla con el llanto.
-
-—Idiota —le dice a Sasuke, sin soltarlo—. Idiota, idiota, idiota.
-
-Le apoya la frente en el hombro. Sasuke no lo abraza. Pero tampoco lo empuja.
-
-Sakura se tapa la cara con las manos.
-
-Sasuke espera un momento. Después, todavía con Naruto colgado de la capa, habla otra vez, en voz baja, para que lo oigan solo los que están cerca.
-
-—Naruto. Ese de ahí dice que puede revivir a mi clan. A Itachi. —Hace una pausa—. A los muertos por Akatsuki.
-
-Naruto levanta la cabeza del hombro de Sasuke, muy despacio.
-
-Se da vuelta hacia ti. Tiene los ojos rojos, la nariz llena de mocos y la cara mojada, y te mira como te miró en Ichiraku cuando le dijiste que lo ibas a ayudar.
-
-—¿Al Sabio Pervertido también?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1400 · NARUTO · DÍA 1 · 15:03          ║
-║ Konoha · centro del cráter · la tarima       ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1401)
+## COMANDO 1 (T1401)
 
 a todos, tsunade, dejame hablar con todos quiero decirlo yo
 
-## RESPUESTA 2 (T1401)
+## RESPUESTA 1 (T1401)
 
 > a todos, tsunade, dejame hablar con todos quiero decirlo yo
 
@@ -135,11 +60,11 @@ Nadie dice nada. Esperan.
 
 ---
 
-## COMANDO 3 (T1402)
+## COMANDO 2 (T1402)
 
 Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
 
-## RESPUESTA 3 (T1402)
+## RESPUESTA 2 (T1402)
 
 > Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
 
@@ -196,4 +121,67 @@ Detrás de él, mil caras te miran. Esperando.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:08, sobre la tarima. Facundo dio su discurso (nombre, viajero, desmanteló Akatsuki; revivirá a todos los muertos por Akatsuki y Danzō, de verdad, con memoria, y reconstruirá la aldea; no le deben nada). Silencio largo; una mujer deja caer un balde ("Mi hijo..."); estalla la multitud (llanto, nombres). Naruto con las manos en la cabeza; Sakura le agarra el brazo; Hiashi mira a Neji; Kakashi mira el suelo; Sasuke con el ojo mojado. Un jōnin de barba: "¡Pain también dijo que traía la paz! ¡¿Cómo piensas hacerlo?!" Facundo puede actuar.
+## COMANDO 3 (T1403)
+
+quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
+
+## RESPUESTA 3 (T1403)
+
+> quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
+
+> —Quiero que lo miren. Todos.
+
+Te bajas de la tarima. La gente de la primera fila se aparta sin que se lo pidas, en un semicírculo, alrededor del pañuelo con las siete piedras. Naruto da un paso atrás. Sasuke no.
+
+Te arrodillas frente a ellas.
+
+Apoyas las dos manos abiertas sobre las piedras, sin tocarlas, a un dedo de distancia. Y sueltas todo.
+
+No es chakra. Nadie en el cráter lo siente: ni Neji, que tiene el Byakugan encendido otra vez, ni Hiashi, ni la sensora de anteojos que se agarra del brazo de Jūgo. Pero lo ven.
+
+El aire alrededor de tus manos se pone blanco. Después azul. Después rojo. El suelo bajo tus rodillas tiembla, y el temblor corre por todo el cráter, hasta el borde, hasta las casas de madera del sur, hasta los cinco rostros de piedra del monumento, que sueltan polvo de las mejillas. Las lonas de las carpas se sacuden todas a la vez. Kase se aferra a tu hombro con las uñas, con el pelo flotándole hacia arriba como si estuviera debajo del agua.
+
+Las siete piedras se levantan del pañuelo.
+
+Flotan a la altura de tu cara, en círculo, girando despacio. Y empiezan a cambiar.
+
+Lo gris se les va como una cáscara que se cae. Debajo hay cristal. Transparente al principio, después de un naranja profundo, como el del sol del atardecer, cálido, con un brillo que sale de adentro. Y en el centro de cada una, una por una, se enciende una estrella roja. Una. Dos. Tres. Cuatro. Cinco. Seis. Siete.
+
+La luz que sueltan es tan fuerte que la gente de las primeras filas se tapa los ojos con las manos.
+
+Después baja.
+
+Las siete esferas quedan flotando en el aire frente a ti, en círculo, latiendo como corazones, del tamaño de un puño cada una, con sus estrellas rojas quietas adentro. Del cristal sale un calor suave, como el de una fogata.
+
+El temblor se apaga. Las lonas dejan de moverse. El polvo del monumento termina de caer.
+
+Bajas las manos.
+
+En todo el cráter no se oye ni un pájaro.
+
+Naruto tiene la boca abierta hasta el pecho. Lee está llorando sin darse cuenta. Shikamaru se sacó las manos de los bolsillos por primera vez. Hinata se agarra de la manga de Neji. Tsunade, al pie de la tarima, tiene una mano sobre el corazón, como si le doliera.
+
+Sasuke se queda mirando las esferas, inmóvil, con el ojo todavía mojado.
+
+Neji desactiva el Byakugan. Le tiembla la voz.
+
+—No... no tienen chakra. —Mira las esferas, después a ti—. Y aun así, es lo más... lo más vivo que vi en mi vida.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1403 · NARUTO · DÍA 1 · 15:10          ║
+║ Konoha · centro del cráter                   ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:10, centro del cráter. "Quiero que lo miren. Todos." Facundo creó 7 Esferas del Dragón con todo su poder (Dende): cristal naranja con estrellas rojas 1-7, flotando en círculo frente a él. Temblor por todo el cráter, el monumento suelta polvo. Nadie siente chakra (Velo); todos lo ven. Silencio total. Neji: "No tienen chakra. Y aun así, es lo más vivo que vi en mi vida." Energía 81%. Dragón sin nombre aún (3 deseos). Facundo puede actuar.

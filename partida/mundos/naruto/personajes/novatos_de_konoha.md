@@ -13,3 +13,4 @@ ENCUENTROS:
 - T1399 · Día 1 ~15:00 · Convocados por Tsunade al centro del cráter, frente a la tarima, a pedido de Facundo. Todo el campamento se junta detrás.
 QUÉ SABEN DE FACUNDO: rumores del campamento (Hokage despierta, semillas, brazos, Lee, Danzō, Raíz).
 - T1402 · Hiashi mira a Neji durante el discurso. Sakura agarra el brazo de Naruto.
+- T1403 · Ante las Esferas: Lee llora; Shikamaru saca las manos de los bolsillos; Hinata se agarra de la manga de Neji.

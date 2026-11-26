@@ -99,3 +99,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1392 · Zetsu negro salta hacia él para poseerlo; Kase bufa erizado sin moverse del hombro.
 - T1393 · Tras el Eclipse que se traga a Zetsu negro a un palmo de su cara, se calma y mira a Facundo de reojo, como diciendo que podría haberlo hecho antes.
 - T1396 · Abre el ojo azul y mira a todos en la carpa de mando, uno por uno, cuando Facundo dice que mató a quien intentó meterse en él.
+- T1403 · Se aferra al hombro con el pelo flotando hacia arriba mientras Facundo crea las Esferas.

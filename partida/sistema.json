@@ -1,8 +1,8 @@
 {
-  "turno": 1402,
+  "turno": 1403,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 15:08",
+  "hora": "Día 1, 15:10",
   "edad": 18,
   "nivel": 29,
   "exp": 306730,
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 81,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -641,10 +641,10 @@
       "mundo": "blackclover"
     },
     {
-      "objeto": "Siete piedras de río grises y lisas, del tamaño de un puño (traídas por Shizune en un pañuelo)",
-      "origen": "naruto, Shizune (T1399)",
-      "mundo": "naruto",
-      "nota": "en el suelo frente a Facundo, para crear Esferas del Dragón (copia de Dende)"
+      "objeto": "Esferas del Dragón de Konoha (sin nombre todavía)",
+      "cantidad": 7,
+      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: sin nombre todavía (el jugador puede nombrarlo). 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha.",
+      "mundo": "naruto"
     }
   ],
   "copias": [

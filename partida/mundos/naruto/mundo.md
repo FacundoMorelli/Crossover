@@ -22,3 +22,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1384 · SASUKE SE QUEDA EN KONOHA por voluntad propia (bajo responsabilidad de Tsunade). Canon: no vuelve hasta después de la guerra.
 - T1387 · KISAME VENCIDO y llevado inconsciente a Konoha con Samehada. Akatsuki: solo queda Zetsu libre.
 - T1393 · ZETSU NEGRO MUERTO (Eclipse de Facundo). Akatsuki desmantelado: Tobi, Kisame y Zetsu blanco capturados/inconscientes; Zetsu negro destruido. La amenaza de Kaguya desaparece (sin su voluntad).
+- T1403 · Esferas del Dragón creadas en Konoha (7, naranja, estrellas rojas).

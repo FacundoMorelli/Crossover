@@ -151,3 +151,4 @@
 - TODO KONOHA (miles) · T1401 · por Tsunade, en público: Danzō está preso, la Hokage está despierta, Akatsuki ya no existe, y lo hizo una sola persona: el viajero que llegó esta mañana (Facundo). PÚBLICO.
 - Naruto · T1401 · por Facundo: revivirá a todos (Jiraiya incluido).
 - TODO KONOHA · T1402 · por Facundo, en público: se llama Facundo Morelli, es viajero, desmanteló a Akatsuki; revivirá a todos los muertos por Akatsuki y Danzō, de verdad (no Edo Tensei), con sus recuerdos; reconstruirá la aldea; no le deben nada, "me gusta ayudar". PÚBLICO.
+- TODO KONOHA · T1403 · vio a Facundo convertir 7 piedras en esferas de cristal naranja con estrellas rojas, con un temblor que sacudió todo el cráter. Nadie sintió chakra (Velo), ni Neji ni Hiashi ni Karin. PÚBLICO.
