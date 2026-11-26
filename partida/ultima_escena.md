@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1389)
-
-dejo inconsciente a la parte blanca y saco al negro de ahi dentro
-
-## RESPUESTA 1 (T1389)
-
-> dejo inconsciente a la parte blanca y saco al negro de ahi dentro
-
-Le das un golpe seco con los nudillos a la mitad blanca, en la frente, contra la corteza.
-
-—¡Ay...!
-
-El ojo se le pone en blanco. La cara se le afloja, se le cae la mandíbula, y se queda colgando del tronco como una máscara mal pegada, desmayada, con media cara vacía y la boca abierta.
-
-[Derrotado: Zetsu blanco.]
-
-[+5 Fragmentos. +50 EXP.]
-
-Te agachas junto a las raíces.
-
-La mancha negra ya se hundió casi entera en la tierra. Solo queda una punta, un hilo oscuro y brillante que se escurre entre las piedras y el barro, cada vez más fino, como la cola de una lagartija que se mete en un agujero.
-
-Le hundes la mano detrás, hasta la muñeca, hasta el codo, envuelta en Haki azul y blanco.
-
-La tierra se abre alrededor de tu brazo como si fuera agua. Debajo, entre las raíces, algo frío y viscoso se retuerce contra tus dedos. Intenta escurrirse. Lo cierras en el puño.
-
-Tiras.
-
-La tierra revienta hacia arriba en una lluvia de barro y raíces partidas, y sale con tu mano: una masa negra, brillante, del tamaño de un perro chico, que se retuerce en el aire como un pulpo fuera del agua. Tiene un solo ojo amarillo, enorme, abierto en medio de la oscuridad, y una boca que se abre y se cierra sin dientes.
-
-Kase, en tu hombro, se eriza entero. Suelta un bufido largo, furioso, con los colmillos al aire. Es la primera vez en todo el día que le gruñe a algo.
-
-—¡Suéltame! —La voz ya no tiene nada de la del árbol. Es vieja, gastada, como piedra raspando piedra—. ¡No sabes lo que tienes en la mano!
-
-La masa negra deja de retorcerse.
-
-Y empieza a subir.
-
-Se te escurre del puño hacia arriba, por la muñeca, por el antebrazo, rápido, como tinta que se derrama hacia arriba, y se te pega a la piel. Fría. Buscando un hueco, una grieta, algo por donde meterse. Ya te llega al codo. El ojo amarillo se te acerca a la cara por el brazo, abierto, fijo, sin parpadear.
-
-—Si no me dices quién eres —susurra la voz, desde el ojo—, voy a averiguarlo desde adentro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1389 · NARUTO · DÍA 1 · 13:48          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.230/320.000               ║
-║ FRAGMENTOS 113.499 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Zetsu negro                        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1390)
+## COMANDO 1 (T1390)
 
 puedes intentarlo
 
-## RESPUESTA 2 (T1390)
+## RESPUESTA 1 (T1390)
 
 > puedes intentarlo
 
@@ -121,11 +62,11 @@ Kase deja de bufar. Se sienta en tu hombro, satisfecho, y se lame una pata.
 
 ---
 
-## COMANDO 3 (T1391)
+## COMANDO 2 (T1391)
 
 bueno dime todo lo que sabes antes que te mate
 
-## RESPUESTA 3 (T1391)
+## RESPUESTA 2 (T1391)
 
 > bueno dime todo lo que sabes antes que te mate
 
@@ -170,4 +111,53 @@ Se le baja la voz hasta un susurro.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:50, bosque del borde norte. "Dime todo lo que sabes antes de que te mate." Zetsu negro, voz suave: dice ser "la voluntad de Madara" (MENTIRA; es de Kaguya). Explica el Ojo de la Luna (9 bijū en la Estatua del Camino Exterior, Diez Colas, Tsukuyomi Infinito). Tienen 7; faltan el Ocho y el Nueve Colas; solo él sabe dónde está la Estatua. Tienta a Facundo: "Podrías ser el que despierte al Diez Colas." Facundo tiene que contestar.
+## COMANDO 3 (T1392)
+
+no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
+
+## RESPUESTA 3 (T1392)
+
+> no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
+
+> —No me interesa. Yo sé dónde está. ¿Cómo crees que los encontré? Puedo sentir a todo el mundo, no importa qué tan lejos estén.
+
+Zetsu negro se queda inmóvil.
+
+La sonrisa sin dientes se le borra despacio, como tinta que se seca. El ojo amarillo te mira un rato largo, y ya no hay nada amable en él.
+
+—Sentir a todo el mundo —repite—. Sin chakra. Sin ojos. Sin rastro.
+
+Se queda callado. En el bosque solo se oye el viento entre los árboles partidos y, a lo lejos, los martillazos del campamento.
+
+—Entonces no tengo nada que ofrecerte.
+
+Lo dice sin rabia. Casi tranquilo. Como alguien que cierra un libro.
+
+Y salta.
+
+No hacia la tierra. No hacia el árbol, ni hacia la mitad blanca desmayada. Hacia tu hombro. Hacia Kase.
+
+Es rápido, más rápido de lo que pensaste que podía moverse algo tan chico: una mancha negra que se estira en el aire como un látigo, con el ojo amarillo adelante, directo a la cabeza del gato, a los ojos, a la boca, buscando un cuerpo vivo en el que meterse y desde el que poder escapar.
+
+Kase lo ve venir. Se le eriza todo el pelo. Abre la boca y bufa, con las orejas aplastadas, sin moverse de tu hombro.
+
+La oscuridad ya está a un palmo de su cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1392 · NARUTO · DÍA 1 · 13:51          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.230/320.000               ║
+║ FRAGMENTOS 113.499 · 0 ryo                   ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Zetsu negro                        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:51, bosque del borde norte. Facundo: no le interesa, sabe dónde está la Estatua, siente a todo el mundo. Zetsu negro: "Entonces no tengo nada que ofrecerte." Salta hacia Kase, para meterse en el gato y escapar. Kase bufa, erizado. La oscuridad está a un palmo de su cara. Facundo tiene que reaccionar.
