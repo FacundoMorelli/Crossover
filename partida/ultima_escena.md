@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1409)
-
-soy un viajero
-
-## RESPUESTA 1 (T1409)
-
-> soy un viajero
-
-> —Soy un viajero.
-
-Itachi te mira un rato más. No pregunta nada. Asiente una sola vez, despacio, como quien acepta una respuesta que no explica nada porque entiende que no le hace falta.
-
-—Un viajero —repite—. Gracias.
-
-Mikoto llega corriendo y se tira sobre los dos, sobre Sasuke y sobre Itachi a la vez, abrazándolos con los brazos abiertos, llorando y riéndose, tocándoles las caras, el pelo, los hombros, como si quisiera asegurarse de que están enteros.
-
-—Mis hijos. Mis hijos. Los dos...
-
-Sasuke no se suelta de Itachi. Pero estira un brazo y se agarra también de la ropa de su madre, con fuerza.
-
-Fugaku llega caminando, más despacio.
-
-Se para a un paso de su familia. No los abraza. Los mira a los tres, uno por uno, con la cara dura y la mandíbula apretada, y en los ojos negros le brilla algo que no deja salir. Le pone a Itachi una mano en el hombro. Solo eso. Itachi abre los ojos y lo mira.
-
-—Lo sé, padre —dice Itachi, muy bajo.
-
-—Lo sé yo también —contesta Fugaku—. Ahora lo sé.
-
-Después Fugaku levanta la vista y te encuentra.
-
-Te mira un momento largo, igual que su hijo. Después mira a Kase. Después, detrás de ti, a la Torre del Hokage recién hecha, a la gente, a la calle llena de revividos que salen de sus casas y se buscan entre sí.
-
-Se acerca. Se detiene frente a ti y hace una reverencia. Profunda, desde la cintura, con la espalda recta, la del jefe de un clan entero.
-
-—El clan Uchiha no olvida —dice, todavía inclinado—. Ni a los que nos hicieron daño, ni a los que nos devolvieron lo que perdimos.
-
-Se endereza.
-
-Y entonces mira por encima de tu hombro, hacia donde está Tsunade, al pie de la torre, con los brazos cruzados y la cara seria. Se le endurece otra vez la expresión. La de antes. La del hombre que hace años planeó tomar la aldea por la fuerza.
-
-—Hokage —dice, con la voz firme, para que lo oiga todo el mundo—. Usted y yo tenemos que hablar. Hoy.
-
-Toda la calle se queda en silencio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1409 · NARUTO · DÍA 1 · 15:25          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1410)
+## COMANDO 1 (T1410)
 
 no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
 
-## RESPUESTA 2 (T1410)
+## RESPUESTA 1 (T1410)
 
 > no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
 
@@ -137,11 +76,11 @@ Detrás, entre la gente, Kakashi se da vuelta. Ve al hombre rubio. Se queda quie
 
 ---
 
-## COMANDO 3 (T1411)
+## COMANDO 2 (T1411)
 
 miro
 
-## RESPUESTA 3 (T1411)
+## RESPUESTA 2 (T1411)
 
 > miro
 
@@ -204,4 +143,87 @@ Y se queda completamente quieta.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:30, calle frente a la Torre. Reencuentro: Minato ("Nos vimos hace tres días. Adentro tuyo.") — Naruto: "¡Papá!" Kushina lo abraza llorando ("¡Te dejé en esa cuna con un día de vida!"); Naruto: "¿Mamá?" Minato los abraza. Minato ve a Kakashi: "Kakashi." Kakashi se baja la máscara: "Sensei." Desde la colina baja corriendo Jiraiya: "¡¡NARUTOOOO!!" Tsunade se queda completamente quieta. Facundo puede actuar.
+## COMANDO 3 (T1412)
+
+sigo mirando
+
+## RESPUESTA 3 (T1412)
+
+> sigo mirando
+
+Jiraiya baja la cuesta a una velocidad que no corresponde a un hombre de su tamaño ni de su edad. La gente se abre a su paso. Frena delante del grupo con un derrape de sandalias que levanta chispas del empedrado, jadeando, con el pelo blanco revuelto.
+
+Ve a Naruto.
+
+Ve a Minato.
+
+Ve a Kushina.
+
+Se le cae la mandíbula.
+
+—Minato. —La voz le sale chiquita, rarísima en un hombre así—. Kushina.
+
+—Jiraiya-sensei —dice Minato, y sonríe, con los ojos mojados.
+
+—¡Sabio Pervertido! —Naruto se suelta de su madre y salta sobre Jiraiya, abrazándolo por la cintura, porque más arriba no le llega—. ¡Estás vivo! ¡Estás vivo, viejo idiota! ¡Te dije que no fueras solo! ¡Te dije!
+
+Jiraiya se queda con los brazos en el aire. Después los baja despacio y abraza a Naruto. Y después, de repente, estira uno de los brazos largos y agarra a Minato del cuello del chaleco, y lo atrae también, y a Kushina con el otro. Los abraza a los tres juntos, enormes y torpes, con la cara apretada contra el pelo rubio de su alumno.
+
+—Mis alumnos —dice, ronco—. Mis tontos, tontos alumnos.
+
+Pasa un rato largo. Después Jiraiya levanta la cabeza.
+
+Ve a Tsunade.
+
+Está a cinco metros, al pie de la torre, con los brazos caídos a los costados. No llora. No se mueve. Solo lo mira.
+
+Jiraiya suelta a los tres, despacio. Se rasca la nuca. Pone esa sonrisa de siempre, la de pícaro, la de quien sabe que hizo algo mal y espera que se lo perdonen.
+
+—Tsunade. Te ves...
+
+No termina.
+
+Tsunade cruza los cinco metros en un paso y le da un puñetazo.
+
+Jiraiya sale volando. Atraviesa la calle de lado a lado, choca contra la pared de una casa recién reconstruida y la parte en una grieta en forma de estrella. Cae sentado en el empedrado, con la nariz sangrando y los ojos dando vueltas.
+
+Tsunade se le para delante. Lo agarra del cuello de la ropa con las dos manos y lo levanta.
+
+—¡Idiota! —le grita en la cara—. ¡Idiota, idiota, idiota! ¡Te fuiste solo! ¡Sabías que te podía matar y te fuiste solo! ¡Me dejaste aquí sentada esperando un sapo con una carta! ¡Un sapo!
+
+Le tiemblan los brazos. Le tiembla la voz.
+
+—¡Te fuiste solo!
+
+Y lo abraza.
+
+Lo abraza con todas sus fuerzas, con la cara en su hombro, y esta vez sí llora, a gritos, como una chica. Jiraiya se queda rígido un segundo, sorprendido, con la nariz chorreando sangre. Después la abraza también, despacio, con cuidado, como si fuera de vidrio.
+
+—Perdón —le dice, muy bajo—. Perdón, Tsunade.
+
+En la calle, alguien empieza a aplaudir. Otro. Después muchos.
+
+Jiraiya, todavía con Tsunade colgada del cuello, gira la cabeza y te encuentra entre la gente. Te mira el pelo, los ojos, el gato.
+
+Se le arquea una ceja.
+
+—Tú —dice, con la nariz todavía sangrando—. Eres el del gato, ¿no?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1412 · NARUTO · DÍA 1 · 15:33          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 83% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:33, calle frente a la Torre. Jiraiya llega: "Minato. Kushina." Naruto lo abraza ("¡Estás vivo, viejo idiota!"); Jiraiya abraza a los tres ("Mis tontos, tontos alumnos"). Ve a Tsunade: ella le da un puñetazo que lo estampa contra una pared, lo levanta del cuello ("¡Te fuiste solo!") y lo abraza llorando. Jiraiya: "Perdón, Tsunade." Aplausos. Jiraiya a Facundo: "Tú. Eres el del gato, ¿no?" Facundo tiene que contestar.

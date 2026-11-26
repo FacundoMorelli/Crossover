@@ -1410,3 +1410,4 @@ T1408 · NARUTO · Konoha · Guarda las Esferas. Reencuentro Itachi-Sasuke: "Era
 T1409 · NARUTO · Konoha · "Soy un viajero." Itachi: "Gracias." Mikoto abraza a sus hijos. Fugaku se inclina ante Facundo: "El clan Uchiha no olvida." A Tsunade: "Usted y yo tenemos que hablar. Hoy."
 T1410 · NARUTO · Konoha · A Fugaku: "No vuelvan a intentar algo como la última vez." Se teletransporta a la casa de Minato y Kushina: "Tienen a alguien que ver." Los trae ante Naruto. Kushina: "¿Naruto?"
 T1411 · NARUTO · Konoha · Naruto con sus padres: "¡Papá!" Kushina: "¡Mírate!" "¿Mamá?" Minato y Kakashi: "Sensei." Jiraiya baja corriendo de la colina: "¡¡NARUTOOOO!!" Tsunade, quieta.
+T1412 · NARUTO · Konoha · Llega Jiraiya: abraza a Naruto, Minato y Kushina. Tsunade le da un puñetazo, lo abraza llorando: "¡Te fuiste solo!" "Perdón, Tsunade." Jiraiya a Facundo: "Eres el del gato, ¿no?"

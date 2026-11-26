@@ -7,3 +7,4 @@ ESTADO: vivos, en su casa (no vistos aún).
 - T1410 · Facundo aparece en su sala (piso de madera clara, cortinas color durazno, dibujo enmarcado de un remolino naranja). Minato: pelo rubio, ojos azules, chaleco de jōnin. Kushina: pelo rojo hasta la cintura, ojos violetas, vestido y delantal; se toca el vientre plano. "¿Quién...?" Facundo: "Hola. Tienen a alguien que ver." Los teletransporta ante Naruto. Minato lo reconoce al instante. Kushina: "¿Naruto?"
 QUÉ SABEN DE FACUNDO: por la voz de Alba, quien los revivió tiene un gato; lo ven en persona.
 - T1411 · Minato: "Naruto. Nos vimos hace tres días. Adentro tuyo. ¿Te acuerdas?" Kushina lo abraza llorando: "¡Naruto, mi bebé, mira lo grande que estás! ¡De veras! ¡Te dejé en esa cuna con un día de vida!" "Sí, mi amor. Soy tu mamá. Kushina Uzumaki." Minato ve a Kakashi: "Kakashi."
+- T1412 · Minato: "Jiraiya-sensei." Jiraiya los abraza a los dos con Naruto.
