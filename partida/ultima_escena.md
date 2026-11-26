@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1358)
-
-hola hola, como estan todos?, vaya son bastante pocos, estos son todos?
-
-## RESPUESTA 1 (T1358)
-
-> hola hola, como estan todos?, vaya son bastante pocos, estos son todos?
-
-> —Hola, hola. ¿Cómo están todos? Vaya, son bastante pocos. ¿Estos son todos?
-
-Durante un segundo nadie contesta.
-
-Después el de los dientes de tiburón se ríe, una carcajada aguda que rebota en las paredes de la cueva.
-
-—¡Ja! ¿Y este quién es? ¡Entra como si fuera su casa y encima se queja de la cantidad! —Se pone de pie y se lleva la mano a la empuñadura de la espada enorme—. Oye, Sasuke, ¿lo corto? Tiene buena pinta para cortarlo.
-
-—Quieto, Suigetsu —dice Sasuke, sin mirarlo.
-
-El grandote de pelo naranja no se mueve, pero se le marcan las venas del cuello. La chica de anteojos tiene las manos temblando y se esconde un poco detrás de la roca de Sasuke.
-
-—No... no puedo sentirlo —murmura—. Lo estoy mirando y es como si no hubiera nadie ahí. Ni siquiera el gato. Nada.
-
-El de la máscara naranja se despega de la pared. Camina dos pasos hacia ti, despacio, con las manos dentro de las mangas de la capa.
-
-—¿Pocos? —repite, con la misma voz tranquila—. Sí, supongo que sí. Akatsuki ya no es lo que era. Hace unos días éramos más. —Inclina la cabeza hacia el otro lado—. Pero yo siempre preferí la calidad a la cantidad.
-
-La cosa de la pared se ríe por lo bajo, con las dos voces a la vez, una aguda y una grave.
-
-—Estos son todos los que necesito —sigue el enmascarado—. Por ahora.
-
-Se queda un momento quieto, mirando a Kase, que lo mira a él desde tu hombro con las orejas para atrás. Después vuelve a mirarte a ti.
-
-—Tienes el pelo de dos colores, un ojo de cada color, un gato y nada de chakra. Llegaste a un lugar que nadie conoce sin dejar rastro. —Su ojo rojo gira detrás de la máscara—. Y lo primero que haces es contarnos.
-
-Sasuke se pone de pie. Despacio. Las vendas del torso se le tensan. Las aspas negras de los ojos dejan de girar y se quedan quietas.
-
-—Contesta —dice—. ¿Quién eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1358 · NARUTO · DÍA 1 · 12:47          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1359)
+## COMANDO 1 (T1359)
 
 soy un viajero, recien recien pase por konoha, conoci a un par de personas
 
-## RESPUESTA 2 (T1359)
+## RESPUESTA 1 (T1359)
 
 > soy un viajero, recien recien pase por konoha, conoci a un par de personas
 
@@ -107,11 +52,11 @@ Al oír el nombre, Sasuke aprieta el puño. Le crujen los nudillos. Un hilo de c
 
 ---
 
-## COMANDO 3 (T1360)
+## COMANDO 2 (T1360)
 
 ah danzo? ehhh si, esta inconsciente y arrestado
 
-## RESPUESTA 3 (T1360)
+## RESPUESTA 2 (T1360)
 
 > ah danzo? ehhh si, esta inconsciente y arrestado
 
@@ -162,4 +107,59 @@ El ojo rojo te mira por el agujero de la espiral.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:49, cueva de Akatsuki. "Danzō está inconsciente y arrestado." Zetsu: no lo sabía. Sasuke avanza, rayo descontrolado: "Danzō es mío. Él dio la orden... ¿Dónde lo tienen?" Tobi lo frena con la mano: "¿Quién lo arrestó?" (cree que Tsunade sigue en coma). Facundo tiene que contestar.
+## COMANDO 3 (T1361)
+
+eh, yo quien mas?
+
+## RESPUESTA 3 (T1361)
+
+> eh, yo quien mas?
+
+> —Eh... yo. ¿Quién más?
+
+Suigetsu es el único que se ríe. Dura poco.
+
+—¿Tú? —Se le corta la risa a la mitad, porque mira a los demás y nadie más se ríe—. ...¿En serio?
+
+El enmascarado no dice nada durante un rato largo. El ojo rojo detrás de la espiral te recorre de arriba abajo, despacio, una vez, dos, como si buscara algo que se le escapa. Después baja la mano con la que frenaba a Sasuke.
+
+—Ya veo —dice, muy bajo—. Así que fuiste tú.
+
+Da un paso atrás. Solo uno. Pero lo da.
+
+Sasuke no.
+
+—Me lo quitaste.
+
+Lo dice tan bajo que casi no se oye. Le tiembla la mano derecha. El chakra eléctrico se le junta en la palma con un chirrido agudo, como mil pájaros gritando a la vez, y la cueva se ilumina de azul. Las sombras de todos saltan contra las paredes.
+
+—¡Sasuke! —grita la chica de anteojos—. ¡No sabes qué es! ¡No le siento nada, no sabes qué...!
+
+—Me quitaste lo único que me quedaba.
+
+Las aspas de los ojos de Sasuke dejan de girar. Se le cae una lágrima de sangre del ojo izquierdo y le corre por la mejilla.
+
+—Chidori.
+
+El rayo se le estira desde la palma como una lanza, fino, blanco, crepitante, y atraviesa la cueva en línea recta hacia tu pecho, más rápido que el sonido de su propia voz.
+
+Detrás de Sasuke, el enmascarado se queda mirando. No hace nada para detenerlo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1361 · NARUTO · DÍA 1 · 12:49          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:49, cueva de Akatsuki. "Yo, ¿quién más?" Tobi: "Así que fuiste tú", da un paso atrás. Sasuke: "Me lo quitaste. Me quitaste lo único que me quedaba." Lágrima de sangre. Lanza Chidori (lanza de rayo) a la cueva contra el pecho de Facundo. Karin intenta frenarlo. Tobi mira sin intervenir. Facundo tiene que reaccionar.

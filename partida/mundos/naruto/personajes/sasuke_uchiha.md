@@ -12,3 +12,6 @@ ESTADO: activo, herido leve.
 - T1359 · Al oír "Konoha" se le endurece la cara; aspas girando. "Konoha." Al oír "Danzō", aprieta el puño; chispas de rayo.
 - T1360 · "Danzō es mío. Él dio la orden. Él y los dos viejos del consejo. Mataron a mi clan entero y obligaron a mi hermano a cargar con todo. Y yo voy a ser el que lo mate." Las aspas se le deforman. "¿Dónde lo tienen?" Tobi lo frena con la mano.
 QUÉ SABE DE FACUNDO (T1360): por él, Danzō está inconsciente y arrestado.
+- T1361 · "Me lo quitaste." "Me quitaste lo único que me quedaba." Lágrima de sangre del ojo izquierdo. "Chidori." Lanza de rayo contra el pecho de Facundo.
+QUÉ SABE DE FACUNDO (T1361): por él, fue Facundo quien arrestó a Danzō.
+RELACIÓN CON FACUNDO: odio (le quitó la venganza).

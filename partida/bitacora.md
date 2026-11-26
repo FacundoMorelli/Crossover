@@ -1359,3 +1359,4 @@ T1357 · NARUTO · Konoha → cueva de Akatsuki · "Ya vengo." Siente a Akatsuki
 T1358 · NARUTO · Cueva de Akatsuki · "¿Estos son todos?" Suigetsu quiere cortarlo. Tobi: "Akatsuki ya no es lo que era... Estos son todos los que necesito. Por ahora." Sasuke: "¿Quién eres?"
 T1359 · NARUTO · Cueva de Akatsuki · "Soy un viajero. Pasé por Konoha." Sasuke se tensa. Tobi: "¿Conociste a Danzō? Me dijeron que ahora es el Hokage."
 T1360 · NARUTO · Cueva de Akatsuki · "Danzō está inconsciente y arrestado." Zetsu no lo sabía. Sasuke: "Danzō es mío. ¿Dónde lo tienen?" Tobi: "¿Quién lo arrestó?"
+T1361 · NARUTO · Cueva de Akatsuki · "Yo, ¿quién más?" Tobi: "Así que fuiste tú." Sasuke: "Me quitaste lo único que me quedaba." Chidori en lanza contra el pecho de Facundo. Tobi no interviene.
