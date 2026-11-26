@@ -194,3 +194,4 @@
 - Público del campo tres · T1431 · vio a Facundo mandar a volar a la Hokage con una palma abierta (contenida) por encima del río. Tsunade dijo en voz alta que fue contenido.
 - Público del campo tres · T1432 · vio a Facundo tirarle a Tsunade una semilla que la curó al instante.
 - Público del campo tres · T1433 · ve el duelo Naruto vs Facundo (Modo Sabio, doscientos clones).
+- Público del campo tres · T1434 · vio a Facundo deshacer doscientos clones a la vez y apagar todas las Rasengan sin chakra visible. Oyó que Facundo le dijo a Naruto que use al Nueve Colas "como amigos".

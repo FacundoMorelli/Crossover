@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1431)
-
-le pego conteniendome
-
-## RESPUESTA 1 (T1431)
-
-> le pego conteniendome
-
-Das un paso.
-
-Para los que miran no hay paso: estás a dos metros de Tsunade y, de golpe, estás pegado a ella, con la palma abierta apoyada en el centro de su pecho, justo debajo de la clavícula. El aire plateado alrededor de tu cuerpo se mueve por primera vez, una sola onda, como agua cuando cae una piedra.
-
-Te contienes. Tanto que casi no es un golpe. Un empujón con la palma.
-
-Igual alcanza.
-
-Tsunade sale disparada hacia atrás.
-
-Pasa por encima del cráter que ella misma abrió, rozándolo con la espalda. Atraviesa la fila de los tres postes de madera y parte los dos primeros como si fueran ramitas; Kase salta del tercero en el último segundo. Cruza el río de un lado al otro, sin tocar el agua, levantando una cortina de espuma a su paso. Y se estrella contra la ladera de tierra de la orilla de enfrente, que se hunde a su alrededor en un círculo perfecto.
-
-Silencio.
-
-Las hojas arrancadas de los árboles bajan despacio, flotando, sobre el campo.
-
-—¡Tsunade-sama! —grita Shizune, y sale corriendo con las manos encendidas.
-
-—¡Maestra! —Sakura salta detrás de ella.
-
-Jiraiya se queda con la libreta en la mano y la boca abierta. Naruto, sentado en el pasto, ni siquiera grita.
-
-En la ladera de enfrente, dentro del hueco, algo se mueve.
-
-Tsunade se incorpora, despacio, sentada, con el pelo lleno de tierra y las coletas medio deshechas. El rombo violeta de la frente se le enciende, y unas líneas negras le bajan por la cara y los brazos. Lo que sea que se le rompió adentro, se le arregla solo en un segundo: se oye un crujido suave, como de huesos que vuelven a su lugar.
-
-Se queda sentada en el hueco, mirándote desde el otro lado del río. Tiene un hilo de sangre en la comisura de la boca.
-
-Y se ríe.
-
-Una carcajada enorme, de las de antes, de las que no le salían desde hacía años, que rebota en el bosque del este y hace volar a los pájaros.
-
-—¡Así que así se siente! —grita, entre risas—. ¡Ja! ¡JA! ¡Me pegaste con la palma! ¡Con la palma abierta, desgraciado! ¡Y me rompiste tres costillas!
-
-Shizune llega a su lado, sin aire, y Tsunade la aparta con una mano.
-
-—¡Estoy bien, Shizune! ¡Nunca estuve mejor!
-
-Se limpia la sangre de la boca con el dorso de la mano. Te mira desde la ladera, con los ojos brillando como los de una chica.
-
-—Contenido —dice, todavía riéndose, pero más bajo—. Eso fue contenido, ¿no?
-
-[Duelo ganado: Tsunade.]
-
-[+75 Fragmentos. +800 EXP.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1431 · NARUTO · DÍA 5 · 06:12          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 327.530/360.000               ║
-║ FRAGMENTOS 114.099 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común · Ultra Instinto         ║
-║ Kase: en el pasto, junto al poste            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1432)
+## COMANDO 1 (T1432)
 
 asi es, le tiro una semilla del ermitaño, comela
 
-## RESPUESTA 2 (T1432)
+## RESPUESTA 1 (T1432)
 
 > asi es, le tiro una semilla del ermitaño, comela
 
@@ -135,11 +64,11 @@ Detrás de él, Kushina se tapa la cara con la mano.
 
 ---
 
-## COMANDO 3 (T1433)
+## COMANDO 2 (T1433)
 
 esta bien
 
-## RESPUESTA 3 (T1433)
+## RESPUESTA 2 (T1433)
 
 > esta bien
 
@@ -206,4 +135,69 @@ En las ramas, la gente se agarra de nuevo.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:18, campo tres. Duelo con Naruto. Kushina: "¡No lo provoques!" Minato: "Es su forma de aprender." Naruto: Multiclones de Sombra (~200); diez clones juntan energía; el original entra en Modo Sabio (ojos de sapo, sombra naranja). MISIÓN DE COPIA: poder de Naruto (que Naruto y el Nueve Colas dejen de ser enemigos, ALTA). Doscientos Narutos con Rasengan: "¡Estilo Sabio: Lluvia de Rasengan!" se tiran sobre Facundo (en Ultra Instinto) desde todas las direcciones. Facundo tiene que reaccionar.
+## COMANDO 3 (T1434)
+
+derribó a todos los clones y detengo los ataques, si quieres acercarte mas vas a tener que usar lo que tienes dentro, no a la fuerza, si no como amigos
+
+## RESPUESTA 3 (T1434)
+
+> derribó a todos los clones y detengo los ataques, si quieres acercarte mas vas a tener que usar lo que tienes dentro, no a la fuerza, si no como amigos
+
+El aire plateado se mueve.
+
+No lo ves pasar. Tu cuerpo se va antes que tú: una mano, un codo, una rodilla, el canto de la otra mano, todo a la vez, en todas las direcciones, en el espacio de un parpadeo. Doscientos golpecitos, ninguno más fuerte que un dedo en la frente.
+
+Doscientos clones revientan en humo blanco al mismo tiempo, con un sonido como de una bolsa de palomitas.
+
+En el aire, por todas partes, quedan flotando las esferas azules sin dueño, girando, zumbando, sin nadie que las sostenga. Abres la mano derecha y cierras los dedos. Las esferas se detienen. Todas. Como si el aire las apretara desde afuera. Se encogen, se apagan y se deshacen en chispas azules que caen sobre el pasto como lluvia fina.
+
+Cuando el humo se despeja, en el campo hay un solo Naruto. El de verdad. Parado delante de ti, con el puño todavía estirado, la Rasengan todavía girando en la palma, a un palmo de tu pecho.
+
+Le apoyas dos dedos en el borde de la esfera.
+
+Se apaga.
+
+Naruto se queda con la mano abierta en el aire, vacía. Los ojos de sapo se le abren hasta lo imposible.
+
+> —Si quieres acercarte más, vas a tener que usar lo que tienes adentro. No a la fuerza. Como amigos.
+
+Naruto parpadea. Se le va el Modo Sabio de la cara, despacio, como pintura que se lava. Vuelve a tener los ojos azules.
+
+—¿Lo que tengo... adentro? —Se toca el estómago, por encima de la chaqueta—. ¿El zorro? —Se le arruga la cara—. ¡Ese zorro me odia! ¡Cada vez que lo uso quiere romperme el sello y comerme! ¡Cuando peleé con Pain casi destruye todo!
+
+—Porque lo usaste a la fuerza —dice alguien detrás de él.
+
+Kushina.
+
+Bajó del árbol sin que nadie la viera, y camina despacio hacia el centro del claro, con el pelo rojo moviéndose con el viento de la mañana. Ya no tiene cara de que esto le parece una mala idea. Tiene otra cara. Seria. Vieja, de una forma que no tiene nada que ver con la edad.
+
+—Yo lo tuve adentro antes que tú, Naruto —dice—. Veinte años. Y antes que yo, la abuela Mito. —Se detiene a su lado—. Lo tuve encadenado. Nunca le hablé. Nunca le pregunté nada.
+
+Naruto la mira, con la boca abierta.
+
+—Ese zorro tiene nombre —dice Kushina, muy bajo—. Nunca nadie se lo preguntó.
+
+Minato, desde el borde del campo, da un paso adelante, en silencio. No dice nada. Mira a su esposa y a su hijo, y se queda quieto.
+
+Naruto se queda callado un rato largo. Mira a su madre. Te mira a ti. Se mira las manos.
+
+—¿Y cómo...? —Le sale chiquito, como pocas veces le sale algo—. ¿Cómo se hace amigo de alguien que te odia?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1434 · NARUTO · DÍA 5 · 06:20          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 327.530/360.000               ║
+║ FRAGMENTOS 114.099 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común · Ultra Instinto         ║
+║ Kase: en el pasto, junto al poste            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Duelo con Naruto                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:20, campo tres. Facundo deshizo los doscientos clones de golpe, detuvo y apagó todas las Rasengan, y apagó la del Naruto real con dos dedos. "Si quieres acercarte más, vas a tener que usar lo que tienes adentro. No a la fuerza. Como amigos." Naruto: "¡Ese zorro me odia!" Kushina baja del árbol: lo tuvo veinte años, encadenado, nunca le habló; "Ese zorro tiene nombre. Nunca nadie se lo preguntó." Minato da un paso. Naruto: "¿Cómo se hace amigo de alguien que te odia?" Facundo puede contestar.
