@@ -8,3 +8,4 @@ ESTADO: vivos, en su casa (no vistos aún).
 QUÉ SABEN DE FACUNDO: por la voz de Alba, quien los revivió tiene un gato; lo ven en persona.
 - T1411 · Minato: "Naruto. Nos vimos hace tres días. Adentro tuyo. ¿Te acuerdas?" Kushina lo abraza llorando: "¡Naruto, mi bebé, mira lo grande que estás! ¡De veras! ¡Te dejé en esa cuna con un día de vida!" "Sí, mi amor. Soy tu mamá. Kushina Uzumaki." Minato ve a Kakashi: "Kakashi."
 - T1412 · Minato: "Jiraiya-sensei." Jiraiya los abraza a los dos con Naruto.
+- T1414 · Kushina, manos en la cintura: "Son pervertidos." Minato se ríe (igual a Naruto).

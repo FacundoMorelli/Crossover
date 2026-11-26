@@ -34,3 +34,4 @@ RELACIÓN CON FACUNDO (T1334): respeto y curiosidad; amistoso.
 - T1342 · Se lanza contra Raíz por la izquierda.
 - T1343 · Queda con el puño en el aire: sus rivales de Raíz se desmayan solos.
 - T1345 · "¡Se está tragando a su propia gente!"
+- T1414 · "Kakashi. Eso no te hace quedar bien."

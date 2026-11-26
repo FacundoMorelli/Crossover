@@ -10,3 +10,4 @@ QUÉ SABE DE FACUNDO: por la voz de Alba, quien lo revivió tiene un gato.
 ESTADO: vivo, nariz rota.
 - T1413 · "¿Sabes mi nombre? ¡El gran Jiraiya, el Sabio de los Sapos, autor de la exitosa saga Icha Icha...!" (codazo de Tsunade) "...el hombre que se calla." "Lo último que recuerdo antes de eso es el fondo de un lago en el País de la Lluvia, con seis varillas negras clavadas en el cuerpo." "Así que gracias, muchacho. De verdad." Le tiende la mano. "¿Tienes idea de cuántos libros se pueden escribir con eso? ¿Me contarías tu historia?"
 QUÉ SABE DE FACUNDO (T1413): por Facundo, sabe su nombre. Por la voz: lo revivió el del gato. Lo vio invocar al dragón (llegó tarde; vio el cielo).
+- T1414 · Ofendido: "¿Pervertidos? ¡Son arte! ¡Son la exploración más profunda del alma humana!" "Tú te lo pierdes... Igual lo voy a escribir. Contigo o sin ti."

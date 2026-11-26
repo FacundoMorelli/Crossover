@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1411)
-
-miro
-
-## RESPUESTA 1 (T1411)
-
-> miro
-
-Naruto no se mueve.
-
-Se queda parado en medio de la calle, con los brazos caídos a los costados y la boca abierta, mirando a la mujer pelirroja. No dice nada. Parece que se olvidó de cómo se habla.
-
-El hombre rubio da un paso hacia él. Sonríe. Es una sonrisa que Naruto conoce, porque la ve todas las mañanas en el espejo.
-
-—Naruto —dice—. Nos vimos hace tres días. Adentro tuyo. ¿Te acuerdas?
-
-—Papá. —A Naruto le sale apenas, en un susurro. Después más fuerte, quebrado—. ¡Papá!
-
-Y la mujer pelirroja ya no aguanta.
-
-Corre los dos pasos que faltan y se tira sobre Naruto con los brazos abiertos. Lo abraza tan fuerte que lo levanta del suelo, con la cara hundida en su pelo, llorando a gritos.
-
-—¡Naruto! ¡Naruto, Naruto, mi bebé, mira lo grande que estás, mírate! ¡Mírate, de veras! —Le agarra la cara con las dos manos, se la mira, lo vuelve a abrazar—. ¡Te dejé en esa cuna con un día de vida! ¡Un día! ¡Y mírate!
-
-Naruto no sabe qué hacer con los brazos. Los tiene levantados en el aire, rígidos. Después, despacio, los baja y la abraza. Y se pone a llorar como no lo viste llorar en todo el día, con la cara en el hombro de su madre, temblando entero.
-
-—¿Mamá?
-
-—Sí. —Kushina se ríe y llora al mismo tiempo—. Sí, mi amor. Soy tu mamá. Kushina. Kushina Uzumaki.
-
-Minato se acerca y los abraza a los dos. Cierra los ojos. Apoya la frente en la cabeza de Naruto.
-
-En toda la calle no hay nadie que no esté mirando. Sakura llora con las dos manos en la cara. Lee se arrodilla otra vez. Hinata, al lado de Neji, se tapa la boca y no le sacan los ojos de encima a Naruto. Teuchi, en la puerta de su Ichiraku recién hecho, se quita el gorro de cocinero y lo aprieta contra el pecho.
-
-Minato abre los ojos. Por encima del hombro de su hijo ve a alguien parado entre la gente, inmóvil, de pelo blanco, con una máscara que le tapa media cara y la banda bajada sobre el ojo izquierdo.
-
-—Kakashi —dice, en voz baja.
-
-Kakashi no contesta. Se baja la máscara de la cara de un tirón, sin darse cuenta, y se le ve la boca temblando.
-
-—Sensei.
-
-Y en ese momento, desde la colina del norte, desde la casa más alta de la aldea, la del sapo de piedra en la puerta, baja alguien corriendo por la calle empinada. Un hombre enorme, de pelo blanco y largo, en punta, con dos líneas rojas que le bajan desde los ojos, en sandalias de madera que golpean las piedras como tambores.
-
-—¡¡NARUTOOOO!!
-
-Tsunade, al pie de la torre, se da vuelta hacia la voz.
-
-Y se queda completamente quieta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1411 · NARUTO · DÍA 1 · 15:30          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1412)
+## COMANDO 1 (T1412)
 
 sigo mirando
 
-## RESPUESTA 2 (T1412)
+## RESPUESTA 1 (T1412)
 
 > sigo mirando
 
@@ -153,11 +86,11 @@ Se le arquea una ceja.
 
 ---
 
-## COMANDO 3 (T1413)
+## COMANDO 2 (T1413)
 
 mucho gusto jiraiya
 
-## RESPUESTA 3 (T1413)
+## RESPUESTA 2 (T1413)
 
 > mucho gusto jiraiya
 
@@ -204,4 +137,63 @@ Y antes de que puedas hacer nada, se inclina hacia ti y baja la voz, con un bril
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:35, calle frente a la Torre. "Mucho gusto, Jiraiya." Jiraiya se presenta con pompa; Tsunade le pega un codazo. Jiraiya: recuerda el fondo del lago de Ame con seis varillas negras; la voz le dijo lo del gato. "Gracias, muchacho. De verdad." Le tiende la mano. En voz baja: "¿Tienes idea de cuántos libros se pueden escribir con eso? ¿Me contarías tu historia?" Facundo tiene que contestar.
+## COMANDO 3 (T1414)
+
+eh no, tus libros son todos pervertidos
+
+## RESPUESTA 3 (T1414)
+
+> eh no, tus libros son todos pervertidos
+
+> —Eh, no. Tus libros son todos pervertidos.
+
+Jiraiya se queda con la mano tendida en el aire.
+
+Se le borra la sonrisa. Se lleva la otra mano al pecho, despacio, como si le hubieran clavado un kunai.
+
+—¿Pervertidos? —repite, ofendidísimo—. ¡Son arte! ¡Son la exploración más profunda del alma humana, del amor, del deseo, de la...!
+
+—Son pervertidos —dice Tsunade, sin mirarlo.
+
+—Son pervertidos —dice Kushina, con las manos en la cintura.
+
+—¡JA! —Naruto se dobla de la risa, todavía con la cara mojada—. ¡Te lo dijo! ¡Te lo dijo en la cara, Sabio Pervertido! ¡Hasta el que te revivió lo sabe!
+
+—Yo los leí todos —dice Kakashi, desde atrás, con la máscara otra vez puesta y el tono de siempre—. Son literatura.
+
+Gai, a su lado, lo mira con desprecio.
+
+—Kakashi. Eso no te hace quedar bien.
+
+Jiraiya baja la mano tendida, mira a Kakashi con algo de gratitud y después se cruza de brazos, muy digno, con la nariz todavía sangrando.
+
+—Bueno. Tú te lo pierdes. Algún día te vas a arrepentir, cuando el libro que hable de ti se venda en las cinco naciones. —Te mira de reojo—. Igual lo voy a escribir. Contigo o sin ti.
+
+Minato se ríe por lo bajo. Es la primera vez que lo ves reírse, y se parece a Naruto de una forma que da escalofríos.
+
+Tsunade se aclara la garganta. Fuerte.
+
+—Bueno. Basta. —Mira alrededor: la calle llena de gente que llora y se abraza, los revividos que salen de sus casas y se buscan entre sí, los Uchiha en un grupo aparte, con Fugaku todavía mirándola fijo—. Tengo una aldea entera que se acaba de reconstruir sola, la mitad de la gente que estaba muerta caminando por las calles, el Cuarto Hokage de vuelta, un clan entero que va a querer explicaciones y tres prisioneros de Akatsuki en una carpa que ya no sé si existe.
+
+Se pasa una mano por la cara.
+
+—A la Torre. Ahora. —Señala con el dedo, uno por uno—. Minato. Jiraiya. Fugaku. Kakashi. Homura y Koharu, que alguien los traiga. —Y te señala a ti, al final—. Y tú, Facundo. Sobre todo tú.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1414 · NARUTO · DÍA 1 · 15:37          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 83% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión en la Torre del Hokage     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:37, calle frente a la Torre. "Tus libros son todos pervertidos." Jiraiya ofendido ("¡Son arte!"); Tsunade y Kushina: "Son pervertidos." Naruto se ríe. Kakashi: "Son literatura." Gai: "Eso no te hace quedar bien." Jiraiya: igual escribirá el libro. Minato se ríe. Tsunade convoca a la Torre ya: Minato, Jiraiya, Fugaku, Kakashi, Homura y Koharu, "y tú, Facundo. Sobre todo tú." Facundo puede actuar.

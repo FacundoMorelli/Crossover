@@ -78,3 +78,4 @@ QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y 
 - T1411 · Oye a Jiraiya, se da vuelta y se queda completamente quieta.
 - T1412 · Le da un puñetazo a Jiraiya que lo estampa contra una pared. Lo levanta del cuello: "¡Idiota, idiota, idiota! ¡Te fuiste solo! ¡Sabías que te podía matar y te fuiste solo! ¡Me dejaste aquí sentada esperando un sapo con una carta!" Lo abraza llorando a gritos.
 - T1413 · Le pega un codazo a Jiraiya; se seca la cara de espaldas a la gente.
+- T1414 · "Son pervertidos." Convoca a la Torre: "Minato. Jiraiya. Fugaku. Kakashi. Homura y Koharu... Y tú, Facundo. Sobre todo tú." (aldea reconstruida, revividos, Uchiha, prisioneros de Akatsuki)
