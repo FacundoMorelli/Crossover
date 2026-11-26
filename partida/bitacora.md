@@ -1457,3 +1457,4 @@ T1455 · ONE PIECE · Baltigo, torre · Facundo ofrece llevar a Sabo a ver a Ace
 T1456 · ONE PIECE · Baltigo → Moby Dick → Rusukaina · Con Sabo, se lleva a Ace dormido (cara en el plato) del Moby Dick (Marco lo ve). Aparecen en la nieve frente a Luffy y Rayleigh. Luffy, mandíbula en el pecho, mira a Sabo.
 T1457 · ONE PIECE · Rusukaina · Despierta a Ace. "Hola, Ace. Perdón. Tardé doce años." Luffy: "¡¿SABOOOO?!" Abrazo de los tres en la nieve. Ace mira a Facundo con una pregunta.
 T1458 · ONE PIECE · Rusukaina · (observa ~35 min) Reencuentro de los tres hermanos; Ace llora; Sabo cuenta su historia; "mi papá es bueno". Ace teme a Marco y a la flota. Rayleigh: "técnicamente te secuestraron". Ace a Facundo: "¿Cómo sabías que estaba vivo?"
+T1459 · ONE PIECE · Rusukaina · "Sé muchas cosas." Reverencia de Ace: "Gracias. Por mi hermano." Pide volver al Moby Dick con Sabo para presentárselo al viejo. Luffy quiere ir: "No" a coro.

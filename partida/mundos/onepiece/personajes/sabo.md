@@ -22,3 +22,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1456 · Facundo lo lleva al Moby Dick: ve a Ace dormido en el plato y se queda sin aire. Después a Rusukaina frente a Luffy. Da un paso hacia Luffy; se le quiebra la voz.
 - T1457 · A Ace: "Hola, Ace. Perdón. Tardé doce años." Abraza a Luffy; ríe y llora.
 - T1458 · Les cuenta a Ace y Luffy su historia (Dragon, amnesia, Marineford, la torre). Escucha el viaje de Luffy.
+- T1459 · Se quita el sombrero ante la reverencia de Ace. Duda de ir con Barbablanca ("soy el número dos del Ejército Revolucionario"). Ace: "Eres mi hermano." A Luffy: "No."

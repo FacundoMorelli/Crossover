@@ -23,3 +23,4 @@ ESTADO: activo
 - T1456 · Día ~121 · Rusukaina, sentado en una roca con una botella. Ve aparecer a Facundo con Ace y Sabo frente a Luffy; se acomoda los anteojos.
 - T1457 · Ve el reencuentro de los tres hermanos desde su roca.
 - T1458 · Les da privacidad mirando al mar. A Ace: "Técnicamente, te secuestraron."
+- T1459 · Sonríe con la reverencia. A Luffy: "No."

@@ -3,79 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1456)
-
-toco a sabo me teletransporto atrás de ace lo toco y los llevo a los dos a la isla donde esta luffy en frente de el sin que ni se de cuenta ace
-
-## RESPUESTA 1 (T1456)
-
-> toco a sabo me teletransporto atrás de ace lo toco y los llevo a los dos a la isla donde esta luffy en frente de el sin que ni se de cuenta ace
-
-Le pones la mano en el hombro a Sabo. Él aprieta el caño.
-
-Robin te suelta la mano. Koala abre la boca. Dragon no se mueve.
-
-Dos dedos en la frente. Buscas el ki de Ace: lejos, en el Nuevo Mundo, enorme y caliente como una fogata en medio del mar. Lo encuentras.
-
-La torre desaparece.
-
-Huele a sal, a madera encerada y a carne asada. Estás en la cubierta de un barco gigantesco, con mascarón de ballena blanca, bajo un sol de mediodía que pega fuerte. Alrededor, a lo lejos, se ven las velas de una flota entera. En cubierta hay una mesa larga armada sobre barriles, y alrededor, decenas de piratas comiendo, gritando, peleándose por una fuente de costillas.
-
-Y justo delante de ti, sentado de espaldas en un banco, sin camisa, con un sombrero naranja colgado del cuello y un tatuaje en la espalda, Ace.
-
-Tiene la cara metida en el plato. Dormido. Con un pedazo de carne todavía en el tenedor y un ronquido suave que se le escapa entre el arroz.
-
-Sabo, a tu lado, se queda sin aire.
-
-Del otro lado de la mesa, un pirata con un mechón rubio y cara de sueño levanta la vista de su plato. Te ve. Ve a Sabo. Abre los ojos.
-
-—¿Eh...?
-
-Le tocas la espalda a Ace.
-
-La cubierta desaparece.
-
-El aire cambia de golpe: frío, cortante, con nieve. Estás sobre una explanada de roca negra, cubierta de escarcha, al pie de unos acantilados enormes. Hay huesos de bestias gigantes clavados en la nieve. Más allá, una selva congelada; más allá todavía, el mar quieto y liso del Calm Belt, sin una sola ola.
-
-Kase, en tu hombro, se esponja entero por el frío y te mete la cara en el cuello.
-
-Ace está sentado en el suelo, en la nieve, todavía dormido, con el tenedor en la mano y un grano de arroz pegado en la mejilla. Ronca.
-
-Y frente a ustedes, a tres pasos, con un pie apoyado sobre la cabeza de una bestia del tamaño de una casa que acaba de tumbar, el pecho al aire con la cicatriz en forma de X, el pelo más largo y el sombrero de paja colgado de la espalda, Luffy.
-
-Se te queda mirando.
-
-Mira a Ace, dormido en la nieve.
-
-Mira a Sabo. El sombrero de copa. La levita azul. La cicatriz. El caño de metal en el hombro.
-
-Se le cae la mandíbula. Literal: se le estira casi hasta el pecho.
-
-Detrás de él, sentado sobre una roca con una botella en la mano, Rayleigh se acomoda los anteojos.
-
-Sabo da un paso hacia Luffy. Se le quiebra la voz antes de decir nada. Ace, en la nieve, ronca.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1456 · ONE PIECE · DÍA ~121 · 06:42    ║
-║ Rusukaina · explanada de roca, nieve         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, esponjado por el frío    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Llevar a Sabo a ver a Ace y Luffy  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1457)
+## COMANDO 1 (T1457)
 
 despierto a ace
 
-## RESPUESTA 2 (T1457)
+## RESPUESTA 1 (T1457)
 
 > despierto a ace
 
@@ -143,11 +75,11 @@ Tiene los ojos muy abiertos y la cara pálida. Y en la mirada, una pregunta enor
 
 ---
 
-## COMANDO 3 (T1458)
+## COMANDO 2 (T1458)
 
 miro
 
-## RESPUESTA 3 (T1458)
+## RESPUESTA 2 (T1458)
 
 > miro
 
@@ -213,4 +145,68 @@ Después cruza la nieve derretida hasta ti. Se para delante. Ya no tiene la cara
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 07:20, Rusukaina. Reencuentro de los tres hermanos. Ace, frente a Facundo: "¿Cómo sabías que estaba vivo?" Facundo puede responder.
+## COMANDO 3 (T1459)
+
+se muchas cosas
+
+## RESPUESTA 3 (T1459)
+
+> se muchas cosas
+
+> —Sé muchas cosas.
+
+Ace se te queda mirando.
+
+Por un segundo parece que va a insistir. Abre la boca. La cierra. Después se le escapa una risa por la nariz, corta, y sacude la cabeza.
+
+—Sí. Eso ya me di cuenta en Marineford. —Se pasa la mano por la cara—. Está bien. No me importa cómo. Me importa que lo hiciste.
+
+Se saca el sombrero naranja. Lo apoya contra el pecho. Y se inclina delante de ti, en la nieve, igual que en la cubierta del Moby Dick hace dos meses: una reverencia larga, recta, de las que no se hacen dos veces en la vida.
+
+—Gracias. —Lo dice hacia el suelo—. Por mi hermano.
+
+Detrás, Luffy y Sabo se quedaron callados. Sabo se quita también el sombrero de copa, sin decir nada, y lo sostiene contra el pecho. Luffy los mira a los dos, no entiende del todo qué está pasando, y se quita el sombrero de paja de la espalda y lo apoya contra el pecho también, con la cara muy seria.
+
+Rayleigh, en su roca, sonríe.
+
+Ace se endereza. Se pone el sombrero. Ya tiene otra vez la cara de siempre: la sonrisa torcida, los ojos encendidos, las pecas.
+
+—Bueno —dice—. Ahora tengo un problema.
+
+Señala el mar, hacia el horizonte, hacia algún lugar del Nuevo Mundo que no se ve.
+
+—Hay una flota de cuarenta y tantos barcos buscándome, un fénix que me va a desplumar y un viejo que es capaz de partir el mar en dos si cree que alguien me llevó. —Se rasca la nuca—. ¿Me puedes devolver al Moby Dick antes de que empiecen una guerra?
+
+Se da vuelta hacia Sabo.
+
+—Y tú vienes conmigo. —No es una pregunta—. Te voy a presentar al viejo. Y a todos. Les voy a decir que mi hermano estaba vivo.
+
+Sabo abre mucho los ojos.
+
+—¿A Barbablanca? Ace, soy el número dos del Ejército Revolucionario...
+
+—Me da igual. Eres mi hermano. —Ace sonríe—. El viejo va a estar encantado. Le encanta tener hijos nuevos.
+
+Luffy salta en el lugar.
+
+—¡¿Yo también puedo ir?!
+
+—No —dicen Ace, Sabo y Rayleigh al mismo tiempo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1459 · ONE PIECE · DÍA ~121 · 07:23    ║
+║ Rusukaina · explanada de roca, nieve         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 07:23, Rusukaina. Ace agradeció; pide volver al Moby Dick con Sabo. Luffy quiere ir; todos dicen que no. Facundo puede actuar.
