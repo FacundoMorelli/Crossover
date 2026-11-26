@@ -21,3 +21,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1455 · Dragon lo deja ir; "Vuelvo." Sonrisa enorme (se parece a Luffy). Deja los informes a Koala. Listo frente a Facundo: "Cuando quieras."
 - T1456 · Facundo lo lleva al Moby Dick: ve a Ace dormido en el plato y se queda sin aire. Después a Rusukaina frente a Luffy. Da un paso hacia Luffy; se le quiebra la voz.
 - T1457 · A Ace: "Hola, Ace. Perdón. Tardé doce años." Abraza a Luffy; ríe y llora.
+- T1458 · Les cuenta a Ace y Luffy su historia (Dragon, amnesia, Marineford, la torre). Escucha el viaje de Luffy.

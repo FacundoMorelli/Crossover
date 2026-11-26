@@ -59,3 +59,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T930 · Despedida: "¡Cuando nos veamos, voy a ser mucho más fuerte que tú!" Abrazo: "Gracias, Facundo. Por Ace. Por todos." Ve la puerta: "¡¿Qué es esooo?!" Se queda con Rayleigh.
 - T1456 · Día ~121 · Rusukaina, nieve; acaba de tumbar una bestia gigante (pelo más largo, sombrero a la espalda). Ve aparecer a Facundo, a Ace dormido y a Sabo. Se le estira la mandíbula hasta el pecho.
 - T1457 · Reconoce a Sabo: "¡¿SABOOOOOO?!" Lo abraza junto con Ace con los brazos estirados; llora a los gritos como a los siete años.
+- T1458 · "¿Mi papá te salvó? ¡Ah! ¡Entonces mi papá es bueno!" Cuenta su viaje a los gritos. Colgado del cuello de Sabo.

@@ -22,3 +22,4 @@ ESTADO: activo
 - T930 · "Así que eso era lo que querías decir con que viajabas mucho. Ve tranquilo. Dentro de dos años te devuelvo a un capitán que valga la pena seguir." Ve la puerta.
 - T1456 · Día ~121 · Rusukaina, sentado en una roca con una botella. Ve aparecer a Facundo con Ace y Sabo frente a Luffy; se acomoda los anteojos.
 - T1457 · Ve el reencuentro de los tres hermanos desde su roca.
+- T1458 · Les da privacidad mirando al mar. A Ace: "Técnicamente, te secuestraron."

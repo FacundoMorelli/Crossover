@@ -285,3 +285,4 @@
 - Luffy, Rayleigh · T1456 · Ven a Facundo aparecer de la nada en Rusukaina con Ace dormido y con Sabo.
 - Robin, Dragon, Koala · T1456 · Ven a Facundo desaparecer de la torre con Sabo.
 - Ace, Luffy, Rayleigh · T1457 · Ven a Sabo vivo; Sabo los reconoce y pide perdón por tardar doce años. Ace sabe que estaba en el Moby Dick y apareció en Rusukaina con Facundo.
+- Ace, Luffy, Rayleigh · T1458 · Por Sabo: Dragon lo sacó del mar; 12 años de amnesia en el Ejército Revolucionario; recuperó la memoria esa mañana en una torre al oír "hermano". Ace y Luffy saben que Sabo es revolucionario. Sabo, por Luffy: el viaje de los Sombrero de Paja (resumido).
