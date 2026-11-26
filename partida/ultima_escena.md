@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1414)
-
-eh no, tus libros son todos pervertidos
-
-## RESPUESTA 1 (T1414)
-
-> eh no, tus libros son todos pervertidos
-
-> —Eh, no. Tus libros son todos pervertidos.
-
-Jiraiya se queda con la mano tendida en el aire.
-
-Se le borra la sonrisa. Se lleva la otra mano al pecho, despacio, como si le hubieran clavado un kunai.
-
-—¿Pervertidos? —repite, ofendidísimo—. ¡Son arte! ¡Son la exploración más profunda del alma humana, del amor, del deseo, de la...!
-
-—Son pervertidos —dice Tsunade, sin mirarlo.
-
-—Son pervertidos —dice Kushina, con las manos en la cintura.
-
-—¡JA! —Naruto se dobla de la risa, todavía con la cara mojada—. ¡Te lo dijo! ¡Te lo dijo en la cara, Sabio Pervertido! ¡Hasta el que te revivió lo sabe!
-
-—Yo los leí todos —dice Kakashi, desde atrás, con la máscara otra vez puesta y el tono de siempre—. Son literatura.
-
-Gai, a su lado, lo mira con desprecio.
-
-—Kakashi. Eso no te hace quedar bien.
-
-Jiraiya baja la mano tendida, mira a Kakashi con algo de gratitud y después se cruza de brazos, muy digno, con la nariz todavía sangrando.
-
-—Bueno. Tú te lo pierdes. Algún día te vas a arrepentir, cuando el libro que hable de ti se venda en las cinco naciones. —Te mira de reojo—. Igual lo voy a escribir. Contigo o sin ti.
-
-Minato se ríe por lo bajo. Es la primera vez que lo ves reírse, y se parece a Naruto de una forma que da escalofríos.
-
-Tsunade se aclara la garganta. Fuerte.
-
-—Bueno. Basta. —Mira alrededor: la calle llena de gente que llora y se abraza, los revividos que salen de sus casas y se buscan entre sí, los Uchiha en un grupo aparte, con Fugaku todavía mirándola fijo—. Tengo una aldea entera que se acaba de reconstruir sola, la mitad de la gente que estaba muerta caminando por las calles, el Cuarto Hokage de vuelta, un clan entero que va a querer explicaciones y tres prisioneros de Akatsuki en una carpa que ya no sé si existe.
-
-Se pasa una mano por la cara.
-
-—A la Torre. Ahora. —Señala con el dedo, uno por uno—. Minato. Jiraiya. Fugaku. Kakashi. Homura y Koharu, que alguien los traiga. —Y te señala a ti, al final—. Y tú, Facundo. Sobre todo tú.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1414 · NARUTO · DÍA 1 · 15:37          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 83% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión en la Torre del Hokage     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1415)
+## COMANDO 1 (T1415)
 
 esta bien
 
-## RESPUESTA 2 (T1415)
+## RESPUESTA 1 (T1415)
 
 > esta bien
 
@@ -131,11 +72,11 @@ Tsunade suspira, larguísimo. Después gira la cabeza hacia ti.
 
 ---
 
-## COMANDO 3 (T1416)
+## COMANDO 2 (T1416)
 
 me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
 
-## RESPUESTA 3 (T1416)
+## RESPUESTA 2 (T1416)
 
 > me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
 
@@ -198,4 +139,67 @@ Gira la cabeza hacia ti. Hacia el único en la sala que no es de Konoha, el que 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:49, despacho de la Torre. Facundo: se queda unos días, después se va y volverá. Tsunade: "No me quiero imaginar lo que vas a hacer en unos días." Jiraiya: "Un viajero de verdad." Minato: "Cuando vuelvas, esta aldea va a seguir aquí." Tsunade: tres prisioneros (Kisame, Zetsu blanco y el que dirigía todo). A Minato: el enmascarado del ataque del Nueve Colas lo tienen. Kakashi se baja la máscara: "Es Obito, sensei." Minato: "¿Obito? ¿Mi... Obito?" A Facundo: "¿Es verdad?" Facundo tiene que contestar.
+## COMANDO 3 (T1417)
+
+si, es verdad, estaba siendo utilizado pero lo hizo el
+
+## RESPUESTA 3 (T1417)
+
+> si, es verdad, estaba siendo utilizado pero lo hizo el
+
+> —Sí, es verdad. Estaba siendo utilizado, pero lo hizo él.
+
+Minato cierra los ojos.
+
+No dice nada. Se queda de pie junto al ventanal, con la luz de la tarde en la cara, y por un momento parece mucho más joven de lo que es, y mucho más cansado.
+
+—Obito —dice al fin, muy bajo—. El que llegaba siempre tarde. El que decía que iba a ser Hokage. El que se ponía las antiparras para no llorar delante de Kakashi.
+
+Abre los ojos. Los tiene mojados.
+
+—Lo dejé solo. En Kannabi. Creí que estaba muerto, y no volví a buscarlo. Ni siquiera su cuerpo. —Aprieta los puños—. Y alguien lo encontró antes que yo.
+
+—No fue culpa suya, sensei —dice Kakashi, desde la puerta—. Fue mía. Rin...
+
+—Basta, los dos —los corta Jiraiya, desde la pared, con la voz grave por primera vez desde que llegó—. Si nos ponemos a repartir culpas, en esta sala no queda nadie limpio. Ni yo. Yo entrené a Nagato.
+
+Nadie dice nada. Homura y Koharu miran el suelo. Fugaku cierra la boca.
+
+Minato respira hondo. Se pasa una mano por la cara. Cuando la baja, ya no tiene los ojos mojados: tiene la expresión de un Hokage.
+
+—Lo que hizo, lo hizo él. Es verdad. —Te mira—. Kushina murió por lo que hizo. Yo morí. Media aldea murió. Y Naruto creció solo, dieciséis años, con todo el mundo mirándolo como a un monstruo.
+
+Se le tensa la mandíbula.
+
+—Pero era mi alumno.
+
+Se da vuelta hacia Tsunade.
+
+—Tsunade-sama. Quiero estar cuando despierte. Con Kakashi.
+
+Tsunade asiente despacio. Después mira a todos los de la sala, uno por uno: a Minato, a Kakashi, a Jiraiya, a Fugaku, a los dos viejos. Y por último te mira a ti, con los dedos entrelazados frente a la boca.
+
+—Danzō va a ser juzgado. Homura y Koharu también. Pero con Obito no sé qué hacer. —Lo dice sin vueltas—. Mató a Minato y a Kushina, dirigió Akatsuki, casi destruyó el mundo. Y al mismo tiempo, lo usó alguien que ya no existe, y tú acabas de deshacer casi todo lo que hizo.
+
+Se inclina un poco hacia adelante.
+
+—Tú lo atrapaste. Tú sabes más de él que nadie en esta sala. —Te sostiene la mirada—. ¿Qué crees que hay que hacer con él?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1417 · NARUTO · DÍA 1 · 15:52          ║
+║ Konoha · Torre del Hokage · despacho         ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 83% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el escritorio, al sol               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión en la Torre del Hokage     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:52, despacho de la Torre. Facundo: "Sí, es verdad. Estaba siendo utilizado, pero lo hizo él." Minato recuerda a Obito; se culpa por Kannabi. Kakashi se culpa por Rin. Jiraiya: "Si nos ponemos a repartir culpas, no queda nadie limpio. Yo entrené a Nagato." Minato: "Lo que hizo, lo hizo él... Pero era mi alumno." Quiere estar cuando despierte, con Kakashi. Tsunade: Danzō, Homura y Koharu serán juzgados; con Obito no sabe qué hacer. A Facundo: "¿Qué crees que hay que hacer con él?" Facundo tiene que contestar.

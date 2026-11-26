@@ -54,3 +54,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1411 · Se baja la máscara sin darse cuenta (se le ve la boca temblando): "Sensei."
 - T1414 · "Yo los leí todos. Son literatura."
 - T1416 · Se baja la máscara y le dice a Minato: "Es Obito, sensei."
+- T1417 · "No fue culpa suya, sensei. Fue mía. Rin..."

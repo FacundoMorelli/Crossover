@@ -12,3 +12,5 @@ QUÉ SABEN DE FACUNDO: por la voz de Alba, quien los revivió tiene un gato; lo 
 - T1415 · Minato en la Torre: se detiene frente a su retrato. Junto al ventanal: "Tsunade-sama tiene razón. Si vamos a empezar de nuevo, empezamos con la verdad. Toda."
 - T1416 · Minato: "Cuando vuelvas, esta aldea va a seguir aquí. Te lo prometo." Al saber que tienen al enmascarado: "¿Lo atraparon? ¿Quién es?" Kakashi: "Es Obito." "¿Obito? ¿Mi... Obito?" A Facundo: "¿Es verdad?"
 QUÉ SABE (T1416): por Kakashi, el enmascarado del ataque del Kyūbi es Obito.
+- T1417 · Minato: "Obito. El que llegaba siempre tarde. El que decía que iba a ser Hokage. El que se ponía las antiparras para no llorar delante de Kakashi." "Lo dejé solo. En Kannabi." "Lo que hizo, lo hizo él. Es verdad. Kushina murió... Yo morí... Naruto creció solo." "Pero era mi alumno." "Tsunade-sama. Quiero estar cuando despierte. Con Kakashi."
+QUÉ SABE (T1417): por Facundo, Obito fue utilizado pero lo hizo él.

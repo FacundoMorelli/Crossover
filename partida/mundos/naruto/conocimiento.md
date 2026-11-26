@@ -172,3 +172,4 @@
 - Minato, Jiraiya, Kakashi, Fugaku, Homura, Koharu · T1415 · por Tsunade: Danzō, Homura y Koharu serán juzgados; también se dirá el plan de golpe de Fugaku.
 - Tsunade, Minato, Jiraiya, Kakashi, Fugaku, Homura, Koharu · T1416 · por Facundo: se quedará unos días en Konoha, se irá y volverá algún día.
 - Minato, Jiraiya, Fugaku, Homura, Koharu · T1416 · por Kakashi (ante Tsunade): el enmascarado del ataque del Nueve Colas es Obito Uchiha, prisionero.
+- Todos en el despacho · T1417 · por Facundo: Obito fue utilizado, pero lo hizo él. Por Tsunade: lo usó "alguien que ya no existe" (Zetsu negro/Madara).

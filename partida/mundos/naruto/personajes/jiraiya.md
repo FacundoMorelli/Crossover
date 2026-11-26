@@ -12,3 +12,4 @@ ESTADO: vivo, nariz rota.
 QUÉ SABE DE FACUNDO (T1413): por Facundo, sabe su nombre. Por la voz: lo revivió el del gato. Lo vio invocar al dragón (llegó tarde; vio el cielo).
 - T1414 · Ofendido: "¿Pervertidos? ¡Son arte! ¡Son la exploración más profunda del alma humana!" "Tú te lo pierdes... Igual lo voy a escribir. Contigo o sin ti."
 - T1416 · "Un viajero de verdad. Va y vuelve. Como debe ser. Te lo dice un experto." (Tsunade: "Tú ibas y no volvías.")
+- T1417 · "Basta, los dos. Si nos ponemos a repartir culpas, en esta sala no queda nadie limpio. Ni yo. Yo entrené a Nagato."

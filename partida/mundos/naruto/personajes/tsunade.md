@@ -82,3 +82,4 @@ QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y 
 - T1415 · En el despacho: "Van a ser juzgados. Los tres. Danzō primero... Tienes mi palabra." "Pero tú también estabas planeando un golpe, Fugaku. Y eso también se va a decir en voz alta." A Facundo: "¿Te vas a quedar en Konoha? ¿O un día de estos vas a desaparecer igual que apareciste?"
 - T1416 · "En un día hiciste lo que la aldea no pudo hacer en dieciséis años." A Jiraiya: "Tú ibas y no volvías." Tres prisioneros: Kisame, la mitad de Zetsu, el que dirigía todo. A Minato: "El enmascarado que atacó la aldea hace dieciséis años... Lo tenemos."
 QUÉ SABE (T1416): por Facundo, se queda unos días, se irá y volverá.
+- T1417 · "Con Obito no sé qué hacer. Mató a Minato y a Kushina, dirigió Akatsuki... Y al mismo tiempo, lo usó alguien que ya no existe." A Facundo: "¿Qué crees que hay que hacer con él?"
