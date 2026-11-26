@@ -16,3 +16,4 @@ ESTADO: activos.
 - T1382 · Sobre Shisui: tenía una técnica en los ojos para cambiar lo que piensa una persona; quería usarla en Fugaku; Hiruzen de acuerdo, Danzō no ("no se podía confiar una técnica así a un Uchiha"); dos días después apareció muerto en el río sin el ojo derecho.
 - T1395 · Homura: "Y el Ocho Colas es Killer Bee. El hermano del Raikage."
 - T1397 · Al oír que Facundo revivirá a los muertos por Danzō: miedo de verdad (los Uchiha revividos). Homura: "¿Revivir?"
+- T1398 · Homura: "Si los Uchiha vuelven... van a volver recordando quién dio la orden. Fugaku va a volver. El golpe..." Sasuke lo calla. Se vuelve a sentar.

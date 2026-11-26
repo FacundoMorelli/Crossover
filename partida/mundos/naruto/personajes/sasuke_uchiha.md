@@ -58,3 +58,4 @@ RELACIÓN CON FACUNDO (T1384): empieza a confiar.
 - T1387 · Levanta la cabeza al oír el nombre de Naruto.
 - T1395 · No desmiente a Suigetsu sobre Bee.
 - T1396 · Al oír "el que ataca a mi familia está muerto", algo se le afloja en la cara.
+- T1398 · A Homura: "Si vuelven, van a volver sabiendo por qué murieron. Y quién los mató. Y quién murió cargando con la culpa de todos." "Itachi." Deja que Karin le apoye la mano en la pierna.

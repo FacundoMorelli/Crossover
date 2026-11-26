@@ -69,3 +69,4 @@ QUÉ SABE (T1395): por Facundo, el plan del Ojo de la Luna y la Estatua con 7 bi
 QUÉ SABE (T1396): por Facundo, mató a la mitad negra de Zetsu porque intentó meterse en su gato.
 - T1397 · "Nagato revivió a toda Konoha. Y le costó la vida." "Así que no te voy a decir que es imposible. Ya no sé qué es imposible." "Todos los muertos por Akatsuki. Los jinchūriki. Los de la Hierba, los de la Arena..." Con lágrimas, sin esconderlas: "¿Jiraiya también?"
 QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y revivirá a los muertos por Danzō y Akatsuki.
+- T1398 · Llora en silencio con la mano en la boca: "Jiraiya." Se recompone. "Esta mañana tenía una aldea que no existía y gente durmiendo en carpas. Y ahora me dices esto." "Facundo. ¿Cuándo?"

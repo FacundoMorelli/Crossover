@@ -1396,3 +1396,4 @@ T1394 · NARUTO · Carpa de mando · Lleva al Zetsu blanco. Tsunade: "Cinco. ¿Y
 T1395 · NARUTO · Carpa de mando · Cuenta lo que dijo Zetsu negro (Ojo de la Luna, Estatua con 7 bijū). Suigetsu: Killer Bee se escapó, era un tentáculo. Tsunade: "¿Dónde está la Estatua? ¿Y la otra mitad?"
 T1396 · NARUTO · Carpa de mando · "Lo maté. Intentó meterse en mi gato. El que ataca a mi familia está muerto." Tsunade: "Uno menos." Akatsuki terminado. Queda la Estatua.
 T1397 · NARUTO · Carpa de mando · "Voy a destruir la Estatua, devolver las bestias y revivir a todos los muertos por Danzō y Akatsuki." Homura y Koharu con miedo. Tsunade, con lágrimas: "¿Jiraiya también?"
+T1398 · NARUTO · Carpa de mando · "Todos, también los Uchiha, y la aldea." Tsunade llora ("Jiraiya"). Homura teme el golpe; Sasuke: "van a volver sabiendo quién los mató." Tsunade: "¿Cuándo?"

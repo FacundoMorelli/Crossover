@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1395)
-
-le cuento todo lo que me contó
-
-## RESPUESTA 1 (T1395)
-
-> le cuento todo lo que me contó
-
-Le cuentas todo lo que te dijo la mitad negra de Zetsu.
-
-Que decía ser la voluntad de Madara, creada antes de morir para que su plan siguiera. Que estuvo detrás de Obito y de Nagato todo ese tiempo, susurrándoles. Que el plan se llama Ojo de la Luna: juntar a las nueve bestias con cola dentro de una estatua, la Estatua Demoníaca del Camino Exterior, despertar al Diez Colas y proyectar en la luna un genjutsu infinito para atrapar a toda la humanidad en un sueño. Que ya tienen siete bestias adentro. Que faltan el Ocho Colas y el Nueve Colas. Y que, con Obito inconsciente, solo la mitad negra sabía dónde estaba la Estatua.
-
-Nadie te interrumpe.
-
-Cuando terminas, el silencio en la carpa es distinto al de antes. Más pesado. Hasta Ibiki tiene el pincel quieto sobre el pecho de Kisame.
-
-—El Nueve Colas —dice Tsunade, muy bajo—. Naruto.
-
-—Y el Ocho Colas es Killer Bee —dice Homura, con la voz seca—. El hermano del Raikage.
-
-Suigetsu, en el suelo, levanta una mano.
-
-—Eh. Sobre eso. —Todos se dan vuelta a mirarlo. Él se encoge de hombros—. El Ocho Colas no lo tienen. El de la máscara nos lo dijo hace unos días: lo que nos llevamos de la montaña de la Nube no era el Ocho Colas. Era un tentáculo. El tipo se nos escapó y nos dejó un pedazo de pulpo de recuerdo. —Hace una mueca—. Lo cual, ahora que lo pienso, quiere decir que esos tres de la Nube que andan buscando a Sasuke andan buscando venganza por un secuestro que no pasó.
-
-Sasuke no dice nada. Pero no lo desmiente.
-
-Tsunade se queda mirando a Suigetsu con la boca un poco abierta. Después cierra los ojos.
-
-—Killer Bee está vivo —dice—. Y libre.
-
-—Escondido en algún lado, haciendo rimas, seguramente —murmura Suigetsu.
-
-Tsunade abre los ojos. Se le ha endurecido la cara entera, como cuando dio las órdenes para ir a buscar a Danzō.
-
-—Siete bestias con cola metidas en una estatua, en algún lugar del mundo. —Te mira a ti—. Con Obito dormido y sin la otra mitad de este bicho, nadie sabe dónde está. ¿Es así?
-
-Hace una pausa.
-
-—Y la otra mitad, Facundo. Todavía no me dijiste qué pasó con ella.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1395 · NARUTO · DÍA 1 · 13:57          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1396)
+## COMANDO 1 (T1396)
 
 lo mate, intento meterse en mi gato, el que ataca a mi familia, esta muerto
 
-## RESPUESTA 2 (T1396)
+## RESPUESTA 1 (T1396)
 
 > lo mate, intento meterse en mi gato, el que ataca a mi familia, esta muerto
 
@@ -115,11 +58,11 @@ Se ríe por la nariz, sin ganas.
 
 ---
 
-## COMANDO 3 (T1397)
+## COMANDO 2 (T1397)
 
 yo la voy a destruir y le voy a devolver las bestias a los que la tenían, y voy a revivir a todos los muertos por danzo y akatsuki
 
-## RESPUESTA 3 (T1397)
+## RESPUESTA 2 (T1397)
 
 > yo la voy a destruir y le voy a devolver las bestias a los que la tenían, y voy a revivir a todos los muertos por danzo y akatsuki
 
@@ -178,4 +121,61 @@ Cuando vuelve a mirarte, tiene los ojos color miel llenos de lágrimas, y no hac
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 14:00, carpa de mando. Facundo: destruirá la Estatua, devolverá las bestias a sus jinchūriki y revivirá a todos los muertos por Danzō y Akatsuki. Homura y Koharu, con miedo. Suigetsu: "¿Los que mató Kisame también cuentan?" Tsunade: "Nagato revivió a Konoha y le costó la vida... Ya no sé qué es imposible." Con lágrimas: "¿Jiraiya también?" Facundo tiene que contestar.
+## COMANDO 3 (T1398)
+
+todos, también los uchiha, voy a recuperar todo lo que fue destruido tambien, eso incluido la aldea
+
+## RESPUESTA 3 (T1398)
+
+> todos, también los uchiha, voy a recuperar todo lo que fue destruido tambien, eso incluido la aldea
+
+> —Todos. También los Uchiha. Y voy a recuperar todo lo que fue destruido. Eso incluye la aldea.
+
+Tsunade se tapa la boca con la mano.
+
+No llora en voz alta. Solo se le cae una lágrima, después otra, y se queda así, con la mano sobre la boca y los ojos cerrados, respirando hondo por la nariz, como quien intenta no romperse delante de todos.
+
+—Jiraiya —dice, contra la palma, apenas.
+
+Ibiki baja la cabeza. Suigetsu, por una vez, no dice nada.
+
+Homura es el que habla. Se pone de pie, muy despacio, apoyándose en el banquito.
+
+—Si los Uchiha vuelven... —La voz le tiembla—. Hokage, si vuelven, van a volver recordando quién dio la orden. Fugaku va a volver. El golpe...
+
+—Si vuelven —lo corta Sasuke, desde el poste, sin levantar la voz—, van a volver sabiendo por qué murieron. Y quién los mató. Y quién murió cargando con la culpa de todos.
+
+Homura se queda callado. Vuelve a sentarse.
+
+Sasuke no te mira. Mira el suelo. Tiene los puños cerrados, y en los nudillos se le marcan los huesos.
+
+—Itachi —dice, muy bajo, como si probara cómo suena el nombre con otra forma.
+
+Karin le apoya la mano en la pierna, desde el suelo. Él no se la saca.
+
+Tsunade baja la mano de la boca. Se pasa el dorso por los ojos, una vez, rápido, y cuando vuelve a mirarte ya es otra vez la Hokage, aunque tenga los ojos rojos.
+
+—La aldea —dice—. Las casas, las calles, la torre. Los Uchiha. Jiraiya. Los jinchūriki. —Respira hondo—. Esta mañana tenía una aldea que no existía y gente durmiendo en carpas. Y ahora me dices esto.
+
+Te sostiene la mirada.
+
+—Facundo. ¿Cuándo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1398 · NARUTO · DÍA 1 · 14:02          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 14:02, carpa de mando. Facundo: revivirá a todos, también a los Uchiha, y reconstruirá todo lo destruido, incluida la aldea. Tsunade llora en silencio ("Jiraiya"). Homura teme que Fugaku vuelva y el golpe; Sasuke: "van a volver sabiendo por qué murieron. Y quién los mató." "Itachi." Karin le apoya la mano en la pierna. Tsunade: "Facundo. ¿Cuándo?" Facundo tiene que contestar.
