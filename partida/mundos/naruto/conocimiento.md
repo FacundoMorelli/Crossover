@@ -118,3 +118,4 @@
 - Tsunade, Kakashi, Sasuke · T1379 · por Facundo: los sellos de supresión deberían frenar a Obito; su técnica sale del ojo derecho y hay que sellárselo; Facundo se quedará cerca.
 - Todo el campamento · T1380 · vio a Sasuke Uchiha caminar con la Hokage y el forastero del gato hacia la carpa de mando. Rumor público.
 - Homura, Koharu · T1380 · ven a Sasuke en persona; él les exige el porqué de la masacre.
+- Tsunade, Sasuke, Facundo · T1381 · por Homura y Koharu (confesión): el clan Uchiha planeaba un golpe; Hiruzen quería negociar; Danzō impulsó la masacre; Homura y Koharu votaron con Danzō; Itachi fue el espía y aceptó a cambio de que Sasuke viviera.

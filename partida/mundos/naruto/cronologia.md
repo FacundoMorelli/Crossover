@@ -32,3 +32,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1365 · Día 1 12:50 · CAMBIO MAYOR: Tobi inconsciente en manos de Facundo, antes de la Cumbre de los Kages. Sin Tobi, no hay declaración de guerra (de momento). Zetsu negro, suelto.
 - T1370 · Día 1 12:58 · CAMBIO MAYOR: Sasuke acepta ir a Konoha con Facundo (con Taka), con la condición de ver a Homura y Koharu cara a cara.
 - T1371 · Día 1 13:00 · Sasuke Uchiha en Konoha (carpa de la Hokage), por primera vez desde que desertó. Obito inconsciente en Konoha.
+- T1381 · Día 1 13:28 · Homura y Koharu confiesan ante la Hokage y Sasuke la verdad de la masacre Uchiha (canon: nunca ante Sasuke).

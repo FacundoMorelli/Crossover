@@ -12,3 +12,4 @@ ESTADO: activos.
 - T1339 · Al oír lo de los Sharingan del brazo, se miran entre ellos (saben algo de la masacre). Koharu: "No sabíamos lo del brazo."
 - T1340 · Retenidos por Tsunade en la carpa de mando hasta nuevo aviso.
 - T1380 · Ven entrar a Sasuke con Tsunade. A Koharu se le cae el cuenco de té. Homura, inmóvil, anteojos caídos. Sasuke les exige el porqué de la masacre.
+- T1381 · CONFIESAN ante Tsunade y Sasuke. Homura: "El clan Uchiha planeaba un golpe de Estado... Fugaku, tu padre, iba a tomar el control de la aldea por la fuerza." Koharu: "Hiruzen quería negociar... Danzō decía que habría una guerra civil." Homura: "Y nosotros le dimos la razón a Danzō. Los dos. Votamos con él." "Itachi era nuestro espía dentro del clan... aceptó, con una sola condición. Que a ti no te tocaran." Koharu: "No les pedimos perdón. Elegimos la aldea por encima de un clan... Elegimos quién muere para que vivan los demás."

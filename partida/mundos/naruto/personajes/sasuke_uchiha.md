@@ -44,3 +44,5 @@ ESTADO: en Konoha (carpa de la colina), T1371.
 - T1378 · Repite "Naruto" en voz muy baja.
 - T1379 · Sale de la carpa de la colina hacia la reunión con Homura y Koharu. Mirada muda con Kakashi.
 - T1380 · Cruza el campamento con Tsunade (todos lo ven). Ante Homura y Koharu, sin espada ni Sharingan: "Ustedes son Homura Mitokado y Koharu Utatane. Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan."
+- T1381 · Escucha la confesión sin moverse. Activa el Mangekyō; costillas violetas de Susanoo a medio formar alrededor del pecho, encendiéndose y apagándose: lucha por contenerse.
+PODER VISTO POR FACUNDO (T1381): Mangekyō, Susanoo (parcial).

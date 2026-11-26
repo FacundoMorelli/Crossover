@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1378)
-
-muerto, si no me equivoco
-
-## RESPUESTA 1 (T1378)
-
-> muerto, si no me equivoco
-
-> —Muerto, si no me equivoco.
-
-Tsunade suelta el aire por la nariz, largo. Se le aflojan los hombros apenas, lo justo para que se note.
-
-—Muerto. —Se pasa una mano por la cara—. Bien. Por lo menos una cosa en este día que no tengo que arreglar yo.
-
-Vuelve a la mesa baja, se sirve otro vaso de sake y esta vez no se lo toma. Lo deja ahí, delante de ella, mirándolo.
-
-Kakashi sigue arrodillado junto al futón. Ya no tiene la mano temblando. Se la apoya en la rodilla y se queda mirando la cara de Obito, muy quieto.
-
-—Hokage-sama. —No se da vuelta—. Cuando despierte, quiero estar aquí.
-
-—Vas a estar. —Tsunade no lo duda—. Nadie más que tú, yo e Ibiki lo va a ver. Y ni una palabra de quién es fuera de esta carpa hasta que yo decida qué hacer con él. Ni a Naruto. Todavía no.
-
-Sasuke, contra el poste, se cruza de brazos.
-
-—Naruto —repite, en voz muy baja, como si el nombre le hubiera llegado de muy lejos.
-
-Nadie le contesta.
-
-Tsunade gira la cabeza hacia ti.
-
-—Facundo, una cosa. —Señala a Obito con el mentón—. Este hombre atraviesa las cosas y desaparece en el aire. Kakashi dice que su técnica es la misma que la de su ojo. Si le pongo los mejores sellos de supresión de chakra que tenemos, como a Danzō, y se despierta... —Se le endurece la cara—. ¿Lo van a frenar? ¿O se nos va a escapar por la misma espiral por la que vino?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1378 · NARUTO · DÍA 1 · 13:15          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto al futón                         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1379)
+## COMANDO 1 (T1379)
 
 es que no se la respuesta, ponlas en mi boa
 
-## RESPUESTA 2 (T1379)
+## RESPUESTA 1 (T1379)
 
 > es que no se la respuesta, ponlas en mi boa
 
@@ -109,11 +60,11 @@ Tsunade te mira, esperando.
 
 ---
 
-## COMANDO 3 (T1380)
+## COMANDO 2 (T1380)
 
 voy con ellos
 
-## RESPUESTA 3 (T1380)
+## RESPUESTA 2 (T1380)
 
 > voy con ellos
 
@@ -178,4 +129,65 @@ Le tiembla apenas la voz, una sola vez, y la aplasta enseguida.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:24, carpa de mando. Tsunade, Sasuke y Facundo (Kase en el hombro) cruzaron el campamento: todos vieron a Sasuke Uchiha con la Hokage (rumor corriendo). En la carpa, Homura y Koharu (retenidos desde la mañana). A Koharu se le cae el cuenco. Sasuke: "Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan." Facundo puede actuar.
+## COMANDO 3 (T1381)
+
+miro
+
+## RESPUESTA 3 (T1381)
+
+> miro
+
+Durante un rato largo, ninguno de los dos viejos contesta.
+
+Koharu mira el té derramado en el suelo. Homura se acomoda los anteojos, despacio, con dos dedos, y es lo único que hace.
+
+—Contesten —dice Tsunade, de brazos cruzados junto a la entrada—. Esta mañana les pregunté si sabían lo del brazo de Danzō y me dijeron que no. Ahora el muchacho les pregunta otra cosa. Y esta vez quiero la verdad entera.
+
+Homura es el que habla primero. Lo hace sin levantar la voz, con el tono de alguien que repitió algo tantas veces en su cabeza que ya no le suena a nada.
+
+—El clan Uchiha planeaba un golpe de Estado. —Mira a Sasuke a los ojos, y no aparta la vista—. Después del ataque del Nueve Colas, la aldea desconfió de ellos. Los apartaron, los mandaron a vivir al borde de Konoha, los vigilaron. Y ellos se cansaron. Fugaku, tu padre, iba a tomar el control de la aldea por la fuerza.
+
+Sasuke no se mueve.
+
+—Hiruzen quería negociar —sigue Koharu, sin levantar la vista del suelo—. Quería tiempo. Creía que podía convencerlos. Danzō no. Danzō decía que si los Uchiha se levantaban, habría una guerra civil, y que las otras aldeas aprovecharían para atacarnos. Que moriría mucha más gente.
+
+—Y nosotros le dimos la razón a Danzō —dice Homura—. Los dos. Votamos con él.
+
+Le tiembla apenas el cuenco vacío en las manos.
+
+—Itachi era nuestro espía dentro del clan. Danzō le dio la misión. Y él la aceptó, con una sola condición. —Homura hace una pausa—. Que a ti no te tocaran. Que te dejaran vivir. Hiruzen se lo prometió.
+
+—No les pedimos perdón —dice Koharu, y por fin levanta la cara. Tiene los ojos húmedos y la boca dura—. Elegimos la aldea por encima de un clan. Si volviéramos atrás, quizá elegiríamos lo mismo. Es lo que hacemos los que estamos en el consejo. Elegimos quién muere para que vivan los demás.
+
+El silencio en la carpa es tan pesado que se oye el goteo del té en las tablas.
+
+Sasuke sigue sin moverse.
+
+Después, muy despacio, se le encienden los ojos.
+
+No las tres comas. Las aspas. El Mangekyō. Y alrededor de su cuerpo, en el aire, empieza a aparecer algo: un contorno de huesos violetas, costillas de chakra que se dibujan solas alrededor de su pecho, crepitando, a medio formar. Las tablas del suelo debajo de sus pies crujen.
+
+—Sasuke —dice Tsunade, en voz baja y firme, sin moverse de la entrada—. Me prometiste algo.
+
+Sasuke no le contesta. Le tiembla todo el cuerpo. Las costillas violetas se encienden, se apagan, se vuelven a encender, como si él mismo estuviera tratando de aplastarlas y no pudiera.
+
+Homura no se mueve. Koharu cierra los ojos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1381 · NARUTO · DÍA 1 · 13:28          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión con Homura y Koharu        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:28, carpa de mando. Homura y Koharu confiesan ante Tsunade y Sasuke: golpe de Estado de Fugaku; Hiruzen quería negociar; Danzō, guerra civil; ellos votaron con Danzō; Itachi espía, aceptó con la condición de que Sasuke viviera (Hiruzen lo prometió). Koharu: "No les pedimos perdón. Elegimos la aldea." Sasuke activa el Mangekyō; costillas de Susanoo a medio formar, temblando; lucha por contenerse. Tsunade: "Me prometiste algo." Facundo puede actuar.

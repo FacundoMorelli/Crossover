@@ -52,3 +52,5 @@ QUÉ SABE (T1377): deduce que Madara sobrevivió al Valle del Fin con células d
 QUÉ SABE (T1378): por Facundo, Madara está muerto.
 - T1379 · Ordena: sellos de supresión en todo el cuerpo de Obito, venda sellada en el ojo derecho, Facundo y Kakashi cerca ("quiero que lo primero que vea sea la cara del hombre al que le dejó el otro ojo"). Ibiki vendrá a sellarlo. A Sasuke: "Vamos a cumplir tu condición. Homura y Koharu siguen en la carpa de mando." "Tú, yo y Facundo. Kakashi se queda aquí con él."
 - T1380 · Lleva a Sasuke por el campamento sin esconderlo. A un ANBU que lleva la mano al tantō: "Quieto. Viene conmigo."
+- T1381 · "Esta vez quiero la verdad entera." Ante el Susanoo naciente: "Sasuke. Me prometiste algo."
+QUÉ SABE (T1381): por Homura y Koharu, la verdad de la masacre Uchiha (golpe de Estado, voto con Danzō, Itachi espía, condición de salvar a Sasuke).
