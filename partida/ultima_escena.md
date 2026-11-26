@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1348)
-
-asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
-
-## RESPUESTA 1 (T1348)
-
-> asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
-
-> —Así que tú eres Naruto. Mucho gusto. Me llamo Facundo Morelli.
-
-—¿Eh? ¿Me conoces? —A Naruto se le iluminan los ojos de golpe, y las lágrimas se le secan solas—. ¡Claro que me conoces! ¡Ahora soy famoso! ¡Hasta la señora de la fila del arroz me dio doble porción! ¡De veras!
-
-Se pone las manos en la nuca y se ríe, colorado.
-
-—Él te despertó, Naruto —dice Tsunade.
-
-Naruto deja de reírse.
-
-—¿Qué?
-
-—Me dio una semilla. Una sola. Y abrí los ojos. —Señala con el mentón hacia el este—. Y a cuarenta y tres heridos graves de la carpa del este. Y después encontró lo que Danzō escondía en el brazo, y lo bajó del aire cuando se quería escapar.
-
-Naruto se te queda mirando con la boca abierta. Después mira a Kakashi. Kakashi asiente, una vez.
-
-Naruto se te tira encima.
-
-No es un ataque: es un abrazo, brusco y torpe, con los dos brazos alrededor de tu cintura, la cara aplastada contra tu sobretodo lleno de agujeros. Huele a tierra, a sudor y a ramen.
-
-—¡Gracias! —grita, con la voz amortiguada contra tu ropa—. ¡Gracias, gracias, gracias! ¡La abuela es una vieja gritona que me pega cada vez que puede, pero es nuestra vieja gritona!
-
-—¡¿Cómo que vieja?! —ruge Tsunade.
-
-Naruto se separa de un salto y se esconde detrás de Kakashi, riéndose.
-
-Entonces ve a Kase.
-
-—¡Whoa! ¡¿Qué es eso?! ¡Es el gato más grande que vi en mi vida! ¡Tiene los ojos como los tuyos! —Se acerca de puntillas, con la mano estirada—. Hola, gatito... gatito, gatito...
-
-Kase lo mira. Lo mira de arriba abajo, despacio, con el ojo rojo y el ojo azul. Después gira la cabeza para el otro lado, con todo el desprecio del que es capaz un gato, y se pone a lamerse una pata.
-
-Naruto se queda con la mano en el aire.
-
-—...¿Me está ignorando?
-
-—Te está ignorando —dice Kakashi.
-
-Naruto resopla, baja la mano y se vuelve hacia ti, con los puños apretados y los ojos brillando otra vez.
-
-—¡Oye, oye, Facundo! ¿Es verdad lo que dicen en el campamento? ¿Que tumbaste a todo Raíz sin moverte? ¿Y que le ganaste al cejotas de un solo golpe? —Se acerca tanto que casi te pisa—. ¡¿Cómo lo hiciste?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1348 · NARUTO · DÍA 1 · 11:29          ║
-║ Konoha · lado oeste · borde del cráter       ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1349)
+## COMANDO 1 (T1349)
 
 con mi fuerza
 
-## RESPUESTA 2 (T1349)
+## RESPUESTA 1 (T1349)
 
 > con mi fuerza
 
@@ -131,11 +64,11 @@ Naruto se queda a tu lado, con las manos en la nuca. Te mira. Mira a Kase. Kase 
 
 ---
 
-## COMANDO 3 (T1350)
+## COMANDO 2 (T1350)
 
 esta bien
 
-## RESPUESTA 3 (T1350)
+## RESPUESTA 2 (T1350)
 
 > esta bien
 
@@ -194,4 +127,53 @@ Los tazones llegan humeando. Naruto separa los palillos con los dientes, se mete
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:48, puesto de Ichiraku (carpa junto a la tarima). Naruto lo llevó a comer; la gente ya lo saluda. Teuchi invita (doble huevo, "no acepto un no"). Ayame le dio cerdo a Kase y Kase lo comió (Naruto indignado). Naruto, con la boca llena: "¿De dónde eres? ¿Hay más gente como tú en tu aldea?" Facundo tiene que contestar.
+## COMANDO 3 (T1351)
+
+no creo, soy un viajero
+
+## RESPUESTA 3 (T1351)
+
+> no creo, soy un viajero
+
+> —No creo. Soy un viajero.
+
+—Un viajero... —repite Naruto.
+
+Se queda con los palillos quietos en el aire, a medio camino de la boca. Los fideos se le resbalan y caen de vuelta al tazón.
+
+—Mi maestro también era viajero. —Lo dice más bajo, mirando el caldo—. El Sabio Pervertido. Jiraiya. Se la pasaba yendo de un lado para otro, escribiendo sus libros raros y espiando en los baños de las termas. Decía que un ninja tiene que ver el mundo para entenderlo.
+
+Teuchi deja de revolver la olla. Ayame baja la vista al cebollín.
+
+—Fue a pelear contra Pain antes que nadie. Solo. —Naruto aprieta los palillos—. No volvió.
+
+Durante un momento solo se oye hervir la olla. Kase deja de comer y levanta la cabeza hacia Naruto. Lo mira un rato, con el ojo rojo y el ojo azul. No se le acerca. Pero tampoco le da la espalda.
+
+Naruto se sorbe la nariz, fuerte, y se pasa el brazo por los ojos.
+
+—¡Bueno! ¡No importa! —Se mete un bocado enorme de fideos, tan grande que casi se ahoga—. ¡Él me enseñó a no rendirme nunca, y eso es lo que voy a hacer! ¡Voy a ser Hokage, y voy a terminar lo que él empezó! ¡De veras!
+
+Ayame sonríe sin levantar la cabeza. Teuchi vuelve a revolver.
+
+Naruto traga, se limpia la boca con la manga y te mira de costado.
+
+—Oye. Los viajeros siempre se van, ¿no? —Lo pregunta como si no le importara mucho, pero no te saca los ojos de encima—. ¿Te vas a quedar un tiempo en Konoha, o te vas pronto?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1351 · NARUTO · DÍA 1 · 11:53          ║
+║ Konoha · campamento · puesto de Ichiraku     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el mostrador                        ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Carpa de mando esta noche          ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:53, Ichiraku. "No creo, soy un viajero." Naruto recuerda a Jiraiya (viajero, murió contra Pain, "no volvió"). Kase lo mira sin darle la espalda. Naruto se repone: "¡Voy a ser Hokage y terminar lo que él empezó!" Pregunta: "¿Te vas a quedar un tiempo en Konoha, o te vas pronto?" Facundo tiene que contestar.

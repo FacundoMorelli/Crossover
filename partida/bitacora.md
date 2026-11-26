@@ -1349,3 +1349,4 @@ T1347 · NARUTO · Borde oeste · "¿Cómo se llama el que venció a Pain?" Tsun
 T1348 · NARUTO · Borde oeste · "Así que tú eres Naruto. Me llamo Facundo Morelli." Tsunade le cuenta lo de Facundo. Naruto lo abraza ("¡es nuestra vieja gritona!"). Kase lo ignora. "¿Cómo lo hiciste?"
 T1349 · NARUTO · Borde oeste · "Con mi fuerza." Naruto lo desafía; Tsunade: "Primero yo" (otro día). Deja a Naruto con él. Esta noche, carpa de mando. Naruto: "¿Tienes hambre? Ichiraku armó un puesto."
 T1350 · NARUTO · Ichiraku · Naruto lo lleva al ramen; la gente lo saluda. Teuchi invita. Kase come de la mano de Ayame. Naruto: "¿De dónde eres?"
+T1351 · NARUTO · Ichiraku · "Soy un viajero." Naruto recuerda a Jiraiya ("No volvió"). Se repone. "¿Te vas a quedar un tiempo en Konoha?"

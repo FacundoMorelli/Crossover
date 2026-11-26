@@ -23,3 +23,5 @@ QUÉ SABE DE FACUNDO (T1348): nombre (por él). Por Tsunade: la despertó con un
 RELACIÓN CON FACUNDO (T1348): agradecido y entusiasmado.
 - T1349 · "¡Eso no es una respuesta!" "¡Entonces pelea conmigo! ¡Aprendí el Modo Sabio! ¡Le gané a seis Pain!" Tsunade lo manda a hacer fila. Queda a cargo de mostrarle la aldea a Facundo. "¿Tienes hambre? Teuchi, el del Ichiraku, armó un puesto en una carpa al lado de la tarima."
 - T1350 · Lo arrastra de la manga a Ichiraku. "En esta aldea los chismes vuelan más rápido que Lee." Pide tres tazones (dos para él). Indignado porque Kase come de Ayame. "¿De dónde eres? Nunca vi a nadie con el pelo así. Ni con esos ojos. ¿Hay más gente como tú en tu aldea?"
+- T1351 · "Mi maestro también era viajero. El Sabio Pervertido. Jiraiya... Decía que un ninja tiene que ver el mundo para entenderlo." "Fue a pelear contra Pain antes que nadie. Solo. No volvió." Se repone: "¡Voy a ser Hokage, y voy a terminar lo que él empezó! ¡De veras!" "Los viajeros siempre se van, ¿no? ¿Te vas a quedar un tiempo en Konoha, o te vas pronto?"
+QUÉ SABE DE FACUNDO (T1351): es viajero (por él).
