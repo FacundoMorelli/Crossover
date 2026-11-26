@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1332)
-
-le pego a lee conteniendome
-
-## RESPUESTA 1 (T1332)
-
-> le pego a lee conteniendome
-
-Sales del pozo de un paso.
-
-Para los que miran, no hay nada en el medio: estabas abajo y ahora estás frente a Lee, a un palmo, con el puño ya apoyado en su estómago. El viento del movimiento llega después y les sacude la ropa a todos. A Tenten se le vuela una venda de la mano.
-
-El golpe es corto, sin vuelo, casi un empujón. Lo frenas mucho antes de que llegue a ser un golpe de verdad.
-
-Igual alcanza.
-
-Lee se dobla sobre tu puño. Se le escapa todo el aire de una vez, con un ruido como de fuelle. Se le abren los ojos. Te mira desde muy cerca, y lo que tiene en la cara no es dolor: es una sonrisa enorme, de oreja a oreja, como la de alguien que acaba de ver algo que va a contar toda la vida.
-
-—Increíble... —alcanza a decir.
-
-Y se le apagan los ojos. Se le aflojan las piernas.
-
-No llega al suelo. Gai está ahí antes, y lo recibe en los brazos como a un chico dormido. Le pasa dos dedos por el cuello, le revisa la respiración, le mira el estómago. Suelta el aire por la nariz, largo.
-
-—Está bien. Solo desmayado. —Lo acomoda con cuidado sobre una tabla—. Ni una costilla rota. Lo frenaste a propósito.
-
-Mira la cara de su alumno. Lee sigue sonriendo, dormido.
-
-Gai se pone de pie y levanta la mano derecha hacia ti, con el puño cerrado y el pulgar arriba, temblando apenas.
-
-—¡El ganador es... Facundo Morelli!
-
-Nadie aplaude. Los curiosos están demasiado ocupados mirando.
-
-[Duelo ganado: Rock Lee.]
-
-[+12 Fragmentos. +200 EXP.]
-
-Gai baja la mano. Ya no sonríe.
-
-—Y ahora que terminó —dice, muy tranquilo—, te lo pregunto otra vez, con todo respeto, de hombre a hombre. Las Puertas. ¿Dónde las aprendiste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1332 · NARUTO · DÍA 1 · 09:32          ║
-║ Konoha · borde este del cráter               ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común · Primera Puerta abierta ║
-║ Kase: en la viga, junto a Neji               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1333)
+## COMANDO 1 (T1333)
 
 mirando a lee recien, le doy una semilla del ermitaño
 
-## RESPUESTA 2 (T1333)
+## RESPUESTA 1 (T1333)
 
 > mirando a lee recien, le doy una semilla del ermitaño
 
@@ -115,11 +56,11 @@ Gai no llora esta vez. Te mira a ti, largo, con los brazos cruzados. Se le ve en
 
 ---
 
-## COMANDO 3 (T1334)
+## COMANDO 2 (T1334)
 
 desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
 
-## RESPUESTA 3 (T1334)
+## RESPUESTA 2 (T1334)
 
 > desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
 
@@ -172,4 +113,68 @@ Es Shizune, con Tonton en brazos, sin aire, con el pelo pegado en la frente. Se 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 10:47, borde norte. Facundo cerró la Primera Puerta y se despidió del Equipo Gai (Lee: revancha; Gai: "a Kakashi se lo cuento yo"; Neji asintió). Caminó más de una hora (vio de lejos a Naruto rodeado de gente; ANBU de Raíz hacia las carpas grises). Shizune lo alcanza: Tsunade lo llama a la carpa de mando, ahora. "Danzō está ahí." Facundo puede actuar.
+## COMANDO 3 (T1335)
+
+voy con tsunade
+
+## RESPUESTA 3 (T1335)
+
+> voy con tsunade
+
+Sigues a Shizune entre las carpas. Ella camina rápido, casi corriendo, y cada tanto se da vuelta para ver si sigues ahí. Tonton te mira desde sus brazos con desconfianza. Kase lo mira a él con más.
+
+Afuera de la carpa de mando hay más gente que a la mañana. Cuatro ANBU con máscara de la aldea, de un lado de la entrada. Del otro, dos hombres sin máscara pero con la cara igual de vacía: uno rubio, de pelo largo atado, y otro con capucha y anteojos oscuros, con la piel llena de puntitos negros que se mueven. Los dos te siguen con la cabeza al pasar, al mismo tiempo, como si fueran uno.
+
+Shizune levanta la lona.
+
+Adentro, el aire está pesado. Tsunade está sentada detrás de la mesa hecha con una puerta vieja, con los codos apoyados y los dedos entrelazados frente a la boca. Ya tiene puesto el abrigo de Hokage como corresponde. A su derecha, de pie, Kakashi, con las manos en los bolsillos. A su izquierda, sentados en dos banquitos, un viejo de anteojos con el pelo blanco atado y una vieja de moño gris, los dos con la espalda muy derecha y cara de haber discutido mucho.
+
+Y frente a la mesa, de pie, apoyado en un bastón, hay un anciano.
+
+Tiene media cara vendada, el ojo derecho tapado, y el brazo derecho metido entero en la ropa, como si no lo tuviera. En el mentón, una cicatriz en forma de cruz. El ojo que se le ve es negro, quieto y frío como el agua de un pozo.
+
+Se da vuelta cuando entras. No del todo: solo la cabeza.
+
+╔══════════════════════════════════════════════╗
+║ DANZŌ SHIMURA                                ║
+║ Líder de Raíz · Sexto Hokage designado       ║
+║ PODER: Estilo Viento, invocación,            ║
+║        ninjutsu de sellos                    ║
+║        Bajo las vendas: sin datos            ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+╚══════════════════════════════════════════════╝
+
+Te mira de arriba abajo, sin apuro. El pelo, los ojos, la cicatriz, los tatuajes del cuello, el gato. Se detiene un segundo en tus ojos.
+
+—Así que este es —dice. La voz es seca, baja, sin ninguna emoción—. El viajero que reparte milagros.
+
+—Facundo —dice Tsunade, sin descruzar los dedos—. Te presento a Danzō Shimura. Danzō, Facundo Morelli. El hombre que, en una mañana, hizo más por esta aldea que tú en treinta años.
+
+Danzō no reacciona al insulto. Ni siquiera parpadea.
+
+—En una mañana —repite—, un desconocido sin aldea, sin banda y sin registro curó a la Hokage, a medio hospital, limpió un terreno con una técnica que nadie reconoce, abrió las Puertas Internas frente a Maito Gai y derrotó a su alumno con un solo golpe. Todo el campamento habla de ti desde hace una hora.
+
+Golpea el suelo con la punta del bastón, una sola vez.
+
+—Yo no creo en los milagros, Facundo Morelli. Creo en las intenciones. —El ojo visible se queda clavado en el tuyo—. Así que te lo voy a preguntar una sola vez, y delante de la Hokage, para que nadie diga que lo hice a escondidas. ¿Quién te envió?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1335 · NARUTO · DÍA 1 · 10:55          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 10:55, carpa de mando. Presentes: Tsunade (sentada, abrigo de Hokage), Kakashi (de pie), Homura y Koharu (banquitos), Danzō (de pie, bastón). Afuera: 4 ANBU de la aldea, Fū y Torune. Tsunade presenta a Facundo ("hizo más en una mañana que tú en treinta años"). Danzō enumera todo lo que hizo (rumores) y pregunta: "¿Quién te envió?" Facundo tiene que contestar.

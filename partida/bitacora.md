@@ -1333,3 +1333,4 @@ T1331 · NARUTO · Pozo del borde este · "No, pero déjame atacarte." Abre la P
 T1332 · NARUTO · Borde este · Golpe contenido al estómago: Lee se desmaya sonriendo ("Increíble..."). Gai: "El ganador es Facundo Morelli." +12 F, +200 EXP. Gai: "Las Puertas. ¿Dónde las aprendiste?"
 T1333 · NARUTO · Borde este · "Mirando a Lee, hace un rato." Le da una semilla a Lee: curado, salta. Neji: ni el Sharingan copia las Puertas. Gai: "Kakashi se va a poner furioso. Y yo quiero ver eso."
 T1334 · NARUTO · Borde este → norte · Cierra la Puerta, se despide del Equipo Gai (Lee: revancha; Gai se lo contará a Kakashi; Neji asiente). Camina una hora; ve a Naruto de lejos. Shizune: Tsunade lo llama a la carpa de mando. "Danzō está ahí."
+T1335 · NARUTO · Carpa de mando · Llega con Shizune. Fū y Torune afuera. Tsunade, Kakashi, Homura, Koharu y Danzō. Tasación de Danzō (bajo las vendas: sin datos). Danzō: "Yo no creo en los milagros. Creo en las intenciones. ¿Quién te envió?"

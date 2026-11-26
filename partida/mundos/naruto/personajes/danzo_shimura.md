@@ -9,3 +9,6 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: probablemente rumores del campamento (mil brazos, semillas, duelo con Lee) por Raíz; sin confirmar quién se lo dijo. Por Tsunade (T1334, reunión): lo de las semillas.
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: en la carpa de mando con Tsunade (T1334).
+- T1335 · Día 1 10:55 · Carpa de mando. "Así que este es. El viajero que reparte milagros." Enumera: curó a la Hokage y a medio hospital, limpió un terreno con una técnica que nadie reconoce, abrió las Puertas frente a Gai, venció a Lee de un golpe. "Todo el campamento habla de ti desde hace una hora." "Yo no creo en los milagros, Facundo Morelli. Creo en las intenciones." "¿Quién te envió?"
+TASACIÓN (T1335): Estilo Viento, invocación, sellos; bajo las vendas sin datos; mínima; x0,01.
+RELACIÓN CON FACUNDO: desconfianza fría.

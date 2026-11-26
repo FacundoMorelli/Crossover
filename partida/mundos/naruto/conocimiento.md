@@ -56,3 +56,6 @@
 - Gai · T1334 · piensa contarle a Kakashi lo de las Puertas (motivo: rivalidad).
 - Shizune · T1334 · lo busca por orden de Tsunade.
 - Danzō · T1334 · por Raíz (ANBU que circulan por el campamento; rumor público): forastero del gato, mil brazos, semillas que curan, venció a Lee. Por la reunión con Tsunade: las semillas. FUENTE: rumores públicos (noticias.md) + Tsunade.
+- Danzō · T1335 · sabe (rumor público del campamento + informes de Raíz + Tsunade): curó a la Hokage y al hospital, limpió el terreno sur con técnica desconocida, abrió las Puertas frente a Gai, venció a Lee de un golpe. Sin registro, sin aldea.
+- Homura, Koharu · T1335 · lo mismo, por la reunión.
+- Fū, Torune · T1335 · lo vieron entrar.
