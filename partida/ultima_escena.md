@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1336)
-
-nadie, soy un viajero
-
-## RESPUESTA 1 (T1336)
-
-> nadie, soy un viajero
-
-> —Nadie. Soy un viajero.
-
-Danzō no se mueve. Durante un rato largo, solo te mira con el ojo que tiene.
-
-—Un viajero —repite—. Sin aldea, sin nombre que nadie conozca, sin pasado. Con técnicas que no figuran en ningún archivo de las cinco naciones, y bolsillos llenos de algo que vale más que un ejército. —Inclina apenas la cabeza—. Los viajeros así no existen, Facundo Morelli. Existen los espías, los desertores y los que vienen a cobrarse algo más adelante.
-
-—Danzō —dice Tsunade, con voz de advertencia.
-
-—Hokage. —Él no se da vuelta para mirarla—. Con todo respeto, hace tres horas que estás despierta. Yo estuve despierto estos dos días, mientras la aldea no tenía cabeza. Y en estos dos días aprendí algo: después de Pain, lo que llega a esta aldea no llega por casualidad.
-
-Homura carraspea. Koharu baja la vista.
-
-Danzō golpea el suelo con el bastón una vez más.
-
-—Fū.
-
-La lona de la entrada se corre sin ruido. El hombre rubio de pelo largo entra y se para detrás de ti, a un paso, con las manos sueltas a los costados. Kase gira la cabeza para mirarlo y le aplana las orejas.
-
-—Fū es del clan Yamanaka —dice Danzō—. Puede entrar en la mente de un hombre y ver lo que vio. Si de verdad nadie te envió, no tienes nada que esconder. Un minuto, y sales de esta carpa como un héroe, con mi palabra delante de todos.
-
-—¡No es tu decisión! —Tsunade golpea la mesa con la palma. La puerta vieja cruje—. Este muchacho me salvó la vida, y no vas a meterle las manos en la cabeza como si fuera un prisionero de guerra.
-
-—No se lo ordeno a él, Hokage. —Danzō por fin la mira—. Se lo pido. —Y vuelve a mirarte a ti—. ¿Lo permites?
-
-Kakashi saca las manos de los bolsillos, despacio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1336 · NARUTO · DÍA 1 · 10:56          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1337)
+## COMANDO 1 (T1337)
 
 esta bien, que lo haga+
 
-## RESPUESTA 2 (T1337)
+## RESPUESTA 1 (T1337)
 
 > esta bien, que lo haga+
 
@@ -125,11 +74,11 @@ Danzō ni pestañea.
 
 ---
 
-## COMANDO 3 (T1338)
+## COMANDO 2 (T1338)
 
 no para nada, pero te puedo preguntar que tienes debajo de ese brazo? el que tienes cubierto
 
-## RESPUESTA 3 (T1338)
+## RESPUESTA 2 (T1338)
 
 > no para nada, pero te puedo preguntar que tienes debajo de ese brazo? el que tienes cubierto
 
@@ -180,4 +129,67 @@ Tsunade suelta el aire por la nariz, largo. Se queda mirando la lona por donde s
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:00, carpa de mando. Facundo aceptó la vigilancia y preguntó por el brazo cubierto de Danzō. Danzō: "Una herida de guerra." "Cada hombre tiene sus vendas." Raíz lo seguirá. Danzō parte mañana al País del Hierro (Cumbre de los Kages): "Ahí se va a decidir quién habla por Konoha." Se fue con Fū. Tsunade: "¿Y eso del brazo a qué vino?" Facundo puede contestar.
+## COMANDO 3 (T1339)
+
+en ese brazo tiene los mismos ojos que tiene kakashi en el izquierdo, pero no uno, varios
+
+## RESPUESTA 3 (T1339)
+
+> en ese brazo tiene los mismos ojos que tiene kakashi en el izquierdo, pero no uno, varios
+
+> —En ese brazo tiene los mismos ojos que tiene Kakashi en el izquierdo. Pero no uno. Varios.
+
+Nadie se mueve.
+
+Kakashi es el primero. Se le borra de golpe todo lo que tenía de perezoso. La mano le sube sola hasta la banda que le tapa el ojo izquierdo y se queda ahí, apoyada, sin levantarla.
+
+—¿Sharingan? —Le sale muy bajo—. ¿En el brazo?
+
+Homura se queda con los anteojos en la mano, a medio poner. Koharu levanta la cabeza de golpe y lo mira a él, no a ti. Se miran entre ellos un segundo, los dos viejos, y en esa mirada hay algo que ninguno de los dos dice.
+
+Tsunade se pone de pie despacio. Apoya las dos palmas en la mesa.
+
+—Varios —repite—. ¿De dónde saca un hombre varios Sharingan?
+
+—Solo hay un lugar —dice Kakashi. No te mira: mira la lona por donde salió Danzō—. La noche de la masacre de los Uchiha, a los cuerpos les faltaban los ojos. A muchos. Siempre se pensó que había sido Itachi. Que se los había llevado él. —Se queda callado un momento—. Nunca se encontraron.
+
+La carpa se queda en silencio. Afuera, a lo lejos, alguien martilla una tabla.
+
+Shizune, en la entrada, se tapa la boca con la mano. Tonton se esconde debajo de su brazo.
+
+Kakashi gira la cabeza hacia ti. Te mira con el ojo visible, largo.
+
+—¿Cómo sabes eso?
+
+No espera la respuesta. Niega con la cabeza, como si se contestara solo, y vuelve a mirar la salida.
+
+Tsunade aprieta los dedos sobre la mesa. La madera de la puerta vieja cruje bajo sus palmas, y se le abre una grieta fina desde la mano derecha hasta el borde.
+
+—Homura. Koharu. —No los mira—. Ustedes estuvieron en el consejo cuando pasó lo de los Uchiha. ¿Sabían algo de esto?
+
+Los dos viejos no contestan enseguida. Ese silencio también dura un segundo de más.
+
+—No sabíamos lo del brazo —dice Koharu al fin, con la voz chica.
+
+Tsunade cierra los ojos. Respira. Cuando los abre, te mira a ti.
+
+—Facundo. Si me estás diciendo esto, quiero que estés seguro. Porque lo que voy a hacer con eso no tiene vuelta atrás. —Se le endurece la cara—. ¿Lo estás?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1339 · NARUTO · DÍA 1 · 11:02          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común · vigilado por Raíz      ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:02, carpa de mando (Danzō ya se fue). Facundo reveló que Danzō tiene varios Sharingan en el brazo. Kakashi: los ojos de los Uchiha desaparecieron la noche de la masacre; "¿Cómo sabes eso?" (no espera respuesta). Homura y Koharu se miran; Koharu: "No sabíamos lo del brazo." Tsunade agrieta la mesa: "Si me estás diciendo esto, quiero que estés seguro. Lo que voy a hacer con eso no tiene vuelta atrás. ¿Lo estás?" Facundo tiene que contestar.

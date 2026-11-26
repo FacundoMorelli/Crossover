@@ -9,3 +9,4 @@ QUÉ SABE DE FACUNDO: por Tsunade y Danzō en la reunión: semillas, rumores.
 ESTADO: activos.
 - T1336 · Homura carraspea; Koharu baja la vista cuando Danzō reclama sus dos días de mando.
 - T1338 · Homura limpia sus anteojos; Koharu mira el suelo, tras la salida de Danzō.
+- T1339 · Al oír lo de los Sharingan del brazo, se miran entre ellos (saben algo de la masacre). Koharu: "No sabíamos lo del brazo."

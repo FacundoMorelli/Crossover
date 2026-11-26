@@ -26,3 +26,5 @@ RELACIÓN CON FACUNDO (T1316): desconfianza que se ablanda; lo pone a prueba.
 - T1337 · Media sonrisa: "¿Satisfecho? Ahí tienes tu minuto. Ahora dale tu palabra delante de todos." Deniega la vigilancia de Raíz: "Denegado."
 - T1338 · Mira el hombro derecho de Danzō al oír la pregunta. Después: "¿Y eso del brazo a qué vino?"
 QUÉ SABE (T1338): por Danzō, que él parte mañana a la Cumbre de los Kages en el País del Hierro.
+- T1339 · "¿De dónde saca un hombre varios Sharingan?" Agrieta la mesa. Pregunta a Homura y Koharu si sabían. "Facundo. Si me estás diciendo esto, quiero que estés seguro. Porque lo que voy a hacer con eso no tiene vuelta atrás. ¿Lo estás?"
+QUÉ SABE (T1339): por Facundo, Danzō tiene varios Sharingan en el brazo derecho. Por Kakashi: los ojos de la masacre Uchiha nunca aparecieron.
