@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1382)
-
-le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
-
-## RESPUESTA 1 (T1382)
-
-> le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
-
-Le pones una mano en el hombro a Sasuke.
-
-Las costillas violetas te pasan por el brazo como electricidad fría. No te hacen nada. Sasuke se tensa bajo tu mano, de golpe, como si lo hubieras despertado de algo. Las costillas parpadean una vez más y se apagan. El Susanoo se deshace en el aire, en hilos de humo violeta que se pierden contra la lona.
-
-Sasuke no se da vuelta. Pero no te saca la mano.
-
-> —¿Y qué dicen de Shisui? Él estaba primero en el plan, ¿no?
-
-Homura y Koharu levantan la cabeza a la vez.
-
-—Shisui —repite Koharu, y por primera vez le cambia algo en la cara: no culpa. Algo más viejo y más incómodo—. Shisui Uchiha.
-
-—El amigo de mi hermano —dice Sasuke, sin tono—. Se tiró al río. Dijeron que Itachi lo había matado.
-
-Homura se quita los anteojos y se frota los ojos.
-
-—Shisui vino a ver a Hiruzen unos días antes —dice—. Tenía una técnica en los ojos que nadie más tenía. Podía cambiar lo que piensa una persona sin que esa persona se diera cuenta. Quería usarla en Fugaku. Hacerle abandonar el golpe sin que nadie muriera.
-
-—Hiruzen estuvo de acuerdo —dice Koharu, muy bajo—. Danzō no. Danzō decía que no se podía confiar una técnica así a un Uchiha. Que si fallaba, perderíamos la única oportunidad.
-
-—Y dos días después, Shisui apareció muerto en el río —sigue Homura—. Sin el ojo derecho.
-
-Nadie dice nada durante un segundo.
-
-Tsunade, en la entrada, descruza los brazos muy despacio.
-
-—Sin el ojo derecho —repite.
-
-Se le pone la cara blanca.
-
-—Esta mañana, en las carpas de Raíz, cuando Danzō se quitó las vendas del brazo... Kakashi miró la venda que tiene en el ojo derecho. —Tsunade habla despacio, como si cada palabra le costara—. Y dijo "Shisui".
-
-Sasuke se queda muy quieto bajo tu mano.
-
-—Danzō tiene el ojo de Shisui —dice.
-
-No es una pregunta. Las aspas del Mangekyō se le vuelven a encender, pero esta vez no hay Susanoo. Solo los ojos, fijos, rojos, mirando a Tsunade.
-
-—¿Dónde está Danzō?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1382 · NARUTO · DÍA 1 · 13:30          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión con Homura y Koharu        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1383)
+## COMANDO 1 (T1383)
 
 sigo mirando
 
-## RESPUESTA 2 (T1383)
+## RESPUESTA 1 (T1383)
 
 > sigo mirando
 
@@ -123,11 +58,11 @@ Te mira.
 
 ---
 
-## COMANDO 3 (T1384)
+## COMANDO 2 (T1384)
 
 si
 
-## RESPUESTA 3 (T1384)
+## RESPUESTA 2 (T1384)
 
 > si
 
@@ -197,4 +132,63 @@ Tsunade cierra los ojos y se aprieta el puente de la nariz con dos dedos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:35, carpa de mando. Facundo: "Sí" (revivirá al clan con sus ojos). Sasuke: "Me quedo. En Konoha. Hasta el juicio, hasta que me devuelvan los ojos y hasta que él cumpla." Tsunade: bajo su responsabilidad, sin salir, sin buscar a Danzō, responderá ante Kumo. COPIA: Sharingan y técnicas de Sasuke (+2.000 EXP). Sasuke: su equipo (3) está en la cueva del norte; "Él sabe dónde." Tsunade: "¿Hay algo más que me hayas traído hoy y todavía no me dijiste, Facundo?" Facundo puede contestar.
+## COMANDO 3 (T1385)
+
+por ahora no, ahora voy a ir a buscar a sus compañeros y despues voy a buscar al akatsuki que falta
+
+## RESPUESTA 3 (T1385)
+
+> por ahora no, ahora voy a ir a buscar a sus compañeros y despues voy a buscar al akatsuki que falta
+
+> —Por ahora no. Ahora voy a ir a buscar a sus compañeros, y después voy a buscar al Akatsuki que falta.
+
+Tsunade suelta una risa corta, sin ganas, por la nariz.
+
+—"El que falta." Como quien sale a comprar pan. —Se deja caer en uno de los banquitos, al lado de Koharu, que se corre sin decir nada—. Ve. Tráelos. Y esta noche te quiero en la carpa de la colina, como te dije, con todo lo que tengas para contarme.
+
+—Faltan dos —dice Sasuke.
+
+Lo miras. Él no se mueve de donde está.
+
+—El de la pared es uno. Zetsu. —Se cruza de brazos—. El otro es Kisame Hoshigaki. Un hombre tiburón, de la Niebla. Tiene una espada que come chakra. Cuando salimos a buscar al Ocho Colas, él no vino con nosotros. Tobi lo mandó a otra cosa. No sé adónde.
+
+Tsunade se pasa una mano por la cara.
+
+—Un hombre tiburón. Perfecto.
+
+Te llevas dos dedos a la frente. Kase se acomoda en tu hombro, con las uñas clavadas.
+
+La carpa desaparece.
+
+Aparece la cueva. La misma humedad, el mismo goteo, las mismas antorchas. La sangre de Obito sigue en el suelo, al lado de la marca donde estaba la máscara.
+
+Karin está sentada en una roca con las rodillas contra el pecho. Jūgo, de pie junto a la pared, con los brazos cruzados. Suigetsu, tirado boca arriba en el suelo, con la espada al lado y una botella de agua apoyada en la panza.
+
+Los tres se dan vuelta a la vez.
+
+Karin se levanta de un salto.
+
+—¡¿Y Sasuke?! —Mira detrás de ti, a los costados, al aire—. ¡¿Dónde está Sasuke?! ¡¿Qué le hiciste?!
+
+Suigetsu ni se levanta. Gira la cabeza hacia ti y levanta la botella a modo de saludo.
+
+—Volviste solo. —Mira la cueva vacía—. Eso puede significar dos cosas, y ninguna me gusta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1385 · NARUTO · DÍA 1 · 13:37          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 304.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Traer a Taka; cazar a Zetsu        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:37, cueva de Akatsuki (norte). Facundo le dijo a Tsunade que va por el equipo de Sasuke y después por el Akatsuki que falta. Tsunade: "Ve. Esta noche, carpa de la colina." Sasuke: faltan dos, Zetsu y Kisame Hoshigaki (tiburón de la Niebla, espada que come chakra; Tobi lo mandó a otra cosa). Facundo se teletransportó a la cueva. Karin: "¡¿Dónde está Sasuke?! ¡¿Qué le hiciste?!" Suigetsu: "Volviste solo. Eso puede significar dos cosas, y ninguna me gusta." Facundo tiene que contestar.

@@ -19,3 +19,4 @@ ESTADO: activos.
 - T1370 · Suigetsu: "Sasuke es un renegado... Si pone un pie en Konoha, lo cuelgan. Y a nosotros con él." Karin: "No lo van a colgar. ¿No?" Jūgo espera y se pone de pie detrás de Sasuke cuando él acepta.
 - T1371 · Se quedan en la cueva del norte por orden de Sasuke ("Karin. Quédate."). Suigetsu: "Si en una hora no vuelven, me voy a buscar a Kisame y le digo que todo esto fue idea de ustedes."
 ESTADO: en la cueva del norte, esperando.
+- T1385 · Facundo vuelve solo a la cueva. Karin: "¡¿Y Sasuke?! ¡¿Dónde está Sasuke?! ¡¿Qué le hiciste?!" Suigetsu, tirado con una botella: "Volviste solo. Eso puede significar dos cosas, y ninguna me gusta." Jūgo contra la pared.

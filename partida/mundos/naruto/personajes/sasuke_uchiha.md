@@ -53,3 +53,4 @@ QUÉ SABE (T1382): por los viejos y Tsunade, Danzō le sacó el ojo derecho a Sh
 COPIADO POR FACUNDO (T1384). Sasuke no lo sabe.
 ESTADO: en Konoha bajo responsabilidad de Tsunade (T1384).
 RELACIÓN CON FACUNDO (T1384): empieza a confiar.
+- T1385 · "Faltan dos. El de la pared es uno. Zetsu. El otro es Kisame Hoshigaki. Un hombre tiburón, de la Niebla. Tiene una espada que come chakra... Tobi lo mandó a otra cosa. No sé adónde."
