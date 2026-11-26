@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1392)
-
-no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
-
-## RESPUESTA 1 (T1392)
-
-> no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
-
-> —No me interesa. Yo sé dónde está. ¿Cómo crees que los encontré? Puedo sentir a todo el mundo, no importa qué tan lejos estén.
-
-Zetsu negro se queda inmóvil.
-
-La sonrisa sin dientes se le borra despacio, como tinta que se seca. El ojo amarillo te mira un rato largo, y ya no hay nada amable en él.
-
-—Sentir a todo el mundo —repite—. Sin chakra. Sin ojos. Sin rastro.
-
-Se queda callado. En el bosque solo se oye el viento entre los árboles partidos y, a lo lejos, los martillazos del campamento.
-
-—Entonces no tengo nada que ofrecerte.
-
-Lo dice sin rabia. Casi tranquilo. Como alguien que cierra un libro.
-
-Y salta.
-
-No hacia la tierra. No hacia el árbol, ni hacia la mitad blanca desmayada. Hacia tu hombro. Hacia Kase.
-
-Es rápido, más rápido de lo que pensaste que podía moverse algo tan chico: una mancha negra que se estira en el aire como un látigo, con el ojo amarillo adelante, directo a la cabeza del gato, a los ojos, a la boca, buscando un cuerpo vivo en el que meterse y desde el que poder escapar.
-
-Kase lo ve venir. Se le eriza todo el pelo. Abre la boca y bufa, con las orejas aplastadas, sin moverse de tu hombro.
-
-La oscuridad ya está a un palmo de su cara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1392 · NARUTO · DÍA 1 · 13:51          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.230/320.000               ║
-║ FRAGMENTOS 113.499 · 0 ryo                   ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Zetsu negro                        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1393)
+## COMANDO 1 (T1393)
 
 entiendo, uso eclipse y lo trago antes que haga nada
 
-## RESPUESTA 2 (T1393)
+## RESPUESTA 1 (T1393)
 
 > entiendo, uso eclipse y lo trago antes que haga nada
 
@@ -109,11 +60,11 @@ En el tronco del árbol, la mitad blanca de Zetsu cuelga desmayada, con la boca 
 
 ---
 
-## COMANDO 3 (T1394)
+## COMANDO 2 (T1394)
 
 agarro a zetsu y me teletransporto con tsunade, tengo información
 
-## RESPUESTA 3 (T1394)
+## RESPUESTA 2 (T1394)
 
 > agarro a zetsu y me teletransporto con tsunade, tengo información
 
@@ -168,4 +119,61 @@ Te hace un gesto seco con el mentón.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:53, carpa de mando. Facundo llevó al Zetsu blanco desmayado. Presentes: Tsunade, Sasuke (Karin a sus pies), Jūgo, Suigetsu, Homura, Koharu, Ibiki (sellando a Kisame), Kisame inconsciente, Zetsu blanco. Tsunade: "Cinco. ¿Y la otra mitad?" Facundo: "Tengo información." Tsunade: Ibiki sigue sellando; los demás callados. "Habla." Facundo tiene que hablar.
+## COMANDO 3 (T1395)
+
+le cuento todo lo que me contó
+
+## RESPUESTA 3 (T1395)
+
+> le cuento todo lo que me contó
+
+Le cuentas todo lo que te dijo la mitad negra de Zetsu.
+
+Que decía ser la voluntad de Madara, creada antes de morir para que su plan siguiera. Que estuvo detrás de Obito y de Nagato todo ese tiempo, susurrándoles. Que el plan se llama Ojo de la Luna: juntar a las nueve bestias con cola dentro de una estatua, la Estatua Demoníaca del Camino Exterior, despertar al Diez Colas y proyectar en la luna un genjutsu infinito para atrapar a toda la humanidad en un sueño. Que ya tienen siete bestias adentro. Que faltan el Ocho Colas y el Nueve Colas. Y que, con Obito inconsciente, solo la mitad negra sabía dónde estaba la Estatua.
+
+Nadie te interrumpe.
+
+Cuando terminas, el silencio en la carpa es distinto al de antes. Más pesado. Hasta Ibiki tiene el pincel quieto sobre el pecho de Kisame.
+
+—El Nueve Colas —dice Tsunade, muy bajo—. Naruto.
+
+—Y el Ocho Colas es Killer Bee —dice Homura, con la voz seca—. El hermano del Raikage.
+
+Suigetsu, en el suelo, levanta una mano.
+
+—Eh. Sobre eso. —Todos se dan vuelta a mirarlo. Él se encoge de hombros—. El Ocho Colas no lo tienen. El de la máscara nos lo dijo hace unos días: lo que nos llevamos de la montaña de la Nube no era el Ocho Colas. Era un tentáculo. El tipo se nos escapó y nos dejó un pedazo de pulpo de recuerdo. —Hace una mueca—. Lo cual, ahora que lo pienso, quiere decir que esos tres de la Nube que andan buscando a Sasuke andan buscando venganza por un secuestro que no pasó.
+
+Sasuke no dice nada. Pero no lo desmiente.
+
+Tsunade se queda mirando a Suigetsu con la boca un poco abierta. Después cierra los ojos.
+
+—Killer Bee está vivo —dice—. Y libre.
+
+—Escondido en algún lado, haciendo rimas, seguramente —murmura Suigetsu.
+
+Tsunade abre los ojos. Se le ha endurecido la cara entera, como cuando dio las órdenes para ir a buscar a Danzō.
+
+—Siete bestias con cola metidas en una estatua, en algún lugar del mundo. —Te mira a ti—. Con Obito dormido y sin la otra mitad de este bicho, nadie sabe dónde está. ¿Es así?
+
+Hace una pausa.
+
+—Y la otra mitad, Facundo. Todavía no me dijiste qué pasó con ella.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1395 · NARUTO · DÍA 1 · 13:57          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:57, carpa de mando. Facundo contó (indirecto) lo que dijo Zetsu negro: "voluntad de Madara", Ojo de la Luna, Estatua del Camino Exterior con 7 bijū, faltan 8 y 9, solo él sabía dónde. Tsunade: "Naruto." Homura: el Ocho es Killer Bee. Suigetsu: el Ocho Colas no lo tienen, se escapó dejando un tentáculo (Kumo busca venganza por un secuestro que no pasó). Tsunade: "Killer Bee está vivo. Y libre." "¿Nadie sabe dónde está la Estatua? Y la otra mitad, todavía no me dijiste qué pasó." Facundo tiene que contestar.

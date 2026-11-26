@@ -63,3 +63,5 @@ PROMESA (T1383): juicio público a Danzō; devolver los ojos Uchiha a Sasuke tra
 - T1387 · "Tú sabrás. Muy bien. Yo sabré." "Nadie le va a decir a Naruto que está aquí. Por lo menos hasta que vuelvas." Al ver a Kisame: "Cuatro. Ahora son cuatro."
 QUÉ SABE (T1387): por Facundo, va a interrogar y matar a uno de los Akatsuki restantes ("tiene algo raro dentro"); no quiere que Sasuke vea a Naruto sin él.
 - T1394 · "Cinco. ¿Y la otra mitad?" Ordena silencio a todos y que Ibiki siga sellando. "Habla."
+- T1395 · Oye lo de Zetsu: "El Nueve Colas. Naruto." Al oír a Suigetsu: "Killer Bee está vivo. Y libre." "Siete bestias con cola metidas en una estatua... nadie sabe dónde está. ¿Es así?" "Y la otra mitad, Facundo. Todavía no me dijiste qué pasó con ella."
+QUÉ SABE (T1395): por Facundo, el plan del Ojo de la Luna y la Estatua con 7 bijū. Por Suigetsu: Killer Bee escapó (tentáculo).

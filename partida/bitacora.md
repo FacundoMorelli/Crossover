@@ -1393,3 +1393,4 @@ T1391 · NARUTO · Bosque norte · "Dime todo lo que sabes." Zetsu negro: "Soy l
 T1392 · NARUTO · Bosque norte · "No me interesa, sé dónde está; siento a todo el mundo." Zetsu negro: "No tengo nada que ofrecerte." Salta hacia Kase para meterse en él.
 T1393 · NARUTO · Bosque norte · Eclipse: un punto negro se traga entero a Zetsu negro ("Madre..."). MUERTO. +25 F, +500 EXP. Zetsu blanco desmayado en el árbol.
 T1394 · NARUTO · Carpa de mando · Lleva al Zetsu blanco. Tsunade: "Cinco. ¿Y la otra mitad?" "Tengo información." Tsunade: "Habla."
+T1395 · NARUTO · Carpa de mando · Cuenta lo que dijo Zetsu negro (Ojo de la Luna, Estatua con 7 bijū). Suigetsu: Killer Bee se escapó, era un tentáculo. Tsunade: "¿Dónde está la Estatua? ¿Y la otra mitad?"

@@ -56,3 +56,4 @@ RELACIÓN CON FACUNDO (T1384): empieza a confiar.
 - T1385 · "Faltan dos. El de la pared es uno. Zetsu. El otro es Kisame Hoshigaki. Un hombre tiburón, de la Niebla. Tiene una espada que come chakra... Tobi lo mandó a otra cosa. No sé adónde."
 - T1386 · Frena a Karin con la mano en la frente cuando corre a abrazarlo.
 - T1387 · Levanta la cabeza al oír el nombre de Naruto.
+- T1395 · No desmiente a Suigetsu sobre Bee.
