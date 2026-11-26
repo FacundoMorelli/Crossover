@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1426)
-
-miro
-
-## RESPUESTA 1 (T1426)
-
-> miro
-
-Obito levanta la mano. Le tiembla tanto que casi no llega.
-
-La apoya sobre la de Rin, la que ella tiene en su cara. La aprieta. Cierra el ojo nuevo.
-
-—Hice cosas horribles, Rin. —Le sale ronco, entrecortado—. Después de que te... de que tú... Hice cosas que no tienen perdón. Maté a gente. A mucha gente. Al sensei. A su esposa. Ayudé a matar a un clan entero. Quise... quise borrar el mundo. Porque no estabas.
-
-Rin no le saca la mano de la cara.
-
-—Me lo vas a contar —dice, muy bajo—. Todo. Después.
-
-—No vas a querer escucharlo.
-
-—Me lo vas a contar igual. —Le tiembla la voz, pero no se le quiebra—. Siempre me contabas todo, aunque fuera un desastre. Llegabas tarde y me contabas que habías ayudado a una viejita a cruzar la calle. Siempre.
-
-A Obito se le escapa algo que podría ser una risa. Se le llenan otra vez los ojos.
-
-—Esta vez no ayudé a ninguna viejita.
-
-—Ya lo sé.
-
-Rin se inclina y lo abraza. Así, de costado, sobre el futón, con los brazos alrededor de los hombros de él, la cara en su pelo. Obito se queda rígido un segundo. Después se le cae todo. Se aferra a ella con las dos manos sin fuerza, y llora con la cara contra el hombro de Rin, igual que un chico.
-
-Kakashi se tapa los ojos con la mano. No dice nada.
-
-Minato los mira a los tres. Después, sin decir una palabra, se inclina y los abraza a todos a la vez: a Rin, a Obito, a Kakashi, con los brazos largos, la cabeza baja, los ojos cerrados. El equipo entero, como en la foto de la pared del cuarto de Rin, diecisiete años tarde.
-
-Tsunade se da vuelta y se seca la cara con la manga, de espaldas.
-
-Fugaku no se mueve de la entrada. Tiene los brazos cruzados y la mandíbula apretada. Mira la escena un rato largo. Después baja la vista. No dice nada. Sale de la carpa sin hacer ruido.
-
-Yamato se queda quieto, mirando el suelo.
-
-Pasa un rato largo.
-
-Después Obito levanta la cabeza del hombro de Rin. Tiene la cara roja, mojada, deshecha. Te busca con el ojo nuevo, por encima del brazo de Minato. Te encuentra.
-
-—¿Por qué? —te pregunta, con la voz rota—. Hiciste todo esto. El sensei, Rin, la aldea. Y a mí... a mí me diste un ojo. Después de todo lo que hice. —Le tiembla la boca—. ¿Por qué a mí también?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1426 · NARUTO · DÍA 1 · 16:25          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1427)
+## COMANDO 1 (T1427)
 
 dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
 
-## RESPUESTA 2 (T1427)
+## RESPUESTA 1 (T1427)
 
 > dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
 
@@ -127,11 +64,11 @@ Se pasa la mano por la cara.
 
 ---
 
-## COMANDO 3 (T1428)
+## COMANDO 2 (T1428)
 
 no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
 
-## RESPUESTA 3 (T1428)
+## RESPUESTA 2 (T1428)
 
 > no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
 
@@ -218,4 +155,63 @@ Es Tsunade. Sin el abrigo de Hokage. Con ropa de entrenamiento, el pelo atado en
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 05:48, puerta de la casa de madera de Facundo (borde sur). Simulados 4 días (ver SECRETO sim_dias_1_5_naruto): Kisame preso; Zetsu blanco estudiado; Bee libre; Cumbre suspendida; cartas de los Kages; Gaara visitó a Facundo; Taka con los Uchiha; Naruto con sus padres; Obito barre el barrio Uchiha; juicio de Danzō (Día 4); paz de los cinco Kages → MISIÓN DE MUNDO CUMPLIDA (+20.000 EXP, +500 F), NIVEL 30 (+4 stats, +15 puntos), Corona Orbital, 12/12 mundos completados. Tsunade en la puerta, en ropa de entrenamiento: "Hoy. Campo de entrenamiento tres. Ahora." Facundo puede actuar.
+## COMANDO 3 (T1429)
+
+esta bien
+
+## RESPUESTA 3 (T1429)
+
+> esta bien
+
+> —Está bien.
+
+Kase salta del estante de la ventana a tu hombro, bostezando.
+
+El campo de entrenamiento tres está al borde del bosque del este, recién vuelto a la vida por el deseo de Alba: un claro de pasto húmedo de rocío, tres postes de madera clavados en fila, un río que corre detrás y, a un costado, una piedra negra y pulida, alta como un hombre, con nombres tallados de arriba abajo. La piedra de los caídos. Alguien dejó flores frescas al pie.
+
+No están solos.
+
+No saben cómo se enteraron, pero hay gente. Muchos. Sentados en las ramas de los árboles del borde, parados en la orilla del río, trepados a los postes. Naruto, colgado de una rama baja con las piernas, de cabeza. Kushina, a su lado, con los brazos cruzados y cara de que esto le parece una pésima idea. Minato, apoyado en un árbol. Jiraiya, con una libreta en la mano y un lápiz detrás de la oreja. Lee y Gai, haciendo flexiones mientras esperan. Kakashi, sentado en la piedra de los caídos, leyendo un libro naranja. Sakura, con Shizune, las dos con las manos ya encendidas de verde, por las dudas. Sasuke, en lo alto de un árbol, con Itachi a su lado.
+
+—¡Vamos, abuela! —grita Naruto, de cabeza—. ¡Dale una paliza!
+
+—¡Naruto, a quién le hablas así! —le grita Kushina, y le da un coscorrón.
+
+Tsunade no los mira. Camina hasta el centro del claro, se da vuelta y te espera, con los pies separados y los puños vendados sueltos a los costados.
+
+—Esta mañana desperté a la aldea entera dando una patada en una puerta —dice—. La de Jiraiya. Así que estoy entrada en calor.
+
+—¡Todavía no la arreglé! —grita Jiraiya desde su árbol.
+
+Tsunade lo ignora. Te mira a ti.
+
+—Una cosa antes de empezar. —Se le pone seria la cara—. No te contengas tanto que me aburra. Pero tampoco tan poco que me mates. Hoy me siento de veinte años y quiero seguir sintiéndome así mañana.
+
+Se le enciende el rombo violeta de la frente. Un hilo de chakra le recorre los brazos, por debajo de la piel, y se le concentra en el puño derecho hasta que le brilla.
+
+Y sin avisar, salta.
+
+No hacia ti: hacia arriba. Diez metros. Gira en el aire una vez, con la pierna derecha estirada por encima de la cabeza, y baja como un martillo, el talón primero, directo hacia el lugar donde estás parado.
+
+—¡Patada del Cielo!
+
+El aire silba bajo el talón. Abajo, en las ramas, la gente se agarra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1429 · NARUTO · DÍA 5 · 06:10          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 326.730/360.000               ║
+║ FRAGMENTOS 114.024 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Pelea con Tsunade                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:10, campo de entrenamiento tres (tres postes, río, piedra de los caídos con flores). Público: Naruto (colgado de cabeza), Kushina, Minato, Jiraiya (con libreta), Lee y Gai, Kakashi (sobre la piedra, leyendo), Sakura y Shizune (manos verdes), Sasuke e Itachi (en un árbol). Tsunade: "No te contengas tanto que me aburra. Pero tampoco tan poco que me mates." Rombo encendido. Salta diez metros: "¡Patada del Cielo!" — el talón cae sobre Facundo. Facundo tiene que reaccionar.

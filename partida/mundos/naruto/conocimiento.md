@@ -189,3 +189,4 @@
 - Las cinco aldeas · T1428 · saben que Akatsuki ya no existe, que las bestias volvieron y que en Konoha un viajero con un gato revivió a los muertos. Kumo sabe que Bee no fue secuestrado. Firman la paz.
 - Gaara, Temari, Kankurō · T1428 · conocen a Facundo en persona (Día 3).
 - Toda Konoha · T1428 · asistió al juicio de Danzō: confesiones de Danzō, Homura, Koharu, Obito y Fugaku.
+- Medio Konoha (Naruto, Kushina, Minato, Jiraiya, Lee, Gai, Kakashi, Sakura, Shizune, Sasuke, Itachi y otros) · T1429 · asiste a la pelea Tsunade vs Facundo en el campo tres.
