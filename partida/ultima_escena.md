@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1404)
-
-cereale vos el nombre, sal (el nombre que le pongas)
-
-## RESPUESTA 1 (T1404)
-
-> cereale vos el nombre, sal (el nombre que le pongas)
-
-Te pones de pie frente a las siete esferas. Levantas una mano.
-
-> —¡Sal, Alba!
-
-Las siete estrellas rojas se encienden al mismo tiempo.
-
-La luz sube. No hacia los costados: hacia arriba, en una columna naranja y dorada que sale del centro del círculo y atraviesa el cielo hasta las nubes. El sol de la tarde se apaga. Todo el cráter se pone oscuro de golpe, como si fuera de noche, y el viento se levanta, frío, enorme, en remolino, y arranca las lonas de las carpas más cercanas.
-
-La gente grita. Hay quien se tira al suelo. Hay quien sale corriendo. La mayoría se queda clavada en el lugar, mirando para arriba.
-
-De la columna de luz sale algo.
-
-Una cabeza primero. Grande como una casa. Con cuernos curvos, largos, de un blanco nacarado, y una melena de fuego naranja que le cae por el cuello como si estuviera viva. Después el cuello, largo, cubierto de escamas doradas que brillan como brasas. Y después el cuerpo, que no termina nunca, que se enrosca y se enrosca sobre el cráter entero, por encima de las carpas, por encima de la tarima, por encima de los cinco rostros de piedra del monumento, hasta tapar el cielo de un borde al otro.
-
-El dragón abre los ojos.
-
-Uno es rojo carmesí. El otro, azul hielo.
-
-Kase, en tu hombro, levanta la cabeza y lo mira. No bufa. No se eriza. Se le arquea apenas la punta de la cola, como cuando reconoce algo.
-
-En el suelo, nadie respira. Naruto se cayó de espaldas y se quedó sentado, con la boca abierta. Lee se arrodilló. Akamaru se escondió entero debajo de Kiba. Sasuke está de pie, inmóvil, con el Sharingan encendido sin querer, mirando hacia arriba. Tsunade tiene las dos manos sobre la boca.
-
-El dragón baja la cabeza, despacio, hasta que la tiene a unos metros de ti. Te mira. Su aliento es tibio y huele a madera quemada y a lluvia.
-
-Cuando habla, la voz no sale de su boca. Sale del aire, del suelo, de todas partes a la vez, y la oye todo Konoha.
-
-—YO SOY ALBA. EL QUE ME LLAMÓ ME DIO LA VIDA, Y A ÉL LE RESPONDO. —Los ojos rojo y azul brillan—. PIDE TRES DESEOS, Y LOS CUMPLIRÉ. CUALQUIERA. NO HAY NADA EN ESTE MUNDO QUE NO PUEDA HACER.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1404 · NARUTO · DÍA 1 · 15:11          ║
-║ Konoha · centro del cráter · ALBA            ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Pedir los tres deseos              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1405)
+## COMANDO 1 (T1405)
 
 Primero, deseo que reconstruyas todo el mundo lo que fue destruido
 
-## RESPUESTA 2 (T1405)
+## RESPUESTA 1 (T1405)
 
 > Primero, deseo que reconstruyas todo el mundo lo que fue destruido
 
@@ -125,11 +72,11 @@ Alba abre los ojos.
 
 ---
 
-## COMANDO 3 (T1406)
+## COMANDO 2 (T1406)
 
 deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
 
-## RESPUESTA 3 (T1406)
+## RESPUESTA 2 (T1406)
 
 > deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
 
@@ -196,4 +143,77 @@ Alba baja la cabeza hacia ti.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:16. DESEO 2 CUMPLIDO: Alba revivió a todos los muertos por Akatsuki y Danzō, en sus casas, con sus recuerdos, sin dolor ("de hace tres días y de hace dieciséis años"). Lluvia de chispas por todo el mundo. Visto: Asuma en la puerta de Kurenai ("¿Kurenai?"); el barrio Uchiha se enciende entero (Sasuke inmóvil, Sharingan apagado); Kakashi mira una casa vieja del oeste que se enciende (Minato y Kushina); Tsunade mira la casa de la colina del sapo (Jiraiya), le tiemblan las manos. Alba: "Pide el tercero." Facundo tiene que pedir el tercer deseo. (Lista completa de revividos en SECRETO deseo2_naruto.)
+## COMANDO 3 (T1407)
+
+Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
+
+## RESPUESTA 3 (T1407)
+
+> Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
+
+> —Deseo que destruyas al Diez Colas y les devuelvas las bestias a los que se las quitaron.
+
+Alba levanta la cabeza hacia el cielo oscuro.
+
+—LA ESTATUA ESTÁ MUY LEJOS, DEBAJO DE LA TIERRA, DONDE NADIE LA ENCUENTRA. —Los ojos rojo y azul se le encienden—. NO PARA MÍ.
+
+Cierra los ojos.
+
+No pasa nada durante un segundo.
+
+Después el suelo tiembla. No como antes, no desde Konoha: desde muy lejos, como si en algún lugar del mundo, a cientos de kilómetros, algo enorme se hubiera roto por dentro. Un crujido largo, profundo, que se siente en los pies más de lo que se oye.
+
+Y en el cielo, hacia el noroeste, aparecen siete luces.
+
+Salen del horizonte como cometas, cada una de un color distinto: una arena dorada, una llama azul, una niebla verde, un fuego rojo, un vapor blanco, una burbuja violeta, un brillo de insecto, verde y amarillo. Cruzan el cielo oscuro despacio, a una altura enorme, dejando estelas largas. Se separan. Cada una toma su camino.
+
+La de arena dorada pasa justo por encima de Konoha, tan arriba que es una línea de luz, y se va hacia el oeste, hacia el desierto, hacia el País del Viento. La gente la sigue con la mirada, con la boca abierta, hasta que se pierde.
+
+Naruto se toca el estómago sin darse cuenta.
+
+—Gaara —murmura.
+
+Las siete estelas se pierden en el horizonte, cada una por su lado. Y, lejos, en el noroeste, donde estaba el crujido, el suelo deja de temblar.
+
+Alba abre los ojos.
+
+—CUMPLIDO. LA ESTATUA YA NO EXISTE. EL DIEZ COLAS YA NO EXISTE. CADA BESTIA VOLVIÓ A QUIEN SE LA ARRANCARON.
+
+Baja la cabeza hacia ti una última vez, tan cerca que el calor de su aliento te mueve el pelo.
+
+—LOS TRES DESEOS ESTÁN CUMPLIDOS. ME DISTE LA VIDA PARA ESTO, Y ESTUVO BIEN. —Mira a Kase, en tu hombro, y Kase lo mira a él—. HASTA QUE VUELVAS A LLAMARME.
+
+El cuerpo enorme se deshace en luz dorada, desde la cola hasta la cabeza, en una lluvia de chispas que sube y se pierde. La columna se apaga. Las siete esferas, en el aire, pierden el brillo una por una, se vuelven grises otra vez, piedras de río, y caen al empedrado con siete golpes secos.
+
+El cielo se aclara.
+
+El sol de la tarde vuelve, de golpe, tibio, sobre una Konoha entera, con todos sus techos y todas sus calles, y con miles de personas paradas en el medio, en silencio, mirando hacia arriba.
+
+Nadie dice nada.
+
+Y entonces, al final de la calle que lleva al este, al barrio del abanico rojo y blanco, alguien aparece caminando.
+
+Un hombre joven, de pelo negro largo atado en la nuca, con dos líneas marcadas debajo de los ojos. Lleva ropa de casa, sencilla, y camina despacio, como quien no termina de creer que el suelo esté ahí. Se detiene a unos metros de la multitud.
+
+Mira a Sasuke.
+
+Sasuke se queda completamente quieto.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1407 · NARUTO · DÍA 1 · 15:19          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:19, calle frente a la Torre del Hokage. DESEO 3 CUMPLIDO: Estatua/Diez Colas destruidos (crujido lejano al noroeste); 7 luces de colores cruzaron el cielo hacia sus jinchūriki (la de arena dorada hacia Suna: Naruto, "Gaara"). Alba se despide ("Hasta que vuelvas a llamarme") y se deshace. Las 7 esferas vuelven a ser piedras grises (inactivas un año) y caen al empedrado. Vuelve el sol. Al final de la calle del barrio Uchiha aparece Itachi (ropa de casa) y mira a Sasuke. Sasuke inmóvil. Facundo puede actuar.

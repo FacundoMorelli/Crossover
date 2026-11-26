@@ -66,3 +66,4 @@ RELACIÓN CON NARUTO: reencuentro.
 - T1403 · No se aparta; mira las Esferas inmóvil, con el ojo mojado.
 - T1404 · De pie, inmóvil, con el Sharingan encendido sin querer, mirando a Alba.
 - T1406 · Ve encenderse el barrio Uchiha entero: inmóvil, sin respirar, el Sharingan se le apaga solo. Karin le agarra la manga.
+- T1407 · Ve a Itachi al final de la calle. Inmóvil.

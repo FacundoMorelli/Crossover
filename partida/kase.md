@@ -101,3 +101,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1396 · Abre el ojo azul y mira a todos en la carpa de mando, uno por uno, cuando Facundo dice que mató a quien intentó meterse en él.
 - T1403 · Se aferra al hombro con el pelo flotando hacia arriba mientras Facundo crea las Esferas.
 - T1404 · Mira al dragón Alba (ojo rojo y azul como los suyos) sin bufar; arquea la punta de la cola, como cuando reconoce algo.
+- T1407 · Se mira con Alba en la despedida del dragón.

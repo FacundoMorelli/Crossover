@@ -18,3 +18,4 @@
 - T1404 · Día 1 15:11 · Un dragón gigante, Alba, cubrió el cielo de Konoha. Se vio desde lejos (oscureció el cielo en pleno día).
 - T1405 · Día 1 15:13 · KONOHA RECONSTRUIDA EN UN MINUTO por el dragón del viajero. Una ola de luz dorada se fue por el mundo; en otras aldeas aparecen arregladas cosas que estaban destruidas.
 - T1406 · Día 1 15:16 · LOS MUERTOS VUELVEN: lluvia de luz sobre Konoha y el mundo; en cada casa aparece alguien que había muerto. Se encendió el barrio Uchiha.
+- T1407 · Siete cometas de colores cruzaron el cielo de las cinco naciones. En Suna, una luz de arena dorada cayó sobre el Kazekage.

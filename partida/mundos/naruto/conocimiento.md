@@ -156,3 +156,5 @@
 - TODO KONOHA · T1405 · vio a Alba reconstruir la aldea entera en un minuto por el deseo de Facundo. El resto del mundo ve sus ruinas rehechas sin saber por qué (salvo testigos de la luz dorada).
 - TODO KONOHA · T1406 · vio caer la lluvia de luz y volver a sus casas a los muertos. Público. Los revividos recuerdan cómo murieron (y quién los mató: los Uchiha saben de Itachi y la orden; Minato y Kushina saben del enmascarado; Jiraiya sabe de Pain/Nagato; Asuma de Hidan).
 - Itachi revivido · T1406 · recuerda su vida entera y su muerte a manos de Sasuke (sin dolor).
+- TODO KONOHA · T1407 · vio siete luces de colores cruzar el cielo (las bestias), oyó a Alba anunciar que el Diez Colas ya no existe y que cada bestia volvió a quien se la arrancaron. Vio a Itachi Uchiha caminar hacia la multitud. PÚBLICO.
+- Gaara, Yugito, Yagura, Rōshi, Han, Utakata, Fū · T1407 · sienten volver a su bestia de golpe (no saben por qué; vieron una luz caer del cielo).
