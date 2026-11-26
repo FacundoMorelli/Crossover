@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1438)
-
-mañana me voy, voy a volver igual, no se cuanto tiempo me ire
-
-## RESPUESTA 1 (T1438)
-
-> mañana me voy, voy a volver igual, no se cuanto tiempo me ire
-
-> —Mañana me voy. Igual voy a volver. No sé cuánto tiempo me voy a ir.
-
-Naruto se queda callado.
-
-Mira el suelo un rato largo. Se le mueven los labios, como si fuera a decir algo y se arrepintiera. Se pasa la manga por la nariz, rápido, como si no quisiera que lo vieras.
-
-Kase, desde el estante de la ventana, levanta la cabeza y lo mira.
-
-—Mañana —repite Naruto.
-
-Después levanta la cabeza de golpe, y ya no tiene los ojos rojos. Tiene la misma cara que en el campo tres, la de antes de pelear: la sonrisa enorme, los puños apretados.
-
-—¡Entonces mañana hacemos una despedida! —grita, tan fuerte que en la casa de enfrente se enciende una ventana—. ¡En Ichiraku! ¡Con todos! ¡El viejo Teuchi va a hacer el ramen más grande del mundo y nadie va a pagar nada! ¡Ni siquiera tú, aunque nunca pagas!
-
-—¡Naruto! —grita alguien desde la casa de enfrente—. ¡Son las nueve de la noche!
-
-—¡Perdón! —grita Naruto, sin bajar la voz.
-
-Se te acerca. Se queda parado en el escalón de la entrada, a un paso, mirándote desde abajo, porque todavía le sacas una cabeza.
-
-—Y cuando vuelvas —dice, más bajo—, voy a ser Hokage. O casi. Y Kurama va a ser mi amigo de verdad, no "no te odio todavía". Y le voy a ganar a Sasuke. Y te voy a ganar a ti. —Se le escapa una risa—. Bueno. Eso último capaz que no.
-
-Se rasca la nuca. Mira el estante, a Kase. Kase lo mira a él.
-
-—El Sabio Pervertido se fue un montón de veces —dice—. Siempre decía que volvía. Y casi siempre volvía. Pero una vez no volvió. —Se le quiebra la voz apenas—. Y tú lo trajiste de vuelta.
-
-Te mira a los ojos.
-
-Levanta la mano, el puño cerrado, entre los dos. Igual que en Ichiraku.
-
-—Prométeme que vas a volver. —Lo dice muy serio—. Una promesa de verdad. De las que no se rompen. De veras.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1438 · NARUTO · DÍA 9 · 21:16          ║
-║ Konoha · borde sur · tu casa de madera       ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el estante de la ventana            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Despedida mañana en Ichiraku       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1439)
+## COMANDO 1 (T1439)
 
 te lo prometo naruto
 
-## RESPUESTA 2 (T1439)
+## RESPUESTA 1 (T1439)
 
 > te lo prometo naruto
 
@@ -111,11 +54,11 @@ Te mira con el ojo rojo y el ojo azul. Bosteza.
 
 ---
 
-## COMANDO 3 (T1440)
+## COMANDO 2 (T1440)
 
 le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
 
-## RESPUESTA 3 (T1440)
+## RESPUESTA 2 (T1440)
 
 > le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
 
@@ -178,4 +121,51 @@ Detrás de la barra, la misma mujer de pelo negro corto y cigarrillo largo, seca
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~120 00:05, bar de Shakky (Grove 13, Sabaody). Facundo besó a Kase. Despedida simulada en Ichiraku (Día 10): toda Konoha; Jiraiya le dio el manuscrito dedicado; Tsunade una banda ninja negra sin rango ("para que sepas dónde queda tu casa"); Obito se inclinó; Fugaku inclinó la cabeza; Itachi la mano en el hombro. Puerta a la medianoche; Naruto con el puño en alto. R14: Dragon Ball acelerado (4 años hasta Bills en un mes de Facundo). Llegada a Sabaody de noche; Shakky sola en el bar: "El chico del gato. Hace dos meses que me pregunto si ibas a volver." Facundo puede actuar.
+## COMANDO 3 (T1441)
+
+hola shakky, como esta el viejo?
+
+## RESPUESTA 3 (T1441)
+
+> hola shakky, como esta el viejo?
+
+> —Hola, Shakky. ¿Cómo está el viejo?
+
+Shakky se ríe por la nariz, sin sacarse el cigarrillo de la boca.
+
+Deja el vaso que estaba secando, toma otro de la repisa y te sirve ron sin preguntarte. Después saca un platito de debajo de la barra, le pone leche y lo empuja hasta el borde, del lado de Kase.
+
+Kase te baja del hombro a la barra de un salto. Olfatea el platito. Mira a Shakky con el ojo rojo y el ojo azul, como si le estuviera tomando examen, y después se agacha y toma.
+
+—La primera va por la casa —dice Shakky—. La información no. Pero hoy estoy de buen humor.
+
+Apoya los codos en la barra.
+
+—El viejo se fue esa misma noche. La de Marineford, cuando desapareciste por esa puerta tuya. Se llevó al chico del sombrero de paja a Rusukaina, una isla del Calm Belt, cerca de la isla de las mujeres. Bestias del tamaño de un barco, el clima cambia cada día... Un lugar perfecto para que a uno lo maten o para hacerse muy fuerte. —Suelta el humo hacia el techo—. No volvió desde entonces. Y no escribe. Nunca escribió. Cuarenta años y nunca una carta.
+
+Lo dice sin enojo. Casi con cariño.
+
+—Pero está vivo. A ese viejo no lo mata nada. Y si el chico sigue entero, es porque Ray todavía no se aburrió de él.
+
+Te mira un rato, con los ojos entrecerrados detrás del humo. Mira tu cara, el pelo, la cicatriz. Después mira a Kase, que se está lamiendo la leche de los bigotes.
+
+—Dos meses sin aparecer, y lo primero que preguntas es por mi viejo. Qué educado. —Sonríe apenas—. Dime, chico del gato. ¿Viniste por él... o por otra persona?
+
+╔══════════════════════════════════════════════╗
+```
+║ TURNO 1441 · ONE PIECE · DÍA ~120 · 00:07    ║
+║ Archipiélago Sabaody · bar de Shakky         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la barra, tomando leche             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~120 00:07, bar de Shakky. Facundo preguntó por Rayleigh. Shakky: se llevó a Luffy a Rusukaina el Día 57 a la noche, no volvió ni escribe. Leche para Kase. Pregunta: "¿Viniste por él... o por otra persona?" Facundo puede responder.

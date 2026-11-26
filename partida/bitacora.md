@@ -1439,3 +1439,4 @@ T1437 · NARUTO · Días 5-9 (simulación) · Duelo con Sasuke (Susanoo, Amatera
 T1438 · NARUTO · Casa de Facundo · "Mañana me voy. Voy a volver." Naruto: despedida mañana en Ichiraku. "Prométeme que vas a volver."
 T1439 · NARUTO · Casa de Facundo · "Te lo prometo, Naruto." Puños. "Una promesa de por vida. Esa es mi forma ninja. Y ahora también es la tuya." Naruto anuncia a los gritos la fiesta de mañana. Noche en la casa.
 T1440 · NARUTO → ONE PIECE · Beso a Kase. Despedida en Ichiraku (Día 10): regalos de Jiraiya (manuscrito) y Tsunade (banda ninja). Puerta a la medianoche. R14: Dragon Ball acelerado hasta Bills (un mes). Llega a Sabaody, bar de Shakky, Día ~120: "Hace dos meses que me pregunto si ibas a volver."
+T1441 · ONE PIECE · Bar de Shakky · "¿Cómo está el viejo?" Shakky: Rayleigh se llevó a Luffy a Rusukaina esa misma noche; no volvió ni escribe; "seguro está vivo, a ese viejo no lo mata nada". Leche para Kase. "¿Viniste por él o por otra persona?"
