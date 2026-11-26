@@ -38,3 +38,4 @@ ESTADO: despierto, sellado, ciego (venda), sin chakra utilizable.
 QUÉ SABE (T1421): reconoce a Facundo; oye a Minato vivo.
 - T1422 · Facundo le reconstruye el ojo izquierdo moldeando su alma (Transfiguración Inerte de Mahito): ojo negro, común, sin Sharingan. Ve a Minato: "Sensei. Estás... vivo. Estás vivo." Se estremece cuando Minato le toca el hombro. Ve a Kakashi con su Sharingan: "Kakashi" (voz rota).
 ESTADO: ojo izquierdo nuevo (normal); derecho aún sellado y vendado; chakra encerrado (Sakaime).
+- T1423 · A Kakashi: "No me mires con ese ojo. No me mires con mi ojo." "Rin murió por tu mano. Te vi... ¡Te pedí que la cuidaras!" "¡Ya lo sé! ¡Lo supe siempre, y no me importó! ¡Porque si el mundo era un lugar donde Rin tenía que elegir eso, entonces el mundo estaba mal, y había que cambiarlo!" Llora. A Minato: "¿Cómo estás vivo?" A Facundo: "Fuiste tú. El sensei. Y todos los que..." "¿Y Rin? ¿Rin también?"

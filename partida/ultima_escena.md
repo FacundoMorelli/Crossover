@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1420)
-
-con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
-
-## RESPUESTA 1 (T1420)
-
-> con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
-
-Te arrodillas junto al futón.
-
-Sacas del inventario una katana de guarda cuadrada, negra, con la empuñadura blanca y una línea fina y plateada que le recorre la hoja de punta a punta. Tsunade la ve aparecer de la nada en tu mano y no dice nada. Yamato da medio paso atrás.
-
-—Traza, Sakaime.
-
-La línea plateada de la hoja se enciende.
-
-Apoyas la punta, sin cortar, sobre el pecho de Obito, justo encima del corazón, y la arrastras despacio. No deja herida. Deja una línea. Fina como un pelo, plateada, que brilla un segundo sobre la piel y después se hunde hacia adentro, debajo, hasta donde corre el chakra.
-
-Trazas otra alrededor de cada muñeca. Otra alrededor del cuello. Y la última, la más fina de todas, alrededor del ojo derecho, por encima de la venda de Ibiki, un círculo perfecto que se cierra solo.
-
-Las líneas se apagan. Ya no se ven. Pero están.
-
-Son fronteras. Nada las cruza salvo lo que tú permites. Y tú no permites que el chakra de Obito pase de su pecho a sus manos, ni a su cuello, ni a su ojo. Se queda adentro, quieto, encerrado, como agua en un pozo tapado. Y van a durar todo lo que quieras.
-
-Tsunade se agacha al otro lado del futón y le pasa a Obito la mano encendida de verde por encima del cuerpo. Se le arruga la frente.
-
-—El chakra está ahí —murmura—. Pero no se mueve. Ni un hilo. Es como si estuviera... encerrado en una caja.
-
-Guardas la espada. Desaparece.
-
-Obito abre el ojo izquierdo.
-
-El hundido. No hay nada adentro: una cuenca vacía, cerrada sobre sí misma. Pero el párpado se mueve, como si buscara ver. La mitad de la cara de las cicatrices se tensa.
-
-—¿Dónde... estoy? —La voz le sale ronca, rasposa, como si no la hubiera usado en años.
-
-Nadie le contesta.
-
-Obito mueve la cabeza hacia un lado y hacia el otro, ciego. Aprieta los dientes. Algo se le contrae bajo la piel del cuello, como si intentara empujar algo desde adentro hacia el ojo derecho, hacia la venda.
-
-No pasa nada.
-
-Lo intenta otra vez. Se le marcan las venas de la sien. Le tiemblan las manos sobre el futón.
-
-Nada.
-
-—No... —Se le quiebra la voz—. No funciona. ¿Qué me hicieron? ¿Quién está ahí?
-
-Minato da un paso hacia el futón. Abre la boca y no le sale nada.
-
-Kakashi, desde la entrada, cierra los ojos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1420 · NARUTO · DÍA 1 · 16:10          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1421)
+## COMANDO 1 (T1421)
 
 mira bien, presta atención ojito, no estas en un sueño
 
-## RESPUESTA 2 (T1421)
+## RESPUESTA 1 (T1421)
 
 > mira bien, presta atención ojito, no estas en un sueño
 
@@ -139,11 +70,11 @@ Se le corta la voz.
 
 ---
 
-## COMANDO 3 (T1422)
+## COMANDO 2 (T1422)
 
 le reconstruyó el ojo con la técnica de mahito
 
-## RESPUESTA 3 (T1422)
+## RESPUESTA 2 (T1422)
 
 > le reconstruyó el ojo con la técnica de mahito
 
@@ -202,4 +133,75 @@ Le tiembla la boca. Le tiembla todo.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:14, carpa de la colina. Facundo le reconstruyó a Obito el ojo izquierdo con la Transfiguración Inerte (copia de Mahito): un ojo negro común, sin Sharingan. Obito ve a Minato: "Sensei. Estás vivo." Minato le pone la mano en el hombro. Obito ve a Kakashi con el Sharingan (su ojo) al aire: "Kakashi", la voz rota. Facundo puede actuar.
+## COMANDO 3 (T1423)
+
+miro
+
+## RESPUESTA 3 (T1423)
+
+> miro
+
+Kakashi se despega de la entrada de la carpa.
+
+Camina hasta el futón despacio, como si cada paso le costara. Se arrodilla del otro lado, al lado de Minato. Se queda mirando a Obito de cerca, la cara con cicatrices, el ojo nuevo, la venda sobre el otro.
+
+No se baja la banda. Deja el Sharingan al aire.
+
+—Obito.
+
+—No me mires con ese ojo. —Obito aparta la cara. Le tiembla la voz—. No me mires con mi ojo.
+
+Kakashi no aparta la vista.
+
+—Lo cuidé todos los días. Diecisiete años. —Habla bajo, sin máscara, y se le ve la boca temblar—. Fui a tu nombre en la piedra todas las mañanas. Y llegaba tarde a todo, porque me quedaba hablándote.
+
+Obito cierra el ojo nuevo con fuerza.
+
+—Rin murió por tu mano —dice, entre dientes—. Te vi. Esa noche. Te vi meterle el brazo en el pecho.
+
+—Lo sé.
+
+—¡Te pedí que la cuidaras!
+
+—Lo sé. —Kakashi no levanta la voz—. Y ella se puso delante a propósito. Tenía al Tres Colas adentro. La Niebla quería soltarlo en Konoha. Ella eligió.
+
+—¡Ya lo sé! —Obito abre el ojo, rojo de lágrimas—. ¡Ya lo sé! ¡Lo supe después, lo supe siempre, y no me importó! ¡Porque si el mundo era un lugar donde Rin tenía que elegir eso, entonces el mundo estaba mal, y había que cambiarlo!
+
+Se le quiebra la voz. Se queda respirando fuerte, mirando el techo, con las lágrimas que le corren por las dos mitades de la cara, la lisa y la de cicatrices.
+
+Minato no le saca la mano del hombro.
+
+Nadie dice nada durante un rato largo. Tsunade mira el suelo. Fugaku tiene los brazos cruzados y la mandíbula apretada, pero no dice nada. Yamato, en la entrada, se queda quieto como una estatua.
+
+Después Obito gira la cabeza hacia Minato, despacio.
+
+—¿Cómo? —pregunta, en voz muy baja—. ¿Cómo estás vivo? Yo te vi morir. Te vi.
+
+Minato no contesta. Levanta la vista, por encima de Obito, y te mira a ti.
+
+Obito sigue su mirada. Te encuentra. Te mira con el ojo nuevo, el que acabas de hacerle, y en la cara se le arma algo que no es odio ni miedo. Es una pregunta tan grande que le da terror hacerla.
+
+—Fuiste tú. —No es una pregunta—. El sensei. Y todos los que...
+
+Traga saliva. Se le tensa todo el cuerpo bajo los sellos.
+
+—¿Y Rin? —le sale apenas—. ¿Rin también?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1423 · NARUTO · DÍA 1 · 16:17          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:17, carpa de la colina. Kakashi se arrodilla junto a Obito: lo cuidó (el ojo) 17 años, iba a la piedra cada mañana. Obito: "No me mires con mi ojo." "Rin murió por tu mano." Kakashi: "Ella eligió." Obito: "¡Si el mundo era un lugar donde Rin tenía que elegir eso, el mundo estaba mal!" Llora. Pregunta a Minato cómo está vivo; Minato mira a Facundo. Obito: "Fuiste tú." "¿Y Rin? ¿Rin también?" (RIN NO FUE REVIVIDA por el deseo 2: no la mató Akatsuki ni Danzō.) Facundo tiene que contestar.

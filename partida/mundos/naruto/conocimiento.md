@@ -181,3 +181,5 @@
 - Obito · T1421 · oye la voz de Minato (vivo). Por Facundo: no está en un sueño.
 - Tsunade, Minato, Kakashi, Fugaku, Yamato · T1422 · vieron a Facundo hacerle crecer a Obito un ojo nuevo con la palma de la mano (sin chakra; lo creen ninjutsu médico imposible). Tsunade especialmente impresionada.
 - Obito · T1422 · ve a Minato vivo y a Kakashi con su Sharingan.
+- Obito · T1423 · deduce (por la mirada de Minato) que Facundo revivió a Minato y a los muertos.
+- Fugaku, Tsunade, Yamato · T1423 · oyen la historia de Rin y de Obito.
