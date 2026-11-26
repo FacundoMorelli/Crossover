@@ -88,3 +88,4 @@
 - Samui, Karui, Omoi · T1356 · vieron a Facundo quedarse quieto en Ichiraku mientras golpeaban a Naruto.
 - Naruto, Teuchi, Ayame · T1357 · vieron a Facundo desaparecer de Ichiraku con el gato tras decir "Ya vengo" (teletransporte).
 - Tobi, Zetsu, Sasuke, Suigetsu, Karin, Jūgo · T1357 · vieron a Facundo aparecer de la nada en el escondite con el gato. Karin no siente chakra (Velo). Zetsu: sin rastro.
+- Tobi, Zetsu, Taka · T1358 · oyeron a Facundo preguntar si "estos son todos" (Akatsuki).

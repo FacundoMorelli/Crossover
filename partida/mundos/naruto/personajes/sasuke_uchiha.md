@@ -8,3 +8,4 @@ ENCUENTROS:
 TASACIÓN (T1357): Mangekyō (Amaterasu, Tsukuyomi, Susanoo), Chidori, Fuego, Rayo; mínima; x0,01.
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: activo, herido leve.
+- T1358 · "Quieto, Suigetsu." Se pone de pie. "Contesta. ¿Quién eres?"

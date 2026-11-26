@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1355)
-
-el tema es que este lugar es algo distinto, no conozco las razones de los que hicieron todo esto, si no, podria ayudarte, pero igual te voy a ayudar
-
-## RESPUESTA 1 (T1355)
-
-> el tema es que este lugar es algo distinto, no conozco las razones de los que hicieron todo esto, si no, podria ayudarte, pero igual te voy a ayudar
-
-> —El tema es que este lugar es algo distinto. No conozco las razones de los que hicieron todo esto; si las conociera, podría ayudarte. Pero igual te voy a ayudar.
-
-Naruto se queda mirándote con la boca un poco abierta.
-
-Después sonríe. No la sonrisa de oreja a oreja de siempre: una más chica, más quieta, que le sale de un lugar más hondo.
-
-—Igual me vas a ayudar —repite.
-
-Se da vuelta en el banquito, de frente a ti, y te tiende el puño cerrado.
-
-—Entonces es una promesa. Y yo nunca rompo mis promesas. —Se ríe—. Bueno, la de Sasuke todavía no la cumplí, pero no la rompí. Está pendiente. ¡No es lo mismo!
-
-Teuchi se ríe por la nariz desde la olla. Ayame vuelve a cortar cebollín, sonriendo.
-
-Kase levanta la cabeza del mostrador y se queda mirando el puño de Naruto, como si evaluara si vale la pena.
-
-No alcanzas a hacer nada, porque una voz suena desde la entrada de la carpa, fuerte y cortante:
-
-—¿Tú eres Naruto Uzumaki?
-
-En la entrada, apartando la cortina chamuscada, hay tres desconocidos con chalecos distintos a los de Konoha y bandas con un símbolo de nube. Una chica alta, rubia, de pelo corto y cara fría, con una espada a la espalda. Una chica morena de pelo rojo, con los brazos cruzados y cara de pocos amigos. Y un muchacho moreno, alto, con una paleta en la boca, que mira a todos lados con cara de estar preocupado por algo que todavía no pasó.
-
-La de pelo rojo es la que habló. No te mira a ti. Mira a Naruto.
-
-—Te estamos buscando desde hace una hora —dice—. Venimos de la Aldea de la Nube. Es sobre Sasuke Uchiha.
-
-A Naruto se le borra la sonrisa de golpe.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1355 · NARUTO · DÍA 1 · 12:39          ║
-║ Konoha · campamento · puesto de Ichiraku     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el mostrador                        ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Carpa de mando esta noche          ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1356)
+## COMANDO 1 (T1356)
 
 miro
 
-## RESPUESTA 2 (T1356)
+## RESPUESTA 1 (T1356)
 
 > miro
 
@@ -137,11 +84,11 @@ Se queda mirando la entrada de la carpa, por donde se fueron.
 
 ---
 
-## COMANDO 3 (T1357)
+## COMANDO 2 (T1357)
 
 ya vengo, busco la presencia de akatsuki y me teletransporto
 
-## RESPUESTA 3 (T1357)
+## RESPUESTA 2 (T1357)
 
 > ya vengo, busco la presencia de akatsuki y me teletransporto
 
@@ -223,4 +170,59 @@ El de la máscara naranja inclina la cabeza, muy despacio, hacia un costado. Te 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:46, escondite de Akatsuki (cueva al norte, tras las montañas). Facundo dijo "Ya vengo" a Naruto, sintió la presencia de Akatsuki y se teletransportó con Kase en el hombro. Presentes: Tobi (máscara naranja), Zetsu (en la pared), Sasuke (vendado, Mangekyō activo), Suigetsu, Karin, Jūgo. Karin: "¡No tiene chakra!" Zetsu: "No dejó rastro." Tobi: "Hacía mucho tiempo que nadie me sorprendía." Facundo puede actuar.
+## COMANDO 3 (T1358)
+
+hola hola, como estan todos?, vaya son bastante pocos, estos son todos?
+
+## RESPUESTA 3 (T1358)
+
+> hola hola, como estan todos?, vaya son bastante pocos, estos son todos?
+
+> —Hola, hola. ¿Cómo están todos? Vaya, son bastante pocos. ¿Estos son todos?
+
+Durante un segundo nadie contesta.
+
+Después el de los dientes de tiburón se ríe, una carcajada aguda que rebota en las paredes de la cueva.
+
+—¡Ja! ¿Y este quién es? ¡Entra como si fuera su casa y encima se queja de la cantidad! —Se pone de pie y se lleva la mano a la empuñadura de la espada enorme—. Oye, Sasuke, ¿lo corto? Tiene buena pinta para cortarlo.
+
+—Quieto, Suigetsu —dice Sasuke, sin mirarlo.
+
+El grandote de pelo naranja no se mueve, pero se le marcan las venas del cuello. La chica de anteojos tiene las manos temblando y se esconde un poco detrás de la roca de Sasuke.
+
+—No... no puedo sentirlo —murmura—. Lo estoy mirando y es como si no hubiera nadie ahí. Ni siquiera el gato. Nada.
+
+El de la máscara naranja se despega de la pared. Camina dos pasos hacia ti, despacio, con las manos dentro de las mangas de la capa.
+
+—¿Pocos? —repite, con la misma voz tranquila—. Sí, supongo que sí. Akatsuki ya no es lo que era. Hace unos días éramos más. —Inclina la cabeza hacia el otro lado—. Pero yo siempre preferí la calidad a la cantidad.
+
+La cosa de la pared se ríe por lo bajo, con las dos voces a la vez, una aguda y una grave.
+
+—Estos son todos los que necesito —sigue el enmascarado—. Por ahora.
+
+Se queda un momento quieto, mirando a Kase, que lo mira a él desde tu hombro con las orejas para atrás. Después vuelve a mirarte a ti.
+
+—Tienes el pelo de dos colores, un ojo de cada color, un gato y nada de chakra. Llegaste a un lugar que nadie conoce sin dejar rastro. —Su ojo rojo gira detrás de la máscara—. Y lo primero que haces es contarnos.
+
+Sasuke se pone de pie. Despacio. Las vendas del torso se le tensan. Las aspas negras de los ojos dejan de girar y se quedan quietas.
+
+—Contesta —dice—. ¿Quién eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1358 · NARUTO · DÍA 1 · 12:47          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:47, cueva de Akatsuki. "¿Cómo están? Son bastante pocos, ¿estos son todos?" Suigetsu se ríe y quiere cortarlo; Sasuke lo frena. Karin no siente nada (ni el gato). Tobi: "Akatsuki ya no es lo que era... prefiero la calidad a la cantidad. Estos son todos los que necesito. Por ahora." Sasuke se pone de pie: "Contesta. ¿Quién eres?" Facundo tiene que contestar.
