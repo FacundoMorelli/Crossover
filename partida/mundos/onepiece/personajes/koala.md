@@ -16,3 +16,4 @@ ESTADO: activa
 - T1448 · Acepta el secreto a regañadientes ("Eso no es una respuesta"). Los sube a la torre: "Si los tira por la ventana, yo no los traje." Anuncia: "Tienes visita. Él... llegó solo."
 - T1450 · Suelta un ruidito y se tapa la boca al oír "mi novia".
 - T1451 · Al ver que Dragon mira a Sabo, entiende: se le caen las carpetas, se queda pálida.
+- T1453 · Corre a Sabo cuando cae; arrodillada a su lado: "¡Sabo-kun, mírame!"

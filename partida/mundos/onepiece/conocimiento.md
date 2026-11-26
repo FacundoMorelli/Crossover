@@ -277,3 +277,4 @@
 - Nadie pregunta todavía cómo lo sabe Facundo (regla 1.4).
 - Sabo, Koala, Robin · T1452 · Por Facundo: sabe que Sabo perdió la memoria. Sabo pregunta cómo lo sabe; nadie investiga (regla 1.4).
 - Sabo · T1452 · Deduce: Luffy (hijo de Dragon) creció en Goa, isla Dawn, donde Dragon lo encontró a él; él sería el "otro hermano".
+- Dragon, Sabo, Koala, Robin · T1453 · Por Facundo: Sabo es hermano de Ace y Luffy. Sabo recupera la memoria y lo confirma delante de todos (Gray Terminal, el juramento del sake).

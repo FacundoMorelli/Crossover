@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1450)
-
-nada, queria conocer al padre de mi capitán y venir a ver a mi novia
-
-## RESPUESTA 1 (T1450)
-
-> nada, queria conocer al padre de mi capitán y venir a ver a mi novia
-
-> —Nada. Quería conocer al padre de mi capitán y venir a ver a mi novia.
-
-Koala suelta un ruidito, muy bajo, y se tapa la boca con las carpetas.
-
-Robin no dice nada. Pero sin mirarte te roza el dorso de la mano con los dedos, una sola vez, y deja la mano ahí.
-
-Sabo, junto a la mesa, levanta las cejas. Mira a Dragon, como esperando a ver qué hace con eso.
-
-Dragon se queda quieto un largo rato, con las manos sobre el mapa.
-
-Después pasa algo que, por la cara de Koala, no pasa seguido. A Dragon se le mueve la comisura de la boca. Muy poco. Casi nada. Una sonrisa que dura lo que tarda en entrar una ráfaga de viento por la ventana, y que desaparece.
-
-—El padre de tu capitán —repite.
-
-Levanta las manos de la mesa. Uno de los mapas, ya libre, se enrolla solo sobre sí mismo.
-
-—No soy mucho de eso. Nunca estuve. —No lo dice con pena, ni como disculpa: lo dice como quien lee un dato de un informe—. Lo vi una vez en Loguetown, de lejos, cuando ya llevaba un sombrero de paja que no era suyo. Lo vi en Marineford, por una pantalla, gritando que venía a salvar a su hermano.
-
-Mira la ventana del este, el sol que ya se despegó del mar.
-
-—Y ahora tú, que viajas con él, apareces en mi torre para conocerme.
-
-Vuelve a mirarte. La voz no cambia, sigue igual de baja y de firme, pero la pregunta sale un poco más lenta que las anteriores.
-
-—¿Cómo está?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1450 · ONE PIECE · DÍA ~121 · 06:33    ║
-║ Baltigo · torre de Dragon                    ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Conocer a Dragon                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1451)
+## COMANDO 1 (T1451)
 
 esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
 
-## RESPUESTA 2 (T1451)
+## RESPUESTA 1 (T1451)
 
 > esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
 
@@ -103,11 +53,11 @@ Se lleva la mano a la frente, debajo del ala del sombrero, justo encima de la ci
 
 ---
 
-## COMANDO 3 (T1452)
+## COMANDO 2 (T1452)
 
 no recuperó la memoria todavía?
 
-## RESPUESTA 3 (T1452)
+## RESPUESTA 2 (T1452)
 
 > no recuperó la memoria todavía?
 
@@ -157,4 +107,62 @@ Levanta la vista hacia ti, entre los dedos.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:35, Baltigo, torre. Sabo deduce que es de Goa como Luffy, dolor de cabeza; le pide a Facundo: "Sabes quién era yo. Dímelo." Facundo puede responder.
+## COMANDO 3 (T1453)
+
+hermano de ace y luffy
+
+## RESPUESTA 3 (T1453)
+
+> hermano de ace y luffy
+
+> —Hermano de Ace y Luffy.
+
+Sabo se queda quieto.
+
+Por un segundo no pasa nada. Te mira con la mano todavía en la cabeza, como si no hubiera entendido las palabras, como si las hubieras dicho en un idioma que no conoce.
+
+—Ace —repite.
+
+Y entonces se le doblan las rodillas.
+
+Cae sobre la piedra, con un ruido sordo, entre los papeles de Koala. El sombrero de copa rueda hasta la pared. Se agarra la cabeza con las dos manos, y no grita, pero respira como si se estuviera ahogando, a bocanadas cortas, con la frente casi contra el suelo.
+
+Koala corre hacia él. Se arrodilla a su lado, le pone las manos en la espalda y no sabe qué más hacer.
+
+—¡Sabo-kun! ¡Sabo-kun, mírame!
+
+Sabo no la mira. Tiene los ojos abiertos, el sano y el quemado, clavados en algo que no está en el cuarto.
+
+—Un basural —dice, con la voz rota—. Un basural enorme, que humeaba todo el día. Un árbol... una casa en un árbol. Un tesoro escondido en un tronco, para comprar un barco. —Se le escapa una risa que es casi un sollozo—. Un idiota de goma que lloraba por todo y que no nos dejaba en paz. Y uno pecoso, que nunca sonreía, que se peleaba con todo el mundo...
+
+Se le llenan los ojos de lágrimas. Le caen sobre las manos, sobre la piedra blanca.
+
+—Sake —dice—. Tres copas de sake. Y los tres dijimos que desde ese día éramos hermanos.
+
+Robin, a tu lado, se lleva la mano a la boca. Dragon no se mueve. Pero dejó de apoyar las manos en la mesa, y tiene los puños cerrados a los costados.
+
+Sabo levanta la cabeza. Tiene la cara mojada y una expresión que no le habías visto: la de un chico de diez años que acaba de despertarse en un lugar que no conoce.
+
+—Ace —dice—. Leí en el diario lo de Marineford. Iban a ejecutarlo, y yo lo leí... y no sentí nada. Nada. Leí el nombre de mi hermano y seguí trabajando. —Le tiembla la voz—. Y tú... tú lo sacaste del cadalso.
+
+Te mira. Se seca la cara con la manga de la levita, sin que sirva de nada, porque las lágrimas siguen saliendo.
+
+—Están vivos. Los dos. —No es una pregunta. Lo dice como quien se lo repite para creérselo—. ¿Dónde están?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1453 · ONE PIECE · DÍA ~121 · 06:37    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:37, Baltigo, torre. Sabo recuperó la memoria, de rodillas, llorando, con Koala al lado. "Están vivos. Los dos. ¿Dónde están?" Facundo puede responder.

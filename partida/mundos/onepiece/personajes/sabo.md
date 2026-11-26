@@ -14,3 +14,6 @@ SECRETO DEL CANON: es el hermano jurado de Ace y Luffy; perdió la memoria. Como
 ESTADO: activo
 - T1451 · Oye "Rayleigh" ("¿El de Roger?") y "su otro hermano sigue vivo". Dragon y Koala lo miran. Se toca la frente sobre la cicatriz, dolor detrás del ojo. "Dragon-san, ¿por qué me miras así?" Todavía no recuerda.
 - T1452 · "¿Cómo sabes eso?" Repite lo que sabe (Goa, el bote, el Noble Mundial; "mi vida empezó aquí"), demasiado rápido. Deduce que Luffy creció en Goa, isla Dawn. Se le cae el caño; se agarra la cabeza. A Facundo: "Tú lo sabes. Sabes quién era yo. Dímelo."
+- T1453 · Al oír "hermano de Ace y Luffy" RECUPERA LA MEMORIA: cae de rodillas; recuerda Gray Terminal, la casa del árbol, el tesoro para el barco, a Luffy llorón y a Ace pecoso, las tres copas de sake. Llora. Leyó lo de Marineford "y no sentí nada". A Facundo: "Tú lo sacaste del cadalso." "Están vivos. Los dos. ¿Dónde están?"
+SECRETO DEL CANON (actualizado T1453): ya recuerda que es hermano jurado de Ace y Luffy.
+RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a alguien que le devolvió todo.

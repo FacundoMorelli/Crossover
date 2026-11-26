@@ -27,3 +27,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T911 · El Bankai de Facundo queda protegiendo a la flota de Barbablanca.
 - T920 · Tequila Wolf: miles de esclavos liberados de golpe por Facundo. Robin libre.
 - T1440 · Día ~120 · Facundo vuelve a One Piece: bar de Shakky, Sabaody. Timeskip de dos años en curso (~2 meses).
+- T1453 · Día ~121 · Sabo recupera la memoria en Baltigo por Facundo (en el canon la recuperaba al leer la muerte de Ace; aquí Ace vive).

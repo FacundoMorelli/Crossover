@@ -183,3 +183,4 @@
 - Día ~120 00:09 · (T1442) Facundo se teletransporta desde Sabaody a Baltigo, al cuarto de Robin (canon: Robin vive con los revolucionarios en Baltigo durante el timeskip).
 - Día ~120-121 · (T1445) Facundo pasa la noche con Robin en Baltigo; nadie de la base sabe que está ahí. Al amanecer la base se despierta (campana).
 - Día ~121 06:34 · (T1451) En Baltigo, Facundo revela delante de Dragon, Sabo, Koala y Robin que Luffy tiene otro hermano vivo (canon: Sabo recupera la memoria al leer la muerte de Ace; aquí Ace vive y la memoria no había vuelto).
+- Día ~121 06:37 · (T1453) Sabo recupera la memoria al oír de Facundo "hermano de Ace y Luffy" (cambio grande: en el canon la recupera tras la muerte de Ace, con fiebre de tres días).
