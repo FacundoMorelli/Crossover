@@ -3,77 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1442)
-
-por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
-
-## RESPUESTA 1 (T1442)
-
-> por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
-
-> —Por otra persona. Pero ya que estoy aquí, te pregunto. Nos vemos, Shakky.
-
-Shakky levanta las cejas, despacio. Después se le escapa una risa corta, de las que no se le escapan a menudo.
-
-—Lo sabía.
-
-Kase termina la leche sin apuro, se lame los bigotes una última vez y te salta al hombro.
-
-Te tocas la frente con dos dedos y cierras los ojos.
-
-Buscas el ki de Robin. Está lejos, muy lejos, del otro lado del mundo: tranquilo, encendido, como una vela en un cuarto cerrado. Despierto. Está despierta.
-
-Shakky alza el vaso hacia ti.
-
-Ya no estás.
-
-Del otro lado hace frío. No el frío húmedo de Sabaody: un frío seco, de piedra, de desierto de noche.
-
-Estás en un cuarto de paredes de piedra blanca, grueso y bajo, con una sola ventana angosta por la que entra un viento que trae polvo blanco. Afuera se ve un cielo negro y limpio, lleno de estrellas, y la silueta de muros y torres sobre una tierra pálida, como de hueso. Huele a lámpara de aceite, a papel viejo y a café frío.
-
-Hay libros por todas partes. Apilados contra las paredes, abiertos sobre una cama angosta que no parece usada, en el suelo, en el alféizar. Mapas clavados a la pared con cuchillos. Una taza abandonada sobre una pila de papeles escritos con una letra prolija y chica.
-
-Y en el escritorio, de espaldas a ti, con un abrigo largo sobre los hombros y el pelo negro suelto, Robin.
-
-Tiene un libro abierto delante y un lápiz en la mano. Escribe algo en el margen.
-
-Deja de escribir.
-
-No te oyó llegar. No hubo ruido. Pero se queda quieta, con el lápiz en el aire, como cuando alguien siente que lo miran. Kase, en tu hombro, mueve la cola una sola vez.
-
-Robin se da vuelta en la silla.
-
-Te ve. Ve a Kase.
-
-El lápiz se le cae de la mano y rueda por el escritorio hasta el suelo. Ella no lo mira. No se levanta. Se te queda mirando, con la boca apenas abierta, como si estuviera leyendo una página que no termina de creerse.
-
-Después sonríe. Despacio.
-
-—Le dije a Corvin que nada te iba a frenar —dice, muy bajo—. No me creyó.
-
-╔══════════════════════════════════════════════╗
-```
-║ TURNO 1442 · ONE PIECE · DÍA ~120 · 00:09    ║
-║ Baltigo · base revolucionaria · cuarto de    ║
-║ Robin                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-
-```
-
----
-
-## COMANDO 2 (T1443)
+## COMANDO 1 (T1443)
 
 me acerco y le doy un beso, nada me puede parar si es para verte a ti
 
-## RESPUESTA 2 (T1443)
+## RESPUESTA 1 (T1443)
 
 > me acerco y le doy un beso, nada me puede parar si es para verte a ti
 
@@ -119,11 +53,11 @@ Kase, sentado sobre el libro, bosteza.
 
 ---
 
-## COMANDO 3 (T1444)
+## COMANDO 2 (T1444)
 
 que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
 
-## RESPUESTA 3 (T1444)
+## RESPUESTA 2 (T1444)
 
 > que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
 
@@ -167,4 +101,64 @@ Te mira con esa calma suya, con un brillo en los ojos.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~120 00:12, Baltigo, cuarto de Robin. Robin ofrece llevarlo a ver a Dragon (torre de arriba) ahora o mañana. Facundo puede decidir.
+## COMANDO 3 (T1445)
+
+yy me gusta mucho mas la idea que me vean todos sin que me conozcan, pero tsmbien quiero quedarme contigo le doy un beso y la empiezo a besar mas fuerte
+
+## RESPUESTA 3 (T1445)
+
+> yy me gusta mucho mas la idea que me vean todos sin que me conozcan, pero tsmbien quiero quedarme contigo le doy un beso y la empiezo a besar mas fuerte
+
+> —Me gusta mucho más la idea de que me vean todos sin conocerme. Pero también quiero quedarme contigo.
+
+Robin levanta una ceja.
+
+—Una entrada dramática en la base más secreta del mundo, o quedarte conmigo. —Lo dice muy seria—. Qué decisión tan difícil para ti.
+
+No la dejas terminar de reírse. La besas.
+
+Ella te recibe como si lo estuviera esperando desde que se dio vuelta en la silla. Al principio es un beso tranquilo, de reencuentro. Después la besas más fuerte, y Robin retrocede un paso, y otro, hasta que choca con el borde del escritorio y una pila de libros se viene abajo, uno detrás de otro, sobre la piedra.
+
+Ninguno de los dos los mira.
+
+Kase sí. Mira los libros en el suelo, te mira a ti, mira a Robin. Se levanta del libro abierto con toda la dignidad del mundo, salta al alféizar de la ventana angosta y se echa de espaldas al cuarto, mirando las estrellas.
+
+Robin te pasa las manos por el pelo, el blanco y el azul, y te tira de él apenas para separarte un segundo, con la respiración agitada y una sonrisa que no le habías visto nunca.
+
+—Dos meses —susurra—. Ni se te ocurra irte esta noche.
+
+Estira el brazo hacia un costado sin mirar. De la pared, junto a la lámpara de aceite, brota una mano y baja la mecha.
+
+El cuarto queda a oscuras, salvo por la luz de las estrellas.
+
+...
+
+Cuando abres los ojos, entra por la ventana angosta una luz pálida, gris y rosa. El viento se calmó. Afuera, en algún lugar de la fortaleza, suena una campana, una vez, y después pasos, voces, una puerta pesada que se abre: la base se despierta.
+
+Robin está despierta a tu lado, en la cama angosta que ahora sí parece usada, con la cabeza apoyada en tu pecho, sobre los dragones tatuados. Tiene un libro abierto con una mano, sostenido en el aire. Otra mano brotada de la pared le pasa las páginas.
+
+Kase sigue en el alféizar, con el sol saliendo detrás de él.
+
+Robin nota que despertaste. No deja de leer.
+
+—Buenos días. —Pasa otra página—. Ya es una hora decente.
+
+╔══════════════════════════════════════════════╗
+```
+║ TURNO 1445 · ONE PIECE · DÍA ~121 · 06:10    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el alféizar, al sol                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Conocer a Dragon                   ║
+╚══════════════════════════════════════════════╝
+
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:10, Baltigo, cuarto de Robin. Noche juntos (fundido). Amanece; la base se despierta. Robin: "Buenos días. Ya es una hora decente." Objetivo: conocer a Dragon (Facundo quiere que lo vean todos sin conocerlo). Facundo puede actuar.

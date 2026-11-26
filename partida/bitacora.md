@@ -1443,3 +1443,4 @@ T1441 · ONE PIECE · Bar de Shakky · "¿Cómo está el viejo?" Shakky: Rayleig
 T1442 · ONE PIECE · Sabaody → Baltigo · Se despide de Shakky ("Lo sabía"). Teletransportación al ki de Robin: su cuarto en la base revolucionaria, de noche. Robin: "Le dije a Corvin que nada te iba a frenar. No me creyó."
 T1443 · ONE PIECE · Baltigo, cuarto de Robin · Beso. "Nada me puede parar si es para verte a ti." Robin: da miedo porque es verdad; lo busca en cada diario que le trae Corvin; si lo ven en la base, problema grande.
 T1444 · ONE PIECE · Baltigo, cuarto de Robin · "No me parecería malo conocer a Dragon." Robin: Dragon dijo "Si encuentra la isla sin que nadie se la diga, que venga". Está en la torre. ¿Ahora o mañana?
+T1445 · ONE PIECE · Baltigo, cuarto de Robin · "...quiero quedarme contigo." Besos, fundido (noche juntos). Amanece Día ~121, 06:10: "Buenos días. Ya es una hora decente."

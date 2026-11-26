@@ -181,3 +181,4 @@
 - Día 57 17:52 · (T930) Facundo deja a Luffy con Rayleigh en el bar de Shakky y se va del mundo por una puerta. Luffy entrenará con Rayleigh (canon: en Rusukaina).
 - Día ~120 00:05 · (T1440) Facundo vuelve a Sabaody (bar de Shakky). Pasaron ~63 días desde Marineford: la tripulación entrena (dos años); Luffy con Rayleigh; Robin con los revolucionarios. (Simular lo ocurrido en el mundo en este tiempo según lo que Facundo pueda saber.)
 - Día ~120 00:09 · (T1442) Facundo se teletransporta desde Sabaody a Baltigo, al cuarto de Robin (canon: Robin vive con los revolucionarios en Baltigo durante el timeskip).
+- Día ~120-121 · (T1445) Facundo pasa la noche con Robin en Baltigo; nadie de la base sabe que está ahí. Al amanecer la base se despierta (campana).
