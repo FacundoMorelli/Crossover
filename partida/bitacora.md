@@ -1367,3 +1367,4 @@ T1365 · NARUTO · Cueva de Akatsuki · Desmaya a Tobi con Haki en la nuca antes
 T1366 · NARUTO · Cueva de Akatsuki · Sasuke le saca la máscara a Tobi: hombre de ~30, media cara cicatrizada. "Ese no es Madara." Sasuke: "No sé quién es. ¿Tú sí?"
 T1367 · NARUTO · Cueva de Akatsuki · "Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto." Sasuke: "Otro Uchiha. Vivo." "¿También me mintió sobre Itachi?"
 T1368 · NARUTO · Cueva de Akatsuki · "Tu hermano quería evitar la guerra civil y protegerte. ¿Si pudieras revivirlo a él y a los asesinados?" Sasuke: "No juegues con eso." Karin recuerda que Pain revivió a Konoha. Sasuke: "No habría nada que no hiciera. ¿Puedes hacerlo?"
+T1369 · NARUTO · Cueva de Akatsuki · "Podría hacerlo. No ahora, pero podría." Sasuke: "Nadie da algo así gratis. Dime qué quieres a cambio."

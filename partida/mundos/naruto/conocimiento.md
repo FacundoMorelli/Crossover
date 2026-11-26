@@ -101,3 +101,4 @@
 - Sasuke, Suigetsu, Karin, Jūgo · T1367 · por Facundo: Tobi es Obito Uchiha, ex compañero de Kakashi Hatake y alumno del Cuarto Hokage. (Facundo lo sabe por conocimiento del jugador; nadie investiga cómo.)
 - Sasuke, Taka · T1368 · por Facundo: Itachi quería evitar la guerra civil y protegerlo (confirma). Facundo preguntó qué haría si se pudiera revivir a Itachi y al clan.
 - Karin · (antes) · por Zetsu: Pain revivió a los muertos de Konoha antes de morir.
+- Sasuke, Suigetsu, Karin, Jūgo · T1369 · por Facundo: podría revivir a Itachi y a los Uchiha asesinados, no ahora pero sí más adelante.

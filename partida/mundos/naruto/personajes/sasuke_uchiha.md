@@ -28,3 +28,5 @@ INVENTARIO: la máscara de Tobi en la mano.
 QUÉ SABE (T1367): por Facundo, Tobi es Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto.
 - T1368 · Facundo confirma lo de Itachi. "Entonces eso era verdad. Lo único que era verdad." Ante la pregunta de revivir: "No juegues con eso." (Edo Tensei: "trae cáscaras".) "Si mi madre, mi padre, mi clan... si Itachi pudiera volver. No como cáscara. Vivo. No habría nada que no hiciera." "¿Puedes hacerlo?"
 QUÉ SABE (T1368): por Facundo, Itachi hizo lo de la masacre para evitar una guerra civil y protegerlo (confirmado).
+- T1369 · "No ahora." "Itachi..." (no termina). "Nadie da algo así gratis. Nadie. Ni siquiera tú, por más viajero que digas que eres." "Dime qué quieres a cambio."
+QUÉ SABE (T1369): por Facundo, podría revivir a Itachi y al clan, no ahora.
