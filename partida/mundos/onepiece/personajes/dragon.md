@@ -14,3 +14,4 @@ ESTADO: activo
 - T1449 · Repasa: Tequila Wolf (por Corvin; con un chico con sombrero de paja), Marineford por la transmisión (Ace y Barbablanca vivos, la cúpula contra el magma), la entrada sin barco, salir del cuarto de Robin. "No te ofrezco un puesto. No pareces alguien que acepte puestos." No pregunta cómo llegó (Robin le avisó hace meses que no contestaría). "¿Qué quieres del Ejército Revolucionario?"
 - T1450 · Facundo: "Quería conocer al padre de mi capitán y venir a ver a mi novia." Sonrisa mínima (rara, por la cara de Koala). "No soy mucho de eso. Nunca estuve." Vio a Luffy en Loguetown y en Marineford por pantalla. Pregunta, más lento: "¿Cómo está?"
 RELACIÓN CON FACUNDO (T1450): curiosidad seria; ningún puesto ofrecido; lo deja hablar.
+- T1451 · Por Facundo: Luffy entrena con Rayleigh; Luffy tiene "otro hermano" vivo que Luffy no sabe vivo. Deduce (él recogió del mar a un chico quemado frente a Goa, en la isla donde crecieron Luffy y Ace): mira a Sabo.

@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: cartel y diario de Marineford (probable).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 SECRETO DEL CANON: es el hermano jurado de Ace y Luffy; perdió la memoria. Como Ace no murió, NO la recuperó. Él no lo sabe.
 ESTADO: activo
+- T1451 · Oye "Rayleigh" ("¿El de Roger?") y "su otro hermano sigue vivo". Dragon y Koala lo miran. Se toca la frente sobre la cicatriz, dolor detrás del ojo. "Dragon-san, ¿por qué me miras así?" Todavía no recuerda.

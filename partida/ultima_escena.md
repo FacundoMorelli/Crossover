@@ -3,90 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1448)
-
-es un secreto, no voy a decir nada de la ubicación no se tienen que preocupar por eso
-
-## RESPUESTA 1 (T1448)
-
-> es un secreto, no voy a decir nada de la ubicación no se tienen que preocupar por eso
-
-> —Es un secreto. No voy a decir nada de la ubicación. No se tienen que preocupar por eso.
-
-Koala infla un poco los cachetes, como una chica a la que acaban de dejar sin el final de un cuento.
-
-—Eso no es una respuesta.
-
-—Es la única que vas a conseguir —dice Robin, tranquila—. Yo también le pregunto cosas. Llevo meses sin respuesta.
-
-Koala la mira. Te mira. Suelta el aire por la nariz.
-
-—Está bien. Total, lo va a decidir Dragon-san. —Se da vuelta y empieza a subir la escalera de caracol, con las carpetas contra el pecho—. Vengan. Y si los tira por la ventana, yo no los traje.
-
-Subes detrás de ellas. La escalera da vueltas y vueltas dentro de la torre, con ventanas como rendijas por donde se ve, cada vez más abajo, la tierra blanca de Baltigo, los muros de la fortaleza, el mar gris a lo lejos. Abajo, en el pasillo, el murmullo vuelve a empezar, más fuerte que antes.
-
-Arriba hay una sola puerta, de madera gruesa. Koala golpea dos veces y abre sin esperar.
-
-El cuarto es redondo y amplio, con ventanas a los cuatro lados y el viento entrando por todas. Hay una mesa enorme en el centro, cubierta de mapas sujetos con piedras, cartas, informes, un Den Den Mushi dormido. Huele a papel, a sal y a tormenta.
-
-Junto a la mesa, inclinado sobre un mapa del Nuevo Mundo, hay un chico rubio de pelo enrulado, con sombrero de copa, levita azul, un pañuelo al cuello y una cicatriz de quemadura que le cubre el ojo izquierdo. Tiene un caño de metal apoyado contra la mesa. Levanta la vista cuando entran.
-
-Y junto a la ventana del este, de espaldas, con la capa verde moviéndose con el viento, un hombre muy alto, de pelo negro y largo, mirando el amanecer.
-
-—Dragon-san —dice Koala—. Tienes visita. Él... llegó solo.
-
-El chico rubio te mira: el pelo, los ojos, el gato. Abre un poco más el ojo sano.
-
-El hombre de la ventana tarda un momento en darse vuelta.
-
-Cuando lo hace, ves la cara que viste en Loguetown: dura, serena, con el tatuaje rojo que le baja por el lado izquierdo. Te mira a ti. No mira a Robin, ni a Koala, ni al gato. A ti, de arriba abajo, sin ninguna prisa, como quien mide el tamaño de una ola antes de que llegue.
-
-—Así que encontraste la isla —dice.
-
-```
-╔══════════════════════════════════════════════╗
-║ MONKEY D. DRAGON                             ║
-║ Comandante del Ejército Revolucionario       ║
-║ PODER: sin datos                             ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: tú, x40 o más           ║
-║ COPIABLE · MISIÓN: MUY ALTA                  ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ SABO                                         ║
-║ Jefe de Estado Mayor del Ejército            ║
-║ Revolucionario                               ║
-║ PODER: Garra de Dragón, Haki                 ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: tú, x60 o más           ║
-║ COPIABLE · MISIÓN: ALTA                      ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1448 · ONE PIECE · DÍA ~121 · 06:29    ║
-║ Baltigo · torre de Dragon                    ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Conocer a Dragon                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1449)
+## COMANDO 1 (T1449)
 
 asi es
 
-## RESPUESTA 2 (T1449)
+## RESPUESTA 1 (T1449)
 
 > asi es
 
@@ -132,11 +53,11 @@ Se endereza. Es más alto que tú.
 
 ---
 
-## COMANDO 3 (T1450)
+## COMANDO 2 (T1450)
 
 nada, queria conocer al padre de mi capitán y venir a ver a mi novia
 
-## RESPUESTA 3 (T1450)
+## RESPUESTA 2 (T1450)
 
 > nada, queria conocer al padre de mi capitán y venir a ver a mi novia
 
@@ -182,4 +103,54 @@ Vuelve a mirarte. La voz no cambia, sigue igual de baja y de firme, pero la preg
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:33, Baltigo, torre de Dragon. Facundo dijo que vino a conocer al padre de su capitán y a ver a su novia. Dragon: "¿Cómo está?" (Luffy). Facundo puede responder.
+## COMANDO 3 (T1451)
+
+esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
+
+## RESPUESTA 3 (T1451)
+
+> esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
+
+> —Está bien. Entrenando con Rayleigh. Todavía no sabe que su otro hermano también sigue vivo.
+
+El cuarto se queda en silencio.
+
+Ni siquiera el viento hace ruido por un segundo.
+
+—¿Rayleigh? —dice Sabo, casi para sí—. ¿Silvers Rayleigh? ¿El de Roger?
+
+Pero nadie le contesta. Porque Dragon no se movió y, sin embargo, algo en él cambió. Se le endureció la mandíbula. Los ojos se le achicaron apenas, como cuando alguien ve aparecer un barco donde no debería haber ninguno.
+
+—Su otro hermano —repite, despacio.
+
+Robin te mira de reojo. Ella sabe de Ace. No sabía que había otro.
+
+Dragon no te mira a ti. Gira la cabeza, muy lentamente, y mira a Sabo.
+
+Koala, junto a la puerta, sigue la mirada de Dragon. Y las carpetas se le resbalan del pecho, esta vez de verdad, y caen al suelo abiertas, desparramando papeles que el viento empieza a arrastrar por la piedra. Ella no se agacha a juntarlos. Se queda mirando a Sabo con la cara blanca.
+
+Sabo los mira a los dos. A Dragon. A Koala. Después a ti.
+
+—¿Qué? —Se ríe, nervioso, y no le sale—. ¿Por qué me miran así?
+
+Se lleva la mano a la frente, debajo del ala del sombrero, justo encima de la cicatriz de quemadura. Frunce el ceño, como si de golpe le doliera algo detrás del ojo.
+
+—Dragon-san —dice, más bajo—. ¿Por qué me miras así?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1451 · ONE PIECE · DÍA ~121 · 06:34    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:34, Baltigo, torre. Facundo reveló que Luffy tiene otro hermano vivo. Dragon y Koala miran a Sabo; Sabo, con dolor de cabeza, no entiende: "¿Por qué me miras así?" Facundo puede actuar.

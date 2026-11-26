@@ -273,3 +273,5 @@
 - Dragon, Sabo · T1448 · Ven a Facundo con Robin y el gato en la torre; por Koala: llegó solo. Por cartel/diario: Ojos de Eclipse (Marineford).
 - Dragon · T1449 · Por la transmisión de Marineford: Facundo liberó a Ace, Ace y Barbablanca vivos, la cúpula contra el Ryusei Kazan. Por Corvin: Tequila Wolf, con Luffy. Por Robin (meses atrás): Facundo no contesta cómo viaja. Por sus hombres/Koala: llegó sin barco y salió del cuarto de Robin.
 - Dragon, Sabo, Koala · T1450 · Por Facundo: Robin es su novia; vino a conocer al padre de su capitán (Luffy).
+- Dragon, Sabo, Koala, Robin · T1451 · Por Facundo: Luffy está bien, entrena con Rayleigh, y tiene "otro hermano" vivo (además de Ace) que no sabe que vive. Dragon deduce (recogió a Sabo frente a Goa) que es Sabo; Koala deduce lo mismo por la mirada de Dragon (conoce el pasado de Sabo). Sabo no lo sabe todavía; no recuerda.
+- Nadie pregunta todavía cómo lo sabe Facundo (regla 1.4).

@@ -15,3 +15,4 @@ ESTADO: activa
 - T1447 · Facundo se presenta: "Me llamo Facundo Morelli. Ojos de Eclipse." Deduce que liberó Tequila Wolf (por Corvin y el diario). Entiende que está con Robin (colorada). Dragon está arriba con Sabo. Pregunta cómo llegó: isla fuera de los mapas, costa vigilada, ningún barco.
 - T1448 · Acepta el secreto a regañadientes ("Eso no es una respuesta"). Los sube a la torre: "Si los tira por la ventana, yo no los traje." Anuncia: "Tienes visita. Él... llegó solo."
 - T1450 · Suelta un ruidito y se tapa la boca al oír "mi novia".
+- T1451 · Al ver que Dragon mira a Sabo, entiende: se le caen las carpetas, se queda pálida.

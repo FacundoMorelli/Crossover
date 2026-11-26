@@ -1449,3 +1449,4 @@ T1447 · ONE PIECE · Baltigo · Se presenta ante Koala y el pasillo: Facundo Mo
 T1448 · ONE PIECE · Baltigo, torre · "Es un secreto." Koala los sube a la torre. Sabo en la mesa. Dragon: "Así que encontraste la isla."
 T1449 · ONE PIECE · Baltigo, torre · Dragon repasa lo que sabe de Facundo (Tequila Wolf, Marineford, la cúpula, el cuarto de Robin). No ofrece puesto. "¿Qué quieres del Ejército Revolucionario?"
 T1450 · ONE PIECE · Baltigo, torre · "Quería conocer al padre de mi capitán y venir a ver a mi novia." Dragon sonríe un instante. "Nunca estuve." "¿Cómo está?"
+T1451 · ONE PIECE · Baltigo, torre · "Su otro hermano también sigue vivo." Dragon mira a Sabo; Koala suelta las carpetas. Sabo, con dolor detrás del ojo: "¿Por qué me miras así?"
