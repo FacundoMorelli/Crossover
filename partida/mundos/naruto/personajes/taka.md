@@ -14,3 +14,4 @@ ESTADO: activos.
 - T1364 · Mudos. Karin corre hacia Sasuke cuando Tobi se lo empieza a llevar.
 - T1365 · Suigetsu se sienta en el suelo: "Le pegaste a Madara. Le pegaste a Madara y se cayó. Así nomás." Jūgo se pone delante de Karin.
 - T1366 · Suigetsu: "Ese no es Madara. Madara tendría que tener como cien años. Este no llega a cuarenta." Karin: "Su chakra es Uchiha, sí. Pero hay otra cosa mezclada. Algo como madera. Y hay muchísimo menos del que debería tener alguien que dice ser Madara."
+- T1367 · Suigetsu: "Sasuke, creo que te tomaron el pelo de una forma que ni siquiera tiene nombre." Karin: "Cállate, Suigetsu." Jūgo baja la mirada.

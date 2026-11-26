@@ -1365,3 +1365,4 @@ T1363 · NARUTO · Cueva de Akatsuki · "Ese Sharingan se parece mucho a otro qu
 T1364 · NARUTO · Cueva de Akatsuki · Esquiva el Kamui y aparece detrás de Tobi: su Sharingan es el mismo que el de Kakashi; la máscara solo tiene el ojo derecho. Sasuke: "Tú me dijiste que eras Madara." Tobi: "Hablas demasiado." Agarra a Sasuke y empieza a llevárselo con Kamui.
 T1365 · NARUTO · Cueva de Akatsuki · Desmaya a Tobi con Haki en la nuca antes de que se lleve a Sasuke. +1.000 F, +5.000 EXP. Sasuke liberado. "Quiero ver su cara."
 T1366 · NARUTO · Cueva de Akatsuki · Sasuke le saca la máscara a Tobi: hombre de ~30, media cara cicatrizada. "Ese no es Madara." Sasuke: "No sé quién es. ¿Tú sí?"
+T1367 · NARUTO · Cueva de Akatsuki · "Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto." Sasuke: "Otro Uchiha. Vivo." "¿También me mintió sobre Itachi?"

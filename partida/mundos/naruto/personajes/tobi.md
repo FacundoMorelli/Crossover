@@ -27,3 +27,4 @@ QUÉ SABE DE FACUNDO (T1364): Facundo sabe (o sospecha) lo de su ojo y Kakashi. 
 ESTADO: INCONSCIENTE en la cueva del norte, máscara puesta, hombro izquierdo atravesado (T1365).
 - T1366 · Sasuke le quita la máscara (corta la correa con un Chidori del dedo). Cara: ~30 años, pelo negro corto; mitad izquierda lisa con el ojo izquierdo cerrado y hundido (vacío); mitad derecha llena de cicatrices en relieve; Sharingan en el derecho. Karin: chakra Uchiha mezclado con "algo como madera".
 FÍSICO REVELADO (T1366).
+- T1367 · Identidad dicha en voz alta por Facundo ante Taka: Obito Uchiha. Máscara en el suelo junto a su cara.

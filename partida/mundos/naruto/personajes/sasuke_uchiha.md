@@ -24,3 +24,5 @@ QUÉ SABE (T1364): por Facundo, el Sharingan de Tobi es el mismo que el de Kakas
 ESTADO: muñeca lastimada (T1365).
 - T1366 · Le saca la máscara a Tobi. "Me contó la verdad sobre Itachi. Me dijo que había sido Konoha. Me lo contó todo. Y yo le creí todo. Porque era Madara." Aprieta la máscara. A Facundo: "No sé quién es. ¿Tú sí?"
 INVENTARIO: la máscara de Tobi en la mano.
+- T1367 · "Obito... Uchiha. Otro Uchiha. Vivo." "Kakashi decía que su Sharingan era el regalo de un amigo. Que había muerto. Nunca dijo el nombre." Deja la máscara junto a Obito. "Si me mintió sobre quién era, ¿también me mintió sobre Itachi?" "¿Lo que me contó de la masacre... de Konoha, de la orden, de que mi hermano lo hizo por la aldea y por mí... eso también era mentira?"
+QUÉ SABE (T1367): por Facundo, Tobi es Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto.

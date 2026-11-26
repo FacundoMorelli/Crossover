@@ -98,3 +98,4 @@
 - Tobi, Sasuke, Suigetsu, Karin, Jūgo · T1364 · por Facundo: el Sharingan del ojo derecho de Tobi "es el mismo" que el del ojo izquierdo de Kakashi; la máscara solo tiene el agujero del ojo derecho. Sasuke duda de que Tobi sea Madara. (Facundo lo sabe por conocimiento del jugador; nadie investiga cómo.)
 - Sasuke, Suigetsu, Karin, Jūgo · T1365 · vieron a Facundo desmayar a Tobi ("Madara") de un golpe en la nuca, con un brillo azul y blanco en la mano (Haki; lo creen chakra raro, aunque Karin no siente nada). (Zetsu no estaba.)
 - Sasuke, Suigetsu, Karin, Jūgo · T1366 · vieron la cara de Tobi sin máscara. Saben que no es Madara (por la edad y el chakra). Sasuke duda de todo lo que Tobi le contó.
+- Sasuke, Suigetsu, Karin, Jūgo · T1367 · por Facundo: Tobi es Obito Uchiha, ex compañero de Kakashi Hatake y alumno del Cuarto Hokage. (Facundo lo sabe por conocimiento del jugador; nadie investiga cómo.)

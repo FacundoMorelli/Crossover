@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1364)
-
-aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
-
-## RESPUESTA 1 (T1364)
-
-> aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
-
-El remolino se cierra sobre el lugar donde estabas.
-
-Se traga una piedra suelta, un poco de polvo, el aire. Nada más.
-
-Tú ya estás detrás de él. Tan cerca que podrías tocarle la capa agujereada con la nariz.
-
-> —¿Cómo es eso de que el Sharingan que tienes en el ojo derecho es el mismo que tiene Kakashi en el ojo izquierdo? ¿Y que, de pura casualidad, tu máscara tenga solo el agujero del ojo derecho?
-
-El enmascarado no se da vuelta.
-
-Se queda completamente quieto, de espaldas a ti, con la mano todavía apretada sobre el hombro herido. La espiral de la máscara deja de girar de golpe.
-
-Nadie en la cueva respira.
-
-Suigetsu tiene la boca abierta y no le sale nada. Karin mira al enmascarado, después a ti, después a Sasuke, con los ojos enormes detrás de los anteojos. Jūgo frunce el ceño, despacio, como si tratara de entender una cuenta.
-
-Sasuke es el que reacciona.
-
-—¿Kakashi? —Las aspas de sus ojos se detienen, fijas, sobre la máscara naranja—. ¿El ojo de Kakashi?
-
-Da un paso hacia el enmascarado.
-
-—Tú me dijiste que eras Madara Uchiha.
-
-El enmascarado sigue sin darse vuelta. Cuando por fin habla, lo hace muy bajo, y no a Sasuke. A ti, por encima del hombro, sin mirarte.
-
-—Hablas demasiado, viajero.
-
-Su mano derecha suelta el hombro herido y se cierra, rápida como una víbora, sobre la muñeca de Sasuke.
-
-La espiral de la máscara vuelve a girar, esta vez sobre sí misma. El cuerpo del enmascarado empieza a retorcerse hacia el agujero del ojo, y el brazo de Sasuke con él: la mano, la muñeca, el codo, tragados hacia un remolino que se cierra sobre los dos.
-
-—¡Suelta! —Sasuke intenta zafarse y el brazo se le sigue deformando hacia la espiral—. ¡Responde! ¡¿Quién eres?!
-
-—¡Sasuke! —grita Karin, corriendo hacia él.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1364 · NARUTO · DÍA 1 · 12:50          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1365)
+## COMANDO 1 (T1365)
 
 dejo inconsciente antes que se vaya
 
-## RESPUESTA 2 (T1365)
+## RESPUESTA 1 (T1365)
 
 > dejo inconsciente antes que se vaya
 
@@ -127,11 +66,11 @@ Estira la mano sana, despacio, hacia la máscara.
 
 ---
 
-## COMANDO 3 (T1366)
+## COMANDO 2 (T1366)
 
 esta bien
 
-## RESPUESTA 3 (T1366)
+## RESPUESTA 2 (T1366)
 
 > esta bien
 
@@ -182,4 +121,57 @@ Levanta la cabeza hacia ti. Las aspas negras le giran despacio, y debajo, en los
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:52, cueva de Akatsuki. Sasuke le sacó la máscara a Tobi (cortó la correa): hombre de ~30, mitad derecha de la cara cicatrizada, ojo izquierdo hundido/vacío, Sharingan derecho. Suigetsu: "Ese no es Madara." Karin: chakra Uchiha mezclado con algo de madera. Sasuke: "Me contó la verdad sobre Itachi... y yo le creí todo." "No sé quién es. ¿Tú sí?" Facundo tiene que contestar.
+## COMANDO 3 (T1367)
+
+Obito Uchiha, ex compañero de kakashi hatake, alumno del 4to hokage
+
+## RESPUESTA 3 (T1367)
+
+> Obito Uchiha, ex compañero de kakashi hatake, alumno del 4to hokage
+
+> —Obito Uchiha. Ex compañero de Kakashi Hatake. Alumno del Cuarto Hokage.
+
+—Obito... Uchiha —repite Sasuke.
+
+Lo dice como quien prueba una palabra en un idioma que no conoce.
+
+—Uchiha. —Mira la cara del hombre en el suelo, las cicatrices, el ojo derecho entreabierto—. Otro Uchiha. Vivo.
+
+Se queda callado un momento largo.
+
+—Kakashi decía que su Sharingan era el regalo de un amigo. —Se le endurece la voz—. Que había muerto. Nunca dijo el nombre. —Mira la máscara en su mano—. Un ojo él, otro ojo... este.
+
+Suigetsu silba bajito.
+
+—Entonces el tipo que se hacía pasar por el abuelo de todos los Uchiha es el compañero de equipo de tu maestro, que se suponía muerto. —Se rasca la cabeza—. Sasuke, creo que te tomaron el pelo de una forma que ni siquiera tiene nombre.
+
+—Cállate, Suigetsu —dice Karin, sin fuerza.
+
+Sasuke no le contesta a ninguno de los dos. Deja la máscara en el suelo, al lado de la cara de Obito, con cuidado, como si pesara mucho. Se pone de pie despacio. La muñeca le cuelga lastimada contra el pecho.
+
+Te mira. Las aspas negras le giran, lentas.
+
+—Si me mintió sobre quién era —dice, y la voz le tiembla apenas, solo un poco, lo justo para que se note—, ¿también me mintió sobre Itachi?
+
+Detrás de él, Jūgo baja la mirada. Karin se muerde el labio y no se acerca.
+
+—¿Lo que me contó de la masacre... de Konoha, de la orden, de que mi hermano lo hizo por la aldea y por mí... —Se le quiebra la voz en la mitad, y la recupera—. ¿Eso también era mentira?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1367 · NARUTO · DÍA 1 · 12:53          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a Tobi                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:53, cueva de Akatsuki. Facundo: "Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto." Sasuke conecta: Kakashi decía que su Sharingan era regalo de un amigo muerto. Suigetsu: "te tomaron el pelo". Sasuke deja la máscara junto a Obito, se pone de pie: "Si me mintió sobre quién era, ¿también me mintió sobre Itachi? ¿Lo de la masacre, la orden, que mi hermano lo hizo por la aldea y por mí... eso también era mentira?" Facundo tiene que contestar.
