@@ -99,3 +99,5 @@
 - Sasuke, Suigetsu, Karin, Jūgo · T1365 · vieron a Facundo desmayar a Tobi ("Madara") de un golpe en la nuca, con un brillo azul y blanco en la mano (Haki; lo creen chakra raro, aunque Karin no siente nada). (Zetsu no estaba.)
 - Sasuke, Suigetsu, Karin, Jūgo · T1366 · vieron la cara de Tobi sin máscara. Saben que no es Madara (por la edad y el chakra). Sasuke duda de todo lo que Tobi le contó.
 - Sasuke, Suigetsu, Karin, Jūgo · T1367 · por Facundo: Tobi es Obito Uchiha, ex compañero de Kakashi Hatake y alumno del Cuarto Hokage. (Facundo lo sabe por conocimiento del jugador; nadie investiga cómo.)
+- Sasuke, Taka · T1368 · por Facundo: Itachi quería evitar la guerra civil y protegerlo (confirma). Facundo preguntó qué haría si se pudiera revivir a Itachi y al clan.
+- Karin · (antes) · por Zetsu: Pain revivió a los muertos de Konoha antes de morir.

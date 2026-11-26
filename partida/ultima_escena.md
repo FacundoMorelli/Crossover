@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1365)
-
-dejo inconsciente antes que se vaya
-
-## RESPUESTA 1 (T1365)
-
-> dejo inconsciente antes que se vaya
-
-Le ves el borde.
-
-La mitad del cuerpo del enmascarado ya se está deshaciendo en la espiral, transparente, inalcanzable. Pero la otra mitad, la mano que aprieta la muñeca de Sasuke, el brazo, el hombro herido y el cuello, tiene que estar sólida para arrastrarlo. Si no, no podría agarrarlo.
-
-Ahí le pegas.
-
-El canto de la mano, envuelto en Haki azul intenso con vetas blancas, le cae en la nuca, justo debajo del borde de la máscara.
-
-Suena seco.
-
-La espiral se detiene de golpe, a medio girar. Todo lo que estaba deformándose vuelve a su forma de un tirón, como una goma que se suelta: el cuerpo del enmascarado, la capa, el brazo de Sasuke, que sale despedido del remolino y vuelve a ser un brazo. Sasuke cae de rodillas, agarrándose la muñeca.
-
-El enmascarado se queda de pie medio segundo más. El ojo rojo detrás del agujero gira una vez, despacio, como buscándote. Después se apaga.
-
-Cae de cara contra el suelo de piedra. La máscara naranja golpea la roca con un ruido hueco y no se rompe.
-
-No se mueve.
-
-[Derrotado: Tobi.]
-
-[+1.000 Fragmentos. +5.000 EXP.]
-
-La cueva queda en silencio. Solo se oye el agua que gotea en algún lado y la respiración agitada de Karin.
-
-Suigetsu se sienta en el suelo, despacio, como si le hubieran cortado los hilos.
-
-—Le pegaste a Madara —dice, con un hilo de voz—. Le pegaste a Madara y se cayó. Así nomás.
-
-Jūgo no dice nada. Se pone delante de Karin sin pensarlo.
-
-Kase baja de tu hombro, camina hasta el enmascarado tirado en el suelo, le huele la capucha y le da la espalda con la cola levantada, ofendido.
-
-Sasuke sigue de rodillas, con la muñeca apretada contra el pecho. Mira el cuerpo. Mira la máscara naranja en espiral, con el único agujero.
-
-Estira la mano sana, despacio, hacia la máscara.
-
-—Quiero ver su cara —dice, sin mirarte.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1365 · NARUTO · DÍA 1 · 12:50          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a Tobi                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1366)
+## COMANDO 1 (T1366)
 
 esta bien
 
-## RESPUESTA 2 (T1366)
+## RESPUESTA 1 (T1366)
 
 > esta bien
 
@@ -121,11 +58,11 @@ Levanta la cabeza hacia ti. Las aspas negras le giran despacio, y debajo, en los
 
 ---
 
-## COMANDO 3 (T1367)
+## COMANDO 2 (T1367)
 
 Obito Uchiha, ex compañero de kakashi hatake, alumno del 4to hokage
 
-## RESPUESTA 3 (T1367)
+## RESPUESTA 2 (T1367)
 
 > Obito Uchiha, ex compañero de kakashi hatake, alumno del 4to hokage
 
@@ -174,4 +111,67 @@ Detrás de él, Jūgo baja la mirada. Karin se muerde el labio y no se acerca.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:53, cueva de Akatsuki. Facundo: "Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto." Sasuke conecta: Kakashi decía que su Sharingan era regalo de un amigo muerto. Suigetsu: "te tomaron el pelo". Sasuke deja la máscara junto a Obito, se pone de pie: "Si me mintió sobre quién era, ¿también me mintió sobre Itachi? ¿Lo de la masacre, la orden, que mi hermano lo hizo por la aldea y por mí... eso también era mentira?" Facundo tiene que contestar.
+## COMANDO 3 (T1368)
+
+No, tu hermano queria evitar la guerra civil y protegerte a ti, una pregunta sasuke, si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, que harias?
+
+## RESPUESTA 3 (T1368)
+
+> No, tu hermano queria evitar la guerra civil y protegerte a ti, una pregunta sasuke, si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, que harias?
+
+> —No. Tu hermano quería evitar la guerra civil y protegerte a ti. —Haces una pausa—. Una pregunta, Sasuke. Si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, ¿qué harías?
+
+Sasuke se queda quieto.
+
+La primera parte la recibe como un golpe que ya esperaba. Cierra los ojos un segundo. Las aspas se le apagan detrás de los párpados. Cuando los vuelve a abrir, siguen ahí, pero más quietas.
+
+—Entonces eso era verdad —dice, muy bajo—. Lo único que era verdad.
+
+Después le llega la segunda parte.
+
+Lo ves entrar en su cara despacio, como agua que se filtra por una grieta. Primero no entiende. Después entiende. Y lo que le cruza los ojos no es esperanza: es rabia, de golpe, fría y filosa.
+
+—No juegues con eso.
+
+Da un paso hacia ti. La muñeca lastimada le tiembla contra el pecho, pero no le importa.
+
+—Hay una técnica prohibida que trae a los muertos. Orochimaru la usó en el Tercero. Trae cáscaras. Cuerpos sin voluntad, atados al que los invoca. —Le sale la voz cada vez más dura—. Si me estás hablando de eso, te juro que...
+
+Se le corta la voz. Se queda mirándote. Mira a Obito tirado en el suelo, con la cara al aire. Mira el lugar donde estaba Danzō hasta hace un rato, en su cabeza, y donde ya no está.
+
+Todo lo que hiciste hoy, delante de él, en menos de cinco minutos.
+
+—Hace dos días, alguien revivió a media Konoha —dice Karin en voz baja, detrás de él, casi sin animarse—. Lo dijo Zetsu. Pain. Antes de morir. Los trajo a todos de vuelta. Con su voluntad, con todo. Vivos.
+
+Sasuke no se da vuelta para mirarla. Pero la escuchó.
+
+Se queda un rato largo en silencio. Las antorchas tiemblan contra la roca. El agua gotea.
+
+—Si eso existiera —dice al fin, sin ningún tono, como si las palabras le pesaran tanto que no pudiera darles forma—. Si mi madre, mi padre, mi clan... si Itachi pudiera volver. No como cáscara. Vivo.
+
+Aprieta el puño sano.
+
+—No habría nada que no hiciera.
+
+Levanta los ojos hacia ti.
+
+—¿Puedes hacerlo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1368 · NARUTO · DÍA 1 · 12:55          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a Tobi                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:55, cueva de Akatsuki. Facundo confirmó que lo de Itachi era verdad (evitar la guerra civil, proteger a Sasuke) y preguntó qué haría Sasuke si pudiera revivir a Itachi y a los asesinados. Sasuke: "No juegues con eso" (Edo Tensei, cáscaras). Karin: Pain revivió a media Konoha con voluntad (lo dijo Zetsu). Sasuke: "Si Itachi pudiera volver. No como cáscara. Vivo. No habría nada que no hiciera. ¿Puedes hacerlo?" Facundo tiene que contestar. (Facundo tiene: copia de Dende = Esferas del Dragón en cualquier mundo; Esferas del Eclipse inactivas.)

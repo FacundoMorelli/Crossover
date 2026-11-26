@@ -26,3 +26,5 @@ ESTADO: muñeca lastimada (T1365).
 INVENTARIO: la máscara de Tobi en la mano.
 - T1367 · "Obito... Uchiha. Otro Uchiha. Vivo." "Kakashi decía que su Sharingan era el regalo de un amigo. Que había muerto. Nunca dijo el nombre." Deja la máscara junto a Obito. "Si me mintió sobre quién era, ¿también me mintió sobre Itachi?" "¿Lo que me contó de la masacre... de Konoha, de la orden, de que mi hermano lo hizo por la aldea y por mí... eso también era mentira?"
 QUÉ SABE (T1367): por Facundo, Tobi es Obito Uchiha, ex compañero de Kakashi, alumno del Cuarto.
+- T1368 · Facundo confirma lo de Itachi. "Entonces eso era verdad. Lo único que era verdad." Ante la pregunta de revivir: "No juegues con eso." (Edo Tensei: "trae cáscaras".) "Si mi madre, mi padre, mi clan... si Itachi pudiera volver. No como cáscara. Vivo. No habría nada que no hiciera." "¿Puedes hacerlo?"
+QUÉ SABE (T1368): por Facundo, Itachi hizo lo de la masacre para evitar una guerra civil y protegerlo (confirmado).
