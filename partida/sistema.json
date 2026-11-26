@@ -1,13 +1,13 @@
 {
-  "turno": 1386,
+  "turno": 1387,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 13:41",
+  "hora": "Día 1, 13:46",
   "edad": 18,
   "nivel": 29,
-  "exp": 304980,
+  "exp": 306180,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 113344,
+  "fragmentos": 113494,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2136,6 +2136,14 @@
       "tipo": "inconsciente (canto de la mano con Haki en la nuca, cuando tenía que estar sólido para arrastrar a Sasuke)",
       "fragmentos": 1000,
       "exp": 5000
+    },
+    {
+      "nombre": "Kisame Hoshigaki",
+      "mundo": "naruto",
+      "turno": 1387,
+      "tipo": "inconsciente (Haki en la nuca), llevado a Konoha con Samehada",
+      "fragmentos": 150,
+      "exp": 1200
     }
   ],
   "viaje": {
@@ -2511,7 +2519,8 @@
     "apodos_pendientes_naruto": "\"El Hombre de los Dragones\" / \"Ryūjin\" si muestra Venas del Dragón en público; antes, \"el forastero del gato\".",
     "danzo_naruto": "T1334: Danzō se enteró de que Tsunade despertó (reunión de las 09:30 con Homura y Koharu; fue sin que lo llamaran). Raíz ya le informó los rumores del forastero (brazos, semillas, Lee). Quiere evaluarlo y, si sirve, reclutarlo o eliminarlo. Su designación como Sexto queda en disputa: el Señor Feudal lo nombró porque la Hokage estaba incapacitada. T1338: Facundo preguntó por su brazo derecho: Danzō sabe ahora que el forastero sospecha o sabe algo del brazo; lo considera amenaza prioritaria. Raíz lo sigue (2 agentes, rotan). Danzō parte mañana (Día 2) al País del Hierro. T1346: Danzō inconsciente y arrestado por orden de Tsunade (sellos de supresión, vendas en los Sharingan, bajo Ibiki). No usó Izanagi (no murió). El ojo de Shisui sigue bajo la venda. Raíz entero bajo guardia de la Hokage.",
     "bee_naruto": "Killer Bee NO fue capturado: escapó dejando un tentáculo del Hachibi (canon). Kumo cree que sí. Tobi lo sabe.",
-    "tobi_naruto": "T1365: Tobi (Obito) inconsciente en la cueva del norte, con la máscara puesta. Zetsu negro salió antes (T1363) y no vio la derrota (o la vio desde la pared: sin confirmar; motor: no la vio). Sasuke quiere sacarle la máscara."
+    "tobi_naruto": "T1365: Tobi (Obito) inconsciente en la cueva del norte, con la máscara puesta. Zetsu negro salió antes (T1363) y no vio la derrota (o la vio desde la pared: sin confirmar; motor: no la vio). Sasuke quiere sacarle la máscara.",
+    "zetsu_naruto": "Zetsu negro es la voluntad de Kaguya (canon). En T1363 Tobi lo mandó a averiguar sobre Facundo: se metió en un árbol del borde norte de Konoha a espiar el campamento. Vio, desde lejos, el movimiento en la carpa de mando y a Sasuke cruzar el campamento."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

@@ -3,85 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1384)
-
-si
-
-## RESPUESTA 1 (T1384)
-
-> si
-
-> —Sí.
-
-Sasuke se te queda mirando.
-
-No dice nada durante un rato. Después baja la vista, apenas, y suelta el aire por la nariz, largo, como alguien que dejó de cargar algo pesado sin darse cuenta de que lo cargaba.
-
-Asiente una vez. Corto.
-
-Se da vuelta hacia Tsunade.
-
-—Me quedo.
-
-Lo dice sin tono, como dice todo. Pero Tsunade levanta las cejas, y Homura deja de frotarse los anteojos.
-
-—En Konoha —sigue Sasuke—. Hasta el juicio. Hasta que me devuelvan los ojos de mi clan. —Te mira de reojo—. Y hasta que él cumpla lo que dijo.
-
-Tsunade lo mira un rato largo. Después se cruza de brazos.
-
-—Te vas a quedar bajo mi responsabilidad. Nada de salir de la aldea sin permiso. Nada de buscar a Danzō. Y cuando lleguen los de la Nube a reclamarte, y van a llegar, vas a estar a mi lado y vas a contestar lo que te pregunten. —Se le endurece la cara—. ¿Entendido?
-
-—Entendido.
-
-[Misión de copia cumplida.]
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Sharingan y técnicas de Sasuke · COPIADO     ║
-║ USUARIO: Sasuke Uchiha · Naruto              ║
-║                                              ║
-║ INCLUYE: Sharingan, Mangekyō (Amaterasu,     ║
-║ Enton, Tsukuyomi, Susanoo), Mangekyō         ║
-║ Eterno, Rinnegan y todo lo que llega a       ║
-║ hacer; Chidori y variantes; Estilo Fuego y   ║
-║ Rayo; Kirin; esgrima. Sin ceguera ni         ║
-║ desgaste. Dominio total.                     ║
-╚══════════════════════════════════════════════╝
-
-[+2.000 EXP.]
-
-Algo se te enciende detrás de los ojos, un calor rojo que se apaga enseguida. Nadie lo nota.
-
-Sasuke mira a Tsunade un momento más. Después agrega, en el mismo tono:
-
-—Hay tres más. Mi equipo. Están en una cueva al norte, esperando. —Te mira a ti—. Él sabe dónde.
-
-Tsunade cierra los ojos y se aprieta el puente de la nariz con dos dedos.
-
-—Claro. Tres más. ¿Por qué no? —Abre los ojos y te mira a ti, con una expresión que mezcla cansancio, fastidio y algo que casi parece gracia—. ¿Hay algo más que me hayas traído hoy y todavía no me dijiste, Facundo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1384 · NARUTO · DÍA 1 · 13:35          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 304.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1385)
+## COMANDO 1 (T1385)
 
 por ahora no, ahora voy a ir a buscar a sus compañeros y despues voy a buscar al akatsuki que falta
 
-## RESPUESTA 2 (T1385)
+## RESPUESTA 1 (T1385)
 
 > por ahora no, ahora voy a ir a buscar a sus compañeros y despues voy a buscar al akatsuki que falta
 
@@ -136,11 +62,11 @@ Suigetsu ni se levanta. Gira la cabeza hacia ti y levanta la botella a modo de s
 
 ---
 
-## COMANDO 3 (T1386)
+## COMANDO 2 (T1386)
 
 vienen conmigo a la aldea, sasuke esta bien, se va a quedar en la aldea hasta que juzguen a danzo
 
-## RESPUESTA 3 (T1386)
+## RESPUESTA 2 (T1386)
 
 > vienen conmigo a la aldea, sasuke esta bien, se va a quedar en la aldea hasta que juzguen a danzo
 
@@ -209,4 +135,96 @@ Se pone de pie.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:41, carpa de mando. Facundo trajo a Taka: Karin (llorando, Sasuke la frena con la mano en la frente), Jūgo ("Si Sasuke se queda, yo voy"), Suigetsu (reticente, "en Konoha debe de haber agua de verdad"). Tsunade: "Tres. Me dijiste tres, y son tres." "Facundo, ¿dónde se supone que meto a toda esta gente?" Facundo tiene que contestar.
+## COMANDO 3 (T1387)
+
+no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
+
+## RESPUESTA 3 (T1387)
+
+> no se, tu sabrás, nos vemos hokage voy a buscar a los dos que faltan, bueno, mejor dicho a 1, al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro dentro, no dejes que sasuke vea a Naruto todavía, quiero estar ahi cuando lo vea. me teletransporto a kisame lo dejo inconsciente y lo llevo a la aldea con tsunade y me teletransporto a zetsu
+
+> —No sé, tú sabrás. Nos vemos, Hokage. Voy a buscar a los dos que faltan. Bueno, mejor dicho, a uno: al otro lo voy a interrogar yo y lo voy a matar, tiene algo raro adentro. Y no dejes que Sasuke vea a Naruto todavía. Quiero estar ahí cuando lo vea.
+
+Tsunade abre la boca. La cierra.
+
+—"Tú sabrás" —repite, mirando a Jūgo, que sigue agachado bajo el techo de la carpa—. Muy bien. Yo sabré.
+
+Sasuke levanta la cabeza al oír el nombre de Naruto. No dice nada.
+
+—Nadie le va a decir a Naruto que está aquí —dice Tsunade—. Por lo menos hasta que vuelvas. —Se sienta de nuevo, pesadamente—. Ve.
+
+Cierras los ojos y buscas.
+
+Lejos al noreste, sobre el mar, encuentras algo que no se parece a nada de lo que sentiste hoy: una presencia grande, fría y salada, enroscada alrededor de otra que no es humana y que come. Chakra que traga chakra.
+
+Te llevas dos dedos a la frente.
+
+Aparece un acantilado. Viento fuerte, olor a sal y a algas, olas que revientan contra las rocas veinte metros más abajo. Un hombre enorme, de piel azul grisácea, con branquias en las mejillas y dientes de tiburón, está sentado al borde de la piedra, con una capa de nubes rojas y una espada gigante envuelta en vendas apoyada en el hombro. Mira el mar, hacia el norte, hacia unas islas lejanas.
+
+╔══════════════════════════════════════════════╗
+║ KISAME HOSHIGAKI                             ║
+║ Akatsuki · uno de los Siete Espadachines     ║
+║ PODER: Samehada (absorbe chakra), Estilo     ║
+║        Agua masivo, fusión con Samehada,     ║
+║        reservas de chakra enormes            ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+╚══════════════════════════════════════════════╝
+
+Gira la cabeza hacia ti. Sonríe con todos los dientes.
+
+—Vaya. ¿Y tú de dónde sal...?
+
+No termina. Le das con el canto de la mano en la nuca, con Haki, antes de que la sonrisa se le acabe de abrir. Los ojos chiquitos se le ponen en blanco y se va hacia adelante. Lo agarras de la capa antes de que caiga al mar. La espada envuelta en vendas se sacude sola sobre su hombro, gruñe, se queda quieta.
+
+[Derrotado: Kisame Hoshigaki.]
+
+[+150 Fragmentos. +1.200 EXP.]
+
+Te lo cargas al hombro, con espada y todo, y te llevas dos dedos a la frente.
+
+La carpa de mando.
+
+Dejas a Kisame en el suelo, al lado de la mesa rota. Cae boca arriba, con la boca abierta y los dientes al aire. La espada le cae al lado y suelta un gruñido.
+
+Suigetsu se atraganta con el agua.
+
+—¡¿KISAME?!
+
+Tsunade se queda mirando al hombre tiburón tirado en su carpa durante un segundo largo. Después levanta la vista hacia ti.
+
+—Cuatro —dice, con una calma que da miedo—. Ahora son cuatro.
+
+No le contestas. Ya estás buscando otra vez.
+
+La presencia que se pega a las paredes como una planta está cerca. Muy cerca. Mucho más de lo que esperabas.
+
+Te llevas dos dedos a la frente.
+
+Aparece el bosque partido del borde norte, donde llegaste esta mañana. Los mismos árboles torcidos, todos para el mismo lado. Desde ahí se ve el cráter entero, las carpas, la loma, la carpa de mando.
+
+Y en el tronco del árbol que tienes al lado, a la altura de tu cara, hay una cara. Mitad blanca, mitad negra. Metida en la corteza como si fuera parte de la madera, mirando hacia el campamento.
+
+Gira despacio hacia ti.
+
+—Ah —dicen las dos mitades a la vez—. Eras tú.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1387 · NARUTO · DÍA 1 · 13:46          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.180/320.000               ║
+║ FRAGMENTOS 113.494 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Zetsu                              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:46, bosque partido del borde norte. Facundo le dijo a Tsunade que va por los dos que faltan (a Zetsu lo interrogará y lo matará) y que no deje que Sasuke vea a Naruto sin él (Tsunade acepta). Teletransporte a un acantilado al noreste: desmayó a Kisame (+150 F, +1.200 EXP) y lo llevó con Samehada a la carpa de mando (Suigetsu: "¡¿KISAME?!"; Tsunade: "Ahora son cuatro."). Teletransporte a Zetsu: estaba metido en un árbol del borde norte de Konoha, espiando el campamento. "Ah. Eras tú." Facundo puede actuar.

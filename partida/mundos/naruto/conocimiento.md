@@ -126,3 +126,7 @@
 - Facundo, Tsunade, Homura, Koharu · T1385 · por Sasuke: Akatsuki que quedan: Zetsu y Kisame Hoshigaki (espada que come chakra); Tobi mandó a Kisame a otra cosa.
 - Taka · T1386 · por Facundo: Sasuke está bien y se quedará en Konoha hasta el juicio de Danzō.
 - Tsunade, Homura, Koharu, Sasuke · T1386 · ven llegar a Taka con Facundo por teletransporte.
+- Tsunade, Sasuke, Taka, Homura, Koharu · T1387 · por Facundo: va por los dos Akatsuki restantes; a uno lo interrogará y lo matará ("tiene algo raro dentro"). Tsunade no dejará que Naruto sepa de Sasuke hasta que vuelva Facundo.
+- Kisame · T1387 · vio a Facundo un instante antes de desmayarse.
+- Todos en la carpa de mando · T1387 · vieron a Facundo traer a Kisame inconsciente.
+- Zetsu · T1387 · ve a Facundo aparecer a su lado; lo reconoce (cueva).
