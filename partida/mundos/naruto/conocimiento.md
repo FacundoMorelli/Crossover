@@ -163,3 +163,6 @@
 - Todos en la calle · T1408 · ven el reencuentro de Sasuke, Itachi, Fugaku y Mikoto.
 - Itachi, Fugaku, Mikoto, Sasuke · T1409 · por Facundo: es un viajero.
 - TODA LA CALLE · T1409 · oyó a Fugaku exigirle a la Hokage hablar hoy (tensión por la masacre y el golpe).
+- Minato, Kushina · T1410 · Facundo apareció en su casa y los llevó por teletransporte ante Naruto.
+- Calle frente a la Torre · T1410 · ven aparecer al Cuarto Hokage y a una mujer pelirroja junto al viajero.
+- Fugaku, Mikoto, Itachi, Sasuke · T1410 · por Facundo: que no vuelvan a intentar "algo como la última vez" (el golpe).

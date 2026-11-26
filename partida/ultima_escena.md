@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1407)
-
-Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
-
-## RESPUESTA 1 (T1407)
-
-> Deseo que destruyas al 10 colas y devuelvas las bestias a los que se las quitaron
-
-> —Deseo que destruyas al Diez Colas y les devuelvas las bestias a los que se las quitaron.
-
-Alba levanta la cabeza hacia el cielo oscuro.
-
-—LA ESTATUA ESTÁ MUY LEJOS, DEBAJO DE LA TIERRA, DONDE NADIE LA ENCUENTRA. —Los ojos rojo y azul se le encienden—. NO PARA MÍ.
-
-Cierra los ojos.
-
-No pasa nada durante un segundo.
-
-Después el suelo tiembla. No como antes, no desde Konoha: desde muy lejos, como si en algún lugar del mundo, a cientos de kilómetros, algo enorme se hubiera roto por dentro. Un crujido largo, profundo, que se siente en los pies más de lo que se oye.
-
-Y en el cielo, hacia el noroeste, aparecen siete luces.
-
-Salen del horizonte como cometas, cada una de un color distinto: una arena dorada, una llama azul, una niebla verde, un fuego rojo, un vapor blanco, una burbuja violeta, un brillo de insecto, verde y amarillo. Cruzan el cielo oscuro despacio, a una altura enorme, dejando estelas largas. Se separan. Cada una toma su camino.
-
-La de arena dorada pasa justo por encima de Konoha, tan arriba que es una línea de luz, y se va hacia el oeste, hacia el desierto, hacia el País del Viento. La gente la sigue con la mirada, con la boca abierta, hasta que se pierde.
-
-Naruto se toca el estómago sin darse cuenta.
-
-—Gaara —murmura.
-
-Las siete estelas se pierden en el horizonte, cada una por su lado. Y, lejos, en el noroeste, donde estaba el crujido, el suelo deja de temblar.
-
-Alba abre los ojos.
-
-—CUMPLIDO. LA ESTATUA YA NO EXISTE. EL DIEZ COLAS YA NO EXISTE. CADA BESTIA VOLVIÓ A QUIEN SE LA ARRANCARON.
-
-Baja la cabeza hacia ti una última vez, tan cerca que el calor de su aliento te mueve el pelo.
-
-—LOS TRES DESEOS ESTÁN CUMPLIDOS. ME DISTE LA VIDA PARA ESTO, Y ESTUVO BIEN. —Mira a Kase, en tu hombro, y Kase lo mira a él—. HASTA QUE VUELVAS A LLAMARME.
-
-El cuerpo enorme se deshace en luz dorada, desde la cola hasta la cabeza, en una lluvia de chispas que sube y se pierde. La columna se apaga. Las siete esferas, en el aire, pierden el brillo una por una, se vuelven grises otra vez, piedras de río, y caen al empedrado con siete golpes secos.
-
-El cielo se aclara.
-
-El sol de la tarde vuelve, de golpe, tibio, sobre una Konoha entera, con todos sus techos y todas sus calles, y con miles de personas paradas en el medio, en silencio, mirando hacia arriba.
-
-Nadie dice nada.
-
-Y entonces, al final de la calle que lleva al este, al barrio del abanico rojo y blanco, alguien aparece caminando.
-
-Un hombre joven, de pelo negro largo atado en la nuca, con dos líneas marcadas debajo de los ojos. Lleva ropa de casa, sencilla, y camina despacio, como quien no termina de creer que el suelo esté ahí. Se detiene a unos metros de la multitud.
-
-Mira a Sasuke.
-
-Sasuke se queda completamente quieto.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1407 · NARUTO · DÍA 1 · 15:19          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1408)
+## COMANDO 1 (T1408)
 
 guardo las esferas en el inventario y miro
 
-## RESPUESTA 2 (T1408)
+## RESPUESTA 1 (T1408)
 
 > guardo las esferas en el inventario y miro
 
@@ -153,11 +80,11 @@ Inclina la cabeza, apenas.
 
 ---
 
-## COMANDO 3 (T1409)
+## COMANDO 2 (T1409)
 
 soy un viajero
 
-## RESPUESTA 3 (T1409)
+## RESPUESTA 2 (T1409)
 
 > soy un viajero
 
@@ -214,4 +141,77 @@ Toda la calle se queda en silencio.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:25, calle frente a la Torre. "Soy un viajero." Itachi: "Un viajero. Gracias." Mikoto abraza a sus dos hijos. Fugaku pone la mano en el hombro de Itachi ("Lo sé yo también. Ahora lo sé."). Fugaku hace una reverencia profunda a Facundo: "El clan Uchiha no olvida. Ni a los que nos hicieron daño, ni a los que nos devolvieron lo que perdimos." Después, con la cara dura, a Tsunade, para que lo oigan todos: "Hokage. Usted y yo tenemos que hablar. Hoy." Silencio en la calle. Facundo puede actuar.
+## COMANDO 3 (T1410)
+
+no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
+
+## RESPUESTA 3 (T1410)
+
+> no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
+
+> —No vuelvan a intentar algo como la última vez. El mundo cambió mucho desde que murieron.
+
+Fugaku se queda inmóvil.
+
+Te mira. Tiene la mandíbula apretada, y durante un segundo se le enciende algo rojo en el fondo de los ojos. Después mira a Itachi, abrazado a Sasuke. Mira a Mikoto. Y lo rojo se le apaga solo.
+
+No contesta. Pero tampoco te sostiene la mirada.
+
+No esperas más. Te llevas dos dedos a la frente.
+
+La calle desaparece.
+
+Aparece una casa. Una sala chica, con piso de madera clara, una mesa baja, cortinas color durazno en la ventana. En la pared, un dibujo enmarcado, hecho por un niño: un remolino naranja. Huele a madera recién hecha y a algo dulce, como a té de flores. La luz de la tarde entra por la ventana.
+
+En medio de la sala hay dos personas de pie, muy juntas, de la mano.
+
+Un hombre joven, alto, de pelo rubio y desordenado y ojos azules, con un chaleco verde de jōnin. Y una mujer, también joven, de pelo rojo larguísimo que le cae hasta la cintura y ojos violetas, con un vestido sencillo y un delantal. Los dos te miran a la vez cuando apareces, sin moverse, con la cara de alguien que todavía está tratando de entender dónde está y por qué respira.
+
+La mujer se lleva la mano libre al vientre. Plano. Lo toca como si buscara algo que ya no está ahí.
+
+—¿Quién...? —empieza el hombre.
+
+> —Hola. Tienen a alguien que ver.
+
+No esperas a que contesten. Le apoyas una mano en el hombro a cada uno.
+
+—¡Oye, espera...! —alcanza a decir la mujer.
+
+La sala desaparece.
+
+Aparece la calle frente a la Torre del Hokage, el sol de la tarde, la multitud, el murmullo. A dos metros de ti, de espaldas, con la chaqueta naranja y negra, los hombros todavía temblando de tanto llorar por Sasuke, está Naruto.
+
+Se da vuelta al oírte aparecer. Tiene la cara mojada y sonríe.
+
+—¡Facundo! ¿Adónde te fuiste? Me...
+
+Se calla.
+
+Mira al hombre rubio. Mira a la mujer pelirroja. Se le van los ojos de uno a otro, una vez, dos.
+
+El hombre rubio también lo mira. Y se le abre la cara entera, de golpe, como si lo reconociera desde antes de verlo.
+
+La mujer pelirroja se suelta de la mano del hombre. Da un paso hacia Naruto. Le tiembla la boca.
+
+—¿Naruto? —dice, muy bajito.
+
+Detrás, entre la gente, Kakashi se da vuelta. Ve al hombre rubio. Se queda quieto como una estatua.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1410 · NARUTO · DÍA 1 · 15:27          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 82% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:27, calle frente a la Torre. Facundo a Fugaku: "No vuelvan a intentar algo como la última vez. El mundo cambió mucho." Fugaku: algo rojo en los ojos, se apaga; no contesta. Facundo se teletransportó a la casa de Minato y Kushina (sala chica, dibujo de un remolino), "Hola. Tienen a alguien que ver", y los trajo a la calle sin esperar. Naruto se da vuelta, los ve. Minato lo reconoce. Kushina da un paso: "¿Naruto?" Kakashi ve a Minato, inmóvil. Facundo puede actuar.
