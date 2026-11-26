@@ -5,3 +5,4 @@
 - T1320 · Rumor entre los chūnin de la reconstrucción: un forastero de pelo blanco y azul hizo brotar cientos de brazos del suelo y limpió un terreno entero en diez minutos.
 - T1324 · El rumor ya dice "mil brazos" y "el forastero del gato".
 - T1330 · Rumor: el forastero del gato recibió la Flor de Loto de Rock Lee con tres Puertas y ni se despeinó. Quedó un pozo en el borde este.
+- T1332 · Rumor: el forastero del gato le ganó a Rock Lee de un solo golpe.

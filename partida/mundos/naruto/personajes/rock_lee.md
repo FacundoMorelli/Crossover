@@ -25,3 +25,5 @@ COPIADO POR FACUNDO: taijutsu y Ocho Puertas (T1330). Lee no lo sabe.
 ESTADO: agotado por las Puertas (T1330).
 - T1331 · "¡Abrió la Puerta de la Apertura! ¡Igual que nosotros!" Se levanta tambaleando, sangre en la nariz: "Gai-sensei, eso después. ¡Facundo-san! ¡Estoy listo!"
 QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta.
+- T1332 · Recibe un golpe contenido al estómago. "Increíble..." Se desmaya sonriendo. Gai lo ataja. Sin costillas rotas. PERDIÓ el duelo (debe mil vueltas al cráter, según Gai).
+ESTADO: desmayado sobre una tabla, sonriendo (T1332).

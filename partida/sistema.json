@@ -1,13 +1,13 @@
 {
-  "turno": 1331,
+  "turno": 1332,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 09:31",
+  "hora": "Día 1, 09:32",
   "edad": 18,
   "nivel": 29,
-  "exp": 295680,
+  "exp": 295880,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 111957,
+  "fragmentos": 111969,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2078,6 +2078,14 @@
       "turno": "T1302",
       "fragmentos": 300,
       "exp": 800
+    },
+    {
+      "nombre": "Rock Lee",
+      "mundo": "naruto",
+      "turno": 1332,
+      "tipo": "duelo serio (Tercera Puerta); Facundo contenido",
+      "fragmentos": 12,
+      "exp": 200
     }
   ],
   "viaje": {

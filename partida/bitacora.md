@@ -1330,3 +1330,4 @@ T1328 · NARUTO · Borde este · Para el Huracán de la Hoja con los dedos sin d
 T1329 · NARUTO · Borde este · "Estoy impresionado. ¿Cuántos años tienes?" Lee: "¡Diecisiete!" (Gai llora). Abre la Segunda y la Tercera Puerta. "Facundo-san. ¡Ahí voy!"
 T1330 · NARUTO · Borde este · Solo mira. Lee: Danza de la Sombra, ~70 golpes, Flor de Loto Oculta. Pozo de dos metros; Facundo sin un rasguño. COPIA taijutsu y Ocho Puertas (+300 EXP). Lee agotado: "¿Sentiste... algo?"
 T1331 · NARUTO · Pozo del borde este · "No, pero déjame atacarte." Abre la Primera Puerta. Gai: "¿Dónde aprendiste a abrirlas?" Neji no ve los puntos. Lee se levanta tambaleando: "¡Estoy listo!"
+T1332 · NARUTO · Borde este · Golpe contenido al estómago: Lee se desmaya sonriendo ("Increíble..."). Gai: "El ganador es Facundo Morelli." +12 F, +200 EXP. Gai: "Las Puertas. ¿Dónde las aprendiste?"

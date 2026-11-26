@@ -24,3 +24,5 @@ QUÉ PODERES DE FACUNDO VIO (T1326): paró el Remolino de la Hoja con una mano s
 QUÉ PODERES DE FACUNDO VIO (T1330): recibió la Flor de Loto Oculta con la Tercera Puerta sin un rasguño.
 - T1331 · Ve a Facundo abrir la Primera Puerta. Serio, sin sonrisa: "Las Ocho Puertas no las enseña nadie. Las aprendí de mi padre, y se las enseñé a Lee. En toda la aldea, que yo sepa, solo nosotros tres las conocimos. ¿Dónde aprendiste a abrirlas?"
 QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (Ocho Puertas). Sospecha.
+- T1332 · Ataja a Lee. "Ni una costilla rota. Lo frenaste a propósito." "¡El ganador es... Facundo Morelli!" "Te lo pregunto otra vez, con todo respeto, de hombre a hombre. Las Puertas. ¿Dónde las aprendiste?"
+QUÉ PODERES DE FACUNDO VIO (T1332): velocidad imposible de seguir; golpe contenido.

@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1329)
-
-la verdad, aunque no parezca estoy impresionado, cuantos años tienes?
-
-## RESPUESTA 1 (T1329)
-
-> la verdad, aunque no parezca estoy impresionado, cuantos años tienes?
-
-> —La verdad, aunque no parezca, estoy impresionado. ¿Cuántos años tienes?
-
-Lee se queda con los brazos cruzados frente al pecho, la piel roja, el aire caliente saliéndole a ráfagas. Parpadea.
-
-—¿Eh?
-
-Gai, desde el costado, se lleva un puño a la boca y empieza a llorar en silencio.
-
-—¡Diecisiete! —grita Lee, con todo el pecho, como si fuera un grito de batalla—. ¡Y gracias! ¡Que alguien como tú diga eso es el honor más grande de mi vida! ¡Bueno, el segundo! ¡El primero fue cuando Gai-sensei me dijo que creía en mí!
-
-—¡LEE! —solloza Gai.
-
-—¡GAI-SENSEI!
-
-Tenten levanta una mano.
-
-—Si se abrazan otra vez, me voy.
-
-No se abrazan. Lee aprieta los dientes y vuelve a cruzar los brazos con más fuerza.
-
-—¡Segunda Puerta, la Puerta del Descanso! ¡ABIERTA!
-
-El rojo de la piel se le vuelve más oscuro. El pelo se le levanta, como si hubiera viento debajo de él.
-
-—¡Tercera Puerta, la Puerta de la Vida! ¡ABIERTA!
-
-Las venas de la cara se le marcan como raíces. Las piedras chicas del suelo alrededor de sus pies empiezan a temblar y a levantarse, solas, unos centímetros. El aire cerca de él se ondula de calor.
-
-Los curiosos dan un paso atrás. La señora del balde da dos.
-
-Lee baja el cuerpo, una mano adelante, la otra atrás. Ya no sonríe. Los ojos le brillan.
-
-—Facundo-san. —Su voz suena más grave—. ¡Ahí voy!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1329 · NARUTO · DÍA 1 · 09:29          ║
-║ Konoha · borde este del cráter · duelo       ║
-║ NIVEL 29 · EXP 295.380/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Duelo con Rock Lee                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1330)
+## COMANDO 1 (T1330)
 
 miro
 
-## RESPUESTA 2 (T1330)
+## RESPUESTA 1 (T1330)
 
 > miro
 
@@ -146,11 +87,11 @@ Lee gira la cabeza hacia ti, desde el suelo, con la cara roja y llena de tierra.
 
 ---
 
-## COMANDO 3 (T1331)
+## COMANDO 2 (T1331)
 
 no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
 
-## RESPUESTA 3 (T1331)
+## RESPUESTA 2 (T1331)
 
 > no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
 
@@ -201,4 +142,63 @@ En el suelo, Lee ya se está levantando. Le tiemblan los brazos, las piernas no 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:31, pozo del borde este. Facundo abrió la Primera Puerta (piel roja, calor). Gai, serio: solo él, su padre y Lee las conocían; "¿Dónde aprendiste a abrirlas?" Neji no ve los puntos de chakra (Velo). Lee se levanta tambaleando, sangre en la nariz: "¡Facundo-san! ¡Estoy listo!" Facundo puede actuar (atacar / contestar a Gai).
+## COMANDO 3 (T1332)
+
+le pego a lee conteniendome
+
+## RESPUESTA 3 (T1332)
+
+> le pego a lee conteniendome
+
+Sales del pozo de un paso.
+
+Para los que miran, no hay nada en el medio: estabas abajo y ahora estás frente a Lee, a un palmo, con el puño ya apoyado en su estómago. El viento del movimiento llega después y les sacude la ropa a todos. A Tenten se le vuela una venda de la mano.
+
+El golpe es corto, sin vuelo, casi un empujón. Lo frenas mucho antes de que llegue a ser un golpe de verdad.
+
+Igual alcanza.
+
+Lee se dobla sobre tu puño. Se le escapa todo el aire de una vez, con un ruido como de fuelle. Se le abren los ojos. Te mira desde muy cerca, y lo que tiene en la cara no es dolor: es una sonrisa enorme, de oreja a oreja, como la de alguien que acaba de ver algo que va a contar toda la vida.
+
+—Increíble... —alcanza a decir.
+
+Y se le apagan los ojos. Se le aflojan las piernas.
+
+No llega al suelo. Gai está ahí antes, y lo recibe en los brazos como a un chico dormido. Le pasa dos dedos por el cuello, le revisa la respiración, le mira el estómago. Suelta el aire por la nariz, largo.
+
+—Está bien. Solo desmayado. —Lo acomoda con cuidado sobre una tabla—. Ni una costilla rota. Lo frenaste a propósito.
+
+Mira la cara de su alumno. Lee sigue sonriendo, dormido.
+
+Gai se pone de pie y levanta la mano derecha hacia ti, con el puño cerrado y el pulgar arriba, temblando apenas.
+
+—¡El ganador es... Facundo Morelli!
+
+Nadie aplaude. Los curiosos están demasiado ocupados mirando.
+
+[Duelo ganado: Rock Lee.]
+
+[+12 Fragmentos. +200 EXP.]
+
+Gai baja la mano. Ya no sonríe.
+
+—Y ahora que terminó —dice, muy tranquilo—, te lo pregunto otra vez, con todo respeto, de hombre a hombre. Las Puertas. ¿Dónde las aprendiste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1332 · NARUTO · DÍA 1 · 09:32          ║
+║ Konoha · borde este del cráter               ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común · Primera Puerta abierta ║
+║ Kase: en la viga, junto a Neji               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:32, borde este. Facundo desmayó a Lee de un golpe contenido al estómago (Lee: "Increíble...", sonriendo). Gai lo atajó: ni una costilla rota. Gai declaró ganador a Facundo (+12 F, +200 EXP). Gai, serio: "Las Puertas. ¿Dónde las aprendiste?" Facundo tiene que contestar. Primera Puerta sigue abierta.
