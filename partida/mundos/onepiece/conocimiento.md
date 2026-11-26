@@ -270,3 +270,4 @@
 - Koala y revolucionarios del pasillo · T1447 · Por Facundo: se llama Facundo Morelli, es Ojos de Eclipse.
 - Koala · T1447 · Por Corvin (Día ~60): en Tequila Wolf no quedaba ninguna cadena; deduce (T1447) que fue Facundo. Deduce que es pareja de Robin (salió de su cuarto).
 - Facundo · T1447 · Por Koala: Dragon está arriba con Sabo, revisando informes del Nuevo Mundo.
+- Dragon, Sabo · T1448 · Ven a Facundo con Robin y el gato en la torre; por Koala: llegó solo. Por cartel/diario: Ojos de Eclipse (Marineford).

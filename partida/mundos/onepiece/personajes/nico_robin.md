@@ -99,3 +99,4 @@ ESTADO: activa
 - T1444 · Cuenta la respuesta de Dragon al pedido de Facundo (por Corvin): "Si encuentra la isla sin que nadie se la diga, que venga". Dragon está en la base, despierto en la torre de arriba. Ofrece llevarlo ahora o mañana.
 - T1445 · Facundo elige quedarse con ella antes que la entrada dramática. Besos; tira libros al suelo; "Dos meses. Ni se te ocurra irte esta noche." Apaga la lámpara con una mano brotada. Noche juntos (fundido). Día ~121 06:10: lee con la cabeza en su pecho: "Buenos días. Ya es una hora decente."
 - T1446 · "Buenos días, amor." Se viste (abrigo verde oscuro revolucionario), lo lleva por el pasillo hacia la torre de Dragon. "No hay forma de que pases desapercibido. Te gusta eso, ¿verdad?"
+- T1448 · A Koala: "Es la única que vas a conseguir. Yo también le pregunto cosas. Llevo meses sin respuesta." Sube a la torre con él.

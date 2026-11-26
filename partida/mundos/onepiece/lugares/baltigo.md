@@ -3,3 +3,5 @@ TIPO: isla, base secreta del Ejército Revolucionario (Grand Line). Tierra blanc
 CUARTO DE ROBIN: piedra blanca, techo bajo, una ventana angosta. Libros por todas partes, mapas clavados con cuchillos, cama angosta casi sin usar, lámpara de aceite, taza de café frío, notas de letra chica.
 VISITAS:
 - T1442 · Día ~120 00:09 · Facundo llega por teletransportación al cuarto de Robin. Nadie más lo ve.
+TORRE DE DRAGON: cuarto redondo en lo alto, ventanas a los cuatro lados, viento; mesa enorme de mapas, cartas e informes, Den Den Mushi. Escalera de caracol desde el pasillo de los cuartos.
+- T1448 · Facundo sube con Robin y Koala; Dragon y Sabo adentro.

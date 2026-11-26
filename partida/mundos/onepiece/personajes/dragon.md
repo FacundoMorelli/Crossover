@@ -10,3 +10,4 @@ ESTADO: activo
 - T799 · Facundo describe la cara de Dragon (alto, capa verde, tatuaje rojo) y su frase de Loguetown, delante de Garp y la tripulación.
 - (Día ~60, fuera de escena) · Por Corvin, supo del pedido de Facundo en Tequila Wolf. Respuesta: "Si encuentra la isla sin que nadie se la diga, que venga."
 - T1444 · Día ~120 · Está en Baltigo, esta semana sin salir; de noche, en la torre de arriba, mirando mapas.
+- T1448 · Día ~121 06:29 · Torre de Baltigo. Se da vuelta desde la ventana del este y mira solo a Facundo, midiéndolo: "Así que encontraste la isla." Tasación: poder sin datos, amenaza baja, Facundo x40 o más, misión muy alta.
