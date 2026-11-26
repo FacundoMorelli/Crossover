@@ -94,3 +94,4 @@ ESTADO: activa
 - T925 · Facundo promete ir a verla: "Sí, amor" (delante de Luffy). "Entonces te voy a esperar." Amenaza a Luffy: "Si se lo cuentas a Nami, te voy a hacer brotar manos en lugares que no te van a gustar."
 - T926 · "Gracias, capitán." Llegan los revolucionarios por ella.
 - T928 · Beso de despedida: "Tranquila. Puedes irte." A Corvin: "No lo va a frenar. Créame." Se toca los labios mirando a Facundo y sube al barco revolucionario.
+- T1442 · Día ~120 00:09 · Baltigo, su cuarto (libros, mapas, notas). Despierta, escribiendo en un margen. Facundo aparece por teletransportación (sin permiso de Dragon). Se le cae el lápiz: "Le dije a Corvin que nada te iba a frenar. No me creyó."

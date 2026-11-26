@@ -262,3 +262,5 @@
 - Rayleigh, Shakky · T929 · Por el diario y la transmisión: lo de Marineford (Ace libre, Ojos de Eclipse en el cadalso). Ven a Facundo y Luffy aparecer de la nada en el bar.
 - Luffy, Rayleigh, Shakky · T930 · Ven a Facundo abrir una puerta de luz en el bar y cruzarla (del otro lado: un cuarto de piedra con mapas).
 - Facundo · T1441 · Por Shakky: Rayleigh se llevó a Luffy a Rusukaina (Calm Belt, cerca de Amazon Lily) el Día 57 a la noche; no volvió a Sabaody desde entonces.
+- Shakky · T1442 · Ve a Facundo desaparecer de su bar de golpe con el gato (teletransportación). Sabe que fue a ver a "otra persona".
+- Robin · T1442 · Ve a Facundo aparecer de la nada en su cuarto de Baltigo (teletransportación). Nadie más en la base lo vio llegar.

@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1439)
-
-te lo prometo naruto
-
-## RESPUESTA 1 (T1439)
-
-> te lo prometo naruto
-
-> —Te lo prometo, Naruto.
-
-Chocas el puño con el suyo.
-
-Naruto se queda un segundo así, con el puño contra el tuyo, mirándote. Después sonríe. No la sonrisa enorme de siempre: una más chica, que se le arma despacio, de abajo hacia arriba, hasta que le llega a los ojos.
-
-—Una promesa de por vida —dice—. Esa es mi forma ninja. Y ahora también es la tuya.
-
-Baja el puño. Da un paso atrás, al escalón de abajo.
-
-Y sale corriendo.
-
-—¡MAMÁ! ¡PAPÁ! ¡SABIO PERVERTIDO! —se le oye gritar mientras se aleja por la calle oscura, saltando de techo en techo—. ¡MAÑANA HAY FIESTA EN ICHIRAKU! ¡SE VA FACUNDO! ¡QUE VENGAN TODOS! ¡SASUKE TAMBIÉN! ¡SASUKE, AUNQUE NO QUIERAS!
-
-Una ventana se cierra de un golpe. Otra se abre. Alguien le grita que se calle. Un perro ladra. A lo lejos, en la colina, se enciende la luz de la casa del sapo de piedra, y se oye la voz de Jiraiya contestando algo que no se entiende.
-
-Después, la calle vuelve a quedar en silencio.
-
-Cierras la puerta.
-
-La casa de madera está a oscuras, salvo por la luz de la luna que entra por la ventana redonda. Huele a madera, a arroz de la mañana, a la bufanda tejida que alguien te dejó colgada en el picaporte. En una esquina hay una pila de cosas que te fueron trayendo estos días: el dibujo del chico con el dragón y el gato, una canasta vacía, una caja de dangos que todavía no abriste.
-
-Kase baja del estante de un salto, camina hasta el futón y se echa en el medio, ocupando la mitad, como hace en todos los mundos.
-
-Te mira con el ojo rojo y el ojo azul. Bosteza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1439 · NARUTO · DÍA 9 · 21:19          ║
-║ Konoha · borde sur · tu casa de madera       ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el futón                            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Despedida mañana en Ichiraku       ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1440)
+## COMANDO 1 (T1440)
 
 le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
 
-## RESPUESTA 2 (T1440)
+## RESPUESTA 1 (T1440)
 
 > le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
 
@@ -121,11 +70,11 @@ Detrás de la barra, la misma mujer de pelo negro corto y cigarrillo largo, seca
 
 ---
 
-## COMANDO 3 (T1441)
+## COMANDO 2 (T1441)
 
 hola shakky, como esta el viejo?
 
-## RESPUESTA 3 (T1441)
+## RESPUESTA 2 (T1441)
 
 > hola shakky, como esta el viejo?
 
@@ -168,4 +117,70 @@ Te mira un rato, con los ojos entrecerrados detrás del humo. Mira tu cara, el p
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~120 00:07, bar de Shakky. Facundo preguntó por Rayleigh. Shakky: se llevó a Luffy a Rusukaina el Día 57 a la noche, no volvió ni escribe. Leche para Kase. Pregunta: "¿Viniste por él... o por otra persona?" Facundo puede responder.
+## COMANDO 3 (T1442)
+
+por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
+
+## RESPUESTA 3 (T1442)
+
+> por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
+
+> —Por otra persona. Pero ya que estoy aquí, te pregunto. Nos vemos, Shakky.
+
+Shakky levanta las cejas, despacio. Después se le escapa una risa corta, de las que no se le escapan a menudo.
+
+—Lo sabía.
+
+Kase termina la leche sin apuro, se lame los bigotes una última vez y te salta al hombro.
+
+Te tocas la frente con dos dedos y cierras los ojos.
+
+Buscas el ki de Robin. Está lejos, muy lejos, del otro lado del mundo: tranquilo, encendido, como una vela en un cuarto cerrado. Despierto. Está despierta.
+
+Shakky alza el vaso hacia ti.
+
+Ya no estás.
+
+Del otro lado hace frío. No el frío húmedo de Sabaody: un frío seco, de piedra, de desierto de noche.
+
+Estás en un cuarto de paredes de piedra blanca, grueso y bajo, con una sola ventana angosta por la que entra un viento que trae polvo blanco. Afuera se ve un cielo negro y limpio, lleno de estrellas, y la silueta de muros y torres sobre una tierra pálida, como de hueso. Huele a lámpara de aceite, a papel viejo y a café frío.
+
+Hay libros por todas partes. Apilados contra las paredes, abiertos sobre una cama angosta que no parece usada, en el suelo, en el alféizar. Mapas clavados a la pared con cuchillos. Una taza abandonada sobre una pila de papeles escritos con una letra prolija y chica.
+
+Y en el escritorio, de espaldas a ti, con un abrigo largo sobre los hombros y el pelo negro suelto, Robin.
+
+Tiene un libro abierto delante y un lápiz en la mano. Escribe algo en el margen.
+
+Deja de escribir.
+
+No te oyó llegar. No hubo ruido. Pero se queda quieta, con el lápiz en el aire, como cuando alguien siente que lo miran. Kase, en tu hombro, mueve la cola una sola vez.
+
+Robin se da vuelta en la silla.
+
+Te ve. Ve a Kase.
+
+El lápiz se le cae de la mano y rueda por el escritorio hasta el suelo. Ella no lo mira. No se levanta. Se te queda mirando, con la boca apenas abierta, como si estuviera leyendo una página que no termina de creerse.
+
+Después sonríe. Despacio.
+
+—Le dije a Corvin que nada te iba a frenar —dice, muy bajo—. No me creyó.
+
+╔══════════════════════════════════════════════╗
+```
+║ TURNO 1442 · ONE PIECE · DÍA ~120 · 00:09    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~120 00:09, Baltigo, cuarto de Robin. Facundo llegó por teletransportación; Robin lo ve: "Le dije a Corvin que nada te iba a frenar. No me creyó." Facundo puede responder.
