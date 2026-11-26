@@ -13,3 +13,5 @@ ESTADO: en la carpa de mando con Tsunade (T1334).
 TASACIÓN (T1335): Estilo Viento, invocación, sellos; bajo las vendas sin datos; mínima; x0,01.
 RELACIÓN CON FACUNDO: desconfianza fría.
 - T1336 · "Los viajeros así no existen, Facundo Morelli. Existen los espías, los desertores y los que vienen a cobrarse algo más adelante." A Tsunade: "Hace tres horas que estás despierta. Yo estuve despierto estos dos días." Llama a Fū: "Puede entrar en la mente de un hombre y ver lo que vio... Un minuto, y sales de esta carpa como un héroe, con mi palabra delante de todos." "No se lo ordeno a él, Hokage. Se lo pido. ¿Lo permites?"
+- T1337 · "Interesante." "Un hombre al que no se le puede leer la mente es un hombre al que alguien preparó con mucho cuidado para que nadie se la lea." Cumple su palabra: no tiene pruebas de que sea enemigo. Pide que quede bajo vigilancia de Raíz; Tsunade lo deniega. "Si no tienes nada que esconder, Facundo Morelli, ¿te molestaría que mi gente te siga?"
+QUÉ SABE DE FACUNDO (T1337): por Fū, su mente no se puede leer (no hay nada).

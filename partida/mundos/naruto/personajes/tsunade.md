@@ -23,3 +23,4 @@ RELACIÓN CON FACUNDO (T1316): desconfianza que se ablanda; lo pone a prueba.
 - T1317 · "Sé pelear." Se ríe: "Aquí sabe pelear hasta la señora que vende dangos." En voz baja: "Alguien que aparece de la nada en la carpa de la Hokage, sin banda y con eso en los bolsillos... no pelea como la señora de los dangos. Cuando termine con lo de Danzō, me vas a mostrar qué tan bien peleas. Yo misma." Lo manda con Yamato a limpiar escombros. Sale con Kakashi y Shizune hacia la reunión.
 - T1335 · Carpa de mando, con Danzō, Homura, Koharu y Kakashi. "Te presento a Danzō Shimura... El hombre que, en una mañana, hizo más por esta aldea que tú en treinta años."
 - T1336 · "¡No es tu decisión! Este muchacho me salvó la vida, y no vas a meterle las manos en la cabeza como si fuera un prisionero de guerra." (golpe a la mesa)
+- T1337 · Media sonrisa: "¿Satisfecho? Ahí tienes tu minuto. Ahora dale tu palabra delante de todos." Deniega la vigilancia de Raíz: "Denegado."

@@ -59,3 +59,4 @@
 - Danzō · T1335 · sabe (rumor público del campamento + informes de Raíz + Tsunade): curó a la Hokage y al hospital, limpió el terreno sur con técnica desconocida, abrió las Puertas frente a Gai, venció a Lee de un golpe. Sin registro, sin aldea.
 - Homura, Koharu · T1335 · lo mismo, por la reunión.
 - Fū, Torune · T1335 · lo vieron entrar.
+- Fū, Danzō, Tsunade, Kakashi, Homura, Koharu, Shizune · T1337 · por Fū (en voz alta): no se puede leer la mente de Facundo; "no hay nada, como si no hubiera nadie". (Velo.) Danzō lo interpreta como preparación deliberada.

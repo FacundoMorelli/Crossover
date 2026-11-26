@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1334)
-
-desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
-
-## RESPUESTA 1 (T1334)
-
-> desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
-
-> —Bueno, fue un placer conocerlos. Fue un buen combate, Lee. —Cierras la Primera Puerta—. Voy a seguir caminando hasta que Tsunade me llame.
-
-La llave gira al revés adentro de la cabeza. El rojo se te va de la piel, el calor se apaga y el pelo vuelve a caerte sobre los hombros.
-
-Lee se cuadra frente a ti, firme como un soldado, y hace una reverencia tan profunda que casi toca el suelo con la frente.
-
-—¡El placer fue mío, Facundo-san! ¡La próxima vez, voy a hacer que te muevas aunque sea un paso! ¡Y si no lo logro, daré tres mil vueltas al cráter!
-
-—Mil, Lee —dice Tenten—. Ya perdiste. Debes mil.
-
-—¡Entonces cuatro mil!
-
-Gai te pone una mano en el hombro al pasar. Pesa como una piedra.
-
-—Cuando quieras, en el campo de entrenamiento que quede en pie. —Sonríe con todos los dientes otra vez—. Y no te preocupes. A Kakashi se lo cuento yo.
-
-Kase baja de la viga de un salto, pasa por al lado de Neji rozándole la pierna con la cola y te trepa por el sobretodo hasta el cuello. Neji lo mira irse. Después te mira a ti, sin decir nada, y asiente una sola vez.
-
-Sigues caminando.
-
-Rodeas el cráter hacia el norte. Te cruzas con una fila de chicos de la academia que cargan baldes de agua de a dos, cantando una canción para no perder el paso. Ves a lo lejos, en el centro del campamento, un grupo de gente alrededor de un muchacho rubio con chaqueta naranja: le dan comida, le dan palmadas, una nena le regala una flor, y él se ríe rascándose la nuca, colorado, sin saber dónde meterse. Ves a dos ninjas con máscaras de animal pasar a lo lejos por el lado oeste, hacia las carpas grises, sin hacer ruido. Ves a una señora tender ropa en una soga atada entre dos vigas partidas.
-
-Pasa una hora. Un poco más.
-
-Estás cerca del borde norte, donde llegaste a la mañana, cuando oyes pasos apurados detrás de ti y un chillido de cerdo.
-
-—¡Facundo-san! ¡Facundo-san, espere!
-
-Es Shizune, con Tonton en brazos, sin aire, con el pelo pegado en la frente. Se frena delante de ti y se apoya en las rodillas.
-
-—Tsunade-sama lo llama. A la carpa de mando. Ahora. —Levanta la vista. Tiene cara de preocupación—. Y... le aviso antes, para que no lo agarre de sorpresa. Danzō está ahí.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1334 · NARUTO · DÍA 1 · 10:47          ║
-║ Konoha · borde norte del cráter              ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Ir a la carpa de mando             ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1335)
+## COMANDO 1 (T1335)
 
 voy con tsunade
 
-## RESPUESTA 2 (T1335)
+## RESPUESTA 1 (T1335)
 
 > voy con tsunade
 
@@ -124,11 +67,11 @@ Golpea el suelo con la punta del bastón, una sola vez.
 
 ---
 
-## COMANDO 3 (T1336)
+## COMANDO 2 (T1336)
 
 nadie, soy un viajero
 
-## RESPUESTA 3 (T1336)
+## RESPUESTA 2 (T1336)
 
 > nadie, soy un viajero
 
@@ -175,4 +118,75 @@ Kakashi saca las manos de los bolsillos, despacio.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 10:56, carpa de mando. "Nadie. Soy un viajero." Danzō no le cree ("los viajeros así no existen: espías, desertores..."). Llama a Fū (Yamanaka), que se para detrás de Facundo. Propone que Fū le revise la mente un minuto. Tsunade se opone (golpea la mesa). Danzō: "No se lo ordeno. Se lo pido. ¿Lo permites?" Kakashi saca las manos de los bolsillos. Facundo tiene que contestar. (Velo: nadie le lee la mente.)
+## COMANDO 3 (T1337)
+
+esta bien, que lo haga+
+
+## RESPUESTA 3 (T1337)
+
+> esta bien, que lo haga+
+
+> —Está bien. Que lo haga.
+
+Tsunade te mira como si le hubieras dicho que vas a saltar al cráter. Kakashi no dice nada, pero no vuelve a meter las manos en los bolsillos.
+
+Danzō hace un gesto mínimo con la cabeza.
+
+Fū da un paso y te apoya la palma de la mano en la coronilla, por encima del pelo. Tiene la mano fría. Con la otra mano forma un sello frente al pecho y cierra los ojos.
+
+—Técnica de Lectura de la Mente.
+
+Pasa un segundo. Pasan dos.
+
+No sientes nada. Ni un cosquilleo, ni una presión, ni una voz. Solo la mano fría de un desconocido en la cabeza y a Kase, que se estira sobre tu cuello para olerle la manga a Fū, con cara de asco.
+
+Fū frunce el ceño. Aprieta el sello. Le aparece una arruga entre las cejas, después otra. Una gota de sudor le baja por la sien.
+
+Pasan diez segundos. Veinte.
+
+Fū abre los ojos de golpe y saca la mano como si se hubiera quemado. Da un paso atrás. Tiene la respiración agitada y lo mira a Danzō, no a ti.
+
+—Danzō-sama. —La voz le sale plana, como siempre, pero un poco más rápida—. No hay nada.
+
+—Explícate.
+
+—No es una barrera. Las barreras se sienten: se empujan, se rompen, se rodean. —Se mira la mano—. Esto no. Entro y no hay nada adentro. Ni recuerdos, ni pensamientos, ni oscuridad. Es como si no hubiera nadie.
+
+En la carpa no se oye ni la respiración de Homura.
+
+Danzō se queda quieto, apoyado en el bastón. El ojo visible se le achica un poco, apenas, lo único que le cambia en la cara.
+
+—Interesante —dice.
+
+Tsunade se echa hacia atrás en la silla y cruza los brazos. Tiene media sonrisa.
+
+—¿Satisfecho? Ahí tienes tu minuto. Ahora dale tu palabra delante de todos, como dijiste.
+
+Danzō no la mira. Te mira a ti, largo.
+
+—Un hombre al que no se le puede leer la mente —dice, despacio— es un hombre al que alguien preparó con mucho cuidado para que nadie se la lea. —Apoya las dos manos sobre el bastón—. Hokage, cumplo mi palabra: no tengo pruebas de que sea un enemigo. Pero esta aldea no puede darse el lujo de tener en medio del campamento a alguien a quien no se le puede ver el fondo. Solicito que quede bajo la vigilancia de Raíz mientras esté en Konoha.
+
+—Denegado —dice Tsunade, sin pensarlo un segundo.
+
+Danzō ni pestañea.
+
+—Entonces que lo diga él. —El ojo vuelve a ti—. Si no tienes nada que esconder, Facundo Morelli, ¿te molestaría que mi gente te siga?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1337 · NARUTO · DÍA 1 · 10:58          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 10:58, carpa de mando. Facundo dejó que Fū usara la Lectura de la Mente: Velo; Fū: "No hay nada... Es como si no hubiera nadie." Danzō: "Interesante." Cumple su palabra (no hay pruebas de que sea enemigo) pero pide vigilancia de Raíz. Tsunade: "Denegado." Danzō a Facundo: "¿Te molestaría que mi gente te siga?" Facundo tiene que contestar.

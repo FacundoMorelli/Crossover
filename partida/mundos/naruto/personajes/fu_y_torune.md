@@ -7,3 +7,4 @@ QUÉ SABE DE FACUNDO: lo que sabe Raíz (rumores del campamento).
 CANON: mueren a manos de Tobi camino a la Cumbre (cap. ~470s).
 ESTADO: activos.
 - T1336 · Fū entra a la orden de Danzō y se para a un paso detrás de Facundo, listo para la técnica Yamanaka.
+- T1337 · Fū usa la Técnica de Lectura de la Mente sobre Facundo (con permiso). Velo: no encuentra nada. "No es una barrera... Entro y no hay nada adentro. Ni recuerdos, ni pensamientos, ni oscuridad. Es como si no hubiera nadie." Retira la mano como quemado.
