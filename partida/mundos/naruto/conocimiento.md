@@ -68,3 +68,4 @@
 - Yamato, Gai, Ibiki · T1341 · por Tsunade: Danzō tiene varios Sharingan en el brazo (ojos de la masacre Uchiha). Yamato intuye que lo dijo Facundo.
 - Danzō · T1341 · por Raíz (vieron a Shizune buscar a Ibiki): deduce que van por él y que Facundo habló del brazo.
 - Campamento · T1341 · vieron a la Hokage marchar con Kakashi, el forastero, Gai, Yamato e Ibiki hacia las carpas de Raíz.
+- TODOS los presentes y la fila de la sopa (de lejos) · T1342 · vieron el brazo de Danzō: diez Sharingan y la cara del Primero. Kakashi nombró a Shisui, Itachi, Fugaku, Mikoto. PÚBLICO en el campamento en minutos. Confirma lo que dijo Facundo.

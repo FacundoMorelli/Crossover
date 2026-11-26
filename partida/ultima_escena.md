@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1339)
-
-en ese brazo tiene los mismos ojos que tiene kakashi en el izquierdo, pero no uno, varios
-
-## RESPUESTA 1 (T1339)
-
-> en ese brazo tiene los mismos ojos que tiene kakashi en el izquierdo, pero no uno, varios
-
-> —En ese brazo tiene los mismos ojos que tiene Kakashi en el izquierdo. Pero no uno. Varios.
-
-Nadie se mueve.
-
-Kakashi es el primero. Se le borra de golpe todo lo que tenía de perezoso. La mano le sube sola hasta la banda que le tapa el ojo izquierdo y se queda ahí, apoyada, sin levantarla.
-
-—¿Sharingan? —Le sale muy bajo—. ¿En el brazo?
-
-Homura se queda con los anteojos en la mano, a medio poner. Koharu levanta la cabeza de golpe y lo mira a él, no a ti. Se miran entre ellos un segundo, los dos viejos, y en esa mirada hay algo que ninguno de los dos dice.
-
-Tsunade se pone de pie despacio. Apoya las dos palmas en la mesa.
-
-—Varios —repite—. ¿De dónde saca un hombre varios Sharingan?
-
-—Solo hay un lugar —dice Kakashi. No te mira: mira la lona por donde salió Danzō—. La noche de la masacre de los Uchiha, a los cuerpos les faltaban los ojos. A muchos. Siempre se pensó que había sido Itachi. Que se los había llevado él. —Se queda callado un momento—. Nunca se encontraron.
-
-La carpa se queda en silencio. Afuera, a lo lejos, alguien martilla una tabla.
-
-Shizune, en la entrada, se tapa la boca con la mano. Tonton se esconde debajo de su brazo.
-
-Kakashi gira la cabeza hacia ti. Te mira con el ojo visible, largo.
-
-—¿Cómo sabes eso?
-
-No espera la respuesta. Niega con la cabeza, como si se contestara solo, y vuelve a mirar la salida.
-
-Tsunade aprieta los dedos sobre la mesa. La madera de la puerta vieja cruje bajo sus palmas, y se le abre una grieta fina desde la mano derecha hasta el borde.
-
-—Homura. Koharu. —No los mira—. Ustedes estuvieron en el consejo cuando pasó lo de los Uchiha. ¿Sabían algo de esto?
-
-Los dos viejos no contestan enseguida. Ese silencio también dura un segundo de más.
-
-—No sabíamos lo del brazo —dice Koharu al fin, con la voz chica.
-
-Tsunade cierra los ojos. Respira. Cuando los abre, te mira a ti.
-
-—Facundo. Si me estás diciendo esto, quiero que estés seguro. Porque lo que voy a hacer con eso no tiene vuelta atrás. —Se le endurece la cara—. ¿Lo estás?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1339 · NARUTO · DÍA 1 · 11:02          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común · vigilado por Raíz      ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1340)
+## COMANDO 1 (T1340)
 
 estoy seguro
 
-## RESPUESTA 2 (T1340)
+## RESPUESTA 1 (T1340)
 
 > estoy seguro
 
@@ -121,11 +58,11 @@ Se acomoda el abrigo de Hokage sobre los hombros.
 
 ---
 
-## COMANDO 3 (T1341)
+## COMANDO 2 (T1341)
 
 esta bien
 
-## RESPUESTA 3 (T1341)
+## RESPUESTA 2 (T1341)
 
 > esta bien
 
@@ -188,4 +125,69 @@ Lleva la mano izquierda despacio hacia el hombro derecho, donde la tela cae vac�
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:21, lado oeste del cráter, carpas grises de Raíz. Llegaron Tsunade, Kakashi, Facundo (con Kase), Gai, Yamato, Ibiki y 4 ANBU. Danzō los esperaba con Fū, Torune y 20-30 de Raíz en techos y vigas. Sabía (vio a Shizune buscar a Ibiki). A Facundo: "Te dije que no me pidieras que me quitara las vendas, viajero." Lleva la mano izquierda al broche del hombro derecho. Facundo puede actuar.
+## COMANDO 3 (T1342)
+
+miro
+
+## RESPUESTA 3 (T1342)
+
+> miro
+
+Danzō suelta el broche.
+
+La tela cae al suelo. Después, con los dientes y la mano izquierda, se desata una correa de cuero gruesa que le cruza el pecho, y otra, y otra. Debajo hay un brazalete de metal, ancho como un puño, que le aprieta el antebrazo desde el codo. Lo abre. Cae al suelo con un golpe sordo.
+
+El brazo queda al aire.
+
+Es demasiado blanco, de un blanco de raíz, de madera vieja, y no hace juego con el resto del cuerpo. En el hombro, incrustada en la piel, hay una cara: la cara de un hombre, apenas un relieve, con los ojos cerrados. Y a lo largo del brazo, desde el hombro hasta la muñeca, en dos filas, hay ojos.
+
+Diez.
+
+Diez ojos rojos, abiertos, con tres comas negras cada uno, que se mueven todos a la vez y miran todos a la vez. A Tsunade. A Kakashi. A ti.
+
+Alguien de los que miraban de lejos, en la fila de la sopa, grita.
+
+Kakashi da medio paso atrás. Es la primera vez en todo el día que retrocede. Se le levanta sola la banda de la frente y se le abre el ojo izquierdo, rojo, con las comas girando, como si el suyo hubiera reconocido a los otros.
+
+—Shisui —dice muy bajo, mirando la venda del ojo derecho de Danzō—. Itachi. Fugaku. Mikoto... Son todos ellos.
+
+Gai aprieta los puños hasta que le crujen los nudillos. Yamato mira la cara del hombro y se pone blanco, como si la conociera.
+
+—Esa cara —murmura—. Es... la del Primero.
+
+Tsunade no grita. Ni siquiera levanta la voz.
+
+—Danzō Shimura. —Cada palabra le sale despacio—. Por los ojos del clan Uchiha, y por lo que sea que tienes en el hombro, quedas arrestado por orden de la Quinta Hokage.
+
+—Hice lo que había que hacer —contesta Danzō, sin ningún tono, como quien lee un parte—. Konoha no podía darse el lujo de enterrar esos ojos. Tú dormías, Tsunade. Siempre dormiste. —El ojo visible vuelve a ti—. Y el viajero sabe demasiado para alguien que no envió nadie.
+
+Levanta dos dedos de la mano izquierda.
+
+Los treinta de Raíz se mueven a la vez.
+
+Bajan de los techos, saltan de las vigas, salen de entre las carpas, y caen sobre ustedes como una lluvia gris. Gai sale disparado hacia la izquierda con un grito. Kakashi forma sellos a toda velocidad y la mano derecha se le llena de rayos. El suelo bajo los pies de Yamato revienta en raíces que atrapan a tres de un solo golpe. Ibiki pone su cuerpo delante de Tsunade.
+
+Y Danzō, en medio de todo, aspira hondo, se lleva dos dedos a la boca y te apunta a ti.
+
+—Estilo Viento: ¡Ráfagas del Vacío!
+
+Una lluvia de balas de aire comprimido, decenas, invisibles salvo por cómo deforman lo que hay detrás, vienen directo hacia tu pecho y tu cabeza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1342 · NARUTO · DÍA 1 · 11:22          ║
+║ Konoha · lado oeste · carpas de Raíz         ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común · vigilado por Raíz      ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:22, carpas de Raíz. Danzō se quitó las vendas del brazo: blanco como madera, cara del Primero en el hombro, DIEZ SHARINGAN. Kakashi (Sharingan abierto): "Shisui. Itachi. Fugaku. Mikoto... Son todos ellos." Yamato reconoce la cara del Primero. Tsunade lo arresta formalmente. Danzō: "Hice lo que había que hacer... el viajero sabe demasiado." Ordena a los ~30 de Raíz atacar: Gai, Kakashi (rayo), Yamato (raíces), Ibiki delante de Tsunade. Danzō lanza "¡Estilo Viento: Ráfagas del Vacío!" contra Facundo (pecho y cabeza). Facundo tiene que reaccionar.

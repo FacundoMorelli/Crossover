@@ -8,3 +8,4 @@ ENCUENTROS:
 - T1341 · Llega a la carpa de mando con Yamato y Gai. "Hokage-sama. Shizune dijo que era por las casas." "Raíz tiene unos cuarenta en el campamento."
 QUÉ SABE DE FACUNDO: por Tsunade: lo del brazo de Danzō (sin decir que lo dijo Facundo, pero Yamato lo mira). 
 ESTADO: con Tsunade, yendo por Danzō.
+- T1342 · Se pone delante de Tsunade cuando Raíz ataca.

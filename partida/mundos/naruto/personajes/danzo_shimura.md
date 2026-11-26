@@ -19,3 +19,6 @@ QUÉ SABE DE FACUNDO (T1337): por Fū, su mente no se puede leer (no hay nada).
 RELACIÓN CON FACUNDO (T1338): lo considera una amenaza.
 - T1341 · 11:21 · Frente a la carpa gris más grande, con Fū, Torune y ~30 de Raíz. "Mi gente vio a Shizune correr a buscar al jefe de interrogatorios. Supuse que no era por las casas." A Facundo: "Te dije que no me pidieras que me quitara las vendas, viajero." Lleva la mano al broche del hombro derecho.
 QUÉ SABE DE FACUNDO (T1341): deduce que Facundo le contó a Tsunade lo del brazo.
+- T1342 · Se quita vendas, correas y el brazalete: brazo blanco como madera, cara del Primero Hokage en el hombro, DIEZ Sharingan. "Hice lo que había que hacer. Konoha no podía darse el lujo de enterrar esos ojos. Tú dormías, Tsunade. Siempre dormiste." "El viajero sabe demasiado para alguien que no envió nadie." Ordena a Raíz atacar. Lanza "¡Estilo Viento: Ráfagas del Vacío!" contra Facundo.
+PODER VISTO POR FACUNDO: brazo con 10 Sharingan y células del Primero; Estilo Viento (Ráfagas del Vacío).
+ESTADO: arrestado por orden de la Hokage; resiste (T1342).

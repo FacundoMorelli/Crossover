@@ -32,3 +32,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1339 · Oye que Danzō tiene varios Sharingan en el brazo. Se toca la banda del ojo. "¿Sharingan? ¿En el brazo?" "La noche de la masacre de los Uchiha, a los cuerpos les faltaban los ojos... Siempre se pensó que había sido Itachi... Nunca se encontraron." "¿Cómo sabes eso?" (no espera respuesta; no insistirá).
 - T1340 · "Lo sé. ¿Lo quiere vivo?" Mano en la banda del ojo.
 - T1341 · Camina a la derecha de Tsunade hacia las carpas de Raíz.
+- T1342 · Retrocede medio paso. Se le abre el Sharingan solo. "Shisui. Itachi. Fugaku. Mikoto... Son todos ellos." Ataca a Raíz con la mano llena de rayos.

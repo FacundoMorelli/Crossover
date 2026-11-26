@@ -6,3 +6,4 @@
 - T1324 · El rumor ya dice "mil brazos" y "el forastero del gato".
 - T1330 · Rumor: el forastero del gato recibió la Flor de Loto de Rock Lee con tres Puertas y ni se despeinó. Quedó un pozo en el borde este.
 - T1332 · Rumor: el forastero del gato le ganó a Rock Lee de un solo golpe.
+- T1342 · Día 1 11:22 · En el campamento se corre: Danzō tenía diez Sharingan en el brazo; la Hokage lo arrestó y Raíz se resiste. Pelea en las carpas grises.

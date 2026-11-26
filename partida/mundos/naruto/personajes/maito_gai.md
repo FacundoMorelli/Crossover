@@ -31,3 +31,4 @@ QUÉ SABE DE FACUNDO (T1333): por Facundo, aprendió las Puertas mirando a Lee. 
 - T1334 · "Cuando quieras, en el campo de entrenamiento que quede en pie. Y no te preocupes. A Kakashi se lo cuento yo."
 RELACIÓN CON FACUNDO (T1334): respeto y curiosidad; amistoso.
 - T1341 · Llega hablando de techos nuevos, se calla. Va con Tsunade por Danzō.
+- T1342 · Se lanza contra Raíz por la izquierda.
