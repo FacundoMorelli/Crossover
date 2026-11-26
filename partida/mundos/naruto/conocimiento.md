@@ -86,3 +86,5 @@
 - Samui, Karui, Omoi · T1355 · ven a Facundo en Ichiraku junto a Naruto (no saben nada de él).
 - Facundo, Naruto, Teuchi, Ayame · T1356 · por Karui y Samui: Akatsuki (con Sasuke) atacó y "se llevó" a Killer Bee, hermano del Raikage; Kumo busca información sobre Sasuke.
 - Samui, Karui, Omoi · T1356 · vieron a Facundo quedarse quieto en Ichiraku mientras golpeaban a Naruto.
+- Naruto, Teuchi, Ayame · T1357 · vieron a Facundo desaparecer de Ichiraku con el gato tras decir "Ya vengo" (teletransporte).
+- Tobi, Zetsu, Sasuke, Suigetsu, Karin, Jūgo · T1357 · vieron a Facundo aparecer de la nada en el escondite con el gato. Karin no siente chakra (Velo). Zetsu: sin rastro.

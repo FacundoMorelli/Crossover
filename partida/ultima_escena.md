@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1354)
-
-ehh si ponele que eran malos, con la gente que yo estaba vivian aislados y no sabian nada y los otros siempre decian que la gente con la que vivia eran demonios, por eso querian matarlos, pero ahora ya esta todo bien en ese lugar
-
-## RESPUESTA 1 (T1354)
-
-> ehh si ponele que eran malos, con la gente que yo estaba vivian aislados y no sabian nada y los otros siempre decian que la gente con la que vivia eran demonios, por eso querian matarlos, pero ahora ya esta todo bien en ese lugar
-
-> —Eh... Sí, digamos que eran malos. La gente con la que yo estaba vivía aislada y no sabía nada, y los de afuera siempre decían que esa gente eran demonios. Por eso querían matarlos. Pero ahora en ese lugar ya está todo bien.
-
-Naruto se queda callado.
-
-No es el silencio de antes, el de Jiraiya. Es otro. Se queda mirando el tazón vacío y se le arruga la frente, como cuando alguien escucha algo que ya conoce de otro lado.
-
-—Demonios —repite—. Les decían demonios.
-
-Se toca otra vez el estómago, por encima de la chaqueta, sin darse cuenta.
-
-—A mí me decían monstruo. Los grandes, cuando pasaba por la calle. "El monstruo del zorro." —Lo dice sin enojo, casi tranquilo—. Y Pain... Nagato... me dijo que él había atacado la aldea porque Konoha le había matado a su gente en la guerra. Y que Konoha lo había hecho porque otros le habían hecho lo mismo antes. Y así, para atrás, para siempre. Que el odio es una cadena, y que nadie la corta.
-
-Aprieta los palillos.
-
-—El Sabio Pervertido decía que algún día alguien la iba a cortar. Que por eso escribió su libro. —Levanta la vista hacia ti—. Y tú dices que en ese lugar ya está todo bien. Que los que querían matar y los que vivían escondidos dejaron de pelear.
-
-Se le encienden los ojos, de golpe, como dos linternas.
-
-—¡¿Cómo lo hicieron?! ¡¿Cómo se corta una cosa así?! ¡Porque yo le prometí a Nagato que la iba a cortar, y todavía no tengo ni idea de cómo! ¡De veras!
-
-Teuchi deja el cucharón dentro de la olla. Ayame se queda con el cuchillo quieto sobre la tabla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1354 · NARUTO · DÍA 1 · 12:36          ║
-║ Konoha · campamento · puesto de Ichiraku     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el mostrador                        ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Carpa de mando esta noche          ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1355)
+## COMANDO 1 (T1355)
 
 el tema es que este lugar es algo distinto, no conozco las razones de los que hicieron todo esto, si no, podria ayudarte, pero igual te voy a ayudar
 
-## RESPUESTA 2 (T1355)
+## RESPUESTA 1 (T1355)
 
 > el tema es que este lugar es algo distinto, no conozco las razones de los que hicieron todo esto, si no, podria ayudarte, pero igual te voy a ayudar
 
@@ -103,11 +56,11 @@ A Naruto se le borra la sonrisa de golpe.
 
 ---
 
-## COMANDO 3 (T1356)
+## COMANDO 2 (T1356)
 
 miro
 
-## RESPUESTA 3 (T1356)
+## RESPUESTA 2 (T1356)
 
 > miro
 
@@ -184,4 +137,90 @@ Se queda mirando la entrada de la carpa, por donde se fueron.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:44, Ichiraku. Facundo miró. Karui explicó: Sasuke (Akatsuki) "se llevó" a Killer Bee; piden info. Naruto se negó; Karui le pegó cinco veces, Naruto no se defendió (sangra, ojo hinchándose). Samui la paró. "Te arrepentirás de esto." Se fueron. Naruto a Facundo: "Gracias por no meterte. Era cosa mía." "Ya no es solo que se fue. Ahora está con Akatsuki." Facundo puede actuar.
+## COMANDO 3 (T1357)
+
+ya vengo, busco la presencia de akatsuki y me teletransporto
+
+## RESPUESTA 3 (T1357)
+
+> ya vengo, busco la presencia de akatsuki y me teletransporto
+
+> —Ya vengo.
+
+—¿Eh? —Naruto levanta la cabeza, con el ojo hinchado—. ¿Adónde...?
+
+Cierras los ojos.
+
+El mundo se abre a tu alrededor como un mapa en la oscuridad. Konoha entera, cientos de presencias, chicas y grandes, cansadas, tranquilas, asustadas. Naruto a tu lado, enorme por dentro, con algo más enorme todavía enroscado en el fondo. Tsunade, Kakashi, Gai. Más allá, el bosque, los caminos, las aldeas chicas del País del Fuego.
+
+Y más lejos, mucho más al norte, al otro lado de las montañas, algo distinto.
+
+Un grupo de cinco presencias juntas, en un lugar cerrado y oscuro. Una de ellas está llena de rabia, una rabia fría y apretada como un puño. Otra no se siente casi nada, como si estuviera ahí y no estuviera a la vez, y es la que más te hiela la nuca. Una tercera está pegada a las paredes, como una planta.
+
+Kase salta del mostrador a tu hombro en el último segundo, con las uñas clavadas en el sobretodo.
+
+Te llevas dos dedos a la frente.
+
+Ichiraku desaparece.
+
+Aparece una cueva. Huele a humedad, a piedra mojada y a sangre seca. Hay antorchas clavadas en las paredes, y la luz tiembla sobre la roca. Gotea agua en algún lado.
+
+Hay cinco personas, y todas se dan vuelta hacia ti a la vez.
+
+Un muchacho de pelo negro, con una capa negra y blanca, sentado sobre una roca, con vendas en el torso. Tiene los ojos rojos, con aspas negras que giran. Un muchacho de pelo blanco y dientes de tiburón, con una espada enorme a la espalda, que se queda con una botella de agua a medio camino de la boca. Una chica de pelo rojo y anteojos, que da un paso atrás de golpe. Un grandote de pelo naranja, quieto como una montaña.
+
+Y apoyado contra la pared del fondo, un hombre con una capa negra con nubes rojas, y una máscara naranja en espiral con un solo agujero en el ojo derecho. Al lado, saliendo de la pared misma como una planta carnívora, una cosa con la cara mitad blanca y mitad negra.
+
+╔══════════════════════════════════════════════╗
+║ TOBI                                         ║
+║ Akatsuki · el enmascarado                    ║
+║ PODER: técnica espacio-tiempo (atraviesa y   ║
+║        traslada), Sharingan, otros: sin      ║
+║        datos                                 ║
+║ IDENTIDAD: sin datos                         ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,02 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+╚══════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════╗
+║ SASUKE UCHIHA                                ║
+║ Renegado de Konoha · líder de Taka           ║
+║ PODER: Mangekyō Sharingan (Amaterasu,        ║
+║        Tsukuyomi, Susanoo), Chidori,         ║
+║        Estilo Fuego, Estilo Rayo             ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+╚══════════════════════════════════════════════╝
+
+—¡No siento nada! —grita la chica de anteojos, con la voz aguda—. ¡Sasuke, no tiene chakra! ¡No siento nada, no lo vi llegar, no...!
+
+—Cállate, Karin. —Sasuke no te saca los ojos de encima.
+
+La cosa de la pared, la mitad negra, habla con una voz grave y rasposa:
+
+—Apareció de la nada. No es técnica de invocación. No dejó rastro.
+
+El de la máscara naranja inclina la cabeza, muy despacio, hacia un costado. Te mira por el único agujero de la máscara. Detrás, un ojo rojo gira.
+
+—Vaya, vaya —dice, con una voz tranquila, casi divertida—. Hacía mucho tiempo que nadie me sorprendía.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1357 · NARUTO · DÍA 1 · 12:46          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:46, escondite de Akatsuki (cueva al norte, tras las montañas). Facundo dijo "Ya vengo" a Naruto, sintió la presencia de Akatsuki y se teletransportó con Kase en el hombro. Presentes: Tobi (máscara naranja), Zetsu (en la pared), Sasuke (vendado, Mangekyō activo), Suigetsu, Karin, Jūgo. Karin: "¡No tiene chakra!" Zetsu: "No dejó rastro." Tobi: "Hacía mucho tiempo que nadie me sorprendía." Facundo puede actuar.

@@ -34,3 +34,4 @@ QUÉ SABE DE FACUNDO (T1354): en el lugar de los titanes, la gente con la que es
 - T1355 · "Igual me vas a ayudar. Entonces es una promesa. Y yo nunca rompo mis promesas." Le tiende el puño. Llegan los de Kumo preguntando por él y por Sasuke; se le borra la sonrisa.
 - T1356 · "Sasuke es mi amigo." "No les voy a decir nada." Recibe cinco golpes de Karui sin defenderse; queda de rodillas, sangrando, un ojo hinchándose. A Facundo: "Gracias por no meterte. Era cosa mía." "Sasuke se llevó al hermano del Raikage. Ya no es solo que se fue. Ahora está con Akatsuki."
 ESTADO: golpeado (nariz, boca, ojo hinchándose) (T1356).
+- T1357 · Facundo le dice "Ya vengo" y desaparece de Ichiraku con el gato. "¿Eh? ¿Adónde...?"
