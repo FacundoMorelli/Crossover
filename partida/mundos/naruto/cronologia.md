@@ -44,3 +44,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1407 · Día 1 15:19 · Fin del Diez Colas. Sin bijū que juntar ni Estatua, el Plan del Ojo de la Luna es imposible. La Cuarta Guerra (canon) no ocurrirá como en el canon. Kabuto sigue suelto.
 - T1418 · Decisión sobre Obito: sellado, trabajo para la aldea, vigilado por Minato y Kakashi.
 - T1428 · Días 1-5 · ver mundo.md. FIN DEL ARCO DE AKATSUKI. No hay Cuarta Guerra. Kabuto sigue suelto (con células de Orochimaru).
+- T1435 · Naruto conoce el nombre de Kurama; manto dorado. (Canon: Isla Tortuga y la guerra.)

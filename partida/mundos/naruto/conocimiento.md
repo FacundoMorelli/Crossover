@@ -195,3 +195,4 @@
 - Público del campo tres · T1432 · vio a Facundo tirarle a Tsunade una semilla que la curó al instante.
 - Público del campo tres · T1433 · ve el duelo Naruto vs Facundo (Modo Sabio, doscientos clones).
 - Público del campo tres · T1434 · vio a Facundo deshacer doscientos clones a la vez y apagar todas las Rasengan sin chakra visible. Oyó que Facundo le dijo a Naruto que use al Nueve Colas "como amigos".
+- Público del campo tres · T1435 · vio a Naruto hablar con el Nueve Colas y obtener un manto dorado; oyó el nombre Kurama.

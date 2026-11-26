@@ -1433,3 +1433,4 @@ T1431 · NARUTO · Campo tres · Palma contenida: Tsunade vuela, parte dos poste
 T1432 · NARUTO · Campo tres · "Así es." Semilla a Tsunade: curada. Jiraiya titula su libro. Tsunade: "Gracias." Naruto: "¡AHORA YO! ¡Pelea conmigo, Facundo!"
 T1433 · NARUTO · Campo tres · Duelo con Naruto. Doscientos clones; Modo Sabio. Misión de copia: Naruto (que él y el Nueve Colas dejen de ser enemigos). "¡Estilo Sabio: Lluvia de Rasengan!"
 T1434 · NARUTO · Campo tres · Deshace los doscientos clones y apaga las Rasengan. "Usa lo que tienes adentro. Como amigos." Kushina: "Ese zorro tiene nombre. Nunca nadie se lo preguntó." Naruto: "¿Cómo se hace amigo de alguien que te odia?"
+T1435 · NARUTO · Campo tres · "¿Cómo te hiciste amigo de Sasuke?" Naruto medita; Kushina lo sostiene; el chakra rojo se vuelve manto dorado. "Se llama Kurama. No me odia." COPIA el poder de Naruto (+2.000 EXP). "¡Ahora sí! ¡Kurama quiere ver qué tan fuerte eres!"

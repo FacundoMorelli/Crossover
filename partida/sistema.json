@@ -1,11 +1,11 @@
 {
-  "turno": 1434,
+  "turno": 1435,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 5 (cinco días después de llegar; ~cap. 452 + 4 días, canon alterado)",
-  "hora": "Día 5, 06:20",
+  "hora": "Día 5, 06:34",
   "edad": 18,
   "nivel": 30,
-  "exp": 327530,
+  "exp": 329530,
   "exp_siguiente_nivel": 360000,
   "fragmentos": 114099,
   "plata_local": {
@@ -1143,6 +1143,22 @@
         "Dominio total e inmediato",
         "Sasuke conserva el suyo"
       ]
+    },
+    {
+      "poder": "Poder de Naruto Uzumaki",
+      "de": "Naruto Uzumaki",
+      "mundo": "naruto",
+      "cuando": "T1435, campo de entrenamiento tres, Día 5 06:34",
+      "mision": "Que Naruto y el Nueve Colas dejen de ser enemigos (cumplida: Naruto le preguntó el nombre, Kurama; \"no me odia\")",
+      "incluye": [
+        "Multiclones de Sombra",
+        "Modo Sabio (sapos) y todo lo de su canon (R2: Modo Sabio de los Seis Caminos, Baryon, etc.)",
+        "Rasengan y todas sus formas (Rasenshuriken, Ōdama, etc.)",
+        "Chakra Uzumaki (vitalidad, cadenas de chakra si llega)",
+        "El manto y los modos del Nueve Colas (Modo Chakra, Modo Kurama) como poder propio, sin la bestia ni el sello",
+        "Sin condiciones, dominio total",
+        "Naruto conserva el suyo y a Kurama"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1523,14 +1539,6 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
-    },
-    {
-      "poder": "Poder de Naruto Uzumaki (Multiclones de Sombra, Modo Sabio, Rasengan y variantes, chakra Uzumaki y todo lo de su canon)",
-      "usuario": "Naruto Uzumaki",
-      "mundo": "naruto",
-      "mision": "Que Naruto y el Nueve Colas dejen de ser enemigos.",
-      "dificultad": "ALTA",
-      "emitida": "T1433"
     }
   ],
   "misiones_de_copia_rechazadas": [],

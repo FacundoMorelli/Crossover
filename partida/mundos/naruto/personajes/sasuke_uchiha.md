@@ -71,3 +71,4 @@ RELACIÓN CON NARUTO: reencuentro.
 RELACIÓN CON ITACHI: reconciliados.
 - T1409 · Abrazado a Itachi, se agarra también de la ropa de Mikoto.
 - T1428 · Vive en el barrio Uchiha con su familia y Taka. Entrena con Itachi cada mañana. Raikage: que no vuelva a pisar el País del Rayo.
+- T1435 · Naruto lo mira al hablar de cómo se hizo su amigo; Sasuke no dice nada.

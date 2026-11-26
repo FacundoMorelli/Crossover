@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1432)
-
-asi es, le tiro una semilla del ermitaño, comela
-
-## RESPUESTA 1 (T1432)
-
-> asi es, le tiro una semilla del ermitaño, comela
-
-> —Así es. —Le tiras una semilla por encima del río—. Cómela.
-
-La semilla cruza el agua girando. Tsunade la atrapa en el aire con dos dedos, sin mirarla, como quien atrapa una mosca. La mira un segundo. Sonríe de costado.
-
-—La tercera vez en una semana que me salvas con esta cosa. —Se la mete en la boca y la mastica—. Ya me estoy acostumbrando.
-
-Traga.
-
-Las líneas negras de la cara se le borran. El cansancio de los hombros desaparece. El hilo de sangre de la boca ya no está. Se pone de pie de un salto, dentro del hueco de la ladera, y estira los brazos por encima de la cabeza, como si acabara de despertarse de la mejor siesta de su vida.
-
-—Ah. —Se trona el cuello—. Mucho mejor que el sake.
-
-Desde los árboles se escuchan aplausos. Primero uno, después muchos. Gai aplaude llorando. Lee aplaude llorando. Kushina aplaude con dos dedos, con cara de que sigue pensando que todo esto es una pésima idea. Minato sonríe.
-
-Jiraiya, en su árbol, cierra la libreta de golpe.
-
-—¡Título! —grita—. ¡"La Princesa Babosa y la palma del viajero"! ¡Capítulo uno!
-
-—¡Te parto la otra pierna, Jiraiya! —le grita Tsunade, sin mirarlo.
-
-—¡No me partiste ninguna todavía!
-
-—¡Todavía!
-
-Tsunade cruza el río de un salto y aterriza en el pasto, delante de ti. Te mira de arriba abajo, el aura plateada, el pelo de plata, los ojos grises.
-
-—Gracias —dice, y esta vez no se ríe—. Hacía años que no me divertía así.
-
-Antes de que puedas contestar, algo naranja sale disparado del borde del campo y frena de un derrape entre ustedes dos, levantando una nube de tierra.
-
-Naruto. Con los puños apretados, la cara roja y los ojos brillando como dos estrellas.
-
-—¡AHORA YO! —te grita, apuntándote con el dedo—. ¡Me lo prometiste! ¡Bueno, no me lo prometiste, pero yo te lo dije el primer día! ¡Tengo el Modo Sabio! ¡Le gané a seis Pain! ¡Pelea conmigo, Facundo! ¡De veras!
-
-Detrás de él, Kushina se tapa la cara con la mano.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1432 · NARUTO · DÍA 5 · 06:15          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 327.530/360.000               ║
-║ FRAGMENTOS 114.099 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común · Ultra Instinto         ║
-║ Kase: en el pasto, junto al poste            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1433)
+## COMANDO 1 (T1433)
 
 esta bien
 
-## RESPUESTA 2 (T1433)
+## RESPUESTA 1 (T1433)
 
 > esta bien
 
@@ -135,11 +74,11 @@ En las ramas, la gente se agarra de nuevo.
 
 ---
 
-## COMANDO 3 (T1434)
+## COMANDO 2 (T1434)
 
 derribó a todos los clones y detengo los ataques, si quieres acercarte mas vas a tener que usar lo que tienes dentro, no a la fuerza, si no como amigos
 
-## RESPUESTA 3 (T1434)
+## RESPUESTA 2 (T1434)
 
 > derribó a todos los clones y detengo los ataques, si quieres acercarte mas vas a tener que usar lo que tienes dentro, no a la fuerza, si no como amigos
 
@@ -200,4 +139,97 @@ Naruto se queda callado un rato largo. Mira a su madre. Te mira a ti. Se mira la
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:20, campo tres. Facundo deshizo los doscientos clones de golpe, detuvo y apagó todas las Rasengan, y apagó la del Naruto real con dos dedos. "Si quieres acercarte más, vas a tener que usar lo que tienes adentro. No a la fuerza. Como amigos." Naruto: "¡Ese zorro me odia!" Kushina baja del árbol: lo tuvo veinte años, encadenado, nunca le habló; "Ese zorro tiene nombre. Nunca nadie se lo preguntó." Minato da un paso. Naruto: "¿Cómo se hace amigo de alguien que te odia?" Facundo puede contestar.
+## COMANDO 3 (T1435)
+
+como te hiciste amigo de sasuke?
+
+## RESPUESTA 3 (T1435)
+
+> como te hiciste amigo de sasuke?
+
+> —¿Cómo te hiciste amigo de Sasuke?
+
+Naruto se queda con la boca abierta.
+
+Gira la cabeza, despacio, hacia lo alto del árbol donde está Sasuke, al lado de Itachi. Sasuke lo mira desde arriba. No dice nada.
+
+—Él me odiaba también —dice Naruto, muy bajo—. Bueno. No me odiaba. Pero no quería saber nada de mí. Y yo tampoco de él. Nos peleábamos todos los días.
+
+Se rasca la cabeza.
+
+—Después me di cuenta de que estaba solo. Como yo. Que nadie lo esperaba en su casa. Como a mí. —Se le arruga la frente—. Y no me rendí. Lo seguí. Le grité. Me pegó. Le pegué. Lo seguí igual. Hasta el Valle del Fin. Hasta ahora.
+
+Se queda callado.
+
+Después se toca el estómago con la mano abierta. Ya no como quien se toca una herida. Como quien toca una puerta.
+
+—Estaba solo —dice—. Todo el tiempo, encerrado. Igual que yo.
+
+Se sienta en el pasto, de golpe, con las piernas cruzadas. Cierra los ojos.
+
+—¿Naruto? —dice Kushina.
+
+Naruto no contesta.
+
+Pasa un rato largo. Nadie en el campo se mueve. Los pájaros vuelven a los árboles. El río vuelve a su cauce. Lee deja de hacer flexiones. Jiraiya baja la libreta.
+
+Después, alrededor del cuerpo de Naruto, aparece un hilo de chakra rojo.
+
+Es violento. Le sale por la piel como humo, se retuerce, se le marcan las líneas de los bigotes en las mejillas, más gruesas, más negras. El aire alrededor se calienta. Tsunade da un paso adelante, con el puño apretado. Minato se tensa.
+
+Kushina se arrodilla detrás de Naruto y le apoya las dos manos en la espalda. No hace ningún sello. Solo las deja ahí.
+
+El chakra rojo tiembla. Se retuerce más. Se le escapa a Naruto un gruñido entre los dientes, que no es del todo suyo.
+
+Y después se calma.
+
+No se apaga: cambia. Lo rojo se vuelve naranja, después dorado, como una llama que deja de quemar y empieza a dar calor. Le cubre los hombros a Naruto, los brazos, la cabeza, un manto de luz suave que sube y baja con la respiración, despacio.
+
+Naruto abre los ojos.
+
+Son naranjas, con la pupila partida como la de un zorro. Pero lo miran todo con la misma cara de siempre: la de un chico al que se le está por escapar la risa.
+
+—Kurama —dice, sin aliento—. Se llama Kurama.
+
+Kushina se tapa la boca con la mano.
+
+—Dice que todavía no confía en mí. —Naruto sonríe, enorme, con lágrimas en los ojos—. Que soy un idiota ruidoso. Que mi mamá era peor. Pero que no me odia. Que hoy vio cosas que no había visto en cien años... y que tiene ganas de ver qué pasa.
+
+[Misión de copia cumplida.]
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Poder de Naruto Uzumaki · COPIADO            ║
+║ USUARIO: Naruto Uzumaki · Naruto             ║
+║                                              ║
+║ INCLUYE: Multiclones de Sombra, Modo Sabio,  ║
+║ Rasengan y todas sus formas, chakra          ║
+║ Uzumaki, el manto y los modos del Nueve      ║
+║ Colas y todo lo que llega a hacer.           ║
+║ Sin la bestia ni el sello. Dominio total.    ║
+╚══════════════════════════════════════════════╝
+
+[+2.000 EXP.]
+
+Naruto se pone de pie de un salto, con el manto dorado todavía encima, encendido como un sol chiquito en medio del campo. Te apunta con el dedo.
+
+—¡Ahora sí! —grita—. ¡Ahora sí, Facundo! ¡Kurama dice que quiere ver qué tan fuerte eres! ¡De veras!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1435 · NARUTO · DÍA 5 · 06:34          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 329.530/360.000               ║
+║ FRAGMENTOS 114.099 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común · Ultra Instinto         ║
+║ Kase: en el pasto, junto al poste            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Duelo con Naruto                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:34, campo tres. "¿Cómo te hiciste amigo de Sasuke?" Naruto: estaba solo como él; no se rindió. "Estaba solo. Todo el tiempo, encerrado. Igual que yo." Medita; chakra rojo violento; Kushina le apoya las manos en la espalda; se calma en un manto dorado. Ojos naranjas de zorro. "Kurama. Se llama Kurama." "Dice que todavía no confía en mí... Pero que no me odia." COPIA: poder de Naruto (+2.000 EXP). Naruto, con el manto dorado: "¡Ahora sí, Facundo! ¡Kurama quiere ver qué tan fuerte eres!" Facundo puede actuar.
