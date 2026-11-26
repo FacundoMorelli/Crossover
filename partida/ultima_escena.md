@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1423)
-
-miro
-
-## RESPUESTA 1 (T1423)
-
-> miro
-
-Kakashi se despega de la entrada de la carpa.
-
-Camina hasta el futón despacio, como si cada paso le costara. Se arrodilla del otro lado, al lado de Minato. Se queda mirando a Obito de cerca, la cara con cicatrices, el ojo nuevo, la venda sobre el otro.
-
-No se baja la banda. Deja el Sharingan al aire.
-
-—Obito.
-
-—No me mires con ese ojo. —Obito aparta la cara. Le tiembla la voz—. No me mires con mi ojo.
-
-Kakashi no aparta la vista.
-
-—Lo cuidé todos los días. Diecisiete años. —Habla bajo, sin máscara, y se le ve la boca temblar—. Fui a tu nombre en la piedra todas las mañanas. Y llegaba tarde a todo, porque me quedaba hablándote.
-
-Obito cierra el ojo nuevo con fuerza.
-
-—Rin murió por tu mano —dice, entre dientes—. Te vi. Esa noche. Te vi meterle el brazo en el pecho.
-
-—Lo sé.
-
-—¡Te pedí que la cuidaras!
-
-—Lo sé. —Kakashi no levanta la voz—. Y ella se puso delante a propósito. Tenía al Tres Colas adentro. La Niebla quería soltarlo en Konoha. Ella eligió.
-
-—¡Ya lo sé! —Obito abre el ojo, rojo de lágrimas—. ¡Ya lo sé! ¡Lo supe después, lo supe siempre, y no me importó! ¡Porque si el mundo era un lugar donde Rin tenía que elegir eso, entonces el mundo estaba mal, y había que cambiarlo!
-
-Se le quiebra la voz. Se queda respirando fuerte, mirando el techo, con las lágrimas que le corren por las dos mitades de la cara, la lisa y la de cicatrices.
-
-Minato no le saca la mano del hombro.
-
-Nadie dice nada durante un rato largo. Tsunade mira el suelo. Fugaku tiene los brazos cruzados y la mandíbula apretada, pero no dice nada. Yamato, en la entrada, se queda quieto como una estatua.
-
-Después Obito gira la cabeza hacia Minato, despacio.
-
-—¿Cómo? —pregunta, en voz muy baja—. ¿Cómo estás vivo? Yo te vi morir. Te vi.
-
-Minato no contesta. Levanta la vista, por encima de Obito, y te mira a ti.
-
-Obito sigue su mirada. Te encuentra. Te mira con el ojo nuevo, el que acabas de hacerle, y en la cara se le arma algo que no es odio ni miedo. Es una pregunta tan grande que le da terror hacerla.
-
-—Fuiste tú. —No es una pregunta—. El sensei. Y todos los que...
-
-Traga saliva. Se le tensa todo el cuerpo bajo los sellos.
-
-—¿Y Rin? —le sale apenas—. ¿Rin también?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1423 · NARUTO · DÍA 1 · 16:17          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1424)
+## COMANDO 1 (T1424)
 
 si haz que tsmbien haya revivido con la misma edad que kakashi y obito
 
-## RESPUESTA 2 (T1424)
+## RESPUESTA 1 (T1424)
 
 > si haz que tsmbien haya revivido con la misma edad que kakashi y obito
 
@@ -131,11 +60,11 @@ Obito levanta la cabeza del futón como puede. Te mira a ti. No a Minato. No a K
 
 ---
 
-## COMANDO 3 (T1425)
+## COMANDO 2 (T1425)
 
 me teletransporto a rin y la traigo con obito
 
-## RESPUESTA 3 (T1425)
+## RESPUESTA 2 (T1425)
 
 > me teletransporto a rin y la traigo con obito
 
@@ -206,4 +135,67 @@ Se queda mirándola, como si fuera lo único que existe.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:21, carpa de la colina. Facundo fue a buscar a Rin a su cuarto (foto del equipo de Minato en la pared): "Tú. La voz dijo que tenías un gato." Le tendió la mano; ella la tomó. La trajo a la carpa. Rin ve a Minato, a Kakashi sin máscara y a Obito en el futón. Se arrodilla, le toca la mitad de la cara con cicatrices: "¿Obito? Estás vivo... ¿Estabas vivo?" Obito: "Rin." Facundo puede actuar.
+## COMANDO 3 (T1426)
+
+miro
+
+## RESPUESTA 3 (T1426)
+
+> miro
+
+Obito levanta la mano. Le tiembla tanto que casi no llega.
+
+La apoya sobre la de Rin, la que ella tiene en su cara. La aprieta. Cierra el ojo nuevo.
+
+—Hice cosas horribles, Rin. —Le sale ronco, entrecortado—. Después de que te... de que tú... Hice cosas que no tienen perdón. Maté a gente. A mucha gente. Al sensei. A su esposa. Ayudé a matar a un clan entero. Quise... quise borrar el mundo. Porque no estabas.
+
+Rin no le saca la mano de la cara.
+
+—Me lo vas a contar —dice, muy bajo—. Todo. Después.
+
+—No vas a querer escucharlo.
+
+—Me lo vas a contar igual. —Le tiembla la voz, pero no se le quiebra—. Siempre me contabas todo, aunque fuera un desastre. Llegabas tarde y me contabas que habías ayudado a una viejita a cruzar la calle. Siempre.
+
+A Obito se le escapa algo que podría ser una risa. Se le llenan otra vez los ojos.
+
+—Esta vez no ayudé a ninguna viejita.
+
+—Ya lo sé.
+
+Rin se inclina y lo abraza. Así, de costado, sobre el futón, con los brazos alrededor de los hombros de él, la cara en su pelo. Obito se queda rígido un segundo. Después se le cae todo. Se aferra a ella con las dos manos sin fuerza, y llora con la cara contra el hombro de Rin, igual que un chico.
+
+Kakashi se tapa los ojos con la mano. No dice nada.
+
+Minato los mira a los tres. Después, sin decir una palabra, se inclina y los abraza a todos a la vez: a Rin, a Obito, a Kakashi, con los brazos largos, la cabeza baja, los ojos cerrados. El equipo entero, como en la foto de la pared del cuarto de Rin, diecisiete años tarde.
+
+Tsunade se da vuelta y se seca la cara con la manga, de espaldas.
+
+Fugaku no se mueve de la entrada. Tiene los brazos cruzados y la mandíbula apretada. Mira la escena un rato largo. Después baja la vista. No dice nada. Sale de la carpa sin hacer ruido.
+
+Yamato se queda quieto, mirando el suelo.
+
+Pasa un rato largo.
+
+Después Obito levanta la cabeza del hombro de Rin. Tiene la cara roja, mojada, deshecha. Te busca con el ojo nuevo, por encima del brazo de Minato. Te encuentra.
+
+—¿Por qué? —te pregunta, con la voz rota—. Hiciste todo esto. El sensei, Rin, la aldea. Y a mí... a mí me diste un ojo. Después de todo lo que hice. —Le tiembla la boca—. ¿Por qué a mí también?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1426 · NARUTO · DÍA 1 · 16:25          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:25, carpa de la colina. Obito le confiesa a Rin que hizo cosas horribles (mató al sensei, a Kushina, ayudó a matar un clan, quiso borrar el mundo). Rin: "Me lo vas a contar. Todo. Después." Lo abraza; él llora. Minato abraza a los tres (Rin, Obito, Kakashi). Tsunade se seca la cara. Fugaku sale en silencio. Obito a Facundo: "¿Por qué? Hiciste todo esto... Y a mí me diste un ojo. Después de todo lo que hice. ¿Por qué a mí también?" Facundo tiene que contestar.

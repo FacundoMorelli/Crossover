@@ -9,3 +9,4 @@ ESTADO: vivos (no vistos de cerca aún).
 - T1410 · Facundo a Fugaku: "No vuelvan a intentar algo como la última vez. El mundo cambió mucho desde que murieron." Fugaku: un brillo rojo en los ojos que se apaga al mirar a Itachi y a Mikoto; no contesta, aparta la mirada.
 - T1415 · Fugaku en la Torre: "Recuerdo todo... Exijo que sean juzgados. Delante del clan. Delante de la aldea." A Homura: "No le hablé a usted." Ante la mención del golpe, no contesta.
 - T1418 · Fugaku: "Ese hombre estuvo en mi casa la noche de la masacre. Con Itachi. Con la máscara puesta. Lo vi. ¿Y lo quieres barriendo las calles?" A Minato: "Usted también murió por su culpa." Cede: "Si da un paso fuera de lugar, el clan Uchiha no va a esperar a ningún consejo."
+- T1426 · Fugaku mira el reencuentro del equipo de Minato, baja la vista y sale de la carpa en silencio.

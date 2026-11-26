@@ -8,3 +8,5 @@ ESTADO: viva, en su casa (no vista aún).
 - T1425 · En su cuarto mirando la foto del equipo de Minato (Kakashi enojado, Obito sonriendo con antiparras, ella en el medio, Minato detrás). Ve a Facundo: "Tú. La voz dijo que tenías un gato." Le toma la mano. Llega a la carpa de la colina: ve a Minato, a Kakashi, a Obito. Se arrodilla y le toca la cara con cicatrices: "¿Obito? Obito... Estás vivo. Estabas... ¿Estabas vivo?"
 QUÉ SABE (T1425): nada de lo que hizo Obito (murió antes).
 ESTADO: viva, en la carpa de la colina.
+- T1426 · "Me lo vas a contar. Todo. Después." "Siempre me contabas todo, aunque fuera un desastre. Llegabas tarde y me contabas que habías ayudado a una viejita a cruzar la calle." "Ya lo sé." Abraza a Obito.
+QUÉ SABE (T1426): por Obito, mató gente, al sensei, a Kushina, ayudó a matar un clan y quiso borrar el mundo.
