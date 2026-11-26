@@ -184,3 +184,4 @@
 - Obito · T1423 · deduce (por la mirada de Minato) que Facundo revivió a Minato y a los muertos.
 - Fugaku, Tsunade, Yamato · T1423 · oyen la historia de Rin y de Obito.
 - Obito, Kakashi, Minato, Tsunade, Fugaku, Yamato · T1424 · por Facundo: Rin también está viva.
+- Rin · T1425 · ve a Facundo (el del gato) y lo sigue; ve a Obito vivo con cicatrices, a Kakashi y a Minato. No sabe que Obito fue el enmascarado.

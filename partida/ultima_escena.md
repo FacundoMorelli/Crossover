@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1422)
-
-le reconstruyó el ojo con la técnica de mahito
-
-## RESPUESTA 1 (T1422)
-
-> le reconstruyó el ojo con la técnica de mahito
-
-Le apoyas la palma de la mano sobre el ojo izquierdo. El hundido.
-
-Obito se sobresalta bajo tus dedos, intenta apartar la cara y no puede.
-
-—¿Qué...?
-
-No es chakra. Es otra cosa, que viene de más hondo: lo sientes debajo de la piel, debajo de la carne, en la forma misma de lo que es Obito. Su alma tiene la forma de un ojo que ya no está, como la marca que deja un anillo en un dedo después de años. La tomas con la mano. La moldeas.
-
-Debajo de tu palma, la cuenca vacía se llena.
-
-Sientes cómo crece, redondo, tibio, húmedo, desde adentro hacia afuera. El párpado se le levanta solo bajo tus dedos, empujado por algo que antes no estaba. Obito suelta un jadeo corto, de sorpresa, no de dolor.
-
-Retiras la mano.
-
-Obito tiene un ojo izquierdo. Negro, común, con el blanco limpio y la pupila temblando. Sin Sharingan. Un ojo de chico de trece años, el mismo que tenía antes de la roca de Kannabi, en una cara de treinta.
-
-Parpadea. Una vez. Dos.
-
-Lo primero que ve es el techo de la carpa. Lo mira como si no supiera qué es. Después gira la cabeza, despacio, y lo que ve es a Minato, arrodillado junto a él, a medio metro, con los ojos azules llenos de lágrimas.
-
-Obito se queda sin aire.
-
-—Sensei. —No es una pregunta—. Estás... vivo. Estás vivo.
-
-Minato no dice nada. Le pone una mano en el hombro sano. Obito se estremece bajo el contacto, como si quemara.
-
-Después Obito gira los ojos, el nuevo y el tapado, hacia la entrada de la carpa.
-
-Ve a Kakashi.
-
-Kakashi, que se levantó la banda de la frente sin darse cuenta. Que lo mira con un ojo negro y con otro rojo, de tres comas, el ojo que Obito le dio debajo de una roca, hace diecisiete años.
-
-Obito se queda mirando ese ojo. Su ojo. En la cara del otro.
-
-Le tiembla la boca. Le tiembla todo.
-
-—Kakashi —dice, y la voz se le rompe en la mitad.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1422 · NARUTO · DÍA 1 · 16:14          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1423)
+## COMANDO 1 (T1423)
 
 miro
 
-## RESPUESTA 2 (T1423)
+## RESPUESTA 1 (T1423)
 
 > miro
 
@@ -137,11 +74,11 @@ Traga saliva. Se le tensa todo el cuerpo bajo los sellos.
 
 ---
 
-## COMANDO 3 (T1424)
+## COMANDO 2 (T1424)
 
 si haz que tsmbien haya revivido con la misma edad que kakashi y obito
 
-## RESPUESTA 3 (T1424)
+## RESPUESTA 2 (T1424)
 
 > si haz que tsmbien haya revivido con la misma edad que kakashi y obito
 
@@ -194,4 +131,79 @@ Obito levanta la cabeza del futón como puede. Te mira a ti. No a Minato. No a K
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:19, carpa de la colina. CORRECCIÓN DEL JUGADOR: Rin también fue revivida (deseo 2), con ~30 años, en su casa de la infancia (lado sur, calle con faroles). Facundo a Obito: "Sí." Kakashi: "¿Rin está viva?" Obito intenta levantarse, no puede sin chakra; Minato lo sostiene. Tsunade: "Rin Nohara. La alumna de Minato. Está bien." Obito a Facundo: "Por favor. Llévame con ella." Facundo puede actuar.
+## COMANDO 3 (T1425)
+
+me teletransporto a rin y la traigo con obito
+
+## RESPUESTA 3 (T1425)
+
+> me teletransporto a rin y la traigo con obito
+
+Te llevas dos dedos a la frente.
+
+La carpa desaparece.
+
+Aparece un cuarto chico, en el primer piso de una casa vieja. Una cama de chica, con una colcha de flores. Un escritorio con libros de ninjutsu médico apilados, con las tapas gastadas. En la pared, una foto enmarcada: tres chicos de doce años y un hombre rubio detrás, con la mano sobre las cabezas de dos de ellos. Un chico de pelo plateado con máscara, enojado. Un chico de antiparras naranjas, sonriendo con todos los dientes. Y una chica de pelo castaño, en el medio, con dos marcas violetas en las mejillas.
+
+La misma chica, con treinta años, está sentada en el borde de la cama, mirando esa foto.
+
+Se da vuelta de golpe al oírte aparecer. Tiene los ojos rojos de haber llorado. Se levanta, con las manos frente al pecho, en guardia, como le enseñaron.
+
+Te ve. Ve el pelo, los ojos, al gato en tu hombro.
+
+Se queda quieta.
+
+—Tú. —Lo dice muy bajo—. La voz dijo que tenías un gato.
+
+No le contestas. Le tiendes la mano.
+
+Rin la mira. Te mira a ti. Duda un segundo. Después te la toma.
+
+El cuarto desaparece.
+
+Aparece la carpa de la colina.
+
+Rin se tambalea al llegar, y la agarras del brazo para que no se caiga. Mira a su alrededor, desorientada: una carpa, una mujer rubia con un abrigo de Hokage, un hombre de cara dura con el abanico Uchiha en el pecho.
+
+Y en el suelo, en un futón, de costado, un hombre de pelo negro, con media cara llena de cicatrices.
+
+A cada lado, arrodillados, Minato y Kakashi.
+
+Rin se suelta de tu mano.
+
+Mira a Minato. Se tapa la boca. Mira a Kakashi, con la banda levantada y el Sharingan al aire, la cara sin máscara, mojada. Se le escapa un sonido que no es una palabra.
+
+Y después mira al hombre del futón.
+
+Lo mira un rato largo. Las cicatrices. El pelo negro. El remolino en la coronilla. El ojo nuevo, negro, abierto, que la mira desde el suelo sin parpadear, lleno de lágrimas.
+
+Se le doblan las rodillas.
+
+Cae arrodillada al lado del futón, entre Minato y Kakashi. Estira la mano, despacio, temblando, y le toca a Obito la mitad de la cara con cicatrices, con la punta de los dedos, como si tuviera miedo de que se rompiera.
+
+—¿Obito? —Le sale apenas—. Obito... Estás vivo. Estabas... ¿Estabas vivo?
+
+Obito no puede hablar. Abre la boca y no le sale nada. Le tiembla todo el cuerpo bajo los sellos.
+
+Se queda mirándola, como si fuera lo único que existe.
+
+—Rin —dice al fin, y se le rompe la voz entera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1425 · NARUTO · DÍA 1 · 16:21          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:21, carpa de la colina. Facundo fue a buscar a Rin a su cuarto (foto del equipo de Minato en la pared): "Tú. La voz dijo que tenías un gato." Le tendió la mano; ella la tomó. La trajo a la carpa. Rin ve a Minato, a Kakashi sin máscara y a Obito en el futón. Se arrodilla, le toca la mitad de la cara con cicatrices: "¿Obito? Estás vivo... ¿Estabas vivo?" Obito: "Rin." Facundo puede actuar.
