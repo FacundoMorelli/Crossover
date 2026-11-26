@@ -37,3 +37,4 @@ RELACIÓN CON FACUNDO (T1370): desconfianza, pero lo sigue.
 ESTADO: en Konoha (carpa de la colina), T1371.
 - T1372 · A Tsunade: "A ver a Homura y a Koharu. Los dos viejos del consejo. Los que dieron la orden con Danzō. Quiero que me digan a la cara por qué mataron a mi clan."
 - T1373 · Escucha a Tsunade sobre Obito y Kakashi; aprieta la mandíbula. Acepta no desenvainar: "Entendido." Saca la mano de la empuñadura.
+- T1374 · Reencuentro con Kakashi tras tres años: "Kakashi." Contra un poste junto a la entrada, brazos cruzados.

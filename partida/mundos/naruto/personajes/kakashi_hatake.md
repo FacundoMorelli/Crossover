@@ -39,3 +39,5 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1348 · Asiente para confirmarle a Naruto. "Te está ignorando" (sobre Kase).
 - T1349 · "A veces la respuesta más corta es la correcta." Se va con Tsunade.
 - T1373 · Tsunade lo manda a buscar a la carpa de la colina, en secreto (no sabe para qué).
+- T1374 · 13:09 · Llega a la carpa de la colina. Ve a Sasuke ("Sasuke." / "Kakashi."). Ve a Obito en el futón: el Sharingan se le abre solo, levantando la banda. Se arrodilla: "Obito." "Está vivo. Está... vivo." Mano temblando, sin tocarlo. A Facundo, con la voz quebrada: "¿Dónde lo encontraste?"
+QUÉ SABE (T1374): ve en persona que Obito está vivo, con capa de Akatsuki.

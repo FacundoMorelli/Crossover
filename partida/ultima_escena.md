@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1371)
-
-esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
-
-## RESPUESTA 1 (T1371)
-
-> esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
-
-> —Está bien. Ustedes quédense aquí por ahora. Solo voy con Sasuke.
-
-—¿Qué? —Karin da un paso adelante—. ¡No! Si Sasuke va, yo...
-
-—Karin. —Sasuke no se da vuelta—. Quédate.
-
-Karin se queda con la boca abierta. Después la cierra. Jūgo le pone una mano grande en el hombro, sin decir nada. Suigetsu se vuelve a sentar en el suelo con un suspiro largo.
-
-—Genial. Nos quedamos cuidando una cueva vacía. Si en una hora no vuelven, me voy a buscar a Kisame y le digo que todo esto fue idea de ustedes.
-
-Te agachas junto a Obito y te lo cargas al hombro, como un saco. Pesa poco para lo que es. La capa negra con nubes rojas le cuelga, el brazo herido se le balancea. Kase te salta al otro hombro sin que lo llames.
-
-Le apoyas a Sasuke la mano libre en el hombro. Él se tensa bajo los dedos, pero no se aparta.
-
-Te llevas dos dedos a la frente y buscas.
-
-La encuentras enseguida: una presencia fuerte, cálida y cansada, sola, al borde de un cráter muy lejos al sur.
-
-La cueva desaparece.
-
-Aparece una carpa. La de la colina, la de esta mañana, con el futón doblado en un rincón y olor a tinta fresca. Tsunade está sentada en el suelo, detrás de una mesa baja, con el abrigo de Hokage sobre los hombros, una botella de sake a medio tomar al lado del codo y un pergamino largo a medio escribir delante. Tiene el pincel levantado.
-
-Levanta la vista.
-
-Te ve a ti. Ve al hombre de la cara llena de cicatrices colgado de tu hombro, con la capa de Akatsuki. Y ve, a tu lado, a un muchacho de pelo negro, con una capa negra y blanca, una máscara naranja metida en el cinturón y los ojos negros clavados en ella.
-
-El pincel se le cae de los dedos. Deja una mancha de tinta en medio del pergamino.
-
-Sasuke no dice nada. Se queda parado, rígido, con la mano sana cerca de la empuñadura de la espada.
-
-Tsunade no grita. No se levanta. Se queda mirándolos a los tres, uno por uno, muy despacio. Cuando por fin habla, la voz le sale baja, controlada, como la de alguien que se obliga a no romper la mesa.
-
-—Facundo. —Mira a Sasuke. Mira al hombre de tu hombro—. Dime que no me trajiste a la carpa a quien creo que me trajiste.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1371 · NARUTO · DÍA 1 · 13:00          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Llevar a Obito a Konoha            ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1372)
+## COMANDO 1 (T1372)
 
 bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
 
-## RESPUESTA 2 (T1372)
+## RESPUESTA 1 (T1372)
 
 > bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
 
@@ -119,11 +60,11 @@ La voz le sale fría y quieta, sin ninguna emoción, como si fuera la décima ve
 
 ---
 
-## COMANDO 3 (T1373)
+## COMANDO 2 (T1373)
 
 y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
 
-## RESPUESTA 3 (T1373)
+## RESPUESTA 2 (T1373)
 
 > y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
 
@@ -178,4 +119,75 @@ Tsunade se vuelve hacia ti. Señala el futón doblado en el rincón.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:03, carpa de la colina. Facundo dijo que el inconsciente es Obito Uchiha y que lo conoce el dueño de la otra mitad de su Sharingan. Tsunade lo recuerda: equipo de Minato, "muerto" en Kannabi, nombre en la piedra de los caídos que Kakashi visita cada mañana desde hace 17 años. Manda buscar a Kakashi en secreto. A Sasuke: verá a Homura y Koharu hoy, delante de ella; nada de desenvainar. Sasuke: "Entendido." A Facundo: "Ponlo ahí (futón). Boca arriba. Y no te alejes de él." Facundo puede actuar.
+## COMANDO 3 (T1374)
+
+esta bien, lo dejo ahi en el futon boca arriba
+
+## RESPUESTA 3 (T1374)
+
+> esta bien, lo dejo ahi en el futon boca arriba
+
+Desdoblas el futón con el pie y dejas a Obito encima, boca arriba. La capa de Akatsuki se abre a los costados. La cabeza se le va un poco hacia un lado, y queda a la vista la mitad de la cara llena de cicatrices.
+
+Kase baja de tu hombro y se sienta en el suelo, a medio metro de la cabeza de Obito, con la cola enroscada en las patas. No le saca los ojos de encima.
+
+Nadie dice nada.
+
+Tsunade vuelve a sentarse detrás de la mesa baja. Se sirve sake en un vaso chico, se lo toma de un trago y no se sirve otro. Sasuke se queda de pie junto a la entrada, con los brazos cruzados y la espalda contra un poste, mirando el futón.
+
+Pasan unos minutos. Afuera se oyen martillazos lejanos, alguien que llama a sus hijos, el viento sobre las lonas.
+
+Después, unos pasos que se acercan sin apuro.
+
+La lona se levanta.
+
+—Hokage-sama, me mandó a buscar con mucha urgencia para alguien que se supone que ya está despierta y no debería... —Kakashi se frena en la entrada, con un pie todavía afuera.
+
+Ve a Sasuke primero.
+
+Se queda completamente quieto. El ojo visible se le abre, y después se le estrecha.
+
+—Sasuke.
+
+—Kakashi.
+
+Ninguno de los dos se mueve. Durante un segundo largo, se quedan así, mirándose, maestro y alumno, a dos metros, después de tres años.
+
+Después Kakashi gira la cabeza hacia el futón.
+
+Lo ves pasar. No es rápido. Primero mira la capa con las nubes rojas y algo se le tensa en los hombros. Después mira la cara. La mitad lisa. La mitad con cicatrices. El pelo negro.
+
+El ojo izquierdo de Kakashi, debajo de la banda, se abre solo. Se le levanta la banda de la frente sin que la toque, empujada desde adentro, y el Sharingan queda al aire, girando, como si hubiera reconocido algo antes que él.
+
+Kakashi da un paso dentro de la carpa. Después otro. Se arrodilla junto al futón, despacio, como si le pesaran las piernas.
+
+—Obito.
+
+Le sale apenas. No es una pregunta.
+
+Estira una mano hacia la cara del hombre en el futón, y se detiene a un centímetro, sin tocarlo. Le tiembla. Kakashi, que no se movió cuando lo atacó Pain, que no se movió cuando murió, tiene la mano temblando.
+
+—Está vivo —dice, muy bajo—. Está... vivo.
+
+Levanta la cabeza hacia ti. La máscara le tapa la boca, pero no la voz, que se le quiebra a la mitad.
+
+—¿Dónde lo encontraste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1374 · NARUTO · DÍA 1 · 13:09          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto al futón                         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:09, carpa de la colina. Obito en el futón, boca arriba; Kase sentado junto a su cabeza. Llega Kakashi: ve a Sasuke ("Sasuke." "Kakashi."), después a Obito. Su Sharingan se abre solo. Se arrodilla: "Obito... Está vivo." Mano temblando sin tocarlo. A Facundo: "¿Dónde lo encontraste?" Facundo tiene que contestar.

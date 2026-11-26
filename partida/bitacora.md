@@ -1372,3 +1372,4 @@ T1370 · NARUTO · Cueva de Akatsuki · "Nada. Llevo a este a la aldea. Sasuke, 
 T1371 · NARUTO · Cueva → carpa de la colina · Taka se queda. Se teletransporta con Obito al hombro y Sasuke hasta Tsunade, sola. Tsunade: "Dime que no me trajiste a quien creo que me trajiste."
 T1372 · NARUTO · Carpa de la colina · Presenta a Sasuke y al falso Madara. Tsunade: células de su abuelo; "Esto no es Madara." A Sasuke: "¿A qué viniste?" Sasuke: "Quiero que Homura y Koharu me digan a la cara por qué mataron a mi clan."
 T1373 · NARUTO · Carpa de la colina · "Este es Obito Uchiha; lo conoce el dueño de la otra mitad de su Sharingan." Tsunade recuerda Kannabi y la piedra de los caídos. Manda buscar a Kakashi. A Sasuke: verá a Homura y Koharu hoy, sin espada. A Facundo: "Ponlo en el futón y no te alejes."
+T1374 · NARUTO · Carpa de la colina · Deja a Obito en el futón. Llega Kakashi: "Sasuke." Ve a Obito; el Sharingan se le abre solo. "Obito. Está vivo." "¿Dónde lo encontraste?"
