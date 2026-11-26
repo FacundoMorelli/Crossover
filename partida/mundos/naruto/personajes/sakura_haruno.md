@@ -9,3 +9,4 @@ ENCUENTROS:
 - T1400 · Ve a Sasuke: se queda quieta, llorando. "Sasuke... kun." Se tapa la cara cuando Naruto apoya la frente en el hombro de Sasuke.
 QUÉ SABE DE FACUNDO: rumores del campamento.
 ESTADO: activa.
+- T1431 · Corre detrás de Shizune hacia Tsunade: "¡Maestra!"

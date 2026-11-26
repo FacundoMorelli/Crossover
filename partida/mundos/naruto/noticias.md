@@ -21,3 +21,4 @@
 - T1407 · Siete cometas de colores cruzaron el cielo de las cinco naciones. En Suna, una luz de arena dorada cayó sobre el Kazekage.
 - T1411 · Día 1 15:30 · ¡El Cuarto Hokage vive y es el padre de Naruto! ¡Jiraiya volvió!
 - T1428 · Días 2-4 · Bee aparece libre. Cumbre suspendida. Juicio de Danzō en la plaza de la Torre. Acuerdo de paz de los cinco Kages leído por Tsunade desde la Torre.
+- T1431 · Día 5 · El viajero del gato le ganó a la Quinta Hokage en el campo tres, con una palma.

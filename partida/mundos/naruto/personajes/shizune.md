@@ -18,3 +18,4 @@ RELACIÓN CON FACUNDO (T1334): preocupada por él; ya no recelosa.
 - T1339 · Oye lo del brazo de Danzō; se tapa la boca.
 - T1340 · Sale a buscar a Yamato, Gai e Ibiki "como si fuera para hablar de casas".
 - T1399 · Convoca a todos por orden de Tsunade. Trae 7 piedras de río en un pañuelo: "Las mejores que encontré."
+- T1431 · Corre hacia Tsunade con las manos encendidas; Tsunade la aparta.

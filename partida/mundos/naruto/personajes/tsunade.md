@@ -94,3 +94,5 @@ QUÉ SABE (T1416): por Facundo, se queda unos días, se irá y volverá.
 PODER VISTO POR FACUNDO (T1429): fuerza monstruosa, Patada del Cielo, Byakugō (rombo encendido).
 - T1430 · Su Patada del Cielo abre un cráter de diez metros. Decenas de golpes a Facundo en Ultra Instinto; ninguno lo toca. Sudada, feliz: "¡Deja de esquivar! ¡Pégame una vez! ¡Una sola! ¡Quiero saber qué se siente!"
 QUÉ PODERES DE FACUNDO VIO (T1430): Ultra Instinto Dominado (aura plateada; esquiva todo).
+- T1431 · Recibe una palma contenida: vuela, parte dos postes, cruza el río, se estrella en la ladera. Byakugō: se cura tres costillas. Carcajada: "¡Así que así se siente! ¡Ja! ¡JA! ¡Me pegaste con la palma! ¡Con la palma abierta, desgraciado! ¡Y me rompiste tres costillas!" "¡Estoy bien, Shizune! ¡Nunca estuve mejor!" "Contenido. Eso fue contenido, ¿no?" PERDIÓ el duelo.
+RELACIÓN CON FACUNDO (T1431): admiración y alegría.

@@ -3,102 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1428)
-
-no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
-
-## RESPUESTA 1 (T1428)
-
-> no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
-
-> —No sé. Creo que podrías encerrarlo. No sé si necesita una oportunidad como Obito.
-
-Tsunade asiente, una vez.
-
-—Encerrado, entonces. Con Ibiki. —Mira a Kase, que sigue dormido sobre el pecho de Obito—. Y tu gato se queda aquí, por lo que veo.
-
-Kase abre un ojo, el azul. Lo vuelve a cerrar.
-
-Pasan los días.
-
-Esa noche no hay preguntas en la carpa de la colina. Tsunade te espera en la Torre con la botella de sake abierta, te sirve un vaso que no tomas y se queda un rato largo mirando la aldea iluminada por la ventana redonda. Al final dice que pensaba preguntarte quién eres, de dónde sacaste todo eso y qué quieres, y que ya no le importa. Te da las buenas noches y te echa.
-
-Kase vuelve a tu hombro cuando sales de la Torre, sin que lo llames.
-
-Kisame despierta en una celda de piedra, debajo de la sede de Ibiki, con sellos en todo el cuerpo y Samehada encerrada en un baúl de hierro a tres pisos de distancia. La primera mañana se ríe. La segunda, pregunta por Itachi. Cuando le dicen que Itachi está vivo y que desayuna todos los días con su familia en el barrio Uchiha, deja de reírse.
-
-A la mitad blanca de Zetsu la estudian Tsunade y Shizune en un cuarto sellado de la Torre. Habla mucho, pregunta por su otra mitad y no entiende por qué nadie le contesta.
-
-Samui, Karui y Omoi parten a la mañana siguiente hacia el País del Rayo, a toda velocidad, con una carta de la Hokage, la confesión de Suigetsu y la noticia de que Killer Bee nunca fue secuestrado. Dos días después llega a Konoha un halcón de la Nube con una carta del Raikage: Bee apareció en las montañas, rapeando, con los siete tentáculos y una sonrisa. La carta tiene una sola línea al final, escrita con una letra tan apretada que rompió el papel: "Que el Uchiha no vuelva a pisar mi país."
-
-La Cumbre de los Cinco Kages se suspende. En su lugar llegan halcones de las cinco naciones. De Suna, una carta de Gaara que dice que una luz de arena dorada le cayó del cielo y que Shukaku le habló por primera vez en tres años, para quejarse. De la Niebla, una carta de una tal Mei Terumī que pregunta por qué el Cuarto Mizukage, Yagura, muerto hace años, apareció sentado en su despacho con el Tres Colas adentro, preguntando quién era ella. De Iwa, una carta de un viejo Tsuchikage furioso porque Rōshi y Han volvieron y ahora nadie sabe a quién pagarles el sueldo.
-
-Al tercer día, Gaara llega a Konoha en persona, con Temari y Kankurō, montado en una nube de arena. Busca al viajero del gato. Te encuentra en la puerta de tu casa de madera del borde sur. Te mira un rato largo, con los ojos verdes y quietos, hace una reverencia profunda y se va sin decir nada más.
-
-Sasuke se queda en el barrio Uchiha, en la casa donde nació. Taka se queda con él: Karin en un cuarto de huéspedes, Jūgo durmiendo en el jardín, Suigetsu en la bañera, porque dice que es el único lugar de la casa donde se siente cómodo. Mikoto les cocina a todos. Fugaku no dice nada, pero tampoco los echa. Itachi y Sasuke entrenan juntos todas las mañanas en el bosque del este, y vuelven al mediodía sin hablarse, como si no les hiciera falta.
-
-Naruto se muda a la casa del oeste, con su padre y su madre. Se le oye gritar desde tres calles de distancia. Kushina le grita más fuerte. Jiraiya se instala en la casa de al lado "para estar cerca de mis alumnos", y Tsunade le rompe la puerta de una patada el segundo día por algo que nadie quiere contar.
-
-Obito pasa los días sin chakra, con el ojo nuevo y el sello de Ibiki sobre el otro. Barre las calles del barrio Uchiha por orden de Tsunade, bajo la mirada de todo el clan, sin levantar la vista. Rin lo acompaña todos los días. Kakashi también. La gente lo mira y se aparta. Algunos escupen al piso. Él sigue barriendo.
-
-A tu casa del borde sur llegan cosas todas las mañanas, sin que nadie las anuncie: un cuenco de arroz, una canasta de frutas, una bufanda tejida a mano, un dibujo de un chico con un dragón y un gato. Kase se acostumbra al estante de la ventana. Lee aparece cada mañana a desafiarte y Gai lo acompaña cada mañana a llorar por su juventud. Teuchi no te deja pagar nunca.
-
-Al cuarto día se hace el juicio de Danzō.
-
-En la plaza de la Torre, delante del Señor Feudal, del consejo, del clan Uchiha entero y de toda la aldea. Danzō, sellado, en una silla, con el brazo de los diez ojos al aire para que lo vea todo el mundo. No pide perdón. Explica, con la misma voz seca de siempre, por qué hizo cada cosa. Homura y Koharu confiesan su voto, con la cabeza baja. Obito se sienta delante de todos, con Rin a un lado y Kakashi al otro, y cuenta lo que hizo, todo, desde el puente de Kannabi hasta la cueva. Tarda dos horas. Nadie lo interrumpe.
-
-Fugaku se pone de pie al final y dice, delante de todos, que su clan planeaba tomar la aldea por la fuerza. Que se equivocó. Que su hijo mayor cargó con su error. Itachi, sentado en primera fila, no levanta la vista.
-
-La sentencia la lee Tsunade. Danzō, prisión de por vida, sin chakra, sin Raíz, sin nombre en ningún registro. Los diez ojos, devueltos al clan Uchiha para que los entierren. Homura y Koharu, fuera del consejo para siempre. Raíz, disuelta. Obito, sellado y al servicio de la aldea hasta que la Hokage diga lo contrario. Y el clan Uchiha, con sus calles, su policía y su lugar en el consejo.
-
-Esa misma noche llegan los últimos halcones. Cinco cartas, de las cinco aldeas. Akatsuki ya no existe. Las bestias volvieron. No hay nada que repartirse ni nadie a quien temer. Los cinco Kages firman, cada uno en su casa, un acuerdo de paz que Tsunade lee en voz alta desde el balcón de la Torre.
-
-[No habrá una Cuarta Gran Guerra Ninja. Neji Hyūga vive.]
-
-[Misión de Mundo cumplida.]
-
-[+20.000 EXP. +500 Fragmentos.]
-
-[Has subido de nivel. Nivel 30.]
-
-[Hito alcanzado: +4 a todos los stats. +15 puntos de stat.]
-
-[Habilidad del Sistema desbloqueada: Corona Orbital.]
-
-[Doce de doce mundos completados.]
-
-Neji no se entera de nada. Esa noche está entrenando solo en el patio de los Hyūga, con el Byakugan encendido, y no sabe por qué el viajero del gato lo mira desde el techo de enfrente un rato largo antes de irse a dormir.
-
-Al quinto día, al amanecer, alguien golpea la puerta de tu casa del borde sur. Tres golpes. Fuertes. La madera cruje.
-
-Abres.
-
-Es Tsunade. Sin el abrigo de Hokage. Con ropa de entrenamiento, el pelo atado en dos coletas apretadas y los puños vendados. Detrás de ella, el sol recién sale sobre los cinco rostros del monumento.
-
-—Buenos días. —Se trona los nudillos de una mano, uno por uno—. Te dije que me ibas a mostrar qué tan bien peleas. Yo misma. —Sonríe, y no es una sonrisa amable—. Hoy. Campo de entrenamiento tres. Ahora.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1428 · NARUTO · DÍA 5 · 05:48          ║
-║ Konoha · borde sur · tu casa de madera       ║
-║ NIVEL 30 · EXP 326.730/360.000               ║
-║ FRAGMENTOS 114.024 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el estante de la ventana            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Pelea con Tsunade                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1429)
+## COMANDO 1 (T1429)
 
 esta bien
 
-## RESPUESTA 2 (T1429)
+## RESPUESTA 1 (T1429)
 
 > esta bien
 
@@ -153,11 +62,11 @@ El aire silba bajo el talón. Abajo, en las ramas, la gente se agarra.
 
 ---
 
-## COMANDO 3 (T1430)
+## COMANDO 2 (T1430)
 
 activo el ultra instinto dominado
 
-## RESPUESTA 3 (T1430)
+## RESPUESTA 2 (T1430)
 
 > activo el ultra instinto dominado
 
@@ -214,4 +123,75 @@ Tsunade se detiene. Respira fuerte. Le corre sudor por la frente, sobre el rombo
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:11, campo tres. Facundo activó el Ultra Instinto Dominado (aura y pelo plateados, ojos gris plata). La Patada del Cielo hizo un cráter de diez metros donde estaba; él ya no estaba. Tsunade lanzó decenas de golpes; ninguno lo tocó. Naruto: "¡¿Qué es eso?!" Itachi: "No es chakra. No es nada." Jiraiya rompe el lápiz. Kakashi cierra el libro. Kase en un poste. Tsunade, feliz: "¡Deja de esquivar! ¡Pégame una vez! ¡Quiero saber qué se siente!" Facundo puede actuar.
+## COMANDO 3 (T1431)
+
+le pego conteniendome
+
+## RESPUESTA 3 (T1431)
+
+> le pego conteniendome
+
+Das un paso.
+
+Para los que miran no hay paso: estás a dos metros de Tsunade y, de golpe, estás pegado a ella, con la palma abierta apoyada en el centro de su pecho, justo debajo de la clavícula. El aire plateado alrededor de tu cuerpo se mueve por primera vez, una sola onda, como agua cuando cae una piedra.
+
+Te contienes. Tanto que casi no es un golpe. Un empujón con la palma.
+
+Igual alcanza.
+
+Tsunade sale disparada hacia atrás.
+
+Pasa por encima del cráter que ella misma abrió, rozándolo con la espalda. Atraviesa la fila de los tres postes de madera y parte los dos primeros como si fueran ramitas; Kase salta del tercero en el último segundo. Cruza el río de un lado al otro, sin tocar el agua, levantando una cortina de espuma a su paso. Y se estrella contra la ladera de tierra de la orilla de enfrente, que se hunde a su alrededor en un círculo perfecto.
+
+Silencio.
+
+Las hojas arrancadas de los árboles bajan despacio, flotando, sobre el campo.
+
+—¡Tsunade-sama! —grita Shizune, y sale corriendo con las manos encendidas.
+
+—¡Maestra! —Sakura salta detrás de ella.
+
+Jiraiya se queda con la libreta en la mano y la boca abierta. Naruto, sentado en el pasto, ni siquiera grita.
+
+En la ladera de enfrente, dentro del hueco, algo se mueve.
+
+Tsunade se incorpora, despacio, sentada, con el pelo lleno de tierra y las coletas medio deshechas. El rombo violeta de la frente se le enciende, y unas líneas negras le bajan por la cara y los brazos. Lo que sea que se le rompió adentro, se le arregla solo en un segundo: se oye un crujido suave, como de huesos que vuelven a su lugar.
+
+Se queda sentada en el hueco, mirándote desde el otro lado del río. Tiene un hilo de sangre en la comisura de la boca.
+
+Y se ríe.
+
+Una carcajada enorme, de las de antes, de las que no le salían desde hacía años, que rebota en el bosque del este y hace volar a los pájaros.
+
+—¡Así que así se siente! —grita, entre risas—. ¡Ja! ¡JA! ¡Me pegaste con la palma! ¡Con la palma abierta, desgraciado! ¡Y me rompiste tres costillas!
+
+Shizune llega a su lado, sin aire, y Tsunade la aparta con una mano.
+
+—¡Estoy bien, Shizune! ¡Nunca estuve mejor!
+
+Se limpia la sangre de la boca con el dorso de la mano. Te mira desde la ladera, con los ojos brillando como los de una chica.
+
+—Contenido —dice, todavía riéndose, pero más bajo—. Eso fue contenido, ¿no?
+
+[Duelo ganado: Tsunade.]
+
+[+75 Fragmentos. +800 EXP.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1431 · NARUTO · DÍA 5 · 06:12          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 327.530/360.000               ║
+║ FRAGMENTOS 114.099 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común · Ultra Instinto         ║
+║ Kase: en el pasto, junto al poste            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:12, campo tres. Facundo le dio a Tsunade una palma contenida (Ultra Instinto): voló, partió dos postes, cruzó el río y se estrelló en la ladera de enfrente. Se curó con el Byakugō (tres costillas). Se ríe a carcajadas: "¡Así que así se siente! ¡Me pegaste con la palma abierta, desgraciado!" "Contenido. Eso fue contenido, ¿no?" Duelo ganado (+75 F, +800 EXP). Shizune y Sakura junto a ella. Facundo puede actuar.
