@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1381)
-
-miro
-
-## RESPUESTA 1 (T1381)
-
-> miro
-
-Durante un rato largo, ninguno de los dos viejos contesta.
-
-Koharu mira el té derramado en el suelo. Homura se acomoda los anteojos, despacio, con dos dedos, y es lo único que hace.
-
-—Contesten —dice Tsunade, de brazos cruzados junto a la entrada—. Esta mañana les pregunté si sabían lo del brazo de Danzō y me dijeron que no. Ahora el muchacho les pregunta otra cosa. Y esta vez quiero la verdad entera.
-
-Homura es el que habla primero. Lo hace sin levantar la voz, con el tono de alguien que repitió algo tantas veces en su cabeza que ya no le suena a nada.
-
-—El clan Uchiha planeaba un golpe de Estado. —Mira a Sasuke a los ojos, y no aparta la vista—. Después del ataque del Nueve Colas, la aldea desconfió de ellos. Los apartaron, los mandaron a vivir al borde de Konoha, los vigilaron. Y ellos se cansaron. Fugaku, tu padre, iba a tomar el control de la aldea por la fuerza.
-
-Sasuke no se mueve.
-
-—Hiruzen quería negociar —sigue Koharu, sin levantar la vista del suelo—. Quería tiempo. Creía que podía convencerlos. Danzō no. Danzō decía que si los Uchiha se levantaban, habría una guerra civil, y que las otras aldeas aprovecharían para atacarnos. Que moriría mucha más gente.
-
-—Y nosotros le dimos la razón a Danzō —dice Homura—. Los dos. Votamos con él.
-
-Le tiembla apenas el cuenco vacío en las manos.
-
-—Itachi era nuestro espía dentro del clan. Danzō le dio la misión. Y él la aceptó, con una sola condición. —Homura hace una pausa—. Que a ti no te tocaran. Que te dejaran vivir. Hiruzen se lo prometió.
-
-—No les pedimos perdón —dice Koharu, y por fin levanta la cara. Tiene los ojos húmedos y la boca dura—. Elegimos la aldea por encima de un clan. Si volviéramos atrás, quizá elegiríamos lo mismo. Es lo que hacemos los que estamos en el consejo. Elegimos quién muere para que vivan los demás.
-
-El silencio en la carpa es tan pesado que se oye el goteo del té en las tablas.
-
-Sasuke sigue sin moverse.
-
-Después, muy despacio, se le encienden los ojos.
-
-No las tres comas. Las aspas. El Mangekyō. Y alrededor de su cuerpo, en el aire, empieza a aparecer algo: un contorno de huesos violetas, costillas de chakra que se dibujan solas alrededor de su pecho, crepitando, a medio formar. Las tablas del suelo debajo de sus pies crujen.
-
-—Sasuke —dice Tsunade, en voz baja y firme, sin moverse de la entrada—. Me prometiste algo.
-
-Sasuke no le contesta. Le tiembla todo el cuerpo. Las costillas violetas se encienden, se apagan, se vuelven a encender, como si él mismo estuviera tratando de aplastarlas y no pudiera.
-
-Homura no se mueve. Koharu cierra los ojos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1381 · NARUTO · DÍA 1 · 13:28          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión con Homura y Koharu        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1382)
+## COMANDO 1 (T1382)
 
 le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
 
-## RESPUESTA 2 (T1382)
+## RESPUESTA 1 (T1382)
 
 > le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
 
@@ -129,11 +68,11 @@ No es una pregunta. Las aspas del Mangekyō se le vuelven a encender, pero esta 
 
 ---
 
-## COMANDO 3 (T1383)
+## COMANDO 2 (T1383)
 
 sigo mirando
 
-## RESPUESTA 3 (T1383)
+## RESPUESTA 2 (T1383)
 
 > sigo mirando
 
@@ -184,4 +123,78 @@ Te mira.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:33, carpa de mando. Tsunade no le dice a Sasuke dónde está Danzō: lo juzgarán ante el Señor Feudal, el consejo y toda Konoha, con el brazo al aire; si lo mata, la verdad se pierde. Los ojos son del clan: se los devolverá todos (incluido el de Shisui) tras el juicio. Sasuke apaga el Mangekyō. A Facundo, en voz baja: "Dijiste que podías revivirlos. Si vuelven... van a necesitar sus ojos. ¿Los revivirías con sus ojos?" Facundo tiene que contestar.
+## COMANDO 3 (T1384)
+
+si
+
+## RESPUESTA 3 (T1384)
+
+> si
+
+> —Sí.
+
+Sasuke se te queda mirando.
+
+No dice nada durante un rato. Después baja la vista, apenas, y suelta el aire por la nariz, largo, como alguien que dejó de cargar algo pesado sin darse cuenta de que lo cargaba.
+
+Asiente una vez. Corto.
+
+Se da vuelta hacia Tsunade.
+
+—Me quedo.
+
+Lo dice sin tono, como dice todo. Pero Tsunade levanta las cejas, y Homura deja de frotarse los anteojos.
+
+—En Konoha —sigue Sasuke—. Hasta el juicio. Hasta que me devuelvan los ojos de mi clan. —Te mira de reojo—. Y hasta que él cumpla lo que dijo.
+
+Tsunade lo mira un rato largo. Después se cruza de brazos.
+
+—Te vas a quedar bajo mi responsabilidad. Nada de salir de la aldea sin permiso. Nada de buscar a Danzō. Y cuando lleguen los de la Nube a reclamarte, y van a llegar, vas a estar a mi lado y vas a contestar lo que te pregunten. —Se le endurece la cara—. ¿Entendido?
+
+—Entendido.
+
+[Misión de copia cumplida.]
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Sharingan y técnicas de Sasuke · COPIADO     ║
+║ USUARIO: Sasuke Uchiha · Naruto              ║
+║                                              ║
+║ INCLUYE: Sharingan, Mangekyō (Amaterasu,     ║
+║ Enton, Tsukuyomi, Susanoo), Mangekyō         ║
+║ Eterno, Rinnegan y todo lo que llega a       ║
+║ hacer; Chidori y variantes; Estilo Fuego y   ║
+║ Rayo; Kirin; esgrima. Sin ceguera ni         ║
+║ desgaste. Dominio total.                     ║
+╚══════════════════════════════════════════════╝
+
+[+2.000 EXP.]
+
+Algo se te enciende detrás de los ojos, un calor rojo que se apaga enseguida. Nadie lo nota.
+
+Sasuke mira a Tsunade un momento más. Después agrega, en el mismo tono:
+
+—Hay tres más. Mi equipo. Están en una cueva al norte, esperando. —Te mira a ti—. Él sabe dónde.
+
+Tsunade cierra los ojos y se aprieta el puente de la nariz con dos dedos.
+
+—Claro. Tres más. ¿Por qué no? —Abre los ojos y te mira a ti, con una expresión que mezcla cansancio, fastidio y algo que casi parece gracia—. ¿Hay algo más que me hayas traído hoy y todavía no me dijiste, Facundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1384 · NARUTO · DÍA 1 · 13:35          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 304.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:35, carpa de mando. Facundo: "Sí" (revivirá al clan con sus ojos). Sasuke: "Me quedo. En Konoha. Hasta el juicio, hasta que me devuelvan los ojos y hasta que él cumpla." Tsunade: bajo su responsabilidad, sin salir, sin buscar a Danzō, responderá ante Kumo. COPIA: Sharingan y técnicas de Sasuke (+2.000 EXP). Sasuke: su equipo (3) está en la cueva del norte; "Él sabe dónde." Tsunade: "¿Hay algo más que me hayas traído hoy y todavía no me dijiste, Facundo?" Facundo puede contestar.

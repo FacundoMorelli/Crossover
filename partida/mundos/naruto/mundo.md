@@ -19,3 +19,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1345 · Baku (invocación de Danzō) se tragó a 3 agentes de Raíz desmayados.
 - T1346 · DANZŌ ARRESTADO (vivo) por Facundo, por orden de Tsunade. Raíz desarticulado, bajo guardia. Fū y Torune vivos. No irá a la Cumbre (canon: va como Hokage designado y muere a manos de Sasuke). La Cumbre de los Cinco Kages seguirá sin Danzō: ¿irá Tsunade?
 - T1365 · TOBI (Obito) VENCIDO e inconsciente por Facundo en la cueva del norte. Kamui deshecho. Sasuke liberado de Tobi y dudando de su identidad.
+- T1384 · SASUKE SE QUEDA EN KONOHA por voluntad propia (bajo responsabilidad de Tsunade). Canon: no vuelve hasta después de la guerra.

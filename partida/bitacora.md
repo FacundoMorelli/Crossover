@@ -1382,3 +1382,4 @@ T1380 · NARUTO · Carpa de mando · Cruzan el campamento: todos ven a Sasuke co
 T1381 · NARUTO · Carpa de mando · Homura y Koharu confiesan: golpe de Estado Uchiha, votaron con Danzō, Itachi aceptó para salvar a Sasuke. "No les pedimos perdón." Sasuke: Mangekyō, Susanoo a medio formar, temblando.
 T1382 · NARUTO · Carpa de mando · Mano en el hombro de Sasuke: se apaga el Susanoo. "¿Y Shisui?" Los viejos: quería frenar el golpe con su ojo; Danzō se opuso; apareció muerto sin el ojo derecho. Tsunade: Kakashi dijo "Shisui". Sasuke: "¿Dónde está Danzō?"
 T1383 · NARUTO · Carpa de mando · Tsunade: Danzō será juzgado ante todos; si lo matas, se pierde la verdad; los ojos se devolverán al clan. Sasuke apaga el Mangekyō. A Facundo: "¿Los revivirías con sus ojos?"
+T1384 · NARUTO · Carpa de mando · "Sí." Sasuke: "Me quedo. En Konoha." COPIA el Sharingan y técnicas de Sasuke (+2.000 EXP). Su equipo está en la cueva. Tsunade: "¿Hay algo más que me hayas traído hoy?"

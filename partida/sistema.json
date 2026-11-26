@@ -1,11 +1,11 @@
 {
-  "turno": 1383,
+  "turno": 1384,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 13:33",
+  "hora": "Día 1, 13:35",
   "edad": 18,
   "nivel": 29,
-  "exp": 302980,
+  "exp": 304980,
   "exp_siguiente_nivel": 320000,
   "fragmentos": 113344,
   "plata_local": {
@@ -1116,6 +1116,24 @@
         "Dominio total e inmediato",
         "Lee conserva el suyo"
       ]
+    },
+    {
+      "poder": "Sharingan y técnicas de Sasuke Uchiha",
+      "de": "Sasuke Uchiha",
+      "mundo": "naruto",
+      "cuando": "T1384, carpa de mando de Konoha, Día 1 13:35",
+      "mision": "Que Sasuke vuelva a Konoha por su propia voluntad (cumplida: \"Me quedo. En Konoha.\")",
+      "incluye": [
+        "Sharingan",
+        "Mangekyō: Amaterasu, Enton (control de Amaterasu), Tsukuyomi, Susanoo",
+        "Mangekyō Eterno, Rinnegan y todo lo de su canon (R2)",
+        "Chidori y variantes (Eisō, Nagashi, Senbon), Kirin",
+        "Estilo Fuego y Estilo Rayo",
+        "Esgrima de Sasuke",
+        "Sin ceguera ni desgaste",
+        "Dominio total e inmediato",
+        "Sasuke conserva el suyo"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1496,14 +1514,6 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
-    },
-    {
-      "poder": "Sharingan, Mangekyō y técnicas de Sasuke Uchiha",
-      "usuario": "Sasuke Uchiha",
-      "mundo": "naruto",
-      "mision": "Que Sasuke vuelva a Konoha por su propia voluntad.",
-      "dificultad": "ALTA",
-      "emitida": "T1362"
     }
   ],
   "misiones_de_copia_rechazadas": [],

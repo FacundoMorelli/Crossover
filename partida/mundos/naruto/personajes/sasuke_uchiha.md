@@ -49,3 +49,7 @@ PODER VISTO POR FACUNDO (T1381): Mangekyō, Susanoo (parcial).
 - T1382 · Facundo le pone la mano en el hombro: el Susanoo se deshace; no le saca la mano. "El amigo de mi hermano. Se tiró al río. Dijeron que Itachi lo había matado." Al saber lo del ojo: "Danzō tiene el ojo de Shisui." Mangekyō encendido, sin Susanoo: "¿Dónde está Danzō?"
 QUÉ SABE (T1382): por los viejos y Tsunade, Danzō le sacó el ojo derecho a Shisui.
 - T1383 · "Dígame dónde." Escucha a Tsunade; apaga el Mangekyō. A Facundo, en voz baja: "Dijiste que podías revivirlos. A mi clan. Si vuelven... van a necesitar sus ojos. ¿Los revivirías con sus ojos?"
+- T1384 · Facundo: "Sí" (con sus ojos). Asiente. A Tsunade: "Me quedo. En Konoha. Hasta el juicio. Hasta que me devuelvan los ojos de mi clan. Y hasta que él cumpla lo que dijo." Acepta las condiciones: "Entendido." "Hay tres más. Mi equipo. Están en una cueva al norte, esperando. Él sabe dónde."
+COPIADO POR FACUNDO (T1384). Sasuke no lo sabe.
+ESTADO: en Konoha bajo responsabilidad de Tsunade (T1384).
+RELACIÓN CON FACUNDO (T1384): empieza a confiar.

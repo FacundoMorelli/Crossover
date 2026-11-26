@@ -57,3 +57,4 @@ QUÉ SABE (T1381): por Homura y Koharu, la verdad de la masacre Uchiha (golpe de
 - T1382 · Se pone blanca: "Esta mañana... Kakashi miró la venda que tiene en el ojo derecho. Y dijo Shisui."
 - T1383 · A Sasuke: Danzō está con Ibiki, sellado; no le dirá dónde: "si te lo digo, vas a ir, y lo vas a matar." "Danzō va a ser juzgado. Delante del Señor Feudal, delante del consejo, delante de toda Konoha, con ese brazo al aire... Por Shisui. Por tu clan. Por lo que le hizo a tu hermano." "Esos ojos son de tu clan... Cuando termine el juicio, te los devuelvo. Todos. Incluido el de Shisui."
 PROMESA (T1383): juicio público a Danzō; devolver los ojos Uchiha a Sasuke tras el juicio.
+- T1384 · Acepta a Sasuke bajo su responsabilidad: sin salir de la aldea sin permiso, sin buscar a Danzō, responder ante los de la Nube a su lado. "Claro. Tres más. ¿Por qué no?" "¿Hay algo más que me hayas traído hoy y todavía no me dijiste, Facundo?"
