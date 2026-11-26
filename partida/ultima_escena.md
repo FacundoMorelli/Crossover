@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1451)
-
-esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
-
-## RESPUESTA 1 (T1451)
-
-> esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
-
-> —Está bien. Entrenando con Rayleigh. Todavía no sabe que su otro hermano también sigue vivo.
-
-El cuarto se queda en silencio.
-
-Ni siquiera el viento hace ruido por un segundo.
-
-—¿Rayleigh? —dice Sabo, casi para sí—. ¿Silvers Rayleigh? ¿El de Roger?
-
-Pero nadie le contesta. Porque Dragon no se movió y, sin embargo, algo en él cambió. Se le endureció la mandíbula. Los ojos se le achicaron apenas, como cuando alguien ve aparecer un barco donde no debería haber ninguno.
-
-—Su otro hermano —repite, despacio.
-
-Robin te mira de reojo. Ella sabe de Ace. No sabía que había otro.
-
-Dragon no te mira a ti. Gira la cabeza, muy lentamente, y mira a Sabo.
-
-Koala, junto a la puerta, sigue la mirada de Dragon. Y las carpetas se le resbalan del pecho, esta vez de verdad, y caen al suelo abiertas, desparramando papeles que el viento empieza a arrastrar por la piedra. Ella no se agacha a juntarlos. Se queda mirando a Sabo con la cara blanca.
-
-Sabo los mira a los dos. A Dragon. A Koala. Después a ti.
-
-—¿Qué? —Se ríe, nervioso, y no le sale—. ¿Por qué me miran así?
-
-Se lleva la mano a la frente, debajo del ala del sombrero, justo encima de la cicatriz de quemadura. Frunce el ceño, como si de golpe le doliera algo detrás del ojo.
-
-—Dragon-san —dice, más bajo—. ¿Por qué me miras así?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1451 · ONE PIECE · DÍA ~121 · 06:34    ║
-║ Baltigo · torre de Dragon                    ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1452)
+## COMANDO 1 (T1452)
 
 no recuperó la memoria todavía?
 
-## RESPUESTA 2 (T1452)
+## RESPUESTA 1 (T1452)
 
 > no recuperó la memoria todavía?
 
@@ -107,11 +57,11 @@ Levanta la vista hacia ti, entre los dedos.
 
 ---
 
-## COMANDO 3 (T1453)
+## COMANDO 2 (T1453)
 
 hermano de ace y luffy
 
-## RESPUESTA 3 (T1453)
+## RESPUESTA 2 (T1453)
 
 > hermano de ace y luffy
 
@@ -165,4 +115,56 @@ Te mira. Se seca la cara con la manga de la levita, sin que sirva de nada, porqu
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:37, Baltigo, torre. Sabo recuperó la memoria, de rodillas, llorando, con Koala al lado. "Están vivos. Los dos. ¿Dónde están?" Facundo puede responder.
+## COMANDO 3 (T1454)
+
+ace debe estar con barba blanca y luffy sigue entrenando
+
+## RESPUESTA 3 (T1454)
+
+> ace debe estar con barba blanca y luffy sigue entrenando
+
+> —Ace debe estar con Barbablanca. Y Luffy sigue entrenando.
+
+Sabo cierra los ojos.
+
+Se queda así un momento, de rodillas en el suelo, con las manos apoyadas en los muslos y Koala a su lado. Respira hondo, una vez, dos. Cuando los abre, todavía tiene la cara mojada, pero ya no tiembla.
+
+—Con Barbablanca —repite—. Claro. Siempre quiso ser libre, y el viejo es el único que lo deja serlo. —Se le escapa una risa, ahora sí—. Y Luffy entrenando. Ese idiota. Seguro que come más de lo que entrena.
+
+Se pone de pie. Despacio, apoyándose en el borde de la mesa. Koala se levanta con él, sin soltarle el brazo. Sabo junta el sombrero de copa del suelo, lo sacude y se lo pone. Después levanta el caño de metal.
+
+Se queda mirándolo, con el caño en la mano.
+
+—Doce años —dice—. Doce años con un caño, sin saber por qué siempre quise uno.
+
+Se da vuelta hacia Dragon.
+
+Dragon le sostiene la mirada. No dice nada. No hace falta. Es el hombre que lo sacó del mar, que lo crió entre revolucionarios y que, si lo sabía o lo sospechaba, nunca le dijo de dónde venía. Entre los dos pasa algo largo y callado que nadie más en el cuarto entiende del todo.
+
+Después Sabo te mira a ti.
+
+—Llegaste a esta isla sin barco y sin que nadie te viera —dice—. Y Corvin dice que en Tequila Wolf apareciste de la nada con Luffy, y te fuiste igual.
+
+Da un paso hacia ti. Tiene el ojo sano encendido, como si de golpe le hubieran devuelto diez años de vida de una sola vez.
+
+—No te voy a preguntar cómo lo haces. —Aprieta el caño—. Te voy a preguntar otra cosa. ¿Me puedes llevar a verlos?
+
+Detrás de él, Koala abre la boca para decir algo. Mira a Dragon. Dragon sigue sin moverse, sin decir que sí ni que no.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1454 · ONE PIECE · DÍA ~121 · 06:39    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:39, Baltigo, torre. Sabo, de pie y con la memoria recuperada, le pide a Facundo que lo lleve a ver a Ace y Luffy. Dragon calla. Facundo puede responder.

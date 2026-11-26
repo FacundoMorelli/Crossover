@@ -17,3 +17,4 @@ RELACIÓN CON FACUNDO (T1450): curiosidad seria; ningún puesto ofrecido; lo dej
 - T1451 · Por Facundo: Luffy entrena con Rayleigh; Luffy tiene "otro hermano" vivo que Luffy no sabe vivo. Deduce (él recogió del mar a un chico quemado frente a Goa, en la isla donde crecieron Luffy y Ace): mira a Sabo.
 - T1452 · Confirma ante todos que Sabo nunca recuperó la memoria; lo sacó del mar frente a Goa hace 12 años (bote en llamas, ropa de noble, bandera pirata pintada a mano). No niega que Luffy creció en Goa.
 - T1453 · Ve a Sabo recuperar la memoria. No se mueve; puños cerrados a los costados.
+- T1454 · Sostiene la mirada de Sabo sin decir nada. Ante el pedido de Sabo a Facundo, ni sí ni no.

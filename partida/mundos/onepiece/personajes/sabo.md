@@ -17,3 +17,4 @@ ESTADO: activo
 - T1453 · Al oír "hermano de Ace y Luffy" RECUPERA LA MEMORIA: cae de rodillas; recuerda Gray Terminal, la casa del árbol, el tesoro para el barco, a Luffy llorón y a Ace pecoso, las tres copas de sake. Llora. Leyó lo de Marineford "y no sentí nada". A Facundo: "Tú lo sacaste del cadalso." "Están vivos. Los dos. ¿Dónde están?"
 SECRETO DEL CANON (actualizado T1453): ya recuerda que es hermano jurado de Ace y Luffy.
 RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a alguien que le devolvió todo.
+- T1454 · Por Facundo: Ace con Barbablanca, Luffy entrenando. Se ríe ("Ese idiota"). Se pone de pie con el sombrero y el caño ("Doce años con un caño, sin saber por qué"). Mirada larga con Dragon. A Facundo: sabe por Corvin que apareció y desapareció de la nada en Tequila Wolf. "No te voy a preguntar cómo lo haces. ¿Me puedes llevar a verlos?"
