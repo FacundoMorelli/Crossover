@@ -11,3 +11,4 @@
 - T1346 · Día 1 11:24 · DANZŌ ARRESTADO por orden de la Hokage. El forastero del gato lo atrapó en el aire. Raíz entero detenido.
 - T1350 · El campamento entero sabe que el forastero del gato despertó a la Hokage y atrapó a Danzō.
 - T1380 · Día 1 13:24 · ¡Sasuke Uchiha en Konoha, caminando con la Hokage! Rumor en todo el campamento.
+- T1400 · Día 1 15:03 · Sasuke Uchiha volvió a Konoha; lo trajo el forastero del gato. Reencuentro con Naruto frente a todo el campamento.

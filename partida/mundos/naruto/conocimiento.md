@@ -146,3 +146,5 @@
 - Naruto · T1399 · ve a Sasuke en Konoha (Facundo presente, como pidió).
 - Sakura y otros · T1399 · todavía no ven bien a Sasuke (tapado por Tsunade); Naruto sí.
 - Yamato · T1399 · ahora sabe que custodia a Obito (alguien con capa de Akatsuki).
+- TODO EL CAMPAMENTO · T1400 · vio a Sasuke Uchiha en Konoha y su reencuentro con Naruto. Oyeron (los de adelante) que lo trajo "el del gato".
+- Naruto, Sakura y los de la primera fila · T1400 · por Sasuke: Facundo dice que puede revivir al clan Uchiha, a Itachi y a los muertos por Akatsuki.

@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1397)
-
-yo la voy a destruir y le voy a devolver las bestias a los que la tenían, y voy a revivir a todos los muertos por danzo y akatsuki
-
-## RESPUESTA 1 (T1397)
-
-> yo la voy a destruir y le voy a devolver las bestias a los que la tenían, y voy a revivir a todos los muertos por danzo y akatsuki
-
-> —Yo la voy a destruir, y les voy a devolver las bestias a los que las tenían. Y voy a revivir a todos los muertos por Danzō y por Akatsuki.
-
-Nadie se mueve.
-
-Ibiki es el primero en reaccionar: deja el pincel sobre el pecho de Kisame, despacio, como si de pronto le pesara demasiado.
-
-—¿Revivir? —repite Homura, con la voz rota.
-
-Koharu se agarra al borde del banquito con las dos manos. Los dos viejos se miran, y en esa mirada hay algo que no estaba ni siquiera cuando Sasuke les preguntó por la masacre. Miedo. Del de verdad.
-
-Sasuke, contra el poste, no te saca los ojos de encima. No dice nada. No le hace falta.
-
-Suigetsu levanta la mano otra vez, más despacio.
-
-—Pregunta, nada más. Los que mató Kisame... ¿también cuentan? Porque son muchos.
-
-Nadie le contesta.
-
-Tsunade se queda inmóvil, de pie junto a la mesa rota. Durante un rato largo no dice nada. Se le nota en la cara que está pensando en la pregunta que no se anima a hacer.
-
-—Nagato revivió a toda Konoha —dice al fin, muy bajo—. Y le costó la vida. Se secó entero.
-
-Te mira.
-
-—Esta mañana me despertaste con una semilla. Curaste un hospital entero. Bajaste del aire a Danzō, encontraste al que se escondía detrás de una máscara desde hace diecisiete años, y trajiste a Akatsuki a mi carpa, uno por uno, como quien trae leña. —Se le quiebra algo en la voz—. Así que no te voy a decir que es imposible. Ya no sé qué es imposible.
-
-Da un paso hacia ti.
-
-—Todos los muertos por Akatsuki —repite—. Los jinchūriki. Los de la Hierba, los de la Arena, los de...
-
-Se calla.
-
-Se le van los ojos hacia la entrada de la carpa, hacia afuera, hacia el norte. Hacia un lugar muy lejos, en el País de la Lluvia, donde hay un lago y un hombre que no volvió.
-
-Cuando vuelve a mirarte, tiene los ojos color miel llenos de lágrimas, y no hace nada para esconderlas.
-
-—¿Jiraiya también?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1397 · NARUTO · DÍA 1 · 14:00          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1398)
+## COMANDO 1 (T1398)
 
 todos, también los uchiha, voy a recuperar todo lo que fue destruido tambien, eso incluido la aldea
 
-## RESPUESTA 2 (T1398)
+## RESPUESTA 1 (T1398)
 
 > todos, también los uchiha, voy a recuperar todo lo que fue destruido tambien, eso incluido la aldea
 
@@ -123,11 +60,11 @@ Te sostiene la mirada.
 
 ---
 
-## COMANDO 3 (T1399)
+## COMANDO 2 (T1399)
 
 traiganme 7 piedras del mismo tamaño y llamen a toda la gente importante que va a tener que saberlo, naruto incluido, todos los equipos que hayan, etc
 
-## RESPUESTA 3 (T1399)
+## RESPUESTA 2 (T1399)
 
 > traiganme 7 piedras del mismo tamaño y llamen a toda la gente importante que va a tener que saberlo, naruto incluido, todos los equipos que hayan, etc
 
@@ -196,4 +133,79 @@ Naruto se detiene en seco. Se le borra la sonrisa. Se le va el color de la cara.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:01, centro del cráter frente a la tarima. Facundo pidió 7 piedras y reunir a todos. Shizune trajo 7 piedras de río (en un pañuelo, frente a Facundo). Reunidos: novatos (Shikamaru, Chōji, Ino, Kiba+Akamaru, Shino, Hinata, Neji, Lee, Tenten, Sakura, Sai), Gai, Shikaku, Inoichi, Hiashi, Kakashi (atrás; Yamato quedó con Obito en la carpa de la colina), todo el campamento. Sasuke y Taka sentados detrás de la tarima, tapados a medias por Tsunade. Naruto llega y ve a Sasuke: "¿Sa... ¿Sasuke?" Facundo presente. Facundo puede actuar.
+## COMANDO 3 (T1400)
+
+miro
+
+## RESPUESTA 3 (T1400)
+
+> miro
+
+Sasuke se pone de pie.
+
+Despacio. Sin apuro. Se sacude la tierra de la capa con la mano sana. Tsunade se corre un paso a un costado, sin decir nada, y lo deja a la vista de todos.
+
+La multitud entera se da cuenta a la vez.
+
+El murmullo empieza en la primera fila y corre hacia atrás como una ola. Alguien dice el nombre. Después otro. Después muchos. Un chūnin se lleva la mano al kunai y el de al lado se la frena. Una mujer agarra a su hijo y lo pone detrás de ella.
+
+La muchacha de pelo rosado deja de buscar.
+
+Se queda completamente quieta, con las manos vendadas a medio levantar, la boca abierta, sin sonido. Los ojos verdes se le llenan de agua en un segundo.
+
+—Sasuke... kun.
+
+Naruto no se mueve. Sasuke tampoco. Se quedan mirándose, a cinco metros, con media aldea alrededor conteniendo la respiración.
+
+—Volviste —dice Naruto, al fin. Le tiembla la voz.
+
+—Por ahora.
+
+Naruto da un paso. Otro. Después corre los tres metros que faltan y lo agarra del cuello de la capa con las dos manos, tan fuerte que Sasuke se tambalea. Tiene la cara roja y los dientes apretados, y no se sabe si va a pegarle o a llorar.
+
+—¡Te dije! —le grita en la cara—. ¡Te dije que te iba a traer de vuelta! ¡Te lo dije en el Valle del Fin! ¡Te dije que...!
+
+—No me trajiste tú.
+
+Naruto se queda con la boca abierta.
+
+Sasuke no le saca las manos de la capa. Lo mira a los ojos, desde muy cerca, con los ojos negros, sin Sharingan.
+
+—Fue él. —Gira la cabeza, apenas, hacia ti—. El del gato.
+
+Naruto sigue agarrándolo. Gira la cabeza hacia ti. Te mira. Vuelve a mirar a Sasuke. Y de golpe se le cae todo de la cara: la rabia, el orgullo, la pelea. Se ríe. Una risa ahogada, mojada, que se le mezcla con el llanto.
+
+—Idiota —le dice a Sasuke, sin soltarlo—. Idiota, idiota, idiota.
+
+Le apoya la frente en el hombro. Sasuke no lo abraza. Pero tampoco lo empuja.
+
+Sakura se tapa la cara con las manos.
+
+Sasuke espera un momento. Después, todavía con Naruto colgado de la capa, habla otra vez, en voz baja, para que lo oigan solo los que están cerca.
+
+—Naruto. Ese de ahí dice que puede revivir a mi clan. A Itachi. —Hace una pausa—. A los muertos por Akatsuki.
+
+Naruto levanta la cabeza del hombro de Sasuke, muy despacio.
+
+Se da vuelta hacia ti. Tiene los ojos rojos, la nariz llena de mocos y la cara mojada, y te mira como te miró en Ichiraku cuando le dijiste que lo ibas a ayudar.
+
+—¿Al Sabio Pervertido también?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1400 · NARUTO · DÍA 1 · 15:03          ║
+║ Konoha · centro del cráter · la tarima       ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:03, centro del cráter. Reencuentro: Sasuke se pone de pie; la multitud lo reconoce. Sakura: "Sasuke... kun." Naruto: "Volviste." Sasuke: "Por ahora." Naruto lo agarra de la capa: "¡Te dije que te iba a traer de vuelta!" Sasuke: "No me trajiste tú. Fue él. El del gato." Naruto ríe llorando: "Idiota." Frente en el hombro de Sasuke. Sasuke: "Ese de ahí dice que puede revivir a mi clan. A Itachi. A los muertos por Akatsuki." Naruto a Facundo: "¿Al Sabio Pervertido también?" Facundo tiene que contestar.

@@ -60,3 +60,5 @@ RELACIÓN CON FACUNDO (T1384): empieza a confiar.
 - T1396 · Al oír "el que ataca a mi familia está muerto", algo se le afloja en la cara.
 - T1398 · A Homura: "Si vuelven, van a volver sabiendo por qué murieron. Y quién los mató. Y quién murió cargando con la culpa de todos." "Itachi." Deja que Karin le apoye la mano en la pierna.
 - T1399 · Sentado detrás de la tarima con Taka, tapado a medias por Tsunade. Naruto lo ve.
+- T1400 · Se pone de pie ante todos. "Por ahora." "No me trajiste tú. Fue él. El del gato." No abraza a Naruto pero no lo empuja. "Naruto. Ese de ahí dice que puede revivir a mi clan. A Itachi. A los muertos por Akatsuki."
+RELACIÓN CON NARUTO: reencuentro.

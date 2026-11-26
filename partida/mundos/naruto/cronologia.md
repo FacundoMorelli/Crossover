@@ -38,3 +38,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1386 · Taka (Suigetsu, Karin, Jūgo) llega a Konoha con Facundo.
 - T1393 · Día 1 13:51 · CAMBIO MAYOR: Zetsu negro destruido. Sin Obito libre, sin Zetsu negro: no hay Cuarta Guerra planeada por Akatsuki. Kabuto sigue suelto (Edo Tensei, en canon se alía con Tobi). Estatua del Camino Exterior con 7 bijū, sin dueño.
 - T1395 · Tsunade sabe que Killer Bee está libre (Kumo cree que fue secuestrado por Sasuke). Esto puede desactivar el conflicto con Kumo y la Cumbre.
+- T1400 · Reencuentro Naruto-Sasuke en Konoha (canon: no hasta la guerra/el final).

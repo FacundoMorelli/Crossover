@@ -1398,3 +1398,4 @@ T1396 · NARUTO · Carpa de mando · "Lo maté. Intentó meterse en mi gato. El 
 T1397 · NARUTO · Carpa de mando · "Voy a destruir la Estatua, devolver las bestias y revivir a todos los muertos por Danzō y Akatsuki." Homura y Koharu con miedo. Tsunade, con lágrimas: "¿Jiraiya también?"
 T1398 · NARUTO · Carpa de mando · "Todos, también los Uchiha, y la aldea." Tsunade llora ("Jiraiya"). Homura teme el golpe; Sasuke: "van a volver sabiendo quién los mató." Tsunade: "¿Cuándo?"
 T1399 · NARUTO · Centro del cráter · Pide 7 piedras y reunir a todos. Shizune trae las piedras. Se junta todo el campamento. Naruto llega y ve a Sasuke: "¿Sasuke?"
+T1400 · NARUTO · Centro del cráter · Reencuentro Naruto-Sasuke ante todos. "Volviste." "Por ahora." "No me trajiste tú. Fue él. El del gato." Naruto: "Idiota." Sasuke le cuenta lo de revivir. Naruto: "¿Al Sabio Pervertido también?"

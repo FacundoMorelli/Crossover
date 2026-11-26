@@ -36,3 +36,5 @@ QUÉ SABE DE FACUNDO (T1354): en el lugar de los titanes, la gente con la que es
 ESTADO: golpeado (nariz, boca, ojo hinchándose) (T1356).
 - T1357 · Facundo le dice "Ya vengo" y desaparece de Ichiraku con el gato. "¿Eh? ¿Adónde...?"
 - T1399 · 15:01 · Llega a la reunión del centro del cráter ("¡Estaba comiendo...!"). Sonríe a Facundo. Ve a Sasuke detrás de Tsunade: se detiene, pálido: "¿Sa... ¿Sasuke?"
+- T1400 · Reencuentro con Sasuke: "Volviste." Lo agarra de la capa: "¡Te dije que te iba a traer de vuelta! ¡Te lo dije en el Valle del Fin!" Sasuke: "No me trajiste tú. Fue él." Naruto se ríe llorando: "Idiota, idiota, idiota." Apoya la frente en el hombro de Sasuke. Al saber lo de revivir, a Facundo: "¿Al Sabio Pervertido también?"
+QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir al clan Uchiha, a Itachi y a los muertos por Akatsuki.
