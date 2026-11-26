@@ -30,3 +30,4 @@ ESTADO: huyendo (T1344).
 - T1345 · Ignora a Facundo: "No." Deja que Baku se trague a su gente desmayada. En el borde del cráter: "Esta aldea no es tuya, viajero." Por saltar.
 - T1346 · Salta del borde; Facundo lo alcanza en el aire y lo desmaya con un golpe a la nuca (los diez Sharingan lo ven venir, inútil). Lo sube al borde. Baku vencido antes. ARRESTADO: Ibiki se lo lleva con sellos de supresión de chakra y vendas en los Sharingan; Raíz a 100 m mínimo.
 ESTADO: inconsciente, arrestado (T1346). Vivo. Ojo de Shisui todavía bajo la venda.
+- T1428 · Juicio (Día 4) en la plaza de la Torre: no pide perdón; explica cada cosa. SENTENCIA: prisión de por vida, sin chakra, sin Raíz, sin nombre en ningún registro; los diez ojos devueltos al clan Uchiha.

@@ -227,3 +227,7 @@
 - RECOMPENSA: 20.000 EXP · 500 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - Los doce mundos ya fueron visitados.
+
+### Naruto — CUMPLIDA
+- CUMPLIDA: T1428 · Día 4 noche. Los cinco Kages firman la paz; no habrá Cuarta Gran Guerra Ninja; Neji vivo. +20.000 EXP, +500 Fragmentos.
+- Mundos completados: 12/12.

@@ -49,3 +49,4 @@ QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir
 - T1411 · Reencuentro con sus padres: "Papá. ¡Papá!" Kushina lo abraza y lo levanta; él llora en su hombro: "¿Mamá?" Minato los abraza a los dos.
 - T1412 · Abraza a Jiraiya por la cintura: "¡Sabio Pervertido! ¡Estás vivo! ¡Estás vivo, viejo idiota! ¡Te dije que no fueras solo!"
 - T1414 · "¡JA! ¡Te lo dijo en la cara, Sabio Pervertido! ¡Hasta el que te revivió lo sabe!"
+- T1428 · Se muda con Minato y Kushina a la casa del oeste.

@@ -10,3 +10,4 @@ ESTADO: vivos (no vistos de cerca aún).
 - T1415 · Fugaku en la Torre: "Recuerdo todo... Exijo que sean juzgados. Delante del clan. Delante de la aldea." A Homura: "No le hablé a usted." Ante la mención del golpe, no contesta.
 - T1418 · Fugaku: "Ese hombre estuvo en mi casa la noche de la masacre. Con Itachi. Con la máscara puesta. Lo vi. ¿Y lo quieres barriendo las calles?" A Minato: "Usted también murió por su culpa." Cede: "Si da un paso fuera de lugar, el clan Uchiha no va a esperar a ningún consejo."
 - T1426 · Fugaku mira el reencuentro del equipo de Minato, baja la vista y sale de la carpa en silencio.
+- T1428 · Taka vive con ellos. Fugaku confiesa el golpe en el juicio. Clan reintegrado (policía y consejo). Reciben los diez ojos del brazo de Danzō para enterrarlos.

@@ -18,3 +18,4 @@ ESTADO: activos.
 - T1397 · Al oír que Facundo revivirá a los muertos por Danzō: miedo de verdad (los Uchiha revividos). Homura: "¿Revivir?"
 - T1398 · Homura: "Si los Uchiha vuelven... van a volver recordando quién dio la orden. Fugaku va a volver. El golpe..." Sasuke lo calla. Se vuelve a sentar.
 - T1415 · Traídos por ANBU a la Torre. Homura intenta hablar; Fugaku lo calla. Serán juzgados.
+- T1428 · Confiesan en el juicio. Fuera del consejo para siempre.

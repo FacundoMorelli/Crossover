@@ -1,13 +1,13 @@
 {
-  "turno": 1427,
+  "turno": 1428,
   "mundo_actual": "naruto",
-  "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 16:28",
+  "fecha_local": "Naruto: Día 5 (cinco días después de llegar; ~cap. 452 + 4 días, canon alterado)",
+  "hora": "Día 5, 05:48",
   "edad": 18,
-  "nivel": 29,
-  "exp": 306730,
-  "exp_siguiente_nivel": 320000,
-  "fragmentos": 113524,
+  "nivel": 30,
+  "exp": 326730,
+  "exp_siguiente_nivel": 360000,
+  "fragmentos": 114024,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -75,18 +75,18 @@
       "cambio": "1 Fragmento = 11.000 ryo (fijado T1305)"
     }
   },
-  "puntos_de_stat_sin_asignar": 155,
+  "puntos_de_stat_sin_asignar": 170,
   "stats": {
-    "fuerza": 3992,
-    "velocidad": 3995,
-    "resistencia": 3992,
-    "tecnica": 3995,
-    "percepcion": 3993,
-    "voluntad": 3993,
-    "energia": 3994,
-    "control": 3993
+    "fuerza": 3996,
+    "velocidad": 3999,
+    "resistencia": 3996,
+    "tecnica": 3999,
+    "percepcion": 3997,
+    "voluntad": 3997,
+    "energia": 3998,
+    "control": 3997
   },
-  "energia_actual_pct": 84,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1557,7 +1557,8 @@
     "Viaje libre",
     "Fusión en caliente",
     "Doble Núcleo",
-    "Pelo a voluntad (cambia el color y el largo de su pelo cuando quiere; T878)"
+    "Pelo a voluntad (cambia el color y el largo de su pelo cuando quiere; T878)",
+    "Corona Orbital (nivel 30): hasta tres poderes \"en órbita\", activos solos alrededor suyo, atacando o defendiendo unos minutos"
   ],
   "estilos_desbloqueados": [
     {
@@ -2197,7 +2198,8 @@
       "hunterxhunter",
       "danmachi",
       "bokunohero",
-      "tokyoghoul"
+      "tokyoghoul",
+      "naruto"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -2206,7 +2208,7 @@
       "recompensa": "20.000 EXP · 500 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa"
+      "estado": "CUMPLIDA (T1428, Día 4 noche): la Cuarta Gran Guerra Ninja no ocurrirá (paz firmada por los cinco Kages); Neji vivo."
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -2231,7 +2233,7 @@
       "bokunohero": "Llegada diciembre 08:40 (T1087). Salida día 10 ~06:30 (T1147), bosque del campus de la U.A. (nadie vio la Puerta). Misión cumplida. Liga, Garaki, Gigantomachia en Tartarus; Ejército de Liberación neutralizado; AFO en silencio, 'espera'. Izuku domina el Látigo Negro. Nezu: 'la puerta va a estar abierta'. Licencia de Eclipse activa. Corre.",
       "tokyoghoul": "Salida Día 7 21:30 desde el salón de Anteiku (todos vieron la Puerta). Prometió volver \"en una semana o en tres meses\". Botón de aviso en el chaleco de Yoshimura. Corre.",
       "blackclover_salida_2": "Salida Día 4 21:22 (T1305), claro de los Toros Negros, frente a todos. Dijo: quizás vuelve en unas semanas. Corre.",
-      "naruto": "Llegada Día 1 07:40 (T1305), bosque sobre el cráter de Konoha. Corre al ritmo de Facundo."
+      "naruto": "Llegada Día 1 07:40 (T1305). Día 5 05:48 en T1428. Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2549,7 +2551,8 @@
     "deseo1_naruto": "T1405: Reconstrucción mundial de lo destruido: Konoha como antes de Pain; todo lo destruido por Akatsuki y conflictos en el mundo (Amegakure, Suna dañada por Deidara, aldeas de jinchūriki, etc.). Las casas de madera de Yamato quedan donde estaban (se acoplaron a las calles). La casa de Facundo sigue en el borde sur, ahora una calle más.",
     "deseo2_naruto": "T1406: REVIVIDOS (lista del motor; interpretación amplia, sin recortar la intención del jugador): CLAN UCHIHA entero (masacre ordenada por Danzō, ejecutada por Itachi y Obito), con Fugaku y Mikoto, en el barrio Uchiha. SHISUI UCHIHA (Danzō le sacó el ojo; vuelve con sus dos ojos: el de Danzō queda vacío/inerte). ITACHI UCHIHA (murió por la misión de Danzō; incluido por la intención del jugador), SANO, sin la enfermedad, en su casa del barrio Uchiha. JIRAIYA (Pain), en su casa de la colina (sapo de piedra en la puerta). FUKASAKU (Pain), en Myōboku. ASUMA SARUTOBI (Hidan), en el departamento de Kurenai. MINATO NAMIKAZE y KUSHINA UZUMAKI (ataque del Kyūbi provocado por Obito = Akatsuki), en su casa del oeste. Y todas las víctimas del ataque del Kyūbi hace 16 años. YAHIKO (trampa de Hanzō y Danzō), en Amegakure. Los JINCHŪRIKI capturados (Yugito Nii, Yagura, Rōshi, Han, Utakata, Fū), en sus aldeas, SIN sus bijū (siguen en la Estatua). Víctimas de Hidan y Kakuzu, de Deidara, de Sasori, de Kisame, de Pain/Nagato en otras aldeas, de Raíz y Danzō (incluidos huérfanos de Raíz). NO revividos: Nagato (Rinne Tensei, por su mano), Chiyo, Sasori, Deidara, Kakuzu, Hidan (vivo enterrado), Orochimaru, el Tercero (Orochimaru), Zetsu negro, Madara. CORRECCIÓN DEL JUGADOR (T1424): RIN NOHARA TAMBIÉN FUE REVIVIDA por el deseo 2, con la edad de Kakashi y Obito (~30), en su casa de la infancia (dos pisos, calle con faroles, lado sur). Recuerda su muerte (Tres Colas, Chidori de Kakashi, se puso delante) sin dolor, y la voz del gato. Sin el Tres Colas.",
     "deseo3_naruto": "T1407: Estatua del Camino Exterior (Diez Colas) destruida bajo tierra en el noroeste. Bijū devueltos: Shukaku→Gaara (Suna), Matatabi→Yugito Nii (Kumo), Isobu→Yagura (Kiri), Son Gokū→Rōshi (Iwa), Kokuō→Han (Iwa), Saiken→Utakata, Chōmei→Fū (Taki). Ya no hay Diez Colas ni Tsukuyomi Infinito posible.",
-    "alba_voz": "T1408: al revivir, cada revivido \"oyó\" una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. (Fuente válida para que los revividos sepan del gato.)"
+    "alba_voz": "T1408: al revivir, cada revivido \"oyó\" una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. (Fuente válida para que los revividos sepan del gato.)",
+    "sim_dias_1_5_naruto": "T1428 (simulación Día 1 noche – Día 5 amanecer): Tsunade renuncia a interrogarlo. Kisame preso bajo Ibiki (Samehada en baúl de hierro); pregunta por Itachi. Zetsu blanco estudiado en cuarto sellado. Kumo: Bee apareció libre; Raikage: \"Que el Uchiha no vuelva a pisar mi país.\" Cumbre suspendida; cartas: Gaara (Shukaku de vuelta), Mei Terumī (Yagura revivido en su despacho con el Tres Colas), Ōnoki (Rōshi y Han de vuelta). Día 3: Gaara visita a Facundo y se inclina. Taka vive con los Uchiha. Naruto vive con Minato y Kushina; Jiraiya al lado. Obito barre el barrio Uchiha (Rin y Kakashi lo acompañan). Día 4: JUICIO: Danzō, prisión de por vida sin chakra; ojos devueltos al clan; Homura y Koharu fuera del consejo; Raíz disuelta; Obito sellado al servicio de la aldea; Uchiha reintegrados (policía y consejo); Fugaku confiesa el golpe. Noche del Día 4: acuerdo de paz de los cinco Kages → no habrá Cuarta Guerra."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

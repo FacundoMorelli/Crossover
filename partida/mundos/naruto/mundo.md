@@ -29,3 +29,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1407 · DESEO 3 DE ALBA: Estatua del Camino Exterior y Diez Colas DESTRUIDOS; las siete bestias devueltas a sus jinchūriki (Gaara, Yugito, Yagura, Rōshi, Han, Utakata, Fū). Esferas de Alba inactivas un año (piedras grises en el empedrado frente a la Torre).
 - T1412 · Una pared de casa recién reconstruida agrietada en forma de estrella (puñetazo de Tsunade a Jiraiya).
 - T1424 · (Corrección del jugador) Rin Nohara también revivida por el deseo 2, a los ~30 años.
+- T1428 (Días 1-5) · Kisame preso. Zetsu blanco estudiado. Bee libre. Cumbre suspendida. Gaara visita a Facundo (Día 3). Juicio de Danzō (Día 4): cadena perpetua sin chakra; ojos al clan Uchiha; Homura y Koharu fuera; Raíz disuelta; Obito al servicio de la aldea; Uchiha reintegrados; Fugaku confiesa. Paz de los cinco Kages (Día 4 noche). MISIÓN DE MUNDO CUMPLIDA.

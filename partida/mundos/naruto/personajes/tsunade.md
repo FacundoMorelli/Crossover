@@ -89,3 +89,4 @@ QUÉ SABE (T1416): por Facundo, se queda unos días, se irá y volverá.
 - T1424 · "Rin Nohara. La alumna de Minato. Está bien. Está bien."
 - T1426 · Se da vuelta y se seca la cara con la manga.
 - T1427 · "Basta por hoy, o me voy a deshidratar." Deja a Minato, Kakashi, Rin y Yamato con Obito; se lleva a Facundo. Pendientes: Kisame, Zetsu blanco, Cumbre de los Kages ("por un secuestro que no pasó"), tres de la Nube. "Empecemos por el tiburón. ¿Qué hago con Kisame?"
+- T1428 · Noche Día 1: renuncia a interrogar a Facundo ("ya no le importa"). Día 4: lee la sentencia de Danzō y el acuerdo de paz. Día 5 05:48: en la puerta de Facundo, ropa de entrenamiento, puños vendados: "Te dije que me ibas a mostrar qué tan bien peleas. Yo misma. Hoy. Campo de entrenamiento tres. Ahora."

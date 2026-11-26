@@ -70,3 +70,4 @@ RELACIÓN CON NARUTO: reencuentro.
 - T1408 · Reencuentro con Itachi: "Te maté. Yo te maté." "Y tú te dejaste... Para que yo volviera a Konoha como un héroe, odiándote. Ese era tu plan." Se rompe; lo abraza llorando como un chico de ocho años.
 RELACIÓN CON ITACHI: reconciliados.
 - T1409 · Abrazado a Itachi, se agarra también de la ropa de Mikoto.
+- T1428 · Vive en el barrio Uchiha con su familia y Taka. Entrena con Itachi cada mañana. Raikage: que no vuelva a pisar el País del Rayo.

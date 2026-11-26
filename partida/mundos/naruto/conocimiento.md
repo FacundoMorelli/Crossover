@@ -186,3 +186,6 @@
 - Obito, Kakashi, Minato, Tsunade, Fugaku, Yamato · T1424 · por Facundo: Rin también está viva.
 - Rin · T1425 · ve a Facundo (el del gato) y lo sigue; ve a Obito vivo con cicatrices, a Kakashi y a Minato. No sabe que Obito fue el enmascarado.
 - Obito, Rin, Minato, Kakashi, Tsunade, Yamato · T1427 · por Facundo: si alguien le hiciera daño a su gato, haría algo peor que lo que hizo Obito.
+- Las cinco aldeas · T1428 · saben que Akatsuki ya no existe, que las bestias volvieron y que en Konoha un viajero con un gato revivió a los muertos. Kumo sabe que Bee no fue secuestrado. Firman la paz.
+- Gaara, Temari, Kankurō · T1428 · conocen a Facundo en persona (Día 3).
+- Toda Konoha · T1428 · asistió al juicio de Danzō: confesiones de Danzō, Homura, Koharu, Obito y Fugaku.

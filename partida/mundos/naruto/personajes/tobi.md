@@ -44,3 +44,4 @@ ESTADO: ojo izquierdo nuevo (normal); derecho aún sellado y vendado; chakra enc
 - T1426 · A Rin: "Hice cosas horribles, Rin... Maté a gente. Al sensei. A su esposa. Ayudé a matar a un clan entero. Quise borrar el mundo. Porque no estabas." "Esta vez no ayudé a ninguna viejita." Llora abrazado a Rin. Minato abraza a los tres. A Facundo: "¿Por qué? Hiciste todo esto. El sensei, Rin, la aldea. Y a mí... a mí me diste un ojo. Después de todo lo que hice. ¿Por qué a mí también?"
 - T1427 · "Por un gato. Destruirías el mundo por un gato." Kase se echa sobre su pecho; le apoya la mano. "No sé cómo se paga esto. No sé si se puede."
 RELACIÓN CON FACUNDO (T1427): gratitud y vergüenza; empieza a aceptar.
+- T1428 · Barre el barrio Uchiha cada día, sin chakra; Rin y Kakashi lo acompañan; la gente se aparta o escupe. Día 4: confiesa todo en el juicio (dos horas). Sentencia: sellado y al servicio de la aldea.

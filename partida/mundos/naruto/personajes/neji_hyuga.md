@@ -27,3 +27,4 @@ QUÉ SABE DE FACUNDO (T1333): dice que aprendió las Puertas mirando a Lee una v
 - T1334 · Kase le roza la pierna con la cola al irse. Neji mira a Facundo y asiente una vez.
 RELACIÓN CON FACUNDO (T1334): respeto silencioso.
 - T1403 · Con el Byakugan ve las Esferas: "No... no tienen chakra. Y aun así, es lo más... lo más vivo que vi en mi vida." Hinata se agarra de su manga.
+- T1428 · Vivo; no habrá Cuarta Guerra. MISIÓN DE MUNDO CUMPLIDA. No sabe nada; entrena de noche en el patio Hyūga mientras Facundo lo mira desde un techo.

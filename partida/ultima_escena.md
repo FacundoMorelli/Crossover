@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1425)
-
-me teletransporto a rin y la traigo con obito
-
-## RESPUESTA 1 (T1425)
-
-> me teletransporto a rin y la traigo con obito
-
-Te llevas dos dedos a la frente.
-
-La carpa desaparece.
-
-Aparece un cuarto chico, en el primer piso de una casa vieja. Una cama de chica, con una colcha de flores. Un escritorio con libros de ninjutsu médico apilados, con las tapas gastadas. En la pared, una foto enmarcada: tres chicos de doce años y un hombre rubio detrás, con la mano sobre las cabezas de dos de ellos. Un chico de pelo plateado con máscara, enojado. Un chico de antiparras naranjas, sonriendo con todos los dientes. Y una chica de pelo castaño, en el medio, con dos marcas violetas en las mejillas.
-
-La misma chica, con treinta años, está sentada en el borde de la cama, mirando esa foto.
-
-Se da vuelta de golpe al oírte aparecer. Tiene los ojos rojos de haber llorado. Se levanta, con las manos frente al pecho, en guardia, como le enseñaron.
-
-Te ve. Ve el pelo, los ojos, al gato en tu hombro.
-
-Se queda quieta.
-
-—Tú. —Lo dice muy bajo—. La voz dijo que tenías un gato.
-
-No le contestas. Le tiendes la mano.
-
-Rin la mira. Te mira a ti. Duda un segundo. Después te la toma.
-
-El cuarto desaparece.
-
-Aparece la carpa de la colina.
-
-Rin se tambalea al llegar, y la agarras del brazo para que no se caiga. Mira a su alrededor, desorientada: una carpa, una mujer rubia con un abrigo de Hokage, un hombre de cara dura con el abanico Uchiha en el pecho.
-
-Y en el suelo, en un futón, de costado, un hombre de pelo negro, con media cara llena de cicatrices.
-
-A cada lado, arrodillados, Minato y Kakashi.
-
-Rin se suelta de tu mano.
-
-Mira a Minato. Se tapa la boca. Mira a Kakashi, con la banda levantada y el Sharingan al aire, la cara sin máscara, mojada. Se le escapa un sonido que no es una palabra.
-
-Y después mira al hombre del futón.
-
-Lo mira un rato largo. Las cicatrices. El pelo negro. El remolino en la coronilla. El ojo nuevo, negro, abierto, que la mira desde el suelo sin parpadear, lleno de lágrimas.
-
-Se le doblan las rodillas.
-
-Cae arrodillada al lado del futón, entre Minato y Kakashi. Estira la mano, despacio, temblando, y le toca a Obito la mitad de la cara con cicatrices, con la punta de los dedos, como si tuviera miedo de que se rompiera.
-
-—¿Obito? —Le sale apenas—. Obito... Estás vivo. Estabas... ¿Estabas vivo?
-
-Obito no puede hablar. Abre la boca y no le sale nada. Le tiembla todo el cuerpo bajo los sellos.
-
-Se queda mirándola, como si fuera lo único que existe.
-
-—Rin —dice al fin, y se le rompe la voz entera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1425 · NARUTO · DÍA 1 · 16:21          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1426)
+## COMANDO 1 (T1426)
 
 miro
 
-## RESPUESTA 2 (T1426)
+## RESPUESTA 1 (T1426)
 
 > miro
 
@@ -141,11 +66,11 @@ Después Obito levanta la cabeza del hombro de Rin. Tiene la cara roja, mojada, 
 
 ---
 
-## COMANDO 3 (T1427)
+## COMANDO 2 (T1427)
 
 dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
 
-## RESPUESTA 3 (T1427)
+## RESPUESTA 2 (T1427)
 
 > dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
 
@@ -202,4 +127,95 @@ Se pasa la mano por la cara.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:28, carpa de la colina. Facundo a Obito: cualquiera que pierde todo y le ofrecen cumplir un sueño haría lo mismo; si alguien dañara a su gato, lo que hizo Obito se quedaría corto. Obito: "Destruirías el mundo por un gato." Kakashi: "Más que el mundo." Kase se sube al pecho de Obito, lo huele y se echa; Obito le apoya la mano. "No sé cómo se paga esto." Minato: "Todos los días. Un día por vez." Tsunade: Minato, Kakashi y Rin se quedan con Obito; Yamato en la entrada; Facundo con ella. Pendientes: Kisame, Zetsu blanco, Cumbre, Kumo. "Empecemos por el tiburón. ¿Qué hago con Kisame?" Facundo tiene que contestar.
+## COMANDO 3 (T1428)
+
+no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
+
+## RESPUESTA 3 (T1428)
+
+> no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
+
+> —No sé. Creo que podrías encerrarlo. No sé si necesita una oportunidad como Obito.
+
+Tsunade asiente, una vez.
+
+—Encerrado, entonces. Con Ibiki. —Mira a Kase, que sigue dormido sobre el pecho de Obito—. Y tu gato se queda aquí, por lo que veo.
+
+Kase abre un ojo, el azul. Lo vuelve a cerrar.
+
+Pasan los días.
+
+Esa noche no hay preguntas en la carpa de la colina. Tsunade te espera en la Torre con la botella de sake abierta, te sirve un vaso que no tomas y se queda un rato largo mirando la aldea iluminada por la ventana redonda. Al final dice que pensaba preguntarte quién eres, de dónde sacaste todo eso y qué quieres, y que ya no le importa. Te da las buenas noches y te echa.
+
+Kase vuelve a tu hombro cuando sales de la Torre, sin que lo llames.
+
+Kisame despierta en una celda de piedra, debajo de la sede de Ibiki, con sellos en todo el cuerpo y Samehada encerrada en un baúl de hierro a tres pisos de distancia. La primera mañana se ríe. La segunda, pregunta por Itachi. Cuando le dicen que Itachi está vivo y que desayuna todos los días con su familia en el barrio Uchiha, deja de reírse.
+
+A la mitad blanca de Zetsu la estudian Tsunade y Shizune en un cuarto sellado de la Torre. Habla mucho, pregunta por su otra mitad y no entiende por qué nadie le contesta.
+
+Samui, Karui y Omoi parten a la mañana siguiente hacia el País del Rayo, a toda velocidad, con una carta de la Hokage, la confesión de Suigetsu y la noticia de que Killer Bee nunca fue secuestrado. Dos días después llega a Konoha un halcón de la Nube con una carta del Raikage: Bee apareció en las montañas, rapeando, con los siete tentáculos y una sonrisa. La carta tiene una sola línea al final, escrita con una letra tan apretada que rompió el papel: "Que el Uchiha no vuelva a pisar mi país."
+
+La Cumbre de los Cinco Kages se suspende. En su lugar llegan halcones de las cinco naciones. De Suna, una carta de Gaara que dice que una luz de arena dorada le cayó del cielo y que Shukaku le habló por primera vez en tres años, para quejarse. De la Niebla, una carta de una tal Mei Terumī que pregunta por qué el Cuarto Mizukage, Yagura, muerto hace años, apareció sentado en su despacho con el Tres Colas adentro, preguntando quién era ella. De Iwa, una carta de un viejo Tsuchikage furioso porque Rōshi y Han volvieron y ahora nadie sabe a quién pagarles el sueldo.
+
+Al tercer día, Gaara llega a Konoha en persona, con Temari y Kankurō, montado en una nube de arena. Busca al viajero del gato. Te encuentra en la puerta de tu casa de madera del borde sur. Te mira un rato largo, con los ojos verdes y quietos, hace una reverencia profunda y se va sin decir nada más.
+
+Sasuke se queda en el barrio Uchiha, en la casa donde nació. Taka se queda con él: Karin en un cuarto de huéspedes, Jūgo durmiendo en el jardín, Suigetsu en la bañera, porque dice que es el único lugar de la casa donde se siente cómodo. Mikoto les cocina a todos. Fugaku no dice nada, pero tampoco los echa. Itachi y Sasuke entrenan juntos todas las mañanas en el bosque del este, y vuelven al mediodía sin hablarse, como si no les hiciera falta.
+
+Naruto se muda a la casa del oeste, con su padre y su madre. Se le oye gritar desde tres calles de distancia. Kushina le grita más fuerte. Jiraiya se instala en la casa de al lado "para estar cerca de mis alumnos", y Tsunade le rompe la puerta de una patada el segundo día por algo que nadie quiere contar.
+
+Obito pasa los días sin chakra, con el ojo nuevo y el sello de Ibiki sobre el otro. Barre las calles del barrio Uchiha por orden de Tsunade, bajo la mirada de todo el clan, sin levantar la vista. Rin lo acompaña todos los días. Kakashi también. La gente lo mira y se aparta. Algunos escupen al piso. Él sigue barriendo.
+
+A tu casa del borde sur llegan cosas todas las mañanas, sin que nadie las anuncie: un cuenco de arroz, una canasta de frutas, una bufanda tejida a mano, un dibujo de un chico con un dragón y un gato. Kase se acostumbra al estante de la ventana. Lee aparece cada mañana a desafiarte y Gai lo acompaña cada mañana a llorar por su juventud. Teuchi no te deja pagar nunca.
+
+Al cuarto día se hace el juicio de Danzō.
+
+En la plaza de la Torre, delante del Señor Feudal, del consejo, del clan Uchiha entero y de toda la aldea. Danzō, sellado, en una silla, con el brazo de los diez ojos al aire para que lo vea todo el mundo. No pide perdón. Explica, con la misma voz seca de siempre, por qué hizo cada cosa. Homura y Koharu confiesan su voto, con la cabeza baja. Obito se sienta delante de todos, con Rin a un lado y Kakashi al otro, y cuenta lo que hizo, todo, desde el puente de Kannabi hasta la cueva. Tarda dos horas. Nadie lo interrumpe.
+
+Fugaku se pone de pie al final y dice, delante de todos, que su clan planeaba tomar la aldea por la fuerza. Que se equivocó. Que su hijo mayor cargó con su error. Itachi, sentado en primera fila, no levanta la vista.
+
+La sentencia la lee Tsunade. Danzō, prisión de por vida, sin chakra, sin Raíz, sin nombre en ningún registro. Los diez ojos, devueltos al clan Uchiha para que los entierren. Homura y Koharu, fuera del consejo para siempre. Raíz, disuelta. Obito, sellado y al servicio de la aldea hasta que la Hokage diga lo contrario. Y el clan Uchiha, con sus calles, su policía y su lugar en el consejo.
+
+Esa misma noche llegan los últimos halcones. Cinco cartas, de las cinco aldeas. Akatsuki ya no existe. Las bestias volvieron. No hay nada que repartirse ni nadie a quien temer. Los cinco Kages firman, cada uno en su casa, un acuerdo de paz que Tsunade lee en voz alta desde el balcón de la Torre.
+
+[No habrá una Cuarta Gran Guerra Ninja. Neji Hyūga vive.]
+
+[Misión de Mundo cumplida.]
+
+[+20.000 EXP. +500 Fragmentos.]
+
+[Has subido de nivel. Nivel 30.]
+
+[Hito alcanzado: +4 a todos los stats. +15 puntos de stat.]
+
+[Habilidad del Sistema desbloqueada: Corona Orbital.]
+
+[Doce de doce mundos completados.]
+
+Neji no se entera de nada. Esa noche está entrenando solo en el patio de los Hyūga, con el Byakugan encendido, y no sabe por qué el viajero del gato lo mira desde el techo de enfrente un rato largo antes de irse a dormir.
+
+Al quinto día, al amanecer, alguien golpea la puerta de tu casa del borde sur. Tres golpes. Fuertes. La madera cruje.
+
+Abres.
+
+Es Tsunade. Sin el abrigo de Hokage. Con ropa de entrenamiento, el pelo atado en dos coletas apretadas y los puños vendados. Detrás de ella, el sol recién sale sobre los cinco rostros del monumento.
+
+—Buenos días. —Se trona los nudillos de una mano, uno por uno—. Te dije que me ibas a mostrar qué tan bien peleas. Yo misma. —Sonríe, y no es una sonrisa amable—. Hoy. Campo de entrenamiento tres. Ahora.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1428 · NARUTO · DÍA 5 · 05:48          ║
+║ Konoha · borde sur · tu casa de madera       ║
+║ NIVEL 30 · EXP 326.730/360.000               ║
+║ FRAGMENTOS 114.024 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el estante de la ventana            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Pelea con Tsunade                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 05:48, puerta de la casa de madera de Facundo (borde sur). Simulados 4 días (ver SECRETO sim_dias_1_5_naruto): Kisame preso; Zetsu blanco estudiado; Bee libre; Cumbre suspendida; cartas de los Kages; Gaara visitó a Facundo; Taka con los Uchiha; Naruto con sus padres; Obito barre el barrio Uchiha; juicio de Danzō (Día 4); paz de los cinco Kages → MISIÓN DE MUNDO CUMPLIDA (+20.000 EXP, +500 F), NIVEL 30 (+4 stats, +15 puntos), Corona Orbital, 12/12 mundos completados. Tsunade en la puerta, en ropa de entrenamiento: "Hoy. Campo de entrenamiento tres. Ahora." Facundo puede actuar.
