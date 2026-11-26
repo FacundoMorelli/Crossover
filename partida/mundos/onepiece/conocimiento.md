@@ -272,3 +272,4 @@
 - Facundo · T1447 · Por Koala: Dragon está arriba con Sabo, revisando informes del Nuevo Mundo.
 - Dragon, Sabo · T1448 · Ven a Facundo con Robin y el gato en la torre; por Koala: llegó solo. Por cartel/diario: Ojos de Eclipse (Marineford).
 - Dragon · T1449 · Por la transmisión de Marineford: Facundo liberó a Ace, Ace y Barbablanca vivos, la cúpula contra el Ryusei Kazan. Por Corvin: Tequila Wolf, con Luffy. Por Robin (meses atrás): Facundo no contesta cómo viaja. Por sus hombres/Koala: llegó sin barco y salió del cuarto de Robin.
+- Dragon, Sabo, Koala · T1450 · Por Facundo: Robin es su novia; vino a conocer al padre de su capitán (Luffy).

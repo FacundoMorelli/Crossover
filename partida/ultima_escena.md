@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1447)
-
-asi es me llamo Facundo Morelli, ojos de eclipse
-
-## RESPUESTA 1 (T1447)
-
-> asi es me llamo Facundo Morelli, ojos de eclipse
-
-> —Así es. Me llamo Facundo Morelli. Ojos de Eclipse.
-
-Detrás de ti, en el pasillo, alguien suelta el aire de golpe. Otro murmura "te lo dije".
-
-Koala se queda con la boca abierta un segundo. Después aprieta las carpetas contra el pecho, baja el escalón que le falta y se te planta enfrente, mirándote desde abajo con los ojos muy abiertos y nada de miedo.
-
-—¡Tequila Wolf! —dice—. ¡Fuiste tú! Corvin volvió contando que cuando llegaron no quedaba ni una cadena puesta en todo el puente. Cientos de esclavos sueltos, y nadie sabía quién había sido. ¡Y en el diario, el cadalso de Marineford, el gato...! —Mira a Kase. Kase la ignora con mucha dignidad—. Es el mismo gato.
-
-Se da vuelta hacia Robin.
-
-—Robin-san. ¿Él es...? —No termina la pregunta. Mira la puerta del cuarto, al fondo del pasillo. Mira a Robin, que le sostiene la mirada sin pestañear. Koala se pone un poco colorada—. Ah. Ya entendí. Perdón.
-
-Robin sonríe apenas.
-
-—Viene a ver a Dragon.
-
-—Dragon-san está arriba. Con Sabo-kun, revisando los informes del Nuevo Mundo. Yo iba a buscar... —Mira las carpetas, se acuerda de que las tiene en las manos, y las acomoda—. Bueno, esto puede esperar.
-
-Vuelve a mirarte, ahora más seria, con la cabeza un poco ladeada.
-
-—Pero dime una cosa, Facundo. Esta isla no está en ningún mapa, la costa está vigilada día y noche y anoche no entró ningún barco. —Señala el suelo de piedra blanca con un dedo—. ¿Cómo llegaste hasta aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1447 · ONE PIECE · DÍA ~121 · 06:25    ║
-║ Baltigo · base revolucionaria · pie de la    ║
-║ escalera de la torre                         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Conocer a Dragon                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1448)
+## COMANDO 1 (T1448)
 
 es un secreto, no voy a decir nada de la ubicación no se tienen que preocupar por eso
 
-## RESPUESTA 2 (T1448)
+## RESPUESTA 1 (T1448)
 
 > es un secreto, no voy a decir nada de la ubicación no se tienen que preocupar por eso
 
@@ -129,11 +82,11 @@ Cuando lo hace, ves la cara que viste en Loguetown: dura, serena, con el tatuaje
 
 ---
 
-## COMANDO 3 (T1449)
+## COMANDO 2 (T1449)
 
 asi es
 
-## RESPUESTA 3 (T1449)
+## RESPUESTA 2 (T1449)
 
 > asi es
 
@@ -179,4 +132,54 @@ Se endereza. Es más alto que tú.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:31, Baltigo, torre de Dragon. Dragon: "¿Qué quieres del Ejército Revolucionario?" Facundo puede responder.
+## COMANDO 3 (T1450)
+
+nada, queria conocer al padre de mi capitán y venir a ver a mi novia
+
+## RESPUESTA 3 (T1450)
+
+> nada, queria conocer al padre de mi capitán y venir a ver a mi novia
+
+> —Nada. Quería conocer al padre de mi capitán y venir a ver a mi novia.
+
+Koala suelta un ruidito, muy bajo, y se tapa la boca con las carpetas.
+
+Robin no dice nada. Pero sin mirarte te roza el dorso de la mano con los dedos, una sola vez, y deja la mano ahí.
+
+Sabo, junto a la mesa, levanta las cejas. Mira a Dragon, como esperando a ver qué hace con eso.
+
+Dragon se queda quieto un largo rato, con las manos sobre el mapa.
+
+Después pasa algo que, por la cara de Koala, no pasa seguido. A Dragon se le mueve la comisura de la boca. Muy poco. Casi nada. Una sonrisa que dura lo que tarda en entrar una ráfaga de viento por la ventana, y que desaparece.
+
+—El padre de tu capitán —repite.
+
+Levanta las manos de la mesa. Uno de los mapas, ya libre, se enrolla solo sobre sí mismo.
+
+—No soy mucho de eso. Nunca estuve. —No lo dice con pena, ni como disculpa: lo dice como quien lee un dato de un informe—. Lo vi una vez en Loguetown, de lejos, cuando ya llevaba un sombrero de paja que no era suyo. Lo vi en Marineford, por una pantalla, gritando que venía a salvar a su hermano.
+
+Mira la ventana del este, el sol que ya se despegó del mar.
+
+—Y ahora tú, que viajas con él, apareces en mi torre para conocerme.
+
+Vuelve a mirarte. La voz no cambia, sigue igual de baja y de firme, pero la pregunta sale un poco más lenta que las anteriores.
+
+—¿Cómo está?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1450 · ONE PIECE · DÍA ~121 · 06:33    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Conocer a Dragon                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:33, Baltigo, torre de Dragon. Facundo dijo que vino a conocer al padre de su capitán y a ver a su novia. Dragon: "¿Cómo está?" (Luffy). Facundo puede responder.
