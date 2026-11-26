@@ -1351,3 +1351,4 @@ T1349 · NARUTO · Borde oeste · "Con mi fuerza." Naruto lo desafía; Tsunade: 
 T1350 · NARUTO · Ichiraku · Naruto lo lleva al ramen; la gente lo saluda. Teuchi invita. Kase come de la mano de Ayame. Naruto: "¿De dónde eres?"
 T1351 · NARUTO · Ichiraku · "Soy un viajero." Naruto recuerda a Jiraiya ("No volvió"). Se repone. "¿Te vas a quedar un tiempo en Konoha?"
 T1352 · NARUTO · Ichiraku · "Me voy a quedar un tiempo. Cuéntame la historia." Naruto cuenta Konoha, el Kyūbi en él, su infancia, Sasuke, Jiraiya, que el Cuarto era su papá. "¿Cuál fue el lugar más raro que viste?"
+T1353 · NARUTO · Ichiraku · "No te puedo decir mucho, pero en uno había titanes." Naruto: "¿Como Gamabunta? ¿Peleaste contra ellos?"

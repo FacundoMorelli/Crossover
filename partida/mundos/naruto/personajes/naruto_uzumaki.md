@@ -27,3 +27,5 @@ RELACIÓN CON FACUNDO (T1348): agradecido y entusiasmado.
 QUÉ SABE DE FACUNDO (T1351): es viajero (por él).
 - T1352 · Le cuenta a Facundo la historia de Konoha (Hashirama, Tsunade su nieta, el Tercero, el Cuarto), que tiene al Kyūbi adentro ("Adentro mío"), su infancia aislada, Iruka, el equipo 7, Sasuke ("Le prometí a Sakura-chan que lo iba a traer de vuelta"), los años con Jiraiya, el Modo Sabio, Pain, y que el Cuarto es su papá ("¡Dieciséis años!"). "Ahora te toca a ti. ¿Cuál fue el lugar más raro?"
 RELACIÓN CON FACUNDO (T1352): confianza; le abrió su historia.
+- T1353 · Oye que en un lugar donde estuvo Facundo había titanes. "¿Como gigantes? ¿Como Gamabunta?" "¿Hablaban? ¿Eran malos? ¿Peleaste contra ellos?"
+QUÉ SABE DE FACUNDO (T1353): estuvo en un lugar con "titanes" (lo cree un país lejano; no sabe de otros mundos).

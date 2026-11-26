@@ -80,3 +80,4 @@
 - Vecinos del campamento · T1350 · saludan a Facundo (reverencias, pulgares): el rumor de la Hokage y de Danzō ya es de todos.
 - Facundo · T1352 · por Naruto: historia de Konoha, Kyūbi sellado en Naruto, Sasuke, Jiraiya, Minato es su padre (Naruto lo cuenta por confianza).
 - Naruto · T1352 · por Facundo: se va a quedar un tiempo en Konoha.
+- Naruto, Teuchi, Ayame · T1353 · por Facundo: en uno de los lugares que visitó "había titanes". Lo entienden como un país lejano con gigantes. NO saben que es otro mundo.
