@@ -1422,3 +1422,4 @@ T1420 · NARUTO · Carpa de la colina · Sella a Obito con Sakaime: líneas-fron
 T1421 · NARUTO · Carpa de la colina · "No estás en un sueño." Obito: "El del gato." Pregunta por Zetsu. Minato: "Obito." Obito: "Estás muerto. Yo te maté... ¿Sensei?"
 T1422 · NARUTO · Carpa de la colina · Reconstruye el ojo izquierdo de Obito con la técnica de Mahito (ojo negro, sin Sharingan). Obito ve a Minato: "Estás vivo." Ve a Kakashi con su ojo: "Kakashi."
 T1423 · NARUTO · Carpa de la colina · Kakashi y Obito: "No me mires con mi ojo." "Rin murió por tu mano." "Ella eligió." "¡El mundo estaba mal!" Obito a Facundo: "Fuiste tú. ¿Y Rin? ¿Rin también?"
+T1424 · NARUTO · Carpa de la colina · (Corrección: Rin revivida por el deseo 2, ~30 años.) "Sí." Kakashi: "¿Rin está viva?" Obito intenta levantarse. "Por favor. Llévame con ella."

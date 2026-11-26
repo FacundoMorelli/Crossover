@@ -183,3 +183,4 @@
 - Obito · T1422 · ve a Minato vivo y a Kakashi con su Sharingan.
 - Obito · T1423 · deduce (por la mirada de Minato) que Facundo revivió a Minato y a los muertos.
 - Fugaku, Tsunade, Yamato · T1423 · oyen la historia de Rin y de Obito.
+- Obito, Kakashi, Minato, Tsunade, Fugaku, Yamato · T1424 · por Facundo: Rin también está viva.

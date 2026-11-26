@@ -58,3 +58,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1418 · "Eso es más difícil que morir." Vigilará a Obito con Minato.
 - T1422 · Se levanta la banda sin darse cuenta: Obito ve su propio ojo en la cara de Kakashi.
 - T1423 · Se arrodilla junto a Obito, sin máscara, con el Sharingan al aire. "Lo cuidé todos los días. Diecisiete años. Fui a tu nombre en la piedra todas las mañanas. Y llegaba tarde a todo, porque me quedaba hablándote." "Ella se puso delante a propósito... Ella eligió."
+- T1424 · "¿Rin? ¿Rin está viva?" Se tapa la boca; le tiemblan los hombros.

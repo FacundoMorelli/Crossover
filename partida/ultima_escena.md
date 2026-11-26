@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1421)
-
-mira bien, presta atención ojito, no estas en un sueño
-
-## RESPUESTA 1 (T1421)
-
-> mira bien, presta atención ojito, no estas en un sueño
-
-> —Mira bien. Presta atención, ojito. No estás en un sueño.
-
-Obito se queda inmóvil.
-
-Gira la cabeza hacia tu voz. El ojo vacío se le mueve bajo el párpado, buscándote.
-
-—Tú. —Lo dice muy bajo—. El de la cueva. El del gato.
-
-Se le tensa la mandíbula. Intenta incorporarse sobre un codo. Le tiembla el brazo, sin chakra que lo sostenga, y se le dobla. Cae otra vez sobre el futón.
-
-—¿Mirar? —Se ríe, una risa corta, áspera, sin nada de humor—. No tengo ojos para mirar, viajero. Me tapaste el único que me quedaba. Y el otro... el otro lo tiene...
-
-Se calla.
-
-—Un sueño —repite, despacio—. No. Ya sé que no es un sueño. En un sueño, las cosas salen como uno quiere.
-
-Se queda quieto, respirando fuerte, con la cabeza girada hacia el techo de la carpa.
-
-—¿Zetsu? —pregunta, al aire—. ¿Dónde está Zetsu?
-
-Nadie le contesta.
-
-Entonces Minato se arrodilla junto al futón, del otro lado, frente a ti. Despacio. Muy cerca de la cara de Obito. Lo mira un rato largo: las cicatrices, la boca apretada, la cuenca vacía, el pelo negro revuelto que todavía tiene el mismo remolino en la coronilla que tenía a los trece años.
-
-—Obito —dice.
-
-Solo eso.
-
-Obito se queda congelado.
-
-No respira. No se mueve. El ojo vacío deja de buscar bajo el párpado. La mano que tenía apretada sobre el futón se le abre, despacio, sola.
-
-—No. —La voz le sale chiquita, casi de chico—. No... No puede ser. Esa voz no.
-
-Gira la cabeza hacia Minato, a ciegas. Le tiembla la boca.
-
-—Estás muerto. —Lo dice como si se lo dijera a sí mismo—. Yo... yo te maté. Esa noche. Con el Nueve Colas. Yo te vi morir. Te vi...
-
-Se le corta la voz.
-
-—¿Sensei?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1421 · NARUTO · DÍA 1 · 16:12          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1422)
+## COMANDO 1 (T1422)
 
 le reconstruyó el ojo con la técnica de mahito
 
-## RESPUESTA 2 (T1422)
+## RESPUESTA 1 (T1422)
 
 > le reconstruyó el ojo con la técnica de mahito
 
@@ -133,11 +66,11 @@ Le tiembla la boca. Le tiembla todo.
 
 ---
 
-## COMANDO 3 (T1423)
+## COMANDO 2 (T1423)
 
 miro
 
-## RESPUESTA 3 (T1423)
+## RESPUESTA 2 (T1423)
 
 > miro
 
@@ -204,4 +137,61 @@ Traga saliva. Se le tensa todo el cuerpo bajo los sellos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:17, carpa de la colina. Kakashi se arrodilla junto a Obito: lo cuidó (el ojo) 17 años, iba a la piedra cada mañana. Obito: "No me mires con mi ojo." "Rin murió por tu mano." Kakashi: "Ella eligió." Obito: "¡Si el mundo era un lugar donde Rin tenía que elegir eso, el mundo estaba mal!" Llora. Pregunta a Minato cómo está vivo; Minato mira a Facundo. Obito: "Fuiste tú." "¿Y Rin? ¿Rin también?" (RIN NO FUE REVIVIDA por el deseo 2: no la mató Akatsuki ni Danzō.) Facundo tiene que contestar.
+## COMANDO 3 (T1424)
+
+si haz que tsmbien haya revivido con la misma edad que kakashi y obito
+
+## RESPUESTA 3 (T1424)
+
+> si haz que tsmbien haya revivido con la misma edad que kakashi y obito
+
+> —Sí.
+
+Obito se queda sin respirar.
+
+—Sí —repite, como si no entendiera la palabra.
+
+Kakashi se da vuelta hacia ti tan rápido que casi pierde el equilibrio. Tiene el ojo negro y el rojo muy abiertos.
+
+—¿Rin? —Le sale la voz quebrada—. ¿Rin está viva?
+
+En algún lugar de la aldea, en una casa de dos pisos de una calle con faroles, del lado sur, una mujer de treinta años, de pelo castaño corto y dos marcas violetas en las mejillas, se despertó hace una hora en su cama de cuando era chica. Recuerda el bosque, la lluvia, el Tres Colas debatiéndose adentro de su pecho y la mano de Kakashi llena de rayos. Recuerda haberse puesto delante. Y recuerda, al volver, una voz que le dijo que quien la trajo tenía un gato.
+
+Obito no sabe nada de eso. Pero se le nota en la cara que lo cree.
+
+Intenta levantarse del futón. Sin chakra, sin fuerza, se le doblan los brazos y se cae de costado. Lo intenta otra vez. Minato lo agarra de los hombros para que no se golpee la cabeza.
+
+—Obito, quieto...
+
+—¡Suéltame! —Se retuerce bajo las manos de su maestro, desesperado, con el ojo nuevo lleno de lágrimas—. ¡Suéltame, sensei, tengo que...! ¡Tengo que verla! ¡Tengo que...!
+
+Se le acaba el aire. Se queda tirado de costado, jadeando, con las manos aferradas al futón.
+
+Kakashi se tapa la boca con la mano. No dice nada. Le tiemblan los hombros.
+
+Tsunade se pone de pie. Mira a Obito, mira a Kakashi, te mira a ti.
+
+—Rin Nohara —dice en voz baja—. La alumna de Minato. —Se pasa la mano por la cara—. Está bien. Está bien.
+
+Obito levanta la cabeza del futón como puede. Te mira a ti. No a Minato. No a Kakashi. A ti.
+
+—Por favor. —Lo dice el hombre que hace unas horas quería atrapar al mundo entero en un sueño, y le sale como de chico—. Por favor. Llévame con ella.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1424 · NARUTO · DÍA 1 · 16:19          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:19, carpa de la colina. CORRECCIÓN DEL JUGADOR: Rin también fue revivida (deseo 2), con ~30 años, en su casa de la infancia (lado sur, calle con faroles). Facundo a Obito: "Sí." Kakashi: "¿Rin está viva?" Obito intenta levantarse, no puede sin chakra; Minato lo sostiene. Tsunade: "Rin Nohara. La alumna de Minato. Está bien." Obito a Facundo: "Por favor. Llévame con ella." Facundo puede actuar.
