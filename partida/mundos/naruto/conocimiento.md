@@ -148,3 +148,5 @@
 - Yamato · T1399 · ahora sabe que custodia a Obito (alguien con capa de Akatsuki).
 - TODO EL CAMPAMENTO · T1400 · vio a Sasuke Uchiha en Konoha y su reencuentro con Naruto. Oyeron (los de adelante) que lo trajo "el del gato".
 - Naruto, Sakura y los de la primera fila · T1400 · por Sasuke: Facundo dice que puede revivir al clan Uchiha, a Itachi y a los muertos por Akatsuki.
+- TODO KONOHA (miles) · T1401 · por Tsunade, en público: Danzō está preso, la Hokage está despierta, Akatsuki ya no existe, y lo hizo una sola persona: el viajero que llegó esta mañana (Facundo). PÚBLICO.
+- Naruto · T1401 · por Facundo: revivirá a todos (Jiraiya incluido).

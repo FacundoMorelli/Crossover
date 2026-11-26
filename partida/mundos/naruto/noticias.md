@@ -12,3 +12,4 @@
 - T1350 · El campamento entero sabe que el forastero del gato despertó a la Hokage y atrapó a Danzō.
 - T1380 · Día 1 13:24 · ¡Sasuke Uchiha en Konoha, caminando con la Hokage! Rumor en todo el campamento.
 - T1400 · Día 1 15:03 · Sasuke Uchiha volvió a Konoha; lo trajo el forastero del gato. Reencuentro con Naruto frente a todo el campamento.
+- T1401 · Día 1 15:05 · ANUNCIO PÚBLICO DE LA HOKAGE ante todo Konoha: Danzō preso, Akatsuki terminado, todo obra del viajero del gato.

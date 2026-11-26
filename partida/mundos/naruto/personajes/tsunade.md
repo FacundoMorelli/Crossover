@@ -72,3 +72,4 @@ QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y 
 - T1398 · Llora en silencio con la mano en la boca: "Jiraiya." Se recompone. "Esta mañana tenía una aldea que no existía y gente durmiendo en carpas. Y ahora me dices esto." "Facundo. ¿Cuándo?"
 - T1399 · "¿Piedras?" Manda a Shizune por las piedras y a convocar a jōnin, equipos de Asuma, Kurenai y Gai, Sai, Sakura, Shikaku, Inoichi, Hiashi, Kakashi (Yamato se queda con Obito) y Naruto. "No sé. Pero quiero que estén." De pie delante de Sasuke y Taka, tapándolos a medias.
 - T1400 · Se corre a un costado y deja a Sasuke a la vista de todos.
+- T1401 · Sube a la tarima: "¡SILENCIO!" "Hace tres días, Pain borró esta aldea del mapa. Esta mañana, yo estaba en coma y Danzō se hacía llamar Hokage. Hoy a la tarde, Danzō está preso, la Hokage está despierta y Akatsuki ya no existe." "Todo eso lo hizo una sola persona. Llegó esta mañana. Dice que es un viajero." Le cede la tarima a Facundo.

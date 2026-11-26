@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1398)
-
-todos, también los uchiha, voy a recuperar todo lo que fue destruido tambien, eso incluido la aldea
-
-## RESPUESTA 1 (T1398)
-
-> todos, también los uchiha, voy a recuperar todo lo que fue destruido tambien, eso incluido la aldea
-
-> —Todos. También los Uchiha. Y voy a recuperar todo lo que fue destruido. Eso incluye la aldea.
-
-Tsunade se tapa la boca con la mano.
-
-No llora en voz alta. Solo se le cae una lágrima, después otra, y se queda así, con la mano sobre la boca y los ojos cerrados, respirando hondo por la nariz, como quien intenta no romperse delante de todos.
-
-—Jiraiya —dice, contra la palma, apenas.
-
-Ibiki baja la cabeza. Suigetsu, por una vez, no dice nada.
-
-Homura es el que habla. Se pone de pie, muy despacio, apoyándose en el banquito.
-
-—Si los Uchiha vuelven... —La voz le tiembla—. Hokage, si vuelven, van a volver recordando quién dio la orden. Fugaku va a volver. El golpe...
-
-—Si vuelven —lo corta Sasuke, desde el poste, sin levantar la voz—, van a volver sabiendo por qué murieron. Y quién los mató. Y quién murió cargando con la culpa de todos.
-
-Homura se queda callado. Vuelve a sentarse.
-
-Sasuke no te mira. Mira el suelo. Tiene los puños cerrados, y en los nudillos se le marcan los huesos.
-
-—Itachi —dice, muy bajo, como si probara cómo suena el nombre con otra forma.
-
-Karin le apoya la mano en la pierna, desde el suelo. Él no se la saca.
-
-Tsunade baja la mano de la boca. Se pasa el dorso por los ojos, una vez, rápido, y cuando vuelve a mirarte ya es otra vez la Hokage, aunque tenga los ojos rojos.
-
-—La aldea —dice—. Las casas, las calles, la torre. Los Uchiha. Jiraiya. Los jinchūriki. —Respira hondo—. Esta mañana tenía una aldea que no existía y gente durmiendo en carpas. Y ahora me dices esto.
-
-Te sostiene la mirada.
-
-—Facundo. ¿Cuándo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1398 · NARUTO · DÍA 1 · 14:02          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1399)
+## COMANDO 1 (T1399)
 
 traiganme 7 piedras del mismo tamaño y llamen a toda la gente importante que va a tener que saberlo, naruto incluido, todos los equipos que hayan, etc
 
-## RESPUESTA 2 (T1399)
+## RESPUESTA 1 (T1399)
 
 > traiganme 7 piedras del mismo tamaño y llamen a toda la gente importante que va a tener que saberlo, naruto incluido, todos los equipos que hayan, etc
 
@@ -133,11 +76,11 @@ Naruto se detiene en seco. Se le borra la sonrisa. Se le va el color de la cara.
 
 ---
 
-## COMANDO 3 (T1400)
+## COMANDO 2 (T1400)
 
 miro
 
-## RESPUESTA 3 (T1400)
+## RESPUESTA 2 (T1400)
 
 > miro
 
@@ -208,4 +151,61 @@ Se da vuelta hacia ti. Tiene los ojos rojos, la nariz llena de mocos y la cara m
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:03, centro del cráter. Reencuentro: Sasuke se pone de pie; la multitud lo reconoce. Sakura: "Sasuke... kun." Naruto: "Volviste." Sasuke: "Por ahora." Naruto lo agarra de la capa: "¡Te dije que te iba a traer de vuelta!" Sasuke: "No me trajiste tú. Fue él. El del gato." Naruto ríe llorando: "Idiota." Frente en el hombro de Sasuke. Sasuke: "Ese de ahí dice que puede revivir a mi clan. A Itachi. A los muertos por Akatsuki." Naruto a Facundo: "¿Al Sabio Pervertido también?" Facundo tiene que contestar.
+## COMANDO 3 (T1401)
+
+a todos, tsunade, dejame hablar con todos quiero decirlo yo
+
+## RESPUESTA 3 (T1401)
+
+> a todos, tsunade, dejame hablar con todos quiero decirlo yo
+
+> —A todos. —Te vuelves hacia Tsunade—. Tsunade, déjame hablar con todos. Quiero decirlo yo.
+
+Naruto se queda con la boca abierta. Suelta la capa de Sasuke sin darse cuenta.
+
+—A todos —repite, en un susurro.
+
+Tsunade te mira un segundo. Después asiente una vez, seca, y se sube de un salto a la tarima del cartel.
+
+—¡SILENCIO!
+
+La voz le sale como un golpe. El murmullo de la multitud se corta de golpe, de adelante hacia atrás, hasta el último de los que están parados en el borde del cráter. Se oye el viento sobre las lonas. Un bebé llora en algún lado y la madre lo hace callar.
+
+—Hace tres días, Pain borró esta aldea del mapa —dice Tsunade—. Esta mañana, yo estaba en coma y Danzō se hacía llamar Hokage. Hoy a la tarde, Danzō está preso, la Hokage está despierta y Akatsuki ya no existe.
+
+Un murmullo corre por la multitud. Lo deja correr un segundo y levanta la mano. Se corta.
+
+—Todo eso lo hizo una sola persona. —Te señala con el mentón, sin mirarte—. Llegó esta mañana. Dice que es un viajero. Y tiene algo que decirles a todos.
+
+Se baja de la tarima y te deja el lugar.
+
+Subes.
+
+Desde arriba se ve todo. El cráter entero, las carpas, las casas de madera nuevas en el borde sur, los cinco rostros de piedra del otro lado. Y la gente. Cientos. Miles. Ninjas con vendas, viejos apoyados en bastones, chicos subidos a los hombros de sus padres para ver mejor. Todos en silencio. Todos mirándote.
+
+Abajo, en la primera fila: Naruto, con la cara mojada. Sasuke, a su lado, con los brazos cruzados. Sakura, con las manos todavía en la boca. Kakashi, que se adelantó hasta el frente sin que nadie lo viera. Gai, Lee, Neji, Hinata, Shikamaru. El viejo de ojos blancos. Los novatos. Tsunade, de brazos cruzados, al pie de la tarima.
+
+A tus pies, sobre el pañuelo, las siete piedras de río.
+
+Kase se sienta muy derecho en tu hombro, con la cola enroscada en tu cuello, y mira a la multitud como si fuera suya.
+
+Nadie dice nada. Esperan.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1401 · NARUTO · DÍA 1 · 15:05          ║
+║ Konoha · centro del cráter · sobre la tarima ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Hablarle a la aldea                ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:05, sobre la tarima del centro del cráter. Facundo a Naruto: "A todos." Pidió hablarle a todos. Tsunade hizo silencio ("¡SILENCIO!"), resumió el día (Danzō preso, Hokage despierta, Akatsuki no existe; todo lo hizo una persona) y le cedió la tarima. Facundo arriba, ante miles; Kase en el hombro; 7 piedras a sus pies. Primera fila: Naruto, Sasuke, Sakura, Kakashi, Gai, Lee, Neji, Hinata, Shikamaru, Hiashi, novatos, Tsunade. Todos esperan. Facundo tiene que hablar.
