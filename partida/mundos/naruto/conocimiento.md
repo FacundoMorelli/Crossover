@@ -150,3 +150,4 @@
 - Naruto, Sakura y los de la primera fila · T1400 · por Sasuke: Facundo dice que puede revivir al clan Uchiha, a Itachi y a los muertos por Akatsuki.
 - TODO KONOHA (miles) · T1401 · por Tsunade, en público: Danzō está preso, la Hokage está despierta, Akatsuki ya no existe, y lo hizo una sola persona: el viajero que llegó esta mañana (Facundo). PÚBLICO.
 - Naruto · T1401 · por Facundo: revivirá a todos (Jiraiya incluido).
+- TODO KONOHA · T1402 · por Facundo, en público: se llama Facundo Morelli, es viajero, desmanteló a Akatsuki; revivirá a todos los muertos por Akatsuki y Danzō, de verdad (no Edo Tensei), con sus recuerdos; reconstruirá la aldea; no le deben nada, "me gusta ayudar". PÚBLICO.

@@ -1400,3 +1400,4 @@ T1398 · NARUTO · Carpa de mando · "Todos, también los Uchiha, y la aldea." T
 T1399 · NARUTO · Centro del cráter · Pide 7 piedras y reunir a todos. Shizune trae las piedras. Se junta todo el campamento. Naruto llega y ve a Sasuke: "¿Sasuke?"
 T1400 · NARUTO · Centro del cráter · Reencuentro Naruto-Sasuke ante todos. "Volviste." "Por ahora." "No me trajiste tú. Fue él. El del gato." Naruto: "Idiota." Sasuke le cuenta lo de revivir. Naruto: "¿Al Sabio Pervertido también?"
 T1401 · NARUTO · Tarima del centro del cráter · "A todos." Pide hablarle a la aldea. Tsunade hace silencio y le cede la tarima: "Todo eso lo hizo una sola persona." Miles esperan.
+T1402 · NARUTO · Tarima · Discurso: revivirá a los muertos por Akatsuki y Danzō, de verdad, y reconstruirá la aldea; no le deben nada. Silencio; estalla la multitud. Un jōnin de barba: "¡¿Cómo piensas hacerlo?!"

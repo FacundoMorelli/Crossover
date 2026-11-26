@@ -39,3 +39,4 @@ ESTADO: golpeado (nariz, boca, ojo hinchándose) (T1356).
 - T1400 · Reencuentro con Sasuke: "Volviste." Lo agarra de la capa: "¡Te dije que te iba a traer de vuelta! ¡Te lo dije en el Valle del Fin!" Sasuke: "No me trajiste tú. Fue él." Naruto se ríe llorando: "Idiota, idiota, idiota." Apoya la frente en el hombro de Sasuke. Al saber lo de revivir, a Facundo: "¿Al Sabio Pervertido también?"
 QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir al clan Uchiha, a Itachi y a los muertos por Akatsuki.
 - T1401 · "A todos" (repite en un susurro). Suelta la capa de Sasuke. En primera fila.
+- T1402 · Durante el discurso se lleva las manos a la cabeza; le tiemblan los hombros. Sakura le agarra el brazo.

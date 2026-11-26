@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1399)
-
-traiganme 7 piedras del mismo tamaño y llamen a toda la gente importante que va a tener que saberlo, naruto incluido, todos los equipos que hayan, etc
-
-## RESPUESTA 1 (T1399)
-
-> traiganme 7 piedras del mismo tamaño y llamen a toda la gente importante que va a tener que saberlo, naruto incluido, todos los equipos que hayan, etc
-
-> —Tráiganme siete piedras del mismo tamaño. Y llamen a toda la gente importante que va a tener que saberlo. Naruto incluido. Todos los equipos que haya, todos.
-
-Tsunade parpadea.
-
-—¿Piedras?
-
-Te mira un segundo más, como esperando que le expliques. No le explicas.
-
-Suelta el aire por la nariz.
-
-—Siete piedras. —Se da vuelta hacia la entrada y levanta la lona—. ¡Shizune!
-
-Shizune aparece casi enseguida, como si hubiera estado esperando afuera todo el rato, con Tonton en brazos.
-
-—Siete piedras del mismo tamaño. Redondas, si puedes. Y llama a todos. A los jōnin, a los chūnin de los equipos de Asuma, de Kurenai y de Gai, a Sai, a Sakura, a Shikaku, a Inoichi, a Hiashi Hyūga. —Hace una pausa—. A Kakashi, que deje a Yamato en mi carpa con lo que tiene ahí. Y a Naruto.
-
-—¿A... todos? ¿Para qué, Tsunade-sama?
-
-—No sé. —Tsunade se cruza de brazos—. Pero quiero que estén.
-
-Pasa casi una hora.
-
-Al centro del cráter, frente a la tarima del cartel de GRACIAS, NARUTO, la tierra quedó despejada y pareja. Ahí se va juntando la gente. Primero los que llama Shizune. Después, los que ven que se juntan los primeros. Después, todo el campamento.
-
-Llegan Shikamaru, con las manos en los bolsillos y cara de fastidio, y Chōji detrás comiendo papas fritas de una bolsa arrugada. Ino, que se acomoda el pelo y te mira de arriba abajo con interés. Kiba con Akamaru, un perro blanco del tamaño de un caballo, que te gruñe y se esconde detrás de su dueño cuando Kase lo mira. Shino, quieto, sin decir nada, con insectos que le salen del cuello de la chaqueta. Hinata, de la mano de nadie, mirando el suelo. Neji a su lado. Lee, que te saluda con los dos brazos desde lejos, a los gritos. Tenten. Gai, con el pulgar arriba. Una muchacha de pelo rosado con una banda en la frente y los puños vendados, que mira a todos lados buscando a alguien. Un muchacho pálido, de pelo negro y sonrisa vacía, con un rollo de pergamino a la espalda.
-
-Llegan adultos que no conoces: un hombre con una cicatriz en la cara y la coleta de los Nara, otro rubio de coleta larga, un hombre de ojos blancos y túnica que impone silencio con solo pararse. Kakashi, que se ubica atrás de todos, con la banda bajada, sin mirar a nadie.
-
-Detrás de la tarima, sentados en el suelo, Sasuke y su equipo, con Tsunade de pie delante de ellos. Lo tapa a medias con el abrigo de Hokage, y nadie de los que llegan alcanza a verlo bien.
-
-Shizune vuelve con un pañuelo atado en las manos. Lo abre en el suelo, frente a ti. Siete piedras de río, grises y lisas, más o menos del tamaño de un puño, más redondas de lo que esperabas.
-
-—Las mejores que encontré —dice, sin aire.
-
-Y entonces se oye un grito, desde el borde de la multitud, que hace que todos se den vuelta.
-
-—¡Abuela Tsunade! ¡¿Para qué nos llamaste a todos?! ¡Estaba comiendo...!
-
-Naruto se abre paso entre la gente a los codazos, con el ojo todavía un poco hinchado del golpe de Karui. Llega hasta adelante. Te ve a ti. Te sonríe. Ve las piedras.
-
-Ve a Tsunade.
-
-Y ve, detrás de ella, sentado en el suelo, con la capa negra y blanca y la cara levantada, a Sasuke.
-
-Naruto se detiene en seco. Se le borra la sonrisa. Se le va el color de la cara.
-
-—¿Sa... —La voz le sale chiquita, quebrada—. ¿Sasuke?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1399 · NARUTO · DÍA 1 · 15:01          ║
-║ Konoha · centro del cráter · la tarima       ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1400)
+## COMANDO 1 (T1400)
 
 miro
 
-## RESPUESTA 2 (T1400)
+## RESPUESTA 1 (T1400)
 
 > miro
 
@@ -151,11 +78,11 @@ Se da vuelta hacia ti. Tiene los ojos rojos, la nariz llena de mocos y la cara m
 
 ---
 
-## COMANDO 3 (T1401)
+## COMANDO 2 (T1401)
 
 a todos, tsunade, dejame hablar con todos quiero decirlo yo
 
-## RESPUESTA 3 (T1401)
+## RESPUESTA 2 (T1401)
 
 > a todos, tsunade, dejame hablar con todos quiero decirlo yo
 
@@ -208,4 +135,65 @@ Nadie dice nada. Esperan.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:05, sobre la tarima del centro del cráter. Facundo a Naruto: "A todos." Pidió hablarle a todos. Tsunade hizo silencio ("¡SILENCIO!"), resumió el día (Danzō preso, Hokage despierta, Akatsuki no existe; todo lo hizo una persona) y le cedió la tarima. Facundo arriba, ante miles; Kase en el hombro; 7 piedras a sus pies. Primera fila: Naruto, Sasuke, Sakura, Kakashi, Gai, Lee, Neji, Hinata, Shikamaru, Hiashi, novatos, Tsunade. Todos esperan. Facundo tiene que hablar.
+## COMANDO 3 (T1402)
+
+Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
+
+## RESPUESTA 3 (T1402)
+
+> Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
+
+> —Me llamo Facundo Morelli. Soy un viajero. Hoy desmantelé a Akatsuki. Ustedes perdieron mucho en todo esto, y muchos creen que no lo pueden recuperar. Pero no es así. Toda la aldea destruida va a volver. Todos los muertos por Akatsuki, por Danzō, todos, van a revivir. Y no con el Edo Tensei: van a revivir de verdad, como personas reales, sin problemas. Van a recordar todo, no va a cambiar nada de ellos. Y por las dudas aclaro una cosa: no quiero que piensen que me deben nada. Lo hago porque me gusta ayudar. Eso es todo.
+
+El silencio dura mucho.
+
+Tanto que se oye el viento entre los árboles partidos del borde del cráter. Tanto que un chico subido a los hombros de su padre le pregunta en voz baja qué dijo el señor, y el padre no le contesta.
+
+Nadie se mueve. Nadie aplaude. Nadie grita.
+
+Después, desde algún lugar del medio de la multitud, una mujer mayor deja caer al suelo el balde que tenía en la mano. El ruido del metal rebota en todo el cráter.
+
+—Mi hijo —dice, no muy fuerte, pero en el silencio se oye en todos lados—. Mi hijo murió en la Tercera Guerra. Lo mató... lo mató uno de esos de las capas, cuando...
+
+No termina. Se tapa la cara.
+
+Y eso rompe algo.
+
+Un murmullo, primero. Después una voz, después otra, después cientos al mismo tiempo, que se pisan, que se cruzan. Alguien grita un nombre. Otro grita otro. Un ninja con muletas se sienta en el suelo de golpe y se pone a llorar como un chico. Un viejo de la primera fila se agarra del brazo del que tiene al lado. Hay gente que se ríe, gente que llora, gente que no entiende y pregunta, gente que mira a los demás para ver si es verdad.
+
+En la primera fila, Naruto se lleva las dos manos a la cabeza. No dice nada. Le tiemblan los hombros.
+
+Sakura le agarra el brazo a Naruto sin darse cuenta.
+
+Hiashi Hyūga, el hombre de ojos blancos, no se mueve, pero se le va la mirada, muy despacio, hacia Neji, que está a su lado.
+
+Kakashi, al frente de todo, se baja la banda del ojo izquierdo y se queda mirando el suelo.
+
+Sasuke no se mueve. Te mira desde abajo, con los brazos cruzados, y por primera vez desde que lo conoces, se le moja el ojo.
+
+Tsunade, al pie de la tarima, levanta otra vez la mano para pedir silencio. No le hacen caso. Tarda un rato largo en que la multitud se vuelva a calmar, y cuando lo consigue, no es del todo. Queda un murmullo bajo, tembloroso, lleno de nombres.
+
+Entre la gente, un jōnin de barba se abre paso hasta la primera fila. Te señala con el dedo, con la cara dura.
+
+—¡Eso es fácil de decir! —grita—. ¡Pain también dijo que traía la paz! ¡¿Cómo?! ¡¿Cómo piensas hacerlo?!
+
+Detrás de él, mil caras te miran. Esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1402 · NARUTO · DÍA 1 · 15:08          ║
+║ Konoha · centro del cráter · sobre la tarima ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Hablarle a la aldea                ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:08, sobre la tarima. Facundo dio su discurso (nombre, viajero, desmanteló Akatsuki; revivirá a todos los muertos por Akatsuki y Danzō, de verdad, con memoria, y reconstruirá la aldea; no le deben nada). Silencio largo; una mujer deja caer un balde ("Mi hijo..."); estalla la multitud (llanto, nombres). Naruto con las manos en la cabeza; Sakura le agarra el brazo; Hiashi mira a Neji; Kakashi mira el suelo; Sasuke con el ojo mojado. Un jōnin de barba: "¡Pain también dijo que traía la paz! ¡¿Cómo piensas hacerlo?!" Facundo puede actuar.
