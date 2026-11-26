@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1335)
-
-voy con tsunade
-
-## RESPUESTA 1 (T1335)
-
-> voy con tsunade
-
-Sigues a Shizune entre las carpas. Ella camina rápido, casi corriendo, y cada tanto se da vuelta para ver si sigues ahí. Tonton te mira desde sus brazos con desconfianza. Kase lo mira a él con más.
-
-Afuera de la carpa de mando hay más gente que a la mañana. Cuatro ANBU con máscara de la aldea, de un lado de la entrada. Del otro, dos hombres sin máscara pero con la cara igual de vacía: uno rubio, de pelo largo atado, y otro con capucha y anteojos oscuros, con la piel llena de puntitos negros que se mueven. Los dos te siguen con la cabeza al pasar, al mismo tiempo, como si fueran uno.
-
-Shizune levanta la lona.
-
-Adentro, el aire está pesado. Tsunade está sentada detrás de la mesa hecha con una puerta vieja, con los codos apoyados y los dedos entrelazados frente a la boca. Ya tiene puesto el abrigo de Hokage como corresponde. A su derecha, de pie, Kakashi, con las manos en los bolsillos. A su izquierda, sentados en dos banquitos, un viejo de anteojos con el pelo blanco atado y una vieja de moño gris, los dos con la espalda muy derecha y cara de haber discutido mucho.
-
-Y frente a la mesa, de pie, apoyado en un bastón, hay un anciano.
-
-Tiene media cara vendada, el ojo derecho tapado, y el brazo derecho metido entero en la ropa, como si no lo tuviera. En el mentón, una cicatriz en forma de cruz. El ojo que se le ve es negro, quieto y frío como el agua de un pozo.
-
-Se da vuelta cuando entras. No del todo: solo la cabeza.
-
-╔══════════════════════════════════════════════╗
-║ DANZŌ SHIMURA                                ║
-║ Líder de Raíz · Sexto Hokage designado       ║
-║ PODER: Estilo Viento, invocación,            ║
-║        ninjutsu de sellos                    ║
-║        Bajo las vendas: sin datos            ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: x0,01 sobre ti          ║
-║ COPIABLE (sin verlo en acción)               ║
-╚══════════════════════════════════════════════╝
-
-Te mira de arriba abajo, sin apuro. El pelo, los ojos, la cicatriz, los tatuajes del cuello, el gato. Se detiene un segundo en tus ojos.
-
-—Así que este es —dice. La voz es seca, baja, sin ninguna emoción—. El viajero que reparte milagros.
-
-—Facundo —dice Tsunade, sin descruzar los dedos—. Te presento a Danzō Shimura. Danzō, Facundo Morelli. El hombre que, en una mañana, hizo más por esta aldea que tú en treinta años.
-
-Danzō no reacciona al insulto. Ni siquiera parpadea.
-
-—En una mañana —repite—, un desconocido sin aldea, sin banda y sin registro curó a la Hokage, a medio hospital, limpió un terreno con una técnica que nadie reconoce, abrió las Puertas Internas frente a Maito Gai y derrotó a su alumno con un solo golpe. Todo el campamento habla de ti desde hace una hora.
-
-Golpea el suelo con la punta del bastón, una sola vez.
-
-—Yo no creo en los milagros, Facundo Morelli. Creo en las intenciones. —El ojo visible se queda clavado en el tuyo—. Así que te lo voy a preguntar una sola vez, y delante de la Hokage, para que nadie diga que lo hice a escondidas. ¿Quién te envió?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1335 · NARUTO · DÍA 1 · 10:55          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1336)
+## COMANDO 1 (T1336)
 
 nadie, soy un viajero
 
-## RESPUESTA 2 (T1336)
+## RESPUESTA 1 (T1336)
 
 > nadie, soy un viajero
 
@@ -118,11 +54,11 @@ Kakashi saca las manos de los bolsillos, despacio.
 
 ---
 
-## COMANDO 3 (T1337)
+## COMANDO 2 (T1337)
 
 esta bien, que lo haga+
 
-## RESPUESTA 3 (T1337)
+## RESPUESTA 2 (T1337)
 
 > esta bien, que lo haga+
 
@@ -189,4 +125,59 @@ Danzō ni pestañea.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 10:58, carpa de mando. Facundo dejó que Fū usara la Lectura de la Mente: Velo; Fū: "No hay nada... Es como si no hubiera nadie." Danzō: "Interesante." Cumple su palabra (no hay pruebas de que sea enemigo) pero pide vigilancia de Raíz. Tsunade: "Denegado." Danzō a Facundo: "¿Te molestaría que mi gente te siga?" Facundo tiene que contestar.
+## COMANDO 3 (T1338)
+
+no para nada, pero te puedo preguntar que tienes debajo de ese brazo? el que tienes cubierto
+
+## RESPUESTA 3 (T1338)
+
+> no para nada, pero te puedo preguntar que tienes debajo de ese brazo? el que tienes cubierto
+
+> —No, para nada. Pero ¿te puedo preguntar qué tienes debajo de ese brazo? El que tienes cubierto.
+
+Por primera vez desde que entraste, Danzō tarda en contestar.
+
+No se mueve. No mira el brazo. No cambia la cara. Pero el silencio dura un segundo de más, y en una carpa llena de ninjas un segundo de más se nota.
+
+Kakashi gira apenas la cabeza hacia él. Tsunade entrecierra los ojos, mirando el hombro derecho de Danzō, donde la ropa cae vacía.
+
+—Una herida de guerra —dice Danzō al fin—. De una de tantas. Nada que le importe a un viajero.
+
+Se acomoda el bastón en la mano izquierda.
+
+—Aunque es justo. Yo te pregunté por tu cabeza, tú me preguntas por mi brazo. —El ojo visible se queda fijo en el tuyo, sin parpadear—. Cada hombre tiene sus vendas, Facundo Morelli. Yo no te pido que te quites las tuyas, y tú no me pidas que me quite las mías.
+
+Se da vuelta hacia la salida, despacio, apoyándose en el bastón. Fū le levanta la lona.
+
+—Hokage. Consejeros. —Una inclinación mínima de cabeza—. El viajero aceptó la vigilancia, delante de todos ustedes. Mi gente lo seguirá. Con respeto, y a distancia.
+
+Antes de salir se detiene, de espaldas.
+
+—Una cosa más. Mañana parto hacia el País del Hierro. El Raikage convocó a los cinco Kages. —Lo dice sin darse vuelta—. Ahí se va a decidir quién habla por Konoha. Que la Hokage descanse. Lo va a necesitar.
+
+Sale. La lona cae detrás de él.
+
+Durante un momento nadie dice nada. Homura se quita los anteojos y los limpia con la manga, despacio, como si fuera muy importante. Koharu mira el suelo.
+
+Tsunade suelta el aire por la nariz, largo. Se queda mirando la lona por donde salió Danzō. Después te mira a ti, con una ceja levantada.
+
+—¿Y eso del brazo a qué vino?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1338 · NARUTO · DÍA 1 · 11:00          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común · vigilado por Raíz      ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:00, carpa de mando. Facundo aceptó la vigilancia y preguntó por el brazo cubierto de Danzō. Danzō: "Una herida de guerra." "Cada hombre tiene sus vendas." Raíz lo seguirá. Danzō parte mañana al País del Hierro (Cumbre de los Kages): "Ahí se va a decidir quién habla por Konoha." Se fue con Fū. Tsunade: "¿Y eso del brazo a qué vino?" Facundo puede contestar.

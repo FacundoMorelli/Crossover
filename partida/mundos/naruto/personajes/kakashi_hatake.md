@@ -28,3 +28,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1316 · Confirma ante Tsunade que Facundo no pidió nada. Recibe la orden de convocar a Homura y Koharu.
 - T1335 · De pie a la derecha de Tsunade en la carpa de mando, manos en los bolsillos.
 - T1336 · Saca las manos de los bolsillos, despacio, cuando Fū se pone detrás de Facundo.
+- T1338 · Gira la cabeza hacia Danzō cuando Facundo pregunta por el brazo.

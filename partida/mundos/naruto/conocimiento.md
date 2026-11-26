@@ -60,3 +60,6 @@
 - Homura, Koharu · T1335 · lo mismo, por la reunión.
 - Fū, Torune · T1335 · lo vieron entrar.
 - Fū, Danzō, Tsunade, Kakashi, Homura, Koharu, Shizune · T1337 · por Fū (en voz alta): no se puede leer la mente de Facundo; "no hay nada, como si no hubiera nadie". (Velo.) Danzō lo interpreta como preparación deliberada.
+- Danzō, Tsunade, Kakashi, Homura, Koharu, Shizune, Fū · T1338 · oyeron a Facundo preguntar qué tiene Danzō bajo el brazo cubierto. Danzō deduce que el forastero sabe o sospecha algo. Tsunade y Kakashi ahora miran ese brazo con sospecha.
+- Facundo, Tsunade y presentes · T1338 · por Danzō: parte mañana al País del Hierro, Cumbre de los cinco Kages convocada por el Raikage.
+- Raíz · T1338 · lo vigilará (Facundo aceptó, ante testigos).

@@ -24,3 +24,5 @@ RELACIÓN CON FACUNDO (T1316): desconfianza que se ablanda; lo pone a prueba.
 - T1335 · Carpa de mando, con Danzō, Homura, Koharu y Kakashi. "Te presento a Danzō Shimura... El hombre que, en una mañana, hizo más por esta aldea que tú en treinta años."
 - T1336 · "¡No es tu decisión! Este muchacho me salvó la vida, y no vas a meterle las manos en la cabeza como si fuera un prisionero de guerra." (golpe a la mesa)
 - T1337 · Media sonrisa: "¿Satisfecho? Ahí tienes tu minuto. Ahora dale tu palabra delante de todos." Deniega la vigilancia de Raíz: "Denegado."
+- T1338 · Mira el hombro derecho de Danzō al oír la pregunta. Después: "¿Y eso del brazo a qué vino?"
+QUÉ SABE (T1338): por Danzō, que él parte mañana a la Cumbre de los Kages en el País del Hierro.
