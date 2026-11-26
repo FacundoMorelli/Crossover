@@ -1402,3 +1402,4 @@ T1400 · NARUTO · Centro del cráter · Reencuentro Naruto-Sasuke ante todos. "
 T1401 · NARUTO · Tarima del centro del cráter · "A todos." Pide hablarle a la aldea. Tsunade hace silencio y le cede la tarima: "Todo eso lo hizo una sola persona." Miles esperan.
 T1402 · NARUTO · Tarima · Discurso: revivirá a los muertos por Akatsuki y Danzō, de verdad, y reconstruirá la aldea; no le deben nada. Silencio; estalla la multitud. Un jōnin de barba: "¡¿Cómo piensas hacerlo?!"
 T1403 · NARUTO · Centro del cráter · "Quiero que lo miren. Todos." Crea 7 Esferas del Dragón con todo su poder ante Konoha (naranja, estrellas rojas). Temblor en todo el cráter. Neji: "lo más vivo que vi en mi vida." Energía 81%.
+T1404 · NARUTO · Centro del cráter · "¡Sal, Alba!" Surge el dragón Alba sobre todo Konoha (ojo rojo y ojo azul). "Pide tres deseos. No hay nada en este mundo que no pueda hacer."

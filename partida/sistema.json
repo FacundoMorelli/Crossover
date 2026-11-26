@@ -1,8 +1,8 @@
 {
-  "turno": 1403,
+  "turno": 1404,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 15:10",
+  "hora": "Día 1, 15:11",
   "edad": 18,
   "nivel": 29,
   "exp": 306730,
@@ -641,9 +641,9 @@
       "mundo": "blackclover"
     },
     {
-      "objeto": "Esferas del Dragón de Konoha (sin nombre todavía)",
+      "objeto": "Esferas de Alba (Esferas del Dragón de Konoha)",
       "cantidad": 7,
-      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: sin nombre todavía (el jugador puede nombrarlo). 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha.",
+      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: ALBA (nombre puesto por el motor a pedido del jugador, T1404): cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo carmesí y ojo azul hielo; cubre todo el cielo del cráter. \"No hay nada en este mundo que no pueda hacer.\" 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha. T1404: invocado en el centro del cráter ante todo Konoha.",
       "mundo": "naruto"
     }
   ],

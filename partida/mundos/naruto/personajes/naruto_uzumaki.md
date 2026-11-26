@@ -40,3 +40,4 @@ ESTADO: golpeado (nariz, boca, ojo hinchándose) (T1356).
 QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir al clan Uchiha, a Itachi y a los muertos por Akatsuki.
 - T1401 · "A todos" (repite en un susurro). Suelta la capa de Sasuke. En primera fila.
 - T1402 · Durante el discurso se lleva las manos a la cabeza; le tiemblan los hombros. Sakura le agarra el brazo.
+- T1404 · Se cae de espaldas y queda sentado, boca abierta, ante el dragón Alba.

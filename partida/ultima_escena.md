@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1401)
-
-a todos, tsunade, dejame hablar con todos quiero decirlo yo
-
-## RESPUESTA 1 (T1401)
-
-> a todos, tsunade, dejame hablar con todos quiero decirlo yo
-
-> —A todos. —Te vuelves hacia Tsunade—. Tsunade, déjame hablar con todos. Quiero decirlo yo.
-
-Naruto se queda con la boca abierta. Suelta la capa de Sasuke sin darse cuenta.
-
-—A todos —repite, en un susurro.
-
-Tsunade te mira un segundo. Después asiente una vez, seca, y se sube de un salto a la tarima del cartel.
-
-—¡SILENCIO!
-
-La voz le sale como un golpe. El murmullo de la multitud se corta de golpe, de adelante hacia atrás, hasta el último de los que están parados en el borde del cráter. Se oye el viento sobre las lonas. Un bebé llora en algún lado y la madre lo hace callar.
-
-—Hace tres días, Pain borró esta aldea del mapa —dice Tsunade—. Esta mañana, yo estaba en coma y Danzō se hacía llamar Hokage. Hoy a la tarde, Danzō está preso, la Hokage está despierta y Akatsuki ya no existe.
-
-Un murmullo corre por la multitud. Lo deja correr un segundo y levanta la mano. Se corta.
-
-—Todo eso lo hizo una sola persona. —Te señala con el mentón, sin mirarte—. Llegó esta mañana. Dice que es un viajero. Y tiene algo que decirles a todos.
-
-Se baja de la tarima y te deja el lugar.
-
-Subes.
-
-Desde arriba se ve todo. El cráter entero, las carpas, las casas de madera nuevas en el borde sur, los cinco rostros de piedra del otro lado. Y la gente. Cientos. Miles. Ninjas con vendas, viejos apoyados en bastones, chicos subidos a los hombros de sus padres para ver mejor. Todos en silencio. Todos mirándote.
-
-Abajo, en la primera fila: Naruto, con la cara mojada. Sasuke, a su lado, con los brazos cruzados. Sakura, con las manos todavía en la boca. Kakashi, que se adelantó hasta el frente sin que nadie lo viera. Gai, Lee, Neji, Hinata, Shikamaru. El viejo de ojos blancos. Los novatos. Tsunade, de brazos cruzados, al pie de la tarima.
-
-A tus pies, sobre el pañuelo, las siete piedras de río.
-
-Kase se sienta muy derecho en tu hombro, con la cola enroscada en tu cuello, y mira a la multitud como si fuera suya.
-
-Nadie dice nada. Esperan.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1401 · NARUTO · DÍA 1 · 15:05          ║
-║ Konoha · centro del cráter · sobre la tarima ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Hablarle a la aldea                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1402)
+## COMANDO 1 (T1402)
 
 Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
 
-## RESPUESTA 2 (T1402)
+## RESPUESTA 1 (T1402)
 
 > Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
 
@@ -121,11 +64,11 @@ Detrás de él, mil caras te miran. Esperando.
 
 ---
 
-## COMANDO 3 (T1403)
+## COMANDO 2 (T1403)
 
 quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
 
-## RESPUESTA 3 (T1403)
+## RESPUESTA 2 (T1403)
 
 > quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
 
@@ -184,4 +127,57 @@ Neji desactiva el Byakugan. Le tiembla la voz.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:10, centro del cráter. "Quiero que lo miren. Todos." Facundo creó 7 Esferas del Dragón con todo su poder (Dende): cristal naranja con estrellas rojas 1-7, flotando en círculo frente a él. Temblor por todo el cráter, el monumento suelta polvo. Nadie siente chakra (Velo); todos lo ven. Silencio total. Neji: "No tienen chakra. Y aun así, es lo más vivo que vi en mi vida." Energía 81%. Dragón sin nombre aún (3 deseos). Facundo puede actuar.
+## COMANDO 3 (T1404)
+
+cereale vos el nombre, sal (el nombre que le pongas)
+
+## RESPUESTA 3 (T1404)
+
+> cereale vos el nombre, sal (el nombre que le pongas)
+
+Te pones de pie frente a las siete esferas. Levantas una mano.
+
+> —¡Sal, Alba!
+
+Las siete estrellas rojas se encienden al mismo tiempo.
+
+La luz sube. No hacia los costados: hacia arriba, en una columna naranja y dorada que sale del centro del círculo y atraviesa el cielo hasta las nubes. El sol de la tarde se apaga. Todo el cráter se pone oscuro de golpe, como si fuera de noche, y el viento se levanta, frío, enorme, en remolino, y arranca las lonas de las carpas más cercanas.
+
+La gente grita. Hay quien se tira al suelo. Hay quien sale corriendo. La mayoría se queda clavada en el lugar, mirando para arriba.
+
+De la columna de luz sale algo.
+
+Una cabeza primero. Grande como una casa. Con cuernos curvos, largos, de un blanco nacarado, y una melena de fuego naranja que le cae por el cuello como si estuviera viva. Después el cuello, largo, cubierto de escamas doradas que brillan como brasas. Y después el cuerpo, que no termina nunca, que se enrosca y se enrosca sobre el cráter entero, por encima de las carpas, por encima de la tarima, por encima de los cinco rostros de piedra del monumento, hasta tapar el cielo de un borde al otro.
+
+El dragón abre los ojos.
+
+Uno es rojo carmesí. El otro, azul hielo.
+
+Kase, en tu hombro, levanta la cabeza y lo mira. No bufa. No se eriza. Se le arquea apenas la punta de la cola, como cuando reconoce algo.
+
+En el suelo, nadie respira. Naruto se cayó de espaldas y se quedó sentado, con la boca abierta. Lee se arrodilló. Akamaru se escondió entero debajo de Kiba. Sasuke está de pie, inmóvil, con el Sharingan encendido sin querer, mirando hacia arriba. Tsunade tiene las dos manos sobre la boca.
+
+El dragón baja la cabeza, despacio, hasta que la tiene a unos metros de ti. Te mira. Su aliento es tibio y huele a madera quemada y a lluvia.
+
+Cuando habla, la voz no sale de su boca. Sale del aire, del suelo, de todas partes a la vez, y la oye todo Konoha.
+
+—YO SOY ALBA. EL QUE ME LLAMÓ ME DIO LA VIDA, Y A ÉL LE RESPONDO. —Los ojos rojo y azul brillan—. PIDE TRES DESEOS, Y LOS CUMPLIRÉ. CUALQUIERA. NO HAY NADA EN ESTE MUNDO QUE NO PUEDA HACER.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1404 · NARUTO · DÍA 1 · 15:11          ║
+║ Konoha · centro del cráter · ALBA            ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Pedir los tres deseos              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:11, centro del cráter. Facundo: "¡Sal, Alba!" (nombre del motor, a pedido). El cielo se oscurece; surge ALBA: cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo y ojo azul; cubre el cráter entero. Kase lo reconoce. Konoha aterrada y maravillada. Alba: "Yo soy Alba... Pide tres deseos, y los cumpliré. Cualquiera. No hay nada en este mundo que no pueda hacer." Facundo tiene que pedir los deseos.

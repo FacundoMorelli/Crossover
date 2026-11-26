@@ -15,3 +15,4 @@
 - T1401 · Día 1 15:05 · ANUNCIO PÚBLICO DE LA HOKAGE ante todo Konoha: Danzō preso, Akatsuki terminado, todo obra del viajero del gato.
 - T1402 · Día 1 15:08 · DISCURSO DEL VIAJERO en el centro del cráter: promete revivir a los muertos por Akatsuki y Danzō y reconstruir Konoha. Llanto y conmoción. Un jōnin lo desafía: "¿Cómo?"
 - T1403 · Día 1 15:10 · El viajero convirtió siete piedras en esferas de luz frente a todo Konoha; tembló el cráter entero y el monumento soltó polvo.
+- T1404 · Día 1 15:11 · Un dragón gigante, Alba, cubrió el cielo de Konoha. Se vio desde lejos (oscureció el cielo en pleno día).

@@ -64,3 +64,4 @@ RELACIÓN CON FACUNDO (T1384): empieza a confiar.
 RELACIÓN CON NARUTO: reencuentro.
 - T1402 · Durante el discurso mira a Facundo desde abajo; se le moja el ojo por primera vez.
 - T1403 · No se aparta; mira las Esferas inmóvil, con el ojo mojado.
+- T1404 · De pie, inmóvil, con el Sharingan encendido sin querer, mirando a Alba.
