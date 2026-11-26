@@ -59,3 +59,4 @@ QUÉ SABE (T1381): por Homura y Koharu, la verdad de la masacre Uchiha (golpe de
 PROMESA (T1383): juicio público a Danzō; devolver los ojos Uchiha a Sasuke tras el juicio.
 - T1384 · Acepta a Sasuke bajo su responsabilidad: sin salir de la aldea sin permiso, sin buscar a Danzō, responder ante los de la Nube a su lado. "Claro. Tres más. ¿Por qué no?" "¿Hay algo más que me hayas traído hoy y todavía no me dijiste, Facundo?"
 - T1385 · "El que falta. Como quien sale a comprar pan." "Ve. Tráelos. Y esta noche te quiero en la carpa de la colina." "Un hombre tiburón. Perfecto."
+- T1386 · "Tres. Me dijiste tres, y son tres." "Uno de la Niebla con la espada de Zabuza, una pelirroja que huele a laboratorio de Orochimaru y... eso." "Facundo, ¿dónde se supone que meto a toda esta gente?"

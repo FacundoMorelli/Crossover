@@ -1384,3 +1384,4 @@ T1382 · NARUTO · Carpa de mando · Mano en el hombro de Sasuke: se apaga el Su
 T1383 · NARUTO · Carpa de mando · Tsunade: Danzō será juzgado ante todos; si lo matas, se pierde la verdad; los ojos se devolverán al clan. Sasuke apaga el Mangekyō. A Facundo: "¿Los revivirías con sus ojos?"
 T1384 · NARUTO · Carpa de mando · "Sí." Sasuke: "Me quedo. En Konoha." COPIA el Sharingan y técnicas de Sasuke (+2.000 EXP). Su equipo está en la cueva. Tsunade: "¿Hay algo más que me hayas traído hoy?"
 T1385 · NARUTO · Carpa de mando → cueva · "Voy por sus compañeros y después por el Akatsuki que falta." Sasuke: faltan Zetsu y Kisame. Vuelve a la cueva. Karin: "¿Dónde está Sasuke?" Suigetsu: "Volviste solo."
+T1386 · NARUTO · Cueva → carpa de mando · "Vienen conmigo; Sasuke se queda hasta el juicio." Jūgo acepta, Karin llora, Suigetsu suspira. Teletransporte a la carpa de mando. Tsunade: "¿Dónde meto a toda esta gente?"

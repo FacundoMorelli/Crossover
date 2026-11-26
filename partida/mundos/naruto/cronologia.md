@@ -35,3 +35,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1381 · Día 1 13:28 · Homura y Koharu confiesan ante la Hokage y Sasuke la verdad de la masacre Uchiha (canon: nunca ante Sasuke).
 - T1383 · Tsunade anuncia juicio público a Danzō (ante Señor Feudal, consejo y aldea) y que devolverá los ojos Uchiha a Sasuke.
 - T1384 · Día 1 13:35 · Sasuke regresa a Konoha por voluntad propia. Taka espera en la cueva del norte.
+- T1386 · Taka (Suigetsu, Karin, Jūgo) llega a Konoha con Facundo.

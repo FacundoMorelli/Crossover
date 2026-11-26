@@ -124,3 +124,5 @@
 - Facundo · T1383 · Sasuke le pregunta en voz baja (solo Facundo lo oye) si revivirá a su clan con sus ojos.
 - Tsunade, Homura, Koharu · T1384 · por Facundo: "Sí", revivirá al clan Uchiha con sus ojos (lo oyen). Sasuke anuncia que se queda en Konoha. Por Sasuke: Taka (3) está en una cueva al norte; Facundo sabe dónde.
 - Facundo, Tsunade, Homura, Koharu · T1385 · por Sasuke: Akatsuki que quedan: Zetsu y Kisame Hoshigaki (espada que come chakra); Tobi mandó a Kisame a otra cosa.
+- Taka · T1386 · por Facundo: Sasuke está bien y se quedará en Konoha hasta el juicio de Danzō.
+- Tsunade, Homura, Koharu, Sasuke · T1386 · ven llegar a Taka con Facundo por teletransporte.
