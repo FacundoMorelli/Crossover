@@ -266,3 +266,4 @@
 - Robin · T1442 · Ve a Facundo aparecer de la nada en su cuarto de Baltigo (teletransportación). Nadie más en la base lo vio llegar.
 - Dragon · (Día ~60) · Por Corvin: Facundo liberó Tequila Wolf, quiere visitar a Robin, promete no revelar la isla.
 - Facundo · T1444 · Por Robin: respuesta de Dragon ("Si encuentra la isla sin que nadie se la diga, que venga"); Dragon está en la torre de arriba de la base.
+- Revolucionarios del pasillo de Baltigo (~15), Koala · T1446 · Por el cartel y el diario de Marineford: lo reconocen como Ojos de Eclipse. Lo ven salir del cuarto de Robin con el gato a las 06:20. Nadie sabe cómo entró.

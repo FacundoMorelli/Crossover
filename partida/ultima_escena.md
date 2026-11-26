@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1443)
-
-me acerco y le doy un beso, nada me puede parar si es para verte a ti
-
-## RESPUESTA 1 (T1443)
-
-> me acerco y le doy un beso, nada me puede parar si es para verte a ti
-
-Cruzas el cuarto en tres pasos, entre las pilas de libros.
-
-Robin no alcanza a levantarse de la silla. Te agachas, le tomas la cara con una mano y la besas.
-
-Ella se queda quieta medio segundo. Después te agarra del cuello del sobretodo con las dos manos, fuerte, y te devuelve el beso como si quisiera comprobar que eres de verdad, que no eres otra de las cosas raras que pasan cerca tuyo. Huele a tinta y a polvo blanco.
-
-Kase baja de tu hombro al escritorio de un salto, pisa el libro abierto sin ningún respeto y se sienta encima.
-
-Cuando se separan, Robin no te suelta el sobretodo.
-
-> —Nada me puede parar si es para verte a ti.
-
-Robin se ríe. Bajito, con la frente apoyada contra la tuya.
-
-—Eso suena a algo que diría Luffy. —Te mira a los ojos, de cerca: el rojo, el azul—. Aunque cuando lo dices tú, da un poco de miedo. Porque es verdad.
-
-Te suelta el sobretodo, despacio, y te pasa los dedos por la cicatriz del ojo, como si contara algo.
-
-—Dos meses —dice—. Aquí nadie sabe nada de ti, salvo lo que sale en los diarios. Corvin me trae todos los que llegan. Te busco en cada uno. —Mira de reojo hacia la puerta, que está cerrada con una tranca de madera—. Y si alguien entra ahora y te ve en mi cuarto, a la medianoche, en la base más secreta del mundo, va a haber un problema muy grande.
-
-No parece preocupada. Parece divertida.
-
-Kase, sentado sobre el libro, bosteza.
-
-╔══════════════════════════════════════════════╗
-```
-║ TURNO 1443 · ONE PIECE · DÍA ~120 · 00:10    ║
-║ Baltigo · base revolucionaria · cuarto de    ║
-║ Robin                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sentado sobre el libro de Robin        ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-
-```
-
----
-
-## COMANDO 2 (T1444)
+## COMANDO 1 (T1444)
 
 que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
 
-## RESPUESTA 2 (T1444)
+## RESPUESTA 1 (T1444)
 
 > que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
 
@@ -101,11 +51,11 @@ Te mira con esa calma suya, con un brillo en los ojos.
 
 ---
 
-## COMANDO 3 (T1445)
+## COMANDO 2 (T1445)
 
 yy me gusta mucho mas la idea que me vean todos sin que me conozcan, pero tsmbien quiero quedarme contigo le doy un beso y la empiezo a besar mas fuerte
 
-## RESPUESTA 3 (T1445)
+## RESPUESTA 2 (T1445)
 
 > yy me gusta mucho mas la idea que me vean todos sin que me conozcan, pero tsmbien quiero quedarme contigo le doy un beso y la empiezo a besar mas fuerte
 
@@ -161,4 +111,92 @@ Robin nota que despertaste. No deja de leer.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:10, Baltigo, cuarto de Robin. Noche juntos (fundido). Amanece; la base se despierta. Robin: "Buenos días. Ya es una hora decente." Objetivo: conocer a Dragon (Facundo quiere que lo vean todos sin conocerlo). Facundo puede actuar.
+## COMANDO 3 (T1446)
+
+Buenos dias amor, quiero ir a conocer a dragon
+
+## RESPUESTA 3 (T1446)
+
+> Buenos dias amor, quiero ir a conocer a dragon
+
+> —Buenos días, amor. Quiero ir a conocer a Dragon.
+
+Robin cierra el libro sobre el dedo, para no perder la página. La mano de la pared se deshace en pétalos.
+
+—Ya me imaginaba. —Te mira desde tu pecho, con el pelo negro desordenado sobre la cara—. Ni siquiera pediste el desayuno.
+
+Se levanta. Se viste sin apuro, con la misma ropa de la noche anterior y el abrigo largo, de un tono verde oscuro, como el que usan todos en esa base. Se ata el pelo. Junta del suelo los libros caídos, los apila contra la pared y pone encima, con cuidado, el que estaba leyendo.
+
+Kase baja del alféizar y se te sube al hombro antes de que se lo pidas.
+
+Robin saca la tranca de madera de la puerta. Se detiene un segundo con la mano en el picaporte y te mira de arriba abajo: el pelo blanco y azul, los ojos, la cicatriz, el gato.
+
+—No hay forma de que pases desapercibido —dice—. Te gusta eso, ¿verdad?
+
+Abre.
+
+El pasillo es largo, de piedra blanca, con ventanas angostas por las que entra el sol de la mañana en franjas. Hay gente. Bastante. Hombres y mujeres con abrigos y vendas, cargando cajas, papeles, fusiles; dos que bajan una escalera discutiendo sobre un mapa; uno sentado en el suelo, limpiando una pistola.
+
+El primero que te ve es el de la pistola. Levanta la vista, te ve salir del cuarto de Robin detrás de ella, y se queda quieto con el trapo en la mano.
+
+Después te ve el resto.
+
+El pasillo se va callando de a poco, de adelante hacia atrás, como cuando alguien tira una piedra en un charco. Los dos del mapa dejan de discutir. Una mujer con una caja se frena en seco y el que viene detrás choca contra ella.
+
+—Ese pelo...
+
+—El gato. Mira el gato.
+
+—Es Ojos de Eclipse. El de Marineford. El del cadalso.
+
+—¿Cómo entró? ¿Quién lo dejó entrar?
+
+—Salió del cuarto de Nico Robin.
+
+—...Ah.
+
+Nadie saca un arma. Nadie se mueve. Te miran pasar como se mira pasar una tormenta: sin saber si va a romper algo o no.
+
+Robin camina delante de ti, tranquila, sin apurarse, como si llevara de paseo a un invitado cualquiera. Llegan al pie de una escalera de caracol que sube hacia la torre.
+
+Y en el primer escalón, bajando a las corridas con una pila de carpetas contra el pecho, una chica de pelo anaranjado corto, gorra y abrigo, que se frena de golpe al verlos.
+
+—¡Robin-san, buenos días! El informe de...
+
+Te ve.
+
+Las carpetas le resbalan un poco del pecho. Las ataja.
+
+Mira tu cara. Mira a Kase. Mira a Robin. Vuelve a mirar tu cara.
+
+—...¿Quién es él? —pregunta. Y después, más bajo, abriendo mucho los ojos—: No. Espera. Yo te vi en el diario.
+
+```
+╔══════════════════════════════════════════════╗
+║ KOALA                                        ║
+║ Ejército Revolucionario                      ║
+║ PODER: Karate de los Gyojin                  ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: tú, x100 o más          ║
+║ COPIABLE · MISIÓN: BAJA                      ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1446 · ONE PIECE · DÍA ~121 · 06:24    ║
+║ Baltigo · base revolucionaria · pie de la    ║
+║ escalera de la torre                         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Conocer a Dragon                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:24, Baltigo, pie de la escalera de la torre de Dragon. Los revolucionarios lo reconocieron. Koala lo frena: "Yo te vi en el diario." Facundo puede responder.
