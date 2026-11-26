@@ -264,3 +264,5 @@
 - Facundo · T1441 · Por Shakky: Rayleigh se llevó a Luffy a Rusukaina (Calm Belt, cerca de Amazon Lily) el Día 57 a la noche; no volvió a Sabaody desde entonces.
 - Shakky · T1442 · Ve a Facundo desaparecer de su bar de golpe con el gato (teletransportación). Sabe que fue a ver a "otra persona".
 - Robin · T1442 · Ve a Facundo aparecer de la nada en su cuarto de Baltigo (teletransportación). Nadie más en la base lo vio llegar.
+- Dragon · (Día ~60) · Por Corvin: Facundo liberó Tequila Wolf, quiere visitar a Robin, promete no revelar la isla.
+- Facundo · T1444 · Por Robin: respuesta de Dragon ("Si encuentra la isla sin que nadie se la diga, que venga"); Dragon está en la torre de arriba de la base.

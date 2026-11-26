@@ -8,3 +8,5 @@ TASACIÓN: sin datos.
 ESTADO: activo
 - T391 · A "¿quién eres?": "Alguien que tiene curiosidad por ver qué hacen ustedes con el mar." Desaparece en el viento.
 - T799 · Facundo describe la cara de Dragon (alto, capa verde, tatuaje rojo) y su frase de Loguetown, delante de Garp y la tripulación.
+- (Día ~60, fuera de escena) · Por Corvin, supo del pedido de Facundo en Tequila Wolf. Respuesta: "Si encuentra la isla sin que nadie se la diga, que venga."
+- T1444 · Día ~120 · Está en Baltigo, esta semana sin salir; de noche, en la torre de arriba, mirando mapas.

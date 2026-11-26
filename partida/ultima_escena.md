@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1441)
-
-hola shakky, como esta el viejo?
-
-## RESPUESTA 1 (T1441)
-
-> hola shakky, como esta el viejo?
-
-> —Hola, Shakky. ¿Cómo está el viejo?
-
-Shakky se ríe por la nariz, sin sacarse el cigarrillo de la boca.
-
-Deja el vaso que estaba secando, toma otro de la repisa y te sirve ron sin preguntarte. Después saca un platito de debajo de la barra, le pone leche y lo empuja hasta el borde, del lado de Kase.
-
-Kase te baja del hombro a la barra de un salto. Olfatea el platito. Mira a Shakky con el ojo rojo y el ojo azul, como si le estuviera tomando examen, y después se agacha y toma.
-
-—La primera va por la casa —dice Shakky—. La información no. Pero hoy estoy de buen humor.
-
-Apoya los codos en la barra.
-
-—El viejo se fue esa misma noche. La de Marineford, cuando desapareciste por esa puerta tuya. Se llevó al chico del sombrero de paja a Rusukaina, una isla del Calm Belt, cerca de la isla de las mujeres. Bestias del tamaño de un barco, el clima cambia cada día... Un lugar perfecto para que a uno lo maten o para hacerse muy fuerte. —Suelta el humo hacia el techo—. No volvió desde entonces. Y no escribe. Nunca escribió. Cuarenta años y nunca una carta.
-
-Lo dice sin enojo. Casi con cariño.
-
-—Pero está vivo. A ese viejo no lo mata nada. Y si el chico sigue entero, es porque Ray todavía no se aburrió de él.
-
-Te mira un rato, con los ojos entrecerrados detrás del humo. Mira tu cara, el pelo, la cicatriz. Después mira a Kase, que se está lamiendo la leche de los bigotes.
-
-—Dos meses sin aparecer, y lo primero que preguntas es por mi viejo. Qué educado. —Sonríe apenas—. Dime, chico del gato. ¿Viniste por él... o por otra persona?
-
-╔══════════════════════════════════════════════╗
-```
-║ TURNO 1441 · ONE PIECE · DÍA ~120 · 00:07    ║
-║ Archipiélago Sabaody · bar de Shakky         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la barra, tomando leche             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-
-```
-
----
-
-## COMANDO 2 (T1442)
+## COMANDO 1 (T1442)
 
 por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
 
-## RESPUESTA 2 (T1442)
+## RESPUESTA 1 (T1442)
 
 > por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
 
@@ -116,11 +69,11 @@ Después sonríe. Despacio.
 
 ---
 
-## COMANDO 3 (T1443)
+## COMANDO 2 (T1443)
 
 me acerco y le doy un beso, nada me puede parar si es para verte a ti
 
-## RESPUESTA 3 (T1443)
+## RESPUESTA 2 (T1443)
 
 > me acerco y le doy un beso, nada me puede parar si es para verte a ti
 
@@ -166,4 +119,52 @@ Kase, sentado sobre el libro, bosteza.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~120 00:10, Baltigo, cuarto de Robin. Beso. Robin divertida: si alguien entra y lo ve, problema grande. Puerta trancada. Kase sobre el libro. Facundo puede responder.
+## COMANDO 3 (T1444)
+
+que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
+
+## RESPUESTA 3 (T1444)
+
+> que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
+
+> —Que me vean. No creo que tengan problema. No me parecería malo conocer a Dragon.
+
+Robin te mira un momento en silencio. Después apoya el codo en el escritorio y la mejilla en la mano, como hace cuando un texto le resulta más interesante de lo que esperaba.
+
+—Claro que no te parecería malo. —Sonríe—. A ti nada te parece malo.
+
+Se agacha, junta el lápiz del suelo y lo deja sobre el escritorio, al lado de Kase, que no se mueve del libro.
+
+—Corvin le contó lo que pediste en Tequila Wolf. Que querías venir a verme y que no ibas a decirle a nadie dónde queda la isla. —Hace una pausa—. Dragon lo escuchó sin decir nada, como hace siempre. Y después dijo: "Si encuentra la isla sin que nadie se la diga, que venga".
+
+Mira a su alrededor, al cuarto, a ti parado en medio de sus libros.
+
+—Supongo que la encontraste.
+
+Afuera, el viento golpea la ventana angosta y mete un poco más de polvo blanco. A lo lejos, en algún lugar de la fortaleza, se oyen pasos sobre la piedra: un guardia haciendo la ronda, que se alejan.
+
+—Está aquí, en la base. Esta semana no salió. Duerme poco; casi siempre está despierto a esta hora, en la torre de arriba, mirando mapas. —Robin se pone de pie y se acomoda el abrigo sobre los hombros—. Puedo llevarte ahora, a la medianoche, por un pasillo lleno de revolucionarios que no saben que entraste.
+
+Te mira con esa calma suya, con un brillo en los ojos.
+
+—O puedes quedarte aquí hasta mañana y conocerlo a una hora más decente.
+
+╔══════════════════════════════════════════════╗
+```
+║ TURNO 1444 · ONE PIECE · DÍA ~120 · 00:12    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sentado sobre el libro de Robin        ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~120 00:12, Baltigo, cuarto de Robin. Robin ofrece llevarlo a ver a Dragon (torre de arriba) ahora o mañana. Facundo puede decidir.
