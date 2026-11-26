@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1360)
-
-ah danzo? ehhh si, esta inconsciente y arrestado
-
-## RESPUESTA 1 (T1360)
-
-> ah danzo? ehhh si, esta inconsciente y arrestado
-
-> —¿Ah, Danzō? Eh... sí. Está inconsciente y arrestado.
-
-El silencio de la cueva cambia de peso.
-
-El enmascarado se queda quieto. Del todo. Ni siquiera le tiembla la capa.
-
-La cosa de la pared deja de reírse.
-
-—Eso no lo sabía —dice la mitad negra, despacio—. Hace dos días lo nombraron Hokage. Ayer seguía en su cargo.
-
-—¿Arrestado? —Suigetsu abre mucho los ojos y después se ríe—. ¡Ja! ¿El nuevo Hokage? ¿Quién arresta al Hokage? ¿Su abuela?
-
-Nadie se ríe con él.
-
-Sasuke da un paso hacia ti. Después otro. Tiene el chakra eléctrico corriéndole por los brazos sin control, chispeando contra la roca. A su lado, la chica de anteojos levanta una mano para detenerlo y no se anima a tocarlo.
-
-—Danzō es mío. —Lo dice con los dientes apretados, y la voz le sale ronca, como si viniera de muy lejos—. Él dio la orden. Él y los dos viejos del consejo. Mataron a mi clan entero y obligaron a mi hermano a cargar con todo. Y yo voy a ser el que lo mate.
-
-Las aspas de los ojos se le deforman. Se estiran, giran, cambian de forma.
-
-—¿Dónde lo tienen?
-
-El enmascarado levanta una mano, sin darse vuelta, hacia Sasuke. Sasuke no se detiene, pero tampoco da el siguiente paso.
-
-—Un momento, Sasuke. —La voz de la máscara ya no suena divertida. Suena atenta—. Hay una pregunta más interesante.
-
-El ojo rojo te mira por el agujero de la espiral.
-
-—Tsunade está en coma. Kakashi está muerto, o lo estaba. Y Danzō tiene a Raíz entera a su alrededor. —Inclina la cabeza—. ¿Quién lo arrestó?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1360 · NARUTO · DÍA 1 · 12:49          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1361)
+## COMANDO 1 (T1361)
 
 eh, yo quien mas?
 
-## RESPUESTA 2 (T1361)
+## RESPUESTA 1 (T1361)
 
 > eh, yo quien mas?
 
@@ -113,11 +58,11 @@ Detrás de Sasuke, el enmascarado se queda mirando. No hace nada para detenerlo.
 
 ---
 
-## COMANDO 3 (T1362)
+## COMANDO 2 (T1362)
 
 uso bogey y intercambio a tobi conmigo
 
-## RESPUESTA 3 (T1362)
+## RESPUESTA 2 (T1362)
 
 > uso bogey y intercambio a tobi conmigo
 
@@ -188,4 +133,59 @@ La espiral de la máscara empieza a girar sola. El aire alrededor de su cara se 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:49, cueva de Akatsuki. Facundo usó Boogie Woogie (palmada): cambió de lugar con Tobi. El Chidori de Sasuke le atravesó a Tobi el hombro izquierdo (su intangibilidad no llegó a tiempo del todo). Sasuke cortó el rayo. Taka en shock ("¡¿Madara?!"). Zetsu: "Cambió de lugar con él. Con una palmada." Misión de copia: Sasuke (que vuelva a Konoha por voluntad propia, ALTA). Tobi, herido: "Interesante. Muy interesante." La espiral de su máscara empieza a girar (Kamui). Facundo está al fondo, junto a Zetsu. Facundo puede actuar.
+## COMANDO 3 (T1363)
+
+interesante, ese sharingan se parece mucho a otro que conoci
+
+## RESPUESTA 3 (T1363)
+
+> interesante, ese sharingan se parece mucho a otro que conoci
+
+> —Interesante. Ese Sharingan se parece mucho a otro que conocí.
+
+La espiral de la máscara se detiene.
+
+No del todo. Se frena, como una rueda a la que le meten un palo, y el aire que se torcía alrededor de la cara del enmascarado se queda quieto, a medio girar.
+
+Durante un segundo, en la cueva solo se oye el goteo del agua y la sangre que le cae del hombro.
+
+—¿Ah, sí? —dice al fin.
+
+La voz es tranquila. Demasiado tranquila. No tiene el tono burlón del principio, ni el grave de hace un momento. No tiene ningún tono.
+
+—Hay muchos Sharingan en el mundo, viajero. —El ojo rojo detrás del agujero no parpadea—. Algunos están en las caras de los vivos. Otros, en frascos. Otros, por lo que dices, en el brazo de un viejo. —Inclina la cabeza—. Sería raro que no se parecieran.
+
+Sasuke gira la cabeza hacia el enmascarado. Lo mira, por primera vez desde que llegaste, con algo que no es rabia. Es una pregunta.
+
+El enmascarado no lo mira a él.
+
+—Zetsu.
+
+—Ya lo sé —contesta la mitad negra, y se hunde en la pared como si fuera agua, hasta desaparecer.
+
+La espiral de la máscara vuelve a girar. Esta vez más rápido, y no hacia adentro.
+
+Hacia ti.
+
+El aire alrededor de tu cuerpo empieza a torcerse. Lo sientes en la piel: un tirón suave, de todas partes a la vez, como si el espacio mismo quisiera doblarse sobre ti y tragarte hacia un punto detrás del ojo de la máscara. El borde del sobretodo se te deforma, se estira en espiral. A Kase se le eriza todo el pelo del lomo.
+
+—Algunas cosas —dice el enmascarado, mientras el remolino crece— es mejor que no las sepa nadie.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1363 · NARUTO · DÍA 1 · 12:50          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:50, cueva de Akatsuki. Facundo: "Ese Sharingan se parece mucho a otro que conocí." Tobi se frena; voz sin tono: "Hay muchos Sharingan en el mundo... Sería raro que no se parecieran." Sasuke lo mira con una pregunta. Tobi manda a Zetsu (se hunde en la pared). Usa Kamui sobre Facundo: el espacio se tuerce alrededor de su cuerpo para tragarlo. "Algunas cosas es mejor que no las sepa nadie." Kase erizado. Facundo tiene que reaccionar.

@@ -7,3 +7,4 @@ QUÉ SABE DE FACUNDO: nada.
 ESTADO: activo.
 - T1360 · "Eso no lo sabía. Hace dos días lo nombraron Hokage. Ayer seguía en su cargo."
 - T1362 · Facundo queda a su lado tras el cambio. Negro: "Cambió de lugar con él. Con una palmada." Blanco: "Con una palmada" (risita nerviosa).
+- T1363 · "Ya lo sé." Se hunde en la pared y desaparece (orden de Tobi; probablemente a vigilar o a avisar).

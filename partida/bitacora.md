@@ -1361,3 +1361,4 @@ T1359 · NARUTO · Cueva de Akatsuki · "Soy un viajero. Pasé por Konoha." Sasu
 T1360 · NARUTO · Cueva de Akatsuki · "Danzō está inconsciente y arrestado." Zetsu no lo sabía. Sasuke: "Danzō es mío. ¿Dónde lo tienen?" Tobi: "¿Quién lo arrestó?"
 T1361 · NARUTO · Cueva de Akatsuki · "Yo, ¿quién más?" Tobi: "Así que fuiste tú." Sasuke: "Me quitaste lo único que me quedaba." Chidori en lanza contra el pecho de Facundo. Tobi no interviene.
 T1362 · NARUTO · Cueva de Akatsuki · Boogie Woogie: cambia de lugar con Tobi. El Chidori de Sasuke le atraviesa el hombro a Tobi. Misión de copia: Sasuke (que vuelva a Konoha por voluntad propia). Tobi: "Muy interesante." Su máscara empieza a girar.
+T1363 · NARUTO · Cueva de Akatsuki · "Ese Sharingan se parece mucho a otro que conocí." Tobi se frena. Manda a Zetsu. Kamui sobre Facundo: "Algunas cosas es mejor que no las sepa nadie."

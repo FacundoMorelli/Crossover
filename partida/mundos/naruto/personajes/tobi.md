@@ -19,3 +19,5 @@ QUÉ SABE DE FACUNDO (T1361): por él, arrestó a Danzō. Lo considera amenaza s
 - T1362 · Facundo cambia de lugar con él (Boogie Woogie). Intenta volverse intangible, no llega del todo: el Chidori de Sasuke le atraviesa el hombro izquierdo. Sangra. "Interesante. Muy interesante." (voz sin juego). La espiral de la máscara empieza a girar (Kamui).
 ESTADO: herido (hombro izquierdo atravesado) (T1362).
 RELACIÓN CON FACUNDO: enemigo; lo considera una amenaza grave.
+- T1363 · Facundo insinúa que su Sharingan se parece a otro. Se frena; voz sin tono: "Hay muchos Sharingan en el mundo, viajero. Algunos están en las caras de los vivos. Otros, en frascos. Otros, por lo que dices, en el brazo de un viejo. Sería raro que no se parecieran." "Zetsu." Usa Kamui para tragar a Facundo: "Algunas cosas es mejor que no las sepa nadie."
+PODER VISTO POR FACUNDO (T1363): Kamui (absorción espacio-tiempo), intangibilidad parcial (T1362).

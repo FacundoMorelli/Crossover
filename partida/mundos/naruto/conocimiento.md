@@ -94,3 +94,4 @@
 - Tobi, Zetsu, Taka · T1360 · por Facundo: Danzō está inconsciente y arrestado. (No saben por quién ni dónde.)
 - Tobi, Zetsu, Taka · T1361 · por Facundo: él arrestó a Danzō.
 - Tobi, Zetsu, Taka · T1362 · vieron a Facundo cambiar de lugar con Tobi con una palmada (Boogie Woogie; lo creen una técnica espacio-temporal desconocida). Vieron a Tobi herido por el Chidori de Sasuke.
+- Tobi, Taka · T1363 · por Facundo: el Sharingan de Tobi "se parece mucho a otro que conoció". Tobi lo toma como amenaza a su identidad. Sasuke empieza a preguntarse.
