@@ -20,3 +20,5 @@ PODER VISTO POR FACUNDO: Chidori (lanza), Mangekyō. MISIÓN DE COPIA (T1362): q
 - T1363 · Mira a Tobi con una pregunta (no con rabia) cuando Facundo dice que su Sharingan se parece a otro.
 - T1364 · "¿Kakashi? ¿El ojo de Kakashi?" "Tú me dijiste que eras Madara Uchiha." Tobi lo agarra de la muñeca y empieza a tragarlo con Kamui: "¡Suelta! ¡Responde! ¡¿Quién eres?!"
 QUÉ SABE (T1364): por Facundo, el Sharingan de Tobi es el mismo que el de Kakashi. Duda de que Tobi sea Madara.
+- T1365 · Liberado del Kamui; cae de rodillas con la muñeca lastimada. Mira a Tobi desmayado. Estira la mano hacia la máscara: "Quiero ver su cara."
+ESTADO: muñeca lastimada (T1365).

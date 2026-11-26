@@ -1363,3 +1363,4 @@ T1361 · NARUTO · Cueva de Akatsuki · "Yo, ¿quién más?" Tobi: "Así que fui
 T1362 · NARUTO · Cueva de Akatsuki · Boogie Woogie: cambia de lugar con Tobi. El Chidori de Sasuke le atraviesa el hombro a Tobi. Misión de copia: Sasuke (que vuelva a Konoha por voluntad propia). Tobi: "Muy interesante." Su máscara empieza a girar.
 T1363 · NARUTO · Cueva de Akatsuki · "Ese Sharingan se parece mucho a otro que conocí." Tobi se frena. Manda a Zetsu. Kamui sobre Facundo: "Algunas cosas es mejor que no las sepa nadie."
 T1364 · NARUTO · Cueva de Akatsuki · Esquiva el Kamui y aparece detrás de Tobi: su Sharingan es el mismo que el de Kakashi; la máscara solo tiene el ojo derecho. Sasuke: "Tú me dijiste que eras Madara." Tobi: "Hablas demasiado." Agarra a Sasuke y empieza a llevárselo con Kamui.
+T1365 · NARUTO · Cueva de Akatsuki · Desmaya a Tobi con Haki en la nuca antes de que se lleve a Sasuke. +1.000 F, +5.000 EXP. Sasuke liberado. "Quiero ver su cara."

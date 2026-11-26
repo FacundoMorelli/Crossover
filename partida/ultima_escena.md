@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1362)
-
-uso bogey y intercambio a tobi conmigo
-
-## RESPUESTA 1 (T1362)
-
-> uso bogey y intercambio a tobi conmigo
-
-Aplaudes.
-
-Una sola palmada, seca, que en la cueva suena como un disparo.
-
-El mundo se da vuelta.
-
-Ya no estás frente a Sasuke. Estás al fondo de la cueva, contra la pared, donde un segundo antes estaba el enmascarado, con Kase en el hombro y la cosa de la pared a medio metro, mirándote con los dos ojos de dos colores distintos.
-
-Y donde estabas tú, en la línea exacta del rayo, está él.
-
-Lo ves pasar en la cara del enmascarado, o en lo poco que se ve de ella: la sorpresa. Medio instante. La espiral naranja empieza a torcerse, la capa se le empieza a volver transparente, como si se le fuera a deshacer el cuerpo en el aire.
-
-No llega a tiempo.
-
-La lanza del Chidori le atraviesa el hombro izquierdo de lado a lado.
-
-El grito no le sale como grito: le sale como un gruñido ahogado detrás de la máscara. La sangre salpica la pared de la cueva. La capa negra con nubes rojas se le abre en un agujero humeante. Por un segundo, la mitad del cuerpo se le pone translúcida, la otra mitad no, y el rayo queda clavado en la parte que no alcanzó a desaparecer.
-
-Sasuke abre los ojos de golpe.
-
-Corta el Chidori. El rayo se apaga. El enmascarado se tambalea un paso hacia atrás, con la mano derecha apretada sobre el hombro, y la sangre le corre entre los dedos.
-
-—¡¿Madara?! —Suigetsu se queda con la boca abierta—. ¡¿Qué...?! ¡Estaba allá! ¡Estaba allá hace un segundo!
-
-La chica de anteojos se tapa la boca con las dos manos. El grandote de pelo naranja da un paso hacia atrás, por primera vez.
-
-La cosa de la pared, a tu lado, gira la cabeza muy despacio hacia ti.
-
-—Cambió de lugar con él —dice la mitad negra—. Con una palmada.
-
-—Con una palmada —repite la mitad blanca, con una risita nerviosa.
-
-Sasuke no te mira a ti. Mira el hombro del enmascarado. Mira su propia mano, todavía humeando.
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Sharingan, Mangekyō y técnicas de Sasuke     ║
-║ USUARIO: Sasuke Uchiha · Naruto              ║
-║                                              ║
-║ MISIÓN: Que Sasuke vuelva a Konoha por su    ║
-║ propia voluntad.                             ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-
-El enmascarado se endereza despacio. La sangre le gotea desde el hombro hasta el suelo de piedra, tap, tap, tap. El ojo rojo detrás del agujero ya no te mira con curiosidad.
-
-—Interesante —dice. La voz le sale más baja, más grave, sin nada de juego—. Muy interesante.
-
-La espiral de la máscara empieza a girar sola. El aire alrededor de su cara se tuerce, como agua que se va por un desagüe.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1362 · NARUTO · DÍA 1 · 12:49          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1363)
+## COMANDO 1 (T1363)
 
 interesante, ese sharingan se parece mucho a otro que conoci
 
-## RESPUESTA 2 (T1363)
+## RESPUESTA 1 (T1363)
 
 > interesante, ese sharingan se parece mucho a otro que conoci
 
@@ -133,11 +58,11 @@ El aire alrededor de tu cuerpo empieza a torcerse. Lo sientes en la piel: un tir
 
 ---
 
-## COMANDO 3 (T1364)
+## COMANDO 2 (T1364)
 
 aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
 
-## RESPUESTA 3 (T1364)
+## RESPUESTA 2 (T1364)
 
 > aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
 
@@ -194,4 +119,67 @@ La espiral de la máscara vuelve a girar, esta vez sobre sí misma. El cuerpo de
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:50, cueva de Akatsuki. Facundo esquivó el Kamui apareciendo detrás de Tobi y le dijo que su Sharingan derecho es el mismo que el izquierdo de Kakashi, y que su máscara solo tiene el agujero derecho. Tobi quieto. Sasuke: "¿El ojo de Kakashi? Tú me dijiste que eras Madara Uchiha." Tobi: "Hablas demasiado, viajero." Agarra la muñeca de Sasuke y empieza a llevárselo con Kamui (el brazo de Sasuke se deforma hacia la espiral). Sasuke: "¡Suelta! ¡¿Quién eres?!" Karin corre hacia él. Facundo puede actuar.
+## COMANDO 3 (T1365)
+
+dejo inconsciente antes que se vaya
+
+## RESPUESTA 3 (T1365)
+
+> dejo inconsciente antes que se vaya
+
+Le ves el borde.
+
+La mitad del cuerpo del enmascarado ya se está deshaciendo en la espiral, transparente, inalcanzable. Pero la otra mitad, la mano que aprieta la muñeca de Sasuke, el brazo, el hombro herido y el cuello, tiene que estar sólida para arrastrarlo. Si no, no podría agarrarlo.
+
+Ahí le pegas.
+
+El canto de la mano, envuelto en Haki azul intenso con vetas blancas, le cae en la nuca, justo debajo del borde de la máscara.
+
+Suena seco.
+
+La espiral se detiene de golpe, a medio girar. Todo lo que estaba deformándose vuelve a su forma de un tirón, como una goma que se suelta: el cuerpo del enmascarado, la capa, el brazo de Sasuke, que sale despedido del remolino y vuelve a ser un brazo. Sasuke cae de rodillas, agarrándose la muñeca.
+
+El enmascarado se queda de pie medio segundo más. El ojo rojo detrás del agujero gira una vez, despacio, como buscándote. Después se apaga.
+
+Cae de cara contra el suelo de piedra. La máscara naranja golpea la roca con un ruido hueco y no se rompe.
+
+No se mueve.
+
+[Derrotado: Tobi.]
+
+[+1.000 Fragmentos. +5.000 EXP.]
+
+La cueva queda en silencio. Solo se oye el agua que gotea en algún lado y la respiración agitada de Karin.
+
+Suigetsu se sienta en el suelo, despacio, como si le hubieran cortado los hilos.
+
+—Le pegaste a Madara —dice, con un hilo de voz—. Le pegaste a Madara y se cayó. Así nomás.
+
+Jūgo no dice nada. Se pone delante de Karin sin pensarlo.
+
+Kase baja de tu hombro, camina hasta el enmascarado tirado en el suelo, le huele la capucha y le da la espalda con la cola levantada, ofendido.
+
+Sasuke sigue de rodillas, con la muñeca apretada contra el pecho. Mira el cuerpo. Mira la máscara naranja en espiral, con el único agujero.
+
+Estira la mano sana, despacio, hacia la máscara.
+
+—Quiero ver su cara —dice, sin mirarte.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1365 · NARUTO · DÍA 1 · 12:50          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a Tobi                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:50, cueva de Akatsuki. Facundo desmayó a Tobi con un golpe de Haki en la nuca (en la parte sólida que agarraba a Sasuke). El Kamui se deshizo; Sasuke liberado, de rodillas, muñeca lastimada. TOBI INCONSCIENTE, boca abajo, máscara puesta (+1.000 F, +5.000 EXP). Suigetsu: "Le pegaste a Madara y se cayó." Jūgo protege a Karin. Kase huele a Tobi y le da la espalda. Sasuke estira la mano hacia la máscara: "Quiero ver su cara." Facundo puede actuar.

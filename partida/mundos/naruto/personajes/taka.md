@@ -12,3 +12,4 @@ ESTADO: activos.
 - T1361 · Suigetsu deja de reírse: "¿En serio?" Karin: "¡Sasuke! ¡No sabes qué es! ¡No le siento nada!"
 - T1362 · Suigetsu: "¡¿Madara?! ¡Estaba allá hace un segundo!" Karin se tapa la boca. Jūgo retrocede un paso por primera vez.
 - T1364 · Mudos. Karin corre hacia Sasuke cuando Tobi se lo empieza a llevar.
+- T1365 · Suigetsu se sienta en el suelo: "Le pegaste a Madara. Le pegaste a Madara y se cayó. Así nomás." Jūgo se pone delante de Karin.

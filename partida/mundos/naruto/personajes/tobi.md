@@ -23,3 +23,5 @@ RELACIÓN CON FACUNDO: enemigo; lo considera una amenaza grave.
 PODER VISTO POR FACUNDO (T1363): Kamui (absorción espacio-tiempo), intangibilidad parcial (T1362).
 - T1364 · Su Kamui no atrapa a Facundo (teletransporte detrás de él). Facundo le dice que su Sharingan derecho es el mismo que el izquierdo de Kakashi y que la máscara solo tiene el agujero derecho. Quieto, sin darse vuelta. "Hablas demasiado, viajero." Agarra la muñeca de Sasuke y empieza a llevárselo con Kamui.
 QUÉ SABE DE FACUNDO (T1364): Facundo sabe (o sospecha) lo de su ojo y Kakashi. Amenaza máxima.
+- T1365 · Facundo le pega en la nuca con el canto de la mano envuelto en Haki (en la parte sólida, la que agarraba a Sasuke). El Kamui se deshace. Cae de cara, inconsciente. La máscara no se rompe.
+ESTADO: INCONSCIENTE en la cueva del norte, máscara puesta, hombro izquierdo atravesado (T1365).

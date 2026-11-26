@@ -92,3 +92,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1348 · Naruto (mundo Naruto) intenta acariciarlo; Kase lo mira de arriba abajo y lo ignora lamiéndose una pata.
 - T1350 · En Ichiraku (Naruto), come cerdo en cubitos que le da Ayame: primera vez en el día que acepta comida de alguien que no es Facundo.
 - T1351 · Deja de comer y mira a Naruto mientras habla de Jiraiya; no se le acerca, pero no le da la espalda.
+- T1365 · Baja del hombro, huele la capucha de Tobi desmayado y le da la espalda con la cola levantada.
