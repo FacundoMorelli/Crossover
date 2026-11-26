@@ -33,3 +33,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1340 · "Lo sé. ¿Lo quiere vivo?" Mano en la banda del ojo.
 - T1341 · Camina a la derecha de Tsunade hacia las carpas de Raíz.
 - T1342 · Retrocede medio paso. Se le abre el Sharingan solo. "Shisui. Itachi. Fugaku. Mikoto... Son todos ellos." Ataca a Raíz con la mano llena de rayos.
+- T1343 · Deja que se apague el rayo: todo Raíz cae.

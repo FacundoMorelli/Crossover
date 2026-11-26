@@ -9,3 +9,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: por Tsunade: lo del brazo de Danzō (sin decir que lo dijo Facundo, pero Yamato lo mira). 
 ESTADO: con Tsunade, yendo por Danzō.
 - T1342 · Se pone delante de Tsunade cuando Raíz ataca.
+- T1343 · Se da vuelta y mira a Facundo por encima del hombro de Tsunade.

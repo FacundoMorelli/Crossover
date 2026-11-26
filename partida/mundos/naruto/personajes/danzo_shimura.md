@@ -22,3 +22,5 @@ QUÉ SABE DE FACUNDO (T1341): deduce que Facundo le contó a Tsunade lo del braz
 - T1342 · Se quita vendas, correas y el brazalete: brazo blanco como madera, cara del Primero Hokage en el hombro, DIEZ Sharingan. "Hice lo que había que hacer. Konoha no podía darse el lujo de enterrar esos ojos. Tú dormías, Tsunade. Siempre dormiste." "El viajero sabe demasiado para alguien que no envió nadie." Ordena a Raíz atacar. Lanza "¡Estilo Viento: Ráfagas del Vacío!" contra Facundo.
 PODER VISTO POR FACUNDO: brazo con 10 Sharingan y células del Primero; Estilo Viento (Ráfagas del Vacío).
 ESTADO: arrestado por orden de la Hokage; resiste (T1342).
+- T1343 · Sus Ráfagas del Vacío no le hacen nada a Facundo. Ve caer a todo Raíz por el Haki del Rey; él queda de pie, temblando, sudando. "No es chakra. No es genjutsu. Ninguno de mis ojos lo vio venir." Se muerde el pulgar para invocar.
+QUÉ PODERES DE FACUNDO VIO (T1343): resistencia absoluta a sus Ráfagas; Haki del Rey (presión invisible que desmaya).

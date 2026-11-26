@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1340)
-
-estoy seguro
-
-## RESPUESTA 1 (T1340)
-
-> estoy seguro
-
-> —Estoy seguro.
-
-Tsunade te sostiene la mirada un segundo más. Después asiente una sola vez, seca, como quien cierra una puerta.
-
-—Bien.
-
-Se endereza. Cuando vuelve a hablar, ya no es la mujer que se despertó en camisón esta mañana. Es la voz de alguien que dio órdenes en dos guerras.
-
-—Homura. Koharu. Ustedes no salen de esta carpa hasta que yo diga. Ni para ir al baño. —Los dos viejos abren la boca y ella levanta una mano—. No es un castigo. Es para que nadie pueda decir después que fueron ustedes los que le avisaron.
-
-Koharu cierra la boca. Homura se pone los anteojos, despacio, y no dice nada.
-
-—Shizune. Busca a Yamato, a Gai y a Ibiki. Que vengan aquí. Sin correr, sin gritar, como si fuera para hablar de casas. —Shizune asiente y sale, con Tonton apretado contra el pecho—. Y que los cuatro ANBU de la puerta se queden donde están. Esos son míos.
-
-Mira a Kakashi.
-
-—Kakashi. Danzō tiene a su gente desparramada por todo el campamento, y cuando vea que se mueven los míos, se va a dar cuenta. No podemos esperar a mañana. Si llega al País del Hierro y se sienta en la Cumbre como Hokage, después no lo saca nadie.
-
-—Lo sé. —Kakashi ya no tiene las manos en los bolsillos. Tiene una en la banda del ojo—. ¿Lo quiere vivo?
-
-—Vivo. Quiero ver ese brazo con mis propios ojos, y quiero que me diga a la cara de dónde salió cada uno. —Se le aprieta la mandíbula—. Y después quiero que lo diga delante del Señor Feudal.
-
-Rodea la mesa. Pasa junto a ti y se detiene, igual que a la mañana en la carpa de la colina, muy cerca. Baja la voz.
-
-—Afuera hay gente de Raíz siguiéndote, por tu propia boca. Si Danzō huele algo, lo primero que va a hacer es ir por quien se lo dijo. —Te mira de reojo—. Esta mañana me dijiste que sabes pelear.
-
-Se acomoda el abrigo de Hokage sobre los hombros.
-
-—Quiero que vengas conmigo cuando vaya por él.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1340 · NARUTO · DÍA 1 · 11:04          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común · vigilado por Raíz      ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1341)
+## COMANDO 1 (T1341)
 
 esta bien
 
-## RESPUESTA 2 (T1341)
+## RESPUESTA 1 (T1341)
 
 > esta bien
 
@@ -125,11 +70,11 @@ Lleva la mano izquierda despacio hacia el hombro derecho, donde la tela cae vac�
 
 ---
 
-## COMANDO 3 (T1342)
+## COMANDO 2 (T1342)
 
 miro
 
-## RESPUESTA 3 (T1342)
+## RESPUESTA 2 (T1342)
 
 > miro
 
@@ -190,4 +135,65 @@ Una lluvia de balas de aire comprimido, decenas, invisibles salvo por cómo defo
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:22, carpas de Raíz. Danzō se quitó las vendas del brazo: blanco como madera, cara del Primero en el hombro, DIEZ SHARINGAN. Kakashi (Sharingan abierto): "Shisui. Itachi. Fugaku. Mikoto... Son todos ellos." Yamato reconoce la cara del Primero. Tsunade lo arresta formalmente. Danzō: "Hice lo que había que hacer... el viajero sabe demasiado." Ordena a los ~30 de Raíz atacar: Gai, Kakashi (rayo), Yamato (raíces), Ibiki delante de Tsunade. Danzō lanza "¡Estilo Viento: Ráfagas del Vacío!" contra Facundo (pecho y cabeza). Facundo tiene que reaccionar.
+## COMANDO 3 (T1343)
+
+uso haki del rey para dormir a todos los de raiz y dejo que me peguen las balas
+
+## RESPUESTA 3 (T1343)
+
+> uso haki del rey para dormir a todos los de raiz y dejo que me peguen las balas
+
+No te mueves.
+
+Las balas de aire te dan de lleno. En el pecho, en los hombros, en la frente. Suenan como piedras contra un muro. El sobretodo se te llena de agujeros chicos y redondos, el pelo se te sacude hacia atrás, Kase cierra los ojos un segundo por el viento.
+
+Debajo del sobretodo, la piel ni se marca.
+
+Y mientras las balas te pegan, sueltas algo que no se ve.
+
+No es chakra. No es un sonido. Es una presión que sale de ti hacia afuera en un solo golpe, como una ola que nadie ve venir, y por un instante el aire de todo el lado oeste del cráter se pone pesado como el agua. Las lonas grises de las carpas se sacuden todas a la vez, hacia afuera. Algo cruje en el suelo bajo tus pies, una línea de grietas finas que se abre en círculo.
+
+Los de Raíz caen.
+
+Todos a la vez. Los que venían saltando desde los techos se desploman en el aire y caen como bolsas sobre las lonas. Los que estaban en las vigas resbalan. Los que estaban a punto de alcanzar a Gai se le caen a los pies, uno tras otro, como si se hubieran dormido de pie. Uno queda colgado de una viga de un brazo y después se suelta. A Fū se le ponen los ojos en blanco y se va hacia atrás, rígido. Torune cae de rodillas, después de cara, y los puntitos negros de su piel se le quedan quietos.
+
+En cinco segundos, treinta y dos personas de Raíz están en el suelo, desmayadas, con espuma en la boca algunos, respirando todos.
+
+Solo queda uno de pie entre las carpas grises.
+
+Danzō.
+
+Está apoyado en el bastón, con las piernas abiertas para no caerse. Le tiembla el brazo de los diez ojos. Le corre sudor por la sien, debajo de la venda. Los diez Sharingan te miran, todos, muy abiertos.
+
+Gai se queda con un puño en el aire, frente a un enemigo que ya no está de pie. Kakashi deja que los rayos de su mano se apaguen solos. Yamato tiene a los tres que había atrapado colgando de sus raíces, todos dormidos. Ibiki se da vuelta despacio y te mira por encima del hombro de Tsunade.
+
+Tsunade no dice nada. Tiene los ojos muy abiertos.
+
+[Derrotados: 30 agentes de Raíz, Fū Yamanaka, Torune Aburame.]
+
+[+200 Fragmentos. +600 EXP.]
+
+Danzō respira hondo, una vez. Te sigue mirando. Ya no hay frialdad en el ojo visible: hay cálculo, rápido, desesperado.
+
+—No es chakra —dice, ronco—. No es genjutsu. Ninguno de mis ojos lo vio venir.
+
+Se lleva el pulgar izquierdo a la boca y se lo muerde hasta sacar sangre.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1343 · NARUTO · DÍA 1 · 11:22          ║
+║ Konoha · lado oeste · carpas de Raíz         ║
+║ NIVEL 29 · EXP 296.480/320.000               ║
+║ FRAGMENTOS 112.169 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común · vigilado por Raíz      ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:22, carpas de Raíz. Facundo recibió las Ráfagas del Vacío sin daño (sobretodo agujereado) y con el Haki del Rey desmayó a 30 de Raíz, Fū y Torune (+200 F, +600 EXP). Solo Danzō sigue de pie, temblando: "No es chakra. No es genjutsu. Ninguno de mis ojos lo vio venir." Se muerde el pulgar (invocación). Facundo puede actuar.

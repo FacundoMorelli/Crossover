@@ -32,3 +32,4 @@ QUÉ SABE (T1339): por Facundo, Danzō tiene varios Sharingan en el brazo derech
 RELACIÓN CON FACUNDO (T1340): confianza; lo quiere a su lado.
 - T1341 · Cuenta todo en cuatro frases. "No vamos a escondernos. Soy la Hokage." Encabeza la marcha hacia las carpas de Raíz.
 - T1342 · "Danzō Shimura. Por los ojos del clan Uchiha, y por lo que sea que tienes en el hombro, quedas arrestado por orden de la Quinta Hokage." Ibiki se pone delante de ella.
+- T1343 · Ve caer a todo Raíz por algo invisible salido de Facundo; ojos muy abiertos.

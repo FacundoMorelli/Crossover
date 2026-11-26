@@ -1,13 +1,13 @@
 {
-  "turno": 1342,
+  "turno": 1343,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
   "hora": "Día 1, 11:22",
   "edad": 18,
   "nivel": 29,
-  "exp": 295880,
+  "exp": 296480,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 111969,
+  "fragmentos": 112169,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 96,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2086,6 +2086,14 @@
       "tipo": "duelo serio (Tercera Puerta); Facundo contenido",
       "fragmentos": 12,
       "exp": 200
+    },
+    {
+      "nombre": "30 agentes de Raíz + Fū Yamanaka + Torune Aburame",
+      "mundo": "naruto",
+      "turno": 1343,
+      "tipo": "Haki del Rey (desmayados)",
+      "fragmentos": 200,
+      "exp": 600
     }
   ],
   "viaje": {

@@ -40,3 +40,4 @@ COPIADO POR FACUNDO: Mokuton completo (T1322). Yamato no lo sabe.
 - T1323 · "No soy tu carcelero. Hace una hora quería serlo, pero ya no." Advierte: carpas grises del oeste (sin la hoja) son de Raíz, la gente de Danzō, "no les gusta que nadie mire". "Si Tsunade-sama te manda a buscar... no la hagas esperar. Hoy está de muy mal humor, y no contigo." "Si te pierdes, busca la casa con el estante para el gato."
 - T1341 · Llega a la carpa de mando; se le borra la sonrisa. Mira a Facundo un instante. Va con Tsunade por Danzō.
 - T1342 · Reconoce la cara del hombro de Danzō: "Es... la del Primero." Atrapa a tres de Raíz con raíces.
+- T1343 · Sus tres atrapados quedan dormidos colgando de las raíces.
