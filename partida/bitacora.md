@@ -1339,3 +1339,4 @@ T1337 · NARUTO · Carpa de mando · "Que lo haga." Fū intenta leerle la mente:
 T1338 · NARUTO · Carpa de mando · "No para nada. ¿Qué tienes debajo de ese brazo?" Danzō duda un segundo: "Una herida de guerra. Cada hombre tiene sus vendas." Raíz lo seguirá. Parte mañana a la Cumbre. Tsunade: "¿Y eso del brazo a qué vino?"
 T1339 · NARUTO · Carpa de mando · Revela: Danzō tiene varios Sharingan en el brazo. Kakashi: los ojos de la masacre Uchiha nunca se encontraron. Homura y Koharu: "No sabíamos lo del brazo." Tsunade: "¿Estás seguro?"
 T1340 · NARUTO · Carpa de mando · "Estoy seguro." Tsunade ordena: consejeros retenidos; Shizune busca a Yamato, Gai e Ibiki; Danzō vivo, hoy. A Facundo: "Quiero que vengas conmigo cuando vaya por él."
+T1341 · NARUTO · Carpas de Raíz · Llegan Yamato, Gai, Ibiki. Van todos por Danzō. Danzō los espera con Fū, Torune y ~30 de Raíz. "Te dije que no me pidieras que me quitara las vendas, viajero." Mano al broche del brazo.

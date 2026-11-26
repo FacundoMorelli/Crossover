@@ -17,3 +17,5 @@ RELACIÓN CON FACUNDO: desconfianza fría.
 QUÉ SABE DE FACUNDO (T1337): por Fū, su mente no se puede leer (no hay nada).
 - T1338 · Facundo acepta la vigilancia y le pregunta qué tiene bajo el brazo cubierto. Duda un segundo (se nota). "Una herida de guerra. De una de tantas. Nada que le importe a un viajero." "Cada hombre tiene sus vendas, Facundo Morelli. Yo no te pido que te quites las tuyas, y tú no me pidas que me quite las mías." "El viajero aceptó la vigilancia, delante de todos ustedes. Mi gente lo seguirá." "Mañana parto hacia el País del Hierro. El Raikage convocó a los cinco Kages. Ahí se va a decidir quién habla por Konoha."
 RELACIÓN CON FACUNDO (T1338): lo considera una amenaza.
+- T1341 · 11:21 · Frente a la carpa gris más grande, con Fū, Torune y ~30 de Raíz. "Mi gente vio a Shizune correr a buscar al jefe de interrogatorios. Supuse que no era por las casas." A Facundo: "Te dije que no me pidieras que me quitara las vendas, viajero." Lleva la mano al broche del hombro derecho.
+QUÉ SABE DE FACUNDO (T1341): deduce que Facundo le contó a Tsunade lo del brazo.

@@ -65,3 +65,6 @@
 - Raíz · T1338 · lo vigilará (Facundo aceptó, ante testigos).
 - Tsunade, Kakashi, Homura, Koharu, Shizune · T1339 · por Facundo: el brazo cubierto de Danzō tiene varios Sharingan. Kakashi lo vincula a los ojos desaparecidos de la masacre Uchiha. Nadie investiga cómo lo sabe Facundo (Kakashi pregunta una vez y lo deja).
 - Danzō · T1339 · NO sabe todavía que Facundo lo dijo (se había ido). Riesgo: Homura o Koharu podrían avisarle (motivo: lealtad vieja, miedo a lo de la masacre).
+- Yamato, Gai, Ibiki · T1341 · por Tsunade: Danzō tiene varios Sharingan en el brazo (ojos de la masacre Uchiha). Yamato intuye que lo dijo Facundo.
+- Danzō · T1341 · por Raíz (vieron a Shizune buscar a Ibiki): deduce que van por él y que Facundo habló del brazo.
+- Campamento · T1341 · vieron a la Hokage marchar con Kakashi, el forastero, Gai, Yamato e Ibiki hacia las carpas de Raíz.
