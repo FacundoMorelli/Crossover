@@ -8,3 +8,5 @@ ESTADO: vivo, en su casa (no visto aún).
 - T1412 · "Minato. Kushina." Naruto lo abraza: "¡Estás vivo, viejo idiota! ¡Te dije que no fueras solo!" Abraza a Naruto, Minato y Kushina: "Mis alumnos. Mis tontos, tontos alumnos." Ve a Tsunade: "Tsunade. Te ves..." Puñetazo: atraviesa la calle y agrieta una pared; nariz sangrando. Ella lo abraza llorando; él: "Perdón. Perdón, Tsunade." A Facundo: "Tú. Eres el del gato, ¿no?"
 QUÉ SABE DE FACUNDO: por la voz de Alba, quien lo revivió tiene un gato.
 ESTADO: vivo, nariz rota.
+- T1413 · "¿Sabes mi nombre? ¡El gran Jiraiya, el Sabio de los Sapos, autor de la exitosa saga Icha Icha...!" (codazo de Tsunade) "...el hombre que se calla." "Lo último que recuerdo antes de eso es el fondo de un lago en el País de la Lluvia, con seis varillas negras clavadas en el cuerpo." "Así que gracias, muchacho. De verdad." Le tiende la mano. "¿Tienes idea de cuántos libros se pueden escribir con eso? ¿Me contarías tu historia?"
+QUÉ SABE DE FACUNDO (T1413): por Facundo, sabe su nombre. Por la voz: lo revivió el del gato. Lo vio invocar al dragón (llegó tarde; vio el cielo).

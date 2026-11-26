@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1410)
-
-no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
-
-## RESPUESTA 1 (T1410)
-
-> no vuelvan a intentar algo como la última vez, el mundo cambió mucho desde que murieron, me teletransporto a minato y kushina, hola tienen a alguien que ver, me teletransporto a naruto sin esperar respuesta con elloz
-
-> —No vuelvan a intentar algo como la última vez. El mundo cambió mucho desde que murieron.
-
-Fugaku se queda inmóvil.
-
-Te mira. Tiene la mandíbula apretada, y durante un segundo se le enciende algo rojo en el fondo de los ojos. Después mira a Itachi, abrazado a Sasuke. Mira a Mikoto. Y lo rojo se le apaga solo.
-
-No contesta. Pero tampoco te sostiene la mirada.
-
-No esperas más. Te llevas dos dedos a la frente.
-
-La calle desaparece.
-
-Aparece una casa. Una sala chica, con piso de madera clara, una mesa baja, cortinas color durazno en la ventana. En la pared, un dibujo enmarcado, hecho por un niño: un remolino naranja. Huele a madera recién hecha y a algo dulce, como a té de flores. La luz de la tarde entra por la ventana.
-
-En medio de la sala hay dos personas de pie, muy juntas, de la mano.
-
-Un hombre joven, alto, de pelo rubio y desordenado y ojos azules, con un chaleco verde de jōnin. Y una mujer, también joven, de pelo rojo larguísimo que le cae hasta la cintura y ojos violetas, con un vestido sencillo y un delantal. Los dos te miran a la vez cuando apareces, sin moverse, con la cara de alguien que todavía está tratando de entender dónde está y por qué respira.
-
-La mujer se lleva la mano libre al vientre. Plano. Lo toca como si buscara algo que ya no está ahí.
-
-—¿Quién...? —empieza el hombre.
-
-> —Hola. Tienen a alguien que ver.
-
-No esperas a que contesten. Le apoyas una mano en el hombro a cada uno.
-
-—¡Oye, espera...! —alcanza a decir la mujer.
-
-La sala desaparece.
-
-Aparece la calle frente a la Torre del Hokage, el sol de la tarde, la multitud, el murmullo. A dos metros de ti, de espaldas, con la chaqueta naranja y negra, los hombros todavía temblando de tanto llorar por Sasuke, está Naruto.
-
-Se da vuelta al oírte aparecer. Tiene la cara mojada y sonríe.
-
-—¡Facundo! ¿Adónde te fuiste? Me...
-
-Se calla.
-
-Mira al hombre rubio. Mira a la mujer pelirroja. Se le van los ojos de uno a otro, una vez, dos.
-
-El hombre rubio también lo mira. Y se le abre la cara entera, de golpe, como si lo reconociera desde antes de verlo.
-
-La mujer pelirroja se suelta de la mano del hombre. Da un paso hacia Naruto. Le tiembla la boca.
-
-—¿Naruto? —dice, muy bajito.
-
-Detrás, entre la gente, Kakashi se da vuelta. Ve al hombre rubio. Se queda quieto como una estatua.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1410 · NARUTO · DÍA 1 · 15:27          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 82% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1411)
+## COMANDO 1 (T1411)
 
 miro
 
-## RESPUESTA 2 (T1411)
+## RESPUESTA 1 (T1411)
 
 > miro
 
@@ -143,11 +70,11 @@ Y se queda completamente quieta.
 
 ---
 
-## COMANDO 3 (T1412)
+## COMANDO 2 (T1412)
 
 sigo mirando
 
-## RESPUESTA 3 (T1412)
+## RESPUESTA 2 (T1412)
 
 > sigo mirando
 
@@ -226,4 +153,55 @@ Se le arquea una ceja.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:33, calle frente a la Torre. Jiraiya llega: "Minato. Kushina." Naruto lo abraza ("¡Estás vivo, viejo idiota!"); Jiraiya abraza a los tres ("Mis tontos, tontos alumnos"). Ve a Tsunade: ella le da un puñetazo que lo estampa contra una pared, lo levanta del cuello ("¡Te fuiste solo!") y lo abraza llorando. Jiraiya: "Perdón, Tsunade." Aplausos. Jiraiya a Facundo: "Tú. Eres el del gato, ¿no?" Facundo tiene que contestar.
+## COMANDO 3 (T1413)
+
+mucho gusto jiraiya
+
+## RESPUESTA 3 (T1413)
+
+> mucho gusto jiraiya
+
+> —Mucho gusto, Jiraiya.
+
+Jiraiya parpadea.
+
+—¿Sabes mi nombre? —Se le dibuja una sonrisa enorme, a pesar de la nariz sangrando—. ¡Claro que sabes mi nombre! ¡El gran Jiraiya, el Sabio de los Sapos, autor de la exitosa saga Icha Icha, el hombre que...!
+
+Tsunade le pega un codazo en las costillas sin soltarlo del cuello. Jiraiya se dobla con un quejido.
+
+—...el hombre que se calla —termina, sin aire.
+
+Tsunade lo suelta por fin. Se seca la cara con la manga, rápido, de espaldas a la gente, y cuando se da vuelta ya tiene otra vez la cara de Hokage, aunque con los ojos rojos.
+
+Jiraiya se endereza, se limpia la sangre de la nariz con el dorso de la mano y se acerca a ti. Es enorme. Te mira de arriba abajo, despacio: el pelo blanco y azul, los ojos de dos colores, la cicatriz, los tatuajes de dragón del cuello. Después mira a Kase. Kase lo mira a él, y bosteza.
+
+—Cuando abrí los ojos, en mi casa, en mi propia cama, una voz me dijo que el que me trajo de vuelta tenía un gato —dice. Ya no sonríe del todo—. Y lo último que recuerdo antes de eso es el fondo de un lago en el País de la Lluvia, con seis varillas negras clavadas en el cuerpo.
+
+Se queda callado un momento.
+
+—Así que gracias, muchacho. De verdad.
+
+Te tiende la mano. Es grande, áspera, con callos de toda una vida de sellos.
+
+Y antes de que puedas hacer nada, se inclina hacia ti y baja la voz, con un brillo en los ojos que no tiene nada de solemne.
+
+—Y ahora dime una cosa. Un muchacho que aparece de la nada, con un gato, con ese pelo y esos ojos, que trae a los muertos de vuelta con un dragón gigante... —Se le escapa una sonrisa—. ¿Tienes idea de cuántos libros se pueden escribir con eso? ¿Me contarías tu historia?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1413 · NARUTO · DÍA 1 · 15:35          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 83% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:35, calle frente a la Torre. "Mucho gusto, Jiraiya." Jiraiya se presenta con pompa; Tsunade le pega un codazo. Jiraiya: recuerda el fondo del lago de Ame con seis varillas negras; la voz le dijo lo del gato. "Gracias, muchacho. De verdad." Le tiende la mano. En voz baja: "¿Tienes idea de cuántos libros se pueden escribir con eso? ¿Me contarías tu historia?" Facundo tiene que contestar.

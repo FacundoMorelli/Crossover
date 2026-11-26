@@ -168,3 +168,4 @@
 - Fugaku, Mikoto, Itachi, Sasuke · T1410 · por Facundo: que no vuelvan a intentar "algo como la última vez" (el golpe).
 - TODA LA CALLE · T1411 · ve que el Cuarto Hokage y Kushina Uzumaki son los padres de Naruto (lo dicen en voz alta). PÚBLICO. Ven a Jiraiya vivo bajar de la colina.
 - TODA LA CALLE · T1412 · ve a Jiraiya vivo y a Tsunade pegarle y abrazarlo llorando. Aplausos.
+- Jiraiya · T1413 · por Facundo: saludo; Jiraiya le pide su historia para escribir.
