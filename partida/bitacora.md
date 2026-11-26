@@ -1327,3 +1327,4 @@ T1325 · NARUTO · Borde este · "Mucho gusto, soy Facundo Morelli. Peleemos." G
 T1326 · NARUTO · Borde este · "Eres rápido, pero no alcanza." Para el Remolino de la Hoja con una mano sin moverse. Neji: sin chakra. Misión de copia: Lee (Ocho Puertas). Lee suelta las pesas con permiso de Gai.
 T1327 · NARUTO · Borde este · "Interesante." Lee sin pesas, círculo de velocidad. Se juntan curiosos. "¡Huracán de la Hoja!" por detrás: rodillas y nuca.
 T1328 · NARUTO · Borde este · Para el Huracán de la Hoja con los dedos sin darse vuelta. Neji: "No sé cómo supo." Gai: "Hasta la quinta Puerta." Lee abre la Primera.
+T1329 · NARUTO · Borde este · "Estoy impresionado. ¿Cuántos años tienes?" Lee: "¡Diecisiete!" (Gai llora). Abre la Segunda y la Tercera Puerta. "Facundo-san. ¡Ahí voy!"

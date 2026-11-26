@@ -18,3 +18,5 @@ QUÉ SABE DE FACUNDO (T1325): nombre, por él.
 PODER VISTO POR FACUNDO: taijutsu (Remolino de la Hoja), T1325-1326. Misión de copia emitida (T1326).
 - T1327 · Sin pesas: círculo de velocidad alrededor de Facundo; "¡Huracán de la Hoja!" desde atrás (rodillas y nuca).
 - T1328 · Su Huracán de la Hoja es parado con los dedos, sin que Facundo se dé vuelta. Llora de emoción. "Gai-sensei. Por favor. Las Puertas." Abre la Primera Puerta (de la Apertura).
+- T1329 · "¡Diecisiete! ¡Y gracias! ¡Que alguien como tú diga eso es el honor más grande de mi vida! ¡Bueno, el segundo!" Abre la Segunda (Descanso) y la Tercera (Vida). "Facundo-san. ¡Ahí voy!"
+RELACIÓN CON FACUNDO (T1329): admiración enorme.

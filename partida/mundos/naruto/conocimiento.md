@@ -48,3 +48,4 @@
 - Lee, Gai, Neji, Tenten · T1326 · vieron a Facundo detener el Remolino de la Hoja de Lee con una mano sin moverse. Neji confirmó con el Byakugan: sin chakra (Velo).
 - Chūnin de la pendiente este y vecinos · T1327 · se acercan a mirar el duelo entre Lee y el forastero.
 - Lee, Gai, Neji, Tenten, chūnin y vecinos del borde este · T1328 · vieron a Facundo parar el Huracán de la Hoja con los dedos sin darse vuelta. Neji: sin chakra (Velo); no sabe cómo anticipó los golpes (Haki de observación, no lo saben).
+- Lee, Gai, Neji, Tenten, curiosos · T1329 · oyeron a Facundo decir que está impresionado con Lee.

@@ -3,83 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1326)
-
-eres rapido pero no alcanza, detengo con una mano la patada
-
-## RESPUESTA 1 (T1326)
-
-> eres rapido pero no alcanza, detengo con una mano la patada
-
-> —Eres rápido, pero no alcanza.
-
-Levantas la mano izquierda.
-
-El talón de Lee choca contra tu palma con un golpe seco, como un mazo contra un tronco. El aire que traía el giro te pasa por los costados, te levanta el sobretodo y le sacude el pelo a Kase, que entrecierra los ojos y no se mueve del cuello.
-
-Tú no te mueves ni un centímetro.
-
-Lee queda colgado en el aire un instante, con la pierna en tu mano, los ojos redondos como platos. Abres los dedos y cae de pie, hacia atrás, en un salto limpio. Se mira la pierna. Te mira a ti.
-
-Gai se queda con la sonrisa congelada. Los dientes le siguen brillando, pero los ojos no.
-
-—Neji —dice Tenten, que por primera vez levantó la vista de las armas—. ¿Usó chakra?
-
-Neji tarda en contestar.
-
-—No. —Tiene las venas de los ojos tensas, más que antes—. Nada. Ni en la mano, ni en los pies, ni en ningún lado. Lo paró con el cuerpo.
-
-Lee aprieta los puños. Le tiemblan, pero no de miedo. Tiene la cara roja y una sonrisa enorme.
-
-—¡Increíble! —grita—. ¡Nadie detiene el Remolino de la Hoja con una sola mano sin moverse! ¡Ni siquiera Gaara!
-
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Taijutsu y Ocho Puertas Internas             ║
-║ USUARIO: Rock Lee · Naruto                   ║
-║                                              ║
-║ MISIÓN: Que Lee abra las Puertas peleando    ║
-║ contra ti y te alcance con la Flor de Loto   ║
-║ Oculta.                                      ║
-║ DIFICULTAD: BAJA                             ║
-╚══════════════════════════════════════════════╝
-
-Lee se agacha. Se levanta las perneras del traje verde y se desabrocha algo en cada tobillo: dos pesas anchas, de metal, envueltas en tela naranja.
-
-—Gai-sensei. —Ya no grita—. ¿Puedo?
-
-Gai mira a Lee. Te mira a ti. La sonrisa le vuelve a la cara, distinta: más chica, más seria.
-
-—Puedes.
-
-Lee deja caer las pesas.
-
-Cuando tocan el suelo, el suelo se hunde. Dos cráteres chicos, del tamaño de un balde cada uno, y una grieta que corre entre los dos hasta tus pies.
-
-Lee se pone otra vez en guardia. Esta vez no salta. Esta vez te mira como se mira a un rival.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1326 · NARUTO · DÍA 1 · 09:27          ║
-║ Konoha · borde este del cráter · duelo       ║
-║ NIVEL 29 · EXP 295.380/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Duelo con Rock Lee                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1327)
+## COMANDO 1 (T1327)
 
 interesante
 
-## RESPUESTA 2 (T1327)
+## RESPUESTA 1 (T1327)
 
 > interesante
 
@@ -126,11 +54,11 @@ La primera patada viene baja, a las rodillas. La segunda, alta, a la nuca, medio
 
 ---
 
-## COMANDO 3 (T1328)
+## COMANDO 2 (T1328)
 
 lo detengo con los dedos
 
-## RESPUESTA 3 (T1328)
+## RESPUESTA 2 (T1328)
 
 > lo detengo con los dedos
 
@@ -185,4 +113,63 @@ Lee cruza los brazos frente al pecho. Las venas del cuello se le hinchan y la pi
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:28, borde este, duelo. Facundo paró el Huracán de la Hoja con los dedos, sin darse vuelta (índice a la rodilla; tobillo atrapado entre dos dedos a un palmo de la nuca). Neji: sin chakra, no sabe cómo supo. Gai autoriza las Puertas hasta la quinta. Lee abre la Primera Puerta. Facundo puede actuar.
+## COMANDO 3 (T1329)
+
+la verdad, aunque no parezca estoy impresionado, cuantos años tienes?
+
+## RESPUESTA 3 (T1329)
+
+> la verdad, aunque no parezca estoy impresionado, cuantos años tienes?
+
+> —La verdad, aunque no parezca, estoy impresionado. ¿Cuántos años tienes?
+
+Lee se queda con los brazos cruzados frente al pecho, la piel roja, el aire caliente saliéndole a ráfagas. Parpadea.
+
+—¿Eh?
+
+Gai, desde el costado, se lleva un puño a la boca y empieza a llorar en silencio.
+
+—¡Diecisiete! —grita Lee, con todo el pecho, como si fuera un grito de batalla—. ¡Y gracias! ¡Que alguien como tú diga eso es el honor más grande de mi vida! ¡Bueno, el segundo! ¡El primero fue cuando Gai-sensei me dijo que creía en mí!
+
+—¡LEE! —solloza Gai.
+
+—¡GAI-SENSEI!
+
+Tenten levanta una mano.
+
+—Si se abrazan otra vez, me voy.
+
+No se abrazan. Lee aprieta los dientes y vuelve a cruzar los brazos con más fuerza.
+
+—¡Segunda Puerta, la Puerta del Descanso! ¡ABIERTA!
+
+El rojo de la piel se le vuelve más oscuro. El pelo se le levanta, como si hubiera viento debajo de él.
+
+—¡Tercera Puerta, la Puerta de la Vida! ¡ABIERTA!
+
+Las venas de la cara se le marcan como raíces. Las piedras chicas del suelo alrededor de sus pies empiezan a temblar y a levantarse, solas, unos centímetros. El aire cerca de él se ondula de calor.
+
+Los curiosos dan un paso atrás. La señora del balde da dos.
+
+Lee baja el cuerpo, una mano adelante, la otra atrás. Ya no sonríe. Los ojos le brillan.
+
+—Facundo-san. —Su voz suena más grave—. ¡Ahí voy!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1329 · NARUTO · DÍA 1 · 09:29          ║
+║ Konoha · borde este del cráter · duelo       ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Duelo con Rock Lee                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:29, borde este, duelo. Facundo le dijo que está impresionado y le preguntó la edad: "¡Diecisiete!" Lee abre la Segunda y la Tercera Puerta (piedras flotando, calor). "Facundo-san. ¡Ahí voy!" Facundo puede actuar.

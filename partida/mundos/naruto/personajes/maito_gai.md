@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO (T1325): nombre (lo oyó). Forastero.
 QUÉ PODERES DE FACUNDO VIO (T1326): paró el Remolino de la Hoja con una mano sin moverse, sin chakra.
 - T1327 · "Va más rápido que en el examen. Mucho más."
 - T1328 · "Neji." Autoriza las Puertas: "Hasta la quinta, Lee. Ni una más. Estamos en medio de la aldea."
+- T1329 · Llora en silencio cuando Facundo dice que está impresionado con Lee. "¡LEE!"
