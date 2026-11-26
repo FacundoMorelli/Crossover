@@ -36,3 +36,4 @@ RELACIÓN CON FACUNDO (T1340): confianza; lo quiere a su lado.
 - T1346 · Mira de cerca el brazo de Danzō. Ordena: Ibiki se lo lleva (sellos, vendas en cada ojo, nadie de Raíz a menos de 100 m); Kakashi y ANBU recogen a Raíz, vivos. A Facundo: "Esta mañana te pregunté para qué servías. Retiro la pregunta."
 RELACIÓN CON FACUNDO (T1346): respeto total.
 - T1347 · Sobre Naruto: "Un mocoso escandaloso, maleducado, que come ramen tres veces al día y me dice 'abuela' delante de todo el mundo... Salvó la aldea entera, solo, mientras yo dormía."
+- T1348 · Le cuenta a Naruto lo que hizo Facundo. "¡¿Cómo que vieja?!"

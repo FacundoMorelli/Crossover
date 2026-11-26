@@ -75,3 +75,4 @@
 - Todos los presentes + curiosos de lejos · T1346 · vieron a Facundo desaparecer, desmayar al tapir gigante de un palmazo y alcanzar a Danzō en el aire para desmayarlo. Público en todo el campamento.
 - Facundo · T1347 · por Tsunade: el que venció a Pain es Naruto Uzumaki. (Facundo ya lo había oído de Kakashi en T1314 y de los chicos en T1305.)
 - Naruto · T1347 · por rumores del campamento: la Hokage despertó y arrestó a Danzō. Ve a Facundo en persona por primera vez.
+- Naruto · T1348 · por Tsunade (motivo: gratitud, presentarlo): Facundo la despertó con una semilla, curó a 43 heridos de la carpa del este, descubrió lo del brazo de Danzō y lo atrapó en el aire. Por rumores del campamento: tumbó a Raíz sin moverse; venció a Lee de un golpe.

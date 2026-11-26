@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1345)
-
-deja de hacer eso, lo digo tranquilo
-
-## RESPUESTA 1 (T1345)
-
-> deja de hacer eso, lo digo tranquilo
-
-> —Deja de hacer eso. Te lo digo tranquilo.
-
-Lo dices sin levantar la voz, y aun así se oye por encima del rugido del viento.
-
-Tus pies dejan de resbalar. No porque hagas nada: el viento sigue tirando con la misma fuerza, pero tu cuerpo no se mueve, como una roca en medio de un río. El sobretodo agujereado flamea hacia el hocico del tapir. Kase sigue aferrado, con las orejas aplastadas.
-
-Danzō no se detiene.
-
-—No —dice, sin darse vuelta del todo.
-
-Sigue retrocediendo hacia el borde del cráter, paso a paso, apoyado en el bastón. Los diez Sharingan del brazo te miran por encima del lomo del tapir, sin parpadear.
-
-Baku sigue aspirando. El primer cuerpo de Raíz llega al hocico: un hombre de máscara lisa, desmayado, que se arrastra por el suelo con los brazos sueltos. El tapir no hace diferencia. Se lo traga como una hoja. Después otro. Después un tercero.
-
-—¡Se está tragando a su propia gente! —grita Gai, con los pies hundidos en la tierra.
-
-—¡Sabe que no los necesita despiertos! —le grita Ibiki, colgado de las raíces de Yamato—. ¡Y que los que tragó no van a hablar!
-
-Tsunade, sujeta por la cintura a la madera, aprieta los dientes y mira hacia el borde del cráter.
-
-—¡Se está yendo!
-
-Danzō llega al borde. Detrás de él no hay nada: la pendiente del cráter, que cae en picada veinte metros hasta los escombros del fondo. Se da vuelta una última vez y te mira.
-
-—Esta aldea no es tuya, viajero.
-
-Y flexiona las rodillas para saltar.
-
-Al lado de tus pies, otro cuerpo desmayado de Raíz se arrastra hacia el hocico de Baku. Es Fū, con el pelo rubio suelto, boca abajo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1345 · NARUTO · DÍA 1 · 11:23          ║
-║ Konoha · lado oeste · carpas de Raíz         ║
-║ NIVEL 29 · EXP 296.480/320.000               ║
-║ FRAGMENTOS 112.169 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común · vigilado por Raíz      ║
-║ Kase: aferrado al sobretodo                  ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1346)
+## COMANDO 1 (T1346)
 
 dejo inconsciente a danzo y al tapir
 
-## RESPUESTA 2 (T1346)
+## RESPUESTA 1 (T1346)
 
 > dejo inconsciente a danzo y al tapir
 
@@ -125,11 +70,11 @@ Después se da vuelta hacia ti. Te mira de arriba abajo: el sobretodo lleno de a
 
 ---
 
-## COMANDO 3 (T1347)
+## COMANDO 2 (T1347)
 
 gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
 
-## RESPUESTA 3 (T1347)
+## RESPUESTA 2 (T1347)
 
 > gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
 
@@ -189,4 +134,71 @@ Frena de golpe frente a Tsunade, levantando una nube de tierra, y se le queda mi
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:27, borde oeste del cráter. Facundo preguntó el nombre del que venció a Pain. Tsunade, casi sonriendo: "Naruto Uzumaki", mocoso escandaloso que le dice "abuela". Kakashi: "Es mi alumno." Naruto llega corriendo: "¡¡ABUELA TSUNADEEEE!!" Llora porque despertó y arrestó a Danzō. Ve a Facundo: "¿Y tú quién eres?" Tasación de Naruto. Facundo tiene que contestar.
+## COMANDO 3 (T1348)
+
+asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1348)
+
+> asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
+
+> —Así que tú eres Naruto. Mucho gusto. Me llamo Facundo Morelli.
+
+—¿Eh? ¿Me conoces? —A Naruto se le iluminan los ojos de golpe, y las lágrimas se le secan solas—. ¡Claro que me conoces! ¡Ahora soy famoso! ¡Hasta la señora de la fila del arroz me dio doble porción! ¡De veras!
+
+Se pone las manos en la nuca y se ríe, colorado.
+
+—Él te despertó, Naruto —dice Tsunade.
+
+Naruto deja de reírse.
+
+—¿Qué?
+
+—Me dio una semilla. Una sola. Y abrí los ojos. —Señala con el mentón hacia el este—. Y a cuarenta y tres heridos graves de la carpa del este. Y después encontró lo que Danzō escondía en el brazo, y lo bajó del aire cuando se quería escapar.
+
+Naruto se te queda mirando con la boca abierta. Después mira a Kakashi. Kakashi asiente, una vez.
+
+Naruto se te tira encima.
+
+No es un ataque: es un abrazo, brusco y torpe, con los dos brazos alrededor de tu cintura, la cara aplastada contra tu sobretodo lleno de agujeros. Huele a tierra, a sudor y a ramen.
+
+—¡Gracias! —grita, con la voz amortiguada contra tu ropa—. ¡Gracias, gracias, gracias! ¡La abuela es una vieja gritona que me pega cada vez que puede, pero es nuestra vieja gritona!
+
+—¡¿Cómo que vieja?! —ruge Tsunade.
+
+Naruto se separa de un salto y se esconde detrás de Kakashi, riéndose.
+
+Entonces ve a Kase.
+
+—¡Whoa! ¡¿Qué es eso?! ¡Es el gato más grande que vi en mi vida! ¡Tiene los ojos como los tuyos! —Se acerca de puntillas, con la mano estirada—. Hola, gatito... gatito, gatito...
+
+Kase lo mira. Lo mira de arriba abajo, despacio, con el ojo rojo y el ojo azul. Después gira la cabeza para el otro lado, con todo el desprecio del que es capaz un gato, y se pone a lamerse una pata.
+
+Naruto se queda con la mano en el aire.
+
+—...¿Me está ignorando?
+
+—Te está ignorando —dice Kakashi.
+
+Naruto resopla, baja la mano y se vuelve hacia ti, con los puños apretados y los ojos brillando otra vez.
+
+—¡Oye, oye, Facundo! ¿Es verdad lo que dicen en el campamento? ¿Que tumbaste a todo Raíz sin moverte? ¿Y que le ganaste al cejotas de un solo golpe? —Se acerca tanto que casi te pisa—. ¡¿Cómo lo hiciste?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1348 · NARUTO · DÍA 1 · 11:29          ║
+║ Konoha · lado oeste · borde del cráter       ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:29, borde oeste del cráter. Facundo se presentó a Naruto. Tsunade le contó que Facundo la despertó, curó a 43 y atrapó a Danzō. Naruto lo abrazó ("¡Es nuestra vieja gritona!"). Kase lo ignoró. Naruto: "¿Es verdad que tumbaste a todo Raíz sin moverte? ¿Y que le ganaste al cejotas de un solo golpe? ¡¿Cómo lo hiciste?!" Facundo tiene que contestar.

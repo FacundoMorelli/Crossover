@@ -1346,3 +1346,4 @@ T1344 · NARUTO · Carpas de Raíz · "Venía a ayudarlos a ellos, no a ti." Dan
 T1345 · NARUTO · Carpas de Raíz · "Deja de hacer eso." Danzō: "No." Baku traga a 3 de Raíz. Danzō en el borde: "Esta aldea no es tuya, viajero." Va a saltar. Fū se arrastra al hocico.
 T1346 · NARUTO · Borde oeste · Desmaya a Baku de un palmazo (escupe vivos a los 3 tragados) y a Danzō en el aire. DANZŌ ARRESTADO. +175 F, +1.500 EXP. Tsunade: "Esta mañana te pregunté para qué servías. Retiro la pregunta."
 T1347 · NARUTO · Borde oeste · "¿Cómo se llama el que venció a Pain?" Tsunade: "Naruto Uzumaki." Kakashi: "Es mi alumno." Naruto llega corriendo: "¡¡ABUELA TSUNADEEEE!!" A Facundo: "¿Y tú quién eres?"
+T1348 · NARUTO · Borde oeste · "Así que tú eres Naruto. Me llamo Facundo Morelli." Tsunade le cuenta lo de Facundo. Naruto lo abraza ("¡es nuestra vieja gritona!"). Kase lo ignora. "¿Cómo lo hiciste?"

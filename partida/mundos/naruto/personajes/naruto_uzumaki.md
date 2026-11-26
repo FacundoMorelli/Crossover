@@ -18,3 +18,6 @@ TASACIÓN (T1347): Modo Sabio, Rasengan, Rasenshuriken, Clones de Sombra, chakra
 EDAD: 16 (menor).
 QUÉ SABE DE FACUNDO (T1347): rumores del campamento (Hokage despierta, Danzō arrestado, quizá el forastero); lo ve en persona.
 RELACIÓN CON FACUNDO: recién lo ve.
+- T1348 · "¡Claro que me conoces! ¡Ahora soy famoso! ¡De veras!" Al saber que Facundo despertó a Tsunade, lo abraza: "¡Gracias, gracias, gracias! ¡La abuela es una vieja gritona... pero es nuestra vieja gritona!" Intenta acariciar a Kase; Kase lo ignora ("...¿Me está ignorando?"). "¿Es verdad que tumbaste a todo Raíz sin moverte? ¿Y que le ganaste al cejotas de un solo golpe? ¡¿Cómo lo hiciste?!"
+QUÉ SABE DE FACUNDO (T1348): nombre (por él). Por Tsunade: la despertó con una semilla, curó a 43 heridos, descubrió el brazo de Danzō y lo atrapó en el aire. Por rumores: tumbó a Raíz sin moverse, venció a Lee de un golpe.
+RELACIÓN CON FACUNDO (T1348): agradecido y entusiasmado.
