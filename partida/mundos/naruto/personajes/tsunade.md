@@ -67,3 +67,5 @@ QUÉ SABE (T1387): por Facundo, va a interrogar y matar a uno de los Akatsuki re
 QUÉ SABE (T1395): por Facundo, el plan del Ojo de la Luna y la Estatua con 7 bijū. Por Suigetsu: Killer Bee escapó (tentáculo).
 - T1396 · "Bien. Uno menos." "Akatsuki... se terminó en una mañana. En la carpa de una mujer que se despertó del coma a las ocho." "Pero queda la Estatua... Si alguien la encuentra antes que nosotros, todo esto vuelve a empezar."
 QUÉ SABE (T1396): por Facundo, mató a la mitad negra de Zetsu porque intentó meterse en su gato.
+- T1397 · "Nagato revivió a toda Konoha. Y le costó la vida." "Así que no te voy a decir que es imposible. Ya no sé qué es imposible." "Todos los muertos por Akatsuki. Los jinchūriki. Los de la Hierba, los de la Arena..." Con lágrimas, sin esconderlas: "¿Jiraiya también?"
+QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y revivirá a los muertos por Danzō y Akatsuki.

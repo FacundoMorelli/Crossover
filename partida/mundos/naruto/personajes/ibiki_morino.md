@@ -13,3 +13,4 @@ ESTADO: con Tsunade, yendo por Danzō.
 - T1345 · "¡Sabe que no los necesita despiertos! ¡Y que los que tragó no van a hablar!"
 - T1346 · Recibe la orden de llevarse a Danzō con sellos de supresión y vendas en los Sharingan.
 - T1394 · Dibuja sellos de supresión en el pecho de Kisame en la carpa de mando. Tsunade: "sigue con los sellos. Que no se despierten."
+- T1397 · Deja el pincel sobre el pecho de Kisame al oír lo de revivir.

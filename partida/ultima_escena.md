@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1394)
-
-agarro a zetsu y me teletransporto con tsunade, tengo información
-
-## RESPUESTA 1 (T1394)
-
-> agarro a zetsu y me teletransporto con tsunade, tengo información
-
-Despegas a la mitad blanca de Zetsu del tronco. Sale como una planta arrancada, con un ruido húmedo de raíces, flácida, liviana, con la mitad del cuerpo que le falta abierta como una cáscara vacía. Te la cuelgas del hombro libre.
-
-Te llevas dos dedos a la frente.
-
-La carpa de mando.
-
-Está más llena que hace un rato. Tsunade, de pie junto a la mesa rota. Sasuke, contra el mismo poste, con Karin sentada a sus pies. Jūgo, agachado en un rincón para no tocar el techo. Suigetsu, sentado en el suelo al lado de Kisame, que sigue desmayado boca arriba, pinchándole la mejilla con un dedo. Homura y Koharu, en sus banquitos. Y un hombre enorme de abrigo negro y cara llena de cicatrices, Ibiki, arrodillado junto a Kisame, terminando de dibujarle sellos en el pecho con un pincel.
-
-Todos levantan la cabeza a la vez cuando apareces.
-
-Dejas caer a la mitad blanca de Zetsu en el suelo, al lado de Kisame. Cae como un trapo.
-
-Suigetsu se aparta de un salto.
-
-—¡¿Y eso qué es?!
-
-—La mitad del de la pared —dice Karin, en voz baja, mirándolo con asco—. La que se reía.
-
-Tsunade mira el cuerpo blanco en el suelo. Después levanta los ojos hacia ti, muy despacio.
-
-—Cinco. —No lo pregunta—. ¿Y la otra mitad?
-
-> —Tengo información.
-
-Tsunade se queda mirándote un segundo largo.
-
-Después mira a su alrededor: a Taka, a Homura y Koharu, a Ibiki, al pincel quieto en su mano. Vuelve a mirarte a ti.
-
-—Ibiki, sigue con los sellos. Que no se despierten. —Se cruza de brazos—. Los demás se quedan donde están y no abren la boca.
-
-Te hace un gesto seco con el mentón.
-
-—Habla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1394 · NARUTO · DÍA 1 · 13:53          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1395)
+## COMANDO 1 (T1395)
 
 le cuento todo lo que me contó
 
-## RESPUESTA 2 (T1395)
+## RESPUESTA 1 (T1395)
 
 > le cuento todo lo que me contó
 
@@ -119,11 +60,11 @@ Hace una pausa.
 
 ---
 
-## COMANDO 3 (T1396)
+## COMANDO 2 (T1396)
 
 lo mate, intento meterse en mi gato, el que ataca a mi familia, esta muerto
 
-## RESPUESTA 3 (T1396)
+## RESPUESTA 2 (T1396)
 
 > lo mate, intento meterse en mi gato, el que ataca a mi familia, esta muerto
 
@@ -174,4 +115,67 @@ Se ríe por la nariz, sin ganas.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:58, carpa de mando. Facundo: "Lo maté. Intentó meterse en mi gato. El que ataca a mi familia está muerto." Suigetsu: "No tocar al gato. Nunca." Tsunade: "Uno menos." Akatsuki se terminó en una mañana. Pero queda la Estatua con 7 bijū: "Si alguien la encuentra antes que nosotros, todo esto vuelve a empezar." Facundo puede actuar.
+## COMANDO 3 (T1397)
+
+yo la voy a destruir y le voy a devolver las bestias a los que la tenían, y voy a revivir a todos los muertos por danzo y akatsuki
+
+## RESPUESTA 3 (T1397)
+
+> yo la voy a destruir y le voy a devolver las bestias a los que la tenían, y voy a revivir a todos los muertos por danzo y akatsuki
+
+> —Yo la voy a destruir, y les voy a devolver las bestias a los que las tenían. Y voy a revivir a todos los muertos por Danzō y por Akatsuki.
+
+Nadie se mueve.
+
+Ibiki es el primero en reaccionar: deja el pincel sobre el pecho de Kisame, despacio, como si de pronto le pesara demasiado.
+
+—¿Revivir? —repite Homura, con la voz rota.
+
+Koharu se agarra al borde del banquito con las dos manos. Los dos viejos se miran, y en esa mirada hay algo que no estaba ni siquiera cuando Sasuke les preguntó por la masacre. Miedo. Del de verdad.
+
+Sasuke, contra el poste, no te saca los ojos de encima. No dice nada. No le hace falta.
+
+Suigetsu levanta la mano otra vez, más despacio.
+
+—Pregunta, nada más. Los que mató Kisame... ¿también cuentan? Porque son muchos.
+
+Nadie le contesta.
+
+Tsunade se queda inmóvil, de pie junto a la mesa rota. Durante un rato largo no dice nada. Se le nota en la cara que está pensando en la pregunta que no se anima a hacer.
+
+—Nagato revivió a toda Konoha —dice al fin, muy bajo—. Y le costó la vida. Se secó entero.
+
+Te mira.
+
+—Esta mañana me despertaste con una semilla. Curaste un hospital entero. Bajaste del aire a Danzō, encontraste al que se escondía detrás de una máscara desde hace diecisiete años, y trajiste a Akatsuki a mi carpa, uno por uno, como quien trae leña. —Se le quiebra algo en la voz—. Así que no te voy a decir que es imposible. Ya no sé qué es imposible.
+
+Da un paso hacia ti.
+
+—Todos los muertos por Akatsuki —repite—. Los jinchūriki. Los de la Hierba, los de la Arena, los de...
+
+Se calla.
+
+Se le van los ojos hacia la entrada de la carpa, hacia afuera, hacia el norte. Hacia un lugar muy lejos, en el País de la Lluvia, donde hay un lago y un hombre que no volvió.
+
+Cuando vuelve a mirarte, tiene los ojos color miel llenos de lágrimas, y no hace nada para esconderlas.
+
+—¿Jiraiya también?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1397 · NARUTO · DÍA 1 · 14:00          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 14:00, carpa de mando. Facundo: destruirá la Estatua, devolverá las bestias a sus jinchūriki y revivirá a todos los muertos por Danzō y Akatsuki. Homura y Koharu, con miedo. Suigetsu: "¿Los que mató Kisame también cuentan?" Tsunade: "Nagato revivió a Konoha y le costó la vida... Ya no sé qué es imposible." Con lágrimas: "¿Jiraiya también?" Facundo tiene que contestar.

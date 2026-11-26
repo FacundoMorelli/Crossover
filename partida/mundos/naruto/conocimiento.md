@@ -140,3 +140,4 @@
 - Tsunade, Ibiki, Homura, Koharu, Sasuke, Taka · T1395 · por Facundo (lo que le dijo Zetsu negro): Zetsu negro decía ser la voluntad de Madara; estuvo detrás de Obito y Nagato; plan del Ojo de la Luna; Estatua del Camino Exterior con 7 bijū; faltan el Ocho y el Nueve Colas; solo Zetsu negro sabía dónde estaba la Estatua.
 - Tsunade, Ibiki, Homura, Koharu · T1395 · por Suigetsu (Tobi se lo dijo a Taka): Killer Bee escapó; Taka se llevó un tentáculo. Kumo no lo sabe.
 - Todos en la carpa de mando · T1396 · por Facundo: mató a la mitad negra de Zetsu porque intentó meterse en su gato; "el que ataca a mi familia está muerto".
+- Todos en la carpa de mando · T1397 · por Facundo: destruirá la Estatua, devolverá las bestias a sus jinchūriki y revivirá a todos los muertos por Danzō y Akatsuki.
