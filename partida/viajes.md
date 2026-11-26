@@ -231,3 +231,9 @@
 ### Naruto — CUMPLIDA
 - CUMPLIDA: T1428 · Día 4 noche. Los cinco Kages firman la paz; no habrá Cuarta Gran Guerra Ninja; Neji vivo. +20.000 EXP, +500 Fragmentos.
 - Mundos completados: 12/12.
+
+## RELOJES (actualizado T1440)
+- Naruto: SALIDA Día 10 ~00:00, calle de Ichiraku, ante toda la aldea. Prometió a Naruto volver. Corre.
+- One Piece: VUELVE Día ~120 00:05 (~63 días después), bar de Shakky, Sabaody. Timeskip de dos años en curso.
+- Dragon Ball: R14, acelerado: Bills llega en un mes de Facundo desde T1440 (4 años de canon).
+- Demás mundos: corren.

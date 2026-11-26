@@ -64,3 +64,4 @@ ESTADO: Modo Chakra del Nueve Colas (manto dorado) activo; relación con Kurama:
 QUÉ SABE (T1438): por Facundo, se va mañana; volverá; no sabe cuánto tiempo.
 - T1439 · Facundo le promete volver; chocan los puños. "Una promesa de por vida. Esa es mi forma ninja. Y ahora también es la tuya." Sale corriendo por los techos: "¡MAMÁ! ¡PAPÁ! ¡SABIO PERVERTIDO! ¡MAÑANA HAY FIESTA EN ICHIRAKU! ¡SE VA FACUNDO! ¡QUE VENGAN TODOS! ¡SASUKE TAMBIÉN!"
 PROMESA (T1439): Facundo le prometió volver.
+- T1440 · Despedida en Ichiraku: no se sienta en toda la noche. En la puerta: se pone delante de todos, ojos rojos, sonrisa enorme, puño en alto.

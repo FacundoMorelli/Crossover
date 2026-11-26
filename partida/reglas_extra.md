@@ -99,3 +99,8 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 ## R13. YMIR ES ADULTA (T931 · Día 48 Shingeki · decisión del jugador)
 - Texto del jugador: "aparenta unos 18 o 19 pero estuvo 60 años de titán, así que déjala como mayor".
 - Ymir cuenta como adulta (aparenta 18-19; vivió unos 60 años como titán). Sigue vigente la sección 14: escenas íntimas con fundido, nunca el momento sexual.
+
+## R14. DRAGON BALL: TIEMPO ACELERADO HASTA BILLS (T1440 · pedido del jugador, solo por esta vez)
+- Texto del jugador: "¿podés hacer que en Dragon Ball solo por esta vez el tiempo pase más rápido hasta la llegada de Bills? O sea que en 1 mes sea la llegada, o sea que los 4 años pasen igual".
+- Desde T1440, el reloj de Dragon Ball corre acelerado: los ~4 años de canon hasta la llegada de Bills (año 778) transcurren en un mes de tiempo de Facundo. El canon de esos 4 años ocurre igual (Pan nace, etc.), con los cambios que dejó Facundo.
+- Cumplido ese mes, el reloj de Dragon Ball vuelve a correr al ritmo normal.

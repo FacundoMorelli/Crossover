@@ -1,8 +1,8 @@
 {
-  "turno": 1439,
-  "mundo_actual": "naruto",
-  "fecha_local": "Naruto: Día 9",
-  "hora": "Día 9, 21:19",
+  "turno": 1440,
+  "mundo_actual": "onepiece",
+  "fecha_local": "One Piece: Día ~120 (~63 días después de irse el Día 57 17:52; en el timeskip de dos años, ~2 meses dentro)",
+  "hora": "Día ~120, 00:05",
   "edad": 18,
   "nivel": 30,
   "exp": 331130,
@@ -649,6 +649,16 @@
     {
       "objeto": "Regalos de Konoha (en la casa de madera, sin guardar): bufanda tejida, dibujo de un chico con un dragón y un gato, caja de dangos sin abrir",
       "origen": "naruto, vecinos (T1428-1439)",
+      "mundo": "naruto"
+    },
+    {
+      "objeto": "Banda ninja de Konoha (placa con la hoja, tela negra, sin rango ni nombre)",
+      "origen": "naruto, Tsunade (T1440): \"Para que sepas dónde queda tu casa.\"",
+      "mundo": "naruto"
+    },
+    {
+      "objeto": "Manuscrito \"El Viajero del Gato\" de Jiraiya (200 páginas), dedicatoria: \"Para mi personaje principal. No lo leas delante de Tsunade\"",
+      "origen": "naruto, Jiraiya (T1440)",
       "mundo": "naruto"
     }
   ],
@@ -2267,8 +2277,8 @@
         "cuarto_regreso": "18/12 10:40 (T1027): ~80 días y 16 h después de irse el 28/09 18:42 (74 d según el reloj de One Piece/Shingeki hasta Jujutsu 25/04 + 4 d 3 h 41 min en Jujutsu + 2 d 11 h 30 min en Fairy Tail). Orilla del río de Karakura, bajo el puente.",
         "cuarta_salida": "21/12 21:26 (T1039), plaza de la feria navideña de Karakura. Vieron la Puerta: Ichigo, Rukia, Orihime, Chad, Uryū, Karin. Ichigo tiene un botón de aviso. Corre."
       },
-      "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre.",
-      "onepiece": "Salida Día 57 17:52 desde el bar de Shakky (Sabaody). Equivalencia: OP = Shingeki + 9 d 5 h 30 min. Bankai Hate no Sakaime sigue sobre la flota de Barbablanca (mientras tenga energía).",
+      "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre. REGLA R14 (T1440, a pedido del jugador, solo esta vez): el reloj de Dragon Ball se acelera: los ~4 años hasta la llegada de Bills (canon: año 778, Battle of Gods) pasan en UN MES de Facundo, contando desde T1440 (Día ~120 de One Piece). Bills llega a la Tierra cuando a Facundo le pase un mes desde ahora. Después, el reloj vuelve a la normalidad.",
+      "onepiece": "VUELVE (T1440): Día ~120 00:05 (~63 días después de irse el Día 57 17:52), bar de Shakky, Grove 13, Sabaody. Timeskip de dos años en curso (~2 meses). Corre.",
       "shingeki": "Salida día 66 13:35 desde el patio trasero del ayuntamiento de Shiganshina. Mundo sin titanes; revividos; paz. Prometió a Ymir volver (guarda las manzanas). Corre.",
       "blackclover": "VUELVE ~90 días después de irse (T489, salida dos días después de la luna llena 06:18). Explanada de la base de los Toros Negros, 12:10, día del asalto a la base del Ojo (canon c138).",
       "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
@@ -2278,7 +2288,8 @@
       "bokunohero": "Llegada diciembre 08:40 (T1087). Salida día 10 ~06:30 (T1147), bosque del campus de la U.A. (nadie vio la Puerta). Misión cumplida. Liga, Garaki, Gigantomachia en Tartarus; Ejército de Liberación neutralizado; AFO en silencio, 'espera'. Izuku domina el Látigo Negro. Nezu: 'la puerta va a estar abierta'. Licencia de Eclipse activa. Corre.",
       "tokyoghoul": "Salida Día 7 21:30 desde el salón de Anteiku (todos vieron la Puerta). Prometió volver \"en una semana o en tres meses\". Botón de aviso en el chaleco de Yoshimura. Corre.",
       "blackclover_salida_2": "Salida Día 4 21:22 (T1305), claro de los Toros Negros, frente a todos. Dijo: quizás vuelve en unas semanas. Corre.",
-      "naruto": "Llegada Día 1 07:40 (T1305). Día 5 05:48 en T1428. Corre al ritmo de Facundo."
+      "naruto": "Llegada Día 1 07:40 (T1305). SALIDA Día 10 ~00:00 (medianoche) (T1440), por una puerta en la calle de Ichiraku, ante todos. Prometió a Naruto volver. Corre.",
+      "naruto_salida": "Día 10 ~00:00 (T1440)."
     },
     "puerta_abierta": true,
     "historial_misiones": {

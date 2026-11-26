@@ -46,3 +46,4 @@ ESTADO: ojo izquierdo nuevo (normal); derecho aún sellado y vendado; chakra enc
 RELACIÓN CON FACUNDO (T1427): gratitud y vergüenza; empieza a aceptar.
 - T1428 · Barre el barrio Uchiha cada día, sin chakra; Rin y Kakashi lo acompañan; la gente se aparta o escupe. Día 4: confiesa todo en el juicio (dos horas). Sentencia: sellado y al servicio de la aldea.
 - T1437 · Sigue barriendo. Un nene Uchiha le lleva agua (la madre se lo lleva; al día siguiente vuelve). Rin le enseña a vendarse las manos; él se las venda mal a propósito.
+- T1440 · En la despedida, en la punta de la mesa con Rin y Kakashi. Al final se acerca y hace una reverencia larga a Facundo.

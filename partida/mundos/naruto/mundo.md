@@ -35,3 +35,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1435 · Naruto y Kurama dejan de ser enemigos (canon: mucho después, en la guerra). Naruto obtiene el Modo Chakra del Nueve Colas con ayuda de Kushina.
 - T1436 · Campo tres: tercer poste partido, zanjas y surcos en el pasto.
 - T1437 (Días 5-9) · Vida tranquila en Konoha. Visita de Killer Bee (días 7-8). Jiraiya escribe "El Viajero del Gato".
+- T1440 · Día 10 · Despedida de Facundo en la calle de Ichiraku (toda la aldea). Se va por una puerta de luz a la medianoche.

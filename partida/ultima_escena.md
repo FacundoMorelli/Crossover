@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1437)
-
-esta bien. simula unos dias
-
-## RESPUESTA 1 (T1437)
-
-> esta bien. simula unos dias
-
-> —Está bien.
-
-Sasuke pelea en serio desde el primer segundo.
-
-El Susanoo le sale entero, violeta, con armadura y arco, más alto que los árboles del campo. Las flechas de chakra caen como lluvia. El Amaterasu prende fuego negro al pasto, a los troncos partidos, a la orilla del río. Tu cuerpo se mueve entre todo eso sin que lo pienses, en el aire plateado del Ultra Instinto, y ninguna flecha y ninguna llama te toca. Cuando Sasuke junta todo el rayo del cielo encapotado en un dragón que ruge desde las nubes, lo esperas quieto. El dragón te pasa por al lado, tu mano se apoya en el pecho del Susanoo, y la armadura violeta entera se deshace en humo como una vela que se apaga de un soplo.
-
-Sasuke queda de rodillas en el pasto quemado, jadeando, con sangre en el ojo izquierdo. Itachi baja del árbol y le apoya una mano en la cabeza. Sasuke no la aparta.
-
-[Duelo ganado: Sasuke Uchiha.]
-
-[+75 Fragmentos. +800 EXP.]
-
-Pasan los días.
-
-Kakashi llega a horario a una reunión por primera vez en diecisiete años. Gai lo celebra a los gritos durante una hora. Kakashi dice que no tiene nada que ver con nada, que se le rompió el despertador, y que esa mañana no tuvo que pasar por la piedra de los caídos porque el nombre que iba a visitar estaba barriendo la calle de enfrente.
-
-Obito sigue barriendo. El tercer día, un nene del barrio Uchiha le lleva un vaso de agua, porque hace calor. La madre lo ve, lo agarra del brazo y se lo lleva sin decir nada. Pero al día siguiente el nene vuelve, con otro vaso. Rin le enseña a Obito a vendarse las manos para que no le salgan ampollas con la escoba. Él se las venda mal a propósito para que ella se las vuelva a vendar.
-
-Jiraiya se encierra en su casa de la colina y no sale en tres días. Al cuarto, baja con un manuscrito de doscientas páginas bajo el brazo. En la tapa dice, con letras grandes: "El Viajero del Gato". Tsunade se lo arranca de las manos, lee las primeras diez páginas en la puerta de la Torre, se pone roja hasta las orejas y lo tira por la ventana. Kakashi lo rescata del arbusto antes de que caiga al suelo.
-
-Sakura te sigue a todas partes durante un día entero, con una libreta, preguntándote de qué están hechas las semillas del ermitaño. No le contestas nada. Igual anota todo.
-
-Lee y Gai te desafían cada mañana a una carrera alrededor de la aldea. Pierden cada mañana. Dan quinientas vueltas de castigo cada mañana.
-
-El séptimo día llega a la puerta principal un hombre enorme, moreno, con anteojos oscuros, siete espadas en la espalda y un pañuelo en la cabeza, haciendo rimas en voz alta. Killer Bee. Trae una carta del Raikage para la Hokage, una disculpa de Karui para Naruto y ganas de conocer "al de los mil golpes y el gato fiel, que dejó a Akatsuki sin papel". Naruto y él se hacen amigos en cinco minutos. En diez, Kurama y el Ocho Colas se están insultando dentro de sus cabezas, y Naruto y Bee se ríen sin que nadie entienda de qué. Bee se va al día siguiente. Antes de irse, te tira una rima sobre tu pelo que hace reír hasta a Itachi.
-
-Neji te encuentra una noche en el techo frente al patio de los Hyūga. No te pregunta qué haces ahí. Se sienta a tu lado un rato, mirando las estrellas, y se va.
-
-A tu casa del borde sur siguen llegando cosas todas las mañanas. Ayame le deja a Kase un platito de cerdo en cubitos en el estante de la ventana. Kase se lo come entero y no le agradece nunca. Ayame vuelve igual al día siguiente.
-
-La noche del noveno día, alguien golpea tu puerta. No fuerte, como Tsunade. Despacio, dos veces, como quien tiene miedo de molestar.
-
-Abres.
-
-Es Naruto. Solo, con las manos en los bolsillos de la chaqueta naranja y la cara seria, mirando el suelo. Detrás, la calle está a oscuras, con las ventanas de las casas nuevas encendidas.
-
-—Oye, Facundo —dice, sin levantar la vista—. Mamá dice que los viajeros siempre se van. Y el Sabio Pervertido dice que tú dijiste "unos días". Y ya pasaron nueve.
-
-Levanta la cara. Tiene los ojos un poco rojos.
-
-—¿Cuándo te vas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1437 · NARUTO · DÍA 9 · 21:14          ║
-║ Konoha · borde sur · tu casa de madera       ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el estante de la ventana            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1438)
+## COMANDO 1 (T1438)
 
 mañana me voy, voy a volver igual, no se cuanto tiempo me ire
 
-## RESPUESTA 2 (T1438)
+## RESPUESTA 1 (T1438)
 
 > mañana me voy, voy a volver igual, no se cuanto tiempo me ire
 
@@ -127,11 +60,11 @@ Levanta la mano, el puño cerrado, entre los dos. Igual que en Ichiraku.
 
 ---
 
-## COMANDO 3 (T1439)
+## COMANDO 2 (T1439)
 
 te lo prometo naruto
 
-## RESPUESTA 3 (T1439)
+## RESPUESTA 2 (T1439)
 
 > te lo prometo naruto
 
@@ -178,4 +111,71 @@ Te mira con el ojo rojo y el ojo azul. Bosteza.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 9 21:19, casa de madera de Facundo. "Te lo prometo, Naruto." Chocan los puños. Naruto: "Una promesa de por vida. Esa es mi forma ninja. Y ahora también es la tuya." Sale corriendo gritando por los techos: "¡MAÑANA HAY FIESTA EN ICHIRAKU! ¡SE VA FACUNDO! ¡SASUKE, AUNQUE NO QUIERAS!" Facundo cierra la puerta. Casa a oscuras: bufanda en el picaporte, el dibujo, dangos sin abrir. Kase echado en el medio del futón. Facundo puede actuar.
+## COMANDO 3 (T1440)
+
+le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
+
+## RESPUESTA 3 (T1440)
+
+> le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
+
+Te agachas junto al futón y le das un beso a Kase en la cabeza, entre las orejas.
+
+Kase abre un ojo. Te mira. Lo vuelve a cerrar, con la cara de quien te hace un favor permitiéndolo, y se acomoda mejor en el medio del futón.
+
+Al día siguiente, Ichiraku no alcanza.
+
+Teuchi saca el mostrador a la calle, y la calle entera se vuelve un mostrador: tablas sobre barriles, banquitos de todas las casas del barrio, faroles de papel colgados de soga en soga. Ayame no para de servir. Teuchi hace un ramen en una olla tan grande que tienen que ayudarlo cuatro chūnin a bajarla del fogón. Nadie paga nada.
+
+Viene todo el mundo. Naruto, que no se sienta en ningún momento. Kushina y Minato, de la mano. Jiraiya, que llega con el manuscrito bajo el brazo y se lo pone en las manos al viajero del gato antes de que nadie se lo pueda arrancar, con una dedicatoria en la primera página que dice "Para mi personaje principal. No lo leas delante de Tsunade". Tsunade, que se toma media botella de sake y dice que no está llorando, que es el vapor del ramen. Shizune y Tonton. Kakashi, que llega a horario por segunda vez en su vida. Gai y Lee, que hacen un brindis por la juventud cada cinco minutos. Yamato, que levanta una mesa nueva de madera con un sello cuando la vieja se rompe bajo el codo de Chōji.
+
+Vienen los novatos. Sakura, con su libreta. Shikamaru, quejándose de que es problemático pero sin irse. Ino, Chōji, Kiba con Akamaru, que todavía le gruñe a Kase desde lejos. Shino. Hinata, que no se separa de Neji, y que mira a Naruto de reojo toda la noche. Neji, que casi no habla y te sirve té sin que se lo pidas.
+
+Vienen los Uchiha. Mikoto trae comida hecha en su casa. Fugaku se queda en la esquina, de brazos cruzados, y cuando se va, a la medianoche, inclina la cabeza hacia ti una sola vez, sin decir nada. Itachi se sienta un rato a tu lado, en silencio, y antes de levantarse te pone la mano en el hombro. Sasuke llega tarde, arrastrado por Naruto del cuello de la capa. Se sienta, come, no habla. Pero se queda hasta el final. Taka viene con él: Karin, que lo sigue a todas partes; Jūgo, que se queda en un rincón con un pajarito en el hombro; y Suigetsu, que se toma toda el agua del barrio.
+
+Viene Obito. Con Rin, que no le suelta la mano, y con Kakashi detrás. Se sienta en la punta más lejana de la mesa, con la cabeza baja, y nadie le dice nada. Al final de la noche se acerca. Te mira con el ojo nuevo. Hace una reverencia larga, y no se endereza hasta que Rin le toca la espalda.
+
+Ya tarde, cuando la mitad de la calle está dormida sobre las mesas, Tsunade se te acerca con la botella en la mano y te pone otra cosa en la palma. Una banda ninja. La placa de metal tiene la hoja grabada, y la tela es negra, sin rango, sin nombre.
+
+—No te estoy pidiendo que la uses —dice, sin mirarte—. Te la estoy dando para que sepas dónde queda tu casa.
+
+A la medianoche abres la puerta en medio de la calle.
+
+Una línea de luz vertical que se ensancha hasta tener el alto de una puerta, entre la mesa de Ichiraku y la Torre del Hokage. Toda la calle se despierta. Naruto se pone delante de todos, con los ojos rojos y la sonrisa más grande que tiene, y levanta el puño. Kase te salta al hombro.
+
+Cruzas.
+
+[Destino: One Piece.]
+
+[Regla anotada: en Dragon Ball, solo por esta vez, el tiempo corre más rápido. Los cuatro años hasta la llegada de Bills van a pasar en un mes tuyo.]
+
+Del otro lado huele a sal, a humedad y a burbujas de jabón.
+
+Estás en el Archipiélago Sabaody, en la misma calle de tierra entre los mangles gigantes de donde te fuiste. Es de noche. Las raíces de los árboles enormes sueltan burbujas transparentes que suben, despacio, hacia la luz de la luna, y se revientan sin ruido en el aire. A lo lejos, la música de un parque de diversiones. Un letrero de madera clavado en un tronco dice GROVE 13.
+
+Frente a ti, la puerta del bar de Shakky. La luz de adentro está encendida.
+
+Entras.
+
+Detrás de la barra, la misma mujer de pelo negro corto y cigarrillo largo, secando un vaso con un trapo. Sola. El bar está vacío. Levanta la vista cuando suena la campanita de la puerta, te ve a ti, ve a Kase, y se le dibuja una sonrisa lenta, como quien ve llegar algo que estaba esperando.
+
+—Vaya, vaya. —Suelta el humo hacia el techo—. El chico del gato. Hace dos meses que me pregunto si ibas a volver.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1440 · ONE PIECE · DÍA ~120 · 00:05    ║
+║ Archipiélago Sabaody · bar de Shakky         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~120 00:05, bar de Shakky (Grove 13, Sabaody). Facundo besó a Kase. Despedida simulada en Ichiraku (Día 10): toda Konoha; Jiraiya le dio el manuscrito dedicado; Tsunade una banda ninja negra sin rango ("para que sepas dónde queda tu casa"); Obito se inclinó; Fugaku inclinó la cabeza; Itachi la mano en el hombro. Puerta a la medianoche; Naruto con el puño en alto. R14: Dragon Ball acelerado (4 años hasta Bills en un mes de Facundo). Llegada a Sabaody de noche; Shakky sola en el bar: "El chico del gato. Hace dos meses que me pregunto si ibas a volver." Facundo puede actuar.

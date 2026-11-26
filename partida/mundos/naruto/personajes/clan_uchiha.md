@@ -11,3 +11,4 @@ ESTADO: vivos (no vistos de cerca aún).
 - T1418 · Fugaku: "Ese hombre estuvo en mi casa la noche de la masacre. Con Itachi. Con la máscara puesta. Lo vi. ¿Y lo quieres barriendo las calles?" A Minato: "Usted también murió por su culpa." Cede: "Si da un paso fuera de lugar, el clan Uchiha no va a esperar a ningún consejo."
 - T1426 · Fugaku mira el reencuentro del equipo de Minato, baja la vista y sale de la carpa en silencio.
 - T1428 · Taka vive con ellos. Fugaku confiesa el golpe en el juicio. Clan reintegrado (policía y consejo). Reciben los diez ojos del brazo de Danzō para enterrarlos.
+- T1440 · Mikoto trae comida. Fugaku, a medianoche, inclina la cabeza hacia Facundo una vez. Itachi se sienta a su lado en silencio y le pone la mano en el hombro.

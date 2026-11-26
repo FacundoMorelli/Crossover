@@ -18,3 +18,4 @@ QUÉ SABE DE FACUNDO (T1413): por Facundo, sabe su nombre. Por la voz: lo revivi
 - T1430 · Escribe tan rápido en la libreta que se le rompe la punta del lápiz.
 - T1432 · "¡Título! ¡La Princesa Babosa y la palma del viajero! ¡Capítulo uno!"
 - T1437 · Escribe en tres días el manuscrito "El Viajero del Gato" (200 páginas). Tsunade lo tira por la ventana; Kakashi lo rescata.
+- T1440 · Le da a Facundo el manuscrito "El Viajero del Gato" con dedicatoria: "Para mi personaje principal. No lo leas delante de Tsunade."

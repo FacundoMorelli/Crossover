@@ -202,3 +202,4 @@
 - Naruto · T1437 · por Jiraiya, Facundo dijo que se quedaría "unos días".
 - Naruto · T1438 · por Facundo: se va mañana (Día 10), volverá, no sabe cuándo. Organiza una despedida en Ichiraku.
 - Toda Konoha (por los gritos de Naruto) · T1439 · mañana hay fiesta de despedida en Ichiraku; Facundo se va.
+- TODA KONOHA · T1440 · vio a Facundo irse por una puerta de luz en la calle de Ichiraku. Tsunade le dio una banda ninja sin rango. Jiraiya le dio su manuscrito.
