@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1444)
-
-que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
-
-## RESPUESTA 1 (T1444)
-
-> que me vean, no creo que tengan problema, no me parecería malo conocer a dragon
-
-> —Que me vean. No creo que tengan problema. No me parecería malo conocer a Dragon.
-
-Robin te mira un momento en silencio. Después apoya el codo en el escritorio y la mejilla en la mano, como hace cuando un texto le resulta más interesante de lo que esperaba.
-
-—Claro que no te parecería malo. —Sonríe—. A ti nada te parece malo.
-
-Se agacha, junta el lápiz del suelo y lo deja sobre el escritorio, al lado de Kase, que no se mueve del libro.
-
-—Corvin le contó lo que pediste en Tequila Wolf. Que querías venir a verme y que no ibas a decirle a nadie dónde queda la isla. —Hace una pausa—. Dragon lo escuchó sin decir nada, como hace siempre. Y después dijo: "Si encuentra la isla sin que nadie se la diga, que venga".
-
-Mira a su alrededor, al cuarto, a ti parado en medio de sus libros.
-
-—Supongo que la encontraste.
-
-Afuera, el viento golpea la ventana angosta y mete un poco más de polvo blanco. A lo lejos, en algún lugar de la fortaleza, se oyen pasos sobre la piedra: un guardia haciendo la ronda, que se alejan.
-
-—Está aquí, en la base. Esta semana no salió. Duerme poco; casi siempre está despierto a esta hora, en la torre de arriba, mirando mapas. —Robin se pone de pie y se acomoda el abrigo sobre los hombros—. Puedo llevarte ahora, a la medianoche, por un pasillo lleno de revolucionarios que no saben que entraste.
-
-Te mira con esa calma suya, con un brillo en los ojos.
-
-—O puedes quedarte aquí hasta mañana y conocerlo a una hora más decente.
-
-╔══════════════════════════════════════════════╗
-```
-║ TURNO 1444 · ONE PIECE · DÍA ~120 · 00:12    ║
-║ Baltigo · base revolucionaria · cuarto de    ║
-║ Robin                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sentado sobre el libro de Robin        ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-
-```
-
----
-
-## COMANDO 2 (T1445)
+## COMANDO 1 (T1445)
 
 yy me gusta mucho mas la idea que me vean todos sin que me conozcan, pero tsmbien quiero quedarme contigo le doy un beso y la empiezo a besar mas fuerte
 
-## RESPUESTA 2 (T1445)
+## RESPUESTA 1 (T1445)
 
 > yy me gusta mucho mas la idea que me vean todos sin que me conozcan, pero tsmbien quiero quedarme contigo le doy un beso y la empiezo a besar mas fuerte
 
@@ -111,11 +63,11 @@ Robin nota que despertaste. No deja de leer.
 
 ---
 
-## COMANDO 3 (T1446)
+## COMANDO 2 (T1446)
 
 Buenos dias amor, quiero ir a conocer a dragon
 
-## RESPUESTA 3 (T1446)
+## RESPUESTA 2 (T1446)
 
 > Buenos dias amor, quiero ir a conocer a dragon
 
@@ -199,4 +151,51 @@ Mira tu cara. Mira a Kase. Mira a Robin. Vuelve a mirar tu cara.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:24, Baltigo, pie de la escalera de la torre de Dragon. Los revolucionarios lo reconocieron. Koala lo frena: "Yo te vi en el diario." Facundo puede responder.
+## COMANDO 3 (T1447)
+
+asi es me llamo Facundo Morelli, ojos de eclipse
+
+## RESPUESTA 3 (T1447)
+
+> asi es me llamo Facundo Morelli, ojos de eclipse
+
+> —Así es. Me llamo Facundo Morelli. Ojos de Eclipse.
+
+Detrás de ti, en el pasillo, alguien suelta el aire de golpe. Otro murmura "te lo dije".
+
+Koala se queda con la boca abierta un segundo. Después aprieta las carpetas contra el pecho, baja el escalón que le falta y se te planta enfrente, mirándote desde abajo con los ojos muy abiertos y nada de miedo.
+
+—¡Tequila Wolf! —dice—. ¡Fuiste tú! Corvin volvió contando que cuando llegaron no quedaba ni una cadena puesta en todo el puente. Cientos de esclavos sueltos, y nadie sabía quién había sido. ¡Y en el diario, el cadalso de Marineford, el gato...! —Mira a Kase. Kase la ignora con mucha dignidad—. Es el mismo gato.
+
+Se da vuelta hacia Robin.
+
+—Robin-san. ¿Él es...? —No termina la pregunta. Mira la puerta del cuarto, al fondo del pasillo. Mira a Robin, que le sostiene la mirada sin pestañear. Koala se pone un poco colorada—. Ah. Ya entendí. Perdón.
+
+Robin sonríe apenas.
+
+—Viene a ver a Dragon.
+
+—Dragon-san está arriba. Con Sabo-kun, revisando los informes del Nuevo Mundo. Yo iba a buscar... —Mira las carpetas, se acuerda de que las tiene en las manos, y las acomoda—. Bueno, esto puede esperar.
+
+Vuelve a mirarte, ahora más seria, con la cabeza un poco ladeada.
+
+—Pero dime una cosa, Facundo. Esta isla no está en ningún mapa, la costa está vigilada día y noche y anoche no entró ningún barco. —Señala el suelo de piedra blanca con un dedo—. ¿Cómo llegaste hasta aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1447 · ONE PIECE · DÍA ~121 · 06:25    ║
+║ Baltigo · base revolucionaria · pie de la    ║
+║ escalera de la torre                         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Conocer a Dragon                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:25, Baltigo, pie de la escalera de la torre. Facundo se presentó. Koala: Dragon arriba con Sabo. Pregunta cómo llegó. Facundo puede responder.

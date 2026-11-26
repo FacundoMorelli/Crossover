@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: el cartel (400M) y el diario de Marineford.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 TASACIÓN: Karate de los Gyojin · amenaza mínima · Facundo x100 o más · copiable, misión baja.
 ESTADO: activa
+- T1447 · Facundo se presenta: "Me llamo Facundo Morelli. Ojos de Eclipse." Deduce que liberó Tequila Wolf (por Corvin y el diario). Entiende que está con Robin (colorada). Dragon está arriba con Sabo. Pregunta cómo llegó: isla fuera de los mapas, costa vigilada, ningún barco.

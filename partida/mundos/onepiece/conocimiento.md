@@ -267,3 +267,6 @@
 - Dragon · (Día ~60) · Por Corvin: Facundo liberó Tequila Wolf, quiere visitar a Robin, promete no revelar la isla.
 - Facundo · T1444 · Por Robin: respuesta de Dragon ("Si encuentra la isla sin que nadie se la diga, que venga"); Dragon está en la torre de arriba de la base.
 - Revolucionarios del pasillo de Baltigo (~15), Koala · T1446 · Por el cartel y el diario de Marineford: lo reconocen como Ojos de Eclipse. Lo ven salir del cuarto de Robin con el gato a las 06:20. Nadie sabe cómo entró.
+- Koala y revolucionarios del pasillo · T1447 · Por Facundo: se llama Facundo Morelli, es Ojos de Eclipse.
+- Koala · T1447 · Por Corvin (Día ~60): en Tequila Wolf no quedaba ninguna cadena; deduce (T1447) que fue Facundo. Deduce que es pareja de Robin (salió de su cuarto).
+- Facundo · T1447 · Por Koala: Dragon está arriba con Sabo, revisando informes del Nuevo Mundo.

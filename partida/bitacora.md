@@ -1445,3 +1445,4 @@ T1443 · ONE PIECE · Baltigo, cuarto de Robin · Beso. "Nada me puede parar si 
 T1444 · ONE PIECE · Baltigo, cuarto de Robin · "No me parecería malo conocer a Dragon." Robin: Dragon dijo "Si encuentra la isla sin que nadie se la diga, que venga". Está en la torre. ¿Ahora o mañana?
 T1445 · ONE PIECE · Baltigo, cuarto de Robin · "...quiero quedarme contigo." Besos, fundido (noche juntos). Amanece Día ~121, 06:10: "Buenos días. Ya es una hora decente."
 T1446 · ONE PIECE · Baltigo · Robin lo lleva hacia la torre de Dragon. El pasillo lo reconoce (Ojos de Eclipse) saliendo del cuarto de Robin. Koala lo frena en la escalera: "Yo te vi en el diario."
+T1447 · ONE PIECE · Baltigo · Se presenta ante Koala y el pasillo: Facundo Morelli, Ojos de Eclipse. Koala: Tequila Wolf fue él; Dragon arriba con Sabo. "¿Cómo llegaste hasta aquí?"
