@@ -271,3 +271,4 @@
 - Koala · T1447 · Por Corvin (Día ~60): en Tequila Wolf no quedaba ninguna cadena; deduce (T1447) que fue Facundo. Deduce que es pareja de Robin (salió de su cuarto).
 - Facundo · T1447 · Por Koala: Dragon está arriba con Sabo, revisando informes del Nuevo Mundo.
 - Dragon, Sabo · T1448 · Ven a Facundo con Robin y el gato en la torre; por Koala: llegó solo. Por cartel/diario: Ojos de Eclipse (Marineford).
+- Dragon · T1449 · Por la transmisión de Marineford: Facundo liberó a Ace, Ace y Barbablanca vivos, la cúpula contra el Ryusei Kazan. Por Corvin: Tequila Wolf, con Luffy. Por Robin (meses atrás): Facundo no contesta cómo viaja. Por sus hombres/Koala: llegó sin barco y salió del cuarto de Robin.

@@ -3,99 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1446)
-
-Buenos dias amor, quiero ir a conocer a dragon
-
-## RESPUESTA 1 (T1446)
-
-> Buenos dias amor, quiero ir a conocer a dragon
-
-> —Buenos días, amor. Quiero ir a conocer a Dragon.
-
-Robin cierra el libro sobre el dedo, para no perder la página. La mano de la pared se deshace en pétalos.
-
-—Ya me imaginaba. —Te mira desde tu pecho, con el pelo negro desordenado sobre la cara—. Ni siquiera pediste el desayuno.
-
-Se levanta. Se viste sin apuro, con la misma ropa de la noche anterior y el abrigo largo, de un tono verde oscuro, como el que usan todos en esa base. Se ata el pelo. Junta del suelo los libros caídos, los apila contra la pared y pone encima, con cuidado, el que estaba leyendo.
-
-Kase baja del alféizar y se te sube al hombro antes de que se lo pidas.
-
-Robin saca la tranca de madera de la puerta. Se detiene un segundo con la mano en el picaporte y te mira de arriba abajo: el pelo blanco y azul, los ojos, la cicatriz, el gato.
-
-—No hay forma de que pases desapercibido —dice—. Te gusta eso, ¿verdad?
-
-Abre.
-
-El pasillo es largo, de piedra blanca, con ventanas angostas por las que entra el sol de la mañana en franjas. Hay gente. Bastante. Hombres y mujeres con abrigos y vendas, cargando cajas, papeles, fusiles; dos que bajan una escalera discutiendo sobre un mapa; uno sentado en el suelo, limpiando una pistola.
-
-El primero que te ve es el de la pistola. Levanta la vista, te ve salir del cuarto de Robin detrás de ella, y se queda quieto con el trapo en la mano.
-
-Después te ve el resto.
-
-El pasillo se va callando de a poco, de adelante hacia atrás, como cuando alguien tira una piedra en un charco. Los dos del mapa dejan de discutir. Una mujer con una caja se frena en seco y el que viene detrás choca contra ella.
-
-—Ese pelo...
-
-—El gato. Mira el gato.
-
-—Es Ojos de Eclipse. El de Marineford. El del cadalso.
-
-—¿Cómo entró? ¿Quién lo dejó entrar?
-
-—Salió del cuarto de Nico Robin.
-
-—...Ah.
-
-Nadie saca un arma. Nadie se mueve. Te miran pasar como se mira pasar una tormenta: sin saber si va a romper algo o no.
-
-Robin camina delante de ti, tranquila, sin apurarse, como si llevara de paseo a un invitado cualquiera. Llegan al pie de una escalera de caracol que sube hacia la torre.
-
-Y en el primer escalón, bajando a las corridas con una pila de carpetas contra el pecho, una chica de pelo anaranjado corto, gorra y abrigo, que se frena de golpe al verlos.
-
-—¡Robin-san, buenos días! El informe de...
-
-Te ve.
-
-Las carpetas le resbalan un poco del pecho. Las ataja.
-
-Mira tu cara. Mira a Kase. Mira a Robin. Vuelve a mirar tu cara.
-
-—...¿Quién es él? —pregunta. Y después, más bajo, abriendo mucho los ojos—: No. Espera. Yo te vi en el diario.
-
-```
-╔══════════════════════════════════════════════╗
-║ KOALA                                        ║
-║ Ejército Revolucionario                      ║
-║ PODER: Karate de los Gyojin                  ║
-║ AMENAZA: MÍNIMA                              ║
-║ Diferencia estimada: tú, x100 o más          ║
-║ COPIABLE · MISIÓN: BAJA                      ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1446 · ONE PIECE · DÍA ~121 · 06:24    ║
-║ Baltigo · base revolucionaria · pie de la    ║
-║ escalera de la torre                         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Conocer a Dragon                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1447)
+## COMANDO 1 (T1447)
 
 asi es me llamo Facundo Morelli, ojos de eclipse
 
-## RESPUESTA 2 (T1447)
+## RESPUESTA 1 (T1447)
 
 > asi es me llamo Facundo Morelli, ojos de eclipse
 
@@ -138,11 +50,11 @@ Vuelve a mirarte, ahora más seria, con la cabeza un poco ladeada.
 
 ---
 
-## COMANDO 3 (T1448)
+## COMANDO 2 (T1448)
 
 es un secreto, no voy a decir nada de la ubicación no se tienen que preocupar por eso
 
-## RESPUESTA 3 (T1448)
+## RESPUESTA 2 (T1448)
 
 > es un secreto, no voy a decir nada de la ubicación no se tienen que preocupar por eso
 
@@ -217,4 +129,54 @@ Cuando lo hace, ves la cara que viste en Loguetown: dura, serena, con el tatuaje
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:29, Baltigo, torre de Dragon. Presentes Dragon, Sabo, Koala, Robin. Dragon: "Así que encontraste la isla." Facundo puede responder.
+## COMANDO 3 (T1449)
+
+asi es
+
+## RESPUESTA 3 (T1449)
+
+> asi es
+
+> —Así es.
+
+Dragon no contesta enseguida.
+
+El viento entra por las cuatro ventanas y le mueve la capa. Sobre la mesa, una de las piedras que sujetan los mapas se desliza un centímetro y un papel se levanta por la punta. Sabo lo aplasta con la mano sin dejar de mirarte.
+
+Koala se queda junto a la puerta, abrazada a las carpetas. Robin, a tu lado, no dice nada. Está tranquila. Es la única del cuarto que lo está, además de Kase.
+
+Dragon camina despacio desde la ventana hasta la mesa. Cada paso suena sobre la piedra. Se detiene del otro lado, frente a ti, con la mesa de mapas entre los dos, y apoya las dos manos sobre el Nuevo Mundo.
+
+—Tequila Wolf —dice—. Setecientos años construyendo un puente con esclavos de todo el mundo, y cuando llegaron mis hombres no quedaba ni una cadena. Corvin dijo que estabas ahí. Que te acompañaba un chico con sombrero de paja.
+
+Hace una pausa.
+
+—Marineford. El cadalso. Portgas D. Ace, vivo. Barbablanca, vivo. Una cúpula que el magma de un almirante no pudo atravesar. Lo vi en la transmisión. —Los ojos no se le mueven de tu cara—. Y ahora entras a mi isla de noche, sin barco, sin que te vea ningún vigía, y sales a la mañana del cuarto de Nico Robin.
+
+Junto a la mesa, Sabo carraspea y mira para otro lado. Koala se pone colorada otra vez.
+
+Dragon no.
+
+—No te ofrezco un puesto —dice—. No pareces alguien que acepte puestos. Y no te voy a preguntar cómo llegaste, porque Robin ya me avisó hace meses que no ibas a contestar.
+
+Se endereza. Es más alto que tú.
+
+—Así que te pregunto otra cosa, Facundo Morelli. —Lo dice sin levantar la voz, y el viento parece bajar con él—. ¿Qué quieres del Ejército Revolucionario?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1449 · ONE PIECE · DÍA ~121 · 06:31    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Conocer a Dragon                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:31, Baltigo, torre de Dragon. Dragon: "¿Qué quieres del Ejército Revolucionario?" Facundo puede responder.
