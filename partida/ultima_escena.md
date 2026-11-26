@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1454)
-
-ace debe estar con barba blanca y luffy sigue entrenando
-
-## RESPUESTA 1 (T1454)
-
-> ace debe estar con barba blanca y luffy sigue entrenando
-
-> —Ace debe estar con Barbablanca. Y Luffy sigue entrenando.
-
-Sabo cierra los ojos.
-
-Se queda así un momento, de rodillas en el suelo, con las manos apoyadas en los muslos y Koala a su lado. Respira hondo, una vez, dos. Cuando los abre, todavía tiene la cara mojada, pero ya no tiembla.
-
-—Con Barbablanca —repite—. Claro. Siempre quiso ser libre, y el viejo es el único que lo deja serlo. —Se le escapa una risa, ahora sí—. Y Luffy entrenando. Ese idiota. Seguro que come más de lo que entrena.
-
-Se pone de pie. Despacio, apoyándose en el borde de la mesa. Koala se levanta con él, sin soltarle el brazo. Sabo junta el sombrero de copa del suelo, lo sacude y se lo pone. Después levanta el caño de metal.
-
-Se queda mirándolo, con el caño en la mano.
-
-—Doce años —dice—. Doce años con un caño, sin saber por qué siempre quise uno.
-
-Se da vuelta hacia Dragon.
-
-Dragon le sostiene la mirada. No dice nada. No hace falta. Es el hombre que lo sacó del mar, que lo crió entre revolucionarios y que, si lo sabía o lo sospechaba, nunca le dijo de dónde venía. Entre los dos pasa algo largo y callado que nadie más en el cuarto entiende del todo.
-
-Después Sabo te mira a ti.
-
-—Llegaste a esta isla sin barco y sin que nadie te viera —dice—. Y Corvin dice que en Tequila Wolf apareciste de la nada con Luffy, y te fuiste igual.
-
-Da un paso hacia ti. Tiene el ojo sano encendido, como si de golpe le hubieran devuelto diez años de vida de una sola vez.
-
-—No te voy a preguntar cómo lo haces. —Aprieta el caño—. Te voy a preguntar otra cosa. ¿Me puedes llevar a verlos?
-
-Detrás de él, Koala abre la boca para decir algo. Mira a Dragon. Dragon sigue sin moverse, sin decir que sí ni que no.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1454 · ONE PIECE · DÍA ~121 · 06:39    ║
-║ Baltigo · torre de Dragon                    ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1455)
+## COMANDO 1 (T1455)
 
 si dragon te deja los llevo a verlos a los dos al mismo tiempo
 
-## RESPUESTA 2 (T1455)
+## RESPUESTA 1 (T1455)
 
 > si dragon te deja los llevo a verlos a los dos al mismo tiempo
 
@@ -113,11 +61,11 @@ Sabo se acomoda el sombrero de copa, se pone el caño al hombro y se para frente
 
 ---
 
-## COMANDO 3 (T1456)
+## COMANDO 2 (T1456)
 
 toco a sabo me teletransporto atrás de ace lo toco y los llevo a los dos a la isla donde esta luffy en frente de el sin que ni se de cuenta ace
 
-## RESPUESTA 3 (T1456)
+## RESPUESTA 2 (T1456)
 
 > toco a sabo me teletransporto atrás de ace lo toco y los llevo a los dos a la isla donde esta luffy en frente de el sin que ni se de cuenta ace
 
@@ -181,4 +129,76 @@ Sabo da un paso hacia Luffy. Se le quiebra la voz antes de decir nada. Ace, en l
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121, Rusukaina (nieve). Facundo trajo a Sabo y a Ace dormido frente a Luffy; Rayleigh mira. Luffy con la mandíbula estirada mirando a Sabo; Sabo da un paso; Ace ronca. Facundo puede actuar.
+## COMANDO 3 (T1457)
+
+despierto a ace
+
+## RESPUESTA 3 (T1457)
+
+> despierto a ace
+
+Te agachas en la nieve y le sacudes el hombro a Ace.
+
+Nada. Ronca.
+
+Le sacudes más fuerte. Ace da un respingo, abre un ojo, y antes de abrir el otro ya tiene la mano encendida, con una llama naranja que derrite la nieve a su alrededor en un círculo perfecto y suelta vapor.
+
+—¡¿Qué...?! —Parpadea. Te ve a ti. Ve a Kase—. ¿Facundo?
+
+Mira alrededor. La nieve. Los acantilados. Los huesos gigantes. El mar liso. El tenedor que todavía tiene en la otra mano, con la carne pinchada.
+
+—Estaba comiendo —dice, como si eso explicara algo—. Estaba en el Moby Dick, comiendo...
+
+Y entonces ve a Luffy.
+
+—¿Luffy? —Se le apaga la llama de la mano—. ¿Qué haces aquí? ¿Qué hago yo aquí? ¿No estabas entrenando con el...?
+
+Ve a Rayleigh en la roca. Se calla.
+
+Después sigue la mirada de Luffy, que no se movió ni un milímetro, que sigue con la mandíbula estirada y los ojos clavados en algo detrás de ti.
+
+Ace se da vuelta.
+
+Sabo está ahí, de pie en la nieve, con el sombrero de copa, la levita azul y el caño de metal en la mano. Llorando sin hacer ruido, con una sonrisa temblorosa.
+
+El tenedor se le cae a Ace en la nieve.
+
+—Hola, Ace —dice Sabo, con la voz hecha pedazos—. Perdón. Tardé doce años.
+
+Ace no contesta. No se mueve. Se queda sentado en el suelo, mirándolo, con la cara de quien ve un fantasma a pleno día y no se anima a parpadear por miedo a que desaparezca.
+
+Detrás de él, a Luffy se le vuelve a armar la mandíbula de golpe, con un chasquido de goma.
+
+—¿Sa...?
+
+Le tiembla el labio. Se le llenan los ojos.
+
+—¡¿SABOOOOOOOOOOO?!
+
+El grito rebota contra los acantilados y vuelve tres veces. Una bandada de pájaros enormes sale volando de la selva congelada.
+
+Luffy salta. Los brazos se le estiran, uno, dos, tres metros, y te pasan por al lado: uno se enrosca alrededor de Sabo y el otro alrededor de Ace, todavía sentado en el suelo, y los arrastra a los dos hacia él hasta que los tres chocan en el medio, en la nieve, en una pila de piernas, sombreros y llanto.
+
+Luffy llora a los gritos, con mocos, como cuando tenía siete años. Sabo lo abraza fuerte y se ríe y llora al mismo tiempo. Ace queda aplastado en el medio, con la cara contra el hombro de Sabo.
+
+Pero no llora. Todavía no. Levanta la vista por encima del hombro de Sabo y te mira a ti.
+
+Tiene los ojos muy abiertos y la cara pálida. Y en la mirada, una pregunta enorme que todavía no le salió de la boca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1457 · ONE PIECE · DÍA ~121 · 06:43    ║
+║ Rusukaina · explanada de roca, nieve         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro, esponjado por el frío    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Llevar a Sabo a ver a Ace y Luffy  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:43, Rusukaina. Ace despierto; reencuentro de los tres hermanos en la nieve. Ace, aplastado en el abrazo, mira a Facundo con una pregunta sin decir. Facundo puede actuar.

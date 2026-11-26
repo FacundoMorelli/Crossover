@@ -20,3 +20,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1454 · Por Facundo: Ace con Barbablanca, Luffy entrenando. Se ríe ("Ese idiota"). Se pone de pie con el sombrero y el caño ("Doce años con un caño, sin saber por qué"). Mirada larga con Dragon. A Facundo: sabe por Corvin que apareció y desapareció de la nada en Tequila Wolf. "No te voy a preguntar cómo lo haces. ¿Me puedes llevar a verlos?"
 - T1455 · Dragon lo deja ir; "Vuelvo." Sonrisa enorme (se parece a Luffy). Deja los informes a Koala. Listo frente a Facundo: "Cuando quieras."
 - T1456 · Facundo lo lleva al Moby Dick: ve a Ace dormido en el plato y se queda sin aire. Después a Rusukaina frente a Luffy. Da un paso hacia Luffy; se le quiebra la voz.
+- T1457 · A Ace: "Hola, Ace. Perdón. Tardé doce años." Abraza a Luffy; ríe y llora.

@@ -58,3 +58,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T929 · En el bar de Shakky: "¡El viejo del Haki! ¡Facundo dice que tú me vas a hacer fuerte!"
 - T930 · Despedida: "¡Cuando nos veamos, voy a ser mucho más fuerte que tú!" Abrazo: "Gracias, Facundo. Por Ace. Por todos." Ve la puerta: "¡¿Qué es esooo?!" Se queda con Rayleigh.
 - T1456 · Día ~121 · Rusukaina, nieve; acaba de tumbar una bestia gigante (pelo más largo, sombrero a la espalda). Ve aparecer a Facundo, a Ace dormido y a Sabo. Se le estira la mandíbula hasta el pecho.
+- T1457 · Reconoce a Sabo: "¡¿SABOOOOOO?!" Lo abraza junto con Ace con los brazos estirados; llora a los gritos como a los siete años.

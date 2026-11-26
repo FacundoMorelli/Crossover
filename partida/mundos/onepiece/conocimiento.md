@@ -284,3 +284,4 @@
 - Marco y los piratas de la mesa del Moby Dick · T1456 · Ven a Ojos de Eclipse aparecer de la nada en cubierta con un rubio de sombrero de copa, tocar a Ace dormido y desaparecer con él.
 - Luffy, Rayleigh · T1456 · Ven a Facundo aparecer de la nada en Rusukaina con Ace dormido y con Sabo.
 - Robin, Dragon, Koala · T1456 · Ven a Facundo desaparecer de la torre con Sabo.
+- Ace, Luffy, Rayleigh · T1457 · Ven a Sabo vivo; Sabo los reconoce y pide perdón por tardar doce años. Ace sabe que estaba en el Moby Dick y apareció en Rusukaina con Facundo.

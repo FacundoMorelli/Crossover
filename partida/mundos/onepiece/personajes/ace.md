@@ -26,3 +26,4 @@ ESTADO: activo
 - T910 · "No pudiste esperar ni dos minutos." A Facundo: si se va, ¿la pared sigue?
 - T911 · A Luffy: "Hazle caso a tu compañero. Dos años." A Facundo: "Y tú, cuídamelo."
 - T1456 · Día ~121 · Moby Dick, Nuevo Mundo, mediodía: dormido con la cara en el plato (narcolepsia). Facundo le toca la espalda sin que se entere y lo lleva a Rusukaina. Sigue dormido en la nieve, con el tenedor en la mano.
+- T1457 · Facundo lo despierta: mano en llamas. "¿Facundo? Estaba comiendo..." Ve a Luffy, a Rayleigh, a Sabo; se le cae el tenedor. Sabo: "Perdón. Tardé doce años." Luffy los abraza a los dos. Ace no llora todavía: mira a Facundo, pálido, con una pregunta.
