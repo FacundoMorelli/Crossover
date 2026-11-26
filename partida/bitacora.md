@@ -1392,3 +1392,4 @@ T1390 · NARUTO · Bosque norte · "Puedes intentarlo." Zetsu negro intenta mete
 T1391 · NARUTO · Bosque norte · "Dime todo lo que sabes." Zetsu negro: "Soy la voluntad de Madara" (mentira). Ojo de la Luna, Estatua con 7 bijū (solo él sabe dónde). Tienta a Facundo a despertar al Diez Colas.
 T1392 · NARUTO · Bosque norte · "No me interesa, sé dónde está; siento a todo el mundo." Zetsu negro: "No tengo nada que ofrecerte." Salta hacia Kase para meterse en él.
 T1393 · NARUTO · Bosque norte · Eclipse: un punto negro se traga entero a Zetsu negro ("Madre..."). MUERTO. +25 F, +500 EXP. Zetsu blanco desmayado en el árbol.
+T1394 · NARUTO · Carpa de mando · Lleva al Zetsu blanco. Tsunade: "Cinco. ¿Y la otra mitad?" "Tengo información." Tsunade: "Habla."

@@ -22,3 +22,5 @@ ESTADO: negro herido, reducido, en el barro frente a Facundo.
 QUÉ SABE DE FACUNDO (T1392): por él, puede sentir a todo el mundo a cualquier distancia; sabe dónde está la Estatua.
 - T1393 · ZETSU NEGRO MUERTO: Facundo abre un Eclipse (punto negro) entre Kase y él y se lo traga entero. Última palabra: "Madre..." Zetsu blanco sigue desmayado en el árbol.
 ESTADO: negro muerto; blanco inconsciente.
+- T1394 · Zetsu blanco llevado desmayado a la carpa de mando, junto a Kisame.
+ESTADO: blanco inconsciente en la carpa de mando.

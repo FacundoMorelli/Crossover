@@ -136,3 +136,4 @@
 - Facundo · T1391 · por Zetsu negro: plan del Ojo de la Luna (9 bijū, Estatua del Camino Exterior, Diez Colas, genjutsu en la luna); 7 bijū ya en la Estatua; faltan el 8 y el 9; solo Zetsu sabe dónde está la Estatua ahora. Zetsu dice ser la voluntad de Madara (Facundo sabe que miente, por conocimiento del jugador).
 - Zetsu negro · T1392 · por Facundo: puede sentir a todo el mundo a cualquier distancia; sabe dónde está la Estatua.
 - Nadie · T1393 · la muerte de Zetsu negro no tuvo testigos (el blanco estaba inconsciente).
+- Todos en la carpa de mando · T1394 · vieron a Facundo traer al Zetsu blanco desmayado.

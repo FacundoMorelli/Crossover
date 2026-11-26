@@ -23,3 +23,4 @@ ESTADO: en la cueva del norte, esperando.
 - T1386 · Karin: "¿Se va a... quedar? ¿En Konoha? ¿Por su propia cuenta?" Jūgo: "Si Sasuke se queda, yo voy." Suigetsu enumera lo absurdo; "Bueno. Por lo menos en Konoha debe de haber agua de verdad." Facundo los teletransporta a la carpa de mando. Karin corre a Sasuke; él la frena con la mano en la frente.
 ESTADO: en Konoha, carpa de mando (T1386).
 - T1387 · Suigetsu se atraganta: "¡¿KISAME?!"
+- T1394 · Suigetsu (pinchaba la mejilla de Kisame): "¡¿Y eso qué es?!" Karin: "La mitad del de la pared. La que se reía."

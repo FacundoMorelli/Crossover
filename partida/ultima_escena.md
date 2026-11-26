@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1391)
-
-bueno dime todo lo que sabes antes que te mate
-
-## RESPUESTA 1 (T1391)
-
-> bueno dime todo lo que sabes antes que te mate
-
-> —Bueno. Dime todo lo que sabes antes de que te mate.
-
-Zetsu negro deja de retroceder.
-
-Se queda quieto en el barro, encogido, con el ojo amarillo fijo en ti. Cuando vuelve a hablar, la voz ya no tiembla. Es suave, casi amable, como la de un viejo que le cuenta un secreto a un chico.
-
-—Todo lo que sé. —Se acomoda, se estira un poco, recupera algo de forma—. Está bien. Te lo voy a decir, ya que de todas formas me vas a matar.
-
-El ojo parpadea despacio.
-
-—Yo soy la voluntad de Madara Uchiha. Él me creó antes de morir, con su último aliento, para que su plan no muriera con él. —La voz se le vuelve grave, solemne—. Todo lo que hizo el chico de la máscara, lo hizo porque yo se lo susurré al oído. Todo lo que hizo Nagato, lo hizo porque yo estuve a su lado.
-
-Se arrastra un poco hacia ti, despacio.
-
-—El plan se llama el Ojo de la Luna. Juntar a las nueve bestias con cola dentro de la Estatua Demoníaca del Camino Exterior, despertar al Diez Colas y proyectar en la luna un genjutsu infinito que atrape a toda la humanidad en un sueño. Un mundo sin guerras, sin muerte, sin dolor. El sueño de Madara.
-
-El ojo te mira, brillante.
-
-—Ya tenemos siete. Están adentro de la Estatua, en un lugar que solo yo conozco ahora que el chico está dormido. Faltan el Ocho Colas y el Nueve Colas. —Se le curva la boca sin dientes en algo parecido a una sonrisa—. Si me matas, la Estatua se queda donde está, con siete bestias adentro, y nadie va a saber nunca dónde. Pero si me dejas vivir...
-
-Se le baja la voz hasta un susurro.
-
-—Tú eres fuerte. Más fuerte que nadie que haya visto en mil años. Podrías terminar el sueño de Madara. Podrías ser el que despierte al Diez Colas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1391 · NARUTO · DÍA 1 · 13:50          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.230/320.000               ║
-║ FRAGMENTOS 113.499 · 0 ryo                   ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Zetsu negro                        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1392)
+## COMANDO 1 (T1392)
 
 no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
 
-## RESPUESTA 2 (T1392)
+## RESPUESTA 1 (T1392)
 
 > no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
 
@@ -101,11 +52,11 @@ La oscuridad ya está a un palmo de su cara.
 
 ---
 
-## COMANDO 3 (T1393)
+## COMANDO 2 (T1393)
 
 entiendo, uso eclipse y lo trago antes que haga nada
 
-## RESPUESTA 3 (T1393)
+## RESPUESTA 2 (T1393)
 
 > entiendo, uso eclipse y lo trago antes que haga nada
 
@@ -158,4 +109,63 @@ En el tronco del árbol, la mitad blanca de Zetsu cuelga desmayada, con la boca 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:51, bosque del borde norte. Facundo usó el Eclipse: un punto negro entre Kase y Zetsu negro se lo tragó entero ("Madre..."). ZETSU NEGRO MUERTO (+25 F, +500 EXP). Ojos sin dolor. Kase se calma. Zetsu blanco sigue desmayado en el árbol. Facundo puede actuar.
+## COMANDO 3 (T1394)
+
+agarro a zetsu y me teletransporto con tsunade, tengo información
+
+## RESPUESTA 3 (T1394)
+
+> agarro a zetsu y me teletransporto con tsunade, tengo información
+
+Despegas a la mitad blanca de Zetsu del tronco. Sale como una planta arrancada, con un ruido húmedo de raíces, flácida, liviana, con la mitad del cuerpo que le falta abierta como una cáscara vacía. Te la cuelgas del hombro libre.
+
+Te llevas dos dedos a la frente.
+
+La carpa de mando.
+
+Está más llena que hace un rato. Tsunade, de pie junto a la mesa rota. Sasuke, contra el mismo poste, con Karin sentada a sus pies. Jūgo, agachado en un rincón para no tocar el techo. Suigetsu, sentado en el suelo al lado de Kisame, que sigue desmayado boca arriba, pinchándole la mejilla con un dedo. Homura y Koharu, en sus banquitos. Y un hombre enorme de abrigo negro y cara llena de cicatrices, Ibiki, arrodillado junto a Kisame, terminando de dibujarle sellos en el pecho con un pincel.
+
+Todos levantan la cabeza a la vez cuando apareces.
+
+Dejas caer a la mitad blanca de Zetsu en el suelo, al lado de Kisame. Cae como un trapo.
+
+Suigetsu se aparta de un salto.
+
+—¡¿Y eso qué es?!
+
+—La mitad del de la pared —dice Karin, en voz baja, mirándolo con asco—. La que se reía.
+
+Tsunade mira el cuerpo blanco en el suelo. Después levanta los ojos hacia ti, muy despacio.
+
+—Cinco. —No lo pregunta—. ¿Y la otra mitad?
+
+> —Tengo información.
+
+Tsunade se queda mirándote un segundo largo.
+
+Después mira a su alrededor: a Taka, a Homura y Koharu, a Ibiki, al pincel quieto en su mano. Vuelve a mirarte a ti.
+
+—Ibiki, sigue con los sellos. Que no se despierten. —Se cruza de brazos—. Los demás se quedan donde están y no abren la boca.
+
+Te hace un gesto seco con el mentón.
+
+—Habla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1394 · NARUTO · DÍA 1 · 13:53          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:53, carpa de mando. Facundo llevó al Zetsu blanco desmayado. Presentes: Tsunade, Sasuke (Karin a sus pies), Jūgo, Suigetsu, Homura, Koharu, Ibiki (sellando a Kisame), Kisame inconsciente, Zetsu blanco. Tsunade: "Cinco. ¿Y la otra mitad?" Facundo: "Tengo información." Tsunade: Ibiki sigue sellando; los demás callados. "Habla." Facundo tiene que hablar.
