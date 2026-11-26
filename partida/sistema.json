@@ -1,8 +1,8 @@
 {
-  "turno": 1432,
+  "turno": 1433,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 5 (cinco días después de llegar; ~cap. 452 + 4 días, canon alterado)",
-  "hora": "Día 5, 06:15",
+  "hora": "Día 5, 06:18",
   "edad": 18,
   "nivel": 30,
   "exp": 327530,
@@ -1523,6 +1523,14 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
+    },
+    {
+      "poder": "Poder de Naruto Uzumaki (Multiclones de Sombra, Modo Sabio, Rasengan y variantes, chakra Uzumaki y todo lo de su canon)",
+      "usuario": "Naruto Uzumaki",
+      "mundo": "naruto",
+      "mision": "Que Naruto y el Nueve Colas dejen de ser enemigos.",
+      "dificultad": "ALTA",
+      "emitida": "T1433"
     }
   ],
   "misiones_de_copia_rechazadas": [],

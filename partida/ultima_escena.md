@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1430)
-
-activo el ultra instinto dominado
-
-## RESPUESTA 1 (T1430)
-
-> activo el ultra instinto dominado
-
-Kase salta de tu hombro a uno de los postes de madera un instante antes de que pase nada, y se sienta a mirar.
-
-Te cambia algo adentro, en silencio.
-
-El aire alrededor de tu cuerpo se pone plateado. No como una llama, ni como un brillo: como una niebla quieta, fría, que te envuelve y no se mueve con el viento. El pelo blanco y azul se te vuelve plateado entero, de la raíz a las puntas. Los ojos, el rojo y el azul, se te aclaran hasta un gris pálido, como plata líquida.
-
-Y dejas de pensar.
-
-El talón de Tsunade cae.
-
-No estás ahí.
-
-La Patada del Cielo da en el suelo donde estabas parado medio segundo antes, y el suelo revienta. Un cráter de diez metros se abre en el pasto con un estruendo que hace temblar los árboles de la orilla. Saltan piedras, tierra, terrones de pasto. El río se sale de su cauce en una ola y moja a Lee y a Gai, que no dejan de hacer flexiones. Kakashi levanta los pies de la piedra de los caídos para que no le salpique el barro.
-
-Tú estás a dos metros del cráter, de pie, quieto, con las manos sueltas a los costados. No sabes cómo llegaste ahí. Tu cuerpo lo sabe.
-
-Tsunade sale del cráter de un salto, y en el aire ya está pegando.
-
-Puño derecho. Lo esquivas sin moverte casi nada: el puño te pasa a un dedo de la mejilla y el viento que levanta te sacude el pelo plateado. Puño izquierdo, al estómago. Te giras de costado, apenas. Patada baja. Un paso atrás. Codo a la sien. Inclinas la cabeza. Rodilla. Palma abierta. Otro puño, y otro, y otro, cada vez más rápido, cada uno con fuerza para partir una montaña.
-
-Ninguno te toca.
-
-No es que los veas venir. Es que tu cuerpo ya se movió antes de que lleguen. Te inclinas, giras, das medio paso, y Tsunade le pega al aire una y otra vez, y el aire le devuelve el golpe en forma de viento que arranca hojas de los árboles de alrededor.
-
-—¡¿Qué es eso?! —grita Naruto, que se cayó de la rama y quedó sentado en el pasto—. ¡¿Qué es eso, de veras?!
-
-—No es chakra —dice Itachi, desde lo alto del árbol, con el Sharingan encendido, en voz muy baja—. No es nada.
-
-Jiraiya escribe en la libreta tan rápido que se le rompe la punta del lápiz.
-
-Kakashi cierra el libro.
-
-Tsunade se detiene. Respira fuerte. Le corre sudor por la frente, sobre el rombo violeta, y le brillan los ojos color miel, no de enojo: de algo mucho más feliz.
-
-—Deja de esquivar —te dice, jadeando, con una sonrisa enorme—. ¡Pégame una vez! ¡Una sola! ¡Quiero saber qué se siente!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1430 · NARUTO · DÍA 5 · 06:11          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 326.730/360.000               ║
-║ FRAGMENTOS 114.024 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común · Ultra Instinto         ║
-║ Kase: en un poste                            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Pelea con Tsunade                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1431)
+## COMANDO 1 (T1431)
 
 le pego conteniendome
 
-## RESPUESTA 2 (T1431)
+## RESPUESTA 1 (T1431)
 
 > le pego conteniendome
 
@@ -135,11 +74,11 @@ Se limpia la sangre de la boca con el dorso de la mano. Te mira desde la ladera,
 
 ---
 
-## COMANDO 3 (T1432)
+## COMANDO 2 (T1432)
 
 asi es, le tiro una semilla del ermitaño, comela
 
-## RESPUESTA 3 (T1432)
+## RESPUESTA 2 (T1432)
 
 > asi es, le tiro una semilla del ermitaño, comela
 
@@ -196,4 +135,75 @@ Detrás de él, Kushina se tapa la cara con la mano.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:15, campo tres. "Así es." Facundo le tiró una semilla del ermitaño a Tsunade; la comió, curada ("Mucho mejor que el sake"). Aplausos. Jiraiya: "¡La Princesa Babosa y la palma del viajero!" Tsunade: "Gracias. Hacía años que no me divertía así." Naruto se planta entre ellos: "¡AHORA YO! ¡Tengo el Modo Sabio! ¡Pelea conmigo, Facundo! ¡De veras!" Kushina se tapa la cara. Facundo puede actuar.
+## COMANDO 3 (T1433)
+
+esta bien
+
+## RESPUESTA 3 (T1433)
+
+> esta bien
+
+> —Está bien.
+
+—¡¡SÍÍÍ!! —Naruto pega un salto de alegría tan alto que casi llega a las ramas—. ¡Mamá! ¡Papá! ¡Miren esto! ¡De veras!
+
+—¡Naruto, no lo provoques! —grita Kushina.
+
+—¡Tranquila, Kushina! —dice Minato, con una sonrisa que no le llega del todo a los ojos—. Es su forma de aprender.
+
+Tsunade se aparta hasta el borde del campo, con los brazos cruzados, sonriendo de costado. Jiraiya abre la libreta otra vez, con un lápiz nuevo.
+
+Naruto se planta en el centro del claro, al lado del cráter de la Patada del Cielo. Junta las manos frente al pecho, en una cruz.
+
+—¡Técnica de Multiclones de Sombra!
+
+El campo entero se llena de humo blanco. Cuando se despeja, hay Narutos por todos lados. En el pasto, en las ramas, en la orilla del río, sobre los postes que quedan, sobre la piedra de los caídos, al lado de Kakashi, que suspira y no levanta la vista del libro. Cien. Doscientos. Todos con la misma chaqueta naranja y negra, la misma sonrisa y los mismos puños apretados.
+
+—¡Ja! ¡Vas a tener que esquivar a todos!
+
+Diez de los clones se sientan en el borde del bosque, con las piernas cruzadas y los ojos cerrados, quietos como estatuas. El Naruto del centro también cierra los ojos.
+
+Pasa un segundo. Dos.
+
+Cuando los abre, son distintos. Amarillos, con la pupila horizontal, como los de un sapo. Alrededor de los ojos le aparece una sombra naranja, como pintura. Y algo le cambia en la quietud del cuerpo: deja de moverse como un chico ansioso y se queda quieto como una montaña.
+
+—Modo Sabio —dice, y sonríe.
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Poder de Naruto Uzumaki                      ║
+║ USUARIO: Naruto Uzumaki · Naruto             ║
+║                                              ║
+║ MISIÓN: Que Naruto y el Nueve Colas dejen    ║
+║ de ser enemigos.                             ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+
+Doscientos Narutos levantan la mano derecha al mismo tiempo. En cada palma aparece una esfera azul de chakra que gira, que zumba como un enjambre, que crece hasta el tamaño de una cabeza.
+
+—¡Estilo Sabio...!
+
+Se te tiran encima. Todos a la vez. Desde el suelo, desde los árboles, desde el aire, desde atrás, desde abajo, una lluvia de chaquetas naranjas y esferas azules que tapa el sol de la mañana.
+
+—¡...Lluvia de Rasengan!
+
+En las ramas, la gente se agarra de nuevo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1433 · NARUTO · DÍA 5 · 06:18          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 327.530/360.000               ║
+║ FRAGMENTOS 114.099 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común · Ultra Instinto         ║
+║ Kase: en el pasto, junto al poste            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Duelo con Naruto                   ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:18, campo tres. Duelo con Naruto. Kushina: "¡No lo provoques!" Minato: "Es su forma de aprender." Naruto: Multiclones de Sombra (~200); diez clones juntan energía; el original entra en Modo Sabio (ojos de sapo, sombra naranja). MISIÓN DE COPIA: poder de Naruto (que Naruto y el Nueve Colas dejen de ser enemigos, ALTA). Doscientos Narutos con Rasengan: "¡Estilo Sabio: Lluvia de Rasengan!" se tiran sobre Facundo (en Ultra Instinto) desde todas las direcciones. Facundo tiene que reaccionar.

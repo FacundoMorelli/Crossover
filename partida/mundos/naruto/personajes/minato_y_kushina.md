@@ -20,3 +20,4 @@ QUÉ SABE (T1417): por Facundo, Obito fue utilizado pero lo hizo él.
 - T1426 · Minato abraza a Rin, Obito y Kakashi a la vez: el equipo entero, diecisiete años tarde.
 - T1427 · Minato a Obito: "Todos los días. Así se paga. Un día por vez." Se queda con él.
 - T1432 · Kushina aplaude con dos dedos; se tapa la cara cuando Naruto desafía a Facundo. Minato sonríe.
+- T1433 · Kushina: "¡Naruto, no lo provoques!" Minato: "Tranquila, Kushina. Es su forma de aprender."

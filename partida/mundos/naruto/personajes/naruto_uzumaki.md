@@ -52,3 +52,5 @@ QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir
 - T1428 · Se muda con Minato y Kushina a la casa del oeste.
 - T1430 · Se cae de la rama. "¡¿Qué es eso?! ¡¿Qué es eso, de veras?!"
 - T1432 · Se planta entre Facundo y Tsunade: "¡AHORA YO! ¡Me lo prometiste! ¡Bueno, no me lo prometiste, pero yo te lo dije el primer día! ¡Tengo el Modo Sabio! ¡Le gané a seis Pain! ¡Pelea conmigo, Facundo! ¡De veras!"
+- T1433 · "¡¡SÍÍÍ!! ¡Mamá! ¡Papá! ¡Miren esto!" Multiclones de Sombra (~200); diez juntan energía natural; Modo Sabio (ojos amarillos de sapo, sombra naranja). "Modo Sabio." Doscientos Rasengan: "¡Estilo Sabio: Lluvia de Rasengan!"
+PODER VISTO POR FACUNDO (T1433): Multiclones de Sombra, Modo Sabio, Rasengan. MISIÓN DE COPIA (T1433): que Naruto y el Nueve Colas dejen de ser enemigos (ALTA).
