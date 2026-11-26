@@ -275,3 +275,5 @@
 - Dragon, Sabo, Koala · T1450 · Por Facundo: Robin es su novia; vino a conocer al padre de su capitán (Luffy).
 - Dragon, Sabo, Koala, Robin · T1451 · Por Facundo: Luffy está bien, entrena con Rayleigh, y tiene "otro hermano" vivo (además de Ace) que no sabe que vive. Dragon deduce (recogió a Sabo frente a Goa) que es Sabo; Koala deduce lo mismo por la mirada de Dragon (conoce el pasado de Sabo). Sabo no lo sabe todavía; no recuerda.
 - Nadie pregunta todavía cómo lo sabe Facundo (regla 1.4).
+- Sabo, Koala, Robin · T1452 · Por Facundo: sabe que Sabo perdió la memoria. Sabo pregunta cómo lo sabe; nadie investiga (regla 1.4).
+- Sabo · T1452 · Deduce: Luffy (hijo de Dragon) creció en Goa, isla Dawn, donde Dragon lo encontró a él; él sería el "otro hermano".

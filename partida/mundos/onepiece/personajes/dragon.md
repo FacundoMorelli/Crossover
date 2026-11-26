@@ -15,3 +15,4 @@ ESTADO: activo
 - T1450 · Facundo: "Quería conocer al padre de mi capitán y venir a ver a mi novia." Sonrisa mínima (rara, por la cara de Koala). "No soy mucho de eso. Nunca estuve." Vio a Luffy en Loguetown y en Marineford por pantalla. Pregunta, más lento: "¿Cómo está?"
 RELACIÓN CON FACUNDO (T1450): curiosidad seria; ningún puesto ofrecido; lo deja hablar.
 - T1451 · Por Facundo: Luffy entrena con Rayleigh; Luffy tiene "otro hermano" vivo que Luffy no sabe vivo. Deduce (él recogió del mar a un chico quemado frente a Goa, en la isla donde crecieron Luffy y Ace): mira a Sabo.
+- T1452 · Confirma ante todos que Sabo nunca recuperó la memoria; lo sacó del mar frente a Goa hace 12 años (bote en llamas, ropa de noble, bandera pirata pintada a mano). No niega que Luffy creció en Goa.

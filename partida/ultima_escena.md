@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1449)
-
-asi es
-
-## RESPUESTA 1 (T1449)
-
-> asi es
-
-> —Así es.
-
-Dragon no contesta enseguida.
-
-El viento entra por las cuatro ventanas y le mueve la capa. Sobre la mesa, una de las piedras que sujetan los mapas se desliza un centímetro y un papel se levanta por la punta. Sabo lo aplasta con la mano sin dejar de mirarte.
-
-Koala se queda junto a la puerta, abrazada a las carpetas. Robin, a tu lado, no dice nada. Está tranquila. Es la única del cuarto que lo está, además de Kase.
-
-Dragon camina despacio desde la ventana hasta la mesa. Cada paso suena sobre la piedra. Se detiene del otro lado, frente a ti, con la mesa de mapas entre los dos, y apoya las dos manos sobre el Nuevo Mundo.
-
-—Tequila Wolf —dice—. Setecientos años construyendo un puente con esclavos de todo el mundo, y cuando llegaron mis hombres no quedaba ni una cadena. Corvin dijo que estabas ahí. Que te acompañaba un chico con sombrero de paja.
-
-Hace una pausa.
-
-—Marineford. El cadalso. Portgas D. Ace, vivo. Barbablanca, vivo. Una cúpula que el magma de un almirante no pudo atravesar. Lo vi en la transmisión. —Los ojos no se le mueven de tu cara—. Y ahora entras a mi isla de noche, sin barco, sin que te vea ningún vigía, y sales a la mañana del cuarto de Nico Robin.
-
-Junto a la mesa, Sabo carraspea y mira para otro lado. Koala se pone colorada otra vez.
-
-Dragon no.
-
-—No te ofrezco un puesto —dice—. No pareces alguien que acepte puestos. Y no te voy a preguntar cómo llegaste, porque Robin ya me avisó hace meses que no ibas a contestar.
-
-Se endereza. Es más alto que tú.
-
-—Así que te pregunto otra cosa, Facundo Morelli. —Lo dice sin levantar la voz, y el viento parece bajar con él—. ¿Qué quieres del Ejército Revolucionario?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1449 · ONE PIECE · DÍA ~121 · 06:31    ║
-║ Baltigo · torre de Dragon                    ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Conocer a Dragon                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1450)
+## COMANDO 1 (T1450)
 
 nada, queria conocer al padre de mi capitán y venir a ver a mi novia
 
-## RESPUESTA 2 (T1450)
+## RESPUESTA 1 (T1450)
 
 > nada, queria conocer al padre de mi capitán y venir a ver a mi novia
 
@@ -103,11 +53,11 @@ Vuelve a mirarte. La voz no cambia, sigue igual de baja y de firme, pero la preg
 
 ---
 
-## COMANDO 3 (T1451)
+## COMANDO 2 (T1451)
 
 esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
 
-## RESPUESTA 3 (T1451)
+## RESPUESTA 2 (T1451)
 
 > esta bien, entrenando con rayleigh, todavía no sabe que su otro hermano sigue vivo tambien
 
@@ -153,4 +103,58 @@ Se lleva la mano a la frente, debajo del ala del sombrero, justo encima de la ci
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 06:34, Baltigo, torre. Facundo reveló que Luffy tiene otro hermano vivo. Dragon y Koala miran a Sabo; Sabo, con dolor de cabeza, no entiende: "¿Por qué me miras así?" Facundo puede actuar.
+## COMANDO 3 (T1452)
+
+no recuperó la memoria todavía?
+
+## RESPUESTA 3 (T1452)
+
+> no recuperó la memoria todavía?
+
+> —¿No recuperó la memoria todavía?
+
+Sabo se da vuelta hacia ti tan rápido que el sombrero se le corre.
+
+—¿Cómo sabes eso?
+
+Nadie le contesta. Koala se agacha, por fin, y junta un papel del suelo, nada más que para tener algo que hacer con las manos. Le tiemblan.
+
+Dragon tarda en hablar. Cuando lo hace, te contesta a ti, pero no le saca los ojos de encima a Sabo.
+
+—No. —La voz le sale igual de baja que siempre—. Nunca. Lo saqué del mar, frente a la costa de Goa, hace doce años. Un bote en llamas. Un chico de diez años quemado de la cabeza a los pies, que cuando despertó no sabía ni su nombre. Lo único que tenía era la ropa de noble y una bandera pirata pintada a mano en la vela del bote.
+
+Sabo baja la mano de la frente. Tiene la cara pálida y el ojo sano muy abierto.
+
+—Eso ya lo sé —dice—. Me lo contaste mil veces. Goa, el bote, el Noble Mundial que me disparó. No me acuerdo de nada de antes, y no me importa. Mi vida empezó aquí.
+
+Pero lo dice demasiado rápido.
+
+Mira a Dragon. Te mira a ti. Mira el mapa de la mesa, donde todavía está apoyada la mano de Dragon sobre el Nuevo Mundo, y algo se le va armando en la cara, pieza por pieza: el padre de tu capitán, el otro hermano, Goa.
+
+—Tu hijo —le dice a Dragon, muy despacio—. Monkey D. Luffy. Creció en Goa. En la isla Dawn.
+
+Dragon no dice que no.
+
+Sabo da un paso atrás. Choca con la mesa. El caño de metal se cae al suelo con un ruido seco que rebota por las paredes redondas de la torre, y Sabo hace una mueca y se agarra la cabeza con las dos manos, como si el ruido le hubiera entrado por el ojo quemado.
+
+Levanta la vista hacia ti, entre los dedos.
+
+—Tú lo sabes —dice, con la voz cortada—. Sabes quién era yo. Dímelo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1452 · ONE PIECE · DÍA ~121 · 06:35    ║
+║ Baltigo · torre de Dragon                    ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 06:35, Baltigo, torre. Sabo deduce que es de Goa como Luffy, dolor de cabeza; le pide a Facundo: "Sabes quién era yo. Dímelo." Facundo puede responder.
