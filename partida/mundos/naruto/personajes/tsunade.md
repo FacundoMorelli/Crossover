@@ -92,3 +92,5 @@ QUÉ SABE (T1416): por Facundo, se queda unos días, se irá y volverá.
 - T1428 · Noche Día 1: renuncia a interrogar a Facundo ("ya no le importa"). Día 4: lee la sentencia de Danzō y el acuerdo de paz. Día 5 05:48: en la puerta de Facundo, ropa de entrenamiento, puños vendados: "Te dije que me ibas a mostrar qué tan bien peleas. Yo misma. Hoy. Campo de entrenamiento tres. Ahora."
 - T1429 · Campo tres: "Esta mañana desperté a la aldea entera dando una patada en una puerta. La de Jiraiya." "No te contengas tanto que me aburra. Pero tampoco tan poco que me mates. Hoy me siento de veinte años y quiero seguir sintiéndome así mañana." Rombo encendido; salta diez metros: "¡Patada del Cielo!"
 PODER VISTO POR FACUNDO (T1429): fuerza monstruosa, Patada del Cielo, Byakugō (rombo encendido).
+- T1430 · Su Patada del Cielo abre un cráter de diez metros. Decenas de golpes a Facundo en Ultra Instinto; ninguno lo toca. Sudada, feliz: "¡Deja de esquivar! ¡Pégame una vez! ¡Una sola! ¡Quiero saber qué se siente!"
+QUÉ PODERES DE FACUNDO VIO (T1430): Ultra Instinto Dominado (aura plateada; esquiva todo).

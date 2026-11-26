@@ -11,3 +11,4 @@ QUÉ SABE DE FACUNDO: por la voz de Alba al revivir: quien lo trajo de vuelta ti
 ESTADO: vivo, sano.
 - T1409 · "Un viajero. Gracias." A Fugaku: "Lo sé, padre."
 RELACIÓN CON FACUNDO: gratitud tranquila.
+- T1430 · Con el Sharingan, viendo el Ultra Instinto: "No es chakra. No es nada."

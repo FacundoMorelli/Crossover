@@ -190,3 +190,4 @@
 - Gaara, Temari, Kankurō · T1428 · conocen a Facundo en persona (Día 3).
 - Toda Konoha · T1428 · asistió al juicio de Danzō: confesiones de Danzō, Homura, Koharu, Obito y Fugaku.
 - Medio Konoha (Naruto, Kushina, Minato, Jiraiya, Lee, Gai, Kakashi, Sakura, Shizune, Sasuke, Itachi y otros) · T1429 · asiste a la pelea Tsunade vs Facundo en el campo tres.
+- Público del campo tres · T1430 · vio el Ultra Instinto Dominado de Facundo (aura y pelo plateados, esquiva todo sin moverse casi). Sin chakra visible (Velo); Itachi lo confirma con el Sharingan.

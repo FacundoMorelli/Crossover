@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1427)
-
-dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
-
-## RESPUESTA 1 (T1427)
-
-> dime, una persona que pierde todo y despues una persona viene y dice que puede cumplir un sueño, que crees que los demás hubieran hecho? lo mismo que tu, si alguien le hiciera daño a mi gato, lo que hiciste tu, quedaría corto
-
-> —Dime: una persona pierde todo, y después viene alguien y le dice que le puede cumplir un sueño. ¿Qué crees que hubieran hecho los demás? Lo mismo que tú. Si alguien le hiciera daño a mi gato, lo que hiciste tú se quedaría corto.
-
-Obito se queda mirándote.
-
-Durante un rato no dice nada. El ojo nuevo, rojo de llanto, va de tu cara a Kase, sentado en tu hombro, y vuelve a tu cara.
-
-Después se ríe. Una risa rota, mojada, que le sale mezclada con un sollozo.
-
-—Por un gato —dice—. Destruirías el mundo por un gato.
-
-—Más que el mundo, creo —murmura Kakashi, sin sacarse la mano de los ojos.
-
-Rin mira a Kase. Kase la mira a ella, con el ojo rojo y el ojo azul, sin parpadear. Después baja de tu hombro, sin que nadie lo espere, camina por el suelo de la carpa hasta el futón y se sube al pecho de Obito, despacio, con las cuatro patas. Se sienta encima, pesado, con la cola enroscada sobre las patas, y lo mira desde arriba, a un palmo de la cara.
-
-Obito se queda quieto, sin respirar.
-
-Kase lo huele. La nariz. La mejilla con cicatrices. El ojo nuevo.
-
-Después se echa. Ahí, sobre el pecho de Obito, con la cabeza entre las patas. Y cierra los ojos.
-
-Obito no se mueve. Mira al gato echado sobre él como quien mira algo que no merece. Le tiembla la mano. La levanta despacio y la apoya, sin fuerza, sobre el lomo de Kase. Kase no se va.
-
-—No sé cómo se paga esto —dice Obito, muy bajo, sin dejar de mirar al gato—. No sé si se puede.
-
-—Todos los días —dice Minato—. Así se paga. Un día por vez.
-
-Rin le aprieta la mano a Obito.
-
-Tsunade se aclara la garganta. Tiene los ojos rojos otra vez, y se nota que está harta de tenerlos así.
-
-—Bueno. —Se acomoda el abrigo—. Basta por hoy, o me voy a deshidratar. Minato, Kakashi, Rin, se quedan con él. Yamato, en la entrada. —Te mira—. Tú te vienes conmigo. Todavía tengo un hombre tiburón tirado en el piso de una carpa que ya no existe, media planta parlante, una Cumbre de los Kages que se convocó por un secuestro que no pasó y tres de la Nube que van a querer la cabeza de Sasuke.
-
-Se pasa la mano por la cara.
-
-—Empecemos por el tiburón. ¿Qué hago con Kisame?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1427 · NARUTO · DÍA 1 · 16:28          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: echado sobre el pecho de Obito         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1428)
+## COMANDO 1 (T1428)
 
 no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
 
-## RESPUESTA 2 (T1428)
+## RESPUESTA 1 (T1428)
 
 > no se, creo que podrías encerrarlo, no se si necesite una oportunidad como obito. simula unos dias
 
@@ -155,11 +94,11 @@ Es Tsunade. Sin el abrigo de Hokage. Con ropa de entrenamiento, el pelo atado en
 
 ---
 
-## COMANDO 3 (T1429)
+## COMANDO 2 (T1429)
 
 esta bien
 
-## RESPUESTA 3 (T1429)
+## RESPUESTA 2 (T1429)
 
 > esta bien
 
@@ -214,4 +153,65 @@ El aire silba bajo el talón. Abajo, en las ramas, la gente se agarra.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:10, campo de entrenamiento tres (tres postes, río, piedra de los caídos con flores). Público: Naruto (colgado de cabeza), Kushina, Minato, Jiraiya (con libreta), Lee y Gai, Kakashi (sobre la piedra, leyendo), Sakura y Shizune (manos verdes), Sasuke e Itachi (en un árbol). Tsunade: "No te contengas tanto que me aburra. Pero tampoco tan poco que me mates." Rombo encendido. Salta diez metros: "¡Patada del Cielo!" — el talón cae sobre Facundo. Facundo tiene que reaccionar.
+## COMANDO 3 (T1430)
+
+activo el ultra instinto dominado
+
+## RESPUESTA 3 (T1430)
+
+> activo el ultra instinto dominado
+
+Kase salta de tu hombro a uno de los postes de madera un instante antes de que pase nada, y se sienta a mirar.
+
+Te cambia algo adentro, en silencio.
+
+El aire alrededor de tu cuerpo se pone plateado. No como una llama, ni como un brillo: como una niebla quieta, fría, que te envuelve y no se mueve con el viento. El pelo blanco y azul se te vuelve plateado entero, de la raíz a las puntas. Los ojos, el rojo y el azul, se te aclaran hasta un gris pálido, como plata líquida.
+
+Y dejas de pensar.
+
+El talón de Tsunade cae.
+
+No estás ahí.
+
+La Patada del Cielo da en el suelo donde estabas parado medio segundo antes, y el suelo revienta. Un cráter de diez metros se abre en el pasto con un estruendo que hace temblar los árboles de la orilla. Saltan piedras, tierra, terrones de pasto. El río se sale de su cauce en una ola y moja a Lee y a Gai, que no dejan de hacer flexiones. Kakashi levanta los pies de la piedra de los caídos para que no le salpique el barro.
+
+Tú estás a dos metros del cráter, de pie, quieto, con las manos sueltas a los costados. No sabes cómo llegaste ahí. Tu cuerpo lo sabe.
+
+Tsunade sale del cráter de un salto, y en el aire ya está pegando.
+
+Puño derecho. Lo esquivas sin moverte casi nada: el puño te pasa a un dedo de la mejilla y el viento que levanta te sacude el pelo plateado. Puño izquierdo, al estómago. Te giras de costado, apenas. Patada baja. Un paso atrás. Codo a la sien. Inclinas la cabeza. Rodilla. Palma abierta. Otro puño, y otro, y otro, cada vez más rápido, cada uno con fuerza para partir una montaña.
+
+Ninguno te toca.
+
+No es que los veas venir. Es que tu cuerpo ya se movió antes de que lleguen. Te inclinas, giras, das medio paso, y Tsunade le pega al aire una y otra vez, y el aire le devuelve el golpe en forma de viento que arranca hojas de los árboles de alrededor.
+
+—¡¿Qué es eso?! —grita Naruto, que se cayó de la rama y quedó sentado en el pasto—. ¡¿Qué es eso, de veras?!
+
+—No es chakra —dice Itachi, desde lo alto del árbol, con el Sharingan encendido, en voz muy baja—. No es nada.
+
+Jiraiya escribe en la libreta tan rápido que se le rompe la punta del lápiz.
+
+Kakashi cierra el libro.
+
+Tsunade se detiene. Respira fuerte. Le corre sudor por la frente, sobre el rombo violeta, y le brillan los ojos color miel, no de enojo: de algo mucho más feliz.
+
+—Deja de esquivar —te dice, jadeando, con una sonrisa enorme—. ¡Pégame una vez! ¡Una sola! ¡Quiero saber qué se siente!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1430 · NARUTO · DÍA 5 · 06:11          ║
+║ Konoha · campo de entrenamiento tres         ║
+║ NIVEL 30 · EXP 326.730/360.000               ║
+║ FRAGMENTOS 114.024 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común · Ultra Instinto         ║
+║ Kase: en un poste                            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Pelea con Tsunade                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 5 06:11, campo tres. Facundo activó el Ultra Instinto Dominado (aura y pelo plateados, ojos gris plata). La Patada del Cielo hizo un cráter de diez metros donde estaba; él ya no estaba. Tsunade lanzó decenas de golpes; ninguno lo tocó. Naruto: "¡¿Qué es eso?!" Itachi: "No es chakra. No es nada." Jiraiya rompe el lápiz. Kakashi cierra el libro. Kase en un poste. Tsunade, feliz: "¡Deja de esquivar! ¡Pégame una vez! ¡Quiero saber qué se siente!" Facundo puede actuar.

@@ -50,3 +50,4 @@ QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir
 - T1412 · Abraza a Jiraiya por la cintura: "¡Sabio Pervertido! ¡Estás vivo! ¡Estás vivo, viejo idiota! ¡Te dije que no fueras solo!"
 - T1414 · "¡JA! ¡Te lo dijo en la cara, Sabio Pervertido! ¡Hasta el que te revivió lo sabe!"
 - T1428 · Se muda con Minato y Kushina a la casa del oeste.
+- T1430 · Se cae de la rama. "¡¿Qué es eso?! ¡¿Qué es eso, de veras?!"
