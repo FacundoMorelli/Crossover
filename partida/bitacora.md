@@ -1378,3 +1378,4 @@ T1376 · NARUTO · Carpa de la colina · "La Tercera Guerra y la manipulación d
 T1377 · NARUTO · Carpa de la colina · "¿Cómo consiguió Obito esa mitad?" Tsunade deduce: carne de Hashirama del Valle del Fin, Madara vivo gracias a ella. Sasuke: "Le mostró lo de Rin." Tsunade: "¿Dónde está Madara ahora?"
 T1378 · NARUTO · Carpa de la colina · "Muerto, si no me equivoco." Tsunade aliviada. Secreto de Obito (solo Kakashi, Tsunade, Ibiki). "¿Los sellos de supresión lo van a frenar o se escapa por la espiral?"
 T1379 · NARUTO · Carpa de la colina · (Línea escrita por el motor a pedido del jugador.) Facundo: sellos de supresión + sellar el ojo derecho; él se queda cerca. Kakashi confirma. Tsunade: Ibiki lo sellará. Van con Sasuke a ver a Homura y Koharu.
+T1380 · NARUTO · Carpa de mando · Cruzan el campamento: todos ven a Sasuke con la Hokage. Ante Homura y Koharu: "Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan."

@@ -11,3 +11,4 @@ ESTADO: activos.
 - T1338 · Homura limpia sus anteojos; Koharu mira el suelo, tras la salida de Danzō.
 - T1339 · Al oír lo de los Sharingan del brazo, se miran entre ellos (saben algo de la masacre). Koharu: "No sabíamos lo del brazo."
 - T1340 · Retenidos por Tsunade en la carpa de mando hasta nuevo aviso.
+- T1380 · Ven entrar a Sasuke con Tsunade. A Koharu se le cae el cuenco de té. Homura, inmóvil, anteojos caídos. Sasuke les exige el porqué de la masacre.

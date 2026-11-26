@@ -116,3 +116,5 @@
 - Tsunade, Kakashi, Sasuke · T1378 · por Facundo: Madara está muerto ("si no me equivoco").
 - SECRETO DE ESTADO (T1378): la identidad de Obito solo la saben Tsunade, Kakashi, Sasuke, Facundo (e Ibiki cuando entre). También Taka (Suigetsu, Karin, Jūgo) en la cueva del norte, por Facundo (T1367). Tsunade no lo sabe aún.
 - Tsunade, Kakashi, Sasuke · T1379 · por Facundo: los sellos de supresión deberían frenar a Obito; su técnica sale del ojo derecho y hay que sellárselo; Facundo se quedará cerca.
+- Todo el campamento · T1380 · vio a Sasuke Uchiha caminar con la Hokage y el forastero del gato hacia la carpa de mando. Rumor público.
+- Homura, Koharu · T1380 · ven a Sasuke en persona; él les exige el porqué de la masacre.

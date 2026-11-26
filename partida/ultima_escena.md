@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1377)
-
-como crees que obito consiguio esa mitad?
-
-## RESPUESTA 1 (T1377)
-
-> como crees que obito consiguio esa mitad?
-
-> —¿Cómo crees que Obito consiguió esa mitad?
-
-Tsunade abre la boca para contestar y se queda así.
-
-Se da vuelta despacio hacia el futón. Mira la mitad derecha de la cara de Obito, las cicatrices en relieve, los surcos. Se agacha junto a Kakashi y le vuelve a pasar la mano encendida de verde por encima, más despacio esta vez, sobre el hombro, sobre el pecho, sobre el costado derecho.
-
-—Células de mi abuelo —murmura—. Injertadas. No de ahora: de hace muchos años. Crecieron con él, como si fueran suyas.
-
-Se le detiene la mano en el aire.
-
-—El cuerpo de Hashirama Senju se guardó en secreto cuando murió. Nadie tenía acceso a él. Nadie. —Se le pone la voz más grave—. Pero en el Valle del Fin, cuando pelearon, mi abuelo y Madara se destrozaron el uno al otro durante horas. Se arrancaron pedazos.
-
-Kakashi levanta la cabeza hacia ella.
-
-—Si Madara se llevó carne de mi abuelo de esa pelea... —Tsunade aprieta los dientes—. Si se la puso en su propio cuerpo... Las células de Hashirama dan una vida que no es normal. Pueden curar cualquier cosa. Podrían haberlo mantenido vivo mucho más allá de lo que debería vivir un hombre.
-
-Se pone de pie. Ya no tiene la mano encendida.
-
-—Y si Obito quedó medio aplastado bajo una roca en Kannabi, con la mitad del cuerpo destrozada... —Mira las cicatrices de la cara—. Alguien le rellenó esa mitad con lo mismo.
-
-Kakashi no dice nada. Se queda mirando a Obito como si lo viera por primera vez.
-
-—Madara lo encontró —dice al fin, muy bajo—. Lo sacó de debajo de la roca. Lo curó. Y después...
-
-—Y después le mostró lo de Rin —termina Sasuke, desde el poste, sin ningún tono.
-
-Todos se dan vuelta a mirarlo. Sasuke no aparta la vista del futón.
-
-—Es lo que habría hecho yo —dice—. Si quisiera que alguien odiara al mundo entero.
-
-Tsunade cierra los puños. Te mira otra vez.
-
-—Facundo. Si Madara Uchiha sobrevivió al Valle del Fin y crió a este chico para que hiciera todo esto... —Le tiembla un músculo de la mandíbula—. ¿Dónde está Madara ahora?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1377 · NARUTO · DÍA 1 · 13:14          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto al futón                         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1378)
+## COMANDO 1 (T1378)
 
 muerto, si no me equivoco
 
-## RESPUESTA 2 (T1378)
+## RESPUESTA 1 (T1378)
 
 > muerto, si no me equivoco
 
@@ -111,11 +52,11 @@ Tsunade gira la cabeza hacia ti.
 
 ---
 
-## COMANDO 3 (T1379)
+## COMANDO 2 (T1379)
 
 es que no se la respuesta, ponlas en mi boa
 
-## RESPUESTA 3 (T1379)
+## RESPUESTA 2 (T1379)
 
 > es que no se la respuesta, ponlas en mi boa
 
@@ -168,4 +109,73 @@ Tsunade te mira, esperando.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:17, carpa de la colina. (El jugador pidió que el motor pusiera la respuesta en boca de Facundo, solo esta vez.) Facundo: los sellos deberían frenarlo; la técnica sale del ojo, tapárselo con un sello; él se queda cerca. Kakashi lo confirma. Tsunade: sellos en el cuerpo, venda sellada en el ojo derecho, Kakashi y Facundo cerca; Ibiki viene a sellarlo. Ahora van a la carpa de mando con Sasuke a ver a Homura y Koharu (Kakashi se queda con Obito). Sasuke salió. Tsunade sostiene la lona, esperando a Facundo. Facundo puede actuar. (Kase junto al futón.)
+## COMANDO 3 (T1380)
+
+voy con ellos
+
+## RESPUESTA 3 (T1380)
+
+> voy con ellos
+
+Sales detrás de Sasuke. Kase salta del suelo a tu hombro en el último momento, sin que lo llames, y se acomoda con la cola alrededor de tu cuello.
+
+Tsunade deja caer la lona detrás de ustedes.
+
+Bajan por la loma hacia el campamento. Tsunade adelante, con el abrigo blanco y rojo. Sasuke a su lado, medio paso atrás, con la capa negra y blanca y la muñeca lastimada contra el pecho. Tú detrás.
+
+Los ven.
+
+Al principio nadie entiende. Después alguien lo reconoce. Una mujer que tiende ropa se queda con una sábana en la mano, a medio colgar. Un chūnin que cargaba tablas las deja caer. Se oye un murmullo que corre por las carpas más rápido que ustedes, de boca en boca, como fuego por pasto seco.
+
+—Es el Uchiha...
+
+—¿Sasuke? ¿Sasuke Uchiha?
+
+—¿Con la Hokage?
+
+Sasuke no mira a nadie. Camina con la vista al frente, la mandíbula apretada. Tsunade tampoco mira a nadie, y nadie se anima a acercarse.
+
+Los cuatro ANBU de la carpa de mando se ponen firmes al ver a Tsunade, y uno de ellos lleva la mano al tantō al ver a Sasuke.
+
+—Quieto —dice Tsunade, sin detenerse—. Viene conmigo.
+
+Levanta la lona.
+
+Adentro, todo está igual que esta mañana: la mesa hecha con una puerta vieja, ahora con una grieta de lado a lado, los mapas con media aldea tachada, los dos banquitos. Homura y Koharu siguen sentados ahí, cada uno con un cuenco de té frío en las manos. Tienen la cara de dos viejos que llevan horas esperando algo malo.
+
+Levantan la vista cuando entra Tsunade.
+
+Después ven a Sasuke.
+
+A Koharu se le cae el cuenco. Se rompe contra el suelo y el té se desparrama sobre las tablas. Homura no se mueve, pero se le van los anteojos un poco hacia la punta de la nariz y no se los acomoda.
+
+Sasuke se para frente a ellos. A dos metros. No toca la espada. No activa el Sharingan. Solo los mira, a los dos, uno después del otro, con los ojos negros.
+
+—Ustedes son Homura Mitokado y Koharu Utatane.
+
+No es una pregunta.
+
+—Yo soy Sasuke Uchiha. El último que quedó.
+
+Le tiembla apenas la voz, una sola vez, y la aplasta enseguida.
+
+—Díganme por qué mataron a mi clan.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1380 · NARUTO · DÍA 1 · 13:24          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión con Homura y Koharu        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:24, carpa de mando. Tsunade, Sasuke y Facundo (Kase en el hombro) cruzaron el campamento: todos vieron a Sasuke Uchiha con la Hokage (rumor corriendo). En la carpa, Homura y Koharu (retenidos desde la mañana). A Koharu se le cae el cuenco. Sasuke: "Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan." Facundo puede actuar.

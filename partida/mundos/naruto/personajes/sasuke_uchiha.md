@@ -43,3 +43,4 @@ ESTADO: en Konoha (carpa de la colina), T1371.
 - T1377 · "Y después le mostró lo de Rin. Es lo que habría hecho yo. Si quisiera que alguien odiara al mundo entero."
 - T1378 · Repite "Naruto" en voz muy baja.
 - T1379 · Sale de la carpa de la colina hacia la reunión con Homura y Koharu. Mirada muda con Kakashi.
+- T1380 · Cruza el campamento con Tsunade (todos lo ven). Ante Homura y Koharu, sin espada ni Sharingan: "Ustedes son Homura Mitokado y Koharu Utatane. Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan."
