@@ -109,3 +109,4 @@
 - Tsunade, Sasuke · T1373 · por Facundo: el inconsciente es Obito Uchiha; lo conoce el dueño de la otra mitad de su Sharingan (Kakashi). Tsunade lo reconoce como el alumno de Minato "muerto" en Kannabi.
 - Un ANBU/mensajero · T1373 · recibe la orden de buscar a Kakashi; no sabe quién está en la carpa.
 - Kakashi · T1374 · vio a Obito vivo, inconsciente, con capa de Akatsuki, en la carpa de la Hokage. Vio a Sasuke en Konoha.
+- Kakashi, Tsunade · T1375 · por Facundo: Obito era el líder de Akatsuki, se hacía llamar Madara o Tobi, con máscara naranja. Kakashi lo confirma por la máscara y por el Kamui.

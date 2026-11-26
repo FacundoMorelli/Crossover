@@ -41,3 +41,5 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1373 · Tsunade lo manda a buscar a la carpa de la colina, en secreto (no sabe para qué).
 - T1374 · 13:09 · Llega a la carpa de la colina. Ve a Sasuke ("Sasuke." / "Kakashi."). Ve a Obito en el futón: el Sharingan se le abre solo, levantando la banda. Se arrodilla: "Obito." "Está vivo. Está... vivo." Mano temblando, sin tocarlo. A Facundo, con la voz quebrada: "¿Dónde lo encontraste?"
 QUÉ SABE (T1374): ve en persona que Obito está vivo, con capa de Akatsuki.
+- T1375 · Reconoce la máscara: "El que andaba con Deidara. El que se reía. El que aparecía y desaparecía." "Su técnica de espacio-tiempo era igual a la mía. Igual a mi Kamui. Pensé que era una casualidad." "Es la otra mitad. El mismo ojo. Siempre fue el mismo." "Obito, tú me enseñaste que los que abandonan a sus compañeros son peores que basura." A Facundo, con el ojo mojado: "¿Por qué? ¿Por qué haría esto?"
+QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, el de la máscara naranja.

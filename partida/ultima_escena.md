@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1372)
-
-bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
-
-## RESPUESTA 1 (T1372)
-
-> bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
-
-> —Bueno, este es Sasuke, como te habrás dado cuenta. Y este es el hombre detrás de Akatsuki. El que se hacía llamar Madara.
-
-Tsunade se queda inmóvil.
-
-Después se levanta, muy despacio, apoyando una mano en la mesa. La botella de sake se tambalea y no se cae. Rodea la mesa y se acerca a ti, sin sacarle los ojos al hombre que llevas al hombro.
-
-Le levanta la cara con dos dedos, por el mentón. Le mira las cicatrices de la mitad derecha, el ojo izquierdo cerrado y hundido, el Sharingan entreabierto del derecho. Le pasa la otra mano por encima del pecho, sin tocarlo, con las palmas encendidas de verde.
-
-—Vivo. Inconsciente. —Habla para sí, como médica—. Hombro atravesado por un rayo. La mitad del cuerpo... —Frunce el ceño—. La mitad del cuerpo no es suya. Son células como las de... —Se le corta la voz—. Como las de mi abuelo.
-
-Retira la mano.
-
-—Esto no es Madara Uchiha. Madara tendría casi cien años. —Vuelve a mirarle la cara—. ¿Quién es?
-
-Pero no espera la respuesta. Se da vuelta hacia Sasuke.
-
-Lo mira de arriba abajo. La capa de Orochimaru, las vendas, la muñeca lastimada contra el pecho, la máscara naranja en el cinturón. Sasuke le sostiene la mirada sin pestañear.
-
-—Sasuke Uchiha. —Tsunade se cruza de brazos—. Hace tres años te fuiste de esta aldea con el Sonido. Desde entonces mataste a Orochimaru, atacaste a la Hierba y a la Nube, y te juntaste con Akatsuki. Hace una hora tenía a tres ninjas de Kumo en mi campamento pidiéndome tu cabeza.
-
-Se le endurece la cara.
-
-—¿A qué viniste?
-
-Sasuke no baja la vista.
-
-—A ver a Homura y a Koharu —dice—. Los dos viejos del consejo. Los que dieron la orden con Danzō.
-
-La voz le sale fría y quieta, sin ninguna emoción, como si fuera la décima vez que lo dice en su cabeza.
-
-—Quiero que me digan a la cara por qué mataron a mi clan.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1372 · NARUTO · DÍA 1 · 13:01          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Llevar a Obito a Konoha            ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1373)
+## COMANDO 1 (T1373)
 
 y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
 
-## RESPUESTA 2 (T1373)
+## RESPUESTA 1 (T1373)
 
 > y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
 
@@ -119,11 +62,11 @@ Tsunade se vuelve hacia ti. Señala el futón doblado en el rincón.
 
 ---
 
-## COMANDO 3 (T1374)
+## COMANDO 2 (T1374)
 
 esta bien, lo dejo ahi en el futon boca arriba
 
-## RESPUESTA 3 (T1374)
+## RESPUESTA 2 (T1374)
 
 > esta bien, lo dejo ahi en el futon boca arriba
 
@@ -190,4 +133,61 @@ Levanta la cabeza hacia ti. La máscara le tapa la boca, pero no la voz, que se 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:09, carpa de la colina. Obito en el futón, boca arriba; Kase sentado junto a su cabeza. Llega Kakashi: ve a Sasuke ("Sasuke." "Kakashi."), después a Obito. Su Sharingan se abre solo. Se arrodilla: "Obito... Está vivo." Mano temblando sin tocarlo. A Facundo: "¿Dónde lo encontraste?" Facundo tiene que contestar.
+## COMANDO 3 (T1375)
+
+lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
+
+## RESPUESTA 3 (T1375)
+
+> lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
+
+> —Líder de Akatsuki. Se hacía llamar Madara, o Tobi. Tenía una máscara naranja.
+
+Kakashi no se mueve.
+
+Durante un segundo largo, parece que no te escuchó. Sigue arrodillado, con la mano detenida a un centímetro de la cara de Obito, el Sharingan girando.
+
+Después, Sasuke se despega del poste. Se saca la máscara naranja del cinturón y la tira al suelo, junto al futón. Rueda una vez y queda boca arriba, con la espiral mirando el techo de la carpa y el único agujero en el ojo derecho.
+
+Kakashi la mira.
+
+La reconoce. Se le ve en el cuerpo entero: los hombros se le caen, de golpe, como si alguien le hubiera cortado los hilos.
+
+—La máscara naranja. —Lo dice casi sin voz—. El que andaba con Deidara. El que se reía. El que aparecía y desaparecía.
+
+Levanta la máscara del suelo con dos dedos. La da vuelta. Mira el agujero.
+
+—Cuando lo enfrentamos, buscando a Sasuke, su técnica... —Traga—. Su técnica de espacio-tiempo era igual a la mía. Igual a mi Kamui. Pensé que era una casualidad. Pensé que el Sharingan podía hacer cosas que yo no entendía.
+
+Se queda mirando el ojo derecho de Obito, entreabierto, rojo, con las tres comas quietas. Después se toca, sin darse cuenta, su propio ojo izquierdo.
+
+—Es la otra mitad —dice—. El mismo ojo. Siempre fue el mismo.
+
+Tsunade, desde la mesa, baja la vista al vaso vacío. Sasuke vuelve a apoyarse en el poste y no dice nada.
+
+Kakashi deja la máscara en el suelo, despacio, con cuidado, como si fuera algo de vidrio. Apoya las dos manos en las rodillas. Se le doblan un poco los hombros.
+
+—Obito, tú... —Se le corta la voz. La recupera—. Tú me enseñaste que los que abandonan a sus compañeros son peores que basura. Tú. Con esas mismas palabras. Y ahora...
+
+Levanta la cabeza hacia ti otra vez. El ojo visible está mojado.
+
+—¿Por qué? —te pregunta, como si tú pudieras saberlo—. ¿Por qué haría esto?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1375 · NARUTO · DÍA 1 · 13:10          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto al futón                         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:10, carpa de la colina. Facundo: líder de Akatsuki, se hacía llamar Madara o Tobi, máscara naranja. Sasuke tira la máscara junto al futón. Kakashi la reconoce (el que andaba con Deidara; su técnica igual a su Kamui). "Es la otra mitad. El mismo ojo." "Tú me enseñaste que los que abandonan a sus compañeros son peores que basura." Ojo mojado: "¿Por qué? ¿Por qué haría esto?" Facundo puede contestar.
