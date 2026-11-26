@@ -95,3 +95,4 @@ ESTADO: activa
 - T926 · "Gracias, capitán." Llegan los revolucionarios por ella.
 - T928 · Beso de despedida: "Tranquila. Puedes irte." A Corvin: "No lo va a frenar. Créame." Se toca los labios mirando a Facundo y sube al barco revolucionario.
 - T1442 · Día ~120 00:09 · Baltigo, su cuarto (libros, mapas, notas). Despierta, escribiendo en un margen. Facundo aparece por teletransportación (sin permiso de Dragon). Se le cae el lápiz: "Le dije a Corvin que nada te iba a frenar. No me creyó."
+- T1443 · Facundo la besa: ella lo agarra del sobretodo y le devuelve el beso. "Nada me puede parar si es para verte a ti." Robin: "Eso suena a algo que diría Luffy. Aunque cuando lo dices tú, da un poco de miedo. Porque es verdad." Le toca la cicatriz. Corvin le trae los diarios; lo busca en cada uno. Advierte (divertida) que si alguien lo ve en su cuarto en la base habrá un problema muy grande.

@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1440)
-
-le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
-
-## RESPUESTA 1 (T1440)
-
-> le doy un beso a kase, simula la despedida y me voy a one piece (podes hacer que en dragon ball solo por esta vez el tiempo pase mas rapido hasta la llegada de bills? osea que en 1 mes sea la llegada, osea que los 4 años pasen igual)
-
-Te agachas junto al futón y le das un beso a Kase en la cabeza, entre las orejas.
-
-Kase abre un ojo. Te mira. Lo vuelve a cerrar, con la cara de quien te hace un favor permitiéndolo, y se acomoda mejor en el medio del futón.
-
-Al día siguiente, Ichiraku no alcanza.
-
-Teuchi saca el mostrador a la calle, y la calle entera se vuelve un mostrador: tablas sobre barriles, banquitos de todas las casas del barrio, faroles de papel colgados de soga en soga. Ayame no para de servir. Teuchi hace un ramen en una olla tan grande que tienen que ayudarlo cuatro chūnin a bajarla del fogón. Nadie paga nada.
-
-Viene todo el mundo. Naruto, que no se sienta en ningún momento. Kushina y Minato, de la mano. Jiraiya, que llega con el manuscrito bajo el brazo y se lo pone en las manos al viajero del gato antes de que nadie se lo pueda arrancar, con una dedicatoria en la primera página que dice "Para mi personaje principal. No lo leas delante de Tsunade". Tsunade, que se toma media botella de sake y dice que no está llorando, que es el vapor del ramen. Shizune y Tonton. Kakashi, que llega a horario por segunda vez en su vida. Gai y Lee, que hacen un brindis por la juventud cada cinco minutos. Yamato, que levanta una mesa nueva de madera con un sello cuando la vieja se rompe bajo el codo de Chōji.
-
-Vienen los novatos. Sakura, con su libreta. Shikamaru, quejándose de que es problemático pero sin irse. Ino, Chōji, Kiba con Akamaru, que todavía le gruñe a Kase desde lejos. Shino. Hinata, que no se separa de Neji, y que mira a Naruto de reojo toda la noche. Neji, que casi no habla y te sirve té sin que se lo pidas.
-
-Vienen los Uchiha. Mikoto trae comida hecha en su casa. Fugaku se queda en la esquina, de brazos cruzados, y cuando se va, a la medianoche, inclina la cabeza hacia ti una sola vez, sin decir nada. Itachi se sienta un rato a tu lado, en silencio, y antes de levantarse te pone la mano en el hombro. Sasuke llega tarde, arrastrado por Naruto del cuello de la capa. Se sienta, come, no habla. Pero se queda hasta el final. Taka viene con él: Karin, que lo sigue a todas partes; Jūgo, que se queda en un rincón con un pajarito en el hombro; y Suigetsu, que se toma toda el agua del barrio.
-
-Viene Obito. Con Rin, que no le suelta la mano, y con Kakashi detrás. Se sienta en la punta más lejana de la mesa, con la cabeza baja, y nadie le dice nada. Al final de la noche se acerca. Te mira con el ojo nuevo. Hace una reverencia larga, y no se endereza hasta que Rin le toca la espalda.
-
-Ya tarde, cuando la mitad de la calle está dormida sobre las mesas, Tsunade se te acerca con la botella en la mano y te pone otra cosa en la palma. Una banda ninja. La placa de metal tiene la hoja grabada, y la tela es negra, sin rango, sin nombre.
-
-—No te estoy pidiendo que la uses —dice, sin mirarte—. Te la estoy dando para que sepas dónde queda tu casa.
-
-A la medianoche abres la puerta en medio de la calle.
-
-Una línea de luz vertical que se ensancha hasta tener el alto de una puerta, entre la mesa de Ichiraku y la Torre del Hokage. Toda la calle se despierta. Naruto se pone delante de todos, con los ojos rojos y la sonrisa más grande que tiene, y levanta el puño. Kase te salta al hombro.
-
-Cruzas.
-
-[Destino: One Piece.]
-
-[Regla anotada: en Dragon Ball, solo por esta vez, el tiempo corre más rápido. Los cuatro años hasta la llegada de Bills van a pasar en un mes tuyo.]
-
-Del otro lado huele a sal, a humedad y a burbujas de jabón.
-
-Estás en el Archipiélago Sabaody, en la misma calle de tierra entre los mangles gigantes de donde te fuiste. Es de noche. Las raíces de los árboles enormes sueltan burbujas transparentes que suben, despacio, hacia la luz de la luna, y se revientan sin ruido en el aire. A lo lejos, la música de un parque de diversiones. Un letrero de madera clavado en un tronco dice GROVE 13.
-
-Frente a ti, la puerta del bar de Shakky. La luz de adentro está encendida.
-
-Entras.
-
-Detrás de la barra, la misma mujer de pelo negro corto y cigarrillo largo, secando un vaso con un trapo. Sola. El bar está vacío. Levanta la vista cuando suena la campanita de la puerta, te ve a ti, ve a Kase, y se le dibuja una sonrisa lenta, como quien ve llegar algo que estaba esperando.
-
-—Vaya, vaya. —Suelta el humo hacia el techo—. El chico del gato. Hace dos meses que me pregunto si ibas a volver.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1440 · ONE PIECE · DÍA ~120 · 00:05    ║
-║ Archipiélago Sabaody · bar de Shakky         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1441)
+## COMANDO 1 (T1441)
 
 hola shakky, como esta el viejo?
 
-## RESPUESTA 2 (T1441)
+## RESPUESTA 1 (T1441)
 
 > hola shakky, como esta el viejo?
 
@@ -117,11 +50,11 @@ Te mira un rato, con los ojos entrecerrados detrás del humo. Mira tu cara, el p
 
 ---
 
-## COMANDO 3 (T1442)
+## COMANDO 2 (T1442)
 
 por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
 
-## RESPUESTA 3 (T1442)
+## RESPUESTA 2 (T1442)
 
 > por otra persona, pero ya que estoy aca te pregunto, nos vemos shakky, me teletransporto a robin
 
@@ -183,4 +116,54 @@ Después sonríe. Despacio.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~120 00:09, Baltigo, cuarto de Robin. Facundo llegó por teletransportación; Robin lo ve: "Le dije a Corvin que nada te iba a frenar. No me creyó." Facundo puede responder.
+## COMANDO 3 (T1443)
+
+me acerco y le doy un beso, nada me puede parar si es para verte a ti
+
+## RESPUESTA 3 (T1443)
+
+> me acerco y le doy un beso, nada me puede parar si es para verte a ti
+
+Cruzas el cuarto en tres pasos, entre las pilas de libros.
+
+Robin no alcanza a levantarse de la silla. Te agachas, le tomas la cara con una mano y la besas.
+
+Ella se queda quieta medio segundo. Después te agarra del cuello del sobretodo con las dos manos, fuerte, y te devuelve el beso como si quisiera comprobar que eres de verdad, que no eres otra de las cosas raras que pasan cerca tuyo. Huele a tinta y a polvo blanco.
+
+Kase baja de tu hombro al escritorio de un salto, pisa el libro abierto sin ningún respeto y se sienta encima.
+
+Cuando se separan, Robin no te suelta el sobretodo.
+
+> —Nada me puede parar si es para verte a ti.
+
+Robin se ríe. Bajito, con la frente apoyada contra la tuya.
+
+—Eso suena a algo que diría Luffy. —Te mira a los ojos, de cerca: el rojo, el azul—. Aunque cuando lo dices tú, da un poco de miedo. Porque es verdad.
+
+Te suelta el sobretodo, despacio, y te pasa los dedos por la cicatriz del ojo, como si contara algo.
+
+—Dos meses —dice—. Aquí nadie sabe nada de ti, salvo lo que sale en los diarios. Corvin me trae todos los que llegan. Te busco en cada uno. —Mira de reojo hacia la puerta, que está cerrada con una tranca de madera—. Y si alguien entra ahora y te ve en mi cuarto, a la medianoche, en la base más secreta del mundo, va a haber un problema muy grande.
+
+No parece preocupada. Parece divertida.
+
+Kase, sentado sobre el libro, bosteza.
+
+╔══════════════════════════════════════════════╗
+```
+║ TURNO 1443 · ONE PIECE · DÍA ~120 · 00:10    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sentado sobre el libro de Robin        ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~120 00:10, Baltigo, cuarto de Robin. Beso. Robin divertida: si alguien entra y lo ve, problema grande. Puerta trancada. Kase sobre el libro. Facundo puede responder.
