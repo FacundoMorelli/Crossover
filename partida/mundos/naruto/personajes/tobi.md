@@ -11,3 +11,5 @@ QUÉ SABE DE FACUNDO: nada (lo ve aparecer).
 ESTADO: activo.
 - T1358 · "¿Pocos? Sí, supongo que sí. Akatsuki ya no es lo que era. Hace unos días éramos más. Pero yo siempre preferí la calidad a la cantidad." "Estos son todos los que necesito. Por ahora." "Tienes el pelo de dos colores, un ojo de cada color, un gato y nada de chakra. Llegaste a un lugar que nadie conoce sin dejar rastro. Y lo primero que haces es contarnos."
 QUÉ SABE DE FACUNDO (T1358): lo que ve (aspecto, gato, sin chakra, llegó sin rastro).
+- T1359 · "¿Y cómo está Konoha? Me contaron que no quedó mucho en pie después de la visita de Pain." "¿Conociste a Danzō? Me dijeron que ahora es el Hokage." (Fuente: Zetsu, espía; canon.)
+QUÉ SABE DE FACUNDO (T1359): por él: viajero, pasó por Konoha, conoció gente.

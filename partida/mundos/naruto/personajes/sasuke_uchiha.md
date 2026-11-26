@@ -9,3 +9,4 @@ TASACIÓN (T1357): Mangekyō (Amaterasu, Tsukuyomi, Susanoo), Chidori, Fuego, Ra
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: activo, herido leve.
 - T1358 · "Quieto, Suigetsu." Se pone de pie. "Contesta. ¿Quién eres?"
+- T1359 · Al oír "Konoha" se le endurece la cara; aspas girando. "Konoha." Al oír "Danzō", aprieta el puño; chispas de rayo.

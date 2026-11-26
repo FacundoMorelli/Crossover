@@ -1357,3 +1357,4 @@ T1355 · NARUTO · Ichiraku · "Igual te voy a ayudar." Naruto le tiende el puñ
 T1356 · NARUTO · Ichiraku · Mira. Karui: Sasuke se llevó a Killer Bee; piden info. Naruto se niega; Karui le pega cinco veces; Naruto no se defiende. Samui la para. Se van. Naruto: "Gracias por no meterte. Era cosa mía."
 T1357 · NARUTO · Konoha → cueva de Akatsuki · "Ya vengo." Siente a Akatsuki al norte y se teletransporta (Kase en el hombro). Tobi, Zetsu, Sasuke, Suigetsu, Karin, Jūgo. Tasación de Tobi y Sasuke. Tobi: "Hacía mucho tiempo que nadie me sorprendía."
 T1358 · NARUTO · Cueva de Akatsuki · "¿Estos son todos?" Suigetsu quiere cortarlo. Tobi: "Akatsuki ya no es lo que era... Estos son todos los que necesito. Por ahora." Sasuke: "¿Quién eres?"
+T1359 · NARUTO · Cueva de Akatsuki · "Soy un viajero. Pasé por Konoha." Sasuke se tensa. Tobi: "¿Conociste a Danzō? Me dijeron que ahora es el Hokage."
