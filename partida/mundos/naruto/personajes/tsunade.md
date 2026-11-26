@@ -54,3 +54,4 @@ QUÉ SABE (T1378): por Facundo, Madara está muerto.
 - T1380 · Lleva a Sasuke por el campamento sin esconderlo. A un ANBU que lleva la mano al tantō: "Quieto. Viene conmigo."
 - T1381 · "Esta vez quiero la verdad entera." Ante el Susanoo naciente: "Sasuke. Me prometiste algo."
 QUÉ SABE (T1381): por Homura y Koharu, la verdad de la masacre Uchiha (golpe de Estado, voto con Danzō, Itachi espía, condición de salvar a Sasuke).
+- T1382 · Se pone blanca: "Esta mañana... Kakashi miró la venda que tiene en el ojo derecho. Y dijo Shisui."

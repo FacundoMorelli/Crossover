@@ -46,3 +46,5 @@ ESTADO: en Konoha (carpa de la colina), T1371.
 - T1380 · Cruza el campamento con Tsunade (todos lo ven). Ante Homura y Koharu, sin espada ni Sharingan: "Ustedes son Homura Mitokado y Koharu Utatane. Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan."
 - T1381 · Escucha la confesión sin moverse. Activa el Mangekyō; costillas violetas de Susanoo a medio formar alrededor del pecho, encendiéndose y apagándose: lucha por contenerse.
 PODER VISTO POR FACUNDO (T1381): Mangekyō, Susanoo (parcial).
+- T1382 · Facundo le pone la mano en el hombro: el Susanoo se deshace; no le saca la mano. "El amigo de mi hermano. Se tiró al río. Dijeron que Itachi lo había matado." Al saber lo del ojo: "Danzō tiene el ojo de Shisui." Mangekyō encendido, sin Susanoo: "¿Dónde está Danzō?"
+QUÉ SABE (T1382): por los viejos y Tsunade, Danzō le sacó el ojo derecho a Shisui.

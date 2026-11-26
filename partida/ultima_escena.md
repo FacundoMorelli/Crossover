@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1379)
-
-es que no se la respuesta, ponlas en mi boa
-
-## RESPUESTA 1 (T1379)
-
-> es que no se la respuesta, ponlas en mi boa
-
-> —Los sellos de supresión deberían frenarlo, porque su técnica necesita chakra. Pero sale del ojo: si le tapan el ojo derecho con un sello, no puede usarla. Y por las dudas, me quedo cerca de él hasta que despierte.
-
-Tsunade te escucha sin interrumpir, con el vaso de sake quieto en la mano.
-
-Cuando terminas, asiente una vez.
-
-—Del ojo. —Mira a Kakashi—. ¿Es así?
-
-Kakashi se toca la banda que le tapa el suyo.
-
-—Es así. Sin el ojo abierto no puedo usar el Kamui. Ni siquiera puedo apuntar. —Se queda mirando el ojo entreabierto de Obito—. Si es el mismo ojo, tiene que ser lo mismo para él.
-
-—Entonces sellos de supresión en todo el cuerpo, una venda sellada sobre el ojo derecho, y tú a un paso. —Tsunade deja el vaso en la mesa, sin tomarlo—. Y Kakashi también. Si se despierta, quiero que lo primero que vea sea la cara del hombre al que le dejó el otro ojo.
-
-Kakashi no dice nada. Asiente, despacio.
-
-Tsunade se pone de pie y se acomoda el abrigo de Hokage.
-
-—Ibiki va a venir a sellarlo en unos minutos. —Se da vuelta hacia Sasuke, que sigue contra el poste, con los brazos cruzados—. Y mientras tanto, vamos a cumplir tu condición.
-
-Sasuke levanta la cabeza.
-
-—Homura y Koharu siguen en la carpa de mando, donde los dejé esta mañana. No salieron ni para ir al baño. —Tsunade lo mira a los ojos—. Vamos. Tú, yo y Facundo. Kakashi se queda aquí con él.
-
-Levanta la lona de la entrada y se queda sosteniéndola.
-
-Sasuke se despega del poste. Mira a Kakashi una vez, de reojo. Kakashi le devuelve la mirada. Ninguno de los dos dice nada.
-
-Después Sasuke sale de la carpa.
-
-Tsunade te mira, esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1379 · NARUTO · DÍA 1 · 13:17          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto al futón                         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión con Homura y Koharu        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1380)
+## COMANDO 1 (T1380)
 
 voy con ellos
 
-## RESPUESTA 2 (T1380)
+## RESPUESTA 1 (T1380)
 
 > voy con ellos
 
@@ -129,11 +72,11 @@ Le tiembla apenas la voz, una sola vez, y la aplasta enseguida.
 
 ---
 
-## COMANDO 3 (T1381)
+## COMANDO 2 (T1381)
 
 miro
 
-## RESPUESTA 3 (T1381)
+## RESPUESTA 2 (T1381)
 
 > miro
 
@@ -190,4 +133,69 @@ Homura no se mueve. Koharu cierra los ojos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:28, carpa de mando. Homura y Koharu confiesan ante Tsunade y Sasuke: golpe de Estado de Fugaku; Hiruzen quería negociar; Danzō, guerra civil; ellos votaron con Danzō; Itachi espía, aceptó con la condición de que Sasuke viviera (Hiruzen lo prometió). Koharu: "No les pedimos perdón. Elegimos la aldea." Sasuke activa el Mangekyō; costillas de Susanoo a medio formar, temblando; lucha por contenerse. Tsunade: "Me prometiste algo." Facundo puede actuar.
+## COMANDO 3 (T1382)
+
+le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
+
+## RESPUESTA 3 (T1382)
+
+> le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
+
+Le pones una mano en el hombro a Sasuke.
+
+Las costillas violetas te pasan por el brazo como electricidad fría. No te hacen nada. Sasuke se tensa bajo tu mano, de golpe, como si lo hubieras despertado de algo. Las costillas parpadean una vez más y se apagan. El Susanoo se deshace en el aire, en hilos de humo violeta que se pierden contra la lona.
+
+Sasuke no se da vuelta. Pero no te saca la mano.
+
+> —¿Y qué dicen de Shisui? Él estaba primero en el plan, ¿no?
+
+Homura y Koharu levantan la cabeza a la vez.
+
+—Shisui —repite Koharu, y por primera vez le cambia algo en la cara: no culpa. Algo más viejo y más incómodo—. Shisui Uchiha.
+
+—El amigo de mi hermano —dice Sasuke, sin tono—. Se tiró al río. Dijeron que Itachi lo había matado.
+
+Homura se quita los anteojos y se frota los ojos.
+
+—Shisui vino a ver a Hiruzen unos días antes —dice—. Tenía una técnica en los ojos que nadie más tenía. Podía cambiar lo que piensa una persona sin que esa persona se diera cuenta. Quería usarla en Fugaku. Hacerle abandonar el golpe sin que nadie muriera.
+
+—Hiruzen estuvo de acuerdo —dice Koharu, muy bajo—. Danzō no. Danzō decía que no se podía confiar una técnica así a un Uchiha. Que si fallaba, perderíamos la única oportunidad.
+
+—Y dos días después, Shisui apareció muerto en el río —sigue Homura—. Sin el ojo derecho.
+
+Nadie dice nada durante un segundo.
+
+Tsunade, en la entrada, descruza los brazos muy despacio.
+
+—Sin el ojo derecho —repite.
+
+Se le pone la cara blanca.
+
+—Esta mañana, en las carpas de Raíz, cuando Danzō se quitó las vendas del brazo... Kakashi miró la venda que tiene en el ojo derecho. —Tsunade habla despacio, como si cada palabra le costara—. Y dijo "Shisui".
+
+Sasuke se queda muy quieto bajo tu mano.
+
+—Danzō tiene el ojo de Shisui —dice.
+
+No es una pregunta. Las aspas del Mangekyō se le vuelven a encender, pero esta vez no hay Susanoo. Solo los ojos, fijos, rojos, mirando a Tsunade.
+
+—¿Dónde está Danzō?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1382 · NARUTO · DÍA 1 · 13:30          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión con Homura y Koharu        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:30, carpa de mando. Facundo puso la mano en el hombro de Sasuke: el Susanoo se deshizo. Preguntó por Shisui. Homura y Koharu: Shisui quería usar su técnica del ojo en Fugaku para frenar el golpe sin muertes; Hiruzen de acuerdo, Danzō no; dos días después apareció muerto en el río sin el ojo derecho. Tsunade recuerda que Kakashi dijo "Shisui" mirando la venda del ojo derecho de Danzō. Sasuke: "Danzō tiene el ojo de Shisui. ¿Dónde está Danzō?" (Mangekyō, sin Susanoo). Facundo puede actuar.
