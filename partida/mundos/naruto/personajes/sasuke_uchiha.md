@@ -40,3 +40,4 @@ ESTADO: en Konoha (carpa de la colina), T1371.
 - T1374 · Reencuentro con Kakashi tras tres años: "Kakashi." Contra un poste junto a la entrada, brazos cruzados.
 - T1375 · Tira la máscara de Tobi al suelo junto al futón.
 - T1376 · Escucha la historia de Rin; algo le cambia en la cara mirando a Kakashi.
+- T1377 · "Y después le mostró lo de Rin. Es lo que habría hecho yo. Si quisiera que alguien odiara al mundo entero."

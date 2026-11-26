@@ -112,3 +112,4 @@
 - Kakashi, Tsunade · T1375 · por Facundo: Obito era el líder de Akatsuki, se hacía llamar Madara o Tobi, con máscara naranja. Kakashi lo confirma por la máscara y por el Kamui.
 - Tsunade, Sasuke, Facundo · T1376 · por Kakashi: Obito le confió a Rin; Rin (con el Tres Colas dentro) se puso delante del Chidori de Kakashi y murió.
 - Kakashi, Tsunade, Sasuke · T1376 · por Facundo: lo de Obito fue por lo que pasó en la Tercera Guerra y por la manipulación "del verdadero Madara".
+- Tsunade, Kakashi, Sasuke · T1377 · deducción de Tsunade (a partir de la pregunta de Facundo y su examen): Madara sobrevivió al Valle del Fin con carne de Hashirama, rescató a Obito de Kannabi y lo rellenó con esas células. Sasuke deduce que le mostró la muerte de Rin para moldearlo.

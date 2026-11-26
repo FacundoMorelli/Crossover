@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1374)
-
-esta bien, lo dejo ahi en el futon boca arriba
-
-## RESPUESTA 1 (T1374)
-
-> esta bien, lo dejo ahi en el futon boca arriba
-
-Desdoblas el futón con el pie y dejas a Obito encima, boca arriba. La capa de Akatsuki se abre a los costados. La cabeza se le va un poco hacia un lado, y queda a la vista la mitad de la cara llena de cicatrices.
-
-Kase baja de tu hombro y se sienta en el suelo, a medio metro de la cabeza de Obito, con la cola enroscada en las patas. No le saca los ojos de encima.
-
-Nadie dice nada.
-
-Tsunade vuelve a sentarse detrás de la mesa baja. Se sirve sake en un vaso chico, se lo toma de un trago y no se sirve otro. Sasuke se queda de pie junto a la entrada, con los brazos cruzados y la espalda contra un poste, mirando el futón.
-
-Pasan unos minutos. Afuera se oyen martillazos lejanos, alguien que llama a sus hijos, el viento sobre las lonas.
-
-Después, unos pasos que se acercan sin apuro.
-
-La lona se levanta.
-
-—Hokage-sama, me mandó a buscar con mucha urgencia para alguien que se supone que ya está despierta y no debería... —Kakashi se frena en la entrada, con un pie todavía afuera.
-
-Ve a Sasuke primero.
-
-Se queda completamente quieto. El ojo visible se le abre, y después se le estrecha.
-
-—Sasuke.
-
-—Kakashi.
-
-Ninguno de los dos se mueve. Durante un segundo largo, se quedan así, mirándose, maestro y alumno, a dos metros, después de tres años.
-
-Después Kakashi gira la cabeza hacia el futón.
-
-Lo ves pasar. No es rápido. Primero mira la capa con las nubes rojas y algo se le tensa en los hombros. Después mira la cara. La mitad lisa. La mitad con cicatrices. El pelo negro.
-
-El ojo izquierdo de Kakashi, debajo de la banda, se abre solo. Se le levanta la banda de la frente sin que la toque, empujada desde adentro, y el Sharingan queda al aire, girando, como si hubiera reconocido algo antes que él.
-
-Kakashi da un paso dentro de la carpa. Después otro. Se arrodilla junto al futón, despacio, como si le pesaran las piernas.
-
-—Obito.
-
-Le sale apenas. No es una pregunta.
-
-Estira una mano hacia la cara del hombre en el futón, y se detiene a un centímetro, sin tocarlo. Le tiembla. Kakashi, que no se movió cuando lo atacó Pain, que no se movió cuando murió, tiene la mano temblando.
-
-—Está vivo —dice, muy bajo—. Está... vivo.
-
-Levanta la cabeza hacia ti. La máscara le tapa la boca, pero no la voz, que se le quiebra a la mitad.
-
-—¿Dónde lo encontraste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1374 · NARUTO · DÍA 1 · 13:09          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto al futón                         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1375)
+## COMANDO 1 (T1375)
 
 lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
 
-## RESPUESTA 2 (T1375)
+## RESPUESTA 1 (T1375)
 
 > lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
 
@@ -131,11 +60,11 @@ Levanta la cabeza hacia ti otra vez. El ojo visible está mojado.
 
 ---
 
-## COMANDO 3 (T1376)
+## COMANDO 2 (T1376)
 
 yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
 
-## RESPUESTA 3 (T1376)
+## RESPUESTA 2 (T1376)
 
 > yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
 
@@ -190,4 +119,63 @@ Rodea la mesa y se te para delante.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:12, carpa de la colina. Facundo: por la Tercera Guerra y por la manipulación del verdadero Madara. Kakashi: "Rin." Cuenta Kannabi, que Obito le confió a Rin, que la Niebla le metió al Tres Colas y que ella se puso delante de su Chidori: "La maté yo. Con esta mano." "Si Obito estaba vivo esa noche, y vio..." Tsunade: "Dijiste el verdadero Madara... ¿Me estás diciendo que Madara Uchiha estaba vivo?" Facundo tiene que contestar.
+## COMANDO 3 (T1377)
+
+como crees que obito consiguio esa mitad?
+
+## RESPUESTA 3 (T1377)
+
+> como crees que obito consiguio esa mitad?
+
+> —¿Cómo crees que Obito consiguió esa mitad?
+
+Tsunade abre la boca para contestar y se queda así.
+
+Se da vuelta despacio hacia el futón. Mira la mitad derecha de la cara de Obito, las cicatrices en relieve, los surcos. Se agacha junto a Kakashi y le vuelve a pasar la mano encendida de verde por encima, más despacio esta vez, sobre el hombro, sobre el pecho, sobre el costado derecho.
+
+—Células de mi abuelo —murmura—. Injertadas. No de ahora: de hace muchos años. Crecieron con él, como si fueran suyas.
+
+Se le detiene la mano en el aire.
+
+—El cuerpo de Hashirama Senju se guardó en secreto cuando murió. Nadie tenía acceso a él. Nadie. —Se le pone la voz más grave—. Pero en el Valle del Fin, cuando pelearon, mi abuelo y Madara se destrozaron el uno al otro durante horas. Se arrancaron pedazos.
+
+Kakashi levanta la cabeza hacia ella.
+
+—Si Madara se llevó carne de mi abuelo de esa pelea... —Tsunade aprieta los dientes—. Si se la puso en su propio cuerpo... Las células de Hashirama dan una vida que no es normal. Pueden curar cualquier cosa. Podrían haberlo mantenido vivo mucho más allá de lo que debería vivir un hombre.
+
+Se pone de pie. Ya no tiene la mano encendida.
+
+—Y si Obito quedó medio aplastado bajo una roca en Kannabi, con la mitad del cuerpo destrozada... —Mira las cicatrices de la cara—. Alguien le rellenó esa mitad con lo mismo.
+
+Kakashi no dice nada. Se queda mirando a Obito como si lo viera por primera vez.
+
+—Madara lo encontró —dice al fin, muy bajo—. Lo sacó de debajo de la roca. Lo curó. Y después...
+
+—Y después le mostró lo de Rin —termina Sasuke, desde el poste, sin ningún tono.
+
+Todos se dan vuelta a mirarlo. Sasuke no aparta la vista del futón.
+
+—Es lo que habría hecho yo —dice—. Si quisiera que alguien odiara al mundo entero.
+
+Tsunade cierra los puños. Te mira otra vez.
+
+—Facundo. Si Madara Uchiha sobrevivió al Valle del Fin y crió a este chico para que hiciera todo esto... —Le tiembla un músculo de la mandíbula—. ¿Dónde está Madara ahora?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1377 · NARUTO · DÍA 1 · 13:14          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto al futón                         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:14, carpa de la colina. Facundo: "¿Cómo crees que Obito consiguió esa mitad?" Tsunade deduce: células de Hashirama injertadas hace años; Madara se llevó carne de su abuelo en el Valle del Fin y lo mantuvo vivo; rellenó a Obito. Kakashi: "Madara lo encontró, lo curó, y después..." Sasuke: "Y después le mostró lo de Rin. Es lo que habría hecho yo." Tsunade: "¿Dónde está Madara ahora?" Facundo tiene que contestar.

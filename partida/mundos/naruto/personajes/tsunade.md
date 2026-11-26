@@ -46,3 +46,5 @@ QUÉ SABE (T1372): por Facundo, el inconsciente es el hombre detrás de Akatsuki
 QUÉ SABE (T1373): por Facundo, el inconsciente es Obito Uchiha; ella lo identifica.
 - T1374 · Se toma un vaso de sake de un trago mientras esperan a Kakashi.
 - T1376 · "Dijiste el verdadero Madara. Madara Uchiha murió hace décadas, peleando contra mi abuelo en el Valle del Fin." "¿Me estás diciendo que Madara Uchiha estaba vivo?"
+- T1377 · Deduce: células de Hashirama injertadas en Obito hace años; el cuerpo de su abuelo estaba guardado en secreto; en el Valle del Fin Madara pudo llevarse carne; las células de Hashirama dan vida anormal. "Alguien le rellenó esa mitad con lo mismo." "¿Dónde está Madara ahora?"
+QUÉ SABE (T1377): deduce que Madara sobrevivió al Valle del Fin con células de Hashirama y rescató/moldeó a Obito.

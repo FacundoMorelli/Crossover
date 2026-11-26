@@ -44,3 +44,4 @@ QUÉ SABE (T1374): ve en persona que Obito está vivo, con capa de Akatsuki.
 - T1375 · Reconoce la máscara: "El que andaba con Deidara. El que se reía. El que aparecía y desaparecía." "Su técnica de espacio-tiempo era igual a la mía. Igual a mi Kamui. Pensé que era una casualidad." "Es la otra mitad. El mismo ojo. Siempre fue el mismo." "Obito, tú me enseñaste que los que abandonan a sus compañeros son peores que basura." A Facundo, con el ojo mojado: "¿Por qué? ¿Por qué haría esto?"
 QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, el de la máscara naranja.
 - T1376 · "Rin." Cuenta: en Kannabi Obito le dio su ojo y le confió a Rin; meses después la Niebla la secuestró y le selló al Tres Colas para que estallara en Konoha; ella se puso delante de su Chidori a propósito. "La maté yo. Con esta mano." "Si Obito estaba vivo esa noche, y vio..."
+- T1377 · "Madara lo encontró. Lo sacó de debajo de la roca. Lo curó. Y después..."
