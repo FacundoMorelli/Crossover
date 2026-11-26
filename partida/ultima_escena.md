@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1363)
-
-interesante, ese sharingan se parece mucho a otro que conoci
-
-## RESPUESTA 1 (T1363)
-
-> interesante, ese sharingan se parece mucho a otro que conoci
-
-> —Interesante. Ese Sharingan se parece mucho a otro que conocí.
-
-La espiral de la máscara se detiene.
-
-No del todo. Se frena, como una rueda a la que le meten un palo, y el aire que se torcía alrededor de la cara del enmascarado se queda quieto, a medio girar.
-
-Durante un segundo, en la cueva solo se oye el goteo del agua y la sangre que le cae del hombro.
-
-—¿Ah, sí? —dice al fin.
-
-La voz es tranquila. Demasiado tranquila. No tiene el tono burlón del principio, ni el grave de hace un momento. No tiene ningún tono.
-
-—Hay muchos Sharingan en el mundo, viajero. —El ojo rojo detrás del agujero no parpadea—. Algunos están en las caras de los vivos. Otros, en frascos. Otros, por lo que dices, en el brazo de un viejo. —Inclina la cabeza—. Sería raro que no se parecieran.
-
-Sasuke gira la cabeza hacia el enmascarado. Lo mira, por primera vez desde que llegaste, con algo que no es rabia. Es una pregunta.
-
-El enmascarado no lo mira a él.
-
-—Zetsu.
-
-—Ya lo sé —contesta la mitad negra, y se hunde en la pared como si fuera agua, hasta desaparecer.
-
-La espiral de la máscara vuelve a girar. Esta vez más rápido, y no hacia adentro.
-
-Hacia ti.
-
-El aire alrededor de tu cuerpo empieza a torcerse. Lo sientes en la piel: un tirón suave, de todas partes a la vez, como si el espacio mismo quisiera doblarse sobre ti y tragarte hacia un punto detrás del ojo de la máscara. El borde del sobretodo se te deforma, se estira en espiral. A Kase se le eriza todo el pelo del lomo.
-
-—Algunas cosas —dice el enmascarado, mientras el remolino crece— es mejor que no las sepa nadie.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1363 · NARUTO · DÍA 1 · 12:50          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1364)
+## COMANDO 1 (T1364)
 
 aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
 
-## RESPUESTA 2 (T1364)
+## RESPUESTA 1 (T1364)
 
 > aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
 
@@ -119,11 +64,11 @@ La espiral de la máscara vuelve a girar, esta vez sobre sí misma. El cuerpo de
 
 ---
 
-## COMANDO 3 (T1365)
+## COMANDO 2 (T1365)
 
 dejo inconsciente antes que se vaya
 
-## RESPUESTA 3 (T1365)
+## RESPUESTA 2 (T1365)
 
 > dejo inconsciente antes que se vaya
 
@@ -182,4 +127,59 @@ Estira la mano sana, despacio, hacia la máscara.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:50, cueva de Akatsuki. Facundo desmayó a Tobi con un golpe de Haki en la nuca (en la parte sólida que agarraba a Sasuke). El Kamui se deshizo; Sasuke liberado, de rodillas, muñeca lastimada. TOBI INCONSCIENTE, boca abajo, máscara puesta (+1.000 F, +5.000 EXP). Suigetsu: "Le pegaste a Madara y se cayó." Jūgo protege a Karin. Kase huele a Tobi y le da la espalda. Sasuke estira la mano hacia la máscara: "Quiero ver su cara." Facundo puede actuar.
+## COMANDO 3 (T1366)
+
+esta bien
+
+## RESPUESTA 3 (T1366)
+
+> esta bien
+
+> —Está bien.
+
+Sasuke no espera más. Engancha los dedos en el borde de la máscara naranja y tira.
+
+Se resiste un poco. Está sujeta por una correa detrás de la nuca, bajo la capucha. Sasuke la corta con una chispa de Chidori que le sale de la punta del dedo, y la máscara se suelta. La da vuelta.
+
+Debajo hay un hombre. No un anciano.
+
+Tiene unos treinta años, pelo negro y corto, revuelto por la capucha. El lado izquierdo de la cara es normal, liso, joven, con el párpado cerrado sobre un ojo hundido, como si debajo no hubiera nada. El lado derecho no. El lado derecho está lleno de cicatrices en relieve, como si alguien hubiera aplastado esa mitad de la cara entre dos piedras hace mucho tiempo y después la hubiera vuelto a armar a mano, con surcos y arrugas que no son de vejez. El ojo derecho, entreabierto, todavía tiene el iris rojo y las tres comas negras, quietas.
+
+Suigetsu se inclina para ver por encima del hombro de Sasuke.
+
+—Ese no es Madara. —Lo dice despacio, como si le costara creerlo—. Madara Uchiha tendría que tener como cien años. Este no llega a cuarenta.
+
+Karin se acerca, con Jūgo detrás. Mira la cara, después cierra los ojos, concentrada.
+
+—Ahora que está inconsciente, lo siento. —Abre los ojos—. Su chakra... es Uchiha, sí. Pero hay otra cosa mezclada. Algo como madera. Y hay muchísimo menos del que debería tener alguien que dice ser Madara.
+
+Sasuke no dice nada.
+
+Se queda arrodillado frente al cuerpo, con la máscara en la mano. La mira a ella. Mira la cara. Mira la máscara otra vez, el único agujero en el ojo derecho.
+
+—Me contó la verdad sobre Itachi —dice, muy bajo—. Me dijo que había sido Konoha. Me lo contó todo. Y yo le creí todo. Porque era Madara, y Madara estuvo ahí, y Madara sabía.
+
+Aprieta la máscara hasta que cruje.
+
+Levanta la cabeza hacia ti. Las aspas negras le giran despacio, y debajo, en los ojos, por primera vez no hay rabia: hay un chico de diecisiete años que acaba de darse cuenta de que no sabe nada.
+
+—No sé quién es. —Su voz suena ronca—. ¿Tú sí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1366 · NARUTO · DÍA 1 · 12:52          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a Tobi                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:52, cueva de Akatsuki. Sasuke le sacó la máscara a Tobi (cortó la correa): hombre de ~30, mitad derecha de la cara cicatrizada, ojo izquierdo hundido/vacío, Sharingan derecho. Suigetsu: "Ese no es Madara." Karin: chakra Uchiha mezclado con algo de madera. Sasuke: "Me contó la verdad sobre Itachi... y yo le creí todo." "No sé quién es. ¿Tú sí?" Facundo tiene que contestar.
