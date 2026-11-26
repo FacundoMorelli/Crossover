@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1388)
-
-hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
-
-## RESPUESTA 1 (T1388)
-
-> hola zetsu, tenes cosas que responderme, tu parte vieja la de cientos de años
-
-> —Hola, Zetsu. Tienes cosas que responderme. Tu parte vieja. La de cientos de años.
-
-La mitad blanca parpadea.
-
-—¿Cientos de años? —Se ríe, con esa voz aguda y nerviosa—. ¿De qué habla este? Yo soy nuevito. Tengo... no sé cuántos tengo. Pero cientos no...
-
-La mitad negra no se ríe.
-
-No dice nada. No se mueve. Por primera vez desde que la viste, la mitad negra de la cara se queda completamente quieta, con el ojo amarillo fijo en el tuyo, sin parpadear. La corteza del árbol alrededor de la cara cruje apenas, como si algo detrás de ella se hubiera tensado.
-
-—¿Negro? —La mitad blanca gira el ojo hacia su otra mitad—. ¿Qué te pasa? Estás raro.
-
-—Cállate —dice la mitad negra.
-
-La voz le sale distinta. Más grave que antes. Más vieja. Como si viniera de muy abajo, de un lugar donde no llega la luz.
-
-—Nadie sabe eso —dice, despacio, mirándote—. Nadie. Ni Madara lo supo. Ni el chico de la máscara. Ni Nagato.
-
-La mitad blanca se queda callada, con la boca abierta.
-
-—¿Quién eres tú?
-
-No espera la respuesta.
-
-La mitad negra se despega de la blanca. Lo ves pasar: una mancha oscura, líquida, que se separa de la cara como alquitrán, se escurre por la corteza hacia abajo, por el tronco, hasta las raíces, y empieza a hundirse en la tierra húmeda, rápido, como agua que se va por un desagüe.
-
-La mitad blanca se queda sola en el árbol, con media cara vacía, gritando:
-
-—¡¿NEGRO?! ¡¿Me dejaste?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1388 · NARUTO · DÍA 1 · 13:47          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.180/320.000               ║
-║ FRAGMENTOS 113.494 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Zetsu                              ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1389)
+## COMANDO 1 (T1389)
 
 dejo inconsciente a la parte blanca y saco al negro de ahi dentro
 
-## RESPUESTA 2 (T1389)
+## RESPUESTA 1 (T1389)
 
 > dejo inconsciente a la parte blanca y saco al negro de ahi dentro
 
@@ -117,11 +62,11 @@ Se te escurre del puño hacia arriba, por la muñeca, por el antebrazo, rápido,
 
 ---
 
-## COMANDO 3 (T1390)
+## COMANDO 2 (T1390)
 
 puedes intentarlo
 
-## RESPUESTA 3 (T1390)
+## RESPUESTA 2 (T1390)
 
 > puedes intentarlo
 
@@ -176,4 +121,53 @@ Kase deja de bufar. Se sienta en tu hombro, satisfecho, y se lame una pata.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:49, bosque del borde norte. "Puedes intentarlo." Zetsu negro se metió por los poros del brazo de Facundo y no encontró nada (Velo). El dragón del antebrazo (Venas del Dragón) despertó solo y le arrancó y devoró un pedazo (maestría 31). Zetsu negro cayó al barro, del tamaño de un gato, aterrado: "¿Qué eres? En mil años nada me ha mordido." Kase satisfecho. Facundo puede actuar (interrogarlo).
+## COMANDO 3 (T1391)
+
+bueno dime todo lo que sabes antes que te mate
+
+## RESPUESTA 3 (T1391)
+
+> bueno dime todo lo que sabes antes que te mate
+
+> —Bueno. Dime todo lo que sabes antes de que te mate.
+
+Zetsu negro deja de retroceder.
+
+Se queda quieto en el barro, encogido, con el ojo amarillo fijo en ti. Cuando vuelve a hablar, la voz ya no tiembla. Es suave, casi amable, como la de un viejo que le cuenta un secreto a un chico.
+
+—Todo lo que sé. —Se acomoda, se estira un poco, recupera algo de forma—. Está bien. Te lo voy a decir, ya que de todas formas me vas a matar.
+
+El ojo parpadea despacio.
+
+—Yo soy la voluntad de Madara Uchiha. Él me creó antes de morir, con su último aliento, para que su plan no muriera con él. —La voz se le vuelve grave, solemne—. Todo lo que hizo el chico de la máscara, lo hizo porque yo se lo susurré al oído. Todo lo que hizo Nagato, lo hizo porque yo estuve a su lado.
+
+Se arrastra un poco hacia ti, despacio.
+
+—El plan se llama el Ojo de la Luna. Juntar a las nueve bestias con cola dentro de la Estatua Demoníaca del Camino Exterior, despertar al Diez Colas y proyectar en la luna un genjutsu infinito que atrape a toda la humanidad en un sueño. Un mundo sin guerras, sin muerte, sin dolor. El sueño de Madara.
+
+El ojo te mira, brillante.
+
+—Ya tenemos siete. Están adentro de la Estatua, en un lugar que solo yo conozco ahora que el chico está dormido. Faltan el Ocho Colas y el Nueve Colas. —Se le curva la boca sin dientes en algo parecido a una sonrisa—. Si me matas, la Estatua se queda donde está, con siete bestias adentro, y nadie va a saber nunca dónde. Pero si me dejas vivir...
+
+Se le baja la voz hasta un susurro.
+
+—Tú eres fuerte. Más fuerte que nadie que haya visto en mil años. Podrías terminar el sueño de Madara. Podrías ser el que despierte al Diez Colas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1391 · NARUTO · DÍA 1 · 13:50          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.230/320.000               ║
+║ FRAGMENTOS 113.499 · 0 ryo                   ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Zetsu negro                        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:50, bosque del borde norte. "Dime todo lo que sabes antes de que te mate." Zetsu negro, voz suave: dice ser "la voluntad de Madara" (MENTIRA; es de Kaguya). Explica el Ojo de la Luna (9 bijū en la Estatua del Camino Exterior, Diez Colas, Tsukuyomi Infinito). Tienen 7; faltan el Ocho y el Nueve Colas; solo él sabe dónde está la Estatua. Tienta a Facundo: "Podrías ser el que despierte al Diez Colas." Facundo tiene que contestar.

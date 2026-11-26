@@ -1389,3 +1389,4 @@ T1387 · NARUTO · Carpa → acantilado → carpa → bosque norte · Avisa a Ts
 T1388 · NARUTO · Bosque norte · "Tu parte vieja, la de cientos de años, tiene que responderme." Zetsu negro: "Nadie sabe eso. ¿Quién eres tú?" Se separa del blanco y se hunde en la tierra.
 T1389 · NARUTO · Bosque norte · Desmaya al Zetsu blanco (+5 F, +50 EXP). Saca al Zetsu negro de la tierra con Haki. Kase le gruñe. Zetsu negro le trepa por el brazo: "voy a averiguarlo desde adentro."
 T1390 · NARUTO · Bosque norte · "Puedes intentarlo." Zetsu negro intenta meterse en Facundo: no encuentra nada (Velo). El dragón del antebrazo despierta y le devora un pedazo (Venas del Dragón, maestría 31). "En mil años nada me ha mordido."
+T1391 · NARUTO · Bosque norte · "Dime todo lo que sabes." Zetsu negro: "Soy la voluntad de Madara" (mentira). Ojo de la Luna, Estatua con 7 bijū (solo él sabe dónde). Tienta a Facundo a despertar al Diez Colas.
