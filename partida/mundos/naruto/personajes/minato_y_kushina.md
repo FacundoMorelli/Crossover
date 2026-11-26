@@ -16,3 +16,4 @@ QUÉ SABE (T1416): por Kakashi, el enmascarado del ataque del Kyūbi es Obito.
 QUÉ SABE (T1417): por Facundo, Obito fue utilizado pero lo hizo él.
 - T1418 · Minato apoya a Facundo: "Si lo matamos, se termina. No aprende nada... Pero si tiene que caminar por esas calles todos los días, sin chakra, entre la gente a la que les hizo daño, mirándolos a la cara... eso es otra cosa." Vigilará a Obito con Kakashi.
 - T1421 · Minato se arrodilla junto a Obito y le dice solo: "Obito."
+- T1422 · Minato, con los ojos llenos de lágrimas, le pone la mano en el hombro sano a Obito.

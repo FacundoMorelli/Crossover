@@ -1420,3 +1420,4 @@ T1418 · NARUTO · Torre · Propone para Obito: sellos, sin chakra, reivindicars
 T1419 · NARUTO · Carpa de la colina · "Podría probarlo." Van con Tsunade, Minato, Kakashi y Fugaku a ver a Obito. Yamato ve a Minato. Obito despierta: "Rin..."
 T1420 · NARUTO · Carpa de la colina · Sella a Obito con Sakaime: líneas-frontera en pecho, muñecas, cuello y ojo derecho (chakra encerrado). Obito despierta ciego, intenta el Sharingan: nada. "¿Qué me hicieron? ¿Quién está ahí?"
 T1421 · NARUTO · Carpa de la colina · "No estás en un sueño." Obito: "El del gato." Pregunta por Zetsu. Minato: "Obito." Obito: "Estás muerto. Yo te maté... ¿Sensei?"
+T1422 · NARUTO · Carpa de la colina · Reconstruye el ojo izquierdo de Obito con la técnica de Mahito (ojo negro, sin Sharingan). Obito ve a Minato: "Estás vivo." Ve a Kakashi con su ojo: "Kakashi."

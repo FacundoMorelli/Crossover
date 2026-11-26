@@ -36,3 +36,5 @@ ESTADO: inconsciente, en Konoha (T1371).
 ESTADO: despierto, sellado, ciego (venda), sin chakra utilizable.
 - T1421 · Reconoce la voz de Facundo: "Tú. El de la cueva. El del gato." No puede incorporarse (sin chakra). "No tengo ojos para mirar, viajero. Me tapaste el único que me quedaba." "Ya sé que no es un sueño. En un sueño, las cosas salen como uno quiere." "¿Zetsu? ¿Dónde está Zetsu?" Minato le habla: se congela. "No. No puede ser. Esa voz no. Estás muerto. Yo... yo te maté. Esa noche. Con el Nueve Colas." "¿Sensei?"
 QUÉ SABE (T1421): reconoce a Facundo; oye a Minato vivo.
+- T1422 · Facundo le reconstruye el ojo izquierdo moldeando su alma (Transfiguración Inerte de Mahito): ojo negro, común, sin Sharingan. Ve a Minato: "Sensei. Estás... vivo. Estás vivo." Se estremece cuando Minato le toca el hombro. Ve a Kakashi con su Sharingan: "Kakashi" (voz rota).
+ESTADO: ojo izquierdo nuevo (normal); derecho aún sellado y vendado; chakra encerrado (Sakaime).

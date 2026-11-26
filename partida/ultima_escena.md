@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1419)
-
-ehh mmm podria probarlo
-
-## RESPUESTA 1 (T1419)
-
-> ehh mmm podria probarlo
-
-> —Eh... mmm... Podría probarlo.
-
-Tsunade se te queda mirando.
-
-—"Podría probarlo." —Se echa hacia atrás en el sillón—. Hoy trajiste de vuelta a media aldea con un dragón gigante, y para un sello me dices "podría probarlo".
-
-Jiraiya se ríe por lo bajo, detrás del pañuelo.
-
-—Por lo menos es honesto —dice.
-
-—Es más de lo que tengo. —Tsunade se pone de pie y se acomoda el abrigo—. Vamos. Ahora, antes de que se despierte. Minato, Kakashi, conmigo. —Mira a Fugaku—. Tú también, si quieres verlo con tus propios ojos.
-
-Fugaku no contesta. Pero cuando Tsunade sale del despacho, la sigue.
-
-—Homura, Koharu. —Tsunade no se da vuelta—. Ustedes se quedan aquí. Con los ANBU.
-
-Kase se levanta del escritorio, se estira con toda la espalda arqueada, bosteza y te salta al hombro.
-
-Bajan de la Torre y cruzan la aldea. La gente sigue en las calles: abrazos, llantos, risas, nombres que se gritan de una ventana a otra. Un viejo baila solo en una esquina. Nadie los detiene. Muchos se apartan y se inclinan cuando pasa la Hokage, y después se te quedan mirando a ti.
-
-La carpa de la colina sigue en su lugar, sobre la loma, igual que esta mañana: una lona blanca entre casas nuevas de techo rojo, como si la reconstrucción la hubiera respetado a propósito. Yamato está sentado en la entrada, de piernas cruzadas, con las manos sobre las rodillas y la mirada fija en el futón de adentro. Se pone de pie de un salto al verlos llegar.
-
-—Hokage-sama. —Ve a Minato. Se queda congelado—. Cuarto...
-
-—Después, Yamato —dice Tsunade—. ¿Cómo está?
-
-—Ibiki vino y le puso los sellos. Una venda sellada en el ojo derecho. —Yamato se corre para dejarlos pasar—. No se movió en toda la tarde. Hasta hace unos minutos.
-
-—¿Hasta hace unos minutos?
-
-—Empezó a mover los dedos.
-
-Entran.
-
-Obito está acostado en el futón, boca arriba, con la capa de Akatsuki abierta a los costados, el hombro vendado y un sello de papel con tinta negra pegado sobre el ojo derecho. El ojo izquierdo, el hundido, sigue cerrado. La mitad lisa de la cara está pálida. La mitad de cicatrices, inmóvil.
-
-Los dedos de la mano derecha se le mueven. Una vez. Dos.
-
-Kakashi se detiene en la entrada. Minato da un paso adelante y se queda quieto.
-
-Obito respira hondo, de golpe, como alguien que sale del agua. Se le tensa el cuello.
-
-Abre la boca.
-
-—Rin... —murmura, sin abrir los ojos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1419 · NARUTO · DÍA 1 · 16:08          ║
-║ Konoha · carpa de la colina                  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 84% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Sellar a Obito                     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1420)
+## COMANDO 1 (T1420)
 
 con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
 
-## RESPUESTA 2 (T1420)
+## RESPUESTA 1 (T1420)
 
 > con alguna de mis técnicas le pongo un sello para que no pueda usar chakra ni el sharingan
 
@@ -143,11 +72,11 @@ Kakashi, desde la entrada, cierra los ojos.
 
 ---
 
-## COMANDO 3 (T1421)
+## COMANDO 2 (T1421)
 
 mira bien, presta atención ojito, no estas en un sueño
 
-## RESPUESTA 3 (T1421)
+## RESPUESTA 2 (T1421)
 
 > mira bien, presta atención ojito, no estas en un sueño
 
@@ -210,4 +139,67 @@ Se le corta la voz.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 16:12, carpa de la colina. Facundo: "Mira bien, presta atención, ojito. No estás en un sueño." Obito reconoce su voz ("El de la cueva. El del gato."); no puede incorporarse sin chakra. "No tengo ojos para mirar." "En un sueño, las cosas salen como uno quiere." Pregunta por Zetsu. Minato se arrodilla junto a él: "Obito." Obito se congela: "Esa voz no. Estás muerto. Yo te maté... ¿Sensei?" Facundo puede actuar.
+## COMANDO 3 (T1422)
+
+le reconstruyó el ojo con la técnica de mahito
+
+## RESPUESTA 3 (T1422)
+
+> le reconstruyó el ojo con la técnica de mahito
+
+Le apoyas la palma de la mano sobre el ojo izquierdo. El hundido.
+
+Obito se sobresalta bajo tus dedos, intenta apartar la cara y no puede.
+
+—¿Qué...?
+
+No es chakra. Es otra cosa, que viene de más hondo: lo sientes debajo de la piel, debajo de la carne, en la forma misma de lo que es Obito. Su alma tiene la forma de un ojo que ya no está, como la marca que deja un anillo en un dedo después de años. La tomas con la mano. La moldeas.
+
+Debajo de tu palma, la cuenca vacía se llena.
+
+Sientes cómo crece, redondo, tibio, húmedo, desde adentro hacia afuera. El párpado se le levanta solo bajo tus dedos, empujado por algo que antes no estaba. Obito suelta un jadeo corto, de sorpresa, no de dolor.
+
+Retiras la mano.
+
+Obito tiene un ojo izquierdo. Negro, común, con el blanco limpio y la pupila temblando. Sin Sharingan. Un ojo de chico de trece años, el mismo que tenía antes de la roca de Kannabi, en una cara de treinta.
+
+Parpadea. Una vez. Dos.
+
+Lo primero que ve es el techo de la carpa. Lo mira como si no supiera qué es. Después gira la cabeza, despacio, y lo que ve es a Minato, arrodillado junto a él, a medio metro, con los ojos azules llenos de lágrimas.
+
+Obito se queda sin aire.
+
+—Sensei. —No es una pregunta—. Estás... vivo. Estás vivo.
+
+Minato no dice nada. Le pone una mano en el hombro sano. Obito se estremece bajo el contacto, como si quemara.
+
+Después Obito gira los ojos, el nuevo y el tapado, hacia la entrada de la carpa.
+
+Ve a Kakashi.
+
+Kakashi, que se levantó la banda de la frente sin darse cuenta. Que lo mira con un ojo negro y con otro rojo, de tres comas, el ojo que Obito le dio debajo de una roca, hace diecisiete años.
+
+Obito se queda mirando ese ojo. Su ojo. En la cara del otro.
+
+Le tiembla la boca. Le tiembla todo.
+
+—Kakashi —dice, y la voz se le rompe en la mitad.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1422 · NARUTO · DÍA 1 · 16:14          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:14, carpa de la colina. Facundo le reconstruyó a Obito el ojo izquierdo con la Transfiguración Inerte (copia de Mahito): un ojo negro común, sin Sharingan. Obito ve a Minato: "Sensei. Estás vivo." Minato le pone la mano en el hombro. Obito ve a Kakashi con el Sharingan (su ojo) al aire: "Kakashi", la voz rota. Facundo puede actuar.

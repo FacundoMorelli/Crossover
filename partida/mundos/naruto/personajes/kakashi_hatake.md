@@ -56,3 +56,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1416 · Se baja la máscara y le dice a Minato: "Es Obito, sensei."
 - T1417 · "No fue culpa suya, sensei. Fue mía. Rin..."
 - T1418 · "Eso es más difícil que morir." Vigilará a Obito con Minato.
+- T1422 · Se levanta la banda sin darse cuenta: Obito ve su propio ojo en la cara de Kakashi.
