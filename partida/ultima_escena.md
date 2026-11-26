@@ -3,92 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1436)
-
-esta bien, peleó con el conteniendome
-
-## RESPUESTA 1 (T1436)
-
-> esta bien, peleó con el conteniendome
-
-> —Está bien.
-
-Naruto desaparece.
-
-No como antes. Con el manto dorado es otra cosa: un rayo naranja que cruza el campo de punta a punta y deja una zanja en el pasto. Aparece a tu izquierda con el puño ya lanzado. Tu cuerpo se inclina. El puño te pasa por al lado y el aire que arrastra parte en dos el último poste de madera.
-
-—¡Todavía no!
-
-Del manto dorado le salen brazos. Brazos de chakra, largos, naranjas, que se estiran desde sus hombros como colas y vienen hacia ti desde arriba, desde los costados, desde abajo, cinco, seis, siete, cada uno con una mano abierta.
-
-Los esquivas todos. Te deslizas entre ellos como entre ramas en el viento. Uno te roza el pelo plateado. Lo atrapas por la muñeca, lo giras y lo devuelves contra los otros, y los brazos de chakra se enredan entre sí como cuerdas.
-
-Naruto se ríe. Está feliz como nunca lo viste.
-
-Se va hacia atrás de un salto, hasta el borde del bosque. Levanta la mano derecha. En la palma aparece una esfera azul, y alrededor le crecen cuatro aspas blancas, giratorias, afiladas, que chillan como un viento de tormenta.
-
-—¡Kushina, al suelo! —grita Minato.
-
-—¡Estilo Viento...!
-
-Las aspas giran tan rápido que levantan las hojas de todo el campo.
-
-—¡...Rasenshuriken!
-
-Lo lanza.
-
-Viene hacia ti girando, enorme, más grande que una carreta, partiendo el aire en dos y dejando detrás un surco en el pasto.
-
-Lo atrapas.
-
-Con la mano abierta, en el centro, donde gira la esfera azul. Las aspas chillan contra tu palma, se doblan, tiemblan. No te cortan. Aprietas los dedos, despacio. El chillido se vuelve un silbido. El silbido, un zumbido. Y el Rasenshuriken se encoge en tu mano hasta el tamaño de una canica, y se apaga con un ruidito de burbuja.
-
-Naruto se queda con la boca abierta, en el borde del bosque.
-
-Das un paso. Estás frente a él. Le das un golpecito con dos dedos en la frente, justo encima de la banda.
-
-Naruto sale despedido de espaldas, gira tres veces en el aire, atraviesa la copa de un árbol, sale por el otro lado y cae de espaldas en el pasto, con los brazos abiertos. El manto dorado le parpadea, se apaga, y vuelve a ser un chico de chaqueta naranja tirado en el suelo, con la frente roja y los ojos azules mirando el cielo.
-
-[Duelo ganado: Naruto Uzumaki.]
-
-[+75 Fragmentos. +800 EXP.]
-
-Durante un segundo no se mueve.
-
-Después se ríe. A carcajadas, tirado en el pasto, con las dos manos en la panza.
-
-—¡Kurama dice que eres un monstruo! —grita, sin levantarse—. ¡Que en cien años nunca vio nada igual! ¡Y que la próxima vez le deje el cuerpo a él, que me va a enseñar cómo se hace! ¡De veras!
-
-Kushina corre hacia él. Minato suspira largo, con una mano en el pecho.
-
-Y desde lo alto del árbol, sin hacer ruido, alguien baja de un salto y aterriza en el centro del campo, entre tú y Naruto. Pelo negro. Capa negra y blanca. Una espada en la cintura. La muñeca ya sin vendas.
-
-Sasuke te mira. Los ojos se le encienden, rojos, con las aspas negras girando.
-
-—Mi turno —dice.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1436 · NARUTO · DÍA 5 · 06:40          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 330.330/360.000               ║
-║ FRAGMENTOS 114.174 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común · Ultra Instinto         ║
-║ Kase: en el pasto                            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1437)
+## COMANDO 1 (T1437)
 
 esta bien. simula unos dias
 
-## RESPUESTA 2 (T1437)
+## RESPUESTA 1 (T1437)
 
 > esta bien. simula unos dias
 
@@ -151,11 +70,11 @@ Levanta la cara. Tiene los ojos un poco rojos.
 
 ---
 
-## COMANDO 3 (T1438)
+## COMANDO 2 (T1438)
 
 mañana me voy, voy a volver igual, no se cuanto tiempo me ire
 
-## RESPUESTA 3 (T1438)
+## RESPUESTA 2 (T1438)
 
 > mañana me voy, voy a volver igual, no se cuanto tiempo me ire
 
@@ -208,4 +127,55 @@ Levanta la mano, el puño cerrado, entre los dos. Igual que en Ichiraku.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 9 21:16, puerta de la casa de Facundo. "Mañana me voy. Voy a volver. No sé cuánto tiempo." Naruto: despedida mañana en Ichiraku con todos. "Cuando vuelvas voy a ser Hokage. O casi... y te voy a ganar a ti (capaz que no)." "El Sabio Pervertido una vez no volvió. Y tú lo trajiste." Puño en alto: "Prométeme que vas a volver. Una promesa de las que no se rompen. De veras." Facundo tiene que contestar.
+## COMANDO 3 (T1439)
+
+te lo prometo naruto
+
+## RESPUESTA 3 (T1439)
+
+> te lo prometo naruto
+
+> —Te lo prometo, Naruto.
+
+Chocas el puño con el suyo.
+
+Naruto se queda un segundo así, con el puño contra el tuyo, mirándote. Después sonríe. No la sonrisa enorme de siempre: una más chica, que se le arma despacio, de abajo hacia arriba, hasta que le llega a los ojos.
+
+—Una promesa de por vida —dice—. Esa es mi forma ninja. Y ahora también es la tuya.
+
+Baja el puño. Da un paso atrás, al escalón de abajo.
+
+Y sale corriendo.
+
+—¡MAMÁ! ¡PAPÁ! ¡SABIO PERVERTIDO! —se le oye gritar mientras se aleja por la calle oscura, saltando de techo en techo—. ¡MAÑANA HAY FIESTA EN ICHIRAKU! ¡SE VA FACUNDO! ¡QUE VENGAN TODOS! ¡SASUKE TAMBIÉN! ¡SASUKE, AUNQUE NO QUIERAS!
+
+Una ventana se cierra de un golpe. Otra se abre. Alguien le grita que se calle. Un perro ladra. A lo lejos, en la colina, se enciende la luz de la casa del sapo de piedra, y se oye la voz de Jiraiya contestando algo que no se entiende.
+
+Después, la calle vuelve a quedar en silencio.
+
+Cierras la puerta.
+
+La casa de madera está a oscuras, salvo por la luz de la luna que entra por la ventana redonda. Huele a madera, a arroz de la mañana, a la bufanda tejida que alguien te dejó colgada en el picaporte. En una esquina hay una pila de cosas que te fueron trayendo estos días: el dibujo del chico con el dragón y el gato, una canasta vacía, una caja de dangos que todavía no abriste.
+
+Kase baja del estante de un salto, camina hasta el futón y se echa en el medio, ocupando la mitad, como hace en todos los mundos.
+
+Te mira con el ojo rojo y el ojo azul. Bosteza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1439 · NARUTO · DÍA 9 · 21:19          ║
+║ Konoha · borde sur · tu casa de madera       ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el futón                            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: Despedida mañana en Ichiraku       ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 9 21:19, casa de madera de Facundo. "Te lo prometo, Naruto." Chocan los puños. Naruto: "Una promesa de por vida. Esa es mi forma ninja. Y ahora también es la tuya." Sale corriendo gritando por los techos: "¡MAÑANA HAY FIESTA EN ICHIRAKU! ¡SE VA FACUNDO! ¡SASUKE, AUNQUE NO QUIERAS!" Facundo cierra la puerta. Casa a oscuras: bufanda en el picaporte, el dibujo, dangos sin abrir. Kase echado en el medio del futón. Facundo puede actuar.

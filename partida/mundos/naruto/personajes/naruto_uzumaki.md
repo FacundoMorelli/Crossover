@@ -62,3 +62,5 @@ ESTADO: Modo Chakra del Nueve Colas (manto dorado) activo; relación con Kurama:
 - T1437 · Se hace amigo de Killer Bee (Kurama y Gyūki se insultan). Día 9 noche, en la puerta de Facundo: "Mamá dice que los viajeros siempre se van. Y el Sabio Pervertido dice que tú dijiste unos días. Y ya pasaron nueve. ¿Cuándo te vas?"
 - T1438 · "¡Entonces mañana hacemos una despedida! ¡En Ichiraku! ¡Con todos!" "Y cuando vuelvas, voy a ser Hokage. O casi. Y Kurama va a ser mi amigo de verdad... Y le voy a ganar a Sasuke. Y te voy a ganar a ti. Bueno. Eso último capaz que no." "El Sabio Pervertido se fue un montón de veces... Pero una vez no volvió. Y tú lo trajiste de vuelta." Puño en alto: "Prométeme que vas a volver. Una promesa de verdad. De las que no se rompen. De veras."
 QUÉ SABE (T1438): por Facundo, se va mañana; volverá; no sabe cuánto tiempo.
+- T1439 · Facundo le promete volver; chocan los puños. "Una promesa de por vida. Esa es mi forma ninja. Y ahora también es la tuya." Sale corriendo por los techos: "¡MAMÁ! ¡PAPÁ! ¡SABIO PERVERTIDO! ¡MAÑANA HAY FIESTA EN ICHIRAKU! ¡SE VA FACUNDO! ¡QUE VENGAN TODOS! ¡SASUKE TAMBIÉN!"
+PROMESA (T1439): Facundo le prometió volver.

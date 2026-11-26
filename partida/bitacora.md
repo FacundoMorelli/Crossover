@@ -1437,3 +1437,4 @@ T1435 · NARUTO · Campo tres · "¿Cómo te hiciste amigo de Sasuke?" Naruto me
 T1436 · NARUTO · Campo tres · Duelo con Naruto: brazos de chakra, Rasenshuriken (atrapado y apagado con la mano). Golpecito en la frente: Naruto vuela. "¡Kurama dice que eres un monstruo!" +75 F, +800 EXP. Sasuke: "Mi turno."
 T1437 · NARUTO · Días 5-9 (simulación) · Duelo con Sasuke (Susanoo, Amaterasu, Kirin): ganado (+75 F, +800 EXP). Kakashi puntual. Obito barre; Rin le venda las manos. Jiraiya: "El Viajero del Gato". Bee visita. Neji en el techo. Día 9 noche: Naruto en la puerta: "¿Cuándo te vas?"
 T1438 · NARUTO · Casa de Facundo · "Mañana me voy. Voy a volver." Naruto: despedida mañana en Ichiraku. "Prométeme que vas a volver."
+T1439 · NARUTO · Casa de Facundo · "Te lo prometo, Naruto." Puños. "Una promesa de por vida. Esa es mi forma ninja. Y ahora también es la tuya." Naruto anuncia a los gritos la fiesta de mañana. Noche en la casa.

@@ -107,3 +107,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1428 · Vuelve al hombro de Facundo al salir de la Torre (noche Día 1). Se acostumbra al estante de la ventana de la casa de madera.
 - T1431 · Salta del tercer poste en el último segundo antes de que Tsunade parta los postes.
 - T1437 · Come cada mañana el cerdo de Ayame en el estante; nunca le agradece.
+- T1439 · Se echa en el medio del futón de la casa de madera, ocupando la mitad, "como en todos los mundos".

@@ -1,8 +1,8 @@
 {
-  "turno": 1438,
+  "turno": 1439,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 9",
-  "hora": "Día 9, 21:16",
+  "hora": "Día 9, 21:19",
   "edad": 18,
   "nivel": 30,
   "exp": 331130,
@@ -644,6 +644,11 @@
       "objeto": "Esferas de Alba (Esferas del Dragón de Konoha)",
       "cantidad": 7,
       "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: ALBA (nombre puesto por el motor a pedido del jugador, T1404): cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo carmesí y ojo azul hielo; cubre todo el cielo del cráter. \"No hay nada en este mundo que no pueda hacer.\" 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha. T1404: invocado en el centro del cráter ante todo Konoha. DESEO 1 (T1405): reconstruir en todo el mundo lo que fue destruido — cumplido (Konoha entera, Torre del Hokage, Ichiraku, monumento; la ola de luz siguió por todo el mundo). DESEO 2 (T1406): revivir a todos los muertos por Akatsuki y Danzō, en sus casas, con sus recuerdos (incluida su muerte) sin el dolor — cumplido. DESEO 3 (T1407): destruir al Diez Colas (Estatua del Camino Exterior) y devolver las bestias a sus jinchūriki — cumplido. Las 7 esferas vuelven a ser piedras grises de río, INACTIVAS UN AÑO (hasta ~Día 1 del año siguiente en Naruto). Caídas en el empedrado frente a la Torre del Hokage (sin recoger). T1408: recogidas del empedrado y guardadas en el inventario (inactivas).",
+      "mundo": "naruto"
+    },
+    {
+      "objeto": "Regalos de Konoha (en la casa de madera, sin guardar): bufanda tejida, dibujo de un chico con un dragón y un gato, caja de dangos sin abrir",
+      "origen": "naruto, vecinos (T1428-1439)",
       "mundo": "naruto"
     }
   ],
