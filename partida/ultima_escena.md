@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1403)
-
-quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
-
-## RESPUESTA 1 (T1403)
-
-> quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
-
-> —Quiero que lo miren. Todos.
-
-Te bajas de la tarima. La gente de la primera fila se aparta sin que se lo pidas, en un semicírculo, alrededor del pañuelo con las siete piedras. Naruto da un paso atrás. Sasuke no.
-
-Te arrodillas frente a ellas.
-
-Apoyas las dos manos abiertas sobre las piedras, sin tocarlas, a un dedo de distancia. Y sueltas todo.
-
-No es chakra. Nadie en el cráter lo siente: ni Neji, que tiene el Byakugan encendido otra vez, ni Hiashi, ni la sensora de anteojos que se agarra del brazo de Jūgo. Pero lo ven.
-
-El aire alrededor de tus manos se pone blanco. Después azul. Después rojo. El suelo bajo tus rodillas tiembla, y el temblor corre por todo el cráter, hasta el borde, hasta las casas de madera del sur, hasta los cinco rostros de piedra del monumento, que sueltan polvo de las mejillas. Las lonas de las carpas se sacuden todas a la vez. Kase se aferra a tu hombro con las uñas, con el pelo flotándole hacia arriba como si estuviera debajo del agua.
-
-Las siete piedras se levantan del pañuelo.
-
-Flotan a la altura de tu cara, en círculo, girando despacio. Y empiezan a cambiar.
-
-Lo gris se les va como una cáscara que se cae. Debajo hay cristal. Transparente al principio, después de un naranja profundo, como el del sol del atardecer, cálido, con un brillo que sale de adentro. Y en el centro de cada una, una por una, se enciende una estrella roja. Una. Dos. Tres. Cuatro. Cinco. Seis. Siete.
-
-La luz que sueltan es tan fuerte que la gente de las primeras filas se tapa los ojos con las manos.
-
-Después baja.
-
-Las siete esferas quedan flotando en el aire frente a ti, en círculo, latiendo como corazones, del tamaño de un puño cada una, con sus estrellas rojas quietas adentro. Del cristal sale un calor suave, como el de una fogata.
-
-El temblor se apaga. Las lonas dejan de moverse. El polvo del monumento termina de caer.
-
-Bajas las manos.
-
-En todo el cráter no se oye ni un pájaro.
-
-Naruto tiene la boca abierta hasta el pecho. Lee está llorando sin darse cuenta. Shikamaru se sacó las manos de los bolsillos por primera vez. Hinata se agarra de la manga de Neji. Tsunade, al pie de la tarima, tiene una mano sobre el corazón, como si le doliera.
-
-Sasuke se queda mirando las esferas, inmóvil, con el ojo todavía mojado.
-
-Neji desactiva el Byakugan. Le tiembla la voz.
-
-—No... no tienen chakra. —Mira las esferas, después a ti—. Y aun así, es lo más... lo más vivo que vi en mi vida.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1403 · NARUTO · DÍA 1 · 15:10          ║
-║ Konoha · centro del cráter                   ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 81% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1404)
+## COMANDO 1 (T1404)
 
 cereale vos el nombre, sal (el nombre que le pongas)
 
-## RESPUESTA 2 (T1404)
+## RESPUESTA 1 (T1404)
 
 > cereale vos el nombre, sal (el nombre que le pongas)
 
@@ -119,11 +56,11 @@ Cuando habla, la voz no sale de su boca. Sale del aire, del suelo, de todas part
 
 ---
 
-## COMANDO 3 (T1405)
+## COMANDO 2 (T1405)
 
 Primero, deseo que reconstruyas todo el mundo lo que fue destruido
 
-## RESPUESTA 3 (T1405)
+## RESPUESTA 2 (T1405)
 
 > Primero, deseo que reconstruyas todo el mundo lo que fue destruido
 
@@ -188,4 +125,75 @@ Alba abre los ojos.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:13. DESEO 1 CUMPLIDO: Alba reconstruyó en todo el mundo lo destruido. Konoha entera otra vez (calles, casas, Torre del Hokage en el centro donde estaba la tarima, Ichiraku con su letrero, monumento sin grietas, árboles del norte enderezados); la ola de luz siguió por el mundo. La gente frente a sus casas, en silencio. Una nena: "Mamá. Es nuestra casa." Naruto: "Está mi departamento." Alba: "Cumplido. Pide el segundo." Facundo tiene que pedir el segundo deseo.
+## COMANDO 3 (T1406)
+
+deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
+
+## RESPUESTA 3 (T1406)
+
+> deseo que revivas a todos los que murieron por akatsuki y danzo, todos y que aparezcan en sus casas, con todos los recuerdos, incluido como murieron, pero sin el dolor de haber muerto
+
+> —Deseo que revivas a todos los que murieron por Akatsuki y por Danzō. A todos. Y que aparezcan en sus casas, con todos sus recuerdos, incluido cómo murieron, pero sin el dolor de haber muerto.
+
+Alba se queda quieto un momento largo.
+
+Los ojos rojo y azul se le apagan, despacio, como si mirara algo muy lejos, muy atrás, más allá de este día y de este cielo.
+
+—SON MUCHOS —dice—. MÁS DE LOS QUE CREES. DE ESTA ALDEA Y DE OTRAS. DE HACE TRES DÍAS Y DE HACE DIECISÉIS AÑOS.
+
+Abre los ojos.
+
+—ES POSIBLE.
+
+Esta vez sí ruge.
+
+No es un sonido de miedo. Es grave, largo, como un trueno que no termina, y hace vibrar las ventanas nuevas de todo Konoha. El cuerpo enorme del dragón se enciende de punta a punta, y de cada escama dorada sale una chispa de luz. Miles. Decenas de miles. Suben al cielo oscuro como brasas de una fogata y se quedan ahí arriba un segundo, flotando, como estrellas.
+
+Después caen.
+
+Sobre Konoha, despacio, como nieve de luz. Y más allá, hacia el bosque, hacia el horizonte, hacia todos los lados del mundo, mucho más lejos de lo que se ve.
+
+Cada chispa encuentra una casa.
+
+Se nota primero en las ventanas. Una se enciende. Después otra. Después muchas. Y después los gritos, que no son de miedo: un grito de mujer en una casa de la calle de enfrente. Un hombre que sale corriendo por una puerta, descalzo, y se queda parado en la calle, mirando hacia adentro, sin poder hablar. Un chico que llora llamando a alguien.
+
+En una calle a la izquierda de la torre, la puerta de un departamento se abre de golpe y sale una mujer de pelo negro y ojos rojos, embarazada, con las dos manos sobre la boca. Detrás de ella, en el umbral, un hombre alto, de barba corta, con un cigarrillo que todavía no prendió, se mira las manos como si no fueran suyas.
+
+—¿Kurenai? —dice.
+
+Al este, del otro lado de la torre, se encienden, una por una, las luces de un barrio entero que llevaba años apagado. Casas bajas, con un abanico rojo y blanco pintado en las paredes. Cientos de ventanas. Y voces. Muchas voces. Gente que sale a las calles y se mira entre sí, en silencio, como si no entendiera dónde está.
+
+Sasuke se queda mirando hacia ese barrio.
+
+No se mueve. No respira. El Sharingan se le apaga solo.
+
+Karin le agarra la manga. Él no se da cuenta.
+
+Kakashi, a pocos metros, se da vuelta despacio hacia el oeste, hacia una casa vieja de dos pisos que no es la suya, en una calle tranquila, cuya ventana del primer piso también acaba de encenderse. Se queda mirándola, rígido, con la mano a medio camino de la banda del ojo.
+
+Tsunade está quieta, mirando hacia el norte, hacia una casa de la colina, la más alta de la aldea, con un sapo de piedra en la puerta. Las ventanas están encendidas.
+
+Le tiemblan las manos.
+
+Alba baja la cabeza hacia ti.
+
+—CUMPLIDO. CADA UNO ESTÁ DONDE VIVIÓ. TODOS RECUERDAN. NINGUNO SUFRE. —Los ojos rojo y azul brillan, tranquilos—. PIDE EL TERCERO.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1406 · NARUTO · DÍA 1 · 15:16          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Pedir el tercer deseo              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:16. DESEO 2 CUMPLIDO: Alba revivió a todos los muertos por Akatsuki y Danzō, en sus casas, con sus recuerdos, sin dolor ("de hace tres días y de hace dieciséis años"). Lluvia de chispas por todo el mundo. Visto: Asuma en la puerta de Kurenai ("¿Kurenai?"); el barrio Uchiha se enciende entero (Sasuke inmóvil, Sharingan apagado); Kakashi mira una casa vieja del oeste que se enciende (Minato y Kushina); Tsunade mira la casa de la colina del sapo (Jiraiya), le tiemblan las manos. Alba: "Pide el tercero." Facundo tiene que pedir el tercer deseo. (Lista completa de revividos en SECRETO deseo2_naruto.)

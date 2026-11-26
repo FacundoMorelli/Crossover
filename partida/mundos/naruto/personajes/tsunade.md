@@ -74,3 +74,4 @@ QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y 
 - T1400 · Se corre a un costado y deja a Sasuke a la vista de todos.
 - T1401 · Sube a la tarima: "¡SILENCIO!" "Hace tres días, Pain borró esta aldea del mapa. Esta mañana, yo estaba en coma y Danzō se hacía llamar Hokage. Hoy a la tarde, Danzō está preso, la Hokage está despierta y Akatsuki ya no existe." "Todo eso lo hizo una sola persona. Llegó esta mañana. Dice que es un viajero." Le cede la tarima a Facundo.
 - T1403 · Ante las Esferas, una mano sobre el corazón.
+- T1406 · Mira la casa de la colina con el sapo de piedra (Jiraiya): ventanas encendidas. Le tiemblan las manos.

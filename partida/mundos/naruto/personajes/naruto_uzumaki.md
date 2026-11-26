@@ -42,3 +42,4 @@ QUÉ SABE DE FACUNDO (T1400): por Sasuke, trajo a Sasuke; dice que puede revivir
 - T1402 · Durante el discurso se lleva las manos a la cabeza; le tiemblan los hombros. Sakura le agarra el brazo.
 - T1404 · Se cae de espaldas y queda sentado, boca abierta, ante el dragón Alba.
 - T1405 · Sentado en la calle reconstruida: "Mi departamento. Está mi departamento."
+- T1406 · (Minato y Kushina revividos en su casa del oeste; Naruto todavía no lo sabe.)

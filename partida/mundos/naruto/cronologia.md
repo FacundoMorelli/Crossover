@@ -40,3 +40,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1395 · Tsunade sabe que Killer Bee está libre (Kumo cree que fue secuestrado por Sasuke). Esto puede desactivar el conflicto con Kumo y la Cumbre.
 - T1400 · Reencuentro Naruto-Sasuke en Konoha (canon: no hasta la guerra/el final).
 - T1405 · Día 1 15:13 · Konoha y todo lo destruido en el mundo, reconstruidos por el primer deseo de Alba.
+- T1406 · Día 1 15:16 · CAMBIO TOTAL: segundo deseo de Alba. Vuelven los Uchiha, Itachi, Shisui, Jiraiya, Asuma, Minato, Kushina, los jinchūriki (sin bijū), Yahiko, etc.

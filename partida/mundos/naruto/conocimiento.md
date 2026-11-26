@@ -154,3 +154,5 @@
 - TODO KONOHA · T1403 · vio a Facundo convertir 7 piedras en esferas de cristal naranja con estrellas rojas, con un temblor que sacudió todo el cráter. Nadie sintió chakra (Velo), ni Neji ni Hiashi ni Karin. PÚBLICO.
 - TODO KONOHA · T1404 · vio al dragón Alba invocado por Facundo y oyó su voz: concederá tres deseos, "cualquiera". PÚBLICO.
 - TODO KONOHA · T1405 · vio a Alba reconstruir la aldea entera en un minuto por el deseo de Facundo. El resto del mundo ve sus ruinas rehechas sin saber por qué (salvo testigos de la luz dorada).
+- TODO KONOHA · T1406 · vio caer la lluvia de luz y volver a sus casas a los muertos. Público. Los revividos recuerdan cómo murieron (y quién los mató: los Uchiha saben de Itachi y la orden; Minato y Kushina saben del enmascarado; Jiraiya sabe de Pain/Nagato; Asuma de Hidan).
+- Itachi revivido · T1406 · recuerda su vida entera y su muerte a manos de Sasuke (sin dolor).

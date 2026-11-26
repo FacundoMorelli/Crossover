@@ -49,3 +49,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1379 · "Es así. Sin el ojo abierto no puedo usar el Kamui. Ni siquiera puedo apuntar." Se queda con Obito. Cruza una mirada muda con Sasuke.
 - T1399 · Deja a Yamato con Obito; se ubica atrás de todos en la reunión, banda bajada.
 - T1402 · Se baja la banda del ojo izquierdo y mira el suelo.
+- T1406 · Se da vuelta hacia una casa vieja de dos pisos del oeste (la de Minato y Kushina) cuya ventana se enciende. Rígido, mano a medio camino de la banda.

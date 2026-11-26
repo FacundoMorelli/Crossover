@@ -25,3 +25,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1403 · Esferas del Dragón creadas en Konoha (7, naranja, estrellas rojas).
 - T1404 · Invocación del dragón Alba sobre Konoha. El cielo oscurecido es visible a gran distancia (el País del Fuego entero puede notarlo).
 - T1405 · DESEO 1 DE ALBA: reconstruido en todo el mundo lo destruido. KONOHA ENTERA como antes de Pain (calles, casas, Torre del Hokage, Ichiraku, departamento de Naruto, monumento sin grietas, bosque norte enderezado). La ola siguió por todo el mundo.
+- T1406 · DESEO 2 DE ALBA: REVIVIDOS todos los muertos por Akatsuki y Danzō: clan Uchiha entero (Fugaku, Mikoto, Itachi sano, Shisui con sus ojos), Jiraiya, Fukasaku, Asuma, Minato y Kushina, víctimas del Kyūbi de hace 16 años, Yahiko, jinchūriki capturados (sin sus bijū), víctimas de Raíz y de los miembros de Akatsuki en todo el mundo. Cada uno en su casa, con sus recuerdos, sin dolor.

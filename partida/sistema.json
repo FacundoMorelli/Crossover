@@ -1,8 +1,8 @@
 {
-  "turno": 1405,
+  "turno": 1406,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 15:13",
+  "hora": "Día 1, 15:16",
   "edad": 18,
   "nivel": 29,
   "exp": 306730,
@@ -643,7 +643,7 @@
     {
       "objeto": "Esferas de Alba (Esferas del Dragón de Konoha)",
       "cantidad": 7,
-      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: ALBA (nombre puesto por el motor a pedido del jugador, T1404): cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo carmesí y ojo azul hielo; cubre todo el cielo del cráter. \"No hay nada en este mundo que no pueda hacer.\" 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha. T1404: invocado en el centro del cráter ante todo Konoha. DESEO 1 (T1405): reconstruir en todo el mundo lo que fue destruido — cumplido (Konoha entera, Torre del Hokage, Ichiraku, monumento; la ola de luz siguió por todo el mundo).",
+      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: ALBA (nombre puesto por el motor a pedido del jugador, T1404): cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo carmesí y ojo azul hielo; cubre todo el cielo del cráter. \"No hay nada en este mundo que no pueda hacer.\" 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha. T1404: invocado en el centro del cráter ante todo Konoha. DESEO 1 (T1405): reconstruir en todo el mundo lo que fue destruido — cumplido (Konoha entera, Torre del Hokage, Ichiraku, monumento; la ola de luz siguió por todo el mundo). DESEO 2 (T1406): revivir a todos los muertos por Akatsuki y Danzō, en sus casas, con sus recuerdos (incluida su muerte) sin el dolor — cumplido.",
       "mundo": "naruto"
     }
   ],
@@ -2546,7 +2546,8 @@
     "bee_naruto": "Killer Bee NO fue capturado: escapó dejando un tentáculo del Hachibi (canon). Kumo cree que sí. Tobi lo sabe.",
     "tobi_naruto": "T1365: Tobi (Obito) inconsciente en la cueva del norte, con la máscara puesta. Zetsu negro salió antes (T1363) y no vio la derrota (o la vio desde la pared: sin confirmar; motor: no la vio). Sasuke quiere sacarle la máscara.",
     "zetsu_naruto": "Zetsu negro es la voluntad de Kaguya (canon). En T1363 Tobi lo mandó a averiguar sobre Facundo: se metió en un árbol del borde norte de Konoha a espiar el campamento. Vio, desde lejos, el movimiento en la carpa de mando y a Sasuke cruzar el campamento. T1391: Zetsu negro MIENTE: dice ser \"la voluntad de Madara\" (canon: es la voluntad de Kaguya Ōtsutsuki, su hija/creación). Dice la verdad sobre el Ojo de la Luna, la Estatua (Gedō Mazō) con 7 bijū y que solo él sabe dónde está ahora. Intenta tentar a Facundo para que despierte al Diez Colas (y así liberar a Kaguya). T1393: ZETSU NEGRO DESTRUIDO por el Eclipse de Facundo (última palabra: \"Madre...\"). Sin él, Kaguya no puede ser liberada por su vía; nadie más sabe del plan de Kaguya.",
-    "deseo1_naruto": "T1405: Reconstrucción mundial de lo destruido: Konoha como antes de Pain; todo lo destruido por Akatsuki y conflictos en el mundo (Amegakure, Suna dañada por Deidara, aldeas de jinchūriki, etc.). Las casas de madera de Yamato quedan donde estaban (se acoplaron a las calles). La casa de Facundo sigue en el borde sur, ahora una calle más."
+    "deseo1_naruto": "T1405: Reconstrucción mundial de lo destruido: Konoha como antes de Pain; todo lo destruido por Akatsuki y conflictos en el mundo (Amegakure, Suna dañada por Deidara, aldeas de jinchūriki, etc.). Las casas de madera de Yamato quedan donde estaban (se acoplaron a las calles). La casa de Facundo sigue en el borde sur, ahora una calle más.",
+    "deseo2_naruto": "T1406: REVIVIDOS (lista del motor; interpretación amplia, sin recortar la intención del jugador): CLAN UCHIHA entero (masacre ordenada por Danzō, ejecutada por Itachi y Obito), con Fugaku y Mikoto, en el barrio Uchiha. SHISUI UCHIHA (Danzō le sacó el ojo; vuelve con sus dos ojos: el de Danzō queda vacío/inerte). ITACHI UCHIHA (murió por la misión de Danzō; incluido por la intención del jugador), SANO, sin la enfermedad, en su casa del barrio Uchiha. JIRAIYA (Pain), en su casa de la colina (sapo de piedra en la puerta). FUKASAKU (Pain), en Myōboku. ASUMA SARUTOBI (Hidan), en el departamento de Kurenai. MINATO NAMIKAZE y KUSHINA UZUMAKI (ataque del Kyūbi provocado por Obito = Akatsuki), en su casa del oeste. Y todas las víctimas del ataque del Kyūbi hace 16 años. YAHIKO (trampa de Hanzō y Danzō), en Amegakure. Los JINCHŪRIKI capturados (Yugito Nii, Yagura, Rōshi, Han, Utakata, Fū), en sus aldeas, SIN sus bijū (siguen en la Estatua). Víctimas de Hidan y Kakuzu, de Deidara, de Sasori, de Kisame, de Pain/Nagato en otras aldeas, de Raíz y Danzō (incluidos huérfanos de Raíz). NO revividos: Nagato (Rinne Tensei, por su mano), Chiyo, Sasori, Deidara, Kakuzu, Hidan (vivo enterrado), Orochimaru, el Tercero (Orochimaru), Rin (motor: no; su muerte la arregló Madara, no Akatsuki), Zetsu negro, Madara."
   },
   "recompensa_onepiece": {
     "monto": 400000000,
