@@ -57,3 +57,4 @@ RELACIÓN CON FACUNDO (T1384): empieza a confiar.
 - T1386 · Frena a Karin con la mano en la frente cuando corre a abrazarlo.
 - T1387 · Levanta la cabeza al oír el nombre de Naruto.
 - T1395 · No desmiente a Suigetsu sobre Bee.
+- T1396 · Al oír "el que ataca a mi familia está muerto", algo se le afloja en la cara.

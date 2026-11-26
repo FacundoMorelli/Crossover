@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1393)
-
-entiendo, uso eclipse y lo trago antes que haga nada
-
-## RESPUESTA 1 (T1393)
-
-> entiendo, uso eclipse y lo trago antes que haga nada
-
-> —Entiendo.
-
-Los ojos se te encienden. El izquierdo, rojo carmesí, como una brasa. El derecho, azul hielo, como el fondo de un lago helado.
-
-Entre la cara de Kase y la mancha negra, a un palmo del bigote del gato, aparece un punto.
-
-No es luz. Es lo contrario de la luz. Un punto negro, más negro que Zetsu, del tamaño de una semilla, con un borde finísimo que brilla blanco y azul, como el anillo de un eclipse. El aire a su alrededor se curva. Las hojas sueltas del suelo se levantan y se van hacia él.
-
-Zetsu negro no alcanza a frenar.
-
-Se le estira el cuerpo hacia el punto como si cayera en un pozo sin fondo. Primero el borde, después la mitad. El ojo amarillo se abre enorme, te mira, y en él no hay plan, ni mentira, ni mil años: solo algo muy viejo que entiende, de golpe, que se termina.
-
-—Madre... —alcanza a susurrar.
-
-El punto se lo traga entero. Sin ruido. Sin una gota.
-
-Después el punto se cierra sobre sí mismo y desaparece, y en el aire queda solo un temblor que se apaga.
-
-[Derrotado: Zetsu negro.]
-
-[+25 Fragmentos. +500 EXP.]
-
-Los ojos se te apagan. No te arden. No te duelen. No sientes nada.
-
-Kase se queda un segundo con la boca abierta, a medio bufido, mirando el lugar vacío donde estaba la oscuridad. Después cierra la boca. Se le baja el pelo del lomo, despacio. Te mira de reojo, con el ojo rojo y el azul, como diciendo que podrías haberlo hecho antes, y se acomoda otra vez sobre tu hombro con la cola alrededor de tu cuello.
-
-El bosque partido se queda en silencio.
-
-A lo lejos, en el campamento, alguien sigue martillando. Un perro ladra. El viento mueve las lonas.
-
-En el tronco del árbol, la mitad blanca de Zetsu cuelga desmayada, con la boca abierta y media cara vacía donde antes estaba la otra mitad.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1393 · NARUTO · DÍA 1 · 13:51          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1394)
+## COMANDO 1 (T1394)
 
 agarro a zetsu y me teletransporto con tsunade, tengo información
 
-## RESPUESTA 2 (T1394)
+## RESPUESTA 1 (T1394)
 
 > agarro a zetsu y me teletransporto con tsunade, tengo información
 
@@ -119,11 +62,11 @@ Te hace un gesto seco con el mentón.
 
 ---
 
-## COMANDO 3 (T1395)
+## COMANDO 2 (T1395)
 
 le cuento todo lo que me contó
 
-## RESPUESTA 3 (T1395)
+## RESPUESTA 2 (T1395)
 
 > le cuento todo lo que me contó
 
@@ -176,4 +119,59 @@ Hace una pausa.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:57, carpa de mando. Facundo contó (indirecto) lo que dijo Zetsu negro: "voluntad de Madara", Ojo de la Luna, Estatua del Camino Exterior con 7 bijū, faltan 8 y 9, solo él sabía dónde. Tsunade: "Naruto." Homura: el Ocho es Killer Bee. Suigetsu: el Ocho Colas no lo tienen, se escapó dejando un tentáculo (Kumo busca venganza por un secuestro que no pasó). Tsunade: "Killer Bee está vivo. Y libre." "¿Nadie sabe dónde está la Estatua? Y la otra mitad, todavía no me dijiste qué pasó." Facundo tiene que contestar.
+## COMANDO 3 (T1396)
+
+lo mate, intento meterse en mi gato, el que ataca a mi familia, esta muerto
+
+## RESPUESTA 3 (T1396)
+
+> lo mate, intento meterse en mi gato, el que ataca a mi familia, esta muerto
+
+> —Lo maté. Intentó meterse en mi gato. El que ataca a mi familia está muerto.
+
+Lo dices sin levantar la voz.
+
+Nadie contesta enseguida.
+
+Kase, en tu hombro, abre un ojo, el azul, y mira a todos los de la carpa uno por uno, despacio, como confirmando lo que acabas de decir. Después lo vuelve a cerrar.
+
+Suigetsu traga saliva y se corre medio metro hacia atrás, lejos del gato.
+
+—Anotado —murmura—. No tocar al gato. Nunca. Por nada del mundo.
+
+—Nunca lo tocaste —le dice Karin.
+
+—Por eso sigo vivo.
+
+Jūgo, en su rincón, mira a Kase con una expresión rara, tranquila, casi de respeto. Sasuke te mira de reojo desde el poste, sin decir nada, pero algo se le afloja en la cara, apenas, como si lo hubiera entendido mejor que nadie.
+
+Tsunade se queda un rato largo mirándote. Después asiente una vez.
+
+—Bien. —Lo dice como quien cierra un expediente—. Uno menos.
+
+Se pasa una mano por la cara. Por primera vez en todo el día se le nota de verdad el cansancio.
+
+—Así que la mitad negra está muerta, el que se hacía llamar Madara está dormido en mi otra carpa con un ojo vendado, y el hombre tiburón está en mi suelo. —Mira a Kisame, a la mitad blanca de Zetsu, a Ibiki con el pincel—. Akatsuki, la organización que mató a Jiraiya, que destruyó mi aldea y que tuvo en vilo a las cinco naciones durante años, se terminó en una mañana. En la carpa de una mujer que se despertó del coma a las ocho.
+
+Se ríe por la nariz, sin ganas.
+
+—Pero queda la Estatua. Con siete bestias adentro, en algún lugar del mundo, sin nadie que la cuide. —Te mira, seria otra vez—. Si alguien la encuentra antes que nosotros, todo esto vuelve a empezar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1396 · NARUTO · DÍA 1 · 13:58          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:58, carpa de mando. Facundo: "Lo maté. Intentó meterse en mi gato. El que ataca a mi familia está muerto." Suigetsu: "No tocar al gato. Nunca." Tsunade: "Uno menos." Akatsuki se terminó en una mañana. Pero queda la Estatua con 7 bijū: "Si alguien la encuentra antes que nosotros, todo esto vuelve a empezar." Facundo puede actuar.

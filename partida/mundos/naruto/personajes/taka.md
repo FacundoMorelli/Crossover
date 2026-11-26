@@ -25,3 +25,4 @@ ESTADO: en Konoha, carpa de mando (T1386).
 - T1387 · Suigetsu se atraganta: "¡¿KISAME?!"
 - T1394 · Suigetsu (pinchaba la mejilla de Kisame): "¡¿Y eso qué es?!" Karin: "La mitad del de la pared. La que se reía."
 - T1395 · Suigetsu: "El Ocho Colas no lo tienen. El de la máscara nos lo dijo hace unos días: lo que nos llevamos de la montaña de la Nube no era el Ocho Colas. Era un tentáculo." "Esos tres de la Nube... andan buscando venganza por un secuestro que no pasó." "Escondido en algún lado, haciendo rimas, seguramente."
+- T1396 · Suigetsu: "Anotado. No tocar al gato. Nunca. Por nada del mundo." Karin: "Nunca lo tocaste." Suigetsu: "Por eso sigo vivo." Jūgo mira a Kase con respeto.

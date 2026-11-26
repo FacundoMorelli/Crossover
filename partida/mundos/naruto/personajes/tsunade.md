@@ -65,3 +65,5 @@ QUÉ SABE (T1387): por Facundo, va a interrogar y matar a uno de los Akatsuki re
 - T1394 · "Cinco. ¿Y la otra mitad?" Ordena silencio a todos y que Ibiki siga sellando. "Habla."
 - T1395 · Oye lo de Zetsu: "El Nueve Colas. Naruto." Al oír a Suigetsu: "Killer Bee está vivo. Y libre." "Siete bestias con cola metidas en una estatua... nadie sabe dónde está. ¿Es así?" "Y la otra mitad, Facundo. Todavía no me dijiste qué pasó con ella."
 QUÉ SABE (T1395): por Facundo, el plan del Ojo de la Luna y la Estatua con 7 bijū. Por Suigetsu: Killer Bee escapó (tentáculo).
+- T1396 · "Bien. Uno menos." "Akatsuki... se terminó en una mañana. En la carpa de una mujer que se despertó del coma a las ocho." "Pero queda la Estatua... Si alguien la encuentra antes que nosotros, todo esto vuelve a empezar."
+QUÉ SABE (T1396): por Facundo, mató a la mitad negra de Zetsu porque intentó meterse en su gato.
