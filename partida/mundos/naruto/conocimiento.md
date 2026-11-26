@@ -104,3 +104,5 @@
 - Sasuke, Suigetsu, Karin, Jūgo · T1369 · por Facundo: podría revivir a Itachi y a los Uchiha asesinados, no ahora pero sí más adelante.
 - Sasuke, Taka · T1370 · por Facundo: va a llevar a Obito a Konoha; Akatsuki está acabado salvo Zetsu ("el mitad y mitad"), al que va a buscar; no quiere nada a cambio.
 - Tsunade · T1371 · vio a Facundo aparecer en su carpa con Sasuke Uchiha y un Akatsuki inconsciente (cara cicatrizada) al hombro. No sabe quién es el inconsciente.
+- Tsunade · T1372 · por Facundo: el inconsciente es el hombre detrás de Akatsuki, el que se hacía llamar Madara. Por examen médico: tiene células del Primero en medio cuerpo.
+- Tsunade · T1372 · por Sasuke: Homura y Koharu (con Danzō) dieron la orden de la masacre Uchiha; Sasuke quiere que se lo digan a la cara.

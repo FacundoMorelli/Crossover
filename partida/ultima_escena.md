@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1369)
-
-Podria hacerlo, no ahora, pero podria
-
-## RESPUESTA 1 (T1369)
-
-> Podria hacerlo, no ahora, pero podria
-
-> —Podría hacerlo. No ahora. Pero podría.
-
-Sasuke no se mueve.
-
-Durante un rato largo, nadie en la cueva dice nada. Suigetsu deja de respirar por la boca. Karin se agarra el borde de los anteojos con los dedos, como si tuviera miedo de que se le cayeran. Jūgo levanta la cabeza.
-
-Sasuke te mira, fijo, con las aspas quietas. Busca algo en tu cara. La mentira, el truco, el precio escondido. Lo mismo que buscaba Danzō esta mañana, lo mismo que buscaba Tsunade. No lo encuentra.
-
-—No ahora —repite.
-
-—Pero podría —murmura Karin, casi sin voz.
-
-Sasuke baja la vista. Se queda mirando sus propias manos: la sana, cerrada en un puño, y la lastimada, que todavía le tiembla. Las mismas manos con las que hace un rato quería matar a alguien que ni siquiera conocía.
-
-—Itachi... —empieza, y no termina.
-
-Se le endurece la mandíbula. Cuando vuelve a levantar la cara, ya no tiene la expresión de un chico perdido. Tiene la de alguien que acaba de hacer una cuenta muy rápida y no le gusta el resultado, pero lo acepta.
-
-—Nadie da algo así gratis. Nadie. —Las aspas empiezan a girar otra vez, despacio—. Ni siquiera tú, por más viajero que digas que eres.
-
-Da un paso hacia ti.
-
-—Dime qué quieres a cambio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1369 · NARUTO · DÍA 1 · 12:56          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a Tobi                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1370)
+## COMANDO 1 (T1370)
 
 Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
 
-## RESPUESTA 2 (T1370)
+## RESPUESTA 1 (T1370)
 
 > Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
 
@@ -103,11 +54,11 @@ Suigetsu se lleva las manos a la cabeza. Karin suelta el aire que tenía guardad
 
 ---
 
-## COMANDO 3 (T1371)
+## COMANDO 2 (T1371)
 
 esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
 
-## RESPUESTA 3 (T1371)
+## RESPUESTA 2 (T1371)
 
 > esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
 
@@ -162,4 +113,61 @@ Tsunade no grita. No se levanta. Se queda mirándolos a los tres, uno por uno, m
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:00, carpa de la colina. Taka (Suigetsu, Karin, Jūgo) se quedó en la cueva del norte. Facundo se teletransportó con Obito al hombro, Sasuke y Kase hasta Tsunade, sola, escribiendo la carta al Señor Feudal (sake al lado). Se le cae el pincel. Sasuke rígido, mano cerca de la espada. Tsunade: "Facundo. Dime que no me trajiste a la carpa a quien creo que me trajiste." Facundo tiene que contestar.
+## COMANDO 3 (T1372)
+
+bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
+
+## RESPUESTA 3 (T1372)
+
+> bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
+
+> —Bueno, este es Sasuke, como te habrás dado cuenta. Y este es el hombre detrás de Akatsuki. El que se hacía llamar Madara.
+
+Tsunade se queda inmóvil.
+
+Después se levanta, muy despacio, apoyando una mano en la mesa. La botella de sake se tambalea y no se cae. Rodea la mesa y se acerca a ti, sin sacarle los ojos al hombre que llevas al hombro.
+
+Le levanta la cara con dos dedos, por el mentón. Le mira las cicatrices de la mitad derecha, el ojo izquierdo cerrado y hundido, el Sharingan entreabierto del derecho. Le pasa la otra mano por encima del pecho, sin tocarlo, con las palmas encendidas de verde.
+
+—Vivo. Inconsciente. —Habla para sí, como médica—. Hombro atravesado por un rayo. La mitad del cuerpo... —Frunce el ceño—. La mitad del cuerpo no es suya. Son células como las de... —Se le corta la voz—. Como las de mi abuelo.
+
+Retira la mano.
+
+—Esto no es Madara Uchiha. Madara tendría casi cien años. —Vuelve a mirarle la cara—. ¿Quién es?
+
+Pero no espera la respuesta. Se da vuelta hacia Sasuke.
+
+Lo mira de arriba abajo. La capa de Orochimaru, las vendas, la muñeca lastimada contra el pecho, la máscara naranja en el cinturón. Sasuke le sostiene la mirada sin pestañear.
+
+—Sasuke Uchiha. —Tsunade se cruza de brazos—. Hace tres años te fuiste de esta aldea con el Sonido. Desde entonces mataste a Orochimaru, atacaste a la Hierba y a la Nube, y te juntaste con Akatsuki. Hace una hora tenía a tres ninjas de Kumo en mi campamento pidiéndome tu cabeza.
+
+Se le endurece la cara.
+
+—¿A qué viniste?
+
+Sasuke no baja la vista.
+
+—A ver a Homura y a Koharu —dice—. Los dos viejos del consejo. Los que dieron la orden con Danzō.
+
+La voz le sale fría y quieta, sin ninguna emoción, como si fuera la décima vez que lo dice en su cabeza.
+
+—Quiero que me digan a la cara por qué mataron a mi clan.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1372 · NARUTO · DÍA 1 · 13:01          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Llevar a Obito a Konoha            ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:01, carpa de la colina. Facundo presentó a Sasuke y al "hombre detrás de Akatsuki, el que se hacía llamar Madara". Tsunade lo revisa: vivo, hombro atravesado, la mitad del cuerpo con células como las de su abuelo; "Esto no es Madara. ¿Quién es?" (no espera). A Sasuke: "¿A qué viniste?" Sasuke: "A ver a Homura y a Koharu... Quiero que me digan a la cara por qué mataron a mi clan." Facundo puede actuar.
