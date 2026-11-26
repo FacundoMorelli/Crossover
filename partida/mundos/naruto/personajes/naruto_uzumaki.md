@@ -31,3 +31,4 @@ RELACIÓN CON FACUNDO (T1352): confianza; le abrió su historia.
 QUÉ SABE DE FACUNDO (T1353): estuvo en un lugar con "titanes" (lo cree un país lejano; no sabe de otros mundos).
 - T1354 · Se identifica: "A mí me decían monstruo... El monstruo del zorro." Recuerda a Nagato: el odio es una cadena. "El Sabio Pervertido decía que algún día alguien la iba a cortar." "¡¿Cómo lo hicieron?! ¡¿Cómo se corta una cosa así?! ¡Porque yo le prometí a Nagato que la iba a cortar!"
 QUÉ SABE DE FACUNDO (T1354): en el lugar de los titanes, la gente con la que estaba vivía aislada y los de afuera los llamaban demonios y querían matarlos; ahora está todo bien.
+- T1355 · "Igual me vas a ayudar. Entonces es una promesa. Y yo nunca rompo mis promesas." Le tiende el puño. Llegan los de Kumo preguntando por él y por Sasuke; se le borra la sonrisa.
