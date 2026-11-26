@@ -170,3 +170,5 @@
 - TODA LA CALLE · T1412 · ve a Jiraiya vivo y a Tsunade pegarle y abrazarlo llorando. Aplausos.
 - Jiraiya · T1413 · por Facundo: saludo; Jiraiya le pide su historia para escribir.
 - Minato, Jiraiya, Kakashi, Fugaku, Homura, Koharu · T1415 · por Tsunade: Danzō, Homura y Koharu serán juzgados; también se dirá el plan de golpe de Fugaku.
+- Tsunade, Minato, Jiraiya, Kakashi, Fugaku, Homura, Koharu · T1416 · por Facundo: se quedará unos días en Konoha, se irá y volverá algún día.
+- Minato, Jiraiya, Fugaku, Homura, Koharu · T1416 · por Kakashi (ante Tsunade): el enmascarado del ataque del Nueve Colas es Obito Uchiha, prisionero.

@@ -10,3 +10,5 @@ QUÉ SABEN DE FACUNDO: por la voz de Alba, quien los revivió tiene un gato; lo 
 - T1412 · Minato: "Jiraiya-sensei." Jiraiya los abraza a los dos con Naruto.
 - T1414 · Kushina, manos en la cintura: "Son pervertidos." Minato se ríe (igual a Naruto).
 - T1415 · Minato en la Torre: se detiene frente a su retrato. Junto al ventanal: "Tsunade-sama tiene razón. Si vamos a empezar de nuevo, empezamos con la verdad. Toda."
+- T1416 · Minato: "Cuando vuelvas, esta aldea va a seguir aquí. Te lo prometo." Al saber que tienen al enmascarado: "¿Lo atraparon? ¿Quién es?" Kakashi: "Es Obito." "¿Obito? ¿Mi... Obito?" A Facundo: "¿Es verdad?"
+QUÉ SABE (T1416): por Kakashi, el enmascarado del ataque del Kyūbi es Obito.

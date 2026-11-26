@@ -1414,3 +1414,4 @@ T1412 · NARUTO · Konoha · Llega Jiraiya: abraza a Naruto, Minato y Kushina. T
 T1413 · NARUTO · Konoha · "Mucho gusto, Jiraiya." Jiraiya: "Gracias, muchacho. De verdad." Le tiende la mano. "¿Me contarías tu historia?" (para un libro)
 T1414 · NARUTO · Konoha · "Tus libros son todos pervertidos." Jiraiya: "¡Son arte!" Kakashi: "Son literatura." Tsunade convoca a la Torre: Minato, Jiraiya, Fugaku, Kakashi, Homura, Koharu y Facundo.
 T1415 · NARUTO · Torre del Hokage · Reunión: Fugaku exige juicio a Homura, Koharu y Danzō; Tsunade acepta, y el golpe también se dirá. Minato: "empezamos con la verdad." Tsunade a Facundo: "¿Te vas a quedar en Konoha?"
+T1416 · NARUTO · Torre · "Me quedo unos días, después me voy y vuelvo." Minato: "Esta aldea va a seguir aquí." Tsunade: el enmascarado del Nueve Colas está preso. Kakashi: "Es Obito, sensei." Minato a Facundo: "¿Es verdad?"

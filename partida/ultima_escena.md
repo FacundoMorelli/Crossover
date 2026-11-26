@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1413)
-
-mucho gusto jiraiya
-
-## RESPUESTA 1 (T1413)
-
-> mucho gusto jiraiya
-
-> —Mucho gusto, Jiraiya.
-
-Jiraiya parpadea.
-
-—¿Sabes mi nombre? —Se le dibuja una sonrisa enorme, a pesar de la nariz sangrando—. ¡Claro que sabes mi nombre! ¡El gran Jiraiya, el Sabio de los Sapos, autor de la exitosa saga Icha Icha, el hombre que...!
-
-Tsunade le pega un codazo en las costillas sin soltarlo del cuello. Jiraiya se dobla con un quejido.
-
-—...el hombre que se calla —termina, sin aire.
-
-Tsunade lo suelta por fin. Se seca la cara con la manga, rápido, de espaldas a la gente, y cuando se da vuelta ya tiene otra vez la cara de Hokage, aunque con los ojos rojos.
-
-Jiraiya se endereza, se limpia la sangre de la nariz con el dorso de la mano y se acerca a ti. Es enorme. Te mira de arriba abajo, despacio: el pelo blanco y azul, los ojos de dos colores, la cicatriz, los tatuajes de dragón del cuello. Después mira a Kase. Kase lo mira a él, y bosteza.
-
-—Cuando abrí los ojos, en mi casa, en mi propia cama, una voz me dijo que el que me trajo de vuelta tenía un gato —dice. Ya no sonríe del todo—. Y lo último que recuerdo antes de eso es el fondo de un lago en el País de la Lluvia, con seis varillas negras clavadas en el cuerpo.
-
-Se queda callado un momento.
-
-—Así que gracias, muchacho. De verdad.
-
-Te tiende la mano. Es grande, áspera, con callos de toda una vida de sellos.
-
-Y antes de que puedas hacer nada, se inclina hacia ti y baja la voz, con un brillo en los ojos que no tiene nada de solemne.
-
-—Y ahora dime una cosa. Un muchacho que aparece de la nada, con un gato, con ese pelo y esos ojos, que trae a los muertos de vuelta con un dragón gigante... —Se le escapa una sonrisa—. ¿Tienes idea de cuántos libros se pueden escribir con eso? ¿Me contarías tu historia?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1413 · NARUTO · DÍA 1 · 15:35          ║
-║ Konoha · calle frente a la Torre del Hokage  ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 83% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1414)
+## COMANDO 1 (T1414)
 
 eh no, tus libros son todos pervertidos
 
-## RESPUESTA 2 (T1414)
+## RESPUESTA 1 (T1414)
 
 > eh no, tus libros son todos pervertidos
 
@@ -113,11 +62,11 @@ Se pasa una mano por la cara.
 
 ---
 
-## COMANDO 3 (T1415)
+## COMANDO 2 (T1415)
 
 esta bien
 
-## RESPUESTA 3 (T1415)
+## RESPUESTA 2 (T1415)
 
 > esta bien
 
@@ -182,4 +131,71 @@ Tsunade suspira, larguísimo. Después gira la cabeza hacia ti.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:46, despacho de la Torre del Hokage (reconstruido). Presentes: Tsunade (sillón), Minato (ventanal), Jiraiya (pared, pañuelo en la nariz), Kakashi (puerta), Fugaku (centro), Homura y Koharu (sillas, traídos por ANBU), Facundo; Kase echado en el escritorio al sol. Fugaku exige juicio a los viejos y a Danzō ante el clan y la aldea; Tsunade: los tres serán juzgados, y el golpe de Fugaku también se dirá en voz alta. Minato: "empezamos con la verdad. Toda." Tsunade a Facundo: "¿Te vas a quedar en Konoha? ¿O un día de estos vas a desaparecer igual que apareciste?" Facundo tiene que contestar.
+## COMANDO 3 (T1416)
+
+me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
+
+## RESPUESTA 3 (T1416)
+
+> me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
+
+> —Me voy a quedar en Konoha unos días. Después me voy a ir, y voy a volver en algún momento.
+
+Tsunade se queda mirándote. Después suelta el aire por la nariz, una risa corta, sin ganas.
+
+—Unos días. —Se echa hacia atrás en el sillón—. En un día hiciste lo que la aldea no pudo hacer en dieciséis años. No me quiero imaginar lo que vas a hacer en unos días.
+
+—Un viajero de verdad —dice Jiraiya, desde la pared, con el pañuelo todavía contra la nariz—. Va y vuelve. Como debe ser. —Te guiña un ojo—. Te lo dice un experto.
+
+—Tú ibas y no volvías —le dice Tsunade, sin mirarlo.
+
+Jiraiya cierra la boca.
+
+Minato, junto al ventanal, te mira un momento. Después inclina la cabeza, apenas, con respeto.
+
+—Cuando vuelvas, esta aldea va a seguir aquí —dice—. Te lo prometo.
+
+Tsunade asiente. Se endereza en el sillón y apoya las dos manos sobre el escritorio, al lado de Kase, que no se mueve.
+
+—Bien. Entonces, mientras estás, hablemos de lo que no puede esperar. —Mira a todos—. Tenemos tres prisioneros. Kisame Hoshigaki, de Akatsuki. Una mitad de la cosa que se llamaba Zetsu. Y el que dirigía todo.
+
+Hace una pausa. Mira a Minato.
+
+—Minato. Esto lo tienes que oír tú. El enmascarado que atacó la aldea hace dieciséis años, el que sacó al Nueve Colas de Kushina y te mató... —Tsunade se queda callada un segundo—. Lo tenemos. Está dormido en una carpa, con el ojo sellado.
+
+Minato se queda completamente quieto. Se le endurece la cara, por primera vez desde que lo viste.
+
+—¿Lo atraparon? —Le sale la voz baja, controlada—. ¿Quién es?
+
+Tsunade no contesta.
+
+Kakashi, desde la puerta, se despega del marco. Da un paso adentro del despacho. Se baja la máscara de la cara, despacio, con dos dedos, como si le pesara. Y mira a su maestro.
+
+—Es Obito, sensei.
+
+Minato no se mueve. Pasa un segundo. Dos.
+
+—¿Obito? —Le sale apenas, en un hilo—. ¿Mi... Obito?
+
+Gira la cabeza hacia ti. Hacia el único en la sala que no es de Konoha, el que sabe cosas que nadie más sabe. En los ojos azules no hay rabia. Hay algo mucho peor.
+
+—¿Es verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1416 · NARUTO · DÍA 1 · 15:49          ║
+║ Konoha · Torre del Hokage · despacho         ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 83% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el escritorio, al sol               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión en la Torre del Hokage     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:49, despacho de la Torre. Facundo: se queda unos días, después se va y volverá. Tsunade: "No me quiero imaginar lo que vas a hacer en unos días." Jiraiya: "Un viajero de verdad." Minato: "Cuando vuelvas, esta aldea va a seguir aquí." Tsunade: tres prisioneros (Kisame, Zetsu blanco y el que dirigía todo). A Minato: el enmascarado del ataque del Nueve Colas lo tienen. Kakashi se baja la máscara: "Es Obito, sensei." Minato: "¿Obito? ¿Mi... Obito?" A Facundo: "¿Es verdad?" Facundo tiene que contestar.
