@@ -18,3 +18,5 @@ RELACIÓN CON FACUNDO: odio (le quitó la venganza).
 - T1362 · Su Chidori atraviesa a Tobi (Facundo cambió de lugar con él). Corta el rayo. Mira el hombro de Tobi y su propia mano.
 PODER VISTO POR FACUNDO: Chidori (lanza), Mangekyō. MISIÓN DE COPIA (T1362): que vuelva a Konoha por su propia voluntad (ALTA).
 - T1363 · Mira a Tobi con una pregunta (no con rabia) cuando Facundo dice que su Sharingan se parece a otro.
+- T1364 · "¿Kakashi? ¿El ojo de Kakashi?" "Tú me dijiste que eras Madara Uchiha." Tobi lo agarra de la muñeca y empieza a tragarlo con Kamui: "¡Suelta! ¡Responde! ¡¿Quién eres?!"
+QUÉ SABE (T1364): por Facundo, el Sharingan de Tobi es el mismo que el de Kakashi. Duda de que Tobi sea Madara.

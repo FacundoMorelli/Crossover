@@ -95,3 +95,4 @@
 - Tobi, Zetsu, Taka · T1361 · por Facundo: él arrestó a Danzō.
 - Tobi, Zetsu, Taka · T1362 · vieron a Facundo cambiar de lugar con Tobi con una palmada (Boogie Woogie; lo creen una técnica espacio-temporal desconocida). Vieron a Tobi herido por el Chidori de Sasuke.
 - Tobi, Taka · T1363 · por Facundo: el Sharingan de Tobi "se parece mucho a otro que conoció". Tobi lo toma como amenaza a su identidad. Sasuke empieza a preguntarse.
+- Tobi, Sasuke, Suigetsu, Karin, Jūgo · T1364 · por Facundo: el Sharingan del ojo derecho de Tobi "es el mismo" que el del ojo izquierdo de Kakashi; la máscara solo tiene el agujero del ojo derecho. Sasuke duda de que Tobi sea Madara. (Facundo lo sabe por conocimiento del jugador; nadie investiga cómo.)

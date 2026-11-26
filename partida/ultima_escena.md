@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1361)
-
-eh, yo quien mas?
-
-## RESPUESTA 1 (T1361)
-
-> eh, yo quien mas?
-
-> —Eh... yo. ¿Quién más?
-
-Suigetsu es el único que se ríe. Dura poco.
-
-—¿Tú? —Se le corta la risa a la mitad, porque mira a los demás y nadie más se ríe—. ...¿En serio?
-
-El enmascarado no dice nada durante un rato largo. El ojo rojo detrás de la espiral te recorre de arriba abajo, despacio, una vez, dos, como si buscara algo que se le escapa. Después baja la mano con la que frenaba a Sasuke.
-
-—Ya veo —dice, muy bajo—. Así que fuiste tú.
-
-Da un paso atrás. Solo uno. Pero lo da.
-
-Sasuke no.
-
-—Me lo quitaste.
-
-Lo dice tan bajo que casi no se oye. Le tiembla la mano derecha. El chakra eléctrico se le junta en la palma con un chirrido agudo, como mil pájaros gritando a la vez, y la cueva se ilumina de azul. Las sombras de todos saltan contra las paredes.
-
-—¡Sasuke! —grita la chica de anteojos—. ¡No sabes qué es! ¡No le siento nada, no sabes qué...!
-
-—Me quitaste lo único que me quedaba.
-
-Las aspas de los ojos de Sasuke dejan de girar. Se le cae una lágrima de sangre del ojo izquierdo y le corre por la mejilla.
-
-—Chidori.
-
-El rayo se le estira desde la palma como una lanza, fino, blanco, crepitante, y atraviesa la cueva en línea recta hacia tu pecho, más rápido que el sonido de su propia voz.
-
-Detrás de Sasuke, el enmascarado se queda mirando. No hace nada para detenerlo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1361 · NARUTO · DÍA 1 · 12:49          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1362)
+## COMANDO 1 (T1362)
 
 uso bogey y intercambio a tobi conmigo
 
-## RESPUESTA 2 (T1362)
+## RESPUESTA 1 (T1362)
 
 > uso bogey y intercambio a tobi conmigo
 
@@ -133,11 +78,11 @@ La espiral de la máscara empieza a girar sola. El aire alrededor de su cara se 
 
 ---
 
-## COMANDO 3 (T1363)
+## COMANDO 2 (T1363)
 
 interesante, ese sharingan se parece mucho a otro que conoci
 
-## RESPUESTA 3 (T1363)
+## RESPUESTA 2 (T1363)
 
 > interesante, ese sharingan se parece mucho a otro que conoci
 
@@ -188,4 +133,65 @@ El aire alrededor de tu cuerpo empieza a torcerse. Lo sientes en la piel: un tir
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:50, cueva de Akatsuki. Facundo: "Ese Sharingan se parece mucho a otro que conocí." Tobi se frena; voz sin tono: "Hay muchos Sharingan en el mundo... Sería raro que no se parecieran." Sasuke lo mira con una pregunta. Tobi manda a Zetsu (se hunde en la pared). Usa Kamui sobre Facundo: el espacio se tuerce alrededor de su cuerpo para tragarlo. "Algunas cosas es mejor que no las sepa nadie." Kase erizado. Facundo tiene que reaccionar.
+## COMANDO 3 (T1364)
+
+aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
+
+## RESPUESTA 3 (T1364)
+
+> aparezco atras de tobi, como que ese sharingan que tienes en el ojo derecho es el mismo que tiene kakashi en el ojo izquierdo? y que de pura casualidad tu mascara solo tiene un ojo derecho?
+
+El remolino se cierra sobre el lugar donde estabas.
+
+Se traga una piedra suelta, un poco de polvo, el aire. Nada más.
+
+Tú ya estás detrás de él. Tan cerca que podrías tocarle la capa agujereada con la nariz.
+
+> —¿Cómo es eso de que el Sharingan que tienes en el ojo derecho es el mismo que tiene Kakashi en el ojo izquierdo? ¿Y que, de pura casualidad, tu máscara tenga solo el agujero del ojo derecho?
+
+El enmascarado no se da vuelta.
+
+Se queda completamente quieto, de espaldas a ti, con la mano todavía apretada sobre el hombro herido. La espiral de la máscara deja de girar de golpe.
+
+Nadie en la cueva respira.
+
+Suigetsu tiene la boca abierta y no le sale nada. Karin mira al enmascarado, después a ti, después a Sasuke, con los ojos enormes detrás de los anteojos. Jūgo frunce el ceño, despacio, como si tratara de entender una cuenta.
+
+Sasuke es el que reacciona.
+
+—¿Kakashi? —Las aspas de sus ojos se detienen, fijas, sobre la máscara naranja—. ¿El ojo de Kakashi?
+
+Da un paso hacia el enmascarado.
+
+—Tú me dijiste que eras Madara Uchiha.
+
+El enmascarado sigue sin darse vuelta. Cuando por fin habla, lo hace muy bajo, y no a Sasuke. A ti, por encima del hombro, sin mirarte.
+
+—Hablas demasiado, viajero.
+
+Su mano derecha suelta el hombro herido y se cierra, rápida como una víbora, sobre la muñeca de Sasuke.
+
+La espiral de la máscara vuelve a girar, esta vez sobre sí misma. El cuerpo del enmascarado empieza a retorcerse hacia el agujero del ojo, y el brazo de Sasuke con él: la mano, la muñeca, el codo, tragados hacia un remolino que se cierra sobre los dos.
+
+—¡Suelta! —Sasuke intenta zafarse y el brazo se le sigue deformando hacia la espiral—. ¡Responde! ¡¿Quién eres?!
+
+—¡Sasuke! —grita Karin, corriendo hacia él.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1364 · NARUTO · DÍA 1 · 12:50          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:50, cueva de Akatsuki. Facundo esquivó el Kamui apareciendo detrás de Tobi y le dijo que su Sharingan derecho es el mismo que el izquierdo de Kakashi, y que su máscara solo tiene el agujero derecho. Tobi quieto. Sasuke: "¿El ojo de Kakashi? Tú me dijiste que eras Madara Uchiha." Tobi: "Hablas demasiado, viajero." Agarra la muñeca de Sasuke y empieza a llevárselo con Kamui (el brazo de Sasuke se deforma hacia la espiral). Sasuke: "¡Suelta! ¡¿Quién eres?!" Karin corre hacia él. Facundo puede actuar.

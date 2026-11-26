@@ -21,3 +21,5 @@ ESTADO: herido (hombro izquierdo atravesado) (T1362).
 RELACIÓN CON FACUNDO: enemigo; lo considera una amenaza grave.
 - T1363 · Facundo insinúa que su Sharingan se parece a otro. Se frena; voz sin tono: "Hay muchos Sharingan en el mundo, viajero. Algunos están en las caras de los vivos. Otros, en frascos. Otros, por lo que dices, en el brazo de un viejo. Sería raro que no se parecieran." "Zetsu." Usa Kamui para tragar a Facundo: "Algunas cosas es mejor que no las sepa nadie."
 PODER VISTO POR FACUNDO (T1363): Kamui (absorción espacio-tiempo), intangibilidad parcial (T1362).
+- T1364 · Su Kamui no atrapa a Facundo (teletransporte detrás de él). Facundo le dice que su Sharingan derecho es el mismo que el izquierdo de Kakashi y que la máscara solo tiene el agujero derecho. Quieto, sin darse vuelta. "Hablas demasiado, viajero." Agarra la muñeca de Sasuke y empieza a llevárselo con Kamui.
+QUÉ SABE DE FACUNDO (T1364): Facundo sabe (o sospecha) lo de su ojo y Kakashi. Amenaza máxima.

@@ -28,3 +28,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1356 · Día 1 12:44 · (canon) Karui golpea a Naruto en Ichiraku porque no da información de Sasuke. Samui la frena.
 - T1362 · Tobi herido (hombro atravesado por el Chidori de Sasuke) por un cambio de lugar de Facundo. Primera vez que alguien hiere a Tobi desde Minato.
 - T1363 · Zetsu sale de la cueva por orden de Tobi (destino desconocido).
+- T1364 · Sasuke y Taka oyen que el ojo de Tobi es el mismo que el de Kakashi: Sasuke duda de "Madara". Tobi intenta llevarse a Sasuke con Kamui.
