@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1346)
-
-dejo inconsciente a danzo y al tapir
-
-## RESPUESTA 1 (T1346)
-
-> dejo inconsciente a danzo y al tapir
-
-Das un paso adelante, contra el viento.
-
-Para los que miran, desapareces. El viento sigue soplando hacia el hocico de Baku, pero tú ya no estás donde estabas: estás frente a la cara del tapir, en el aire, con la mano abierta a la altura de su frente arrugada, entre los dos ojitos viejos.
-
-Le das con la palma. Una sola vez.
-
-Suena como un tambor gigante. La cabeza del tapir se va hacia atrás, los ojitos se le ponen en blanco y la succión se corta de golpe, como si alguien hubiera cerrado una canilla. Todo lo que volaba hacia su boca cae al suelo a la vez: lonas, tablas, piedras. Baku se tambalea, abre el hocico y tose. Por la boca le salen, empapados de baba, los tres de Raíz que se había tragado, uno detrás del otro. Ruedan por el suelo. Respiran.
-
-El tapir se derrumba de costado, levantando una nube de polvo.
-
-Fū queda tirado a medio metro del hocico, boca abajo, entero.
-
-Danzō ya saltó.
-
-Está en el aire, sobre el borde del cráter, cayendo de espaldas hacia los escombros del fondo, con el bastón en la mano y los diez Sharingan del brazo abiertos. Te ve venir. Los diez ojos te ven venir. No le sirve de nada.
-
-Apareces detrás de él, en el aire, y le das un golpe seco con el canto de la mano en la nuca.
-
-El ojo visible se le apaga. El bastón se le escapa de los dedos y cae girando hacia el fondo del cráter. Los diez Sharingan se cierran todos a la vez, como diez puertas.
-
-Lo agarras del cuello del kimono antes de que caiga y subes con él de un salto hasta el borde. Lo dejas en el suelo, de espaldas, con el brazo blanco extendido sobre la tierra.
-
-Detrás de ti, Baku desaparece en una nube de humo blanco, de vuelta a donde sea que viven los tapires.
-
-[Derrotados: Danzō Shimura, Baku.]
-
-[+175 Fragmentos. +1.500 EXP.]
-
-Cuando el polvo baja, el lado oeste del cráter está en silencio. Lonas grises tiradas por todos lados. Treinta y dos de Raíz desmayados, tres de ellos llenos de baba. Gai con los pies todavía hundidos en la tierra hasta los tobillos. Yamato deshaciendo las raíces que sostenían a Tsunade y a Ibiki. Kakashi soltando la viga, despacio.
-
-Kase se suelta de tu sobretodo, se te sube al cuello, se sacude el pelo revuelto y se lame una pata, ofendido con el mundo.
-
-Tsunade camina hasta donde está Danzō. Se agacha. Le mira el brazo de los diez ojos, de cerca, sin tocarlo. Le mira la cara del Primero en el hombro. Se le aprieta la mandíbula.
-
-—Ibiki. Llévatelo. Sellos de supresión de chakra en todo el cuerpo, y una venda en cada uno de esos ojos. Que nadie de Raíz se le acerque a menos de cien metros. —Se pone de pie—. Kakashi, que los ANBU recojan a todos estos y los pongan bajo guardia. Vivos.
-
-—Sí, Hokage-sama.
-
-Después se da vuelta hacia ti. Te mira de arriba abajo: el sobretodo lleno de agujeros, el pelo revuelto, el gato ofendido en el cuello.
-
-—Esta mañana te pregunté para qué servías —dice—. Retiro la pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1346 · NARUTO · DÍA 1 · 11:24          ║
-║ Konoha · lado oeste · borde del cráter       ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1347)
+## COMANDO 1 (T1347)
 
 gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
 
-## RESPUESTA 2 (T1347)
+## RESPUESTA 1 (T1347)
 
 > gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
 
@@ -134,11 +67,11 @@ Frena de golpe frente a Tsunade, levantando una nube de tierra, y se le queda mi
 
 ---
 
-## COMANDO 3 (T1348)
+## COMANDO 2 (T1348)
 
 asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1348)
+## RESPUESTA 2 (T1348)
 
 > asi que tu eres naruto, mucho gusto me llamo Facundo Morelli
 
@@ -201,4 +134,65 @@ Naruto resopla, baja la mano y se vuelve hacia ti, con los puños apretados y lo
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:29, borde oeste del cráter. Facundo se presentó a Naruto. Tsunade le contó que Facundo la despertó, curó a 43 y atrapó a Danzō. Naruto lo abrazó ("¡Es nuestra vieja gritona!"). Kase lo ignoró. Naruto: "¿Es verdad que tumbaste a todo Raíz sin moverte? ¿Y que le ganaste al cejotas de un solo golpe? ¡¿Cómo lo hiciste?!" Facundo tiene que contestar.
+## COMANDO 3 (T1349)
+
+con mi fuerza
+
+## RESPUESTA 3 (T1349)
+
+> con mi fuerza
+
+> —Con mi fuerza.
+
+Naruto parpadea.
+
+—¿Con tu fuerza? —Se rasca la cabeza—. ¡Eso no es una respuesta! ¡Todos usan su fuerza! ¡Yo también uso mi fuerza!
+
+—Naruto —dice Kakashi, sin dejar de cargar a un desmayado de Raíz—, a veces la respuesta más corta es la correcta.
+
+—¡Kakashi-sensei, no me ayudes!
+
+Naruto se cruza de brazos, frunce la nariz y te mira de arriba abajo como si quisiera encontrarte el truco escondido en algún bolsillo del sobretodo. No encuentra nada. Se le iluminan los ojos otra vez.
+
+—¡Entonces pelea conmigo! —Te apunta con el dedo—. ¡Aprendí el Modo Sabio! ¡Le gané a seis Pain! ¡Si peleamos, voy a ver cómo es tu fuerza con mis propios ojos! ¡De veras!
+
+—Primero yo —dice Tsunade.
+
+Naruto se da vuelta.
+
+—¿Eh?
+
+—Esta mañana le dije que me iba a mostrar qué tan bien pelea. Yo misma. —Tsunade se trona los nudillos de una mano, uno por uno—. Así que haz fila, mocoso.
+
+—¡Abuela, acabas de despertar de un coma!
+
+—Y me siento como si tuviera veinte años. —Te mira de reojo, con algo que casi parece una sonrisa de verdad—. Pero no hoy. Hoy tengo que escribirle una carta muy larga al Señor Feudal, sacar a Raíz del campamento y decidir quién va a ir a esa Cumbre ahora que Danzō no va a ir a ningún lado.
+
+Se acomoda el abrigo de Hokage.
+
+—Naruto, quédate con él. Muéstrale la aldea, o lo que queda. Si tiene hambre, llévalo a comer. —Se da vuelta para irse, y se detiene—. Y Facundo. Esta noche te quiero en la carpa de mando. Hay cosas que necesito preguntarte, y no delante de todo el campamento.
+
+Se va con Kakashi y los ANBU.
+
+Naruto se queda a tu lado, con las manos en la nuca. Te mira. Mira a Kase. Kase lo sigue ignorando.
+
+—Bueno —dice Naruto, y se le dibuja una sonrisa enorme—. ¿Tienes hambre? Porque yo me muero de hambre. Teuchi, el del Ichiraku, armó un puesto en una carpa al lado de la tarima. ¡Hace el mejor ramen del mundo, aunque no tenga techo!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1349 · NARUTO · DÍA 1 · 11:32          ║
+║ Konoha · lado oeste · borde del cráter       ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Carpa de mando esta noche          ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:32, borde oeste. "Con mi fuerza." Naruto quiere pelear con él; Tsunade: "Primero yo" (pero no hoy: carta al Señor Feudal, sacar a Raíz, decidir quién va a la Cumbre). Deja a Naruto con Facundo para mostrarle la aldea. Esta noche lo quiere en la carpa de mando (preguntas en privado). Se fue con Kakashi y los ANBU. Naruto lo invita al ramen de Teuchi (Ichiraku, carpa junto a la tarima). Facundo puede actuar.

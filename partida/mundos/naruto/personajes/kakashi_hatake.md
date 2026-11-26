@@ -37,3 +37,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1346 · Suelta la viga. Recibe la orden de que los ANBU custodien a Raíz. "Sí, Hokage-sama."
 - T1347 · "Es mi alumno. Por si alguien lo olvidaba."
 - T1348 · Asiente para confirmarle a Naruto. "Te está ignorando" (sobre Kase).
+- T1349 · "A veces la respuesta más corta es la correcta." Se va con Tsunade.
