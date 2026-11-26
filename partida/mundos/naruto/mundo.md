@@ -33,3 +33,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1430 · Cráter de diez metros en el campo de entrenamiento tres (Patada del Cielo de Tsunade); el río se desbordó.
 - T1431 · Campo tres: dos postes partidos, hueco circular en la ladera de enfrente del río.
 - T1435 · Naruto y Kurama dejan de ser enemigos (canon: mucho después, en la guerra). Naruto obtiene el Modo Chakra del Nueve Colas con ayuda de Kushina.
+- T1436 · Campo tres: tercer poste partido, zanjas y surcos en el pasto.

@@ -23,3 +23,4 @@ QUÉ SABE (T1417): por Facundo, Obito fue utilizado pero lo hizo él.
 - T1433 · Kushina: "¡Naruto, no lo provoques!" Minato: "Tranquila, Kushina. Es su forma de aprender."
 - T1434 · Kushina baja al centro del campo: "Porque lo usaste a la fuerza." "Yo lo tuve adentro antes que tú, Naruto. Veinte años. Y antes que yo, la abuela Mito. Lo tuve encadenado. Nunca le hablé." "Ese zorro tiene nombre. Nunca nadie se lo preguntó." Minato da un paso adelante, en silencio.
 - T1435 · Kushina se arrodilla detrás de Naruto y le apoya las manos en la espalda mientras él habla con Kurama; se tapa la boca al oír el nombre. Minato se tensa con el chakra rojo.
+- T1436 · Minato: "¡Kushina, al suelo!" (por el Rasenshuriken). Después suspira con una mano en el pecho. Kushina corre hacia Naruto.

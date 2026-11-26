@@ -1,13 +1,13 @@
 {
-  "turno": 1435,
+  "turno": 1436,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 5 (cinco días después de llegar; ~cap. 452 + 4 días, canon alterado)",
-  "hora": "Día 5, 06:34",
+  "hora": "Día 5, 06:40",
   "edad": 18,
   "nivel": 30,
-  "exp": 329530,
+  "exp": 330330,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 114099,
+  "fragmentos": 114174,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2192,6 +2192,14 @@
       "mundo": "naruto",
       "turno": 1431,
       "tipo": "duelo serio; palma contenida en Ultra Instinto (tres costillas rotas, se curó con Byakugō)",
+      "fragmentos": 75,
+      "exp": 800
+    },
+    {
+      "nombre": "Naruto Uzumaki",
+      "mundo": "naruto",
+      "turno": 1436,
+      "tipo": "duelo serio (Modo Chakra del Nueve Colas, Rasenshuriken); golpecito en la frente contenido",
       "fragmentos": 75,
       "exp": 800
     }
