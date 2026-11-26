@@ -1,13 +1,13 @@
 {
-  "turno": 1392,
+  "turno": 1393,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
   "hora": "Día 1, 13:51",
   "edad": 18,
   "nivel": 29,
-  "exp": 306230,
+  "exp": 306730,
   "exp_siguiente_nivel": 320000,
-  "fragmentos": 113499,
+  "fragmentos": 113524,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2155,6 +2155,14 @@
       "tipo": "inconsciente (golpe en la frente contra el árbol)",
       "fragmentos": 5,
       "exp": 50
+    },
+    {
+      "nombre": "Zetsu negro (voluntad de Kaguya)",
+      "mundo": "naruto",
+      "turno": 1393,
+      "tipo": "MUERTO: tragado por el Eclipse (punto negro)",
+      "fragmentos": 25,
+      "exp": 500
     }
   ],
   "viaje": {
@@ -2531,7 +2539,7 @@
     "danzo_naruto": "T1334: Danzō se enteró de que Tsunade despertó (reunión de las 09:30 con Homura y Koharu; fue sin que lo llamaran). Raíz ya le informó los rumores del forastero (brazos, semillas, Lee). Quiere evaluarlo y, si sirve, reclutarlo o eliminarlo. Su designación como Sexto queda en disputa: el Señor Feudal lo nombró porque la Hokage estaba incapacitada. T1338: Facundo preguntó por su brazo derecho: Danzō sabe ahora que el forastero sospecha o sabe algo del brazo; lo considera amenaza prioritaria. Raíz lo sigue (2 agentes, rotan). Danzō parte mañana (Día 2) al País del Hierro. T1346: Danzō inconsciente y arrestado por orden de Tsunade (sellos de supresión, vendas en los Sharingan, bajo Ibiki). No usó Izanagi (no murió). El ojo de Shisui sigue bajo la venda. Raíz entero bajo guardia de la Hokage.",
     "bee_naruto": "Killer Bee NO fue capturado: escapó dejando un tentáculo del Hachibi (canon). Kumo cree que sí. Tobi lo sabe.",
     "tobi_naruto": "T1365: Tobi (Obito) inconsciente en la cueva del norte, con la máscara puesta. Zetsu negro salió antes (T1363) y no vio la derrota (o la vio desde la pared: sin confirmar; motor: no la vio). Sasuke quiere sacarle la máscara.",
-    "zetsu_naruto": "Zetsu negro es la voluntad de Kaguya (canon). En T1363 Tobi lo mandó a averiguar sobre Facundo: se metió en un árbol del borde norte de Konoha a espiar el campamento. Vio, desde lejos, el movimiento en la carpa de mando y a Sasuke cruzar el campamento. T1391: Zetsu negro MIENTE: dice ser \"la voluntad de Madara\" (canon: es la voluntad de Kaguya Ōtsutsuki, su hija/creación). Dice la verdad sobre el Ojo de la Luna, la Estatua (Gedō Mazō) con 7 bijū y que solo él sabe dónde está ahora. Intenta tentar a Facundo para que despierte al Diez Colas (y así liberar a Kaguya)."
+    "zetsu_naruto": "Zetsu negro es la voluntad de Kaguya (canon). En T1363 Tobi lo mandó a averiguar sobre Facundo: se metió en un árbol del borde norte de Konoha a espiar el campamento. Vio, desde lejos, el movimiento en la carpa de mando y a Sasuke cruzar el campamento. T1391: Zetsu negro MIENTE: dice ser \"la voluntad de Madara\" (canon: es la voluntad de Kaguya Ōtsutsuki, su hija/creación). Dice la verdad sobre el Ojo de la Luna, la Estatua (Gedō Mazō) con 7 bijū y que solo él sabe dónde está ahora. Intenta tentar a Facundo para que despierte al Diez Colas (y así liberar a Kaguya). T1393: ZETSU NEGRO DESTRUIDO por el Eclipse de Facundo (última palabra: \"Madre...\"). Sin él, Kaguya no puede ser liberada por su vía; nadie más sabe del plan de Kaguya."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

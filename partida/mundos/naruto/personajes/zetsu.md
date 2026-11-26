@@ -20,3 +20,5 @@ ESTADO: negro herido, reducido, en el barro frente a Facundo.
 - T1391 · Voz suave, amable. MIENTE: "Yo soy la voluntad de Madara Uchiha. Él me creó antes de morir." "Todo lo que hizo el chico de la máscara, lo hizo porque yo se lo susurré al oído. Todo lo que hizo Nagato, lo hizo porque yo estuve a su lado." Plan del Ojo de la Luna: nueve bijū en la Estatua Demoníaca del Camino Exterior, Diez Colas, genjutsu infinito proyectado en la luna. "Ya tenemos siete... en un lugar que solo yo conozco ahora." "Si me dejas vivir... Podrías ser el que despierte al Diez Colas."
 - T1392 · "Sentir a todo el mundo. Sin chakra. Sin ojos. Sin rastro." "Entonces no tengo nada que ofrecerte." Salta hacia Kase (en el hombro de Facundo) para meterse en el gato y escapar.
 QUÉ SABE DE FACUNDO (T1392): por él, puede sentir a todo el mundo a cualquier distancia; sabe dónde está la Estatua.
+- T1393 · ZETSU NEGRO MUERTO: Facundo abre un Eclipse (punto negro) entre Kase y él y se lo traga entero. Última palabra: "Madre..." Zetsu blanco sigue desmayado en el árbol.
+ESTADO: negro muerto; blanco inconsciente.

@@ -1391,3 +1391,4 @@ T1389 · NARUTO · Bosque norte · Desmaya al Zetsu blanco (+5 F, +50 EXP). Saca
 T1390 · NARUTO · Bosque norte · "Puedes intentarlo." Zetsu negro intenta meterse en Facundo: no encuentra nada (Velo). El dragón del antebrazo despierta y le devora un pedazo (Venas del Dragón, maestría 31). "En mil años nada me ha mordido."
 T1391 · NARUTO · Bosque norte · "Dime todo lo que sabes." Zetsu negro: "Soy la voluntad de Madara" (mentira). Ojo de la Luna, Estatua con 7 bijū (solo él sabe dónde). Tienta a Facundo a despertar al Diez Colas.
 T1392 · NARUTO · Bosque norte · "No me interesa, sé dónde está; siento a todo el mundo." Zetsu negro: "No tengo nada que ofrecerte." Salta hacia Kase para meterse en él.
+T1393 · NARUTO · Bosque norte · Eclipse: un punto negro se traga entero a Zetsu negro ("Madre..."). MUERTO. +25 F, +500 EXP. Zetsu blanco desmayado en el árbol.

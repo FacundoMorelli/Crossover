@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1390)
-
-puedes intentarlo
-
-## RESPUESTA 1 (T1390)
-
-> puedes intentarlo
-
-> —Puedes intentarlo.
-
-El ojo amarillo se estrecha.
-
-La masa negra se te aplasta contra la piel del brazo, del codo al hombro, como una segunda piel fría. La sientes empujar. Meterse. No por una herida, porque no tienes ninguna: por los poros, como el agua en la arena, buscando el camino hacia adentro, hacia la sangre, hacia la cabeza.
-
-Llega.
-
-Y no encuentra nada.
-
-Lo sientes detenerse adentro tuyo, en algún lugar debajo de la piel, como alguien que entra a una casa a oscuras y estira la mano hacia una pared que no está. Busca. Empuja más. Más hondo. Nada. Ni recuerdos, ni pensamientos, ni chakra, ni un borde donde agarrarse. Un vacío liso, sin fondo, como el que sintió Fū esta mañana.
-
-—¿Qué... es... esto? —La voz se le quiebra por primera vez—. No hay... no hay nada... no hay...
-
-Entonces se despierta el dragón.
-
-El tatuaje de tu antebrazo, el que sube desde la muñeca y se enrosca hasta el codo, se mueve. Primero la cola. Después el cuerpo. Se despega de la piel como humo azul y rojo, como chakra con forma, con escamas que brillan y ojos que se encienden, y abre unas fauces del ancho de tu mano.
-
-Muerde.
-
-Le muerde la masa negra justo donde se te pega a la piel, y no la suelta. La arranca. Se oye un sonido como de tela mojada que se desgarra. El dragón traga, y un pedazo de la oscuridad desaparece dentro de él, devorado, convertido en algo tibio que te sube por el brazo.
-
-[Kekkei Genkai: Venas del Dragón. Primer uso. Maestría +1.]
-
-El grito de Zetsu negro rebota en todo el bosque partido. No es un grito de dolor: es de espanto, de algo que hace siglos que no siente nada parecido.
-
-Se te despega del brazo de golpe, todo lo que queda de él, y cae al suelo, encogido, más chico, del tamaño de un gato ahora. Se retuerce entre el barro y las raíces, con el ojo amarillo abierto hasta lo imposible, mirándote.
-
-El dragón se vuelve a enroscar en tu antebrazo y se aplana en la piel, otra vez tatuaje.
-
-Kase deja de bufar. Se sienta en tu hombro, satisfecho, y se lame una pata.
-
-—¿Qué eres? —Zetsu negro retrocede por el barro, sin despegarte el ojo—. En mil años... en mil años nada me ha mordido.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1390 · NARUTO · DÍA 1 · 13:49          ║
-║ Konoha · bosque partido del borde norte      ║
-║ NIVEL 29 · EXP 306.230/320.000               ║
-║ FRAGMENTOS 113.499 · 0 ryo                   ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Zetsu negro                        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1391)
+## COMANDO 1 (T1391)
 
 bueno dime todo lo que sabes antes que te mate
 
-## RESPUESTA 2 (T1391)
+## RESPUESTA 1 (T1391)
 
 > bueno dime todo lo que sabes antes que te mate
 
@@ -111,11 +52,11 @@ Se le baja la voz hasta un susurro.
 
 ---
 
-## COMANDO 3 (T1392)
+## COMANDO 2 (T1392)
 
 no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
 
-## RESPUESTA 3 (T1392)
+## RESPUESTA 2 (T1392)
 
 > no me interesa, yo se donde esta, como crees que los encontré? puedo sentir a todo el mundo, no importa que tan lejos esten
 
@@ -160,4 +101,61 @@ La oscuridad ya está a un palmo de su cara.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:51, bosque del borde norte. Facundo: no le interesa, sabe dónde está la Estatua, siente a todo el mundo. Zetsu negro: "Entonces no tengo nada que ofrecerte." Salta hacia Kase, para meterse en el gato y escapar. Kase bufa, erizado. La oscuridad está a un palmo de su cara. Facundo tiene que reaccionar.
+## COMANDO 3 (T1393)
+
+entiendo, uso eclipse y lo trago antes que haga nada
+
+## RESPUESTA 3 (T1393)
+
+> entiendo, uso eclipse y lo trago antes que haga nada
+
+> —Entiendo.
+
+Los ojos se te encienden. El izquierdo, rojo carmesí, como una brasa. El derecho, azul hielo, como el fondo de un lago helado.
+
+Entre la cara de Kase y la mancha negra, a un palmo del bigote del gato, aparece un punto.
+
+No es luz. Es lo contrario de la luz. Un punto negro, más negro que Zetsu, del tamaño de una semilla, con un borde finísimo que brilla blanco y azul, como el anillo de un eclipse. El aire a su alrededor se curva. Las hojas sueltas del suelo se levantan y se van hacia él.
+
+Zetsu negro no alcanza a frenar.
+
+Se le estira el cuerpo hacia el punto como si cayera en un pozo sin fondo. Primero el borde, después la mitad. El ojo amarillo se abre enorme, te mira, y en él no hay plan, ni mentira, ni mil años: solo algo muy viejo que entiende, de golpe, que se termina.
+
+—Madre... —alcanza a susurrar.
+
+El punto se lo traga entero. Sin ruido. Sin una gota.
+
+Después el punto se cierra sobre sí mismo y desaparece, y en el aire queda solo un temblor que se apaga.
+
+[Derrotado: Zetsu negro.]
+
+[+25 Fragmentos. +500 EXP.]
+
+Los ojos se te apagan. No te arden. No te duelen. No sientes nada.
+
+Kase se queda un segundo con la boca abierta, a medio bufido, mirando el lugar vacío donde estaba la oscuridad. Después cierra la boca. Se le baja el pelo del lomo, despacio. Te mira de reojo, con el ojo rojo y el azul, como diciendo que podrías haberlo hecho antes, y se acomoda otra vez sobre tu hombro con la cola alrededor de tu cuello.
+
+El bosque partido se queda en silencio.
+
+A lo lejos, en el campamento, alguien sigue martillando. Un perro ladra. El viento mueve las lonas.
+
+En el tronco del árbol, la mitad blanca de Zetsu cuelga desmayada, con la boca abierta y media cara vacía donde antes estaba la otra mitad.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1393 · NARUTO · DÍA 1 · 13:51          ║
+║ Konoha · bosque partido del borde norte      ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:51, bosque del borde norte. Facundo usó el Eclipse: un punto negro entre Kase y Zetsu negro se lo tragó entero ("Madre..."). ZETSU NEGRO MUERTO (+25 F, +500 EXP). Ojos sin dolor. Kase se calma. Zetsu blanco sigue desmayado en el árbol. Facundo puede actuar.

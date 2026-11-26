@@ -135,3 +135,4 @@
 - Zetsu negro · T1390 · intentó entrar en el cuerpo de Facundo y no encontró nada (Velo); vio un dragón de chakra salir del tatuaje del brazo y devorarle un pedazo. (Zetsu blanco inconsciente: no lo vio.)
 - Facundo · T1391 · por Zetsu negro: plan del Ojo de la Luna (9 bijū, Estatua del Camino Exterior, Diez Colas, genjutsu en la luna); 7 bijū ya en la Estatua; faltan el 8 y el 9; solo Zetsu sabe dónde está la Estatua ahora. Zetsu dice ser la voluntad de Madara (Facundo sabe que miente, por conocimiento del jugador).
 - Zetsu negro · T1392 · por Facundo: puede sentir a todo el mundo a cualquier distancia; sabe dónde está la Estatua.
+- Nadie · T1393 · la muerte de Zetsu negro no tuvo testigos (el blanco estaba inconsciente).

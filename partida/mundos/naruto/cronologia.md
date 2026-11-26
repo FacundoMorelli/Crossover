@@ -36,3 +36,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 - T1383 · Tsunade anuncia juicio público a Danzō (ante Señor Feudal, consejo y aldea) y que devolverá los ojos Uchiha a Sasuke.
 - T1384 · Día 1 13:35 · Sasuke regresa a Konoha por voluntad propia. Taka espera en la cueva del norte.
 - T1386 · Taka (Suigetsu, Karin, Jūgo) llega a Konoha con Facundo.
+- T1393 · Día 1 13:51 · CAMBIO MAYOR: Zetsu negro destruido. Sin Obito libre, sin Zetsu negro: no hay Cuarta Guerra planeada por Akatsuki. Kabuto sigue suelto (Edo Tensei, en canon se alía con Tobi). Estatua del Camino Exterior con 7 bijū, sin dueño.
