@@ -55,3 +55,5 @@ QUÉ SABE (T1378): por Facundo, Madara está muerto.
 - T1381 · "Esta vez quiero la verdad entera." Ante el Susanoo naciente: "Sasuke. Me prometiste algo."
 QUÉ SABE (T1381): por Homura y Koharu, la verdad de la masacre Uchiha (golpe de Estado, voto con Danzō, Itachi espía, condición de salvar a Sasuke).
 - T1382 · Se pone blanca: "Esta mañana... Kakashi miró la venda que tiene en el ojo derecho. Y dijo Shisui."
+- T1383 · A Sasuke: Danzō está con Ibiki, sellado; no le dirá dónde: "si te lo digo, vas a ir, y lo vas a matar." "Danzō va a ser juzgado. Delante del Señor Feudal, delante del consejo, delante de toda Konoha, con ese brazo al aire... Por Shisui. Por tu clan. Por lo que le hizo a tu hermano." "Esos ojos son de tu clan... Cuando termine el juicio, te los devuelvo. Todos. Incluido el de Shisui."
+PROMESA (T1383): juicio público a Danzō; devolver los ojos Uchiha a Sasuke tras el juicio.

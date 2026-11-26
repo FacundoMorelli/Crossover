@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1380)
-
-voy con ellos
-
-## RESPUESTA 1 (T1380)
-
-> voy con ellos
-
-Sales detrás de Sasuke. Kase salta del suelo a tu hombro en el último momento, sin que lo llames, y se acomoda con la cola alrededor de tu cuello.
-
-Tsunade deja caer la lona detrás de ustedes.
-
-Bajan por la loma hacia el campamento. Tsunade adelante, con el abrigo blanco y rojo. Sasuke a su lado, medio paso atrás, con la capa negra y blanca y la muñeca lastimada contra el pecho. Tú detrás.
-
-Los ven.
-
-Al principio nadie entiende. Después alguien lo reconoce. Una mujer que tiende ropa se queda con una sábana en la mano, a medio colgar. Un chūnin que cargaba tablas las deja caer. Se oye un murmullo que corre por las carpas más rápido que ustedes, de boca en boca, como fuego por pasto seco.
-
-—Es el Uchiha...
-
-—¿Sasuke? ¿Sasuke Uchiha?
-
-—¿Con la Hokage?
-
-Sasuke no mira a nadie. Camina con la vista al frente, la mandíbula apretada. Tsunade tampoco mira a nadie, y nadie se anima a acercarse.
-
-Los cuatro ANBU de la carpa de mando se ponen firmes al ver a Tsunade, y uno de ellos lleva la mano al tantō al ver a Sasuke.
-
-—Quieto —dice Tsunade, sin detenerse—. Viene conmigo.
-
-Levanta la lona.
-
-Adentro, todo está igual que esta mañana: la mesa hecha con una puerta vieja, ahora con una grieta de lado a lado, los mapas con media aldea tachada, los dos banquitos. Homura y Koharu siguen sentados ahí, cada uno con un cuenco de té frío en las manos. Tienen la cara de dos viejos que llevan horas esperando algo malo.
-
-Levantan la vista cuando entra Tsunade.
-
-Después ven a Sasuke.
-
-A Koharu se le cae el cuenco. Se rompe contra el suelo y el té se desparrama sobre las tablas. Homura no se mueve, pero se le van los anteojos un poco hacia la punta de la nariz y no se los acomoda.
-
-Sasuke se para frente a ellos. A dos metros. No toca la espada. No activa el Sharingan. Solo los mira, a los dos, uno después del otro, con los ojos negros.
-
-—Ustedes son Homura Mitokado y Koharu Utatane.
-
-No es una pregunta.
-
-—Yo soy Sasuke Uchiha. El último que quedó.
-
-Le tiembla apenas la voz, una sola vez, y la aplasta enseguida.
-
-—Díganme por qué mataron a mi clan.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1380 · NARUTO · DÍA 1 · 13:24          ║
-║ Konoha · carpa de mando                      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión con Homura y Koharu        ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1381)
+## COMANDO 1 (T1381)
 
 miro
 
-## RESPUESTA 2 (T1381)
+## RESPUESTA 1 (T1381)
 
 > miro
 
@@ -133,11 +64,11 @@ Homura no se mueve. Koharu cierra los ojos.
 
 ---
 
-## COMANDO 3 (T1382)
+## COMANDO 2 (T1382)
 
 le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
 
-## RESPUESTA 3 (T1382)
+## RESPUESTA 2 (T1382)
 
 > le pongo una mano en el hombro, y que dicen de shisui, el estaba en el plan primero no?
 
@@ -198,4 +129,59 @@ No es una pregunta. Las aspas del Mangekyō se le vuelven a encender, pero esta 
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:30, carpa de mando. Facundo puso la mano en el hombro de Sasuke: el Susanoo se deshizo. Preguntó por Shisui. Homura y Koharu: Shisui quería usar su técnica del ojo en Fugaku para frenar el golpe sin muertes; Hiruzen de acuerdo, Danzō no; dos días después apareció muerto en el río sin el ojo derecho. Tsunade recuerda que Kakashi dijo "Shisui" mirando la venda del ojo derecho de Danzō. Sasuke: "Danzō tiene el ojo de Shisui. ¿Dónde está Danzō?" (Mangekyō, sin Susanoo). Facundo puede actuar.
+## COMANDO 3 (T1383)
+
+sigo mirando
+
+## RESPUESTA 3 (T1383)
+
+> sigo mirando
+
+Tsunade no contesta enseguida.
+
+Se acerca a Sasuke, despacio, hasta quedar frente a él, a un paso. Lo mira a los ojos rojos sin apartar la vista. Es más alta que él, y por un momento parece mucho más vieja de lo que aparenta.
+
+—Danzō está bajo custodia de Ibiki —dice—. Sellado entero, con una venda en cada uno de esos ojos. Inconsciente. No va a ir a ningún lado.
+
+—Dígame dónde.
+
+—No. —Tsunade no levanta la voz—. Porque si te lo digo, vas a ir, y lo vas a matar. Y eso no te lo voy a permitir.
+
+Sasuke aprieta la mandíbula. El Mangekyō le gira más rápido.
+
+—Me prometiste no desenvainar esa espada en mi aldea —sigue Tsunade—. Y no la desenvainaste. Lo respeto. Ahora escúchame tú a mí. —Se le endurece la voz—. Danzō va a ser juzgado. Delante del Señor Feudal, delante del consejo, delante de toda Konoha, con ese brazo al aire para que lo vea el mundo entero. Por Shisui. Por tu clan. Por lo que le hizo a tu hermano. —Le tiembla un músculo en la cara—. Y si me lo matas antes, se lleva la verdad a la tumba, y la aldea nunca se entera de lo que le hizo a los Uchiha. ¿Eso es lo que quieres?
+
+Sasuke no contesta.
+
+Homura y Koharu, en los banquitos, bajan la cabeza.
+
+—Esos ojos —sigue Tsunade, más bajo— son de tu clan. No son de Danzō, ni de Raíz, ni de la aldea. Cuando termine el juicio, te los devuelvo. Todos. Incluido el de Shisui.
+
+Sasuke se queda quieto un rato largo. El Mangekyō se le va apagando, despacio, hasta quedar los ojos negros.
+
+Después gira la cabeza hacia ti, por encima del hombro donde todavía tienes la mano.
+
+—Dijiste que podías revivirlos —dice, muy bajo, para que solo lo oigas tú—. A mi clan. —Le cuesta seguir—. Si vuelven... van a necesitar sus ojos.
+
+Te mira.
+
+—¿Los revivirías con sus ojos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1383 · NARUTO · DÍA 1 · 13:33          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Reunión con Homura y Koharu        ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:33, carpa de mando. Tsunade no le dice a Sasuke dónde está Danzō: lo juzgarán ante el Señor Feudal, el consejo y toda Konoha, con el brazo al aire; si lo mata, la verdad se pierde. Los ojos son del clan: se los devolverá todos (incluido el de Shisui) tras el juicio. Sasuke apaga el Mangekyō. A Facundo, en voz baja: "Dijiste que podías revivirlos. Si vuelven... van a necesitar sus ojos. ¿Los revivirías con sus ojos?" Facundo tiene que contestar.

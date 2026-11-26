@@ -48,3 +48,4 @@ ESTADO: en Konoha (carpa de la colina), T1371.
 PODER VISTO POR FACUNDO (T1381): Mangekyō, Susanoo (parcial).
 - T1382 · Facundo le pone la mano en el hombro: el Susanoo se deshace; no le saca la mano. "El amigo de mi hermano. Se tiró al río. Dijeron que Itachi lo había matado." Al saber lo del ojo: "Danzō tiene el ojo de Shisui." Mangekyō encendido, sin Susanoo: "¿Dónde está Danzō?"
 QUÉ SABE (T1382): por los viejos y Tsunade, Danzō le sacó el ojo derecho a Shisui.
+- T1383 · "Dígame dónde." Escucha a Tsunade; apaga el Mangekyō. A Facundo, en voz baja: "Dijiste que podías revivirlos. A mi clan. Si vuelven... van a necesitar sus ojos. ¿Los revivirías con sus ojos?"

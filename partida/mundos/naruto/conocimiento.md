@@ -120,3 +120,5 @@
 - Homura, Koharu · T1380 · ven a Sasuke en persona; él les exige el porqué de la masacre.
 - Tsunade, Sasuke, Facundo · T1381 · por Homura y Koharu (confesión): el clan Uchiha planeaba un golpe; Hiruzen quería negociar; Danzō impulsó la masacre; Homura y Koharu votaron con Danzō; Itachi fue el espía y aceptó a cambio de que Sasuke viviera.
 - Sasuke, Tsunade, Facundo · T1382 · por Homura y Koharu: Shisui quería frenar el golpe con su técnica ocular; Danzō se opuso; Shisui apareció muerto sin el ojo derecho. Por Tsunade (recordando a Kakashi en T1342): Danzō tiene el ojo de Shisui bajo la venda. Sasuke lo sabe ahora.
+- Sasuke, Homura, Koharu, Facundo · T1383 · por Tsunade: Danzō será juzgado públicamente; los ojos Uchiha volverán a Sasuke tras el juicio.
+- Facundo · T1383 · Sasuke le pregunta en voz baja (solo Facundo lo oye) si revivirá a su clan con sus ojos.

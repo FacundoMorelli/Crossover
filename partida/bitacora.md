@@ -1381,3 +1381,4 @@ T1379 · NARUTO · Carpa de la colina · (Línea escrita por el motor a pedido d
 T1380 · NARUTO · Carpa de mando · Cruzan el campamento: todos ven a Sasuke con la Hokage. Ante Homura y Koharu: "Yo soy Sasuke Uchiha. El último que quedó. Díganme por qué mataron a mi clan."
 T1381 · NARUTO · Carpa de mando · Homura y Koharu confiesan: golpe de Estado Uchiha, votaron con Danzō, Itachi aceptó para salvar a Sasuke. "No les pedimos perdón." Sasuke: Mangekyō, Susanoo a medio formar, temblando.
 T1382 · NARUTO · Carpa de mando · Mano en el hombro de Sasuke: se apaga el Susanoo. "¿Y Shisui?" Los viejos: quería frenar el golpe con su ojo; Danzō se opuso; apareció muerto sin el ojo derecho. Tsunade: Kakashi dijo "Shisui". Sasuke: "¿Dónde está Danzō?"
+T1383 · NARUTO · Carpa de mando · Tsunade: Danzō será juzgado ante todos; si lo matas, se pierde la verdad; los ojos se devolverán al clan. Sasuke apaga el Mangekyō. A Facundo: "¿Los revivirías con sus ojos?"
