@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1328)
-
-lo detengo con los dedos
-
-## RESPUESTA 1 (T1328)
-
-> lo detengo con los dedos
-
-No te das vuelta.
-
-Bajas la mano derecha hacia atrás, sin mirar, y el empeine de Lee choca contra la punta de tu dedo índice, a la altura de la rodilla. Se frena ahí, en seco, como si hubiera pateado una columna de piedra.
-
-Medio segundo después llega la segunda. Levantas la izquierda por encima del hombro, también sin mirar, y atrapas el tobillo de Lee entre el índice y el mayor, a un palmo de tu nuca. Lo sostienes así, con dos dedos, como quien agarra un pincel.
-
-Kase, en tu cuello, mira la sandalia de Lee que quedó a diez centímetros de su cara. Bosteza.
-
-Durante un momento no se oye nada en todo el borde este del cráter. Ni las palas, ni la señora del balde, ni Gai.
-
-Lee está colgado de tus dedos, cabeza abajo, con la cara a la altura de tu cintura. Te mira desde abajo con la boca abierta.
-
-Sueltas. Cae, apoya las manos, da una vuelta en el aire y queda de pie frente a ti, a tres metros. Respira fuerte. Le corre el sudor por la cara.
-
-—Con... los dedos —dice un chūnin, entre los curiosos.
-
-—Neji —dice Gai, muy bajo, sin sacarte los ojos de encima.
-
-—Nada —contesta Neji. La voz le sale más tensa de lo que quiere—. Otra vez nada. No usa chakra. No se dio vuelta. No sé cómo supo dónde iban a caer.
-
-Lee se queda quieto un segundo. Después se le llenan los ojos de lágrimas. No de tristeza.
-
-—Gai-sensei. —Se le quiebra la voz de emoción—. Por favor. Las Puertas.
-
-Gai cierra los ojos. Los abre.
-
-—Hasta la quinta, Lee. Ni una más. Estamos en medio de la aldea.
-
-—¡Sí, señor!
-
-Lee cruza los brazos frente al pecho. Las venas del cuello se le hinchan y la piel se le enrojece.
-
-—¡Primera Puerta, la Puerta de la Apertura! —Un aire caliente sale de él en una ola—. ¡ABIERTA!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1328 · NARUTO · DÍA 1 · 09:28          ║
-║ Konoha · borde este del cráter · duelo       ║
-║ NIVEL 29 · EXP 295.380/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Duelo con Rock Lee                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1329)
+## COMANDO 1 (T1329)
 
 la verdad, aunque no parezca estoy impresionado, cuantos años tienes?
 
-## RESPUESTA 2 (T1329)
+## RESPUESTA 1 (T1329)
 
 > la verdad, aunque no parezca estoy impresionado, cuantos años tienes?
 
@@ -121,11 +62,11 @@ Lee baja el cuerpo, una mano adelante, la otra atrás. Ya no sonríe. Los ojos l
 
 ---
 
-## COMANDO 3 (T1330)
+## COMANDO 2 (T1330)
 
 miro
 
-## RESPUESTA 3 (T1330)
+## RESPUESTA 2 (T1330)
 
 > miro
 
@@ -205,4 +146,59 @@ Lee gira la cabeza hacia ti, desde el suelo, con la cara roja y llena de tierra.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:30, borde este, pozo de dos metros. Facundo solo miró: Lee lo levantó con la Danza de la Sombra, ~70 golpes en el aire y la Flor de Loto Oculta. Facundo sin un rasguño. COPIA: taijutsu y Ocho Puertas de Lee (+300 EXP). Lee tirado, agotado, humeando; Gai a su lado. Neji mudo con el Byakugan. Kase en la viga junto a Neji. Lee: "¿Sentiste... algo?" Facundo tiene que contestar.
+## COMANDO 3 (T1331)
+
+no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
+
+## RESPUESTA 3 (T1331)
+
+> no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
+
+> —No. Pero sería desagradable para ti perder sin que te ataque, así que déjame atacarte. —Cruzas los brazos frente al pecho—. Primera Puerta, la Puerta de la Apertura. ¡Abierta!
+
+Lo sientes como una llave que gira adentro de la cabeza.
+
+La piel se te enrojece desde el cuello hacia abajo, por debajo de los tatuajes, y los dragones parecen moverse con la sangre. Sale de ti una ola de calor que barre el fondo del pozo y levanta toda la tierra suelta en un anillo. El sobretodo se te infla. El pelo blanco y azul se te levanta hacia atrás.
+
+Lee deja de respirar.
+
+Gai se pone de pie de golpe, tan rápido que casi pisa a su alumno. La cara se le queda completamente en blanco.
+
+—Eso... —Le sale la voz ronca—. Esa es la Primera Puerta.
+
+—¡Gai-sensei! —grita Lee desde el suelo—. ¡Abrió la Puerta! ¡Abrió la Puerta de la Apertura! ¡Igual que nosotros!
+
+—Lo vi, Lee. —Gai no parpadea—. Lo vi.
+
+Tenten se queda con un kunai en la mano, a medio guardar. Los curiosos se miran entre ellos sin entender qué es lo que tiene a todos tan quietos.
+
+Neji da un paso hacia el borde del pozo, con el Byakugan tenso hasta el límite.
+
+—No lo veo —dice, muy bajo, casi enojado—. Gai-sensei, con el Byakugan tendría que ver los puntos abriéndose en el cuerpo. Los puntos de chakra. Y no veo nada. Se le pone la piel roja, sale el calor, y adentro no hay nada.
+
+Gai no le contesta. Te mira a ti.
+
+—Muchacho. —Ya no hay juventud en la voz, ni sonrisa—. Las Ocho Puertas no las enseña nadie. Las aprendí de mi padre, y se las enseñé a Lee. En toda la aldea, que yo sepa, solo nosotros tres las conocimos. ¿Dónde aprendiste a abrirlas?
+
+En el suelo, Lee ya se está levantando. Le tiemblan los brazos, las piernas no le responden, la piel todavía le humea. Pero se levanta. Apoya una rodilla. Después la otra pierna. Se pone en guardia, tambaleándose, con los ojos brillando.
+
+—Gai-sensei, eso después. —Se limpia la sangre de la nariz con el dorso de la mano—. ¡Facundo-san! ¡Estoy listo!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1331 · NARUTO · DÍA 1 · 09:31          ║
+║ Konoha · borde este del cráter · el pozo     ║
+║ NIVEL 29 · EXP 295.680/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común · Primera Puerta abierta ║
+║ Kase: en la viga, junto a Neji               ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Duelo con Rock Lee                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:31, pozo del borde este. Facundo abrió la Primera Puerta (piel roja, calor). Gai, serio: solo él, su padre y Lee las conocían; "¿Dónde aprendiste a abrirlas?" Neji no ve los puntos de chakra (Velo). Lee se levanta tambaleando, sangre en la nariz: "¡Facundo-san! ¡Estoy listo!" Facundo puede actuar (atacar / contestar a Gai).

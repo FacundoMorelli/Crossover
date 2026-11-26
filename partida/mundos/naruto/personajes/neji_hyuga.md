@@ -20,3 +20,5 @@ ESTADO: activo.
 QUÉ PODERES DE FACUNDO VIO (T1326): fuerza física enorme sin chakra visible.
 - T1328 · "Otra vez nada. No usa chakra. No se dio vuelta. No sé cómo supo dónde iban a caer."
 - T1330 · Mudo, mandíbula apretada, Byakugan encendido, con Kase al lado en la viga.
+- T1331 · "No lo veo. Con el Byakugan tendría que ver los puntos abriéndose... Se le pone la piel roja, sale el calor, y adentro no hay nada."
+QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (solo lo visible; Velo).

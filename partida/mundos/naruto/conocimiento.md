@@ -50,3 +50,4 @@
 - Lee, Gai, Neji, Tenten, chūnin y vecinos del borde este · T1328 · vieron a Facundo parar el Huracán de la Hoja con los dedos sin darse vuelta. Neji: sin chakra (Velo); no sabe cómo anticipó los golpes (Haki de observación, no lo saben).
 - Lee, Gai, Neji, Tenten, curiosos · T1329 · oyeron a Facundo decir que está impresionado con Lee.
 - Lee, Gai, Neji, Tenten, curiosos del borde este · T1330 · vieron a Facundo recibir sin defenderse la Danza de la Sombra, ~70 golpes y la Flor de Loto Oculta de Lee (Tercera Puerta) y salir sin un rasguño. Neji: sin chakra (Velo). Es público en el campamento en cuestión de minutos.
+- Gai, Lee, Neji, Tenten, curiosos · T1331 · vieron a Facundo abrir la Primera Puerta (piel roja, calor). Gai: solo él, su padre y Lee las conocían → sospecha seria. Neji no ve los puntos de chakra (Velo). Los curiosos no entienden qué es.

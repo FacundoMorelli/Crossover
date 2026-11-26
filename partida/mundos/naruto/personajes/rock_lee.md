@@ -23,3 +23,5 @@ RELACIÓN CON FACUNDO (T1329): admiración enorme.
 - T1330 · Tercera Puerta: Danza de la Sombra de la Hoja, ~70 golpes en el aire, Flor de Loto Oculta sobre Facundo, que no se defiende. Facundo queda sin un rasguño. Lee, agotado en el suelo, humeando: "Facundo-san... ¿Sentiste... algo?"
 COPIADO POR FACUNDO: taijutsu y Ocho Puertas (T1330). Lee no lo sabe.
 ESTADO: agotado por las Puertas (T1330).
+- T1331 · "¡Abrió la Puerta de la Apertura! ¡Igual que nosotros!" Se levanta tambaleando, sangre en la nariz: "Gai-sensei, eso después. ¡Facundo-san! ¡Estoy listo!"
+QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta.

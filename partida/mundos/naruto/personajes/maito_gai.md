@@ -22,3 +22,5 @@ QUÉ PODERES DE FACUNDO VIO (T1326): paró el Remolino de la Hoja con una mano s
 - T1329 · Llora en silencio cuando Facundo dice que está impresionado con Lee. "¡LEE!"
 - T1330 · Cuenta los golpes ("¡SETENTA!"). Va junto a Lee tirado; le toca la frente sin dejar de mirar a Facundo.
 QUÉ PODERES DE FACUNDO VIO (T1330): recibió la Flor de Loto Oculta con la Tercera Puerta sin un rasguño.
+- T1331 · Ve a Facundo abrir la Primera Puerta. Serio, sin sonrisa: "Las Ocho Puertas no las enseña nadie. Las aprendí de mi padre, y se las enseñé a Lee. En toda la aldea, que yo sepa, solo nosotros tres las conocimos. ¿Dónde aprendiste a abrirlas?"
+QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (Ocho Puertas). Sospecha.
