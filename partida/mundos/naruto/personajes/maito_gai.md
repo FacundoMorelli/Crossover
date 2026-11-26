@@ -33,3 +33,4 @@ RELACIÓN CON FACUNDO (T1334): respeto y curiosidad; amistoso.
 - T1341 · Llega hablando de techos nuevos, se calla. Va con Tsunade por Danzō.
 - T1342 · Se lanza contra Raíz por la izquierda.
 - T1343 · Queda con el puño en el aire: sus rivales de Raíz se desmayan solos.
+- T1345 · "¡Se está tragando a su propia gente!"

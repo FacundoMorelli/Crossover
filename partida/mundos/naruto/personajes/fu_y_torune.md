@@ -10,3 +10,4 @@ ESTADO: activos.
 - T1337 · Fū usa la Técnica de Lectura de la Mente sobre Facundo (con permiso). Velo: no encuentra nada. "No es una barrera... Entro y no hay nada adentro. Ni recuerdos, ni pensamientos, ni oscuridad. Es como si no hubiera nadie." Retira la mano como quemado.
 - T1341 · A los lados de Danzō frente a la carpa gris más grande.
 - T1343 · Desmayados por el Haki del Rey de Facundo (Fū rígido hacia atrás; Torune de cara, insectos quietos). VIVOS (canon: Tobi los mataba camino a la Cumbre).
+- T1345 · Fū, desmayado, se arrastra hacia el hocico de Baku junto a los pies de Facundo.

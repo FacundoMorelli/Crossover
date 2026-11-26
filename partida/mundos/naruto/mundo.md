@@ -16,3 +16,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1330 · Pozo de dos metros en la pendiente del borde este (Flor de Loto Oculta de Lee contra Facundo).
 - T1340 · Tsunade ordena arrestar a Danzō (Sharingan robados en el brazo, dicho por Facundo).
 - T1343 · Raíz entero (30 + Fū y Torune) desmayado por Facundo en el lado oeste del cráter. Fū y Torune vivos.
+- T1345 · Baku (invocación de Danzō) se tragó a 3 agentes de Raíz desmayados.

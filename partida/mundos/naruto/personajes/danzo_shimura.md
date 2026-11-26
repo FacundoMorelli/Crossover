@@ -27,3 +27,4 @@ QUÉ PODERES DE FACUNDO VIO (T1343): resistencia absoluta a sus Ráfagas; Haki d
 - T1344 · "Ellos no saben lo que necesita esta aldea para seguir existiendo... Por eso existe Raíz. Por eso existo yo. Ellos son el árbol, viajero. Nosotros somos lo que está bajo tierra, lo que nadie ve, lo que lo sostiene." "¡Técnica de Invocación!" Baku (tapir gigante): "¡Trágatelos!" Huye hacia el borde del cráter al amparo de la succión.
 PODER VISTO POR FACUNDO (T1344): Invocación de Baku.
 ESTADO: huyendo (T1344).
+- T1345 · Ignora a Facundo: "No." Deja que Baku se trague a su gente desmayada. En el borde del cráter: "Esta aldea no es tuya, viajero." Por saltar.
