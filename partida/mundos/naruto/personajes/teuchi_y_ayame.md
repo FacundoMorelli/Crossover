@@ -12,3 +12,4 @@ ESTADO: activos.
 - T1356 · Ven a Karui golpear a Naruto; Ayame ahoga un grito; Teuchi suelta el cucharón.
 - T1405 · El letrero de Ichiraku vuela a su puerta nueva. Teuchi se cae de rodillas.
 - T1411 · Teuchi, en la puerta de su Ichiraku nuevo, se quita el gorro y lo aprieta contra el pecho.
+- T1437 · Ayame deja cada mañana un platito de cerdo para Kase en el estante de la ventana de Facundo.

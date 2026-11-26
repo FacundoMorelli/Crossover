@@ -61,3 +61,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1424 · "¿Rin? ¿Rin está viva?" Se tapa la boca; le tiemblan los hombros.
 - T1426 · Se tapa los ojos con la mano; Minato lo abraza junto a Rin y Obito.
 - T1427 · "Más que el mundo, creo." Se queda con Obito.
+- T1437 · Llega a horario por primera vez en 17 años ("no tuve que pasar por la piedra: el nombre que iba a visitar estaba barriendo la calle de enfrente"). Rescata el manuscrito de Jiraiya del arbusto.

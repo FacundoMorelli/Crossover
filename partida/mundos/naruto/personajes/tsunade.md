@@ -97,3 +97,4 @@ QUÉ PODERES DE FACUNDO VIO (T1430): Ultra Instinto Dominado (aura plateada; esq
 - T1431 · Recibe una palma contenida: vuela, parte dos postes, cruza el río, se estrella en la ladera. Byakugō: se cura tres costillas. Carcajada: "¡Así que así se siente! ¡Ja! ¡JA! ¡Me pegaste con la palma! ¡Con la palma abierta, desgraciado! ¡Y me rompiste tres costillas!" "¡Estoy bien, Shizune! ¡Nunca estuve mejor!" "Contenido. Eso fue contenido, ¿no?" PERDIÓ el duelo.
 RELACIÓN CON FACUNDO (T1431): admiración y alegría.
 - T1432 · Atrapa la semilla con dos dedos: "La tercera vez en una semana que me salvas con esta cosa. Ya me estoy acostumbrando." "Mucho mejor que el sake." A Jiraiya: "¡Te parto la otra pierna!" A Facundo: "Gracias. Hacía años que no me divertía así."
+- T1437 · Lee diez páginas de "El Viajero del Gato", se pone roja y lo tira por la ventana.

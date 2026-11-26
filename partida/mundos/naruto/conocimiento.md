@@ -197,3 +197,6 @@
 - Público del campo tres · T1434 · vio a Facundo deshacer doscientos clones a la vez y apagar todas las Rasengan sin chakra visible. Oyó que Facundo le dijo a Naruto que use al Nueve Colas "como amigos".
 - Público del campo tres · T1435 · vio a Naruto hablar con el Nueve Colas y obtener un manto dorado; oyó el nombre Kurama.
 - Público del campo tres · T1436 · vio a Facundo atrapar con la mano y apagar un Rasenshuriken, y vencer a Naruto (manto del Nueve Colas) con un golpecito.
+- Killer Bee · T1437 · conoce a Facundo en persona (por rumores de Kumo y Konoha).
+- Toda Konoha · T1437 · conoce el título del manuscrito de Jiraiya, "El Viajero del Gato".
+- Naruto · T1437 · por Jiraiya, Facundo dijo que se quedaría "unos días".

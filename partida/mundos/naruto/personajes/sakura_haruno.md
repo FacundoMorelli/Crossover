@@ -10,3 +10,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: rumores del campamento.
 ESTADO: activa.
 - T1431 · Corre detrás de Shizune hacia Tsunade: "¡Maestra!"
+- T1437 · Sigue a Facundo un día entero preguntando de qué están hechas las semillas; anota todo.

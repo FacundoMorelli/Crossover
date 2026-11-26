@@ -45,3 +45,4 @@ ESTADO: ojo izquierdo nuevo (normal); derecho aún sellado y vendado; chakra enc
 - T1427 · "Por un gato. Destruirías el mundo por un gato." Kase se echa sobre su pecho; le apoya la mano. "No sé cómo se paga esto. No sé si se puede."
 RELACIÓN CON FACUNDO (T1427): gratitud y vergüenza; empieza a aceptar.
 - T1428 · Barre el barrio Uchiha cada día, sin chakra; Rin y Kakashi lo acompañan; la gente se aparta o escupe. Día 4: confiesa todo en el juicio (dos horas). Sentencia: sellado y al servicio de la aldea.
+- T1437 · Sigue barriendo. Un nene Uchiha le lleva agua (la madre se lo lleva; al día siguiente vuelve). Rin le enseña a vendarse las manos; él se las venda mal a propósito.

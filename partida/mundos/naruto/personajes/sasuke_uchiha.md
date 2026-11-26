@@ -73,3 +73,4 @@ RELACIÓN CON ITACHI: reconciliados.
 - T1428 · Vive en el barrio Uchiha con su familia y Taka. Entrena con Itachi cada mañana. Raikage: que no vuelva a pisar el País del Rayo.
 - T1435 · Naruto lo mira al hablar de cómo se hizo su amigo; Sasuke no dice nada.
 - T1436 · Baja del árbol de un salto al centro del campo, muñeca sin vendas, Mangekyō encendido: "Mi turno."
+- T1437 · Duelo en serio con Facundo: Susanoo completo, flechas, Amaterasu, Kirin. Facundo deshace el Susanoo con la mano. Queda de rodillas, sangre en el ojo; Itachi le pone la mano en la cabeza. PERDIÓ.

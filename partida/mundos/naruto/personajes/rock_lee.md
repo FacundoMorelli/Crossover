@@ -31,3 +31,4 @@ ESTADO: desmayado sobre una tabla, sonriendo (T1332).
 ESTADO: curado del todo (T1333).
 QUÉ SABE DE FACUNDO (T1333): por Facundo, aprendió las Puertas mirándolo a él.
 - T1334 · Reverencia profunda. "¡La próxima vez, voy a hacer que te muevas aunque sea un paso! ¡Y si no lo logro, daré tres mil vueltas!" (Tenten: debe mil; "¡Entonces cuatro mil!").
+- T1437 · Carreras diarias alrededor de la aldea contra Facundo; pierde; quinientas vueltas de castigo.

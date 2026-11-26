@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1434)
-
-derribó a todos los clones y detengo los ataques, si quieres acercarte mas vas a tener que usar lo que tienes dentro, no a la fuerza, si no como amigos
-
-## RESPUESTA 1 (T1434)
-
-> derribó a todos los clones y detengo los ataques, si quieres acercarte mas vas a tener que usar lo que tienes dentro, no a la fuerza, si no como amigos
-
-El aire plateado se mueve.
-
-No lo ves pasar. Tu cuerpo se va antes que tú: una mano, un codo, una rodilla, el canto de la otra mano, todo a la vez, en todas las direcciones, en el espacio de un parpadeo. Doscientos golpecitos, ninguno más fuerte que un dedo en la frente.
-
-Doscientos clones revientan en humo blanco al mismo tiempo, con un sonido como de una bolsa de palomitas.
-
-En el aire, por todas partes, quedan flotando las esferas azules sin dueño, girando, zumbando, sin nadie que las sostenga. Abres la mano derecha y cierras los dedos. Las esferas se detienen. Todas. Como si el aire las apretara desde afuera. Se encogen, se apagan y se deshacen en chispas azules que caen sobre el pasto como lluvia fina.
-
-Cuando el humo se despeja, en el campo hay un solo Naruto. El de verdad. Parado delante de ti, con el puño todavía estirado, la Rasengan todavía girando en la palma, a un palmo de tu pecho.
-
-Le apoyas dos dedos en el borde de la esfera.
-
-Se apaga.
-
-Naruto se queda con la mano abierta en el aire, vacía. Los ojos de sapo se le abren hasta lo imposible.
-
-> —Si quieres acercarte más, vas a tener que usar lo que tienes adentro. No a la fuerza. Como amigos.
-
-Naruto parpadea. Se le va el Modo Sabio de la cara, despacio, como pintura que se lava. Vuelve a tener los ojos azules.
-
-—¿Lo que tengo... adentro? —Se toca el estómago, por encima de la chaqueta—. ¿El zorro? —Se le arruga la cara—. ¡Ese zorro me odia! ¡Cada vez que lo uso quiere romperme el sello y comerme! ¡Cuando peleé con Pain casi destruye todo!
-
-—Porque lo usaste a la fuerza —dice alguien detrás de él.
-
-Kushina.
-
-Bajó del árbol sin que nadie la viera, y camina despacio hacia el centro del claro, con el pelo rojo moviéndose con el viento de la mañana. Ya no tiene cara de que esto le parece una mala idea. Tiene otra cara. Seria. Vieja, de una forma que no tiene nada que ver con la edad.
-
-—Yo lo tuve adentro antes que tú, Naruto —dice—. Veinte años. Y antes que yo, la abuela Mito. —Se detiene a su lado—. Lo tuve encadenado. Nunca le hablé. Nunca le pregunté nada.
-
-Naruto la mira, con la boca abierta.
-
-—Ese zorro tiene nombre —dice Kushina, muy bajo—. Nunca nadie se lo preguntó.
-
-Minato, desde el borde del campo, da un paso adelante, en silencio. No dice nada. Mira a su esposa y a su hijo, y se queda quieto.
-
-Naruto se queda callado un rato largo. Mira a su madre. Te mira a ti. Se mira las manos.
-
-—¿Y cómo...? —Le sale chiquito, como pocas veces le sale algo—. ¿Cómo se hace amigo de alguien que te odia?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1434 · NARUTO · DÍA 5 · 06:20          ║
-║ Konoha · campo de entrenamiento tres         ║
-║ NIVEL 30 · EXP 327.530/360.000               ║
-║ FRAGMENTOS 114.099 · 0 ryo                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común · Ultra Instinto         ║
-║ Kase: en el pasto, junto al poste            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
-║ OBJETIVO: Duelo con Naruto                   ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1435)
+## COMANDO 1 (T1435)
 
 como te hiciste amigo de sasuke?
 
-## RESPUESTA 2 (T1435)
+## RESPUESTA 1 (T1435)
 
 > como te hiciste amigo de sasuke?
 
@@ -161,11 +96,11 @@ Naruto se pone de pie de un salto, con el manto dorado todavía encima, encendid
 
 ---
 
-## COMANDO 3 (T1436)
+## COMANDO 2 (T1436)
 
 esta bien, peleó con el conteniendome
 
-## RESPUESTA 3 (T1436)
+## RESPUESTA 2 (T1436)
 
 > esta bien, peleó con el conteniendome
 
@@ -242,4 +177,71 @@ Sasuke te mira. Los ojos se le encienden, rojos, con las aspas negras girando.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 5 06:40, campo tres. Duelo con Naruto (contenido): Naruto con el manto dorado, brazos de chakra (Facundo los enreda), "¡Estilo Viento: Rasenshuriken!" — Facundo lo atrapa con la mano y lo encoge hasta apagarlo. Golpecito en la frente: Naruto vuela por encima de un árbol y cae de espaldas, se ríe: "¡Kurama dice que eres un monstruo!" Duelo ganado (+75 F, +800 EXP). Sasuke baja del árbol, se planta en el centro con el Mangekyō: "Mi turno." Facundo puede actuar.
+## COMANDO 3 (T1437)
+
+esta bien. simula unos dias
+
+## RESPUESTA 3 (T1437)
+
+> esta bien. simula unos dias
+
+> —Está bien.
+
+Sasuke pelea en serio desde el primer segundo.
+
+El Susanoo le sale entero, violeta, con armadura y arco, más alto que los árboles del campo. Las flechas de chakra caen como lluvia. El Amaterasu prende fuego negro al pasto, a los troncos partidos, a la orilla del río. Tu cuerpo se mueve entre todo eso sin que lo pienses, en el aire plateado del Ultra Instinto, y ninguna flecha y ninguna llama te toca. Cuando Sasuke junta todo el rayo del cielo encapotado en un dragón que ruge desde las nubes, lo esperas quieto. El dragón te pasa por al lado, tu mano se apoya en el pecho del Susanoo, y la armadura violeta entera se deshace en humo como una vela que se apaga de un soplo.
+
+Sasuke queda de rodillas en el pasto quemado, jadeando, con sangre en el ojo izquierdo. Itachi baja del árbol y le apoya una mano en la cabeza. Sasuke no la aparta.
+
+[Duelo ganado: Sasuke Uchiha.]
+
+[+75 Fragmentos. +800 EXP.]
+
+Pasan los días.
+
+Kakashi llega a horario a una reunión por primera vez en diecisiete años. Gai lo celebra a los gritos durante una hora. Kakashi dice que no tiene nada que ver con nada, que se le rompió el despertador, y que esa mañana no tuvo que pasar por la piedra de los caídos porque el nombre que iba a visitar estaba barriendo la calle de enfrente.
+
+Obito sigue barriendo. El tercer día, un nene del barrio Uchiha le lleva un vaso de agua, porque hace calor. La madre lo ve, lo agarra del brazo y se lo lleva sin decir nada. Pero al día siguiente el nene vuelve, con otro vaso. Rin le enseña a Obito a vendarse las manos para que no le salgan ampollas con la escoba. Él se las venda mal a propósito para que ella se las vuelva a vendar.
+
+Jiraiya se encierra en su casa de la colina y no sale en tres días. Al cuarto, baja con un manuscrito de doscientas páginas bajo el brazo. En la tapa dice, con letras grandes: "El Viajero del Gato". Tsunade se lo arranca de las manos, lee las primeras diez páginas en la puerta de la Torre, se pone roja hasta las orejas y lo tira por la ventana. Kakashi lo rescata del arbusto antes de que caiga al suelo.
+
+Sakura te sigue a todas partes durante un día entero, con una libreta, preguntándote de qué están hechas las semillas del ermitaño. No le contestas nada. Igual anota todo.
+
+Lee y Gai te desafían cada mañana a una carrera alrededor de la aldea. Pierden cada mañana. Dan quinientas vueltas de castigo cada mañana.
+
+El séptimo día llega a la puerta principal un hombre enorme, moreno, con anteojos oscuros, siete espadas en la espalda y un pañuelo en la cabeza, haciendo rimas en voz alta. Killer Bee. Trae una carta del Raikage para la Hokage, una disculpa de Karui para Naruto y ganas de conocer "al de los mil golpes y el gato fiel, que dejó a Akatsuki sin papel". Naruto y él se hacen amigos en cinco minutos. En diez, Kurama y el Ocho Colas se están insultando dentro de sus cabezas, y Naruto y Bee se ríen sin que nadie entienda de qué. Bee se va al día siguiente. Antes de irse, te tira una rima sobre tu pelo que hace reír hasta a Itachi.
+
+Neji te encuentra una noche en el techo frente al patio de los Hyūga. No te pregunta qué haces ahí. Se sienta a tu lado un rato, mirando las estrellas, y se va.
+
+A tu casa del borde sur siguen llegando cosas todas las mañanas. Ayame le deja a Kase un platito de cerdo en cubitos en el estante de la ventana. Kase se lo come entero y no le agradece nunca. Ayame vuelve igual al día siguiente.
+
+La noche del noveno día, alguien golpea tu puerta. No fuerte, como Tsunade. Despacio, dos veces, como quien tiene miedo de molestar.
+
+Abres.
+
+Es Naruto. Solo, con las manos en los bolsillos de la chaqueta naranja y la cara seria, mirando el suelo. Detrás, la calle está a oscuras, con las ventanas de las casas nuevas encendidas.
+
+—Oye, Facundo —dice, sin levantar la vista—. Mamá dice que los viajeros siempre se van. Y el Sabio Pervertido dice que tú dijiste "unos días". Y ya pasaron nueve.
+
+Levanta la cara. Tiene los ojos un poco rojos.
+
+—¿Cuándo te vas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1437 · NARUTO · DÍA 9 · 21:14          ║
+║ Konoha · borde sur · tu casa de madera       ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 ryo                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el estante de la ventana            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Naruto)           ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 9 21:14, puerta de la casa de madera de Facundo. Duelo con Sasuke ganado (+75 F, +800 EXP). Simulados Días 5-9 (ver SECRETO sim_dias_5_9_naruto). Naruto en la puerta, solo, ojos un poco rojos: "Mamá dice que los viajeros siempre se van. El Sabio Pervertido dice que tú dijiste unos días. Y ya pasaron nueve. ¿Cuándo te vas?" Facundo tiene que contestar.

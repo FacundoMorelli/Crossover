@@ -28,3 +28,4 @@ QUÉ SABE DE FACUNDO (T1333): dice que aprendió las Puertas mirando a Lee una v
 RELACIÓN CON FACUNDO (T1334): respeto silencioso.
 - T1403 · Con el Byakugan ve las Esferas: "No... no tienen chakra. Y aun así, es lo más... lo más vivo que vi en mi vida." Hinata se agarra de su manga.
 - T1428 · Vivo; no habrá Cuarta Guerra. MISIÓN DE MUNDO CUMPLIDA. No sabe nada; entrena de noche en el patio Hyūga mientras Facundo lo mira desde un techo.
+- T1437 · Una noche encuentra a Facundo en el techo frente al patio Hyūga; se sienta a su lado a mirar las estrellas, sin preguntar nada.

@@ -1,13 +1,13 @@
 {
-  "turno": 1436,
+  "turno": 1437,
   "mundo_actual": "naruto",
-  "fecha_local": "Naruto: Día 5 (cinco días después de llegar; ~cap. 452 + 4 días, canon alterado)",
-  "hora": "Día 5, 06:40",
+  "fecha_local": "Naruto: Día 9",
+  "hora": "Día 9, 21:14",
   "edad": 18,
   "nivel": 30,
-  "exp": 330330,
+  "exp": 331130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 114174,
+  "fragmentos": 114249,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2202,6 +2202,14 @@
       "tipo": "duelo serio (Modo Chakra del Nueve Colas, Rasenshuriken); golpecito en la frente contenido",
       "fragmentos": 75,
       "exp": 800
+    },
+    {
+      "nombre": "Sasuke Uchiha",
+      "mundo": "naruto",
+      "turno": 1437,
+      "tipo": "duelo serio (Susanoo completo, Amaterasu, Kirin); Facundo en UI, contenido",
+      "fragmentos": 75,
+      "exp": 800
     }
   ],
   "viaje": {
@@ -2584,7 +2592,8 @@
     "deseo2_naruto": "T1406: REVIVIDOS (lista del motor; interpretación amplia, sin recortar la intención del jugador): CLAN UCHIHA entero (masacre ordenada por Danzō, ejecutada por Itachi y Obito), con Fugaku y Mikoto, en el barrio Uchiha. SHISUI UCHIHA (Danzō le sacó el ojo; vuelve con sus dos ojos: el de Danzō queda vacío/inerte). ITACHI UCHIHA (murió por la misión de Danzō; incluido por la intención del jugador), SANO, sin la enfermedad, en su casa del barrio Uchiha. JIRAIYA (Pain), en su casa de la colina (sapo de piedra en la puerta). FUKASAKU (Pain), en Myōboku. ASUMA SARUTOBI (Hidan), en el departamento de Kurenai. MINATO NAMIKAZE y KUSHINA UZUMAKI (ataque del Kyūbi provocado por Obito = Akatsuki), en su casa del oeste. Y todas las víctimas del ataque del Kyūbi hace 16 años. YAHIKO (trampa de Hanzō y Danzō), en Amegakure. Los JINCHŪRIKI capturados (Yugito Nii, Yagura, Rōshi, Han, Utakata, Fū), en sus aldeas, SIN sus bijū (siguen en la Estatua). Víctimas de Hidan y Kakuzu, de Deidara, de Sasori, de Kisame, de Pain/Nagato en otras aldeas, de Raíz y Danzō (incluidos huérfanos de Raíz). NO revividos: Nagato (Rinne Tensei, por su mano), Chiyo, Sasori, Deidara, Kakuzu, Hidan (vivo enterrado), Orochimaru, el Tercero (Orochimaru), Zetsu negro, Madara. CORRECCIÓN DEL JUGADOR (T1424): RIN NOHARA TAMBIÉN FUE REVIVIDA por el deseo 2, con la edad de Kakashi y Obito (~30), en su casa de la infancia (dos pisos, calle con faroles, lado sur). Recuerda su muerte (Tres Colas, Chidori de Kakashi, se puso delante) sin dolor, y la voz del gato. Sin el Tres Colas.",
     "deseo3_naruto": "T1407: Estatua del Camino Exterior (Diez Colas) destruida bajo tierra en el noroeste. Bijū devueltos: Shukaku→Gaara (Suna), Matatabi→Yugito Nii (Kumo), Isobu→Yagura (Kiri), Son Gokū→Rōshi (Iwa), Kokuō→Han (Iwa), Saiken→Utakata, Chōmei→Fū (Taki). Ya no hay Diez Colas ni Tsukuyomi Infinito posible.",
     "alba_voz": "T1408: al revivir, cada revivido \"oyó\" una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. (Fuente válida para que los revividos sepan del gato.)",
-    "sim_dias_1_5_naruto": "T1428 (simulación Día 1 noche – Día 5 amanecer): Tsunade renuncia a interrogarlo. Kisame preso bajo Ibiki (Samehada en baúl de hierro); pregunta por Itachi. Zetsu blanco estudiado en cuarto sellado. Kumo: Bee apareció libre; Raikage: \"Que el Uchiha no vuelva a pisar mi país.\" Cumbre suspendida; cartas: Gaara (Shukaku de vuelta), Mei Terumī (Yagura revivido en su despacho con el Tres Colas), Ōnoki (Rōshi y Han de vuelta). Día 3: Gaara visita a Facundo y se inclina. Taka vive con los Uchiha. Naruto vive con Minato y Kushina; Jiraiya al lado. Obito barre el barrio Uchiha (Rin y Kakashi lo acompañan). Día 4: JUICIO: Danzō, prisión de por vida sin chakra; ojos devueltos al clan; Homura y Koharu fuera del consejo; Raíz disuelta; Obito sellado al servicio de la aldea; Uchiha reintegrados (policía y consejo); Fugaku confiesa el golpe. Noche del Día 4: acuerdo de paz de los cinco Kages → no habrá Cuarta Guerra."
+    "sim_dias_1_5_naruto": "T1428 (simulación Día 1 noche – Día 5 amanecer): Tsunade renuncia a interrogarlo. Kisame preso bajo Ibiki (Samehada en baúl de hierro); pregunta por Itachi. Zetsu blanco estudiado en cuarto sellado. Kumo: Bee apareció libre; Raikage: \"Que el Uchiha no vuelva a pisar mi país.\" Cumbre suspendida; cartas: Gaara (Shukaku de vuelta), Mei Terumī (Yagura revivido en su despacho con el Tres Colas), Ōnoki (Rōshi y Han de vuelta). Día 3: Gaara visita a Facundo y se inclina. Taka vive con los Uchiha. Naruto vive con Minato y Kushina; Jiraiya al lado. Obito barre el barrio Uchiha (Rin y Kakashi lo acompañan). Día 4: JUICIO: Danzō, prisión de por vida sin chakra; ojos devueltos al clan; Homura y Koharu fuera del consejo; Raíz disuelta; Obito sellado al servicio de la aldea; Uchiha reintegrados (policía y consejo); Fugaku confiesa el golpe. Noche del Día 4: acuerdo de paz de los cinco Kages → no habrá Cuarta Guerra.",
+    "sim_dias_5_9_naruto": "T1437 (simulación Día 5–9): duelo con Sasuke (Susanoo completo, Amaterasu, Kirin; Facundo deshace el Susanoo con la mano). Kakashi llega a horario por primera vez. Obito barre; un nene le lleva agua; Rin le venda las manos. Jiraiya escribe \"El Viajero del Gato\" (Tsunade lo tira por la ventana; Kakashi lo rescata). Sakura investiga las semillas. Lee y Gai: carreras diarias perdidas. Día 7-8: Killer Bee visita Konoha (carta del Raikage, disculpa de Karui); amistad con Naruto; Kurama y Gyūki se insultan. Neji se sienta junto a Facundo en un techo una noche. Ayame alimenta a Kase. Día 9 noche: Naruto pregunta cuándo se va."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

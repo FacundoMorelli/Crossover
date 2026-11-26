@@ -59,3 +59,4 @@ PODER VISTO POR FACUNDO (T1433): Multiclones de Sombra, Modo Sabio, Rasengan. MI
 COPIADO POR FACUNDO (T1435). Naruto no lo sabe.
 ESTADO: Modo Chakra del Nueve Colas (manto dorado) activo; relación con Kurama: ya no enemigos.
 - T1436 · Duelo con el manto dorado: rayo naranja, brazos de chakra, "¡Estilo Viento: Rasenshuriken!" (Facundo lo atrapa y lo apaga). Golpecito en la frente: vuela, atraviesa un árbol, cae de espaldas, se le apaga el manto. Se ríe: "¡Kurama dice que eres un monstruo! ¡Que en cien años nunca vio nada igual! ¡Y que la próxima vez le deje el cuerpo a él!" PERDIÓ el duelo.
+- T1437 · Se hace amigo de Killer Bee (Kurama y Gyūki se insultan). Día 9 noche, en la puerta de Facundo: "Mamá dice que los viajeros siempre se van. Y el Sabio Pervertido dice que tú dijiste unos días. Y ya pasaron nueve. ¿Cuándo te vas?"

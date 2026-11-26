@@ -106,3 +106,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1427 · Por iniciativa propia, se sube al pecho de Obito (sellado, en el futón), lo huele y se echa a dormir encima. Obito le apoya la mano en el lomo; Kase no se va.
 - T1428 · Vuelve al hombro de Facundo al salir de la Torre (noche Día 1). Se acostumbra al estante de la ventana de la casa de madera.
 - T1431 · Salta del tercer poste en el último segundo antes de que Tsunade parta los postes.
+- T1437 · Come cada mañana el cerdo de Ayame en el estante; nunca le agradece.
