@@ -20,3 +20,6 @@ PODER VISTO POR FACUNDO: taijutsu (Remolino de la Hoja), T1325-1326. Misión de 
 - T1328 · Su Huracán de la Hoja es parado con los dedos, sin que Facundo se dé vuelta. Llora de emoción. "Gai-sensei. Por favor. Las Puertas." Abre la Primera Puerta (de la Apertura).
 - T1329 · "¡Diecisiete! ¡Y gracias! ¡Que alguien como tú diga eso es el honor más grande de mi vida! ¡Bueno, el segundo!" Abre la Segunda (Descanso) y la Tercera (Vida). "Facundo-san. ¡Ahí voy!"
 RELACIÓN CON FACUNDO (T1329): admiración enorme.
+- T1330 · Tercera Puerta: Danza de la Sombra de la Hoja, ~70 golpes en el aire, Flor de Loto Oculta sobre Facundo, que no se defiende. Facundo queda sin un rasguño. Lee, agotado en el suelo, humeando: "Facundo-san... ¿Sentiste... algo?"
+COPIADO POR FACUNDO: taijutsu y Ocho Puertas (T1330). Lee no lo sabe.
+ESTADO: agotado por las Puertas (T1330).

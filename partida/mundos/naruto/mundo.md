@@ -13,3 +13,4 @@ MISIÓN DE MUNDO: Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra
 - T1320 · Terreno del borde sur (4 casas) limpio en 10 minutos por Facundo (Hana Hana no Mi). Objetos personales apartados en una tabla.
 - T1321 · 4 casas nuevas en el borde sur (Mokuton de Yamato) gracias al terreno limpio.
 - T1322 · Casa chica de madera para Facundo en el borde sur (Yamato).
+- T1330 · Pozo de dos metros en la pendiente del borde este (Flor de Loto Oculta de Lee contra Facundo).

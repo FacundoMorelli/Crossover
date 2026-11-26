@@ -1,11 +1,11 @@
 {
-  "turno": 1329,
+  "turno": 1330,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 09:29",
+  "hora": "Día 1, 09:30",
   "edad": 18,
   "nivel": 29,
-  "exp": 295380,
+  "exp": 295680,
   "exp_siguiente_nivel": 320000,
   "fragmentos": 111957,
   "plata_local": {
@@ -1101,6 +1101,21 @@
         "Dominio total e inmediato",
         "Yamato conserva el suyo"
       ]
+    },
+    {
+      "poder": "Taijutsu y Ocho Puertas Internas de Rock Lee",
+      "de": "Rock Lee",
+      "mundo": "naruto",
+      "cuando": "T1330, borde este del cráter de Konoha, Día 1 09:30",
+      "mision": "Que Lee abra las Puertas peleando contra ti y te alcance con la Flor de Loto Oculta (cumplida: Tercera Puerta, Danza de la Sombra de la Hoja, ~70 golpes, Flor de Loto Oculta; Facundo sin un rasguño)",
+      "incluye": [
+        "Taijutsu completo de Lee (Remolino y Huracán de la Hoja, Danza de la Sombra, Flor de Loto Primaria y Oculta)",
+        "Ocho Puertas Internas hasta la Octava y todo lo de su canon (R2)",
+        "Puño Ebrio",
+        "Sin desgaste ni daño del cuerpo, sin muerte por la Octava Puerta (sin condiciones)",
+        "Dominio total e inmediato",
+        "Lee conserva el suyo"
+      ]
     }
   ],
   "misiones_de_copia_activas": [
@@ -1481,14 +1496,6 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
-    },
-    {
-      "poder": "Taijutsu y Ocho Puertas Internas",
-      "usuario": "Rock Lee",
-      "mundo": "naruto",
-      "mision": "Que Lee abra las Puertas peleando contra Facundo y lo alcance con la Flor de Loto Oculta.",
-      "dificultad": "BAJA",
-      "emitida": "T1326"
     }
   ],
   "misiones_de_copia_rechazadas": [],

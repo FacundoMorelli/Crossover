@@ -20,3 +20,5 @@ QUÉ PODERES DE FACUNDO VIO (T1326): paró el Remolino de la Hoja con una mano s
 - T1327 · "Va más rápido que en el examen. Mucho más."
 - T1328 · "Neji." Autoriza las Puertas: "Hasta la quinta, Lee. Ni una más. Estamos en medio de la aldea."
 - T1329 · Llora en silencio cuando Facundo dice que está impresionado con Lee. "¡LEE!"
+- T1330 · Cuenta los golpes ("¡SETENTA!"). Va junto a Lee tirado; le toca la frente sin dejar de mirar a Facundo.
+QUÉ PODERES DE FACUNDO VIO (T1330): recibió la Flor de Loto Oculta con la Tercera Puerta sin un rasguño.

@@ -19,3 +19,4 @@ ESTADO: activo.
 - T1326 · "No. Nada. Ni en la mano, ni en los pies, ni en ningún lado. Lo paró con el cuerpo."
 QUÉ PODERES DE FACUNDO VIO (T1326): fuerza física enorme sin chakra visible.
 - T1328 · "Otra vez nada. No usa chakra. No se dio vuelta. No sé cómo supo dónde iban a caer."
+- T1330 · Mudo, mandíbula apretada, Byakugan encendido, con Kase al lado en la viga.
