@@ -1,8 +1,8 @@
 {
-  "turno": 1404,
+  "turno": 1405,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 15:11",
+  "hora": "Día 1, 15:13",
   "edad": 18,
   "nivel": 29,
   "exp": 306730,
@@ -643,7 +643,7 @@
     {
       "objeto": "Esferas de Alba (Esferas del Dragón de Konoha)",
       "cantidad": 7,
-      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: ALBA (nombre puesto por el motor a pedido del jugador, T1404): cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo carmesí y ojo azul hielo; cubre todo el cielo del cráter. \"No hay nada en este mundo que no pueda hacer.\" 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha. T1404: invocado en el centro del cráter ante todo Konoha.",
+      "detalle": "Creadas por Facundo (T1403, Día 1 15:10, centro del cráter de Konoha) con el poder de Dende, con todo su poder, a partir de 7 piedras de río traídas por Shizune. Cristal naranja profundo con una estrella roja adentro (1 a 7); calor suave como fogata. Dragón: ALBA (nombre puesto por el motor a pedido del jugador, T1404): cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo carmesí y ojo azul hielo; cubre todo el cielo del cráter. \"No hay nada en este mundo que no pueda hacer.\" 3 deseos por invocación; tras usarse vuelven a piedras inactivas un año. Flotando frente a Facundo, a la vista de todo Konoha. T1404: invocado en el centro del cráter ante todo Konoha. DESEO 1 (T1405): reconstruir en todo el mundo lo que fue destruido — cumplido (Konoha entera, Torre del Hokage, Ichiraku, monumento; la ola de luz siguió por todo el mundo).",
       "mundo": "naruto"
     }
   ],
@@ -2545,7 +2545,8 @@
     "danzo_naruto": "T1334: Danzō se enteró de que Tsunade despertó (reunión de las 09:30 con Homura y Koharu; fue sin que lo llamaran). Raíz ya le informó los rumores del forastero (brazos, semillas, Lee). Quiere evaluarlo y, si sirve, reclutarlo o eliminarlo. Su designación como Sexto queda en disputa: el Señor Feudal lo nombró porque la Hokage estaba incapacitada. T1338: Facundo preguntó por su brazo derecho: Danzō sabe ahora que el forastero sospecha o sabe algo del brazo; lo considera amenaza prioritaria. Raíz lo sigue (2 agentes, rotan). Danzō parte mañana (Día 2) al País del Hierro. T1346: Danzō inconsciente y arrestado por orden de Tsunade (sellos de supresión, vendas en los Sharingan, bajo Ibiki). No usó Izanagi (no murió). El ojo de Shisui sigue bajo la venda. Raíz entero bajo guardia de la Hokage.",
     "bee_naruto": "Killer Bee NO fue capturado: escapó dejando un tentáculo del Hachibi (canon). Kumo cree que sí. Tobi lo sabe.",
     "tobi_naruto": "T1365: Tobi (Obito) inconsciente en la cueva del norte, con la máscara puesta. Zetsu negro salió antes (T1363) y no vio la derrota (o la vio desde la pared: sin confirmar; motor: no la vio). Sasuke quiere sacarle la máscara.",
-    "zetsu_naruto": "Zetsu negro es la voluntad de Kaguya (canon). En T1363 Tobi lo mandó a averiguar sobre Facundo: se metió en un árbol del borde norte de Konoha a espiar el campamento. Vio, desde lejos, el movimiento en la carpa de mando y a Sasuke cruzar el campamento. T1391: Zetsu negro MIENTE: dice ser \"la voluntad de Madara\" (canon: es la voluntad de Kaguya Ōtsutsuki, su hija/creación). Dice la verdad sobre el Ojo de la Luna, la Estatua (Gedō Mazō) con 7 bijū y que solo él sabe dónde está ahora. Intenta tentar a Facundo para que despierte al Diez Colas (y así liberar a Kaguya). T1393: ZETSU NEGRO DESTRUIDO por el Eclipse de Facundo (última palabra: \"Madre...\"). Sin él, Kaguya no puede ser liberada por su vía; nadie más sabe del plan de Kaguya."
+    "zetsu_naruto": "Zetsu negro es la voluntad de Kaguya (canon). En T1363 Tobi lo mandó a averiguar sobre Facundo: se metió en un árbol del borde norte de Konoha a espiar el campamento. Vio, desde lejos, el movimiento en la carpa de mando y a Sasuke cruzar el campamento. T1391: Zetsu negro MIENTE: dice ser \"la voluntad de Madara\" (canon: es la voluntad de Kaguya Ōtsutsuki, su hija/creación). Dice la verdad sobre el Ojo de la Luna, la Estatua (Gedō Mazō) con 7 bijū y que solo él sabe dónde está ahora. Intenta tentar a Facundo para que despierte al Diez Colas (y así liberar a Kaguya). T1393: ZETSU NEGRO DESTRUIDO por el Eclipse de Facundo (última palabra: \"Madre...\"). Sin él, Kaguya no puede ser liberada por su vía; nadie más sabe del plan de Kaguya.",
+    "deseo1_naruto": "T1405: Reconstrucción mundial de lo destruido: Konoha como antes de Pain; todo lo destruido por Akatsuki y conflictos en el mundo (Amegakure, Suna dañada por Deidara, aldeas de jinchūriki, etc.). Las casas de madera de Yamato quedan donde estaban (se acoplaron a las calles). La casa de Facundo sigue en el borde sur, ahora una calle más."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

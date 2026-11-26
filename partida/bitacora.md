@@ -1403,3 +1403,4 @@ T1401 · NARUTO · Tarima del centro del cráter · "A todos." Pide hablarle a l
 T1402 · NARUTO · Tarima · Discurso: revivirá a los muertos por Akatsuki y Danzō, de verdad, y reconstruirá la aldea; no le deben nada. Silencio; estalla la multitud. Un jōnin de barba: "¡¿Cómo piensas hacerlo?!"
 T1403 · NARUTO · Centro del cráter · "Quiero que lo miren. Todos." Crea 7 Esferas del Dragón con todo su poder ante Konoha (naranja, estrellas rojas). Temblor en todo el cráter. Neji: "lo más vivo que vi en mi vida." Energía 81%.
 T1404 · NARUTO · Centro del cráter · "¡Sal, Alba!" Surge el dragón Alba sobre todo Konoha (ojo rojo y ojo azul). "Pide tres deseos. No hay nada en este mundo que no pueda hacer."
+T1405 · NARUTO · Konoha reconstruida · DESEO 1: reconstruir en todo el mundo lo destruido. Konoha entera otra vez (Torre, Ichiraku, monumento). "Mamá, es nuestra casa." Alba: "Pide el segundo."

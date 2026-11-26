@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1402)
-
-Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
-
-## RESPUESTA 1 (T1402)
-
-> Me llamo Facundo Morelli, soy un viajero, hoy desmantele a akatsuki, ustedes perdieron mucho en todo esto, y muchos creen que no pueden recuperarlo, pero no es asi, toda la aldea destruida, todos los muertos por akatsuki, por danzo, etc, van a revivir, y no con el edo tensei, van a revivir real, como personas reales sin problemas, van a recordar todo, no va a cambiar nada de ellos y por las dudas aclaro esto, no quiero que piensen que me deben nada, lo hago por que me gusta ayudar, eso es todo
-
-> —Me llamo Facundo Morelli. Soy un viajero. Hoy desmantelé a Akatsuki. Ustedes perdieron mucho en todo esto, y muchos creen que no lo pueden recuperar. Pero no es así. Toda la aldea destruida va a volver. Todos los muertos por Akatsuki, por Danzō, todos, van a revivir. Y no con el Edo Tensei: van a revivir de verdad, como personas reales, sin problemas. Van a recordar todo, no va a cambiar nada de ellos. Y por las dudas aclaro una cosa: no quiero que piensen que me deben nada. Lo hago porque me gusta ayudar. Eso es todo.
-
-El silencio dura mucho.
-
-Tanto que se oye el viento entre los árboles partidos del borde del cráter. Tanto que un chico subido a los hombros de su padre le pregunta en voz baja qué dijo el señor, y el padre no le contesta.
-
-Nadie se mueve. Nadie aplaude. Nadie grita.
-
-Después, desde algún lugar del medio de la multitud, una mujer mayor deja caer al suelo el balde que tenía en la mano. El ruido del metal rebota en todo el cráter.
-
-—Mi hijo —dice, no muy fuerte, pero en el silencio se oye en todos lados—. Mi hijo murió en la Tercera Guerra. Lo mató... lo mató uno de esos de las capas, cuando...
-
-No termina. Se tapa la cara.
-
-Y eso rompe algo.
-
-Un murmullo, primero. Después una voz, después otra, después cientos al mismo tiempo, que se pisan, que se cruzan. Alguien grita un nombre. Otro grita otro. Un ninja con muletas se sienta en el suelo de golpe y se pone a llorar como un chico. Un viejo de la primera fila se agarra del brazo del que tiene al lado. Hay gente que se ríe, gente que llora, gente que no entiende y pregunta, gente que mira a los demás para ver si es verdad.
-
-En la primera fila, Naruto se lleva las dos manos a la cabeza. No dice nada. Le tiemblan los hombros.
-
-Sakura le agarra el brazo a Naruto sin darse cuenta.
-
-Hiashi Hyūga, el hombre de ojos blancos, no se mueve, pero se le va la mirada, muy despacio, hacia Neji, que está a su lado.
-
-Kakashi, al frente de todo, se baja la banda del ojo izquierdo y se queda mirando el suelo.
-
-Sasuke no se mueve. Te mira desde abajo, con los brazos cruzados, y por primera vez desde que lo conoces, se le moja el ojo.
-
-Tsunade, al pie de la tarima, levanta otra vez la mano para pedir silencio. No le hacen caso. Tarda un rato largo en que la multitud se vuelva a calmar, y cuando lo consigue, no es del todo. Queda un murmullo bajo, tembloroso, lleno de nombres.
-
-Entre la gente, un jōnin de barba se abre paso hasta la primera fila. Te señala con el dedo, con la cara dura.
-
-—¡Eso es fácil de decir! —grita—. ¡Pain también dijo que traía la paz! ¡¿Cómo?! ¡¿Cómo piensas hacerlo?!
-
-Detrás de él, mil caras te miran. Esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1402 · NARUTO · DÍA 1 · 15:08          ║
-║ Konoha · centro del cráter · sobre la tarima ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Hablarle a la aldea                ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1403)
+## COMANDO 1 (T1403)
 
 quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
 
-## RESPUESTA 2 (T1403)
+## RESPUESTA 1 (T1403)
 
 > quiero que lo miren, todos, me acerco a las 7 piedras y creo las esferas del dragon con todo mi poder
 
@@ -127,11 +66,11 @@ Neji desactiva el Byakugan. Le tiembla la voz.
 
 ---
 
-## COMANDO 3 (T1404)
+## COMANDO 2 (T1404)
 
 cereale vos el nombre, sal (el nombre que le pongas)
 
-## RESPUESTA 3 (T1404)
+## RESPUESTA 2 (T1404)
 
 > cereale vos el nombre, sal (el nombre que le pongas)
 
@@ -180,4 +119,73 @@ Cuando habla, la voz no sale de su boca. Sale del aire, del suelo, de todas part
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:11, centro del cráter. Facundo: "¡Sal, Alba!" (nombre del motor, a pedido). El cielo se oscurece; surge ALBA: cuernos nacarados, melena de fuego naranja, escamas doradas, ojo rojo y ojo azul; cubre el cráter entero. Kase lo reconoce. Konoha aterrada y maravillada. Alba: "Yo soy Alba... Pide tres deseos, y los cumpliré. Cualquiera. No hay nada en este mundo que no pueda hacer." Facundo tiene que pedir los deseos.
+## COMANDO 3 (T1405)
+
+Primero, deseo que reconstruyas todo el mundo lo que fue destruido
+
+## RESPUESTA 3 (T1405)
+
+> Primero, deseo que reconstruyas todo el mundo lo que fue destruido
+
+> —Primero: deseo que reconstruyas en todo el mundo lo que fue destruido.
+
+Los ojos de Alba se encienden.
+
+—ES FÁCIL.
+
+No hace ningún gesto. No ruge. Solo cierra los ojos, una vez, despacio.
+
+Y el cráter se llena.
+
+Empieza en el fondo. Las piedras sueltas, las tejas rotas, las vigas partidas que quedaban entre los escombros se levantan del suelo solas, como hojas que suben con el viento, y vuelan cada una a su lugar. Se juntan en el aire. Las paredes se arman ladrillo por ladrillo. Los techos se cierran teja por teja, rojos, verdes, azules. Las calles se empedran solas bajo los pies de la gente, que da saltos hacia atrás y grita.
+
+La ola sube por las paredes del cráter y lo va borrando. Donde había un pozo, hay una calle. Donde había una carpa, hay una casa, con su puerta, su ventana, su maceta en el alféizar. El letrero de la tienda de ramen, el que tus brazos dejaron apoyado contra un poste, sale volando, se acomoda solo sobre una puerta de madera con cortinas nuevas y se queda ahí, derecho, con la palabra ICHIRAKU en letras rojas.
+
+Teuchi, entre la multitud, se cae de rodillas.
+
+En el centro, donde estaba la tarima, la tierra se levanta y crece en una torre redonda, roja, con un techo inclinado y el kanji del Fuego pintado en la fachada. Las ventanas se encienden por dentro. La Torre del Hokage.
+
+Los árboles partidos del borde norte se enderezan, crujiendo, y les brotan hojas verdes.
+
+Sobre el monumento, los cinco rostros de piedra dejan de soltar polvo. Las grietas de las mejillas se cierran solas.
+
+Y la ola no se detiene en el borde. Sigue. Se pierde de vista por encima del bosque, hacia el norte, hacia el sur, hacia todos lados a la vez, más allá de donde alcanza la vista, como una marea de luz dorada que se va por el mundo arreglando cosas que nadie desde aquí va a ver.
+
+En un minuto, todo termina.
+
+Konoha está entera. Las calles, las casas, los techos, la torre, los puentes, los postes de luz, las tiendas. Como si Pain no hubiera venido nunca. La gente está de pie en medio de las calles, en el mismo lugar donde estaba parada hace un minuto, pero ahora frente a su casa, o a la del vecino, o adentro del local donde trabajaba. Hay un perro que ladra en un techo y no sabe cómo bajar.
+
+Nadie grita. Nadie habla. Se miran entre ellos.
+
+Una nena, en la primera fila, de la mano de su madre, señala una casa con techo azul a la derecha de la torre.
+
+—Mamá. —Lo dice muy bajito—. Es nuestra casa.
+
+La madre se pone a llorar.
+
+Naruto, sentado en la calle empedrada donde un minuto antes estaba la tierra del cráter, mira a su alrededor sin cerrar la boca. Detrás de él, al final de una calle, hay un edificio de departamentos de tres pisos con una ventana del último piso abierta y una planta en el alféizar.
+
+—Mi departamento —dice—. Está mi departamento.
+
+Alba abre los ojos.
+
+—CUMPLIDO. —Mira a todos, y después solo a ti—. PIDE EL SEGUNDO.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1405 · NARUTO · DÍA 1 · 15:13          ║
+║ Konoha · calle frente a la Torre del Hokage  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 81% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Pedir el segundo deseo             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 15:13. DESEO 1 CUMPLIDO: Alba reconstruyó en todo el mundo lo destruido. Konoha entera otra vez (calles, casas, Torre del Hokage en el centro donde estaba la tarima, Ichiraku con su letrero, monumento sin grietas, árboles del norte enderezados); la ola de luz siguió por el mundo. La gente frente a sus casas, en silencio. Una nena: "Mamá. Es nuestra casa." Naruto: "Está mi departamento." Alba: "Cumplido. Pide el segundo." Facundo tiene que pedir el segundo deseo.
