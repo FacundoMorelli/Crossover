@@ -33,3 +33,5 @@ QUÉ SABE (T1369): por Facundo, podría revivir a Itachi y al clan, no ahora.
 - T1370 · Facundo lo invita a ir con él (a Konoha). Guarda la máscara de Tobi en la cintura. "Hace tres años me fui de Konoha para matar a Itachi. Lo maté..." "No te creo. Todavía no." "Pero voy." Condición: "Cuando lleguemos a Konoha, quiero ver a los dos viejos del consejo. Homura y Koharu... Quiero que me lo digan a la cara." Apaga el Sharingan.
 INVENTARIO: máscara de Tobi en la cintura.
 RELACIÓN CON FACUNDO (T1370): desconfianza, pero lo sigue.
+- T1371 · Le ordena a Karin quedarse. Se deja tocar el hombro por Facundo (tenso). Llega a la carpa de la colina, frente a Tsunade. Rígido, mano sana cerca de la espada. No dice nada.
+ESTADO: en Konoha (carpa de la colina), T1371.

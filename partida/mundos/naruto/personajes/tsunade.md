@@ -38,3 +38,5 @@ RELACIÓN CON FACUNDO (T1346): respeto total.
 - T1347 · Sobre Naruto: "Un mocoso escandaloso, maleducado, que come ramen tres veces al día y me dice 'abuela' delante de todo el mundo... Salvó la aldea entera, solo, mientras yo dormía."
 - T1348 · Le cuenta a Naruto lo que hizo Facundo. "¡¿Cómo que vieja?!"
 - T1349 · "Primero yo... Así que haz fila, mocoso." "Pero no hoy." Tareas: carta al Señor Feudal, sacar a Raíz del campamento, decidir quién va a la Cumbre. "Naruto, quédate con él. Muéstrale la aldea." "Esta noche te quiero en la carpa de mando. Hay cosas que necesito preguntarte, y no delante de todo el campamento."
+- T1371 · 13:00 · Sola en la carpa de la colina, escribiendo la carta al Señor Feudal, con sake. Facundo aparece con Obito al hombro y Sasuke. Se le cae el pincel. "Facundo. Dime que no me trajiste a la carpa a quien creo que me trajiste."
+QUÉ SABE (T1371): ve a Sasuke Uchiha (renegado) y a un hombre con capa de Akatsuki inconsciente.

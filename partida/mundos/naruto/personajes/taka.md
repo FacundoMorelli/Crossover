@@ -17,3 +17,5 @@ ESTADO: activos.
 - T1367 · Suigetsu: "Sasuke, creo que te tomaron el pelo de una forma que ni siquiera tiene nombre." Karin: "Cállate, Suigetsu." Jūgo baja la mirada.
 - T1368 · Karin: "Hace dos días, alguien revivió a media Konoha. Lo dijo Zetsu. Pain. Antes de morir. Los trajo a todos de vuelta. Con su voluntad, con todo. Vivos."
 - T1370 · Suigetsu: "Sasuke es un renegado... Si pone un pie en Konoha, lo cuelgan. Y a nosotros con él." Karin: "No lo van a colgar. ¿No?" Jūgo espera y se pone de pie detrás de Sasuke cuando él acepta.
+- T1371 · Se quedan en la cueva del norte por orden de Sasuke ("Karin. Quédate."). Suigetsu: "Si en una hora no vuelven, me voy a buscar a Kisame y le digo que todo esto fue idea de ustedes."
+ESTADO: en la cueva del norte, esperando.

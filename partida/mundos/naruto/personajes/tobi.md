@@ -28,3 +28,5 @@ ESTADO: INCONSCIENTE en la cueva del norte, máscara puesta, hombro izquierdo at
 - T1366 · Sasuke le quita la máscara (corta la correa con un Chidori del dedo). Cara: ~30 años, pelo negro corto; mitad izquierda lisa con el ojo izquierdo cerrado y hundido (vacío); mitad derecha llena de cicatrices en relieve; Sharingan en el derecho. Karin: chakra Uchiha mezclado con "algo como madera".
 FÍSICO REVELADO (T1366).
 - T1367 · Identidad dicha en voz alta por Facundo ante Taka: Obito Uchiha. Máscara en el suelo junto a su cara.
+- T1371 · Facundo lo carga al hombro y lo lleva inconsciente a la carpa de la colina, ante Tsunade.
+ESTADO: inconsciente, en Konoha (T1371).

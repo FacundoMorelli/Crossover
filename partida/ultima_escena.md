@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1368)
-
-No, tu hermano queria evitar la guerra civil y protegerte a ti, una pregunta sasuke, si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, que harias?
-
-## RESPUESTA 1 (T1368)
-
-> No, tu hermano queria evitar la guerra civil y protegerte a ti, una pregunta sasuke, si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, que harias?
-
-> —No. Tu hermano quería evitar la guerra civil y protegerte a ti. —Haces una pausa—. Una pregunta, Sasuke. Si hubiera una forma de revivir a tu hermano y a los que fueron asesinados, ¿qué harías?
-
-Sasuke se queda quieto.
-
-La primera parte la recibe como un golpe que ya esperaba. Cierra los ojos un segundo. Las aspas se le apagan detrás de los párpados. Cuando los vuelve a abrir, siguen ahí, pero más quietas.
-
-—Entonces eso era verdad —dice, muy bajo—. Lo único que era verdad.
-
-Después le llega la segunda parte.
-
-Lo ves entrar en su cara despacio, como agua que se filtra por una grieta. Primero no entiende. Después entiende. Y lo que le cruza los ojos no es esperanza: es rabia, de golpe, fría y filosa.
-
-—No juegues con eso.
-
-Da un paso hacia ti. La muñeca lastimada le tiembla contra el pecho, pero no le importa.
-
-—Hay una técnica prohibida que trae a los muertos. Orochimaru la usó en el Tercero. Trae cáscaras. Cuerpos sin voluntad, atados al que los invoca. —Le sale la voz cada vez más dura—. Si me estás hablando de eso, te juro que...
-
-Se le corta la voz. Se queda mirándote. Mira a Obito tirado en el suelo, con la cara al aire. Mira el lugar donde estaba Danzō hasta hace un rato, en su cabeza, y donde ya no está.
-
-Todo lo que hiciste hoy, delante de él, en menos de cinco minutos.
-
-—Hace dos días, alguien revivió a media Konoha —dice Karin en voz baja, detrás de él, casi sin animarse—. Lo dijo Zetsu. Pain. Antes de morir. Los trajo a todos de vuelta. Con su voluntad, con todo. Vivos.
-
-Sasuke no se da vuelta para mirarla. Pero la escuchó.
-
-Se queda un rato largo en silencio. Las antorchas tiemblan contra la roca. El agua gotea.
-
-—Si eso existiera —dice al fin, sin ningún tono, como si las palabras le pesaran tanto que no pudiera darles forma—. Si mi madre, mi padre, mi clan... si Itachi pudiera volver. No como cáscara. Vivo.
-
-Aprieta el puño sano.
-
-—No habría nada que no hiciera.
-
-Levanta los ojos hacia ti.
-
-—¿Puedes hacerlo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1368 · NARUTO · DÍA 1 · 12:55          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a Tobi                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1369)
+## COMANDO 1 (T1369)
 
 Podria hacerlo, no ahora, pero podria
 
-## RESPUESTA 2 (T1369)
+## RESPUESTA 1 (T1369)
 
 > Podria hacerlo, no ahora, pero podria
 
@@ -115,11 +52,11 @@ Da un paso hacia ti.
 
 ---
 
-## COMANDO 3 (T1370)
+## COMANDO 2 (T1370)
 
 Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
 
-## RESPUESTA 3 (T1370)
+## RESPUESTA 2 (T1370)
 
 > Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
 
@@ -166,4 +103,63 @@ Suigetsu se lleva las manos a la cabeza. Karin suelta el aire que tenía guardad
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:58, cueva de Akatsuki. Facundo no pide nada; va a llevar a Obito a Konoha y después irá por Zetsu; invita a Sasuke. Suigetsu: "si pone un pie en Konoha, lo cuelgan". Sasuke guarda la máscara de Tobi en la cintura. "No te creo. Todavía no. Pero voy." Condición: en Konoha quiere ver a Homura y Koharu, "que me lo digan a la cara". Jūgo y Karin lo siguen. Facundo tiene que contestar.
+## COMANDO 3 (T1371)
+
+esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
+
+## RESPUESTA 3 (T1371)
+
+> esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
+
+> —Está bien. Ustedes quédense aquí por ahora. Solo voy con Sasuke.
+
+—¿Qué? —Karin da un paso adelante—. ¡No! Si Sasuke va, yo...
+
+—Karin. —Sasuke no se da vuelta—. Quédate.
+
+Karin se queda con la boca abierta. Después la cierra. Jūgo le pone una mano grande en el hombro, sin decir nada. Suigetsu se vuelve a sentar en el suelo con un suspiro largo.
+
+—Genial. Nos quedamos cuidando una cueva vacía. Si en una hora no vuelven, me voy a buscar a Kisame y le digo que todo esto fue idea de ustedes.
+
+Te agachas junto a Obito y te lo cargas al hombro, como un saco. Pesa poco para lo que es. La capa negra con nubes rojas le cuelga, el brazo herido se le balancea. Kase te salta al otro hombro sin que lo llames.
+
+Le apoyas a Sasuke la mano libre en el hombro. Él se tensa bajo los dedos, pero no se aparta.
+
+Te llevas dos dedos a la frente y buscas.
+
+La encuentras enseguida: una presencia fuerte, cálida y cansada, sola, al borde de un cráter muy lejos al sur.
+
+La cueva desaparece.
+
+Aparece una carpa. La de la colina, la de esta mañana, con el futón doblado en un rincón y olor a tinta fresca. Tsunade está sentada en el suelo, detrás de una mesa baja, con el abrigo de Hokage sobre los hombros, una botella de sake a medio tomar al lado del codo y un pergamino largo a medio escribir delante. Tiene el pincel levantado.
+
+Levanta la vista.
+
+Te ve a ti. Ve al hombre de la cara llena de cicatrices colgado de tu hombro, con la capa de Akatsuki. Y ve, a tu lado, a un muchacho de pelo negro, con una capa negra y blanca, una máscara naranja metida en el cinturón y los ojos negros clavados en ella.
+
+El pincel se le cae de los dedos. Deja una mancha de tinta en medio del pergamino.
+
+Sasuke no dice nada. Se queda parado, rígido, con la mano sana cerca de la empuñadura de la espada.
+
+Tsunade no grita. No se levanta. Se queda mirándolos a los tres, uno por uno, muy despacio. Cuando por fin habla, la voz le sale baja, controlada, como la de alguien que se obliga a no romper la mesa.
+
+—Facundo. —Mira a Sasuke. Mira al hombre de tu hombro—. Dime que no me trajiste a la carpa a quien creo que me trajiste.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1371 · NARUTO · DÍA 1 · 13:00          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Llevar a Obito a Konoha            ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:00, carpa de la colina. Taka (Suigetsu, Karin, Jūgo) se quedó en la cueva del norte. Facundo se teletransportó con Obito al hombro, Sasuke y Kase hasta Tsunade, sola, escribiendo la carta al Señor Feudal (sake al lado). Se le cae el pincel. Sasuke rígido, mano cerca de la espada. Tsunade: "Facundo. Dime que no me trajiste a la carpa a quien creo que me trajiste." Facundo tiene que contestar.
