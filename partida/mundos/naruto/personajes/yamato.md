@@ -41,3 +41,4 @@ COPIADO POR FACUNDO: Mokuton completo (T1322). Yamato no lo sabe.
 - T1341 · Llega a la carpa de mando; se le borra la sonrisa. Mira a Facundo un instante. Va con Tsunade por Danzō.
 - T1342 · Reconoce la cara del hombro de Danzō: "Es... la del Primero." Atrapa a tres de Raíz con raíces.
 - T1343 · Sus tres atrapados quedan dormidos colgando de las raíces.
+- T1399 · Queda en la carpa de la colina custodiando a Obito (orden de Tsunade).

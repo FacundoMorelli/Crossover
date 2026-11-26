@@ -47,3 +47,4 @@ QUÉ SABE (T1375): por Facundo, Obito era el líder de Akatsuki, "Madara"/Tobi, 
 - T1377 · "Madara lo encontró. Lo sacó de debajo de la roca. Lo curó. Y después..."
 - T1378 · "Hokage-sama. Cuando despierte, quiero estar aquí."
 - T1379 · "Es así. Sin el ojo abierto no puedo usar el Kamui. Ni siquiera puedo apuntar." Se queda con Obito. Cruza una mirada muda con Sasuke.
+- T1399 · Deja a Yamato con Obito; se ubica atrás de todos en la reunión, banda bajada.

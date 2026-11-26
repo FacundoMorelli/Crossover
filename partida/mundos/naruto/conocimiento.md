@@ -142,3 +142,7 @@
 - Todos en la carpa de mando · T1396 · por Facundo: mató a la mitad negra de Zetsu porque intentó meterse en su gato; "el que ataca a mi familia está muerto".
 - Todos en la carpa de mando · T1397 · por Facundo: destruirá la Estatua, devolverá las bestias a sus jinchūriki y revivirá a todos los muertos por Danzō y Akatsuki.
 - Todos en la carpa de mando · T1398 · por Facundo: revivirá a todos (Uchiha incluidos) y reconstruirá todo lo destruido, incluida la aldea.
+- Todo el campamento · T1399 · se reúne en el centro del cráter por orden de la Hokage, a pedido del forastero. Ven siete piedras en el suelo frente a él.
+- Naruto · T1399 · ve a Sasuke en Konoha (Facundo presente, como pidió).
+- Sakura y otros · T1399 · todavía no ven bien a Sasuke (tapado por Tsunade); Naruto sí.
+- Yamato · T1399 · ahora sabe que custodia a Obito (alguien con capa de Akatsuki).

@@ -70,3 +70,4 @@ QUÉ SABE (T1396): por Facundo, mató a la mitad negra de Zetsu porque intentó 
 - T1397 · "Nagato revivió a toda Konoha. Y le costó la vida." "Así que no te voy a decir que es imposible. Ya no sé qué es imposible." "Todos los muertos por Akatsuki. Los jinchūriki. Los de la Hierba, los de la Arena..." Con lágrimas, sin esconderlas: "¿Jiraiya también?"
 QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y revivirá a los muertos por Danzō y Akatsuki.
 - T1398 · Llora en silencio con la mano en la boca: "Jiraiya." Se recompone. "Esta mañana tenía una aldea que no existía y gente durmiendo en carpas. Y ahora me dices esto." "Facundo. ¿Cuándo?"
+- T1399 · "¿Piedras?" Manda a Shizune por las piedras y a convocar a jōnin, equipos de Asuma, Kurenai y Gai, Sai, Sakura, Shikaku, Inoichi, Hiashi, Kakashi (Yamato se queda con Obito) y Naruto. "No sé. Pero quiero que estén." De pie delante de Sasuke y Taka, tapándolos a medias.
