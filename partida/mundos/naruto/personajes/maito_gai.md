@@ -17,3 +17,4 @@ ESTADO: activo.
 QUÉ SABE DE FACUNDO (T1325): nombre (lo oyó). Forastero.
 - T1326 · Se le congela la sonrisa al ver a Facundo parar la patada. Autoriza a Lee a soltar las pesas: "Puedes."
 QUÉ PODERES DE FACUNDO VIO (T1326): paró el Remolino de la Hoja con una mano sin moverse, sin chakra.
+- T1327 · "Va más rápido que en el examen. Mucho más."

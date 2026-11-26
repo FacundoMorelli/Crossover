@@ -46,3 +46,4 @@
 - Gai · T1324 · todavía no se fijó en él.
 - Lee, Gai, Neji, Tenten · T1325 · por Facundo: se llama Facundo Morelli. Aceptó pelear con Lee.
 - Lee, Gai, Neji, Tenten · T1326 · vieron a Facundo detener el Remolino de la Hoja de Lee con una mano sin moverse. Neji confirmó con el Byakugan: sin chakra (Velo).
+- Chūnin de la pendiente este y vecinos · T1327 · se acercan a mirar el duelo entre Lee y el forastero.
