@@ -7,3 +7,4 @@ ENCUENTROS:
 - T1335 · Sentados en la carpa de mando, a la izquierda de Tsunade, espalda derecha, cara de haber discutido.
 QUÉ SABE DE FACUNDO: por Tsunade y Danzō en la reunión: semillas, rumores.
 ESTADO: activos.
+- T1336 · Homura carraspea; Koharu baja la vista cuando Danzō reclama sus dos días de mando.

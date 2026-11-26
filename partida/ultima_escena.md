@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1333)
-
-mirando a lee recien, le doy una semilla del ermitaño
-
-## RESPUESTA 1 (T1333)
-
-> mirando a lee recien, le doy una semilla del ermitaño
-
-> —Mirando a Lee, hace un rato.
-
-Gai se queda callado.
-
-Te agachas junto a la tabla donde está Lee, sacas una semilla del bolsillo y se la pones entre los labios. Le apoyas dos dedos bajo la mandíbula y se la haces masticar, una vez, dos. Lee traga dormido, con la sonrisa todavía puesta.
-
-—¿Mirando? —repite Gai, por fin—. ¿Lo viste abrir las Puertas una vez... y ya?
-
-Lee abre los ojos.
-
-No despacio: de golpe, como si alguien lo hubiera llamado a gritos. Se sienta en la tabla de un salto. Se mira las manos, los brazos, el estómago. La piel ya no le humea. No le sangra la nariz. No le tiembla nada.
-
-—¡Gai-sensei! —Se pone de pie de un brinco, saltando en el lugar—. ¡No me duele nada! ¡Nada! ¡Abrí tres Puertas y no me duele ni un músculo! ¡Siento que podría abrir la sexta!
-
-—No vas a abrir la sexta —dicen Gai y Tenten al mismo tiempo.
-
-Neji da un paso más hacia ustedes. Desactiva el Byakugan, y se le nota en la cara que lo hace por primera vez en toda la mañana con algo parecido a la derrota.
-
-—Lo viste una vez —dice, despacio, mirándote—. Abrir las Puertas destroza el cuerpo. Lee tardó años, Gai-sensei tardó años. Ni siquiera el Sharingan de Kakashi-sensei puede copiarlas, porque no son una técnica: son el cuerpo.
-
-Lee se da vuelta hacia ti. Le brillan los ojos como estrellas otra vez.
-
-—¡¿Las aprendiste mirándome a MÍ?! —Se le llenan los ojos de lágrimas—. ¡Gai-sensei! ¡Mis Puertas sirvieron para que alguien aprendiera!
-
-Gai no llora esta vez. Te mira a ti, largo, con los brazos cruzados. Se le ve en la cara que está haciendo una cuenta que no le cierra.
-
-—Muchacho —dice al fin—. Kakashi es mi eterno rival. Si se entera de que alguien copia sin Sharingan lo que él no puede copiar con Sharingan... —Le asoma una sonrisa chiquita, casi a su pesar—. Se va a poner furioso. Y yo quiero ver eso.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1333 · NARUTO · DÍA 1 · 09:33          ║
-║ Konoha · borde este del cráter               ║
-║ NIVEL 29 · EXP 295.880/320.000               ║
-║ FRAGMENTOS 111.969 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común · Primera Puerta abierta ║
-║ Kase: en la viga, junto a Neji               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1334)
+## COMANDO 1 (T1334)
 
 desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
 
-## RESPUESTA 2 (T1334)
+## RESPUESTA 1 (T1334)
 
 > desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
 
@@ -113,11 +60,11 @@ Es Shizune, con Tonton en brazos, sin aire, con el pelo pegado en la frente. Se 
 
 ---
 
-## COMANDO 3 (T1335)
+## COMANDO 2 (T1335)
 
 voy con tsunade
 
-## RESPUESTA 3 (T1335)
+## RESPUESTA 2 (T1335)
 
 > voy con tsunade
 
@@ -177,4 +124,55 @@ Golpea el suelo con la punta del bastón, una sola vez.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 10:55, carpa de mando. Presentes: Tsunade (sentada, abrigo de Hokage), Kakashi (de pie), Homura y Koharu (banquitos), Danzō (de pie, bastón). Afuera: 4 ANBU de la aldea, Fū y Torune. Tsunade presenta a Facundo ("hizo más en una mañana que tú en treinta años"). Danzō enumera todo lo que hizo (rumores) y pregunta: "¿Quién te envió?" Facundo tiene que contestar.
+## COMANDO 3 (T1336)
+
+nadie, soy un viajero
+
+## RESPUESTA 3 (T1336)
+
+> nadie, soy un viajero
+
+> —Nadie. Soy un viajero.
+
+Danzō no se mueve. Durante un rato largo, solo te mira con el ojo que tiene.
+
+—Un viajero —repite—. Sin aldea, sin nombre que nadie conozca, sin pasado. Con técnicas que no figuran en ningún archivo de las cinco naciones, y bolsillos llenos de algo que vale más que un ejército. —Inclina apenas la cabeza—. Los viajeros así no existen, Facundo Morelli. Existen los espías, los desertores y los que vienen a cobrarse algo más adelante.
+
+—Danzō —dice Tsunade, con voz de advertencia.
+
+—Hokage. —Él no se da vuelta para mirarla—. Con todo respeto, hace tres horas que estás despierta. Yo estuve despierto estos dos días, mientras la aldea no tenía cabeza. Y en estos dos días aprendí algo: después de Pain, lo que llega a esta aldea no llega por casualidad.
+
+Homura carraspea. Koharu baja la vista.
+
+Danzō golpea el suelo con el bastón una vez más.
+
+—Fū.
+
+La lona de la entrada se corre sin ruido. El hombre rubio de pelo largo entra y se para detrás de ti, a un paso, con las manos sueltas a los costados. Kase gira la cabeza para mirarlo y le aplana las orejas.
+
+—Fū es del clan Yamanaka —dice Danzō—. Puede entrar en la mente de un hombre y ver lo que vio. Si de verdad nadie te envió, no tienes nada que esconder. Un minuto, y sales de esta carpa como un héroe, con mi palabra delante de todos.
+
+—¡No es tu decisión! —Tsunade golpea la mesa con la palma. La puerta vieja cruje—. Este muchacho me salvó la vida, y no vas a meterle las manos en la cabeza como si fuera un prisionero de guerra.
+
+—No se lo ordeno a él, Hokage. —Danzō por fin la mira—. Se lo pido. —Y vuelve a mirarte a ti—. ¿Lo permites?
+
+Kakashi saca las manos de los bolsillos, despacio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1336 · NARUTO · DÍA 1 · 10:56          ║
+║ Konoha · carpa de mando                      ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 10:56, carpa de mando. "Nadie. Soy un viajero." Danzō no le cree ("los viajeros así no existen: espías, desertores..."). Llama a Fū (Yamanaka), que se para detrás de Facundo. Propone que Fū le revise la mente un minuto. Tsunade se opone (golpea la mesa). Danzō: "No se lo ordeno. Se lo pido. ¿Lo permites?" Kakashi saca las manos de los bolsillos. Facundo tiene que contestar. (Velo: nadie le lee la mente.)

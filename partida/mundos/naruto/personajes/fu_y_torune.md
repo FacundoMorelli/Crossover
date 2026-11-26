@@ -6,3 +6,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo que sabe Raíz (rumores del campamento).
 CANON: mueren a manos de Tobi camino a la Cumbre (cap. ~470s).
 ESTADO: activos.
+- T1336 · Fū entra a la orden de Danzō y se para a un paso detrás de Facundo, listo para la técnica Yamanaka.
