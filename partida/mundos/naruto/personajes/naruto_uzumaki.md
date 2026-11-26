@@ -29,3 +29,5 @@ QUÉ SABE DE FACUNDO (T1351): es viajero (por él).
 RELACIÓN CON FACUNDO (T1352): confianza; le abrió su historia.
 - T1353 · Oye que en un lugar donde estuvo Facundo había titanes. "¿Como gigantes? ¿Como Gamabunta?" "¿Hablaban? ¿Eran malos? ¿Peleaste contra ellos?"
 QUÉ SABE DE FACUNDO (T1353): estuvo en un lugar con "titanes" (lo cree un país lejano; no sabe de otros mundos).
+- T1354 · Se identifica: "A mí me decían monstruo... El monstruo del zorro." Recuerda a Nagato: el odio es una cadena. "El Sabio Pervertido decía que algún día alguien la iba a cortar." "¡¿Cómo lo hicieron?! ¡¿Cómo se corta una cosa así?! ¡Porque yo le prometí a Nagato que la iba a cortar!"
+QUÉ SABE DE FACUNDO (T1354): en el lugar de los titanes, la gente con la que estaba vivía aislada y los de afuera los llamaban demonios y querían matarlos; ahora está todo bien.

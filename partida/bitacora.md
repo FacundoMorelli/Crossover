@@ -1352,3 +1352,4 @@ T1350 · NARUTO · Ichiraku · Naruto lo lleva al ramen; la gente lo saluda. Teu
 T1351 · NARUTO · Ichiraku · "Soy un viajero." Naruto recuerda a Jiraiya ("No volvió"). Se repone. "¿Te vas a quedar un tiempo en Konoha?"
 T1352 · NARUTO · Ichiraku · "Me voy a quedar un tiempo. Cuéntame la historia." Naruto cuenta Konoha, el Kyūbi en él, su infancia, Sasuke, Jiraiya, que el Cuarto era su papá. "¿Cuál fue el lugar más raro que viste?"
 T1353 · NARUTO · Ichiraku · "No te puedo decir mucho, pero en uno había titanes." Naruto: "¿Como Gamabunta? ¿Peleaste contra ellos?"
+T1354 · NARUTO · Ichiraku · Cuenta que en ese lugar a su gente le decían demonios y ahora está todo bien. Naruto: "A mí me decían monstruo." La cadena del odio. "¡¿Cómo se corta una cosa así?!"

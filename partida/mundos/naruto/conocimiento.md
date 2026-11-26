@@ -81,3 +81,4 @@
 - Facundo · T1352 · por Naruto: historia de Konoha, Kyūbi sellado en Naruto, Sasuke, Jiraiya, Minato es su padre (Naruto lo cuenta por confianza).
 - Naruto · T1352 · por Facundo: se va a quedar un tiempo en Konoha.
 - Naruto, Teuchi, Ayame · T1353 · por Facundo: en uno de los lugares que visitó "había titanes". Lo entienden como un país lejano con gigantes. NO saben que es otro mundo.
+- Naruto, Teuchi, Ayame · T1354 · por Facundo: en el lugar de los titanes, su gente vivía aislada, los de afuera los llamaban demonios y querían matarlos; ahora está en paz. (Creen que es un país lejano.)
