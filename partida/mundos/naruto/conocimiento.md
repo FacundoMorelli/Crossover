@@ -78,3 +78,5 @@
 - Naruto · T1348 · por Tsunade (motivo: gratitud, presentarlo): Facundo la despertó con una semilla, curó a 43 heridos de la carpa del este, descubrió lo del brazo de Danzō y lo atrapó en el aire. Por rumores del campamento: tumbó a Raíz sin moverse; venció a Lee de un golpe.
 - Teuchi, Ayame · T1350 · por rumor del campamento: Facundo despertó a la Hokage.
 - Vecinos del campamento · T1350 · saludan a Facundo (reverencias, pulgares): el rumor de la Hokage y de Danzō ya es de todos.
+- Facundo · T1352 · por Naruto: historia de Konoha, Kyūbi sellado en Naruto, Sasuke, Jiraiya, Minato es su padre (Naruto lo cuenta por confianza).
+- Naruto · T1352 · por Facundo: se va a quedar un tiempo en Konoha.

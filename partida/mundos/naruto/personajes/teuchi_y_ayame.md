@@ -8,3 +8,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: rumor del campamento (despertó a la Hokage).
 ESTADO: activos.
 - T1351 · Se quedan callados cuando Naruto habla de Jiraiya.
+- T1352 · Escuchan la historia de Naruto; Teuchi corrige de a ratos; deja de revolver cuando Naruto habla del Kyūbi.

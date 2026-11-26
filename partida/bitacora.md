@@ -1350,3 +1350,4 @@ T1348 · NARUTO · Borde oeste · "Así que tú eres Naruto. Me llamo Facundo Mo
 T1349 · NARUTO · Borde oeste · "Con mi fuerza." Naruto lo desafía; Tsunade: "Primero yo" (otro día). Deja a Naruto con él. Esta noche, carpa de mando. Naruto: "¿Tienes hambre? Ichiraku armó un puesto."
 T1350 · NARUTO · Ichiraku · Naruto lo lleva al ramen; la gente lo saluda. Teuchi invita. Kase come de la mano de Ayame. Naruto: "¿De dónde eres?"
 T1351 · NARUTO · Ichiraku · "Soy un viajero." Naruto recuerda a Jiraiya ("No volvió"). Se repone. "¿Te vas a quedar un tiempo en Konoha?"
+T1352 · NARUTO · Ichiraku · "Me voy a quedar un tiempo. Cuéntame la historia." Naruto cuenta Konoha, el Kyūbi en él, su infancia, Sasuke, Jiraiya, que el Cuarto era su papá. "¿Cuál fue el lugar más raro que viste?"
