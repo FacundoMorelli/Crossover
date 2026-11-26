@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1359)
-
-soy un viajero, recien recien pase por konoha, conoci a un par de personas
-
-## RESPUESTA 1 (T1359)
-
-> soy un viajero, recien recien pase por konoha, conoci a un par de personas
-
-> —Soy un viajero. Hace un rato pasé por Konoha. Conocí a un par de personas.
-
-La palabra cae en la cueva como una piedra en un pozo.
-
-Sasuke no se mueve, pero algo le cambia en la cara. Se le endurece la mandíbula. Las aspas negras de los ojos vuelven a girar, más rápido.
-
-—Konoha —repite, muy bajo.
-
-Suigetsu silba entre los dientes de tiburón y suelta la empuñadura de la espada.
-
-—Uy. Dijiste la palabra mágica.
-
-La chica de anteojos mira a Sasuke, no a ti. Se muerde el labio.
-
-El enmascarado se ríe, despacio, desde adentro de la máscara.
-
-—Konoha. Qué casualidad. —Da otro paso hacia ti, tranquilo, como quien se acerca a un animal raro para verlo mejor—. ¿Y cómo está Konoha? Me contaron que no quedó mucho en pie después de la visita de Pain.
-
-Se detiene a tres metros. La luz de la antorcha le baila en la espiral naranja.
-
-—¿Y a quiénes conociste, si se puede saber? —El ojo rojo detrás del agujero se fija en el tuyo—. ¿Conociste a Danzō? Me dijeron que ahora es el Hokage.
-
-Al oír el nombre, Sasuke aprieta el puño. Le crujen los nudillos. Un hilo de chakra eléctrico le corre por el brazo, chispeando, y se apaga solo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1359 · NARUTO · DÍA 1 · 12:48          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 297.980/320.000               ║
-║ FRAGMENTOS 112.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1360)
+## COMANDO 1 (T1360)
 
 ah danzo? ehhh si, esta inconsciente y arrestado
 
-## RESPUESTA 2 (T1360)
+## RESPUESTA 1 (T1360)
 
 > ah danzo? ehhh si, esta inconsciente y arrestado
 
@@ -107,11 +58,11 @@ El ojo rojo te mira por el agujero de la espiral.
 
 ---
 
-## COMANDO 3 (T1361)
+## COMANDO 2 (T1361)
 
 eh, yo quien mas?
 
-## RESPUESTA 3 (T1361)
+## RESPUESTA 2 (T1361)
 
 > eh, yo quien mas?
 
@@ -162,4 +113,79 @@ Detrás de Sasuke, el enmascarado se queda mirando. No hace nada para detenerlo.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 12:49, cueva de Akatsuki. "Yo, ¿quién más?" Tobi: "Así que fuiste tú", da un paso atrás. Sasuke: "Me lo quitaste. Me quitaste lo único que me quedaba." Lágrima de sangre. Lanza Chidori (lanza de rayo) a la cueva contra el pecho de Facundo. Karin intenta frenarlo. Tobi mira sin intervenir. Facundo tiene que reaccionar.
+## COMANDO 3 (T1362)
+
+uso bogey y intercambio a tobi conmigo
+
+## RESPUESTA 3 (T1362)
+
+> uso bogey y intercambio a tobi conmigo
+
+Aplaudes.
+
+Una sola palmada, seca, que en la cueva suena como un disparo.
+
+El mundo se da vuelta.
+
+Ya no estás frente a Sasuke. Estás al fondo de la cueva, contra la pared, donde un segundo antes estaba el enmascarado, con Kase en el hombro y la cosa de la pared a medio metro, mirándote con los dos ojos de dos colores distintos.
+
+Y donde estabas tú, en la línea exacta del rayo, está él.
+
+Lo ves pasar en la cara del enmascarado, o en lo poco que se ve de ella: la sorpresa. Medio instante. La espiral naranja empieza a torcerse, la capa se le empieza a volver transparente, como si se le fuera a deshacer el cuerpo en el aire.
+
+No llega a tiempo.
+
+La lanza del Chidori le atraviesa el hombro izquierdo de lado a lado.
+
+El grito no le sale como grito: le sale como un gruñido ahogado detrás de la máscara. La sangre salpica la pared de la cueva. La capa negra con nubes rojas se le abre en un agujero humeante. Por un segundo, la mitad del cuerpo se le pone translúcida, la otra mitad no, y el rayo queda clavado en la parte que no alcanzó a desaparecer.
+
+Sasuke abre los ojos de golpe.
+
+Corta el Chidori. El rayo se apaga. El enmascarado se tambalea un paso hacia atrás, con la mano derecha apretada sobre el hombro, y la sangre le corre entre los dedos.
+
+—¡¿Madara?! —Suigetsu se queda con la boca abierta—. ¡¿Qué...?! ¡Estaba allá! ¡Estaba allá hace un segundo!
+
+La chica de anteojos se tapa la boca con las dos manos. El grandote de pelo naranja da un paso hacia atrás, por primera vez.
+
+La cosa de la pared, a tu lado, gira la cabeza muy despacio hacia ti.
+
+—Cambió de lugar con él —dice la mitad negra—. Con una palmada.
+
+—Con una palmada —repite la mitad blanca, con una risita nerviosa.
+
+Sasuke no te mira a ti. Mira el hombro del enmascarado. Mira su propia mano, todavía humeando.
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Sharingan, Mangekyō y técnicas de Sasuke     ║
+║ USUARIO: Sasuke Uchiha · Naruto              ║
+║                                              ║
+║ MISIÓN: Que Sasuke vuelva a Konoha por su    ║
+║ propia voluntad.                             ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+
+El enmascarado se endereza despacio. La sangre le gotea desde el hombro hasta el suelo de piedra, tap, tap, tap. El ojo rojo detrás del agujero ya no te mira con curiosidad.
+
+—Interesante —dice. La voz le sale más baja, más grave, sin nada de juego—. Muy interesante.
+
+La espiral de la máscara empieza a girar sola. El aire alrededor de su cara se tuerce, como agua que se va por un desagüe.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1362 · NARUTO · DÍA 1 · 12:49          ║
+║ Escondite de Akatsuki · cueva (al norte)     ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 12:49, cueva de Akatsuki. Facundo usó Boogie Woogie (palmada): cambió de lugar con Tobi. El Chidori de Sasuke le atravesó a Tobi el hombro izquierdo (su intangibilidad no llegó a tiempo del todo). Sasuke cortó el rayo. Taka en shock ("¡¿Madara?!"). Zetsu: "Cambió de lugar con él. Con una palmada." Misión de copia: Sasuke (que vuelva a Konoha por voluntad propia, ALTA). Tobi, herido: "Interesante. Muy interesante." La espiral de su máscara empieza a girar (Kamui). Facundo está al fondo, junto a Zetsu. Facundo puede actuar.

@@ -16,3 +16,6 @@ QUÉ SABE DE FACUNDO (T1359): por él: viajero, pasó por Konoha, conoció gente
 - T1360 · Se queda completamente quieto. Frena a Sasuke. "Tsunade está en coma. Kakashi está muerto, o lo estaba. Y Danzō tiene a Raíz entera a su alrededor. ¿Quién lo arrestó?"
 - T1361 · "Ya veo. Así que fuiste tú." Da un paso atrás. Deja que Sasuke ataque, mirando.
 QUÉ SABE DE FACUNDO (T1361): por él, arrestó a Danzō. Lo considera amenaza seria.
+- T1362 · Facundo cambia de lugar con él (Boogie Woogie). Intenta volverse intangible, no llega del todo: el Chidori de Sasuke le atraviesa el hombro izquierdo. Sangra. "Interesante. Muy interesante." (voz sin juego). La espiral de la máscara empieza a girar (Kamui).
+ESTADO: herido (hombro izquierdo atravesado) (T1362).
+RELACIÓN CON FACUNDO: enemigo; lo considera una amenaza grave.

@@ -10,3 +10,4 @@ ESTADO: activos.
 - T1359 · Suigetsu: "Uy. Dijiste la palabra mágica." Karin mira a Sasuke, preocupada.
 - T1360 · Suigetsu: "¿Quién arresta al Hokage? ¿Su abuela?" Karin intenta detener a Sasuke sin tocarlo.
 - T1361 · Suigetsu deja de reírse: "¿En serio?" Karin: "¡Sasuke! ¡No sabes qué es! ¡No le siento nada!"
+- T1362 · Suigetsu: "¡¿Madara?! ¡Estaba allá hace un segundo!" Karin se tapa la boca. Jūgo retrocede un paso por primera vez.

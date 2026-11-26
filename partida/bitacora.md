@@ -1360,3 +1360,4 @@ T1358 · NARUTO · Cueva de Akatsuki · "¿Estos son todos?" Suigetsu quiere cor
 T1359 · NARUTO · Cueva de Akatsuki · "Soy un viajero. Pasé por Konoha." Sasuke se tensa. Tobi: "¿Conociste a Danzō? Me dijeron que ahora es el Hokage."
 T1360 · NARUTO · Cueva de Akatsuki · "Danzō está inconsciente y arrestado." Zetsu no lo sabía. Sasuke: "Danzō es mío. ¿Dónde lo tienen?" Tobi: "¿Quién lo arrestó?"
 T1361 · NARUTO · Cueva de Akatsuki · "Yo, ¿quién más?" Tobi: "Así que fuiste tú." Sasuke: "Me quitaste lo único que me quedaba." Chidori en lanza contra el pecho de Facundo. Tobi no interviene.
+T1362 · NARUTO · Cueva de Akatsuki · Boogie Woogie: cambia de lugar con Tobi. El Chidori de Sasuke le atraviesa el hombro a Tobi. Misión de copia: Sasuke (que vuelva a Konoha por voluntad propia). Tobi: "Muy interesante." Su máscara empieza a girar.

@@ -1,5 +1,5 @@
 {
-  "turno": 1361,
+  "turno": 1362,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
   "hora": "Día 1, 12:49",
@@ -1496,6 +1496,14 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
+    },
+    {
+      "poder": "Sharingan, Mangekyō y técnicas de Sasuke Uchiha",
+      "usuario": "Sasuke Uchiha",
+      "mundo": "naruto",
+      "mision": "Que Sasuke vuelva a Konoha por su propia voluntad.",
+      "dificultad": "ALTA",
+      "emitida": "T1362"
     }
   ],
   "misiones_de_copia_rechazadas": [],

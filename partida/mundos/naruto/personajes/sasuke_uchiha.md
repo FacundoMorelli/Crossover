@@ -15,3 +15,5 @@ QUÉ SABE DE FACUNDO (T1360): por él, Danzō está inconsciente y arrestado.
 - T1361 · "Me lo quitaste." "Me quitaste lo único que me quedaba." Lágrima de sangre del ojo izquierdo. "Chidori." Lanza de rayo contra el pecho de Facundo.
 QUÉ SABE DE FACUNDO (T1361): por él, fue Facundo quien arrestó a Danzō.
 RELACIÓN CON FACUNDO: odio (le quitó la venganza).
+- T1362 · Su Chidori atraviesa a Tobi (Facundo cambió de lugar con él). Corta el rayo. Mira el hombro de Tobi y su propia mano.
+PODER VISTO POR FACUNDO: Chidori (lanza), Mangekyō. MISIÓN DE COPIA (T1362): que vuelva a Konoha por su propia voluntad (ALTA).
