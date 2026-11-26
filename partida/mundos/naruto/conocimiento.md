@@ -73,3 +73,5 @@
 - Danzō, Tsunade, Kakashi, Gai, Yamato, Ibiki · T1344 · oyeron a Facundo: viajero, no viene de parte de nadie, siempre dijo la verdad, vino a ayudarlos a ellos y no a Danzō.
 - Todos los presentes · T1345 · vieron a Danzō dejar que Baku se tragara a tres de Raíz desmayados. Vieron que la succión no mueve a Facundo.
 - Todos los presentes + curiosos de lejos · T1346 · vieron a Facundo desaparecer, desmayar al tapir gigante de un palmazo y alcanzar a Danzō en el aire para desmayarlo. Público en todo el campamento.
+- Facundo · T1347 · por Tsunade: el que venció a Pain es Naruto Uzumaki. (Facundo ya lo había oído de Kakashi en T1314 y de los chicos en T1305.)
+- Naruto · T1347 · por rumores del campamento: la Hokage despertó y arrestó a Danzō. Ve a Facundo en persona por primera vez.

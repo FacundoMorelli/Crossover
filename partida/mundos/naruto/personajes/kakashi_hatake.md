@@ -35,3 +35,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1342 · Retrocede medio paso. Se le abre el Sharingan solo. "Shisui. Itachi. Fugaku. Mikoto... Son todos ellos." Ataca a Raíz con la mano llena de rayos.
 - T1343 · Deja que se apague el rayo: todo Raíz cae.
 - T1346 · Suelta la viga. Recibe la orden de que los ANBU custodien a Raíz. "Sí, Hokage-sama."
+- T1347 · "Es mi alumno. Por si alguien lo olvidaba."

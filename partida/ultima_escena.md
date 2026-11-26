@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1344)
-
-soy un viajero, no vengo de parte de nadie, siempre dije la verdad, venia ayudarlos, a ellos, no a ti
-
-## RESPUESTA 1 (T1344)
-
-> soy un viajero, no vengo de parte de nadie, siempre dije la verdad, venia ayudarlos, a ellos, no a ti
-
-> —Soy un viajero. No vengo de parte de nadie. Siempre dije la verdad. Venía a ayudarlos a ellos, no a ti.
-
-Danzō se queda un instante con el pulgar sangrando a medio camino del suelo.
-
-—A ellos —repite—. Ellos no saben lo que necesita esta aldea para seguir existiendo. Nunca lo supieron. —El ojo visible se le endurece—. Por eso existe Raíz. Por eso existo yo. Ellos son el árbol, viajero. Nosotros somos lo que está bajo tierra, lo que nadie ve, lo que lo sostiene.
-
-Golpea el suelo con la palma ensangrentada.
-
-—¡Técnica de Invocación!
-
-Una nube de humo blanco revienta a sus espaldas y crece, y crece, hasta tapar las tres carpas grises que tenía detrás. Cuando se abre, hay un animal enorme, del tamaño de una casa de dos pisos: un tapir de pelaje negro y blanco, con un hocico largo y arrugado que se mueve solo, como una trompa, y unos ojos chiquitos y viejos.
-
-—¡Baku! —ordena Danzō—. ¡Trágatelos!
-
-El tapir abre el hocico.
-
-Y aspira.
-
-El aire de todo el lado oeste del cráter se va hacia esa boca como agua por un desagüe. Las lonas grises se arrancan de los palos y salen volando hacia el hocico. Las tablas sueltas, las piedras, los cuerpos desmayados de Raíz se arrastran por el suelo. Gai clava los pies y se le hunden en la tierra hasta los tobillos. Yamato hace brotar raíces que lo agarran de la cintura, y a Ibiki, y a Tsunade. Kakashi se tira al suelo y se agarra de una viga.
-
-Kase se te aferra al sobretodo con las cuatro patas, con las uñas clavadas, el pelo tirado hacia adelante por la succión, y suelta un bufido furioso.
-
-El viento te tira hacia el hocico del tapir.
-
-Danzō, detrás del animal, al amparo de la succión, ya está retrocediendo hacia el borde del cráter.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1344 · NARUTO · DÍA 1 · 11:23          ║
-║ Konoha · lado oeste · carpas de Raíz         ║
-║ NIVEL 29 · EXP 296.480/320.000               ║
-║ FRAGMENTOS 112.169 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común · vigilado por Raíz      ║
-║ Kase: aferrado al sobretodo                  ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Arrestar a Danzō (con Tsunade)     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1345)
+## COMANDO 1 (T1345)
 
 deja de hacer eso, lo digo tranquilo
 
-## RESPUESTA 2 (T1345)
+## RESPUESTA 1 (T1345)
 
 > deja de hacer eso, lo digo tranquilo
 
@@ -109,11 +58,11 @@ Al lado de tus pies, otro cuerpo desmayado de Raíz se arrastra hacia el hocico 
 
 ---
 
-## COMANDO 3 (T1346)
+## COMANDO 2 (T1346)
 
 dejo inconsciente a danzo y al tapir
 
-## RESPUESTA 3 (T1346)
+## RESPUESTA 2 (T1346)
 
 > dejo inconsciente a danzo y al tapir
 
@@ -176,4 +125,68 @@ Después se da vuelta hacia ti. Te mira de arriba abajo: el sobretodo lleno de a
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 11:24, borde oeste del cráter. Facundo desmayó a Baku de un palmazo (escupió vivos a los 3 de Raíz tragados; Fū a salvo) y a Danzō en el aire con un golpe a la nuca; lo subió al borde. Baku desapareció (+175 F, +1.500 EXP). Tsunade: Ibiki se lleva a Danzō con sellos y vendas en los Sharingan; Kakashi y los ANBU custodian a Raíz, vivos. A Facundo: "Esta mañana te pregunté para qué servías. Retiro la pregunta." Facundo puede actuar.
+## COMANDO 3 (T1347)
+
+gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
+
+## RESPUESTA 3 (T1347)
+
+> gracias hokage, una pregunta quien es el chico que la gente corea su nombre? el que vencio a pain, como se llamaba? kakashi o yamato me lo dijo y no me acuerdo
+
+> —Gracias, Hokage. Una pregunta: ¿quién es el chico cuyo nombre corea la gente? El que venció a Pain. ¿Cómo se llamaba? Kakashi o Yamato me lo dijeron y no me acuerdo.
+
+A Tsunade se le cambia la cara. Por primera vez desde que despertó, algo se le afloja de verdad. No es una sonrisa completa, pero se le parece.
+
+—Naruto —dice—. Naruto Uzumaki.
+
+Mira hacia el centro del campamento, hacia donde, a lo lejos, todavía se ve la tarima con el cartel.
+
+—Un mocoso escandaloso, maleducado, que come ramen tres veces al día y me dice "abuela" delante de todo el mundo. —Se cruza de brazos—. Cuando lo conocí tenía doce años y quería ser Hokage para que dejaran de mirarlo como lo miraban. Y ahora mira. Salvó la aldea entera, solo, mientras yo dormía.
+
+Kakashi, que está ayudando a un ANBU a levantar a un desmayado de Raíz, levanta la cabeza.
+
+—Es mi alumno —dice, con el ojo arrugado—. Por si alguien lo olvidaba.
+
+—Nadie lo olvida, Kakashi. Lo repites cada vez que puedes.
+
+No alcanza a decir nada más.
+
+Desde el campamento llega un grito, uno solo, fuerte, que se oye por encima de todo el ruido:
+
+—¡¡ABUELA TSUNADEEEEE!!
+
+Alguien viene corriendo por el borde del cráter, saltando sobre las lonas caídas, sobre las vigas, sobre los de Raíz desmayados, sin fijarse dónde pisa. Una chaqueta naranja y negra. Pelo rubio en punta. Tres marcas como bigotes en cada mejilla.
+
+Frena de golpe frente a Tsunade, levantando una nube de tierra, y se le queda mirando con los ojos llenos de lágrimas.
+
+—¡Despertaste! ¡Me dijeron que despertaste y no les creí! ¡Y que arrestaste al viejo Danzō! ¡Y que...! —Se da vuelta. Te ve. Mira tu pelo, tus ojos, los agujeros del sobretodo, al gato—. ¿Y tú quién eres?
+
+╔══════════════════════════════════════════════╗
+║ NARUTO UZUMAKI                               ║
+║ Genin de Konoha · Jinchūriki del Nueve Colas ║
+║ PODER: Modo Sabio, Rasengan, Rasenshuriken,  ║
+║        Clones de Sombra, chakra del          ║
+║        Nueve Colas (sellado)                 ║
+║ AMENAZA: MÍNIMA                              ║
+║ Diferencia estimada: x0,01 sobre ti          ║
+║ COPIABLE (sin verlo en acción)               ║
+╚══════════════════════════════════════════════╝
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1347 · NARUTO · DÍA 1 · 11:27          ║
+║ Konoha · lado oeste · borde del cráter       ║
+║ NIVEL 29 · EXP 297.980/320.000               ║
+║ FRAGMENTOS 112.344 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 11:27, borde oeste del cráter. Facundo preguntó el nombre del que venció a Pain. Tsunade, casi sonriendo: "Naruto Uzumaki", mocoso escandaloso que le dice "abuela". Kakashi: "Es mi alumno." Naruto llega corriendo: "¡¡ABUELA TSUNADEEEE!!" Llora porque despertó y arrestó a Danzō. Ve a Facundo: "¿Y tú quién eres?" Tasación de Naruto. Facundo tiene que contestar.
