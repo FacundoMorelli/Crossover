@@ -14,3 +14,5 @@ QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activo.
 - T1325 · Facundo acepta. "¡¡ACEPTÓ!!" "¡Y si gano, daré dos mil!" Ataca primero: "¡Remolino de la Hoja!" (patada giratoria al aire, a la cabeza).
 QUÉ SABE DE FACUNDO (T1325): nombre, por él.
+- T1326 · Su Remolino de la Hoja es detenido con una mano. "¡Increíble! ¡Nadie detiene el Remolino de la Hoja con una sola mano sin moverse! ¡Ni siquiera Gaara!" Pide permiso a Gai ("¿Puedo?") y suelta las pesas de los tobillos (dos cráteres chicos). En guardia, en serio.
+PODER VISTO POR FACUNDO: taijutsu (Remolino de la Hoja), T1325-1326. Misión de copia emitida (T1326).

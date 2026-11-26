@@ -1,8 +1,8 @@
 {
-  "turno": 1325,
+  "turno": 1326,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 09:26",
+  "hora": "Día 1, 09:27",
   "edad": 18,
   "nivel": 29,
   "exp": 295380,
@@ -1481,6 +1481,14 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
+    },
+    {
+      "poder": "Taijutsu y Ocho Puertas Internas",
+      "usuario": "Rock Lee",
+      "mundo": "naruto",
+      "mision": "Que Lee abra las Puertas peleando contra Facundo y lo alcance con la Flor de Loto Oculta.",
+      "dificultad": "BAJA",
+      "emitida": "T1326"
     }
   ],
   "misiones_de_copia_rechazadas": [],

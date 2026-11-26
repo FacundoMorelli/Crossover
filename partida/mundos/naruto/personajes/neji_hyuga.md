@@ -16,3 +16,5 @@ TASACIÓN (T1324): Byakugan, Puño Suave, Rotación, 64 Palmas; mínima; x0,01.
 MISIÓN DE MUNDO: que siga vivo al terminar la Cuarta Guerra (canon: muere protegiendo a Naruto y Hinata, cap. ~614).
 ESTADO: activo.
 - T1325 · Vuelve a activar el Byakugan y mira todo el cuerpo de Facundo buscando algo que no está.
+- T1326 · "No. Nada. Ni en la mano, ni en los pies, ni en ningún lado. Lo paró con el cuerpo."
+QUÉ PODERES DE FACUNDO VIO (T1326): fuerza física enorme sin chakra visible.

@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1323)
-
-ehh puedo ir a recorrer mientras?
-
-## RESPUESTA 1 (T1323)
-
-> ehh puedo ir a recorrer mientras?
-
-> —Eh... ¿puedo ir a recorrer mientras?
-
-Yamato se ríe por la nariz, corto.
-
-—No soy tu carcelero. Hace una hora quería serlo, pero ya no. —Se sacude el polvo del chaleco—. Recorre lo que quieras. Pero escúchame dos cosas.
-
-Levanta un dedo.
-
-—Una. Del lado oeste del cráter, donde están las carpas grises sin la hoja dibujada, no te metas. Son de Raíz, la gente de Danzō. No llevan nombre, no llevan cara, y no les gusta que nadie mire.
-
-Levanta otro.
-
-—Dos. Si Tsunade-sama te manda a buscar, vas a querer que te encuentren rápido. No la hagas esperar. Hoy está de muy mal humor, y no contigo.
-
-Detrás de él llegan los chūnin con las primeras familias. Una mujer con un bebé en brazos se queda parada frente a la primera casa, sin animarse a tocar la puerta. Un nene de unos cinco años sale disparado hacia los escalones y se sienta en el primero, a ver qué se siente. Una abuela se tapa la boca.
-
-Yamato se da vuelta hacia ellos y ya no te mira.
-
-—Ve —dice, por encima del hombro—. Y si te pierdes, busca la casa con el estante para el gato. Es la única así en toda la aldea.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1323 · NARUTO · DÍA 1 · 09:08          ║
-║ Konoha · borde sur · tu casa de madera       ║
-║ NIVEL 29 · EXP 295.380/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el cuello                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1324)
+## COMANDO 1 (T1324)
 
 salgo a recorrer
 
-## RESPUESTA 2 (T1324)
+## RESPUESTA 1 (T1324)
 
 > salgo a recorrer
 
@@ -132,11 +87,11 @@ Lee ya viene corriendo hacia ti, con los puños apretados y los ojos brillando c
 
 ---
 
-## COMANDO 3 (T1325)
+## COMANDO 2 (T1325)
 
 eh mucho gusto, soy facundo morelli, esta bien peleemos
 
-## RESPUESTA 3 (T1325)
+## RESPUESTA 2 (T1325)
 
 > eh mucho gusto, soy facundo morelli, esta bien peleemos
 
@@ -191,4 +146,76 @@ El talón viene directo a tu cabeza.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:26, borde este. Facundo aceptó el duelo con Lee. Gai es árbitro ("si pierde, mil vueltas"). Neji mira con el Byakugan. "¡Comiencen!" Lee lanza el Remolino de la Hoja: el talón viene a la cabeza de Facundo. Facundo tiene que reaccionar.
+## COMANDO 3 (T1326)
+
+eres rapido pero no alcanza, detengo con una mano la patada
+
+## RESPUESTA 3 (T1326)
+
+> eres rapido pero no alcanza, detengo con una mano la patada
+
+> —Eres rápido, pero no alcanza.
+
+Levantas la mano izquierda.
+
+El talón de Lee choca contra tu palma con un golpe seco, como un mazo contra un tronco. El aire que traía el giro te pasa por los costados, te levanta el sobretodo y le sacude el pelo a Kase, que entrecierra los ojos y no se mueve del cuello.
+
+Tú no te mueves ni un centímetro.
+
+Lee queda colgado en el aire un instante, con la pierna en tu mano, los ojos redondos como platos. Abres los dedos y cae de pie, hacia atrás, en un salto limpio. Se mira la pierna. Te mira a ti.
+
+Gai se queda con la sonrisa congelada. Los dientes le siguen brillando, pero los ojos no.
+
+—Neji —dice Tenten, que por primera vez levantó la vista de las armas—. ¿Usó chakra?
+
+Neji tarda en contestar.
+
+—No. —Tiene las venas de los ojos tensas, más que antes—. Nada. Ni en la mano, ni en los pies, ni en ningún lado. Lo paró con el cuerpo.
+
+Lee aprieta los puños. Le tiemblan, pero no de miedo. Tiene la cara roja y una sonrisa enorme.
+
+—¡Increíble! —grita—. ¡Nadie detiene el Remolino de la Hoja con una sola mano sin moverse! ¡Ni siquiera Gaara!
+
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Taijutsu y Ocho Puertas Internas             ║
+║ USUARIO: Rock Lee · Naruto                   ║
+║                                              ║
+║ MISIÓN: Que Lee abra las Puertas peleando    ║
+║ contra ti y te alcance con la Flor de Loto   ║
+║ Oculta.                                      ║
+║ DIFICULTAD: BAJA                             ║
+╚══════════════════════════════════════════════╝
+
+Lee se agacha. Se levanta las perneras del traje verde y se desabrocha algo en cada tobillo: dos pesas anchas, de metal, envueltas en tela naranja.
+
+—Gai-sensei. —Ya no grita—. ¿Puedo?
+
+Gai mira a Lee. Te mira a ti. La sonrisa le vuelve a la cara, distinta: más chica, más seria.
+
+—Puedes.
+
+Lee deja caer las pesas.
+
+Cuando tocan el suelo, el suelo se hunde. Dos cráteres chicos, del tamaño de un balde cada uno, y una grieta que corre entre los dos hasta tus pies.
+
+Lee se pone otra vez en guardia. Esta vez no salta. Esta vez te mira como se mira a un rival.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1326 · NARUTO · DÍA 1 · 09:27          ║
+║ Konoha · borde este del cráter · duelo       ║
+║ NIVEL 29 · EXP 295.380/320.000               ║
+║ FRAGMENTOS 111.957 · 0 ryo                   ║
+║ Energía 96% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Duelo con Rock Lee                 ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 09:27, borde este, duelo. Facundo paró el Remolino de la Hoja con una mano, sin moverse. Neji: sin chakra, "lo paró con el cuerpo". Misión de copia: taijutsu y Ocho Puertas de Lee (que lo alcance con la Flor de Loto Oculta). Lee, con permiso de Gai, soltó las pesas (dos cráteres chicos) y se puso en guardia en serio. Facundo puede actuar.

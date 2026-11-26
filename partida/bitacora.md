@@ -1324,3 +1324,4 @@ T1322 · NARUTO · Terreno sur · "En algún árbol." Yamato le construye una ca
 T1323 · NARUTO · Borde sur · "¿Puedo ir a recorrer?" Yamato: "No soy tu carcelero." Advierte: carpas grises del oeste = Raíz; si Tsunade lo busca, que lo encuentren rápido. Llegan las familias a las casas.
 T1324 · NARUTO · Borde este · Recorre el campamento (tablero de mensajes; "Y A LA HOKAGE"). Encuentra al Equipo Gai. Tasación de Gai y de Neji (MISIÓN). Neji, Byakugan: "chakra de un vendedor de verduras". Lee: "¡¿El de los mil brazos?! ¡Pelea conmigo!"
 T1325 · NARUTO · Borde este · "Mucho gusto, soy Facundo Morelli. Peleemos." Gai árbitro. Neji mira con Byakugan. Lee: "¡Remolino de la Hoja!" El talón va a la cabeza.
+T1326 · NARUTO · Borde este · "Eres rápido, pero no alcanza." Para el Remolino de la Hoja con una mano sin moverse. Neji: sin chakra. Misión de copia: Lee (Ocho Puertas). Lee suelta las pesas con permiso de Gai.
