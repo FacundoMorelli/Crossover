@@ -53,3 +53,6 @@
 - Gai, Lee, Neji, Tenten, curiosos · T1331 · vieron a Facundo abrir la Primera Puerta (piel roja, calor). Gai: solo él, su padre y Lee las conocían → sospecha seria. Neji no ve los puntos de chakra (Velo). Los curiosos no entienden qué es.
 - Gai, Neji, Tenten, curiosos · T1332 · vieron a Facundo salir del pozo y desmayar a Lee de un golpe sin que nadie viera el movimiento. Gai sabe que se contuvo.
 - Gai, Lee, Neji, Tenten, curiosos · T1333 · por Facundo: aprendió las Puertas "mirando a Lee, hace un rato". Vieron una semilla curar a Lee al instante. Gai piensa contárselo a Kakashi (rival) — motivo: provocarlo.
+- Gai · T1334 · piensa contarle a Kakashi lo de las Puertas (motivo: rivalidad).
+- Shizune · T1334 · lo busca por orden de Tsunade.
+- Danzō · T1334 · por Raíz (ANBU que circulan por el campamento; rumor público): forastero del gato, mil brazos, semillas que curan, venció a Lee. Por la reunión con Tsunade: las semillas. FUENTE: rumores públicos (noticias.md) + Tsunade.

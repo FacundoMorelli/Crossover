@@ -13,3 +13,5 @@ QUÉ SABE DE FACUNDO: por Kakashi: viajero; le dio la semilla que lo curó.
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: activa (murió y revivió en la invasión).
 - T1314 · Abraza a Tsunade llorando: "¡Tsunade-sama, despertó!"
+- T1334 · 10:47 · Busca a Facundo por el campamento y lo alcanza en el borde norte. "Tsunade-sama lo llama. A la carpa de mando. Ahora." "Le aviso antes, para que no lo agarre de sorpresa. Danzō está ahí."
+RELACIÓN CON FACUNDO (T1334): preocupada por él; ya no recelosa.

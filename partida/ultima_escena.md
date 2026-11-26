@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1331)
-
-no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
-
-## RESPUESTA 1 (T1331)
-
-> no, pero seria desagradable para ti perder sin que te ataque, asi que dejame atacarte, primera puerta, la puerta de la apertura, abierta
-
-> —No. Pero sería desagradable para ti perder sin que te ataque, así que déjame atacarte. —Cruzas los brazos frente al pecho—. Primera Puerta, la Puerta de la Apertura. ¡Abierta!
-
-Lo sientes como una llave que gira adentro de la cabeza.
-
-La piel se te enrojece desde el cuello hacia abajo, por debajo de los tatuajes, y los dragones parecen moverse con la sangre. Sale de ti una ola de calor que barre el fondo del pozo y levanta toda la tierra suelta en un anillo. El sobretodo se te infla. El pelo blanco y azul se te levanta hacia atrás.
-
-Lee deja de respirar.
-
-Gai se pone de pie de golpe, tan rápido que casi pisa a su alumno. La cara se le queda completamente en blanco.
-
-—Eso... —Le sale la voz ronca—. Esa es la Primera Puerta.
-
-—¡Gai-sensei! —grita Lee desde el suelo—. ¡Abrió la Puerta! ¡Abrió la Puerta de la Apertura! ¡Igual que nosotros!
-
-—Lo vi, Lee. —Gai no parpadea—. Lo vi.
-
-Tenten se queda con un kunai en la mano, a medio guardar. Los curiosos se miran entre ellos sin entender qué es lo que tiene a todos tan quietos.
-
-Neji da un paso hacia el borde del pozo, con el Byakugan tenso hasta el límite.
-
-—No lo veo —dice, muy bajo, casi enojado—. Gai-sensei, con el Byakugan tendría que ver los puntos abriéndose en el cuerpo. Los puntos de chakra. Y no veo nada. Se le pone la piel roja, sale el calor, y adentro no hay nada.
-
-Gai no le contesta. Te mira a ti.
-
-—Muchacho. —Ya no hay juventud en la voz, ni sonrisa—. Las Ocho Puertas no las enseña nadie. Las aprendí de mi padre, y se las enseñé a Lee. En toda la aldea, que yo sepa, solo nosotros tres las conocimos. ¿Dónde aprendiste a abrirlas?
-
-En el suelo, Lee ya se está levantando. Le tiemblan los brazos, las piernas no le responden, la piel todavía le humea. Pero se levanta. Apoya una rodilla. Después la otra pierna. Se pone en guardia, tambaleándose, con los ojos brillando.
-
-—Gai-sensei, eso después. —Se limpia la sangre de la nariz con el dorso de la mano—. ¡Facundo-san! ¡Estoy listo!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1331 · NARUTO · DÍA 1 · 09:31          ║
-║ Konoha · borde este del cráter · el pozo     ║
-║ NIVEL 29 · EXP 295.680/320.000               ║
-║ FRAGMENTOS 111.957 · 0 ryo                   ║
-║ Energía 96% · Ojos: bien                     ║
-║ Velo: persona común · Primera Puerta abierta ║
-║ Kase: en la viga, junto a Neji               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Duelo con Rock Lee                 ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1332)
+## COMANDO 1 (T1332)
 
 le pego a lee conteniendome
 
-## RESPUESTA 2 (T1332)
+## RESPUESTA 1 (T1332)
 
 > le pego a lee conteniendome
 
@@ -117,11 +62,11 @@ Gai baja la mano. Ya no sonríe.
 
 ---
 
-## COMANDO 3 (T1333)
+## COMANDO 2 (T1333)
 
 mirando a lee recien, le doy una semilla del ermitaño
 
-## RESPUESTA 3 (T1333)
+## RESPUESTA 2 (T1333)
 
 > mirando a lee recien, le doy una semilla del ermitaño
 
@@ -170,4 +115,61 @@ Gai no llora esta vez. Te mira a ti, largo, con los brazos cruzados. Se le ve en
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 09:33, borde este. Facundo dijo que aprendió las Puertas "mirando a Lee, hace un rato" y le dio una semilla a Lee: curado de golpe, salta ("siento que podría abrir la sexta"). Neji: las Puertas no son una técnica, son el cuerpo; ni el Sharingan de Kakashi las copia. Lee, emocionado. Gai: "Si Kakashi se entera de que alguien copia sin Sharingan lo que él no puede... se va a poner furioso. Y yo quiero ver eso." Facundo puede actuar.
+## COMANDO 3 (T1334)
+
+desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
+
+## RESPUESTA 3 (T1334)
+
+> desactivo la primera puerta, bueno fue un placer conocerlos, fue un buen combate lee, voy a seguir caminando hasta que tsunade me llame
+
+> —Bueno, fue un placer conocerlos. Fue un buen combate, Lee. —Cierras la Primera Puerta—. Voy a seguir caminando hasta que Tsunade me llame.
+
+La llave gira al revés adentro de la cabeza. El rojo se te va de la piel, el calor se apaga y el pelo vuelve a caerte sobre los hombros.
+
+Lee se cuadra frente a ti, firme como un soldado, y hace una reverencia tan profunda que casi toca el suelo con la frente.
+
+—¡El placer fue mío, Facundo-san! ¡La próxima vez, voy a hacer que te muevas aunque sea un paso! ¡Y si no lo logro, daré tres mil vueltas al cráter!
+
+—Mil, Lee —dice Tenten—. Ya perdiste. Debes mil.
+
+—¡Entonces cuatro mil!
+
+Gai te pone una mano en el hombro al pasar. Pesa como una piedra.
+
+—Cuando quieras, en el campo de entrenamiento que quede en pie. —Sonríe con todos los dientes otra vez—. Y no te preocupes. A Kakashi se lo cuento yo.
+
+Kase baja de la viga de un salto, pasa por al lado de Neji rozándole la pierna con la cola y te trepa por el sobretodo hasta el cuello. Neji lo mira irse. Después te mira a ti, sin decir nada, y asiente una sola vez.
+
+Sigues caminando.
+
+Rodeas el cráter hacia el norte. Te cruzas con una fila de chicos de la academia que cargan baldes de agua de a dos, cantando una canción para no perder el paso. Ves a lo lejos, en el centro del campamento, un grupo de gente alrededor de un muchacho rubio con chaqueta naranja: le dan comida, le dan palmadas, una nena le regala una flor, y él se ríe rascándose la nuca, colorado, sin saber dónde meterse. Ves a dos ninjas con máscaras de animal pasar a lo lejos por el lado oeste, hacia las carpas grises, sin hacer ruido. Ves a una señora tender ropa en una soga atada entre dos vigas partidas.
+
+Pasa una hora. Un poco más.
+
+Estás cerca del borde norte, donde llegaste a la mañana, cuando oyes pasos apurados detrás de ti y un chillido de cerdo.
+
+—¡Facundo-san! ¡Facundo-san, espere!
+
+Es Shizune, con Tonton en brazos, sin aire, con el pelo pegado en la frente. Se frena delante de ti y se apoya en las rodillas.
+
+—Tsunade-sama lo llama. A la carpa de mando. Ahora. —Levanta la vista. Tiene cara de preocupación—. Y... le aviso antes, para que no lo agarre de sorpresa. Danzō está ahí.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1334 · NARUTO · DÍA 1 · 10:47          ║
+║ Konoha · borde norte del cráter              ║
+║ NIVEL 29 · EXP 295.880/320.000               ║
+║ FRAGMENTOS 111.969 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el cuello                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Ir a la carpa de mando             ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 10:47, borde norte. Facundo cerró la Primera Puerta y se despidió del Equipo Gai (Lee: revancha; Gai: "a Kakashi se lo cuento yo"; Neji asintió). Caminó más de una hora (vio de lejos a Naruto rodeado de gente; ANBU de Raíz hacia las carpas grises). Shizune lo alcanza: Tsunade lo llama a la carpa de mando, ahora. "Danzō está ahí." Facundo puede actuar.

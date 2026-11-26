@@ -1,8 +1,8 @@
 {
-  "turno": 1333,
+  "turno": 1334,
   "mundo_actual": "naruto",
   "fecha_local": "Naruto: Día 1 (dos días después de la Invasión de Pain, cap. ~452)",
-  "hora": "Día 1, 09:33",
+  "hora": "Día 1, 10:47",
   "edad": 18,
   "nivel": 29,
   "exp": 295880,
@@ -86,7 +86,7 @@
     "energia": 3994,
     "control": 3993
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2458,7 +2458,8 @@
     "blackclover_regreso": "Off-screen en ~90 días: Asta sin brazos malditos: no fue al Bosque de las Brujas, así que NO tiene la Morademonios (solo la Matademonios). La batalla del Bosque ocurrió sin él. Kiato y Kahono sanos. Festival de Estrellas: Toros Negros 2.º. Caballeros Reales: aprobaron Asta, Noelle, Luck y Zora. Hoy: asalto a la base del Ojo en la Zona de Rocas Gravito; Rades, Sally y Valtos atacan la base de los Toros (Gauche, Gordon, Grey; Henry en el edificio); William/Licht va a ver a Julius (muere en el canon c146 si nadie interviene); a la noche, la Reencarnación de los elfos (c149). Yami está en Amanecer Dorado esperando a William. | T1288: Patolli (en el cuerpo de William) noqueado en la muralla antes de pelear con Julius: Julius NO muere (canon c146), Licht no se lleva las piedras de Julius; sin Patolli consciente, la Reencarnación de esta noche no puede activarse (las piedras no se colocan en el Monumento del Árbol de la Vida). Rhya y los demás del Ojo siguen en la base de las Rocas Gravito con los Caballeros Reales. | T1295: almas de elfo dormidas en varios Caballeros (Luck=Lufulu, Rill, Klaus, Hamon, Yuno, Puli, Fragil, Ruben, Ben, etc.); sin Patolli consciente, no despiertan por ahora. | T1298: Facundo sacó las 47 semillas (almas de elfo dormidas) de todo el reino en 4 días; se apagaron al salir (Lufulu de Luck, la de Rill, Klaus, Hamon, Fragil, Puli, etc.). Yuno NO tenía (solo Bell). La Reencarnación de los elfos ya no puede ocurrir. No sabe nadie que eran elfos.",
     "duodecimo_mundo": "naruto (único mundo sin visitar; elegido por descarte al /viajar nuevo, T1305)",
     "momento_del_canon_naruto": "Tirada 0,6458 → cap. ~452: dos días después de la Invasión de Pain. Konoha es un cráter. Nagato revivió a los muertos y murió; Konan se fue. Tsunade en coma. Danzō acaba de ser designado Sexto Hokage por el Señor Feudal y ordenó eliminar a Sasuke. Samui, Karui y Omoi (Kumo) llegan en estos días. Sigue: Cumbre de los Cinco Kages (cap. 454+).",
-    "apodos_pendientes_naruto": "\"El Hombre de los Dragones\" / \"Ryūjin\" si muestra Venas del Dragón en público; antes, \"el forastero del gato\"."
+    "apodos_pendientes_naruto": "\"El Hombre de los Dragones\" / \"Ryūjin\" si muestra Venas del Dragón en público; antes, \"el forastero del gato\".",
+    "danzo_naruto": "T1334: Danzō se enteró de que Tsunade despertó (reunión de las 09:30 con Homura y Koharu; fue sin que lo llamaran). Raíz ya le informó los rumores del forastero (brazos, semillas, Lee). Quiere evaluarlo y, si sirve, reclutarlo o eliminarlo. Su designación como Sexto queda en disputa: el Señor Feudal lo nombró porque la Hokage estaba incapacitada."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

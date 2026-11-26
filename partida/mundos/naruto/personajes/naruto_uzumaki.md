@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada
 QUÉ PODERES DE FACUNDO VIO: ninguno
 ESTADO: Héroe de la aldea tras vencer a Pain. Abajo, en el cráter, entre los vecinos.
+ENCUENTROS (cont.):
+- T1334 · Facundo lo ve de lejos en el centro del campamento, rodeado de gente que le da comida y una flor; se ríe colorado. No se cruzan.

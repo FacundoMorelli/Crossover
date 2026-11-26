@@ -1332,3 +1332,4 @@ T1330 · NARUTO · Borde este · Solo mira. Lee: Danza de la Sombra, ~70 golpes,
 T1331 · NARUTO · Pozo del borde este · "No, pero déjame atacarte." Abre la Primera Puerta. Gai: "¿Dónde aprendiste a abrirlas?" Neji no ve los puntos. Lee se levanta tambaleando: "¡Estoy listo!"
 T1332 · NARUTO · Borde este · Golpe contenido al estómago: Lee se desmaya sonriendo ("Increíble..."). Gai: "El ganador es Facundo Morelli." +12 F, +200 EXP. Gai: "Las Puertas. ¿Dónde las aprendiste?"
 T1333 · NARUTO · Borde este · "Mirando a Lee, hace un rato." Le da una semilla a Lee: curado, salta. Neji: ni el Sharingan copia las Puertas. Gai: "Kakashi se va a poner furioso. Y yo quiero ver eso."
+T1334 · NARUTO · Borde este → norte · Cierra la Puerta, se despide del Equipo Gai (Lee: revancha; Gai se lo contará a Kakashi; Neji asiente). Camina una hora; ve a Naruto de lejos. Shizune: Tsunade lo llama a la carpa de mando. "Danzō está ahí."

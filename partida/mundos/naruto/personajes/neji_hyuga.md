@@ -24,3 +24,5 @@ QUÉ PODERES DE FACUNDO VIO (T1326): fuerza física enorme sin chakra visible.
 QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (solo lo visible; Velo).
 - T1333 · Desactiva el Byakugan, derrotado. "Lo viste una vez. Abrir las Puertas destroza el cuerpo... Ni siquiera el Sharingan de Kakashi-sensei puede copiarlas, porque no son una técnica: son el cuerpo."
 QUÉ SABE DE FACUNDO (T1333): dice que aprendió las Puertas mirando a Lee una vez.
+- T1334 · Kase le roza la pierna con la cola al irse. Neji mira a Facundo y asiente una vez.
+RELACIÓN CON FACUNDO (T1334): respeto silencioso.

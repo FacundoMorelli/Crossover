@@ -18,3 +18,4 @@ Llegada: Día 1 07:40 (T1305), cap. ~452.
 (nada todavía)
 - T1313 · Día 1 08:21 · Tsunade despierta del coma (semilla de Facundo). Cambia: la Hokage está en pie antes de la Cumbre; la designación de Danzō como Sexto pierde sostén.
 - T1316 · Día 1 08:28 · Tsunade, despierta, convoca a Homura y Koharu (carpa de mando, ~09:30). Danzō no sabe todavía que despertó.
+- T1334 · ~09:30-10:45 · Reunión en la carpa de mando: Tsunade, Homura, Koharu; Danzō se presenta. La designación de Danzō queda en disputa. Tsunade manda llamar a Facundo con Danzō presente.

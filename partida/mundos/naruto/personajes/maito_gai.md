@@ -28,3 +28,5 @@ QUÉ PODERES DE FACUNDO VIO (T1331): la Primera Puerta (Ocho Puertas). Sospecha.
 QUÉ PODERES DE FACUNDO VIO (T1332): velocidad imposible de seguir; golpe contenido.
 - T1333 · "¿Mirando? ¿Lo viste abrir las Puertas una vez... y ya?" "No vas a abrir la sexta." "Kakashi es mi eterno rival. Si se entera de que alguien copia sin Sharingan lo que él no puede copiar con Sharingan... Se va a poner furioso. Y yo quiero ver eso."
 QUÉ SABE DE FACUNDO (T1333): por Facundo, aprendió las Puertas mirando a Lee. Vio la semilla curar a Lee.
+- T1334 · "Cuando quieras, en el campo de entrenamiento que quede en pie. Y no te preocupes. A Kakashi se lo cuento yo."
+RELACIÓN CON FACUNDO (T1334): respeto y curiosidad; amistoso.

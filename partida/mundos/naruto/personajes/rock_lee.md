@@ -30,3 +30,4 @@ ESTADO: desmayado sobre una tabla, sonriendo (T1332).
 - T1333 · Facundo le da una semilla del ermitaño dormido. Despierta de golpe, curado: "¡No me duele nada! ¡Siento que podría abrir la sexta!" "¡¿Las aprendiste mirándome a MÍ?! ¡Mis Puertas sirvieron para que alguien aprendiera!"
 ESTADO: curado del todo (T1333).
 QUÉ SABE DE FACUNDO (T1333): por Facundo, aprendió las Puertas mirándolo a él.
+- T1334 · Reverencia profunda. "¡La próxima vez, voy a hacer que te muevas aunque sea un paso! ¡Y si no lo logro, daré tres mil vueltas!" (Tenten: debe mil; "¡Entonces cuatro mil!").
