@@ -48,3 +48,5 @@ QUÉ SABE (T1373): por Facundo, el inconsciente es Obito Uchiha; ella lo identif
 - T1376 · "Dijiste el verdadero Madara. Madara Uchiha murió hace décadas, peleando contra mi abuelo en el Valle del Fin." "¿Me estás diciendo que Madara Uchiha estaba vivo?"
 - T1377 · Deduce: células de Hashirama injertadas en Obito hace años; el cuerpo de su abuelo estaba guardado en secreto; en el Valle del Fin Madara pudo llevarse carne; las células de Hashirama dan vida anormal. "Alguien le rellenó esa mitad con lo mismo." "¿Dónde está Madara ahora?"
 QUÉ SABE (T1377): deduce que Madara sobrevivió al Valle del Fin con células de Hashirama y rescató/moldeó a Obito.
+- T1378 · "Muerto. Bien. Por lo menos una cosa en este día que no tengo que arreglar yo." Obito: solo lo verán ella, Kakashi e Ibiki; nada fuera de la carpa, "ni a Naruto. Todavía no." A Facundo: "Si le pongo los mejores sellos de supresión de chakra que tenemos, como a Danzō, y se despierta... ¿Lo van a frenar? ¿O se nos va a escapar por la misma espiral por la que vino?"
+QUÉ SABE (T1378): por Facundo, Madara está muerto.

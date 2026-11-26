@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1375)
-
-lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
-
-## RESPUESTA 1 (T1375)
-
-> lider de akatsuki, se hacia llamar madara o tobi, tenia una mascara naranja
-
-> —Líder de Akatsuki. Se hacía llamar Madara, o Tobi. Tenía una máscara naranja.
-
-Kakashi no se mueve.
-
-Durante un segundo largo, parece que no te escuchó. Sigue arrodillado, con la mano detenida a un centímetro de la cara de Obito, el Sharingan girando.
-
-Después, Sasuke se despega del poste. Se saca la máscara naranja del cinturón y la tira al suelo, junto al futón. Rueda una vez y queda boca arriba, con la espiral mirando el techo de la carpa y el único agujero en el ojo derecho.
-
-Kakashi la mira.
-
-La reconoce. Se le ve en el cuerpo entero: los hombros se le caen, de golpe, como si alguien le hubiera cortado los hilos.
-
-—La máscara naranja. —Lo dice casi sin voz—. El que andaba con Deidara. El que se reía. El que aparecía y desaparecía.
-
-Levanta la máscara del suelo con dos dedos. La da vuelta. Mira el agujero.
-
-—Cuando lo enfrentamos, buscando a Sasuke, su técnica... —Traga—. Su técnica de espacio-tiempo era igual a la mía. Igual a mi Kamui. Pensé que era una casualidad. Pensé que el Sharingan podía hacer cosas que yo no entendía.
-
-Se queda mirando el ojo derecho de Obito, entreabierto, rojo, con las tres comas quietas. Después se toca, sin darse cuenta, su propio ojo izquierdo.
-
-—Es la otra mitad —dice—. El mismo ojo. Siempre fue el mismo.
-
-Tsunade, desde la mesa, baja la vista al vaso vacío. Sasuke vuelve a apoyarse en el poste y no dice nada.
-
-Kakashi deja la máscara en el suelo, despacio, con cuidado, como si fuera algo de vidrio. Apoya las dos manos en las rodillas. Se le doblan un poco los hombros.
-
-—Obito, tú... —Se le corta la voz. La recupera—. Tú me enseñaste que los que abandonan a sus compañeros son peores que basura. Tú. Con esas mismas palabras. Y ahora...
-
-Levanta la cabeza hacia ti otra vez. El ojo visible está mojado.
-
-—¿Por qué? —te pregunta, como si tú pudieras saberlo—. ¿Por qué haría esto?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1375 · NARUTO · DÍA 1 · 13:10          ║
-║ Konoha · carpa de la colina (la Hokage)      ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto al futón                         ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1376)
+## COMANDO 1 (T1376)
 
 yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
 
-## RESPUESTA 2 (T1376)
+## RESPUESTA 1 (T1376)
 
 > yo creo que lo que paso en la tercera guerra, y en parte la manipulacion del verdadero madara
 
@@ -119,11 +62,11 @@ Rodea la mesa y se te para delante.
 
 ---
 
-## COMANDO 3 (T1377)
+## COMANDO 2 (T1377)
 
 como crees que obito consiguio esa mitad?
 
-## RESPUESTA 3 (T1377)
+## RESPUESTA 2 (T1377)
 
 > como crees que obito consiguio esa mitad?
 
@@ -178,4 +121,53 @@ Tsunade cierra los puños. Te mira otra vez.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:14, carpa de la colina. Facundo: "¿Cómo crees que Obito consiguió esa mitad?" Tsunade deduce: células de Hashirama injertadas hace años; Madara se llevó carne de su abuelo en el Valle del Fin y lo mantuvo vivo; rellenó a Obito. Kakashi: "Madara lo encontró, lo curó, y después..." Sasuke: "Y después le mostró lo de Rin. Es lo que habría hecho yo." Tsunade: "¿Dónde está Madara ahora?" Facundo tiene que contestar.
+## COMANDO 3 (T1378)
+
+muerto, si no me equivoco
+
+## RESPUESTA 3 (T1378)
+
+> muerto, si no me equivoco
+
+> —Muerto, si no me equivoco.
+
+Tsunade suelta el aire por la nariz, largo. Se le aflojan los hombros apenas, lo justo para que se note.
+
+—Muerto. —Se pasa una mano por la cara—. Bien. Por lo menos una cosa en este día que no tengo que arreglar yo.
+
+Vuelve a la mesa baja, se sirve otro vaso de sake y esta vez no se lo toma. Lo deja ahí, delante de ella, mirándolo.
+
+Kakashi sigue arrodillado junto al futón. Ya no tiene la mano temblando. Se la apoya en la rodilla y se queda mirando la cara de Obito, muy quieto.
+
+—Hokage-sama. —No se da vuelta—. Cuando despierte, quiero estar aquí.
+
+—Vas a estar. —Tsunade no lo duda—. Nadie más que tú, yo e Ibiki lo va a ver. Y ni una palabra de quién es fuera de esta carpa hasta que yo decida qué hacer con él. Ni a Naruto. Todavía no.
+
+Sasuke, contra el poste, se cruza de brazos.
+
+—Naruto —repite, en voz muy baja, como si el nombre le hubiera llegado de muy lejos.
+
+Nadie le contesta.
+
+Tsunade gira la cabeza hacia ti.
+
+—Facundo, una cosa. —Señala a Obito con el mentón—. Este hombre atraviesa las cosas y desaparece en el aire. Kakashi dice que su técnica es la misma que la de su ojo. Si le pongo los mejores sellos de supresión de chakra que tenemos, como a Danzō, y se despierta... —Se le endurece la cara—. ¿Lo van a frenar? ¿O se nos va a escapar por la misma espiral por la que vino?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1378 · NARUTO · DÍA 1 · 13:15          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto al futón                         ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:15, carpa de la colina. "Muerto, si no me equivoco" (Madara). Tsunade, aliviada. Kakashi quiere estar cuando Obito despierte; Tsunade: solo él, ella e Ibiki lo verán; secreto, ni a Naruto todavía. Sasuke repite "Naruto". Tsunade a Facundo: si le ponen sellos de supresión como a Danzō, "¿Lo van a frenar? ¿O se nos va a escapar por la misma espiral?" Facundo tiene que contestar.

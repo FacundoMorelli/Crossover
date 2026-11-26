@@ -41,3 +41,4 @@ ESTADO: en Konoha (carpa de la colina), T1371.
 - T1375 · Tira la máscara de Tobi al suelo junto al futón.
 - T1376 · Escucha la historia de Rin; algo le cambia en la cara mirando a Kakashi.
 - T1377 · "Y después le mostró lo de Rin. Es lo que habría hecho yo. Si quisiera que alguien odiara al mundo entero."
+- T1378 · Repite "Naruto" en voz muy baja.
