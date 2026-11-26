@@ -106,3 +106,5 @@
 - Tsunade · T1371 · vio a Facundo aparecer en su carpa con Sasuke Uchiha y un Akatsuki inconsciente (cara cicatrizada) al hombro. No sabe quién es el inconsciente.
 - Tsunade · T1372 · por Facundo: el inconsciente es el hombre detrás de Akatsuki, el que se hacía llamar Madara. Por examen médico: tiene células del Primero en medio cuerpo.
 - Tsunade · T1372 · por Sasuke: Homura y Koharu (con Danzō) dieron la orden de la masacre Uchiha; Sasuke quiere que se lo digan a la cara.
+- Tsunade, Sasuke · T1373 · por Facundo: el inconsciente es Obito Uchiha; lo conoce el dueño de la otra mitad de su Sharingan (Kakashi). Tsunade lo reconoce como el alumno de Minato "muerto" en Kannabi.
+- Un ANBU/mensajero · T1373 · recibe la orden de buscar a Kakashi; no sabe quién está en la carpa.

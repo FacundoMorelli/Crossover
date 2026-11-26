@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1370)
-
-Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
-
-## RESPUESTA 1 (T1370)
-
-> Nada, voy a llevar a este a la aldea, con esto akatsuki esta acabado, bueno me falta el otro mitad y mitad pero ahora voy a por ese, sasuke, quieres venir conmigo?
-
-> —Nada. Voy a llevar a este a la aldea; con esto, Akatsuki está acabado. Bueno, me falta el otro, el mitad y mitad, pero ahora voy por ese. —Lo miras—. Sasuke, ¿quieres venir conmigo?
-
-—¿Nada? —Sasuke te mira como si le hubieras hablado en otro idioma.
-
-—¿A la aldea? —Suigetsu se levanta del suelo de un salto—. ¿A Konoha? ¿Con él? Oye, oye, oye. Sasuke es un renegado. Atacó a la Hierba, atacó a la Nube, mató a Orochimaru, se juntó con Akatsuki. Si pone un pie en Konoha, lo cuelgan. —Lo piensa un segundo—. Y a nosotros con él, seguramente.
-
-—No lo van a colgar —dice Karin, sin mucha seguridad. Mira a Sasuke—. ¿No?
-
-Jūgo no dice nada. Mira a Sasuke y espera, como espera siempre.
-
-Sasuke tarda en contestar. Se queda mirando a Obito en el suelo, con la cara al descubierto, y después la máscara naranja tirada al lado. Se agacha, la levanta y se la queda en la mano.
-
-—Hace tres años me fui de Konoha para matar a Itachi —dice, sin mirar a nadie—. Lo maté. Después me enteré de que todo lo que creía era mentira, y me prometí destruir la aldea entera por lo que le hicieron. —Aprieta la máscara—. Y ahora un desconocido aparece de la nada, me dice que el que me contó todo era otro Uchiha muerto, que mi hermano podría volver, y que no quiere nada a cambio.
-
-Levanta los ojos hacia ti. Las aspas negras dejan de girar y se le apagan. Quedan los ojos negros, comunes, de un chico cansado.
-
-—No te creo. Todavía no.
-
-Se guarda la máscara en la cintura, bajo el cinturón.
-
-—Pero voy.
-
-Suigetsu se lleva las manos a la cabeza. Karin suelta el aire que tenía guardado y casi se ríe. Jūgo se pone de pie, despacio, detrás de Sasuke.
-
-—Con una condición. —Sasuke da un paso hacia ti—. Cuando lleguemos a Konoha, quiero ver a los dos viejos del consejo. Homura y Koharu. Los que dieron la orden con Danzō. —La voz se le vuelve muy fría—. Quiero que me lo digan a la cara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1370 · NARUTO · DÍA 1 · 12:58          ║
-║ Escondite de Akatsuki · cueva (al norte)     ║
-║ NIVEL 29 · EXP 302.980/320.000               ║
-║ FRAGMENTOS 113.344 · 0 ryo                   ║
-║ Energía 97% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a Tobi                           ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Llevar a Obito a Konoha            ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1371)
+## COMANDO 1 (T1371)
 
 esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
 
-## RESPUESTA 2 (T1371)
+## RESPUESTA 1 (T1371)
 
 > esta bien, ustedes quedense aca por ahora, solo voy con sasuke, agarro a obito y me teletransporto con sasuke a donde esta tsunade sola
 
@@ -113,11 +62,11 @@ Tsunade no grita. No se levanta. Se queda mirándolos a los tres, uno por uno, m
 
 ---
 
-## COMANDO 3 (T1372)
+## COMANDO 2 (T1372)
 
 bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
 
-## RESPUESTA 3 (T1372)
+## RESPUESTA 2 (T1372)
 
 > bueno, este es sasuke como te habras dado cuenta y este es el hombre detras de akatsuki, al que decian llamar madara
 
@@ -170,4 +119,63 @@ La voz le sale fría y quieta, sin ninguna emoción, como si fuera la décima ve
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 13:01, carpa de la colina. Facundo presentó a Sasuke y al "hombre detrás de Akatsuki, el que se hacía llamar Madara". Tsunade lo revisa: vivo, hombro atravesado, la mitad del cuerpo con células como las de su abuelo; "Esto no es Madara. ¿Quién es?" (no espera). A Sasuke: "¿A qué viniste?" Sasuke: "A ver a Homura y a Koharu... Quiero que me digan a la cara por qué mataron a mi clan." Facundo puede actuar.
+## COMANDO 3 (T1373)
+
+y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
+
+## RESPUESTA 3 (T1373)
+
+> y este de aca, capaz lo conoces, obito uchiha y si no lo conoces tu, lo conoce el dueño de la otra parte de su sharingan
+
+> —Y este de aquí, capaz que lo conoces: Obito Uchiha. Y si no lo conoces tú, lo conoce el dueño de la otra parte de su Sharingan.
+
+Tsunade se da vuelta hacia ti muy despacio.
+
+—Obito Uchiha.
+
+Lo repite como si buscara el nombre en un cajón viejo, lleno de polvo. Lo encuentra. Se le nota en la cara el momento exacto en que lo encuentra.
+
+—El chico del equipo de Minato. —Baja la voz—. El que murió en la Tercera Guerra, en el puente de Kannabi. El que le dio el ojo a... —Se queda callada.
+
+Vuelve a mirar la cara del hombre que llevas al hombro. El ojo derecho entreabierto. El izquierdo, cerrado y vacío.
+
+—Su nombre está en la piedra de los caídos —dice—. Kakashi va a esa piedra todas las mañanas. Desde hace diecisiete años. Todas las mañanas, antes de cualquier misión. Llega tarde a todo por eso.
+
+Sasuke, a tu lado, aprieta la mandíbula. No dice nada.
+
+Tsunade se queda un segundo muy quieta, con los puños cerrados a los costados. Después se acerca a la entrada de la carpa y levanta la lona de un tirón.
+
+—¡Tú! —le grita a alguien afuera—. ¡Busca a Kakashi Hatake! ¡Que venga ya! ¡Ni una palabra a nadie de quién está aquí adentro!
+
+Se oyen pasos que se van corriendo.
+
+Tsunade deja caer la lona. Se da vuelta hacia Sasuke.
+
+—Vas a ver a Homura y a Koharu —le dice—. Hoy. Delante de mí. Y si lo que dices es cierto, lo van a decir delante de mí también. —Lo mira a los ojos—. Pero no vas a desenvainar esa espada en mi aldea. ¿Entendido?
+
+Sasuke la mira un rato largo. Después saca la mano sana de la empuñadura.
+
+—Entendido.
+
+Tsunade se vuelve hacia ti. Señala el futón doblado en el rincón.
+
+—Ponlo ahí. Boca arriba. Y no te alejes de él. —Se le endurece otra vez la cara—. Si se despierta antes de que llegue Kakashi, eres el único en esta carpa que sabe cómo pararlo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1373 · NARUTO · DÍA 1 · 13:03          ║
+║ Konoha · carpa de la colina (la Hokage)      ║
+║ NIVEL 29 · EXP 302.980/320.000               ║
+║ FRAGMENTOS 113.344 · 0 ryo                   ║
+║ Energía 97% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Esperar a Kakashi                  ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 13:03, carpa de la colina. Facundo dijo que el inconsciente es Obito Uchiha y que lo conoce el dueño de la otra mitad de su Sharingan. Tsunade lo recuerda: equipo de Minato, "muerto" en Kannabi, nombre en la piedra de los caídos que Kakashi visita cada mañana desde hace 17 años. Manda buscar a Kakashi en secreto. A Sasuke: verá a Homura y Koharu hoy, delante de ella; nada de desenvainar. Sasuke: "Entendido." A Facundo: "Ponlo ahí (futón). Boca arriba. Y no te alejes de él." Facundo puede actuar.

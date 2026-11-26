@@ -38,3 +38,4 @@ RELACIÓN CON FACUNDO (T1312): agradecido y en guardia; lo toma en serio.
 - T1347 · "Es mi alumno. Por si alguien lo olvidaba."
 - T1348 · Asiente para confirmarle a Naruto. "Te está ignorando" (sobre Kase).
 - T1349 · "A veces la respuesta más corta es la correcta." Se va con Tsunade.
+- T1373 · Tsunade lo manda a buscar a la carpa de la colina, en secreto (no sabe para qué).
