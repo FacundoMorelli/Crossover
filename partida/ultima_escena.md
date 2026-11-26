@@ -3,83 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1457)
-
-despierto a ace
-
-## RESPUESTA 1 (T1457)
-
-> despierto a ace
-
-Te agachas en la nieve y le sacudes el hombro a Ace.
-
-Nada. Ronca.
-
-Le sacudes más fuerte. Ace da un respingo, abre un ojo, y antes de abrir el otro ya tiene la mano encendida, con una llama naranja que derrite la nieve a su alrededor en un círculo perfecto y suelta vapor.
-
-—¡¿Qué...?! —Parpadea. Te ve a ti. Ve a Kase—. ¿Facundo?
-
-Mira alrededor. La nieve. Los acantilados. Los huesos gigantes. El mar liso. El tenedor que todavía tiene en la otra mano, con la carne pinchada.
-
-—Estaba comiendo —dice, como si eso explicara algo—. Estaba en el Moby Dick, comiendo...
-
-Y entonces ve a Luffy.
-
-—¿Luffy? —Se le apaga la llama de la mano—. ¿Qué haces aquí? ¿Qué hago yo aquí? ¿No estabas entrenando con el...?
-
-Ve a Rayleigh en la roca. Se calla.
-
-Después sigue la mirada de Luffy, que no se movió ni un milímetro, que sigue con la mandíbula estirada y los ojos clavados en algo detrás de ti.
-
-Ace se da vuelta.
-
-Sabo está ahí, de pie en la nieve, con el sombrero de copa, la levita azul y el caño de metal en la mano. Llorando sin hacer ruido, con una sonrisa temblorosa.
-
-El tenedor se le cae a Ace en la nieve.
-
-—Hola, Ace —dice Sabo, con la voz hecha pedazos—. Perdón. Tardé doce años.
-
-Ace no contesta. No se mueve. Se queda sentado en el suelo, mirándolo, con la cara de quien ve un fantasma a pleno día y no se anima a parpadear por miedo a que desaparezca.
-
-Detrás de él, a Luffy se le vuelve a armar la mandíbula de golpe, con un chasquido de goma.
-
-—¿Sa...?
-
-Le tiembla el labio. Se le llenan los ojos.
-
-—¡¿SABOOOOOOOOOOO?!
-
-El grito rebota contra los acantilados y vuelve tres veces. Una bandada de pájaros enormes sale volando de la selva congelada.
-
-Luffy salta. Los brazos se le estiran, uno, dos, tres metros, y te pasan por al lado: uno se enrosca alrededor de Sabo y el otro alrededor de Ace, todavía sentado en el suelo, y los arrastra a los dos hacia él hasta que los tres chocan en el medio, en la nieve, en una pila de piernas, sombreros y llanto.
-
-Luffy llora a los gritos, con mocos, como cuando tenía siete años. Sabo lo abraza fuerte y se ríe y llora al mismo tiempo. Ace queda aplastado en el medio, con la cara contra el hombro de Sabo.
-
-Pero no llora. Todavía no. Levanta la vista por encima del hombro de Sabo y te mira a ti.
-
-Tiene los ojos muy abiertos y la cara pálida. Y en la mirada, una pregunta enorme que todavía no le salió de la boca.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1457 · ONE PIECE · DÍA ~121 · 06:43    ║
-║ Rusukaina · explanada de roca, nieve         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro, esponjado por el frío    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Llevar a Sabo a ver a Ace y Luffy  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1458)
+## COMANDO 1 (T1458)
 
 miro
 
-## RESPUESTA 2 (T1458)
+## RESPUESTA 1 (T1458)
 
 > miro
 
@@ -145,11 +73,11 @@ Después cruza la nieve derretida hasta ti. Se para delante. Ya no tiene la cara
 
 ---
 
-## COMANDO 3 (T1459)
+## COMANDO 2 (T1459)
 
 se muchas cosas
 
-## RESPUESTA 3 (T1459)
+## RESPUESTA 2 (T1459)
 
 > se muchas cosas
 
@@ -209,4 +137,54 @@ Luffy salta en el lugar.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 07:23, Rusukaina. Ace agradeció; pide volver al Moby Dick con Sabo. Luffy quiere ir; todos dicen que no. Facundo puede actuar.
+## COMANDO 3 (T1460)
+
+jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
+
+## RESPUESTA 3 (T1460)
+
+> jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
+
+> —Jajajaja. Bueno, Luffy, no creo que vuelva a venir hasta que pasen los dos años. Esto fue una ocasión especial.
+
+Luffy infla los cachetes hasta que la cara le queda redonda como un globo.
+
+—¡Eso no es justo! —Se cruza de brazos, y los brazos le dan dos vueltas alrededor del cuerpo—. ¡Ace se va con Sabo, Sabo se va con Ace, tú te vas con Robin, y yo me quedo aquí con el viejo, que me hace pelear con bichos todo el día!
+
+—Y con quien vas a aprender a usar el Haki —dice Rayleigh, sin levantar la voz—. Si es que algún día dejas de quejarte.
+
+Luffy le saca la lengua.
+
+Después se le desinfla la cara de golpe. Se queda mirando a Sabo, a Ace, a ti. Se rasca la cabeza.
+
+—Bueno. Está bien. —Se encoge de hombros—. Dos años. Lo prometí.
+
+Se tira encima de Sabo otra vez, sin aviso, y le rodea el cuello con los brazos estirados, dos, tres vueltas, hasta que Sabo se pone colorado y tiene que darle palmadas en la espalda para respirar.
+
+—¡Sabo! ¡No te mueras otra vez! —le grita en la oreja—. ¡Y no te olvides de mí!
+
+—No me voy a olvidar —dice Sabo, ahogado, riéndose—. Ya no.
+
+Luffy lo suelta. Le da un puñetazo en el hombro a Ace, que se lo devuelve, más fuerte, y Luffy sale volando dos metros por la nieve y se levanta riéndose.
+
+Después corre hasta ti. Se para delante, muy cerca, mirándote desde abajo, porque todavía le sacas una cabeza.
+
+—¡Facundo! —Te mira a los ojos, de repente serio—. ¿Viste a los demás? ¿A Zoro, a Nami, a todos? ¿A Robin? ¿Están bien?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1460 · ONE PIECE · DÍA ~121 · 07:26    ║
+║ Rusukaina · explanada de roca, nieve         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Llevar a Ace y Sabo al Moby Dick   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 07:26, Rusukaina. Luffy acepta los dos años; pregunta a Facundo si vio a los demás y a Robin. Pendiente: llevar a Ace y Sabo al Moby Dick. Facundo puede responder.

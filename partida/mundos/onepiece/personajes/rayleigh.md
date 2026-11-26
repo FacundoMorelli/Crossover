@@ -24,3 +24,4 @@ ESTADO: activo
 - T1457 · Ve el reencuentro de los tres hermanos desde su roca.
 - T1458 · Les da privacidad mirando al mar. A Ace: "Técnicamente, te secuestraron."
 - T1459 · Sonríe con la reverencia. A Luffy: "No."
+- T1460 · A Luffy: "Y con quien vas a aprender a usar el Haki. Si es que algún día dejas de quejarte."

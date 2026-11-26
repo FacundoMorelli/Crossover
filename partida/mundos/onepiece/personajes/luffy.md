@@ -61,3 +61,4 @@ QUÉ SABE DE FACUNDO: lo que ve (pelo plateado, aura) y lo que dijo Zoro ("un ti
 - T1457 · Reconoce a Sabo: "¡¿SABOOOOOO?!" Lo abraza junto con Ace con los brazos estirados; llora a los gritos como a los siete años.
 - T1458 · "¿Mi papá te salvó? ¡Ah! ¡Entonces mi papá es bueno!" Cuenta su viaje a los gritos. Colgado del cuello de Sabo.
 - T1459 · Imita a sus hermanos con el sombrero al pecho. "¡¿Yo también puedo ir?!" — "No" (Ace, Sabo, Rayleigh).
+- T1460 · Facundo: no vuelve hasta los dos años. "¡Eso no es justo!" Acepta: "Dos años. Lo prometí." A Sabo: "¡No te mueras otra vez! ¡Y no te olvides de mí!" Puñetazos con Ace. A Facundo, serio: "¿Viste a los demás? ¿A Zoro, a Nami, a todos? ¿A Robin? ¿Están bien?"
