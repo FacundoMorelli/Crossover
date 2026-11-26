@@ -84,3 +84,4 @@ QUÉ SABE (T1397): por Facundo, destruirá la Estatua, devolverá las bestias y 
 QUÉ SABE (T1416): por Facundo, se queda unos días, se irá y volverá.
 - T1417 · "Con Obito no sé qué hacer. Mató a Minato y a Kushina, dirigió Akatsuki... Y al mismo tiempo, lo usó alguien que ya no existe." A Facundo: "¿Qué crees que hay que hacer con él?"
 - T1418 · A Fugaku: "Si da un paso fuera de lugar, no vas a tener que esperar a nadie. Va a estar Facundo." DECISIÓN sobre Obito: sellado entero, sin chakra; bajo vigilancia de Kakashi y Minato; trabajo diario para la aldea; confesará en el juicio de Danzō. A Facundo: "¿Puedes ponerle tú un sello que nadie pueda romper?"
+- T1419 · "Hoy trajiste de vuelta a media aldea con un dragón gigante, y para un sello me dices podría probarlo." "Es más de lo que tengo." Lleva a Minato, Kakashi y Fugaku a la carpa de la colina; deja a Homura y Koharu en la Torre con ANBU.

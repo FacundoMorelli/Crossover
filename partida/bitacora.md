@@ -1417,3 +1417,4 @@ T1415 · NARUTO · Torre del Hokage · Reunión: Fugaku exige juicio a Homura, K
 T1416 · NARUTO · Torre · "Me quedo unos días, después me voy y vuelvo." Minato: "Esta aldea va a seguir aquí." Tsunade: el enmascarado del Nueve Colas está preso. Kakashi: "Es Obito, sensei." Minato a Facundo: "¿Es verdad?"
 T1417 · NARUTO · Torre · "Es verdad. Lo usaron, pero lo hizo él." Minato: "Era mi alumno." Jiraiya: "Yo entrené a Nagato." Tsunade: "¿Qué crees que hay que hacer con él?"
 T1418 · NARUTO · Torre · Propone para Obito: sellos, sin chakra, reivindicarse ayudando. Fugaku se opone; Minato, Kakashi y Jiraiya apoyan. Tsunade decide. "¿Puedes ponerle tú un sello que nadie pueda romper?"
+T1419 · NARUTO · Carpa de la colina · "Podría probarlo." Van con Tsunade, Minato, Kakashi y Fugaku a ver a Obito. Yamato ve a Minato. Obito despierta: "Rin..."

@@ -14,3 +14,4 @@ QUÉ SABE DE FACUNDO (T1413): por Facundo, sabe su nombre. Por la voz: lo revivi
 - T1416 · "Un viajero de verdad. Va y vuelve. Como debe ser. Te lo dice un experto." (Tsunade: "Tú ibas y no volvías.")
 - T1417 · "Basta, los dos. Si nos ponemos a repartir culpas, en esta sala no queda nadie limpio. Ni yo. Yo entrené a Nagato."
 - T1418 · "Nagato tuvo que mirarme a la cara antes de... Bueno. Antes. Sé de lo que hablo."
+- T1419 · "Por lo menos es honesto." Se queda en la Torre.

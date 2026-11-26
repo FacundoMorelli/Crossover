@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1416)
-
-me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
-
-## RESPUESTA 1 (T1416)
-
-> me voy a quedar en konoha unos dias, despues me voy a ir y voy a volver en algun momento
-
-> —Me voy a quedar en Konoha unos días. Después me voy a ir, y voy a volver en algún momento.
-
-Tsunade se queda mirándote. Después suelta el aire por la nariz, una risa corta, sin ganas.
-
-—Unos días. —Se echa hacia atrás en el sillón—. En un día hiciste lo que la aldea no pudo hacer en dieciséis años. No me quiero imaginar lo que vas a hacer en unos días.
-
-—Un viajero de verdad —dice Jiraiya, desde la pared, con el pañuelo todavía contra la nariz—. Va y vuelve. Como debe ser. —Te guiña un ojo—. Te lo dice un experto.
-
-—Tú ibas y no volvías —le dice Tsunade, sin mirarlo.
-
-Jiraiya cierra la boca.
-
-Minato, junto al ventanal, te mira un momento. Después inclina la cabeza, apenas, con respeto.
-
-—Cuando vuelvas, esta aldea va a seguir aquí —dice—. Te lo prometo.
-
-Tsunade asiente. Se endereza en el sillón y apoya las dos manos sobre el escritorio, al lado de Kase, que no se mueve.
-
-—Bien. Entonces, mientras estás, hablemos de lo que no puede esperar. —Mira a todos—. Tenemos tres prisioneros. Kisame Hoshigaki, de Akatsuki. Una mitad de la cosa que se llamaba Zetsu. Y el que dirigía todo.
-
-Hace una pausa. Mira a Minato.
-
-—Minato. Esto lo tienes que oír tú. El enmascarado que atacó la aldea hace dieciséis años, el que sacó al Nueve Colas de Kushina y te mató... —Tsunade se queda callada un segundo—. Lo tenemos. Está dormido en una carpa, con el ojo sellado.
-
-Minato se queda completamente quieto. Se le endurece la cara, por primera vez desde que lo viste.
-
-—¿Lo atraparon? —Le sale la voz baja, controlada—. ¿Quién es?
-
-Tsunade no contesta.
-
-Kakashi, desde la puerta, se despega del marco. Da un paso adentro del despacho. Se baja la máscara de la cara, despacio, con dos dedos, como si le pesara. Y mira a su maestro.
-
-—Es Obito, sensei.
-
-Minato no se mueve. Pasa un segundo. Dos.
-
-—¿Obito? —Le sale apenas, en un hilo—. ¿Mi... Obito?
-
-Gira la cabeza hacia ti. Hacia el único en la sala que no es de Konoha, el que sabe cosas que nadie más sabe. En los ojos azules no hay rabia. Hay algo mucho peor.
-
-—¿Es verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1416 · NARUTO · DÍA 1 · 15:49          ║
-║ Konoha · Torre del Hokage · despacho         ║
-║ NIVEL 29 · EXP 306.730/320.000               ║
-║ FRAGMENTOS 113.524 · 0 ryo                   ║
-║ Energía 83% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el escritorio, al sol               ║
-║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
-║ OBJETIVO: Reunión en la Torre del Hokage     ║
-╚══════════════════════════════════════════════╝
-```
-
-
----
-
-## COMANDO 2 (T1417)
+## COMANDO 1 (T1417)
 
 si, es verdad, estaba siendo utilizado pero lo hizo el
 
-## RESPUESTA 2 (T1417)
+## RESPUESTA 1 (T1417)
 
 > si, es verdad, estaba siendo utilizado pero lo hizo el
 
@@ -133,11 +66,11 @@ Se inclina un poco hacia adelante.
 
 ---
 
-## COMANDO 3 (T1418)
+## COMANDO 2 (T1418)
 
 sellos, que no use chakra y que se reivindique, ayudando en la aldea
 
-## RESPUESTA 3 (T1418)
+## RESPUESTA 2 (T1418)
 
 > sellos, que no use chakra y que se reivindique, ayudando en la aldea
 
@@ -196,4 +129,75 @@ Se inclina hacia adelante.
 
 ---
 
-ESTADO AL CIERRE: NARUTO, Día 1 15:55, despacho de la Torre. Facundo propone para Obito: sellos, sin chakra, que se reivindique ayudando en la aldea. Fugaku se opone (Obito estuvo en la masacre). Minato lo apoya ("caminar por esas calles todos los días... es otra cosa"); Kakashi: "Eso es más difícil que morir"; Jiraiya también. Fugaku cede: "Si da un paso fuera de lugar, el clan no va a esperar." Tsunade decide: sellado entero, sin chakra, vigilado por Kakashi y Minato, trabajo diario para la aldea, confesión en el juicio de Danzō. Pregunta a Facundo: "¿Puedes ponerle tú un sello que nadie pueda romper?" Facundo tiene que contestar.
+## COMANDO 3 (T1419)
+
+ehh mmm podria probarlo
+
+## RESPUESTA 3 (T1419)
+
+> ehh mmm podria probarlo
+
+> —Eh... mmm... Podría probarlo.
+
+Tsunade se te queda mirando.
+
+—"Podría probarlo." —Se echa hacia atrás en el sillón—. Hoy trajiste de vuelta a media aldea con un dragón gigante, y para un sello me dices "podría probarlo".
+
+Jiraiya se ríe por lo bajo, detrás del pañuelo.
+
+—Por lo menos es honesto —dice.
+
+—Es más de lo que tengo. —Tsunade se pone de pie y se acomoda el abrigo—. Vamos. Ahora, antes de que se despierte. Minato, Kakashi, conmigo. —Mira a Fugaku—. Tú también, si quieres verlo con tus propios ojos.
+
+Fugaku no contesta. Pero cuando Tsunade sale del despacho, la sigue.
+
+—Homura, Koharu. —Tsunade no se da vuelta—. Ustedes se quedan aquí. Con los ANBU.
+
+Kase se levanta del escritorio, se estira con toda la espalda arqueada, bosteza y te salta al hombro.
+
+Bajan de la Torre y cruzan la aldea. La gente sigue en las calles: abrazos, llantos, risas, nombres que se gritan de una ventana a otra. Un viejo baila solo en una esquina. Nadie los detiene. Muchos se apartan y se inclinan cuando pasa la Hokage, y después se te quedan mirando a ti.
+
+La carpa de la colina sigue en su lugar, sobre la loma, igual que esta mañana: una lona blanca entre casas nuevas de techo rojo, como si la reconstrucción la hubiera respetado a propósito. Yamato está sentado en la entrada, de piernas cruzadas, con las manos sobre las rodillas y la mirada fija en el futón de adentro. Se pone de pie de un salto al verlos llegar.
+
+—Hokage-sama. —Ve a Minato. Se queda congelado—. Cuarto...
+
+—Después, Yamato —dice Tsunade—. ¿Cómo está?
+
+—Ibiki vino y le puso los sellos. Una venda sellada en el ojo derecho. —Yamato se corre para dejarlos pasar—. No se movió en toda la tarde. Hasta hace unos minutos.
+
+—¿Hasta hace unos minutos?
+
+—Empezó a mover los dedos.
+
+Entran.
+
+Obito está acostado en el futón, boca arriba, con la capa de Akatsuki abierta a los costados, el hombro vendado y un sello de papel con tinta negra pegado sobre el ojo derecho. El ojo izquierdo, el hundido, sigue cerrado. La mitad lisa de la cara está pálida. La mitad de cicatrices, inmóvil.
+
+Los dedos de la mano derecha se le mueven. Una vez. Dos.
+
+Kakashi se detiene en la entrada. Minato da un paso adelante y se queda quieto.
+
+Obito respira hondo, de golpe, como alguien que sale del agua. Se le tensa el cuello.
+
+Abre la boca.
+
+—Rin... —murmura, sin abrir los ojos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1419 · NARUTO · DÍA 1 · 16:08          ║
+║ Konoha · carpa de la colina                  ║
+║ NIVEL 29 · EXP 306.730/320.000               ║
+║ FRAGMENTOS 113.524 · 0 ryo                   ║
+║ Energía 84% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Neji siga vivo          ║
+║ OBJETIVO: Sellar a Obito                     ║
+╚══════════════════════════════════════════════╝
+```
+
+
+---
+
+ESTADO AL CIERRE: NARUTO, Día 1 16:08, carpa de la colina (sigue en pie entre casas nuevas). "Podría probarlo." Tsunade: "Es más de lo que tengo." Van Tsunade, Minato, Kakashi, Fugaku y Facundo (Kase en el hombro); Homura y Koharu quedan en la Torre con ANBU. Yamato (custodio) ve a Minato, congelado. Ibiki ya selló a Obito (venda sellada en el ojo derecho). Obito empezó a mover los dedos hace unos minutos. Al entrar: respira hondo y murmura "Rin...", sin abrir los ojos. Facundo puede actuar (sellarlo).
