@@ -3,97 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1599)
-
-le pego conteniendome un poco para no matarlo
-
-## RESPUESTA 1 (T1599)
-
-> le pego conteniendome un poco para no matarlo
-
-Bajas un poco.
-
-No todo: lo justo. Del poder que tenías reunido sueltas una parte, y la explanada deja de hundirse. Las rocas del cielo dejan de caer y quedan flotando donde estaban, torcidas. La barrera de Whis vuelve a ser una cúpula, doblada y temblando, pero entera. Las chispas plateadas que colgaban en el aire caen como nieve.
-
-Bills lo ve. Las orejas le suben un poco.
-
-—Eso es trampa —dice, con la voz temblando.
-
-Y se lanza.
-
-Tu cuerpo también. No lo decides tú: el Ultra Instinto elige el momento, el ángulo y el pie de apoyo. Tu puño derecho sale al encuentro del suyo, y los dos se cruzan a mitad de camino, en el centro exacto de la explanada.
-
-Por un instante no pasa nada.
-
-Los dos puños se tocan nudillo contra nudillo. El violeta del Hakai contra el plata. La luz sin centro de Bills se aprieta contra tu mano, quiere entrar, busca la orden de deja de ser.
-
-No encuentra por dónde.
-
-El violeta se agrieta. Las grietas le suben por los nudillos, por la muñeca, por el brazo, blancas, finas, igual que ayer. Y el aura de Bills se rompe en pedazos, como un vidrio pisado.
-
-El sonido llega tarde, y llega de golpe. Un trueno que no termina de sonar.
-
-Bills sale despedido hacia atrás, con el brazo estirado todavía. Cruza la explanada sin tocar el suelo. Atraviesa la barrera de Whis, que esta vez se rompe de verdad, en mil pedazos de luz que se apagan en el aire. Pasa rozando la silla de playa, sobre la cabeza de Kase, y Kase no se agacha. Cruza el jardín. Le pega a la base de la pirámide y entra en la piedra.
-
-La pirámide tiembla de arriba abajo. Una grieta enorme le sube por el frente hasta la punta. Pero no se cae.
-
-Después, silencio.
-
-El polvo baja despacio, en el aire quieto. Las rocas flotantes del cielo se acomodan solas, de a poco, en sus lugares. En la base de la pirámide hay un agujero con forma de gato.
-
-Afuera, nadie se mueve. Goku sigue de rodillas, con la boca abierta. Vegeta tiene los ojos fijos en el agujero y no parpadea. Whis tiene el báculo levantado, a medio camino de algo que no llegó a hacer, y lo baja muy despacio.
-
-Kase se vuelve a sentar en el apoyabrazos.
-
-Del agujero de la pirámide sale tosiendo un hilo de polvo. Después una mano violeta, que se agarra del borde. Después una oreja, torcida.
-
-Bills sale arrastrándose. Se deja caer de espaldas en el pasto del jardín, con los brazos abiertos. Tiene la ropa hecha jirones, el brazo derecho colgando, sin fuerza, y la cara llena de polvo. Respira por la boca. Mira el cielo.
-
-Y se ríe. Bajito al principio. Después más fuerte, aunque le duele.
-
-[Rival vencido: Bills, Dios de la Destrucción del Universo 7.]
-
-[Has obtenido 50.000 Fragmentos.]
-
-[Has obtenido 40.000 EXP.]
-
-[Has subido de nivel.]
-
-Whis llega a su lado sin caminar: un segundo está en la silla, y al siguiente está parado junto a Bills, mirándolo desde arriba con el báculo en la mano.
-
-—¿Está entero, Bills-sama?
-
-—Estoy existiendo —dice Bills, mirando el cielo, sin dejar de reír—. Que ya es bastante.
-
-Gira la cabeza en el pasto, despacio, y te busca con los ojos al otro lado de la explanada.
-
-—Te contuviste —te dice. No suena enojado. Suena a otra cosa—. Al final te contuviste, muchacho del bolsillo. Lo vi.
-
-Cierra los ojos.
-
-—Bien hecho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1599 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada destrozada · mediodía              ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.161 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: sentado en el apoyabrazos de Whis      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1600)
+## COMANDO 1 (T1600)
 
 le doy una semilla, comela señor bills, no quiero que mi dios de la destrucción esté asi
 
-## RESPUESTA 2 (T1600)
+## RESPUESTA 1 (T1600)
 
 > le doy una semilla, comela señor bills, no quiero que mi dios de la destrucción esté asi
 
@@ -163,11 +77,11 @@ Bills te vuelve a mirar, de reojo.
 
 ---
 
-## COMANDO 3 (T1601)
+## COMANDO 2 (T1601)
 
 tengo bastantes mas(hace que valga un fragmento nada mas) y compro 100, y se las doy, señor bills, con respecto a que te dije antes mi Dios de la destrucción es por que eres de mi universo, no intentaba ser ofensivo ni nada de eso
 
-## RESPUESTA 3 (T1601)
+## RESPUESTA 2 (T1601)
 
 > tengo bastantes mas(hace que valga un fragmento nada mas) y compro 100, y se las doy, señor bills, con respecto a que te dije antes mi Dios de la destrucción es por que eres de mi universo, no intentaba ser ofensivo ni nada de eso
 
@@ -229,4 +143,68 @@ Vegeta viene detrás, caminando despacio, con los brazos cruzados. No pide nada.
 
 ---
 
-ESTADO AL CIERRE: Bills con 100 semillas: "Tu Dios de la Destrucción. Puedes decirlo. A ti te dejo." Goku pide una semilla. Vegeta: "Cuando terminen con las semillas, quiero hablar contigo." Facundo puede actuar.
+## COMANDO 3 (T1602)
+
+le doy una semilla a goku y voy con vege5a
+
+## RESPUESTA 3 (T1602)
+
+> le doy una semilla a goku y voy con vege5a
+
+Sacas una semilla del inventario y se la tiras a Goku.
+
+Goku la atrapa en el aire con dos dedos, sin mirar, como si fuera lo más natural del mundo.
+
+—¡Gracias! —La guarda en el cinturón del gi, con cuidado, y le da dos palmaditas—. Para después. Por si acaso.
+
+Te das vuelta hacia Vegeta.
+
+Él ya está caminando, sin esperar, hacia el borde del jardín, lejos de la pirámide, lejos de Bills, de Whis y de Goku. No te dice que lo sigas. Sabe que lo vas a seguir.
+
+Lo sigues.
+
+Kase salta del apoyabrazos de Whis y viene detrás de ti, trotando entre los pozos de la explanada, con la cola levantada. Te alcanza y se te sube al hombro de un salto.
+
+Vegeta se detiene al borde del jardín, donde el pasto termina y empieza el vacío del cielo, verde y dorado, con las rocas flotantes a lo lejos. Se queda mirando para afuera, con los brazos cruzados y la espalda recta. No se da vuelta.
+
+Pasa un rato largo. El viento le mueve el pelo, de punta, negro. Detrás, muy lejos, se oye a Goku pidiéndole a Bills una hamburguesa, y a Bills contestándole que no.
+
+—En la Tierra me prometiste algo —dice Vegeta, al fin, sin mirarte—. Que cuando te alcanzara, ibas a dejar de contenerte conmigo.
+
+Hace una pausa.
+
+—Hoy vi lo que es que dejes de contenerte. —Lo dice entre dientes, cada palabra con esfuerzo—. El suelo bajó dos metros. Las rocas se caían del cielo. Bills, el Dios de la Destrucción, temblaba. Y tú todavía no habías golpeado.
+
+Aprieta los brazos cruzados.
+
+—Y ese plateado. El de Kakaroto, el que el ángel dice que es el secreto de los dioses. Tú lo tienes dominado. —Se le endurece la voz—. No lo quiero.
+
+Se da vuelta. Te mira a la cara, de frente, con los ojos negros, duros, sin rabia.
+
+—No voy a copiar eso. No voy a moverme sin pensar como un animal, ni pelear vacío. Ese no es mi camino. Yo soy el príncipe de los saiyajin, y lo que yo tenga lo voy a sacar de mí mismo, a mi manera. Aunque me lleve años.
+
+Kase, en tu hombro, lo mira sin parpadear.
+
+Vegeta descruza los brazos. Por un segundo parece que va a decir algo más, y le cuesta. Al final lo dice, mirándote fijo.
+
+—No te pido que me entrenes. No te pido nada. —Una pausa—. Solo esto: el día que esté listo, y voy a estar listo, no quiero que te hayas ido.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1602 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde del jardín · mediodía                  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 55% · Ojos: bien · cortes cerrados   ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+Corrección: interpreté "vege5a" como Vegeta.
+
+---
+
+ESTADO AL CIERRE: A solas con Vegeta al borde del jardín. Vegeta rechaza el UI y le pide: "El día que esté listo, no quiero que te hayas ido." Facundo puede contestar.

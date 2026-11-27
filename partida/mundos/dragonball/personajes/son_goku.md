@@ -133,3 +133,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1598 · Cae de rodillas sin que nada lo toque cuando Facundo deja de contenerse.
 - T1599 · Ve el golpe final: sigue de rodillas, boca abierta.
 - T1601 · "¡Facundo! ¿Cien semillas? ¿Me das una a mí también? ¡Para después! ¡Por si acaso!"
+- T1602 · Recibe una semilla del ermitaño de Facundo (la atrapa con dos dedos): "¡Gracias! Para después. Por si acaso." La guarda en el cinturón del gi. Le pide hamburguesa a Bills (no).
