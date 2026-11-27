@@ -47,7 +47,7 @@ QUÉ PASA:
 27. Padre intenta absorber a Greed; Greed sale del cuerpo de Ling y carboniza a Padre (lo endurece hasta romperlo). Padre extingue el alma de Greed.
 28. Ed atraviesa el pecho de Padre con un puñetazo, liberando las almas de Xerxes. Padre implosiona y es arrastrado a la Puerta (la Verdad).
 29. Ed ofrece su propia Puerta (su alquimia) como costo para traer a Al con su cuerpo. Lo logra; Ed pierde la alquimia para siempre.
-30. Ling lleva al doctor de dientes de oro a Xing (piedra para Mustang/curación; ver Dudas). Marcoh usa una piedra para curar la columna de Havoc y la vista de Mustang. Mustang supervisa la restauración de Ishval.
+30. Ling vuelve a Xing con una Piedra Filosofal para asegurar el trono (origen exacto de la piedra: ver Dudas). Marcoh usa una piedra para curar la columna de Havoc y la vista de Mustang. Mustang supervisa la restauración de Ishval.
 31. Hohenheim, con su piedra agotada, muere ante la tumba de Trisha.
 32. Epílogo (2 años): Grumman es Führer; visita a la señora Bradley y a Selim reformado. Al viaja a Xing con Jerso y Zampano para aprender alkahestria con May. Ed va al Oeste (Creta) a estudiar. Ed le propone matrimonio a Winry; ella acepta. (Página final: fotos familiares con hijos — ver Dudas.)
 
@@ -91,8 +91,8 @@ EN PARALELO:
 
 QUÉ CAMBIA DESPUÉS:
 - Amestris reformado; Ishval reconstruido.
-- Ling será emperador de Xing (implícito, por la piedra/inmortalidad obtenida: lleva a Greed... ver Dudas).
+- Ling regresa a Xing como candidato a emperador con la piedra.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Wikipedia dice que Ling se llevó al doctor de dientes de oro a Xing; en el manga se lleva su conocimiento/piedra. No confirmado con segunda fuente.
+- Origen de la piedra que se lleva Ling: Wikipedia lo relaciona con el doctor de dientes de oro (que murió como material en el paso 18); contradicción interna de la fuente, no resuelta.
 - Las fotos familiares finales (hijos de Ed y Winry) aparecen en la última página; detalles exactos no confirmados.
