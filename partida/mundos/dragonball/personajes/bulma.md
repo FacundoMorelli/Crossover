@@ -40,3 +40,4 @@ TIENE: libro de Paradis (T1542).
 - T1622 · "Si termina pasando algo entre nosotros." "Ay, ya estás pensando en el futuro. Qué tierno." Avisa a Erasa a medias: amigos especiales, uno alto, violeta, orejas grandes; "no le digas que parece un gato. Ni lo mires mucho cuando come." "No es disfraz. Tú confía." "Lo demás, que lo descubra sola."
 - T1623 · Le saca una foto a Goten abrazando a Kase sin que nadie se dé cuenta.
 - T1635 · Ve aterrizar a Trunks y Vegeta negros de hollín; se ríe; la foto de la montaña rusa a la heladera (Vegeta la arranca dos veces; ella la vuelve a pegar). Arma la mesa larga con lucecitas. Abre a Erasa: "Te dije que no era disfraz."
+- T1636 · "Eso es que le gustó. A mí ni me mira." Pone la torta frente a Bills.

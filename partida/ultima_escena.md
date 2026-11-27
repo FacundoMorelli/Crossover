@@ -3,101 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1633)
-
-les enseñó otra tecnica
-
-## RESPUESTA 1 (T1633)
-
-> les enseñó otra tecnica
-
-Miras alrededor. Hay demasiada gente: familias, filas, chicos corriendo con globos.
-
-Les haces una seña con la cabeza para que te sigan.
-
-Goten y Trunks te siguen al trote, con los algodones a medio comer. Vegeta viene detrás, despacio, con su algodón en la mano y la cara de quien no está siguiendo a nadie, solo caminando para el mismo lado. Al pasar por el banco, Kase salta al suelo y se suma a la fila, con la cola en alto.
-
-Detrás del parque, pasando la cerca de los juegos, hay un campo abierto de pasto alto, con unos árboles al fondo y nadie a la vista. Solo grillos y el ruido lejano de la montaña rusa.
-
-Te paras en el medio del pasto. Los dos chicos frente a ti. Vegeta, apoyado en un árbol, de brazos cruzados. Kase, sentado en una piedra.
-
-Levantas las dos manos, con las palmas hacia arriba.
-
-En cada una se te enciende una esfera de ki, chiquita, del tamaño de una pelota de tenis. Las dos de luz blanca, pero no iguales: la de la mano derecha gira hacia un lado y la de la izquierda hacia el otro, rápido, zumbando.
-
-Las sueltas al mismo tiempo, hacia adelante.
-
-No van derecho. Se buscan. Se van acercando en el aire y empiezan a girar una alrededor de la otra, como dos bichos de luz que se persiguen, cada vez más cerca, cada vez más rápido. El zumbido se vuelve un silbido agudo.
-
-Y se tocan.
-
-No explotan enseguida. Se funden en una sola, más grande que las dos juntas, del tamaño de una sandía, temblando, con los dos giros enroscados adentro como un remolino. La esfera viaja unos metros más, sola, y se estrella contra el suelo del fondo del campo.
-
-La explosión levanta un círculo de tierra y pasto. Cuando se asienta, hay un pozo redondo, liso, mucho más hondo de lo que harían dos esferas así por separado.
-
-Los grillos se callan.
-
-Goten tiene la boca abierta y el algodón de azúcar colgando. Trunks se olvidó de que tenía la foto en la mano.
-
-Contra el árbol, Vegeta deja de masticar. Mira el pozo con los ojos entrecerrados, muy serio.
-
-—Ki puro —murmura—. Dos giros opuestos. Uno empuja y el otro tira. Cuando se encuentran, se multiplican. —Una pausa—. Hmph. Eso lo puede hacer un saiyajin.
-
-—¡Yo primero! —grita Trunks.
-
-—¡No, yo! —Goten tira el algodón al pasto.
-
-Los dos se paran uno al lado del otro, con las manos extendidas. A Trunks se le enciende una esfera enseguida, en la derecha, girando para un lado. A Goten le cuesta un poco más, pero le sale, en la izquierda, girando para el otro.
-
-La sueltan.
-
-Las dos esferas salen torcidas. Se cruzan sin tocarse, siguen de largo, dan media vuelta solas en el aire, confundidas, y vuelven derecho hacia los chicos.
-
-Les explotan en la cara a los dos al mismo tiempo.
-
-Cuando se va el humo, Goten y Trunks están sentados en el pasto, negros de hollín de la frente al mentón, despeinados, con el pelo humeando. Se miran. Se empiezan a reír.
-
-—¡Otra vez! —dicen los dos.
-
-Esta vez se miran antes. Trunks cuenta hasta tres. Las sueltan juntos.
-
-Las esferas se buscan. Giran una alrededor de la otra, torpes, a los tirones, una más rápido que la otra, como dos chicos bailando sin ritmo. Se acercan. Se tocan.
-
-Se funden.
-
-La esfera nueva sale chueca, deformada, del tamaño de un melón, y explota a mitad de camino, antes de llegar al suelo. Pero explota grande. Mucho más grande que cualquiera de las dos solas.
-
-Goten y Trunks se quedan quietos, mirando el humo en el aire.
-
-Después gritan, se abrazan, saltan, se caen al pasto, se vuelven a parar.
-
-—¡Lo hicimos! ¡Lo hicimos! —Trunks se da vuelta hacia ti, negro de hollín, con los ojos enormes—. ¡¿Cómo se llama?! ¡¿Cómo se llama la técnica?!
-
-—¡Tiene que tener nombre! —Goten salta—. ¡Uno genial!
-
-Contra el árbol, Vegeta termina el algodón de azúcar, en silencio. No dice nada. Pero no le saca los ojos de encima a Trunks.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1633 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Campo detrás del parque · tarde              ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sentado en una piedra                  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1634)
+## COMANDO 1 (T1634)
 
 Les digo que ellos le pongan nombre
 
-## RESPUESTA 2 (T1634)
+## RESPUESTA 1 (T1634)
 
 > Les digo que ellos le pongan nombre
 
@@ -173,11 +83,11 @@ Vegeta mira el cielo naranja y después a ti.
 
 ---
 
-## COMANDO 3 (T1635)
+## COMANDO 2 (T1635)
 
 esta bien, volvemos, simula hasta la cena
 
-## RESPUESTA 3 (T1635)
+## RESPUESTA 2 (T1635)
 
 > esta bien, volvemos, simula hasta la cena
 
@@ -265,4 +175,74 @@ Se da cuenta de lo que dijo. Se pone roja. Te mira a ti, con la caja de torta en
 
 ---
 
-ESTADO AL CIERRE: 20:00, llegó Erasa. Vio a Bills y Whis ("No era disfraz"). A Facundo: "Tú eres Facundo, ¿no? Yo soy Erasa. Traje torta." Facundo puede contestar.
+## COMANDO 3 (T1636)
+
+Mucho gusto erasa
+
+## RESPUESTA 3 (T1636)
+
+> Mucho gusto erasa
+
+> —Mucho gusto, Erasa.
+
+—¡Mucho gusto! —Lo dice demasiado fuerte. Se da cuenta, se tapa la boca con la mano de la torta y casi se le cae la caja—. Ay. Perdón. Mucho gusto. Más bajito. Así.
+
+Videl, desde la mesa, se ríe detrás de la mano. Gohan le da un codazo suave.
+
+Erasa respira hondo. Se acomoda un rulo detrás de la oreja. Después se agacha, muy despacio, delante de la silla de Kase, y saca de la bolsita el ratón de juguete: gris, de tela, con una cola de cuerda y un cascabel chiquito en el cuello.
+
+—Hola, Kase —le dice, bajito, como si le hablara a una persona—. Te traje esto. La señora de la tienda dijo que es el que más les gusta a los gatos grandes.
+
+Lo deja en la silla, al lado de las patas de Kase.
+
+Kase mira el ratón. Mira a Erasa. Se queda quieto un largo rato, con los ojos rojo y azul fijos en ella, sin parpadear, con esa cara seria y arrogante de siempre.
+
+Erasa no se mueve. Le sostiene la mirada, conteniendo la respiración.
+
+Kase baja la cabeza. Huele el ratón. Le da un golpecito con la pata, uno solo, que hace sonar el cascabel. Y después, con toda la calma del mundo, se echa encima del ratón, como una gallina sobre un huevo, y cierra los ojos.
+
+—¡Le gustó! —Erasa se tapa la boca con las dos manos, encantada—. ¡Le gustó! ¿Le gustó, no? ¿Eso es que le gustó?
+
+—Eso es que le gustó —dice Bulma, sorprendida—. A mí ni me mira.
+
+—A mí me despreció en un barco —dice Bills desde la cabecera, sin sacar los ojos de las fuentes.
+
+Erasa se da vuelta hacia la voz. Ve a Bills mirándola. Se queda dura.
+
+Bills señala la caja con un dedo.
+
+—Eso. ¿Es torta de chocolate?
+
+—S... sí. —Erasa traga saliva—. De mi mamá. Con chocolate por dentro y por fuera.
+
+Bills asiente, muy serio, y vuelve a mirar las fuentes.
+
+—Bien. Ponla donde yo la vea.
+
+Bulma le saca la caja de las manos a Erasa, rápido, antes de que se le caiga, y la pone en el centro de la mesa, frente a Bills. Bills no le saca los ojos de encima.
+
+Erasa se endereza. Mira la silla vacía que queda del otro lado de la tuya. Te mira a ti, de reojo, mordiéndose el labio. Se sienta ahí, despacio, alisándose el vestido amarillo.
+
+Se queda un segundo callada, cosa que se nota que le cuesta muchísimo.
+
+Después se inclina un poco hacia ti, lo justo para verte la cara de cerca bajo las lucecitas del jardín, y te mira los ojos. Primero el rojo. Después el azul. Después el rojo otra vez.
+
+—Son naturales de verdad —dice, casi en un susurro, asombrada—. Pensé que Videl me mentía. —Se le escapa una risita nerviosa—. ¿Siempre fueron así?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1636 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:05     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa sentada al lado de Facundo; Kase aceptó su ratón. Erasa: "Son naturales de verdad. ¿Siempre fueron así?" Facundo puede contestar.
