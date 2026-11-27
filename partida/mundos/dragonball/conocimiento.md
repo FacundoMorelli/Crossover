@@ -130,3 +130,4 @@
 - Bulma · T1542 · Por Facundo: un libro del lugar de los titanes; ve los grabados (murallas, titanes). Lo va a descifrar.
 - Vegeta · T1543 · Ve que Facundo aguanta 300G y 500G sin doblarse y lo estrella contra la pared con una palma, con un ki casi nulo. Confirma que se contiene.
 - Vegeta · T1544 · Ve la Forma Cenit de Facundo a pleno (x10) pero contenida (sin dañar nada). Sigue sin sentirle el ki.
+- Vegeta · T1545 · Ve a Facundo recibir y contener su Final Flash sin moverse.

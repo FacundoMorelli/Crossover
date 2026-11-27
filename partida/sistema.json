@@ -1,8 +1,8 @@
 {
-  "turno": 1544,
+  "turno": 1545,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (día después del cumpleaños de Bulma)",
-  "hora": "año 778, domingo, 06:07",
+  "hora": "año 778, domingo, 06:09",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2672,5 +2672,5 @@
       "estado": "pareja"
     }
   },
-  "forma_activa": "Forma Cenit (x10, 45 min, contenida) desde T1544 06:07"
+  "forma_activa": "Forma Cenit (x10, contenida) desde 06:07; quedan ~43 min"
 }
