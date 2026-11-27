@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1665)
-
-tengo 18
-
-## RESPUESTA 1 (T1665)
-
-> tengo 18
-
-> —Tengo dieciocho.
-
-El tenedor de la madre de Erasa queda suspendido en el aire, a mitad de camino.
-
-Erasa tose. Se atraganta con una papa, se pega dos golpes en el pecho, toma agua, tose otra vez. Tiene los ojos llorosos y la cara roja, y esta vez no es de vergüenza.
-
-—¿Dieciocho? —dice, con la voz rota por la tos—. ¿DIECIOCHO?
-
-—Dieciocho —repite la madre, despacio, saboreando la palabra como si fuera un caramelo ácido. Deja el tenedor en el plato. Se le está formando una sonrisa enorme en la cara y no hace nada por esconderla—. Dieciocho años. Mira tú.
-
-Se gira hacia su hija con toda la calma del mundo.
-
-—Erasa, mi amor. ¿Cuántos años tienes tú?
-
-—Mamá, no.
-
-—Veintidós. —La madre se contesta sola, encantada—. Veintidós años cumplidos en marzo. —Se lleva una mano al pecho, con un dramatismo que se nota que heredó Erasa—. ¡Le llevas cuatro años! ¡Cuatro! ¡Cuando tú estabas en la preparatoria enamorada del Gran Saiyaman, este chico estaba en la primaria!
-
-—¡MAMÁ!
-
-—¡Y yo preguntándole de qué vive! ¡Si es un nene! —Se ríe, se ríe de verdad, con la cabeza para atrás, y tiene que secarse un ojo con la servilleta—. Ay, perdón, querido. Perdón. No es contigo. Es que yo pensaba que tenías como veinticinco. Con esas cicatrices, con ese aplomo, con ese aerodeslizador... —Vuelve a reírse—. Y eres un bebé.
-
-Erasa no se ríe. Está colorada hasta las orejas, con la servilleta apretada en el puño, mirándote con los ojos muy abiertos, como si te viera por primera vez. Debajo de la mesa, su pie se queda quieto. No se va. Pero se queda quieto.
-
-—Yo... —empieza. Mira a su madre, que sigue secándose las lágrimas de risa. Te mira a ti otra vez. Baja la voz—. Yo no sabía. Nunca te pregunté. Pensé que eras... no sé. Más grande que yo. Por cómo hablas. Por cómo haces todo.
-
-Se muerde el labio.
-
-—¿A ti no te molesta? —pregunta, muy bajito, por encima del pollo—. Que yo sea más grande, digo. Cuatro años.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1665 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 20:37        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1666)
+## COMANDO 1 (T1666)
 
 no, no me molesta, videl ya me habia dicho tu edad
 
-## RESPUESTA 2 (T1666)
+## RESPUESTA 1 (T1666)
 
 > no, no me molesta, videl ya me habia dicho tu edad
 
@@ -109,11 +55,11 @@ Erasa se inclina hacia ti por encima de la mesa, con el bombón redondo en la ma
 
 ---
 
-## COMANDO 3 (T1667)
+## COMANDO 2 (T1667)
 
 no me contó mucho más
 
-## RESPUESTA 3 (T1667)
+## RESPUESTA 2 (T1667)
 
 > no me contó mucho más
 
@@ -169,4 +115,54 @@ Erasa no se mueve. Mira la escalera por donde se fue su madre, con la boca abier
 
 ---
 
-ESTADO AL CIERRE: martes 21:05, cocina comedor de la casa de Erasa. La mamá sirvió café, dio su veredicto (todo bien: pollo, honestidad, edad, bombones) y amenazó con cariño: "si la haces llorar, te encuentro, no me importa en qué isla estés"; se fue a dormir (se levanta a las seis). Facundo y Erasa solos en la cocina; el horno prendido. Erasa: "Te amenazó. Eso quiere decir que le caíste bien."
+## COMANDO 3 (T1668)
+
+me acerco a erasa y le doy un beso, menos mal
+
+## RESPUESTA 3 (T1668)
+
+> me acerco a erasa y le doy un beso, menos mal
+
+> —Menos mal.
+
+Te levantas, rodeas la mesa y te acercas a ella.
+
+Erasa te ve venir. Se queda quieta en la silla, con la taza de café a mitad de camino, y la deja en el plato sin mirar, a ciegas. Hace un clic torcido.
+
+Te inclinas y la besas.
+
+Sabe a chocolate del bombón y a café con leche. Ella levanta la cara hacia ti, te agarra de la camisa con las dos manos, como en el aerodeslizador, y te tira hacia abajo. La silla cruje. Uno de los rulos te cae sobre la frente.
+
+Arriba, en el segundo piso, se cierra una canilla. Ninguno de los dos se da cuenta.
+
+Cuando te separas, Erasa no te suelta la camisa. Se queda mirándote desde abajo, con las mejillas rojas, la respiración corta y una sonrisa que se le escapa por todos lados.
+
+—"Menos mal" —te imita, bajito, con tu cara seria. Y se ríe contra tu pecho—. Mi mamá te amenaza de muerte y tú dices "menos mal". Eres imposible. Te lo dije el primer día y lo sostengo.
+
+Tic, tic, tic, hace el horno.
+
+—El horno —se acuerda, sin moverse—. Tengo que apagar el horno.
+
+No lo apaga. Sigue agarrada de tu camisa.
+
+Mira hacia la sala, donde Kase duerme en la almohadita nueva, hecho una bola. Mira el reloj de la cocina, que tiene forma de pato, como todo en esta casa, y marca las nueve y diez. Te mira a ti otra vez, y se muerde el labio.
+
+—Es temprano —dice—. Bueno, no es temprano. Pero es temprano. —Baja la voz, aunque no haya nadie—. ¿Te quedas un rato más? Podemos ver una película en el sillón. Bajito, para no despertar a mi mamá. —Se le escapa una risa—. Tengo una de barcos. Te aviso desde ahora que lloro en el final.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1668 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 21:10        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 21:10, cocina comedor, solos. Beso; Erasa agarrada de su camisa. "Menos mal" (ella lo imita: "Eres imposible"). El horno sigue prendido (tic tic). Invita: "¿Te quedas un rato más? Podemos ver una película en el sillón. Bajito. Tengo una de barcos. Lloro en el final." La mamá arriba (se cerró una canilla).
