@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1485)
-
-hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
-
-## RESPUESTA 1 (T1485)
-
-> hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
-
-> —Hasta mañana. Me gustaría quedarme más, pero tengo algo que hacer. Vamos a festejar esta noche.
-
-Ymir hace una mueca. La boca se le tuerce hacia un costado, como si fuera a decir algo filoso. Abre la boca para decirlo.
-
-Te inclinas hacia su oreja.
-
-> —Solos.
-
-Ymir cierra la boca.
-
-No dice nada. Se queda quieta, con la cara a un palmo de la tuya y los ojos clavados en el mar. Y la oreja que tienes al lado, la misma donde acabas de susurrar, se le pone tan roja que parece que va a echar humo. Después la otra. Después el cuello. Las pecas desaparecen en la cara colorada.
-
-Kase, desde tu hombro, la mira con mucho interés.
-
-—Hasta mañana —dice Ymir al fin, todavía mirando el mar, con la voz más baja de lo que le gustaría—. Un día. Te vas mañana y apareces cuando se te dé la gana, con cincuenta días de atraso y otro mundo salvado en el bolsillo.
-
-Te suelta la mano. Se cruza de brazos. Se da vuelta para que no le veas la cara, que es peor, porque ahora le ves la nuca roja.
-
-—Está bien. Festejamos. —Una pausa—. Solos.
-
-Lo repite como si lo estuviera probando. Después se le escapa una risa corta por la nariz, y se da vuelta otra vez, con la ceja levantada y la sonrisa torcida de vuelta en su lugar, aunque las orejas no se le enfrían.
-
-—Pero no en la casa de los Jaeger, lindo. Carla nos deja la cama hecha todas las mañanas y no pienso darle más motivos para sonreír así.
-
-Detrás de ustedes, en el muelle, Hange los mira con los anteojos negros de grasa, el trapo en la mano, y una sonrisa enorme. Levi la agarra del cuello de la camisa y se la lleva hacia la moto antes de que diga nada.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1485 · SHINGEKI · DÍA 129 · 07:28      ║
-║ Costa este de Paradis · muelle del puerto    ║
-║ nuevo                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Festejar esta noche con Ymir;      ║
-║ irse mañana · algo para Robin                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1486)
+## COMANDO 1 (T1486)
 
 le susurro vamos a otro lugar, al aire libre
 
-## RESPUESTA 2 (T1486)
+## RESPUESTA 1 (T1486)
 
 > le susurro vamos a otro lugar, al aire libre
 
@@ -101,11 +49,11 @@ Ymir te toma de la manga del sobretodo y tira un poquito, como si no quisiera qu
 
 ---
 
-## COMANDO 3 (T1487)
+## COMANDO 2 (T1487)
 
 a un lugar lindo, simula hasta que mañana me vaya a dragon ball
 
-## RESPUESTA 3 (T1487)
+## RESPUESTA 2 (T1487)
 
 > a un lugar lindo, simula hasta que mañana me vaya a dragon ball
 
@@ -193,4 +141,54 @@ Detrás de él, desde la puerta del edificio, sale corriendo alguien alto, verde
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777, Templo Sagrado. Facundo llegó desde Shingeki tras la noche con Ymir. Mr. Popo lo saluda; Dende corre: "¡Facundo-san! ¡Volviste!" Facundo puede actuar.
+## COMANDO 3 (T1488)
+
+hola dende, como estan todos? (cuanto queda para bills?)
+
+## RESPUESTA 3 (T1488)
+
+> hola dende, como estan todos? (cuanto queda para bills?)
+
+> —Hola, Dende. ¿Cómo están todos?
+
+Dende se ríe, nervioso, y se rasca la nuca, como cuando era más chico.
+
+—¡Bien! ¡Todos bien! Pasaron casi tres años, Facundo-san. Tres años de paz. —Lo dice como si todavía no se lo creyera—. Mr. Popo y yo los miramos desde aquí arriba todos los días. Es lo único que hacemos. Bueno, Mr. Popo también riega.
+
+—Mr. Popo riega mucho —dice Mr. Popo.
+
+Dende se acerca al borde de la plataforma y señala hacia abajo, a la Tierra, entre las nubes, como si pudiera verlos uno por uno desde ahí. Tal vez pueda.
+
+—Gohan-san y Videl-san se casaron. Hace dos años. Hicieron la fiesta en la mansión de Mr. Satán, y Mr. Satán lloró todo el día. Gohan-san estudia mucho, quiere ser investigador. Y Videl-san... —Sonríe—. Videl-san sigue entrenando todas las mañanas. Dice que si vuelves, te va a pedir la revancha. Gohan-san dice que no se lo diga, que le da miedo.
+
+Cuenta con los dedos.
+
+—Goten y Trunks ya van a la escuela. Bueno, Trunks va; Goten se escapa. Vegeta-san entrena en la cámara de gravedad de Bulma-san todos los días, y no le habla a nadie. Krilin-san es policía. Número 18 y Marron están bien. Piccolo-san medita en la cascada. Buu-san vive con Mr. Satán y con Bee, y come dulces todo el día, y no hizo nada malo. Ni una vez.
+
+Se detiene. Mira hacia el cielo, hacia arriba, hacia algún lugar que no es la Tierra.
+
+—Y Goku-san no está en la Tierra. Hace unos meses se fue al planeta de Kaio-sama, al Otro Mundo, a entrenar. Milk-san está muy enojada. Dice que tenía que trabajar en la granja. —Se ríe—. Pero pregunta por ti. Cada vez que habla con Kaio-sama, le dice que te pregunte si volviste.
+
+Se da vuelta hacia ti, con las manos juntas delante del pecho.
+
+—Bulma-san va a hacer una fiesta enorme para su cumpleaños, dentro de poco. Va a estar todo el mundo. —Te mira, esperanzado—. ¿Quieres que le avise a Kaio-sama que estás aquí? Así Goku-san se entera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1488 · DRAGON BALL · AÑO 777 · MAÑANA  ║
+║ Templo Sagrado                               ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+(Para el jugador: faltan unos 10 días de tu tiempo. Bills llega el año 778, el día del cumpleaños de Bulma.)
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777, Templo Sagrado. Dende contó los tres años y ofrece avisar a Kaio-sama para que Goku sepa que volvió. Bills en ~10 días (cumpleaños de Bulma). Facundo puede responder.
