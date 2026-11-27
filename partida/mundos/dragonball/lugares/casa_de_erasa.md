@@ -5,3 +5,4 @@ QUIÉN VIVE: Erasa y su mamá (el papá viaja por trabajo).
 VISITAS DE FACUNDO:
 - T1654 · 23:31 · La deja en la puerta en el aerodeslizador de Bulma. Luz del living encendida; la cortina se movió una vez.
 - T1655 · 23:33 · Primer beso en el aerodeslizador frente a la vereda. Se enciende una luz en el segundo piso.
+- T1661 · Interior: chica, tibia, llena de cosas; fotos de Erasa de todas las edades; vitrina de imanes de aeropuerto; sillón floreado; almohadita nueva para Kase; cocina detrás de una puerta vaivén; escalera al segundo piso.

@@ -1659,3 +1659,4 @@ T1657 · DRAGON BALL · Capital del Oeste · SIMULACIÓN sáb→lun. Bills y Whi
 T1658 · DRAGON BALL · Calle de los Tilos 14 · "Sí, a las ocho estoy ahí." Beso rápido. La mamá: "¡A las ocho en punto!" Kase invitado.
 T1659 · DRAGON BALL · Calle de los Tilos 14 · SIMULACIÓN hasta martes 20:00. Bombones de Bulma. Gohan advierte. La mamá de Erasa abre: "¿Tú de qué vives, querido?"
 T1660 · DRAGON BALL · Calle de los Tilos 14 · Bombones a la mamá; "soy viajero". Mamá: "Viajar no es un trabajo, es un gasto." Erasa: "¡¿Ya le estás preguntando por la plata?!"
+T1661 · DRAGON BALL · casa de Erasa · "Es complicado de explicar; no necesito nada de eso por ahora." Mamá: "Herencia. O lotería. O algo peor." Erasa: "No eres mafioso ni príncipe, ¿no?"

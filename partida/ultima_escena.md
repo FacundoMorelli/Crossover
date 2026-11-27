@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1658)
-
-si a las ocho estoy ahi
-
-## RESPUESTA 1 (T1658)
-
-> si a las ocho estoy ahi
-
-> —Sí, a las ocho estoy ahí.
-
-Erasa suelta todo el aire de golpe, como cuando a Bills le gustó la torta.
-
-—Bueno. Bueno, bueno, bueno. —Se tapa la cara con la mano libre y se ríe adentro—. Le digo. Le digo ahora. Va a hacer pollo al horno, seguro. Siempre que quiere impresionar a alguien hace pollo al horno. —Te apunta con un dedo—. Si no te gusta, dices que te gusta. Igual que con la torta, pero mintiendo.
-
-Se pone en puntas de pie, te da un beso rápido, corto, en la boca, y abre la reja antes de que puedas hacer nada.
-
-Desde adentro de la casa, antes de que llegue a la puerta, se oye la voz de su madre, fuerte, a través de la ventana abierta de la cocina:
-
-—¿Y? ¿Dijo que sí?
-
-—¡Mamá! ¡Te está escuchando!
-
-—¡Mejor! ¡Que sepa que es a las ocho en punto!
-
-Erasa se da vuelta en el escalón de la entrada, roja hasta las orejas, y te hace un gesto con las dos manos que no termina de ser ni un saludo ni una disculpa. Se mete adentro. La puerta se cierra.
-
-Un segundo después se abre de nuevo, solo un poco. Asoma la cabeza rubia.
-
-—Kase también está invitado. Lo dijo ella. —Y vuelve a cerrar.
-
-Kase, a tus pies, levanta la cabeza hacia la puerta. Mueve la punta de la cola una sola vez.
-
-La calle queda tranquila. El grillo del rosal. El buzón con forma de pato. Son las diez y cuarto de la noche del lunes, y tienes por delante todo el martes hasta las ocho.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1658 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calle de los Tilos 14 · lunes · 22:15        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: a tus pies                             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa (mar 20:00)  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1659)
+## COMANDO 1 (T1659)
 
 vuelvo a la corporación y simula hasta las ocho del martes
 
-## RESPUESTA 2 (T1659)
+## RESPUESTA 1 (T1659)
 
 > vuelvo a la corporación y simula hasta las ocho del martes
 
@@ -113,11 +63,11 @@ Te aprieta la mano. Firme.
 
 ---
 
-## COMANDO 3 (T1660)
+## COMANDO 2 (T1660)
 
 le doy los bombones y le digo que soy viajero, conozco muchos lugares
 
-## RESPUESTA 3 (T1660)
+## RESPUESTA 2 (T1660)
 
 > le doy los bombones y le digo que soy viajero, conozco muchos lugares
 
@@ -161,4 +111,60 @@ Pasos en la escalera. Erasa aparece en el pasillo detrás de su madre, sin aire,
 
 ---
 
-ESTADO AL CIERRE: martes 20:02, umbral de Calle de los Tilos 14. La mamá de Erasa recibió los bombones (calle Mayor, impresionada). Insiste: viajar no es un trabajo, es un gasto; ¿de dónde sale la plata? (el papá vende repuestos de aerodeslizadores). Erasa llegó con una sola sandalia: "¡¿Ya le estás preguntando por la plata?!" Mamá: "¿Y bien, querido?"
+## COMANDO 3 (T1661)
+
+es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
+
+## RESPUESTA 3 (T1661)
+
+> es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
+
+> —Es algo complicado de explicar. Digamos que no necesito nada de eso, nada más, por ahora.
+
+La madre de Erasa no dice nada durante un segundo largo.
+
+Te mira. Mira la camisa cara. El aerodeslizador rojo en la vereda. Los aros plateados. Vuelve a tus ojos, primero el rojo, después el azul, y algo se le mueve detrás de la sonrisa, como un cajón que se abre y se cierra.
+
+—Complicado de explicar —repite—. No necesitas nada. Por ahora.
+
+—Mamá...
+
+—Ya sé, ya sé. —Levanta la mano libre, sin darse vuelta hacia su hija—. No pregunto más. En la puerta, no pregunto más.
+
+Se hace a un lado y te deja pasar. Cuando pasas a su lado, la oyes murmurar, más para sí misma que para ti: "Herencia. O lotería. O algo peor". Y después, más alto, otra vez amabilísima:
+
+—¡Pasa, pasa! Ponte cómodo. El gato también. —Mira a Kase cruzar el umbral como si la casa fuera suya—. Hay una almohadita junto al sillón, la compró Erasa esta mañana, no me preguntes por qué.
+
+—¡MAMÁ!
+
+—Lo hablamos en la mesa —termina la madre, ya caminando hacia la cocina con la caja de bombones bajo el brazo—. Cinco minutos. Lávense las manos.
+
+Desaparece detrás de una puerta vaivén. Se oye el horno abriéndose, una bandeja, una cuchara que golpea una olla.
+
+La casa por dentro es chica, tibia y llena de cosas: fotos de Erasa de todas las edades en todas las paredes, una vitrina con imanes horribles de aeropuerto, un sillón floreado con una almohadita nueva, todavía con la etiqueta, en el piso. Kase va directo a la almohadita, la huele, arranca la etiqueta con los dientes y se echa encima.
+
+Erasa se calza la otra sandalia a los saltos, apoyándose en tu brazo. Después te agarra la mano y te arrastra hasta el pie de la escalera, lejos de la puerta de la cocina. Tiene la cara roja como un tomate.
+
+—Perdón —susurra—. Perdón, perdón, perdón. Te dije que preguntaba mucho. Pero no tanto. Nunca le hizo eso a nadie en la puerta.
+
+Mira hacia la cocina. Baja todavía más la voz.
+
+—Ahora va a pensar que eres un mafioso. O un príncipe. Ella siempre piensa una de las dos cosas. —Te mira, muy cerca, con los ojos celestes muy abiertos—. No eres ninguna de las dos, ¿no?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1661 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, pie de la escalera · 20:04    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:04, adentro de la casa de Erasa, al pie de la escalera. La mamá dejó la pregunta para la mesa (murmuró "Herencia. O lotería. O algo peor"); cena en cinco minutos, "lávense las manos". Kase en la almohadita nueva junto al sillón (le arrancó la etiqueta). Erasa, en susurros: "Ahora va a pensar que eres un mafioso. O un príncipe. Ella siempre piensa una de las dos cosas. No eres ninguna de las dos, ¿no?"
