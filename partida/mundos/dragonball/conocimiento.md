@@ -149,3 +149,4 @@
 - Bills · T1573 · Por Whis (testigo): Facundo peleó en SSJ Blue con Goku y Vegeta, hundió dos veces el suelo reforzado y solo sangró una gota. Quiere pelear con él.
 - T1576 · Bills VIO a Facundo en SSJ Blue en persona (explanada de su planeta). Lo vieron también Whis, Goku y Vegeta. El Velo sigue mostrando ki muy bajo: Bills deduce que hay "un truco o una mentira".
 - T1577 · Whis, Goku y Vegeta VIERON a Facundo (SSJ Blue) hacer sangrar a Bills de un puñetazo.
+- T1579 · Bills y Whis VIERON el Eclipse (punto negro de gravedad) tragarse una esfera de destrucción de Bills. Goku y Vegeta también.

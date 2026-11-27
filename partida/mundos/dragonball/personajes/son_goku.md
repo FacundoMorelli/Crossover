@@ -116,3 +116,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1576 · Ve otra vez a Facundo en SSJ Blue frente a Bills; pegado a la barrera: "¡Ahí está! ¡Mira, Vegeta, otra vez!"
 - T1577 · Ve el puñetazo a Bills; se cae sentado: "¡Le pegó! ¡Le pegó al señor Bills! ¡En la cara!"
 - T1578 · No puede seguir la pelea de Facundo y Bills ni en azul: "¡No los veo! ¡Ni con el azul!"
+- T1579 · Ve el Eclipse tragarse la esfera de Bills; boca abierta.

@@ -143,3 +143,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1576 · Mira a Facundo transformarse en SSJ Blue frente a Bills; brazos cruzados, mandíbula apretada, sin hablar.
 - T1577 · Ve a Facundo hacer sangrar a Bills de un golpe; se pone de pie en su roca, sin hablar; le tiembla un párpado.
 - T1578 · Sigue la pelea de Facundo y Bills a medias; le pesa no alcanzar.
+- T1579 · Ve el Eclipse tragarse la esfera de Bills; aprieta los dientes.

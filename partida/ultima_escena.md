@@ -3,77 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1576)
-
-dejo a kase y me transformó en blue
-
-## RESPUESTA 1 (T1576)
-
-> dejo a kase y me transformó en blue
-
-Te pones de pie con Kase en brazos.
-
-Caminas hasta el borde de la cúpula. La luz de la barrera se abre sola delante de ti, como una cortina, y del otro lado está la silla de playa de Whis. Dejas a Kase en el apoyabrazos.
-
-Kase no protesta. Se acomoda, enrosca la cola alrededor de las patas y se queda sentado, derecho, mirando el centro de la explanada. Whis lo mira de reojo, con la taza de té a medio camino.
-
-—Yo lo cuido, Facundo-san —dice—. Aunque creo que él me va a cuidar a mí.
-
-La barrera se cierra a tu espalda.
-
-Vuelves a caminar hasta el centro. Bills no se mueve: manos detrás de la espalda, la cola quieta, los ojos amarillos siguiéndote paso a paso. A los veinte pasos te detienes.
-
-Y te transformas.
-
-No hay grito. No tiembla el suelo. El pelo, mitad blanco y mitad azul oscuro, se te vuelve entero de un azul claro, brillante, que se levanta despacio como si estuvieras debajo del agua. Los ojos te cambian de color, y por primera vez en mucho tiempo los dos son del mismo tono. Alrededor de tu cuerpo se enciende un aura azul, tranquila y limpia, que no chisporrotea. Arde quieta, como una llama de gas.
-
-Las venas de luz del suelo, las que Whis reforzó, se ponen más brillantes debajo de tus pies.
-
-Afuera de la cúpula, Goku se para de un salto.
-
-—¡Ahí está! —Se agarra de la barrera con las dos manos, con la cara pegada—. ¡Mira, Vegeta, otra vez!
-
-Vegeta no contesta. Tiene los brazos cruzados y la mandíbula tan apretada que le tiembla.
-
-Bills te mira un largo rato.
-
-Ladea la cabeza a un lado, y después al otro. Entrecierra los ojos. Se le mueve una oreja, como si intentara escuchar algo muy lejano.
-
-—Hm. —Da un paso hacia ti, nada más que uno—. Se ve azul. Brilla azul. Es el color de los dioses, eso no lo discuto.
-
-Otro paso.
-
-—Pero no siento nada. —Una sonrisa lenta se le abre en la cara—. Sigues teniendo el ki de una hormiga. Igual que antes. Igual que en el barco. Como si no estuvieras ahí.
-
-Se detiene a quince pasos. Saca las manos de detrás de la espalda y las deja colgando, sueltas, a los costados.
-
-—Eso es o un truco muy bueno... —la cola se le mueve una vez, de lado a lado— ...o una mentira muy grande. Y a mí me encanta descubrir cuál de las dos.
-
-El aire de la explanada se pone pesado. No hay ruido. Las nubes de arriba de la cúpula se quedan quietas.
-
-—Vamos —dice Bills, suave—. Ven.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1576 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera de Whis) · tarde          ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien · corte en mejilla ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: en el apoyabrazos de Whis (afuera)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1577)
+## COMANDO 1 (T1577)
 
 le pego a bills
 
-## RESPUESTA 2 (T1577)
+## RESPUESTA 1 (T1577)
 
 > le pego a bills
 
@@ -137,11 +71,11 @@ Alrededor de su cuerpo empieza a subir un aura violeta, despacio, densa, y el ai
 
 ---
 
-## COMANDO 3 (T1578)
+## COMANDO 2 (T1578)
 
 empiezo a pelear con bills
 
-## RESPUESTA 3 (T1578)
+## RESPUESTA 2 (T1578)
 
 > empiezo a pelear con bills
 
@@ -203,4 +137,72 @@ Y la deja caer.
 
 ---
 
-ESTADO AL CIERRE: Bills, a 100 m, suelta sobre Facundo una esfera de destrucción más grande que la pirámide ("Atrápala"). El suelo se derrite; Whis avisa por el planeta. Facundo puede reaccionar.
+## COMANDO 3 (T1579)
+
+la desaparezco con eclipse
+
+## RESPUESTA 3 (T1579)
+
+> la desaparezco con eclipse
+
+Levantas los ojos hacia el sol que cae.
+
+El ojo izquierdo, el rojo, se te enciende por debajo del azul de la transformación. Un segundo después se enciende el derecho, frío. Por un instante cada ojo vuelve a ser de su color, carmesí y hielo, en medio del aura azul.
+
+Levantas una mano abierta hacia la esfera.
+
+Entre tu palma y la esfera, en el aire, aparece un punto.
+
+Es negro. No es oscuro: es negro, como un agujero en la tela del cielo, tan chico como una semilla. Alrededor, en un anillo finísimo, arde un borde de luz blanca y azul, como la corona de un eclipse de verdad.
+
+La esfera de Bills, grande como una montaña, roja, rugiendo, sigue cayendo sobre ti.
+
+Toca el punto.
+
+Y se dobla.
+
+No explota. No empuja. Se estira hacia el punto negro como el agua hacia una rejilla, toda la luz, todo el fuego, toda la masa naranja girando en espiral cada vez más rápido y más fina, hasta que es un hilo. Y el hilo entra.
+
+Se acaba en un parpadeo.
+
+El punto negro se cierra con un sonido mínimo, como una gota cayendo en un vaso.
+
+Arriba no queda nada. Solo el cielo del planeta de Bills, de color agua, y las nubes, que se quedaron quietas. Abajo, los bordes derretidos de la explanada se enfrían solos y crujen. Un viento suave, el aire que se había llevado la esfera al caer, vuelve hacia el centro y te mueve el sobretodo.
+
+Bajas la mano. Los ojos se te vuelven a poner azules.
+
+Afuera, Whis tiene el báculo levantado a medias, listo para algo que ya no hace falta. Lo baja muy despacio.
+
+—Oh —dice. Nada más.
+
+Goku tiene la boca abierta. Vegeta, no. Vegeta aprieta los dientes y mira el lugar del cielo donde estaba la esfera, y después a ti.
+
+Bills sigue flotando a cien metros, con la mano todavía levantada.
+
+Mira la palma vacía. Mira el cielo. Te mira a ti.
+
+Baja. No vuela: baja, despacio, como si caminara por una escalera invisible, sin sacarte los ojos de encima, y se posa en el suelo a diez pasos. Ya no se ríe. Las orejas, paradas del todo. La cola, quieta.
+
+—Eso no fue un Hakai. —Lo dice en voz baja, para sí, entrecerrando los ojos—. Un Hakai hace que las cosas dejen de ser. Eso... se la comió.
+
+Ladea la cabeza.
+
+—Se la comió entera. Mi esfera. —Una sonrisa le vuelve a la cara, despacio, distinta, más afilada—. ¿Adónde la mandaste, muchacho del bolsillo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1579 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera muy agrietada) · tarde    ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 88% · Ojos: bien · mejilla abierta   ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: con Whis (afuera)                      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Esfera de Bills tragada por el Eclipse. Bills, a 10 pasos, serio y con sonrisa afilada: "¿Adónde la mandaste, muchacho del bolsillo?" Facundo puede contestar o actuar.

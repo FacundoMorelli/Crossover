@@ -1577,3 +1577,4 @@ T1575 · DRAGON BALL · Planeta de Bills · Espera la hora. Whis arregla el suel
 T1576 · DRAGON BALL · Planeta de Bills · Deja a Kase con Whis (afuera). SSJ Blue. Bills: "Se ve azul, pero no siento nada... un truco muy bueno o una mentira muy grande. Vamos. Ven."
 T1577 · DRAGON BALL · Planeta de Bills · Puñetazo en Blue: Bills no lo frena con el dedo; cruza la explanada y agrieta la barrera de Whis. Labio partido. Se ríe: "No era mentira. Ahora me toca a mí."
 T1578 · DRAGON BALL · Planeta de Bills · Empieza la pelea: intercambio parejo en Blue (mejilla reabierta; Bills con raspones). Bills sube y suelta una esfera de destrucción gigante: "Atrápala."
+T1579 · DRAGON BALL · Planeta de Bills · Se traga la esfera de destrucción de Bills con el Eclipse. Bills baja: "Eso no fue un Hakai... se la comió. ¿Adónde la mandaste?"
