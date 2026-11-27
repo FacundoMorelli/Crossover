@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1490)
-
-dale, ustedes van al cumple de bulma no? espero a que me conteste y me teletransporto con goku
-
-## RESPUESTA 1 (T1490)
-
-> dale, ustedes van al cumple de bulma no? espero a que me conteste y me teletransporto con goku
-
-> —Está bien. Ustedes van al cumpleaños de Bulma, ¿no?
-
-Dende se pone un poco colorado, que en un namekiano es un verde más oscuro.
-
-—Yo no puedo bajar mucho tiempo. Si Dios se va de fiesta, nadie cuida la Tierra. —Se encoge de hombros, sin pena—. Pero los vamos a mirar desde aquí. Bulma-san siempre nos manda una caja de comida. El año pasado mandó un pastel de cinco pisos. Mr. Popo se comió tres.
-
-—Mr. Popo se comió dos y medio —corrige Mr. Popo.
-
-Dende se ríe y te hace un saludo con la mano.
-
-Te tocas la frente con dos dedos.
-
-El ki de Goku está muy lejos. Más allá de la Tierra, más allá del cielo, al final de un camino larguísimo que sube y sube y se pierde en el Otro Mundo. Pero es imposible no encontrarlo: grande, cálido, encendido, como un sol chiquito y alegre en medio de la nada.
-
-El templo desaparece.
-
-Y te pesa todo.
-
-El cuerpo, de golpe, como si te hubieran puesto diez de ti encima de los hombros. Las rodillas ceden un centímetro antes de que el cuerpo se acomode, y se acomoda. Kase, en tu hombro, se aplasta contra el sobretodo con las uñas clavadas en la tela, las orejas hacia atrás, los ojos rojo y azul abiertos de indignación.
-
-Estás en un planeta diminuto. Tan chico que se ve la curva del horizonte a pocos pasos, en todas direcciones. Pasto verde, cortito, un camino de piedra, un árbol solo, una casita redonda de techo rojo y un auto antiguo estacionado al costado. Arriba, un cielo amarillo y raro, sin sol. Un poco más allá, en el borde del planeta, empieza el Camino de la Serpiente, enroscado entre nubes que no terminan nunca.
-
-En medio del pasto, sin camiseta, con el pelo negro en punta y una pesa enorme atada a cada tobillo, Goku está haciendo flexiones con un solo dedo.
-
-Junto a él, sentado en una reposera con lentes oscuros, antenas y una bata, un hombre bajito y azul toma algo de un vaso con sombrillita. A su lado, un mono sentado le abanica la cara con una hoja. Un grillo con alas revolotea por encima.
-
-El hombre azul se atraganta con el vaso.
-
-—¡¿Q-q-quién es ese?! —Se levanta de un salto, señalándote con el dedo, tosiendo—. ¡No sentí nada! ¡Apareció de la nada! ¡Y no tiene nada de energía! ¡Cero!
-
-Goku levanta la cabeza desde el suelo, con el dedo todavía apoyado en el pasto. Te ve.
-
-Se le ilumina la cara entera.
-
-—¡FACUNDO! —Se pone de pie de un salto, arrastrando las pesas, que hacen un agujero en el pasto—. ¡Volviste! ¡Kaio-sama, este es Facundo! ¡El del gato! ¡Te hablé de él mil veces!
-
-—¡Me hablaste de él mil veces! —grita Kaio-sama—. ¡Y nunca me dijiste que no se le siente el ki!
-
-Goku ya no lo escucha. Se te para delante, a un paso, sonriendo de oreja a oreja, apretando los puños, temblando apenas de pura emoción, como un chico la mañana de un torneo.
-
-—¡Llegaste justo! —dice—. ¡Hace meses que no tengo con quién pelear en serio! ¡Kaio-sama no cuenta, se cansa enseguida!
-
-—¡Oye!
-
-—¿Peleamos? —Se le encienden los ojos—. Solo un poco. Bueno, no tan poco.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1490 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · planeta de Kaio-sama            ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: aplastado en el hombro (gravedad x10)  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Ver a Goku · mensaje de Milk       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1491)
+## COMANDO 1 (T1491)
 
 esta bien, le doy un poco de ki a kase asi puede mantenerse y lo dejo en el piso, bueno goku, empecemos
 
-## RESPUESTA 2 (T1491)
+## RESPUESTA 1 (T1491)
 
 > esta bien, le doy un poco de ki a kase asi puede mantenerse y lo dejo en el piso, bueno goku, empecemos
 
@@ -127,11 +57,11 @@ Lo sientes por la izquierda. Un puño que viene a la altura de tu cara, rápido,
 
 ---
 
-## COMANDO 3 (T1492)
+## COMANDO 2 (T1492)
 
 peleó con goku conteniendome
 
-## RESPUESTA 3 (T1492)
+## RESPUESTA 2 (T1492)
 
 > peleó con goku conteniendome
 
@@ -194,4 +124,72 @@ Se pone en guardia otra vez. El suelo se agrieta bajo sus pies.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Duelo con Goku; Facundo se contiene. Goku en SSJ3: "A ver hasta dónde puedes contenerte ahora." Facundo puede actuar.
+## COMANDO 3 (T1493)
+
+sigo peleando
+
+## RESPUESTA 3 (T1493)
+
+> sigo peleando
+
+Goku viene.
+
+Ya no es lo mismo. El primer golpe en Super Saiyajin 3 no lo ves: lo sientes, en el antebrazo que levantaste por instinto, un impacto que te dobla el codo y te hace retroceder un paso en el pasto. El segundo lo esquivas por un pelo. El tercero lo paras con la palma abierta, y el choque suelta una onda que arranca el techo rojo de la casita de Kaio-sama y lo manda girando hacia las nubes.
+
+—¡MI CASAAAA!
+
+Siguen.
+
+Goku pelea como nunca lo viste pelear. Rápido, pesado, sin pausa. Cada golpe trae todo el peso de los meses en ese planeta, y cada golpe que paras le enciende más la sonrisa. Suben. Pelean en el aire, por encima del planeta, tan arriba que la casita sin techo se ve del tamaño de una moneda. Bajan en picada, juntos, y aterrizan en el Camino de la Serpiente, que cruje bajo los pies de los dos y se raja en una línea larga. Vuelven a subir.
+
+Te sigues conteniendo. Pero cada vez un poco menos. Tienes que dejar de dejar pasar golpes: ya no hace falta, Goku encuentra solo los huecos. Uno te llega a las costillas. Otro a la mandíbula, y te gira la cara. Sientes el gusto metálico en la boca. Le devuelves uno al estómago, más fuerte que todos los anteriores, y Goku se dobla en el aire, tose, y se ríe tosiendo.
+
+—¡Ja...! ¡Ese sí...! ¡Ese sí dolió!
+
+Pasan los minutos. Muchos.
+
+Y el Super Saiyajin 3 empieza a cobrarse lo suyo. Goku respira cada vez más fuerte. El aura dorada parpadea, como una lámpara con la mecha corta. Le corre sudor por la cara. Le tiemblan un poco los brazos. Lo sabes, y él también lo sabe.
+
+Se aleja. Se para en el aire, sobre el planeta chiquito, a cincuenta metros de ti. Abajo, Kaio-sama mira hacia arriba con la boca abierta, Bubbles abrazado a su pierna. Kase, sentado en el pasto, con la cola enroscada, mira para arriba sin parpadear.
+
+Goku junta las manos al costado de la cadera.
+
+—Ka...
+
+Una luz azul le nace entre las palmas.
+
+—...me...
+
+Crece. Ilumina el cielo amarillo de azul, le ilumina la cara cansada y feliz desde abajo, hace temblar el aire en ondas.
+
+—...ha...
+
+Es más grande que cualquiera que le hayas visto. Todo lo que le queda, metido en las dos manos.
+
+—¡Kaio-sama, perdón por el planeta! —grita, sin dejar de cargar.
+
+—¡¿PERDÓN POR QUÉ?! —chilla Kaio-sama desde abajo—. ¡GOKU! ¡¿PERDÓN POR QUÉ?!
+
+—...me...
+
+Goku te mira por encima de la luz, con los ojos verdes encendidos y el pelo dorado hasta la cintura.
+
+Apunta hacia ti. Y detrás de ti, abajo, está el planeta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1493 · DRAGON BALL · AÑO 777 · ---     ║
+║ Otro Mundo · cielo del planeta de Kaio-sama  ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 zeni                  ║
+║ Energía 94% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el pasto, mirando para arriba       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Duelo con Goku · mensaje de Milk   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, cielo del planeta de Kaio-sama. Goku SSJ3, cansado, carga a 50 m su Kamehameha más grande hacia Facundo, con el planeta detrás. Facundo puede reaccionar.

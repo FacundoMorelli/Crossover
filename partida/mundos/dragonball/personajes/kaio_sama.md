@@ -13,3 +13,4 @@ CON ÉL: Bubbles (mono), Gregory (grillo).
 ESTADO: activo
 - T1491 · "¡Ese gato está asustando a Bubbles!" "¡Goku! ¡Mi planeta!"
 - T1492 · "¡MI PLANETA!" abrazado a la reposera; se agarra las antenas con el SSJ3.
+- T1493 · Pierde el techo de la casa: "¡MI CASAAAA!" "¡¿PERDÓN POR QUÉ?! ¡GOKU!"
