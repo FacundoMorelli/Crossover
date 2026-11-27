@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1564)
-
-ven vegeta atacame
-
-## RESPUESTA 1 (T1564)
-
-> ven vegeta atacame
-
-> —Ven, Vegeta. Atácame.
-
-Vegeta se queda quieto un segundo más. La pregunta se le queda en la cara, sin respuesta.
-
-Después aprieta los dientes y la deja caer.
-
-—Tch. —Se le endurece la mandíbula—. No me importa lo que seas.
-
-El aura azul le cambia. No se agranda: se aprieta. Se le pega al cuerpo, más fina, más densa, chispeando en los bordes como un cable pelado. El pelo azul se le eriza todavía más. Los ojos celestes se le clavan en ti como dos agujas.
-
-—Me importa una sola cosa —dice—. Ganarte.
-
-Y desaparece.
-
-No hay ruido de aire partido esta vez. No hay estela. El azul es silencioso: Vegeta simplemente deja de estar en el centro de la explanada, y el suelo de venas de luz donde estaba parado se agrieta en un círculo perfecto, un instante después, como si el piso hubiera tardado en enterarse.
-
-En el borde de la explanada, Goku se queda sin aire.
-
-—Rápido... —murmura.
-
-Lo ves venir igual. Por la derecha, bajo, a la altura de las costillas, con el puño cerrado y el codo pegado al cuerpo, todo el peso de la noche entera sin dormir metido en un solo golpe. Detrás de ese, ya armado, el segundo: una rodilla a la mandíbula. Y detrás de ese, el tercero, una palma abierta cargando una luz azul que crece y chisporrotea entre los dedos.
-
-Vegeta, en azul, a medio metro de ti, con los ojos celestes encendidos y la boca cerrada, sin gritar nada.
-
-El primer puño está a un palmo de tus costillas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1564 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada de entrenamiento · amanecer        ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ SUPER SAIYAJIN BLUE (x2.000)                 ║
-║ Velo: el ki divino no se siente              ║
-║ Kase: junto a la silla de Whis, mirando      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Vegeta (SSJ Blue)        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1565)
+## COMANDO 1 (T1565)
 
 lo detengo con los dedos
 
-## RESPUESTA 2 (T1565)
+## RESPUESTA 1 (T1565)
 
 > lo detengo con los dedos
 
@@ -111,11 +60,11 @@ Esta vez no a cinco pasos. A uno.
 
 ---
 
-## COMANDO 3 (T1566)
+## COMANDO 2 (T1566)
 
 dejo que me lo pegue
 
-## RESPUESTA 3 (T1566)
+## RESPUESTA 2 (T1566)
 
 > dejo que me lo pegue
 
@@ -180,4 +129,63 @@ Se queda así, de rodillas, riéndose solo, con la cabeza gacha y los puños apo
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Facundo recibió el Final Flash azul (un corte en la mejilla). Vegeta, de rodillas, feliz: "Te hice sangrar. Pero es mía." Duelo ganado (+25.000 F, +6.000 EXP). Goku quiere su duelo. Facundo puede actuar.
+## COMANDO 3 (T1567)
+
+te espero goku
+
+## RESPUESTA 3 (T1567)
+
+> te espero goku
+
+> —Te espero, Goku.
+
+Goku no espera ni medio segundo.
+
+Sale corriendo desde detrás de la roca, salta por encima de Vegeta, que sigue de rodillas riéndose solo, y aterriza en el borde del cráter con los pies abiertos y los puños apretados, temblando de ganas como un chico la mañana de un torneo.
+
+—¡Por fin! —grita—. ¡Desde el planeta de Kaio-sama que te lo estoy pidiendo!
+
+Vegeta, en el suelo, le tira una piedrita a la pierna.
+
+—Cállate, Kakarotto. Te va a destrozar.
+
+—¡Ya sé! —Goku se ríe, enorme—. ¡Por eso!
+
+Cierra los ojos. El pelo se le pone dorado de golpe, con el aura amarilla rugiendo. Después respira, despacio, y el dorado se le apaga y nace el azul. Esta vez entra más rápido que ayer. Más limpio. El aura azul le sale tranquila, pareja, chispeando sin ruido. Los ojos, celestes.
+
+Se queda así. Estable. Se mira las manos.
+
+—Uno —cuenta—. Dos. Tres. —Sonríe—. Bien. Hoy aguanta.
+
+Se pone en guardia, con las piernas abiertas y los puños adelante. Te mira a ti, en azul, en el fondo del cráter, con el sobretodo deshecho y el corte en la mejilla. Y la sonrisa se le hace todavía más grande, de esas que le ocupan la cara entera.
+
+—Es raro, ¿sabes? —dice—. Pelear contra mi propio azul.
+
+En el borde de la explanada, Whis se acomoda en la silla de playa. Junta las manos sobre las rodillas. Kase, a su lado, se sienta derecho, con la cola enroscada.
+
+Goku flexiona las rodillas.
+
+—Esta vez no voy a contar hasta tres —dice—. ¡AHÍ VOY!
+
+Y desaparece.
+
+El suelo de Whis se agrieta donde estaba. Y en el aire, a un palmo de tu cara, aparece un puño azul, con todo el peso de un saiyajin feliz detrás.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1567 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada de entrenamiento · mañana          ║
+║ NIVEL 30 · EXP 355.130/360.000               ║
+║ FRAGMENTOS 214.243 · 0 zeni                  ║
+║ Energía 98% · Ojos: bien · corte en mejilla  ║
+║ SUPER SAIYAJIN BLUE (x2.000)                 ║
+║ Velo: el ki divino no se siente              ║
+║ Kase: junto a la silla de Whis, mirando      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Duelo con Goku (SSJ Blue)          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Duelo con Goku en azul: su puño a un palmo de la cara de Facundo (SSJ Blue). Facundo puede reaccionar.

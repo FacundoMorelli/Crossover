@@ -132,3 +132,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1565 · Su puño en SSJ Blue se frena contra dos dedos de Facundo; el suelo se hunde en un cráter de dos metros; su rodilla se detiene sola. Retrocede mirándose la mano temblorosa. "No. No." Carga un Final Flash en azul a un paso, con lágrimas de rabia: "¡FINAL...!"
 - T1566 · Final Flash en azul a un paso: Facundo lo deja pegarle de lleno; borra media montaña detrás. Facundo queda de pie con un corte fino en la mejilla (una gota de sangre). Vegeta sale del azul y cae de rodillas al borde del cráter. Se ríe, cansado y contento: "Sangre. Te hice sangrar. Una gota. Una gota, maldito. Pero es mía."
 RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
+- T1567 · De rodillas, le tira una piedrita a Goku: "Cállate, Kakarotto. Te va a destrozar."
