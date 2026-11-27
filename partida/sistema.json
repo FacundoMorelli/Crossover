@@ -1,8 +1,8 @@
 {
-  "turno": 1543,
+  "turno": 1544,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (día después del cumpleaños de Bulma)",
-  "hora": "año 778, domingo, 06:05",
+  "hora": "año 778, domingo, 06:07",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
@@ -2671,5 +2671,6 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  }
+  },
+  "forma_activa": "Forma Cenit (x10, 45 min, contenida) desde T1544 06:07"
 }

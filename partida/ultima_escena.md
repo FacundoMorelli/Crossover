@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1541)
-
-desaparecieron, lo usaban para amenazar a los paises
-
-## RESPUESTA 1 (T1541)
-
-> desaparecieron, lo usaban para amenazar a los paises
-
-> —Desaparecieron. Los usaban para amenazar a los países.
-
-Bulma no dice nada durante un rato.
-
-Mira la taza vacía entre las manos. La gira despacio sobre la mesa, una vuelta, otra.
-
-—Para amenazar a los países —repite—. Claro. Siempre es para eso.
-
-Se apoya en el respaldo de la silla. Mira por la ventana de la cocina, hacia el jardín, donde empieza a clarear sobre los hangares.
-
-—Aquí también hubo de eso, ¿sabes? Cuando yo era chica. Un ejército, la Patrulla Roja. Tenían un científico, el doctor Gero, que hacía monstruos. Androides. Máquinas con forma de persona para conquistar el mundo. —Se le tuerce la boca—. Uno de ellos casi mata a todos mis amigos. Otro ahora está casado con Krilin y lleva a su hija al jardín de infantes. —Se ríe por lo bajo, sin ganas—. La vida es rara.
-
-Te mira otra vez. Ya no con la cara de científica. Con otra.
-
-—Desaparecieron —dice—. Las cosas así no desaparecen solas, viajero. Alguien tiene que hacerlas desaparecer.
-
-No te pregunta. Solo lo dice, y se te queda mirando un segundo, y después deja la taza en la mesa con un golpecito, como quien da por cerrado un tema.
-
-Desde el jardín llega un grito, por la puerta abierta.
-
-—¡CINCO MINUTOS, INSECTO!
-
-Bulma pone los ojos en blanco.
-
-—Ese es mi marido. Romántico como siempre. —Se levanta de la silla, se acomoda la bata y junta los platos—. Ve. Si llegas un segundo tarde, va a estar insoportable hasta el año que viene.
-
-Agarra tu plato vacío. Se queda parada al lado de la silla, mirándote, con los platos en las manos.
-
-—Los titanes —dice, más bajo—. Me debes el resto de esa historia. Algún día.
-
-Y se va hacia la pileta, tarareando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1541 · DRAGON BALL · DOMINGO · 05:55   ║
-║ Capsule Corporation · cocina                 ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el piso, terminando el pescado      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: 6:00 entrenar con Vegeta (en 5     ║
-║ min) · cena en casa de Milk                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1542)
+## COMANDO 1 (T1542)
 
 le tiro el libro de shingeki a bulma, toma descifralo con esas computadoras, o a mano, lo que te guste y voy a entrenar con vegeta
 
-## RESPUESTA 2 (T1542)
+## RESPUESTA 1 (T1542)
 
 > le tiro el libro de shingeki a bulma, toma descifralo con esas computadoras, o a mano, lo que te guste y voy a entrenar con vegeta
 
@@ -135,11 +78,11 @@ El libro que le diste a Bulma lo tomé como otro ejemplar de Paradis. El que ten
 
 ---
 
-## COMANDO 3 (T1543)
+## COMANDO 2 (T1543)
 
 pongo el velo, bueno vegeta a ver lo que tenes, entreno con vegeta
 
-## RESPUESTA 3 (T1543)
+## RESPUESTA 2 (T1543)
 
 > pongo el velo, bueno vegeta a ver lo que tenes, entreno con vegeta
 
@@ -208,4 +151,65 @@ Se pone en guardia. Los rayos le corren por los brazos.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 06:05, cámara de gravedad a 500G. Vegeta en SSJ2, en guardia: "Kakarotto tuvo tu cara de verdad. Yo también la quiero. Muéstramela." Facundo con el Velo bajo. Facundo puede actuar.
+## COMANDO 3 (T1544)
+
+me transformó en cenit, pero sin romper nadq
+
+## RESPUESTA 3 (T1544)
+
+> me transformó en cenit, pero sin romper nadq
+
+Cierras los ojos.
+
+Esta vez lo sueltas despacio. Como quien abre una canilla de a poco, con la mano firme, sin dejar que el agua salpique.
+
+El pelo se te levanta, blanco y azul, brillante, erguido. Las llamas blancas y azules te nacen alrededor del cuerpo, del doble de tu altura, y rugen. Cuando abres los ojos, el rojo y el azul te brillan como brasas en la cara.
+
+Forma Cenit.
+
+Y no se rompe nada.
+
+Lo contienes todo adentro, en el borde exacto de la piel, en un círculo que no se mueve ni un centímetro más allá de tus botas. La presión que en el páramo partió mesetas aquí no sale. Se queda apretada alrededor de ti como una armadura de fuego, quieta. El piso agrietado no se agrieta más. La pared abollada no se abolla más. Las luces del techo dejan de parpadear.
+
+Las alarmas siguen sonando, rojas, intermitentes, por las quinientas gravedades. Pero a ti ya no te pesa nada. Es como estar parado en una tarde de verano.
+
+Vegeta se queda quieto.
+
+Está a cinco pasos, en Super Saiyajin 2, con el aura dorada rugiendo y los rayos azules corriéndole por los brazos. Te mira de arriba abajo. El pelo. Las llamas. Los ojos. Todo lo que no siente y que, sin embargo, ve.
+
+Lo reconoce. Se le nota en la cara. Lo vio hace tres años, en el desierto, la tarde que pelearon todos contra todos. Pero no así.
+
+—Esto... —dice, muy bajo. Se le quiebra la voz—. Esto no es lo de hace tres años.
+
+Aprieta los puños. El aura dorada le tiembla.
+
+—Hace tres años me pusiste en el suelo con esa misma cara, y era un fuego chiquito. Esto... —Se le escapa una risa, cortada, sin ganas, casi desesperada—. Esto es un incendio. Y no rompe ni una baldosa.
+
+Se queda mirándote un rato largo. El sudor le cae por la cara y se estrella contra el piso. Las piernas le tiemblan bajo las quinientas gravedades. A ti no.
+
+Después levanta la cabeza. Se endereza. Y la cara le cambia otra vez: ya no tiene rabia. Tiene otra cosa, más vieja, más honda. La del príncipe que nunca, en toda su vida, aceptó quedarse abajo.
+
+—Kakarotto no lo va a ver primero —dice, entre dientes—. Esta vez no.
+
+Junta las manos delante del pecho, una sobre la otra, con los dedos abiertos. El ki se le concentra entre las palmas, amarillo, crepitante, cada vez más brillante, tan fuerte que las alarmas se vuelven locas y la pantalla de la consola empieza a echar chispas.
+
+—¡FINAL...!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1544 · DRAGON BALL · DOMINGO · 06:07   ║
+║ Capsule Corp · cámara de gravedad (500G)     ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ FORMA CENIT (x10 · 45 min) · contenida       ║
+║ Velo: el ki sigue sin sentirse               ║
+║ Kase: afuera, en el pasto, mirando           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Vegeta                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 06:07, cámara de gravedad a 500G. Facundo en Forma Cenit contenida. Vegeta (SSJ2) a cinco pasos carga un Final Flash: "¡FINAL...!" Facundo puede reaccionar.

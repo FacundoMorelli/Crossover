@@ -129,3 +129,4 @@
 - Bulma · T1541 · Por Facundo: los titanes desaparecieron y los usaban para amenazar países. Sospecha (deducción) que alguien los hizo desaparecer; no lo dice de Facundo.
 - Bulma · T1542 · Por Facundo: un libro del lugar de los titanes; ve los grabados (murallas, titanes). Lo va a descifrar.
 - Vegeta · T1543 · Ve que Facundo aguanta 300G y 500G sin doblarse y lo estrella contra la pared con una palma, con un ki casi nulo. Confirma que se contiene.
+- Vegeta · T1544 · Ve la Forma Cenit de Facundo a pleno (x10) pero contenida (sin dañar nada). Sigue sin sentirle el ki.
