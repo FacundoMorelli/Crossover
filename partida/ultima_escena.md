@@ -3,79 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1577)
-
-le pego a bills
-
-## RESPUESTA 1 (T1577)
-
-> le pego a bills
-
-Recorres los quince pasos en un solo paso.
-
-El suelo no llega a crujir. Un instante estás a quince pasos y al siguiente estás debajo de la guardia de Bills, con el puño derecho ya en camino y el aura azul estirándose detrás de ti como una cola de cometa.
-
-Bills hace lo mismo que con Goku sobre el mar. Levanta un dedo, sin apuro, con la sonrisa todavía puesta, para frenarte el puño con la yema.
-
-El dedo no lo frena.
-
-Tu puño le aparta la mano como si fuera de papel y le entra de lleno en la mejilla izquierda.
-
-El ruido llega tarde: un trueno seco, hondo, que hace vibrar toda la cúpula. Bills sale despedido hacia atrás sin tocar el suelo. Cruza la explanada de punta a punta y choca de espaldas contra la barrera de Whis. La luz se tuerce, se hunde hacia afuera como una tela y aguanta. Cientos de grietas blancas se abren desde el punto del golpe, como un parabrisas.
-
-Las venas de luz del suelo parpadean todas juntas.
-
-Afuera, Goku se cae sentado.
-
-—¡Le pegó! —Tiene la boca abierta y las manos en la cabeza—. ¡Le pegó al señor Bills! ¡En la cara!
-
-Vegeta se pone de pie en su roca. No dice nada. Le tiembla un párpado.
-
-Whis baja la taza de té, despacio, y mira las grietas de su barrera con los ojos un poco más abiertos que de costumbre.
-
-—Vaya —dice, en voz baja—. Vaya, vaya.
-
-En el apoyabrazos, Kase no se movió. Solo se le movió la punta de la cola, una vez.
-
-Bills se despega de la barrera y cae parado, liviano, en el borde de la explanada. Se queda quieto, de espaldas a ti.
-
-Se lleva una mano a la mejilla. Se la toca con la punta de los dedos. Después se mira los dedos: tiene una gota de sangre violeta oscura, del labio partido.
-
-Se queda mirando esa gota un largo rato.
-
-Y se ríe.
-
-Al principio es bajito, por la nariz, con los hombros. Después es una carcajada abierta, de cabeza para atrás, que retumba en la cúpula agrietada. Las orejas se le paran derechas. La cola se le mueve de lado a lado, rápida, como la de un gato a punto de saltar.
-
-—No era mentira. —Se da vuelta. Tiene los ojos encendidos, amarillos, brillantes, y una sonrisa de oreja a oreja con un hilo de sangre en la comisura—. No era mentira para nada.
-
-Se limpia el labio con el dorso de la mano. Se suelta la faja de la cintura y la tira a un costado.
-
-Alrededor de su cuerpo empieza a subir un aura violeta, despacio, densa, y el aire de la explanada se pone frío de golpe.
-
-—Hace ochocientos años que nadie me hace sangrar, muchacho del bolsillo. —Se agacha apenas, con las manos sueltas y los dedos abiertos—. Ahora me toca a mí.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1577 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera agrietada) · tarde        ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien · corte en mejilla  ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: en el apoyabrazos de Whis (afuera)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1578)
+## COMANDO 1 (T1578)
 
 empiezo a pelear con bills
 
-## RESPUESTA 2 (T1578)
+## RESPUESTA 1 (T1578)
 
 > empiezo a pelear con bills
 
@@ -137,11 +69,11 @@ Y la deja caer.
 
 ---
 
-## COMANDO 3 (T1579)
+## COMANDO 2 (T1579)
 
 la desaparezco con eclipse
 
-## RESPUESTA 3 (T1579)
+## RESPUESTA 2 (T1579)
 
 > la desaparezco con eclipse
 
@@ -205,4 +137,56 @@ Ladea la cabeza.
 
 ---
 
-ESTADO AL CIERRE: Esfera de Bills tragada por el Eclipse. Bills, a 10 pasos, serio y con sonrisa afilada: "¿Adónde la mandaste, muchacho del bolsillo?" Facundo puede contestar o actuar.
+## COMANDO 3 (T1580)
+
+a ningun lado
+
+## RESPUESTA 3 (T1580)
+
+> a ningun lado
+
+> —A ningún lado.
+
+Bills parpadea.
+
+—¿A ningún lado? —Repite despacio, como si probara el sabor de las palabras—. Las cosas no van a ningún lado. Todo va a algún lado. Hasta lo que yo destruyo se vuelve polvo, y el polvo...
+
+Se calla. Mira otra vez el pedazo de cielo vacío donde estaba su esfera.
+
+—Hm.
+
+Se rasca la oreja. Da una vuelta a tu alrededor, despacio, a diez pasos, como un gato rodeando algo que acaba de aparecer en su casa. Te mira los ojos, que volvieron a ser azules, y la mano con la que hiciste el punto negro. Después, por encima de tu hombro, mira a Kase en el apoyabrazos, que le devuelve la mirada sin pestañear.
+
+—Whis. —No se da vuelta para hablarle—. ¿Tú sabes qué fue eso?
+
+Afuera, Whis tarda un poco más de lo normal en contestar.
+
+—No, Bills-sama. —Sonríe, pero tiene el báculo bien agarrado—. Honestamente, no tengo idea.
+
+Las orejas de Bills se le mueven solas, hacia atrás y hacia adelante.
+
+—Whis no tiene idea —te dice, casi en un susurro, encantado—. ¿Sabes hace cuánto que Whis no tiene idea de algo?
+
+Se detiene delante de ti otra vez, a diez pasos. Levanta la mano derecha a la altura del pecho, con la palma hacia arriba. No junta nada todavía. Solo mira la palma vacía, y después a ti.
+
+—Te comiste mi esfera. —Ladea la cabeza—. ¿Y un Hakai? ¿Un Hakai también te lo comes, o ese sí te hace dejar de ser?
+
+Lo dice sin enojo, con la voz de quien pregunta si una fruta es dulce. Pero afuera de la cúpula, Goku dejó de sonreír, y Whis dio un paso hacia la barrera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1580 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera muy agrietada) · tarde    ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 88% · Ojos: bien · mejilla abierta   ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: con Whis (afuera)                      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills, a 10 pasos, palma arriba (sin cargar nada): "¿Y un Hakai? ¿Un Hakai también te lo comes, o ese sí te hace dejar de ser?" Whis se acerca a la barrera. Facundo puede contestar.
