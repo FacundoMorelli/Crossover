@@ -15,3 +15,4 @@ ESTADO: activo
 - T1492 · "¡MI PLANETA!" abrazado a la reposera; se agarra las antenas con el SSJ3.
 - T1493 · Pierde el techo de la casa: "¡MI CASAAAA!" "¡¿PERDÓN POR QUÉ?! ¡GOKU!"
 - T1494 · "Salvaste... mi planeta." Patea a Goku: "¡Y TÚ IBAS A DESTRUIRLO!"
+- T1495 · "Nunca más. Yo te dije que Milk iba a enojarse. Te lo dije hace tres meses." "Sí te va a gritar."

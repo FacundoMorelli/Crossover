@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1492)
-
-peleó con goku conteniendome
-
-## RESPUESTA 1 (T1492)
-
-> peleó con goku conteniendome
-
-Ladeas la cabeza dos dedos. El puño de Goku te pasa al lado de la oreja y te mueve el pelo blanco y azul con el viento que levanta.
-
-Goku ya está girando para el segundo golpe. Una patada baja, a las piernas. La bloqueas con la canilla. Un codazo. Lo desvías con la palma. Un rodillazo, un puño, otro puño, una seguidilla tan rápida que el aire alrededor de los dos se llena de chasquidos, como si alguien reventara cohetes uno detrás del otro.
-
-Le devuelves uno. Suave. Con el dorso de la mano, al pecho.
-
-Goku sale despedido tres metros hacia atrás, clava los pies en el pasto, abre dos surcos hasta frenar, y se ríe.
-
-—¡Ja! ¡Eso! —Se sacude la mano—. ¡Igual que hace tres años! ¡No te puedo sentir nada, y pegas como un camión!
-
-Vuelve a desaparecer. Esta vez por arriba.
-
-La pelea se va armando. Golpe por golpe. Goku prueba cosas: rodear, fingir, esconderse detrás de una imagen residual que se queda quieta en el aire mientras el verdadero te ataca por la espalda. Le paras todo. A veces dejas pasar algún golpe a propósito, en el hombro, en el costado, para que no se aburra. Le devuelves lo justo, siempre un poco menos de lo que podrías.
-
-El planeta chiquito no da abasto. Cuando chocan en el aire, la onda dobla el árbol solo hasta casi el suelo. Cuando caen, el pasto salta en terrones. Un golpe tuyo que Goku esquiva sigue de largo y se lleva la punta de una nube del Camino de la Serpiente.
-
-—¡MI PLANETA! —grita Kaio-sama, abrazado a la reposera.
-
-Kase, en el pasto, no deja de mirar a Bubbles. Bubbles está escondido detrás del auto.
-
-Goku aterriza a diez metros. Respira fuerte. Tiene un raspón en la mejilla y la sonrisa más grande que le viste nunca.
-
-—Bueno —dice—. Ya calentamos.
-
-Aprieta los puños. Grita.
-
-El pelo se le levanta, dorado. El aura le estalla alrededor, amarilla, crepitando, y el pasto en un círculo de cinco metros se aplasta contra el suelo. Super Saiyajin.
-
-No se queda ahí. Grita otra vez, más fuerte, y le saltan rayos azules alrededor del cuerpo. Super Saiyajin 2.
-
-Y otra vez. Un grito largo, que hace temblar el planeta entero, que obliga a Kaio-sama a agarrarse las antenas y a Kase a girar por fin la cabeza para mirar. El pelo le crece hasta la cintura, las cejas le desaparecen, el aura se vuelve un incendio dorado que llega hasta el cielo amarillo.
-
-Super Saiyajin 3.
-
-Goku te mira desde adentro de esa luz, con los ojos verdes, serios, encendidos.
-
-—Te estás conteniendo —dice. No es una pregunta—. Siempre te contienes. Hace tres años también.
-
-Se pone en guardia otra vez. El suelo se agrieta bajo sus pies.
-
-—No me importa. —Sonríe—. Pero a ver hasta dónde puedes contenerte ahora.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1492 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · planeta de Kaio-sama            ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el pasto, mirando a Goku            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Goku (conteniéndose) ·   ║
-║ mensaje de Milk                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1493)
+## COMANDO 1 (T1493)
 
 sigo peleando
 
-## RESPUESTA 2 (T1493)
+## RESPUESTA 1 (T1493)
 
 > sigo peleando
 
@@ -138,11 +71,11 @@ Apunta hacia ti. Y detrás de ti, abajo, está el planeta.
 
 ---
 
-## COMANDO 3 (T1494)
+## COMANDO 2 (T1494)
 
 recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
 
-## RESPUESTA 3 (T1494)
+## RESPUESTA 2 (T1494)
 
 > recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
 
@@ -224,4 +157,76 @@ Kase le apoya una pata en la frente. Después se va.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Duelo ganado: Facundo desvió el Kamehameha; Goku, en base y agotado, se rindió riéndose en el pasto. Pendiente: mensaje de Milk. Facundo puede actuar.
+## COMANDO 3 (T1495)
+
+uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
+
+## RESPUESTA 3 (T1495)
+
+> uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
+
+Miras a Goku, tirado en el pasto, todavía riéndose.
+
+```
+╔══════════════════════════════════════════════╗
+║ SON GOKU                                     ║
+║ Saiyajin · guerrero Z                        ║
+║ PODER: Ki, Super Saiyajin 1, 2 y 3,          ║
+║        Kamehameha, Kaio-ken,                 ║
+║        Teletransportación, Genkidama         ║
+║ AMENAZA: BAJA                                ║
+║ Diferencia estimada: tú, x1,5 sobre él en    ║
+║ Super Saiyajin 3 (sin contar tus formas)     ║
+║ Energía actual: casi agotada                 ║
+║ YA COPIADO                                   ║
+╚══════════════════════════════════════════════╝
+```
+
+> —Eh, Goku. Dende me dijo esto para que te lo dijera, de parte de Milk.
+
+Y le repites el mensaje, tal cual: que vuelva para la fiesta de cumpleaños de Bulma, y que si no vuelve, Milk no le va a cocinar nunca más.
+
+Goku deja de reírse de golpe.
+
+Se sienta en el pasto de un salto, como si le hubieran tirado agua fría. Tiene la cara pálida, la boca abierta, los ojos muy grandes.
+
+—¿Nunca más? —repite—. ¿Nunca, nunca más?
+
+Mira a Kaio-sama, buscando ayuda.
+
+—Nunca más —confirma Kaio-sama, cruzándose de brazos, con mucha satisfacción—. Yo te dije que Milk iba a enojarse. Te lo dije hace tres meses.
+
+—¡Pero estaba entrenando! —Goku se agarra la cabeza—. ¡Si no me cocina Milk, me muero de hambre! ¡Lo único que sé hacer es pescado asado!
+
+Se pone de pie, tambaleando. Le tiemblan las piernas. Da dos pasos, se le doblan las rodillas por la gravedad y vuelve a caer sentado en el pasto. Se mira las manos.
+
+—Ay. No me queda nada. —Se ríe, nervioso—. Ni para el Kamehameha más chiquito. Ni para la Teletransportación.
+
+Te mira desde el suelo. Con la cara de un chico que rompió un vidrio y necesita que alguien lo ayude a esconderlo antes de que llegue su mamá.
+
+—Facundo... ¿Me llevas a casa? —Junta las manos—. Y vente a la fiesta de Bulma. ¡Va a estar todo el mundo! ¡Hay comida para cien! ¡Y si estás tú, Milk no me va a gritar tanto delante de los invitados!
+
+Kaio-sama resopla.
+
+—Sí te va a gritar.
+
+—Un poco menos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1495 · DRAGON BALL · AÑO 777 · ---     ║
+║ Otro Mundo · planeta de Kaio-sama            ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: junto a ti                             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Goku pide que lo lleve a casa e    ║
+║ invita a la fiesta de Bulma                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Mensaje de Milk entregado. Goku, sin energía, pide que Facundo lo lleve a casa y lo invita a la fiesta de Bulma. Facundo puede responder.
