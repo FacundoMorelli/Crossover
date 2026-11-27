@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1659)
-
-vuelvo a la corporación y simula hasta las ocho del martes
-
-## RESPUESTA 1 (T1659)
-
-> vuelvo a la corporación y simula hasta las ocho del martes
-
-Vuelves a la Corporación Cápsula con Kase en el asiento del acompañante y la ciudad apagándose de a poco debajo de ustedes.
-
-Lunes, 22:40. La cocina está a oscuras. En la mesa hay un papelito pegado con cinta en tu taza, con la letra de Bulma: "¿Y???". Debajo, con otra letra, más chica y más torcida, la de Trunks: "Mi mamá no durmió esperándote". Debajo, con letra de adulto, apretada, sin firma: "Tch."
-
-Martes, 06:00. La cámara de gravedad vuelve a temblar. Goten llega a las seis menos cinco, volando, con la mochila del colegio puesta al revés. Vegeta los hace repetir el Remolino Gemelo hasta las siete y media, cuando Bulma baja en bata y los manda a los dos a la escuela, despeinados y con raspones. Vegeta sale de la cámara, te ve en la cocina, te mira la cara un segundo y dice: "Tienes cara de idiota." Se sirve café y se va.
-
-Martes, mañana. Erasa escribe a las nueve y dos: "¿Ya te despertaste?" A las nueve y cuatro: "Mi mamá compró el pollo." A las nueve y siete: "Y papas." A las nueve y diez: "No te asustes si te pregunta muchas cosas. Pregunta muchas cosas. Es su forma de querer." A las diez: una foto borrosa de la cocina de su casa, con un pollo crudo en una fuente y su madre de espaldas. A las once: "Olvida la foto."
-
-Martes, mediodía. Bulma te intercepta en el pasillo con una caja de bombones de una confitería cara de la Capital del Oeste, envuelta en papel dorado con una cinta. "Para la mamá. Nunca, jamás, vayas a una casa por primera vez con las manos vacías." Te la pone en las manos. Después, mirándote de arriba abajo, decide que la camisa blanca está bien, pero que no la vas a usar con las mangas arremangadas, "que se te ven todos los dragones y la señora se desmaya". Se ríe sola. Después lo piensa mejor y dice que no, que los dragones también están bien.
-
-Martes, tarde. Gohan pasa a buscar unos papeles por el laboratorio del Doctor Brief. Te encuentra en el jardín y se queda un rato, incómodo, rascándose la nuca, hasta que te dice que la mamá de Erasa es "muy simpática, pero muy, muy curiosa", que una vez le preguntó a él, en el cumpleaños de Erasa, cuánto ganaba un investigador, cuántos hijos pensaba tener y por qué tenía tanto músculo para alguien que estudia. Que no se asuste. Se va riéndose solo.
-
-Martes, 19:30. Kase se sienta delante de la puerta del cuarto, solo, sin que nadie lo llame, mirándote, como si supiera la hora.
-
-Martes, 19:52. La cápsula 7 otra vez. La ciudad iluminada. El parque central. La Calle de los Tilos.
-
-Martes, 20:00 en punto. Calle de los Tilos, catorce. La luz de la sala encendida, la cortina quieta. El rosal despeinado tiene una flor nueva. Huele a pollo al horno, a romero y a papas desde la vereda. El buzón con forma de pato tiene el ojo despintado, recién pintado de nuevo, torcido.
-
-Tocas el timbre.
-
-La puerta se abre al primer timbre, demasiado rápido, como si hubiera alguien esperando del otro lado con la mano en el picaporte.
-
-No es Erasa.
-
-Es su madre. Ya no lleva bata: tiene un vestido verde oscuro, un collar de perlas falsas, los rulos rubios recién peinados y un delantal de cocina con dibujos de patos encima de todo. Lleva un repasador en el hombro. Te mira de arriba abajo, despacio, sin disimular nada: el pelo blanco y azul, los aros, la cicatriz del ojo, los dragones que asoman por el cuello de la camisa, la caja dorada en tu mano. Baja la vista hasta Kase. Kase la mira de vuelta, sin parpadear.
-
-Desde algún lugar del segundo piso se oye a Erasa, ahogada: "¡Mamá! ¡Te dije que abría yo!", y unos pasos corriendo.
-
-La madre no se mueve del umbral. Te tiende la mano.
-
-—Así que tú eres el viajero. —La voz es amable, pero los ojos, celestes como los de su hija, no se pierden nada—. Pasa, pasa, que se enfría el pollo. Pero antes dime una cosa, ya que estamos solos.
-
-Te aprieta la mano. Firme.
-
-—¿Tú de qué vives, querido?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1659 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calle de los Tilos 14 · martes · 20:00       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: a tus pies                             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1660)
+## COMANDO 1 (T1660)
 
 le doy los bombones y le digo que soy viajero, conozco muchos lugares
 
-## RESPUESTA 2 (T1660)
+## RESPUESTA 1 (T1660)
 
 > le doy los bombones y le digo que soy viajero, conozco muchos lugares
 
@@ -111,11 +51,11 @@ Pasos en la escalera. Erasa aparece en el pasillo detrás de su madre, sin aire,
 
 ---
 
-## COMANDO 3 (T1661)
+## COMANDO 2 (T1661)
 
 es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
 
-## RESPUESTA 3 (T1661)
+## RESPUESTA 2 (T1661)
 
 > es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
 
@@ -167,4 +107,60 @@ Mira hacia la cocina. Baja todavía más la voz.
 
 ---
 
-ESTADO AL CIERRE: martes 20:04, adentro de la casa de Erasa, al pie de la escalera. La mamá dejó la pregunta para la mesa (murmuró "Herencia. O lotería. O algo peor"); cena en cinco minutos, "lávense las manos". Kase en la almohadita nueva junto al sillón (le arrancó la etiqueta). Erasa, en susurros: "Ahora va a pensar que eres un mafioso. O un príncipe. Ella siempre piensa una de las dos cosas. No eres ninguna de las dos, ¿no?"
+## COMANDO 3 (T1662)
+
+no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
+
+## RESPUESTA 3 (T1662)
+
+> no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
+
+> —No, ninguna de las dos. Tranquila.
+
+Erasa suelta el aire. Se le ve en los hombros, que bajan de golpe.
+
+—Ya sé. Ya sé que no. —Se ríe, todavía nerviosa—. Pero ella no sabe.
+
+Te señala una puerta al lado de la escalera. El baño es chiquito, con azulejos celestes, una jabonera con forma de pato y unas toallas bordadas con una "E" que nadie usa. Te lavas las manos. Cuando sales, Erasa te está esperando en el pasillo, apoyada en la pared, haciendo como que no te esperaba.
+
+Van juntos a la cocina.
+
+Es una cocina comedor, con una mesa redonda de madera puesta para tres, mantel blanco planchado, servilletas de tela dobladas en triángulo, un florero con una sola rosa del rosal de la entrada y la vajilla buena, la que se nota que sale de la vitrina una vez al año. En el centro, en una fuente de vidrio, el pollo al horno, dorado, brillante, rodeado de papas y ramitas de romero. Huele a gloria.
+
+La caja de bombones de la calle Mayor está sobre la mesada, abierta. Falta uno.
+
+La madre de Erasa ya no tiene el delantal de patos. Está sentada en la cabecera, con las manos cruzadas sobre el mantel, y les señala las sillas con la cabeza: a Erasa, a su derecha; a ti, enfrente, donde puede verte bien.
+
+—Siéntense, siéntense.
+
+Se sientan. Ella corta el pollo con una precisión de cirujano. Te sirve primero a ti: la pechuga entera, la parte más dorada, tres papas grandes. Después a Erasa. Después a ella. Se sirve agua, despacio. Te sirve agua a ti.
+
+Por debajo de la mesa, la sandalia de Erasa encuentra tu pie y se queda ahí, apretando un poco.
+
+—Bueno —dice la madre, y apoya los cubiertos a los lados del plato sin tocar la comida todavía. Te sonríe con toda la amabilidad del mundo—. Prometí que en la puerta no preguntaba más. Y no pregunto más sobre eso. Ya me lo dirás cuando no sea "complicado".
+
+Erasa la mira con los ojos entrecerrados, desconfiando.
+
+—Pero hay otra cosa que sí quiero saber. —La madre corta un pedazo de papa, muy tranquila, y no se lo lleva a la boca—. Erasa me contó que te vas. Que eres viajero, que conoces islas y montañas, y que te vas en unos días. —Te mira por encima del tenedor—. Y mi hija, que nunca salió de esta ciudad, que llora con las películas de barcos, me compró una almohada para tu gato.
+
+—Mamá —susurra Erasa.
+
+—Así que dime, querido. —Deja la papa en el plato—. ¿Qué piensas hacer con ella cuando te vayas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1662 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 20:10        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:10, cocina comedor de la casa de Erasa, mesa redonda para tres (pollo al horno con papas y romero; vajilla buena). Mamá en la cabecera, Erasa a su derecha, Facundo enfrente. Pie de Erasa contra el de Facundo bajo la mesa. La mamá no pregunta más por el dinero, pero sí: "Erasa me contó que te vas... mi hija, que nunca salió de esta ciudad, me compró una almohada para tu gato. ¿Qué piensas hacer con ella cuando te vayas?"
