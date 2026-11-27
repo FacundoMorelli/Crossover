@@ -78,3 +78,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1607 · Ve el Hakai de Facundo, sin sonreír: "Sí, Bills-sama. Es un Hakai." "Así parece, Bills-sama."
 - T1608 · "Lo vi, Bills-sama." "Un humano. Que copia lo que ve, y lo junta como quiere. Facundo-san, cada vez que abre la boca me deja con más preguntas que antes." Sabe que copia (por Facundo).
 - T1610 · A Facundo, bajito: "Si me permite un consejo: no se las dé todas juntas. Una por día dura ciento cinco días. Y en ciento cinco días Bills-sama no destruye nada por aburrimiento. Al universo le haría un gran favor."
+- T1611 · Acepta guardar las 105 hamburguesas en el báculo ("Dos años y medio" guardó el pastel de la Tierra): "Pero yo decido cuándo se come cada una." "No, Bills-sama."

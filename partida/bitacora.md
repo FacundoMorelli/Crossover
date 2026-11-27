@@ -1609,3 +1609,4 @@ T1607 · DRAGON BALL · Planeta de Bills · "Perdón por copiarte esto." Hakai s
 T1608 · DRAGON BALL · Planeta de Bills · "Es una copia. Copié el SSJ de Goku. Soy un humano." Bills conserva el Hakai (lo prueba). Goku feliz; Vegeta: "Todavía tengo algo que tú no copiaste. Lo mío." Bills: "¿Lo puedes copiar? ¿Cualquier cosa?"
 T1609 · DRAGON BALL · Planeta de Bills · "Ya copié todos tus poderes." Bills: "Estoy ofendido... Copiarme no es gratis. Cada poder me lo pagas en hamburguesas. ¿Cuántos?"
 T1610 · DRAGON BALL · Planeta de Bills · Bills cuenta los poderes copiados: 5 + 100 de "etcétera" = 105 hamburguesas. Whis aconseja una por día. "¿Trato?"
+T1611 · DRAGON BALL · Planeta de Bills · "Acuérdate de que soy viajero." Bills: las 105 hamburguesas juntas, Whis las guarda. "Traes comida de tu mundo, a mí primero. Si apareces sin el gato, te destruyo." "¿Cuándo te vas?"

@@ -167,3 +167,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1606 · "Sea lo que sea. Claro. Por qué no." (brazos cruzados, guantes crujiendo).
 - T1608 · Sabe (por Facundo) que es humano y copia: "Un humano que copia. Entonces lo que me hizo sangrar ayer, el azul... era de Kakaroto. Me lo pegaste con el poder de Kakaroto." Sonrisa torcida: "Bien. Entonces todavía tengo algo que tú no copiaste. Lo mío."
 - T1610 · Se tapa la cara con una mano; le tiemblan los hombros de risa (sin ruido) por lo de "algo que valga".
+- T1611 · Mira de costado a Facundo, esperando oír cuándo se va.

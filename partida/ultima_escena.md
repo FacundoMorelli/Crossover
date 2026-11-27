@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1608)
-
-no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
-
-## RESPUESTA 1 (T1608)
-
-> no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
-
-> —No, señor Bills. Es una copia. Por eso mismo tengo el Super Saiyajin: lo copié de Goku. Soy un humano.
-
-Bills no te escucha del todo. Ya está mirando el suelo, buscando. Encuentra una piedrita del tamaño de una nuez, junto a su pie, y le apunta con un dedo, rápido, sin ceremonia.
-
-El contorno violeta aparece alrededor de la piedrita. Se deshace en partículas. No queda nada.
-
-Bills se queda mirando el lugar vacío un segundo largo. Después suelta todo el aire de golpe, por la nariz, y los hombros se le caen.
-
-—Ah. —Las orejas le suben despacio—. Ah, bueno. Lo tengo.
-
-Se mira el dedo. Lo flexiona. Lo vuelve a mirar.
-
-—Lo tengo —le dice a Whis, por las dudas.
-
-—Lo vi, Bills-sama.
-
-Pero el que se mueve primero es Goku.
-
-—¡¿Me copiaste a mí?! —Cruza el pasto en dos saltos y se te para delante, con los ojos enormes, señalándose el pecho—. ¡¿El Super Saiyajin lo sacaste de mí?! ¡¿Por eso te transformabas sin ser saiyajin?!
-
-No espera respuesta. Se le arma una sonrisa de oreja a oreja.
-
-—¡Qué increíble! ¡O sea que una parte de lo que tienes es mía! —Se ríe y se rasca la nuca—. ¡Entonces cuando peleamos ayer estaba peleando un poco contra mí mismo!
-
-Kase, todavía sentado donde Goku lo dejó, lo mira irse con cara de cansancio.
-
-Vegeta no se ríe.
-
-Se queda al pie de la escalera, con los brazos ya descruzados, mirándote. La cara se le va endureciendo de a poco, como una piedra que se enfría.
-
-—Un humano —dice, despacio—. Un humano que copia.
-
-Aprieta los puños.
-
-—Entonces lo que me hizo sangrar ayer, el azul, el poder de un saiyajin... era de Kakaroto. —Le tiembla la mandíbula—. Me lo pegaste con el poder de Kakaroto.
-
-Mira a Goku, que sigue riéndose. Después a ti otra vez, y por un segundo la rabia de antes vuelve. Pero se le apaga sola, y en su lugar queda otra cosa: una sonrisa torcida, chica, casi sin querer.
-
-—Bien —gruñe—. Entonces todavía tengo algo que tú no copiaste. Lo mío.
-
-Whis se acerca, con el báculo apoyado en el hombro, y te mira con la cabeza inclinada.
-
-—Un humano. Que copia lo que ve, y lo junta como quiere. —Sonríe, pensativo—. Facundo-san, cada vez que abre la boca me deja con más preguntas que antes.
-
-Bills, con el dedo todavía levantado, te mira de reojo. La cola se le mueve despacio, sospechosa.
-
-—A ver si entendí. —Te apunta con el dedo de la piedrita—. Si te muestro algo, ¿lo puedes copiar? ¿Cualquier cosa?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1608 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 53% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~40 min) · Velo: ki bajo   ║
-║ Kase: sentado en el pasto                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1609)
+## COMANDO 1 (T1609)
 
 algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
 
-## RESPUESTA 2 (T1609)
+## RESPUESTA 1 (T1609)
 
 > algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
 
@@ -141,11 +68,11 @@ Afuera de la conversación, Whis se ríe abiertamente. Kase, en el pasto, bostez
 
 ---
 
-## COMANDO 3 (T1610)
+## COMANDO 2 (T1610)
 
 ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
 
-## RESPUESTA 3 (T1610)
+## RESPUESTA 2 (T1610)
 
 > ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
 
@@ -210,4 +137,69 @@ Bills vuelve a mirarte, de brazos cruzados, con la cola moviéndose despacio det
 
 ---
 
-ESTADO AL CIERRE: Bills exige 105 hamburguesas (5 poderes + 100 de "etcétera"). Whis aconseja dárselas una por día. Bills: "¿Trato?" Facundo puede contestar.
+## COMANDO 3 (T1611)
+
+esta bien, pero acuérdate que soy viajero
+
+## RESPUESTA 3 (T1611)
+
+> esta bien, pero acuérdate que soy viajero
+
+> —Está bien. Pero acuérdate de que soy viajero.
+
+Bills parpadea.
+
+La cola se le queda quieta en el aire, a medio movimiento.
+
+—Viajero —repite. Lo dice despacio, como si la palabra le hubiera cambiado de gusto—. Ya sé. Lo dijiste ayer. Otro mundo.
+
+Baja la mano con la que contaba. Se queda mirándote un momento, y por primera vez desde que lo conoces no parece un dios, ni un gato, ni un chico con un juguete nuevo. Parece alguien que acaba de darse cuenta de que la fiesta tiene hora de terminar.
+
+Dura un segundo. Enseguida carraspea y levanta el mentón.
+
+—Entonces no me las des una por día. —Mira de reojo a Whis, molesto—. Me las das todas ahora. Juntas. Y Whis me las guarda.
+
+—¿Yo, Bills-sama?
+
+—Tú. En ese báculo guardas de todo. Guardaste el pastel de la Tierra tres años sin que se pusiera feo.
+
+—Dos años y medio, Bills-sama. —Whis suspira, con una sonrisa resignada—. Está bien. Ciento cinco hamburguesas. Pero yo decido cuándo se come cada una.
+
+—Eso lo discutimos después.
+
+—No, Bills-sama.
+
+Goku se ríe. Kase, en el pasto, se pone de pie, se estira hacia adelante y después hacia atrás, y camina despacio hasta tus pies. Se sienta ahí, apoyado contra tu borceguí.
+
+Bills lo mira. Después te mira a ti.
+
+—Y otra cosa. —Te señala con el dedo—. Lo que te dije ayer sigue en pie. Cuando vuelvas a tu mundo, traes comida de allá. Y cuando vuelvas para acá, me la traes a mí. No a Kakaroto. No a Whis. A mí primero.
+
+Cruza los brazos.
+
+—Y el gato viene contigo. Siempre. Si un día apareces sin el gato, te destruyo.
+
+Lo dice muy serio. Se le mueve la oreja izquierda.
+
+Vegeta, al pie de la escalera, te mira de costado. No dice nada, pero tiene los ojos puestos en ti como si esperara oír algo.
+
+—Entonces... —Bills ladea la cabeza, y la pregunta le sale más bajita de lo que querría—. ¿Cuándo te vas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1611 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 53% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~37 min) · Velo: ki bajo   ║
+║ Kase: sentado contra tu borceguí             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Trato: 105 hamburguesas juntas, Whis las guarda (todavía no entregadas). Condiciones de Bills: comida de su mundo, a él primero; Kase siempre. Bills: "¿Cuándo te vas?" Facundo puede contestar.

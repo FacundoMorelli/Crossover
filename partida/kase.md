@@ -157,3 +157,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1602 · Sigue a Facundo trotando y se le sube al hombro; mira a Vegeta sin parpadear.
 - T1604 · Facundo le rasca detrás de la oreja: ronroneo largo; le da un cabezazo suave en la mejilla, en la costra.
 - T1605 · Se baja solo del hombro de Facundo y se sienta al lado de Goku.
+- T1611 · Se estira y se sienta apoyado contra el borceguí de Facundo.
