@@ -81,3 +81,4 @@
 - Milk, Goku · T1500 · Por Facundo: se queda hasta unos días después del cumpleaños de Bulma.
 - Goten · T1502 · Sabe (por Goku/Milk o por lo visto) que Facundo va a "lugares" lejanos.
 - Goten · T1503 · Ve a Facundo hacer desaparecer el dibujo con las manos (inventario dimensional): lo entiende como "guardado donde no se pierde".
+- Goten · T1504 · Por Facundo: le va a enseñar algo (secreto para Trunks).

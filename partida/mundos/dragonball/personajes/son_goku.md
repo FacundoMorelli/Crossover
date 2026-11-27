@@ -66,3 +66,4 @@ DIÁLOGOS CLAVE:
 - T1498 · "No eran vacaciones, era entrenamiento..." "Sí, Milk."
 - T1500 · Sale del baño (toalla, camiseta al revés). "¡Entonces mañana entrenamos otra vez!" Propone que Facundo lo ayude a arar. "¿Me ayudas?"
 - T1501 · "¡SÍ!" Tira la toalla al aire y le cae a Milk. "...Perdón, Milk." Se va caminando hacia atrás haciéndole el pulgar a Facundo.
+- T1504 · Dormido en la hamaca del patio, camiseta al revés, roncando.

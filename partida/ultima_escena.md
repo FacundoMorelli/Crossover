@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1501)
-
-esta bien
-
-## RESPUESTA 1 (T1501)
-
-> esta bien
-
-> —Está bien.
-
-—¡SÍ! —Goku tira la toalla al aire. Le cae en la cara a Milk.
-
-Milk se la saca despacio. Lo mira. No dice nada. No hace falta.
-
-—...Perdón, Milk.
-
-—A las seis —dice Milk—. Los dos. Y si llegan tarde, no hay desayuno.
-
-Goku se va de la cocina caminando hacia atrás, sonriéndote y haciéndote el pulgar para arriba, hasta que choca con el marco de la puerta y desaparece por el pasillo.
-
-Milk suspira y vuelve a la olla.
-
-Un segundo después, la puerta de la casa se abre de golpe. Goten entra corriendo, con los pantalones mojados hasta las rodillas, un pescado vivo en una mano que todavía se sacude, y Kase detrás, caminando sin apuro, con los bigotes mojados y cara de haber supervisado toda la operación.
-
-—¡Mamá! ¡Pesqué uno! ¡El gato me ayudó! ¡Se metió al agua! ¡Se metió al agua de verdad!
-
-—¡Goten! ¡Estás empapando toda la casa!
-
-Goten no la escucha. Deja el pescado en la mesa, delante de ti, al lado de tu tazón, donde sigue saltando. Y te agarra de la manga, con la mano mojada, tirando hacia el pasillo.
-
-—¡Facundo, Facundo! ¡Ven a ver mi cuarto! ¡Tengo dibujos de Kase! ¡Un montón! ¡Hay uno donde Kase pelea con Buu! ¡Y uno donde Kase es Super Saiyajin! —Se le ilumina la cara—. ¿Kase puede ser Super Saiyajin?
-
-Kase, en el suelo de la cocina, se sacude el agua de las patas, una por una, mirando a Goten con una paciencia infinita.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1501 · DRAGON BALL · AÑO 777 · 13:00   ║
-║ Monte Paoz · casa de los Son, cocina         ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · Palmas vendadas   ║
-║ Velo: persona común                          ║
-║ Kase: en la cocina, con los bigotes mojados  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Arar con Goku mañana a las 6 ·     ║
-║ fiesta de Bulma el sábado                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1502)
+## COMANDO 1 (T1502)
 
 no, no puede, que yo sepa
 
-## RESPUESTA 2 (T1502)
+## RESPUESTA 1 (T1502)
 
 > no, no puede, que yo sepa
 
@@ -111,11 +60,11 @@ Goten arranca uno de la pared con cuidado. El de los dos de la mano. Lo alisa co
 
 ---
 
-## COMANDO 3 (T1503)
+## COMANDO 2 (T1503)
 
 esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
 
-## RESPUESTA 3 (T1503)
+## RESPUESTA 2 (T1503)
 
 > esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
 
@@ -164,4 +113,47 @@ Levanta la cabeza. Te mira desde abajo, con la barbilla apoyada en tu pecho, y b
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 13:08, cuarto de Goten. Dibujo guardado en el inventario. Goten pide que mañana, después de arar, le enseñe una técnica que no sepa Goku. Facundo puede responder.
+## COMANDO 3 (T1504)
+
+esta bien goten algo se me va a ocurrir para enseñarte
+
+## RESPUESTA 3 (T1504)
+
+> esta bien goten algo se me va a ocurrir para enseñarte
+
+> —Está bien, Goten. Algo se me va a ocurrir para enseñarte.
+
+Goten te suelta de golpe y da un salto en el lugar, tan alto que casi toca el techo con la cabeza.
+
+—¡SÍ! ¡SÍ, SÍ, SÍ! —Aterriza—. ¡Y no le digas a Trunks! ¡Que sea sorpresa! ¡En el cumpleaños de su mamá se la muestro y se va a caer de espaldas!
+
+—¡GOTEN! ¡LOS PANTALONES!
+
+—¡YA VOY!
+
+Sale corriendo del cuarto. Se le oye en el pasillo, resbalando con los pies mojados en el piso de madera, chocando con algo, pidiendo perdón a algo, y después la voz de Milk retándolo en la cocina.
+
+Kase se levanta del piso, se estira despacio, primero las patas de adelante, después las de atrás, y te mira con los ojos rojo y azul. Después mira la pared de los cuarenta y dos dibujos que quedan, con el hueco del que falta en el medio. Se acerca al hueco. Lo olfatea.
+
+Por la ventana del cuarto entra la luz de la tarde, amarilla, tibia. Se ven las montañas en punta, el campo norte sin arar, el de abajo, el arroyo brillando entre los árboles. En el patio, Goku, con la camiseta todavía al revés, se quedó dormido en la hamaca de la foto, con la boca abierta, roncando.
+
+La casa se queda en silencio. Solo se oye a Milk en la cocina, la olla, el arroyo, los ronquidos de Goku y, cada tanto, la voz de Goten que repite tablas de multiplicar de mala gana.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1504 · DRAGON BALL · AÑO 777 · 13:12   ║
+║ Monte Paoz · cuarto de Goten                 ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · Palmas vendadas   ║
+║ Velo: persona común                          ║
+║ Kase: olfateando el hueco del dibujo         ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Arar mañana a las 6 · enseñarle    ║
+║ algo a Goten · fiesta de Bulma el sábado     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 13:12, cuarto de Goten. Facundo prometió enseñarle algo a Goten (sorpresa para Trunks). Tarde tranquila; Goku duerme en la hamaca; mañana a las 6, arar. Facundo puede actuar.
