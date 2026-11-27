@@ -96,3 +96,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1553 · Whis le cambia el entrenamiento al azul; asiente con todas sus ganas.
 - T1555 · Ve el Hakai de Bills a lo lejos; boca abierta.
 - T1556 · Sigue intentando el azul: destellos de un segundo.
+- T1558 · Sin dormir, despierta a Facundo y le muestra SSJ BLUE durante quince segundos (pelo y aura azules, ojos celestes). "¡Quince segundos! ¡Anoche era uno!" Whis dice que en unos días lo mantendrá todo lo que quiera. "Y fue idea tuya. Gracias, Facundo."

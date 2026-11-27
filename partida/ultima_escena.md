@@ -3,87 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1555)
-
-nada, bueno, me mostrarias una de tus habilidades de dios?
-
-## RESPUESTA 1 (T1555)
-
-> nada, bueno, me mostrarias una de tus habilidades de dios?
-
-> —Nada. Bueno... ¿me mostrarías una de tus habilidades de dios?
-
-Bills te mira. Parpadea.
-
-—¿Nada? —repite, como si la palabra le resultara rara en la boca—. Me das pudín, me das esto, ¿y no quieres nada? ¿Ni un planeta? ¿Ni que destruya a alguien que te caiga mal? —Ladea la cabeza—. Todos quieren algo.
-
-Después escucha el resto. Se le dibuja una sonrisa de gato, despacio, de oreja a oreja.
-
-—Ah. Una habilidad. —Se pone de pie, sacudiéndose la ropa de dormir—. Eso sí es pedir algo. Bien.
-
-Mira alrededor. El pie de la pirámide, los árboles con las hojas al revés, el cielo violeta. A cien metros, por encima de una ladera, flota una roca enorme, del tamaño de una casa de tres pisos, cubierta de musgo, girando despacio sobre sí misma, como flotan tantas cosas en ese planeta.
-
-Bills levanta una mano. La palma abierta, hacia la roca. Nada más.
-
-—Mira bien, muchacho del bolsillo.
-
-No hay grito. No hay aura. No hay ruido. Solo una luz, violeta, pálida, que aparece alrededor de la roca, como un contorno, como si alguien la hubiera dibujado con un lápiz de luz.
-
-—Hakai —dice Bills, muy bajo.
-
-Y la roca deja de existir.
-
-No explota. No se rompe. No cae. Se deshace en partículas de luz violeta, chiquitas, miles, que suben flotando despacio hacia el cielo, como chispas de una fogata, y se apagan una por una antes de llegar a ningún lado. En un segundo, no queda nada. Ni polvo. Ni musgo. Ni la sombra que hacía sobre la ladera. Como si nunca hubiera estado ahí.
-
-A lo lejos, Goku y Vegeta se quedaron quietos en la mitad del entrenamiento, mirando el lugar vacío. Vegeta tiene la cara gris. Goku, la boca abierta.
-
-Bills baja la mano.
-
-—Destrucción —dice—. No la de romper cosas. La de que dejen de ser. Eso es lo que hace un dios de la destrucción. —Se rasca la oreja—. Es bastante aburrido, en realidad. Lo divertido es lo que viene antes.
-
-Delante de tus ojos, sin ruido, como siempre, se abre una ventana.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Destrucción (Hakai) y poder de un Dios de la ║
-║ Destrucción                                  ║
-║ USUARIO: Bills · Dragon Ball                 ║
-║                                              ║
-║ MISIÓN: Recibir un Hakai de Bills dirigido a ║
-║ ti, de frente y en serio, y seguir           ║
-║ existiendo.                                  ║
-║ DIFICULTAD: EXTREMA                          ║
-╚══════════════════════════════════════════════╝
-```
-
-Bills se vuelve a sentar en el suelo, al lado de tu silla, con las piernas cruzadas, satisfecho, como quien acaba de hacer un truco de cartas.
-
-—¿Contento? —Bosteza—. Ahora sí estamos a mano.
-
-Whis, de pie junto a la mesita, te mira. No a Bills. A ti. Con la cabeza un poco ladeada, la sonrisa amable de siempre, y los ojos quietos, muy quietos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1555 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · sillas de playa         ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en la mesita                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Misión de copia: el Hakai de Bills ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1556)
+## COMANDO 1 (T1556)
 
 que poder impresionante
 
-## RESPUESTA 2 (T1556)
+## RESPUESTA 1 (T1556)
 
 > que poder impresionante
 
@@ -135,11 +59,11 @@ Whis se sienta otra vez en su silla de playa. Se acomoda la túnica. Te mira de 
 
 ---
 
-## COMANDO 3 (T1557)
+## COMANDO 2 (T1557)
 
 esta bien, total no tengo ningun lugar al que viajar por ahora
 
-## RESPUESTA 3 (T1557)
+## RESPUESTA 2 (T1557)
 
 > esta bien, total no tengo ningun lugar al que viajar por ahora
 
@@ -192,4 +116,65 @@ Afuera, por la ventana sin vidrio, a lo lejos, se ve un destello azul que dura u
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, cuarto del palacio. Facundo se queda unos días; Whis ofreció entrenarlo si quiere. Kase en la cama. Afuera, destellos azules de Goku; Bills ronca. Facundo puede actuar.
+## COMANDO 3 (T1558)
+
+duermo con kase
+
+## RESPUESTA 3 (T1558)
+
+> duermo con kase
+
+Te acuestas en la cama baja, entre los almohadones de colores. Kase se corre apenas, lo justo, sin despertarse del todo, y se acomoda contra tu pecho, con la cabeza debajo de tu barbilla. Ronronea un rato, bajito. Después se queda quieto.
+
+Por la ventana sin vidrio entra un aire tibio que huele a flores que no conoces. Las lunas se mueven despacio por el cielo violeta. A lo lejos, cada tanto, un destello azul ilumina el abismo, y después otro, cada vez un poco más largo. El ronquido de Bills llega desde arriba, por las paredes de piedra, grave y parejo, como el ruido del mar.
+
+Te duermes.
+
+Te despierta la luz.
+
+No hay un sol: hay varios. Tres soles chicos, blancos, que salieron juntos por el borde del planeta y llenan el cuarto de una luz dorada y suave. Las flores de afuera se abrieron todas a la vez y el aire huele todavía más dulce. Kase sigue dormido contra tu pecho, con una pata encima de tu brazo.
+
+Alguien golpea la puerta. Fuerte. Muchas veces seguidas.
+
+—¡Facundo! ¡Facundo, despierta!
+
+La puerta se abre de golpe. Es Goku, con el gi naranja roto por todos lados, la cara sucia, el pelo revuelto, los ojos brillantes y una sonrisa de oreja a oreja. No durmió. Se nota. Y no le importa.
+
+—¡Mira! ¡Mira esto!
+
+Se para en el medio del cuarto. Cierra los ojos. Respira hondo.
+
+El pelo se le pone dorado. Después, despacio, sin gritar, el dorado se le apaga y se le vuelve azul. Un azul claro, limpio, brillante, como el cielo de un día sin nubes. El aura le nace alrededor del cuerpo, azul también, tranquila, chispeante, sin hacer ruido. Los ojos, celestes.
+
+Y se queda así.
+
+Uno, dos, tres segundos. Cinco. Diez.
+
+Kase abre un ojo, lo mira y lo vuelve a cerrar.
+
+A los quince segundos, el azul parpadea, se apaga, y Goku cae sentado al piso, sin aire, riéndose.
+
+—¡Quince! —grita—. ¡Quince segundos! ¡Anoche era uno! —Se ríe tanto que se tiene que agarrar la panza—. Vegeta llegó a ocho y se enojó tanto que se fue a romper una montaña. Whis dice que en unos días lo voy a poder mantener todo lo que quiera.
+
+Te mira desde el suelo, con los ojos brillantes.
+
+—Y fue idea tuya. —Se pone serio, de golpe, solo un segundo—. Gracias, Facundo. —Después vuelve la sonrisa enorme—. ¡Ahora vamos a desayunar! ¡Whis hizo algo que se llama "sopa de estrellas" y huele rarísimo!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1558 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Palacio de la pirámide · tu cuarto           ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la cama, contra tu pecho            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Unos días en el planeta de Bills · ║
+║ misión de copia del Hakai                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mañana (tres soles). Goku le mostró 15 s de SSJ Blue y le agradeció la idea. Lo invita a desayunar la sopa de estrellas de Whis. Facundo puede actuar.

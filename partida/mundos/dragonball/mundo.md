@@ -23,3 +23,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T1531 · Bills promete no destruir la Tierra "por un tiempo largo" y que nadie más la destruya sin preguntarle, por el pudín de Facundo. Se va con Whis.
 - T1542 · Bulma tiene un libro de Paradis (Shingeki) para descifrar: un objeto de otro mundo en Dragon Ball.
 - T1552 · Goku esboza el SSJ Blue (un segundo) en su primera noche con Whis, por la idea de Facundo (en el canon llevaba meses de entrenamiento).
+- T1558 · Goku sostiene el SSJ Blue 15 s y Vegeta 8 s tras una noche (canon acelerado por la idea de Facundo).

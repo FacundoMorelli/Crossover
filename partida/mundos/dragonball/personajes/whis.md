@@ -34,3 +34,4 @@ RELACIÓN CON FACUNDO (T1528): curiosidad amable; agradecido por el pudín y la 
 - T1556 · "Champa-sama no opina lo mismo." "Bills-sama a veces duerme años." A Facundo: "Parece que Bills-sama le dio una orden. Hay cuartos de sobra en el palacio. La comida la cocino yo, aunque no es tan buena como la suya. ¿Se queda con nosotros unos días?"
 - T1557 · "Bills-sama se va a poner contento. Contento a su manera. Que es parecido a enojado, pero con más comida." Lleva a Facundo a un cuarto del palacio. "Si necesita algo, llámeme. Siempre escucho." Repite: "Ningún lugar al que viajar por ahora. Qué frase tan curiosa para alguien que tiene un ki tan pequeño." No pregunta. "Y si alguna vez le apetece hacer algo más que mirar... yo también estoy."
 RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
+- T1558 · (Por Goku) Prepara "sopa de estrellas" para el desayuno.

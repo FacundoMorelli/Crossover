@@ -133,3 +133,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1548 · Se sube solo al hombro cuando Facundo acepta ir; Goten le da un beso en la cabeza y lo permite. Viaja en la burbuja de Whis con las uñas clavadas en el sobretodo.
 - T1551 · Desprecia el jugo de Whis; duerme en la mesita entre los vasos al sol de las lunas.
 - T1557 · Flota dormido un segundo cuando Whis hace desaparecer la mesita; baja al pasto sin despertarse. Aprueba la cama del cuarto del palacio de Bills.
+- T1558 · Duerme contra el pecho de Facundo en el palacio de Bills, con una pata en su brazo. Abre un ojo ante el SSJ Blue de Goku y lo vuelve a cerrar.

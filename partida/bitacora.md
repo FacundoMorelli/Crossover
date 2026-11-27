@@ -1556,3 +1556,4 @@ T1554 · DRAGON BALL · Planeta de Bills · Carne al punto con puré para Bills 
 T1555 · DRAGON BALL · Planeta de Bills · Pide ver una habilidad de dios. Bills hace Hakai sobre una roca flotante. Misión de copia: recibir un Hakai de Bills y seguir existiendo (EXTREMA). "Estamos a mano." Whis lo mira.
 T1556 · DRAGON BALL · Planeta de Bills · "Qué poder impresionante." Bills se infla (Champa, doce universos). Se vuelve a dormir: "Quiero comer eso otra vez. Y que el gato siga aquí." Whis: "¿Se queda con nosotros unos días?"
 T1557 · DRAGON BALL · Planeta de Bills · Se queda unos días. Whis le da un cuarto en el palacio de la pirámide. "Qué frase tan curiosa para alguien con un ki tan pequeño." Ofrece entrenarlo si quiere.
+T1558 · DRAGON BALL · Planeta de Bills · Duerme con Kase. Mañana: Goku le muestra 15 segundos de SSJ Blue ("¡Anoche era uno!"); Vegeta, 8. "Fue idea tuya. Gracias." Sopa de estrellas de Whis.
