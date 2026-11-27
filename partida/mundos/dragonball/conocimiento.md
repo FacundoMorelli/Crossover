@@ -171,3 +171,6 @@
 - T1636 · Erasa VIO de cerca los ojos de Facundo (rojo y azul) y confirma que son naturales.
 - T1638 · Erasa sabe (por Facundo) que es "un viajero".
 - T1639 · Facundo contó en la mesa (Erasa, y al alcance de Whis) que el lugar más lindo que conoció es uno lleno de islas, donde se viaja en barco (sin nombrar el mundo).
+
+- T1656 · MAMÁ DE ERASA: vio a Facundo en persona (aspecto, aerodeslizador rojo, Erasa con su sobretodo). Erasa le contará esa noche lo que ella sabe (viajero, nombre, gato, ojos naturales, se va en unos días).
+- T1638-T1655 · ERASA sabe por Facundo: nombre, que es viajero, que vuelve a todos los lugares, que se va en unos días, ojos y pelo naturales de nacimiento. Vio a Bills y Whis (aspecto). No vio ningún poder.

@@ -1654,3 +1654,4 @@ T1652 · DRAGON BALL · Capital del Oeste · "Creo que en unos días. Tengo nuev
 T1653 · DRAGON BALL · Capital del Oeste · "Salir contigo." Erasa: "Eres imposible." Acepta: panqueques, mirador, botes-cisne. "¿Me pasas a buscar? ¿A qué hora?"
 T1654 · DRAGON BALL · Calle de los Tilos 14 · Cita mañana a las 11. Llegan a la casa de Erasa (buzón de pato). "Bueno. Llegamos." Empieza a devolverle el sobretodo, despacio.
 T1655 · DRAGON BALL · Calle de los Tilos 14 · Primer beso con Erasa. "Quédatelo" (el sobretodo). "Me vas a volver loca en unos días, Facundo Morelli." Se enciende una luz en el segundo piso.
+T1656 · DRAGON BALL · Calle de los Tilos 14 · "Ahora ve, antes de que tu madre te mate." Erasa entra; su mamá ve a Facundo: "¿Ese quién es?" Erasa saluda desde la ventana.

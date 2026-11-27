@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1653)
-
-nada, bueno algo si... salir contigo
-
-## RESPUESTA 1 (T1653)
-
-> nada, bueno algo si... salir contigo
-
-> —Nada. Bueno, algo sí... Salir contigo.
-
-Erasa se queda mirándote con la boca entreabierta.
-
-Un segundo. Dos.
-
-Después se pone roja de golpe, desde el cuello del sobretodo hasta la raíz de los rulos, y hunde la cara entera en la tela negra. Del sobretodo sale un ruido ahogado, entre un chillido y una risa.
-
-—Eres imposible —dice, sin sacar la cara—. Eres im-po-si-ble. Nadie dice esas cosas así, tan tranquilo. Nadie.
-
-Saca un ojo. Te mira. Lo vuelve a esconder.
-
-No te suelta la mano. Te la aprieta más fuerte.
-
-El aerodeslizador sigue flotando despacio por la calle de los faroles. El viejo del perro salchicha, que ya los vio pasar dos veces, se queda parado en la vereda, con la correa en la mano, y los sigue con la mirada, meneando la cabeza con una sonrisa.
-
-Erasa por fin saca la cara. Respira hondo, como antes de cortar la torta, y se acomoda en el asiento muy derecha, muy digna, con las mejillas todavía encendidas.
-
-—Bueno. —Carraspea—. Sí. Acepto. Obviamente acepto. —Se ríe sola—. Pero esta vez elijo yo adónde vamos, porque tú ya conociste islas de hielo y volcanes, y yo nunca conocí nada, así que te voy a mostrar lo mejor de la Capital del Oeste, que no es mucho, pero es mío.
-
-Cuenta con los dedos de la mano libre, que asoma apenas de la manga.
-
-—Hay un lugar de panqueques que es el mejor del mundo. Bueno, de la ciudad. Bueno, de este barrio. Y hay un mirador arriba de la torre de la estación, que se ve todo. Y el lago del parque, que tiene botes con forma de cisne, que son horribles, pero son lindos. —Te mira de costado—. ¿Me pasas a buscar? ¿A qué hora?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1653 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calles al costado del parque central · 23:22 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1654)
+## COMANDO 1 (T1654)
 
 a la hora que quieras y te paso a buscar
 
-## RESPUESTA 2 (T1654)
+## RESPUESTA 1 (T1654)
 
 > a la hora que quieras y te paso a buscar
 
@@ -97,11 +49,11 @@ No suelta tu mano. Con la otra, la que asoma de la manga, empieza a desabrochars
 
 ---
 
-## COMANDO 3 (T1655)
+## COMANDO 2 (T1655)
 
 le agarro de la cara con las dos manos y le doy un beso, quedatelo
 
-## RESPUESTA 3 (T1655)
+## RESPUESTA 2 (T1655)
 
 > le agarro de la cara con las dos manos y le doy un beso, quedatelo
 
@@ -151,4 +103,64 @@ Erasa ni la ve. Sigue mirándote a ti.
 
 ---
 
-ESTADO AL CIERRE: 23:33, frente a Calle de los Tilos 14, en el aerodeslizador. PRIMER BESO con Erasa (ella lo devolvió, agarrada de su camisa). Le regaló el sobretodo ("Quédatelo"). La torta cayó al piso del aerodeslizador. Erasa: "Ah." "Me vas a volver loca en unos días, Facundo Morelli." Se encendió una luz en el segundo piso; ella no la vio. Sigue agarrada de su camisa, mirándolo.
+## COMANDO 3 (T1656)
+
+es la idea, ahora ve antes que tu madre te mate
+
+## RESPUESTA 3 (T1656)
+
+> es la idea, ahora ve antes que tu madre te mate
+
+> —Es la idea. Ahora ve, antes de que tu madre te mate.
+
+Erasa se ríe. Una risa de verdad, fuerte, que le sale de golpe y que se tapa con las dos mangas.
+
+—Es la idea —te imita, poniendo la voz grave y la cara seria—. Imposible. Eres imposible.
+
+Se agacha, junta la torta envuelta del piso, le sacude una pelusa imaginaria y abre la puerta del aerodeslizador. Se baja. El sobretodo le arrastra un poco por la vereda.
+
+Da dos pasos hacia la reja. Se da vuelta.
+
+—A las once —dice, señalándote con la manga—. En punto. Y esperas cinco minutos sin decir nada.
+
+Da otros dos pasos. Se da vuelta otra vez. Mira hacia el hueco de atrás de los asientos.
+
+—Chau, Kase.
+
+Kase saca la cabeza, la mira y parpadea despacio, una sola vez. Erasa se lleva la manga al pecho como si le hubieran dado un premio.
+
+Abre la reja. Antes de que llegue a la puerta, la puerta se abre sola.
+
+En el umbral hay una mujer de unos cuarenta y tantos, rubia como ella, con los mismos rulos pero más cortos, en bata rosa y pantuflas, con los brazos cruzados y el teléfono en la mano. Mira a su hija. Mira el sobretodo negro que le llega hasta los tobillos. Mira por encima del hombro de Erasa, hacia la vereda: el aerodeslizador rojo, el pelo blanco y azul, los tatuajes que asoman por el cuello de la camisa, los ojos de dos colores.
+
+Levanta una ceja. Muy alto.
+
+—Mamá, entra —dice Erasa, empujándola por la panza hacia adentro con las dos manos—. Entra, entra, entra. Te cuento todo. Mañana. Bueno, ahora. Pero adentro.
+
+—¿Ese quién es?
+
+—¡Adentro!
+
+La puerta se cierra.
+
+La calle se queda en silencio. Un grillo en el rosal. El zumbido lejano de la ciudad. El buzón con forma de pato, con su ojo despintado, mirándote.
+
+Medio minuto después se abre la cortina de la ventana del segundo piso. Aparece Erasa, todavía con el sobretodo puesto, y te saluda con la manga vacía, de lado a lado, como un limpiaparabrisas. Detrás de ella se asoma la cabeza de la madre. Erasa la tapa con la cortina sin dejar de saludarte.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1656 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calle de los Tilos 14, casa de Erasa · 23:36 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cita con Erasa mañana a las 11     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 23:36, Facundo solo con Kase en el aerodeslizador frente a Calle de los Tilos 14. Erasa entró (con el sobretodo y la torta); "A las once. En punto." Se despidió de Kase (parpadeo lento). La MAMÁ DE ERASA (40 y tantos, rubia de rulos cortos, bata rosa) abrió la puerta y vio a Facundo (aspecto); "¿Ese quién es?" Erasa la metió adentro. Erasa saluda desde la ventana del segundo piso con la manga; la madre se asoma detrás.
