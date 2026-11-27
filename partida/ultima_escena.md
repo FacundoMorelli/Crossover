@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1617)
-
-ehh bueno me cambio la ropa
-
-## RESPUESTA 1 (T1617)
-
-> ehh bueno me cambio la ropa
-
-> —Eh... bueno. Me cambio la ropa.
-
-Abres la tienda en el borde de la vista y eliges.
-
-[Compra: ropa casual de la Capital del Oeste (camisa, pantalón, zapatillas) · 2 Fragmentos.]
-
-Guardas el sobretodo, la camisa negra y los borceguíes en el inventario. Lo nuevo aparece puesto, sin que se vea el cambio: un segundo estás de negro y al siguiente ya no.
-
-Ahora tienes una camisa blanca de lino, liviana, con las mangas arremangadas hasta los codos, un pantalón de jean oscuro y unas zapatillas blancas, limpias. Con las mangas así se te ven los dragones de los antebrazos, enroscados hasta las muñecas, y el cuello abierto de la camisa deja asomar la punta del que te sube por el pecho. Los aros plateados siguen ahí. Los anillos también. El pelo, mitad blanco y mitad azul oscuro, suelto, desordenado como siempre.
-
-Kase te mira desde el hombro, mira la camisa blanca y le clava una uña, despacio, como para probar si es de verdad. Deja un hilo suelto.
-
-Milk abre la boca. La cierra. Te da una vuelta alrededor, despacio, con el cucharón detrás de la espalda.
-
-—Bueno —dice al fin—. Mucho mejor. Ya no pareces de las motos.
-
-Se detiene delante de ti y te mira los antebrazos.
-
-—Ahora pareces de las motos, pero de las motos que les gustan a las chicas. —Se le escapa una sonrisa que enseguida trata de esconder—. Eso no es malo. A Erasa le van a encantar. Es medio alocada.
-
-—¡Milk, ya me voy a buscar a Goten! —grita Goku desde el aire, ya volando.
-
-—¡Y que se bañe!
-
-Goku desaparece en el cielo.
-
-La puerta corrediza se abre y sale Bulma, con el celular todavía en la mano y la cara roja de emoción. Se detiene en seco al verte.
-
-—¡Ay! —Se tapa la boca—. ¿Y eso? ¿Te cambiaste? ¿Cómo te cambiaste tan rápido? —Te mira de arriba abajo—. Bueno, no importa. ¡Quedó perfecto!
-
-Se acerca con el teléfono en alto.
-
-—Videl me mandó una foto de Erasa, para que sepas a quién esperar. —Te muestra la pantalla: una chica rubia, de pelo corto con rulos, ojos celestes, sonriendo enorme, haciendo el signo de la paz frente a una heladería—. Y Erasa le pidió a Videl una foto tuya. —Bulma sonríe, peligrosa—. ¿Te saco una? ¿Ahora?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1617 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mañana                                       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Ropa: camisa blanca, jean, zapatillas        ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1618)
+## COMANDO 1 (T1618)
 
 bueno esta bien
 
-## RESPUESTA 2 (T1618)
+## RESPUESTA 1 (T1618)
 
 > bueno esta bien
 
@@ -128,11 +68,11 @@ Bulma te mira, con el teléfono en la mano y los ojos brillantes.
 
 ---
 
-## COMANDO 3 (T1619)
+## COMANDO 2 (T1619)
 
 Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
 
-## RESPUESTA 3 (T1619)
+## RESPUESTA 2 (T1619)
 
 > Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
 
@@ -185,4 +125,67 @@ Bulma tiene el pulgar listo sobre la pantalla, esperando, y te mira.
 
 ---
 
-ESTADO AL CIERRE: Erasa confirma y quiere saber el nombre del gato y el de Facundo. Bills: "¿Una cita? ¿Con comida?" Bulma espera para escribir. Facundo puede contestar.
+## COMANDO 3 (T1620)
+
+se llama kase y me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1620)
+
+> se llama kase y me llamo Facundo Morelli
+
+> —Se llama Kase. Y yo me llamo Facundo Morelli.
+
+—"Kase"... "Facundo Morelli". —Bulma lo escribe en voz alta, despacio, letra por letra—. Ay, hasta el nombre suena a extranjero misterioso. Enviado.
+
+—Kase —repite Bills, desde la puerta, con la cucharita en la mano, como si le gustara cómo suena—. Se lo dije yo primero. Que era un buen nombre para un gato que no le tiene miedo a un dios.
+
+—No se lo dijo a nadie, señor Bills —dice Milk.
+
+—Se lo dije a él. En el barco.
+
+El teléfono vibra. Bulma lo lee y se tapa la boca para no gritar.
+
+—"¡¡FACUNDO MORELLI!! ¡Hasta el nombre es lindo! ¡Y el gato se llama Kase! ¡KASE! ¡Ya lo amo!" —Baja con el dedo—. "Voy a llevar algo rico para Kase. ¿Qué le gusta? ¿Pescado? ¿Atún? ¿Le compro un juguetito? Dile a Facundo que yo hago una torta de chocolate buenísima. Bueno, la hace mi mamá. Pero yo la llevo."
+
+Milk resopla.
+
+—Torta de chocolate. —Se arremanga el delantal—. Ya vamos a ver qué es una torta de chocolate cuando yo termine con la cena.
+
+Bills, en la puerta, se queda quieto.
+
+—¿Torta de chocolate?
+
+Las orejas se le paran solas. Baja el vaso de pudín vacío, despacio.
+
+—¿Esa cena tiene torta de chocolate?
+
+—Y la comida de Milk —dice Bulma, sin pensarlo—. Milk cocina increíble.
+
+Bills entra al jardín. Se para delante de ti, con las manos detrás de la espalda y la cola moviéndose, muy digno.
+
+—Muchacho del bolsillo. —Te mira a los ojos, muy serio—. Yo también voy a esa cena.
+
+Bulma deja de escribir. Milk deja caer el cucharón.
+
+Detrás de Bills, en la puerta corrediza, aparece Whis con una taza de té y la sonrisa de siempre.
+
+—Y si va Bills-sama, voy yo —dice—. Para cuidarlo. Claro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1620 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa sabe los nombres; traerá algo para Kase y una torta de chocolate. Bills: "Yo también voy a esa cena." Whis también. Facundo puede contestar.

@@ -44,3 +44,4 @@ ESTADO: bien.
 - T1617 · Aprueba la ropa nueva de Facundo: "Ya no pareces de las motos... Ahora pareces de las motos que les gustan a las chicas. Eso no es malo. A Erasa le van a encantar. Es medio alocada." A Goku: "¡Y que se bañe!"
 - T1618 · Ve la foto: "Parece una portada de revista. El gato hace todo."
 - T1619 · "Pelo natural, dice. Blanco y azul. Bueno, Goku tiene el pelo de punta desde que nació... así que no voy a decir nada." "Esa chica habla más que Bulma." A Bills: "Tiene una cita."
+- T1620 · Picada por la torta de chocolate de Erasa: "Ya vamos a ver qué es una torta de chocolate cuando yo termine con la cena." Se le cae el cucharón cuando Bills se invita.

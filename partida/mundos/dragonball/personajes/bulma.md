@@ -35,3 +35,4 @@ TIENE: libro de Paradis (T1542).
 - T1617 · Ve a Facundo cambiarse de ropa al instante (no pregunta cómo). Le muestra una foto de Erasa (de Videl) y le dice que Erasa pidió una suya: "¿Te saco una? ¿Ahora?"
 - T1618 · Le saca una foto a Facundo con Kase ("El gato es clave"; "¡El gato hace todo!") y se la manda a Videl para Erasa. Lee en voz alta la respuesta de Erasa, muerta de risa. "¿Qué le contesto?"
 - T1619 · Manda a Erasa lo que dijo Facundo (ojos y pelo naturales, el gato va a todos lados). Lee la respuesta. "¿Cómo se llama el gato, y cómo te llamas tú? Nombre completo, que esta chica es de las que buscan todo."
+- T1620 · Escribe a Erasa los nombres ("hasta el nombre suena a extranjero misterioso"). Se queda paralizada cuando Bills se invita a la cena.

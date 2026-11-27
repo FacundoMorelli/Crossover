@@ -82,3 +82,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1612 · Mirando a Kase: "Bills-sama nunca destruyó un planeta por nadie. Solo por comida."
 - T1613 (4 días) · Guarda 104 hamburguesas en la bola del báculo ("Una por día"). Entrena a Goku (le pega en la frente cuando piensa). Kase le gana la silla de playa; trae otra. Recibe llamada de Bulma. Llevará mañana a Goku, Vegeta y Bills a la Tierra. A Facundo: "¿Viene con nosotros, Facundo-san? ¿O se queda un tiempo más aquí?"
 - T1614 · Lleva a todos a la Tierra (jardín de la Corporación Cápsula). Antes: "Bills-sama se va a poner feliz. Aunque no lo va a decir."
+- T1620 · "Y si va Bills-sama, voy yo. Para cuidarlo. Claro."
