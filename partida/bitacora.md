@@ -1512,4 +1512,5 @@ T1510 · DRAGON BALL · Páramo · Semilla del ermitaño a Goku (quedan 24): san
 T1511 · DRAGON BALL · Monte Paoz → Capsule Corp · SIMULACIÓN hasta el sábado: entrenamientos con Goku; Goten aprende la "Bola Giratoria Goten"; cena con Gohan y Videl. Fiesta de Bulma: Bulma pregunta quién es; Vegeta: "¿Qué truco es ese, insecto?"
 T1512 · DRAGON BALL · Crucero de Bulma · Corrección: la fiesta es en el crucero. "Es un secreto." Vegeta furioso; Goku miente fatal ("amigo que viene a comer"). Bulma frena a Vegeta y se presenta.
 T1513 · DRAGON BALL · Crucero · Se presenta a Bulma (lo vio en la tele en el torneo). Goten y Trunks: "¿Puedo mostrársela ahora?" (Sin canon de Super en el repo: el motor sigue con lo que sabe.)
-T1514 · DRAGON BALL · Crucero · Goten muestra la Bola Giratoria: tromba de agua, todos empapados, la torta de Bulma también. Vegeta sospecha. Trunks: "¡Enséñame a mí también!"
+T1514 · DRAGON BALL · Crucero · Goten muestra la Bola Giratoria: tromba de agua [corregido en T1515: nadie se mojó]. Vegeta sospecha. Trunks: "¡Enséñame a mí también!"
+T1515 · DRAGON BALL · Crucero · CORRECCIÓN: Facundo cubrió el barco con una línea invisible de Sakaime; el agua resbaló sobre nada y cayó al mar. Todos lo vieron; Vegeta sabe que no fue Goten.

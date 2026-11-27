@@ -98,3 +98,4 @@
 - Bulma · T1513 · Por Facundo: su nombre, Facundo Morelli. Por la TV (T184): el del torneo con Buu y el gato.
 - Trunks · T1513 · Por Goten: Facundo le enseñó una técnica. Siente su ki muy bajo.
 - Todos los invitados del crucero · T1514 · Ven la Bola Giratoria de Goten (técnica nueva). Trunks deduce que se la enseñó Facundo (por Goten); Vegeta lo sospecha.
+- Todos los del crucero · T1515 · Ven el agua de la tromba resbalar sobre un techo invisible encima del barco y caer al mar (Sakaime invisible). No ven a Facundo trazar la línea. Bulma cree que es parte del truco de Goten. Vegeta, Piccolo, Gohan y Goku sospechan (Goku sabe) que fue Facundo.

@@ -26,4 +26,4 @@ DIÁLOGOS CLAVE:
 - T196: "¡Papá! ¿Qué pasó acá? ¡Parece que cayó un meteorito!"
 - T180: "¡¿Mató a Babidi de un golpe?!"
 - T1511 · Cena en el Monte Paoz con Videl: anteojos, camisa abotonada, sonrisa tímida; le da la mano largo rato a Facundo, emocionado.
-- T1514 · Se saca los anteojos mojados y mira el agua.
+- T1514/1515 · Anteojos secos; mira el cielo con el ceño fruncido tras ver el agua resbalar sobre nada.

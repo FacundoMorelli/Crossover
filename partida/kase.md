@@ -117,3 +117,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1505 · Atrapa sin moverse los pedazos de pescado de Goten. Duerme en el medio de la cama de la casita. Camina en línea recta por los surcos recién hechos.
 - T1508 · Le olfatea la cara a Goku desmayado y le apoya una pata en el pecho para comprobar que respira.
 - T1514 · Mojado por la tromba de Goten en la baranda del crucero; indignado.
+- T1515 · (Corregido) No se moja: Facundo cubrió el barco.

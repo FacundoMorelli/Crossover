@@ -36,4 +36,4 @@ ESTADO: bien.
 - T1505 · Termina las tablas a las apuradas (la mitad mal); le tira pescado a Kase bajo la mesa.
 - T1511 · Aprende de Facundo, en el claro del arroyo, una bola de ki que gira en todas direcciones: día 1 le explota en la cara; día 2, del tamaño de una canica, parte una piedra; día 3, del tamaño de una naranja, agujerea un árbol. La llama "¡La Bola Giratoria Goten!" ("me la inventaste tú, pero el nombre es mío"). Secreto hasta el cumpleaños (se lo cuenta a Kase ~40 veces por día). En la fiesta: camisa blanca con mancha de mermelada; Trunks corre hacia él.
 - T1513 · Con Trunks, camisa manchada de chocolate: "¡Trunks no me cree! ¡Le dije que tengo una técnica nueva y dice que es mentira!" "¡Es mi amigo! ¡Y me enseñó! ¿Puedo mostrársela ahora?"
-- T1514 · Muestra a Trunks la Bola Giratoria (tamaño naranja) en la baranda y la tira al mar: tromba de 30 m; empapa la cubierta, a los invitados y la torta de cinco pisos. "¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!"
+- T1514 · Muestra a Trunks la Bola Giratoria (tamaño naranja) en la baranda y la tira al mar: tromba de 30 m (no moja a nadie: Facundo la cubrió, T1515). "¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!"

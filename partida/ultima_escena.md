@@ -3,94 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1512)
-
-es un secreto( el cumple de bulma no era en el crucero?)
-
-## RESPUESTA 1 (T1512)
-
-> es un secreto( el cumple de bulma no era en el crucero?)
-
-(Corrección aplicada: la fiesta es en el crucero de Bulma.)
-
-La fiesta no es en el jardín. Nunca lo fue.
-
-Es en el mar. Un crucero enorme, blanco, de tres cubiertas, alquilado entero por Capsule Corporation, que navega despacio frente a la costa de la Ciudad del Oeste bajo un sol de mediodía. Las mesas, los globos, las guirnaldas y el letrero de FELIZ CUMPLEAÑOS, BULMA están en la cubierta principal, al lado de una piscina. La comida, las montañas de comida, en la cubierta de arriba. Buu se está comiendo un buffet entero de postres junto a la baranda. Piccolo está solo en la proa, de brazos cruzados, mirando el horizonte. Kase, en tu hombro, mira el agua con los ojos entrecerrados, sin entusiasmo.
-
-Y Vegeta sigue parado delante de ti, con la camisa rosada y el ceño fruncido.
-
-> —Es un secreto.
-
-Vegeta se queda mirándote.
-
-Un segundo. Dos. Una vena le empieza a latir en la sien.
-
-—¿Un secreto? —repite, despacio, con los dientes apretados—. ¿Un secreto? ¡¿Me estás tomando el pelo, insecto?!
-
-—¡Vegeta! —Bulma le da un codazo—. ¡Es mi cumpleaños! ¡No vas a pelear con los invitados en mi cumpleaños!
-
-—¡No es un invitado! ¡Es un...!
-
-Se calla. Busca la palabra. No la encuentra.
-
-Goku se mete entre los dos, con la corbata torcida y una pierna de pollo en la mano que sacó de algún lado en los últimos cinco segundos.
-
-—¡Tranquilo, Vegeta! —Se ríe—. Es un amigo. Viene a comer. Y tiene un gato.
-
-Lo dice muy serio, como quien repite una lección.
-
-Vegeta mira a Goku. Mira la pierna de pollo. Te mira a ti.
-
-—Kakarotto —dice, muy bajo—. ¿Tú sabes algo?
-
-—¿Yo? —Goku muerde el pollo—. No. Nada. ¿Qué voy a saber yo?
-
-Mastica. Mira para otro lado. Silba.
-
-Es el peor mentiroso que viste en tu vida.
-
-Vegeta lo sabe. Se le hincha la vena de la sien hasta que parece que va a reventar. Abre la boca.
-
-Bulma le pone la copa delante de la cara.
-
-—Vegeta. Cumpleaños. Mío. —Sonríe con todos los dientes—. Hoy no se pelea nadie. Si quieres pelear, peleas mañana, en tu cámara de gravedad, con quien quieras. Hoy bailas conmigo.
-
-Vegeta se pone colorado. De rabia, o de otra cosa.
-
-—Tch.
-
-Se da vuelta y se va hacia la baranda, a grandes pasos, con los puños cerrados. Antes de llegar, te mira por encima del hombro, una sola vez, con los ojos entrecerrados.
-
-—Esto no se terminó, insecto.
-
-Bulma suspira. Se da vuelta hacia ti, se acomoda el pelo y te sonríe, como si no hubiera pasado nada.
-
-—Perdónalo. Es así con todo el mundo. —Te tiende la mano—. Bulma. La dueña de todo esto. Y tú eres el famoso "amigo que viene a comer". —Levanta una ceja, mirando a Goku, que se aleja silbando hacia la comida—. Que, por lo visto, es un secreto.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1512 · DRAGON BALL · SÁBADO · 12:03    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, mirando el agua          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
-║ hoy)                                         ║
-╚══════════════════════════════════════════════╝
-```
-
-Tenías razón: en el anime de Super la fiesta es en un crucero (en la película La batalla de los dioses era en Capsule Corp.). Ya lo corregí en la escena y en los archivos. El canon que hay en el repo de Dragon Ball termina con Buu, así que desde aquí sigo con lo que sé de Super.
-
----
-
-## COMANDO 2 (T1513)
+## COMANDO 1 (T1513)
 
 mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
 
-## RESPUESTA 2 (T1513)
+## RESPUESTA 1 (T1513)
 
 > mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
 
@@ -141,11 +58,11 @@ Revisé las cuatro ramas del repo y en canon/dragonball/ solo hay hasta el final
 
 ---
 
-## COMANDO 3 (T1514)
+## COMANDO 2 (T1514)
 
 esta bien goten
 
-## RESPUESTA 3 (T1514)
+## RESPUESTA 2 (T1514)
 
 > esta bien goten
 
@@ -214,4 +131,65 @@ Trunks se da vuelta hacia ti, chorreando agua, con los ojos enormes. Ya no tiene
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:10, crucero. Goten mostró la Bola Giratoria (tromba, torta mojada). Vegeta sospecha de Facundo. Trunks: "¡Enséñame a mí también! ¡Mejor que a él!" Facundo puede responder.
+## COMANDO 3 (T1515)
+
+hace que haya cubierto a todos para que no se moje nada
+
+## RESPUESTA 3 (T1515)
+
+> hace que haya cubierto a todos para que no se moje nada
+
+(Corrección aplicada: no se mojó nada.)
+
+Cuando la columna de agua llega a lo más alto, ya trazaste la línea.
+
+Una sola, con un movimiento de la mano a la altura de la cadera, que nadie ve porque todos miran el mar. Una frontera invisible de Sakaime que se abre sobre el crucero entero como un techo de vidrio, de proa a popa, de baranda a baranda.
+
+La tromba se deshace allá arriba. La lluvia salada cae sobre la cubierta.
+
+Y no llega.
+
+Se queda en el aire, a cinco metros de las cabezas de todos, resbalando sobre algo que no se ve. Miles de gotas que corren hacia los costados por una curva perfecta, como agua sobre una cúpula, y caen al mar por los dos lados del barco en dos cortinas brillantes. La torta de cinco pisos de Bulma queda seca debajo, intacta, con las velas sin encender.
+
+En la cubierta se hace un silencio total.
+
+Todos miran para arriba. Ven el agua correr por el aire sobre sus cabezas, encima de nada. Mr. Satán abre la boca y se le cae el micrófono. Buu aplaude con una cuchara en cada mano. Krilin deja de comer.
+
+Disuelves la línea. El último resto de agua cae al mar, lejos.
+
+Goten, seco, salta con los brazos en alto, riéndose como loco.
+
+—¡¿VISTE?! ¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!
+
+Gohan se acomoda los anteojos, secos, y mira el cielo con el ceño fruncido. Piccolo, en la proa, abre los dos ojos. Goku deja de reírse y te mira, con un muslo de pollo a medio camino de la boca, y después mira para otro lado y silba, muy fuerte.
+
+—¡Ay, qué lindo! —dice Bulma, aplaudiendo—. ¿Eso también es parte del truco, Goten?
+
+Goten no sabe qué contestar. Se encoge de hombros.
+
+Vegeta, en la baranda de enfrente, seco de pies a cabeza, no aplaude. Mira el cielo, donde ya no hay nada. Mira a Goten. Te mira a ti, largo, con los ojos entrecerrados y la mandíbula apretada. Sabe que eso no lo hizo un chico de diez años.
+
+Kase, en la baranda, seco, se lame una pata.
+
+Trunks se da vuelta hacia ti, con los ojos enormes. Ya no tiene cara de chico listo. Tiene cara de chico que acaba de ver algo que quiere.
+
+—Tú le enseñaste eso. —No es una pregunta—. ¡Enséñame a mí también! ¡Ahora! ¡Mejor que a él!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1515 · DRAGON BALL · SÁBADO · 12:10    ║
+║ Crucero de Bulma · baranda de la cubierta    ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, seco                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
+║ hoy)                                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:10, crucero. Corrección: nadie se mojó (techo invisible de Sakaime). Vegeta sabe que no fue Goten. Trunks: "¡Enséñame a mí también! ¡Mejor que a él!" Facundo puede responder.

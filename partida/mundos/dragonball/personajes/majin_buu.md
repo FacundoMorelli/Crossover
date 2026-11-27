@@ -62,3 +62,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 ESTADO: aceptó el trato: no matar a cambio de dulces diarios. Contento. Quiere conocer 'al de los dulces'.
 RELACIÓN CON FACUNDO: lo quiere mucho; lo considera su amigo, junto con Mr. Satán. Lo curó (T227).
+- T1515 · Aplaude con una cuchara en cada mano al ver el agua correr sobre nada.
