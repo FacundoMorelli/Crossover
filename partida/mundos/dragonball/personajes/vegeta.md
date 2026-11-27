@@ -105,3 +105,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1532 · Al pasar, en voz baja: "Mañana. A las seis. En mi cámara de gravedad. Viajero."
 - T1533 · Baila con Bulma, rojo, mirando el piso.
 - T1536 · (De noche) entrena en la cámara de gravedad de un hangar de Capsule Corp.
+- T1538 · Domingo 5:30 · Desayuna una montaña de comida en silencio, ropa de entrenamiento azul y guantes blancos. Deja de masticar medio segundo al ver a Facundo. A las 5:38: "Veintidós minutos." Se va al hangar.

@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1535)
-
-si, voy a intentar estar
-
-## RESPUESTA 1 (T1535)
-
-> si, voy a intentar estar
-
-> —Sí. Voy a intentar estar.
-
-Videl asiente. No dice nada más. Pero aprieta la mano de Gohan, y Gohan sonríe de oreja a oreja, como un chico.
-
-El crucero atraca. Bajan la planchada al muelle, y la fiesta se desarma de a poco, como se desarman las fiestas buenas: despacio, con abrazos en la escalera, con gente que se despide tres veces y después se queda hablando igual. Krilin carga a Marron dormida. La 18 carga dos bolsas de comida que nadie le dio. El maestro Roshi se lleva una botella. Mr. Satán se lleva a Buu, que se lleva la mitad de las sobras en los brazos, con Bee trotando detrás.
-
-Milk despierta a Goku de la reposera tirándole de la oreja. Goku se levanta, se despereza, mira alrededor y pregunta si ya llegó el gato violeta. Milk no le contesta. Goten se le duerme encima en el muelle.
-
-Kase se te sube al hombro sin que se lo pidas, todavía medio dormido.
-
-Bulma está al pie de la planchada, descalza, con los zapatos en la mano y el vestido rojo arrugado, despidiendo a todo el mundo uno por uno. Cuando pasas a su lado, te frena con una mano en el brazo.
-
-—Oye, viajero. —Mira hacia el muelle, hacia donde Vegeta está parado de brazos cruzados, esperando, con la cara de siempre—. Me contaron que mañana a las seis tienes una cita con mi marido en la cámara de gravedad.
-
-Se ríe por lo bajo.
-
-—Monte Paoz queda a dos horas volando de Capsule Corp. Y Vegeta no perdona ni un minuto de atraso. —Te da una palmadita en el brazo—. Quédate a dormir en casa esta noche. Hay como cuarenta cuartos vacíos. Y una cocina que da miedo. —Mira a Kase—. Y seguro que algo para el gato.
-
-Después baja la voz, con una sonrisa traviesa.
-
-—Además, si te quedas, mañana en el desayuno a lo mejor me cuentas algo. Aunque sea un secreto chiquito.
-
-Detrás, en el muelle, Milk se da vuelta y te mira. Mira a Bulma. Frunce el ceño, como quien defiende su territorio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1535 · DRAGON BALL · SÁBADO · 19:30    ║
-║ Puerto de la Ciudad del Oeste · muelle       ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, medio dormido            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Mañana 6:00 entrenar con Vegeta    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1536)
+## COMANDO 1 (T1536)
 
 esta bien
 
-## RESPUESTA 2 (T1536)
+## RESPUESTA 1 (T1536)
 
 > esta bien
 
@@ -110,11 +62,11 @@ Kase baja de tu hombro, va derecho al plato de pescado, lo olfatea y empieza a c
 
 ---
 
-## COMANDO 3 (T1537)
+## COMANDO 2 (T1537)
 
 acaricio a kase y le doy un beso en la cabeza, te amo hijo
 
-## RESPUESTA 3 (T1537)
+## RESPUESTA 2 (T1537)
 
 > acaricio a kase y le doy un beso en la cabeza, te amo hijo
 
@@ -159,4 +111,59 @@ Kase sigue ronroneando.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 21:35, cuarto en Capsule Corp. Kase ronronea sobre las piernas de Facundo. Mañana 5:30 desayuno, 6:00 Vegeta. Facundo puede actuar.
+## COMANDO 3 (T1538)
+
+me voy a dormir y me despierto para ir a desayunar
+
+## RESPUESTA 3 (T1538)
+
+> me voy a dormir y me despierto para ir a desayunar
+
+Te acuestas en la cama redonda, con Kase todavía encima, que se reacomoda contra tu costado sin dejar de ronronear. El zumbido de la cámara de gravedad sigue afuera un rato largo. Después se apaga. Te duermes.
+
+Te despiertas a las cinco y diez, antes de que suene nada. Afuera todavía es de noche, con una franja gris en el horizonte, sobre los edificios de la Ciudad del Oeste. Kase está sentado en la ventana, mirando la calle vacía. Te mira cuando te levantas, salta de la ventana y te sube al hombro.
+
+Bajas.
+
+La cocina de Capsule Corp es enorme, blanca, llena de luces, con una mesa larga en el medio y un robot redondo con delantal y gorro de chef que se mueve de un lado al otro sobre una rueda, haciendo diez cosas a la vez. Huele a café, a pan tostado y a huevos fritos. Muchos huevos fritos.
+
+Vegeta ya está sentado.
+
+En la punta de la mesa, con ropa de entrenamiento azul y guantes blancos, delante de una montaña de comida: una pila de panqueques, una fuente de arroz, tres pescados, una docena de huevos, carne. Come rápido, en silencio, sin levantar la vista, con el ceño fruncido de siempre. No te mira cuando entras. Pero deja de masticar medio segundo.
+
+Bulma está del otro lado de la mesa, con una bata rosada, el pelo revuelto, una taza de café enorme entre las dos manos y cara de no haber dormido nada. Te ve y levanta la taza.
+
+—Buenos días, viajero. —Bosteza—. Llegaste antes que yo. Eso es nuevo en esta casa.
+
+El robot chef te pone delante un plato con huevos, tostadas, salchichas y fruta, sin que lo pidas. Después pone en el piso, al lado de tu silla, un plato chiquito con pescado, y Kase baja del hombro y se pone a comer sin ceremonias.
+
+Trunks no está. Bulma dice que no se levanta antes de las ocho ni aunque explote el mundo, y que ayer casi explota y tampoco se levantó.
+
+Vegeta termina la última pila de panqueques. Se limpia la boca con una servilleta. Mira el reloj de la pared. Las cinco y treinta y ocho.
+
+—Veintidós minutos —dice, sin mirarte.
+
+Se levanta y se va por la puerta del jardín, hacia el hangar.
+
+Bulma lo mira irse. Después apoya los codos en la mesa, la barbilla en las manos, y te mira a ti con una sonrisa traviesa, por encima de la taza de café.
+
+—Bueno. —Baja la voz—. Tenemos veintidós minutos, y Vegeta no está. —Levanta una ceja—. Ayer dijiste que a lo mejor me contabas un secreto chiquito.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1538 · DRAGON BALL · DOMINGO · 05:38   ║
+║ Capsule Corporation · cocina                 ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el piso, comiendo pescado           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: 6:00 entrenar con Vegeta · cena    ║
+║ en casa de Milk                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 05:38, cocina de Capsule Corp. Vegeta se fue al hangar (entrenamiento a las 6). Bulma pide el "secreto chiquito". Facundo puede responder.
