@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1589)
-
-le doy comida nueva a bills rico
-
-## RESPUESTA 1 (T1589)
-
-> le doy comida nueva a bills rico
-
-Metes la mano en lo que queda del bolsillo del sobretodo.
-
-El Sistema abre la tienda en el borde de tu vista, fría, sin ruido. Eliges. Pagas.
-
-[Compra: hamburguesa doble con queso y papas fritas · 1 Fragmento.]
-
-[Compra: malteada de chocolate grande · 1 Fragmento.]
-
-Del bolsillo sale una bandeja.
-
-Bills se queda mirando cómo sale. Es demasiado grande para ese bolsillo, y él lo sabe, y ya no le importa.
-
-Encima de la bandeja hay una hamburguesa alta como un puño, de dos pisos, con la carne todavía chisporroteando, el queso derretido chorreando por los bordes y el pan brillante y tostado. Al lado, un montón de papas fritas doradas, crujientes, con sal gruesa. Y un vaso enorme, helado, transpirado, con una malteada de chocolate espesa y un sorbete clavado en el medio.
-
-El olor llega antes que la bandeja. Carne a la parrilla, queso, pan tostado, papas recién fritas.
-
-A Bills le tiembla la nariz. Las orejas se le van solas hacia adelante.
-
-Agarra la bandeja con las dos manos sin decir nada. Se sienta en el suelo de la explanada, ahí mismo, con las piernas cruzadas, el pantalón roto y las costillas doloridas. Mira la hamburguesa un segundo, de costado, como un gato que estudia algo nuevo antes de tocarlo.
-
-Le da un mordisco.
-
-Se queda quieto.
-
-Mastica despacio, con los ojos muy abiertos. Una gota de queso le cae por la barbilla y no la limpia. La cola, que estaba quieta en el suelo, empieza a moverse sola, de un lado al otro, cada vez más rápido.
-
-Agarra una papa. La muerde. Crujido. Agarra tres más.
-
-Prueba el sorbete de la malteada, con desconfianza. Y se le cierran los ojos.
-
-—Oh —dice, con la boca llena—. Oh, no. Oh, no, no, no.
-
-Afuera, Goku tiene la cara pegada a la barrera y la boca abierta. Le cae saliva por la comisura.
-
-—¡Eso es una hamburguesa! —Se da vuelta hacia Vegeta—. ¡Vegeta, es una hamburguesa doble!
-
-—Ya veo lo que es, Kakaroto.
-
-Whis se acerca a la barrera con las manos juntas, la cabeza inclinada, y una sonrisa enorme y educadísima.
-
-—Bills-sama. Por favor. Solo un bocado. Para probar.
-
-—No. —Bills abraza la bandeja contra el pecho, sin abrir los ojos, y sigue sorbiendo la malteada—. Pídele a él.
-
-Kase se baja del apoyabrazos, camina hasta la barrera y se sienta ahí, del lado de afuera, mirando las papas fritas.
-
-Bills termina la hamburguesa. Termina las papas. Sorbe la malteada hasta el fondo, con ese ruido de sorbete en el vaso vacío, y sigue sorbiendo un rato más aunque ya no queda nada. Después se queda mirando el vaso vacío, triste.
-
-Lo baja. Te mira. Tiene queso en la barbilla y una mancha de chocolate en el labio partido.
-
-—Esto. —Señala la bandeja vacía con un dedo—. ¿Cómo se llama esto?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1589 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera rehecha) · tarde          ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.237 · 0 zeni                  ║
-║ Energía 58% · Ojos: bien · mejilla abierta · ║
-║ corte fino en las costillas                  ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: junto a la barrera, mirando las papas  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (en pausa: comida) ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1590)
+## COMANDO 1 (T1590)
 
 hamburguesa doble con queso y malteada de chocolate
 
-## RESPUESTA 2 (T1590)
+## RESPUESTA 1 (T1590)
 
 > hamburguesa doble con queso y malteada de chocolate
 
@@ -147,11 +70,11 @@ Kase, sentado junto a la barrera, te mira a ti. Después a las papas que no est�
 
 ---
 
-## COMANDO 3 (T1591)
+## COMANDO 2 (T1591)
 
 dejo 20 bandejas que salgan de la nada sin seguir mintiendo con el abrigo
 
-## RESPUESTA 3 (T1591)
+## RESPUESTA 2 (T1591)
 
 > dejo 20 bandejas que salgan de la nada sin seguir mintiendo con el abrigo
 
@@ -226,4 +149,71 @@ Whis se limpia los labios con una servilleta y te mira, con la sonrisa de siempr
 
 ---
 
-ESTADO AL CIERRE: Cena de hamburguesas en la explanada. Bills dormido sentado ("Mañana seguimos... esto de desayuno"). Whis ofrece cuarto en la pirámide o llevarlo a la Tierra. Facundo puede decidir.
+## COMANDO 3 (T1592)
+
+me quedo aqui, simula hasta mañana con bills
+
+## RESPUESTA 3 (T1592)
+
+> me quedo aqui, simula hasta mañana con bills
+
+Te quedas.
+
+Whis te lleva a la pirámide por un pasillo largo, de piedra clara, con ventanas redondas por las que se ve el cielo del planeta, que se va poniendo violeta. Te deja frente a una puerta alta.
+
+—Su cuarto, Facundo-san. —Con un golpecito del báculo en tu hombro, el sobretodo se rehace solo: vuelve la manga izquierda, vuelve el borde de abajo, los cordones del borceguí se atan solos. Hasta la camisa se cierra—. La ropa, por lo menos. Las heridas son suyas. Buenas noches.
+
+Se va, con las manos detrás de la espalda.
+
+Sueltas el Ultra Instinto en el cuarto. El pelo plateado vuelve a caer, y se vuelve blanco y azul oscuro. Los ojos te vuelven a ser uno rojo y uno azul.
+
+El cuarto es enorme y casi vacío: una cama baja, redonda, con sábanas de un tejido que no conoces, una ventana sin vidrio hacia el jardín y un silencio total. Kase recorre las cuatro esquinas, olfatea la cama, la aprueba y se tira en el medio exacto, ocupando más lugar del que le corresponde.
+
+Duermes.
+
+En algún momento de la noche te despierta un ruido grave, lejano, como un motor viejo: es Bills roncando en lo alto de la pirámide. Hace temblar apenas el agua de una jarra que hay en una mesa. Después se calla, y no se escucha nada más hasta la mañana.
+
+Por la ventana, a lo lejos, ves un par de veces el brillo azul de Goku entrenando solo, bien entrada la noche, en una de las rocas flotantes. Vegeta no aparece. Pero en algún momento, más tarde, el brillo azul se vuelve dos.
+
+Amanece.
+
+La luz del planeta de Bills entra por la ventana, verde y dorada. Kase te está mirando la cara, sentado sobre tu pecho, a un palmo, con los ojos de dos colores muy abiertos, porque ya es de día y él ya decidió que tú también tienes que estar despierto.
+
+El corte de la mejilla está cerrado, con una costra fina. El de las costillas también. Te duelen un poco al moverte, nada más. Estás descansado. La energía, entera.
+
+Bajas a la explanada.
+
+Whis ya la arregló durante la noche: no quedan pozos ni surcos, ni bandejas vacías. Las venas de luz brillan parejo en el suelo. Goku está tirado de espaldas en el pasto del borde, dormido con la boca abierta, todavía con el gi de entrenamiento. Vegeta está sentado en su roca de siempre, con los brazos cruzados, despierto, mirando la pirámide. Te ve llegar y mira para otro lado.
+
+Whis está en su silla de playa con una taza de té. Te saluda con la mano.
+
+—Buenos días, Facundo-san. Durmió bien, espero.
+
+Arriba, se abre la puerta de lo alto de la pirámide.
+
+Bills no baja caminando. Aparece directamente delante de ti, a un palmo, con los ojos entrecerrados de sueño, las orejas torcidas, la cola despeinada y la ropa de dormir puesta otra vez. Te mira la cara. Después las manos vacías.
+
+—Desayuno —dice. Nada más.
+
+Bosteza, enorme.
+
+—Dijiste que había desayuno. Hamburguesa doble con queso. —Levanta un dedo—. Primero eso. Después peleamos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1592 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada · mañana del día siguiente         ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.197 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien · cortes cerrados  ║
+║ (costras en mejilla y costillas)             ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: a tus pies                             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Desayuno de Bills; después, pelea  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Mañana siguiente en la explanada. Bills, recién despierto, a un palmo: "Desayuno. Hamburguesa doble con queso. Primero eso. Después peleamos." Facundo puede actuar.

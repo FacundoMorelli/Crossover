@@ -1,8 +1,8 @@
 {
-  "turno": 1591,
+  "turno": 1592,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778 (hora Tierra), atardecer en el planeta de Bills",
+  "hora": "año 778, miércoles (hora Tierra), mañana en el planeta de Bills",
   "edad": 18,
   "nivel": 32,
   "exp": 401130,
@@ -86,7 +86,7 @@
     "energia": 4000,
     "control": 3999
   },
-  "energia_actual_pct": 58,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2724,5 +2724,5 @@
       "estado": "pareja"
     }
   },
-  "dragonball_nota_T1582": "Sobretodo comido hasta las rodillas, borceguí sin cordones, un mechón más corto (por el Hakai). T1586: sin manga izquierda (hasta el codo), camisa abierta, corte fino en las costillas."
+  "dragonball_nota_T1582": "T1591: Whis rehízo la ropa con el báculo (sobretodo, cordones, camisa). T1592: cortes de mejilla y costillas cerrados (costras)."
 }
