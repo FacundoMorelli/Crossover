@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1651)
-
-le agarro una mano y voy despacio y me meto por otras calles
-
-## RESPUESTA 1 (T1651)
-
-> le agarro una mano y voy despacio y me meto por otras calles
-
-Sacas la mano derecha del volante y buscas la suya.
-
-Está perdida dentro de la manga del sobretodo. La encuentras igual, a través de la tela, y Erasa se queda inmóvil. Después, muy despacio, la mano asoma por el borde de la manga, chiquita y todavía un poco fría, y se mete en la tuya. Los dedos se le acomodan entre los tuyos solos.
-
-No dice nada. Mira para adelante.
-
-Aflojas el acelerador. El aerodeslizador baja la velocidad hasta casi flotar, y en vez de cruzar el parque derecho, giras a la izquierda y lo bordeas.
-
-Las calles de este lado son más angostas y tranquilas. Casas bajas con jardincitos, faroles amarillos, un gato callejero que los mira pasar desde un muro y que Kase, desde atrás, mira de vuelta con desprecio. Una panadería cerrada con olor a pan todavía en la vereda. Un viejo paseando a un perro salchicha con un suéter a rayas. Una plaza chica con una fuente apagada y dos hamacas.
-
-Erasa se da cuenta en la segunda esquina. Mira el cartel de la calle. Abre la boca para decir algo y la cierra.
-
-En la tercera, sonríe. No te mira; mira las casas pasar, con la cara medio escondida en el cuello del sobretodo, pero sonríe, y aprieta un poco la mano.
-
-En la cuarta, apoya la cabeza en tu hombro. Los rulos te hacen cosquillas en el cuello. Huele a vainilla y a chocolate de la torta.
-
-Pasan así un rato largo, dando vueltas sin rumbo, con la ciudad zumbando lejos y el parque a un costado.
-
-—Esta no es la calle de mi casa —dice al final, bajito, contra tu hombro.
-
-Una pausa.
-
-—Ya sé que sabes. —Se ríe sin levantar la cabeza—. No digas nada. No te estoy retando.
-
-Se queda callada otro poco. Con el pulgar, te acaricia el dorso de la mano, despacio, sin darse cuenta.
-
-—¿Cuándo te vas? —pregunta. No levanta la cabeza—. De la ciudad, digo. A tus islas. O adonde sea que vas después.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1651 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calles al costado del parque central · 23:12 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1652)
+## COMANDO 1 (T1652)
 
 no lo se, creo que en unos dias, tengo nuevos lugares que conocer
 
-## RESPUESTA 2 (T1652)
+## RESPUESTA 1 (T1652)
 
 > no lo se, creo que en unos dias, tengo nuevos lugares que conocer
 
@@ -101,11 +49,11 @@ Te aprieta la mano.
 
 ---
 
-## COMANDO 3 (T1653)
+## COMANDO 2 (T1653)
 
 nada, bueno algo si... salir contigo
 
-## RESPUESTA 3 (T1653)
+## RESPUESTA 2 (T1653)
 
 > nada, bueno algo si... salir contigo
 
@@ -149,4 +97,50 @@ Cuenta con los dedos de la mano libre, que asoma apenas de la manga.
 
 ---
 
-ESTADO AL CIERRE: 23:22, aerodeslizador, calles del parque central, de la mano. Facundo la invitó a salir mañana (domingo). Erasa acepta: "Eres imposible." Elige ella: panqueques del barrio, mirador de la torre de la estación, botes-cisne del lago del parque. Pregunta: "¿Me pasas a buscar? ¿A qué hora?"
+## COMANDO 3 (T1654)
+
+a la hora que quieras y te paso a buscar
+
+## RESPUESTA 3 (T1654)
+
+> a la hora que quieras y te paso a buscar
+
+> —A la hora que quieras, y te paso a buscar.
+
+—A la hora que quiera. —Erasa lo repite como si lo probara, y le gusta cómo suena—. Bueno. Entonces... a las once. No, a las diez. No, a las diez me voy a estar arreglando todavía. —Se tapa la cara con la manga—. A las once. A las once en punto. Y si a las once no estoy lista, esperas cinco minutos y no dices nada.
+
+Se ríe. Después mira el reloj del tablero, y la risa se le apaga un poco.
+
+—Ya son casi las once y media. Mi mamá me va a matar. —Suspira, larguísimo—. Ahora sí. Llévame a casa. Por el camino corto.
+
+Cruzas el parque.
+
+Del otro lado, en una calle de casas blancas con techos rojos, está la Calle de los Tilos. En el número catorce hay una casa de dos pisos con un jardincito, un rosal medio despeinado, una bicicleta rosa apoyada contra la reja y, en la vereda, un buzón amarillo con forma de pato, con el pico abierto para las cartas. Tiene un ojo despintado.
+
+La luz del living está encendida. La cortina se mueve apenas, una vez, y queda quieta.
+
+Bajas el aerodeslizador hasta la vereda. Erasa no se mueve.
+
+Se queda sentada, con la torta envuelta en las rodillas, el sobretodo hasta las orejas y tu mano todavía en la suya. Mira la casa. Mira el buzón con forma de pato. Te mira a ti.
+
+—Bueno —dice, muy bajito—. Llegamos.
+
+No suelta tu mano. Con la otra, la que asoma de la manga, empieza a desabrocharse el primer botón del sobretodo, despacio, sin ganas, como si no quisiera terminar nunca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1654 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calle de los Tilos 14, casa de Erasa · 23:31 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Despedir a Erasa                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 23:31, frente a la casa de Erasa (Calle de los Tilos 14: dos pisos, rosal, bicicleta rosa, buzón amarillo con forma de pato, ojo despintado). Luz del living encendida; la cortina se movió una vez (la mamá). Cita mañana a las 11 en punto (si no está lista, él espera cinco minutos sin decir nada). Erasa sigue sentada, de la mano: "Bueno. Llegamos." Empieza a desabrocharse el primer botón del sobretodo, muy despacio.

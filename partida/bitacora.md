@@ -1652,3 +1652,4 @@ T1650 · DRAGON BALL · Capital del Oeste · Arranca hacia la casa de Erasa. Vue
 T1651 · DRAGON BALL · Capital del Oeste · Le toma la mano y da vueltas despacio por otras calles. Erasa, cabeza en su hombro: "Ya sé que sabes. No digas nada." "¿Cuándo te vas?"
 T1652 · DRAGON BALL · Capital del Oeste · "Creo que en unos días. Tengo nuevos lugares que conocer." Erasa: "Entonces no hay que perder ninguno." "¿Tú tienes algo que hacer mañana?"
 T1653 · DRAGON BALL · Capital del Oeste · "Salir contigo." Erasa: "Eres imposible." Acepta: panqueques, mirador, botes-cisne. "¿Me pasas a buscar? ¿A qué hora?"
+T1654 · DRAGON BALL · Calle de los Tilos 14 · Cita mañana a las 11. Llegan a la casa de Erasa (buzón de pato). "Bueno. Llegamos." Empieza a devolverle el sobretodo, despacio.
