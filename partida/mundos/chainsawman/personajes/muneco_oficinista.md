@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: lo vio (aspecto). Lo que ve un muñeco, puede llegarle a Santa Claus.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: activo.
+- T1682 · Santa habla por él. Suelta el maletín (papeles mojados) y corre hacia Facundo.

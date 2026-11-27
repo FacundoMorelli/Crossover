@@ -10,3 +10,4 @@ Quién sabe qué de Facundo en este mundo.
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 (nadie)
 - T1681 · Un MUÑECO de Santa Claus (oficinista) vio a Facundo y a Kase en el callejón (aspecto). Posible fuente para Santa Claus.
+- T1682 · SANTA CLAUS sabe (por su muñeco, visto) el aspecto de Facundo y que tiene un gato. Lo considera un civil.

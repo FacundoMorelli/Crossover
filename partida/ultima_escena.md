@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1679)
-
-que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
-
-## RESPUESTA 1 (T1679)
-
-> que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
-
-> —Que hace años que no dormías así. Y que lo de la isla y la montaña y el gato sigue en pie.
-
-Te ríes.
-
-Erasa baja las manos de la cara.
-
-La primera parte le llega antes que la risa. Se le ve en los ojos, que se quedan quietos un segundo, muy abiertos, mirando a ningún lado. Se toca la mejilla con la marca del botón, despacio, sin darse cuenta.
-
-—Hace años que no dormía así —repite, bajito.
-
-Mira el sillón. La manta a cuadros toda revuelta. La manta de lana de su madre. Tu camisa, arrugada justo donde estuvo su cara toda la noche.
-
-—Es verdad —dice, casi para ella—. No me desperté. Ni una vez. Yo siempre me despierto. Siempre. A las tres me levanto a tomar agua, a las cinco prendo la luz... —Te mira—. No me acuerdo de nada. Me acuerdo del barco. Y de que me dijiste... no sé. Algo. Y después nada. Hasta el sol.
-
-Se queda callada un segundo. Después le llega la segunda parte, y se le escapa una carcajada que trata de tapar con la mano y no puede.
-
-—¡La isla y la montaña y el gato! —Se dobla de risa en el sillón—. ¡Te volvió a amenazar! ¡A las seis de la mañana! ¡Con café en la mano!
-
-Se ríe tanto que se le caen lágrimas. Kase se levanta de la alfombra, ofendido por el escándalo, y se va a sentar al sol en el otro sillón, de espaldas.
-
-Cuando por fin se calma, Erasa se limpia los ojos con el dorso de la mano y suspira, larguísimo, con una sonrisa que no se le va.
-
-—Está bien. —Se pone de pie de un salto, con el vestido arrugado y el pelo como un nido—. Ya está. Ya me morí de vergüenza, ya resucité. Ahora no me mires, que debo tener una cara horrible. —Se tapa la cara con una mano mientras camina de espaldas hacia la escalera—. Me baño en diez minutos. Quince. Veinte, como mucho.
-
-Se detiene en el primer escalón. Se da vuelta, todavía con la mano tapándose media cara.
-
-—Hay pan en la panera y mermelada de durazno —dice—. Tú prepara el desayuno. —Una pausa. Se le escapa una sonrisa por debajo de la mano—. Y después... ¿qué hacemos hoy? Yo no tengo nada. Absolutamente nada. Todo el día.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1679 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sala · miércoles · 08:47      ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: al sol, en el otro sillón              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1680)
+## COMANDO 1 (T1680)
 
 simula unos dias mas y despidiendome de todos por unas semanas seguramente(cuanto queda para la resurrección de freezer?)
 
-## RESPUESTA 2 (T1680)
+## RESPUESTA 1 (T1680)
 
 > simula unos días más, despidiéndome de todos por unas semanas seguramente
 
@@ -109,11 +57,11 @@ Solo falta abrir la puerta.
 
 ---
 
-## COMANDO 3 (T1681)
+## COMANDO 2 (T1681)
 
 me voy a un nuevo mundo
 
-## RESPUESTA 3 (T1681)
+## RESPUESTA 2 (T1681)
 
 > me voy a un nuevo mundo
 
@@ -200,4 +148,69 @@ Detrás de él, en la avenida, alguien grita por fin.
 
 ---
 
-ESTADO AL CIERRE: CHAINSAW MAN, Día 1, fines de octubre de 1997, 19:30. Callejón detrás de una tienda departamental de Tokio, llovizna. Un hombre de traje convertido en muñeco de Santa Claus (ojos de botón, sonrisa cosida) se detiene en la boca del callejón y gira la cabeza hacia Facundo. En la avenida empiezan los gritos. Don de Mundo (Corazón del Demonio Dragón) y Misión de Mundo (Aki vivo tras el Pistola) recibidos. Kase en la nuca.
+## COMANDO 3 (T1682)
+
+hola
+
+## RESPUESTA 3 (T1682)
+
+> hola
+
+> —Hola.
+
+El hombre del maletín no contesta enseguida.
+
+Se queda quieto en la boca del callejón, con la lluvia corriéndole por la cara sin que parpadee. La sonrisa cosida no se mueve. Los ojos de botón no se mueven.
+
+Después, la boca se abre. No como se abre una boca: de golpe, entera, como una bisagra. Y la voz que sale no es la suya. Es la voz de una mujer mayor, tranquila, amable, con un acento extranjero que aplana las erres, y llega con un pequeño retraso, como una radio mal sintonizada.
+
+—Hola, joven. Qué educado.
+
+La cabeza se inclina un poco más hacia un costado. Cruje.
+
+—Qué pelo tan curioso tienes. Y qué ojos. —Una pausa—. Y un gato. Qué bonito gato.
+
+Kase, en tu nuca, eriza todo el pelo del lomo. No bufa. Se queda inmóvil, con las pupilas verticales hechas dos rayitas, mirando los ojos de botón.
+
+Detrás del oficinista, en la avenida, la gente corre. Un paraguas rojo rueda por el asfalto mojado. Alguien cae. Por entre las piernas que pasan corriendo ves a otros más que caminan como él, derechos, rígidos, sin prisa: una señora con una bolsa de compras, un chico con uniforme escolar, un repartidor con el casco puesto. Todos sonríen igual.
+
+Una sirena suena a lo lejos, del otro lado de la avenida.
+
+El oficinista deja caer el maletín. Golpea el piso del callejón con un ruido sordo y se abre. Está lleno de papeles mojados.
+
+—No te preocupes, joven —dice la voz de la mujer, con mucho cariño—. No duele. Te vas a quedar muy quieto y muy bonito.
+
+Da un paso hacia ti. Otro. Los brazos se le levantan solos, rígidos, con los dedos abiertos.
+
+Y empieza a correr.
+
+```
+╔══════════════════════════════════════════════╗
+║ MUÑECO (oficinista)                          ║
+║ Civil convertido · lo mueve otra persona     ║
+║ PODER: fuerza y resistencia de muñeco;       ║
+║        quien lo controla habla y ve por él   ║
+║ AMENAZA: ÍNFIMA                              ║
+║ Diferencia estimada: x0,002 sobre ti         ║
+║ NO COPIABLE (el poder es de quien lo mueve)  ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1682 · CHAINSAW MAN · DÍA 1 · 19:31    ║
+║ Tokio, otoño de 1997                         ║
+║ Callejón detrás de una tienda departamental  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca, erizado                    ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:31, callejón. Santa Claus habla por el muñeco oficinista (voz de mujer mayor, acento extranjero): "Hola, joven. Qué educado. Qué pelo tan curioso. Y qué ojos. Y un gato." "No duele. Te vas a quedar muy quieto y muy bonito." El muñeco suelta el maletín y corre hacia Facundo con los brazos rígidos. En la avenida, más muñecos (señora con bolsa, chico de uniforme, repartidor); civiles huyen; sirena lejos. Kase erizado.
