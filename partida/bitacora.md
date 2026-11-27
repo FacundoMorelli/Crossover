@@ -1518,3 +1518,4 @@ T1516 · DRAGON BALL · Crucero · A Trunks: "por ahora no, no sería justo." Tr
 T1517 · DRAGON BALL · Crucero · Vegeta, celoso de Goku, exige entrenar mañana. Kaio-sama le avisa por telepatía que Bills viene a la Tierra. Vegeta, pálido.
 T1518 · DRAGON BALL · Crucero · Vegeta le explica quién es Bills (Dios de la Destrucción; humilló al rey Vegeta; Freezer le temía). Reglas: nadie lo provoca ni le niega nada. "Voy a tener que ser amable."
 T1519 · DRAGON BALL · Crucero · Llegan Bills y Whis. Vegeta hace una reverencia. Tasaciones. Bills mira a Kase: "¿Ese gato es tuyo?"
+T1520 · DRAGON BALL · Crucero · "Es mi gato." Kase huele el dedo de Bills y le da la espalda. Bills se ríe: "Me despreció." "¿Cómo se llama?"

@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1517)
-
-si
-
-## RESPUESTA 1 (T1517)
-
-> si
-
-> —Sí.
-
-Vegeta no dice nada.
-
-Se le aprieta la mandíbula todavía más. Aprieta los dedos sobre los brazos cruzados hasta que la tela de la camisa rosada cruje. Mira el mar. Respira por la nariz, una vez, larga, como un toro antes de embestir.
-
-—Lo sabía. —Lo dice entre dientes—. Volvió del Otro Mundo con otra cara. Esa cara de idiota feliz que pone cuando encuentra a alguien más fuerte que él. —Se da vuelta hacia ti de golpe—. ¡Siempre él! ¡Siempre Kakarotto primero! ¡El Super Saiyajin, la Teletransportación, el Super Saiyajin 3, y ahora tú! ¡Hace tres años entrenaste con él, y ahora otra vez...!
-
-Te clava un dedo en el pecho.
-
-—Mañana. En mi cámara de gravedad. A las seis de la mañana. Vas a entrenar conmigo, y vas a dejar de esconder ese ki ridículo, y vas a pelear de verdad, y me vas a mostrar lo que le mostraste a él. Y después...
-
-Se calla.
-
-De golpe. En la mitad de la frase. El dedo se le queda apoyado en tu pecho.
-
-Se le pone la cara rara. Los ojos se le van hacia arriba, hacia un costado, como cuando alguien oye una voz que viene de adentro de la cabeza. Se lleva dos dedos a la sien.
-
-—¿Kaio-sama? —murmura—. ¿Qué quiere ahora? Estoy en una fiesta, no tengo tiempo para...
-
-Se queda quieto. Escuchando.
-
-Y le cambia la cara. Por completo. El enojo se le va, el orgullo también. Lo que queda es algo que nunca le habías visto: Vegeta, el príncipe de los saiyajin, pálido como un papel, con los ojos muy abiertos y una gota de sudor que le baja por la sien.
-
-—¿Bills? —dice, casi sin voz—. ¿Bills-sama? ¿Aquí? ¿A la Tierra?
-
-Baja la mano de la sien despacio. Mira el cielo, alrededor, como si el cielo se fuera a romper.
-
-—Ese gato... —susurra—. No. No, no, no.
-
-Alrededor de ustedes la fiesta sigue: la música, las risas, Goten y Trunks peleando por una cuchara, Buu tarareando con la boca llena de pudín, Goku comiendo como si el mundo no tuviera fin. Nadie más oyó nada.
-
-Kase, en la baranda, levanta la cabeza. Gira las orejas hacia el cielo. No ve nada. Pero se le eriza el pelo de la cola.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1517 · DRAGON BALL · SÁBADO · 12:16    ║
-║ Crucero de Bulma · baranda de la cubierta    ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, con la cola erizada     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills viene a la Tierra            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1518)
+## COMANDO 1 (T1518)
 
 quien es bills?
 
-## RESPUESTA 2 (T1518)
+## RESPUESTA 1 (T1518)
 
 > quien es bills?
 
@@ -113,11 +55,11 @@ Se acomoda la camisa rosada. Mira hacia la cubierta, hacia Bulma, que se ríe co
 
 ---
 
-## COMANDO 3 (T1519)
+## COMANDO 2 (T1519)
 
 esta bien
 
-## RESPUESTA 3 (T1519)
+## RESPUESTA 2 (T1519)
 
 > esta bien
 
@@ -205,4 +147,64 @@ Bills entrecierra los ojos. Ladea la cabeza, con mucho interés.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:20, crucero. Llegaron Bills y Whis; Vegeta hizo una reverencia. Bills mira a Kase: "¿Ese gato es tuyo?" Facundo puede responder.
+## COMANDO 3 (T1520)
+
+Así es bills-sama, es mi gato
+
+## RESPUESTA 3 (T1520)
+
+> Así es bills-sama, es mi gato
+
+> —Así es, Bills-sama. Es mi gato.
+
+Vegeta, todavía inclinado en la mitad de la cubierta, gira la cabeza apenas hacia ti. Tiene los ojos muy abiertos. No dice nada, pero toda la cara le grita que no hables.
+
+Bills no lo mira. Camina hacia la baranda. Despacio, con las manos detrás de la espalda, como quien pasea por un jardín. Los invitados se apartan sin darse cuenta de que se apartan. Krilin agarra a Marron y la pone detrás de las piernas de la 18.
+
+Se para a dos pasos de la baranda. Se inclina un poco hacia adelante, hasta que su cara queda a la altura de la de Kase.
+
+Los dos se miran.
+
+Uno, un dios gato de piel violeta que destruye planetas cuando se aburre. El otro, un gato de pelo largo blanco y azul, con un collar negro y un eclipse plateado colgando, que no destruye nada y que, en ese momento, tiene los pelos de la cola parados como un cepillo.
+
+Kase no retrocede. No bufa. Lo mira con los ojos rojo y azul, de pupilas finísimas, sin parpadear.
+
+Bills estira un dedo, despacio, hacia la cabeza de Kase.
+
+Kase le olfatea la punta del dedo. Una vez. Dos.
+
+Después se da vuelta, con toda la dignidad del mundo, le da la espalda, y se sienta mirando el mar.
+
+En la cubierta, nadie respira. Vegeta se pone gris.
+
+Bills se queda con el dedo en el aire. Parpadea. Mira la espalda de Kase. La cola, que se mueve una sola vez, despacio, de un lado al otro, y se queda quieta.
+
+Y se ríe. Una risa corta, por la nariz, sorprendida.
+
+—Me despreció —dice—. Un gato de la Tierra. Me olió y me despreció. —Se endereza—. Whis, ¿viste eso?
+
+—Lo vi, Bills-sama. —Whis se tapa la boca con la mano, sonriendo—. Creo que no le cayó bien.
+
+—Ya veo. —Bills mira a Kase un segundo más. Después te mira a ti, de arriba abajo, con los ojos entrecerrados: el pelo, los ojos de dos colores, la cicatriz. Ladea la cabeza—. Tienen los mismos ojos, tú y el gato. Qué raro. Y tú tienes un ki tan chiquito que casi no estás.
+
+Bosteza.
+
+—¿Cómo se llama?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1520 · DRAGON BALL · SÁBADO · 12:21    ║
+║ Crucero de Bulma · baranda de la cubierta    ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: de espaldas a Bills, mirando el mar    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills en la Tierra                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:21, crucero. Kase le dio la espalda a Bills; Bills se rió. Bills pregunta: "¿Cómo se llama?" (el gato). Facundo puede responder.

@@ -10,3 +10,4 @@ ENCUENTROS:
 TASACIÓN (T1519): sin datos (poder, amenaza, diferencia); se contiene muchísimo; copiable, misión EXTREMA.
 QUÉ SABE DE FACUNDO: nada; siente un ki muy bajo (Velo).
 ESTADO: activo
+- T1520 · "Lo vi, Bills-sama. Creo que no le cayó bien." (sonriendo)

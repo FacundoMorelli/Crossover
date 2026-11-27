@@ -105,3 +105,4 @@
 - Facundo · T1518 · Por Vegeta: quién es Bills (Dios de la Destrucción, humilló al rey Vegeta, Freezer le temía), qué busca (Super Saiyajin Dios) y que viene a la Tierra. Goku no sabe nada.
 - Bills, Whis · T1519 · Ven a Facundo con su gato en la baranda; sienten un ki muy bajo (Velo). Bills se fija en el gato.
 - Todos los del crucero · T1519 · Ven llegar a Bills y Whis y a Vegeta haciéndole una reverencia.
+- Bills, Whis · T1520 · Por Facundo: el gato es suyo. Bills nota que tienen los mismos ojos de dos colores y que Facundo tiene un ki casi nulo (Velo).

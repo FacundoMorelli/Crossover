@@ -22,3 +22,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: (T258) se llama Facundo; mató a Dabura y a Babidi; domó a Buu y destruyó su parte mala (él se lo contó). Lo vio en Forma Cenit.
 ESTADO: libre, de carne (T257); tobillo dolorido (la grieta).
 - T1514 · Deja de comer al ver la tromba.
+- T1520 · Pone a Marron detrás de las piernas de la 18 cuando pasa Bills.
