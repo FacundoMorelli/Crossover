@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1479)
-
-muchas gracias erwin
-
-## RESPUESTA 1 (T1479)
-
-> muchas gracias erwin
-
-> —Muchas gracias, Erwin.
-
-Erwin te aprieta la mano. Fuerte, firme, igual que en Shiganshina. La sostiene un segundo más de lo necesario.
-
-Después se sienta a la mesa, en la punta, frente a Historia. Una sirvienta le sirve té sin que lo pida. Él no lo toca. Abre la carpeta de cuero con una sola mano, con la práctica de quien lleva años haciéndolo así, y desparrama algunas hojas sobre el mantel, entre el pan y la miel.
-
-Mapas. Mapas de verdad, impresos en Marley, con costas, ríos, montañas y nombres de países que nadie en esa isla había oído hace tres meses. Una lista de nombres escrita a mano. Un dibujo de un barco de vapor, con medidas.
-
-—Zarpan en diez días desde el puerto nuevo de la costa este —dice—. El barco es de Marley: lo ofreció el general Magath, con tripulación propia. Van Eren, Mikasa, Armin, Jean, Connie, Sasha y doce soldados más de la Legión. Seis meses, primero. Marley, después el sur, el desierto. Si todo sale bien, Hizuru. —Pone un dedo sobre un punto del mapa—. La señora Azumabito los espera allá.
-
-Historia lee la lista de nombres. Frieda mira el mapa con los ojos muy abiertos, siguiendo una costa con el dedo. Ymir se roba otra tostada.
-
-Erwin se reclina en la silla.
-
-—Hace un año, todo lo que yo quería en el mundo era bajar a un sótano en Shiganshina para saber la verdad. —Lo dice en voz baja, mirando el mapa—. Ahora tengo la verdad, un mundo entero allá afuera, y una pila de informes sobre cuántas raciones de galleta caben en un barco de vapor.
-
-Se le escapa una risa corta.
-
-Después te mira. Con esa mirada suya, la de comandante, la que pesa las cosas antes de decirlas.
-
-—Usted conoce el mundo de allá afuera mejor que cualquiera en esta isla. Mejor que yo, mejor que Hange, mejor que cualquiera que haya nacido detrás de las murallas. —Pone la mano sobre el mapa—. Voy a mandar a esos chicos a lugares que nunca vimos. No le voy a pedir que vaya con ellos. Pero le voy a preguntar una cosa, y quiero que me conteste como le contestaría a un soldado.
-
-Una pausa.
-
-—¿Hay algo allá afuera de lo que tenga que protegerlos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1479 · SHINGEKI · DÍA 119 · 09:04      ║
-║ Mitras · palacio · salón de Historia         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: comiendo huevo en la mesa              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Erwin y los informes de la         ║
-║ expedición · algo de este mundo para Robin   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1480)
+## COMANDO 1 (T1480)
 
 no creo, en la arena puede haber tormenta de Arenas, que hace que pierdas la visión de donde estabas, es simple ubicarte, guíate por las estrellas o el sol, el hielo resbala mucho, las montañas que rchan fuego no suelen echar, suelen estar apagadas pero si empieza a echar tengan cuidado y salgan de ahi, y despues cuídense de la gente, hay gente por todo el mundo que los va a seguir odiando y pueden intentar cualquier cosa
 
-## RESPUESTA 2 (T1480)
+## RESPUESTA 1 (T1480)
 
 > no creo, en la arena puede haber tormenta de Arenas, que hace que pierdas la visión de donde estabas, es simple ubicarte, guíate por las estrellas o el sol, el hielo resbala mucho, las montañas que rchan fuego no suelen echar, suelen estar apagadas pero si empieza a echar tengan cuidado y salgan de ahi, y despues cuídense de la gente, hay gente por todo el mundo que los va a seguir odiando y pueden intentar cualquier cosa
 
@@ -103,11 +52,11 @@ Erwin dobla el mapa con cuidado y lo guarda en la carpeta. Después se queda un 
 
 ---
 
-## COMANDO 3 (T1481)
+## COMANDO 2 (T1481)
 
 esta bien, en un rato voy a verlos a todos
 
-## RESPUESTA 3 (T1481)
+## RESPUESTA 2 (T1481)
 
 > esta bien, en un rato voy a verlos a todos
 
@@ -158,4 +107,53 @@ Te pisa el pie debajo de la mesa. Esta vez no despacio.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 09:15, salón de Historia. Erwin se fue. Ymir: "¿Me llevas, o me quedo aquí contando manzanas otra vez?" Facundo puede responder.
+## COMANDO 3 (T1482)
+
+vienes conmigo
+
+## RESPUESTA 3 (T1482)
+
+> vienes conmigo
+
+> —Vienes conmigo.
+
+Ymir no contesta enseguida.
+
+Se queda con la barbilla apoyada en los brazos, mirándote de costado. Después la sonrisa torcida se le estira de a poco, despacio, hasta que ya no es torcida, y se le suben las orejas al rojo una vez más.
+
+—Bueno —dice, como si le hubieras pedido un favor enorme—. Si insistes.
+
+Se levanta. Se sacude las migas de la camisa. Le roba a Kase el último pedazo de huevo del plato de porcelana, y Kase la mira con un odio tan profundo que la sirvienta da un paso atrás.
+
+Historia las mira a las dos, a Ymir y a ti, con la taza de té en las manos y una sonrisa que intenta disimular y no puede.
+
+—Llévatela —dice—. Hace semanas que se pasea por el palacio como un perro sin dueño. Ayer le contó las ventanas al ala oeste. Dos veces.
+
+—Ciento doce —dice Ymir.
+
+—Y dile a Eren que si no me escribe una carta desde cada puerto, lo mando a buscar con Levi. —Historia deja la taza—. Y a Mikasa que se lleve la bufanda. Y a Sasha que no se coma las raciones del barco el primer día.
+
+Frieda se ríe por lo bajo, tapándose la boca.
+
+Ymir se para a tu lado. Se acomoda la camisa. Se ata mejor el pelo. Después te mira de arriba abajo, con la ceja levantada.
+
+—¿Y cómo vamos? —Señala con la cabeza hacia la ventana, hacia el patio del ala este, donde a lo lejos se oye a Hange cantando sola junto al motor apagado—. ¿En el caballo de metal del enano, o con tu truco de aparecer en todos lados?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1482 · SHINGEKI · DÍA 119 · 09:17      ║
+║ Mitras · palacio · salón de Historia         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la mesa, ofendido                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Ir a Shiganshina con Ymir ·        ║
+║ algo de este mundo para Robin                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 09:17, salón de Historia. Ymir va con Facundo a Shiganshina. Pregunta cómo: la moto o el teletransporte. Facundo puede decidir.
