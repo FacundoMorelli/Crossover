@@ -27,3 +27,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1462 · En el Moby Dick, frente a Barbablanca. Barbablanca: "¿Y este quién es?"
 - T1463 · Se presenta a Barbablanca: "Gracias por cuidar a mi hermano." Declina ser su hijo: "ya tengo un lugar. Un hombre de capa verde que me sacó del mar y nunca me pidió nada. Y dos hermanos." Conoce a los comandantes en la fiesta.
 - T1467 · Despedida de Ace al amanecer en la proa (Ace: si vuelve a desaparecer, quemará el Gobierno Mundial para encontrarlo). Vuelve a Baltigo con Facundo. Koala le tira carpetas y lo abraza.
+- T1471 · Una tarde en la muralla con dos botellas: le cuenta a Facundo recuerdos de la infancia con Ace y Luffy, uno tras otro.

@@ -27,3 +27,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - T968 · Día 66 · La reina cuenta públicamente la verdad del mundo a los revividos.
 - T972 · Día 66 · Hange recibe objetos de otra técnica (linterna, radio, reloj, antibióticos, libro de medicina, semillas) para estudiarlos.
 - T973 · Día 66 · La Legión recibe una moto moderna.
+- (Días 66-119) · Tramo de Wall Sina abierto en Mitras como camino. Antena de radio en el palacio. Primeros intentos de motor con combustible local.

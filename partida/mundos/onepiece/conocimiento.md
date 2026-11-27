@@ -299,3 +299,4 @@
 - Robin · T1468 · Por Facundo: el mundo de los titanes (Shingeki) terminó en paz. Sospecha (deducción) que Facundo tuvo mucho que ver.
 - Robin · T1469 · Por Facundo: sin él, la mitad de la gente del mundo de los titanes estaría muerta.
 - Robin · T1470 · Por Facundo: en unos días se va al mundo de los titanes; les dio cosas allá y quiere ver qué hicieron con ellas.
+- Robin · T1471 · Ve a Facundo abrir una puerta de luz en la torre de Dragon y cruzarla (Día ~129 mañana).

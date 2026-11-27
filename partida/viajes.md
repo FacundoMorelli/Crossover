@@ -240,3 +240,5 @@
 
 ## RELOJES (actualizado T1470)
 - One Piece: Día ~125, Baltigo. Facundo planea quedarse unos días más con Robin y después volver a Shingeki.
+- One Piece: SALIDA Día ~129 ~07:00, torre de Dragon (Baltigo). Robin lo espera; pidió algo del mundo de los titanes. Bankai sobre la flota de Barbablanca sigue. Corre. Equivalencia OP = Shingeki + 9 d 5 h 30 min (vigente).
+- Shingeki: VUELVE Día 119 06:40 (~53 días después de irse el día 66), jardines del palacio de Mitras.

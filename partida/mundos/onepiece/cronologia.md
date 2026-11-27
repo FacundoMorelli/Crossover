@@ -190,3 +190,4 @@
 - Día ~121 noche · (T1465) Facundo cura por completo a Barbablanca con la Transfiguración Ociosa (cambio enorme: sin enfermedad; en el canon ya había muerto en Marineford).
 - Día ~121 noche · (T1466) Barbablanca anuncia a su flota que está sano; brindis por Facundo. Se esperan rumores en el Nuevo Mundo (la flota es grande; la noticia puede salir).
 - Días ~121-125 · (T1467) Sabo vuelve a Baltigo con Facundo. Facundo pasa cuatro días con Robin en Baltigo.
+- Días ~126-129 · (T1471) Facundo en Baltigo; once alumnos de espada. Día ~129 mañana: se va del mundo por una puerta desde la torre de Dragon (testigo: Robin).

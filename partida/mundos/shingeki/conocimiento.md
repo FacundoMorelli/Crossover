@@ -203,3 +203,4 @@
 - Ymir, Historia, Erwin, Levi, Hange · T971 · Por Facundo: se va por ahora a conocer otras cosas; volverá. La plaza ve el beso con Ymir.
 - Hange, Erwin, Levi, Historia, Ymir, Moblit · T972 · Ven a Facundo sacar de la nada una linterna eléctrica, una radio, un reloj, antibióticos, un libro de medicina y semillas.
 - Erwin, Levi, Hange, Moblit, Historia, Ymir · T973 · Ven a Facundo sacar de la nada una moto moderna.
+- Ymir · T1471 · Ve a Facundo aparecer en los jardines del palacio (Día 119).

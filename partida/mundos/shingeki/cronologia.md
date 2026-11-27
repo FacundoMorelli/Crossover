@@ -121,3 +121,5 @@
 - Día 66 13:12 · (T970) Facundo habla a la plaza: no quiere deudas; libertad para salir al mundo. Fiesta.
 - Día 66 13:16 · (T971) Erwin acepta, a pedido de Facundo, liberar esta semana a Zeke, Reiner, Bertholdt y Annie (podrán quedarse o volver a Liberio). Le escribirá a Magath.
 - Día 66 13:35 · (T974) Facundo se despide (saludo de la Legión) y se va por una puerta desde el patio trasero del ayuntamiento de Shiganshina. Hange: el combustible, "el aceite negro de las grietas" de las minas del norte.
+- Días 66-119 · (T1471, simulado al volver, sin Facundo) Paz. Se abre un tramo de Wall Sina en Mitras: camino ancho al campo, mucho tránsito. Hange instala un mástil de metal con alambre (antena) en una torre del palacio a partir de la radio. Hange y Levi intentan hacer andar la moto con combustible de las minas del norte (el motor tose y se ahoga). Ymir guarda las manzanas para Facundo. (Detalles de Zeke, Reiner, Bertholdt, Annie, Marley y los revividos: a revelar según lo que Facundo vea o le cuenten.)
+- Día 119 06:40 · (T1471) Facundo vuelve por una puerta a los jardines del palacio de Mitras.
