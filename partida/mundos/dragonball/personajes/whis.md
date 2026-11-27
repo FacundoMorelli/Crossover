@@ -36,3 +36,4 @@ RELACIÓN CON FACUNDO (T1528): curiosidad amable; agradecido por el pudín y la 
 RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1558 · (Por Goku) Prepara "sopa de estrellas" para el desayuno.
 - T1559 · Con delantal, sirve sopa de estrellas (caldo azul oscuro con puntitos brillantes que giran; "receta muy antigua") y un pescado violeta de seis aletas para Kase. "Bills-sama sigue durmiendo. Puede que hoy no se despierte." A Facundo: "¿Y usted, Facundo-san? Hoy, ¿mira? ¿O participa?"
+- T1560 · Enseña: el azul no es fuerza, "es calma con fuego adentro"; el que se enoja lo pierde. Al mediodía Goku y Vegeta en azul lo atacan a la vez; los esquiva con una mano, sin mover los pies, sonriendo; los desvía con un dedo. Nunca se cansa.

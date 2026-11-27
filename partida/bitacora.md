@@ -1558,3 +1558,4 @@ T1556 · DRAGON BALL · Planeta de Bills · "Qué poder impresionante." Bills se
 T1557 · DRAGON BALL · Planeta de Bills · Se queda unos días. Whis le da un cuarto en el palacio de la pirámide. "Qué frase tan curiosa para alguien con un ki tan pequeño." Ofrece entrenarlo si quiere.
 T1558 · DRAGON BALL · Planeta de Bills · Duerme con Kase. Mañana: Goku le muestra 15 segundos de SSJ Blue ("¡Anoche era uno!"); Vegeta, 8. "Fue idea tuya. Gracias." Sopa de estrellas de Whis.
 T1559 · DRAGON BALL · Planeta de Bills · Desayuno: sopa de estrellas. Vegeta destruyó una montaña. Whis: "Hoy, ¿mira? ¿O participa?"
+T1560 · DRAGON BALL · Planeta de Bills · Mira el entrenamiento todo el día (Whis esquiva a Goku y Vegeta en azul con una mano). Goku: 1 min de azul; Vegeta: 3 min. Vegeta: "Mañana. Tú y yo. Yo en azul. Y tú con eso que escondes."

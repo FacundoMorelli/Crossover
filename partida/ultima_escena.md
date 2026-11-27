@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1557)
-
-esta bien, total no tengo ningun lugar al que viajar por ahora
-
-## RESPUESTA 1 (T1557)
-
-> esta bien, total no tengo ningun lugar al que viajar por ahora
-
-> —Está bien. Total, no tengo ningún lugar al que viajar por ahora.
-
-—Qué bien. —Whis sonríe y junta las manos—. Bills-sama se va a poner contento. Bueno, contento a su manera. Que es parecido a enojado, pero con más comida.
-
-Se levanta de la silla de playa. Las dos sillas y la mesita desaparecen detrás de él sin ruido, salvo el lugar donde está Kase, que queda flotando un segundo en el aire, dormido, y baja despacio hasta el pasto sin despertarse.
-
-—Por aquí, por favor.
-
-Te lleva por un costado de la pirámide, por un sendero de piedra clara que sube en curva entre árboles con las hojas al revés y flores que se abren cuando pasan y se cierran detrás. Kase se despierta, se estira y te sigue, caminando muy digno, con la cola en alto, oliéndolo todo.
-
-El palacio está en la mitad de la pirámide, metido adentro de la piedra. Pasillos largos, frescos, con columnas talladas con figuras de gatos y de peces. Ventanas sin vidrio que dan al cielo violeta. Fuentes con agua que corre hacia arriba.
-
-Whis abre una puerta.
-
-El cuarto es grande, redondo, de piedra clara. Una cama baja, ancha, con almohadones de colores. Una ventana enorme, sin vidrio, que da a un abismo de cielo y lunas y rocas flotantes. Una mesa con una jarra de agua y una fuente de frutas raras, de colores que no tienen nombre.
-
-Kase entra primero. Olfatea la cama. La aprueba. Se sube y se echa en el medio.
-
-—Espero que esté cómodo. —Whis se queda en la puerta, con el báculo en la mano—. Si necesita algo, llámeme. Siempre escucho.
-
-Hace una pausa. Te mira un momento, con la cabeza un poco ladeada.
-
-—"Ningún lugar al que viajar por ahora" —repite, muy suave, como quien guarda una frase en un cajón para leerla después—. Qué frase tan curiosa para alguien que tiene un ki tan pequeño.
-
-Sonríe. No pregunta nada.
-
-—Mañana a la mañana entreno a Goku-san y a Vegeta-san otra vez —dice—. Si le apetece mirar, la silla de playa está donde la dejé. —Otra pausa, más corta—. Y si alguna vez le apetece hacer algo más que mirar... yo también estoy.
-
-Inclina la cabeza y cierra la puerta.
-
-Afuera, por la ventana sin vidrio, a lo lejos, se ve un destello azul que dura un segundo, después otro, y la voz de Goku que grita algo de pura alegría. Y más arriba, desde lo alto de la pirámide, el ronquido grave de Bills.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1557 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Palacio de la pirámide · tu cuarto           ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el medio de la cama                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Unos días en el planeta de Bills · ║
-║ misión de copia del Hakai                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1558)
+## COMANDO 1 (T1558)
 
 duermo con kase
 
-## RESPUESTA 2 (T1558)
+## RESPUESTA 1 (T1558)
 
 > duermo con kase
 
@@ -121,11 +64,11 @@ Te mira desde el suelo, con los ojos brillantes.
 
 ---
 
-## COMANDO 3 (T1559)
+## COMANDO 2 (T1559)
 
 voy con goku a desayunar
 
-## RESPUESTA 3 (T1559)
+## RESPUESTA 2 (T1559)
 
 > voy con goku a desayunar
 
@@ -173,4 +116,59 @@ Vegeta, en la otra punta, deja de doblar la cuchara. Te mira.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, terraza del desayuno. Sopa de estrellas. Whis: "Hoy, ¿mira? ¿O participa?" Vegeta lo mira. Facundo puede responder.
+## COMANDO 3 (T1560)
+
+por ahora miro un poco mas
+
+## RESPUESTA 3 (T1560)
+
+> por ahora miro un poco mas
+
+> —Por ahora miro un poco más.
+
+—Como guste. —Whis asiente, sin insistir—. La silla de playa lo espera.
+
+Y la silla de playa te espera, en el mismo lugar, al pie de la pirámide, con la mesita al lado y una jarra de jugo nueva. Kase se sube a la mesita antes que nadie.
+
+El día entero es de Goku y de Vegeta.
+
+Whis los pone uno frente al otro, en una explanada de piedra lisa entre dos montañas que apuntan para los costados. Les dice que no peleen: que se transformen, nada más, y que se queden así. Que el azul no es fuerza. Que es calma con fuego adentro. Que el que se enoja, lo pierde.
+
+Vegeta lo pierde catorce veces en la primera hora.
+
+Goku lo pierde porque se ríe cada vez que le sale.
+
+Al mediodía, Whis se para entre los dos con el báculo en una mano y les dice que lo ataquen. A la vez. Los dos en azul. Y durante un rato largo, mientras los tres soles cruzan el cielo, ves algo que no habías visto nunca: a Goku y a Vegeta, juntos, con todo lo que tienen, tirándole golpes a un ángel que los esquiva con una sola mano, sin dejar de sonreír, sin mover los pies, girando apenas la cabeza, como quien espanta moscas. A veces los desvía con un dedo. A veces les toca la frente y los manda volando cien metros. Nunca les pega de verdad. Nunca se cansa.
+
+Lo observas todo. Cada movimiento de Whis. Cómo no piensa antes de moverse. Cómo el cuerpo le va solo, siempre un instante antes que el golpe.
+
+Kase, en la mesita, mira lo mismo que tú, con los ojos rojo y azul entrecerrados.
+
+A la tarde, Goku aguanta el azul un minuto entero. Grita tan fuerte de alegría que una bandada de pájaros raros sale volando del bosque al revés.
+
+Vegeta no grita. Pero al atardecer, cuando los tres soles se esconden detrás del borde del planeta y el cielo se vuelve violeta otra vez, se queda parado solo en la explanada, en silencio, en azul. Un minuto. Dos. Tres. Más que Goku. Sin moverse. Con los ojos cerrados y la cara tranquila, más tranquila de lo que le viste nunca.
+
+Cuando lo suelta, abre los ojos. Mira a Goku, que lo mira con la boca abierta. No le dice nada. Pero se le escapa media sonrisa.
+
+Después cruza la explanada caminando, sudado, con el traje roto, y se para delante de tu silla de playa. Te mira desde arriba.
+
+—Mañana —dice—. Tú y yo. Yo en azul. —Se cruza de brazos—. Y tú con eso que escondes. Lo que sea que es.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1560 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · atardecer               ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la mesita, mirando                  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Vegeta (azul) desafía a duelo      ║
+║ mañana                                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, atardecer. Goku 1 min de azul, Vegeta 3 min. Vegeta, delante de Facundo: "Mañana. Tú y yo. Yo en azul. Y tú con eso que escondes." Facundo puede responder.

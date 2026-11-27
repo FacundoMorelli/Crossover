@@ -124,3 +124,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1556 · Sigue intentando el azul: destellos breves.
 - T1558 · (Por Goku) Llegó a ocho segundos de SSJ Blue durante la noche y se fue a romper una montaña de rabia.
 - T1559 · Llega al desayuno sin la parte de arriba del traje, cubierto de polvo, raspón en la frente. "Ya no existe" (la montaña). No contesta si pasó de ocho segundos; dobla la cuchara. Mira a Facundo cuando Whis le pregunta si participa.
+- T1560 · Pierde el azul 14 veces en la primera hora (por enojo). Al atardecer: TRES MINUTOS de SSJ Blue, solo, ojos cerrados, cara tranquila; más que Goku (media sonrisa). Se para delante de Facundo: "Mañana. Tú y yo. Yo en azul. Y tú con eso que escondes. Lo que sea que es."
