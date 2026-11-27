@@ -1,8 +1,8 @@
 {
-  "turno": 1680,
-  "mundo_actual": "dragonball",
-  "fecha_local": "Dragon Ball: año 778, sábado (4 días después de la cena con la mamá de Erasa)",
-  "hora": "año 778, sábado, 19:40 (Tierra)",
+  "turno": 1681,
+  "mundo_actual": "chainsawman",
+  "fecha_local": "Chainsaw Man: Día 1, fines de octubre de 1997",
+  "hora": "19:30 (Tokio)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
@@ -73,6 +73,11 @@
       "moneda": "ryo",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 ryo (fijado T1305)"
+    },
+    "chainsawman": {
+      "moneda": "yenes",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 11.000 yenes (fijado T1681)"
     }
   },
   "puntos_de_stat_sin_asignar": 185,
@@ -388,11 +393,25 @@
       "usos": [
         "T1390: el dragón del antebrazo derecho despierta solo y muerde al Zetsu negro que intentaba meterse en Facundo; devora un pedazo (lo convierte en chakra de Facundo). Maestría 31."
       ]
+    },
+    "chainsawman": {
+      "nombre": "Corazón del Demonio Dragón",
+      "tipo": "híbrido (corazón de demonio)",
+      "maestria": 30,
+      "reglas": [
+        "Facundo tiene en el pecho, junto al suyo, el corazón del Demonio Dragón (nacido del miedo humano a los dragones de los mitos). No es un pacto: no paga precio. El demonio no tiene voluntad propia dentro de él.",
+        "Transformación: se activa tirando del aro plateado de la oreja izquierda (su \"anilla\"). Cabeza y brazos se cubren de escamas negras con vetas rojas y azules, cuernos, garras; alas de dragón en la espalda (vuelo); cola. Forma humana intacta al soltarla.",
+        "Aliento: fuego rojo (Sol) y escarcha azul (Luna) por la boca, en chorro o en esfera. Escamas duras como acero templado.",
+        "Regeneración de híbrido: casi inmortal mientras el corazón esté entero; se regenera bebiendo sangre (cualquier sangre, unas gotas para heridas chicas, más para miembros). Si queda sin sangre, vuelve a la forma humana.",
+        "Sin desventajas del mundo: no lo controla nadie (tampoco Makima), no tiene hambre de carne, el demonio no toma el cuerpo, no huele a demonio (Velo).",
+        "Maestría 50: Forma Dragón Completa (dragón de 15 metros). Maestría 70: Rugido del Miedo (los demonios menores huyen al oírlo)."
+      ],
+      "primer_uso": null
     }
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "Dragon Ball: un hilo de ki muy bajo (menos que Krilin), desde T1509"
+    "poder_mostrado": "Chainsaw Man: persona común; sin olor a demonio, fiend ni híbrido (desde T1681)"
   },
   "armas": [
     {
@@ -2332,7 +2351,8 @@
       "danmachi",
       "bokunohero",
       "tokyoghoul",
-      "naruto"
+      "naruto",
+      "chainsawman"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -2350,12 +2370,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "naruto",
-      "mision": "Que Neji Hyūga siga vivo cuando termine la Cuarta Gran Guerra Ninja.",
+      "mundo": "chainsawman",
+      "mision": "Que Aki Hayakawa siga vivo cuando termine el ataque del Demonio Pistola.",
       "recompensa": "20.000 EXP · 500 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1428, Día 4 noche): la Cuarta Gran Guerra Ninja no ocurrirá (paz firmada por los cinco Kages); Neji vivo."
+      "estado": "activa (T1681)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -2381,7 +2401,9 @@
       "tokyoghoul": "Salida Día 7 21:30 desde el salón de Anteiku (todos vieron la Puerta). Prometió volver \"en una semana o en tres meses\". Botón de aviso en el chaleco de Yoshimura. Corre.",
       "blackclover_salida_2": "Salida Día 4 21:22 (T1305), claro de los Toros Negros, frente a todos. Dijo: quizás vuelve en unas semanas. Corre.",
       "naruto": "Llegada Día 1 07:40 (T1305). SALIDA Día 10 ~00:00 (medianoche) (T1440), por una puerta en la calle de Ichiraku, ante todos. Prometió a Naruto volver. Corre.",
-      "naruto_salida": "Día 10 ~00:00 (T1440)."
+      "naruto_salida": "Día 10 ~00:00 (T1440).",
+      "dragonball_salida_T1680": "Salida sábado año 778 19:40, colina del parque central. Corre al ritmo de Facundo.",
+      "chainsawman": "Llegada Día 1, fines de octubre de 1997, 19:30 (T1681). Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2421,7 +2443,6 @@
     "mundos_disponibles_sin_visitar": [
       "demonslayer",
       "fullmetal",
-      "chainsawman",
       "sololeveling"
     ],
     "nota_mundos_nuevos": "T1657 (R16): se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling. /viajar nuevo elige al azar entre ellos. Dragon Ball Super es parte del mundo Dragon Ball (canon/dragonballsuper/)."
@@ -2432,7 +2453,8 @@
     "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)",
     "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)",
     "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)",
-    "naruto": ""
+    "naruto": "",
+    "chainsawman": ""
   },
   "tienda": {
     "catalogo_permanente": {
@@ -2523,19 +2545,19 @@
       "Plato de carne al punto con puré (caliente, con cubiertos)": "1 Fragmento (fijado T1554)"
     },
     "stock_rotativo": {
-      "mundo": "naruto",
+      "mundo": "chainsawman",
       "slots": [
         {
-          "item": "Pergamino de sello de almacenamiento en blanco (x10)",
-          "precio": 3
-        },
-        {
-          "item": "Píldora de soldado de los Akimichi (recupera 50% de energía y cansancio)",
-          "precio": 15
-        },
-        {
-          "item": "Banda ninja sin aldea (placa lisa, tela negra)",
+          "item": "Encendedor de bencina con combustible infinito (estilo 1997)",
           "precio": 2
+        },
+        {
+          "item": "Ampolla de sangre de repuesto x5 (regenera a un híbrido)",
+          "precio": 10
+        },
+        {
+          "item": "Teléfono celular de tapa (1997) con línea a nombre de nadie",
+          "precio": 4
         }
       ]
     },
@@ -2718,7 +2740,9 @@
     "alba_voz": "T1408: al revivir, cada revivido \"oyó\" una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. (Fuente válida para que los revividos sepan del gato.)",
     "sim_dias_1_5_naruto": "T1428 (simulación Día 1 noche – Día 5 amanecer): Tsunade renuncia a interrogarlo. Kisame preso bajo Ibiki (Samehada en baúl de hierro); pregunta por Itachi. Zetsu blanco estudiado en cuarto sellado. Kumo: Bee apareció libre; Raikage: \"Que el Uchiha no vuelva a pisar mi país.\" Cumbre suspendida; cartas: Gaara (Shukaku de vuelta), Mei Terumī (Yagura revivido en su despacho con el Tres Colas), Ōnoki (Rōshi y Han de vuelta). Día 3: Gaara visita a Facundo y se inclina. Taka vive con los Uchiha. Naruto vive con Minato y Kushina; Jiraiya al lado. Obito barre el barrio Uchiha (Rin y Kakashi lo acompañan). Día 4: JUICIO: Danzō, prisión de por vida sin chakra; ojos devueltos al clan; Homura y Koharu fuera del consejo; Raíz disuelta; Obito sellado al servicio de la aldea; Uchiha reintegrados (policía y consejo); Fugaku confiesa el golpe. Noche del Día 4: acuerdo de paz de los cinco Kages → no habrá Cuarta Guerra.",
     "sim_dias_5_9_naruto": "T1437 (simulación Día 5–9): duelo con Sasuke (Susanoo completo, Amaterasu, Kirin; Facundo deshace el Susanoo con la mano). Kakashi llega a horario por primera vez. Obito barre; un nene le lleva agua; Rin le venda las manos. Jiraiya escribe \"El Viajero del Gato\" (Tsunade lo tira por la ventana; Kakashi lo rescata). Sakura investiga las semillas. Lee y Gai: carreras diarias perdidas. Día 7-8: Killer Bee visita Konoha (carta del Raikage, disculpa de Karui); amistad con Naruto; Kurama y Gyūki se insultan. Neji se sienta junto a Facundo en un techo una noche. Ayame alimenta a Kase. Día 9 noche: Naruto pregunta cuándo se va.",
-    "dragonball_resurreccion_freezer": "Fijado T1680: Sorbet y Tagoma llegan a la Tierra y reviven a Freezer ~5 meses después de este sábado (comienzo del año 779); Freezer entrena ~4 meses y ataca la Tierra ~9 meses después de este sábado. Goku y Vegeta en el planeta de Bills con Whis."
+    "dragonball_resurreccion_freezer": "Fijado T1680: Sorbet y Tagoma llegan a la Tierra y reviven a Freezer ~5 meses después de este sábado (comienzo del año 779); Freezer entrena ~4 meses y ataca la Tierra ~9 meses después de este sábado. Goku y Vegeta en el planeta de Bills con Whis.",
+    "chainsawman_llegada": "Mundo elegido al azar (T1681) entre demonslayer/fullmetal/chainsawman/sololeveling: chainsawman. Momento al azar: arco 5 (Asesinos Internacionales), Día 1.",
+    "apodo_pendiente_chainsawman": "'Dragon Man' (los medios y Seguridad Pública, si lo ven transformado); 'el del gato de dos ojos' entre civiles."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

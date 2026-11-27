@@ -253,3 +253,10 @@
 
 ## DRAGON BALL — SALIDA (T1680)
 - Sale el sábado del año 778, 19:40, colina detrás del parque central de la Capital del Oeste. Prometió volver en unas semanas (Erasa, Goku, Vegeta). El reloj de Dragon Ball corre al ritmo de Facundo.
+
+| 13 | Chainsaw Man | Día 1, fines de octubre de 1997, 19:30 | Asesinos Internacionales (cap. ~53-54) | Que Aki Hayakawa siga vivo cuando termine el ataque del Demonio Pistola. | ACTIVA |
+### Chainsaw Man
+- MISIÓN: Que Aki Hayakawa siga vivo cuando termine el ataque del Demonio Pistola.
+- RECOMPENSA: 20.000 EXP · 500 Fragmentos
+- VENCE: nunca · CAMBIADA: no
+- DON: Corazón del Demonio Dragón (híbrido), maestría 30.

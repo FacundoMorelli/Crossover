@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1678)
-
-si, nos tapó y me dio un café, y se fue a trabajar
-
-## RESPUESTA 1 (T1678)
-
-> si, nos tapó y me dio un café, y se fue a trabajar
-
-> —Sí. Nos tapó, me dio un café y se fue a trabajar.
-
-Erasa se queda mirándote tres segundos con la boca abierta.
-
-Después se tira de cara contra tu pecho, con todo el peso, y grita. Un grito largo, ahogado en tu camisa, que vibra contra tus costillas.
-
-—Me quiero morir —dice adentro de la tela—. Me quiero morir. Me voy a mudar. Me voy a ir a tus islas en un barco y no voy a volver nunca.
-
-Kase, abajo, levanta la cabeza por el ruido. La mira. La vuelve a bajar.
-
-Erasa se queda así un rato largo, con la cara escondida, respirando fuerte. Después, de a poco, levanta un ojo por encima de tu camisa. Lo entrecierra. Algo le está dando vueltas.
-
-—Espera. —Levanta la cabeza del todo—. ¿Te dio café? ¿A ti?
-
-Mira la mesita. Las dos tazas. Agarra una, la que tiene un resto de café con leche en el fondo, y la mira de cerca, como si fuera una prueba.
-
-—Esta es la taza buena —susurra—. La de las flores azules. Es de la vajilla de mi abuela. A mi papá no le da esta taza. —Te mira, con los ojos muy abiertos—. Y no nos despertó. Y nos tapó con su manta. Su manta, la de lana, la que no me presta ni cuando tengo fiebre.
-
-Deja la taza en la mesita, despacio, con cuidado, como si fuera de cristal.
-
-Se sienta en el sillón, se aparta un poco de ti y se acomoda el vestido rosa, que está todo arrugado. Se pasa las manos por el pelo, que no tiene arreglo. Se toca la mejilla, encuentra la marca del botón y se tapa la cara otra vez con las dos manos.
-
-Habla entre los dedos:
-
-—¿Y dijo algo? —Abre dos dedos y te espía por el hueco—. Antes de irse. ¿Te dijo algo? ¿Qué te dijo? Dímelo todo. Exactamente. Palabra por palabra.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1678 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sala · miércoles · 08:44      ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: al sol, al pie del sillón              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1679)
+## COMANDO 1 (T1679)
 
 que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
 
-## RESPUESTA 2 (T1679)
+## RESPUESTA 1 (T1679)
 
 > que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
 
@@ -105,11 +55,11 @@ Se detiene en el primer escalón. Se da vuelta, todavía con la mano tapándose 
 
 ---
 
-## COMANDO 3 (T1680)
+## COMANDO 2 (T1680)
 
 simula unos dias mas y despidiendome de todos por unas semanas seguramente(cuanto queda para la resurrección de freezer?)
 
-## RESPUESTA 3 (T1680)
+## RESPUESTA 2 (T1680)
 
 > simula unos días más, despidiéndome de todos por unas semanas seguramente
 
@@ -159,4 +109,95 @@ Solo falta abrir la puerta.
 
 ---
 
-ESTADO AL CIERRE: sábado 19:40 (año 778), colina detrás del parque central de la Capital del Oeste, solo con Kase. Despedidas hechas (Goku, Vegeta, Whis el jueves; Bulma, Trunks, Goten, Milk, Gohan, Videl el sábado a la mañana; la mamá de Erasa y Erasa al atardecer). Prometió volver en unas semanas. Lleva el estuche de cápsulas de Bulma (con la cápsula 7, regalada), el táper de Milk y el imán del pato de Erasa. Falta abrir la puerta (viaje libre): destino sin elegir.
+## COMANDO 3 (T1681)
+
+me voy a un nuevo mundo
+
+## RESPUESTA 3 (T1681)
+
+> me voy a un nuevo mundo
+
+En la colina no hay nadie. Abajo, la Capital del Oeste enciende sus luces una por una.
+
+Abres la puerta. Se recorta en el aire, delante de ti, un rectángulo de luz blanca y azul que zumba bajito, sin destino escrito. Kase clava las uñas en tu hombro, como cada vez.
+
+Cruzas.
+
+Oscuridad. Ni arriba ni abajo. Una ventana del Sistema se abre en la nada, fría:
+
+[Destino fijado.]
+
+Lo primero es el olor.
+
+Lluvia vieja sobre asfalto. Aceite de frituras rancio. Cartón mojado. Tabaco. Y debajo de todo, apenas, algo dulzón y metálico que no termina de irse, como en una carnicería al cierre.
+
+Abres los ojos en un callejón angosto. Llovizna. Paredes de concreto manchadas de humedad, cables colgando entre los edificios como lianas negras, cajas de cartón deshechas contra una puerta de servicio. Una máquina expendedora titila al fondo, con la luz que se prende y se apaga, llena de latas de café con etiquetas que nunca viste. A la derecha, la pared trasera de un edificio de ocho pisos, con un cartel luminoso en la terraza: una tienda departamental.
+
+Kase se sacude la llovizna del lomo, molesto, y se te acomoda en la nuca.
+
+Al final del callejón se ve una avenida. Carteles de neón en japonés, paraguas, un teléfono público verde con una mujer hablando a los gritos. Autos cuadrados, de los de hace treinta años, con los faros amarillos. Nadie tiene teléfono en la mano. Nadie mira una pantalla.
+
+Pegado en la pared, a tu lado, un afiche medio despegado por la lluvia. Un hombre con traje negro y corbata, serio, señala con el dedo. Las letras, grandes y rojas, dicen:
+
+"¿VIO UN DEMONIO? NO LO ENFRENTE. LLAME A SEGURIDAD PÚBLICA."
+
+Y abajo, más chico: "Recuerde: los pactos ilegales se pagan con cárcel. O con algo peor."
+
+Desde la avenida llega un ruido raro. No es un grito todavía. Es un murmullo que crece, gente que se aparta, un paraguas que cae.
+
+Por la boca del callejón pasa un hombre caminando. Traje gris de oficina, maletín, el pelo pegado por la lluvia. Camina derecho, muy derecho, con los brazos rígidos al costado del cuerpo y la cabeza un poco inclinada, como si le colgara de un hilo. Se detiene justo en la entrada del callejón. Gira la cabeza hacia ti, despacio, demasiado, más de lo que debería girar un cuello.
+
+Tiene los ojos vacíos, como dos botones. Y sonríe. Una sonrisa enorme, fija, de oreja a oreja, con las comisuras tirantes, como si se la hubieran cosido.
+
+Detrás de él, en la avenida, alguien grita por fin.
+
+```
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Chainsaw Man                          ║
+║ CORAZÓN DEL DEMONIO DRAGÓN                   ║
+║ Híbrido. Un segundo corazón late en tu       ║
+║ pecho: el del demonio nacido del miedo a     ║
+║ los dragones. Tira del aro de tu oreja       ║
+║ izquierda y te transformas: escamas negras   ║
+║ con vetas rojas y azules, cuernos, garras,   ║
+║ alas, cola. Aliento de fuego y de escarcha.  ║
+║ Regeneras bebiendo sangre. El demonio no     ║
+║ tiene voz ni voluntad. Nadie lo controla.    ║
+║ Sin precio. Sin hambre. Sin olor.            ║
+║ Maestría 30                                  ║
+║ 50: Forma Dragón Completa                    ║
+║ 70: Rugido del Miedo                         ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Chainsaw Man                          ║
+║                                              ║
+║ MISIÓN: Que Aki Hayakawa siga vivo cuando    ║
+║ termine el ataque del Demonio Pistola.       ║
+║ RECOMPENSA: 20.000 EXP · 500 Fragmentos      ║
+║ VENCE: nunca                                 ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1681 · CHAINSAW MAN · DÍA 1 · 19:30    ║
+║ Tokio, otoño de 1997                         ║
+║ Callejón detrás de una tienda departamental  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca                             ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: CHAINSAW MAN, Día 1, fines de octubre de 1997, 19:30. Callejón detrás de una tienda departamental de Tokio, llovizna. Un hombre de traje convertido en muñeco de Santa Claus (ojos de botón, sonrisa cosida) se detiene en la boca del callejón y gira la cabeza hacia Facundo. En la avenida empiezan los gritos. Don de Mundo (Corazón del Demonio Dragón) y Misión de Mundo (Aki vivo tras el Pistola) recibidos. Kase en la nuca.
