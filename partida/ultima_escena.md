@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1477)
-
-hola historia, como estas?
-
-## RESPUESTA 1 (T1477)
-
-> hola historia, como estas?
-
-> —Hola, Historia. ¿Cómo estás?
-
-Historia se queda un segundo con las manos en la baranda.
-
-Después sonríe. Una sonrisa enorme, de esas que no le quedan bien a una reina, que se le escapan sin permiso. Se da cuenta de que está en bata, despeinada, delante de medio palacio asomado a las ventanas, y se cierra la bata sobre el pecho con una mano, colorada. No se va del balcón.
-
-—Cansada —dice, y se ríe—. Muy cansada. Y contenta. Las dos cosas a la vez, todos los días.
-
-Mira hacia el camino que sale por el tramo abierto de Wall Sina, a lo lejos, lleno de carretas.
-
-—Hay medio millón de personas nuevas en Wall Maria que necesitan casas, papeles, trabajo, escuelas. Hay barcos de Marley que llegan cada semana y nadie sabe qué cobrarles. Hay nobles que no quieren abrir sus graneros, revividos que no encuentran a sus familias, familias que encuentran a sus revividos y no saben qué hacer con ellos. —Suspira—. Y hay una científica loca que me despierta a las siete de la mañana con un caballo de metal.
-
-—¡Perdón, Majestad! —grita Hange desde abajo, sin ningún arrepentimiento.
-
-Historia niega con la cabeza. Se apoya otra vez en la baranda, con los codos.
-
-—Mi hermana me ayuda. Frieda. Sabe de estas cosas mucho más que yo. Dice que estoy haciéndolo bien. —Te mira desde arriba, con los ojos azules muy abiertos—. Yo no sé si es verdad. Pero nadie se murió de hambre este mes. Nadie. En toda la isla. Es la primera vez en cien años.
-
-Se le humedecen los ojos. Se los seca rápido, con el dorso de la mano, antes de que alguien en las ventanas lo note.
-
-—Estás lleno de aceite —dice, con otra voz—. Hange te abrazó, ¿verdad?
-
-Se endereza. Vuelve a ser una reina, aunque sea en bata.
-
-—Sube. Las dos. Bueno, los tres, con el gato. Voy a mandar a preparar el desayuno en mi salón. —Hace una pausa—. El comandante Erwin viene a las nueve con los informes de la expedición de Eren. Le va a hacer bien verte. A todos nos va a hacer bien.
-
-Se da vuelta para entrar. Se detiene en la puerta del balcón y te mira por encima del hombro.
-
-—Bienvenido a casa, Facundo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1477 · SHINGEKI · DÍA 119 · 07:33      ║
-║ Mitras · patio del ala este del palacio      ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la canasta de manzanas de Ymir      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Desayuno con Historia; Erwin a las ║
-║ 9 · algo de este mundo para Robin            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1478)
+## COMANDO 1 (T1478)
 
 muchas gracias reina, voy a desayunar simula hasta que llegue erwin
 
-## RESPUESTA 2 (T1478)
+## RESPUESTA 1 (T1478)
 
 > muchas gracias reina, voy a desayunar simula hasta que llegue erwin
 
@@ -121,11 +66,11 @@ Te tiende la mano.
 
 ---
 
-## COMANDO 3 (T1479)
+## COMANDO 2 (T1479)
 
 muchas gracias erwin
 
-## RESPUESTA 3 (T1479)
+## RESPUESTA 2 (T1479)
 
 > muchas gracias erwin
 
@@ -172,4 +117,53 @@ Una pausa.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 09:04, salón de Historia. Erwin explicó la expedición y pregunta: "¿Hay algo allá afuera de lo que tenga que protegerlos?" Facundo puede responder.
+## COMANDO 3 (T1480)
+
+no creo, en la arena puede haber tormenta de Arenas, que hace que pierdas la visión de donde estabas, es simple ubicarte, guíate por las estrellas o el sol, el hielo resbala mucho, las montañas que rchan fuego no suelen echar, suelen estar apagadas pero si empieza a echar tengan cuidado y salgan de ahi, y despues cuídense de la gente, hay gente por todo el mundo que los va a seguir odiando y pueden intentar cualquier cosa
+
+## RESPUESTA 3 (T1480)
+
+> no creo, en la arena puede haber tormenta de Arenas, que hace que pierdas la visión de donde estabas, es simple ubicarte, guíate por las estrellas o el sol, el hielo resbala mucho, las montañas que rchan fuego no suelen echar, suelen estar apagadas pero si empieza a echar tengan cuidado y salgan de ahi, y despues cuídense de la gente, hay gente por todo el mundo que los va a seguir odiando y pueden intentar cualquier cosa
+
+> —No creo. En el desierto puede haber tormentas de arena, que hacen que pierdas de vista dónde estabas. Es fácil ubicarse: guíense por las estrellas o por el sol. El hielo resbala mucho. Las montañas que echan fuego casi nunca echan; suelen estar apagadas, pero si alguna empieza, tengan cuidado y salgan de ahí. Y después, cuídense de la gente. Hay gente en todo el mundo que los va a seguir odiando, y puede intentar cualquier cosa.
+
+Erwin no te interrumpe ni una vez.
+
+Mientras hablas, saca un lápiz del bolsillo del uniforme y anota en el margen del mapa, con la mano izquierda, en letra chica y apretada. "Tormenta de arena: estrellas, sol." "Hielo." "Montañas de fuego: salir." Cuando llegas a lo último, deja de escribir.
+
+Se queda mirando el lápiz.
+
+—La gente —repite.
+
+Historia baja la lista de nombres. Frieda deja de seguir la costa con el dedo. Hasta Ymir deja la tostada en el plato.
+
+—Eso es lo único de la lista que no se arregla con una brújula —dice Erwin, despacio—. Durante cien años, en el continente, a los eldianos les enseñaron que éramos demonios. Un tratado firmado en una plaza no borra cien años de libros de escuela. —Apoya el lápiz sobre el mapa—. Magath me lo dijo en su última carta, casi con las mismas palabras. Hay gente en Marley que celebró el tratado. Y hay gente que quemó los diarios que lo anunciaban.
+
+—Por eso van con la Legión —dice Historia, en voz baja—. Y no solos.
+
+—Por eso van con la Legión —asiente Erwin—. Y con Mikasa, que vale por un escuadrón. Y con Levi... —Hace una pausa—. No. Levi no va. Se quedó con la moto.
+
+Ymir resopla una risa por la nariz.
+
+Erwin dobla el mapa con cuidado y lo guarda en la carpeta. Después se queda un momento con la mano encima, sin cerrarla.
+
+—Le voy a pedir otra cosa. No como comandante. —Te mira—. Están todos en Shiganshina, preparando el viaje. Eren, Mikasa, Armin, los demás. Eren pregunta por usted cada vez que me ve. Armin tiene una lista de cuarenta preguntas sobre el mar, escrita a mano. —Casi sonríe—. Si tiene tiempo antes de que zarpen, me gustaría que se los dijera usted. Lo de la gente. A mí me van a escuchar porque soy su comandante. A usted lo van a escuchar porque fue usted el que les devolvió el mundo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1480 · SHINGEKI · DÍA 119 · 09:12      ║
+║ Mitras · palacio · salón de Historia         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: comiendo huevo en la mesa              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Erwin pide que hable con la        ║
+║ expedición · algo de este mundo para Robin   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 09:12, salón de Historia. Erwin pide que Facundo vaya a Shiganshina a hablar con la expedición antes de zarpar. Facundo puede responder.

@@ -215,3 +215,5 @@
 - Frieda Reiss · T1478 · Por Historia: mucho sobre Facundo (los deseos, la paz). Lo conoce en persona en el desayuno.
 - Erwin · T1478 · Por rumores del palacio: la moto anduvo y Facundo volvió.
 - Facundo, Historia, Frieda, Ymir · T1479 · Por Erwin: detalles de la expedición al continente.
+- Erwin, Historia, Frieda, Ymir · T1480 · Por Facundo: en el desierto hay tormentas de arena (guiarse por estrellas/sol); el hielo resbala; las montañas de fuego suelen estar apagadas pero hay que salir si se activan; hay gente que los va a seguir odiando.
+- Facundo · T1480 · Por Erwin (y Magath por carta): en Marley hubo quienes quemaron los diarios del tratado. La expedición está en Shiganshina preparándose.
