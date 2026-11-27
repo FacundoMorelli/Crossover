@@ -1630,3 +1630,4 @@ T1628 · DRAGON BALL · Parque · "Lo van a ver cuando se las enseñe." Vegeta: 
 T1629 · DRAGON BALL · Parque · Kase no quiere subir: se va a un banco a la sombra. Vegeta: "El gato es el único con sentido común acá." Goten: "¿Y tú? ¿Subes?"
 T1630 · DRAGON BALL · Parque · Montaña rusa con Goten, Trunks y Vegeta (Vegeta, cara de piedra, protege la cabeza de Trunks sin darse cuenta). Foto en la salida; Trunks: "¿Me la compras?" (1.500 zeni).
 T1631 · DRAGON BALL · Parque · Cambia 10 F (100.000 zeni) y compra la foto para Trunks (1.500 zeni). Vegeta: "Me debes una." Goten pide algodón de azúcar.
+T1632 · DRAGON BALL · Parque · Algodones de azúcar para todos (1.500 zeni; uno guardado para Goku). Vegeta: "Son para niños" (y se lo come de espaldas). Trunks y Goten: "¡Ahora la técnica!"

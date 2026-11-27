@@ -21,3 +21,4 @@ ESTADO: activo
 - T1628 · "¡Aaah! ¡Eso es trampa!" "Mi papá no dice eso."
 - T1630 · Montaña rusa en el primer carrito con Vegeta; grito agudo en el segundo loop (Vegeta le protege la cabeza). "¡Otra vez!" Ve la foto: "¡Papá, mira! ¡Saliste re serio!" A Facundo: "¿Me la compras? ¡Es para mostrársela a mamá!"
 - T1631 · Recibe de Facundo la foto impresa de la montaña rusa: "¡Mamá se va a morir de risa! ¡La voy a poner en la heladera!" Huye de Vegeta con la foto: "¡Es mía! ¡Me la compró Facundo!"
+- T1632 · Algodón de azúcar de Facundo. "¡Ya subimos a la montaña rusa! ¡Papá dijo primero la montaña rusa, y ya subimos! ¡Ahora sí! ¡Ahora la técnica!"

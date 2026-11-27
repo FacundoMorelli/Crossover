@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1629)
-
-kase no queres no?
-
-## RESPUESTA 1 (T1629)
-
-> kase no queres no?
-
-> —Kase, no quieres, ¿no?
-
-Kase te mira.
-
-Te sostiene la mirada un largo rato, de muy cerca, con los ojos rojo y azul quietos y las pupilas finísimas. Después parpadea una vez, lento. Muy lento.
-
-Desclava las uñas del hombro, una por una, igual de despacio que como las clavó.
-
-Salta al suelo, cae sin ruido, camina con la cola en alto hasta un banco de madera que hay al costado de la fila, a la sombra de un árbol, y se sube de un salto. Se sienta en el medio exacto, enrosca la cola alrededor de las patas y se queda mirando la montaña rusa con cara de profundo desprecio.
-
-La señora del bebé, que estaba sentada en la otra punta del banco, se corre un poco.
-
-—Ah —dice Goten, decepcionado—. No quiere.
-
-—El gato es el único con sentido común acá —dice Vegeta.
-
-—¡Papá!
-
-—Es un comentario.
-
-El muchacho de uniforme mide a Trunks con la tabla de madera. Mide a Goten. Los dos pasan justo, Goten en puntas de pie. El muchacho los mira raro, después mira a Vegeta con la camiseta rosada, y decide no decir nada.
-
-Trunks ya corre hacia el carrito de adelante, el primero de todos.
-
-—¡Papá, el de adelante! ¡El de adelante!
-
-Vegeta lo sigue, con los brazos cruzados, muy digno, y se sienta en el carrito con la gorra calada hasta las cejas.
-
-Goten se queda en la entrada, con tu mano todavía agarrada, mirándote para arriba.
-
-—¿Y tú? —Tira un poquito—. ¿Subes? Kase te espera en el banco. Mira, ya está ahí.
-
-En el banco, Kase bosteza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1629 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Parque · entrada de la montaña rusa · tarde  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en un banco, a la sombra               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1630)
+## COMANDO 1 (T1630)
 
 subo con ellos
 
-## RESPUESTA 2 (T1630)
+## RESPUESTA 1 (T1630)
 
 > subo con ellos
 
@@ -131,11 +73,11 @@ Vegeta, detrás, se pone rojo otra vez.
 
 ---
 
-## COMANDO 3 (T1631)
+## COMANDO 2 (T1631)
 
 cambio unos fragmentos y compro la foto
 
-## RESPUESTA 3 (T1631)
+## RESPUESTA 2 (T1631)
 
 > cambio unos fragmentos y compro la foto
 
@@ -195,4 +137,66 @@ En el banco, a la sombra, Kase los mira desde lejos. No parece que le interese.
 
 ---
 
-ESTADO AL CIERRE: Trunks tiene la foto. Vegeta: "Me debes una." Goten pide algodón de azúcar para todos: "¿Los gatos comen algodón de azúcar?" Facundo puede actuar.
+## COMANDO 3 (T1632)
+
+no, no come eso, compro algodones de azúcar para todos
+
+## RESPUESTA 3 (T1632)
+
+> no, no come eso, compro algodones de azúcar para todos
+
+> —No, no come eso.
+
+—Ah. —Goten mira a Kase, que bosteza a lo lejos—. Bueno. Más para nosotros.
+
+Vas hasta el puesto. El señor de la máquina tiene bigote blanco, gorro de papel y los brazos rosados de azúcar hasta los codos. Le pides cinco.
+
+[Compra: 5 algodones de azúcar · 1.500 zeni.]
+
+El señor los hace uno por uno, girando el palito adentro de la máquina, y el azúcar se le va enroscando en nubes rosadas, enormes, más grandes que la cabeza de Goten. Goten mira cada vuelta con la boca abierta. Trunks vuelve corriendo apenas los ve, con la foto todavía apretada contra el pecho, y se pone en la fila al lado de Goten como si nada hubiera pasado.
+
+Le das uno a Goten. Uno a Trunks. Uno queda en tu mano para ti. Uno lo guardas en el inventario, entero, para Goku.
+
+El quinto se lo extiendes a Vegeta.
+
+Vegeta lo mira. Mira la nube rosada. Te mira a ti.
+
+—No como esas cosas —dice—. Son para niños.
+
+Se queda con los brazos cruzados. No lo agarra.
+
+Trunks y Goten ya comen, con la cara hundida en el azúcar, las mejillas pegajosas, riéndose. Vegeta los mira de reojo.
+
+Pasan unos segundos.
+
+Vegeta descruza un brazo y te saca el algodón de la mano sin mirarte, rápido, como quien no quiere que lo vean. Se da vuelta. Le da un mordisco de espaldas a todos.
+
+No dice nada. Pero no lo devuelve.
+
+Trunks, con la boca llena de azúcar rosa y la foto en la otra mano, se da vuelta hacia ti.
+
+—¡Ya está! ¡Ya subimos a la montaña rusa! —Tiene azúcar en la nariz—. ¡Papá dijo primero la montaña rusa, y ya subimos! ¡Ahora sí! ¡Ahora la técnica!
+
+—¡La técnica! —Goten levanta su algodón como si fuera una espada—. ¡La técnica, la técnica!
+
+Los dos te miran, pegajosos, con los ojos enormes.
+
+Vegeta, de espaldas, deja de masticar. Gira la cabeza lo justo para mirarte por encima del hombro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1632 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Parque · puesto de algodón de azúcar · tarde ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en un banco, a la sombra               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Algodones para todos (uno guardado para Goku). Trunks y Goten piden la técnica ahora. Vegeta mira. Facundo puede actuar.

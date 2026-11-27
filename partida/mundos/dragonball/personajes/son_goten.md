@@ -52,3 +52,4 @@ ESTADO: bien.
 - T1629 · Pasa la altura justo, en puntas de pie. De la mano de Facundo: "¿Y tú? ¿Subes? Kase te espera en el banco."
 - T1630 · Montaña rusa con Facundo: se le vuela la toalla a la cara en el loop; se ríe hasta ahogarse. "¡Otra vez!"
 - T1631 · "¡Facundo! ¡Algodón de azúcar! ¡Mi papá dijo que le lleváramos! ¡Y yo quiero uno! ¡Y Trunks se le cayó el suyo! ¡Y Kase!" "¿Los gatos comen algodón de azúcar?"
+- T1632 · Algodón de azúcar de Facundo ("Bueno. Más para nosotros."). "¡La técnica, la técnica!"
