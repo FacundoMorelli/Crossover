@@ -3,90 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1591)
-
-dejo 20 bandejas que salgan de la nada sin seguir mintiendo con el abrigo
-
-## RESPUESTA 1 (T1591)
-
-> dejo 20 bandejas que salgan de la nada sin seguir mintiendo con el abrigo
-
-Dejas de buscar en el bolsillo.
-
-Levantas una mano, nada más, y el aire de la explanada se llena de bandejas.
-
-Salen de la nada, una detrás de otra, sin ruido ni luz, como si siempre hubieran estado ahí y recién ahora se dejaran ver. Se acomodan solas en el suelo, en dos filas prolijas, entre los pozos y los surcos de la pelea. Veinte bandejas. Veinte hamburguesas dobles con el queso chorreando, veinte montañas de papas doradas, veinte malteadas de chocolate heladas, transpirando.
-
-[Compra: 20 hamburguesas dobles con queso y papas fritas · 20 Fragmentos.]
-
-[Compra: 20 malteadas de chocolate grandes · 20 Fragmentos.]
-
-El olor llena la explanada de golpe.
-
-Bills mira las bandejas. Después te mira la mano. Después el bolsillo vacío del sobretodo.
-
-—Ya sabía que no era el abrigo —dice, entrecerrando los ojos—. Nadie mete una bandeja caliente en un abrigo.
-
-—Yo tampoco lo creía, Bills-sama —dice Whis.
-
-—Tú le creíste lo del pudín.
-
-—Usted también.
-
-Bills no contesta. Ya está sentado en el suelo, arrastrando bandejas hacia él con la cola. Cuenta en voz alta, en serio, con el dedo: una, dos, tres... hasta diez. Las apila en una torre a su lado y se pone a comer de la de arriba, con los ojos cerrados y las orejas relajadas.
-
-La barrera de Whis se apaga sola, con un suspiro de luz.
-
-Goku entra corriendo antes de que termine de desaparecer.
-
-—¡Gracias, Facundo! —Ya tiene una hamburguesa en cada mano—. ¡Gracias, gracias, gracias!
-
-Se sienta en el suelo y come las dos al mismo tiempo, alternando, con los cachetes llenos y lágrimas de felicidad en los ojos.
-
-Whis camina hasta las bandejas con toda la elegancia del mundo. Elige una, la levanta con las dos manos y le hace una pequeña reverencia.
-
-—Muy amable, Facundo-san.
-
-Se sienta en su silla de playa, que apareció de vuelta a su lado sin que nadie la moviera, y le da un mordisco a la hamburguesa con los ojos cerrados. No dice nada. Se le escapa un sonido mínimo, como un "mm" muy largo. Después saca la libretita y anota algo más, con la boca llena.
-
-Vegeta es el último en moverse. Baja de su roca, camina hasta las bandejas con los brazos cruzados y la mirada en cualquier parte menos en ti. Agarra una. Y otra. No te da las gracias. Se va a sentar otra vez en su roca, de espaldas, y come en silencio, cada vez más rápido.
-
-Kase camina entre las bandejas, despacio, con la cola levantada, y se sienta al lado de la tuya. Te mira. Mira las papas. Te mira otra vez.
-
-Al rato, la explanada está llena de bandejas vacías, vasos sorbidos y migas. Goku se tira de espaldas en el suelo, con la panza inflada.
-
-Bills termina la décima malteada. Se queda mirando la torre de bandejas vacías, satisfecho, con la cola enroscada y los ojos entrecerrados. Bosteza, largo, enorme, enseñando todos los dientes.
-
-—Mañana seguimos —murmura—. A la misma hora. Y quiero esto de desayuno.
-
-Se le cierran los ojos ahí mismo, sentado en el suelo.
-
-Whis se limpia los labios con una servilleta y te mira, con la sonrisa de siempre.
-
-—Facundo-san, tiene la ropa hecha jirones y un corte en las costillas. —Inclina la cabeza—. Hay cuartos de sobra en la pirámide, si desea descansar esta noche. O si prefiere volver a la Tierra, lo llevo. Usted decide.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1591 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada · atardecer                        ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.197 · 0 zeni                  ║
-║ Energía 58% · Ojos: bien · mejilla abierta · ║
-║ corte fino en las costillas                  ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: a tu lado, mirando tus papas           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills sigue mañana       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1592)
+## COMANDO 1 (T1592)
 
 me quedo aqui, simula hasta mañana con bills
 
-## RESPUESTA 2 (T1592)
+## RESPUESTA 1 (T1592)
 
 > me quedo aqui, simula hasta mañana con bills
 
@@ -149,11 +70,11 @@ Bosteza, enorme.
 
 ---
 
-## COMANDO 3 (T1593)
+## COMANDO 2 (T1593)
 
 le compro mas
 
-## RESPUESTA 3 (T1593)
+## RESPUESTA 2 (T1593)
 
 > le compro mas
 
@@ -207,4 +128,76 @@ En su roca, Vegeta descruza los brazos, aunque sigue sin mirarte.
 
 ---
 
-ESTADO AL CIERRE: Bills desayuna sus 10 bandejas. Goku despierto pide hamburguesa; Whis mira en silencio; Vegeta descruza los brazos. Facundo puede actuar.
+## COMANDO 3 (T1594)
+
+dejo mas para los demas
+
+## RESPUESTA 3 (T1594)
+
+> dejo mas para los demas
+
+Levantas la mano una vez más.
+
+[Compra: 8 hamburguesas dobles con queso y papas fritas · 8 Fragmentos.]
+
+[Compra: 8 malteadas de chocolate grandes · 8 Fragmentos.]
+
+Ocho bandejas más salen de la nada y se acomodan en el pasto del borde de la explanada, lejos del semicírculo de Bills, para que nadie tenga que pelearse con su cola.
+
+Goku se queda quieto un segundo. Después se le llenan los ojos de lágrimas.
+
+—¡Facundo! —Te agarra la mano con las dos suyas y la sacude—. ¡Eres el mejor! ¡En serio, el mejor!
+
+Se lleva tres bandejas. Se sienta en el pasto y empieza con las tres al mismo tiempo.
+
+Whis se levanta de la silla de playa, camina hasta las bandejas y elige dos, con cuidado, como quien elige frutas en un mercado. Te hace una reverencia corta.
+
+—Es usted un anfitrión excelente, Facundo-san, en un planeta que ni siquiera es suyo. —Sonríe—. Le voy a pedir la receta algún día.
+
+Vuelve a su silla y come despacio, con servilleta, anotando algo en la libretita entre bocado y bocado.
+
+Vegeta baja de su roca. Camina hasta las bandejas que quedan. Se para delante, con los brazos cruzados. Se queda así un largo rato, mirándolas, como si estuviera decidiendo si su orgullo le permite agarrarlas.
+
+Agarra tres.
+
+Se da vuelta para irse. A los dos pasos se detiene, de espaldas a ti.
+
+—...Gracias —gruñe, tan bajo que casi no se oye.
+
+Y se va a su roca antes de que nadie pueda decir nada.
+
+Goku deja de masticar y lo mira con la boca abierta y llena de papas. Whis levanta las cejas por encima de la taza.
+
+Kase, a tu lado, sigue mirando las papas de Bills.
+
+Al rato no queda nada. Bills termina la décima malteada, sorbe el fondo un rato largo y se queda mirando el vaso vacío, ya sin tristeza, satisfecho. Se pone de pie. Se estira. Mira su ropa de dormir.
+
+—Whis.
+
+—Sí, Bills-sama.
+
+Un golpecito del báculo, y Bills tiene puesta su ropa de siempre: el pantalón ancho blanco, entero otra vez, la faja, los brazaletes dorados. Se le paran las orejas. Se truena el cuello a un lado y al otro, y camina hasta el centro de la explanada.
+
+Whis levanta la barrera de luz alrededor, de nuevo, más gruesa que la de ayer.
+
+Bills se da vuelta y te mira, con la panza llena y los ojos amarillos bien despiertos.
+
+—Ahora sí, muchacho del bolsillo. —Sonríe con todos los dientes—. Y hoy no empiezas con el azul. Empiezas con eso plateado.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1594 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera nueva) · mañana           ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.161 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien · cortes cerrados  ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: a tu lado                              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (tercera ronda)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Desayuno terminado (Vegeta dio las gracias). Bills, vestido, en el centro de la explanada con barrera nueva: "Hoy empiezas con eso plateado." Kase al lado de Facundo (dentro de la barrera). Facundo puede actuar.

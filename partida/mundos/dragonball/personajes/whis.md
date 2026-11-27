@@ -65,3 +65,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1590 · Anota en una libretita: hamburguesa doble con queso, malteada de chocolate, papas. A Facundo: "Una sola, aunque sea. Para un ángel que lleva toda la tarde cuidándole el gato."
 - T1591 · Ve las bandejas salir de la nada ("Yo tampoco lo creía"). Apaga la barrera. Come una hamburguesa con reverencia ("Muy amable, Facundo-san"); anota en su libreta. Ofrece a Facundo un cuarto en la pirámide o llevarlo a la Tierra: "Usted decide."
 - T1591/1592 · Lleva a Facundo a un cuarto de la pirámide; le rehace la ropa con un golpecito del báculo: "La ropa, por lo menos. Las heridas son suyas. Buenas noches." Arregla la explanada de noche. "Buenos días, Facundo-san."
+- T1594 · Toma dos bandejas: "Es usted un anfitrión excelente, Facundo-san, en un planeta que ni siquiera es suyo. Le voy a pedir la receta algún día." Viste a Bills con el báculo; barrera más gruesa.
