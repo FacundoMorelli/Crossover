@@ -34,3 +34,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1696 · AKI, DENJI, POWER saben (por Facundo) que tiene "bastantes" semillas. KOBENI vio a Facundo y a Kase.
 - T1698 · "KUROSE" y "TENDO" (impostores) vieron a Facundo y a Kase; saben que no estaba en la lista.
 - T1700 · KUROSE y TENDO (impostores) saben que es "viajero, de afuera" y que se llama Facundo (por Aki). No saben el apellido.
+- T1703 · (Facundo, por su ki; nadie lo sabe todavía) Los guardias son impostores con pieles robadas; un tercero en el 5.º; los reales muertos bajo el mostrador. AKI no sabe que Facundo usó algo: solo vio que lo miró medio segundo.
