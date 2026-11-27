@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1483)
-
-con mi truco, simula hasta que zarpen todos
-
-## RESPUESTA 1 (T1483)
-
-> con mi truco, simula hasta que zarpen todos
-
-Le tomas la mano a Ymir. Kase, todavía ofendido, te salta al hombro igual.
-
-Historia levanta la taza a modo de despedida. Frieda saluda con la mano.
-
-Dos dedos en la frente. Shiganshina está al sur, al otro lado de Wall Rose, llena de kis conocidos, encendidos como lámparas en una casa grande.
-
-El salón desaparece.
-
-Aparecen en medio de la calle principal de Shiganshina, frente a la casa de los Jaeger. Ymir se tambalea, te aprieta la mano, y suelta una maldición entre dientes.
-
-—Odio esto —dice—. Odio esto con toda mi alma. Hazlo otra vez cuando quieras.
-
-La ciudad no se parece a la que viste hace cincuenta días. Hay gente por todas partes. Mercado en la plaza, chicos corriendo, ropa colgada de ventana a ventana, carretas que entran cargadas por la puerta del sur y salen vacías. La casa de los Jaeger tiene macetas nuevas en la ventana. En la puerta de enfrente, alguien pintó un gato de dos colores con tiza.
-
-Eren está en el techo de la casa, atando sogas a unos baúles. Te ve desde arriba y se le cae la soga.
-
-Los diez días que siguen se van rápido.
-
-Eren no te deja en paz. Quiere saber todo: cómo es el desierto, si el hielo cruje, qué hay más allá de Hizuru. Mikasa te escucha sin decir casi nada, sentada al lado de Eren, con la bufanda roja puesta aunque hace calor. Armin te persigue con un cuaderno lleno de preguntas, escrito en letra apretada por las dos caras de cada hoja. Le contestas algunas. Con cada respuesta, Armin se queda un rato callado, mirando el cuaderno como si le hubieran dado vuelta el mundo. Llegan a la pregunta dieciocho. Ymir le quita el cuaderno y lo esconde en el horno apagado.
-
-Una tarde, en el patio de los Jaeger, los juntas a todos. Eren, Mikasa, Armin, Jean, Connie, Sasha, y los doce soldados que van con ellos. Les repites lo que le dijiste a Erwin: el desierto, el hielo, las montañas de fuego. Y la gente. Nadie hace chistes. Jean asiente muy serio. Sasha deja de comer. Connie le da un codazo a Jean y Jean no se lo devuelve, que en ellos es casi una ceremonia.
-
-Les das los mensajes de Historia. Eren se pone colorado con lo de las cartas. Mikasa se toca la bufanda. Sasha jura por su vida que no va a tocar las raciones el primer día, y Connie apuesta con ella que sí.
-
-Ymir se queda contigo todo el tiempo. Duermen en el cuarto de arriba de la casa Jaeger, el mismo de la otra vez. Carla les deja la cama hecha cada mañana sin decir nada y con una sonrisa que dice todo. Grisha te saluda cada mañana en la cocina. Una tarde lo ves salir con una canasta tapada hacia una casita a dos calles. Vuelve una hora después con la canasta vacía.
-
-La noche antes del viaje, Carla cocina para todos. Son tantos que tienen que sacar la mesa a la calle. Hannes trae vino. Grisha brinda. Zeke no viene, pero alguien deja un plato servido en la puerta de la casita a dos calles, y a la mañana está vacío y lavado.
-
-El día del viaje, salen de madrugada en carretas hacia la costa este.
-
-El puerto nuevo está donde invocaste al dragón: la misma meseta sobre el mar, pero abajo, en la playa, ahora hay un muelle de madera clara, largo, recién hecho, con galpones y grúas de soga. Y amarrado al final del muelle, enorme, negro y blanco, con una chimenea que echa humo gris, el barco de vapor de Marley.
-
-Hay muchísima gente. Toda la Legión que no viaja. Familias de los doce soldados. Gente de Shiganshina que vino en carretas solo para ver. Historia, con capa y sin corona, al lado de Erwin. Frieda. Hange, que llegó en la moto con Levi detrás, sentado con los brazos cruzados y cara de piedra, aunque nadie le pidió que viniera. Carla, que no suelta a Eren hasta el último segundo, y le acomoda la bufanda nueva que le tejió, y le vuelve a acomodar, y le vuelve a acomodar.
-
-Suben de a uno.
-
-Armin sube último. Se da vuelta en la planchada y te mira, con el cuaderno de las preguntas contra el pecho, el que Ymir escondió en el horno y él encontró igual.
-
-El barco suelta las amarras. La sirena suena una vez, larga, grave, y todos en el muelle se callan. La chimenea echa humo. Las ruedas empiezan a girar. El barco se despega del muelle, despacio, y la franja de agua entre la madera y el casco se hace más ancha. Un metro. Tres. Diez.
-
-En la baranda de popa están todos. Connie y Sasha saludan con los dos brazos. Jean saluda con uno, haciéndose el serio. Mikasa no saluda: mira la costa, con la bufanda roja moviéndose con el viento.
-
-Y Eren se sube a la baranda, agarrado de un cabo, con medio cuerpo afuera, el pelo al viento y los ojos encendidos, mirando hacia el muelle. Mirándote a ti.
-
-—¡FACUNDO! —grita, con toda la voz que tiene, por encima de la sirena y del mar—. ¡CUANDO VUELVA, TE VOY A CONTAR TODO LO QUE VI! ¡TODO! ¡Y VAS A TENER QUE ESCUCHARME!
-
-Ymir, a tu lado, te aprieta la mano.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1483 · SHINGEKI · DÍA 129 · 07:10      ║
-║ Costa este de Paradis · muelle del puerto    ║
-║ nuevo                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: — · algo de este mundo para Robin  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1484)
+## COMANDO 1 (T1484)
 
 esta bien, espero con muchas ganas eso eren
 
-## RESPUESTA 2 (T1484)
+## RESPUESTA 1 (T1484)
 
 > esta bien, espero con muchas ganas eso eren
 
@@ -129,11 +56,11 @@ Te aprieta la mano un poco más fuerte.
 
 ---
 
-## COMANDO 3 (T1485)
+## COMANDO 2 (T1485)
 
 hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
 
-## RESPUESTA 3 (T1485)
+## RESPUESTA 2 (T1485)
 
 > hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
 
@@ -181,4 +108,50 @@ Detrás de ustedes, en el muelle, Hange los mira con los anteojos negros de gras
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 129 07:28, muelle de la costa este. Facundo se queda hasta mañana; festejo esta noche a solas con Ymir (no en la casa Jaeger). Facundo puede actuar.
+## COMANDO 3 (T1486)
+
+le susurro vamos a otro lugar, al aire libre
+
+## RESPUESTA 3 (T1486)
+
+> le susurro vamos a otro lugar, al aire libre
+
+Te vuelves a inclinar hacia ella.
+
+> —Vamos a otro lugar. Al aire libre.
+
+Ymir se queda quieta otra vez. Pero esta vez no se pone más colorada, porque ya no le queda dónde. Gira apenas la cabeza, lo justo para mirarte de reojo, desde muy cerca.
+
+—Al aire libre —repite, bajito.
+
+Se le escapa una sonrisa lenta. No la torcida, no la burlona: otra, más chica, que casi nunca deja ver.
+
+—Sesenta años de titán, lindo. Sesenta años al aire libre, comiendo gente y durmiendo en el barro, sin saber quién era. —Se encoge de hombros—. Lo último que me imaginé es que algún día alguien me iba a decir eso para algo bueno.
+
+Mira el mar. Después la meseta, arriba, donde la hierba se mueve con el viento y el cielo es enorme. Después a ti.
+
+Atrás, en el muelle, la gente sigue cargando las carretas. Carla y Grisha suben a la suya. Historia habla con Erwin junto a los galpones. La moto de Hange arranca a la primera, con un rugido, y Levi se agarra del asiento con cara de condenado.
+
+Ymir te toma de la manga del sobretodo y tira un poquito, como si no quisiera que se note.
+
+—¿Y adónde me vas a llevar? —Levanta una ceja—. Conociéndote, no va a ser un prado cualquiera.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1486 · SHINGEKI · DÍA 129 · 07:30      ║
+║ Costa este de Paradis · muelle del puerto    ║
+║ nuevo                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Festejar esta noche con Ymir, al   ║
+║ aire libre · algo para Robin                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 129 07:30, muelle de la costa este. Festejo de esta noche: al aire libre, a solas. Ymir: "¿Y adónde me vas a llevar?" Facundo puede responder.

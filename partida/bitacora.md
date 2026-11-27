@@ -1484,3 +1484,4 @@ T1482 · SHINGEKI · Salón de Historia · "Vienes conmigo." Ymir acepta. Histor
 T1483 · SHINGEKI · Mitras → Shiganshina → costa este · SIMULACIÓN Días 119-129 con la expedición e Ymir. Zarpa el barco de vapor de Marley. Eren: "¡Cuando vuelva, te voy a contar todo lo que vi!"
 T1484 · SHINGEKI · Muelle de la costa este · "¡Lo espero con muchas ganas, Eren!" El barco se pierde. Ymir: "¿Cuánto te quedas tú esta vez, lindo?"
 T1485 · SHINGEKI · Muelle · Se queda hasta mañana; festejo esta noche: "Solos." Ymir, roja: "Está bien. Festejamos. Solos. Pero no en la casa de los Jaeger."
+T1486 · SHINGEKI · Muelle · "Vamos a otro lugar. Al aire libre." Ymir: "¿Y adónde me vas a llevar?"
