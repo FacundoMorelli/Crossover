@@ -1474,3 +1474,4 @@ T1472 · SHINGEKI · Jardines del palacio · Beso a Ymir. "¿Cómo estás, amor?
 T1473 · SHINGEKI · Palacio · Paseo con Ymir de la mano: le cuenta los 53 días (los cuatro de Marley liberados, Zeke se quedó, barcos y puerto, Hizuru, Eren se va al continente en 10 días, radio de Hange con música de Marley). Patio de la moto: Hange lo ve.
 T1474 · SHINGEKI · Patio del ala este · Hange: abrazo con grasa; resultados (radio, invernadero, medicina, antibióticos salvaron a una nena en Trost). Levi: "Tch." Hange: "¿Qué estoy haciendo mal?" con la moto.
 T1475 · SHINGEKI · Patio del ala este · Facundo le explica a Hange el combustible (fracción liviana) y la bujía. La moto arranca: Levi da tres vueltas. "Tch. No está mal."
+T1476 · SHINGEKI · Patio del ala este · Levi le deja la moto ("Si la rompes, te mato"). Caballito de punta a punta; aplausos del palacio. Ymir: "Presumido." Historia, desde el balcón: "¿Facundo?"

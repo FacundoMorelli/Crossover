@@ -210,3 +210,4 @@
 - Facundo · T1474 · Por Hange: brotes en el invernadero, tres copias del libro de medicina, nena de Trost salvada con antibióticos, aceite destilado 20 veces, la moto no anda.
 - Hange, Levi, Ymir · T1475 · Por Facundo: cómo hacer combustible para el motor (fracción liviana) y que la bujía se ensucia de hollín.
 - Medio palacio (ventanas del ala este) · T1475 · Ven/oyen la moto andando; ven a Facundo en el patio.
+- Sirvientas, guardias, cocinero y gente del palacio (ventanas del ala este), Historia · T1476 · Ven a Facundo manejar la moto y hacer un caballito. Lo reconocen ("¡El del gato!").

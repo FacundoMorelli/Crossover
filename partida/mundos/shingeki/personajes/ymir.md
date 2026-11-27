@@ -58,3 +58,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T1472 · Beso: se le cae la canasta; lo agarra de la solapa. "¿Amor? Cincuenta y tres días, lindo. Los conté." Golpe en el pecho. "Estoy bien. Estoy aburrida": Historia en reuniones, Hange no duerme, "el enano" obsesionado con la moto. Le da la manzana más arrugada, la primera que guardó (del día que él se fue): "No la pude tirar." "¿Salvaste otro mundo mientras yo contaba manzanas?"
 - T1473 · Paseo de la mano; "Algo así" = "Eso es un sí. Ya te conozco." Le cuenta los 53 días. Le tira una manzana arrugada a un pato. Al ver que Hange lo reconoce, se tapa los oídos: "Ahí viene."
 - T1475 · Se ríe tanto de la moto que se apoya en el hombro de Facundo.
+- T1476 · Kase se sienta sobre sus manzanas. Ve el caballito, se tapa la boca. "Presumido." Orejas coloradas.

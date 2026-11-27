@@ -39,3 +39,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T1473 · Sentado en la moto: "Dijiste lo mismo las últimas once veces."
 - T1474 · Hange dice que miraba el patio todas las noches esperando a Facundo; "No es cierto." A Facundo: "Tch. Llegaste justo para ensuciarte."
 - T1475 · Frena a Hange: "Primero la pieza de la chispa. Ya lo dijo." Sacrifica su pañuelo blanco. Arranca la moto y da tres vueltas al patio; despeinado por primera vez, no se arregla. A Facundo: "Tch. No está mal."
+- T1476 · "Es tuya. Pero si la rompes, te mato. Y queda medio frasco. No lo gastes en idioteces." Ve el caballito: medio paso atrás. "Una pata. Y si la hubiera roto, lo mataba."

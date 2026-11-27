@@ -40,3 +40,4 @@ ESTADO: activo
 - T969 · Le toma la mano en el balcón. "No tienes que decir nada. Pero si quieres hablarles... están esperando."
 - T970 · "Eso fue más de lo que podría haber dicho yo en una hora."
 - T974 · Saludo de la Legión a Facundo.
+- T1476 · Día 119 07:30 · Se asoma al balcón grande del segundo piso en bata blanca, despeinada, despertada por el motor. Ve a Facundo en la moto: "¿Facundo?"

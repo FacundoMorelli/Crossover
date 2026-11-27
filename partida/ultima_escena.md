@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1473)
-
-algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
-
-## RESPUESTA 1 (T1473)
-
-> algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
-
-> —Algo así. Vamos a caminar. Cuéntame lo que pasó mientras no estuve.
-
-Le agarras la mano. Ymir mira los dedos entrelazados un segundo, como si todavía no se acostumbrara, y después se acomoda la canasta en el otro brazo y empieza a caminar a tu lado por el camino de grava, hacia el ala este.
-
-—"Algo así" —repite, burlona—. Eso es un sí. Ya te conozco.
-
-Camina un rato en silencio. Después empieza a hablar, como habla ella: mirando para adelante, sin orden, con la boca torcida.
-
-—A ver. Lo primero. La semana después de que te fuiste, el comandante soltó a los cuatro de Marley, como te prometió. —Patea otra piedrita—. Annie se fue en el primer barco, derecho a Liberio, a buscar a su papá. Armin fue a despedirla al puerto y volvió con una cara que, te juro, daba pena. Reiner y Bertholdt también se fueron, a ver a Marcel. Reiner lloró en el muelle. Hange lo anotó, como dijo que iba a hacer.
-
-—El barbudo, en cambio, se quedó. —Se encoge de hombros—. Nadie lo entiende. Vive en Shiganshina, en una casita a dos calles de la de los Jaeger. Grisha va a verlo todos los días. Se sientan en la puerta y no hablan. Una hora entera, sin decir nada. Y al otro día vuelve.
-
-Pasan junto a una fuente. Ymir le tira una manzana arrugada a un pato. El pato la ignora.
-
-—Hay barcos —sigue—. De Marley, cada semana. Traen cosas, se llevan cosas. Trigo, carbón, telas. En la costa este están construyendo un puerto, donde invocaste al dragón ese. Y llegó un barco de Hizuru, con la señora de los abanicos. Mikasa fue a verla y volvió con un kimono. —Sonríe de costado—. Nunca la vi tan incómoda.
-
-—Y Eren se va. —Lo dice como quien habla del clima—. En diez días. Con Mikasa, con Armin, y con medio escuadrón de la Legión. Un barco marleyano los lleva al continente. Quieren ver el desierto, el hielo, montañas que echan fuego, no sé qué más. El comandante dijo que sí. La madre de Eren lloró dos días seguidos y después le tejió una bufanda.
-
-Doblan una esquina del palacio. El ruido del motor se oye más fuerte, más cerca: tose, ruge, se ahoga.
-
-—Hange casi no duerme desde que te fuiste. Desarmó la radio esa tuya cuarenta veces. Hizo otra, más grande, con alambre y cosas de la herrería. Y la otra noche... —Se le escapa una risa—. La otra noche gritó tan fuerte que despertó a medio palacio. Había agarrado música. De Marley. Del otro lado del mar. Una mujer cantando, entre ruido. Hange lloraba, Levi le decía que se callara para poder escuchar, y Historia bajó en camisón.
-
-Se para. Te tira de la mano para que te pares también.
-
-Delante de ustedes, en el patio de atrás del ala este, hay un galpón de madera nuevo con las puertas abiertas de par en par, barriles de aceite negro apilados contra la pared y manchas oscuras por todo el suelo. En medio del patio, la moto. Brillante, limpia, demasiado limpia, con todas las piezas que no son de metal envueltas en trapos.
-
-Sentado encima, con las manos en el manubrio y la cara de siempre, Levi.
-
-Arrodillada al lado del motor, con una llave inglesa en una mano, los anteojos llenos de grasa y la cara negra de hollín hasta las orejas, Hange.
-
-—¡Una vez más! —grita Hange—. ¡Esta vez la mezcla es perfecta, lo juro!
-
-—Dijiste lo mismo las últimas once veces —dice Levi.
-
-Hange levanta la vista para contestarle. Y te ve.
-
-Se le cae la llave inglesa.
-
-—¿Fa...?
-
-Ymir se pone detrás de ti. Te suelta la mano para taparse los oídos.
-
-—Ahí viene —murmura.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1473 · SHINGEKI · DÍA 119 · 07:05      ║
-║ Mitras · patio del ala este del palacio      ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ver qué hicieron con lo que les    ║
-║ dio · algo de este mundo para Robin          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1474)
+## COMANDO 1 (T1474)
 
 hola hange
 
-## RESPUESTA 2 (T1474)
+## RESPUESTA 1 (T1474)
 
 > hola hange
 
@@ -129,11 +60,11 @@ Se arrodilla al lado del motor y te mira desde abajo, con los ojos enormes detr�
 
 ---
 
-## COMANDO 3 (T1475)
+## COMANDO 2 (T1475)
 
 le digo lo que esta haciendo mal
 
-## RESPUESTA 3 (T1475)
+## RESPUESTA 2 (T1475)
 
 > le digo lo que esta haciendo mal
 
@@ -208,4 +139,73 @@ Una pausa.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 07:25, patio del ala este. La moto anda. Levi frena frente a Facundo, motor en marcha: "Tch. No está mal." Facundo puede actuar.
+## COMANDO 3 (T1476)
+
+me dejas usarla? la uso y hago caballito con la moto
+
+## RESPUESTA 3 (T1476)
+
+> me dejas usarla? la uso y hago caballito con la moto
+
+> —¿Me dejas usarla?
+
+Levi te mira desde el asiento. Mira la moto. Mira el manubrio, que todavía tiene agarrado con las dos manos.
+
+Tarda bastante.
+
+—Es tuya —dice al fin, y se baja, despacio, como quien deja algo que le costó mucho conseguir—. Pero si la rompes, te mato. Y queda medio frasco. No lo gastes en idioteces.
+
+Te subes.
+
+El asiento todavía está tibio. El motor vibra debajo de ti, parejo, grave, como un animal grande que respira. Kase sale del seto, te mira, mira la moto, y decide que no, que hoy no, y se sube a la canasta de manzanas de Ymir.
+
+Aceleras.
+
+La moto sale disparada por el patio, levantando grava. Hange grita. Das una vuelta, rápida, cerrada, rozando los barriles. Otra, más rápida. El viento te tira el pelo blanco y azul para atrás, el sobretodo se te infla en la espalda. En las ventanas del ala este ya no hay solo cabezas: hay gente asomada hasta la cintura, sirvientas, guardias, un cocinero con un cucharón en la mano.
+
+En la recta frente al galpón, tiras del manubrio y le das toda la potencia.
+
+La rueda de adelante se levanta del suelo.
+
+La moto sigue andando sobre una sola rueda, con la otra en el aire, de punta a punta del patio, con el motor rugiendo como nunca rugió nada en esa isla. Pasas frente a Hange, que se queda con los brazos en alto y la boca abierta y sin sonido. Pasas frente a Levi, que no cambia la cara, pero da medio paso atrás. Pasas frente a Ymir, que se tapa la boca con la mano libre.
+
+La rueda baja. Toca la grava. La moto se sacude una vez y sigue derecha.
+
+Frenas en medio del patio, de costado, dejando un arco de grava en el suelo.
+
+Hay un silencio de un segundo.
+
+Después, desde las ventanas, alguien empieza a aplaudir. Y después todos. Los guardias, las sirvientas, el cocinero del cucharón. Alguien grita "¡El del gato!" y otro contesta "¡Es el del gato!", y el aplauso se hace más fuerte.
+
+—¡Hizo que el caballo de metal se parara en dos patas! —grita Hange, y se le quiebra la voz de pura felicidad—. ¡Levi! ¡¿Viste eso?! ¡En dos patas!
+
+—Una pata —dice Levi—. Y si la hubiera roto, lo mataba.
+
+Ymir se acerca, con Kase sentado muy digno encima de las manzanas. Se para al lado de la moto. Te mira de arriba abajo, con la ceja levantada y las orejas coloradas otra vez.
+
+—Presumido —dice.
+
+Y desde un balcón del segundo piso, el más grande, con una bata blanca sobre los hombros y el pelo rubio suelto, todavía sin peinar, se asoma una chica pequeña, de ojos azules, que se apoya con las dos manos en la baranda y mira el patio con la cara de quien se acaba de despertar por un ruido que nunca había oído.
+
+Te ve.
+
+—¿Facundo? —dice Historia.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1476 · SHINGEKI · DÍA 119 · 07:30      ║
+║ Mitras · patio del ala este del palacio      ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la canasta de manzanas de Ymir      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Ver qué hicieron con lo que les    ║
+║ dio · algo de este mundo para Robin          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 07:30, patio del ala este. Caballito con la moto ante medio palacio. Historia, en bata desde el balcón: "¿Facundo?" Facundo puede actuar.
