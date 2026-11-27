@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1697)
-
-le doy otra semilla a denji y me río
-
-## RESPUESTA 1 (T1697)
-
-> le doy otra semilla a denji y me río
-
-Te ríes y le pones otra semilla en la mano.
-
-Denji la mira como si le hubieras dado un lingote de oro. Cierra el puño encima, despacio, y se la mete en el bolsillo del pecho del traje, el único que no está roto. Le da dos palmaditas al bolsillo.
-
-—¡Trato hecho! —Te pone el chicle aplastado en la palma, solemne, con los dos dedos, como si fuera una moneda de colección—. No está masticado. Bueno, casi no.
-
-Se ríe contigo, con todos los dientes de tiburón a la vista. Una risa fuerte, de chico, que rebota en los muebles rotos.
-
-—Facundo es buena persona —le anuncia a Aki, como si fuera un descubrimiento científico—. Me dio dos. Y no me pidió nada. Bueno, el chicle. Pero el chicle se lo di yo.
-
-Aki se pasa una mano por la cara. Acaba de decirte que no las regales delante de cualquiera.
-
-—Denji no es cualquiera —dice, más para sí mismo que para ti, y suspira—. Es peor.
-
-Power te mira con los ojos entrecerrados, de brazos cruzados, con la lengua todavía un poco afuera por el gusto a pasto.
-
-—Power no quiere más de esas verduras horribles. —Pausa—. Pero si Denji tiene dos, Power también quiere dos. Para tirarlas. Es lo justo.
-
-—Ni siquiera tienes una —le dice Denji.
-
-—¡Power se la comió! ¡Cuenta igual!
-
-Kobeni sigue en la boca de la escalera, con el cuchillo en la mano, mirándote como si fueras un oso que de pronto se puso a repartir caramelos.
-
-La radio de Aki chisporrotea en su cinturón. Una voz de mujer, de la central, entrecortada por la estática. Aki la levanta. Escucha. Contesta con monosílabos: "Sí". "Entendido". "Los cuatro". "Sí, él también". Corta.
-
-—Nos vamos. —Se guarda la radio—. Órdenes de la señorita Makima. Esta noche nadie duerme en su casa: hay un lugar preparado, con guardia. Denji, Power, Kobeni y yo. —Te mira—. Y tú. Ella quiere que estés con nosotros hasta que esto termine, y aceptaste.
-
-Power levanta la cabeza de golpe, como un perro que escuchó la palabra "paseo".
-
-—¿El gato también? —Se le iluminan las pupilas en cruz—. ¿El gato gigante duerme con nosotros? ¿Puede dormir con Power? ¡Power lo va a cuidar! ¡Power es experta en gatos!
-
-Kase la mira desde tu hombro. Bosteza, enorme, mostrando todos los colmillos, sin dejar de mirarla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1697 · CHAINSAW MAN · DÍA 1 · 20:06    ║
-║ Tokio, otoño de 1997                         ║
-║ Mitsukoshi, piso 7 (muebles)                 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, bostezándole a Power     ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Ir al refugio con la División 4    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1698)
+## COMANDO 1 (T1698)
 
 no lo decido yo, lo decide kase eso
 
-## RESPUESTA 2 (T1698)
+## RESPUESTA 1 (T1698)
 
 > no lo decido yo, lo decide kase eso
 
@@ -145,11 +86,11 @@ Cuando el auto se detiene, los dos se acercan a abrir las puertas. Uno es alto y
 
 ---
 
-## COMANDO 3 (T1699)
+## COMANDO 2 (T1699)
 
 soy nuevo
 
-## RESPUESTA 3 (T1699)
+## RESPUESTA 2 (T1699)
 
 > soy nuevo
 
@@ -202,4 +143,57 @@ Kurose se vuelve hacia ti, como si no hubiera pasado nada. Saca una libreta chiq
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:37, lobby del refugio (casi a oscuras). Tendo cerró la puerta con llave y se la guardó. Power olfatea a Kurose: "Este huele raro... como cuando algo está puesto encima de otra cosa." Kurose: "Es la lluvia." Denji tirado en un sillón. Aki con la mano en el bolsillo del saco. Kurose, con libreta y lapicera: habitaciones en el 6.º piso; "Solo necesito su nombre completo para la lista. ¿Es de la oficina de Tokio, o viene de afuera?"
+## COMANDO 3 (T1700)
+
+soy viajero
+
+## RESPUESTA 3 (T1700)
+
+> soy viajero
+
+> —Soy viajero.
+
+La lapicera de Kurose se queda quieta sobre la libreta, un segundo.
+
+—Viajero —repite, sin dejar de sonreír—. De afuera, entonces. —Escribe algo, una sola palabra, con letra muy prolija—. ¿Y su nombre, señor viajero?
+
+—Facundo —contesta Aki por ti, sin sacar la mano del bolsillo—. Es todo lo que necesitas por ahora. Si quieres más, llama a la central.
+
+Kurose levanta la vista hacia Aki. Lo mira un momento. Cierra la libreta con un golpecito suave.
+
+—Por supuesto, Hayakawa-san. Facundo. —Se guarda la libreta—. El ascensor no funciona, disculpen. Es por la escalera.
+
+Suben seis pisos por una escalera angosta, de baldosas verdes gastadas, con un tubo fluorescente que parpadea en cada descanso. Kurose adelante. Tendo atrás de todos, cerrando la fila, sin decir una palabra, con las manos en los bolsillos. Denji sube quejándose de que tiene hambre. Power sube olfateando el aire cada tres escalones y mirando la nuca de Kurose. Kobeni sube pegada a la pared.
+
+Sexto piso. Un pasillo largo, alfombrado de bordó, con manchas viejas, y puertas numeradas a los dos lados. Huele a desinfectante barato. Al fondo, una ventana con la cortina cerrada y una máquina de hielo que zumba.
+
+Kurose se detiene frente a la 604 y abre la puerta con una llave.
+
+—Hayakawa-san, Denji-san y Power-san, aquí: es la más grande, tiene tres camas. Así Denji-san no está solo. —Abre la de al lado—. Higashiyama-san, la 605. —Kobeni mira la puerta como si fuera la boca de un lobo—. Tendo y yo estaremos en la escalera, toda la noche.
+
+Se vuelve hacia ti, con una llave más en la mano. Una llave con un llavero de plástico verde y un número grabado.
+
+—Y usted, señor Facundo, como no lo teníamos previsto, tiene la 612. —Señala con la mano abierta el fondo del pasillo, junto a la ventana de la cortina cerrada y la máquina de hielo, lejos de todos—. Es la única que quedaba preparada. Espero que no le moleste estar un poco apartado.
+
+Te tiende la llave.
+
+Detrás de él, en la puerta de la 604, Power te mira a ti, mira la llave, mira la nuca de Kurose, y vuelve a fruncir la nariz.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1700 · CHAINSAW MAN · DÍA 1 · 20:41    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:41, pasillo del 6.º piso del refugio. Kurose anotó "de afuera"; Aki le dio solo "Facundo". Habitaciones: 604 (Aki, Denji, Power; tres camas), 605 (Kobeni). Kurose y Tendo "en la escalera toda la noche". A Facundo le ofrecen la 612, al fondo, apartada, junto a la ventana y la máquina de hielo; Kurose le tiende la llave (llavero verde). Power desconfía de Kurose.

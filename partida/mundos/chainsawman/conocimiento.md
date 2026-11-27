@@ -33,3 +33,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1695 · DENJI, POWER y AKI saben (por Facundo) su nombre y que es viajero. POWER sintió el efecto de la semilla. AKI dedujo que no es un demonio de curación conocido.
 - T1696 · AKI, DENJI, POWER saben (por Facundo) que tiene "bastantes" semillas. KOBENI vio a Facundo y a Kase.
 - T1698 · "KUROSE" y "TENDO" (impostores) vieron a Facundo y a Kase; saben que no estaba en la lista.
+- T1700 · KUROSE y TENDO (impostores) saben que es "viajero, de afuera" y que se llama Facundo (por Aki). No saben el apellido.
