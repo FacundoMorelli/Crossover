@@ -27,3 +27,4 @@ ESTADO: bien.
 - T1500 · Facundo se queda hasta después del cumpleaños de Bulma. "Entonces comes bien estos días. Estás flaco. Todos los que viajan vuelven flacos." Oreja colorada. Goten dibujó al gato unas cuarenta veces (pegados en su cuarto). A Goku: "Mañana tú aras el campo norte. A las seis." Acepta que Facundo lo ayude: "El campo norte y el campo de abajo. Los dos. Antes del mediodía. Si terminan, entrenan. Si no, nada."
 - T1501 · "A las seis. Los dos. Y si llegan tarde, no hay desayuno." "¡Goten! ¡Estás empapando toda la casa!"
 - T1503 · "¡Goten! ¡Ven a cambiarte esos pantalones! ¡Y después la tarea de matemáticas!"
+- T1505 · Cocina para diez. Cucharonazo a Goku por hablar con la boca llena. Inspecciona los campos: "Está bien... Está muy bien, en realidad. Mejor que nunca. Mejor que cuando lo haces tú solo en dos días." "Entonces entrenan. Pero lejos. Si me rompen una sola teja, mañana aran el campo del vecino."

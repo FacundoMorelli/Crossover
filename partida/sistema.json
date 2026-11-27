@@ -1,8 +1,8 @@
 {
-  "turno": 1504,
+  "turno": 1505,
   "mundo_actual": "dragonball",
-  "fecha_local": "Dragon Ball: año ~777/778 (R14: Bills en el cumpleaños de Bulma, el sábado, en 4 días)",
-  "hora": "año ~777, 13:12",
+  "fecha_local": "Dragon Ball: año ~777/778 (R14: Bills en el cumpleaños de Bulma, el sábado, en 3 días)",
+  "hora": "año ~777, día siguiente, 09:45",
   "edad": 18,
   "nivel": 30,
   "exp": 337130,
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 90,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

@@ -82,3 +82,4 @@
 - Goten · T1502 · Sabe (por Goku/Milk o por lo visto) que Facundo va a "lugares" lejanos.
 - Goten · T1503 · Ve a Facundo hacer desaparecer el dibujo con las manos (inventario dimensional): lo entiende como "guardado donde no se pierde".
 - Goten · T1504 · Por Facundo: le va a enseñar algo (secreto para Trunks).
+- Milk, Goku · T1505 · Ven a Facundo levantar todas las piedras del campo a la vez sin tocarlas (la Luna) y el tronco con una mano.

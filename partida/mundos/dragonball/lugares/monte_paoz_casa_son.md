@@ -4,3 +4,4 @@ VISITAS: T210 (llega de noche con Gohan y Goten; lo recibe Milk).
 Casita de estudio de Gohan: escritorio, estantes con libros, una cama angosta, ventana al arroyo. Facundo duerme ahí (T213).
 - T1497 · Año ~777 mediodía · Facundo llega con Goku por teletransportación. La casita de al lado sigue en pie (maceta nueva).
 - T1499 · Cocina con fotos nuevas: boda de Gohan y Videl frente a la mansión de Mr. Satán (Satán llorando), Goten con uniforme escolar, Goku en una hamaca.
+- T1505 · Campos norte y de abajo arados por Goku (ki) y Facundo (Luna: piedras en una montaña prolija; tronco viejo junto a la casa para leña; raíces apiladas).

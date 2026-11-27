@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1502)
-
-no, no puede, que yo sepa
-
-## RESPUESTA 1 (T1502)
-
-> no, no puede, que yo sepa
-
-> —No, no puede. Que yo sepa.
-
-Goten se queda quieto con la boca abierta, todavía agarrado de tu manga.
-
-—¿No? —Mira a Kase. Kase lo mira a él—. ¿Ni un poquito?
-
-Kase bosteza.
-
-Goten se lo piensa un segundo, con la cara muy arrugada. Después se encoge de hombros, y la desilusión se le va de la cara tan rápido como vino.
-
-—Bueno. En el dibujo sí puede.
-
-Y te arrastra por el pasillo.
-
-El cuarto de Goten es chico, desordenado, con una cama deshecha, ropa en el suelo, un uniforme de escuela tirado en una silla y una mochila que parece no haberse abierto nunca. Pero la pared de enfrente de la cama está tapada de dibujos. De punta a punta, del piso hasta donde llega un chico de diez años parado en puntas de pie. Pegados con cinta, uno encima del otro, de colores.
-
-Todos son de Kase.
-
-Kase durmiendo sobre un pastel. Kase con una capa roja, volando por encima de las montañas. Kase comiendo un pescado más grande que la casa. Kase peleando contra Buu, que llora. Kase con el pelo dorado y en punta, con rayos alrededor, rodeado de estrellas, y abajo, en letras torcidas: "KASE SUPER SAIYAJIN 4". Kase al lado de un chico de pelo blanco y azul con un sobretodo negro, los dos de la mano, aunque Kase no tenga manos.
-
-En algunos hay un chico de pelo negro en punta, chiquito, en una esquina, saludando.
-
-Goten se para en el medio del cuarto, con los brazos abiertos, orgulloso.
-
-—¡Son cuarenta y tres! —dice—. Los conté. Mamá dice que son cuarenta, pero son cuarenta y tres.
-
-Kase entra al cuarto detrás de ustedes. Se sienta en el medio del piso. Levanta la cabeza y mira la pared, despacio, de un lado al otro, como un crítico en una exposición.
-
-Goten arranca uno de la pared con cuidado. El de los dos de la mano. Lo alisa contra la rodilla, porque se le dobló una punta, y te lo extiende con las dos manos.
-
-—Este es el mejor. —Lo dice muy serio—. Te lo regalo. Pero tienes que guardarlo bien. Y no lo puedes perder en ninguno de esos lugares a donde vas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1502 · DRAGON BALL · AÑO 777 · 13:05   ║
-║ Monte Paoz · cuarto de Goten                 ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · Palmas vendadas   ║
-║ Velo: persona común                          ║
-║ Kase: sentado mirando los dibujos            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Arar con Goku mañana a las 6 ·     ║
-║ fiesta de Bulma el sábado                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1503)
+## COMANDO 1 (T1503)
 
 esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
 
-## RESPUESTA 2 (T1503)
+## RESPUESTA 1 (T1503)
 
 > esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
 
@@ -113,11 +56,11 @@ Levanta la cabeza. Te mira desde abajo, con la barbilla apoyada en tu pecho, y b
 
 ---
 
-## COMANDO 3 (T1504)
+## COMANDO 2 (T1504)
 
 esta bien goten algo se me va a ocurrir para enseñarte
 
-## RESPUESTA 3 (T1504)
+## RESPUESTA 2 (T1504)
 
 > esta bien goten algo se me va a ocurrir para enseñarte
 
@@ -156,4 +99,67 @@ La casa se queda en silencio. Solo se oye a Milk en la cocina, la olla, el arroy
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 13:12, cuarto de Goten. Facundo prometió enseñarle algo a Goten (sorpresa para Trunks). Tarde tranquila; Goku duerme en la hamaca; mañana a las 6, arar. Facundo puede actuar.
+## COMANDO 3 (T1505)
+
+simula hasta que terminemos de trabajar
+
+## RESPUESTA 3 (T1505)
+
+> simula hasta que terminemos de trabajar
+
+La tarde pasa despacio.
+
+Goku duerme en la hamaca hasta que el sol se pone, y se despierta solo cuando huele la cena. Milk hace comida para diez, que en esa casa es comida para tres. Goten termina las tablas de multiplicar a las apuradas, con la mitad mal, y se pasa la cena tirándole pedacitos de pescado a Kase por debajo de la mesa. Kase los atrapa todos sin moverse de la silla. Goku cuenta, con la boca llena, cómo recibiste el Kamehameha con las manos, y lo cuenta tres veces, cada vez más exagerado. A la tercera, el Kamehameha era del tamaño de la luna. Milk le pega con el cucharón para que mastique con la boca cerrada.
+
+Duermes en la casita de al lado. Las sábanas huelen a jabón y a sol. Kase se echa en el medio de la cama, como en todos los mundos.
+
+A las cinco y media de la mañana, Goku golpea la puerta de la casita. Tiene puesta la ropa de trabajo, un sombrero de paja de granjero y la cara de alguien a quien llevan al dentista.
+
+El campo norte es grande. El de abajo, más todavía. Tierra dura, llena de piedras, raíces y un tronco viejo caído en el medio que nadie movió en años.
+
+Goku agarra el arado con las dos manos, como Milk le enseñó, y empieza a tirar. Muy despacio. Muy derecho. Muy aburrido.
+
+Después de diez minutos, se da vuelta hacia ti con cara de desesperación.
+
+A los veinte minutos, el arado ya no lo tira nadie: lo empujan con ki. Goku traza los surcos con una ráfaga de energía a ras del suelo, derechos como reglas, y tú vas detrás, levantando las piedras con la Luna y apilándolas en un costado del campo, todas a la vez, en una montaña prolija. El tronco viejo lo levantas con una mano y lo dejas junto a la casa, para leña. Las raíces salen solas, arrancadas de un tirón con un hilo de gravedad. Kase camina por los surcos recién hechos, en línea recta, como si los inspeccionara.
+
+A las ocho, el campo norte está arado. A las diez menos cuarto, el de abajo también.
+
+Milk sale de la casa con los brazos cruzados y recorre los dos campos, surco por surco, sin decir nada. Se agacha. Agarra un puñado de tierra. Lo deshace entre los dedos. Mira la montaña de piedras, el tronco, las raíces apiladas.
+
+Se para delante de los dos. Goku tiene el sombrero de granjero en las manos, como un alumno esperando la nota.
+
+—Está bien —dice Milk.
+
+Una pausa larguísima.
+
+—Está muy bien, en realidad. —Se le escapa algo parecido a una sonrisa, y lo esconde enseguida—. Mejor que nunca. —Mira a Goku—. Mejor que cuando lo haces tú solo en dos días.
+
+—¡Entonces...!
+
+—Entonces entrenan. —Milk levanta un dedo—. Pero lejos. Si me rompen una sola teja, mañana aran el campo del vecino.
+
+Se da vuelta y vuelve a la casa.
+
+Goku tira el sombrero de granjero al aire. No le cae a nadie en la cara esta vez. Se da vuelta hacia ti con los ojos brillantes y los puños apretados, temblando de ganas.
+
+—¡Terminamos! —grita—. ¡Y son las diez de la mañana! ¡Tenemos todo el día!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1505 · DRAGON BALL · AÑO 777 · 09:45   ║
+║ Monte Paoz · campo de abajo                  ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en un surco, inspeccionando            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Goku · enseñarle algo ║
+║ a Goten · fiesta de Bulma el sábado          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, día 2 de la vuelta, 09:45, campo de abajo del Monte Paoz. Arado terminado; Milk aprueba; pueden entrenar lejos. Goku: "¡Tenemos todo el día!" Fiesta de Bulma en 3 días. Facundo puede actuar.
