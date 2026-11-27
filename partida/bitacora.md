@@ -1622,3 +1622,4 @@ T1620 · DRAGON BALL · Capital del Oeste · Nombres a Erasa (Kase, Facundo More
 T1621 · DRAGON BALL · Capital del Oeste · Bills y Whis van a la cena. Milk, pálida, cocinará "para un dios". Bulma: Erasa no sabe nada; "¿Le aviso de los invitados especiales?"
 T1622 · DRAGON BALL · Capital del Oeste · Bulma avisa a Erasa a medias (amigos especiales; "no le digas que parece un gato"). Erasa: "Ok, confío." Llega Goten: "¿Le ganaste al señor Bills? ¿Me enseñas?" Quiere agarrar a Kase.
 T1623 · DRAGON BALL · Capital del Oeste · Le da Kase a Goten (Kase se deja, serio). Goten: "¿Le ganaste al señor Bills? ¿Me enseñas a hacer el punto negro?"
+T1624 · DRAGON BALL · Capital del Oeste · "No puedo enseñarte eso, Goten." Goku: "Ni yo, ni el señor Bills." Goten: "¡Entonces enséñame otra cosa! ¡Así le gano a Trunks!"

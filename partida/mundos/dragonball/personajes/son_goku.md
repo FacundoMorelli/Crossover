@@ -143,3 +143,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1614 · Vuelve a la Tierra; se esconde detrás de Whis del cucharón de Milk.
 - T1616 · Milk lo manda a buscar a Goten; quiere ayudar a cocinar (Milk: no).
 - T1622 · Llega con Goten bañado: "¡Ya está! ¡Se bañó! ¡Milk! ¡Se bañó!" Le contó a Goten que Facundo le ganó a Bills.
+- T1624 · A Goten: "Yo tampoco puedo hacerlo. Ni el señor Bills. Ni Whis. Es una cosa de Facundo, nada más. Y no le digas que te dije eso, que se enoja."

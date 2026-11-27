@@ -164,3 +164,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1617 · Le clava una uña a la camisa blanca nueva de Facundo; deja un hilo suelto.
 - T1618 · Mira directo a la cámara en la foto para Erasa, serio y arrogante, como juzgándola.
 - T1623 · Facundo se lo pasa a Goten: cuelga quieto, serio, sin uñas; mira a Facundo ("te lo voy a cobrar"); después apoya la cabeza en el hombro de Goten.
+- T1624 · Apretado por Goten, suelta un ruidito de queja por la nariz; lo mira con resignación cuando lo sacude.
