@@ -31,3 +31,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1693 · KOBENI y DENJI vieron a Facundo y a Kase (aspecto). POWER sabe (visto) que Kase es "de verdad" y le pega.
 - T1694 · DENJI, AKI y POWER VIERON: una semilla aparece entre los dedos de Facundo (sacada del inventario) y cura a Denji del todo al instante.
 - T1695 · DENJI, POWER y AKI saben (por Facundo) su nombre y que es viajero. POWER sintió el efecto de la semilla. AKI dedujo que no es un demonio de curación conocido.
+- T1696 · AKI, DENJI, POWER saben (por Facundo) que tiene "bastantes" semillas. KOBENI vio a Facundo y a Kase.

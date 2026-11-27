@@ -1694,3 +1694,4 @@ T1692 · CHAINSAW MAN · avenida Mitsukoshi · "Soy Facundo, un viajero." Aki de
 T1693 · CHAINSAW MAN · Mitsukoshi · Kase le pega un coletazo a Power. Suben. Kobeni escondida en el 6. Piso 7: Denji sin sangre: "¿Alguien tiene sangre?"
 T1694 · CHAINSAW MAN · Mitsukoshi piso 7 · Semilla del ermitaño a Denji: curado del todo. Aki: "¿Qué le diste?" Denji: "¿Tienes más?" Power: "¡Power también quiere!"
 T1695 · CHAINSAW MAN · Mitsukoshi piso 7 · Semilla a Power: "¡Es pasto! ¡Power odia las verduras!" "Me llamo Facundo. Soy un viajero." Aki: "¿Cuántas tienes de esas?"
+T1696 · CHAINSAW MAN · Mitsukoshi piso 7 · "Tengo bastante de esas." Aki casi nombra a Himeno. Kobeni: "¡Tiene un gato de asesino!" Denji: "¿Me das otra? Te la cambio por este chicle."

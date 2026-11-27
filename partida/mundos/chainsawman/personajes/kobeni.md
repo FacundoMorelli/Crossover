@@ -14,3 +14,4 @@ ESTADO: custodia a Denji.
 ENCUENTROS:
 - T1693 · Día 1 19:57 · Escondida en el piso 6 de Mitsukoshi (perfumería) con un cuchillo. Grita al verlos. "¡Arriba! ¡Se cayó del techo, rompió la vidriera, los cortó a todos, y después se cayó y no se movió más! ¡Yo me quiero ir a mi casa!" Ve a Facundo y a Kase y grita otra vez. QUÉ SABE: aspecto de Facundo y el gato.
 - T1695 · Desde la escalera: "¿Aki? ¿Ya está? ¿Puedo subir? ¿Ya no hay muñecos? ¿Por qué grita Power?"
+- T1696 · Sube al piso 7. "¡Denji! ¡Estás vivo!" A Facundo: "¿Q... quién es él? ¿Es un asesino? ¡Aki, es un asesino, ¿no?! ¡Tiene cara de asesino! ¡Tiene un gato de asesino!" Tasación: reflejos y agilidad excepcionales; amenaza baja.
