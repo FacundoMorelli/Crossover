@@ -220,3 +220,4 @@
 - Eren, Mikasa, Armin, Jean, Connie, Sasha y 12 soldados · T1483 · Por Facundo: los consejos (desierto, hielo, montañas de fuego, la gente). Por Facundo: los mensajes de Historia.
 - Ymir · T1483 · Viaja por teletransportación con Facundo (lo siente en el cuerpo).
 - Gente de Shiganshina · T1483 · Ven a Facundo e Ymir aparecer de la nada en la calle principal; alguien pintó un gato de dos colores en una puerta.
+- Ymir · T1485 · Por Facundo: se va mañana (Día 130); tiene algo que hacer.

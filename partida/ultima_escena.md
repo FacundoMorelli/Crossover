@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1482)
-
-vienes conmigo
-
-## RESPUESTA 1 (T1482)
-
-> vienes conmigo
-
-> —Vienes conmigo.
-
-Ymir no contesta enseguida.
-
-Se queda con la barbilla apoyada en los brazos, mirándote de costado. Después la sonrisa torcida se le estira de a poco, despacio, hasta que ya no es torcida, y se le suben las orejas al rojo una vez más.
-
-—Bueno —dice, como si le hubieras pedido un favor enorme—. Si insistes.
-
-Se levanta. Se sacude las migas de la camisa. Le roba a Kase el último pedazo de huevo del plato de porcelana, y Kase la mira con un odio tan profundo que la sirvienta da un paso atrás.
-
-Historia las mira a las dos, a Ymir y a ti, con la taza de té en las manos y una sonrisa que intenta disimular y no puede.
-
-—Llévatela —dice—. Hace semanas que se pasea por el palacio como un perro sin dueño. Ayer le contó las ventanas al ala oeste. Dos veces.
-
-—Ciento doce —dice Ymir.
-
-—Y dile a Eren que si no me escribe una carta desde cada puerto, lo mando a buscar con Levi. —Historia deja la taza—. Y a Mikasa que se lleve la bufanda. Y a Sasha que no se coma las raciones del barco el primer día.
-
-Frieda se ríe por lo bajo, tapándose la boca.
-
-Ymir se para a tu lado. Se acomoda la camisa. Se ata mejor el pelo. Después te mira de arriba abajo, con la ceja levantada.
-
-—¿Y cómo vamos? —Señala con la cabeza hacia la ventana, hacia el patio del ala este, donde a lo lejos se oye a Hange cantando sola junto al motor apagado—. ¿En el caballo de metal del enano, o con tu truco de aparecer en todos lados?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1482 · SHINGEKI · DÍA 119 · 09:17      ║
-║ Mitras · palacio · salón de Historia         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la mesa, ofendido                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ir a Shiganshina con Ymir ·        ║
-║ algo de este mundo para Robin                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1483)
+## COMANDO 1 (T1483)
 
 con mi truco, simula hasta que zarpen todos
 
-## RESPUESTA 2 (T1483)
+## RESPUESTA 1 (T1483)
 
 > con mi truco, simula hasta que zarpen todos
 
@@ -125,11 +76,11 @@ Ymir, a tu lado, te aprieta la mano.
 
 ---
 
-## COMANDO 3 (T1484)
+## COMANDO 2 (T1484)
 
 esta bien, espero con muchas ganas eso eren
 
-## RESPUESTA 3 (T1484)
+## RESPUESTA 2 (T1484)
 
 > esta bien, espero con muchas ganas eso eren
 
@@ -178,4 +129,56 @@ Te aprieta la mano un poco más fuerte.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 129 07:25, muelle de la costa este. El barco se perdió en el horizonte. Ymir: "¿Cuánto te quedas tú esta vez, lindo?" Facundo puede responder.
+## COMANDO 3 (T1485)
+
+hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
+
+## RESPUESTA 3 (T1485)
+
+> hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
+
+> —Hasta mañana. Me gustaría quedarme más, pero tengo algo que hacer. Vamos a festejar esta noche.
+
+Ymir hace una mueca. La boca se le tuerce hacia un costado, como si fuera a decir algo filoso. Abre la boca para decirlo.
+
+Te inclinas hacia su oreja.
+
+> —Solos.
+
+Ymir cierra la boca.
+
+No dice nada. Se queda quieta, con la cara a un palmo de la tuya y los ojos clavados en el mar. Y la oreja que tienes al lado, la misma donde acabas de susurrar, se le pone tan roja que parece que va a echar humo. Después la otra. Después el cuello. Las pecas desaparecen en la cara colorada.
+
+Kase, desde tu hombro, la mira con mucho interés.
+
+—Hasta mañana —dice Ymir al fin, todavía mirando el mar, con la voz más baja de lo que le gustaría—. Un día. Te vas mañana y apareces cuando se te dé la gana, con cincuenta días de atraso y otro mundo salvado en el bolsillo.
+
+Te suelta la mano. Se cruza de brazos. Se da vuelta para que no le veas la cara, que es peor, porque ahora le ves la nuca roja.
+
+—Está bien. Festejamos. —Una pausa—. Solos.
+
+Lo repite como si lo estuviera probando. Después se le escapa una risa corta por la nariz, y se da vuelta otra vez, con la ceja levantada y la sonrisa torcida de vuelta en su lugar, aunque las orejas no se le enfrían.
+
+—Pero no en la casa de los Jaeger, lindo. Carla nos deja la cama hecha todas las mañanas y no pienso darle más motivos para sonreír así.
+
+Detrás de ustedes, en el muelle, Hange los mira con los anteojos negros de grasa, el trapo en la mano, y una sonrisa enorme. Levi la agarra del cuello de la camisa y se la lleva hacia la moto antes de que diga nada.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1485 · SHINGEKI · DÍA 129 · 07:28      ║
+║ Costa este de Paradis · muelle del puerto    ║
+║ nuevo                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Festejar esta noche con Ymir;      ║
+║ irse mañana · algo para Robin                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 129 07:28, muelle de la costa este. Facundo se queda hasta mañana; festejo esta noche a solas con Ymir (no en la casa Jaeger). Facundo puede actuar.

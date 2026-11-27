@@ -39,3 +39,4 @@ ESTADO: activo
 - T1477 · "¡Perdón, Majestad!" (sin arrepentimiento).
 - T1483 · Llega al puerto en la moto, con Levi detrás.
 - T1484 · Llora en el muelle, se suena con un trapo lleno de grasa.
+- T1485 · Mira a Facundo e Ymir con una sonrisa enorme; Levi se la lleva del cuello hacia la moto.
