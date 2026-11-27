@@ -1708,3 +1708,4 @@ T1706 · CHAINSAW MAN · refugio, 6.º piso · "Abajo están los verdaderos Kuro
 T1707 · CHAINSAW MAN · refugio, 6.º piso · "Hola, señorita Makima." Makima agradece; desayuno mañana y paga. "¿Cómo lo supo, señor Morelli?"
 T1708 · CHAINSAW MAN · refugio, 6.º piso · "Los sentí, nada más." Makima: "Me gusta mucho eso. Cuide a Denji por mí." Denji: "¿Sentiste a Pochita?" Power: "¿Y a Power?"
 T1709 · CHAINSAW MAN · refugio, 6.º piso · "¿Pochita es eso dormido que tienes adentro?" Denji cuenta su historia. "¿Está bien? ¿Está contento?"
+T1710 · CHAINSAW MAN · refugio, 6.º piso · "Pochita está tranquilo y contento." Denji emocionado; Power le regala el sándwich. Llega Kishibe: "Así que tú eres el del gato. Makima no habla de nadie."

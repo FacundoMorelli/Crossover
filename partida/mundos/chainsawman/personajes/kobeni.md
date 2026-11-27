@@ -21,3 +21,4 @@ ENCUENTROS:
 - T1705 · Se pone verde viendo a Denji comer al lado de un asesino dormido.
 - T1706 · "¿Los de verdad? ¿Están... abajo? ¿Acá? ¿En el hotel?"
 - T1708 · "Yo no quiero saber qué se siente de mí. Por favor no me digas."
+- T1710 · Llora sin ruido con la historia de Denji. Queda despierta en el umbral vigilando a los asesinos.

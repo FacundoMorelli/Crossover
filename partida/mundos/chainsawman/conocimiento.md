@@ -43,3 +43,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1707 · MAKIMA dedujo (por el reporte de Aki) que Facundo percibe cosas a distancia sin verlas (impostores, tercero, cuerpos).
 - T1708 · MAKIMA, AKI, DENJI, POWER, KOBENI saben (por Facundo) que "siente" a las personas, a través de paredes y pisos.
 - T1709 · Facundo sabe (por Denji) la historia de Pochita. DENJI sabe que Facundo sintió a Pochita dentro de él.
+- T1710 · KISHIBE sabe (por Makima, por teléfono) lo que ella sabe de Facundo; lo ve en persona (aspecto, gato). DENJI sabe (por Facundo) que Pochita está tranquilo y contento.

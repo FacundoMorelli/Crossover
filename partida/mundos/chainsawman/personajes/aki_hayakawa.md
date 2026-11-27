@@ -27,3 +27,4 @@ ENCUENTROS:
 - T1705 · Deduce: "Piel. Les sacaron la piel. A los de Kioto. Y se la pusieron." Deduce que Facundo sabía antes de abrir y que supo dónde estaba el tercero sin verlo. "Así que te voy a preguntar una sola cosa, y después llamo a la central. ¿Hay más?" RELACIÓN: hace cuentas; ya no desconfianza simple.
 - T1706 · Sabe (por Facundo) que no hay nadie más y que los reales Kurose y Tendo están abajo (muertos, lo deduce). Reporta a la central (refugio de la calle Kanda): impostores neutralizados vivos, reales muertos en el lobby, pide recolección e interrogatorio, que nadie de Kioto se acerque; dice que fue "él" (Facundo). Le pasa la radio a Facundo por pedido de Makima.
 - T1708 · Apaga la radio. "Mañana a la mañana. Desayuno con la señorita Makima. No le pasa a mucha gente."
+- T1710 · Desvía la mirada, mandíbula apretada, con lo de Pochita. Fuma un cigarrillo seco del saco de Kurose.

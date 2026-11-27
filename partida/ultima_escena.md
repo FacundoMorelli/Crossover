@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1707)
-
-lo agarro, hola señorita makima
-
-## RESPUESTA 1 (T1707)
-
-> lo agarro, hola señorita makima
-
-Agarras la radio. Pesa más de lo que parece. Está tibia de la mano de Aki.
-
-> —Hola, señorita Makima.
-
-—Señor Morelli. —La voz llega limpia, sin estática, suave como si te hablara al oído—. Ya van dos veces esta noche.
-
-Una pausa corta. Del otro lado no se oye nada más: ni ruido de oficina, ni teléfonos, ni pasos. Solo ella.
-
-—Primero la avenida. Ahora esto. —Lo dice sin apuro, como quien repasa una lista de compras—. Tres asesinos extranjeros, con la piel de dos de mis hombres puesta encima, a una puerta de distancia de Denji. Y usted los durmió a los tres sin despertar a nadie. Aki me dice que ni siquiera abrió la puerta. —Otra pausa—. Gracias. De verdad.
-
-En el pasillo, Denji te mira con la boca abierta. Power se chupa la mayonesa de los dedos, mirándote de reojo. Aki está apoyado en la pared, con los brazos cruzados, escuchando.
-
-—Le debo una explicación y una paga —sigue Makima—. Mañana a la mañana le mando un auto. Quiero que desayunemos juntos, usted y yo, y que me diga cuánto quiere cobrar. Cualquier número. Y que me cuente, si le parece bien, algunas cosas que me tienen con mucha curiosidad. —Se oye algo que podría ser una sonrisa—. No muchas. Algunas.
-
-La estática chisporrotea un instante y vuelve a callarse.
-
-—Pero antes, una sola pregunta, porque me la estoy haciendo desde que Aki habló. —La voz baja un poco más, casi un susurro—. Antes de abrir, usted ya sabía que eran impostores. Sabía dónde estaba el tercero. Sabía dónde estaban los cuerpos, en un piso que no había pisado.
-
-Silencio.
-
-—¿Cómo lo supo, señor Morelli?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1707 · CHAINSAW MAN · DÍA 1 · 20:58    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1708)
+## COMANDO 1 (T1708)
 
 los senti nada mas
 
-## RESPUESTA 2 (T1708)
+## RESPUESTA 1 (T1708)
 
 > los senti nada mas
 
@@ -107,11 +60,11 @@ Kobeni, en la puerta, se encoge más, abrazándose.
 
 ---
 
-## COMANDO 3 (T1709)
+## COMANDO 2 (T1709)
 
 pochita es como se llama eso dormido que tienes dentro?
 
-## RESPUESTA 3 (T1709)
+## RESPUESTA 2 (T1709)
 
 > pochita es como se llama eso dormido que tienes dentro?
 
@@ -158,4 +111,78 @@ Se inclina un poco hacia ti.
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:03, pasillo del 6.º piso. Denji le contó a Facundo la historia de Pochita (su perro demonio motosierra; deuda; la yakuza lo mató; Pochita se volvió su corazón a cambio de que viva una vida normal y se la muestre). "Nunca más lo vi. Pero tú lo sentiste." Pregunta, bajito: "¿Está bien? Allá adentro. ¿Está contento?"
+## COMANDO 3 (T1710)
+
+si, esta tranquilo y contento, durmiendo
+
+## RESPUESTA 3 (T1710)
+
+> si, esta tranquilo y contento, durmiendo
+
+> —Sí. Está tranquilo y contento. Durmiendo.
+
+Denji no dice nada enseguida.
+
+Se queda mirándote con la boca un poco abierta. Después baja la vista a su propio pecho, a la mano apoyada encima de la cuerda. Le cambia la cara de a poco: se le aflojan las cejas, se le estira la boca, y se le pone una sonrisa enorme, torcida, de chico, con todos los dientes de tiburón, que no se parece a ninguna de las que tuvo en toda la noche.
+
+—Qué bueno —dice, muy bajito. Y después, más fuerte, a nadie, con la voz un poco rota—: ¡Qué bueno, Pochita! ¡Duerme todo lo que quieras!
+
+Se frota la nariz con el dorso de la mano, rápido, de un lado y del otro.
+
+—No estoy llorando —anuncia—. Es la mayonesa.
+
+Power lo mira un momento, con los ojos en cruz entrecerrados. Después, sin decir nada, se sienta a su lado en la alfombra, hombro con hombro, y le pone en la mano el último sándwich de la bandeja. El de huevo. El bueno.
+
+—Power te lo regala —dice, mirando para otro lado—. Solo esta vez. Porque Power es generosa.
+
+Denji se lo come en dos bocados.
+
+Aki, en la pared, desvía la mirada hacia la ventana del fondo del pasillo, con la mandíbula apretada. Kobeni, en la puerta, llora sin hacer ruido, abrazada al cuchillo.
+
+Pasan quince minutos. Denji y Power se quedan dormidos ahí mismo, en la alfombra del pasillo, uno contra el otro, al lado de la bandeja vacía, con la tele de la 604 todavía prendida adentro. Kobeni se sienta en el umbral, despierta, con los ojos clavados en los tres asesinos de la pared. Aki fuma por fin un cigarrillo seco que encontró en el saco de Kurose.
+
+A las nueve y veinte se oyen pasos en la escalera. Muchos. Botas.
+
+Aparece primero un hombre alto, de unos cincuenta años, con el pelo canoso, cicatrices viejas cruzándole la cara, aros en las orejas y una petaca de metal en la mano. Camina sin apuro, un poco encorvado, como si le dolieran todos los huesos y no le importara. Detrás de él suben seis agentes de traje, con camillas plegadas y esposas.
+
+El hombre se detiene en el último escalón. Mira a los tres de la pared. Mira a Denji y Power dormidos en la alfombra. Mira a Aki.
+
+—Hayakawa.
+
+—Kishibe-san.
+
+Después te mira a ti. Al pelo, a los ojos, al gato en tus brazos. Toma un trago largo de la petaca sin dejar de mirarte.
+
+—Así que tú eres el del gato. —La voz es seca, rasposa, sin ningún interés aparente—. Makima no paraba de hablar de ti por teléfono. Y Makima no habla de nadie.
+
+```
+╔══════════════════════════════════════════════╗
+║ KISHIBE                                      ║
+║ Seguridad Pública · el cazador más fuerte    ║
+║ PODER: pactos múltiples (sin datos de cuáles)║
+║        · cuchillos · combate                 ║
+║ AMENAZA: MEDIA (para este mundo, alta)       ║
+║ Diferencia estimada: x0,011 sobre ti         ║
+║ Bebe para no sentir. Ve más de lo que dice.  ║
+║ COPIABLE · MISIÓN: ALTA (estilo y pactos)    ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1710 · CHAINSAW MAN · DÍA 1 · 21:20    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:20, pasillo del 6.º piso. Denji conmovido ("¡Qué bueno, Pochita! No estoy llorando, es la mayonesa"); Power le regaló el último sándwich. Denji y Power dormidos en la alfombra del pasillo. Kobeni despierta en el umbral. Aki fumó. Llegó KISHIBE con seis agentes (camillas, esposas). A Facundo: "Así que tú eres el del gato. Makima no paraba de hablar de ti por teléfono. Y Makima no habla de nadie." Tasación de Kishibe.

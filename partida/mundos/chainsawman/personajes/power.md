@@ -25,3 +25,4 @@ ENCUENTROS:
 - T1704 · VIO a Facundo desaparecer. "¡Power te lo dijo! ¡Power lo dijo! ¡Olía raro! ¡Power siempre tiene razón!"
 - T1705 · Le roba el sándwich a Denji, lo muerde y se lo devuelve. "¡Power se ganó los sándwiches! ¡Porque Power descubrió a los malos! ¡La mitad son de Power!"
 - T1708 · "¡¿Y a Power?! ¡Power seguro que se siente increíble! ¡La más poderosa de todas! ¡Dilo!"
+- T1710 · Le regala a Denji el último sándwich de huevo: "Power te lo regala. Solo esta vez. Porque Power es generosa." Se duerme hombro con hombro con Denji en el pasillo.
