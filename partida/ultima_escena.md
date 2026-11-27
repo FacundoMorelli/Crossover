@@ -3,94 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1698)
-
-no lo decido yo, lo decide kase eso
-
-## RESPUESTA 1 (T1698)
-
-> no lo decido yo, lo decide kase eso
-
-> —No lo decido yo. Eso lo decide Kase.
-
-Power se da vuelta hacia el gato con la solemnidad de quien va a negociar un tratado de paz.
-
-—Kase. —Se acomoda el pelo, se sacude el hollín de los hombros, se aclara la garganta—. Yo soy Power. La Gran Power. La más fuerte, la más inteligente y la más linda de Seguridad Pública. —Se señala el pecho—. Power tiene un gato. Se llama Miau. Es mucho más chico que tú, pero muy educado. Power lo cuida perfecto. Así que tú puedes dormir con Power y Power te va a dar su almohada. —Lo piensa—. La mitad de su almohada.
-
-Kase la escucha entera, sin parpadear.
-
-Cuando Power termina, Kase gira la cabeza despacio, hacia el otro lado, y se pone a mirar la lluvia por la vidriera rota. Le da la nuca. Ni una oreja se le mueve.
-
-Power se queda con la boca abierta.
-
-—¿Qué significa eso?
-
-—Que no —dice Denji, y se dobla de risa—. ¡Te dijo que no! ¡Un gato te dijo que no!
-
-—¡Eso no es un no! ¡Es un "lo voy a pensar"!
-
-—¡Es un no gigante!
-
-—¡AKI! ¡Denji se burla de Power!
-
-—Bajen. Los dos. —Aki ya está en la escalera mecánica.
-
-Bajan los siete pisos a oscuras, con la alarma todavía chillando. En la planta baja, entre los vidrios rotos, Sato fuma por fin un cigarrillo seco que le consiguió alguien, apoyado en la camioneta, y te sigue con la mirada todo el camino, sin decir nada. Un auto de Seguridad Pública los espera en la esquina: un sedán gris con un chofer callado. Se meten los cinco y el gato, apretados. Power en la ventanilla, ofendida, de espaldas a Kase. Kase en tus rodillas, de espaldas a Power. Kobeni en el medio, encogida, tratando de no tocar a nadie.
-
-El auto cruza Tokio bajo la llovizna. Avenidas de neón, puentes de hierro, un tren elevado que pasa encima de ustedes con todas las ventanillas iluminadas. Veinte minutos.
-
-Para frente a un hotel de negocios de diez pisos, viejo, de los que tienen la alfombra gastada en los pasillos y el cartel con una letra que no prende. Las cortinas de todas las ventanas están cerradas. En la puerta hay dos hombres de traje negro, de pie, con las manos cruzadas adelante.
-
-Cuando el auto se detiene, los dos se acercan a abrir las puertas. Uno es alto y flaco, con anteojos de marco fino y el pelo peinado con raya al costado. El otro es más bajo, ancho, con la cabeza rapada y una sonrisa simpática, de buen tipo.
-
-—Buenas noches —dice el de anteojos, con una reverencia corta—. Kurose, de la oficina de Kioto. Él es Tendo. Nos enviaron para reforzar su seguridad esta noche. —Mira a Denji, a Power, a Kobeni, a Aki. Después te ve a ti. Y a Kase. Por una fracción de segundo, la sonrisa amable se le queda quieta—. A usted no lo teníamos en la lista, señor.
-
-```
-╔══════════════════════════════════════════════╗
-║ "KUROSE"                                     ║
-║ Seguridad Pública · oficina de Kioto (dice)  ║
-║ PODER: sin datos                             ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,006 sobre ti         ║
-║ Esconde algo. Lo que muestra no es lo que es.║
-║ COPIABLE: sin datos                          ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ "TENDO"                                      ║
-║ Seguridad Pública · oficina de Kioto (dice)  ║
-║ PODER: sin datos                             ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,006 sobre ti         ║
-║ Esconde algo. Lo que muestra no es lo que es.║
-║ COPIABLE: sin datos                          ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1698 · CHAINSAW MAN · DÍA 1 · 20:35    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel de negocios, puerta           ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos, de espaldas a Power     ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1699)
+## COMANDO 1 (T1699)
 
 soy nuevo
 
-## RESPUESTA 2 (T1699)
+## RESPUESTA 1 (T1699)
 
 > soy nuevo
 
@@ -143,11 +60,11 @@ Kurose se vuelve hacia ti, como si no hubiera pasado nada. Saca una libreta chiq
 
 ---
 
-## COMANDO 3 (T1700)
+## COMANDO 2 (T1700)
 
 soy viajero
 
-## RESPUESTA 3 (T1700)
+## RESPUESTA 2 (T1700)
 
 > soy viajero
 
@@ -196,4 +113,65 @@ Detrás de él, en la puerta de la 604, Power te mira a ti, mira la llave, mira 
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:41, pasillo del 6.º piso del refugio. Kurose anotó "de afuera"; Aki le dio solo "Facundo". Habitaciones: 604 (Aki, Denji, Power; tres camas), 605 (Kobeni). Kurose y Tendo "en la escalera toda la noche". A Facundo le ofrecen la 612, al fondo, apartada, junto a la ventana y la máquina de hielo; Kurose le tiende la llave (llavero verde). Power desconfía de Kurose.
+## COMANDO 3 (T1701)
+
+no, esta bien, no necesito una cama, puedo dormir en el piso con ellos
+
+## RESPUESTA 3 (T1701)
+
+> no, esta bien, no necesito una cama, puedo dormir en el piso con ellos
+
+> —No, está bien. No necesito una cama. Puedo dormir en el piso con ellos.
+
+La mano de Kurose se queda en el aire, con la llave del llavero verde colgando.
+
+—En el piso. —La sonrisa no se mueve, pero se le estira un poquito en las comisuras, como si alguien tirara de ella—. No es necesario, señor Facundo, de verdad. La 612 es muy cómoda. Tiene ventana.
+
+—¡Una pijamada! —grita Denji desde adentro de la 604, ya tirado boca abajo en la cama del medio con los zapatos puestos—. ¡Nunca hice una pijamada! ¡Facundo, ven! ¡Trae al gato!
+
+Power aparece en la puerta en un segundo, con los brazos abiertos de par en par, tapando la entrada como si fuera suya.
+
+—¡Kase duerme con Power! —Lo dice a los gritos, mirando a Kase, no a ti—. Está decidido. Power lo decidió. El humano puede dormir en el piso, pero Kase va en la cama de Power.
+
+Kase ni la mira.
+
+Kobeni, frente a la 605, con la llave en la mano, mira la puerta de su habitación. Mira la 604. Mira el pasillo largo, oscuro, con la luz que parpadea. Mira la nuca de Tendo, que sigue de pie al lado de la escalera con las manos en los bolsillos.
+
+—Yo... —Traga saliva—. ¿Yo también puedo dormir en el piso? ¿En la de ellos? —Le tiembla la voz—. No quiero dormir sola. No esta noche. Por favor.
+
+Aki suspira, larguísimo. Se pasa una mano por la cara.
+
+—Está bien. Todos en la 604. Es más fácil cuidar una puerta que tres. —Mira a Kurose—. Así ustedes no tienen que vigilar todo el pasillo.
+
+Kurose baja la mano. Se guarda la llave verde en el bolsillo, despacio.
+
+—Como ustedes prefieran, Hayakawa-san. —Reverencia corta—. Les traeremos mantas extra.
+
+Se queda un segundo más mirándote. Después se da vuelta y camina hacia la escalera, donde Tendo lo espera sin moverse.
+
+Entran todos en la 604. Es una habitación de hotel barato: tres camas individuales con colchas de flores desteñidas, un televisor sobre una cómoda, una ventana con la cortina cerrada, un baño chiquito con la luz que zumba. Denji ya está prendiendo el televisor. Power ya está corriendo las almohadas de las tres camas hacia la suya. Kobeni se sienta en un rincón, en el piso, abrazada a sus rodillas, mirando la puerta.
+
+Aki cierra la puerta con llave. Pone la cadena. Se queda un momento con la mano en la manija, de espaldas a todos.
+
+Después se da vuelta, se te acerca, te habla muy bajo, mientras Denji sube el volumen de un programa de preguntas y Power grita que la cama del medio es suya.
+
+—Tú también lo notaste, ¿no? —No te mira: mira la puerta—. Lo del cuarto apartado. Y lo que dijo Power. —Una pausa—. Power miente todo el tiempo. Pero con la nariz no se equivoca nunca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1701 · CHAINSAW MAN · DÍA 1 · 20:45    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, habitación 604               ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:45, habitación 604 del refugio, todos juntos (Aki, Denji, Power, Kobeni, Facundo, Kase). Kurose insistió con la 612 y cedió ("Les traeremos mantas extra"); se fue a la escalera con Tendo. Denji: "¡Una pijamada!" Power: "¡Kase duerme con Power!" Kobeni pidió no dormir sola. Aki cerró con llave y cadena. A Facundo, bajo: "Tú también lo notaste, ¿no? Lo del cuarto apartado. Y lo que dijo Power. Power miente todo el tiempo. Pero con la nariz no se equivoca nunca."

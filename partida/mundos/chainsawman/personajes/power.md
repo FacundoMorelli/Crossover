@@ -21,3 +21,4 @@ ENCUENTROS:
 - T1697 · "Power no quiere más de esas verduras horribles. Pero si Denji tiene dos, Power también quiere dos. Para tirarlas. Es lo justo." Al saber del refugio: "¿El gato también? ¿El gato gigante duerme con nosotros? ¿Puede dormir con Power? ¡Power lo va a cuidar! ¡Power es experta en gatos!"
 - T1698 · Negocia con Kase ("Yo soy Power. La Gran Power... la mitad de su almohada"); Kase le da la nuca. "¡Eso no es un no! ¡Es un 'lo voy a pensar'!" Ofendida, de espaldas a Kase en el auto.
 - T1699 · Olfatea a "Kurose": "Este huele raro." "Huele como... Raro. Como cuando algo está puesto encima de otra cosa." "¡Power huele a quien quiere!"
+- T1701 · "¡Kase duerme con Power! Está decidido. El humano puede dormir en el piso, pero Kase va en la cama de Power." Se apropia de la cama del medio y de las almohadas.

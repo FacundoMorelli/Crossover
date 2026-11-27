@@ -18,3 +18,4 @@ ENCUENTROS:
 - T1696 · Sabe (por Facundo) que tiene bastantes semillas. Cómplice: "Si tienes bastantes... ¿me das otra para después? Por si me vuelvo a morir. Te la cambio por algo. Por este chicle." (chicle aplastado).
 - T1697 · Recibe otra semilla "para después"; la guarda en el bolsillo del pecho del traje. Le da a Facundo un chicle aplastado: "¡Trato hecho! No está masticado. Bueno, casi no." A Aki: "Facundo es buena persona. Me dio dos. Y no me pidió nada." RELACIÓN: simpatía inmediata.
 - T1698 · "¡Que no! ¡Te dijo que no! ¡Un gato te dijo que no!" (a Power).
+- T1701 · "¡Una pijamada! ¡Nunca hice una pijamada! ¡Facundo, ven! ¡Trae al gato!" Prende la tele.

@@ -1699,3 +1699,4 @@ T1697 · CHAINSAW MAN · Mitsukoshi piso 7 · Otra semilla a Denji (por un chicl
 T1698 · CHAINSAW MAN · refugio (hotel) · "Lo decide Kase." Kase le da la nuca a Power. Viaje al refugio. Kurose y Tendo (impostores) en la puerta: "A usted no lo teníamos en la lista."
 T1699 · CHAINSAW MAN · refugio, lobby · "Soy nuevo." Tendo cierra con llave. Power: "Este huele raro." Kurose pide su nombre para la lista.
 T1700 · CHAINSAW MAN · refugio, 6.º piso · "Soy viajero." Aki da solo "Facundo". Habitaciones: 604 (Aki, Denji, Power), 605 (Kobeni), 612 apartada para Facundo.
+T1701 · CHAINSAW MAN · refugio, 604 · "Puedo dormir en el piso con ellos." Todos en la 604. Aki, bajo: "Tú también lo notaste. Power con la nariz no se equivoca nunca."
