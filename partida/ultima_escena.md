@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1561)
-
-esta bien
-
-## RESPUESTA 1 (T1561)
-
-> esta bien
-
-> —Está bien.
-
-Vegeta asiente. Una sola vez. Seco. No dice nada más. Se da vuelta y se va caminando hacia la pirámide, con el traje roto y los hombros derechos, sin mirar atrás.
-
-A los diez pasos, se detiene. No se da vuelta.
-
-—Al amanecer —dice—. Antes de que se levante Kakarotto.
-
-Y sigue.
-
-Goku, que viene corriendo desde la explanada, frena en seco al lado de tu silla, con la cara sucia y los ojos enormes.
-
-—¡¿Qué?! ¡¿Mañana pelean?! ¡¿Tú y Vegeta?! —Mira a Vegeta, que ya entra al palacio, y te vuelve a mirar a ti—. ¡Eso no es justo! ¡Yo también quiero! ¡Yo te pedí primero! Bueno, en el planeta de Kaio-sama. ¡Pero te pedí primero!
-
-Se tira de rodillas al lado de la silla de playa, con las manos juntas.
-
-—¡Después de Vegeta, conmigo! ¡En azul! ¡Por favor!
-
-Whis se acerca caminando despacio, con el báculo, mirando el cielo violeta, donde empiezan a salir las lunas una por una.
-
-—Qué interesante va a ser la mañana —dice, a nadie en particular. Y después, mirándote de reojo—: Le voy a preparar a la explanada un suelo más resistente. Por las dudas.
-
-Kase, en la mesita, se estira, bosteza y te mira, como preguntando si ya es hora de dormir.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1561 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · anochecer               ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la mesita, bostezando               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Al amanecer, duelo con Vegeta      ║
-║ (azul) · Goku quiere después                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1562)
+## COMANDO 1 (T1562)
 
 simula hasta mañana
 
-## RESPUESTA 2 (T1562)
+## RESPUESTA 1 (T1562)
 
 > simula hasta mañana
 
@@ -106,11 +57,11 @@ Vegeta descruza los brazos. Se pone en guardia.
 
 ---
 
-## COMANDO 3 (T1563)
+## COMANDO 2 (T1563)
 
 esta bien, te voy a mostrar nuestra diferencia vegeta y goku, me transformó en blue
 
-## RESPUESTA 3 (T1563)
+## RESPUESTA 2 (T1563)
 
 > esta bien, te voy a mostrar nuestra diferencia vegeta y goku, me transformó en blue
 
@@ -171,4 +122,55 @@ En su silla de playa, Whis deja la taza en el suelo, despacio, al lado de Kase. 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada al amanecer. Facundo en SSJ Blue; el suelo de Whis se hundió. Goku: "¿Tú también eres saiyajin?" Vegeta: "¿Qué demonios eres?" Whis no sonríe. Facundo puede responder.
+## COMANDO 3 (T1564)
+
+ven vegeta atacame
+
+## RESPUESTA 3 (T1564)
+
+> ven vegeta atacame
+
+> —Ven, Vegeta. Atácame.
+
+Vegeta se queda quieto un segundo más. La pregunta se le queda en la cara, sin respuesta.
+
+Después aprieta los dientes y la deja caer.
+
+—Tch. —Se le endurece la mandíbula—. No me importa lo que seas.
+
+El aura azul le cambia. No se agranda: se aprieta. Se le pega al cuerpo, más fina, más densa, chispeando en los bordes como un cable pelado. El pelo azul se le eriza todavía más. Los ojos celestes se le clavan en ti como dos agujas.
+
+—Me importa una sola cosa —dice—. Ganarte.
+
+Y desaparece.
+
+No hay ruido de aire partido esta vez. No hay estela. El azul es silencioso: Vegeta simplemente deja de estar en el centro de la explanada, y el suelo de venas de luz donde estaba parado se agrieta en un círculo perfecto, un instante después, como si el piso hubiera tardado en enterarse.
+
+En el borde de la explanada, Goku se queda sin aire.
+
+—Rápido... —murmura.
+
+Lo ves venir igual. Por la derecha, bajo, a la altura de las costillas, con el puño cerrado y el codo pegado al cuerpo, todo el peso de la noche entera sin dormir metido en un solo golpe. Detrás de ese, ya armado, el segundo: una rodilla a la mandíbula. Y detrás de ese, el tercero, una palma abierta cargando una luz azul que crece y chisporrotea entre los dedos.
+
+Vegeta, en azul, a medio metro de ti, con los ojos celestes encendidos y la boca cerrada, sin gritar nada.
+
+El primer puño está a un palmo de tus costillas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1564 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada de entrenamiento · amanecer        ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ SUPER SAIYAJIN BLUE (x2.000)                 ║
+║ Velo: el ki divino no se siente              ║
+║ Kase: junto a la silla de Whis, mirando      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Duelo con Vegeta (SSJ Blue)        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Facundo en SSJ Blue. Vegeta (azul) ataca: puño a las costillas a un palmo, rodilla y palma cargada detrás. Facundo puede reaccionar.

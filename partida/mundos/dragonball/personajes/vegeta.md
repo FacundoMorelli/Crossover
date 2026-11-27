@@ -128,3 +128,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1561 · Facundo acepta el duelo. "Al amanecer. Antes de que se levante Kakarotto."
 - T1562 · No cena; entrena de noche. Amanecer: ya en SSJ Blue en la explanada, tranquilo. "No me interesa tu ki de insecto. No me interesa el fuego blanco de la cámara. Quiero lo otro. Lo que hay debajo. Hoy no te contengas tanto, Facundo. Me lo prometiste."
 - T1563 · Ve a Facundo transformarse en SSJ (da medio paso atrás) y en SSJ BLUE; el suelo de Whis se hunde. "Eso... Eso es el azul. El nuestro. El que hicimos anoche." "No tienes cola. No tienes sangre saiyajin. Lo sabría. ¡¿Qué demonios eres?!"
+- T1564 · Ante "Ven, Vegeta. Atácame": "Tch. No me importa lo que seas. Me importa una sola cosa. Ganarte." Aura azul apretada al cuerpo como un cable pelado. Ataca en silencio, rapidísimo: puño a las costillas, rodilla a la mandíbula, palma con luz azul cargada.
