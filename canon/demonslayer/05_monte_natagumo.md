@@ -33,7 +33,7 @@ QUÉ PASA:
 8. Rui ata a Nezuko con hilos y le drena sangre. Tanjiro rompe su espada contra los hilos de Rui.
 9. Tanjiro recuerda la danza Hinokami Kagura de su padre y la usa como respiración: corta los hilos.
 10. Nezuko despierta su Arte de Sangre: su sangre se enciende (Sangre Explosiva) y quema los hilos de Rui.
-11. Rui pierde la cabeza? — no: Rui la había cortado él mismo con sus hilos antes del golpe; sobrevive.
+11. Tanjiro corta el cuello de Rui, pero Rui se había decapitado a sí mismo con sus hilos un instante antes; sobrevive y Tanjiro cae agotado.
 12. Giyu llega y mata a Rui con la 11.ª forma del Agua "Calma" (Nagi) — técnica creada por él.
 13. Rui recuerda su vida humana: niño enfermo; su padre intentó matarlo tras convertirse, Rui mató a sus padres. Se disculpa con ellos en la muerte.
 14. Giyu salva a Inosuke del Padre Araña (lo decapita).
