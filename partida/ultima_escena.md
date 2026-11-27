@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1597)
-
-esta bien, seguimos peleando
-
-## RESPUESTA 1 (T1597)
-
-> esta bien, seguimos peleando
-
-> —Está bien.
-
-—Bien —murmura Bills, con los ojos cerrados.
-
-Y empiezan otra vez.
-
-Ahora es raro de ver. Ya no es un dios lanzándose con todo contra alguien que no puede tocar. Son dos cuerpos que se mueven sin que nadie los mande. Bills no abre los ojos. Sus golpes ya no tienen la forma de un ataque. Salen de cualquier lado, sin aviso, sin la tensión en los hombros que los anunciaba ayer. Tu cuerpo los lee igual, y se corre igual.
-
-Pero cada vez por menos.
-
-Primero por un palmo. Después por cuatro dedos. Después por dos. Su mano te pasa rozando la oreja y te mueve el pelo plateado. Su cola te pasa a la altura de las costillas y te levanta la tela de la camisa. Ninguno te toca. Pero cada uno pasa más cerca que el anterior.
-
-Tu cuerpo le contesta. Le entra la palma en el hombro y Bills se va hacia atrás, sin abrir los ojos, y vuelve. Le entra el pie en el costado, y vuelve. Cada vez que vuelve, vuelve más suelto.
-
-Afuera, el silencio es total. Goku ya no cuenta: tiene la boca abierta y no parpadea. Vegeta se bajó de la roca y está de pie pegado a la barrera, al lado de Goku, sin darse cuenta de lo cerca que está de él. Whis se paró. Tiene el báculo apoyado en el suelo y las dos manos encima, y por primera vez desde que lo conoces tiene los ojos abiertos del todo, sin sonrisa.
-
-Kase, en el apoyabrazos, mueve la cabeza de un lado al otro, siguiéndolos. Es el único que los ve todo el tiempo.
-
-Pasan minutos. O una hora. Las venas de luz del suelo están quebradas bajo los pies de Bills y enteras bajo los tuyos.
-
-Hasta que Bills se para.
-
-No de golpe, como antes: se va quedando quieto. Abre los ojos despacio. Respira por la boca, fuerte, con el pecho subiendo y bajando. El aura violeta le tiembla, finita, y se le está apagando en los bordes. Tiene raspones nuevos en los brazos, el pantalón otra vez roto en las rodillas, el labio sangrando un poco. Y la cara más feliz que le viste nunca.
-
-—Dos dedos —dice, sin aire—. Me faltaron dos dedos.
-
-Se ríe, y le duele, y se agarra el costado.
-
-—Ya está. No me queda mucho. —Se endereza, con la dignidad que puede—. Pero no termino así, respirando como un perro.
-
-Levanta la mano derecha y la cierra en un puño. Todo lo que le queda se le va ahí: el aura violeta se le junta en los nudillos, densa, oscura, con la luz sin centro del Hakai latiendo adentro.
-
-—Un golpe. El último. —Los ojos amarillos le brillan—. Yo con todo lo que me queda. Y tú con todo lo que tengas. Nada de contenerte, nada de cuidarme. Todo.
-
-Afuera, Whis da un paso hacia la barrera.
-
-—Bills-sama...
-
-—Cállate, Whis. —No lo mira—. ¿Y bien, muchacho del bolsillo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1597 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera nueva) · mediodía         ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.161 · 0 zeni                  ║
-║ Energía 80% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: en el apoyabrazos de Whis (afuera)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: El último golpe con Bills          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1598)
+## COMANDO 1 (T1598)
 
 esta bien
 
-## RESPUESTA 2 (T1598)
+## RESPUESTA 1 (T1598)
 
 > esta bien
 
@@ -130,11 +66,11 @@ Kase, en el apoyabrazos, se pone de pie. No te mira con miedo. Te mira como te m
 
 ---
 
-## COMANDO 3 (T1599)
+## COMANDO 2 (T1599)
 
 le pego conteniendome un poco para no matarlo
 
-## RESPUESTA 3 (T1599)
+## RESPUESTA 2 (T1599)
 
 > le pego conteniendome un poco para no matarlo
 
@@ -216,4 +152,78 @@ Cierra los ojos.
 
 ---
 
-ESTADO AL CIERRE: Bills vencido, vivo, tirado en el pasto junto a la pirámide agrietada: "Te contuviste. Lo vi. Bien hecho." Whis a su lado. Barrera rota. Nivel 33. Facundo puede actuar.
+## COMANDO 3 (T1600)
+
+le doy una semilla, comela señor bills, no quiero que mi dios de la destrucción esté asi
+
+## RESPUESTA 3 (T1600)
+
+> le doy una semilla, comela señor bills, no quiero que mi dios de la destrucción esté asi
+
+> —Cómala, señor Bills. No quiero que mi Dios de la Destrucción esté así.
+
+Cruzas la explanada destrozada, paso a paso, entre los pozos y las venas de luz apagadas. El pelo plateado se te va soltando por el camino. Para cuando llegas al pasto, ya es blanco y azul oscuro otra vez, y los ojos vuelven a ser uno rojo y uno azul.
+
+Te agachas al lado de Bills. Le abres la mano sana y le dejas en la palma una semilla chiquita, verde, arrugada.
+
+Bills abre un ojo. Mira la semilla. Te mira a ti.
+
+—¿Mi? —repite, despacio—. ¿"Mi" Dios de la Destrucción?
+
+Se le mueve una oreja. Le tiembla la comisura de la boca, como si quisiera enojarse y no le saliera.
+
+—Nadie me dijo nunca "mi" nada. —Resopla—. Todos me tienen miedo. Tú me pegas, me tiras contra mi propia casa, me das de comer... y ahora me dices "mi".
+
+—Es una semilla del ermitaño, Bills-sama —dice Whis, mirándola por encima del hombro de Bills, con interés—. Las cultiva el maestro Karin, en la Tierra. Cura cualquier herida y llena el estómago como diez comidas.
+
+—¿Como diez comidas? —Bills mira la semilla otra vez, con otra cara—. ¿Y tiene gusto a algo?
+
+—A nada, me temo.
+
+—Qué desperdicio.
+
+Pero se la mete en la boca igual. Mastica una vez, con cara de asco.
+
+Y el cuerpo le cambia.
+
+El brazo derecho, que colgaba sin fuerza, se le endereza solo. Los raspones de los brazos se le cierran, el labio partido se le cierra, la hinchazón de la mejilla desaparece. Las orejas, torcidas, se le paran derechas. La cola, despeinada, se le alisa entera. Se sienta en el pasto de golpe, mirándose las manos, abriéndolas y cerrándolas.
+
+—Oh.
+
+Se pone de pie. Mueve el brazo derecho en círculos. Salta una vez en el lugar.
+
+—Oh. —Te mira—. Esto es mejor que dormir cuarenta años.
+
+Afuera, Goku se levanta del suelo con una sonrisa enorme. Vegeta deja de mirar el agujero de la pirámide.
+
+Bills se queda frente a ti, curado, con la ropa todavía hecha jirones. Se cruza de brazos. Levanta el mentón. Pero la cola se le mueve sola, de un lado al otro, sin que pueda pararla.
+
+—Bueno. —Carraspea—. Tu Dios de la Destrucción te agradece. Una vez. No te acostumbres.
+
+Mira la pirámide agrietada, con el agujero en forma de gato en la base. Después a Whis.
+
+—Whis, arregla eso.
+
+—Sí, Bills-sama.
+
+Bills te vuelve a mirar, de reojo.
+
+—Y tú —dice—. ¿Tienes más de esas semillas, o solo más hamburguesas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1600 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.161 · 0 zeni                  ║
+║ Energía 55% · Ojos: bien · cortes cerrados   ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en el apoyabrazos de Whis              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills curado con una semilla del ermitaño: "Tu Dios de la Destrucción te agradece. Una vez." Whis arreglará la pirámide. Bills: "¿Tienes más de esas semillas, o solo más hamburguesas?" Facundo puede contestar.
