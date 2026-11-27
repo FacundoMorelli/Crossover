@@ -1,0 +1,16 @@
+# Personajes — Solo Leveling
+- SUNG JINWOO — 24. Cazador E → S → Nacional → Monarca de las Sombras. Callado, frío en combate, protector de su familia. Habla: poco; "¡Levántate!" (Arise). Apodo: "el cazador más débil de la humanidad", "Monarca de las Sombras".
+- SUNG JINAH — hermana menor, estudiante. Alegre.
+- CHA HAE-IN — rango S, espadachina; olfato de maná. Seria, tímida con Jinwoo.
+- YOO JINHO — vicemaestro de Ahjin. Leal, cómico ("hyung-nim").
+- GO GUNHEE — presidente de la Asociación; ex rango S.
+- WOO JINCHUL — Asociación; serio.
+- CHOI JONG-IN — rango S, fuego. Orgulloso.
+- BAEK YOONHO — rango S, transformación bestia.
+- THOMAS ANDRE — "Goliat", EE.UU.; arrogante, respeta la fuerza.
+- HWANG DONGSOO — rencoroso, cruel.
+- IGRIS — sombra caballero; silencioso, leal.
+- BERU — sombra rey hormiga; teatral ("¡Mi rey!").
+- BELLION — gran mariscal.
+- ANTARES — Monarca de la Destrucción.
+- ASHBORN — Monarca de las Sombras original.
