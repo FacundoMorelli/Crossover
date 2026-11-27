@@ -119,3 +119,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1550 · "Tch." Come el pudín despacio, raspa el vasito dos veces y lo guarda en un bolsillo para no tirarlo al espacio. "No está mal." Caparazón gigante para correr.
 - T1551 · Corre con el caparazón, rojo, apretando los dientes; rueda cuesta abajo con Goku. Escucha a Whis con los brazos cruzados.
 - T1552 · Ve el azul de Goku: "Kakarotto otra vez. Siempre Kakarotto." Se desata el caparazón y lo intenta en silencio, de espaldas.
+- T1553 · Se pone en posición sin que nadie se lo pida para el entrenamiento del azul.

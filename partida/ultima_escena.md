@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1550)
-
-les doy a los dos
-
-## RESPUESTA 1 (T1550)
-
-> les doy a los dos
-
-Sacas dos pudines más del bolsillo. Uno para cada lado de la espalda de Whis.
-
-Goku agarra el suyo como si fuera un tesoro. No usa la cuchara. Se lo vuelca entero en la boca, de un solo trago, con vasito y todo casi, y se queda quieto con los cachetes inflados y los ojos enormes.
-
-—¡Mmmmmm! —dice, con la boca llena—. ¡MMMMM!
-
-Traga.
-
-—¡Es lo más rico que comí en mi vida! —Se gira hacia ti—. ¡No le digas a Milk!
-
-Vegeta mira el pudín que le pusiste en la mano. Lo mira mucho rato, con el ceño fruncido, como si fuera una trampa.
-
-—Tch.
-
-Lo agarra. Agarra la cucharita. Y se lo come despacio, muy despacio, cucharada por cucharada, mirando hacia las estrellas, sin decir nada, sin cambiar la cara. Cuando termina, raspa el fondo del vasito con la cuchara. Dos veces. Lo deja vacío y lo guarda en un bolsillo del traje de entrenamiento, para no tirarlo al espacio.
-
-—No está mal —dice, sin mirarte.
-
-Whis sonríe, con los ojos cerrados.
-
-Afuera, las líneas de colores se van haciendo más lentas. Las estrellas vuelven a ser puntos. Adelante, en medio de la oscuridad, aparece algo: un planeta pequeño, raro, que no es redondo del todo. Una esfera irregular, de rocas flotantes y árboles que crecen hacia los costados, con montañas que apuntan para todos lados y, arriba de todo, en la punta más alta, una pirámide enorme, de piedra clara, con escalones que suben hasta el cielo.
-
-La burbuja baja, despacio, y se posa al pie de la pirámide.
-
-La luz se apaga.
-
-El aire es tibio, limpio, huele a flores que no conoces y a algo dulce, como fruta madura. El cielo es violeta y naranja, con varias lunas chicas. Hay pájaros de colores rarísimos que cantan en árboles con las hojas al revés. Y un silencio enorme, de lugar donde casi nunca pasa nada.
-
-De la pirámide, muy arriba, en lo alto de los escalones, sale un ruido. Grave, largo, rítmico. Como un motor viejo.
-
-—Bills-sama está roncando —dice Whis, con una sonrisa—. Qué bien. Tenemos tiempo.
-
-Se da vuelta hacia los tres. Apoya el báculo en el suelo.
-
-—Bienvenidos al planeta de Bills-sama. —Inclina la cabeza—. Goku-san, Vegeta-san: van a empezar por algo muy sencillo. Van a correr alrededor del planeta. —Señala con el báculo hacia el horizonte, que está cerca, curvo, raro—. Sin volar. Y llevando esto.
-
-Del aire, sin que nadie vea de dónde salen, aparecen dos caparazones de tortuga enormes, de piedra, del tamaño de una casa cada uno.
-
-Goku abre los ojos enormes. Vegeta aprieta los dientes.
-
-Whis se da vuelta hacia ti. Te mira, con la cabeza ladeada y una sonrisa curiosa.
-
-—Y usted, Facundo-san... —Hace una pausa—. ¿Viene a entrenar? ¿O viene a esperar a que Bills-sama se despierte, con el pudín?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1550 · DRAGON BALL · DOMINGO · NOCHE   ║
-║ Planeta de Bills · pie de la pirámide        ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.244 · 0 zeni                  ║
-║ Energía 70% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Planeta de Bills · quedan 3        ║
-║ pudines                                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1551)
+## COMANDO 1 (T1551)
 
 voy a mirar mientras
 
-## RESPUESTA 2 (T1551)
+## RESPUESTA 1 (T1551)
 
 > voy a mirar mientras
 
@@ -135,11 +66,11 @@ Olfatea el aire. Una vez. Dos.
 
 ---
 
-## COMANDO 3 (T1552)
+## COMANDO 2 (T1552)
 
 le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
 
-## RESPUESTA 3 (T1552)
+## RESPUESTA 2 (T1552)
 
 > le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
 
@@ -204,4 +135,57 @@ Ya no tiene la sonrisa amable de siempre. Tiene otra, más fina, más atenta.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Goku logró un segundo de SSJ Blue con la idea de Facundo; Vegeta lo intenta. Whis: "¿Cómo se le ocurrió?" Bills comió un pudín (quedan 2). Facundo puede responder.
+## COMANDO 3 (T1553)
+
+por que goku ahora tiene ki divino, y asumi que se podrían combinar
+
+## RESPUESTA 3 (T1553)
+
+> por que goku ahora tiene ki divino, y asumi que se podrían combinar
+
+> —Porque Goku ahora tiene ki divino. Y asumí que se podían combinar.
+
+Whis se queda mirándote un momento más.
+
+Después la sonrisa fina se le afloja, y vuelve a ser la de siempre: amable, tranquila, un poco divertida.
+
+—Qué razonamiento tan limpio. —Asiente, despacio—. Agua quieta y fuego. Eso dijo Goku-san, ¿no? Y tiene razón. —Vuelve a agarrar el vaso de jugo—. Mucha gente con muchísimo poder no se da cuenta de algo así en mil años. Usted lo vio en una noche, mirando desde una silla de playa.
+
+Toma un trago. No pregunta nada más.
+
+Bills, sentado en el suelo, te mira de costado, con el vasito vacío todavía en la mano.
+
+—Hm. —Se rasca la oreja—. El del bolsillo piensa. Eso es raro en los mortales.
+
+Whis se levanta de la silla y camina hacia Goku y Vegeta, golpeando suavemente el suelo con el báculo a cada paso.
+
+—Bueno, ya que estamos. —Se para entre los dos—. Goku-san. Vegeta-san. Olvídense de los caparazones por esta noche. Vamos a trabajar en eso. Despacio. —Le toca la frente a Goku con un dedo—. El fuego primero. Después, el agua encima. Sin apurarse.
+
+Goku asiente con tantas ganas que casi se le cae la cabeza. Vegeta asiente una sola vez, con la mandíbula apretada, y se pone en posición sin que nadie se lo pida.
+
+Bills se queda donde está, en el suelo, al lado de tu silla. Los mira un rato, aburrido. Bosteza. Después gira la cabeza hacia ti, despacio, con los ojos amarillos entrecerrados, y te mira el sobretodo. El bolsillo. Fijo.
+
+—Oye —dice—. ¿Qué más tienes ahí adentro?
+
+Se inclina un poco hacia ti, con las orejas paradas.
+
+—Además del pudín. —Baja la voz, como si fuera un secreto entre los dos—. ¿Qué otras cosas ricas hay en la Tierra?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1553 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · sillas de playa         ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.244 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en la mesita                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenamiento en el planeta de     ║
+║ Bills · quedan 2 pudines                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Whis entrena a Goku y Vegeta en el azul. Bills, en el suelo junto a Facundo: "¿Qué otras cosas ricas hay en la Tierra?" Quedan 2 pudines. Facundo puede responder.

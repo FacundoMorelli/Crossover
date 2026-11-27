@@ -93,3 +93,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1550 · Prueba el pudín por fin, de un trago: "¡Es lo más rico que comí en mi vida! ¡No le digas a Milk!" Whis le pone un caparazón de piedra del tamaño de una casa para correr alrededor del planeta de Bills sin volar.
 - T1551 · Corre con el caparazón alrededor del planeta de Bills; se cae rodando con Vegeta. Aprende de Whis a moverse sin pensar.
 - T1552 · Por Facundo: combinar el "modo dios" con el SSJ. "Desde ayer tengo algo adentro. Del rojo. Como agua quieta. Y el Super Saiyajin es como un fuego. ¿Juntar el agua con el fuego?" Lo intenta: UN SEGUNDO DE AZUL (aura y pelo azules) y se apaga; cae sentado. "¡Fue azul!"
+- T1553 · Whis le cambia el entrenamiento al azul; asiente con todas sus ganas.
