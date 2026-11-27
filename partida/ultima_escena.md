@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1623)
-
-ehh, le doy a kase
-
-## RESPUESTA 1 (T1623)
-
-> ehh, le doy a kase
-
-Le pasas a Kase.
-
-Goten lo agarra con los dos brazos, por debajo de las patas delanteras, como se agarra a un gato cuando uno tiene siete años y nadie le enseñó. Kase queda colgando, larguísimo, con las patas traseras casi tocando el pasto y la cola enorme arrastrándose por el suelo. Es casi tan grande como Goten.
-
-Kase no protesta. No saca las uñas ni se retuerce. Se queda colgando, quieto, con la expresión seria y arrogante de siempre, y mira a Goten a la cara, de muy cerca, sin parpadear. Como un rey al que acaba de levantar un súbdito muy torpe.
-
-—¡Pesa un montón! —Goten se tambalea hacia atrás, feliz—. ¡Es más pesado que una sandía! ¡Papá, mira! ¡Lo tengo!
-
-—¡Muy bien, Goten! —Goku aplaude—. ¡No lo sueltes!
-
-Goten lo abraza contra el pecho, con la cara hundida en el pelo blanco y azul de Kase.
-
-—Es suavecito. —Lo dice con la voz aplastada por el pelo—. Huele a... a como huele Facundo.
-
-Kase gira la cabeza, despacio, y te mira por encima del hombro de Goten. Los ojos, rojo y azul, fijos en ti. No hay enojo en esa mirada. Hay otra cosa, muy de gato: "Te lo voy a cobrar".
-
-Después, con toda la calma del mundo, apoya la cabeza en el hombro de Goten y se queda así.
-
-Bulma saca el celular y le saca una foto sin que nadie se dé cuenta.
-
-Goten levanta la cara del pelo de Kase y te mira, con los ojos brillantes, sin soltarlo.
-
-—Entonces, ¿es verdad? —Insiste, abrazando más fuerte—. ¿Le ganaste al señor Bills? ¿Con qué? ¿Con el Kamehameha? ¡Mi papá dice que hiciste un punto negro que se comió una bola gigante! ¡¿Me enseñas a hacer el punto negro?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1623 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en brazos de Goten                     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1624)
+## COMANDO 1 (T1624)
 
 no puedo enseñarte eso goten
 
-## RESPUESTA 2 (T1624)
+## RESPUESTA 1 (T1624)
 
 > no puedo enseñarte eso goten
 
@@ -107,11 +58,11 @@ Levanta la cara, y ya se le olvidó la tristeza. Tiene los ojos brillando otra v
 
 ---
 
-## COMANDO 3 (T1625)
+## COMANDO 2 (T1625)
 
 no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
 
-## RESPUESTA 3 (T1625)
+## RESPUESTA 2 (T1625)
 
 > no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
 
@@ -162,4 +113,70 @@ Vuelve a mirarte, con los ojos enormes.
 
 ---
 
-ESTADO AL CIERRE: Técnica nueva: para Goten y Trunks juntos (Goten sueña con Gotenks). Trunks en el parque con Vegeta. Goten: "¿Lo esperamos? ¿O vamos al parque a buscarlo?" Facundo puede decidir.
+## COMANDO 3 (T1626)
+
+bueno vamos al parque
+
+## RESPUESTA 3 (T1626)
+
+> bueno vamos al parque
+
+> —Bueno. Vamos al parque.
+
+—¡SÍ! —Goten salta tan alto que Kase se le escapa de los brazos. Cae parado en el pasto, se sacude entero, se acomoda el pelo de la cola con dos lamidas, ofendido, y se te sube de un salto al hombro, donde se queda clavado.
+
+—¡Yo también voy! —dice Goku.
+
+—¡TÚ NO! —La voz de Milk llega desde la cocina, a través de la ventana abierta—. ¡Tú te quedas a pelar papas! ¡Veinte kilos!
+
+—Pero Milk...
+
+—¡Veinte!
+
+Goku suspira, se rasca la cabeza y les hace adiós con la mano, resignado, mientras camina hacia la cocina.
+
+—Tráiganme algodón de azúcar...
+
+Despegan.
+
+Goten vuela adelante, rápido, con la toalla todavía atada al cuello flameando como una capa, haciendo piruetas en el aire cada tanto para que lo mires. Tú vas detrás, tranquilo, con Kase en el hombro, que tiene las orejas aplastadas por el viento y una cara de odiar profundamente volar.
+
+La Capital del Oeste pasa debajo: edificios redondos, autos voladores, calles llenas de gente. Al rato, en las afueras, aparece el parque. Es enorme: una rueda gigante, carpas de colores, puestos de comida que llenan el aire de olor a azúcar quemada y pochoclo. En el medio, una montaña rusa larguísima, roja y amarilla, que da vueltas y loops por encima de todo, y gente gritando arriba.
+
+Goten señala para abajo.
+
+—¡Ahí! ¡Ahí están!
+
+Aterrizan detrás de un puesto de globos, donde nadie los ve.
+
+Al pie de la montaña rusa hay una fila larga de gente. Al final de la fila, Trunks salta en el lugar, impaciente, con un algodón de azúcar rosa en la mano, más grande que su cabeza. Y al lado de Trunks, con los brazos cruzados, el ceño fruncido, una gorra que claramente le puso Bulma y una camiseta rosada que dice "BAD MAN", está Vegeta.
+
+Esperando en la fila. Como todo el mundo.
+
+Goten se tapa la boca para no reírse. No lo logra.
+
+Trunks los ve. Se le cae el algodón de azúcar.
+
+—¡¿Goten?! ¡¿Qué haces acá?!
+
+Vegeta gira la cabeza, despacio. Te ve a ti. Ve a Kase. Ve a Goten muerto de risa señalándole la camiseta. Se le pone la cara roja, de la frente al cuello.
+
+—Tú —dice, entre dientes—. ¿Qué demonios haces aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1626 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Parque de diversiones · sábado, tarde        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro (odia volar)              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: En el parque, fila de la montaña rusa. Vegeta (camiseta rosada BAD MAN), rojo: "Tú. ¿Qué demonios haces aquí?" Trunks sorprendido; Goten se ríe. Facundo puede contestar.

@@ -1624,3 +1624,4 @@ T1622 · DRAGON BALL · Capital del Oeste · Bulma avisa a Erasa a medias (amigo
 T1623 · DRAGON BALL · Capital del Oeste · Le da Kase a Goten (Kase se deja, serio). Goten: "¿Le ganaste al señor Bills? ¿Me enseñas a hacer el punto negro?"
 T1624 · DRAGON BALL · Capital del Oeste · "No puedo enseñarte eso, Goten." Goku: "Ni yo, ni el señor Bills." Goten: "¡Entonces enséñame otra cosa! ¡Así le gano a Trunks!"
 T1625 · DRAGON BALL · Capital del Oeste · "Si te enseño algo nuevo, también a Trunks." Goten acepta (Gotenks). "¿Esperamos a Trunks o vamos al parque a buscarlo?"
+T1626 · DRAGON BALL · Parque de diversiones · Vuela con Goten y Kase al parque (Goku se queda pelando papas). Encuentran a Vegeta (camiseta rosada BAD MAN) y Trunks en la fila de la montaña rusa. Vegeta: "¿Qué demonios haces aquí?"

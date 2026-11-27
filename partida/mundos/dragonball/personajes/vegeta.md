@@ -172,3 +172,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1613 (4 días) · Entrena solo en una roca flotante; le pide a Bills pelear cada mañana; al cuarto día Bills acepta y lo tumba de un golpe; se levanta escupiendo sangre y sonriendo (camino del Ego). Le prometió a Trunks el parque de diversiones mañana (sábado).
 - T1614 · Vuelve a la Tierra; a Trunks: "Ya sé qué día es. Vamos."
 - T1615 · "Humanos." Se va al parque con Trunks.
+- T1626 · En la fila de la montaña rusa con Trunks, con gorra y camiseta rosada "BAD MAN". Ve llegar a Facundo, Kase y Goten (que se ríe de su camiseta); rojo de la frente al cuello: "Tú. ¿Qué demonios haces aquí?"

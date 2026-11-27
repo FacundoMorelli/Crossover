@@ -46,3 +46,4 @@ ESTADO: bien.
 - T1619 · "Pelo natural, dice. Blanco y azul. Bueno, Goku tiene el pelo de punta desde que nació... así que no voy a decir nada." "Esa chica habla más que Bulma." A Bills: "Tiene una cita."
 - T1620 · Picada por la torta de chocolate de Erasa: "Ya vamos a ver qué es una torta de chocolate cuando yo termine con la cena." Se le cae el cucharón cuando Bills se invita.
 - T1621 · "Voy a cocinar para un dios. Un dios que destruye planetas cuando la comida no le gusta." Modo guerra: "Si un dios viene a mi cena, va a comer la mejor comida que comió en su vida." Pide la cocina de Bulma, 10 kg de carne, 5 de arroz, 3 pescados...
+- T1626 · Milk: "¡Tú te quedas a pelar papas! ¡Veinte kilos!" (a Goku).

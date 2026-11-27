@@ -16,3 +16,4 @@ ESTADO: activo
 - T1614 · Brazos cruzados como su papá: "Papá. Hoy es sábado." (parque de diversiones).
 - T1615 · Se ríe por lo bajo de Facundo mientras se va al parque con Vegeta.
 - T1625 · (según Goku, por Bulma) estuvo una semana enojado por la Bola Giratoria de Goten; rompió la cámara de gravedad. Hoy en el parque con Vegeta.
+- T1626 · En la fila de la montaña rusa con un algodón de azúcar rosa más grande que su cabeza; se le cae al ver a Goten: "¡¿Goten?! ¡¿Qué haces acá?!"
