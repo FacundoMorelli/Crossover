@@ -1533,3 +1533,4 @@ T1531 · DRAGON BALL · Crucero · Dos cajas de pudín (2 F) para el viaje de Bi
 T1532 · DRAGON BALL · Crucero · "Soy un viajero, nada más." Todos enumeran lo raro; Milk lo defiende; Bulma: "Guárdate tus secretos." Sigue la fiesta. Vegeta: "Mañana. A las seis. Viajero."
 T1533 · DRAGON BALL · Crucero · Disfruta la fiesta hasta el atardecer. Kase duerme en su regazo. Videl: la revancha va a tener que esperar, "pero no te salvas".
 T1534 · DRAGON BALL · Crucero · Felicita a Videl. Gohan agradece lo de Shenlong. Kase mira la panza de Videl. Videl: "¿Vas a estar cuando nazca?"
+T1535 · DRAGON BALL · Muelle · Promete intentar estar cuando nazca el bebé de Videl. Bulma lo invita a dormir en Capsule Corp por la cita con Vegeta. Milk frunce el ceño.

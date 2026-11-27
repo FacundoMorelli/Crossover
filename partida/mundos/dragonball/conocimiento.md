@@ -122,3 +122,5 @@
 - Bills, Whis · T1531 · Por Facundo: el pudín; saben su nombre y el de Kase.
 - Todos los del crucero · T1532 · Por Facundo: es "un viajero, nada más". Bulma decide no preguntar más por ahora.
 - Videl, Gohan · T1534 · Saben que la idea de Shenlong fue de Facundo; Videl quiere que conozca al bebé.
+- Bulma · T1535 · Por Vegeta: la cita de entrenamiento de mañana a las seis con Facundo.
+- Videl, Gohan · T1535 · Por Facundo: va a intentar estar cuando nazca el bebé.

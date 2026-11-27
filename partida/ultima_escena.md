@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1532)
-
-por que me miran todos? soy un viajero nada mas
-
-## RESPUESTA 1 (T1532)
-
-> por que me miran todos? soy un viajero nada mas
-
-> —¿Por qué me miran todos? Soy un viajero, nada más.
-
-Nadie dice nada durante un segundo.
-
-—Un viajero —repite Krilin, despacio, con un pedazo de torta en la mano—. Un viajero que saca cajas enteras de pudín de un bolsillo.
-
-—Que le dio de comer a un dios de la destrucción —dice la 18, sin expresión.
-
-—Al que el dragón no conocía —dice Piccolo, desde la proa, sin abrir los ojos.
-
-—Que tiene menos ki que Krilin —dice Trunks.
-
-—¡Oye! —protesta Krilin.
-
-—Que me enseñó la Bola Giratoria —dice Goten, orgulloso, con las manos en la cintura.
-
-Vegeta no dice nada. Está de brazos cruzados junto a la piscina, mirándote con los ojos entrecerrados, la mandíbula apretada, como quien guarda la cuenta para cobrarla después.
-
-Milk da un paso adelante, con Goten todavía agarrado de la mano.
-
-—¡Es un buen muchacho! —dice, muy firme, como si alguien hubiera dicho lo contrario—. Me aró los dos campos antes del mediodía. Y come todo lo que le sirvo. —Te mira de reojo—. Aunque no lee.
-
-Bulma se queda mirándote un rato largo, con los brazos cruzados. Después mira a Goku, que sigue silbando hacia el mar. Después a Vegeta. Después la mesa de los postres vacía, la torta de cinco pisos intacta, el cielo azul, la costa de la Ciudad del Oeste, que sigue ahí.
-
-Suspira. Y se ríe.
-
-—Un viajero. —Niega con la cabeza—. Está bien, viajero. Guárdate tus secretos. Ya tengo demasiados con este. —Le da un codazo a Vegeta, que gruñe—. Salvaste mi fiesta, mi planeta y mi torta. Con eso me alcanza. Por hoy.
-
-Se da vuelta hacia todos y levanta los brazos.
-
-—¡Bueno! ¡¿Qué hacen todos ahí parados?! ¡Es mi cumpleaños! ¡Música! ¡Y alguien prenda las velas de la torta antes de que aparezca otro dios!
-
-La banda arranca, con un ritmo nervioso que se va soltando. La gente se ríe, todavía con miedo, pero se ríe. Mr. Satán se pone de pie de un salto y grita que fue él quien asustó al gato violeta. Buu le aplaude. Gohan abraza a Videl, y Milk los abraza a los dos llorando, y Goku se suma al abrazo sin que nadie lo llame.
-
-Vegeta pasa a tu lado camino a la mesa de la torta. No se detiene. No te mira. Pero baja la voz al pasar.
-
-—Mañana. A las seis. En mi cámara de gravedad. —Una pausa—. Viajero.
-
-Y sigue de largo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1532 · DRAGON BALL · SÁBADO · 13:45    ║
-║ Crucero de Bulma · junto a la piscina        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Fiesta · mañana 6:00 entrenar con  ║
-║ Vegeta                                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1533)
+## COMANDO 1 (T1533)
 
 disfruto la fiesta
 
-## RESPUESTA 2 (T1533)
+## RESPUESTA 1 (T1533)
 
 > disfruto la fiesta
 
@@ -120,11 +55,11 @@ Se toca la panza. Sonríe con media boca, igual que su padre.
 
 ---
 
-## COMANDO 3 (T1534)
+## COMANDO 2 (T1534)
 
 esta bien video, y felicidades
 
-## RESPUESTA 3 (T1534)
+## RESPUESTA 2 (T1534)
 
 > esta bien video, y felicidades
 
@@ -174,4 +109,52 @@ Escribiste "video" y lo tomé como Videl.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 19:10, crucero llegando al puerto. Videl y Gohan junto a Facundo. Videl: "Va a nacer en unos meses. ¿Vas a estar?" Facundo puede responder.
+## COMANDO 3 (T1535)
+
+si, voy a intentar estar
+
+## RESPUESTA 3 (T1535)
+
+> si, voy a intentar estar
+
+> —Sí. Voy a intentar estar.
+
+Videl asiente. No dice nada más. Pero aprieta la mano de Gohan, y Gohan sonríe de oreja a oreja, como un chico.
+
+El crucero atraca. Bajan la planchada al muelle, y la fiesta se desarma de a poco, como se desarman las fiestas buenas: despacio, con abrazos en la escalera, con gente que se despide tres veces y después se queda hablando igual. Krilin carga a Marron dormida. La 18 carga dos bolsas de comida que nadie le dio. El maestro Roshi se lleva una botella. Mr. Satán se lleva a Buu, que se lleva la mitad de las sobras en los brazos, con Bee trotando detrás.
+
+Milk despierta a Goku de la reposera tirándole de la oreja. Goku se levanta, se despereza, mira alrededor y pregunta si ya llegó el gato violeta. Milk no le contesta. Goten se le duerme encima en el muelle.
+
+Kase se te sube al hombro sin que se lo pidas, todavía medio dormido.
+
+Bulma está al pie de la planchada, descalza, con los zapatos en la mano y el vestido rojo arrugado, despidiendo a todo el mundo uno por uno. Cuando pasas a su lado, te frena con una mano en el brazo.
+
+—Oye, viajero. —Mira hacia el muelle, hacia donde Vegeta está parado de brazos cruzados, esperando, con la cara de siempre—. Me contaron que mañana a las seis tienes una cita con mi marido en la cámara de gravedad.
+
+Se ríe por lo bajo.
+
+—Monte Paoz queda a dos horas volando de Capsule Corp. Y Vegeta no perdona ni un minuto de atraso. —Te da una palmadita en el brazo—. Quédate a dormir en casa esta noche. Hay como cuarenta cuartos vacíos. Y una cocina que da miedo. —Mira a Kase—. Y seguro que algo para el gato.
+
+Después baja la voz, con una sonrisa traviesa.
+
+—Además, si te quedas, mañana en el desayuno a lo mejor me cuentas algo. Aunque sea un secreto chiquito.
+
+Detrás, en el muelle, Milk se da vuelta y te mira. Mira a Bulma. Frunce el ceño, como quien defiende su territorio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1535 · DRAGON BALL · SÁBADO · 19:30    ║
+║ Puerto de la Ciudad del Oeste · muelle       ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, medio dormido            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Mañana 6:00 entrenar con Vegeta    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 19:30, muelle de la Ciudad del Oeste. Bulma invita a Facundo a dormir en Capsule Corp (mañana 6:00, Vegeta). Milk frunce el ceño. Facundo puede responder.

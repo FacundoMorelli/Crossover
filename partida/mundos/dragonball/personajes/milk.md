@@ -34,3 +34,4 @@ ESTADO: bien.
 - T1527 · "¡Lo sabía! ¡Casi no comía! ¡Voy a ser abuela!" (llorando)
 - T1532 · Defiende a Facundo: "¡Es un buen muchacho! Me aró los dos campos antes del mediodía. Y come todo lo que le sirvo. Aunque no lee." Abraza llorando a Gohan y Videl.
 - T1533 · Le llena el plato a Facundo cada vez que lo deja.
+- T1535 · Despierta a Goku tirándole de la oreja. Ve a Bulma invitar a Facundo a dormir; frunce el ceño (territorial).

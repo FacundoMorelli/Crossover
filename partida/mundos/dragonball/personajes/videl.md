@@ -27,3 +27,4 @@ DIÁLOGOS CLAVE:
 - T1527 · Shenlong revela que lleva un saiyajin en el vientre. "Yo... Iba a decirlo hoy. En la torta." Participa del ritual de la mano de Gohan. ESTADO: embarazada (Pan), revelado ante todos.
 - T1533 · No esconde ya la panza. Al atardecer, junto a Facundo: "Te dije que después del cumpleaños te iba a pedir la revancha... Creo que la revancha va a tener que esperar un poco. Pero no te salvas, eh. Ni tú, ni tu gato."
 - T1534 · Por Facundo: "Felicidades." Sonrisa chica, torpe. Lo sabía hace dos semanas; quería decirlo al cortar la torta. "Mi papá se desmayó dos veces." Ve a Kase mirar su panza: "Le cae bien." "Va a nacer en unos meses. ¿Vas a estar? Me gustaría que lo conozca. O que la conozca. Todavía no sabemos."
+- T1535 · Facundo: "Voy a intentar estar." Aprieta la mano de Gohan.
