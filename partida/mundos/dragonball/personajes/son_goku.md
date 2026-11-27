@@ -132,3 +132,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1597 · Boca abierta, sin parpadear, mirando la pelea.
 - T1598 · Cae de rodillas sin que nada lo toque cuando Facundo deja de contenerse.
 - T1599 · Ve el golpe final: sigue de rodillas, boca abierta.
+- T1601 · "¡Facundo! ¿Cien semillas? ¿Me das una a mí también? ¡Para después! ¡Por si acaso!"

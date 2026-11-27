@@ -1599,3 +1599,4 @@ T1597 · DRAGON BALL · Planeta de Bills · Siguen en UI: Bills con ojos cerrado
 T1598 · DRAGON BALL · Planeta de Bills · Facundo deja de contenerse (sin golpear): el planeta cede, la barrera se dobla. Whis advierte que el golpe borraría a Bills, al Supremo Kaioshin y al planeta. Bills: "¡Le pedí todo!"
 T1599 · DRAGON BALL · Planeta de Bills · Último golpe conteniéndose un poco: rompe el Hakai del puño de Bills; Bills se incrusta en la pirámide. BILLS VENCIDO (vivo). +50.000 F, +40.000 EXP. NIVEL 33. Bills: "Te contuviste. Lo vi. Bien hecho."
 T1600 · DRAGON BALL · Planeta de Bills · Semilla del ermitaño a Bills ("mi Dios de la Destrucción"). Bills curado: "Tu Dios de la Destrucción te agradece. Una vez. No te acostumbres." Pregunta si hay más semillas o hamburguesas.
+T1601 · DRAGON BALL · Planeta de Bills · Semilla a 1 F (R15). 100 semillas para Bills (100 F). "Tu Dios de la Destrucción. A ti te dejo." Goku pide una. Vegeta quiere hablar con Facundo.

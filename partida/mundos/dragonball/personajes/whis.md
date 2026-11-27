@@ -72,3 +72,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1598 · Pegado a la barrera doblada, sin voz tranquila, a Facundo: "Si golpea con eso, Bills-sama... va a dejar de ser del todo. Y la vida de un Dios de la Destrucción está atada a la de su Supremo Kaioshin. Si cae uno, cae el otro. Y este planeta no va a quedar. Y no sé si va a quedar algo más."
 - T1599 · Báculo levantado a medio camino; lo baja. Aparece junto a Bills: "¿Está entero, Bills-sama?"
 - T1600 · Explica a Bills la semilla del ermitaño (las cultiva el maestro Karin; cura todo y llena como diez comidas; no tiene gusto). Va a arreglar la pirámide.
+- T1601 · Arregla la grieta de la pirámide. "Cien. Contadas. Le tiene mucho aprecio, Bills-sama." Al oír que Facundo dice ser de "su universo" (antes dijo otro mundo), levanta una ceja, casi pregunta, no lo hace: "Qué bueno que todo quedó claro."

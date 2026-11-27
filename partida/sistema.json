@@ -1,5 +1,5 @@
 {
-  "turno": 1600,
+  "turno": 1601,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, miércoles (hora Tierra), mediodía en el planeta de Bills",
@@ -7,7 +7,7 @@
   "nivel": 33,
   "exp": 441130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 289161,
+  "fragmentos": 289061,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2466,7 +2466,8 @@
       },
       "cosas_comunes": {
         "hamburguesa doble con queso y papas fritas": "1 Fragmento (fijado T1589)",
-        "malteada de chocolate grande": "1 Fragmento (fijado T1589)"
+        "malteada de chocolate grande": "1 Fragmento (fijado T1589)",
+        "semilla del ermitaño": "1 Fragmento (fijado T1601 por el jugador; antes 400)"
       }
     },
     "cosas_comunes": {

@@ -105,3 +105,7 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 - Desde T1440, el reloj de Dragon Ball corre acelerado: los ~4 años de canon hasta la llegada de Bills (año 778) transcurren en un mes de tiempo de Facundo. El canon de esos 4 años ocurre igual (Pan nace, etc.), con los cambios que dejó Facundo.
 - Cumplido ese mes, el reloj de Dragon Ball vuelve a correr al ritmo normal.
 - (T1547) CUMPLIDA: Bills llegó (año 778, cumpleaños de Bulma). El reloj de Dragon Ball ya corre normal.
+
+## R15. SEMILLAS DEL ERMITAÑO A 1 FRAGMENTO (T1601 · Dragon Ball · pedido del jugador)
+- Texto del jugador: "(hace que valga un fragmento nada mas)".
+- Desde T1601, la semilla del ermitaño cuesta 1 Fragmento en la tienda del Sistema (antes 400, comprada así en T630). Precio fijo de catálogo, en todos los mundos.
