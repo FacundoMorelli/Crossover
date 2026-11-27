@@ -1683,3 +1683,4 @@ T1681 · CHAINSAW MAN · Tokio, callejón · Viaje libre a un mundo nuevo: Chain
 T1682 · CHAINSAW MAN · callejón · "Hola." Santa Claus habla por el muñeco: "Qué pelo curioso, qué ojos, un gato." El muñeco corre hacia él.
 T1683 · CHAINSAW MAN · callejón Mitsukoshi · Esquiva al muñeco. Santa: "Eso fue muy rápido." "Me voy a quedar con los dos." Tres muñecos avanzan.
 T1684 · CHAINSAW MAN · avenida Mitsukoshi · Desmaya a 3 muñecos sin lastimarlos (+3 Frag). Avenida llena de muñecos; motosierra arriba. Un agente de Seguridad Pública le apunta: "¿Muñeco o persona?"
+T1685 · CHAINSAW MAN · avenida Mitsukoshi · "Soy una persona." Manos arriba. El agente mayor nota que los muñecos del callejón están quietos y enteros: "¿Qué les hiciste? ¿Quién eres?"

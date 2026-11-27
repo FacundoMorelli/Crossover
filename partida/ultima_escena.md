@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1682)
-
-hola
-
-## RESPUESTA 1 (T1682)
-
-> hola
-
-> —Hola.
-
-El hombre del maletín no contesta enseguida.
-
-Se queda quieto en la boca del callejón, con la lluvia corriéndole por la cara sin que parpadee. La sonrisa cosida no se mueve. Los ojos de botón no se mueven.
-
-Después, la boca se abre. No como se abre una boca: de golpe, entera, como una bisagra. Y la voz que sale no es la suya. Es la voz de una mujer mayor, tranquila, amable, con un acento extranjero que aplana las erres, y llega con un pequeño retraso, como una radio mal sintonizada.
-
-—Hola, joven. Qué educado.
-
-La cabeza se inclina un poco más hacia un costado. Cruje.
-
-—Qué pelo tan curioso tienes. Y qué ojos. —Una pausa—. Y un gato. Qué bonito gato.
-
-Kase, en tu nuca, eriza todo el pelo del lomo. No bufa. Se queda inmóvil, con las pupilas verticales hechas dos rayitas, mirando los ojos de botón.
-
-Detrás del oficinista, en la avenida, la gente corre. Un paraguas rojo rueda por el asfalto mojado. Alguien cae. Por entre las piernas que pasan corriendo ves a otros más que caminan como él, derechos, rígidos, sin prisa: una señora con una bolsa de compras, un chico con uniforme escolar, un repartidor con el casco puesto. Todos sonríen igual.
-
-Una sirena suena a lo lejos, del otro lado de la avenida.
-
-El oficinista deja caer el maletín. Golpea el piso del callejón con un ruido sordo y se abre. Está lleno de papeles mojados.
-
-—No te preocupes, joven —dice la voz de la mujer, con mucho cariño—. No duele. Te vas a quedar muy quieto y muy bonito.
-
-Da un paso hacia ti. Otro. Los brazos se le levantan solos, rígidos, con los dedos abiertos.
-
-Y empieza a correr.
-
-```
-╔══════════════════════════════════════════════╗
-║ MUÑECO (oficinista)                          ║
-║ Civil convertido · lo mueve otra persona     ║
-║ PODER: fuerza y resistencia de muñeco;       ║
-║        quien lo controla habla y ve por él   ║
-║ AMENAZA: ÍNFIMA                              ║
-║ Diferencia estimada: x0,002 sobre ti         ║
-║ NO COPIABLE (el poder es de quien lo mueve)  ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1682 · CHAINSAW MAN · DÍA 1 · 19:31    ║
-║ Tokio, otoño de 1997                         ║
-║ Callejón detrás de una tienda departamental  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca, erizado                    ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1683)
+## COMANDO 1 (T1683)
 
 que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
 
-## RESPUESTA 2 (T1683)
+## RESPUESTA 1 (T1683)
 
 > que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
 
@@ -117,11 +52,11 @@ Los tres dan un paso hacia ti al mismo tiempo.
 
 ---
 
-## COMANDO 3 (T1684)
+## COMANDO 2 (T1684)
 
 los desmayo a los tres sin lastimarlos y salgo a la avenida
 
-## RESPUESTA 3 (T1684)
+## RESPUESTA 2 (T1684)
 
 > los desmayo a los tres sin lastimarlos y salgo a la avenida
 
@@ -168,4 +103,51 @@ Te apunta.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:33, avenida frente a los almacenes Mitsukoshi. Los 3 muñecos desmayados y sentados en el callejón (Santa perdió la vista por ellos; no vio cómo). Decenas de muñecos caminan hacia la entrada de Mitsukoshi; desde un piso alto, rugido de motosierra (Denji) y vidrios. Camioneta de Seguridad Pública: dos agentes (uno con katana corta, otro joven con revólver, asustado). El del revólver apunta a Facundo: "¡Las manos donde las vea! ¡¿Eres un muñeco o eres una persona?!"
+## COMANDO 3 (T1685)
+
+soy una persona, tranquilo, levanto las manos
+
+## RESPUESTA 3 (T1685)
+
+> soy una persona, tranquilo, levanto las manos
+
+> —Soy una persona, tranquilo.
+
+Levantas las manos.
+
+El joven no baja el revólver. Te mira la cara con los ojos muy abiertos, buscando botones, costuras, la sonrisa. Encuentra un ojo rojo y un ojo azul, y se le traba la respiración.
+
+—Los ojos, Sato —dice, sin dejar de apuntarte—. Mira los ojos. Eso no es normal.
+
+—Los muñecos no levantan las manos, idiota. —El de la katana es mayor, de unos cuarenta, con una cicatriz vieja en el mentón y el pelo canoso cortado al ras. Se acerca por el costado, sin apuro, con la hoja baja pero lista. Te mira de arriba abajo: la camisa blanca empapada, los tatuajes que asoman por el cuello, los aros, el gato erizado en tu hombro—. Y no hablan. Bueno, hablan, pero con la voz de la vieja. Este habla con la suya.
+
+Se detiene a dos metros. Mira por encima de tu hombro, hacia el callejón. Los tres cuerpos sentados contra la pared, bajo el alero, con el maletín acomodado sobre las rodillas del oficinista, como si alguien los hubiera puesto ahí a esperar el colectivo.
+
+Frunce el ceño.
+
+—¿Y eso? —Señala con la punta de la katana, sin quitarte los ojos de encima—. Esos tres son muñecos. Les vi la cara desde acá. Y están quietos. Los muñecos no se quedan quietos. Nunca. Hay que cortarlos en pedazos para que se queden quietos. —Te mira otra vez—. Y esos están enteros.
+
+Detrás de él, en el medio de la avenida, los muñecos siguen caminando hacia Mitsukoshi. Dos se detienen. Giran la cabeza hacia ustedes, al mismo tiempo. Sonríen.
+
+El agente mayor los ve con el rabillo del ojo. Aprieta la empuñadura.
+
+—Tienes cinco segundos, muchacho. —La voz es seca, tranquila, cansada—. ¿Qué les hiciste? ¿Y quién mierda eres?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1685 · CHAINSAW MAN · DÍA 1 · 19:34    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.842 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:34, avenida frente a Mitsukoshi. Facundo con las manos en alto. El joven (Sato) sigue apuntando ("los ojos no son normales"). El agente mayor (~40, canoso al ras, cicatriz en el mentón, katana corta) nota que los tres muñecos del callejón están quietos y enteros ("hay que cortarlos en pedazos para que se queden quietos"). Dos muñecos de la avenida los miran. "Tienes cinco segundos, muchacho. ¿Qué les hiciste? ¿Y quién mierda eres?"

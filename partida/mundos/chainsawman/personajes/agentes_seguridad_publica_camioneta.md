@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: aspecto; que salió del callejón donde hay tres muñecos desmayados (no vieron cómo).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: activos.
+- T1685 · El joven se llama SATO (lo nombra el mayor). Sato: "Los ojos, Sato... Eso no es normal" (corrección: lo dice el joven al mayor; el mayor llama "idiota" al joven). AGENTE MAYOR: ~40, pelo canoso al ras, cicatriz vieja en el mentón, katana corta; seco, cansado. "Los muñecos no levantan las manos." "Hay que cortarlos en pedazos para que se queden quietos. Y esos están enteros." "Tienes cinco segundos, muchacho. ¿Qué les hiciste? ¿Y quién mierda eres?" QUÉ SABE: Facundo habla con su propia voz (no es muñeco); ojos de dos colores; tatuajes; gato; los tres muñecos del callejón están quietos y enteros.

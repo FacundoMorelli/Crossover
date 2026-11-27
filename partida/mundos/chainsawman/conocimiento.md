@@ -14,3 +14,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1683 · SANTA CLAUS vio (por sus muñecos) que Facundo esquivó con mucha velocidad y que no sabe dónde está (no es de ahí). Quiere convertirlo en muñeco, a él y al gato.
 - T1684 · SANTA CLAUS: perdió de golpe a sus tres muñecos del callejón mientras miraba a Facundo (no vio cómo); sabe que algo pasó con "el joven del gato".
 - T1684 · 2 AGENTES DE SEGURIDAD PÚBLICA (camioneta) vieron a Facundo salir del callejón con tres muñecos desmayados detrás. No vieron cómo.
+- T1685 · AGENTES (mayor y joven): saben (por Facundo) que es una persona; vieron sus ojos de dos colores, tatuajes, gato; el mayor dedujo que los muñecos del callejón fueron neutralizados enteros (algo inusual).
