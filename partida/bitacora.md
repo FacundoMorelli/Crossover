@@ -1591,3 +1591,4 @@ T1589 · DRAGON BALL · Planeta de Bills · Hamburguesa doble con papas y maltea
 T1590 · DRAGON BALL · Planeta de Bills · Nombre de la comida; Whis lo anota. Bills: la pelea sigue mañana. "Hoy quiero diez de esas." Goku, Whis y Vegeta también quieren.
 T1591 · DRAGON BALL · Planeta de Bills · 20 bandejas de la nada (40 F), sin el abrigo. Bills come 10: "Ya sabía que no era el abrigo." Goku, Whis y Vegeta comen. Bills: "Mañana seguimos. Esto de desayuno." Se duerme. Whis ofrece cuarto o llevarlo a la Tierra.
 T1592 · DRAGON BALL · Planeta de Bills · (Simulación) Noche en un cuarto de la pirámide; Whis le arregla la ropa. Mañana: Bills aparece pidiendo desayuno (hamburguesa doble). "Primero eso. Después peleamos."
+T1593 · DRAGON BALL · Planeta de Bills · 10 bandejas para el desayuno de Bills (20 F). "Mejor que de cena." Goku despierta y pide; Bills: "Las diez son mías."

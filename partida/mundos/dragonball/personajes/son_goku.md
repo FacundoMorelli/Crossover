@@ -125,3 +125,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1590 · "¡Y para mí! ¡Facundo, para mí también! ¡Por favor! ¡Yo no comí nada desde el puré!"
 - T1591 · Entra corriendo; dos hamburguesas a la vez, lágrimas de felicidad: "¡Gracias, Facundo! ¡Gracias, gracias, gracias!" Termina tirado con la panza inflada.
 - T1592 · Entrena solo de noche en azul en una roca flotante; después se le suma Vegeta. A la mañana, dormido en el pasto con la boca abierta.
+- T1593 · Se despierta por el olor: "Hamburguesa. Huele a hamburguesa." "¡Facundo! ¿Hay para mí también? ¡Anoche entrené un montón!"

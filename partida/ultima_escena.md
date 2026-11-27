@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1590)
-
-hamburguesa doble con queso y malteada de chocolate
-
-## RESPUESTA 1 (T1590)
-
-> hamburguesa doble con queso y malteada de chocolate
-
-> —Hamburguesa doble con queso, y malteada de chocolate.
-
-—Hamburguesa doble con queso —repite Bills, despacio, como quien aprende una palabra sagrada—. Y malteada de chocolate.
-
-Se queda callado, mirando la bandeja vacía. Le da vueltas al vaso con un dedo.
-
-—Whis.
-
-—¿Sí, Bills-sama?
-
-—Anota eso.
-
-—Ya lo anoté, Bills-sama. —Whis tiene una libretita en la mano, salida de quién sabe dónde, y escribe con una letra prolija—. Hamburguesa doble con queso. Malteada de chocolate. Las papas, ¿también?
-
-—Las papas también. Sobre todo las papas.
-
-Bills se pone de pie, se sacude las migas del pantalón roto y se limpia el queso de la barbilla con el dorso de la mano. La cola sigue moviéndose sola, contenta, aunque él trate de poner cara seria.
-
-Te mira. Al pelo plateado, al aire que tiembla alrededor tuyo. Y después, sin disimular nada, al bolsillo.
-
-—Bueno. —Se cruza de brazos—. Decidí algo.
-
-Levanta un dedo.
-
-—La pelea sigue. No terminó, que quede claro. Yo no dije que terminó. —Mira a Whis de reojo, desafiante, y Whis asiente muy serio—. Pero sigue mañana. Hoy ya no.
-
-Levanta otro dedo, y otro, y otro, hasta tener las dos manos abiertas.
-
-—Hoy quiero diez de esas.
-
-Afuera, Goku golpea la barrera con las dos palmas.
-
-—¡Y para mí! ¡Facundo, para mí también! ¡Por favor! ¡Yo no comí nada desde el puré!
-
-—Kakaroto, compórtate —gruñe Vegeta. Pero no deja de mirar el bolsillo.
-
-Whis se aclara la garganta, con la libretita apretada contra el pecho y la sonrisa más educada del universo.
-
-—Facundo-san. Si fuera tan amable. Una sola, aunque sea. Para un ángel que lleva toda la tarde cuidándole el gato.
-
-Kase, sentado junto a la barrera, te mira a ti. Después a las papas que no están. Y después otra vez a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1590 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera rehecha) · tarde          ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.237 · 0 zeni                  ║
-║ Energía 58% · Ojos: bien · mejilla abierta · ║
-║ corte fino en las costillas                  ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: junto a la barrera, mirándote          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills sigue mañana       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1591)
+## COMANDO 1 (T1591)
 
 dejo 20 bandejas que salgan de la nada sin seguir mintiendo con el abrigo
 
-## RESPUESTA 2 (T1591)
+## RESPUESTA 1 (T1591)
 
 > dejo 20 bandejas que salgan de la nada sin seguir mintiendo con el abrigo
 
@@ -149,11 +82,11 @@ Whis se limpia los labios con una servilleta y te mira, con la sonrisa de siempr
 
 ---
 
-## COMANDO 3 (T1592)
+## COMANDO 2 (T1592)
 
 me quedo aqui, simula hasta mañana con bills
 
-## RESPUESTA 3 (T1592)
+## RESPUESTA 2 (T1592)
 
 > me quedo aqui, simula hasta mañana con bills
 
@@ -216,4 +149,62 @@ Bosteza, enorme.
 
 ---
 
-ESTADO AL CIERRE: Mañana siguiente en la explanada. Bills, recién despierto, a un palmo: "Desayuno. Hamburguesa doble con queso. Primero eso. Después peleamos." Facundo puede actuar.
+## COMANDO 3 (T1593)
+
+le compro mas
+
+## RESPUESTA 3 (T1593)
+
+> le compro mas
+
+Levantas la mano otra vez.
+
+[Compra: 10 hamburguesas dobles con queso y papas fritas · 10 Fragmentos.]
+
+[Compra: 10 malteadas de chocolate grandes · 10 Fragmentos.]
+
+Las bandejas salen de la nada y se acomodan en el suelo de la explanada, en fila, humeando en el aire fresco de la mañana.
+
+A Bills se le abren los ojos del todo. Las orejas se le enderezan solas, la cola se le peina sola. Ya no tiene sueño.
+
+—Diez —cuenta, señalando con el dedo, rápido—. Bien. Muy bien.
+
+Se sienta en el suelo con las piernas cruzadas, en ropa de dormir, y arrastra las diez bandejas hacia él con la cola, en semicírculo, como un gato que junta a sus presas. Empieza por la del medio. Muerde, cierra los ojos y mastica despacio.
+
+—Esto de desayuno —dice, con la boca llena— es mejor que de cena.
+
+Kase se sienta a tu lado, a un metro del semicírculo de Bills, y mira las papas con mucha atención.
+
+En el pasto del borde, Goku deja de roncar de golpe.
+
+Se le mueve la nariz. Una vez. Dos. Abre un ojo. Después el otro. Se sienta de un salto, despeinado, con pasto en el pelo y marcas de la tierra en la cara.
+
+—Hamburguesa —dice, todavía medio dormido—. Huele a hamburguesa.
+
+Ve las bandejas. Ve a Bills. Te ve a ti.
+
+—¡Facundo! —Se pone de pie y viene corriendo, frenando a dos pasos del semicírculo de Bills, con cuidado de no meterse—. ¿Hay para mí también? ¡Anoche entrené un montón! ¡Estoy muertísimo de hambre!
+
+—Ni lo pienses —dice Bills, sin abrir los ojos, y abraza con la cola las bandejas más cercanas a Goku—. Estas son mías. Las diez.
+
+En su silla de playa, Whis baja la taza de té. No dice nada. Solo te mira, con la sonrisa educada de siempre y la libretita asomando del bolsillo de la túnica.
+
+En su roca, Vegeta descruza los brazos, aunque sigue sin mirarte.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1593 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada · mañana                           ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.177 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien · cortes cerrados  ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: a tu lado, mirando las papas           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Desayuno de Bills; después, pelea  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills desayuna sus 10 bandejas. Goku despierto pide hamburguesa; Whis mira en silencio; Vegeta descruza los brazos. Facundo puede actuar.
