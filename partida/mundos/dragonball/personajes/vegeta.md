@@ -155,3 +155,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1592 · De noche se suma al entrenamiento de Goku. A la mañana, despierto en su roca; mira para otro lado al ver a Facundo.
 - T1594 · Toma tres bandejas tras dudar largo rato; de espaldas, casi inaudible: "...Gracias." DIÁLOGO CLAVE: primera vez que le agradece a Facundo en voz alta delante de otros.
 - T1595 · De pie en su roca, puños sueltos, mirando la tercera ronda.
+- T1596 · A Goku, a la vez que Bills: "Tú te callas." Aparta la vista primero.

@@ -67,3 +67,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1591/1592 · Lleva a Facundo a un cuarto de la pirámide; le rehace la ropa con un golpecito del báculo: "La ropa, por lo menos. Las heridas son suyas. Buenas noches." Arregla la explanada de noche. "Buenos días, Facundo-san."
 - T1594 · Toma dos bandejas: "Es usted un anfitrión excelente, Facundo-san, en un planeta que ni siquiera es suyo. Le voy a pedir la receta algún día." Viste a Bills con el báculo; barrera más gruesa.
 - T1595 · Recibe a Kase (que salta solo al apoyabrazos): "Con mucho gusto, Facundo-san." Deja de sonreír y se inclina hacia adelante cuando Bills pelea con los ojos cerrados.
+- T1596 · Se ríe: "Hace más de doscientos años que le pido que entrene conmigo eso que acaba de hacer. Y nunca quiso. Siempre tenía sueño." "Y ahora, después de dos hamburguesas y una paliza..."

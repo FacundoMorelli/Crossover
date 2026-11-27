@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1593)
-
-le compro mas
-
-## RESPUESTA 1 (T1593)
-
-> le compro mas
-
-Levantas la mano otra vez.
-
-[Compra: 10 hamburguesas dobles con queso y papas fritas · 10 Fragmentos.]
-
-[Compra: 10 malteadas de chocolate grandes · 10 Fragmentos.]
-
-Las bandejas salen de la nada y se acomodan en el suelo de la explanada, en fila, humeando en el aire fresco de la mañana.
-
-A Bills se le abren los ojos del todo. Las orejas se le enderezan solas, la cola se le peina sola. Ya no tiene sueño.
-
-—Diez —cuenta, señalando con el dedo, rápido—. Bien. Muy bien.
-
-Se sienta en el suelo con las piernas cruzadas, en ropa de dormir, y arrastra las diez bandejas hacia él con la cola, en semicírculo, como un gato que junta a sus presas. Empieza por la del medio. Muerde, cierra los ojos y mastica despacio.
-
-—Esto de desayuno —dice, con la boca llena— es mejor que de cena.
-
-Kase se sienta a tu lado, a un metro del semicírculo de Bills, y mira las papas con mucha atención.
-
-En el pasto del borde, Goku deja de roncar de golpe.
-
-Se le mueve la nariz. Una vez. Dos. Abre un ojo. Después el otro. Se sienta de un salto, despeinado, con pasto en el pelo y marcas de la tierra en la cara.
-
-—Hamburguesa —dice, todavía medio dormido—. Huele a hamburguesa.
-
-Ve las bandejas. Ve a Bills. Te ve a ti.
-
-—¡Facundo! —Se pone de pie y viene corriendo, frenando a dos pasos del semicírculo de Bills, con cuidado de no meterse—. ¿Hay para mí también? ¡Anoche entrené un montón! ¡Estoy muertísimo de hambre!
-
-—Ni lo pienses —dice Bills, sin abrir los ojos, y abraza con la cola las bandejas más cercanas a Goku—. Estas son mías. Las diez.
-
-En su silla de playa, Whis baja la taza de té. No dice nada. Solo te mira, con la sonrisa educada de siempre y la libretita asomando del bolsillo de la túnica.
-
-En su roca, Vegeta descruza los brazos, aunque sigue sin mirarte.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1593 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada · mañana                           ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.177 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien · cortes cerrados  ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: a tu lado, mirando las papas           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Desayuno de Bills; después, pelea  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1594)
+## COMANDO 1 (T1594)
 
 dejo mas para los demas
 
-## RESPUESTA 2 (T1594)
+## RESPUESTA 1 (T1594)
 
 > dejo mas para los demas
 
@@ -133,11 +75,11 @@ Bills se da vuelta y te mira, con la panza llena y los ojos amarillos bien despi
 
 ---
 
-## COMANDO 3 (T1595)
+## COMANDO 2 (T1595)
 
 dejo a kase afuera y activo el ultra instinto dominado, empezamos
 
-## RESPUESTA 3 (T1595)
+## RESPUESTA 2 (T1595)
 
 > dejo a kase afuera y activo el ultra instinto dominado, empezamos
 
@@ -211,4 +153,62 @@ Bills abre los ojos. Se mira la mano. Te mira a ti. Una sonrisa le va naciendo d
 
 ---
 
-ESTADO AL CIERRE: Tercera ronda en UI Dominado. Bills no lo tocó en todo el intercambio; después, con los ojos cerrados y sin pensar, lo rozó por un pelo. "¿Así se hace? ¿Así?" Facundo puede contestar o actuar.
+## COMANDO 3 (T1596)
+
+quien diria que ayudaría a un dios a entrenar no?
+
+## RESPUESTA 3 (T1596)
+
+> quien diria que ayudaría a un dios a entrenar no?
+
+> —¿Quién diría que terminaría ayudando a un dios a entrenar, no?
+
+A Bills se le borra la sonrisa de golpe.
+
+—¿Entrenar? —Las orejas se le aplastan hacia atrás—. Un dios no entrena. Un dios es. Yo no estoy entrenando. Estoy... —Busca la palabra con la mano, en el aire—. Estoy investigando.
+
+Afuera, Whis se tapa la boca. No alcanza a tapar la risa.
+
+—Bills-sama, con todo respeto. Hace más de doscientos años que le pido que entrene conmigo eso que acaba de hacer. —Se seca una lágrima con la punta del dedo—. Y nunca quiso. Siempre tenía sueño.
+
+—Tenía sueño.
+
+—Y ahora, después de dos hamburguesas y una paliza, cierra los ojos solito en medio de la pelea.
+
+—No fue una paliza.
+
+—Claro que no, Bills-sama.
+
+Goku, agachado contra la barrera, levanta la mano como en la escuela.
+
+—¡Yo también quiero que Facundo me ayude a entrenar eso! ¡Lo del cuerpo que se mueve solo!
+
+—Tú te callas —dicen Bills y Vegeta al mismo tiempo.
+
+Se miran. Vegeta aparta la vista primero, de mal humor.
+
+Bills resopla, se sacude el pantalón blanco y se vuelve a parar delante de ti, a cinco pasos. Las orejas le vuelven a subir despacio. Te mira con los ojos entrecerrados, y por debajo del orgullo se le nota algo que no puede esconder: está contento como un chico.
+
+—No es entrenar —repite, por las dudas—. Es que ayer me ganaste en lo de comer, en lo de la esfera y en lo del Hakai. No pienso dejar que también me ganes en esto.
+
+Cierra los ojos otra vez. El aura violeta se le baja, finita, pegada a la piel. La cola se le queda quieta.
+
+—Otra vez —murmura—. Y no me tengas lástima.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1596 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera nueva) · mañana           ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.161 · 0 zeni                  ║
+║ Energía 92% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: en el apoyabrazos de Whis (afuera)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (tercera ronda)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills niega que entrene ("investigando"), pero cierra los ojos otra vez: "Otra vez. Y no me tengas lástima." Facundo en UI Dominado. Facundo puede actuar.

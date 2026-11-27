@@ -128,3 +128,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1593 · Se despierta por el olor: "Hamburguesa. Huele a hamburguesa." "¡Facundo! ¿Hay para mí también? ¡Anoche entrené un montón!"
 - T1594 · Lágrimas, le sacude la mano a Facundo: "¡Eres el mejor! ¡En serio, el mejor!" Come tres bandejas. Se queda con la boca abierta cuando Vegeta da las gracias.
 - T1595 · Agachado contra la barrera, sigue el rastro de chispas plateadas sin gritar, moviendo los labios, contando.
+- T1596 · Levanta la mano: "¡Yo también quiero que Facundo me ayude a entrenar eso! ¡Lo del cuerpo que se mueve solo!" (Bills y Vegeta: "Tú te callas.")
