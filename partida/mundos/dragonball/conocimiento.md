@@ -110,3 +110,4 @@
 - Bills, Whis, todos los del crucero · T1522 · Ven a Facundo sacar un pudín del bolsillo del sobretodo (sin bulto). Bills pregunta si lo tenía en el abrigo.
 - Todos los del crucero · T1523 · Oyen a Bills decir que busca al "Super Saiyajin Dios" y a Goku.
 - Todos los del crucero · T1524 · Ven a Bills vencer a Goku SSJ3 de un golpecito. Oyen el ultimátum (Super Saiyajin Dios o la Tierra destruida al atardecer).
+- Todos los del crucero, Bills, Whis · T1525 · Por Facundo: la idea de preguntarle a Shenlong.

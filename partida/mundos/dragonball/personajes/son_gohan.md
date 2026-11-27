@@ -28,3 +28,4 @@ DIÁLOGOS CLAVE:
 - T1511 · Cena en el Monte Paoz con Videl: anteojos, camisa abotonada, sonrisa tímida; le da la mano largo rato a Facundo, emocionado.
 - T1514/1515 · Anteojos secos; mira el cielo con el ceño fruncido tras ver el agua resbalar sobre nada.
 - T1524 · Sale disparado del crucero y ataja a Goku desmayado antes de que caiga al mar.
+- T1525 · Deja a Goku desmayado en una reposera.

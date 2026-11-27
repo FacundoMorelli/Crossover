@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1522)
-
-bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
-
-## RESPUESTA 1 (T1522)
-
-> bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
-
-Abres la tienda del Sistema por dentro, sin que nadie lo vea.
-
-[Compra: Pudín, igual al de la fiesta (caja de seis). 1 Fragmento.]
-
-Metes la mano en el bolsillo interior del sobretodo, como quien busca un pañuelo, y la sacas con un pudín. Uno solo, en su vasito, frío, temblando apenas, con el caramelo arriba brillando al sol. Igual, exactamente igual, a los de la fuente que Buu acaba de vaciar.
-
-> —Bills-sama, aquí tengo uno para usted.
-
-Se lo extiendes, con una cucharita.
-
-Bills se da vuelta. Mira el pudín. Te mira a ti. Mira el bolsillo del sobretodo, que no tiene ni una mancha, ni un bulto. Vuelve a mirar el pudín.
-
-—¿Lo tenías en el abrigo? —pregunta.
-
-No espera respuesta. Lo agarra con las dos manos. Le hunde la cucharita. Se la lleva a la boca.
-
-Se queda quieto.
-
-Las orejas enormes se le paran de golpe, rectas, como antenas. Los ojos amarillos se le abren muy grandes. La cola, que nadie había visto que tenía debajo de la ropa, se le asoma por detrás y se le mueve sola, de un lado al otro.
-
-—¿Qué... es... esto? —dice, con la boca llena.
-
-—Pudín, Bills-sama —dice Whis, con una sonrisa enorme—. Un postre terrestre. Huevo, leche, azúcar.
-
-—Pudín —repite Bills. Otra cucharada. Y otra. Cierra los ojos—. Pudín.
-
-Se termina el vaso en cuatro cucharadas, raspa el fondo con la cucharita, y después lo da vuelta y lo lame, sin ninguna dignidad de dios.
-
-En la cubierta, la gente empieza a respirar otra vez. Alguien se ríe bajito, nervioso. La música vuelve a parecer música. Vegeta, todavía de pie en el medio de la cubierta, suelta el aire de golpe, como si lo hubiera tenido guardado desde que apareció el cielo frío, y se pasa la mano por la frente, empapada.
-
-Al fondo, junto a la mesa de postres, Buu se queda mirando a Bills con la cuchara en la boca. Mira su fuente vacía. Mira el vasito vacío en la mano de Bills. Ladea la cabeza, curioso.
-
-Bills baja el vasito. Se limpia la boca con el dorso de la mano. Te mira. Y por primera vez desde que llegó, no tiene cara de aburrido.
-
-—Tú —dice, señalándote con la cucharita—. El del gato que me desprecia. —Una pausa larga, muy seria—. ¿Tienes más?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1522 · DRAGON BALL · SÁBADO · 12:24    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.248 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando el mar          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills en la Tierra · quedan 5      ║
-║ pudines                                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1523)
+## COMANDO 1 (T1523)
 
 si, le doy mas
 
-## RESPUESTA 2 (T1523)
+## RESPUESTA 1 (T1523)
 
 > si, le doy mas
 
@@ -133,11 +72,11 @@ En su silla, a lo lejos, Vegeta se tapa la cara con las dos manos.
 
 ---
 
-## COMANDO 3 (T1524)
+## COMANDO 2 (T1524)
 
 miro
 
-## RESPUESTA 3 (T1524)
+## RESPUESTA 2 (T1524)
 
 > miro
 
@@ -224,4 +163,67 @@ Whis suspira, con mucha pena, mirando la mesa del buffet.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:45, crucero. Bills venció a Goku y dio el ultimátum: Super Saiyajin Dios antes del atardecer o destruye la Tierra. Goku desmayado en brazos de Gohan. Facundo puede actuar.
+## COMANDO 3 (T1525)
+
+y si le preguntan a shenlong?
+
+## RESPUESTA 3 (T1525)
+
+> y si le preguntan a shenlong?
+
+> —¿Y si le preguntan a Shenlong?
+
+En el silencio de la cubierta, tu voz se oye en todas partes.
+
+Todos se dan vuelta hacia ti. Krilin, con un pedazo de torta a medio camino de la boca. Piccolo, desde la proa. Gohan, que acaba de aterrizar con Goku desmayado en los brazos. Vegeta, blanco.
+
+Y Bulma.
+
+Bulma abre los ojos enormes. Se da una palmada en la frente.
+
+—¡Las esferas! —grita—. ¡Las tengo aquí! ¡Las junté para el bingo! ¡Eran el primer premio!
+
+Sale corriendo hacia la cubierta de arriba, con el vestido rojo levantado con una mano y los tacones en la otra.
+
+Bills se da vuelta despacio hacia ti. Ladea la cabeza. Te mira otra vez de arriba abajo, al muchacho de ki chiquito con el gato en la baranda.
+
+—¿Shenlong? —repite—. ¿El dragón de las esferas? —Mira a Whis—. ¿Todavía existe ese dragón?
+
+—Eso parece, Bills-sama. Los namekianos lo hicieron para este planeta. Concede deseos. —Whis sonríe—. Y sabe muchas cosas.
+
+Bills se cruza de brazos. Lo piensa.
+
+—Mmm. Un dragón que sabe cosas. —Te señala con el mentón—. El del gato del pudín tiene buenas ideas. —Se sienta otra vez en la reposera, con las piernas cruzadas—. Está bien. Pregúntenle. Todavía falta mucho para que se ponga el sol.
+
+En la cubierta, la gente vuelve a respirar. Vegeta te mira, largo, desde el otro lado de la piscina. No dice nada. Pero ya no te mira como a un insecto.
+
+Bulma vuelve a los dos minutos, sin aire, con un maletín plateado de Capsule Corp. en los brazos. Lo apoya sobre una mesa, entre los platos, y lo abre.
+
+Adentro, en siete huecos de terciopelo, brillan siete esferas anaranjadas, cada una con sus estrellas rojas adentro. Una, dos, tres, cuatro, cinco, seis, siete.
+
+Brillan más fuerte cuando están juntas. Laten, como un corazón.
+
+Gohan deja a Goku en una reposera. Goku sigue desmayado, roncando, con la boca abierta.
+
+Bulma saca las siete esferas, una por una, y las pone en el suelo de la cubierta, en un círculo. Se endereza. Mira alrededor: a Bills, a Whis, a Vegeta, a Gohan, a Piccolo, a ti.
+
+—Bueno. —Traga saliva—. ¿Quién lo llama?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1525 · DRAGON BALL · SÁBADO · 12:50    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.248 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Preguntarle a Shenlong por el SSJ  ║
+║ Dios antes del atardecer                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:50, crucero. Las 7 esferas en círculo en la cubierta; Bills permite preguntarle a Shenlong. Goku desmayado. Bulma: "¿Quién lo llama?" Facundo puede actuar.

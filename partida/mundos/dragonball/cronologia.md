@@ -66,3 +66,4 @@
 - 12:24 · (T1522) Facundo le da a Bills un pudín de su "abrigo". Bills lo adora y pide más. (Cambio: se evita, por ahora, la pelea por el pudín.)
 - 12:25-12:30 · (T1523) Bills come los pudines de Facundo, contento. Pregunta por Goku; Goku se presenta en la fiesta (canon cambiado: no se enfrentaron en el planeta de Kaio).
 - 12:35-12:45 · (T1524, canon con cambio de lugar) Goku (SSJ3) vs Bills sobre el mar frente al crucero: Bills gana de un golpecito (canon: esto ocurría en el planeta de Kaio). Ultimátum: si al atardecer nadie le muestra al Super Saiyajin Dios, destruye la Tierra.
+- 12:50 · (T1525) Por idea de Facundo, Bulma trae las 7 Esferas del Dragón (juntadas para el bingo de la fiesta, canon) para preguntarle a Shenlong por el Super Saiyajin Dios. Bills lo permite.

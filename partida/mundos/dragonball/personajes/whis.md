@@ -15,3 +15,4 @@ ESTADO: activo
 - T1522 · "Pudín, Bills-sama. Un postre terrestre. Huevo, leche, azúcar."
 - T1523 · Pide un pudín; Bills le da el más chico. "Oh. Oh, sí. Exquisito." Le recuerda a Bills: el Super Saiyajin Dios y Goku.
 - T1524 · "Qué desperdicio de comida, Bills-sama."
+- T1525 · "Los namekianos lo hicieron para este planeta. Concede deseos. Y sabe muchas cosas."

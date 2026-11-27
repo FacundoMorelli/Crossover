@@ -1523,3 +1523,4 @@ T1521 · DRAGON BALL · Crucero · "Se llama Kase." Bills: buen nombre para un g
 T1522 · DRAGON BALL · Crucero · Compra pudines (1 F) y le da uno a Bills. Bills se enamora del pudín: "¿Tienes más?" Crisis del pudín evitada.
 T1523 · DRAGON BALL · Crucero · Le da los 5 pudines restantes a Bills (comparte 1 con Whis). Bills, contento. Busca a Goku: "¡Yo! ¡Soy yo!"
 T1524 · DRAGON BALL · Crucero · (observa) Goku no sabe qué es el SSJ Dios; pelea con Bills en SSJ3 sobre el mar y cae de un golpecito. Bills: hasta el atardecer o destruye la Tierra.
+T1525 · DRAGON BALL · Crucero · "¿Y si le preguntan a Shenlong?" Bulma trae las esferas (premio del bingo). Bills acepta: "El del gato del pudín tiene buenas ideas." "¿Quién lo llama?"

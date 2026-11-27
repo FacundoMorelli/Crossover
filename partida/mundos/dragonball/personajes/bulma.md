@@ -15,3 +15,4 @@ ESTADO: activa
 - T1514/1515 · (Corregido) La torta no se moja. Aplaude: "¡Ay, qué lindo! ¿Eso también es parte del truco, Goten?"
 - T1521 · Recibe a Bills y Whis como amigos de Vegeta: "¡Hay comida para cien, coman todo lo que quieran!"
 - T1524 · Deja caer la copa ante el ultimátum.
+- T1525 · Por la idea de Facundo: "¡Las esferas! ¡Las tengo aquí! ¡Las junté para el bingo! ¡Eran el primer premio!" Trae las siete en un maletín plateado de Capsule Corp.; las pone en círculo en la cubierta. "¿Quién lo llama?"

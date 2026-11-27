@@ -98,3 +98,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1522 · Suelta el aire de golpe al ver a Bills feliz con el pudín; frente empapada.
 - T1523 · Se sienta lejos, agotado. Cuando Goku se presenta ante Bills, se tapa la cara con las dos manos.
 - T1524 · "¡KAKAROTTO!" (tarde). Ante el ultimátum de Bills, blanco como una sábana.
+- T1525 · Mira a Facundo largo, desde el otro lado de la piscina; ya no lo mira como a un insecto.
