@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1689)
-
-Buenas noches, asi es, me llamo Facundo Morelli
-
-## RESPUESTA 1 (T1689)
-
-> Buenas noches, asi es, me llamo Facundo Morelli
-
-> —Buenas noches. Así es. Me llamo Facundo Morelli.
-
-—Facundo Morelli. —Makima lo repite despacio, con cuidado, como si guardara cada sílaba en un cajón distinto—. Mucho gusto, señor Morelli. Yo soy Makima. Trabajo para Seguridad Pública.
-
-No te tiende la mano. Junta las suyas delante del cuerpo, tranquila, bajo el paraguas que el chofer sostiene sin moverse ni un milímetro.
-
-Se da vuelta un poco, sin dejar de mirarte de reojo, hacia el carnicero dormido en el cordón de la vereda, con la cabeza contra el hidrante. Se agacha a su lado, con la falda del saco recogida, y le mira la cara de cerca. La sonrisa cosida, aflojada. Los párpados cerrados. Le apoya dos dedos en el cuello, en el pulso, como haría un médico. Los deja ahí un momento.
-
-—Respira —dice, más para ella que para nadie—. Duerme.
-
-Se pone de pie. Se sacude la rodilla del pantalón, aunque no tiene nada.
-
-—El señor Sato dice que usted hizo esto en pocos segundos, sin cortar a ninguno. —Te mira otra vez, con los anillos amarillos quietos—. Es algo que no había visto nunca. Y llevo bastante tiempo viendo cosas.
-
-Sato, a un costado, baja la vista al piso.
-
-Makima inclina la cabeza, apenas, hacia Kase. Kase no le saca los ojos de encima.
-
-—Tampoco lo siento —añade, con la misma voz suave, como quien comenta el clima—. A usted. Normalmente, cuando alguien tiene un pacto con un demonio, hay algo. Un olor, una sombra. —Una pausa—. Usted no tiene nada. Es como mirar a un empleado de banco.
-
-Sonríe.
-
-—Así que voy a preguntarle directamente, señor Morelli, porque me parece una persona directa. —Da medio paso hacia ti—. ¿Con qué demonio tiene un pacto? ¿O es usted otra cosa?
-
-Arriba, en Mitsukoshi, la alarma de incendio sigue chillando. Por la puerta principal, entre los vidrios rotos, empieza a salir humo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1689 · CHAINSAW MAN · DÍA 1 · 19:46    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Makima         ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1690)
+## COMANDO 1 (T1690)
 
 podrías decir que soy otra cosa, pero no soy una amenaza
 
-## RESPUESTA 2 (T1690)
+## RESPUESTA 1 (T1690)
 
 > podrías decir que soy otra cosa, pero no soy una amenaza
 
@@ -101,11 +50,11 @@ En la puerta de Mitsukoshi, entre el humo, aparecen dos siluetas que bajan las e
 
 ---
 
-## COMANDO 3 (T1691)
+## COMANDO 2 (T1691)
 
 esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
 
-## RESPUESTA 3 (T1691)
+## RESPUESTA 2 (T1691)
 
 > esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
 
@@ -175,4 +124,67 @@ Kase la mira desde tu hombro con una expresión de desprecio absoluto.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:50. Facundo aceptó trabajar para Makima "hasta que esto termine". Makima: el empleado buscado es Denji, arriba en Mitsukoshi, "probablemente sin sangre". Llamó a Aki; vino con Power. Power, por Kase: "¡Es más grande que Miau! ¡Exijo saberlo!" Aki la tira hacia atrás: "¿Quién es este, señorita Makima?" Tasaciones de Aki (vida más corta de lo que debería) y Power.
+## COMANDO 3 (T1692)
+
+soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
+
+## RESPUESTA 3 (T1692)
+
+> soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
+
+> —Soy Facundo, un viajero. Voy a trabajar con ustedes hasta que esto termine.
+
+Aki no cambia de cara.
+
+—Un viajero. —Te mira de arriba abajo: la camisa blanca empapada, los aros, los tatuajes del cuello, el gato—. ¿Con qué demonio tienes pacto?
+
+—Eso mismo le pregunté yo —dice Makima, con suavidad—. Todavía no me lo dijo.
+
+Aki la mira a ella, como pidiendo permiso para no estar de acuerdo. No lo pide.
+
+—Señorita Makima, con todo respeto. Hay cuatro grupos de asesinos en la ciudad buscando a Denji. Ya suplantaron a los de Kioto. —Baja la voz—. Y aparece un desconocido, en la puerta de Mitsukoshi, justo esta noche, y nos ofrece ayuda.
+
+—Lo sé. —Makima sonríe—. Mira a tu alrededor, Aki.
+
+Aki mira. Recién ahora, de verdad. Los dormidos en los bancos, en los autos, en los escalones, uno por uno, la avenida entera. El carnicero contra el hidrante. Los ancianos de la mano. Le cambia algo en la cara, apenas: una línea entre las cejas que se le marca más.
+
+—¿Esto lo hiciste tú? —te pregunta, sin mirarte, todavía mirando a la nena de las trenzas dormida contra el cartero.
+
+—En cuestión de segundos, según el señor Sato —contesta Makima por ti—. Sin cortar a nadie.
+
+Sato asiente una sola vez, muy serio, desde la camioneta.
+
+Aki se queda callado. Mira el ojo rojo. Mira el ojo azul. En su ojo derecho, el raro, algo se mueve un instante, como un reflejo que gira, y se queda quieto otra vez. Frunce más el ceño, como si hubiera buscado algo y no lo hubiera encontrado.
+
+—Bien —dice Makima, como si con eso estuviera todo resuelto—. Aki, el señor Morelli va con ustedes. Sube a buscar a Denji y no se separen. Yo tengo que hacer algunas llamadas. —Mira a Facundo, después al cielo encapotado, después a Kase—. Ella va a volver a intentarlo esta noche. Cuando lo haga, quiero que estén todos juntos.
+
+Se da vuelta y camina hacia el sedán negro, bajo el paraguas, sin apuro. El chofer le abre la puerta. El auto arranca despacio, esquivando a los dormidos, y se pierde en la esquina.
+
+Aki suspira, largo, por la nariz. Se pasa una mano por la cara y se deja ceniza en la frente.
+
+—Arriba. Piso siete. —Saca un cigarrillo, lo mira mojado, lo vuelve a guardar—. Y si haces algo raro, te corto. Lo digo en serio.
+
+A tu costado, Power no escuchó nada de lo anterior. Está en puntas de pie, con la cara a diez centímetros de Kase, estirando un dedo lleno de hollín, muy despacio, hacia su cola.
+
+—Power solo va a tocarlo un poquito —le susurra al gato—. Para ver si es de verdad.
+
+Kase la mira. Las orejas se le van para atrás.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1692 · CHAINSAW MAN · DÍA 1 · 19:53    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, orejas para atrás        ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Subir con Aki a buscar a Denji     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:53, avenida frente a Mitsukoshi. Aki desconfía ("¿Con qué demonio tienes pacto?"; cuatro grupos de asesinos; suplantaron a los de Kioto), pero ve a los dormidos; su ojo del Futuro se mueve y no encuentra algo. Makima: Facundo va con ellos; que suban a buscar a Denji y no se separen; Santa volverá a intentarlo esta noche. Makima se fue en el sedán. Aki: "Arriba. Piso siete. Y si haces algo raro, te corto." Power, en puntas de pie, estira un dedo hacia la cola de Kase: "Power solo va a tocarlo un poquito." Kase con las orejas para atrás.

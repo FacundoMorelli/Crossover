@@ -1690,3 +1690,4 @@ T1688 · CHAINSAW MAN · avenida Mitsukoshi · Espera acariciando a Kase. La mot
 T1689 · CHAINSAW MAN · avenida Mitsukoshi · "Me llamo Facundo Morelli." Makima: "No lo siento. Es como mirar a un empleado de banco. ¿Con qué demonio tiene un pacto? ¿O es usted otra cosa?"
 T1690 · CHAINSAW MAN · avenida Mitsukoshi · "No soy una amenaza." Makima: "Le creo. Por ahora." Santa lo busca. Aki y Power salen de Mitsukoshi. Makima: "Trabaje para mí esta noche. Le pagaré lo que pida."
 T1691 · CHAINSAW MAN · avenida Mitsukoshi · Acepta trabajar para Makima hasta que esto termine. El empleado es Denji. Llegan Aki y Power. Power: "¡Ese gato es más grande que Miau!" Aki: "¿Quién es este?"
+T1692 · CHAINSAW MAN · avenida Mitsukoshi · "Soy Facundo, un viajero." Aki desconfía. Makima lo manda con ellos y se va. Aki: "Piso siete. Si haces algo raro, te corto." Power quiere tocar a Kase.

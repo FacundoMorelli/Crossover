@@ -27,3 +27,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1690 · MAKIMA sabe (por Facundo) que es "otra cosa" y dice no ser una amenaza.
 - T1691 · AKI y POWER vieron a Facundo y a Kase (aspecto). Todavía no saben nada más.
 - T1691 · Facundo sabe (por Makima) que el empleado buscado es Denji.
+- T1692 · AKI sabe (por Facundo, Makima y Sato): nombre, viajero, trabaja con ellos, durmió a los 46 sin cortar. El FUTURO de Aki no muestra a Facundo (Velo).
