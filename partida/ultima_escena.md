@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1491)
-
-esta bien, le doy un poco de ki a kase asi puede mantenerse y lo dejo en el piso, bueno goku, empecemos
-
-## RESPUESTA 1 (T1491)
-
-> esta bien, le doy un poco de ki a kase asi puede mantenerse y lo dejo en el piso, bueno goku, empecemos
-
-Te sacas a Kase del hombro y lo sostienes contra el pecho. Le apoyas la palma en el lomo y le pasas un poco de ki: un hilo tibio, fino, que le corre por el cuerpo de la cola a las orejas.
-
-Kase deja de estar aplastado. Se le aflojan las uñas. Las orejas vuelven a su lugar. Te mira con los ojos rojo y azul, entornados, como si te concediera que esto sí está a la altura.
-
-Lo dejas en el pasto. Camina dos pasos, firme, como en cualquier otro mundo. Después va derecho hacia el mono, que deja de abanicar a Kaio-sama de golpe, y se sienta delante de él a mirarlo fijo. El mono retrocede.
-
-—¡Oye! —protesta Kaio-sama—. ¡Ese gato está asustando a Bubbles!
-
-> —Bueno, Goku. Empecemos.
-
-Goku sonríe más todavía, si es posible.
-
-Se agacha, se desata las pesas de los tobillos y las deja caer. Cada una hace un hoyo en el pasto y el planeta entero vibra un poco. Kaio-sama da un saltito en la reposera.
-
-—¡Goku! ¡Mi planeta! ¡Si vuelven a romperlo, como la última vez con...!
-
-—¡No lo vamos a romper, Kaio-sama! —Goku se estira, se trona el cuello, se pone en guardia con las piernas abiertas y los puños adelante—. Bueno. No tanto.
-
-Kaio-sama se lleva las manos a las antenas.
-
-Goku respira hondo. El aire alrededor de él se mueve, el pasto se aplasta en un círculo bajo sus pies. Todavía no se transforma. El pelo sigue negro. Pero los ojos ya no son los de un chico la mañana de un torneo: son los del torneo.
-
-—Empezamos tranquilos —dice—. Para calentar.
-
-Y desaparece.
-
-No se mueve: desaparece. Un parpadeo, un ruido de aire partido, y ya no está delante de ti. El pasto que pisaba se dobla de golpe hacia atrás, como si hubiera pasado un viento.
-
-Lo sientes por la izquierda. Un puño que viene a la altura de tu cara, rápido, limpio, con todo el peso de un hombre que pasó meses entrenando con diez veces su propia gravedad.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1491 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · planeta de Kaio-sama            ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el pasto, mirando fijo a Bubbles    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Goku · mensaje de Milk   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1492)
+## COMANDO 1 (T1492)
 
 peleó con goku conteniendome
 
-## RESPUESTA 2 (T1492)
+## RESPUESTA 1 (T1492)
 
 > peleó con goku conteniendome
 
@@ -124,11 +70,11 @@ Se pone en guardia otra vez. El suelo se agrieta bajo sus pies.
 
 ---
 
-## COMANDO 3 (T1493)
+## COMANDO 2 (T1493)
 
 sigo peleando
 
-## RESPUESTA 3 (T1493)
+## RESPUESTA 2 (T1493)
 
 > sigo peleando
 
@@ -192,4 +138,90 @@ Apunta hacia ti. Y detrás de ti, abajo, está el planeta.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, cielo del planeta de Kaio-sama. Goku SSJ3, cansado, carga a 50 m su Kamehameha más grande hacia Facundo, con el planeta detrás. Facundo puede reaccionar.
+## COMANDO 3 (T1494)
+
+recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
+
+## RESPUESTA 3 (T1494)
+
+> recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
+
+—...¡HAAAAAAAAAA!
+
+El Kamehameha sale de las manos de Goku como un río de luz azul, ancho como una casa, rugiendo, y cruza los cincuenta metros en menos de un parpadeo.
+
+No te corres.
+
+Lo recibes de frente, con las dos manos abiertas.
+
+El impacto es enorme. La luz te envuelve entera, te quema las palmas, te sacude los brazos hasta los hombros, te empuja hacia atrás, hacia abajo, hacia el planeta. El sobretodo te flamea a la espalda como una bandera en una tormenta. Sientes el pasto del planeta, abajo, a unos pocos metros de tus botas. Oyes a Kaio-sama gritar algo que no se entiende.
+
+Clavas los pies en el aire.
+
+Frenas.
+
+Y con las dos manos, despacio, como quien empuja una puerta muy pesada, le das vuelta al Kamehameha.
+
+El río de luz se dobla. Cruje. Gira sobre sí mismo, alrededor de tus palmas, como agua alrededor de una piedra, y cambia de dirección. Ya no va hacia el planeta. Va hacia arriba, hacia el cielo amarillo, hacia la nada del Otro Mundo.
+
+Lo sueltas.
+
+El Kamehameha sale disparado hacia arriba, enorme, azul, iluminando todo, y se pierde en el cielo hasta convertirse en un punto de luz. Un segundo después, muy lejos, estalla. Sin ruido. Una flor azul gigante que se abre y se apaga entre nubes que no terminan nunca.
+
+El planeta queda en silencio.
+
+Te miras las manos. Tienes las palmas rojas, humeando apenas. Te arden. Nada más.
+
+Arriba, a cincuenta metros, Goku sigue con los brazos estirados hacia adelante, como si todavía tuviera el Kamehameha entre las manos. Te mira con la boca abierta.
+
+El aura dorada le parpadea una vez. Dos.
+
+Y se apaga.
+
+El pelo le vuelve a ser negro, corto, en punta. Las cejas le vuelven a aparecer. Se le aflojan los brazos. Y Goku empieza a caer, despacio, de espaldas, sin fuerza para volar, riéndose.
+
+—Ja... ja, ja...
+
+Aterriza de espaldas en el pasto, en medio de un círculo de tierra quemada, con los brazos abiertos y el pecho subiendo y bajando, rápido.
+
+—¡Me rindo! —grita al cielo amarillo, sin levantarse, muerto de risa—. ¡Me rindo, me rindo! ¡Lo recibiste con las manos! ¡Con las manos! ¡Y lo diste vuelta!
+
+Kaio-sama se acerca corriendo, con Bubbles detrás. Mira el planeta: el techo arrancado, el árbol doblado, el pasto quemado, los surcos, los hoyos de las pesas. Mira el cielo, donde todavía se ve el resplandor azul muy lejos. Te mira a ti.
+
+—Salvaste... mi planeta —dice, con un hilo de voz.
+
+Después se da vuelta hacia Goku, que sigue en el suelo riéndose, y le da una patada en la pierna.
+
+—¡Y TÚ IBAS A DESTRUIRLO!
+
+—¡Perdón, Kaio-sama!
+
+Kase se acerca caminando por el pasto. Se para al lado de la cabeza de Goku. Lo mira desde arriba con los ojos rojo y azul, muy serio, como un juez. Goku le sonríe.
+
+—Hola, gato.
+
+Kase le apoya una pata en la frente. Después se va.
+
+[Duelo con un compañero vencido: Son Goku.]
+
+[+25.000 Fragmentos.]
+
+[+6.000 EXP.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1494 · DRAGON BALL · AÑO 777 · ---     ║
+║ Otro Mundo · planeta de Kaio-sama            ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: volviendo hacia ti por el pasto        ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Mensaje de Milk para Goku          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Duelo ganado: Facundo desvió el Kamehameha; Goku, en base y agotado, se rindió riéndose en el pasto. Pendiente: mensaje de Milk. Facundo puede actuar.

@@ -3,3 +3,4 @@ Diminuto (se ve la curva del horizonte a pocos pasos), gravedad diez veces la de
 - T1490 · Año ~777 · Facundo llega por teletransportación al ki de Goku.
 - T1492 · Daños del duelo: árbol doblado, terrones de pasto, surcos, una nube del Camino de la Serpiente cortada, suelo agrietado.
 - T1493 · Techo rojo de la casita arrancado (perdido entre las nubes). Camino de la Serpiente rajado en una línea larga cerca del planeta.
+- T1494 · Círculo de tierra quemada donde cayó Goku. El Kamehameha desviado estalló en el cielo, lejos.

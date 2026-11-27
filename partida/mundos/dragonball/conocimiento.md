@@ -73,3 +73,4 @@
 - Facundo · T1490 · Por Dende: Dende y Mr. Popo no bajan a la fiesta de Bulma.
 - Goku, Kaio-sama · T1491 · Ven a Facundo pasarle algo al gato con la mano (el gato deja de estar aplastado). Kaio-sama no siente ningún ki.
 - Goku, Kaio-sama · T1492 · Ven a Facundo pelear con Goku en base y contenerse (Goku lo nota). No le sienten el ki.
+- Goku, Kaio-sama, Bubbles, Gregory · T1494 · Ven a Facundo recibir con las manos el Kamehameha más grande de Goku (SSJ3) y desviarlo al cielo; solo le quedan las palmas rojas. Goku sabe que se contuvo.

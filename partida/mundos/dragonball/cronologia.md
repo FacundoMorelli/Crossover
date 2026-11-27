@@ -53,3 +53,4 @@
 - Año ~777, media mañana · (T1487) Facundo vuelve por una puerta al Templo Sagrado. Mr. Popo y Dende.
 - Años 775-777 · (T1488, por Dende) Gohan y Videl se casan (~775, mansión de Mr. Satán). Gohan estudia para investigador. Videl sigue entrenando. Goten y Trunks a la escuela. Vegeta en la cámara de gravedad. Krilin policía. Piccolo medita. Buu con Mr. Satán y Bee, sin hacer daño. Goku se fue hace unos meses al planeta de Kaio-sama a entrenar (Milk enojada). Próximo: cumpleaños de Bulma (fiesta grande) → Bills (778).
 - Año ~777 · (T1490) Facundo visita a Goku en el planeta de Kaio-sama (canon: Goku entrena allí cuando llega Bills).
+- (T1494) Duelo Facundo-Goku en el planeta de Kaio-sama: Goku (SSJ3) se rinde tras el Kamehameha desviado.

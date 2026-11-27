@@ -1492,3 +1492,4 @@ T1490 · DRAGON BALL · Templo → planeta de Kaio-sama · Dende no irá a la fi
 T1491 · DRAGON BALL · Planeta de Kaio-sama · Ki a Kase para la gravedad. "Bueno, Goku. Empecemos." Goku sin pesas, base; primer puño por la izquierda.
 T1492 · DRAGON BALL · Planeta de Kaio-sama · Duelo con Goku, conteniéndose. Goku pasa a SSJ, SSJ2 y SSJ3: "A ver hasta dónde puedes contenerte ahora."
 T1493 · DRAGON BALL · Planeta de Kaio-sama · Duelo contra Goku SSJ3: techo de la casa arrancado, Camino de la Serpiente rajado; golpes de ida y vuelta. Goku, cansado, carga el Kamehameha más grande, con el planeta detrás de Facundo.
+T1494 · DRAGON BALL · Planeta de Kaio-sama · Recibe el Kamehameha con las manos y lo desvía al cielo. Goku se rinde. Kaio-sama: "Salvaste mi planeta." +25.000 F, +6.000 EXP.

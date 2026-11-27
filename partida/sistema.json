@@ -1,13 +1,13 @@
 {
-  "turno": 1493,
+  "turno": 1494,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año ~777 (R14: tiempo acelerado; ~20 de los 30 días de Facundo hasta Bills transcurridos desde T1440 → Bills llega en ~10 días de Facundo)",
   "hora": "año ~777, Otro Mundo (sin hora)",
   "edad": 18,
   "nivel": 30,
-  "exp": 331130,
+  "exp": 337130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 114249,
+  "fragmentos": 139249,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 94,
+  "energia_actual_pct": 90,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2226,6 +2226,13 @@
       "tipo": "duelo serio (Susanoo completo, Amaterasu, Kirin); Facundo en UI, contenido",
       "fragmentos": 75,
       "exp": 800
+    },
+    {
+      "quien": "Son Goku (duelo, SSJ3)",
+      "mundo": "dragonball",
+      "turno": 1494,
+      "fragmentos": 25000,
+      "nota": "compañero, mitad de 50.000; Facundo contenido"
     }
   ],
   "viaje": {
