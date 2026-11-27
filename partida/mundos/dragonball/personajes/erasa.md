@@ -47,3 +47,4 @@ ESTADO: soltera (según Bulma).
 - T1660 · Baja con vestido rosa y una sola sandalia: "¡Mamá! ¡¿Ya le estás preguntando por la plata?! ¡No pasaron ni dos minutos!" "¡Papá vendía repuestos! ¡Era fácil!"
 - T1661 · Compró una almohadita para Kase (Kase le arranca la etiqueta y se echa). Lleva a Facundo al pie de la escalera: "Perdón, perdón, perdón. Nunca le hizo eso a nadie en la puerta." "Ahora va a pensar que eres un mafioso. O un príncipe. Ella siempre piensa una de las dos cosas. No eres ninguna de las dos, ¿no?"
 - T1662 · Por Facundo: no es mafioso ni príncipe ("Ya sé que no. Pero ella no sabe."). Lo espera fuera del baño. En la mesa, pie contra el de Facundo. Llora con las películas de barcos (según su mamá).
+- T1663 · Sabe (por Facundo, delante de su mamá): puede tardar semanas, volverá a visitarla, la llevaría si pudiera pero no se puede. Ojos rojos, sonrisa chica: "Yo no te pedí que me llevaras." Aprieta su pie fuerte bajo la mesa.

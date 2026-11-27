@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1660)
-
-le doy los bombones y le digo que soy viajero, conozco muchos lugares
-
-## RESPUESTA 1 (T1660)
-
-> le doy los bombones y le digo que soy viajero, conozco muchos lugares
-
-Le das la caja de bombones y le dices que eres viajero, que conoces muchos lugares.
-
-La madre de Erasa recibe la caja con las dos manos. Lee el nombre de la confitería en el papel dorado y levanta las cejas, impresionada, aunque trata de que no se le note.
-
-—De la calle Mayor. Mira tú. —Se la pone bajo el brazo, contra el delantal de patos—. Gracias, querido. Tienes buen gusto. O alguien que te aconseja bien.
-
-Después se queda mirándote, con la mano todavía en la tuya.
-
-—Viajero. —Lo repite despacio, como su hija la primera noche, pero en otro tono—. Conoces muchos lugares. Qué lindo. Mi marido también conoce muchos lugares, ¿sabes? Viaja por trabajo. Vende repuestos de aerodeslizadores. Y cada vez que vuelve, trae plata. —Sonríe, muy amable—. Y un imán horrible. Pero plata.
-
-Te suelta la mano.
-
-—Entonces, déjame ver si entiendo. Tú vas de un lado a otro, con un gato, conociendo lugares. —Levanta un dedo—. Pero los pasajes, la comida, los hoteles, la ropa... —Mira de reojo la camisa, que se nota cara, y el aerodeslizador rojo de la Corporación Cápsula estacionado en su vereda—. Eso de algún lado sale, ¿no? Porque viajar no es un trabajo, querido. Es un gasto.
-
-Pasos en la escalera. Erasa aparece en el pasillo detrás de su madre, sin aire, con un vestido rosa, una sola sandalia puesta y la otra en la mano.
-
-—¡Mamá! —Se queda congelada al oír la última frase—. ¡¿Ya le estás preguntando por la plata?! ¡No pasaron ni dos minutos!
-
-—Un minuto y medio. —La madre no se da vuelta. Sigue mirándote a ti, sonriendo, esperando—. Y le pregunté de qué vive, que no es lo mismo. Es una pregunta normal. Tu padre la contestó en la primera cita.
-
-—¡Papá vendía repuestos! ¡Era fácil!
-
-—Por eso. —La madre ladea la cabeza hacia ti, con toda la paciencia del mundo—. ¿Y bien, querido?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1660 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calle de los Tilos 14 · martes · 20:02       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: a tus pies                             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1661)
+## COMANDO 1 (T1661)
 
 es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
 
-## RESPUESTA 2 (T1661)
+## RESPUESTA 1 (T1661)
 
 > es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
 
@@ -107,11 +59,11 @@ Mira hacia la cocina. Baja todavía más la voz.
 
 ---
 
-## COMANDO 3 (T1662)
+## COMANDO 2 (T1662)
 
 no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
 
-## RESPUESTA 3 (T1662)
+## RESPUESTA 2 (T1662)
 
 > no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
 
@@ -163,4 +115,58 @@ Erasa la mira con los ojos entrecerrados, desconfiando.
 
 ---
 
-ESTADO AL CIERRE: martes 20:10, cocina comedor de la casa de Erasa, mesa redonda para tres (pollo al horno con papas y romero; vajilla buena). Mamá en la cabecera, Erasa a su derecha, Facundo enfrente. Pie de Erasa contra el de Facundo bajo la mesa. La mamá no pregunta más por el dinero, pero sí: "Erasa me contó que te vas... mi hija, que nunca salió de esta ciudad, me compró una almohada para tu gato. ¿Qué piensas hacer con ella cuando te vayas?"
+## COMANDO 3 (T1663)
+
+no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
+
+## RESPUESTA 3 (T1663)
+
+> no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
+
+> —No le voy a mentir: capaz tardo semanas en volver. Pero voy a venir a visitarla. Si pudiera llevarla conmigo, lo haría. Pero no se puede.
+
+La cocina se queda en silencio.
+
+Debajo de la mesa, la sandalia de Erasa deja de apretar tu pie. Se queda quieta, apoyada, nada más.
+
+Erasa no te mira. Mira su plato. Agarra el tenedor, lo vuelve a dejar. Se le ponen rojos los ojos, de a poco, desde los bordes, y parpadea muy rápido, dos, tres veces, para que no pase nada más. No pasa nada más. Pero se le escapa una sonrisa chiquita, torcida, que no puede esconder.
+
+—Yo no te pedí que me llevaras —dice, bajito, al mantel.
+
+La madre no dice nada. Te mira un rato largo, con los cubiertos todavía quietos a los costados del plato, y algo se le afloja en la cara. No mucho. Un poco. Como quien tenía un discurso preparado para otra respuesta y no le sirve.
+
+—Semanas —repite.
+
+Suspira. Mira de reojo a su hija, que sigue con la vista en el plato, y después a la vitrina de la sala, que se ve desde la cocina, llena de imanes horribles de aeropuerto.
+
+—El padre de esta chica, cuando éramos novios, me dijo que se quedaba para siempre en la Capital del Oeste. Que nunca iba a viajar. —Se ríe sin ganas, por la nariz—. A los tres meses ya estaba vendiendo repuestos en las Montañas del Norte. Y me trajo un imán.
+
+Agarra el tenedor, por fin. Se lleva el pedazo de papa a la boca. Mastica.
+
+—Por lo menos tú no mientes. —Lo dice como si le costara—. Eso es algo. No es mucho, pero es algo.
+
+Erasa levanta la vista. Mira a su madre. Te mira a ti. La sandalia vuelve a apretar tu pie, fuerte.
+
+—Bueno. —La madre se acomoda las perlas falsas con dos dedos y vuelve a ser amabilísima, de golpe, como si acá no hubiera pasado nada—. Basta de preguntas feas. Coman, que se enfría. —Te señala el plato con el cuchillo—. Y pruébalo bien, querido, que es la receta de mi madre y la hice para impresionarte. Si no te gusta, Erasa te dijo que mientas, ya sé. Así que fíjate.
+
+Las dos te miran. Erasa, con los ojos todavía un poco rojos y la boca apretada para no reírse. La madre, con el tenedor en el aire, esperando.
+
+Todavía no tocaste el pollo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1663 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 20:13        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:13, cena en la cocina comedor. Facundo dijo que tal vez tarde semanas, que volverá a visitarla, que la llevaría si pudiera pero no se puede. Erasa, ojos rojos y sonrisa chica: "Yo no te pedí que me llevaras." La mamá se ablanda un poco (el papá le prometió quedarse y a los tres meses viajaba): "Por lo menos tú no mientes. Eso es algo." "Coman. Pruébalo bien, es la receta de mi madre." Las dos esperan que Facundo pruebe el pollo.
