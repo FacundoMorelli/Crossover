@@ -74,3 +74,6 @@
 - 13:20-13:35 · (T1530, canon) Goku SSJ Dios absorbe la esfera de Bills; pierde la forma pero retiene el poder divino. Bills, con sueño, perdona a la Tierra. Pide pudín a Facundo antes de irse.
 - 13:40 · (T1531) Bills y Whis se van con doce pudines de Facundo. Fin del arco de Bills (canon con cambios: sin pelea del pudín, sin bofetada a Bulma, Goku vs Bills SSJ3 en el crucero). Próximo en el canon: Goku y Vegeta entrenan con Whis (Blue); Resurrección de Freezer.
 - 13:45-18:40 · (T1533) La fiesta sigue hasta el atardecer; el crucero vuelve a la Ciudad del Oeste.
+- Domingo 06:00-06:52 · (T1547) Entrenamiento Facundo-Vegeta a 500G; Vegeta se desmaya; cápsula de regeneración.
+- Domingo 20:30 · (T1547, canon) Whis va a buscar a Vegeta y a Goku para entrenarlos en el planeta de Bills (canon: allí alcanzan el SSJ Blue). Invita también a Facundo.
+- (R14) Terminado: desde la llegada de Bills (sábado), el reloj de Dragon Ball corre al ritmo normal de Facundo.

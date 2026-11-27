@@ -36,3 +36,4 @@ ESTADO: bien.
 - T1533 · Le llena el plato a Facundo cada vez que lo deja.
 - T1535 · Despierta a Goku tirándole de la oreja. Ve a Bulma invitar a Facundo a dormir; frunce el ceño (territorial).
 - T1536 · "Pero mañana a la noche viene a cenar a casa. Los desayunos de tu cocina son todo comida de cápsula." Discute con Bulma (robot chef) y se abrazan. A Facundo: "Mañana a la noche. Y si Vegeta te lastima, me avisas."
+- T1547 · Cena en el Monte Paoz (Facundo cumple). Habla de embarazo con Videl. Whis la deja muda con una mirada cuando quiere protestar.

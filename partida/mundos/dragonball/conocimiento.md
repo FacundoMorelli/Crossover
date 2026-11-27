@@ -132,3 +132,5 @@
 - Vegeta · T1544 · Ve la Forma Cenit de Facundo a pleno (x10) pero contenida (sin dañar nada). Sigue sin sentirle el ki.
 - Vegeta · T1545 · Ve a Facundo recibir y contener su Final Flash sin moverse.
 - Vegeta · T1546 · Por Facundo: la promesa de no contenerse cuando lo alcance.
+- Whis · T1547 · Sabe que Facundo come en casa de los Son; transmite la invitación de Bills.
+- Bulma, Trunks · T1547 · Ven a Vegeta desmayado tras entrenar con Facundo.

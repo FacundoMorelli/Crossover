@@ -1545,3 +1545,4 @@ T1543 · DRAGON BALL · Cámara de gravedad · Entrena con Vegeta con el Velo ba
 T1544 · DRAGON BALL · Cámara de gravedad · Forma Cenit contenida (no se rompe nada). Vegeta: "Esto es un incendio. Y no rompe ni una baldosa." Carga un Final Flash: "¡FINAL...!"
 T1545 · DRAGON BALL · Cámara de gravedad · Recibe el Final Flash de lleno y lo contiene. Vegeta, de rodillas por la gravedad: "Voy a llegar ahí. Prométemelo [que vas a dejar de contenerte]."
 T1546 · DRAGON BALL · Cámara de gravedad · Promete a Vegeta dejar de contenerse cuando lo alcance. Vegeta se levanta solo bajo 500G: "Otra vez. Y mañana. Y pasado."
+T1547 · DRAGON BALL · Capsule Corp → Monte Paoz · SIMULACIÓN: entrenamiento con Vegeta hasta que termina la Forma Cenit; Vegeta se desmaya (+25.000 F, +6.000 EXP). Día tranquilo. Cena en lo de Milk: aparece Whis, invita a Goku y a Vegeta a entrenar en el planeta de Bills y a Facundo a venir "con pudín".

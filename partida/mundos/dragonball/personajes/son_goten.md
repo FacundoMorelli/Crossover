@@ -40,3 +40,4 @@ ESTADO: bien.
 - T1516 · "Es que es verdad. Tu papá te enseña cosas todo el tiempo." "Ahora yo tengo una y tú no."
 - T1532 · "Que me enseñó la Bola Giratoria." (orgulloso)
 - T1533 · Se ríe tanto de Trunks que se cae al mar; Gohan lo pesca.
+- T1547 · Cuenta que Trunks intentó la Bola Giratoria cuarenta veces y le explotó siempre en la cara.

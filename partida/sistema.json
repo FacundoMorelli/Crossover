@@ -1,13 +1,13 @@
 {
-  "turno": 1546,
+  "turno": 1547,
   "mundo_actual": "dragonball",
-  "fecha_local": "Dragon Ball: año 778, domingo (día después del cumpleaños de Bulma)",
-  "hora": "año 778, domingo, 06:11",
+  "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
+  "hora": "año 778, domingo, 20:30",
   "edad": 18,
   "nivel": 30,
-  "exp": 343130,
+  "exp": 349130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 164245,
+  "fragmentos": 189245,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 70,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2246,6 +2246,13 @@
       "turno": 1508,
       "fragmentos": 25000,
       "nota": "compañero, mitad; Facundo menos contenido"
+    },
+    {
+      "quien": "Vegeta (entrenamiento serio, SSJ2, 500G)",
+      "mundo": "dragonball",
+      "turno": 1547,
+      "fragmentos": 25000,
+      "nota": "compañero en serio, mitad de 50.000"
     }
   ],
   "viaje": {
@@ -2671,6 +2678,5 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  },
-  "forma_activa": "Forma Cenit (x10, contenida) desde 06:07; quedan ~41 min"
+  }
 }

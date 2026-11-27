@@ -245,3 +245,4 @@
 - Shingeki: SALIDA Día 130 ~07:00, jardines del palacio de Mitras. Ymir espera ("antes de que se me arruguen las manzanas"). Expedición de Eren en el mar (6 meses). Corre.
 - Dragon Ball: VUELVE año ~777 (R14: ~20 de 30 días de Facundo transcurridos desde T1440; Bills en ~10 días de Facundo), Templo Sagrado, media mañana.
 - Dragon Ball (T1499): R14 ajustado: Bills llega el sábado (cumpleaños de Bulma), en 4 días de Facundo desde el Día de la vuelta.
+- Dragon Ball (T1547): R14 TERMINADO; el reloj vuelve a correr normal desde la llegada de Bills (año 778).

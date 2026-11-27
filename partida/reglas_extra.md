@@ -104,3 +104,4 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 - Texto del jugador: "¿podés hacer que en Dragon Ball solo por esta vez el tiempo pase más rápido hasta la llegada de Bills? O sea que en 1 mes sea la llegada, o sea que los 4 años pasen igual".
 - Desde T1440, el reloj de Dragon Ball corre acelerado: los ~4 años de canon hasta la llegada de Bills (año 778) transcurren en un mes de tiempo de Facundo. El canon de esos 4 años ocurre igual (Pan nace, etc.), con los cambios que dejó Facundo.
 - Cumplido ese mes, el reloj de Dragon Ball vuelve a correr al ritmo normal.
+- (T1547) CUMPLIDA: Bills llegó (año 778, cumpleaños de Bulma). El reloj de Dragon Ball ya corre normal.

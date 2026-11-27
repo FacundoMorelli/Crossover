@@ -12,3 +12,4 @@ ESTADO: activo
 - T1516 · Facundo: "Por ahora no... no sería justo." "¡Mi papá me enseña a que me peguen en la cámara de gravedad! ¡Eso no es una técnica!" "Dijiste por ahora. Eso quiere decir que después sí." Se va furioso, le saca la lengua a Goten y se van juntos riéndose a los postres.
 - T1532 · "Que tiene menos ki que Krilin."
 - T1533 · Intenta la Bola Giratoria sin que le enseñen; se le explota en la cara una y otra vez.
+- T1547 · Persigue a Facundo por los pasillos pidiendo la técnica de Goten; Bulma lo manda a hacer la tarea.
