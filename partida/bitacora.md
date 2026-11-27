@@ -1678,3 +1678,4 @@ T1676 · DRAGON BALL · casa de Erasa · Beso en la frente. Erasa, dormida: "¿Y
 T1677 · DRAGON BALL · casa de Erasa · Espera con el café. 08:41 Erasa despierta sobre su pecho: "Me dormí encima tuyo." "¿Mi mamá nos vio?"
 T1678 · DRAGON BALL · casa de Erasa · "Nos tapó, me dio un café y se fue." Erasa: "Me quiero morir." La taza buena, la manta de lana. "¿Qué te dijo? Palabra por palabra."
 T1679 · DRAGON BALL · casa de Erasa · Le cuenta lo que dijo su mamá. Erasa conmovida y muerta de risa. Se va a bañar: "Tú prepara el desayuno. ¿Qué hacemos hoy?"
+T1680 · DRAGON BALL · Capital del Oeste · SIMULACIÓN mié→sáb. Días con Erasa. Goku y Vegeta se van con Whis. Despedidas de todos. Imán del pato: "Es para que vuelvas." Colina, 19:40: falta abrir la puerta.

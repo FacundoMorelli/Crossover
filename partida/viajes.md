@@ -250,3 +250,6 @@
 ## MUNDOS NUEVOS (T1657 · R16)
 - Se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling (canon en canon/demonslayer, canon/fullmetal, canon/chainsawman, canon/sololeveling). Sin visitar. /viajar nuevo elige al azar entre ellos.
 - Completados: 12/16.
+
+## DRAGON BALL — SALIDA (T1680)
+- Sale el sábado del año 778, 19:40, colina detrás del parque central de la Capital del Oeste. Prometió volver en unas semanas (Erasa, Goku, Vegeta). El reloj de Dragon Ball corre al ritmo de Facundo.

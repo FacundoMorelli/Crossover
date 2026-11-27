@@ -149,3 +149,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1635 · Recibe de Facundo el algodón de azúcar entre cáscaras de papa: "¡Facundo, eres el mejor!"
 - T1644 · "¡Para mí! ¡El que sigue para mí!" Devora su pedazo en dos bocados.
 - T1657 · Lunes: visita la Corporación con Goten, come por cuatro, quiere pelear con Facundo; Milk se lo lleva de la oreja (trabajo en el campo).
+- T1680 · Jueves: se va con Whis y Vegeta a entrenar al planeta de Bills. A Facundo: pelea cuando vuelva, "¡pero en serio, eh, con todo!". ESTADO: en el planeta de Bills.

@@ -87,3 +87,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1639 · Desde la libretita, a Erasa (por los barcos de madera): "Algunos son de madera."
 - T1644 · "Bills-sama está bromeando, señorita." "Está bromeando." Reverencia al recibir su pedazo de torta.
 - T1657 · Domingo 09:00: se va con Bills. A Goku: el entrenamiento sigue; "y para usted también, señor Morelli, cuando quiera".
+- T1680 · Jueves: se lleva a Goku y Vegeta al planeta de Bills. Su ofrecimiento a Facundo sigue en pie "cuando el señor Morelli lo disponga".

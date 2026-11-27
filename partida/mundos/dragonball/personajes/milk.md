@@ -54,3 +54,4 @@ ESTADO: bien.
 - T1643 · Se cruza de brazos, celosa, cuando a Bills le gusta la torta; igual asiente.
 - T1646 · Envuelve la torta sobrante para la mamá de Erasa.
 - T1657 · Lunes: se lleva a Goku de la oreja a trabajar al campo.
+- T1680 · Sábado: táper enorme envuelto en pañuelo, "que flaco como estás no llegas a ningún lado"; lo regaña por irse.

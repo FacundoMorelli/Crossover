@@ -177,3 +177,4 @@
 - T1657 · VIDEL sabe (por Erasa) todo lo de las citas con Facundo. MAMÁ DE ERASA lo vio de cerca el domingo (aspecto). La dueña de la panquequería del barrio lo vio con Erasa (aspecto, gato).
 - T1665 · ERASA y su MAMÁ saben (por Facundo) que tiene 18 años.
 - T1666 · FACUNDO sabía la edad de Erasa (22) por VIDEL (declarado por el jugador). Erasa y su mamá lo saben (por Facundo).
+- T1680 · Todos los guerreros Z, Bulma, Milk, Videl, Erasa y su mamá saben (por Facundo) que se va "unas semanas" y que vuelve.

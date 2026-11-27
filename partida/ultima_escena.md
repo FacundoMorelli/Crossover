@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1677)
-
-tomo el café y espero a que se despierte
-
-## RESPUESTA 1 (T1677)
-
-> tomo el café y espero a que se despierte
-
-Te tomas el café despacio. Está bueno: fuerte, con poca leche, sin azúcar. Dejas la taza vacía en la mesita, al lado de la de la madre.
-
-Y esperas.
-
-La mañana entra en la sala de a poco. La luz gris se vuelve amarilla, después blanca, y avanza por la alfombra centímetro a centímetro hasta llegar a Kase, que se estira al sol sin moverse de debajo de la mano de Erasa. Afuera, el barrio se despierta: una persiana que sube, un perro que ladra dos casas más allá, una bicicleta, el camión de la leche que para en la esquina y sigue. En la cocina, el reloj con forma de pato da las siete, las siete y media, las ocho.
-
-Erasa no se mueve. Duerme como si alguien la hubiera desenchufado. En algún momento cambia de lado la cara sobre tu pecho, y la marca del botón pasa a la otra mejilla. En otro momento sonríe, dormida, sin motivo. En otro dice "no, el pato no", muy seria, y sigue durmiendo.
-
-A las ocho y cuarenta, un rayo de sol se mete por la rendija de la cortina y le cae justo en los ojos.
-
-Arruga la cara entera. Gruñe. Se tapa con la manta hasta la nariz. Se queda así un segundo, quieta.
-
-Después abre un ojo.
-
-Ve tu camisa. El botón. Tu cuello. Los dragones tatuados que asoman por el cuello de la camisa, a dos centímetros de su nariz.
-
-Abre el otro ojo.
-
-Se queda completamente inmóvil. No respira. Se le nota en los hombros, en la mano que tiene sobre tu pecho, que se pone rígida. Mira, sin mover la cabeza, todo lo que puede ver: la sala con luz de día, la lámpara apagada, la manta de lana crema que no es suya, las dos tazas vacías en la mesita. Dos.
-
-Levanta la cara despacio. Te mira desde abajo, con el pelo hecho un desastre, la marca roja del botón en la mejilla, la boca abierta y los ojos celestes enormes.
-
-—Me dormí —susurra, horrorizada—. Me dormí encima tuyo.
-
-Mira las dos tazas. Mira la manta de lana. Se le va todo el color de la cara y después le vuelve todo junto, de golpe, rojo hasta las orejas.
-
-—Esa manta es de mi mamá. —Su voz sube media octava—. ¿Mi mamá bajó? ¿Mi mamá nos vio?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1677 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sala · miércoles · 08:41      ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: al sol, bajo la mano de Erasa          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1678)
+## COMANDO 1 (T1678)
 
 si, nos tapó y me dio un café, y se fue a trabajar
 
-## RESPUESTA 2 (T1678)
+## RESPUESTA 1 (T1678)
 
 > si, nos tapó y me dio un café, y se fue a trabajar
 
@@ -105,11 +53,11 @@ Habla entre los dedos:
 
 ---
 
-## COMANDO 3 (T1679)
+## COMANDO 2 (T1679)
 
 que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
 
-## RESPUESTA 3 (T1679)
+## RESPUESTA 2 (T1679)
 
 > que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
 
@@ -157,4 +105,58 @@ Se detiene en el primer escalón. Se da vuelta, todavía con la mano tapándose 
 
 ---
 
-ESTADO AL CIERRE: miércoles 08:47, sala. Erasa sabe lo que dijo su mamá; se conmueve (no se despertó ni una vez) y se muere de risa con la amenaza. Sube a bañarse (10-20 min). Le pide a Facundo que prepare el desayuno (pan, mermelada de durazno). "¿Qué hacemos hoy? Yo no tengo nada. Absolutamente nada. Todo el día." Kase al sol en el otro sillón, ofendido por el escándalo.
+## COMANDO 3 (T1680)
+
+simula unos dias mas y despidiendome de todos por unas semanas seguramente(cuanto queda para la resurrección de freezer?)
+
+## RESPUESTA 3 (T1680)
+
+> simula unos días más, despidiéndome de todos por unas semanas seguramente
+
+Miércoles. El desayuno sale mejor de lo que Erasa esperaba: pan tostado, mermelada de durazno, café, y un platito de leche para Kase, que ella baja con el pelo todavía mojado y se queda mirando desde la escalera como si hubiera encontrado un tesoro. Pasan el día juntos sin plan. El museo de la Capital del Oeste, donde ella se aburre en la sala de los dinosaurios y se emociona en la de los barcos antiguos. La heladería de la foto. Una tarde entera tirados en el pasto del parque, con Kase durmiendo sobre la panza de Erasa. A las cinco vuelve su madre; los encuentra en la cocina, lavando los platos del desayuno a las cinco de la tarde, y no dice nada, pero pone a calentar agua para tres.
+
+Jueves, por la mañana. Whis baja del cielo en el jardín de la Corporación Cápsula, a buscar a Goku y a Vegeta para seguir el entrenamiento en el planeta de Bills, como había avisado. Goku llega volando desde el campo, todavía con la azada en la mano y la boca llena de arroz. Le dices que te vas por unas semanas. Goku se rasca la cabeza, se ríe y te hace prometer una pelea cuando vuelvas, "¡pero en serio, eh, con todo!". Vegeta te mira de arriba abajo, cruzado de brazos, y dice que cuando vuelvas te va a ganar. Después, sin mirarte, ya de espaldas, que no tardes demasiado. Whis inclina la cabeza: el ofrecimiento sigue en pie, "cuando el señor Morelli lo disponga". Se van en una columna de luz.
+
+Jueves, por la tarde. Erasa te pregunta cuándo. Por primera vez desde la cena de Bulma, te lo pregunta de frente, sentada en el escalón de su casa, con las rodillas abrazadas. Le dices que el sábado. Que son unas semanas. Que vuelves. Ella asiente, mira el buzón del pato un rato largo, y dice que está bien. Que el sábado entonces. Y que hasta el sábado no se habla más del tema. No se habla más del tema.
+
+Viernes. Un día entero sin hablar del tema. Botes con forma de cisne otra vez, porque ella quiere. Panqueques otra vez, porque ella quiere. La dueña le regala a Kase un platito de crema y a Erasa un panqueque con forma de corazón que Erasa se come muy roja sin mirarte. Esa noche cenan los tres en la casa de los Tilos; la madre hace otra vez el pollo, "porque te gustó, no por otra cosa", y le pone a Kase un platito propio en el piso, con su nombre escrito en un papelito.
+
+Sábado, mañana. La Corporación Cápsula. Bulma te abraza tan fuerte que te levanta los pies del piso, y te pone en la mano un estuche plateado de cápsulas: "Vacías. Para que guardes cosas, viajero. Las vas a necesitar. Y la siete es tuya: no te hagas el tonto, te la regalo". Trunks te da la mano como un adulto y después, cuando cree que nadie mira, te abraza la cintura. Goten llora a los gritos, colgado de tu pierna, hasta que Kase le pasa la cola por la cara y se ríe sin querer. Milk te da un táper enorme envuelto en un pañuelo, "para el viaje, que flaco como estás no llegas a ningún lado", y te regaña por irte. Videl y Gohan pasan a despedirse antes del almuerzo. Gohan te da la mano. Videl, con la panza cada vez más grande, te agarra del cuello de la camisa, te baja a su altura y te dice al oído, muy seria, que si Erasa llora, ella también te encuentra. "Mi papá es el campeón del mundo, ¿sabes?". Después te suelta y te sonríe.
+
+Sábado, atardecer. Calle de los Tilos, catorce.
+
+La madre de Erasa te recibe en la puerta, sin delantal. Te mira un rato largo. Después te abraza. Es un abrazo corto, fuerte, que huele a romero, y te dice al oído, bajito, que la isla, la montaña y el gato siguen en pie. Que vuelvas. Que avises antes, que hace pollo. Entra y los deja solos en la vereda.
+
+Erasa sale con el sobretodo negro puesto, aunque hace calor. Tiene los ojos secos. Se nota que se prometió que iban a estar secos.
+
+Te da algo, envuelto en papel de diario. Es un imán. Un imán horrible, de un pato amarillo con un ojo torcido, igual al buzón, que se nota que pintó ella misma.
+
+—Es al revés —dice, con la voz firme—. Mi papá trae imanes cuando vuelve. Yo te doy uno cuando te vas. Así lo traes de vuelta. —Te cierra los dedos sobre el imán—. Es para que vuelvas. No para que te acuerdes. Acordarte te vas a acordar. Es para que vuelvas.
+
+Kase, en tu hombro, estira el cuello y le toca la nariz con la nariz. Erasa se ríe. Y ahí sí, un poco, se le mojan los ojos.
+
+Te despides de ella en la vereda, junto al buzón del pato. Ella no te pide que te quedes. Te da un beso, un último abrazo largo, con la cara escondida en tu pecho, y entra a su casa sin darse vuelta, porque si se da vuelta, dice, no entra más. La puerta se cierra. Un segundo después se abre la cortina del segundo piso, y está ahí, con la manga vacía del sobretodo, saludándote como un limpiaparabrisas.
+
+Sábado, 19:40. La colina detrás del parque central, donde no hay nadie. El sol se hunde detrás de los edificios redondos de la Capital del Oeste. Abajo, entre los techos, se distingue la cúpula amarilla de la Corporación Cápsula y, muy chiquita, la calle de los Tilos.
+
+Tienes el estuche de Bulma, el táper de Milk y el imán del pato en el inventario. Kase está en tu hombro, mirando la ciudad. Estás solo.
+
+Solo falta abrir la puerta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1680 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Colina del parque central · sábado · 19:40   ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Abrir la puerta (viaje libre)      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: sábado 19:40 (año 778), colina detrás del parque central de la Capital del Oeste, solo con Kase. Despedidas hechas (Goku, Vegeta, Whis el jueves; Bulma, Trunks, Goten, Milk, Gohan, Videl el sábado a la mañana; la mamá de Erasa y Erasa al atardecer). Prometió volver en unas semanas. Lleva el estuche de cápsulas de Bulma (con la cápsula 7, regalada), el táper de Milk y el imán del pato de Erasa. Falta abrir la puerta (viaje libre): destino sin elegir.

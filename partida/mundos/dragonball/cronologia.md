@@ -84,3 +84,5 @@
 - Lunes (planeta de Bills) · (T1560) Entrenamiento del azul con Whis. Goku 1 min, Vegeta 3 min. Vegeta desafía a Facundo para mañana.
 - Año 778, domingo 09:00 · (T1657) Bills y Whis vuelven a su planeta tras la cena (Whis mantiene la oferta de entrenamiento a Goku, Vegeta y Facundo).
 - Domingo-lunes · (T1657) Tierra en paz. Facundo sale con Erasa. Próximo en el canon: Resurrección de Freezer (año 779; ~4 meses de entrenamiento de Freezer tras ser revivido).
+- Año 778, miércoles-sábado · (T1680) Facundo con Erasa. Jueves: Whis se lleva a Goku y Vegeta al planeta de Bills a entrenar (canon). Sábado 19:40: Facundo se despide de todos; se va "unas semanas".
+- PRÓXIMO EN EL CANON (fijado T1680): Sorbet y Tagoma llegan a la Tierra ~5 meses después (inicio del año 779), reúnen las Esferas con Pilaf y reviven a Freezer; Freezer entrena ~4 meses (Golden Freezer) y ataca la Tierra ~9 meses después de la partida de Facundo.
