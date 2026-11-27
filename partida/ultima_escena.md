@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1496)
-
-esta bien voy
-
-## RESPUESTA 1 (T1496)
-
-> esta bien voy
-
-> —Está bien. Voy.
-
-Goku levanta los dos brazos al cielo amarillo, sentado en el pasto.
-
-—¡SÍ! —Se cae de espaldas otra vez, riéndose—. ¡Facundo viene a la fiesta! ¡Kaio-sama, ¿oíste?! ¡Viene!
-
-—Te oyó medio Otro Mundo —dice Kaio-sama.
-
-Goku se arrastra hasta sentarse otra vez. Junta las pesas de los tobillos del hoyo en el pasto, las mira, y las deja. Después mira la casita sin techo.
-
-—Perdón por el techo, Kaio-sama.
-
-—¡Y por el árbol! ¡Y por el pasto! ¡Y por el Camino de la Serpiente! ¡Enma-sama me va a llamar para quejarse!
-
-—Y por eso también.
-
-Kaio-sama suspira, larguísimo, con las manos en la cintura. Mira a Goku, sentado, sucio, agotado y feliz. Te mira a ti. Mira a Kase.
-
-Después se le escapa una sonrisa debajo de los bigotes.
-
-—Bueno. Al menos me divertí. —Se acomoda los lentes oscuros—. Hace años que no veía a alguien hacer eso con un Kamehameha. Y no siento nada de ti, muchacho. Nada. Es lo más raro que vi en mi vida, y vi a Goku comerse un dinosaurio entero.
-
-Se aclara la garganta, de golpe muy serio.
-
-—Antes de que se vayan, escuchen esta: ¿por qué el saiyajin no puede guardar secretos?
-
-Goku y Bubbles se quedan esperando.
-
-—¡Porque siempre se le escapa el ki! —Kaio-sama se ríe solo, a carcajadas, golpeándose la rodilla—. ¡Se le escapa el ki! ¡Jajajaja!
-
-Gregory, el grillo, se tapa la cara con las alas.
-
-Goku se ríe por compromiso. Después se pone de pie, tambaleando, apoyándose en tu hombro con una mano para no caerse por la gravedad. Pesa como una bolsa de piedras. Kase, al ver la mano de Goku en tu hombro, se le sube encima del brazo y se queda ahí, sentado, como si fuera suyo.
-
-—Bueno —dice Goku, con la mano en tu hombro y el gato en el brazo—. Cuando quieras. A Monte Paoz. Milk está en casa.
-
-Traga saliva.
-
-—Supongo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1496 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · planeta de Kaio-sama            ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: sentado en el brazo de Goku            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Llevar a Goku a Monte Paoz ·       ║
-║ fiesta de Bulma                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1497)
+## COMANDO 1 (T1497)
 
 llevo a goku al monte paoz
 
-## RESPUESTA 2 (T1497)
+## RESPUESTA 1 (T1497)
 
 > llevo a goku al monte paoz
 
@@ -143,11 +78,11 @@ Milk lo ignora. Se te queda mirando a ti, con la escoba colgando de la mano, los
 
 ---
 
-## COMANDO 3 (T1498)
+## COMANDO 2 (T1498)
 
 estaba en el planeta de kaio
 
-## RESPUESTA 3 (T1498)
+## RESPUESTA 2 (T1498)
 
 > estaba en el planeta de kaio
 
@@ -199,4 +134,60 @@ Te empuja suavemente hacia la casa con la mano en la espalda. En el escalón de 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 12:12, Monte Paoz. Milk retó a Goku (fiesta de Bulma el sábado); lleva a Facundo adentro a comer y curarlo. "¿Leíste el libro que te di?" Facundo puede responder.
+## COMANDO 3 (T1499)
+
+no perdon, anduve con muchas cosas mientras viajaba
+
+## RESPUESTA 3 (T1499)
+
+> no perdon, anduve con muchas cosas mientras viajaba
+
+> —No, perdón. Anduve con muchas cosas mientras viajaba.
+
+Milk se queda mirándote con los labios apretados.
+
+—Muchas cosas —repite—. Viajando. —Se da vuelta hacia el claro, donde Goku intenta levantarse del pasto y se vuelve a caer sentado—. ¡Igualito a él! ¡Igualito! "Tenía muchas cosas", "estaba entrenando", "no me di cuenta". ¡Tres años con un libro en el bolsillo y ni una página!
+
+Goku, desde el pasto, levanta la mano.
+
+—Yo no dije nada...
+
+—¡Tú cállate y báñate!
+
+Milk suspira, largo, y te empuja adentro de la casa.
+
+La cocina es la misma de hace tres años: chica, limpia, llena de ollas colgadas, con una mesa redonda en el medio y el olor a arroz recién hecho. En la pared, al lado de la ventana, hay fotos nuevas en marcos: Gohan y Videl vestidos de novios delante de la mansión de Mr. Satán, con Mr. Satán llorando a moco tendido al costado; Goten con un uniforme de escuela que le queda grande; Goku dormido en una hamaca.
+
+Milk te sienta en una silla. Moja un trapo en agua tibia y te limpia la sangre seca de la boca, sin delicadeza pero con cuidado. Después te unta las palmas con una pomada verde que huele a menta y te las venda con dos vueltas de gasa cada una.
+
+—Quédate quieto. —Te aprieta la venda—. Así. Ahora come.
+
+Te pone delante un tazón de arroz enorme, sopa, pescado asado, verduras. Se sienta del otro lado de la mesa, con los brazos cruzados, y te mira comer, como si vigilara que no dejaras nada.
+
+Afuera se oye el agua de la tina del baño, a Goku cantando desafinado, y a Goten que le explica a Kase, muy serio, cómo se pesca en el arroyo.
+
+Cuando vas por la mitad del tazón, Milk descruza los brazos.
+
+—Bueno. Lo del libro te lo perdono. Un poco. —Se acomoda el rodete—. ¿Hasta cuándo te quedas? La fiesta de Bulma es el sábado, en cuatro días. La casita de al lado está como la dejaste. Le cambié las sábanas la semana pasada, por si acaso.
+
+Hace una pausa. Se pone un poco colorada.
+
+—No porque te estuviera esperando. Le cambio las sábanas a todo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1499 · DRAGON BALL · AÑO 777 · 12:40   ║
+║ Monte Paoz · casa de los Son, cocina         ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · Palmas vendadas   ║
+║ Velo: persona común                          ║
+║ Kase: afuera, con Goten junto al arroyo      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Fiesta de Bulma el sábado (Bills)  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 12:40, cocina de los Son. Milk lo curó y le dio de comer; pregunta hasta cuándo se queda (fiesta el sábado en 4 días; la casita lista). Facundo puede responder.

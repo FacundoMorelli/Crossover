@@ -55,3 +55,4 @@
 - Año ~777 · (T1490) Facundo visita a Goku en el planeta de Kaio-sama (canon: Goku entrena allí cuando llega Bills).
 - (T1494) Duelo Facundo-Goku en el planeta de Kaio-sama: Goku (SSJ3) se rinde tras el Kamehameha desviado.
 - (T1498) La fiesta de cumpleaños de Bulma es el sábado (según Milk) → llegada de Bills (canon, 778).
+- (T1499) Cumpleaños de Bulma: el sábado, en 4 días (según Milk). R14: Bills llega ese día.
