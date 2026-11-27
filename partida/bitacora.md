@@ -1668,3 +1668,4 @@ T1666 · DRAGON BALL · casa de Erasa · "No me molesta; Videl ya me había dich
 T1667 · DRAGON BALL · casa de Erasa · "No me contó mucho más." La mamá: "Si la haces llorar, te encuentro." Se va a dormir. Erasa: "Le caíste bien."
 T1668 · DRAGON BALL · casa de Erasa · Beso en la cocina. "Menos mal." Erasa: "¿Te quedas a ver una película? Una de barcos."
 T1669 · DRAGON BALL · casa de Erasa · Apaga el horno. "El último velero" en el sillón, bajo la manta. Kase sobre los dos. Erasa ya llora: "Si hago ruido, tápame la boca."
+T1670 · DRAGON BALL · casa de Erasa · Acaricia a Kase; manos juntas sobre el gato. La tormenta de la película. Erasa: "¿Alguna vez estuviste en un barco así?"

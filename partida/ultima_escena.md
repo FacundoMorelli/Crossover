@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1667)
-
-no me contó mucho más
-
-## RESPUESTA 1 (T1667)
-
-> no me contó mucho más
-
-> —No me contó mucho más.
-
-Erasa entrecierra todavía más los ojos.
-
-—"Mucho más." —Te apunta con el bombón redondo—. No es lo mismo "mucho más" que "nada más". Eso lo sé yo, lo sabe mi mamá y lo sabe cualquiera.
-
-Te estudia la cara un segundo largo, buscando algo. No encuentra nada. Suspira, vencida, y se mete el bombón entero en la boca.
-
-—Bueno —dice, con la boca llena—. Igual la mato. Por las dudas.
-
-La madre vuelve a la mesa con tres tazas de café en una bandeja. Les pone una delante a cada uno, con el azucarero y una jarrita de leche con forma de vaca. Se sienta. Toma un sorbo largo, mirando a uno y después al otro, y deja la taza en el plato con un clic suave.
-
-—Bueno. Ya es tarde y yo me levanto a las seis. —Se acomoda las perlas—. Así que te voy a decir una cosa, Facundo, y después me voy a dormir y los dejo tranquilos.
-
-Erasa se pone tensa en la silla.
-
-La madre apoya los codos en la mesa y entrelaza los dedos. Te mira directo a los ojos, primero al rojo y después al azul, sin parpadear, igual que miró a Kase en la puerta.
-
-—El pollo te gustó de verdad. Eso se nota. No me mentiste en nada, ni con lo de irte. Y sabías la edad de mi hija y viniste igual, con bombones. —Va contando con los dedos, sin soltar las manos—. Eso está bien. Todo eso está bien.
-
-Se inclina un poco hacia adelante.
-
-—Pero si la haces llorar, te encuentro. No me importa en qué isla estés, ni en qué montaña, ni con qué gato. Te encuentro. —Sonríe, amabilísima—. ¿Estamos?
-
-No espera la respuesta. Se levanta, se termina el café de pie, le da un beso a Erasa en la cabeza, entre los rulos, y te pone una mano en el hombro al pasar, un segundo, firme.
-
-—Buenas noches, chicos. Erasa, apaga el horno, que lo dejé prendido.
-
-Sube la escalera. Se oyen sus pasos arriba, una puerta, el agua de un baño. Después, nada.
-
-Erasa y tú se quedan solos en la cocina. Las tres tazas de café. La caja de bombones abierta, con un hueco donde estaba el de corazón. El horno, prendido, haciendo tic tic tic.
-
-Erasa no se mueve. Mira la escalera por donde se fue su madre, con la boca abierta. Después te mira a ti.
-
-—Te amenazó —susurra, entre horrorizada y encantada—. Mi mamá te amenazó. Eso quiere decir que le caíste bien. Nunca amenaza a nadie que le cae mal. Ni lo mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1667 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 21:05        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1668)
+## COMANDO 1 (T1668)
 
 me acerco a erasa y le doy un beso, menos mal
 
-## RESPUESTA 2 (T1668)
+## RESPUESTA 1 (T1668)
 
 > me acerco a erasa y le doy un beso, menos mal
 
@@ -113,11 +53,11 @@ Mira hacia la sala, donde Kase duerme en la almohadita nueva, hecho una bola. Mi
 
 ---
 
-## COMANDO 3 (T1669)
+## COMANDO 2 (T1669)
 
 esta bien, apago el horno y vamos a ver una pelicula
 
-## RESPUESTA 3 (T1669)
+## RESPUESTA 2 (T1669)
 
 > esta bien, apago el horno y vamos a ver una pelicula
 
@@ -167,4 +107,50 @@ Erasa ya tiene los ojos brillantes.
 
 ---
 
-ESTADO AL CIERRE: martes 21:18, sala de la casa de Erasa, sillón floreado, lámpara de flecos. Película "El último velero" (Erasa la vio once veces). Bajo una manta a cuadros, cabeza en el hombro de Facundo, dedos entrelazados. Kase acostado sobre las rodillas de los dos (Erasa emocionada). Erasa ya llora al principio: "Si en el final hago mucho ruido, tápame la boca. Por mi mamá." Horno apagado. La mamá duerme arriba.
+## COMANDO 3 (T1670)
+
+esta bien, acaricio a kase con mi otra mano libre
+
+## RESPUESTA 3 (T1670)
+
+> esta bien, acaricio a kase con mi otra mano libre
+
+> —Está bien.
+
+Erasa sonríe contra tu hombro, sin mirarte.
+
+Con la mano libre acaricias a Kase. Le pasas los dedos por el lomo, despacio, a contrapelo y después a favor, por el pelo largo blanco y azul, hasta la base de la cola. Kase ronronea más fuerte. Estira las patas delanteras sobre las rodillas de Erasa, abre y cierra las garras sobre la manta, amasando, sin clavarlas, y se le cierran los ojos de a poco.
+
+Erasa lo mira hipnotizada. Saca la otra mano de debajo de la manta, con cuidado, y la apoya también sobre Kase, en la cabeza, entre las orejas con mechones. Kase la deja.
+
+Sus dedos y los tuyos se encuentran en el cuello del gato, sobre el collar negro con el colgante de eclipse. Ella no aparta la mano. La deja ahí, encima de la tuya, sobre el pelo tibio.
+
+—Es suavísimo —susurra—. Más que cualquier cosa. Más que mi oso.
+
+La película sigue. El velero navega días y días por un mar cada vez más oscuro. El capitán escribe cartas que no puede mandar. La chica del puerto las espera mirando el horizonte, todas las tardes, con su pañuelo. Erasa sabe todos los diálogos y los mueve con los labios, sin sonido, un segundo antes que los actores. En una escena del muelle se le escapa un sollozo chiquito y se tapa la boca con la mano que tenía sobre Kase. Después la vuelve a poner encima de la tuya.
+
+En la pantalla se viene la tormenta. El cielo se pone negro, las olas son paredes, el mástil cruje, el capitán grita órdenes atado al timón con una soga, empapado. Los violines suben. Erasa aprieta tus dedos debajo de la manta tan fuerte que se le ponen blancos los nudillos, aunque ya sabe cómo termina esta parte.
+
+Te mira de reojo, en la luz azul del televisor, con las pestañas mojadas.
+
+—¿Tú alguna vez estuviste en un barco así? —susurra—. ¿De madera, con velas? ¿En una tormenta de verdad?
+
+Lo pregunta bajito, mientras en la pantalla una ola enorme barre la cubierta, y se queda esperando la respuesta, con los ojos muy abiertos y la mano quieta sobre la tuya, encima del gato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1670 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sillón de la sala · 22:05     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sobre tus rodillas y las de Erasa      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Película con Erasa                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 22:05, sillón de la sala, "El último velero" en la escena de la tormenta. Erasa con la mano sobre la de Facundo encima de Kase (collar con el eclipse); la otra mano entrelazada bajo la manta. Llora un poco. Pregunta: "¿Tú alguna vez estuviste en un barco así? ¿De madera, con velas? ¿En una tormenta de verdad?"
