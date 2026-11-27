@@ -1,5 +1,5 @@
 {
-  "turno": 1585,
+  "turno": 1586,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), tarde en el planeta de Bills",
@@ -86,7 +86,7 @@
     "energia": 4000,
     "control": 3999
   },
-  "energia_actual_pct": 72,
+  "energia_actual_pct": 65,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2720,5 +2720,5 @@
       "estado": "pareja"
     }
   },
-  "dragonball_nota_T1582": "Sobretodo comido hasta las rodillas, borceguí sin cordones, un mechón más corto (por el Hakai)."
+  "dragonball_nota_T1582": "Sobretodo comido hasta las rodillas, borceguí sin cordones, un mechón más corto (por el Hakai). T1586: sin manga izquierda (hasta el codo), camisa abierta, corte fino en las costillas."
 }
