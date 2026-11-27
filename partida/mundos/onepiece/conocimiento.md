@@ -298,3 +298,4 @@
 - Robin · T1467 · Por Facundo: el mensaje de Luffy (la extraña; el capitán más fuerte del mundo en dos años). Por Sabo/Facundo, probablemente: lo del Moby Dick.
 - Robin · T1468 · Por Facundo: el mundo de los titanes (Shingeki) terminó en paz. Sospecha (deducción) que Facundo tuvo mucho que ver.
 - Robin · T1469 · Por Facundo: sin él, la mitad de la gente del mundo de los titanes estaría muerta.
+- Robin · T1470 · Por Facundo: en unos días se va al mundo de los titanes; les dio cosas allá y quiere ver qué hicieron con ellas.

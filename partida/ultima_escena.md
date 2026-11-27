@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1467)
-
-simula unos dias  pasando el tiempo con robin
-
-## RESPUESTA 1 (T1467)
-
-> simula unos dias  pasando el tiempo con robin
-
-La fiesta del Moby Dick dura hasta el amanecer del Nuevo Mundo.
-
-Cuando el cielo empieza a ponerse gris, Ace y Sabo están sentados en la baranda de proa, con las piernas colgando sobre el agua, hablando bajito como dos chicos que se escaparon de casa. Cuando Sabo se levanta para irse, Ace lo abraza fuerte, le aplasta el sombrero de copa, y le dice que si vuelve a desaparecer, lo va a ir a buscar él mismo, aunque tenga que quemar todo el Gobierno Mundial para encontrarlo. Sabo se ríe y le dice que eso es justamente lo que hace el Ejército Revolucionario.
-
-Barbablanca, de pie junto a la silla, levanta el bisento hacia ustedes cuando desaparecen.
-
-En Baltigo es media tarde. El viento sopla polvo blanco contra las ventanas de la torre. Koala está sentada a la mesa de mapas, rodeada de carpetas, con ojeras y el pelo revuelto, y cuando ve aparecer a Sabo le tira una carpeta a la cabeza. Después lo abraza. Después le tira otra carpeta.
-
-Dragon no dice nada. Mira a Sabo un momento desde la ventana, asiente una sola vez, y vuelve a sus mapas.
-
-Robin te está esperando en su cuarto. No pregunta nada hasta que cierras la puerta. Le das el mensaje de Luffy, el de que la extraña y el del capitán más fuerte del mundo, y ella se ríe hasta que tiene que sentarse en la cama.
-
-Los días que siguen son tranquilos.
-
-Baltigo se acostumbra a ti más rápido de lo que esperabas. El primer día, los revolucionarios se callan cuando pasas por los pasillos. El segundo, alguien te saluda con la cabeza. El tercero, el de la pistola que viste la primera mañana te pide que le muestres cómo se sostiene una espada corta, y para la tarde hay una fila de seis en el patio. Kase se adueña del alféizar de Robin y de una silla de la cocina, y no deja que nadie la use. Koala lo intenta acariciar una vez. Kase la mira hasta que ella retira la mano.
-
-Robin trabaja por la mañana. Tiene una mesa llena de copias de inscripciones, calcos de piedras, notas en su letra chica y prolija, y libros que los revolucionarios le traen de todos los rincones del mundo. Te sientas con ella. A veces lees. A veces solo la miras leer, con la luz de la ventana angosta cortándole la cara en dos. Ella te explica cosas sin que se las pidas: una palabra antigua, una fecha que no cierra, un nombre que alguien borró de todos los libros a propósito. Cuando se entusiasma habla más rápido y se le olvida el café.
-
-Por las tardes salen. Caminan por la tierra blanca de Baltigo, lejos de los muros, hasta donde el desierto se corta contra el mar. Robin junta piedras raras. Una vez te trae una mano brotada del suelo con una flor seca entre los dedos, la única que encontró en toda la isla, y te la pone en el bolsillo del sobretodo sin decir nada.
-
-Una noche suben a la torre cuando Dragon no está, y se quedan en la ventana del este hasta que sale el sol.
-
-Las noches son de los dos.
-
-...
-
-La cuarta noche, Robin está acostada a tu lado, en la cama angosta, con la cabeza en tu pecho y un dedo recorriendo despacio el dragón tatuado que te sube por el cuello. Afuera el viento se calmó. La lámpara está baja. Kase duerme en el alféizar, hecho una bola.
-
-Robin deja de mover el dedo.
-
-—Facundo. —Lo dice muy bajo—. En Tequila Wolf me dijiste que la historia de ese mundo todavía no había terminado. El del libro. El de los titanes y las tres murallas.
-
-Levanta la cabeza para mirarte. Tiene los ojos tranquilos, pero brillantes, con esa curiosidad que no le cabe en el cuerpo.
-
-—Ya pasaron más de dos meses. —Apoya la barbilla en tu pecho—. ¿Terminó?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1467 · ONE PIECE · DÍA ~125 · NOCHE    ║
-║ Baltigo · base revolucionaria · cuarto de    ║
-║ Robin                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: dormido en el alféizar                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1468)
+## COMANDO 1 (T1468)
 
 si, termino, estan todos en paz
 
-## RESPUESTA 2 (T1468)
+## RESPUESTA 1 (T1468)
 
 > si, termino, estan todos en paz
 
@@ -109,11 +48,11 @@ Levanta una ceja.
 
 ---
 
-## COMANDO 3 (T1469)
+## COMANDO 2 (T1469)
 
 digamos que sin mi, estarían la mitad muertos
 
-## RESPUESTA 3 (T1469)
+## RESPUESTA 2 (T1469)
 
 > digamos que sin mi, estarían la mitad muertos
 
@@ -158,4 +97,50 @@ La respiración de Robin se va haciendo más lenta, más larga, contra tu pecho.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~125 noche, Baltigo, cuarto de Robin. Robin, medio dormida sobre su pecho: "¿Cuánto tiempo te quedas esta vez?" Facundo puede responder.
+## COMANDO 3 (T1470)
+
+unos dias mas, dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di y que no lo iba a reconocer
+
+## RESPUESTA 3 (T1470)
+
+> unos dias mas, dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di y que no lo iba a reconocer
+
+> —Unos días más. Dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di. Y que no lo iba a reconocer.
+
+Robin sonríe con los ojos cerrados.
+
+—Que no lo ibas a reconocer —repite, despacio, saboreando la frase—. Eso es lo que le dice un maestro a sus alumnos antes de irse. O un padre.
+
+Se acomoda un poco más contra ti. La manta se le resbala del hombro y no la levanta.
+
+—Está bien. Unos días más. —Te aprieta los dedos otra vez—. Pero cuando vuelvas de allá, me vas a traer algo. Un libro, una piedra, una hoja de árbol, lo que sea. Algo de ese mundo que esté en paz. Quiero tocarlo.
+
+Se queda callada un rato. Tanto, que piensas que ya se durmió.
+
+—Y me vas a contar si te reconocieron ellos a ti —murmura.
+
+Después sí. La respiración se le vuelve lenta y profunda, la mano se le afloja entre tus dedos sin soltarte, y se queda dormida sobre tu pecho, con el pelo desparramado sobre los dragones tatuados.
+
+La lámpara termina de apagarse sola.
+
+Queda solo la luz de las estrellas por la ventana angosta, el viento suave de Baltigo afuera, y el ronroneo bajo de Kase en el alféizar, que se despierta un momento, se estira, baja sin hacer ruido, cruza el cuarto en la oscuridad y se acuesta a los pies de la cama, sobre tus botas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1470 · ONE PIECE · DÍA ~125 · NOCHE    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: a los pies de la cama                  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Unos días más con Robin; después,  ║
+║ volver a Shingeki                            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~125 noche, Baltigo, cuarto de Robin. Robin dormida sobre el pecho de Facundo; le pidió que le traiga algo de Shingeki. Facundo se queda unos días más. Kase a los pies. Facundo puede actuar.

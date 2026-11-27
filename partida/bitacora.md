@@ -1468,3 +1468,4 @@ T1466 · ONE PIECE · Moby Dick · "Sigue siendo un Emperador hasta que mi capit
 T1467 · ONE PIECE · Moby Dick → Baltigo · SIMULACIÓN Días ~121-125: despedida Ace-Sabo; Sabo vuelve a Baltigo; mensaje de Luffy a Robin; días tranquilos en Baltigo (enseña espada, investigación de Robin, paseos, flor seca). Robin: "¿Terminó la historia de ese mundo?"
 T1468 · ONE PIECE · Baltigo, cuarto de Robin · "Terminó. Están todos en paz." Robin: "¿Cuánto de esa paz es culpa tuya?"
 T1469 · ONE PIECE · Baltigo, cuarto de Robin · "Sin mí, la mitad estarían muertos." Robin: "Tú vas por ahí cambiando la historia." Quiere escribirla algún día. "¿Cuánto tiempo te quedas esta vez?"
+T1470 · ONE PIECE · Baltigo, cuarto de Robin · Se queda unos días más; después vuelve al mundo de los titanes. Robin pide que le traiga algo de allá y le cuente si lo reconocieron. Se duerme.

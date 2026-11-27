@@ -237,3 +237,6 @@
 - One Piece: VUELVE Día ~120 00:05 (~63 días después), bar de Shakky, Sabaody. Timeskip de dos años en curso.
 - Dragon Ball: R14, acelerado: Bills llega en un mes de Facundo desde T1440 (4 años de canon).
 - Demás mundos: corren.
+
+## RELOJES (actualizado T1470)
+- One Piece: Día ~125, Baltigo. Facundo planea quedarse unos días más con Robin y después volver a Shingeki.
