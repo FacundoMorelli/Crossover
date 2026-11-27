@@ -28,3 +28,4 @@ ESTADO: bien.
 - T946 · Facundo: "Algo así. En unos días vuelvo a ver a los demás." Dende no pregunta más. "Videl-san entrena todos los días con Gohan-san. Dice que te va a ganar."
 - T1487 · Año ~777 · Más alto, ya no es un chico aunque tenga la cara de uno; túnica de Dios. "¡Facundo-san! ¡Volviste!"
 - T1488 · Cuenta los casi tres años de paz (ver conocimiento). Goku pregunta por Facundo cada vez que habla con Kaio-sama. Fiesta de cumpleaños de Bulma pronto. "¿Quieres que le avise a Kaio-sama que estás aquí?"
+- T1489 · "¡Tú también puedes hacer eso de Goku-san!... A veces me olvido de que no eres... bueno, normal." Mensaje de Milk para Goku: que vuelva para la fiesta de Bulma o no le cocina nunca más. "Vuelve a visitarnos, Facundo-san."

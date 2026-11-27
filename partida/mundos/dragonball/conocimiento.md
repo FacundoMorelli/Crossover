@@ -68,3 +68,4 @@
 - Dende · T945 · Por Moori: Facundo parece haber venido a buscar algo para otra persona.
 - Mr. Popo, Dende · T1487 · Ven a Facundo llegar por una puerta al Templo Sagrado (año ~777).
 - Facundo · T1488 · Por Dende: todo lo de los tres años (boda de Gohan y Videl, Goku en el planeta de Kaio-sama, fiesta de Bulma pronto; Videl quiere revancha).
+- Dende, Mr. Popo · T1489 · Por Facundo: va a ir a ver a Goku (al planeta de Kaio-sama).

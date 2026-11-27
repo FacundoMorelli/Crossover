@@ -3,57 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1486)
-
-le susurro vamos a otro lugar, al aire libre
-
-## RESPUESTA 1 (T1486)
-
-> le susurro vamos a otro lugar, al aire libre
-
-Te vuelves a inclinar hacia ella.
-
-> —Vamos a otro lugar. Al aire libre.
-
-Ymir se queda quieta otra vez. Pero esta vez no se pone más colorada, porque ya no le queda dónde. Gira apenas la cabeza, lo justo para mirarte de reojo, desde muy cerca.
-
-—Al aire libre —repite, bajito.
-
-Se le escapa una sonrisa lenta. No la torcida, no la burlona: otra, más chica, que casi nunca deja ver.
-
-—Sesenta años de titán, lindo. Sesenta años al aire libre, comiendo gente y durmiendo en el barro, sin saber quién era. —Se encoge de hombros—. Lo último que me imaginé es que algún día alguien me iba a decir eso para algo bueno.
-
-Mira el mar. Después la meseta, arriba, donde la hierba se mueve con el viento y el cielo es enorme. Después a ti.
-
-Atrás, en el muelle, la gente sigue cargando las carretas. Carla y Grisha suben a la suya. Historia habla con Erwin junto a los galpones. La moto de Hange arranca a la primera, con un rugido, y Levi se agarra del asiento con cara de condenado.
-
-Ymir te toma de la manga del sobretodo y tira un poquito, como si no quisiera que se note.
-
-—¿Y adónde me vas a llevar? —Levanta una ceja—. Conociéndote, no va a ser un prado cualquiera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1486 · SHINGEKI · DÍA 129 · 07:30      ║
-║ Costa este de Paradis · muelle del puerto    ║
-║ nuevo                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Festejar esta noche con Ymir, al   ║
-║ aire libre · algo para Robin                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1487)
+## COMANDO 1 (T1487)
 
 a un lugar lindo, simula hasta que mañana me vaya a dragon ball
 
-## RESPUESTA 2 (T1487)
+## RESPUESTA 1 (T1487)
 
 > a un lugar lindo, simula hasta que mañana me vaya a dragon ball
 
@@ -141,11 +95,11 @@ Detrás de él, desde la puerta del edificio, sale corriendo alguien alto, verde
 
 ---
 
-## COMANDO 3 (T1488)
+## COMANDO 2 (T1488)
 
 hola dende, como estan todos? (cuanto queda para bills?)
 
-## RESPUESTA 3 (T1488)
+## RESPUESTA 2 (T1488)
 
 > hola dende, como estan todos? (cuanto queda para bills?)
 
@@ -191,4 +145,51 @@ Se da vuelta hacia ti, con las manos juntas delante del pecho.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777, Templo Sagrado. Dende contó los tres años y ofrece avisar a Kaio-sama para que Goku sepa que volvió. Bills en ~10 días (cumpleaños de Bulma). Facundo puede responder.
+## COMANDO 3 (T1489)
+
+yo lo voy a ver, no te preocupes
+
+## RESPUESTA 3 (T1489)
+
+> yo lo voy a ver, no te preocupes
+
+> —Yo lo voy a ver. No te preocupes.
+
+Dende abre los ojos grandes. Después se da una palmada en la frente, entre las antenas.
+
+—¡Claro! ¡Tú también puedes hacer eso de Goku-san! Me llevaste al Nuevo Namek en un segundo. —Se ríe de sí mismo—. A veces me olvido de que no eres... bueno, normal.
+
+Mr. Popo junta la regadera del piso.
+
+—El planeta de Kaio-sama es chico —dice—. Pesa diez veces más que la Tierra. El gato va a sentirlo.
+
+Kase, en tu hombro, mueve una oreja hacia Mr. Popo, como si lo hubiera entendido y no le hubiera gustado nada.
+
+Dende se acerca un paso. Junta las manos otra vez.
+
+—Si ves a Goku-san, dile que Milk-san dice que vuelva para la fiesta de Bulma-san. Que si no vuelve, no le va a cocinar nunca más. —Hace una mueca—. Lo dijo así. Con esas palabras. Delante de todos.
+
+Después sonríe. Una sonrisa tranquila, de alguien que lleva tres años mirando un mundo en paz desde arriba.
+
+—Y vuelve a visitarnos, Facundo-san. Aquí arriba no pasa mucho. —Mira a Mr. Popo—. Bueno. Crecen las flores.
+
+—Mr. Popo cuida las flores —dice Mr. Popo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1489 · DRAGON BALL · AÑO 777 · MAÑANA  ║
+║ Templo Sagrado                               ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Ir a ver a Goku al planeta de      ║
+║ Kaio-sama                                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777, Templo Sagrado. Facundo va a ir a ver a Goku al planeta de Kaio-sama; Dende le dio el mensaje de Milk. Facundo puede actuar.
