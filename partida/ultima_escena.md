@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1602)
-
-le doy una semilla a goku y voy con vege5a
-
-## RESPUESTA 1 (T1602)
-
-> le doy una semilla a goku y voy con vege5a
-
-Sacas una semilla del inventario y se la tiras a Goku.
-
-Goku la atrapa en el aire con dos dedos, sin mirar, como si fuera lo más natural del mundo.
-
-—¡Gracias! —La guarda en el cinturón del gi, con cuidado, y le da dos palmaditas—. Para después. Por si acaso.
-
-Te das vuelta hacia Vegeta.
-
-Él ya está caminando, sin esperar, hacia el borde del jardín, lejos de la pirámide, lejos de Bills, de Whis y de Goku. No te dice que lo sigas. Sabe que lo vas a seguir.
-
-Lo sigues.
-
-Kase salta del apoyabrazos de Whis y viene detrás de ti, trotando entre los pozos de la explanada, con la cola levantada. Te alcanza y se te sube al hombro de un salto.
-
-Vegeta se detiene al borde del jardín, donde el pasto termina y empieza el vacío del cielo, verde y dorado, con las rocas flotantes a lo lejos. Se queda mirando para afuera, con los brazos cruzados y la espalda recta. No se da vuelta.
-
-Pasa un rato largo. El viento le mueve el pelo, de punta, negro. Detrás, muy lejos, se oye a Goku pidiéndole a Bills una hamburguesa, y a Bills contestándole que no.
-
-—En la Tierra me prometiste algo —dice Vegeta, al fin, sin mirarte—. Que cuando te alcanzara, ibas a dejar de contenerte conmigo.
-
-Hace una pausa.
-
-—Hoy vi lo que es que dejes de contenerte. —Lo dice entre dientes, cada palabra con esfuerzo—. El suelo bajó dos metros. Las rocas se caían del cielo. Bills, el Dios de la Destrucción, temblaba. Y tú todavía no habías golpeado.
-
-Aprieta los brazos cruzados.
-
-—Y ese plateado. El de Kakaroto, el que el ángel dice que es el secreto de los dioses. Tú lo tienes dominado. —Se le endurece la voz—. No lo quiero.
-
-Se da vuelta. Te mira a la cara, de frente, con los ojos negros, duros, sin rabia.
-
-—No voy a copiar eso. No voy a moverme sin pensar como un animal, ni pelear vacío. Ese no es mi camino. Yo soy el príncipe de los saiyajin, y lo que yo tenga lo voy a sacar de mí mismo, a mi manera. Aunque me lleve años.
-
-Kase, en tu hombro, lo mira sin parpadear.
-
-Vegeta descruza los brazos. Por un segundo parece que va a decir algo más, y le cuesta. Al final lo dice, mirándote fijo.
-
-—No te pido que me entrenes. No te pido nada. —Una pausa—. Solo esto: el día que esté listo, y voy a estar listo, no quiero que te hayas ido.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1602 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde del jardín · mediodía                  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-Corrección: interpreté "vege5a" como Vegeta.
-
----
-
-## COMANDO 2 (T1603)
+## COMANDO 1 (T1603)
 
 esta bien, igual capaz me voy pero vuelvo, aparentemente se volver cuando hay problemas, justo cuando volví apareció bills, asi que no te preocupes, y vegeta, tu transformación tendría que ser algo relacionado con el ego, en vez de ser como el de goku, tendría que ser lo contrario
 
-## RESPUESTA 2 (T1603)
+## RESPUESTA 1 (T1603)
 
 > esta bien, igual capaz me voy pero vuelvo, aparentemente se volver cuando hay problemas, justo cuando volví apareció bills, asi que no te preocupes, y vegeta, tu transformación tendría que ser algo relacionado con el ego, en vez de ser como el de goku, tendría que ser lo contrario
 
@@ -135,11 +71,11 @@ Kase, en tu hombro, lo mira irse. Después te mira a ti y parpadea una vez, desp
 
 ---
 
-## COMANDO 3 (T1604)
+## COMANDO 2 (T1604)
 
 acarició a kase y vuelvo con los demas
 
-## RESPUESTA 3 (T1604)
+## RESPUESTA 2 (T1604)
 
 > acarició a kase y vuelvo con los demas
 
@@ -189,4 +125,69 @@ Entrecierra los ojos.
 
 ---
 
-ESTADO AL CIERRE: Vegeta le pidió a Bills aprender a pelear como un Dios de la Destrucción. Bills a Facundo: "¿Qué le dijiste?" Facundo puede contestar.
+## COMANDO 3 (T1605)
+
+nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
+
+## RESPUESTA 3 (T1605)
+
+> nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
+
+> —Nada importante.
+
+Bills entrecierra los ojos un poco más. No te cree. Pero antes de que pueda insistir, te alejas unos pasos de la escalera, hasta el pasto abierto, y te paras de frente a la explanada que Whis está terminando de arreglar.
+
+Kase se baja solo de tu hombro y se va a sentar al lado de Goku.
+
+Primero el plateado.
+
+El pelo se te vuelve plata y flota. Los ojos, plata. El aire tiembla a tu alrededor, transparente, y la cabeza se te queda en blanco, tranquila, como el agua quieta de un estanque.
+
+Después, sin soltar eso, llamas a la otra.
+
+La Forma Cenit siempre viene de abajo, desde el pecho, caliente, como un incendio que se prende de adentro hacia afuera. Esta vez no se prende contra el silencio del Ultra Instinto: se prende adentro de él.
+
+El pelo, sin dejar de ser plateado, se te enciende en las puntas. Primero en blanco, después en azul, como el filo de una llama de gas. Flota y arde al mismo tiempo. Los ojos siguen plateados, pero en el fondo de cada uno se te enciende un punto: rojo en el izquierdo, azul en el derecho, brillando como brasas debajo del hielo. Alrededor de tu cuerpo, el aire transparente del Ultra Instinto se llena de llamas blancas y azules que no se mueven como el fuego, sino despacio, quietas, ondulando como algas en el fondo del mar.
+
+No hay ruido. No hay viento.
+
+Pero el pasto se aplasta en un círculo perfecto alrededor de tus pies, hacia afuera, como si algo invisible y enorme se hubiera sentado ahí. Las venas de luz que Whis acababa de arreglar se encienden todas juntas, del borde de la explanada a la escalera, y se quedan así, brillando fuerte, temblando.
+
+[Fusión en Caliente: Ultra Instinto Dominado + Forma Cenit. Sin costo.]
+
+[Combinación sellada.]
+
+Whis deja de pasar el báculo por la explanada. Se da vuelta, despacio.
+
+—Facundo-san —dice, en voz baja—. Eso no existe.
+
+—Existe —dice Bills, que se puso de pie en el escalón sin darse cuenta, con la bolsa de semillas colgando de la mano. Tiene las orejas aplastadas del todo—. Lo estoy viendo.
+
+Goku tiene la boca abierta y no dice nada. Kase, sentado a su lado, mueve la cola una vez.
+
+Vegeta te mira fijo, con la mandíbula apretada. Después mira a Bills. Después otra vez a ti.
+
+—Nada importante —repite, entre dientes, con los ojos encendidos—. Dijo nada importante.
+
+Bills baja un escalón, sin sacarte los ojos de encima. La cola se le eriza de nuevo, pero esta vez las orejas le suben de a poco, y en la cara se le va armando otra vez esa sonrisa de gato que ve algo moverse debajo del sillón.
+
+—Muchacho del bolsillo —dice, despacio—. ¿Qué es eso ahora?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1605 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 55% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · 45 min) · Velo: ki muy bajo       ║
+║ Kase: sentado al lado de Goku                ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo en UI Dominado + Forma Cenit (fusión sellada, sin nombre). Whis: "Eso no existe." Bills: "¿Qué es eso ahora?" Facundo puede contestar o actuar.

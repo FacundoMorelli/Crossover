@@ -1,5 +1,5 @@
 {
-  "turno": 1604,
+  "turno": 1605,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, miércoles (hora Tierra), mediodía en el planeta de Bills",
@@ -1608,6 +1608,12 @@
         "nombre": "(sin nombre) Ultra Instinto + Magia de Rayo + Sol",
         "descripcion": "Puño en Ultra Instinto, rayo de Luck enroscado en el brazo y el calor del Sol en el nudillo: golpe que llega antes que el trueno y quema por dentro.",
         "sellada": "T485",
+        "costo_primera_vez": "ninguno (Fusión en Caliente)"
+      },
+      {
+        "nombre": "(sin nombre) Ultra Instinto Dominado + Forma Cenit",
+        "descripcion": "El Ultra Instinto Dominado con la Forma Cenit encendida adentro: pelo plateado con puntas en llamas blancas y azules; ojos plateados con un punto rojo (izq.) y azul (der.) como brasas bajo el hielo; aura transparente llena de llamas blancas y azules que ondulan lentas. Multiplicador x5.000 (UI Dominado, R5) × x10 (Forma Cenit, maestría 100) = x50.000 sobre los stats base. Duración: la de la Forma Cenit (45 min); al terminar, energía -30% (regla de la Forma Cenit). El cuerpo ataca y esquiva solo.",
+        "sellada": "T1605 (planeta de Bills)",
         "costo_primera_vez": "ninguno (Fusión en Caliente)"
       }
     ]

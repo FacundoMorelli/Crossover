@@ -1603,3 +1603,4 @@ T1601 · DRAGON BALL · Planeta de Bills · Semilla a 1 F (R15). 100 semillas pa
 T1602 · DRAGON BALL · Planeta de Bills · Semilla a Goku. Habla con Vegeta: rechaza el Ultra Instinto ("ese no es mi camino"); "El día que esté listo, no quiero que te hayas ido."
 T1603 · DRAGON BALL · Planeta de Bills · "Capaz me voy, pero vuelvo." Sugiere a Vegeta una transformación del ego, lo contrario del UI. Vegeta lo piensa, mira a Bills: "No está mal pensado, para alguien de otro mundo."
 T1604 · DRAGON BALL · Planeta de Bills · Acaricia a Kase. Vegeta le pide a Bills aprender a pelear como un Dios de la Destrucción. Bills: "¿Qué le dijiste?"
+T1605 · DRAGON BALL · Planeta de Bills · "Nada importante." Fusiona UI Dominado + Forma Cenit (x50.000; sellada, sin costo). Whis: "Eso no existe." Bills: "¿Qué es eso ahora?"
