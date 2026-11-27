@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1687)
-
-los desmayo a todos sin lastimarlos
-
-## RESPUESTA 1 (T1687)
-
-> los desmayo a todos sin lastimarlos
-
-Sato todavía está terminando de apretar la empuñadura cuando ya no estás a su lado.
-
-Para él, para el chico del revólver, para cualquiera que mirara, eres un borrón blanco y azul bajo la lluvia. Las gotas que cruzas se abren como una cortina. Kase se aplana contra tu hombro con las uñas clavadas en la camisa.
-
-El carnicero, primero: dos dedos en la nuca, lo atajas por el delantal y lo sientas en el cordón de la vereda. La chica del zapato: la sostienes de la cintura antes de que se desplome y la dejas apoyada contra un poste de luz. La novia del vestido embarrado, sobre el asiento de un auto con la puerta abierta. Los dos ancianos de la mano, juntos, en el banco de una parada de tranvía, sin que se suelten. El policía de tránsito, con el silbato todavía en la boca, contra el tranvía detenido. Una nena de trenzas con una mochila con orejas de conejo; un oficinista; una señora con delantal de cocina; un cartero con la bolsa llena de cartas; dos colegialas; un hombre en bata de hospital, descalzo.
-
-Uno por uno. Ninguno toca el piso. Ninguno se raspa siquiera.
-
-Las bocas se abren para decir algo, con la voz de la vieja. No llega a salir ninguna palabra.
-
-Cuando vuelves a estar de pie al lado de Sato, en el mismo lugar, con las manos otra vez levantadas como te pidieron, la avenida frente a los almacenes Mitsukoshi está quieta. Cuarenta y seis personas sentadas, recostadas, apoyadas, dormidas bajo la lluvia, en veredas, bancos, autos y escalones, con las sonrisas cosidas aflojadas. Respiran. El único movimiento es el agua que corre por el asfalto y la luz roja de un semáforo que cambia a verde, para nadie.
-
-[Rivales vencidos: 46 · Fragmentos +46.]
-
-Desde adentro de Mitsukoshi, el rugido de la motosierra sigue, pisos arriba, lejos.
-
-El chico del revólver baja el arma despacio. La deja colgando al costado del cuerpo. Tiene la boca abierta. Se le cae el revólver de la mano y no se da cuenta.
-
-Sato no baja la katana. Se le quedó en el aire, en guardia, apuntando a un carnicero que ya no está ahí, porque está sentado en el cordón de la vereda con la cabeza apoyada en un hidrante. Mira la avenida. La recorre entera con los ojos, de punta a punta, despacio. Se le mueve un músculo de la mandíbula.
-
-Después te mira a ti. Las manos levantadas. El gato en el hombro, con el pelo todo para atrás.
-
-No dice nada durante mucho rato.
-
-Al final baja la katana. La envaina sin mirar. Se mete la mano en el saco, saca un paquete de cigarrillos empapado, lo mira, lo tira al piso. Saca una radio negra, grande, con antena.
-
-—Central, aquí Sato. Mitsukoshi, avenida principal, lado norte. —Habla sin quitarte los ojos de encima—. Los muñecos de la calle están... neutralizados. Todos. —Una pausa—. No, no los cortamos. No, no estoy borracho. —Otra pausa, más larga—. Necesito que venga alguien de la Cuarta. Ahora. Díganle a la señorita Makima que tengo algo que va a querer ver.
-
-Corta. Guarda la radio. Te mira de arriba abajo, otra vez, como si fuera la primera.
-
-—Puedes bajar las manos, viajero. —Lo dice muy despacio—. Y no te muevas de ahí. Por favor.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1687 · CHAINSAW MAN · DÍA 1 · 19:36    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, con el pelo para atrás   ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1688)
+## COMANDO 1 (T1688)
 
 bajo las manos y espero, acariciando a kase
 
-## RESPUESTA 2 (T1688)
+## RESPUESTA 1 (T1688)
 
 > bajo las manos y espero, acariciando a kase
 
@@ -131,11 +74,11 @@ Makima sonríe. Una sonrisa suave, amable, perfecta.
 
 ---
 
-## COMANDO 3 (T1689)
+## COMANDO 2 (T1689)
 
 Buenas noches, asi es, me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1689)
+## RESPUESTA 2 (T1689)
 
 > Buenas noches, asi es, me llamo Facundo Morelli
 
@@ -182,4 +125,51 @@ Arriba, en Mitsukoshi, la alarma de incendio sigue chillando. Por la puerta prin
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:46, avenida frente a Mitsukoshi. Makima sabe su nombre. Revisó el pulso del carnicero ("Respira. Duerme."). "Es algo que no había visto nunca." No siente nada en él ("Es como mirar a un empleado de banco"). Pregunta: "¿Con qué demonio tiene un pacto? ¿O es usted otra cosa?" Sale humo por la puerta de Mitsukoshi; alarma.
+## COMANDO 3 (T1690)
+
+podrías decir que soy otra cosa, pero no soy una amenaza
+
+## RESPUESTA 3 (T1690)
+
+> podrías decir que soy otra cosa, pero no soy una amenaza
+
+> —Podrías decir que soy otra cosa. Pero no soy una amenaza.
+
+Makima no deja de sonreír.
+
+—Otra cosa —repite, como si probara un sabor nuevo—. Y no una amenaza.
+
+Mira la avenida otra vez, de punta a punta. Los cuarenta y seis dormidos bajo la llovizna, sentados en bancos, en autos, en escalones. La novia del vestido de barro, con la cabeza apoyada en el volante. La nena de las trenzas, acurrucada contra el cartero, con la mochila de conejo en las rodillas.
+
+—Le creo —dice—. Por ahora. —Vuelve a ti—. Alguien que fuera una amenaza no los habría sentado. Los habría dejado en el piso. O los habría cortado, como hacemos nosotros. —Una mirada breve, sin reproche, hacia Sato, que aprieta los labios—. Usted les cuidó la cabeza.
+
+El chofer cambia el paraguas de mano. Makima ni lo nota.
+
+—Pero le voy a decir algo, señor Morelli, porque es justo que lo sepa. —Baja un poco la voz, como si te contara un secreto—. La persona que hizo esto —un gesto leve, abarcando a los dormidos— es una asesina extranjera. Vino a Japón a matar a uno de mis empleados. No es la única: esta semana llegaron varios. Y esta, en particular, nunca deja ir lo que le gusta. —Mira a Kase—. Me dijeron por radio que le habló. A usted. Que le dijo "joven del gato".
+
+Kase, en tu hombro, mueve la punta de la cola una sola vez.
+
+—Así que usted, que no es una amenaza, ya tiene a una amenaza muy seria buscándolo. A usted y a su gato. Esta noche.
+
+En la puerta de Mitsukoshi, entre el humo, aparecen dos siluetas que bajan las escaleras de la entrada tosiendo, chamuscadas. Una es alta, de pelo negro atado en un rodete, con traje y una katana. La otra es más baja, con dos cuernos rojos en la cabeza, y viene gritando algo con muchísima indignación. No llegas a entender qué. Makima no se da vuelta a mirarlos.
+
+—Por eso le voy a hacer una propuesta, señor Morelli. —Junta las manos otra vez—. Quédese conmigo esta noche. Con mi gente. Trabaje para mí, aunque sea hasta que esto termine. Le pagaré lo que pida. —La sonrisa no cambia—. Y así, cuando ella venga por usted, va a encontrarnos a todos juntos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1690 · CHAINSAW MAN · DÍA 1 · 19:48    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Makima         ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:48. Makima le cree "por ahora" (los sentó, les cuidó la cabeza). Le explica: asesina extranjera (Santa) vino a matar a uno de sus empleados; llegaron varios esta semana; "nunca deja ir lo que le gusta"; ya lo busca a él y a su gato. De Mitsukoshi salen AKI (rodete, katana) y POWER (cuernos, gritando indignada), chamuscados, tosiendo. Makima propone: "Quédese conmigo esta noche. Con mi gente. Trabaje para mí, aunque sea hasta que esto termine. Le pagaré lo que pida. Así, cuando ella venga por usted, va a encontrarnos a todos juntos."

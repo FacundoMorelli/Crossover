@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: con Denji y Aki. Nunca opción romántica (aspecto de menor).
+ENCUENTROS:
+- T1690 · Día 1 19:48 · Sale de Mitsukoshi chamuscada junto a Aki, gritando indignada. Facundo la ve de lejos.

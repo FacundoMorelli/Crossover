@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: custodia a Denji. MISIÓN DE MUNDO: que siga vivo al terminar el ataque del Pistola.
+ENCUENTROS:
+- T1690 · Día 1 19:48 · Sale de Mitsukoshi entre el humo, chamuscado, tosiendo, con la katana, junto a Power. Facundo lo ve de lejos. Todavía no lo conoce.

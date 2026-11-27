@@ -24,3 +24,4 @@ Quién sabe qué de Facundo en este mundo.
 
 ## QUIÉN SABE QUÉ
 - T1689 · MAKIMA, SATO, AGENTE JOVEN y el CHOFER saben (por Facundo) su nombre: Facundo Morelli.
+- T1690 · MAKIMA sabe (por Facundo) que es "otra cosa" y dice no ser una amenaza.
