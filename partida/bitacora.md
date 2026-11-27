@@ -1563,3 +1563,4 @@ T1561 · DRAGON BALL · Planeta de Bills · Acepta el duelo con Vegeta: "Al aman
 T1562 · DRAGON BALL · Planeta de Bills · Noche y amanecer. Explanada reforzada por Whis. Goku mira escondido. Vegeta en SSJ Blue: "Hoy no te contengas tanto. Me lo prometiste."
 T1563 · DRAGON BALL · Planeta de Bills · Facundo hace SSJ y SSJ Blue ante Vegeta, Goku y Whis; el suelo de Whis se hunde. Goku: "¿Eres saiyajin?" Vegeta: "No tienes cola. ¿Qué demonios eres?" Whis deja de sonreír.
 T1564 · DRAGON BALL · Explanada · "Ven, Vegeta. Atácame." Vegeta: "No me importa lo que seas. Me importa ganarte." Ataque en azul: puño, rodilla, palma cargada; el primer puño a un palmo.
+T1565 · DRAGON BALL · Explanada · Detiene el puño de Vegeta en azul con dos dedos (cráter en el suelo de Whis). Vegeta: "No. No." Final Flash azul a un paso.

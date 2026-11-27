@@ -103,3 +103,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1562 · Repite la cena cinco veces. Al amanecer, escondido (mal) detrás de una roca para mirar el duelo.
 - T1563 · Sale de detrás de la roca al ver el SSJ Blue de Facundo: "¡¿Facundo?! ¡¿Tú también eres saiyajin?!"
 - T1564 · Ve atacar a Vegeta en azul: "Rápido..."
+- T1565 · Se tapa la boca con las dos manos al ver a Facundo frenar a Vegeta en azul con dos dedos.
