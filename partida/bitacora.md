@@ -1568,3 +1568,4 @@ T1566 · DRAGON BALL · Explanada · Recibe de lleno el Final Flash azul de Vege
 T1567 · DRAGON BALL · Explanada · "Te espero, Goku." Goku en azul estable: "Es raro pelear contra mi propio azul. ¡Ahí voy!" Puño a un palmo.
 T1568 · DRAGON BALL · Explanada · Duelo en azul con Goku: gana; Goku esquiva solo una vez sin pensar. Whis: "No fue suerte." +25.000 F, +6.000 EXP. NIVEL 31.
 T1569 · DRAGON BALL · Explanada · Suelta el azul; Kase le frota la cabeza bajo el corte. Goku y Vegeta: "Mañana otra vez." Whis le regala un sobretodo nuevo y un pañuelo.
+T1570 · DRAGON BALL · Planeta de Bills · "Gracias, Whis." Kase y Whis se miran; Whis sonríe primero. Whis pide, con delicadeza, probar la carne con puré. Goku: "¿Carne?"

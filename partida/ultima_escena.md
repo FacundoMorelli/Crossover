@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1567)
-
-te espero goku
-
-## RESPUESTA 1 (T1567)
-
-> te espero goku
-
-> —Te espero, Goku.
-
-Goku no espera ni medio segundo.
-
-Sale corriendo desde detrás de la roca, salta por encima de Vegeta, que sigue de rodillas riéndose solo, y aterriza en el borde del cráter con los pies abiertos y los puños apretados, temblando de ganas como un chico la mañana de un torneo.
-
-—¡Por fin! —grita—. ¡Desde el planeta de Kaio-sama que te lo estoy pidiendo!
-
-Vegeta, en el suelo, le tira una piedrita a la pierna.
-
-—Cállate, Kakarotto. Te va a destrozar.
-
-—¡Ya sé! —Goku se ríe, enorme—. ¡Por eso!
-
-Cierra los ojos. El pelo se le pone dorado de golpe, con el aura amarilla rugiendo. Después respira, despacio, y el dorado se le apaga y nace el azul. Esta vez entra más rápido que ayer. Más limpio. El aura azul le sale tranquila, pareja, chispeando sin ruido. Los ojos, celestes.
-
-Se queda así. Estable. Se mira las manos.
-
-—Uno —cuenta—. Dos. Tres. —Sonríe—. Bien. Hoy aguanta.
-
-Se pone en guardia, con las piernas abiertas y los puños adelante. Te mira a ti, en azul, en el fondo del cráter, con el sobretodo deshecho y el corte en la mejilla. Y la sonrisa se le hace todavía más grande, de esas que le ocupan la cara entera.
-
-—Es raro, ¿sabes? —dice—. Pelear contra mi propio azul.
-
-En el borde de la explanada, Whis se acomoda en la silla de playa. Junta las manos sobre las rodillas. Kase, a su lado, se sienta derecho, con la cola enroscada.
-
-Goku flexiona las rodillas.
-
-—Esta vez no voy a contar hasta tres —dice—. ¡AHÍ VOY!
-
-Y desaparece.
-
-El suelo de Whis se agrieta donde estaba. Y en el aire, a un palmo de tu cara, aparece un puño azul, con todo el peso de un saiyajin feliz detrás.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1567 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada de entrenamiento · mañana          ║
-║ NIVEL 30 · EXP 355.130/360.000               ║
-║ FRAGMENTOS 214.243 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien · corte en mejilla  ║
-║ SUPER SAIYAJIN BLUE (x2.000)                 ║
-║ Velo: el ki divino no se siente              ║
-║ Kase: junto a la silla de Whis, mirando      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Goku (SSJ Blue)          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1568)
+## COMANDO 1 (T1568)
 
 me defiendo y lo ataco
 
-## RESPUESTA 2 (T1568)
+## RESPUESTA 1 (T1568)
 
 > me defiendo y lo ataco
 
@@ -149,11 +90,11 @@ Whis se levanta de la silla de playa, despacio, con el báculo en la mano. Mira 
 
 ---
 
-## COMANDO 3 (T1569)
+## COMANDO 2 (T1569)
 
 me destransformo y vuelvo con kase
 
-## RESPUESTA 3 (T1569)
+## RESPUESTA 2 (T1569)
 
 > me destransformo y vuelvo con kase
 
@@ -209,4 +150,48 @@ Hace aparecer, de la nada, un sobretodo negro igual al tuyo, nuevo, doblado, sob
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, borde de la explanada. Facundo en estado normal, con Kase en el hombro. Whis le regala un sobretodo nuevo y un pañuelo. Goku y Vegeta: "Mañana otra vez." Facundo puede actuar.
+## COMANDO 3 (T1570)
+
+gracias whis
+
+## RESPUESTA 3 (T1570)
+
+> gracias whis
+
+> —Gracias, Whis.
+
+—No hay de qué, Facundo-san. —Whis inclina la cabeza, con la taza entre las manos—. Es lo mínimo.
+
+Toma un trago de té. Mira la explanada: el cráter, la zanja, la montaña rajada, la otra montaña cortada a la mitad. Suspira, con mucha paciencia, como quien mira el desorden que dejaron unos chicos después de un cumpleaños.
+
+—Mañana arreglo el suelo —dice—. Otra vez. —Sonríe—. Hacía siglos que nadie me rompía un suelo dos veces en una mañana.
+
+Kase, en tu hombro, mira la taza de Whis. Whis lo mira a él. Se sostienen la mirada un rato largo, el gato y el ángel, en silencio. Kase no parpadea. Whis tampoco. Al final, Whis es el que sonríe primero.
+
+—Su gato es muy difícil de impresionar —dice.
+
+Deja la taza en la mesita. Junta las manos sobre las rodillas. Te mira de costado, con una expresión muy educada y los ojos brillando de una forma que ya empiezas a conocer.
+
+—Aunque, si de verdad quiere agradecerme... —Hace una pausa delicadísima—. Ayer Bills-sama no me dejó probar ni un bocado de esa carne. La de la cosa blanca al lado. —Se lleva una mano al pecho—. Fue muy cruel de su parte. Muy, muy cruel.
+
+Desde el medio de la explanada, Goku levanta la cabeza de golpe, como un perro que oye abrir la heladera.
+
+—¿Carne? ¿Qué carne?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1570 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde de la explanada · mañana               ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.243 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · corte en mejilla  ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, mirando a Whis           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Días en el planeta de Bills        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, borde de la explanada. Whis insinúa que quiere probar la carne con puré; Goku: "¿Carne? ¿Qué carne?" Facundo puede actuar.
