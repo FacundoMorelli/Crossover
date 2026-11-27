@@ -34,3 +34,4 @@ TIENE: libro de Paradis (T1542).
 - T1616 · Llama a Videl por el número de Erasa ("Hay un muchacho. El del gato."); Erasa acepta: cena hoy a las 20:00 en la Corporación Cápsula.
 - T1617 · Ve a Facundo cambiarse de ropa al instante (no pregunta cómo). Le muestra una foto de Erasa (de Videl) y le dice que Erasa pidió una suya: "¿Te saco una? ¿Ahora?"
 - T1618 · Le saca una foto a Facundo con Kase ("El gato es clave"; "¡El gato hace todo!") y se la manda a Videl para Erasa. Lee en voz alta la respuesta de Erasa, muerta de risa. "¿Qué le contesto?"
+- T1619 · Manda a Erasa lo que dijo Facundo (ojos y pelo naturales, el gato va a todos lados). Lee la respuesta. "¿Cómo se llama el gato, y cómo te llamas tú? Nombre completo, que esta chica es de las que buscan todo."

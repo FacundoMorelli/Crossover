@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1616)
-
-ehh bueno esta bien
-
-## RESPUESTA 1 (T1616)
-
-> ehh bueno esta bien
-
-> —Eh... bueno, está bien.
-
-—¡Sí! —Bulma salta en el lugar, con el celular en la mano, como si hubiera ganado algo.
-
-Ya está marcando. Se aleja dos pasos y se pone el teléfono en la oreja, con la otra mano en la cintura.
-
-—¿Videl? ¡Hola, querida! Sí, sí, todo bien. ¿Cómo va la pancita? ¿Ya patea? Ay, qué lindo... Oye, te llamo por otra cosa. ¿Todavía tienes el número de Erasa? —Pausa—. No, no, nada raro. Una cena. Esta noche. Acá en casa. —Te mira de reojo y te guiña un ojo—. Hay un muchacho.
-
-Del otro lado del teléfono se escucha un grito que hasta tú alcanzas a oír desde ahí. Bulma se aleja el aparato de la oreja, riéndose.
-
-—¡Sí, ese! El del gato. —Otra pausa—. No, no le digas nada a Gohan todavía, que es un chismoso... Bueno, sí, díselo, total se va a enterar igual.
-
-Se aleja hacia la casa, hablando rápido, y se pierde detrás de la puerta corrediza.
-
-Milk se queda a tu lado. Te mira de arriba abajo, con el cucharón apoyado en la cadera, evaluando.
-
-—Bueno. Si va a haber cena, voy a cocinar yo. —Lo dice como quien anuncia una guerra—. Bulma pide todo a domicilio y la comida a domicilio no conquista a nadie. Una muchacha de verdad se conquista con comida casera.
-
-—¡¿Va a haber comida?! —Goku asoma la cabeza por detrás de Whis, aunque Whis ya no está ahí: se fue adentro con Bills—. ¡Milk, yo te ayudo! ¡Yo pruebo todo!
-
-—Tú no vas a probar nada hasta la noche, que te comes la mitad antes de servir.
-
-—Pero Milk...
-
-—Y vas a ir a buscar a Goten a la casa, que hace cinco días que no ve a su papá.
-
-—Ah, sí, eso es cierto.
-
-Milk le da la espalda, satisfecha, y vuelve a mirarte. Ahora te mira la ropa: el sobretodo negro, los borceguíes, los aros, los tatuajes de dragones asomando por el cuello de la camisa. Arruga la nariz, pensativa.
-
-—Muchacho, te lo digo con cariño. —Te señala el sobretodo con el cucharón—. ¿Vas a ir así a conocer a una chica? Pareces uno de esos de las motos.
-
-Desde adentro de la casa, se escucha la voz de Bulma, todavía al teléfono:
-
-—¡Erasa dice que sí! ¡A las ocho!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1616 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mañana                                       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.851 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1617)
+## COMANDO 1 (T1617)
 
 ehh bueno me cambio la ropa
 
-## RESPUESTA 2 (T1617)
+## RESPUESTA 1 (T1617)
 
 > ehh bueno me cambio la ropa
 
@@ -124,11 +63,11 @@ Se acerca con el teléfono en alto.
 
 ---
 
-## COMANDO 3 (T1618)
+## COMANDO 2 (T1618)
 
 bueno esta bien
 
-## RESPUESTA 3 (T1618)
+## RESPUESTA 2 (T1618)
 
 > bueno esta bien
 
@@ -189,4 +128,61 @@ Bulma te mira, con el teléfono en la mano y los ojos brillantes.
 
 ---
 
-ESTADO AL CIERRE: Erasa vio la foto (Facundo y Kase) y exige que venga el gato. Bulma: "¿Qué le contesto?" Facundo puede contestar.
+## COMANDO 3 (T1619)
+
+Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
+
+## RESPUESTA 3 (T1619)
+
+> Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
+
+> —¡Ja, ja, ja! Mis ojos son naturales, mi pelo también. Y mi gato va conmigo a todos lados.
+
+—¡"Va conmigo a todos lados"! —Bulma repite mientras escribe, rápido, con los dos pulgares—. Ay, eso es buenísimo, eso lo pongo tal cual... "Ojos naturales, pelo natural, y el gato va a todos lados con él." Enviado.
+
+Milk niega con la cabeza, sonriendo.
+
+—Pelo natural, dice. Blanco y azul. —Te mira el pelo con los ojos entrecerrados—. Bueno, Goku tiene el pelo de punta desde que nació, y cuando se enoja se le pone amarillo, así que no voy a decir nada.
+
+El teléfono vibra casi enseguida. Bulma lo lee y suelta un grito chiquito.
+
+—"¡¿NATURALES?! ¡No puede ser! ¡Videl, si me estás mintiendo te mato!" —Sigue bajando con el dedo—. "Ok. Ok. Me calmo. Voy a ir. A las ocho. Voy a llevar algo para el gato." —Bulma levanta la vista, encantada—. Y otro mensaje: "¿Cómo se llama el gato? ¿Y cómo se llama ÉL? Videl no sabe el apellido, dice que nunca le preguntó."
+
+Milk se ríe detrás del cucharón.
+
+—Esa chica habla más que Bulma.
+
+—¡Oye!
+
+Desde adentro de la casa sale Bills, caminando despacio, con una cucharita en la boca y un vaso de pudín vacío en la mano. Se para en la puerta corrediza, ve el celular, ve la cara de Bulma, te ve a ti con la ropa nueva y entrecierra los ojos.
+
+—¿Qué pasa acá? ¿Por qué el muchacho del bolsillo está vestido de blanco?
+
+—Tiene una cita, señor Bills —dice Milk, muy orgullosa, como si fuera mérito suyo.
+
+Bills se saca la cucharita de la boca. Mira a Kase. Mira a ti.
+
+—¿Una cita? ¿Con comida?
+
+Bulma tiene el pulgar listo sobre la pantalla, esperando, y te mira.
+
+—Bueno, ¿qué le pongo? ¿Cómo se llama el gato, y cómo te llamas tú? —Sonríe—. Nombre completo, que esta chica es de las que buscan todo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1619 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa confirma y quiere saber el nombre del gato y el de Facundo. Bills: "¿Una cita? ¿Con comida?" Bulma espera para escribir. Facundo puede contestar.

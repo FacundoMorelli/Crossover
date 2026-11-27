@@ -43,3 +43,4 @@ ESTADO: bien.
 - T1616 · Va a cocinar para la cena ("la comida a domicilio no conquista a nadie"). Manda a Goku a buscar a Goten. A Facundo: "Muchacho, te lo digo con cariño. ¿Vas a ir así a conocer a una chica? Pareces uno de esos de las motos."
 - T1617 · Aprueba la ropa nueva de Facundo: "Ya no pareces de las motos... Ahora pareces de las motos que les gustan a las chicas. Eso no es malo. A Erasa le van a encantar. Es medio alocada." A Goku: "¡Y que se bañe!"
 - T1618 · Ve la foto: "Parece una portada de revista. El gato hace todo."
+- T1619 · "Pelo natural, dice. Blanco y azul. Bueno, Goku tiene el pelo de punta desde que nació... así que no voy a decir nada." "Esa chica habla más que Bulma." A Bills: "Tiene una cita."

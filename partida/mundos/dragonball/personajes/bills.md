@@ -79,3 +79,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1613 (4 días) · Recibe las 105 bandejas; come una por día (discute con Whis por la segunda, pierde). Se pasa horas en la explanada con los ojos cerrados "investigando"; esquiva sin mirar una piedra de Goku y se pone tan contento que no lo destruye. Pelea con Vegeta al cuarto día (lo tumba de un golpe). Va a ir mañana a la Tierra con Whis "por el pudín de Bulma".
 - T1614 · Llega a la Corporación Cápsula con Whis, Goku, Vegeta y Facundo. "Lo intenté. No se dejó." (sobre destruir a Facundo).
 - T1615 · Pide pudín a Bulma; ella le grita "¡Ahora no!" y se corrige; entra contento a la casa con Whis.
+- T1619 · Sale con un vaso de pudín vacío: "¿Por qué el muchacho del bolsillo está vestido de blanco?" Al saber de la cita: "¿Una cita? ¿Con comida?"
