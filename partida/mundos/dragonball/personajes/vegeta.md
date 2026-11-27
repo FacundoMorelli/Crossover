@@ -151,3 +151,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1587 · Ve a Facundo en Ultra Instinto Dominado; mira a Goku, al suelo; los puños abiertos, colgando, sin fuerza.
 - T1589 · "Ya veo lo que es, Kakaroto."
 - T1590 · "Kakaroto, compórtate." No deja de mirar el bolsillo de Facundo.
+- T1591 · Toma dos bandejas sin dar las gracias; come de espaldas en su roca, cada vez más rápido.

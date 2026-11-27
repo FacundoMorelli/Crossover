@@ -1,13 +1,13 @@
 {
-  "turno": 1590,
+  "turno": 1591,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, martes (hora Tierra), tarde en el planeta de Bills",
+  "hora": "año 778 (hora Tierra), atardecer en el planeta de Bills",
   "edad": 18,
   "nivel": 32,
   "exp": 401130,
   "exp_siguiente_nivel": 440000,
-  "fragmentos": 239237,
+  "fragmentos": 239197,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",

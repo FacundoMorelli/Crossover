@@ -1589,3 +1589,4 @@ T1587 · DRAGON BALL · Planeta de Bills · Ultra Instinto Dominado. Whis lo nom
 T1588 · DRAGON BALL · Planeta de Bills · "¿Así está bien?" Bills: "Así está muy bien... Mejor de lo que esperé de nadie en mucho tiempo." Le suena la panza. "Pelear da hambre. ¿Qué tienes ahí?"
 T1589 · DRAGON BALL · Planeta de Bills · Hamburguesa doble con papas y malteada de chocolate para Bills (2 F). "Oh, no, no, no." No le da a Whis. "¿Cómo se llama esto?"
 T1590 · DRAGON BALL · Planeta de Bills · Nombre de la comida; Whis lo anota. Bills: la pelea sigue mañana. "Hoy quiero diez de esas." Goku, Whis y Vegeta también quieren.
+T1591 · DRAGON BALL · Planeta de Bills · 20 bandejas de la nada (40 F), sin el abrigo. Bills come 10: "Ya sabía que no era el abrigo." Goku, Whis y Vegeta comen. Bills: "Mañana seguimos. Esto de desayuno." Se duerme. Whis ofrece cuarto o llevarlo a la Tierra.
