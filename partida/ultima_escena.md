@@ -3,85 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1691)
-
-esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
-
-## RESPUESTA 1 (T1691)
-
-> esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
-
-> —Está bien. Pero hasta que esto termine. ¿Y puedo saber el nombre del empleado al que buscan?
-
-—Hasta que esto termine —acepta Makima, enseguida, como si ya lo tuviera escrito—. Es justo.
-
-Se toma un segundo antes de la segunda respuesta. No por duda: más bien como quien elige con qué cuchara servir.
-
-—Se llama Denji. —Levanta la vista, apenas, hacia los pisos altos de Mitsukoshi, hacia la vidriera reventada por donde sale humo—. Está allá arriba. Probablemente sin sangre, en este momento. Va a necesitar un rato. —Lo dice con la misma ternura con la que hablaría de un perro que se ensució en el barro—. Es un buen chico. Muy valioso. Por eso tantos países lo quieren.
-
-Se da vuelta por primera vez hacia la entrada del edificio.
-
-—Aki.
-
-No levanta la voz. Pero el hombre del rodete, que estaba al pie de la escalera ayudando a la de los cuernos a sacudirse el hollín, gira la cabeza al instante, como si lo hubiera llamado a gritos. Viene hacia ustedes con paso rápido, guardando la katana. La de los cuernos lo sigue, pisándole los talones, todavía protestando.
-
-De cerca, el hombre es joven, de unos veinte años, con la cara seria y cansada y un ojo raro: el derecho, con algo que se mueve adentro, como un reflejo que no corresponde. Tiene el traje lleno de ceniza y una mancha de sangre seca en el cuello que no parece suya. Se detiene a un paso de Makima, derecho, y te mira con desconfianza abierta. Mira a los dormidos. Mira a Kase.
-
-La de los cuernos no se detiene. Pasa por al lado de Aki, se te planta enfrente, a medio metro, y levanta la cara hacia la tuya con los ojos abiertos de par en par. Tiene el pelo largo y rubio rosado, dos cuernos rojos que le salen de la frente y unas pupilas con forma de cruz. Huele a humo y a hierro.
-
-No te mira a ti. Mira a Kase.
-
-—¡¿Qué es eso?! —grita, señalándolo con un dedo lleno de hollín—. ¡Es un gato! ¡Es un gato gigante! ¡Es más grande que Miau! —Se gira hacia Makima, indignadísima—. ¡¿Por qué este tiene un gato más grande que el de Power?! ¡Exijo saberlo!
-
-Kase la mira desde tu hombro con una expresión de desprecio absoluto.
-
-—Power. —Aki la agarra del cuello del saco y la tira hacia atrás, sin mirarla, con la costumbre de quien lo hace diez veces por día. Te mira a ti, y después a Makima—. ¿Quién es este, señorita Makima?
-
-```
-╔══════════════════════════════════════════════╗
-║ AKI HAYAKAWA                                 ║
-║ Seguridad Pública · División 4               ║
-║ PODER: pactos (Zorro, Futuro), katana        ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,009 sobre ti         ║
-║ Su vida está más corta de lo que debería.    ║
-║ COPIABLE · MISIÓN: MEDIA                     ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ POWER                                        ║
-║ Seguridad Pública · División 4 · fiend       ║
-║ PODER: manipulación de sangre                ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,008 sobre ti         ║
-║ COPIABLE · MISIÓN: MEDIA                     ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1691 · CHAINSAW MAN · DÍA 1 · 19:50    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, despreciando a Power     ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Trabajar con Makima esta noche     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1692)
+## COMANDO 1 (T1692)
 
 soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
 
-## RESPUESTA 2 (T1692)
+## RESPUESTA 1 (T1692)
 
 > soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
 
@@ -140,11 +66,11 @@ Kase la mira. Las orejas se le van para atrás.
 
 ---
 
-## COMANDO 3 (T1693)
+## COMANDO 2 (T1693)
 
 dejo que power intente tocar a kase y subo con aki
 
-## RESPUESTA 3 (T1693)
+## RESPUESTA 2 (T1693)
 
 > dejo que power intente tocar a kase y subo con aki
 
@@ -216,4 +142,59 @@ Gira la cabeza hacia ustedes, muy despacio, como si le pesara una tonelada.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:58, Mitsukoshi piso 7 (muebles), destrozado, vidriera reventada, muñecos cortados. Kase le dio un coletazo en la cara a Power ("¡Me pegó! ¡Es de verdad!"). Subieron por la escalera mecánica apagada. KOBENI escondida en el piso 6 (perfumería), aterrada; grita al ver a Facundo y a Kase. DENJI tirado sobre una cama de exhibición, sin sangre, despierto: "¿Y ese quién es? No importa. ¿Alguien tiene sangre? Me muero de sangre." Aki y Power presentes.
+## COMANDO 3 (T1694)
+
+le doy una semilla de ermitaño
+
+## RESPUESTA 3 (T1694)
+
+> le doy una semilla de ermitaño
+
+Sacas una semilla del ermitaño del inventario. Para los demás, aparece entre tus dedos, chiquita, verde, como un poroto seco.
+
+Te agachas al lado de la cama de exhibición y se la pones a Denji en la boca.
+
+—¿Qué es es...? —alcanza a decir, con la semilla ya entre los dientes.
+
+Mastica por reflejo. Una vez. Dos.
+
+Se le abren los ojos de golpe.
+
+El color le vuelve a la cara de un saque, como si alguien hubiera abierto una canilla: los labios grises se ponen rojos, las mejillas pálidas se encienden, las venas del cuello se le hinchan. Los cortes que tenía en los brazos y en el pecho, debajo del traje hecho jirones, se cierran solos, uno tras otro, en un segundo, sin dejar marca. La cuerda del pecho tiembla.
+
+Denji se sienta en la cama de un salto. Después se para. Después se mira las manos, las abre y las cierra. Se toca la cara, el pecho, la panza.
+
+—¡AAAAH! —grita, con todas las fuerzas que hace un segundo no tenía—. ¡Estoy bien! ¡Estoy re bien! ¡Tengo sangre! ¡Tengo un montón de sangre! —Se golpea el pecho con los dos puños—. ¡Me siento como si me hubiera comido diez panes con mermelada!
+
+Power, en la puerta de la sección de muebles, se queda con la boca abierta.
+
+Aki no. Aki se queda con la mano en la empuñadura de la katana y los ojos clavados en tus dedos, en el lugar donde estaba la semilla, y después en ti.
+
+—¿Qué le diste? —dice. Muy bajo.
+
+Denji no lo escucha. Se te acerca, te mira a los ojos de muy cerca, primero el rojo, después el azul, después la cara entera, con la boca abierta de par en par y los dientes afilados a la vista.
+
+—¡Oye! ¡Tú! —Te señala con el dedo—. ¡¿Qué era eso?! ¡Sabía horrible! ¡Como a pasto! ¡Pero me curó todo! ¡¿Tienes más?! —Y después, sin respirar—: ¿Eres un médico? ¿Eres rico? ¿Ese gato es tuyo? ¿Por qué tienes el pelo así?
+
+Power reacciona por fin. Cruza la sección de muebles corriendo, salta por encima de un sillón roto y se te para al lado de Denji, empujándolo con el hombro.
+
+—¡Power también quiere! —Abre la boca enorme, como un pichón—. ¡Power también está herida! ¡Mira! —Se señala un raspón chiquito en la rodilla, del tamaño de una moneda—. ¡Muy herida!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1694 · CHAINSAW MAN · DÍA 1 · 19:59    ║
+║ Tokio, otoño de 1997                         ║
+║ Mitsukoshi, piso 7 (muebles)                 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Proteger a Denji esta noche        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:59, Mitsukoshi piso 7. Denji curado del todo por una semilla del ermitaño (sangre repuesta, cortes cerrados); salta: "¡Tengo un montón de sangre!" Aki, mano en la katana: "¿Qué le diste?" Denji a Facundo: "¡¿Qué era eso?! ¡Sabía a pasto! ¡¿Tienes más?! ¿Eres médico? ¿Eres rico? ¿Ese gato es tuyo? ¿Por qué tienes el pelo así?" Power, con un raspón del tamaño de una moneda: "¡Power también quiere! ¡Muy herida!" Quedan 21 semillas.

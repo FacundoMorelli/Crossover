@@ -16,3 +16,4 @@ ENCUENTROS:
 - T1691 · Se planta frente a Facundo por Kase: "¡¿Qué es eso?! ¡Es un gato! ¡Es un gato gigante! ¡Es más grande que Miau! ¡¿Por qué este tiene un gato más grande que el de Power?! ¡Exijo saberlo!" Aki la tira del cuello. Tasación: manipulación de sangre; amenaza baja. Kase la mira con desprecio. Huele a humo y a hierro.
 - T1692 · No escuchó nada; en puntas de pie estira un dedo con hollín hacia la cola de Kase: "Power solo va a tocarlo un poquito. Para ver si es de verdad." QUÉ SABE: nada de Facundo (no escuchó).
 - T1693 · Toca la cola de Kase; Kase le da un coletazo en la cara (sin uñas). "¡Me pegó! ¡Es de verdad! ¡Aki, el gato de verdad le pegó a Power!" Sube con ellos contándole a nadie lo del gato.
+- T1694 · VIO la semilla curar a Denji. Quiere una por un raspón del tamaño de una moneda: "¡Power también quiere! ¡Power también está herida! ¡Muy herida!"
