@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1554)
-
-le doy una carne al punto justo con pure
-
-## RESPUESTA 1 (T1554)
-
-> le doy una carne al punto justo con pure
-
-[Compra: plato de carne al punto con puré. 1 Fragmento.]
-
-Metes la mano en el bolsillo del sobretodo y la sacas con un plato.
-
-Un plato de verdad, de loza blanca, caliente, humeando. Encima, un bife grueso, dorado por fuera, con las marcas de la parrilla cruzadas, y al lado una montaña de puré de papas, cremoso, con un pedazo de manteca derritiéndose arriba. Cubiertos. Una servilleta doblada.
-
-El olor sale de golpe y se esparce por el pie de la pirámide.
-
-Bills se queda inmóvil, sentado en el suelo. Las orejas se le paran. La nariz se le mueve sola, rápido, como la de un gato delante de una pescadería.
-
-—¿Eso salió de tu bolsillo? —dice, muy bajo—. ¿Caliente?
-
-No espera respuesta. Te saca el plato de las manos con muchísimo cuidado, se lo pone en las rodillas, agarra el cuchillo y el tenedor, y corta un pedazo de carne. Por dentro está rosada, jugosa, justa. Se la lleva a la boca.
-
-Cierra los ojos.
-
-Se queda así mucho rato, masticando despacio, sin decir nada. La cola, detrás de él, deja de moverse. Se queda quieta, apoyada en el suelo. Las orejas se le caen hacia los costados, relajadas, como a un gato que se queda dormido al sol.
-
-—Oh —dice, con la boca llena—. Oh.
-
-Prueba el puré. Abre los ojos. Mira el plato como si fuera un planeta nuevo.
-
-A veinte metros, Whis se detiene en la mitad de una explicación, con el dedo apoyado en la frente de Vegeta. Gira la cabeza. Olfatea el aire. Deja a Vegeta con la frase a medias y viene caminando hacia las sillas, muy rápido para alguien que siempre camina despacio.
-
-—Bills-sama —dice, mirando el plato con los ojos brillantes—. ¿Me permitiría probar un poquito...?
-
-—No. —Bills se pone el plato contra el pecho—. Pídele a él.
-
-Se come el resto en silencio, despacio, saboreando cada pedazo, hasta que no queda nada. Ni siquiera la manteca. Pasa un dedo por el plato vacío y se lo chupa.
-
-Después se queda quieto, con el plato vacío en las rodillas, mirándote de costado. Los ojos amarillos, entrecerrados. Serio.
-
-—Primero el pudín. Ahora esto. —Deja el plato en el suelo—. Un dios no se queda debiendo nada a nadie, muchacho. Nunca.
-
-Te mira a los ojos. Al rojo y al azul.
-
-—¿Qué quieres a cambio?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1554 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · sillas de playa         ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en la mesita                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills pregunta qué quieres a       ║
-║ cambio                                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1555)
+## COMANDO 1 (T1555)
 
 nada, bueno, me mostrarias una de tus habilidades de dios?
 
-## RESPUESTA 2 (T1555)
+## RESPUESTA 1 (T1555)
 
 > nada, bueno, me mostrarias una de tus habilidades de dios?
 
@@ -142,11 +79,11 @@ Whis, de pie junto a la mesita, te mira. No a Bills. A ti. Con la cabeza un poco
 
 ---
 
-## COMANDO 3 (T1556)
+## COMANDO 2 (T1556)
 
 que poder impresionante
 
-## RESPUESTA 3 (T1556)
+## RESPUESTA 2 (T1556)
 
 > que poder impresionante
 
@@ -198,4 +135,61 @@ Whis se sienta otra vez en su silla de playa. Se acomoda la túnica. Te mira de 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Bills se volvió a dormir pidiendo la carne y al gato a su vuelta. Whis ofrece a Facundo quedarse unos días. Goku y Vegeta entrenan el azul. Facundo puede responder.
+## COMANDO 3 (T1557)
+
+esta bien, total no tengo ningun lugar al que viajar por ahora
+
+## RESPUESTA 3 (T1557)
+
+> esta bien, total no tengo ningun lugar al que viajar por ahora
+
+> —Está bien. Total, no tengo ningún lugar al que viajar por ahora.
+
+—Qué bien. —Whis sonríe y junta las manos—. Bills-sama se va a poner contento. Bueno, contento a su manera. Que es parecido a enojado, pero con más comida.
+
+Se levanta de la silla de playa. Las dos sillas y la mesita desaparecen detrás de él sin ruido, salvo el lugar donde está Kase, que queda flotando un segundo en el aire, dormido, y baja despacio hasta el pasto sin despertarse.
+
+—Por aquí, por favor.
+
+Te lleva por un costado de la pirámide, por un sendero de piedra clara que sube en curva entre árboles con las hojas al revés y flores que se abren cuando pasan y se cierran detrás. Kase se despierta, se estira y te sigue, caminando muy digno, con la cola en alto, oliéndolo todo.
+
+El palacio está en la mitad de la pirámide, metido adentro de la piedra. Pasillos largos, frescos, con columnas talladas con figuras de gatos y de peces. Ventanas sin vidrio que dan al cielo violeta. Fuentes con agua que corre hacia arriba.
+
+Whis abre una puerta.
+
+El cuarto es grande, redondo, de piedra clara. Una cama baja, ancha, con almohadones de colores. Una ventana enorme, sin vidrio, que da a un abismo de cielo y lunas y rocas flotantes. Una mesa con una jarra de agua y una fuente de frutas raras, de colores que no tienen nombre.
+
+Kase entra primero. Olfatea la cama. La aprueba. Se sube y se echa en el medio.
+
+—Espero que esté cómodo. —Whis se queda en la puerta, con el báculo en la mano—. Si necesita algo, llámeme. Siempre escucho.
+
+Hace una pausa. Te mira un momento, con la cabeza un poco ladeada.
+
+—"Ningún lugar al que viajar por ahora" —repite, muy suave, como quien guarda una frase en un cajón para leerla después—. Qué frase tan curiosa para alguien que tiene un ki tan pequeño.
+
+Sonríe. No pregunta nada.
+
+—Mañana a la mañana entreno a Goku-san y a Vegeta-san otra vez —dice—. Si le apetece mirar, la silla de playa está donde la dejé. —Otra pausa, más corta—. Y si alguna vez le apetece hacer algo más que mirar... yo también estoy.
+
+Inclina la cabeza y cierra la puerta.
+
+Afuera, por la ventana sin vidrio, a lo lejos, se ve un destello azul que dura un segundo, después otro, y la voz de Goku que grita algo de pura alegría. Y más arriba, desde lo alto de la pirámide, el ronquido grave de Bills.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1557 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Palacio de la pirámide · tu cuarto           ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el medio de la cama                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Unos días en el planeta de Bills · ║
+║ misión de copia del Hakai                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, cuarto del palacio. Facundo se queda unos días; Whis ofreció entrenarlo si quiere. Kase en la cama. Afuera, destellos azules de Goku; Bills ronca. Facundo puede actuar.

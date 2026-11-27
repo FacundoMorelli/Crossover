@@ -140,3 +140,4 @@
 - Bills, Whis · T1554 · Ven a Facundo sacar del bolsillo un plato caliente de carne con puré, con cubiertos.
 - Bills, Whis · T1555 · Por Facundo: no quiere nada a cambio, solo ver una habilidad de dios.
 - Facundo · T1556 · Por Bills: hay doce universos con un dios de la destrucción cada uno; Champa existe (rival de Bills).
+- Whis · T1557 · Por Facundo: "no tengo ningún lugar al que viajar por ahora". Le parece curioso con un ki tan pequeño (sospecha, sin preguntar).
