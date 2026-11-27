@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1543)
-
-pongo el velo, bueno vegeta a ver lo que tenes, entreno con vegeta
-
-## RESPUESTA 1 (T1543)
-
-> pongo el velo, bueno vegeta a ver lo que tenes, entreno con vegeta
-
-Dejas el Velo como está. El mismo hilo de ki, chiquito, que no llega ni al de Krilin.
-
-Kase te baja del hombro solo antes de que entres. Se sienta en el pasto mojado, frente a la compuerta, con la cola enroscada alrededor de las patas, a mirar.
-
-Entras. La compuerta se cierra detrás de ti con un siseo.
-
-> —Bueno, Vegeta. A ver lo que tienes.
-
-Vegeta se da vuelta despacio. Te mide el ki. Se le tuerce la boca en una mueca de asco.
-
-—Sigues con eso. —Aprieta el botón de la consola sin mirarlo—. Bien. Entonces te vas a aplastar como un insecto.
-
-El zumbido sube de golpe a un rugido. En la pantalla el número salta: 50G. 100G. 200G. 300G.
-
-El aire se vuelve de plomo. El piso cruje bajo tus botas. Una gota de sudor que se le cae a Vegeta de la frente se estrella contra el suelo como una bala. Las luces del techo parpadean.
-
-Te quedas parado igual. Como en la cocina.
-
-Vegeta te mira las rodillas, que no se doblan. Los hombros, que no bajan. La cara, que no cambia.
-
-Se le hincha la vena de la sien.
-
-—Tch.
-
-Viene.
-
-Rápido, mucho más rápido que en la fiesta, con todo el peso de trescientas gravedades detrás del puño. Lo desvías con el antebrazo. Otro. Lo esquivas. Una patada a las costillas, un codo, una ráfaga de golpes cortos, secos, de los que Vegeta lleva años afilando en esa misma cámara, solo, contra robots, contra nadie. Los paras todos. Uno te roza la oreja. Otro te despeina.
-
-Le devuelves uno. En el hombro, con la palma abierta.
-
-Vegeta sale volando hacia atrás y choca contra la pared curva de la cámara, que se abolla con un ruido de campana. Cae parado. Se sacude el hombro.
-
-Se ríe. Una risa corta, rabiosa.
-
-—Ahí está. —Se endereza—. Ahí está, maldito. Eso no lo pega un insecto.
-
-Grita.
-
-El pelo se le levanta, dorado. El aura le estalla alrededor, amarilla, y le saltan rayos azules por todo el cuerpo. Super Saiyajin 2. El piso de la cámara se agrieta bajo sus pies, en estrella.
-
-Golpea la consola con el puño sin mirarla. El número de la pantalla salta otra vez: 400G. 450G. 500G. Las alarmas empiezan a sonar, rojas, intermitentes.
-
-—Quinientas —dice Vegeta, con la voz ronca, el aura rugiendo—. A ver si con quinientas te sigues haciendo el insecto.
-
-Se pone en guardia. Los rayos le corren por los brazos.
-
-—Kakarotto tuvo tu cara de verdad. Yo también la quiero. —Aprieta los dientes—. Muéstramela.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1543 · DRAGON BALL · DOMINGO · 06:05   ║
-║ Capsule Corp · cámara de gravedad (500G)     ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: afuera, en el pasto, mirando           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Vegeta · cena en      ║
-║ casa de Milk                                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1544)
+## COMANDO 1 (T1544)
 
 me transformó en cenit, pero sin romper nadq
 
-## RESPUESTA 2 (T1544)
+## RESPUESTA 1 (T1544)
 
 > me transformó en cenit, pero sin romper nadq
 
@@ -137,11 +64,11 @@ Junta las manos delante del pecho, una sobre la otra, con los dedos abiertos. El
 
 ---
 
-## COMANDO 3 (T1545)
+## COMANDO 2 (T1545)
 
 lo recibo de lleno
 
-## RESPUESTA 3 (T1545)
+## RESPUESTA 2 (T1545)
 
 > lo recibo de lleno
 
@@ -206,4 +133,57 @@ Aprieta los puños contra el piso.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 06:09, cámara de gravedad a 500G. Facundo contuvo el Final Flash. Vegeta, de rodillas: "Voy a llegar ahí... Y cuando llegue, vas a dejar de contenerte. Prométemelo." Facundo puede responder.
+## COMANDO 3 (T1546)
+
+esta bien, te lo prometo
+
+## RESPUESTA 3 (T1546)
+
+> esta bien, te lo prometo
+
+> —Está bien. Te lo prometo.
+
+Vegeta se te queda mirando desde el piso. Un segundo largo. Como quien pesa algo en la mano para ver si es de verdad.
+
+Después asiente. Una sola vez. Seco.
+
+—Bien.
+
+Apoya una mano en el piso agrietado. Después la otra. Empuja.
+
+Las quinientas gravedades no lo dejan. Le tiemblan los brazos, se le marcan todas las venas del cuello, el sudor le chorrea por la nariz. Se le doblan los codos una vez, y casi vuelve a caer de cara. Aprieta los dientes hasta que se oyen.
+
+Y se levanta.
+
+Primero una rodilla. Después la otra. Después de pie, encorvado, temblando de pies a cabeza, sin transformarse, sin aura, solo con las piernas y la rabia, bajo un peso que aplastaría un edificio. Se queda así, doblado, respirando como un fuelle.
+
+Se endereza. Despacio. Hasta que está derecho del todo, delante de ti, con los puños cerrados a los costados.
+
+No llega a la consola. No baja la gravedad. Ni la mira.
+
+—Otra vez —dice.
+
+Le tiembla la voz. Le tiemblan las piernas. Le cae sangre de la nariz por el esfuerzo y no se la limpia.
+
+—Hasta que se te terminen esos cuarenta minutos de fuego —dice, mirándote las llamas blancas y azules—. Y mañana otra vez. Y pasado. —Se pone en guardia, con los puños adelante, sin Super Saiyajin, en quinientas gravedades—. Kakarotto tiene un dios en el cuerpo desde ayer. Yo no voy a quedarme atrás de nadie. De nadie.
+
+Afuera, a través de la ventanilla redonda de la compuerta, se ve a Kase sentado en el pasto, al sol de la mañana. Mira hacia adentro. Bosteza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1546 · DRAGON BALL · DOMINGO · 06:11   ║
+║ Capsule Corp · cámara de gravedad (500G)     ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 98% · Ojos: bien                     ║
+║ FORMA CENIT (x10 · quedan ~41 min)           ║
+║ Velo: el ki sigue sin sentirse               ║
+║ Kase: afuera, en el pasto, bostezando        ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Vegeta                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 06:11, cámara de gravedad a 500G. Promesa hecha. Vegeta, de pie sin transformarse, en guardia: "Otra vez." Facundo en Forma Cenit (~41 min). Facundo puede actuar.

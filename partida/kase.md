@@ -129,3 +129,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1537 · Dragon Ball, Capsule Corp, noche · Facundo lo acaricia, le besa la cabeza: "Te amo, hijo." Kase lo mira con los dos ojos, se levanta y le frota la cabeza contra el mentón, fuerte, varias veces. Ronronea, largo y grave (casi nunca lo hace; no lo hizo con nadie más). Se echa sobre sus piernas con una pata sobre su mano.
 - T1538 · Mira la calle desde la ventana antes del amanecer; come pescado del robot chef en la cocina de Capsule Corp.
 - T1543 · Se baja solo del hombro antes de la cámara de gravedad y se sienta en el pasto a mirar.
+- T1546 · Mira la cámara de gravedad por la ventanilla desde el pasto; bosteza.

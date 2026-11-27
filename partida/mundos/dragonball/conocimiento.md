@@ -131,3 +131,4 @@
 - Vegeta · T1543 · Ve que Facundo aguanta 300G y 500G sin doblarse y lo estrella contra la pared con una palma, con un ki casi nulo. Confirma que se contiene.
 - Vegeta · T1544 · Ve la Forma Cenit de Facundo a pleno (x10) pero contenida (sin dañar nada). Sigue sin sentirle el ki.
 - Vegeta · T1545 · Ve a Facundo recibir y contener su Final Flash sin moverse.
+- Vegeta · T1546 · Por Facundo: la promesa de no contenerse cuando lo alcance.

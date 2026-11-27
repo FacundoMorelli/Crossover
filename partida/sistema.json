@@ -1,8 +1,8 @@
 {
-  "turno": 1545,
+  "turno": 1546,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (día después del cumpleaños de Bulma)",
-  "hora": "año 778, domingo, 06:09",
+  "hora": "año 778, domingo, 06:11",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
@@ -2672,5 +2672,5 @@
       "estado": "pareja"
     }
   },
-  "forma_activa": "Forma Cenit (x10, contenida) desde 06:07; quedan ~43 min"
+  "forma_activa": "Forma Cenit (x10, contenida) desde 06:07; quedan ~41 min"
 }
