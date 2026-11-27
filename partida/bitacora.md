@@ -1625,3 +1625,4 @@ T1623 · DRAGON BALL · Capital del Oeste · Le da Kase a Goten (Kase se deja, s
 T1624 · DRAGON BALL · Capital del Oeste · "No puedo enseñarte eso, Goten." Goku: "Ni yo, ni el señor Bills." Goten: "¡Entonces enséñame otra cosa! ¡Así le gano a Trunks!"
 T1625 · DRAGON BALL · Capital del Oeste · "Si te enseño algo nuevo, también a Trunks." Goten acepta (Gotenks). "¿Esperamos a Trunks o vamos al parque a buscarlo?"
 T1626 · DRAGON BALL · Parque de diversiones · Vuela con Goten y Kase al parque (Goku se queda pelando papas). Encuentran a Vegeta (camiseta rosada BAD MAN) y Trunks en la fila de la montaña rusa. Vegeta: "¿Qué demonios haces aquí?"
+T1627 · DRAGON BALL · Parque · Explica que vino a enseñarles una habilidad a Goten y Trunks. Vegeta acepta: algo que un saiyajin pueda hacer con su propio poder; primero la montaña rusa. Trunks: "¿Qué técnica es?"

@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1624)
-
-no puedo enseñarte eso goten
-
-## RESPUESTA 1 (T1624)
-
-> no puedo enseñarte eso goten
-
-> —No puedo enseñarte eso, Goten.
-
-A Goten se le cae la cara.
-
-—¿Por qué no? —Abraza a Kase más fuerte, como si el gato pudiera convencerte—. ¡Yo aprendo rápido! ¡Aprendí a volar en un día! ¡Bueno, en dos! ¡Y la fusión con Trunks en una semana!
-
-Kase, apretado, suelta un ruidito chiquito por la nariz. No es un maullido. Es una queja.
-
-Goku se acerca y le pone una mano en la cabeza a Goten, revolviéndole el pelo mojado.
-
-—Yo tampoco puedo hacerlo, Goten —dice, riéndose—. Ni el señor Bills. Ni Whis. Es una cosa de Facundo, nada más.
-
-Goten lo mira, desconfiado.
-
-—¿Ni tú, papá?
-
-—Ni yo.
-
-—¿Ni el señor Bills?
-
-—Ni el señor Bills —confirma Goku—. Y no le digas que te dije eso, que se enoja.
-
-Goten se queda pensando, con el ceño fruncido y la cara apoyada en la cabeza de Kase. Se nota que la idea de que haya algo que ni su papá ni el señor Bills pueden hacer le parece, al mismo tiempo, terrible e increíble.
-
-—Bueno —dice al final, con un suspiro enorme, de esos que solo suspiran los chicos—. Entonces...
-
-Levanta la cara, y ya se le olvidó la tristeza. Tiene los ojos brillando otra vez.
-
-—¡Entonces enséñame otra cosa! ¡Una cosa que sí se pueda! —Sacude a Kase sin querer, que lo mira con resignación—. ¡Trunks no va a tener nada de eso! ¡Así le gano!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1624 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en brazos de Goten (resignado)         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1625)
+## COMANDO 1 (T1625)
 
 no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
 
-## RESPUESTA 2 (T1625)
+## RESPUESTA 1 (T1625)
 
 > no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
 
@@ -113,11 +58,11 @@ Vuelve a mirarte, con los ojos enormes.
 
 ---
 
-## COMANDO 3 (T1626)
+## COMANDO 2 (T1626)
 
 bueno vamos al parque
 
-## RESPUESTA 3 (T1626)
+## RESPUESTA 2 (T1626)
 
 > bueno vamos al parque
 
@@ -179,4 +124,66 @@ Vegeta gira la cabeza, despacio. Te ve a ti. Ve a Kase. Ve a Goten muerto de ris
 
 ---
 
-ESTADO AL CIERRE: En el parque, fila de la montaña rusa. Vegeta (camiseta rosada BAD MAN), rojo: "Tú. ¿Qué demonios haces aquí?" Trunks sorprendido; Goten se ríe. Facundo puede contestar.
+## COMANDO 3 (T1627)
+
+queria venir al parque y tambien queria que les enseñe una nueva habilidad a el y a trunks
+
+## RESPUESTA 3 (T1627)
+
+> queria venir al parque y tambien queria que les enseñe una nueva habilidad a el y a trunks
+
+> —Quería venir al parque. Y también quería enseñarles una habilidad nueva a él y a Trunks.
+
+Trunks se olvida del algodón de azúcar en el piso.
+
+—¿A mí? —Se le abren los ojos—. ¿A mí también? ¡¿En serio?!
+
+Se da vuelta hacia Goten, triunfal.
+
+—¡Ja! ¡Ahora no eres el único!
+
+—¡Facundo dijo que a los dos! —Goten le saca la lengua—. ¡Para que hagamos Gotenks!
+
+—¡Gotenks! —Trunks levanta el puño—. ¡Sí!
+
+La gente de la fila los mira. Una señora con un bebé en brazos se corre medio paso para atrás.
+
+Vegeta no se mueve. Sigue con los brazos cruzados, la gorra puesta y la camiseta rosada, y te mira de arriba abajo, con los ojos entrecerrados. Le sigue la cara roja.
+
+—Una habilidad nueva. —Lo dice despacio—. Para mi hijo.
+
+Se queda callado un momento. Mira a Trunks, que salta en el lugar. Mira a Goten. Te mira a ti, a Kase, otra vez a ti.
+
+—Hmph. —Descruza los brazos, y vuelve a cruzarlos—. Mientras no sea una de esas cosas raras tuyas que nadie más puede hacer. Si se la enseñas, que sea algo que un saiyajin pueda hacer con su propio poder.
+
+Hace una pausa y aprieta la mandíbula.
+
+—Y cuando la aprenda, la va a perfeccionar conmigo. En la cámara de gravedad. No con Kakaroto.
+
+—¡Papá! —Trunks le tira de la camiseta—. ¡¿Puedo aprenderla ahora?! ¡Ahora, ahora!
+
+—No. —Vegeta señala la montaña rusa con la cabeza, sin mirarla—. Te prometí la montaña rusa. Un príncipe cumple lo que promete. Primero la montaña rusa.
+
+La fila avanza un paso. Vegeta avanza un paso, muy digno, con los brazos cruzados.
+
+Trunks mira la montaña rusa, después a ti, después a la montaña rusa, debatiéndose. Al final te mira a ti, con los ojos brillantes.
+
+—Bueno, ¡pero dime qué es! ¡Dime al menos qué técnica es! ¿Es fuerte? ¿Es un ataque? ¿Es más fuerte que la de Goten?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1627 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Parque de diversiones · sábado, tarde        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Vegeta acepta la técnica para Trunks (con condiciones), después de la montaña rusa. Trunks: "¡Dime qué técnica es! ¿Es más fuerte que la de Goten?" Facundo puede contestar.

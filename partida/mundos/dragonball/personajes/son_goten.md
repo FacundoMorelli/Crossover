@@ -47,3 +47,4 @@ ESTADO: bien.
 - T1624 · Triste porque Facundo no puede enseñarle el punto negro: "¡Yo aprendo rápido! ¡Aprendí a volar en un día! ¡Bueno, en dos! ¡Y la fusión con Trunks en una semana!" "¿Ni tú, papá? ¿Ni el señor Bills?" "¡Entonces enséñame otra cosa! ¡Una cosa que sí se pueda! ¡Trunks no va a tener nada de eso! ¡Así le gano!"
 - T1625 · Por Facundo: la próxima técnica también será para Trunks. "¡Pero entonces no le gano!" Después: "Si lo hacemos juntos... ¡Y nos fusionamos! ¡Gotenks lo puede hacer el doble de fuerte!" "¡Está bien! ¡A los dos!" "¿Lo esperamos? ¿O vamos al parque a buscarlo? ¡El parque tiene una montaña rusa enorme! ¡Y algodón de azúcar!"
 - T1626 · "¡SÍ!" Vuela al parque con Facundo (toalla de capa, piruetas). Ve a Vegeta con la camiseta BAD MAN y se muere de risa.
+- T1627 · "¡Facundo dijo que a los dos! ¡Para que hagamos Gotenks!"

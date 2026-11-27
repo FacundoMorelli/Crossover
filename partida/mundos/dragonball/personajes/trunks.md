@@ -17,3 +17,4 @@ ESTADO: activo
 - T1615 · Se ríe por lo bajo de Facundo mientras se va al parque con Vegeta.
 - T1625 · (según Goku, por Bulma) estuvo una semana enojado por la Bola Giratoria de Goten; rompió la cámara de gravedad. Hoy en el parque con Vegeta.
 - T1626 · En la fila de la montaña rusa con un algodón de azúcar rosa más grande que su cabeza; se le cae al ver a Goten: "¡¿Goten?! ¡¿Qué haces acá?!"
+- T1627 · Por Facundo, le va a enseñar una técnica: "¿A mí? ¿A mí también? ¡¿En serio?!" A Goten: "¡Ja! ¡Ahora no eres el único!" "¡Gotenks! ¡Sí!" "¡Dime al menos qué técnica es! ¿Es fuerte? ¿Es un ataque? ¿Es más fuerte que la de Goten?"
