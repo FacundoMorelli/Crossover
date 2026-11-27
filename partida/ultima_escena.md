@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1685)
-
-soy una persona, tranquilo, levanto las manos
-
-## RESPUESTA 1 (T1685)
-
-> soy una persona, tranquilo, levanto las manos
-
-> —Soy una persona, tranquilo.
-
-Levantas las manos.
-
-El joven no baja el revólver. Te mira la cara con los ojos muy abiertos, buscando botones, costuras, la sonrisa. Encuentra un ojo rojo y un ojo azul, y se le traba la respiración.
-
-—Los ojos, Sato —dice, sin dejar de apuntarte—. Mira los ojos. Eso no es normal.
-
-—Los muñecos no levantan las manos, idiota. —El de la katana es mayor, de unos cuarenta, con una cicatriz vieja en el mentón y el pelo canoso cortado al ras. Se acerca por el costado, sin apuro, con la hoja baja pero lista. Te mira de arriba abajo: la camisa blanca empapada, los tatuajes que asoman por el cuello, los aros, el gato erizado en tu hombro—. Y no hablan. Bueno, hablan, pero con la voz de la vieja. Este habla con la suya.
-
-Se detiene a dos metros. Mira por encima de tu hombro, hacia el callejón. Los tres cuerpos sentados contra la pared, bajo el alero, con el maletín acomodado sobre las rodillas del oficinista, como si alguien los hubiera puesto ahí a esperar el colectivo.
-
-Frunce el ceño.
-
-—¿Y eso? —Señala con la punta de la katana, sin quitarte los ojos de encima—. Esos tres son muñecos. Les vi la cara desde acá. Y están quietos. Los muñecos no se quedan quietos. Nunca. Hay que cortarlos en pedazos para que se queden quietos. —Te mira otra vez—. Y esos están enteros.
-
-Detrás de él, en el medio de la avenida, los muñecos siguen caminando hacia Mitsukoshi. Dos se detienen. Giran la cabeza hacia ustedes, al mismo tiempo. Sonríen.
-
-El agente mayor los ve con el rabillo del ojo. Aprieta la empuñadura.
-
-—Tienes cinco segundos, muchacho. —La voz es seca, tranquila, cansada—. ¿Qué les hiciste? ¿Y quién mierda eres?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1685 · CHAINSAW MAN · DÍA 1 · 19:34    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.842 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1686)
+## COMANDO 1 (T1686)
 
 soy un viajero, solo los desmayé
 
-## RESPUESTA 2 (T1686)
+## RESPUESTA 1 (T1686)
 
 > soy un viajero, solo los desmayé
 
@@ -101,11 +54,11 @@ Sato da un paso adelante, se pone entre ellos y tú, levanta la katana corta con
 
 ---
 
-## COMANDO 3 (T1687)
+## COMANDO 2 (T1687)
 
 los desmayo a todos sin lastimarlos
 
-## RESPUESTA 3 (T1687)
+## RESPUESTA 2 (T1687)
 
 > los desmayo a todos sin lastimarlos
 
@@ -158,4 +111,75 @@ Corta. Guarda la radio. Te mira de arriba abajo, otra vez, como si fuera la prim
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:36, avenida frente a Mitsukoshi. 46 muñecos de la avenida desmayados y acomodados sin daño (+46 Frag). Sato y el agente joven vieron un borrón (velocidad sobrehumana). Sato llamó por radio a Central: pidió a alguien de la División 4 y que le digan a Makima "que tengo algo que va a querer ver". A Facundo: "Puedes bajar las manos, viajero. Y no te muevas de ahí. Por favor." Chainsaw Man sigue arriba en Mitsukoshi.
+## COMANDO 3 (T1688)
+
+bajo las manos y espero, acariciando a kase
+
+## RESPUESTA 3 (T1688)
+
+> bajo las manos y espero, acariciando a kase
+
+Bajas las manos.
+
+Kase tarda en aflojarse. Le pasas los dedos por el lomo, despacio, a favor del pelo, de la nuca a la cola, una vez, otra, y el pelo se le va acostando de a poco. Al final suelta las uñas de tu camisa, se sienta derecho en tu hombro y se lame una pata con mucha dignidad, como si nada de esto hubiera pasado.
+
+Esperan.
+
+Sato no se mueve de su lugar, a tres metros, con la mano cerca de la empuñadura de la katana. No la toca. Pero tampoco la aleja. El chico junta el revólver del piso, lo mira, lo guarda en la funda y se sienta en el estribo de la camioneta con la cabeza entre las manos. Cada tanto levanta la vista hacia la avenida dormida y la vuelve a bajar.
+
+La lluvia afloja. Pasa a ser una garúa finita que brilla debajo de los faroles.
+
+Arriba, en Mitsukoshi, el rugido de la motosierra sube una última vez, larguísimo, como un grito. Algo grande se rompe en un piso alto: una vidriera entera estalla hacia afuera y cae en una lluvia de vidrios sobre la vereda de enfrente. Después, el motor se apaga. Silencio. Una alarma de incendio empieza a sonar adentro del edificio, chillona, y nadie la apaga.
+
+Pasan siete minutos.
+
+Un auto negro dobla la esquina. No tiene sirena. No tiene escudo. Es un sedán largo, de vidrios oscuros, que avanza despacio por el medio de la avenida, esquivando con cuidado a los dormidos de la calzada, y frena a diez metros de ustedes.
+
+Se abre la puerta del conductor. Baja un hombre de traje que abre un paraguas negro y rodea el auto. Abre la puerta de atrás. Sostiene el paraguas en alto.
+
+Baja una mujer.
+
+Es joven, o lo parece. Camisa blanca impecable, corbata negra, pantalón de vestir, zapatos que no se mojan. Pelo rojizo, recogido en una trenza larga que le cae sobre el hombro. Camina hacia ti sin apuro, bajo el paraguas, mirando a los dormidos de la avenida uno por uno, con una curiosidad tranquila, como quien mira cuadros en un museo. Se detiene un segundo frente a los dos ancianos de la mano, en el banco de la parada. Sonríe apenas.
+
+Sato se endereza. El chico se pone de pie de un salto.
+
+—Señorita Makima.
+
+Ella no les contesta. Llega hasta ti. Se detiene a dos pasos. Levanta la vista.
+
+Tiene los ojos amarillos. No dorados: amarillos, de un amarillo pálido, con anillos concéntricos alrededor de la pupila, como los que hace una piedra en el agua. Te mira la cara. El ojo rojo, el ojo azul, la cicatriz. Baja a Kase. Kase deja de lamerse la pata y la mira de vuelta, inmóvil, sin parpadear, con las pupilas como dos agujas.
+
+Makima sonríe. Una sonrisa suave, amable, perfecta.
+
+—Buenas noches. —La voz es baja y tranquila, y se oye perfectamente por encima de la alarma—. Usted debe ser el viajero.
+
+```
+╔══════════════════════════════════════════════╗
+║ MAKIMA                                       ║
+║ Seguridad Pública · Jefa de la División 4    ║
+║ PODER: sin datos                             ║
+║ AMENAZA: sin datos                           ║
+║ Diferencia estimada: sin datos               ║
+║ Se contiene. Lo que muestra no es lo que es. ║
+║ COPIABLE: sin datos                          ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1688 · CHAINSAW MAN · DÍA 1 · 19:45    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Makima         ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:45, avenida frente a Mitsukoshi. Arriba, la motosierra rugió una última vez, una vidriera estalló y el motor se apagó; suena una alarma de incendio. Llegó MAKIMA en un sedán negro (chofer con paraguas). Miró a los dormidos con curiosidad. Frente a Facundo: "Buenas noches. Usted debe ser el viajero." Tasación: sin datos (se contiene). Kase la mira inmóvil. Sato y el agente joven firmes.
