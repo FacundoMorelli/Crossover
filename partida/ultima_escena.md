@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1530)
-
-goku va a poder devolverla
-
-## RESPUESTA 1 (T1530)
-
-> goku va a poder devolverla
-
-> —Goku va a poder devolverla.
-
-Whis levanta una ceja. Te mira con mucha atención. Después sonríe, despacio.
-
-—¿Usted cree? —Vuelve a mirar el cielo—. Bueno. Veamos.
-
-Arriba, Bills baja el dedo.
-
-La esfera cae.
-
-Despacio al principio, como cae el sol al atardecer, enorme, roja, tapando medio cielo. El mar debajo empieza a hervir. El viento cambia de dirección de golpe y arrastra las servilletas, los globos, los manteles hacia el centro de la cubierta. Las olas se levantan alrededor del crucero, altas, y el barco cabecea como un juguete.
-
-Goku extiende los brazos.
-
-La esfera le llega. Lo toca. Lo envuelve entero, una figura roja chiquita contra una pared de fuego del tamaño de una ciudad.
-
-Y se detiene.
-
-En el cielo, la esfera tiembla. Cruje. Se queda colgada a mitad de camino, encima del mar, sin bajar más. Desde la cubierta se ve, en el centro, un punto rojo más oscuro que todo lo demás, empujando. Las llamas tranquilas del Super Saiyajin Dios contra el fuego de un dios de verdad.
-
-Pasa un segundo. Dos. Diez.
-
-La esfera empieza a achicarse.
-
-No explota. Se encoge. Se va hundiendo en sí misma, alrededor del punto rojo, como agua que se va por un desagüe, más chica, más chica, hasta que ya no es una ciudad, es una montaña, es una casa, es una pelota, es una chispa en las manos de Goku. Y después nada.
-
-El cielo vuelve a ser azul. El mar deja de hervir. Las olas se calman.
-
-En la cubierta, nadie dice nada. Bulma tiene los binoculares en el suelo. Vegeta tiene la boca abierta.
-
-Arriba, a Goku se le apaga el pelo rojo. Le vuelve a ser negro. Pero no cae. Se queda flotando, tranquilo, sin aura, sin transformación, mirándose las manos con cara de no entender. Bills flota delante de él, con las manos detrás de la espalda.
-
-Se quedan así un rato, mirándose.
-
-Después bajan los dos, despacio, y aterrizan en la cubierta, junto a la piscina. Goku tiene la ropa quemada, el traje hecho jirones, la corbata desaparecida. Sonríe de oreja a oreja. Bills tiene un raspón en la mejilla. Un raspón chiquito. Se lo toca con el dedo, lo mira y parece encantado.
-
-—Bueno. —Bosteza. Un bostezo enorme, de gato, que le muestra todos los dientes—. Estuvo bien. Muy bien. —Se frota un ojo—. Me dio sueño.
-
-—¿Entonces, Bills-sama? —pregunta Whis, sin levantarse de la reposera—. ¿La Tierra?
-
-Bills mira alrededor. A la gente. A la mesa de los postres, ya vacía. A Goku. A Kase, en la baranda, que lo mira como siempre, sin ningún respeto.
-
-—La Tierra se queda. —Se encoge de hombros—. Tiene buena comida. Y un saiyajin divertido. Y ese gato.
-
-Después te mira a ti. Se le cierran un poco los ojos de sueño.
-
-—Y tú. —Te señala con un dedo, perezoso—. El del bolsillo. Antes de irme, quiero más pudín.
-
-Whis carraspea, muy bajito, y se aprieta la túnica contra el estómago.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1530 · DRAGON BALL · SÁBADO · 13:35    ║
-║ Crucero de Bulma · junto a la piscina        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.247 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: La Tierra se salva · Bills quiere  ║
-║ más pudín                                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1531)
+## COMANDO 1 (T1531)
 
 saco 2 cajas de pudin, esto es para su viaje bills sama
 
-## RESPUESTA 2 (T1531)
+## RESPUESTA 1 (T1531)
 
 > saco 2 cajas de pudin, esto es para su viaje bills sama
 
@@ -154,11 +79,11 @@ Bulma es la que habla. Cruza los brazos sobre el vestido rojo y te mira con los 
 
 ---
 
-## COMANDO 3 (T1532)
+## COMANDO 2 (T1532)
 
 por que me miran todos? soy un viajero nada mas
 
-## RESPUESTA 3 (T1532)
+## RESPUESTA 2 (T1532)
 
 > por que me miran todos? soy un viajero nada mas
 
@@ -219,4 +144,56 @@ Y sigue de largo.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:45, crucero. "Soy un viajero." Bulma deja los secretos por hoy; sigue la fiesta. Vegeta: mañana 6:00 en su cámara de gravedad. Facundo puede actuar.
+## COMANDO 3 (T1533)
+
+disfruto la fiesta
+
+## RESPUESTA 3 (T1533)
+
+> disfruto la fiesta
+
+Disfrutas la fiesta.
+
+La tarde se estira como se estiran las tardes buenas. Prenden las velas de la torta de cinco pisos y Bulma las sopla de una sola vez, con todos cantando desafinados, Goku el más fuerte de todos. Le dejan a Buu la primera porción, por las dudas. Mr. Satán da un discurso de veinte minutos sobre cómo él, personalmente, convenció al gato violeta de no destruir el mundo, y la mitad de la cubierta lo aplaude para que termine.
+
+Comes. Mucho. Milk te va llenando el plato cada vez que lo dejas en la mesa, sin preguntar. Krilin te cuenta, con Marron dormida en los brazos, que es policía y que una vez detuvo a un ladrón de bancos con una sola mano, y la 18 levanta una ceja y dice que fueron las dos. Ten Shin Han te pregunta, muy serio, si eres del tipo de persona que se esconde para entrenar o para no pelear, y Chaos te regala un caramelo. El maestro Roshi te pregunta si tienes hermanas. Oolong te pregunta lo mismo.
+
+En algún momento Bulma saca a bailar a Vegeta a la fuerza, delante de todos, y Vegeta baila con la cara roja y los ojos clavados en el piso, como un condenado. Bulma se ríe tanto que se le cae un zapato.
+
+Goten y Trunks se pasan la tarde peleando arriba del agua, a puro grito, Trunks intentando hacer la Bola Giratoria sin que nadie le haya enseñado y explotándosela en la cara una y otra vez. Goten se ríe tanto que se cae al mar. Gohan lo pesca de la camisa.
+
+Gohan no se despega de Videl. Le trae agua, le acomoda la silla, le pregunta si quiere sentarse cuando ya está sentada. Videl le pega en el brazo. Después le agarra la mano y no se la suelta en toda la tarde.
+
+Goku se queda dormido en una reposera a eso de las cinco, con la boca abierta, todavía con el traje quemado, y lo dejan ahí.
+
+Kase pasa la tarde en la baranda, después en una silla, después en tu regazo, cuando te sientas a mirar el mar. Se duerme ahí, hecho una bola, ronroneando bajito, sin que nadie se atreva a molestarlo. Ni siquiera Goten.
+
+El sol empieza a bajar sobre el agua. El mar se pone naranja, después rosa. El crucero da la vuelta, despacio, y empieza a volver hacia la costa, donde las luces de la Ciudad del Oeste se van prendiendo una por una.
+
+Alguien se sienta en la silla de al lado.
+
+Es Videl. Con un vaso de jugo en la mano y la otra apoyada en la panza, sin esconderla ya. Mira el atardecer un rato, en silencio. Mira a Kase dormido en tu regazo.
+
+—Te dije que después del cumpleaños te iba a pedir la revancha —dice, sin mirarte—. Y que esta vez no te ibas a reír.
+
+Se toca la panza. Sonríe con media boca, igual que su padre.
+
+—Creo que la revancha va a tener que esperar un poco. —Te mira de reojo—. Pero no te salvas, eh. Ni tú, ni tu gato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1533 · DRAGON BALL · SÁBADO · 18:40    ║
+║ Crucero de Bulma · cubierta, atardecer       ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en tu regazo                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Mañana 6:00 entrenar con Vegeta    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 18:40, crucero volviendo a la costa. Kase dormido en su regazo. Videl: la revancha deberá esperar por el embarazo, "pero no te salvas". Mañana 6:00, Vegeta. Facundo puede responder.

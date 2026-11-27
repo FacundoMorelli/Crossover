@@ -19,3 +19,4 @@ DIÁLOGOS CLAVE:
 - T260: "Jo, jo, jo... el muchacho del gato." / "Dime, muchacho, ¿eres fuerte de verdad, o eres como Mr. Satán?"
 QUÉ SABE DE FACUNDO: lo vio en la tele (público): ring con Buu, 'discípulo de Mr. Satán'.
 ESTADO: bien.
+- T1533 · Le pregunta a Facundo si tiene hermanas.

@@ -19,3 +19,4 @@ ESTADO: activa
 - T1526 · Le vacía una jarra de agua helada en la cara a Goku para despertarlo. A Vegeta: "¡Sí lo tienes [el corazón puro]! ¡Más o menos!"
 - T1531 · Tras la partida de Bills y Whis, brazos cruzados: "Bueno. Ahora sí. ¿Quién eres tú?"
 - T1532 · "Un viajero. Está bien, viajero. Guárdate tus secretos. Ya tengo demasiados con este. Salvaste mi fiesta, mi planeta y mi torta. Con eso me alcanza. Por hoy." Reanuda la fiesta: "¡Y alguien prenda las velas antes de que aparezca otro dios!"
+- T1533 · Sopla las velas de una vez. Saca a bailar a Vegeta a la fuerza; se ríe tanto que se le cae un zapato.

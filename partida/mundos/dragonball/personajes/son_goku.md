@@ -85,3 +85,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1529 · SSJ Dios, se para en el aire entre la esfera gigante de Bills y la Tierra.
 - T1530 · Frena la esfera gigante de Bills y la absorbe hasta hacerla desaparecer. Pierde el pelo rojo pero sigue flotando, sin aura (absorbió el poder divino, canon). Ropa quemada, sonrisa enorme.
 - T1531 · Cuando todos miran a Facundo, mira para otro lado y silba.
+- T1533 · Se duerme en una reposera a las cinco con el traje quemado.

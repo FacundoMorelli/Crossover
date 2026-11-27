@@ -39,3 +39,4 @@ ESTADO: bien.
 - T1514 · Muestra a Trunks la Bola Giratoria (tamaño naranja) en la baranda y la tira al mar: tromba de 30 m (no moja a nadie: Facundo la cubrió, T1515). "¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!"
 - T1516 · "Es que es verdad. Tu papá te enseña cosas todo el tiempo." "Ahora yo tengo una y tú no."
 - T1532 · "Que me enseñó la Bola Giratoria." (orgulloso)
+- T1533 · Se ríe tanto de Trunks que se cae al mar; Gohan lo pesca.

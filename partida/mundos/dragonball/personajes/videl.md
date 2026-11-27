@@ -25,3 +25,4 @@ DIÁLOGOS CLAVE:
 - T185: "Hablen acá. Yo me quedo."
 - T1511 · Cena en el Monte Paoz: mira a Facundo de arriba abajo, sonrisa de media boca como su padre. Casi no come (Milk sospecha). En la puerta: después del cumpleaños de Bulma le va a pedir la revancha, "y esta vez no te vas a reír". (Canon: embarazada de Pan, todavía sin anunciar.)
 - T1527 · Shenlong revela que lleva un saiyajin en el vientre. "Yo... Iba a decirlo hoy. En la torta." Participa del ritual de la mano de Gohan. ESTADO: embarazada (Pan), revelado ante todos.
+- T1533 · No esconde ya la panza. Al atardecer, junto a Facundo: "Te dije que después del cumpleaños te iba a pedir la revancha... Creo que la revancha va a tener que esperar un poco. Pero no te salvas, eh. Ni tú, ni tu gato."

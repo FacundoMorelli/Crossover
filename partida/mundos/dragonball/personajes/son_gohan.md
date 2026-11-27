@@ -31,3 +31,4 @@ DIÁLOGOS CLAVE:
 - T1525 · Deja a Goku desmayado en una reposera.
 - T1527 · Se entera del embarazo de Videl: blanco, rojo, blanco; se le caen los anteojos. "¿Vi... Videl? ¿Tú...? ¿Nosotros...?" Toma parte del ritual.
 - T1529 · SSJ2 de golpe, puños apretados, ante la esfera.
+- T1533 · No se despega de Videl.

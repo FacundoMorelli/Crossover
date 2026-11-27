@@ -103,3 +103,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1527 · Protesta pero participa del ritual, tomado de la mano de Trunks, con la cara roja de vergüenza. No siente el ki de Goku SSJ Dios.
 - T1529 · "¡Va a tirarla! ¡Ese loco va a tirarla contra la Tierra!"
 - T1532 · Al pasar, en voz baja: "Mañana. A las seis. En mi cámara de gravedad. Viajero."
+- T1533 · Baila con Bulma, rojo, mirando el piso.

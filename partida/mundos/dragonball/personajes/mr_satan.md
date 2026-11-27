@@ -47,3 +47,4 @@ ESTADO: amigo de Buu; promete darle dulces todos los días. Se llevará la fama.
 - T1527 · "¡VIDEL!" Corre hacia su hija, tropieza y se desmaya. Buu lo abanica con un plato.
 - T1529 · Se despierta, ve la esfera en el cielo y se vuelve a desmayar.
 - T1532 · Grita que fue él quien asustó al "gato violeta".
+- T1533 · Discurso de 20 minutos: él convenció al gato violeta.
