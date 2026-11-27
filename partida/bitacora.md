@@ -1672,3 +1672,4 @@ T1670 · DRAGON BALL · casa de Erasa · Acaricia a Kase; manos juntas sobre el 
 T1671 · DRAGON BALL · casa de Erasa · "En el lugar de las islas son todos así, con velas." Final de la película; Erasa solloza fuerte; cruje el piso de arriba. "Tápame la boca."
 T1672 · DRAGON BALL · casa de Erasa · La besa para callar el llanto: "¿Así está bien?" "Eso es trampa. Pero funcionó." "Es la primera vez que no me importa cómo termina." "Te tienes que ir." No lo suelta.
 T1673 · DRAGON BALL · casa de Erasa · "Me tendría que ir." Erasa: "Tendría no es tengo." "Cinco minutos más." Se está quedando dormida en su hombro.
+T1674 · DRAGON BALL · casa de Erasa · Se duermen juntos en el sillón. Miércoles 06:10: la mamá los tapó; le ofrece café a Facundo: "Shhh. Que si se despierta, se muere de vergüenza."

@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1671)
-
-si, el lugar de las islas son todos asi con velas
-
-## RESPUESTA 1 (T1671)
-
-> si, el lugar de las islas son todos asi con velas
-
-> —Sí. En el lugar de las islas son todos así, con velas.
-
-Erasa se queda mirándote, con la luz azul de la tormenta moviéndose en la cara.
-
-—Todos —repite, despacio, como si le hubieras dicho que existen los dragones—. Todos los barcos. Con velas. De madera.
-
-Vuelve a mirar la pantalla. Una ola barre la cubierta del velero y el capitán se agarra del timón con los dientes apretados. Pero ella ya no está mirando la película. Se le nota en los ojos, que van a otro lado, más lejos que el televisor.
-
-—Entonces tú estuviste ahí. En un barco así. Con el mar así. —Te aprieta los dedos—. Y no te dio miedo. Seguro que no te dio miedo. A ti nada te da miedo.
-
-Se queda callada un rato largo. En la pantalla, la tormenta pasa. El velero sale de las nubes, roto, con una vela hecha jirones y el mástil partido, pero flotando. El capitán, solo en la cubierta, mira el horizonte. Erasa suspira.
-
-—Yo me mareo en el ascensor —dice, bajito, y se ríe sin ganas—. Ya escuchaste a mi mamá.
-
-Apoya otra vez la cabeza en tu hombro. Kase, entre los dos, se da vuelta panza arriba, con las cuatro patas encogidas, sin abrir los ojos.
-
-La película avanza hacia el final. El velero llega a puerto meses después, irreconocible, con las velas remendadas. La chica del pañuelo ya no está en el muelle. El capitán la busca por todo el pueblo, corriendo, preguntando, con las cartas que nunca mandó en un paquete atado con hilo. La música baja hasta quedar en un solo violín.
-
-Erasa se tensa entera contra tu costado. Se le corta la respiración. Ya sabe lo que viene.
-
-En la pantalla, el capitán dobla una esquina y la ve: está en la puerta de una casita blanca, de espaldas, colgando ropa. Él deja caer las cartas. Ella se da vuelta.
-
-A Erasa se le escapa un sollozo enorme, de golpe, que le sale del pecho y que no llega a ahogar con la manta. Suena en toda la sala. Otro más, peor, con hipo.
-
-Arriba, en el segundo piso, cruje el piso de madera. Un paso. Se detiene.
-
-Erasa se tapa la cara con las dos manos, temblando de llanto y de risa al mismo tiempo, y te mira entre los dedos con los ojos rojos y desesperados.
-
-—La boca —te dice, sin voz, moviendo los labios—. Te dije. Tápame la boca.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1671 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sillón de la sala · 22:48     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sobre tus rodillas y las de Erasa      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Película con Erasa                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1672)
+## COMANDO 1 (T1672)
 
 le doy un beso, asi esta bien?
 
-## RESPUESTA 2 (T1672)
+## RESPUESTA 1 (T1672)
 
 > le doy un beso, asi esta bien?
 
@@ -115,11 +61,11 @@ No te suelta.
 
 ---
 
-## COMANDO 3 (T1673)
+## COMANDO 2 (T1673)
 
 si me tendría que ir
 
-## RESPUESTA 3 (T1673)
+## RESPUESTA 2 (T1673)
 
 > si me tendría que ir
 
@@ -165,4 +111,58 @@ Su mano, entre las tuyas, se va aflojando de a poco.
 
 ---
 
-ESTADO AL CIERRE: martes 22:58, sillón de la sala, pantalla azul tras los créditos, lámpara de flecos. "Sí, me tendría que ir." Erasa: "Tendría no es lo mismo que tengo." Pide "cinco minutos más". Bosteza ("a esta hora yo nunca me duermo"); se le afloja la mano: se está quedando dormida en el hombro de Facundo. Kase en el medio, con una pata sobre el brazo de Erasa.
+## COMANDO 3 (T1674)
+
+espero a que se duerma y me duermo con ella
+
+## RESPUESTA 3 (T1674)
+
+> espero a que se duerma y me duermo con ella
+
+No te mueves.
+
+Erasa tarda menos de los cinco minutos que prometió. Primero se le afloja la mano del todo, entre las tuyas. Después la respiración se le hace larga, lenta, con un silbidito apenas en la nariz. Un rulo se le cae sobre la cara y se mueve con cada respiración. Murmura algo dormida, algo sobre un velero, o sobre un gato, y se acomoda mejor contra tu hombro, con la mejilla en tu camisa.
+
+Kase, entre los dos, ronronea más bajo, hasta que deja de ronronear.
+
+La lámpara de flecos sigue prendida. La pantalla azul zumba. El reloj de la cocina hace tic tac.
+
+Cierras los ojos.
+
+Te despierta un ruido.
+
+Es mínimo: una taza que se apoya en un plato, en la cocina, con muchísimo cuidado. Afuera ya hay luz, una luz gris y celeste de muy temprano, que entra por las rendijas de la cortina. La lámpara de flecos está apagada. El televisor también. Alguien los apagó.
+
+Erasa sigue dormida. Se fue resbalando durante la noche, y ahora tiene la cabeza en tu pecho, la boca un poco abierta, el pelo hecho un nido rubio y una marca roja de un botón de tu camisa en la mejilla. Tiene un brazo atravesado sobre ti. La manta a cuadros los tapa a los dos hasta los hombros. Encima de la manta hay otra manta, una de lana gruesa, color crema, que anoche no estaba.
+
+Kase está sentado en el apoyabrazos del sillón, despierto, muy derecho, con la cola enroscada en las patas, mirando hacia la cocina.
+
+En el marco de la puerta de la cocina, la madre de Erasa te mira.
+
+Ya está vestida para salir: una blusa, un pantalón de vestir, un bolso al hombro, los rulos todavía húmedos. Tiene una taza de café en cada mano. El reloj de la cocina, detrás de ella, marca las seis y diez.
+
+No dice nada. Te mira a ti. Mira a su hija, dormida encima de tu pecho con la boca abierta. Te mira a ti otra vez.
+
+Levanta una de las dos tazas un poco, hacia ti. Una pregunta sin palabras.
+
+Después se lleva un dedo a los labios, con la otra mano, sin derramar ni una gota.
+
+—Shhh —dice, apenas un soplido—. Que si se despierta, se muere de vergüenza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1674 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sala · miércoles · 06:10      ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en el apoyabrazos del sillón           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: miércoles 06:10, sala de la casa de Erasa. Facundo y Erasa se durmieron en el sillón (vestidos, bajo la manta). Durante la noche la mamá apagó la lámpara y el televisor y les puso encima una manta de lana crema. Erasa duerme con la cabeza en el pecho de Facundo (marca de botón en la mejilla). Kase despierto en el apoyabrazos. La mamá, vestida para salir, con dos tazas de café, le ofrece una a Facundo sin palabras: "Shhh. Que si se despierta, se muere de vergüenza."
