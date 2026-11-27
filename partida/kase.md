@@ -169,3 +169,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1628 · Ve la montaña rusa y le clava las uñas a Facundo en el hombro, despacio, una por una (no quiere subir).
 - T1629 · "Kase, no quieres, ¿no?": parpadeo lento, desclava las uñas, se va a un banco de madera a la sombra y mira la montaña rusa con profundo desprecio.
 - T1633 · Sigue a Facundo al campo detrás del parque y se sienta en una piedra a mirar.
+- T1635 · Se sienta en la silla al lado de la de Facundo en la mesa, muy derecho, como un invitado. Erasa le trajo un ratón de juguete.

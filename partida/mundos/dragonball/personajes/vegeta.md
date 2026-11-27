@@ -181,3 +181,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1632 · "No como esas cosas. Son para niños." Después le saca el algodón de azúcar a Facundo sin mirarlo y se lo come de espaldas, sin devolverlo. Mira por encima del hombro cuando los chicos piden la técnica.
 - T1633 · Sigue a Facundo al campo detrás del parque. Ve la técnica de esferas gemelas: "Ki puro. Dos giros opuestos. Uno empuja y el otro tira. Cuando se encuentran, se multiplican. Hmph. Eso lo puede hacer un saiyajin." (cumple su condición). Mira a Trunks sin sacarle los ojos.
 - T1634 · "Remolino Gemelo. Bien. Ahora tiene nombre. Ahora hay que aprender a hacerlo de verdad, no a medias." "Mañana a las seis. Cámara de gravedad. Los dos. Tú también. Si Kakaroto te deja." A Facundo: "Y tú tienes una cena. Bulma me va a matar si te devuelvo tarde y negro de hollín como estos dos."
+- T1635 · Arranca dos veces su foto de la heladera; Bulma la vuelve a pegar.
