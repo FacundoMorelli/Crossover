@@ -175,3 +175,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1626 · En la fila de la montaña rusa con Trunks, con gorra y camiseta rosada "BAD MAN". Ve llegar a Facundo, Kase y Goten (que se ríe de su camiseta); rojo de la frente al cuello: "Tú. ¿Qué demonios haces aquí?"
 - T1627 · Por Facundo (técnica para Trunks y Goten): "Una habilidad nueva. Para mi hijo." "Mientras no sea una de esas cosas raras tuyas que nadie más puede hacer. Si se la enseñas, que sea algo que un saiyajin pueda hacer con su propio poder." "Y cuando la aprenda, la va a perfeccionar conmigo. En la cámara de gravedad. No con Kakaroto." "Te prometí la montaña rusa. Un príncipe cumple lo que promete. Primero la montaña rusa."
 - T1628 · "Ya van a ver" (sin mirar a nadie, media sonrisa); aprueba con la mirada que Facundo guarde el secreto de la técnica.
+- T1629 · "El gato es el único con sentido común acá." "Es un comentario." Sube al primer carrito con Trunks, gorra calada.

@@ -49,3 +49,4 @@ ESTADO: bien.
 - T1626 · "¡SÍ!" Vuela al parque con Facundo (toalla de capa, piruetas). Ve a Vegeta con la camiseta BAD MAN y se muere de risa.
 - T1627 · "¡Facundo dijo que a los dos! ¡Para que hagamos Gotenks!"
 - T1628 · "¡Es igual que su papá!" "¡Facundo! ¡Sube con nosotros! ¡Hay lugar para cuatro en cada carrito! ¡Y Kase también! ¡Kase, ¿quieres subir?!"
+- T1629 · Pasa la altura justo, en puntas de pie. De la mano de Facundo: "¿Y tú? ¿Subes? Kase te espera en el banco."
