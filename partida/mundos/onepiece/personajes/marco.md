@@ -19,3 +19,4 @@ ESTADO: activo
 - T911 · "La Marina puede seguirnos hasta el fin del mundo, que no va a tocar ni una tabla, yoi."
 - T1456 · Día ~121 · En la mesa del Moby Dick ve aparecer de la nada a Facundo con un rubio de sombrero de copa detrás de Ace dormido: "¿Eh...?" Los ve desaparecer con Ace.
 - T1462 · Informa a Barbablanca (dio dos vueltas volando al barco buscando a Ace). Ve volver a Ace con Facundo y Sabo; llamas a medio encender.
+- T1463 · Coscorrón a Ace: "La próxima vez avisa antes de que te secuestren, yoi."

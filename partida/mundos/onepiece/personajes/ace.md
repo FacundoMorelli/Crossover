@@ -30,3 +30,4 @@ ESTADO: activo
 - T1458 · Llora en el hombro de Sabo: "Idiota. Te vimos arder." Se ríe con "mi papá es bueno". Se da cuenta de que desapareció del Moby Dick: "Marco me va a matar." A Facundo: "Me sacaste del cadalso. Salvaste al viejo. Salvaste a toda la flota. Y ahora me devuelves a Sabo. ¿Cómo sabías que estaba vivo?"
 - T1459 · "Sé muchas cosas." No insiste: "No me importa cómo. Me importa que lo hiciste." Reverencia con el sombrero al pecho: "Gracias. Por mi hermano." Pide que lo devuelva al Moby Dick antes de que la flota empiece una guerra, y que Sabo vaya con él a conocer a Barbablanca. A Luffy: "No."
 - T1462 · De vuelta en el Moby Dick: "¡Soy yo! ¡Estoy bien! ¡No me secuestró nadie! Bueno... un poco sí. Pero fue para algo bueno."
+- T1463 · Presenta a Sabo a Barbablanca y a toda la tripulación ("Te hablé de él una vez sola, la noche que me uní"). Coscorrón de Marco. No se despega de Sabo en la fiesta.

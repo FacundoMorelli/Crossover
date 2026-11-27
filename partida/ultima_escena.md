@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1460)
-
-jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
-
-## RESPUESTA 1 (T1460)
-
-> jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
-
-> —Jajajaja. Bueno, Luffy, no creo que vuelva a venir hasta que pasen los dos años. Esto fue una ocasión especial.
-
-Luffy infla los cachetes hasta que la cara le queda redonda como un globo.
-
-—¡Eso no es justo! —Se cruza de brazos, y los brazos le dan dos vueltas alrededor del cuerpo—. ¡Ace se va con Sabo, Sabo se va con Ace, tú te vas con Robin, y yo me quedo aquí con el viejo, que me hace pelear con bichos todo el día!
-
-—Y con quien vas a aprender a usar el Haki —dice Rayleigh, sin levantar la voz—. Si es que algún día dejas de quejarte.
-
-Luffy le saca la lengua.
-
-Después se le desinfla la cara de golpe. Se queda mirando a Sabo, a Ace, a ti. Se rasca la cabeza.
-
-—Bueno. Está bien. —Se encoge de hombros—. Dos años. Lo prometí.
-
-Se tira encima de Sabo otra vez, sin aviso, y le rodea el cuello con los brazos estirados, dos, tres vueltas, hasta que Sabo se pone colorado y tiene que darle palmadas en la espalda para respirar.
-
-—¡Sabo! ¡No te mueras otra vez! —le grita en la oreja—. ¡Y no te olvides de mí!
-
-—No me voy a olvidar —dice Sabo, ahogado, riéndose—. Ya no.
-
-Luffy lo suelta. Le da un puñetazo en el hombro a Ace, que se lo devuelve, más fuerte, y Luffy sale volando dos metros por la nieve y se levanta riéndose.
-
-Después corre hasta ti. Se para delante, muy cerca, mirándote desde abajo, porque todavía le sacas una cabeza.
-
-—¡Facundo! —Te mira a los ojos, de repente serio—. ¿Viste a los demás? ¿A Zoro, a Nami, a todos? ¿A Robin? ¿Están bien?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1460 · ONE PIECE · DÍA ~121 · 07:26    ║
-║ Rusukaina · explanada de roca, nieve         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Llevar a Ace y Sabo al Moby Dick   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1461)
+## COMANDO 1 (T1461)
 
 Solo a Robin, pero todos estan bien si
 
-## RESPUESTA 2 (T1461)
+## RESPUESTA 1 (T1461)
 
 > Solo a Robin, pero todos estan bien si
 
@@ -107,11 +57,11 @@ Luffy levanta el puño en el aire, en medio de la nieve.
 
 ---
 
-## COMANDO 3 (T1462)
+## COMANDO 2 (T1462)
 
 llevo a ace y sabo con barbablanca
 
-## RESPUESTA 3 (T1462)
+## RESPUESTA 2 (T1462)
 
 > llevo a ace y sabo con barbablanca
 
@@ -177,4 +127,86 @@ Después mira a Sabo. Lo mira de arriba abajo, despacio.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121, Moby Dick. Facundo devolvió a Ace con Sabo. Barbablanca se ríe y pregunta por Sabo: "¿Y este quién es?" Tripulación armada. Facundo puede actuar.
+## COMANDO 3 (T1463)
+
+miro
+
+## RESPUESTA 3 (T1463)
+
+> miro
+
+Te quedas donde estás, con Kase en el hombro, y miras.
+
+Ace se pone delante de Sabo. Le pasa un brazo por los hombros y lo empuja un paso hacia adelante, hacia la silla enorme, como quien presenta algo de lo que está muy orgulloso.
+
+—Viejo. Este es Sabo. —Respira hondo—. Mi hermano.
+
+La cubierta se queda en silencio.
+
+—Te hablé de él —dice Ace—. Una vez sola. La noche que me uní. El que murió en el mar cuando éramos chicos.
+
+Barbablanca no dice nada. Mira a Sabo. A la cicatriz de quemadura. Al sombrero de copa.
+
+—No murió —sigue Ace, y se le quiebra un poco la voz, pero sigue—. Lo sacó del agua Dragon, el revolucionario. Perdió la memoria. Doce años sin acordarse de nosotros. Y esta mañana... —Te mira de reojo—. Esta mañana se acordó.
+
+Sabo se quita el sombrero de copa y hace una reverencia corta, educada, perfecta, como le enseñaron de chico en una casa de nobles.
+
+—Un gusto, Barbablanca. Gracias por cuidar a mi hermano todo este tiempo.
+
+Barbablanca lo mira desde arriba un rato larguísimo.
+
+Después se le arma una sonrisa enorme bajo los bigotes blancos.
+
+—Gurarararara... ¡Así que el mocoso pecoso tenía otro hermano escondido! —Golpea el apoyabrazos, y la grieta se agranda—. ¿Y bien, muchacho? ¿Quieres ser mi hijo tú también? En este barco siempre hay lugar.
+
+Doscientos piratas contienen el aire.
+
+Sabo sonríe. Se pone el sombrero.
+
+—Se lo agradezco mucho. Pero ya tengo un lugar. —Lo dice tranquilo, sin ofender—. Un hombre de capa verde que me sacó del mar y nunca me pidió nada. Y dos hermanos. Con eso me alcanza.
+
+Hay un silencio cortito.
+
+Y Barbablanca se ríe más fuerte que antes.
+
+—¡Bien dicho! ¡Un hombre que sabe a quién le debe la vida! —Levanta el bisento—. ¡Escuchen, hijos! ¡Ace volvió, y trajo a su hermano de entre los muertos! ¡Bajen esas armas, idiotas! ¡Esta noche hay fiesta!
+
+La cubierta estalla.
+
+Los fusiles bajan. Las espadas vuelven a las vainas. Alguien grita, alguien tira el sombrero al aire, alguien arrastra la mesa de vuelta al centro. Marco suspira, apaga las llamas de los hombros y le da a Ace un coscorrón en la cabeza que suena como un golpe de madera.
+
+—La próxima vez avisa antes de que te secuestren, yoi.
+
+—¡No sabía!
+
+A los otros barcos de la flota les llega la noticia de mástil en mástil, a gritos y con banderas. Los cañones se esconden. Empiezan a subir barriles de sake por todas las escotillas.
+
+Pasa la tarde.
+
+El sol baja sobre el Nuevo Mundo, rojo y enorme. Encienden antorchas por toda la cubierta. Huele a carne asada, a ron y a pólvora de los fuegos artificiales que alguien prueba antes de tiempo. Ace no se despega de Sabo: le presenta a todo el mundo, comandante por comandante, división por división. Izo le acomoda el pañuelo del cuello. Haruta le pregunta mil cosas sobre el Ejército Revolucionario. Jozu le aprieta la mano y casi se la rompe. Sabo se ríe de todo, con la cara roja, y cada tanto mira a Ace como si todavía no terminara de creérselo.
+
+A ti te traen comida sin que la pidas. Mucha. Una pierna de algo del tamaño de tu brazo, una jarra de sake, pescado, arroz. Alguien le deja a Kase un plato con pescado crudo, y Kase lo come despacio, sobre una caja, ignorando a los tres piratas grandotes que se agachan a mirarlo.
+
+Ya de noche, cuando la fiesta está en su punto más alto, se oye un golpe seco en la cubierta. El bisento contra la madera.
+
+Barbablanca, en su silla, tiene en la mano un cuenco de sake del tamaño de un barril chico. Te mira a ti, por encima de las cabezas de todos.
+
+—¡Mocoso! —Su voz se oye por encima de la música—. ¡El del gato! Ven aquí. Bebe con el viejo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1463 · ONE PIECE · DÍA ~121 · NOCHE    ║
+║ Nuevo Mundo · Moby Dick · cubierta (fiesta)  ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sobre una caja, comiendo pescado       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick, fiesta. Sabo presentado y aceptado; declinó ser hijo de Barbablanca. Barbablanca llama a Facundo a beber con él. Facundo puede actuar.
