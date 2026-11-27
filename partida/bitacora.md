@@ -1615,3 +1615,4 @@ T1613 · DRAGON BALL · Planeta de Bills · (Simulación, 4 días) 105 bandejas 
 T1614 · DRAGON BALL · Capital del Oeste · Vuelve con Whis, Bills, Goku y Vegeta a la Corporación Cápsula. Milk regaña a Goku; Trunks reclama el parque. Bulma: "¡Volviste! Y entero." Bills: "No se dejó." Milk: "Te dije que volvieras, y volviste."
 T1615 · DRAGON BALL · Capital del Oeste · "Nada importante." Pregunta si hay alguna chica soltera de su edad. Bulma propone a Erasa; Milk a Angela. Bulma: "¿La invito? Cena casual esta noche."
 T1616 · DRAGON BALL · Capital del Oeste · Acepta. Bulma consigue a Erasa por Videl: cena hoy a las 20:00. Milk cocinará; critica su ropa ("Pareces uno de esos de las motos").
+T1617 · DRAGON BALL · Capital del Oeste · Ropa nueva (2 F): camisa blanca, jean, zapatillas. Milk aprueba. Bulma muestra la foto de Erasa y quiere sacarle una a Facundo para ella.

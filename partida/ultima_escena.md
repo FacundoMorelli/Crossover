@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1614)
-
-voy con ustedes
-
-## RESPUESTA 1 (T1614)
-
-> voy con ustedes
-
-> —Voy con ustedes.
-
-—Qué bien. —Whis junta las manos sobre el báculo, contento—. Bills-sama se va a poner feliz. Aunque no lo va a decir.
-
-No lo dice.
-
-A la mañana siguiente, después de la hamburguesa del día y de la discusión de siempre por la segunda, se juntan todos al pie de la pirámide. Goku, ansioso, mira el cielo como si desde ahí pudiera ver a Milk enojada. Vegeta, de brazos cruzados, finge que no le importa llegar tarde al parque. Bills está en su ropa de siempre, con la bolsa de cien semillas atada a la faja.
-
-—Agárrense de mí —dice Whis.
-
-Goku le pone una mano en la espalda. Vegeta, de mala gana, otra. Bills apoya un dedo en el hombro de Whis, como quien toca algo sucio. Tú le pones la mano en la espalda, y Kase, en tu hombro, apoya una pata en la túnica de Whis sin que nadie se lo pida.
-
-Whis golpea el suelo con el báculo.
-
-La luz los envuelve. Por un momento no hay arriba ni abajo, solo un túnel blanco y rápido, lleno de estrellas que pasan como hilos. Kase te clava apenas las uñas en el hombro. Bills bosteza.
-
-Y se acaba.
-
-Pasto. Sol. Olor a flores, a café, a pasto recién cortado. Una cúpula blanca enorme, conocida, con el logo de la Corporación Cápsula en un costado. El jardín de Bulma, en la Capital del Oeste.
-
-Antes de que nadie diga nada, se abre de golpe la puerta corrediza de la casa.
-
-—¡GOKU!
-
-Milk sale caminando rápido, con el delantal puesto y un cucharón en la mano. Detrás viene Bulma, con una taza de café y cara de estar disfrutando el momento. Y detrás de las dos, corriendo, Trunks, que frena en seco al ver a su papá.
-
-—¡Cinco días! —Milk le apunta con el cucharón a Goku, que se esconde detrás de Whis—. ¡Dijiste un ratito! ¡Un ratito! ¡Goten preguntó por ti todas las noches!
-
-—Perdón, Milk, es que...
-
-—¡Nada de "es que"!
-
-Trunks se cruza de brazos, igual que su papá, y levanta el mentón.
-
-—Papá. Hoy es sábado.
-
-—Ya sé qué día es —gruñe Vegeta—. Vamos.
-
-Bulma se ríe tapándose la boca. Después te ve a ti, con Kase en el hombro, y se le iluminan los ojos.
-
-—¡Facundo! ¡Volviste! —Te mira de arriba abajo—. Y entero. Pensé que el señor Bills te iba a destruir o algo así.
-
-—Lo intenté —dice Bills, muy digno—. No se dejó.
-
-Bulma lo mira. Te mira a ti. Se le cae un poco la taza.
-
-—¿Cómo que no se dejó?
-
-Milk, a mitad de su regaño, se da vuelta también. Te ve. Baja el cucharón despacio.
-
-—Ah. —Se le suaviza la cara de golpe—. Volviste. —Lo dice como quien confirma algo que ya sabía—. Te dije que volvieras, y volviste.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1614 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mañana                                       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.851 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1615)
+## COMANDO 1 (T1615)
 
 miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
 
-## RESPUESTA 2 (T1615)
+## RESPUESTA 1 (T1615)
 
 > miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
 
@@ -163,11 +86,11 @@ Bulma te agarra del brazo, entusiasmada.
 
 ---
 
-## COMANDO 3 (T1616)
+## COMANDO 2 (T1616)
 
 ehh bueno esta bien
 
-## RESPUESTA 3 (T1616)
+## RESPUESTA 2 (T1616)
 
 > ehh bueno esta bien
 
@@ -224,4 +147,64 @@ Desde adentro de la casa, se escucha la voz de Bulma, todavía al teléfono:
 
 ---
 
-ESTADO AL CIERRE: Erasa aceptó la cena hoy a las 20:00. Milk cocinará y critica la ropa de Facundo ("Pareces uno de esos de las motos"). Facundo puede actuar.
+## COMANDO 3 (T1617)
+
+ehh bueno me cambio la ropa
+
+## RESPUESTA 3 (T1617)
+
+> ehh bueno me cambio la ropa
+
+> —Eh... bueno. Me cambio la ropa.
+
+Abres la tienda en el borde de la vista y eliges.
+
+[Compra: ropa casual de la Capital del Oeste (camisa, pantalón, zapatillas) · 2 Fragmentos.]
+
+Guardas el sobretodo, la camisa negra y los borceguíes en el inventario. Lo nuevo aparece puesto, sin que se vea el cambio: un segundo estás de negro y al siguiente ya no.
+
+Ahora tienes una camisa blanca de lino, liviana, con las mangas arremangadas hasta los codos, un pantalón de jean oscuro y unas zapatillas blancas, limpias. Con las mangas así se te ven los dragones de los antebrazos, enroscados hasta las muñecas, y el cuello abierto de la camisa deja asomar la punta del que te sube por el pecho. Los aros plateados siguen ahí. Los anillos también. El pelo, mitad blanco y mitad azul oscuro, suelto, desordenado como siempre.
+
+Kase te mira desde el hombro, mira la camisa blanca y le clava una uña, despacio, como para probar si es de verdad. Deja un hilo suelto.
+
+Milk abre la boca. La cierra. Te da una vuelta alrededor, despacio, con el cucharón detrás de la espalda.
+
+—Bueno —dice al fin—. Mucho mejor. Ya no pareces de las motos.
+
+Se detiene delante de ti y te mira los antebrazos.
+
+—Ahora pareces de las motos, pero de las motos que les gustan a las chicas. —Se le escapa una sonrisa que enseguida trata de esconder—. Eso no es malo. A Erasa le van a encantar. Es medio alocada.
+
+—¡Milk, ya me voy a buscar a Goten! —grita Goku desde el aire, ya volando.
+
+—¡Y que se bañe!
+
+Goku desaparece en el cielo.
+
+La puerta corrediza se abre y sale Bulma, con el celular todavía en la mano y la cara roja de emoción. Se detiene en seco al verte.
+
+—¡Ay! —Se tapa la boca—. ¿Y eso? ¿Te cambiaste? ¿Cómo te cambiaste tan rápido? —Te mira de arriba abajo—. Bueno, no importa. ¡Quedó perfecto!
+
+Se acerca con el teléfono en alto.
+
+—Videl me mandó una foto de Erasa, para que sepas a quién esperar. —Te muestra la pantalla: una chica rubia, de pelo corto con rulos, ojos celestes, sonriendo enorme, haciendo el signo de la paz frente a una heladería—. Y Erasa le pidió a Videl una foto tuya. —Bulma sonríe, peligrosa—. ¿Te saco una? ¿Ahora?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1617 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mañana                                       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Ropa: camisa blanca, jean, zapatillas        ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo con ropa nueva (camisa blanca, jean, zapatillas). Bulma le mostró la foto de Erasa y quiere sacarle una a él: "¿Te saco una? ¿Ahora?" Facundo puede contestar.

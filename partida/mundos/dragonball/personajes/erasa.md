@@ -13,3 +13,4 @@ QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: soltera (según Bulma).
 - T1616 · (fuera de escena) Por Videl y Bulma, acepta ir a una cena esta noche a las 20:00 en la Corporación Cápsula; sabe que hay "un muchacho, el del gato". QUÉ SABE DE FACUNDO: que existe un muchacho con un gato (por Bulma vía Videl).
+- T1617 · (fuera de escena) Le pidió a Videl una foto de Facundo. Foto suya (vista por Facundo): rubia, pelo corto con rulos, ojos celestes, signo de la paz frente a una heladería.
