@@ -16,3 +16,4 @@ ESTADO: activa
 - T1521 · Recibe a Bills y Whis como amigos de Vegeta: "¡Hay comida para cien, coman todo lo que quieran!"
 - T1524 · Deja caer la copa ante el ultimátum.
 - T1525 · Por la idea de Facundo: "¡Las esferas! ¡Las tengo aquí! ¡Las junté para el bingo! ¡Eran el primer premio!" Trae las siete en un maletín plateado de Capsule Corp.; las pone en círculo en la cubierta. "¿Quién lo llama?"
+- T1526 · Le vacía una jarra de agua helada en la cara a Goku para despertarlo. A Vegeta: "¡Sí lo tienes [el corazón puro]! ¡Más o menos!"

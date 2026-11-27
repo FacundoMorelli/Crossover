@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1523)
-
-si, le doy mas
-
-## RESPUESTA 1 (T1523)
-
-> si, le doy mas
-
-Vuelves a meter la mano en el bolsillo del sobretodo. Y sacas otro. Y otro. Y otro más. Cinco pudines en sus vasitos, temblando, que le vas poniendo a Bills en las manos y en los brazos, hasta que tiene que hacer equilibrio para que no se le caigan.
-
-Bills los mira como un chico mira la vidriera de una juguetería.
-
-—Whis —dice, sin sacarles los ojos de encima—. Tiene un bolsillo infinito de pudín.
-
-—Ya lo veo, Bills-sama. —Whis se inclina un poco, con las manos juntas y la sonrisa muy educada—. ¿Podría yo, tal vez...?
-
-Bills lo mira. Mira los cinco pudines. Lo vuelve a mirar. Se lo piensa mucho más de lo que se pensaría la destrucción de un planeta.
-
-Le da uno. El más chico.
-
-Whis lo recibe con las dos manos, como si fuera una reliquia, y se lo come en dos cucharadas, cerrando los ojos.
-
-—Oh. Oh, sí. Exquisito.
-
-Bills se sienta en una reposera junto a la piscina, cruza las piernas y se come los cuatro que le quedan, despacio, uno por uno, saboreando. A la mitad del tercero ya tiene la cara de un gato al sol. La cola le cuelga por un costado de la reposera y se mueve, perezosa.
-
-La fiesta vuelve de a poco. La gente se acerca a las mesas otra vez. Krilin vuelve a comer, mirando de reojo. La 18 suelta a Marron. Mr. Satán recoge el micrófono. Bulma le hace una seña a la banda y la música sube un poco. Vegeta se sienta en una silla, lejos, con los codos en las rodillas, como un hombre que acaba de bajar de una montaña rusa.
-
-Kase, en la baranda, se da vuelta por fin. Mira a Bills comer pudín en la reposera. Entrecierra los ojos. Se lame una pata.
-
-Bills termina el último. Se lame los dedos. Deja los cinco vasitos vacíos apilados en el suelo, ordenados. Se estira en la reposera, con los brazos detrás de la cabeza, muy satisfecho.
-
-—Bueno. —Bosteza—. La Tierra no está tan mal.
-
-Mira el cielo un rato. Después frunce el ceño, apenas, como quien se acuerda de algo.
-
-—Ah, cierto. —Se sienta derecho—. Whis, ¿a qué vinimos?
-
-—Al Super Saiyajin Dios, Bills-sama. Y al saiyajin que buscaba en el planeta del Kaio del Norte.
-
-—Eso. —Bills mira la cubierta, la fiesta, la gente—. Kaio dijo que estaba aquí, en la Tierra. Un saiyajin que se llama... ¿cómo era?
-
-—Goku, Bills-sama.
-
-—Goku. —Levanta la voz, sin pararse, mirando a todos—. ¿Alguno de ustedes conoce a un saiyajin que se llama Goku?
-
-En la mesa del buffet, con un pollo en cada mano, la corbata desatada y la boca llena, Goku levanta la mano.
-
-—¡Yo! —dice, masticando—. ¡Soy yo!
-
-En su silla, a lo lejos, Vegeta se tapa la cara con las dos manos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1523 · DRAGON BALL · SÁBADO · 12:30    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.248 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando a Bills         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills en la Tierra · Bills busca   ║
-║ a Goku                                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1524)
+## COMANDO 1 (T1524)
 
 miro
 
-## RESPUESTA 2 (T1524)
+## RESPUESTA 1 (T1524)
 
 > miro
 
@@ -163,11 +94,11 @@ Whis suspira, con mucha pena, mirando la mesa del buffet.
 
 ---
 
-## COMANDO 3 (T1525)
+## COMANDO 2 (T1525)
 
 y si le preguntan a shenlong?
 
-## RESPUESTA 3 (T1525)
+## RESPUESTA 2 (T1525)
 
 > y si le preguntan a shenlong?
 
@@ -226,4 +157,95 @@ Bulma saca las siete esferas, una por una, y las pone en el suelo de la cubierta
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:50, crucero. Las 7 esferas en círculo en la cubierta; Bills permite preguntarle a Shenlong. Goku desmayado. Bulma: "¿Quién lo llama?" Facundo puede actuar.
+## COMANDO 3 (T1526)
+
+goku
+
+## RESPUESTA 3 (T1526)
+
+> goku
+
+> —Goku.
+
+Todos se dan vuelta hacia la reposera.
+
+Goku ronca. Con la boca abierta, un hilo de baba en la barbilla y la corbata hecha un nudo en el cuello.
+
+Bulma suspira. Agarra una jarra de agua helada de la mesa más cercana, camina hasta la reposera y se la vacía en la cara.
+
+Goku se sienta de un salto, escupiendo agua.
+
+—¡¿Qué?! ¡¿Qué pasó?! ¡¿Ya terminó la fiesta?! —Mira alrededor. Ve a Bills en la otra reposera, tranquilo. Se toca la nuca y hace una mueca—. Ah. Cierto. Me ganó.
+
+—Goku —dice Bulma, con la jarra vacía en la mano—. Las esferas. Llama a Shenlong. Pregúntale qué es un Super Saiyajin Dios. Si no, ese señor destruye la Tierra cuando se ponga el sol.
+
+Goku parpadea.
+
+—¿La Tierra? —Mira a Bills. Bills le hace un saludito con la mano—. Ah. Bueno, está bien.
+
+Se levanta. Se para frente al círculo de esferas en la cubierta. Levanta los brazos.
+
+—¡SAL DE AHÍ, SHENLONG! ¡Y CUMPLE MI DESEO!
+
+Las esferas brillan.
+
+Una luz anaranjada sube de las siete a la vez, se junta en una columna y el cielo se pone negro. El mediodía desaparece. El mar se oscurece. Los relámpagos cruzan las nubes. Y de la columna de luz sale, retorciéndose hacia el cielo, un dragón verde enorme, larguísimo, que se enrosca alrededor del crucero entero, con escamas como montañas y ojos rojos como faroles.
+
+—YO SOY EL DRAGÓN SHENLONG. DIME CUÁL ES TU DESEO Y LO CUMPLIRÉ. PERO SOLO UNO...
+
+Se calla.
+
+Los ojos rojos se le van hacia la reposera junto a la piscina. Hacia Bills.
+
+El dragón más poderoso de la Tierra se queda quieto en el aire. Y después, despacio, inclina la cabeza enorme hasta casi tocar la cubierta. Le tiembla la voz.
+
+—B-Bills-sama. Qué... qué honor. No sabía que estaba usted aquí.
+
+—Hola, Shenlong —dice Bills, sin levantarse—. Contesta lo que te pregunten. Rápido.
+
+—¡Sí, señor!
+
+Goku se rasca la cabeza.
+
+—Oye, Shenlong. ¿Qué es un Super Saiyajin Dios?
+
+Shenlong se endereza, nervioso, sin sacarle los ojos de encima a Bills.
+
+—EL SUPER SAIYAJIN DIOS ES UNA LEYENDA DE LOS SAIYAJIN. PARA QUE APAREZCA, SE NECESITAN SEIS SAIYAJIN DE CORAZÓN PURO. CINCO DE ELLOS SE TOMAN DE LAS MANOS Y LE PASAN SU ENERGÍA AL SEXTO. ESE SEXTO SE CONVIERTE EN EL SUPER SAIYAJIN DIOS.
+
+Silencio.
+
+—¿Seis? —Goku empieza a contar con los dedos, mirando alrededor—. A ver... yo, uno. Vegeta, dos. Gohan, tres. Goten, cuatro. Trunks, cinco.
+
+Se queda con los cinco dedos levantados. Mira la mano.
+
+—Somos cinco.
+
+—¿Seis saiyajin de corazón puro? —dice Vegeta, con desprecio—. Yo no tengo el corazón puro, Kakarotto.
+
+—¡Sí lo tienes! —dice Bulma—. ¡Más o menos!
+
+—Somos cinco —repite Goku, mirando su mano—. Falta uno.
+
+Bills, en la reposera, se mira las uñas.
+
+—Qué pena.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1526 · DRAGON BALL · SÁBADO · 12:55    ║
+║ Crucero de Bulma · cubierta (Shenlong)       ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.248 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando al dragón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Seis saiyajin para el SSJ Dios     ║
+║ (falta uno) antes del atardecer              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:55, crucero. Shenlong invocado explicó el ritual del SSJ Dios: 6 saiyajin de corazón puro. Cuentan cinco; falta uno. Bills: "Qué pena." Facundo puede actuar.
