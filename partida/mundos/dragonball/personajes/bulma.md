@@ -44,3 +44,4 @@ TIENE: libro de Paradis (T1542).
 - T1642 · A Erasa, bajito: "Es tu torta, querida. Córtala tú. Y el primer pedazo, el más grande, para el señor Bills. Por favor."
 - T1643 · Aplaude bajito cuando a Bills le gusta la torta.
 - T1645 · Propone que Facundo acompañe a Erasa a su casa (mano firme en su hombro): "¿Taxi? Ni hablar, querida, a esta hora es peligroso. Facundo te acompaña a tu casa. ¿No es cierto, Facundo?"
+- T1646 · Le presta a Facundo la cápsula 7 (aerodeslizador descapotable, suyo): "Me lo traes mañana. Sano. Sin apuro." (guiño).

@@ -52,3 +52,4 @@ ESTADO: bien.
 - T1640 · Ve la cara de Erasa con Facundo y sonríe sola, satisfecha.
 - T1642 · Escuchando todo desde la otra punta: "¡Gracias!" (por la carne).
 - T1643 · Se cruza de brazos, celosa, cuando a Bills le gusta la torta; igual asiente.
+- T1646 · Envuelve la torta sobrante para la mamá de Erasa.

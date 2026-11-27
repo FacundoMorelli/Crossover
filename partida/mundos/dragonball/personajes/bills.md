@@ -92,3 +92,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1643 · Come el pedazo de torta perfecto de Erasa y Facundo: orejas paradas, cola enroscada. "Hm. Tu madre sabe lo que hace. Dile que me gustó. Y que haga otra. Más grande."
 - T1644 · Con la boca llena: "Sí haría algo." / "No estoy bromeando." Mira a todos ofendido cuando se ríen.
 - T1645 · Se termina media torta solo; echado en la silla, panza redonda, ronroneando sin darse cuenta. Whis le tapa las piernas con una servilleta.
+- T1646 · Dormido, a Erasa al irse: "Más grande."

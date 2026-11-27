@@ -3,77 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1643)
-
-esta bien, la ayudo
-
-## RESPUESTA 1 (T1643)
-
-> esta bien, la ayudo
-
-> —Está bien.
-
-Te paras. Te pones a su lado, detrás de su hombro, y le cubres la mano del cuchillo con la tuya.
-
-Erasa deja de respirar.
-
-Tiene la mano chiquita y tibia, y le tiembla. Debajo de la tuya se queda quieta. El temblor se le pasa de a poco, como si tu mano se lo fuera tragando.
-
-Bajas el cuchillo juntos.
-
-El primer corte entra derecho, limpio, de arriba abajo, sin una miga de más. El segundo, igual, en el ángulo exacto. El pedazo sale entero, alto, perfecto, con las tres capas de chocolate a la vista y las virutas sin moverse de su lugar. Lo levantan juntos con la pala de servir y lo dejan en el plato de Bills sin que se tuerza.
-
-En la mesa no vuela una mosca.
-
-Bills mira el pedazo. Lo mira de un lado. Del otro. Le acerca la nariz.
-
-Agarra el tenedor. Corta. Se lo lleva a la boca.
-
-Cierra los ojos.
-
-Se queda quieto mucho tiempo. Toda la mesa lo mira. Erasa, todavía con tu mano encima de la suya en el mango del cuchillo, no se mueve.
-
-Al final, a Bills se le paran las orejas, despacio. La cola se le enrosca sola.
-
-—Hm. —Abre un ojo—. Tu madre sabe lo que hace.
-
-Erasa suelta todo el aire de golpe, como un globo. Se le doblan un poco las rodillas. Bulma aplaude bajito. Milk, en la otra punta, se cruza de brazos, celosa, aunque asiente.
-
-—Dile que me gustó —sigue Bills, ya con el segundo bocado en el tenedor—. Y que haga otra. Más grande.
-
-—Sí, señor. —A Erasa le sale un hilito de voz—. Le digo. Más grande.
-
-Bills ya no la escucha. Come con los ojos cerrados.
-
-Erasa se da vuelta hacia ti. Están muy cerca: tu mano todavía sobre la suya, el cuchillo entre las dos, su hombro casi contra tu pecho. Te mira desde abajo, con los ojos celestes muy abiertos y un rulo cayéndole sobre la frente.
-
-—Gracias —susurra.
-
-No suelta el cuchillo. Tampoco tu mano.
-
-—Tus manos no tiemblan nunca, ¿no? —dice, bajito, sin dejar de mirarte—. Ni un poquito. Ni con un dios mirándote.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1643 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:50     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: echado sobre el ratón de juguete       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1644)
+## COMANDO 1 (T1644)
 
 no hay que tener miedo, no creo que haga nada aunque cortes un poco mal la torta
 
-## RESPUESTA 2 (T1644)
+## RESPUESTA 1 (T1644)
 
 > no hay que tener miedo, no creo que haga nada aunque cortes un poco mal la torta
 
@@ -129,11 +63,11 @@ Te lo da a ti.
 
 ---
 
-## COMANDO 3 (T1645)
+## COMANDO 2 (T1645)
 
 lo pruebo y le digo que esta muy rico
 
-## RESPUESTA 3 (T1645)
+## RESPUESTA 2 (T1645)
 
 > lo pruebo y le digo que esta muy rico
 
@@ -183,4 +117,60 @@ Erasa te mira, con el teléfono en la mano y los ojos muy abiertos, esperando.
 
 ---
 
-ESTADO AL CIERRE: 22:30, fin de la cena. Erasa se tiene que ir. Bulma: "Facundo te acompaña a tu casa. ¿No es cierto, Facundo?" Erasa espera. Facundo puede contestar.
+## COMANDO 3 (T1646)
+
+si, yo la acompaño
+
+## RESPUESTA 3 (T1646)
+
+> si, yo la acompaño
+
+> —Sí, yo la acompaño.
+
+Erasa deja de escribir a mitad de palabra.
+
+Se le escapa una sonrisa enorme que trata de esconder bajando la cabeza hacia el teléfono, y no le sale. Los pulgares le vuelan sobre la pantalla.
+
+—"Mamá, no llamo taxi, me acompañan" —lee en voz alta mientras escribe, y aprieta enviar antes de arrepentirse. El teléfono vibra al instante. Ella lo mira, se pone roja y lo guarda boca abajo en la cartera—. Pregunta quién. Después le cuento.
+
+—¡Perfecto! —Bulma deja la pila de platos en la mesa y se mete la mano en el bolsillo del pantalón—. No van a ir caminando hasta la otra punta de la ciudad a esta hora.
+
+Saca un estuche chato y, de adentro, una cápsula blanca con el número 7 pintado en un costado. Te la pone en la palma y te cierra los dedos encima, con las dos manos.
+
+—El aerodeslizador descapotable. Es mío, así que me lo traes mañana. Sano. —Te guiña un ojo—. Sin apuro.
+
+Kase se despereza en tu regazo, salta a la mesa y de ahí a tu hombro, como todas las noches. Se acomoda y mira a Erasa desde arriba.
+
+Erasa se despide de todos de corrido, sin tomar aire. Le da un beso a Videl en la mejilla y le dice algo al oído que hace que Videl ponga los ojos en blanco y la empuje. Gohan le dice que se cuide. Goku levanta la mano con la boca llena: "¡Adiós, Erasa! ¡Vuelve con más torta!" Vegeta no dice nada, pero inclina la cabeza un centímetro cuando ella pasa. Milk le envuelve lo que quedó de torta en una servilleta de tela.
+
+—Para tu mamá. Que vea que no sobró casi nada.
+
+Erasa pasa por la cabecera en puntas de pie. Bills, con los ojos cerrados y la panza para arriba, levanta una oreja.
+
+—Más grande —murmura, sin despertarse del todo.
+
+—Sí, señor. Más grande. —Erasa hace una reverenciota torpe, y Whis le devuelve una perfecta, con una sonrisa.
+
+En el portón del jardín, la calle está vacía y fresca. Las luces de la Capital del Oeste se ven allá abajo, en hilera. Erasa se abraza los brazos desnudos por el frío, con la torta envuelta colgando de una mano y la cartera de la otra.
+
+Mira la cápsula en tu mano. Después te mira a ti, con los ojos celestes muy abiertos y un rulo sobre la frente.
+
+—Oye... —dice bajito, medio en broma y medio en serio—, ¿tú sabes manejar esas cosas? Porque en tu tierra de islas andan en barco.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1646 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Portón de la Corporación Cápsula · 22:40     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Acompañar a Erasa a su casa        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 22:40, portón de la Corporación Cápsula. Facundo aceptó acompañar a Erasa. Bulma le dio la cápsula 7 (aerodeslizador descapotable, devolver mañana). Erasa pregunta: "¿Tú sabes manejar esas cosas?" Facundo puede responder.
