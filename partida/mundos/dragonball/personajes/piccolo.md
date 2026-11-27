@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO: nada (fue petrificado antes de que llegara).
 ESTADO: libre, de carne (T257).
 - T1514 · En la proa, abre un ojo al ver la técnica de Goten.
 - T1515 · Abre los dos ojos al ver el agua resbalar sobre nada.
+- T1527 · Algo casi como una sonrisa al oír del embarazo de Videl.

@@ -44,3 +44,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo ve aterrizar con un monstruo rosado.
 ESTADO: amigo de Buu; promete darle dulces todos los días. Se llevará la fama.
 - T1515 · Crucero de Bulma · Se le cae el micrófono al ver el agua correr por el aire sobre todos.
+- T1527 · "¡VIDEL!" Corre hacia su hija, tropieza y se desmaya. Buu lo abanica con un plato.

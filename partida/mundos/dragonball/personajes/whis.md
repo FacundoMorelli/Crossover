@@ -16,3 +16,4 @@ ESTADO: activo
 - T1523 · Pide un pudín; Bills le da el más chico. "Oh. Oh, sí. Exquisito." Le recuerda a Bills: el Super Saiyajin Dios y Goku.
 - T1524 · "Qué desperdicio de comida, Bills-sama."
 - T1525 · "Los namekianos lo hicieron para este planeta. Concede deseos. Y sabe muchas cosas."
+- T1527 · Se queda en el crucero mirando la pelea. Mira a Facundo un segundo largo, curioso; sonríe: "Disculpe. ¿No le queda, por casualidad, otro de esos pudines?"

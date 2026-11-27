@@ -112,3 +112,5 @@
 - Todos los del crucero · T1524 · Ven a Bills vencer a Goku SSJ3 de un golpecito. Oyen el ultimátum (Super Saiyajin Dios o la Tierra destruida al atardecer).
 - Todos los del crucero, Bills, Whis · T1525 · Por Facundo: la idea de preguntarle a Shenlong.
 - Todos los del crucero · T1526 · Por Shenlong: el ritual del SSJ Dios (seis saiyajin de corazón puro). Nadie sabe todavía que Videl está embarazada (Milk sospecha, T1511). Facundo lo sabe (canon, conocimiento del jugador).
+- Todos los del crucero · T1527 · Por Shenlong: Videl está embarazada (sexto saiyajin). Ven a Goku volverse SSJ Dios (no le sienten el ki).
+- Whis · T1527 · Se fija en Facundo (curiosidad); quiere pudín. (No puede sentir su poder: Velo.)

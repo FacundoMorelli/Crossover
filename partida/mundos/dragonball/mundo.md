@@ -18,3 +18,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T275 · Videl, entrenada por Facundo (días 5-9), mucho más fuerte que en el canon a esta altura.
 - T1510 · Goku recibe un zenkai (paliza de Facundo + semilla): un poco más fuerte que en el canon antes de Bills.
 - T1522 · Año 778 · Crisis del pudín evitada: Facundo le da a Bills un pudín antes de que Buu se niegue (en el canon, el pudín de Buu desataba la pelea de Bills con los Guerreros Z).
+- T1527 · Año 778 · Goku alcanza el Super Saiyajin Dios por el ritual (canon) en el crucero de Bulma. Embarazo de Videl revelado por Shenlong. Esferas del Dragón usadas (dispersas).

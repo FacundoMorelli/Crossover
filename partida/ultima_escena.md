@@ -3,102 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1524)
-
-miro
-
-## RESPUESTA 1 (T1524)
-
-> miro
-
-Te quedas en la baranda, junto a Kase, y miras.
-
-Bills se levanta de la reposera. Mira a Goku de arriba abajo: el traje arrugado, la corbata desatada, un pollo en cada mano, salsa en la barbilla.
-
-—¿Tú? —Levanta una ceja—. ¿Tú eres el saiyajin del que hablaba Kaio?
-
-—¡Sí! —Goku se traga el pollo de un bocado—. ¡Mucho gusto! ¿Tú eres el que fue a ver a Kaio-sama? Me dijo Vegeta que... —Mira a Vegeta. Vegeta niega con la cabeza, desesperado, muchas veces—. Bueno, no me dijo nada.
-
-Bills se le acerca. Despacio. Las manos detrás de la espalda.
-
-—Tuve un sueño —dice—. En el sueño aparecía un Super Saiyajin Dios. Un rival digno. Me desperté después de treinta y nueve años para encontrarlo. —Lo mira a los ojos—. ¿Tú sabes qué es un Super Saiyajin Dios?
-
-Goku se rasca la cabeza.
-
-—No. —Se ríe—. Nunca lo oí. Pero suena muy fuerte.
-
-Bills suspira.
-
-—Ya veo.
-
-—¡Pero puedo mostrarte lo que tengo! —Goku tira los dos huesos de pollo por la borda y se pone en guardia, con los ojos encendidos—. ¡Tú eres fuerte, ¿verdad?! ¡Lo noto! ¡No te siento el ki, pero lo noto! ¡Peleemos!
-
-—¡KAKAROTTO! —grita Vegeta desde su silla, poniéndose de pie.
-
-Demasiado tarde. Bills sonríe por primera vez desde que llegó. Una sonrisa de gato.
-
-—Muéstrame.
-
-Se elevan. Los dos, a la vez, por encima del crucero, cien metros, doscientos, hasta que quedan sobre el mar, lejos del barco. Todos los invitados se amontonan en las barandas. Bulma con la mano sobre los ojos para tapar el sol. Goten y Trunks trepados a una mesa.
-
-Goku grita.
-
-Super Saiyajin. Super Saiyajin 2. Super Saiyajin 3: el pelo dorado hasta la cintura, el aura en llamas, el mar que se agita en olas circulares debajo de él. Más fuerte que nunca. Lo notas: más fuerte que ayer, por el zenkai, por la semilla, por los cuatro días en el páramo.
-
-Se lanza contra Bills con todo.
-
-Bills no se mueve. Levanta un dedo.
-
-El puño de Goku se frena contra la punta del dedo de Bills, como contra una pared. El aire explota alrededor de los dos y el mar, abajo, se abre en un cráter de agua.
-
-Goku sigue. Un golpe, otro, una patada, una lluvia de golpes, una ráfaga de ki. Bills los esquiva todos con las manos detrás de la espalda, aburrido, girando apenas la cabeza.
-
-—Más fuerte de lo que esperaba —dice Bills—. Pero no es un dios.
-
-Y le da un golpecito en la nuca con dos dedos.
-
-Uno solo.
-
-El aura dorada de Goku se apaga de golpe. El pelo se le vuelve negro. Cae, desmayado, hacia el mar, y Gohan sale disparado del crucero a atajarlo antes de que toque el agua.
-
-En la cubierta se hace un silencio de muerte.
-
-Bills baja despacio y se posa otra vez junto a la piscina. Se sacude una pelusa del hombro.
-
-—Qué lástima. —Mira a Whis—. Este planeta tiene buena comida. Ese pudín. Ese gato. —Se encoge de hombros—. Pero vine a buscar un Super Saiyajin Dios, y no hay ninguno.
-
-Levanta la vista hacia todos, hacia la cubierta, hacia la costa de la Ciudad del Oeste a lo lejos. Ya no tiene cara de gato al sol. Tiene la otra cara.
-
-—Les doy hasta que se ponga el sol. —Lo dice sin levantar la voz—. Si para entonces nadie me muestra al Super Saiyajin Dios, destruyo la Tierra.
-
-Vegeta, de pie, con los puños cerrados, se pone blanco como una sábana. Bulma deja caer la copa. Milk agarra a Goten.
-
-Whis suspira, con mucha pena, mirando la mesa del buffet.
-
-—Qué desperdicio de comida, Bills-sama.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1524 · DRAGON BALL · SÁBADO · 12:45    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.248 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, con la cola erizada     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills destruye la Tierra al        ║
-║ atardecer si no aparece el SSJ Dios          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1525)
+## COMANDO 1 (T1525)
 
 y si le preguntan a shenlong?
 
-## RESPUESTA 2 (T1525)
+## RESPUESTA 1 (T1525)
 
 > y si le preguntan a shenlong?
 
@@ -157,11 +66,11 @@ Bulma saca las siete esferas, una por una, y las pone en el suelo de la cubierta
 
 ---
 
-## COMANDO 3 (T1526)
+## COMANDO 2 (T1526)
 
 goku
 
-## RESPUESTA 3 (T1526)
+## RESPUESTA 2 (T1526)
 
 > goku
 
@@ -248,4 +157,109 @@ Bills, en la reposera, se mira las uñas.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:55, crucero. Shenlong invocado explicó el ritual del SSJ Dios: 6 saiyajin de corazón puro. Cuentan cinco; falta uno. Bills: "Qué pena." Facundo puede actuar.
+## COMANDO 3 (T1527)
+
+miro
+
+## RESPUESTA 3 (T1527)
+
+> miro
+
+Te quedas en la baranda, junto a Kase, y miras.
+
+Shenlong carraspea. Un ruido de trueno, enorme, que hace temblar las copas de las mesas.
+
+—EN REALIDAD... —dice, con cuidado, mirando de reojo a Bills—. HAY SEIS SAIYAJIN EN ESTE BARCO.
+
+Goku baja la mano.
+
+—¿Seis? —Mira alrededor—. ¿Dónde?
+
+Shenlong gira la cabeza enorme, despacio, por encima de la cubierta, de los invitados, de las mesas. Y se detiene sobre una mujer de pelo negro corto, junto a la mesa de los postres, que casi no comió en toda la fiesta.
+
+—EN EL VIENTRE DE ESA MUJER.
+
+Todos miran a Videl.
+
+Videl se queda quieta. Se pone colorada hasta las orejas. Se lleva una mano a la panza, sin pensarlo, y después la saca, rápido, como si la hubieran pescado.
+
+—Yo... —dice—. Iba a decirlo hoy. En la torta.
+
+Gohan, a su lado, se pone blanco. Después rojo. Después blanco otra vez. Se le caen los anteojos.
+
+—¿Vi... Videl? ¿Tú...? ¿Nosotros...?
+
+—¡VIDEL! —Mr. Satán suelta un grito que se oye en la costa. Corre hacia su hija con los brazos abiertos, tropieza con una silla y se desmaya antes de llegar, de cara contra la cubierta. Buu lo levanta con una mano, preocupado, y lo abanica con un plato.
+
+—¡Lo sabía! —grita Milk, con las dos manos en la cara, llorando—. ¡Lo sabía! ¡Casi no comía! ¡Lo sabía! ¡Voy a ser abuela!
+
+Bulma aplaude. La 18 sonríe. Krilin se ríe. Goten y Trunks no entienden nada y se miran. Piccolo, en la proa, cierra los ojos y algo que casi es una sonrisa le cruza la cara.
+
+Goku se rasca la cabeza. Después se le ilumina la cara entera.
+
+—¡Ah! ¡Entonces somos seis!
+
+Lo hacen ahí mismo, en la cubierta, con el cielo negro, el dragón enroscado alrededor del barco y un dios sentado en una reposera mirando.
+
+Vegeta protesta, pero se pone. Gohan agarra la mano de Videl con una mano y la de Goten con la otra, todavía temblando. Goten agarra la de Trunks. Trunks la de su padre, que la acepta con la cara roja de vergüenza. Y forman un círculo alrededor de Goku, que se para en el medio con los ojos cerrados.
+
+—Concéntrense —dice Shenlong—. Pásenle su energía.
+
+Los cinco brillan. Una luz dorada, tibia, que sube de las manos juntas y entra en Goku por todos lados.
+
+Y Goku cambia.
+
+No como siempre. No hay grito, no hay pelo dorado, no hay rayos. El pelo se le vuelve rojo. Un rojo oscuro, suave, como el fuego de una chimenea. El cuerpo se le afina, más delgado, más joven. Los ojos se le ponen rojos también. Y alrededor no le estalla un aura: le arde una llama tranquila, roja y dorada, que no hace ruido, que no mueve el aire, que no se siente.
+
+Nadie en la cubierta le siente el ki. Ni Vegeta, ni Gohan, ni Piccolo. Se nota en las caras: lo ven ahí, delante, y no lo sienten. Igual que a ti.
+
+Goku abre los ojos. Se mira las manos.
+
+—Oigan... —dice, despacio—. Esto es raro. Me siento... tranquilo.
+
+Shenlong suspira, aliviado, y se inclina ante Bills una última vez.
+
+—YA ESTÁ. EL DESEO SE CUMPLIÓ. ADIÓS.
+
+Se deshace en luz. Las siete esferas suben al cielo, se separan y salen disparadas en siete direcciones distintas. El cielo vuelve a ser azul. Vuelve el mediodía.
+
+Bills se levanta de la reposera, muy despacio. Ya no se mira las uñas. Mira a Goku, con los ojos amarillos muy abiertos y la cola moviéndose sola detrás de él.
+
+—Ahí está —dice, casi con ternura—. El Super Saiyajin Dios. El del sueño.
+
+Sonríe. La sonrisa de gato. La de verdad.
+
+—Bueno, Goku. —Se eleva del suelo—. Vamos a ver qué tal.
+
+Goku sonríe también. Con el pelo rojo y los ojos rojos y la misma cara de chico la mañana de un torneo.
+
+—¡Sí!
+
+Los dos salen disparados hacia el cielo, uno detrás del otro, tan rápido que el aire de la cubierta se va detrás de ellos y les vuela las servilletas a todos. Un segundo después, muy arriba, sobre el mar, se oye el primer choque. Un trueno sin nubes.
+
+Whis no se va con ellos. Se queda junto a la piscina, con el báculo en la mano, mirando hacia arriba con la sonrisa amable de siempre. Después baja la vista hacia la mesa de los postres. Y después, sin ningún motivo, gira la cabeza hacia ti.
+
+Te mira. A ti, al muchacho de ki chiquito con el gato en la baranda. Un segundo largo, tranquilo, curioso.
+
+Sonríe un poco más.
+
+—Disculpe —dice—. ¿No le queda, por casualidad, otro de esos pudines?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1527 · DRAGON BALL · SÁBADO · 13:10    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.248 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Goku (SSJ Dios) vs Bills en el     ║
+║ cielo                                        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:10, crucero. Embarazo de Videl revelado; Goku es SSJ Dios y pelea con Bills en el cielo. Whis, en la cubierta, le pregunta a Facundo si le queda otro pudín. Facundo puede responder.

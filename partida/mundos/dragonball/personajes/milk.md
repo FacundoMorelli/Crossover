@@ -31,3 +31,4 @@ ESTADO: bien.
 - T1511 · Pregunta por qué de repente hay tantos osos en el Monte Paoz. Mira a Videl de reojo en la cena "sumando dos más dos". Viste a Goku y a Goten para la fiesta; el sobretodo de Facundo "no tiene arreglo". Va a la fiesta en una nube voladora.
 - T1514 · (Corregido T1515: no hay grito; nadie se mojó.)
 - T1524 · Agarra a Goten ante el ultimátum.
+- T1527 · "¡Lo sabía! ¡Casi no comía! ¡Voy a ser abuela!" (llorando)

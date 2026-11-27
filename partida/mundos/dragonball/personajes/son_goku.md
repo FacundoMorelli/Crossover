@@ -81,3 +81,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1523 · Con un pollo en cada mano y la corbata desatada, levanta la mano: "¡Yo! ¡Soy yo!"
 - T1524 · No sabe qué es un Super Saiyajin Dios. Pide pelear con Bills ("¡No te siento el ki, pero lo noto!"). SSJ3 (más fuerte que nunca por el zenkai): no le hace nada; Bills lo desmaya de un golpecito en la nuca. Gohan lo ataja sobre el mar.
 - T1526 · Bulma lo despierta con agua helada ("Ah. Cierto. Me ganó"). Invoca a Shenlong: "¡SAL DE AHÍ, SHENLONG! ¡Y CUMPLE MI DESEO!" Pregunta qué es un SSJ Dios. Cuenta los saiyajin: "Somos cinco. Falta uno."
+- T1527 · "¡Entonces somos seis!" Ritual: SE CONVIERTE EN SUPER SAIYAJIN DIOS (pelo y ojos rojos, más delgado y joven, llama roja tranquila; ki divino que nadie siente). "Esto es raro. Me siento... tranquilo." Sube con Bills a pelear sobre el mar.
