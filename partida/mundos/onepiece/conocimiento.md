@@ -289,3 +289,4 @@
 - Luffy · T1460 · Deduce (o supone) que Facundo se va "con Robin".
 - Luffy, Ace, Sabo, Rayleigh · T1460 · Por Facundo: no volverá a Rusukaina hasta que pasen los dos años.
 - Luffy, Ace, Sabo, Rayleigh · T1461 · Por Facundo: toda la tripulación está bien; solo vio a Robin.
+- Barbablanca, Marco, Vista, tripulación del Moby Dick · T1462 · Ven a Facundo aparecer de la nada con Ace y el rubio de sombrero de copa (Sabo; todavía no saben quién es).

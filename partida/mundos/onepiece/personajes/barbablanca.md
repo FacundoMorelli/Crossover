@@ -17,3 +17,4 @@ ESTADO: activo
 - T905 · "Mocoso. Tu pared. ¿Hasta dónde llega?"
 - T909 · "Ese consejo te lo dio alguien que ya tuvo que esperar mucho, ¿eh, mocoso?"
 - T911 · "¡Vayan, mocosos! Mi flota se cuida sola, y ahora tiene techo." A Luffy: "Hoy te metiste en una guerra que no era tuya por tu hermano. Eso no se olvida en este barco."
+- T1462 · Día ~121 · Moby Dick, flota en formación de alerta tras la desaparición de Ace; grieta nueva en el apoyabrazos. Ve volver a Ace con Facundo y Sabo. "Gurarararara... Tú otra vez, mocoso. La última vez me salvaste el pellejo y le pusiste techo a mi flota. Y hoy te robas a mi hijo delante de todos." A Sabo: "¿Y este quién es?"

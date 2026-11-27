@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1459)
-
-se muchas cosas
-
-## RESPUESTA 1 (T1459)
-
-> se muchas cosas
-
-> —Sé muchas cosas.
-
-Ace se te queda mirando.
-
-Por un segundo parece que va a insistir. Abre la boca. La cierra. Después se le escapa una risa por la nariz, corta, y sacude la cabeza.
-
-—Sí. Eso ya me di cuenta en Marineford. —Se pasa la mano por la cara—. Está bien. No me importa cómo. Me importa que lo hiciste.
-
-Se saca el sombrero naranja. Lo apoya contra el pecho. Y se inclina delante de ti, en la nieve, igual que en la cubierta del Moby Dick hace dos meses: una reverencia larga, recta, de las que no se hacen dos veces en la vida.
-
-—Gracias. —Lo dice hacia el suelo—. Por mi hermano.
-
-Detrás, Luffy y Sabo se quedaron callados. Sabo se quita también el sombrero de copa, sin decir nada, y lo sostiene contra el pecho. Luffy los mira a los dos, no entiende del todo qué está pasando, y se quita el sombrero de paja de la espalda y lo apoya contra el pecho también, con la cara muy seria.
-
-Rayleigh, en su roca, sonríe.
-
-Ace se endereza. Se pone el sombrero. Ya tiene otra vez la cara de siempre: la sonrisa torcida, los ojos encendidos, las pecas.
-
-—Bueno —dice—. Ahora tengo un problema.
-
-Señala el mar, hacia el horizonte, hacia algún lugar del Nuevo Mundo que no se ve.
-
-—Hay una flota de cuarenta y tantos barcos buscándome, un fénix que me va a desplumar y un viejo que es capaz de partir el mar en dos si cree que alguien me llevó. —Se rasca la nuca—. ¿Me puedes devolver al Moby Dick antes de que empiecen una guerra?
-
-Se da vuelta hacia Sabo.
-
-—Y tú vienes conmigo. —No es una pregunta—. Te voy a presentar al viejo. Y a todos. Les voy a decir que mi hermano estaba vivo.
-
-Sabo abre mucho los ojos.
-
-—¿A Barbablanca? Ace, soy el número dos del Ejército Revolucionario...
-
-—Me da igual. Eres mi hermano. —Ace sonríe—. El viejo va a estar encantado. Le encanta tener hijos nuevos.
-
-Luffy salta en el lugar.
-
-—¡¿Yo también puedo ir?!
-
-—No —dicen Ace, Sabo y Rayleigh al mismo tiempo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1459 · ONE PIECE · DÍA ~121 · 07:23    ║
-║ Rusukaina · explanada de roca, nieve         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1460)
+## COMANDO 1 (T1460)
 
 jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
 
-## RESPUESTA 2 (T1460)
+## RESPUESTA 1 (T1460)
 
 > jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
 
@@ -117,11 +53,11 @@ Después corre hasta ti. Se para delante, muy cerca, mirándote desde abajo, por
 
 ---
 
-## COMANDO 3 (T1461)
+## COMANDO 2 (T1461)
 
 Solo a Robin, pero todos estan bien si
 
-## RESPUESTA 3 (T1461)
+## RESPUESTA 2 (T1461)
 
 > Solo a Robin, pero todos estan bien si
 
@@ -171,4 +107,74 @@ Luffy levanta el puño en el aire, en medio de la nieve.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 07:28, Rusukaina. Despedida de Luffy y Rayleigh. Ace y Sabo a los lados de Facundo, listos para ir al Moby Dick. Facundo puede actuar.
+## COMANDO 3 (T1462)
+
+llevo a ace y sabo con barbablanca
+
+## RESPUESTA 3 (T1462)
+
+> llevo a ace y sabo con barbablanca
+
+Le pones una mano en el hombro a Ace y otra a Sabo.
+
+Luffy sigue con el puño en alto. Rayleigh levanta dos dedos, a modo de saludo.
+
+Dos dedos en la frente. El ki de Barbablanca es imposible de no encontrar: una montaña en medio del mar, tranquila y enorme, y alrededor, como un enjambre, cientos de kis más chicos, agitados, encendidos.
+
+La nieve desaparece.
+
+Calor. Sol de la tarde. Olor a sal, a pólvora y a tabaco. Estás de nuevo en la cubierta del Moby Dick, pero ya no hay mesa de almuerzo: la tiraron a un costado, con los platos todavía encima. La cubierta está llena de piratas armados, de pie, en grupos, con espadas, fusiles, hachas. Alrededor del barco, el mar está cubierto de velas: la flota entera, en formación cerrada, con los cañones asomados.
+
+Y en el centro de la cubierta, en su silla enorme, con la bandera de la sonrisa ondeando detrás y el bisento apoyado en el hombro, Edward Newgate.
+
+No está sentado tranquilo. Está inclinado hacia adelante, con la mano libre cerrada sobre el apoyabrazos, que tiene una grieta nueva. El aire alrededor de él tiembla un poco, como sobre el asfalto caliente.
+
+Delante de él, de espaldas a ustedes, Marco habla rápido, con llamas azules saliéndole de los hombros:
+
+—...aparecieron de la nada, yoi, justo detrás de Ace. El del gato y uno rubio con sombrero de copa. Y en un segundo ya no estaban. Le di la vuelta al barco dos veces volando y no hay ni rastro...
+
+Barbablanca levanta la vista. Por encima del hombro de Marco.
+
+Los ve.
+
+Marco se da vuelta de golpe. Las llamas azules le cubren los brazos enteros, hasta que te reconoce, y ve a Ace, y se quedan a medio encender.
+
+La cubierta entera gira hacia ustedes. Doscientos piratas armados. Alguien amartilla un fusil. Alguien grita "¡Es él!". Vista, el de los bigotes, desenvaina las dos espadas a medias.
+
+—¡Esperen! ¡Esperen, esperen! —Ace da un paso adelante, con las manos en alto—. ¡Soy yo! ¡Estoy bien! ¡No me secuestró nadie! Bueno... —Se rasca la nuca—. Un poco sí. Pero fue para algo bueno.
+
+Nadie baja las armas.
+
+Barbablanca se queda mirando a Ace un largo rato. Después a ti, con Kase en el hombro. Después a Sabo, a tu izquierda, con su sombrero de copa, su levita y su caño de metal.
+
+Y se ríe.
+
+—Gurarararara...
+
+La risa le sale desde el fondo del pecho, grave, enorme, y hace vibrar las tablas de la cubierta bajo tus botas.
+
+—Tú otra vez, mocoso. —Te señala con el bisento—. La última vez que te vi, me salvaste el pellejo y le pusiste techo a mi flota. Y hoy vienes a mi barco a la hora del almuerzo y te robas a mi hijo delante de todos.
+
+Se acomoda en la silla. La grieta del apoyabrazos cruje.
+
+Después mira a Sabo. Lo mira de arriba abajo, despacio.
+
+—¿Y este quién es?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1462 · ONE PIECE · DÍA ~121 · 07:29    ║
+║ Nuevo Mundo · Moby Dick · cubierta           ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Llevar a Ace y Sabo al Moby Dick   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121, Moby Dick. Facundo devolvió a Ace con Sabo. Barbablanca se ríe y pregunta por Sabo: "¿Y este quién es?" Tripulación armada. Facundo puede actuar.
