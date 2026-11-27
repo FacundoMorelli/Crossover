@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1622)
-
-ehh como quieras, si termina pasando algo entre nosotros va a tener que saber igualmente
-
-## RESPUESTA 1 (T1622)
-
-> ehh como quieras, si termina pasando algo entre nosotros va a tener que saber igualmente
-
-> —Eh... como quieras. Si termina pasando algo entre nosotros, igual va a tener que saberlo.
-
-—"Si termina pasando algo entre nosotros." —Bulma te mira con una sonrisa enorme, de oreja a oreja—. Ay, ya estás pensando en el futuro. Qué tierno.
-
-Mira el celular. Lo piensa un segundo. Después escribe, rápido, mordiéndose la lengua.
-
-—Bueno. Le voy a decir algo. No todo. Lo justo. —Lee en voz alta mientras escribe—: "Erasa, querida: esta noche van a venir un par de amigos de la familia que son un poco... especiales. Uno es muy alto, de piel violeta, con orejas grandes, y le gusta mucho la comida. Por favor, no le digas que parece un gato. Ni lo mires mucho cuando come. Es muy importante." —Levanta la vista—. ¿Está bien así?
-
-No espera respuesta. Ya lo mandó.
-
-El teléfono vibra a los dos segundos.
-
-—"¡¡Jajajajaja!! ¡¿Es un disfraz?! ¡¿Es una fiesta de disfraces?! ¡¿Tengo que ir disfrazada?!" —Bulma se ríe—. Esta chica no entiende nada.
-
-Escribe otra vez, rápido: "No es disfraz. No vengas disfrazada. Tú confía."
-
-Vibra otra vez.
-
-—"Ok, confío. Esto es lo más divertido que me pasó en el año. ¡Nos vemos a las ocho!" —Bulma guarda el celular en el bolsillo, satisfecha—. Listo. Lo demás, que lo descubra sola.
-
-En ese momento, una mancha naranja aparece en el cielo y baja en picada hacia el jardín.
-
-Goku aterriza frente a la puerta corrediza con Goten colgado de la espalda. Goten tiene el pelo mojado, todavía con espuma de champú detrás de una oreja, y una toalla atada al cuello como si fuera una capa.
-
-—¡Ya está! ¡Se bañó! —anuncia Goku, orgulloso—. ¡Milk! ¡Se bañó!
-
-Goten se baja de un salto. Mira a su alrededor. Ve a Kase en tu hombro. Se le abren los ojos.
-
-—¡KASE! —Sale corriendo hacia ti, con la toalla flameando—. ¡Facundo! ¡Volviste! ¡Mi papá dice que le ganaste al señor Bills! ¡¿Es verdad?! ¡¿Me enseñas cómo?!
-
-Frena delante de ti, salta dos veces en el lugar y levanta los brazos hacia Kase, para que lo deje agarrarlo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1622 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1623)
+## COMANDO 1 (T1623)
 
 ehh, le doy a kase
 
-## RESPUESTA 2 (T1623)
+## RESPUESTA 1 (T1623)
 
 > ehh, le doy a kase
 
@@ -109,11 +52,11 @@ Goten levanta la cara del pelo de Kase y te mira, con los ojos brillantes, sin s
 
 ---
 
-## COMANDO 3 (T1624)
+## COMANDO 2 (T1624)
 
 no puedo enseñarte eso goten
 
-## RESPUESTA 3 (T1624)
+## RESPUESTA 2 (T1624)
 
 > no puedo enseñarte eso goten
 
@@ -164,4 +107,59 @@ Levanta la cara, y ya se le olvidó la tristeza. Tiene los ojos brillando otra v
 
 ---
 
-ESTADO AL CIERRE: Goten acepta que el punto negro no se puede enseñar. "¡Entonces enséñame otra cosa! ¡Así le gano a Trunks!" Facundo puede contestar.
+## COMANDO 3 (T1625)
+
+no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
+
+## RESPUESTA 3 (T1625)
+
+> no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
+
+> —No. Ya te enseñé una cosa solo a ti. Si te enseño algo nuevo, también se lo enseño a Trunks.
+
+—¿A Trunks también? —Goten abre la boca, indignado—. ¡Pero entonces no le gano!
+
+—Eso es justo, Goten —dice Goku, rascándose la nuca—. La Bola Giratoria es tuya y nada más. Trunks estuvo muy enojado una semana por eso.
+
+—¡Tres días!
+
+—Una semana. Bulma me contó que rompió la cámara de gravedad.
+
+Goten se queda callado. Frunce la nariz, pensativo, con la cara apoyada en la cabeza de Kase, que ya tiene la expresión de un gato que perdió toda esperanza.
+
+Se le nota que está haciendo cuentas, muy en serio, como hacen los chicos de siete años.
+
+—Bueno... —dice, despacio—. Si le enseñas a Trunks, Trunks lo va a hacer. Y si yo también lo hago, lo hacemos juntos.
+
+Se le van abriendo los ojos.
+
+—Y si lo hacemos juntos... ¡Y nos fusionamos! —Da un salto, con Kase en brazos, que se balancea como una bolsa—. ¡Gotenks lo puede hacer el doble de fuerte! ¡Papá! ¡Gotenks!
+
+—¡Ah, sí, eso es cierto! —Goku se ríe—. ¡Qué buena idea, Goten!
+
+Goten te mira, con la cara roja de emoción y Kase colgándole de los brazos.
+
+—¡Está bien! ¡A los dos! —Se da vuelta hacia el cielo, buscando—. Pero Trunks está en el parque con su papá. Hasta la noche no vuelve.
+
+Vuelve a mirarte, con los ojos enormes.
+
+—¿Lo esperamos? ¿O vamos al parque a buscarlo? ¡El parque tiene una montaña rusa enorme! ¡Y algodón de azúcar!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1625 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en brazos de Goten (sin esperanza)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Técnica nueva: para Goten y Trunks juntos (Goten sueña con Gotenks). Trunks en el parque con Vegeta. Goten: "¿Lo esperamos? ¿O vamos al parque a buscarlo?" Facundo puede decidir.

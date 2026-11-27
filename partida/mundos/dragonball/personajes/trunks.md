@@ -15,3 +15,4 @@ ESTADO: activo
 - T1547 · Persigue a Facundo por los pasillos pidiendo la técnica de Goten; Bulma lo manda a hacer la tarea.
 - T1614 · Brazos cruzados como su papá: "Papá. Hoy es sábado." (parque de diversiones).
 - T1615 · Se ríe por lo bajo de Facundo mientras se va al parque con Vegeta.
+- T1625 · (según Goku, por Bulma) estuvo una semana enojado por la Bola Giratoria de Goten; rompió la cámara de gravedad. Hoy en el parque con Vegeta.
