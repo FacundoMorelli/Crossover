@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1507)
-
-me transformó en mi transformación
-
-## RESPUESTA 1 (T1507)
-
-> me transformó en mi transformación
-
-Cierras los ojos.
-
-No gritas. No hace falta. El ki sube desde algún lugar muy hondo, despacio al principio, como el agua que llena un pozo, y después de golpe.
-
-El pelo se te levanta. Blanco y azul, brillante, erguido, como si alguien te hubiera prendido fuego desde abajo. Alrededor del cuerpo te estalla un aura de llamas blancas y azules, que no queman pero rugen, altas, retorcidas, del doble de tu altura. Cuando abres los ojos, el rojo y el azul brillan como brasas en la cara.
-
-Forma Cenit.
-
-La meseta no aguanta.
-
-El suelo bajo tus botas se hunde un palmo y se agrieta en una estrella de líneas que corren hasta los bordes. Las piedras sueltas del páramo, todas, en todo lo que alcanza la vista, se levantan del suelo y se quedan flotando a la altura de las rodillas, temblando. El polvo sube en espiral alrededor de ti y forma un remolino que llega hasta el cielo. Una meseta vecina, más chica, se parte en dos por el medio y la mitad se desliza, despacio, con un ruido de trueno largo, hasta el fondo del cañón.
-
-El viento se va. No sopla más. Como si el aire no se animara a moverse cerca tuyo.
-
-Kase, en el borde de la meseta, ni se inmuta. Las llamas blancas y azules le iluminan el pelo largo de dos colores, igual al tuyo. Bosteza.
-
-Goku no se mueve.
-
-Está a diez pasos, con las manos todavía en la cintura y la boca abierta. Las piedras flotan alrededor de él también. El pelo negro se le mueve hacia atrás, aunque no haya viento. Te mira de arriba abajo, despacio, como no miró nunca a nadie.
-
-—No te siento —dice, muy bajo—. Sigo sin sentirte nada. Ni un poco. —Se ríe, nervioso, sin sonido—. Pero lo veo. El suelo, las piedras... la montaña esa se cayó sola.
-
-Traga saliva. Aprieta los puños.
-
-Y se le arma la sonrisa. No la de chico. Otra. La que pone cuando encuentra algo más alto que él.
-
-—Esto es más que hace tres años —dice—. Mucho más. —Se pone en guardia, piernas abiertas, puños adelante—. ¡Ja! ¡Me tiemblan las piernas! ¡Hace años que no me temblaban las piernas!
-
-Grita. Se transforma de una vez, sin pasos: Super Saiyajin 3, el pelo dorado hasta la cintura, el aura en llamas.
-
-Al lado de la tuya, parece una vela al lado de una fogata.
-
-—¡Vamos! —grita—. ¡No te contengas tanto esta vez! ¡Solo un poquito menos!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1507 · DRAGON BALL · AÑO 777 · 10:17   ║
-║ Páramo de entrenamiento · meseta             ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ FORMA CENIT (x10 · 45 min)                   ║
-║ Velo: persona común (el ki no se siente)     ║
-║ Kase: en el borde de la meseta, bostezando   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Goku                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1508)
+## COMANDO 1 (T1508)
 
 esta bien, peleó con goku y no me contengo tanto
 
-## RESPUESTA 2 (T1508)
+## RESPUESTA 1 (T1508)
 
 > esta bien, peleó con goku y no me contengo tanto
 
@@ -141,11 +82,11 @@ Se queda mirando el cielo, tirado en la roca, con los brazos abiertos.
 
 ---
 
-## COMANDO 3 (T1509)
+## COMANDO 2 (T1509)
 
 me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
 
-## RESPUESTA 3 (T1509)
+## RESPUESTA 2 (T1509)
 
 > me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
 
@@ -198,4 +139,61 @@ Señala su propia cara.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, día 2, 10:32, páramo. Facundo deshizo la Forma Cenit (energía 66%); Velo con ki muy bajo. Goku prometió no decir nada a nadie. Pregunta qué le dice a Milk de su cara. Facundo puede responder.
+## COMANDO 3 (T1510)
+
+le doy una semilla del ermitaño
+
+## RESPUESTA 3 (T1510)
+
+> le doy una semilla del ermitaño
+
+Sacas una semilla del ermitaño del inventario y se la pones a Goku en la palma.
+
+Goku la mira. Se le ilumina la cara entera, con ojo morado y todo.
+
+—¡Una semilla! ¿De dónde la sacaste? Karin casi no tiene...
+
+No espera la respuesta. Se la mete en la boca y la mastica, con un crujido.
+
+El cuerpo se le arregla de golpe, como si alguien rebobinara la pelea. El ojo morado se le deshincha y se le aclara. El corte de la boca se cierra. Los raspones de las rodillas desaparecen. Se endereza de un salto, con un ruido de huesos que se acomodan, y se queda parado en la meseta con la camiseta todavía hecha jirones, pero sano. Entero. Con toda la energía de vuelta.
+
+Se mira las manos. Abre y cierra los puños.
+
+Y se queda quieto.
+
+—Oye... —dice, despacio—. Me siento más fuerte que antes de pelear.
+
+Lo dice como quien descubre algo que ya sabía. Se ríe.
+
+—¡Ja! ¡Es lo de los saiyajin! Cuando te dan una paliza de verdad y te curas, vuelves más fuerte. ¡Vegeta siempre se pone furioso cuando le pasa a él y no a mí!
+
+Se estira. Salta en el lugar. Lanza dos golpes al aire, rápidos, que levantan polvo.
+
+Después se mira la camiseta, rota de arriba abajo, colgando en tiras.
+
+—Bueno. La cara ya está. —Se rasca la nuca—. La camiseta... le digo a Milk que fue un oso.
+
+Kase, desde la roca, lo mira con una cara que dice, claramente, que nadie va a creer eso.
+
+Goku se da vuelta hacia ti. Ya no tiene las piernas temblando. Tiene otra vez los ojos encendidos, la sonrisa grande, las ganas de siempre.
+
+—Son las diez y media —dice—. ¿Seguimos? ¡Pero esta vez no te transformes! ¡Quiero ver cuánto me falta sin eso!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1510 · DRAGON BALL · AÑO 777 · 10:34   ║
+║ Páramo de entrenamiento · meseta             ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 66% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la roca, escéptico                  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Goku · fiesta de      ║
+║ Bulma el sábado                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, día 2, 10:34, páramo. Goku curado con una semilla y más fuerte (zenkai). Propone seguir entrenando sin que Facundo se transforme. Facundo puede responder.

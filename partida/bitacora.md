@@ -1508,3 +1508,4 @@ T1506 · DRAGON BALL · Páramo de entrenamiento · Vuelan al páramo. Goku pide
 T1507 · DRAGON BALL · Páramo · Forma Cenit (x10): el páramo tiembla, una meseta cae. Goku: "No te siento, pero lo veo." Pasa a SSJ3: "¡No te contengas tanto esta vez!"
 T1508 · DRAGON BALL · Páramo · Duelo en Forma Cenit sin contenerse tanto: Goku SSJ3 desmayado de un golpecito en la frente. "Quiero llegar ahí. A donde estás tú." +25.000 F, +6.000 EXP.
 T1509 · DRAGON BALL · Páramo · Deshace la Forma Cenit. Velo: ki muy bajo. Goku promete no decir nada de él a nadie ("Palabra"). "¿Qué le digo a Milk de esto?"
+T1510 · DRAGON BALL · Páramo · Semilla del ermitaño a Goku (quedan 24): sano y más fuerte (zenkai). "¿Seguimos? Esta vez no te transformes."

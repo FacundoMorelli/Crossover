@@ -16,3 +16,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T226 · Facundo destruye al Buu malo (la esencia original de Majin Buu) con el Eclipse. No hay Super Buu, ni absorciones, ni Kid Buu, ni destrucción de la Tierra. Vegeta no se autodestruye. El Buu gordo sigue, bueno, con Mr. Satán y Bee.
 - T257 · Facundo mata a Dabura en el Mundo de los Demonios. Piccolo y Krilin vuelven a ser de carne (día 4). En el canon, volvían cuando Buu mataba a Dabura.
 - T275 · Videl, entrenada por Facundo (días 5-9), mucho más fuerte que en el canon a esta altura.
+- T1510 · Goku recibe un zenkai (paliza de Facundo + semilla): un poco más fuerte que en el canon antes de Bills.

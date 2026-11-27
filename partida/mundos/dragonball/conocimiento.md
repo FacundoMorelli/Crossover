@@ -88,3 +88,4 @@
 - Goku · T1508 · Siente en el cuerpo la diferencia con la Forma Cenit sin contención (golpe de dedo lo desmaya). Sigue sin sentirle el ki.
 - Goku · T1509 · Por Facundo: no debe mencionar nunca su fuerza a nadie que venga; desde ahora Facundo muestra un ki muy bajo (Goku lo siente: menos que Krilin). PROMETIÓ no contarlo (ni a Vegeta ni a Kaio-sama).
 - TODOS en Dragon Ball desde T1509 · Si sienten el ki de Facundo, sienten un hilo muy bajo (Velo).
+- Goku · T1510 · Recibe de Facundo una semilla del ermitaño (pregunta de dónde la saca; no espera respuesta).
