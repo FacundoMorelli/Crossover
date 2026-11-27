@@ -1515,3 +1515,4 @@ T1513 · DRAGON BALL · Crucero · Se presenta a Bulma (lo vio en la tele en el 
 T1514 · DRAGON BALL · Crucero · Goten muestra la Bola Giratoria: tromba de agua [corregido en T1515: nadie se mojó]. Vegeta sospecha. Trunks: "¡Enséñame a mí también!"
 T1515 · DRAGON BALL · Crucero · CORRECCIÓN: Facundo cubrió el barco con una línea invisible de Sakaime; el agua resbaló sobre nada y cayó al mar. Todos lo vieron; Vegeta sabe que no fue Goten.
 T1516 · DRAGON BALL · Crucero · A Trunks: "por ahora no, no sería justo." Trunks: "después sí". Vegeta en la baranda: "¿Kakarotto entrenó contigo estos días?"
+T1517 · DRAGON BALL · Crucero · Vegeta, celoso de Goku, exige entrenar mañana. Kaio-sama le avisa por telepatía que Bills viene a la Tierra. Vegeta, pálido.

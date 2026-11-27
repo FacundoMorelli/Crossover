@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1514)
-
-esta bien goten
-
-## RESPUESTA 1 (T1514)
-
-> esta bien goten
-
-> —Está bien, Goten.
-
-Goten no espera ni medio segundo.
-
-Agarra a Trunks de la manga y lo arrastra hasta la baranda de la cubierta, del lado del mar, lejos de las mesas. Trunks va de mala gana, con los brazos cruzados, poniendo los ojos en blanco. Kase te salta del hombro a la baranda para ver mejor.
-
-Goten se para frente al mar. Respira hondo. Estira el brazo derecho con la palma hacia arriba. Y con la otra mano, por encima, sin tocarla, como le enseñaste, empieza a mover el ki.
-
-En la palma aparece una lucecita amarilla. Chiquita. Una chispa.
-
-Trunks resopla.
-
-—Eso es una bola de ki. Yo hago bolas de ki desde los cuatro años.
-
-—¡Espera!
-
-La chispa empieza a girar. Primero despacio. Después más rápido. Después en todas las direcciones a la vez, hasta que ya no es una bola quieta sino un remolino de luz amarilla del tamaño de una naranja, que zumba en la palma de Goten como un enjambre de abejas furiosas y le despeina el pelo con el viento que levanta.
-
-Trunks descruza los brazos.
-
-—¿Qué...?
-
-—¡LA BOLA GIRATORIA GOTEN! —grita Goten.
-
-Y la tira al mar.
-
-La bola toca el agua a veinte metros del barco y no explota: se hunde, girando, abriendo un agujero en el mar. Un segundo de silencio. Y después el agua sale disparada hacia arriba en una columna enorme, retorcida, que sube veinte, treinta metros, girando como un tornado, antes de deshacerse en una lluvia salada que cae sobre la cubierta entera.
-
-Sobre las mesas. Sobre los invitados. Sobre la torta de cumpleaños de Bulma, que tiene cinco pisos.
-
-En la cubierta se hace un silencio total.
-
-Trunks está con la boca abierta y el pelo lila empapado. Goten, empapado también, salta con los brazos en alto, riéndose como un loco.
-
-—¡¿VISTE?! ¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!
-
-Desde las mesas, varias cabezas se dan vuelta al mismo tiempo. Gohan, con los anteojos mojados, se los saca y se queda mirando el agua. Krilin deja de comer. Piccolo, en la proa, abre un ojo. Goku se ríe a carcajadas, con la boca llena.
-
-Vegeta, en la baranda de enfrente, mojado de pies a cabeza, no se ríe. Mira el agujero que todavía gira en el mar. Mira a Goten. Te mira a ti. Entrecierra los ojos.
-
-—¡GOTEN! —chilla Milk.
-
-—¡MI TORTAAAA! —chilla Bulma.
-
-Trunks se da vuelta hacia ti, chorreando agua, con los ojos enormes. Ya no tiene cara de chico listo. Tiene cara de chico que acaba de ver algo que quiere.
-
-—Tú le enseñaste eso. —No es una pregunta—. ¡Enséñame a mí también! ¡Ahora! ¡Mejor que a él!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1514 · DRAGON BALL · SÁBADO · 12:10    ║
-║ Crucero de Bulma · baranda de la cubierta    ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mojado e indignado      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
-║ hoy)                                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1515)
+## COMANDO 1 (T1515)
 
 hace que haya cubierto a todos para que no se moje nada
 
-## RESPUESTA 2 (T1515)
+## RESPUESTA 1 (T1515)
 
 > hace que haya cubierto a todos para que no se moje nada
 
@@ -137,11 +64,11 @@ Trunks se da vuelta hacia ti, con los ojos enormes. Ya no tiene cara de chico li
 
 ---
 
-## COMANDO 3 (T1516)
+## COMANDO 2 (T1516)
 
 no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
 
-## RESPUESTA 3 (T1516)
+## RESPUESTA 2 (T1516)
 
 > no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
 
@@ -196,4 +123,62 @@ Por fin te mira. Los ojos negros, encendidos.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:14, crucero. Trunks se fue con Goten. Vegeta, en la baranda: "¿Kakarotto entrenó contigo estos días?" Facundo puede responder.
+## COMANDO 3 (T1517)
+
+si
+
+## RESPUESTA 3 (T1517)
+
+> si
+
+> —Sí.
+
+Vegeta no dice nada.
+
+Se le aprieta la mandíbula todavía más. Aprieta los dedos sobre los brazos cruzados hasta que la tela de la camisa rosada cruje. Mira el mar. Respira por la nariz, una vez, larga, como un toro antes de embestir.
+
+—Lo sabía. —Lo dice entre dientes—. Volvió del Otro Mundo con otra cara. Esa cara de idiota feliz que pone cuando encuentra a alguien más fuerte que él. —Se da vuelta hacia ti de golpe—. ¡Siempre él! ¡Siempre Kakarotto primero! ¡El Super Saiyajin, la Teletransportación, el Super Saiyajin 3, y ahora tú! ¡Hace tres años entrenaste con él, y ahora otra vez...!
+
+Te clava un dedo en el pecho.
+
+—Mañana. En mi cámara de gravedad. A las seis de la mañana. Vas a entrenar conmigo, y vas a dejar de esconder ese ki ridículo, y vas a pelear de verdad, y me vas a mostrar lo que le mostraste a él. Y después...
+
+Se calla.
+
+De golpe. En la mitad de la frase. El dedo se le queda apoyado en tu pecho.
+
+Se le pone la cara rara. Los ojos se le van hacia arriba, hacia un costado, como cuando alguien oye una voz que viene de adentro de la cabeza. Se lleva dos dedos a la sien.
+
+—¿Kaio-sama? —murmura—. ¿Qué quiere ahora? Estoy en una fiesta, no tengo tiempo para...
+
+Se queda quieto. Escuchando.
+
+Y le cambia la cara. Por completo. El enojo se le va, el orgullo también. Lo que queda es algo que nunca le habías visto: Vegeta, el príncipe de los saiyajin, pálido como un papel, con los ojos muy abiertos y una gota de sudor que le baja por la sien.
+
+—¿Bills? —dice, casi sin voz—. ¿Bills-sama? ¿Aquí? ¿A la Tierra?
+
+Baja la mano de la sien despacio. Mira el cielo, alrededor, como si el cielo se fuera a romper.
+
+—Ese gato... —susurra—. No. No, no, no.
+
+Alrededor de ustedes la fiesta sigue: la música, las risas, Goten y Trunks peleando por una cuchara, Buu tarareando con la boca llena de pudín, Goku comiendo como si el mundo no tuviera fin. Nadie más oyó nada.
+
+Kase, en la baranda, levanta la cabeza. Gira las orejas hacia el cielo. No ve nada. Pero se le eriza el pelo de la cola.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1517 · DRAGON BALL · SÁBADO · 12:16    ║
+║ Crucero de Bulma · baranda de la cubierta    ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, con la cola erizada     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills viene a la Tierra            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:16, crucero. Vegeta exigía entrenar mañana; Kaio-sama le avisó que Bills viene a la Tierra. Vegeta pálido. La fiesta sigue sin saber nada. Facundo puede actuar.

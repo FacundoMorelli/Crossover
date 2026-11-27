@@ -101,3 +101,4 @@
 - Todos los del crucero · T1515 · Ven el agua de la tromba resbalar sobre un techo invisible encima del barco y caer al mar (Sakaime invisible). No ven a Facundo trazar la línea. Bulma cree que es parte del truco de Goten. Vegeta, Piccolo, Gohan y Goku sospechan (Goku sabe) que fue Facundo.
 - Vegeta · T1516 · Deduce que Facundo paró el agua y que le enseñó la técnica a Goten; sospecha que Goku entrenó con él.
 - Trunks · T1516 · Por Facundo: quizás le enseñe una técnica después.
+- Vegeta · T1517 · Por Kaio-sama (telepatía): Bills va a la Tierra. Nadie más lo oyó. Facundo vio la reacción de Vegeta y lo oyó murmurar.
