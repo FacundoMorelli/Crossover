@@ -4,3 +4,4 @@ DESCRIPCIÓN: casa de dos pisos, blanca, techo rojo, jardincito con un rosal des
 QUIÉN VIVE: Erasa y su mamá (el papá viaja por trabajo).
 VISITAS DE FACUNDO:
 - T1654 · 23:31 · La deja en la puerta en el aerodeslizador de Bulma. Luz del living encendida; la cortina se movió una vez.
+- T1655 · 23:33 · Primer beso en el aerodeslizador frente a la vereda. Se enciende una luz en el segundo piso.

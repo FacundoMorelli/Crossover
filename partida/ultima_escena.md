@@ -3,57 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1652)
-
-no lo se, creo que en unos dias, tengo nuevos lugares que conocer
-
-## RESPUESTA 1 (T1652)
-
-> no lo se, creo que en unos dias, tengo nuevos lugares que conocer
-
-> —No lo sé. Creo que en unos días. Tengo nuevos lugares que conocer.
-
-Erasa no levanta la cabeza de tu hombro.
-
-—Unos días —repite, bajito.
-
-El pulgar se le queda quieto sobre tu mano un segundo. Después sigue, despacio, como antes.
-
-—Está bien. —Lo dice de verdad, sin ponerse triste, o casi—. Ya te dije que no te iba a pedir que te quedes. Y además, si me dijeras "me quedo para siempre", me asustaría. Nos conocemos hace tres horas. —Se ríe contra tu camisa—. Tres horas y media.
-
-Pasan por delante de la plaza de los columpios otra vez. Es la segunda vuelta. Ninguno de los dos dice nada al respecto.
-
-—Nuevos lugares —dice ella, mirando la fuente apagada—. Qué envidia. Yo nunca conocí ninguno. Ni uno. Toda mi vida acá, en esta ciudad, entre el parque, la preparatoria y la heladería. —Suspira—. Y de golpe aparece un chico con los ojos de dos colores y un gato gigante, que viene de islas de hielo y de volcán, que no tiene frío nunca, que le corta la torta a un dios... y se va en unos días a un lugar nuevo.
-
-Levanta la cabeza, por fin. Te mira de cerca, con la mejilla un poco marcada por la costura de tu camisa y los ojos celestes brillando con la luz de los faroles.
-
-—Entonces no hay que perder ninguno, ¿no? De esos días, digo. —Se muerde el labio—. Mañana es domingo. No tengo nada que hacer. Bueno, tenía que ayudar a mi mamá a ordenar el garaje, pero eso puede esperar diez años más.
-
-Te aprieta la mano.
-
-—¿Tú tienes algo que hacer mañana? Además de devolverle el auto a Bulma.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1652 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calles al costado del parque central · 23:18 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1653)
+## COMANDO 1 (T1653)
 
 nada, bueno algo si... salir contigo
 
-## RESPUESTA 2 (T1653)
+## RESPUESTA 1 (T1653)
 
 > nada, bueno algo si... salir contigo
 
@@ -97,11 +51,11 @@ Cuenta con los dedos de la mano libre, que asoma apenas de la manga.
 
 ---
 
-## COMANDO 3 (T1654)
+## COMANDO 2 (T1654)
 
 a la hora que quieras y te paso a buscar
 
-## RESPUESTA 3 (T1654)
+## RESPUESTA 2 (T1654)
 
 > a la hora que quieras y te paso a buscar
 
@@ -143,4 +97,58 @@ No suelta tu mano. Con la otra, la que asoma de la manga, empieza a desabrochars
 
 ---
 
-ESTADO AL CIERRE: 23:31, frente a la casa de Erasa (Calle de los Tilos 14: dos pisos, rosal, bicicleta rosa, buzón amarillo con forma de pato, ojo despintado). Luz del living encendida; la cortina se movió una vez (la mamá). Cita mañana a las 11 en punto (si no está lista, él espera cinco minutos sin decir nada). Erasa sigue sentada, de la mano: "Bueno. Llegamos." Empieza a desabrocharse el primer botón del sobretodo, muy despacio.
+## COMANDO 3 (T1655)
+
+le agarro de la cara con las dos manos y le doy un beso, quedatelo
+
+## RESPUESTA 3 (T1655)
+
+> le agarro de la cara con las dos manos y le doy un beso, quedatelo
+
+> —Quédatelo.
+
+Le sueltas la mano y le tomas la cara con las dos.
+
+Erasa se queda con los dedos quietos sobre el primer botón. Tiene las mejillas tibias, todavía rojas, y los ojos celestes muy abiertos, mirándote desde adentro del cuello negro del sobretodo. Abre la boca para decir algo.
+
+No llega a decirlo.
+
+La besas.
+
+Por un segundo no se mueve. Después suelta el botón. La mano se le pierde otra vez dentro de la manga y te agarra de la camisa, a la altura del pecho, y te tira un poco hacia ella. Cierra los ojos. Te devuelve el beso, despacio, como si tuviera miedo de que se terminara.
+
+La torta envuelta se le resbala de las rodillas y cae al piso del aerodeslizador con un ruido blando. Ninguno de los dos la mira.
+
+Cuando te separas, ella se queda con los ojos cerrados un momento más. Respira por la boca. Los abre despacio.
+
+—Ah —dice. Solo eso.
+
+Te sigue agarrando de la camisa. Te mira la boca, después los ojos, primero el rojo y después el azul, como si estuviera comprobando que eres el mismo de hace un minuto.
+
+—Que me lo quede —repite, muy bajito, y se mira el sobretodo, después a ti otra vez—. El sobretodo. Me dijiste que me lo quede.
+
+Se le escapa una risa temblorosa, por la nariz, y se tapa la boca con la manga.
+
+—Perdón. Es que... tú haces todo así. Así, de golpe, como si nada. —Te suelta la camisa y la vuelve a agarrar enseguida, como si se hubiera arrepentido de soltarla—. Me vas a volver loca en unos días, Facundo Morelli.
+
+En el segundo piso de la casa se enciende una luz.
+
+Erasa ni la ve. Sigue mirándote a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1655 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calle de los Tilos 14, casa de Erasa · 23:33 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Despedir a Erasa                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 23:33, frente a Calle de los Tilos 14, en el aerodeslizador. PRIMER BESO con Erasa (ella lo devolvió, agarrada de su camisa). Le regaló el sobretodo ("Quédatelo"). La torta cayó al piso del aerodeslizador. Erasa: "Ah." "Me vas a volver loca en unos días, Facundo Morelli." Se encendió una luz en el segundo piso; ella no la vio. Sigue agarrada de su camisa, mirándolo.
