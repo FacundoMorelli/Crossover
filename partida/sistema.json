@@ -1,8 +1,8 @@
 {
-  "turno": 1647,
+  "turno": 1648,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, sábado, 22:43 (Tierra)",
+  "hora": "año 778, sábado, 22:44 (Tierra)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
@@ -679,9 +679,9 @@
       "detalle": "T1569, igual al suyo, \"por cortesía de la casa\". En la mesita."
     },
     {
-      "objeto": "Ropa de siempre (sobretodo negro, camisa negra, borceguíes)",
+      "objeto": "Ropa de siempre (camisa negra, borceguíes)",
       "cantidad": 1,
-      "detalle": "Guardada en T1617 al cambiarse para la cena con Erasa (rehecha por Whis en T1591)."
+      "detalle": "Guardada en T1617 al cambiarse para la cena con Erasa (rehecha por Whis en T1591). T1648: el sobretodo negro de siempre salió del inventario (se lo puso a Erasa en el aerodeslizador)."
     }
   ],
   "copias": [

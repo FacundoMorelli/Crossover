@@ -1646,3 +1646,4 @@ T1644 · DRAGON BALL · Corporación Cápsula · "No hay que tener miedo." Bills
 T1645 · DRAGON BALL · Corporación Cápsula · Le dice a Erasa que la torta está muy rica. Erasa prueba de su plato. La cena termina. 22:30: Erasa se tiene que ir; Bulma: "Facundo te acompaña a tu casa."
 T1646 · DRAGON BALL · Corporación Cápsula · "Sí, yo la acompaño." Bulma le presta la cápsula 7 (aerodeslizador). Despedidas. Portón: Erasa: "¿Tú sabes manejar esas cosas?"
 T1647 · DRAGON BALL · Corporación Cápsula · "Sí, sé bien." Abre el aerodeslizador de Bulma y sube. Erasa: Calle de los Tilos 14. Tiembla de frío: "Esto no tiene techo, ¿no?"
+T1648 · DRAGON BALL · aerodeslizador · Le pone el sobretodo a Erasa. "Está calentito. Eso. Nada más." "¿Y tú? Se te nota que no tienes frío nunca."
