@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1650)
-
-arranco para la casa de erasa
-
-## RESPUESTA 1 (T1650)
-
-> arranco para la casa de erasa
-
-Pisas el acelerador.
-
-El aerodeslizador se levanta un metro más, gira sobre sí mismo sin hacer ruido y sale disparado colina abajo, alejándose del portón. Por el espejo, la luz de la cocina de la Corporación Cápsula se hace chiquita. Una cabeza de pelo turquesa vuelve a asomarse por la ventana, ya sin disimulo, y saluda con un plato.
-
-Erasa se ríe tapada con las mangas.
-
-La Capital del Oeste se abre debajo de ustedes. Avenidas anchas con autos flotando en dos alturas, edificios redondos con las ventanas encendidas, carteles de neón que cambian de color, un tren elevado que pasa en silencio por encima de una plaza. El aire de la noche les pega en la cara, frío y limpio, y huele a lluvia lejana y a algo frito de algún puesto de la calle.
-
-Kase saca la cabeza del hueco de atrás, entrecierra los ojos contra el viento, y la vuelve a meter.
-
-Erasa va señalando cosas con la manga vacía, sin parar de hablar, más bajo que en la cena. Ahí está la preparatoria Estrella Naranja, donde conoció a Videl y a Gohan. Ahí, la heladería de la foto. Ahí, la esquina donde una vez se cayó de la bicicleta delante de un chico que le gustaba, "y no lo superé nunca". Cada tanto se da vuelta en el asiento para mirarte manejar, y cuando la miras, mira para adelante.
-
-Después de unos minutos aparece el parque central: una mancha oscura y enorme en medio de las luces, con árboles altos, un lago redondo que refleja la luna y faroles amarillos en los caminos. Del otro lado, entre las copas, ya se ven los techos bajos de un barrio de casas.
-
-Erasa deja de hablar.
-
-Mira los techos. Mira el reloj del tablero. Se muerde el labio, con la cara medio hundida en el cuello del sobretodo.
-
-—Oye... —dice al final, sin mirarte—. ¿Este aparato puede ir más despacio?
-
-Se encoge de hombros adentro de la tela negra.
-
-—No es por miedo, eh. Manejas bien. Es que... del otro lado del parque ya está mi casa. —Una pausa—. Y es temprano. Bueno, no es temprano. Pero es temprano.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1650 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Sobre el parque central · 22:56              ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1651)
+## COMANDO 1 (T1651)
 
 le agarro una mano y voy despacio y me meto por otras calles
 
-## RESPUESTA 2 (T1651)
+## RESPUESTA 1 (T1651)
 
 > le agarro una mano y voy despacio y me meto por otras calles
 
@@ -103,11 +55,11 @@ Se queda callada otro poco. Con el pulgar, te acaricia el dorso de la mano, desp
 
 ---
 
-## COMANDO 3 (T1652)
+## COMANDO 2 (T1652)
 
 no lo se, creo que en unos dias, tengo nuevos lugares que conocer
 
-## RESPUESTA 3 (T1652)
+## RESPUESTA 2 (T1652)
 
 > no lo se, creo que en unos dias, tengo nuevos lugares que conocer
 
@@ -149,4 +101,52 @@ Te aprieta la mano.
 
 ---
 
-ESTADO AL CIERRE: 23:18, aerodeslizador, segunda vuelta por las calles del parque central, de la mano. Erasa sabe que Facundo se va "en unos días" a lugares nuevos; lo acepta. "Entonces no hay que perder ninguno de esos días." Mañana es domingo y está libre (garaje de su mamá "puede esperar diez años"). Pregunta: "¿Tú tienes algo que hacer mañana? Además de devolverle el auto a Bulma."
+## COMANDO 3 (T1653)
+
+nada, bueno algo si... salir contigo
+
+## RESPUESTA 3 (T1653)
+
+> nada, bueno algo si... salir contigo
+
+> —Nada. Bueno, algo sí... Salir contigo.
+
+Erasa se queda mirándote con la boca entreabierta.
+
+Un segundo. Dos.
+
+Después se pone roja de golpe, desde el cuello del sobretodo hasta la raíz de los rulos, y hunde la cara entera en la tela negra. Del sobretodo sale un ruido ahogado, entre un chillido y una risa.
+
+—Eres imposible —dice, sin sacar la cara—. Eres im-po-si-ble. Nadie dice esas cosas así, tan tranquilo. Nadie.
+
+Saca un ojo. Te mira. Lo vuelve a esconder.
+
+No te suelta la mano. Te la aprieta más fuerte.
+
+El aerodeslizador sigue flotando despacio por la calle de los faroles. El viejo del perro salchicha, que ya los vio pasar dos veces, se queda parado en la vereda, con la correa en la mano, y los sigue con la mirada, meneando la cabeza con una sonrisa.
+
+Erasa por fin saca la cara. Respira hondo, como antes de cortar la torta, y se acomoda en el asiento muy derecha, muy digna, con las mejillas todavía encendidas.
+
+—Bueno. —Carraspea—. Sí. Acepto. Obviamente acepto. —Se ríe sola—. Pero esta vez elijo yo adónde vamos, porque tú ya conociste islas de hielo y volcanes, y yo nunca conocí nada, así que te voy a mostrar lo mejor de la Capital del Oeste, que no es mucho, pero es mío.
+
+Cuenta con los dedos de la mano libre, que asoma apenas de la manga.
+
+—Hay un lugar de panqueques que es el mejor del mundo. Bueno, de la ciudad. Bueno, de este barrio. Y hay un mirador arriba de la torre de la estación, que se ve todo. Y el lago del parque, que tiene botes con forma de cisne, que son horribles, pero son lindos. —Te mira de costado—. ¿Me pasas a buscar? ¿A qué hora?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1653 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calles al costado del parque central · 23:22 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Acompañar a Erasa a su casa        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 23:22, aerodeslizador, calles del parque central, de la mano. Facundo la invitó a salir mañana (domingo). Erasa acepta: "Eres imposible." Elige ella: panqueques del barrio, mirador de la torre de la estación, botes-cisne del lago del parque. Pregunta: "¿Me pasas a buscar? ¿A qué hora?"

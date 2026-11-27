@@ -1651,3 +1651,4 @@ T1649 · DRAGON BALL · aerodeslizador · "No tengo frío." Erasa: "¿Hay algo q
 T1650 · DRAGON BALL · Capital del Oeste · Arranca hacia la casa de Erasa. Vuelo nocturno; Erasa le muestra su ciudad. Sobre el parque central: "¿Este aparato puede ir más despacio?... es temprano."
 T1651 · DRAGON BALL · Capital del Oeste · Le toma la mano y da vueltas despacio por otras calles. Erasa, cabeza en su hombro: "Ya sé que sabes. No digas nada." "¿Cuándo te vas?"
 T1652 · DRAGON BALL · Capital del Oeste · "Creo que en unos días. Tengo nuevos lugares que conocer." Erasa: "Entonces no hay que perder ninguno." "¿Tú tienes algo que hacer mañana?"
+T1653 · DRAGON BALL · Capital del Oeste · "Salir contigo." Erasa: "Eres imposible." Acepta: panqueques, mirador, botes-cisne. "¿Me pasas a buscar? ¿A qué hora?"
