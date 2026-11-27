@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1565)
-
-lo detengo con los dedos
-
-## RESPUESTA 1 (T1565)
-
-> lo detengo con los dedos
-
-Levantas la mano. Dos dedos. El índice y el medio.
-
-El puño de Vegeta llega.
-
-Y se para.
-
-Contra la punta de tus dos dedos, en seco, como contra la pared de una montaña. No hay ruido. El azul no hace ruido. Pero la fuerza que traía ese golpe tiene que ir a algún lado, y se va hacia abajo, por tu cuerpo, por tus piernas, por tus botas, hasta el suelo. El suelo reforzado de Whis, el de las venas de luz, se hunde otra vez debajo de ti en un cráter de dos metros, limpio, redondo. Las venas de luz se apagan en todo el círculo. Se quedan apagadas.
-
-Tú no te moviste. Ni los dedos.
-
-Vegeta se queda congelado en el aire, con el brazo estirado y el puño apoyado en tus dedos. La rodilla que venía detrás se le frena a mitad de camino, sola, sin que nadie la pare, como si el cuerpo se hubiera dado cuenta antes que él de que no tenía sentido. La luz azul de la palma izquierda le sigue chisporroteando entre los dedos, sin soltarse.
-
-Te mira. A los dedos. A la cara. Otra vez a los dedos.
-
-Tiene los ojos celestes muy abiertos. El aura azul le tiembla en los bordes, como la llama de una vela cuando se abre una puerta.
-
-En el borde de la explanada, Goku se tapa la boca con las dos manos. Kase, al lado de la silla de Whis, mueve la cola una sola vez.
-
-Whis no se mueve. Sigue mirando, con el pañuelo todavía en la mano.
-
-Vegeta retira el puño. Despacio. Da un paso atrás. Otro. Se mira la mano, abierta, como si fuera de otra persona. Le tiembla.
-
-Y después aprieta los dientes hasta que le rechinan.
-
-—No. —Lo dice muy bajo—. No.
-
-La luz azul de la palma izquierda le crece de golpe. Se le junta con la derecha. Las dos manos adelante, abiertas, una encima de la otra, y en el medio una luz azul que se hace más grande, más brillante, que le ilumina la cara desde abajo y le pinta las lágrimas de rabia que no termina de largar.
-
-—¡FINAL...!
-
-Esta vez no a cinco pasos. A uno.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1565 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada de entrenamiento · amanecer        ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ SUPER SAIYAJIN BLUE (x2.000)                 ║
-║ Velo: el ki divino no se siente              ║
-║ Kase: junto a la silla de Whis, mirando      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Vegeta (SSJ Blue)        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1566)
+## COMANDO 1 (T1566)
 
 dejo que me lo pegue
 
-## RESPUESTA 2 (T1566)
+## RESPUESTA 1 (T1566)
 
 > dejo que me lo pegue
 
@@ -129,11 +72,11 @@ Se queda así, de rodillas, riéndose solo, con la cabeza gacha y los puños apo
 
 ---
 
-## COMANDO 3 (T1567)
+## COMANDO 2 (T1567)
 
 te espero goku
 
-## RESPUESTA 3 (T1567)
+## RESPUESTA 2 (T1567)
 
 > te espero goku
 
@@ -188,4 +131,91 @@ El suelo de Whis se agrieta donde estaba. Y en el aire, a un palmo de tu cara, a
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Duelo con Goku en azul: su puño a un palmo de la cara de Facundo (SSJ Blue). Facundo puede reaccionar.
+## COMANDO 3 (T1568)
+
+me defiendo y lo ataco
+
+## RESPUESTA 3 (T1568)
+
+> me defiendo y lo ataco
+
+Ladeas la cabeza. El puño azul te pasa rozando la oreja y te mueve el pelo, también azul.
+
+Goku ya está girando para el segundo. Una patada alta. La paras con el antebrazo. Un codazo. Lo desvías con la palma. Una rodilla, un puño, otro puño, una ráfaga de golpes tan rápida que el aire alrededor de los dos se llena de destellos azules sin ruido, como fuegos artificiales mudos. Los paras todos. Uno, dos, diez, cuarenta.
+
+Y en el hueco entre el cuarenta y el cuarenta y uno, le devuelves uno.
+
+En el estómago. Con el puño cerrado esta vez.
+
+Goku sale despedido hacia atrás, cruza la explanada entera, rebota contra el suelo de Whis dos veces, como una piedra en el agua, y frena con las manos y los pies a cien metros, arrastrando una zanja larga. Tose. Se levanta.
+
+Se ríe.
+
+Y vuelve.
+
+La pelea se arma de verdad. Azul contra azul, en silencio. Goku pelea distinto que Vegeta: no busca ganar, busca entender. Prueba un ángulo, después otro. Se esconde detrás de una imagen residual y te ataca por la espalda. Se tira desde arriba. Te tira un Kamehameha azul, chico, rápido, para ver qué haces, y cuando lo desvías con el dorso de la mano, se ríe más fuerte.
+
+Le pegas. En el hombro. En las costillas. En la mandíbula, una vez, de lleno, y Goku vuela de espaldas contra una de las montañas, que se raja de arriba abajo.
+
+Y vuelve. Siempre vuelve.
+
+En una de esas vueltas pasa algo raro.
+
+Le tiras un golpe limpio, recto, a la cara. Y Goku no lo ve. Se le nota: tiene los ojos puestos en otro lado. Pero el cuerpo se le mueve solo. La cabeza se le va dos dedos hacia un costado, sin que él decida nada, y tu puño le pasa de largo.
+
+Goku se queda quieto en el aire, con los ojos muy abiertos.
+
+—¿Eh? —dice—. ¿Yo hice eso?
+
+En el borde de la explanada, Whis se inclina un poco hacia adelante en la silla de playa. Solo un poco.
+
+Dura un instante. Al siguiente golpe, Goku ya no lo esquiva solo, y le llega de lleno al pecho.
+
+A los seis minutos, el azul le empieza a parpadear. Se le apaga, se le vuelve a prender. Le cuesta respirar. Le tiemblan los brazos. Tiene el gi naranja hecho tiras, un ojo hinchado, sangre en la boca.
+
+Levanta los puños igual.
+
+Te le acercas. No lo apuras. Le paras el último golpe, que viene lento, con una mano abierta, y le das un golpecito en la frente con dos dedos. Nada más.
+
+El azul de Goku se apaga del todo. El pelo se le cae, negro. Y cae sentado en el suelo de la explanada, al lado de Vegeta, que ya se sentó con las piernas cruzadas y lo mira de costado.
+
+Goku se queda ahí, con la boca abierta, sin aire, mirando el cielo violeta. Después se ríe. A carcajadas. Con la boca llena de sangre.
+
+—¡Me esquivé solo! —le grita a Vegeta, sacudiéndolo del hombro—. ¡¿Viste?! ¡Por un segundo me esquivé solo! ¡No sé cómo!
+
+—Te vi —dice Vegeta, sin ganas—. Fue suerte.
+
+—¡No fue suerte!
+
+Whis se levanta de la silla de playa, despacio, con el báculo en la mano. Mira a Goku. Te mira a ti. Sonríe otra vez, pero distinto. Como quien acaba de ver algo que no esperaba ver tan pronto.
+
+—No, Vegeta-san —dice, suave—. No fue suerte.
+
+[Duelo con un compañero vencido: Son Goku.]
+
+[+25.000 Fragmentos.]
+
+[+6.000 EXP.]
+
+[Has subido de nivel.]
+
+[Nivel 31. +1 a todos los stats. +5 puntos de stat.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1568 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada de entrenamiento · mañana          ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.243 · 0 zeni                  ║
+║ Energía 95% · Ojos: bien · corte en mejilla  ║
+║ SUPER SAIYAJIN BLUE (x2.000)                 ║
+║ Velo: el ki divino no se siente              ║
+║ Kase: junto a la silla de Whis, mirando      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Facundo venció a Goku en azul; Goku esquivó solo una vez. Whis: "No fue suerte." NIVEL 31. Facundo sigue en SSJ Blue. Facundo puede actuar.

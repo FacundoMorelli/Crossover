@@ -25,3 +25,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T1552 · Goku esboza el SSJ Blue (un segundo) en su primera noche con Whis, por la idea de Facundo (en el canon llevaba meses de entrenamiento).
 - T1558 · Goku sostiene el SSJ Blue 15 s y Vegeta 8 s tras una noche (canon acelerado por la idea de Facundo).
 - T1560 · Vegeta sostiene el SSJ Blue tres minutos y Goku uno, al segundo día (canon muy acelerado).
+- T1568 · Goku esquiva por instinto, una vez, sin pensar (primer atisbo del Ultra Instinto, mucho antes que en el canon), peleando contra Facundo en azul.

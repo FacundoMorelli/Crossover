@@ -144,3 +144,4 @@
 - Goku, Vegeta, Whis · T1563 · VEN a Facundo transformarse en Super Saiyajin (pelo dorado, ojos verdes) y en Super Saiyajin Blue (pelo azul, ojos celestes) sin ser saiyajin (sin cola; Vegeta "lo sabría"). El ki divino no se siente; ven los efectos (suelo de Whis hundido). Goku cree por un momento que es saiyajin. Vegeta pregunta qué es.
 - Goku, Vegeta, Whis · T1565 · Ven a Facundo (SSJ Blue) detener el puño de Vegeta en azul con dos dedos sin moverse.
 - Goku, Vegeta, Whis · T1566 · Ven a Facundo (SSJ Blue) recibir de lleno el Final Flash azul de Vegeta y quedar con un solo corte en la mejilla.
+- Goku, Vegeta, Whis · T1568 · Ven a Facundo (SSJ Blue) vencer a Goku en azul. Whis ve el atisbo del Ultra Instinto en Goku.

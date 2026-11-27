@@ -1,13 +1,13 @@
 {
-  "turno": 1567,
+  "turno": 1568,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), amanecer en el planeta de Bills",
   "edad": 18,
-  "nivel": 30,
-  "exp": 355130,
-  "exp_siguiente_nivel": 360000,
-  "fragmentos": 214243,
+  "nivel": 31,
+  "exp": 361130,
+  "exp_siguiente_nivel": 400000,
+  "fragmentos": 239243,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -75,18 +75,18 @@
       "cambio": "1 Fragmento = 11.000 ryo (fijado T1305)"
     }
   },
-  "puntos_de_stat_sin_asignar": 170,
+  "puntos_de_stat_sin_asignar": 175,
   "stats": {
-    "fuerza": 3996,
-    "velocidad": 3999,
-    "resistencia": 3996,
-    "tecnica": 3999,
-    "percepcion": 3997,
-    "voluntad": 3997,
-    "energia": 3998,
-    "control": 3997
+    "fuerza": 3997,
+    "velocidad": 4000,
+    "resistencia": 3997,
+    "tecnica": 4000,
+    "percepcion": 3998,
+    "voluntad": 3998,
+    "energia": 3999,
+    "control": 3998
   },
-  "energia_actual_pct": 98,
+  "energia_actual_pct": 95,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2271,6 +2271,13 @@
       "quien": "Vegeta (duelo, SSJ Blue)",
       "mundo": "dragonball",
       "turno": 1566,
+      "fragmentos": 25000,
+      "nota": "compañero en serio, mitad de 50.000"
+    },
+    {
+      "quien": "Son Goku (duelo, SSJ Blue)",
+      "mundo": "dragonball",
+      "turno": 1568,
       "fragmentos": 25000,
       "nota": "compañero en serio, mitad de 50.000"
     }
