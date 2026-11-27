@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1663)
-
-no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
-
-## RESPUESTA 1 (T1663)
-
-> no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
-
-> —No le voy a mentir: capaz tardo semanas en volver. Pero voy a venir a visitarla. Si pudiera llevarla conmigo, lo haría. Pero no se puede.
-
-La cocina se queda en silencio.
-
-Debajo de la mesa, la sandalia de Erasa deja de apretar tu pie. Se queda quieta, apoyada, nada más.
-
-Erasa no te mira. Mira su plato. Agarra el tenedor, lo vuelve a dejar. Se le ponen rojos los ojos, de a poco, desde los bordes, y parpadea muy rápido, dos, tres veces, para que no pase nada más. No pasa nada más. Pero se le escapa una sonrisa chiquita, torcida, que no puede esconder.
-
-—Yo no te pedí que me llevaras —dice, bajito, al mantel.
-
-La madre no dice nada. Te mira un rato largo, con los cubiertos todavía quietos a los costados del plato, y algo se le afloja en la cara. No mucho. Un poco. Como quien tenía un discurso preparado para otra respuesta y no le sirve.
-
-—Semanas —repite.
-
-Suspira. Mira de reojo a su hija, que sigue con la vista en el plato, y después a la vitrina de la sala, que se ve desde la cocina, llena de imanes horribles de aeropuerto.
-
-—El padre de esta chica, cuando éramos novios, me dijo que se quedaba para siempre en la Capital del Oeste. Que nunca iba a viajar. —Se ríe sin ganas, por la nariz—. A los tres meses ya estaba vendiendo repuestos en las Montañas del Norte. Y me trajo un imán.
-
-Agarra el tenedor, por fin. Se lleva el pedazo de papa a la boca. Mastica.
-
-—Por lo menos tú no mientes. —Lo dice como si le costara—. Eso es algo. No es mucho, pero es algo.
-
-Erasa levanta la vista. Mira a su madre. Te mira a ti. La sandalia vuelve a apretar tu pie, fuerte.
-
-—Bueno. —La madre se acomoda las perlas falsas con dos dedos y vuelve a ser amabilísima, de golpe, como si acá no hubiera pasado nada—. Basta de preguntas feas. Coman, que se enfría. —Te señala el plato con el cuchillo—. Y pruébalo bien, querido, que es la receta de mi madre y la hice para impresionarte. Si no te gusta, Erasa te dijo que mientas, ya sé. Así que fíjate.
-
-Las dos te miran. Erasa, con los ojos todavía un poco rojos y la boca apretada para no reírse. La madre, con el tenedor en el aire, esperando.
-
-Todavía no tocaste el pollo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1663 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 20:13        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1664)
+## COMANDO 1 (T1664)
 
 lo pruebo y le digo que me encanta
 
-## RESPUESTA 2 (T1664)
+## RESPUESTA 1 (T1664)
 
 > lo pruebo y le digo que me encanta
 
@@ -111,11 +57,11 @@ Erasa deja de masticar.
 
 ---
 
-## COMANDO 3 (T1665)
+## COMANDO 2 (T1665)
 
 tengo 18
 
-## RESPUESTA 3 (T1665)
+## RESPUESTA 2 (T1665)
 
 > tengo 18
 
@@ -165,4 +111,56 @@ Se muerde el labio.
 
 ---
 
-ESTADO AL CIERRE: martes 20:37, cena. Facundo dijo que tiene 18. Erasa tiene 22 (cumplidos en marzo). La mamá se ríe a carcajadas ("¡Si es un nene! Pensaba que tenías veinticinco"). Erasa, colorada, pie quieto bajo la mesa: "Yo no sabía. Pensé que eras más grande. ¿A ti no te molesta? Que yo sea más grande. Cuatro años."
+## COMANDO 3 (T1666)
+
+no, no me molesta, videl ya me habia dicho tu edad
+
+## RESPUESTA 3 (T1666)
+
+> no, no me molesta, videl ya me habia dicho tu edad
+
+> —No, no me molesta. Videl ya me había dicho tu edad.
+
+Erasa abre la boca. La cierra.
+
+—¿Videl te dijo? —El pie, debajo de la mesa, vuelve a moverse, despacio, hasta apoyarse otra vez contra el tuyo—. ¿Y lo sabías desde antes? ¿Desde la cena de Bulma?
+
+Se le va la tensión de los hombros de golpe, como cuando cortó la torta para Bills. Se tapa la cara con la servilleta.
+
+—Esa traidora. Esa traidora con panza. —Habla adentro de la tela—. Me dijo "no te preocupes por nada, Erasa, tú sé tú misma". ¡Y le contó mi edad a todo el mundo!
+
+—A todo el mundo no, querida. Al muchacho. —La madre todavía tiene los ojos húmedos de la risa. Toma un sorbo de agua para calmarse y te mira de otra manera, con la cabeza ladeada—. Así que sabías que tenía veintidós. Y viniste igual. Con bombones de la calle Mayor.
+
+Lo dice como si sumara algo en una cuenta mental.
+
+—Hm.
+
+Se levanta. Junta los platos vacíos, el tuyo primero, y los lleva a la mesada. Desde ahí, de espaldas, abre la caja de bombones dorada.
+
+—Bueno. Postre. —Pone la caja en el centro de la mesa, donde estaba el pollo—. Uno cada uno. Bueno, yo ya me comí uno. Así que uno para cada uno de ustedes y dos para mí, que cociné.
+
+Erasa saca la cara de la servilleta. Todavía está roja, pero ahora sonríe, chiquito, mirándote de reojo. Agarra un bombón con forma de corazón, lo mira, se da cuenta de la forma y lo vuelve a dejar enseguida en la caja, como si quemara. Agarra uno redondo.
+
+Su madre lo ve todo. No dice nada. Se come el de corazón ella.
+
+Erasa se inclina hacia ti por encima de la mesa, con el bombón redondo en la mano, y baja la voz para que su madre, que está otra vez de espaldas sirviendo café, no la escuche.
+
+—¿Y qué más te contó Videl de mí? —Entrecierra los ojos—. Dímelo todo. Así sé a quién tengo que matar mañana.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1666 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 20:42        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:42, cocina comedor. A Facundo no le molesta; Videl ya le había dicho la edad de Erasa (declarado por el jugador). Erasa aliviada ("Esa traidora con panza"). La mamá suma puntos ("sabías que tenía veintidós y viniste igual"); postre: bombones (Erasa deja el de corazón; la mamá se lo come). La mamá sirve café de espaldas. Erasa, bajito: "¿Y qué más te contó Videl de mí? Dímelo todo. Así sé a quién tengo que matar mañana."

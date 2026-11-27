@@ -36,3 +36,4 @@ DIÁLOGOS CLAVE:
 - T1637 · "¡TE ESCUCHÉ! ¡Y no tenía por qué decirte nada! ¡No sabía que existías!" "¡El bebé también lo escuchó!"
 - T1638 · Pone los ojos en blanco cuando Erasa dice que es romántico.
 - T1657 · Lunes: almuerza en la Corporación con Gohan; a Facundo: "Me contó todo. Todo." (Erasa le contó lo de las citas.)
+- T1666 · (declarado por el jugador) Antes de la cena del sábado, le dijo a Facundo la edad de Erasa (22). Le había dicho a Erasa: "no te preocupes por nada, tú sé tú misma".
