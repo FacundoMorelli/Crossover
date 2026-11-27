@@ -143,3 +143,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1574 · Mira la puerta de la pirámide con la cola quieta y las orejas hacia adelante.
 - T1575 · Durante la hora no pide comida; quieto en el regazo de Facundo, orejas hacia la pirámide.
 - T1576 · Facundo lo deja afuera de la barrera, en el apoyabrazos de la silla de Whis. Se queda sentado, derecho, mirando el centro de la explanada.
+- T1578 · Afuera con Whis, que le apoya la mano en la cabeza sin que Kase la pida.

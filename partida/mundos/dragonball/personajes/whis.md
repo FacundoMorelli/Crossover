@@ -51,3 +51,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1575 · Arregla la explanada (venas de luz más gruesas y brillantes) y levanta una barrera transparente alrededor, como cúpula de vidrio; sillas afuera para él, Goku y una roca para Vegeta. "Por las dudas."
 - T1576 · Facundo le deja a Kase en el apoyabrazos de su silla, afuera de la barrera: "Yo lo cuido, Facundo-san. Aunque creo que él me va a cuidar a mí."
 - T1577 · Ve a Facundo hacer sangrar a Bills de un puñetazo; su barrera se agrieta: "Vaya. Vaya, vaya."
+- T1578 · De pie con el báculo, mano sobre la cabeza de Kase. Ante la esfera de Bills: "¡Bills-sama! ¡El planeta, Bills-sama!"
