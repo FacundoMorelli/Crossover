@@ -48,3 +48,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1572 · Sigue comiendo como si nada mientras Bills aparece furioso; toma té cuando los reta.
 - T1573 · Le cuenta a Bills: "Facundo-san peleó con los dos. Por separado. En azul." "El suelo que reforcé se hundió dos veces. Y Vegeta-san solo le sacó una gota de sangre. Con un Final Flash a un paso."
 - T1574 · A Goku: "Puede mirar. De lejos." Consejo a Facundo: "Bills-sama no sabe contenerse cuando se divierte. Y hace mucho, muchísimo tiempo que no se divierte de verdad. Le recomiendo que no se contenga demasiado. Ni demasiado poco."
+- T1575 · Arregla la explanada (venas de luz más gruesas y brillantes) y levanta una barrera transparente alrededor, como cúpula de vidrio; sillas afuera para él, Goku y una roca para Vegeta. "Por las dudas."

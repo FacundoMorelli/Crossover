@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1572)
-
-le dejo otro plato a bills
-
-## RESPUESTA 1 (T1572)
-
-> le dejo otro plato a bills
-
-[Compra: plato de carne al punto con puré. 1 Fragmento.]
-
-Sacas otro plato del bolsillo. Caliente, humeando. Lo dejas en la mesita de Whis, al lado de la taza de té, con los cubiertos cruzados encima y la servilleta doblada.
-
-Bills aparece.
-
-No baja la escalera: aparece. Un segundo está en lo alto de la pirámide, y al siguiente está parado delante de la mesita, en ropa de dormir, con la cola erizada, las orejas aplastadas hacia atrás, los ojos amarillos encendidos de furia y una mano levantada en dirección a Goku, que tiene la boca llena de puré y se quedó congelado en el suelo.
-
-Se le empieza a juntar una luz violeta en la palma.
-
-Y entonces ve el plato.
-
-La luz violeta se apaga. La mano baja. Las orejas se le enderezan, despacio. La cola deja de estar erizada.
-
-Mira el plato. Te mira a ti. Mira el plato otra vez.
-
-—¿Es para mí?
-
-No espera la respuesta. Se sienta en el suelo, al lado de la mesita, con las piernas cruzadas, agarra el plato con las dos manos, se lo pone en las rodillas y empieza a comer. Despacio. Con los ojos cerrados. Las orejas se le caen hacia los costados. La cola se le queda quieta en el suelo.
-
-Goku traga el puré que tenía en la boca, muy despacio, sin hacer ruido. Vegeta suelta el aire que tenía guardado y deja el tenedor en el plato, con muchísimo cuidado.
-
-Whis abre los dos ojos y sigue comiendo como si nada.
-
-Bills termina. Lame el plato, como siempre. Lo deja en la mesita. Se limpia la boca con la servilleta, con una dignidad que hace un minuto no tenía.
-
-Después mira a los tres. A Whis, que tiene el plato vacío en las rodillas. A Goku, con puré en las cejas. A Vegeta, en su roca.
-
-—Ustedes comieron antes que yo —dice, muy tranquilo—. Mi comida. En mi planeta. Mientras yo dormía.
-
-Nadie dice nada. Goku sonríe, nervioso. Vegeta mira hacia otro lado. Whis toma un sorbo de té.
-
-Bills suspira. Larguísimo.
-
-—Bueno. Ya está. —Se vuelve hacia ti, todavía sentado en el suelo, y te mira de arriba abajo: el sobretodo deshecho, el corte en la mejilla, el gato en el hombro—. Tú, el del bolsillo. —Ladea la cabeza—. Estás todo roto. ¿Te peleaste con estos dos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1572 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde de la explanada · mediodía             ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · corte en mejilla  ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Días en el planeta de Bills        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1573)
+## COMANDO 1 (T1573)
 
 si
 
-## RESPUESTA 2 (T1573)
+## RESPUESTA 1 (T1573)
 
 > si
 
@@ -122,11 +62,11 @@ Te señala con un dedo.
 
 ---
 
-## COMANDO 3 (T1574)
+## COMANDO 2 (T1574)
 
 esta bien señor bills
 
-## RESPUESTA 3 (T1574)
+## RESPUESTA 2 (T1574)
 
 > esta bien señor bills
 
@@ -174,4 +114,58 @@ Kase, en tu hombro, mira la puerta cerrada de la pirámide. Tiene la cola quieta
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Pelea con Bills en una hora (no comer). Whis: "No se contenga demasiado. Ni demasiado poco." Goku mirará de lejos. Facundo puede actuar.
+## COMANDO 3 (T1575)
+
+esta bien
+
+## RESPUESTA 3 (T1575)
+
+> esta bien
+
+> —Está bien.
+
+Whis asiente, conforme, y vuelve a su silla de playa.
+
+La hora pasa despacio.
+
+Te sientas en el borde de la explanada, con Kase en el regazo. Kase no pide comida. Se queda quieto, con las orejas hacia adelante, mirando la pirámide, como si él también supiera que no hay que tener la panza llena.
+
+Goku no se queda quieto ni un minuto. Da vueltas alrededor de la explanada, practica el azul, lo pierde, se ríe, lo vuelve a intentar, se sienta, se para, te pregunta tres veces si estás nervioso y se contesta solo que él estaría nerviosísimo. Vegeta no se mueve de su roca. Te mira la espalda todo el tiempo, sin decir nada.
+
+Whis arregla el suelo de la explanada con un golpecito del báculo. El cráter se llena solo, la zanja se cierra, las venas de luz celeste se vuelven a encender, más gruesas que antes, más brillantes. Después levanta una barrera de luz transparente alrededor de todo el borde, alta, como una cúpula de vidrio, y pone su silla de playa del lado de afuera. Y la de Goku. Y una roca para Vegeta.
+
+—Por las dudas —dice.
+
+A la hora exacta, se abre la puerta de lo alto de la pirámide.
+
+Bills baja caminando. No aparece: camina, escalón por escalón, despacio, como quien baja a desayunar. Ya no tiene la ropa de dormir. Tiene su ropa de siempre: el pantalón ancho blanco, la faja, los brazaletes dorados, las orejas limpias y paradas, la piel violeta todavía húmeda del baño. Se estira mientras baja. Hace tronar el cuello. Bosteza una sola vez, y es el último bostezo del día.
+
+Cruza la barrera de luz de Whis como si no estuviera. Se para en el centro de la explanada, a veinte pasos de ti, con las manos detrás de la espalda.
+
+Te mira. A ti. Al gato.
+
+—Deja al gato afuera —dice—. No quiero que le pase nada. Me cae bien.
+
+Espera. Después ladea la cabeza, con una sonrisa de gato que se le va armando despacio, de oreja a oreja.
+
+—Bueno, muchacho del bolsillo. —Se le encienden los ojos amarillos—. Empieza tú. Muéstrame ese azul.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1575 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera de Whis) · tarde          ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien · corte en mejilla ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en tu regazo                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
+╚══════════════════════════════════════════════╝
+```
+
+Corrección: en la ventana anterior figuraban 239.243 Fragmentos, y el número correcto es 239.239.
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada con barrera de Whis. Bills, a 20 pasos: "Deja al gato afuera. Empieza tú. Muéstrame ese azul." Facundo puede actuar.

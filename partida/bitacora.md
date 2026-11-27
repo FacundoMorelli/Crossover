@@ -1573,3 +1573,4 @@ T1571 · DRAGON BALL · Planeta de Bills · Carne con puré para Whis, Goku y Ve
 T1572 · DRAGON BALL · Planeta de Bills · Plato para Bills (1 F): la furia (Hakai a Goku) se apaga. "¿Es para mí?" Reta a los tres por comer antes. A Facundo: "¿Te peleaste con estos dos?"
 T1573 · DRAGON BALL · Planeta de Bills · Whis le cuenta a Bills los duelos de Facundo en azul. Bills: "Después tú y yo vamos a ver qué tan fuerte es ese azul tuyo. ¿Te parece?"
 T1574 · DRAGON BALL · Planeta de Bills · "Está bien, señor Bills." Pelea en una hora (sin comer). Whis: "No se contenga demasiado. Ni demasiado poco."
+T1575 · DRAGON BALL · Planeta de Bills · Espera la hora. Whis arregla el suelo y levanta una barrera. Bills baja bañado: "Deja al gato afuera. Me cae bien. Empieza tú. Muéstrame ese azul."

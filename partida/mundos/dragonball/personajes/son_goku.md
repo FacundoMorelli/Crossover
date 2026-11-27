@@ -112,3 +112,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1572 · Congelado con la boca llena de puré ante el Hakai de Bills; traga despacio; sonríe nervioso.
 - T1573 · "¡Y yo me esquivé solo! ¡Una vez!" (nadie le hace caso).
 - T1574 · "¡¿Vas a pelear con el señor Bills?! ¡Yo quiero mirar!"
+- T1575 · No se queda quieto durante la hora; le pregunta tres veces a Facundo si está nervioso.
