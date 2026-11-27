@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1688)
-
-bajo las manos y espero, acariciando a kase
-
-## RESPUESTA 1 (T1688)
-
-> bajo las manos y espero, acariciando a kase
-
-Bajas las manos.
-
-Kase tarda en aflojarse. Le pasas los dedos por el lomo, despacio, a favor del pelo, de la nuca a la cola, una vez, otra, y el pelo se le va acostando de a poco. Al final suelta las uñas de tu camisa, se sienta derecho en tu hombro y se lame una pata con mucha dignidad, como si nada de esto hubiera pasado.
-
-Esperan.
-
-Sato no se mueve de su lugar, a tres metros, con la mano cerca de la empuñadura de la katana. No la toca. Pero tampoco la aleja. El chico junta el revólver del piso, lo mira, lo guarda en la funda y se sienta en el estribo de la camioneta con la cabeza entre las manos. Cada tanto levanta la vista hacia la avenida dormida y la vuelve a bajar.
-
-La lluvia afloja. Pasa a ser una garúa finita que brilla debajo de los faroles.
-
-Arriba, en Mitsukoshi, el rugido de la motosierra sube una última vez, larguísimo, como un grito. Algo grande se rompe en un piso alto: una vidriera entera estalla hacia afuera y cae en una lluvia de vidrios sobre la vereda de enfrente. Después, el motor se apaga. Silencio. Una alarma de incendio empieza a sonar adentro del edificio, chillona, y nadie la apaga.
-
-Pasan siete minutos.
-
-Un auto negro dobla la esquina. No tiene sirena. No tiene escudo. Es un sedán largo, de vidrios oscuros, que avanza despacio por el medio de la avenida, esquivando con cuidado a los dormidos de la calzada, y frena a diez metros de ustedes.
-
-Se abre la puerta del conductor. Baja un hombre de traje que abre un paraguas negro y rodea el auto. Abre la puerta de atrás. Sostiene el paraguas en alto.
-
-Baja una mujer.
-
-Es joven, o lo parece. Camisa blanca impecable, corbata negra, pantalón de vestir, zapatos que no se mojan. Pelo rojizo, recogido en una trenza larga que le cae sobre el hombro. Camina hacia ti sin apuro, bajo el paraguas, mirando a los dormidos de la avenida uno por uno, con una curiosidad tranquila, como quien mira cuadros en un museo. Se detiene un segundo frente a los dos ancianos de la mano, en el banco de la parada. Sonríe apenas.
-
-Sato se endereza. El chico se pone de pie de un salto.
-
-—Señorita Makima.
-
-Ella no les contesta. Llega hasta ti. Se detiene a dos pasos. Levanta la vista.
-
-Tiene los ojos amarillos. No dorados: amarillos, de un amarillo pálido, con anillos concéntricos alrededor de la pupila, como los que hace una piedra en el agua. Te mira la cara. El ojo rojo, el ojo azul, la cicatriz. Baja a Kase. Kase deja de lamerse la pata y la mira de vuelta, inmóvil, sin parpadear, con las pupilas como dos agujas.
-
-Makima sonríe. Una sonrisa suave, amable, perfecta.
-
-—Buenas noches. —La voz es baja y tranquila, y se oye perfectamente por encima de la alarma—. Usted debe ser el viajero.
-
-```
-╔══════════════════════════════════════════════╗
-║ MAKIMA                                       ║
-║ Seguridad Pública · Jefa de la División 4    ║
-║ PODER: sin datos                             ║
-║ AMENAZA: sin datos                           ║
-║ Diferencia estimada: sin datos               ║
-║ Se contiene. Lo que muestra no es lo que es. ║
-║ COPIABLE: sin datos                          ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1688 · CHAINSAW MAN · DÍA 1 · 19:45    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Makima         ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1689)
+## COMANDO 1 (T1689)
 
 Buenas noches, asi es, me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1689)
+## RESPUESTA 1 (T1689)
 
 > Buenas noches, asi es, me llamo Facundo Morelli
 
@@ -125,11 +54,11 @@ Arriba, en Mitsukoshi, la alarma de incendio sigue chillando. Por la puerta prin
 
 ---
 
-## COMANDO 3 (T1690)
+## COMANDO 2 (T1690)
 
 podrías decir que soy otra cosa, pero no soy una amenaza
 
-## RESPUESTA 3 (T1690)
+## RESPUESTA 2 (T1690)
 
 > podrías decir que soy otra cosa, pero no soy una amenaza
 
@@ -172,4 +101,78 @@ En la puerta de Mitsukoshi, entre el humo, aparecen dos siluetas que bajan las e
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:48. Makima le cree "por ahora" (los sentó, les cuidó la cabeza). Le explica: asesina extranjera (Santa) vino a matar a uno de sus empleados; llegaron varios esta semana; "nunca deja ir lo que le gusta"; ya lo busca a él y a su gato. De Mitsukoshi salen AKI (rodete, katana) y POWER (cuernos, gritando indignada), chamuscados, tosiendo. Makima propone: "Quédese conmigo esta noche. Con mi gente. Trabaje para mí, aunque sea hasta que esto termine. Le pagaré lo que pida. Así, cuando ella venga por usted, va a encontrarnos a todos juntos."
+## COMANDO 3 (T1691)
+
+esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
+
+## RESPUESTA 3 (T1691)
+
+> esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
+
+> —Está bien. Pero hasta que esto termine. ¿Y puedo saber el nombre del empleado al que buscan?
+
+—Hasta que esto termine —acepta Makima, enseguida, como si ya lo tuviera escrito—. Es justo.
+
+Se toma un segundo antes de la segunda respuesta. No por duda: más bien como quien elige con qué cuchara servir.
+
+—Se llama Denji. —Levanta la vista, apenas, hacia los pisos altos de Mitsukoshi, hacia la vidriera reventada por donde sale humo—. Está allá arriba. Probablemente sin sangre, en este momento. Va a necesitar un rato. —Lo dice con la misma ternura con la que hablaría de un perro que se ensució en el barro—. Es un buen chico. Muy valioso. Por eso tantos países lo quieren.
+
+Se da vuelta por primera vez hacia la entrada del edificio.
+
+—Aki.
+
+No levanta la voz. Pero el hombre del rodete, que estaba al pie de la escalera ayudando a la de los cuernos a sacudirse el hollín, gira la cabeza al instante, como si lo hubiera llamado a gritos. Viene hacia ustedes con paso rápido, guardando la katana. La de los cuernos lo sigue, pisándole los talones, todavía protestando.
+
+De cerca, el hombre es joven, de unos veinte años, con la cara seria y cansada y un ojo raro: el derecho, con algo que se mueve adentro, como un reflejo que no corresponde. Tiene el traje lleno de ceniza y una mancha de sangre seca en el cuello que no parece suya. Se detiene a un paso de Makima, derecho, y te mira con desconfianza abierta. Mira a los dormidos. Mira a Kase.
+
+La de los cuernos no se detiene. Pasa por al lado de Aki, se te planta enfrente, a medio metro, y levanta la cara hacia la tuya con los ojos abiertos de par en par. Tiene el pelo largo y rubio rosado, dos cuernos rojos que le salen de la frente y unas pupilas con forma de cruz. Huele a humo y a hierro.
+
+No te mira a ti. Mira a Kase.
+
+—¡¿Qué es eso?! —grita, señalándolo con un dedo lleno de hollín—. ¡Es un gato! ¡Es un gato gigante! ¡Es más grande que Miau! —Se gira hacia Makima, indignadísima—. ¡¿Por qué este tiene un gato más grande que el de Power?! ¡Exijo saberlo!
+
+Kase la mira desde tu hombro con una expresión de desprecio absoluto.
+
+—Power. —Aki la agarra del cuello del saco y la tira hacia atrás, sin mirarla, con la costumbre de quien lo hace diez veces por día. Te mira a ti, y después a Makima—. ¿Quién es este, señorita Makima?
+
+```
+╔══════════════════════════════════════════════╗
+║ AKI HAYAKAWA                                 ║
+║ Seguridad Pública · División 4               ║
+║ PODER: pactos (Zorro, Futuro), katana        ║
+║ AMENAZA: BAJA                                ║
+║ Diferencia estimada: x0,009 sobre ti         ║
+║ Su vida está más corta de lo que debería.    ║
+║ COPIABLE · MISIÓN: MEDIA                     ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ POWER                                        ║
+║ Seguridad Pública · División 4 · fiend       ║
+║ PODER: manipulación de sangre                ║
+║ AMENAZA: BAJA                                ║
+║ Diferencia estimada: x0,008 sobre ti         ║
+║ COPIABLE · MISIÓN: MEDIA                     ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1691 · CHAINSAW MAN · DÍA 1 · 19:50    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, despreciando a Power     ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Trabajar con Makima esta noche     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:50. Facundo aceptó trabajar para Makima "hasta que esto termine". Makima: el empleado buscado es Denji, arriba en Mitsukoshi, "probablemente sin sangre". Llamó a Aki; vino con Power. Power, por Kase: "¡Es más grande que Miau! ¡Exijo saberlo!" Aki la tira hacia atrás: "¿Quién es este, señorita Makima?" Tasaciones de Aki (vida más corta de lo que debería) y Power.

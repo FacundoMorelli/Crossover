@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: con Denji y Aki. Nunca opción romántica (aspecto de menor).
 ENCUENTROS:
 - T1690 · Día 1 19:48 · Sale de Mitsukoshi chamuscada junto a Aki, gritando indignada. Facundo la ve de lejos.
+- T1691 · Se planta frente a Facundo por Kase: "¡¿Qué es eso?! ¡Es un gato! ¡Es un gato gigante! ¡Es más grande que Miau! ¡¿Por qué este tiene un gato más grande que el de Power?! ¡Exijo saberlo!" Aki la tira del cuello. Tasación: manipulación de sangre; amenaza baja. Kase la mira con desprecio. Huele a humo y a hierro.
