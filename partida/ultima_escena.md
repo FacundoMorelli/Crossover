@@ -3,51 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1676)
-
-le doy un beso en la frente a erasa
-
-## RESPUESTA 1 (T1676)
-
-> le doy un beso en la frente a erasa
-
-Bajas la cabeza y le das un beso en la frente, entre los rulos despeinados.
-
-Tiene la piel tibia de dormir y huele a vainilla, a manta de lana y, apenas, a romero de la cocina.
-
-Erasa no se despierta. Pero algo le pasa en la cara: se le aflojan las cejas, se le estira la boca, despacio, en una sonrisa dormida, chiquita, de esas que no saben que están sonriendo. Arruga la nariz. Te aprieta un poco más con el brazo que tiene atravesado encima.
-
-—Mmm —murmura, con los ojos cerrados, la mejilla aplastada contra tu camisa—. ¿Ya pasaron los cinco minutos?
-
-No espera la respuesta. Antes de terminar la pregunta ya se volvió a dormir. El silbidito de la nariz vuelve, más lento, más hondo. Una mano se le escurre de la manta y se queda colgando del borde del sillón, abierta.
-
-Kase, desde la alfombra, levanta la cabeza. Mira la mano colgando. Se acerca, la huele, y apoya la cabeza contra los dedos de Erasa, una sola vez, despacio. Después se echa ahí abajo, justo debajo de la mano, como un guardia.
-
-Afuera pasa el primer aerodeslizador de la mañana. Un pájaro canta en el rosal. Por la rendija de la cortina, la luz se pone un poco más amarilla.
-
-El café en tu mano todavía está caliente.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1676 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sala · miércoles · 06:22      ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: bajo la mano de Erasa                  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1677)
+## COMANDO 1 (T1677)
 
 tomo el café y espero a que se despierte
 
-## RESPUESTA 2 (T1677)
+## RESPUESTA 1 (T1677)
 
 > tomo el café y espero a que se despierte
 
@@ -95,11 +55,11 @@ Mira las dos tazas. Mira la manta de lana. Se le va todo el color de la cara y d
 
 ---
 
-## COMANDO 3 (T1678)
+## COMANDO 2 (T1678)
 
 si, nos tapó y me dio un café, y se fue a trabajar
 
-## RESPUESTA 3 (T1678)
+## RESPUESTA 2 (T1678)
 
 > si, nos tapó y me dio un café, y se fue a trabajar
 
@@ -145,4 +105,56 @@ Habla entre los dedos:
 
 ---
 
-ESTADO AL CIERRE: miércoles 08:44, sillón de la sala. Erasa sabe que su mamá los vio, los tapó, le dio café a Facundo y se fue a trabajar. Grito ahogado ("Me quiero morir. Me voy a ir a tus islas en un barco"). Nota la taza buena de flores azules (de la abuela; ni al papá se la da) y la manta de lana (no se la presta ni con fiebre). Espiando entre los dedos: "¿Y dijo algo? ¿Qué te dijo? Dímelo todo. Palabra por palabra."
+## COMANDO 3 (T1679)
+
+que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
+
+## RESPUESTA 3 (T1679)
+
+> que hace años que no dormías asi y que lo de la isla y la montaña y el gato sigue en pie jajaja
+
+> —Que hace años que no dormías así. Y que lo de la isla y la montaña y el gato sigue en pie.
+
+Te ríes.
+
+Erasa baja las manos de la cara.
+
+La primera parte le llega antes que la risa. Se le ve en los ojos, que se quedan quietos un segundo, muy abiertos, mirando a ningún lado. Se toca la mejilla con la marca del botón, despacio, sin darse cuenta.
+
+—Hace años que no dormía así —repite, bajito.
+
+Mira el sillón. La manta a cuadros toda revuelta. La manta de lana de su madre. Tu camisa, arrugada justo donde estuvo su cara toda la noche.
+
+—Es verdad —dice, casi para ella—. No me desperté. Ni una vez. Yo siempre me despierto. Siempre. A las tres me levanto a tomar agua, a las cinco prendo la luz... —Te mira—. No me acuerdo de nada. Me acuerdo del barco. Y de que me dijiste... no sé. Algo. Y después nada. Hasta el sol.
+
+Se queda callada un segundo. Después le llega la segunda parte, y se le escapa una carcajada que trata de tapar con la mano y no puede.
+
+—¡La isla y la montaña y el gato! —Se dobla de risa en el sillón—. ¡Te volvió a amenazar! ¡A las seis de la mañana! ¡Con café en la mano!
+
+Se ríe tanto que se le caen lágrimas. Kase se levanta de la alfombra, ofendido por el escándalo, y se va a sentar al sol en el otro sillón, de espaldas.
+
+Cuando por fin se calma, Erasa se limpia los ojos con el dorso de la mano y suspira, larguísimo, con una sonrisa que no se le va.
+
+—Está bien. —Se pone de pie de un salto, con el vestido arrugado y el pelo como un nido—. Ya está. Ya me morí de vergüenza, ya resucité. Ahora no me mires, que debo tener una cara horrible. —Se tapa la cara con una mano mientras camina de espaldas hacia la escalera—. Me baño en diez minutos. Quince. Veinte, como mucho.
+
+Se detiene en el primer escalón. Se da vuelta, todavía con la mano tapándose media cara.
+
+—Hay pan en la panera y mermelada de durazno —dice—. Tú prepara el desayuno. —Una pausa. Se le escapa una sonrisa por debajo de la mano—. Y después... ¿qué hacemos hoy? Yo no tengo nada. Absolutamente nada. Todo el día.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1679 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sala · miércoles · 08:47      ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: al sol, en el otro sillón              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: miércoles 08:47, sala. Erasa sabe lo que dijo su mamá; se conmueve (no se despertó ni una vez) y se muere de risa con la amenaza. Sube a bañarse (10-20 min). Le pide a Facundo que prepare el desayuno (pan, mermelada de durazno). "¿Qué hacemos hoy? Yo no tengo nada. Absolutamente nada. Todo el día." Kase al sol en el otro sillón, ofendido por el escándalo.

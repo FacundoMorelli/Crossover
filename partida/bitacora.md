@@ -1677,3 +1677,4 @@ T1675 · DRAGON BALL · casa de Erasa · Agarra el café. La mamá: "Hace años 
 T1676 · DRAGON BALL · casa de Erasa · Beso en la frente. Erasa, dormida: "¿Ya pasaron los cinco minutos?" Kase de guardia bajo su mano.
 T1677 · DRAGON BALL · casa de Erasa · Espera con el café. 08:41 Erasa despierta sobre su pecho: "Me dormí encima tuyo." "¿Mi mamá nos vio?"
 T1678 · DRAGON BALL · casa de Erasa · "Nos tapó, me dio un café y se fue." Erasa: "Me quiero morir." La taza buena, la manta de lana. "¿Qué te dijo? Palabra por palabra."
+T1679 · DRAGON BALL · casa de Erasa · Le cuenta lo que dijo su mamá. Erasa conmovida y muerta de risa. Se va a bañar: "Tú prepara el desayuno. ¿Qué hacemos hoy?"
