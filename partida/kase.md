@@ -120,3 +120,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1515 · (Corregido) No se moja: Facundo cubrió el barco.
 - T1519 · Dragon Ball · Se eriza entero al llegar Bills; le sostiene la mirada sin parpadear. Bills se interesa en él.
 - T1520 · Le huele el dedo a Bills (Dios de la Destrucción) y le da la espalda. Bills se ríe.
+- T1521 · Mueve una oreja al oír a Bills decir su nombre.

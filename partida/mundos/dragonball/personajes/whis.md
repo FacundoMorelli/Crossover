@@ -11,3 +11,4 @@ TASACIÓN (T1519): sin datos (poder, amenaza, diferencia); se contiene muchísim
 QUÉ SABE DE FACUNDO: nada; siente un ki muy bajo (Velo).
 ESTADO: activo
 - T1520 · "Lo vi, Bills-sama. Creo que no le cayó bien." (sonriendo)
+- T1521 · A Bulma: "Muy amable, señorita. Soy Whis. Y él es Bills-sama. ¿Todo lo que queramos?"

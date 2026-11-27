@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1518)
-
-quien es bills?
-
-## RESPUESTA 1 (T1518)
-
-> quien es bills?
-
-> —¿Quién es Bills?
-
-Vegeta te mira como si le hubieras preguntado quién es el sol.
-
-Después mira para todos lados, rápido, para asegurarse de que nadie más escucha. Se te acerca un paso. Baja la voz hasta que casi no se le oye por encima de la música de la fiesta.
-
-—El Dios de la Destrucción. —Lo dice con la boca seca—. Del universo. De este universo entero. Los Kaio-shin crean los planetas, y él los destruye. Cuando se aburre. Cuando tiene hambre. Cuando algo no le gusta. —Traga saliva—. Duerme durante años. Décadas. Y cuando se despierta, se despierta de mal humor.
-
-Mira el cielo otra vez.
-
-—Lo vi una vez. Yo era un niño. Fue al planeta Vegeta. Mi padre era el rey de todos los saiyajin, el guerrero más orgulloso del universo. —Aprieta los puños—. Y Bills lo puso con la cara en el suelo, delante de todos, con un pie en la cabeza. Como a un perro. Y mi padre no pudo hacer nada. Nada.
-
-Hace una pausa.
-
-—Freezer le tenía miedo. Freezer. —Te mira a los ojos—. ¿Entiendes lo que te estoy diciendo?
-
-Se aleja medio paso. Se pasa la mano por la cara, por el pelo. Vuelve a ser el de siempre, de golpe, como quien se pone una armadura encima.
-
-—Kaio-sama dice que fue a su planeta buscando a Kakarotto. Que buscaba algo llamado "Super Saiyajin Dios". Que no lo encontró y se enojó, y que ahora viene para acá. —Mira hacia el buffet, donde Goku se está metiendo un pollo entero en la boca—. Y Kakarotto no sabe nada. Mejor. Si se entera, le va a querer pedir una pelea.
-
-Se da vuelta hacia ti. Te agarra del sobretodo con una mano, fuerte, y te acerca.
-
-—Escúchame bien, insecto. No me importa lo fuerte que seas. No me importa tu truco del ki. Cuando llegue, nadie le falta el respeto. Nadie lo provoca. Nadie le niega nada. Si quiere comer, come. Si quiere bailar, baila. Si quiere que le hagan reverencias, se le hacen reverencias. —Te suelta—. Si este planeta sigue existiendo mañana, va a ser porque todos se portaron bien hoy.
-
-Se acomoda la camisa rosada. Mira hacia la cubierta, hacia Bulma, que se ríe con Milk y la 18 junto a la torta.
-
-—Y yo voy a tener que... —Se le tuerce la boca, como si le doliera—. Ser amable.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1518 · DRAGON BALL · SÁBADO · 12:18    ║
-║ Crucero de Bulma · baranda de la cubierta    ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, con la cola erizada     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills viene a la Tierra            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1519)
+## COMANDO 1 (T1519)
 
 esta bien
 
-## RESPUESTA 2 (T1519)
+## RESPUESTA 1 (T1519)
 
 > esta bien
 
@@ -147,11 +95,11 @@ Bills entrecierra los ojos. Ladea la cabeza, con mucho interés.
 
 ---
 
-## COMANDO 3 (T1520)
+## COMANDO 2 (T1520)
 
 Así es bills-sama, es mi gato
 
-## RESPUESTA 3 (T1520)
+## RESPUESTA 2 (T1520)
 
 > Así es bills-sama, es mi gato
 
@@ -207,4 +155,60 @@ Bosteza.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:21, crucero. Kase le dio la espalda a Bills; Bills se rió. Bills pregunta: "¿Cómo se llama?" (el gato). Facundo puede responder.
+## COMANDO 3 (T1521)
+
+se llama Kase
+
+## RESPUESTA 3 (T1521)
+
+> se llama Kase
+
+> —Se llama Kase.
+
+—Kase —repite Bills, despacio, probando el nombre—. Kase.
+
+Kase, de espaldas, mueve una oreja hacia atrás al oír su nombre. Nada más.
+
+—Es un buen nombre para un gato que no le tiene miedo a un dios —dice Bills. Y lo dice en serio, sin burla, como quien reconoce algo—. La mayoría de los animales salen corriendo cuando me ven. Los planetas enteros salen corriendo. Este me olió el dedo.
+
+Se queda mirando la espalda de Kase un momento más. Después se da vuelta, con las manos detrás de la espalda, y mira la cubierta.
+
+Los invitados siguen quietos. La música sigue sonando, sola, para nadie.
+
+Bulma es la primera que se mueve. Deja la copa en una mesa, se acomoda el vestido rojo y camina hacia ellos con una sonrisa enorme, de anfitriona, pasando por al lado de Vegeta, que todavía está inclinado.
+
+—¡Hola, hola! —Les tiende la mano a los dos—. Soy Bulma, la del cumpleaños. ¿Ustedes son amigos de Vegeta? No me dijo que venían. —Mira a Vegeta, que asiente desesperado, muchas veces, sin levantar la cabeza—. ¡Bienvenidos! ¡Hay comida para cien, coman todo lo que quieran!
+
+Whis le estrecha la mano con mucha educación.
+
+—Muy amable, señorita. Soy Whis. Y él es Bills-sama. —Mira las mesas, los ojos le brillan—. Dijo... ¿todo lo que queramos?
+
+—¡Todo!
+
+Bills levanta la nariz. Olfatea el aire, despacio, como un gato que huele algo en la cocina. Mira hacia la cubierta de arriba, donde están las montañas de comida, las fuentes, los postres.
+
+Se le iluminan los ojos amarillos.
+
+—Whis. —Lo dice muy serio—. ¿Eso que huele así de dulce... es pudín?
+
+Al fondo de la cubierta, junto a la mesa de los postres, Buu se está terminando el último pudín de una fuente entera, con una cuchara en cada mano y Goten y Trunks sentados a sus pies.
+
+Vegeta lo ve. Levanta la cabeza de la reverencia de golpe, con la cara blanca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1521 · DRAGON BALL · SÁBADO · 12:23    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando el mar          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills en la Tierra · el pudín      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:23, crucero. Bulma recibió a Bills y Whis. Bills pregunta por el pudín; Buu se está comiendo el último. Vegeta, blanco. Facundo puede actuar.

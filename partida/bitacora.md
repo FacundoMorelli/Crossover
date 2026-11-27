@@ -1519,3 +1519,4 @@ T1517 · DRAGON BALL · Crucero · Vegeta, celoso de Goku, exige entrenar mañan
 T1518 · DRAGON BALL · Crucero · Vegeta le explica quién es Bills (Dios de la Destrucción; humilló al rey Vegeta; Freezer le temía). Reglas: nadie lo provoca ni le niega nada. "Voy a tener que ser amable."
 T1519 · DRAGON BALL · Crucero · Llegan Bills y Whis. Vegeta hace una reverencia. Tasaciones. Bills mira a Kase: "¿Ese gato es tuyo?"
 T1520 · DRAGON BALL · Crucero · "Es mi gato." Kase huele el dedo de Bills y le da la espalda. Bills se ríe: "Me despreció." "¿Cómo se llama?"
+T1521 · DRAGON BALL · Crucero · "Se llama Kase." Bills: buen nombre para un gato que no le teme a un dios. Bulma los invita a comer. Bills huele pudín; Buu se come el último.

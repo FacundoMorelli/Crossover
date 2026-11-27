@@ -106,3 +106,4 @@
 - Bills, Whis · T1519 · Ven a Facundo con su gato en la baranda; sienten un ki muy bajo (Velo). Bills se fija en el gato.
 - Todos los del crucero · T1519 · Ven llegar a Bills y Whis y a Vegeta haciéndole una reverencia.
 - Bills, Whis · T1520 · Por Facundo: el gato es suyo. Bills nota que tienen los mismos ojos de dos colores y que Facundo tiene un ki casi nulo (Velo).
+- Bills, Whis · T1521 · Por Facundo: el gato se llama Kase. Por Bulma: son "amigos de Vegeta" y pueden comer todo.
