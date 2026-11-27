@@ -1459,3 +1459,4 @@ T1457 · ONE PIECE · Rusukaina · Despierta a Ace. "Hola, Ace. Perdón. Tardé 
 T1458 · ONE PIECE · Rusukaina · (observa ~35 min) Reencuentro de los tres hermanos; Ace llora; Sabo cuenta su historia; "mi papá es bueno". Ace teme a Marco y a la flota. Rayleigh: "técnicamente te secuestraron". Ace a Facundo: "¿Cómo sabías que estaba vivo?"
 T1459 · ONE PIECE · Rusukaina · "Sé muchas cosas." Reverencia de Ace: "Gracias. Por mi hermano." Pide volver al Moby Dick con Sabo para presentárselo al viejo. Luffy quiere ir: "No" a coro.
 T1460 · ONE PIECE · Rusukaina · Facundo: no volverá hasta los dos años. Luffy se queja y acepta. "¡Sabo, no te mueras otra vez!" A Facundo: "¿Viste a los demás? ¿A Robin?"
+T1461 · ONE PIECE · Rusukaina · "Solo a Robin, pero todos están bien." Luffy: mensaje para Robin. Rayleigh despide. Ace y Sabo listos. "¡Nos vemos, hermanos!"

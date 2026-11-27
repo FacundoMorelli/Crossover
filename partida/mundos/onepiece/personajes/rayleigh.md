@@ -25,3 +25,4 @@ ESTADO: activo
 - T1458 · Les da privacidad mirando al mar. A Ace: "Técnicamente, te secuestraron."
 - T1459 · Sonríe con la reverencia. A Luffy: "No."
 - T1460 · A Luffy: "Y con quien vas a aprender a usar el Haki. Si es que algún día dejas de quejarte."
+- T1461 · A Ace y Sabo: "Los tres hermanos. Roger se habría reído mucho con esto." Mano en el hombro de Ace. A Facundo: "Cada vez que apareces, el mundo cambia un poco de lugar. Ve. Antes de que Newgate parta el Nuevo Mundo buscando a su hijo."

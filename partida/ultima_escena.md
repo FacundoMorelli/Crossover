@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1458)
-
-miro
-
-## RESPUESTA 1 (T1458)
-
-> miro
-
-Te quedas donde estás, en la nieve, con Kase en el hombro, y los miras.
-
-Ace aguanta un rato más. Se queda así, aplastado entre los dos, con los ojos abiertos por encima del hombro de Sabo. Después algo se le rompe en la cara, de golpe, como el hielo de una bahía, y agarra a Sabo de la levita con las dos manos y hunde la frente en su hombro.
-
-No hace ruido. Pero le tiemblan los hombros.
-
-—Idiota —dice, con la voz ahogada contra la tela—. Idiota. Idiota. Te vimos arder. Nos llegó tu carta. Luffy lloró una semana entera. Yo te... yo me prometí que nunca iba a...
-
-No termina. Sabo lo abraza más fuerte.
-
-Luffy, en el medio, se suena los mocos en la levita de Sabo sin pedir permiso.
-
-Pasan así un rato largo, los tres en el suelo, en un círculo de nieve derretida que se agranda solo, porque a Ace se le enciende la espalda cada tanto sin darse cuenta. Rayleigh no se mueve de su roca. Toma un trago de la botella y mira para otro lado, hacia el mar, como si les diera privacidad.
-
-Después empiezan las preguntas, todas a la vez.
-
-Sabo cuenta. El bote, el cañonazo del Noble Mundial, el fuego. Despertar en un barco con un hombre de capa verde y no saber ni su nombre. Doce años en el Ejército Revolucionario, sin acordarse de nada, sintiendo que le faltaba algo y sin saber qué. El diario de Marineford, que leyó sin sentir nada. Y esa mañana, en una torre, la palabra "hermano".
-
-—¿El Ejército Revolucionario? —Ace se aparta un poco para mirarlo—. ¿El de Dragon? ¿El padre de Luffy?
-
-—Él me sacó del mar.
-
-Luffy se queda pensando, con la cara arrugada.
-
-—¿Mi papá te salvó? —Ladea la cabeza—. ¡Ah! ¡Entonces mi papá es bueno!
-
-Sabo se ríe tan fuerte que se tiene que agarrar el sombrero.
-
-Ace también se ríe. Por primera vez. Una risa corta, rota, con la cara todavía mojada. Se seca los ojos con el antebrazo, y la piel le echa un poco de vapor.
-
-Hablan de Dadan, de Makino, del abuelo Garp y sus puños del amor. De la casa del árbol. Del tesoro. Luffy cuenta, a los gritos y salteando la mitad, todo lo que pasó desde que salió al mar: Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, Brook, una ballena, una isla en el cielo, un esqueleto que canta. Sabo lo escucha con la boca abierta. Ace corrige cada tanto: "No fue así". Luffy dice que sí fue así.
-
-En algún momento, Ace se da cuenta de dónde está de verdad.
-
-—Espera. —Se pone pálido otra vez, pero por otra cosa—. Yo estaba en el Moby Dick. A la hora del almuerzo. Delante de todos. Y desaparecí. —Se agarra la cabeza—. Marco me va a matar. El viejo va a mandar a la flota entera a buscarme. Van a pensar que me secuestraron...
-
-—Técnicamente —dice Rayleigh desde su roca, sin dejar de mirar el mar—, te secuestraron.
-
-Ace se queda callado.
-
-Se levanta despacio de la nieve. Se sacude las rodillas. Se acomoda el sombrero naranja en la cabeza. Mira a sus hermanos, todavía sentados en el suelo: Luffy colgado del cuello de Sabo, Sabo riéndose con la cara roja de llorar.
-
-Después cruza la nieve derretida hasta ti. Se para delante. Ya no tiene la cara pálida. Tiene los ojos rojos y la mandíbula apretada, como cuando alguien está a punto de decir algo que le cuesta mucho.
-
-—Me sacaste del cadalso —dice—. Salvaste al viejo. Salvaste a toda la flota. Y ahora me devuelves a Sabo. —Se le quiebra la voz, y la arregla—. ¿Cómo sabías que estaba vivo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1458 · ONE PIECE · DÍA ~121 · 07:20    ║
-║ Rusukaina · explanada de roca, nieve         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1459)
+## COMANDO 1 (T1459)
 
 se muchas cosas
 
-## RESPUESTA 2 (T1459)
+## RESPUESTA 1 (T1459)
 
 > se muchas cosas
 
@@ -137,11 +67,11 @@ Luffy salta en el lugar.
 
 ---
 
-## COMANDO 3 (T1460)
+## COMANDO 2 (T1460)
 
 jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
 
-## RESPUESTA 3 (T1460)
+## RESPUESTA 2 (T1460)
 
 > jajajaja bueno luffy no creo que vuelva a venir hasta que pasen los 2 años, esto fue una ocasión especial
 
@@ -187,4 +117,58 @@ Después corre hasta ti. Se para delante, muy cerca, mirándote desde abajo, por
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 07:26, Rusukaina. Luffy acepta los dos años; pregunta a Facundo si vio a los demás y a Robin. Pendiente: llevar a Ace y Sabo al Moby Dick. Facundo puede responder.
+## COMANDO 3 (T1461)
+
+Solo a Robin, pero todos estan bien si
+
+## RESPUESTA 3 (T1461)
+
+> Solo a Robin, pero todos estan bien si
+
+> —Solo a Robin. Pero sí, todos están bien.
+
+Luffy suelta el aire de golpe, como si lo hubiera tenido guardado desde Marineford.
+
+Después sonríe. La sonrisa enorme, la de siempre, que le ocupa toda la cara.
+
+—¡Shishishi! ¡Sabía! —Se pone el sombrero de paja en la cabeza, de un manotazo—. ¡Son fuertes! ¡Todos!
+
+Se da vuelta hacia el mar, con los puños en la cintura, como si pudiera ver desde ahí a cada uno en su isla.
+
+—¡Dile a Robin que la extraño! —Lo grita, aunque estás a un paso—. ¡Y que dentro de dos años va a tener el capitán más fuerte del mundo!
+
+Rayleigh se levanta de la roca. Se sacude la nieve de la capa, guarda la botella en un bolsillo y se acerca despacio, con las manos atrás.
+
+Se para frente a Ace y a Sabo. Los mira a los dos, uno y otro, con esa cara de abuelo que sabe más de lo que dice.
+
+—Los tres hermanos —dice—. Roger se habría reído mucho con esto.
+
+Ace se tensa apenas al oír el nombre. Pero no dice nada. Rayleigh le pone una mano en el hombro, un segundo, y lo suelta.
+
+Después te mira a ti.
+
+—Y tú, muchacho. Cada vez que apareces, el mundo cambia un poco de lugar. —Se acomoda los anteojos—. Ve. Antes de que Newgate parta el Nuevo Mundo buscando a su hijo.
+
+Ace se para a tu lado, del lado derecho. Sabo, del izquierdo, con el caño al hombro y el sombrero de copa bien puesto. Los dos te miran.
+
+Luffy levanta el puño en el aire, en medio de la nieve.
+
+—¡Nos vemos, hermanos!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1461 · ONE PIECE · DÍA ~121 · 07:28    ║
+║ Rusukaina · explanada de roca, nieve         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: Llevar a Ace y Sabo al Moby Dick   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 07:28, Rusukaina. Despedida de Luffy y Rayleigh. Ace y Sabo a los lados de Facundo, listos para ir al Moby Dick. Facundo puede actuar.
