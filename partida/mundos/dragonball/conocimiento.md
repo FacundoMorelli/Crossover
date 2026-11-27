@@ -169,3 +169,4 @@
 - T1623 · Goku le contó a Goten lo del punto negro (Eclipse) que se comió la esfera de Bills.
 - T1635 · Erasa VIO en persona a Bills, Whis, Goku, Vegeta (aspecto; sin poderes) y a Facundo con Kase.
 - T1636 · Erasa VIO de cerca los ojos de Facundo (rojo y azul) y confirma que son naturales.
+- T1638 · Erasa sabe (por Facundo) que es "un viajero".

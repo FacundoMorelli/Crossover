@@ -3,103 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1635)
-
-esta bien, volvemos, simula hasta la cena
-
-## RESPUESTA 1 (T1635)
-
-> esta bien, volvemos, simula hasta la cena
-
-> —Está bien.
-
-Vuelven volando, con el cielo naranja de frente. Goten y Trunks adelante, haciendo carreras, todavía negros de hollín. Vegeta a un costado, con la gorra en la mano para que no se le vuele. Tú detrás, con Kase en el hombro, otra vez con las orejas aplastadas y cara de odiar volar.
-
-En la Corporación Cápsula, Bulma los ve aterrizar desde la ventana de la cocina y se ríe tanto que se le cae una bandeja. Trunks le muestra la foto de la montaña rusa antes de que ella pueda decir nada. Bulma la mira, mira a Vegeta, y se tiene que sentar en el piso de la risa. La foto termina pegada en la heladera con un imán en forma de cápsula. Vegeta la arranca dos veces. Las dos veces, Bulma la vuelve a pegar.
-
-Le das a Goku su algodón de azúcar, intacto, sacado del inventario. Goku está sentado en el piso de la cocina, rodeado de una montaña de cáscaras de papa, con un pelapapas en cada mano. Se le llenan los ojos de lágrimas.
-
-—¡Facundo, eres el mejor!
-
-—¡Goku, las papas! —grita Milk.
-
-La cocina es un campo de batalla. Milk se mueve entre cinco hornallas al mismo tiempo, con el pelo atado, el delantal manchado y una cara de concentración que asusta. Hay ollas por todos lados, fuentes de carne, pescados enteros, montañas de arroz, verduras cortadas en formas perfectas. No deja entrar a nadie. A Goten y a Trunks los manda a bañarse con un solo grito.
-
-A eso de las siete, Bills baja de la habitación de huéspedes, olfatea el aire desde la escalera y se sienta en la mesa del jardín. No se mueve más de ahí. Whis se sienta a su lado con una taza de té y la libretita abierta.
-
-A las siete y media llegan Gohan y Videl, en un auto volador. Videl tiene la panza ya redonda debajo de un vestido suelto y una sonrisa de oreja a oreja. Apenas te ve, te señala con el dedo.
-
-—¡Tú! —Se ríe—. ¡No me dijiste que estabas buscando novia!
-
-—Videl... —dice Gohan, rojo.
-
-—¡Erasa me llamó cuatro veces! ¡Cuatro! ¡Está histérica! —Te mira de arriba abajo—. Bueno, con esa camisa entiendo por qué.
-
-Gohan te da la mano, con una sonrisa tímida.
-
-—Hola, Facundo. Perdón por Videl. Y por Erasa. Y por mi mamá. —Se rasca la nuca, igual que su papá—. Bueno, por todos.
-
-Bulma pone la mesa larga en el jardín, bajo unas lucecitas colgadas entre los árboles. Milk saca la comida fuente por fuente, sin dejar que nadie la ayude. El olor llena todo. Bills, sentado, no dice nada, pero se le mueve la nariz con cada fuente que llega, y la cola le va de un lado al otro, cada vez más rápido.
-
-Kase se sube a la silla que está al lado de la tuya y se sienta ahí, muy derecho, como un invitado más.
-
-A las ocho en punto suena el timbre.
-
-Bulma corre a abrir. Vuelve por el jardín con alguien detrás.
-
-Erasa es exactamente como en la foto, y más. Rubia, con el pelo corto lleno de rulos que le rebotan al caminar, los ojos celestes muy abiertos y una sonrisa que no le entra en la cara. Trae un vestido amarillo, corto, con flores blancas, y unas sandalias. En una mano, una caja de torta atada con una cinta rosa. En la otra, una bolsita de una tienda de mascotas, con un ratón de juguete asomando.
-
-Entra al jardín hablando.
-
-—¡Perdón, perdón! ¡Llegué justo! Bueno, llegué a las ocho, que es justo, pero quería llegar antes y mi mamá no terminaba de decorar la torta, y después el taxi se perdió, y...
-
-Se calla.
-
-Ve la mesa larga con las lucecitas. Ve a Goku con el algodón de azúcar. Ve a Vegeta con los brazos cruzados. Ve a Whis, alto, celeste, con su aureola y su taza de té. Ve a Bills, violeta, enorme, con las orejas paradas, sentado a la cabecera, mirando las fuentes de comida como si fueran a escaparse.
-
-Se queda quieta. Abre la boca. La cierra.
-
-Después mira a Bulma.
-
-—No era disfraz —dice, bajito.
-
-—Te dije que no era disfraz —dice Bulma.
-
-Erasa traga saliva. Mira a Bills otra vez. Bills la mira a ella. Erasa aparta la vista enseguida, como quien no debe mirar mucho.
-
-Y entonces te ve.
-
-A ti, parado junto a la mesa, con la camisa blanca arremangada, los dragones en los brazos, el pelo blanco y azul. Y a Kase, sentado en la silla de al lado, mirándola con los ojos rojo y azul.
-
-Se le ilumina toda la cara.
-
-—¡Kase! —Se le escapa a ella primero, antes que nada—. ¡Es Kase! ¡Es más grande que en la foto!
-
-Se da cuenta de lo que dijo. Se pone roja. Te mira a ti, con la caja de torta en una mano y el ratón de juguete en la otra.
-
-—Hola. —Se ríe, nerviosa—. Perdón. Tú eres... Facundo, ¿no? Facundo Morelli. Yo soy Erasa. —Levanta la caja de torta, como si fuera un saludo—. Traje torta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1635 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:00     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sentado en la silla de al lado         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1636)
+## COMANDO 1 (T1636)
 
 Mucho gusto erasa
 
-## RESPUESTA 2 (T1636)
+## RESPUESTA 1 (T1636)
 
 > Mucho gusto erasa
 
@@ -165,11 +73,11 @@ Después se inclina un poco hacia ti, lo justo para verte la cara de cerca bajo 
 
 ---
 
-## COMANDO 3 (T1637)
+## COMANDO 2 (T1637)
 
 si, siempre fueron asi y mi pelo igual, desde que naci, no sabia que videl tenia una amiga tan linda, si no le hubiese dicho antes
 
-## RESPUESTA 3 (T1637)
+## RESPUESTA 2 (T1637)
 
 > si, siempre fueron asi y mi pelo igual, desde que naci, no sabia que videl tenia una amiga tan linda, si no le hubiese dicho antes
 
@@ -219,4 +127,46 @@ Se muerde el labio. Agarra el tenedor por fin, aunque no come nada con él. Lo u
 
 ---
 
-ESTADO AL CIERRE: Cena empezada. Erasa, roja: "Eres bastante directo, ¿no?" "¿Y tú de dónde eres, Facundo Morelli? De acá no eres." Facundo puede contestar.
+## COMANDO 3 (T1638)
+
+soy un viajero
+
+## RESPUESTA 3 (T1638)
+
+> soy un viajero
+
+> —Soy un viajero.
+
+—¿Un viajero? —Erasa deja el tenedor en el plato. Se le olvida la vergüenza de golpe y se le encienden los ojos—. ¿Como un mochilero? ¿Que va de un lado a otro, sin casa, con una mochila y nada más?
+
+Mira a Kase, echado sobre el ratón.
+
+—Y con un gato. —Se lleva las manos a las mejillas—. Ay, eso es lo más romántico que escuché en mi vida.
+
+Al otro lado de la mesa, Videl pone los ojos en blanco. Gohan sonríe con la boca llena.
+
+—Siempre quise viajar —sigue Erasa, rápido, ya lanzada, con las manos moviéndose en el aire—. Pero nunca salí de la Capital del Oeste. Bueno, una vez fui a la playa con mi tía, pero eso no cuenta, porque llovió los tres días y nos quedamos en el hotel jugando a las cartas. Y una vez a la Ciudad Satán con Videl, pero eso tampoco cuenta, porque era la ciudad de al lado. —Se ríe—. O sea que nunca fui a ningún lado.
+
+En la cabecera, Bills levanta la vista del pescado, con la boca llena. Te mira a ti, mira a Erasa, mastica despacio. No dice nada. Vuelve al pescado.
+
+Erasa apoya el codo en la mesa y la cara en la mano. Te mira con la cabeza ladeada, los rulos cayéndole sobre un ojo.
+
+—¿Y adónde fuiste? —pregunta, más bajito ahora, como si fuera un secreto entre los dos—. De todos los lugares que conociste... ¿cuál es el más lindo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1638 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:20     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa sabe que es viajero; le encanta. "¿Cuál es el lugar más lindo que conociste?" Facundo puede contestar.
