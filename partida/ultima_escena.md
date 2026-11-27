@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1556)
-
-que poder impresionante
-
-## RESPUESTA 1 (T1556)
-
-> que poder impresionante
-
-> —Qué poder impresionante.
-
-Bills se infla.
-
-No mucho. Apenas. Pero se le nota: se endereza en el suelo, levanta la barbilla, se le paran las orejas y la cola le da una vuelta satisfecha alrededor del cuerpo.
-
-—Claro que es impresionante —dice—. Soy un dios. —Se mira la palma de la mano, como si la admirara—. Hay doce universos, ¿sabes? Y en cada uno hay un dios de la destrucción. Y yo soy de los más fuertes. —Se lo piensa—. Quizás el más fuerte. Seguramente el más fuerte.
-
-—Champa-sama no opina lo mismo —dice Whis, con una sonrisa muy educada.
-
-—Champa es un gordo envidioso —dice Bills, sin mirarlo.
-
-Bosteza. Un bostezo enorme, largo, de esos que le muestran todos los dientes. Se frota un ojo con el puño.
-
-—Ese plato me dio sueño. —Se pone de pie despacio, estirándose como un gato, primero los brazos, después la espalda—. Me vuelvo a dormir.
-
-—Bills-sama a veces duerme años —te explica Whis, en voz baja.
-
-—Días —corrige Bills, sin darse vuelta, subiendo ya los primeros escalones de la pirámide—. Unos días. Y cuando me despierte, quiero comer eso otra vez. La carne. Con la cosa blanca.
-
-Se detiene en el décimo escalón. Gira la cabeza por encima del hombro y te mira a ti, a Kase dormido en la mesita, otra vez a ti.
-
-—Y que el gato siga aquí.
-
-Sigue subiendo. Al llegar arriba, la puerta de la pirámide se cierra detrás de él. Un minuto después, vuelve el ronquido: grave, largo, rítmico, como un motor viejo.
-
-A lo lejos, Goku y Vegeta siguen intentándolo. Cada tanto, un destello azul. Un segundo. Medio segundo. Y vuelta a empezar.
-
-Whis se sienta otra vez en su silla de playa. Se acomoda la túnica. Te mira de costado, con la sonrisa amable.
-
-—Bueno, Facundo-san. Parece que Bills-sama le dio una orden. —Junta las manos sobre las rodillas—. Hay cuartos de sobra en el palacio. La comida la cocino yo, aunque no es tan buena como la suya. —Una pausa muy corta—. ¿Se queda con nosotros unos días?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1556 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · sillas de playa         ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en la mesita                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Whis ofrece quedarse unos días     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1557)
+## COMANDO 1 (T1557)
 
 esta bien, total no tengo ningun lugar al que viajar por ahora
 
-## RESPUESTA 2 (T1557)
+## RESPUESTA 1 (T1557)
 
 > esta bien, total no tengo ningun lugar al que viajar por ahora
 
@@ -116,11 +60,11 @@ Afuera, por la ventana sin vidrio, a lo lejos, se ve un destello azul que dura u
 
 ---
 
-## COMANDO 3 (T1558)
+## COMANDO 2 (T1558)
 
 duermo con kase
 
-## RESPUESTA 3 (T1558)
+## RESPUESTA 2 (T1558)
 
 > duermo con kase
 
@@ -177,4 +121,56 @@ Te mira desde el suelo, con los ojos brillantes.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mañana (tres soles). Goku le mostró 15 s de SSJ Blue y le agradeció la idea. Lo invita a desayunar la sopa de estrellas de Whis. Facundo puede actuar.
+## COMANDO 3 (T1559)
+
+voy con goku a desayunar
+
+## RESPUESTA 3 (T1559)
+
+> voy con goku a desayunar
+
+Kase se despierta, se estira y te sube al hombro. Sigues a Goku por los pasillos frescos del palacio, entre las columnas talladas con gatos y peces, hasta una terraza abierta que cuelga sobre el abismo, con una mesa larga de piedra clara y almohadones en el suelo en vez de sillas.
+
+Whis está ahí, con un delantal blanco encima de la túnica granate, sirviendo con un cucharón de una olla que humea. Lo que sale de la olla es un caldo azul oscuro, casi negro, con puntitos brillantes que flotan adentro y se mueven solos, como estrellas de verdad.
+
+—Buenos días, Facundo-san. —Sonríe—. ¿Durmió bien? Siéntese, por favor. Sopa de estrellas. Es una receta muy antigua.
+
+Te pone un plato delante. Los puntitos brillantes giran despacio en el caldo. Huele a algo entre el mar y la canela y la tormenta. Goku ya está sentado en un almohadón, con el plato en las manos, sorbiendo a toda velocidad.
+
+—¡Sabe rarísimo! —dice, con la boca llena—. ¡Pero está rica!
+
+A Kase, Whis le pone en el suelo un plato chiquito con algo que parece pescado, pero violeta, con seis aletas. Kase lo olfatea mucho rato. Lo mira a Whis. Vuelve a olfatearlo. Y empieza a comer, despacio, con desconfianza.
+
+Por el borde de la terraza aparece Vegeta. Volando, sin la parte de arriba del traje, cubierto de polvo de roca de pies a cabeza, con un raspón en la frente y cara de no haber dormido nada y de estar enojado con el mundo entero. Aterriza. Se sienta en el almohadón más lejano de Goku. Agarra el plato que Whis le pone delante y se toma la sopa de un trago, sin mirar a nadie.
+
+—¿Y la montaña? —le pregunta Goku.
+
+—Ya no existe —dice Vegeta.
+
+—¿Llegaste a más de ocho?
+
+Vegeta no contesta. Aprieta la cuchara hasta que se dobla.
+
+Whis se sienta en la cabecera, se saca el delantal con un movimiento elegante y se sirve un plato chiquito para él. Prueba una cucharada. Cierra los ojos, satisfecho. Después te mira, desde el otro lado de la mesa, con la sonrisa amable de siempre.
+
+—Bills-sama sigue durmiendo. Puede que hoy no se despierte —dice—. Así que tenemos el día entero. Goku-san y Vegeta-san van a seguir con el azul. —Junta las manos—. ¿Y usted, Facundo-san? Hoy, ¿mira? ¿O participa?
+
+Vegeta, en la otra punta, deja de doblar la cuchara. Te mira.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1559 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Palacio · terraza del desayuno               ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el suelo, comiendo pescado violeta  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Whis pregunta: ¿mira o participa?  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, terraza del desayuno. Sopa de estrellas. Whis: "Hoy, ¿mira? ¿O participa?" Vegeta lo mira. Facundo puede responder.

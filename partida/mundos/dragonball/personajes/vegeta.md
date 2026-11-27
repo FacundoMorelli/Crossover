@@ -123,3 +123,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1555 · Ve el Hakai de Bills; cara gris.
 - T1556 · Sigue intentando el azul: destellos breves.
 - T1558 · (Por Goku) Llegó a ocho segundos de SSJ Blue durante la noche y se fue a romper una montaña de rabia.
+- T1559 · Llega al desayuno sin la parte de arriba del traje, cubierto de polvo, raspón en la frente. "Ya no existe" (la montaña). No contesta si pasó de ocho segundos; dobla la cuchara. Mira a Facundo cuando Whis le pregunta si participa.

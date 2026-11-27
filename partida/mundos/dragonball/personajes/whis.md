@@ -35,3 +35,4 @@ RELACIÓN CON FACUNDO (T1528): curiosidad amable; agradecido por el pudín y la 
 - T1557 · "Bills-sama se va a poner contento. Contento a su manera. Que es parecido a enojado, pero con más comida." Lleva a Facundo a un cuarto del palacio. "Si necesita algo, llámeme. Siempre escucho." Repite: "Ningún lugar al que viajar por ahora. Qué frase tan curiosa para alguien que tiene un ki tan pequeño." No pregunta. "Y si alguna vez le apetece hacer algo más que mirar... yo también estoy."
 RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1558 · (Por Goku) Prepara "sopa de estrellas" para el desayuno.
+- T1559 · Con delantal, sirve sopa de estrellas (caldo azul oscuro con puntitos brillantes que giran; "receta muy antigua") y un pescado violeta de seis aletas para Kase. "Bills-sama sigue durmiendo. Puede que hoy no se despierte." A Facundo: "¿Y usted, Facundo-san? Hoy, ¿mira? ¿O participa?"

@@ -4,3 +4,4 @@ Planeta pequeño e irregular: rocas flotantes, árboles que crecen hacia los cos
 - T1555 · Una roca flotante del tamaño de una casa de tres pisos, sobre una ladera, borrada por el Hakai de Bills.
 - T1557 · Palacio en la mitad de la pirámide: pasillos frescos, columnas talladas con gatos y peces, ventanas sin vidrio, fuentes cuyo agua corre hacia arriba. Cuarto de Facundo: redondo, cama baja con almohadones, ventana enorme sin vidrio al abismo de lunas y rocas flotantes, frutas raras.
 - T1558 · De día, tres soles chicos blancos; las flores se abren todas a la vez.
+- T1559 · Terraza del desayuno colgada sobre el abismo, mesa larga de piedra, almohadones en el suelo.
