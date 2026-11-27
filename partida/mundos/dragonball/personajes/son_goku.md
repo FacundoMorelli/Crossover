@@ -64,3 +64,4 @@ DIÁLOGOS CLAVE:
 - T1496 · Facundo acepta ir a la fiesta: "¡SÍ! ¡Facundo viene a la fiesta!" Pide perdón por el techo. Se apoya en el hombro de Facundo; Kase se le sienta en el brazo. "Cuando quieras. A Monte Paoz. Milk está en casa. Supongo."
 - T1497 · Sin la gravedad se cae de cara al pasto del Monte Paoz. "Hola, Milk. Volví."
 - T1498 · "No eran vacaciones, era entrenamiento..." "Sí, Milk."
+- T1500 · Sale del baño (toalla, camiseta al revés). "¡Entonces mañana entrenamos otra vez!" Propone que Facundo lo ayude a arar. "¿Me ayudas?"

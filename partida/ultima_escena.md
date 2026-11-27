@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1497)
-
-llevo a goku al monte paoz
-
-## RESPUESTA 1 (T1497)
-
-> llevo a goku al monte paoz
-
-Dos dedos en la frente. Buscas el Monte Paoz: los kis de una casa chica en las montañas. Uno, fuerte y nervioso, que se mueve de un lado al otro como alguien que barre con rabia. Otro, chico y encendido, que no para quieto ni un segundo.
-
-El planeta de Kaio-sama desaparece, con Kaio-sama saludando desde la reposera y Bubbles todavía escondido detrás del auto.
-
-Y el peso se va. De golpe. El cuerpo te queda liviano como una pluma. Goku, que venía apoyado en tu hombro con todo su peso para aguantar la gravedad, se va de cara contra el pasto.
-
-—¡Ay!
-
-Kase salta de su brazo justo a tiempo y aterriza parado, sin gravedad, con la cola en alto.
-
-Huele a pino, a tierra mojada y a arroz. Es mediodía. Estás en el claro del Monte Paoz, frente a la casa redonda de los Son, con el techo blanco y la chimenea humeando. Las mismas montañas en punta, los mismos árboles, el arroyo que baja al costado. La casita de al lado, donde dormiste hace tres años, sigue en pie, con una maceta nueva en la ventana.
-
-La puerta de la casa se abre de golpe.
-
-En el umbral, con el delantal puesto, el pelo negro atado en un rodete y una escoba en la mano, Milk.
-
-Ve a Goku tirado en el pasto, de cara al suelo.
-
-Se le hincha una vena en la frente.
-
-—¡GOKUUUUUUUUU!
-
-Goku levanta la cabeza del pasto. Sonríe con la cara llena de tierra.
-
-—Hola, Milk. Volví.
-
-—¡¿VOLVISTE?! ¡¿TRES MESES Y "VOLVÍ"?! —Milk baja los tres escalones de la entrada con la escoba en alto—. ¡¿Tres meses sin trabajar la granja, sin ver a tu hijo, sin mandar un mensaje, y apareces tirado en el pasto como un perro mojado?! ¡Te dije que si no volvías...!
-
-Se frena a medio camino.
-
-Te vio.
-
-Te mira de arriba abajo: el pelo blanco y azul, el sobretodo negro, la sangre seca en la comisura de la boca, las palmas rojas. Kase, sentado en el pasto. La escoba le baja despacio.
-
-—Tú... —dice—. El muchacho del gato.
-
-Y antes de que nadie diga nada más, desde adentro de la casa sale disparado un chico de unos diez años, con el pelo negro en punta, igual al de Goku, la boca llena de arroz y un plato en la mano. Ve a Goku, ve a Kase, y se le cae el plato.
-
-—¡PAPÁ! —grita Goten. Y después, más fuerte todavía—: ¡¡EL GATOOOO!!
-
-Pasa corriendo al lado de su padre sin mirarlo y se tira de rodillas en el pasto delante de Kase.
-
-Goku, todavía en el suelo, levanta un dedo.
-
-—Oye...
-
-Milk lo ignora. Se te queda mirando a ti, con la escoba colgando de la mano, los ojos entrecerrados, como quien junta piezas.
-
-—¿Tú lo trajiste? —pregunta—. ¿De dónde estaba este irresponsable?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1497 · DRAGON BALL · AÑO 777 · 12:10   ║
-║ Monte Paoz · casa de los Son                 ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el pasto, con Goten de rodillas     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Fiesta de Bulma (Bills en ~10      ║
-║ días)                                        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1498)
+## COMANDO 1 (T1498)
 
 estaba en el planeta de kaio
 
-## RESPUESTA 2 (T1498)
+## RESPUESTA 1 (T1498)
 
 > estaba en el planeta de kaio
 
@@ -134,11 +59,11 @@ Te empuja suavemente hacia la casa con la mano en la espalda. En el escalón de 
 
 ---
 
-## COMANDO 3 (T1499)
+## COMANDO 2 (T1499)
 
 no perdon, anduve con muchas cosas mientras viajaba
 
-## RESPUESTA 3 (T1499)
+## RESPUESTA 2 (T1499)
 
 > no perdon, anduve con muchas cosas mientras viajaba
 
@@ -190,4 +115,61 @@ Hace una pausa. Se pone un poco colorada.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 12:40, cocina de los Son. Milk lo curó y le dio de comer; pregunta hasta cuándo se queda (fiesta el sábado en 4 días; la casita lista). Facundo puede responder.
+## COMANDO 3 (T1500)
+
+esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
+
+## RESPUESTA 3 (T1500)
+
+> esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
+
+> —Está bien, Milk. Muchas gracias. Me voy a quedar hasta unos días después del cumpleaños de Bulma.
+
+Milk asiente, una sola vez, muy seria, como si acabaras de firmar un contrato.
+
+—Bien. —Se levanta. Te saca el tazón vacío de adelante y te pone otro, lleno, sin preguntar—. Entonces comes bien estos días. Estás flaco. Todos los que viajan vuelven flacos.
+
+Se da vuelta hacia la cocina, de espaldas a ti, y revuelve una olla que no necesita revolverse. Desde atrás le ves la oreja un poco colorada.
+
+—Goten va a estar contento —dice, a la olla—. Pregunta por el gato todas las semanas. Le dibujó como cuarenta veces. Los tiene pegados en la pared de su cuarto.
+
+La puerta del baño se abre. Goku sale con una toalla en la cabeza, el pelo goteando, una camiseta limpia puesta al revés, y se asoma a la cocina olfateando.
+
+—¿Facundo se queda? —Se le ilumina la cara—. ¡Bien! ¡Entonces mañana entrenamos otra vez!
+
+—Mañana —dice Milk, sin darse vuelta— tú aras el campo norte. A las seis.
+
+—Pero...
+
+—A las seis.
+
+Goku se queda callado, con la toalla en la cabeza. Después te mira a ti, con los ojos brillantes, y se le arma una idea en la cara, enorme, de esas que se le arman pocas veces.
+
+—Milk —dice, muy despacio—. ¿Y si Facundo me ayuda a arar? Así terminamos más rápido. Y después entrenamos.
+
+Milk se da vuelta con el cucharón en la mano. Te mira a ti. Mira a Goku. Te vuelve a mirar a ti, con los ojos entrecerrados, calculando.
+
+—El campo norte y el campo de abajo —dice—. Los dos. Antes del mediodía. —Señala a Goku con el cucharón—. Si terminan, entrenan. Si no, nada.
+
+Goku se da vuelta hacia ti, con la toalla resbalándole de la cabeza y las manos juntas.
+
+—¿Me ayudas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1500 · DRAGON BALL · AÑO 777 · 12:50   ║
+║ Monte Paoz · casa de los Son, cocina         ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · Palmas vendadas   ║
+║ Velo: persona común                          ║
+║ Kase: afuera, con Goten junto al arroyo      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Quedarse hasta después de la       ║
+║ fiesta de Bulma (Bills, sábado)              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 12:50, cocina de los Son. Facundo se queda hasta después de la fiesta de Bulma (sábado, Bills). Goku le pide que lo ayude a arar mañana (dos campos antes del mediodía) para poder entrenar. Facundo puede responder.

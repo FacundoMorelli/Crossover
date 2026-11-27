@@ -28,3 +28,4 @@ ESTADO: bien.
 - T1497 · Año ~777, ~10 años · Sale con la boca llena de arroz; se le cae el plato. "¡PAPÁ!" "¡¡EL GATOOOO!!" Pasa al lado de Goku sin mirarlo y se arrodilla delante de Kase.
 - T1498 · Se ríe de su padre; Kase le deja tocarle una oreja.
 - T1499 · Le explica a Kase, muy serio, cómo se pesca en el arroyo.
+- (por Milk, T1500) Pregunta por el gato todas las semanas; lo dibujó unas cuarenta veces; dibujos pegados en la pared de su cuarto.

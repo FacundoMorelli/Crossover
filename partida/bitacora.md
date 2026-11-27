@@ -1498,3 +1498,4 @@ T1496 · DRAGON BALL · Planeta de Kaio-sama · "Está bien. Voy." Goku feliz; c
 T1497 · DRAGON BALL · Planeta de Kaio → Monte Paoz · Lleva a Goku a casa. Milk con la escoba: "¡GOKUUUU!" Goten corre a Kase. Milk: "¿Tú lo trajiste? ¿De dónde estaba este irresponsable?"
 T1498 · DRAGON BALL · Monte Paoz · "Estaba en el planeta de Kaio." Milk reta a Goku (fiesta de Bulma el sábado). Cura a Facundo, lo hace pasar a comer. "¿Leíste el libro que te di?"
 T1499 · DRAGON BALL · Monte Paoz, cocina · No leyó el libro. Milk: "¡Igualito a él!" Lo cura y le da de comer. Fiesta de Bulma el sábado, en cuatro días; le ofrece la casita.
+T1500 · DRAGON BALL · Monte Paoz · Se queda hasta unos días después de la fiesta de Bulma. Milk: "Estás flaco." Goku propone que Facundo lo ayude a arar; Milk: dos campos antes del mediodía o no hay entrenamiento. "¿Me ayudas?"
