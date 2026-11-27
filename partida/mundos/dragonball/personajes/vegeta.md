@@ -184,3 +184,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1635 · Arranca dos veces su foto de la heladera; Bulma la vuelve a pegar.
 - T1644 · Levanta el plato sin decir nada para recibir torta.
 - T1657 · Domingo 06:00-08:00: entrena a Goten y Trunks (Remolino Gemelo; al cuarto intento les sale y rompen una pared). "¡Otra vez!"
+- T1659 · Nota "Tch." en la taza. Martes 06:00-07:30 entrena a Goten y Trunks. A Facundo: "Tienes cara de idiota."

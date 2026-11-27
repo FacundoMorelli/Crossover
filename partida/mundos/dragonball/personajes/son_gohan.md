@@ -38,3 +38,4 @@ DIÁLOGOS CLAVE:
 - T1637 · "Videl, el bebé."
 - T1642 · Le alcanza agua a Erasa cuando se atraganta, con vergüenza ajena.
 - T1657 · Lunes: almuerza en la Corporación con Videl.
+- T1659 · Martes: le advierte a Facundo que la mamá de Erasa es "muy simpática, pero muy, muy curiosa" (a él le preguntó cuánto ganaba, cuántos hijos pensaba tener y por qué tanto músculo).

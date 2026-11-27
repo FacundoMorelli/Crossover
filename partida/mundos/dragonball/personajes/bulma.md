@@ -48,3 +48,4 @@ TIENE: libro de Paradis (T1542).
 - T1649 · Espía desde la ventana de la cocina con platos en la mano; se agacha detrás de la mesada al ser vista.
 - T1650 · Saluda con un plato desde la ventana cuando arranca el aerodeslizador.
 - T1657 · (sim) Sábado 23:55: lo espera en la cocina con té frío y revista al revés; no pregunta; "¡Buenas noches, Facundo!" cantando. Domingo 10:15: le devuelve la cápsula 7 ("Sin techo es más romántico"). Lunes: le pasa los mensajes de Erasa sonriendo.
+- T1659 · Nota en la taza: "¿Y???". Martes: le da una caja de bombones dorada para la mamá de Erasa ("Nunca vayas a una casa por primera vez con las manos vacías"). Opina sobre las mangas y los dragones.

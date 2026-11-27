@@ -26,3 +26,4 @@ ESTADO: activo
 - T1634 · Propone "Súper Torbellino Trunks"; acepta "Remolino Gemelo" (lo dice él primero). Vegeta lo cita a las 6 en la cámara de gravedad.
 - T1635 · Le muestra la foto de la montaña rusa a Bulma. Se baña por orden de Milk.
 - T1657 · Domingo: Remolino Gemelo con Goten bajo Vegeta; les sale al cuarto intento.
+- T1659 · Nota en la taza: "Mi mamá no durmió esperándote". Entrena con Vegeta; Bulma lo manda a la escuela.

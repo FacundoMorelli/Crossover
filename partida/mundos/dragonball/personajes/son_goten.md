@@ -58,3 +58,4 @@ ESTADO: bien.
 - T1635 · Se baña por orden de Milk. En la cena.
 - T1645 · Se duerme sentado contra Goku, con chocolate hasta las orejas ("¡Yo no fui!").
 - T1657 · Domingo: Remolino Gemelo con Trunks bajo Vegeta. Lunes: de visita con Goku en la Corporación.
+- T1659 · Martes 05:55 llega volando con la mochila al revés a entrenar con Vegeta.

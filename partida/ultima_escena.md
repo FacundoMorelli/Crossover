@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1656)
-
-es la idea, ahora ve antes que tu madre te mate
-
-## RESPUESTA 1 (T1656)
-
-> es la idea, ahora ve antes que tu madre te mate
-
-> —Es la idea. Ahora ve, antes de que tu madre te mate.
-
-Erasa se ríe. Una risa de verdad, fuerte, que le sale de golpe y que se tapa con las dos mangas.
-
-—Es la idea —te imita, poniendo la voz grave y la cara seria—. Imposible. Eres imposible.
-
-Se agacha, junta la torta envuelta del piso, le sacude una pelusa imaginaria y abre la puerta del aerodeslizador. Se baja. El sobretodo le arrastra un poco por la vereda.
-
-Da dos pasos hacia la reja. Se da vuelta.
-
-—A las once —dice, señalándote con la manga—. En punto. Y esperas cinco minutos sin decir nada.
-
-Da otros dos pasos. Se da vuelta otra vez. Mira hacia el hueco de atrás de los asientos.
-
-—Chau, Kase.
-
-Kase saca la cabeza, la mira y parpadea despacio, una sola vez. Erasa se lleva la manga al pecho como si le hubieran dado un premio.
-
-Abre la reja. Antes de que llegue a la puerta, la puerta se abre sola.
-
-En el umbral hay una mujer de unos cuarenta y tantos, rubia como ella, con los mismos rulos pero más cortos, en bata rosa y pantuflas, con los brazos cruzados y el teléfono en la mano. Mira a su hija. Mira el sobretodo negro que le llega hasta los tobillos. Mira por encima del hombro de Erasa, hacia la vereda: el aerodeslizador rojo, el pelo blanco y azul, los tatuajes que asoman por el cuello de la camisa, los ojos de dos colores.
-
-Levanta una ceja. Muy alto.
-
-—Mamá, entra —dice Erasa, empujándola por la panza hacia adentro con las dos manos—. Entra, entra, entra. Te cuento todo. Mañana. Bueno, ahora. Pero adentro.
-
-—¿Ese quién es?
-
-—¡Adentro!
-
-La puerta se cierra.
-
-La calle se queda en silencio. Un grillo en el rosal. El zumbido lejano de la ciudad. El buzón con forma de pato, con su ojo despintado, mirándote.
-
-Medio minuto después se abre la cortina de la ventana del segundo piso. Aparece Erasa, todavía con el sobretodo puesto, y te saluda con la manga vacía, de lado a lado, como un limpiaparabrisas. Detrás de ella se asoma la cabeza de la madre. Erasa la tapa con la cortina sin dejar de saludarte.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1656 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calle de los Tilos 14, casa de Erasa · 23:36 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cita con Erasa mañana a las 11     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1657)
+## COMANDO 1 (T1657)
 
 la saludo con la mano y vuelvo a la corporación, simula un par de dias y si podes agregar el resto del canon de animes que agregue fijate en otra rama si no esta ahi
 
-## RESPUESTA 2 (T1657)
+## RESPUESTA 1 (T1657)
 
 > la saludo con la mano y vuelvo a la corporación, simula un par de días
 
@@ -123,11 +63,11 @@ Te mira desde abajo, con los ojos celestes muy abiertos.
 
 ---
 
-## COMANDO 3 (T1658)
+## COMANDO 2 (T1658)
 
 si a las ocho estoy ahi
 
-## RESPUESTA 3 (T1658)
+## RESPUESTA 2 (T1658)
 
 > si a las ocho estoy ahi
 
@@ -173,4 +113,64 @@ La calle queda tranquila. El grillo del rosal. El buzón con forma de pato. Son 
 
 ---
 
-ESTADO AL CIERRE: lunes 22:15, Facundo y Kase solos en la vereda de Calle de los Tilos 14. Cena confirmada: martes 20:00 en punto (la mamá probablemente hace pollo al horno). Kase también invitado. Facundo tiene libre el martes hasta las 20:00.
+## COMANDO 3 (T1659)
+
+vuelvo a la corporación y simula hasta las ocho del martes
+
+## RESPUESTA 3 (T1659)
+
+> vuelvo a la corporación y simula hasta las ocho del martes
+
+Vuelves a la Corporación Cápsula con Kase en el asiento del acompañante y la ciudad apagándose de a poco debajo de ustedes.
+
+Lunes, 22:40. La cocina está a oscuras. En la mesa hay un papelito pegado con cinta en tu taza, con la letra de Bulma: "¿Y???". Debajo, con otra letra, más chica y más torcida, la de Trunks: "Mi mamá no durmió esperándote". Debajo, con letra de adulto, apretada, sin firma: "Tch."
+
+Martes, 06:00. La cámara de gravedad vuelve a temblar. Goten llega a las seis menos cinco, volando, con la mochila del colegio puesta al revés. Vegeta los hace repetir el Remolino Gemelo hasta las siete y media, cuando Bulma baja en bata y los manda a los dos a la escuela, despeinados y con raspones. Vegeta sale de la cámara, te ve en la cocina, te mira la cara un segundo y dice: "Tienes cara de idiota." Se sirve café y se va.
+
+Martes, mañana. Erasa escribe a las nueve y dos: "¿Ya te despertaste?" A las nueve y cuatro: "Mi mamá compró el pollo." A las nueve y siete: "Y papas." A las nueve y diez: "No te asustes si te pregunta muchas cosas. Pregunta muchas cosas. Es su forma de querer." A las diez: una foto borrosa de la cocina de su casa, con un pollo crudo en una fuente y su madre de espaldas. A las once: "Olvida la foto."
+
+Martes, mediodía. Bulma te intercepta en el pasillo con una caja de bombones de una confitería cara de la Capital del Oeste, envuelta en papel dorado con una cinta. "Para la mamá. Nunca, jamás, vayas a una casa por primera vez con las manos vacías." Te la pone en las manos. Después, mirándote de arriba abajo, decide que la camisa blanca está bien, pero que no la vas a usar con las mangas arremangadas, "que se te ven todos los dragones y la señora se desmaya". Se ríe sola. Después lo piensa mejor y dice que no, que los dragones también están bien.
+
+Martes, tarde. Gohan pasa a buscar unos papeles por el laboratorio del Doctor Brief. Te encuentra en el jardín y se queda un rato, incómodo, rascándose la nuca, hasta que te dice que la mamá de Erasa es "muy simpática, pero muy, muy curiosa", que una vez le preguntó a él, en el cumpleaños de Erasa, cuánto ganaba un investigador, cuántos hijos pensaba tener y por qué tenía tanto músculo para alguien que estudia. Que no se asuste. Se va riéndose solo.
+
+Martes, 19:30. Kase se sienta delante de la puerta del cuarto, solo, sin que nadie lo llame, mirándote, como si supiera la hora.
+
+Martes, 19:52. La cápsula 7 otra vez. La ciudad iluminada. El parque central. La Calle de los Tilos.
+
+Martes, 20:00 en punto. Calle de los Tilos, catorce. La luz de la sala encendida, la cortina quieta. El rosal despeinado tiene una flor nueva. Huele a pollo al horno, a romero y a papas desde la vereda. El buzón con forma de pato tiene el ojo despintado, recién pintado de nuevo, torcido.
+
+Tocas el timbre.
+
+La puerta se abre al primer timbre, demasiado rápido, como si hubiera alguien esperando del otro lado con la mano en el picaporte.
+
+No es Erasa.
+
+Es su madre. Ya no lleva bata: tiene un vestido verde oscuro, un collar de perlas falsas, los rulos rubios recién peinados y un delantal de cocina con dibujos de patos encima de todo. Lleva un repasador en el hombro. Te mira de arriba abajo, despacio, sin disimular nada: el pelo blanco y azul, los aros, la cicatriz del ojo, los dragones que asoman por el cuello de la camisa, la caja dorada en tu mano. Baja la vista hasta Kase. Kase la mira de vuelta, sin parpadear.
+
+Desde algún lugar del segundo piso se oye a Erasa, ahogada: "¡Mamá! ¡Te dije que abría yo!", y unos pasos corriendo.
+
+La madre no se mueve del umbral. Te tiende la mano.
+
+—Así que tú eres el viajero. —La voz es amable, pero los ojos, celestes como los de su hija, no se pierden nada—. Pasa, pasa, que se enfría el pollo. Pero antes dime una cosa, ya que estamos solos.
+
+Te aprieta la mano. Firme.
+
+—¿Tú de qué vives, querido?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1659 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calle de los Tilos 14 · martes · 20:00       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: a tus pies                             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:00, puerta de Calle de los Tilos 14. La mamá de Erasa abrió (vestido verde, perlas falsas, delantal de patos), le da la mano a Facundo, firme: "Así que tú eres el viajero. Pasa, que se enfría el pollo. Pero antes dime una cosa, ya que estamos solos. ¿Tú de qué vives, querido?" Erasa baja corriendo del segundo piso. Facundo tiene la caja de bombones de Bulma en la mano. Kase a sus pies.

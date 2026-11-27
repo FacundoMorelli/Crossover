@@ -14,3 +14,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en su casa.
 - T1657 · Domingo 11:04: los mira salir desde la puerta, gesto con la cabeza a Kase, mira a Facundo de arriba abajo sin decir nada. Domingo 20:30: abre antes del timbre. Lunes: invita a Facundo a cenar el martes a las 20:00 ("no es una pregunta"), vía Erasa.
 - T1658 · Por la ventana de la cocina: "¿Y? ¿Dijo que sí?" "¡Mejor! ¡Que sepa que es a las ocho en punto!" Invita también a Kase.
+- T1659 · Martes 20:00: abre al primer timbre. Vestido verde oscuro, collar de perlas falsas, rulos peinados, delantal con patos, repasador al hombro. Repintó el ojo del buzón (torcido). Pollo al horno con romero y papas. Mira a Facundo entero (pelo, aros, cicatriz, dragones, caja dorada) y a Kase. Le da la mano, firme: "Así que tú eres el viajero. Pasa, pasa, que se enfría el pollo. Pero antes dime una cosa, ya que estamos solos. ¿Tú de qué vives, querido?"
