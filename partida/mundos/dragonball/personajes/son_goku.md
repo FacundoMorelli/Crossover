@@ -136,3 +136,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1602 · Recibe una semilla del ermitaño de Facundo (la atrapa con dos dedos): "¡Gracias! Para después. Por si acaso." La guarda en el cinturón del gi. Le pide hamburguesa a Bills (no).
 - T1605 · Ve la fusión UI + Forma Cenit: boca abierta, sin hablar. Kase sentado a su lado.
 - T1606 · "¡¿Como la fusión?! ¡¿Como cuando Goten y Trunks bailan y se vuelven Gotenks?! ¡¿O como los aretes del Supremo Kaioshin?!"
+- T1608 · Sabe (por Facundo) que le copió el Super Saiyajin: "¡¿Me copiaste a mí?! ¡Qué increíble! ¡O sea que una parte de lo que tienes es mía! ¡Entonces cuando peleamos ayer estaba peleando un poco contra mí mismo!"

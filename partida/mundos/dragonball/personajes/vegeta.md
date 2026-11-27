@@ -165,3 +165,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1604 · De pie ante Bills, sin reverencia: "...no la manera de Kakaroto. Ni la del ángel. La suya. La de un Dios de la Destrucción. Quiero aprender a pelear como pelea usted." (Canon: Vegeta entrena con un Dios de la Destrucción mucho después; acá, adelantado.)
 - T1605 · Ve la fusión UI + Forma Cenit: "Nada importante. Dijo nada importante." (entre dientes, ojos encendidos).
 - T1606 · "Sea lo que sea. Claro. Por qué no." (brazos cruzados, guantes crujiendo).
+- T1608 · Sabe (por Facundo) que es humano y copia: "Un humano que copia. Entonces lo que me hizo sangrar ayer, el azul... era de Kakaroto. Me lo pegaste con el poder de Kakaroto." Sonrisa torcida: "Bien. Entonces todavía tengo algo que tú no copiaste. Lo mío."

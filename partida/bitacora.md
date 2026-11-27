@@ -1606,3 +1606,4 @@ T1604 · DRAGON BALL · Planeta de Bills · Acaricia a Kase. Vegeta le pide a Bi
 T1605 · DRAGON BALL · Planeta de Bills · "Nada importante." Fusiona UI Dominado + Forma Cenit (x50.000; sellada, sin costo). Whis: "Eso no existe." Bills: "¿Qué es eso ahora?"
 T1606 · DRAGON BALL · Planeta de Bills · "Puedo combinar habilidades, sea lo que sea." Whis: "Una sola persona juntando dos cosas que no deberían poder estar juntas." Bills: "¿Cuánto tienes ahí adentro?"
 T1607 · DRAGON BALL · Planeta de Bills · "Perdón por copiarte esto." Hakai sobre una roca (con llamas blancas y azules). Bills: "Es mi Hakai... ¿Me copiaste? ¿Me lo sacaste?"
+T1608 · DRAGON BALL · Planeta de Bills · "Es una copia. Copié el SSJ de Goku. Soy un humano." Bills conserva el Hakai (lo prueba). Goku feliz; Vegeta: "Todavía tengo algo que tú no copiaste. Lo mío." Bills: "¿Lo puedes copiar? ¿Cualquier cosa?"

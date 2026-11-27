@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1605)
-
-nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
-
-## RESPUESTA 1 (T1605)
-
-> nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
-
-> —Nada importante.
-
-Bills entrecierra los ojos un poco más. No te cree. Pero antes de que pueda insistir, te alejas unos pasos de la escalera, hasta el pasto abierto, y te paras de frente a la explanada que Whis está terminando de arreglar.
-
-Kase se baja solo de tu hombro y se va a sentar al lado de Goku.
-
-Primero el plateado.
-
-El pelo se te vuelve plata y flota. Los ojos, plata. El aire tiembla a tu alrededor, transparente, y la cabeza se te queda en blanco, tranquila, como el agua quieta de un estanque.
-
-Después, sin soltar eso, llamas a la otra.
-
-La Forma Cenit siempre viene de abajo, desde el pecho, caliente, como un incendio que se prende de adentro hacia afuera. Esta vez no se prende contra el silencio del Ultra Instinto: se prende adentro de él.
-
-El pelo, sin dejar de ser plateado, se te enciende en las puntas. Primero en blanco, después en azul, como el filo de una llama de gas. Flota y arde al mismo tiempo. Los ojos siguen plateados, pero en el fondo de cada uno se te enciende un punto: rojo en el izquierdo, azul en el derecho, brillando como brasas debajo del hielo. Alrededor de tu cuerpo, el aire transparente del Ultra Instinto se llena de llamas blancas y azules que no se mueven como el fuego, sino despacio, quietas, ondulando como algas en el fondo del mar.
-
-No hay ruido. No hay viento.
-
-Pero el pasto se aplasta en un círculo perfecto alrededor de tus pies, hacia afuera, como si algo invisible y enorme se hubiera sentado ahí. Las venas de luz que Whis acababa de arreglar se encienden todas juntas, del borde de la explanada a la escalera, y se quedan así, brillando fuerte, temblando.
-
-[Fusión en Caliente: Ultra Instinto Dominado + Forma Cenit. Sin costo.]
-
-[Combinación sellada.]
-
-Whis deja de pasar el báculo por la explanada. Se da vuelta, despacio.
-
-—Facundo-san —dice, en voz baja—. Eso no existe.
-
-—Existe —dice Bills, que se puso de pie en el escalón sin darse cuenta, con la bolsa de semillas colgando de la mano. Tiene las orejas aplastadas del todo—. Lo estoy viendo.
-
-Goku tiene la boca abierta y no dice nada. Kase, sentado a su lado, mueve la cola una vez.
-
-Vegeta te mira fijo, con la mandíbula apretada. Después mira a Bills. Después otra vez a ti.
-
-—Nada importante —repite, entre dientes, con los ojos encendidos—. Dijo nada importante.
-
-Bills baja un escalón, sin sacarte los ojos de encima. La cola se le eriza de nuevo, pero esta vez las orejas le suben de a poco, y en la cara se le va armando otra vez esa sonrisa de gato que ve algo moverse debajo del sillón.
-
-—Muchacho del bolsillo —dice, despacio—. ¿Qué es eso ahora?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1605 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · 45 min) · Velo: ki muy bajo       ║
-║ Kase: sentado al lado de Goku                ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1606)
+## COMANDO 1 (T1606)
 
 es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
 
-## RESPUESTA 2 (T1606)
+## RESPUESTA 1 (T1606)
 
 > es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
 
@@ -123,11 +58,11 @@ Ladea la cabeza.
 
 ---
 
-## COMANDO 3 (T1607)
+## COMANDO 2 (T1607)
 
 mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
 
-## RESPUESTA 3 (T1607)
+## RESPUESTA 2 (T1607)
 
 > mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
 
@@ -192,4 +127,77 @@ Le apunta a tu cara con la bolsa de semillas, como si fuera un arma.
 
 ---
 
-ESTADO AL CIERRE: Facundo usó el Hakai sobre una roca y confesó que lo copió. Bills: "¿Me copiaste? ¡Es mi trabajo! ¿Me lo sacaste?" Facundo puede contestar.
+## COMANDO 3 (T1608)
+
+no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
+
+## RESPUESTA 3 (T1608)
+
+> no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
+
+> —No, señor Bills. Es una copia. Por eso mismo tengo el Super Saiyajin: lo copié de Goku. Soy un humano.
+
+Bills no te escucha del todo. Ya está mirando el suelo, buscando. Encuentra una piedrita del tamaño de una nuez, junto a su pie, y le apunta con un dedo, rápido, sin ceremonia.
+
+El contorno violeta aparece alrededor de la piedrita. Se deshace en partículas. No queda nada.
+
+Bills se queda mirando el lugar vacío un segundo largo. Después suelta todo el aire de golpe, por la nariz, y los hombros se le caen.
+
+—Ah. —Las orejas le suben despacio—. Ah, bueno. Lo tengo.
+
+Se mira el dedo. Lo flexiona. Lo vuelve a mirar.
+
+—Lo tengo —le dice a Whis, por las dudas.
+
+—Lo vi, Bills-sama.
+
+Pero el que se mueve primero es Goku.
+
+—¡¿Me copiaste a mí?! —Cruza el pasto en dos saltos y se te para delante, con los ojos enormes, señalándose el pecho—. ¡¿El Super Saiyajin lo sacaste de mí?! ¡¿Por eso te transformabas sin ser saiyajin?!
+
+No espera respuesta. Se le arma una sonrisa de oreja a oreja.
+
+—¡Qué increíble! ¡O sea que una parte de lo que tienes es mía! —Se ríe y se rasca la nuca—. ¡Entonces cuando peleamos ayer estaba peleando un poco contra mí mismo!
+
+Kase, todavía sentado donde Goku lo dejó, lo mira irse con cara de cansancio.
+
+Vegeta no se ríe.
+
+Se queda al pie de la escalera, con los brazos ya descruzados, mirándote. La cara se le va endureciendo de a poco, como una piedra que se enfría.
+
+—Un humano —dice, despacio—. Un humano que copia.
+
+Aprieta los puños.
+
+—Entonces lo que me hizo sangrar ayer, el azul, el poder de un saiyajin... era de Kakaroto. —Le tiembla la mandíbula—. Me lo pegaste con el poder de Kakaroto.
+
+Mira a Goku, que sigue riéndose. Después a ti otra vez, y por un segundo la rabia de antes vuelve. Pero se le apaga sola, y en su lugar queda otra cosa: una sonrisa torcida, chica, casi sin querer.
+
+—Bien —gruñe—. Entonces todavía tengo algo que tú no copiaste. Lo mío.
+
+Whis se acerca, con el báculo apoyado en el hombro, y te mira con la cabeza inclinada.
+
+—Un humano. Que copia lo que ve, y lo junta como quiere. —Sonríe, pensativo—. Facundo-san, cada vez que abre la boca me deja con más preguntas que antes.
+
+Bills, con el dedo todavía levantado, te mira de reojo. La cola se le mueve despacio, sospechosa.
+
+—A ver si entendí. —Te apunta con el dedo de la piedrita—. Si te muestro algo, ¿lo puedes copiar? ¿Cualquier cosa?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1608 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 53% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~40 min) · Velo: ki bajo   ║
+║ Kase: sentado en el pasto                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills comprobó que conserva el Hakai. Todos saben que Facundo es humano y copia. Bills: "Si te muestro algo, ¿lo puedes copiar? ¿Cualquier cosa?" Facundo puede contestar.
