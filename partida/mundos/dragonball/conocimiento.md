@@ -71,3 +71,4 @@
 - Dende, Mr. Popo · T1489 · Por Facundo: va a ir a ver a Goku (al planeta de Kaio-sama).
 - Kaio-sama, Bubbles, Gregory · T1490 · Ven a Facundo aparecer de la nada. Kaio-sama no le siente el ki (Velo). Por Goku: es "Facundo, el del gato".
 - Facundo · T1490 · Por Dende: Dende y Mr. Popo no bajan a la fiesta de Bulma.
+- Goku, Kaio-sama · T1491 · Ven a Facundo pasarle algo al gato con la mano (el gato deja de estar aplastado). Kaio-sama no siente ningún ki.

@@ -1489,3 +1489,4 @@ T1487 · SHINGEKI → DRAGON BALL · Radio de Hange; noche con Ymir en el bosque
 T1488 · DRAGON BALL · Templo Sagrado · Dende cuenta los tres años (boda de Gohan y Videl, Goku en el planeta de Kaio-sama, fiesta de Bulma pronto). Ofrece avisarle a Kaio-sama.
 T1489 · DRAGON BALL · Templo Sagrado · "Yo lo voy a ver." Mr. Popo: gravedad x10. Mensaje de Milk para Goku. "Vuelve a visitarnos."
 T1490 · DRAGON BALL · Templo → planeta de Kaio-sama · Dende no irá a la fiesta. Llegada al planeta de Kaio (gravedad x10). Kaio-sama no siente su ki. Goku: "¡FACUNDO! ¿Peleamos?"
+T1491 · DRAGON BALL · Planeta de Kaio-sama · Ki a Kase para la gravedad. "Bueno, Goku. Empecemos." Goku sin pesas, base; primer puño por la izquierda.

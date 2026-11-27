@@ -109,3 +109,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1437 · Come cada mañana el cerdo de Ayame en el estante; nunca le agradece.
 - T1439 · Se echa en el medio del futón de la casa de madera, ocupando la mitad, "como en todos los mundos".
 - T1440 · Facundo le da un beso en la cabeza antes de la despedida; Kase lo permite "como un favor". Cruza con él a One Piece.
+- T1491 · Dragon Ball, planeta de Kaio-sama · Facundo le pasa ki para aguantar la gravedad x10. Se sienta a mirar fijo a Bubbles, que retrocede.

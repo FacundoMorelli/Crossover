@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: por Goku, mucho (lo que Goku vio, años 774); en persona, nada (Velo).
 CON ÉL: Bubbles (mono), Gregory (grillo).
 ESTADO: activo
+- T1491 · "¡Ese gato está asustando a Bubbles!" "¡Goku! ¡Mi planeta!"

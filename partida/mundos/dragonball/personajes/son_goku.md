@@ -56,3 +56,4 @@ DIÁLOGOS CLAVE:
 - T177: "¡Eh! ¿Quién es ese? ¡No siento nada de él!"
 - T175: "¡Vegeta! ¡¿Qué te pasa?!"
 - T1490 · Año ~777 · Planeta de Kaio-sama, flexiones con un dedo y pesas en los tobillos. Ve a Facundo: "¡FACUNDO! ¡Volviste! ¡Kaio-sama, este es Facundo! ¡El del gato! ¡Te hablé de él mil veces!" "¡Hace meses que no tengo con quién pelear en serio!" "¿Peleamos? Solo un poco. Bueno, no tan poco."
+- T1491 · Se saca las pesas. A Kaio-sama: "¡No lo vamos a romper! Bueno. No tanto." "Empezamos tranquilos. Para calentar." Desaparece (estado base) y lanza un puño por la izquierda a la cara de Facundo.
