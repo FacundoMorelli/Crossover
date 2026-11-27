@@ -1585,3 +1585,4 @@ T1583 · DRAGON BALL · Planeta de Bills · Pregunta a Bills y Whis si tienen pa
 T1584 · DRAGON BALL · Planeta de Bills · "No, tampoco. Soy viajero." Bills: "Yo también viajo. Debe ser parecido." Se olvida del tema. Whis rehace la barrera. "Segunda ronda."
 T1585 · DRAGON BALL · Planeta de Bills · Cuenta que es de otro mundo. Bills: "¿Del de Champa?" Whis: "Eso explicaría el punto negro." Bills: "Traes comida de allá. Pero primero, la segunda ronda."
 T1586 · DRAGON BALL · Planeta de Bills · Segunda ronda: Bills en serio, puños con destrucción (manga izquierda perdida, corte en las costillas). Rodillazo al estómago. Bills: "Todavía te contienes. Si hay algo arriba de ese azul, muéstramelo."
+T1587 · DRAGON BALL · Planeta de Bills · Ultra Instinto Dominado. Whis lo nombra ("Usted mismo todavía no lo domina"). El cuerpo esquiva solo el triple ataque de Bills y le entra en las costillas: Bills arrodillado, asombrado.

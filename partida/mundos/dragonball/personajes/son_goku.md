@@ -120,3 +120,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1581 · Serio por primera vez en el día: "¡Oye, Facundo! ¡Eso no es como un golpe! ¡Yo vi lo que le hizo a la roca!"
 - T1582 · Grita el nombre de Facundo cuando el Hakai lo envuelve; manos aplastadas contra la barrera cuando lo rompe.
 - T1585 · Oye que Facundo es de otro mundo: "¿Hay más mundos? ¿Hay gente fuerte ahí?"
+- T1587 · Ve a Facundo en Ultra Instinto Dominado; callado de verdad por primera vez en el día, manos en la barrera. Oyó a Whis nombrarlo.

@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1584)
-
-no tampoco, soy viajero
-
-## RESPUESTA 1 (T1584)
-
-> no tampoco, soy viajero
-
-> —No, tampoco. Soy viajero.
-
-—Viajero. —Bills levanta una ceja—. Hm.
-
-Te mira de arriba abajo una vez más: el pelo azul, el sobretodo comido, el borceguí desatado. Después mira a Kase, que bosteza en el apoyabrazos de Whis.
-
-—Un viajero sin padres, con un gato que no le tiene miedo a un dios y un bolsillo lleno de pudín. —Se encoge de hombros—. Bueno. Yo también viajo. Voy a un planeta, como algo y lo destruyo si la comida es mala. Debe ser parecido.
-
-—No creo que sea parecido, Bills-sama —dice Whis.
-
-—Es parecido.
-
-No pregunta más. Se le nota que ya se olvidó del tema, como un gato que se olvida de la mosca en cuanto ve pasar otra. Descruza los brazos. Estira la espalda hacia atrás hasta que le truena, y después el cuello, a un lado y al otro.
-
-El aura violeta le vuelve a subir por el cuerpo, despacio, más densa que antes.
-
-—Bueno. Ya sé que no te deshaces. —Sonríe con todos los dientes—. Eso significa que ya no tengo que tener cuidado contigo.
-
-Afuera, Whis suspira y, con un golpecito del báculo, la barrera agrietada se vuelve a armar entera, más gruesa, más alta. Goku se pega otra vez a la luz, feliz de nuevo. Vegeta vuelve a su roca, pero esta vez no se sienta.
-
-Bills se agacha apenas, con los dedos abiertos.
-
-—Segunda ronda, muchacho del bolsillo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1584 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera rehecha) · tarde          ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 72% · Ojos: bien · mejilla abierta   ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: en el apoyabrazos de Whis              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1585)
+## COMANDO 1 (T1585)
 
 tienen razón, no soy el mismo viajero, soy de otro mundo, no de otro planeta
 
-## RESPUESTA 2 (T1585)
+## RESPUESTA 1 (T1585)
 
 > tienen razón, no soy el mismo viajero, soy de otro mundo, no de otro planeta
 
@@ -111,11 +63,11 @@ El aura violeta le vuelve a subir, de golpe esta vez, densa, fría.
 
 ---
 
-## COMANDO 3 (T1586)
+## COMANDO 2 (T1586)
 
 esta bien
 
-## RESPUESTA 3 (T1586)
+## RESPUESTA 2 (T1586)
 
 > esta bien
 
@@ -168,4 +120,81 @@ Bills sale del pozo, despacio. Se pasa la lengua por el labio partido.
 
 ---
 
-ESTADO AL CIERRE: Segunda ronda. Bills, en serio: "Todavía te contienes. Si hay algo arriba de ese azul, muéstramelo. Ahora." Facundo puede actuar.
+## COMANDO 3 (T1587)
+
+esta bien, activo el ultra instinto dominado
+
+## RESPUESTA 3 (T1587)
+
+> esta bien, activo el ultra instinto dominado
+
+> —Está bien.
+
+Bajas los brazos.
+
+El aura azul se apaga de golpe, como una vela que alguien sopla. El pelo azul se te viene abajo, suelto, y por un segundo te quedas ahí, en el medio de la explanada, sin transformación, sin brillo, con el sobretodo comido y la camisa abierta. Como un muchacho cualquiera.
+
+Bills frunce el ceño.
+
+Entonces el pelo se te vuelve plateado.
+
+No sube: flota, liviano, como si de golpe no pesara nada. Los ojos también se te vuelven plata, fríos y quietos, sin pupila que se mueva hacia ningún lado. Alrededor de tu cuerpo aparece un aura que no es fuego ni luz: es como el aire caliente encima de una ruta en verano, transparente, temblando, con chispas blancas y plateadas que suben despacio y se apagan.
+
+Ya no te late el corazón rápido. Ya no piensas en dónde poner los pies. No piensas en nada.
+
+El suelo de la explanada se queda en silencio. Las venas de luz debajo de ti dejan de parpadear y se quedan quietas, encendidas parejo.
+
+Afuera, Whis se pone de pie de un salto. Es la primera vez que lo ves moverse rápido.
+
+—Oh. —Se lleva una mano a la boca—. Oh, oh, oh.
+
+—Whis. —Bills no te saca los ojos de encima. Ya no sonríe—. ¿Eso es lo que creo que es?
+
+—El Ultra Instinto, Bills-sama. —La voz de Whis suena más baja que nunca—. Y no la señal. Dominado. El cuerpo se mueve solo, sin que la mente lo ordene. Ataca y esquiva por su cuenta.
+
+Hace una pausa.
+
+—Usted mismo todavía no lo domina, Bills-sama.
+
+—Ya sé. No hace falta que lo digas en voz alta.
+
+Goku tiene las dos manos en la barrera y la boca abierta. No grita. Por primera vez en todo el día está callado de verdad.
+
+Vegeta te mira. Y después mira a Goku. Y después al suelo. No aprieta los puños. Los tiene abiertos, colgando, como si se le hubiera ido toda la fuerza de los brazos.
+
+En el apoyabrazos, Kase se queda mirándote, con las pupilas finísimas, sin parpadear.
+
+Bills ataca.
+
+No avisa, no grita y no se ríe. Viene con todo: el puño con destrucción a la cara, la cola a las piernas, el codo detrás. Tres golpes al mismo tiempo, cada uno para borrar.
+
+Tu cuerpo se corre.
+
+No lo decides tú. El cuerpo se inclina dos dedos a la izquierda y el puño violeta pasa rozándote el pelo plateado. El pie se levanta solo, lo justo, y la cola pasa por debajo. El codo te llega a la espalda y no te encuentra, porque ya no estás ahí: estás del otro lado, a la derecha de Bills, y tu mano abierta, sola, sin que la mandes, ya le está entrando en las costillas.
+
+Suena seco, como una puerta que se cierra fuerte.
+
+Bills sale despedido de costado, rebota dos veces en el suelo y se queda arrodillado a treinta pasos, con una mano en el costado y la otra apoyada en la tierra. Tose una vez. Respira por la boca.
+
+Levanta la cabeza despacio.
+
+No hay sonrisa ni enojo en su cara. Solo una cosa que no le habías visto nunca: está asombrado.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1587 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera rehecha) · tarde          ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 58% · Ojos: bien · mejilla abierta · ║
+║ corte fino en las costillas                  ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: en el apoyabrazos de Whis              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo en Ultra Instinto Dominado. Bills arrodillado a 30 pasos tras una palma en las costillas, asombrado. Facundo puede actuar.
