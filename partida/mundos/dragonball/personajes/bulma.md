@@ -36,3 +36,4 @@ TIENE: libro de Paradis (T1542).
 - T1618 · Le saca una foto a Facundo con Kase ("El gato es clave"; "¡El gato hace todo!") y se la manda a Videl para Erasa. Lee en voz alta la respuesta de Erasa, muerta de risa. "¿Qué le contesto?"
 - T1619 · Manda a Erasa lo que dijo Facundo (ojos y pelo naturales, el gato va a todos lados). Lee la respuesta. "¿Cómo se llama el gato, y cómo te llamas tú? Nombre completo, que esta chica es de las que buscan todo."
 - T1620 · Escribe a Erasa los nombres ("hasta el nombre suena a extranjero misterioso"). Se queda paralizada cuando Bills se invita a la cena.
+- T1621 · A Facundo, bajito: Erasa no sabe de saiyajin, Bills ni Whis (Goku es "el papá raro de Gohan", Videl "la hija de Mr. Satán"). "¿Le aviso que va a haber invitados especiales? ¿O la dejamos que llegue y se encuentre con un gato violeta gigante comiendo torta en la mesa?"

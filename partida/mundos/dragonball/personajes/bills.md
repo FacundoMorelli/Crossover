@@ -81,3 +81,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1615 · Pide pudín a Bulma; ella le grita "¡Ahora no!" y se corrige; entra contento a la casa con Whis.
 - T1619 · Sale con un vaso de pudín vacío: "¿Por qué el muchacho del bolsillo está vestido de blanco?" Al saber de la cita: "¿Una cita? ¿Con comida?"
 - T1620 · "Kase. Se lo dije yo primero. Que era un buen nombre para un gato que no le tiene miedo a un dios." Al oír "torta de chocolate": "¿Esa cena tiene torta de chocolate?" A Facundo, muy serio: "Muchacho del bolsillo. Yo también voy a esa cena."
+- T1621 · "A las ocho. Con torta." Entra por más pudín (estante de abajo).

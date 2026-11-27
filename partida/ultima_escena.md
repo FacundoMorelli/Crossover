@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1618)
-
-bueno esta bien
-
-## RESPUESTA 1 (T1618)
-
-> bueno esta bien
-
-> —Bueno, está bien.
-
-—¡Quieto! —Bulma levanta el celular enseguida, antes de que te arrepientas—. No, no, así no. Relájate. Pon cara de... no sé, de que no te importa. Las chicas aman eso.
-
-Retrocede dos pasos. Te encuadra. Frunce el ceño.
-
-—El gato que quede. El gato es clave.
-
-Kase, en tu hombro, mira directo a la cámara. No parpadea. Tiene la cara seria, casi arrogante, de siempre, y los dos ojos, rojo y azul, clavados en el lente.
-
-Clic.
-
-Bulma mira la pantalla. Se le abre la boca.
-
-—Ay, no. —Gira el teléfono para mostrarle a Milk—. Mira esto.
-
-En la foto estás tú, con la camisa blanca arremangada, los dragones en los antebrazos, el pelo blanco y azul suelto y desordenado, mirando un poco de costado, sin sonreír del todo. Y en tu hombro, Kase, mirando a la cámara como si la juzgara.
-
-—Parece una portada de revista —dice Milk, impresionada a su pesar—. El gato hace todo.
-
-—¡El gato hace todo! —Bulma ya está escribiendo—. Se la mando a Videl, que se la pase a Erasa... Enviado.
-
-Pasan unos segundos. Bulma se queda mirando la pantalla, tamborileando con los dedos. Milk también, aunque finge que no le importa.
-
-El teléfono vibra.
-
-Bulma lo lee. Se queda quieta. Se ríe tan fuerte que se tiene que agarrar de la mesa del jardín.
-
-—¿Qué? ¿Qué dice? —Milk se asoma por encima de su hombro.
-
-Bulma se seca una lágrima y lee en voz alta, imitando una voz chillona y emocionada:
-
-—"¡¡¡Videl!!! ¡¿Ese es?! ¡¿En serio?! ¡¿Por qué no me dijiste antes que conocías a alguien así?! ¡¿Esos son tatuajes?! ¡¿Y los ojos?! ¡¿Son lentes de contacto?!" —Hace una pausa, sin poder dejar de reír—. "¡¿Y el gato viene a la cena?! ¡Dile que traiga al gato! ¡Si no trae al gato no voy!"
-
-Milk se ríe detrás del cucharón.
-
-Bulma te mira, con el teléfono en la mano y los ojos brillantes.
-
-—Bueno. —Sonríe de oreja a oreja—. ¿Qué le contesto?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1618 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1619)
+## COMANDO 1 (T1619)
 
 Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
 
-## RESPUESTA 2 (T1619)
+## RESPUESTA 1 (T1619)
 
 > Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
 
@@ -125,11 +60,11 @@ Bulma tiene el pulgar listo sobre la pantalla, esperando, y te mira.
 
 ---
 
-## COMANDO 3 (T1620)
+## COMANDO 2 (T1620)
 
 se llama kase y me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1620)
+## RESPUESTA 2 (T1620)
 
 > se llama kase y me llamo Facundo Morelli
 
@@ -188,4 +123,65 @@ Detrás de Bills, en la puerta corrediza, aparece Whis con una taza de té y la 
 
 ---
 
-ESTADO AL CIERRE: Erasa sabe los nombres; traerá algo para Kase y una torta de chocolate. Bills: "Yo también voy a esa cena." Whis también. Facundo puede contestar.
+## COMANDO 3 (T1621)
+
+esta bien
+
+## RESPUESTA 3 (T1621)
+
+> esta bien
+
+> —Está bien.
+
+—Bien. —Bills asiente, satisfecho, como si hubiera ganado una guerra—. A las ocho. Con torta.
+
+Se da vuelta y vuelve a la casa, despacio, con las manos detrás de la espalda y la cola moviéndose de un lado al otro. En la puerta se detiene.
+
+—Bulma. ¿Queda pudín?
+
+—En la... en la heladera, señor Bills. El estante de abajo.
+
+—Bien.
+
+Entra. Whis le hace una reverencia corta a Milk, le sonríe a Bulma y lo sigue, con la taza de té en la mano.
+
+En el jardín se hace un silencio largo.
+
+Milk se agacha, levanta el cucharón del pasto y se queda mirándolo, pálida.
+
+—Voy a cocinar para un dios. —Lo dice muy despacio—. Un dios que destruye planetas cuando la comida no le gusta.
+
+—Bueno, la última vez no destruyó nada —dice Bulma, sin mucha convicción—. Por el pudín.
+
+—¡Eso fue el pudín de Facundo, no mi comida! —Milk se pone el cucharón en el pecho, como una espada—. Bueno. Bueno. Está bien. Si un dios viene a mi cena, va a comer la mejor comida que comió en su vida. —Se le endurecen los ojos—. Bulma, necesito tu cocina. Toda. Y necesito diez kilos de carne, cinco de arroz, tres pescados enteros y...
+
+—Pide lo que quieras, pide lo que quieras.
+
+Milk ya va hacia la casa, contando con los dedos y murmurando ingredientes.
+
+Bulma se queda a tu lado, con el celular en la mano. Mira la pantalla. Te mira a ti. Se muerde el labio.
+
+—Oye, Facundo. —Baja la voz—. Erasa no sabe nada de nada. No sabe de los saiyajin, ni del señor Bills, ni de Whis. Para ella, Goku es "el papá raro de Gohan", y Videl es "la hija de Mr. Satán".
+
+Sacude un poco el teléfono.
+
+—¿Le aviso que va a haber... invitados especiales? —Hace una mueca—. ¿O la dejamos que llegue y se encuentre con un gato violeta gigante comiendo torta en la mesa?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1621 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills y Whis irán a la cena. Milk cocina en modo guerra. Bulma: "¿Le aviso [a Erasa] que va a haber invitados especiales? ¿O la dejamos que se encuentre con un gato violeta gigante comiendo torta?" Facundo puede contestar.

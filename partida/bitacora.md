@@ -1619,3 +1619,4 @@ T1617 · DRAGON BALL · Capital del Oeste · Ropa nueva (2 F): camisa blanca, je
 T1618 · DRAGON BALL · Capital del Oeste · Foto para Erasa (con Kase). Erasa: "¡¿Ese es?! ¿Tatuajes? ¿Lentes de contacto? ¡Si no trae al gato no voy!" Bulma: "¿Qué le contesto?"
 T1619 · DRAGON BALL · Capital del Oeste · "Ojos y pelo naturales; el gato va conmigo a todos lados." Erasa confirma, llevará algo para el gato, pregunta nombres. Bills: "¿Una cita? ¿Con comida?"
 T1620 · DRAGON BALL · Capital del Oeste · Nombres a Erasa (Kase, Facundo Morelli). Erasa: "¡Ya lo amo!", llevará algo para Kase y torta de chocolate. Bills: "Yo también voy a esa cena." Whis también.
+T1621 · DRAGON BALL · Capital del Oeste · Bills y Whis van a la cena. Milk, pálida, cocinará "para un dios". Bulma: Erasa no sabe nada; "¿Le aviso de los invitados especiales?"
