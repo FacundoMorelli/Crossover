@@ -36,7 +36,7 @@ PODERES MOSTRADOS POR PRIMERA VEZ:
 - Reze (Bomba): al tirar de la anilla en el cuello, cabeza de bomba; explosiones con su cuerpo; vuela impulsándose con explosiones; regenera con sangre como Denji; híbrida.
 - Demonio Tifón: tormentas.
 - Beam: forma completa de tiburón.
-- Makima: control de animales/ratas (ver Dudas).
+- Makima: control de animales/ratas.
 
 ORGANIZACIONES Y BANDOS:
 - URSS (Reze, agente enviada por el corazón de Denji).

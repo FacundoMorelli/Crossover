@@ -5,7 +5,7 @@
 - AUTORA: Koyoharu Gotōge.
 - PUBLICACIÓN: Weekly Shōnen Jump (Shūeisha), 15/02/2016 – 18/05/2020. 23 volúmenes.
 - ESTADO: TERMINADO. 205 capítulos.
-- DEJADO AFUERA: anime (escenas añadidas por ufotable), película "Mugen Train" (adapta canon, se usa el manga), spin-off "Kimetsu Gakuen" (comedia escolar), novelas ligeras de Ryōhei Kimura ("Shiawase no Hana", "Katahane no Chō", "Kaze no Michishirube"; ver Dudas), one-shot "Kagarigari", juegos.
+- DEJADO AFUERA: anime (escenas añadidas por ufotable), película "Mugen Train" (adapta canon, se usa el manga), spin-off "Kimetsu Gakuen" (comedia escolar), novelas ligeras de Ryōhei Kimura ("Shiawase no Hana", "Katahane no Chō", "Kaze no Michishirube"), one-shot "Kagarigari", juegos.
 - GUÍAS OFICIALES USADAS: Fanbooks oficiales 1 y 2 (edades, alturas, rangos, datos de técnicas).
 
 ## Arcos
