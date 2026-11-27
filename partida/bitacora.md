@@ -1547,3 +1547,4 @@ T1545 · DRAGON BALL · Cámara de gravedad · Recibe el Final Flash de lleno y 
 T1546 · DRAGON BALL · Cámara de gravedad · Promete a Vegeta dejar de contenerse cuando lo alcance. Vegeta se levanta solo bajo 500G: "Otra vez. Y mañana. Y pasado."
 T1547 · DRAGON BALL · Capsule Corp → Monte Paoz · SIMULACIÓN: entrenamiento con Vegeta hasta que termina la Forma Cenit; Vegeta se desmaya (+25.000 F, +6.000 EXP). Día tranquilo. Cena en lo de Milk: aparece Whis, invita a Goku y a Vegeta a entrenar en el planeta de Bills y a Facundo a venir "con pudín".
 T1548 · DRAGON BALL · Monte Paoz → espacio · Acepta ir al planeta de Bills. Despedida de los Son (táper de Milk: "Tú vuelves"). Viaje en la burbuja de Whis con Goku y Vegeta. Whis: "¿Trajo pudín?"
+T1549 · DRAGON BALL · Burbuja de Whis · Pudín para Whis (caja nueva, quedan 5). Goku: "¿Tienes otro?" Vegeta mira el bolsillo.

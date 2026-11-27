@@ -115,3 +115,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadientes.
 - T1547 · 40 min de entrenamiento en 500G: Galick Ho, Big Bang Attack, otro Final Flash; a los 30 min le acierta a Facundo un golpe limpio en la mandíbula (se mira el puño). Cuando a Facundo se le termina la Forma Cenit, sonríe, da un paso y se desmaya. Cápsula de regeneración. A media tarde le choca el hombro a Facundo al pasar. Whis lo pasa a buscar para entrenar en el planeta de Bills; espera afuera de lo de los Son, enojado porque va Goku.
 - T1548 · Espera afuera en el claro; resopla al ver a Facundo. Pone la mano en la espalda de Whis lo más lejos posible de Goku. "Todo es más rápido que la nave de Bulma."
+- T1549 · Mira al frente, digno, pero no le saca los ojos de encima al bolsillo de Facundo (pudín).

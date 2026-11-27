@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1546)
-
-esta bien, te lo prometo
-
-## RESPUESTA 1 (T1546)
-
-> esta bien, te lo prometo
-
-> —Está bien. Te lo prometo.
-
-Vegeta se te queda mirando desde el piso. Un segundo largo. Como quien pesa algo en la mano para ver si es de verdad.
-
-Después asiente. Una sola vez. Seco.
-
-—Bien.
-
-Apoya una mano en el piso agrietado. Después la otra. Empuja.
-
-Las quinientas gravedades no lo dejan. Le tiemblan los brazos, se le marcan todas las venas del cuello, el sudor le chorrea por la nariz. Se le doblan los codos una vez, y casi vuelve a caer de cara. Aprieta los dientes hasta que se oyen.
-
-Y se levanta.
-
-Primero una rodilla. Después la otra. Después de pie, encorvado, temblando de pies a cabeza, sin transformarse, sin aura, solo con las piernas y la rabia, bajo un peso que aplastaría un edificio. Se queda así, doblado, respirando como un fuelle.
-
-Se endereza. Despacio. Hasta que está derecho del todo, delante de ti, con los puños cerrados a los costados.
-
-No llega a la consola. No baja la gravedad. Ni la mira.
-
-—Otra vez —dice.
-
-Le tiembla la voz. Le tiemblan las piernas. Le cae sangre de la nariz por el esfuerzo y no se la limpia.
-
-—Hasta que se te terminen esos cuarenta minutos de fuego —dice, mirándote las llamas blancas y azules—. Y mañana otra vez. Y pasado. —Se pone en guardia, con los puños adelante, sin Super Saiyajin, en quinientas gravedades—. Kakarotto tiene un dios en el cuerpo desde ayer. Yo no voy a quedarme atrás de nadie. De nadie.
-
-Afuera, a través de la ventanilla redonda de la compuerta, se ve a Kase sentado en el pasto, al sol de la mañana. Mira hacia adentro. Bosteza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1546 · DRAGON BALL · DOMINGO · 06:11   ║
-║ Capsule Corp · cámara de gravedad (500G)     ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien                     ║
-║ FORMA CENIT (x10 · quedan ~41 min)           ║
-║ Velo: el ki sigue sin sentirse               ║
-║ Kase: afuera, en el pasto, bostezando        ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Vegeta                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1547)
+## COMANDO 1 (T1547)
 
 simula
 
-## RESPUESTA 2 (T1547)
+## RESPUESTA 1 (T1547)
 
 > simula
 
@@ -131,11 +78,11 @@ Después Whis gira la cabeza y te mira a ti, al otro lado de la mesa, con Kase s
 
 ---
 
-## COMANDO 3 (T1548)
+## COMANDO 2 (T1548)
 
 esta bien
 
-## RESPUESTA 3 (T1548)
+## RESPUESTA 2 (T1548)
 
 > esta bien
 
@@ -208,4 +155,53 @@ Whis mira hacia adelante, tranquilo, con el báculo en la mano. Después gira un
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 20:45, burbuja de viaje de Whis rumbo al planeta de Bills, con Goku y Vegeta. Facundo tiene el táper de Milk. Whis: "¿Trajo pudín?" Facundo puede responder.
+## COMANDO 3 (T1549)
+
+le doy un pudin
+
+## RESPUESTA 3 (T1549)
+
+> le doy un pudin
+
+[Compra: pudín igual al de la fiesta (caja de seis). 1 Fragmento.]
+
+Metes la mano en el bolsillo del sobretodo, con la que no tienes apoyada en la espalda de Whis, y sacas un pudín. Frío, temblando en su vasito, con el caramelo brillando a la luz de las galaxias que pasan.
+
+Se lo das.
+
+Whis lo recibe con la mano libre, con una delicadeza enorme, como quien recibe una flor.
+
+—Ah, Facundo-san. Es usted un caballero.
+
+Se lo come sin soltar el báculo, despacio, en cuatro cucharadas, con los ojos cerrados. La burbuja ni se tambalea. Afuera pasa una nebulosa violeta del tamaño de mil planetas y nadie la mira.
+
+Goku sí mira. El pudín. Se le va la vista detrás de cada cucharada como a un perro detrás de un hueso.
+
+—Oye... —dice—. ¿Eso es el pudín? ¿El de la fiesta? ¿El que se comió el señor Bills?
+
+—El mismo, Goku-san —dice Whis, raspando el fondo del vasito con la cuchara.
+
+—Ayer no alcancé a probarlo. —Goku se toca la panza, que gruñe tan fuerte que se oye por encima del zumbido de la burbuja—. Estaba dormido cuando lo repartieron. Y después me desmayaron. Y después fui Super Saiyajin Dios. Y después... —Te mira, con los ojos enormes—. Facundo. ¿Tienes otro?
+
+Vegeta, del otro lado de la espalda de Whis, mira para adelante, hacia las estrellas, con un brazo cruzado sobre el pecho, porque el otro lo tiene apoyado en Whis. Muy serio. Muy digno.
+
+Pero tampoco le saca los ojos de encima al bolsillo de tu sobretodo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1549 · DRAGON BALL · DOMINGO · 20:50   ║
+║ Espacio · burbuja de viaje de Whis           ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.244 · 0 zeni                  ║
+║ Energía 70% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, con las uñas clavadas    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Viajar al planeta de Bills ·       ║
+║ quedan 5 pudines                             ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 20:50, burbuja de Whis. Whis comió un pudín; quedan 5. Goku pide uno; Vegeta mira el bolsillo. Facundo puede responder.

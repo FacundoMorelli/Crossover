@@ -1,13 +1,13 @@
 {
-  "turno": 1548,
+  "turno": 1549,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, domingo, 20:45",
+  "hora": "año 778, domingo, 20:50",
   "edad": 18,
   "nivel": 30,
   "exp": 349130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 189245,
+  "fragmentos": 189244,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -665,8 +665,8 @@
     "Dibujo de Goten: Kase y Facundo de la mano (regalo, T1503; \"no lo puedes perder\")",
     {
       "objeto": "Pudín (igual al de la fiesta de Bulma)",
-      "cantidad": 0,
-      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522). Los 5 restantes dados a Bills (T1523); Bills le dio 1 a Whis. Otra caja (T1528, 1 F): los 6 a Whis (comió 3, escondió 3 bajo la túnica). Dos cajas más (T1531, 2 F): dadas a Bills para el viaje."
+      "cantidad": 5,
+      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522). Los 5 restantes dados a Bills (T1523); Bills le dio 1 a Whis. Otra caja (T1528, 1 F): los 6 a Whis (comió 3, escondió 3 bajo la túnica). Dos cajas más (T1531, 2 F): dadas a Bills para el viaje. Otra caja (T1549, 1 F): 1 a Whis en el viaje; quedan 5."
     },
     {
       "objeto": "Táper de comida de Milk (arroz, carne, verduras)",
