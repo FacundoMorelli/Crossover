@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1569)
-
-me destransformo y vuelvo con kase
-
-## RESPUESTA 1 (T1569)
-
-> me destransformo y vuelvo con kase
-
-Sueltas el azul.
-
-Se te apaga sin ruido, como se apaga una lámpara. El pelo se te cae sobre los hombros, otra vez blanco y azul, desordenado. Los ojos vuelven a ser rojo y azul. El suelo de Whis, bajo tus botas, deja de crujir. Las venas de luz de la explanada se vuelven a encender, de a poco, una por una, como si respiraran aliviadas.
-
-El cansancio te llega suave, a los brazos y a las piernas. Nada más.
-
-Caminas por la explanada, entre el cráter, la zanja que dejó Goku y la montaña rajada, hasta el borde, donde está la silla de playa de Whis.
-
-Kase se levanta cuando te ve llegar. Te mira de arriba abajo: el sobretodo deshecho colgando en tiras, la camisa rota, el corte en la mejilla. Te olfatea la bota. Después la mano. Después salta, de un solo envión, y se te sube al hombro, y se acomoda contra tu cuello, y te pasa la cabeza por la mandíbula, justo debajo del corte, una vez, despacio.
-
-Se le escapa un ronroneo bajito.
-
-Detrás de ti, en el medio de la explanada, Goku y Vegeta siguen sentados en el suelo, uno al lado del otro, sin aire, sucios, golpeados.
-
-—Vegeta —dice Goku—. ¿Viste cómo frenó tu puño con dos dedos?
-
-—Cállate.
-
-—¿Y viste cuando me esquivé solo?
-
-—Cállate, Kakarotto.
-
-—¿Mañana otra vez?
-
-Vegeta tarda en contestar.
-
-—Mañana otra vez.
-
-Whis te mira llegar desde la silla de playa, con la taza de té, que volvió a llenar, entre las manos. Te mira el sobretodo, la mejilla, al gato en tu hombro. Sonríe, amable, como siempre. Pero se le quedó algo en los ojos que antes no estaba.
-
-—Buen trabajo, Facundo-san —dice—. Para ellos, quiero decir. —Toma un trago de té—. En una mañana aprendieron lo que les iba a costar un mes.
-
-Hace aparecer, de la nada, un sobretodo negro igual al tuyo, nuevo, doblado, sobre la mesita. Y un pañuelo blanco al lado.
-
-—Para la mejilla —dice—. Y el abrigo, por cortesía de la casa. Bills-sama se enojaría si su invitado del pudín anduviera en harapos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1569 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde de la explanada · mañana               ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.243 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · corte en mejilla  ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, ronroneando              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Días en el planeta de Bills        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1570)
+## COMANDO 1 (T1570)
 
 gracias whis
 
-## RESPUESTA 2 (T1570)
+## RESPUESTA 1 (T1570)
 
 > gracias whis
 
@@ -107,11 +47,11 @@ Desde el medio de la explanada, Goku levanta la cabeza de golpe, como un perro q
 
 ---
 
-## COMANDO 3 (T1571)
+## COMANDO 2 (T1571)
 
 le doy a whis y a goku y vegeta carne con pure
 
-## RESPUESTA 3 (T1571)
+## RESPUESTA 2 (T1571)
 
 > le doy a whis y a goku y vegeta carne con pure
 
@@ -169,4 +109,64 @@ Desde lo alto de la pirámide, por la puerta abierta, sale una voz. Ronca, dormi
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mediodía. Whis, Goku y Vegeta comen carne con puré. Bills se despierta furioso: "¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!" Facundo puede actuar.
+## COMANDO 3 (T1572)
+
+le dejo otro plato a bills
+
+## RESPUESTA 3 (T1572)
+
+> le dejo otro plato a bills
+
+[Compra: plato de carne al punto con puré. 1 Fragmento.]
+
+Sacas otro plato del bolsillo. Caliente, humeando. Lo dejas en la mesita de Whis, al lado de la taza de té, con los cubiertos cruzados encima y la servilleta doblada.
+
+Bills aparece.
+
+No baja la escalera: aparece. Un segundo está en lo alto de la pirámide, y al siguiente está parado delante de la mesita, en ropa de dormir, con la cola erizada, las orejas aplastadas hacia atrás, los ojos amarillos encendidos de furia y una mano levantada en dirección a Goku, que tiene la boca llena de puré y se quedó congelado en el suelo.
+
+Se le empieza a juntar una luz violeta en la palma.
+
+Y entonces ve el plato.
+
+La luz violeta se apaga. La mano baja. Las orejas se le enderezan, despacio. La cola deja de estar erizada.
+
+Mira el plato. Te mira a ti. Mira el plato otra vez.
+
+—¿Es para mí?
+
+No espera la respuesta. Se sienta en el suelo, al lado de la mesita, con las piernas cruzadas, agarra el plato con las dos manos, se lo pone en las rodillas y empieza a comer. Despacio. Con los ojos cerrados. Las orejas se le caen hacia los costados. La cola se le queda quieta en el suelo.
+
+Goku traga el puré que tenía en la boca, muy despacio, sin hacer ruido. Vegeta suelta el aire que tenía guardado y deja el tenedor en el plato, con muchísimo cuidado.
+
+Whis abre los dos ojos y sigue comiendo como si nada.
+
+Bills termina. Lame el plato, como siempre. Lo deja en la mesita. Se limpia la boca con la servilleta, con una dignidad que hace un minuto no tenía.
+
+Después mira a los tres. A Whis, que tiene el plato vacío en las rodillas. A Goku, con puré en las cejas. A Vegeta, en su roca.
+
+—Ustedes comieron antes que yo —dice, muy tranquilo—. Mi comida. En mi planeta. Mientras yo dormía.
+
+Nadie dice nada. Goku sonríe, nervioso. Vegeta mira hacia otro lado. Whis toma un sorbo de té.
+
+Bills suspira. Larguísimo.
+
+—Bueno. Ya está. —Se vuelve hacia ti, todavía sentado en el suelo, y te mira de arriba abajo: el sobretodo deshecho, el corte en la mejilla, el gato en el hombro—. Tú, el del bolsillo. —Ladea la cabeza—. Estás todo roto. ¿Te peleaste con estos dos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1572 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde de la explanada · mediodía             ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · corte en mejilla  ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Días en el planeta de Bills        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mediodía. Bills, calmado por su plato, pregunta a Facundo: "Estás todo roto. ¿Te peleaste con estos dos?" Facundo puede responder.

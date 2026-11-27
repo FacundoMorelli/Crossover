@@ -1570,3 +1570,4 @@ T1568 · DRAGON BALL · Explanada · Duelo en azul con Goku: gana; Goku esquiva 
 T1569 · DRAGON BALL · Explanada · Suelta el azul; Kase le frota la cabeza bajo el corte. Goku y Vegeta: "Mañana otra vez." Whis le regala un sobretodo nuevo y un pañuelo.
 T1570 · DRAGON BALL · Planeta de Bills · "Gracias, Whis." Kase y Whis se miran; Whis sonríe primero. Whis pide, con delicadeza, probar la carne con puré. Goku: "¿Carne?"
 T1571 · DRAGON BALL · Planeta de Bills · Carne con puré para Whis, Goku y Vegeta (3 F). Bills se despierta: "¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!"
+T1572 · DRAGON BALL · Planeta de Bills · Plato para Bills (1 F): la furia (Hakai a Goku) se apaga. "¿Es para mí?" Reta a los tres por comer antes. A Facundo: "¿Te peleaste con estos dos?"

@@ -109,3 +109,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1569 · Sentado con Vegeta: "¿Viste cómo frenó tu puño con dos dedos?" "¿Y viste cuando me esquivé solo?" "¿Mañana otra vez?"
 - T1570 · Levanta la cabeza como un perro que oye la heladera: "¿Carne? ¿Qué carne?"
 - T1571 · "¡¿De dónde sacas todo esto?!" Come la carne con la mano; se le llenan los ojos de lágrimas: "¡MMMMMM!" Puré hasta en las cejas.
+- T1572 · Congelado con la boca llena de puré ante el Hakai de Bills; traga despacio; sonríe nervioso.

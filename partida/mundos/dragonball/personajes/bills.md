@@ -36,3 +36,4 @@ RELACIÓN CON FACUNDO (T1554): le debe un favor (lo dice él).
 PODER VISTO POR FACUNDO: Hakai (T1555).
 - T1556 · Por Facundo: "Qué poder impresionante." Se infla: "Claro que es impresionante. Soy un dios. Hay doce universos... Seguramente el más fuerte." "Champa es un gordo envidioso." Se vuelve a dormir ("Unos días"): "Y cuando me despierte, quiero comer eso otra vez. La carne. Con la cosa blanca." "Y que el gato siga aquí."
 - T1571 · Se despierta de golpe por el olor de la carne: "¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!"
+- T1572 · Aparece furioso, con un Hakai juntándose en la palma hacia Goku; ve el plato que dejó Facundo y la luz se apaga: "¿Es para mí?" Come en el suelo, calmado; lame el plato. "Ustedes comieron antes que yo. Mi comida. En mi planeta. Mientras yo dormía." Suspira: "Bueno. Ya está." A Facundo: "Tú, el del bolsillo. Estás todo roto. ¿Te peleaste con estos dos?"

@@ -145,3 +145,4 @@
 - Goku, Vegeta, Whis · T1565 · Ven a Facundo (SSJ Blue) detener el puño de Vegeta en azul con dos dedos sin moverse.
 - Goku, Vegeta, Whis · T1566 · Ven a Facundo (SSJ Blue) recibir de lleno el Final Flash azul de Vegeta y quedar con un solo corte en la mejilla.
 - Goku, Vegeta, Whis · T1568 · Ven a Facundo (SSJ Blue) vencer a Goku en azul. Whis ve el atisbo del Ultra Instinto en Goku.
+- Bills · T1572 · Ve a Facundo con el sobretodo deshecho y un corte; pregunta si peleó con Goku y Vegeta.
