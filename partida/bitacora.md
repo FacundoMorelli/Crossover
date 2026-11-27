@@ -1707,3 +1707,4 @@ T1705 · CHAINSAW MAN · refugio, 6.º piso · "Se pueden comer." Denji y Power 
 T1706 · CHAINSAW MAN · refugio, 6.º piso · "Abajo están los verdaderos Kurose y Tendo." Aki reporta a la central. Makima: "Muy bien hecho. Pásame al señor Morelli."
 T1707 · CHAINSAW MAN · refugio, 6.º piso · "Hola, señorita Makima." Makima agradece; desayuno mañana y paga. "¿Cómo lo supo, señor Morelli?"
 T1708 · CHAINSAW MAN · refugio, 6.º piso · "Los sentí, nada más." Makima: "Me gusta mucho eso. Cuide a Denji por mí." Denji: "¿Sentiste a Pochita?" Power: "¿Y a Power?"
+T1709 · CHAINSAW MAN · refugio, 6.º piso · "¿Pochita es eso dormido que tienes adentro?" Denji cuenta su historia. "¿Está bien? ¿Está contento?"

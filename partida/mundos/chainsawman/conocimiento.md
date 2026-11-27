@@ -42,3 +42,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1706 · AKI, DENJI, POWER, KOBENI saben (por Facundo) que los reales Kurose y Tendo están abajo. CENTRAL y MAKIMA saben (por Aki) que Facundo neutralizó a los tres impostores vivos y que los reales están muertos en el lobby.
 - T1707 · MAKIMA dedujo (por el reporte de Aki) que Facundo percibe cosas a distancia sin verlas (impostores, tercero, cuerpos).
 - T1708 · MAKIMA, AKI, DENJI, POWER, KOBENI saben (por Facundo) que "siente" a las personas, a través de paredes y pisos.
+- T1709 · Facundo sabe (por Denji) la historia de Pochita. DENJI sabe que Facundo sintió a Pochita dentro de él.

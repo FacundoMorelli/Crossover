@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1706)
-
-no sentí a nadie mas pero ahi abajo estan los reales kurose y tendo
-
-## RESPUESTA 1 (T1706)
-
-> no sentí a nadie mas pero ahí abajo están los reales kurose y tendo
-
-> —No sentí a nadie más. Pero ahí abajo están los verdaderos Kurose y Tendo.
-
-Aki no pregunta si están vivos.
-
-Se le nota en la cara que ya lo sabe. Cierra los ojos un segundo. Solo uno. Cuando los abre, son los mismos de siempre, serios, cansados.
-
-—Dónde.
-
-—¿Q-qué? —Kobeni, en la puerta, se tapa la boca con la mano del cuchillo—. ¿Los de verdad? ¿Están... abajo? ¿Acá? ¿En el hotel?
-
-Denji deja de masticar. Se queda con medio sándwich de huevo en la mano, mirando a Aki. Después mira el sándwich. Lo deja despacio en la bandeja, como si de pronto pesara.
-
-Power sigue comiendo. Pero más despacio.
-
-Aki aprieta el botón de la radio.
-
-—Central, aquí Hayakawa. División 4. Refugio de la calle Kanda. —La voz le sale plana, sin una sola grieta—. Los guardias de Kioto, Kurose y Tendo, eran impostores. Tres asesinos, con la piel de nuestros hombres puesta encima. Están neutralizados, vivos, inconscientes, en el sexto piso. —Una pausa—. Los verdaderos Kurose y Tendo están en el lobby. Muertos. Necesito un equipo de recolección y un equipo de interrogatorio. Y que nadie de Kioto se acerque hasta que se confirme su identidad.
-
-La estática chisporrotea. Una voz de mujer, de la central, dice algo que no se entiende, rápido. Aki contesta: "Sí". "Tres". "No, no fui yo". Te mira. "Él".
-
-Silencio en la radio. Diez segundos. Quince.
-
-Después, otra voz. Baja, tranquila, suave, perfectamente clara a pesar de la estática, como si estuviera parada en el pasillo con ustedes.
-
-—Aki. Muy bien hecho.
-
-Aki se endereza sin darse cuenta.
-
-—Señorita Makima.
-
-—Quédense donde están. El equipo llega en veinte minutos. —Una pausa, breve—. ¿El señor Morelli está contigo?
-
-Aki te mira.
-
-—Sí.
-
-—Pásamelo, por favor.
-
-Aki duda un segundo. Después te tiende la radio. Negra, grande, con la antena todavía goteando agua de lluvia.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1706 · CHAINSAW MAN · DÍA 1 · 20:57    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1707)
+## COMANDO 1 (T1707)
 
 lo agarro, hola señorita makima
 
-## RESPUESTA 2 (T1707)
+## RESPUESTA 1 (T1707)
 
 > lo agarro, hola señorita makima
 
@@ -115,11 +50,11 @@ Silencio.
 
 ---
 
-## COMANDO 3 (T1708)
+## COMANDO 2 (T1708)
 
 los senti nada mas
 
-## RESPUESTA 3 (T1708)
+## RESPUESTA 2 (T1708)
 
 > los senti nada mas
 
@@ -172,4 +107,55 @@ Kobeni, en la puerta, se encoge más, abrazándose.
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:00, pasillo del 6.º piso. Makima: "Los sintió. Qué interesante. Yo no puedo sentirlo a usted, y usted siente a todos. Me gusta mucho eso." Cortó: "Que descanse. Y cuide a Denji por mí." Aki apagó la radio: "Desayuno con la señorita Makima. No le pasa a mucha gente." Denji: "¿Me sentiste a mí? ¿Sentiste a Pochita?" Power: "¡¿Y a Power?! ¡Dilo!" Kobeni: "Yo no quiero saber qué se siente de mí."
+## COMANDO 3 (T1709)
+
+pochita es como se llama eso dormido que tienes dentro?
+
+## RESPUESTA 3 (T1709)
+
+> pochita es como se llama eso dormido que tienes dentro?
+
+> —¿Pochita es como se llama eso dormido que tienes adentro?
+
+A Denji se le ilumina toda la cara.
+
+—¡Sí! ¡Es Pochita! —Se golpea el pecho, justo encima de la cuerda, con el puño cerrado, dos veces, despacito, como quien golpea la puerta de alguien que quiere—. ¡Lo sentiste! ¡Nadie lo siente! ¡Ni Power lo siente, y eso que Power huele todo!
+
+—Power lo huele a veces —protesta Power—. Huele a aceite de motor.
+
+—¡Eso soy yo!
+
+Denji se sienta en la alfombra otra vez, de piernas cruzadas, mirándote hacia arriba como un nene que va a contar el mejor cuento del mundo. Aki, en la pared, se pone un poco más derecho, pero no dice nada.
+
+—Era mi perro. —Lo dice muy simple, sin ningún adorno—. Bueno, perro. Era un demonio. Un demonio motosierra chiquito, así. —Hace el tamaño con las manos, como un pan—. Naranja. Con una motosierra en la cara. Hacía "guau". Lo encontré herido cuando era chico y le di mi sangre, y él me ayudó a pagar la deuda de mi viejo. Cazábamos demonios juntos para la yakuza. Dormíamos juntos. Comíamos pan con nada. —Se encoge de hombros—. Y un día me mataron. Los de la yakuza. Me cortaron en pedazos y me tiraron a la basura.
+
+Kobeni, en la puerta, se tapa la boca.
+
+—Y Pochita se metió adentro mío —sigue Denji, como si nada, señalándose el pecho—. Y ahora es mi corazón. Me dijo, en un sueño, que a cambio yo tenía que vivir una vida normal y mostrársela. Comer pan con mermelada, tener novia, dormir en una cama. Esas cosas.
+
+Se queda un momento callado, con la mano apoyada en el pecho, encima de la cuerda.
+
+—Nunca más lo vi. Ni en sueños, casi. —Te mira, y por primera vez en toda la noche no grita, no hace chistes, no tiene hambre—. Pero tú lo sentiste.
+
+Se inclina un poco hacia ti.
+
+—¿Está bien? —pregunta, bajito—. Allá adentro. ¿Está contento?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1709 · CHAINSAW MAN · DÍA 1 · 21:03    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:03, pasillo del 6.º piso. Denji le contó a Facundo la historia de Pochita (su perro demonio motosierra; deuda; la yakuza lo mató; Pochita se volvió su corazón a cambio de que viva una vida normal y se la muestre). "Nunca más lo vi. Pero tú lo sentiste." Pregunta, bajito: "¿Está bien? Allá adentro. ¿Está contento?"
