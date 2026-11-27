@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1620)
-
-se llama kase y me llamo Facundo Morelli
-
-## RESPUESTA 1 (T1620)
-
-> se llama kase y me llamo Facundo Morelli
-
-> —Se llama Kase. Y yo me llamo Facundo Morelli.
-
-—"Kase"... "Facundo Morelli". —Bulma lo escribe en voz alta, despacio, letra por letra—. Ay, hasta el nombre suena a extranjero misterioso. Enviado.
-
-—Kase —repite Bills, desde la puerta, con la cucharita en la mano, como si le gustara cómo suena—. Se lo dije yo primero. Que era un buen nombre para un gato que no le tiene miedo a un dios.
-
-—No se lo dijo a nadie, señor Bills —dice Milk.
-
-—Se lo dije a él. En el barco.
-
-El teléfono vibra. Bulma lo lee y se tapa la boca para no gritar.
-
-—"¡¡FACUNDO MORELLI!! ¡Hasta el nombre es lindo! ¡Y el gato se llama Kase! ¡KASE! ¡Ya lo amo!" —Baja con el dedo—. "Voy a llevar algo rico para Kase. ¿Qué le gusta? ¿Pescado? ¿Atún? ¿Le compro un juguetito? Dile a Facundo que yo hago una torta de chocolate buenísima. Bueno, la hace mi mamá. Pero yo la llevo."
-
-Milk resopla.
-
-—Torta de chocolate. —Se arremanga el delantal—. Ya vamos a ver qué es una torta de chocolate cuando yo termine con la cena.
-
-Bills, en la puerta, se queda quieto.
-
-—¿Torta de chocolate?
-
-Las orejas se le paran solas. Baja el vaso de pudín vacío, despacio.
-
-—¿Esa cena tiene torta de chocolate?
-
-—Y la comida de Milk —dice Bulma, sin pensarlo—. Milk cocina increíble.
-
-Bills entra al jardín. Se para delante de ti, con las manos detrás de la espalda y la cola moviéndose, muy digno.
-
-—Muchacho del bolsillo. —Te mira a los ojos, muy serio—. Yo también voy a esa cena.
-
-Bulma deja de escribir. Milk deja caer el cucharón.
-
-Detrás de Bills, en la puerta corrediza, aparece Whis con una taza de té y la sonrisa de siempre.
-
-—Y si va Bills-sama, voy yo —dice—. Para cuidarlo. Claro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1620 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1621)
+## COMANDO 1 (T1621)
 
 esta bien
 
-## RESPUESTA 2 (T1621)
+## RESPUESTA 1 (T1621)
 
 > esta bien
 
@@ -127,11 +64,11 @@ Sacude un poco el teléfono.
 
 ---
 
-## COMANDO 3 (T1622)
+## COMANDO 2 (T1622)
 
 ehh como quieras, si termina pasando algo entre nosotros va a tener que saber igualmente
 
-## RESPUESTA 3 (T1622)
+## RESPUESTA 2 (T1622)
 
 > ehh como quieras, si termina pasando algo entre nosotros va a tener que saber igualmente
 
@@ -184,4 +121,53 @@ Frena delante de ti, salta dos veces en el lugar y levanta los brazos hacia Kase
 
 ---
 
-ESTADO AL CIERRE: Erasa avisada a medias ("amigos especiales"). Goten llega con Goku, corre hacia Facundo y Kase: "¿Le ganaste al señor Bills? ¿Me enseñas cómo?" Levanta los brazos hacia Kase. Facundo puede actuar.
+## COMANDO 3 (T1623)
+
+ehh, le doy a kase
+
+## RESPUESTA 3 (T1623)
+
+> ehh, le doy a kase
+
+Le pasas a Kase.
+
+Goten lo agarra con los dos brazos, por debajo de las patas delanteras, como se agarra a un gato cuando uno tiene siete años y nadie le enseñó. Kase queda colgando, larguísimo, con las patas traseras casi tocando el pasto y la cola enorme arrastrándose por el suelo. Es casi tan grande como Goten.
+
+Kase no protesta. No saca las uñas ni se retuerce. Se queda colgando, quieto, con la expresión seria y arrogante de siempre, y mira a Goten a la cara, de muy cerca, sin parpadear. Como un rey al que acaba de levantar un súbdito muy torpe.
+
+—¡Pesa un montón! —Goten se tambalea hacia atrás, feliz—. ¡Es más pesado que una sandía! ¡Papá, mira! ¡Lo tengo!
+
+—¡Muy bien, Goten! —Goku aplaude—. ¡No lo sueltes!
+
+Goten lo abraza contra el pecho, con la cara hundida en el pelo blanco y azul de Kase.
+
+—Es suavecito. —Lo dice con la voz aplastada por el pelo—. Huele a... a como huele Facundo.
+
+Kase gira la cabeza, despacio, y te mira por encima del hombro de Goten. Los ojos, rojo y azul, fijos en ti. No hay enojo en esa mirada. Hay otra cosa, muy de gato: "Te lo voy a cobrar".
+
+Después, con toda la calma del mundo, apoya la cabeza en el hombro de Goten y se queda así.
+
+Bulma saca el celular y le saca una foto sin que nadie se dé cuenta.
+
+Goten levanta la cara del pelo de Kase y te mira, con los ojos brillantes, sin soltarlo.
+
+—Entonces, ¿es verdad? —Insiste, abrazando más fuerte—. ¿Le ganaste al señor Bills? ¿Con qué? ¿Con el Kamehameha? ¡Mi papá dice que hiciste un punto negro que se comió una bola gigante! ¡¿Me enseñas a hacer el punto negro?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1623 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en brazos de Goten                     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Goten tiene a Kase en brazos. "¿Le ganaste al señor Bills? ¿Me enseñas a hacer el punto negro?" Facundo puede contestar.

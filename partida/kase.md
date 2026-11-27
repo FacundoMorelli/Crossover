@@ -163,3 +163,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1614 · Viaja con Facundo a la Tierra; apoya una pata en la túnica de Whis sin que nadie se lo pida; clava apenas las uñas en el viaje.
 - T1617 · Le clava una uña a la camisa blanca nueva de Facundo; deja un hilo suelto.
 - T1618 · Mira directo a la cámara en la foto para Erasa, serio y arrogante, como juzgándola.
+- T1623 · Facundo se lo pasa a Goten: cuelga quieto, serio, sin uñas; mira a Facundo ("te lo voy a cobrar"); después apoya la cabeza en el hombro de Goten.

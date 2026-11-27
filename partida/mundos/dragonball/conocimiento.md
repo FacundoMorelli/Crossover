@@ -166,3 +166,4 @@
 - T1618 · Erasa y Videl VIERON una foto de Facundo con Kase (Bulma la sacó y la mandó).
 - T1620 · Erasa sabe (por Facundo vía Bulma) su nombre completo, Facundo Morelli, y el de Kase.
 - T1622 · Goku le contó a Goten que Facundo le ganó a Bills (cadena: Goku lo vio → Goten).
+- T1623 · Goku le contó a Goten lo del punto negro (Eclipse) que se comió la esfera de Bills.

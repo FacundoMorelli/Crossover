@@ -38,3 +38,4 @@ TIENE: libro de Paradis (T1542).
 - T1620 · Escribe a Erasa los nombres ("hasta el nombre suena a extranjero misterioso"). Se queda paralizada cuando Bills se invita a la cena.
 - T1621 · A Facundo, bajito: Erasa no sabe de saiyajin, Bills ni Whis (Goku es "el papá raro de Gohan", Videl "la hija de Mr. Satán"). "¿Le aviso que va a haber invitados especiales? ¿O la dejamos que llegue y se encuentre con un gato violeta gigante comiendo torta en la mesa?"
 - T1622 · "Si termina pasando algo entre nosotros." "Ay, ya estás pensando en el futuro. Qué tierno." Avisa a Erasa a medias: amigos especiales, uno alto, violeta, orejas grandes; "no le digas que parece un gato. Ni lo mires mucho cuando come." "No es disfraz. Tú confía." "Lo demás, que lo descubra sola."
+- T1623 · Le saca una foto a Goten abrazando a Kase sin que nadie se dé cuenta.
