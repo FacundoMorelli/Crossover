@@ -50,3 +50,4 @@ ESTADO: bien.
 - T1635 · Cocina en modo guerra (cinco hornallas, carne, pescados enteros, arroz). No deja entrar a nadie; manda a bañarse a Goten y Trunks. Saca la comida fuente por fuente.
 - T1637 · Mira a Facundo y a Erasa roja; asiente satisfecha. Sirve la cena: "¡Ya está todo! ¡A comer!"
 - T1640 · Ve la cara de Erasa con Facundo y sonríe sola, satisfecha.
+- T1642 · Escuchando todo desde la otra punta: "¡Gracias!" (por la carne).

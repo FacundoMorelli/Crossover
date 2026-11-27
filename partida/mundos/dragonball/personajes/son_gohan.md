@@ -36,3 +36,4 @@ DIÁLOGOS CLAVE:
 - T1548 · Le da la mano a Facundo al despedirse.
 - T1635 · 19:30 · Llega con Videl. Da la mano a Facundo: "Hola, Facundo. Perdón por Videl. Y por Erasa. Y por mi mamá. Bueno, por todos." (Edad ahora ~21-22; año 778.)
 - T1637 · "Videl, el bebé."
+- T1642 · Le alcanza agua a Erasa cuando se atraganta, con vergüenza ajena.

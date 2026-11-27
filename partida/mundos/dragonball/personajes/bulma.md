@@ -41,3 +41,4 @@ TIENE: libro de Paradis (T1542).
 - T1623 · Le saca una foto a Goten abrazando a Kase sin que nadie se dé cuenta.
 - T1635 · Ve aterrizar a Trunks y Vegeta negros de hollín; se ríe; la foto de la montaña rusa a la heladera (Vegeta la arranca dos veces; ella la vuelve a pegar). Arma la mesa larga con lucecitas. Abre a Erasa: "Te dije que no era disfraz."
 - T1636 · "Eso es que le gustó. A mí ni me mira." Pone la torta frente a Bills.
+- T1642 · A Erasa, bajito: "Es tu torta, querida. Córtala tú. Y el primer pedazo, el más grande, para el señor Bills. Por favor."

@@ -88,3 +88,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1638 · Mira a Facundo y a Erasa cuando él dice que es viajero; no dice nada.
 - T1640 · Tercer pescado; chupa la espina con los ojos cerrados.
 - T1641 · Termina la última fuente de pescado; mira la torta de chocolate con intensidad peligrosa.
+- T1642 · Plato limpio, servilleta doblada: "Bueno. ¿Ya terminaron de hablar ustedes dos? Porque yo terminé de comer hace tres minutos. Y esa torta lleva toda la noche mirándome."

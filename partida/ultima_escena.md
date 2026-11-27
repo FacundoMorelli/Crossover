@@ -3,57 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1639)
-
-mmm un lugar lleno de islas, la gente viaja en barco y hay islas de todo tipo
-
-## RESPUESTA 1 (T1639)
-
-> mmm un lugar lleno de islas, la gente viaja en barco y hay islas de todo tipo
-
-> —Mmm... Un lugar lleno de islas. La gente viaja en barco, y hay islas de todo tipo.
-
-Erasa se queda callada. Mira las lucecitas colgadas entre los árboles, como si ahí arriba pudiera verlas.
-
-—Islas —repite, despacio—. Y todo en barco.
-
-Se le escapa un suspiro largo. Apoya la mejilla en la mano y deja que los ojos se le vayan para otro lado, lejos del jardín, lejos de la mesa.
-
-—Yo me imagino el mar azul, azul de verdad, no como el de la playa a la que fui, que era gris. Y barcos de madera con velas. —Se ríe sola—. Bueno, seguro no son de madera. Seguro son barcos normales, con motor. Pero en mi cabeza son de madera.
-
-—Algunos son de madera —dice Whis desde su lugar, sin levantar la vista de la libretita, como quien comenta el clima.
-
-Erasa lo mira, sorprendida de que la haya escuchado. Whis le sonríe, amable, y vuelve a anotar.
-
-Ella te mira a ti otra vez, con los ojos brillando.
-
-—¿De todo tipo? —Se inclina un poquito más hacia ti, curiosa—. ¿Cómo de todo tipo? ¿Unas con playa y otras con montañas? ¿O de todo tipo, tipo... raro?
-
-Debajo de la mesa, algo te roza el tobillo. Es su sandalia. Se da cuenta enseguida y la corre, rápido, roja otra vez, como si no hubiera pasado nada.
-
-—Perdón. —Se acomoda en la silla—. Sigue. Cuéntame.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1639 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:25     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: echado sobre el ratón de juguete       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1640)
+## COMANDO 1 (T1640)
 
 le rozó el pie con mi pie, un poco de todo, montañas con hielo, desiertos, una isla mitad hielo mitad volcan
 
-## RESPUESTA 2 (T1640)
+## RESPUESTA 1 (T1640)
 
 > le rozó el pie con mi pie, un poco de todo, montañas con hielo, desiertos, una isla mitad hielo mitad volcan
 
@@ -99,11 +53,11 @@ Erasa juega con el tenedor en el plato. Pincha un pedazo de carne, no se lo come
 
 ---
 
-## COMANDO 3 (T1641)
+## COMANDO 2 (T1641)
 
 en algun momento si, pero vuelvo a todos los lugares a los que viajo, que sea el mas lindo no significa que quiera quedarme a vivir en algun lado, por ahora no voy a parar de viajar, pero siempre vuelvo
 
-## RESPUESTA 3 (T1641)
+## RESPUESTA 2 (T1641)
 
 > en algun momento si, pero vuelvo a todos los lugares a los que viajo, que sea el mas lindo no significa que quiera quedarme a vivir en algun lado, por ahora no voy a parar de viajar, pero siempre vuelvo
 
@@ -147,4 +101,66 @@ Después se da vuelta hacia ti otra vez, con los ojos celestes brillando bajo la
 
 ---
 
-ESTADO AL CIERRE: Erasa acepta que viaja. "¿Me vas a venir a ver a mí también? ¿O solo a las islas de hielo y volcán?" Facundo puede contestar.
+## COMANDO 3 (T1642)
+
+a ti tambien
+
+## RESPUESTA 3 (T1642)
+
+> a ti tambien
+
+> —A ti también.
+
+Erasa no contesta.
+
+Se le va abriendo una sonrisa despacio, de a poco, desde la punta de la boca hasta los ojos, que se le achinan. No es la sonrisa enorme y nerviosa de cuando llegó. Es una más chica, más suya, que no le muestra a la mesa: te la muestra a ti.
+
+Baja la vista al plato. Agarra el tenedor y, por primera vez en toda la noche, come un bocado de verdad. Mastica. Asiente, sin mirarte, como si le estuviera diciendo que sí a la comida.
+
+Debajo de la mesa, su pie se mueve un poquito contra el tuyo. Apenas. Un empujoncito.
+
+—Bueno. —Se le escapa, con la boca medio llena—. Está muy rica esta carne.
+
+—¡Gracias! —grita Milk desde la otra punta, que estaba escuchando todo.
+
+Erasa se atraganta. Gohan le alcanza un vaso de agua desde el otro lado de la mesa, muerto de vergüenza ajena.
+
+Y en la cabecera, alguien carraspea.
+
+Bills.
+
+Tiene las manos apoyadas en la mesa, el plato limpio, la servilleta prolijamente doblada al lado y los ojos amarillos clavados en la caja de torta con la cinta rosa.
+
+—Bueno —dice—. ¿Ya terminaron de hablar ustedes dos? Porque yo terminé de comer hace tres minutos. Y esa torta lleva toda la noche mirándome.
+
+Toda la mesa se queda en silencio.
+
+Bulma le da un codazo a Erasa, rápido, por debajo, con una sonrisa congelada.
+
+—Es tu torta, querida —susurra—. Córtala tú. Y el primer pedazo, el más grande, para el señor Bills. Por favor.
+
+Erasa traga saliva. Se para. Agarra el cuchillo que le pasa Bulma. Desata la cinta rosa de la caja, despacio, mientras Bills la mira con los ojos entrecerrados, sin parpadear, como un gato frente a una pecera.
+
+La torta es alta, oscura, brillante, de chocolate por dentro y por fuera, con virutas encima.
+
+A Erasa le tiembla el cuchillo en la mano. Te mira, de reojo, pidiéndote auxilio con los ojos.
+
+—¿Me ayudas? —susurra—. Me tiemblan las manos. Y no quiero que el señor gato... el señor Bills... se enoje por un pedazo torcido.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1642 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:45     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills exige la torta. Erasa, con el cuchillo temblando: "¿Me ayudas?" Facundo puede actuar.

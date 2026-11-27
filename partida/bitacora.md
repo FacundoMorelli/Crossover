@@ -1640,3 +1640,4 @@ T1638 · DRAGON BALL · Corporación Cápsula · "Soy un viajero." Erasa: "Lo m�
 T1639 · DRAGON BALL · Corporación Cápsula · Le cuenta a Erasa de un lugar de islas y barcos. Erasa sueña; Whis: "Algunos son de madera." Le roza el tobillo sin querer. "Sigue. Cuéntame."
 T1640 · DRAGON BALL · Corporación Cápsula · Le roza el pie a Erasa (ella no lo corre). Le cuenta de montañas con hielo, desiertos, una isla mitad hielo y mitad volcán. Erasa: "Te creo." "¿Te vas a ir de acá?"
 T1641 · DRAGON BALL · Corporación Cápsula · "Por ahora no voy a parar de viajar, pero siempre vuelvo." Erasa: "No te voy a pedir que te quedes." "¿Me vas a venir a ver a mí también?"
+T1642 · DRAGON BALL · Corporación Cápsula · "A ti también." Erasa sonríe para él; empujoncito con el pie. Bills exige la torta; Erasa debe cortarla: "¿Me ayudas? Me tiemblan las manos."
