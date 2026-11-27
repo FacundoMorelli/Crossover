@@ -20,3 +20,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T1522 · Año 778 · Crisis del pudín evitada: Facundo le da a Bills un pudín antes de que Buu se niegue (en el canon, el pudín de Buu desataba la pelea de Bills con los Guerreros Z).
 - T1527 · Año 778 · Goku alcanza el Super Saiyajin Dios por el ritual (canon) en el crucero de Bulma. Embarazo de Videl revelado por Shenlong. Esferas del Dragón usadas (dispersas).
 - T1530 · Año 778 · La Tierra se salva: Goku absorbe la esfera de Bills; Bills la perdona (canon, con el pudín de Facundo y el gato entre las razones).
+- T1531 · Bills promete no destruir la Tierra "por un tiempo largo" y que nadie más la destruya sin preguntarle, por el pudín de Facundo. Se va con Whis.

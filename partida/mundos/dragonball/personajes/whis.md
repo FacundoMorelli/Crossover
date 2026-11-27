@@ -21,3 +21,4 @@ ESTADO: activo
 RELACIÓN CON FACUNDO (T1528): curiosidad amable; agradecido por el pudín y la idea del dragón.
 - T1529 · Por Facundo: se llama Facundo Morelli. "Facundo-san. Mucho gusto. Y gracias por los pudines. Son, de verdad, extraordinarios." Ante la esfera gigante de Bills: "Ay, Bills-sama. Siempre tan dramático." Mira de reojo a Facundo, curioso por su reacción.
 - T1530 · Por Facundo: "Goku va a poder devolverla." "¿Usted cree? Bueno. Veamos." Pregunta a Bills por la Tierra. Se aprieta la túnica cuando Bills pide más pudín.
+- T1531 · Bills sabe de los tres pudines escondidos. "Fue una fiesta preciosa, señorita Bulma." "Hasta pronto, Facundo-san. Seguramente volvamos. Bills-sama no se olvida nunca de un buen postre." Se va con Bills.

@@ -118,3 +118,5 @@
 - Whis · T1529 · Por Facundo: su nombre, Facundo Morelli.
 - Todos · T1529 · Ven la esfera gigante de Bills en el cielo (visible desde la Ciudad del Oeste).
 - Whis · T1530 · Por Facundo: Goku iba a poder devolver la esfera (acertó).
+- Todos los del crucero · T1531 · Ven a Facundo sacar dos cajas enteras de un bolsillo; oyen a Bills prometer no destruir la Tierra por él y llamarlo por su nombre. Bulma pregunta quién es.
+- Bills, Whis · T1531 · Por Facundo: el pudín; saben su nombre y el de Kase.

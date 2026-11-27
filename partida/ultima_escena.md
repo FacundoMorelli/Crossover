@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1528)
-
-le doy mas pudin
-
-## RESPUESTA 1 (T1528)
-
-> le doy mas pudin
-
-El bolsillo del sobretodo está vacío. Le diste los seis a Bills.
-
-Abres otra vez la tienda, por dentro.
-
-[Compra: pudín igual al de la fiesta (caja de seis). 1 Fragmento.]
-
-Metes la mano en el bolsillo y la sacas con un pudín. Y otro. Y otro. Seis, en fila, que le vas poniendo a Whis en las manos, en los brazos, encima del báculo.
-
-Whis los mira con los ojos muy abiertos y una sonrisa que se le va estirando de a poco.
-
-—Oh, vaya —dice—. Oh, vaya, vaya.
-
-Se sienta en el borde de la reposera de Bills, muy derecho, muy educado, con los seis pudines en la falda de la túnica. Se come uno en tres cucharadas, con los ojos cerrados. Después otro. Al tercero se detiene, mira los tres que le quedan, mira hacia arriba, hacia el cielo donde se oyen los truenos de la pelea, y los esconde, uno por uno, debajo de la túnica, con mucho cuidado.
-
-—No le diga a Bills-sama —dice, en voz baja, con una sonrisa traviesa—. Si los ve, se los come él.
-
-Arriba, muy lejos, sobre el mar, el cielo se ilumina de rojo y de violeta, una y otra vez, como fuegos artificiales sin ruido. Cada tanto llega el trueno, tarde, y hace vibrar los vasos de las mesas. En la cubierta, todos miran para arriba: Vegeta con los puños apretados, Gohan abrazando a Videl, Milk con Goten agarrado de la mano, Bulma con los binoculares que sacó de algún lado. Nadie siente nada. Ni el ki de Goku ni el de Bills. Solo ven las luces.
-
-Whis los mira un momento, y después vuelve a mirarte a ti.
-
-—Es una pelea muy linda —dice—. Bills-sama no se divertía así hace siglos. —Se limpia la comisura de la boca con un pañuelo—. Gracias a usted, en parte. Si no se le hubiera ocurrido lo del dragón, a esta hora estaríamos buscando otro planeta con buena comida.
-
-Inclina la cabeza, mirándote con curiosidad. Mira tus ojos. Mira a Kase, en la baranda, que lo mira de vuelta sin ninguna simpatía.
-
-—Tiene un bolsillo muy interesante —dice—. Y un gato muy interesante. Y casi nada de ki. —Sonríe, amable, sin ninguna malicia—. Qué combinación tan curiosa.
-
-Junta las manos sobre la túnica, donde escondió los pudines.
-
-—Disculpe la descortesía. Usted ya sabe mi nombre, y yo todavía no sé el suyo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1528 · DRAGON BALL · SÁBADO · 13:15    ║
-║ Crucero de Bulma · junto a la piscina        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.247 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando a Whis          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Goku (SSJ Dios) vs Bills en el     ║
-║ cielo                                        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1529)
+## COMANDO 1 (T1529)
 
 me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1529)
+## RESPUESTA 1 (T1529)
 
 > me llamo Facundo Morelli
 
@@ -113,11 +58,11 @@ Después te mira de reojo. Solo un segundo. Como si tuviera curiosidad por ver q
 
 ---
 
-## COMANDO 3 (T1530)
+## COMANDO 2 (T1530)
 
 goku va a poder devolverla
 
-## RESPUESTA 3 (T1530)
+## RESPUESTA 2 (T1530)
 
 > goku va a poder devolverla
 
@@ -188,4 +133,80 @@ Whis carraspea, muy bajito, y se aprieta la túnica contra el estómago.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:35, crucero. Goku absorbió la esfera; Bills perdonó a la Tierra y, con sueño, le pide a Facundo más pudín antes de irse. Facundo puede actuar.
+## COMANDO 3 (T1531)
+
+saco 2 cajas de pudin, esto es para su viaje bills sama
+
+## RESPUESTA 3 (T1531)
+
+> saco 2 cajas de pudin, esto es para su viaje bills sama
+
+[Compra: pudín igual al de la fiesta, dos cajas de seis. 2 Fragmentos.]
+
+Metes la mano en el bolsillo interior del sobretodo y sacas una caja de cartón blanco, con doce pudines adentro, en dos filas. Después metes la mano otra vez y sacas otra.
+
+Las dos cajas no entran en un bolsillo. No entran en ningún bolsillo. Salen igual.
+
+> —Esto es para su viaje, Bills-sama.
+
+Bills abre los ojos. Del todo. El sueño se le va de golpe. Mira las dos cajas, mira el bolsillo, te mira a ti.
+
+Agarra las cajas con las dos manos. Las abre. Cuenta. Las vuelve a cerrar con muchísimo cuidado, como si adentro hubiera algo vivo.
+
+—Doce —dice, muy serio—. Doce pudines.
+
+—Doce, Bills-sama —confirma Whis, que se acercó sin que nadie lo viera moverse, y que ya está mirando las cajas por encima del hombro de Bills.
+
+—No. —Bills aprieta las cajas contra el pecho—. Son míos. Tú ya tienes tres escondidos en la túnica.
+
+Whis se queda quieto. Sonríe. No dice nada.
+
+Bills se da vuelta hacia ti. Se queda mirándote un rato largo, con las cajas en brazos y la cola moviéndose sola detrás. Ya no tiene cara de aburrido ni cara de sueño. Tiene cara de algo que en un dios de la destrucción no se ve muy seguido.
+
+—Facundo, ¿no? —Lo dice como si lo hubiera oído una sola vez y le hubiera quedado—. Bien. Me acuerdo de la gente que me da de comer. —Levanta una de las cajas, apenas—. Este planeta no lo destruyo. Por un tiempo largo. Y si alguien más quiere destruirlo, que me pregunte primero.
+
+Mira a Kase, en la baranda.
+
+—Adiós, Kase.
+
+Kase lo mira. Y por primera vez en toda la tarde, entorna los ojos, despacio, rojo y azul, y los vuelve a abrir. Un parpadeo lento, largo. Lo que hacen los gatos cuando, por fin, deciden que algo no les molesta.
+
+Bills sonríe de oreja a oreja.
+
+Whis apoya la base del báculo en la cubierta. Un golpecito.
+
+—Fue una fiesta preciosa, señorita Bulma. Gracias por todo. —Inclina la cabeza—. Hasta pronto, Facundo-san. Seguramente volvamos. Bills-sama no se olvida nunca de un buen postre.
+
+Bills se pone una mano en el hombro de Whis, con las dos cajas apretadas en el otro brazo.
+
+Una columna de luz blanca baja del cielo, los envuelve a los dos, y se los lleva. Desaparece hacia arriba en un segundo, como una estrella fugaz al revés.
+
+La cubierta se queda en silencio.
+
+Después todos se dan vuelta. Despacio. Uno por uno. Bulma, Vegeta, Gohan con Videl, Piccolo, Krilin, la 18, Goten, Trunks, Milk. Hasta Mr. Satán, que se despertó a tiempo para ver la columna de luz.
+
+Te miran a ti.
+
+Goku, en el medio, con la ropa quemada, mira para otro lado y silba.
+
+Bulma es la que habla. Cruza los brazos sobre el vestido rojo y te mira con los ojos entrecerrados.
+
+—Bueno —dice—. Ahora sí. ¿Quién eres tú?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1531 · DRAGON BALL · SÁBADO · 13:40    ║
+║ Crucero de Bulma · junto a la piscina        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:40, crucero. Bills y Whis se fueron con doce pudines; Bills perdona a la Tierra por un tiempo largo. Todos miran a Facundo; Goku silba. Bulma: "Ahora sí. ¿Quién eres tú?" Facundo puede responder.

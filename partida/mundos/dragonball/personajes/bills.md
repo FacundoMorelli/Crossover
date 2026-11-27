@@ -24,3 +24,5 @@ RELACIÓN CON FACUNDO (T1522): interés (el gato, el pudín).
 - T1527 · Ve al SSJ Dios: "Ahí está. El Super Saiyajin Dios. El del sueño." "Bueno, Goku. Vamos a ver qué tal." Sube a pelear con Goku sobre el mar.
 - T1529 · Carga en la punta del dedo una esfera de energía del tamaño de una ciudad sobre el mar, frente a Goku SSJ Dios (canon de la pelea final).
 - T1530 · Ve a Goku absorber su esfera. Raspón chiquito en la mejilla; encantado. "Bueno. Estuvo bien. Muy bien. Me dio sueño." "La Tierra se queda. Tiene buena comida. Y un saiyajin divertido. Y ese gato." A Facundo: "Y tú. El del bolsillo. Antes de irme, quiero más pudín."
+- T1531 · Recibe dos cajas de pudín (doce) "para su viaje": "Doce pudines." A Whis: "Son míos. Tú ya tienes tres escondidos en la túnica." A Facundo: "Facundo, ¿no? Bien. Me acuerdo de la gente que me da de comer. Este planeta no lo destruyo. Por un tiempo largo. Y si alguien más quiere destruirlo, que me pregunte primero." "Adiós, Kase." Kase le responde con un parpadeo lento; Bills sonríe. Se va con Whis en una columna de luz.
+RELACIÓN CON FACUNDO (T1531): simpatía; lo recuerda como el que le da de comer. ESTADO: de vuelta a su planeta.
