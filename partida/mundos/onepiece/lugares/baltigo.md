@@ -5,3 +5,4 @@ VISITAS:
 - T1442 · Día ~120 00:09 · Facundo llega por teletransportación al cuarto de Robin. Nadie más lo ve.
 TORRE DE DRAGON: cuarto redondo en lo alto, ventanas a los cuatro lados, viento; mesa enorme de mapas, cartas e informes, Den Den Mushi. Escalera de caracol desde el pasillo de los cuartos.
 - T1448 · Facundo sube con Robin y Koala; Dragon y Sabo adentro.
+- T1467 · Días ~121-125 · Facundo vive en el cuarto de Robin; patio (enseña espada); paseos al borde del desierto blanco contra el mar.

@@ -189,3 +189,4 @@
 - Días ~58-120 · (T1464, fuera de escena, contado por Barbablanca) La Marina alcanza dos veces a la flota de Barbablanca (vicealmirantes; después un almirante nuevo con magma). El Bankai de Facundo detiene todo: cero daños.
 - Día ~121 noche · (T1465) Facundo cura por completo a Barbablanca con la Transfiguración Ociosa (cambio enorme: sin enfermedad; en el canon ya había muerto en Marineford).
 - Día ~121 noche · (T1466) Barbablanca anuncia a su flota que está sano; brindis por Facundo. Se esperan rumores en el Nuevo Mundo (la flota es grande; la noticia puede salir).
+- Días ~121-125 · (T1467) Sabo vuelve a Baltigo con Facundo. Facundo pasa cuatro días con Robin en Baltigo.

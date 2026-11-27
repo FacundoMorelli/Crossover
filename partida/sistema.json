@@ -1,8 +1,8 @@
 {
-  "turno": 1466,
+  "turno": 1467,
   "mundo_actual": "onepiece",
-  "fecha_local": "One Piece: Día ~121 (~63 días después de irse el Día 57 17:52; en el timeskip de dos años, ~2 meses dentro)",
-  "hora": "Día ~121, noche (Nuevo Mundo)",
+  "fecha_local": "One Piece: Día ~125 (~63 días después de irse el Día 57 17:52; en el timeskip de dos años, ~2 meses dentro)",
+  "hora": "Día ~125, noche",
   "edad": 18,
   "nivel": 30,
   "exp": 331130,
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -660,7 +660,8 @@
       "objeto": "Manuscrito \"El Viajero del Gato\" de Jiraiya (200 páginas), dedicatoria: \"Para mi personaje principal. No lo leas delante de Tsunade\"",
       "origen": "naruto, Jiraiya (T1440)",
       "mundo": "naruto"
-    }
+    },
+    "Flor seca de Baltigo (de Robin, T1467; en el bolsillo del sobretodo)"
   ],
   "copias": [
     {

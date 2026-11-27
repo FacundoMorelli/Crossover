@@ -19,3 +19,4 @@ RELACIÓN CON FACUNDO (T1450): curiosidad seria; ningún puesto ofrecido; lo dej
 - T1453 · Ve a Sabo recuperar la memoria. No se mueve; puños cerrados a los costados.
 - T1454 · Sostiene la mirada de Sabo sin decir nada. Ante el pedido de Sabo a Facundo, ni sí ni no.
 - T1455 · A Sabo: "No necesitas mi permiso, Sabo. Nunca lo necesitaste." Condición: avisar, Koala con sus informes, y que vuelva. A Facundo: "Esta isla no está en ningún mapa. Que siga así."
+- T1467 · Ve volver a Sabo; asiente una vez. Deja a Facundo estar en la base esos días.

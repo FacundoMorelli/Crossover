@@ -105,3 +105,4 @@ ESTADO: activa
 - T1453 · Ve a Sabo recordar; se lleva la mano a la boca. Sabe ahora que Sabo es el tercer hermano de Luffy y Ace.
 - T1455 · Le aprieta la mano a Facundo, con los ojos brillantes.
 - (pendiente) Mensaje de Luffy para ella (T1461): "Que la extraño. Y que dentro de dos años va a tener el capitán más fuerte del mundo."
+- T1467 · Días ~121-125 en Baltigo con Facundo. Se ríe con el mensaje de Luffy. Trabaja por la mañana con calcos e inscripciones (un nombre borrado a propósito de todos los libros); se lo explica a Facundo. Paseos por el desierto blanco; le pone en el bolsillo una flor seca (la única de la isla). Noches juntos (fundido). Cuarta noche: "En Tequila Wolf me dijiste que la historia de ese mundo todavía no había terminado. El de los titanes y las tres murallas. ¿Terminó?"

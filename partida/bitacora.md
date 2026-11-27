@@ -1465,3 +1465,4 @@ T1463 · ONE PIECE · Moby Dick · (observa) Ace presenta a Sabo. Barbablanca le
 T1464 · ONE PIECE · Moby Dick · Sake con Barbablanca. El Bankai paró dos ataques de la Marina en dos meses. "¿Qué quieres de Edward Newgate?"
 T1465 · ONE PIECE · Moby Dick · Facundo cura a Barbablanca con la Transfiguración Ociosa: enfermedad, corazón y pulmones, limpios. La enfermera lo confirma. "¿Qué me hiciste, mocoso?"
 T1466 · ONE PIECE · Moby Dick · "Sigue siendo un Emperador hasta que mi capitán sea Rey de los Piratas." Barbablanca de pie, sano, risa que sacude el mar. Anuncia a la flota que está sano. Brindis: "¡Por el mocoso del gato!"
+T1467 · ONE PIECE · Moby Dick → Baltigo · SIMULACIÓN Días ~121-125: despedida Ace-Sabo; Sabo vuelve a Baltigo; mensaje de Luffy a Robin; días tranquilos en Baltigo (enseña espada, investigación de Robin, paseos, flor seca). Robin: "¿Terminó la historia de ese mundo?"

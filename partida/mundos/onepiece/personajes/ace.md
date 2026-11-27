@@ -32,3 +32,4 @@ ESTADO: activo
 - T1462 · De vuelta en el Moby Dick: "¡Soy yo! ¡Estoy bien! ¡No me secuestró nadie! Bueno... un poco sí. Pero fue para algo bueno."
 - T1463 · Presenta a Sabo a Barbablanca y a toda la tripulación ("Te hablé de él una vez sola, la noche que me uní"). Coscorrón de Marco. No se despega de Sabo en la fiesta.
 - T1466 · Ve a su padre de pie y sano; se queda al pie de la silla sin poder hablar.
+- T1467 · Al amanecer se despide de Sabo en la proa; abrazo.

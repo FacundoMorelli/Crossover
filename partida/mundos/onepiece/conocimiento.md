@@ -294,3 +294,5 @@
 - Facundo · T1464 · Por Barbablanca: dos ataques de la Marina contra la flota desde Marineford (vicealmirantes en el borde del Nuevo Mundo; "un almirante nuevo" de magma), parados por el Bankai.
 - Barbablanca, jefa de enfermeras, enfermeras, comandantes y tripulación cercana · T1465 · Ven a Facundo tocarle el brazo a Barbablanca unos segundos; la enfermera confirma con el estetoscopio que está curado del todo. Barbablanca sintió que algo le cambió por dentro. Nadie ve la técnica (solo el toque).
 - Toda la flota de Barbablanca · T1466 · Por Barbablanca: está sano del todo, gracias a Ojos de Eclipse ("el mocoso del gato"). Por Facundo (oído por los cercanos): Luffy va a ser Rey de los Piratas; Barbablanca sigue siendo Emperador hasta entonces. Cómo lo curó: secreto.
+- Revolucionarios de Baltigo · T1467 · Días ~122-125: conviven con Facundo; seis aprenden con él a sostener una espada corta en el patio (ven su manejo de espadas, nada más).
+- Robin · T1467 · Por Facundo: el mensaje de Luffy (la extraña; el capitán más fuerte del mundo en dos años). Por Sabo/Facundo, probablemente: lo del Moby Dick.
