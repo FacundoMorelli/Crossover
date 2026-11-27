@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1690)
-
-podrías decir que soy otra cosa, pero no soy una amenaza
-
-## RESPUESTA 1 (T1690)
-
-> podrías decir que soy otra cosa, pero no soy una amenaza
-
-> —Podrías decir que soy otra cosa. Pero no soy una amenaza.
-
-Makima no deja de sonreír.
-
-—Otra cosa —repite, como si probara un sabor nuevo—. Y no una amenaza.
-
-Mira la avenida otra vez, de punta a punta. Los cuarenta y seis dormidos bajo la llovizna, sentados en bancos, en autos, en escalones. La novia del vestido de barro, con la cabeza apoyada en el volante. La nena de las trenzas, acurrucada contra el cartero, con la mochila de conejo en las rodillas.
-
-—Le creo —dice—. Por ahora. —Vuelve a ti—. Alguien que fuera una amenaza no los habría sentado. Los habría dejado en el piso. O los habría cortado, como hacemos nosotros. —Una mirada breve, sin reproche, hacia Sato, que aprieta los labios—. Usted les cuidó la cabeza.
-
-El chofer cambia el paraguas de mano. Makima ni lo nota.
-
-—Pero le voy a decir algo, señor Morelli, porque es justo que lo sepa. —Baja un poco la voz, como si te contara un secreto—. La persona que hizo esto —un gesto leve, abarcando a los dormidos— es una asesina extranjera. Vino a Japón a matar a uno de mis empleados. No es la única: esta semana llegaron varios. Y esta, en particular, nunca deja ir lo que le gusta. —Mira a Kase—. Me dijeron por radio que le habló. A usted. Que le dijo "joven del gato".
-
-Kase, en tu hombro, mueve la punta de la cola una sola vez.
-
-—Así que usted, que no es una amenaza, ya tiene a una amenaza muy seria buscándolo. A usted y a su gato. Esta noche.
-
-En la puerta de Mitsukoshi, entre el humo, aparecen dos siluetas que bajan las escaleras de la entrada tosiendo, chamuscadas. Una es alta, de pelo negro atado en un rodete, con traje y una katana. La otra es más baja, con dos cuernos rojos en la cabeza, y viene gritando algo con muchísima indignación. No llegas a entender qué. Makima no se da vuelta a mirarlos.
-
-—Por eso le voy a hacer una propuesta, señor Morelli. —Junta las manos otra vez—. Quédese conmigo esta noche. Con mi gente. Trabaje para mí, aunque sea hasta que esto termine. Le pagaré lo que pida. —La sonrisa no cambia—. Y así, cuando ella venga por usted, va a encontrarnos a todos juntos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1690 · CHAINSAW MAN · DÍA 1 · 19:48    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Makima         ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1691)
+## COMANDO 1 (T1691)
 
 esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
 
-## RESPUESTA 2 (T1691)
+## RESPUESTA 1 (T1691)
 
 > esta bien, pero hasta que esto termine y puedo saber el nombre de su empleado al que busca?
 
@@ -124,11 +77,11 @@ Kase la mira desde tu hombro con una expresión de desprecio absoluto.
 
 ---
 
-## COMANDO 3 (T1692)
+## COMANDO 2 (T1692)
 
 soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
 
-## RESPUESTA 3 (T1692)
+## RESPUESTA 2 (T1692)
 
 > soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
 
@@ -187,4 +140,80 @@ Kase la mira. Las orejas se le van para atrás.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:53, avenida frente a Mitsukoshi. Aki desconfía ("¿Con qué demonio tienes pacto?"; cuatro grupos de asesinos; suplantaron a los de Kioto), pero ve a los dormidos; su ojo del Futuro se mueve y no encuentra algo. Makima: Facundo va con ellos; que suban a buscar a Denji y no se separen; Santa volverá a intentarlo esta noche. Makima se fue en el sedán. Aki: "Arriba. Piso siete. Y si haces algo raro, te corto." Power, en puntas de pie, estira un dedo hacia la cola de Kase: "Power solo va a tocarlo un poquito." Kase con las orejas para atrás.
+## COMANDO 3 (T1693)
+
+dejo que power intente tocar a kase y subo con aki
+
+## RESPUESTA 3 (T1693)
+
+> dejo que power intente tocar a kase y subo con aki
+
+No te mueves.
+
+El dedo de Power llega a la cola de Kase. La toca. Apenas, con la punta, como quien toca una estufa para ver si quema.
+
+Kase no se da vuelta. No bufa. Ni siquiera la mira. Levanta la cola, despacio, enorme, blanca y azul, y la deja caer de golpe sobre la cara de Power. Un solo latigazo, sin uñas, de lado a lado. Después la vuelve a enroscar sobre tu hombro y sigue mirando hacia adelante, como si no hubiera pasado nada.
+
+Power se queda quieta, con la cara llena de pelos y la boca abierta.
+
+—Me pegó —dice. Y después, con los ojos en cruz brillando—: ¡Me pegó! ¡Es de verdad! ¡Aki, el gato de verdad le pegó a Power!
+
+—Bien por el gato. —Aki ya está subiendo la escalera de la entrada—. Vamos.
+
+Adentro, Mitsukoshi es un desastre a oscuras. Las luces de emergencia tiñen todo de rojo. La alarma de incendio chilla en todos los pisos. Las escaleras mecánicas están detenidas, llenas de bolsas, zapatos, un maniquí partido al medio. Huele a humo, a plástico quemado y, cada vez más fuerte a medida que suben, a sangre.
+
+Suben por la escalera mecánica apagada, de dos en dos escalones. Aki adelante, con la mano en la katana. Power atrás, todavía contándole a nadie lo del gato. Tú en el medio.
+
+En el cuarto piso, en la sección de ropa de chicos, hay muñecos cortados. No dormidos: cortados. Pedazos. Brazos con relojes, piernas con medias, una cabeza con una gorra de béisbol que todavía sonríe. Algunos se siguen moviendo un poco en el piso, sin dirección, como insectos aplastados. Aki pasa por al lado sin mirar. Power salta por encima de una mano que intenta agarrarle el tobillo.
+
+En el quinto, una góndola entera de vajilla en el piso, hecha añicos.
+
+En el sexto, una chica de pelo castaño corto, con una colita y un lunar debajo del ojo, acurrucada detrás de un mostrador de perfumes, abrazada a sus rodillas, con un cuchillo en la mano. Cuando los ve, grita. Cuando ve que es Aki, grita igual, más bajito.
+
+—¡Kobeni! —Aki ni se detiene—. ¿Dónde está?
+
+—¡Arriba! —Kobeni señala el techo con el cuchillo, temblando entera—. ¡Arriba, arriba! ¡Se cayó del techo, rompió la vidriera, los cortó a todos, y después se cayó y no se movió más! ¡Yo me quiero ir a mi casa!
+
+Te ve a ti. Ve a Kase. Grita otra vez.
+
+Séptimo piso.
+
+Era la sección de muebles. Ya no. Sillones despanzurrados, camas partidas en dos, lámparas en el piso. La vidriera grande que da a la avenida está reventada hacia afuera, y la llovizna entra por el agujero y moja la alfombra. Todo está salpicado de sangre. Muñecos cortados por todos lados, en pedazos. Y en el medio, tirado boca arriba sobre una cama matrimonial de exhibición con el colchón abierto, hay un chico.
+
+Rubio. Flaco. El traje de Seguridad Pública hecho jirones. Tiene la cara blanca como el papel, los labios grises y una cuerda corta, como de arranque de motor, saliéndole del medio del pecho. Respira, apenas. Está despierto.
+
+Gira la cabeza hacia ustedes, muy despacio, como si le pesara una tonelada.
+
+—Aki —dice, con una vocecita sin fuerza—. Power. —Los ojos se le van a ti. Al pelo. A Kase—. ¿Y ese quién es? —Parpadea—. No importa. ¿Alguien tiene sangre? Me muero de hambre. Bueno, no de hambre. De sangre. Me muero de sangre.
+
+```
+╔══════════════════════════════════════════════╗
+║ DENJI                                        ║
+║ Seguridad Pública · División 4               ║
+║ PODER: híbrido (sin datos sobre el corazón)  ║
+║ AMENAZA: BAJA (ahora, sin sangre: ÍNFIMA)    ║
+║ Diferencia estimada: x0,008 sobre ti         ║
+║ Lo que late en su pecho es más de lo que     ║
+║ parece.                                      ║
+║ COPIABLE: sin datos                          ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1693 · CHAINSAW MAN · DÍA 1 · 19:58    ║
+║ Tokio, otoño de 1997                         ║
+║ Mitsukoshi, piso 7 (muebles)                 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Proteger a Denji esta noche        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:58, Mitsukoshi piso 7 (muebles), destrozado, vidriera reventada, muñecos cortados. Kase le dio un coletazo en la cara a Power ("¡Me pegó! ¡Es de verdad!"). Subieron por la escalera mecánica apagada. KOBENI escondida en el piso 6 (perfumería), aterrada; grita al ver a Facundo y a Kase. DENJI tirado sobre una cama de exhibición, sin sangre, despierto: "¿Y ese quién es? No importa. ¿Alguien tiene sangre? Me muero de sangre." Aki y Power presentes.
