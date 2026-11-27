@@ -114,3 +114,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1574 · "¡¿Vas a pelear con el señor Bills?! ¡Yo quiero mirar!"
 - T1575 · No se queda quieto durante la hora; le pregunta tres veces a Facundo si está nervioso.
 - T1576 · Ve otra vez a Facundo en SSJ Blue frente a Bills; pegado a la barrera: "¡Ahí está! ¡Mira, Vegeta, otra vez!"
+- T1577 · Ve el puñetazo a Bills; se cae sentado: "¡Le pegó! ¡Le pegó al señor Bills! ¡En la cara!"

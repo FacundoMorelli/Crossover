@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1574)
-
-esta bien señor bills
-
-## RESPUESTA 1 (T1574)
-
-> esta bien señor bills
-
-> —Está bien, señor Bills.
-
-—"Señor Bills". —Bills se ríe por la nariz, con la cola moviéndose sola detrás—. Me gusta. Nadie me dice "señor". Me dicen "Bills-sama" temblando, o no me dicen nada porque ya no existen.
-
-Se da vuelta y empieza a subir la escalera de la pirámide, despacio, rascándose la panza, en ropa de dormir. A los veinte escalones se detiene. Mira por encima del hombro.
-
-—Una hora —dice—. No comas nada en esa hora. —Te señala con el dedo—. Ni tú ni el gato. Si me haces esperar o te veo con la panza llena, me enojo. Y no te gusta cuando me enojo.
-
-Sigue subiendo. La puerta de arriba se cierra detrás de él.
-
-Goku se pone de pie de un salto, con el plato vacío en una mano.
-
-—¡¿Vas a pelear con el señor Bills?! —Tiene los ojos enormes—. ¡¿En serio?! ¡Yo quiero mirar! ¡Whis, ¿puedo mirar?!
-
-—Puede mirar, Goku-san —dice Whis—. De lejos.
-
-Vegeta no dice nada. Se queda sentado en su roca, con los brazos cruzados y la mandíbula apretada, mirándote. Después mira la pirámide. Después a ti otra vez. Aprieta los puños.
-
-Whis se levanta de la silla de playa. Junta el plato de Bills, el de Goku, el de Vegeta, el suyo, y los hace desaparecer con un golpecito del báculo. Después se acerca a ti, despacio, y se para a tu lado, mirando también la pirámide.
-
-—Un consejo, Facundo-san, si me lo permite —dice, en voz baja, sin dejar de sonreír—. Bills-sama no sabe contenerse cuando se divierte. Y hace mucho, muchísimo tiempo que no se divierte de verdad.
-
-Te mira de reojo.
-
-—Le recomiendo que no se contenga demasiado. —Una pausa delicada—. Ni demasiado poco.
-
-Kase, en tu hombro, mira la puerta cerrada de la pirámide. Tiene la cola quieta. Las orejas, hacia adelante.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1574 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde de la explanada · mediodía             ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · corte en mejilla  ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, mirando la pirámide      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills en una hora        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1575)
+## COMANDO 1 (T1575)
 
 esta bien
 
-## RESPUESTA 2 (T1575)
+## RESPUESTA 1 (T1575)
 
 > esta bien
 
@@ -107,11 +55,11 @@ Espera. Después ladea la cabeza, con una sonrisa de gato que se le va armando d
 
 ---
 
-## COMANDO 3 (T1576)
+## COMANDO 2 (T1576)
 
 dejo a kase y me transformó en blue
 
-## RESPUESTA 3 (T1576)
+## RESPUESTA 2 (T1576)
 
 > dejo a kase y me transformó en blue
 
@@ -173,4 +121,72 @@ El aire de la explanada se pone pesado. No hay ruido. Las nubes de arriba de la 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Facundo en SSJ Blue en el centro; Bills a 15 pasos: "Vamos. Ven." Kase afuera con Whis. Facundo puede actuar.
+## COMANDO 3 (T1577)
+
+le pego a bills
+
+## RESPUESTA 3 (T1577)
+
+> le pego a bills
+
+Recorres los quince pasos en un solo paso.
+
+El suelo no llega a crujir. Un instante estás a quince pasos y al siguiente estás debajo de la guardia de Bills, con el puño derecho ya en camino y el aura azul estirándose detrás de ti como una cola de cometa.
+
+Bills hace lo mismo que con Goku sobre el mar. Levanta un dedo, sin apuro, con la sonrisa todavía puesta, para frenarte el puño con la yema.
+
+El dedo no lo frena.
+
+Tu puño le aparta la mano como si fuera de papel y le entra de lleno en la mejilla izquierda.
+
+El ruido llega tarde: un trueno seco, hondo, que hace vibrar toda la cúpula. Bills sale despedido hacia atrás sin tocar el suelo. Cruza la explanada de punta a punta y choca de espaldas contra la barrera de Whis. La luz se tuerce, se hunde hacia afuera como una tela y aguanta. Cientos de grietas blancas se abren desde el punto del golpe, como un parabrisas.
+
+Las venas de luz del suelo parpadean todas juntas.
+
+Afuera, Goku se cae sentado.
+
+—¡Le pegó! —Tiene la boca abierta y las manos en la cabeza—. ¡Le pegó al señor Bills! ¡En la cara!
+
+Vegeta se pone de pie en su roca. No dice nada. Le tiembla un párpado.
+
+Whis baja la taza de té, despacio, y mira las grietas de su barrera con los ojos un poco más abiertos que de costumbre.
+
+—Vaya —dice, en voz baja—. Vaya, vaya.
+
+En el apoyabrazos, Kase no se movió. Solo se le movió la punta de la cola, una vez.
+
+Bills se despega de la barrera y cae parado, liviano, en el borde de la explanada. Se queda quieto, de espaldas a ti.
+
+Se lleva una mano a la mejilla. Se la toca con la punta de los dedos. Después se mira los dedos: tiene una gota de sangre violeta oscura, del labio partido.
+
+Se queda mirando esa gota un largo rato.
+
+Y se ríe.
+
+Al principio es bajito, por la nariz, con los hombros. Después es una carcajada abierta, de cabeza para atrás, que retumba en la cúpula agrietada. Las orejas se le paran derechas. La cola se le mueve de lado a lado, rápida, como la de un gato a punto de saltar.
+
+—No era mentira. —Se da vuelta. Tiene los ojos encendidos, amarillos, brillantes, y una sonrisa de oreja a oreja con un hilo de sangre en la comisura—. No era mentira para nada.
+
+Se limpia el labio con el dorso de la mano. Se suelta la faja de la cintura y la tira a un costado.
+
+Alrededor de su cuerpo empieza a subir un aura violeta, despacio, densa, y el aire de la explanada se pone frío de golpe.
+
+—Hace ochocientos años que nadie me hace sangrar, muchacho del bolsillo. —Se agacha apenas, con las manos sueltas y los dedos abiertos—. Ahora me toca a mí.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1577 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera agrietada) · tarde        ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 98% · Ojos: bien · corte en mejilla  ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: en el apoyabrazos de Whis (afuera)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills sangra del labio, aura violeta: "Ahora me toca a mí." Facundo en SSJ Blue en el centro. Barrera de Whis agrietada. Facundo puede reaccionar.
