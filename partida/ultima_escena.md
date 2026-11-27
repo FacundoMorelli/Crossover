@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1510)
-
-le doy una semilla del ermitaño
-
-## RESPUESTA 1 (T1510)
-
-> le doy una semilla del ermitaño
-
-Sacas una semilla del ermitaño del inventario y se la pones a Goku en la palma.
-
-Goku la mira. Se le ilumina la cara entera, con ojo morado y todo.
-
-—¡Una semilla! ¿De dónde la sacaste? Karin casi no tiene...
-
-No espera la respuesta. Se la mete en la boca y la mastica, con un crujido.
-
-El cuerpo se le arregla de golpe, como si alguien rebobinara la pelea. El ojo morado se le deshincha y se le aclara. El corte de la boca se cierra. Los raspones de las rodillas desaparecen. Se endereza de un salto, con un ruido de huesos que se acomodan, y se queda parado en la meseta con la camiseta todavía hecha jirones, pero sano. Entero. Con toda la energía de vuelta.
-
-Se mira las manos. Abre y cierra los puños.
-
-Y se queda quieto.
-
-—Oye... —dice, despacio—. Me siento más fuerte que antes de pelear.
-
-Lo dice como quien descubre algo que ya sabía. Se ríe.
-
-—¡Ja! ¡Es lo de los saiyajin! Cuando te dan una paliza de verdad y te curas, vuelves más fuerte. ¡Vegeta siempre se pone furioso cuando le pasa a él y no a mí!
-
-Se estira. Salta en el lugar. Lanza dos golpes al aire, rápidos, que levantan polvo.
-
-Después se mira la camiseta, rota de arriba abajo, colgando en tiras.
-
-—Bueno. La cara ya está. —Se rasca la nuca—. La camiseta... le digo a Milk que fue un oso.
-
-Kase, desde la roca, lo mira con una cara que dice, claramente, que nadie va a creer eso.
-
-Goku se da vuelta hacia ti. Ya no tiene las piernas temblando. Tiene otra vez los ojos encendidos, la sonrisa grande, las ganas de siempre.
-
-—Son las diez y media —dice—. ¿Seguimos? ¡Pero esta vez no te transformes! ¡Quiero ver cuánto me falta sin eso!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1510 · DRAGON BALL · AÑO 777 · 10:34   ║
-║ Páramo de entrenamiento · meseta             ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 66% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la roca, escéptico                  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Goku · fiesta de      ║
-║ Bulma el sábado                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1511)
+## COMANDO 1 (T1511)
 
 esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
 
-## RESPUESTA 2 (T1511)
+## RESPUESTA 1 (T1511)
 
 > esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
 
@@ -121,11 +64,11 @@ Vegeta te mira. Te reconoce enseguida. Y frunce más el ceño. Te está midiendo
 
 ---
 
-## COMANDO 3 (T1512)
+## COMANDO 2 (T1512)
 
 es un secreto( el cumple de bulma no era en el crucero?)
 
-## RESPUESTA 3 (T1512)
+## RESPUESTA 2 (T1512)
 
 > es un secreto( el cumple de bulma no era en el crucero?)
 
@@ -204,4 +147,59 @@ Tenías razón: en el anime de Super la fiesta es en un crucero (en la película
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:03, crucero de Bulma. Vegeta se fue a la baranda ("Esto no se terminó"). Bulma se presenta y le tiende la mano. Bills llega hoy. Facundo puede responder.
+## COMANDO 3 (T1513)
+
+mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
+
+## RESPUESTA 3 (T1513)
+
+> mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
+
+> —Mucho gusto, Bulma. Creo que no nos conocimos cuando pasó lo de Buu. ¿O sí? No me acuerdo. Bueno, me llamo Facundo Morelli.
+
+Bulma te estrecha la mano. Firme, rápido, como quien cierra un negocio.
+
+—No, no nos conocimos. Me acordaría. —Te suelta la mano y te señala con la copa—. Pero te vi. En la tele. Medio mundo te vio. El día del torneo, cuando aterrizaste en el ring con ese monstruo rosado y con el gato en el hombro. —Mira a Kase—. Ese mismo gato.
+
+Kase la mira de vuelta, sin parpadear.
+
+—Después pasaron tantas cosas que nadie entendió nada —sigue Bulma—. Buu se volvió bueno, apareció viviendo con Mr. Satán, y tú desapareciste. Vegeta nunca me quiso contar qué pasó. Cada vez que le pregunto, dice "trucos" y se encierra en la cámara de gravedad. —Toma un trago—. Y Goku, que no sabe guardar un secreto ni aunque le paguen, ahora resulta que sí sabe.
+
+Se te acerca un paso. Baja la voz.
+
+—Facundo Morelli. —Lo repite como si lo anotara—. Eso ya es más de lo que sabía hace cinco minutos. —Te guiña un ojo—. Algún día me vas a contar de dónde sacaste ese pelo. Yo hice una cápsula para teñirlo de cualquier color y nunca me salió así.
+
+Antes de que puedas contestar, alguien te tira del sobretodo por detrás.
+
+Es Goten. Tiene la camisa blanca más manchada que hace un rato, una mancha de chocolate en la cara y, al lado, a Trunks: pelo lila, chaleco, cara de chico que sabe que es el más listo de la fiesta y quiere que se note.
+
+—¡Facundo! —susurra Goten, aunque grita—. ¡Trunks no me cree! ¡Le dije que tengo una técnica nueva y dice que es mentira!
+
+Trunks se cruza de brazos.
+
+—Goten no tiene técnicas nuevas. Nunca tiene técnicas nuevas. —Te mira de arriba abajo, con desconfianza—. ¿Y tú quién eres? Tienes menos ki que el señor Krilin.
+
+—¡Es mi amigo! ¡Y me enseñó! —Goten te mira con los ojos enormes y las manos juntas—. ¿Puedo mostrársela ahora? ¿Ahora? ¿Puedo?
+
+Bulma se ríe y levanta la copa, a modo de permiso, o de despedida, o de las dos cosas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1513 · DRAGON BALL · SÁBADO · 12:06    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
+║ hoy) · técnica de Goten                      ║
+╚══════════════════════════════════════════════╝
+```
+
+Revisé las cuatro ramas del repo y en canon/dragonball/ solo hay hasta el final de Buu (13_kid_buu_final.md). No hay ningún archivo de Super en ninguna rama. La rama nueva, ccr-c851f38e-3rekto, agrega Chainsaw Man, Demon Slayer, Fullmetal y Solo Leveling, pero nada de Dragon Ball Super. Sigo con lo que sé de Super. Si lo subes, lo uso.
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:06, crucero. Bulma conoció a Facundo. Goten (con Trunks incrédulo) pide mostrar la Bola Giratoria ahora. Facundo puede responder.

@@ -1511,3 +1511,4 @@ T1509 · DRAGON BALL · Páramo · Deshace la Forma Cenit. Velo: ki muy bajo. Go
 T1510 · DRAGON BALL · Páramo · Semilla del ermitaño a Goku (quedan 24): sano y más fuerte (zenkai). "¿Seguimos? Esta vez no te transformes."
 T1511 · DRAGON BALL · Monte Paoz → Capsule Corp · SIMULACIÓN hasta el sábado: entrenamientos con Goku; Goten aprende la "Bola Giratoria Goten"; cena con Gohan y Videl. Fiesta de Bulma: Bulma pregunta quién es; Vegeta: "¿Qué truco es ese, insecto?"
 T1512 · DRAGON BALL · Crucero de Bulma · Corrección: la fiesta es en el crucero. "Es un secreto." Vegeta furioso; Goku miente fatal ("amigo que viene a comer"). Bulma frena a Vegeta y se presenta.
+T1513 · DRAGON BALL · Crucero · Se presenta a Bulma (lo vio en la tele en el torneo). Goten y Trunks: "¿Puedo mostrársela ahora?" (Sin canon de Super en el repo: el motor sigue con lo que sabe.)
