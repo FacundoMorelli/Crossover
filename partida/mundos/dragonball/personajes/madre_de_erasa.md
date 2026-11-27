@@ -13,3 +13,4 @@ QUÉ SABE DE FACUNDO: aspecto (pelo blanco y azul, tatuajes en el cuello, ojos d
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en su casa.
 - T1657 · Domingo 11:04: los mira salir desde la puerta, gesto con la cabeza a Kase, mira a Facundo de arriba abajo sin decir nada. Domingo 20:30: abre antes del timbre. Lunes: invita a Facundo a cenar el martes a las 20:00 ("no es una pregunta"), vía Erasa.
+- T1658 · Por la ventana de la cocina: "¿Y? ¿Dijo que sí?" "¡Mejor! ¡Que sepa que es a las ocho en punto!" Invita también a Kase.

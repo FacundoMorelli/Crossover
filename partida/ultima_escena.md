@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1655)
-
-le agarro de la cara con las dos manos y le doy un beso, quedatelo
-
-## RESPUESTA 1 (T1655)
-
-> le agarro de la cara con las dos manos y le doy un beso, quedatelo
-
-> —Quédatelo.
-
-Le sueltas la mano y le tomas la cara con las dos.
-
-Erasa se queda con los dedos quietos sobre el primer botón. Tiene las mejillas tibias, todavía rojas, y los ojos celestes muy abiertos, mirándote desde adentro del cuello negro del sobretodo. Abre la boca para decir algo.
-
-No llega a decirlo.
-
-La besas.
-
-Por un segundo no se mueve. Después suelta el botón. La mano se le pierde otra vez dentro de la manga y te agarra de la camisa, a la altura del pecho, y te tira un poco hacia ella. Cierra los ojos. Te devuelve el beso, despacio, como si tuviera miedo de que se terminara.
-
-La torta envuelta se le resbala de las rodillas y cae al piso del aerodeslizador con un ruido blando. Ninguno de los dos la mira.
-
-Cuando te separas, ella se queda con los ojos cerrados un momento más. Respira por la boca. Los abre despacio.
-
-—Ah —dice. Solo eso.
-
-Te sigue agarrando de la camisa. Te mira la boca, después los ojos, primero el rojo y después el azul, como si estuviera comprobando que eres el mismo de hace un minuto.
-
-—Que me lo quede —repite, muy bajito, y se mira el sobretodo, después a ti otra vez—. El sobretodo. Me dijiste que me lo quede.
-
-Se le escapa una risa temblorosa, por la nariz, y se tapa la boca con la manga.
-
-—Perdón. Es que... tú haces todo así. Así, de golpe, como si nada. —Te suelta la camisa y la vuelve a agarrar enseguida, como si se hubiera arrepentido de soltarla—. Me vas a volver loca en unos días, Facundo Morelli.
-
-En el segundo piso de la casa se enciende una luz.
-
-Erasa ni la ve. Sigue mirándote a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1655 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Calle de los Tilos 14, casa de Erasa · 23:33 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Despedir a Erasa                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1656)
+## COMANDO 1 (T1656)
 
 es la idea, ahora ve antes que tu madre te mate
 
-## RESPUESTA 2 (T1656)
+## RESPUESTA 1 (T1656)
 
 > es la idea, ahora ve antes que tu madre te mate
 
@@ -117,11 +63,11 @@ Medio minuto después se abre la cortina de la ventana del segundo piso. Aparece
 
 ---
 
-## COMANDO 3 (T1657)
+## COMANDO 2 (T1657)
 
 la saludo con la mano y vuelvo a la corporación, simula un par de dias y si podes agregar el resto del canon de animes que agregue fijate en otra rama si no esta ahi
 
-## RESPUESTA 3 (T1657)
+## RESPUESTA 2 (T1657)
 
 > la saludo con la mano y vuelvo a la corporación, simula un par de días
 
@@ -177,4 +123,54 @@ Te mira desde abajo, con los ojos celestes muy abiertos.
 
 ---
 
-ESTADO AL CIERRE: lunes 22:10, reja de Calle de los Tilos 14, de la mano con Erasa. Su mamá invita a Facundo a cenar mañana (martes) a las 20:00 ("no es una pregunta"). Erasa: "¿Vienes?"
+## COMANDO 3 (T1658)
+
+si a las ocho estoy ahi
+
+## RESPUESTA 3 (T1658)
+
+> si a las ocho estoy ahi
+
+> —Sí, a las ocho estoy ahí.
+
+Erasa suelta todo el aire de golpe, como cuando a Bills le gustó la torta.
+
+—Bueno. Bueno, bueno, bueno. —Se tapa la cara con la mano libre y se ríe adentro—. Le digo. Le digo ahora. Va a hacer pollo al horno, seguro. Siempre que quiere impresionar a alguien hace pollo al horno. —Te apunta con un dedo—. Si no te gusta, dices que te gusta. Igual que con la torta, pero mintiendo.
+
+Se pone en puntas de pie, te da un beso rápido, corto, en la boca, y abre la reja antes de que puedas hacer nada.
+
+Desde adentro de la casa, antes de que llegue a la puerta, se oye la voz de su madre, fuerte, a través de la ventana abierta de la cocina:
+
+—¿Y? ¿Dijo que sí?
+
+—¡Mamá! ¡Te está escuchando!
+
+—¡Mejor! ¡Que sepa que es a las ocho en punto!
+
+Erasa se da vuelta en el escalón de la entrada, roja hasta las orejas, y te hace un gesto con las dos manos que no termina de ser ni un saludo ni una disculpa. Se mete adentro. La puerta se cierra.
+
+Un segundo después se abre de nuevo, solo un poco. Asoma la cabeza rubia.
+
+—Kase también está invitado. Lo dijo ella. —Y vuelve a cerrar.
+
+Kase, a tus pies, levanta la cabeza hacia la puerta. Mueve la punta de la cola una sola vez.
+
+La calle queda tranquila. El grillo del rosal. El buzón con forma de pato. Son las diez y cuarto de la noche del lunes, y tienes por delante todo el martes hasta las ocho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1658 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calle de los Tilos 14 · lunes · 22:15        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: a tus pies                             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa (mar 20:00)  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: lunes 22:15, Facundo y Kase solos en la vereda de Calle de los Tilos 14. Cena confirmada: martes 20:00 en punto (la mamá probablemente hace pollo al horno). Kase también invitado. Facundo tiene libre el martes hasta las 20:00.
