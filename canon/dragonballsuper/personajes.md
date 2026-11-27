@@ -9,7 +9,7 @@
 - GOTEN — ~8 → adolescente. SSJ; Saiyaman X-2.
 - TRUNKS DEL FUTURO — SSJ; espada de la Esperanza.
 - NÚMERO 17 — guardabosques; ganador del Torneo del Poder.
-- FREEZER — emperador; Dorado (fuera del manga), Black Freezer. Cruel, cortés. Habla: "Monos" (a los Saiyajin).
+- FREEZER — emperador; Golden Freezer (arco 01b, tomado del anime), Black Freezer. Cruel, cortés. Habla: "Monos" (a los Saiyajin).
 - BEERUS — Dios de la Destrucción U7. Caprichoso, glotón; duerme mucho.
 - WHIS — ángel; amable, devoto de la comida.
 - ZENO-SAMA — rey de todo; infantil.
