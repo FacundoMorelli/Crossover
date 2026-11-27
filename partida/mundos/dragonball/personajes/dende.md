@@ -26,3 +26,4 @@ ESTADO: bien.
 - T943 · Llega al Nuevo Namek con Facundo. Se abraza llorando con Cargo.
 - T945 · Día en el Nuevo Namek: recorre la aldea con Cargo, cura a un chico. Promete volver. Vuelve al templo con Facundo. "Gracias, Facundo. No sé cómo pagarte esto." "Moori-sama dijo que tenías cara de alguien que vino a buscar algo para otra persona. ¿Es así?" (Facundo copió su poder.)
 - T946 · Facundo: "Algo así. En unos días vuelvo a ver a los demás." Dende no pregunta más. "Videl-san entrena todos los días con Gohan-san. Dice que te va a ganar."
+- T1487 · Año ~777 · Más alto, ya no es un chico aunque tenga la cara de uno; túnica de Dios. "¡Facundo-san! ¡Volviste!"

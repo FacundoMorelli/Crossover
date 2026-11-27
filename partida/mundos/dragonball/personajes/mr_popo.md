@@ -15,3 +15,4 @@ ESTADO: bien.
 - T942 · "Mr. Popo cuidó la Tierra muchos años antes de Dende. Mr. Popo puede cuidarla un día."
 - T945 · Cuida la Tierra el día entero. "Mr. Popo cuidó la Tierra. No pasó nada."
 - T946 · "Mr. Popo dice adiós al gato." Kase parpadea despacio (saludo).
+- T1487 · Año ~777 · Riega un jardín de flores nuevo. "Mr. Popo dice hola al gato. Y al chico del gato. Pasó mucho tiempo."

@@ -242,3 +242,5 @@
 - One Piece: Día ~125, Baltigo. Facundo planea quedarse unos días más con Robin y después volver a Shingeki.
 - One Piece: SALIDA Día ~129 ~07:00, torre de Dragon (Baltigo). Robin lo espera; pidió algo del mundo de los titanes. Bankai sobre la flota de Barbablanca sigue. Corre. Equivalencia OP = Shingeki + 9 d 5 h 30 min (vigente).
 - Shingeki: VUELVE Día 119 06:40 (~53 días después de irse el día 66), jardines del palacio de Mitras.
+- Shingeki: SALIDA Día 130 ~07:00, jardines del palacio de Mitras. Ymir espera ("antes de que se me arruguen las manzanas"). Expedición de Eren en el mar (6 meses). Corre.
+- Dragon Ball: VUELVE año ~777 (R14: ~20 de 30 días de Facundo transcurridos desde T1440; Bills en ~10 días de Facundo), Templo Sagrado, media mañana.

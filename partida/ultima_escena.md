@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1484)
-
-esta bien, espero con muchas ganas eso eren
-
-## RESPUESTA 1 (T1484)
-
-> esta bien, espero con muchas ganas eso eren
-
-> —¡Está bien! ¡Lo espero con muchas ganas, Eren!
-
-Eren te oye. Se le nota en la cara: la sonrisa le estalla de oreja a oreja, enorme, de chico, la misma que tenía en la meseta la primera vez que vio el mar. Levanta el puño cerrado por encima de la cabeza.
-
-Mikasa lo agarra del cinturón y lo baja de la baranda de un tirón antes de que se caiga al agua.
-
-El barco sigue alejándose. Las ruedas giran, el humo gris se estira detrás de la chimenea y se deshace en el cielo. Las figuras de la baranda se hacen chicas, después muy chicas, después puntos. La sirena suena otra vez, más lejos, más débil.
-
-En el muelle nadie se va.
-
-Se quedan todos mirando cómo el barco se hace pequeño en el horizonte. Carla con las manos juntas contra el pecho, Grisha con un brazo alrededor de sus hombros. Historia, quieta, con la capa moviéndose con el viento. Erwin con la mano izquierda detrás de la espalda, en posición de descanso, como en un desfile. Hange llorando abiertamente, sin vergüenza, sonándose la nariz con un trapo lleno de grasa que le deja la cara todavía más negra. Levi, a su lado, sin cambiar la cara, mirando el mar.
-
-Cuando el barco ya es un punto negro contra el agua, la gente empieza a moverse. Despacio. Hablando bajo. Las carretas vuelven a cargarse para el viaje de vuelta.
-
-Ymir no te suelta la mano.
-
-Se queda mirando el horizonte un rato más, con el viento del mar despeinándole el pelo atado. Después suelta el aire por la nariz.
-
-—Bueno —dice—. Se fueron.
-
-Te mira de costado. Las pecas, la boca torcida. Pero los ojos no se burlan.
-
-—Siempre es así, ¿no? —Señala con la barbilla el mar vacío—. Alguien se sube a algo y se va, y los demás se quedan en el muelle mirando hasta que no queda nada que mirar.
-
-Te aprieta la mano un poco más fuerte.
-
-—¿Cuánto te quedas tú esta vez, lindo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1484 · SHINGEKI · DÍA 129 · 07:25      ║
-║ Costa este de Paradis · muelle del puerto    ║
-║ nuevo                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: — · algo de este mundo para Robin  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1485)
+## COMANDO 1 (T1485)
 
 hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
 
-## RESPUESTA 2 (T1485)
+## RESPUESTA 1 (T1485)
 
 > hasta mañana, me gustaría quedarme mas, pero tengo algo que hacer, vamos a festejar esta noche, le susurro: solos
 
@@ -108,11 +55,11 @@ Detrás de ustedes, en el muelle, Hange los mira con los anteojos negros de gras
 
 ---
 
-## COMANDO 3 (T1486)
+## COMANDO 2 (T1486)
 
 le susurro vamos a otro lugar, al aire libre
 
-## RESPUESTA 3 (T1486)
+## RESPUESTA 2 (T1486)
 
 > le susurro vamos a otro lugar, al aire libre
 
@@ -154,4 +101,96 @@ Ymir te toma de la manga del sobretodo y tira un poquito, como si no quisiera qu
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 129 07:30, muelle de la costa este. Festejo de esta noche: al aire libre, a solas. Ymir: "¿Y adónde me vas a llevar?" Facundo puede responder.
+## COMANDO 3 (T1487)
+
+a un lugar lindo, simula hasta que mañana me vaya a dragon ball
+
+## RESPUESTA 3 (T1487)
+
+> a un lugar lindo, simula hasta que mañana me vaya a dragon ball
+
+> —A un lugar lindo.
+
+Ymir pone los ojos en blanco.
+
+—Qué respuesta tan completa —dice. Pero no te suelta la manga.
+
+El día pasa entre las carretas de vuelta y el palacio. A media tarde vuelves al patio del ala este, como le prometiste a Hange con el pulgar lleno de grasa. Te muestra la radio grande: un cajón de madera lleno de alambre, válvulas hechas a mano y una manivela que gira sola cuando la sueltas. La enciende. Sale ruido, y entre el ruido, muy lejos, una voz de hombre que lee algo en marleyano, despacio, como si leyera las noticias. Hange te mira con los ojos llenos de lágrimas y no dice nada, por primera vez en su vida. Levi está sentado en la moto, apagada, limpiándole el manubrio con el mismo pañuelo que sacrificó a la mañana.
+
+Al atardecer, Ymir te espera en los jardines, con la canasta de mimbre en el brazo. Ya no hay manzanas: ahora tiene pan, queso, una botella de vino que le robó a la cocina del palacio y una manta.
+
+Le tomas la mano.
+
+Dos dedos en la frente.
+
+El bosque de los árboles gigantes está al oeste de Wall Rose. Troncos tan anchos como casas, que suben hasta perderse en la oscuridad, con las copas tan altas que desde abajo parecen otro cielo. Las raíces forman colinas cubiertas de musgo. Entre los troncos corre un río ancho, lento, que refleja la última luz del sol. Y en cuanto oscurece, se llena de luciérnagas. Miles. Cientos de miles. Subiendo despacio entre los troncos, como chispas de una fogata que no se apaga nunca.
+
+Ymir se queda parada en la orilla con la canasta en la mano.
+
+—Aquí pasaba la Legión con los caballos —dice, muy bajo—. Aquí murió la mitad de la escuadra del enano. —Mira las luciérnagas—. Y ahora mira esto.
+
+Extienden la manta sobre una raíz enorme, junto al agua. Comen el pan y el queso. Toman el vino de la botella, sin vasos, pasándosela. Kase se trepa a una rama baja, a la altura de sus cabezas, y se queda mirando las luciérnagas con los ojos rojo y azul abiertos de par en par, intentando atrapar alguna con la pata, sin ganas de verdad.
+
+Ymir te cuenta cosas que nunca te contó. Cómo era ser titán: no un recuerdo, sino una niebla larga, de hambre y de nada. Cómo despertó en la muralla siendo otra vez ella. Cómo se le hacía raro, todavía, cortarse con un papel y que la sangre no humeara. Se ríe de todo eso. Se ríe más fuerte cuando más le duele.
+
+Después ya no habla.
+
+Se acuesta sobre la manta, con la cabeza en tu pecho, mirando cómo las luciérnagas suben hacia las copas. Te agarra la mano y la pone sobre su corazón, y la deja ahí.
+
+...
+
+La despierta el sol, que entra entre los troncos en franjas largas y doradas.
+
+Ymir abre los ojos, despeinada, con la manta hasta la barbilla y una hoja seca pegada en el pelo. Te mira. No dice nada durante un rato largo.
+
+Después se sienta. Se quita la hoja del pelo. Se la queda mirando.
+
+—Ya es mañana —dice.
+
+Vuelven al palacio por el mismo truco que odia. En los jardines, entre los setos, junto al mismo camino de grava donde te vio llegar, Ymir se para delante de ti. Se cruza de brazos. Levanta la barbilla.
+
+—No voy a llorar —avisa—. Así que no te hagas ilusiones.
+
+Te agarra de la solapa. Te besa. Fuerte, rápido, como si tuviera miedo de que el beso dure demasiado.
+
+Te suelta.
+
+—Vete, lindo. Y vuelve antes de que se me arruguen otra vez las manzanas.
+
+Abres la puerta en medio del jardín. Kase te salta al hombro. Ymir no se mueve. No saluda. Levanta la barbilla, como la última vez.
+
+Cruzas.
+
+Del otro lado hace calor y el aire está limpio, fino, de altura. Huele a flores, a piedra caliente, a cielo.
+
+Estás en el Templo Sagrado, suspendido sobre las nubes. El piso blanco, las palmeras, el edificio redondo de techo dorado. A lo lejos, el borde de la plataforma, y más allá, nada: nubes hasta el horizonte, y abajo, muy abajo, la Tierra.
+
+Algo cambió. Las palmeras están más altas. Hay un jardín de flores nuevo junto al edificio, bien cuidado. Y en el centro del patio, regando las flores con una regadera de lata, está Mr. Popo, igual que siempre.
+
+Levanta la vista. Te ve. Ve a Kase.
+
+No cambia la cara. Deja la regadera en el piso, con cuidado.
+
+—Mr. Popo dice hola al gato —dice—. Y al chico del gato. Pasó mucho tiempo.
+
+Detrás de él, desde la puerta del edificio, sale corriendo alguien alto, verde, delgado, con antenas en la frente y una túnica blanca con el símbolo de Dios bordado en el pecho. Más alto que la última vez. Mucho más alto: ya no es un chico, aunque todavía tiene la cara de uno.
+
+—¡Facundo-san! —Dende se frena en seco a tres pasos, con los ojos muy abiertos—. ¡Volviste!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1487 · DRAGON BALL · AÑO 777 · MAÑANA  ║
+║ Templo Sagrado                               ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: — · algo de Shingeki para Robin    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777, Templo Sagrado. Facundo llegó desde Shingeki tras la noche con Ymir. Mr. Popo lo saluda; Dende corre: "¡Facundo-san! ¡Volviste!" Facundo puede actuar.

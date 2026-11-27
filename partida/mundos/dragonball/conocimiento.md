@@ -66,3 +66,4 @@
 - Moori, Cargo y los namekianos de la aldea · T943 · Ven a un forastero (pelo blanco y azul, gato) aparecer de la nada con Dende; Moori no sintió ninguna nave.
 - Moori y la aldea · T944 · Por Facundo: es amigo de Goku y sus compañeros.
 - Dende · T945 · Por Moori: Facundo parece haber venido a buscar algo para otra persona.
+- Mr. Popo, Dende · T1487 · Ven a Facundo llegar por una puerta al Templo Sagrado (año ~777).

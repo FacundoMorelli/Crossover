@@ -40,3 +40,4 @@ ESTADO: activo
 - T1483 · Llega al puerto en la moto, con Levi detrás.
 - T1484 · Llora en el muelle, se suena con un trapo lleno de grasa.
 - T1485 · Mira a Facundo e Ymir con una sonrisa enorme; Levi se la lleva del cuello hacia la moto.
+- T1487 · Día 129 tarde · Le muestra a Facundo la radio grande (cajón de madera, válvulas hechas a mano, manivela): se oye una voz de hombre leyendo en marleyano. Llora sin decir nada.

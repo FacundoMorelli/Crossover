@@ -221,3 +221,4 @@
 - Ymir · T1483 · Viaja por teletransportación con Facundo (lo siente en el cuerpo).
 - Gente de Shiganshina · T1483 · Ven a Facundo e Ymir aparecer de la nada en la calle principal; alguien pintó un gato de dos colores en una puerta.
 - Ymir · T1485 · Por Facundo: se va mañana (Día 130); tiene algo que hacer.
+- Ymir · T1487 · Ve a Facundo irse por una puerta de luz en los jardines (Día 130).

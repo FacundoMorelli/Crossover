@@ -42,3 +42,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T1476 · "Es tuya. Pero si la rompes, te mato. Y queda medio frasco. No lo gastes en idioteces." Ve el caballito: medio paso atrás. "Una pata. Y si la hubiera roto, lo mataba."
 - T1478 · Le saca la llave de la moto a Facundo. (Fuera de escena, días antes: visitó en persona a un noble de Stohess que escondía trigo.)
 - T1483 · Va al puerto en la moto detrás de Hange, brazos cruzados, cara de piedra.
+- T1487 · Limpia el manubrio de la moto con el pañuelo de la bujía.

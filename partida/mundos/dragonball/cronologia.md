@@ -49,3 +49,5 @@
 - ~Día 96 · (T943) Facundo lleva a Dende al Nuevo Namek por Teletransportación. Reencuentro con Cargo y Moori. Mr. Popo cuida la Tierra.
 - ~Día 96 · (T945) Dende pasa el día en el Nuevo Namek y vuelve al templo al atardecer con Facundo.
 - ~Día 96 18:35 · (T946) Facundo se va por una puerta desde el Templo Sagrado. Promete volver en unos días.
+- Año 774 ~día 96 → año ~777 · (R14 desde T1440; simulado al volver, sin Facundo) Paz en la Tierra. (Canon de estos años, a revelar según lo que Facundo vea: Gohan y Videl se casan; Videl, entrenada por Facundo, mucho más fuerte; Goku entrena; Vegeta en Capsule Corp.; Buu con Mr. Satán. Bills despertará y llegará en 778, en ~10 días de Facundo.)
+- Año ~777, media mañana · (T1487) Facundo vuelve por una puerta al Templo Sagrado. Mr. Popo y Dende.

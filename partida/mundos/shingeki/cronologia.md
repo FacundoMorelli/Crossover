@@ -130,3 +130,6 @@
 - (Plan, T1479) Día ~129: zarpa la expedición de la Legión al continente en un barco de vapor de Marley (Magath): Eren, Mikasa, Armin, Jean, Connie, Sasha + 12 soldados; 6 meses (Marley, el sur, el desierto, Hizuru).
 - Días 119-129 · (T1483) Facundo e Ymir en Shiganshina con la expedición; consejos de Facundo a los 18 que viajan. Grisha sigue visitando a Zeke.
 - Día 129 07:10 · (T1483) ZARPA LA EXPEDICIÓN de la Legión al continente desde el puerto nuevo de la costa este, en el barco de vapor de Marley: Eren, Mikasa, Armin, Jean, Connie, Sasha y 12 soldados. Seis meses.
+- Día 129 tarde · (T1487) Hange muestra a Facundo la radio grande (voz en marleyano).
+- Noche Día 129-130 · (T1487) Facundo e Ymir en el bosque de los árboles gigantes.
+- Día 130 mañana · (T1487) Facundo se va por una puerta desde los jardines del palacio de Mitras (testigo: Ymir).

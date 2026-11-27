@@ -1485,3 +1485,4 @@ T1483 · SHINGEKI · Mitras → Shiganshina → costa este · SIMULACIÓN Días 
 T1484 · SHINGEKI · Muelle de la costa este · "¡Lo espero con muchas ganas, Eren!" El barco se pierde. Ymir: "¿Cuánto te quedas tú esta vez, lindo?"
 T1485 · SHINGEKI · Muelle · Se queda hasta mañana; festejo esta noche: "Solos." Ymir, roja: "Está bien. Festejamos. Solos. Pero no en la casa de los Jaeger."
 T1486 · SHINGEKI · Muelle · "Vamos a otro lugar. Al aire libre." Ymir: "¿Y adónde me vas a llevar?"
+T1487 · SHINGEKI → DRAGON BALL · Radio de Hange; noche con Ymir en el bosque de los árboles gigantes (luciérnagas). Despedida en los jardines: "Vuelve antes de que se me arruguen otra vez las manzanas." Puerta al Templo Sagrado, año ~777: Mr. Popo y Dende.
