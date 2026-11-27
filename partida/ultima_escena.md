@@ -3,57 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1670)
-
-esta bien, acaricio a kase con mi otra mano libre
-
-## RESPUESTA 1 (T1670)
-
-> esta bien, acaricio a kase con mi otra mano libre
-
-> —Está bien.
-
-Erasa sonríe contra tu hombro, sin mirarte.
-
-Con la mano libre acaricias a Kase. Le pasas los dedos por el lomo, despacio, a contrapelo y después a favor, por el pelo largo blanco y azul, hasta la base de la cola. Kase ronronea más fuerte. Estira las patas delanteras sobre las rodillas de Erasa, abre y cierra las garras sobre la manta, amasando, sin clavarlas, y se le cierran los ojos de a poco.
-
-Erasa lo mira hipnotizada. Saca la otra mano de debajo de la manta, con cuidado, y la apoya también sobre Kase, en la cabeza, entre las orejas con mechones. Kase la deja.
-
-Sus dedos y los tuyos se encuentran en el cuello del gato, sobre el collar negro con el colgante de eclipse. Ella no aparta la mano. La deja ahí, encima de la tuya, sobre el pelo tibio.
-
-—Es suavísimo —susurra—. Más que cualquier cosa. Más que mi oso.
-
-La película sigue. El velero navega días y días por un mar cada vez más oscuro. El capitán escribe cartas que no puede mandar. La chica del puerto las espera mirando el horizonte, todas las tardes, con su pañuelo. Erasa sabe todos los diálogos y los mueve con los labios, sin sonido, un segundo antes que los actores. En una escena del muelle se le escapa un sollozo chiquito y se tapa la boca con la mano que tenía sobre Kase. Después la vuelve a poner encima de la tuya.
-
-En la pantalla se viene la tormenta. El cielo se pone negro, las olas son paredes, el mástil cruje, el capitán grita órdenes atado al timón con una soga, empapado. Los violines suben. Erasa aprieta tus dedos debajo de la manta tan fuerte que se le ponen blancos los nudillos, aunque ya sabe cómo termina esta parte.
-
-Te mira de reojo, en la luz azul del televisor, con las pestañas mojadas.
-
-—¿Tú alguna vez estuviste en un barco así? —susurra—. ¿De madera, con velas? ¿En una tormenta de verdad?
-
-Lo pregunta bajito, mientras en la pantalla una ola enorme barre la cubierta, y se queda esperando la respuesta, con los ojos muy abiertos y la mano quieta sobre la tuya, encima del gato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1670 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sillón de la sala · 22:05     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sobre tus rodillas y las de Erasa      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Película con Erasa                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1671)
+## COMANDO 1 (T1671)
 
 si, el lugar de las islas son todos asi con velas
 
-## RESPUESTA 2 (T1671)
+## RESPUESTA 1 (T1671)
 
 > si, el lugar de las islas son todos asi con velas
 
@@ -103,11 +57,11 @@ Erasa se tapa la cara con las dos manos, temblando de llanto y de risa al mismo 
 
 ---
 
-## COMANDO 3 (T1672)
+## COMANDO 2 (T1672)
 
 le doy un beso, asi esta bien?
 
-## RESPUESTA 3 (T1672)
+## RESPUESTA 2 (T1672)
 
 > le doy un beso, asi esta bien?
 
@@ -161,4 +115,54 @@ No te suelta.
 
 ---
 
-ESTADO AL CIERRE: martes 22:55, créditos de "El último velero". Facundo la besó para callar el llanto ("¿Así está bien?"); la mamá volvió a su cuarto. Erasa: "Eso no es tapar la boca. Eso es trampa. Pero funcionó." "Once veces la vi. Y es la primera vez que no me importa cómo termina." "Ya es tarde, ¿no? Te tienes que ir." No lo suelta.
+## COMANDO 3 (T1673)
+
+si me tendría que ir
+
+## RESPUESTA 3 (T1673)
+
+> si me tendría que ir
+
+> —Sí, me tendría que ir.
+
+Erasa levanta la cabeza de tu hombro, muy despacio.
+
+Te mira con los ojos todavía rojos, entrecerrados, igual que en la cocina cuando le dijiste que Videl no te había contado "mucho más".
+
+—"Tendría" —repite, en un susurro—. Me tendría que ir.
+
+Se le empieza a formar una sonrisa en la comisura de la boca.
+
+—"Tendría" no es lo mismo que "tengo". —Te apunta con un dedo, por encima de la manta, triunfal—. Eso lo sé yo, lo sabe mi mamá y lo sabe cualquiera.
+
+No se mueve. Tampoco tú. Kase, en el medio, estira una pata y se la apoya a Erasa en el brazo, sin abrir los ojos.
+
+Los créditos terminan. La pantalla se pone azul, lisa, con un zumbido suave, y la luz de la lámpara de flecos queda sola en la sala, amarilla, chiquita. Afuera pasa un aerodeslizador por la calle, lejos, y después nada. Solo el reloj de la cocina.
+
+Erasa vuelve a apoyar la cabeza en tu hombro. Se acomoda mejor, sube un poco más la manta, hasta el cuello de los dos.
+
+—Cinco minutos —murmura, con los ojos cerrados—. Cinco minutos más y te vas. Te lo prometo. Yo te abro la puerta y todo.
+
+Bosteza. Trata de esconder el bostezo y no puede.
+
+—Igual a esta hora yo nunca me duermo. Nunca. —Otro bostezo—. Así que no te preocupes. Cinco minutos.
+
+Su mano, entre las tuyas, se va aflojando de a poco.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1673 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sillón de la sala · 22:58     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sobre tus rodillas y las de Erasa      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Película con Erasa                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 22:58, sillón de la sala, pantalla azul tras los créditos, lámpara de flecos. "Sí, me tendría que ir." Erasa: "Tendría no es lo mismo que tengo." Pide "cinco minutos más". Bosteza ("a esta hora yo nunca me duermo"); se le afloja la mano: se está quedando dormida en el hombro de Facundo. Kase en el medio, con una pata sobre el brazo de Erasa.
