@@ -29,3 +29,4 @@ ESTADO: bien.
 - T1503 · "¡Goten! ¡Ven a cambiarte esos pantalones! ¡Y después la tarea de matemáticas!"
 - T1505 · Cocina para diez. Cucharonazo a Goku por hablar con la boca llena. Inspecciona los campos: "Está bien... Está muy bien, en realidad. Mejor que nunca. Mejor que cuando lo haces tú solo en dos días." "Entonces entrenan. Pero lejos. Si me rompen una sola teja, mañana aran el campo del vecino."
 - T1511 · Pregunta por qué de repente hay tantos osos en el Monte Paoz. Mira a Videl de reojo en la cena "sumando dos más dos". Viste a Goku y a Goten para la fiesta; el sobretodo de Facundo "no tiene arreglo". Va a la fiesta en una nube voladora.
+- T1514 · "¡GOTEN!"

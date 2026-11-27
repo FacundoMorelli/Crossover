@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1511)
-
-esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
-
-## RESPUESTA 1 (T1511)
-
-> esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
-
-Los días que faltan pasan rápido, como pasan los días en esa casa: entre comida, campo y golpes.
-
-Ese mismo día y el siguiente entrenas con Goku sin transformarte. En el páramo, por las mañanas, después de que Milk revisa que no hay tejas rotas. Goku pelea en Super Saiyajin 3 contra ti en estado normal, y cada vuelta dura un poco más que la anterior. Al segundo día ya no te encuentra los huecos de casualidad: te los busca. Una vez te llega un golpe limpio a la mandíbula y se queda tan sorprendido que se olvida de esquivar el tuyo. Vuelve a casa cada tarde con la camiseta rota, y cada tarde le dice a Milk que fue un oso. El segundo día, Milk le pregunta por qué en el Monte Paoz hay tantos osos de repente, y Goku no sabe qué contestar.
-
-Por las tardes, cuando Goten vuelve de la escuela, o cuando se escapa de la escuela, que es casi siempre, te lo llevas al claro del arroyo, lejos de la casa, donde Goku no mira.
-
-Le enseñas a juntar el ki en la palma de la mano, pero no en una bola quieta, como hace todo el mundo: en una bola que gira. Que gira sobre sí misma, cada vez más rápido, en todas las direcciones a la vez, hasta que el giro es más fuerte que el ki. El primer día no le sale: se le escapa de la mano y le explota en la cara, y queda negro de hollín y riéndose. El segundo día le sale del tamaño de una canica, y la tira contra una piedra, y la piedra se parte en dos con un zumbido. Goten se queda mirando la piedra con la boca abierta, en silencio, por primera vez desde que lo conoces.
-
-El tercer día le sale del tamaño de una naranja. Le abre un agujero redondo, perfecto, a un árbol viejo de lado a lado.
-
-—¡La Bola Giratoria Goten! —grita, saltando alrededor del árbol—. ¡Así se llama! ¡Me la inventé yo! Bueno, me la inventaste tú. ¡Pero el nombre es mío!
-
-Kase mira el agujero del árbol. Mira a Goten. Se acuesta al sol.
-
-Goten jura por todo lo que conoce que no se lo va a contar a nadie hasta el cumpleaños. Se lo cuenta a Kase unas cuarenta veces por día, en voz baja.
-
-La tercera noche vienen a cenar Gohan y Videl. Gohan tiene anteojos, una camisa con el cuello abotonado y la misma sonrisa tímida de hace tres años. Te da la mano largo rato, emocionado, y no sabe qué decir. Videl entra detrás. Te mira de arriba abajo, cruza los brazos y sonríe con media boca, igual que su padre cuando posa para las cámaras. Durante la cena casi no come, lo que en esa familia es raro, y Milk la mira de reojo con cara de estar sumando dos más dos. Antes de irse, en la puerta, Videl te dice que después del cumpleaños de Bulma te va a pedir la revancha, y que esta vez no te vas a reír.
-
-El sábado amanece claro.
-
-Milk viste a Goku con un traje y una corbata que no sabe atarse, a Goten con una camisa blanca que ya tiene una mancha de mermelada, y a ti te mira el sobretodo negro con desconfianza y decide que no tiene arreglo. Van volando. Goku adelante, con la corbata flameando; Milk en una nube voladora; Goten haciendo piruetas; tú detrás, con Kase en el hombro, mostrando apenas ese hilo de ki que no llega ni al de Krilin.
-
-Capsule Corporation está irreconocible. El jardín enorme de la cúpula blanca está lleno de mesas con manteles, globos, carpas, guirnaldas de colores, un escenario con un micrófono y un letrero gigante que dice FELIZ CUMPLEAÑOS, BULMA. Hay comida por todas partes, montañas de comida, y gente: Krilin y Número 18 con Marron de la mano, el maestro Roshi mirando a las chicas del servicio, Oolong, Puar, Yamcha, Ten Shin Han y Chaos, Mr. Satán firmando autógrafos, Buu comiéndose una mesa entera de postres con Bee a sus pies. Trunks, del tamaño de Goten, que corre hacia él en cuanto lo ve aterrizar. Piccolo, de brazos cruzados, lejos de todo, debajo de un árbol.
-
-Y en el medio del jardín, con un vestido rojo, el pelo turquesa corto y una copa en la mano, la dueña de la fiesta.
-
-Bulma ve aterrizar a Goku y levanta la copa.
-
-—¡Goku! ¡Viniste! ¡Milk dijo que te había amenazado, pero no le creí! —Después te ve a ti. Te mira de arriba abajo: el pelo blanco y azul, los ojos, la cicatriz, el gato en el hombro. Levanta una ceja—. Vaya, vaya. ¿Y este muchacho tan apuesto quién es?
-
-Pero antes de que nadie conteste, alguien aparece detrás de Bulma. Bajo, de pelo negro en punta, con una camisa rosada que claramente no eligió él, los brazos cruzados y el ceño fruncido.
-
-Vegeta te mira. Te reconoce enseguida. Y frunce más el ceño. Te está midiendo el ki, y lo que encuentra no lo convence.
-
-—Tú —dice, con desprecio—. El del gato. —Entrecierra los ojos—. ¿Qué clase de truco es ese, insecto? Hace tres años me pusiste contra el suelo. Y ahora tienes menos ki que Krilin.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1511 · DRAGON BALL · SÁBADO · 12:00    ║
-║ Capsule Corporation · jardín (fiesta)        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
-║ hoy)                                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1512)
+## COMANDO 1 (T1512)
 
 es un secreto( el cumple de bulma no era en el crucero?)
 
-## RESPUESTA 2 (T1512)
+## RESPUESTA 1 (T1512)
 
 > es un secreto( el cumple de bulma no era en el crucero?)
 
@@ -147,11 +86,11 @@ Tenías razón: en el anime de Super la fiesta es en un crucero (en la película
 
 ---
 
-## COMANDO 3 (T1513)
+## COMANDO 2 (T1513)
 
 mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
 
-## RESPUESTA 3 (T1513)
+## RESPUESTA 2 (T1513)
 
 > mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
 
@@ -202,4 +141,77 @@ Revisé las cuatro ramas del repo y en canon/dragonball/ solo hay hasta el final
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:06, crucero. Bulma conoció a Facundo. Goten (con Trunks incrédulo) pide mostrar la Bola Giratoria ahora. Facundo puede responder.
+## COMANDO 3 (T1514)
+
+esta bien goten
+
+## RESPUESTA 3 (T1514)
+
+> esta bien goten
+
+> —Está bien, Goten.
+
+Goten no espera ni medio segundo.
+
+Agarra a Trunks de la manga y lo arrastra hasta la baranda de la cubierta, del lado del mar, lejos de las mesas. Trunks va de mala gana, con los brazos cruzados, poniendo los ojos en blanco. Kase te salta del hombro a la baranda para ver mejor.
+
+Goten se para frente al mar. Respira hondo. Estira el brazo derecho con la palma hacia arriba. Y con la otra mano, por encima, sin tocarla, como le enseñaste, empieza a mover el ki.
+
+En la palma aparece una lucecita amarilla. Chiquita. Una chispa.
+
+Trunks resopla.
+
+—Eso es una bola de ki. Yo hago bolas de ki desde los cuatro años.
+
+—¡Espera!
+
+La chispa empieza a girar. Primero despacio. Después más rápido. Después en todas las direcciones a la vez, hasta que ya no es una bola quieta sino un remolino de luz amarilla del tamaño de una naranja, que zumba en la palma de Goten como un enjambre de abejas furiosas y le despeina el pelo con el viento que levanta.
+
+Trunks descruza los brazos.
+
+—¿Qué...?
+
+—¡LA BOLA GIRATORIA GOTEN! —grita Goten.
+
+Y la tira al mar.
+
+La bola toca el agua a veinte metros del barco y no explota: se hunde, girando, abriendo un agujero en el mar. Un segundo de silencio. Y después el agua sale disparada hacia arriba en una columna enorme, retorcida, que sube veinte, treinta metros, girando como un tornado, antes de deshacerse en una lluvia salada que cae sobre la cubierta entera.
+
+Sobre las mesas. Sobre los invitados. Sobre la torta de cumpleaños de Bulma, que tiene cinco pisos.
+
+En la cubierta se hace un silencio total.
+
+Trunks está con la boca abierta y el pelo lila empapado. Goten, empapado también, salta con los brazos en alto, riéndose como un loco.
+
+—¡¿VISTE?! ¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!
+
+Desde las mesas, varias cabezas se dan vuelta al mismo tiempo. Gohan, con los anteojos mojados, se los saca y se queda mirando el agua. Krilin deja de comer. Piccolo, en la proa, abre un ojo. Goku se ríe a carcajadas, con la boca llena.
+
+Vegeta, en la baranda de enfrente, mojado de pies a cabeza, no se ríe. Mira el agujero que todavía gira en el mar. Mira a Goten. Te mira a ti. Entrecierra los ojos.
+
+—¡GOTEN! —chilla Milk.
+
+—¡MI TORTAAAA! —chilla Bulma.
+
+Trunks se da vuelta hacia ti, chorreando agua, con los ojos enormes. Ya no tiene cara de chico listo. Tiene cara de chico que acaba de ver algo que quiere.
+
+—Tú le enseñaste eso. —No es una pregunta—. ¡Enséñame a mí también! ¡Ahora! ¡Mejor que a él!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1514 · DRAGON BALL · SÁBADO · 12:10    ║
+║ Crucero de Bulma · baranda de la cubierta    ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mojado e indignado      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
+║ hoy)                                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:10, crucero. Goten mostró la Bola Giratoria (tromba, torta mojada). Vegeta sospecha de Facundo. Trunks: "¡Enséñame a mí también! ¡Mejor que a él!" Facundo puede responder.

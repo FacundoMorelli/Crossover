@@ -17,3 +17,4 @@ DIÁLOGOS CLAVE:
 - T257: "¿Quién eres? ¿Dónde está Dabura?"
 QUÉ SABE DE FACUNDO: nada (fue petrificado antes de que llegara).
 ESTADO: libre, de carne (T257).
+- T1514 · En la proa, abre un ojo al ver la técnica de Goten.

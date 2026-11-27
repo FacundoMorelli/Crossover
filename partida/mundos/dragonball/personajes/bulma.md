@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: probablemente rumores por Vegeta/Trunks/Goku de hace tres 
 ESTADO: activa
 - T1512 · Frena a Vegeta: "Cumpleaños. Mío. Hoy no se pelea nadie... Hoy bailas conmigo." Se presenta y le tiende la mano: "Bulma. La dueña de todo esto. Y tú eres el famoso amigo que viene a comer. Que, por lo visto, es un secreto."
 - T1513 · Por Facundo: se llama Facundo Morelli. No se conocían; lo vio en la tele (torneo, con Buu y el gato). Vegeta nunca le contó qué pasó ("trucos"). "Goku, que no sabe guardar un secreto ni aunque le paguen, ahora resulta que sí sabe." "Algún día me vas a contar de dónde sacaste ese pelo."
+- T1514 · "¡MI TORTAAAA!" (torta de cinco pisos empapada de agua de mar).

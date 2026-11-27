@@ -21,3 +21,4 @@ DIÁLOGOS CLAVE:
 - T257: "¿Eh? ¿Eh? ¡¿Qué pasó?! ¡¿Dónde están todos?!" / "¡Ay, mi tobillo!"
 QUÉ SABE DE FACUNDO: (T258) se llama Facundo; mató a Dabura y a Babidi; domó a Buu y destruyó su parte mala (él se lo contó). Lo vio en Forma Cenit.
 ESTADO: libre, de carne (T257); tobillo dolorido (la grieta).
+- T1514 · Deja de comer al ver la tromba.

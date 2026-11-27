@@ -97,3 +97,4 @@
 - Bulma · T1512 · Por Goku: Facundo es "un amigo que viene a comer" (y es un secreto).
 - Bulma · T1513 · Por Facundo: su nombre, Facundo Morelli. Por la TV (T184): el del torneo con Buu y el gato.
 - Trunks · T1513 · Por Goten: Facundo le enseñó una técnica. Siente su ki muy bajo.
+- Todos los invitados del crucero · T1514 · Ven la Bola Giratoria de Goten (técnica nueva). Trunks deduce que se la enseñó Facundo (por Goten); Vegeta lo sospecha.
