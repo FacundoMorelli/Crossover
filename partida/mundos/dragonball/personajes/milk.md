@@ -35,3 +35,4 @@ ESTADO: bien.
 - T1532 · Defiende a Facundo: "¡Es un buen muchacho! Me aró los dos campos antes del mediodía. Y come todo lo que le sirvo. Aunque no lee." Abraza llorando a Gohan y Videl.
 - T1533 · Le llena el plato a Facundo cada vez que lo deja.
 - T1535 · Despierta a Goku tirándole de la oreja. Ve a Bulma invitar a Facundo a dormir; frunce el ceño (territorial).
+- T1536 · "Pero mañana a la noche viene a cenar a casa. Los desayunos de tu cocina son todo comida de cápsula." Discute con Bulma (robot chef) y se abrazan. A Facundo: "Mañana a la noche. Y si Vegeta te lastima, me avisas."

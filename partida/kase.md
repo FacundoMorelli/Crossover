@@ -125,3 +125,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1531 · Dragon Ball · A "Adiós, Kase" de Bills, le hace un parpadeo lento (aceptación). Bills sonríe.
 - T1533 · Duerme en el regazo de Facundo en el crucero, ronroneando; nadie lo molesta, ni Goten.
 - T1534 · Mira con muchísimo interés la panza de Videl (embarazada de Pan), como si oyera algo.
+- T1536 · Capsule Corp: mira con desprecio a los gatos negros de la casa. Come el pescado del cuarto y se echa en el medio de la cama redonda.

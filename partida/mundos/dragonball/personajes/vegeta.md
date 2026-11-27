@@ -104,3 +104,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1529 · "¡Va a tirarla! ¡Ese loco va a tirarla contra la Tierra!"
 - T1532 · Al pasar, en voz baja: "Mañana. A las seis. En mi cámara de gravedad. Viajero."
 - T1533 · Baila con Bulma, rojo, mirando el piso.
+- T1536 · (De noche) entrena en la cámara de gravedad de un hangar de Capsule Corp.

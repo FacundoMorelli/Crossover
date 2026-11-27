@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1533)
-
-disfruto la fiesta
-
-## RESPUESTA 1 (T1533)
-
-> disfruto la fiesta
-
-Disfrutas la fiesta.
-
-La tarde se estira como se estiran las tardes buenas. Prenden las velas de la torta de cinco pisos y Bulma las sopla de una sola vez, con todos cantando desafinados, Goku el más fuerte de todos. Le dejan a Buu la primera porción, por las dudas. Mr. Satán da un discurso de veinte minutos sobre cómo él, personalmente, convenció al gato violeta de no destruir el mundo, y la mitad de la cubierta lo aplaude para que termine.
-
-Comes. Mucho. Milk te va llenando el plato cada vez que lo dejas en la mesa, sin preguntar. Krilin te cuenta, con Marron dormida en los brazos, que es policía y que una vez detuvo a un ladrón de bancos con una sola mano, y la 18 levanta una ceja y dice que fueron las dos. Ten Shin Han te pregunta, muy serio, si eres del tipo de persona que se esconde para entrenar o para no pelear, y Chaos te regala un caramelo. El maestro Roshi te pregunta si tienes hermanas. Oolong te pregunta lo mismo.
-
-En algún momento Bulma saca a bailar a Vegeta a la fuerza, delante de todos, y Vegeta baila con la cara roja y los ojos clavados en el piso, como un condenado. Bulma se ríe tanto que se le cae un zapato.
-
-Goten y Trunks se pasan la tarde peleando arriba del agua, a puro grito, Trunks intentando hacer la Bola Giratoria sin que nadie le haya enseñado y explotándosela en la cara una y otra vez. Goten se ríe tanto que se cae al mar. Gohan lo pesca de la camisa.
-
-Gohan no se despega de Videl. Le trae agua, le acomoda la silla, le pregunta si quiere sentarse cuando ya está sentada. Videl le pega en el brazo. Después le agarra la mano y no se la suelta en toda la tarde.
-
-Goku se queda dormido en una reposera a eso de las cinco, con la boca abierta, todavía con el traje quemado, y lo dejan ahí.
-
-Kase pasa la tarde en la baranda, después en una silla, después en tu regazo, cuando te sientas a mirar el mar. Se duerme ahí, hecho una bola, ronroneando bajito, sin que nadie se atreva a molestarlo. Ni siquiera Goten.
-
-El sol empieza a bajar sobre el agua. El mar se pone naranja, después rosa. El crucero da la vuelta, despacio, y empieza a volver hacia la costa, donde las luces de la Ciudad del Oeste se van prendiendo una por una.
-
-Alguien se sienta en la silla de al lado.
-
-Es Videl. Con un vaso de jugo en la mano y la otra apoyada en la panza, sin esconderla ya. Mira el atardecer un rato, en silencio. Mira a Kase dormido en tu regazo.
-
-—Te dije que después del cumpleaños te iba a pedir la revancha —dice, sin mirarte—. Y que esta vez no te ibas a reír.
-
-Se toca la panza. Sonríe con media boca, igual que su padre.
-
-—Creo que la revancha va a tener que esperar un poco. —Te mira de reojo—. Pero no te salvas, eh. Ni tú, ni tu gato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1533 · DRAGON BALL · SÁBADO · 18:40    ║
-║ Crucero de Bulma · cubierta, atardecer       ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en tu regazo                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Mañana 6:00 entrenar con Vegeta    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1534)
+## COMANDO 1 (T1534)
 
 esta bien video, y felicidades
 
-## RESPUESTA 2 (T1534)
+## RESPUESTA 1 (T1534)
 
 > esta bien video, y felicidades
 
@@ -109,11 +57,11 @@ Escribiste "video" y lo tomé como Videl.
 
 ---
 
-## COMANDO 3 (T1535)
+## COMANDO 2 (T1535)
 
 si, voy a intentar estar
 
-## RESPUESTA 3 (T1535)
+## RESPUESTA 2 (T1535)
 
 > si, voy a intentar estar
 
@@ -157,4 +105,63 @@ Detrás, en el muelle, Milk se da vuelta y te mira. Mira a Bulma. Frunce el ceñ
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 19:30, muelle de la Ciudad del Oeste. Bulma invita a Facundo a dormir en Capsule Corp (mañana 6:00, Vegeta). Milk frunce el ceño. Facundo puede responder.
+## COMANDO 3 (T1536)
+
+esta bien
+
+## RESPUESTA 3 (T1536)
+
+> esta bien
+
+> —Está bien.
+
+—¡Perfecto! —Bulma aplaude, con los zapatos en la mano.
+
+Milk se acerca por el muelle a paso rápido, con Goten dormido colgando del hombro de Goku detrás de ella.
+
+—¿Se queda en Capsule Corp? —Mira a Bulma, después a ti—. Bueno. —Se cruza de brazos—. Pero mañana a la noche viene a cenar a casa. Los desayunos de tu cocina son todo comida de cápsula, Bulma, y el muchacho necesita comer de verdad.
+
+—¡Mi cocina tiene un chef!
+
+—Un robot.
+
+—¡Un robot chef!
+
+Se quedan mirándose. Después las dos se ríen, al mismo tiempo, y se dan un abrazo de esos que solo se dan las amigas de toda la vida. Milk te pone un dedo en el pecho antes de irse.
+
+—Mañana a la noche. Y si Vegeta te lastima, me avisas.
+
+Goku te saluda con la mano libre, con Goten dormido en el otro hombro, y se van volando hacia el Monte Paoz, Milk en la nube voladora, una figura con el traje quemado, un chico dormido y una mujer que sigue retándolo en el aire.
+
+Capsule Corporation, de noche, es una cúpula blanca enorme llena de luces en medio de la Ciudad del Oeste, rodeada de jardines y de hangares. Adentro todo es grande, curvo y lleno de cosas raras: robots que barren solos, un dinosaurio chiquito que pasea por el pasillo, gatos negros que te miran desde los sillones. Kase los mira desde tu hombro con un desprecio profundo.
+
+La madre de Bulma te recibe en la puerta con una bandeja de pasteles, una sonrisa enorme y los ojos cerrados, y te dice que eres muy apuesto. Dos veces. El padre de Bulma, bajito, con un cigarrillo y un gato negro en el hombro, te mira, mira a Kase y dice "lindo gato", y se va.
+
+Bulma te deja en un cuarto del tercer piso. Es más grande que la casa entera de los Son. Una cama redonda, una ventana enorme sobre la ciudad iluminada, un baño con más botones que una nave espacial y, en la mesa de luz, un plato con pescado fresco que alguien trajo en los últimos cinco minutos.
+
+—Desayuno a las cinco y media —dice Bulma desde la puerta—. Vegeta se levanta a las cinco. No llegues tarde, viajero. —Se ríe—. Buenas noches.
+
+Cierra la puerta.
+
+El cuarto se queda en silencio. Por la ventana se ven las luces de la Ciudad del Oeste, las calles, los autos voladores que pasan lejos. Abajo, en el jardín, en uno de los hangares, hay una luz encendida y se oye un zumbido grave, constante, como un motor enorme. Alguien entrena. A esta hora.
+
+Kase baja de tu hombro, va derecho al plato de pescado, lo olfatea y empieza a comer. Después se sube a la cama redonda y se echa justo en el medio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1536 · DRAGON BALL · SÁBADO · 21:30    ║
+║ Capsule Corporation · cuarto del 3.er piso   ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el medio de la cama redonda         ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Mañana 6:00 entrenar con Vegeta ·  ║
+║ cena en casa de Milk                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 21:30, cuarto en Capsule Corp. Facundo y Kase solos; mañana 5:30 desayuno y 6:00 Vegeta; a la noche cena con Milk. Vegeta entrena de noche en un hangar. Facundo puede actuar.

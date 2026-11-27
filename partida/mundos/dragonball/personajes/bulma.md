@@ -21,3 +21,4 @@ ESTADO: activa
 - T1532 · "Un viajero. Está bien, viajero. Guárdate tus secretos. Ya tengo demasiados con este. Salvaste mi fiesta, mi planeta y mi torta. Con eso me alcanza. Por hoy." Reanuda la fiesta: "¡Y alguien prenda las velas antes de que aparezca otro dios!"
 - T1533 · Sopla las velas de una vez. Saca a bailar a Vegeta a la fuerza; se ríe tanto que se le cae un zapato.
 - T1535 · En el muelle, descalza: sabe de la cita de las seis con Vegeta. "Monte Paoz queda a dos horas volando de Capsule Corp. Y Vegeta no perdona ni un minuto de atraso. Quédate a dormir en casa esta noche. Hay como cuarenta cuartos vacíos." "Si te quedas, mañana en el desayuno a lo mejor me cuentas algo. Aunque sea un secreto chiquito."
+- T1536 · Lo instala en un cuarto del tercer piso de Capsule Corp (cama redonda, pescado para Kase). "Desayuno a las cinco y media. Vegeta se levanta a las cinco. No llegues tarde, viajero. Buenas noches."
