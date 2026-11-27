@@ -1,8 +1,8 @@
 {
-  "turno": 1506,
+  "turno": 1507,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año ~777/778 (R14: Bills en el cumpleaños de Bulma, el sábado, en 3 días)",
-  "hora": "año ~777, día 2, 10:15",
+  "hora": "año ~777, día 2, 10:17",
   "edad": 18,
   "nivel": 30,
   "exp": 337130,
@@ -2658,5 +2658,6 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  }
+  },
+  "forma_activa": "Forma Cenit (x10, 45 min) desde T1507 10:17"
 }

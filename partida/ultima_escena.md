@@ -3,54 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1504)
-
-esta bien goten algo se me va a ocurrir para enseñarte
-
-## RESPUESTA 1 (T1504)
-
-> esta bien goten algo se me va a ocurrir para enseñarte
-
-> —Está bien, Goten. Algo se me va a ocurrir para enseñarte.
-
-Goten te suelta de golpe y da un salto en el lugar, tan alto que casi toca el techo con la cabeza.
-
-—¡SÍ! ¡SÍ, SÍ, SÍ! —Aterriza—. ¡Y no le digas a Trunks! ¡Que sea sorpresa! ¡En el cumpleaños de su mamá se la muestro y se va a caer de espaldas!
-
-—¡GOTEN! ¡LOS PANTALONES!
-
-—¡YA VOY!
-
-Sale corriendo del cuarto. Se le oye en el pasillo, resbalando con los pies mojados en el piso de madera, chocando con algo, pidiendo perdón a algo, y después la voz de Milk retándolo en la cocina.
-
-Kase se levanta del piso, se estira despacio, primero las patas de adelante, después las de atrás, y te mira con los ojos rojo y azul. Después mira la pared de los cuarenta y dos dibujos que quedan, con el hueco del que falta en el medio. Se acerca al hueco. Lo olfatea.
-
-Por la ventana del cuarto entra la luz de la tarde, amarilla, tibia. Se ven las montañas en punta, el campo norte sin arar, el de abajo, el arroyo brillando entre los árboles. En el patio, Goku, con la camiseta todavía al revés, se quedó dormido en la hamaca de la foto, con la boca abierta, roncando.
-
-La casa se queda en silencio. Solo se oye a Milk en la cocina, la olla, el arroyo, los ronquidos de Goku y, cada tanto, la voz de Goten que repite tablas de multiplicar de mala gana.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1504 · DRAGON BALL · AÑO 777 · 13:12   ║
-║ Monte Paoz · cuarto de Goten                 ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · Palmas vendadas   ║
-║ Velo: persona común                          ║
-║ Kase: olfateando el hueco del dibujo         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Arar mañana a las 6 · enseñarle    ║
-║ algo a Goten · fiesta de Bulma el sábado     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1505)
+## COMANDO 1 (T1505)
 
 simula hasta que terminemos de trabajar
 
-## RESPUESTA 2 (T1505)
+## RESPUESTA 1 (T1505)
 
 > simula hasta que terminemos de trabajar
 
@@ -109,11 +66,11 @@ Goku tira el sombrero de granjero al aire. No le cae a nadie en la cara esta vez
 
 ---
 
-## COMANDO 3 (T1506)
+## COMANDO 2 (T1506)
 
 vayamos
 
-## RESPUESTA 3 (T1506)
+## RESPUESTA 2 (T1506)
 
 > vayamos
 
@@ -164,4 +121,63 @@ Levanta un dedo.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, día 2, 10:15, páramo de entrenamiento. Goku pide ver otra vez la Forma Cenit "hasta dónde llega". Facundo puede decidir.
+## COMANDO 3 (T1507)
+
+me transformó en mi transformación
+
+## RESPUESTA 3 (T1507)
+
+> me transformó en mi transformación
+
+Cierras los ojos.
+
+No gritas. No hace falta. El ki sube desde algún lugar muy hondo, despacio al principio, como el agua que llena un pozo, y después de golpe.
+
+El pelo se te levanta. Blanco y azul, brillante, erguido, como si alguien te hubiera prendido fuego desde abajo. Alrededor del cuerpo te estalla un aura de llamas blancas y azules, que no queman pero rugen, altas, retorcidas, del doble de tu altura. Cuando abres los ojos, el rojo y el azul brillan como brasas en la cara.
+
+Forma Cenit.
+
+La meseta no aguanta.
+
+El suelo bajo tus botas se hunde un palmo y se agrieta en una estrella de líneas que corren hasta los bordes. Las piedras sueltas del páramo, todas, en todo lo que alcanza la vista, se levantan del suelo y se quedan flotando a la altura de las rodillas, temblando. El polvo sube en espiral alrededor de ti y forma un remolino que llega hasta el cielo. Una meseta vecina, más chica, se parte en dos por el medio y la mitad se desliza, despacio, con un ruido de trueno largo, hasta el fondo del cañón.
+
+El viento se va. No sopla más. Como si el aire no se animara a moverse cerca tuyo.
+
+Kase, en el borde de la meseta, ni se inmuta. Las llamas blancas y azules le iluminan el pelo largo de dos colores, igual al tuyo. Bosteza.
+
+Goku no se mueve.
+
+Está a diez pasos, con las manos todavía en la cintura y la boca abierta. Las piedras flotan alrededor de él también. El pelo negro se le mueve hacia atrás, aunque no haya viento. Te mira de arriba abajo, despacio, como no miró nunca a nadie.
+
+—No te siento —dice, muy bajo—. Sigo sin sentirte nada. Ni un poco. —Se ríe, nervioso, sin sonido—. Pero lo veo. El suelo, las piedras... la montaña esa se cayó sola.
+
+Traga saliva. Aprieta los puños.
+
+Y se le arma la sonrisa. No la de chico. Otra. La que pone cuando encuentra algo más alto que él.
+
+—Esto es más que hace tres años —dice—. Mucho más. —Se pone en guardia, piernas abiertas, puños adelante—. ¡Ja! ¡Me tiemblan las piernas! ¡Hace años que no me temblaban las piernas!
+
+Grita. Se transforma de una vez, sin pasos: Super Saiyajin 3, el pelo dorado hasta la cintura, el aura en llamas.
+
+Al lado de la tuya, parece una vela al lado de una fogata.
+
+—¡Vamos! —grita—. ¡No te contengas tanto esta vez! ¡Solo un poquito menos!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1507 · DRAGON BALL · AÑO 777 · 10:17   ║
+║ Páramo de entrenamiento · meseta             ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ FORMA CENIT (x10 · 45 min)                   ║
+║ Velo: persona común (el ki no se siente)     ║
+║ Kase: en el borde de la meseta, bostezando   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Goku                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, día 2, 10:17, páramo. Facundo en Forma Cenit (x10, 45 min). Goku en SSJ3, en guardia: "¡No te contengas tanto esta vez! ¡Solo un poquito menos!" Facundo puede actuar.

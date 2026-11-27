@@ -83,3 +83,5 @@
 - Goten · T1503 · Ve a Facundo hacer desaparecer el dibujo con las manos (inventario dimensional): lo entiende como "guardado donde no se pierde".
 - Goten · T1504 · Por Facundo: le va a enseñar algo (secreto para Trunks).
 - Milk, Goku · T1505 · Ven a Facundo levantar todas las piedras del campo a la vez sin tocarlas (la Luna) y el tronco con una mano.
+- Goku · T1507 · Ve la Forma Cenit de Facundo otra vez, a pleno (x10): mucho más que en 774. Sigue sin sentirle el ki (Velo); ve los efectos físicos.
+- Dende, Mr. Popo (desde el templo, probable) · T1507 · Pueden ver el temblor del páramo; no sienten el ki de Facundo.

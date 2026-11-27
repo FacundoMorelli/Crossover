@@ -1505,3 +1505,4 @@ T1503 · DRAGON BALL · Cuarto de Goten · Guarda el dibujo en el inventario. Ab
 T1504 · DRAGON BALL · Cuarto de Goten · Promete enseñarle algo a Goten (sorpresa para Trunks en la fiesta). Tarde tranquila; Goku duerme en la hamaca.
 T1505 · DRAGON BALL · Monte Paoz · SIMULACIÓN: cena y noche en la casita. Aran los dos campos con ki y la Luna antes de las 10. Milk: "Mejor que nunca." Entrenan lejos. Goku: "¡Tenemos todo el día!"
 T1506 · DRAGON BALL · Páramo de entrenamiento · Vuelan al páramo. Goku pide ver otra vez la Forma Cenit: "Quiero ver hasta dónde llega."
+T1507 · DRAGON BALL · Páramo · Forma Cenit (x10): el páramo tiembla, una meseta cae. Goku: "No te siento, pero lo veo." Pasa a SSJ3: "¡No te contengas tanto esta vez!"
