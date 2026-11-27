@@ -3,79 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1613)
-
-le doy las cosas, simula unos dias
-
-## RESPUESTA 1 (T1613)
-
-> le doy las cosas, simula unos dias
-
-Levantas la mano una última vez.
-
-[Compra: 105 hamburguesas dobles con queso y papas fritas · 105 Fragmentos.]
-
-[Compra: 105 malteadas de chocolate grandes · 105 Fragmentos.]
-
-Las bandejas salen de la nada y llenan media explanada, en filas, humeando. Bills las mira con la boca abierta y los ojos brillantes, como un chico frente a una vidriera. Agarra la primera antes de que termine de aparecer la última.
-
-Whis suspira, levanta el báculo y, con un solo golpecito, las otras ciento cuatro desaparecen adentro de la bola de cristal de la punta. Bills lo mira con desconfianza.
-
-—Están ahí adentro, Bills-sama. Calentitas. Una por día.
-
-—Dos.
-
-—Una.
-
-La discusión dura los siguientes cuatro días.
-
-Pasan rápido.
-
-Al rato de la entrega, la fusión se te apaga sola, como estaba previsto. El plateado y las llamas se van de golpe, y el cansancio te cae encima como una ola: las piernas flojas y un sueño pesado. Duermes casi toda esa tarde en el cuarto de la pirámide, con Kase encima del pecho. A la mañana siguiente ya estás entero otra vez.
-
-Los días en el planeta de Bills tienen su ritmo.
-
-Bills duerme hasta tarde. Se despierta, come su hamburguesa del día, discute con Whis por la segunda, pierde, se enoja, y después se pasa horas parado en el medio de la explanada con los ojos cerrados, "investigando". A veces se queda tan quieto que los pájaros se le paran en las orejas. Una tarde esquiva una piedra que Goku le tira por la espalda sin abrir los ojos, y se pone tan contento que se olvida de destruir a Goku por tirársela.
-
-Goku entrena con Whis desde que sale el sol hasta que se pone. El azul le dura cada vez más. Whis le pega con el báculo en la frente cada vez que piensa demasiado, que es casi siempre.
-
-Vegeta no entrena con Whis. Entrena solo, en una roca flotante lejos de todos, y le pide a Bills, todas las mañanas, después de la hamburguesa, que pelee con él cinco minutos. Bills le dice que no tres días seguidos. Al cuarto le dice que sí, para callarlo, y lo deja tirado en el pasto con un solo golpe. Vegeta se levanta escupiendo sangre y sonriendo de una manera que Goku dice que le da miedo.
-
-Kase se adueña de la silla de playa de Whis. Whis trae otra.
-
-El cuarto día, a media tarde, Whis te encuentra al borde del jardín, mirando las rocas flotantes con Kase en el hombro. Trae el báculo apoyado en el hombro y la libretita en la otra mano. En la bola de cristal de la punta del báculo se ve, chiquita, borrosa, la cara de Bulma, que habla rápido y señala algo fuera de cuadro.
-
-—Facundo-san. —Whis sonríe, como siempre—. Llamó Bulma-san. Dice que Milk-san está muy enojada con Goku-san, porque se fue "un ratito" hace cinco días. Y que Vegeta-san le había prometido a Trunks-kun llevarlo al parque de diversiones el sábado, que es mañana.
-
-Detrás, a lo lejos, Goku se queda congelado en medio de un golpe. Vegeta, en su roca, cierra los ojos y se lleva una mano a la cara.
-
-—Así que mañana los llevo de vuelta a la Tierra. —Whis inclina la cabeza—. Bills-sama dice que él también viene. Por el pudín de Bulma-san, por supuesto. No por nada más.
-
-Te mira con la cabeza ladeada, esperando.
-
-—¿Viene con nosotros, Facundo-san? ¿O se queda un tiempo más aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1613 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde del jardín · tarde (4 días después)    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.851 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien · cortes curados   ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1614)
+## COMANDO 1 (T1614)
 
 voy con ustedes
 
-## RESPUESTA 2 (T1614)
+## RESPUESTA 1 (T1614)
 
 > voy con ustedes
 
@@ -148,11 +80,11 @@ Milk, a mitad de su regaño, se da vuelta también. Te ve. Baja el cucharón des
 
 ---
 
-## COMANDO 3 (T1615)
+## COMANDO 2 (T1615)
 
 miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
 
-## RESPUESTA 3 (T1615)
+## RESPUESTA 2 (T1615)
 
 > miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
 
@@ -231,4 +163,65 @@ Bulma te agarra del brazo, entusiasmada.
 
 ---
 
-ESTADO AL CIERRE: Bulma propone a Erasa y Milk a Angela. Bulma, con el celular: "¿Quieres que la invite? Hoy a la noche hacemos una cena acá. Casual." Facundo puede contestar.
+## COMANDO 3 (T1616)
+
+ehh bueno esta bien
+
+## RESPUESTA 3 (T1616)
+
+> ehh bueno esta bien
+
+> —Eh... bueno, está bien.
+
+—¡Sí! —Bulma salta en el lugar, con el celular en la mano, como si hubiera ganado algo.
+
+Ya está marcando. Se aleja dos pasos y se pone el teléfono en la oreja, con la otra mano en la cintura.
+
+—¿Videl? ¡Hola, querida! Sí, sí, todo bien. ¿Cómo va la pancita? ¿Ya patea? Ay, qué lindo... Oye, te llamo por otra cosa. ¿Todavía tienes el número de Erasa? —Pausa—. No, no, nada raro. Una cena. Esta noche. Acá en casa. —Te mira de reojo y te guiña un ojo—. Hay un muchacho.
+
+Del otro lado del teléfono se escucha un grito que hasta tú alcanzas a oír desde ahí. Bulma se aleja el aparato de la oreja, riéndose.
+
+—¡Sí, ese! El del gato. —Otra pausa—. No, no le digas nada a Gohan todavía, que es un chismoso... Bueno, sí, díselo, total se va a enterar igual.
+
+Se aleja hacia la casa, hablando rápido, y se pierde detrás de la puerta corrediza.
+
+Milk se queda a tu lado. Te mira de arriba abajo, con el cucharón apoyado en la cadera, evaluando.
+
+—Bueno. Si va a haber cena, voy a cocinar yo. —Lo dice como quien anuncia una guerra—. Bulma pide todo a domicilio y la comida a domicilio no conquista a nadie. Una muchacha de verdad se conquista con comida casera.
+
+—¡¿Va a haber comida?! —Goku asoma la cabeza por detrás de Whis, aunque Whis ya no está ahí: se fue adentro con Bills—. ¡Milk, yo te ayudo! ¡Yo pruebo todo!
+
+—Tú no vas a probar nada hasta la noche, que te comes la mitad antes de servir.
+
+—Pero Milk...
+
+—Y vas a ir a buscar a Goten a la casa, que hace cinco días que no ve a su papá.
+
+—Ah, sí, eso es cierto.
+
+Milk le da la espalda, satisfecha, y vuelve a mirarte. Ahora te mira la ropa: el sobretodo negro, los borceguíes, los aros, los tatuajes de dragones asomando por el cuello de la camisa. Arruga la nariz, pensativa.
+
+—Muchacho, te lo digo con cariño. —Te señala el sobretodo con el cucharón—. ¿Vas a ir así a conocer a una chica? Pareces uno de esos de las motos.
+
+Desde adentro de la casa, se escucha la voz de Bulma, todavía al teléfono:
+
+—¡Erasa dice que sí! ¡A las ocho!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1616 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mañana                                       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.851 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa aceptó la cena hoy a las 20:00. Milk cocinará y critica la ropa de Facundo ("Pareces uno de esos de las motos"). Facundo puede actuar.

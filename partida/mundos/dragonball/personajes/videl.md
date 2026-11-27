@@ -30,3 +30,4 @@ DIÁLOGOS CLAVE:
 - T1535 · Facundo: "Voy a intentar estar." Aprieta la mano de Gohan.
 - T1547 · Cena en el Monte Paoz; no come pescado (asco de embarazo).
 - T1548 · Levanta el puño con media sonrisa al despedirse.
+- T1616 · Por teléfono con Bulma: grita al saber que hay "un muchacho, el del gato" para Erasa. Le pasa el número. (Embarazada de Pan.)
