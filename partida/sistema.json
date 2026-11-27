@@ -1,5 +1,5 @@
 {
-  "turno": 1588,
+  "turno": 1589,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), tarde en el planeta de Bills",
@@ -7,7 +7,7 @@
   "nivel": 32,
   "exp": 401130,
   "exp_siguiente_nivel": 440000,
-  "fragmentos": 239239,
+  "fragmentos": 239237,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2456,6 +2456,10 @@
         "Eco del Sistema (un doble de Facundo con 50% de sus stats durante 1 hora; un uso)": 3000,
         "Llamado de Kase (Kase aparece en tu hombro cuando lo llames, en el mismo mundo)": 500,
         "Restauración (devuelve a la normalidad a alguien petrificado, sellado o maldito, si sigue vivo; un uso)": 6000
+      },
+      "cosas_comunes": {
+        "hamburguesa doble con queso y papas fritas": "1 Fragmento (fijado T1589)",
+        "malteada de chocolate grande": "1 Fragmento (fijado T1589)"
       }
     },
     "cosas_comunes": {

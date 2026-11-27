@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1586)
-
-esta bien
-
-## RESPUESTA 1 (T1586)
-
-> esta bien
-
-> —Está bien.
-
-—Bien.
-
-Bills no espera más.
-
-Esta vez no desaparece: arranca. El suelo, debajo de sus pies, se hunde un metro en un círculo perfecto, y él ya está encima de ti, de frente, sin esconderse, con el puño derecho cerrado. Y el puño no es solo un puño. Lo recubre una película violeta, finita, la misma luz sin centro del Hakai.
-
-Cruzas los antebrazos.
-
-El golpe te entra en la guardia y la manga izquierda del sobretodo deja de estar. No se rompe ni se quema: un segundo está y al siguiente se deshace en chispas violetas, desde el puño hasta el codo. Tu piel aguanta, pero el impacto te arrastra hacia atrás veinte pasos, con los borceguíes abriendo dos surcos en el suelo.
-
-Bills ya está ahí otra vez.
-
-Ahora pelea distinto. Antes jugaba. Ahora no tiene las manos detrás de la espalda, no bosteza y no se ríe entre golpe y golpe. Cada movimiento es corto y exacto, sin una gota de sobra: un dios que lleva miles de años peleando y que, por primera vez en mucho tiempo, se acuerda de cómo se hace. Los golpes con destrucción vienen mezclados con los normales, y no sabes cuál es cuál hasta que te toca.
-
-Le paras tres. Esquivas dos. El sexto te roza el costado y te deja la camisa abierta y una línea roja en las costillas, fina, que arde frío.
-
-Le entras con la rodilla en el estómago. Bills se dobla, se le escapa el aire por la boca, y sin enderezarse te barre los pies con la cola. Caes de espaldas, ruedas, y donde estaba tu cabeza su talón deja un pozo en el suelo.
-
-Te pones de pie de un salto.
-
-Bills se queda en el pozo, agachado, respirando fuerte. Tiene la mejilla hinchada del primer golpe y el labio partido. Pero te está mirando a la cara, no al cuerpo, y entrecierra los ojos.
-
-—Todavía te contienes. —No es una pregunta—. Te lo veo en la cara. Peleas como el saiyajin del cabello parado peleaba con el príncipe: cuidando que no se rompa.
-
-Afuera, Vegeta aprieta los puños tan fuerte que le crujen los guantes.
-
-Bills sale del pozo, despacio. Se pasa la lengua por el labio partido.
-
-—No me cuides, muchacho del bolsillo. —Las orejas, aplastadas hacia atrás. La cola, quieta y tensa como un alambre—. Si hay algo arriba de ese azul, muéstramelo. Ahora.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1586 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera rehecha) · tarde          ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 65% · Ojos: bien · mejilla abierta · ║
-║ corte fino en las costillas                  ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: en el apoyabrazos de Whis              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1587)
+## COMANDO 1 (T1587)
 
 esta bien, activo el ultra instinto dominado
 
-## RESPUESTA 2 (T1587)
+## RESPUESTA 1 (T1587)
 
 > esta bien, activo el ultra instinto dominado
 
@@ -137,11 +80,11 @@ No hay sonrisa ni enojo en su cara. Solo una cosa que no le habías visto nunca:
 
 ---
 
-## COMANDO 3 (T1588)
+## COMANDO 2 (T1588)
 
 asi esta bien señor bills?
 
-## RESPUESTA 3 (T1588)
+## RESPUESTA 2 (T1588)
 
 > asi esta bien señor bills?
 
@@ -206,4 +149,81 @@ Bills cierra los ojos. Suspira largo, por la nariz. Cuando los abre, ya no te mi
 
 ---
 
-ESTADO AL CIERRE: Bills reconoce: "Así está muy bien." Le suena la panza. "Pelear da hambre. ¿Qué tienes ahí?" Pelea en pausa. Facundo en UI Dominado. Facundo puede actuar.
+## COMANDO 3 (T1589)
+
+le doy comida nueva a bills rico
+
+## RESPUESTA 3 (T1589)
+
+> le doy comida nueva a bills rico
+
+Metes la mano en lo que queda del bolsillo del sobretodo.
+
+El Sistema abre la tienda en el borde de tu vista, fría, sin ruido. Eliges. Pagas.
+
+[Compra: hamburguesa doble con queso y papas fritas · 1 Fragmento.]
+
+[Compra: malteada de chocolate grande · 1 Fragmento.]
+
+Del bolsillo sale una bandeja.
+
+Bills se queda mirando cómo sale. Es demasiado grande para ese bolsillo, y él lo sabe, y ya no le importa.
+
+Encima de la bandeja hay una hamburguesa alta como un puño, de dos pisos, con la carne todavía chisporroteando, el queso derretido chorreando por los bordes y el pan brillante y tostado. Al lado, un montón de papas fritas doradas, crujientes, con sal gruesa. Y un vaso enorme, helado, transpirado, con una malteada de chocolate espesa y un sorbete clavado en el medio.
+
+El olor llega antes que la bandeja. Carne a la parrilla, queso, pan tostado, papas recién fritas.
+
+A Bills le tiembla la nariz. Las orejas se le van solas hacia adelante.
+
+Agarra la bandeja con las dos manos sin decir nada. Se sienta en el suelo de la explanada, ahí mismo, con las piernas cruzadas, el pantalón roto y las costillas doloridas. Mira la hamburguesa un segundo, de costado, como un gato que estudia algo nuevo antes de tocarlo.
+
+Le da un mordisco.
+
+Se queda quieto.
+
+Mastica despacio, con los ojos muy abiertos. Una gota de queso le cae por la barbilla y no la limpia. La cola, que estaba quieta en el suelo, empieza a moverse sola, de un lado al otro, cada vez más rápido.
+
+Agarra una papa. La muerde. Crujido. Agarra tres más.
+
+Prueba el sorbete de la malteada, con desconfianza. Y se le cierran los ojos.
+
+—Oh —dice, con la boca llena—. Oh, no. Oh, no, no, no.
+
+Afuera, Goku tiene la cara pegada a la barrera y la boca abierta. Le cae saliva por la comisura.
+
+—¡Eso es una hamburguesa! —Se da vuelta hacia Vegeta—. ¡Vegeta, es una hamburguesa doble!
+
+—Ya veo lo que es, Kakaroto.
+
+Whis se acerca a la barrera con las manos juntas, la cabeza inclinada, y una sonrisa enorme y educadísima.
+
+—Bills-sama. Por favor. Solo un bocado. Para probar.
+
+—No. —Bills abraza la bandeja contra el pecho, sin abrir los ojos, y sigue sorbiendo la malteada—. Pídele a él.
+
+Kase se baja del apoyabrazos, camina hasta la barrera y se sienta ahí, del lado de afuera, mirando las papas fritas.
+
+Bills termina la hamburguesa. Termina las papas. Sorbe la malteada hasta el fondo, con ese ruido de sorbete en el vaso vacío, y sigue sorbiendo un rato más aunque ya no queda nada. Después se queda mirando el vaso vacío, triste.
+
+Lo baja. Te mira. Tiene queso en la barbilla y una mancha de chocolate en el labio partido.
+
+—Esto. —Señala la bandeja vacía con un dedo—. ¿Cómo se llama esto?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1589 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera rehecha) · tarde          ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.237 · 0 zeni                  ║
+║ Energía 58% · Ojos: bien · mejilla abierta · ║
+║ corte fino en las costillas                  ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: junto a la barrera, mirando las papas  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (en pausa: comida) ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills se comió la hamburguesa doble, las papas y la malteada. "¿Cómo se llama esto?" Whis y Goku quieren. Facundo puede contestar.

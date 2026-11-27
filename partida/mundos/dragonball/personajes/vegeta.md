@@ -149,3 +149,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1585 · Oye que Facundo es de otro mundo; no dice nada.
 - T1586 · Ve la segunda ronda con Bills; cuando Bills dice que Facundo se contiene, aprieta los puños hasta que le crujen los guantes.
 - T1587 · Ve a Facundo en Ultra Instinto Dominado; mira a Goku, al suelo; los puños abiertos, colgando, sin fuerza.
+- T1589 · "Ya veo lo que es, Kakaroto."
