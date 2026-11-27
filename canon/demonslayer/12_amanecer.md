@@ -41,7 +41,7 @@ PELEAS DEL ARCO:
 2. Cazadores vs Tanjiro demonio — calle — Kanao lo cura con el fármaco.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
-- Tanjiro: 13.ª forma de la Respiración del Sol (Hinokami Kagura): las 12 formas encadenadas en ciclo. Formas: Danza, Cielo Claro y Azul, Sol Embaído Cuerpo de Dragón?, Rueda Solar, Halo Dragón Danza de Cabeza, Arco Abrasador, Sol Ardiente/Cadena, Oleaje de Fuego, Danza de Llamas, Llamas Giratorias, Sol Brillante, Bestia Escarlata?, Impacto Solar (ver Dudas en sistema_de_poder).
+- Tanjiro: 13.ª forma de la Respiración del Sol (Hinokami Kagura): las 12 formas encadenadas en ciclo sin pausa (lista de las 12 en sistema_de_poder.md).
 - Espada Roja (Akatō): espada Nichirin calentada con fuerza extrema o chocando espadas; impide la regeneración del demonio.
 - Muzan: 7 corazones, 5 cerebros que cambian de lugar; látigos con púas y bocas; sangre venenosa; bebé gigante protector; convertir con su sangre final.
 - Tanjiro demonio: regeneración instantánea, inmunidad al sol, pico de poder; lo abandona al humanizarse.
