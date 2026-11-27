@@ -140,3 +140,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1573 · Aprieta los dientes cuando Whis cuenta que solo le sacó una gota de sangre a Facundo.
 - T1574 · Callado, mira a Facundo y a la pirámide; aprieta los puños.
 - T1575 · Durante la hora, no se mueve de su roca; mira la espalda de Facundo todo el tiempo.
+- T1576 · Mira a Facundo transformarse en SSJ Blue frente a Bills; brazos cruzados, mandíbula apretada, sin hablar.

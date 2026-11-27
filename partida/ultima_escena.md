@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1573)
-
-si
-
-## RESPUESTA 1 (T1573)
-
-> si
-
-> —Sí.
-
-Bills mira a Goku. A la cara hinchada, al ojo morado, al gi hecho tiras, al puré en las cejas. Mira a Vegeta, en su roca, con el traje roto y un raspón en la frente. Mira la explanada detrás: el cráter, la zanja, la montaña rajada, la otra cortada por la mitad.
-
-Después te mira a ti otra vez. El corte chiquito en la mejilla. Nada más.
-
-—Hm. —Levanta una ceja—. Ellos están peor.
-
-—Mucho peor, Bills-sama —dice Whis, tranquilo, desde la silla de playa, mientras se sirve más té—. Facundo-san peleó con los dos. Por separado. En azul.
-
-Bills se queda quieto.
-
-Las orejas se le paran, despacio, hasta quedar derechas del todo. La cola, que estaba quieta en el suelo, se le mueve una sola vez.
-
-—¿En azul? —Te mira de arriba abajo, con los ojos entrecerrados—. ¿Tú? ¿El de ki de hormiga?
-
-—El suelo que reforcé se hundió dos veces —dice Whis, como quien comenta el clima—. Y Vegeta-san solo le sacó una gota de sangre. Con un Final Flash a un paso.
-
-En su roca, Vegeta aprieta los dientes y mira para otro lado.
-
-—¡Y yo me esquivé solo! —dice Goku, con la boca llena de puré—. ¡Una vez!
-
-Nadie le hace caso.
-
-Bills se queda mirándote un largo rato, sentado en el suelo, con el plato vacío al lado. No dice nada. Se rasca la oreja. Bosteza. Pero ya no tiene sueño: se le nota en los ojos, que se le encendieron, amarillos, curiosos, como los de un gato que acaba de ver moverse algo debajo del sillón.
-
-Se pone de pie. Se sacude la ropa de dormir. Se estira, primero los brazos, después la espalda.
-
-—Bueno. —Te mira de costado, con una sonrisa de gato que se le va armando despacio—. Primero voy a hacer la digestión. Después me voy a bañar. Y después...
-
-Te señala con un dedo.
-
-—Después tú y yo vamos a ver qué tan fuerte es ese azul tuyo, muchacho del bolsillo. —Ladea la cabeza—. ¿Te parece?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1573 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde de la explanada · mediodía             ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · corte en mejilla  ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills quiere pelear (misión del    ║
-║ Hakai)                                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1574)
+## COMANDO 1 (T1574)
 
 esta bien señor bills
 
-## RESPUESTA 2 (T1574)
+## RESPUESTA 1 (T1574)
 
 > esta bien señor bills
 
@@ -114,11 +55,11 @@ Kase, en tu hombro, mira la puerta cerrada de la pirámide. Tiene la cola quieta
 
 ---
 
-## COMANDO 3 (T1575)
+## COMANDO 2 (T1575)
 
 esta bien
 
-## RESPUESTA 3 (T1575)
+## RESPUESTA 2 (T1575)
 
 > esta bien
 
@@ -164,8 +105,72 @@ Espera. Después ladea la cabeza, con una sonrisa de gato que se le va armando d
 ╚══════════════════════════════════════════════╝
 ```
 
-Corrección: en la ventana anterior figuraban 239.243 Fragmentos, y el número correcto es 239.239.
+---
+
+## COMANDO 3 (T1576)
+
+dejo a kase y me transformó en blue
+
+## RESPUESTA 3 (T1576)
+
+> dejo a kase y me transformó en blue
+
+Te pones de pie con Kase en brazos.
+
+Caminas hasta el borde de la cúpula. La luz de la barrera se abre sola delante de ti, como una cortina, y del otro lado está la silla de playa de Whis. Dejas a Kase en el apoyabrazos.
+
+Kase no protesta. Se acomoda, enrosca la cola alrededor de las patas y se queda sentado, derecho, mirando el centro de la explanada. Whis lo mira de reojo, con la taza de té a medio camino.
+
+—Yo lo cuido, Facundo-san —dice—. Aunque creo que él me va a cuidar a mí.
+
+La barrera se cierra a tu espalda.
+
+Vuelves a caminar hasta el centro. Bills no se mueve: manos detrás de la espalda, la cola quieta, los ojos amarillos siguiéndote paso a paso. A los veinte pasos te detienes.
+
+Y te transformas.
+
+No hay grito. No tiembla el suelo. El pelo, mitad blanco y mitad azul oscuro, se te vuelve entero de un azul claro, brillante, que se levanta despacio como si estuvieras debajo del agua. Los ojos te cambian de color, y por primera vez en mucho tiempo los dos son del mismo tono. Alrededor de tu cuerpo se enciende un aura azul, tranquila y limpia, que no chisporrotea. Arde quieta, como una llama de gas.
+
+Las venas de luz del suelo, las que Whis reforzó, se ponen más brillantes debajo de tus pies.
+
+Afuera de la cúpula, Goku se para de un salto.
+
+—¡Ahí está! —Se agarra de la barrera con las dos manos, con la cara pegada—. ¡Mira, Vegeta, otra vez!
+
+Vegeta no contesta. Tiene los brazos cruzados y la mandíbula tan apretada que le tiembla.
+
+Bills te mira un largo rato.
+
+Ladea la cabeza a un lado, y después al otro. Entrecierra los ojos. Se le mueve una oreja, como si intentara escuchar algo muy lejano.
+
+—Hm. —Da un paso hacia ti, nada más que uno—. Se ve azul. Brilla azul. Es el color de los dioses, eso no lo discuto.
+
+Otro paso.
+
+—Pero no siento nada. —Una sonrisa lenta se le abre en la cara—. Sigues teniendo el ki de una hormiga. Igual que antes. Igual que en el barco. Como si no estuvieras ahí.
+
+Se detiene a quince pasos. Saca las manos de detrás de la espalda y las deja colgando, sueltas, a los costados.
+
+—Eso es o un truco muy bueno... —la cola se le mueve una vez, de lado a lado— ...o una mentira muy grande. Y a mí me encanta descubrir cuál de las dos.
+
+El aire de la explanada se pone pesado. No hay ruido. Las nubes de arriba de la cúpula se quedan quietas.
+
+—Vamos —dice Bills, suave—. Ven.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1576 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera de Whis) · tarde          ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien · corte en mejilla ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: en el apoyabrazos de Whis (afuera)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada con barrera de Whis. Bills, a 20 pasos: "Deja al gato afuera. Empieza tú. Muéstrame ese azul." Facundo puede actuar.
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Facundo en SSJ Blue en el centro; Bills a 15 pasos: "Vamos. Ven." Kase afuera con Whis. Facundo puede actuar.

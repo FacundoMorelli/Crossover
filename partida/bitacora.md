@@ -1574,3 +1574,4 @@ T1572 · DRAGON BALL · Planeta de Bills · Plato para Bills (1 F): la furia (Ha
 T1573 · DRAGON BALL · Planeta de Bills · Whis le cuenta a Bills los duelos de Facundo en azul. Bills: "Después tú y yo vamos a ver qué tan fuerte es ese azul tuyo. ¿Te parece?"
 T1574 · DRAGON BALL · Planeta de Bills · "Está bien, señor Bills." Pelea en una hora (sin comer). Whis: "No se contenga demasiado. Ni demasiado poco."
 T1575 · DRAGON BALL · Planeta de Bills · Espera la hora. Whis arregla el suelo y levanta una barrera. Bills baja bañado: "Deja al gato afuera. Me cae bien. Empieza tú. Muéstrame ese azul."
+T1576 · DRAGON BALL · Planeta de Bills · Deja a Kase con Whis (afuera). SSJ Blue. Bills: "Se ve azul, pero no siento nada... un truco muy bueno o una mentira muy grande. Vamos. Ven."

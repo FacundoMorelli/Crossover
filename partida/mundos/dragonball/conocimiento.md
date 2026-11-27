@@ -147,3 +147,4 @@
 - Goku, Vegeta, Whis · T1568 · Ven a Facundo (SSJ Blue) vencer a Goku en azul. Whis ve el atisbo del Ultra Instinto en Goku.
 - Bills · T1572 · Ve a Facundo con el sobretodo deshecho y un corte; pregunta si peleó con Goku y Vegeta.
 - Bills · T1573 · Por Whis (testigo): Facundo peleó en SSJ Blue con Goku y Vegeta, hundió dos veces el suelo reforzado y solo sangró una gota. Quiere pelear con él.
+- T1576 · Bills VIO a Facundo en SSJ Blue en persona (explanada de su planeta). Lo vieron también Whis, Goku y Vegeta. El Velo sigue mostrando ki muy bajo: Bills deduce que hay "un truco o una mentira".
