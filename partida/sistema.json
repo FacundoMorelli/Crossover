@@ -1,8 +1,8 @@
 {
-  "turno": 1547,
+  "turno": 1548,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, domingo, 20:30",
+  "hora": "año 778, domingo, 20:45",
   "edad": 18,
   "nivel": 30,
   "exp": 349130,
@@ -667,6 +667,11 @@
       "objeto": "Pudín (igual al de la fiesta de Bulma)",
       "cantidad": 0,
       "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522). Los 5 restantes dados a Bills (T1523); Bills le dio 1 a Whis. Otra caja (T1528, 1 F): los 6 a Whis (comió 3, escondió 3 bajo la túnica). Dos cajas más (T1531, 2 F): dadas a Bills para el viaje."
+    },
+    {
+      "objeto": "Táper de comida de Milk (arroz, carne, verduras)",
+      "cantidad": 1,
+      "detalle": "T1548, \"para el viaje\". En las manos de Facundo."
     }
   ],
   "copias": [

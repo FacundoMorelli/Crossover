@@ -134,3 +134,4 @@
 - Vegeta · T1546 · Por Facundo: la promesa de no contenerse cuando lo alcance.
 - Whis · T1547 · Sabe que Facundo come en casa de los Son; transmite la invitación de Bills.
 - Bulma, Trunks · T1547 · Ven a Vegeta desmayado tras entrenar con Facundo.
+- Milk, Goten, Gohan, Videl · T1548 · Ven a Facundo irse con Whis, Goku y Vegeta al planeta de Bills.

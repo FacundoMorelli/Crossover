@@ -77,3 +77,4 @@
 - Domingo 06:00-06:52 · (T1547) Entrenamiento Facundo-Vegeta a 500G; Vegeta se desmaya; cápsula de regeneración.
 - Domingo 20:30 · (T1547, canon) Whis va a buscar a Vegeta y a Goku para entrenarlos en el planeta de Bills (canon: allí alcanzan el SSJ Blue). Invita también a Facundo.
 - (R14) Terminado: desde la llegada de Bills (sábado), el reloj de Dragon Ball corre al ritmo normal de Facundo.
+- Domingo 20:45 · (T1548, canon) Whis se lleva a Goku y a Vegeta al planeta de Bills a entrenar; Facundo y Kase van con ellos.

@@ -88,3 +88,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1533 · Se duerme en una reposera a las cinco con el traje quemado.
 - T1535 · Pregunta si ya llegó el gato violeta.
 - T1547 · Whis lo invita a entrenar en el planeta de Bills: "¡¿EN SERIO?!" (tira la silla).
+- T1548 · Se va con Whis: "¡Solo un ratito, Goten! ¡Vuelvo más fuerte!" "¡Facundo me ayuda cuando vuelva!" "Ah. Cierto." En la burbuja: "¡Guau! ¡Esto es más rápido que la nave de Bulma!"

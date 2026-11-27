@@ -41,3 +41,4 @@ ESTADO: bien.
 - T1532 · "Que me enseñó la Bola Giratoria." (orgulloso)
 - T1533 · Se ríe tanto de Trunks que se cae al mar; Gohan lo pesca.
 - T1547 · Cuenta que Trunks intentó la Bola Giratoria cuarenta veces y le explotó siempre en la cara.
+- T1548 · "¡Papá! ¿Otra vez te vas?" Abraza a Facundo por la cintura y le da un beso en la cabeza a Kase.

@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1545)
-
-lo recibo de lleno
-
-## RESPUESTA 1 (T1545)
-
-> lo recibo de lleno
-
-—¡...FLASH!
-
-El Final Flash sale de las manos de Vegeta a cinco pasos de ti. Un río de luz amarilla, ancho como la cámara entera, que ruge, que lo llena todo, que ilumina cada rincón de metal con una luz blanca que ciega.
-
-No te mueves.
-
-Lo recibes de lleno, en el pecho, con los brazos abiertos.
-
-La luz te envuelve. Te empuja. Te quema el sobretodo, que se te infla en la espalda y humea en los bordes. Te arden la cara, las manos, el pecho. Sientes cómo la onda busca salir por los costados, hacia las paredes, hacia la compuerta, hacia el jardín donde está Kase.
-
-No la dejas.
-
-La aprietas contra ti, contra las llamas blancas y azules, como quien abraza una tormenta para que no se escape. La luz choca contra el borde de tu aura y no lo pasa. Se dobla. Se retuerce. Se queda ahí, rugiendo, encerrada en un círculo de dos metros alrededor de tu cuerpo, dando vueltas como un animal en una jaula.
-
-Y se apaga.
-
-Despacio. Como se apaga un fuego cuando ya no tiene qué quemar.
-
-En la cámara quedan el humo, el zumbido de las quinientas gravedades y las alarmas. La pared sigue abollada igual que antes. El piso, agrietado igual que antes. Nada más se rompió.
-
-Tienes el sobretodo chamuscado en los bordes, la cara caliente, el pelo blanco y azul todavía erguido. Un hilo de humo te sale del pecho de la camisa. Nada más.
-
-Vegeta sigue con las manos adelante.
-
-El aura dorada le parpadea. Se le apaga. El pelo se le cae, negro, en punta. Y las quinientas gravedades se le vienen encima de golpe, sin Super Saiyajin que las aguante, y lo tiran de rodillas al piso con un ruido de hueso contra metal.
-
-Se queda así. De rodillas. Con las manos apoyadas en el piso agrietado, respirando a bocanadas, el sudor cayéndole de la cara y estrellándose contra el suelo. No puede levantarse. Las alarmas le suenan alrededor de la cabeza.
-
-Se ríe.
-
-Una risa rota, baja, que le sale entre los dientes apretados, con la cara mirando al piso.
-
-—Ni siquiera... te moviste —dice—. Te lo tiré a la cara. Con todo. Y lo... guardaste. Como si fuera... nada.
-
-Levanta la cabeza. Le cuesta. La gravedad le tira el cuello hacia abajo. Pero la levanta igual, y te mira desde el suelo con los ojos negros encendidos, con la cara empapada.
-
-No hay rabia en la cara. Ni vergüenza. Hay algo más duro.
-
-—Voy a llegar ahí —dice—. A donde estás tú. Aunque me lleve diez años. Aunque me cueste la vida.
-
-Aprieta los puños contra el piso.
-
-—Y cuando llegue, vas a dejar de contenerte. —Se le escapa una mueca—. Prométemelo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1545 · DRAGON BALL · DOMINGO · 06:09   ║
-║ Capsule Corp · cámara de gravedad (500G)     ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien                     ║
-║ FORMA CENIT (x10 · quedan ~43 min)           ║
-║ Velo: el ki sigue sin sentirse               ║
-║ Kase: afuera, en el pasto, mirando           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Vegeta                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1546)
+## COMANDO 1 (T1546)
 
 esta bien, te lo prometo
 
-## RESPUESTA 2 (T1546)
+## RESPUESTA 1 (T1546)
 
 > esta bien, te lo prometo
 
@@ -125,11 +56,11 @@ Afuera, a través de la ventanilla redonda de la compuerta, se ve a Kase sentado
 
 ---
 
-## COMANDO 3 (T1547)
+## COMANDO 2 (T1547)
 
 simula
 
-## RESPUESTA 3 (T1547)
+## RESPUESTA 2 (T1547)
 
 > simula
 
@@ -200,4 +131,81 @@ Después Whis gira la cabeza y te mira a ti, al otro lado de la mesa, con Kase s
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 20:30, cocina de los Son. Whis invita a Goku (y a Vegeta, afuera) a entrenar en el planeta de Bills, y a Facundo a ir "con pudín". Facundo puede decidir.
+## COMANDO 3 (T1548)
+
+esta bien
+
+## RESPUESTA 3 (T1548)
+
+> esta bien
+
+> —Está bien.
+
+—Maravilloso. —Whis junta las manos, encantado—. A Bills-sama le va a dar mucho gusto. Bueno, cuando se despierte. Puede tardar.
+
+Kase se baja de la silla y se te sube al hombro, sin que se lo pidas, como si ya supiera que se van.
+
+Goku ya está en la puerta, con un pedazo de pollo en una mano y el otro brazo metiéndose en la manga del gi naranja, que alguien le tiró desde el cuarto. Goten lo agarra de la pierna.
+
+—¡Papá! ¿Otra vez te vas?
+
+—¡Solo un ratito, Goten! —Goku le revuelve el pelo—. ¡Vuelvo más fuerte!
+
+Milk recupera la voz de golpe, como si Whis le hubiera soltado algo invisible de la garganta.
+
+—¡GOKU! ¡Mañana tienes que arar el campo de abajo! ¡Y la semana que viene es el cumpleaños de...!
+
+—¡Facundo me ayuda cuando vuelva!
+
+—¡Facundo se va CONTIGO!
+
+Goku mira a Milk. Te mira a ti. Se rasca la cabeza.
+
+—Ah. Cierto.
+
+Milk se tapa la cara con las dos manos. Después se las saca, camina hasta ti y te pone un táper enorme en las manos, que sacó de quién sabe dónde, lleno hasta arriba de arroz, carne y verduras, tibio todavía.
+
+—Para el viaje —dice, muy seria—. Y si ese dios gato no te da de comer, me avisas. —Te mira a los ojos—. Y vuelve. Tú vuelves. Él también, pero tú vuelves.
+
+Gohan te da la mano. Videl levanta el puño, con media sonrisa. Goten te abraza la cintura, después le da un beso en la cabeza a Kase, que lo permite.
+
+Afuera, en el claro, bajo las estrellas, Vegeta espera de brazos cruzados con el traje de entrenamiento y la cara de siempre. Te ve salir detrás de Goku. No dice nada. Solo resopla.
+
+Whis se para en el medio del claro y apoya la base del báculo en el pasto.
+
+—Pongan una mano en mi espalda, por favor. Los tres. —Sonríe—. Y el gato, que se agarre fuerte.
+
+Goku pone la mano. Vegeta la pone de mala gana, lo más lejos posible de la de Goku. Pones la tuya. Kase te clava las uñas en el hombro del sobretodo.
+
+Whis golpea otra vez el pasto con el báculo.
+
+Y el Monte Paoz desaparece.
+
+Están adentro de una burbuja de luz blanca, que viaja. Muy rápido. Tan rápido que las estrellas, afuera, ya no son puntos: son líneas largas de colores que pasan a los costados, como lluvia vista desde un tren. Galaxias enteras se abren y se cierran en segundos. Nebulosas rojas, azules, verdes, que pasan como humo. No hay ruido. Solo el zumbido suave de la burbuja y la respiración de Goku, que tiene la cara pegada al borde de luz y los ojos enormes.
+
+—¡Guau! —dice—. ¡Esto es más rápido que la nave de Bulma!
+
+—Todo es más rápido que la nave de Bulma —dice Vegeta.
+
+Whis mira hacia adelante, tranquilo, con el báculo en la mano. Después gira un poco la cabeza hacia ti, con una sonrisa educada y los ojos brillantes.
+
+—Vamos a tardar un ratito. Media hora, más o menos. —Una pausa muy corta—. Facundo-san, por casualidad... ¿trajo pudín?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1548 · DRAGON BALL · DOMINGO · 20:45   ║
+║ Espacio · burbuja de viaje de Whis           ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.245 · 0 zeni                  ║
+║ Energía 70% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, con las uñas clavadas    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Viajar al planeta de Bills con     ║
+║ Goku, Vegeta y Whis                          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 20:45, burbuja de viaje de Whis rumbo al planeta de Bills, con Goku y Vegeta. Facundo tiene el táper de Milk. Whis: "¿Trajo pudín?" Facundo puede responder.
