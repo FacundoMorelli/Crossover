@@ -151,3 +151,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1591 · Se sienta al lado de la bandeja de Facundo; mira las papas y a Facundo.
 - T1592 · Duerme en el medio exacto de la cama redonda de la pirámide. Al amanecer despierta a Facundo sentado sobre su pecho.
 - T1595 · No se deja agarrar por Whis: salta solo al apoyabrazos y mira el centro de la explanada.
+- T1597 · Sigue la pelea con la cabeza todo el tiempo; el único que los ve siempre.

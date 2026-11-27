@@ -3,83 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1594)
-
-dejo mas para los demas
-
-## RESPUESTA 1 (T1594)
-
-> dejo mas para los demas
-
-Levantas la mano una vez más.
-
-[Compra: 8 hamburguesas dobles con queso y papas fritas · 8 Fragmentos.]
-
-[Compra: 8 malteadas de chocolate grandes · 8 Fragmentos.]
-
-Ocho bandejas más salen de la nada y se acomodan en el pasto del borde de la explanada, lejos del semicírculo de Bills, para que nadie tenga que pelearse con su cola.
-
-Goku se queda quieto un segundo. Después se le llenan los ojos de lágrimas.
-
-—¡Facundo! —Te agarra la mano con las dos suyas y la sacude—. ¡Eres el mejor! ¡En serio, el mejor!
-
-Se lleva tres bandejas. Se sienta en el pasto y empieza con las tres al mismo tiempo.
-
-Whis se levanta de la silla de playa, camina hasta las bandejas y elige dos, con cuidado, como quien elige frutas en un mercado. Te hace una reverencia corta.
-
-—Es usted un anfitrión excelente, Facundo-san, en un planeta que ni siquiera es suyo. —Sonríe—. Le voy a pedir la receta algún día.
-
-Vuelve a su silla y come despacio, con servilleta, anotando algo en la libretita entre bocado y bocado.
-
-Vegeta baja de su roca. Camina hasta las bandejas que quedan. Se para delante, con los brazos cruzados. Se queda así un largo rato, mirándolas, como si estuviera decidiendo si su orgullo le permite agarrarlas.
-
-Agarra tres.
-
-Se da vuelta para irse. A los dos pasos se detiene, de espaldas a ti.
-
-—...Gracias —gruñe, tan bajo que casi no se oye.
-
-Y se va a su roca antes de que nadie pueda decir nada.
-
-Goku deja de masticar y lo mira con la boca abierta y llena de papas. Whis levanta las cejas por encima de la taza.
-
-Kase, a tu lado, sigue mirando las papas de Bills.
-
-Al rato no queda nada. Bills termina la décima malteada, sorbe el fondo un rato largo y se queda mirando el vaso vacío, ya sin tristeza, satisfecho. Se pone de pie. Se estira. Mira su ropa de dormir.
-
-—Whis.
-
-—Sí, Bills-sama.
-
-Un golpecito del báculo, y Bills tiene puesta su ropa de siempre: el pantalón ancho blanco, entero otra vez, la faja, los brazaletes dorados. Se le paran las orejas. Se truena el cuello a un lado y al otro, y camina hasta el centro de la explanada.
-
-Whis levanta la barrera de luz alrededor, de nuevo, más gruesa que la de ayer.
-
-Bills se da vuelta y te mira, con la panza llena y los ojos amarillos bien despiertos.
-
-—Ahora sí, muchacho del bolsillo. —Sonríe con todos los dientes—. Y hoy no empiezas con el azul. Empiezas con eso plateado.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1594 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera nueva) · mañana           ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.161 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien · cortes cerrados  ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: a tu lado                              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (tercera ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1595)
+## COMANDO 1 (T1595)
 
 dejo a kase afuera y activo el ultra instinto dominado, empezamos
 
-## RESPUESTA 2 (T1595)
+## RESPUESTA 1 (T1595)
 
 > dejo a kase afuera y activo el ultra instinto dominado, empezamos
 
@@ -153,11 +81,11 @@ Bills abre los ojos. Se mira la mano. Te mira a ti. Una sonrisa le va naciendo d
 
 ---
 
-## COMANDO 3 (T1596)
+## COMANDO 2 (T1596)
 
 quien diria que ayudaría a un dios a entrenar no?
 
-## RESPUESTA 3 (T1596)
+## RESPUESTA 2 (T1596)
 
 > quien diria que ayudaría a un dios a entrenar no?
 
@@ -211,4 +139,68 @@ Cierra los ojos otra vez. El aura violeta se le baja, finita, pegada a la piel. 
 
 ---
 
-ESTADO AL CIERRE: Bills niega que entrene ("investigando"), pero cierra los ojos otra vez: "Otra vez. Y no me tengas lástima." Facundo en UI Dominado. Facundo puede actuar.
+## COMANDO 3 (T1597)
+
+esta bien, seguimos peleando
+
+## RESPUESTA 3 (T1597)
+
+> esta bien, seguimos peleando
+
+> —Está bien.
+
+—Bien —murmura Bills, con los ojos cerrados.
+
+Y empiezan otra vez.
+
+Ahora es raro de ver. Ya no es un dios lanzándose con todo contra alguien que no puede tocar. Son dos cuerpos que se mueven sin que nadie los mande. Bills no abre los ojos. Sus golpes ya no tienen la forma de un ataque. Salen de cualquier lado, sin aviso, sin la tensión en los hombros que los anunciaba ayer. Tu cuerpo los lee igual, y se corre igual.
+
+Pero cada vez por menos.
+
+Primero por un palmo. Después por cuatro dedos. Después por dos. Su mano te pasa rozando la oreja y te mueve el pelo plateado. Su cola te pasa a la altura de las costillas y te levanta la tela de la camisa. Ninguno te toca. Pero cada uno pasa más cerca que el anterior.
+
+Tu cuerpo le contesta. Le entra la palma en el hombro y Bills se va hacia atrás, sin abrir los ojos, y vuelve. Le entra el pie en el costado, y vuelve. Cada vez que vuelve, vuelve más suelto.
+
+Afuera, el silencio es total. Goku ya no cuenta: tiene la boca abierta y no parpadea. Vegeta se bajó de la roca y está de pie pegado a la barrera, al lado de Goku, sin darse cuenta de lo cerca que está de él. Whis se paró. Tiene el báculo apoyado en el suelo y las dos manos encima, y por primera vez desde que lo conoces tiene los ojos abiertos del todo, sin sonrisa.
+
+Kase, en el apoyabrazos, mueve la cabeza de un lado al otro, siguiéndolos. Es el único que los ve todo el tiempo.
+
+Pasan minutos. O una hora. Las venas de luz del suelo están quebradas bajo los pies de Bills y enteras bajo los tuyos.
+
+Hasta que Bills se para.
+
+No de golpe, como antes: se va quedando quieto. Abre los ojos despacio. Respira por la boca, fuerte, con el pecho subiendo y bajando. El aura violeta le tiembla, finita, y se le está apagando en los bordes. Tiene raspones nuevos en los brazos, el pantalón otra vez roto en las rodillas, el labio sangrando un poco. Y la cara más feliz que le viste nunca.
+
+—Dos dedos —dice, sin aire—. Me faltaron dos dedos.
+
+Se ríe, y le duele, y se agarra el costado.
+
+—Ya está. No me queda mucho. —Se endereza, con la dignidad que puede—. Pero no termino así, respirando como un perro.
+
+Levanta la mano derecha y la cierra en un puño. Todo lo que le queda se le va ahí: el aura violeta se le junta en los nudillos, densa, oscura, con la luz sin centro del Hakai latiendo adentro.
+
+—Un golpe. El último. —Los ojos amarillos le brillan—. Yo con todo lo que me queda. Y tú con todo lo que tengas. Nada de contenerte, nada de cuidarme. Todo.
+
+Afuera, Whis da un paso hacia la barrera.
+
+—Bills-sama...
+
+—Cállate, Whis. —No lo mira—. ¿Y bien, muchacho del bolsillo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1597 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera nueva) · mediodía         ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.161 · 0 zeni                  ║
+║ Energía 80% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: en el apoyabrazos de Whis (afuera)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: El último golpe con Bills          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills, agotado, con el puño cargado (Hakai), pide un último golpe: él con todo lo que le queda, Facundo con todo lo que tenga. Whis intenta intervenir. Facundo puede contestar.

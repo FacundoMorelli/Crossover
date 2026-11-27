@@ -68,3 +68,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1594 · Toma dos bandejas: "Es usted un anfitrión excelente, Facundo-san, en un planeta que ni siquiera es suyo. Le voy a pedir la receta algún día." Viste a Bills con el báculo; barrera más gruesa.
 - T1595 · Recibe a Kase (que salta solo al apoyabrazos): "Con mucho gusto, Facundo-san." Deja de sonreír y se inclina hacia adelante cuando Bills pelea con los ojos cerrados.
 - T1596 · Se ríe: "Hace más de doscientos años que le pido que entrene conmigo eso que acaba de hacer. Y nunca quiso. Siempre tenía sueño." "Y ahora, después de dos hamburguesas y una paliza..."
+- T1597 · De pie, báculo en el suelo, ojos abiertos del todo, sin sonrisa, mirando a Bills pelear con los ojos cerrados. Ante el último golpe: "Bills-sama..."

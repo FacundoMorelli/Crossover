@@ -1595,3 +1595,4 @@ T1593 · DRAGON BALL · Planeta de Bills · 10 bandejas para el desayuno de Bill
 T1594 · DRAGON BALL · Planeta de Bills · 8 bandejas para Goku, Whis y Vegeta (16 F). Vegeta: "...Gracias." Bills listo para la tercera ronda: "Empiezas con eso plateado."
 T1595 · DRAGON BALL · Planeta de Bills · Tercera ronda en UI Dominado: Bills no lo toca; recibe tres golpes. Cierra los ojos, pelea sin pensar y lo roza por un pelo: "¿Así se hace? ¿Así?"
 T1596 · DRAGON BALL · Planeta de Bills · "¿Quién diría que ayudaría a un dios a entrenar?" Bills: "Estoy investigando." Whis se ríe (200 años pidiéndoselo). Goku quiere entrenar UI con Facundo. Bills: "Otra vez. Y no me tengas lástima."
+T1597 · DRAGON BALL · Planeta de Bills · Siguen en UI: Bills con ojos cerrados se acerca hasta dos dedos sin tocarlo. Agotado, pide un último golpe: "Yo con todo lo que me queda. Y tú con todo lo que tengas."

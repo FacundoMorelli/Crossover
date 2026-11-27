@@ -1,8 +1,8 @@
 {
-  "turno": 1596,
+  "turno": 1597,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, miércoles (hora Tierra), mañana en el planeta de Bills",
+  "hora": "año 778, miércoles (hora Tierra), mediodía en el planeta de Bills",
   "edad": 18,
   "nivel": 32,
   "exp": 401130,
@@ -86,7 +86,7 @@
     "energia": 4000,
     "control": 3999
   },
-  "energia_actual_pct": 92,
+  "energia_actual_pct": 80,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
