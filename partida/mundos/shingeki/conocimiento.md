@@ -204,3 +204,4 @@
 - Hange, Erwin, Levi, Historia, Ymir, Moblit · T972 · Ven a Facundo sacar de la nada una linterna eléctrica, una radio, un reloj, antibióticos, un libro de medicina y semillas.
 - Erwin, Levi, Hange, Moblit, Historia, Ymir · T973 · Ven a Facundo sacar de la nada una moto moderna.
 - Ymir · T1471 · Ve a Facundo aparecer en los jardines del palacio (Día 119).
+- Facundo · T1472 · Por Ymir: Historia pasa el día en reuniones; Hange no duerme; Levi está obsesionado con la moto.

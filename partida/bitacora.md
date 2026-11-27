@@ -1470,3 +1470,4 @@ T1468 · ONE PIECE · Baltigo, cuarto de Robin · "Terminó. Están todos en paz
 T1469 · ONE PIECE · Baltigo, cuarto de Robin · "Sin mí, la mitad estarían muertos." Robin: "Tú vas por ahí cambiando la historia." Quiere escribirla algún día. "¿Cuánto tiempo te quedas esta vez?"
 T1470 · ONE PIECE · Baltigo, cuarto de Robin · Se queda unos días más; después vuelve al mundo de los titanes. Robin pide que le traiga algo de allá y le cuente si lo reconocieron. Se duerme.
 T1471 · ONE PIECE → SHINGEKI · Simulación de tres días en Baltigo; despedida de Robin en la torre ("Aquí te espero"). Puerta a Mitras, Día 119 06:40: tramo de Wall Sina abierto, antena, motor. Ymir con la canasta de manzanas guardadas.
+T1472 · SHINGEKI · Jardines del palacio · Beso a Ymir. "¿Cómo estás, amor?" "Cincuenta y tres días, lindo." Le da la primera manzana que guardó. "¿Salvaste otro mundo mientras yo contaba manzanas?"

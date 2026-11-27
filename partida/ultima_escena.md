@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1469)
-
-digamos que sin mi, estarían la mitad muertos
-
-## RESPUESTA 1 (T1469)
-
-> digamos que sin mi, estarían la mitad muertos
-
-> —Digamos que, sin mí, la mitad estarían muertos.
-
-Robin no dice nada enseguida.
-
-Se queda mirándote, con la barbilla en tu pecho y el pelo negro cayéndole sobre tu hombro. No parece sorprendida. Parece estar haciendo cuentas, como cuando lee una inscripción y le falta una palabra.
-
-—La mitad —dice despacio—. De un mundo entero.
-
-Apoya la mejilla sobre tu corazón. Lo escucha un rato, en silencio.
-
-—Cuando era chica, en Ohara, los que más sabían me enseñaron que la historia no se puede cambiar. Que solo se puede leer. Que lo que pasó, pasó, y que lo único que nos queda es que alguien se acuerde. —Se le escapa una risa muy bajita contra tu piel—. Y tú vas por ahí, de mundo en mundo, cambiándola. Con un gato en el hombro.
-
-Levanta la cabeza. Te besa. Despacio, sin apuro, como si tuviera toda la noche.
-
-Después se acomoda otra vez sobre tu pecho, se tapa con la manta hasta el hombro y te agarra la mano, entrelazando los dedos.
-
-—Algún día me vas a contar todo —murmura, ya con los ojos cerrados—. Desde el principio. Cada mundo. Cada persona. Y yo lo voy a escribir. Alguien tiene que acordarse.
-
-Kase, en el alféizar, abre un ojo, el azul. Los mira. Lo vuelve a cerrar.
-
-La respiración de Robin se va haciendo más lenta, más larga, contra tu pecho. Todavía no se durmió del todo. Te aprieta los dedos una vez, apenas.
-
-—¿Cuánto tiempo te quedas esta vez?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1469 · ONE PIECE · DÍA ~125 · NOCHE    ║
-║ Baltigo · base revolucionaria · cuarto de    ║
-║ Robin                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: dormido en el alféizar                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1470)
+## COMANDO 1 (T1470)
 
 unos dias mas, dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di y que no lo iba a reconocer
 
-## RESPUESTA 2 (T1470)
+## RESPUESTA 1 (T1470)
 
 > unos dias mas, dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di y que no lo iba a reconocer
 
@@ -98,11 +49,11 @@ Queda solo la luz de las estrellas por la ventana angosta, el viento suave de Ba
 
 ---
 
-## COMANDO 3 (T1471)
+## COMANDO 2 (T1471)
 
 simula 3 dias mas y me voy a shingeki
 
-## RESPUESTA 3 (T1471)
+## RESPUESTA 2 (T1471)
 
 > simula 3 dias mas y me voy a shingeki
 
@@ -173,4 +124,59 @@ Ymir se te queda mirando. No sonríe. No dice nada. Tiene la boca un poco abiert
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 06:40, jardines del palacio de Mitras. Facundo volvió tras despedirse de Robin en Baltigo. Ymir, con la canasta de manzanas guardadas, se frena al verlo, orejas coloradas. Facundo puede actuar.
+## COMANDO 3 (T1472)
+
+me acerco a ymir y le doy un beso, como estas amor?
+
+## RESPUESTA 3 (T1472)
+
+> me acerco a ymir y le doy un beso, como estas amor?
+
+Cruzas los diez pasos de grava.
+
+Ymir no se mueve. Te deja llegar. Te deja tomarle la cara con una mano. Y cuando la besas, la canasta se le resbala del brazo y cae al camino, y tres manzanas salen rodando hacia los setos.
+
+No las mira.
+
+Te agarra de la solapa del sobretodo con las dos manos, fuerte, como si quisiera asegurarse de que no te vas a ir por otra puerta en la mitad del beso, y te besa de vuelta. Kase, aplastado entre los dos, suelta un gruñido de protesta y se pasa al otro hombro.
+
+Cuando se separan, Ymir no te suelta la solapa.
+
+> —¿Cómo estás, amor?
+
+Ymir te mira. Las orejas ya están rojas del todo. Las pecas se le pierden en la cara colorada.
+
+—¿Amor? —repite, como si probara la palabra en la boca—. Cincuenta y tres días, lindo. Los conté. Cincuenta y tres días sin una carta, sin una paloma, sin nada, y apareces en el jardín a las siete de la mañana diciéndome "amor" como si te hubieras ido ayer.
+
+Te suelta la solapa. Te da un golpe en el pecho, con el puño, no muy fuerte.
+
+—Estoy bien —dice. Y se le quiebra apenas la voz, y lo disimula con una mueca—. Estoy aburrida. Historia se pasa el día en reuniones, Hange no duerme, el enano está obsesionado con ese caballo de metal tuyo, y yo no tengo a quién molestar.
+
+Se agacha. Junta la canasta del suelo. Junta las tres manzanas que rodaron, una por una, y las vuelve a poner adentro, con cuidado, como si fueran de vidrio.
+
+Después saca una. La más arrugada de todas, la de abajo. Te la pone en la mano.
+
+—Te dije que las iba a guardar —dice, sin mirarte—. Esa es la primera que guardé. La del día que te fuiste. Ya no sirve para nada, está toda arrugada. Pero no la pude tirar.
+
+Levanta la vista. Tiene los ojos brillantes y la boca torcida en esa sonrisa suya, de costado, burlona, que no le alcanza para tapar nada.
+
+—Bueno. —Se cruza de brazos—. ¿Y tú? ¿Salvaste otro mundo mientras yo contaba manzanas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1472 · SHINGEKI · DÍA 119 · 06:42      ║
+║ Mitras · jardines del palacio                ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el otro hombro                      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Ver qué hicieron con lo que les    ║
+║ dio · algo de este mundo para Robin          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 06:42, jardines del palacio. Ymir le dio la manzana arrugada (la primera que guardó). "¿Salvaste otro mundo mientras yo contaba manzanas?" Facundo puede responder.

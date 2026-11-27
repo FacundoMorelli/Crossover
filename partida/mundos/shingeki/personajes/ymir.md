@@ -55,3 +55,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T973 · Se ríe de la moto; lo mira como diciendo "presumido".
 - T974 · No saluda; levanta la barbilla. Lo ve irse por la puerta.
 - T1471 · Día 119 06:40 · Jardines del palacio de Mitras. Camisa blanca arremangada, pantalones de montar, canasta de manzanas (muchas, algunas arrugadas de tanto guardarlas). Ve a Facundo, se frena; la piedrita rueda hasta sus botas. Boca abierta, orejas coloradas.
+- T1472 · Beso: se le cae la canasta; lo agarra de la solapa. "¿Amor? Cincuenta y tres días, lindo. Los conté." Golpe en el pecho. "Estoy bien. Estoy aburrida": Historia en reuniones, Hange no duerme, "el enano" obsesionado con la moto. Le da la manzana más arrugada, la primera que guardó (del día que él se fue): "No la pude tirar." "¿Salvaste otro mundo mientras yo contaba manzanas?"
