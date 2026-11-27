@@ -22,3 +22,4 @@ QUÉ SABE DE FACUNDO: lo vio en la tele con Buu (T184, público). Goku le habló
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: bien.
 - T1497 · Año ~777, 12:10 · Delantal, rodete, escoba. A Goku: "¡¿VOLVISTE?! ¡¿TRES MESES Y VOLVÍ?! ...sin trabajar la granja, sin ver a tu hijo, sin mandar un mensaje..." Ve a Facundo: "Tú... El muchacho del gato." "¿Tú lo trajiste? ¿De dónde estaba este irresponsable?"
+- T1498 · "¡Ni siquiera estás muerto, Goku! ¡¿Qué clase de padre se va al Otro Mundo de vacaciones?!" Órdenes a Goku: baño, comer, dormir, arar mañana a las seis; el sábado, cumpleaños de Bulma, con el traje, sin comerse la torta antes. A Facundo: le revisa la boca y las palmas: "Siempre llegas lastimado a esta casa." Lo hace pasar: arroz, pescado, sopa; pescado para el gato. "¿Leíste el libro que te di?"

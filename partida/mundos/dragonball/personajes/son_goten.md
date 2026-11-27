@@ -26,3 +26,4 @@ QUÉ SABE DE FACUNDO: lo vio en la tele con Buu (público, T184).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: bien.
 - T1497 · Año ~777, ~10 años · Sale con la boca llena de arroz; se le cae el plato. "¡PAPÁ!" "¡¡EL GATOOOO!!" Pasa al lado de Goku sin mirarlo y se arrodilla delante de Kase.
+- T1498 · Se ríe de su padre; Kase le deja tocarle una oreja.

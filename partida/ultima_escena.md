@@ -3,83 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1495)
-
-uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
-
-## RESPUESTA 1 (T1495)
-
-> uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
-
-Miras a Goku, tirado en el pasto, todavía riéndose.
-
-```
-╔══════════════════════════════════════════════╗
-║ SON GOKU                                     ║
-║ Saiyajin · guerrero Z                        ║
-║ PODER: Ki, Super Saiyajin 1, 2 y 3,          ║
-║        Kamehameha, Kaio-ken,                 ║
-║        Teletransportación, Genkidama         ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: tú, x1,5 sobre él en    ║
-║ Super Saiyajin 3 (sin contar tus formas)     ║
-║ Energía actual: casi agotada                 ║
-║ YA COPIADO                                   ║
-╚══════════════════════════════════════════════╝
-```
-
-> —Eh, Goku. Dende me dijo esto para que te lo dijera, de parte de Milk.
-
-Y le repites el mensaje, tal cual: que vuelva para la fiesta de cumpleaños de Bulma, y que si no vuelve, Milk no le va a cocinar nunca más.
-
-Goku deja de reírse de golpe.
-
-Se sienta en el pasto de un salto, como si le hubieran tirado agua fría. Tiene la cara pálida, la boca abierta, los ojos muy grandes.
-
-—¿Nunca más? —repite—. ¿Nunca, nunca más?
-
-Mira a Kaio-sama, buscando ayuda.
-
-—Nunca más —confirma Kaio-sama, cruzándose de brazos, con mucha satisfacción—. Yo te dije que Milk iba a enojarse. Te lo dije hace tres meses.
-
-—¡Pero estaba entrenando! —Goku se agarra la cabeza—. ¡Si no me cocina Milk, me muero de hambre! ¡Lo único que sé hacer es pescado asado!
-
-Se pone de pie, tambaleando. Le tiemblan las piernas. Da dos pasos, se le doblan las rodillas por la gravedad y vuelve a caer sentado en el pasto. Se mira las manos.
-
-—Ay. No me queda nada. —Se ríe, nervioso—. Ni para el Kamehameha más chiquito. Ni para la Teletransportación.
-
-Te mira desde el suelo. Con la cara de un chico que rompió un vidrio y necesita que alguien lo ayude a esconderlo antes de que llegue su mamá.
-
-—Facundo... ¿Me llevas a casa? —Junta las manos—. Y vente a la fiesta de Bulma. ¡Va a estar todo el mundo! ¡Hay comida para cien! ¡Y si estás tú, Milk no me va a gritar tanto delante de los invitados!
-
-Kaio-sama resopla.
-
-—Sí te va a gritar.
-
-—Un poco menos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1495 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · planeta de Kaio-sama            ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: junto a ti                             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Goku pide que lo lleve a casa e    ║
-║ invita a la fiesta de Bulma                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1496)
+## COMANDO 1 (T1496)
 
 esta bien voy
 
-## RESPUESTA 2 (T1496)
+## RESPUESTA 1 (T1496)
 
 > esta bien voy
 
@@ -140,11 +68,11 @@ Traga saliva.
 
 ---
 
-## COMANDO 3 (T1497)
+## COMANDO 2 (T1497)
 
 llevo a goku al monte paoz
 
-## RESPUESTA 3 (T1497)
+## RESPUESTA 2 (T1497)
 
 > llevo a goku al monte paoz
 
@@ -215,4 +143,60 @@ Milk lo ignora. Se te queda mirando a ti, con la escoba colgando de la mano, los
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 12:10, Monte Paoz. Facundo trajo a Goku; Milk lo reta con la escoba; Goten con Kase. Milk a Facundo: "¿Tú lo trajiste? ¿De dónde estaba este irresponsable?" Facundo puede responder.
+## COMANDO 3 (T1498)
+
+estaba en el planeta de kaio
+
+## RESPUESTA 3 (T1498)
+
+> estaba en el planeta de kaio
+
+> —Estaba en el planeta de Kaio.
+
+Milk cierra los ojos. Respira hondo por la nariz. Cuenta hasta tres, en voz baja, moviendo los labios.
+
+—En el planeta de Kaio —repite—. En el Otro Mundo. Donde están los muertos. —Abre los ojos y se da vuelta hacia Goku, que todavía está sentado en el pasto—. ¡Ni siquiera estás muerto, Goku! ¡Te fuiste a entrenar con los muertos estando vivo! ¡¿Qué clase de padre se va al Otro Mundo de vacaciones?!
+
+—No eran vacaciones, era entrenamiento...
+
+—¡SILENCIO!
+
+Goku se calla. Goten, en el pasto, con Kase delante, se ríe por lo bajo. Kase le permite, con mucha generosidad, que le toque una oreja con un dedo.
+
+Milk le apunta a Goku con el palo de la escoba.
+
+—Vas a ir a bañarte. Vas a comer. Vas a dormir. Y mañana a las seis vas a estar en el campo arando, que la cosecha no se planta sola. —Respira—. ¡Y el sábado vamos al cumpleaños de Bulma, y vas a ponerte el traje que te compré, y no vas a comerte la torta antes de que la corten!
+
+—Sí, Milk.
+
+Después se da vuelta hacia ti.
+
+Y le cambia la cara entera. Como si se hubiera apagado un fuego y se hubiera prendido otro, más tibio.
+
+—Y tú. —Se te acerca. Te agarra la barbilla con dos dedos, sin pedir permiso, y te gira la cara hacia la luz para verte la sangre seca de la boca—. Mírate. Igual que hace tres años. Siempre llegas lastimado a esta casa. Este irresponsable te hizo pelear, ¿verdad?
+
+No espera la respuesta. Te suelta la cara, te toma de la muñeca y te mira las palmas rojas. Chasquea la lengua.
+
+—Adentro. Hay arroz, hay pescado, hay sopa. Te limpio eso y comes. —Mira a Kase—. Y para el gato también hay pescado.
+
+Te empuja suavemente hacia la casa con la mano en la espalda. En el escalón de la entrada se detiene, y te mira de reojo, con la ceja levantada y los ojos entrecerrados.
+
+—Dime una cosa, muchacho. —Lo dice muy seria—. ¿Leíste el libro que te di?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1498 · DRAGON BALL · AÑO 777 · 12:12   ║
+║ Monte Paoz · casa de los Son, entrada        ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el pasto, con Goten                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Fiesta de Bulma el sábado (Bills)  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 12:12, Monte Paoz. Milk retó a Goku (fiesta de Bulma el sábado); lleva a Facundo adentro a comer y curarlo. "¿Leíste el libro que te di?" Facundo puede responder.
