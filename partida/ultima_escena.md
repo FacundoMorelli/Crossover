@@ -3,77 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1578)
-
-empiezo a pelear con bills
-
-## RESPUESTA 1 (T1578)
-
-> empiezo a pelear con bills
-
-Bills se lanza primero.
-
-No corre: desaparece. El aire donde estaba se cierra con un chasquido, y antes de que el sonido llegue al otro lado de la cúpula ya lo tienes encima, por la izquierda, con la palma abierta buscándote la sien.
-
-Levantas el antebrazo y el golpe te entra de lleno en el hueso. El choque abre un círculo en el suelo debajo de tus pies, y las venas de luz se apagan en un radio de diez pasos.
-
-Bills no se detiene. Codo, rodilla, el talón girando hacia tu cuello, la cola como un látigo a la altura de los tobillos. Todo es suelto, casi perezoso, como un gato jugando con algo que todavía no decidió si va a comerse. Pero cada golpe pesa como una montaña cayéndote encima.
-
-Paras el codo. Esquivas la rodilla. El talón lo atrapas con la mano izquierda, y con la derecha le entras en las costillas.
-
-Bills gira en el aire con el golpe, aprovecha el giro y te barre la cara con el dorso de la mano. El corte viejo de la mejilla se te vuelve a abrir. Sientes el calor de la sangre bajando hasta el mentón.
-
-Se separan.
-
-Vuelven a chocar en el centro, y esta vez ya no se ven desde afuera. La explanada se llena de destellos, azules y violetas, que aparecen en un lado de la cúpula y al instante en el otro. Cada vez que chocan suena un trueno, y la barrera de Whis se agrieta un poco más. Las rocas flotantes de afuera tiemblan. Una montaña lejana, la que ya estaba rajada, termina de partirse en dos y se derrumba despacio, sin ruido, del otro lado del horizonte.
-
-Afuera, Goku tiene la cara pegada a la barrera y mueve la cabeza a izquierda y derecha, siguiendo los destellos.
-
-—¡No los veo! —grita, feliz—. ¡Vegeta, no los veo! ¡Ni con el azul!
-
-Vegeta está con los ojos muy abiertos. Los sigue a medias. Se le nota en la cara que a medias no le alcanza, y que lo odia.
-
-Whis se puso de pie. Tiene el báculo en la mano y la otra mano sobre la cabeza de Kase, aunque Kase no se la pidió.
-
-Bills se separa de golpe y sube.
-
-Se queda flotando arriba, en el centro de la cúpula, a cien metros del suelo. Respira por la boca. Tiene un raspón nuevo en la frente, el pantalón blanco roto en una rodilla y el labio sangrando otra vez. Y se ríe, con los hombros, con los ojos encendidos como dos lámparas.
-
-—Más. —Abre los brazos—. Más, más, más.
-
-Levanta la mano derecha por encima de la cabeza.
-
-Encima de su palma empieza a juntarse luz. Primero es una chispa naranja. Después una pelota del tamaño de una casa. Después del tamaño de la pirámide, y sigue creciendo, roja, naranja, caliente, latiendo como un sol chiquito. Por debajo, el suelo de la explanada empieza a derretirse en los bordes.
-
-—¡Bills-sama! —La voz de Whis llega tranquila, pero más alta que nunca—. ¡El planeta, Bills-sama!
-
-Bills no lo escucha. Te mira a ti, allá abajo, con el sol en la mano.
-
-—Atrápala —dice.
-
-Y la deja caer.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1578 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera muy agrietada) · tarde    ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 92% · Ojos: bien · mejilla abierta   ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: con Whis (afuera)                      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1579)
+## COMANDO 1 (T1579)
 
 la desaparezco con eclipse
 
-## RESPUESTA 2 (T1579)
+## RESPUESTA 1 (T1579)
 
 > la desaparezco con eclipse
 
@@ -137,11 +71,11 @@ Ladea la cabeza.
 
 ---
 
-## COMANDO 3 (T1580)
+## COMANDO 2 (T1580)
 
 a ningun lado
 
-## RESPUESTA 3 (T1580)
+## RESPUESTA 2 (T1580)
 
 > a ningun lado
 
@@ -189,4 +123,67 @@ Lo dice sin enojo, con la voz de quien pregunta si una fruta es dulce. Pero afue
 
 ---
 
-ESTADO AL CIERRE: Bills, a 10 pasos, palma arriba (sin cargar nada): "¿Y un Hakai? ¿Un Hakai también te lo comes, o ese sí te hace dejar de ser?" Whis se acerca a la barrera. Facundo puede contestar.
+## COMANDO 3 (T1581)
+
+podríamos probarlo
+
+## RESPUESTA 3 (T1581)
+
+> podríamos probarlo
+
+> —Podríamos probarlo.
+
+Por un segundo no pasa nada.
+
+Después a Bills se le abre la sonrisa más grande que le viste. Se le paran las orejas, la cola le da un latigazo en el aire y se le escapa una risa corta, aguda, de gato contento.
+
+—Podríamos probarlo —repite—. Whis, ¿lo escuchaste? Me lo ofreció él. No se lo pedí. Él lo dijo.
+
+—Lo escuché, Bills-sama. —Whis está pegado a la barrera, con la mano libre apoyada en la luz agrietada. Ya no sonríe del todo—. Y le recuerdo, con todo respeto, que el Hakai no se puede deshacer. Ni siquiera yo puedo deshacerlo.
+
+—Ya sé, ya sé.
+
+Afuera, Goku golpea la barrera con la palma.
+
+—¡Oye, Facundo! —Por primera vez en todo el día no está emocionado. Está serio—. ¡Eso no es como un golpe! ¡Yo vi lo que le hizo a la roca!
+
+Vegeta no dice nada. Pero se le aflojaron los brazos cruzados.
+
+En el apoyabrazos, Kase se pone de pie. Despacio, sin ruido. Se queda parado en las cuatro patas, con la cola baja y los ojos fijos en ti.
+
+Bills no mira a ninguno.
+
+Levanta la mano derecha, con la palma abierta hacia ti, a la altura de tu pecho.
+
+Esta vez el aire no se calienta. Se apaga. Alrededor de su palma aparece un contorno de luz violeta, finísimo, del color de la ropa de un dios, y adentro de ese contorno no hay nada: ni luz, ni sombra, ni color. Es como mirar el borde de un dibujo al que le borraron el centro. Las venas de luz del suelo, debajo de su mano, se apagan una por una y no vuelven a encenderse. No se rompen: dejan de estar.
+
+Es el mismo Hakai de la roca flotante. Pero aquella vez lo hizo con un dedo, aburrido. Ahora es la palma entera, y está despierto.
+
+—Sin trampas, muchacho del bolsillo. —La voz le sale baja, suave, casi cariñosa—. Te lo voy a dar de frente, y en serio. Si dejas de ser, no es culpa mía. Me lo ofreciste tú.
+
+Ladea la cabeza.
+
+—Y si no dejas de ser... —Los ojos amarillos le brillan como nunca—. Entonces mañana no me vuelvo a dormir.
+
+El contorno violeta tiembla en su palma, quieto, listo.
+
+—¿Listo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1581 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera muy agrietada) · tarde    ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 88% · Ojos: bien · mejilla abierta   ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: de pie en el apoyabrazos de Whis       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Recibir el Hakai de frente         ║
+║ (misión de copia, EXTREMA)                   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills con un Hakai en serio cargado en la palma, a 10 pasos, apuntando al pecho de Facundo: "¿Listo?" Misión de copia del Hakai en juego. Facundo puede contestar.

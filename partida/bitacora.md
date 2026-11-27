@@ -1579,3 +1579,4 @@ T1577 · DRAGON BALL · Planeta de Bills · Puñetazo en Blue: Bills no lo frena
 T1578 · DRAGON BALL · Planeta de Bills · Empieza la pelea: intercambio parejo en Blue (mejilla reabierta; Bills con raspones). Bills sube y suelta una esfera de destrucción gigante: "Atrápala."
 T1579 · DRAGON BALL · Planeta de Bills · Se traga la esfera de destrucción de Bills con el Eclipse. Bills baja: "Eso no fue un Hakai... se la comió. ¿Adónde la mandaste?"
 T1580 · DRAGON BALL · Planeta de Bills · "A ningún lado." Whis admite no saber qué fue. Bills, encantado, palma arriba: "¿Y un Hakai? ¿También te lo comes?"
+T1581 · DRAGON BALL · Planeta de Bills · "Podríamos probarlo." Whis avisa que el Hakai no se deshace; Goku serio; Kase de pie. Bills carga un Hakai en serio con la palma: "¿Listo?"

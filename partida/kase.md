@@ -144,3 +144,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1575 · Durante la hora no pide comida; quieto en el regazo de Facundo, orejas hacia la pirámide.
 - T1576 · Facundo lo deja afuera de la barrera, en el apoyabrazos de la silla de Whis. Se queda sentado, derecho, mirando el centro de la explanada.
 - T1578 · Afuera con Whis, que le apoya la mano en la cabeza sin que Kase la pida.
+- T1581 · Se pone de pie en el apoyabrazos, cola baja, ojos fijos en Facundo, mientras Bills carga el Hakai.

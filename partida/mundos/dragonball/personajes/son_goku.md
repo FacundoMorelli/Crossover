@@ -117,3 +117,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1577 · Ve el puñetazo a Bills; se cae sentado: "¡Le pegó! ¡Le pegó al señor Bills! ¡En la cara!"
 - T1578 · No puede seguir la pelea de Facundo y Bills ni en azul: "¡No los veo! ¡Ni con el azul!"
 - T1579 · Ve el Eclipse tragarse la esfera de Bills; boca abierta.
+- T1581 · Serio por primera vez en el día: "¡Oye, Facundo! ¡Eso no es como un golpe! ¡Yo vi lo que le hizo a la roca!"

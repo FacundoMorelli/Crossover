@@ -54,3 +54,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1578 · De pie con el báculo, mano sobre la cabeza de Kase. Ante la esfera de Bills: "¡Bills-sama! ¡El planeta, Bills-sama!"
 - T1579 · Ve a Facundo tragarse la esfera de Bills con el Eclipse; baja el báculo: "Oh."
 - T1580 · A Bills, sobre el Eclipse: "No, Bills-sama. Honestamente, no tengo idea." Da un paso hacia la barrera cuando Bills menciona el Hakai.
+- T1581 · Pegado a la barrera, ya sin sonreír del todo: "El Hakai no se puede deshacer. Ni siquiera yo puedo deshacerlo."
