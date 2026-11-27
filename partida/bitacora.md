@@ -1673,3 +1673,4 @@ T1671 · DRAGON BALL · casa de Erasa · "En el lugar de las islas son todos as�
 T1672 · DRAGON BALL · casa de Erasa · La besa para callar el llanto: "¿Así está bien?" "Eso es trampa. Pero funcionó." "Es la primera vez que no me importa cómo termina." "Te tienes que ir." No lo suelta.
 T1673 · DRAGON BALL · casa de Erasa · "Me tendría que ir." Erasa: "Tendría no es tengo." "Cinco minutos más." Se está quedando dormida en su hombro.
 T1674 · DRAGON BALL · casa de Erasa · Se duermen juntos en el sillón. Miércoles 06:10: la mamá los tapó; le ofrece café a Facundo: "Shhh. Que si se despierta, se muere de vergüenza."
+T1675 · DRAGON BALL · casa de Erasa · Agarra el café. La mamá: "Hace años que no duerme así." Se va a trabajar: "No la despiertes antes de las nueve." "Lo de la isla sigue en pie."

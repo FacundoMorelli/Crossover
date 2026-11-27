@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1672)
-
-le doy un beso, asi esta bien?
-
-## RESPUESTA 1 (T1672)
-
-> le doy un beso, asi esta bien?
-
-Le apartas las manos de la cara, despacio, y la besas.
-
-El sollozo se le corta a la mitad. Se le escapa un hipo contra tu boca, uno solo, chiquito, y después nada. Se queda quieta. Tiene las mejillas mojadas y saladas, y los labios tibios. Una mano se le queda en el aire un segundo, sin saber adónde ir, y después se apoya en tu cuello.
-
-Arriba, en el segundo piso, el paso que se había detenido vuelve atrás. Una puerta se cierra, suave.
-
-Cuando te separas, Erasa tiene los ojos cerrados todavía.
-
-> —¿Así está bien?
-
-Abre los ojos. Te mira, muy de cerca, con las pestañas pegadas de lágrimas y la nariz roja. Y se ríe. Una risa sin sonido, que le sacude los hombros y que tiene que ahogar con la manta.
-
-—Eso no es tapar la boca —susurra, con la voz rota—. Eso es trampa.
-
-Se seca la cara con la manta a cuadros, toda, de un lado y del otro, como un gato.
-
-—Pero funcionó. —Respira hondo. Le sale otro hipo, más chiquito. Se tapa la boca con la mano, mira el techo, espera. Nada—. Funcionó. Ya no lloro. Mira. Nada. Seca.
-
-No está seca. Pero sonríe.
-
-En la pantalla, el capitán y la chica del pañuelo están abrazados en la puerta de la casita blanca, con las cartas desparramadas en el piso, y la cámara sube despacio hasta el cielo. Empiezan los créditos, letras blancas sobre un mar en calma. El violín se apaga.
-
-Kase, panza arriba sobre las rodillas de los dos, abre un ojo por el silencio. Lo vuelve a cerrar.
-
-Erasa se queda mirando los créditos sin verlos, con la cabeza otra vez en tu hombro y los dedos todavía entrelazados con los tuyos debajo de la manta. El reloj con forma de pato de la cocina hace tic tac en la otra habitación.
-
-—Once veces la vi —dice, bajito—. Y es la primera vez que no me importa cómo termina.
-
-Te aprieta la mano.
-
-—Ya es tarde, ¿no? —No se mueve ni un centímetro—. Ya es tardísimo. Te tienes que ir.
-
-No te suelta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1672 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sillón de la sala · 22:55     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sobre tus rodillas y las de Erasa      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Película con Erasa                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1673)
+## COMANDO 1 (T1673)
 
 si me tendría que ir
 
-## RESPUESTA 2 (T1673)
+## RESPUESTA 1 (T1673)
 
 > si me tendría que ir
 
@@ -111,11 +53,11 @@ Su mano, entre las tuyas, se va aflojando de a poco.
 
 ---
 
-## COMANDO 3 (T1674)
+## COMANDO 2 (T1674)
 
 espero a que se duerma y me duermo con ella
 
-## RESPUESTA 3 (T1674)
+## RESPUESTA 2 (T1674)
 
 > espero a que se duerma y me duermo con ella
 
@@ -165,4 +107,58 @@ Después se lleva un dedo a los labios, con la otra mano, sin derramar ni una go
 
 ---
 
-ESTADO AL CIERRE: miércoles 06:10, sala de la casa de Erasa. Facundo y Erasa se durmieron en el sillón (vestidos, bajo la manta). Durante la noche la mamá apagó la lámpara y el televisor y les puso encima una manta de lana crema. Erasa duerme con la cabeza en el pecho de Facundo (marca de botón en la mejilla). Kase despierto en el apoyabrazos. La mamá, vestida para salir, con dos tazas de café, le ofrece una a Facundo sin palabras: "Shhh. Que si se despierta, se muere de vergüenza."
+## COMANDO 3 (T1675)
+
+agarro la taza
+
+## RESPUESTA 3 (T1675)
+
+> agarro la taza
+
+Estiras el brazo libre, el que no tiene a Erasa encima.
+
+La madre cruza la sala en puntas de pie, esquivando una sandalia tirada en la alfombra, y te pone la taza en la mano con muchísimo cuidado, el asa hacia ti. Está caliente. Huele fuerte, a café recién hecho, con un poco de leche, como lo tomaste anoche. Se acordó.
+
+Erasa se mueve. Arruga la nariz, murmura algo que suena a "cinco minutos" y aprieta más el brazo sobre ti. Después se queda quieta otra vez. La madre y tú se quedan congelados, cada uno con su taza, sin respirar, hasta que el silbidito de la nariz de Erasa vuelve.
+
+La madre suelta el aire.
+
+Se sienta en el borde del otro sillón, enfrente, con el bolso en las rodillas y la taza entre las dos manos. Toma un sorbo. No te mira a ti: mira a su hija, dormida sobre tu pecho, con la boca abierta y la marca del botón en la mejilla. La mira un rato largo.
+
+Kase baja del apoyabrazos, cruza la alfombra y se sienta a sus pies. Ella le acaricia la cabeza sin mirar, con dos dedos, como si lo hubiera hecho siempre.
+
+—Hace años que no duerme así —susurra al final, tan bajo que casi no se oye—. Desde chiquita duerme mal. Se despierta tres, cuatro veces. Se levanta a tomar agua, prende la luz, lee, vuelve a acostarse. —Toma otro sorbo—. Yo la escucho. Tengo oído de murciélago, ¿te contó?
+
+Deja la taza vacía en la mesita.
+
+—Anoche no se despertó ni una vez. Bajé a las dos, a las cuatro. —Te mira, por fin—. Las dos veces estaban igual. Así.
+
+Se levanta. Se acomoda el bolso en el hombro. Mira el reloj de la cocina.
+
+—Me voy a trabajar. Vuelvo a las cinco. —Señala la cocina con la cabeza—. Hay pan en la panera, mermelada de durazno en la heladera, y el café está en la cafetera. No la despiertes antes de las nueve, que si no, está insoportable todo el día.
+
+Camina hasta la puerta en puntas de pie. Con la mano en la manija, se da vuelta una última vez.
+
+—Y, Facundo. —Lo susurra mirándote fijo, muy seria—. Lo de la isla y la montaña y el gato sigue en pie.
+
+Sale. La puerta se cierra con un clic suave. Afuera, sus pasos se alejan por la vereda, pasan junto al buzón con forma de pato y se pierden calle abajo.
+
+La sala queda en silencio. La luz de la mañana entra gris y celeste por la cortina. Erasa duerme sobre tu pecho. Tienes una taza de café caliente en la mano y son las seis y veinte.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1675 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sala · miércoles · 06:20      ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la alfombra                         ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: miércoles 06:20, sala de la casa de Erasa. La mamá le dio el café (con leche, como anoche), contó que Erasa duerme mal desde chiquita y anoche no se despertó ni una vez (ella bajó a las 2 y a las 4). Se fue a trabajar (vuelve a las 17): pan en la panera, mermelada de durazno, café en la cafetera; no despertarla antes de las 9. "Lo de la isla y la montaña y el gato sigue en pie." Facundo con Erasa dormida sobre el pecho y el café en la mano. Kase en la alfombra.
