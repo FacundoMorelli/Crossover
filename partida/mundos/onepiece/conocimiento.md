@@ -291,3 +291,4 @@
 - Luffy, Ace, Sabo, Rayleigh · T1461 · Por Facundo: toda la tripulación está bien; solo vio a Robin.
 - Barbablanca, Marco, Vista, tripulación del Moby Dick · T1462 · Ven a Facundo aparecer de la nada con Ace y el rubio de sombrero de copa (Sabo; todavía no saben quién es).
 - Barbablanca, Marco y toda la flota · T1463 · Por Ace: Sabo es su hermano, dado por muerto; lo salvó Dragon; perdió la memoria y la recuperó esa mañana (Ace mira a Facundo al decirlo). Por Sabo: es del lado de Dragon (Ejército Revolucionario).
+- Facundo · T1464 · Por Barbablanca: dos ataques de la Marina contra la flota desde Marineford (vicealmirantes en el borde del Nuevo Mundo; "un almirante nuevo" de magma), parados por el Bankai.

@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1461)
-
-Solo a Robin, pero todos estan bien si
-
-## RESPUESTA 1 (T1461)
-
-> Solo a Robin, pero todos estan bien si
-
-> —Solo a Robin. Pero sí, todos están bien.
-
-Luffy suelta el aire de golpe, como si lo hubiera tenido guardado desde Marineford.
-
-Después sonríe. La sonrisa enorme, la de siempre, que le ocupa toda la cara.
-
-—¡Shishishi! ¡Sabía! —Se pone el sombrero de paja en la cabeza, de un manotazo—. ¡Son fuertes! ¡Todos!
-
-Se da vuelta hacia el mar, con los puños en la cintura, como si pudiera ver desde ahí a cada uno en su isla.
-
-—¡Dile a Robin que la extraño! —Lo grita, aunque estás a un paso—. ¡Y que dentro de dos años va a tener el capitán más fuerte del mundo!
-
-Rayleigh se levanta de la roca. Se sacude la nieve de la capa, guarda la botella en un bolsillo y se acerca despacio, con las manos atrás.
-
-Se para frente a Ace y a Sabo. Los mira a los dos, uno y otro, con esa cara de abuelo que sabe más de lo que dice.
-
-—Los tres hermanos —dice—. Roger se habría reído mucho con esto.
-
-Ace se tensa apenas al oír el nombre. Pero no dice nada. Rayleigh le pone una mano en el hombro, un segundo, y lo suelta.
-
-Después te mira a ti.
-
-—Y tú, muchacho. Cada vez que apareces, el mundo cambia un poco de lugar. —Se acomoda los anteojos—. Ve. Antes de que Newgate parta el Nuevo Mundo buscando a su hijo.
-
-Ace se para a tu lado, del lado derecho. Sabo, del izquierdo, con el caño al hombro y el sombrero de copa bien puesto. Los dos te miran.
-
-Luffy levanta el puño en el aire, en medio de la nieve.
-
-—¡Nos vemos, hermanos!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1461 · ONE PIECE · DÍA ~121 · 07:28    ║
-║ Rusukaina · explanada de roca, nieve         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Llevar a Ace y Sabo al Moby Dick   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1462)
+## COMANDO 1 (T1462)
 
 llevo a ace y sabo con barbablanca
 
-## RESPUESTA 2 (T1462)
+## RESPUESTA 1 (T1462)
 
 > llevo a ace y sabo con barbablanca
 
@@ -127,11 +73,11 @@ Después mira a Sabo. Lo mira de arriba abajo, despacio.
 
 ---
 
-## COMANDO 3 (T1463)
+## COMANDO 2 (T1463)
 
 miro
 
-## RESPUESTA 3 (T1463)
+## RESPUESTA 2 (T1463)
 
 > miro
 
@@ -209,4 +155,57 @@ Barbablanca, en su silla, tiene en la mano un cuenco de sake del tamaño de un b
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick, fiesta. Sabo presentado y aceptado; declinó ser hijo de Barbablanca. Barbablanca llama a Facundo a beber con él. Facundo puede actuar.
+## COMANDO 3 (T1464)
+
+tomo con barbablsnca
+
+## RESPUESTA 3 (T1464)
+
+> tomo con barbablsnca
+
+Cruzas la cubierta entre los piratas, que se abren para dejarte pasar. Kase levanta la cabeza del plato, te ve ir y decide que el pescado es más importante.
+
+Al pie de la silla de Barbablanca, alguien te alcanza un cuenco. Es el más chico que hay en el barco, y aun así te ocupa las dos manos. Te lo llenan hasta el borde.
+
+Barbablanca levanta el suyo, el del tamaño de un barril. Lo choca contra el tuyo, con cuidado, y aun así casi te lo saca de las manos.
+
+Toman.
+
+El sake del Moby Dick es fuerte, seco, y quema bajando. Barbablanca vacía el cuenco de un trago y se limpia el bigote con el dorso de la mano. Las enfermeras, desde un costado, lo miran con cara de reproche. Él las ignora.
+
+—Gurarara. Aguantas bien. —Te mira desde arriba, con los ojos entrecerrados, mientras le vuelven a llenar el cuenco—. Me gustan los mocosos que aguantan bien el sake.
+
+Se acomoda en la silla. Mira la fiesta: Ace y Sabo, sentados en la baranda, a los empujones, riéndose; Marco discutiendo con Izo; Jozu durmiendo sentado; alguien que toca un acordeón desafinado.
+
+—Desde Marineford, la Marina nos alcanzó dos veces —dice—. Una flota de vicealmirantes en el borde del Nuevo Mundo. Y después un almirante nuevo, que vino a probar suerte. —Levanta un dedo enorme hacia el cielo nocturno, hacia arriba, donde no se ve nada—. Las balas de cañón rebotaron en el aire. El magma resbaló como agua sobre un vidrio. Mis hijos se quedaron en cubierta mirando, con los brazos cruzados. Ni una tabla.
+
+Toma otro trago, más lento.
+
+—Cincuenta años navegando, y nunca nadie me había protegido la flota. Siempre fui yo el que protegía. —Se le escapa una risa corta, casi sin sonido—. Es una sensación rara, para un viejo.
+
+Baja el cuenco. Te mira de frente.
+
+—Me salvaste la vida a mí. Le salvaste la vida a mi hijo. Le devolviste a mi hijo un hermano que creía muerto. —Lo dice despacio, como quien cuenta deudas—. Y no pediste nada. Ni una sola vez.
+
+Se inclina un poco hacia ti. La silla cruje.
+
+—Así que te lo pregunto yo, mocoso. ¿Qué quieres de Edward Newgate?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1464 · ONE PIECE · DÍA ~121 · NOCHE    ║
+║ Nuevo Mundo · Moby Dick · silla de           ║
+║ Barbablanca                                  ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: sobre una caja, comiendo pescado       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick. Facundo bebe con Barbablanca. Barbablanca: "¿Qué quieres de Edward Newgate?" Facundo puede responder.

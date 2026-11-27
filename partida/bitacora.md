@@ -1462,3 +1462,4 @@ T1460 · ONE PIECE · Rusukaina · Facundo: no volverá hasta los dos años. Luf
 T1461 · ONE PIECE · Rusukaina · "Solo a Robin, pero todos están bien." Luffy: mensaje para Robin. Rayleigh despide. Ace y Sabo listos. "¡Nos vemos, hermanos!"
 T1462 · ONE PIECE · Rusukaina → Moby Dick · Devuelve a Ace con Sabo. Cubierta en alerta. Barbablanca se ríe: "Tú otra vez, mocoso." "¿Y este quién es?"
 T1463 · ONE PIECE · Moby Dick · (observa) Ace presenta a Sabo. Barbablanca le ofrece ser su hijo; Sabo declina. Fiesta de la flota. De noche, Barbablanca llama a Facundo a beber.
+T1464 · ONE PIECE · Moby Dick · Sake con Barbablanca. El Bankai paró dos ataques de la Marina en dos meses. "¿Qué quieres de Edward Newgate?"
