@@ -1667,3 +1667,4 @@ T1665 · DRAGON BALL · casa de Erasa · "Tengo dieciocho." Erasa tiene 22. La m
 T1666 · DRAGON BALL · casa de Erasa · "No me molesta; Videl ya me había dicho tu edad." Erasa: "Esa traidora con panza." Bombones. "¿Qué más te contó Videl de mí?"
 T1667 · DRAGON BALL · casa de Erasa · "No me contó mucho más." La mamá: "Si la haces llorar, te encuentro." Se va a dormir. Erasa: "Le caíste bien."
 T1668 · DRAGON BALL · casa de Erasa · Beso en la cocina. "Menos mal." Erasa: "¿Te quedas a ver una película? Una de barcos."
+T1669 · DRAGON BALL · casa de Erasa · Apaga el horno. "El último velero" en el sillón, bajo la manta. Kase sobre los dos. Erasa ya llora: "Si hago ruido, tápame la boca."

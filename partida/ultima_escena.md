@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1666)
-
-no, no me molesta, videl ya me habia dicho tu edad
-
-## RESPUESTA 1 (T1666)
-
-> no, no me molesta, videl ya me habia dicho tu edad
-
-> —No, no me molesta. Videl ya me había dicho tu edad.
-
-Erasa abre la boca. La cierra.
-
-—¿Videl te dijo? —El pie, debajo de la mesa, vuelve a moverse, despacio, hasta apoyarse otra vez contra el tuyo—. ¿Y lo sabías desde antes? ¿Desde la cena de Bulma?
-
-Se le va la tensión de los hombros de golpe, como cuando cortó la torta para Bills. Se tapa la cara con la servilleta.
-
-—Esa traidora. Esa traidora con panza. —Habla adentro de la tela—. Me dijo "no te preocupes por nada, Erasa, tú sé tú misma". ¡Y le contó mi edad a todo el mundo!
-
-—A todo el mundo no, querida. Al muchacho. —La madre todavía tiene los ojos húmedos de la risa. Toma un sorbo de agua para calmarse y te mira de otra manera, con la cabeza ladeada—. Así que sabías que tenía veintidós. Y viniste igual. Con bombones de la calle Mayor.
-
-Lo dice como si sumara algo en una cuenta mental.
-
-—Hm.
-
-Se levanta. Junta los platos vacíos, el tuyo primero, y los lleva a la mesada. Desde ahí, de espaldas, abre la caja de bombones dorada.
-
-—Bueno. Postre. —Pone la caja en el centro de la mesa, donde estaba el pollo—. Uno cada uno. Bueno, yo ya me comí uno. Así que uno para cada uno de ustedes y dos para mí, que cociné.
-
-Erasa saca la cara de la servilleta. Todavía está roja, pero ahora sonríe, chiquito, mirándote de reojo. Agarra un bombón con forma de corazón, lo mira, se da cuenta de la forma y lo vuelve a dejar enseguida en la caja, como si quemara. Agarra uno redondo.
-
-Su madre lo ve todo. No dice nada. Se come el de corazón ella.
-
-Erasa se inclina hacia ti por encima de la mesa, con el bombón redondo en la mano, y baja la voz para que su madre, que está otra vez de espaldas sirviendo café, no la escuche.
-
-—¿Y qué más te contó Videl de mí? —Entrecierra los ojos—. Dímelo todo. Así sé a quién tengo que matar mañana.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1666 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 20:42        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1667)
+## COMANDO 1 (T1667)
 
 no me contó mucho más
 
-## RESPUESTA 2 (T1667)
+## RESPUESTA 1 (T1667)
 
 > no me contó mucho más
 
@@ -115,11 +63,11 @@ Erasa no se mueve. Mira la escalera por donde se fue su madre, con la boca abier
 
 ---
 
-## COMANDO 3 (T1668)
+## COMANDO 2 (T1668)
 
 me acerco a erasa y le doy un beso, menos mal
 
-## RESPUESTA 3 (T1668)
+## RESPUESTA 2 (T1668)
 
 > me acerco a erasa y le doy un beso, menos mal
 
@@ -165,4 +113,58 @@ Mira hacia la sala, donde Kase duerme en la almohadita nueva, hecho una bola. Mi
 
 ---
 
-ESTADO AL CIERRE: martes 21:10, cocina comedor, solos. Beso; Erasa agarrada de su camisa. "Menos mal" (ella lo imita: "Eres imposible"). El horno sigue prendido (tic tic). Invita: "¿Te quedas un rato más? Podemos ver una película en el sillón. Bajito. Tengo una de barcos. Lloro en el final." La mamá arriba (se cerró una canilla).
+## COMANDO 3 (T1669)
+
+esta bien, apago el horno y vamos a ver una pelicula
+
+## RESPUESTA 3 (T1669)
+
+> esta bien, apago el horno y vamos a ver una pelicula
+
+> —Está bien.
+
+Erasa te suelta la camisa como si le hubieran dado permiso para respirar.
+
+Vas hasta el horno y lo apagas. El tic tic tic se corta. La cocina queda en silencio, con el olor a romero todavía en el aire.
+
+Cuando te das vuelta, Erasa ya no está en la silla. Está en la puerta de la sala, en puntas de pie, con un dedo en la boca y una manta tejida a cuadros en los brazos, que sacó de algún lado en dos segundos.
+
+—Shhh. —Señala el techo—. Ella tiene oído de murciélago.
+
+La sala está en penumbra. Erasa prende solo una lámpara chiquita con pantalla de flecos, al lado del sillón floreado, y se arrodilla frente a un mueble con un televisor redondo de la Corporación Cápsula. Revuelve en un cajón lleno de cintas, todas con etiquetas escritas a mano con su letra redonda y corazoncitos en los puntos de las íes. Saca una. La sopla.
+
+—"El último velero" —lee, bajito, con reverencia—. La vi once veces. Es la mejor película del mundo. Un capitán, una chica del puerto, una tormenta... No te cuento más.
+
+La pone. El televisor zumba, se ilumina, aparece un mar azul de mentira y una música de violines que ella baja hasta casi nada.
+
+Se sienta en el sillón, a tu lado. No en la otra punta: al lado, pegada, con la cadera contra la tuya. Se saca las sandalias con los pies, sube las piernas, se tapa con la manta a cuadros y te tapa a ti también, con un pedazo, sin preguntar. Después, despacio, como quien prueba si el agua está fría, apoya la cabeza en tu hombro.
+
+Kase se despierta en la almohadita. Abre un ojo. Los ve en el sillón. Se levanta, se estira, sube de un salto, camina por encima de la manta, por encima de las piernas de Erasa, que contiene la risa, y se acomoda atravesado sobre las rodillas de los dos, la mitad sobre ti y la mitad sobre ella. Se hace una bola. Ronronea.
+
+Erasa lo mira con la boca abierta.
+
+—Se acostó encima de mí también —susurra, emocionada—. Facundo. Kase se acostó encima de mí.
+
+En la pantalla, un velero blanco sale de un puerto lleno de gaviotas. Una chica con un pañuelo en la cabeza lo mira irse desde el muelle.
+
+Erasa ya tiene los ojos brillantes.
+
+—Ay, no —se ríe, bajito, secándose con la manta—. Ya empecé. Y esto es el principio. —Te busca la mano por debajo de la manta y entrelaza los dedos con los tuyos—. Si en el final hago mucho ruido, tápame la boca. En serio. Por mi mamá.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1669 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sillón de la sala · 21:18     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sobre tus rodillas y las de Erasa      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Película con Erasa                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 21:18, sala de la casa de Erasa, sillón floreado, lámpara de flecos. Película "El último velero" (Erasa la vio once veces). Bajo una manta a cuadros, cabeza en el hombro de Facundo, dedos entrelazados. Kase acostado sobre las rodillas de los dos (Erasa emocionada). Erasa ya llora al principio: "Si en el final hago mucho ruido, tápame la boca. Por mi mamá." Horno apagado. La mamá duerme arriba.
