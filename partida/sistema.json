@@ -1,13 +1,13 @@
 {
-  "turno": 1565,
+  "turno": 1566,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), amanecer en el planeta de Bills",
   "edad": 18,
   "nivel": 30,
-  "exp": 349130,
+  "exp": 355130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 189243,
+  "fragmentos": 214243,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 98,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2264,6 +2264,13 @@
       "quien": "Vegeta (entrenamiento serio, SSJ2, 500G)",
       "mundo": "dragonball",
       "turno": 1547,
+      "fragmentos": 25000,
+      "nota": "compañero en serio, mitad de 50.000"
+    },
+    {
+      "quien": "Vegeta (duelo, SSJ Blue)",
+      "mundo": "dragonball",
+      "turno": 1566,
       "fragmentos": 25000,
       "nota": "compañero en serio, mitad de 50.000"
     }

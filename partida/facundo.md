@@ -1,7 +1,7 @@
 # FACUNDO AGUSTÍN MORELLI
 EDAD: 18 (en todos los mundos)
 FÍSICO: 1,85, atlético y fibroso. Pelo largo y desordenado, mitad blanco y mitad azul oscuro, a veces atado atrás. Heterocromía: ojo izquierdo rojo carmesí, ojo derecho azul hielo. Cicatriz vertical sobre el ojo izquierdo (ceja a mejilla) y otra diagonal en el pecho. Tatuajes de dragones en brazos, pecho y cuello; en la espalda, un eclipse con un dragón enroscado. Aros plateados largos, anillos.
-ROPA ACTUAL: negro — borceguíes, pantalones cargo, sobretodo largo (bordes chamuscados por el Final Flash de Vegeta, T1545).
+ROPA ACTUAL: negro — borceguíes, pantalones cargo, sobretodo largo (deshecho del pecho para abajo y camisa rota por el Final Flash azul de Vegeta, T1566). Corte fino en la mejilla izquierda (T1566).
 SITUACIÓN: solo. Sin familia. Sin bando. Viaja con Kase.
 LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclipse, el Velo, el inventario dimensional, la fusión.
 

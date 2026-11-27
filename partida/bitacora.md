@@ -1564,3 +1564,4 @@ T1562 · DRAGON BALL · Planeta de Bills · Noche y amanecer. Explanada reforzad
 T1563 · DRAGON BALL · Planeta de Bills · Facundo hace SSJ y SSJ Blue ante Vegeta, Goku y Whis; el suelo de Whis se hunde. Goku: "¿Eres saiyajin?" Vegeta: "No tienes cola. ¿Qué demonios eres?" Whis deja de sonreír.
 T1564 · DRAGON BALL · Explanada · "Ven, Vegeta. Atácame." Vegeta: "No me importa lo que seas. Me importa ganarte." Ataque en azul: puño, rodilla, palma cargada; el primer puño a un palmo.
 T1565 · DRAGON BALL · Explanada · Detiene el puño de Vegeta en azul con dos dedos (cráter en el suelo de Whis). Vegeta: "No. No." Final Flash azul a un paso.
+T1566 · DRAGON BALL · Explanada · Recibe de lleno el Final Flash azul de Vegeta: media montaña borrada; a Facundo, un corte en la mejilla. Vegeta, de rodillas, feliz: "Te hice sangrar. Una gota. Pero es mía." +25.000 F, +6.000 EXP.

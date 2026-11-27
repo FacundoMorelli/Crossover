@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1563)
-
-esta bien, te voy a mostrar nuestra diferencia vegeta y goku, me transformó en blue
-
-## RESPUESTA 1 (T1563)
-
-> esta bien, te voy a mostrar nuestra diferencia vegeta y goku, me transformó en blue
-
-> —Está bien. Te voy a mostrar nuestra diferencia, Vegeta. Y a ti también, Goku.
-
-Detrás de la roca, la mata de pelo negro se queda quieta. Después, muy despacio, Goku asoma la cabeza entera, con los ojos enormes, descubierto.
-
-Cierras los ojos.
-
-Lo buscas adentro: el fuego primero. Lo encuentras enseguida, donde siempre estuvo desde aquella tarde en el desierto, tres años atrás, cuando un saiyajin de pelo en punta te dio todo lo que tenía sin saberlo. Lo dejas subir.
-
-El pelo blanco y azul se te levanta, se te endurece en punta y se vuelve dorado. El aura te estalla alrededor, amarilla, rugiendo. Los ojos se te ponen verdes, el rojo y el azul apagados debajo.
-
-Vegeta da medio paso atrás sin querer.
-
-Y después, el agua encima.
-
-No gritas. Respiras. Y el dorado se te apaga desde la raíz hasta las puntas, como una brasa que se enfría, y en su lugar nace el azul. El mismo azul claro y limpio de Vegeta, de Goku. El aura dorada se calma, se aquieta, se vuelve azul, chispeante, tranquila, sin ruido. Los ojos, celestes.
-
-Super Saiyajin Blue.
-
-Pero no se parece al de ellos.
-
-El suelo que Whis reforzó, ese suelo de venas de luz celeste más duro que cualquier cosa, se hunde un palmo bajo tus botas. Las venas de luz se apagan y se vuelven a encender, como un corazón que se salta un latido. En el borde de la explanada, la taza que Whis tenía entre las manos tiembla, y el té salta por el borde. Los tres soles, que estaban saliendo por el horizonte, parecen quedarse quietos un instante.
-
-Nadie siente nada. Ni Vegeta, ni Goku, ni Whis. El azul no se siente. Pero todos lo ven.
-
-Vegeta está quieto en el centro de la explanada. En azul también. Con los puños todavía levantados.
-
-Ya no está en guardia. Te mira el pelo azul, los ojos celestes, el aura tranquila. Te mira como quien mira un espejo que le devuelve una cara que no es la suya.
-
-—Eso... —dice. Se le quiebra la voz—. Eso es el azul. El nuestro. El que hicimos anoche.
-
-Detrás de la roca, Goku sale del todo, de pie, con la boca abierta.
-
-—¡¿Facundo?! ¡¿Tú también eres saiyajin?!
-
-Vegeta no le contesta. No le saca los ojos de encima a tu aura. Le tiembla la mandíbula.
-
-—No tienes cola —dice, muy bajo—. No tienes sangre saiyajin. Lo sabría. —Aprieta los puños—. ¡¿Qué demonios eres?!
-
-En su silla de playa, Whis deja la taza en el suelo, despacio, al lado de Kase. Se seca los dedos con un pañuelo. Y por primera vez desde que lo conoces, no sonríe. Solo mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1563 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada de entrenamiento · amanecer        ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ SUPER SAIYAJIN BLUE (x2.000)                 ║
-║ Velo: el ki divino no se siente              ║
-║ Kase: junto a la silla de Whis, mirando      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Vegeta (SSJ Blue)        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1564)
+## COMANDO 1 (T1564)
 
 ven vegeta atacame
 
-## RESPUESTA 2 (T1564)
+## RESPUESTA 1 (T1564)
 
 > ven vegeta atacame
 
@@ -119,11 +54,11 @@ El primer puño está a un palmo de tus costillas.
 
 ---
 
-## COMANDO 3 (T1565)
+## COMANDO 2 (T1565)
 
 lo detengo con los dedos
 
-## RESPUESTA 3 (T1565)
+## RESPUESTA 2 (T1565)
 
 > lo detengo con los dedos
 
@@ -176,4 +111,73 @@ Esta vez no a cinco pasos. A uno.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Facundo (SSJ Blue) frenó a Vegeta con dos dedos. Vegeta, con rabia, carga un Final Flash azul a un paso: "¡FINAL...!" Facundo puede reaccionar.
+## COMANDO 3 (T1566)
+
+dejo que me lo pegue
+
+## RESPUESTA 3 (T1566)
+
+> dejo que me lo pegue
+
+Bajas la mano. No levantas la guardia. Te quedas parado en el fondo del cráter, en azul, y lo dejas.
+
+—¡...FLASH!
+
+El Final Flash sale de las manos de Vegeta a un paso de tu pecho.
+
+No es amarillo como en la cámara de gravedad. Es azul. Un río de luz azul, ancho, denso, silencioso, que te llega de lleno y te envuelve entero y sigue de largo detrás de ti, por encima de la explanada, partiendo el aire, hasta chocar contra una de las montañas que apuntan para los costados. La montaña no explota. Se borra, de la mitad para arriba, y el pedazo que queda se queda humeando, con el corte liso como un vidrio.
+
+El suelo de Whis aguanta. Apenas. Las venas de luz de toda la explanada se apagan de golpe, todas a la vez, y tardan un rato en volver a encenderse.
+
+Durante unos segundos no se ve nada. Solo luz azul, y humo, y el silbido del aire que vuelve a llenar el lugar donde estuvo la luz.
+
+El humo se va despacio.
+
+Sigues ahí. De pie. En el mismo lugar del cráter, con los brazos a los costados.
+
+El sobretodo negro está deshecho del pecho para abajo, quemado en tiras que cuelgan, humeando. La camisa, rota en el pecho, deja ver la cicatriz diagonal y los dragones tatuados. Tienes la cara caliente, las manos calientes, el pelo azul todavía en punta.
+
+Y en la mejilla izquierda, debajo de la cicatriz del ojo, un corte. Chiquito. Fino. Del que te cae una sola gota de sangre, despacio, hasta la mandíbula.
+
+Vegeta lo ve.
+
+Tiene las manos todavía adelante, abiertas, humeando. El aura azul se le apaga. El pelo se le cae, negro. Las piernas no le dan más, y se le doblan, y cae de rodillas al borde del cráter, sin aire, empapado de sudor, con los brazos colgando.
+
+Pero no deja de mirarte la mejilla.
+
+La gota de sangre te llega a la mandíbula. Se cae.
+
+Vegeta se ríe.
+
+No es la risa rota de la cámara de gravedad. Es otra. Baja, ronca, cansadísima, y contenta. Se le escapa por la nariz, y después por la boca, y se le sacuden los hombros.
+
+—Sangre —dice—. Te hice sangrar.
+
+Se queda así, de rodillas, riéndose solo, con la cabeza gacha y los puños apoyados en el piso.
+
+—Una gota. —Levanta la cabeza. Tiene los ojos negros brillantes, húmedos—. Una gota, maldito. Pero es mía.
+
+[Duelo con un compañero vencido: Vegeta.]
+
+[+25.000 Fragmentos.]
+
+[+6.000 EXP.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1566 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada de entrenamiento · amanecer        ║
+║ NIVEL 30 · EXP 355.130/360.000               ║
+║ FRAGMENTOS 214.243 · 0 zeni                  ║
+║ Energía 98% · Ojos: bien · corte en mejilla  ║
+║ SUPER SAIYAJIN BLUE (x2.000)                 ║
+║ Velo: el ki divino no se siente              ║
+║ Kase: junto a la silla de Whis, mirando      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Goku quiere su duelo en azul       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Facundo recibió el Final Flash azul (un corte en la mejilla). Vegeta, de rodillas, feliz: "Te hice sangrar. Pero es mía." Duelo ganado (+25.000 F, +6.000 EXP). Goku quiere su duelo. Facundo puede actuar.
