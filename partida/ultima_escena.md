@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1702)
-
-si, lo note
-
-## RESPUESTA 1 (T1702)
-
-> si, lo note
-
-> —Sí, lo noté.
-
-Aki asiente una sola vez, despacio, sin dejar de mirar la puerta.
-
-—Bien. —Se suelta el nudo de la corbata con dos dedos—. No sé quiénes son. Puede que sean de Kioto de verdad y que el de anteojos sea un tipo raro, nada más. Hay muchos tipos raros en Seguridad Pública. —Te mira de reojo—. Hay muchos tipos raros esta noche.
-
-Saca la radio del cinturón, la mira y la deja sobre la cómoda, al lado del televisor, con el volumen bajo.
-
-—No voy a llamar a la central desde acá. Si son lo que creo, la línea la escuchan. Y si me equivoco, quedo como un paranoico delante de Kioto. —Se pasa una mano por el pelo, se acomoda el rodete—. Así que hacemos guardia. Por turnos. Tú y yo. Denji se duerme en cinco minutos y no lo despierta ni una bomba. Power... —Mira a Power, que está construyendo un fuerte de almohadas en la cama del medio con muchísima concentración—. Power es Power. Y Kobeni... —Mira a Kobeni en el rincón, que ya tiene el cuchillo en la mano otra vez, apuntando a la puerta con las dos manos—. Kobeni no va a dormir en toda la noche de todas maneras.
-
-Se queda callado un momento. Después baja todavía más la voz.
-
-—Lo de la avenida. Los cuarenta y seis. —Te mira de frente, por primera vez desde que entraron—. Si esos dos intentan algo, ¿puedes hacer lo mismo? ¿Así de rápido?
-
-En la tele, el conductor del programa de preguntas pregunta cuál es la capital de Australia. Denji grita "¡Australia!" con toda la seguridad del mundo. Power le tira una almohada.
-
-Y alguien golpea la puerta.
-
-Tres golpes suaves, educados, con los nudillos.
-
-—Disculpen. —La voz de Kurose, del otro lado, amable—. Les traemos las mantas extra. Y unos sándwiches y té, si tienen hambre. Son cortesía de la oficina.
-
-Denji se sienta en la cama de un salto.
-
-—¡¿Sándwiches?!
-
-Aki se queda quieto, con la mano a medio camino de la katana. Te mira a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1702 · CHAINSAW MAN · DÍA 1 · 20:52    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, habitación 604               ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1703)
+## COMANDO 1 (T1703)
 
 uso el ki para sentirlos
 
-## RESPUESTA 2 (T1703)
+## RESPUESTA 1 (T1703)
 
 > uso el ki para sentirlos
 
@@ -105,11 +52,11 @@ Del otro lado, Kurose vuelve a golpear. Tres golpes, igual de suaves.
 
 ---
 
-## COMANDO 3 (T1704)
+## COMANDO 2 (T1704)
 
 me teletransporto atras de ellos y los dejo inconscientes y despues al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
 
-## RESPUESTA 3 (T1704)
+## RESPUESTA 2 (T1704)
 
 > me teletransporto atrás de ellos y los dejo inconscientes y después al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
 
@@ -172,4 +119,59 @@ Denji no mira a los asesinos. Mira la bandeja.
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:53, pasillo del 6.º piso. Facundo desapareció de la 604 (Teletransportación, vista por Aki, Kobeni, Denji y Power), dejó inconscientes a "Kurose" y "Tendo" y al tercero del 5.º (escopeta al inventario); los tres sentados contra la pared. Bandeja intacta en el piso (revólver recortado pegado debajo). Costura de piel visible en la mandíbula de Kurose. Aki abrió: "Desapareciste. Estabas acá. A un paso." Levanta la barbilla de Kurose con la katana y ve la costura. Power: "¡Power te lo dijo!" Denji: "¿Los sándwiches se pueden comer igual?" (+15 Frag).
+## COMANDO 3 (T1705)
+
+si, se pueden comer
+
+## RESPUESTA 3 (T1705)
+
+> si, se pueden comer
+
+> —Sí, se pueden comer.
+
+Denji no espera ni un segundo más. Se tira de rodillas en la alfombra al lado de la bandeja, agarra dos sándwiches a la vez, uno en cada mano, y muerde los dos.
+
+—¡Son de huevo! —anuncia, con la boca llena—. ¡Y este es de jamón! ¡Con mayonesa! ¡Con mayonesa de verdad!
+
+Power cruza la puerta como un rayo, le arranca el de jamón de la mano, le da un mordisco enorme y se lo devuelve babeado. Denji lo mira, lo piensa, y se lo come igual.
+
+—¡Power se ganó los sándwiches! —dice ella, con la boca llena, apuntándote con un dedo con migas—. ¡Porque Power descubrió a los malos! ¡Así que la mitad son de Power!
+
+—¡Tú solo dijiste que olía raro!
+
+—¡Eso es descubrir!
+
+Kobeni no se mueve de la puerta. Mira a los tres de la pared. Mira los sándwiches. Mira a Denji comiendo al lado de un asesino dormido. Se pone verde.
+
+Aki se levanta despacio. Envaina la katana. Sigue mirando la costura en la mandíbula de Kurose, con la cara de piedra.
+
+—Piel —dice, en voz baja, para nadie—. Les sacaron la piel. A los de Kioto. Y se la pusieron.
+
+Se da vuelta. Va hasta la cómoda de la 604, agarra la radio y la prende. La estática llena el pasillo. Pero antes de apretar el botón para hablar, se detiene. Te mira.
+
+No es la mirada de antes, la de desconfianza. Es otra. La de alguien que hace una cuenta y no le cierra.
+
+—Antes de abrir la puerta, ya sabías. —No lo pregunta—. Sabías que eran ellos. Sabías dónde estaba el tercero, un piso más abajo, sin verlo. —Aprieta la radio en la mano—. Así que te voy a preguntar una sola cosa, y después llamo a la central.
+
+Baja la voz.
+
+—¿Hay más?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1705 · CHAINSAW MAN · DÍA 1 · 20:55    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:55, pasillo del 6.º piso. Los sándwiches están bien (declarado). Denji y Power comen (huevo, jamón con mayonesa; Power reclama la mitad). Kobeni verde. Aki entiende lo de las pieles ("Les sacaron la piel a los de Kioto y se la pusieron"). Con la radio prendida, antes de llamar: "Antes de abrir la puerta, ya sabías. Sabías dónde estaba el tercero sin verlo. ¿Hay más?" (Facundo sabe de los dos cadáveres bajo el mostrador del lobby.)

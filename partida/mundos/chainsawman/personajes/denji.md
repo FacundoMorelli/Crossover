@@ -21,3 +21,4 @@ ENCUENTROS:
 - T1701 · "¡Una pijamada! ¡Nunca hice una pijamada! ¡Facundo, ven! ¡Trae al gato!" Prende la tele.
 - T1702 · Contesta "¡Australia!" a la capital de Australia. Salta al oír "sándwiches".
 - T1704 · VIO a Facundo desaparecer. "¿Los sándwiches se pueden comer igual?"
+- T1705 · Come sándwiches de huevo y de jamón con mayonesa junto a los asesinos dormidos ("¡Con mayonesa de verdad!"). Se come igual el que Power babeó.

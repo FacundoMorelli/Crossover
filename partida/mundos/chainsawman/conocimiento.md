@@ -38,3 +38,4 @@ Quién sabe qué de Facundo en este mundo.
 
 ## QUIÉN VIO QUÉ PODERES (cont.)
 - T1704 · AKI, POWER, DENJI y KOBENI: Facundo desaparece y aparece en otro lugar al instante (Teletransportación), y deja inconscientes a tres asesinos sin ruido.
+- T1705 · AKI dedujo: los impostores llevan la piel de los Kurose y Tendo reales; Facundo sabía antes de abrir y supo dónde estaba el tercero sin verlo.
