@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1476)
-
-me dejas usarla? la uso y hago caballito con la moto
-
-## RESPUESTA 1 (T1476)
-
-> me dejas usarla? la uso y hago caballito con la moto
-
-> —¿Me dejas usarla?
-
-Levi te mira desde el asiento. Mira la moto. Mira el manubrio, que todavía tiene agarrado con las dos manos.
-
-Tarda bastante.
-
-—Es tuya —dice al fin, y se baja, despacio, como quien deja algo que le costó mucho conseguir—. Pero si la rompes, te mato. Y queda medio frasco. No lo gastes en idioteces.
-
-Te subes.
-
-El asiento todavía está tibio. El motor vibra debajo de ti, parejo, grave, como un animal grande que respira. Kase sale del seto, te mira, mira la moto, y decide que no, que hoy no, y se sube a la canasta de manzanas de Ymir.
-
-Aceleras.
-
-La moto sale disparada por el patio, levantando grava. Hange grita. Das una vuelta, rápida, cerrada, rozando los barriles. Otra, más rápida. El viento te tira el pelo blanco y azul para atrás, el sobretodo se te infla en la espalda. En las ventanas del ala este ya no hay solo cabezas: hay gente asomada hasta la cintura, sirvientas, guardias, un cocinero con un cucharón en la mano.
-
-En la recta frente al galpón, tiras del manubrio y le das toda la potencia.
-
-La rueda de adelante se levanta del suelo.
-
-La moto sigue andando sobre una sola rueda, con la otra en el aire, de punta a punta del patio, con el motor rugiendo como nunca rugió nada en esa isla. Pasas frente a Hange, que se queda con los brazos en alto y la boca abierta y sin sonido. Pasas frente a Levi, que no cambia la cara, pero da medio paso atrás. Pasas frente a Ymir, que se tapa la boca con la mano libre.
-
-La rueda baja. Toca la grava. La moto se sacude una vez y sigue derecha.
-
-Frenas en medio del patio, de costado, dejando un arco de grava en el suelo.
-
-Hay un silencio de un segundo.
-
-Después, desde las ventanas, alguien empieza a aplaudir. Y después todos. Los guardias, las sirvientas, el cocinero del cucharón. Alguien grita "¡El del gato!" y otro contesta "¡Es el del gato!", y el aplauso se hace más fuerte.
-
-—¡Hizo que el caballo de metal se parara en dos patas! —grita Hange, y se le quiebra la voz de pura felicidad—. ¡Levi! ¡¿Viste eso?! ¡En dos patas!
-
-—Una pata —dice Levi—. Y si la hubiera roto, lo mataba.
-
-Ymir se acerca, con Kase sentado muy digno encima de las manzanas. Se para al lado de la moto. Te mira de arriba abajo, con la ceja levantada y las orejas coloradas otra vez.
-
-—Presumido —dice.
-
-Y desde un balcón del segundo piso, el más grande, con una bata blanca sobre los hombros y el pelo rubio suelto, todavía sin peinar, se asoma una chica pequeña, de ojos azules, que se apoya con las dos manos en la baranda y mira el patio con la cara de quien se acaba de despertar por un ruido que nunca había oído.
-
-Te ve.
-
-—¿Facundo? —dice Historia.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1476 · SHINGEKI · DÍA 119 · 07:30      ║
-║ Mitras · patio del ala este del palacio      ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en la canasta de manzanas de Ymir      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ver qué hicieron con lo que les    ║
-║ dio · algo de este mundo para Robin          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1477)
+## COMANDO 1 (T1477)
 
 hola historia, como estas?
 
-## RESPUESTA 2 (T1477)
+## RESPUESTA 1 (T1477)
 
 > hola historia, como estas?
 
@@ -127,11 +58,11 @@ Se da vuelta para entrar. Se detiene en la puerta del balcón y te mira por enci
 
 ---
 
-## COMANDO 3 (T1478)
+## COMANDO 2 (T1478)
 
 muchas gracias reina, voy a desayunar simula hasta que llegue erwin
 
-## RESPUESTA 3 (T1478)
+## RESPUESTA 2 (T1478)
 
 > muchas gracias reina, voy a desayunar simula hasta que llegue erwin
 
@@ -190,4 +121,55 @@ Te tiende la mano.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 09:00, salón de Historia. Desayuno con Historia, Frieda e Ymir. Erwin llega con los informes de la expedición de Eren y le tiende la mano: "Bienvenido, Facundo." Facundo puede actuar.
+## COMANDO 3 (T1479)
+
+muchas gracias erwin
+
+## RESPUESTA 3 (T1479)
+
+> muchas gracias erwin
+
+> —Muchas gracias, Erwin.
+
+Erwin te aprieta la mano. Fuerte, firme, igual que en Shiganshina. La sostiene un segundo más de lo necesario.
+
+Después se sienta a la mesa, en la punta, frente a Historia. Una sirvienta le sirve té sin que lo pida. Él no lo toca. Abre la carpeta de cuero con una sola mano, con la práctica de quien lleva años haciéndolo así, y desparrama algunas hojas sobre el mantel, entre el pan y la miel.
+
+Mapas. Mapas de verdad, impresos en Marley, con costas, ríos, montañas y nombres de países que nadie en esa isla había oído hace tres meses. Una lista de nombres escrita a mano. Un dibujo de un barco de vapor, con medidas.
+
+—Zarpan en diez días desde el puerto nuevo de la costa este —dice—. El barco es de Marley: lo ofreció el general Magath, con tripulación propia. Van Eren, Mikasa, Armin, Jean, Connie, Sasha y doce soldados más de la Legión. Seis meses, primero. Marley, después el sur, el desierto. Si todo sale bien, Hizuru. —Pone un dedo sobre un punto del mapa—. La señora Azumabito los espera allá.
+
+Historia lee la lista de nombres. Frieda mira el mapa con los ojos muy abiertos, siguiendo una costa con el dedo. Ymir se roba otra tostada.
+
+Erwin se reclina en la silla.
+
+—Hace un año, todo lo que yo quería en el mundo era bajar a un sótano en Shiganshina para saber la verdad. —Lo dice en voz baja, mirando el mapa—. Ahora tengo la verdad, un mundo entero allá afuera, y una pila de informes sobre cuántas raciones de galleta caben en un barco de vapor.
+
+Se le escapa una risa corta.
+
+Después te mira. Con esa mirada suya, la de comandante, la que pesa las cosas antes de decirlas.
+
+—Usted conoce el mundo de allá afuera mejor que cualquiera en esta isla. Mejor que yo, mejor que Hange, mejor que cualquiera que haya nacido detrás de las murallas. —Pone la mano sobre el mapa—. Voy a mandar a esos chicos a lugares que nunca vimos. No le voy a pedir que vaya con ellos. Pero le voy a preguntar una cosa, y quiero que me conteste como le contestaría a un soldado.
+
+Una pausa.
+
+—¿Hay algo allá afuera de lo que tenga que protegerlos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1479 · SHINGEKI · DÍA 119 · 09:04      ║
+║ Mitras · palacio · salón de Historia         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: comiendo huevo en la mesa              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Erwin y los informes de la         ║
+║ expedición · algo de este mundo para Robin   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 09:04, salón de Historia. Erwin explicó la expedición y pregunta: "¿Hay algo allá afuera de lo que tenga que protegerlos?" Facundo puede responder.

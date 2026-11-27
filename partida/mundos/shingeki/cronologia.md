@@ -127,3 +127,4 @@
 - Días 66-119 · (T1473) Barcos de Marley semanales (trigo, carbón, telas); puerto en construcción en la costa este (donde apareció el dragón). Barco de Hizuru con Kiyomi. Hange capta música de Marley por radio. Eren, Mikasa, Armin y medio escuadrón zarparán al continente el Día ~129.
 - Día 119 07:25 · (T1475) Con la explicación de Facundo (fracción liviana del destilado; bujía limpia), la moto arranca. Levi da tres vueltas al patio del ala este ante medio palacio.
 - Día 119 07:35-09:00 · (T1478) Desayuno en el salón de Historia con Frieda e Ymir. 09:00 llega Erwin con los informes de la expedición de Eren.
+- (Plan, T1479) Día ~129: zarpa la expedición de la Legión al continente en un barco de vapor de Marley (Magath): Eren, Mikasa, Armin, Jean, Connie, Sasha + 12 soldados; 6 meses (Marley, el sur, el desierto, Hizuru).

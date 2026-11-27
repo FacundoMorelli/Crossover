@@ -214,3 +214,4 @@
 - Facundo · T1477 · Por Historia: medio millón de revividos en Wall Maria; Frieda la ayuda; nadie murió de hambre este mes; Erwin trae a las 9 los informes de la expedición de Eren.
 - Frieda Reiss · T1478 · Por Historia: mucho sobre Facundo (los deseos, la paz). Lo conoce en persona en el desayuno.
 - Erwin · T1478 · Por rumores del palacio: la moto anduvo y Facundo volvió.
+- Facundo, Historia, Frieda, Ymir · T1479 · Por Erwin: detalles de la expedición al continente.
