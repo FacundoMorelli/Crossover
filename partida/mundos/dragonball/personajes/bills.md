@@ -28,3 +28,4 @@ RELACIÓN CON FACUNDO (T1522): interés (el gato, el pudín).
 RELACIÓN CON FACUNDO (T1531): simpatía; lo recuerda como el que le da de comer. ESTADO: de vuelta a su planeta.
 - T1550 · Dormido en lo alto de su pirámide; ronca (ruido grave, como un motor viejo).
 - T1551 · Se despierta (bostezo que calla a los pájaros), sale en ropa de dormir, ve a Facundo y aparece delante de él, a un palmo: "El del bolsillo. Viniste." "Huele a pudín."
+- T1552 · Come un pudín sentado en el suelo en ropa de dormir: "Esto es lo mejor de despertarse." Levanta una ceja al ver el azul de Goku.

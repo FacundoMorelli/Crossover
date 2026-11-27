@@ -135,3 +135,4 @@
 - Whis · T1547 · Sabe que Facundo come en casa de los Son; transmite la invitación de Bills.
 - Bulma, Trunks · T1547 · Ven a Vegeta desmayado tras entrenar con Facundo.
 - Milk, Goten, Gohan, Videl · T1548 · Ven a Facundo irse con Whis, Goku y Vegeta al planeta de Bills.
+- Goku, Vegeta, Whis, Bills · T1552 · Por Facundo: la idea de combinar el ki divino con el SSJ. Whis nota que es justo lo que pensaba enseñar.

@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1549)
-
-le doy un pudin
-
-## RESPUESTA 1 (T1549)
-
-> le doy un pudin
-
-[Compra: pudín igual al de la fiesta (caja de seis). 1 Fragmento.]
-
-Metes la mano en el bolsillo del sobretodo, con la que no tienes apoyada en la espalda de Whis, y sacas un pudín. Frío, temblando en su vasito, con el caramelo brillando a la luz de las galaxias que pasan.
-
-Se lo das.
-
-Whis lo recibe con la mano libre, con una delicadeza enorme, como quien recibe una flor.
-
-—Ah, Facundo-san. Es usted un caballero.
-
-Se lo come sin soltar el báculo, despacio, en cuatro cucharadas, con los ojos cerrados. La burbuja ni se tambalea. Afuera pasa una nebulosa violeta del tamaño de mil planetas y nadie la mira.
-
-Goku sí mira. El pudín. Se le va la vista detrás de cada cucharada como a un perro detrás de un hueso.
-
-—Oye... —dice—. ¿Eso es el pudín? ¿El de la fiesta? ¿El que se comió el señor Bills?
-
-—El mismo, Goku-san —dice Whis, raspando el fondo del vasito con la cuchara.
-
-—Ayer no alcancé a probarlo. —Goku se toca la panza, que gruñe tan fuerte que se oye por encima del zumbido de la burbuja—. Estaba dormido cuando lo repartieron. Y después me desmayaron. Y después fui Super Saiyajin Dios. Y después... —Te mira, con los ojos enormes—. Facundo. ¿Tienes otro?
-
-Vegeta, del otro lado de la espalda de Whis, mira para adelante, hacia las estrellas, con un brazo cruzado sobre el pecho, porque el otro lo tiene apoyado en Whis. Muy serio. Muy digno.
-
-Pero tampoco le saca los ojos de encima al bolsillo de tu sobretodo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1549 · DRAGON BALL · DOMINGO · 20:50   ║
-║ Espacio · burbuja de viaje de Whis           ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.244 · 0 zeni                  ║
-║ Energía 70% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, con las uñas clavadas    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Viajar al planeta de Bills ·       ║
-║ quedan 5 pudines                             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1550)
+## COMANDO 1 (T1550)
 
 les doy a los dos
 
-## RESPUESTA 2 (T1550)
+## RESPUESTA 1 (T1550)
 
 > les doy a los dos
 
@@ -121,11 +72,11 @@ Whis se da vuelta hacia ti. Te mira, con la cabeza ladeada y una sonrisa curiosa
 
 ---
 
-## COMANDO 3 (T1551)
+## COMANDO 2 (T1551)
 
 voy a mirar mientras
 
-## RESPUESTA 3 (T1551)
+## RESPUESTA 2 (T1551)
 
 > voy a mirar mientras
 
@@ -184,4 +135,73 @@ Olfatea el aire. Una vez. Dos.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Facundo miró el entrenamiento con Whis. Bills se despertó y está inclinado frente a él: "El del bolsillo. Viniste. Huele a pudín." Quedan 3 pudines. Facundo puede actuar.
+## COMANDO 3 (T1552)
+
+le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
+
+## RESPUESTA 3 (T1552)
+
+> le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
+
+Metes la mano en el bolsillo y sacas un pudín. Se lo pones en la mano a Bills.
+
+Bills se sienta en el suelo, ahí mismo, con las piernas cruzadas, en ropa de dormir, y se lo come con los ojos cerrados y la cola moviéndose sola detrás de él. Sin hablar. Sin respirar casi. Cuando termina, lame el vasito por dentro.
+
+—Esto es lo mejor de despertarse —dice, a nadie.
+
+En ese momento pasan Goku y Vegeta corriendo, a veinte metros, con los caparazones en la espalda, empapados de sudor, en la vuelta número no se sabe cuánto.
+
+> —¡Goku! ¿Probaste combinar el modo dios con el Super Saiyajin?
+
+Goku frena en seco. Vegeta, detrás, se lo lleva puesto, y los dos caen al suelo con un estruendo de piedra.
+
+—¿Eh? —Goku se sienta debajo del caparazón, con la cara llena de tierra—. ¿Combinar?
+
+Se queda pensando. Se le arruga la frente. Se mira las manos.
+
+—Desde ayer tengo algo adentro —dice, despacio—. Del rojo. No se fue. Está ahí, tranquilo, como agua quieta. —Cierra los puños—. Y el Super Saiyajin es como un fuego. —Te mira—. ¿Juntar el agua con el fuego?
+
+Se desata el caparazón. Se pone de pie. Cierra los ojos.
+
+Grita, como siempre, y el pelo se le pone dorado de golpe, con el aura amarilla rugiendo. Después deja de gritar. Respira. Se queda quieto, muy quieto, con los ojos cerrados, buscando algo adentro.
+
+El aura amarilla parpadea.
+
+Durante un segundo, uno solo, le cambia el color. Se le vuelve azul. Un azul claro, como el cielo de un día limpio. El pelo también, un instante, se le pone azul, en punta, brillante.
+
+Y se apaga todo de golpe. Goku cae sentado al suelo, sin aire, con el pelo negro otra vez y los ojos enormes.
+
+—¡Guau! —jadea—. ¡¿Vieron eso?! ¡Fue azul! ¡Por un segundo fue azul!
+
+Vegeta, todavía en el suelo con el caparazón encima, se quedó con la boca abierta. Después la cierra. Aprieta los dientes. Se desata las correas con una violencia innecesaria.
+
+—Kakarotto otra vez —murmura—. Siempre Kakarotto.
+
+Y se pone a intentarlo él también, en silencio, de espaldas a todos.
+
+Bills, sentado en el suelo con el vasito vacío, levanta una ceja.
+
+Whis, en la silla de playa, deja el vaso de jugo en la mesita, al lado de Kase dormido. Despacio. Se queda mirando a Goku un momento, con la cabeza un poco ladeada. Después gira la cabeza hacia ti.
+
+Ya no tiene la sonrisa amable de siempre. Tiene otra, más fina, más atenta.
+
+—Vaya, Facundo-san —dice, muy suave—. Eso es exactamente lo que yo pensaba enseñarles. Dentro de unos meses. —Inclina la cabeza—. ¿Cómo se le ocurrió?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1552 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · sillas de playa         ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.244 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en la mesita                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenamiento en el planeta de     ║
+║ Bills · quedan 2 pudines                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Goku logró un segundo de SSJ Blue con la idea de Facundo; Vegeta lo intenta. Whis: "¿Cómo se le ocurrió?" Bills comió un pudín (quedan 2). Facundo puede responder.

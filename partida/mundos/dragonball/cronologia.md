@@ -80,3 +80,4 @@
 - Domingo 20:45 · (T1548, canon) Whis se lleva a Goku y a Vegeta al planeta de Bills a entrenar; Facundo y Kase van con ellos.
 - Domingo ~21:15 · (T1550, canon) Llegan al planeta de Bills. Whis empieza el entrenamiento de Goku y Vegeta (correr con caparazones de piedra).
 - (T1551, canon) Primeras horas de entrenamiento de Goku y Vegeta con Whis en el planeta de Bills (caparazones; moverse sin pensar). Bills se despierta.
+- (T1552) Por sugerencia de Facundo, Goku logra un segundo de SSJ Blue la primera noche (cambio: aceleración del canon). Vegeta empieza a intentarlo.

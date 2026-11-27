@@ -1550,3 +1550,4 @@ T1548 · DRAGON BALL · Monte Paoz → espacio · Acepta ir al planeta de Bills.
 T1549 · DRAGON BALL · Burbuja de Whis · Pudín para Whis (caja nueva, quedan 5). Goku: "¿Tienes otro?" Vegeta mira el bolsillo.
 T1550 · DRAGON BALL · Planeta de Bills · Pudines a Goku y Vegeta (quedan 3). Llegan al planeta de Bills; Bills ronca. Whis pone a Goku y Vegeta a correr con caparazones gigantes. "Facundo-san, ¿viene a entrenar o a esperar a Bills con el pudín?"
 T1551 · DRAGON BALL · Planeta de Bills · Mira el entrenamiento desde una silla de playa con Whis. Goku y Vegeta corren con caparazones. Bills se despierta: "El del bolsillo. Viniste. Huele a pudín."
+T1552 · DRAGON BALL · Planeta de Bills · Pudín a Bills (quedan 2). Le sugiere a Goku combinar el ki divino con el SSJ: un segundo de azul. Vegeta lo intenta. Whis: "Eso pensaba enseñarles dentro de meses. ¿Cómo se le ocurrió?"
