@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1661)
-
-es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
-
-## RESPUESTA 1 (T1661)
-
-> es, algo complicado de explicar, digamos que no necesito nada de eso nada mas por ahora
-
-> —Es algo complicado de explicar. Digamos que no necesito nada de eso, nada más, por ahora.
-
-La madre de Erasa no dice nada durante un segundo largo.
-
-Te mira. Mira la camisa cara. El aerodeslizador rojo en la vereda. Los aros plateados. Vuelve a tus ojos, primero el rojo, después el azul, y algo se le mueve detrás de la sonrisa, como un cajón que se abre y se cierra.
-
-—Complicado de explicar —repite—. No necesitas nada. Por ahora.
-
-—Mamá...
-
-—Ya sé, ya sé. —Levanta la mano libre, sin darse vuelta hacia su hija—. No pregunto más. En la puerta, no pregunto más.
-
-Se hace a un lado y te deja pasar. Cuando pasas a su lado, la oyes murmurar, más para sí misma que para ti: "Herencia. O lotería. O algo peor". Y después, más alto, otra vez amabilísima:
-
-—¡Pasa, pasa! Ponte cómodo. El gato también. —Mira a Kase cruzar el umbral como si la casa fuera suya—. Hay una almohadita junto al sillón, la compró Erasa esta mañana, no me preguntes por qué.
-
-—¡MAMÁ!
-
-—Lo hablamos en la mesa —termina la madre, ya caminando hacia la cocina con la caja de bombones bajo el brazo—. Cinco minutos. Lávense las manos.
-
-Desaparece detrás de una puerta vaivén. Se oye el horno abriéndose, una bandeja, una cuchara que golpea una olla.
-
-La casa por dentro es chica, tibia y llena de cosas: fotos de Erasa de todas las edades en todas las paredes, una vitrina con imanes horribles de aeropuerto, un sillón floreado con una almohadita nueva, todavía con la etiqueta, en el piso. Kase va directo a la almohadita, la huele, arranca la etiqueta con los dientes y se echa encima.
-
-Erasa se calza la otra sandalia a los saltos, apoyándose en tu brazo. Después te agarra la mano y te arrastra hasta el pie de la escalera, lejos de la puerta de la cocina. Tiene la cara roja como un tomate.
-
-—Perdón —susurra—. Perdón, perdón, perdón. Te dije que preguntaba mucho. Pero no tanto. Nunca le hizo eso a nadie en la puerta.
-
-Mira hacia la cocina. Baja todavía más la voz.
-
-—Ahora va a pensar que eres un mafioso. O un príncipe. Ella siempre piensa una de las dos cosas. —Te mira, muy cerca, con los ojos celestes muy abiertos—. No eres ninguna de las dos, ¿no?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1661 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, pie de la escalera · 20:04    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1662)
+## COMANDO 1 (T1662)
 
 no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
 
-## RESPUESTA 2 (T1662)
+## RESPUESTA 1 (T1662)
 
 > no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
 
@@ -115,11 +59,11 @@ Erasa la mira con los ojos entrecerrados, desconfiando.
 
 ---
 
-## COMANDO 3 (T1663)
+## COMANDO 2 (T1663)
 
 no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
 
-## RESPUESTA 3 (T1663)
+## RESPUESTA 2 (T1663)
 
 > no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
 
@@ -169,4 +113,58 @@ Todavía no tocaste el pollo.
 
 ---
 
-ESTADO AL CIERRE: martes 20:13, cena en la cocina comedor. Facundo dijo que tal vez tarde semanas, que volverá a visitarla, que la llevaría si pudiera pero no se puede. Erasa, ojos rojos y sonrisa chica: "Yo no te pedí que me llevaras." La mamá se ablanda un poco (el papá le prometió quedarse y a los tres meses viajaba): "Por lo menos tú no mientes. Eso es algo." "Coman. Pruébalo bien, es la receta de mi madre." Las dos esperan que Facundo pruebe el pollo.
+## COMANDO 3 (T1664)
+
+lo pruebo y le digo que me encanta
+
+## RESPUESTA 3 (T1664)
+
+> lo pruebo y le digo que me encanta
+
+Cortas un pedazo de pechuga y lo pruebas.
+
+La piel cruje. Adentro, la carne está tierna y jugosa, con gusto a romero, a ajo, a limón y a algo más que no terminas de reconocer, algo de otra época, de cocina de abuela. Las papas están doradas por fuera y se deshacen por dentro.
+
+Le dices que te encanta.
+
+La madre de Erasa te mira un segundo más, buscándote la mentira en la cara. No la encuentra.
+
+Se le escapa una sonrisa. No la amable de la puerta: otra, más chica y más verdadera, que se le borra enseguida porque ella misma la borra.
+
+—Hm. —Corta su pollo, por fin, con la nariz un poco levantada—. Claro que te encanta. Es la receta de mi madre. Lo raro sería que no.
+
+—Dijo que le encanta, mamá —dice Erasa, con la boca llena y los ojos brillando—. ¡Le encanta! ¡Y no está mintiendo, se le nota!
+
+—Ya escuché, ya escuché.
+
+Pero te sirve otra papa sin que la pidas. Y después otra.
+
+La cena se afloja. La madre come y habla, y cuando habla ya no pregunta como en la puerta: cuenta. Cuenta que Erasa de chica quería ser azafata para conocer el mundo y que se mareaba en el ascensor. Que una vez, a los ocho, se escapó de la casa con una valija con ruedas y llegó hasta la esquina del buzón del pato, y volvió porque se le había olvidado el oso. Que en la preparatoria estaba enamorada de un chico que después resultó ser Gran Saiyaman. Erasa se tapa la cara con la servilleta y grita "¡Mamá!" cada tres frases. Debajo de la mesa no suelta tu pie.
+
+En la sala, Kase se levanta de la almohadita, entra en la cocina como si nada, pasa entre las patas de las sillas y se sienta al lado de la madre de Erasa. La mira. Ella lo mira. Sin decir una palabra, le corta un pedacito de pollo sin piel, lo sopla y se lo pone en un platito en el piso. Kase lo come con elegancia. Después vuelve a la sala.
+
+—Tiene buenos modales tu gato —dice ella, limpiándose los dedos con la servilleta—. Mejores que los de muchas personas.
+
+Se sirve un poco más de agua. Te mira por encima del vaso, con la cabeza inclinada, como quien acaba de acordarse de algo importante.
+
+—Oye, querido. Una cosa más, y no es fea, te lo prometo. —Deja el vaso—. ¿Cuántos años tienes? Porque con esa cara y ese pelo no te puedo calcular.
+
+Erasa deja de masticar.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1664 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 20:35        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:35, cena en la cocina comedor. A Facundo le encantó el pollo (de verdad); la mamá se ablanda, le sirve más papas, cuenta anécdotas de Erasa (quería ser azafata y se mareaba en el ascensor; se escapó a los 8 hasta la esquina y volvió por el oso; enamorada en la preparatoria de un chico que resultó ser Gran Saiyaman). Le dio pollo a Kase ("buenos modales"). Pregunta: "¿Cuántos años tienes? Con esa cara y ese pelo no te puedo calcular." Erasa deja de masticar. (Facundo tiene 18; Erasa ~21-22.)
