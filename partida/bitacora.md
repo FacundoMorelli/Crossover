@@ -1658,3 +1658,4 @@ T1656 · DRAGON BALL · Calle de los Tilos 14 · "Ahora ve, antes de que tu madr
 T1657 · DRAGON BALL · Capital del Oeste · SIMULACIÓN sáb→lun. Bills y Whis se van. Cita del domingo con Erasa (panqueques, mirador, botes-cisne). Lunes en el parque. Su mamá lo invita a cenar el martes: "¿Vienes?" · R16: cuatro mundos nuevos.
 T1658 · DRAGON BALL · Calle de los Tilos 14 · "Sí, a las ocho estoy ahí." Beso rápido. La mamá: "¡A las ocho en punto!" Kase invitado.
 T1659 · DRAGON BALL · Calle de los Tilos 14 · SIMULACIÓN hasta martes 20:00. Bombones de Bulma. Gohan advierte. La mamá de Erasa abre: "¿Tú de qué vives, querido?"
+T1660 · DRAGON BALL · Calle de los Tilos 14 · Bombones a la mamá; "soy viajero". Mamá: "Viajar no es un trabajo, es un gasto." Erasa: "¡¿Ya le estás preguntando por la plata?!"

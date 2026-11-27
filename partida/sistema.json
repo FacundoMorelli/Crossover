@@ -1,8 +1,8 @@
 {
-  "turno": 1659,
+  "turno": 1660,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, martes",
-  "hora": "año 778, martes, 20:00 (Tierra)",
+  "hora": "año 778, martes, 20:02 (Tierra)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
@@ -682,11 +682,6 @@
       "objeto": "Ropa de siempre (camisa negra, borceguíes)",
       "cantidad": 1,
       "detalle": "Guardada en T1617 al cambiarse para la cena con Erasa (rehecha por Whis en T1591). T1648: el sobretodo negro de siempre salió del inventario (se lo puso a Erasa en el aerodeslizador). T1655: se lo regaló a Erasa (\"Quédatelo\")."
-    },
-    {
-      "objeto": "Caja de bombones (papel dorado, cinta)",
-      "cantidad": 1,
-      "detalle": "T1659, regalo de Bulma para la mamá de Erasa. En la mano de Facundo."
     }
   ],
   "copias": [
