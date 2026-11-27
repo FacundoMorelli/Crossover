@@ -140,3 +140,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1609 · "Pero señor Bills, a mí también me copió, y yo no estoy ofendido." / "Tú no tienes dignidad, saiyajin." / "Ah, eso es cierto."
 - T1612 · Incómodo: "Bueno, nadie le va a hacer nada al gatito. Con ustedes dos cuidándolo, ¡ni loco!"
 - T1613 (4 días) · Entrena con Whis de sol a sol; el SSJ Blue le dura cada vez más. Le tira una piedra a Bills por la espalda (la esquiva sin mirar). Milk está muy enojada (se fue "un ratito" hace cinco días).
+- T1614 · Vuelve a la Tierra; se esconde detrás de Whis del cucharón de Milk.

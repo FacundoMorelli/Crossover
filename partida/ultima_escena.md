@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1611)
-
-esta bien, pero acuérdate que soy viajero
-
-## RESPUESTA 1 (T1611)
-
-> esta bien, pero acuérdate que soy viajero
-
-> —Está bien. Pero acuérdate de que soy viajero.
-
-Bills parpadea.
-
-La cola se le queda quieta en el aire, a medio movimiento.
-
-—Viajero —repite. Lo dice despacio, como si la palabra le hubiera cambiado de gusto—. Ya sé. Lo dijiste ayer. Otro mundo.
-
-Baja la mano con la que contaba. Se queda mirándote un momento, y por primera vez desde que lo conoces no parece un dios, ni un gato, ni un chico con un juguete nuevo. Parece alguien que acaba de darse cuenta de que la fiesta tiene hora de terminar.
-
-Dura un segundo. Enseguida carraspea y levanta el mentón.
-
-—Entonces no me las des una por día. —Mira de reojo a Whis, molesto—. Me las das todas ahora. Juntas. Y Whis me las guarda.
-
-—¿Yo, Bills-sama?
-
-—Tú. En ese báculo guardas de todo. Guardaste el pastel de la Tierra tres años sin que se pusiera feo.
-
-—Dos años y medio, Bills-sama. —Whis suspira, con una sonrisa resignada—. Está bien. Ciento cinco hamburguesas. Pero yo decido cuándo se come cada una.
-
-—Eso lo discutimos después.
-
-—No, Bills-sama.
-
-Goku se ríe. Kase, en el pasto, se pone de pie, se estira hacia adelante y después hacia atrás, y camina despacio hasta tus pies. Se sienta ahí, apoyado contra tu borceguí.
-
-Bills lo mira. Después te mira a ti.
-
-—Y otra cosa. —Te señala con el dedo—. Lo que te dije ayer sigue en pie. Cuando vuelvas a tu mundo, traes comida de allá. Y cuando vuelvas para acá, me la traes a mí. No a Kakaroto. No a Whis. A mí primero.
-
-Cruza los brazos.
-
-—Y el gato viene contigo. Siempre. Si un día apareces sin el gato, te destruyo.
-
-Lo dice muy serio. Se le mueve la oreja izquierda.
-
-Vegeta, al pie de la escalera, te mira de costado. No dice nada, pero tiene los ojos puestos en ti como si esperara oír algo.
-
-—Entonces... —Bills ladea la cabeza, y la pregunta le sale más bajita de lo que querría—. ¿Cuándo te vas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1611 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 53% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~37 min) · Velo: ki bajo   ║
-║ Kase: sentado contra tu borceguí             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1612)
+## COMANDO 1 (T1612)
 
 no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
 
-## RESPUESTA 2 (T1612)
+## RESPUESTA 1 (T1612)
 
 > no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
 
@@ -123,11 +58,11 @@ Después levanta la vista, y ya es el de siempre: el mentón arriba, los ojos en
 
 ---
 
-## COMANDO 3 (T1613)
+## COMANDO 2 (T1613)
 
 le doy las cosas, simula unos dias
 
-## RESPUESTA 3 (T1613)
+## RESPUESTA 2 (T1613)
 
 > le doy las cosas, simula unos dias
 
@@ -191,4 +126,81 @@ Te mira con la cabeza ladeada, esperando.
 
 ---
 
-ESTADO AL CIERRE: 4 días después, tarde. Whis llevará mañana a Goku, Vegeta y Bills a la Tierra (Milk enojada; parque de Trunks el sábado). "¿Viene con nosotros, Facundo-san? ¿O se queda un tiempo más aquí?" Facundo puede decidir.
+## COMANDO 3 (T1614)
+
+voy con ustedes
+
+## RESPUESTA 3 (T1614)
+
+> voy con ustedes
+
+> —Voy con ustedes.
+
+—Qué bien. —Whis junta las manos sobre el báculo, contento—. Bills-sama se va a poner feliz. Aunque no lo va a decir.
+
+No lo dice.
+
+A la mañana siguiente, después de la hamburguesa del día y de la discusión de siempre por la segunda, se juntan todos al pie de la pirámide. Goku, ansioso, mira el cielo como si desde ahí pudiera ver a Milk enojada. Vegeta, de brazos cruzados, finge que no le importa llegar tarde al parque. Bills está en su ropa de siempre, con la bolsa de cien semillas atada a la faja.
+
+—Agárrense de mí —dice Whis.
+
+Goku le pone una mano en la espalda. Vegeta, de mala gana, otra. Bills apoya un dedo en el hombro de Whis, como quien toca algo sucio. Tú le pones la mano en la espalda, y Kase, en tu hombro, apoya una pata en la túnica de Whis sin que nadie se lo pida.
+
+Whis golpea el suelo con el báculo.
+
+La luz los envuelve. Por un momento no hay arriba ni abajo, solo un túnel blanco y rápido, lleno de estrellas que pasan como hilos. Kase te clava apenas las uñas en el hombro. Bills bosteza.
+
+Y se acaba.
+
+Pasto. Sol. Olor a flores, a café, a pasto recién cortado. Una cúpula blanca enorme, conocida, con el logo de la Corporación Cápsula en un costado. El jardín de Bulma, en la Capital del Oeste.
+
+Antes de que nadie diga nada, se abre de golpe la puerta corrediza de la casa.
+
+—¡GOKU!
+
+Milk sale caminando rápido, con el delantal puesto y un cucharón en la mano. Detrás viene Bulma, con una taza de café y cara de estar disfrutando el momento. Y detrás de las dos, corriendo, Trunks, que frena en seco al ver a su papá.
+
+—¡Cinco días! —Milk le apunta con el cucharón a Goku, que se esconde detrás de Whis—. ¡Dijiste un ratito! ¡Un ratito! ¡Goten preguntó por ti todas las noches!
+
+—Perdón, Milk, es que...
+
+—¡Nada de "es que"!
+
+Trunks se cruza de brazos, igual que su papá, y levanta el mentón.
+
+—Papá. Hoy es sábado.
+
+—Ya sé qué día es —gruñe Vegeta—. Vamos.
+
+Bulma se ríe tapándose la boca. Después te ve a ti, con Kase en el hombro, y se le iluminan los ojos.
+
+—¡Facundo! ¡Volviste! —Te mira de arriba abajo—. Y entero. Pensé que el señor Bills te iba a destruir o algo así.
+
+—Lo intenté —dice Bills, muy digno—. No se dejó.
+
+Bulma lo mira. Te mira a ti. Se le cae un poco la taza.
+
+—¿Cómo que no se dejó?
+
+Milk, a mitad de su regaño, se da vuelta también. Te ve. Baja el cucharón despacio.
+
+—Ah. —Se le suaviza la cara de golpe—. Volviste. —Lo dice como quien confirma algo que ya sabía—. Te dije que volvieras, y volviste.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1614 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mañana                                       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.851 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: De vuelta en la Tierra, jardín de la Corporación Cápsula, sábado a la mañana. Bulma: "¿Cómo que no se dejó?" Milk: "Te dije que volvieras, y volviste." Facundo puede contestar.

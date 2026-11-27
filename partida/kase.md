@@ -160,3 +160,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1611 · Se estira y se sienta apoyado contra el borceguí de Facundo.
 - T1612 · Levanta la cabeza y mira a Facundo cuando dice que destruiría un mundo por él; después cierra los ojos, tranquilo.
 - T1613 (4 días) · Se adueña de la silla de playa de Whis. Duerme sobre el pecho de Facundo cuando se apaga la fusión.
+- T1614 · Viaja con Facundo a la Tierra; apoya una pata en la túnica de Whis sin que nadie se lo pida; clava apenas las uñas en el viaje.

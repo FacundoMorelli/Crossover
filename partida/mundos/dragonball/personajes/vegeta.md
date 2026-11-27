@@ -170,3 +170,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1611 · Mira de costado a Facundo, esperando oír cuándo se va.
 - T1612 · Media sonrisa torcida; asiente una vez a Facundo, como a un igual, por lo del gato.
 - T1613 (4 días) · Entrena solo en una roca flotante; le pide a Bills pelear cada mañana; al cuarto día Bills acepta y lo tumba de un golpe; se levanta escupiendo sangre y sonriendo (camino del Ego). Le prometió a Trunks el parque de diversiones mañana (sábado).
+- T1614 · Vuelve a la Tierra; a Trunks: "Ya sé qué día es. Vamos."

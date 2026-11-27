@@ -38,3 +38,4 @@ ESTADO: bien.
 - T1536 · "Pero mañana a la noche viene a cenar a casa. Los desayunos de tu cocina son todo comida de cápsula." Discute con Bulma (robot chef) y se abrazan. A Facundo: "Mañana a la noche. Y si Vegeta te lastima, me avisas."
 - T1547 · Cena en el Monte Paoz (Facundo cumple). Habla de embarazo con Videl. Whis la deja muda con una mirada cuando quiere protestar.
 - T1548 · "¡GOKU! ¡Mañana tienes que arar el campo de abajo!" "¡Facundo se va CONTIGO!" Le da a Facundo un táper enorme de comida: "Para el viaje. Y si ese dios gato no te da de comer, me avisas. Y vuelve. Tú vuelves. Él también, pero tú vuelves."
+- T1614 · Sale con el cucharón a regañar a Goku ("¡Cinco días! ¡Dijiste un ratito! ¡Goten preguntó por ti todas las noches!"). Ve a Facundo y se le suaviza la cara: "Ah. Volviste. Te dije que volvieras, y volviste." (Promesa de T1548 cumplida.)

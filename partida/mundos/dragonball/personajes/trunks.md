@@ -13,3 +13,4 @@ ESTADO: activo
 - T1532 · "Que tiene menos ki que Krilin."
 - T1533 · Intenta la Bola Giratoria sin que le enseñen; se le explota en la cara una y otra vez.
 - T1547 · Persigue a Facundo por los pasillos pidiendo la técnica de Goten; Bulma lo manda a hacer la tarea.
+- T1614 · Brazos cruzados como su papá: "Papá. Hoy es sábado." (parque de diversiones).
