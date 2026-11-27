@@ -15,3 +15,5 @@ TASACIÓN (T1519): Destrucción (Hakai), ki divino; amenaza ALTA frente a Facund
 - T1520 · Por Facundo: el gato es suyo. Se inclina a la altura de Kase; Kase le huele el dedo y le da la espalda. Se ríe: "Me despreció. Un gato de la Tierra. Me olió y me despreció. Whis, ¿viste eso?" A Facundo: "Tienen los mismos ojos, tú y el gato. Qué raro. Y tú tienes un ki tan chiquito que casi no estás." "¿Cómo se llama?"
 RELACIÓN CON FACUNDO (T1520): curiosidad por el gato.
 - T1521 · Por Facundo: el gato se llama Kase. "Es un buen nombre para un gato que no le tiene miedo a un dios. La mayoría de los animales salen corriendo cuando me ven. Los planetas enteros salen corriendo. Este me olió el dedo." Bulma lo invita a comer. Huele algo dulce: "Whis. ¿Eso que huele así de dulce... es pudín?"
+- T1522 · Recibe de Facundo un pudín sacado del bolsillo del sobretodo: "¿Lo tenías en el abrigo?" Lo come: orejas paradas, cola afuera moviéndose sola. "¿Qué... es... esto?" "Pudín." Lame el vaso. Por primera vez sin cara de aburrido: "Tú. El del gato que me desprecia. ¿Tienes más?"
+RELACIÓN CON FACUNDO (T1522): interés (el gato, el pudín).

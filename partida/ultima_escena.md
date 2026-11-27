@@ -3,103 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1519)
-
-esta bien
-
-## RESPUESTA 1 (T1519)
-
-> esta bien
-
-> —Está bien.
-
-Vegeta asiente, una sola vez, seco. Se da vuelta y se va hacia el centro de la cubierta, hacia Bulma, caminando rápido, con los puños cerrados y la camisa rosada tirante en los hombros.
-
-No llega.
-
-A mitad de camino, se frena en seco.
-
-El aire, sobre el crucero, cambia. No hay viento. No hay ruido. Pero de repente la luz del mediodía se pone rara, un poco más fría, como si una nube muy alta hubiera pasado delante del sol, aunque no hay ninguna nube. Las gaviotas que seguían al barco se van, todas a la vez, chillando, hacia la costa.
-
-Kase se levanta en la baranda. Tiene la cola erizada como un cepillo y las orejas aplastadas. Mira hacia arriba.
-
-Y a diez metros sobre la cubierta, en el aire, sin que nadie los haya visto llegar, hay dos figuras.
-
-Una es alta, delgada, de piel celeste pálida, con el pelo blanco peinado hacia arriba en un copete largo, una túnica granate, un anillo de luz azul alrededor del cuello y un báculo largo en la mano. Sonríe con amabilidad. Mira la fiesta con mucha curiosidad, como un turista en un mercado.
-
-La otra es más baja. Delgada, fibrosa, de piel violeta, con orejas enormes y puntiagudas, ojos amarillos con pupilas finas y ropa de estilo antiguo, negra y dorada, con un pantalón ancho blanco. Tiene las manos detrás de la espalda. Y tiene cara de aburrido. De muy aburrido.
-
-Es un gato.
-
-Un gato enorme, que camina erguido, que flota en el aire sobre el cumpleaños de Bulma.
-
-—Ay, mire, Bills-sama —dice la figura alta, con una voz suave—. Una fiesta. Qué oportuno. Huele delicioso.
-
-Vegeta se pone pálido otra vez. Se endereza como un soldado. Y antes de que nadie más en la cubierta reaccione, junta los talones y se inclina hacia adelante, en una reverencia rígida, perfecta, que no le habías visto hacerle a nadie.
-
-—¡B-Bills-sama! —dice, con la voz quebrada—. ¡Bienvenido a la Tierra! ¡Es... es un honor!
-
-En la cubierta, la música sigue sonando, pero nadie baila. Todos miran para arriba. Bulma levanta una ceja. Goku, en el buffet, se queda con un pollo a medio camino de la boca. Piccolo, en la proa, abre los ojos y se pone en guardia sin moverse.
-
-Las dos figuras bajan despacio y se posan en la cubierta, sin hacer ruido.
-
-```
-╔══════════════════════════════════════════════╗
-║ BILLS                                        ║
-║ Dios de la Destrucción · Universo 7          ║
-║ PODER: Destrucción (Hakai), ki divino        ║
-║ AMENAZA: ALTA en tu estado normal            ║
-║ Diferencia estimada: él, x40 sobre ti en     ║
-║ estado normal · tú, muy por encima de él     ║
-║ con tus formas más altas                     ║
-║ Se contiene: sí                              ║
-║ COPIABLE · MISIÓN: EXTREMA                   ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ WHIS                                         ║
-║ Ángel · maestro y asistente de Bills         ║
-║ PODER: sin datos                             ║
-║ AMENAZA: sin datos                           ║
-║ Diferencia estimada: sin datos               ║
-║ Se contiene: muchísimo                       ║
-║ COPIABLE · MISIÓN: EXTREMA                   ║
-╚══════════════════════════════════════════════╝
-```
-
-Bills mira la cubierta. Mira las mesas de comida. Mira a Vegeta, inclinado. Bosteza.
-
-Y después, sin ningún motivo, gira la cabeza y mira hacia la baranda. Hacia ti. Hacia Kase.
-
-Kase le devuelve la mirada. Con la cola erizada, las orejas aplastadas y los ojos rojo y azul clavados en los suyos, amarillos. Sin parpadear.
-
-Bills entrecierra los ojos. Ladea la cabeza, con mucho interés.
-
-—Mmm. —Te señala con el mentón—. ¿Ese gato es tuyo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1519 · DRAGON BALL · SÁBADO · 12:20    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando fijo a Bills    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills en la Tierra                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1520)
+## COMANDO 1 (T1520)
 
 Así es bills-sama, es mi gato
 
-## RESPUESTA 2 (T1520)
+## RESPUESTA 1 (T1520)
 
 > Así es bills-sama, es mi gato
 
@@ -155,11 +63,11 @@ Bosteza.
 
 ---
 
-## COMANDO 3 (T1521)
+## COMANDO 2 (T1521)
 
 se llama Kase
 
-## RESPUESTA 3 (T1521)
+## RESPUESTA 2 (T1521)
 
 > se llama Kase
 
@@ -211,4 +119,65 @@ Vegeta lo ve. Levanta la cabeza de la reverencia de golpe, con la cara blanca.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:23, crucero. Bulma recibió a Bills y Whis. Bills pregunta por el pudín; Buu se está comiendo el último. Vegeta, blanco. Facundo puede actuar.
+## COMANDO 3 (T1522)
+
+bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
+
+## RESPUESTA 3 (T1522)
+
+> bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
+
+Abres la tienda del Sistema por dentro, sin que nadie lo vea.
+
+[Compra: Pudín, igual al de la fiesta (caja de seis). 1 Fragmento.]
+
+Metes la mano en el bolsillo interior del sobretodo, como quien busca un pañuelo, y la sacas con un pudín. Uno solo, en su vasito, frío, temblando apenas, con el caramelo arriba brillando al sol. Igual, exactamente igual, a los de la fuente que Buu acaba de vaciar.
+
+> —Bills-sama, aquí tengo uno para usted.
+
+Se lo extiendes, con una cucharita.
+
+Bills se da vuelta. Mira el pudín. Te mira a ti. Mira el bolsillo del sobretodo, que no tiene ni una mancha, ni un bulto. Vuelve a mirar el pudín.
+
+—¿Lo tenías en el abrigo? —pregunta.
+
+No espera respuesta. Lo agarra con las dos manos. Le hunde la cucharita. Se la lleva a la boca.
+
+Se queda quieto.
+
+Las orejas enormes se le paran de golpe, rectas, como antenas. Los ojos amarillos se le abren muy grandes. La cola, que nadie había visto que tenía debajo de la ropa, se le asoma por detrás y se le mueve sola, de un lado al otro.
+
+—¿Qué... es... esto? —dice, con la boca llena.
+
+—Pudín, Bills-sama —dice Whis, con una sonrisa enorme—. Un postre terrestre. Huevo, leche, azúcar.
+
+—Pudín —repite Bills. Otra cucharada. Y otra. Cierra los ojos—. Pudín.
+
+Se termina el vaso en cuatro cucharadas, raspa el fondo con la cucharita, y después lo da vuelta y lo lame, sin ninguna dignidad de dios.
+
+En la cubierta, la gente empieza a respirar otra vez. Alguien se ríe bajito, nervioso. La música vuelve a parecer música. Vegeta, todavía de pie en el medio de la cubierta, suelta el aire de golpe, como si lo hubiera tenido guardado desde que apareció el cielo frío, y se pasa la mano por la frente, empapada.
+
+Al fondo, junto a la mesa de postres, Buu se queda mirando a Bills con la cuchara en la boca. Mira su fuente vacía. Mira el vasito vacío en la mano de Bills. Ladea la cabeza, curioso.
+
+Bills baja el vasito. Se limpia la boca con el dorso de la mano. Te mira. Y por primera vez desde que llegó, no tiene cara de aburrido.
+
+—Tú —dice, señalándote con la cucharita—. El del gato que me desprecia. —Una pausa larga, muy seria—. ¿Tienes más?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1522 · DRAGON BALL · SÁBADO · 12:24    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.248 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando el mar          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills en la Tierra · quedan 5      ║
+║ pudines                                      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:24, crucero. Facundo le dio a Bills un pudín (le quedan 5). Bills, encantado: "¿Tienes más?" Facundo puede responder.

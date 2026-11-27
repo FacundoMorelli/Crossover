@@ -17,3 +17,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T257 · Facundo mata a Dabura en el Mundo de los Demonios. Piccolo y Krilin vuelven a ser de carne (día 4). En el canon, volvían cuando Buu mataba a Dabura.
 - T275 · Videl, entrenada por Facundo (días 5-9), mucho más fuerte que en el canon a esta altura.
 - T1510 · Goku recibe un zenkai (paliza de Facundo + semilla): un poco más fuerte que en el canon antes de Bills.
+- T1522 · Año 778 · Crisis del pudín evitada: Facundo le da a Bills un pudín antes de que Buu se niegue (en el canon, el pudín de Buu desataba la pelea de Bills con los Guerreros Z).

@@ -1,13 +1,13 @@
 {
-  "turno": 1521,
+  "turno": 1522,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, sábado, cumpleaños de Bulma (R14: Bills llega hoy)",
-  "hora": "año 778, sábado, 12:23",
+  "hora": "año 778, sábado, 12:24",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 164249,
+  "fragmentos": 164248,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -662,7 +662,12 @@
       "mundo": "naruto"
     },
     "Flor seca de Baltigo (de Robin, T1467; en el bolsillo del sobretodo)",
-    "Dibujo de Goten: Kase y Facundo de la mano (regalo, T1503; \"no lo puedes perder\")"
+    "Dibujo de Goten: Kase y Facundo de la mano (regalo, T1503; \"no lo puedes perder\")",
+    {
+      "objeto": "Pudín (igual al de la fiesta de Bulma)",
+      "cantidad": 5,
+      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522)."
+    }
   ],
   "copias": [
     {
@@ -2429,7 +2434,8 @@
       "Caja de antibióticos (penicilina en polvo) con instrucciones": 1,
       "Libro de medicina básica ilustrado": 1,
       "Bolsa de semillas (papa, trigo, maíz de clima frío)": 1,
-      "Moto moderna (negra mate, escape doble)": 80
+      "Moto moderna (negra mate, escape doble)": 80,
+      "Pudín igual al de la fiesta de Bulma (caja de seis)": "1 Fragmento (fijado T1522)"
     },
     "stock_rotativo": {
       "mundo": "naruto",

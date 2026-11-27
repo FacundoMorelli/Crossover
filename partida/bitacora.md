@@ -1520,3 +1520,4 @@ T1518 · DRAGON BALL · Crucero · Vegeta le explica quién es Bills (Dios de la
 T1519 · DRAGON BALL · Crucero · Llegan Bills y Whis. Vegeta hace una reverencia. Tasaciones. Bills mira a Kase: "¿Ese gato es tuyo?"
 T1520 · DRAGON BALL · Crucero · "Es mi gato." Kase huele el dedo de Bills y le da la espalda. Bills se ríe: "Me despreció." "¿Cómo se llama?"
 T1521 · DRAGON BALL · Crucero · "Se llama Kase." Bills: buen nombre para un gato que no le teme a un dios. Bulma los invita a comer. Bills huele pudín; Buu se come el último.
+T1522 · DRAGON BALL · Crucero · Compra pudines (1 F) y le da uno a Bills. Bills se enamora del pudín: "¿Tienes más?" Crisis del pudín evitada.

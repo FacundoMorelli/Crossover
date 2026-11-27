@@ -64,3 +64,4 @@ ESTADO: aceptó el trato: no matar a cambio de dulces diarios. Contento. Quiere 
 RELACIÓN CON FACUNDO: lo quiere mucho; lo considera su amigo, junto con Mr. Satán. Lo curó (T227).
 - T1515 · Aplaude con una cuchara en cada mano al ver el agua correr sobre nada.
 - T1521 · Se está terminando el último pudín de una fuente entera, con Goten y Trunks a sus pies (canon: el pudín que provoca a Bills).
+- T1522 · Mira a Bills con su pudín; mira su fuente vacía; ladea la cabeza, curioso.

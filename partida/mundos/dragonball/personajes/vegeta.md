@@ -95,3 +95,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1519 · Ve llegar a Bills y Whis; reverencia rígida, voz quebrada: "¡B-Bills-sama! ¡Bienvenido a la Tierra! ¡Es... es un honor!"
 - T1520 · Facundo le contesta a Bills; Vegeta le grita con la cara que no hable. Se pone gris cuando Kase le da la espalda a Bills.
 - T1521 · Asiente desesperado a Bulma sin levantar la cabeza. Ve a Buu con el último pudín y se pone blanco.
+- T1522 · Suelta el aire de golpe al ver a Bills feliz con el pudín; frente empapada.
