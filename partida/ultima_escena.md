@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1465)
-
-nada, sos el padre del hermano de mi capitán, con eso basta para ayudarlos y tengo otra cosa para ayudarte, cuando comiste esa semilla te ayudo bastante espera otra cosa, me acerco le tocó el brazo y con la técnica de mahito le curó todo
-
-## RESPUESTA 1 (T1465)
-
-> nada, sos el padre del hermano de mi capitán, con eso basta para ayudarlos y tengo otra cosa para ayudarte, cuando comiste esa semilla te ayudo bastante espera otra cosa, me acerco le tocó el brazo y con la técnica de mahito le curó todo
-
-> —Nada. Eres el padre del hermano de mi capitán. Con eso basta para ayudarlos. Y tengo otra cosa para ayudarte. Cuando comiste esa semilla, te ayudó bastante. Espera, es otra cosa.
-
-Barbablanca levanta una ceja blanca. No dice nada. Te deja hacer.
-
-Dejas el cuenco en el suelo. Subes el escalón de la silla y le apoyas la mano en el antebrazo, ese brazo enorme, lleno de cicatrices viejas, con la piel curtida por cincuenta años de sol y sal.
-
-La energía maldita te corre por la palma.
-
-Y sientes el alma de Edward Newgate.
-
-Es enorme. Del tamaño del hombre, y más. Pero tiene grietas por todas partes, como un casco viejo que aguantó demasiadas tormentas: el corazón cansado, los pulmones que le silban por dentro, una sombra negra y pesada que le crece en el pecho desde hace años, despacio, la enfermedad que ninguna semilla llegó a tocar. Todo eso que el cuerpo carga porque el alma lo arrastra.
-
-Le das forma.
-
-Cierras las grietas una por una. La sombra del pecho se deshace como humo en el viento. El corazón deja de arrastrarse. Los pulmones se abren. No le cambias nada más: ni la cara, ni las cicatrices, ni los años. Solo le sacas lo que lo estaba matando.
-
-Dura unos segundos.
-
-Barbablanca se queda quieto.
-
-Después respira. Una vez. Hondo, muy hondo, tanto que se le infla el pecho entero y la silla cruje. Y no tose. No silba. El aire le entra y le sale limpio, como a un hombre de cuarenta años.
-
-Una de las enfermeras, la jefa, la que estaba a un costado con la tablilla de anotaciones, da un paso adelante.
-
-—¿Capitán...?
-
-Barbablanca no le contesta. Se mira la mano. Abre y cierra los dedos, despacio, como si no fueran suyos. Se lleva la mano al pecho, donde estaba la sombra, y se queda así, con la palma abierta sobre el corazón.
-
-La enfermera se acerca. Le pone el estetoscopio en el pecho, sin pedirle permiso, y él la deja. Escucha. Se le pone la cara blanca. Mueve el estetoscopio. Escucha otra vez. Le toma el pulso en la muñeca. Lo vuelve a tomar.
-
-—No... no puede ser. —Le tiembla la voz—. Está limpio. Los pulmones, el corazón... Todo. Está todo limpio.
-
-A su alrededor, la fiesta se va apagando. Primero los más cercanos, después el resto, como el pasillo de Baltigo. El acordeón se calla. Marco se da vuelta desde donde estaba discutiendo con Izo. Ace se baja de la baranda.
-
-Barbablanca baja la mano del pecho.
-
-Te mira. Desde arriba, con los ojos muy abiertos, sin rastro de risa en la cara.
-
-—¿Qué me hiciste, mocoso?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1465 · ONE PIECE · DÍA ~121 · NOCHE    ║
-║ Nuevo Mundo · Moby Dick · silla de           ║
-║ Barbablanca                                  ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: sobre una caja, comiendo pescado       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1466)
+## COMANDO 1 (T1466)
 
 un secreto, sigue siendo un emperador del mar Edwars Newgate, hasta que mi capitán sea el rey de los piratas
 
-## RESPUESTA 2 (T1466)
+## RESPUESTA 1 (T1466)
 
 > un secreto, sigue siendo un emperador del mar Edwars Newgate, hasta que mi capitán sea el rey de los piratas
 
@@ -135,11 +70,11 @@ Y la flota entera, cuarenta barcos en medio del Nuevo Mundo, le contesta a los g
 
 ---
 
-## COMANDO 3 (T1467)
+## COMANDO 2 (T1467)
 
 simula unos dias  pasando el tiempo con robin
 
-## RESPUESTA 3 (T1467)
+## RESPUESTA 2 (T1467)
 
 > simula unos dias  pasando el tiempo con robin
 
@@ -196,4 +131,49 @@ Levanta la cabeza para mirarte. Tiene los ojos tranquilos, pero brillantes, con 
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~125 noche, Baltigo, cuarto de Robin. Tras cuatro días tranquilos, Robin pregunta si terminó la historia del mundo de los titanes (Shingeki). Facundo puede responder.
+## COMANDO 3 (T1468)
+
+si, termino, estan todos en paz
+
+## RESPUESTA 3 (T1468)
+
+> si, termino, estan todos en paz
+
+> —Sí, terminó. Están todos en paz.
+
+Robin se queda quieta, con la barbilla apoyada en tu pecho.
+
+Después cierra los ojos. Suelta el aire despacio, muy largo, como quien termina de leer la última página de un libro que la tuvo despierta muchas noches.
+
+—En paz —repite.
+
+Se queda así un rato. La lámpara chisporrotea. Afuera, lejos, pasa un guardia haciendo la ronda y se pierde por el pasillo.
+
+—Leí esas dos páginas tantas veces que me las sé de memoria. —Abre los ojos—. Un rey que le borró la memoria a su pueblo. Gente encerrada detrás de murallas, sin saber qué había del otro lado. Y ese chico del video, en la ciudad en ruinas, gritando. —Se le arruga apenas la frente—. Pensé muchas veces que una historia así no podía terminar bien. Que esas historias nunca terminan bien. Que alguien tiene que acordarse de ellas justamente porque terminan mal.
+
+Te mira. Se le va dibujando una sonrisa lenta, de las suyas, de las que empiezan en los ojos.
+
+—Y ahora me dices que terminó en paz. Así, como si nada. —Te pasa el dedo por la cicatriz del pecho, la diagonal—. Te conozco, Facundo. Te fuiste de este mundo diciendo que ibas a volver a ese, y cuando volviste aquí, en Marineford, el mundo ya había cambiado de lugar.
+
+Levanta una ceja.
+
+—¿Cuánto de esa paz es culpa tuya?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1468 · ONE PIECE · DÍA ~125 · NOCHE    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: dormido en el alféizar                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~125 noche, Baltigo, cuarto de Robin. Robin: "¿Cuánto de esa paz es culpa tuya?" Facundo puede responder.

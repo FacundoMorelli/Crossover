@@ -296,3 +296,4 @@
 - Toda la flota de Barbablanca · T1466 · Por Barbablanca: está sano del todo, gracias a Ojos de Eclipse ("el mocoso del gato"). Por Facundo (oído por los cercanos): Luffy va a ser Rey de los Piratas; Barbablanca sigue siendo Emperador hasta entonces. Cómo lo curó: secreto.
 - Revolucionarios de Baltigo · T1467 · Días ~122-125: conviven con Facundo; seis aprenden con él a sostener una espada corta en el patio (ven su manejo de espadas, nada más).
 - Robin · T1467 · Por Facundo: el mensaje de Luffy (la extraña; el capitán más fuerte del mundo en dos años). Por Sabo/Facundo, probablemente: lo del Moby Dick.
+- Robin · T1468 · Por Facundo: el mundo de los titanes (Shingeki) terminó en paz. Sospecha (deducción) que Facundo tuvo mucho que ver.
