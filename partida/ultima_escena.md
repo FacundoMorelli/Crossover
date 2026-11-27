@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1673)
-
-si me tendría que ir
-
-## RESPUESTA 1 (T1673)
-
-> si me tendría que ir
-
-> —Sí, me tendría que ir.
-
-Erasa levanta la cabeza de tu hombro, muy despacio.
-
-Te mira con los ojos todavía rojos, entrecerrados, igual que en la cocina cuando le dijiste que Videl no te había contado "mucho más".
-
-—"Tendría" —repite, en un susurro—. Me tendría que ir.
-
-Se le empieza a formar una sonrisa en la comisura de la boca.
-
-—"Tendría" no es lo mismo que "tengo". —Te apunta con un dedo, por encima de la manta, triunfal—. Eso lo sé yo, lo sabe mi mamá y lo sabe cualquiera.
-
-No se mueve. Tampoco tú. Kase, en el medio, estira una pata y se la apoya a Erasa en el brazo, sin abrir los ojos.
-
-Los créditos terminan. La pantalla se pone azul, lisa, con un zumbido suave, y la luz de la lámpara de flecos queda sola en la sala, amarilla, chiquita. Afuera pasa un aerodeslizador por la calle, lejos, y después nada. Solo el reloj de la cocina.
-
-Erasa vuelve a apoyar la cabeza en tu hombro. Se acomoda mejor, sube un poco más la manta, hasta el cuello de los dos.
-
-—Cinco minutos —murmura, con los ojos cerrados—. Cinco minutos más y te vas. Te lo prometo. Yo te abro la puerta y todo.
-
-Bosteza. Trata de esconder el bostezo y no puede.
-
-—Igual a esta hora yo nunca me duermo. Nunca. —Otro bostezo—. Así que no te preocupes. Cinco minutos.
-
-Su mano, entre las tuyas, se va aflojando de a poco.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1673 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sillón de la sala · 22:58     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sobre tus rodillas y las de Erasa      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Película con Erasa                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1674)
+## COMANDO 1 (T1674)
 
 espero a que se duerma y me duermo con ella
 
-## RESPUESTA 2 (T1674)
+## RESPUESTA 1 (T1674)
 
 > espero a que se duerma y me duermo con ella
 
@@ -107,11 +57,11 @@ Después se lleva un dedo a los labios, con la otra mano, sin derramar ni una go
 
 ---
 
-## COMANDO 3 (T1675)
+## COMANDO 2 (T1675)
 
 agarro la taza
 
-## RESPUESTA 3 (T1675)
+## RESPUESTA 2 (T1675)
 
 > agarro la taza
 
@@ -161,4 +111,44 @@ La sala queda en silencio. La luz de la mañana entra gris y celeste por la cort
 
 ---
 
-ESTADO AL CIERRE: miércoles 06:20, sala de la casa de Erasa. La mamá le dio el café (con leche, como anoche), contó que Erasa duerme mal desde chiquita y anoche no se despertó ni una vez (ella bajó a las 2 y a las 4). Se fue a trabajar (vuelve a las 17): pan en la panera, mermelada de durazno, café en la cafetera; no despertarla antes de las 9. "Lo de la isla y la montaña y el gato sigue en pie." Facundo con Erasa dormida sobre el pecho y el café en la mano. Kase en la alfombra.
+## COMANDO 3 (T1676)
+
+le doy un beso en la frente a erasa
+
+## RESPUESTA 3 (T1676)
+
+> le doy un beso en la frente a erasa
+
+Bajas la cabeza y le das un beso en la frente, entre los rulos despeinados.
+
+Tiene la piel tibia de dormir y huele a vainilla, a manta de lana y, apenas, a romero de la cocina.
+
+Erasa no se despierta. Pero algo le pasa en la cara: se le aflojan las cejas, se le estira la boca, despacio, en una sonrisa dormida, chiquita, de esas que no saben que están sonriendo. Arruga la nariz. Te aprieta un poco más con el brazo que tiene atravesado encima.
+
+—Mmm —murmura, con los ojos cerrados, la mejilla aplastada contra tu camisa—. ¿Ya pasaron los cinco minutos?
+
+No espera la respuesta. Antes de terminar la pregunta ya se volvió a dormir. El silbidito de la nariz vuelve, más lento, más hondo. Una mano se le escurre de la manta y se queda colgando del borde del sillón, abierta.
+
+Kase, desde la alfombra, levanta la cabeza. Mira la mano colgando. Se acerca, la huele, y apoya la cabeza contra los dedos de Erasa, una sola vez, despacio. Después se echa ahí abajo, justo debajo de la mano, como un guardia.
+
+Afuera pasa el primer aerodeslizador de la mañana. Un pájaro canta en el rosal. Por la rendija de la cortina, la luz se pone un poco más amarilla.
+
+El café en tu mano todavía está caliente.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1676 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sala · miércoles · 06:22      ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: bajo la mano de Erasa                  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: miércoles 06:22, sala de la casa de Erasa. Beso en la frente; Erasa sonríe dormida ("¿Ya pasaron los cinco minutos?") y se vuelve a dormir. Kase echado bajo su mano colgando, como guardia. Facundo con el café caliente. La mamá en el trabajo hasta las 17.

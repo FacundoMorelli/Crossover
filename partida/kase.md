@@ -174,3 +174,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1645 · Se despierta y se va al regazo de Facundo; se deja acariciar la cabeza por Erasa.
 
 - T1669 (Dragon Ball) · Se acuesta sobre las rodillas de Facundo y de Erasa a la vez, en el sillón de la casa de Erasa. Ronronea. Antes comió pollo de la mamá de Erasa y le arrancó la etiqueta a su almohadita nueva.
+- T1676 (Dragon Ball) · Apoya la cabeza en la mano dormida de Erasa y se echa debajo, como guardia.

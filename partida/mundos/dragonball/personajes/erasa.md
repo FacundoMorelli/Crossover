@@ -60,3 +60,4 @@ ESTADO: soltera (según Bulma).
 - T1673 · "'Tendría' no es lo mismo que 'tengo'. Eso lo sé yo, lo sabe mi mamá y lo sabe cualquiera." "Cinco minutos. Cinco minutos más y te vas. Te lo prometo. Yo te abro la puerta y todo." "Igual a esta hora yo nunca me duermo." Se está quedando dormida en el hombro de Facundo.
 - T1674 · Se duerme en el hombro de Facundo antes de los cinco minutos (murmura algo de un velero o un gato). Duermen juntos en el sillón (vestidos). Miércoles 06:10 sigue dormida con la cabeza en su pecho, boca abierta, marca de botón en la mejilla, brazo sobre él.
 - T1675 · Duerme mal desde chiquita (según su mamá: se despierta 3-4 veces por noche); con Facundo no se despertó ni una vez. Sigue dormida a las 06:20.
+- T1676 · Facundo le da un beso en la frente dormida: sonríe sin despertarse, "Mmm. ¿Ya pasaron los cinco minutos?", vuelve a dormir. Kase apoya la cabeza en su mano colgando y se echa debajo.

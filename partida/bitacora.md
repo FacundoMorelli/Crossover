@@ -1674,3 +1674,4 @@ T1672 · DRAGON BALL · casa de Erasa · La besa para callar el llanto: "¿Así 
 T1673 · DRAGON BALL · casa de Erasa · "Me tendría que ir." Erasa: "Tendría no es tengo." "Cinco minutos más." Se está quedando dormida en su hombro.
 T1674 · DRAGON BALL · casa de Erasa · Se duermen juntos en el sillón. Miércoles 06:10: la mamá los tapó; le ofrece café a Facundo: "Shhh. Que si se despierta, se muere de vergüenza."
 T1675 · DRAGON BALL · casa de Erasa · Agarra el café. La mamá: "Hace años que no duerme así." Se va a trabajar: "No la despiertes antes de las nueve." "Lo de la isla sigue en pie."
+T1676 · DRAGON BALL · casa de Erasa · Beso en la frente. Erasa, dormida: "¿Ya pasaron los cinco minutos?" Kase de guardia bajo su mano.
