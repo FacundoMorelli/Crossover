@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1692)
-
-soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
-
-## RESPUESTA 1 (T1692)
-
-> soy Facundo, un viajero, voy a trabajar con ustedes hasta que esto termine
-
-> —Soy Facundo, un viajero. Voy a trabajar con ustedes hasta que esto termine.
-
-Aki no cambia de cara.
-
-—Un viajero. —Te mira de arriba abajo: la camisa blanca empapada, los aros, los tatuajes del cuello, el gato—. ¿Con qué demonio tienes pacto?
-
-—Eso mismo le pregunté yo —dice Makima, con suavidad—. Todavía no me lo dijo.
-
-Aki la mira a ella, como pidiendo permiso para no estar de acuerdo. No lo pide.
-
-—Señorita Makima, con todo respeto. Hay cuatro grupos de asesinos en la ciudad buscando a Denji. Ya suplantaron a los de Kioto. —Baja la voz—. Y aparece un desconocido, en la puerta de Mitsukoshi, justo esta noche, y nos ofrece ayuda.
-
-—Lo sé. —Makima sonríe—. Mira a tu alrededor, Aki.
-
-Aki mira. Recién ahora, de verdad. Los dormidos en los bancos, en los autos, en los escalones, uno por uno, la avenida entera. El carnicero contra el hidrante. Los ancianos de la mano. Le cambia algo en la cara, apenas: una línea entre las cejas que se le marca más.
-
-—¿Esto lo hiciste tú? —te pregunta, sin mirarte, todavía mirando a la nena de las trenzas dormida contra el cartero.
-
-—En cuestión de segundos, según el señor Sato —contesta Makima por ti—. Sin cortar a nadie.
-
-Sato asiente una sola vez, muy serio, desde la camioneta.
-
-Aki se queda callado. Mira el ojo rojo. Mira el ojo azul. En su ojo derecho, el raro, algo se mueve un instante, como un reflejo que gira, y se queda quieto otra vez. Frunce más el ceño, como si hubiera buscado algo y no lo hubiera encontrado.
-
-—Bien —dice Makima, como si con eso estuviera todo resuelto—. Aki, el señor Morelli va con ustedes. Sube a buscar a Denji y no se separen. Yo tengo que hacer algunas llamadas. —Mira a Facundo, después al cielo encapotado, después a Kase—. Ella va a volver a intentarlo esta noche. Cuando lo haga, quiero que estén todos juntos.
-
-Se da vuelta y camina hacia el sedán negro, bajo el paraguas, sin apuro. El chofer le abre la puerta. El auto arranca despacio, esquivando a los dormidos, y se pierde en la esquina.
-
-Aki suspira, largo, por la nariz. Se pasa una mano por la cara y se deja ceniza en la frente.
-
-—Arriba. Piso siete. —Saca un cigarrillo, lo mira mojado, lo vuelve a guardar—. Y si haces algo raro, te corto. Lo digo en serio.
-
-A tu costado, Power no escuchó nada de lo anterior. Está en puntas de pie, con la cara a diez centímetros de Kase, estirando un dedo lleno de hollín, muy despacio, hacia su cola.
-
-—Power solo va a tocarlo un poquito —le susurra al gato—. Para ver si es de verdad.
-
-Kase la mira. Las orejas se le van para atrás.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1692 · CHAINSAW MAN · DÍA 1 · 19:53    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, orejas para atrás        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Subir con Aki a buscar a Denji     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1693)
+## COMANDO 1 (T1693)
 
 dejo que power intente tocar a kase y subo con aki
 
-## RESPUESTA 2 (T1693)
+## RESPUESTA 1 (T1693)
 
 > dejo que power intente tocar a kase y subo con aki
 
@@ -142,11 +79,11 @@ Gira la cabeza hacia ustedes, muy despacio, como si le pesara una tonelada.
 
 ---
 
-## COMANDO 3 (T1694)
+## COMANDO 2 (T1694)
 
 le doy una semilla de ermitaño
 
-## RESPUESTA 3 (T1694)
+## RESPUESTA 2 (T1694)
 
 > le doy una semilla de ermitaño
 
@@ -197,4 +134,67 @@ Power reacciona por fin. Cruza la sección de muebles corriendo, salta por encim
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:59, Mitsukoshi piso 7. Denji curado del todo por una semilla del ermitaño (sangre repuesta, cortes cerrados); salta: "¡Tengo un montón de sangre!" Aki, mano en la katana: "¿Qué le diste?" Denji a Facundo: "¡¿Qué era eso?! ¡Sabía a pasto! ¡¿Tienes más?! ¿Eres médico? ¿Eres rico? ¿Ese gato es tuyo? ¿Por qué tienes el pelo así?" Power, con un raspón del tamaño de una moneda: "¡Power también quiere! ¡Muy herida!" Quedan 21 semillas.
+## COMANDO 3 (T1695)
+
+le doy una semilla a power también, me llamo Facundo, soy un viajero
+
+## RESPUESTA 3 (T1695)
+
+> le doy una semilla a power también, me llamo Facundo, soy un viajero
+
+Sacas otra semilla y se la pones a Power en la boca abierta, como a un pichón.
+
+Power la mastica con entusiasmo. Una vez.
+
+Se le congela la cara.
+
+Dos veces. Arruga la nariz. Se le van los ojos en cruz para adentro.
+
+—¡PUAJ! —Se tapa la boca con las dos manos, pero no la escupe: la traga, con un ruido enorme, toda la cara en una mueca de asco total—. ¡Es pasto! ¡Es una verdura! ¡Le diste una verdura a Power! ¡Power odia las verduras! ¡Las verduras son veneno!
+
+El raspón de la rodilla se le cierra solo, en un segundo, sin dejar marca. Ni lo mira. Sigue sacando la lengua y raspándosela con los dedos.
+
+> —Me llamo Facundo. Soy un viajero.
+
+—Facundo —repite Denji, probando el nombre como si fuera comida—. Facundo el viajero. —Frunce la cara, pensando muy fuerte—. ¿Viajero como qué? ¿Como esos que van con mochila? ¿Como los de la tele, que van a otros países y comen cosas raras? —Se le iluminan los ojos—. ¿Comiste cosas raras?
+
+—¡Power sí comió algo raro! —grita Power, con la lengua afuera—. ¡Pasto! ¡Por culpa de él!
+
+—Te curó la rodilla —le dice Denji.
+
+—¡Power no pidió que le curaran la rodilla! ¡Power pidió una semilla!
+
+—Es lo mismo, idiota.
+
+—¡Tú eres el idiota! ¡Power es la más inteligente de todo Tokio!
+
+Aki no les presta atención. Da un paso hacia ti, entre los dos, que siguen gritándose. Ya no tiene la mano en la katana, pero está muy cerca, y te mira desde muy cerca, en serio, con el ojo raro quieto.
+
+—Facundo. —Lo dice como quien anota algo en una lista—. Las sacaste del aire. Las semillas. Y curan todo en un segundo. —Baja la voz—. Denji necesitaba litros de sangre. Eso no lo cura ningún demonio de curación que yo conozca.
+
+Mira a Kase. Después a ti.
+
+—¿Cuántas tienes de esas?
+
+Desde la escalera mecánica, un piso más abajo, llega una vocecita temblorosa:
+
+—¿Aki? ¿Ya está? ¿Puedo subir? ¿Ya no hay muñecos? ¿Por qué grita Power?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1695 · CHAINSAW MAN · DÍA 1 · 20:01    ║
+║ Tokio, otoño de 1997                         ║
+║ Mitsukoshi, piso 7 (muebles)                 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Proteger a Denji esta noche        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:01, Mitsukoshi piso 7. Power comió la semilla y la odia ("¡Es pasto! ¡Una verdura! ¡Power odia las verduras!"), raspón curado. Denji: "Facundo el viajero. ¿Como los de la tele? ¿Comiste cosas raras?" Denji y Power se pelean. Aki, muy cerca: "Las sacaste del aire. Curan todo en un segundo. Eso no lo cura ningún demonio de curación que yo conozca. ¿Cuántas tienes de esas?" Kobeni desde la escalera: "¿Aki? ¿Ya está? ¿Puedo subir?" Quedan 20 semillas.

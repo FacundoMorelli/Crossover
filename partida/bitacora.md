@@ -1693,3 +1693,4 @@ T1691 · CHAINSAW MAN · avenida Mitsukoshi · Acepta trabajar para Makima hasta
 T1692 · CHAINSAW MAN · avenida Mitsukoshi · "Soy Facundo, un viajero." Aki desconfía. Makima lo manda con ellos y se va. Aki: "Piso siete. Si haces algo raro, te corto." Power quiere tocar a Kase.
 T1693 · CHAINSAW MAN · Mitsukoshi · Kase le pega un coletazo a Power. Suben. Kobeni escondida en el 6. Piso 7: Denji sin sangre: "¿Alguien tiene sangre?"
 T1694 · CHAINSAW MAN · Mitsukoshi piso 7 · Semilla del ermitaño a Denji: curado del todo. Aki: "¿Qué le diste?" Denji: "¿Tienes más?" Power: "¡Power también quiere!"
+T1695 · CHAINSAW MAN · Mitsukoshi piso 7 · Semilla a Power: "¡Es pasto! ¡Power odia las verduras!" "Me llamo Facundo. Soy un viajero." Aki: "¿Cuántas tienes de esas?"
