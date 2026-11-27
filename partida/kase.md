@@ -112,3 +112,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1491 · Dragon Ball, planeta de Kaio-sama · Facundo le pasa ki para aguantar la gravedad x10. Se sienta a mirar fijo a Bubbles, que retrocede.
 - T1494 · Le apoya una pata en la frente a Goku (tirado en el pasto) y se va.
 - T1496 · Se sienta en el brazo de Goku como si fuera suyo.
+- T1501 · Dragon Ball · Se mete al arroyo del Monte Paoz para ayudar a Goten a pescar (según Goten). Bigotes mojados.

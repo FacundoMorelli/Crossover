@@ -29,3 +29,4 @@ ESTADO: bien.
 - T1498 · Se ríe de su padre; Kase le deja tocarle una oreja.
 - T1499 · Le explica a Kase, muy serio, cómo se pesca en el arroyo.
 - (por Milk, T1500) Pregunta por el gato todas las semanas; lo dibujó unas cuarenta veces; dibujos pegados en la pared de su cuarto.
+- T1501 · Entra empapado con un pescado vivo: "¡El gato me ayudó! ¡Se metió al agua!" Lo deja en la mesa junto al tazón de Facundo. Tira de la manga de Facundo para mostrarle sus dibujos de Kase (Kase vs Buu; Kase Super Saiyajin). "¿Kase puede ser Super Saiyajin?"

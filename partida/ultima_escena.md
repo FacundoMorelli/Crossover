@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1498)
-
-estaba en el planeta de kaio
-
-## RESPUESTA 1 (T1498)
-
-> estaba en el planeta de kaio
-
-> —Estaba en el planeta de Kaio.
-
-Milk cierra los ojos. Respira hondo por la nariz. Cuenta hasta tres, en voz baja, moviendo los labios.
-
-—En el planeta de Kaio —repite—. En el Otro Mundo. Donde están los muertos. —Abre los ojos y se da vuelta hacia Goku, que todavía está sentado en el pasto—. ¡Ni siquiera estás muerto, Goku! ¡Te fuiste a entrenar con los muertos estando vivo! ¡¿Qué clase de padre se va al Otro Mundo de vacaciones?!
-
-—No eran vacaciones, era entrenamiento...
-
-—¡SILENCIO!
-
-Goku se calla. Goten, en el pasto, con Kase delante, se ríe por lo bajo. Kase le permite, con mucha generosidad, que le toque una oreja con un dedo.
-
-Milk le apunta a Goku con el palo de la escoba.
-
-—Vas a ir a bañarte. Vas a comer. Vas a dormir. Y mañana a las seis vas a estar en el campo arando, que la cosecha no se planta sola. —Respira—. ¡Y el sábado vamos al cumpleaños de Bulma, y vas a ponerte el traje que te compré, y no vas a comerte la torta antes de que la corten!
-
-—Sí, Milk.
-
-Después se da vuelta hacia ti.
-
-Y le cambia la cara entera. Como si se hubiera apagado un fuego y se hubiera prendido otro, más tibio.
-
-—Y tú. —Se te acerca. Te agarra la barbilla con dos dedos, sin pedir permiso, y te gira la cara hacia la luz para verte la sangre seca de la boca—. Mírate. Igual que hace tres años. Siempre llegas lastimado a esta casa. Este irresponsable te hizo pelear, ¿verdad?
-
-No espera la respuesta. Te suelta la cara, te toma de la muñeca y te mira las palmas rojas. Chasquea la lengua.
-
-—Adentro. Hay arroz, hay pescado, hay sopa. Te limpio eso y comes. —Mira a Kase—. Y para el gato también hay pescado.
-
-Te empuja suavemente hacia la casa con la mano en la espalda. En el escalón de la entrada se detiene, y te mira de reojo, con la ceja levantada y los ojos entrecerrados.
-
-—Dime una cosa, muchacho. —Lo dice muy seria—. ¿Leíste el libro que te di?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1498 · DRAGON BALL · AÑO 777 · 12:12   ║
-║ Monte Paoz · casa de los Son, entrada        ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el pasto, con Goten                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Fiesta de Bulma el sábado (Bills)  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1499)
+## COMANDO 1 (T1499)
 
 no perdon, anduve con muchas cosas mientras viajaba
 
-## RESPUESTA 2 (T1499)
+## RESPUESTA 1 (T1499)
 
 > no perdon, anduve con muchas cosas mientras viajaba
 
@@ -115,11 +59,11 @@ Hace una pausa. Se pone un poco colorada.
 
 ---
 
-## COMANDO 3 (T1500)
+## COMANDO 2 (T1500)
 
 esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
 
-## RESPUESTA 3 (T1500)
+## RESPUESTA 2 (T1500)
 
 > esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
 
@@ -172,4 +116,55 @@ Goku se da vuelta hacia ti, con la toalla resbalándole de la cabeza y las manos
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 12:50, cocina de los Son. Facundo se queda hasta después de la fiesta de Bulma (sábado, Bills). Goku le pide que lo ayude a arar mañana (dos campos antes del mediodía) para poder entrenar. Facundo puede responder.
+## COMANDO 3 (T1501)
+
+esta bien
+
+## RESPUESTA 3 (T1501)
+
+> esta bien
+
+> —Está bien.
+
+—¡SÍ! —Goku tira la toalla al aire. Le cae en la cara a Milk.
+
+Milk se la saca despacio. Lo mira. No dice nada. No hace falta.
+
+—...Perdón, Milk.
+
+—A las seis —dice Milk—. Los dos. Y si llegan tarde, no hay desayuno.
+
+Goku se va de la cocina caminando hacia atrás, sonriéndote y haciéndote el pulgar para arriba, hasta que choca con el marco de la puerta y desaparece por el pasillo.
+
+Milk suspira y vuelve a la olla.
+
+Un segundo después, la puerta de la casa se abre de golpe. Goten entra corriendo, con los pantalones mojados hasta las rodillas, un pescado vivo en una mano que todavía se sacude, y Kase detrás, caminando sin apuro, con los bigotes mojados y cara de haber supervisado toda la operación.
+
+—¡Mamá! ¡Pesqué uno! ¡El gato me ayudó! ¡Se metió al agua! ¡Se metió al agua de verdad!
+
+—¡Goten! ¡Estás empapando toda la casa!
+
+Goten no la escucha. Deja el pescado en la mesa, delante de ti, al lado de tu tazón, donde sigue saltando. Y te agarra de la manga, con la mano mojada, tirando hacia el pasillo.
+
+—¡Facundo, Facundo! ¡Ven a ver mi cuarto! ¡Tengo dibujos de Kase! ¡Un montón! ¡Hay uno donde Kase pelea con Buu! ¡Y uno donde Kase es Super Saiyajin! —Se le ilumina la cara—. ¿Kase puede ser Super Saiyajin?
+
+Kase, en el suelo de la cocina, se sacude el agua de las patas, una por una, mirando a Goten con una paciencia infinita.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1501 · DRAGON BALL · AÑO 777 · 13:00   ║
+║ Monte Paoz · casa de los Son, cocina         ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · Palmas vendadas   ║
+║ Velo: persona común                          ║
+║ Kase: en la cocina, con los bigotes mojados  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Arar con Goku mañana a las 6 ·     ║
+║ fiesta de Bulma el sábado                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 13:00, cocina de los Son. Mañana a las 6, arar con Goku. Goten, empapado, quiere mostrarle sus dibujos de Kase: "¿Kase puede ser Super Saiyajin?" Facundo puede responder.
