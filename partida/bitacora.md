@@ -1475,3 +1475,4 @@ T1473 · SHINGEKI · Palacio · Paseo con Ymir de la mano: le cuenta los 53 día
 T1474 · SHINGEKI · Patio del ala este · Hange: abrazo con grasa; resultados (radio, invernadero, medicina, antibióticos salvaron a una nena en Trost). Levi: "Tch." Hange: "¿Qué estoy haciendo mal?" con la moto.
 T1475 · SHINGEKI · Patio del ala este · Facundo le explica a Hange el combustible (fracción liviana) y la bujía. La moto arranca: Levi da tres vueltas. "Tch. No está mal."
 T1476 · SHINGEKI · Patio del ala este · Levi le deja la moto ("Si la rompes, te mato"). Caballito de punta a punta; aplausos del palacio. Ymir: "Presumido." Historia, desde el balcón: "¿Facundo?"
+T1477 · SHINGEKI · Palacio · Historia desde el balcón: cansada y contenta; nadie murió de hambre este mes. Invita a desayunar; Erwin a las 9. "Bienvenido a casa, Facundo."

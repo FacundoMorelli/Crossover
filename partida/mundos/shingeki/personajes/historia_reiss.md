@@ -41,3 +41,4 @@ ESTADO: activo
 - T970 · "Eso fue más de lo que podría haber dicho yo en una hora."
 - T974 · Saludo de la Legión a Facundo.
 - T1476 · Día 119 07:30 · Se asoma al balcón grande del segundo piso en bata blanca, despeinada, despertada por el motor. Ve a Facundo en la moto: "¿Facundo?"
+- T1477 · "Cansada. Muy cansada. Y contenta." Problemas: medio millón de revividos en Wall Maria (casas, papeles, trabajo, escuelas), barcos de Marley, nobles que no abren graneros, revividos sin familia. Frieda la ayuda. "Nadie se murió de hambre este mes. Nadie. En toda la isla. Es la primera vez en cien años." Invita a Facundo, Ymir y el gato a desayunar en su salón; Erwin viene a las 9 con los informes de la expedición de Eren. "Bienvenido a casa, Facundo."

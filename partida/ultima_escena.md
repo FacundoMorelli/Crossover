@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1474)
-
-hola hange
-
-## RESPUESTA 1 (T1474)
-
-> hola hange
-
-> —Hola, Hange.
-
-—¡¡¡FACUNDOOOOOOOOO!!!
-
-El grito sale del patio, rebota en las paredes del ala este, entra por todas las ventanas abiertas del palacio y asusta a una bandada de palomas del techo. En algún piso de arriba, alguien deja caer algo de vidrio.
-
-Hange ya está corriendo. Salta por encima de un barril, resbala en una mancha de aceite, no se cae de milagro y se te tira encima con los brazos abiertos.
-
-Kase ve venir la grasa y salta de tu hombro a un seto con una velocidad que no le habías visto nunca.
-
-Hange te abraza. Fuerte. Con la cara negra de hollín pegada a tu pecho y las manos llenas de aceite en la espalda de tu sobretodo. Se ríe y habla al mismo tiempo, tan rápido que no se le entiende nada.
-
-—¡Volviste! ¡Volviste, volviste! ¡Ymir decía que ibas a volver y yo le decía que sí, pero en el fondo no sabía, y Levi decía que no importaba, pero todas las noches miraba el patio...!
-
-—No es cierto —dice Levi desde la moto.
-
-—¡Es cierto! —Hange se aparta, te agarra de los hombros con las dos manos y te sacude—. ¡Tengo que mostrarte todo! ¡La radio! ¡Agarré una voz! ¡Del otro lado del mar! ¡Y semillas, las de clima frío, ya hay brotes en el invernadero de atrás! ¡Y el libro de medicina, lo copiamos a mano, tres copias, una para cada distrito, y los antibióticos...! —Se le quiebra la voz—. Una nena en Trost. Fiebre de pulmón. La desahuciaron. Le dimos la mitad del frasco, como decían tus instrucciones. Está corriendo por la calle otra vez.
-
-Se le empañan los anteojos. Se los sube a la frente y se seca los ojos con la manga, y se deja la cara todavía más negra.
-
-Detrás, Levi se baja de la moto. Se acerca despacio, con las manos en los bolsillos, y se para a dos pasos. Te mira de arriba abajo. Mira las manchas de aceite que Hange te dejó en el sobretodo.
-
-—Tch. Llegaste justo para ensuciarte.
-
-Hange ya no lo escucha. Te agarra de la manga y te arrastra hacia la moto, pisando el aceite.
-
-—¡Pero esto! ¡Esto no anda! —Señala el motor con las dos manos, desesperada—. Destilé el aceite de las minas del norte veinte veces, cada vez más claro. A veces arranca. Tose, ruge, ¡y se muere! ¡Once veces! Levi ya se aprendió de memoria cómo se arranca y todavía no dio ni una vuelta al patio.
-
-Se arrodilla al lado del motor y te mira desde abajo, con los ojos enormes detrás de los anteojos sucios.
-
-—¿Qué estoy haciendo mal?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1474 · SHINGEKI · DÍA 119 · 07:07      ║
-║ Mitras · patio del ala este del palacio      ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: escondido en un seto                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ver qué hicieron con lo que les    ║
-║ dio · algo de este mundo para Robin          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1475)
+## COMANDO 1 (T1475)
 
 le digo lo que esta haciendo mal
 
-## RESPUESTA 2 (T1475)
+## RESPUESTA 1 (T1475)
 
 > le digo lo que esta haciendo mal
 
@@ -139,11 +82,11 @@ Una pausa.
 
 ---
 
-## COMANDO 3 (T1476)
+## COMANDO 2 (T1476)
 
 me dejas usarla? la uso y hago caballito con la moto
 
-## RESPUESTA 3 (T1476)
+## RESPUESTA 2 (T1476)
 
 > me dejas usarla? la uso y hago caballito con la moto
 
@@ -208,4 +151,59 @@ Te ve.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 07:30, patio del ala este. Caballito con la moto ante medio palacio. Historia, en bata desde el balcón: "¿Facundo?" Facundo puede actuar.
+## COMANDO 3 (T1477)
+
+hola historia, como estas?
+
+## RESPUESTA 3 (T1477)
+
+> hola historia, como estas?
+
+> —Hola, Historia. ¿Cómo estás?
+
+Historia se queda un segundo con las manos en la baranda.
+
+Después sonríe. Una sonrisa enorme, de esas que no le quedan bien a una reina, que se le escapan sin permiso. Se da cuenta de que está en bata, despeinada, delante de medio palacio asomado a las ventanas, y se cierra la bata sobre el pecho con una mano, colorada. No se va del balcón.
+
+—Cansada —dice, y se ríe—. Muy cansada. Y contenta. Las dos cosas a la vez, todos los días.
+
+Mira hacia el camino que sale por el tramo abierto de Wall Sina, a lo lejos, lleno de carretas.
+
+—Hay medio millón de personas nuevas en Wall Maria que necesitan casas, papeles, trabajo, escuelas. Hay barcos de Marley que llegan cada semana y nadie sabe qué cobrarles. Hay nobles que no quieren abrir sus graneros, revividos que no encuentran a sus familias, familias que encuentran a sus revividos y no saben qué hacer con ellos. —Suspira—. Y hay una científica loca que me despierta a las siete de la mañana con un caballo de metal.
+
+—¡Perdón, Majestad! —grita Hange desde abajo, sin ningún arrepentimiento.
+
+Historia niega con la cabeza. Se apoya otra vez en la baranda, con los codos.
+
+—Mi hermana me ayuda. Frieda. Sabe de estas cosas mucho más que yo. Dice que estoy haciéndolo bien. —Te mira desde arriba, con los ojos azules muy abiertos—. Yo no sé si es verdad. Pero nadie se murió de hambre este mes. Nadie. En toda la isla. Es la primera vez en cien años.
+
+Se le humedecen los ojos. Se los seca rápido, con el dorso de la mano, antes de que alguien en las ventanas lo note.
+
+—Estás lleno de aceite —dice, con otra voz—. Hange te abrazó, ¿verdad?
+
+Se endereza. Vuelve a ser una reina, aunque sea en bata.
+
+—Sube. Las dos. Bueno, los tres, con el gato. Voy a mandar a preparar el desayuno en mi salón. —Hace una pausa—. El comandante Erwin viene a las nueve con los informes de la expedición de Eren. Le va a hacer bien verte. A todos nos va a hacer bien.
+
+Se da vuelta para entrar. Se detiene en la puerta del balcón y te mira por encima del hombro.
+
+—Bienvenido a casa, Facundo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1477 · SHINGEKI · DÍA 119 · 07:33      ║
+║ Mitras · patio del ala este del palacio      ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en la canasta de manzanas de Ymir      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Desayuno con Historia; Erwin a las ║
+║ 9 · algo de este mundo para Robin            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 07:33, patio del ala este. Historia invitó a desayunar en su salón (Erwin a las 9). "Bienvenido a casa, Facundo." Facundo puede actuar.

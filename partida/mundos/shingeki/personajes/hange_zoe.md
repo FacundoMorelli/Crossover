@@ -36,3 +36,4 @@ ESTADO: activo
 - T1474 · "¡¡¡FACUNDOOOO!!!" Abrazo con grasa. Resultados: radio con voz de Marley; brotes de las semillas de clima frío en un invernadero; libro de medicina copiado a mano en tres copias (una por distrito); antibióticos: media dosis salvó a una nena con fiebre de pulmón en Trost. Aceite de las minas del norte destilado 20 veces; la moto arranca y se muere (11 veces). "¿Qué estoy haciendo mal?"
 - T1475 · Por Facundo: el combustible es la fracción más liviana (la que tiraba por la ventana), no la espesa (sirve para lámparas); la pieza de la chispa estaba llena de hollín. No anota (primera vez). Tenía guardado un frasco "de la tercera vez". Limpia la bujía con el pañuelo de Levi. La moto arranca; corre detrás llorando y riendo.
 - T1476 · Ve el caballito sin voz; después: "¡Hizo que el caballo de metal se parara en dos patas!"
+- T1477 · "¡Perdón, Majestad!" (sin arrepentimiento).
