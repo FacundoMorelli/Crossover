@@ -108,3 +108,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1568 · Duelo en SSJ Blue contra Facundo (Blue): recibe golpes al estómago, hombro, costillas, mandíbula (raja una montaña); siempre vuelve; prueba ángulos, imágenes residuales, Kamehameha azul chico. UNA VEZ ESQUIVA SOLO, sin pensar, un golpe recto de Facundo: "¿Eh? ¿Yo hice eso?" (semilla del Ultra Instinto, canon muy adelantado). A los 6 min se le apaga el azul; golpecito de dos dedos en la frente; cae sentado. "¡Me esquivé solo! ¡No sé cómo!"
 - T1569 · Sentado con Vegeta: "¿Viste cómo frenó tu puño con dos dedos?" "¿Y viste cuando me esquivé solo?" "¿Mañana otra vez?"
 - T1570 · Levanta la cabeza como un perro que oye la heladera: "¿Carne? ¿Qué carne?"
+- T1571 · "¡¿De dónde sacas todo esto?!" Come la carne con la mano; se le llenan los ojos de lágrimas: "¡MMMMMM!" Puré hasta en las cejas.

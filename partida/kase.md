@@ -139,3 +139,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1562 · Escupe con dignidad el postre celeste de Whis. Al amanecer, mira la explanada desde la ventana; se sienta junto a la silla de Whis para ver el duelo.
 - T1569 · Olfatea a Facundo tras el duelo (bota, mano), se le sube al hombro y le frota la cabeza bajo el corte de la mejilla; ronronea.
 - T1570 · Sostiene la mirada de Whis sin parpadear; Whis sonríe primero.
+- T1571 · Acepta un pedacito de la carne de Whis.

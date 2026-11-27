@@ -135,3 +135,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1567 · De rodillas, le tira una piedrita a Goku: "Cállate, Kakarotto. Te va a destrozar."
 - T1568 · Sentado con las piernas cruzadas al lado de Goku: "Te vi. Fue suerte."
 - T1569 · "Cállate, Kakarotto." Tras una pausa: "Mañana otra vez."
+- T1571 · "Tch." Come la carne con cubiertos, en una roca lejos de Goku, en silencio, cada vez más rápido, sin levantar la vista.

@@ -3,98 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1568)
-
-me defiendo y lo ataco
-
-## RESPUESTA 1 (T1568)
-
-> me defiendo y lo ataco
-
-Ladeas la cabeza. El puño azul te pasa rozando la oreja y te mueve el pelo, también azul.
-
-Goku ya está girando para el segundo. Una patada alta. La paras con el antebrazo. Un codazo. Lo desvías con la palma. Una rodilla, un puño, otro puño, una ráfaga de golpes tan rápida que el aire alrededor de los dos se llena de destellos azules sin ruido, como fuegos artificiales mudos. Los paras todos. Uno, dos, diez, cuarenta.
-
-Y en el hueco entre el cuarenta y el cuarenta y uno, le devuelves uno.
-
-En el estómago. Con el puño cerrado esta vez.
-
-Goku sale despedido hacia atrás, cruza la explanada entera, rebota contra el suelo de Whis dos veces, como una piedra en el agua, y frena con las manos y los pies a cien metros, arrastrando una zanja larga. Tose. Se levanta.
-
-Se ríe.
-
-Y vuelve.
-
-La pelea se arma de verdad. Azul contra azul, en silencio. Goku pelea distinto que Vegeta: no busca ganar, busca entender. Prueba un ángulo, después otro. Se esconde detrás de una imagen residual y te ataca por la espalda. Se tira desde arriba. Te tira un Kamehameha azul, chico, rápido, para ver qué haces, y cuando lo desvías con el dorso de la mano, se ríe más fuerte.
-
-Le pegas. En el hombro. En las costillas. En la mandíbula, una vez, de lleno, y Goku vuela de espaldas contra una de las montañas, que se raja de arriba abajo.
-
-Y vuelve. Siempre vuelve.
-
-En una de esas vueltas pasa algo raro.
-
-Le tiras un golpe limpio, recto, a la cara. Y Goku no lo ve. Se le nota: tiene los ojos puestos en otro lado. Pero el cuerpo se le mueve solo. La cabeza se le va dos dedos hacia un costado, sin que él decida nada, y tu puño le pasa de largo.
-
-Goku se queda quieto en el aire, con los ojos muy abiertos.
-
-—¿Eh? —dice—. ¿Yo hice eso?
-
-En el borde de la explanada, Whis se inclina un poco hacia adelante en la silla de playa. Solo un poco.
-
-Dura un instante. Al siguiente golpe, Goku ya no lo esquiva solo, y le llega de lleno al pecho.
-
-A los seis minutos, el azul le empieza a parpadear. Se le apaga, se le vuelve a prender. Le cuesta respirar. Le tiemblan los brazos. Tiene el gi naranja hecho tiras, un ojo hinchado, sangre en la boca.
-
-Levanta los puños igual.
-
-Te le acercas. No lo apuras. Le paras el último golpe, que viene lento, con una mano abierta, y le das un golpecito en la frente con dos dedos. Nada más.
-
-El azul de Goku se apaga del todo. El pelo se le cae, negro. Y cae sentado en el suelo de la explanada, al lado de Vegeta, que ya se sentó con las piernas cruzadas y lo mira de costado.
-
-Goku se queda ahí, con la boca abierta, sin aire, mirando el cielo violeta. Después se ríe. A carcajadas. Con la boca llena de sangre.
-
-—¡Me esquivé solo! —le grita a Vegeta, sacudiéndolo del hombro—. ¡¿Viste?! ¡Por un segundo me esquivé solo! ¡No sé cómo!
-
-—Te vi —dice Vegeta, sin ganas—. Fue suerte.
-
-—¡No fue suerte!
-
-Whis se levanta de la silla de playa, despacio, con el báculo en la mano. Mira a Goku. Te mira a ti. Sonríe otra vez, pero distinto. Como quien acaba de ver algo que no esperaba ver tan pronto.
-
-—No, Vegeta-san —dice, suave—. No fue suerte.
-
-[Duelo con un compañero vencido: Son Goku.]
-
-[+25.000 Fragmentos.]
-
-[+6.000 EXP.]
-
-[Has subido de nivel.]
-
-[Nivel 31. +1 a todos los stats. +5 puntos de stat.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1568 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada de entrenamiento · mañana          ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.243 · 0 zeni                  ║
-║ Energía 95% · Ojos: bien · corte en mejilla  ║
-║ SUPER SAIYAJIN BLUE (x2.000)                 ║
-║ Velo: el ki divino no se siente              ║
-║ Kase: junto a la silla de Whis, mirando      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1569)
+## COMANDO 1 (T1569)
 
 me destransformo y vuelvo con kase
 
-## RESPUESTA 2 (T1569)
+## RESPUESTA 1 (T1569)
 
 > me destransformo y vuelvo con kase
 
@@ -150,11 +63,11 @@ Hace aparecer, de la nada, un sobretodo negro igual al tuyo, nuevo, doblado, sob
 
 ---
 
-## COMANDO 3 (T1570)
+## COMANDO 2 (T1570)
 
 gracias whis
 
-## RESPUESTA 3 (T1570)
+## RESPUESTA 2 (T1570)
 
 > gracias whis
 
@@ -194,4 +107,66 @@ Desde el medio de la explanada, Goku levanta la cabeza de golpe, como un perro q
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, borde de la explanada. Whis insinúa que quiere probar la carne con puré; Goku: "¿Carne? ¿Qué carne?" Facundo puede actuar.
+## COMANDO 3 (T1571)
+
+le doy a whis y a goku y vegeta carne con pure
+
+## RESPUESTA 3 (T1571)
+
+> le doy a whis y a goku y vegeta carne con pure
+
+[Compra: plato de carne al punto con puré, tres. 3 Fragmentos.]
+
+Metes la mano en el bolsillo del sobretodo deshecho y sacas un plato. Caliente, humeando, con el bife dorado y las marcas de la parrilla cruzadas, la montaña de puré y la manteca derritiéndose arriba. Se lo das a Whis.
+
+Después otro. Y otro.
+
+Goku no espera a que llegues. Sale corriendo desde el medio de la explanada, con el gi hecho jirones y la cara sucia, y te saca el plato de la mano con las dos manos, temblando de ganas.
+
+—¡¿De dónde sacas todo esto?! —No espera la respuesta. Se sienta en el suelo, agarra el bife con la mano, sin cubiertos, y le pega un mordisco enorme. Se queda quieto. Se le llenan los ojos de lágrimas—. Mmmmm... ¡MMMMMM!
+
+Vegeta llega caminando, despacio, con los brazos cruzados. Mira el plato que le extiendes. Te mira a ti. Mira a Goku, que ya va por la mitad y tiene puré hasta en las cejas.
+
+—Tch.
+
+Lo agarra. Se sienta en una roca, lejos de Goku. Agarra el cuchillo y el tenedor. Corta un pedazo de carne, con mucho cuidado, como si cortara a un enemigo. Se lo lleva a la boca. Mastica.
+
+Se queda quieto.
+
+No dice nada. Corta otro pedazo. Y otro. Y otro, cada vez más rápido, sin levantar la vista del plato.
+
+Whis se come el suyo en la silla de playa, con el plato en las rodillas, una cucharada de puré, un pedazo de carne, con los ojos cerrados, como quien escucha una música que hace mucho que no escuchaba.
+
+—Oh —dice—. Oh, sí. Ahora entiendo a Bills-sama. Ahora entiendo todo.
+
+Kase, en tu hombro, olfatea el aire. Le das un pedacito de carne del plato de Whis, que Whis te alcanza sin abrir los ojos. Kase lo acepta.
+
+Y en ese momento, arriba, en lo alto de la pirámide, el ronquido se corta.
+
+De golpe. En la mitad de una respiración.
+
+Silencio.
+
+Goku deja de masticar, con la boca llena. Vegeta, con el tenedor a medio camino. Whis abre un ojo.
+
+Desde lo alto de la pirámide, por la puerta abierta, sale una voz. Ronca, dormida, enojadísima. Que se oye en todo el planeta.
+
+—¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1571 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde de la explanada · mediodía             ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.240 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · corte en mejilla  ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, comiendo carne           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills se despertó, enojado         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mediodía. Whis, Goku y Vegeta comen carne con puré. Bills se despierta furioso: "¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!" Facundo puede actuar.
