@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1559)
-
-voy con goku a desayunar
-
-## RESPUESTA 1 (T1559)
-
-> voy con goku a desayunar
-
-Kase se despierta, se estira y te sube al hombro. Sigues a Goku por los pasillos frescos del palacio, entre las columnas talladas con gatos y peces, hasta una terraza abierta que cuelga sobre el abismo, con una mesa larga de piedra clara y almohadones en el suelo en vez de sillas.
-
-Whis está ahí, con un delantal blanco encima de la túnica granate, sirviendo con un cucharón de una olla que humea. Lo que sale de la olla es un caldo azul oscuro, casi negro, con puntitos brillantes que flotan adentro y se mueven solos, como estrellas de verdad.
-
-—Buenos días, Facundo-san. —Sonríe—. ¿Durmió bien? Siéntese, por favor. Sopa de estrellas. Es una receta muy antigua.
-
-Te pone un plato delante. Los puntitos brillantes giran despacio en el caldo. Huele a algo entre el mar y la canela y la tormenta. Goku ya está sentado en un almohadón, con el plato en las manos, sorbiendo a toda velocidad.
-
-—¡Sabe rarísimo! —dice, con la boca llena—. ¡Pero está rica!
-
-A Kase, Whis le pone en el suelo un plato chiquito con algo que parece pescado, pero violeta, con seis aletas. Kase lo olfatea mucho rato. Lo mira a Whis. Vuelve a olfatearlo. Y empieza a comer, despacio, con desconfianza.
-
-Por el borde de la terraza aparece Vegeta. Volando, sin la parte de arriba del traje, cubierto de polvo de roca de pies a cabeza, con un raspón en la frente y cara de no haber dormido nada y de estar enojado con el mundo entero. Aterriza. Se sienta en el almohadón más lejano de Goku. Agarra el plato que Whis le pone delante y se toma la sopa de un trago, sin mirar a nadie.
-
-—¿Y la montaña? —le pregunta Goku.
-
-—Ya no existe —dice Vegeta.
-
-—¿Llegaste a más de ocho?
-
-Vegeta no contesta. Aprieta la cuchara hasta que se dobla.
-
-Whis se sienta en la cabecera, se saca el delantal con un movimiento elegante y se sirve un plato chiquito para él. Prueba una cucharada. Cierra los ojos, satisfecho. Después te mira, desde el otro lado de la mesa, con la sonrisa amable de siempre.
-
-—Bills-sama sigue durmiendo. Puede que hoy no se despierte —dice—. Así que tenemos el día entero. Goku-san y Vegeta-san van a seguir con el azul. —Junta las manos—. ¿Y usted, Facundo-san? Hoy, ¿mira? ¿O participa?
-
-Vegeta, en la otra punta, deja de doblar la cuchara. Te mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1559 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Palacio · terraza del desayuno               ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el suelo, comiendo pescado violeta  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Whis pregunta: ¿mira o participa?  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1560)
+## COMANDO 1 (T1560)
 
 por ahora miro un poco mas
 
-## RESPUESTA 2 (T1560)
+## RESPUESTA 1 (T1560)
 
 > por ahora miro un poco mas
 
@@ -110,11 +58,11 @@ Después cruza la explanada caminando, sudado, con el traje roto, y se para dela
 
 ---
 
-## COMANDO 3 (T1561)
+## COMANDO 2 (T1561)
 
 esta bien
 
-## RESPUESTA 3 (T1561)
+## RESPUESTA 2 (T1561)
 
 > esta bien
 
@@ -159,4 +107,58 @@ Kase, en la mesita, se estira, bosteza y te mira, como preguntando si ya es hora
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, anochecer. Duelo con Vegeta (azul) al amanecer. Goku, de rodillas, pide el suyo después. Whis preparará un suelo más resistente. Facundo puede responder.
+## COMANDO 3 (T1562)
+
+simula hasta mañana
+
+## RESPUESTA 3 (T1562)
+
+> simula hasta mañana
+
+La noche pasa tranquila.
+
+Whis sirve la cena en la terraza: algo que parece pescado y sabe a fruta, algo que parece fruta y sabe a carne, y un postre de color celeste que se mueve solo en el plato. Goku repite cinco veces. Vegeta no baja a cenar; Whis le sube una bandeja y vuelve con la bandeja vacía y una sonrisa. Kase prueba el postre celeste, lo escupe con mucha dignidad y se va a dormir.
+
+Duermes en el cuarto redondo, con Kase contra el pecho y las lunas pasando por la ventana sin vidrio. El ronquido de Bills llega por las paredes, parejo, como siempre. En algún momento de la noche se oye, muy lejos, un destello y un trueno corto: Vegeta, que no duerme.
+
+Te despierta la luz, antes que los soles: una franja gris claro en el borde del planeta.
+
+Kase ya está despierto, sentado en la ventana, mirando hacia la explanada. Te mira cuando te levantas. Baja de la ventana y te sube al hombro, sin apuro, como quien va a ver algo que vale la pena.
+
+La explanada está distinta. Whis cumplió: el suelo de piedra lisa ahora brilla apenas, con unas líneas finas de luz celeste que lo recorren como venas, de punta a punta. Al tocarlo con la bota, se siente duro. Más duro que cualquier cosa que hayas pisado en ese mundo.
+
+Whis está sentado en el borde, en su silla de playa, con una taza humeante entre las manos y el báculo apoyado en el hombro. Te saluda con un gesto de la cabeza.
+
+Detrás de una roca, no muy lejos, asoma una mata de pelo negro en punta. Goku. Escondido. Mal escondido. Se levantó antes que nadie para mirar y se le ven los pies.
+
+Y en el centro de la explanada, solo, con los brazos cruzados, el traje de entrenamiento nuevo y los guantes blancos, Vegeta.
+
+Ya está transformado. Azul. El pelo en punta, de un azul claro, limpio; los ojos celestes, el aura tranquila, chispeante, sin ruido, rodeándolo como agua que hierve sin hacer burbujas. La cara quieta. Más quieta que nunca.
+
+Te ve llegar. No dice nada.
+
+Kase baja de tu hombro solo y se sienta al lado de la silla de Whis, en el borde de la explanada, con la cola enroscada.
+
+Los tres soles empiezan a salir por el borde del planeta, uno detrás de otro.
+
+Vegeta descruza los brazos. Se pone en guardia.
+
+—No me interesa tu ki de insecto —dice, en voz baja—. No me interesa el fuego blanco de la cámara. Quiero lo otro. Lo que hay debajo. —Aprieta los puños—. Hoy no te contengas tanto, Facundo. Me lo prometiste.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1562 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada de entrenamiento · amanecer        ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: junto a la silla de Whis, mirando      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Duelo con Vegeta (SSJ Blue)        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, amanecer en la explanada reforzada. Vegeta en SSJ Blue, en guardia: "Hoy no te contengas tanto. Me lo prometiste." Whis mira; Goku escondido. Facundo puede actuar.

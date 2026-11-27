@@ -136,3 +136,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1558 · Duerme contra el pecho de Facundo en el palacio de Bills, con una pata en su brazo. Abre un ojo ante el SSJ Blue de Goku y lo vuelve a cerrar.
 - T1559 · Come con desconfianza un pescado violeta de seis aletas que le sirve Whis.
 - T1560 · Mira desde la mesita, con los ojos entrecerrados, cómo se mueve Whis.
+- T1562 · Escupe con dignidad el postre celeste de Whis. Al amanecer, mira la explanada desde la ventana; se sienta junto a la silla de Whis para ver el duelo.

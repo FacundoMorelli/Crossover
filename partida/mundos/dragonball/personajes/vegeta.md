@@ -126,3 +126,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1559 · Llega al desayuno sin la parte de arriba del traje, cubierto de polvo, raspón en la frente. "Ya no existe" (la montaña). No contesta si pasó de ocho segundos; dobla la cuchara. Mira a Facundo cuando Whis le pregunta si participa.
 - T1560 · Pierde el azul 14 veces en la primera hora (por enojo). Al atardecer: TRES MINUTOS de SSJ Blue, solo, ojos cerrados, cara tranquila; más que Goku (media sonrisa). Se para delante de Facundo: "Mañana. Tú y yo. Yo en azul. Y tú con eso que escondes. Lo que sea que es."
 - T1561 · Facundo acepta el duelo. "Al amanecer. Antes de que se levante Kakarotto."
+- T1562 · No cena; entrena de noche. Amanecer: ya en SSJ Blue en la explanada, tranquilo. "No me interesa tu ki de insecto. No me interesa el fuego blanco de la cámara. Quiero lo otro. Lo que hay debajo. Hoy no te contengas tanto, Facundo. Me lo prometiste."

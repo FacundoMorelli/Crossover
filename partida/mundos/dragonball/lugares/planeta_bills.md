@@ -5,3 +5,4 @@ Planeta pequeño e irregular: rocas flotantes, árboles que crecen hacia los cos
 - T1557 · Palacio en la mitad de la pirámide: pasillos frescos, columnas talladas con gatos y peces, ventanas sin vidrio, fuentes cuyo agua corre hacia arriba. Cuarto de Facundo: redondo, cama baja con almohadones, ventana enorme sin vidrio al abismo de lunas y rocas flotantes, frutas raras.
 - T1558 · De día, tres soles chicos blancos; las flores se abren todas a la vez.
 - T1559 · Terraza del desayuno colgada sobre el abismo, mesa larga de piedra, almohadones en el suelo.
+- T1562 · Explanada reforzada por Whis: venas de luz celeste en la piedra; más dura que cualquier cosa.
