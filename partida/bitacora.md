@@ -1700,3 +1700,4 @@ T1698 · CHAINSAW MAN · refugio (hotel) · "Lo decide Kase." Kase le da la nuca
 T1699 · CHAINSAW MAN · refugio, lobby · "Soy nuevo." Tendo cierra con llave. Power: "Este huele raro." Kurose pide su nombre para la lista.
 T1700 · CHAINSAW MAN · refugio, 6.º piso · "Soy viajero." Aki da solo "Facundo". Habitaciones: 604 (Aki, Denji, Power), 605 (Kobeni), 612 apartada para Facundo.
 T1701 · CHAINSAW MAN · refugio, 604 · "Puedo dormir en el piso con ellos." Todos en la 604. Aki, bajo: "Tú también lo notaste. Power con la nariz no se equivoca nunca."
+T1702 · CHAINSAW MAN · refugio, 604 · "Sí, lo noté." Aki propone guardia por turnos. Kurose golpea con mantas, sándwiches y té.

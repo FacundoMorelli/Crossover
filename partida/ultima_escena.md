@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1699)
-
-soy nuevo
-
-## RESPUESTA 1 (T1699)
-
-> soy nuevo
-
-> —Soy nuevo.
-
-—Nuevo. —Kurose sonríe otra vez, con todos los dientes, perfectamente—. Ya veo. Bienvenido, entonces.
-
-—Viene por orden de la señorita Makima —dice Aki, bajando del auto, sin mirarlo—. Llamen a la central si quieren confirmarlo.
-
-—No hace falta, Hayakawa-san. Si la señorita Makima lo dice. —Kurose hace otra reverencia corta. Tendo, a su lado, asiente con la cabeza, sonriendo, sin decir nada—. Pasen, por favor. Hace frío.
-
-El lobby del hotel está casi a oscuras. Una sola lámpara prendida en el mostrador de recepción, sin recepcionista. Sillones de cuero marrón cuarteado, una planta de plástico con polvo en las hojas, un televisor apagado en un rincón y un olor a cigarrillo viejo y alfombra húmeda. El ascensor tiene una puerta de metal con una flecha que no se ilumina.
-
-Tendo cierra la puerta de vidrio a sus espaldas. Le pone llave. Se guarda la llave en el bolsillo del saco.
-
-Power, que entró pisándole los talones a Denji, se detiene de golpe en el medio del lobby. Levanta la nariz. Olfatea. Una vez. Otra. Mira a Kurose, de arriba abajo, con los ojos en cruz entrecerrados.
-
-—Este huele raro —anuncia, señalándolo con el dedo, en voz bien alta.
-
-Kurose no deja de sonreír.
-
-—Disculpe, señorita. Es la lluvia. Y el viaje desde Kioto.
-
-—No. —Power olfatea más fuerte, acercándose, sin ninguna vergüenza—. Huele como... —Frunce toda la cara—. No sé. Raro. Como cuando algo está puesto encima de otra cosa.
-
-—Power, es de mala educación olerle a la gente —murmura Kobeni, aterrada, sin saber a quién tenerle más miedo.
-
-—¡Power huele a quien quiere!
-
-Denji bosteza, enorme, todavía con la semilla en el bolsillo del pecho, y se tira en uno de los sillones de cuero, que suelta una nube de polvo. Aki mira a Power. Mira a Kurose. No dice nada, pero no saca la mano del bolsillo del saco.
-
-Kurose se vuelve hacia ti, como si no hubiera pasado nada. Saca una libreta chiquita y una lapicera del bolsillo interior.
-
-—Las habitaciones están en el sexto piso, una al lado de la otra. Ya preparamos todo. —Abre la libreta, con la lapicera lista—. Solo necesito su nombre completo para la lista, señor. Por formalidad. —Levanta la vista, amable—. ¿Y es de la oficina de Tokio, o viene de afuera?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1699 · CHAINSAW MAN · DÍA 1 · 20:37    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel de negocios, lobby            ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1700)
+## COMANDO 1 (T1700)
 
 soy viajero
 
-## RESPUESTA 2 (T1700)
+## RESPUESTA 1 (T1700)
 
 > soy viajero
 
@@ -113,11 +56,11 @@ Detrás de él, en la puerta de la 604, Power te mira a ti, mira la llave, mira 
 
 ---
 
-## COMANDO 3 (T1701)
+## COMANDO 2 (T1701)
 
 no, esta bien, no necesito una cama, puedo dormir en el piso con ellos
 
-## RESPUESTA 3 (T1701)
+## RESPUESTA 2 (T1701)
 
 > no, esta bien, no necesito una cama, puedo dormir en el piso con ellos
 
@@ -174,4 +117,57 @@ Después se da vuelta, se te acerca, te habla muy bajo, mientras Denji sube el v
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:45, habitación 604 del refugio, todos juntos (Aki, Denji, Power, Kobeni, Facundo, Kase). Kurose insistió con la 612 y cedió ("Les traeremos mantas extra"); se fue a la escalera con Tendo. Denji: "¡Una pijamada!" Power: "¡Kase duerme con Power!" Kobeni pidió no dormir sola. Aki cerró con llave y cadena. A Facundo, bajo: "Tú también lo notaste, ¿no? Lo del cuarto apartado. Y lo que dijo Power. Power miente todo el tiempo. Pero con la nariz no se equivoca nunca."
+## COMANDO 3 (T1702)
+
+si, lo note
+
+## RESPUESTA 3 (T1702)
+
+> si, lo note
+
+> —Sí, lo noté.
+
+Aki asiente una sola vez, despacio, sin dejar de mirar la puerta.
+
+—Bien. —Se suelta el nudo de la corbata con dos dedos—. No sé quiénes son. Puede que sean de Kioto de verdad y que el de anteojos sea un tipo raro, nada más. Hay muchos tipos raros en Seguridad Pública. —Te mira de reojo—. Hay muchos tipos raros esta noche.
+
+Saca la radio del cinturón, la mira y la deja sobre la cómoda, al lado del televisor, con el volumen bajo.
+
+—No voy a llamar a la central desde acá. Si son lo que creo, la línea la escuchan. Y si me equivoco, quedo como un paranoico delante de Kioto. —Se pasa una mano por el pelo, se acomoda el rodete—. Así que hacemos guardia. Por turnos. Tú y yo. Denji se duerme en cinco minutos y no lo despierta ni una bomba. Power... —Mira a Power, que está construyendo un fuerte de almohadas en la cama del medio con muchísima concentración—. Power es Power. Y Kobeni... —Mira a Kobeni en el rincón, que ya tiene el cuchillo en la mano otra vez, apuntando a la puerta con las dos manos—. Kobeni no va a dormir en toda la noche de todas maneras.
+
+Se queda callado un momento. Después baja todavía más la voz.
+
+—Lo de la avenida. Los cuarenta y seis. —Te mira de frente, por primera vez desde que entraron—. Si esos dos intentan algo, ¿puedes hacer lo mismo? ¿Así de rápido?
+
+En la tele, el conductor del programa de preguntas pregunta cuál es la capital de Australia. Denji grita "¡Australia!" con toda la seguridad del mundo. Power le tira una almohada.
+
+Y alguien golpea la puerta.
+
+Tres golpes suaves, educados, con los nudillos.
+
+—Disculpen. —La voz de Kurose, del otro lado, amable—. Les traemos las mantas extra. Y unos sándwiches y té, si tienen hambre. Son cortesía de la oficina.
+
+Denji se sienta en la cama de un salto.
+
+—¡¿Sándwiches?!
+
+Aki se queda quieto, con la mano a medio camino de la katana. Te mira a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1702 · CHAINSAW MAN · DÍA 1 · 20:52    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, habitación 604               ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:52, habitación 604. Aki no llama a la central (la línea podría estar escuchada); propone guardia por turnos con Facundo. Pregunta: "Si esos dos intentan algo, ¿puedes hacer lo mismo? ¿Así de rápido?" Golpean la puerta: Kurose trae mantas, sándwiches y té "cortesía de la oficina". Denji: "¡¿Sándwiches?!" Aki, mano a medio camino de la katana, mira a Facundo.

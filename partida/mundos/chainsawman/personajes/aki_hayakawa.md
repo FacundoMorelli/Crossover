@@ -22,3 +22,4 @@ ENCUENTROS:
 - T1699 · "Viene por orden de la señorita Makima. Llamen a la central si quieren confirmarlo." Al oír a Power, no saca la mano del bolsillo del saco.
 - T1700 · Responde por Facundo: "Facundo. Es todo lo que necesitas por ahora. Si quieres más, llama a la central." (no da el apellido).
 - T1701 · "Está bien. Todos en la 604. Es más fácil cuidar una puerta que tres." Cierra con llave y cadena. A Facundo, bajo: "Tú también lo notaste, ¿no? Lo del cuarto apartado. Y lo que dijo Power. Power miente todo el tiempo. Pero con la nariz no se equivoca nunca." RELACIÓN: empieza a confiar en Facundo como aliado.
+- T1702 · Sabe (por Facundo) que él también notó lo raro de Kurose. "Puede que sean de Kioto de verdad... Hay muchos tipos raros esta noche." No llama a la central ("si son lo que creo, la línea la escuchan"). Propone guardia por turnos: "Tú y yo." "Lo de la avenida. Los cuarenta y seis. Si esos dos intentan algo, ¿puedes hacer lo mismo? ¿Así de rápido?"
