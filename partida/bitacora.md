@@ -1488,3 +1488,4 @@ T1486 · SHINGEKI · Muelle · "Vamos a otro lugar. Al aire libre." Ymir: "¿Y a
 T1487 · SHINGEKI → DRAGON BALL · Radio de Hange; noche con Ymir en el bosque de los árboles gigantes (luciérnagas). Despedida en los jardines: "Vuelve antes de que se me arruguen otra vez las manzanas." Puerta al Templo Sagrado, año ~777: Mr. Popo y Dende.
 T1488 · DRAGON BALL · Templo Sagrado · Dende cuenta los tres años (boda de Gohan y Videl, Goku en el planeta de Kaio-sama, fiesta de Bulma pronto). Ofrece avisarle a Kaio-sama.
 T1489 · DRAGON BALL · Templo Sagrado · "Yo lo voy a ver." Mr. Popo: gravedad x10. Mensaje de Milk para Goku. "Vuelve a visitarnos."
+T1490 · DRAGON BALL · Templo → planeta de Kaio-sama · Dende no irá a la fiesta. Llegada al planeta de Kaio (gravedad x10). Kaio-sama no siente su ki. Goku: "¡FACUNDO! ¿Peleamos?"

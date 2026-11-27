@@ -29,3 +29,4 @@ ESTADO: bien.
 - T1487 · Año ~777 · Más alto, ya no es un chico aunque tenga la cara de uno; túnica de Dios. "¡Facundo-san! ¡Volviste!"
 - T1488 · Cuenta los casi tres años de paz (ver conocimiento). Goku pregunta por Facundo cada vez que habla con Kaio-sama. Fiesta de cumpleaños de Bulma pronto. "¿Quieres que le avise a Kaio-sama que estás aquí?"
 - T1489 · "¡Tú también puedes hacer eso de Goku-san!... A veces me olvido de que no eres... bueno, normal." Mensaje de Milk para Goku: que vuelva para la fiesta de Bulma o no le cocina nunca más. "Vuelve a visitarnos, Facundo-san."
+- T1490 · No puede bajar a la fiesta de Bulma (Dios cuida la Tierra); los mirarán desde arriba; Bulma les manda comida (pastel de cinco pisos el año pasado).

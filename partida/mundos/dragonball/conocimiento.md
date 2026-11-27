@@ -69,3 +69,5 @@
 - Mr. Popo, Dende · T1487 · Ven a Facundo llegar por una puerta al Templo Sagrado (año ~777).
 - Facundo · T1488 · Por Dende: todo lo de los tres años (boda de Gohan y Videl, Goku en el planeta de Kaio-sama, fiesta de Bulma pronto; Videl quiere revancha).
 - Dende, Mr. Popo · T1489 · Por Facundo: va a ir a ver a Goku (al planeta de Kaio-sama).
+- Kaio-sama, Bubbles, Gregory · T1490 · Ven a Facundo aparecer de la nada. Kaio-sama no le siente el ki (Velo). Por Goku: es "Facundo, el del gato".
+- Facundo · T1490 · Por Dende: Dende y Mr. Popo no bajan a la fiesta de Bulma.

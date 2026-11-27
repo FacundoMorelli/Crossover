@@ -18,3 +18,4 @@ ESTADO: bien.
 - T1487 · Año ~777 · Riega un jardín de flores nuevo. "Mr. Popo dice hola al gato. Y al chico del gato. Pasó mucho tiempo."
 - T1488 · "Mr. Popo riega mucho."
 - T1489 · "El planeta de Kaio-sama es chico. Pesa diez veces más que la Tierra. El gato va a sentirlo." "Mr. Popo cuida las flores."
+- T1490 · "Mr. Popo se comió dos y medio."

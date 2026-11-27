@@ -3,103 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1487)
-
-a un lugar lindo, simula hasta que mañana me vaya a dragon ball
-
-## RESPUESTA 1 (T1487)
-
-> a un lugar lindo, simula hasta que mañana me vaya a dragon ball
-
-> —A un lugar lindo.
-
-Ymir pone los ojos en blanco.
-
-—Qué respuesta tan completa —dice. Pero no te suelta la manga.
-
-El día pasa entre las carretas de vuelta y el palacio. A media tarde vuelves al patio del ala este, como le prometiste a Hange con el pulgar lleno de grasa. Te muestra la radio grande: un cajón de madera lleno de alambre, válvulas hechas a mano y una manivela que gira sola cuando la sueltas. La enciende. Sale ruido, y entre el ruido, muy lejos, una voz de hombre que lee algo en marleyano, despacio, como si leyera las noticias. Hange te mira con los ojos llenos de lágrimas y no dice nada, por primera vez en su vida. Levi está sentado en la moto, apagada, limpiándole el manubrio con el mismo pañuelo que sacrificó a la mañana.
-
-Al atardecer, Ymir te espera en los jardines, con la canasta de mimbre en el brazo. Ya no hay manzanas: ahora tiene pan, queso, una botella de vino que le robó a la cocina del palacio y una manta.
-
-Le tomas la mano.
-
-Dos dedos en la frente.
-
-El bosque de los árboles gigantes está al oeste de Wall Rose. Troncos tan anchos como casas, que suben hasta perderse en la oscuridad, con las copas tan altas que desde abajo parecen otro cielo. Las raíces forman colinas cubiertas de musgo. Entre los troncos corre un río ancho, lento, que refleja la última luz del sol. Y en cuanto oscurece, se llena de luciérnagas. Miles. Cientos de miles. Subiendo despacio entre los troncos, como chispas de una fogata que no se apaga nunca.
-
-Ymir se queda parada en la orilla con la canasta en la mano.
-
-—Aquí pasaba la Legión con los caballos —dice, muy bajo—. Aquí murió la mitad de la escuadra del enano. —Mira las luciérnagas—. Y ahora mira esto.
-
-Extienden la manta sobre una raíz enorme, junto al agua. Comen el pan y el queso. Toman el vino de la botella, sin vasos, pasándosela. Kase se trepa a una rama baja, a la altura de sus cabezas, y se queda mirando las luciérnagas con los ojos rojo y azul abiertos de par en par, intentando atrapar alguna con la pata, sin ganas de verdad.
-
-Ymir te cuenta cosas que nunca te contó. Cómo era ser titán: no un recuerdo, sino una niebla larga, de hambre y de nada. Cómo despertó en la muralla siendo otra vez ella. Cómo se le hacía raro, todavía, cortarse con un papel y que la sangre no humeara. Se ríe de todo eso. Se ríe más fuerte cuando más le duele.
-
-Después ya no habla.
-
-Se acuesta sobre la manta, con la cabeza en tu pecho, mirando cómo las luciérnagas suben hacia las copas. Te agarra la mano y la pone sobre su corazón, y la deja ahí.
-
-...
-
-La despierta el sol, que entra entre los troncos en franjas largas y doradas.
-
-Ymir abre los ojos, despeinada, con la manta hasta la barbilla y una hoja seca pegada en el pelo. Te mira. No dice nada durante un rato largo.
-
-Después se sienta. Se quita la hoja del pelo. Se la queda mirando.
-
-—Ya es mañana —dice.
-
-Vuelven al palacio por el mismo truco que odia. En los jardines, entre los setos, junto al mismo camino de grava donde te vio llegar, Ymir se para delante de ti. Se cruza de brazos. Levanta la barbilla.
-
-—No voy a llorar —avisa—. Así que no te hagas ilusiones.
-
-Te agarra de la solapa. Te besa. Fuerte, rápido, como si tuviera miedo de que el beso dure demasiado.
-
-Te suelta.
-
-—Vete, lindo. Y vuelve antes de que se me arruguen otra vez las manzanas.
-
-Abres la puerta en medio del jardín. Kase te salta al hombro. Ymir no se mueve. No saluda. Levanta la barbilla, como la última vez.
-
-Cruzas.
-
-Del otro lado hace calor y el aire está limpio, fino, de altura. Huele a flores, a piedra caliente, a cielo.
-
-Estás en el Templo Sagrado, suspendido sobre las nubes. El piso blanco, las palmeras, el edificio redondo de techo dorado. A lo lejos, el borde de la plataforma, y más allá, nada: nubes hasta el horizonte, y abajo, muy abajo, la Tierra.
-
-Algo cambió. Las palmeras están más altas. Hay un jardín de flores nuevo junto al edificio, bien cuidado. Y en el centro del patio, regando las flores con una regadera de lata, está Mr. Popo, igual que siempre.
-
-Levanta la vista. Te ve. Ve a Kase.
-
-No cambia la cara. Deja la regadera en el piso, con cuidado.
-
-—Mr. Popo dice hola al gato —dice—. Y al chico del gato. Pasó mucho tiempo.
-
-Detrás de él, desde la puerta del edificio, sale corriendo alguien alto, verde, delgado, con antenas en la frente y una túnica blanca con el símbolo de Dios bordado en el pecho. Más alto que la última vez. Mucho más alto: ya no es un chico, aunque todavía tiene la cara de uno.
-
-—¡Facundo-san! —Dende se frena en seco a tres pasos, con los ojos muy abiertos—. ¡Volviste!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1487 · DRAGON BALL · AÑO 777 · MAÑANA  ║
-║ Templo Sagrado                               ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: — · algo de Shingeki para Robin    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1488)
+## COMANDO 1 (T1488)
 
 hola dende, como estan todos? (cuanto queda para bills?)
 
-## RESPUESTA 2 (T1488)
+## RESPUESTA 1 (T1488)
 
 > hola dende, como estan todos? (cuanto queda para bills?)
 
@@ -145,11 +53,11 @@ Se da vuelta hacia ti, con las manos juntas delante del pecho.
 
 ---
 
-## COMANDO 3 (T1489)
+## COMANDO 2 (T1489)
 
 yo lo voy a ver, no te preocupes
 
-## RESPUESTA 3 (T1489)
+## RESPUESTA 2 (T1489)
 
 > yo lo voy a ver, no te preocupes
 
@@ -192,4 +100,74 @@ Después sonríe. Una sonrisa tranquila, de alguien que lleva tres años mirando
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777, Templo Sagrado. Facundo va a ir a ver a Goku al planeta de Kaio-sama; Dende le dio el mensaje de Milk. Facundo puede actuar.
+## COMANDO 3 (T1490)
+
+dale, ustedes van al cumple de bulma no? espero a que me conteste y me teletransporto con goku
+
+## RESPUESTA 3 (T1490)
+
+> dale, ustedes van al cumple de bulma no? espero a que me conteste y me teletransporto con goku
+
+> —Está bien. Ustedes van al cumpleaños de Bulma, ¿no?
+
+Dende se pone un poco colorado, que en un namekiano es un verde más oscuro.
+
+—Yo no puedo bajar mucho tiempo. Si Dios se va de fiesta, nadie cuida la Tierra. —Se encoge de hombros, sin pena—. Pero los vamos a mirar desde aquí. Bulma-san siempre nos manda una caja de comida. El año pasado mandó un pastel de cinco pisos. Mr. Popo se comió tres.
+
+—Mr. Popo se comió dos y medio —corrige Mr. Popo.
+
+Dende se ríe y te hace un saludo con la mano.
+
+Te tocas la frente con dos dedos.
+
+El ki de Goku está muy lejos. Más allá de la Tierra, más allá del cielo, al final de un camino larguísimo que sube y sube y se pierde en el Otro Mundo. Pero es imposible no encontrarlo: grande, cálido, encendido, como un sol chiquito y alegre en medio de la nada.
+
+El templo desaparece.
+
+Y te pesa todo.
+
+El cuerpo, de golpe, como si te hubieran puesto diez de ti encima de los hombros. Las rodillas ceden un centímetro antes de que el cuerpo se acomode, y se acomoda. Kase, en tu hombro, se aplasta contra el sobretodo con las uñas clavadas en la tela, las orejas hacia atrás, los ojos rojo y azul abiertos de indignación.
+
+Estás en un planeta diminuto. Tan chico que se ve la curva del horizonte a pocos pasos, en todas direcciones. Pasto verde, cortito, un camino de piedra, un árbol solo, una casita redonda de techo rojo y un auto antiguo estacionado al costado. Arriba, un cielo amarillo y raro, sin sol. Un poco más allá, en el borde del planeta, empieza el Camino de la Serpiente, enroscado entre nubes que no terminan nunca.
+
+En medio del pasto, sin camiseta, con el pelo negro en punta y una pesa enorme atada a cada tobillo, Goku está haciendo flexiones con un solo dedo.
+
+Junto a él, sentado en una reposera con lentes oscuros, antenas y una bata, un hombre bajito y azul toma algo de un vaso con sombrillita. A su lado, un mono sentado le abanica la cara con una hoja. Un grillo con alas revolotea por encima.
+
+El hombre azul se atraganta con el vaso.
+
+—¡¿Q-q-quién es ese?! —Se levanta de un salto, señalándote con el dedo, tosiendo—. ¡No sentí nada! ¡Apareció de la nada! ¡Y no tiene nada de energía! ¡Cero!
+
+Goku levanta la cabeza desde el suelo, con el dedo todavía apoyado en el pasto. Te ve.
+
+Se le ilumina la cara entera.
+
+—¡FACUNDO! —Se pone de pie de un salto, arrastrando las pesas, que hacen un agujero en el pasto—. ¡Volviste! ¡Kaio-sama, este es Facundo! ¡El del gato! ¡Te hablé de él mil veces!
+
+—¡Me hablaste de él mil veces! —grita Kaio-sama—. ¡Y nunca me dijiste que no se le siente el ki!
+
+Goku ya no lo escucha. Se te para delante, a un paso, sonriendo de oreja a oreja, apretando los puños, temblando apenas de pura emoción, como un chico la mañana de un torneo.
+
+—¡Llegaste justo! —dice—. ¡Hace meses que no tengo con quién pelear en serio! ¡Kaio-sama no cuenta, se cansa enseguida!
+
+—¡Oye!
+
+—¿Peleamos? —Se le encienden los ojos—. Solo un poco. Bueno, no tan poco.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1490 · DRAGON BALL · AÑO 777 · ---     ║
+║ Otro Mundo · planeta de Kaio-sama            ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: aplastado en el hombro (gravedad x10)  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Ver a Goku · mensaje de Milk       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777, planeta de Kaio-sama. Goku, feliz, propone pelear "no tan poco". Kaio-sama asustado porque no le siente el ki. Pendiente: mensaje de Milk. Facundo puede responder.

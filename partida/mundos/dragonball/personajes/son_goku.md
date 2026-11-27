@@ -55,3 +55,4 @@ DIÁLOGOS CLAVE:
 - T178: "¡Vegeta! ¡Tu pelea es conmigo, no con él!" / "¡Oye, tú, el del gato! ¡Gracias por salvar a la gente del torneo! ¡Quédate ahí!"
 - T177: "¡Eh! ¿Quién es ese? ¡No siento nada de él!"
 - T175: "¡Vegeta! ¡¿Qué te pasa?!"
+- T1490 · Año ~777 · Planeta de Kaio-sama, flexiones con un dedo y pesas en los tobillos. Ve a Facundo: "¡FACUNDO! ¡Volviste! ¡Kaio-sama, este es Facundo! ¡El del gato! ¡Te hablé de él mil veces!" "¡Hace meses que no tengo con quién pelear en serio!" "¿Peleamos? Solo un poco. Bueno, no tan poco."
