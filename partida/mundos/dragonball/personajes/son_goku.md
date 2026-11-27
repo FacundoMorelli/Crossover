@@ -99,3 +99,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1558 · Sin dormir, despierta a Facundo y le muestra SSJ BLUE durante quince segundos (pelo y aura azules, ojos celestes). "¡Quince segundos! ¡Anoche era uno!" Whis dice que en unos días lo mantendrá todo lo que quiera. "Y fue idea tuya. Gracias, Facundo."
 - T1559 · "¡Sabe rarísimo! ¡Pero está rica!" A Vegeta: "¿Y la montaña?" "¿Llegaste a más de ocho?"
 - T1560 · Pierde el azul por reírse cada vez que le sale. A la tarde: UN MINUTO entero de SSJ Blue; grita de alegría.
+- T1561 · "¡¿Mañana pelean?! ¡Eso no es justo! ¡Yo también quiero! ¡Yo te pedí primero!" De rodillas: "¡Después de Vegeta, conmigo! ¡En azul! ¡Por favor!"

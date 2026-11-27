@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1558)
-
-duermo con kase
-
-## RESPUESTA 1 (T1558)
-
-> duermo con kase
-
-Te acuestas en la cama baja, entre los almohadones de colores. Kase se corre apenas, lo justo, sin despertarse del todo, y se acomoda contra tu pecho, con la cabeza debajo de tu barbilla. Ronronea un rato, bajito. Después se queda quieto.
-
-Por la ventana sin vidrio entra un aire tibio que huele a flores que no conoces. Las lunas se mueven despacio por el cielo violeta. A lo lejos, cada tanto, un destello azul ilumina el abismo, y después otro, cada vez un poco más largo. El ronquido de Bills llega desde arriba, por las paredes de piedra, grave y parejo, como el ruido del mar.
-
-Te duermes.
-
-Te despierta la luz.
-
-No hay un sol: hay varios. Tres soles chicos, blancos, que salieron juntos por el borde del planeta y llenan el cuarto de una luz dorada y suave. Las flores de afuera se abrieron todas a la vez y el aire huele todavía más dulce. Kase sigue dormido contra tu pecho, con una pata encima de tu brazo.
-
-Alguien golpea la puerta. Fuerte. Muchas veces seguidas.
-
-—¡Facundo! ¡Facundo, despierta!
-
-La puerta se abre de golpe. Es Goku, con el gi naranja roto por todos lados, la cara sucia, el pelo revuelto, los ojos brillantes y una sonrisa de oreja a oreja. No durmió. Se nota. Y no le importa.
-
-—¡Mira! ¡Mira esto!
-
-Se para en el medio del cuarto. Cierra los ojos. Respira hondo.
-
-El pelo se le pone dorado. Después, despacio, sin gritar, el dorado se le apaga y se le vuelve azul. Un azul claro, limpio, brillante, como el cielo de un día sin nubes. El aura le nace alrededor del cuerpo, azul también, tranquila, chispeante, sin hacer ruido. Los ojos, celestes.
-
-Y se queda así.
-
-Uno, dos, tres segundos. Cinco. Diez.
-
-Kase abre un ojo, lo mira y lo vuelve a cerrar.
-
-A los quince segundos, el azul parpadea, se apaga, y Goku cae sentado al piso, sin aire, riéndose.
-
-—¡Quince! —grita—. ¡Quince segundos! ¡Anoche era uno! —Se ríe tanto que se tiene que agarrar la panza—. Vegeta llegó a ocho y se enojó tanto que se fue a romper una montaña. Whis dice que en unos días lo voy a poder mantener todo lo que quiera.
-
-Te mira desde el suelo, con los ojos brillantes.
-
-—Y fue idea tuya. —Se pone serio, de golpe, solo un segundo—. Gracias, Facundo. —Después vuelve la sonrisa enorme—. ¡Ahora vamos a desayunar! ¡Whis hizo algo que se llama "sopa de estrellas" y huele rarísimo!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1558 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Palacio de la pirámide · tu cuarto           ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la cama, contra tu pecho            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Unos días en el planeta de Bills · ║
-║ misión de copia del Hakai                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1559)
+## COMANDO 1 (T1559)
 
 voy con goku a desayunar
 
-## RESPUESTA 2 (T1559)
+## RESPUESTA 1 (T1559)
 
 > voy con goku a desayunar
 
@@ -116,11 +55,11 @@ Vegeta, en la otra punta, deja de doblar la cuchara. Te mira.
 
 ---
 
-## COMANDO 3 (T1560)
+## COMANDO 2 (T1560)
 
 por ahora miro un poco mas
 
-## RESPUESTA 3 (T1560)
+## RESPUESTA 2 (T1560)
 
 > por ahora miro un poco mas
 
@@ -171,4 +110,53 @@ Después cruza la explanada caminando, sudado, con el traje roto, y se para dela
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, atardecer. Goku 1 min de azul, Vegeta 3 min. Vegeta, delante de Facundo: "Mañana. Tú y yo. Yo en azul. Y tú con eso que escondes." Facundo puede responder.
+## COMANDO 3 (T1561)
+
+esta bien
+
+## RESPUESTA 3 (T1561)
+
+> esta bien
+
+> —Está bien.
+
+Vegeta asiente. Una sola vez. Seco. No dice nada más. Se da vuelta y se va caminando hacia la pirámide, con el traje roto y los hombros derechos, sin mirar atrás.
+
+A los diez pasos, se detiene. No se da vuelta.
+
+—Al amanecer —dice—. Antes de que se levante Kakarotto.
+
+Y sigue.
+
+Goku, que viene corriendo desde la explanada, frena en seco al lado de tu silla, con la cara sucia y los ojos enormes.
+
+—¡¿Qué?! ¡¿Mañana pelean?! ¡¿Tú y Vegeta?! —Mira a Vegeta, que ya entra al palacio, y te vuelve a mirar a ti—. ¡Eso no es justo! ¡Yo también quiero! ¡Yo te pedí primero! Bueno, en el planeta de Kaio-sama. ¡Pero te pedí primero!
+
+Se tira de rodillas al lado de la silla de playa, con las manos juntas.
+
+—¡Después de Vegeta, conmigo! ¡En azul! ¡Por favor!
+
+Whis se acerca caminando despacio, con el báculo, mirando el cielo violeta, donde empiezan a salir las lunas una por una.
+
+—Qué interesante va a ser la mañana —dice, a nadie en particular. Y después, mirándote de reojo—: Le voy a preparar a la explanada un suelo más resistente. Por las dudas.
+
+Kase, en la mesita, se estira, bosteza y te mira, como preguntando si ya es hora de dormir.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1561 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · anochecer               ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la mesita, bostezando               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Al amanecer, duelo con Vegeta      ║
+║ (azul) · Goku quiere después                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, anochecer. Duelo con Vegeta (azul) al amanecer. Goku, de rodillas, pide el suyo después. Whis preparará un suelo más resistente. Facundo puede responder.
