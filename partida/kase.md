@@ -115,3 +115,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1501 · Dragon Ball · Se mete al arroyo del Monte Paoz para ayudar a Goten a pescar (según Goten). Bigotes mojados.
 - T1502 · Mira los 43 dibujos de Goten en la pared como un crítico en una exposición.
 - T1505 · Atrapa sin moverse los pedazos de pescado de Goten. Duerme en el medio de la cama de la casita. Camina en línea recta por los surcos recién hechos.
+- T1508 · Le olfatea la cara a Goku desmayado y le apoya una pata en el pecho para comprobar que respira.

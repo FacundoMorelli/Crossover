@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1505)
-
-simula hasta que terminemos de trabajar
-
-## RESPUESTA 1 (T1505)
-
-> simula hasta que terminemos de trabajar
-
-La tarde pasa despacio.
-
-Goku duerme en la hamaca hasta que el sol se pone, y se despierta solo cuando huele la cena. Milk hace comida para diez, que en esa casa es comida para tres. Goten termina las tablas de multiplicar a las apuradas, con la mitad mal, y se pasa la cena tirándole pedacitos de pescado a Kase por debajo de la mesa. Kase los atrapa todos sin moverse de la silla. Goku cuenta, con la boca llena, cómo recibiste el Kamehameha con las manos, y lo cuenta tres veces, cada vez más exagerado. A la tercera, el Kamehameha era del tamaño de la luna. Milk le pega con el cucharón para que mastique con la boca cerrada.
-
-Duermes en la casita de al lado. Las sábanas huelen a jabón y a sol. Kase se echa en el medio de la cama, como en todos los mundos.
-
-A las cinco y media de la mañana, Goku golpea la puerta de la casita. Tiene puesta la ropa de trabajo, un sombrero de paja de granjero y la cara de alguien a quien llevan al dentista.
-
-El campo norte es grande. El de abajo, más todavía. Tierra dura, llena de piedras, raíces y un tronco viejo caído en el medio que nadie movió en años.
-
-Goku agarra el arado con las dos manos, como Milk le enseñó, y empieza a tirar. Muy despacio. Muy derecho. Muy aburrido.
-
-Después de diez minutos, se da vuelta hacia ti con cara de desesperación.
-
-A los veinte minutos, el arado ya no lo tira nadie: lo empujan con ki. Goku traza los surcos con una ráfaga de energía a ras del suelo, derechos como reglas, y tú vas detrás, levantando las piedras con la Luna y apilándolas en un costado del campo, todas a la vez, en una montaña prolija. El tronco viejo lo levantas con una mano y lo dejas junto a la casa, para leña. Las raíces salen solas, arrancadas de un tirón con un hilo de gravedad. Kase camina por los surcos recién hechos, en línea recta, como si los inspeccionara.
-
-A las ocho, el campo norte está arado. A las diez menos cuarto, el de abajo también.
-
-Milk sale de la casa con los brazos cruzados y recorre los dos campos, surco por surco, sin decir nada. Se agacha. Agarra un puñado de tierra. Lo deshace entre los dedos. Mira la montaña de piedras, el tronco, las raíces apiladas.
-
-Se para delante de los dos. Goku tiene el sombrero de granjero en las manos, como un alumno esperando la nota.
-
-—Está bien —dice Milk.
-
-Una pausa larguísima.
-
-—Está muy bien, en realidad. —Se le escapa algo parecido a una sonrisa, y lo esconde enseguida—. Mejor que nunca. —Mira a Goku—. Mejor que cuando lo haces tú solo en dos días.
-
-—¡Entonces...!
-
-—Entonces entrenan. —Milk levanta un dedo—. Pero lejos. Si me rompen una sola teja, mañana aran el campo del vecino.
-
-Se da vuelta y vuelve a la casa.
-
-Goku tira el sombrero de granjero al aire. No le cae a nadie en la cara esta vez. Se da vuelta hacia ti con los ojos brillantes y los puños apretados, temblando de ganas.
-
-—¡Terminamos! —grita—. ¡Y son las diez de la mañana! ¡Tenemos todo el día!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1505 · DRAGON BALL · AÑO 777 · 09:45   ║
-║ Monte Paoz · campo de abajo                  ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en un surco, inspeccionando            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Goku · enseñarle algo ║
-║ a Goten · fiesta de Bulma el sábado          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1506)
+## COMANDO 1 (T1506)
 
 vayamos
 
-## RESPUESTA 2 (T1506)
+## RESPUESTA 1 (T1506)
 
 > vayamos
 
@@ -121,11 +58,11 @@ Levanta un dedo.
 
 ---
 
-## COMANDO 3 (T1507)
+## COMANDO 2 (T1507)
 
 me transformó en mi transformación
 
-## RESPUESTA 3 (T1507)
+## RESPUESTA 2 (T1507)
 
 > me transformó en mi transformación
 
@@ -180,4 +117,83 @@ Al lado de la tuya, parece una vela al lado de una fogata.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, día 2, 10:17, páramo. Facundo en Forma Cenit (x10, 45 min). Goku en SSJ3, en guardia: "¡No te contengas tanto esta vez! ¡Solo un poquito menos!" Facundo puede actuar.
+## COMANDO 3 (T1508)
+
+esta bien, peleó con goku y no me contengo tanto
+
+## RESPUESTA 3 (T1508)
+
+> esta bien, peleó con goku y no me contengo tanto
+
+> —Está bien.
+
+Y dejas de contenerte tanto.
+
+Goku viene con todo lo que tiene. El primer golpe del Super Saiyajin 3 te llega directo al pecho, con un estallido que se oye en todo el páramo.
+
+No te mueves.
+
+El puño de Goku se queda apoyado en tu pecho, contra las llamas blancas y azules, temblando. Goku te mira por encima del brazo, con los ojos verdes muy abiertos.
+
+Le das un golpe en el estómago con la palma abierta.
+
+Goku sale despedido hacia atrás como una piedra tirada por una honda. Cruza la meseta, cruza el cañón, choca contra la pared de la meseta de enfrente y la atraviesa entera, de lado a lado, y sale por el otro lado envuelto en polvo y pedazos de roca. Frena en el aire, a medio kilómetro, tosiendo.
+
+Y vuelve. Riéndose.
+
+Lo que sigue dura diez minutos. Goku lo intenta todo. Velocidad: desaparece y aparece por todos lados, a tu alrededor, imágenes residuales de a diez, de a veinte, hasta que el aire de la meseta se llena de Gokus dorados. Las atraviesas todas con la mirada y le agarras el tobillo al verdadero. Fuerza: te tira una lluvia de golpes, cientos, tan rápido que parecen uno solo largo, y los paras uno por uno con una mano. Ki: ráfagas, ondas, un Kamehameha a quemarropa que te explota en la cara y te despeina un poco más. Combina. Finge. Se esconde en el cañón y te ataca desde abajo. Se tira desde las nubes en picada.
+
+Cada vez que llega, lo devuelves más lejos. Cada vez que vuelve, vuelve más cansado y más feliz.
+
+El páramo no es el mismo. Tres mesetas menos. Un cañón nuevo, recto, donde lo arrastraste por el suelo. Una columna de roca que ya no tiene punta. Kase, en el borde de la única meseta que sigue entera, mira todo con la cola enroscada, sin pestañear.
+
+Al final, Goku está parado en el aire, frente a ti, a veinte metros. Respira como un fuelle roto. El aura dorada se le apaga y se le prende, se le apaga y se le prende. Tiene la camiseta hecha jirones, un ojo morado, sangre en la boca. Las piernas le tiemblan, y ahora no es de emoción.
+
+Levanta los puños igual.
+
+—Uno... más... —dice.
+
+Se lanza. Despacio. Muy despacio para él.
+
+Le paras el puño con un dedo. Le das un golpecito en la frente, con el dedo, nada más.
+
+El aura de Goku se apaga del todo. El pelo dorado se le cae, se le vuelve negro, corto, en punta. Los ojos se le ponen en blanco. Y empieza a caer, desmayado, hacia el fondo del cañón.
+
+Lo agarras de la camiseta en el aire antes de que llegue.
+
+Lo dejas en el suelo de la meseta, al lado de Kase. Kase lo mira. Le olfatea la cara. Le apoya una pata en el pecho, como para comprobar que respira.
+
+Respira.
+
+Un minuto después, Goku abre un ojo, el que no tiene morado. Te ve, todavía en Forma Cenit, con las llamas blancas y azules contra el cielo. Se ríe, y le duele, y se ríe igual.
+
+—Ja... ja... —Tose—. Eso era "un poquito menos"...
+
+Se queda mirando el cielo, tirado en la roca, con los brazos abiertos.
+
+—Quiero llegar ahí —dice, bajito—. A donde estás tú. No sé cómo. Pero quiero llegar.
+
+[Duelo con un compañero vencido: Son Goku.]
+
+[+25.000 Fragmentos.]
+
+[+6.000 EXP.]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1508 · DRAGON BALL · AÑO 777 · 10:30   ║
+║ Páramo de entrenamiento · meseta             ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 96% · Ojos: bien                     ║
+║ FORMA CENIT (x10 · quedan ~32 min)           ║
+║ Velo: persona común (el ki no se siente)     ║
+║ Kase: junto a Goku, con la pata en su pecho  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Goku                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, día 2, 10:30, páramo. Goku vencido (desmayado y despierto), tirado en la meseta: "Quiero llegar ahí. A donde estás tú." Facundo sigue en Forma Cenit (~32 min). Facundo puede actuar.

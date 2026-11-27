@@ -85,3 +85,4 @@
 - Milk, Goku · T1505 · Ven a Facundo levantar todas las piedras del campo a la vez sin tocarlas (la Luna) y el tronco con una mano.
 - Goku · T1507 · Ve la Forma Cenit de Facundo otra vez, a pleno (x10): mucho más que en 774. Sigue sin sentirle el ki (Velo); ve los efectos físicos.
 - Dende, Mr. Popo (desde el templo, probable) · T1507 · Pueden ver el temblor del páramo; no sienten el ki de Facundo.
+- Goku · T1508 · Siente en el cuerpo la diferencia con la Forma Cenit sin contención (golpe de dedo lo desmaya). Sigue sin sentirle el ki.

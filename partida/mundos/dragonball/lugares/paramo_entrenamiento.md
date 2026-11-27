@@ -4,3 +4,4 @@ VISITAS: T191 (entrenamiento con Goku, Vegeta mirando).
 T198: entrenamiento de la tarde; llega Majin Buu al atardecer.
 - T1506 · Año ~777 · Cráteres viejos de la pelea con Buu, erosionados. Facundo y Goku en una meseta para entrenar.
 - T1507 · Forma Cenit de Facundo: meseta agrietada en estrella; piedras del páramo flotando; una meseta vecina partida, la mitad cayó al cañón.
+- T1508 · Tres mesetas menos; un cañón nuevo, recto; una columna de roca sin punta; una meseta atravesada de lado a lado.
