@@ -174,3 +174,4 @@
 
 - T1656 · MAMÁ DE ERASA: vio a Facundo en persona (aspecto, aerodeslizador rojo, Erasa con su sobretodo). Erasa le contará esa noche lo que ella sabe (viajero, nombre, gato, ojos naturales, se va en unos días).
 - T1638-T1655 · ERASA sabe por Facundo: nombre, que es viajero, que vuelve a todos los lugares, que se va en unos días, ojos y pelo naturales de nacimiento. Vio a Bills y Whis (aspecto). No vio ningún poder.
+- T1657 · VIDEL sabe (por Erasa) todo lo de las citas con Facundo. MAMÁ DE ERASA lo vio de cerca el domingo (aspecto). La dueña de la panquequería del barrio lo vio con Erasa (aspecto, gato).

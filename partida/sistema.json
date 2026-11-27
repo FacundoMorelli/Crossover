@@ -1,8 +1,8 @@
 {
-  "turno": 1656,
+  "turno": 1657,
   "mundo_actual": "dragonball",
-  "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, sábado, 23:36 (Tierra)",
+  "fecha_local": "Dragon Ball: año 778, lunes",
+  "hora": "año 778, lunes, 22:10 (Tierra)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
@@ -2411,7 +2411,14 @@
         "cambiada": false,
         "estado": "CUMPLIDA (T1144): la Guerra de Liberación Paranormal terminó antes de empezar; sin muertos de la U.A."
       }
-    }
+    },
+    "mundos_disponibles_sin_visitar": [
+      "demonslayer",
+      "fullmetal",
+      "chainsawman",
+      "sololeveling"
+    ],
+    "nota_mundos_nuevos": "T1657 (R16): se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling. /viajar nuevo elige al azar entre ellos. Dragon Ball Super es parte del mundo Dragon Ball (canon/dragonballsuper/)."
   },
   "apodos": {
     "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
@@ -2571,7 +2578,8 @@
     "relaciones_por_mundo": "T803: Facundo puede tener una pareja por mundo; ninguna sabe de las otras salvo que él lo diga (ver reglas_extra.md R9).",
     "haki_color": "T874 (declarado por el jugador): el Haki de armadura de Facundo es azul intenso y blanco, no negro (también los rayos de su Haki del Rey con recubrimiento).",
     "T911_bankai_sobre_flota": "El Bankai Hate no Sakaime de Facundo se mantiene sobre la flota de Barbablanca aunque Facundo se aleje, mientras tenga energía (declarado por el jugador).",
-    "T953_esferas_eclipse": "Facundo creó las Esferas del Eclipse (7) y el dragón Eclipse, superior a los de Dende, 3 deseos por invocación. Facundo dijo que las usará una sola vez en Shingeki (día 63 al amanecer)."
+    "T953_esferas_eclipse": "Facundo creó las Esferas del Eclipse (7) y el dragón Eclipse, superior a los de Dende, 3 deseos por invocación. Facundo dijo que las usará una sola vez en Shingeki (día 63 al amanecer).",
+    "R16": "Cuatro mundos nuevos (T1657): Demon Slayer, Fullmetal Alchemist, Chainsaw Man, Solo Leveling. Ver reglas_extra.md."
   },
   "SECRETO_NO_REVELAR_JAMAS": {
     "primer_mundo": "jujutsu (tirada 0.431)",

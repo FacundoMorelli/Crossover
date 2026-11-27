@@ -246,3 +246,7 @@
 - Dragon Ball: VUELVE año ~777 (R14: ~20 de 30 días de Facundo transcurridos desde T1440; Bills en ~10 días de Facundo), Templo Sagrado, media mañana.
 - Dragon Ball (T1499): R14 ajustado: Bills llega el sábado (cumpleaños de Bulma), en 4 días de Facundo desde el Día de la vuelta.
 - Dragon Ball (T1547): R14 TERMINADO; el reloj vuelve a correr normal desde la llegada de Bills (año 778).
+
+## MUNDOS NUEVOS (T1657 · R16)
+- Se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling (canon en canon/demonslayer, canon/fullmetal, canon/chainsawman, canon/sololeveling). Sin visitar. /viajar nuevo elige al azar entre ellos.
+- Completados: 12/16.

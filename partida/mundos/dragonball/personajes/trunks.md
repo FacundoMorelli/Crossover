@@ -25,3 +25,4 @@ ESTADO: activo
 - T1633 · APRENDE de Facundo, con Goten, la técnica de esferas gemelas de giro opuesto (sin nombre). 1.er intento: le explota en la cara. 2.º: la fusionan (deforme, explota grande). "¡Lo hicimos! ¡¿Cómo se llama la técnica?!"
 - T1634 · Propone "Súper Torbellino Trunks"; acepta "Remolino Gemelo" (lo dice él primero). Vegeta lo cita a las 6 en la cámara de gravedad.
 - T1635 · Le muestra la foto de la montaña rusa a Bulma. Se baña por orden de Milk.
+- T1657 · Domingo: Remolino Gemelo con Goten bajo Vegeta; les sale al cuarto intento.

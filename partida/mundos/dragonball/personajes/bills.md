@@ -93,3 +93,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1644 · Con la boca llena: "Sí haría algo." / "No estoy bromeando." Mira a todos ofendido cuando se ríen.
 - T1645 · Se termina media torta solo; echado en la silla, panza redonda, ronroneando sin darse cuenta. Whis le tapa las piernas con una servilleta.
 - T1646 · Dormido, a Erasa al irse: "Más grande."
+- T1657 · Domingo 08:30: despierta en el sofá, pregunta por la otra torta. 09:00 se va con Whis; se despide solo de Kase, con un gruñido.

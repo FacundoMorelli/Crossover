@@ -183,3 +183,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1634 · "Remolino Gemelo. Bien. Ahora tiene nombre. Ahora hay que aprender a hacerlo de verdad, no a medias." "Mañana a las seis. Cámara de gravedad. Los dos. Tú también. Si Kakaroto te deja." A Facundo: "Y tú tienes una cena. Bulma me va a matar si te devuelvo tarde y negro de hollín como estos dos."
 - T1635 · Arranca dos veces su foto de la heladera; Bulma la vuelve a pegar.
 - T1644 · Levanta el plato sin decir nada para recibir torta.
+- T1657 · Domingo 06:00-08:00: entrena a Goten y Trunks (Remolino Gemelo; al cuarto intento les sale y rompen una pared). "¡Otra vez!"

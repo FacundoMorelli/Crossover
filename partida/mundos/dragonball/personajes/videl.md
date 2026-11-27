@@ -35,3 +35,4 @@ DIÁLOGOS CLAVE:
 - T1636 · Se ríe de Erasa detrás de la mano.
 - T1637 · "¡TE ESCUCHÉ! ¡Y no tenía por qué decirte nada! ¡No sabía que existías!" "¡El bebé también lo escuchó!"
 - T1638 · Pone los ojos en blanco cuando Erasa dice que es romántico.
+- T1657 · Lunes: almuerza en la Corporación con Gohan; a Facundo: "Me contó todo. Todo." (Erasa le contó lo de las citas.)

@@ -82,3 +82,5 @@
 - (T1551, canon) Primeras horas de entrenamiento de Goku y Vegeta con Whis en el planeta de Bills (caparazones; moverse sin pensar). Bills se despierta.
 - (T1552) Por sugerencia de Facundo, Goku logra un segundo de SSJ Blue la primera noche (cambio: aceleración del canon). Vegeta empieza a intentarlo.
 - Lunes (planeta de Bills) · (T1560) Entrenamiento del azul con Whis. Goku 1 min, Vegeta 3 min. Vegeta desafía a Facundo para mañana.
+- Año 778, domingo 09:00 · (T1657) Bills y Whis vuelven a su planeta tras la cena (Whis mantiene la oferta de entrenamiento a Goku, Vegeta y Facundo).
+- Domingo-lunes · (T1657) Tierra en paz. Facundo sale con Erasa. Próximo en el canon: Resurrección de Freezer (año 779; ~4 meses de entrenamiento de Freezer tras ser revivido).

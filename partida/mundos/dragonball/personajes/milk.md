@@ -53,3 +53,4 @@ ESTADO: bien.
 - T1642 · Escuchando todo desde la otra punta: "¡Gracias!" (por la carne).
 - T1643 · Se cruza de brazos, celosa, cuando a Bills le gusta la torta; igual asiente.
 - T1646 · Envuelve la torta sobrante para la mamá de Erasa.
+- T1657 · Lunes: se lleva a Goku de la oreja a trabajar al campo.

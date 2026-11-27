@@ -110,3 +110,12 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 - Texto del jugador: "(hace que valga un fragmento nada mas)".
 - Desde T1601, la semilla del ermitaño cuesta 1 Fragmento en la tienda del Sistema (antes 400, comprada así en T630). Precio fijo de catálogo, en todos los mundos.
 - T1634 (pedido del jugador): después de la ventana NO va nada más. Ni avisos de guardado, ni "Turno N guardado y subido", ni comentarios del motor. Las operaciones de archivo, commit y push se hacen ANTES de escribir la narración, y la respuesta termina en la ventana. Las aclaraciones de una línea (correcciones de nombre, cambios de reglas) solo si son imprescindibles, y nunca para anunciar que se guardó.
+
+## R16. CUATRO MUNDOS NUEVOS (T1657 · Dragon Ball · pedido del jugador)
+- Texto del jugador: "si podes agregar el resto del canon de animes que agregue fijate en otra rama si no esta ahi".
+- El canon de cuatro mundos nuevos se trajo de la rama donde el jugador lo cargó: canon/demonslayer/, canon/fullmetal/, canon/chainsawman/, canon/sololeveling/ (más la actualización de canon/dragonballsuper/ con la Resurrección de Freezer y Golden Freezer).
+- El viaje pasa de doce a dieciséis mundos: Demon Slayer (Kimetsu no Yaiba), Fullmetal Alchemist, Chainsaw Man y Solo Leveling se suman a los doce.
+- Rigen para ellos todas las reglas de los demás mundos: separados entre sí, primera llegada en un momento del canon al azar, Don de Mundo sorpresa, Misión de Mundo, términos de su doblaje latino (respiraciones y demonios en Demon Slayer; alquimia, círculos de transmutación y homúnculos en Fullmetal; demonios, contratos y cazadores de demonios en Chainsaw Man; cazadores, mazmorras, puertas y rangos en Solo Leveling).
+- Con el VIAJE LIBRE, /viajar nuevo elige al azar entre estos cuatro (los únicos sin visitar).
+- Solo Leveling: el "Sistema" de Sung Jin-Woo es parte de ese mundo; nadie de ahí detecta el Sistema de Facundo, y Facundo no comparte vocabulario con el de Jin-Woo ante otros.
+- Dragon Ball Super no es un mundo aparte: es la continuación del mundo Dragon Ball.

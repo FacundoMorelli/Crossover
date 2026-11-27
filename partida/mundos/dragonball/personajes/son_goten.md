@@ -57,3 +57,4 @@ ESTADO: bien.
 - T1634 · Por Facundo, elige el nombre con Trunks: propone "Bola Giratoria Doble"; después: "¿Y si tiene un poco de cada uno? Las bolas giran como un remolino. Y son dos. Como nosotros." → REMOLINO GEMELO. Vegeta lo cita a las 6 en la cámara de gravedad (si Goku lo deja).
 - T1635 · Se baña por orden de Milk. En la cena.
 - T1645 · Se duerme sentado contra Goku, con chocolate hasta las orejas ("¡Yo no fui!").
+- T1657 · Domingo: Remolino Gemelo con Trunks bajo Vegeta. Lunes: de visita con Goku en la Corporación.

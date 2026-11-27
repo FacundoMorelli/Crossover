@@ -12,3 +12,4 @@ DIÁLOGOS CLAVE: "¿Ese quién es?"
 QUÉ SABE DE FACUNDO: aspecto (pelo blanco y azul, tatuajes en el cuello, ojos de dos colores), que trajo a Erasa en un aerodeslizador rojo y que ella lleva su sobretodo (visto, T1656). Erasa le iba a contar "todo".
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en su casa.
+- T1657 · Domingo 11:04: los mira salir desde la puerta, gesto con la cabeza a Kase, mira a Facundo de arriba abajo sin decir nada. Domingo 20:30: abre antes del timbre. Lunes: invita a Facundo a cenar el martes a las 20:00 ("no es una pregunta"), vía Erasa.
