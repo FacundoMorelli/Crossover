@@ -3,102 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1526)
-
-goku
-
-## RESPUESTA 1 (T1526)
-
-> goku
-
-> —Goku.
-
-Todos se dan vuelta hacia la reposera.
-
-Goku ronca. Con la boca abierta, un hilo de baba en la barbilla y la corbata hecha un nudo en el cuello.
-
-Bulma suspira. Agarra una jarra de agua helada de la mesa más cercana, camina hasta la reposera y se la vacía en la cara.
-
-Goku se sienta de un salto, escupiendo agua.
-
-—¡¿Qué?! ¡¿Qué pasó?! ¡¿Ya terminó la fiesta?! —Mira alrededor. Ve a Bills en la otra reposera, tranquilo. Se toca la nuca y hace una mueca—. Ah. Cierto. Me ganó.
-
-—Goku —dice Bulma, con la jarra vacía en la mano—. Las esferas. Llama a Shenlong. Pregúntale qué es un Super Saiyajin Dios. Si no, ese señor destruye la Tierra cuando se ponga el sol.
-
-Goku parpadea.
-
-—¿La Tierra? —Mira a Bills. Bills le hace un saludito con la mano—. Ah. Bueno, está bien.
-
-Se levanta. Se para frente al círculo de esferas en la cubierta. Levanta los brazos.
-
-—¡SAL DE AHÍ, SHENLONG! ¡Y CUMPLE MI DESEO!
-
-Las esferas brillan.
-
-Una luz anaranjada sube de las siete a la vez, se junta en una columna y el cielo se pone negro. El mediodía desaparece. El mar se oscurece. Los relámpagos cruzan las nubes. Y de la columna de luz sale, retorciéndose hacia el cielo, un dragón verde enorme, larguísimo, que se enrosca alrededor del crucero entero, con escamas como montañas y ojos rojos como faroles.
-
-—YO SOY EL DRAGÓN SHENLONG. DIME CUÁL ES TU DESEO Y LO CUMPLIRÉ. PERO SOLO UNO...
-
-Se calla.
-
-Los ojos rojos se le van hacia la reposera junto a la piscina. Hacia Bills.
-
-El dragón más poderoso de la Tierra se queda quieto en el aire. Y después, despacio, inclina la cabeza enorme hasta casi tocar la cubierta. Le tiembla la voz.
-
-—B-Bills-sama. Qué... qué honor. No sabía que estaba usted aquí.
-
-—Hola, Shenlong —dice Bills, sin levantarse—. Contesta lo que te pregunten. Rápido.
-
-—¡Sí, señor!
-
-Goku se rasca la cabeza.
-
-—Oye, Shenlong. ¿Qué es un Super Saiyajin Dios?
-
-Shenlong se endereza, nervioso, sin sacarle los ojos de encima a Bills.
-
-—EL SUPER SAIYAJIN DIOS ES UNA LEYENDA DE LOS SAIYAJIN. PARA QUE APAREZCA, SE NECESITAN SEIS SAIYAJIN DE CORAZÓN PURO. CINCO DE ELLOS SE TOMAN DE LAS MANOS Y LE PASAN SU ENERGÍA AL SEXTO. ESE SEXTO SE CONVIERTE EN EL SUPER SAIYAJIN DIOS.
-
-Silencio.
-
-—¿Seis? —Goku empieza a contar con los dedos, mirando alrededor—. A ver... yo, uno. Vegeta, dos. Gohan, tres. Goten, cuatro. Trunks, cinco.
-
-Se queda con los cinco dedos levantados. Mira la mano.
-
-—Somos cinco.
-
-—¿Seis saiyajin de corazón puro? —dice Vegeta, con desprecio—. Yo no tengo el corazón puro, Kakarotto.
-
-—¡Sí lo tienes! —dice Bulma—. ¡Más o menos!
-
-—Somos cinco —repite Goku, mirando su mano—. Falta uno.
-
-Bills, en la reposera, se mira las uñas.
-
-—Qué pena.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1526 · DRAGON BALL · SÁBADO · 12:55    ║
-║ Crucero de Bulma · cubierta (Shenlong)       ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.248 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando al dragón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Seis saiyajin para el SSJ Dios     ║
-║ (falta uno) antes del atardecer              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1527)
+## COMANDO 1 (T1527)
 
 miro
 
-## RESPUESTA 2 (T1527)
+## RESPUESTA 1 (T1527)
 
 > miro
 
@@ -199,11 +108,11 @@ Sonríe un poco más.
 
 ---
 
-## COMANDO 3 (T1528)
+## COMANDO 2 (T1528)
 
 le doy mas pudin
 
-## RESPUESTA 3 (T1528)
+## RESPUESTA 2 (T1528)
 
 > le doy mas pudin
 
@@ -254,4 +163,59 @@ Junta las manos sobre la túnica, donde escondió los pudines.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:15, crucero. Whis con pudines (esconde 3). La pelea sigue en el cielo. Whis le pregunta el nombre a Facundo. Facundo puede responder.
+## COMANDO 3 (T1529)
+
+me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1529)
+
+> me llamo Facundo Morelli
+
+> —Me llamo Facundo Morelli.
+
+—Facundo-san. —Whis lo repite despacio, con una pequeña inclinación de cabeza, como quien guarda algo en un cajón—. Mucho gusto. Y gracias por los pudines. Son, de verdad, extraordinarios.
+
+Se toca la túnica, donde los tiene escondidos, con una palmadita satisfecha.
+
+Arriba, el cielo cambia.
+
+Las luces rojas y violetas, que iban y venían sobre el mar como relámpagos, se detienen de golpe. El trueno se corta. Durante un segundo hay silencio total, en el cielo y en la cubierta.
+
+Y después, muy arriba, en lo alto, aparece una luz.
+
+Una esfera. Naranja, roja, del color de un sol que se pone. Chiquita al principio, como una estrella de día. Después más grande. Y más. Y más. Hasta que ocupa un pedazo enorme del cielo, por encima del mar, por encima del crucero, por encima de la Ciudad del Oeste a lo lejos. Una bola de energía del tamaño de una montaña, después del tamaño de una ciudad, que late despacio, colgada sobre todo, y que tiñe el mar de rojo.
+
+En la punta del dedo de una figura chiquita, violeta, que flota delante de ella.
+
+En la cubierta, alguien grita. Mr. Satán se despierta de su desmayo, ve el cielo y se vuelve a desmayar. Milk abraza a Goten. Krilin abraza a la 18 y a Marron a la vez. Bulma baja los binoculares, despacio, con la cara blanca.
+
+—¡Va a tirarla! —grita Vegeta—. ¡Ese... ese loco va a tirarla contra la Tierra!
+
+Gohan da un paso adelante, con los puños apretados, dorado de golpe, Super Saiyajin 2. Piccolo, en la proa, se pone en guardia. Los dos saben que no les va a servir de nada.
+
+Arriba, delante de la esfera enorme, la figura roja de Goku se para en el aire, entre Bills y el planeta. Chiquita. Muy chiquita al lado de eso.
+
+Whis no se mueve de la reposera. Mira la esfera con la cabeza un poco ladeada, la sonrisa tranquila, las manos juntas sobre los pudines.
+
+—Ay, Bills-sama —murmura—. Siempre tan dramático.
+
+Después te mira de reojo. Solo un segundo. Como si tuviera curiosidad por ver qué cara pones tú.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1529 · DRAGON BALL · SÁBADO · 13:20    ║
+║ Crucero de Bulma · junto a la piscina        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.247 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando al cielo        ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills carga una esfera gigante     ║
+║ sobre la Tierra; Goku delante                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:20, crucero. Bills carga una esfera gigante sobre la Tierra; Goku SSJ Dios delante. Pánico en la cubierta. Whis tranquilo, mira de reojo a Facundo. Facundo puede actuar.

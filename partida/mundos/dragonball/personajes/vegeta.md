@@ -101,3 +101,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1525 · Mira a Facundo largo, desde el otro lado de la piscina; ya no lo mira como a un insecto.
 - T1526 · "¿Seis saiyajin de corazón puro? Yo no tengo el corazón puro, Kakarotto."
 - T1527 · Protesta pero participa del ritual, tomado de la mano de Trunks, con la cara roja de vergüenza. No siente el ki de Goku SSJ Dios.
+- T1529 · "¡Va a tirarla! ¡Ese loco va a tirarla contra la Tierra!"

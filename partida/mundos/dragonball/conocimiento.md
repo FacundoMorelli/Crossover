@@ -115,3 +115,5 @@
 - Todos los del crucero · T1527 · Por Shenlong: Videl está embarazada (sexto saiyajin). Ven a Goku volverse SSJ Dios (no le sienten el ki).
 - Whis · T1527 · Se fija en Facundo (curiosidad); quiere pudín. (No puede sentir su poder: Velo.)
 - Whis · T1528 · Ve a Facundo sacar seis pudines más del bolsillo; nota "bolsillo interesante, gato interesante, casi nada de ki". Sabe que la idea del dragón fue de Facundo.
+- Whis · T1529 · Por Facundo: su nombre, Facundo Morelli.
+- Todos · T1529 · Ven la esfera gigante de Bills en el cielo (visible desde la Ciudad del Oeste).

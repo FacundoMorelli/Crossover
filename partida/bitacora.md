@@ -1527,3 +1527,4 @@ T1525 · DRAGON BALL · Crucero · "¿Y si le preguntan a Shenlong?" Bulma trae 
 T1526 · DRAGON BALL · Crucero · Goku invoca a Shenlong, que se inclina ante Bills. Ritual: 6 saiyajin de corazón puro. Cuentan cinco: falta uno.
 T1527 · DRAGON BALL · Crucero · (observa) Shenlong revela el embarazo de Videl (sexto saiyajin). Ritual: Goku SSJ Dios. Shenlong se va. Goku y Bills suben a pelear. Whis a Facundo: "¿No le queda otro de esos pudines?"
 T1528 · DRAGON BALL · Crucero · Otra caja de pudines (1 F) para Whis (esconde 3). Whis le agradece lo del dragón; "qué combinación tan curiosa"; le pregunta el nombre.
+T1529 · DRAGON BALL · Crucero · Se presenta a Whis. Bills carga una esfera gigante sobre la Tierra; Goku delante. Pánico. Whis tranquilo, mira de reojo a Facundo.

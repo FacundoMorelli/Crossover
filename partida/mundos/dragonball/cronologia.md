@@ -70,3 +70,4 @@
 - 12:55 · (T1526, canon) Goku invoca a Shenlong, que teme a Bills. Explica el ritual del SSJ Dios (6 saiyajin de corazón puro). Cuentan cinco (Goku, Vegeta, Gohan, Goten, Trunks); falta uno (canon: Pan en el vientre de Videl).
 - 13:00-13:10 · (T1527, canon) Shenlong revela el sexto saiyajin (Pan, en Videl). Ritual: Goku SSJ Dios. Shenlong se va. Goku SSJ Dios vs Bills comienza en el cielo sobre el mar. Whis se queda en el crucero.
 - 13:10-13:15 · (T1528) La pelea Goku SSJ Dios vs Bills ilumina el cielo sobre el mar (nadie siente el ki divino). Whis come pudines de Facundo en el crucero.
+- 13:20 · (T1529, canon) Bills carga una esfera gigante sobre la Tierra; Goku SSJ Dios se pone delante.
