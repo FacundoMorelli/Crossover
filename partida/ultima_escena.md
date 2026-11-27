@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1625)
-
-no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
-
-## RESPUESTA 1 (T1625)
-
-> no, ya te enseñe una cosa solo a vos, si te enseñó algo nuevo tambien a trunks
-
-> —No. Ya te enseñé una cosa solo a ti. Si te enseño algo nuevo, también se lo enseño a Trunks.
-
-—¿A Trunks también? —Goten abre la boca, indignado—. ¡Pero entonces no le gano!
-
-—Eso es justo, Goten —dice Goku, rascándose la nuca—. La Bola Giratoria es tuya y nada más. Trunks estuvo muy enojado una semana por eso.
-
-—¡Tres días!
-
-—Una semana. Bulma me contó que rompió la cámara de gravedad.
-
-Goten se queda callado. Frunce la nariz, pensativo, con la cara apoyada en la cabeza de Kase, que ya tiene la expresión de un gato que perdió toda esperanza.
-
-Se le nota que está haciendo cuentas, muy en serio, como hacen los chicos de siete años.
-
-—Bueno... —dice, despacio—. Si le enseñas a Trunks, Trunks lo va a hacer. Y si yo también lo hago, lo hacemos juntos.
-
-Se le van abriendo los ojos.
-
-—Y si lo hacemos juntos... ¡Y nos fusionamos! —Da un salto, con Kase en brazos, que se balancea como una bolsa—. ¡Gotenks lo puede hacer el doble de fuerte! ¡Papá! ¡Gotenks!
-
-—¡Ah, sí, eso es cierto! —Goku se ríe—. ¡Qué buena idea, Goten!
-
-Goten te mira, con la cara roja de emoción y Kase colgándole de los brazos.
-
-—¡Está bien! ¡A los dos! —Se da vuelta hacia el cielo, buscando—. Pero Trunks está en el parque con su papá. Hasta la noche no vuelve.
-
-Vuelve a mirarte, con los ojos enormes.
-
-—¿Lo esperamos? ¿O vamos al parque a buscarlo? ¡El parque tiene una montaña rusa enorme! ¡Y algodón de azúcar!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1625 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en brazos de Goten (sin esperanza)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1626)
+## COMANDO 1 (T1626)
 
 bueno vamos al parque
 
-## RESPUESTA 2 (T1626)
+## RESPUESTA 1 (T1626)
 
 > bueno vamos al parque
 
@@ -124,11 +69,11 @@ Vegeta gira la cabeza, despacio. Te ve a ti. Ve a Kase. Ve a Goten muerto de ris
 
 ---
 
-## COMANDO 3 (T1627)
+## COMANDO 2 (T1627)
 
 queria venir al parque y tambien queria que les enseñe una nueva habilidad a el y a trunks
 
-## RESPUESTA 3 (T1627)
+## RESPUESTA 2 (T1627)
 
 > queria venir al parque y tambien queria que les enseñe una nueva habilidad a el y a trunks
 
@@ -186,4 +131,58 @@ Trunks mira la montaña rusa, después a ti, después a la montaña rusa, debati
 
 ---
 
-ESTADO AL CIERRE: Vegeta acepta la técnica para Trunks (con condiciones), después de la montaña rusa. Trunks: "¡Dime qué técnica es! ¿Es más fuerte que la de Goten?" Facundo puede contestar.
+## COMANDO 3 (T1628)
+
+lo van a ver cuando se las enseñe
+
+## RESPUESTA 3 (T1628)
+
+> lo van a ver cuando se las enseñe
+
+> —Lo van a ver cuando se las enseñe.
+
+—¡Aaah! —Trunks se agarra la cabeza con las dos manos—. ¡Eso es trampa!
+
+—¡Es igual que su papá! —Goten señala a Vegeta, muerto de risa—. ¡Tu papá también dice siempre "ya vas a ver"!
+
+—Mi papá no dice eso.
+
+—Sí lo dice.
+
+—¡No lo dice!
+
+—Ya van a ver —dice Vegeta, sin mirar a nadie, con los brazos cruzados.
+
+Los dos chicos se quedan callados y lo miran. Vegeta mira la montaña rusa, muy serio, como si no hubiera dicho nada. Por debajo de la gorra se le nota la comisura de la boca, apenas torcida.
+
+Se le escapa a medias. A ti también te mira de reojo, y hay algo de aprobación en esa mirada: los secretos le parecen bien. A un guerrero no se le muestra nada antes de tiempo.
+
+La fila avanza. Y avanza. Delante de ellos hay una sola familia, y después la entrada, con un muchacho aburrido de uniforme que controla la altura de los chicos con una tabla de madera.
+
+—¡Nos toca! —Trunks salta—. ¡Papá, nos toca!
+
+Goten mira la montaña rusa de cerca, enorme, roja y amarilla, los carritos que pasan rugiendo por los loops con la gente gritando arriba. Después te mira a ti, con los ojos brillantes y la toalla todavía atada al cuello.
+
+—¡Facundo! ¡Sube con nosotros! ¡Hay lugar para cuatro en cada carrito! —Te agarra la mano y tira—. ¡Y Kase también! ¡Kase, ¿quieres subir?!
+
+Kase, en tu hombro, mira la montaña rusa. Mira los loops. Mira la gente gritando cabeza abajo. Te mira a ti.
+
+Te clava las uñas en el hombro, muy despacio, una por una.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1628 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Parque · entrada de la montaña rusa · tarde  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro (uñas clavadas)           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Les toca la montaña rusa. Goten invita a Facundo y a Kase a subir (lugar para cuatro). Kase le clava las uñas. Facundo puede decidir.

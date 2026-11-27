@@ -48,3 +48,4 @@ ESTADO: bien.
 - T1625 · Por Facundo: la próxima técnica también será para Trunks. "¡Pero entonces no le gano!" Después: "Si lo hacemos juntos... ¡Y nos fusionamos! ¡Gotenks lo puede hacer el doble de fuerte!" "¡Está bien! ¡A los dos!" "¿Lo esperamos? ¿O vamos al parque a buscarlo? ¡El parque tiene una montaña rusa enorme! ¡Y algodón de azúcar!"
 - T1626 · "¡SÍ!" Vuela al parque con Facundo (toalla de capa, piruetas). Ve a Vegeta con la camiseta BAD MAN y se muere de risa.
 - T1627 · "¡Facundo dijo que a los dos! ¡Para que hagamos Gotenks!"
+- T1628 · "¡Es igual que su papá!" "¡Facundo! ¡Sube con nosotros! ¡Hay lugar para cuatro en cada carrito! ¡Y Kase también! ¡Kase, ¿quieres subir?!"
