@@ -155,3 +155,4 @@
 - T1585 · QUIÉN SABE QUE VIENE DE OTRO LADO: Bills, Whis, Goku y Vegeta, por Facundo en persona (explanada del planeta de Bills): "Soy de otro mundo, no de otro planeta." Lo interpretan como otro universo (Bills sospechó de Champa; Whis lo descartó). Le creen. No investigan.
 - T1587 · Bills, Whis, Goku y Vegeta VIERON a Facundo en Ultra Instinto Dominado (Whis lo nombró en voz alta).
 - T1591 · Bills, Whis, Goku y Vegeta VIERON a Facundo hacer aparecer 20 bandejas de la nada (inventario dimensional); Bills dedujo que lo del abrigo no era cierto.
+- T1598 · Bills, Whis, Goku y Vegeta VIERON los efectos del poder sin contención de Facundo (UI Dominado): explanada hundida, rocas cayendo, barrera doblada. El Velo sigue: nadie lo siente.

@@ -130,3 +130,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1595 · Agachado contra la barrera, sigue el rastro de chispas plateadas sin gritar, moviendo los labios, contando.
 - T1596 · Levanta la mano: "¡Yo también quiero que Facundo me ayude a entrenar eso! ¡Lo del cuerpo que se mueve solo!" (Bills y Vegeta: "Tú te callas.")
 - T1597 · Boca abierta, sin parpadear, mirando la pelea.
+- T1598 · Cae de rodillas sin que nada lo toque cuando Facundo deja de contenerse.

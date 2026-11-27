@@ -3,89 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1595)
-
-dejo a kase afuera y activo el ultra instinto dominado, empezamos
-
-## RESPUESTA 1 (T1595)
-
-> dejo a kase afuera y activo el ultra instinto dominado, empezamos
-
-Te agachas, levantas a Kase y lo llevas hasta el borde de la barrera.
-
-La luz se abre otra vez, como una cortina, y Whis ya está del otro lado, con las manos estiradas.
-
-—Con mucho gusto, Facundo-san.
-
-Kase no se deja agarrar. Salta solo al apoyabrazos de la silla de playa, se sienta derecho, enrosca la cola y se queda mirando el centro de la explanada. Whis baja las manos vacías, sonriendo.
-
-La barrera se cierra.
-
-Vuelves al centro. Bills te espera a quince pasos, con las manos sueltas y la panza llena, balanceándose apenas sobre los talones.
-
-El pelo se te vuelve plateado. Flota. Los ojos, plata. El aire tiembla a tu alrededor, transparente, con chispas blancas que suben y se apagan. El corazón se te calma. La cabeza se te queda en blanco.
-
-—Eso —dice Bills, bajito—. Eso.
-
-Y viene.
-
-Hoy no prueba nada. Viene con todo desde el primer golpe: la palma recubierta de destrucción a la cara, la rodilla al estómago, la cola a la nuca, un codo que nace de un giro que no se vio venir. Más rápido que ayer, más corto, más limpio. Ayer jugó, después se enojó y después se sorprendió. Hoy aprendió.
-
-Tu cuerpo no aprende nada. No le hace falta.
-
-Se corre dos dedos y la palma pasa de largo. La rodilla se encuentra con tu antebrazo, que ya estaba ahí antes de que la rodilla saliera. La cola pasa por arriba de tu cabeza porque te agachaste sin decidirlo. El codo no encuentra nada, y tu talón, solo, le entra a Bills en la parte de atrás del muslo.
-
-Bills trastabilla. Gira en el aire, cae de pie y vuelve a entrar, sin respirar.
-
-Diez golpes. Veinte. La explanada se llena otra vez de destellos, pero esta vez son solo violetas: tú no brillas, apenas tiemblas, y donde estabas un instante antes queda un rastro de chispas plateadas. Las venas de luz del suelo se quiebran bajo los pies de Bills y se quedan intactas bajo los tuyos.
-
-No te toca. Ni una vez.
-
-Tu cuerpo le entra tres veces: un revés en el hombro, la palma abierta en el pecho y el pie en la rodilla. Cada golpe lo manda unos pasos atrás. Cada vez, Bills vuelve más rápido.
-
-Afuera, Goku no grita. Está agachado contra la barrera, con los ojos muy abiertos, siguiendo el rastro de chispas, moviendo los labios sin sonido, contando algo. Vegeta está de pie en su roca, con los puños sueltos.
-
-Bills se detiene en seco, a cinco pasos.
-
-No retrocede ni se aleja. Se queda parado, quieto, con la respiración agitada y las manos caídas a los costados. Cierra los ojos.
-
-Las orejas, que tenía aplastadas, se le aflojan. La cola se le queda quieta. El aura violeta, que le subía furiosa, se le baja hasta quedar pegada a la piel, finita, casi tranquila.
-
-—Whis siempre me dice que pienso demasiado cuando peleo —murmura, con los ojos cerrados—. Que el cuerpo sabe más que yo.
-
-Afuera, Whis deja de sonreír y se inclina hacia adelante en la silla.
-
-Bills se mueve.
-
-No te ataca. Da un paso, uno solo, liviano, sin ninguna intención en la cara. Y su mano, abierta, pasa por donde un instante antes estaba tu mejilla, y te deja un roce frío en la costra, sin cortar, como una caricia de garra.
-
-Tu cuerpo la esquivó. Por un pelo plateado.
-
-Bills abre los ojos. Se mira la mano. Te mira a ti. Una sonrisa le va naciendo despacio, enorme, incrédula.
-
-—¿Así se hace? —pregunta—. ¿Así?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1595 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera nueva) · mañana           ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.161 · 0 zeni                  ║
-║ Energía 92% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: en el apoyabrazos de Whis (afuera)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (tercera ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1596)
+## COMANDO 1 (T1596)
 
 quien diria que ayudaría a un dios a entrenar no?
 
-## RESPUESTA 2 (T1596)
+## RESPUESTA 1 (T1596)
 
 > quien diria que ayudaría a un dios a entrenar no?
 
@@ -139,11 +61,11 @@ Cierra los ojos otra vez. El aura violeta se le baja, finita, pegada a la piel. 
 
 ---
 
-## COMANDO 3 (T1597)
+## COMANDO 2 (T1597)
 
 esta bien, seguimos peleando
 
-## RESPUESTA 3 (T1597)
+## RESPUESTA 2 (T1597)
 
 > esta bien, seguimos peleando
 
@@ -203,4 +125,67 @@ Afuera, Whis da un paso hacia la barrera.
 
 ---
 
-ESTADO AL CIERRE: Bills, agotado, con el puño cargado (Hakai), pide un último golpe: él con todo lo que le queda, Facundo con todo lo que tenga. Whis intenta intervenir. Facundo puede contestar.
+## COMANDO 3 (T1598)
+
+esta bien
+
+## RESPUESTA 3 (T1598)
+
+> esta bien
+
+> —Está bien.
+
+Bills sonríe.
+
+Afloja el puño un segundo y lo vuelve a cerrar, apretado, y todo lo que le queda se le junta en los nudillos. La luz sin centro del Hakai late adentro del aura violeta, despacio, como un corazón.
+
+Te quedas quieto en el centro de la explanada, con el pelo plateado flotando.
+
+Y dejas de contenerte.
+
+No hay grito, porque el Ultra Instinto no grita. Pero el aire que tiembla a tu alrededor deja de temblar. Se queda duro, quieto, como vidrio. Las chispas plateadas ya no suben y se apagan: se quedan suspendidas en el aire, cientos, miles, colgadas a tu alrededor como polvo de estrellas que alguien congeló.
+
+Después el suelo se hunde.
+
+No se rompe ni se raja. Baja entero, la explanada completa, un metro, dos, de un solo golpe, como si de repente pesaras lo que pesa una montaña. Las venas de luz se apagan todas juntas. La pirámide, allá atrás, cruje desde los cimientos. Las rocas flotantes del cielo empiezan a caer, despacio, una por una, porque algo las está tirando para abajo.
+
+La barrera de Whis no se agrieta. Se dobla hacia afuera, entera, como una burbuja de jabón que alguien sopla desde adentro.
+
+Afuera, Goku cae de rodillas sin que nada lo toque. Vegeta clava los pies en el suelo, apretando los dientes, y aun así se le corren los borceguíes hacia atrás.
+
+Bills sigue de pie delante de ti, con el puño cerrado.
+
+Todavía no siente nada. El Velo sigue ahí: para su sentido, delante de él hay un hilo de ki de hormiga. Pero lo ve. Ve el suelo, las rocas que caen, la barrera doblada, las chispas congeladas en el aire. Las orejas se le aplastan hacia atrás solas. La cola se le eriza entera, de la base a la punta.
+
+Por primera vez en todo el tiempo que lo conoces, a Bills le tiembla la mano.
+
+—Facundo-san.
+
+Whis está pegado a la barrera, con las dos manos en la luz. Ya no tiene la voz tranquila.
+
+—Si golpea con eso, Bills-sama no va a dejar de ser como dejó de ser esa roca. —Habla rápido, claro, sin cortesías—. Va a dejar de ser del todo. Y la vida de un Dios de la Destrucción está atada a la de su Supremo Kaioshin. Si cae uno, cae el otro. Y este planeta no va a quedar. Y no sé si va a quedar algo más.
+
+—¡Cállate, Whis! —Bills no aparta los ojos de ti. Le tiembla la voz, pero no baja el puño—. ¡Dijo que todo! ¡Le pedí todo!
+
+El aura violeta de su puño parpadea contra el aire quieto que te rodea, chiquita, como una vela delante de un incendio.
+
+Kase, en el apoyabrazos, se pone de pie. No te mira con miedo. Te mira como te mira siempre.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1598 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada hundida · mediodía                 ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.161 · 0 zeni                  ║
+║ Energía 80% (todo reunido) · Ojos: bien      ║
+║ ULTRA INSTINTO DOMINADO · SIN CONTENERSE     ║
+║ Velo: ki muy bajo                            ║
+║ Kase: de pie en el apoyabrazos de Whis       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: El último golpe con Bills          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo reunió todo su poder (sin golpear). El planeta cede. Whis advierte: golpear con todo borra a Bills, al Supremo Kaioshin y al planeta, quizá más. Bills no baja el puño ("¡Le pedí todo!"). Facundo decide.
