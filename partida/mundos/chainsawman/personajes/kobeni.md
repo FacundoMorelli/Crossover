@@ -19,3 +19,4 @@ ENCUENTROS:
 - T1701 · "¿Yo también puedo dormir en el piso? ¿En la de ellos? No quiero dormir sola. No esta noche. Por favor." Se sienta en un rincón de la 604 mirando la puerta.
 - T1704 · VIO a Facundo desaparecer; temblando con el cuchillo en las dos manos.
 - T1705 · Se pone verde viendo a Denji comer al lado de un asesino dormido.
+- T1706 · "¿Los de verdad? ¿Están... abajo? ¿Acá? ¿En el hotel?"

@@ -1704,3 +1704,4 @@ T1702 · CHAINSAW MAN · refugio, 604 · "Sí, lo noté." Aki propone guardia po
 T1703 · CHAINSAW MAN · refugio, 604 · Siente con el ki: los guardias llevan pieles robadas, arma bajo la bandeja, un tercero en el 5.º, los reales muertos bajo el mostrador. Denji va a abrir. "El té se enfría."
 T1704 · CHAINSAW MAN · refugio, 6.º piso · Teletransportación: deja inconscientes a los tres impostores (+15 Frag). Aki: "Desapareciste." Ve la costura de la piel. Power: "¡Power te lo dijo!"
 T1705 · CHAINSAW MAN · refugio, 6.º piso · "Se pueden comer." Denji y Power comen. Aki entiende lo de las pieles. "Ya sabías. ¿Hay más?"
+T1706 · CHAINSAW MAN · refugio, 6.º piso · "Abajo están los verdaderos Kurose y Tendo." Aki reporta a la central. Makima: "Muy bien hecho. Pásame al señor Morelli."

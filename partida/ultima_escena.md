@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1703)
-
-uso el ki para sentirlos
-
-## RESPUESTA 1 (T1703)
-
-> uso el ki para sentirlos
-
-Cierras los ojos un instante y abres el ki.
-
-La habitación se ilumina por dentro. No con luz: con presencias.
-
-Kase, en tus brazos, una llama chica y tranquila, pegada a la tuya. Aki, a un paso, firme y tenso como una cuerda de arco, y detrás de esa tensión algo más, raro, una sombra agazapada en su ojo derecho que mira hacia adelante en el tiempo y no te encuentra. Kobeni, en el rincón, un fuego chiquito que tiembla de miedo y que, aun temblando, está listo para saltar más rápido que nadie en este cuarto. Denji, en la cama, una brasa humana común, y adentro de su pecho, enroscado, algo enorme que duerme y que no se parece a nada que hayas sentido en este mundo. Power, en su fuerte de almohadas, una presencia que no es del todo humana, roja, espesa, que huele a sangre.
-
-Y del otro lado de la puerta, dos.
-
-El de adelante, el que golpeó, es Kurose. O lo que dice ser Kurose. Lo que sientes no encaja con la forma: hay una presencia humana, real, de un hombre joven, nervioso, con el corazón acelerado, y por encima de ella, como un guante puesto sobre otra mano, una capa fina, fría, sin vida propia. Algo que se lleva puesto. La cara de alguien que ya no está. Y en las manos, debajo de la bandeja, el peso de algo metálico, pegado con cinta a la parte de abajo.
-
-El otro, el que no habla, el que dice ser Tendo, tiene lo mismo: un hombre por debajo, otra piel por encima. Está pegado a la pared, al costado de la puerta, fuera de la vista de la mirilla. No respira hondo. Está esperando.
-
-Las intenciones de los dos son una sola, nítida, sin dudas: el corazón del chico de la cama del medio.
-
-Y no son solo dos. Abres un poco más el ki, por el pasillo, por la escalera. Un piso más abajo, en el descanso del quinto, hay un tercero. Igual que los otros: un hombre con otra piel encima, quieto, sentado en un escalón, con algo largo apoyado en las rodillas. Y en el lobby, en la planta baja, detrás del mostrador de recepción donde no había nadie, hay otra cosa. No es un hombre. Está tirado en el piso, frío. Ya no tiene presencia: tiene el hueco de una. Dos huecos. Los verdaderos Kurose y Tendo, sin piel, metidos debajo del mostrador.
-
-Abres los ojos.
-
-Pasó medio segundo. Aki todavía te está mirando, con la mano a mitad de camino de la katana. En la tele, el conductor anuncia la respuesta correcta: Canberra. Denji ya está bajándose de la cama, descalzo, hacia la puerta.
-
-Del otro lado, Kurose vuelve a golpear. Tres golpes, igual de suaves.
-
-—¿Hayakawa-san? —La voz, amable, paciente—. El té se enfría.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1703 · CHAINSAW MAN · DÍA 1 · 20:52    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, habitación 604               ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1704)
+## COMANDO 1 (T1704)
 
 me teletransporto atras de ellos y los dejo inconscientes y despues al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
 
-## RESPUESTA 2 (T1704)
+## RESPUESTA 1 (T1704)
 
 > me teletransporto atrás de ellos y los dejo inconscientes y después al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
 
@@ -119,11 +70,11 @@ Denji no mira a los asesinos. Mira la bandeja.
 
 ---
 
-## COMANDO 3 (T1705)
+## COMANDO 2 (T1705)
 
 si, se pueden comer
 
-## RESPUESTA 3 (T1705)
+## RESPUESTA 2 (T1705)
 
 > si, se pueden comer
 
@@ -174,4 +125,69 @@ Baja la voz.
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:55, pasillo del 6.º piso. Los sándwiches están bien (declarado). Denji y Power comen (huevo, jamón con mayonesa; Power reclama la mitad). Kobeni verde. Aki entiende lo de las pieles ("Les sacaron la piel a los de Kioto y se la pusieron"). Con la radio prendida, antes de llamar: "Antes de abrir la puerta, ya sabías. Sabías dónde estaba el tercero sin verlo. ¿Hay más?" (Facundo sabe de los dos cadáveres bajo el mostrador del lobby.)
+## COMANDO 3 (T1706)
+
+no sentí a nadie mas pero ahi abajo estan los reales kurose y tendo
+
+## RESPUESTA 3 (T1706)
+
+> no sentí a nadie mas pero ahí abajo están los reales kurose y tendo
+
+> —No sentí a nadie más. Pero ahí abajo están los verdaderos Kurose y Tendo.
+
+Aki no pregunta si están vivos.
+
+Se le nota en la cara que ya lo sabe. Cierra los ojos un segundo. Solo uno. Cuando los abre, son los mismos de siempre, serios, cansados.
+
+—Dónde.
+
+—¿Q-qué? —Kobeni, en la puerta, se tapa la boca con la mano del cuchillo—. ¿Los de verdad? ¿Están... abajo? ¿Acá? ¿En el hotel?
+
+Denji deja de masticar. Se queda con medio sándwich de huevo en la mano, mirando a Aki. Después mira el sándwich. Lo deja despacio en la bandeja, como si de pronto pesara.
+
+Power sigue comiendo. Pero más despacio.
+
+Aki aprieta el botón de la radio.
+
+—Central, aquí Hayakawa. División 4. Refugio de la calle Kanda. —La voz le sale plana, sin una sola grieta—. Los guardias de Kioto, Kurose y Tendo, eran impostores. Tres asesinos, con la piel de nuestros hombres puesta encima. Están neutralizados, vivos, inconscientes, en el sexto piso. —Una pausa—. Los verdaderos Kurose y Tendo están en el lobby. Muertos. Necesito un equipo de recolección y un equipo de interrogatorio. Y que nadie de Kioto se acerque hasta que se confirme su identidad.
+
+La estática chisporrotea. Una voz de mujer, de la central, dice algo que no se entiende, rápido. Aki contesta: "Sí". "Tres". "No, no fui yo". Te mira. "Él".
+
+Silencio en la radio. Diez segundos. Quince.
+
+Después, otra voz. Baja, tranquila, suave, perfectamente clara a pesar de la estática, como si estuviera parada en el pasillo con ustedes.
+
+—Aki. Muy bien hecho.
+
+Aki se endereza sin darse cuenta.
+
+—Señorita Makima.
+
+—Quédense donde están. El equipo llega en veinte minutos. —Una pausa, breve—. ¿El señor Morelli está contigo?
+
+Aki te mira.
+
+—Sí.
+
+—Pásamelo, por favor.
+
+Aki duda un segundo. Después te tiende la radio. Negra, grande, con la antena todavía goteando agua de lluvia.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1706 · CHAINSAW MAN · DÍA 1 · 20:57    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:57, pasillo del 6.º piso del refugio (calle Kanda). Aki reportó a la central: impostores neutralizados vivos, los reales muertos en el lobby; pide recolección e interrogatorio; nadie de Kioto se acerque. Dijo que lo hizo "él" (Facundo). Makima por radio: "Aki. Muy bien hecho. Quédense donde están. El equipo llega en veinte minutos. ¿El señor Morelli está contigo? Pásamelo, por favor." Aki le tiende la radio a Facundo. Denji dejó el sándwich. Kobeni horrorizada.
