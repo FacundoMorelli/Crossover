@@ -1554,3 +1554,4 @@ T1552 · DRAGON BALL · Planeta de Bills · Pudín a Bills (quedan 2). Le sugier
 T1553 · DRAGON BALL · Planeta de Bills · Explica que asumió que el ki divino se podía combinar. Whis: "Qué razonamiento tan limpio." Whis empieza el entrenamiento del azul. Bills: "¿Qué otras cosas ricas hay en la Tierra?"
 T1554 · DRAGON BALL · Planeta de Bills · Carne al punto con puré para Bills (1 F). Bills, extasiado; no comparte con Whis. "Un dios no se queda debiendo. ¿Qué quieres a cambio?"
 T1555 · DRAGON BALL · Planeta de Bills · Pide ver una habilidad de dios. Bills hace Hakai sobre una roca flotante. Misión de copia: recibir un Hakai de Bills y seguir existiendo (EXTREMA). "Estamos a mano." Whis lo mira.
+T1556 · DRAGON BALL · Planeta de Bills · "Qué poder impresionante." Bills se infla (Champa, doce universos). Se vuelve a dormir: "Quiero comer eso otra vez. Y que el gato siga aquí." Whis: "¿Se queda con nosotros unos días?"

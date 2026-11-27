@@ -121,3 +121,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1552 · Ve el azul de Goku: "Kakarotto otra vez. Siempre Kakarotto." Se desata el caparazón y lo intenta en silencio, de espaldas.
 - T1553 · Se pone en posición sin que nadie se lo pida para el entrenamiento del azul.
 - T1555 · Ve el Hakai de Bills; cara gris.
+- T1556 · Sigue intentando el azul: destellos breves.

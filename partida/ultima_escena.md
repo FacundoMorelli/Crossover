@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1553)
-
-por que goku ahora tiene ki divino, y asumi que se podrían combinar
-
-## RESPUESTA 1 (T1553)
-
-> por que goku ahora tiene ki divino, y asumi que se podrían combinar
-
-> —Porque Goku ahora tiene ki divino. Y asumí que se podían combinar.
-
-Whis se queda mirándote un momento más.
-
-Después la sonrisa fina se le afloja, y vuelve a ser la de siempre: amable, tranquila, un poco divertida.
-
-—Qué razonamiento tan limpio. —Asiente, despacio—. Agua quieta y fuego. Eso dijo Goku-san, ¿no? Y tiene razón. —Vuelve a agarrar el vaso de jugo—. Mucha gente con muchísimo poder no se da cuenta de algo así en mil años. Usted lo vio en una noche, mirando desde una silla de playa.
-
-Toma un trago. No pregunta nada más.
-
-Bills, sentado en el suelo, te mira de costado, con el vasito vacío todavía en la mano.
-
-—Hm. —Se rasca la oreja—. El del bolsillo piensa. Eso es raro en los mortales.
-
-Whis se levanta de la silla y camina hacia Goku y Vegeta, golpeando suavemente el suelo con el báculo a cada paso.
-
-—Bueno, ya que estamos. —Se para entre los dos—. Goku-san. Vegeta-san. Olvídense de los caparazones por esta noche. Vamos a trabajar en eso. Despacio. —Le toca la frente a Goku con un dedo—. El fuego primero. Después, el agua encima. Sin apurarse.
-
-Goku asiente con tantas ganas que casi se le cae la cabeza. Vegeta asiente una sola vez, con la mandíbula apretada, y se pone en posición sin que nadie se lo pida.
-
-Bills se queda donde está, en el suelo, al lado de tu silla. Los mira un rato, aburrido. Bosteza. Después gira la cabeza hacia ti, despacio, con los ojos amarillos entrecerrados, y te mira el sobretodo. El bolsillo. Fijo.
-
-—Oye —dice—. ¿Qué más tienes ahí adentro?
-
-Se inclina un poco hacia ti, con las orejas paradas.
-
-—Además del pudín. —Baja la voz, como si fuera un secreto entre los dos—. ¿Qué otras cosas ricas hay en la Tierra?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1553 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · sillas de playa         ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.244 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en la mesita                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenamiento en el planeta de     ║
-║ Bills · quedan 2 pudines                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1554)
+## COMANDO 1 (T1554)
 
 le doy una carne al punto justo con pure
 
-## RESPUESTA 2 (T1554)
+## RESPUESTA 1 (T1554)
 
 > le doy una carne al punto justo con pure
 
@@ -119,11 +66,11 @@ Te mira a los ojos. Al rojo y al azul.
 
 ---
 
-## COMANDO 3 (T1555)
+## COMANDO 2 (T1555)
 
 nada, bueno, me mostrarias una de tus habilidades de dios?
 
-## RESPUESTA 3 (T1555)
+## RESPUESTA 2 (T1555)
 
 > nada, bueno, me mostrarias una de tus habilidades de dios?
 
@@ -195,4 +142,60 @@ Whis, de pie junto a la mesita, te mira. No a Bills. A ti. Con la cabeza un poco
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Bills mostró el Hakai (roca borrada). Misión de copia: recibir un Hakai de Bills y seguir existiendo (EXTREMA). "Ahora sí estamos a mano." Whis mira a Facundo. Facundo puede actuar.
+## COMANDO 3 (T1556)
+
+que poder impresionante
+
+## RESPUESTA 3 (T1556)
+
+> que poder impresionante
+
+> —Qué poder impresionante.
+
+Bills se infla.
+
+No mucho. Apenas. Pero se le nota: se endereza en el suelo, levanta la barbilla, se le paran las orejas y la cola le da una vuelta satisfecha alrededor del cuerpo.
+
+—Claro que es impresionante —dice—. Soy un dios. —Se mira la palma de la mano, como si la admirara—. Hay doce universos, ¿sabes? Y en cada uno hay un dios de la destrucción. Y yo soy de los más fuertes. —Se lo piensa—. Quizás el más fuerte. Seguramente el más fuerte.
+
+—Champa-sama no opina lo mismo —dice Whis, con una sonrisa muy educada.
+
+—Champa es un gordo envidioso —dice Bills, sin mirarlo.
+
+Bosteza. Un bostezo enorme, largo, de esos que le muestran todos los dientes. Se frota un ojo con el puño.
+
+—Ese plato me dio sueño. —Se pone de pie despacio, estirándose como un gato, primero los brazos, después la espalda—. Me vuelvo a dormir.
+
+—Bills-sama a veces duerme años —te explica Whis, en voz baja.
+
+—Días —corrige Bills, sin darse vuelta, subiendo ya los primeros escalones de la pirámide—. Unos días. Y cuando me despierte, quiero comer eso otra vez. La carne. Con la cosa blanca.
+
+Se detiene en el décimo escalón. Gira la cabeza por encima del hombro y te mira a ti, a Kase dormido en la mesita, otra vez a ti.
+
+—Y que el gato siga aquí.
+
+Sigue subiendo. Al llegar arriba, la puerta de la pirámide se cierra detrás de él. Un minuto después, vuelve el ronquido: grave, largo, rítmico, como un motor viejo.
+
+A lo lejos, Goku y Vegeta siguen intentándolo. Cada tanto, un destello azul. Un segundo. Medio segundo. Y vuelta a empezar.
+
+Whis se sienta otra vez en su silla de playa. Se acomoda la túnica. Te mira de costado, con la sonrisa amable.
+
+—Bueno, Facundo-san. Parece que Bills-sama le dio una orden. —Junta las manos sobre las rodillas—. Hay cuartos de sobra en el palacio. La comida la cocino yo, aunque no es tan buena como la suya. —Una pausa muy corta—. ¿Se queda con nosotros unos días?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1556 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · sillas de playa         ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en la mesita                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Whis ofrece quedarse unos días     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Bills se volvió a dormir pidiendo la carne y al gato a su vuelta. Whis ofrece a Facundo quedarse unos días. Goku y Vegeta entrenan el azul. Facundo puede responder.
