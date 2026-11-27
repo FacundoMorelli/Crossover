@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1609)
-
-algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
-
-## RESPUESTA 1 (T1609)
-
-> algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
-
-> —Algo así, sí. Ya copié todos tus poderes, así que lo que hagas ya lo tengo.
-
-Bills se queda con el dedo levantado en el aire.
-
-—¿Todos?
-
-—Todos, parece, Bills-sama —dice Whis, y se tapa la boca con la mano.
-
-Bills baja el dedo, despacio. Se le aplastan las orejas. La cola le da un golpe seco en el pasto, después otro.
-
-—Miles de años. —Lo dice bajito, mirando a la nada—. Miles de años siendo el único. Destruyendo planetas. Durmiendo. Comiendo. Siendo temido en todo el universo. Y viene un humano con un gato y un bolsillo... —Te señala de arriba abajo con la mano entera, indignado— ...y en dos días me come la esfera, me rompe el Hakai, me tira contra mi casa y me copia todo.
-
-Se cruza de brazos con fuerza. Levanta el mentón. Te da la espalda.
-
-—Estoy ofendido.
-
-Goku se rasca la cabeza.
-
-—Pero señor Bills, a mí también me copió, y yo no estoy ofendido.
-
-—Tú no tienes dignidad, saiyajin.
-
-—Ah, eso es cierto —dice Goku, contento.
-
-Vegeta resopla. No se sabe si de risa o de desprecio.
-
-Bills se queda de espaldas un rato largo, con los brazos cruzados y la cola moviéndose de un lado al otro, enojada. Whis lo mira, divertido, sin decir nada. Esperando.
-
-Al final, Bills gira la cabeza, solo la cabeza, y te mira por encima del hombro con un ojo entrecerrado.
-
-—Bueno. Si ya lo tienes, ya lo tienes. Un dios no llora por lo que no tiene arreglo. —Una pausa—. Pero copiarme no es gratis.
-
-Se da vuelta del todo. Levanta un dedo, solemne, como un juez.
-
-—Cada poder que me copiaste, me lo pagas. —Entrecierra los ojos—. En hamburguesas.
-
-Afuera de la conversación, Whis se ríe abiertamente. Kase, en el pasto, bosteza.
-
-—Y no me mires así. —Bills levanta el mentón otra vez—. ¿Cuántos poderes me copiaste, exactamente?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1609 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 53% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~39 min) · Velo: ki bajo   ║
-║ Kase: sentado en el pasto                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1610)
+## COMANDO 1 (T1610)
 
 ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
 
-## RESPUESTA 2 (T1610)
+## RESPUESTA 1 (T1610)
 
 > ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
 
@@ -137,11 +72,11 @@ Bills vuelve a mirarte, de brazos cruzados, con la cola moviéndose despacio det
 
 ---
 
-## COMANDO 3 (T1611)
+## COMANDO 2 (T1611)
 
 esta bien, pero acuérdate que soy viajero
 
-## RESPUESTA 3 (T1611)
+## RESPUESTA 2 (T1611)
 
 > esta bien, pero acuérdate que soy viajero
 
@@ -202,4 +137,59 @@ Vegeta, al pie de la escalera, te mira de costado. No dice nada, pero tiene los 
 
 ---
 
-ESTADO AL CIERRE: Trato: 105 hamburguesas juntas, Whis las guarda (todavía no entregadas). Condiciones de Bills: comida de su mundo, a él primero; Kase siempre. Bills: "¿Cuándo te vas?" Facundo puede contestar.
+## COMANDO 3 (T1612)
+
+no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
+
+## RESPUESTA 3 (T1612)
+
+> no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
+
+> —No sé. Por ahora no me voy a ir. Y, Bills: si algún día vengo sin mi gato, significa que destruí un mundo entero por lo que le hayan intentado hacer.
+
+Por un momento, nadie dice nada.
+
+Kase, apoyado contra tu borceguí, levanta la cabeza y te mira desde abajo, con los ojos de dos colores muy quietos. Después vuelve a apoyar la cabeza y cierra los ojos, como si esa respuesta ya la supiera.
+
+Bills se queda mirándote.
+
+Las orejas le suben del todo, despacio, hasta quedar derechas. La cola deja de moverse. Y en la cara se le va armando algo que no es la sonrisa de gato de siempre: es más chica, más tranquila, casi de respeto.
+
+—Hm. —Asiente una vez, lento—. Eso es algo que diría un Dios de la Destrucción.
+
+—Bills-sama nunca destruyó un planeta por nadie —dice Whis, en voz baja, mirando a Kase—. Solo por comida.
+
+—La comida es alguien —dice Bills, sin mirarlo.
+
+Al pie de la escalera, Vegeta descruza los brazos. Se le escapa media sonrisa, torcida, que borra enseguida. Pero asiente apenas, con la cabeza, una vez, como quien le da la razón a un igual.
+
+Goku se rasca la nuca, un poco incómodo, y mira a Kase.
+
+—Bueno, nadie le va a hacer nada al gatito. —Se ríe—. Con ustedes dos cuidándolo, ¡ni loco!
+
+Bills suelta el aire por la nariz y se le aflojan los hombros. Mira el pasto, mira la pirámide arreglada, mira la explanada que Whis terminó de dejar lisa.
+
+—Por ahora no te vas —repite, como si se lo dijera a sí mismo—. Bien.
+
+Después levanta la vista, y ya es el de siempre: el mentón arriba, los ojos entrecerrados, la cola moviéndose de nuevo, contenta.
+
+—Entonces no hay apuro con las ciento cinco. —Extiende la mano, con la palma hacia arriba—. Pero la de hoy sí. Me la debes desde que dijiste "etcétera".
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1612 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 53% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~36 min) · Velo: ki bajo   ║
+║ Kase: sentado contra tu borceguí             ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo no se va por ahora. Bills respeta lo del gato. Mano extendida: "La de hoy sí. Me la debes desde que dijiste etcétera." Facundo puede actuar.
