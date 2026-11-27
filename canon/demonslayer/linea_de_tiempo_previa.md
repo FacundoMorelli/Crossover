@@ -4,7 +4,7 @@
 2. Muzan crea demonios durante siglos. Surge el Cuerpo de Cazadores (~1000 años de existencia). La familia Ubuyashiki comparte sangre con Muzan y recibe la maldición.
 3. ERA SENGOKU (~400 años antes): nacen los gemelos Tsugikuni: Michikatsu y Yoriichi. Yoriichi nace con Marca; es un genio de la espada. Michikatsu lo envidia.
 4. Yoriichi pierde a su esposa Uta y a su hijo no nacido por un demonio. Se une al Cuerpo; enseña la Respiración del Sol; de ella nacen las otras respiraciones. Muchos cazadores obtienen la Marca.
-5. Yoriichi encuentra a Muzan junto con Tamayo y lo corta casi hasta matarlo; Muzan explota en ~1.800 fragmentos; Yoriichi destruye ~1.500 y ~300 escapan. Tamayo queda libre de la maldición.
+5. Yoriichi encuentra a Muzan junto con Tamayo y lo corta casi hasta matarlo; Muzan explota en ~1.800 fragmentos; Yoriichi destruye ~1.500 y ~300 escapan y se regeneran (contado en el cap. 187). Tamayo queda libre de la maldición.
 6. Yoriichi es expulsado del Cuerpo por dejar escapar a Muzan y por la traición de su hermano. Michikatsu se vuelve demonio (Kokushibo) para no morir por la Marca.
 7. Yoriichi visita a Sumiyoshi Kamado (antepasado de Tanjiro) y le enseña la danza; le deja los aretes hanafuda. Los Kamado preservan la Danza del Dios del Fuego.
 8. Muzan casi extermina a los usuarios de la Respiración del Sol; la técnica se pierde para el Cuerpo.
@@ -22,5 +22,4 @@
 
 DUDAS:
 - Fechas exactas de los años no se confirman en el manga más que como aproximaciones.
-- Número de fragmentos de Muzan (1.800 / 1.500 destruidos / 300 huyen): cifras de conocimiento previo, no cruzadas con segunda fuente.
 - Fecha de la muerte de Kanae no confirmada.

@@ -54,7 +54,7 @@ MUERTES Y BAJAS:
 - Tamayo — absorbida por Muzan.
 - Muzan Kibutsuji — sol.
 - Gyomei Himejima, Obanai Iguro, Mitsuri Kanroji — heridas.
-- Chachamaru (gato de Tamayo) — destino no confirmado (ver Dudas).
+- Chachamaru (gato de Tamayo) — despedazado mientras lleva un antídoto; sobrevive (su cuerpo de demonio lo aguanta) y Yushiro lo recompone.
 - Muchos cazadores y Kakushi.
 
 MOMENTOS CLAVE / GIROS:
@@ -71,6 +71,6 @@ QUÉ CAMBIA DESPUÉS:
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - Año exacto del epílogo: no se da en el manga (las fuentes dicen "actualidad").
-- Muerte de Chachamaru: no confirmada (aparece ayudando; fuentes difieren).
+- Final de Yushiro y Chachamaru: siguen vivos en los caps. 204–205; una fuente dice que "desaparecen del mundo" juntos tras visitar a Tanjiro (redacción no cruzada con el capítulo).
 - Nombres y orden exacto de las 12 formas de Hinokami Kagura: se listan en el sistema_de_poder según fanbook; algunas traducciones varían.
 - Si Uzui y Urokodaki estaban con Kiriya o con Nezuko: el manga muestra a Uzui protegiendo a Kiriya y a Urokodaki con Nezuko.

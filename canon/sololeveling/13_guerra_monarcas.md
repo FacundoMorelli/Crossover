@@ -16,9 +16,9 @@ QUÉ PASA:
 1. Los Monarcas atacan a los cazadores nacionales. El Monarca de la Escarcha mata a Christopher Reed.
 2. Ashborn (dentro de Jinwoo) le transmite sus recuerdos: era un Gobernante (Fragmento de la Luz) que se rebeló; se convirtió en Monarca de las Sombras.
 3. Jinwoo hereda por completo el poder de Ashborn y se vuelve Monarca de las Sombras; obtiene a Bellion y el Ejército original.
-4. Jinwoo mata a Rakan (Bestias) y a Sillad (Escarcha); Legia muere (ver Dudas).
+4. Jinwoo mata a Rakan (Bestias) y a Sillad (Escarcha). Legia intenta un engaño; Jinwoo descubre su piedra de esencia oculta y lo mata de un golpe.
 5. Sung Il-hwan aparece como recipiente de un Gobernante y ayuda; muere.
-6. Muerte de Go Gunhee en este periodo (ver Dudas).
+6. Go Gunhee cae en estado crítico (la hormiga de sombra que Jinwoo dejó en su sombra le avisa); muere. Jinwoo no lo extrae como sombra.
 
 PELEAS DEL ARCO:
 1. Escarcha vs Christopher Reed — EE.UU. — Reed muere.
@@ -47,4 +47,4 @@ QUÉ CAMBIA DESPUÉS:
 - Solo queda Antares como amenaza principal.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Orden de muertes de los Monarcas y momento de la muerte de Go Gunhee: no confirmados.
+- Orden exacto de las muertes de los Monarcas y capítulo de cada una: no confirmados.

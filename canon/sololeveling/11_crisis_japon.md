@@ -7,7 +7,7 @@ DURACIÓN EN LA HISTORIA: días.
 PERSONAJES PRESENTES:
 - Sung Jinwoo, su ejército (Igris, Beru, Tusk, Iron y otros).
 - Gigantes (de una Puerta de rango S en Japón; ruptura).
-- Legia — Rey de los Gigantes / Monarca del Principio (ver Dudas).
+- Legia — Rey de los Gigantes / Monarca del Principio (aparece; muere en el arco 13).
 - Cazadores japoneses.
 
 QUÉ PASA:
@@ -39,4 +39,4 @@ QUÉ CAMBIA DESPUÉS:
 - Llamado a la Conferencia Internacional.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Si Legia muere aquí o después: no confirmado.
+- Ninguna.

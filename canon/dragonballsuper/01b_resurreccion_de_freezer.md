@@ -1,5 +1,5 @@
 # La Resurrección de Freezer (EXCEPCIÓN: tomado del ANIME)
-FUENTE: anime de Dragon Ball Super, episodios 18–27 (arco "Resurrección de F"). El manga no adapta este arco: se agrega por pedido expreso, como única excepción al criterio "solo manga". El resto del compendio sigue siendo solo manga.
+FUENTE: anime de Dragon Ball Super, episodios 15–27 (arco "Resurrección de F"; los ep. 15–17 son la antesala). El manga no adapta este arco: se agrega por pedido expreso, como única excepción al criterio "solo manga". El resto del compendio sigue siendo solo manga.
 CAPÍTULOS: no tiene (va entre el cap. 4 y el cap. 5 del manga).
 AÑO / FECHA: Age 779 (cronología oficial; ver Dudas).
 LUGARES: Infierno (Freezer encerrado); nave de Sorbet; Tierra: Capsule Corp., zona del campo de batalla (descampado montañoso), casa de Kame-Sennin; planeta de Beerus (Goku y Vegeta entrenando).
@@ -9,7 +9,7 @@ PERSONAJES PRESENTES:
 - Freezer — revivido; forma final; nueva forma Golden Freezer.
 - Sorbet — comandante de los restos del Ejército de Freezer; anillo láser.
 - Tagoma — soldado de élite del ejército; luego poseído por el Capitán Ginyu.
-- Shisami — soldado de élite (ver Dudas).
+- Shisami — soldado de élite del ejército (personaje agregado por el anime; pelea contra los Guerreros Z).
 - Capitán Ginyu — en el cuerpo de una rana desde Namek; cambia de cuerpo con Tagoma.
 - Ejército de Freezer (~1.000 soldados).
 - Pilaf, Mai, Shu — usados por Sorbet para juntar las Esferas.
@@ -26,13 +26,13 @@ QUÉ PASA:
 4. Freezer obtiene una nueva forma: Golden Freezer.
 5. Jaco avisa a Bulma. Bulma intenta contactar a Goku y Vegeta en el planeta de Beerus; el mensaje llega tarde (Whis lo recibe con demora).
 6. Freezer llega a la Tierra con ~1.000 soldados. Gohan, Piccolo, Krilin, Ten Shin Han, Kame-Sennin y Jaco pelean contra el ejército y lo derrotan.
-7. Gohan, oxidado por no entrenar, pelea con Tagoma y casi muere; Piccolo lo salva recibiendo un rayo de Freezer en el pecho (ver Dudas).
+7. Gohan, oxidado por no entrenar, pelea con Tagoma y casi muere; Piccolo lo salva recibiendo un rayo de Freezer y muere; más tarde es revivido con las Esferas de Namek (fuera de cámara).
 8. Ginyu cambia de cuerpo con Tagoma y pelea con Gohan; Freezer mata a Ginyu-Tagoma.
 9. Goku, Vegeta, Beerus y Whis llegan. Goku pelea con Freezer en su forma final y luego Freezer se vuelve dorado; Goku pasa a Blue.
 10. Golden Freezer, al principio superior, gasta energía muy rápido (no entrenó a mantener la forma); Goku toma ventaja.
-11. Sorbet le dispara a Goku con el anillo láser por la espalda, distraído; Goku queda herido.
+11. Sorbet le dispara a Goku con el anillo láser por la espalda, distraído; Goku queda herido. Cuando Krilin intenta darle una semilla del ermitaño, Freezer le dispara; Vegeta desvía el rayo, que mata a Sorbet.
 12. Vegeta se interpone, pasa a Blue, domina a Freezer y está por matarlo.
-13. Freezer, desesperado, destruye la Tierra. Todos mueren salvo los que Whis protegió (Beerus, Whis, Bulma, Vegeta, Goku? ver Dudas).
+13. Freezer, desesperado, destruye la Tierra. Todos mueren salvo los que Whis protege con su barrera junto a Beerus (ver Dudas).
 14. Whis retrocede el tiempo 3 minutos. Goku, alertado, mata a Freezer con un Kamehameha antes de que destruya la Tierra. Freezer vuelve al Infierno.
 
 PELEAS DEL ARCO:
@@ -59,7 +59,8 @@ ORGANIZACIONES Y BANDOS:
 - Dioses del U7 (Beerus, Whis) — no intervienen salvo Whis al final.
 
 MUERTES Y BAJAS:
-- Sorbet — Freezer (ver Dudas).
+- Sorbet — rayo de Freezer desviado por Vegeta.
+- Piccolo — Freezer (revivido con las Esferas de Namek).
 - Ginyu (en el cuerpo de Tagoma) — Freezer.
 - La mayoría del ejército de Freezer — Guerreros Z.
 - Freezer — Goku (vuelve al Infierno).
@@ -77,8 +78,7 @@ QUÉ CAMBIA DESPUÉS:
 - Gohan decide volver a entrenar.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Fuente: el anime (ep. 18–27) adapta la película "La Resurrección de F" (2015) con escenas extra; se sigue el anime. Diferencias conocidas con la película: el anime agrega a Shisami y alarga las peleas. No se cruzó episodio por episodio: el número exacto de episodio de cada evento es aproximado.
+- Fuente: el anime (ep. 15–27) adapta la película "La Resurrección de F" (2015) con escenas extra; se sigue el anime. Diferencias conocidas con la película: el anime agrega a Shisami y alarga las peleas. No se cruzó episodio por episodio: el número exacto de episodio de cada evento es aproximado.
 - Año (Age 779) según la cronología oficial; no se cruzó con segunda fuente.
-- Herida de Piccolo y quiénes sobreviven a la destrucción de la Tierra (protegidos por Whis): según conocimiento previo, no confirmados con fuente.
-- Muerte de Sorbet: en el anime Freezer lo mata con un rayo; no confirmado con segunda fuente.
+- Lista exacta de quiénes protege Whis al destruirse la Tierra: no confirmada con fuente (al menos Beerus, Whis, Bulma y Vegeta; Goku ya estaba en el aire).
 - Compatibilidad con el manga: el manga nunca muestra este arco; en el manga Freezer reaparece en el Torneo del Poder sin explicación previa. Este archivo llena ese hueco con el anime.

@@ -9,7 +9,7 @@ PERSONAJES PRESENTES:
 - Universo 11 (Tropas del Orgullo): Jiren (el más fuerte), Toppo (candidato a Dios de la Destrucción), Dyspo; Belmod (Dios), Marcarita (ángel).
 - Universo 6: Hit, Cabba, Caulifla, Kale (Super Saiyajin Legendaria), Frost; Champa, Vados.
 - Universo 9: Trío de Peligros (Bergamo, Lavender, Basil); Sidra (Dios).
-- Universo 4: luchador invisible (insecto; Gamisaras? ver Dudas); Quitela.
+- Universo 4: Gamisalas (invisible), Damon (insecto diminuto), Shosa, Ganos, Shantsa; Quitela (Dios).
 - Dioses de la Destrucción de los 12 universos (los 8 en juego), ángeles, Kaioshin.
 - Zeno-sama (x2), Gran Sacerdote.
 - Fortuneteller Baba (revive a Freezer).
@@ -22,17 +22,17 @@ QUÉ PASA:
 5. Comienza el torneo. Freezer elimina al Trío de Peligros: el Universo 9 es el primero borrado.
 6. Freezer traiciona y elimina a Frost.
 7. Hit pelea con Jiren con una técnica nueva y es eliminado.
-8. Un luchador invisible del U4 elimina a varios, incluido Piccolo; Número 17 detecta que es un insecto. Quedan 37 luchadores (fin del cap. 36).
-9. Kale se transforma (Super Saiyajin Legendaria) y arrasa; se borran 4 universos más (ver Dudas por cuáles). El U11 la noquea; Cabba se sacrifica y la devuelve al ring.
+8. Ataques invisibles del U4: Piccolo localiza a Gamisalas (invisible) y lo saca del ring; el otro atacante resulta ser Damon, un insecto diminuto, que elimina a varios (Piccolo entre ellos, según Wikipedia) hasta que Número 17 lo detecta y lo elimina. Quedan 37 luchadores (fin del cap. 36).
+9. Kale se transforma (Super Saiyajin Legendaria) y arrasa (ataca incluso a Magetta, de su equipo). En el cap. 38 se borran, en este orden: Universo 4 (caen Shantsa y Ganos), Universo 3 (cae Agnilasa), Universo 2 (caen Zarbuto y Rabanra) y Universo 10 (cae Obni). El U11 la noquea; Cabba se sacrifica y la devuelve al ring.
 10. Caulifla y Kale se fusionan con Potara robados en Kefla, que pelea con Gohan; ambos caen fuera del ring (U6 borrado).
 11. Kame-Sennin es eliminado tras enseñarle a Goku a esquivar sin pensar.
 12. Goku alcanza brevemente el Ultra Instinto (cap. 39–40).
-13. Vegeta alcanza una forma nueva (Blue superado; ver Dudas) pero pierde contra Jiren.
+13. Vegeta supera los límites del Blue (Super Saiyajin Blue "evolucionado"; el manga no le da nombre oficial) pero pierde contra Jiren.
 14. El truco de Freezer elimina a Toppo y Dyspo.
 15. Número 17 se autodestruye contra Jiren (falso); Goku reactiva el Ultra Instinto.
 16. Goku alcanza el Ultra Instinto completo (pelo plateado; cap. 41). Se une con Vegeta. Freezer se sacrifica para empujar a Jiren fuera del ring.
 17. Número 17, que había fingido su autodestrucción y se escondía, queda como último en pie: gana el Universo 7.
-18. Número 17 pide a las Súper Esferas que vuelvan los universos borrados. Whis revive a Freezer (permanentemente; ver Dudas).
+18. Número 17, a través del Gran Sacerdote, pide a Súper Shenlong que vuelvan los universos borrados (incluido el U11). En el viaje de vuelta, Whis revive a Freezer con su bastón como "regalo de Beerus"; Freezer anuncia que seguirá haciendo el mal.
 
 PELEAS DEL ARCO:
 1. Dioses de la Destrucción (todos) — palacio — exhibición cancelada.
@@ -77,7 +77,5 @@ QUÉ CAMBIA DESPUÉS:
 - Goku conoce el Ultra Instinto pero no lo domina.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Qué 4 universos se borran en el paso 9: Wikipedia no los nombra.
-- Nombre del luchador invisible del U4 no confirmado.
-- La forma nueva de Vegeta: Wikipedia dice "nueva forma", sin nombre.
-- Si Freezer queda vivo permanentemente: Wikipedia dice "Whis resucita a Freezer"; se usa así.
+- Nombre de la forma de Vegeta: no oficial en el manga.
+- Que Damon elimine a Piccolo: sale del resumen de Wikipedia; Kanzenshuu no lo detalla.

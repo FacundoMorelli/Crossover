@@ -9,7 +9,7 @@ PERSONAJES PRESENTES:
 - Kurose y Tendo (falsos, impostores; ver QUÉ PASA).
 - Hermanos americanos (3, pacto con Demonio Piel; hermano impostor).
 - Tolka y su maestro (URSS) — pacto con el Demonio Maldición (clavos).
-- Quanxi — primera cazadora de demonios del mundo; híbrida Ballesta; con 4 fiends que la acompañan (entre ellas Cosmos; nombres del resto: ver Dudas).
+- Quanxi — primera cazadora de demonios del mundo; híbrida Ballesta; con 4 fiends que la acompañan: Long, Pingtsi, Tsugihagi y Cosmo.
 - Pingtsi, Long, Cosmos, Fiend Momo (ver Dudas por nombres).
 - Santa Claus (Alemania) — pacto con el Demonio Muñeca y luego Demonio del Infierno; convierte personas en muñecos.
 - Demonio de la Oscuridad — uno de los Primordiales (Miedos Primordiales), en el Infierno.
@@ -24,7 +24,7 @@ QUÉ PASA:
 6. Kishibe parlamenta con Quanxi (ex compañera).
 7. Santa Claus invoca al Demonio del Infierno: todos los presentes (Denji, Power, Aki, Quanxi, Santa y otros) son transportados al Infierno.
 8. En el Infierno, el Demonio de la Oscuridad aparece y arranca los brazos de todos (los humanos y demonios). Santa Claus pacta con él (le da su cuerpo; obtiene su poder).
-9. Makima se salva sacrificando a Tolka (detalle del sacrificio: ver Dudas). Makima vuelve.
+9. Makima es convocada al Infierno y somete al Demonio de la Oscuridad con un chasquido. Tolka entrega todo su ser al Demonio del Infierno a cambio de devolver a todos a la Tierra. Santa Claus se traga un trozo de carne de la Oscuridad.
 10. Quanxi se convierte en Ballesta y pelea junto a Chainsaw Man contra Santa (Infierno/Oscuridad).
 11. Vuelven a la Tierra. Santa debilitada; el Fiend Cosmos la atrapa en una "biblioteca" mental y le rompe la mente (Halloween).
 12. Quanxi se rinde a Kishibe. Makima mata a Quanxi y a dos fiends.
@@ -51,7 +51,7 @@ ORGANIZACIONES Y BANDOS:
 MUERTES Y BAJAS:
 - Santa Claus — Denji.
 - Quanxi y 2 fiends — Makima.
-- Tolka — sacrificado (Makima).
+- Tolka — se entrega al Demonio del Infierno.
 - Kurose y Tendo reales — asesinados antes (suplantados).
 - Hermanos americanos — muertos (la mayoría).
 - Cientos de civiles convertidos en muñecos.
@@ -67,5 +67,5 @@ QUÉ CAMBIA DESPUÉS:
 - Power aterrada por la Oscuridad (trauma).
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Nombres de los fiends de Quanxi (Pingtsi, Long, Cosmos, Fiend no confirmado).
-- Quien queda con el clavo y quién sacrifica a quién (Tolka/maestro) no del todo claro en la fuente.
+- Nombres de los fiends de Quanxi: tomados del resumen de la lista de personajes de Wikipedia (no del texto literal).
+- Paso 5 (clavo maldito del maestro de Tolka): las fuentes consultadas no lo detallan.

@@ -15,7 +15,7 @@ PERSONAJES PRESENTES:
 QUÉ PASA:
 1. Fami dice que Denji podría anular el pacto con Pochita.
 2. Soapland de Katana Man; intimidad entre Denji y Yoru.
-3. Barem en el restaurante de sushi ofrece liberar a Nayuta y luego muestra una cabeza (aparentemente de Nayuta). Denji mata a Barem; Pochita toma el control.
+3. Barem en el restaurante de sushi ofrece liberar a Nayuta y luego muestra una cabeza (aparentemente de Nayuta). Denji ataca a Barem y aparentemente lo mata (cap. 171; sobrevive); Pochita toma el control.
 4. Pochita borra conceptos: orejas, bocas, nieve, pulpos, amargura (al comer demonios).
 5. Aparecen la División Especial 5 y el Demonio del Envejecimiento. Yoru pierde el brazo izquierdo.
 6. Yoru invoca a sus "hijos" Tanque y Pistola como brazos; ataque masivo de dedos.
@@ -28,7 +28,7 @@ QUÉ PASA:
 13. La Muerte, haciéndose pasar por la estudiante "Fami", mata. La verdadera Fami vs Muerte; la Muerte no puede morir.
 
 PELEAS DEL ARCO:
-1. Denji vs Barem — sushi — Barem muere (ver Dudas: reaparece en arco 14).
+1. Denji vs Barem — sushi — Barem parece morir, pero sobrevive.
 2. Pochita vs Demonio del Envejecimiento — Tokio/mundo interior — empate; pacto forzado por Yoshida.
 3. Denji vs impostor — Tokio — no confirmado.
 4. Fami vs Muerte — Tokio — la Muerte no puede morir.
@@ -42,7 +42,7 @@ ORGANIZACIONES Y BANDOS:
 - División Especial 5 (Seguridad Pública).
 
 MUERTES Y BAJAS:
-- Barem (aparente).
+- Barem (muerte aparente; muere de verdad en el cap. 214).
 - Agentes de Seguridad Pública.
 
 MOMENTOS CLAVE / GIROS:
@@ -55,6 +55,5 @@ QUÉ CAMBIA DESPUÉS:
 - Conceptos borrados del mundo.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Barem: Wikipedia lo muestra muerto en el vol. 19 y vivo en el vol. 23 (bombardea la escuela); contradicción sin resolver.
 - Si Fumiko muere aquí: Wikipedia dice "herida de muerte"; reaparece en el vol. 23; dudoso.
 - Orden de eventos dentro del arco aproximado.

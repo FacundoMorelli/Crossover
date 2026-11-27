@@ -18,8 +18,8 @@ QUÉ PASA:
 4. Yoru confiesa que no puede entender la culpa. Denji revive a Yoru con sangre; tregua.
 5. Como la Muerte fue olvidada, insectos y animales atacan a los humanos.
 6. Pochita se come su propio corazón, borrando a Chainsaw Man de la existencia (mundo reescrito).
-7. Denji vive en una choza; Power (viva en el nuevo mundo) lo salva de la yakuza; Nayuta los recluta en Seguridad Pública.
-8. Aparece un demonio con forma de cangrejo en la escuela; Asa llama a Denji "Chainsaw Man".
+7. El mundo se reinicia: Denji despierta en la misma choza del comienzo de la serie. Nadie recuerda la línea anterior. Power (viva en el nuevo mundo) lo salva de la yakuza; Nayuta los recluta y Denji queda bajo su mando en Seguridad Pública.
+8. Aparece un demonio con forma de cangrejo en la escuela; Asa le agradece al hombre que solo conoce como "Chainsaw Man".
 9. Cap. 232: "Gracias, Chainsaw Man". Fin.
 
 PELEAS DEL ARCO:
@@ -47,5 +47,4 @@ QUÉ CAMBIA DESPUÉS:
 - Mundo sin Chainsaw Man; Denji, Power y Nayuta juntos.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- La prensa describe el final como "reinicio" con muchos hilos sin resolver; estado del mundo (si existen la Muerte, Asa recuerda, etc.) no confirmado.
-- Rol de Nayuta en Seguridad Pública no claro.
+- Si la Muerte existe en el mundo nuevo y cómo Asa conoce a "Chainsaw Man" si nadie recuerda: la obra lo deja ambiguo (la prensa lo describe como final abierto).

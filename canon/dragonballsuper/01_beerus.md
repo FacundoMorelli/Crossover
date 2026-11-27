@@ -14,18 +14,18 @@ PERSONAJES PRESENTES:
 - Shenlong.
 
 QUÉ PASA:
-1. Beerus despierta tras 39 años de sueño (ver Dudas) por una premonición: un "Super Saiyajin Dios".
+1. Beerus despierta tras 39 años de sueño por una premonición: un "Super Saiyajin Dios".
 2. Beerus va al planeta del Kaio del Norte, donde entrena Goku. Goku (Super Saiyajin 3) es derrotado de un solo golpe.
 3. Beerus llega a la fiesta de Bulma en la Tierra. Pelea con los Guerreros Z cuando Boo no le da el pudín; Vegeta lo golpea enfurecido porque Beerus abofeteó a Bulma.
 4. Beerus amenaza con destruir la Tierra si no le muestran al Super Saiyajin Dios.
 5. Goku invoca a Shenlong y aprende el ritual: 5 Saiyajin de corazón puro pasan su energía a un sexto (Goku, Vegeta, Gohan, Goten, Trunks y Pan aún en el vientre de Videl).
-6. Goku se convierte en Super Saiyajin Dios y pelea con Beerus. Pierde la forma pero absorbe su poder. Pelea sin resultado decisivo; Beerus no destruye la Tierra (ver Dudas: el manga lo cierra con un empate/Beerus se cansa).
+6. Goku se convierte en Super Saiyajin Dios y pelea con Beerus. Pierde la forma pero absorbe su poder. Whis interviene y Beerus detiene la pelea: deja la Tierra intacta mientras Goku siga esforzándose (el manga sigue el final de la película de 2013).
 7. Whis entrena a Goku y Vegeta en el planeta de Beerus. Ambos alcanzan el Super Saiyajin Blue.
 
 PELEAS DEL ARCO:
 1. Goku (SSJ3) vs Beerus — planeta del Kaio del Norte — Beerus gana.
 2. Guerreros Z (Boo, Gohan, Vegeta, etc.) vs Beerus — fiesta de Bulma — Beerus gana.
-3. Goku (SSJ Dios) vs Beerus — cielo de la Tierra/espacio — sin resultado decisivo; Beerus se retira.
+3. Goku (SSJ Dios) vs Beerus — cielo de la Tierra/espacio — Beerus detiene la pelea; la Tierra se salva.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
 - Super Saiyajin Dios (pelo rojo): ritual de 6 Saiyajin de corazón puro; da ki divino (los mortales no lo perciben). El poder queda absorbido en el cuerpo de Goku después.
@@ -53,5 +53,4 @@ QUÉ CAMBIA DESPUÉS:
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - La "Resurrección de F" no se adapta en el manga; se toma del anime como excepción en `01b_resurreccion_de_freezer.md`.
-- Años de sueño de Beerus: dato de la película; el manga no lo cuantifica de forma clara.
-- Final exacto de la pelea con Beerus: Wikipedia dice "termina sin decidirse".
+- Ninguna más (39 años de sueño y final de la pelea confirmados con Kanzenshuu).

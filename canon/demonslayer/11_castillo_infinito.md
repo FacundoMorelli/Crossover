@@ -19,7 +19,7 @@ QUÉ PASA:
 4. Muzan convoca a Nakime: el suelo se abre y todos caen al Castillo Infinito. Muzan se encierra en un capullo de carne para descomponer el fármaco de Tamayo (absorbe a Tamayo).
 5. Shinobu encuentra a Douma, quien mató a su hermana Kanae. Shinobu lo envenena repetidas veces; Douma se adapta al veneno.
 6. Douma absorbe a Shinobu (la come viva). Shinobu había cargado su cuerpo con veneno de glicina (37 kg; ver Dudas) para envenenarlo al ser devorada. Muere.
-7. Zenitsu encuentra a Kaigaku (LS6). Kaigaku, ex alumno de Jigoro, desprecia a Zenitsu. Zenitsu usa una forma propia: 7.ª forma del Trueno "Honoikazuchi no Kami" (Dios del Trueno Ardiente). Decapita a Kaigaku. Zenitsu cae al vacío y es salvado por Yushiro/Kakushi (ver Dudas).
+7. Zenitsu encuentra a Kaigaku (LS6). Kaigaku, ex alumno de Jigoro, desprecia a Zenitsu. Zenitsu usa una forma propia: 7.ª forma del Trueno "Honoikazuchi no Kami" (Dios del Trueno Ardiente). Decapita a Kaigaku. Zenitsu cae al vacío inconsciente y Yushiro salta a atraparlo (cap. 146); luego lo atiende junto a Murata y otros cazadores.
 8. Tanjiro y Giyu encuentran a Akaza. Giyu despierta la Marca. Akaza revela que mató a Rengoku y quiere convertir a Giyu.
 9. Tanjiro entra en el "Mundo Transparente" (ve dentro de los cuerpos) y en el "Estado Sin Uno Mismo" (sin espíritu de lucha), invisible a la Brújula de Akaza.
 10. Tanjiro decapita a Akaza con Hinokami Kagura. Akaza se niega a morir y regenera sin cabeza; recuerda su pasado humano: Hakuji, el dojo de Keizo, su prometida Koyuki (envenenados). Hakuji mató a 67 personas del dojo rival antes de que Muzan lo convirtiera.
@@ -97,5 +97,4 @@ QUÉ CAMBIA DESPUÉS:
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - Cantidad de veneno en Shinobu: 37 kg según el manga (Shinobu lo consumió durante un año).
-- Rescate de Zenitsu tras caer: lo sostiene uno de los Kakushi/Yushiro (ver Dudas en fuentes; no confirmado).
 - Nombre de la técnica final de Akaza no confirmado.

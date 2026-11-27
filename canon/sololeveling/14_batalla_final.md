@@ -13,7 +13,7 @@ PERSONAJES PRESENTES:
 
 QUÉ PASA:
 1. Antares invade la Tierra con dragones.
-2. Jinwoo y su ejército enfrentan a Antares; Jinwoo vence a Antares y lo mata (si lo extrae como sombra: ver Dudas).
+2. Jinwoo y su ejército enfrentan a Antares; Jinwoo vence a Antares y lo mata. No lo extrae: los seres hechos de maná (Monarcas y Gobernantes) no pueden volverse sombras.
 3. Jinwoo usa la Copa de la Reencarnación para retroceder el tiempo a antes de las Puertas, evitando que los humanos sufran.
 4. Jinwoo pasa 27 años en el Mundo del Caos con su ejército combatiendo a los Monarcas restantes para que nunca invadan.
 5. Regresa a la Tierra (línea temporal nueva) sin que nadie lo recuerde.
@@ -42,5 +42,4 @@ QUÉ CAMBIA DESPUÉS:
 - Mundo sin Puertas; nadie recuerda a Jinwoo.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Si Antares es extraído como sombra: no confirmado.
 - Momento exacto de uso de la Copa: no confirmado.

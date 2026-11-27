@@ -7,7 +7,7 @@ DURACIÓN EN LA HISTORIA: semanas de preparación + 1 día de torneo.
 PERSONAJES PRESENTES:
 - Universo 7: Goku, Vegeta, Piccolo, Majin Boo (descalificado por no aprobar el examen escrito), Monaka (supuesto "más fuerte", en realidad débil); Beerus, Whis.
 - Universo 6: Champa (Dios de la Destrucción, hermano gemelo de Beerus), Vados (ángel); luchadores: Botamo, Frost, Magetta, Cabba (Saiyajin del U6), Hit (asesino legendario).
-- Jaco (Patrulla Galáctica), Bulma, Mr. Satán (árbitro? ver Dudas), Gran Sacerdote? (ver Dudas).
+- Jaco (Patrulla Galáctica), Bulma.
 - Zeno-sama (Omni-Rey) — aparece al final.
 
 QUÉ PASA:
@@ -18,7 +18,7 @@ QUÉ PASA:
 5. Vegeta vence a Frost, a Magetta (lo insulta hasta deprimirlo) y a Cabba (lo provoca para que alcance el Super Saiyajin).
 6. Vegeta pierde contra Hit (Salto Temporal).
 7. Goku vs Hit; Goku usa Blue y Kaio-ken. Hit se deja perder contra Monaka (renuncia); el U7 gana.
-8. Beerus usa las Súper Esferas del Dragón para revivir a los humanos de la Tierra del U6 (ver Dudas: deseo de Champa).
+8. Champa entrega las Súper Esferas (el planeta sin nombre era la 7.ª). Beerus hace que Whis le pida un deseo a Súper Shenlong y se niega a decir cuál; después se ve que los humanos del U6 fueron revividos y vuelven a cocinar.
 9. Zeno-sama aparece y anuncia un torneo entre todos los universos.
 10. Trunks del futuro regresa en la máquina del tiempo, huyendo de Goku Black.
 
@@ -61,5 +61,4 @@ QUÉ CAMBIA DESPUÉS:
 - Trunks llega pidiendo ayuda.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Wikipedia dice que Beerus revive a los humanos del U6 con las Súper Esferas; en otras versiones el deseo lo hace Champa. Dudoso.
-- Presencia del Gran Sacerdote y del árbitro: no confirmada en el manga.
+- El deseo exacto no se dice en el manga (Beerus no lo cuenta); solo se ve su efecto.

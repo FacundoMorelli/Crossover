@@ -13,7 +13,7 @@ PERSONAJES PRESENTES:
 - Yuko — compañera de Asa; amable (en apariencia).
 - Haruka Iseumi — presidente del Club de Cazadores de Demonios; fan de Chainsaw Man (dice ser él).
 - Presidenta de clase — pacto con el Demonio de la Justicia.
-- Demonio Pollo — mascota de la clase.
+- Bucky (Kokepī) — Demonio Pollo, mascota de la clase.
 - Demonio Murciélago (nuevo), Demonio Cucaracha.
 - Club de Cazadores de Demonios.
 
@@ -63,4 +63,3 @@ QUÉ CAMBIA DESPUÉS:
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - El año exacto de la Parte 2 no se confirma.
-- Nombre del Demonio Pollo no confirmado.

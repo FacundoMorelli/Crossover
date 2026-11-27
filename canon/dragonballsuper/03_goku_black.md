@@ -18,12 +18,12 @@ QUÉ PASA:
 3. Goku Black resulta ser Zamasu: mata a Gowasu y, con las Súper Esferas, intercambia el cuerpo con Goku (en una línea temporal); Zamasu del futuro desea ser inmortal. Juntos borran a los Kaioshin y ejecutan el "Plan Cero Mortales".
 4. Goku y Vegeta viajan al futuro; pelean con Black (Rosé) y Zamasu; Zamasu del futuro sana a Black y ambos se vuelven más fuertes tras cada pelea. Trunks los contiene para que Goku y Vegeta escapen al presente.
 5. En el presente: Goku aprende el Mafuba de Kame-Sennin para sellar a Zamasu inmortal; Vegeta entrena en la Habitación del Espíritu y el Tiempo.
-6. Regresan. Gowasu (del presente) queda gravemente herido? (ver Dudas). Black y Zamasu se fusionan con los Potara: "Zamasu fusionado/Dios Zamasu".
+6. Regresan. Black y Zamasu se fusionan con los Potara: "Zamasu fusionado/Dios Zamasu".
 7. Goku y Vegeta se fusionan con los Potara en Vegerot (Blue), pero la fusión se deshace antes de tiempo (los Potara en mortales duran ~1 hora; agotaron poder).
 8. Trunks cura a Goku. Goku enfrenta a Zamasu fusionado en Blue.
-9. Goku intenta la Destrucción de Beerus contra Zamasu; Mai se interpone/lo protege? (ver Dudas). Trunks corta en dos a Zamasu fusionado con su espada de energía, pero las células de Zamasu se esparcen como copias que cubren el universo.
+9. Goku intenta la Destrucción de Beerus contra Zamasu, sin éxito. Trunks corta en dos a Zamasu fusionado con su espada de energía, pero las células de Zamasu se esparcen como copias que cubren el universo.
 10. El ataque de Vegeta falla. Goku invoca a Zeno-sama del futuro (con el botón que le dio el Zeno del presente); Zeno borra el universo del futuro entero junto con Zamasu.
-11. Trunks y Mai vuelven al presente y luego a otra línea temporal (Beerus advertido); Zeno-sama del futuro se va a vivir con el del presente.
+11. Trunks y Mai vuelven al presente con Goku, Vegeta y Shin (Mai del futuro conoce a su yo joven). Luego viajan a un punto anterior a la aparición de Zamasu, en otra línea temporal. Zeno-sama del futuro se va a vivir con el del presente.
 
 PELEAS DEL ARCO:
 1. Goku vs Black — futuro — Black ventaja / empate.
@@ -64,4 +64,4 @@ QUÉ CAMBIA DESPUÉS:
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - Año del futuro de Trunks: estimado.
-- Paso 6 (Gowasu herido) y paso 9 (Mai se interpone): Wikipedia los menciona sin detalle; no confirmados.
+- Año del futuro de Trunks: la fuente no lo da (estimado).

@@ -6,8 +6,8 @@ DURACIÓN EN LA HISTORIA: 1 día + 3 días de hospital.
 
 PERSONAJES PRESENTES:
 - Sung Jinwoo — 24 años. Cazador de rango E, "el cazador más débil de la humanidad". Mantiene a su madre (en coma por la Enfermedad del Sueño Eterno) y a su hermana Sung Jinah.
-- Song Chiyul — cazador veterano (rango no confirmado), amigo de Jinwoo.
-- Joo Hee (Joohee Lee) — sanadora de rango B.
+- Song Chiyul — cazador veterano de rango C, profesor de kendo; amigo de Jinwoo.
+- Joo Hee (Lee Joohee) — sanadora de rango B.
 - Grupo de la incursión (~17 cazadores), incluido el líder del grupo y cazadores que abandonan a los demás.
 - Estatuas del Templo de Cartenon — dios-estatua gigante y estatuas con armas; siguen "Mandamientos".
 - El Sistema — interfaz que solo ve Jinwoo.
@@ -33,7 +33,7 @@ ORGANIZACIONES Y BANDOS:
 - Asociación de Cazadores de Corea.
 
 MUERTES Y BAJAS:
-- La mayoría del grupo de incursión (si Song Chiyul está entre ellos: ver Dudas).
+- La mayoría del grupo de incursión. Sobreviven, entre otros, Song Chiyul (pierde un brazo) y Lee Joohee.
 
 MOMENTOS CLAVE / GIROS:
 - Jinwoo recibe el Sistema ("Redespertar").
@@ -45,5 +45,5 @@ QUÉ CAMBIA DESPUÉS:
 - Jinwoo empieza a subir de nivel en secreto.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Destino de Song Chiyul: en la novela muere en el templo; no confirmado con segunda fuente.
-- Número exacto de sobrevivientes no confirmado.
+- Número total de sobrevivientes: la fuente consultada no lo da (se confirman Jinwoo, Song Chiyul y Lee Joohee).
+- Qué brazo pierde Song Chiyul: una fuente dice el izquierdo; otras no lo precisan.

@@ -8,7 +8,7 @@ PERSONAJES PRESENTES:
 - Goku (Ultra Instinto dominado), Vegeta (Ego Ultra).
 - Granolah — último Cerealiano, cazarrecompensas; ojo derecho evolucionado (lee puntos débiles).
 - Monaito — namekiano que cuida a Granolah.
-- Heeters: Elec (líder), Macki, Oil, Gas (el más fuerte; deseo de las Esferas Cerealianas), Oatmeel (Cerealiano? ver Dudas).
+- Heeters: Elec (líder), Macki, Oil, Gas (el más fuerte; deseo de las Esferas Cerealianas), Oatmeel (miembro de los Heeters; ver Dudas).
 - Bardock (recuerdo; padre de Goku).
 - Freezer (Black Freezer).
 - Whis, Beerus.
@@ -29,7 +29,7 @@ QUÉ PASA:
 13. Goku y Vegeta entienden el orgullo Saiyajin (cap. 84).
 14. Vegeta pelea con Gas hasta que el Ego Ultra lo agota; Goku lo releva (cap. 85–86).
 15. Granolah da el golpe final pero perdona a Gas (cap. 86–87). Gas hiere de gravedad a Monaito.
-16. Freezer llega, mata a Gas y a Elec, y revela su forma "Black Freezer" (entrenó ~10 años en la Habitación del Espíritu y el Tiempo). Derrota a Goku y Vegeta de un golpe cada uno (ver Dudas).
+16. Freezer llega, mata a Gas y a Elec, y revela su forma "Black Freezer" (entrenó ~10 años en la Habitación del Espíritu y el Tiempo). Con un solo golpe saca a Goku y a Vegeta de sus transformaciones y los derrota (cap. 87).
 17. Whis cura a Monaito y se lleva a Goku y Vegeta a entrenar.
 
 PELEAS DEL ARCO:
@@ -70,5 +70,4 @@ QUÉ CAMBIA DESPUÉS:
 - Granolah vive con Monaito (vida limitada).
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Wikipedia no detalla cómo derrota Freezer a Goku y Vegeta; el "un golpe cada uno" es conocimiento previo, no cruzado.
 - Oatmeel: rol exacto no confirmado.

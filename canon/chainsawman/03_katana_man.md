@@ -29,14 +29,14 @@ QUÉ PASA:
 10. Kishibe entrena a Denji y Power matándolos y reviviéndolos.
 11. La nueva División 4 (Beam, Violence Fiend, Spider, Ángel) caza a Sawatari y Katana Man en un rascacielos.
 12. Aki pacta con el Demonio del Futuro (precio: vivir en su ojo derecho).
-13. Sawatari es devorada por su Serpiente al usarla al límite (ver Dudas: Wikipedia dice "killed by the snake").
+13. Tras la derrota de Katana Man, el Demonio Serpiente de Sawatari se suicida junto con ella (cláusula de su pacto con el Demonio Pistola) antes de que la entreguen a las autoridades.
 14. Denji vs Katana Man en un tren de pasajeros: Denji pierde los brazos; lo parte con motosierra de la cabeza; Aki y Denji lo derrotan. Denji y Aki le patean los testículos.
 15. Denji sueña con una puerta sellada (no debe abrirla).
 
 PELEAS DEL ARCO:
 1. Katana Man + Sawatari vs División 4 — calle — muere Himeno y muchos; Katana Man huye.
 2. Makima vs asesinos — Kioto — Makima gana.
-3. Nueva División 4 vs Sawatari/Katana — rascacielos — Sawatari capturada/muerta.
+3. Nueva División 4 vs Sawatari/Katana — rascacielos — Sawatari capturada.
 4. Denji + Aki vs Katana Man — tren — Denji gana; Katana capturado.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
@@ -58,7 +58,7 @@ ORGANIZACIONES Y BANDOS:
 MUERTES Y BAJAS:
 - Himeno — devorada por su Fantasma.
 - Arai y numerosos agentes de la División 4 — ataque.
-- Sawatari — su Serpiente.
+- Sawatari — su Serpiente (suicidio por pacto).
 
 MOMENTOS CLAVE / GIROS:
 - Makima no muere a balazos.
@@ -73,4 +73,4 @@ QUÉ CAMBIA DESPUÉS:
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - Paso 7: Wikipedia no detalla cómo termina el ataque; desenlace exacto dudoso.
-- Muerte de Sawatari: Wikipedia dice que la mata la serpiente; otras fuentes dicen que muere en custodia. Dudoso.
+- Capítulo exacto de la muerte de Sawatari: no dado por la fuente.

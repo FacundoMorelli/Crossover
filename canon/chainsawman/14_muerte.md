@@ -17,7 +17,7 @@ QUÉ PASA:
 5. Denji despierta en un salón; la Muerte se presenta como "Li'l D".
 6. Li'l D argumenta: borrar la muerte = guerra eterna. Fumiko le ofrece a Denji otro camino.
 7. Barem bombardea la escuela y mata a Yoshida.
-8. Pochita devora a Barem y al Demonio Llamarada; se abren las puertas del Infierno en el cielo.
+8. Barem profana el cuerpo de Yoshida; Denji cede el control a Pochita, que devora a Barem desde las piernas (cap. 214; sus últimas palabras: que lo mate antes de comerlo) y al Demonio Llamarada. Con Barem y el Demonio del Fuego muertos, la Iglesia queda desarticulada. Se abren las puertas del Infierno en el cielo.
 9. Asa recuerda que su madre mató a su padre abusivo. Denji admite que preparó el falso suicidio de su padre (tras matarlo).
 10. Pochita decapita a Li'l D, Fami y Guilly.
 11. Explosión del "puño nuclear" de Yoru; Denji emerge en una nueva forma acorazada.
@@ -39,7 +39,7 @@ ORGANIZACIONES Y BANDOS:
 
 MUERTES Y BAJAS:
 - Hirofumi Yoshida — Barem.
-- Barem — devorado por Pochita.
+- Barem — devorado por Pochita (cap. 214).
 - Li'l D (Muerte), Fami (Hambre), Guilly (Guillotina) — decapitados por Pochita (estado final dudoso: los demonios renacen en el Infierno).
 
 MOMENTOS CLAVE / GIROS:

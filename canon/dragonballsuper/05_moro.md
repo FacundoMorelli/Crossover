@@ -11,7 +11,7 @@ PERSONAJES PRESENTES:
 - Seven-Three — subordinado de Moro; copia habilidades.
 - Saganbo y la Brigada de Bandidos Galácticos (prisioneros liberados).
 - Cranberry — prisionero que invoca a Porunga.
-- Esca — namekiana? (ver Dudas), cura a Goku y Vegeta.
+- Esca — niño namekiano (aparece en el cap. 44); uno de los últimos namekianos; cura a Goku y Vegeta.
 - Gran Kaioshin (dentro de Boo).
 - Beerus, Whis.
 
@@ -25,7 +25,7 @@ QUÉ PASA:
 7. Gohan pelea con Seven-Three (que copia a Moro). Moro se retira a esperar a los Saiyajin en 2 meses.
 8. Whis se lleva a Merus (se revela como ángel aprendiz).
 9. Moro y la Brigada atacan la Tierra; pelean Piccolo, Krilin, Gohan, Kame-Sennin, Ten Shin Han, Chaozu, Yamcha, 17 y 18.
-10. Saganbo, potenciado por Moro, pelea con Goku hasta que su cuerpo colapsa (cap. 58).
+10. Saganbo, potenciado por Moro, pelea con Goku hasta que su cuerpo no aguanta y muere (cap. 58).
 11. Goku alcanza el Ultra Instinto "Señal" pero no lo sostiene. Vegeta llega con su técnica nueva.
 12. Vegeta usa la "Fisión Forzada del Espíritu" (técnica de Yardrat) para liberar las almas absorbidas por Moro y revivir a los namekianos (cap. 61).
 13. Moro absorbe a Seven-Three y copia las habilidades de Vegeta; casi mata a Goku y Piccolo (cap. 62). Beerus y Whis ayudan a Dende a curar a todos.
@@ -59,7 +59,7 @@ ORGANIZACIONES Y BANDOS:
 MUERTES Y BAJAS:
 - Cranberry — Moro.
 - Merus — borrado (luego revivido como mortal).
-- Saganbo — colapso del cuerpo (ver Dudas).
+- Saganbo — su cuerpo cede por el poder que le inyecta Moro (cap. 58).
 - Moro — Goku.
 - Namekianos (revividos).
 
@@ -75,4 +75,4 @@ QUÉ CAMBIA DESPUÉS:
 - Merus mortal en la Patrulla.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Raza de Esca, destino de Saganbo y otras técnicas de Yardrat: no confirmados.
+- Otras técnicas de Yardrat de Vegeta además de la Fisión Forzada: no confirmadas.

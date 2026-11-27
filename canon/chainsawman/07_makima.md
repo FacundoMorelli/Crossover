@@ -6,7 +6,7 @@ DURACIÓN EN LA HISTORIA: semanas.
 
 PERSONAJES PRESENTES:
 - Denji, Power, Makima, Kishibe, Kobeni, Pochita.
-- Ejército de Makima: Katana Man, humanos-arma, Quanxi revivida (controlada), Ángel, etc. (ver Dudas: Wikipedia menciona a Reze).
+- Ejército de Makima: Katana Man, humanos-arma, Quanxi revivida (controlada), Reze (memoria manipulada por Makima, reclutada en la División Especial 5), Ángel, etc.
 - Demonio Pistola (controlado).
 - Nayuta — niña, Control Devil reencarnado.
 - Perros de Makima.
@@ -60,5 +60,5 @@ QUÉ CAMBIA DESPUÉS:
 - Seguridad Pública reformada (Parte 2).
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Wikipedia lista a Reze entre los humanos-arma del ejército de Makima (incoherencia: Reze murió antes; podría ser revivida/controlada; no confirmado).
+- Reze en el ejército de Makima: confirmado (Wikipedia, artículo de Reze); cómo sobrevivió a su herida no se explica. Tras la muerte de Makima queda libre y su paradero es desconocido.
 - Paso 5: Wikipedia dice que "Pochita va al Infierno en lugar de Makima"; orden exacto no claro.

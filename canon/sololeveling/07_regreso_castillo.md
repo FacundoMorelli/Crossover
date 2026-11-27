@@ -13,7 +13,7 @@ PERSONAJES PRESENTES:
 QUÉ PASA:
 1. Jinwoo vuelve al Castillo para completar las almas.
 2. Asciende hasta el piso 100 y enfrenta a Baran (rayos, wyverns).
-3. Vence a Baran (si lo extrae: ver Dudas). Obtiene los últimos ingredientes.
+3. Vence a Baran. No puede extraerlo como sombra (en el Castillo los demonios no se pueden extraer; además el Baran del Castillo es una copia más débil del Monarca real). Sí extrae a su wyvern, Kaisel, que no es demonio. Completa la misión del Castillo y obtiene los últimos ingredientes.
 4. Fabrica el Elixir de la Vida; su madre despierta de la Enfermedad del Sueño Eterno.
 
 PELEAS DEL ARCO:
@@ -27,7 +27,8 @@ ORGANIZACIONES Y BANDOS:
 - Demonios.
 
 MUERTES Y BAJAS:
-- Baran (copia).
+- Baran (copia; no extraído).
+- Kaisel (wyvern) — extraído como sombra.
 
 MOMENTOS CLAVE / GIROS:
 - La madre despierta.
@@ -39,5 +40,5 @@ QUÉ CAMBIA DESPUÉS:
 - Jinwoo libre de deudas familiares.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Si Jinwoo extrae a Baran: no confirmado.
+- Por qué no se extrae a Baran: las fuentes dan dos razones compatibles (los demonios del Castillo no se pueden extraer; es una copia). Ninguna dice que sea solo una de ellas.
 - Momento exacto de obtención de "Autoridad del Gobernante": no confirmado.

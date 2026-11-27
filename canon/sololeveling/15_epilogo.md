@@ -13,6 +13,7 @@ QUÉ PASA:
 3. Busca a Cha Hae-in, que no lo recuerda; se enamoran de nuevo; se casan.
 4. Nace Sung Suho.
 5. Jinwoo protege al mundo en secreto de amenazas residuales.
+6. Go Gunhee reaparece en la nueva línea; Jinwoo le muestra los recuerdos de la línea anterior y muere sonriendo.
 
 PELEAS DEL ARCO:
 - Menores (no confirmadas).

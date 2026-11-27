@@ -8,7 +8,7 @@ PERSONAJES PRESENTES:
 - Sung Jinwoo.
 - Kim Chul — cazador de rango A del Gremio Tigre Blanco; arrogante.
 - Aprendices del Gremio Tigre Blanco (cazadores nuevos).
-- Han Song-Yi — aprendiz (rango no confirmado).
+- Han Song-Yi — aprendiz de rango E; amiga de Sung Jinah.
 - Elfos de hielo; Baruka — jefe de los elfos de hielo (rango alto).
 - Osos de hielo.
 
@@ -47,4 +47,4 @@ QUÉ CAMBIA DESPUÉS:
 - Gremios interesados en Jinwoo.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Nombre del líder de Tigre Blanco y rango de Han Song-Yi no confirmados.
+- Nombre del maestro del Gremio Tigre Blanco: no confirmado en las fuentes consultadas.

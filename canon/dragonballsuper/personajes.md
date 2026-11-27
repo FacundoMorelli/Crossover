@@ -2,7 +2,7 @@
 (Edades al inicio, Age 778, según la cronología oficial; aproximadas.)
 
 - SON GOKU — ~41 (biológica menor por años muerto). Saiyajin. SSJ1–3, Dios, Blue, Blue Kaio-ken, Ultra Instinto (Señal → dominado). Personalidad: ama pelear y comer; ingenuo; busca rivales fuertes. Habla: "¡Hola, soy Goku!", "¡Esto me emociona!". Apodo: Kakaroto (Vegeta).
-- VEGETA — ~45. Príncipe Saiyajin. Blue, forma nueva en el Torneo, técnicas de Yardrat, Ego Ultra. Orgulloso, competitivo; protege a su familia. Habla: "¡Insecto!", llama "Kakaroto" a Goku.
+- VEGETA — ~45. Príncipe Saiyajin. Blue, Blue "evolucionado" (Torneo, sin nombre oficial), técnicas de Yardrat, Ego Ultra. Orgulloso, competitivo; protege a su familia. Habla: "¡Insecto!", llama "Kakaroto" a Goku.
 - SON GOHAN — ~23. Investigador. Forma Definitiva/Místico; luego Bestia. Tranquilo, distraído; furioso al proteger. 
 - PICCOLO — namekiano. Piccolo Naranja. Serio, maestro de Gohan y Pan.
 - TRUNKS — ~9 → adolescente. SSJ; Saiyaman X-1. Gotenks.

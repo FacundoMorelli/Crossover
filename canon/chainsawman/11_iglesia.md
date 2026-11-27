@@ -10,7 +10,7 @@ PERSONAJES PRESENTES:
 - Miri Sugo — miembro de la Iglesia (espadas).
 - Barem Bridge — híbrido Llamarada (Flamethrower), estratega de la Iglesia.
 - Katana Man, Nail (Clavo) — híbridos/armas.
-- Quanxi — viva (revivida/otra encarnación; ver Dudas) — miembro de la Iglesia.
+- Quanxi — viva (Makima la había revivido junto con Reze en la Parte 1) — miembro de la Iglesia.
 - Fundador de la Iglesia (pacto con Justicia).
 - Humanos-arma: Espada, Lanza, Látigo.
 
@@ -53,4 +53,4 @@ QUÉ CAMBIA DESPUÉS:
 - Denji capturado.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Presencia de Quanxi en la Parte 2: Wikipedia la incluye (sobrevivió/reaparece); explicación no confirmada.
+- Cómo sigue viva Quanxi tras la muerte de Makima: no explicado en las fuentes.

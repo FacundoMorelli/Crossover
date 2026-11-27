@@ -7,7 +7,7 @@ DURACIÓN EN LA HISTORIA: ~1–2 días.
 PERSONAJES PRESENTES:
 - Sung Jinwoo.
 - Cazadores rango S de Corea: Choi Jong-In, Cha Hae-in, Baek Yoonho (Gremio Bestia Blanca; transformación bestia), Min Byung-Gyu (sanador rango S), otros (lista completa: ver Dudas).
-- Cazadores japoneses (Goto Ryuji, rango S de Japón; ver Dudas sobre su muerte).
+- Cazadores japoneses: Goto Ryuji — rango S, el más fuerte de Japón, maestro del Gremio Draw Sword.
 - Hormigas, Reina Hormiga, Rey Hormiga (luego Beru).
 
 QUÉ PASA:
@@ -45,5 +45,5 @@ QUÉ CAMBIA DESPUÉS:
 - Beru se vuelve su sombra más fuerte (junto a Igris).
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Lista exacta de rangos S presentes y si Goto Ryuji muere aquí: en la novela Goto Ryuji muere a manos del Rey Hormiga en Jeju (no confirmado con segunda fuente).
-- Mecanismo de llegada de Jinwoo.
+- Lista nominal completa de los rangos S presentes: no confirmada (las fuentes dicen que mueren 8 rangos S en la incursión, incluidos Goto Ryuji y Min Byung-Gyu).
+- Llegada de Jinwoo: las fuentes confirman que dejó sombras pegadas a los cazadores (una con Goto) para seguir la incursión; el detalle de en qué sombra aparece no está confirmado.
