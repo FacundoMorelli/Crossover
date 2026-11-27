@@ -150,4 +150,4 @@ El agente mayor los ve con el rabillo del ojo. Aprieta la empuñadura.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:34, avenida frente a Mitsukoshi. Facundo con las manos en alto. El joven (Sato) sigue apuntando ("los ojos no son normales"). El agente mayor (~40, canoso al ras, cicatriz en el mentón, katana corta) nota que los tres muñecos del callejón están quietos y enteros ("hay que cortarlos en pedazos para que se queden quietos"). Dos muñecos de la avenida los miran. "Tienes cinco segundos, muchacho. ¿Qué les hiciste? ¿Y quién mierda eres?"
+ESTADO AL CIERRE: Día 1 19:34, avenida frente a Mitsukoshi. Facundo con las manos en alto. El joven sigue apuntando ("Los ojos, Sato... no es normal"). SATO, el agente mayor (~40, canoso al ras, cicatriz en el mentón, katana corta) nota que los tres muñecos del callejón están quietos y enteros ("hay que cortarlos en pedazos para que se queden quietos"). Dos muñecos de la avenida los miran. "Tienes cinco segundos, muchacho. ¿Qué les hiciste? ¿Y quién mierda eres?"
