@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1489)
-
-yo lo voy a ver, no te preocupes
-
-## RESPUESTA 1 (T1489)
-
-> yo lo voy a ver, no te preocupes
-
-> —Yo lo voy a ver. No te preocupes.
-
-Dende abre los ojos grandes. Después se da una palmada en la frente, entre las antenas.
-
-—¡Claro! ¡Tú también puedes hacer eso de Goku-san! Me llevaste al Nuevo Namek en un segundo. —Se ríe de sí mismo—. A veces me olvido de que no eres... bueno, normal.
-
-Mr. Popo junta la regadera del piso.
-
-—El planeta de Kaio-sama es chico —dice—. Pesa diez veces más que la Tierra. El gato va a sentirlo.
-
-Kase, en tu hombro, mueve una oreja hacia Mr. Popo, como si lo hubiera entendido y no le hubiera gustado nada.
-
-Dende se acerca un paso. Junta las manos otra vez.
-
-—Si ves a Goku-san, dile que Milk-san dice que vuelva para la fiesta de Bulma-san. Que si no vuelve, no le va a cocinar nunca más. —Hace una mueca—. Lo dijo así. Con esas palabras. Delante de todos.
-
-Después sonríe. Una sonrisa tranquila, de alguien que lleva tres años mirando un mundo en paz desde arriba.
-
-—Y vuelve a visitarnos, Facundo-san. Aquí arriba no pasa mucho. —Mira a Mr. Popo—. Bueno. Crecen las flores.
-
-—Mr. Popo cuida las flores —dice Mr. Popo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1489 · DRAGON BALL · AÑO 777 · MAÑANA  ║
-║ Templo Sagrado                               ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Ir a ver a Goku al planeta de      ║
-║ Kaio-sama                                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1490)
+## COMANDO 1 (T1490)
 
 dale, ustedes van al cumple de bulma no? espero a que me conteste y me teletransporto con goku
 
-## RESPUESTA 2 (T1490)
+## RESPUESTA 1 (T1490)
 
 > dale, ustedes van al cumple de bulma no? espero a que me conteste y me teletransporto con goku
 
@@ -120,11 +73,11 @@ Goku ya no lo escucha. Se te para delante, a un paso, sonriendo de oreja a oreja
 
 ---
 
-## COMANDO 3 (T1491)
+## COMANDO 2 (T1491)
 
 esta bien, le doy un poco de ki a kase asi puede mantenerse y lo dejo en el piso, bueno goku, empecemos
 
-## RESPUESTA 3 (T1491)
+## RESPUESTA 2 (T1491)
 
 > esta bien, le doy un poco de ki a kase asi puede mantenerse y lo dejo en el piso, bueno goku, empecemos
 
@@ -174,4 +127,71 @@ Lo sientes por la izquierda. Un puño que viene a la altura de tu cara, rápido,
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Duelo con Goku empezado: Goku (estado base) desaparece y lanza un puño por la izquierda a la cara de Facundo. Facundo puede reaccionar.
+## COMANDO 3 (T1492)
+
+peleó con goku conteniendome
+
+## RESPUESTA 3 (T1492)
+
+> peleó con goku conteniendome
+
+Ladeas la cabeza dos dedos. El puño de Goku te pasa al lado de la oreja y te mueve el pelo blanco y azul con el viento que levanta.
+
+Goku ya está girando para el segundo golpe. Una patada baja, a las piernas. La bloqueas con la canilla. Un codazo. Lo desvías con la palma. Un rodillazo, un puño, otro puño, una seguidilla tan rápida que el aire alrededor de los dos se llena de chasquidos, como si alguien reventara cohetes uno detrás del otro.
+
+Le devuelves uno. Suave. Con el dorso de la mano, al pecho.
+
+Goku sale despedido tres metros hacia atrás, clava los pies en el pasto, abre dos surcos hasta frenar, y se ríe.
+
+—¡Ja! ¡Eso! —Se sacude la mano—. ¡Igual que hace tres años! ¡No te puedo sentir nada, y pegas como un camión!
+
+Vuelve a desaparecer. Esta vez por arriba.
+
+La pelea se va armando. Golpe por golpe. Goku prueba cosas: rodear, fingir, esconderse detrás de una imagen residual que se queda quieta en el aire mientras el verdadero te ataca por la espalda. Le paras todo. A veces dejas pasar algún golpe a propósito, en el hombro, en el costado, para que no se aburra. Le devuelves lo justo, siempre un poco menos de lo que podrías.
+
+El planeta chiquito no da abasto. Cuando chocan en el aire, la onda dobla el árbol solo hasta casi el suelo. Cuando caen, el pasto salta en terrones. Un golpe tuyo que Goku esquiva sigue de largo y se lleva la punta de una nube del Camino de la Serpiente.
+
+—¡MI PLANETA! —grita Kaio-sama, abrazado a la reposera.
+
+Kase, en el pasto, no deja de mirar a Bubbles. Bubbles está escondido detrás del auto.
+
+Goku aterriza a diez metros. Respira fuerte. Tiene un raspón en la mejilla y la sonrisa más grande que le viste nunca.
+
+—Bueno —dice—. Ya calentamos.
+
+Aprieta los puños. Grita.
+
+El pelo se le levanta, dorado. El aura le estalla alrededor, amarilla, crepitando, y el pasto en un círculo de cinco metros se aplasta contra el suelo. Super Saiyajin.
+
+No se queda ahí. Grita otra vez, más fuerte, y le saltan rayos azules alrededor del cuerpo. Super Saiyajin 2.
+
+Y otra vez. Un grito largo, que hace temblar el planeta entero, que obliga a Kaio-sama a agarrarse las antenas y a Kase a girar por fin la cabeza para mirar. El pelo le crece hasta la cintura, las cejas le desaparecen, el aura se vuelve un incendio dorado que llega hasta el cielo amarillo.
+
+Super Saiyajin 3.
+
+Goku te mira desde adentro de esa luz, con los ojos verdes, serios, encendidos.
+
+—Te estás conteniendo —dice. No es una pregunta—. Siempre te contienes. Hace tres años también.
+
+Se pone en guardia otra vez. El suelo se agrieta bajo sus pies.
+
+—No me importa. —Sonríe—. Pero a ver hasta dónde puedes contenerte ahora.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1492 · DRAGON BALL · AÑO 777 · ---     ║
+║ Otro Mundo · planeta de Kaio-sama            ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 zeni                  ║
+║ Energía 98% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el pasto, mirando a Goku            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Duelo con Goku (conteniéndose) ·   ║
+║ mensaje de Milk                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Duelo con Goku; Facundo se contiene. Goku en SSJ3: "A ver hasta dónde puedes contenerte ahora." Facundo puede actuar.

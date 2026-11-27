@@ -72,3 +72,4 @@
 - Kaio-sama, Bubbles, Gregory · T1490 · Ven a Facundo aparecer de la nada. Kaio-sama no le siente el ki (Velo). Por Goku: es "Facundo, el del gato".
 - Facundo · T1490 · Por Dende: Dende y Mr. Popo no bajan a la fiesta de Bulma.
 - Goku, Kaio-sama · T1491 · Ven a Facundo pasarle algo al gato con la mano (el gato deja de estar aplastado). Kaio-sama no siente ningún ki.
+- Goku, Kaio-sama · T1492 · Ven a Facundo pelear con Goku en base y contenerse (Goku lo nota). No le sienten el ki.

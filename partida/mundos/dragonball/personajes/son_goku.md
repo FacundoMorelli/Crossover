@@ -57,3 +57,4 @@ DIÁLOGOS CLAVE:
 - T175: "¡Vegeta! ¡¿Qué te pasa?!"
 - T1490 · Año ~777 · Planeta de Kaio-sama, flexiones con un dedo y pesas en los tobillos. Ve a Facundo: "¡FACUNDO! ¡Volviste! ¡Kaio-sama, este es Facundo! ¡El del gato! ¡Te hablé de él mil veces!" "¡Hace meses que no tengo con quién pelear en serio!" "¿Peleamos? Solo un poco. Bueno, no tan poco."
 - T1491 · Se saca las pesas. A Kaio-sama: "¡No lo vamos a romper! Bueno. No tanto." "Empezamos tranquilos. Para calentar." Desaparece (estado base) y lanza un puño por la izquierda a la cara de Facundo.
+- T1492 · Duelo en estado base: imágenes residuales, ataques por la espalda; Facundo para todo. "¡Igual que hace tres años! ¡No te puedo sentir nada, y pegas como un camión!" Raspón en la mejilla. Se transforma: SSJ, SSJ2, SSJ3. "Te estás conteniendo. Siempre te contienes. Hace tres años también. No me importa. Pero a ver hasta dónde puedes contenerte ahora."

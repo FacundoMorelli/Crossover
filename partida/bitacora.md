@@ -1490,3 +1490,4 @@ T1488 · DRAGON BALL · Templo Sagrado · Dende cuenta los tres años (boda de G
 T1489 · DRAGON BALL · Templo Sagrado · "Yo lo voy a ver." Mr. Popo: gravedad x10. Mensaje de Milk para Goku. "Vuelve a visitarnos."
 T1490 · DRAGON BALL · Templo → planeta de Kaio-sama · Dende no irá a la fiesta. Llegada al planeta de Kaio (gravedad x10). Kaio-sama no siente su ki. Goku: "¡FACUNDO! ¿Peleamos?"
 T1491 · DRAGON BALL · Planeta de Kaio-sama · Ki a Kase para la gravedad. "Bueno, Goku. Empecemos." Goku sin pesas, base; primer puño por la izquierda.
+T1492 · DRAGON BALL · Planeta de Kaio-sama · Duelo con Goku, conteniéndose. Goku pasa a SSJ, SSJ2 y SSJ3: "A ver hasta dónde puedes contenerte ahora."
