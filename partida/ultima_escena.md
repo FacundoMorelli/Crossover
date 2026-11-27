@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1540)
-
-alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
-
-## RESPUESTA 1 (T1540)
-
-> alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
-
-> —¿Alguna vez viste a un titán? Bueno. En uno de esos lugares existían los titanes.
-
-Bulma parpadea.
-
-—¿Titanes? —Ladea la cabeza—. ¿Como gigantes? —Se ríe—. Viajero, vi a Goku convertirse en un mono gigante cuando tenía doce años y pisar medio desierto. Vi a Piccolo crecer del tamaño de una montaña en un torneo. Vivo en un planeta donde los dinosaurios andan sueltos por el campo. —Levanta la taza—. Vas a tener que esforzarte más.
-
-Pero no se ríe del todo. Te está mirando la cara, y algo en la cara le dice que no estás hablando de un mono gigante.
-
-Deja la taza otra vez.
-
-—¿Qué tan grandes?
-
-Se queda callada un momento, esperando. Mira el pescado de Kase, la mesa, el reloj. Después vuelve a mirarte a ti, más despacio, como si repasara lo que dijiste palabra por palabra.
-
-—"Existían" —repite—. No dijiste "existen". Dijiste "existían".
-
-Apoya los codos en la mesa. Ya no tiene la sonrisa traviesa. Tiene otra cara: la de la científica que encuentra en una ecuación un número que no cuadra y no puede dejar de mirarlo.
-
-—¿Qué les pasó?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1540 · DRAGON BALL · DOMINGO · 05:45   ║
-║ Capsule Corporation · cocina                 ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el piso, mirando a Bulma            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: 6:00 entrenar con Vegeta · cena    ║
-║ en casa de Milk                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1541)
+## COMANDO 1 (T1541)
 
 desaparecieron, lo usaban para amenazar a los paises
 
-## RESPUESTA 2 (T1541)
+## RESPUESTA 1 (T1541)
 
 > desaparecieron, lo usaban para amenazar a los paises
 
@@ -105,11 +60,11 @@ Y se va hacia la pileta, tarareando.
 
 ---
 
-## COMANDO 3 (T1542)
+## COMANDO 2 (T1542)
 
 le tiro el libro de shingeki a bulma, toma descifralo con esas computadoras, o a mano, lo que te guste y voy a entrenar con vegeta
 
-## RESPUESTA 3 (T1542)
+## RESPUESTA 2 (T1542)
 
 > le tiro el libro de shingeki a bulma, toma descifralo con esas computadoras, o a mano, lo que te guste y voy a entrenar con vegeta
 
@@ -180,4 +135,77 @@ El libro que le diste a Bulma lo tomé como otro ejemplar de Paradis. El que ten
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 05:59, cámara de gravedad de Capsule Corp. Bulma se quedó el libro de Paradis. Vegeta: 300G para empezar; "deja al gato afuera"; "apaga ese ki de insecto". Facundo puede actuar.
+## COMANDO 3 (T1543)
+
+pongo el velo, bueno vegeta a ver lo que tenes, entreno con vegeta
+
+## RESPUESTA 3 (T1543)
+
+> pongo el velo, bueno vegeta a ver lo que tenes, entreno con vegeta
+
+Dejas el Velo como está. El mismo hilo de ki, chiquito, que no llega ni al de Krilin.
+
+Kase te baja del hombro solo antes de que entres. Se sienta en el pasto mojado, frente a la compuerta, con la cola enroscada alrededor de las patas, a mirar.
+
+Entras. La compuerta se cierra detrás de ti con un siseo.
+
+> —Bueno, Vegeta. A ver lo que tienes.
+
+Vegeta se da vuelta despacio. Te mide el ki. Se le tuerce la boca en una mueca de asco.
+
+—Sigues con eso. —Aprieta el botón de la consola sin mirarlo—. Bien. Entonces te vas a aplastar como un insecto.
+
+El zumbido sube de golpe a un rugido. En la pantalla el número salta: 50G. 100G. 200G. 300G.
+
+El aire se vuelve de plomo. El piso cruje bajo tus botas. Una gota de sudor que se le cae a Vegeta de la frente se estrella contra el suelo como una bala. Las luces del techo parpadean.
+
+Te quedas parado igual. Como en la cocina.
+
+Vegeta te mira las rodillas, que no se doblan. Los hombros, que no bajan. La cara, que no cambia.
+
+Se le hincha la vena de la sien.
+
+—Tch.
+
+Viene.
+
+Rápido, mucho más rápido que en la fiesta, con todo el peso de trescientas gravedades detrás del puño. Lo desvías con el antebrazo. Otro. Lo esquivas. Una patada a las costillas, un codo, una ráfaga de golpes cortos, secos, de los que Vegeta lleva años afilando en esa misma cámara, solo, contra robots, contra nadie. Los paras todos. Uno te roza la oreja. Otro te despeina.
+
+Le devuelves uno. En el hombro, con la palma abierta.
+
+Vegeta sale volando hacia atrás y choca contra la pared curva de la cámara, que se abolla con un ruido de campana. Cae parado. Se sacude el hombro.
+
+Se ríe. Una risa corta, rabiosa.
+
+—Ahí está. —Se endereza—. Ahí está, maldito. Eso no lo pega un insecto.
+
+Grita.
+
+El pelo se le levanta, dorado. El aura le estalla alrededor, amarilla, y le saltan rayos azules por todo el cuerpo. Super Saiyajin 2. El piso de la cámara se agrieta bajo sus pies, en estrella.
+
+Golpea la consola con el puño sin mirarla. El número de la pantalla salta otra vez: 400G. 450G. 500G. Las alarmas empiezan a sonar, rojas, intermitentes.
+
+—Quinientas —dice Vegeta, con la voz ronca, el aura rugiendo—. A ver si con quinientas te sigues haciendo el insecto.
+
+Se pone en guardia. Los rayos le corren por los brazos.
+
+—Kakarotto tuvo tu cara de verdad. Yo también la quiero. —Aprieta los dientes—. Muéstramela.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1543 · DRAGON BALL · DOMINGO · 06:05   ║
+║ Capsule Corp · cámara de gravedad (500G)     ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: afuera, en el pasto, mirando           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Vegeta · cena en      ║
+║ casa de Milk                                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 06:05, cámara de gravedad a 500G. Vegeta en SSJ2, en guardia: "Kakarotto tuvo tu cara de verdad. Yo también la quiero. Muéstramela." Facundo con el Velo bajo. Facundo puede actuar.

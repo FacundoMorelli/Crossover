@@ -108,3 +108,4 @@ ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En l
 - T1538 · Domingo 5:30 · Desayuna una montaña de comida en silencio, ropa de entrenamiento azul y guantes blancos. Deja de masticar medio segundo al ver a Facundo. A las 5:38: "Veintidós minutos." Se va al hangar.
 - T1541 · Desde el jardín: "¡CINCO MINUTOS, INSECTO!"
 - T1542 · 5:59, cámara de gravedad. "Llegaste. Pasa. Y deja al gato afuera. Ahí adentro lo aplasto." "Trescientas veces la gravedad de la Tierra. Para empezar." "Y apaga ese ki de insecto. Hoy no me lo creo."
+- T1543 · "Sigues con eso. Bien. Entonces te vas a aplastar como un insecto." Sube a 300G; Facundo no se dobla. Ataca: Facundo para todo; palma al hombro, Vegeta abolla la pared. "Ahí está, maldito. Eso no lo pega un insecto." SSJ2; sube a 500G (alarmas): "Quinientas. A ver si con quinientas te sigues haciendo el insecto." "Kakarotto tuvo tu cara de verdad. Yo también la quiero. Muéstramela."

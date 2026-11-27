@@ -1541,3 +1541,4 @@ T1539 · DRAGON BALL · Cocina de Capsule Corp · "Viajo a muchos lugares, muy d
 T1540 · DRAGON BALL · Cocina · Le cuenta a Bulma que en uno de esos lugares existían titanes. Bulma: "¿Qué tan grandes?" "Dijiste existían. ¿Qué les pasó?"
 T1541 · DRAGON BALL · Cocina · "Desaparecieron; los usaban para amenazar países." Bulma recuerda a la Patrulla Roja; "alguien tiene que hacerlas desaparecer". Vegeta: "¡Cinco minutos!" Bulma: "Me debes el resto de esa historia."
 T1542 · DRAGON BALL · Capsule Corp · Le da a Bulma un libro de Paradis para descifrar. Va a la cámara de gravedad: Vegeta, 300G, "apaga ese ki de insecto".
+T1543 · DRAGON BALL · Cámara de gravedad · Entrena con Vegeta con el Velo bajo: 300G no lo afectan; lo estrella contra la pared. Vegeta SSJ2, 500G: "Muéstramela [tu cara de verdad]."
