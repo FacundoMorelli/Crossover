@@ -1648,3 +1648,4 @@ T1646 · DRAGON BALL · Corporación Cápsula · "Sí, yo la acompaño." Bulma l
 T1647 · DRAGON BALL · Corporación Cápsula · "Sí, sé bien." Abre el aerodeslizador de Bulma y sube. Erasa: Calle de los Tilos 14. Tiembla de frío: "Esto no tiene techo, ¿no?"
 T1648 · DRAGON BALL · aerodeslizador · Le pone el sobretodo a Erasa. "Está calentito. Eso. Nada más." "¿Y tú? Se te nota que no tienes frío nunca."
 T1649 · DRAGON BALL · aerodeslizador · "No tengo frío." Erasa: "¿Hay algo que te pase a ti?" Bulma espía desde la cocina. "Arranca antes de que salga."
+T1650 · DRAGON BALL · Capital del Oeste · Arranca hacia la casa de Erasa. Vuelo nocturno; Erasa le muestra su ciudad. Sobre el parque central: "¿Este aparato puede ir más despacio?... es temprano."

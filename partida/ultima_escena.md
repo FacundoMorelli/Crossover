@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1647)
-
-si, se bien, subo al aerodeslizador
-
-## RESPUESTA 1 (T1647)
-
-> si, se bien, subo al aerodeslizador
-
-> —Sí, sé bien.
-
-Aprietas el botón de la cápsula y la tiras a la calle.
-
-Revienta en una nube blanca con un "¡pop!" seco. Cuando el humo se abre, el aerodeslizador está ahí, flotando a un palmo del asfalto: rojo, bajo, de dos asientos, sin techo, con el logo de la Corporación Cápsula en la puerta y el tablero lleno de lucecitas azules.
-
-Erasa da un saltito para atrás.
-
-—Siempre me asusta eso. Toda la vida viví en esta ciudad y me sigue asustando.
-
-Te subes del lado del conductor. Kase baja de tu hombro, pasa por encima de la palanca y se instala en el hueco de atrás de los asientos, enroscado, con la cola tapándole la nariz.
-
-Erasa rodea el aerodeslizador, abre la puerta del acompañante y se sienta con cuidado, acomodándose el vestido. Se pone la torta envuelta sobre las rodillas, como si fuera un bebé. Te mira de costado, después mira cómo pones las manos en el volante, y algo en su cara se relaja.
-
-—Bueno. Sí sabes. Se nota.
-
-Se pone el cinturón. Le cuesta: lo tira, se traba, lo vuelve a tirar. Al final hace clic.
-
-—Calle de los Tilos, catorce. Del otro lado del parque central, una casa blanca con un buzón con forma de pato. Mi papá lo compró en un aeropuerto. —Hace una mueca—. Obviamente.
-
-Una ráfaga de viento baja desde la colina y le levanta los rulos. Ella se encoge en el asiento y se frota los brazos desnudos. Le castañetean un poco los dientes, aunque trata de que no se note.
-
-—Esto no tiene techo, ¿no? —Se ríe, temblando—. Claro que no tiene. Es de Bulma.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1647 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Portón de la Corporación Cápsula · 22:43     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1648)
+## COMANDO 1 (T1648)
 
 saco mi sobretodo y se lo pongo
 
-## RESPUESTA 2 (T1648)
+## RESPUESTA 1 (T1648)
 
 > saco mi sobretodo y se lo pongo
 
@@ -97,11 +49,11 @@ Erasa te mira de costado. La camisa blanca, los brazos al aire, el viento que te
 
 ---
 
-## COMANDO 3 (T1649)
+## COMANDO 2 (T1649)
 
 no tengo frio, no te preocupes
 
-## RESPUESTA 3 (T1649)
+## RESPUESTA 2 (T1649)
 
 > no tengo frio, no te preocupes
 
@@ -137,4 +89,52 @@ Erasa la ve y se tapa la cara con las mangas vacías.
 
 ---
 
-ESTADO AL CIERRE: 22:45, aerodeslizador frente al portón, sin arrancar. Erasa hecha un bollito en el sobretodo. "¿Hay algo que te pase a ti? ¿Algo normal, de persona?" (no esperó respuesta). Bulma espía desde la ventana de la cocina y se agacha. Erasa: "Arranca, por favor. Arranca antes de que salga a decirnos algo."
+## COMANDO 3 (T1650)
+
+arranco para la casa de erasa
+
+## RESPUESTA 3 (T1650)
+
+> arranco para la casa de erasa
+
+Pisas el acelerador.
+
+El aerodeslizador se levanta un metro más, gira sobre sí mismo sin hacer ruido y sale disparado colina abajo, alejándose del portón. Por el espejo, la luz de la cocina de la Corporación Cápsula se hace chiquita. Una cabeza de pelo turquesa vuelve a asomarse por la ventana, ya sin disimulo, y saluda con un plato.
+
+Erasa se ríe tapada con las mangas.
+
+La Capital del Oeste se abre debajo de ustedes. Avenidas anchas con autos flotando en dos alturas, edificios redondos con las ventanas encendidas, carteles de neón que cambian de color, un tren elevado que pasa en silencio por encima de una plaza. El aire de la noche les pega en la cara, frío y limpio, y huele a lluvia lejana y a algo frito de algún puesto de la calle.
+
+Kase saca la cabeza del hueco de atrás, entrecierra los ojos contra el viento, y la vuelve a meter.
+
+Erasa va señalando cosas con la manga vacía, sin parar de hablar, más bajo que en la cena. Ahí está la preparatoria Estrella Naranja, donde conoció a Videl y a Gohan. Ahí, la heladería de la foto. Ahí, la esquina donde una vez se cayó de la bicicleta delante de un chico que le gustaba, "y no lo superé nunca". Cada tanto se da vuelta en el asiento para mirarte manejar, y cuando la miras, mira para adelante.
+
+Después de unos minutos aparece el parque central: una mancha oscura y enorme en medio de las luces, con árboles altos, un lago redondo que refleja la luna y faroles amarillos en los caminos. Del otro lado, entre las copas, ya se ven los techos bajos de un barrio de casas.
+
+Erasa deja de hablar.
+
+Mira los techos. Mira el reloj del tablero. Se muerde el labio, con la cara medio hundida en el cuello del sobretodo.
+
+—Oye... —dice al final, sin mirarte—. ¿Este aparato puede ir más despacio?
+
+Se encoge de hombros adentro de la tela negra.
+
+—No es por miedo, eh. Manejas bien. Es que... del otro lado del parque ya está mi casa. —Una pausa—. Y es temprano. Bueno, no es temprano. Pero es temprano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1650 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Sobre el parque central · 22:56              ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Acompañar a Erasa a su casa        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 22:56, en el aerodeslizador sobre el parque central de la Capital del Oeste; del otro lado está el barrio de Erasa. Bulma saludó con un plato desde la ventana. Erasa contó lugares (preparatoria Estrella Naranja, la heladería, la esquina de la bicicleta). Ahora pide: "¿Este aparato puede ir más despacio? No es por miedo... del otro lado del parque ya está mi casa. Y es temprano. Bueno, no es temprano. Pero es temprano."

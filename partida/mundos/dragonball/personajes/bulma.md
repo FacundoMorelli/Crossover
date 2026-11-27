@@ -46,3 +46,4 @@ TIENE: libro de Paradis (T1542).
 - T1645 · Propone que Facundo acompañe a Erasa a su casa (mano firme en su hombro): "¿Taxi? Ni hablar, querida, a esta hora es peligroso. Facundo te acompaña a tu casa. ¿No es cierto, Facundo?"
 - T1646 · Le presta a Facundo la cápsula 7 (aerodeslizador descapotable, suyo): "Me lo traes mañana. Sano. Sin apuro." (guiño).
 - T1649 · Espía desde la ventana de la cocina con platos en la mano; se agacha detrás de la mesada al ser vista.
+- T1650 · Saluda con un plato desde la ventana cuando arranca el aerodeslizador.
