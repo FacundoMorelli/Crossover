@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1538)
-
-me voy a dormir y me despierto para ir a desayunar
-
-## RESPUESTA 1 (T1538)
-
-> me voy a dormir y me despierto para ir a desayunar
-
-Te acuestas en la cama redonda, con Kase todavía encima, que se reacomoda contra tu costado sin dejar de ronronear. El zumbido de la cámara de gravedad sigue afuera un rato largo. Después se apaga. Te duermes.
-
-Te despiertas a las cinco y diez, antes de que suene nada. Afuera todavía es de noche, con una franja gris en el horizonte, sobre los edificios de la Ciudad del Oeste. Kase está sentado en la ventana, mirando la calle vacía. Te mira cuando te levantas, salta de la ventana y te sube al hombro.
-
-Bajas.
-
-La cocina de Capsule Corp es enorme, blanca, llena de luces, con una mesa larga en el medio y un robot redondo con delantal y gorro de chef que se mueve de un lado al otro sobre una rueda, haciendo diez cosas a la vez. Huele a café, a pan tostado y a huevos fritos. Muchos huevos fritos.
-
-Vegeta ya está sentado.
-
-En la punta de la mesa, con ropa de entrenamiento azul y guantes blancos, delante de una montaña de comida: una pila de panqueques, una fuente de arroz, tres pescados, una docena de huevos, carne. Come rápido, en silencio, sin levantar la vista, con el ceño fruncido de siempre. No te mira cuando entras. Pero deja de masticar medio segundo.
-
-Bulma está del otro lado de la mesa, con una bata rosada, el pelo revuelto, una taza de café enorme entre las dos manos y cara de no haber dormido nada. Te ve y levanta la taza.
-
-—Buenos días, viajero. —Bosteza—. Llegaste antes que yo. Eso es nuevo en esta casa.
-
-El robot chef te pone delante un plato con huevos, tostadas, salchichas y fruta, sin que lo pidas. Después pone en el piso, al lado de tu silla, un plato chiquito con pescado, y Kase baja del hombro y se pone a comer sin ceremonias.
-
-Trunks no está. Bulma dice que no se levanta antes de las ocho ni aunque explote el mundo, y que ayer casi explota y tampoco se levantó.
-
-Vegeta termina la última pila de panqueques. Se limpia la boca con una servilleta. Mira el reloj de la pared. Las cinco y treinta y ocho.
-
-—Veintidós minutos —dice, sin mirarte.
-
-Se levanta y se va por la puerta del jardín, hacia el hangar.
-
-Bulma lo mira irse. Después apoya los codos en la mesa, la barbilla en las manos, y te mira a ti con una sonrisa traviesa, por encima de la taza de café.
-
-—Bueno. —Baja la voz—. Tenemos veintidós minutos, y Vegeta no está. —Levanta una ceja—. Ayer dijiste que a lo mejor me contabas un secreto chiquito.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1538 · DRAGON BALL · DOMINGO · 05:38   ║
-║ Capsule Corporation · cocina                 ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el piso, comiendo pescado           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: 6:00 entrenar con Vegeta · cena    ║
-║ en casa de Milk                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1539)
+## COMANDO 1 (T1539)
 
 mmmm, viajo a muchos lugares, muy distintos de aca
 
-## RESPUESTA 2 (T1539)
+## RESPUESTA 1 (T1539)
 
 > mmmm, viajo a muchos lugares, muy distintos de aca
 
@@ -103,11 +48,11 @@ Bulma se lleva la taza a la boca otra vez. Toma un trago largo. Después la deja
 
 ---
 
-## COMANDO 3 (T1540)
+## COMANDO 2 (T1540)
 
 alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
 
-## RESPUESTA 3 (T1540)
+## RESPUESTA 2 (T1540)
 
 > alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
 
@@ -148,4 +93,61 @@ Apoya los codos en la mesa. Ya no tiene la sonrisa traviesa. Tiene otra cara: la
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 05:45, cocina de Capsule Corp. Bulma, intrigada por los titanes: "¿Qué tan grandes?" "¿Qué les pasó?" Quedan 15 minutos para Vegeta. Facundo puede responder.
+## COMANDO 3 (T1541)
+
+desaparecieron, lo usaban para amenazar a los paises
+
+## RESPUESTA 3 (T1541)
+
+> desaparecieron, lo usaban para amenazar a los paises
+
+> —Desaparecieron. Los usaban para amenazar a los países.
+
+Bulma no dice nada durante un rato.
+
+Mira la taza vacía entre las manos. La gira despacio sobre la mesa, una vuelta, otra.
+
+—Para amenazar a los países —repite—. Claro. Siempre es para eso.
+
+Se apoya en el respaldo de la silla. Mira por la ventana de la cocina, hacia el jardín, donde empieza a clarear sobre los hangares.
+
+—Aquí también hubo de eso, ¿sabes? Cuando yo era chica. Un ejército, la Patrulla Roja. Tenían un científico, el doctor Gero, que hacía monstruos. Androides. Máquinas con forma de persona para conquistar el mundo. —Se le tuerce la boca—. Uno de ellos casi mata a todos mis amigos. Otro ahora está casado con Krilin y lleva a su hija al jardín de infantes. —Se ríe por lo bajo, sin ganas—. La vida es rara.
+
+Te mira otra vez. Ya no con la cara de científica. Con otra.
+
+—Desaparecieron —dice—. Las cosas así no desaparecen solas, viajero. Alguien tiene que hacerlas desaparecer.
+
+No te pregunta. Solo lo dice, y se te queda mirando un segundo, y después deja la taza en la mesa con un golpecito, como quien da por cerrado un tema.
+
+Desde el jardín llega un grito, por la puerta abierta.
+
+—¡CINCO MINUTOS, INSECTO!
+
+Bulma pone los ojos en blanco.
+
+—Ese es mi marido. Romántico como siempre. —Se levanta de la silla, se acomoda la bata y junta los platos—. Ve. Si llegas un segundo tarde, va a estar insoportable hasta el año que viene.
+
+Agarra tu plato vacío. Se queda parada al lado de la silla, mirándote, con los platos en las manos.
+
+—Los titanes —dice, más bajo—. Me debes el resto de esa historia. Algún día.
+
+Y se va hacia la pileta, tarareando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1541 · DRAGON BALL · DOMINGO · 05:55   ║
+║ Capsule Corporation · cocina                 ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el piso, terminando el pescado      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: 6:00 entrenar con Vegeta (en 5     ║
+║ min) · cena en casa de Milk                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 05:55, cocina de Capsule Corp. Bulma: "Me debes el resto de esa historia." Vegeta grita desde el jardín: cinco minutos. Facundo puede actuar.
