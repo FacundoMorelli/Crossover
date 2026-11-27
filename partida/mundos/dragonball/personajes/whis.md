@@ -57,3 +57,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1581 · Pegado a la barrera, ya sin sonreír del todo: "El Hakai no se puede deshacer. Ni siquiera yo puedo deshacerlo."
 - T1582 · Ve a Facundo romper un Hakai en serio de Bills; deja caer la taza de té y no la mira: "Lo sé, Bills-sama. Lo vi."
 - T1583 · Le cuenta a Facundo que su padre es el Gran Sacerdote (sirve al Rey de Todo; estricto; no le gusta que sus hijos coman tanto postre) y que tiene muchos hermanos ángeles, uno por universo: "Eso es asunto de ángeles." DIÁLOGO CLAVE.
+- T1584 · "No creo que sea parecido, Bills-sama." Rehace la barrera, más gruesa y alta. Sabe (por Facundo, T1584) que dice ser viajero sin padres.

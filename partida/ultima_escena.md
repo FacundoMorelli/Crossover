@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1581)
-
-podríamos probarlo
-
-## RESPUESTA 1 (T1581)
-
-> podríamos probarlo
-
-> —Podríamos probarlo.
-
-Por un segundo no pasa nada.
-
-Después a Bills se le abre la sonrisa más grande que le viste. Se le paran las orejas, la cola le da un latigazo en el aire y se le escapa una risa corta, aguda, de gato contento.
-
-—Podríamos probarlo —repite—. Whis, ¿lo escuchaste? Me lo ofreció él. No se lo pedí. Él lo dijo.
-
-—Lo escuché, Bills-sama. —Whis está pegado a la barrera, con la mano libre apoyada en la luz agrietada. Ya no sonríe del todo—. Y le recuerdo, con todo respeto, que el Hakai no se puede deshacer. Ni siquiera yo puedo deshacerlo.
-
-—Ya sé, ya sé.
-
-Afuera, Goku golpea la barrera con la palma.
-
-—¡Oye, Facundo! —Por primera vez en todo el día no está emocionado. Está serio—. ¡Eso no es como un golpe! ¡Yo vi lo que le hizo a la roca!
-
-Vegeta no dice nada. Pero se le aflojaron los brazos cruzados.
-
-En el apoyabrazos, Kase se pone de pie. Despacio, sin ruido. Se queda parado en las cuatro patas, con la cola baja y los ojos fijos en ti.
-
-Bills no mira a ninguno.
-
-Levanta la mano derecha, con la palma abierta hacia ti, a la altura de tu pecho.
-
-Esta vez el aire no se calienta. Se apaga. Alrededor de su palma aparece un contorno de luz violeta, finísimo, del color de la ropa de un dios, y adentro de ese contorno no hay nada: ni luz, ni sombra, ni color. Es como mirar el borde de un dibujo al que le borraron el centro. Las venas de luz del suelo, debajo de su mano, se apagan una por una y no vuelven a encenderse. No se rompen: dejan de estar.
-
-Es el mismo Hakai de la roca flotante. Pero aquella vez lo hizo con un dedo, aburrido. Ahora es la palma entera, y está despierto.
-
-—Sin trampas, muchacho del bolsillo. —La voz le sale baja, suave, casi cariñosa—. Te lo voy a dar de frente, y en serio. Si dejas de ser, no es culpa mía. Me lo ofreciste tú.
-
-Ladea la cabeza.
-
-—Y si no dejas de ser... —Los ojos amarillos le brillan como nunca—. Entonces mañana no me vuelvo a dormir.
-
-El contorno violeta tiembla en su palma, quieto, listo.
-
-—¿Listo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1581 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera muy agrietada) · tarde    ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 88% · Ojos: bien · mejilla abierta   ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: de pie en el apoyabrazos de Whis       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Recibir el Hakai de frente         ║
-║ (misión de copia, EXTREMA)                   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1582)
+## COMANDO 1 (T1582)
 
 listo, lo hago
 
-## RESPUESTA 2 (T1582)
+## RESPUESTA 1 (T1582)
 
 > listo, lo hago
 
@@ -165,11 +102,11 @@ Y la sonrisa vuelve. No la de gato aburrido, ni la de gato curioso. Otra, enorme
 
 ---
 
-## COMANDO 3 (T1583)
+## COMANDO 2 (T1583)
 
 ustedes tienen padres? bills y whis
 
-## RESPUESTA 3 (T1583)
+## RESPUESTA 2 (T1583)
 
 > ustedes tienen padres? bills y whis
 
@@ -225,4 +162,52 @@ Después te mira de reojo, con los ojos entrecerrados.
 
 ---
 
-ESTADO AL CIERRE: Pelea en pausa. Whis contó que su padre es el Gran Sacerdote. Bills no se acuerda de los suyos; pregunta de reojo: "¿Por qué? ¿Tú tienes?" Facundo puede contestar.
+## COMANDO 3 (T1584)
+
+no tampoco, soy viajero
+
+## RESPUESTA 3 (T1584)
+
+> no tampoco, soy viajero
+
+> —No, tampoco. Soy viajero.
+
+—Viajero. —Bills levanta una ceja—. Hm.
+
+Te mira de arriba abajo una vez más: el pelo azul, el sobretodo comido, el borceguí desatado. Después mira a Kase, que bosteza en el apoyabrazos de Whis.
+
+—Un viajero sin padres, con un gato que no le tiene miedo a un dios y un bolsillo lleno de pudín. —Se encoge de hombros—. Bueno. Yo también viajo. Voy a un planeta, como algo y lo destruyo si la comida es mala. Debe ser parecido.
+
+—No creo que sea parecido, Bills-sama —dice Whis.
+
+—Es parecido.
+
+No pregunta más. Se le nota que ya se olvidó del tema, como un gato que se olvida de la mosca en cuanto ve pasar otra. Descruza los brazos. Estira la espalda hacia atrás hasta que le truena, y después el cuello, a un lado y al otro.
+
+El aura violeta le vuelve a subir por el cuerpo, despacio, más densa que antes.
+
+—Bueno. Ya sé que no te deshaces. —Sonríe con todos los dientes—. Eso significa que ya no tengo que tener cuidado contigo.
+
+Afuera, Whis suspira y, con un golpecito del báculo, la barrera agrietada se vuelve a armar entera, más gruesa, más alta. Goku se pega otra vez a la luz, feliz de nuevo. Vegeta vuelve a su roca, pero esta vez no se sienta.
+
+Bills se agacha apenas, con los dedos abiertos.
+
+—Segunda ronda, muchacho del bolsillo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1584 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera rehecha) · tarde          ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 72% · Ojos: bien · mejilla abierta   ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: en el apoyabrazos de Whis              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills, en guardia, aura violeta densa: "Segunda ronda, muchacho del bolsillo." Barrera rehecha. Facundo puede actuar.

@@ -151,3 +151,4 @@
 - T1577 · Whis, Goku y Vegeta VIERON a Facundo (SSJ Blue) hacer sangrar a Bills de un puñetazo.
 - T1579 · Bills y Whis VIERON el Eclipse (punto negro de gravedad) tragarse una esfera de destrucción de Bills. Goku y Vegeta también.
 - T1582 · Bills, Whis, Goku y Vegeta VIERON a Facundo recibir y romper un Hakai en serio de Bills. Nadie sabe que lo copió.
+- T1584 · Bills, Whis (y Goku y Vegeta, que estaban cerca) oyeron a Facundo decir que no tiene padres y que es viajero. Nadie pregunta más.
