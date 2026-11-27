@@ -46,3 +46,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1570 · "No hay de qué, Facundo-san. Es lo mínimo." "Mañana arreglo el suelo. Otra vez. Hacía siglos que nadie me rompía un suelo dos veces en una mañana." Duelo de miradas con Kase; sonríe primero: "Su gato es muy difícil de impresionar." "Si de verdad quiere agradecerme... Ayer Bills-sama no me dejó probar ni un bocado de esa carne. Fue muy cruel de su parte."
 - T1571 · Come la carne con puré con los ojos cerrados: "Oh. Oh, sí. Ahora entiendo a Bills-sama. Ahora entiendo todo." Le alcanza a Facundo un pedacito para Kase sin abrir los ojos.
 - T1572 · Sigue comiendo como si nada mientras Bills aparece furioso; toma té cuando los reta.
+- T1573 · Le cuenta a Bills: "Facundo-san peleó con los dos. Por separado. En azul." "El suelo que reforcé se hundió dos veces. Y Vegeta-san solo le sacó una gota de sangre. Con un Final Flash a un paso."

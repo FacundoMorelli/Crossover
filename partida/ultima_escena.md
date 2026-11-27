@@ -3,55 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1570)
-
-gracias whis
-
-## RESPUESTA 1 (T1570)
-
-> gracias whis
-
-> —Gracias, Whis.
-
-—No hay de qué, Facundo-san. —Whis inclina la cabeza, con la taza entre las manos—. Es lo mínimo.
-
-Toma un trago de té. Mira la explanada: el cráter, la zanja, la montaña rajada, la otra montaña cortada a la mitad. Suspira, con mucha paciencia, como quien mira el desorden que dejaron unos chicos después de un cumpleaños.
-
-—Mañana arreglo el suelo —dice—. Otra vez. —Sonríe—. Hacía siglos que nadie me rompía un suelo dos veces en una mañana.
-
-Kase, en tu hombro, mira la taza de Whis. Whis lo mira a él. Se sostienen la mirada un rato largo, el gato y el ángel, en silencio. Kase no parpadea. Whis tampoco. Al final, Whis es el que sonríe primero.
-
-—Su gato es muy difícil de impresionar —dice.
-
-Deja la taza en la mesita. Junta las manos sobre las rodillas. Te mira de costado, con una expresión muy educada y los ojos brillando de una forma que ya empiezas a conocer.
-
-—Aunque, si de verdad quiere agradecerme... —Hace una pausa delicadísima—. Ayer Bills-sama no me dejó probar ni un bocado de esa carne. La de la cosa blanca al lado. —Se lleva una mano al pecho—. Fue muy cruel de su parte. Muy, muy cruel.
-
-Desde el medio de la explanada, Goku levanta la cabeza de golpe, como un perro que oye abrir la heladera.
-
-—¿Carne? ¿Qué carne?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1570 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde de la explanada · mañana               ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.243 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · corte en mejilla  ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, mirando a Whis           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Días en el planeta de Bills        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1571)
+## COMANDO 1 (T1571)
 
 le doy a whis y a goku y vegeta carne con pure
 
-## RESPUESTA 2 (T1571)
+## RESPUESTA 1 (T1571)
 
 > le doy a whis y a goku y vegeta carne con pure
 
@@ -109,11 +65,11 @@ Desde lo alto de la pirámide, por la puerta abierta, sale una voz. Ronca, dormi
 
 ---
 
-## COMANDO 3 (T1572)
+## COMANDO 2 (T1572)
 
 le dejo otro plato a bills
 
-## RESPUESTA 3 (T1572)
+## RESPUESTA 2 (T1572)
 
 > le dejo otro plato a bills
 
@@ -169,4 +125,63 @@ Bills suspira. Larguísimo.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mediodía. Bills, calmado por su plato, pregunta a Facundo: "Estás todo roto. ¿Te peleaste con estos dos?" Facundo puede responder.
+## COMANDO 3 (T1573)
+
+si
+
+## RESPUESTA 3 (T1573)
+
+> si
+
+> —Sí.
+
+Bills mira a Goku. A la cara hinchada, al ojo morado, al gi hecho tiras, al puré en las cejas. Mira a Vegeta, en su roca, con el traje roto y un raspón en la frente. Mira la explanada detrás: el cráter, la zanja, la montaña rajada, la otra cortada por la mitad.
+
+Después te mira a ti otra vez. El corte chiquito en la mejilla. Nada más.
+
+—Hm. —Levanta una ceja—. Ellos están peor.
+
+—Mucho peor, Bills-sama —dice Whis, tranquilo, desde la silla de playa, mientras se sirve más té—. Facundo-san peleó con los dos. Por separado. En azul.
+
+Bills se queda quieto.
+
+Las orejas se le paran, despacio, hasta quedar derechas del todo. La cola, que estaba quieta en el suelo, se le mueve una sola vez.
+
+—¿En azul? —Te mira de arriba abajo, con los ojos entrecerrados—. ¿Tú? ¿El de ki de hormiga?
+
+—El suelo que reforcé se hundió dos veces —dice Whis, como quien comenta el clima—. Y Vegeta-san solo le sacó una gota de sangre. Con un Final Flash a un paso.
+
+En su roca, Vegeta aprieta los dientes y mira para otro lado.
+
+—¡Y yo me esquivé solo! —dice Goku, con la boca llena de puré—. ¡Una vez!
+
+Nadie le hace caso.
+
+Bills se queda mirándote un largo rato, sentado en el suelo, con el plato vacío al lado. No dice nada. Se rasca la oreja. Bosteza. Pero ya no tiene sueño: se le nota en los ojos, que se le encendieron, amarillos, curiosos, como los de un gato que acaba de ver moverse algo debajo del sillón.
+
+Se pone de pie. Se sacude la ropa de dormir. Se estira, primero los brazos, después la espalda.
+
+—Bueno. —Te mira de costado, con una sonrisa de gato que se le va armando despacio—. Primero voy a hacer la digestión. Después me voy a bañar. Y después...
+
+Te señala con un dedo.
+
+—Después tú y yo vamos a ver qué tan fuerte es ese azul tuyo, muchacho del bolsillo. —Ladea la cabeza—. ¿Te parece?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1573 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde de la explanada · mediodía             ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · corte en mejilla  ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills quiere pelear (misión del    ║
+║ Hakai)                                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mediodía. Bills supo por Whis de los duelos en azul y quiere pelear con Facundo después de la digestión y el baño: "¿Te parece?" (Ocasión para la misión de copia del Hakai.) Facundo puede responder.

@@ -137,3 +137,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1569 · "Cállate, Kakarotto." Tras una pausa: "Mañana otra vez."
 - T1571 · "Tch." Come la carne con cubiertos, en una roca lejos de Goku, en silencio, cada vez más rápido, sin levantar la vista.
 - T1572 · Suelta el aire cuando Bills se calma; mira para otro lado cuando los reta.
+- T1573 · Aprieta los dientes cuando Whis cuenta que solo le sacó una gota de sangre a Facundo.

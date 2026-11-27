@@ -1571,3 +1571,4 @@ T1569 · DRAGON BALL · Explanada · Suelta el azul; Kase le frota la cabeza baj
 T1570 · DRAGON BALL · Planeta de Bills · "Gracias, Whis." Kase y Whis se miran; Whis sonríe primero. Whis pide, con delicadeza, probar la carne con puré. Goku: "¿Carne?"
 T1571 · DRAGON BALL · Planeta de Bills · Carne con puré para Whis, Goku y Vegeta (3 F). Bills se despierta: "¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!"
 T1572 · DRAGON BALL · Planeta de Bills · Plato para Bills (1 F): la furia (Hakai a Goku) se apaga. "¿Es para mí?" Reta a los tres por comer antes. A Facundo: "¿Te peleaste con estos dos?"
+T1573 · DRAGON BALL · Planeta de Bills · Whis le cuenta a Bills los duelos de Facundo en azul. Bills: "Después tú y yo vamos a ver qué tan fuerte es ese azul tuyo. ¿Te parece?"
