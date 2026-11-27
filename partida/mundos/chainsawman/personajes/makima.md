@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: organiza la defensa de Denji.
+- T1687 · (fuera de escena) Central le pasará el mensaje de Sato: en Mitsukoshi hay "algo que va a querer ver" (un viajero que neutralizó a todos los muñecos de la avenida sin cortarlos).

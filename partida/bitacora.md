@@ -1685,3 +1685,4 @@ T1683 · CHAINSAW MAN · callejón Mitsukoshi · Esquiva al muñeco. Santa: "Eso
 T1684 · CHAINSAW MAN · avenida Mitsukoshi · Desmaya a 3 muñecos sin lastimarlos (+3 Frag). Avenida llena de muñecos; motosierra arriba. Un agente de Seguridad Pública le apunta: "¿Muñeco o persona?"
 T1685 · CHAINSAW MAN · avenida Mitsukoshi · "Soy una persona." Manos arriba. El agente mayor nota que los muñecos del callejón están quietos y enteros: "¿Qué les hiciste? ¿Quién eres?"
 T1686 · CHAINSAW MAN · avenida Mitsukoshi · "Soy un viajero. Solo los desmayé." Sato no le cree. Santa: "El joven del gato. Me rompiste tres muñecos." Veinte muñecos avanzan. Sato: "Demuéstramelo."
+T1687 · CHAINSAW MAN · avenida Mitsukoshi · Desmaya a 46 muñecos sin lastimarlos (+46 Frag). Sato, atónito, llama a Central: "Díganle a la señorita Makima que tengo algo que va a querer ver."

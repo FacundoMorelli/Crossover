@@ -16,3 +16,7 @@ Quién sabe qué de Facundo en este mundo.
 - T1684 · 2 AGENTES DE SEGURIDAD PÚBLICA (camioneta) vieron a Facundo salir del callejón con tres muñecos desmayados detrás. No vieron cómo.
 - T1685 · AGENTES (mayor y joven): saben (por Facundo) que es una persona; vieron sus ojos de dos colores, tatuajes, gato; el mayor dedujo que los muñecos del callejón fueron neutralizados enteros (algo inusual).
 - T1686 · SATO y el AGENTE JOVEN saben (por Facundo) que dice ser viajero y haber desmayado a los muñecos. SANTA CLAUS también lo oyó (por sus muñecos cercanos).
+
+## QUIÉN VIO QUÉ PODERES
+- T1687 · SATO y el AGENTE JOVEN: velocidad sobrehumana (un borrón) y neutralizar muñecos sin daño (46).
+- T1687 · CENTRAL de Seguridad Pública y MAKIMA (por la radio de Sato): un viajero neutralizó a todos los muñecos de la avenida sin cortarlos.

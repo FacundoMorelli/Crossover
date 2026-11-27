@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1684)
-
-los desmayo a los tres sin lastimarlos y salgo a la avenida
-
-## RESPUESTA 1 (T1684)
-
-> los desmayo a los tres sin lastimarlos y salgo a la avenida
-
-Te mueves.
-
-Para la lluvia, no pasa nada: una gota está en el aire y, cuando cae, ya terminó. Un toque seco, con dos dedos, en la nuca del oficinista. Otro en la de la señora del puerro. Otro en la del chico de uniforme. Justo donde hay que tocar, ni un milímetro más fuerte.
-
-Los tres se desploman a la vez, como marionetas a las que les cortaron los hilos. Los atajas antes de que toquen el piso: primero al chico, después a la señora, después al oficinista, y los dejas sentados contra la pared del callejón, uno al lado del otro, debajo del alero, donde no llueve. Tienen los ojos cerrados. La sonrisa cosida se les afloja un poco, apenas, como si durmieran. Respiran.
-
-La voz de la mujer no dice nada más. Ninguna de las tres bocas se mueve.
-
-[Rivales vencidos: 3 · Fragmentos +3.]
-
-Recoges el maletín del oficinista, le cierras los broches y se lo dejas en las rodillas. Kase baja de tu nuca al hombro, todavía con el pelo erizado, y mira a los tres dormidos con desconfianza.
-
-Sales a la avenida.
-
-Es ancha, de seis carriles, con un tranvía detenido en el medio y las puertas abiertas. La fachada de los almacenes Mitsukoshi ocupa toda la cuadra: ocho pisos de vidrio y piedra, con un reloj enorme sobre la entrada principal que marca las siete y treinta y tres. Las vidrieras de la planta baja están rotas. Hay zapatos tirados en la vereda. Bolsas de compras. Un cochecito de bebé volcado, vacío.
-
-Y muñecos. Decenas. Caminan despacio por el medio de la avenida, entre los autos abandonados con las puertas abiertas, derechos y rígidos, con las cabezas un poco inclinadas, sonriendo bajo la lluvia. Un policía de tránsito con el silbato todavía en la boca. Una novia con el vestido manchado de barro. Dos ancianos de la mano. Ninguno corre. Van todos hacia el mismo lado: hacia la entrada de los almacenes.
-
-Desde adentro del edificio, en algún piso alto, llega el motor otra vez. Ahora más cerca, más fuerte, un rugido de motosierra que sube y baja, mezclado con vidrios que estallan y alguien que grita algo que no se entiende.
-
-Una camioneta blanca frena en seco frente a ti, derrapando en el asfalto mojado. Tiene un escudo pintado en la puerta y letras negras: SEGURIDAD PÚBLICA. Las puertas se abren de golpe. Bajan dos hombres de traje negro y corbata, empapados, uno con una katana corta en la mano y el otro con un revólver. El del revólver es joven, tiene la cara pálida de miedo. Te ve. Ve el callejón detrás de ti y los tres cuerpos sentados contra la pared.
-
-Te apunta.
-
-—¡Tú! ¡El del pelo! —Le tiembla la voz y le tiembla el revólver—. ¡Las manos donde las vea! ¡¿Eres un muñeco o eres una persona?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1684 · CHAINSAW MAN · DÍA 1 · 19:33    ║
-║ Tokio, otoño de 1997                         ║
-║ Avenida frente a los almacenes Mitsukoshi    ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.842 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1685)
+## COMANDO 1 (T1685)
 
 soy una persona, tranquilo, levanto las manos
 
-## RESPUESTA 2 (T1685)
+## RESPUESTA 1 (T1685)
 
 > soy una persona, tranquilo, levanto las manos
 
@@ -101,11 +50,11 @@ El agente mayor los ve con el rabillo del ojo. Aprieta la empuñadura.
 
 ---
 
-## COMANDO 3 (T1686)
+## COMANDO 2 (T1686)
 
 soy un viajero, solo los desmayé
 
-## RESPUESTA 3 (T1686)
+## RESPUESTA 2 (T1686)
 
 > soy un viajero, solo los desmayé
 
@@ -152,4 +101,61 @@ Sato da un paso adelante, se pone entre ellos y tú, levanta la katana corta con
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:35, avenida frente a Mitsukoshi. Sato no le cree ("Nadie desmaya a un muñeco", 16 años en el oficio). Santa reconoce a Facundo desde veinte bocas: "El joven del gato. Ahí estás. Me rompiste tres muñecos, querido." ~20 muñecos avanzan (carnicero, chica con un zapato...). Sato se pone delante con la katana: "Si de verdad los desmayaste sin cortarlos, ahora es un buen momento para que me lo demuestres. Son veinte, somos dos y este chico no le da ni a una pared."
+## COMANDO 3 (T1687)
+
+los desmayo a todos sin lastimarlos
+
+## RESPUESTA 3 (T1687)
+
+> los desmayo a todos sin lastimarlos
+
+Sato todavía está terminando de apretar la empuñadura cuando ya no estás a su lado.
+
+Para él, para el chico del revólver, para cualquiera que mirara, eres un borrón blanco y azul bajo la lluvia. Las gotas que cruzas se abren como una cortina. Kase se aplana contra tu hombro con las uñas clavadas en la camisa.
+
+El carnicero, primero: dos dedos en la nuca, lo atajas por el delantal y lo sientas en el cordón de la vereda. La chica del zapato: la sostienes de la cintura antes de que se desplome y la dejas apoyada contra un poste de luz. La novia del vestido embarrado, sobre el asiento de un auto con la puerta abierta. Los dos ancianos de la mano, juntos, en el banco de una parada de tranvía, sin que se suelten. El policía de tránsito, con el silbato todavía en la boca, contra el tranvía detenido. Una nena de trenzas con una mochila con orejas de conejo; un oficinista; una señora con delantal de cocina; un cartero con la bolsa llena de cartas; dos colegialas; un hombre en bata de hospital, descalzo.
+
+Uno por uno. Ninguno toca el piso. Ninguno se raspa siquiera.
+
+Las bocas se abren para decir algo, con la voz de la vieja. No llega a salir ninguna palabra.
+
+Cuando vuelves a estar de pie al lado de Sato, en el mismo lugar, con las manos otra vez levantadas como te pidieron, la avenida frente a los almacenes Mitsukoshi está quieta. Cuarenta y seis personas sentadas, recostadas, apoyadas, dormidas bajo la lluvia, en veredas, bancos, autos y escalones, con las sonrisas cosidas aflojadas. Respiran. El único movimiento es el agua que corre por el asfalto y la luz roja de un semáforo que cambia a verde, para nadie.
+
+[Rivales vencidos: 46 · Fragmentos +46.]
+
+Desde adentro de Mitsukoshi, el rugido de la motosierra sigue, pisos arriba, lejos.
+
+El chico del revólver baja el arma despacio. La deja colgando al costado del cuerpo. Tiene la boca abierta. Se le cae el revólver de la mano y no se da cuenta.
+
+Sato no baja la katana. Se le quedó en el aire, en guardia, apuntando a un carnicero que ya no está ahí, porque está sentado en el cordón de la vereda con la cabeza apoyada en un hidrante. Mira la avenida. La recorre entera con los ojos, de punta a punta, despacio. Se le mueve un músculo de la mandíbula.
+
+Después te mira a ti. Las manos levantadas. El gato en el hombro, con el pelo todo para atrás.
+
+No dice nada durante mucho rato.
+
+Al final baja la katana. La envaina sin mirar. Se mete la mano en el saco, saca un paquete de cigarrillos empapado, lo mira, lo tira al piso. Saca una radio negra, grande, con antena.
+
+—Central, aquí Sato. Mitsukoshi, avenida principal, lado norte. —Habla sin quitarte los ojos de encima—. Los muñecos de la calle están... neutralizados. Todos. —Una pausa—. No, no los cortamos. No, no estoy borracho. —Otra pausa, más larga—. Necesito que venga alguien de la Cuarta. Ahora. Díganle a la señorita Makima que tengo algo que va a querer ver.
+
+Corta. Guarda la radio. Te mira de arriba abajo, otra vez, como si fuera la primera.
+
+—Puedes bajar las manos, viajero. —Lo dice muy despacio—. Y no te muevas de ahí. Por favor.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1687 · CHAINSAW MAN · DÍA 1 · 19:36    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, con el pelo para atrás   ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:36, avenida frente a Mitsukoshi. 46 muñecos de la avenida desmayados y acomodados sin daño (+46 Frag). Sato y el agente joven vieron un borrón (velocidad sobrehumana). Sato llamó por radio a Central: pidió a alguien de la División 4 y que le digan a Makima "que tengo algo que va a querer ver". A Facundo: "Puedes bajar las manos, viajero. Y no te muevas de ahí. Por favor." Chainsaw Man sigue arriba en Mitsukoshi.

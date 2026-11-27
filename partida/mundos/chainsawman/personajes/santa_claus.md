@@ -15,3 +15,4 @@ ESTADO: convierte civiles en muñecos en Tokio. Canon: Denji la mata con fuego.
 - T1683 · Vio (por su muñeco) que Facundo esquivó con mucha facilidad: "Eso fue rápido, joven. Muy rápido." Le dice que está en Tokio detrás de los almacenes Mitsukoshi. Deduce que no es de Japón ("con ese pelo"). "Me gustas. Me gusta ese gato. Me voy a quedar con los dos." Manda tres muñecos. QUÉ SABE (+T1683): que es muy rápido; que pregunta dónde está (no es de ahí).
 - T1684 · Pierde la vista y la voz de los tres muñecos del callejón de golpe (desmayados). No vio cómo.
 - T1686 · Lo reconoce desde ~20 muñecos en la avenida: "El joven del gato. Ahí estás. Me rompiste tres muñecos, querido. Eso no se hace." Los manda contra él y los agentes. Oye (por sus muñecos) que es "un viajero".
+- T1687 · Pierde de golpe 46 muñecos de la avenida (todos los que miraban a Facundo). No llegó a ver cómo; solo que "el joven del gato" estaba ahí.
