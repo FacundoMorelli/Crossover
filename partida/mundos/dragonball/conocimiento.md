@@ -121,3 +121,4 @@
 - Todos los del crucero · T1531 · Ven a Facundo sacar dos cajas enteras de un bolsillo; oyen a Bills prometer no destruir la Tierra por él y llamarlo por su nombre. Bulma pregunta quién es.
 - Bills, Whis · T1531 · Por Facundo: el pudín; saben su nombre y el de Kase.
 - Todos los del crucero · T1532 · Por Facundo: es "un viajero, nada más". Bulma decide no preguntar más por ahora.
+- Videl, Gohan · T1534 · Saben que la idea de Shenlong fue de Facundo; Videl quiere que conozca al bebé.

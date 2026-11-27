@@ -1532,3 +1532,4 @@ T1530 · DRAGON BALL · Crucero · "Goku va a poder devolverla." Goku absorbe la
 T1531 · DRAGON BALL · Crucero · Dos cajas de pudín (2 F) para el viaje de Bills. Bills: "Este planeta no lo destruyo. Por un tiempo largo." "Adiós, Kase" (parpadeo lento). Bills y Whis se van. Bulma: "¿Quién eres tú?"
 T1532 · DRAGON BALL · Crucero · "Soy un viajero, nada más." Todos enumeran lo raro; Milk lo defiende; Bulma: "Guárdate tus secretos." Sigue la fiesta. Vegeta: "Mañana. A las seis. Viajero."
 T1533 · DRAGON BALL · Crucero · Disfruta la fiesta hasta el atardecer. Kase duerme en su regazo. Videl: la revancha va a tener que esperar, "pero no te salvas".
+T1534 · DRAGON BALL · Crucero · Felicita a Videl. Gohan agradece lo de Shenlong. Kase mira la panza de Videl. Videl: "¿Vas a estar cuando nazca?"

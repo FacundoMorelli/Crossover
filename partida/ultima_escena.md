@@ -3,87 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1531)
-
-saco 2 cajas de pudin, esto es para su viaje bills sama
-
-## RESPUESTA 1 (T1531)
-
-> saco 2 cajas de pudin, esto es para su viaje bills sama
-
-[Compra: pudín igual al de la fiesta, dos cajas de seis. 2 Fragmentos.]
-
-Metes la mano en el bolsillo interior del sobretodo y sacas una caja de cartón blanco, con doce pudines adentro, en dos filas. Después metes la mano otra vez y sacas otra.
-
-Las dos cajas no entran en un bolsillo. No entran en ningún bolsillo. Salen igual.
-
-> —Esto es para su viaje, Bills-sama.
-
-Bills abre los ojos. Del todo. El sueño se le va de golpe. Mira las dos cajas, mira el bolsillo, te mira a ti.
-
-Agarra las cajas con las dos manos. Las abre. Cuenta. Las vuelve a cerrar con muchísimo cuidado, como si adentro hubiera algo vivo.
-
-—Doce —dice, muy serio—. Doce pudines.
-
-—Doce, Bills-sama —confirma Whis, que se acercó sin que nadie lo viera moverse, y que ya está mirando las cajas por encima del hombro de Bills.
-
-—No. —Bills aprieta las cajas contra el pecho—. Son míos. Tú ya tienes tres escondidos en la túnica.
-
-Whis se queda quieto. Sonríe. No dice nada.
-
-Bills se da vuelta hacia ti. Se queda mirándote un rato largo, con las cajas en brazos y la cola moviéndose sola detrás. Ya no tiene cara de aburrido ni cara de sueño. Tiene cara de algo que en un dios de la destrucción no se ve muy seguido.
-
-—Facundo, ¿no? —Lo dice como si lo hubiera oído una sola vez y le hubiera quedado—. Bien. Me acuerdo de la gente que me da de comer. —Levanta una de las cajas, apenas—. Este planeta no lo destruyo. Por un tiempo largo. Y si alguien más quiere destruirlo, que me pregunte primero.
-
-Mira a Kase, en la baranda.
-
-—Adiós, Kase.
-
-Kase lo mira. Y por primera vez en toda la tarde, entorna los ojos, despacio, rojo y azul, y los vuelve a abrir. Un parpadeo lento, largo. Lo que hacen los gatos cuando, por fin, deciden que algo no les molesta.
-
-Bills sonríe de oreja a oreja.
-
-Whis apoya la base del báculo en la cubierta. Un golpecito.
-
-—Fue una fiesta preciosa, señorita Bulma. Gracias por todo. —Inclina la cabeza—. Hasta pronto, Facundo-san. Seguramente volvamos. Bills-sama no se olvida nunca de un buen postre.
-
-Bills se pone una mano en el hombro de Whis, con las dos cajas apretadas en el otro brazo.
-
-Una columna de luz blanca baja del cielo, los envuelve a los dos, y se los lleva. Desaparece hacia arriba en un segundo, como una estrella fugaz al revés.
-
-La cubierta se queda en silencio.
-
-Después todos se dan vuelta. Despacio. Uno por uno. Bulma, Vegeta, Gohan con Videl, Piccolo, Krilin, la 18, Goten, Trunks, Milk. Hasta Mr. Satán, que se despertó a tiempo para ver la columna de luz.
-
-Te miran a ti.
-
-Goku, en el medio, con la ropa quemada, mira para otro lado y silba.
-
-Bulma es la que habla. Cruza los brazos sobre el vestido rojo y te mira con los ojos entrecerrados.
-
-—Bueno —dice—. Ahora sí. ¿Quién eres tú?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1531 · DRAGON BALL · SÁBADO · 13:40    ║
-║ Crucero de Bulma · junto a la piscina        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1532)
+## COMANDO 1 (T1532)
 
 por que me miran todos? soy un viajero nada mas
 
-## RESPUESTA 2 (T1532)
+## RESPUESTA 1 (T1532)
 
 > por que me miran todos? soy un viajero nada mas
 
@@ -144,11 +68,11 @@ Y sigue de largo.
 
 ---
 
-## COMANDO 3 (T1533)
+## COMANDO 2 (T1533)
 
 disfruto la fiesta
 
-## RESPUESTA 3 (T1533)
+## RESPUESTA 2 (T1533)
 
 > disfruto la fiesta
 
@@ -196,4 +120,58 @@ Se toca la panza. Sonríe con media boca, igual que su padre.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 18:40, crucero volviendo a la costa. Kase dormido en su regazo. Videl: la revancha deberá esperar por el embarazo, "pero no te salvas". Mañana 6:00, Vegeta. Facundo puede responder.
+## COMANDO 3 (T1534)
+
+esta bien video, y felicidades
+
+## RESPUESTA 3 (T1534)
+
+> esta bien video, y felicidades
+
+> —Está bien, Videl. Y felicidades.
+
+Videl se queda quieta un segundo, con el vaso de jugo a medio camino de la boca.
+
+Después se le escapa una sonrisa. No la de media boca, la de su padre. Otra, más chica, más torpe, que no le habías visto nunca, y que se le va agrandando aunque ella intenta que no.
+
+—Gracias. —Se mira la panza—. Todavía no me lo creo, ¿sabes? Hace dos semanas que lo sé y no se lo había dicho a nadie. Ni a Gohan. Quería decirlo hoy, cuando cortaran la torta. Y en vez de eso, lo anunció un dragón gigante delante de un dios. —Se ríe por la nariz—. Mi papá se desmayó dos veces.
+
+—Tres —corrige alguien desde atrás.
+
+Es Gohan, que viene con un plato de fruta cortada para ella. Se lo deja en la falda. Se sienta en el apoyabrazos de la silla, a su lado, y le pone la mano en el hombro. Videl se la agarra sin mirarlo.
+
+Gohan te mira a ti. Detrás de los anteojos tiene los ojos un poco rojos todavía.
+
+—Facundo. —Lo dice bajo—. Gracias por lo de hoy. Lo de Shenlong. Si no hubieras dicho nada... —No termina. Se acomoda los anteojos—. Papá no lo habría pensado. Nadie lo habría pensado.
+
+Kase, en tu regazo, se despierta. Estira una pata. Mira la panza de Videl con los ojos rojo y azul muy abiertos, con muchísimo interés, como si escuchara algo que nadie más oye. Después se vuelve a acomodar y cierra los ojos.
+
+Videl lo mira, sorprendida.
+
+—Le cae bien —dice.
+
+El crucero entra despacio en el puerto de la Ciudad del Oeste. Las luces de la costa se reflejan en el agua. Se oye la sirena del barco, larga, y los gritos de los marineros en el muelle.
+
+Videl se queda mirando las luces. Después te mira, de costado.
+
+—Va a nacer en unos meses —dice—. ¿Vas a estar? Me gustaría que lo conozca. —Hace una pausa—. O que la conozca. Todavía no sabemos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1534 · DRAGON BALL · SÁBADO · 19:10    ║
+║ Crucero de Bulma · llegando al puerto        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en tu regazo                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Mañana 6:00 entrenar con Vegeta    ║
+╚══════════════════════════════════════════════╝
+```
+
+Escribiste "video" y lo tomé como Videl.
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 19:10, crucero llegando al puerto. Videl y Gohan junto a Facundo. Videl: "Va a nacer en unos meses. ¿Vas a estar?" Facundo puede responder.

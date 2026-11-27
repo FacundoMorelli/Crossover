@@ -32,3 +32,4 @@ DIÁLOGOS CLAVE:
 - T1527 · Se entera del embarazo de Videl: blanco, rojo, blanco; se le caen los anteojos. "¿Vi... Videl? ¿Tú...? ¿Nosotros...?" Toma parte del ritual.
 - T1529 · SSJ2 de golpe, puños apretados, ante la esfera.
 - T1533 · No se despega de Videl.
+- T1534 · "Tres" (desmayos de Satán). A Facundo: "Gracias por lo de hoy. Lo de Shenlong. Si no hubieras dicho nada... Papá no lo habría pensado. Nadie lo habría pensado."
