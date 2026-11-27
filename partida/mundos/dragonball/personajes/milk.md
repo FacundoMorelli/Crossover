@@ -21,3 +21,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio en la tele con Buu (T184, público). Goku le habló de él a la tarde (T198: que entrenaba con un muchacho fuerte con un gato).
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: bien.
+- T1497 · Año ~777, 12:10 · Delantal, rodete, escoba. A Goku: "¡¿VOLVISTE?! ¡¿TRES MESES Y VOLVÍ?! ...sin trabajar la granja, sin ver a tu hijo, sin mandar un mensaje..." Ve a Facundo: "Tú... El muchacho del gato." "¿Tú lo trajiste? ¿De dónde estaba este irresponsable?"

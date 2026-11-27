@@ -76,3 +76,4 @@
 - Goku, Kaio-sama, Bubbles, Gregory · T1494 · Ven a Facundo recibir con las manos el Kamehameha más grande de Goku (SSJ3) y desviarlo al cielo; solo le quedan las palmas rojas. Goku sabe que se contuvo.
 - Goku, Kaio-sama · T1495 · Por Facundo (vía Dende): el mensaje de Milk (fiesta de Bulma o no le cocina nunca más).
 - Goku, Kaio-sama · T1496 · Por Facundo: va a ir a la fiesta de cumpleaños de Bulma.
+- Milk, Goten · T1497 · Ven a Facundo aparecer de la nada con Goku en el claro (sangre seca en la boca, palmas rojas).

@@ -1495,3 +1495,4 @@ T1493 · DRAGON BALL · Planeta de Kaio-sama · Duelo contra Goku SSJ3: techo de
 T1494 · DRAGON BALL · Planeta de Kaio-sama · Recibe el Kamehameha con las manos y lo desvía al cielo. Goku se rinde. Kaio-sama: "Salvaste mi planeta." +25.000 F, +6.000 EXP.
 T1495 · DRAGON BALL · Planeta de Kaio-sama · Tasación de Goku. Mensaje de Milk entregado. Goku, sin energía: "¿Me llevas a casa? Y vente a la fiesta de Bulma."
 T1496 · DRAGON BALL · Planeta de Kaio-sama · "Está bien. Voy." Goku feliz; chiste de Kaio-sama. Goku listo con la mano en el hombro de Facundo: "A Monte Paoz."
+T1497 · DRAGON BALL · Planeta de Kaio → Monte Paoz · Lleva a Goku a casa. Milk con la escoba: "¡GOKUUUU!" Goten corre a Kase. Milk: "¿Tú lo trajiste? ¿De dónde estaba este irresponsable?"

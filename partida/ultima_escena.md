@@ -3,97 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1494)
-
-recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
-
-## RESPUESTA 1 (T1494)
-
-> recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
-
-—...¡HAAAAAAAAAA!
-
-El Kamehameha sale de las manos de Goku como un río de luz azul, ancho como una casa, rugiendo, y cruza los cincuenta metros en menos de un parpadeo.
-
-No te corres.
-
-Lo recibes de frente, con las dos manos abiertas.
-
-El impacto es enorme. La luz te envuelve entera, te quema las palmas, te sacude los brazos hasta los hombros, te empuja hacia atrás, hacia abajo, hacia el planeta. El sobretodo te flamea a la espalda como una bandera en una tormenta. Sientes el pasto del planeta, abajo, a unos pocos metros de tus botas. Oyes a Kaio-sama gritar algo que no se entiende.
-
-Clavas los pies en el aire.
-
-Frenas.
-
-Y con las dos manos, despacio, como quien empuja una puerta muy pesada, le das vuelta al Kamehameha.
-
-El río de luz se dobla. Cruje. Gira sobre sí mismo, alrededor de tus palmas, como agua alrededor de una piedra, y cambia de dirección. Ya no va hacia el planeta. Va hacia arriba, hacia el cielo amarillo, hacia la nada del Otro Mundo.
-
-Lo sueltas.
-
-El Kamehameha sale disparado hacia arriba, enorme, azul, iluminando todo, y se pierde en el cielo hasta convertirse en un punto de luz. Un segundo después, muy lejos, estalla. Sin ruido. Una flor azul gigante que se abre y se apaga entre nubes que no terminan nunca.
-
-El planeta queda en silencio.
-
-Te miras las manos. Tienes las palmas rojas, humeando apenas. Te arden. Nada más.
-
-Arriba, a cincuenta metros, Goku sigue con los brazos estirados hacia adelante, como si todavía tuviera el Kamehameha entre las manos. Te mira con la boca abierta.
-
-El aura dorada le parpadea una vez. Dos.
-
-Y se apaga.
-
-El pelo le vuelve a ser negro, corto, en punta. Las cejas le vuelven a aparecer. Se le aflojan los brazos. Y Goku empieza a caer, despacio, de espaldas, sin fuerza para volar, riéndose.
-
-—Ja... ja, ja...
-
-Aterriza de espaldas en el pasto, en medio de un círculo de tierra quemada, con los brazos abiertos y el pecho subiendo y bajando, rápido.
-
-—¡Me rindo! —grita al cielo amarillo, sin levantarse, muerto de risa—. ¡Me rindo, me rindo! ¡Lo recibiste con las manos! ¡Con las manos! ¡Y lo diste vuelta!
-
-Kaio-sama se acerca corriendo, con Bubbles detrás. Mira el planeta: el techo arrancado, el árbol doblado, el pasto quemado, los surcos, los hoyos de las pesas. Mira el cielo, donde todavía se ve el resplandor azul muy lejos. Te mira a ti.
-
-—Salvaste... mi planeta —dice, con un hilo de voz.
-
-Después se da vuelta hacia Goku, que sigue en el suelo riéndose, y le da una patada en la pierna.
-
-—¡Y TÚ IBAS A DESTRUIRLO!
-
-—¡Perdón, Kaio-sama!
-
-Kase se acerca caminando por el pasto. Se para al lado de la cabeza de Goku. Lo mira desde arriba con los ojos rojo y azul, muy serio, como un juez. Goku le sonríe.
-
-—Hola, gato.
-
-Kase le apoya una pata en la frente. Después se va.
-
-[Duelo con un compañero vencido: Son Goku.]
-
-[+25.000 Fragmentos.]
-
-[+6.000 EXP.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1494 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · planeta de Kaio-sama            ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: volviendo hacia ti por el pasto        ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Mensaje de Milk para Goku          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1495)
+## COMANDO 1 (T1495)
 
 uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
 
-## RESPUESTA 2 (T1495)
+## RESPUESTA 1 (T1495)
 
 > uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
 
@@ -161,11 +75,11 @@ Kaio-sama resopla.
 
 ---
 
-## COMANDO 3 (T1496)
+## COMANDO 2 (T1496)
 
 esta bien voy
 
-## RESPUESTA 3 (T1496)
+## RESPUESTA 2 (T1496)
 
 > esta bien voy
 
@@ -226,4 +140,79 @@ Traga saliva.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Facundo aceptó ir a la fiesta de Bulma. Goku, apoyado en su hombro con Kase en el brazo, listo para ir a Monte Paoz. Facundo puede actuar.
+## COMANDO 3 (T1497)
+
+llevo a goku al monte paoz
+
+## RESPUESTA 3 (T1497)
+
+> llevo a goku al monte paoz
+
+Dos dedos en la frente. Buscas el Monte Paoz: los kis de una casa chica en las montañas. Uno, fuerte y nervioso, que se mueve de un lado al otro como alguien que barre con rabia. Otro, chico y encendido, que no para quieto ni un segundo.
+
+El planeta de Kaio-sama desaparece, con Kaio-sama saludando desde la reposera y Bubbles todavía escondido detrás del auto.
+
+Y el peso se va. De golpe. El cuerpo te queda liviano como una pluma. Goku, que venía apoyado en tu hombro con todo su peso para aguantar la gravedad, se va de cara contra el pasto.
+
+—¡Ay!
+
+Kase salta de su brazo justo a tiempo y aterriza parado, sin gravedad, con la cola en alto.
+
+Huele a pino, a tierra mojada y a arroz. Es mediodía. Estás en el claro del Monte Paoz, frente a la casa redonda de los Son, con el techo blanco y la chimenea humeando. Las mismas montañas en punta, los mismos árboles, el arroyo que baja al costado. La casita de al lado, donde dormiste hace tres años, sigue en pie, con una maceta nueva en la ventana.
+
+La puerta de la casa se abre de golpe.
+
+En el umbral, con el delantal puesto, el pelo negro atado en un rodete y una escoba en la mano, Milk.
+
+Ve a Goku tirado en el pasto, de cara al suelo.
+
+Se le hincha una vena en la frente.
+
+—¡GOKUUUUUUUUU!
+
+Goku levanta la cabeza del pasto. Sonríe con la cara llena de tierra.
+
+—Hola, Milk. Volví.
+
+—¡¿VOLVISTE?! ¡¿TRES MESES Y "VOLVÍ"?! —Milk baja los tres escalones de la entrada con la escoba en alto—. ¡¿Tres meses sin trabajar la granja, sin ver a tu hijo, sin mandar un mensaje, y apareces tirado en el pasto como un perro mojado?! ¡Te dije que si no volvías...!
+
+Se frena a medio camino.
+
+Te vio.
+
+Te mira de arriba abajo: el pelo blanco y azul, el sobretodo negro, la sangre seca en la comisura de la boca, las palmas rojas. Kase, sentado en el pasto. La escoba le baja despacio.
+
+—Tú... —dice—. El muchacho del gato.
+
+Y antes de que nadie diga nada más, desde adentro de la casa sale disparado un chico de unos diez años, con el pelo negro en punta, igual al de Goku, la boca llena de arroz y un plato en la mano. Ve a Goku, ve a Kase, y se le cae el plato.
+
+—¡PAPÁ! —grita Goten. Y después, más fuerte todavía—: ¡¡EL GATOOOO!!
+
+Pasa corriendo al lado de su padre sin mirarlo y se tira de rodillas en el pasto delante de Kase.
+
+Goku, todavía en el suelo, levanta un dedo.
+
+—Oye...
+
+Milk lo ignora. Se te queda mirando a ti, con la escoba colgando de la mano, los ojos entrecerrados, como quien junta piezas.
+
+—¿Tú lo trajiste? —pregunta—. ¿De dónde estaba este irresponsable?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1497 · DRAGON BALL · AÑO 777 · 12:10   ║
+║ Monte Paoz · casa de los Son                 ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: en el pasto, con Goten de rodillas     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Fiesta de Bulma (Bills en ~10      ║
+║ días)                                        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 12:10, Monte Paoz. Facundo trajo a Goku; Milk lo reta con la escoba; Goten con Kase. Milk a Facundo: "¿Tú lo trajiste? ¿De dónde estaba este irresponsable?" Facundo puede responder.
