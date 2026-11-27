@@ -35,3 +35,4 @@ DIÁLOGOS CLAVE:
 - T1534 · "Tres" (desmayos de Satán). A Facundo: "Gracias por lo de hoy. Lo de Shenlong. Si no hubieras dicho nada... Papá no lo habría pensado. Nadie lo habría pensado."
 - T1548 · Le da la mano a Facundo al despedirse.
 - T1635 · 19:30 · Llega con Videl. Da la mano a Facundo: "Hola, Facundo. Perdón por Videl. Y por Erasa. Y por mi mamá. Bueno, por todos." (Edad ahora ~21-22; año 778.)
+- T1637 · "Videl, el bebé."

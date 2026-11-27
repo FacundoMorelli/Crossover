@@ -84,3 +84,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1621 · "A las ocho. Con torta." Entra por más pudín (estante de abajo).
 - T1635 · Desde las 19:00 sentado a la cabecera de la mesa del jardín, olfateando cada fuente; cola cada vez más rápida. Erasa lo mira y aparta la vista.
 - T1636 · A Erasa: "A mí me despreció en un barco" (Kase). "Eso. ¿Es torta de chocolate? Bien. Ponla donde yo la vea."
+- T1637 · Empieza a comer antes de que Milk termine la frase (pescado entero); ojos cerrados tras cada bocado, cola enroscada.

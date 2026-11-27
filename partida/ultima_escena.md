@@ -3,91 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1634)
-
-Les digo que ellos le pongan nombre
-
-## RESPUESTA 1 (T1634)
-
-> Les digo que ellos le pongan nombre
-
-Les dices que el nombre lo eligen ellos. Que la técnica es de los dos.
-
-Goten y Trunks se quedan quietos, negros de hollín, mirándose. Después se les ilumina la cara a los dos al mismo tiempo.
-
-—¡Nosotros! —Trunks levanta el puño—. ¡Le ponemos nombre nosotros!
-
-—¡Bola Giratoria Doble! —grita Goten enseguida.
-
-—¡No! ¡Eso es tu técnica vieja con "doble" atrás! —Trunks se cruza de brazos, igual que su papá—. Tiene que ser algo genial. ¡Súper Torbellino Trunks!
-
-—¡No es solo tuya! ¡La hicimos los dos!
-
-—¡Yo la tiré primero!
-
-—¡Pero la mía era la que giraba para el otro lado!
-
-Discuten. Se empujan. Se caen al pasto y ruedan, levantando nubecitas de hollín. Kase, desde su piedra, los mira con infinita paciencia. Vegeta, apoyado en el árbol, cierra los ojos como quien espera que pase una tormenta.
-
-Al final quedan los dos tirados boca arriba en el pasto, sin aire, mirando el cielo de la tarde, que se está poniendo naranja.
-
-—Bueno... —Goten jadea—. ¿Y si tiene un poco de cada uno?
-
-—¿Cómo?
-
-—Las bolas giran... como un remolino. Y son dos. Como nosotros.
-
-Trunks se queda callado. Lo piensa.
-
-—Remolino Gemelo —dice, despacio.
-
-Goten se sienta de golpe.
-
-—¡Remolino Gemelo!
-
-—¡REMOLINO GEMELO!
-
-Se paran, se chocan las manos, gritan el nombre tres veces más, tan fuerte que una bandada de pájaros sale volando de los árboles del fondo.
-
-Vegeta abre los ojos.
-
-—Remolino Gemelo. —Lo repite en voz baja, probando cómo suena. No dice si le gusta. Se despega del árbol y se sacude la camiseta rosada—. Bien. Ahora tiene nombre. Ahora hay que aprender a hacerlo de verdad, no a medias.
-
-Mira a Trunks.
-
-—Mañana a las seis. Cámara de gravedad. Los dos. —Mira a Goten—. Tú también. Si Kakaroto te deja.
-
-Goten y Trunks se miran, pálidos por debajo del hollín.
-
-—¿A las seis de la mañana?
-
-—A las seis.
-
-Vegeta mira el cielo naranja y después a ti.
-
-—Y tú tienes una cena. —Se le tuerce apenas la boca—. Bulma me va a matar si te devuelvo tarde y negro de hollín como estos dos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1634 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Campo detrás del parque · atardecer          ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sentado en una piedra                  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1635)
+## COMANDO 1 (T1635)
 
 esta bien, volvemos, simula hasta la cena
 
-## RESPUESTA 2 (T1635)
+## RESPUESTA 1 (T1635)
 
 > esta bien, volvemos, simula hasta la cena
 
@@ -175,11 +95,11 @@ Se da cuenta de lo que dijo. Se pone roja. Te mira a ti, con la caja de torta en
 
 ---
 
-## COMANDO 3 (T1636)
+## COMANDO 2 (T1636)
 
 Mucho gusto erasa
 
-## RESPUESTA 3 (T1636)
+## RESPUESTA 2 (T1636)
 
 > Mucho gusto erasa
 
@@ -245,4 +165,58 @@ Después se inclina un poco hacia ti, lo justo para verte la cara de cerca bajo 
 
 ---
 
-ESTADO AL CIERRE: Erasa sentada al lado de Facundo; Kase aceptó su ratón. Erasa: "Son naturales de verdad. ¿Siempre fueron así?" Facundo puede contestar.
+## COMANDO 3 (T1637)
+
+si, siempre fueron asi y mi pelo igual, desde que naci, no sabia que videl tenia una amiga tan linda, si no le hubiese dicho antes
+
+## RESPUESTA 3 (T1637)
+
+> si, siempre fueron asi y mi pelo igual, desde que naci, no sabia que videl tenia una amiga tan linda, si no le hubiese dicho antes
+
+> —Sí, siempre fueron así. Y mi pelo igual, desde que nací. No sabía que Videl tenía una amiga tan linda; si no, le habría dicho antes.
+
+Erasa se queda quieta.
+
+Se le pone roja la cara. Primero las mejillas, después las orejas, después el cuello, hasta que el rojo se le mezcla con el amarillo del vestido. Abre la boca para decir algo. No le sale nada. Para Erasa, eso es casi un milagro.
+
+—¡TE ESCUCHÉ! —grita Videl desde la otra punta de la mesa, señalándote con el tenedor—. ¡Y no tenía por qué decirte nada! ¡No sabía que existías!
+
+—Videl, el bebé —dice Gohan, con las manos levantadas.
+
+—¡El bebé también lo escuchó!
+
+Bulma se ríe tapándose la boca. Milk, que justo llega con la última fuente, una montaña de arroz frito que humea, se detiene detrás de tu silla. Te mira la nuca. Después mira a Erasa, roja como un tomate. Asiente una vez, satisfecha, como quien aprueba un plato que le salió bien, y sigue de largo.
+
+—¡Ya está todo! —anuncia—. ¡A comer!
+
+Bills no espera a que termine la frase. Ya tiene un pescado entero en el plato.
+
+La mesa se llena de ruido: Goku y Goten comiendo como si no hubieran comido en una semana, Trunks peleando con Goten por la última costilla, Vegeta comiendo rápido y en silencio, Whis con servilleta y libretita, probando todo de a poquito y anotando. Bills, en la cabecera, con los ojos cerrados después de cada bocado y la cola enroscada de felicidad.
+
+Erasa no toca el plato. Sigue roja, mirando el mantel. Se acomoda un rulo. Se lo vuelve a acomodar.
+
+Al final te mira de reojo, por debajo de las pestañas, con una sonrisa que le tiembla un poco en la punta de la boca.
+
+—Eres bastante directo, ¿no? —dice, bajito, para que no la escuche Videl—. Ni siquiera nos sirvieron la comida y ya me dijiste linda.
+
+Se muerde el labio. Agarra el tenedor por fin, aunque no come nada con él. Lo usa para tener algo en la mano.
+
+—Bueno... —Lo piensa un segundo, y después se anima—. ¿Y tú de dónde eres, Facundo Morelli? Porque de acá no eres. Eso seguro. Nadie de acá habla así.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1637 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:15     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Cena empezada. Erasa, roja: "Eres bastante directo, ¿no?" "¿Y tú de dónde eres, Facundo Morelli? De acá no eres." Facundo puede contestar.

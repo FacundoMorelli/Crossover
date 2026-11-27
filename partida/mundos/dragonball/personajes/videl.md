@@ -33,3 +33,4 @@ DIÁLOGOS CLAVE:
 - T1616 · Por teléfono con Bulma: grita al saber que hay "un muchacho, el del gato" para Erasa. Le pasa el número. (Embarazada de Pan.)
 - T1635 · 19:30 · Llega con Gohan a la cena (panza redonda, vestido suelto). A Facundo: "¡Tú! ¡No me dijiste que estabas buscando novia! ¡Erasa me llamó cuatro veces! ¡Está histérica! Bueno, con esa camisa entiendo por qué."
 - T1636 · Se ríe de Erasa detrás de la mano.
+- T1637 · "¡TE ESCUCHÉ! ¡Y no tenía por qué decirte nada! ¡No sabía que existías!" "¡El bebé también lo escuchó!"

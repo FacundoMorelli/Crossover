@@ -1635,3 +1635,4 @@ T1633 · DRAGON BALL · Campo detrás del parque · Enseña a Goten y Trunks una
 T1634 · DRAGON BALL · Campo detrás del parque · Goten y Trunks bautizan la técnica: Remolino Gemelo. Vegeta los cita mañana a las 6 en la cámara de gravedad; a Facundo: "Tú tienes una cena."
 T1635 · DRAGON BALL · Corporación Cápsula · (Simulación) Vuelven; foto de Vegeta en la heladera; algodón para Goku; Milk cocina. Llegan Gohan y Videl. 20:00: llega Erasa (torta, ratón para Kase). "No era disfraz." "¡Es Kase!" "Yo soy Erasa. Traje torta."
 T1636 · DRAGON BALL · Corporación Cápsula · "Mucho gusto, Erasa." Ratón de juguete para Kase: le gusta (se echa encima). Bills reclama la torta. Erasa se sienta al lado de Facundo: "Son naturales de verdad. ¿Siempre fueron así?"
+T1637 · DRAGON BALL · Corporación Cápsula · Le dice a Erasa que es linda. Erasa se pone roja; Videl: "¡TE ESCUCHÉ!" Empieza la cena. Erasa: "Eres bastante directo. ¿De dónde eres?"
