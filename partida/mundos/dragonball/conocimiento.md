@@ -86,3 +86,5 @@
 - Goku · T1507 · Ve la Forma Cenit de Facundo otra vez, a pleno (x10): mucho más que en 774. Sigue sin sentirle el ki (Velo); ve los efectos físicos.
 - Dende, Mr. Popo (desde el templo, probable) · T1507 · Pueden ver el temblor del páramo; no sienten el ki de Facundo.
 - Goku · T1508 · Siente en el cuerpo la diferencia con la Forma Cenit sin contención (golpe de dedo lo desmaya). Sigue sin sentirle el ki.
+- Goku · T1509 · Por Facundo: no debe mencionar nunca su fuerza a nadie que venga; desde ahora Facundo muestra un ki muy bajo (Goku lo siente: menos que Krilin). PROMETIÓ no contarlo (ni a Vegeta ni a Kaio-sama).
+- TODOS en Dragon Ball desde T1509 · Si sienten el ki de Facundo, sienten un hilo muy bajo (Velo).

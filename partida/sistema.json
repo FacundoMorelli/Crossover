@@ -1,8 +1,8 @@
 {
-  "turno": 1508,
+  "turno": 1509,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año ~777/778 (R14: Bills en el cumpleaños de Bulma, el sábado, en 3 días)",
-  "hora": "año ~777, día 2, 10:30",
+  "hora": "año ~777, día 2, 10:32",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 66,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -392,7 +392,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común"
+    "poder_mostrado": "Dragon Ball: un hilo de ki muy bajo (menos que Krilin), desde T1509"
   },
   "armas": [
     {
@@ -2665,6 +2665,5 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  },
-  "forma_activa": "Forma Cenit (x10) desde 10:17; quedan ~32 min"
+  }
 }

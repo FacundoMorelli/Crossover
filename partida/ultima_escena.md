@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1506)
-
-vayamos
-
-## RESPUESTA 1 (T1506)
-
-> vayamos
-
-> —Vayamos.
-
-Goku no espera. Se eleva del campo de un salto, y en un segundo ya está a cien metros, arriba, haciéndote señas con el brazo.
-
-—¡Por aquí! ¡Conozco un lugar donde no hay tejas!
-
-Kase te salta al hombro. Subes detrás de Goku.
-
-Vuelan hacia el oeste, por encima de las montañas en punta del Monte Paoz, de los bosques, de un río que se abre en tres brazos. El aire de la mañana está frío arriba y te mueve el pelo blanco y azul. Goku vuela adelante, de espaldas, mirándote, riéndose de nada, dando vueltas en el aire como un chico que se escapó de la escuela.
-
-Después de un rato, el verde se termina.
-
-Abajo empieza un páramo enorme, de roca rojiza y tierra seca, con mesetas planas que se levantan del suelo como mesas gigantes y cañones profundos que las separan. No hay árboles. No hay casas. No hay tejas. Solo viento, polvo, y a lo lejos el sol de la mañana subiendo detrás de las rocas.
-
-Reconoces el lugar. Es el mismo páramo donde peleaste contra Buu hace tres años. Todavía hay cráteres viejos, ya erosionados, cubiertos de polvo.
-
-Goku aterriza en lo alto de una meseta. Se sacude las manos. Se trona el cuello.
-
-—Aquí entrenaba Vegeta antes de que Bulma le hiciera la cámara de gravedad —dice—. Lo puedes romper todo, que no se queja nadie.
-
-Kase baja de tu hombro y se sienta en el borde de la meseta, mirando el cañón como si fuera de su propiedad.
-
-Goku se para frente a ti, a diez pasos. No se pone en guardia todavía. Se queda mirándote, con las manos en la cintura, más serio que ayer. Pensando.
-
-—Ayer te contuviste todo el tiempo —dice—. Incluso cuando te pegué en la cara. Lo sé. No me importa, eh. —Se rasca la nuca—. Pero hoy tengo una pregunta.
-
-Levanta un dedo.
-
-—Esa vez, hace tres años, cuando peleamos de verdad... tú también te transformaste en algo. No en Super Saiyajin. En otra cosa. El pelo para arriba, esas llamas blancas y azules. —Se le encienden los ojos—. Yo nunca vi algo así. Ni Vegeta. ¿Me lo muestras otra vez? Quiero ver hasta dónde llega. Aunque sea un ratito.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1506 · DRAGON BALL · AÑO 777 · 10:15   ║
-║ Páramo de entrenamiento · meseta             ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el borde de la meseta               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Goku · enseñarle algo ║
-║ a Goten · fiesta de Bulma el sábado          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1507)
+## COMANDO 1 (T1507)
 
 me transformó en mi transformación
 
-## RESPUESTA 2 (T1507)
+## RESPUESTA 1 (T1507)
 
 > me transformó en mi transformación
 
@@ -117,11 +62,11 @@ Al lado de la tuya, parece una vela al lado de una fogata.
 
 ---
 
-## COMANDO 3 (T1508)
+## COMANDO 2 (T1508)
 
 esta bien, peleó con goku y no me contengo tanto
 
-## RESPUESTA 3 (T1508)
+## RESPUESTA 2 (T1508)
 
 > esta bien, peleó con goku y no me contengo tanto
 
@@ -196,4 +141,61 @@ Se queda mirando el cielo, tirado en la roca, con los brazos abiertos.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, día 2, 10:30, páramo. Goku vencido (desmayado y despierto), tirado en la meseta: "Quiero llegar ahí. A donde estás tú." Facundo sigue en Forma Cenit (~32 min). Facundo puede actuar.
+## COMANDO 3 (T1509)
+
+me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
+
+## RESPUESTA 3 (T1509)
+
+> me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
+
+Sueltas la Forma Cenit.
+
+Las llamas blancas y azules se apagan de golpe, como una vela que alguien sopla. El pelo te cae sobre los hombros, otra vez desordenado. Las piedras que flotaban en todo el páramo caen al suelo a la vez, con un ruido seco, larguísimo, de granizo. El viento vuelve.
+
+Y el cansancio te llega todo junto, a los brazos, a las piernas, a la espalda, como si te hubieran echado un balde de agua pesada encima.
+
+Te pones en cuclillas al lado de Goku.
+
+> —Goku, si algún día viene alguna persona, no menciones nunca nada de mí, de lo fuerte que soy. A partir de ahora voy a mostrar una parte muy baja de mi ki, para disimular. ¿Puedes no mencionarlo nunca?
+
+Y dejas que se te note un hilo de ki. Uno chiquito. Lo justo para que alguien que lo busque encuentre algo: un muchacho que entrena, que vuela, que tal vez pelea un poco mejor que la gente común. Nada más.
+
+Goku gira la cabeza en la roca. Te mira con el ojo sano. Arruga la frente.
+
+—Ah... —dice—. Ahora sí te siento. Un poquito. —Parpadea—. Es muy poquito. Krilin tiene más.
+
+Se queda callado un rato, mirándote. No pregunta quién va a venir. No pregunta por qué. Se rasca la cabeza, como cuando algo no le entra del todo pero decide que no importa.
+
+—Bueno. —Se sienta en la roca, con un gemido, agarrándose las costillas—. No digo nada. Si alguien pregunta, eres... un amigo que viene a comer. Y que tiene un gato.
+
+Levanta la mano, con el puño cerrado.
+
+—Palabra. —Lo dice serio, de verdad, con la cara amoratada—. No se lo digo a nadie. Ni a Vegeta, aunque me lo pregunte mil veces. Ni a Kaio-sama, que es un chismoso.
+
+Choca su puño contra tu hombro, despacio.
+
+Después se le escapa una mueca de dolor, se mira la camiseta hecha jirones, el ojo que no puede abrir, las rodillas raspadas.
+
+—Pero... Milk sí va a preguntar. —Traga saliva—. ¿Qué le digo de esto?
+
+Señala su propia cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1509 · DRAGON BALL · AÑO 777 · 10:32   ║
+║ Páramo de entrenamiento · meseta             ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 66% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: junto a Goku                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Goku · fiesta de      ║
+║ Bulma el sábado                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, día 2, 10:32, páramo. Facundo deshizo la Forma Cenit (energía 66%); Velo con ki muy bajo. Goku prometió no decir nada a nadie. Pregunta qué le dice a Milk de su cara. Facundo puede responder.
