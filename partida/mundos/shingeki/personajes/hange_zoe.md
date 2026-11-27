@@ -38,3 +38,4 @@ ESTADO: activo
 - T1476 · Ve el caballito sin voz; después: "¡Hizo que el caballo de metal se parara en dos patas!"
 - T1477 · "¡Perdón, Majestad!" (sin arrepentimiento).
 - T1483 · Llega al puerto en la moto, con Levi detrás.
+- T1484 · Llora en el muelle, se suena con un trapo lleno de grasa.

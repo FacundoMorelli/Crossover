@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1481)
-
-esta bien, en un rato voy a verlos a todos
-
-## RESPUESTA 1 (T1481)
-
-> esta bien, en un rato voy a verlos a todos
-
-> —Está bien. En un rato voy a verlos a todos.
-
-Erwin asiente una sola vez. No dice gracias: se lleva el puño izquierdo al corazón, un segundo, sentado, sin que nadie más en la mesa lo note salvo tú.
-
-Después cierra la carpeta y se pone de pie.
-
-—Majestad. Señorita Reiss. —Inclina la cabeza hacia Historia y hacia Frieda—. El consejo de distritos es a las once. Los nobles de Stohess van a volver a quejarse por los graneros.
-
-—Que se quejen —dice Historia, mordiendo una tostada—. Levi los visita de nuevo.
-
-Erwin casi se ríe. Se acomoda la carpeta bajo el brazo y se va. En la puerta se detiene, se da vuelta, y te mira por última vez.
-
-—Dígale a Armin que no le conteste las cuarenta. Si no, no zarpan nunca.
-
-La puerta se cierra.
-
-Historia suspira, larguísimo, y se desploma en la silla como una chica cualquiera.
-
-—Consejo a las once. Censo a las dos. Embajador de Marley a las cuatro. —Mira a Frieda—. ¿Tú no puedes ser reina un día?
-
-—Ya lo fui —dice Frieda, tranquila, sirviéndose té—. Una vez alcanza.
-
-A tu lado, Ymir no dice nada. Se terminó la tostada. Se terminó la tuya. Ahora tiene los brazos cruzados sobre la mesa y la barbilla apoyada encima, y te mira de costado, con esa media sonrisa torcida.
-
-—"En un rato" —repite, bajito, solo para ti—. Llegaste hace dos horas, lindo, y ya tienes la agenda más llena que la reina.
-
-Te pisa el pie debajo de la mesa. Esta vez no despacio.
-
-—¿Y yo qué? ¿Me llevas, o me quedo aquí contando manzanas otra vez?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1481 · SHINGEKI · DÍA 119 · 09:15      ║
-║ Mitras · palacio · salón de Historia         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: comiendo huevo en la mesa              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ir a Shiganshina con la            ║
-║ expedición · algo de este mundo para Robin   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1482)
+## COMANDO 1 (T1482)
 
 vienes conmigo
 
-## RESPUESTA 2 (T1482)
+## RESPUESTA 1 (T1482)
 
 > vienes conmigo
 
@@ -107,11 +52,11 @@ Ymir se para a tu lado. Se acomoda la camisa. Se ata mejor el pelo. Después te 
 
 ---
 
-## COMANDO 3 (T1483)
+## COMANDO 2 (T1483)
 
 con mi truco, simula hasta que zarpen todos
 
-## RESPUESTA 3 (T1483)
+## RESPUESTA 2 (T1483)
 
 > con mi truco, simula hasta que zarpen todos
 
@@ -180,4 +125,57 @@ Ymir, a tu lado, te aprieta la mano.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 129 07:10, muelle del puerto nuevo de la costa este. Zarpó la expedición. Eren gritó desde la baranda que le va a contar todo al volver. Ymir le aprieta la mano. Facundo puede actuar.
+## COMANDO 3 (T1484)
+
+esta bien, espero con muchas ganas eso eren
+
+## RESPUESTA 3 (T1484)
+
+> esta bien, espero con muchas ganas eso eren
+
+> —¡Está bien! ¡Lo espero con muchas ganas, Eren!
+
+Eren te oye. Se le nota en la cara: la sonrisa le estalla de oreja a oreja, enorme, de chico, la misma que tenía en la meseta la primera vez que vio el mar. Levanta el puño cerrado por encima de la cabeza.
+
+Mikasa lo agarra del cinturón y lo baja de la baranda de un tirón antes de que se caiga al agua.
+
+El barco sigue alejándose. Las ruedas giran, el humo gris se estira detrás de la chimenea y se deshace en el cielo. Las figuras de la baranda se hacen chicas, después muy chicas, después puntos. La sirena suena otra vez, más lejos, más débil.
+
+En el muelle nadie se va.
+
+Se quedan todos mirando cómo el barco se hace pequeño en el horizonte. Carla con las manos juntas contra el pecho, Grisha con un brazo alrededor de sus hombros. Historia, quieta, con la capa moviéndose con el viento. Erwin con la mano izquierda detrás de la espalda, en posición de descanso, como en un desfile. Hange llorando abiertamente, sin vergüenza, sonándose la nariz con un trapo lleno de grasa que le deja la cara todavía más negra. Levi, a su lado, sin cambiar la cara, mirando el mar.
+
+Cuando el barco ya es un punto negro contra el agua, la gente empieza a moverse. Despacio. Hablando bajo. Las carretas vuelven a cargarse para el viaje de vuelta.
+
+Ymir no te suelta la mano.
+
+Se queda mirando el horizonte un rato más, con el viento del mar despeinándole el pelo atado. Después suelta el aire por la nariz.
+
+—Bueno —dice—. Se fueron.
+
+Te mira de costado. Las pecas, la boca torcida. Pero los ojos no se burlan.
+
+—Siempre es así, ¿no? —Señala con la barbilla el mar vacío—. Alguien se sube a algo y se va, y los demás se quedan en el muelle mirando hasta que no queda nada que mirar.
+
+Te aprieta la mano un poco más fuerte.
+
+—¿Cuánto te quedas tú esta vez, lindo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1484 · SHINGEKI · DÍA 129 · 07:25      ║
+║ Costa este de Paradis · muelle del puerto    ║
+║ nuevo                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: — · algo de este mundo para Robin  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 129 07:25, muelle de la costa este. El barco se perdió en el horizonte. Ymir: "¿Cuánto te quedas tú esta vez, lindo?" Facundo puede responder.

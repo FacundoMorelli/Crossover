@@ -26,3 +26,4 @@ ESTADO: activo
 - (Días 66-119) Visitó a Kiyomi en el barco de Hizuru; volvió con un kimono, incómoda. Se va con Eren al continente en 10 días.
 - T1483 · Escucha a Facundo con la bufanda roja puesta. Zarpa el Día 129; mira la costa sin saludar.
 ESTADO: de viaje al continente.
+- T1484 · Baja a Eren de la baranda del cinturón.
