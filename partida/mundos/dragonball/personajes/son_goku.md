@@ -127,3 +127,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1592 · Entrena solo de noche en azul en una roca flotante; después se le suma Vegeta. A la mañana, dormido en el pasto con la boca abierta.
 - T1593 · Se despierta por el olor: "Hamburguesa. Huele a hamburguesa." "¡Facundo! ¿Hay para mí también? ¡Anoche entrené un montón!"
 - T1594 · Lágrimas, le sacude la mano a Facundo: "¡Eres el mejor! ¡En serio, el mejor!" Come tres bandejas. Se queda con la boca abierta cuando Vegeta da las gracias.
+- T1595 · Agachado contra la barrera, sigue el rastro de chispas plateadas sin gritar, moviendo los labios, contando.

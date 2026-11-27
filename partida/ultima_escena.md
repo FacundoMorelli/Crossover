@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1592)
-
-me quedo aqui, simula hasta mañana con bills
-
-## RESPUESTA 1 (T1592)
-
-> me quedo aqui, simula hasta mañana con bills
-
-Te quedas.
-
-Whis te lleva a la pirámide por un pasillo largo, de piedra clara, con ventanas redondas por las que se ve el cielo del planeta, que se va poniendo violeta. Te deja frente a una puerta alta.
-
-—Su cuarto, Facundo-san. —Con un golpecito del báculo en tu hombro, el sobretodo se rehace solo: vuelve la manga izquierda, vuelve el borde de abajo, los cordones del borceguí se atan solos. Hasta la camisa se cierra—. La ropa, por lo menos. Las heridas son suyas. Buenas noches.
-
-Se va, con las manos detrás de la espalda.
-
-Sueltas el Ultra Instinto en el cuarto. El pelo plateado vuelve a caer, y se vuelve blanco y azul oscuro. Los ojos te vuelven a ser uno rojo y uno azul.
-
-El cuarto es enorme y casi vacío: una cama baja, redonda, con sábanas de un tejido que no conoces, una ventana sin vidrio hacia el jardín y un silencio total. Kase recorre las cuatro esquinas, olfatea la cama, la aprueba y se tira en el medio exacto, ocupando más lugar del que le corresponde.
-
-Duermes.
-
-En algún momento de la noche te despierta un ruido grave, lejano, como un motor viejo: es Bills roncando en lo alto de la pirámide. Hace temblar apenas el agua de una jarra que hay en una mesa. Después se calla, y no se escucha nada más hasta la mañana.
-
-Por la ventana, a lo lejos, ves un par de veces el brillo azul de Goku entrenando solo, bien entrada la noche, en una de las rocas flotantes. Vegeta no aparece. Pero en algún momento, más tarde, el brillo azul se vuelve dos.
-
-Amanece.
-
-La luz del planeta de Bills entra por la ventana, verde y dorada. Kase te está mirando la cara, sentado sobre tu pecho, a un palmo, con los ojos de dos colores muy abiertos, porque ya es de día y él ya decidió que tú también tienes que estar despierto.
-
-El corte de la mejilla está cerrado, con una costra fina. El de las costillas también. Te duelen un poco al moverte, nada más. Estás descansado. La energía, entera.
-
-Bajas a la explanada.
-
-Whis ya la arregló durante la noche: no quedan pozos ni surcos, ni bandejas vacías. Las venas de luz brillan parejo en el suelo. Goku está tirado de espaldas en el pasto del borde, dormido con la boca abierta, todavía con el gi de entrenamiento. Vegeta está sentado en su roca de siempre, con los brazos cruzados, despierto, mirando la pirámide. Te ve llegar y mira para otro lado.
-
-Whis está en su silla de playa con una taza de té. Te saluda con la mano.
-
-—Buenos días, Facundo-san. Durmió bien, espero.
-
-Arriba, se abre la puerta de lo alto de la pirámide.
-
-Bills no baja caminando. Aparece directamente delante de ti, a un palmo, con los ojos entrecerrados de sueño, las orejas torcidas, la cola despeinada y la ropa de dormir puesta otra vez. Te mira la cara. Después las manos vacías.
-
-—Desayuno —dice. Nada más.
-
-Bosteza, enorme.
-
-—Dijiste que había desayuno. Hamburguesa doble con queso. —Levanta un dedo—. Primero eso. Después peleamos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1592 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada · mañana del día siguiente         ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.197 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien · cortes cerrados  ║
-║ (costras en mejilla y costillas)             ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: a tus pies                             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Desayuno de Bills; después, pelea  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1593)
+## COMANDO 1 (T1593)
 
 le compro mas
 
-## RESPUESTA 2 (T1593)
+## RESPUESTA 1 (T1593)
 
 > le compro mas
 
@@ -128,11 +61,11 @@ En su roca, Vegeta descruza los brazos, aunque sigue sin mirarte.
 
 ---
 
-## COMANDO 3 (T1594)
+## COMANDO 2 (T1594)
 
 dejo mas para los demas
 
-## RESPUESTA 3 (T1594)
+## RESPUESTA 2 (T1594)
 
 > dejo mas para los demas
 
@@ -200,4 +133,82 @@ Bills se da vuelta y te mira, con la panza llena y los ojos amarillos bien despi
 
 ---
 
-ESTADO AL CIERRE: Desayuno terminado (Vegeta dio las gracias). Bills, vestido, en el centro de la explanada con barrera nueva: "Hoy empiezas con eso plateado." Kase al lado de Facundo (dentro de la barrera). Facundo puede actuar.
+## COMANDO 3 (T1595)
+
+dejo a kase afuera y activo el ultra instinto dominado, empezamos
+
+## RESPUESTA 3 (T1595)
+
+> dejo a kase afuera y activo el ultra instinto dominado, empezamos
+
+Te agachas, levantas a Kase y lo llevas hasta el borde de la barrera.
+
+La luz se abre otra vez, como una cortina, y Whis ya está del otro lado, con las manos estiradas.
+
+—Con mucho gusto, Facundo-san.
+
+Kase no se deja agarrar. Salta solo al apoyabrazos de la silla de playa, se sienta derecho, enrosca la cola y se queda mirando el centro de la explanada. Whis baja las manos vacías, sonriendo.
+
+La barrera se cierra.
+
+Vuelves al centro. Bills te espera a quince pasos, con las manos sueltas y la panza llena, balanceándose apenas sobre los talones.
+
+El pelo se te vuelve plateado. Flota. Los ojos, plata. El aire tiembla a tu alrededor, transparente, con chispas blancas que suben y se apagan. El corazón se te calma. La cabeza se te queda en blanco.
+
+—Eso —dice Bills, bajito—. Eso.
+
+Y viene.
+
+Hoy no prueba nada. Viene con todo desde el primer golpe: la palma recubierta de destrucción a la cara, la rodilla al estómago, la cola a la nuca, un codo que nace de un giro que no se vio venir. Más rápido que ayer, más corto, más limpio. Ayer jugó, después se enojó y después se sorprendió. Hoy aprendió.
+
+Tu cuerpo no aprende nada. No le hace falta.
+
+Se corre dos dedos y la palma pasa de largo. La rodilla se encuentra con tu antebrazo, que ya estaba ahí antes de que la rodilla saliera. La cola pasa por arriba de tu cabeza porque te agachaste sin decidirlo. El codo no encuentra nada, y tu talón, solo, le entra a Bills en la parte de atrás del muslo.
+
+Bills trastabilla. Gira en el aire, cae de pie y vuelve a entrar, sin respirar.
+
+Diez golpes. Veinte. La explanada se llena otra vez de destellos, pero esta vez son solo violetas: tú no brillas, apenas tiemblas, y donde estabas un instante antes queda un rastro de chispas plateadas. Las venas de luz del suelo se quiebran bajo los pies de Bills y se quedan intactas bajo los tuyos.
+
+No te toca. Ni una vez.
+
+Tu cuerpo le entra tres veces: un revés en el hombro, la palma abierta en el pecho y el pie en la rodilla. Cada golpe lo manda unos pasos atrás. Cada vez, Bills vuelve más rápido.
+
+Afuera, Goku no grita. Está agachado contra la barrera, con los ojos muy abiertos, siguiendo el rastro de chispas, moviendo los labios sin sonido, contando algo. Vegeta está de pie en su roca, con los puños sueltos.
+
+Bills se detiene en seco, a cinco pasos.
+
+No retrocede ni se aleja. Se queda parado, quieto, con la respiración agitada y las manos caídas a los costados. Cierra los ojos.
+
+Las orejas, que tenía aplastadas, se le aflojan. La cola se le queda quieta. El aura violeta, que le subía furiosa, se le baja hasta quedar pegada a la piel, finita, casi tranquila.
+
+—Whis siempre me dice que pienso demasiado cuando peleo —murmura, con los ojos cerrados—. Que el cuerpo sabe más que yo.
+
+Afuera, Whis deja de sonreír y se inclina hacia adelante en la silla.
+
+Bills se mueve.
+
+No te ataca. Da un paso, uno solo, liviano, sin ninguna intención en la cara. Y su mano, abierta, pasa por donde un instante antes estaba tu mejilla, y te deja un roce frío en la costra, sin cortar, como una caricia de garra.
+
+Tu cuerpo la esquivó. Por un pelo plateado.
+
+Bills abre los ojos. Se mira la mano. Te mira a ti. Una sonrisa le va naciendo despacio, enorme, incrédula.
+
+—¿Así se hace? —pregunta—. ¿Así?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1595 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera nueva) · mañana           ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.161 · 0 zeni                  ║
+║ Energía 92% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: en el apoyabrazos de Whis (afuera)     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (tercera ronda)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Tercera ronda en UI Dominado. Bills no lo tocó en todo el intercambio; después, con los ojos cerrados y sin pensar, lo rozó por un pelo. "¿Así se hace? ¿Así?" Facundo puede contestar o actuar.

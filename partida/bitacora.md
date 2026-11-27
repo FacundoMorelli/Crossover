@@ -1593,3 +1593,4 @@ T1591 · DRAGON BALL · Planeta de Bills · 20 bandejas de la nada (40 F), sin e
 T1592 · DRAGON BALL · Planeta de Bills · (Simulación) Noche en un cuarto de la pirámide; Whis le arregla la ropa. Mañana: Bills aparece pidiendo desayuno (hamburguesa doble). "Primero eso. Después peleamos."
 T1593 · DRAGON BALL · Planeta de Bills · 10 bandejas para el desayuno de Bills (20 F). "Mejor que de cena." Goku despierta y pide; Bills: "Las diez son mías."
 T1594 · DRAGON BALL · Planeta de Bills · 8 bandejas para Goku, Whis y Vegeta (16 F). Vegeta: "...Gracias." Bills listo para la tercera ronda: "Empiezas con eso plateado."
+T1595 · DRAGON BALL · Planeta de Bills · Tercera ronda en UI Dominado: Bills no lo toca; recibe tres golpes. Cierra los ojos, pelea sin pensar y lo roza por un pelo: "¿Así se hace? ¿Así?"
