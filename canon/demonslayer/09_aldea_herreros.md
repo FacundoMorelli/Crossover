@@ -12,7 +12,7 @@ PERSONAJES PRESENTES:
 - Genya Shinazugawa — 16 años. Cazador (sin poder usar respiraciones). Come demonios para ganar sus habilidades temporalmente. Usa escopeta Nichirin. Hermano menor de Sanemi.
 - Hotaru Haganezuka — herrero.
 - Kotetsu — niño herrero, dueño del "Yoriichi Tipo Cero" (muñeco de entrenamiento con 6 brazos).
-- Tecchikawahara Tecchin (Jefe de la Aldea), Kanamori? y otros herreros (ver Dudas).
+- Tecchin Tecchikawahara (Jefe de la Aldea) y otros herreros.
 - Lunas Superiores (reunión): Kokushibo (LS1), Douma (LS2), Akaza (LS3), Hantengu (LS4), Gyokko (LS5); Nakime (biwa, nueva Luna Superior 4 al final del arco).
 - Gyokko — Luna Superior 5. Demonio de vasijas.
 - Hantengu — Luna Superior 4. Anciano cobarde. Se divide en clones-emoción.
@@ -27,14 +27,14 @@ QUÉ PASA:
 5. Tanjiro se reencuentra con Genya en las termas (hostil).
 6. Noche del ataque: Gyokko y Hantengu atacan la aldea.
 7. Tanjiro, Nezuko y Genya enfrentan a Hantengu. Tanjiro lo decapita y se divide en Sekido y Karaku; luego cada cabeza cortada se divide más (Urogi, Aizetsu).
-8. Muichiro enfrenta a Gyokko, que lo encierra en una vasija de agua (Hachisen? "Vasija de Agua Sangrienta"). Muichiro casi se ahoga.
+8. Muichiro enfrenta a Gyokko, que lo encierra en una vasija de agua ("Vasija Prisión de Agua"). Muichiro casi se ahoga.
 9. Kotetsu y Kotetsu-related: un herrero niño (Kotetsu) y la llamada de Haganezuka defienden la espada; Muichiro recupera la memoria: su gemelo Yuichiro murió cuando un demonio los atacó a los 10 años; sus palabras "el mu de Muichiro es infinito".
 10. Muichiro obtiene la Marca, escapa y usa la 7.ª forma (propia) de la Niebla "Nubes que Oscurecen" (Oboro); decapita a Gyokko tras ver su "Forma Perfecta".
 11. Mitsuri llega contra los clones de Hantengu; los cuatro se fusionan en Zohakuten (Odio). Mitsuri obtiene la Marca y lo contiene.
 12. Tanjiro, Nezuko y Genya buscan al cuerpo principal (diminuto). Genya come parte de un clon (no logra) y usa su escopeta.
-13. Hantengu se esconde en un cuerpo enorme y duro (el "verdadero" con lengua? tiene un clon que guarda el corazón). Tanjiro lo persigue al amanecer.
+13. El cuerpo principal de Hantengu (diminuto) huye; acorralado, se agranda y su cuello se vuelve durísimo. Tanjiro lo persigue hasta el amanecer (detalle de la transformación: ver Dudas).
 14. Al salir el sol, Nezuko queda expuesta. Tanjiro duda entre salvarla o decapitar a Hantengu. Nezuko lo empuja para que vaya.
-15. Tanjiro decapita a Hantengu con Hinokami Kagura (usa la espada de 300 años? — ver Dudas).
+15. Tanjiro decapita a Hantengu con Hinokami Kagura (qué espada usa: ver Dudas).
 16. Nezuko no se quema: ha vencido al sol. Dice sus primeras palabras: "Buenos días". (Puede hablar frases simples.)
 17. Muzan sabe vía sus demonios que Nezuko vence al sol; decide capturarla para lograr su propia inmunidad. Ya no necesita el Lirio.
 
@@ -47,7 +47,7 @@ PELEAS DEL ARCO:
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
 - Muichiro: Respiración de la Niebla (7 formas; la 7.ª, Oboro, creada por él); Marca (nube).
-- Mitsuri: Respiración del Amor (formas: 1.ª Agonía Excitante?; nombres según fanbook), espada fina y flexible como látigo; Marca.
+- Mitsuri: Respiración del Amor (formas: 1.ª Escalofríos del Primer Amor, 2.ª Penas de Amor, 3.ª Lluvia de Amor Gatuno, 5.ª Garra Salvaje del Amor Oscilante, 6.ª Vientos del Amor Felino; nombres según traducción), espada fina y flexible como látigo; Marca.
 - Genya: come carne demoníaca y obtiene regeneración/habilidades (nuevas al comer Lunas); revólver Nichirin.
 - Gyokko: Arte de Sangre de vasijas (teletransporte entre vasijas, peces, agujas venenosas); "Forma Perfecta" (cuerpo escamoso; toque que convierte en peces).
 - Hantengu: división por decapitación en emociones: Sekido (bastones de rayo), Karaku (abanico de viento), Urogi (alas, gritos sónicos), Aizetsu (lanza); Zohakuten (dragones de madera, ataques sónicos y rayos); cuerpo real muy pequeño y cuello durísimo.

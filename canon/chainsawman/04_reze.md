@@ -1,7 +1,7 @@
 # Bomba (Reze)
 CAPÍTULOS: 39–52 (vol. 5–6)
 AÑO / FECHA: 1997 (verano).
-LUGARES: Café "Dos Caminos" (Two Roads? ver Dudas) donde trabaja Reze; escuela de noche (piscina); festival; calles de Tokio; mar.
+LUGARES: café donde trabaja Reze (nombre no confirmado); escuela de noche (piscina); festival; calles de Tokio; mar.
 DURACIÓN EN LA HISTORIA: ~1–2 semanas.
 
 PERSONAJES PRESENTES:
@@ -21,7 +21,7 @@ QUÉ PASA:
 5. Denji pelea contra Reze; ella lo deja inconsciente.
 6. Aki y Violence Fiend enfrentan a Reze y luego al Demonio Tifón (invocado tras matar a un humano); Ángel interviene.
 7. Denji y Beam en forma de tiburón: Denji, montado en Beam, se une al combate. Denji usa la estrategia de atarse a Reze con la cadena y lanzarse al mar (ella no puede activar explosiones bajo el agua).
-8. Reze reconoce que no sabe nadar. Denji la salva y le dice que la ama. Reze le rompe el cuello? (ver Dudas) y se va.
+8. Reze reconoce que no sabe nadar. Denji la salva y le dice que la ama. Según Wikipedia, Reze le rompe el cuello y se va (ver Dudas).
 9. Reze decide volver al café a encontrarse con Denji; Makima y Ángel la interceptan en un callejón. Makima la mata (dejando que el Demonio "Ángel" la debilite y la rata/agentes la rematen; ver Dudas).
 10. Denji espera en el café; Reze no llega.
 

@@ -7,7 +7,7 @@ DURACIÓN EN LA HISTORIA: ~1–2 semanas.
 PERSONAJES PRESENTES:
 - Ed y Al Elric.
 - Shou Tucker — "Alquimista de la Vida Cosida". Crea quimeras.
-- Nina Tucker — 4 años? (ver Dudas). Hija de Tucker. Perro Alexander.
+- Nina Tucker — niña pequeña (edad no dada; ver Dudas). Hija de Tucker. Perro Alexander.
 - Scar — ishvalano, asesino de Alquimistas Estatales. Brazo derecho con tatuaje (alquimia de destrucción).
 - Roy Mustang, Riza Hawkeye.
 - Maes Hughes — teniente coronel, investigación (Central); amigo de Mustang.

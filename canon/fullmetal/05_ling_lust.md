@@ -14,7 +14,7 @@ PERSONAJES PRESENTES:
 - Padre — líder de los homúnculos.
 - Roy Mustang, Riza Hawkeye, Jean Havoc, Vato Falman.
 - Barry el Carnicero.
-- Maria Ross; Coronel Henry Douglas? (ver Dudas).
+- Maria Ross; coronel Henry Douglas (la retiene; ver Dudas).
 - Lust, Envy, Gluttony.
 - Scar, Yoki, May Chang (princesa de Xing, alkahestria; panda Shao May).
 - Armstrong, Heymans Breda.

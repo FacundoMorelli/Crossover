@@ -6,7 +6,7 @@ DURACIÓN EN LA HISTORIA: semanas.
 
 PERSONAJES PRESENTES:
 - Sung Jinwoo (Monarca de las Sombras pleno).
-- Monarcas: Monarca de la Escarcha (Sillad), Monarca de las Bestias (Rakan), Monarca del Principio (Legia), Monarca de Plagas (Querehsha), Monarca de Hierro/Transfiguración (ver Dudas), Monarca de la Destrucción (Antares; Rey Dragón).
+- Monarcas: Monarca de la Escarcha (Sillad), Monarca de las Bestias (Rakan), Monarca del Principio (Legia), Monarca de Plagas (Querehsha), Monarca del Cuerpo de Hierro (Tarnak), Monarca de la Transfiguración (Yogumunt), Monarca de la Destrucción (Antares; Rey Dragón).
 - Gobernantes (Fragmentos de la Luz Brillante; aliados de los humanos).
 - Sung Il-hwan — padre de Jinwoo, recipiente de un Gobernante.
 - Christopher Reed, Thomas Andre, Liu Zhigang, Go Gunhee, Cha Hae-in, Beru, Igris, Bellion (gran mariscal de sombras).
@@ -18,12 +18,12 @@ QUÉ PASA:
 3. Jinwoo hereda por completo el poder de Ashborn y se vuelve Monarca de las Sombras; obtiene a Bellion y el Ejército original.
 4. Jinwoo mata a Rakan (Bestias) y a Sillad (Escarcha); Legia muere (ver Dudas).
 5. Sung Il-hwan aparece como recipiente de un Gobernante y ayuda; muere.
-6. Go Gunhee muere? (ver Dudas).
+6. Muerte de Go Gunhee en este periodo (ver Dudas).
 
 PELEAS DEL ARCO:
 1. Escarcha vs Christopher Reed — EE.UU. — Reed muere.
 2. Jinwoo vs Rakan — Corea — Jinwoo gana.
-3. Jinwoo vs Sillad — ? — Jinwoo gana.
+3. Jinwoo vs Sillad — lugar no confirmado — Jinwoo gana.
 4. Monarcas vs cazadores — varias — bajas masivas.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:

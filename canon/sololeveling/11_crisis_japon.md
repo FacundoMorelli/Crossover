@@ -5,7 +5,7 @@ LUGARES: Japón (Tokio y otras ciudades); Puerta de los gigantes.
 DURACIÓN EN LA HISTORIA: días.
 
 PERSONAJES PRESENTES:
-- Sung Jinwoo, su ejército (Igris, Beru, Tusk, Iron, Greed? etc.).
+- Sung Jinwoo, su ejército (Igris, Beru, Tusk, Iron y otros).
 - Gigantes (de una Puerta de rango S en Japón; ruptura).
 - Legia — Rey de los Gigantes / Monarca del Principio (ver Dudas).
 - Cazadores japoneses.

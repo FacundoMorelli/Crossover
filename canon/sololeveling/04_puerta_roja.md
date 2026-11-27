@@ -8,7 +8,7 @@ PERSONAJES PRESENTES:
 - Sung Jinwoo.
 - Kim Chul — cazador de rango A del Gremio Tigre Blanco; arrogante.
 - Aprendices del Gremio Tigre Blanco (cazadores nuevos).
-- Han Song-Yi — aprendiz (rango E? ver Dudas).
+- Han Song-Yi — aprendiz (rango no confirmado).
 - Elfos de hielo; Baruka — jefe de los elfos de hielo (rango alto).
 - Osos de hielo.
 

@@ -9,7 +9,7 @@ PERSONAJES PRESENTES:
 - Kurose y Tendo (falsos, impostores; ver QUÉ PASA).
 - Hermanos americanos (3, pacto con Demonio Piel; hermano impostor).
 - Tolka y su maestro (URSS) — pacto con el Demonio Maldición (clavos).
-- Quanxi — primera cazadora de demonios del mundo; híbrida Ballesta; con 4 fiends amantes (incluida Cosmos/Pingtsi?).
+- Quanxi — primera cazadora de demonios del mundo; híbrida Ballesta; con 4 fiends que la acompañan (entre ellas Cosmos; nombres del resto: ver Dudas).
 - Pingtsi, Long, Cosmos, Fiend Momo (ver Dudas por nombres).
 - Santa Claus (Alemania) — pacto con el Demonio Muñeca y luego Demonio del Infierno; convierte personas en muñecos.
 - Demonio de la Oscuridad — uno de los Primordiales (Miedos Primordiales), en el Infierno.
@@ -22,13 +22,13 @@ QUÉ PASA:
 4. Santa Claus convierte a cientos de civiles en muñecos que atacan.
 5. El maestro de Tolka pone un clavo maldito en Denji (ver Dudas).
 6. Kishibe parlamenta con Quanxi (ex compañera).
-7. Santa Claus invoca al Demonio del Infierno: todos (Denji, Power, Aki, Quanxi, Santa, Kishibe?, etc.) son transportados al Infierno.
+7. Santa Claus invoca al Demonio del Infierno: todos los presentes (Denji, Power, Aki, Quanxi, Santa y otros) son transportados al Infierno.
 8. En el Infierno, el Demonio de la Oscuridad aparece y arranca los brazos de todos (los humanos y demonios). Santa Claus pacta con él (le da su cuerpo; obtiene su poder).
-9. Makima se salva sacrificando a Tolka (Tolka voluntario; maestro? ver Dudas). Makima vuelve.
+9. Makima se salva sacrificando a Tolka (detalle del sacrificio: ver Dudas). Makima vuelve.
 10. Quanxi se convierte en Ballesta y pelea junto a Chainsaw Man contra Santa (Infierno/Oscuridad).
 11. Vuelven a la Tierra. Santa debilitada; el Fiend Cosmos la atrapa en una "biblioteca" mental y le rompe la mente (Halloween).
 12. Quanxi se rinde a Kishibe. Makima mata a Quanxi y a dos fiends.
-13. Denji se rocía con gasolina y se prende fuego para derrotar a Santa Claus (que solo se regenera con calor? debilidad a llamas), la parte en trozos.
+13. Denji se rocía con gasolina y se prende fuego para derrotar a Santa Claus (Santa, con el poder de la Oscuridad, es débil a la luz: el fuego de Denji la anula) y la despedaza.
 
 PELEAS DEL ARCO:
 1. División 4 vs asesinos (varios) — Tokio — múltiples bajas.

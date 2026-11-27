@@ -4,5 +4,5 @@
 - CLASES: Tanque, Luchador, Asesino, Mago, Sanador, etc.
 - SISTEMA DE JINWOO: niveles, estadísticas, habilidades, misiones, tienda; creado por el Arquitecto para preparar al recipiente de Ashborn.
 - SOMBRAS: Extracción de Sombras (Arise), rangos de sombras: Soldado, Élite, Caballero, Élite Caballero, Comandante, Mariscal, Gran Mariscal. Inmortales mientras el Monarca viva.
-- MONARCAS: 9 (Sombras, Destrucción, Escarcha, Bestias, Plagas, Hierro, Principio, Transfiguración, Llamas Blancas). Gobernantes: seres de luz enemigos de los Monarcas.
-DUDAS: lista exacta de los 9 Monarcas según traducción.
+- MONARCAS: 9 — Sombras (Ashborn), Destrucción (Antares), Escarcha (Sillad), Colmillos de Bestia (Rakan), Plagas (Querehsha), Cuerpo de Hierro (Tarnak), Principio (Legia), Transfiguración (Yogumunt), Llamas Blancas (Baran). Gobernantes: seres de luz enemigos de los Monarcas.
+DUDAS: los nombres de los Monarcas varían según la traducción.

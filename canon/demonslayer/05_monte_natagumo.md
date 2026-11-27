@@ -9,7 +9,7 @@ PERSONAJES PRESENTES:
 - Nezuko Kamado — demonio.
 - Zenitsu Agatsuma — Mizunoto. Respiración del Trueno.
 - Inosuke Hashibira — Mizunoto. Respiración de la Bestia.
-- Murata — cazador de rango superior (Kanoe?; ver Dudas), sobreviviente del grupo enviado antes.
+- Murata — cazador de rango superior (rango no especificado en el manga; ver Dudas), sobreviviente del grupo enviado antes.
 - Cazadores del grupo inicial — manipulados como marionetas; mayoría muere.
 - "Familia" de arañas (demonios que Rui reunió y obliga a actuar de familia):
   - Madre Araña — hilos que controlan cuerpos como marionetas.

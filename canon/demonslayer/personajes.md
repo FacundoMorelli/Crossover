@@ -2,7 +2,7 @@
 (Edad al inicio de la obra o al aparecer, según Fanbook oficial.)
 
 ## Protagonistas
-- TANJIRO KAMADO — 13 (15 tras entrenamiento). Cuerpo de Cazadores (Mizunoto → Kinoe? ver Dudas). Respiración del Agua; Hinokami Kagura/Respiración del Sol; Marca; Mundo Transparente; olfato sobrehumano; cabeza dura.
+- TANJIRO KAMADO — 13 (15 tras entrenamiento). Cuerpo de Cazadores (Mizunoto → Kanoe en el arco 8; rango final no indicado). Respiración del Agua; Hinokami Kagura/Respiración del Sol; Marca; Mundo Transparente; olfato sobrehumano; cabeza dura.
   Personalidad: amable hasta con los demonios que mata; responsable de hermano mayor; terco.
   Habla: cortés, directo, emotivo. Muletilla: "¡Soy el hermano mayor, puedo aguantarlo!" (si fuera el segundo no aguantaría). Apodo: "Monjiro/Gonpachiro" (Inosuke lo llama mal).
 - NEZUKO KAMADO — 12. Demonio (aliada del Cuerpo). Regeneración, cambio de tamaño, Sangre Explosiva, forma despertada, inmunidad al sol (desde cap. 126). Vuelve humana (cap. 196).
@@ -10,7 +10,7 @@
   Habla: casi nada (bozal de bambú); "Mmm"; desde el arco 9 frases simples ("Buenos días").
 - ZENITSU AGATSUMA — 16. Cuerpo de Cazadores. Respiración del Trueno (solo 1.ª forma y la 7.ª propia). Oído sobrehumano.
   Personalidad: cobarde, llorón, mujeriego; valiente y letal al dormirse/desmayarse. Enamorado de Nezuko.
-  Habla: gritos, quejas exageradas. Muletilla: "¡Voy a morir!". Apodo: "Chuitsu" (Inosuke? ver Dudas).
+  Habla: gritos, quejas exageradas. Muletilla: "¡Voy a morir!". Apodo: "Monitsu" (así lo llama Inosuke).
 - INOSUKE HASHIBIRA — 15. Cuerpo de Cazadores. Respiración de la Bestia (autodidacta, dos espadas melladas), percepción espacial, flexibilidad extrema.
   Personalidad: salvaje, competitivo, criado por jabalíes; se ablanda con la amabilidad ("Hohohoho").
   Habla: grita "¡Ataque de cerdo/jabalí! ¡Boar Rush!", llama mal a todos. Muletilla: "¡Inosuke-sama!" (se nombra a sí mismo).
@@ -35,7 +35,7 @@
 ## Otros aliados
 - KAGAYA UBUYASHIKI — 23. Líder ("Oyakata-sama"). Enfermo por la maldición familiar (los varones mueren antes de los 30). Calma absoluta, intuición profética.
 - SAKONJI UROKODAKI — ex Pilar del Agua; cultivador. Máscara de tengu. Estricto y tierno.
-- TAMAYO — demonio médica, ~400+ años (convertida en el periodo Sengoku? ver Dudas). Seria, elegante.
+- TAMAYO — demonio médica, más de 400 años (ya era demonio en la era Sengoku, cuando Yoriichi la encontró con Muzan). Seria, elegante.
 - YUSHIRO — demonio, siervo de Tamayo. Gruñón con todos menos con ella ("Tamayo-sama es hermosa").
 - HOTARU HAGANEZUKA — herrero. Explosivo, persigue a Tanjiro con cuchillos ("¡Te mataré!").
 - AOI KANZAKI — ayudante de la Mansión Mariposa. Gruñona, eficiente.
@@ -44,7 +44,7 @@
 
 ## Demonios
 - MUZAN KIBUTSUJI — más de 1000 años. Rey Demonio; progenitor. Narcisista, cobarde, perfeccionista. Habla: fría, amenazante; castiga cualquier contradicción ("¿Me estás contradiciendo?").
-- KOKUSHIBO (Michikatsu Tsugikuni) — LS1; ~460 años como demonio? (ver linea_de_tiempo). Seis ojos. Respiración de la Luna. Solemne, guerrero; envidia a su hermano.
+- KOKUSHIBO (Michikatsu Tsugikuni) — LS1; más de 400 años como demonio (ver linea_de_tiempo). Seis ojos. Respiración de la Luna. Solemne, guerrero; envidia a su hermano.
 - DOUMA — LS2. Líder de la secta "Paraíso de la Eterna Felicidad". Sin emociones, falsamente alegre. Habla: cortés y burlón.
 - AKAZA (Hakuji) — LS3. Artes marciales. Odia a los débiles, respeta a los fuertes, nunca come mujeres. Habla: invita a todos a ser demonios ("¡Hazte demonio!").
 - HANTENGU — LS4 (hasta cap. 126). Anciano cobarde que se victimiza ("¡Qué cruel!").
@@ -56,5 +56,5 @@
 - RUI — LI5. Niño que busca "lazos familiares".
 
 DUDAS:
-- El rango exacto de Tanjiro al final: el manga muestra el cambio de rango en el arco del Distrito Rojo (Kanoe); no se confirma después.
-- Edad de Tamayo: no se da la cifra exacta; fue convertida por Muzan hace siglos.
+- El rango de Tanjiro después del arco 8 no se vuelve a indicar.
+- Edad de Tamayo: no se da la cifra exacta.

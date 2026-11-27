@@ -16,7 +16,7 @@ QUÉ PASA:
 2. Makima (en casa de Denji) dispara (bang) a Power y la mata ante Denji para romper su espíritu.
 3. Makima revela: es el Demonio del Control; quiere a Pochita (Demonio Motosierra/"Héroe del Infierno") cuyo poder borra de la existencia a los demonios que come. Rompió el pacto de Denji: el sueño de Denji (vida normal) quedó destruido, así Pochita tendría el control.
 4. Se revelan los Cuatro Jinetes (Control, Guerra, Hambre, Muerte).
-5. Kishibe intenta detenerla con el Demonio del Infierno (pacto) — falla; Pochita (Chainsaw Man) despierta en el cuerpo de Denji, va al Infierno en su lugar? (ver Dudas).
+5. Kishibe intenta detenerla con el Demonio del Infierno (pacto) — falla; Pochita (Chainsaw Man) despierta en el cuerpo de Denji (secuencia exacta: ver Dudas).
 6. Pochita (forma verdadera, Chainsaw Man negro) corta a Makima. Denji (corazón) se va con Kobeni a Family Burger.
 7. Makima reúne su ejército: Katana Man, humanos-arma, Quanxi revivida, otros.
 8. Pochita es lanzado a la órbita y vuelve lanzando su corazón; atrapa enemigos con cadenas.
@@ -37,7 +37,7 @@ PELEAS DEL ARCO:
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
 - Makima (Control): controla a cualquiera que considere inferior a ella (la mayoría de seres); ataques a distancia; no puede morir por daños mientras el pacto con el primer ministro transfiere los daños; revive.
-- Pochita (Demonio Motosierra verdadero): comer demonios los borra de la existencia (y lo que representaban, p. ej. el nazismo, la guerra nuclear, la Muerte? — Makima menciona varios conceptos borrados). Héroe del Infierno (los demonios lo temen).
+- Pochita (Demonio Motosierra verdadero): comer demonios los borra de la existencia (y el concepto que representaban; Makima menciona varios conceptos borrados de la historia, entre ellos los nazis y las armas nucleares). Héroe del Infierno (los demonios lo temen).
 - Power: sobrevive como sangre dentro de Denji (temporalmente).
 
 ORGANIZACIONES Y BANDOS:

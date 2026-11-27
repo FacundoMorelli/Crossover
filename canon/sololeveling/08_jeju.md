@@ -6,17 +6,17 @@ DURACIÓN EN LA HISTORIA: ~1–2 días.
 
 PERSONAJES PRESENTES:
 - Sung Jinwoo.
-- Cazadores rango S de Corea: Choi Jong-In, Cha Hae-in, Baek Yoonho (Gremio Bestia Blanca; transformación bestia), Min Byung-Gyu (sanador rango S), Lim Taegyu?, otros (ver Dudas).
-- Cazadores japoneses (Goto Ryuji, rango S de Japón — muerto aquí? ver Dudas).
+- Cazadores rango S de Corea: Choi Jong-In, Cha Hae-in, Baek Yoonho (Gremio Bestia Blanca; transformación bestia), Min Byung-Gyu (sanador rango S), otros (lista completa: ver Dudas).
+- Cazadores japoneses (Goto Ryuji, rango S de Japón; ver Dudas sobre su muerte).
 - Hormigas, Reina Hormiga, Rey Hormiga (luego Beru).
 
 QUÉ PASA:
 1. La Asociación organiza la incursión a Jeju con 18 cazadores S/A coreanos (tras fracasos previos).
 2. Matan a la Reina Hormiga.
 3. Nace el Rey Hormiga, de poder superior; masacra cazadores. Min Byung-Gyu muere.
-4. Jinwoo llega (por Intercambio de Sombras con una sombra en Cha Hae-in? ver Dudas) y pelea con el Rey Hormiga.
+4. Jinwoo llega (por Intercambio de Sombras con una sombra que había dejado junto a Cha Hae-in; ver Dudas) y pelea con el Rey Hormiga.
 5. Jinwoo derrota al Rey Hormiga y lo extrae: Beru.
-6. Jinwoo extrae también a hormigas y a Min Byung-Gyu? (no: rechaza extraer a humanos aliados; ver Dudas).
+6. Jinwoo extrae también a numerosas hormigas.
 
 PELEAS DEL ARCO:
 1. Cazadores coreanos vs Reina Hormiga — Jeju — Reina muere.
@@ -28,7 +28,7 @@ PODERES MOSTRADOS POR PRIMERA VEZ:
 - Baek Yoonho: transformación en bestia.
 
 ORGANIZACIONES Y BANDOS:
-- Asociación (Go Gunhee), gremios; cazadores japoneses (Gremio Lobo? ver Dudas).
+- Asociación (Go Gunhee), gremios; cazadores japoneses.
 
 MUERTES Y BAJAS:
 - Min Byung-Gyu — Rey Hormiga.

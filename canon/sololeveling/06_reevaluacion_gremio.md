@@ -10,21 +10,21 @@ PERSONAJES PRESENTES:
 - Woo Jinchul — jefe de Vigilancia de la Asociación.
 - Cha Hae-in — rango S, vicemaestra del Gremio de Cazadores ("Espada"). Sensible a los olores de maná (Jinwoo no le huele mal).
 - Choi Jong-In — rango S, maestro del Gremio de Cazadores (magia de fuego).
-- Kargalgan — chamán orco alto (jefe de la Puerta); Tusk — chamán orco.
+- Kargalgan — chamán orco alto, jefe de la Puerta (Jinwoo lo extrae y lo llama "Tusk").
 - Orcos altos.
 
 QUÉ PASA:
 1. La Asociación reevalúa a Jinwoo: rango S (décimo cazador de rango S de Corea; ver Dudas). Los gremios lo cortejan.
 2. Jinwoo se une temporalmente a una incursión del Gremio de Cazadores (rango A) como "colaborador".
 3. Cha Hae-in nota que Jinwoo no huele mal (otros cazadores sí).
-4. Jinwoo derrota a orcos altos y al chamán Kargalgan; extrae a Tusk/Kargalgan como sombras (ver Dudas).
+4. Jinwoo derrota a los orcos altos y al chamán Kargalgan; lo extrae como sombra con el nombre Tusk.
 
 PELEAS DEL ARCO:
 1. Jinwoo vs orcos altos — Puerta de rango A — Jinwoo gana.
 2. Jinwoo vs Kargalgan — Puerta — Jinwoo gana.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
-- Tusk (sombra mago): magia de gravedad/protección.
+- Tusk (sombra mago, ex Kargalgan): magia de gravedad/protección.
 - Cha Hae-in: espada; "Danza de la Espada"; olfato de maná.
 - Choi Jong-In: magia de fuego (meteoritos).
 
@@ -45,5 +45,4 @@ QUÉ CAMBIA DESPUÉS:
 - Jinwoo con reputación.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Si la sombra mago es Tusk o Kargalgan: en la novela se extrae al chamán (llamado Tusk); el jefe era Kargalgan. Fuentes difieren.
 - Número de rango S de Corea al momento: no confirmado.

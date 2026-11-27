@@ -51,7 +51,7 @@ PELEAS DEL ARCO:
 PODERES MOSTRADOS POR PRIMERA VEZ:
 - Douma: Arte de Sangre de Hielo (Kekkijutsu: Polvo de Hielo Helado, Loto Congelado, Bodhisattva Helado gigante, Dama de Hielo; abanicos dorados); su sangre/aliento congelado daña pulmones.
 - Kokushibo: Respiración de la Luna (16 formas; ver sistema_de_poder) + Arte de Sangre (espada de carne que crece con ojos); Mundo Transparente; Marca (como humano).
-- Akaza: Destrucción Asesina variantes (Aniquilación Final? "Luna Inferior: Destrucción Asesina: Final"; ver Dudas).
+- Akaza: técnicas avanzadas de Destrucción Asesina contra Giyu y Tanjiro (nombres exactos: ver Dudas).
 - Kaigaku: Respiración del Trueno (formas 2–6) potenciada con Arte de Sangre (rayos que se extienden).
 - Zenitsu: 7.ª forma del Trueno "Honoikazuchi no Kami" (propia).
 - Tanjiro: Mundo Transparente; Estado Sin Uno Mismo (borra la intención de matar).

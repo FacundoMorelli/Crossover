@@ -7,7 +7,7 @@ DURACIÓN EN LA HISTORIA: ~3 días de infiltración + 1 noche de batalla.
 PERSONAJES PRESENTES:
 - Tengen Uzui — 23 años. Pilar del Sonido. Ex shinobi. Respiración del Sonido. Dos cuchillas unidas por cadena; explosivos.
 - Esposas de Uzui (kunoichi): Makio, Suma, Hinatsuru. Infiltradas en las casas.
-- Tanjiro Kamado ("Sumiko") — infiltrado en Casa Tokito. Rango Kanoe? (ver Dudas).
+- Tanjiro Kamado ("Sumiko") — infiltrado en Casa Tokito. Rango Kanoe (el trío lo muestra a Uzui en este arco).
 - Zenitsu Agatsuma ("Zenko") — Casa Kyogoku.
 - Inosuke Hashibira ("Inoko") — Casa Ogimoto.
 - Nezuko Kamado — demonio.
@@ -50,7 +50,7 @@ PELEAS DEL ARCO:
 5. Uzui + Tanjiro vs Gyutaro; Zenitsu + Inosuke vs Daki — Yoshiwara — ambos decapitados a la vez; victoria del Cuerpo.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
-- Uzui: Respiración del Sonido (derivada del Trueno): 1.ª Rugido (Todoroki), 4.ª Retumbe Constante, 5.ª Coro de Tambores (Kyōmei Mesōsetsu?; ver Dudas); "Partitura" (Fumen): decodifica ritmos del enemigo en una partitura para anticipar ataques. Usa explosivos.
+- Uzui: Respiración del Sonido (derivada del Trueno): 1.ª Rugido (Todoroki), 4.ª Cortes Resonantes Constantes, 5.ª Interpretación de Cuerdas (nombres según traducción; ver Dudas); "Partitura" (Fumen): decodifica ritmos del enemigo en una partitura para anticipar ataques. Usa explosivos.
 - Daki: Arte de Sangre de los obi (fajas que almacenan humanos, cortan y extienden); al absorber obis aumenta su poder; su cabello cambia a blanco al despertar plenamente.
 - Gyutaro: Arte de Sangre "Hoces de Sangre" (Chigama): sangre venenosa que lanza como hoces; "Hoces Giratorias Volantes"; "Garras de Sangre".
 - Tanjiro: Marca del Cazador de Demonios (activada con ritmo cardíaco >200 y temperatura corporal >39 °C; ver arco 10); "Danza del Dios del Fuego: Llamas Giratorias/Sol Embaído" variantes.

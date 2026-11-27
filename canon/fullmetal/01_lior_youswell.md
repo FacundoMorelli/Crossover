@@ -23,7 +23,7 @@ QUÉ PASA:
 1. Prólogo (recuerdo): Trisha Elric muere. Ed (11) y Al (10) intentan transmutación humana para revivirla. Ed pierde la pierna izquierda; Al pierde todo el cuerpo. Ed sacrifica su brazo derecho para ligar el alma de Al a una armadura.
 2. Lior: los hermanos buscan la Piedra Filosofal. Descubren que Cornello usa una piedra falsa; graban su confesión y la transmiten a la ciudad.
 3. La piedra falsa se desintegra al sobreusarla (rebote). Cornello cae.
-4. Lust y Gluttony aparecen; Gluttony mata (come) a Cornello; Lust toma su apariencia/ocupa su lugar? (ver Dudas). La ciudad queda en tensión.
+4. Lust y Gluttony aparecen; Lust mata a Cornello y Gluttony se lo come (ver Dudas). Más adelante Envy se hace pasar por Cornello para empujar a Lior a la guerra civil.
 5. Youswell: Ed se disfraza; descubre que Yoki explota a los mineros con impuestos. Ed compra legalmente la mina con oro transmutado y la "vende" de nuevo al pueblo.
 6. Tren: terroristas (Bald) toman el tren con el general Hakuro. Ed y Al lo recuperan. Bald escapa con un arma oculta en su automail; Mustang lo quema con su alquimia.
 
@@ -48,7 +48,7 @@ ORGANIZACIONES Y BANDOS:
 MUERTES Y BAJAS:
 - Trisha Elric (pasado, enfermedad).
 - Cornello — comido por Gluttony.
-- Bald? — sobrevive quemado (ver Dudas).
+- Bald — sobrevive quemado y es arrestado (ver Dudas).
 
 MOMENTOS CLAVE / GIROS:
 - Ley del Intercambio Equivalente.

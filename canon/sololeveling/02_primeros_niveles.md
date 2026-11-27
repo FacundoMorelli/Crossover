@@ -1,16 +1,15 @@
 # Mazmorras Instantáneas, Prisioneros y Yoo Jinho
 CAPÍTULOS: 13–45 (subarcos: Mazmorra Instantánea 13–16; Mazmorra y Lagartos 17–24; Mazmorra y Prisioneros 25–35; Grupo de Yoo Jinho 36–45)
 AÑO / FECHA: Igual que arco 1, semanas después.
-LUGARES: Seúl; mazmorras instantáneas (solo para Jinwoo); Puertas de rango C/D; mazmorra con lagartos; Puerta con prisioneros (convictos usados como cebo); Puerta de rango C con la Arana/araña reina? (ver Dudas).
+LUGARES: Seúl; mazmorras instantáneas (solo para Jinwoo); Puertas de rango C/D; mazmorra con lagartos; Puerta con prisioneros (convictos usados como cebo).
 DURACIÓN EN LA HISTORIA: semanas.
 
 PERSONAJES PRESENTES:
 - Sung Jinwoo — sube de nivel ~10 → ~25+.
-- Kim Sangshik? / grupos de incursión.
-- Kang Taeshik — inspector de la Asociación (rango B? ver Dudas), asesino de cazadores; usa la Puerta para matar a otros.
+- Grupos de incursión varios.
+- Kang Taeshik — inspector de la Asociación (rango no confirmado), asesino de cazadores; usa la Puerta para matar a otros.
 - Yoo Jinho — 20s; hijo del presidente de Yoojin Construction; rango D; contrata a Jinwoo para que lo ayude a completar incursiones.
 - Hwang Dongsuk — cazador que intenta matar a Jinwoo y Yoo Jinho; hermano menor de Hwang Dongsoo (cazador rango S en EE.UU.).
-- Kim Chul? (aparece en el arco 4).
 - Prisioneros convictos.
 
 QUÉ PASA:
@@ -28,7 +27,7 @@ PELEAS DEL ARCO:
 4. Jinwoo vs Hwang Dongsuk y grupo — Puerta — Jinwoo gana; mueren.
 
 PODERES MOSTRADOS POR PRIMERA VEZ:
-- Jinwoo: Sprint (velocidad), Golpe Mortal/Daga del Asesino? (ver Dudas), Sigilo (invisibilidad), Intención Asesina ("Bloodlust"): paraliza.
+- Jinwoo: Sprint (velocidad), Golpe Vital (nombre según traducción), Sigilo (invisibilidad), Intención Asesina ("Bloodlust"): paraliza.
 - Kang Taeshik: velocidad y asesinato (Agilidad alta).
 
 ORGANIZACIONES Y BANDOS:

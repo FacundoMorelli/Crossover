@@ -19,7 +19,7 @@ QUÉ PASA:
 4. Giyu se niega a entrenar con el resto. Tanjiro lo persigue días. Giyu confiesa que no se siente digno de ser Pilar: en la Selección Final fue salvado por Sabito (que murió). Tanjiro le recuerda palabras de Sabito; Giyu acepta participar.
 5. Tanjiro con Sanemi: Sanemi golpea a Genya; Tanjiro pelea con Sanemi. Zenitsu llega, recibe carta: su maestro Jigoro Kuwajima se suicidó por seppuku porque su otro alumno Kaigaku se convirtió en demonio. Zenitsu cambia de actitud.
 6. Tanjiro con Gyomei: empujar una roca 1 cho (~109 m). Tanjiro lo logra. Gyomei cuenta su pasado (templo con niños huérfanos; un niño — Sayo — lo culpó de matar a los niños; Gyomei mató al demonio a golpes).
-7. Amane visita a Tamayo y le pide cooperación; Tamayo y Shinobu desarrollan un fármaco para convertir demonios en humanos (usa sangre de Nezuko y de las Lunas).
+7. Kagaya contacta a Tamayo mediante un cuervo mensajero y le pide cooperación (ver Dudas); Tamayo y Shinobu desarrollan un fármaco para convertir demonios en humanos (usa sangre de Nezuko y de las Lunas).
 8. Muzan encuentra la Mansión Ubuyashiki.
 
 PELEAS DEL ARCO:
@@ -53,4 +53,5 @@ QUÉ CAMBIA DESPUÉS:
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
 - Duración exacta no dada.
 - El orden de las etapas puede variar según fuente (se tomó el del manga).
+- Quién lleva el pedido a Tamayo (cuervo de Kagaya) no se cruzó con segunda fuente.
 - El límite del arco (136 vs 139): acá se cierra en 136 y el ataque a la mansión abre el siguiente.

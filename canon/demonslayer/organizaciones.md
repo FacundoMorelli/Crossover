@@ -1,7 +1,7 @@
 # Organizaciones — Demon Slayer
 
 ## Cuerpo de Cazadores de Demonios (Kisatsutai)
-- LÍDER: Kagaya Ubuyashiki (97.º? líder; ver Dudas) → Kiriya Ubuyashiki (tras cap. 137).
+- LÍDER: Kagaya Ubuyashiki (97.º líder según el fanbook) → Kiriya Ubuyashiki (tras cap. 137).
 - MIEMBROS FUERTES: 9 Pilares; Tsugukos (Kanao); trío de Tanjiro.
 - OBJETIVO: exterminar demonios y matar a Muzan. No reconocido por el gobierno (~1000 años de existencia).
 - APOYO: Kakushi (limpieza, rescate); Aldea de Herreros (espadas); Casas de la Glicina; cuervos Kasugai; Mansión Mariposa (hospital).
@@ -24,7 +24,7 @@
 ## Aldea de Herreros
 - LÍDER: Tecchikawahara Tecchin (jefe). Ubicación secreta. Máscaras hyottoko.
 
-## Secta "Paraíso de la Eterna Felicidad" (Bankokuya? ver Dudas)
+## Secta "Fe del Paraíso Eterno" (Banseigokuraku-kyō)
 - LÍDER: Douma. Fachada religiosa para comer fieles (en especial mujeres).
 
 ## Familia Tsugikuni (pasado)
@@ -35,4 +35,4 @@
 
 DUDAS:
 - Número ordinal de Kagaya como líder: el fanbook dice 97.º; no confirmado en el manga.
-- Nombre de la secta de Douma: traducido como "Culto del Paraíso Eterno" (Bankoku? no confirmado).
+- Nombre de la secta de Douma: la traducción varía ("Fe del Paraíso Eterno" / "Culto del Paraíso Eterno").

@@ -34,7 +34,7 @@ QUÉ PASA:
 17. Dentro de la mente de Tanjiro, Muzan intenta retenerlo; las manos de sus aliados (vivos y muertos) lo sacan. Tanjiro vuelve a ser humano (cap. 203). Nezuko lo abraza.
 18. Kiriya declara la disolución del Cuerpo (cap. 204). Sobrevivientes: Tanjiro (pierde uso del brazo izquierdo y vista del ojo derecho), Giyu (pierde el brazo derecho), Sanemi (pierde dedos), Zenitsu, Inosuke, Kanao, Nezuko, Tengen (retirado), Yushiro (sobrevive; pinta a Tamayo).
 19. Tanjiro, Nezuko, Zenitsu e Inosuke vuelven a la casa Kamado en la montaña.
-20. Epílogo (205): Tokio moderno. Descendientes y reencarnaciones: Kanata y Sumihiko Kamado (bisnietos de Tanjiro y Kanao), Yoshiteru Agatsuma (descendiente de Zenitsu y Nezuko), Aoba Hashibira (de Inosuke y Aoi), Toko Kamado, reencarnaciones de Pilares. Kiriya Ubuyashiki sigue vivo (hombre más longevo de Japón). Yushiro sigue vivo como pintor. Se exhiben las espadas en un museo (ver Dudas).
+20. Epílogo (205): Tokio moderno. Descendientes y reencarnaciones: Kanata y Sumihiko Kamado (bisnietos de Tanjiro y Kanao), Yoshiteru Agatsuma (descendiente de Zenitsu y Nezuko), Aoba Hashibira (de Inosuke y Aoi), Toko Agatsuma (hermana de Yoshiteru), reencarnaciones de Pilares. Kiriya Ubuyashiki sigue vivo (hombre más longevo de Japón). Yushiro sigue vivo como pintor. Se exhiben las espadas en un museo (ver Dudas).
 
 PELEAS DEL ARCO:
 1. Todos los cazadores vs Muzan — calles de Tokio — Muzan muere por el sol.
@@ -54,7 +54,7 @@ MUERTES Y BAJAS:
 - Tamayo — absorbida por Muzan.
 - Muzan Kibutsuji — sol.
 - Gyomei Himejima, Obanai Iguro, Mitsuri Kanroji — heridas.
-- Chachamaru (gato) — muerto? (ver Dudas).
+- Chachamaru (gato de Tamayo) — destino no confirmado (ver Dudas).
 - Muchos cazadores y Kakushi.
 
 MOMENTOS CLAVE / GIROS:

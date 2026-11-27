@@ -6,14 +6,14 @@
 - ROY MUSTANG — 29. Coronel; Alquimista de la Llama. Ambicioso (quiere ser Führer), protector. Habla: sarcástico, "Fullmetal". Apodo: "Coronel inútil bajo la lluvia" (Hawkeye: "Inútil").
 - RIZA HAWKEYE — 25. Primera teniente; francotiradora; guardiana de la investigación de la llama de su padre (tatuaje en la espalda). Serena, leal. Habla: seca y formal.
 - MAES HUGHES — 29. Teniente coronel, Investigación. Obsesionado con su hija Elicia. Habla: alegre; muestra fotos.
-- ALEX LOUIS ARMSTRONG — 31? (ver Dudas). Mayor, "Brazo Fuerte". Emotivo, se quita la camisa. Habla: "¡Técnica transmitida en la familia Armstrong por generaciones!".
+- ALEX LOUIS ARMSTRONG — edad no confirmada (ver Dudas). Mayor, "Brazo Fuerte". Emotivo, se quita la camisa. Habla: "¡Técnica transmitida en la familia Armstrong por generaciones!".
 - OLIVIER MIRA ARMSTRONG — general de Briggs. Dura, "la supervivencia del más fuerte". Habla: órdenes cortantes.
 - IZUMI CURTIS — maestra. Feroz, enferma (tose sangre). Habla: "¡Soy un ama de casa!".
 - VAN HOHENHEIM — ~400+ años. Piedra Filosofal viviente. Tranquilo, culpable. Habla: torpe con sus hijos.
-- SCAR — ~30s? Ishvalano; destrucción/reconstrucción. Vengativo → redimido. Habla: "Dios" (Ishvala), poca palabra.
+- SCAR — edad no dada. Ishvalano; destrucción/reconstrucción. Vengativo → redimido. Habla: "Dios" (Ishvala), poca palabra.
 - LING YAO — 15. Príncipe de Xing; Greed comparte su cuerpo. Glotón, bromista, astuto. Habla: casual; se desmaya de hambre.
-- LAN FAN — 15? Guardaespalda; automail de brazo. Leal, seria.
-- MAY CHANG — 15? Princesa; alkahestria. Enamorada idealizadamente de Al.
+- LAN FAN — edad no confirmada. Guardaespalda; automail de brazo. Leal, seria.
+- MAY CHANG — niña, edad no confirmada. Princesa; alkahestria. Enamorada idealizadamente de Al.
 - TIM MARCOH — médico, "Alquimista del Cristal"; culpable por Ishval.
 - KING BRADLEY (Wrath) — 60. Führer; Ojo Definitivo. Humano convertido. Cortés y aterrador.
 - PADRE ("Homúnculo del frasco") — siglos. Busca convertirse en Dios. Frío.

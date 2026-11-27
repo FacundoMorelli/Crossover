@@ -23,7 +23,7 @@ QUÉ PASA:
 4. Katana Man corta a Aki y destripa a Denji. Kobeni mata a varios atacantes con su agilidad.
 5. Himeno entrega todo su cuerpo al Fantasma para enfrentar a Katana Man; el Fantasma la devora; Himeno muere.
 6. Sawatari usa la Serpiente para tragar al Fantasma.
-7. Denji se levanta como Chainsaw Man; Katana Man y Sawatari escapan con Denji y Power? (ver Dudas).
+7. Denji se levanta como Chainsaw Man; Katana Man y Sawatari se retiran (desenlace exacto: ver Dudas).
 8. Makima sobrevive en Kioto: mata a sus agresores (aplastándolos a distancia); se revela que sus heridas sanan. Mata a los asesinos con la vida de prisioneros.
 9. Makima coacciona al patriarca yakuza mostrando una bolsa de ojos de sus familiares; obtiene la ubicación de Katana Man.
 10. Kishibe entrena a Denji y Power matándolos y reviviéndolos.
@@ -72,5 +72,5 @@ QUÉ CAMBIA DESPUÉS:
 - Aki más dañado (años de vida gastados).
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- Paso 7: en el manga Katana Man y Sawatari se llevan el corazón/cuerpo de Denji? → Wikipedia no lo detalla; se marca dudoso el desenlace exacto del ataque.
+- Paso 7: Wikipedia no detalla cómo termina el ataque; desenlace exacto dudoso.
 - Muerte de Sawatari: Wikipedia dice que la mata la serpiente; otras fuentes dicen que muere en custodia. Dudoso.

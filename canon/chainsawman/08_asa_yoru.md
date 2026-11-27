@@ -1,6 +1,6 @@
 # Asa y Yoru
 CAPÍTULOS: 98–112 (vol. 12–13)
-AÑO / FECHA: ~1998? (Parte 2; tiempo después de la Parte 1; ver Dudas).
+AÑO / FECHA: Parte 2, tiempo después de la Parte 1 (año no confirmado; ver Dudas).
 LUGARES: Academia Fourth East (Cuarta Este) — escuela de Asa y Denji; Tokio; departamento de Denji.
 DURACIÓN EN LA HISTORIA: semanas.
 
@@ -13,7 +13,7 @@ PERSONAJES PRESENTES:
 - Yuko — compañera de Asa; amable (en apariencia).
 - Haruka Iseumi — presidente del Club de Cazadores de Demonios; fan de Chainsaw Man (dice ser él).
 - Presidenta de clase — pacto con el Demonio de la Justicia.
-- Demonio Pollo (Bucky?) — mascota de la clase.
+- Demonio Pollo — mascota de la clase.
 - Demonio Murciélago (nuevo), Demonio Cucaracha.
 - Club de Cazadores de Demonios.
 
@@ -44,7 +44,7 @@ PODERES MOSTRADOS POR PRIMERA VEZ:
 ORGANIZACIONES Y BANDOS:
 - Seguridad Pública (Yoshida).
 - Club de Cazadores de Demonios (estudiantes).
-- Jinetes: Guerra (Yoru), Control (Nayuta), Hambre (?), Muerte.
+- Jinetes: Guerra (Yoru), Control (Nayuta), Hambre (Fami), Muerte.
 
 MUERTES Y BAJAS:
 - Asa (comparte vida con Yoru).

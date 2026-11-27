@@ -13,7 +13,7 @@ PERSONAJES PRESENTES:
 QUÉ PASA:
 1. Cita en el acuario. El Demonio de la Eternidad los atrapa en el acuario (Fami lo maneja según Wikipedia; ver Dudas).
 2. Asa "compra" el acuario por 1 millón de yenes para sentirlo suyo y lo convierte en lanza (arma de Yoru); mata al Demonio de la Eternidad.
-3. Segunda cita: Yoru convierte a Denji en un estado "perro"? (Wikipedia: "dog state"); Nayuta escupe/interviene.
+3. Segunda cita: Wikipedia resume que Yoru deja a Denji en un "estado de perro" y que Nayuta interviene (detalle no confirmado).
 4. Yoshida le dice a Asa que se aleje de Denji.
 5. Al final aparece el Demonio de la Caída (cap. 122).
 
