@@ -68,3 +68,4 @@ DIÁLOGOS CLAVE:
 - T1501 · "¡SÍ!" Tira la toalla al aire y le cae a Milk. "...Perdón, Milk." Se va caminando hacia atrás haciéndole el pulgar a Facundo.
 - T1504 · Dormido en la hamaca del patio, camiseta al revés, roncando.
 - T1505 · Cena: cuenta tres veces lo del Kamehameha (a la tercera era del tamaño de la luna). 05:30 golpea la casita con sombrero de granjero. Ara con ki (surcos derechos como reglas). Tira el sombrero al aire: "¡Terminamos! ¡Y son las diez de la mañana! ¡Tenemos todo el día!"
+- T1506 · Lleva a Facundo al páramo de entrenamiento ("Aquí entrenaba Vegeta antes de la cámara de gravedad. Lo puedes romper todo"). "Ayer te contuviste todo el tiempo. Lo sé. No me importa." Recuerda la Forma Cenit de hace tres años (T192): "¿Me lo muestras otra vez? Quiero ver hasta dónde llega. Aunque sea un ratito."

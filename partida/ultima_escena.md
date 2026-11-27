@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1503)
-
-esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
-
-## RESPUESTA 1 (T1503)
-
-> esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
-
-> —Está bien. Muchas gracias, Goten. Lo voy a guardar y nunca lo voy a perder.
-
-Tomas el dibujo con las dos manos vendadas. Lo miras: el chico de pelo blanco y azul, el gato de dos colores, las dos manos que se tocan aunque una sea una pata. Lo doblas con cuidado, una sola vez, por la mitad, y lo guardas.
-
-Desaparece de tus dedos, hacia ese lugar donde las cosas no se pierden ni se arrugan nunca.
-
-Goten abre los ojos enormes.
-
-—¡¿Dónde se fue?! ¡¿Lo hiciste desaparecer?!
-
-Mira tus manos. Te mira las mangas, por si lo escondiste ahí. Mira debajo de la cama, por si se cayó.
-
-—Está guardado —dice, despacio, como si se lo explicara a sí mismo—. Guardado de verdad. Donde no se pierde.
-
-Se le arma la sonrisa enorme, la de Goku, la que le ocupa toda la cara.
-
-Y se te tira encima. Te abraza por la cintura, fuerte, con los pantalones todavía mojados del arroyo, y te deja dos manchas de agua en el sobretodo. Kase, desde el piso, mira la escena con el mismo desdén con el que miró a Hange.
-
-—¡Goten! —grita Milk desde la cocina—. ¡Ven a cambiarte esos pantalones antes de que te resfríes! ¡Y después la tarea de matemáticas!
-
-—¡Ya voy! —grita Goten, sin soltarte.
-
-No se mueve.
-
-Levanta la cabeza. Te mira desde abajo, con la barbilla apoyada en tu pecho, y baja la voz, como quien cuenta un secreto.
-
-—Oye, Facundo. Mañana, cuando termines de arar con mi papá... ¿me enseñas algo? Algo que no sepa mi papá. —Mira de reojo hacia la puerta—. Trunks dice que su papá le enseñó una técnica nueva. Y yo no tengo ninguna nueva. Ni una.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1503 · DRAGON BALL · AÑO 777 · 13:08   ║
-║ Monte Paoz · cuarto de Goten                 ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · Palmas vendadas   ║
-║ Velo: persona común                          ║
-║ Kase: en el piso, con desdén                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Arar con Goku mañana a las 6 ·     ║
-║ fiesta de Bulma el sábado                    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1504)
+## COMANDO 1 (T1504)
 
 esta bien goten algo se me va a ocurrir para enseñarte
 
-## RESPUESTA 2 (T1504)
+## RESPUESTA 1 (T1504)
 
 > esta bien goten algo se me va a ocurrir para enseñarte
 
@@ -99,11 +46,11 @@ La casa se queda en silencio. Solo se oye a Milk en la cocina, la olla, el arroy
 
 ---
 
-## COMANDO 3 (T1505)
+## COMANDO 2 (T1505)
 
 simula hasta que terminemos de trabajar
 
-## RESPUESTA 3 (T1505)
+## RESPUESTA 2 (T1505)
 
 > simula hasta que terminemos de trabajar
 
@@ -162,4 +109,59 @@ Goku tira el sombrero de granjero al aire. No le cae a nadie en la cara esta vez
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, día 2 de la vuelta, 09:45, campo de abajo del Monte Paoz. Arado terminado; Milk aprueba; pueden entrenar lejos. Goku: "¡Tenemos todo el día!" Fiesta de Bulma en 3 días. Facundo puede actuar.
+## COMANDO 3 (T1506)
+
+vayamos
+
+## RESPUESTA 3 (T1506)
+
+> vayamos
+
+> —Vayamos.
+
+Goku no espera. Se eleva del campo de un salto, y en un segundo ya está a cien metros, arriba, haciéndote señas con el brazo.
+
+—¡Por aquí! ¡Conozco un lugar donde no hay tejas!
+
+Kase te salta al hombro. Subes detrás de Goku.
+
+Vuelan hacia el oeste, por encima de las montañas en punta del Monte Paoz, de los bosques, de un río que se abre en tres brazos. El aire de la mañana está frío arriba y te mueve el pelo blanco y azul. Goku vuela adelante, de espaldas, mirándote, riéndose de nada, dando vueltas en el aire como un chico que se escapó de la escuela.
+
+Después de un rato, el verde se termina.
+
+Abajo empieza un páramo enorme, de roca rojiza y tierra seca, con mesetas planas que se levantan del suelo como mesas gigantes y cañones profundos que las separan. No hay árboles. No hay casas. No hay tejas. Solo viento, polvo, y a lo lejos el sol de la mañana subiendo detrás de las rocas.
+
+Reconoces el lugar. Es el mismo páramo donde peleaste contra Buu hace tres años. Todavía hay cráteres viejos, ya erosionados, cubiertos de polvo.
+
+Goku aterriza en lo alto de una meseta. Se sacude las manos. Se trona el cuello.
+
+—Aquí entrenaba Vegeta antes de que Bulma le hiciera la cámara de gravedad —dice—. Lo puedes romper todo, que no se queja nadie.
+
+Kase baja de tu hombro y se sienta en el borde de la meseta, mirando el cañón como si fuera de su propiedad.
+
+Goku se para frente a ti, a diez pasos. No se pone en guardia todavía. Se queda mirándote, con las manos en la cintura, más serio que ayer. Pensando.
+
+—Ayer te contuviste todo el tiempo —dice—. Incluso cuando te pegué en la cara. Lo sé. No me importa, eh. —Se rasca la nuca—. Pero hoy tengo una pregunta.
+
+Levanta un dedo.
+
+—Esa vez, hace tres años, cuando peleamos de verdad... tú también te transformaste en algo. No en Super Saiyajin. En otra cosa. El pelo para arriba, esas llamas blancas y azules. —Se le encienden los ojos—. Yo nunca vi algo así. Ni Vegeta. ¿Me lo muestras otra vez? Quiero ver hasta dónde llega. Aunque sea un ratito.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1506 · DRAGON BALL · AÑO 777 · 10:15   ║
+║ Páramo de entrenamiento · meseta             ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el borde de la meseta               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Goku · enseñarle algo ║
+║ a Goten · fiesta de Bulma el sábado          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, día 2, 10:15, páramo de entrenamiento. Goku pide ver otra vez la Forma Cenit "hasta dónde llega". Facundo puede decidir.

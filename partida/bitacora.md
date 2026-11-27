@@ -1504,3 +1504,4 @@ T1502 · DRAGON BALL · Cuarto de Goten · Kase no puede ser SSJ "que yo sepa". 
 T1503 · DRAGON BALL · Cuarto de Goten · Guarda el dibujo en el inventario. Abrazo de Goten. "¿Mañana me enseñas algo que no sepa mi papá?"
 T1504 · DRAGON BALL · Cuarto de Goten · Promete enseñarle algo a Goten (sorpresa para Trunks en la fiesta). Tarde tranquila; Goku duerme en la hamaca.
 T1505 · DRAGON BALL · Monte Paoz · SIMULACIÓN: cena y noche en la casita. Aran los dos campos con ki y la Luna antes de las 10. Milk: "Mejor que nunca." Entrenan lejos. Goku: "¡Tenemos todo el día!"
+T1506 · DRAGON BALL · Páramo de entrenamiento · Vuelan al páramo. Goku pide ver otra vez la Forma Cenit: "Quiero ver hasta dónde llega."
