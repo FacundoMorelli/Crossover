@@ -3,93 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1463)
-
-miro
-
-## RESPUESTA 1 (T1463)
-
-> miro
-
-Te quedas donde estás, con Kase en el hombro, y miras.
-
-Ace se pone delante de Sabo. Le pasa un brazo por los hombros y lo empuja un paso hacia adelante, hacia la silla enorme, como quien presenta algo de lo que está muy orgulloso.
-
-—Viejo. Este es Sabo. —Respira hondo—. Mi hermano.
-
-La cubierta se queda en silencio.
-
-—Te hablé de él —dice Ace—. Una vez sola. La noche que me uní. El que murió en el mar cuando éramos chicos.
-
-Barbablanca no dice nada. Mira a Sabo. A la cicatriz de quemadura. Al sombrero de copa.
-
-—No murió —sigue Ace, y se le quiebra un poco la voz, pero sigue—. Lo sacó del agua Dragon, el revolucionario. Perdió la memoria. Doce años sin acordarse de nosotros. Y esta mañana... —Te mira de reojo—. Esta mañana se acordó.
-
-Sabo se quita el sombrero de copa y hace una reverencia corta, educada, perfecta, como le enseñaron de chico en una casa de nobles.
-
-—Un gusto, Barbablanca. Gracias por cuidar a mi hermano todo este tiempo.
-
-Barbablanca lo mira desde arriba un rato larguísimo.
-
-Después se le arma una sonrisa enorme bajo los bigotes blancos.
-
-—Gurarararara... ¡Así que el mocoso pecoso tenía otro hermano escondido! —Golpea el apoyabrazos, y la grieta se agranda—. ¿Y bien, muchacho? ¿Quieres ser mi hijo tú también? En este barco siempre hay lugar.
-
-Doscientos piratas contienen el aire.
-
-Sabo sonríe. Se pone el sombrero.
-
-—Se lo agradezco mucho. Pero ya tengo un lugar. —Lo dice tranquilo, sin ofender—. Un hombre de capa verde que me sacó del mar y nunca me pidió nada. Y dos hermanos. Con eso me alcanza.
-
-Hay un silencio cortito.
-
-Y Barbablanca se ríe más fuerte que antes.
-
-—¡Bien dicho! ¡Un hombre que sabe a quién le debe la vida! —Levanta el bisento—. ¡Escuchen, hijos! ¡Ace volvió, y trajo a su hermano de entre los muertos! ¡Bajen esas armas, idiotas! ¡Esta noche hay fiesta!
-
-La cubierta estalla.
-
-Los fusiles bajan. Las espadas vuelven a las vainas. Alguien grita, alguien tira el sombrero al aire, alguien arrastra la mesa de vuelta al centro. Marco suspira, apaga las llamas de los hombros y le da a Ace un coscorrón en la cabeza que suena como un golpe de madera.
-
-—La próxima vez avisa antes de que te secuestren, yoi.
-
-—¡No sabía!
-
-A los otros barcos de la flota les llega la noticia de mástil en mástil, a gritos y con banderas. Los cañones se esconden. Empiezan a subir barriles de sake por todas las escotillas.
-
-Pasa la tarde.
-
-El sol baja sobre el Nuevo Mundo, rojo y enorme. Encienden antorchas por toda la cubierta. Huele a carne asada, a ron y a pólvora de los fuegos artificiales que alguien prueba antes de tiempo. Ace no se despega de Sabo: le presenta a todo el mundo, comandante por comandante, división por división. Izo le acomoda el pañuelo del cuello. Haruta le pregunta mil cosas sobre el Ejército Revolucionario. Jozu le aprieta la mano y casi se la rompe. Sabo se ríe de todo, con la cara roja, y cada tanto mira a Ace como si todavía no terminara de creérselo.
-
-A ti te traen comida sin que la pidas. Mucha. Una pierna de algo del tamaño de tu brazo, una jarra de sake, pescado, arroz. Alguien le deja a Kase un plato con pescado crudo, y Kase lo come despacio, sobre una caja, ignorando a los tres piratas grandotes que se agachan a mirarlo.
-
-Ya de noche, cuando la fiesta está en su punto más alto, se oye un golpe seco en la cubierta. El bisento contra la madera.
-
-Barbablanca, en su silla, tiene en la mano un cuenco de sake del tamaño de un barril chico. Te mira a ti, por encima de las cabezas de todos.
-
-—¡Mocoso! —Su voz se oye por encima de la música—. ¡El del gato! Ven aquí. Bebe con el viejo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1463 · ONE PIECE · DÍA ~121 · NOCHE    ║
-║ Nuevo Mundo · Moby Dick · cubierta (fiesta)  ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: sobre una caja, comiendo pescado       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1464)
+## COMANDO 1 (T1464)
 
 tomo con barbablsnca
 
-## RESPUESTA 2 (T1464)
+## RESPUESTA 1 (T1464)
 
 > tomo con barbablsnca
 
@@ -138,11 +56,11 @@ Se inclina un poco hacia ti. La silla cruje.
 
 ---
 
-## COMANDO 3 (T1465)
+## COMANDO 2 (T1465)
 
 nada, sos el padre del hermano de mi capitán, con eso basta para ayudarlos y tengo otra cosa para ayudarte, cuando comiste esa semilla te ayudo bastante espera otra cosa, me acerco le tocó el brazo y con la técnica de mahito le curó todo
 
-## RESPUESTA 3 (T1465)
+## RESPUESTA 2 (T1465)
 
 > nada, sos el padre del hermano de mi capitán, con eso basta para ayudarlos y tengo otra cosa para ayudarte, cuando comiste esa semilla te ayudo bastante espera otra cosa, me acerco le tocó el brazo y con la técnica de mahito le curó todo
 
@@ -203,4 +121,71 @@ Te mira. Desde arriba, con los ojos muy abiertos, sin rastro de risa en la cara.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick. Facundo curó del todo a Barbablanca con la Transfiguración Ociosa. La fiesta se calló. Barbablanca: "¿Qué me hiciste, mocoso?" Facundo puede responder.
+## COMANDO 3 (T1466)
+
+un secreto, sigue siendo un emperador del mar Edwars Newgate, hasta que mi capitán sea el rey de los piratas
+
+## RESPUESTA 3 (T1466)
+
+> un secreto, sigue siendo un emperador del mar Edwars Newgate, hasta que mi capitán sea el rey de los piratas
+
+> —Un secreto. Sigue siendo un Emperador del Mar, Edward Newgate. Hasta que mi capitán sea el Rey de los Piratas.
+
+Barbablanca se queda mirándote.
+
+Por un momento no pasa nada. La cubierta entera está callada. Se oye el mar contra el casco, el crujido de los mástiles, una antorcha que chisporrotea.
+
+Después apoya el bisento en las tablas. Apoya la otra mano en el apoyabrazos agrietado.
+
+Y se pone de pie.
+
+No como en Marineford, a fuerza de voluntad. Se levanta de un solo movimiento, limpio, sin apoyarse, sin que le tiemble ni una rodilla. Los piratas que están cerca dan un paso atrás sin querer. Es más alto parado de lo que muchos de ellos recuerdan haberlo visto en años. La jefa de enfermeras se tapa la boca con la tablilla.
+
+Barbablanca respira hondo otra vez, con el pecho lleno de aire limpio de mar. Mira la flota, las velas, las antorchas encendidas en cada barco.
+
+Y se ríe.
+
+—¡GURARARARARARARA!
+
+La risa sale de él como un trueno. El aire alrededor se agrieta apenas, con un crujido de vidrio, y el mar entero tiembla en ondas circulares que se alejan del Moby Dick hacia la flota. En los otros barcos, la gente se asoma a las barandas para ver qué pasó.
+
+—¡El mocoso de goma! ¡Rey de los Piratas! —Golpea el bisento contra la cubierta—. ¡Que venga a buscar la corona cuando quiera! ¡Aquí lo espero! ¡Pero que sepa que este viejo ya no se va a morir solo!
+
+Se da vuelta hacia sus hijos. Doscientas caras que lo miran sin entender del todo, y empiezan a entender.
+
+—¡Ya lo oyeron! ¡El viejo está sano! —Levanta el cuenco vacío—. ¡Y no pienso volver a tomar esas porquerías que me dan las enfermeras!
+
+—¡Capitán! —protesta la jefa de enfermeras, todavía con lágrimas en los ojos.
+
+La cubierta explota.
+
+Es peor que antes. Gritos, sombreros al aire, alguien que llora a moco tendido abrazado a un mástil. Jozu se despierta de golpe y pregunta qué pasó. Marco se queda quieto en medio del ruido, con la boca abierta, y después se tapa los ojos con una mano y se le encienden las llamas azules de los hombros sin querer. Ace corre hasta el pie de la silla y se queda ahí parado, mirando a su padre de pie, sin poder decir nada.
+
+Barbablanca baja la vista hacia ti. Se agacha, apoya una mano enorme en tu cabeza, encima del pelo blanco y azul, y casi te hunde en la cubierta.
+
+—Mocoso. —La voz le sale grave, baja, solo para ti—. No te voy a preguntar cómo. Pero no me voy a olvidar.
+
+Te suelta. Toma el cuenco del tamaño de un barril, lo llena él mismo del barril más cercano y te pone en las manos el tuyo, también lleno hasta el borde.
+
+—¡Por el mocoso del gato! —ruge hacia la flota.
+
+Y la flota entera, cuarenta barcos en medio del Nuevo Mundo, le contesta a los gritos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1466 · ONE PIECE · DÍA ~121 · NOCHE    ║
+║ Nuevo Mundo · Moby Dick · silla de           ║
+║ Barbablanca                                  ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: sobre una caja, comiendo pescado       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick. Barbablanca de pie y sano, brinda "¡Por el mocoso del gato!" con toda la flota; le dio a Facundo un cuenco lleno. Facundo puede actuar.
