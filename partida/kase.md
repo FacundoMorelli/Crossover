@@ -162,3 +162,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1613 (4 días) · Se adueña de la silla de playa de Whis. Duerme sobre el pecho de Facundo cuando se apaga la fusión.
 - T1614 · Viaja con Facundo a la Tierra; apoya una pata en la túnica de Whis sin que nadie se lo pida; clava apenas las uñas en el viaje.
 - T1617 · Le clava una uña a la camisa blanca nueva de Facundo; deja un hilo suelto.
+- T1618 · Mira directo a la cámara en la foto para Erasa, serio y arrogante, como juzgándola.

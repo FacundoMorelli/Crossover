@@ -14,3 +14,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: soltera (según Bulma).
 - T1616 · (fuera de escena) Por Videl y Bulma, acepta ir a una cena esta noche a las 20:00 en la Corporación Cápsula; sabe que hay "un muchacho, el del gato". QUÉ SABE DE FACUNDO: que existe un muchacho con un gato (por Bulma vía Videl).
 - T1617 · (fuera de escena) Le pidió a Videl una foto de Facundo. Foto suya (vista por Facundo): rubia, pelo corto con rulos, ojos celestes, signo de la paz frente a una heladería.
+- T1618 · Ve una foto de Facundo con Kase (por Bulma vía Videl). Responde: "¡¡¡Videl!!! ¡¿Ese es?! ¡¿En serio?! ¡¿Por qué no me dijiste antes que conocías a alguien así?! ¡¿Esos son tatuajes?! ¡¿Y los ojos?! ¡¿Son lentes de contacto?! ¡¿Y el gato viene a la cena?! ¡Dile que traiga al gato! ¡Si no trae al gato no voy!" QUÉ SABE DE FACUNDO (+T1618): su aspecto por foto (pelo, ojos, tatuajes, aros) y que tiene un gato.

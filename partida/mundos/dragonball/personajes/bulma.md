@@ -33,3 +33,4 @@ TIENE: libro de Paradis (T1542).
 - T1615 · No le cree el "nada importante". Por Facundo (busca chica soltera de su edad o un poco mayor): entusiasmada. Propone a Erasa (amiga de Videl, 21-22, soltera). Discute con Milk (Angela). Le grita a Bills "¡Ahora no!" y se corrige pálida. "Videl seguro tiene el número de Erasa. ¿Quieres que la invite? ¡Hoy a la noche hacemos una cena acá! Casual. Que parezca que fue de casualidad."
 - T1616 · Llama a Videl por el número de Erasa ("Hay un muchacho. El del gato."); Erasa acepta: cena hoy a las 20:00 en la Corporación Cápsula.
 - T1617 · Ve a Facundo cambiarse de ropa al instante (no pregunta cómo). Le muestra una foto de Erasa (de Videl) y le dice que Erasa pidió una suya: "¿Te saco una? ¿Ahora?"
+- T1618 · Le saca una foto a Facundo con Kase ("El gato es clave"; "¡El gato hace todo!") y se la manda a Videl para Erasa. Lee en voz alta la respuesta de Erasa, muerta de risa. "¿Qué le contesto?"

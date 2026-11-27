@@ -1616,3 +1616,4 @@ T1614 · DRAGON BALL · Capital del Oeste · Vuelve con Whis, Bills, Goku y Vege
 T1615 · DRAGON BALL · Capital del Oeste · "Nada importante." Pregunta si hay alguna chica soltera de su edad. Bulma propone a Erasa; Milk a Angela. Bulma: "¿La invito? Cena casual esta noche."
 T1616 · DRAGON BALL · Capital del Oeste · Acepta. Bulma consigue a Erasa por Videl: cena hoy a las 20:00. Milk cocinará; critica su ropa ("Pareces uno de esos de las motos").
 T1617 · DRAGON BALL · Capital del Oeste · Ropa nueva (2 F): camisa blanca, jean, zapatillas. Milk aprueba. Bulma muestra la foto de Erasa y quiere sacarle una a Facundo para ella.
+T1618 · DRAGON BALL · Capital del Oeste · Foto para Erasa (con Kase). Erasa: "¡¿Ese es?! ¿Tatuajes? ¿Lentes de contacto? ¡Si no trae al gato no voy!" Bulma: "¿Qué le contesto?"

@@ -163,3 +163,4 @@
 - T1608 · Facundo dijo en voz alta a Bills, Whis, Goku y Vegeta que es HUMANO y que COPIA poderes (copió el SSJ de Goku y el Hakai de Bills). Bills comprobó que conserva el suyo.
 - T1615 · Bulma, Milk, Goku, Vegeta, Trunks, Bills y Whis oyeron a Facundo preguntar si hay alguna chica soltera de su edad o un poco mayor.
 - T1617 · Bulma y Milk VIERON a Facundo cambiarse de ropa al instante (inventario; Bulma no pregunta).
+- T1618 · Erasa y Videl VIERON una foto de Facundo con Kase (Bulma la sacó y la mandó).

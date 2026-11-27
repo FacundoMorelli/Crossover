@@ -3,94 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1615)
-
-miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
-
-## RESPUESTA 1 (T1615)
-
-> miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
-
-Miras a Bulma.
-
-> —Nada importante.
-
-—¿Nada importante? —Bulma levanta una ceja, mira a Bills, mira a Whis, mira la bolsa de semillas atada a la faja de Bills—. Ajá. Claro. Seguro.
-
-Whis le sonríe sin decir nada, lo que es peor.
-
-> —Y sí, Milk, iba a volver. Ahora les puedo preguntar algo: ¿hay alguna chica que esté soltera? De mi edad o un poco más grande.
-
-El jardín se queda en silencio.
-
-Goku parpadea, con la cara a medio salir de detrás de Whis. Vegeta, que ya estaba yéndose con Trunks hacia la nave, se detiene en seco. Trunks se da vuelta con una sonrisa enorme, de chico que acaba de encontrar algo para burlarse.
-
-Bulma deja la taza de café en la mesa del jardín. Despacio. Con mucho cuidado.
-
-—Facundo. —Se le ilumina la cara entera—. ¿Me estás pidiendo que te presente a alguien?
-
-—¡Ay, qué lindo! —Milk se lleva las manos al pecho, con el cucharón todavía en una—. ¡Un muchacho tan educado, que vuelve cuando dice que vuelve, y que encima quiere conocer a una buena chica! ¡Así se hace! —Le echa una mirada asesina a Goku—. ¡No como otros, que se van "un ratito"!
-
-—Yo me casé contigo, Milk —protesta Goku.
-
-—¡Porque yo te obligué!
-
-—Ah, sí, eso es cierto.
-
-Bulma ya está pensando. Se le nota: tiene la mirada en el aire y cuenta con los dedos.
-
-—A ver, a ver... De tu edad o un poco más grande. —Chasquea los dedos—. ¡Erasa! La amiga de Videl, la de la preparatoria. Rubia, simpática, habla hasta por los codos. Tiene veintiuno o veintidós, y la última vez que vino al cumpleaños de Gohan estaba soltera. Bueno, eso dijo. Y le preguntó a Videl si Gohan tenía algún amigo guapo.
-
-—Tú no conoces a nadie, Bulma —dice Milk.
-
-—¡Conozco a todo el mundo!
-
-—Y Angela —sigue Milk, pensativa, sin hacerle caso—. La otra compañera de Gohan. La pelirroja. Esa es más... —Hace un gesto con el cucharón que no termina de explicar nada—. Más moderna.
-
-—Erasa es mejor —dice Bulma.
-
-—Angela es más bonita.
-
-—¡Erasa es más buena!
-
-Bills, aburrido, se sienta en una silla del jardín.
-
-—Bulma. ¿Hay pudín?
-
-—¡Ahora no, señor Bills, estoy ocupada! —Bulma se da cuenta de a quién le gritó, se pone pálida y se corrige enseguida—. ¡Sí, en la heladera, señor Bills, enseguida, sírvase, por favor!
-
-Bills se levanta contento y entra a la casa. Whis lo sigue, con las manos detrás de la espalda.
-
-Vegeta, en la puerta de la nave, resopla.
-
-—Humanos —gruñe, y se mete adentro con Trunks, que no deja de mirarte y reírse por lo bajo.
-
-Bulma te agarra del brazo, entusiasmada.
-
-—Mira, Videl seguro tiene el número de Erasa. —Ya tiene el celular en la mano—. ¿Quieres que la invite? ¡Hoy a la noche hacemos una cena acá! ¡Nada formal, eh! Casual. Que parezca que fue de casualidad.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1615 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mañana                                       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.851 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1616)
+## COMANDO 1 (T1616)
 
 ehh bueno esta bien
 
-## RESPUESTA 2 (T1616)
+## RESPUESTA 1 (T1616)
 
 > ehh bueno esta bien
 
@@ -147,11 +64,11 @@ Desde adentro de la casa, se escucha la voz de Bulma, todavía al teléfono:
 
 ---
 
-## COMANDO 3 (T1617)
+## COMANDO 2 (T1617)
 
 ehh bueno me cambio la ropa
 
-## RESPUESTA 3 (T1617)
+## RESPUESTA 2 (T1617)
 
 > ehh bueno me cambio la ropa
 
@@ -207,4 +124,69 @@ Se acerca con el teléfono en alto.
 
 ---
 
-ESTADO AL CIERRE: Facundo con ropa nueva (camisa blanca, jean, zapatillas). Bulma le mostró la foto de Erasa y quiere sacarle una a él: "¿Te saco una? ¿Ahora?" Facundo puede contestar.
+## COMANDO 3 (T1618)
+
+bueno esta bien
+
+## RESPUESTA 3 (T1618)
+
+> bueno esta bien
+
+> —Bueno, está bien.
+
+—¡Quieto! —Bulma levanta el celular enseguida, antes de que te arrepientas—. No, no, así no. Relájate. Pon cara de... no sé, de que no te importa. Las chicas aman eso.
+
+Retrocede dos pasos. Te encuadra. Frunce el ceño.
+
+—El gato que quede. El gato es clave.
+
+Kase, en tu hombro, mira directo a la cámara. No parpadea. Tiene la cara seria, casi arrogante, de siempre, y los dos ojos, rojo y azul, clavados en el lente.
+
+Clic.
+
+Bulma mira la pantalla. Se le abre la boca.
+
+—Ay, no. —Gira el teléfono para mostrarle a Milk—. Mira esto.
+
+En la foto estás tú, con la camisa blanca arremangada, los dragones en los antebrazos, el pelo blanco y azul suelto y desordenado, mirando un poco de costado, sin sonreír del todo. Y en tu hombro, Kase, mirando a la cámara como si la juzgara.
+
+—Parece una portada de revista —dice Milk, impresionada a su pesar—. El gato hace todo.
+
+—¡El gato hace todo! —Bulma ya está escribiendo—. Se la mando a Videl, que se la pase a Erasa... Enviado.
+
+Pasan unos segundos. Bulma se queda mirando la pantalla, tamborileando con los dedos. Milk también, aunque finge que no le importa.
+
+El teléfono vibra.
+
+Bulma lo lee. Se queda quieta. Se ríe tan fuerte que se tiene que agarrar de la mesa del jardín.
+
+—¿Qué? ¿Qué dice? —Milk se asoma por encima de su hombro.
+
+Bulma se seca una lágrima y lee en voz alta, imitando una voz chillona y emocionada:
+
+—"¡¡¡Videl!!! ¡¿Ese es?! ¡¿En serio?! ¡¿Por qué no me dijiste antes que conocías a alguien así?! ¡¿Esos son tatuajes?! ¡¿Y los ojos?! ¡¿Son lentes de contacto?!" —Hace una pausa, sin poder dejar de reír—. "¡¿Y el gato viene a la cena?! ¡Dile que traiga al gato! ¡Si no trae al gato no voy!"
+
+Milk se ríe detrás del cucharón.
+
+Bulma te mira, con el teléfono en la mano y los ojos brillantes.
+
+—Bueno. —Sonríe de oreja a oreja—. ¿Qué le contesto?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1618 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa vio la foto (Facundo y Kase) y exige que venga el gato. Bulma: "¿Qué le contesto?" Facundo puede contestar.
