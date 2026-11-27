@@ -86,3 +86,4 @@ QUÉ SABE DE FACUNDO: (T236) que destruyó a la parte mala de Buu, que iba a com
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En la zona rocosa con Goku.
 - T1511 · Fiesta de Bulma, camisa rosada, brazos cruzados. Reconoce a Facundo; le mide el ki y no le convence: "Tú. El del gato. ¿Qué clase de truco es ese, insecto? Hace tres años me pusiste contra el suelo. Y ahora tienes menos ki que Krilin."
+- T1512 · "¿Un secreto? ¡¿Me estás tomando el pelo, insecto?!" "Kakarotto, ¿tú sabes algo?" Ve que Goku miente. Bulma lo frena. "Tch." "Esto no se terminó, insecto."

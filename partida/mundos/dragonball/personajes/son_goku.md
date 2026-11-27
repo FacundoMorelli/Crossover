@@ -75,3 +75,4 @@ DIÁLOGOS CLAVE:
 - T1510 · Come una semilla del ermitaño de Facundo ("Karin casi no tiene..."): sano del todo. ZENKAI: "Me siento más fuerte que antes de pelear... ¡Es lo de los saiyajin! ¡Vegeta siempre se pone furioso cuando le pasa a él y no a mí!" Camiseta rota: "le digo a Milk que fue un oso." "Son las diez y media. ¿Seguimos? ¡Pero esta vez no te transformes! ¡Quiero ver cuánto me falta sin eso!"
 ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1511 · Días 2-4 · Entrena en SSJ3 contra Facundo en estado normal; cada vez dura más; le acierta un golpe limpio a la mandíbula. Le dice a Milk cada tarde que "fue un oso". Sábado: va a la fiesta de Bulma con traje y corbata que no sabe atarse.
+- T1512 · Cumple su promesa a medias: "Es un amigo. Viene a comer. Y tiene un gato." A Vegeta: "¿Yo? No. Nada. ¿Qué voy a saber yo?" Silba (pésimo mentiroso).

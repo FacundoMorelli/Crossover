@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1509)
-
-me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
-
-## RESPUESTA 1 (T1509)
-
-> me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
-
-Sueltas la Forma Cenit.
-
-Las llamas blancas y azules se apagan de golpe, como una vela que alguien sopla. El pelo te cae sobre los hombros, otra vez desordenado. Las piedras que flotaban en todo el páramo caen al suelo a la vez, con un ruido seco, larguísimo, de granizo. El viento vuelve.
-
-Y el cansancio te llega todo junto, a los brazos, a las piernas, a la espalda, como si te hubieran echado un balde de agua pesada encima.
-
-Te pones en cuclillas al lado de Goku.
-
-> —Goku, si algún día viene alguna persona, no menciones nunca nada de mí, de lo fuerte que soy. A partir de ahora voy a mostrar una parte muy baja de mi ki, para disimular. ¿Puedes no mencionarlo nunca?
-
-Y dejas que se te note un hilo de ki. Uno chiquito. Lo justo para que alguien que lo busque encuentre algo: un muchacho que entrena, que vuela, que tal vez pelea un poco mejor que la gente común. Nada más.
-
-Goku gira la cabeza en la roca. Te mira con el ojo sano. Arruga la frente.
-
-—Ah... —dice—. Ahora sí te siento. Un poquito. —Parpadea—. Es muy poquito. Krilin tiene más.
-
-Se queda callado un rato, mirándote. No pregunta quién va a venir. No pregunta por qué. Se rasca la cabeza, como cuando algo no le entra del todo pero decide que no importa.
-
-—Bueno. —Se sienta en la roca, con un gemido, agarrándose las costillas—. No digo nada. Si alguien pregunta, eres... un amigo que viene a comer. Y que tiene un gato.
-
-Levanta la mano, con el puño cerrado.
-
-—Palabra. —Lo dice serio, de verdad, con la cara amoratada—. No se lo digo a nadie. Ni a Vegeta, aunque me lo pregunte mil veces. Ni a Kaio-sama, que es un chismoso.
-
-Choca su puño contra tu hombro, despacio.
-
-Después se le escapa una mueca de dolor, se mira la camiseta hecha jirones, el ojo que no puede abrir, las rodillas raspadas.
-
-—Pero... Milk sí va a preguntar. —Traga saliva—. ¿Qué le digo de esto?
-
-Señala su propia cara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1509 · DRAGON BALL · AÑO 777 · 10:32   ║
-║ Páramo de entrenamiento · meseta             ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 66% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: junto a Goku                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Goku · fiesta de      ║
-║ Bulma el sábado                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1510)
+## COMANDO 1 (T1510)
 
 le doy una semilla del ermitaño
 
-## RESPUESTA 2 (T1510)
+## RESPUESTA 1 (T1510)
 
 > le doy una semilla del ermitaño
 
@@ -117,11 +60,11 @@ Goku se da vuelta hacia ti. Ya no tiene las piernas temblando. Tiene otra vez lo
 
 ---
 
-## COMANDO 3 (T1511)
+## COMANDO 2 (T1511)
 
 esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
 
-## RESPUESTA 3 (T1511)
+## RESPUESTA 2 (T1511)
 
 > esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
 
@@ -178,4 +121,87 @@ Vegeta te mira. Te reconoce enseguida. Y frunce más el ceño. Te está midiendo
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:00, fiesta de Bulma en Capsule Corp. Bulma pregunta quién es "este muchacho tan apuesto"; Vegeta, desconfiado: "¿Qué clase de truco es ese, insecto? Ahora tienes menos ki que Krilin." Bills llega hoy. Facundo puede responder.
+## COMANDO 3 (T1512)
+
+es un secreto( el cumple de bulma no era en el crucero?)
+
+## RESPUESTA 3 (T1512)
+
+> es un secreto( el cumple de bulma no era en el crucero?)
+
+(Corrección aplicada: la fiesta es en el crucero de Bulma.)
+
+La fiesta no es en el jardín. Nunca lo fue.
+
+Es en el mar. Un crucero enorme, blanco, de tres cubiertas, alquilado entero por Capsule Corporation, que navega despacio frente a la costa de la Ciudad del Oeste bajo un sol de mediodía. Las mesas, los globos, las guirnaldas y el letrero de FELIZ CUMPLEAÑOS, BULMA están en la cubierta principal, al lado de una piscina. La comida, las montañas de comida, en la cubierta de arriba. Buu se está comiendo un buffet entero de postres junto a la baranda. Piccolo está solo en la proa, de brazos cruzados, mirando el horizonte. Kase, en tu hombro, mira el agua con los ojos entrecerrados, sin entusiasmo.
+
+Y Vegeta sigue parado delante de ti, con la camisa rosada y el ceño fruncido.
+
+> —Es un secreto.
+
+Vegeta se queda mirándote.
+
+Un segundo. Dos. Una vena le empieza a latir en la sien.
+
+—¿Un secreto? —repite, despacio, con los dientes apretados—. ¿Un secreto? ¡¿Me estás tomando el pelo, insecto?!
+
+—¡Vegeta! —Bulma le da un codazo—. ¡Es mi cumpleaños! ¡No vas a pelear con los invitados en mi cumpleaños!
+
+—¡No es un invitado! ¡Es un...!
+
+Se calla. Busca la palabra. No la encuentra.
+
+Goku se mete entre los dos, con la corbata torcida y una pierna de pollo en la mano que sacó de algún lado en los últimos cinco segundos.
+
+—¡Tranquilo, Vegeta! —Se ríe—. Es un amigo. Viene a comer. Y tiene un gato.
+
+Lo dice muy serio, como quien repite una lección.
+
+Vegeta mira a Goku. Mira la pierna de pollo. Te mira a ti.
+
+—Kakarotto —dice, muy bajo—. ¿Tú sabes algo?
+
+—¿Yo? —Goku muerde el pollo—. No. Nada. ¿Qué voy a saber yo?
+
+Mastica. Mira para otro lado. Silba.
+
+Es el peor mentiroso que viste en tu vida.
+
+Vegeta lo sabe. Se le hincha la vena de la sien hasta que parece que va a reventar. Abre la boca.
+
+Bulma le pone la copa delante de la cara.
+
+—Vegeta. Cumpleaños. Mío. —Sonríe con todos los dientes—. Hoy no se pelea nadie. Si quieres pelear, peleas mañana, en tu cámara de gravedad, con quien quieras. Hoy bailas conmigo.
+
+Vegeta se pone colorado. De rabia, o de otra cosa.
+
+—Tch.
+
+Se da vuelta y se va hacia la baranda, a grandes pasos, con los puños cerrados. Antes de llegar, te mira por encima del hombro, una sola vez, con los ojos entrecerrados.
+
+—Esto no se terminó, insecto.
+
+Bulma suspira. Se da vuelta hacia ti, se acomoda el pelo y te sonríe, como si no hubiera pasado nada.
+
+—Perdónalo. Es así con todo el mundo. —Te tiende la mano—. Bulma. La dueña de todo esto. Y tú eres el famoso "amigo que viene a comer". —Levanta una ceja, mirando a Goku, que se aleja silbando hacia la comida—. Que, por lo visto, es un secreto.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1512 · DRAGON BALL · SÁBADO · 12:03    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, mirando el agua          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
+║ hoy)                                         ║
+╚══════════════════════════════════════════════╝
+```
+
+Tenías razón: en el anime de Super la fiesta es en un crucero (en la película La batalla de los dioses era en Capsule Corp.). Ya lo corregí en la escena y en los archivos. El canon que hay en el repo de Dragon Ball termina con Buu, así que desde aquí sigo con lo que sé de Super.
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:03, crucero de Bulma. Vegeta se fue a la baranda ("Esto no se terminó"). Bulma se presenta y le tiende la mano. Bills llega hoy. Facundo puede responder.

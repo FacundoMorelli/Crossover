@@ -10,3 +10,4 @@ ENCUENTROS:
 - T1511 · Año 778, su cumpleaños, jardín de Capsule Corp. A Goku: "¡Viniste! ¡Milk dijo que te había amenazado!" Ve a Facundo: "Vaya, vaya. ¿Y este muchacho tan apuesto quién es?"
 QUÉ SABE DE FACUNDO: probablemente rumores por Vegeta/Trunks/Goku de hace tres años (Buu); en persona, nada.
 ESTADO: activa
+- T1512 · Frena a Vegeta: "Cumpleaños. Mío. Hoy no se pelea nadie... Hoy bailas conmigo." Se presenta y le tiende la mano: "Bulma. La dueña de todo esto. Y tú eres el famoso amigo que viene a comer. Que, por lo visto, es un secreto."

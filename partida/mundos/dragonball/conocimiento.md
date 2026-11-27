@@ -93,3 +93,5 @@
 - Vegeta · T1511 · Siente el ki muy bajo de Facundo y sabe (por la pelea de hace tres años, T219) que es mucho más fuerte: deduce que lo esconde ("truco").
 - Bulma, invitados · T1511 · Ven llegar a Facundo con los Son, con el gato en el hombro.
 - Videl, Gohan · T1511 · Cena con Facundo en el Monte Paoz.
+- Vegeta · T1512 · Por Facundo: su fuerza "es un secreto". Deduce por la actitud de Goku que Goku sabe algo.
+- Bulma · T1512 · Por Goku: Facundo es "un amigo que viene a comer" (y es un secreto).
