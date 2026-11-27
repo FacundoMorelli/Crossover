@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1674)
-
-espero a que se duerma y me duermo con ella
-
-## RESPUESTA 1 (T1674)
-
-> espero a que se duerma y me duermo con ella
-
-No te mueves.
-
-Erasa tarda menos de los cinco minutos que prometió. Primero se le afloja la mano del todo, entre las tuyas. Después la respiración se le hace larga, lenta, con un silbidito apenas en la nariz. Un rulo se le cae sobre la cara y se mueve con cada respiración. Murmura algo dormida, algo sobre un velero, o sobre un gato, y se acomoda mejor contra tu hombro, con la mejilla en tu camisa.
-
-Kase, entre los dos, ronronea más bajo, hasta que deja de ronronear.
-
-La lámpara de flecos sigue prendida. La pantalla azul zumba. El reloj de la cocina hace tic tac.
-
-Cierras los ojos.
-
-Te despierta un ruido.
-
-Es mínimo: una taza que se apoya en un plato, en la cocina, con muchísimo cuidado. Afuera ya hay luz, una luz gris y celeste de muy temprano, que entra por las rendijas de la cortina. La lámpara de flecos está apagada. El televisor también. Alguien los apagó.
-
-Erasa sigue dormida. Se fue resbalando durante la noche, y ahora tiene la cabeza en tu pecho, la boca un poco abierta, el pelo hecho un nido rubio y una marca roja de un botón de tu camisa en la mejilla. Tiene un brazo atravesado sobre ti. La manta a cuadros los tapa a los dos hasta los hombros. Encima de la manta hay otra manta, una de lana gruesa, color crema, que anoche no estaba.
-
-Kase está sentado en el apoyabrazos del sillón, despierto, muy derecho, con la cola enroscada en las patas, mirando hacia la cocina.
-
-En el marco de la puerta de la cocina, la madre de Erasa te mira.
-
-Ya está vestida para salir: una blusa, un pantalón de vestir, un bolso al hombro, los rulos todavía húmedos. Tiene una taza de café en cada mano. El reloj de la cocina, detrás de ella, marca las seis y diez.
-
-No dice nada. Te mira a ti. Mira a su hija, dormida encima de tu pecho con la boca abierta. Te mira a ti otra vez.
-
-Levanta una de las dos tazas un poco, hacia ti. Una pregunta sin palabras.
-
-Después se lleva un dedo a los labios, con la otra mano, sin derramar ni una gota.
-
-—Shhh —dice, apenas un soplido—. Que si se despierta, se muere de vergüenza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1674 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sala · miércoles · 06:10      ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en el apoyabrazos del sillón           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1675)
+## COMANDO 1 (T1675)
 
 agarro la taza
 
-## RESPUESTA 2 (T1675)
+## RESPUESTA 1 (T1675)
 
 > agarro la taza
 
@@ -111,11 +57,11 @@ La sala queda en silencio. La luz de la mañana entra gris y celeste por la cort
 
 ---
 
-## COMANDO 3 (T1676)
+## COMANDO 2 (T1676)
 
 le doy un beso en la frente a erasa
 
-## RESPUESTA 3 (T1676)
+## RESPUESTA 2 (T1676)
 
 > le doy un beso en la frente a erasa
 
@@ -151,4 +97,56 @@ El café en tu mano todavía está caliente.
 
 ---
 
-ESTADO AL CIERRE: miércoles 06:22, sala de la casa de Erasa. Beso en la frente; Erasa sonríe dormida ("¿Ya pasaron los cinco minutos?") y se vuelve a dormir. Kase echado bajo su mano colgando, como guardia. Facundo con el café caliente. La mamá en el trabajo hasta las 17.
+## COMANDO 3 (T1677)
+
+tomo el café y espero a que se despierte
+
+## RESPUESTA 3 (T1677)
+
+> tomo el café y espero a que se despierte
+
+Te tomas el café despacio. Está bueno: fuerte, con poca leche, sin azúcar. Dejas la taza vacía en la mesita, al lado de la de la madre.
+
+Y esperas.
+
+La mañana entra en la sala de a poco. La luz gris se vuelve amarilla, después blanca, y avanza por la alfombra centímetro a centímetro hasta llegar a Kase, que se estira al sol sin moverse de debajo de la mano de Erasa. Afuera, el barrio se despierta: una persiana que sube, un perro que ladra dos casas más allá, una bicicleta, el camión de la leche que para en la esquina y sigue. En la cocina, el reloj con forma de pato da las siete, las siete y media, las ocho.
+
+Erasa no se mueve. Duerme como si alguien la hubiera desenchufado. En algún momento cambia de lado la cara sobre tu pecho, y la marca del botón pasa a la otra mejilla. En otro momento sonríe, dormida, sin motivo. En otro dice "no, el pato no", muy seria, y sigue durmiendo.
+
+A las ocho y cuarenta, un rayo de sol se mete por la rendija de la cortina y le cae justo en los ojos.
+
+Arruga la cara entera. Gruñe. Se tapa con la manta hasta la nariz. Se queda así un segundo, quieta.
+
+Después abre un ojo.
+
+Ve tu camisa. El botón. Tu cuello. Los dragones tatuados que asoman por el cuello de la camisa, a dos centímetros de su nariz.
+
+Abre el otro ojo.
+
+Se queda completamente inmóvil. No respira. Se le nota en los hombros, en la mano que tiene sobre tu pecho, que se pone rígida. Mira, sin mover la cabeza, todo lo que puede ver: la sala con luz de día, la lámpara apagada, la manta de lana crema que no es suya, las dos tazas vacías en la mesita. Dos.
+
+Levanta la cara despacio. Te mira desde abajo, con el pelo hecho un desastre, la marca roja del botón en la mejilla, la boca abierta y los ojos celestes enormes.
+
+—Me dormí —susurra, horrorizada—. Me dormí encima tuyo.
+
+Mira las dos tazas. Mira la manta de lana. Se le va todo el color de la cara y después le vuelve todo junto, de golpe, rojo hasta las orejas.
+
+—Esa manta es de mi mamá. —Su voz sube media octava—. ¿Mi mamá bajó? ¿Mi mamá nos vio?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1677 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sala · miércoles · 08:41      ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: al sol, bajo la mano de Erasa          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: miércoles 08:41, sala de la casa de Erasa. Erasa se despierta por un rayo de sol, sobre el pecho de Facundo. Ve las dos tazas y la manta de lana de su mamá. Roja: "Me dormí encima tuyo." "Esa manta es de mi mamá. ¿Mi mamá bajó? ¿Mi mamá nos vio?"

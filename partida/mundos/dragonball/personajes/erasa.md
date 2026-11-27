@@ -61,3 +61,4 @@ ESTADO: soltera (según Bulma).
 - T1674 · Se duerme en el hombro de Facundo antes de los cinco minutos (murmura algo de un velero o un gato). Duermen juntos en el sillón (vestidos). Miércoles 06:10 sigue dormida con la cabeza en su pecho, boca abierta, marca de botón en la mejilla, brazo sobre él.
 - T1675 · Duerme mal desde chiquita (según su mamá: se despierta 3-4 veces por noche); con Facundo no se despertó ni una vez. Sigue dormida a las 06:20.
 - T1676 · Facundo le da un beso en la frente dormida: sonríe sin despertarse, "Mmm. ¿Ya pasaron los cinco minutos?", vuelve a dormir. Kase apoya la cabeza en su mano colgando y se echa debajo.
+- T1677 · Duerme hasta las 08:40 (dormida dice "no, el pato no"). Se despierta por un rayo de sol, sobre el pecho de Facundo. Ve las dos tazas y la manta de lana crema de su mamá. "Me dormí. Me dormí encima tuyo." "Esa manta es de mi mamá. ¿Mi mamá bajó? ¿Mi mamá nos vio?"
