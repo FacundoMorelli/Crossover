@@ -47,3 +47,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1571 · Come la carne con puré con los ojos cerrados: "Oh. Oh, sí. Ahora entiendo a Bills-sama. Ahora entiendo todo." Le alcanza a Facundo un pedacito para Kase sin abrir los ojos.
 - T1572 · Sigue comiendo como si nada mientras Bills aparece furioso; toma té cuando los reta.
 - T1573 · Le cuenta a Bills: "Facundo-san peleó con los dos. Por separado. En azul." "El suelo que reforcé se hundió dos veces. Y Vegeta-san solo le sacó una gota de sangre. Con un Final Flash a un paso."
+- T1574 · A Goku: "Puede mirar. De lejos." Consejo a Facundo: "Bills-sama no sabe contenerse cuando se divierte. Y hace mucho, muchísimo tiempo que no se divierte de verdad. Le recomiendo que no se contenga demasiado. Ni demasiado poco."

@@ -111,3 +111,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1571 · "¡¿De dónde sacas todo esto?!" Come la carne con la mano; se le llenan los ojos de lágrimas: "¡MMMMMM!" Puré hasta en las cejas.
 - T1572 · Congelado con la boca llena de puré ante el Hakai de Bills; traga despacio; sonríe nervioso.
 - T1573 · "¡Y yo me esquivé solo! ¡Una vez!" (nadie le hace caso).
+- T1574 · "¡¿Vas a pelear con el señor Bills?! ¡Yo quiero mirar!"

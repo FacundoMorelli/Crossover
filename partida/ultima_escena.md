@@ -3,73 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1571)
-
-le doy a whis y a goku y vegeta carne con pure
-
-## RESPUESTA 1 (T1571)
-
-> le doy a whis y a goku y vegeta carne con pure
-
-[Compra: plato de carne al punto con puré, tres. 3 Fragmentos.]
-
-Metes la mano en el bolsillo del sobretodo deshecho y sacas un plato. Caliente, humeando, con el bife dorado y las marcas de la parrilla cruzadas, la montaña de puré y la manteca derritiéndose arriba. Se lo das a Whis.
-
-Después otro. Y otro.
-
-Goku no espera a que llegues. Sale corriendo desde el medio de la explanada, con el gi hecho jirones y la cara sucia, y te saca el plato de la mano con las dos manos, temblando de ganas.
-
-—¡¿De dónde sacas todo esto?! —No espera la respuesta. Se sienta en el suelo, agarra el bife con la mano, sin cubiertos, y le pega un mordisco enorme. Se queda quieto. Se le llenan los ojos de lágrimas—. Mmmmm... ¡MMMMMM!
-
-Vegeta llega caminando, despacio, con los brazos cruzados. Mira el plato que le extiendes. Te mira a ti. Mira a Goku, que ya va por la mitad y tiene puré hasta en las cejas.
-
-—Tch.
-
-Lo agarra. Se sienta en una roca, lejos de Goku. Agarra el cuchillo y el tenedor. Corta un pedazo de carne, con mucho cuidado, como si cortara a un enemigo. Se lo lleva a la boca. Mastica.
-
-Se queda quieto.
-
-No dice nada. Corta otro pedazo. Y otro. Y otro, cada vez más rápido, sin levantar la vista del plato.
-
-Whis se come el suyo en la silla de playa, con el plato en las rodillas, una cucharada de puré, un pedazo de carne, con los ojos cerrados, como quien escucha una música que hace mucho que no escuchaba.
-
-—Oh —dice—. Oh, sí. Ahora entiendo a Bills-sama. Ahora entiendo todo.
-
-Kase, en tu hombro, olfatea el aire. Le das un pedacito de carne del plato de Whis, que Whis te alcanza sin abrir los ojos. Kase lo acepta.
-
-Y en ese momento, arriba, en lo alto de la pirámide, el ronquido se corta.
-
-De golpe. En la mitad de una respiración.
-
-Silencio.
-
-Goku deja de masticar, con la boca llena. Vegeta, con el tenedor a medio camino. Whis abre un ojo.
-
-Desde lo alto de la pirámide, por la puerta abierta, sale una voz. Ronca, dormida, enojadísima. Que se oye en todo el planeta.
-
-—¡¿QUIÉN ESTÁ COMIENDO MI CARNE?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1571 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde de la explanada · mediodía             ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.240 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · corte en mejilla  ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, comiendo carne           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills se despertó, enojado         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1572)
+## COMANDO 1 (T1572)
 
 le dejo otro plato a bills
 
-## RESPUESTA 2 (T1572)
+## RESPUESTA 1 (T1572)
 
 > le dejo otro plato a bills
 
@@ -125,11 +63,11 @@ Bills suspira. Larguísimo.
 
 ---
 
-## COMANDO 3 (T1573)
+## COMANDO 2 (T1573)
 
 si
 
-## RESPUESTA 3 (T1573)
+## RESPUESTA 2 (T1573)
 
 > si
 
@@ -184,4 +122,56 @@ Te señala con un dedo.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, mediodía. Bills supo por Whis de los duelos en azul y quiere pelear con Facundo después de la digestión y el baño: "¿Te parece?" (Ocasión para la misión de copia del Hakai.) Facundo puede responder.
+## COMANDO 3 (T1574)
+
+esta bien señor bills
+
+## RESPUESTA 3 (T1574)
+
+> esta bien señor bills
+
+> —Está bien, señor Bills.
+
+—"Señor Bills". —Bills se ríe por la nariz, con la cola moviéndose sola detrás—. Me gusta. Nadie me dice "señor". Me dicen "Bills-sama" temblando, o no me dicen nada porque ya no existen.
+
+Se da vuelta y empieza a subir la escalera de la pirámide, despacio, rascándose la panza, en ropa de dormir. A los veinte escalones se detiene. Mira por encima del hombro.
+
+—Una hora —dice—. No comas nada en esa hora. —Te señala con el dedo—. Ni tú ni el gato. Si me haces esperar o te veo con la panza llena, me enojo. Y no te gusta cuando me enojo.
+
+Sigue subiendo. La puerta de arriba se cierra detrás de él.
+
+Goku se pone de pie de un salto, con el plato vacío en una mano.
+
+—¡¿Vas a pelear con el señor Bills?! —Tiene los ojos enormes—. ¡¿En serio?! ¡Yo quiero mirar! ¡Whis, ¿puedo mirar?!
+
+—Puede mirar, Goku-san —dice Whis—. De lejos.
+
+Vegeta no dice nada. Se queda sentado en su roca, con los brazos cruzados y la mandíbula apretada, mirándote. Después mira la pirámide. Después a ti otra vez. Aprieta los puños.
+
+Whis se levanta de la silla de playa. Junta el plato de Bills, el de Goku, el de Vegeta, el suyo, y los hace desaparecer con un golpecito del báculo. Después se acerca a ti, despacio, y se para a tu lado, mirando también la pirámide.
+
+—Un consejo, Facundo-san, si me lo permite —dice, en voz baja, sin dejar de sonreír—. Bills-sama no sabe contenerse cuando se divierte. Y hace mucho, muchísimo tiempo que no se divierte de verdad.
+
+Te mira de reojo.
+
+—Le recomiendo que no se contenga demasiado. —Una pausa delicada—. Ni demasiado poco.
+
+Kase, en tu hombro, mira la puerta cerrada de la pirámide. Tiene la cola quieta. Las orejas, hacia adelante.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1574 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde de la explanada · mediodía             ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · corte en mejilla  ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, mirando la pirámide      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills en una hora        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Pelea con Bills en una hora (no comer). Whis: "No se contenga demasiado. Ni demasiado poco." Goku mirará de lejos. Facundo puede actuar.
