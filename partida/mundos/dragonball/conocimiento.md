@@ -159,3 +159,4 @@
 - T1599 · Bills, Whis, Goku y Vegeta VIERON a Facundo vencer a Bills (choque final). Bills vio que al final se contuvo.
 - T1605 · Bills, Whis, Goku y Vegeta VIERON a Facundo fusionar Ultra Instinto Dominado con la Forma Cenit.
 - T1606 · Bills, Whis, Goku y Vegeta saben (por Facundo) que puede combinar habilidades, "sea lo que sea".
+- T1607 · QUIÉN VIO QUÉ: Bills, Whis, Goku y Vegeta VIERON a Facundo usar el Hakai sobre una roca; Facundo dijo en voz alta que se lo copió a Bills.

@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1604)
-
-acarició a kase y vuelvo con los demas
-
-## RESPUESTA 1 (T1604)
-
-> acarició a kase y vuelvo con los demas
-
-Levantas la mano y le rascas a Kase detrás de la oreja, donde le gusta.
-
-Kase cierra los ojos. Apoya la cabeza contra tu mano, empujando un poco, y arranca a ronronear, grave y largo, como un motor chiquito. Es el mismo ronroneo de siempre, el de todas las noches en todos los mundos. Después abre los ojos, rojo y azul, te mira de cerca un segundo y te da un cabezazo suave en la mejilla, justo en la costra.
-
-Vuelves caminando por el jardín, con él en el hombro.
-
-Whis ya terminó con la pirámide: la grieta no está, el agujero con forma de gato tampoco, y la piedra brilla como nueva. Ahora le está pasando el báculo a la explanada, despacio, y los pozos se van llenando solos, uno por uno.
-
-Al pie de la escalera, la escena cambió.
-
-Goku está sentado en el pasto, con la cara apoyada en las manos, mirando. Bills sigue sentado en el escalón más bajo, con la bolsa de semillas en el regazo, pero ya no discute: tiene las orejas paradas y la cabeza un poco inclinada, mirando hacia arriba.
-
-Delante de él, de pie, está Vegeta.
-
-No está arrodillado. No está haciendo una reverencia. Está parado derecho, con los puños cerrados a los costados, mirando a Bills a la cara.
-
-—...no la manera de Kakaroto —lo escuchas decir mientras llegas—. Ni la del ángel. La suya. La de un Dios de la Destrucción. Quiero aprender a pelear como pelea usted.
-
-Bills parpadea.
-
-—¿Como yo?
-
-—Como usted.
-
-Bills lo mira de arriba abajo, largo, con la cola quieta. Después mira a Goku, que se encoge de hombros. Después te ve llegar a ti, con Kase en el hombro.
-
-Entrecierra los ojos.
-
-—Tú. —Te señala con la bolsa de semillas—. Hace diez minutos este príncipe no me hablaba sin hacerme una reverencia. Fue a hablar contigo y volvió pidiéndome que le enseñe a destruir. —Ladea la cabeza—. ¿Qué le dijiste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1604 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Escalera de la pirámide · mediodía           ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro, ronroneando              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1605)
+## COMANDO 1 (T1605)
 
 nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
 
-## RESPUESTA 2 (T1605)
+## RESPUESTA 1 (T1605)
 
 > nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
 
@@ -122,11 +68,11 @@ Bills baja un escalón, sin sacarte los ojos de encima. La cola se le eriza de n
 
 ---
 
-## COMANDO 3 (T1606)
+## COMANDO 2 (T1606)
 
 es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
 
-## RESPUESTA 3 (T1606)
+## RESPUESTA 2 (T1606)
 
 > es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
 
@@ -177,4 +123,73 @@ Ladea la cabeza.
 
 ---
 
-ESTADO AL CIERRE: Facundo explicó que puede combinar cualquier habilidad. Whis lo estudia. Bills: "¿Cuánto tienes ahí adentro, muchacho del bolsillo?" Facundo puede contestar.
+## COMANDO 3 (T1607)
+
+mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
+
+## RESPUESTA 3 (T1607)
+
+> mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
+
+> —Mucho, de hecho. Perdón, Bills, por copiarte esto. Pero mira.
+
+Te das vuelta hacia la explanada.
+
+Al borde, donde termina el pasto, hay una roca suelta del tamaño de un carro, de las que cayeron del cielo cuando dejaste de contenerte. Levantas la mano derecha hacia ella, con la palma abierta.
+
+No tienes que pensar cómo se hace. Lo sabes desde ayer, desde que la orden de Bills chocó contra tu piel y se rompió. Lo sabes igual que sabes respirar.
+
+Alrededor de la roca aparece un contorno.
+
+Es violeta, como el de Bills, finísimo, como un lápiz que repasa la silueta. Pero por el borde de la línea corre otra cosa, que en el de Bills no estaba: un hilo de llama blanca y azul, ondulando despacio, igual que las que te rodean el cuerpo.
+
+Adentro del contorno, la roca se queda callada.
+
+Y deja de ser.
+
+No explota ni se rompe. Se deshace en partículas violetas, chiquitas, con chispas blancas y azules mezcladas, que suben, se apagan y no dejan nada. Ni polvo, ni sombra en el suelo. Donde estaba la roca, el pasto sigue verde y derecho, como si ahí nunca hubiera habido nada.
+
+Bajas la mano.
+
+Silencio.
+
+Bills está parado en el borde del círculo de pasto aplastado, con la bolsa de semillas colgando de la mano. No se mueve. Las orejas se le aplastan hacia atrás, despacio, hasta quedar pegadas a la cabeza. La cola se le queda tiesa, recta, como un palo.
+
+—Eso —dice, muy bajito— es un Hakai.
+
+—Sí, Bills-sama —dice Whis. Está mirando el lugar donde estaba la roca, sin sonreír—. Es un Hakai.
+
+—Es mi Hakai.
+
+—Así parece, Bills-sama.
+
+Goku mira a Bills, después a ti, después a Bills otra vez, con la boca abierta. Kase, sentado a su lado, mira la nada donde estaba la roca y después se lame una pata.
+
+Vegeta descruza los brazos.
+
+Bills da un paso adelante, al fin, pisando el círculo de pasto aplastado. Se le eriza el pelo de la nuca. Te mira con los ojos amarillos muy abiertos, y por un segundo no sabes si va a gritar, a reírse o a llorar de rabia.
+
+—¿Copiarme? —Le tiembla la voz—. ¿Me copiaste? ¿Cuándo? ¿Cómo que me copiaste? ¡Eso es mío! ¡Soy el Dios de la Destrucción! ¡Es lo único que hago! ¡Es mi trabajo!
+
+Le apunta a tu cara con la bolsa de semillas, como si fuera un arma.
+
+—¡¿Y ahora qué?! ¡¿Yo ya no lo tengo?! —Se mira la palma libre, desesperado, y la abre y la cierra—. ¡¿Me lo sacaste?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1607 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 53% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~42 min) · Velo: ki bajo   ║
+║ Kase: sentado al lado de Goku                ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo usó el Hakai sobre una roca y confesó que lo copió. Bills: "¿Me copiaste? ¡Es mi trabajo! ¿Me lo sacaste?" Facundo puede contestar.
