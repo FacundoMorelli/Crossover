@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1680)
-
-simula unos dias mas y despidiendome de todos por unas semanas seguramente(cuanto queda para la resurrección de freezer?)
-
-## RESPUESTA 1 (T1680)
-
-> simula unos días más, despidiéndome de todos por unas semanas seguramente
-
-Miércoles. El desayuno sale mejor de lo que Erasa esperaba: pan tostado, mermelada de durazno, café, y un platito de leche para Kase, que ella baja con el pelo todavía mojado y se queda mirando desde la escalera como si hubiera encontrado un tesoro. Pasan el día juntos sin plan. El museo de la Capital del Oeste, donde ella se aburre en la sala de los dinosaurios y se emociona en la de los barcos antiguos. La heladería de la foto. Una tarde entera tirados en el pasto del parque, con Kase durmiendo sobre la panza de Erasa. A las cinco vuelve su madre; los encuentra en la cocina, lavando los platos del desayuno a las cinco de la tarde, y no dice nada, pero pone a calentar agua para tres.
-
-Jueves, por la mañana. Whis baja del cielo en el jardín de la Corporación Cápsula, a buscar a Goku y a Vegeta para seguir el entrenamiento en el planeta de Bills, como había avisado. Goku llega volando desde el campo, todavía con la azada en la mano y la boca llena de arroz. Le dices que te vas por unas semanas. Goku se rasca la cabeza, se ríe y te hace prometer una pelea cuando vuelvas, "¡pero en serio, eh, con todo!". Vegeta te mira de arriba abajo, cruzado de brazos, y dice que cuando vuelvas te va a ganar. Después, sin mirarte, ya de espaldas, que no tardes demasiado. Whis inclina la cabeza: el ofrecimiento sigue en pie, "cuando el señor Morelli lo disponga". Se van en una columna de luz.
-
-Jueves, por la tarde. Erasa te pregunta cuándo. Por primera vez desde la cena de Bulma, te lo pregunta de frente, sentada en el escalón de su casa, con las rodillas abrazadas. Le dices que el sábado. Que son unas semanas. Que vuelves. Ella asiente, mira el buzón del pato un rato largo, y dice que está bien. Que el sábado entonces. Y que hasta el sábado no se habla más del tema. No se habla más del tema.
-
-Viernes. Un día entero sin hablar del tema. Botes con forma de cisne otra vez, porque ella quiere. Panqueques otra vez, porque ella quiere. La dueña le regala a Kase un platito de crema y a Erasa un panqueque con forma de corazón que Erasa se come muy roja sin mirarte. Esa noche cenan los tres en la casa de los Tilos; la madre hace otra vez el pollo, "porque te gustó, no por otra cosa", y le pone a Kase un platito propio en el piso, con su nombre escrito en un papelito.
-
-Sábado, mañana. La Corporación Cápsula. Bulma te abraza tan fuerte que te levanta los pies del piso, y te pone en la mano un estuche plateado de cápsulas: "Vacías. Para que guardes cosas, viajero. Las vas a necesitar. Y la siete es tuya: no te hagas el tonto, te la regalo". Trunks te da la mano como un adulto y después, cuando cree que nadie mira, te abraza la cintura. Goten llora a los gritos, colgado de tu pierna, hasta que Kase le pasa la cola por la cara y se ríe sin querer. Milk te da un táper enorme envuelto en un pañuelo, "para el viaje, que flaco como estás no llegas a ningún lado", y te regaña por irte. Videl y Gohan pasan a despedirse antes del almuerzo. Gohan te da la mano. Videl, con la panza cada vez más grande, te agarra del cuello de la camisa, te baja a su altura y te dice al oído, muy seria, que si Erasa llora, ella también te encuentra. "Mi papá es el campeón del mundo, ¿sabes?". Después te suelta y te sonríe.
-
-Sábado, atardecer. Calle de los Tilos, catorce.
-
-La madre de Erasa te recibe en la puerta, sin delantal. Te mira un rato largo. Después te abraza. Es un abrazo corto, fuerte, que huele a romero, y te dice al oído, bajito, que la isla, la montaña y el gato siguen en pie. Que vuelvas. Que avises antes, que hace pollo. Entra y los deja solos en la vereda.
-
-Erasa sale con el sobretodo negro puesto, aunque hace calor. Tiene los ojos secos. Se nota que se prometió que iban a estar secos.
-
-Te da algo, envuelto en papel de diario. Es un imán. Un imán horrible, de un pato amarillo con un ojo torcido, igual al buzón, que se nota que pintó ella misma.
-
-—Es al revés —dice, con la voz firme—. Mi papá trae imanes cuando vuelve. Yo te doy uno cuando te vas. Así lo traes de vuelta. —Te cierra los dedos sobre el imán—. Es para que vuelvas. No para que te acuerdes. Acordarte te vas a acordar. Es para que vuelvas.
-
-Kase, en tu hombro, estira el cuello y le toca la nariz con la nariz. Erasa se ríe. Y ahí sí, un poco, se le mojan los ojos.
-
-Te despides de ella en la vereda, junto al buzón del pato. Ella no te pide que te quedes. Te da un beso, un último abrazo largo, con la cara escondida en tu pecho, y entra a su casa sin darse vuelta, porque si se da vuelta, dice, no entra más. La puerta se cierra. Un segundo después se abre la cortina del segundo piso, y está ahí, con la manga vacía del sobretodo, saludándote como un limpiaparabrisas.
-
-Sábado, 19:40. La colina detrás del parque central, donde no hay nadie. El sol se hunde detrás de los edificios redondos de la Capital del Oeste. Abajo, entre los techos, se distingue la cúpula amarilla de la Corporación Cápsula y, muy chiquita, la calle de los Tilos.
-
-Tienes el estuche de Bulma, el táper de Milk y el imán del pato en el inventario. Kase está en tu hombro, mirando la ciudad. Estás solo.
-
-Solo falta abrir la puerta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1680 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Colina del parque central · sábado · 19:40   ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Abrir la puerta (viaje libre)      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1681)
+## COMANDO 1 (T1681)
 
 me voy a un nuevo mundo
 
-## RESPUESTA 2 (T1681)
+## RESPUESTA 1 (T1681)
 
 > me voy a un nuevo mundo
 
@@ -148,11 +94,11 @@ Detrás de él, en la avenida, alguien grita por fin.
 
 ---
 
-## COMANDO 3 (T1682)
+## COMANDO 2 (T1682)
 
 hola
 
-## RESPUESTA 3 (T1682)
+## RESPUESTA 2 (T1682)
 
 > hola
 
@@ -213,4 +159,53 @@ Y empieza a correr.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:31, callejón. Santa Claus habla por el muñeco oficinista (voz de mujer mayor, acento extranjero): "Hola, joven. Qué educado. Qué pelo tan curioso. Y qué ojos. Y un gato." "No duele. Te vas a quedar muy quieto y muy bonito." El muñeco suelta el maletín y corre hacia Facundo con los brazos rígidos. En la avenida, más muñecos (señora con bolsa, chico de uniforme, repartidor); civiles huyen; sirena lejos. Kase erizado.
+## COMANDO 3 (T1683)
+
+que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
+
+## RESPUESTA 3 (T1683)
+
+> que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
+
+> —Qué interesante.
+
+El oficinista llega con los brazos estirados hacia tu cuello.
+
+Te corres medio paso. Nada más. Las manos rígidas pasan a un centímetro de tu cara, y el muñeco sigue de largo con todo el impulso, sin frenar, sin girar, como un juguete a cuerda, y se estrella de frente contra la máquina expendedora del fondo. El vidrio se raja. Caen tres latas de café y ruedan por el piso mojado. La luz de la máquina titila más rápido.
+
+> —¿Me puedes decir dónde estoy?
+
+El muñeco se queda pegado a la máquina un segundo. Después la cabeza gira hacia atrás, sola, ciento ochenta grados, sin que el cuerpo se mueva. Cruje. La sonrisa cosida te mira por encima del hombro.
+
+La voz de la mujer tarda un poco más en llegar esta vez.
+
+—Ah. —Suena sorprendida. Interesada—. Eso fue rápido, joven. Muy rápido.
+
+El cuerpo se da vuelta por fin, para alcanzar a la cabeza. Tiene la frente abollada contra el vidrio y no sangra.
+
+—¿Dónde estás? —La voz se ríe, bajito, con ternura—. En Tokio, querido. Detrás de los almacenes Mitsukoshi. —Una pausa—. En el peor lugar y la peor noche para preguntarlo. ¿No eres de aquí? Con ese pelo, claro que no eres de aquí.
+
+En la boca del callejón aparecen dos más. La señora de la bolsa de compras, con un puerro asomando, y el chico de uniforme escolar, con la mochila colgando de un solo hombro. Se paran uno al lado del otro, tapando la salida a la avenida. Sonríen igual. Detrás de ellos la gente ya no corre: ya no queda nadie corriendo. Solo se oyen la lluvia, la sirena que se acerca y, más lejos, algo que suena como un motor muy fuerte, irregular, que arranca y se ahoga, arranca y se ahoga.
+
+—¿Sabes qué? —dice la voz, ahora desde las tres bocas a la vez, un poco desfasadas, como un eco—. Me gustas. Me gusta ese gato. Me voy a quedar con los dos.
+
+Los tres dan un paso hacia ti al mismo tiempo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1683 · CHAINSAW MAN · DÍA 1 · 19:32    ║
+║ Tokio, otoño de 1997                         ║
+║ Callejón detrás de los almacenes Mitsukoshi  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca, erizado                    ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:32, callejón detrás de los almacenes Mitsukoshi (Tokio). Facundo esquivó al oficinista (se estrelló contra la expendedora). Santa (por los muñecos): "Eso fue rápido, joven. Muy rápido." "En Tokio, detrás de los almacenes Mitsukoshi. En el peor lugar y la peor noche." "Me gustas. Me gusta ese gato. Me voy a quedar con los dos." Tres muñecos (oficinista, señora con bolsa, chico de uniforme) avanzan; tapan la salida. A lo lejos, un motor que arranca y se ahoga (Denji). Sirena cerca.
