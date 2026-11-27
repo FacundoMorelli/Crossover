@@ -3,73 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1632)
-
-no, no come eso, compro algodones de azúcar para todos
-
-## RESPUESTA 1 (T1632)
-
-> no, no come eso, compro algodones de azúcar para todos
-
-> —No, no come eso.
-
-—Ah. —Goten mira a Kase, que bosteza a lo lejos—. Bueno. Más para nosotros.
-
-Vas hasta el puesto. El señor de la máquina tiene bigote blanco, gorro de papel y los brazos rosados de azúcar hasta los codos. Le pides cinco.
-
-[Compra: 5 algodones de azúcar · 1.500 zeni.]
-
-El señor los hace uno por uno, girando el palito adentro de la máquina, y el azúcar se le va enroscando en nubes rosadas, enormes, más grandes que la cabeza de Goten. Goten mira cada vuelta con la boca abierta. Trunks vuelve corriendo apenas los ve, con la foto todavía apretada contra el pecho, y se pone en la fila al lado de Goten como si nada hubiera pasado.
-
-Le das uno a Goten. Uno a Trunks. Uno queda en tu mano para ti. Uno lo guardas en el inventario, entero, para Goku.
-
-El quinto se lo extiendes a Vegeta.
-
-Vegeta lo mira. Mira la nube rosada. Te mira a ti.
-
-—No como esas cosas —dice—. Son para niños.
-
-Se queda con los brazos cruzados. No lo agarra.
-
-Trunks y Goten ya comen, con la cara hundida en el azúcar, las mejillas pegajosas, riéndose. Vegeta los mira de reojo.
-
-Pasan unos segundos.
-
-Vegeta descruza un brazo y te saca el algodón de la mano sin mirarte, rápido, como quien no quiere que lo vean. Se da vuelta. Le da un mordisco de espaldas a todos.
-
-No dice nada. Pero no lo devuelve.
-
-Trunks, con la boca llena de azúcar rosa y la foto en la otra mano, se da vuelta hacia ti.
-
-—¡Ya está! ¡Ya subimos a la montaña rusa! —Tiene azúcar en la nariz—. ¡Papá dijo primero la montaña rusa, y ya subimos! ¡Ahora sí! ¡Ahora la técnica!
-
-—¡La técnica! —Goten levanta su algodón como si fuera una espada—. ¡La técnica, la técnica!
-
-Los dos te miran, pegajosos, con los ojos enormes.
-
-Vegeta, de espaldas, deja de masticar. Gira la cabeza lo justo para mirarte por encima del hombro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1632 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Parque · puesto de algodón de azúcar · tarde ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en un banco, a la sombra               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1633)
+## COMANDO 1 (T1633)
 
 les enseñó otra tecnica
 
-## RESPUESTA 2 (T1633)
+## RESPUESTA 1 (T1633)
 
 > les enseñó otra tecnica
 
@@ -155,11 +93,11 @@ Contra el árbol, Vegeta termina el algodón de azúcar, en silencio. No dice na
 
 ---
 
-## COMANDO 3 (T1634)
+## COMANDO 2 (T1634)
 
 Les digo que ellos le pongan nombre
 
-## RESPUESTA 3 (T1634)
+## RESPUESTA 2 (T1634)
 
 > Les digo que ellos le pongan nombre
 
@@ -235,4 +173,96 @@ Vegeta mira el cielo naranja y después a ti.
 
 ---
 
-ESTADO AL CIERRE: La técnica se llama Remolino Gemelo. Vegeta cita a los chicos mañana a las 6 y le recuerda a Facundo la cena ("Bulma me va a matar si te devuelvo tarde"). Atardecer. Facundo puede actuar.
+## COMANDO 3 (T1635)
+
+esta bien, volvemos, simula hasta la cena
+
+## RESPUESTA 3 (T1635)
+
+> esta bien, volvemos, simula hasta la cena
+
+> —Está bien.
+
+Vuelven volando, con el cielo naranja de frente. Goten y Trunks adelante, haciendo carreras, todavía negros de hollín. Vegeta a un costado, con la gorra en la mano para que no se le vuele. Tú detrás, con Kase en el hombro, otra vez con las orejas aplastadas y cara de odiar volar.
+
+En la Corporación Cápsula, Bulma los ve aterrizar desde la ventana de la cocina y se ríe tanto que se le cae una bandeja. Trunks le muestra la foto de la montaña rusa antes de que ella pueda decir nada. Bulma la mira, mira a Vegeta, y se tiene que sentar en el piso de la risa. La foto termina pegada en la heladera con un imán en forma de cápsula. Vegeta la arranca dos veces. Las dos veces, Bulma la vuelve a pegar.
+
+Le das a Goku su algodón de azúcar, intacto, sacado del inventario. Goku está sentado en el piso de la cocina, rodeado de una montaña de cáscaras de papa, con un pelapapas en cada mano. Se le llenan los ojos de lágrimas.
+
+—¡Facundo, eres el mejor!
+
+—¡Goku, las papas! —grita Milk.
+
+La cocina es un campo de batalla. Milk se mueve entre cinco hornallas al mismo tiempo, con el pelo atado, el delantal manchado y una cara de concentración que asusta. Hay ollas por todos lados, fuentes de carne, pescados enteros, montañas de arroz, verduras cortadas en formas perfectas. No deja entrar a nadie. A Goten y a Trunks los manda a bañarse con un solo grito.
+
+A eso de las siete, Bills baja de la habitación de huéspedes, olfatea el aire desde la escalera y se sienta en la mesa del jardín. No se mueve más de ahí. Whis se sienta a su lado con una taza de té y la libretita abierta.
+
+A las siete y media llegan Gohan y Videl, en un auto volador. Videl tiene la panza ya redonda debajo de un vestido suelto y una sonrisa de oreja a oreja. Apenas te ve, te señala con el dedo.
+
+—¡Tú! —Se ríe—. ¡No me dijiste que estabas buscando novia!
+
+—Videl... —dice Gohan, rojo.
+
+—¡Erasa me llamó cuatro veces! ¡Cuatro! ¡Está histérica! —Te mira de arriba abajo—. Bueno, con esa camisa entiendo por qué.
+
+Gohan te da la mano, con una sonrisa tímida.
+
+—Hola, Facundo. Perdón por Videl. Y por Erasa. Y por mi mamá. —Se rasca la nuca, igual que su papá—. Bueno, por todos.
+
+Bulma pone la mesa larga en el jardín, bajo unas lucecitas colgadas entre los árboles. Milk saca la comida fuente por fuente, sin dejar que nadie la ayude. El olor llena todo. Bills, sentado, no dice nada, pero se le mueve la nariz con cada fuente que llega, y la cola le va de un lado al otro, cada vez más rápido.
+
+Kase se sube a la silla que está al lado de la tuya y se sienta ahí, muy derecho, como un invitado más.
+
+A las ocho en punto suena el timbre.
+
+Bulma corre a abrir. Vuelve por el jardín con alguien detrás.
+
+Erasa es exactamente como en la foto, y más. Rubia, con el pelo corto lleno de rulos que le rebotan al caminar, los ojos celestes muy abiertos y una sonrisa que no le entra en la cara. Trae un vestido amarillo, corto, con flores blancas, y unas sandalias. En una mano, una caja de torta atada con una cinta rosa. En la otra, una bolsita de una tienda de mascotas, con un ratón de juguete asomando.
+
+Entra al jardín hablando.
+
+—¡Perdón, perdón! ¡Llegué justo! Bueno, llegué a las ocho, que es justo, pero quería llegar antes y mi mamá no terminaba de decorar la torta, y después el taxi se perdió, y...
+
+Se calla.
+
+Ve la mesa larga con las lucecitas. Ve a Goku con el algodón de azúcar. Ve a Vegeta con los brazos cruzados. Ve a Whis, alto, celeste, con su aureola y su taza de té. Ve a Bills, violeta, enorme, con las orejas paradas, sentado a la cabecera, mirando las fuentes de comida como si fueran a escaparse.
+
+Se queda quieta. Abre la boca. La cierra.
+
+Después mira a Bulma.
+
+—No era disfraz —dice, bajito.
+
+—Te dije que no era disfraz —dice Bulma.
+
+Erasa traga saliva. Mira a Bills otra vez. Bills la mira a ella. Erasa aparta la vista enseguida, como quien no debe mirar mucho.
+
+Y entonces te ve.
+
+A ti, parado junto a la mesa, con la camisa blanca arremangada, los dragones en los brazos, el pelo blanco y azul. Y a Kase, sentado en la silla de al lado, mirándola con los ojos rojo y azul.
+
+Se le ilumina toda la cara.
+
+—¡Kase! —Se le escapa a ella primero, antes que nada—. ¡Es Kase! ¡Es más grande que en la foto!
+
+Se da cuenta de lo que dijo. Se pone roja. Te mira a ti, con la caja de torta en una mano y el ratón de juguete en la otra.
+
+—Hola. —Se ríe, nerviosa—. Perdón. Tú eres... Facundo, ¿no? Facundo Morelli. Yo soy Erasa. —Levanta la caja de torta, como si fuera un saludo—. Traje torta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1635 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:00     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sentado en la silla de al lado         ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 20:00, llegó Erasa. Vio a Bills y Whis ("No era disfraz"). A Facundo: "Tú eres Facundo, ¿no? Yo soy Erasa. Traje torta." Facundo puede contestar.
