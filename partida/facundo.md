@@ -60,3 +60,4 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 1237 · MISIÓN DE MUNDO DE TOKYO GHOUL CUMPLIDA: negocia con Washuu Tsuneyoshi y la Operación del Búho se suspende; nadie de Anteiku muere ni es capturado. Nivel 29. Mundos completados: 11.
 - Turno 1277 · Deja Tokyo Ghoul (Día 7, Anteiku) y vuelve a Black Clover ~90 días después de irse, el día del asalto a la base del Ojo.
 - Turno 1582 · Dragon Ball, planeta de Bills · Recibe en serio un Hakai de Bills y lo rompe en SSJ Blue. Copia el poder de un Dios de la Destrucción. Nivel 32.
+- Turno 1599 · Dragon Ball, planeta de Bills · Vence a Bills en el choque final (Ultra Instinto Dominado, conteniéndose para no matarlo). Nivel 33.

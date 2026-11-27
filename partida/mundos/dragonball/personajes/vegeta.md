@@ -158,3 +158,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1596 · A Goku, a la vez que Bills: "Tú te callas." Aparta la vista primero.
 - T1597 · Se baja de la roca y queda pegado a la barrera, al lado de Goku, sin darse cuenta.
 - T1598 · Clava los pies; aun así resbala hacia atrás cuando Facundo deja de contenerse.
+- T1599 · Ve el golpe final; ojos fijos en el agujero de la pirámide, sin parpadear.

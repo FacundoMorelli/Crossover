@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1596)
-
-quien diria que ayudaría a un dios a entrenar no?
-
-## RESPUESTA 1 (T1596)
-
-> quien diria que ayudaría a un dios a entrenar no?
-
-> —¿Quién diría que terminaría ayudando a un dios a entrenar, no?
-
-A Bills se le borra la sonrisa de golpe.
-
-—¿Entrenar? —Las orejas se le aplastan hacia atrás—. Un dios no entrena. Un dios es. Yo no estoy entrenando. Estoy... —Busca la palabra con la mano, en el aire—. Estoy investigando.
-
-Afuera, Whis se tapa la boca. No alcanza a tapar la risa.
-
-—Bills-sama, con todo respeto. Hace más de doscientos años que le pido que entrene conmigo eso que acaba de hacer. —Se seca una lágrima con la punta del dedo—. Y nunca quiso. Siempre tenía sueño.
-
-—Tenía sueño.
-
-—Y ahora, después de dos hamburguesas y una paliza, cierra los ojos solito en medio de la pelea.
-
-—No fue una paliza.
-
-—Claro que no, Bills-sama.
-
-Goku, agachado contra la barrera, levanta la mano como en la escuela.
-
-—¡Yo también quiero que Facundo me ayude a entrenar eso! ¡Lo del cuerpo que se mueve solo!
-
-—Tú te callas —dicen Bills y Vegeta al mismo tiempo.
-
-Se miran. Vegeta aparta la vista primero, de mal humor.
-
-Bills resopla, se sacude el pantalón blanco y se vuelve a parar delante de ti, a cinco pasos. Las orejas le vuelven a subir despacio. Te mira con los ojos entrecerrados, y por debajo del orgullo se le nota algo que no puede esconder: está contento como un chico.
-
-—No es entrenar —repite, por las dudas—. Es que ayer me ganaste en lo de comer, en lo de la esfera y en lo del Hakai. No pienso dejar que también me ganes en esto.
-
-Cierra los ojos otra vez. El aura violeta se le baja, finita, pegada a la piel. La cola se le queda quieta.
-
-—Otra vez —murmura—. Y no me tengas lástima.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1596 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera nueva) · mañana           ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.161 · 0 zeni                  ║
-║ Energía 92% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: en el apoyabrazos de Whis (afuera)     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (tercera ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1597)
+## COMANDO 1 (T1597)
 
 esta bien, seguimos peleando
 
-## RESPUESTA 2 (T1597)
+## RESPUESTA 1 (T1597)
 
 > esta bien, seguimos peleando
 
@@ -125,11 +67,11 @@ Afuera, Whis da un paso hacia la barrera.
 
 ---
 
-## COMANDO 3 (T1598)
+## COMANDO 2 (T1598)
 
 esta bien
 
-## RESPUESTA 3 (T1598)
+## RESPUESTA 2 (T1598)
 
 > esta bien
 
@@ -188,4 +130,90 @@ Kase, en el apoyabrazos, se pone de pie. No te mira con miedo. Te mira como te m
 
 ---
 
-ESTADO AL CIERRE: Facundo reunió todo su poder (sin golpear). El planeta cede. Whis advierte: golpear con todo borra a Bills, al Supremo Kaioshin y al planeta, quizá más. Bills no baja el puño ("¡Le pedí todo!"). Facundo decide.
+## COMANDO 3 (T1599)
+
+le pego conteniendome un poco para no matarlo
+
+## RESPUESTA 3 (T1599)
+
+> le pego conteniendome un poco para no matarlo
+
+Bajas un poco.
+
+No todo: lo justo. Del poder que tenías reunido sueltas una parte, y la explanada deja de hundirse. Las rocas del cielo dejan de caer y quedan flotando donde estaban, torcidas. La barrera de Whis vuelve a ser una cúpula, doblada y temblando, pero entera. Las chispas plateadas que colgaban en el aire caen como nieve.
+
+Bills lo ve. Las orejas le suben un poco.
+
+—Eso es trampa —dice, con la voz temblando.
+
+Y se lanza.
+
+Tu cuerpo también. No lo decides tú: el Ultra Instinto elige el momento, el ángulo y el pie de apoyo. Tu puño derecho sale al encuentro del suyo, y los dos se cruzan a mitad de camino, en el centro exacto de la explanada.
+
+Por un instante no pasa nada.
+
+Los dos puños se tocan nudillo contra nudillo. El violeta del Hakai contra el plata. La luz sin centro de Bills se aprieta contra tu mano, quiere entrar, busca la orden de deja de ser.
+
+No encuentra por dónde.
+
+El violeta se agrieta. Las grietas le suben por los nudillos, por la muñeca, por el brazo, blancas, finas, igual que ayer. Y el aura de Bills se rompe en pedazos, como un vidrio pisado.
+
+El sonido llega tarde, y llega de golpe. Un trueno que no termina de sonar.
+
+Bills sale despedido hacia atrás, con el brazo estirado todavía. Cruza la explanada sin tocar el suelo. Atraviesa la barrera de Whis, que esta vez se rompe de verdad, en mil pedazos de luz que se apagan en el aire. Pasa rozando la silla de playa, sobre la cabeza de Kase, y Kase no se agacha. Cruza el jardín. Le pega a la base de la pirámide y entra en la piedra.
+
+La pirámide tiembla de arriba abajo. Una grieta enorme le sube por el frente hasta la punta. Pero no se cae.
+
+Después, silencio.
+
+El polvo baja despacio, en el aire quieto. Las rocas flotantes del cielo se acomodan solas, de a poco, en sus lugares. En la base de la pirámide hay un agujero con forma de gato.
+
+Afuera, nadie se mueve. Goku sigue de rodillas, con la boca abierta. Vegeta tiene los ojos fijos en el agujero y no parpadea. Whis tiene el báculo levantado, a medio camino de algo que no llegó a hacer, y lo baja muy despacio.
+
+Kase se vuelve a sentar en el apoyabrazos.
+
+Del agujero de la pirámide sale tosiendo un hilo de polvo. Después una mano violeta, que se agarra del borde. Después una oreja, torcida.
+
+Bills sale arrastrándose. Se deja caer de espaldas en el pasto del jardín, con los brazos abiertos. Tiene la ropa hecha jirones, el brazo derecho colgando, sin fuerza, y la cara llena de polvo. Respira por la boca. Mira el cielo.
+
+Y se ríe. Bajito al principio. Después más fuerte, aunque le duele.
+
+[Rival vencido: Bills, Dios de la Destrucción del Universo 7.]
+
+[Has obtenido 50.000 Fragmentos.]
+
+[Has obtenido 40.000 EXP.]
+
+[Has subido de nivel.]
+
+Whis llega a su lado sin caminar: un segundo está en la silla, y al siguiente está parado junto a Bills, mirándolo desde arriba con el báculo en la mano.
+
+—¿Está entero, Bills-sama?
+
+—Estoy existiendo —dice Bills, mirando el cielo, sin dejar de reír—. Que ya es bastante.
+
+Gira la cabeza en el pasto, despacio, y te busca con los ojos al otro lado de la explanada.
+
+—Te contuviste —te dice. No suena enojado. Suena a otra cosa—. Al final te contuviste, muchacho del bolsillo. Lo vi.
+
+Cierra los ojos.
+
+—Bien hecho.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1599 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada destrozada · mediodía              ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.161 · 0 zeni                  ║
+║ Energía 55% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: sentado en el apoyabrazos de Whis      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills vencido, vivo, tirado en el pasto junto a la pirámide agrietada: "Te contuviste. Lo vi. Bien hecho." Whis a su lado. Barrera rota. Nivel 33. Facundo puede actuar.

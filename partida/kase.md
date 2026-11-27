@@ -153,3 +153,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1595 · No se deja agarrar por Whis: salta solo al apoyabrazos y mira el centro de la explanada.
 - T1597 · Sigue la pelea con la cabeza todo el tiempo; el único que los ve siempre.
 - T1598 · Se pone de pie en el apoyabrazos; mira a Facundo sin miedo, como siempre.
+- T1599 · Bills pasa volando sobre su cabeza; no se agacha. Se vuelve a sentar.

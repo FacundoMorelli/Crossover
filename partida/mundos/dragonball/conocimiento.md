@@ -156,3 +156,4 @@
 - T1587 · Bills, Whis, Goku y Vegeta VIERON a Facundo en Ultra Instinto Dominado (Whis lo nombró en voz alta).
 - T1591 · Bills, Whis, Goku y Vegeta VIERON a Facundo hacer aparecer 20 bandejas de la nada (inventario dimensional); Bills dedujo que lo del abrigo no era cierto.
 - T1598 · Bills, Whis, Goku y Vegeta VIERON los efectos del poder sin contención de Facundo (UI Dominado): explanada hundida, rocas cayendo, barrera doblada. El Velo sigue: nadie lo siente.
+- T1599 · Bills, Whis, Goku y Vegeta VIERON a Facundo vencer a Bills (choque final). Bills vio que al final se contuvo.

@@ -70,3 +70,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1596 · Se ríe: "Hace más de doscientos años que le pido que entrene conmigo eso que acaba de hacer. Y nunca quiso. Siempre tenía sueño." "Y ahora, después de dos hamburguesas y una paliza..."
 - T1597 · De pie, báculo en el suelo, ojos abiertos del todo, sin sonrisa, mirando a Bills pelear con los ojos cerrados. Ante el último golpe: "Bills-sama..."
 - T1598 · Pegado a la barrera doblada, sin voz tranquila, a Facundo: "Si golpea con eso, Bills-sama... va a dejar de ser del todo. Y la vida de un Dios de la Destrucción está atada a la de su Supremo Kaioshin. Si cae uno, cae el otro. Y este planeta no va a quedar. Y no sé si va a quedar algo más."
+- T1599 · Báculo levantado a medio camino; lo baja. Aparece junto a Bills: "¿Está entero, Bills-sama?"

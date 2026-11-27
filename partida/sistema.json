@@ -1,13 +1,13 @@
 {
-  "turno": 1598,
+  "turno": 1599,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, miércoles (hora Tierra), mediodía en el planeta de Bills",
   "edad": 18,
-  "nivel": 32,
-  "exp": 401130,
-  "exp_siguiente_nivel": 440000,
-  "fragmentos": 239161,
+  "nivel": 33,
+  "exp": 441130,
+  "exp_siguiente_nivel": 480000,
+  "fragmentos": 289161,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -75,18 +75,18 @@
       "cambio": "1 Fragmento = 11.000 ryo (fijado T1305)"
     }
   },
-  "puntos_de_stat_sin_asignar": 180,
+  "puntos_de_stat_sin_asignar": 185,
   "stats": {
-    "fuerza": 3998,
-    "velocidad": 4001,
-    "resistencia": 3998,
-    "tecnica": 4001,
-    "percepcion": 3999,
-    "voluntad": 3999,
-    "energia": 4000,
-    "control": 3999
+    "fuerza": 3999,
+    "velocidad": 4002,
+    "resistencia": 3999,
+    "tecnica": 4002,
+    "percepcion": 4000,
+    "voluntad": 4000,
+    "energia": 4001,
+    "control": 4000
   },
-  "energia_actual_pct": 80,
+  "energia_actual_pct": 55,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2293,6 +2293,13 @@
       "turno": 1568,
       "fragmentos": 25000,
       "nota": "compañero en serio, mitad de 50.000"
+    },
+    {
+      "nombre": "Bills",
+      "mundo": "dragonball",
+      "cuando": "T1599, planeta de Bills, mediodía (año 778)",
+      "como": "Choque final de puños: Facundo en Ultra Instinto Dominado, conteniéndose un poco para no matarlo, rompe el Hakai de su puño; Bills atraviesa la barrera de Whis y se incrusta en la base de la pirámide. Vivo; brazo derecho sin fuerza.",
+      "pago": "50.000 Fragmentos (150+), 40.000 EXP"
     }
   ],
   "viaje": {
