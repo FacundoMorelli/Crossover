@@ -1580,3 +1580,4 @@ T1578 · DRAGON BALL · Planeta de Bills · Empieza la pelea: intercambio parejo
 T1579 · DRAGON BALL · Planeta de Bills · Se traga la esfera de destrucción de Bills con el Eclipse. Bills baja: "Eso no fue un Hakai... se la comió. ¿Adónde la mandaste?"
 T1580 · DRAGON BALL · Planeta de Bills · "A ningún lado." Whis admite no saber qué fue. Bills, encantado, palma arriba: "¿Y un Hakai? ¿También te lo comes?"
 T1581 · DRAGON BALL · Planeta de Bills · "Podríamos probarlo." Whis avisa que el Hakai no se deshace; Goku serio; Kase de pie. Bills carga un Hakai en serio con la palma: "¿Listo?"
+T1582 · DRAGON BALL · Planeta de Bills · Recibe el Hakai en serio y lo rompe con el aura Blue (pierde borde del sobretodo, cordones, punta de un mechón). COPIA DEL HAKAI (Bills). +40.000 EXP. NIVEL 32. Bills: "Mañana no me duermo. Ni en cien años."

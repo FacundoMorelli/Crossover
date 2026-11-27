@@ -118,3 +118,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1578 · No puede seguir la pelea de Facundo y Bills ni en azul: "¡No los veo! ¡Ni con el azul!"
 - T1579 · Ve el Eclipse tragarse la esfera de Bills; boca abierta.
 - T1581 · Serio por primera vez en el día: "¡Oye, Facundo! ¡Eso no es como un golpe! ¡Yo vi lo que le hizo a la roca!"
+- T1582 · Grita el nombre de Facundo cuando el Hakai lo envuelve; manos aplastadas contra la barrera cuando lo rompe.

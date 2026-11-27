@@ -1,12 +1,12 @@
 {
-  "turno": 1581,
+  "turno": 1582,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), tarde en el planeta de Bills",
   "edad": 18,
-  "nivel": 31,
-  "exp": 361130,
-  "exp_siguiente_nivel": 400000,
+  "nivel": 32,
+  "exp": 401130,
+  "exp_siguiente_nivel": 440000,
   "fragmentos": 239239,
   "plata_local": {
     "jujutsu": {
@@ -75,18 +75,18 @@
       "cambio": "1 Fragmento = 11.000 ryo (fijado T1305)"
     }
   },
-  "puntos_de_stat_sin_asignar": 175,
+  "puntos_de_stat_sin_asignar": 180,
   "stats": {
-    "fuerza": 3997,
-    "velocidad": 4000,
-    "resistencia": 3997,
-    "tecnica": 4000,
-    "percepcion": 3998,
-    "voluntad": 3998,
-    "energia": 3999,
-    "control": 3998
+    "fuerza": 3998,
+    "velocidad": 4001,
+    "resistencia": 3998,
+    "tecnica": 4001,
+    "percepcion": 3999,
+    "voluntad": 3999,
+    "energia": 4000,
+    "control": 3999
   },
-  "energia_actual_pct": 88,
+  "energia_actual_pct": 72,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1191,6 +1191,22 @@
         "Sin condiciones, dominio total",
         "Naruto conserva el suyo y a Kurama"
       ]
+    },
+    {
+      "poder": "Destrucción (Hakai) y poder de un Dios de la Destrucción",
+      "de": "Bills",
+      "mundo": "dragonball",
+      "cuando": "T1582, planeta de Bills, explanada, tarde (año 778)",
+      "mision": "Recibir un Hakai de Bills de frente, en serio, y seguir existiendo (cumplida: Facundo en SSJ Blue rompió el Hakai con el aura; perdió el borde del sobretodo, cordones de un borceguí y la punta de un mechón)",
+      "incluye": [
+        "Hakai (destrucción: que las cosas dejen de ser)",
+        "Energía de destrucción",
+        "Esferas de destrucción",
+        "Ki divino de un Dios de la Destrucción",
+        "Estilo de pelea de Bills",
+        "R2: todo lo que Bills llega a hacer en su canon"
+      ],
+      "dominio": "total"
     }
   ],
   "misiones_de_copia_activas": [
@@ -1571,14 +1587,6 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
-    },
-    {
-      "poder": "Destrucción (Hakai) y poder de un Dios de la Destrucción",
-      "de": "Bills",
-      "mundo": "dragonball",
-      "cuando": "T1555",
-      "mision": "Recibir un Hakai de Bills dirigido a ti, de frente y en serio, y seguir existiendo.",
-      "dificultad": "EXTREMA"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -2711,5 +2719,6 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  }
+  },
+  "dragonball_nota_T1582": "Sobretodo comido hasta las rodillas, borceguí sin cordones, un mechón más corto (por el Hakai)."
 }
