@@ -3,63 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1580)
-
-a ningun lado
-
-## RESPUESTA 1 (T1580)
-
-> a ningun lado
-
-> —A ningún lado.
-
-Bills parpadea.
-
-—¿A ningún lado? —Repite despacio, como si probara el sabor de las palabras—. Las cosas no van a ningún lado. Todo va a algún lado. Hasta lo que yo destruyo se vuelve polvo, y el polvo...
-
-Se calla. Mira otra vez el pedazo de cielo vacío donde estaba su esfera.
-
-—Hm.
-
-Se rasca la oreja. Da una vuelta a tu alrededor, despacio, a diez pasos, como un gato rodeando algo que acaba de aparecer en su casa. Te mira los ojos, que volvieron a ser azules, y la mano con la que hiciste el punto negro. Después, por encima de tu hombro, mira a Kase en el apoyabrazos, que le devuelve la mirada sin pestañear.
-
-—Whis. —No se da vuelta para hablarle—. ¿Tú sabes qué fue eso?
-
-Afuera, Whis tarda un poco más de lo normal en contestar.
-
-—No, Bills-sama. —Sonríe, pero tiene el báculo bien agarrado—. Honestamente, no tengo idea.
-
-Las orejas de Bills se le mueven solas, hacia atrás y hacia adelante.
-
-—Whis no tiene idea —te dice, casi en un susurro, encantado—. ¿Sabes hace cuánto que Whis no tiene idea de algo?
-
-Se detiene delante de ti otra vez, a diez pasos. Levanta la mano derecha a la altura del pecho, con la palma hacia arriba. No junta nada todavía. Solo mira la palma vacía, y después a ti.
-
-—Te comiste mi esfera. —Ladea la cabeza—. ¿Y un Hakai? ¿Un Hakai también te lo comes, o ese sí te hace dejar de ser?
-
-Lo dice sin enojo, con la voz de quien pregunta si una fruta es dulce. Pero afuera de la cúpula, Goku dejó de sonreír, y Whis dio un paso hacia la barrera.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1580 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera muy agrietada) · tarde    ║
-║ NIVEL 31 · EXP 361.130/400.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 88% · Ojos: bien · mejilla abierta   ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: con Whis (afuera)                      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (misión del Hakai) ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1581)
+## COMANDO 1 (T1581)
 
 podríamos probarlo
 
-## RESPUESTA 2 (T1581)
+## RESPUESTA 1 (T1581)
 
 > podríamos probarlo
 
@@ -118,11 +66,11 @@ El contorno violeta tiembla en su palma, quieto, listo.
 
 ---
 
-## COMANDO 3 (T1582)
+## COMANDO 2 (T1582)
 
 listo, lo hago
 
-## RESPUESTA 3 (T1582)
+## RESPUESTA 2 (T1582)
 
 > listo, lo hago
 
@@ -217,4 +165,64 @@ Y la sonrisa vuelve. No la de gato aburrido, ni la de gato curioso. Otra, enorme
 
 ---
 
-ESTADO AL CIERRE: Hakai roto; copia de Bills obtenida; nivel 32. Bills, fascinado: "Mañana no me duermo. Ni pasado. Ni en cien años." Facundo en SSJ Blue, sobretodo comido hasta las rodillas. Facundo puede actuar.
+## COMANDO 3 (T1583)
+
+ustedes tienen padres? bills y whis
+
+## RESPUESTA 3 (T1583)
+
+> ustedes tienen padres? bills y whis
+
+> —¿Ustedes tienen padres? Bills y Whis.
+
+Bills se queda con la sonrisa a medio camino.
+
+—¿Qué?
+
+Te mira como si le hubieras preguntado de qué color es el número siete. Después mira a Whis, afuera, y después a ti otra vez.
+
+—Acabo de darte un Hakai en serio —dice, despacio—. El primero en no sé cuánto tiempo. Lo rompiste. Te comiste mi esfera. ¿Y lo que quieres saber es si tengo padres?
+
+Afuera, Whis se ríe bajito, detrás de la mano. Se agacha, levanta la taza del pasto, la mira, ve que está vacía, y la hace desaparecer con un golpecito del báculo.
+
+—Es una pregunta muy de la Tierra, Bills-sama —dice—. Los terrícolas siempre preguntan por la familia. Bulma-san me preguntó lo mismo en el crucero, ¿no se acuerda? Usted estaba comiendo.
+
+—No me acuerdo. Estaba comiendo.
+
+Whis se acerca a la barrera, con las manos juntas sobre el báculo, tranquilo otra vez.
+
+—Yo sí tengo, Facundo-san. Un padre. —Lo dice como si hablara del tiempo—. Es el Gran Sacerdote. Sirve directamente al Rey de Todo. Es muy estricto, muy correcto y, entre nosotros, no le gusta que sus hijos coman tanto postre como yo.
+
+Sonríe, con los ojos cerrados.
+
+—Tengo muchos hermanos y hermanas. Cada uno acompaña a un dios como Bills-sama, en otro universo. Pero eso es asunto de ángeles.
+
+Bills resopla por la nariz y se cruza de brazos. La cola le da un golpe seco contra el suelo.
+
+—Yo no. —Mira para otro lado—. O sí. No sé. Hace demasiado tiempo. Los dioses de la destrucción no andamos por ahí acordándonos de quién nos hizo la comida cuando éramos chicos.
+
+Se rasca la oreja, molesto, y por un segundo no te mira.
+
+—Y además no es asunto tuyo, muchacho del bolsillo.
+
+Después te mira de reojo, con los ojos entrecerrados.
+
+—¿Por qué? ¿Tú tienes?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1583 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera muy agrietada) · tarde    ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 72% · Ojos: bien · mejilla abierta   ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: sentado en el apoyabrazos de Whis      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (en pausa)         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Pelea en pausa. Whis contó que su padre es el Gran Sacerdote. Bills no se acuerda de los suyos; pregunta de reojo: "¿Por qué? ¿Tú tienes?" Facundo puede contestar.
