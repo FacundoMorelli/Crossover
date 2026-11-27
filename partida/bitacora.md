@@ -1530,3 +1530,4 @@ T1528 · DRAGON BALL · Crucero · Otra caja de pudines (1 F) para Whis (esconde
 T1529 · DRAGON BALL · Crucero · Se presenta a Whis. Bills carga una esfera gigante sobre la Tierra; Goku delante. Pánico. Whis tranquilo, mira de reojo a Facundo.
 T1530 · DRAGON BALL · Crucero · "Goku va a poder devolverla." Goku absorbe la esfera de Bills. Bills, con un raspón y sueño: "La Tierra se queda." Pide más pudín a Facundo.
 T1531 · DRAGON BALL · Crucero · Dos cajas de pudín (2 F) para el viaje de Bills. Bills: "Este planeta no lo destruyo. Por un tiempo largo." "Adiós, Kase" (parpadeo lento). Bills y Whis se van. Bulma: "¿Quién eres tú?"
+T1532 · DRAGON BALL · Crucero · "Soy un viajero, nada más." Todos enumeran lo raro; Milk lo defiende; Bulma: "Guárdate tus secretos." Sigue la fiesta. Vegeta: "Mañana. A las seis. Viajero."

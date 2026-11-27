@@ -18,3 +18,4 @@ ESTADO: activa
 - T1525 · Por la idea de Facundo: "¡Las esferas! ¡Las tengo aquí! ¡Las junté para el bingo! ¡Eran el primer premio!" Trae las siete en un maletín plateado de Capsule Corp.; las pone en círculo en la cubierta. "¿Quién lo llama?"
 - T1526 · Le vacía una jarra de agua helada en la cara a Goku para despertarlo. A Vegeta: "¡Sí lo tienes [el corazón puro]! ¡Más o menos!"
 - T1531 · Tras la partida de Bills y Whis, brazos cruzados: "Bueno. Ahora sí. ¿Quién eres tú?"
+- T1532 · "Un viajero. Está bien, viajero. Guárdate tus secretos. Ya tengo demasiados con este. Salvaste mi fiesta, mi planeta y mi torta. Con eso me alcanza. Por hoy." Reanuda la fiesta: "¡Y alguien prenda las velas antes de que aparezca otro dios!"

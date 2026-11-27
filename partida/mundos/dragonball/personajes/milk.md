@@ -32,3 +32,4 @@ ESTADO: bien.
 - T1514 · (Corregido T1515: no hay grito; nadie se mojó.)
 - T1524 · Agarra a Goten ante el ultimátum.
 - T1527 · "¡Lo sabía! ¡Casi no comía! ¡Voy a ser abuela!" (llorando)
+- T1532 · Defiende a Facundo: "¡Es un buen muchacho! Me aró los dos campos antes del mediodía. Y come todo lo que le sirvo. Aunque no lee." Abraza llorando a Gohan y Videl.

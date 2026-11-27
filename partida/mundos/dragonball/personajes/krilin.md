@@ -23,3 +23,4 @@ QUÉ SABE DE FACUNDO: (T258) se llama Facundo; mató a Dabura y a Babidi; domó 
 ESTADO: libre, de carne (T257); tobillo dolorido (la grieta).
 - T1514 · Deja de comer al ver la tromba.
 - T1520 · Pone a Marron detrás de las piernas de la 18 cuando pasa Bills.
+- T1532 · "Un viajero que saca cajas enteras de pudín de un bolsillo." "¡Oye!" (a Trunks).

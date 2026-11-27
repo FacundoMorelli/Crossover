@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1529)
-
-me llamo Facundo Morelli
-
-## RESPUESTA 1 (T1529)
-
-> me llamo Facundo Morelli
-
-> —Me llamo Facundo Morelli.
-
-—Facundo-san. —Whis lo repite despacio, con una pequeña inclinación de cabeza, como quien guarda algo en un cajón—. Mucho gusto. Y gracias por los pudines. Son, de verdad, extraordinarios.
-
-Se toca la túnica, donde los tiene escondidos, con una palmadita satisfecha.
-
-Arriba, el cielo cambia.
-
-Las luces rojas y violetas, que iban y venían sobre el mar como relámpagos, se detienen de golpe. El trueno se corta. Durante un segundo hay silencio total, en el cielo y en la cubierta.
-
-Y después, muy arriba, en lo alto, aparece una luz.
-
-Una esfera. Naranja, roja, del color de un sol que se pone. Chiquita al principio, como una estrella de día. Después más grande. Y más. Y más. Hasta que ocupa un pedazo enorme del cielo, por encima del mar, por encima del crucero, por encima de la Ciudad del Oeste a lo lejos. Una bola de energía del tamaño de una montaña, después del tamaño de una ciudad, que late despacio, colgada sobre todo, y que tiñe el mar de rojo.
-
-En la punta del dedo de una figura chiquita, violeta, que flota delante de ella.
-
-En la cubierta, alguien grita. Mr. Satán se despierta de su desmayo, ve el cielo y se vuelve a desmayar. Milk abraza a Goten. Krilin abraza a la 18 y a Marron a la vez. Bulma baja los binoculares, despacio, con la cara blanca.
-
-—¡Va a tirarla! —grita Vegeta—. ¡Ese... ese loco va a tirarla contra la Tierra!
-
-Gohan da un paso adelante, con los puños apretados, dorado de golpe, Super Saiyajin 2. Piccolo, en la proa, se pone en guardia. Los dos saben que no les va a servir de nada.
-
-Arriba, delante de la esfera enorme, la figura roja de Goku se para en el aire, entre Bills y el planeta. Chiquita. Muy chiquita al lado de eso.
-
-Whis no se mueve de la reposera. Mira la esfera con la cabeza un poco ladeada, la sonrisa tranquila, las manos juntas sobre los pudines.
-
-—Ay, Bills-sama —murmura—. Siempre tan dramático.
-
-Después te mira de reojo. Solo un segundo. Como si tuviera curiosidad por ver qué cara pones tú.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1529 · DRAGON BALL · SÁBADO · 13:20    ║
-║ Crucero de Bulma · junto a la piscina        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.247 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando al cielo        ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills carga una esfera gigante     ║
-║ sobre la Tierra; Goku delante                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1530)
+## COMANDO 1 (T1530)
 
 goku va a poder devolverla
 
-## RESPUESTA 2 (T1530)
+## RESPUESTA 1 (T1530)
 
 > goku va a poder devolverla
 
@@ -133,11 +78,11 @@ Whis carraspea, muy bajito, y se aprieta la túnica contra el estómago.
 
 ---
 
-## COMANDO 3 (T1531)
+## COMANDO 2 (T1531)
 
 saco 2 cajas de pudin, esto es para su viaje bills sama
 
-## RESPUESTA 3 (T1531)
+## RESPUESTA 2 (T1531)
 
 > saco 2 cajas de pudin, esto es para su viaje bills sama
 
@@ -209,4 +154,69 @@ Bulma es la que habla. Cruza los brazos sobre el vestido rojo y te mira con los 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:40, crucero. Bills y Whis se fueron con doce pudines; Bills perdona a la Tierra por un tiempo largo. Todos miran a Facundo; Goku silba. Bulma: "Ahora sí. ¿Quién eres tú?" Facundo puede responder.
+## COMANDO 3 (T1532)
+
+por que me miran todos? soy un viajero nada mas
+
+## RESPUESTA 3 (T1532)
+
+> por que me miran todos? soy un viajero nada mas
+
+> —¿Por qué me miran todos? Soy un viajero, nada más.
+
+Nadie dice nada durante un segundo.
+
+—Un viajero —repite Krilin, despacio, con un pedazo de torta en la mano—. Un viajero que saca cajas enteras de pudín de un bolsillo.
+
+—Que le dio de comer a un dios de la destrucción —dice la 18, sin expresión.
+
+—Al que el dragón no conocía —dice Piccolo, desde la proa, sin abrir los ojos.
+
+—Que tiene menos ki que Krilin —dice Trunks.
+
+—¡Oye! —protesta Krilin.
+
+—Que me enseñó la Bola Giratoria —dice Goten, orgulloso, con las manos en la cintura.
+
+Vegeta no dice nada. Está de brazos cruzados junto a la piscina, mirándote con los ojos entrecerrados, la mandíbula apretada, como quien guarda la cuenta para cobrarla después.
+
+Milk da un paso adelante, con Goten todavía agarrado de la mano.
+
+—¡Es un buen muchacho! —dice, muy firme, como si alguien hubiera dicho lo contrario—. Me aró los dos campos antes del mediodía. Y come todo lo que le sirvo. —Te mira de reojo—. Aunque no lee.
+
+Bulma se queda mirándote un rato largo, con los brazos cruzados. Después mira a Goku, que sigue silbando hacia el mar. Después a Vegeta. Después la mesa de los postres vacía, la torta de cinco pisos intacta, el cielo azul, la costa de la Ciudad del Oeste, que sigue ahí.
+
+Suspira. Y se ríe.
+
+—Un viajero. —Niega con la cabeza—. Está bien, viajero. Guárdate tus secretos. Ya tengo demasiados con este. —Le da un codazo a Vegeta, que gruñe—. Salvaste mi fiesta, mi planeta y mi torta. Con eso me alcanza. Por hoy.
+
+Se da vuelta hacia todos y levanta los brazos.
+
+—¡Bueno! ¡¿Qué hacen todos ahí parados?! ¡Es mi cumpleaños! ¡Música! ¡Y alguien prenda las velas de la torta antes de que aparezca otro dios!
+
+La banda arranca, con un ritmo nervioso que se va soltando. La gente se ríe, todavía con miedo, pero se ríe. Mr. Satán se pone de pie de un salto y grita que fue él quien asustó al gato violeta. Buu le aplaude. Gohan abraza a Videl, y Milk los abraza a los dos llorando, y Goku se suma al abrazo sin que nadie lo llame.
+
+Vegeta pasa a tu lado camino a la mesa de la torta. No se detiene. No te mira. Pero baja la voz al pasar.
+
+—Mañana. A las seis. En mi cámara de gravedad. —Una pausa—. Viajero.
+
+Y sigue de largo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1532 · DRAGON BALL · SÁBADO · 13:45    ║
+║ Crucero de Bulma · junto a la piscina        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Fiesta · mañana 6:00 entrenar con  ║
+║ Vegeta                                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:45, crucero. "Soy un viajero." Bulma deja los secretos por hoy; sigue la fiesta. Vegeta: mañana 6:00 en su cámara de gravedad. Facundo puede actuar.

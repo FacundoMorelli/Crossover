@@ -19,3 +19,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: lo vio en el torneo y en la tele (público).
 NOTA: no tiene ki detectable (androide).
 ESTADO: bien.
+- T1532 · Crucero de Bulma · "Que le dio de comer a un dios de la destrucción."
