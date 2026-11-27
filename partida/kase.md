@@ -171,3 +171,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1633 · Sigue a Facundo al campo detrás del parque y se sienta en una piedra a mirar.
 - T1635 · Se sienta en la silla al lado de la de Facundo en la mesa, muy derecho, como un invitado. Erasa le trajo un ratón de juguete.
 - T1636 · Erasa le regala un ratón de tela gris con cascabel; la mira largo, le da un golpecito y se echa encima del ratón con los ojos cerrados (lo acepta).
+- T1645 · Se despierta y se va al regazo de Facundo; se deja acariciar la cabeza por Erasa.

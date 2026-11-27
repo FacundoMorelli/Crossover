@@ -43,3 +43,4 @@ TIENE: libro de Paradis (T1542).
 - T1636 · "Eso es que le gustó. A mí ni me mira." Pone la torta frente a Bills.
 - T1642 · A Erasa, bajito: "Es tu torta, querida. Córtala tú. Y el primer pedazo, el más grande, para el señor Bills. Por favor."
 - T1643 · Aplaude bajito cuando a Bills le gusta la torta.
+- T1645 · Propone que Facundo acompañe a Erasa a su casa (mano firme en su hombro): "¿Taxi? Ni hablar, querida, a esta hora es peligroso. Facundo te acompaña a tu casa. ¿No es cierto, Facundo?"

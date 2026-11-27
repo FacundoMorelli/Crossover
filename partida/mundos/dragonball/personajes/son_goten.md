@@ -56,3 +56,4 @@ ESTADO: bien.
 - T1633 · APRENDE de Facundo, con Trunks, la técnica de esferas gemelas de giro opuesto (sin nombre). Le cuesta un poco más encender la esfera. Logra la fusión al segundo intento. "¡Tiene que tener nombre! ¡Uno genial!"
 - T1634 · Por Facundo, elige el nombre con Trunks: propone "Bola Giratoria Doble"; después: "¿Y si tiene un poco de cada uno? Las bolas giran como un remolino. Y son dos. Como nosotros." → REMOLINO GEMELO. Vegeta lo cita a las 6 en la cámara de gravedad (si Goku lo deja).
 - T1635 · Se baña por orden de Milk. En la cena.
+- T1645 · Se duerme sentado contra Goku, con chocolate hasta las orejas ("¡Yo no fui!").
