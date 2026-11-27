@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1696)
-
-tengo bastante de esas
-
-## RESPUESTA 1 (T1696)
-
-> tengo bastante de esas
-
-> —Tengo bastante de esas.
-
-Aki no dice nada.
-
-Se queda mirándote, muy quieto, con la llovizna entrando por la vidriera rota a sus espaldas y la alarma chillando en todo el edificio. Algo se le mueve en la cara, apenas. No es desconfianza. Es otra cosa, más vieja, más cansada.
-
-Mira el pecho de Denji, donde hace un minuto había cortes. Mira la rodilla de Power.
-
-—Bastantes —repite, muy bajo.
-
-Se da vuelta hacia la ventana. Mira la avenida de abajo, los dormidos, la camioneta de Sato. Se mete la mano en el bolsillo del saco, saca el paquete de cigarrillos mojado, saca uno, lo mira. Esta vez no lo guarda. Se lo pone en la boca, apagado.
-
-—Hace un mes —dice, de espaldas, con el cigarrillo entre los dientes—, en un hotel, alguien con una de esas habría... —No termina. Aprieta la mandíbula. Se saca el cigarrillo de la boca y lo tira por la ventana—. No importa.
-
-Se da vuelta otra vez. La cara de siempre, seria, formal.
-
-—Makima va a querer saber eso. Y lo va a saber, así que no tiene sentido esconderlo. —Te señala el bolsillo, el lugar de donde salieron las semillas—. Pero no las andes regalando por ahí, delante de cualquiera. En esta ciudad hay gente que mata por mucho menos. Y esta semana hay gente que vino desde otros países solo para matar.
-
-Por la escalera mecánica apagada asoma una cabeza castaña con una colita. Kobeni sube los últimos escalones agachada, con el cuchillo en la mano y los ojos llenos de lágrimas, mirando para todos lados.
-
-—¿Ya no hay muñecos? ¿Seguro? —Ve a Denji de pie, entero—. ¡Denji! ¡Estás vivo! —Ve a Power sacando la lengua—. ¿Qué le pasa a Power? —Te ve a ti. Ve a Kase. Se le corta la respiración—. ¿Q... quién es él? ¿Es un asesino? ¡Aki, es un asesino, ¿no?! ¡Tiene cara de asesino! ¡Tiene un gato de asesino!
-
-—No es un asesino, Kobeni.
-
-—¡¿Cómo sabes?!
-
-Denji, que se había quedado callado mirando las manos de Facundo como un perro mira una heladera, se te acerca de un salto y baja la voz, cómplice.
-
-—Oye, Facundo. Facundo el viajero. —Se agacha un poco, conspirador—. Si tienes bastantes... ¿me das otra para después? Por si me vuelvo a morir. Te la cambio por algo. —Lo piensa, se revisa los bolsillos del traje destrozado y encuentra solamente un chicle aplastado—. Por este chicle.
-
-```
-╔══════════════════════════════════════════════╗
-║ KOBENI HIGASHIYAMA                           ║
-║ Seguridad Pública · División 4               ║
-║ PODER: sin pacto visible · reflejos y        ║
-║        agilidad excepcionales                ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,008 sobre ti         ║
-║ COPIABLE · MISIÓN: BAJA (estilo)             ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1696 · CHAINSAW MAN · DÍA 1 · 20:03    ║
-║ Tokio, otoño de 1997                         ║
-║ Mitsukoshi, piso 7 (muebles)                 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Proteger a Denji esta noche        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1697)
+## COMANDO 1 (T1697)
 
 le doy otra semilla a denji y me río
 
-## RESPUESTA 2 (T1697)
+## RESPUESTA 1 (T1697)
 
 > le doy otra semilla a denji y me río
 
@@ -129,11 +62,11 @@ Kase la mira desde tu hombro. Bosteza, enorme, mostrando todos los colmillos, si
 
 ---
 
-## COMANDO 3 (T1698)
+## COMANDO 2 (T1698)
 
 no lo decido yo, lo decide kase eso
 
-## RESPUESTA 3 (T1698)
+## RESPUESTA 2 (T1698)
 
 > no lo decido yo, lo decide kase eso
 
@@ -212,4 +145,61 @@ Cuando el auto se detiene, los dos se acercan a abrir las puertas. Uno es alto y
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:35, puerta del refugio (hotel de negocios viejo de 10 pisos, cortinas cerradas). Kase le dio la nuca a Power (Denji: "¡Un gato te dijo que no!"). Viaje en sedán gris. En la puerta, dos supuestos guardias de Kioto: "KUROSE" (alto, anteojos, raya al costado) y "TENDO" (bajo, rapado, simpático) — IMPOSTORES (canon: los reales fueron asesinados y suplantados). Tasación: "Esconde algo." Kurose, a Facundo: "A usted no lo teníamos en la lista, señor."
+## COMANDO 3 (T1699)
+
+soy nuevo
+
+## RESPUESTA 3 (T1699)
+
+> soy nuevo
+
+> —Soy nuevo.
+
+—Nuevo. —Kurose sonríe otra vez, con todos los dientes, perfectamente—. Ya veo. Bienvenido, entonces.
+
+—Viene por orden de la señorita Makima —dice Aki, bajando del auto, sin mirarlo—. Llamen a la central si quieren confirmarlo.
+
+—No hace falta, Hayakawa-san. Si la señorita Makima lo dice. —Kurose hace otra reverencia corta. Tendo, a su lado, asiente con la cabeza, sonriendo, sin decir nada—. Pasen, por favor. Hace frío.
+
+El lobby del hotel está casi a oscuras. Una sola lámpara prendida en el mostrador de recepción, sin recepcionista. Sillones de cuero marrón cuarteado, una planta de plástico con polvo en las hojas, un televisor apagado en un rincón y un olor a cigarrillo viejo y alfombra húmeda. El ascensor tiene una puerta de metal con una flecha que no se ilumina.
+
+Tendo cierra la puerta de vidrio a sus espaldas. Le pone llave. Se guarda la llave en el bolsillo del saco.
+
+Power, que entró pisándole los talones a Denji, se detiene de golpe en el medio del lobby. Levanta la nariz. Olfatea. Una vez. Otra. Mira a Kurose, de arriba abajo, con los ojos en cruz entrecerrados.
+
+—Este huele raro —anuncia, señalándolo con el dedo, en voz bien alta.
+
+Kurose no deja de sonreír.
+
+—Disculpe, señorita. Es la lluvia. Y el viaje desde Kioto.
+
+—No. —Power olfatea más fuerte, acercándose, sin ninguna vergüenza—. Huele como... —Frunce toda la cara—. No sé. Raro. Como cuando algo está puesto encima de otra cosa.
+
+—Power, es de mala educación olerle a la gente —murmura Kobeni, aterrada, sin saber a quién tenerle más miedo.
+
+—¡Power huele a quien quiere!
+
+Denji bosteza, enorme, todavía con la semilla en el bolsillo del pecho, y se tira en uno de los sillones de cuero, que suelta una nube de polvo. Aki mira a Power. Mira a Kurose. No dice nada, pero no saca la mano del bolsillo del saco.
+
+Kurose se vuelve hacia ti, como si no hubiera pasado nada. Saca una libreta chiquita y una lapicera del bolsillo interior.
+
+—Las habitaciones están en el sexto piso, una al lado de la otra. Ya preparamos todo. —Abre la libreta, con la lapicera lista—. Solo necesito su nombre completo para la lista, señor. Por formalidad. —Levanta la vista, amable—. ¿Y es de la oficina de Tokio, o viene de afuera?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1699 · CHAINSAW MAN · DÍA 1 · 20:37    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel de negocios, lobby            ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:37, lobby del refugio (casi a oscuras). Tendo cerró la puerta con llave y se la guardó. Power olfatea a Kurose: "Este huele raro... como cuando algo está puesto encima de otra cosa." Kurose: "Es la lluvia." Denji tirado en un sillón. Aki con la mano en el bolsillo del saco. Kurose, con libreta y lapicera: habitaciones en el 6.º piso; "Solo necesito su nombre completo para la lista. ¿Es de la oficina de Tokio, o viene de afuera?"

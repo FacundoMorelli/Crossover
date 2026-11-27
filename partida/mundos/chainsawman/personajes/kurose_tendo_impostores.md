@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: aspecto, gato; que no estaba en la lista.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: activos, custodiando el refugio.
+- T1699 · Saben (por Facundo) que "es nuevo". Kurose: "Si la señorita Makima lo dice." Tendo cierra la puerta de vidrio del lobby con llave y se la guarda en el saco. Power olfatea a Kurose ("huele raro"); Kurose: "Es la lluvia. Y el viaje desde Kioto." Kurose saca una libreta: "Las habitaciones están en el sexto piso, una al lado de la otra. Solo necesito su nombre completo para la lista. ¿Es de la oficina de Tokio, o viene de afuera?"

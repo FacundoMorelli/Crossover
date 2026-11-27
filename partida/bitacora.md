@@ -1697,3 +1697,4 @@ T1695 · CHAINSAW MAN · Mitsukoshi piso 7 · Semilla a Power: "¡Es pasto! ¡Po
 T1696 · CHAINSAW MAN · Mitsukoshi piso 7 · "Tengo bastante de esas." Aki casi nombra a Himeno. Kobeni: "¡Tiene un gato de asesino!" Denji: "¿Me das otra? Te la cambio por este chicle."
 T1697 · CHAINSAW MAN · Mitsukoshi piso 7 · Otra semilla a Denji (por un chicle). "Facundo es buena persona." Orden de Makima: todos al refugio. Power: "¿El gato puede dormir con Power?"
 T1698 · CHAINSAW MAN · refugio (hotel) · "Lo decide Kase." Kase le da la nuca a Power. Viaje al refugio. Kurose y Tendo (impostores) en la puerta: "A usted no lo teníamos en la lista."
+T1699 · CHAINSAW MAN · refugio, lobby · "Soy nuevo." Tendo cierra con llave. Power: "Este huele raro." Kurose pide su nombre para la lista.
