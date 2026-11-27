@@ -118,3 +118,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1508 · Le olfatea la cara a Goku desmayado y le apoya una pata en el pecho para comprobar que respira.
 - T1514 · Mojado por la tromba de Goten en la baranda del crucero; indignado.
 - T1515 · (Corregido) No se moja: Facundo cubrió el barco.
+- T1519 · Dragon Ball · Se eriza entero al llegar Bills; le sostiene la mirada sin parpadear. Bills se interesa en él.

@@ -1517,3 +1517,4 @@ T1515 · DRAGON BALL · Crucero · CORRECCIÓN: Facundo cubrió el barco con una
 T1516 · DRAGON BALL · Crucero · A Trunks: "por ahora no, no sería justo." Trunks: "después sí". Vegeta en la baranda: "¿Kakarotto entrenó contigo estos días?"
 T1517 · DRAGON BALL · Crucero · Vegeta, celoso de Goku, exige entrenar mañana. Kaio-sama le avisa por telepatía que Bills viene a la Tierra. Vegeta, pálido.
 T1518 · DRAGON BALL · Crucero · Vegeta le explica quién es Bills (Dios de la Destrucción; humilló al rey Vegeta; Freezer le temía). Reglas: nadie lo provoca ni le niega nada. "Voy a tener que ser amable."
+T1519 · DRAGON BALL · Crucero · Llegan Bills y Whis. Vegeta hace una reverencia. Tasaciones. Bills mira a Kase: "¿Ese gato es tuyo?"

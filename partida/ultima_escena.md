@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1516)
-
-no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
-
-## RESPUESTA 1 (T1516)
-
-> no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
-
-> —No, por ahora no. Él me dijo que tú ya tienes técnicas nuevas, y él quería una. Si te la enseño a ti, no sería justo.
-
-Trunks abre la boca. La cierra. Se pone colorado hasta las orejas.
-
-—¡Eso no es...! —Se da vuelta hacia Goten—. ¡¿Le dijiste eso?!
-
-Goten sonríe de oreja a oreja, con las manos detrás de la nuca.
-
-—Es que es verdad. Tu papá te enseña cosas todo el tiempo.
-
-—¡Mi papá me enseña a que me peguen en la cámara de gravedad! ¡Eso no es una técnica!
-
-—Bueno. —Goten se encoge de hombros—. Ahora yo tengo una y tú no.
-
-Trunks aprieta los puños. Mira a Goten, después a ti, después al mar, donde ya no queda nada del agujero. Se cruza de brazos con fuerza y te mira con los ojos entrecerrados, igual, exactamente igual, que su padre hace un rato.
-
-—"Por ahora" —repite—. Dijiste "por ahora". Eso quiere decir que después sí.
-
-Se da vuelta y se va hacia el buffet, con los hombros duros, pisando fuerte. A los tres pasos se para, se da vuelta y le saca la lengua a Goten. Goten le saca la lengua de vuelta. Después los dos se echan a reír, sin saber por qué, y salen corriendo juntos hacia la mesa de los postres, donde Buu los recibe con una cuchara en cada mano.
-
-Te quedas solo en la baranda, con Kase.
-
-Pero no por mucho.
-
-Unos pasos se acercan por la cubierta. Pesados, rápidos, de alguien que no quiere que lo vean apurado. Vegeta se para a tu lado, en la baranda, sin mirarte. Mira el mar. Tiene los brazos cruzados sobre la camisa rosada y la mandíbula tan apretada que se le marcan los músculos de la cara.
-
-Se queda un rato así, callado.
-
-—Hace tres años —dice al fin, sin darse vuelta— me tuviste en el suelo. A mí. En Super Saiyajin 2. Y hoy te escondes detrás de un ki de insecto, le enseñas trucos a un mocoso, y paras el mar con algo que nadie ve. —Escupe las palabras—. Y Kakarotto silba como un idiota cada vez que te mira.
-
-Por fin te mira. Los ojos negros, encendidos.
-
-—No me importa tu secreto. —Lo dice muy bajo, para que solo lo oigas tú—. Me importa una sola cosa. ¿Kakarotto entrenó contigo estos días?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1516 · DRAGON BALL · SÁBADO · 12:14    ║
-║ Crucero de Bulma · baranda de la cubierta    ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
-║ hoy)                                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1517)
+## COMANDO 1 (T1517)
 
 si
 
-## RESPUESTA 2 (T1517)
+## RESPUESTA 1 (T1517)
 
 > si
 
@@ -120,11 +61,11 @@ Kase, en la baranda, levanta la cabeza. Gira las orejas hacia el cielo. No ve na
 
 ---
 
-## COMANDO 3 (T1518)
+## COMANDO 2 (T1518)
 
 quien es bills?
 
-## RESPUESTA 3 (T1518)
+## RESPUESTA 2 (T1518)
 
 > quien es bills?
 
@@ -172,4 +113,96 @@ Se acomoda la camisa rosada. Mira hacia la cubierta, hacia Bulma, que se ríe co
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:18, crucero. Vegeta explicó quién es Bills y fijó las reglas (nadie lo provoca). Goku no sabe nada. Bills en camino. Facundo puede actuar.
+## COMANDO 3 (T1519)
+
+esta bien
+
+## RESPUESTA 3 (T1519)
+
+> esta bien
+
+> —Está bien.
+
+Vegeta asiente, una sola vez, seco. Se da vuelta y se va hacia el centro de la cubierta, hacia Bulma, caminando rápido, con los puños cerrados y la camisa rosada tirante en los hombros.
+
+No llega.
+
+A mitad de camino, se frena en seco.
+
+El aire, sobre el crucero, cambia. No hay viento. No hay ruido. Pero de repente la luz del mediodía se pone rara, un poco más fría, como si una nube muy alta hubiera pasado delante del sol, aunque no hay ninguna nube. Las gaviotas que seguían al barco se van, todas a la vez, chillando, hacia la costa.
+
+Kase se levanta en la baranda. Tiene la cola erizada como un cepillo y las orejas aplastadas. Mira hacia arriba.
+
+Y a diez metros sobre la cubierta, en el aire, sin que nadie los haya visto llegar, hay dos figuras.
+
+Una es alta, delgada, de piel celeste pálida, con el pelo blanco peinado hacia arriba en un copete largo, una túnica granate, un anillo de luz azul alrededor del cuello y un báculo largo en la mano. Sonríe con amabilidad. Mira la fiesta con mucha curiosidad, como un turista en un mercado.
+
+La otra es más baja. Delgada, fibrosa, de piel violeta, con orejas enormes y puntiagudas, ojos amarillos con pupilas finas y ropa de estilo antiguo, negra y dorada, con un pantalón ancho blanco. Tiene las manos detrás de la espalda. Y tiene cara de aburrido. De muy aburrido.
+
+Es un gato.
+
+Un gato enorme, que camina erguido, que flota en el aire sobre el cumpleaños de Bulma.
+
+—Ay, mire, Bills-sama —dice la figura alta, con una voz suave—. Una fiesta. Qué oportuno. Huele delicioso.
+
+Vegeta se pone pálido otra vez. Se endereza como un soldado. Y antes de que nadie más en la cubierta reaccione, junta los talones y se inclina hacia adelante, en una reverencia rígida, perfecta, que no le habías visto hacerle a nadie.
+
+—¡B-Bills-sama! —dice, con la voz quebrada—. ¡Bienvenido a la Tierra! ¡Es... es un honor!
+
+En la cubierta, la música sigue sonando, pero nadie baila. Todos miran para arriba. Bulma levanta una ceja. Goku, en el buffet, se queda con un pollo a medio camino de la boca. Piccolo, en la proa, abre los ojos y se pone en guardia sin moverse.
+
+Las dos figuras bajan despacio y se posan en la cubierta, sin hacer ruido.
+
+```
+╔══════════════════════════════════════════════╗
+║ BILLS                                        ║
+║ Dios de la Destrucción · Universo 7          ║
+║ PODER: Destrucción (Hakai), ki divino        ║
+║ AMENAZA: ALTA en tu estado normal            ║
+║ Diferencia estimada: él, x40 sobre ti en     ║
+║ estado normal · tú, muy por encima de él     ║
+║ con tus formas más altas                     ║
+║ Se contiene: sí                              ║
+║ COPIABLE · MISIÓN: EXTREMA                   ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ WHIS                                         ║
+║ Ángel · maestro y asistente de Bills         ║
+║ PODER: sin datos                             ║
+║ AMENAZA: sin datos                           ║
+║ Diferencia estimada: sin datos               ║
+║ Se contiene: muchísimo                       ║
+║ COPIABLE · MISIÓN: EXTREMA                   ║
+╚══════════════════════════════════════════════╝
+```
+
+Bills mira la cubierta. Mira las mesas de comida. Mira a Vegeta, inclinado. Bosteza.
+
+Y después, sin ningún motivo, gira la cabeza y mira hacia la baranda. Hacia ti. Hacia Kase.
+
+Kase le devuelve la mirada. Con la cola erizada, las orejas aplastadas y los ojos rojo y azul clavados en los suyos, amarillos. Sin parpadear.
+
+Bills entrecierra los ojos. Ladea la cabeza, con mucho interés.
+
+—Mmm. —Te señala con el mentón—. ¿Ese gato es tuyo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1519 · DRAGON BALL · SÁBADO · 12:20    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando fijo a Bills    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills en la Tierra                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:20, crucero. Llegaron Bills y Whis; Vegeta hizo una reverencia. Bills mira a Kase: "¿Ese gato es tuyo?" Facundo puede responder.

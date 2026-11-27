@@ -103,3 +103,5 @@
 - Trunks · T1516 · Por Facundo: quizás le enseñe una técnica después.
 - Vegeta · T1517 · Por Kaio-sama (telepatía): Bills va a la Tierra. Nadie más lo oyó. Facundo vio la reacción de Vegeta y lo oyó murmurar.
 - Facundo · T1518 · Por Vegeta: quién es Bills (Dios de la Destrucción, humilló al rey Vegeta, Freezer le temía), qué busca (Super Saiyajin Dios) y que viene a la Tierra. Goku no sabe nada.
+- Bills, Whis · T1519 · Ven a Facundo con su gato en la baranda; sienten un ki muy bajo (Velo). Bills se fija en el gato.
+- Todos los del crucero · T1519 · Ven llegar a Bills y Whis y a Vegeta haciéndole una reverencia.
