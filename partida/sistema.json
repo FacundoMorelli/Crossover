@@ -1,5 +1,5 @@
 {
-  "turno": 1464,
+  "turno": 1465,
   "mundo_actual": "onepiece",
   "fecha_local": "One Piece: Día ~121 (~63 días después de irse el Día 57 17:52; en el timeskip de dos años, ~2 meses dentro)",
   "hora": "Día ~121, noche (Nuevo Mundo)",
@@ -86,7 +86,7 @@
     "energia": 3998,
     "control": 3997
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 99,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

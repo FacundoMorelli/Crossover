@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1462)
-
-llevo a ace y sabo con barbablanca
-
-## RESPUESTA 1 (T1462)
-
-> llevo a ace y sabo con barbablanca
-
-Le pones una mano en el hombro a Ace y otra a Sabo.
-
-Luffy sigue con el puño en alto. Rayleigh levanta dos dedos, a modo de saludo.
-
-Dos dedos en la frente. El ki de Barbablanca es imposible de no encontrar: una montaña en medio del mar, tranquila y enorme, y alrededor, como un enjambre, cientos de kis más chicos, agitados, encendidos.
-
-La nieve desaparece.
-
-Calor. Sol de la tarde. Olor a sal, a pólvora y a tabaco. Estás de nuevo en la cubierta del Moby Dick, pero ya no hay mesa de almuerzo: la tiraron a un costado, con los platos todavía encima. La cubierta está llena de piratas armados, de pie, en grupos, con espadas, fusiles, hachas. Alrededor del barco, el mar está cubierto de velas: la flota entera, en formación cerrada, con los cañones asomados.
-
-Y en el centro de la cubierta, en su silla enorme, con la bandera de la sonrisa ondeando detrás y el bisento apoyado en el hombro, Edward Newgate.
-
-No está sentado tranquilo. Está inclinado hacia adelante, con la mano libre cerrada sobre el apoyabrazos, que tiene una grieta nueva. El aire alrededor de él tiembla un poco, como sobre el asfalto caliente.
-
-Delante de él, de espaldas a ustedes, Marco habla rápido, con llamas azules saliéndole de los hombros:
-
-—...aparecieron de la nada, yoi, justo detrás de Ace. El del gato y uno rubio con sombrero de copa. Y en un segundo ya no estaban. Le di la vuelta al barco dos veces volando y no hay ni rastro...
-
-Barbablanca levanta la vista. Por encima del hombro de Marco.
-
-Los ve.
-
-Marco se da vuelta de golpe. Las llamas azules le cubren los brazos enteros, hasta que te reconoce, y ve a Ace, y se quedan a medio encender.
-
-La cubierta entera gira hacia ustedes. Doscientos piratas armados. Alguien amartilla un fusil. Alguien grita "¡Es él!". Vista, el de los bigotes, desenvaina las dos espadas a medias.
-
-—¡Esperen! ¡Esperen, esperen! —Ace da un paso adelante, con las manos en alto—. ¡Soy yo! ¡Estoy bien! ¡No me secuestró nadie! Bueno... —Se rasca la nuca—. Un poco sí. Pero fue para algo bueno.
-
-Nadie baja las armas.
-
-Barbablanca se queda mirando a Ace un largo rato. Después a ti, con Kase en el hombro. Después a Sabo, a tu izquierda, con su sombrero de copa, su levita y su caño de metal.
-
-Y se ríe.
-
-—Gurarararara...
-
-La risa le sale desde el fondo del pecho, grave, enorme, y hace vibrar las tablas de la cubierta bajo tus botas.
-
-—Tú otra vez, mocoso. —Te señala con el bisento—. La última vez que te vi, me salvaste el pellejo y le pusiste techo a mi flota. Y hoy vienes a mi barco a la hora del almuerzo y te robas a mi hijo delante de todos.
-
-Se acomoda en la silla. La grieta del apoyabrazos cruje.
-
-Después mira a Sabo. Lo mira de arriba abajo, despacio.
-
-—¿Y este quién es?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1462 · ONE PIECE · DÍA ~121 · 07:29    ║
-║ Nuevo Mundo · Moby Dick · cubierta           ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Llevar a Ace y Sabo al Moby Dick   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1463)
+## COMANDO 1 (T1463)
 
 miro
 
-## RESPUESTA 2 (T1463)
+## RESPUESTA 1 (T1463)
 
 > miro
 
@@ -155,11 +85,11 @@ Barbablanca, en su silla, tiene en la mano un cuenco de sake del tamaño de un b
 
 ---
 
-## COMANDO 3 (T1464)
+## COMANDO 2 (T1464)
 
 tomo con barbablsnca
 
-## RESPUESTA 3 (T1464)
+## RESPUESTA 2 (T1464)
 
 > tomo con barbablsnca
 
@@ -208,4 +138,69 @@ Se inclina un poco hacia ti. La silla cruje.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick. Facundo bebe con Barbablanca. Barbablanca: "¿Qué quieres de Edward Newgate?" Facundo puede responder.
+## COMANDO 3 (T1465)
+
+nada, sos el padre del hermano de mi capitán, con eso basta para ayudarlos y tengo otra cosa para ayudarte, cuando comiste esa semilla te ayudo bastante espera otra cosa, me acerco le tocó el brazo y con la técnica de mahito le curó todo
+
+## RESPUESTA 3 (T1465)
+
+> nada, sos el padre del hermano de mi capitán, con eso basta para ayudarlos y tengo otra cosa para ayudarte, cuando comiste esa semilla te ayudo bastante espera otra cosa, me acerco le tocó el brazo y con la técnica de mahito le curó todo
+
+> —Nada. Eres el padre del hermano de mi capitán. Con eso basta para ayudarlos. Y tengo otra cosa para ayudarte. Cuando comiste esa semilla, te ayudó bastante. Espera, es otra cosa.
+
+Barbablanca levanta una ceja blanca. No dice nada. Te deja hacer.
+
+Dejas el cuenco en el suelo. Subes el escalón de la silla y le apoyas la mano en el antebrazo, ese brazo enorme, lleno de cicatrices viejas, con la piel curtida por cincuenta años de sol y sal.
+
+La energía maldita te corre por la palma.
+
+Y sientes el alma de Edward Newgate.
+
+Es enorme. Del tamaño del hombre, y más. Pero tiene grietas por todas partes, como un casco viejo que aguantó demasiadas tormentas: el corazón cansado, los pulmones que le silban por dentro, una sombra negra y pesada que le crece en el pecho desde hace años, despacio, la enfermedad que ninguna semilla llegó a tocar. Todo eso que el cuerpo carga porque el alma lo arrastra.
+
+Le das forma.
+
+Cierras las grietas una por una. La sombra del pecho se deshace como humo en el viento. El corazón deja de arrastrarse. Los pulmones se abren. No le cambias nada más: ni la cara, ni las cicatrices, ni los años. Solo le sacas lo que lo estaba matando.
+
+Dura unos segundos.
+
+Barbablanca se queda quieto.
+
+Después respira. Una vez. Hondo, muy hondo, tanto que se le infla el pecho entero y la silla cruje. Y no tose. No silba. El aire le entra y le sale limpio, como a un hombre de cuarenta años.
+
+Una de las enfermeras, la jefa, la que estaba a un costado con la tablilla de anotaciones, da un paso adelante.
+
+—¿Capitán...?
+
+Barbablanca no le contesta. Se mira la mano. Abre y cierra los dedos, despacio, como si no fueran suyos. Se lleva la mano al pecho, donde estaba la sombra, y se queda así, con la palma abierta sobre el corazón.
+
+La enfermera se acerca. Le pone el estetoscopio en el pecho, sin pedirle permiso, y él la deja. Escucha. Se le pone la cara blanca. Mueve el estetoscopio. Escucha otra vez. Le toma el pulso en la muñeca. Lo vuelve a tomar.
+
+—No... no puede ser. —Le tiembla la voz—. Está limpio. Los pulmones, el corazón... Todo. Está todo limpio.
+
+A su alrededor, la fiesta se va apagando. Primero los más cercanos, después el resto, como el pasillo de Baltigo. El acordeón se calla. Marco se da vuelta desde donde estaba discutiendo con Izo. Ace se baja de la baranda.
+
+Barbablanca baja la mano del pecho.
+
+Te mira. Desde arriba, con los ojos muy abiertos, sin rastro de risa en la cara.
+
+—¿Qué me hiciste, mocoso?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1465 · ONE PIECE · DÍA ~121 · NOCHE    ║
+║ Nuevo Mundo · Moby Dick · silla de           ║
+║ Barbablanca                                  ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: sobre una caja, comiendo pescado       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~121 noche, Moby Dick. Facundo curó del todo a Barbablanca con la Transfiguración Ociosa. La fiesta se calló. Barbablanca: "¿Qué me hiciste, mocoso?" Facundo puede responder.

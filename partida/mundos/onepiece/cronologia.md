@@ -187,3 +187,4 @@
 - Día ~121 06:42 · (T1456) Facundo saca a Ace dormido del Moby Dick y lo lleva con Sabo a Rusukaina, frente a Luffy (cambio: reencuentro de los tres hermanos; en el canon Ace muere y Sabo se reencuentra con Luffy en Dressrosa).
 - Día ~121 tarde-noche · (T1463) Sabo conoce a Barbablanca en el Moby Dick y declina ser su hijo. Fiesta de toda la flota de Barbablanca.
 - Días ~58-120 · (T1464, fuera de escena, contado por Barbablanca) La Marina alcanza dos veces a la flota de Barbablanca (vicealmirantes; después un almirante nuevo con magma). El Bankai de Facundo detiene todo: cero daños.
+- Día ~121 noche · (T1465) Facundo cura por completo a Barbablanca con la Transfiguración Ociosa (cambio enorme: sin enfermedad; en el canon ya había muerto en Marineford).

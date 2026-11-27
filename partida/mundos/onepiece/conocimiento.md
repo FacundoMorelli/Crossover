@@ -292,3 +292,4 @@
 - Barbablanca, Marco, Vista, tripulación del Moby Dick · T1462 · Ven a Facundo aparecer de la nada con Ace y el rubio de sombrero de copa (Sabo; todavía no saben quién es).
 - Barbablanca, Marco y toda la flota · T1463 · Por Ace: Sabo es su hermano, dado por muerto; lo salvó Dragon; perdió la memoria y la recuperó esa mañana (Ace mira a Facundo al decirlo). Por Sabo: es del lado de Dragon (Ejército Revolucionario).
 - Facundo · T1464 · Por Barbablanca: dos ataques de la Marina contra la flota desde Marineford (vicealmirantes en el borde del Nuevo Mundo; "un almirante nuevo" de magma), parados por el Bankai.
+- Barbablanca, jefa de enfermeras, enfermeras, comandantes y tripulación cercana · T1465 · Ven a Facundo tocarle el brazo a Barbablanca unos segundos; la enfermera confirma con el estetoscopio que está curado del todo. Barbablanca sintió que algo le cambió por dentro. Nadie ve la técnica (solo el toque).
