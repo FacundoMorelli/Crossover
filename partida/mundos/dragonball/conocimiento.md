@@ -170,3 +170,4 @@
 - T1635 · Erasa VIO en persona a Bills, Whis, Goku, Vegeta (aspecto; sin poderes) y a Facundo con Kase.
 - T1636 · Erasa VIO de cerca los ojos de Facundo (rojo y azul) y confirma que son naturales.
 - T1638 · Erasa sabe (por Facundo) que es "un viajero".
+- T1639 · Facundo contó en la mesa (Erasa, y al alcance de Whis) que el lugar más lindo que conoció es uno lleno de islas, donde se viaja en barco (sin nombrar el mundo).

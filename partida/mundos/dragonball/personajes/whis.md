@@ -84,3 +84,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1614 · Lleva a todos a la Tierra (jardín de la Corporación Cápsula). Antes: "Bills-sama se va a poner feliz. Aunque no lo va a decir."
 - T1620 · "Y si va Bills-sama, voy yo. Para cuidarlo. Claro."
 - T1635 · Sentado al lado de Bills con té y la libretita.
+- T1639 · Desde la libretita, a Erasa (por los barcos de madera): "Algunos son de madera."

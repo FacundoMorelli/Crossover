@@ -1637,3 +1637,4 @@ T1635 · DRAGON BALL · Corporación Cápsula · (Simulación) Vuelven; foto de 
 T1636 · DRAGON BALL · Corporación Cápsula · "Mucho gusto, Erasa." Ratón de juguete para Kase: le gusta (se echa encima). Bills reclama la torta. Erasa se sienta al lado de Facundo: "Son naturales de verdad. ¿Siempre fueron así?"
 T1637 · DRAGON BALL · Corporación Cápsula · Le dice a Erasa que es linda. Erasa se pone roja; Videl: "¡TE ESCUCHÉ!" Empieza la cena. Erasa: "Eres bastante directo. ¿De dónde eres?"
 T1638 · DRAGON BALL · Corporación Cápsula · "Soy un viajero." Erasa: "Lo más romántico que escuché en mi vida." Nunca salió de la Capital del Oeste. "¿Cuál es el lugar más lindo que conociste?"
+T1639 · DRAGON BALL · Corporación Cápsula · Le cuenta a Erasa de un lugar de islas y barcos. Erasa sueña; Whis: "Algunos son de madera." Le roza el tobillo sin querer. "Sigue. Cuéntame."

@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1636)
-
-Mucho gusto erasa
-
-## RESPUESTA 1 (T1636)
-
-> Mucho gusto erasa
-
-> —Mucho gusto, Erasa.
-
-—¡Mucho gusto! —Lo dice demasiado fuerte. Se da cuenta, se tapa la boca con la mano de la torta y casi se le cae la caja—. Ay. Perdón. Mucho gusto. Más bajito. Así.
-
-Videl, desde la mesa, se ríe detrás de la mano. Gohan le da un codazo suave.
-
-Erasa respira hondo. Se acomoda un rulo detrás de la oreja. Después se agacha, muy despacio, delante de la silla de Kase, y saca de la bolsita el ratón de juguete: gris, de tela, con una cola de cuerda y un cascabel chiquito en el cuello.
-
-—Hola, Kase —le dice, bajito, como si le hablara a una persona—. Te traje esto. La señora de la tienda dijo que es el que más les gusta a los gatos grandes.
-
-Lo deja en la silla, al lado de las patas de Kase.
-
-Kase mira el ratón. Mira a Erasa. Se queda quieto un largo rato, con los ojos rojo y azul fijos en ella, sin parpadear, con esa cara seria y arrogante de siempre.
-
-Erasa no se mueve. Le sostiene la mirada, conteniendo la respiración.
-
-Kase baja la cabeza. Huele el ratón. Le da un golpecito con la pata, uno solo, que hace sonar el cascabel. Y después, con toda la calma del mundo, se echa encima del ratón, como una gallina sobre un huevo, y cierra los ojos.
-
-—¡Le gustó! —Erasa se tapa la boca con las dos manos, encantada—. ¡Le gustó! ¿Le gustó, no? ¿Eso es que le gustó?
-
-—Eso es que le gustó —dice Bulma, sorprendida—. A mí ni me mira.
-
-—A mí me despreció en un barco —dice Bills desde la cabecera, sin sacar los ojos de las fuentes.
-
-Erasa se da vuelta hacia la voz. Ve a Bills mirándola. Se queda dura.
-
-Bills señala la caja con un dedo.
-
-—Eso. ¿Es torta de chocolate?
-
-—S... sí. —Erasa traga saliva—. De mi mamá. Con chocolate por dentro y por fuera.
-
-Bills asiente, muy serio, y vuelve a mirar las fuentes.
-
-—Bien. Ponla donde yo la vea.
-
-Bulma le saca la caja de las manos a Erasa, rápido, antes de que se le caiga, y la pone en el centro de la mesa, frente a Bills. Bills no le saca los ojos de encima.
-
-Erasa se endereza. Mira la silla vacía que queda del otro lado de la tuya. Te mira a ti, de reojo, mordiéndose el labio. Se sienta ahí, despacio, alisándose el vestido amarillo.
-
-Se queda un segundo callada, cosa que se nota que le cuesta muchísimo.
-
-Después se inclina un poco hacia ti, lo justo para verte la cara de cerca bajo las lucecitas del jardín, y te mira los ojos. Primero el rojo. Después el azul. Después el rojo otra vez.
-
-—Son naturales de verdad —dice, casi en un susurro, asombrada—. Pensé que Videl me mentía. —Se le escapa una risita nerviosa—. ¿Siempre fueron así?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1636 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:05     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: echado sobre el ratón de juguete       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1637)
+## COMANDO 1 (T1637)
 
 si, siempre fueron asi y mi pelo igual, desde que naci, no sabia que videl tenia una amiga tan linda, si no le hubiese dicho antes
 
-## RESPUESTA 2 (T1637)
+## RESPUESTA 1 (T1637)
 
 > si, siempre fueron asi y mi pelo igual, desde que naci, no sabia que videl tenia una amiga tan linda, si no le hubiese dicho antes
 
@@ -127,11 +57,11 @@ Se muerde el labio. Agarra el tenedor por fin, aunque no come nada con él. Lo u
 
 ---
 
-## COMANDO 3 (T1638)
+## COMANDO 2 (T1638)
 
 soy un viajero
 
-## RESPUESTA 3 (T1638)
+## RESPUESTA 2 (T1638)
 
 > soy un viajero
 
@@ -169,4 +99,50 @@ Erasa apoya el codo en la mesa y la cara en la mano. Te mira con la cabeza ladea
 
 ---
 
-ESTADO AL CIERRE: Erasa sabe que es viajero; le encanta. "¿Cuál es el lugar más lindo que conociste?" Facundo puede contestar.
+## COMANDO 3 (T1639)
+
+mmm un lugar lleno de islas, la gente viaja en barco y hay islas de todo tipo
+
+## RESPUESTA 3 (T1639)
+
+> mmm un lugar lleno de islas, la gente viaja en barco y hay islas de todo tipo
+
+> —Mmm... Un lugar lleno de islas. La gente viaja en barco, y hay islas de todo tipo.
+
+Erasa se queda callada. Mira las lucecitas colgadas entre los árboles, como si ahí arriba pudiera verlas.
+
+—Islas —repite, despacio—. Y todo en barco.
+
+Se le escapa un suspiro largo. Apoya la mejilla en la mano y deja que los ojos se le vayan para otro lado, lejos del jardín, lejos de la mesa.
+
+—Yo me imagino el mar azul, azul de verdad, no como el de la playa a la que fui, que era gris. Y barcos de madera con velas. —Se ríe sola—. Bueno, seguro no son de madera. Seguro son barcos normales, con motor. Pero en mi cabeza son de madera.
+
+—Algunos son de madera —dice Whis desde su lugar, sin levantar la vista de la libretita, como quien comenta el clima.
+
+Erasa lo mira, sorprendida de que la haya escuchado. Whis le sonríe, amable, y vuelve a anotar.
+
+Ella te mira a ti otra vez, con los ojos brillando.
+
+—¿De todo tipo? —Se inclina un poquito más hacia ti, curiosa—. ¿Cómo de todo tipo? ¿Unas con playa y otras con montañas? ¿O de todo tipo, tipo... raro?
+
+Debajo de la mesa, algo te roza el tobillo. Es su sandalia. Se da cuenta enseguida y la corre, rápido, roja otra vez, como si no hubiera pasado nada.
+
+—Perdón. —Se acomoda en la silla—. Sigue. Cuéntame.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1639 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:25     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo le contó de un lugar de islas. Erasa: "¿Cómo de todo tipo? ¿O tipo... raro? Sigue. Cuéntame." (le rozó el tobillo con la sandalia). Facundo puede contestar.
