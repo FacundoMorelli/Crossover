@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1694)
-
-le doy una semilla de ermitaño
-
-## RESPUESTA 1 (T1694)
-
-> le doy una semilla de ermitaño
-
-Sacas una semilla del ermitaño del inventario. Para los demás, aparece entre tus dedos, chiquita, verde, como un poroto seco.
-
-Te agachas al lado de la cama de exhibición y se la pones a Denji en la boca.
-
-—¿Qué es es...? —alcanza a decir, con la semilla ya entre los dientes.
-
-Mastica por reflejo. Una vez. Dos.
-
-Se le abren los ojos de golpe.
-
-El color le vuelve a la cara de un saque, como si alguien hubiera abierto una canilla: los labios grises se ponen rojos, las mejillas pálidas se encienden, las venas del cuello se le hinchan. Los cortes que tenía en los brazos y en el pecho, debajo del traje hecho jirones, se cierran solos, uno tras otro, en un segundo, sin dejar marca. La cuerda del pecho tiembla.
-
-Denji se sienta en la cama de un salto. Después se para. Después se mira las manos, las abre y las cierra. Se toca la cara, el pecho, la panza.
-
-—¡AAAAH! —grita, con todas las fuerzas que hace un segundo no tenía—. ¡Estoy bien! ¡Estoy re bien! ¡Tengo sangre! ¡Tengo un montón de sangre! —Se golpea el pecho con los dos puños—. ¡Me siento como si me hubiera comido diez panes con mermelada!
-
-Power, en la puerta de la sección de muebles, se queda con la boca abierta.
-
-Aki no. Aki se queda con la mano en la empuñadura de la katana y los ojos clavados en tus dedos, en el lugar donde estaba la semilla, y después en ti.
-
-—¿Qué le diste? —dice. Muy bajo.
-
-Denji no lo escucha. Se te acerca, te mira a los ojos de muy cerca, primero el rojo, después el azul, después la cara entera, con la boca abierta de par en par y los dientes afilados a la vista.
-
-—¡Oye! ¡Tú! —Te señala con el dedo—. ¡¿Qué era eso?! ¡Sabía horrible! ¡Como a pasto! ¡Pero me curó todo! ¡¿Tienes más?! —Y después, sin respirar—: ¿Eres un médico? ¿Eres rico? ¿Ese gato es tuyo? ¿Por qué tienes el pelo así?
-
-Power reacciona por fin. Cruza la sección de muebles corriendo, salta por encima de un sillón roto y se te para al lado de Denji, empujándolo con el hombro.
-
-—¡Power también quiere! —Abre la boca enorme, como un pichón—. ¡Power también está herida! ¡Mira! —Se señala un raspón chiquito en la rodilla, del tamaño de una moneda—. ¡Muy herida!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1694 · CHAINSAW MAN · DÍA 1 · 19:59    ║
-║ Tokio, otoño de 1997                         ║
-║ Mitsukoshi, piso 7 (muebles)                 ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Proteger a Denji esta noche        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1695)
+## COMANDO 1 (T1695)
 
 le doy una semilla a power también, me llamo Facundo, soy un viajero
 
-## RESPUESTA 2 (T1695)
+## RESPUESTA 1 (T1695)
 
 > le doy una semilla a power también, me llamo Facundo, soy un viajero
 
@@ -121,11 +66,11 @@ Desde la escalera mecánica, un piso más abajo, llega una vocecita temblorosa:
 
 ---
 
-## COMANDO 3 (T1696)
+## COMANDO 2 (T1696)
 
 tengo bastante de esas
 
-## RESPUESTA 3 (T1696)
+## RESPUESTA 2 (T1696)
 
 > tengo bastante de esas
 
@@ -188,4 +133,63 @@ Denji, que se había quedado callado mirando las manos de Facundo como un perro 
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:03, Mitsukoshi piso 7. Aki, al saber que tiene "bastantes", casi menciona a Himeno ("Hace un mes, en un hotel, alguien con una de esas habría... No importa"). Makima lo va a saber; que no las regale delante de cualquiera. Kobeni subió: "¿Es un asesino? ¡Tiene un gato de asesino!" Denji, cómplice: "¿Me das otra para después? Por si me vuelvo a morir. Te la cambio por este chicle" (chicle aplastado).
+## COMANDO 3 (T1697)
+
+le doy otra semilla a denji y me río
+
+## RESPUESTA 3 (T1697)
+
+> le doy otra semilla a denji y me río
+
+Te ríes y le pones otra semilla en la mano.
+
+Denji la mira como si le hubieras dado un lingote de oro. Cierra el puño encima, despacio, y se la mete en el bolsillo del pecho del traje, el único que no está roto. Le da dos palmaditas al bolsillo.
+
+—¡Trato hecho! —Te pone el chicle aplastado en la palma, solemne, con los dos dedos, como si fuera una moneda de colección—. No está masticado. Bueno, casi no.
+
+Se ríe contigo, con todos los dientes de tiburón a la vista. Una risa fuerte, de chico, que rebota en los muebles rotos.
+
+—Facundo es buena persona —le anuncia a Aki, como si fuera un descubrimiento científico—. Me dio dos. Y no me pidió nada. Bueno, el chicle. Pero el chicle se lo di yo.
+
+Aki se pasa una mano por la cara. Acaba de decirte que no las regales delante de cualquiera.
+
+—Denji no es cualquiera —dice, más para sí mismo que para ti, y suspira—. Es peor.
+
+Power te mira con los ojos entrecerrados, de brazos cruzados, con la lengua todavía un poco afuera por el gusto a pasto.
+
+—Power no quiere más de esas verduras horribles. —Pausa—. Pero si Denji tiene dos, Power también quiere dos. Para tirarlas. Es lo justo.
+
+—Ni siquiera tienes una —le dice Denji.
+
+—¡Power se la comió! ¡Cuenta igual!
+
+Kobeni sigue en la boca de la escalera, con el cuchillo en la mano, mirándote como si fueras un oso que de pronto se puso a repartir caramelos.
+
+La radio de Aki chisporrotea en su cinturón. Una voz de mujer, de la central, entrecortada por la estática. Aki la levanta. Escucha. Contesta con monosílabos: "Sí". "Entendido". "Los cuatro". "Sí, él también". Corta.
+
+—Nos vamos. —Se guarda la radio—. Órdenes de la señorita Makima. Esta noche nadie duerme en su casa: hay un lugar preparado, con guardia. Denji, Power, Kobeni y yo. —Te mira—. Y tú. Ella quiere que estés con nosotros hasta que esto termine, y aceptaste.
+
+Power levanta la cabeza de golpe, como un perro que escuchó la palabra "paseo".
+
+—¿El gato también? —Se le iluminan las pupilas en cruz—. ¿El gato gigante duerme con nosotros? ¿Puede dormir con Power? ¡Power lo va a cuidar! ¡Power es experta en gatos!
+
+Kase la mira desde tu hombro. Bosteza, enorme, mostrando todos los colmillos, sin dejar de mirarla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1697 · CHAINSAW MAN · DÍA 1 · 20:06    ║
+║ Tokio, otoño de 1997                         ║
+║ Mitsukoshi, piso 7 (muebles)                 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.888 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, bostezándole a Power     ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Ir al refugio con la División 4    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:06, Mitsukoshi piso 7. Denji guardó la segunda semilla en el bolsillo del pecho y le dio el chicle ("Facundo es buena persona"). Power quiere dos "para tirarlas". Órdenes de Makima por radio: esta noche nadie duerme en su casa; hay un refugio con guardia para Denji, Power, Kobeni, Aki y Facundo. Power: "¿El gato duerme con nosotros? ¿Puede dormir con Power? ¡Power es experta en gatos!" Kase le bosteza.

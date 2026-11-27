@@ -18,3 +18,4 @@ ENCUENTROS:
 - T1693 · Toca la cola de Kase; Kase le da un coletazo en la cara (sin uñas). "¡Me pegó! ¡Es de verdad! ¡Aki, el gato de verdad le pegó a Power!" Sube con ellos contándole a nadie lo del gato.
 - T1694 · VIO la semilla curar a Denji. Quiere una por un raspón del tamaño de una moneda: "¡Power también quiere! ¡Power también está herida! ¡Muy herida!"
 - T1695 · Come una semilla del ermitaño de Facundo: "¡PUAJ! ¡Es pasto! ¡Es una verdura! ¡Le diste una verdura a Power! ¡Power odia las verduras! ¡Las verduras son veneno!" Raspón curado. "¡Power no pidió que le curaran la rodilla! ¡Power pidió una semilla!" Sabe (por Facundo): Facundo, viajero.
+- T1697 · "Power no quiere más de esas verduras horribles. Pero si Denji tiene dos, Power también quiere dos. Para tirarlas. Es lo justo." Al saber del refugio: "¿El gato también? ¿El gato gigante duerme con nosotros? ¿Puede dormir con Power? ¡Power lo va a cuidar! ¡Power es experta en gatos!"
