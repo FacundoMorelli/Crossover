@@ -111,3 +111,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1440 · Facundo le da un beso en la cabeza antes de la despedida; Kase lo permite "como un favor". Cruza con él a One Piece.
 - T1491 · Dragon Ball, planeta de Kaio-sama · Facundo le pasa ki para aguantar la gravedad x10. Se sienta a mirar fijo a Bubbles, que retrocede.
 - T1494 · Le apoya una pata en la frente a Goku (tirado en el pasto) y se va.
+- T1496 · Se sienta en el brazo de Goku como si fuera suyo.

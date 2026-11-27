@@ -16,3 +16,4 @@ ESTADO: activo
 - T1493 · Pierde el techo de la casa: "¡MI CASAAAA!" "¡¿PERDÓN POR QUÉ?! ¡GOKU!"
 - T1494 · "Salvaste... mi planeta." Patea a Goku: "¡Y TÚ IBAS A DESTRUIRLO!"
 - T1495 · "Nunca más. Yo te dije que Milk iba a enojarse. Te lo dije hace tres meses." "Sí te va a gritar."
+- T1496 · Lista de daños (techo, árbol, pasto, Camino de la Serpiente; "Enma-sama me va a llamar para quejarse"). "Bueno. Al menos me divertí. Hace años que no veía a alguien hacer eso con un Kamehameha. Y no siento nada de ti, muchacho. Es lo más raro que vi en mi vida." Chiste: "¿Por qué el saiyajin no puede guardar secretos? ¡Porque siempre se le escapa el ki!"

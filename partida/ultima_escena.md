@@ -3,79 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1493)
-
-sigo peleando
-
-## RESPUESTA 1 (T1493)
-
-> sigo peleando
-
-Goku viene.
-
-Ya no es lo mismo. El primer golpe en Super Saiyajin 3 no lo ves: lo sientes, en el antebrazo que levantaste por instinto, un impacto que te dobla el codo y te hace retroceder un paso en el pasto. El segundo lo esquivas por un pelo. El tercero lo paras con la palma abierta, y el choque suelta una onda que arranca el techo rojo de la casita de Kaio-sama y lo manda girando hacia las nubes.
-
-—¡MI CASAAAA!
-
-Siguen.
-
-Goku pelea como nunca lo viste pelear. Rápido, pesado, sin pausa. Cada golpe trae todo el peso de los meses en ese planeta, y cada golpe que paras le enciende más la sonrisa. Suben. Pelean en el aire, por encima del planeta, tan arriba que la casita sin techo se ve del tamaño de una moneda. Bajan en picada, juntos, y aterrizan en el Camino de la Serpiente, que cruje bajo los pies de los dos y se raja en una línea larga. Vuelven a subir.
-
-Te sigues conteniendo. Pero cada vez un poco menos. Tienes que dejar de dejar pasar golpes: ya no hace falta, Goku encuentra solo los huecos. Uno te llega a las costillas. Otro a la mandíbula, y te gira la cara. Sientes el gusto metálico en la boca. Le devuelves uno al estómago, más fuerte que todos los anteriores, y Goku se dobla en el aire, tose, y se ríe tosiendo.
-
-—¡Ja...! ¡Ese sí...! ¡Ese sí dolió!
-
-Pasan los minutos. Muchos.
-
-Y el Super Saiyajin 3 empieza a cobrarse lo suyo. Goku respira cada vez más fuerte. El aura dorada parpadea, como una lámpara con la mecha corta. Le corre sudor por la cara. Le tiemblan un poco los brazos. Lo sabes, y él también lo sabe.
-
-Se aleja. Se para en el aire, sobre el planeta chiquito, a cincuenta metros de ti. Abajo, Kaio-sama mira hacia arriba con la boca abierta, Bubbles abrazado a su pierna. Kase, sentado en el pasto, con la cola enroscada, mira para arriba sin parpadear.
-
-Goku junta las manos al costado de la cadera.
-
-—Ka...
-
-Una luz azul le nace entre las palmas.
-
-—...me...
-
-Crece. Ilumina el cielo amarillo de azul, le ilumina la cara cansada y feliz desde abajo, hace temblar el aire en ondas.
-
-—...ha...
-
-Es más grande que cualquiera que le hayas visto. Todo lo que le queda, metido en las dos manos.
-
-—¡Kaio-sama, perdón por el planeta! —grita, sin dejar de cargar.
-
-—¡¿PERDÓN POR QUÉ?! —chilla Kaio-sama desde abajo—. ¡GOKU! ¡¿PERDÓN POR QUÉ?!
-
-—...me...
-
-Goku te mira por encima de la luz, con los ojos verdes encendidos y el pelo dorado hasta la cintura.
-
-Apunta hacia ti. Y detrás de ti, abajo, está el planeta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1493 · DRAGON BALL · AÑO 777 · ---     ║
-║ Otro Mundo · cielo del planeta de Kaio-sama  ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 zeni                  ║
-║ Energía 94% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: en el pasto, mirando para arriba       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Duelo con Goku · mensaje de Milk   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1494)
+## COMANDO 1 (T1494)
 
 recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
 
-## RESPUESTA 2 (T1494)
+## RESPUESTA 1 (T1494)
 
 > recibo de frente el kamekameha, y lo tiro para el otro lado asi no choca con el planeta
 
@@ -157,11 +89,11 @@ Kase le apoya una pata en la frente. Después se va.
 
 ---
 
-## COMANDO 3 (T1495)
+## COMANDO 2 (T1495)
 
 uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
 
-## RESPUESTA 3 (T1495)
+## RESPUESTA 2 (T1495)
 
 > uso tasación en goku, eh goku dende me dijo esto para que te dija de milk: le digo lo que me dijo
 
@@ -229,4 +161,69 @@ Kaio-sama resopla.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Mensaje de Milk entregado. Goku, sin energía, pide que Facundo lo lleve a casa y lo invita a la fiesta de Bulma. Facundo puede responder.
+## COMANDO 3 (T1496)
+
+esta bien voy
+
+## RESPUESTA 3 (T1496)
+
+> esta bien voy
+
+> —Está bien. Voy.
+
+Goku levanta los dos brazos al cielo amarillo, sentado en el pasto.
+
+—¡SÍ! —Se cae de espaldas otra vez, riéndose—. ¡Facundo viene a la fiesta! ¡Kaio-sama, ¿oíste?! ¡Viene!
+
+—Te oyó medio Otro Mundo —dice Kaio-sama.
+
+Goku se arrastra hasta sentarse otra vez. Junta las pesas de los tobillos del hoyo en el pasto, las mira, y las deja. Después mira la casita sin techo.
+
+—Perdón por el techo, Kaio-sama.
+
+—¡Y por el árbol! ¡Y por el pasto! ¡Y por el Camino de la Serpiente! ¡Enma-sama me va a llamar para quejarse!
+
+—Y por eso también.
+
+Kaio-sama suspira, larguísimo, con las manos en la cintura. Mira a Goku, sentado, sucio, agotado y feliz. Te mira a ti. Mira a Kase.
+
+Después se le escapa una sonrisa debajo de los bigotes.
+
+—Bueno. Al menos me divertí. —Se acomoda los lentes oscuros—. Hace años que no veía a alguien hacer eso con un Kamehameha. Y no siento nada de ti, muchacho. Nada. Es lo más raro que vi en mi vida, y vi a Goku comerse un dinosaurio entero.
+
+Se aclara la garganta, de golpe muy serio.
+
+—Antes de que se vayan, escuchen esta: ¿por qué el saiyajin no puede guardar secretos?
+
+Goku y Bubbles se quedan esperando.
+
+—¡Porque siempre se le escapa el ki! —Kaio-sama se ríe solo, a carcajadas, golpeándose la rodilla—. ¡Se le escapa el ki! ¡Jajajaja!
+
+Gregory, el grillo, se tapa la cara con las alas.
+
+Goku se ríe por compromiso. Después se pone de pie, tambaleando, apoyándose en tu hombro con una mano para no caerse por la gravedad. Pesa como una bolsa de piedras. Kase, al ver la mano de Goku en tu hombro, se le sube encima del brazo y se queda ahí, sentado, como si fuera suyo.
+
+—Bueno —dice Goku, con la mano en tu hombro y el gato en el brazo—. Cuando quieras. A Monte Paoz. Milk está en casa.
+
+Traga saliva.
+
+—Supongo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1496 · DRAGON BALL · AÑO 777 · ---     ║
+║ Otro Mundo · planeta de Kaio-sama            ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien                     ║
+║ Velo: persona común                          ║
+║ Kase: sentado en el brazo de Goku            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Llevar a Goku a Monte Paoz ·       ║
+║ fiesta de Bulma                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Kaio-sama. Facundo aceptó ir a la fiesta de Bulma. Goku, apoyado en su hombro con Kase en el brazo, listo para ir a Monte Paoz. Facundo puede actuar.
