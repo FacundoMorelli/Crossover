@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1662)
-
-no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
-
-## RESPUESTA 1 (T1662)
-
-> no, ninguna de las dos, tranquila, me voy a lavar las manos y vamos a la cocina
-
-> —No, ninguna de las dos. Tranquila.
-
-Erasa suelta el aire. Se le ve en los hombros, que bajan de golpe.
-
-—Ya sé. Ya sé que no. —Se ríe, todavía nerviosa—. Pero ella no sabe.
-
-Te señala una puerta al lado de la escalera. El baño es chiquito, con azulejos celestes, una jabonera con forma de pato y unas toallas bordadas con una "E" que nadie usa. Te lavas las manos. Cuando sales, Erasa te está esperando en el pasillo, apoyada en la pared, haciendo como que no te esperaba.
-
-Van juntos a la cocina.
-
-Es una cocina comedor, con una mesa redonda de madera puesta para tres, mantel blanco planchado, servilletas de tela dobladas en triángulo, un florero con una sola rosa del rosal de la entrada y la vajilla buena, la que se nota que sale de la vitrina una vez al año. En el centro, en una fuente de vidrio, el pollo al horno, dorado, brillante, rodeado de papas y ramitas de romero. Huele a gloria.
-
-La caja de bombones de la calle Mayor está sobre la mesada, abierta. Falta uno.
-
-La madre de Erasa ya no tiene el delantal de patos. Está sentada en la cabecera, con las manos cruzadas sobre el mantel, y les señala las sillas con la cabeza: a Erasa, a su derecha; a ti, enfrente, donde puede verte bien.
-
-—Siéntense, siéntense.
-
-Se sientan. Ella corta el pollo con una precisión de cirujano. Te sirve primero a ti: la pechuga entera, la parte más dorada, tres papas grandes. Después a Erasa. Después a ella. Se sirve agua, despacio. Te sirve agua a ti.
-
-Por debajo de la mesa, la sandalia de Erasa encuentra tu pie y se queda ahí, apretando un poco.
-
-—Bueno —dice la madre, y apoya los cubiertos a los lados del plato sin tocar la comida todavía. Te sonríe con toda la amabilidad del mundo—. Prometí que en la puerta no preguntaba más. Y no pregunto más sobre eso. Ya me lo dirás cuando no sea "complicado".
-
-Erasa la mira con los ojos entrecerrados, desconfiando.
-
-—Pero hay otra cosa que sí quiero saber. —La madre corta un pedazo de papa, muy tranquila, y no se lo lleva a la boca—. Erasa me contó que te vas. Que eres viajero, que conoces islas y montañas, y que te vas en unos días. —Te mira por encima del tenedor—. Y mi hija, que nunca salió de esta ciudad, que llora con las películas de barcos, me compró una almohada para tu gato.
-
-—Mamá —susurra Erasa.
-
-—Así que dime, querido. —Deja la papa en el plato—. ¿Qué piensas hacer con ella cuando te vayas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1662 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 20:10        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1663)
+## COMANDO 1 (T1663)
 
 no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
 
-## RESPUESTA 2 (T1663)
+## RESPUESTA 1 (T1663)
 
 > no le voy a mentir, capaz tardo semanas en volver, pero voy a venir a visitarla, si pudiera llevarla conmigo lo haría, pero no se puede
 
@@ -113,11 +57,11 @@ Todavía no tocaste el pollo.
 
 ---
 
-## COMANDO 3 (T1664)
+## COMANDO 2 (T1664)
 
 lo pruebo y le digo que me encanta
 
-## RESPUESTA 3 (T1664)
+## RESPUESTA 2 (T1664)
 
 > lo pruebo y le digo que me encanta
 
@@ -167,4 +111,58 @@ Erasa deja de masticar.
 
 ---
 
-ESTADO AL CIERRE: martes 20:35, cena en la cocina comedor. A Facundo le encantó el pollo (de verdad); la mamá se ablanda, le sirve más papas, cuenta anécdotas de Erasa (quería ser azafata y se mareaba en el ascensor; se escapó a los 8 hasta la esquina y volvió por el oso; enamorada en la preparatoria de un chico que resultó ser Gran Saiyaman). Le dio pollo a Kase ("buenos modales"). Pregunta: "¿Cuántos años tienes? Con esa cara y ese pelo no te puedo calcular." Erasa deja de masticar. (Facundo tiene 18; Erasa ~21-22.)
+## COMANDO 3 (T1665)
+
+tengo 18
+
+## RESPUESTA 3 (T1665)
+
+> tengo 18
+
+> —Tengo dieciocho.
+
+El tenedor de la madre de Erasa queda suspendido en el aire, a mitad de camino.
+
+Erasa tose. Se atraganta con una papa, se pega dos golpes en el pecho, toma agua, tose otra vez. Tiene los ojos llorosos y la cara roja, y esta vez no es de vergüenza.
+
+—¿Dieciocho? —dice, con la voz rota por la tos—. ¿DIECIOCHO?
+
+—Dieciocho —repite la madre, despacio, saboreando la palabra como si fuera un caramelo ácido. Deja el tenedor en el plato. Se le está formando una sonrisa enorme en la cara y no hace nada por esconderla—. Dieciocho años. Mira tú.
+
+Se gira hacia su hija con toda la calma del mundo.
+
+—Erasa, mi amor. ¿Cuántos años tienes tú?
+
+—Mamá, no.
+
+—Veintidós. —La madre se contesta sola, encantada—. Veintidós años cumplidos en marzo. —Se lleva una mano al pecho, con un dramatismo que se nota que heredó Erasa—. ¡Le llevas cuatro años! ¡Cuatro! ¡Cuando tú estabas en la preparatoria enamorada del Gran Saiyaman, este chico estaba en la primaria!
+
+—¡MAMÁ!
+
+—¡Y yo preguntándole de qué vive! ¡Si es un nene! —Se ríe, se ríe de verdad, con la cabeza para atrás, y tiene que secarse un ojo con la servilleta—. Ay, perdón, querido. Perdón. No es contigo. Es que yo pensaba que tenías como veinticinco. Con esas cicatrices, con ese aplomo, con ese aerodeslizador... —Vuelve a reírse—. Y eres un bebé.
+
+Erasa no se ríe. Está colorada hasta las orejas, con la servilleta apretada en el puño, mirándote con los ojos muy abiertos, como si te viera por primera vez. Debajo de la mesa, su pie se queda quieto. No se va. Pero se queda quieto.
+
+—Yo... —empieza. Mira a su madre, que sigue secándose las lágrimas de risa. Te mira a ti otra vez. Baja la voz—. Yo no sabía. Nunca te pregunté. Pensé que eras... no sé. Más grande que yo. Por cómo hablas. Por cómo haces todo.
+
+Se muerde el labio.
+
+—¿A ti no te molesta? —pregunta, muy bajito, por encima del pollo—. Que yo sea más grande, digo. Cuatro años.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1665 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 20:37        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 20:37, cena. Facundo dijo que tiene 18. Erasa tiene 22 (cumplidos en marzo). La mamá se ríe a carcajadas ("¡Si es un nene! Pensaba que tenías veinticinco"). Erasa, colorada, pie quieto bajo la mesa: "Yo no sabía. Pensé que eras más grande. ¿A ti no te molesta? Que yo sea más grande. Cuatro años."

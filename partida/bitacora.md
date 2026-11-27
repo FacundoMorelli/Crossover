@@ -1663,3 +1663,4 @@ T1661 · DRAGON BALL · casa de Erasa · "Es complicado de explicar; no necesito
 T1662 · DRAGON BALL · casa de Erasa · "Ninguna de las dos." Cena con pollo al horno. Mamá: "¿Qué piensas hacer con ella cuando te vayas?"
 T1663 · DRAGON BALL · casa de Erasa · "Capaz tardo semanas, pero voy a venir a visitarla. Si pudiera llevarla, lo haría." Erasa: "Yo no te pedí que me llevaras." Mamá: "Por lo menos tú no mientes." Esperan que pruebe el pollo.
 T1664 · DRAGON BALL · casa de Erasa · Le encanta el pollo. La mamá se ablanda, cuenta anécdotas, le da pollo a Kase. "¿Cuántos años tienes?"
+T1665 · DRAGON BALL · casa de Erasa · "Tengo dieciocho." Erasa tiene 22. La mamá se ríe ("¡Si es un nene!"). Erasa: "¿A ti no te molesta que yo sea más grande?"

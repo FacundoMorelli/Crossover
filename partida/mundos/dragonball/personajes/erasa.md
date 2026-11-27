@@ -2,7 +2,7 @@ NOMBRE: Erasa
 AFILIACIÓN: civil; amiga de Videl desde la preparatoria (Estrella Naranja)
 RANGO: —
 PODER VISTO POR FACUNDO: ninguno (persona común)
-EDAD EN ESTE MOMENTO DEL CANON: ~21-22 (año 778) · ADULTA
+EDAD EN ESTE MOMENTO DEL CANON: 22 (cumplidos en marzo, año 778; dicho por su mamá T1665) · ADULTA
 FÍSICO: rubia, pelo corto con rulos, ojos celestes (según canon de la saga de Buu).
 PERSONALIDAD Y FORMA DE HABLAR: alegre, habladora, curiosa, coqueta; habla rápido y mucho.
 RELACIÓN CON FACUNDO: no lo conoce.
@@ -49,3 +49,4 @@ ESTADO: soltera (según Bulma).
 - T1662 · Por Facundo: no es mafioso ni príncipe ("Ya sé que no. Pero ella no sabe."). Lo espera fuera del baño. En la mesa, pie contra el de Facundo. Llora con las películas de barcos (según su mamá).
 - T1663 · Sabe (por Facundo, delante de su mamá): puede tardar semanas, volverá a visitarla, la llevaría si pudiera pero no se puede. Ojos rojos, sonrisa chica: "Yo no te pedí que me llevaras." Aprieta su pie fuerte bajo la mesa.
 - T1664 · "¡Le encanta! ¡Y no está mintiendo, se le nota!" Su mamá cuenta sus anécdotas (azafata, la escapada a los 8 por el oso, enamorada de Gran Saiyaman); grita "¡Mamá!" cada tres frases. Deja de masticar cuando su mamá pregunta la edad de Facundo.
+- T1665 · Sabe (por Facundo) que tiene 18. Se atraganta: "¿DIECIOCHO?" Ella tiene 22 (marzo). Colorada, pie quieto bajo la mesa: "Yo no sabía. Nunca te pregunté. Pensé que eras... más grande que yo. Por cómo hablas. Por cómo haces todo." "¿A ti no te molesta? Que yo sea más grande, digo. Cuatro años."
