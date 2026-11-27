@@ -138,3 +138,4 @@
 - Goku, Vegeta, Whis, Bills · T1552 · Por Facundo: la idea de combinar el ki divino con el SSJ. Whis nota que es justo lo que pensaba enseñar.
 - Whis, Bills · T1553 · Por Facundo: lo de combinar el ki divino lo dedujo porque Goku tiene ki divino. Whis lo acepta (regla 1.4).
 - Bills, Whis · T1554 · Ven a Facundo sacar del bolsillo un plato caliente de carne con puré, con cubiertos.
+- Bills, Whis · T1555 · Por Facundo: no quiere nada a cambio, solo ver una habilidad de dios.

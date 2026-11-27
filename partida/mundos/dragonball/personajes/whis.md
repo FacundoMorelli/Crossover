@@ -30,3 +30,4 @@ RELACIÓN CON FACUNDO (T1528): curiosidad amable; agradecido por el pudín y la 
 - T1552 · Ve el segundo de azul de Goku por la sugerencia de Facundo. Sonrisa más fina, atenta: "Vaya, Facundo-san. Eso es exactamente lo que yo pensaba enseñarles. Dentro de unos meses. ¿Cómo se le ocurrió?" (la pregunta única permitida, regla 1.4)
 - T1553 · Por Facundo: Goku tiene ki divino y asumió que se combinaba con el SSJ. "Qué razonamiento tan limpio. Mucha gente con muchísimo poder no se da cuenta de algo así en mil años. Usted lo vio en una noche, mirando desde una silla de playa." No pregunta más. Pasa a entrenar a Goku y Vegeta en el azul: "El fuego primero. Después, el agua encima. Sin apurarse."
 - T1554 · Huele la carne, deja a Vegeta a mitad de explicación y viene rápido: "Bills-sama, ¿me permitiría probar un poquito...?" Bills le dice que no.
+- T1555 · Mientras Bills hace el Hakai, mira a Facundo, no a Bills: sonrisa amable, ojos muy quietos.

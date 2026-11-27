@@ -94,3 +94,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1551 · Corre con el caparazón alrededor del planeta de Bills; se cae rodando con Vegeta. Aprende de Whis a moverse sin pensar.
 - T1552 · Por Facundo: combinar el "modo dios" con el SSJ. "Desde ayer tengo algo adentro. Del rojo. Como agua quieta. Y el Super Saiyajin es como un fuego. ¿Juntar el agua con el fuego?" Lo intenta: UN SEGUNDO DE AZUL (aura y pelo azules) y se apaga; cae sentado. "¡Fue azul!"
 - T1553 · Whis le cambia el entrenamiento al azul; asiente con todas sus ganas.
+- T1555 · Ve el Hakai de Bills a lo lejos; boca abierta.

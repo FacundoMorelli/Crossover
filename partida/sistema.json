@@ -1,5 +1,5 @@
 {
-  "turno": 1554,
+  "turno": 1555,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, lunes de madrugada (hora Tierra), planeta de Bills",
@@ -1566,6 +1566,14 @@
       "mision": "Que Touka te alcance con un cristal en un combate de entrenamiento.",
       "dificultad": "MEDIA",
       "emitida": "T1201"
+    },
+    {
+      "poder": "Destrucción (Hakai) y poder de un Dios de la Destrucción",
+      "de": "Bills",
+      "mundo": "dragonball",
+      "cuando": "T1555",
+      "mision": "Recibir un Hakai de Bills dirigido a ti, de frente y en serio, y seguir existiendo.",
+      "dificultad": "EXTREMA"
     }
   ],
   "misiones_de_copia_rechazadas": [],

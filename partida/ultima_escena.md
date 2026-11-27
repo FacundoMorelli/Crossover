@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1552)
-
-le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
-
-## RESPUESTA 1 (T1552)
-
-> le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
-
-Metes la mano en el bolsillo y sacas un pudín. Se lo pones en la mano a Bills.
-
-Bills se sienta en el suelo, ahí mismo, con las piernas cruzadas, en ropa de dormir, y se lo come con los ojos cerrados y la cola moviéndose sola detrás de él. Sin hablar. Sin respirar casi. Cuando termina, lame el vasito por dentro.
-
-—Esto es lo mejor de despertarse —dice, a nadie.
-
-En ese momento pasan Goku y Vegeta corriendo, a veinte metros, con los caparazones en la espalda, empapados de sudor, en la vuelta número no se sabe cuánto.
-
-> —¡Goku! ¿Probaste combinar el modo dios con el Super Saiyajin?
-
-Goku frena en seco. Vegeta, detrás, se lo lleva puesto, y los dos caen al suelo con un estruendo de piedra.
-
-—¿Eh? —Goku se sienta debajo del caparazón, con la cara llena de tierra—. ¿Combinar?
-
-Se queda pensando. Se le arruga la frente. Se mira las manos.
-
-—Desde ayer tengo algo adentro —dice, despacio—. Del rojo. No se fue. Está ahí, tranquilo, como agua quieta. —Cierra los puños—. Y el Super Saiyajin es como un fuego. —Te mira—. ¿Juntar el agua con el fuego?
-
-Se desata el caparazón. Se pone de pie. Cierra los ojos.
-
-Grita, como siempre, y el pelo se le pone dorado de golpe, con el aura amarilla rugiendo. Después deja de gritar. Respira. Se queda quieto, muy quieto, con los ojos cerrados, buscando algo adentro.
-
-El aura amarilla parpadea.
-
-Durante un segundo, uno solo, le cambia el color. Se le vuelve azul. Un azul claro, como el cielo de un día limpio. El pelo también, un instante, se le pone azul, en punta, brillante.
-
-Y se apaga todo de golpe. Goku cae sentado al suelo, sin aire, con el pelo negro otra vez y los ojos enormes.
-
-—¡Guau! —jadea—. ¡¿Vieron eso?! ¡Fue azul! ¡Por un segundo fue azul!
-
-Vegeta, todavía en el suelo con el caparazón encima, se quedó con la boca abierta. Después la cierra. Aprieta los dientes. Se desata las correas con una violencia innecesaria.
-
-—Kakarotto otra vez —murmura—. Siempre Kakarotto.
-
-Y se pone a intentarlo él también, en silencio, de espaldas a todos.
-
-Bills, sentado en el suelo con el vasito vacío, levanta una ceja.
-
-Whis, en la silla de playa, deja el vaso de jugo en la mesita, al lado de Kase dormido. Despacio. Se queda mirando a Goku un momento, con la cabeza un poco ladeada. Después gira la cabeza hacia ti.
-
-Ya no tiene la sonrisa amable de siempre. Tiene otra, más fina, más atenta.
-
-—Vaya, Facundo-san —dice, muy suave—. Eso es exactamente lo que yo pensaba enseñarles. Dentro de unos meses. —Inclina la cabeza—. ¿Cómo se le ocurrió?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1552 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · sillas de playa         ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.244 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en la mesita                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenamiento en el planeta de     ║
-║ Bills · quedan 2 pudines                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1553)
+## COMANDO 1 (T1553)
 
 por que goku ahora tiene ki divino, y asumi que se podrían combinar
 
-## RESPUESTA 2 (T1553)
+## RESPUESTA 1 (T1553)
 
 > por que goku ahora tiene ki divino, y asumi que se podrían combinar
 
@@ -125,11 +56,11 @@ Se inclina un poco hacia ti, con las orejas paradas.
 
 ---
 
-## COMANDO 3 (T1554)
+## COMANDO 2 (T1554)
 
 le doy una carne al punto justo con pure
 
-## RESPUESTA 3 (T1554)
+## RESPUESTA 2 (T1554)
 
 > le doy una carne al punto justo con pure
 
@@ -188,4 +119,80 @@ Te mira a los ojos. Al rojo y al azul.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Bills comió la carne con puré y, serio: "Un dios no se queda debiendo nada a nadie. ¿Qué quieres a cambio?" Whis quiere probar. Facundo puede responder.
+## COMANDO 3 (T1555)
+
+nada, bueno, me mostrarias una de tus habilidades de dios?
+
+## RESPUESTA 3 (T1555)
+
+> nada, bueno, me mostrarias una de tus habilidades de dios?
+
+> —Nada. Bueno... ¿me mostrarías una de tus habilidades de dios?
+
+Bills te mira. Parpadea.
+
+—¿Nada? —repite, como si la palabra le resultara rara en la boca—. Me das pudín, me das esto, ¿y no quieres nada? ¿Ni un planeta? ¿Ni que destruya a alguien que te caiga mal? —Ladea la cabeza—. Todos quieren algo.
+
+Después escucha el resto. Se le dibuja una sonrisa de gato, despacio, de oreja a oreja.
+
+—Ah. Una habilidad. —Se pone de pie, sacudiéndose la ropa de dormir—. Eso sí es pedir algo. Bien.
+
+Mira alrededor. El pie de la pirámide, los árboles con las hojas al revés, el cielo violeta. A cien metros, por encima de una ladera, flota una roca enorme, del tamaño de una casa de tres pisos, cubierta de musgo, girando despacio sobre sí misma, como flotan tantas cosas en ese planeta.
+
+Bills levanta una mano. La palma abierta, hacia la roca. Nada más.
+
+—Mira bien, muchacho del bolsillo.
+
+No hay grito. No hay aura. No hay ruido. Solo una luz, violeta, pálida, que aparece alrededor de la roca, como un contorno, como si alguien la hubiera dibujado con un lápiz de luz.
+
+—Hakai —dice Bills, muy bajo.
+
+Y la roca deja de existir.
+
+No explota. No se rompe. No cae. Se deshace en partículas de luz violeta, chiquitas, miles, que suben flotando despacio hacia el cielo, como chispas de una fogata, y se apagan una por una antes de llegar a ningún lado. En un segundo, no queda nada. Ni polvo. Ni musgo. Ni la sombra que hacía sobre la ladera. Como si nunca hubiera estado ahí.
+
+A lo lejos, Goku y Vegeta se quedaron quietos en la mitad del entrenamiento, mirando el lugar vacío. Vegeta tiene la cara gris. Goku, la boca abierta.
+
+Bills baja la mano.
+
+—Destrucción —dice—. No la de romper cosas. La de que dejen de ser. Eso es lo que hace un dios de la destrucción. —Se rasca la oreja—. Es bastante aburrido, en realidad. Lo divertido es lo que viene antes.
+
+Delante de tus ojos, sin ruido, como siempre, se abre una ventana.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Destrucción (Hakai) y poder de un Dios de la ║
+║ Destrucción                                  ║
+║ USUARIO: Bills · Dragon Ball                 ║
+║                                              ║
+║ MISIÓN: Recibir un Hakai de Bills dirigido a ║
+║ ti, de frente y en serio, y seguir           ║
+║ existiendo.                                  ║
+║ DIFICULTAD: EXTREMA                          ║
+╚══════════════════════════════════════════════╝
+```
+
+Bills se vuelve a sentar en el suelo, al lado de tu silla, con las piernas cruzadas, satisfecho, como quien acaba de hacer un truco de cartas.
+
+—¿Contento? —Bosteza—. Ahora sí estamos a mano.
+
+Whis, de pie junto a la mesita, te mira. No a Bills. A ti. Con la cabeza un poco ladeada, la sonrisa amable de siempre, y los ojos quietos, muy quietos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1555 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · sillas de playa         ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en la mesita                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Misión de copia: el Hakai de Bills ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Bills mostró el Hakai (roca borrada). Misión de copia: recibir un Hakai de Bills y seguir existiendo (EXTREMA). "Ahora sí estamos a mano." Whis mira a Facundo. Facundo puede actuar.
