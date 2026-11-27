@@ -1,0 +1,54 @@
+# Mazmorras Instantáneas, Prisioneros y Yoo Jinho
+CAPÍTULOS: 13–45 (subarcos: Mazmorra Instantánea 13–16; Mazmorra y Lagartos 17–24; Mazmorra y Prisioneros 25–35; Grupo de Yoo Jinho 36–45)
+AÑO / FECHA: Igual que arco 1, semanas después.
+LUGARES: Seúl; mazmorras instantáneas (solo para Jinwoo); Puertas de rango C/D; mazmorra con lagartos; Puerta con prisioneros (convictos usados como cebo); Puerta de rango C con la Arana/araña reina? (ver Dudas).
+DURACIÓN EN LA HISTORIA: semanas.
+
+PERSONAJES PRESENTES:
+- Sung Jinwoo — sube de nivel ~10 → ~25+.
+- Kim Sangshik? / grupos de incursión.
+- Kang Taeshik — inspector de la Asociación (rango B? ver Dudas), asesino de cazadores; usa la Puerta para matar a otros.
+- Yoo Jinho — 20s; hijo del presidente de Yoojin Construction; rango D; contrata a Jinwoo para que lo ayude a completar incursiones.
+- Hwang Dongsuk — cazador que intenta matar a Jinwoo y Yoo Jinho; hermano menor de Hwang Dongsoo (cazador rango S en EE.UU.).
+- Kim Chul? (aparece en el arco 4).
+- Prisioneros convictos.
+
+QUÉ PASA:
+1. Jinwoo usa la llave de una mazmorra instantánea (recompensa del Sistema): solo él puede entrar. Caza lobos/bestias y sube de nivel.
+2. Mazmorra con lagartos: Jinwoo pelea contra monstruos lagarto y su jefe; gana habilidades.
+3. Mazmorra con prisioneros: un grupo usa convictos. Kang Taeshik revela que asesina a cazadores dentro de Puertas para robarles. Intenta matar a Jinwoo; Jinwoo lo mata (su primer humano).
+4. Yoo Jinho contrata a Jinwoo para limpiar Puertas de rango C como dúo ("ganar fama").
+5. Hwang Dongsuk y su grupo intentan matar a Jinwoo y Yoo Jinho en una Puerta; Jinwoo los mata a todos (ver Dudas).
+6. Jinwoo y Yoo Jinho se hacen amigos ("hyung-nim").
+
+PELEAS DEL ARCO:
+1. Jinwoo vs monstruos de mazmorras instantáneas — varias — Jinwoo gana.
+2. Jinwoo vs jefe lagarto — mazmorra — Jinwoo gana.
+3. Jinwoo vs Kang Taeshik — mazmorra de prisioneros — Jinwoo lo mata.
+4. Jinwoo vs Hwang Dongsuk y grupo — Puerta — Jinwoo gana; mueren.
+
+PODERES MOSTRADOS POR PRIMERA VEZ:
+- Jinwoo: Sprint (velocidad), Golpe Mortal/Daga del Asesino? (ver Dudas), Sigilo (invisibilidad), Intención Asesina ("Bloodlust"): paraliza.
+- Kang Taeshik: velocidad y asesinato (Agilidad alta).
+
+ORGANIZACIONES Y BANDOS:
+- Asociación de Cazadores (Kang Taeshik es inspector corrupto).
+- Yoojin Construction (Yoo Jinho).
+
+MUERTES Y BAJAS:
+- Kang Taeshik — Jinwoo.
+- Hwang Dongsuk y cómplices — Jinwoo.
+
+MOMENTOS CLAVE / GIROS:
+- Jinwoo acepta matar humanos para sobrevivir.
+- Rivalidad futura con Hwang Dongsoo.
+
+EN PARALELO:
+- Hwang Dongsoo (EE.UU.) busca venganza por su hermano (se revela después).
+
+QUÉ CAMBIA DESPUÉS:
+- Jinwoo nivel ~40 (cerca del cambio de clase).
+
+DUDAS O CONTRADICCIONES ENTRE FUENTES:
+- Rangos exactos de Kang Taeshik y Hwang Dongsuk no confirmados con fuente.
+- Nombres de habilidades varían entre traducciones.
