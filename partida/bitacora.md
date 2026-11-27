@@ -1647,3 +1647,4 @@ T1645 · DRAGON BALL · Corporación Cápsula · Le dice a Erasa que la torta es
 T1646 · DRAGON BALL · Corporación Cápsula · "Sí, yo la acompaño." Bulma le presta la cápsula 7 (aerodeslizador). Despedidas. Portón: Erasa: "¿Tú sabes manejar esas cosas?"
 T1647 · DRAGON BALL · Corporación Cápsula · "Sí, sé bien." Abre el aerodeslizador de Bulma y sube. Erasa: Calle de los Tilos 14. Tiembla de frío: "Esto no tiene techo, ¿no?"
 T1648 · DRAGON BALL · aerodeslizador · Le pone el sobretodo a Erasa. "Está calentito. Eso. Nada más." "¿Y tú? Se te nota que no tienes frío nunca."
+T1649 · DRAGON BALL · aerodeslizador · "No tengo frío." Erasa: "¿Hay algo que te pase a ti?" Bulma espía desde la cocina. "Arranca antes de que salga."

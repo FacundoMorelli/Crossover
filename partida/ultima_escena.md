@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1646)
-
-si, yo la acompaño
-
-## RESPUESTA 1 (T1646)
-
-> si, yo la acompaño
-
-> —Sí, yo la acompaño.
-
-Erasa deja de escribir a mitad de palabra.
-
-Se le escapa una sonrisa enorme que trata de esconder bajando la cabeza hacia el teléfono, y no le sale. Los pulgares le vuelan sobre la pantalla.
-
-—"Mamá, no llamo taxi, me acompañan" —lee en voz alta mientras escribe, y aprieta enviar antes de arrepentirse. El teléfono vibra al instante. Ella lo mira, se pone roja y lo guarda boca abajo en la cartera—. Pregunta quién. Después le cuento.
-
-—¡Perfecto! —Bulma deja la pila de platos en la mesa y se mete la mano en el bolsillo del pantalón—. No van a ir caminando hasta la otra punta de la ciudad a esta hora.
-
-Saca un estuche chato y, de adentro, una cápsula blanca con el número 7 pintado en un costado. Te la pone en la palma y te cierra los dedos encima, con las dos manos.
-
-—El aerodeslizador descapotable. Es mío, así que me lo traes mañana. Sano. —Te guiña un ojo—. Sin apuro.
-
-Kase se despereza en tu regazo, salta a la mesa y de ahí a tu hombro, como todas las noches. Se acomoda y mira a Erasa desde arriba.
-
-Erasa se despide de todos de corrido, sin tomar aire. Le da un beso a Videl en la mejilla y le dice algo al oído que hace que Videl ponga los ojos en blanco y la empuje. Gohan le dice que se cuide. Goku levanta la mano con la boca llena: "¡Adiós, Erasa! ¡Vuelve con más torta!" Vegeta no dice nada, pero inclina la cabeza un centímetro cuando ella pasa. Milk le envuelve lo que quedó de torta en una servilleta de tela.
-
-—Para tu mamá. Que vea que no sobró casi nada.
-
-Erasa pasa por la cabecera en puntas de pie. Bills, con los ojos cerrados y la panza para arriba, levanta una oreja.
-
-—Más grande —murmura, sin despertarse del todo.
-
-—Sí, señor. Más grande. —Erasa hace una reverenciota torpe, y Whis le devuelve una perfecta, con una sonrisa.
-
-En el portón del jardín, la calle está vacía y fresca. Las luces de la Capital del Oeste se ven allá abajo, en hilera. Erasa se abraza los brazos desnudos por el frío, con la torta envuelta colgando de una mano y la cartera de la otra.
-
-Mira la cápsula en tu mano. Después te mira a ti, con los ojos celestes muy abiertos y un rulo sobre la frente.
-
-—Oye... —dice bajito, medio en broma y medio en serio—, ¿tú sabes manejar esas cosas? Porque en tu tierra de islas andan en barco.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1646 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Portón de la Corporación Cápsula · 22:40     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1647)
+## COMANDO 1 (T1647)
 
 si, se bien, subo al aerodeslizador
 
-## RESPUESTA 2 (T1647)
+## RESPUESTA 1 (T1647)
 
 > si, se bien, subo al aerodeslizador
 
@@ -107,11 +51,11 @@ Una ráfaga de viento baja desde la colina y le levanta los rulos. Ella se encog
 
 ---
 
-## COMANDO 3 (T1648)
+## COMANDO 2 (T1648)
 
 saco mi sobretodo y se lo pongo
 
-## RESPUESTA 3 (T1648)
+## RESPUESTA 2 (T1648)
 
 > saco mi sobretodo y se lo pongo
 
@@ -153,4 +97,44 @@ Erasa te mira de costado. La camisa blanca, los brazos al aire, el viento que te
 
 ---
 
-ESTADO AL CIERRE: 22:44, aerodeslizador frente al portón, todavía sin arrancar. Erasa con el sobretodo negro de Facundo (sacado del inventario desde el hueco de atrás; ella cree que estaba ahí). Ya no tiembla. Olió el cuello sin querer: "Está calentito. Eso. Nada más." Pregunta: "¿Y tú? Ahora el que se va a congelar eres tú. Se te nota que tú no tienes frío nunca. Igual que con las manos." Facundo en camisa blanca.
+## COMANDO 3 (T1649)
+
+no tengo frio, no te preocupes
+
+## RESPUESTA 3 (T1649)
+
+> no tengo frio, no te preocupes
+
+> —No tengo frío, no te preocupes.
+
+Erasa te mira un segundo largo, con la boca medio escondida en el cuello del sobretodo.
+
+—Mentira. —Lo piensa—. No, no es mentira. Ya te vi toda la noche. No te tiembla nada, no tienes frío, no te asustas cuando un dios te mira la torta. —Entrecierra los ojos—. ¿Hay algo que te pase a ti? ¿Algo normal, de persona?
+
+No espera la respuesta. Se acomoda en el asiento, sube los pies con sandalias al borde, se tapa las rodillas con el faldón del sobretodo y se queda hecha un bollito negro con una cabeza rubia arriba.
+
+El viento le vuelve a levantar los rulos. Esta vez no tiembla.
+
+Desde la ventana de la cocina de la Corporación Cápsula se recorta una silueta con una pila de platos en las manos, quieta, mirando hacia el portón. Se nota demasiado que es Bulma. Cuando ve que la miran, se agacha de golpe detrás de la mesada.
+
+Erasa la ve y se tapa la cara con las mangas vacías.
+
+—Ay, no. Nos está mirando. —Se ríe adentro de las mangas—. Arranca, por favor. Arranca antes de que salga a decirnos algo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1649 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Portón de la Corporación Cápsula · 22:45     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Acompañar a Erasa a su casa        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 22:45, aerodeslizador frente al portón, sin arrancar. Erasa hecha un bollito en el sobretodo. "¿Hay algo que te pase a ti? ¿Algo normal, de persona?" (no esperó respuesta). Bulma espía desde la ventana de la cocina y se agacha. Erasa: "Arranca, por favor. Arranca antes de que salga a decirnos algo."
