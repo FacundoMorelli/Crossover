@@ -3,51 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1649)
-
-no tengo frio, no te preocupes
-
-## RESPUESTA 1 (T1649)
-
-> no tengo frio, no te preocupes
-
-> —No tengo frío, no te preocupes.
-
-Erasa te mira un segundo largo, con la boca medio escondida en el cuello del sobretodo.
-
-—Mentira. —Lo piensa—. No, no es mentira. Ya te vi toda la noche. No te tiembla nada, no tienes frío, no te asustas cuando un dios te mira la torta. —Entrecierra los ojos—. ¿Hay algo que te pase a ti? ¿Algo normal, de persona?
-
-No espera la respuesta. Se acomoda en el asiento, sube los pies con sandalias al borde, se tapa las rodillas con el faldón del sobretodo y se queda hecha un bollito negro con una cabeza rubia arriba.
-
-El viento le vuelve a levantar los rulos. Esta vez no tiembla.
-
-Desde la ventana de la cocina de la Corporación Cápsula se recorta una silueta con una pila de platos en las manos, quieta, mirando hacia el portón. Se nota demasiado que es Bulma. Cuando ve que la miran, se agacha de golpe detrás de la mesada.
-
-Erasa la ve y se tapa la cara con las mangas vacías.
-
-—Ay, no. Nos está mirando. —Se ríe adentro de las mangas—. Arranca, por favor. Arranca antes de que salga a decirnos algo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1649 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Portón de la Corporación Cápsula · 22:45     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: detrás de los asientos                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Acompañar a Erasa a su casa        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1650)
+## COMANDO 1 (T1650)
 
 arranco para la casa de erasa
 
-## RESPUESTA 2 (T1650)
+## RESPUESTA 1 (T1650)
 
 > arranco para la casa de erasa
 
@@ -91,11 +51,11 @@ Se encoge de hombros adentro de la tela negra.
 
 ---
 
-## COMANDO 3 (T1651)
+## COMANDO 2 (T1651)
 
 le agarro una mano y voy despacio y me meto por otras calles
 
-## RESPUESTA 3 (T1651)
+## RESPUESTA 2 (T1651)
 
 > le agarro una mano y voy despacio y me meto por otras calles
 
@@ -143,4 +103,50 @@ Se queda callada otro poco. Con el pulgar, te acaricia el dorso de la mano, desp
 
 ---
 
-ESTADO AL CIERRE: 23:12, en el aerodeslizador, dando vueltas despacio por las calles al costado del parque central. Tomados de la mano (dedos entrelazados); Erasa con la cabeza en el hombro de Facundo. "Esta no es la calle de mi casa. Ya sé que sabes. No digas nada. No te estoy retando." Pregunta: "¿Cuándo te vas? De la ciudad, digo. A tus islas. O adonde sea que vas después."
+## COMANDO 3 (T1652)
+
+no lo se, creo que en unos dias, tengo nuevos lugares que conocer
+
+## RESPUESTA 3 (T1652)
+
+> no lo se, creo que en unos dias, tengo nuevos lugares que conocer
+
+> —No lo sé. Creo que en unos días. Tengo nuevos lugares que conocer.
+
+Erasa no levanta la cabeza de tu hombro.
+
+—Unos días —repite, bajito.
+
+El pulgar se le queda quieto sobre tu mano un segundo. Después sigue, despacio, como antes.
+
+—Está bien. —Lo dice de verdad, sin ponerse triste, o casi—. Ya te dije que no te iba a pedir que te quedes. Y además, si me dijeras "me quedo para siempre", me asustaría. Nos conocemos hace tres horas. —Se ríe contra tu camisa—. Tres horas y media.
+
+Pasan por delante de la plaza de los columpios otra vez. Es la segunda vuelta. Ninguno de los dos dice nada al respecto.
+
+—Nuevos lugares —dice ella, mirando la fuente apagada—. Qué envidia. Yo nunca conocí ninguno. Ni uno. Toda mi vida acá, en esta ciudad, entre el parque, la preparatoria y la heladería. —Suspira—. Y de golpe aparece un chico con los ojos de dos colores y un gato gigante, que viene de islas de hielo y de volcán, que no tiene frío nunca, que le corta la torta a un dios... y se va en unos días a un lugar nuevo.
+
+Levanta la cabeza, por fin. Te mira de cerca, con la mejilla un poco marcada por la costura de tu camisa y los ojos celestes brillando con la luz de los faroles.
+
+—Entonces no hay que perder ninguno, ¿no? De esos días, digo. —Se muerde el labio—. Mañana es domingo. No tengo nada que hacer. Bueno, tenía que ayudar a mi mamá a ordenar el garaje, pero eso puede esperar diez años más.
+
+Te aprieta la mano.
+
+—¿Tú tienes algo que hacer mañana? Además de devolverle el auto a Bulma.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1652 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Calles al costado del parque central · 23:18 ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Acompañar a Erasa a su casa        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 23:18, aerodeslizador, segunda vuelta por las calles del parque central, de la mano. Erasa sabe que Facundo se va "en unos días" a lugares nuevos; lo acepta. "Entonces no hay que perder ninguno de esos días." Mañana es domingo y está libre (garaje de su mamá "puede esperar diez años"). Pregunta: "¿Tú tienes algo que hacer mañana? Además de devolverle el auto a Bulma."
