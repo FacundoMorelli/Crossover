@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1669)
-
-esta bien, apago el horno y vamos a ver una pelicula
-
-## RESPUESTA 1 (T1669)
-
-> esta bien, apago el horno y vamos a ver una pelicula
-
-> —Está bien.
-
-Erasa te suelta la camisa como si le hubieran dado permiso para respirar.
-
-Vas hasta el horno y lo apagas. El tic tic tic se corta. La cocina queda en silencio, con el olor a romero todavía en el aire.
-
-Cuando te das vuelta, Erasa ya no está en la silla. Está en la puerta de la sala, en puntas de pie, con un dedo en la boca y una manta tejida a cuadros en los brazos, que sacó de algún lado en dos segundos.
-
-—Shhh. —Señala el techo—. Ella tiene oído de murciélago.
-
-La sala está en penumbra. Erasa prende solo una lámpara chiquita con pantalla de flecos, al lado del sillón floreado, y se arrodilla frente a un mueble con un televisor redondo de la Corporación Cápsula. Revuelve en un cajón lleno de cintas, todas con etiquetas escritas a mano con su letra redonda y corazoncitos en los puntos de las íes. Saca una. La sopla.
-
-—"El último velero" —lee, bajito, con reverencia—. La vi once veces. Es la mejor película del mundo. Un capitán, una chica del puerto, una tormenta... No te cuento más.
-
-La pone. El televisor zumba, se ilumina, aparece un mar azul de mentira y una música de violines que ella baja hasta casi nada.
-
-Se sienta en el sillón, a tu lado. No en la otra punta: al lado, pegada, con la cadera contra la tuya. Se saca las sandalias con los pies, sube las piernas, se tapa con la manta a cuadros y te tapa a ti también, con un pedazo, sin preguntar. Después, despacio, como quien prueba si el agua está fría, apoya la cabeza en tu hombro.
-
-Kase se despierta en la almohadita. Abre un ojo. Los ve en el sillón. Se levanta, se estira, sube de un salto, camina por encima de la manta, por encima de las piernas de Erasa, que contiene la risa, y se acomoda atravesado sobre las rodillas de los dos, la mitad sobre ti y la mitad sobre ella. Se hace una bola. Ronronea.
-
-Erasa lo mira con la boca abierta.
-
-—Se acostó encima de mí también —susurra, emocionada—. Facundo. Kase se acostó encima de mí.
-
-En la pantalla, un velero blanco sale de un puerto lleno de gaviotas. Una chica con un pañuelo en la cabeza lo mira irse desde el muelle.
-
-Erasa ya tiene los ojos brillantes.
-
-—Ay, no —se ríe, bajito, secándose con la manta—. Ya empecé. Y esto es el principio. —Te busca la mano por debajo de la manta y entrelaza los dedos con los tuyos—. Si en el final hago mucho ruido, tápame la boca. En serio. Por mi mamá.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1669 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sillón de la sala · 21:18     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: sobre tus rodillas y las de Erasa      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Película con Erasa                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1670)
+## COMANDO 1 (T1670)
 
 esta bien, acaricio a kase con mi otra mano libre
 
-## RESPUESTA 2 (T1670)
+## RESPUESTA 1 (T1670)
 
 > esta bien, acaricio a kase con mi otra mano libre
 
@@ -103,11 +49,11 @@ Lo pregunta bajito, mientras en la pantalla una ola enorme barre la cubierta, y 
 
 ---
 
-## COMANDO 3 (T1671)
+## COMANDO 2 (T1671)
 
 si, el lugar de las islas son todos asi con velas
 
-## RESPUESTA 3 (T1671)
+## RESPUESTA 2 (T1671)
 
 > si, el lugar de las islas son todos asi con velas
 
@@ -157,4 +103,62 @@ Erasa se tapa la cara con las dos manos, temblando de llanto y de risa al mismo 
 
 ---
 
-ESTADO AL CIERRE: martes 22:48, final de "El último velero" (el capitán encuentra a la chica del pañuelo). Erasa rompe en sollozos fuertes con hipo; arriba cruje el piso (un paso de la mamá, se detiene). Erasa, sin voz, desesperada entre risa y llanto: "La boca. Te dije. Tápame la boca." Kase panza arriba entre los dos.
+## COMANDO 3 (T1672)
+
+le doy un beso, asi esta bien?
+
+## RESPUESTA 3 (T1672)
+
+> le doy un beso, asi esta bien?
+
+Le apartas las manos de la cara, despacio, y la besas.
+
+El sollozo se le corta a la mitad. Se le escapa un hipo contra tu boca, uno solo, chiquito, y después nada. Se queda quieta. Tiene las mejillas mojadas y saladas, y los labios tibios. Una mano se le queda en el aire un segundo, sin saber adónde ir, y después se apoya en tu cuello.
+
+Arriba, en el segundo piso, el paso que se había detenido vuelve atrás. Una puerta se cierra, suave.
+
+Cuando te separas, Erasa tiene los ojos cerrados todavía.
+
+> —¿Así está bien?
+
+Abre los ojos. Te mira, muy de cerca, con las pestañas pegadas de lágrimas y la nariz roja. Y se ríe. Una risa sin sonido, que le sacude los hombros y que tiene que ahogar con la manta.
+
+—Eso no es tapar la boca —susurra, con la voz rota—. Eso es trampa.
+
+Se seca la cara con la manta a cuadros, toda, de un lado y del otro, como un gato.
+
+—Pero funcionó. —Respira hondo. Le sale otro hipo, más chiquito. Se tapa la boca con la mano, mira el techo, espera. Nada—. Funcionó. Ya no lloro. Mira. Nada. Seca.
+
+No está seca. Pero sonríe.
+
+En la pantalla, el capitán y la chica del pañuelo están abrazados en la puerta de la casita blanca, con las cartas desparramadas en el piso, y la cámara sube despacio hasta el cielo. Empiezan los créditos, letras blancas sobre un mar en calma. El violín se apaga.
+
+Kase, panza arriba sobre las rodillas de los dos, abre un ojo por el silencio. Lo vuelve a cerrar.
+
+Erasa se queda mirando los créditos sin verlos, con la cabeza otra vez en tu hombro y los dedos todavía entrelazados con los tuyos debajo de la manta. El reloj con forma de pato de la cocina hace tic tac en la otra habitación.
+
+—Once veces la vi —dice, bajito—. Y es la primera vez que no me importa cómo termina.
+
+Te aprieta la mano.
+
+—Ya es tarde, ¿no? —No se mueve ni un centímetro—. Ya es tardísimo. Te tienes que ir.
+
+No te suelta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1672 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sillón de la sala · 22:55     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sobre tus rodillas y las de Erasa      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Película con Erasa                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 22:55, créditos de "El último velero". Facundo la besó para callar el llanto ("¿Así está bien?"); la mamá volvió a su cuarto. Erasa: "Eso no es tapar la boca. Eso es trampa. Pero funcionó." "Once veces la vi. Y es la primera vez que no me importa cómo termina." "Ya es tarde, ¿no? Te tienes que ir." No lo suelta.
