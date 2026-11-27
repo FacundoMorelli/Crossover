@@ -48,3 +48,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, el vuelo, el golpe al Acorazado.
 - T972 · Se ríe ("si no la reconozco, hicimos las cosas bien"). Lee "contra las infecciones": "¿Sabe cuántos soldados de la Legión murieron de una herida que no era mortal?" Le tiende la mano más fuerte.
 - T973 · Le da la mano a Facundo. Ante la moto, piensa en expediciones de tres días hechas en una tarde.
 - T974 · Saludo de la Legión (puño al corazón) a Facundo.
+- T1478 · Día 119 09:00 · Salón de Historia, carpeta de cuero con los informes de la expedición de Eren. Se queda quieto en la puerta al ver a Facundo; sonríe. "Me dijeron que había un caballo de metal corriendo por el patio y un gato en el palacio. No quise creerlo hasta verlo. Bienvenido, Facundo." Le tiende la mano.

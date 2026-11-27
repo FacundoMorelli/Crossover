@@ -1476,3 +1476,4 @@ T1474 · SHINGEKI · Patio del ala este · Hange: abrazo con grasa; resultados (
 T1475 · SHINGEKI · Patio del ala este · Facundo le explica a Hange el combustible (fracción liviana) y la bujía. La moto arranca: Levi da tres vueltas. "Tch. No está mal."
 T1476 · SHINGEKI · Patio del ala este · Levi le deja la moto ("Si la rompes, te mato"). Caballito de punta a punta; aplausos del palacio. Ymir: "Presumido." Historia, desde el balcón: "¿Facundo?"
 T1477 · SHINGEKI · Palacio · Historia desde el balcón: cansada y contenta; nadie murió de hambre este mes. Invita a desayunar; Erwin a las 9. "Bienvenido a casa, Facundo."
+T1478 · SHINGEKI · Palacio · Baño; desayuno en el salón de Historia con Frieda (se presenta) e Ymir; manzanas con canela. 09:00: llega Erwin: "Bienvenido, Facundo."

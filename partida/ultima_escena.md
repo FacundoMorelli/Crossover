@@ -3,90 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1475)
-
-le digo lo que esta haciendo mal
-
-## RESPUESTA 1 (T1475)
-
-> le digo lo que esta haciendo mal
-
-Te agachas al lado de Hange, junto al motor, y le explicas.
-
-Le dices que el problema no es cuántas veces destila el aceite, sino qué parte se queda. Que lo que ella guarda, lo espeso y claro que queda al final, sirve para lámparas pero no para ese motor. Que lo que necesita es justamente lo que se va primero, lo más liviano, lo que se evapora apenas se calienta. Le explicas también que de tanto toser con el combustible equivocado, la pieza chica donde salta la chispa se llenó de hollín negro, y que así tampoco va a arrancar nunca; que hay que limpiarla. Y le muestras cuál es.
-
-Hange no anota. Por primera vez desde que la conoces, no anota. Te escucha con la boca abierta, sin parpadear, con la llave inglesa olvidada en la mano.
-
-Cuando terminas, se queda quieta.
-
-—Lo que se va primero —repite, en voz muy baja.
-
-Después se pone de pie de un salto.
-
-—¡LO QUE SE VA PRIMERO! —Se agarra la cabeza con las dos manos y se deja dos manchas negras en el pelo—. ¡Lo tiraba! ¡Veinte veces lo tiré! ¡Olía horrible, se evaporaba solo, me daba dolor de cabeza, y lo tiraba por la ventana del galpón!
-
-Sale corriendo hacia el galpón. Se oye un estrépito adentro, como de una pila de cosas que se viene abajo. Después, su voz:
-
-—¡No! ¡No, no, no, no! ¡Sí! ¡SÍ! ¡Guardé uno! ¡Uno solo, de la tercera vez, para estudiarlo!
-
-Vuelve corriendo con un frasco de vidrio tapado con un corcho, lleno hasta la mitad de un líquido transparente, casi como agua, que se mueve demasiado liviano. Se arrodilla. Destapa el tanque de la moto. Está a punto de vaciar el frasco adentro cuando Levi le agarra la muñeca.
-
-—Primero la pieza de la chispa —dice Levi—. Ya lo dijo.
-
-Hange lo mira. Mira la moto. Te mira a ti.
-
-—Primero la pieza de la chispa —repite, obediente.
-
-La saca, con las manos temblando. Está negra de hollín, como dijiste. Levi saca un pañuelo blanco, impecable, de un bolsillo interior, y lo mira con dolor un segundo. Después se lo da. Hange la limpia hasta dejarla brillante, la vuelve a poner, y vacía el frasco en el tanque.
-
-Ymir se acerca, con la canasta de manzanas en el brazo. Kase asoma la cabeza del seto.
-
-Levi se sube a la moto. Se acomoda. Pone las manos en el manubrio. Hace exactamente lo que se aprendió de memoria en once intentos.
-
-El motor tose una vez.
-
-Y arranca.
-
-No se ahoga. No se muere. Ruge, parejo, fuerte, llenando el patio entero de un ruido grave y continuo que hace temblar los vidrios de las ventanas del ala este. Se asoman cabezas en todas las ventanas. Una sirvienta grita.
-
-Levi no cambia la cara. Pero aprieta el manubrio.
-
-Y la moto se mueve.
-
-Da una vuelta al patio. Despacio primero, tambaleando, pasando a medio metro de los barriles de aceite. Después, más rápido. Una segunda vuelta, más firme, levantando grava. Hange corre detrás gritando cosas sin sentido, llorando y riéndose a la vez, con los brazos en alto. Ymir se ríe tanto que tiene que apoyarse en tu hombro.
-
-A la tercera vuelta, Levi frena delante de ti. El motor sigue rugiendo debajo de él.
-
-Te mira. Tiene el pelo despeinado por el viento, por primera vez en su vida. Lo sabe. No hace nada por arreglarlo.
-
-—Tch —dice.
-
-Una pausa.
-
-—No está mal.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1475 · SHINGEKI · DÍA 119 · 07:25      ║
-║ Mitras · patio del ala este del palacio      ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: asomado en el seto                     ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ver qué hicieron con lo que les    ║
-║ dio · algo de este mundo para Robin          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1476)
+## COMANDO 1 (T1476)
 
 me dejas usarla? la uso y hago caballito con la moto
 
-## RESPUESTA 2 (T1476)
+## RESPUESTA 1 (T1476)
 
 > me dejas usarla? la uso y hago caballito con la moto
 
@@ -151,11 +72,11 @@ Te ve.
 
 ---
 
-## COMANDO 3 (T1477)
+## COMANDO 2 (T1477)
 
 hola historia, como estas?
 
-## RESPUESTA 3 (T1477)
+## RESPUESTA 2 (T1477)
 
 > hola historia, como estas?
 
@@ -206,4 +127,67 @@ Se da vuelta para entrar. Se detiene en la puerta del balcón y te mira por enci
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 07:33, patio del ala este. Historia invitó a desayunar en su salón (Erwin a las 9). "Bienvenido a casa, Facundo." Facundo puede actuar.
+## COMANDO 3 (T1478)
+
+muchas gracias reina, voy a desayunar simula hasta que llegue erwin
+
+## RESPUESTA 3 (T1478)
+
+> muchas gracias reina, voy a desayunar simula hasta que llegue erwin
+
+> —Muchas gracias, reina. Voy a desayunar.
+
+Desde el balcón, Historia hace una mueca al oír "reina", como si le hubieran pellizcado. Después se ríe y entra.
+
+Levi te saca la llave de la moto de la mano antes de que te bajes. Hange no deja de dar vueltas alrededor del motor, apagado, tocándolo como quien toca un animal dormido. Le prometes, sin palabras, que después vuelves. Ella te contesta con un pulgar negro de grasa.
+
+Ymir te lleva por adentro. Por pasillos de piedra, escaleras alfombradas, retratos de reyes falsos que nadie se molestó en descolgar. En la mitad de una escalera se frena, te mira el sobretodo lleno de manchas de aceite, suspira, y te lleva primero a un cuarto de baño con una tina de cobre y un jarro de agua tibia. Te espera afuera, apoyada en la pared, silbando. Kase la espera con ella, sentado en la canasta.
+
+El salón de Historia está en el segundo piso, detrás del balcón grande. No es un salón de trono: es un cuarto luminoso, con una mesa larga de madera clara, sillas que no combinan entre sí, mapas de Wall Maria clavados en las paredes y pilas de papeles en todas partes, igual que en el cuarto de Robin, pero ordenadas. Por las ventanas abiertas entra el ruido de la ciudad: carretas, campanas, alguien que vende pan a los gritos.
+
+La mesa ya está puesta. Pan negro y pan blanco, mantequilla, miel, queso, huevos, una jarra de leche, té. Y en el medio, en una fuente de porcelana fina, las manzanas de Ymir. Alguien en la cocina las cortó y las cocinó con canela.
+
+Historia ya está sentada, vestida, peinada, con una camisa sencilla y el pelo atado. Al lado, una muchacha de pelo negro corto y ojos grandes, tranquilos, que se levanta cuando entras.
+
+—Frieda Reiss —se presenta, y te da la mano—. Mi hermana me habló tanto de ti que siento que ya te conozco. Gracias por la segunda vida.
+
+El desayuno es largo y desordenado. Historia come poco y habla mucho: de un censo que no termina nunca, de un noble de Stohess que escondió trigo en un sótano y al que Levi fue a visitar en persona, de los primeros chicos revividos que van a una escuela nueva en Shiganshina. Frieda la corrige de a ratos, con suavidad, y Historia le saca la lengua como cualquier hermana menor. Ymir se sienta a tu lado, con la silla pegada a la tuya, se roba pan de tu plato sin pedirlo y no dice casi nada. Pero cada tanto, debajo de la mesa, te pisa el pie, despacio, nada más que para saber que sigues ahí.
+
+Kase come huevo revuelto de un plato de porcelana que vale más que una casa. Una sirvienta lo mira escandalizada. Historia le dice que lo deje.
+
+A las nueve en punto, golpean la puerta.
+
+Se abre antes de que nadie conteste.
+
+En el umbral, alto, rubio, con las cejas gruesas, el uniforme de la Legión impecable, una carpeta de cuero bajo el único brazo y la manga derecha doblada y prendida al hombro, está Erwin Smith.
+
+Mira la mesa. A Historia. A Frieda. A Ymir. Al gato comiendo huevo. Y a ti.
+
+Se detiene. Por un segundo, el comandante de la Legión de Reconocimiento, el hombre que llevó a miles de soldados a la muerte sin que le temblara la voz, se queda quieto en la puerta sin saber qué decir.
+
+Después sonríe. Despacio.
+
+—Me dijeron que había un caballo de metal corriendo por el patio y un gato en el palacio. —Entra. Deja la carpeta sobre la mesa—. No quise creerlo hasta verlo.
+
+Te tiende la mano.
+
+—Bienvenido, Facundo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1478 · SHINGEKI · DÍA 119 · 09:00      ║
+║ Mitras · palacio · salón de Historia         ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: comiendo huevo en la mesa              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Erwin y los informes de la         ║
+║ expedición · algo de este mundo para Robin   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 09:00, salón de Historia. Desayuno con Historia, Frieda e Ymir. Erwin llega con los informes de la expedición de Eren y le tiende la mano: "Bienvenido, Facundo." Facundo puede actuar.
