@@ -60,3 +60,4 @@ ESTADO: encadenada, sedada a medias, con tubo de sedante en el brazo. Herencia a
 - T1475 · Se ríe tanto de la moto que se apoya en el hombro de Facundo.
 - T1476 · Kase se sienta sobre sus manzanas. Ve el caballito, se tapa la boca. "Presumido." Orejas coloradas.
 - T1478 · Lo lleva a bañarse (espera afuera silbando). En el desayuno, silla pegada a la de él; le roba pan del plato; le pisa el pie bajo la mesa cada tanto. Sus manzanas, cocinadas con canela en el desayuno.
+- T1481 · Se come la tostada de Facundo. "Llegaste hace dos horas, lindo, y ya tienes la agenda más llena que la reina." Le pisa el pie fuerte. "¿Y yo qué? ¿Me llevas, o me quedo aquí contando manzanas otra vez?"

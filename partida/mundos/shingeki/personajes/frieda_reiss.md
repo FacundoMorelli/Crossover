@@ -10,3 +10,4 @@ ENCUENTROS:
 - T1478 · Día 119 · Desayuno en el salón de Historia. Se presenta y le da la mano: "Mi hermana me habló tanto de ti que siento que ya te conozco. Gracias por la segunda vida."
 QUÉ SABE DE FACUNDO: por Historia (mucho); fue revivida por los deseos (día 63).
 ESTADO: activa
+- T1481 · "Ya lo fui. Una vez alcanza."

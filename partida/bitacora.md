@@ -1479,3 +1479,4 @@ T1477 · SHINGEKI · Palacio · Historia desde el balcón: cansada y contenta; n
 T1478 · SHINGEKI · Palacio · Baño; desayuno en el salón de Historia con Frieda (se presenta) e Ymir; manzanas con canela. 09:00: llega Erwin: "Bienvenido, Facundo."
 T1479 · SHINGEKI · Salón de Historia · Erwin: plan de la expedición (barco de Magath, 18 de la Legión, 6 meses, Marley-sur-desierto-Hizuru). "¿Hay algo allá afuera de lo que tenga que protegerlos?"
 T1480 · SHINGEKI · Salón de Historia · Consejos de Facundo para la expedición (arena, hielo, volcanes, la gente). Erwin pide que se lo diga en persona a Eren y los demás en Shiganshina.
+T1481 · SHINGEKI · Salón de Historia · "En un rato voy a verlos." Erwin se va (puño al corazón). Ymir: "¿Me llevas, o me quedo contando manzanas otra vez?"
