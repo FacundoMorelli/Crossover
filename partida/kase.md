@@ -126,3 +126,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1533 · Duerme en el regazo de Facundo en el crucero, ronroneando; nadie lo molesta, ni Goten.
 - T1534 · Mira con muchísimo interés la panza de Videl (embarazada de Pan), como si oyera algo.
 - T1536 · Capsule Corp: mira con desprecio a los gatos negros de la casa. Come el pescado del cuarto y se echa en el medio de la cama redonda.
+- T1537 · Dragon Ball, Capsule Corp, noche · Facundo lo acaricia, le besa la cabeza: "Te amo, hijo." Kase lo mira con los dos ojos, se levanta y le frota la cabeza contra el mentón, fuerte, varias veces. Ronronea, largo y grave (casi nunca lo hace; no lo hizo con nadie más). Se echa sobre sus piernas con una pata sobre su mano.

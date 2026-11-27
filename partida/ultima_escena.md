@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1534)
-
-esta bien video, y felicidades
-
-## RESPUESTA 1 (T1534)
-
-> esta bien video, y felicidades
-
-> —Está bien, Videl. Y felicidades.
-
-Videl se queda quieta un segundo, con el vaso de jugo a medio camino de la boca.
-
-Después se le escapa una sonrisa. No la de media boca, la de su padre. Otra, más chica, más torpe, que no le habías visto nunca, y que se le va agrandando aunque ella intenta que no.
-
-—Gracias. —Se mira la panza—. Todavía no me lo creo, ¿sabes? Hace dos semanas que lo sé y no se lo había dicho a nadie. Ni a Gohan. Quería decirlo hoy, cuando cortaran la torta. Y en vez de eso, lo anunció un dragón gigante delante de un dios. —Se ríe por la nariz—. Mi papá se desmayó dos veces.
-
-—Tres —corrige alguien desde atrás.
-
-Es Gohan, que viene con un plato de fruta cortada para ella. Se lo deja en la falda. Se sienta en el apoyabrazos de la silla, a su lado, y le pone la mano en el hombro. Videl se la agarra sin mirarlo.
-
-Gohan te mira a ti. Detrás de los anteojos tiene los ojos un poco rojos todavía.
-
-—Facundo. —Lo dice bajo—. Gracias por lo de hoy. Lo de Shenlong. Si no hubieras dicho nada... —No termina. Se acomoda los anteojos—. Papá no lo habría pensado. Nadie lo habría pensado.
-
-Kase, en tu regazo, se despierta. Estira una pata. Mira la panza de Videl con los ojos rojo y azul muy abiertos, con muchísimo interés, como si escuchara algo que nadie más oye. Después se vuelve a acomodar y cierra los ojos.
-
-Videl lo mira, sorprendida.
-
-—Le cae bien —dice.
-
-El crucero entra despacio en el puerto de la Ciudad del Oeste. Las luces de la costa se reflejan en el agua. Se oye la sirena del barco, larga, y los gritos de los marineros en el muelle.
-
-Videl se queda mirando las luces. Después te mira, de costado.
-
-—Va a nacer en unos meses —dice—. ¿Vas a estar? Me gustaría que lo conozca. —Hace una pausa—. O que la conozca. Todavía no sabemos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1534 · DRAGON BALL · SÁBADO · 19:10    ║
-║ Crucero de Bulma · llegando al puerto        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en tu regazo                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Mañana 6:00 entrenar con Vegeta    ║
-╚══════════════════════════════════════════════╝
-```
-
-Escribiste "video" y lo tomé como Videl.
-
----
-
-## COMANDO 2 (T1535)
+## COMANDO 1 (T1535)
 
 si, voy a intentar estar
 
-## RESPUESTA 2 (T1535)
+## RESPUESTA 1 (T1535)
 
 > si, voy a intentar estar
 
@@ -105,11 +51,11 @@ Detrás, en el muelle, Milk se da vuelta y te mira. Mira a Bulma. Frunce el ceñ
 
 ---
 
-## COMANDO 3 (T1536)
+## COMANDO 2 (T1536)
 
 esta bien
 
-## RESPUESTA 3 (T1536)
+## RESPUESTA 2 (T1536)
 
 > esta bien
 
@@ -164,4 +110,53 @@ Kase baja de tu hombro, va derecho al plato de pescado, lo olfatea y empieza a c
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 21:30, cuarto en Capsule Corp. Facundo y Kase solos; mañana 5:30 desayuno y 6:00 Vegeta; a la noche cena con Milk. Vegeta entrena de noche en un hangar. Facundo puede actuar.
+## COMANDO 3 (T1537)
+
+acaricio a kase y le doy un beso en la cabeza, te amo hijo
+
+## RESPUESTA 3 (T1537)
+
+> acaricio a kase y le doy un beso en la cabeza, te amo hijo
+
+Te sientas en el borde de la cama redonda.
+
+Kase no se mueve del medio. Abre un ojo, el azul, y te mira.
+
+Le pasas la mano por el lomo, despacio, desde la cabeza hasta la punta de la cola, por el pelo largo, blanco y azul, todavía tibio del sol de la cubierta. Se le eriza un poco bajo los dedos y después se acomoda. Le rascas detrás de las orejas, en los mechones de las puntas, donde le gusta. Te agachas y le das un beso en la cabeza, entre las orejas.
+
+> —Te amo, hijo.
+
+Kase abre el otro ojo. El rojo.
+
+Te mira un rato largo, con los dos, sin parpadear. Como mira a todo el mundo. Como miró a un dios de la destrucción esa misma tarde.
+
+Después se levanta. Se estira. Camina dos pasos por la cama, hasta ti, y te apoya la cabeza contra el mentón. Fuerte. Una vez, y otra, empujando, frotándose, como si quisiera dejarte su olor encima para que nadie en ningún mundo se confunda de quién eres.
+
+Y empieza a ronronear.
+
+Un ronroneo bajo, grave, largo, que le vibra en todo el cuerpo y que se te mete en el pecho. No ronronea seguido. Casi nunca. No lo hizo con Bills, ni con Goten, ni con Robin, ni con Ymir.
+
+Se echa contra ti, la mitad sobre tus piernas y la otra mitad sobre la cama, con una pata apoyada en tu mano, como para que no la saques. Cierra los ojos.
+
+Afuera, en el hangar del jardín, el zumbido de la cámara de gravedad sigue, grave, constante. Las luces de la Ciudad del Oeste titilan por la ventana. Un auto volador pasa lejos, sin ruido.
+
+Kase sigue ronroneando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1537 · DRAGON BALL · SÁBADO · 21:35    ║
+║ Capsule Corporation · cuarto del 3.er piso   ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: sobre tus piernas, ronroneando         ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Mañana 6:00 entrenar con Vegeta ·  ║
+║ cena en casa de Milk                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 21:35, cuarto en Capsule Corp. Kase ronronea sobre las piernas de Facundo. Mañana 5:30 desayuno, 6:00 Vegeta. Facundo puede actuar.

@@ -1535,3 +1535,4 @@ T1533 · DRAGON BALL · Crucero · Disfruta la fiesta hasta el atardecer. Kase d
 T1534 · DRAGON BALL · Crucero · Felicita a Videl. Gohan agradece lo de Shenlong. Kase mira la panza de Videl. Videl: "¿Vas a estar cuando nazca?"
 T1535 · DRAGON BALL · Muelle · Promete intentar estar cuando nazca el bebé de Videl. Bulma lo invita a dormir en Capsule Corp por la cita con Vegeta. Milk frunce el ceño.
 T1536 · DRAGON BALL · Muelle → Capsule Corp · Se queda a dormir en Capsule Corp. Milk lo cita a cenar mañana. Cuarto en el tercer piso; Kase come pescado. Alguien entrena en un hangar.
+T1537 · DRAGON BALL · Capsule Corp · "Te amo, hijo." Kase le frota la cabeza contra el mentón y ronronea, echado sobre sus piernas.
