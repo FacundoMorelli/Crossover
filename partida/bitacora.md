@@ -1676,3 +1676,4 @@ T1674 · DRAGON BALL · casa de Erasa · Se duermen juntos en el sillón. Miérc
 T1675 · DRAGON BALL · casa de Erasa · Agarra el café. La mamá: "Hace años que no duerme así." Se va a trabajar: "No la despiertes antes de las nueve." "Lo de la isla sigue en pie."
 T1676 · DRAGON BALL · casa de Erasa · Beso en la frente. Erasa, dormida: "¿Ya pasaron los cinco minutos?" Kase de guardia bajo su mano.
 T1677 · DRAGON BALL · casa de Erasa · Espera con el café. 08:41 Erasa despierta sobre su pecho: "Me dormí encima tuyo." "¿Mi mamá nos vio?"
+T1678 · DRAGON BALL · casa de Erasa · "Nos tapó, me dio un café y se fue." Erasa: "Me quiero morir." La taza buena, la manta de lana. "¿Qué te dijo? Palabra por palabra."

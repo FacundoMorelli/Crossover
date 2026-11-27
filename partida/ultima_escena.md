@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1675)
-
-agarro la taza
-
-## RESPUESTA 1 (T1675)
-
-> agarro la taza
-
-Estiras el brazo libre, el que no tiene a Erasa encima.
-
-La madre cruza la sala en puntas de pie, esquivando una sandalia tirada en la alfombra, y te pone la taza en la mano con muchísimo cuidado, el asa hacia ti. Está caliente. Huele fuerte, a café recién hecho, con un poco de leche, como lo tomaste anoche. Se acordó.
-
-Erasa se mueve. Arruga la nariz, murmura algo que suena a "cinco minutos" y aprieta más el brazo sobre ti. Después se queda quieta otra vez. La madre y tú se quedan congelados, cada uno con su taza, sin respirar, hasta que el silbidito de la nariz de Erasa vuelve.
-
-La madre suelta el aire.
-
-Se sienta en el borde del otro sillón, enfrente, con el bolso en las rodillas y la taza entre las dos manos. Toma un sorbo. No te mira a ti: mira a su hija, dormida sobre tu pecho, con la boca abierta y la marca del botón en la mejilla. La mira un rato largo.
-
-Kase baja del apoyabrazos, cruza la alfombra y se sienta a sus pies. Ella le acaricia la cabeza sin mirar, con dos dedos, como si lo hubiera hecho siempre.
-
-—Hace años que no duerme así —susurra al final, tan bajo que casi no se oye—. Desde chiquita duerme mal. Se despierta tres, cuatro veces. Se levanta a tomar agua, prende la luz, lee, vuelve a acostarse. —Toma otro sorbo—. Yo la escucho. Tengo oído de murciélago, ¿te contó?
-
-Deja la taza vacía en la mesita.
-
-—Anoche no se despertó ni una vez. Bajé a las dos, a las cuatro. —Te mira, por fin—. Las dos veces estaban igual. Así.
-
-Se levanta. Se acomoda el bolso en el hombro. Mira el reloj de la cocina.
-
-—Me voy a trabajar. Vuelvo a las cinco. —Señala la cocina con la cabeza—. Hay pan en la panera, mermelada de durazno en la heladera, y el café está en la cafetera. No la despiertes antes de las nueve, que si no, está insoportable todo el día.
-
-Camina hasta la puerta en puntas de pie. Con la mano en la manija, se da vuelta una última vez.
-
-—Y, Facundo. —Lo susurra mirándote fijo, muy seria—. Lo de la isla y la montaña y el gato sigue en pie.
-
-Sale. La puerta se cierra con un clic suave. Afuera, sus pasos se alejan por la vereda, pasan junto al buzón con forma de pato y se pierden calle abajo.
-
-La sala queda en silencio. La luz de la mañana entra gris y celeste por la cortina. Erasa duerme sobre tu pecho. Tienes una taza de café caliente en la mano y son las seis y veinte.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1675 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, sala · miércoles · 06:20      ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la alfombra                         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1676)
+## COMANDO 1 (T1676)
 
 le doy un beso en la frente a erasa
 
-## RESPUESTA 2 (T1676)
+## RESPUESTA 1 (T1676)
 
 > le doy un beso en la frente a erasa
 
@@ -97,11 +43,11 @@ El café en tu mano todavía está caliente.
 
 ---
 
-## COMANDO 3 (T1677)
+## COMANDO 2 (T1677)
 
 tomo el café y espero a que se despierte
 
-## RESPUESTA 3 (T1677)
+## RESPUESTA 2 (T1677)
 
 > tomo el café y espero a que se despierte
 
@@ -149,4 +95,54 @@ Mira las dos tazas. Mira la manta de lana. Se le va todo el color de la cara y d
 
 ---
 
-ESTADO AL CIERRE: miércoles 08:41, sala de la casa de Erasa. Erasa se despierta por un rayo de sol, sobre el pecho de Facundo. Ve las dos tazas y la manta de lana de su mamá. Roja: "Me dormí encima tuyo." "Esa manta es de mi mamá. ¿Mi mamá bajó? ¿Mi mamá nos vio?"
+## COMANDO 3 (T1678)
+
+si, nos tapó y me dio un café, y se fue a trabajar
+
+## RESPUESTA 3 (T1678)
+
+> si, nos tapó y me dio un café, y se fue a trabajar
+
+> —Sí. Nos tapó, me dio un café y se fue a trabajar.
+
+Erasa se queda mirándote tres segundos con la boca abierta.
+
+Después se tira de cara contra tu pecho, con todo el peso, y grita. Un grito largo, ahogado en tu camisa, que vibra contra tus costillas.
+
+—Me quiero morir —dice adentro de la tela—. Me quiero morir. Me voy a mudar. Me voy a ir a tus islas en un barco y no voy a volver nunca.
+
+Kase, abajo, levanta la cabeza por el ruido. La mira. La vuelve a bajar.
+
+Erasa se queda así un rato largo, con la cara escondida, respirando fuerte. Después, de a poco, levanta un ojo por encima de tu camisa. Lo entrecierra. Algo le está dando vueltas.
+
+—Espera. —Levanta la cabeza del todo—. ¿Te dio café? ¿A ti?
+
+Mira la mesita. Las dos tazas. Agarra una, la que tiene un resto de café con leche en el fondo, y la mira de cerca, como si fuera una prueba.
+
+—Esta es la taza buena —susurra—. La de las flores azules. Es de la vajilla de mi abuela. A mi papá no le da esta taza. —Te mira, con los ojos muy abiertos—. Y no nos despertó. Y nos tapó con su manta. Su manta, la de lana, la que no me presta ni cuando tengo fiebre.
+
+Deja la taza en la mesita, despacio, con cuidado, como si fuera de cristal.
+
+Se sienta en el sillón, se aparta un poco de ti y se acomoda el vestido rosa, que está todo arrugado. Se pasa las manos por el pelo, que no tiene arreglo. Se toca la mejilla, encuentra la marca del botón y se tapa la cara otra vez con las dos manos.
+
+Habla entre los dedos:
+
+—¿Y dijo algo? —Abre dos dedos y te espía por el hueco—. Antes de irse. ¿Te dijo algo? ¿Qué te dijo? Dímelo todo. Exactamente. Palabra por palabra.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1678 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sala · miércoles · 08:44      ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: al sol, al pie del sillón              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: miércoles 08:44, sillón de la sala. Erasa sabe que su mamá los vio, los tapó, le dio café a Facundo y se fue a trabajar. Grito ahogado ("Me quiero morir. Me voy a ir a tus islas en un barco"). Nota la taza buena de flores azules (de la abuela; ni al papá se la da) y la manta de lana (no se la presta ni con fiebre). Espiando entre los dedos: "¿Y dijo algo? ¿Qué te dijo? Dímelo todo. Palabra por palabra."
