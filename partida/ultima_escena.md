@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1668)
-
-me acerco a erasa y le doy un beso, menos mal
-
-## RESPUESTA 1 (T1668)
-
-> me acerco a erasa y le doy un beso, menos mal
-
-> —Menos mal.
-
-Te levantas, rodeas la mesa y te acercas a ella.
-
-Erasa te ve venir. Se queda quieta en la silla, con la taza de café a mitad de camino, y la deja en el plato sin mirar, a ciegas. Hace un clic torcido.
-
-Te inclinas y la besas.
-
-Sabe a chocolate del bombón y a café con leche. Ella levanta la cara hacia ti, te agarra de la camisa con las dos manos, como en el aerodeslizador, y te tira hacia abajo. La silla cruje. Uno de los rulos te cae sobre la frente.
-
-Arriba, en el segundo piso, se cierra una canilla. Ninguno de los dos se da cuenta.
-
-Cuando te separas, Erasa no te suelta la camisa. Se queda mirándote desde abajo, con las mejillas rojas, la respiración corta y una sonrisa que se le escapa por todos lados.
-
-—"Menos mal" —te imita, bajito, con tu cara seria. Y se ríe contra tu pecho—. Mi mamá te amenaza de muerte y tú dices "menos mal". Eres imposible. Te lo dije el primer día y lo sostengo.
-
-Tic, tic, tic, hace el horno.
-
-—El horno —se acuerda, sin moverse—. Tengo que apagar el horno.
-
-No lo apaga. Sigue agarrada de tu camisa.
-
-Mira hacia la sala, donde Kase duerme en la almohadita nueva, hecho una bola. Mira el reloj de la cocina, que tiene forma de pato, como todo en esta casa, y marca las nueve y diez. Te mira a ti otra vez, y se muerde el labio.
-
-—Es temprano —dice—. Bueno, no es temprano. Pero es temprano. —Baja la voz, aunque no haya nadie—. ¿Te quedas un rato más? Podemos ver una película en el sillón. Bajito, para no despertar a mi mamá. —Se le escapa una risa—. Tengo una de barcos. Te aviso desde ahora que lloro en el final.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1668 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 21:10        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1669)
+## COMANDO 1 (T1669)
 
 esta bien, apago el horno y vamos a ver una pelicula
 
-## RESPUESTA 2 (T1669)
+## RESPUESTA 1 (T1669)
 
 > esta bien, apago el horno y vamos a ver una pelicula
 
@@ -107,11 +57,11 @@ Erasa ya tiene los ojos brillantes.
 
 ---
 
-## COMANDO 3 (T1670)
+## COMANDO 2 (T1670)
 
 esta bien, acaricio a kase con mi otra mano libre
 
-## RESPUESTA 3 (T1670)
+## RESPUESTA 2 (T1670)
 
 > esta bien, acaricio a kase con mi otra mano libre
 
@@ -153,4 +103,58 @@ Lo pregunta bajito, mientras en la pantalla una ola enorme barre la cubierta, y 
 
 ---
 
-ESTADO AL CIERRE: martes 22:05, sillón de la sala, "El último velero" en la escena de la tormenta. Erasa con la mano sobre la de Facundo encima de Kase (collar con el eclipse); la otra mano entrelazada bajo la manta. Llora un poco. Pregunta: "¿Tú alguna vez estuviste en un barco así? ¿De madera, con velas? ¿En una tormenta de verdad?"
+## COMANDO 3 (T1671)
+
+si, el lugar de las islas son todos asi con velas
+
+## RESPUESTA 3 (T1671)
+
+> si, el lugar de las islas son todos asi con velas
+
+> —Sí. En el lugar de las islas son todos así, con velas.
+
+Erasa se queda mirándote, con la luz azul de la tormenta moviéndose en la cara.
+
+—Todos —repite, despacio, como si le hubieras dicho que existen los dragones—. Todos los barcos. Con velas. De madera.
+
+Vuelve a mirar la pantalla. Una ola barre la cubierta del velero y el capitán se agarra del timón con los dientes apretados. Pero ella ya no está mirando la película. Se le nota en los ojos, que van a otro lado, más lejos que el televisor.
+
+—Entonces tú estuviste ahí. En un barco así. Con el mar así. —Te aprieta los dedos—. Y no te dio miedo. Seguro que no te dio miedo. A ti nada te da miedo.
+
+Se queda callada un rato largo. En la pantalla, la tormenta pasa. El velero sale de las nubes, roto, con una vela hecha jirones y el mástil partido, pero flotando. El capitán, solo en la cubierta, mira el horizonte. Erasa suspira.
+
+—Yo me mareo en el ascensor —dice, bajito, y se ríe sin ganas—. Ya escuchaste a mi mamá.
+
+Apoya otra vez la cabeza en tu hombro. Kase, entre los dos, se da vuelta panza arriba, con las cuatro patas encogidas, sin abrir los ojos.
+
+La película avanza hacia el final. El velero llega a puerto meses después, irreconocible, con las velas remendadas. La chica del pañuelo ya no está en el muelle. El capitán la busca por todo el pueblo, corriendo, preguntando, con las cartas que nunca mandó en un paquete atado con hilo. La música baja hasta quedar en un solo violín.
+
+Erasa se tensa entera contra tu costado. Se le corta la respiración. Ya sabe lo que viene.
+
+En la pantalla, el capitán dobla una esquina y la ve: está en la puerta de una casita blanca, de espaldas, colgando ropa. Él deja caer las cartas. Ella se da vuelta.
+
+A Erasa se le escapa un sollozo enorme, de golpe, que le sale del pecho y que no llega a ahogar con la manta. Suena en toda la sala. Otro más, peor, con hipo.
+
+Arriba, en el segundo piso, cruje el piso de madera. Un paso. Se detiene.
+
+Erasa se tapa la cara con las dos manos, temblando de llanto y de risa al mismo tiempo, y te mira entre los dedos con los ojos rojos y desesperados.
+
+—La boca —te dice, sin voz, moviendo los labios—. Te dije. Tápame la boca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1671 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, sillón de la sala · 22:48     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sobre tus rodillas y las de Erasa      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Película con Erasa                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 22:48, final de "El último velero" (el capitán encuentra a la chica del pañuelo). Erasa rompe en sollozos fuertes con hipo; arriba cruje el piso (un paso de la mamá, se detiene). Erasa, sin voz, desesperada entre risa y llanto: "La boca. Te dije. Tápame la boca." Kase panza arriba entre los dos.
