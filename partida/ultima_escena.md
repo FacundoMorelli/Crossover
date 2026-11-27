@@ -3,102 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1681)
-
-me voy a un nuevo mundo
-
-## RESPUESTA 1 (T1681)
-
-> me voy a un nuevo mundo
-
-En la colina no hay nadie. Abajo, la Capital del Oeste enciende sus luces una por una.
-
-Abres la puerta. Se recorta en el aire, delante de ti, un rectángulo de luz blanca y azul que zumba bajito, sin destino escrito. Kase clava las uñas en tu hombro, como cada vez.
-
-Cruzas.
-
-Oscuridad. Ni arriba ni abajo. Una ventana del Sistema se abre en la nada, fría:
-
-[Destino fijado.]
-
-Lo primero es el olor.
-
-Lluvia vieja sobre asfalto. Aceite de frituras rancio. Cartón mojado. Tabaco. Y debajo de todo, apenas, algo dulzón y metálico que no termina de irse, como en una carnicería al cierre.
-
-Abres los ojos en un callejón angosto. Llovizna. Paredes de concreto manchadas de humedad, cables colgando entre los edificios como lianas negras, cajas de cartón deshechas contra una puerta de servicio. Una máquina expendedora titila al fondo, con la luz que se prende y se apaga, llena de latas de café con etiquetas que nunca viste. A la derecha, la pared trasera de un edificio de ocho pisos, con un cartel luminoso en la terraza: una tienda departamental.
-
-Kase se sacude la llovizna del lomo, molesto, y se te acomoda en la nuca.
-
-Al final del callejón se ve una avenida. Carteles de neón en japonés, paraguas, un teléfono público verde con una mujer hablando a los gritos. Autos cuadrados, de los de hace treinta años, con los faros amarillos. Nadie tiene teléfono en la mano. Nadie mira una pantalla.
-
-Pegado en la pared, a tu lado, un afiche medio despegado por la lluvia. Un hombre con traje negro y corbata, serio, señala con el dedo. Las letras, grandes y rojas, dicen:
-
-"¿VIO UN DEMONIO? NO LO ENFRENTE. LLAME A SEGURIDAD PÚBLICA."
-
-Y abajo, más chico: "Recuerde: los pactos ilegales se pagan con cárcel. O con algo peor."
-
-Desde la avenida llega un ruido raro. No es un grito todavía. Es un murmullo que crece, gente que se aparta, un paraguas que cae.
-
-Por la boca del callejón pasa un hombre caminando. Traje gris de oficina, maletín, el pelo pegado por la lluvia. Camina derecho, muy derecho, con los brazos rígidos al costado del cuerpo y la cabeza un poco inclinada, como si le colgara de un hilo. Se detiene justo en la entrada del callejón. Gira la cabeza hacia ti, despacio, demasiado, más de lo que debería girar un cuello.
-
-Tiene los ojos vacíos, como dos botones. Y sonríe. Una sonrisa enorme, fija, de oreja a oreja, con las comisuras tirantes, como si se la hubieran cosido.
-
-Detrás de él, en la avenida, alguien grita por fin.
-
-```
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Chainsaw Man                          ║
-║ CORAZÓN DEL DEMONIO DRAGÓN                   ║
-║ Híbrido. Un segundo corazón late en tu       ║
-║ pecho: el del demonio nacido del miedo a     ║
-║ los dragones. Tira del aro de tu oreja       ║
-║ izquierda y te transformas: escamas negras   ║
-║ con vetas rojas y azules, cuernos, garras,   ║
-║ alas, cola. Aliento de fuego y de escarcha.  ║
-║ Regeneras bebiendo sangre. El demonio no     ║
-║ tiene voz ni voluntad. Nadie lo controla.    ║
-║ Sin precio. Sin hambre. Sin olor.            ║
-║ Maestría 30                                  ║
-║ 50: Forma Dragón Completa                    ║
-║ 70: Rugido del Miedo                         ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Chainsaw Man                          ║
-║                                              ║
-║ MISIÓN: Que Aki Hayakawa siga vivo cuando    ║
-║ termine el ataque del Demonio Pistola.       ║
-║ RECOMPENSA: 20.000 EXP · 500 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1681 · CHAINSAW MAN · DÍA 1 · 19:30    ║
-║ Tokio, otoño de 1997                         ║
-║ Callejón detrás de una tienda departamental  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca                             ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1682)
+## COMANDO 1 (T1682)
 
 hola
 
-## RESPUESTA 2 (T1682)
+## RESPUESTA 1 (T1682)
 
 > hola
 
@@ -159,11 +68,11 @@ Y empieza a correr.
 
 ---
 
-## COMANDO 3 (T1683)
+## COMANDO 2 (T1683)
 
 que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
 
-## RESPUESTA 3 (T1683)
+## RESPUESTA 2 (T1683)
 
 > que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
 
@@ -208,4 +117,55 @@ Los tres dan un paso hacia ti al mismo tiempo.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:32, callejón detrás de los almacenes Mitsukoshi (Tokio). Facundo esquivó al oficinista (se estrelló contra la expendedora). Santa (por los muñecos): "Eso fue rápido, joven. Muy rápido." "En Tokio, detrás de los almacenes Mitsukoshi. En el peor lugar y la peor noche." "Me gustas. Me gusta ese gato. Me voy a quedar con los dos." Tres muñecos (oficinista, señora con bolsa, chico de uniforme) avanzan; tapan la salida. A lo lejos, un motor que arranca y se ahoga (Denji). Sirena cerca.
+## COMANDO 3 (T1684)
+
+los desmayo a los tres sin lastimarlos y salgo a la avenida
+
+## RESPUESTA 3 (T1684)
+
+> los desmayo a los tres sin lastimarlos y salgo a la avenida
+
+Te mueves.
+
+Para la lluvia, no pasa nada: una gota está en el aire y, cuando cae, ya terminó. Un toque seco, con dos dedos, en la nuca del oficinista. Otro en la de la señora del puerro. Otro en la del chico de uniforme. Justo donde hay que tocar, ni un milímetro más fuerte.
+
+Los tres se desploman a la vez, como marionetas a las que les cortaron los hilos. Los atajas antes de que toquen el piso: primero al chico, después a la señora, después al oficinista, y los dejas sentados contra la pared del callejón, uno al lado del otro, debajo del alero, donde no llueve. Tienen los ojos cerrados. La sonrisa cosida se les afloja un poco, apenas, como si durmieran. Respiran.
+
+La voz de la mujer no dice nada más. Ninguna de las tres bocas se mueve.
+
+[Rivales vencidos: 3 · Fragmentos +3.]
+
+Recoges el maletín del oficinista, le cierras los broches y se lo dejas en las rodillas. Kase baja de tu nuca al hombro, todavía con el pelo erizado, y mira a los tres dormidos con desconfianza.
+
+Sales a la avenida.
+
+Es ancha, de seis carriles, con un tranvía detenido en el medio y las puertas abiertas. La fachada de los almacenes Mitsukoshi ocupa toda la cuadra: ocho pisos de vidrio y piedra, con un reloj enorme sobre la entrada principal que marca las siete y treinta y tres. Las vidrieras de la planta baja están rotas. Hay zapatos tirados en la vereda. Bolsas de compras. Un cochecito de bebé volcado, vacío.
+
+Y muñecos. Decenas. Caminan despacio por el medio de la avenida, entre los autos abandonados con las puertas abiertas, derechos y rígidos, con las cabezas un poco inclinadas, sonriendo bajo la lluvia. Un policía de tránsito con el silbato todavía en la boca. Una novia con el vestido manchado de barro. Dos ancianos de la mano. Ninguno corre. Van todos hacia el mismo lado: hacia la entrada de los almacenes.
+
+Desde adentro del edificio, en algún piso alto, llega el motor otra vez. Ahora más cerca, más fuerte, un rugido de motosierra que sube y baja, mezclado con vidrios que estallan y alguien que grita algo que no se entiende.
+
+Una camioneta blanca frena en seco frente a ti, derrapando en el asfalto mojado. Tiene un escudo pintado en la puerta y letras negras: SEGURIDAD PÚBLICA. Las puertas se abren de golpe. Bajan dos hombres de traje negro y corbata, empapados, uno con una katana corta en la mano y el otro con un revólver. El del revólver es joven, tiene la cara pálida de miedo. Te ve. Ve el callejón detrás de ti y los tres cuerpos sentados contra la pared.
+
+Te apunta.
+
+—¡Tú! ¡El del pelo! —Le tiembla la voz y le tiembla el revólver—. ¡Las manos donde las vea! ¡¿Eres un muñeco o eres una persona?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1684 · CHAINSAW MAN · DÍA 1 · 19:33    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.842 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:33, avenida frente a los almacenes Mitsukoshi. Los 3 muñecos desmayados y sentados en el callejón (Santa perdió la vista por ellos; no vio cómo). Decenas de muñecos caminan hacia la entrada de Mitsukoshi; desde un piso alto, rugido de motosierra (Denji) y vidrios. Camioneta de Seguridad Pública: dos agentes (uno con katana corta, otro joven con revólver, asustado). El del revólver apunta a Facundo: "¡Las manos donde las vea! ¡¿Eres un muñeco o eres una persona?!"

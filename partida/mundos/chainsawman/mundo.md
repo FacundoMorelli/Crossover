@@ -8,3 +8,4 @@ MISIÓN DE MUNDO: Que Aki Hayakawa siga vivo cuando termine el ataque del Demoni
 VELO: Facundo no huele a demonio ni a nada raro para ningún demonio, fiend ni híbrido (Power, Denji, Makima incluidos). Makima no puede leerlo ni controlarlo por percepción de poder; lo que ve, lo ve.
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
+- T1684 · 3 muñecos de Santa (oficinista, señora, chico de uniforme) desmayados sin daño en el callejón detrás de Mitsukoshi (canon: seguían atacando).
