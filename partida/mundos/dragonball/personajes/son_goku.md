@@ -79,3 +79,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1514 · Se ríe a carcajadas con la boca llena al ver la tromba de Goten.
 - T1515 · Ve el techo invisible; mira a Facundo y silba fuerte mirando para otro lado.
 - T1523 · Con un pollo en cada mano y la corbata desatada, levanta la mano: "¡Yo! ¡Soy yo!"
+- T1524 · No sabe qué es un Super Saiyajin Dios. Pide pelear con Bills ("¡No te siento el ki, pero lo noto!"). SSJ3 (más fuerte que nunca por el zenkai): no le hace nada; Bills lo desmaya de un golpecito en la nuca. Gohan lo ataja sobre el mar.

@@ -14,3 +14,4 @@ ESTADO: activa
 - T1513 · Por Facundo: se llama Facundo Morelli. No se conocían; lo vio en la tele (torneo, con Buu y el gato). Vegeta nunca le contó qué pasó ("trucos"). "Goku, que no sabe guardar un secreto ni aunque le paguen, ahora resulta que sí sabe." "Algún día me vas a contar de dónde sacaste ese pelo."
 - T1514/1515 · (Corregido) La torta no se moja. Aplaude: "¡Ay, qué lindo! ¿Eso también es parte del truco, Goten?"
 - T1521 · Recibe a Bills y Whis como amigos de Vegeta: "¡Hay comida para cien, coman todo lo que quieran!"
+- T1524 · Deja caer la copa ante el ultimátum.

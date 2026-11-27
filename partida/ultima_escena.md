@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1521)
-
-se llama Kase
-
-## RESPUESTA 1 (T1521)
-
-> se llama Kase
-
-> —Se llama Kase.
-
-—Kase —repite Bills, despacio, probando el nombre—. Kase.
-
-Kase, de espaldas, mueve una oreja hacia atrás al oír su nombre. Nada más.
-
-—Es un buen nombre para un gato que no le tiene miedo a un dios —dice Bills. Y lo dice en serio, sin burla, como quien reconoce algo—. La mayoría de los animales salen corriendo cuando me ven. Los planetas enteros salen corriendo. Este me olió el dedo.
-
-Se queda mirando la espalda de Kase un momento más. Después se da vuelta, con las manos detrás de la espalda, y mira la cubierta.
-
-Los invitados siguen quietos. La música sigue sonando, sola, para nadie.
-
-Bulma es la primera que se mueve. Deja la copa en una mesa, se acomoda el vestido rojo y camina hacia ellos con una sonrisa enorme, de anfitriona, pasando por al lado de Vegeta, que todavía está inclinado.
-
-—¡Hola, hola! —Les tiende la mano a los dos—. Soy Bulma, la del cumpleaños. ¿Ustedes son amigos de Vegeta? No me dijo que venían. —Mira a Vegeta, que asiente desesperado, muchas veces, sin levantar la cabeza—. ¡Bienvenidos! ¡Hay comida para cien, coman todo lo que quieran!
-
-Whis le estrecha la mano con mucha educación.
-
-—Muy amable, señorita. Soy Whis. Y él es Bills-sama. —Mira las mesas, los ojos le brillan—. Dijo... ¿todo lo que queramos?
-
-—¡Todo!
-
-Bills levanta la nariz. Olfatea el aire, despacio, como un gato que huele algo en la cocina. Mira hacia la cubierta de arriba, donde están las montañas de comida, las fuentes, los postres.
-
-Se le iluminan los ojos amarillos.
-
-—Whis. —Lo dice muy serio—. ¿Eso que huele así de dulce... es pudín?
-
-Al fondo de la cubierta, junto a la mesa de los postres, Buu se está terminando el último pudín de una fuente entera, con una cuchara en cada mano y Goten y Trunks sentados a sus pies.
-
-Vegeta lo ve. Levanta la cabeza de la reverencia de golpe, con la cara blanca.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1521 · DRAGON BALL · SÁBADO · 12:23    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, mirando el mar          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills en la Tierra · el pudín      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1522)
+## COMANDO 1 (T1522)
 
 bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
 
-## RESPUESTA 2 (T1522)
+## RESPUESTA 1 (T1522)
 
 > bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
 
@@ -120,11 +64,11 @@ Bills baja el vasito. Se limpia la boca con el dorso de la mano. Te mira. Y por 
 
 ---
 
-## COMANDO 3 (T1523)
+## COMANDO 2 (T1523)
 
 si, le doy mas
 
-## RESPUESTA 3 (T1523)
+## RESPUESTA 2 (T1523)
 
 > si, le doy mas
 
@@ -189,4 +133,95 @@ En su silla, a lo lejos, Vegeta se tapa la cara con las dos manos.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:30, crucero. Bills comió los pudines, contento. Pregunta por Goku; Goku levanta la mano: "¡Yo! ¡Soy yo!" Vegeta se tapa la cara. Facundo puede actuar.
+## COMANDO 3 (T1524)
+
+miro
+
+## RESPUESTA 3 (T1524)
+
+> miro
+
+Te quedas en la baranda, junto a Kase, y miras.
+
+Bills se levanta de la reposera. Mira a Goku de arriba abajo: el traje arrugado, la corbata desatada, un pollo en cada mano, salsa en la barbilla.
+
+—¿Tú? —Levanta una ceja—. ¿Tú eres el saiyajin del que hablaba Kaio?
+
+—¡Sí! —Goku se traga el pollo de un bocado—. ¡Mucho gusto! ¿Tú eres el que fue a ver a Kaio-sama? Me dijo Vegeta que... —Mira a Vegeta. Vegeta niega con la cabeza, desesperado, muchas veces—. Bueno, no me dijo nada.
+
+Bills se le acerca. Despacio. Las manos detrás de la espalda.
+
+—Tuve un sueño —dice—. En el sueño aparecía un Super Saiyajin Dios. Un rival digno. Me desperté después de treinta y nueve años para encontrarlo. —Lo mira a los ojos—. ¿Tú sabes qué es un Super Saiyajin Dios?
+
+Goku se rasca la cabeza.
+
+—No. —Se ríe—. Nunca lo oí. Pero suena muy fuerte.
+
+Bills suspira.
+
+—Ya veo.
+
+—¡Pero puedo mostrarte lo que tengo! —Goku tira los dos huesos de pollo por la borda y se pone en guardia, con los ojos encendidos—. ¡Tú eres fuerte, ¿verdad?! ¡Lo noto! ¡No te siento el ki, pero lo noto! ¡Peleemos!
+
+—¡KAKAROTTO! —grita Vegeta desde su silla, poniéndose de pie.
+
+Demasiado tarde. Bills sonríe por primera vez desde que llegó. Una sonrisa de gato.
+
+—Muéstrame.
+
+Se elevan. Los dos, a la vez, por encima del crucero, cien metros, doscientos, hasta que quedan sobre el mar, lejos del barco. Todos los invitados se amontonan en las barandas. Bulma con la mano sobre los ojos para tapar el sol. Goten y Trunks trepados a una mesa.
+
+Goku grita.
+
+Super Saiyajin. Super Saiyajin 2. Super Saiyajin 3: el pelo dorado hasta la cintura, el aura en llamas, el mar que se agita en olas circulares debajo de él. Más fuerte que nunca. Lo notas: más fuerte que ayer, por el zenkai, por la semilla, por los cuatro días en el páramo.
+
+Se lanza contra Bills con todo.
+
+Bills no se mueve. Levanta un dedo.
+
+El puño de Goku se frena contra la punta del dedo de Bills, como contra una pared. El aire explota alrededor de los dos y el mar, abajo, se abre en un cráter de agua.
+
+Goku sigue. Un golpe, otro, una patada, una lluvia de golpes, una ráfaga de ki. Bills los esquiva todos con las manos detrás de la espalda, aburrido, girando apenas la cabeza.
+
+—Más fuerte de lo que esperaba —dice Bills—. Pero no es un dios.
+
+Y le da un golpecito en la nuca con dos dedos.
+
+Uno solo.
+
+El aura dorada de Goku se apaga de golpe. El pelo se le vuelve negro. Cae, desmayado, hacia el mar, y Gohan sale disparado del crucero a atajarlo antes de que toque el agua.
+
+En la cubierta se hace un silencio de muerte.
+
+Bills baja despacio y se posa otra vez junto a la piscina. Se sacude una pelusa del hombro.
+
+—Qué lástima. —Mira a Whis—. Este planeta tiene buena comida. Ese pudín. Ese gato. —Se encoge de hombros—. Pero vine a buscar un Super Saiyajin Dios, y no hay ninguno.
+
+Levanta la vista hacia todos, hacia la cubierta, hacia la costa de la Ciudad del Oeste a lo lejos. Ya no tiene cara de gato al sol. Tiene la otra cara.
+
+—Les doy hasta que se ponga el sol. —Lo dice sin levantar la voz—. Si para entonces nadie me muestra al Super Saiyajin Dios, destruyo la Tierra.
+
+Vegeta, de pie, con los puños cerrados, se pone blanco como una sábana. Bulma deja caer la copa. Milk agarra a Goten.
+
+Whis suspira, con mucha pena, mirando la mesa del buffet.
+
+—Qué desperdicio de comida, Bills-sama.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1524 · DRAGON BALL · SÁBADO · 12:45    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.248 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, con la cola erizada     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills destruye la Tierra al        ║
+║ atardecer si no aparece el SSJ Dios          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:45, crucero. Bills venció a Goku y dio el ultimátum: Super Saiyajin Dios antes del atardecer o destruye la Tierra. Goku desmayado en brazos de Gohan. Facundo puede actuar.
