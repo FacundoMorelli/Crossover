@@ -1604,3 +1604,4 @@ T1602 · DRAGON BALL · Planeta de Bills · Semilla a Goku. Habla con Vegeta: re
 T1603 · DRAGON BALL · Planeta de Bills · "Capaz me voy, pero vuelvo." Sugiere a Vegeta una transformación del ego, lo contrario del UI. Vegeta lo piensa, mira a Bills: "No está mal pensado, para alguien de otro mundo."
 T1604 · DRAGON BALL · Planeta de Bills · Acaricia a Kase. Vegeta le pide a Bills aprender a pelear como un Dios de la Destrucción. Bills: "¿Qué le dijiste?"
 T1605 · DRAGON BALL · Planeta de Bills · "Nada importante." Fusiona UI Dominado + Forma Cenit (x50.000; sellada, sin costo). Whis: "Eso no existe." Bills: "¿Qué es eso ahora?"
+T1606 · DRAGON BALL · Planeta de Bills · "Puedo combinar habilidades, sea lo que sea." Whis: "Una sola persona juntando dos cosas que no deberían poder estar juntas." Bills: "¿Cuánto tienes ahí adentro?"

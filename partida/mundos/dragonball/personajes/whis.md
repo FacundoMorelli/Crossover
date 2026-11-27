@@ -74,3 +74,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1600 · Explica a Bills la semilla del ermitaño (las cultiva el maestro Karin; cura todo y llena como diez comidas; no tiene gusto). Va a arreglar la pirámide.
 - T1601 · Arregla la grieta de la pirámide. "Cien. Contadas. Le tiene mucho aprecio, Bills-sama." Al oír que Facundo dice ser de "su universo" (antes dijo otro mundo), levanta una ceja, casi pregunta, no lo hace: "Qué bueno que todo quedó claro."
 - T1605 · Ve a Facundo fusionar UI Dominado + Forma Cenit; deja de arreglar la explanada: "Facundo-san. Eso no existe."
+- T1606 · A Goku: "La fusión junta a dos personas. Esto es una sola persona juntando dos cosas que no deberían poder estar juntas." "El Ultra Instinto es calma absoluta. Esa otra forma suya es fuego. Una cosa así debería apagar a la otra. Y sin embargo..." SABE (+T1606): Facundo combina habilidades (por Facundo).

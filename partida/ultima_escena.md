@@ -3,79 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1603)
-
-esta bien, igual capaz me voy pero vuelvo, aparentemente se volver cuando hay problemas, justo cuando volví apareció bills, asi que no te preocupes, y vegeta, tu transformación tendría que ser algo relacionado con el ego, en vez de ser como el de goku, tendría que ser lo contrario
-
-## RESPUESTA 1 (T1603)
-
-> esta bien, igual capaz me voy pero vuelvo, aparentemente se volver cuando hay problemas, justo cuando volví apareció bills, asi que no te preocupes, y vegeta, tu transformación tendría que ser algo relacionado con el ego, en vez de ser como el de goku, tendría que ser lo contrario
-
-> —Está bien. Igual capaz me voy, pero vuelvo. Aparentemente sé volver cuando hay problemas: justo cuando volví apareció Bills. Así que no te preocupes.
-
-Vegeta resopla por la nariz.
-
-—No me preocupo —dice, enseguida—. El príncipe de los saiyajin no se preocupa por nadie.
-
-Pero los hombros se le aflojan un poco.
-
-> —Y, Vegeta: tu transformación tendría que ser algo relacionado con el ego. En vez de ser como la de Goku, tendría que ser lo contrario.
-
-Vegeta se queda quieto.
-
-—¿El ego?
-
-Lo repite despacio, frunciendo el ceño, como si mordiera la palabra para ver si es dura.
-
-—Lo contrario. —Desvía la mirada hacia el cielo, hacia las rocas flotantes—. El ángel dice que el Ultra Instinto es vaciarse. No pensar. No sentir. Dejar que el cuerpo haga todo solo, tranquilo, como el agua.
-
-Aprieta un puño, despacio, y se lo mira.
-
-—Y lo contrario sería no vaciarse. Llenarse. —Le sale casi en un murmullo—. Pelear con todo el orgullo encima, con toda la rabia, con todo lo que soy. No esquivar. Recibir el golpe y volverme más fuerte por recibirlo. No calmarme nunca.
-
-Se queda callado.
-
-Sin querer, gira la cabeza hacia la pirámide. Allá lejos, al pie de la escalera, Bills está sentado en el pasto con la bolsa de semillas atada a la faja, discutiendo con Goku y haciendo gestos con las manos. La cola se le mueve, enojada. Vegeta lo mira un rato largo, con los ojos entrecerrados.
-
-—Un dios que destruye cuando se enoja —dice, para sí—. Que pelea con el orgullo herido. Que no se calma.
-
-Te mira otra vez, y por primera vez desde que lo conoces la mirada no tiene nada de rival. Es la de alguien que acaba de ver una puerta.
-
-Pero dura un segundo. Enseguida se le endurece la cara, cruza los brazos y levanta el mentón.
-
-—No necesitaba que me lo dijeras —gruñe—. Ya lo iba a descubrir solo.
-
-Se da vuelta. Empieza a caminar hacia la pirámide, hacia Bills, con paso firme.
-
-A los cinco pasos se detiene, de espaldas.
-
-—...Pero no está mal pensado, para alguien de otro mundo.
-
-Y sigue caminando.
-
-Kase, en tu hombro, lo mira irse. Después te mira a ti y parpadea una vez, despacio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1603 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Borde del jardín · mediodía                  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1604)
+## COMANDO 1 (T1604)
 
 acarició a kase y vuelvo con los demas
 
-## RESPUESTA 2 (T1604)
+## RESPUESTA 1 (T1604)
 
 > acarició a kase y vuelvo con los demas
 
@@ -125,11 +57,11 @@ Entrecierra los ojos.
 
 ---
 
-## COMANDO 3 (T1605)
+## COMANDO 2 (T1605)
 
 nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
 
-## RESPUESTA 3 (T1605)
+## RESPUESTA 2 (T1605)
 
 > nada importante, quiero probar algo, combinó el ultra instinto dominado con mi forma cenit
 
@@ -190,4 +122,59 @@ Bills baja un escalón, sin sacarte los ojos de encima. La cola se le eriza de n
 
 ---
 
-ESTADO AL CIERRE: Facundo en UI Dominado + Forma Cenit (fusión sellada, sin nombre). Whis: "Eso no existe." Bills: "¿Qué es eso ahora?" Facundo puede contestar o actuar.
+## COMANDO 3 (T1606)
+
+es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
+
+## RESPUESTA 3 (T1606)
+
+> es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
+
+> —Es mi Forma Cenit con el Ultra Instinto Dominado. Puedo combinar habilidades, sea lo que sea.
+
+Por un momento nadie dice nada.
+
+Las llamas blancas y azules siguen ondulando a tu alrededor, lentas, en el aire quieto. El pasto sigue aplastado en círculo bajo tus pies.
+
+—¿Sea lo que sea? —repite Bills, despacio.
+
+—¡¿Como la fusión?! —Goku se pone de pie de un salto y Kase, a su lado, le echa una mirada de reproche por el movimiento—. ¡¿Como cuando Goten y Trunks bailan y se vuelven Gotenks?! ¡¿O como los aretes del Supremo Kaioshin?!
+
+—No, Goku-san —dice Whis. Ya no arregla la explanada. Camina hacia ti despacio, con el báculo apoyado en el hombro y la cabeza inclinada, mirándote las llamas como quien mira una pintura muy rara en un museo—. La fusión junta a dos personas. Esto es una sola persona juntando dos cosas que no deberían poder estar juntas.
+
+Se detiene a unos pasos y se queda mirando de cerca el punto rojo y el punto azul en el fondo de tus ojos plateados.
+
+—El Ultra Instinto es calma absoluta. Esa otra forma suya es fuego. —Sonríe apenas, pensativo—. Una cosa así debería apagar a la otra. Y sin embargo...
+
+No termina la frase.
+
+Vegeta no se mueve del pie de la escalera. Tiene los brazos cruzados con tanta fuerza que le crujen los guantes.
+
+—Sea lo que sea —murmura, con los dientes apretados—. Claro. Por qué no.
+
+Bills baja el último escalón. Camina hasta el borde del círculo de pasto aplastado y se detiene justo ahí, sin pisarlo. Te mira de arriba abajo, largo, con la cola moviéndose lenta detrás.
+
+—Sea lo que sea —repite una tercera vez. Ya no suena incrédulo. Suena a alguien haciendo cuentas—. Entonces lo de ayer, el azul, lo plateado, el punto negro... ¿todo eso se puede juntar también?
+
+Ladea la cabeza.
+
+—¿Cuánto tienes ahí adentro, muchacho del bolsillo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1606 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 55% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~44 min) · Velo: ki bajo   ║
+║ Kase: sentado al lado de Goku                ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo explicó que puede combinar cualquier habilidad. Whis lo estudia. Bills: "¿Cuánto tienes ahí adentro, muchacho del bolsillo?" Facundo puede contestar.

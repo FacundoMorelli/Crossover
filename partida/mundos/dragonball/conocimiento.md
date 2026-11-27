@@ -158,3 +158,4 @@
 - T1598 · Bills, Whis, Goku y Vegeta VIERON los efectos del poder sin contención de Facundo (UI Dominado): explanada hundida, rocas cayendo, barrera doblada. El Velo sigue: nadie lo siente.
 - T1599 · Bills, Whis, Goku y Vegeta VIERON a Facundo vencer a Bills (choque final). Bills vio que al final se contuvo.
 - T1605 · Bills, Whis, Goku y Vegeta VIERON a Facundo fusionar Ultra Instinto Dominado con la Forma Cenit.
+- T1606 · Bills, Whis, Goku y Vegeta saben (por Facundo) que puede combinar habilidades, "sea lo que sea".
