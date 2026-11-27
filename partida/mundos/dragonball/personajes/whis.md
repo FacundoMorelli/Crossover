@@ -17,3 +17,5 @@ ESTADO: activo
 - T1524 · "Qué desperdicio de comida, Bills-sama."
 - T1525 · "Los namekianos lo hicieron para este planeta. Concede deseos. Y sabe muchas cosas."
 - T1527 · Se queda en el crucero mirando la pelea. Mira a Facundo un segundo largo, curioso; sonríe: "Disculpe. ¿No le queda, por casualidad, otro de esos pudines?"
+- T1528 · Recibe seis pudines de Facundo: "Oh, vaya. Oh, vaya, vaya." Come tres; esconde tres bajo la túnica: "No le diga a Bills-sama. Si los ve, se los come él." "Es una pelea muy linda. Bills-sama no se divertía así hace siglos. Gracias a usted, en parte. Si no se le hubiera ocurrido lo del dragón, a esta hora estaríamos buscando otro planeta con buena comida." "Tiene un bolsillo muy interesante. Y un gato muy interesante. Y casi nada de ki. Qué combinación tan curiosa." "Usted ya sabe mi nombre, y yo todavía no sé el suyo."
+RELACIÓN CON FACUNDO (T1528): curiosidad amable; agradecido por el pudín y la idea del dragón.

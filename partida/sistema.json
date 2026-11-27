@@ -1,13 +1,13 @@
 {
-  "turno": 1527,
+  "turno": 1528,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, sábado, cumpleaños de Bulma (R14: Bills llega hoy)",
-  "hora": "año 778, sábado, 13:10",
+  "hora": "año 778, sábado, 13:15",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 164248,
+  "fragmentos": 164247,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -666,7 +666,7 @@
     {
       "objeto": "Pudín (igual al de la fiesta de Bulma)",
       "cantidad": 0,
-      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522). Los 5 restantes dados a Bills (T1523); Bills le dio 1 a Whis."
+      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522). Los 5 restantes dados a Bills (T1523); Bills le dio 1 a Whis. Otra caja (T1528, 1 F): los 6 a Whis (comió 3, escondió 3 bajo la túnica)."
     }
   ],
   "copias": [

@@ -1526,3 +1526,4 @@ T1524 · DRAGON BALL · Crucero · (observa) Goku no sabe qué es el SSJ Dios; p
 T1525 · DRAGON BALL · Crucero · "¿Y si le preguntan a Shenlong?" Bulma trae las esferas (premio del bingo). Bills acepta: "El del gato del pudín tiene buenas ideas." "¿Quién lo llama?"
 T1526 · DRAGON BALL · Crucero · Goku invoca a Shenlong, que se inclina ante Bills. Ritual: 6 saiyajin de corazón puro. Cuentan cinco: falta uno.
 T1527 · DRAGON BALL · Crucero · (observa) Shenlong revela el embarazo de Videl (sexto saiyajin). Ritual: Goku SSJ Dios. Shenlong se va. Goku y Bills suben a pelear. Whis a Facundo: "¿No le queda otro de esos pudines?"
+T1528 · DRAGON BALL · Crucero · Otra caja de pudines (1 F) para Whis (esconde 3). Whis le agradece lo del dragón; "qué combinación tan curiosa"; le pregunta el nombre.

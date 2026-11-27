@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1525)
-
-y si le preguntan a shenlong?
-
-## RESPUESTA 1 (T1525)
-
-> y si le preguntan a shenlong?
-
-> —¿Y si le preguntan a Shenlong?
-
-En el silencio de la cubierta, tu voz se oye en todas partes.
-
-Todos se dan vuelta hacia ti. Krilin, con un pedazo de torta a medio camino de la boca. Piccolo, desde la proa. Gohan, que acaba de aterrizar con Goku desmayado en los brazos. Vegeta, blanco.
-
-Y Bulma.
-
-Bulma abre los ojos enormes. Se da una palmada en la frente.
-
-—¡Las esferas! —grita—. ¡Las tengo aquí! ¡Las junté para el bingo! ¡Eran el primer premio!
-
-Sale corriendo hacia la cubierta de arriba, con el vestido rojo levantado con una mano y los tacones en la otra.
-
-Bills se da vuelta despacio hacia ti. Ladea la cabeza. Te mira otra vez de arriba abajo, al muchacho de ki chiquito con el gato en la baranda.
-
-—¿Shenlong? —repite—. ¿El dragón de las esferas? —Mira a Whis—. ¿Todavía existe ese dragón?
-
-—Eso parece, Bills-sama. Los namekianos lo hicieron para este planeta. Concede deseos. —Whis sonríe—. Y sabe muchas cosas.
-
-Bills se cruza de brazos. Lo piensa.
-
-—Mmm. Un dragón que sabe cosas. —Te señala con el mentón—. El del gato del pudín tiene buenas ideas. —Se sienta otra vez en la reposera, con las piernas cruzadas—. Está bien. Pregúntenle. Todavía falta mucho para que se ponga el sol.
-
-En la cubierta, la gente vuelve a respirar. Vegeta te mira, largo, desde el otro lado de la piscina. No dice nada. Pero ya no te mira como a un insecto.
-
-Bulma vuelve a los dos minutos, sin aire, con un maletín plateado de Capsule Corp. en los brazos. Lo apoya sobre una mesa, entre los platos, y lo abre.
-
-Adentro, en siete huecos de terciopelo, brillan siete esferas anaranjadas, cada una con sus estrellas rojas adentro. Una, dos, tres, cuatro, cinco, seis, siete.
-
-Brillan más fuerte cuando están juntas. Laten, como un corazón.
-
-Gohan deja a Goku en una reposera. Goku sigue desmayado, roncando, con la boca abierta.
-
-Bulma saca las siete esferas, una por una, y las pone en el suelo de la cubierta, en un círculo. Se endereza. Mira alrededor: a Bills, a Whis, a Vegeta, a Gohan, a Piccolo, a ti.
-
-—Bueno. —Traga saliva—. ¿Quién lo llama?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1525 · DRAGON BALL · SÁBADO · 12:50    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.248 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Preguntarle a Shenlong por el SSJ  ║
-║ Dios antes del atardecer                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1526)
+## COMANDO 1 (T1526)
 
 goku
 
-## RESPUESTA 2 (T1526)
+## RESPUESTA 1 (T1526)
 
 > goku
 
@@ -157,11 +94,11 @@ Bills, en la reposera, se mira las uñas.
 
 ---
 
-## COMANDO 3 (T1527)
+## COMANDO 2 (T1527)
 
 miro
 
-## RESPUESTA 3 (T1527)
+## RESPUESTA 2 (T1527)
 
 > miro
 
@@ -262,4 +199,59 @@ Sonríe un poco más.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:10, crucero. Embarazo de Videl revelado; Goku es SSJ Dios y pelea con Bills en el cielo. Whis, en la cubierta, le pregunta a Facundo si le queda otro pudín. Facundo puede responder.
+## COMANDO 3 (T1528)
+
+le doy mas pudin
+
+## RESPUESTA 3 (T1528)
+
+> le doy mas pudin
+
+El bolsillo del sobretodo está vacío. Le diste los seis a Bills.
+
+Abres otra vez la tienda, por dentro.
+
+[Compra: pudín igual al de la fiesta (caja de seis). 1 Fragmento.]
+
+Metes la mano en el bolsillo y la sacas con un pudín. Y otro. Y otro. Seis, en fila, que le vas poniendo a Whis en las manos, en los brazos, encima del báculo.
+
+Whis los mira con los ojos muy abiertos y una sonrisa que se le va estirando de a poco.
+
+—Oh, vaya —dice—. Oh, vaya, vaya.
+
+Se sienta en el borde de la reposera de Bills, muy derecho, muy educado, con los seis pudines en la falda de la túnica. Se come uno en tres cucharadas, con los ojos cerrados. Después otro. Al tercero se detiene, mira los tres que le quedan, mira hacia arriba, hacia el cielo donde se oyen los truenos de la pelea, y los esconde, uno por uno, debajo de la túnica, con mucho cuidado.
+
+—No le diga a Bills-sama —dice, en voz baja, con una sonrisa traviesa—. Si los ve, se los come él.
+
+Arriba, muy lejos, sobre el mar, el cielo se ilumina de rojo y de violeta, una y otra vez, como fuegos artificiales sin ruido. Cada tanto llega el trueno, tarde, y hace vibrar los vasos de las mesas. En la cubierta, todos miran para arriba: Vegeta con los puños apretados, Gohan abrazando a Videl, Milk con Goten agarrado de la mano, Bulma con los binoculares que sacó de algún lado. Nadie siente nada. Ni el ki de Goku ni el de Bills. Solo ven las luces.
+
+Whis los mira un momento, y después vuelve a mirarte a ti.
+
+—Es una pelea muy linda —dice—. Bills-sama no se divertía así hace siglos. —Se limpia la comisura de la boca con un pañuelo—. Gracias a usted, en parte. Si no se le hubiera ocurrido lo del dragón, a esta hora estaríamos buscando otro planeta con buena comida.
+
+Inclina la cabeza, mirándote con curiosidad. Mira tus ojos. Mira a Kase, en la baranda, que lo mira de vuelta sin ninguna simpatía.
+
+—Tiene un bolsillo muy interesante —dice—. Y un gato muy interesante. Y casi nada de ki. —Sonríe, amable, sin ninguna malicia—. Qué combinación tan curiosa.
+
+Junta las manos sobre la túnica, donde escondió los pudines.
+
+—Disculpe la descortesía. Usted ya sabe mi nombre, y yo todavía no sé el suyo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1528 · DRAGON BALL · SÁBADO · 13:15    ║
+║ Crucero de Bulma · junto a la piscina        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.247 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando a Whis          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Goku (SSJ Dios) vs Bills en el     ║
+║ cielo                                        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:15, crucero. Whis con pudines (esconde 3). La pelea sigue en el cielo. Whis le pregunta el nombre a Facundo. Facundo puede responder.
