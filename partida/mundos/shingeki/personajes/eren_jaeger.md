@@ -51,3 +51,5 @@ ENCUENTROS:
 - T968 · Hannes lo visita; Eren lo hace pasar.
 - T970 · Oye "son libres de salir al mundo a explorar" y se le transforma la cara.
 - (Día 119) Se va en 10 días (Día ~129) al continente en un barco marleyano, con Mikasa, Armin y medio escuadrón de la Legión (aprobado por Erwin). Carla lloró dos días y le tejió una bufanda.
+- T1483 · Días 119-129 · Pregunta a Facundo todo (desierto, hielo, Hizuru). Escucha los consejos; se pone colorado con lo de las cartas a Historia. Día 129 zarpa; desde la baranda: "¡FACUNDO! ¡CUANDO VUELVA, TE VOY A CONTAR TODO LO QUE VI! ¡TODO! ¡Y VAS A TENER QUE ESCUCHARME!"
+ESTADO: de viaje al continente (6 meses).

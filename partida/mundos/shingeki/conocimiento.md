@@ -217,3 +217,6 @@
 - Facundo, Historia, Frieda, Ymir · T1479 · Por Erwin: detalles de la expedición al continente.
 - Erwin, Historia, Frieda, Ymir · T1480 · Por Facundo: en el desierto hay tormentas de arena (guiarse por estrellas/sol); el hielo resbala; las montañas de fuego suelen estar apagadas pero hay que salir si se activan; hay gente que los va a seguir odiando.
 - Facundo · T1480 · Por Erwin (y Magath por carta): en Marley hubo quienes quemaron los diarios del tratado. La expedición está en Shiganshina preparándose.
+- Eren, Mikasa, Armin, Jean, Connie, Sasha y 12 soldados · T1483 · Por Facundo: los consejos (desierto, hielo, montañas de fuego, la gente). Por Facundo: los mensajes de Historia.
+- Ymir · T1483 · Viaja por teletransportación con Facundo (lo siente en el cuerpo).
+- Gente de Shiganshina · T1483 · Ven a Facundo e Ymir aparecer de la nada en la calle principal; alguien pintó un gato de dos colores en una puerta.

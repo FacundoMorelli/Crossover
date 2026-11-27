@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1480)
-
-no creo, en la arena puede haber tormenta de Arenas, que hace que pierdas la visión de donde estabas, es simple ubicarte, guíate por las estrellas o el sol, el hielo resbala mucho, las montañas que rchan fuego no suelen echar, suelen estar apagadas pero si empieza a echar tengan cuidado y salgan de ahi, y despues cuídense de la gente, hay gente por todo el mundo que los va a seguir odiando y pueden intentar cualquier cosa
-
-## RESPUESTA 1 (T1480)
-
-> no creo, en la arena puede haber tormenta de Arenas, que hace que pierdas la visión de donde estabas, es simple ubicarte, guíate por las estrellas o el sol, el hielo resbala mucho, las montañas que rchan fuego no suelen echar, suelen estar apagadas pero si empieza a echar tengan cuidado y salgan de ahi, y despues cuídense de la gente, hay gente por todo el mundo que los va a seguir odiando y pueden intentar cualquier cosa
-
-> —No creo. En el desierto puede haber tormentas de arena, que hacen que pierdas de vista dónde estabas. Es fácil ubicarse: guíense por las estrellas o por el sol. El hielo resbala mucho. Las montañas que echan fuego casi nunca echan; suelen estar apagadas, pero si alguna empieza, tengan cuidado y salgan de ahí. Y después, cuídense de la gente. Hay gente en todo el mundo que los va a seguir odiando, y puede intentar cualquier cosa.
-
-Erwin no te interrumpe ni una vez.
-
-Mientras hablas, saca un lápiz del bolsillo del uniforme y anota en el margen del mapa, con la mano izquierda, en letra chica y apretada. "Tormenta de arena: estrellas, sol." "Hielo." "Montañas de fuego: salir." Cuando llegas a lo último, deja de escribir.
-
-Se queda mirando el lápiz.
-
-—La gente —repite.
-
-Historia baja la lista de nombres. Frieda deja de seguir la costa con el dedo. Hasta Ymir deja la tostada en el plato.
-
-—Eso es lo único de la lista que no se arregla con una brújula —dice Erwin, despacio—. Durante cien años, en el continente, a los eldianos les enseñaron que éramos demonios. Un tratado firmado en una plaza no borra cien años de libros de escuela. —Apoya el lápiz sobre el mapa—. Magath me lo dijo en su última carta, casi con las mismas palabras. Hay gente en Marley que celebró el tratado. Y hay gente que quemó los diarios que lo anunciaban.
-
-—Por eso van con la Legión —dice Historia, en voz baja—. Y no solos.
-
-—Por eso van con la Legión —asiente Erwin—. Y con Mikasa, que vale por un escuadrón. Y con Levi... —Hace una pausa—. No. Levi no va. Se quedó con la moto.
-
-Ymir resopla una risa por la nariz.
-
-Erwin dobla el mapa con cuidado y lo guarda en la carpeta. Después se queda un momento con la mano encima, sin cerrarla.
-
-—Le voy a pedir otra cosa. No como comandante. —Te mira—. Están todos en Shiganshina, preparando el viaje. Eren, Mikasa, Armin, los demás. Eren pregunta por usted cada vez que me ve. Armin tiene una lista de cuarenta preguntas sobre el mar, escrita a mano. —Casi sonríe—. Si tiene tiempo antes de que zarpen, me gustaría que se los dijera usted. Lo de la gente. A mí me van a escuchar porque soy su comandante. A usted lo van a escuchar porque fue usted el que les devolvió el mundo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1480 · SHINGEKI · DÍA 119 · 09:12      ║
-║ Mitras · palacio · salón de Historia         ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: comiendo huevo en la mesa              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Erwin pide que hable con la        ║
-║ expedición · algo de este mundo para Robin   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1481)
+## COMANDO 1 (T1481)
 
 esta bien, en un rato voy a verlos a todos
 
-## RESPUESTA 2 (T1481)
+## RESPUESTA 1 (T1481)
 
 > esta bien, en un rato voy a verlos a todos
 
@@ -107,11 +58,11 @@ Te pisa el pie debajo de la mesa. Esta vez no despacio.
 
 ---
 
-## COMANDO 3 (T1482)
+## COMANDO 2 (T1482)
 
 vienes conmigo
 
-## RESPUESTA 3 (T1482)
+## RESPUESTA 2 (T1482)
 
 > vienes conmigo
 
@@ -156,4 +107,77 @@ Ymir se para a tu lado. Se acomoda la camisa. Se ata mejor el pelo. Después te 
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 09:17, salón de Historia. Ymir va con Facundo a Shiganshina. Pregunta cómo: la moto o el teletransporte. Facundo puede decidir.
+## COMANDO 3 (T1483)
+
+con mi truco, simula hasta que zarpen todos
+
+## RESPUESTA 3 (T1483)
+
+> con mi truco, simula hasta que zarpen todos
+
+Le tomas la mano a Ymir. Kase, todavía ofendido, te salta al hombro igual.
+
+Historia levanta la taza a modo de despedida. Frieda saluda con la mano.
+
+Dos dedos en la frente. Shiganshina está al sur, al otro lado de Wall Rose, llena de kis conocidos, encendidos como lámparas en una casa grande.
+
+El salón desaparece.
+
+Aparecen en medio de la calle principal de Shiganshina, frente a la casa de los Jaeger. Ymir se tambalea, te aprieta la mano, y suelta una maldición entre dientes.
+
+—Odio esto —dice—. Odio esto con toda mi alma. Hazlo otra vez cuando quieras.
+
+La ciudad no se parece a la que viste hace cincuenta días. Hay gente por todas partes. Mercado en la plaza, chicos corriendo, ropa colgada de ventana a ventana, carretas que entran cargadas por la puerta del sur y salen vacías. La casa de los Jaeger tiene macetas nuevas en la ventana. En la puerta de enfrente, alguien pintó un gato de dos colores con tiza.
+
+Eren está en el techo de la casa, atando sogas a unos baúles. Te ve desde arriba y se le cae la soga.
+
+Los diez días que siguen se van rápido.
+
+Eren no te deja en paz. Quiere saber todo: cómo es el desierto, si el hielo cruje, qué hay más allá de Hizuru. Mikasa te escucha sin decir casi nada, sentada al lado de Eren, con la bufanda roja puesta aunque hace calor. Armin te persigue con un cuaderno lleno de preguntas, escrito en letra apretada por las dos caras de cada hoja. Le contestas algunas. Con cada respuesta, Armin se queda un rato callado, mirando el cuaderno como si le hubieran dado vuelta el mundo. Llegan a la pregunta dieciocho. Ymir le quita el cuaderno y lo esconde en el horno apagado.
+
+Una tarde, en el patio de los Jaeger, los juntas a todos. Eren, Mikasa, Armin, Jean, Connie, Sasha, y los doce soldados que van con ellos. Les repites lo que le dijiste a Erwin: el desierto, el hielo, las montañas de fuego. Y la gente. Nadie hace chistes. Jean asiente muy serio. Sasha deja de comer. Connie le da un codazo a Jean y Jean no se lo devuelve, que en ellos es casi una ceremonia.
+
+Les das los mensajes de Historia. Eren se pone colorado con lo de las cartas. Mikasa se toca la bufanda. Sasha jura por su vida que no va a tocar las raciones el primer día, y Connie apuesta con ella que sí.
+
+Ymir se queda contigo todo el tiempo. Duermen en el cuarto de arriba de la casa Jaeger, el mismo de la otra vez. Carla les deja la cama hecha cada mañana sin decir nada y con una sonrisa que dice todo. Grisha te saluda cada mañana en la cocina. Una tarde lo ves salir con una canasta tapada hacia una casita a dos calles. Vuelve una hora después con la canasta vacía.
+
+La noche antes del viaje, Carla cocina para todos. Son tantos que tienen que sacar la mesa a la calle. Hannes trae vino. Grisha brinda. Zeke no viene, pero alguien deja un plato servido en la puerta de la casita a dos calles, y a la mañana está vacío y lavado.
+
+El día del viaje, salen de madrugada en carretas hacia la costa este.
+
+El puerto nuevo está donde invocaste al dragón: la misma meseta sobre el mar, pero abajo, en la playa, ahora hay un muelle de madera clara, largo, recién hecho, con galpones y grúas de soga. Y amarrado al final del muelle, enorme, negro y blanco, con una chimenea que echa humo gris, el barco de vapor de Marley.
+
+Hay muchísima gente. Toda la Legión que no viaja. Familias de los doce soldados. Gente de Shiganshina que vino en carretas solo para ver. Historia, con capa y sin corona, al lado de Erwin. Frieda. Hange, que llegó en la moto con Levi detrás, sentado con los brazos cruzados y cara de piedra, aunque nadie le pidió que viniera. Carla, que no suelta a Eren hasta el último segundo, y le acomoda la bufanda nueva que le tejió, y le vuelve a acomodar, y le vuelve a acomodar.
+
+Suben de a uno.
+
+Armin sube último. Se da vuelta en la planchada y te mira, con el cuaderno de las preguntas contra el pecho, el que Ymir escondió en el horno y él encontró igual.
+
+El barco suelta las amarras. La sirena suena una vez, larga, grave, y todos en el muelle se callan. La chimenea echa humo. Las ruedas empiezan a girar. El barco se despega del muelle, despacio, y la franja de agua entre la madera y el casco se hace más ancha. Un metro. Tres. Diez.
+
+En la baranda de popa están todos. Connie y Sasha saludan con los dos brazos. Jean saluda con uno, haciéndose el serio. Mikasa no saluda: mira la costa, con la bufanda roja moviéndose con el viento.
+
+Y Eren se sube a la baranda, agarrado de un cabo, con medio cuerpo afuera, el pelo al viento y los ojos encendidos, mirando hacia el muelle. Mirándote a ti.
+
+—¡FACUNDO! —grita, con toda la voz que tiene, por encima de la sirena y del mar—. ¡CUANDO VUELVA, TE VOY A CONTAR TODO LO QUE VI! ¡TODO! ¡Y VAS A TENER QUE ESCUCHARME!
+
+Ymir, a tu lado, te aprieta la mano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1483 · SHINGEKI · DÍA 129 · 07:10      ║
+║ Costa este de Paradis · muelle del puerto    ║
+║ nuevo                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: — · algo de este mundo para Robin  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 129 07:10, muelle del puerto nuevo de la costa este. Zarpó la expedición. Eren gritó desde la baranda que le va a contar todo al volver. Ymir le aprieta la mano. Facundo puede actuar.

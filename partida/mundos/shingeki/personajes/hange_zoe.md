@@ -37,3 +37,4 @@ ESTADO: activo
 - T1475 · Por Facundo: el combustible es la fracción más liviana (la que tiraba por la ventana), no la espesa (sirve para lámparas); la pieza de la chispa estaba llena de hollín. No anota (primera vez). Tenía guardado un frasco "de la tercera vez". Limpia la bujía con el pañuelo de Levi. La moto arranca; corre detrás llorando y riendo.
 - T1476 · Ve el caballito sin voz; después: "¡Hizo que el caballo de metal se parara en dos patas!"
 - T1477 · "¡Perdón, Majestad!" (sin arrepentimiento).
+- T1483 · Llega al puerto en la moto, con Levi detrás.

@@ -20,3 +20,4 @@ ESTADO: viva (revivida T958).
 - T967 · Reverencia a Historia ("Majestad"). Invita a Facundo, a Ymir ("su novia") y al gato a desayunar.
 - T968 · Desayuno (panqueques). Les arregla un cuarto arriba a Facundo e Ymir.
 - (Día ~117-119) Lloró dos días por el viaje de Eren y le tejió una bufanda.
+- T1483 · Hospeda a Facundo e Ymir (les hace la cama cada mañana). Cena en la calle la noche antes del viaje. En el muelle le acomoda una y otra vez la bufanda a Eren.

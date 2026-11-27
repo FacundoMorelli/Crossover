@@ -22,3 +22,5 @@ ESTADO: activo
 - T968 · Visita a Annie en Mitras; le cuenta lo de los titanes.
 - T970 · Le habla a su abuelo con los ojos brillando tras el discurso.
 - (Días ~67-73) Despidió a Annie en el puerto. Se va al continente con Eren en 10 días.
+- T1483 · Cuaderno de preguntas sobre el mar (dos caras por hoja); Facundo le contesta algunas (hasta la 18). Ymir le esconde el cuaderno en el horno; lo encuentra. Sube último a la planchada y mira a Facundo.
+ESTADO: de viaje al continente.

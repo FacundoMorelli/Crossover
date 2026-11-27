@@ -46,3 +46,4 @@ ESTADO: activo
 - T1480 · "Por eso van con la Legión. Y no solos."
 - T1481 · Agenda del día: consejo a las 11, censo a las 2, embajador de Marley a las 4. "Que se quejen. Levi los visita de nuevo." A Frieda: "¿Tú no puedes ser reina un día?"
 - T1482 · "Llévatela. Hace semanas que se pasea por el palacio como un perro sin dueño." Mensajes: a Eren, que le escriba una carta desde cada puerto o lo manda a buscar con Levi; a Mikasa, que se lleve la bufanda; a Sasha, que no se coma las raciones del barco el primer día.
+- T1483 · En el muelle con capa, sin corona, junto a Erwin.

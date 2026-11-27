@@ -24,3 +24,5 @@ ESTADO: activo
 - T964 · Le inclina la cabeza a Facundo en agradecimiento.
 - T965 · Confirma el año; a Carla, de la mano: "Él lo hizo. Todo. Fue él."
 - (Días 66-119) Visitó a Kiyomi en el barco de Hizuru; volvió con un kimono, incómoda. Se va con Eren al continente en 10 días.
+- T1483 · Escucha a Facundo con la bufanda roja puesta. Zarpa el Día 129; mira la costa sin saludar.
+ESTADO: de viaje al continente.

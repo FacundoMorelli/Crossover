@@ -1481,3 +1481,4 @@ T1479 · SHINGEKI · Salón de Historia · Erwin: plan de la expedición (barco 
 T1480 · SHINGEKI · Salón de Historia · Consejos de Facundo para la expedición (arena, hielo, volcanes, la gente). Erwin pide que se lo diga en persona a Eren y los demás en Shiganshina.
 T1481 · SHINGEKI · Salón de Historia · "En un rato voy a verlos." Erwin se va (puño al corazón). Ymir: "¿Me llevas, o me quedo contando manzanas otra vez?"
 T1482 · SHINGEKI · Salón de Historia · "Vienes conmigo." Ymir acepta. Historia: "Llévatela" y mensajes para la expedición. Ymir: "¿Caballo de metal o tu truco?"
+T1483 · SHINGEKI · Mitras → Shiganshina → costa este · SIMULACIÓN Días 119-129 con la expedición e Ymir. Zarpa el barco de vapor de Marley. Eren: "¡Cuando vuelva, te voy a contar todo lo que vi!"

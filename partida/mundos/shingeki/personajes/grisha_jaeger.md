@@ -20,3 +20,4 @@ ESTADO: vivo (revivido T958), sin titán.
 - T967 · Se pone los anteojos; decide no preguntar.
 - T968 · Llora en silencio en el desayuno. Reconoce a Frieda Reiss en la calle; se queda en el escalón hasta la noche.
 - (Días ~67-119) Visita a Zeke todos los días; se sientan en silencio una hora.
+- T1483 · Saluda a Facundo cada mañana. Lleva una canasta tapada a la casita de Zeke y vuelve con ella vacía. Brinda en la cena.

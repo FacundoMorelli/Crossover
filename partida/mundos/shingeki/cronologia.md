@@ -128,3 +128,5 @@
 - Día 119 07:25 · (T1475) Con la explicación de Facundo (fracción liviana del destilado; bujía limpia), la moto arranca. Levi da tres vueltas al patio del ala este ante medio palacio.
 - Día 119 07:35-09:00 · (T1478) Desayuno en el salón de Historia con Frieda e Ymir. 09:00 llega Erwin con los informes de la expedición de Eren.
 - (Plan, T1479) Día ~129: zarpa la expedición de la Legión al continente en un barco de vapor de Marley (Magath): Eren, Mikasa, Armin, Jean, Connie, Sasha + 12 soldados; 6 meses (Marley, el sur, el desierto, Hizuru).
+- Días 119-129 · (T1483) Facundo e Ymir en Shiganshina con la expedición; consejos de Facundo a los 18 que viajan. Grisha sigue visitando a Zeke.
+- Día 129 07:10 · (T1483) ZARPA LA EXPEDICIÓN de la Legión al continente desde el puerto nuevo de la costa este, en el barco de vapor de Marley: Eren, Mikasa, Armin, Jean, Connie, Sasha y 12 soldados. Seis meses.
