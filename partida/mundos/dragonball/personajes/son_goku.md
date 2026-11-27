@@ -83,3 +83,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1526 · Bulma lo despierta con agua helada ("Ah. Cierto. Me ganó"). Invoca a Shenlong: "¡SAL DE AHÍ, SHENLONG! ¡Y CUMPLE MI DESEO!" Pregunta qué es un SSJ Dios. Cuenta los saiyajin: "Somos cinco. Falta uno."
 - T1527 · "¡Entonces somos seis!" Ritual: SE CONVIERTE EN SUPER SAIYAJIN DIOS (pelo y ojos rojos, más delgado y joven, llama roja tranquila; ki divino que nadie siente). "Esto es raro. Me siento... tranquilo." Sube con Bills a pelear sobre el mar.
 - T1529 · SSJ Dios, se para en el aire entre la esfera gigante de Bills y la Tierra.
+- T1530 · Frena la esfera gigante de Bills y la absorbe hasta hacerla desaparecer. Pierde el pelo rojo pero sigue flotando, sin aura (absorbió el poder divino, canon). Ropa quemada, sonrisa enorme.

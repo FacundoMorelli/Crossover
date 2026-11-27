@@ -23,3 +23,4 @@ RELACIÓN CON FACUNDO (T1522): interés (el gato, el pudín).
 - T1526 · Shenlong se inclina ante él temblando. "Hola, Shenlong. Contesta lo que te pregunten. Rápido." Al oír que faltan saiyajin, mirándose las uñas: "Qué pena."
 - T1527 · Ve al SSJ Dios: "Ahí está. El Super Saiyajin Dios. El del sueño." "Bueno, Goku. Vamos a ver qué tal." Sube a pelear con Goku sobre el mar.
 - T1529 · Carga en la punta del dedo una esfera de energía del tamaño de una ciudad sobre el mar, frente a Goku SSJ Dios (canon de la pelea final).
+- T1530 · Ve a Goku absorber su esfera. Raspón chiquito en la mejilla; encantado. "Bueno. Estuvo bien. Muy bien. Me dio sueño." "La Tierra se queda. Tiene buena comida. Y un saiyajin divertido. Y ese gato." A Facundo: "Y tú. El del bolsillo. Antes de irme, quiero más pudín."

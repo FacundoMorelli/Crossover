@@ -3,116 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1527)
-
-miro
-
-## RESPUESTA 1 (T1527)
-
-> miro
-
-Te quedas en la baranda, junto a Kase, y miras.
-
-Shenlong carraspea. Un ruido de trueno, enorme, que hace temblar las copas de las mesas.
-
-—EN REALIDAD... —dice, con cuidado, mirando de reojo a Bills—. HAY SEIS SAIYAJIN EN ESTE BARCO.
-
-Goku baja la mano.
-
-—¿Seis? —Mira alrededor—. ¿Dónde?
-
-Shenlong gira la cabeza enorme, despacio, por encima de la cubierta, de los invitados, de las mesas. Y se detiene sobre una mujer de pelo negro corto, junto a la mesa de los postres, que casi no comió en toda la fiesta.
-
-—EN EL VIENTRE DE ESA MUJER.
-
-Todos miran a Videl.
-
-Videl se queda quieta. Se pone colorada hasta las orejas. Se lleva una mano a la panza, sin pensarlo, y después la saca, rápido, como si la hubieran pescado.
-
-—Yo... —dice—. Iba a decirlo hoy. En la torta.
-
-Gohan, a su lado, se pone blanco. Después rojo. Después blanco otra vez. Se le caen los anteojos.
-
-—¿Vi... Videl? ¿Tú...? ¿Nosotros...?
-
-—¡VIDEL! —Mr. Satán suelta un grito que se oye en la costa. Corre hacia su hija con los brazos abiertos, tropieza con una silla y se desmaya antes de llegar, de cara contra la cubierta. Buu lo levanta con una mano, preocupado, y lo abanica con un plato.
-
-—¡Lo sabía! —grita Milk, con las dos manos en la cara, llorando—. ¡Lo sabía! ¡Casi no comía! ¡Lo sabía! ¡Voy a ser abuela!
-
-Bulma aplaude. La 18 sonríe. Krilin se ríe. Goten y Trunks no entienden nada y se miran. Piccolo, en la proa, cierra los ojos y algo que casi es una sonrisa le cruza la cara.
-
-Goku se rasca la cabeza. Después se le ilumina la cara entera.
-
-—¡Ah! ¡Entonces somos seis!
-
-Lo hacen ahí mismo, en la cubierta, con el cielo negro, el dragón enroscado alrededor del barco y un dios sentado en una reposera mirando.
-
-Vegeta protesta, pero se pone. Gohan agarra la mano de Videl con una mano y la de Goten con la otra, todavía temblando. Goten agarra la de Trunks. Trunks la de su padre, que la acepta con la cara roja de vergüenza. Y forman un círculo alrededor de Goku, que se para en el medio con los ojos cerrados.
-
-—Concéntrense —dice Shenlong—. Pásenle su energía.
-
-Los cinco brillan. Una luz dorada, tibia, que sube de las manos juntas y entra en Goku por todos lados.
-
-Y Goku cambia.
-
-No como siempre. No hay grito, no hay pelo dorado, no hay rayos. El pelo se le vuelve rojo. Un rojo oscuro, suave, como el fuego de una chimenea. El cuerpo se le afina, más delgado, más joven. Los ojos se le ponen rojos también. Y alrededor no le estalla un aura: le arde una llama tranquila, roja y dorada, que no hace ruido, que no mueve el aire, que no se siente.
-
-Nadie en la cubierta le siente el ki. Ni Vegeta, ni Gohan, ni Piccolo. Se nota en las caras: lo ven ahí, delante, y no lo sienten. Igual que a ti.
-
-Goku abre los ojos. Se mira las manos.
-
-—Oigan... —dice, despacio—. Esto es raro. Me siento... tranquilo.
-
-Shenlong suspira, aliviado, y se inclina ante Bills una última vez.
-
-—YA ESTÁ. EL DESEO SE CUMPLIÓ. ADIÓS.
-
-Se deshace en luz. Las siete esferas suben al cielo, se separan y salen disparadas en siete direcciones distintas. El cielo vuelve a ser azul. Vuelve el mediodía.
-
-Bills se levanta de la reposera, muy despacio. Ya no se mira las uñas. Mira a Goku, con los ojos amarillos muy abiertos y la cola moviéndose sola detrás de él.
-
-—Ahí está —dice, casi con ternura—. El Super Saiyajin Dios. El del sueño.
-
-Sonríe. La sonrisa de gato. La de verdad.
-
-—Bueno, Goku. —Se eleva del suelo—. Vamos a ver qué tal.
-
-Goku sonríe también. Con el pelo rojo y los ojos rojos y la misma cara de chico la mañana de un torneo.
-
-—¡Sí!
-
-Los dos salen disparados hacia el cielo, uno detrás del otro, tan rápido que el aire de la cubierta se va detrás de ellos y les vuela las servilletas a todos. Un segundo después, muy arriba, sobre el mar, se oye el primer choque. Un trueno sin nubes.
-
-Whis no se va con ellos. Se queda junto a la piscina, con el báculo en la mano, mirando hacia arriba con la sonrisa amable de siempre. Después baja la vista hacia la mesa de los postres. Y después, sin ningún motivo, gira la cabeza hacia ti.
-
-Te mira. A ti, al muchacho de ki chiquito con el gato en la baranda. Un segundo largo, tranquilo, curioso.
-
-Sonríe un poco más.
-
-—Disculpe —dice—. ¿No le queda, por casualidad, otro de esos pudines?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1527 · DRAGON BALL · SÁBADO · 13:10    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.248 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda                          ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Goku (SSJ Dios) vs Bills en el     ║
-║ cielo                                        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1528)
+## COMANDO 1 (T1528)
 
 le doy mas pudin
 
-## RESPUESTA 2 (T1528)
+## RESPUESTA 1 (T1528)
 
 > le doy mas pudin
 
@@ -163,11 +58,11 @@ Junta las manos sobre la túnica, donde escondió los pudines.
 
 ---
 
-## COMANDO 3 (T1529)
+## COMANDO 2 (T1529)
 
 me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1529)
+## RESPUESTA 2 (T1529)
 
 > me llamo Facundo Morelli
 
@@ -218,4 +113,79 @@ Después te mira de reojo. Solo un segundo. Como si tuviera curiosidad por ver q
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:20, crucero. Bills carga una esfera gigante sobre la Tierra; Goku SSJ Dios delante. Pánico en la cubierta. Whis tranquilo, mira de reojo a Facundo. Facundo puede actuar.
+## COMANDO 3 (T1530)
+
+goku va a poder devolverla
+
+## RESPUESTA 3 (T1530)
+
+> goku va a poder devolverla
+
+> —Goku va a poder devolverla.
+
+Whis levanta una ceja. Te mira con mucha atención. Después sonríe, despacio.
+
+—¿Usted cree? —Vuelve a mirar el cielo—. Bueno. Veamos.
+
+Arriba, Bills baja el dedo.
+
+La esfera cae.
+
+Despacio al principio, como cae el sol al atardecer, enorme, roja, tapando medio cielo. El mar debajo empieza a hervir. El viento cambia de dirección de golpe y arrastra las servilletas, los globos, los manteles hacia el centro de la cubierta. Las olas se levantan alrededor del crucero, altas, y el barco cabecea como un juguete.
+
+Goku extiende los brazos.
+
+La esfera le llega. Lo toca. Lo envuelve entero, una figura roja chiquita contra una pared de fuego del tamaño de una ciudad.
+
+Y se detiene.
+
+En el cielo, la esfera tiembla. Cruje. Se queda colgada a mitad de camino, encima del mar, sin bajar más. Desde la cubierta se ve, en el centro, un punto rojo más oscuro que todo lo demás, empujando. Las llamas tranquilas del Super Saiyajin Dios contra el fuego de un dios de verdad.
+
+Pasa un segundo. Dos. Diez.
+
+La esfera empieza a achicarse.
+
+No explota. Se encoge. Se va hundiendo en sí misma, alrededor del punto rojo, como agua que se va por un desagüe, más chica, más chica, hasta que ya no es una ciudad, es una montaña, es una casa, es una pelota, es una chispa en las manos de Goku. Y después nada.
+
+El cielo vuelve a ser azul. El mar deja de hervir. Las olas se calman.
+
+En la cubierta, nadie dice nada. Bulma tiene los binoculares en el suelo. Vegeta tiene la boca abierta.
+
+Arriba, a Goku se le apaga el pelo rojo. Le vuelve a ser negro. Pero no cae. Se queda flotando, tranquilo, sin aura, sin transformación, mirándose las manos con cara de no entender. Bills flota delante de él, con las manos detrás de la espalda.
+
+Se quedan así un rato, mirándose.
+
+Después bajan los dos, despacio, y aterrizan en la cubierta, junto a la piscina. Goku tiene la ropa quemada, el traje hecho jirones, la corbata desaparecida. Sonríe de oreja a oreja. Bills tiene un raspón en la mejilla. Un raspón chiquito. Se lo toca con el dedo, lo mira y parece encantado.
+
+—Bueno. —Bosteza. Un bostezo enorme, de gato, que le muestra todos los dientes—. Estuvo bien. Muy bien. —Se frota un ojo—. Me dio sueño.
+
+—¿Entonces, Bills-sama? —pregunta Whis, sin levantarse de la reposera—. ¿La Tierra?
+
+Bills mira alrededor. A la gente. A la mesa de los postres, ya vacía. A Goku. A Kase, en la baranda, que lo mira como siempre, sin ningún respeto.
+
+—La Tierra se queda. —Se encoge de hombros—. Tiene buena comida. Y un saiyajin divertido. Y ese gato.
+
+Después te mira a ti. Se le cierran un poco los ojos de sueño.
+
+—Y tú. —Te señala con un dedo, perezoso—. El del bolsillo. Antes de irme, quiero más pudín.
+
+Whis carraspea, muy bajito, y se aprieta la túnica contra el estómago.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1530 · DRAGON BALL · SÁBADO · 13:35    ║
+║ Crucero de Bulma · junto a la piscina        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.247 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: La Tierra se salva · Bills quiere  ║
+║ más pudín                                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 13:35, crucero. Goku absorbió la esfera; Bills perdonó a la Tierra y, con sueño, le pide a Facundo más pudín antes de irse. Facundo puede actuar.

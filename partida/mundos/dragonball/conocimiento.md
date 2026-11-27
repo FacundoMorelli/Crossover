@@ -117,3 +117,4 @@
 - Whis · T1528 · Ve a Facundo sacar seis pudines más del bolsillo; nota "bolsillo interesante, gato interesante, casi nada de ki". Sabe que la idea del dragón fue de Facundo.
 - Whis · T1529 · Por Facundo: su nombre, Facundo Morelli.
 - Todos · T1529 · Ven la esfera gigante de Bills en el cielo (visible desde la Ciudad del Oeste).
+- Whis · T1530 · Por Facundo: Goku iba a poder devolver la esfera (acertó).
