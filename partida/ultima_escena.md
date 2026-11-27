@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1548)
-
-esta bien
-
-## RESPUESTA 1 (T1548)
-
-> esta bien
-
-> —Está bien.
-
-—Maravilloso. —Whis junta las manos, encantado—. A Bills-sama le va a dar mucho gusto. Bueno, cuando se despierte. Puede tardar.
-
-Kase se baja de la silla y se te sube al hombro, sin que se lo pidas, como si ya supiera que se van.
-
-Goku ya está en la puerta, con un pedazo de pollo en una mano y el otro brazo metiéndose en la manga del gi naranja, que alguien le tiró desde el cuarto. Goten lo agarra de la pierna.
-
-—¡Papá! ¿Otra vez te vas?
-
-—¡Solo un ratito, Goten! —Goku le revuelve el pelo—. ¡Vuelvo más fuerte!
-
-Milk recupera la voz de golpe, como si Whis le hubiera soltado algo invisible de la garganta.
-
-—¡GOKU! ¡Mañana tienes que arar el campo de abajo! ¡Y la semana que viene es el cumpleaños de...!
-
-—¡Facundo me ayuda cuando vuelva!
-
-—¡Facundo se va CONTIGO!
-
-Goku mira a Milk. Te mira a ti. Se rasca la cabeza.
-
-—Ah. Cierto.
-
-Milk se tapa la cara con las dos manos. Después se las saca, camina hasta ti y te pone un táper enorme en las manos, que sacó de quién sabe dónde, lleno hasta arriba de arroz, carne y verduras, tibio todavía.
-
-—Para el viaje —dice, muy seria—. Y si ese dios gato no te da de comer, me avisas. —Te mira a los ojos—. Y vuelve. Tú vuelves. Él también, pero tú vuelves.
-
-Gohan te da la mano. Videl levanta el puño, con media sonrisa. Goten te abraza la cintura, después le da un beso en la cabeza a Kase, que lo permite.
-
-Afuera, en el claro, bajo las estrellas, Vegeta espera de brazos cruzados con el traje de entrenamiento y la cara de siempre. Te ve salir detrás de Goku. No dice nada. Solo resopla.
-
-Whis se para en el medio del claro y apoya la base del báculo en el pasto.
-
-—Pongan una mano en mi espalda, por favor. Los tres. —Sonríe—. Y el gato, que se agarre fuerte.
-
-Goku pone la mano. Vegeta la pone de mala gana, lo más lejos posible de la de Goku. Pones la tuya. Kase te clava las uñas en el hombro del sobretodo.
-
-Whis golpea otra vez el pasto con el báculo.
-
-Y el Monte Paoz desaparece.
-
-Están adentro de una burbuja de luz blanca, que viaja. Muy rápido. Tan rápido que las estrellas, afuera, ya no son puntos: son líneas largas de colores que pasan a los costados, como lluvia vista desde un tren. Galaxias enteras se abren y se cierran en segundos. Nebulosas rojas, azules, verdes, que pasan como humo. No hay ruido. Solo el zumbido suave de la burbuja y la respiración de Goku, que tiene la cara pegada al borde de luz y los ojos enormes.
-
-—¡Guau! —dice—. ¡Esto es más rápido que la nave de Bulma!
-
-—Todo es más rápido que la nave de Bulma —dice Vegeta.
-
-Whis mira hacia adelante, tranquilo, con el báculo en la mano. Después gira un poco la cabeza hacia ti, con una sonrisa educada y los ojos brillantes.
-
-—Vamos a tardar un ratito. Media hora, más o menos. —Una pausa muy corta—. Facundo-san, por casualidad... ¿trajo pudín?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1548 · DRAGON BALL · DOMINGO · 20:45   ║
-║ Espacio · burbuja de viaje de Whis           ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.245 · 0 zeni                  ║
-║ Energía 70% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro, con las uñas clavadas    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Viajar al planeta de Bills con     ║
-║ Goku, Vegeta y Whis                          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1549)
+## COMANDO 1 (T1549)
 
 le doy un pudin
 
-## RESPUESTA 2 (T1549)
+## RESPUESTA 1 (T1549)
 
 > le doy un pudin
 
@@ -129,11 +52,11 @@ Pero tampoco le saca los ojos de encima al bolsillo de tu sobretodo.
 
 ---
 
-## COMANDO 3 (T1550)
+## COMANDO 2 (T1550)
 
 les doy a los dos
 
-## RESPUESTA 3 (T1550)
+## RESPUESTA 2 (T1550)
 
 > les doy a los dos
 
@@ -198,4 +121,67 @@ Whis se da vuelta hacia ti. Te mira, con la cabeza ladeada y una sonrisa curiosa
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, al pie de la pirámide. Bills duerme. Goku y Vegeta, con caparazones gigantes, a punto de correr. Whis pregunta a Facundo si entrena o espera a Bills con el pudín. Quedan 3 pudines. Facundo puede decidir.
+## COMANDO 3 (T1551)
+
+voy a mirar mientras
+
+## RESPUESTA 3 (T1551)
+
+> voy a mirar mientras
+
+> —Voy a mirar, mientras.
+
+—Me parece muy sensato. —Whis sonríe, con un leve gesto de la cabeza—. Mirar también es aprender.
+
+Hace aparecer, de la nada, dos sillas de playa a rayas y una mesita con una jarra de jugo y dos vasos. Se sienta en una. Te ofrece la otra con la mano.
+
+Goku y Vegeta se ponen los caparazones en la espalda, con correas, gruñendo. Las piernas se les hunden en el suelo hasta los tobillos. Y empiezan a correr.
+
+Al principio, Goku se ríe. Vegeta no. A la primera vuelta al planeta, que tardan veinte minutos, ninguno de los dos se ríe. A la tercera, Goku tiene la lengua afuera y Vegeta está rojo como un tomate, apretando los dientes para no mostrar cansancio. A la quinta, se tropiezan los dos con una raíz que sale del suelo justo cuando pasan, y ruedan cuesta abajo por una ladera, con los caparazones encima, como dos tortugas de verdad.
+
+Whis toma jugo.
+
+—Les falta mucho —dice, tranquilo—. Pero tienen ganas. Eso es lo más difícil de enseñar.
+
+Kase baja de tu hombro y se sube a la mesita. Olfatea la jarra de jugo. La desprecia. Se echa entre los dos vasos y se duerme al sol de las lunas.
+
+Las horas pasan raro en ese planeta. Las lunas se mueven por el cielo violeta, despacio, una detrás de otra. Goku y Vegeta dan vueltas y vueltas. A la décima, Whis se levanta, va hasta ellos y les explica algo con dos dedos, tocándoles la frente, la nuca, el pecho, hablando de moverse sin pensar, de no gastar ki, de que el cuerpo sabe solo. Goku asiente con muchas ganas. Vegeta asiente con los brazos cruzados. Después siguen corriendo, y corren distinto.
+
+Whis vuelve a sentarse. Te mira de reojo, una vez, entre dos tragos de jugo, como quien mira a alguien que le parece interesante y no sabe del todo por qué. No dice nada.
+
+Ya tarde, cuando la luna más grande está sola en lo alto del cielo, el ronquido de la pirámide se corta.
+
+Silencio.
+
+Después, un bostezo. Enorme, largo, que se oye en todo el planeta. Los pájaros raros se callan.
+
+Arriba de todo, en lo alto de los escalones de la pirámide, se abre una puerta. Sale una figura violeta, flaca, en ropa de dormir, rascándose la panza, con las orejas caídas y los ojos medio cerrados. Mira hacia abajo, hacia el pie de la pirámide. Hacia las sillas de playa. Hacia ti.
+
+Se le paran las orejas de golpe.
+
+Baja. No camina: aparece. Un segundo está arriba, y al siguiente está parado delante de tu silla, inclinado sobre ti, con la cara a un palmo de la tuya y los ojos amarillos muy abiertos.
+
+—El del bolsillo —dice Bills, con la voz todavía dormida—. Viniste.
+
+Olfatea el aire. Una vez. Dos.
+
+—Huele a pudín.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1551 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · sillas de playa         ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.244 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en la mesita                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills despierto · quedan 3         ║
+║ pudines                                      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Facundo miró el entrenamiento con Whis. Bills se despertó y está inclinado frente a él: "El del bolsillo. Viniste. Huele a pudín." Quedan 3 pudines. Facundo puede actuar.

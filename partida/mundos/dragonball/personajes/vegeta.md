@@ -117,3 +117,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 - T1548 · Espera afuera en el claro; resopla al ver a Facundo. Pone la mano en la espalda de Whis lo más lejos posible de Goku. "Todo es más rápido que la nave de Bulma."
 - T1549 · Mira al frente, digno, pero no le saca los ojos de encima al bolsillo de Facundo (pudín).
 - T1550 · "Tch." Come el pudín despacio, raspa el vasito dos veces y lo guarda en un bolsillo para no tirarlo al espacio. "No está mal." Caparazón gigante para correr.
+- T1551 · Corre con el caparazón, rojo, apretando los dientes; rueda cuesta abajo con Goku. Escucha a Whis con los brazos cruzados.

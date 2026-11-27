@@ -131,3 +131,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1543 · Se baja solo del hombro antes de la cámara de gravedad y se sienta en el pasto a mirar.
 - T1546 · Mira la cámara de gravedad por la ventanilla desde el pasto; bosteza.
 - T1548 · Se sube solo al hombro cuando Facundo acepta ir; Goten le da un beso en la cabeza y lo permite. Viaja en la burbuja de Whis con las uñas clavadas en el sobretodo.
+- T1551 · Desprecia el jugo de Whis; duerme en la mesita entre los vasos al sol de las lunas.
