@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1704)
-
-me teletransporto atras de ellos y los dejo inconscientes y despues al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
-
-## RESPUESTA 1 (T1704)
-
-> me teletransporto atrás de ellos y los dejo inconscientes y después al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
-
-Dos dedos en la frente. La Teletransportación.
-
-Para Aki, para Kobeni, para Denji descalzo a mitad de camino, para Power en su fuerte de almohadas, estás ahí, con el gato en brazos, y de pronto no estás. Ni un ruido. Ni un movimiento de aire. El lugar donde estabas parado queda vacío.
-
-Del otro lado de la puerta, en el pasillo, apareces a la espalda de Kurose.
-
-Él todavía tiene los nudillos levantados para un cuarto golpe. Un toque seco en la nuca, justo donde va. Se le aflojan las rodillas. La bandeja se le cae de las manos: la atajas en el aire con la mano libre, con las tazas, la tetera, la pila de sándwiches y la pila de mantas, sin que se vuelque nada. Pegado con cinta en la parte de abajo hay un revólver corto, de caño recortado.
-
-Tendo alcanza a girar la cabeza. Nada más. Otro toque. Se desliza por la pared hasta quedar sentado en la alfombra bordó, con las piernas estiradas.
-
-Dejas la bandeja en el piso, junto a la puerta.
-
-Bajas la escalera en dos pasos. En el descanso del quinto, el tercero está sentado en un escalón, igual que lo sentiste: traje negro, cara de nadie, una escopeta de caño largo apoyada en las rodillas. Levanta la vista hacia ti justo cuando ya terminó. Lo atajas antes de que ruede escaleras abajo, le sacas la escopeta de las manos y la guardas en el inventario.
-
-Lo subes al hombro, del lado que no ocupa Kase, y vuelves al sexto. Lo dejas sentado al lado de Tendo, contra la pared. Los tres en fila, dormidos, con las cabezas caídas sobre el pecho.
-
-A la luz del pasillo se nota lo que el ki ya te había dicho. En la sien de Kurose, donde tocaste, la piel se arrugó un poco, como un papel mojado, y debajo, en el borde de la mandíbula, hay una costura finísima, casi invisible, donde la cara de alguien termina y empieza otra.
-
-Te paras frente a la 604. Del otro lado de la puerta se oye un silencio absoluto. La tele, con el programa de preguntas, y nada más.
-
-Le dices a Aki, a través de la puerta, que ya puede abrir.
-
-Un segundo. Dos.
-
-Se descorre la cadena. Gira la llave. La puerta se abre apenas, lo que da la cadena puesta, y aparece el ojo de Aki, el normal, y la punta de la katana. Ve el pasillo. Ve la bandeja en el piso. Ve a los tres sentados contra la pared, dormidos. Te ve a ti, con Kase en brazos.
-
-Cierra la puerta. Saca la cadena del todo. La abre entera.
-
-Detrás de él, en fila, todos: Kobeni con el cuchillo en las dos manos, temblando de pies a cabeza. Power, con una almohada levantada como un arma. Denji, descalzo, con la boca abierta de par en par.
-
-—Desapareciste —dice Aki. La voz le sale muy tranquila, demasiado—. Estabas acá. A un paso. Y desapareciste.
-
-Mira a los tres de la pared. Ve el revólver pegado con cinta debajo de la bandeja. Se agacha, despacio, y con la punta de la katana le levanta la barbilla a Kurose. A la luz del pasillo, ve la costura.
-
-Se queda quieto, agachado, mirándola.
-
-—¡Power te lo dijo! —grita Power desde la puerta, triunfal, señalando con la almohada—. ¡Power lo dijo! ¡Olía raro! ¡Power siempre tiene razón!
-
-Denji no mira a los asesinos. Mira la bandeja.
-
-—¿Los sándwiches se pueden comer igual?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1704 · CHAINSAW MAN · DÍA 1 · 20:53    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1705)
+## COMANDO 1 (T1705)
 
 si, se pueden comer
 
-## RESPUESTA 2 (T1705)
+## RESPUESTA 1 (T1705)
 
 > si, se pueden comer
 
@@ -125,11 +58,11 @@ Baja la voz.
 
 ---
 
-## COMANDO 3 (T1706)
+## COMANDO 2 (T1706)
 
 no sentí a nadie mas pero ahi abajo estan los reales kurose y tendo
 
-## RESPUESTA 3 (T1706)
+## RESPUESTA 2 (T1706)
 
 > no sentí a nadie mas pero ahí abajo están los reales kurose y tendo
 
@@ -190,4 +123,51 @@ Aki duda un segundo. Después te tiende la radio. Negra, grande, con la antena t
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:57, pasillo del 6.º piso del refugio (calle Kanda). Aki reportó a la central: impostores neutralizados vivos, los reales muertos en el lobby; pide recolección e interrogatorio; nadie de Kioto se acerque. Dijo que lo hizo "él" (Facundo). Makima por radio: "Aki. Muy bien hecho. Quédense donde están. El equipo llega en veinte minutos. ¿El señor Morelli está contigo? Pásamelo, por favor." Aki le tiende la radio a Facundo. Denji dejó el sándwich. Kobeni horrorizada.
+## COMANDO 3 (T1707)
+
+lo agarro, hola señorita makima
+
+## RESPUESTA 3 (T1707)
+
+> lo agarro, hola señorita makima
+
+Agarras la radio. Pesa más de lo que parece. Está tibia de la mano de Aki.
+
+> —Hola, señorita Makima.
+
+—Señor Morelli. —La voz llega limpia, sin estática, suave como si te hablara al oído—. Ya van dos veces esta noche.
+
+Una pausa corta. Del otro lado no se oye nada más: ni ruido de oficina, ni teléfonos, ni pasos. Solo ella.
+
+—Primero la avenida. Ahora esto. —Lo dice sin apuro, como quien repasa una lista de compras—. Tres asesinos extranjeros, con la piel de dos de mis hombres puesta encima, a una puerta de distancia de Denji. Y usted los durmió a los tres sin despertar a nadie. Aki me dice que ni siquiera abrió la puerta. —Otra pausa—. Gracias. De verdad.
+
+En el pasillo, Denji te mira con la boca abierta. Power se chupa la mayonesa de los dedos, mirándote de reojo. Aki está apoyado en la pared, con los brazos cruzados, escuchando.
+
+—Le debo una explicación y una paga —sigue Makima—. Mañana a la mañana le mando un auto. Quiero que desayunemos juntos, usted y yo, y que me diga cuánto quiere cobrar. Cualquier número. Y que me cuente, si le parece bien, algunas cosas que me tienen con mucha curiosidad. —Se oye algo que podría ser una sonrisa—. No muchas. Algunas.
+
+La estática chisporrotea un instante y vuelve a callarse.
+
+—Pero antes, una sola pregunta, porque me la estoy haciendo desde que Aki habló. —La voz baja un poco más, casi un susurro—. Antes de abrir, usted ya sabía que eran impostores. Sabía dónde estaba el tercero. Sabía dónde estaban los cuerpos, en un piso que no había pisado.
+
+Silencio.
+
+—¿Cómo lo supo, señor Morelli?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1707 · CHAINSAW MAN · DÍA 1 · 20:58    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:58, pasillo del 6.º piso, Facundo con la radio. Makima: "Ya van dos veces esta noche." Le agradece. Mañana a la mañana le manda un auto: desayuno los dos, que diga cuánto quiere cobrar (cualquier número) y que le cuente "algunas cosas". Pregunta: "Antes de abrir, usted ya sabía... Sabía dónde estaban los cuerpos, en un piso que no había pisado. ¿Cómo lo supo, señor Morelli?" Aki, Denji y Power escuchan.

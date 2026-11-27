@@ -40,3 +40,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1704 · AKI, POWER, DENJI y KOBENI: Facundo desaparece y aparece en otro lugar al instante (Teletransportación), y deja inconscientes a tres asesinos sin ruido.
 - T1705 · AKI dedujo: los impostores llevan la piel de los Kurose y Tendo reales; Facundo sabía antes de abrir y supo dónde estaba el tercero sin verlo.
 - T1706 · AKI, DENJI, POWER, KOBENI saben (por Facundo) que los reales Kurose y Tendo están abajo. CENTRAL y MAKIMA saben (por Aki) que Facundo neutralizó a los tres impostores vivos y que los reales están muertos en el lobby.
+- T1707 · MAKIMA dedujo (por el reporte de Aki) que Facundo percibe cosas a distancia sin verlas (impostores, tercero, cuerpos).
