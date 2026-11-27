@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1630)
-
-subo con ellos
-
-## RESPUESTA 1 (T1630)
-
-> subo con ellos
-
-Subes con ellos.
-
-Goten te arrastra de la mano hasta el primer carrito. Hay cuatro lugares, de a dos. Adelante, Trunks y Vegeta. Atrás, Goten y tú. Goten se sienta, rebota en el asiento, se ata la toalla más fuerte al cuello y se agarra de la barra con las dos manos, con una sonrisa que le ocupa toda la cara.
-
-El muchacho de uniforme baja las barras de seguridad. Clac, clac. A Vegeta le queda la barra a la altura del pecho y la mira con desprecio, como si fuera un insulto personal.
-
-—Esto no me sostendría ni un segundo —murmura.
-
-—Papá, no la rompas —dice Trunks.
-
-—No la voy a romper.
-
-El carrito arranca.
-
-Sube despacio, la subida larga del principio, clac, clac, clac, con la cadena tirando por debajo. El parque se va haciendo chiquito: las carpas de colores, la rueda gigante, los puestos de comida, la gente como hormigas. A lo lejos, la Capital del Oeste, con sus cúpulas brillando al sol de la tarde. Y abajo, en un banco a la sombra, un puntito blanco y azul que no se mueve.
-
-—¡Ya llegamos arriba! —grita Goten—. ¡Ya llegamos, ya llegamos!
-
-El carrito se detiene un segundo, en la punta. Se queda colgando sobre el vacío.
-
-Y cae.
-
-Goten grita. Trunks grita. La gente de los carritos de atrás grita. Es un grito largo, feliz, con el viento metiéndose en la boca. Los saiyajin vuelan más rápido que esto desde que tienen cuatro años, y aun así, en un carrito pegado a un riel, sin control de nada, es otra cosa.
-
-El primer loop los da vuelta cabeza abajo. La toalla de Goten se le vuela de la espalda y le tapa la cara. Goten se ríe tanto que se ahoga.
-
-Vegeta no grita. Va sentado derecho, con los brazos cruzados por encima de la barra de seguridad, la gorra milagrosamente en su lugar y una cara de piedra absoluta, como si estuviera sentado en un sillón.
-
-Pero en el segundo loop, cuando el carrito gira de costado y baja en espiral, a Trunks se le escapa un grito más agudo, de chico de verdad, y Vegeta, sin darse cuenta, descruza un brazo y le pone la mano en la cabeza para que no se golpee.
-
-Lo deja ahí hasta que el carrito frena.
-
-El viaje termina con un frenazo largo, bajo un techo, en la plataforma de salida. Las barras se levantan. Goten tiene el pelo parado, la toalla en la cabeza y lágrimas de risa. Trunks está despeinado y sin aire.
-
-—¡Otra vez! —gritan los dos al mismo tiempo—. ¡Otra vez, otra vez!
-
-Al bajar, al costado de la salida, hay una cabina con una pantalla grande. Muestra las fotos que saca una cámara automática en la caída más grande del recorrido. En la pantalla aparece el primer carrito: Goten con la boca abierta en un grito, Trunks con los ojos cerrados, tú. Y adelante, Vegeta, de brazos cruzados, con la gorra puesta, la camiseta rosada de "BAD MAN" y la cara más seria del universo.
-
-Trunks se pega a la pantalla.
-
-—¡Papá, mira! ¡Saliste re serio! —Se da vuelta hacia ti, con los ojos brillantes y un plan en la cara—. Facundo... ¿me la compras? ¡Es para mostrársela a mamá!
-
-Debajo de la pantalla, un cartelito: "Foto impresa: 1.500 zeni".
-
-Vegeta, detrás, se pone rojo otra vez.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1630 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Parque · salida de la montaña rusa · tarde   ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en un banco, a la sombra               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1631)
+## COMANDO 1 (T1631)
 
 cambio unos fragmentos y compro la foto
 
-## RESPUESTA 2 (T1631)
+## RESPUESTA 1 (T1631)
 
 > cambio unos fragmentos y compro la foto
 
@@ -137,11 +67,11 @@ En el banco, a la sombra, Kase los mira desde lejos. No parece que le interese.
 
 ---
 
-## COMANDO 3 (T1632)
+## COMANDO 2 (T1632)
 
 no, no come eso, compro algodones de azúcar para todos
 
-## RESPUESTA 3 (T1632)
+## RESPUESTA 2 (T1632)
 
 > no, no come eso, compro algodones de azúcar para todos
 
@@ -199,4 +129,94 @@ Vegeta, de espaldas, deja de masticar. Gira la cabeza lo justo para mirarte por 
 
 ---
 
-ESTADO AL CIERRE: Algodones para todos (uno guardado para Goku). Trunks y Goten piden la técnica ahora. Vegeta mira. Facundo puede actuar.
+## COMANDO 3 (T1633)
+
+les enseñó otra tecnica
+
+## RESPUESTA 3 (T1633)
+
+> les enseñó otra tecnica
+
+Miras alrededor. Hay demasiada gente: familias, filas, chicos corriendo con globos.
+
+Les haces una seña con la cabeza para que te sigan.
+
+Goten y Trunks te siguen al trote, con los algodones a medio comer. Vegeta viene detrás, despacio, con su algodón en la mano y la cara de quien no está siguiendo a nadie, solo caminando para el mismo lado. Al pasar por el banco, Kase salta al suelo y se suma a la fila, con la cola en alto.
+
+Detrás del parque, pasando la cerca de los juegos, hay un campo abierto de pasto alto, con unos árboles al fondo y nadie a la vista. Solo grillos y el ruido lejano de la montaña rusa.
+
+Te paras en el medio del pasto. Los dos chicos frente a ti. Vegeta, apoyado en un árbol, de brazos cruzados. Kase, sentado en una piedra.
+
+Levantas las dos manos, con las palmas hacia arriba.
+
+En cada una se te enciende una esfera de ki, chiquita, del tamaño de una pelota de tenis. Las dos de luz blanca, pero no iguales: la de la mano derecha gira hacia un lado y la de la izquierda hacia el otro, rápido, zumbando.
+
+Las sueltas al mismo tiempo, hacia adelante.
+
+No van derecho. Se buscan. Se van acercando en el aire y empiezan a girar una alrededor de la otra, como dos bichos de luz que se persiguen, cada vez más cerca, cada vez más rápido. El zumbido se vuelve un silbido agudo.
+
+Y se tocan.
+
+No explotan enseguida. Se funden en una sola, más grande que las dos juntas, del tamaño de una sandía, temblando, con los dos giros enroscados adentro como un remolino. La esfera viaja unos metros más, sola, y se estrella contra el suelo del fondo del campo.
+
+La explosión levanta un círculo de tierra y pasto. Cuando se asienta, hay un pozo redondo, liso, mucho más hondo de lo que harían dos esferas así por separado.
+
+Los grillos se callan.
+
+Goten tiene la boca abierta y el algodón de azúcar colgando. Trunks se olvidó de que tenía la foto en la mano.
+
+Contra el árbol, Vegeta deja de masticar. Mira el pozo con los ojos entrecerrados, muy serio.
+
+—Ki puro —murmura—. Dos giros opuestos. Uno empuja y el otro tira. Cuando se encuentran, se multiplican. —Una pausa—. Hmph. Eso lo puede hacer un saiyajin.
+
+—¡Yo primero! —grita Trunks.
+
+—¡No, yo! —Goten tira el algodón al pasto.
+
+Los dos se paran uno al lado del otro, con las manos extendidas. A Trunks se le enciende una esfera enseguida, en la derecha, girando para un lado. A Goten le cuesta un poco más, pero le sale, en la izquierda, girando para el otro.
+
+La sueltan.
+
+Las dos esferas salen torcidas. Se cruzan sin tocarse, siguen de largo, dan media vuelta solas en el aire, confundidas, y vuelven derecho hacia los chicos.
+
+Les explotan en la cara a los dos al mismo tiempo.
+
+Cuando se va el humo, Goten y Trunks están sentados en el pasto, negros de hollín de la frente al mentón, despeinados, con el pelo humeando. Se miran. Se empiezan a reír.
+
+—¡Otra vez! —dicen los dos.
+
+Esta vez se miran antes. Trunks cuenta hasta tres. Las sueltan juntos.
+
+Las esferas se buscan. Giran una alrededor de la otra, torpes, a los tirones, una más rápido que la otra, como dos chicos bailando sin ritmo. Se acercan. Se tocan.
+
+Se funden.
+
+La esfera nueva sale chueca, deformada, del tamaño de un melón, y explota a mitad de camino, antes de llegar al suelo. Pero explota grande. Mucho más grande que cualquiera de las dos solas.
+
+Goten y Trunks se quedan quietos, mirando el humo en el aire.
+
+Después gritan, se abrazan, saltan, se caen al pasto, se vuelven a parar.
+
+—¡Lo hicimos! ¡Lo hicimos! —Trunks se da vuelta hacia ti, negro de hollín, con los ojos enormes—. ¡¿Cómo se llama?! ¡¿Cómo se llama la técnica?!
+
+—¡Tiene que tener nombre! —Goten salta—. ¡Uno genial!
+
+Contra el árbol, Vegeta termina el algodón de azúcar, en silencio. No dice nada. Pero no le saca los ojos de encima a Trunks.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1633 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Campo detrás del parque · tarde              ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sentado en una piedra                  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Técnica de esferas gemelas enseñada; Goten y Trunks la lograron a medias. "¡¿Cómo se llama la técnica?!" Facundo puede ponerle nombre.

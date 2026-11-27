@@ -53,3 +53,4 @@ ESTADO: bien.
 - T1630 · Montaña rusa con Facundo: se le vuela la toalla a la cara en el loop; se ríe hasta ahogarse. "¡Otra vez!"
 - T1631 · "¡Facundo! ¡Algodón de azúcar! ¡Mi papá dijo que le lleváramos! ¡Y yo quiero uno! ¡Y Trunks se le cayó el suyo! ¡Y Kase!" "¿Los gatos comen algodón de azúcar?"
 - T1632 · Algodón de azúcar de Facundo ("Bueno. Más para nosotros."). "¡La técnica, la técnica!"
+- T1633 · APRENDE de Facundo, con Trunks, la técnica de esferas gemelas de giro opuesto (sin nombre). Le cuesta un poco más encender la esfera. Logra la fusión al segundo intento. "¡Tiene que tener nombre! ¡Uno genial!"
