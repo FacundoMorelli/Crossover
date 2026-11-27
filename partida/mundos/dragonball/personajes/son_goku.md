@@ -147,3 +147,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1625 · "Eso es justo, Goten. La Bola Giratoria es tuya y nada más. Trunks estuvo muy enojado una semana por eso." (Trunks rompió la cámara de gravedad.) "¡Ah, sí, eso es cierto! ¡Qué buena idea, Goten!"
 - T1626 · Milk no lo deja ir al parque: pela 20 kg de papas. "Tráiganme algodón de azúcar..."
 - T1635 · Recibe de Facundo el algodón de azúcar entre cáscaras de papa: "¡Facundo, eres el mejor!"
+- T1644 · "¡Para mí! ¡El que sigue para mí!" Devora su pedazo en dos bocados.

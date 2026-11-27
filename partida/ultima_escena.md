@@ -3,59 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1641)
-
-en algun momento si, pero vuelvo a todos los lugares a los que viajo, que sea el mas lindo no significa que quiera quedarme a vivir en algun lado, por ahora no voy a parar de viajar, pero siempre vuelvo
-
-## RESPUESTA 1 (T1641)
-
-> en algun momento si, pero vuelvo a todos los lugares a los que viajo, que sea el mas lindo no significa que quiera quedarme a vivir en algun lado, por ahora no voy a parar de viajar, pero siempre vuelvo
-
-> —En algún momento, sí. Pero vuelvo a todos los lugares a los que viajo. Que sea el más lindo no significa que quiera quedarme a vivir ahí. Por ahora no voy a parar de viajar, pero siempre vuelvo.
-
-Erasa no dice nada enseguida.
-
-Te mira un rato largo, con el tenedor quieto en la mano. Se le nota que la respuesta le gustó y no le gustó al mismo tiempo, y que está tratando de decidir cuál de las dos cosas pesa más.
-
-—Siempre vuelves —repite, despacio.
-
-Debajo de la mesa, su pie se queda donde está, contra el tuyo.
-
-—Mi papá decía lo mismo cuando se iba de viaje de trabajo. —Se ríe, bajito, mirando el plato—. Bueno, él siempre volvía con regalos horribles de los aeropuertos. Imanes, llaveros, una vez un sombrero con forma de pez. Pero volvía.
-
-Levanta la vista. Ya no está roja. Tiene una sonrisa distinta, más tranquila.
-
-—Entonces está bien. —Se encoge de hombros—. No te voy a pedir que te quedes. Nos acabamos de conocer, sería raro. Y además yo nunca fui a ningún lado, así que no puedo decirle a un viajero que deje de viajar.
-
-En la cabecera, Bills termina el último pescado de la fuente, suspira, y se queda mirando la torta de chocolate del centro de la mesa con una intensidad peligrosa.
-
-Erasa lo ve. Se le escapa una risa.
-
-Después se da vuelta hacia ti otra vez, con los ojos celestes brillando bajo las lucecitas, y apoya la barbilla en la mano.
-
-—Pero, si siempre vuelves... —La pregunta le sale casi sin querer—. ¿Me vas a venir a ver a mí también? ¿O solo a las islas de hielo y volcán?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1641 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:40     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: echado sobre el ratón de juguete       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1642)
+## COMANDO 1 (T1642)
 
 a ti tambien
 
-## RESPUESTA 2 (T1642)
+## RESPUESTA 1 (T1642)
 
 > a ti tambien
 
@@ -113,11 +65,11 @@ A Erasa le tiembla el cuchillo en la mano. Te mira, de reojo, pidiéndote auxili
 
 ---
 
-## COMANDO 3 (T1643)
+## COMANDO 2 (T1643)
 
 esta bien, la ayudo
 
-## RESPUESTA 3 (T1643)
+## RESPUESTA 2 (T1643)
 
 > esta bien, la ayudo
 
@@ -179,4 +131,64 @@ No suelta el cuchillo. Tampoco tu mano.
 
 ---
 
-ESTADO AL CIERRE: Torta cortada a la perfección; a Bills le gustó. Erasa, muy cerca, sin soltar la mano de Facundo: "Tus manos no tiemblan nunca, ¿no? Ni con un dios mirándote." Facundo puede contestar.
+## COMANDO 3 (T1644)
+
+no hay que tener miedo, no creo que haga nada aunque cortes un poco mal la torta
+
+## RESPUESTA 3 (T1644)
+
+> no hay que tener miedo, no creo que haga nada aunque cortes un poco mal la torta
+
+> —No hay que tener miedo. No creo que haga nada, aunque cortes un poco mal la torta.
+
+—Sí haría algo —dice Bills, con la boca llena, sin abrir los ojos.
+
+Erasa se pone pálida.
+
+Whis, a su lado, se ríe detrás de la servilleta.
+
+—Bills-sama está bromeando, señorita.
+
+—No estoy bromeando.
+
+—Está bromeando —repite Whis, con la misma sonrisa.
+
+Erasa mira a Bills. Mira a Whis. Te mira a ti. Y de repente se ríe, una risa corta, nerviosa, que le sale por la nariz y que trata de tapar con la mano libre. Se le escapa igual. Es contagiosa: Goten se ríe sin saber de qué, después Trunks, después Goku, con la boca llena de arroz.
+
+Bills abre un ojo y los mira a todos, ofendido. Después vuelve a la torta.
+
+Erasa suelta el cuchillo, por fin, y con él tu mano. Pero lo hace despacio, como quien suelta algo que le gustaría seguir agarrando.
+
+—Bueno —dice, todavía riéndose, acomodándose el vestido—. Ahora corto yo sola. A ver si aprendí.
+
+—¡Para mí! —Goku levanta el plato—. ¡El que sigue para mí!
+
+—¡No, para mí! —Goten.
+
+—¡Yo llegué primero a la mesa! —Trunks.
+
+Erasa corta. Le sale bien. No perfecto, pero bien. Un pedazo para Goku, que lo devora en dos bocados. Uno para Goten, uno para Trunks, uno para Videl, uno para Gohan. Bulma, Milk. Vegeta, que no dice nada pero levanta el plato. Whis, que hace una reverencia. Cada pedazo le sale un poco más derecho que el anterior, y cada vez se muerde el labio de concentración.
+
+El último lo corta más despacio que todos. Le pone más virutas encima, con los dedos, una por una. Lo pone en un plato limpio.
+
+Te lo da a ti.
+
+—Este te lo corté yo sola. Sin ayuda. —Se sienta a tu lado, otra vez con las mejillas rojas, y apoya la barbilla en las manos, mirándote—. Pruébalo. Y dime la verdad. ¿Te gusta?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1644 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:55     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa repartió la torta; el último pedazo, cortado sola y con más virutas, para Facundo: "Pruébalo. Y dime la verdad. ¿Te gusta?" Facundo puede actuar.

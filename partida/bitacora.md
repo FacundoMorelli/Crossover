@@ -1642,3 +1642,4 @@ T1640 · DRAGON BALL · Corporación Cápsula · Le roza el pie a Erasa (ella no
 T1641 · DRAGON BALL · Corporación Cápsula · "Por ahora no voy a parar de viajar, pero siempre vuelvo." Erasa: "No te voy a pedir que te quedes." "¿Me vas a venir a ver a mí también?"
 T1642 · DRAGON BALL · Corporación Cápsula · "A ti también." Erasa sonríe para él; empujoncito con el pie. Bills exige la torta; Erasa debe cortarla: "¿Me ayudas? Me tiemblan las manos."
 T1643 · DRAGON BALL · Corporación Cápsula · Ayuda a Erasa a cortar la torta (mano sobre mano). A Bills le gusta: "Tu madre sabe lo que hace." Erasa, muy cerca: "Tus manos no tiemblan nunca, ¿no?"
+T1644 · DRAGON BALL · Corporación Cápsula · "No hay que tener miedo." Bills: "Sí haría algo." (Whis: "Bromea.") Erasa ríe, corta sola para todos; el último pedazo para Facundo: "¿Te gusta?"

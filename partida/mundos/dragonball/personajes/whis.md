@@ -85,3 +85,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1620 · "Y si va Bills-sama, voy yo. Para cuidarlo. Claro."
 - T1635 · Sentado al lado de Bills con té y la libretita.
 - T1639 · Desde la libretita, a Erasa (por los barcos de madera): "Algunos son de madera."
+- T1644 · "Bills-sama está bromeando, señorita." "Está bromeando." Reverencia al recibir su pedazo de torta.
