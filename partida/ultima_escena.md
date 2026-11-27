@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1537)
-
-acaricio a kase y le doy un beso en la cabeza, te amo hijo
-
-## RESPUESTA 1 (T1537)
-
-> acaricio a kase y le doy un beso en la cabeza, te amo hijo
-
-Te sientas en el borde de la cama redonda.
-
-Kase no se mueve del medio. Abre un ojo, el azul, y te mira.
-
-Le pasas la mano por el lomo, despacio, desde la cabeza hasta la punta de la cola, por el pelo largo, blanco y azul, todavía tibio del sol de la cubierta. Se le eriza un poco bajo los dedos y después se acomoda. Le rascas detrás de las orejas, en los mechones de las puntas, donde le gusta. Te agachas y le das un beso en la cabeza, entre las orejas.
-
-> —Te amo, hijo.
-
-Kase abre el otro ojo. El rojo.
-
-Te mira un rato largo, con los dos, sin parpadear. Como mira a todo el mundo. Como miró a un dios de la destrucción esa misma tarde.
-
-Después se levanta. Se estira. Camina dos pasos por la cama, hasta ti, y te apoya la cabeza contra el mentón. Fuerte. Una vez, y otra, empujando, frotándose, como si quisiera dejarte su olor encima para que nadie en ningún mundo se confunda de quién eres.
-
-Y empieza a ronronear.
-
-Un ronroneo bajo, grave, largo, que le vibra en todo el cuerpo y que se te mete en el pecho. No ronronea seguido. Casi nunca. No lo hizo con Bills, ni con Goten, ni con Robin, ni con Ymir.
-
-Se echa contra ti, la mitad sobre tus piernas y la otra mitad sobre la cama, con una pata apoyada en tu mano, como para que no la saques. Cierra los ojos.
-
-Afuera, en el hangar del jardín, el zumbido de la cámara de gravedad sigue, grave, constante. Las luces de la Ciudad del Oeste titilan por la ventana. Un auto volador pasa lejos, sin ruido.
-
-Kase sigue ronroneando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1537 · DRAGON BALL · SÁBADO · 21:35    ║
-║ Capsule Corporation · cuarto del 3.er piso   ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: sobre tus piernas, ronroneando         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Mañana 6:00 entrenar con Vegeta ·  ║
-║ cena en casa de Milk                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1538)
+## COMANDO 1 (T1538)
 
 me voy a dormir y me despierto para ir a desayunar
 
-## RESPUESTA 2 (T1538)
+## RESPUESTA 1 (T1538)
 
 > me voy a dormir y me despierto para ir a desayunar
 
@@ -107,11 +58,11 @@ Bulma lo mira irse. Después apoya los codos en la mesa, la barbilla en las mano
 
 ---
 
-## COMANDO 3 (T1539)
+## COMANDO 2 (T1539)
 
 mmmm, viajo a muchos lugares, muy distintos de aca
 
-## RESPUESTA 3 (T1539)
+## RESPUESTA 2 (T1539)
 
 > mmmm, viajo a muchos lugares, muy distintos de aca
 
@@ -152,4 +103,49 @@ Bulma se lleva la taza a la boca otra vez. Toma un trago largo. Después la deja
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 05:42, cocina de Capsule Corp. Bulma pide "una sola cosa" de uno de los lugares a los que viaja, algo que no haya visto nunca. Quedan 18 minutos para Vegeta. Facundo puede responder.
+## COMANDO 3 (T1540)
+
+alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
+
+## RESPUESTA 3 (T1540)
+
+> alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
+
+> —¿Alguna vez viste a un titán? Bueno. En uno de esos lugares existían los titanes.
+
+Bulma parpadea.
+
+—¿Titanes? —Ladea la cabeza—. ¿Como gigantes? —Se ríe—. Viajero, vi a Goku convertirse en un mono gigante cuando tenía doce años y pisar medio desierto. Vi a Piccolo crecer del tamaño de una montaña en un torneo. Vivo en un planeta donde los dinosaurios andan sueltos por el campo. —Levanta la taza—. Vas a tener que esforzarte más.
+
+Pero no se ríe del todo. Te está mirando la cara, y algo en la cara le dice que no estás hablando de un mono gigante.
+
+Deja la taza otra vez.
+
+—¿Qué tan grandes?
+
+Se queda callada un momento, esperando. Mira el pescado de Kase, la mesa, el reloj. Después vuelve a mirarte a ti, más despacio, como si repasara lo que dijiste palabra por palabra.
+
+—"Existían" —repite—. No dijiste "existen". Dijiste "existían".
+
+Apoya los codos en la mesa. Ya no tiene la sonrisa traviesa. Tiene otra cara: la de la científica que encuentra en una ecuación un número que no cuadra y no puede dejar de mirarlo.
+
+—¿Qué les pasó?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1540 · DRAGON BALL · DOMINGO · 05:45   ║
+║ Capsule Corporation · cocina                 ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el piso, mirando a Bulma            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: 6:00 entrenar con Vegeta · cena    ║
+║ en casa de Milk                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 05:45, cocina de Capsule Corp. Bulma, intrigada por los titanes: "¿Qué tan grandes?" "¿Qué les pasó?" Quedan 15 minutos para Vegeta. Facundo puede responder.

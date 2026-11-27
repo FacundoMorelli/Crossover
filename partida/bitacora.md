@@ -1538,3 +1538,4 @@ T1536 · DRAGON BALL · Muelle → Capsule Corp · Se queda a dormir en Capsule 
 T1537 · DRAGON BALL · Capsule Corp · "Te amo, hijo." Kase le frota la cabeza contra el mentón y ronronea, echado sobre sus piernas.
 T1538 · DRAGON BALL · Capsule Corp · Duerme; desayuno a las 5:30. Vegeta: "Veintidós minutos." Bulma pide el secreto chiquito.
 T1539 · DRAGON BALL · Cocina de Capsule Corp · "Viajo a muchos lugares, muy distintos de aquí." Bulma: ¿otros planetas? El bolsillo no es una cápsula. "Dime una sola cosa de uno de esos lugares."
+T1540 · DRAGON BALL · Cocina · Le cuenta a Bulma que en uno de esos lugares existían titanes. Bulma: "¿Qué tan grandes?" "Dijiste existían. ¿Qué les pasó?"

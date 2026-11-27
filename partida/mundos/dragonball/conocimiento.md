@@ -125,3 +125,4 @@
 - Bulma · T1535 · Por Vegeta: la cita de entrenamiento de mañana a las seis con Facundo.
 - Videl, Gohan · T1535 · Por Facundo: va a intentar estar cuando nazca el bebé.
 - Bulma · T1539 · Por Facundo: viaja a muchos lugares muy distintos de la Tierra. Deduce: sin nave; su "bolsillo" no es tecnología de cápsulas. Lo interpreta como otros planetas.
+- Bulma · T1540 · Por Facundo: en uno de los lugares a los que viaja "existían los titanes" (ya no). Nadie más lo oyó (Vegeta en el hangar, Trunks dormido).
