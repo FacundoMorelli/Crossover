@@ -108,3 +108,4 @@
 - Bills, Whis · T1520 · Por Facundo: el gato es suyo. Bills nota que tienen los mismos ojos de dos colores y que Facundo tiene un ki casi nulo (Velo).
 - Bills, Whis · T1521 · Por Facundo: el gato se llama Kase. Por Bulma: son "amigos de Vegeta" y pueden comer todo.
 - Bills, Whis, todos los del crucero · T1522 · Ven a Facundo sacar un pudín del bolsillo del sobretodo (sin bulto). Bills pregunta si lo tenía en el abrigo.
+- Todos los del crucero · T1523 · Oyen a Bills decir que busca al "Super Saiyajin Dios" y a Goku.

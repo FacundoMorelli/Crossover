@@ -1,8 +1,8 @@
 {
-  "turno": 1522,
+  "turno": 1523,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, sábado, cumpleaños de Bulma (R14: Bills llega hoy)",
-  "hora": "año 778, sábado, 12:24",
+  "hora": "año 778, sábado, 12:30",
   "edad": 18,
   "nivel": 30,
   "exp": 343130,
@@ -665,8 +665,8 @@
     "Dibujo de Goten: Kase y Facundo de la mano (regalo, T1503; \"no lo puedes perder\")",
     {
       "objeto": "Pudín (igual al de la fiesta de Bulma)",
-      "cantidad": 5,
-      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522)."
+      "cantidad": 0,
+      "detalle": "Caja de seis comprada T1522 (1 F); 1 dado a Bills (T1522). Los 5 restantes dados a Bills (T1523); Bills le dio 1 a Whis."
     }
   ],
   "copias": [

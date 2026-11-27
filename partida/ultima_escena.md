@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1520)
-
-Así es bills-sama, es mi gato
-
-## RESPUESTA 1 (T1520)
-
-> Así es bills-sama, es mi gato
-
-> —Así es, Bills-sama. Es mi gato.
-
-Vegeta, todavía inclinado en la mitad de la cubierta, gira la cabeza apenas hacia ti. Tiene los ojos muy abiertos. No dice nada, pero toda la cara le grita que no hables.
-
-Bills no lo mira. Camina hacia la baranda. Despacio, con las manos detrás de la espalda, como quien pasea por un jardín. Los invitados se apartan sin darse cuenta de que se apartan. Krilin agarra a Marron y la pone detrás de las piernas de la 18.
-
-Se para a dos pasos de la baranda. Se inclina un poco hacia adelante, hasta que su cara queda a la altura de la de Kase.
-
-Los dos se miran.
-
-Uno, un dios gato de piel violeta que destruye planetas cuando se aburre. El otro, un gato de pelo largo blanco y azul, con un collar negro y un eclipse plateado colgando, que no destruye nada y que, en ese momento, tiene los pelos de la cola parados como un cepillo.
-
-Kase no retrocede. No bufa. Lo mira con los ojos rojo y azul, de pupilas finísimas, sin parpadear.
-
-Bills estira un dedo, despacio, hacia la cabeza de Kase.
-
-Kase le olfatea la punta del dedo. Una vez. Dos.
-
-Después se da vuelta, con toda la dignidad del mundo, le da la espalda, y se sienta mirando el mar.
-
-En la cubierta, nadie respira. Vegeta se pone gris.
-
-Bills se queda con el dedo en el aire. Parpadea. Mira la espalda de Kase. La cola, que se mueve una sola vez, despacio, de un lado al otro, y se queda quieta.
-
-Y se ríe. Una risa corta, por la nariz, sorprendida.
-
-—Me despreció —dice—. Un gato de la Tierra. Me olió y me despreció. —Se endereza—. Whis, ¿viste eso?
-
-—Lo vi, Bills-sama. —Whis se tapa la boca con la mano, sonriendo—. Creo que no le cayó bien.
-
-—Ya veo. —Bills mira a Kase un segundo más. Después te mira a ti, de arriba abajo, con los ojos entrecerrados: el pelo, los ojos de dos colores, la cicatriz. Ladea la cabeza—. Tienen los mismos ojos, tú y el gato. Qué raro. Y tú tienes un ki tan chiquito que casi no estás.
-
-Bosteza.
-
-—¿Cómo se llama?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1520 · DRAGON BALL · SÁBADO · 12:21    ║
-║ Crucero de Bulma · baranda de la cubierta    ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: de espaldas a Bills, mirando el mar    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills en la Tierra                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1521)
+## COMANDO 1 (T1521)
 
 se llama Kase
 
-## RESPUESTA 2 (T1521)
+## RESPUESTA 1 (T1521)
 
 > se llama Kase
 
@@ -119,11 +59,11 @@ Vegeta lo ve. Levanta la cabeza de la reverencia de golpe, con la cara blanca.
 
 ---
 
-## COMANDO 3 (T1522)
+## COMANDO 2 (T1522)
 
 bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
 
-## RESPUESTA 3 (T1522)
+## RESPUESTA 2 (T1522)
 
 > bills sama, aca tengo uno para usted, compro un pudin igual al de la fiesta y lo saco del abrigo y se lo doy
 
@@ -180,4 +120,73 @@ Bills baja el vasito. Se limpia la boca con el dorso de la mano. Te mira. Y por 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:24, crucero. Facundo le dio a Bills un pudín (le quedan 5). Bills, encantado: "¿Tienes más?" Facundo puede responder.
+## COMANDO 3 (T1523)
+
+si, le doy mas
+
+## RESPUESTA 3 (T1523)
+
+> si, le doy mas
+
+Vuelves a meter la mano en el bolsillo del sobretodo. Y sacas otro. Y otro. Y otro más. Cinco pudines en sus vasitos, temblando, que le vas poniendo a Bills en las manos y en los brazos, hasta que tiene que hacer equilibrio para que no se le caigan.
+
+Bills los mira como un chico mira la vidriera de una juguetería.
+
+—Whis —dice, sin sacarles los ojos de encima—. Tiene un bolsillo infinito de pudín.
+
+—Ya lo veo, Bills-sama. —Whis se inclina un poco, con las manos juntas y la sonrisa muy educada—. ¿Podría yo, tal vez...?
+
+Bills lo mira. Mira los cinco pudines. Lo vuelve a mirar. Se lo piensa mucho más de lo que se pensaría la destrucción de un planeta.
+
+Le da uno. El más chico.
+
+Whis lo recibe con las dos manos, como si fuera una reliquia, y se lo come en dos cucharadas, cerrando los ojos.
+
+—Oh. Oh, sí. Exquisito.
+
+Bills se sienta en una reposera junto a la piscina, cruza las piernas y se come los cuatro que le quedan, despacio, uno por uno, saboreando. A la mitad del tercero ya tiene la cara de un gato al sol. La cola le cuelga por un costado de la reposera y se mueve, perezosa.
+
+La fiesta vuelve de a poco. La gente se acerca a las mesas otra vez. Krilin vuelve a comer, mirando de reojo. La 18 suelta a Marron. Mr. Satán recoge el micrófono. Bulma le hace una seña a la banda y la música sube un poco. Vegeta se sienta en una silla, lejos, con los codos en las rodillas, como un hombre que acaba de bajar de una montaña rusa.
+
+Kase, en la baranda, se da vuelta por fin. Mira a Bills comer pudín en la reposera. Entrecierra los ojos. Se lame una pata.
+
+Bills termina el último. Se lame los dedos. Deja los cinco vasitos vacíos apilados en el suelo, ordenados. Se estira en la reposera, con los brazos detrás de la cabeza, muy satisfecho.
+
+—Bueno. —Bosteza—. La Tierra no está tan mal.
+
+Mira el cielo un rato. Después frunce el ceño, apenas, como quien se acuerda de algo.
+
+—Ah, cierto. —Se sienta derecho—. Whis, ¿a qué vinimos?
+
+—Al Super Saiyajin Dios, Bills-sama. Y al saiyajin que buscaba en el planeta del Kaio del Norte.
+
+—Eso. —Bills mira la cubierta, la fiesta, la gente—. Kaio dijo que estaba aquí, en la Tierra. Un saiyajin que se llama... ¿cómo era?
+
+—Goku, Bills-sama.
+
+—Goku. —Levanta la voz, sin pararse, mirando a todos—. ¿Alguno de ustedes conoce a un saiyajin que se llama Goku?
+
+En la mesa del buffet, con un pollo en cada mano, la corbata desatada y la boca llena, Goku levanta la mano.
+
+—¡Yo! —dice, masticando—. ¡Soy yo!
+
+En su silla, a lo lejos, Vegeta se tapa la cara con las dos manos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1523 · DRAGON BALL · SÁBADO · 12:30    ║
+║ Crucero de Bulma · cubierta principal        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.248 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, mirando a Bills         ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills en la Tierra · Bills busca   ║
+║ a Goku                                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:30, crucero. Bills comió los pudines, contento. Pregunta por Goku; Goku levanta la mano: "¡Yo! ¡Soy yo!" Vegeta se tapa la cara. Facundo puede actuar.

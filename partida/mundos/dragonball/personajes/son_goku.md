@@ -78,3 +78,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1512 · Cumple su promesa a medias: "Es un amigo. Viene a comer. Y tiene un gato." A Vegeta: "¿Yo? No. Nada. ¿Qué voy a saber yo?" Silba (pésimo mentiroso).
 - T1514 · Se ríe a carcajadas con la boca llena al ver la tromba de Goten.
 - T1515 · Ve el techo invisible; mira a Facundo y silba fuerte mirando para otro lado.
+- T1523 · Con un pollo en cada mano y la corbata desatada, levanta la mano: "¡Yo! ¡Soy yo!"
