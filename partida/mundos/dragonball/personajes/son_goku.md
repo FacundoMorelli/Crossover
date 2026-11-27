@@ -137,3 +137,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1605 · Ve la fusión UI + Forma Cenit: boca abierta, sin hablar. Kase sentado a su lado.
 - T1606 · "¡¿Como la fusión?! ¡¿Como cuando Goten y Trunks bailan y se vuelven Gotenks?! ¡¿O como los aretes del Supremo Kaioshin?!"
 - T1608 · Sabe (por Facundo) que le copió el Super Saiyajin: "¡¿Me copiaste a mí?! ¡Qué increíble! ¡O sea que una parte de lo que tienes es mía! ¡Entonces cuando peleamos ayer estaba peleando un poco contra mí mismo!"
+- T1609 · "Pero señor Bills, a mí también me copió, y yo no estoy ofendido." / "Tú no tienes dignidad, saiyajin." / "Ah, eso es cierto."

@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1606)
-
-es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
-
-## RESPUESTA 1 (T1606)
-
-> es mi forma cenit con el ultra instinto dominado, puedo combinar habilidades, sea lo que sea
-
-> —Es mi Forma Cenit con el Ultra Instinto Dominado. Puedo combinar habilidades, sea lo que sea.
-
-Por un momento nadie dice nada.
-
-Las llamas blancas y azules siguen ondulando a tu alrededor, lentas, en el aire quieto. El pasto sigue aplastado en círculo bajo tus pies.
-
-—¿Sea lo que sea? —repite Bills, despacio.
-
-—¡¿Como la fusión?! —Goku se pone de pie de un salto y Kase, a su lado, le echa una mirada de reproche por el movimiento—. ¡¿Como cuando Goten y Trunks bailan y se vuelven Gotenks?! ¡¿O como los aretes del Supremo Kaioshin?!
-
-—No, Goku-san —dice Whis. Ya no arregla la explanada. Camina hacia ti despacio, con el báculo apoyado en el hombro y la cabeza inclinada, mirándote las llamas como quien mira una pintura muy rara en un museo—. La fusión junta a dos personas. Esto es una sola persona juntando dos cosas que no deberían poder estar juntas.
-
-Se detiene a unos pasos y se queda mirando de cerca el punto rojo y el punto azul en el fondo de tus ojos plateados.
-
-—El Ultra Instinto es calma absoluta. Esa otra forma suya es fuego. —Sonríe apenas, pensativo—. Una cosa así debería apagar a la otra. Y sin embargo...
-
-No termina la frase.
-
-Vegeta no se mueve del pie de la escalera. Tiene los brazos cruzados con tanta fuerza que le crujen los guantes.
-
-—Sea lo que sea —murmura, con los dientes apretados—. Claro. Por qué no.
-
-Bills baja el último escalón. Camina hasta el borde del círculo de pasto aplastado y se detiene justo ahí, sin pisarlo. Te mira de arriba abajo, largo, con la cola moviéndose lenta detrás.
-
-—Sea lo que sea —repite una tercera vez. Ya no suena incrédulo. Suena a alguien haciendo cuentas—. Entonces lo de ayer, el azul, lo plateado, el punto negro... ¿todo eso se puede juntar también?
-
-Ladea la cabeza.
-
-—¿Cuánto tienes ahí adentro, muchacho del bolsillo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1606 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~44 min) · Velo: ki bajo   ║
-║ Kase: sentado al lado de Goku                ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1607)
+## COMANDO 1 (T1607)
 
 mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
 
-## RESPUESTA 2 (T1607)
+## RESPUESTA 1 (T1607)
 
 > mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
 
@@ -127,11 +72,11 @@ Le apunta a tu cara con la bolsa de semillas, como si fuera un arma.
 
 ---
 
-## COMANDO 3 (T1608)
+## COMANDO 2 (T1608)
 
 no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
 
-## RESPUESTA 3 (T1608)
+## RESPUESTA 2 (T1608)
 
 > no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
 
@@ -200,4 +145,69 @@ Bills, con el dedo todavía levantado, te mira de reojo. La cola se le mueve des
 
 ---
 
-ESTADO AL CIERRE: Bills comprobó que conserva el Hakai. Todos saben que Facundo es humano y copia. Bills: "Si te muestro algo, ¿lo puedes copiar? ¿Cualquier cosa?" Facundo puede contestar.
+## COMANDO 3 (T1609)
+
+algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
+
+## RESPUESTA 3 (T1609)
+
+> algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
+
+> —Algo así, sí. Ya copié todos tus poderes, así que lo que hagas ya lo tengo.
+
+Bills se queda con el dedo levantado en el aire.
+
+—¿Todos?
+
+—Todos, parece, Bills-sama —dice Whis, y se tapa la boca con la mano.
+
+Bills baja el dedo, despacio. Se le aplastan las orejas. La cola le da un golpe seco en el pasto, después otro.
+
+—Miles de años. —Lo dice bajito, mirando a la nada—. Miles de años siendo el único. Destruyendo planetas. Durmiendo. Comiendo. Siendo temido en todo el universo. Y viene un humano con un gato y un bolsillo... —Te señala de arriba abajo con la mano entera, indignado— ...y en dos días me come la esfera, me rompe el Hakai, me tira contra mi casa y me copia todo.
+
+Se cruza de brazos con fuerza. Levanta el mentón. Te da la espalda.
+
+—Estoy ofendido.
+
+Goku se rasca la cabeza.
+
+—Pero señor Bills, a mí también me copió, y yo no estoy ofendido.
+
+—Tú no tienes dignidad, saiyajin.
+
+—Ah, eso es cierto —dice Goku, contento.
+
+Vegeta resopla. No se sabe si de risa o de desprecio.
+
+Bills se queda de espaldas un rato largo, con los brazos cruzados y la cola moviéndose de un lado al otro, enojada. Whis lo mira, divertido, sin decir nada. Esperando.
+
+Al final, Bills gira la cabeza, solo la cabeza, y te mira por encima del hombro con un ojo entrecerrado.
+
+—Bueno. Si ya lo tienes, ya lo tienes. Un dios no llora por lo que no tiene arreglo. —Una pausa—. Pero copiarme no es gratis.
+
+Se da vuelta del todo. Levanta un dedo, solemne, como un juez.
+
+—Cada poder que me copiaste, me lo pagas. —Entrecierra los ojos—. En hamburguesas.
+
+Afuera de la conversación, Whis se ríe abiertamente. Kase, en el pasto, bosteza.
+
+—Y no me mires así. —Bills levanta el mentón otra vez—. ¿Cuántos poderes me copiaste, exactamente?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1609 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 53% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~39 min) · Velo: ki bajo   ║
+║ Kase: sentado en el pasto                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills ofendido, exige pago en hamburguesas por cada poder copiado: "¿Cuántos poderes me copiaste, exactamente?" Facundo puede contestar.
