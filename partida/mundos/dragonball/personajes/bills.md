@@ -30,3 +30,5 @@ RELACIÓN CON FACUNDO (T1531): simpatía; lo recuerda como el que le da de comer
 - T1551 · Se despierta (bostezo que calla a los pájaros), sale en ropa de dormir, ve a Facundo y aparece delante de él, a un palmo: "El del bolsillo. Viniste." "Huele a pudín."
 - T1552 · Come un pudín sentado en el suelo en ropa de dormir: "Esto es lo mejor de despertarse." Levanta una ceja al ver el azul de Goku.
 - T1553 · "Hm. El del bolsillo piensa. Eso es raro en los mortales." Mira fijo el bolsillo de Facundo: "Oye. ¿Qué más tienes ahí adentro? Además del pudín. ¿Qué otras cosas ricas hay en la Tierra?"
+- T1554 · Recibe de Facundo un plato caliente de carne al punto con puré: "¿Eso salió de tu bolsillo? ¿Caliente?" Lo come en silencio, cola quieta, orejas relajadas: "Oh. Oh." No le da a Whis: "No. Pídele a él." Lame el plato. "Primero el pudín. Ahora esto. Un dios no se queda debiendo nada a nadie, muchacho. Nunca. ¿Qué quieres a cambio?"
+RELACIÓN CON FACUNDO (T1554): le debe un favor (lo dice él).

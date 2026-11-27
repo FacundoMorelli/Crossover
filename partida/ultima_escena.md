@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1551)
-
-voy a mirar mientras
-
-## RESPUESTA 1 (T1551)
-
-> voy a mirar mientras
-
-> —Voy a mirar, mientras.
-
-—Me parece muy sensato. —Whis sonríe, con un leve gesto de la cabeza—. Mirar también es aprender.
-
-Hace aparecer, de la nada, dos sillas de playa a rayas y una mesita con una jarra de jugo y dos vasos. Se sienta en una. Te ofrece la otra con la mano.
-
-Goku y Vegeta se ponen los caparazones en la espalda, con correas, gruñendo. Las piernas se les hunden en el suelo hasta los tobillos. Y empiezan a correr.
-
-Al principio, Goku se ríe. Vegeta no. A la primera vuelta al planeta, que tardan veinte minutos, ninguno de los dos se ríe. A la tercera, Goku tiene la lengua afuera y Vegeta está rojo como un tomate, apretando los dientes para no mostrar cansancio. A la quinta, se tropiezan los dos con una raíz que sale del suelo justo cuando pasan, y ruedan cuesta abajo por una ladera, con los caparazones encima, como dos tortugas de verdad.
-
-Whis toma jugo.
-
-—Les falta mucho —dice, tranquilo—. Pero tienen ganas. Eso es lo más difícil de enseñar.
-
-Kase baja de tu hombro y se sube a la mesita. Olfatea la jarra de jugo. La desprecia. Se echa entre los dos vasos y se duerme al sol de las lunas.
-
-Las horas pasan raro en ese planeta. Las lunas se mueven por el cielo violeta, despacio, una detrás de otra. Goku y Vegeta dan vueltas y vueltas. A la décima, Whis se levanta, va hasta ellos y les explica algo con dos dedos, tocándoles la frente, la nuca, el pecho, hablando de moverse sin pensar, de no gastar ki, de que el cuerpo sabe solo. Goku asiente con muchas ganas. Vegeta asiente con los brazos cruzados. Después siguen corriendo, y corren distinto.
-
-Whis vuelve a sentarse. Te mira de reojo, una vez, entre dos tragos de jugo, como quien mira a alguien que le parece interesante y no sabe del todo por qué. No dice nada.
-
-Ya tarde, cuando la luna más grande está sola en lo alto del cielo, el ronquido de la pirámide se corta.
-
-Silencio.
-
-Después, un bostezo. Enorme, largo, que se oye en todo el planeta. Los pájaros raros se callan.
-
-Arriba de todo, en lo alto de los escalones de la pirámide, se abre una puerta. Sale una figura violeta, flaca, en ropa de dormir, rascándose la panza, con las orejas caídas y los ojos medio cerrados. Mira hacia abajo, hacia el pie de la pirámide. Hacia las sillas de playa. Hacia ti.
-
-Se le paran las orejas de golpe.
-
-Baja. No camina: aparece. Un segundo está arriba, y al siguiente está parado delante de tu silla, inclinado sobre ti, con la cara a un palmo de la tuya y los ojos amarillos muy abiertos.
-
-—El del bolsillo —dice Bills, con la voz todavía dormida—. Viniste.
-
-Olfatea el aire. Una vez. Dos.
-
-—Huele a pudín.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1551 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · sillas de playa         ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.244 · 0 zeni                  ║
-║ Energía 85% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: dormido en la mesita                   ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Bills despierto · quedan 3         ║
-║ pudines                                      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1552)
+## COMANDO 1 (T1552)
 
 le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
 
-## RESPUESTA 2 (T1552)
+## RESPUESTA 1 (T1552)
 
 > le doy el pudin a bills, goku probaste combinar el modo dios con el super saiyan?
 
@@ -135,11 +72,11 @@ Ya no tiene la sonrisa amable de siempre. Tiene otra, más fina, más atenta.
 
 ---
 
-## COMANDO 3 (T1553)
+## COMANDO 2 (T1553)
 
 por que goku ahora tiene ki divino, y asumi que se podrían combinar
 
-## RESPUESTA 3 (T1553)
+## RESPUESTA 2 (T1553)
 
 > por que goku ahora tiene ki divino, y asumi que se podrían combinar
 
@@ -188,4 +125,67 @@ Se inclina un poco hacia ti, con las orejas paradas.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Whis entrena a Goku y Vegeta en el azul. Bills, en el suelo junto a Facundo: "¿Qué otras cosas ricas hay en la Tierra?" Quedan 2 pudines. Facundo puede responder.
+## COMANDO 3 (T1554)
+
+le doy una carne al punto justo con pure
+
+## RESPUESTA 3 (T1554)
+
+> le doy una carne al punto justo con pure
+
+[Compra: plato de carne al punto con puré. 1 Fragmento.]
+
+Metes la mano en el bolsillo del sobretodo y la sacas con un plato.
+
+Un plato de verdad, de loza blanca, caliente, humeando. Encima, un bife grueso, dorado por fuera, con las marcas de la parrilla cruzadas, y al lado una montaña de puré de papas, cremoso, con un pedazo de manteca derritiéndose arriba. Cubiertos. Una servilleta doblada.
+
+El olor sale de golpe y se esparce por el pie de la pirámide.
+
+Bills se queda inmóvil, sentado en el suelo. Las orejas se le paran. La nariz se le mueve sola, rápido, como la de un gato delante de una pescadería.
+
+—¿Eso salió de tu bolsillo? —dice, muy bajo—. ¿Caliente?
+
+No espera respuesta. Te saca el plato de las manos con muchísimo cuidado, se lo pone en las rodillas, agarra el cuchillo y el tenedor, y corta un pedazo de carne. Por dentro está rosada, jugosa, justa. Se la lleva a la boca.
+
+Cierra los ojos.
+
+Se queda así mucho rato, masticando despacio, sin decir nada. La cola, detrás de él, deja de moverse. Se queda quieta, apoyada en el suelo. Las orejas se le caen hacia los costados, relajadas, como a un gato que se queda dormido al sol.
+
+—Oh —dice, con la boca llena—. Oh.
+
+Prueba el puré. Abre los ojos. Mira el plato como si fuera un planeta nuevo.
+
+A veinte metros, Whis se detiene en la mitad de una explicación, con el dedo apoyado en la frente de Vegeta. Gira la cabeza. Olfatea el aire. Deja a Vegeta con la frase a medias y viene caminando hacia las sillas, muy rápido para alguien que siempre camina despacio.
+
+—Bills-sama —dice, mirando el plato con los ojos brillantes—. ¿Me permitiría probar un poquito...?
+
+—No. —Bills se pone el plato contra el pecho—. Pídele a él.
+
+Se come el resto en silencio, despacio, saboreando cada pedazo, hasta que no queda nada. Ni siquiera la manteca. Pasa un dedo por el plato vacío y se lo chupa.
+
+Después se queda quieto, con el plato vacío en las rodillas, mirándote de costado. Los ojos amarillos, entrecerrados. Serio.
+
+—Primero el pudín. Ahora esto. —Deja el plato en el suelo—. Un dios no se queda debiendo nada a nadie, muchacho. Nunca.
+
+Te mira a los ojos. Al rojo y al azul.
+
+—¿Qué quieres a cambio?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1554 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Pie de la pirámide · sillas de playa         ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 85% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: dormido en la mesita                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills pregunta qué quieres a       ║
+║ cambio                                       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills. Bills comió la carne con puré y, serio: "Un dios no se queda debiendo nada a nadie. ¿Qué quieres a cambio?" Whis quiere probar. Facundo puede responder.

@@ -1552,3 +1552,4 @@ T1550 · DRAGON BALL · Planeta de Bills · Pudines a Goku y Vegeta (quedan 3). 
 T1551 · DRAGON BALL · Planeta de Bills · Mira el entrenamiento desde una silla de playa con Whis. Goku y Vegeta corren con caparazones. Bills se despierta: "El del bolsillo. Viniste. Huele a pudín."
 T1552 · DRAGON BALL · Planeta de Bills · Pudín a Bills (quedan 2). Le sugiere a Goku combinar el ki divino con el SSJ: un segundo de azul. Vegeta lo intenta. Whis: "Eso pensaba enseñarles dentro de meses. ¿Cómo se le ocurrió?"
 T1553 · DRAGON BALL · Planeta de Bills · Explica que asumió que el ki divino se podía combinar. Whis: "Qué razonamiento tan limpio." Whis empieza el entrenamiento del azul. Bills: "¿Qué otras cosas ricas hay en la Tierra?"
+T1554 · DRAGON BALL · Planeta de Bills · Carne al punto con puré para Bills (1 F). Bills, extasiado; no comparte con Whis. "Un dios no se queda debiendo. ¿Qué quieres a cambio?"

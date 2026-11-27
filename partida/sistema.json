@@ -1,5 +1,5 @@
 {
-  "turno": 1553,
+  "turno": 1554,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, lunes de madrugada (hora Tierra), planeta de Bills",
@@ -7,7 +7,7 @@
   "nivel": 30,
   "exp": 349130,
   "exp_siguiente_nivel": 360000,
-  "fragmentos": 189244,
+  "fragmentos": 189243,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2447,7 +2447,8 @@
       "Libro de medicina básica ilustrado": 1,
       "Bolsa de semillas (papa, trigo, maíz de clima frío)": 1,
       "Moto moderna (negra mate, escape doble)": 80,
-      "Pudín igual al de la fiesta de Bulma (caja de seis)": "1 Fragmento (fijado T1522)"
+      "Pudín igual al de la fiesta de Bulma (caja de seis)": "1 Fragmento (fijado T1522)",
+      "Plato de carne al punto con puré (caliente, con cubiertos)": "1 Fragmento (fijado T1554)"
     },
     "stock_rotativo": {
       "mundo": "naruto",
