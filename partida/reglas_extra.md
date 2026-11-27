@@ -109,3 +109,4 @@ Cuando escriba /salir o /guardar, antes del commit y push, revisá que contexto.
 ## R15. SEMILLAS DEL ERMITAÑO A 1 FRAGMENTO (T1601 · Dragon Ball · pedido del jugador)
 - Texto del jugador: "(hace que valga un fragmento nada mas)".
 - Desde T1601, la semilla del ermitaño cuesta 1 Fragmento en la tienda del Sistema (antes 400, comprada así en T630). Precio fijo de catálogo, en todos los mundos.
+- T1634 (pedido del jugador): después de la ventana NO va nada más. Ni avisos de guardado, ni "Turno N guardado y subido", ni comentarios del motor. Las operaciones de archivo, commit y push se hacen ANTES de escribir la narración, y la respuesta termina en la ventana. Las aclaraciones de una línea (correcciones de nombre, cambios de reglas) solo si son imprescindibles, y nunca para anunciar que se guardó.

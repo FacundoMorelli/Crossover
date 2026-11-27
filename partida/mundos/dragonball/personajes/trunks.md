@@ -23,3 +23,4 @@ ESTADO: activo
 - T1631 · Recibe de Facundo la foto impresa de la montaña rusa: "¡Mamá se va a morir de risa! ¡La voy a poner en la heladera!" Huye de Vegeta con la foto: "¡Es mía! ¡Me la compró Facundo!"
 - T1632 · Algodón de azúcar de Facundo. "¡Ya subimos a la montaña rusa! ¡Papá dijo primero la montaña rusa, y ya subimos! ¡Ahora sí! ¡Ahora la técnica!"
 - T1633 · APRENDE de Facundo, con Goten, la técnica de esferas gemelas de giro opuesto (sin nombre). 1.er intento: le explota en la cara. 2.º: la fusionan (deforme, explota grande). "¡Lo hicimos! ¡¿Cómo se llama la técnica?!"
+- T1634 · Propone "Súper Torbellino Trunks"; acepta "Remolino Gemelo" (lo dice él primero). Vegeta lo cita a las 6 en la cámara de gravedad.

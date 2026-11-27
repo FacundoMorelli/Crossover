@@ -1632,3 +1632,4 @@ T1630 · DRAGON BALL · Parque · Montaña rusa con Goten, Trunks y Vegeta (Vege
 T1631 · DRAGON BALL · Parque · Cambia 10 F (100.000 zeni) y compra la foto para Trunks (1.500 zeni). Vegeta: "Me debes una." Goten pide algodón de azúcar.
 T1632 · DRAGON BALL · Parque · Algodones de azúcar para todos (1.500 zeni; uno guardado para Goku). Vegeta: "Son para niños" (y se lo come de espaldas). Trunks y Goten: "¡Ahora la técnica!"
 T1633 · DRAGON BALL · Campo detrás del parque · Enseña a Goten y Trunks una técnica nueva: esferas gemelas de ki de giro opuesto que se funden y multiplican. Vegeta: "Eso lo puede hacer un saiyajin." Les explota en la cara; al segundo intento la logran. "¿Cómo se llama?"
+T1634 · DRAGON BALL · Campo detrás del parque · Goten y Trunks bautizan la técnica: Remolino Gemelo. Vegeta los cita mañana a las 6 en la cámara de gravedad; a Facundo: "Tú tienes una cena."

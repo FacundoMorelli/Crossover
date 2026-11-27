@@ -3,75 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1631)
-
-cambio unos fragmentos y compro la foto
-
-## RESPUESTA 1 (T1631)
-
-> cambio unos fragmentos y compro la foto
-
-Abres la tienda en el borde de la vista.
-
-[Cambio: 10 Fragmentos → 100.000 zeni.]
-
-En el bolsillo del jean aparece un fajo de billetes doblado. Sacas uno de dos mil y se lo das al muchacho de la cabina, que te mira raro, mira el billete, mira la pantalla, y aprieta un botón. La impresora zumba. Sale la foto, todavía tibia, con el brillo húmedo de la tinta.
-
-[Compra: foto de la montaña rusa · 1.500 zeni.]
-
-El muchacho te da el cambio y la foto. Se la pasas a Trunks.
-
-Trunks la agarra con las dos manos como si fuera un tesoro.
-
-—¡SÍ! —La levanta por encima de la cabeza—. ¡Mamá se va a morir de risa! ¡La voy a poner en la heladera!
-
-—Trunks. —Vegeta da un paso hacia él—. Dame eso.
-
-—¡No!
-
-—Dámelo.
-
-—¡Es mía! ¡Me la compró Facundo!
-
-Trunks sale corriendo, con la foto contra el pecho. Vegeta lo sigue dos pasos, se da cuenta de que la mitad de la fila los está mirando, se detiene y se cruza de brazos, rojo hasta las orejas.
-
-—Ya hablaremos en la cámara de gravedad —gruñe, a nadie en particular.
-
-Después te mira a ti, de reojo, con los ojos entrecerrados.
-
-—Tú. Me debes una.
-
-Goten se ríe tanto que tiene que sentarse en el suelo. Cuando se le pasa, se levanta, se sacude el pantalón y te tira de la mano otra vez.
-
-—¡Facundo! ¡Algodón de azúcar! —Señala un puesto rosa y blanco, a unos metros, con un señor que hace girar el azúcar en una máquina—. ¡Mi papá dijo que le lleváramos! ¡Y yo quiero uno! ¡Y Trunks se le cayó el suyo! ¡Y Kase!
-
-Se detiene. Lo piensa.
-
-—¿Los gatos comen algodón de azúcar?
-
-En el banco, a la sombra, Kase los mira desde lejos. No parece que le interese.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1631 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Parque · salida de la montaña rusa · tarde   ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 98.500 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en un banco, a la sombra               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1632)
+## COMANDO 1 (T1632)
 
 no, no come eso, compro algodones de azúcar para todos
 
-## RESPUESTA 2 (T1632)
+## RESPUESTA 1 (T1632)
 
 > no, no come eso, compro algodones de azúcar para todos
 
@@ -129,11 +65,11 @@ Vegeta, de espaldas, deja de masticar. Gira la cabeza lo justo para mirarte por 
 
 ---
 
-## COMANDO 3 (T1633)
+## COMANDO 2 (T1633)
 
 les enseñó otra tecnica
 
-## RESPUESTA 3 (T1633)
+## RESPUESTA 2 (T1633)
 
 > les enseñó otra tecnica
 
@@ -219,4 +155,84 @@ Contra el árbol, Vegeta termina el algodón de azúcar, en silencio. No dice na
 
 ---
 
-ESTADO AL CIERRE: Técnica de esferas gemelas enseñada; Goten y Trunks la lograron a medias. "¡¿Cómo se llama la técnica?!" Facundo puede ponerle nombre.
+## COMANDO 3 (T1634)
+
+Les digo que ellos le pongan nombre
+
+## RESPUESTA 3 (T1634)
+
+> Les digo que ellos le pongan nombre
+
+Les dices que el nombre lo eligen ellos. Que la técnica es de los dos.
+
+Goten y Trunks se quedan quietos, negros de hollín, mirándose. Después se les ilumina la cara a los dos al mismo tiempo.
+
+—¡Nosotros! —Trunks levanta el puño—. ¡Le ponemos nombre nosotros!
+
+—¡Bola Giratoria Doble! —grita Goten enseguida.
+
+—¡No! ¡Eso es tu técnica vieja con "doble" atrás! —Trunks se cruza de brazos, igual que su papá—. Tiene que ser algo genial. ¡Súper Torbellino Trunks!
+
+—¡No es solo tuya! ¡La hicimos los dos!
+
+—¡Yo la tiré primero!
+
+—¡Pero la mía era la que giraba para el otro lado!
+
+Discuten. Se empujan. Se caen al pasto y ruedan, levantando nubecitas de hollín. Kase, desde su piedra, los mira con infinita paciencia. Vegeta, apoyado en el árbol, cierra los ojos como quien espera que pase una tormenta.
+
+Al final quedan los dos tirados boca arriba en el pasto, sin aire, mirando el cielo de la tarde, que se está poniendo naranja.
+
+—Bueno... —Goten jadea—. ¿Y si tiene un poco de cada uno?
+
+—¿Cómo?
+
+—Las bolas giran... como un remolino. Y son dos. Como nosotros.
+
+Trunks se queda callado. Lo piensa.
+
+—Remolino Gemelo —dice, despacio.
+
+Goten se sienta de golpe.
+
+—¡Remolino Gemelo!
+
+—¡REMOLINO GEMELO!
+
+Se paran, se chocan las manos, gritan el nombre tres veces más, tan fuerte que una bandada de pájaros sale volando de los árboles del fondo.
+
+Vegeta abre los ojos.
+
+—Remolino Gemelo. —Lo repite en voz baja, probando cómo suena. No dice si le gusta. Se despega del árbol y se sacude la camiseta rosada—. Bien. Ahora tiene nombre. Ahora hay que aprender a hacerlo de verdad, no a medias.
+
+Mira a Trunks.
+
+—Mañana a las seis. Cámara de gravedad. Los dos. —Mira a Goten—. Tú también. Si Kakaroto te deja.
+
+Goten y Trunks se miran, pálidos por debajo del hollín.
+
+—¿A las seis de la mañana?
+
+—A las seis.
+
+Vegeta mira el cielo naranja y después a ti.
+
+—Y tú tienes una cena. —Se le tuerce apenas la boca—. Bulma me va a matar si te devuelvo tarde y negro de hollín como estos dos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1634 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Campo detrás del parque · atardecer          ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: sentado en una piedra                  ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: La técnica se llama Remolino Gemelo. Vegeta cita a los chicos mañana a las 6 y le recuerda a Facundo la cena ("Bulma me va a matar si te devuelvo tarde"). Atardecer. Facundo puede actuar.

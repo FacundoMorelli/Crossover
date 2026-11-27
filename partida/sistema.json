@@ -1,8 +1,8 @@
 {
-  "turno": 1633,
+  "turno": 1634,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, sábado, tarde (Tierra)",
+  "hora": "año 778, sábado, atardecer (Tierra)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
@@ -2753,11 +2753,11 @@
   "ropa_actual": "T1617: camisa blanca de lino arremangada (dragones de los antebrazos a la vista), jean oscuro, zapatillas blancas; aros y anillos. Un hilo suelto por una uña de Kase. (Comprada 2 F, Capital del Oeste.)",
   "tecnicas_ensenadas": [
     {
-      "tecnica": "(sin nombre todavía) esferas gemelas de giro opuesto",
+      "tecnica": "REMOLINO GEMELO (nombre puesto por Goten y Trunks, T1634): esferas gemelas de giro opuesto",
       "a_quien": "Goten y Trunks (Dragon Ball)",
       "cuando": "T1633, campo detrás del parque de la Capital del Oeste",
       "descripcion": "Dos esferas de ki chicas que giran en sentidos opuestos; al soltarlas se buscan, orbitan una alrededor de la otra y al tocarse se funden en una sola mucho más potente que la suma. Pensada para dos usuarios coordinados (o Gotenks con las dos manos). Ki puro: la puede hacer un saiyajin con su propio poder (condición de Vegeta).",
-      "estado": "Goten y Trunks lograron fusionarlas en el segundo intento (deforme, explotó a mitad de camino). La perfeccionarán con Vegeta en la cámara de gravedad."
+      "estado": "Goten y Trunks lograron fusionarlas en el segundo intento (deforme, explotó a mitad de camino). La perfeccionarán con Vegeta en la cámara de gravedad. T1634: Vegeta los cita mañana a las 6 en la cámara de gravedad (Goten si Goku lo deja)."
     }
   ]
 }
