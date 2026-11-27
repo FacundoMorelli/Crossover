@@ -21,3 +21,6 @@ Quién sabe qué de Facundo en este mundo.
 - T1687 · SATO y el AGENTE JOVEN: velocidad sobrehumana (un borrón) y neutralizar muñecos sin daño (46).
 - T1687 · CENTRAL de Seguridad Pública y MAKIMA (por la radio de Sato): un viajero neutralizó a todos los muñecos de la avenida sin cortarlos.
 - T1688 · MAKIMA vio a Facundo en persona (aspecto, ojos, cicatriz, gato) y a los 46 dormidos. Sabe (por Sato vía Central) que es "el viajero" que los neutralizó sin cortarlos. No siente su poder (Velo).
+
+## QUIÉN SABE QUÉ
+- T1689 · MAKIMA, SATO, AGENTE JOVEN y el CHOFER saben (por Facundo) su nombre: Facundo Morelli.

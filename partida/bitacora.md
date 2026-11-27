@@ -1687,3 +1687,4 @@ T1685 · CHAINSAW MAN · avenida Mitsukoshi · "Soy una persona." Manos arriba. 
 T1686 · CHAINSAW MAN · avenida Mitsukoshi · "Soy un viajero. Solo los desmayé." Sato no le cree. Santa: "El joven del gato. Me rompiste tres muñecos." Veinte muñecos avanzan. Sato: "Demuéstramelo."
 T1687 · CHAINSAW MAN · avenida Mitsukoshi · Desmaya a 46 muñecos sin lastimarlos (+46 Frag). Sato, atónito, llama a Central: "Díganle a la señorita Makima que tengo algo que va a querer ver."
 T1688 · CHAINSAW MAN · avenida Mitsukoshi · Espera acariciando a Kase. La motosierra se apaga arriba. Llega Makima: "Buenas noches. Usted debe ser el viajero."
+T1689 · CHAINSAW MAN · avenida Mitsukoshi · "Me llamo Facundo Morelli." Makima: "No lo siento. Es como mirar a un empleado de banco. ¿Con qué demonio tiene un pacto? ¿O es usted otra cosa?"
