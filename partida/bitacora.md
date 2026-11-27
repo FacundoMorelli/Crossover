@@ -1628,3 +1628,4 @@ T1626 · DRAGON BALL · Parque de diversiones · Vuela con Goten y Kase al parqu
 T1627 · DRAGON BALL · Parque · Explica que vino a enseñarles una habilidad a Goten y Trunks. Vegeta acepta: algo que un saiyajin pueda hacer con su propio poder; primero la montaña rusa. Trunks: "¿Qué técnica es?"
 T1628 · DRAGON BALL · Parque · "Lo van a ver cuando se las enseñe." Vegeta: "Ya van a ver." Les toca la montaña rusa; Goten invita a Facundo y a Kase. Kase clava las uñas.
 T1629 · DRAGON BALL · Parque · Kase no quiere subir: se va a un banco a la sombra. Vegeta: "El gato es el único con sentido común acá." Goten: "¿Y tú? ¿Subes?"
+T1630 · DRAGON BALL · Parque · Montaña rusa con Goten, Trunks y Vegeta (Vegeta, cara de piedra, protege la cabeza de Trunks sin darse cuenta). Foto en la salida; Trunks: "¿Me la compras?" (1.500 zeni).

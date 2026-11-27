@@ -3,73 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1627)
-
-queria venir al parque y tambien queria que les enseñe una nueva habilidad a el y a trunks
-
-## RESPUESTA 1 (T1627)
-
-> queria venir al parque y tambien queria que les enseñe una nueva habilidad a el y a trunks
-
-> —Quería venir al parque. Y también quería enseñarles una habilidad nueva a él y a Trunks.
-
-Trunks se olvida del algodón de azúcar en el piso.
-
-—¿A mí? —Se le abren los ojos—. ¿A mí también? ¡¿En serio?!
-
-Se da vuelta hacia Goten, triunfal.
-
-—¡Ja! ¡Ahora no eres el único!
-
-—¡Facundo dijo que a los dos! —Goten le saca la lengua—. ¡Para que hagamos Gotenks!
-
-—¡Gotenks! —Trunks levanta el puño—. ¡Sí!
-
-La gente de la fila los mira. Una señora con un bebé en brazos se corre medio paso para atrás.
-
-Vegeta no se mueve. Sigue con los brazos cruzados, la gorra puesta y la camiseta rosada, y te mira de arriba abajo, con los ojos entrecerrados. Le sigue la cara roja.
-
-—Una habilidad nueva. —Lo dice despacio—. Para mi hijo.
-
-Se queda callado un momento. Mira a Trunks, que salta en el lugar. Mira a Goten. Te mira a ti, a Kase, otra vez a ti.
-
-—Hmph. —Descruza los brazos, y vuelve a cruzarlos—. Mientras no sea una de esas cosas raras tuyas que nadie más puede hacer. Si se la enseñas, que sea algo que un saiyajin pueda hacer con su propio poder.
-
-Hace una pausa y aprieta la mandíbula.
-
-—Y cuando la aprenda, la va a perfeccionar conmigo. En la cámara de gravedad. No con Kakaroto.
-
-—¡Papá! —Trunks le tira de la camiseta—. ¡¿Puedo aprenderla ahora?! ¡Ahora, ahora!
-
-—No. —Vegeta señala la montaña rusa con la cabeza, sin mirarla—. Te prometí la montaña rusa. Un príncipe cumple lo que promete. Primero la montaña rusa.
-
-La fila avanza un paso. Vegeta avanza un paso, muy digno, con los brazos cruzados.
-
-Trunks mira la montaña rusa, después a ti, después a la montaña rusa, debatiéndose. Al final te mira a ti, con los ojos brillantes.
-
-—Bueno, ¡pero dime qué es! ¡Dime al menos qué técnica es! ¿Es fuerte? ¿Es un ataque? ¿Es más fuerte que la de Goten?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1627 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Parque de diversiones · sábado, tarde        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1628)
+## COMANDO 1 (T1628)
 
 lo van a ver cuando se las enseñe
 
-## RESPUESTA 2 (T1628)
+## RESPUESTA 1 (T1628)
 
 > lo van a ver cuando se las enseñe
 
@@ -119,11 +57,11 @@ Te clava las uñas en el hombro, muy despacio, una por una.
 
 ---
 
-## COMANDO 3 (T1629)
+## COMANDO 2 (T1629)
 
 kase no queres no?
 
-## RESPUESTA 3 (T1629)
+## RESPUESTA 2 (T1629)
 
 > kase no queres no?
 
@@ -177,4 +115,74 @@ En el banco, Kase bosteza.
 
 ---
 
-ESTADO AL CIERRE: Kase en un banco a la sombra. Trunks y Vegeta en el primer carrito. Goten, de la mano: "¿Y tú? ¿Subes?" Facundo puede decidir.
+## COMANDO 3 (T1630)
+
+subo con ellos
+
+## RESPUESTA 3 (T1630)
+
+> subo con ellos
+
+Subes con ellos.
+
+Goten te arrastra de la mano hasta el primer carrito. Hay cuatro lugares, de a dos. Adelante, Trunks y Vegeta. Atrás, Goten y tú. Goten se sienta, rebota en el asiento, se ata la toalla más fuerte al cuello y se agarra de la barra con las dos manos, con una sonrisa que le ocupa toda la cara.
+
+El muchacho de uniforme baja las barras de seguridad. Clac, clac. A Vegeta le queda la barra a la altura del pecho y la mira con desprecio, como si fuera un insulto personal.
+
+—Esto no me sostendría ni un segundo —murmura.
+
+—Papá, no la rompas —dice Trunks.
+
+—No la voy a romper.
+
+El carrito arranca.
+
+Sube despacio, la subida larga del principio, clac, clac, clac, con la cadena tirando por debajo. El parque se va haciendo chiquito: las carpas de colores, la rueda gigante, los puestos de comida, la gente como hormigas. A lo lejos, la Capital del Oeste, con sus cúpulas brillando al sol de la tarde. Y abajo, en un banco a la sombra, un puntito blanco y azul que no se mueve.
+
+—¡Ya llegamos arriba! —grita Goten—. ¡Ya llegamos, ya llegamos!
+
+El carrito se detiene un segundo, en la punta. Se queda colgando sobre el vacío.
+
+Y cae.
+
+Goten grita. Trunks grita. La gente de los carritos de atrás grita. Es un grito largo, feliz, con el viento metiéndose en la boca. Los saiyajin vuelan más rápido que esto desde que tienen cuatro años, y aun así, en un carrito pegado a un riel, sin control de nada, es otra cosa.
+
+El primer loop los da vuelta cabeza abajo. La toalla de Goten se le vuela de la espalda y le tapa la cara. Goten se ríe tanto que se ahoga.
+
+Vegeta no grita. Va sentado derecho, con los brazos cruzados por encima de la barra de seguridad, la gorra milagrosamente en su lugar y una cara de piedra absoluta, como si estuviera sentado en un sillón.
+
+Pero en el segundo loop, cuando el carrito gira de costado y baja en espiral, a Trunks se le escapa un grito más agudo, de chico de verdad, y Vegeta, sin darse cuenta, descruza un brazo y le pone la mano en la cabeza para que no se golpee.
+
+Lo deja ahí hasta que el carrito frena.
+
+El viaje termina con un frenazo largo, bajo un techo, en la plataforma de salida. Las barras se levantan. Goten tiene el pelo parado, la toalla en la cabeza y lágrimas de risa. Trunks está despeinado y sin aire.
+
+—¡Otra vez! —gritan los dos al mismo tiempo—. ¡Otra vez, otra vez!
+
+Al bajar, al costado de la salida, hay una cabina con una pantalla grande. Muestra las fotos que saca una cámara automática en la caída más grande del recorrido. En la pantalla aparece el primer carrito: Goten con la boca abierta en un grito, Trunks con los ojos cerrados, tú. Y adelante, Vegeta, de brazos cruzados, con la gorra puesta, la camiseta rosada de "BAD MAN" y la cara más seria del universo.
+
+Trunks se pega a la pantalla.
+
+—¡Papá, mira! ¡Saliste re serio! —Se da vuelta hacia ti, con los ojos brillantes y un plan en la cara—. Facundo... ¿me la compras? ¡Es para mostrársela a mamá!
+
+Debajo de la pantalla, un cartelito: "Foto impresa: 1.500 zeni".
+
+Vegeta, detrás, se pone rojo otra vez.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1630 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Parque · salida de la montaña rusa · tarde   ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en un banco, a la sombra               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bajan de la montaña rusa. Trunks quiere la foto (1.500 zeni; Facundo tiene 0 zeni): "¿Me la compras?" Vegeta rojo. Facundo puede decidir.

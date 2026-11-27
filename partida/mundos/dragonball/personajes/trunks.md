@@ -19,3 +19,4 @@ ESTADO: activo
 - T1626 · En la fila de la montaña rusa con un algodón de azúcar rosa más grande que su cabeza; se le cae al ver a Goten: "¡¿Goten?! ¡¿Qué haces acá?!"
 - T1627 · Por Facundo, le va a enseñar una técnica: "¿A mí? ¿A mí también? ¡¿En serio?!" A Goten: "¡Ja! ¡Ahora no eres el único!" "¡Gotenks! ¡Sí!" "¡Dime al menos qué técnica es! ¿Es fuerte? ¿Es un ataque? ¿Es más fuerte que la de Goten?"
 - T1628 · "¡Aaah! ¡Eso es trampa!" "Mi papá no dice eso."
+- T1630 · Montaña rusa en el primer carrito con Vegeta; grito agudo en el segundo loop (Vegeta le protege la cabeza). "¡Otra vez!" Ve la foto: "¡Papá, mira! ¡Saliste re serio!" A Facundo: "¿Me la compras? ¡Es para mostrársela a mamá!"
