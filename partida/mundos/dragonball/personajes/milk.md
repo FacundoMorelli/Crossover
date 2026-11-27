@@ -51,3 +51,4 @@ ESTADO: bien.
 - T1637 · Mira a Facundo y a Erasa roja; asiente satisfecha. Sirve la cena: "¡Ya está todo! ¡A comer!"
 - T1640 · Ve la cara de Erasa con Facundo y sonríe sola, satisfecha.
 - T1642 · Escuchando todo desde la otra punta: "¡Gracias!" (por la carne).
+- T1643 · Se cruza de brazos, celosa, cuando a Bills le gusta la torta; igual asiente.

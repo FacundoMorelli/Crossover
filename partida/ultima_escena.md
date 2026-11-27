@@ -3,61 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1640)
-
-le rozó el pie con mi pie, un poco de todo, montañas con hielo, desiertos, una isla mitad hielo mitad volcan
-
-## RESPUESTA 1 (T1640)
-
-> le rozó el pie con mi pie, un poco de todo, montañas con hielo, desiertos, una isla mitad hielo mitad volcan
-
-Debajo de la mesa, le rozas el pie con el tuyo.
-
-Erasa se queda quieta. Muy quieta. Deja de respirar un segundo. No mira para abajo ni te mira a ti: mira el plato, con los ojos muy abiertos.
-
-Y no corre el pie.
-
-> —Un poco de todo. Montañas con hielo, desiertos... Una isla que es mitad hielo y mitad volcán.
-
-—¿Mitad... hielo y mitad volcán? —Erasa levanta la vista despacio. Se olvida de estar roja—. ¿En la misma isla? ¿Una mitad congelada y la otra mitad... con lava?
-
-Se queda imaginándolo, con la boca entreabierta.
-
-—Eso no existe —dice, bajito, y después se ríe—. Bueno, tú dices que existe. Y yo hace una hora no creía que hubiera gatos gigantes violetas que comen pescados enteros, así que...
-
-Mira de reojo hacia la cabecera. Bills está chupando la espina de su tercer pescado, con los ojos cerrados. Erasa aparta la vista enseguida.
-
-—...así que te creo.
-
-Debajo de la mesa, su sandalia se queda apoyada contra tu pie. Tibia. No se mueve.
-
-En la otra punta de la mesa, Milk deja de servir arroz a Goten, mira a Erasa, mira la cara que tiene, te mira a ti, y sonríe sola, satisfecha, antes de seguir sirviendo.
-
-Erasa juega con el tenedor en el plato. Pincha un pedazo de carne, no se lo come, lo vuelve a dejar. Se nota que tiene algo dando vueltas en la cabeza y que le cuesta decirlo.
-
-—Oye... —Te mira, y esta vez no aparta los ojos—. Si eres viajero, y ese lugar de las islas es el más lindo que conociste... —Hace una pausa chiquita—. ¿Vas a volver allá? ¿Te vas a ir de acá?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1640 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:35     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: echado sobre el ratón de juguete       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1641)
+## COMANDO 1 (T1641)
 
 en algun momento si, pero vuelvo a todos los lugares a los que viajo, que sea el mas lindo no significa que quiera quedarme a vivir en algun lado, por ahora no voy a parar de viajar, pero siempre vuelvo
 
-## RESPUESTA 2 (T1641)
+## RESPUESTA 1 (T1641)
 
 > en algun momento si, pero vuelvo a todos los lugares a los que viajo, que sea el mas lindo no significa que quiera quedarme a vivir en algun lado, por ahora no voy a parar de viajar, pero siempre vuelvo
 
@@ -101,11 +51,11 @@ Después se da vuelta hacia ti otra vez, con los ojos celestes brillando bajo la
 
 ---
 
-## COMANDO 3 (T1642)
+## COMANDO 2 (T1642)
 
 a ti tambien
 
-## RESPUESTA 3 (T1642)
+## RESPUESTA 2 (T1642)
 
 > a ti tambien
 
@@ -163,4 +113,70 @@ A Erasa le tiembla el cuchillo en la mano. Te mira, de reojo, pidiéndote auxili
 
 ---
 
-ESTADO AL CIERRE: Bills exige la torta. Erasa, con el cuchillo temblando: "¿Me ayudas?" Facundo puede actuar.
+## COMANDO 3 (T1643)
+
+esta bien, la ayudo
+
+## RESPUESTA 3 (T1643)
+
+> esta bien, la ayudo
+
+> —Está bien.
+
+Te paras. Te pones a su lado, detrás de su hombro, y le cubres la mano del cuchillo con la tuya.
+
+Erasa deja de respirar.
+
+Tiene la mano chiquita y tibia, y le tiembla. Debajo de la tuya se queda quieta. El temblor se le pasa de a poco, como si tu mano se lo fuera tragando.
+
+Bajas el cuchillo juntos.
+
+El primer corte entra derecho, limpio, de arriba abajo, sin una miga de más. El segundo, igual, en el ángulo exacto. El pedazo sale entero, alto, perfecto, con las tres capas de chocolate a la vista y las virutas sin moverse de su lugar. Lo levantan juntos con la pala de servir y lo dejan en el plato de Bills sin que se tuerza.
+
+En la mesa no vuela una mosca.
+
+Bills mira el pedazo. Lo mira de un lado. Del otro. Le acerca la nariz.
+
+Agarra el tenedor. Corta. Se lo lleva a la boca.
+
+Cierra los ojos.
+
+Se queda quieto mucho tiempo. Toda la mesa lo mira. Erasa, todavía con tu mano encima de la suya en el mango del cuchillo, no se mueve.
+
+Al final, a Bills se le paran las orejas, despacio. La cola se le enrosca sola.
+
+—Hm. —Abre un ojo—. Tu madre sabe lo que hace.
+
+Erasa suelta todo el aire de golpe, como un globo. Se le doblan un poco las rodillas. Bulma aplaude bajito. Milk, en la otra punta, se cruza de brazos, celosa, aunque asiente.
+
+—Dile que me gustó —sigue Bills, ya con el segundo bocado en el tenedor—. Y que haga otra. Más grande.
+
+—Sí, señor. —A Erasa le sale un hilito de voz—. Le digo. Más grande.
+
+Bills ya no la escucha. Come con los ojos cerrados.
+
+Erasa se da vuelta hacia ti. Están muy cerca: tu mano todavía sobre la suya, el cuchillo entre las dos, su hombro casi contra tu pecho. Te mira desde abajo, con los ojos celestes muy abiertos y un rulo cayéndole sobre la frente.
+
+—Gracias —susurra.
+
+No suelta el cuchillo. Tampoco tu mano.
+
+—Tus manos no tiemblan nunca, ¿no? —dice, bajito, sin dejar de mirarte—. Ni un poquito. Ni con un dios mirándote.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1643 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · 20:50     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: echado sobre el ratón de juguete       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa                     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Torta cortada a la perfección; a Bills le gustó. Erasa, muy cerca, sin soltar la mano de Facundo: "Tus manos no tiemblan nunca, ¿no? Ni con un dios mirándote." Facundo puede contestar.

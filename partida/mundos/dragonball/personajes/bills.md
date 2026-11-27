@@ -89,3 +89,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1640 · Tercer pescado; chupa la espina con los ojos cerrados.
 - T1641 · Termina la última fuente de pescado; mira la torta de chocolate con intensidad peligrosa.
 - T1642 · Plato limpio, servilleta doblada: "Bueno. ¿Ya terminaron de hablar ustedes dos? Porque yo terminé de comer hace tres minutos. Y esa torta lleva toda la noche mirándome."
+- T1643 · Come el pedazo de torta perfecto de Erasa y Facundo: orejas paradas, cola enroscada. "Hm. Tu madre sabe lo que hace. Dile que me gustó. Y que haga otra. Más grande."
