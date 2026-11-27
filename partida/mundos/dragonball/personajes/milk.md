@@ -39,3 +39,4 @@ ESTADO: bien.
 - T1547 · Cena en el Monte Paoz (Facundo cumple). Habla de embarazo con Videl. Whis la deja muda con una mirada cuando quiere protestar.
 - T1548 · "¡GOKU! ¡Mañana tienes que arar el campo de abajo!" "¡Facundo se va CONTIGO!" Le da a Facundo un táper enorme de comida: "Para el viaje. Y si ese dios gato no te da de comer, me avisas. Y vuelve. Tú vuelves. Él también, pero tú vuelves."
 - T1614 · Sale con el cucharón a regañar a Goku ("¡Cinco días! ¡Dijiste un ratito! ¡Goten preguntó por ti todas las noches!"). Ve a Facundo y se le suaviza la cara: "Ah. Volviste. Te dije que volvieras, y volviste." (Promesa de T1548 cumplida.)
+- T1615 · "¡Un muchacho tan educado, que vuelve cuando dice que vuelve, y que encima quiere conocer a una buena chica!" Propone a Angela (compañera de Gohan, pelirroja, "más moderna"). A Goku: "¡Porque yo te obligué!"

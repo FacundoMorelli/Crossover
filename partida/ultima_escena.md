@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1612)
-
-no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
-
-## RESPUESTA 1 (T1612)
-
-> no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
-
-> —No sé. Por ahora no me voy a ir. Y, Bills: si algún día vengo sin mi gato, significa que destruí un mundo entero por lo que le hayan intentado hacer.
-
-Por un momento, nadie dice nada.
-
-Kase, apoyado contra tu borceguí, levanta la cabeza y te mira desde abajo, con los ojos de dos colores muy quietos. Después vuelve a apoyar la cabeza y cierra los ojos, como si esa respuesta ya la supiera.
-
-Bills se queda mirándote.
-
-Las orejas le suben del todo, despacio, hasta quedar derechas. La cola deja de moverse. Y en la cara se le va armando algo que no es la sonrisa de gato de siempre: es más chica, más tranquila, casi de respeto.
-
-—Hm. —Asiente una vez, lento—. Eso es algo que diría un Dios de la Destrucción.
-
-—Bills-sama nunca destruyó un planeta por nadie —dice Whis, en voz baja, mirando a Kase—. Solo por comida.
-
-—La comida es alguien —dice Bills, sin mirarlo.
-
-Al pie de la escalera, Vegeta descruza los brazos. Se le escapa media sonrisa, torcida, que borra enseguida. Pero asiente apenas, con la cabeza, una vez, como quien le da la razón a un igual.
-
-Goku se rasca la nuca, un poco incómodo, y mira a Kase.
-
-—Bueno, nadie le va a hacer nada al gatito. —Se ríe—. Con ustedes dos cuidándolo, ¡ni loco!
-
-Bills suelta el aire por la nariz y se le aflojan los hombros. Mira el pasto, mira la pirámide arreglada, mira la explanada que Whis terminó de dejar lisa.
-
-—Por ahora no te vas —repite, como si se lo dijera a sí mismo—. Bien.
-
-Después levanta la vista, y ya es el de siempre: el mentón arriba, los ojos entrecerrados, la cola moviéndose de nuevo, contenta.
-
-—Entonces no hay apuro con las ciento cinco. —Extiende la mano, con la palma hacia arriba—. Pero la de hoy sí. Me la debes desde que dijiste "etcétera".
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1612 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 53% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~36 min) · Velo: ki bajo   ║
-║ Kase: sentado contra tu borceguí             ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1613)
+## COMANDO 1 (T1613)
 
 le doy las cosas, simula unos dias
 
-## RESPUESTA 2 (T1613)
+## RESPUESTA 1 (T1613)
 
 > le doy las cosas, simula unos dias
 
@@ -126,11 +71,11 @@ Te mira con la cabeza ladeada, esperando.
 
 ---
 
-## COMANDO 3 (T1614)
+## COMANDO 2 (T1614)
 
 voy con ustedes
 
-## RESPUESTA 3 (T1614)
+## RESPUESTA 2 (T1614)
 
 > voy con ustedes
 
@@ -203,4 +148,87 @@ Milk, a mitad de su regaño, se da vuelta también. Te ve. Baja el cucharón des
 
 ---
 
-ESTADO AL CIERRE: De vuelta en la Tierra, jardín de la Corporación Cápsula, sábado a la mañana. Bulma: "¿Cómo que no se dejó?" Milk: "Te dije que volvieras, y volviste." Facundo puede contestar.
+## COMANDO 3 (T1615)
+
+miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
+
+## RESPUESTA 3 (T1615)
+
+> miro a bulma: nada importante, y si milk, iba a volver, ahora les puedo preguntar, hay alguna chica que esté soltera? de mi edad o un poco mas grande
+
+Miras a Bulma.
+
+> —Nada importante.
+
+—¿Nada importante? —Bulma levanta una ceja, mira a Bills, mira a Whis, mira la bolsa de semillas atada a la faja de Bills—. Ajá. Claro. Seguro.
+
+Whis le sonríe sin decir nada, lo que es peor.
+
+> —Y sí, Milk, iba a volver. Ahora les puedo preguntar algo: ¿hay alguna chica que esté soltera? De mi edad o un poco más grande.
+
+El jardín se queda en silencio.
+
+Goku parpadea, con la cara a medio salir de detrás de Whis. Vegeta, que ya estaba yéndose con Trunks hacia la nave, se detiene en seco. Trunks se da vuelta con una sonrisa enorme, de chico que acaba de encontrar algo para burlarse.
+
+Bulma deja la taza de café en la mesa del jardín. Despacio. Con mucho cuidado.
+
+—Facundo. —Se le ilumina la cara entera—. ¿Me estás pidiendo que te presente a alguien?
+
+—¡Ay, qué lindo! —Milk se lleva las manos al pecho, con el cucharón todavía en una—. ¡Un muchacho tan educado, que vuelve cuando dice que vuelve, y que encima quiere conocer a una buena chica! ¡Así se hace! —Le echa una mirada asesina a Goku—. ¡No como otros, que se van "un ratito"!
+
+—Yo me casé contigo, Milk —protesta Goku.
+
+—¡Porque yo te obligué!
+
+—Ah, sí, eso es cierto.
+
+Bulma ya está pensando. Se le nota: tiene la mirada en el aire y cuenta con los dedos.
+
+—A ver, a ver... De tu edad o un poco más grande. —Chasquea los dedos—. ¡Erasa! La amiga de Videl, la de la preparatoria. Rubia, simpática, habla hasta por los codos. Tiene veintiuno o veintidós, y la última vez que vino al cumpleaños de Gohan estaba soltera. Bueno, eso dijo. Y le preguntó a Videl si Gohan tenía algún amigo guapo.
+
+—Tú no conoces a nadie, Bulma —dice Milk.
+
+—¡Conozco a todo el mundo!
+
+—Y Angela —sigue Milk, pensativa, sin hacerle caso—. La otra compañera de Gohan. La pelirroja. Esa es más... —Hace un gesto con el cucharón que no termina de explicar nada—. Más moderna.
+
+—Erasa es mejor —dice Bulma.
+
+—Angela es más bonita.
+
+—¡Erasa es más buena!
+
+Bills, aburrido, se sienta en una silla del jardín.
+
+—Bulma. ¿Hay pudín?
+
+—¡Ahora no, señor Bills, estoy ocupada! —Bulma se da cuenta de a quién le gritó, se pone pálida y se corrige enseguida—. ¡Sí, en la heladera, señor Bills, enseguida, sírvase, por favor!
+
+Bills se levanta contento y entra a la casa. Whis lo sigue, con las manos detrás de la espalda.
+
+Vegeta, en la puerta de la nave, resopla.
+
+—Humanos —gruñe, y se mete adentro con Trunks, que no deja de mirarte y reírse por lo bajo.
+
+Bulma te agarra del brazo, entusiasmada.
+
+—Mira, Videl seguro tiene el número de Erasa. —Ya tiene el celular en la mano—. ¿Quieres que la invite? ¡Hoy a la noche hacemos una cena acá! ¡Nada formal, eh! Casual. Que parezca que fue de casualidad.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1615 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mañana                                       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.851 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bulma propone a Erasa y Milk a Angela. Bulma, con el celular: "¿Quieres que la invite? Hoy a la noche hacemos una cena acá. Casual." Facundo puede contestar.
