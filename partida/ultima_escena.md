@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1585)
-
-tienen razón, no soy el mismo viajero, soy de otro mundo, no de otro planeta
-
-## RESPUESTA 1 (T1585)
-
-> tienen razón, no soy el mismo viajero, soy de otro mundo, no de otro planeta
-
-> —Tienen razón, no soy el mismo tipo de viajero. Soy de otro mundo, no de otro planeta.
-
-Bills se endereza.
-
-El aura violeta se le queda quieta a medio subir. Las orejas se le van hacia adelante.
-
-—¿Otro mundo? —Ladea la cabeza—. ¿Qué, otro universo? ¿Eres del de Champa?
-
-Lo dice con desconfianza de golpe, con los ojos entrecerrados, como si acabara de descubrir que el pudín lo traía su hermano.
-
-—No creo que sea del de Champa, Bills-sama. —Whis se lleva un dedo a la barbilla, pensativo, del otro lado de la barrera—. Champa-sama no tiene a nadie así. Y si lo tuviera, nos lo habría restregado en la cara hace mucho.
-
-—Eso es verdad. —Bills se relaja un poco—. Ese gordo no sabe guardarse nada.
-
-Whis te mira un momento más, con la cabeza inclinada, la misma mirada de cuando se comió tu esfera. Después sonríe y se encoge de hombros.
-
-—Bueno. Eso explicaría por qué no sé qué fue ese punto negro. —Junta las manos sobre el báculo—. Hay cosas que ni siquiera un ángel ha visto. Me alegra saber que todavía quedan.
-
-Afuera, Goku parpadea.
-
-—¿Otro mundo? —Se rasca la cabeza—. ¿Hay más mundos? ¿Hay gente fuerte ahí?
-
-Vegeta lo mira de costado, con cara de "claro que lo primero que preguntas es eso", y no dice nada.
-
-Bills se queda pensando un segundo, con un dedo en la oreja. Después lo deja.
-
-—Me da igual de dónde seas. —Hace un gesto con la mano, como espantando una mosca—. Si de allá vienen el pudín y la carne con la cosa blanca, me cae bien tu mundo.
-
-Te señala.
-
-—Y cuando vuelvas para allá, traes comida de allá. Esa es la condición.
-
-El aura violeta le vuelve a subir, de golpe esta vez, densa, fría.
-
-—Pero primero, la segunda ronda.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1585 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera rehecha) · tarde          ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 72% · Ojos: bien · mejilla abierta   ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: en el apoyabrazos de Whis              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1586)
+## COMANDO 1 (T1586)
 
 esta bien
 
-## RESPUESTA 2 (T1586)
+## RESPUESTA 1 (T1586)
 
 > esta bien
 
@@ -120,11 +60,11 @@ Bills sale del pozo, despacio. Se pasa la lengua por el labio partido.
 
 ---
 
-## COMANDO 3 (T1587)
+## COMANDO 2 (T1587)
 
 esta bien, activo el ultra instinto dominado
 
-## RESPUESTA 3 (T1587)
+## RESPUESTA 2 (T1587)
 
 > esta bien, activo el ultra instinto dominado
 
@@ -197,4 +137,73 @@ No hay sonrisa ni enojo en su cara. Solo una cosa que no le habías visto nunca:
 
 ---
 
-ESTADO AL CIERRE: Facundo en Ultra Instinto Dominado. Bills arrodillado a 30 pasos tras una palma en las costillas, asombrado. Facundo puede actuar.
+## COMANDO 3 (T1588)
+
+asi esta bien señor bills?
+
+## RESPUESTA 3 (T1588)
+
+> asi esta bien señor bills?
+
+> —¿Así está bien, señor Bills?
+
+Bills no contesta enseguida.
+
+Se queda arrodillado, con la mano en el costado, mirándote. Después se pone de pie, despacio, sacudiéndose la tierra del pantalón blanco roto. Le cuesta un poco enderezarse del lado de las costillas. Lo disimula mal.
+
+—¿Bien? —Repite. Se le escapa una risa corta, por la nariz, que le duele, y se agarra el costado—. Ay. ¿Bien, me preguntas?
+
+Camina hacia ti. A diez pasos se detiene. Te mira el pelo plateado, los ojos de plata, el aire que tiembla alrededor tuyo.
+
+—Hace un momento te di un Hakai en serio y lo rompiste. Te comiste una de mis esferas. Y ahora me pegas con la palma abierta, sin mirar, sin pensar, con eso que ni yo... —Se calla. Mira a Whis de reojo—. Con eso.
+
+Afuera, Whis sonríe con los ojos cerrados y no dice nada. Se le nota que tiene ganas de decir algo.
+
+—Ni una palabra, Whis.
+
+—No dije nada, Bills-sama.
+
+Bills vuelve a mirarte. Las orejas, que tenía aplastadas, se le levantan de a poco. La cola se le mueve una vez, lenta.
+
+—Así está muy bien, muchacho del bolsillo. —Lo dice bajito, casi a regañadientes—. Mejor de lo que esperaba. Mejor de lo que esperé de nadie en mucho tiempo.
+
+Se cruza de brazos, levanta el mentón y se recompone, todo dignidad de dios.
+
+—Pero que quede claro: esto no termina hasta que yo diga que termina. Y yo todavía no...
+
+Le suena la panza.
+
+Fuerte. Largo, grave, como un trueno lejano que retumba por toda la explanada y rebota en la barrera de Whis.
+
+Bills se queda quieto, con los brazos cruzados y el mentón levantado.
+
+Afuera, Goku se tapa la boca para no reírse, y no lo logra. Whis se ríe abiertamente, detrás de la mano. Hasta Vegeta resopla por la nariz y mira para otro lado.
+
+En el apoyabrazos, Kase levanta la cabeza y mira a Bills con interés por primera vez en toda la tarde.
+
+—...Eso no cuenta —dice Bills, muy serio.
+
+Le vuelve a sonar.
+
+Bills cierra los ojos. Suspira largo, por la nariz. Cuando los abre, ya no te mira la cara: te mira el bolsillo del sobretodo, o lo que queda de él.
+
+—Pelear da hambre —dice, como quien informa algo obvio—. ¿Qué tienes ahí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1588 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera rehecha) · tarde          ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 58% · Ojos: bien · mejilla abierta · ║
+║ corte fino en las costillas                  ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: en el apoyabrazos de Whis              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (en pausa: hambre) ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills reconoce: "Así está muy bien." Le suena la panza. "Pelear da hambre. ¿Qué tienes ahí?" Pelea en pausa. Facundo en UI Dominado. Facundo puede actuar.

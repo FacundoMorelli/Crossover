@@ -60,3 +60,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1584 · "No creo que sea parecido, Bills-sama." Rehace la barrera, más gruesa y alta. Sabe (por Facundo, T1584) que dice ser viajero sin padres.
 - T1585 · Por Facundo: es de otro mundo. "Champa-sama no tiene a nadie así." "Eso explicaría por qué no sé qué fue ese punto negro. Hay cosas que ni siquiera un ángel ha visto. Me alegra saber que todavía quedan." Le cree.
 - T1587 · Se pone de pie de un salto al ver a Facundo en Ultra Instinto: "Oh. Oh, oh, oh." "El Ultra Instinto, Bills-sama. Y no la señal. Dominado. El cuerpo se mueve solo... Usted mismo todavía no lo domina, Bills-sama." VIO: Ultra Instinto Dominado.
+- T1588 · Se ríe abiertamente de la panza de Bills. "No dije nada, Bills-sama."

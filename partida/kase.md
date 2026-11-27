@@ -146,3 +146,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1578 · Afuera con Whis, que le apoya la mano en la cabeza sin que Kase la pida.
 - T1581 · Se pone de pie en el apoyabrazos, cola baja, ojos fijos en Facundo, mientras Bills carga el Hakai.
 - T1582 · Cuando Facundo rompe el Hakai, se vuelve a sentar en el apoyabrazos y se lame una pata, como si nada.
+- T1588 · Mira a Bills con interés por primera vez cuando le suena la panza.
