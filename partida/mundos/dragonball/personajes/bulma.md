@@ -1,0 +1,12 @@
+NOMBRE: Bulma
+AFILIACIÓN: Capsule Corporation; esposa de Vegeta, madre de Trunks
+RANGO: dueña/directora de Capsule Corp.
+PODER VISTO POR FACUNDO: ninguno (genio científica)
+EDAD EN ESTE MOMENTO DEL CANON: adulta (cumple ~45 en 778)
+FÍSICO: pelo turquesa corto; vestido rojo en su fiesta.
+PERSONALIDAD Y FORMA DE HABLAR: directa, mandona, coqueta en broma, muy segura de sí.
+RELACIÓN CON FACUNDO: acaba de conocerlo en persona.
+ENCUENTROS:
+- T1511 · Año 778, su cumpleaños, jardín de Capsule Corp. A Goku: "¡Viniste! ¡Milk dijo que te había amenazado!" Ve a Facundo: "Vaya, vaya. ¿Y este muchacho tan apuesto quién es?"
+QUÉ SABE DE FACUNDO: probablemente rumores por Vegeta/Trunks/Goku de hace tres años (Buu); en persona, nada.
+ESTADO: activa

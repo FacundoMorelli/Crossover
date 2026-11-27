@@ -25,3 +25,4 @@ DIÁLOGOS CLAVE:
 - T209: "Si no tienes dónde dormir... la casa es chica, pero mamá siempre cocina de más."
 - T196: "¡Papá! ¿Qué pasó acá? ¡Parece que cayó un meteorito!"
 - T180: "¡¿Mató a Babidi de un golpe?!"
+- T1511 · Cena en el Monte Paoz con Videl: anteojos, camisa abotonada, sonrisa tímida; le da la mano largo rato a Facundo, emocionado.

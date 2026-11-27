@@ -85,3 +85,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: (T236) que destruyó a la parte mala de Buu, que iba a comerse al gordo; (T218) la transformación ahora multiplica más que ayer; tiene una transformación que triplica su ki (T192); su nombre y su ki base real (T188); lo vio frenar la ráfaga, matar a Babidi, domar a Buu.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: libre del control de Babidi (la M se apagó al morir Babidi, T180). En la zona rocosa con Goku.
+- T1511 · Fiesta de Bulma, camisa rosada, brazos cruzados. Reconoce a Facundo; le mide el ki y no le convence: "Tú. El del gato. ¿Qué clase de truco es ese, insecto? Hace tres años me pusiste contra el suelo. Y ahora tienes menos ki que Krilin."

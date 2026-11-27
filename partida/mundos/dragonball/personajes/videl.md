@@ -23,3 +23,4 @@ DIÁLOGOS CLAVE:
 - T233: "Mi papá no hizo ese surco. Lo conozco. ¿Qué pasó de verdad?"
 - T186: "...Papá, ¿estás bien?"
 - T185: "Hablen acá. Yo me quedo."
+- T1511 · Cena en el Monte Paoz: mira a Facundo de arriba abajo, sonrisa de media boca como su padre. Casi no come (Milk sospecha). En la puerta: después del cumpleaños de Bulma le va a pedir la revancha, "y esta vez no te vas a reír". (Canon: embarazada de Pan, todavía sin anunciar.)

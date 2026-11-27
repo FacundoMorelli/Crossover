@@ -89,3 +89,7 @@
 - Goku · T1509 · Por Facundo: no debe mencionar nunca su fuerza a nadie que venga; desde ahora Facundo muestra un ki muy bajo (Goku lo siente: menos que Krilin). PROMETIÓ no contarlo (ni a Vegeta ni a Kaio-sama).
 - TODOS en Dragon Ball desde T1509 · Si sienten el ki de Facundo, sienten un hilo muy bajo (Velo).
 - Goku · T1510 · Recibe de Facundo una semilla del ermitaño (pregunta de dónde la saca; no espera respuesta).
+- Goten · T1511 · Aprendió de Facundo la Bola Giratoria (secreto; no sabe que es de otro mundo).
+- Vegeta · T1511 · Siente el ki muy bajo de Facundo y sabe (por la pelea de hace tres años, T219) que es mucho más fuerte: deduce que lo esconde ("truco").
+- Bulma, invitados · T1511 · Ven llegar a Facundo con los Son, con el gato en el hombro.
+- Videl, Gohan · T1511 · Cena con Facundo en el Monte Paoz.

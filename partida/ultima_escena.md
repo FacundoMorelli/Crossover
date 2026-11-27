@@ -3,90 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1508)
-
-esta bien, peleó con goku y no me contengo tanto
-
-## RESPUESTA 1 (T1508)
-
-> esta bien, peleó con goku y no me contengo tanto
-
-> —Está bien.
-
-Y dejas de contenerte tanto.
-
-Goku viene con todo lo que tiene. El primer golpe del Super Saiyajin 3 te llega directo al pecho, con un estallido que se oye en todo el páramo.
-
-No te mueves.
-
-El puño de Goku se queda apoyado en tu pecho, contra las llamas blancas y azules, temblando. Goku te mira por encima del brazo, con los ojos verdes muy abiertos.
-
-Le das un golpe en el estómago con la palma abierta.
-
-Goku sale despedido hacia atrás como una piedra tirada por una honda. Cruza la meseta, cruza el cañón, choca contra la pared de la meseta de enfrente y la atraviesa entera, de lado a lado, y sale por el otro lado envuelto en polvo y pedazos de roca. Frena en el aire, a medio kilómetro, tosiendo.
-
-Y vuelve. Riéndose.
-
-Lo que sigue dura diez minutos. Goku lo intenta todo. Velocidad: desaparece y aparece por todos lados, a tu alrededor, imágenes residuales de a diez, de a veinte, hasta que el aire de la meseta se llena de Gokus dorados. Las atraviesas todas con la mirada y le agarras el tobillo al verdadero. Fuerza: te tira una lluvia de golpes, cientos, tan rápido que parecen uno solo largo, y los paras uno por uno con una mano. Ki: ráfagas, ondas, un Kamehameha a quemarropa que te explota en la cara y te despeina un poco más. Combina. Finge. Se esconde en el cañón y te ataca desde abajo. Se tira desde las nubes en picada.
-
-Cada vez que llega, lo devuelves más lejos. Cada vez que vuelve, vuelve más cansado y más feliz.
-
-El páramo no es el mismo. Tres mesetas menos. Un cañón nuevo, recto, donde lo arrastraste por el suelo. Una columna de roca que ya no tiene punta. Kase, en el borde de la única meseta que sigue entera, mira todo con la cola enroscada, sin pestañear.
-
-Al final, Goku está parado en el aire, frente a ti, a veinte metros. Respira como un fuelle roto. El aura dorada se le apaga y se le prende, se le apaga y se le prende. Tiene la camiseta hecha jirones, un ojo morado, sangre en la boca. Las piernas le tiemblan, y ahora no es de emoción.
-
-Levanta los puños igual.
-
-—Uno... más... —dice.
-
-Se lanza. Despacio. Muy despacio para él.
-
-Le paras el puño con un dedo. Le das un golpecito en la frente, con el dedo, nada más.
-
-El aura de Goku se apaga del todo. El pelo dorado se le cae, se le vuelve negro, corto, en punta. Los ojos se le ponen en blanco. Y empieza a caer, desmayado, hacia el fondo del cañón.
-
-Lo agarras de la camiseta en el aire antes de que llegue.
-
-Lo dejas en el suelo de la meseta, al lado de Kase. Kase lo mira. Le olfatea la cara. Le apoya una pata en el pecho, como para comprobar que respira.
-
-Respira.
-
-Un minuto después, Goku abre un ojo, el que no tiene morado. Te ve, todavía en Forma Cenit, con las llamas blancas y azules contra el cielo. Se ríe, y le duele, y se ríe igual.
-
-—Ja... ja... —Tose—. Eso era "un poquito menos"...
-
-Se queda mirando el cielo, tirado en la roca, con los brazos abiertos.
-
-—Quiero llegar ahí —dice, bajito—. A donde estás tú. No sé cómo. Pero quiero llegar.
-
-[Duelo con un compañero vencido: Son Goku.]
-
-[+25.000 Fragmentos.]
-
-[+6.000 EXP.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1508 · DRAGON BALL · AÑO 777 · 10:30   ║
-║ Páramo de entrenamiento · meseta             ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 96% · Ojos: bien                     ║
-║ FORMA CENIT (x10 · quedan ~32 min)           ║
-║ Velo: persona común (el ki no se siente)     ║
-║ Kase: junto a Goku, con la pata en su pecho  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Entrenar con Goku                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1509)
+## COMANDO 1 (T1509)
 
 me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
 
-## RESPUESTA 2 (T1509)
+## RESPUESTA 1 (T1509)
 
 > me destransformo, goku si algun dia viene alguna persona, no menciones nunca nada de mi, de lo fuerte que soy, a partir de ahora voy a mostrar una parte muy baja de mi ki para disimular, podes no mencionarlo nunca?
 
@@ -139,11 +60,11 @@ Señala su propia cara.
 
 ---
 
-## COMANDO 3 (T1510)
+## COMANDO 2 (T1510)
 
 le doy una semilla del ermitaño
 
-## RESPUESTA 3 (T1510)
+## RESPUESTA 2 (T1510)
 
 > le doy una semilla del ermitaño
 
@@ -196,4 +117,65 @@ Goku se da vuelta hacia ti. Ya no tiene las piernas temblando. Tiene otra vez lo
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, día 2, 10:34, páramo. Goku curado con una semilla y más fuerte (zenkai). Propone seguir entrenando sin que Facundo se transforme. Facundo puede responder.
+## COMANDO 3 (T1511)
+
+esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
+
+## RESPUESTA 3 (T1511)
+
+> esta bien. simula hasta el cumple de bulma, tambien enseñándole una técnica a goten
+
+Los días que faltan pasan rápido, como pasan los días en esa casa: entre comida, campo y golpes.
+
+Ese mismo día y el siguiente entrenas con Goku sin transformarte. En el páramo, por las mañanas, después de que Milk revisa que no hay tejas rotas. Goku pelea en Super Saiyajin 3 contra ti en estado normal, y cada vuelta dura un poco más que la anterior. Al segundo día ya no te encuentra los huecos de casualidad: te los busca. Una vez te llega un golpe limpio a la mandíbula y se queda tan sorprendido que se olvida de esquivar el tuyo. Vuelve a casa cada tarde con la camiseta rota, y cada tarde le dice a Milk que fue un oso. El segundo día, Milk le pregunta por qué en el Monte Paoz hay tantos osos de repente, y Goku no sabe qué contestar.
+
+Por las tardes, cuando Goten vuelve de la escuela, o cuando se escapa de la escuela, que es casi siempre, te lo llevas al claro del arroyo, lejos de la casa, donde Goku no mira.
+
+Le enseñas a juntar el ki en la palma de la mano, pero no en una bola quieta, como hace todo el mundo: en una bola que gira. Que gira sobre sí misma, cada vez más rápido, en todas las direcciones a la vez, hasta que el giro es más fuerte que el ki. El primer día no le sale: se le escapa de la mano y le explota en la cara, y queda negro de hollín y riéndose. El segundo día le sale del tamaño de una canica, y la tira contra una piedra, y la piedra se parte en dos con un zumbido. Goten se queda mirando la piedra con la boca abierta, en silencio, por primera vez desde que lo conoces.
+
+El tercer día le sale del tamaño de una naranja. Le abre un agujero redondo, perfecto, a un árbol viejo de lado a lado.
+
+—¡La Bola Giratoria Goten! —grita, saltando alrededor del árbol—. ¡Así se llama! ¡Me la inventé yo! Bueno, me la inventaste tú. ¡Pero el nombre es mío!
+
+Kase mira el agujero del árbol. Mira a Goten. Se acuesta al sol.
+
+Goten jura por todo lo que conoce que no se lo va a contar a nadie hasta el cumpleaños. Se lo cuenta a Kase unas cuarenta veces por día, en voz baja.
+
+La tercera noche vienen a cenar Gohan y Videl. Gohan tiene anteojos, una camisa con el cuello abotonado y la misma sonrisa tímida de hace tres años. Te da la mano largo rato, emocionado, y no sabe qué decir. Videl entra detrás. Te mira de arriba abajo, cruza los brazos y sonríe con media boca, igual que su padre cuando posa para las cámaras. Durante la cena casi no come, lo que en esa familia es raro, y Milk la mira de reojo con cara de estar sumando dos más dos. Antes de irse, en la puerta, Videl te dice que después del cumpleaños de Bulma te va a pedir la revancha, y que esta vez no te vas a reír.
+
+El sábado amanece claro.
+
+Milk viste a Goku con un traje y una corbata que no sabe atarse, a Goten con una camisa blanca que ya tiene una mancha de mermelada, y a ti te mira el sobretodo negro con desconfianza y decide que no tiene arreglo. Van volando. Goku adelante, con la corbata flameando; Milk en una nube voladora; Goten haciendo piruetas; tú detrás, con Kase en el hombro, mostrando apenas ese hilo de ki que no llega ni al de Krilin.
+
+Capsule Corporation está irreconocible. El jardín enorme de la cúpula blanca está lleno de mesas con manteles, globos, carpas, guirnaldas de colores, un escenario con un micrófono y un letrero gigante que dice FELIZ CUMPLEAÑOS, BULMA. Hay comida por todas partes, montañas de comida, y gente: Krilin y Número 18 con Marron de la mano, el maestro Roshi mirando a las chicas del servicio, Oolong, Puar, Yamcha, Ten Shin Han y Chaos, Mr. Satán firmando autógrafos, Buu comiéndose una mesa entera de postres con Bee a sus pies. Trunks, del tamaño de Goten, que corre hacia él en cuanto lo ve aterrizar. Piccolo, de brazos cruzados, lejos de todo, debajo de un árbol.
+
+Y en el medio del jardín, con un vestido rojo, el pelo turquesa corto y una copa en la mano, la dueña de la fiesta.
+
+Bulma ve aterrizar a Goku y levanta la copa.
+
+—¡Goku! ¡Viniste! ¡Milk dijo que te había amenazado, pero no le creí! —Después te ve a ti. Te mira de arriba abajo: el pelo blanco y azul, los ojos, la cicatriz, el gato en el hombro. Levanta una ceja—. Vaya, vaya. ¿Y este muchacho tan apuesto quién es?
+
+Pero antes de que nadie conteste, alguien aparece detrás de Bulma. Bajo, de pelo negro en punta, con una camisa rosada que claramente no eligió él, los brazos cruzados y el ceño fruncido.
+
+Vegeta te mira. Te reconoce enseguida. Y frunce más el ceño. Te está midiendo el ki, y lo que encuentra no lo convence.
+
+—Tú —dice, con desprecio—. El del gato. —Entrecierra los ojos—. ¿Qué clase de truco es ese, insecto? Hace tres años me pusiste contra el suelo. Y ahora tienes menos ki que Krilin.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1511 · DRAGON BALL · SÁBADO · 12:00    ║
+║ Capsule Corporation · jardín (fiesta)        ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
+║ hoy)                                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:00, fiesta de Bulma en Capsule Corp. Bulma pregunta quién es "este muchacho tan apuesto"; Vegeta, desconfiado: "¿Qué clase de truco es ese, insecto? Ahora tienes menos ki que Krilin." Bills llega hoy. Facundo puede responder.
