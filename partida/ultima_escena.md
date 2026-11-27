@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1515)
-
-hace que haya cubierto a todos para que no se moje nada
-
-## RESPUESTA 1 (T1515)
-
-> hace que haya cubierto a todos para que no se moje nada
-
-(Corrección aplicada: no se mojó nada.)
-
-Cuando la columna de agua llega a lo más alto, ya trazaste la línea.
-
-Una sola, con un movimiento de la mano a la altura de la cadera, que nadie ve porque todos miran el mar. Una frontera invisible de Sakaime que se abre sobre el crucero entero como un techo de vidrio, de proa a popa, de baranda a baranda.
-
-La tromba se deshace allá arriba. La lluvia salada cae sobre la cubierta.
-
-Y no llega.
-
-Se queda en el aire, a cinco metros de las cabezas de todos, resbalando sobre algo que no se ve. Miles de gotas que corren hacia los costados por una curva perfecta, como agua sobre una cúpula, y caen al mar por los dos lados del barco en dos cortinas brillantes. La torta de cinco pisos de Bulma queda seca debajo, intacta, con las velas sin encender.
-
-En la cubierta se hace un silencio total.
-
-Todos miran para arriba. Ven el agua correr por el aire sobre sus cabezas, encima de nada. Mr. Satán abre la boca y se le cae el micrófono. Buu aplaude con una cuchara en cada mano. Krilin deja de comer.
-
-Disuelves la línea. El último resto de agua cae al mar, lejos.
-
-Goten, seco, salta con los brazos en alto, riéndose como loco.
-
-—¡¿VISTE?! ¡¿VISTE, TRUNKS?! ¡NUEVA! ¡ES NUEVA!
-
-Gohan se acomoda los anteojos, secos, y mira el cielo con el ceño fruncido. Piccolo, en la proa, abre los dos ojos. Goku deja de reírse y te mira, con un muslo de pollo a medio camino de la boca, y después mira para otro lado y silba, muy fuerte.
-
-—¡Ay, qué lindo! —dice Bulma, aplaudiendo—. ¿Eso también es parte del truco, Goten?
-
-Goten no sabe qué contestar. Se encoge de hombros.
-
-Vegeta, en la baranda de enfrente, seco de pies a cabeza, no aplaude. Mira el cielo, donde ya no hay nada. Mira a Goten. Te mira a ti, largo, con los ojos entrecerrados y la mandíbula apretada. Sabe que eso no lo hizo un chico de diez años.
-
-Kase, en la baranda, seco, se lame una pata.
-
-Trunks se da vuelta hacia ti, con los ojos enormes. Ya no tiene cara de chico listo. Tiene cara de chico que acaba de ver algo que quiere.
-
-—Tú le enseñaste eso. —No es una pregunta—. ¡Enséñame a mí también! ¡Ahora! ¡Mejor que a él!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1515 · DRAGON BALL · SÁBADO · 12:10    ║
-║ Crucero de Bulma · baranda de la cubierta    ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la baranda, seco                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
-║ hoy)                                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1516)
+## COMANDO 1 (T1516)
 
 no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
 
-## RESPUESTA 2 (T1516)
+## RESPUESTA 1 (T1516)
 
 > no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
 
@@ -123,11 +62,11 @@ Por fin te mira. Los ojos negros, encendidos.
 
 ---
 
-## COMANDO 3 (T1517)
+## COMANDO 2 (T1517)
 
 si
 
-## RESPUESTA 3 (T1517)
+## RESPUESTA 2 (T1517)
 
 > si
 
@@ -181,4 +120,56 @@ Kase, en la baranda, levanta la cabeza. Gira las orejas hacia el cielo. No ve na
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:16, crucero. Vegeta exigía entrenar mañana; Kaio-sama le avisó que Bills viene a la Tierra. Vegeta pálido. La fiesta sigue sin saber nada. Facundo puede actuar.
+## COMANDO 3 (T1518)
+
+quien es bills?
+
+## RESPUESTA 3 (T1518)
+
+> quien es bills?
+
+> —¿Quién es Bills?
+
+Vegeta te mira como si le hubieras preguntado quién es el sol.
+
+Después mira para todos lados, rápido, para asegurarse de que nadie más escucha. Se te acerca un paso. Baja la voz hasta que casi no se le oye por encima de la música de la fiesta.
+
+—El Dios de la Destrucción. —Lo dice con la boca seca—. Del universo. De este universo entero. Los Kaio-shin crean los planetas, y él los destruye. Cuando se aburre. Cuando tiene hambre. Cuando algo no le gusta. —Traga saliva—. Duerme durante años. Décadas. Y cuando se despierta, se despierta de mal humor.
+
+Mira el cielo otra vez.
+
+—Lo vi una vez. Yo era un niño. Fue al planeta Vegeta. Mi padre era el rey de todos los saiyajin, el guerrero más orgulloso del universo. —Aprieta los puños—. Y Bills lo puso con la cara en el suelo, delante de todos, con un pie en la cabeza. Como a un perro. Y mi padre no pudo hacer nada. Nada.
+
+Hace una pausa.
+
+—Freezer le tenía miedo. Freezer. —Te mira a los ojos—. ¿Entiendes lo que te estoy diciendo?
+
+Se aleja medio paso. Se pasa la mano por la cara, por el pelo. Vuelve a ser el de siempre, de golpe, como quien se pone una armadura encima.
+
+—Kaio-sama dice que fue a su planeta buscando a Kakarotto. Que buscaba algo llamado "Super Saiyajin Dios". Que no lo encontró y se enojó, y que ahora viene para acá. —Mira hacia el buffet, donde Goku se está metiendo un pollo entero en la boca—. Y Kakarotto no sabe nada. Mejor. Si se entera, le va a querer pedir una pelea.
+
+Se da vuelta hacia ti. Te agarra del sobretodo con una mano, fuerte, y te acerca.
+
+—Escúchame bien, insecto. No me importa lo fuerte que seas. No me importa tu truco del ki. Cuando llegue, nadie le falta el respeto. Nadie lo provoca. Nadie le niega nada. Si quiere comer, come. Si quiere bailar, baila. Si quiere que le hagan reverencias, se le hacen reverencias. —Te suelta—. Si este planeta sigue existiendo mañana, va a ser porque todos se portaron bien hoy.
+
+Se acomoda la camisa rosada. Mira hacia la cubierta, hacia Bulma, que se ríe con Milk y la 18 junto a la torta.
+
+—Y yo voy a tener que... —Se le tuerce la boca, como si le doliera—. Ser amable.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1518 · DRAGON BALL · SÁBADO · 12:18    ║
+║ Crucero de Bulma · baranda de la cubierta    ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda, con la cola erizada     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Bills viene a la Tierra            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:18, crucero. Vegeta explicó quién es Bills y fijó las reglas (nadie lo provoca). Goku no sabe nada. Bills en camino. Facundo puede actuar.

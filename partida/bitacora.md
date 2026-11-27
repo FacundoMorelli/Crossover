@@ -1516,3 +1516,4 @@ T1514 · DRAGON BALL · Crucero · Goten muestra la Bola Giratoria: tromba de ag
 T1515 · DRAGON BALL · Crucero · CORRECCIÓN: Facundo cubrió el barco con una línea invisible de Sakaime; el agua resbaló sobre nada y cayó al mar. Todos lo vieron; Vegeta sabe que no fue Goten.
 T1516 · DRAGON BALL · Crucero · A Trunks: "por ahora no, no sería justo." Trunks: "después sí". Vegeta en la baranda: "¿Kakarotto entrenó contigo estos días?"
 T1517 · DRAGON BALL · Crucero · Vegeta, celoso de Goku, exige entrenar mañana. Kaio-sama le avisa por telepatía que Bills viene a la Tierra. Vegeta, pálido.
+T1518 · DRAGON BALL · Crucero · Vegeta le explica quién es Bills (Dios de la Destrucción; humilló al rey Vegeta; Freezer le temía). Reglas: nadie lo provoca ni le niega nada. "Voy a tener que ser amable."

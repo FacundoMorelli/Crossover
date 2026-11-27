@@ -102,3 +102,4 @@
 - Vegeta · T1516 · Deduce que Facundo paró el agua y que le enseñó la técnica a Goten; sospecha que Goku entrenó con él.
 - Trunks · T1516 · Por Facundo: quizás le enseñe una técnica después.
 - Vegeta · T1517 · Por Kaio-sama (telepatía): Bills va a la Tierra. Nadie más lo oyó. Facundo vio la reacción de Vegeta y lo oyó murmurar.
+- Facundo · T1518 · Por Vegeta: quién es Bills (Dios de la Destrucción, humilló al rey Vegeta, Freezer le temía), qué busca (Super Saiyajin Dios) y que viene a la Tierra. Goku no sabe nada.
