@@ -155,3 +155,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1598 · Se pone de pie en el apoyabrazos; mira a Facundo sin miedo, como siempre.
 - T1599 · Bills pasa volando sobre su cabeza; no se agacha. Se vuelve a sentar.
 - T1602 · Sigue a Facundo trotando y se le sube al hombro; mira a Vegeta sin parpadear.
+- T1604 · Facundo le rasca detrás de la oreja: ronroneo largo; le da un cabezazo suave en la mejilla, en la costra.
