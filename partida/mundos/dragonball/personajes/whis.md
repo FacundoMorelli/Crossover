@@ -77,3 +77,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1606 · A Goku: "La fusión junta a dos personas. Esto es una sola persona juntando dos cosas que no deberían poder estar juntas." "El Ultra Instinto es calma absoluta. Esa otra forma suya es fuego. Una cosa así debería apagar a la otra. Y sin embargo..." SABE (+T1606): Facundo combina habilidades (por Facundo).
 - T1607 · Ve el Hakai de Facundo, sin sonreír: "Sí, Bills-sama. Es un Hakai." "Así parece, Bills-sama."
 - T1608 · "Lo vi, Bills-sama." "Un humano. Que copia lo que ve, y lo junta como quiere. Facundo-san, cada vez que abre la boca me deja con más preguntas que antes." Sabe que copia (por Facundo).
+- T1610 · A Facundo, bajito: "Si me permite un consejo: no se las dé todas juntas. Una por día dura ciento cinco días. Y en ciento cinco días Bills-sama no destruye nada por aburrimiento. Al universo le haría un gran favor."

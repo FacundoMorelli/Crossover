@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1607)
-
-mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
-
-## RESPUESTA 1 (T1607)
-
-> mucho, de hecho, perdon bills por copiarte esto, pero mira esto uso el hakai en una roca
-
-> —Mucho, de hecho. Perdón, Bills, por copiarte esto. Pero mira.
-
-Te das vuelta hacia la explanada.
-
-Al borde, donde termina el pasto, hay una roca suelta del tamaño de un carro, de las que cayeron del cielo cuando dejaste de contenerte. Levantas la mano derecha hacia ella, con la palma abierta.
-
-No tienes que pensar cómo se hace. Lo sabes desde ayer, desde que la orden de Bills chocó contra tu piel y se rompió. Lo sabes igual que sabes respirar.
-
-Alrededor de la roca aparece un contorno.
-
-Es violeta, como el de Bills, finísimo, como un lápiz que repasa la silueta. Pero por el borde de la línea corre otra cosa, que en el de Bills no estaba: un hilo de llama blanca y azul, ondulando despacio, igual que las que te rodean el cuerpo.
-
-Adentro del contorno, la roca se queda callada.
-
-Y deja de ser.
-
-No explota ni se rompe. Se deshace en partículas violetas, chiquitas, con chispas blancas y azules mezcladas, que suben, se apagan y no dejan nada. Ni polvo, ni sombra en el suelo. Donde estaba la roca, el pasto sigue verde y derecho, como si ahí nunca hubiera habido nada.
-
-Bajas la mano.
-
-Silencio.
-
-Bills está parado en el borde del círculo de pasto aplastado, con la bolsa de semillas colgando de la mano. No se mueve. Las orejas se le aplastan hacia atrás, despacio, hasta quedar pegadas a la cabeza. La cola se le queda tiesa, recta, como un palo.
-
-—Eso —dice, muy bajito— es un Hakai.
-
-—Sí, Bills-sama —dice Whis. Está mirando el lugar donde estaba la roca, sin sonreír—. Es un Hakai.
-
-—Es mi Hakai.
-
-—Así parece, Bills-sama.
-
-Goku mira a Bills, después a ti, después a Bills otra vez, con la boca abierta. Kase, sentado a su lado, mira la nada donde estaba la roca y después se lame una pata.
-
-Vegeta descruza los brazos.
-
-Bills da un paso adelante, al fin, pisando el círculo de pasto aplastado. Se le eriza el pelo de la nuca. Te mira con los ojos amarillos muy abiertos, y por un segundo no sabes si va a gritar, a reírse o a llorar de rabia.
-
-—¿Copiarme? —Le tiembla la voz—. ¿Me copiaste? ¿Cuándo? ¿Cómo que me copiaste? ¡Eso es mío! ¡Soy el Dios de la Destrucción! ¡Es lo único que hago! ¡Es mi trabajo!
-
-Le apunta a tu cara con la bolsa de semillas, como si fuera un arma.
-
-—¡¿Y ahora qué?! ¡¿Yo ya no lo tengo?! —Se mira la palma libre, desesperado, y la abre y la cierra—. ¡¿Me lo sacaste?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1607 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 53% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~42 min) · Velo: ki bajo   ║
-║ Kase: sentado al lado de Goku                ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1608)
+## COMANDO 1 (T1608)
 
 no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
 
-## RESPUESTA 2 (T1608)
+## RESPUESTA 1 (T1608)
 
 > no señor bills, es una copia, por eso mismo tengo el super saiyan, lo copie de goku, soy un humano
 
@@ -145,11 +76,11 @@ Bills, con el dedo todavía levantado, te mira de reojo. La cola se le mueve des
 
 ---
 
-## COMANDO 3 (T1609)
+## COMANDO 2 (T1609)
 
 algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
 
-## RESPUESTA 3 (T1609)
+## RESPUESTA 2 (T1609)
 
 > algo asi si, ya copie todos tus poderes, asi que lo que hagas ya lo tengo
 
@@ -210,4 +141,73 @@ Afuera de la conversación, Whis se ríe abiertamente. Kase, en el pasto, bostez
 
 ---
 
-ESTADO AL CIERRE: Bills ofendido, exige pago en hamburguesas por cada poder copiado: "¿Cuántos poderes me copiaste, exactamente?" Facundo puede contestar.
+## COMANDO 3 (T1610)
+
+ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
+
+## RESPUESTA 3 (T1610)
+
+> ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
+
+> —Eh... creo que todos. Tu estilo de pelea, el ki divino, la energía de destrucción, etcétera.
+
+Bills va contando con los dedos, muy serio, a medida que hablas.
+
+—Estilo de pelea. —Un dedo—. Ki divino. —Dos—. Energía de destrucción. —Tres—. El Hakai. —Cuatro—. Las esferas. —Cinco—. Y "etcétera".
+
+Se queda mirando la mano abierta.
+
+—"Etcétera" no es un número, muchacho del bolsillo.
+
+—Es una forma de decir "muchas cosas más", Bills-sama —dice Whis, amable.
+
+—Ya sé lo que es. —Bills cierra la mano—. Por eso. Si no sabe cuántas son, son muchas. Y si son muchas, son cien.
+
+Levanta la otra mano también, con los dedos abiertos, como si cien entraran ahí.
+
+—Cinco que dijo, más cien de "etcétera". —Te mira, triunfal—. Ciento cinco hamburguesas dobles con queso. Con papas. Y la malteada.
+
+Goku abre la boca.
+
+—¡¿Ciento cinco?! ¡¿Para usted solo?!
+
+—Para mí solo. Es mi pago. Tú no tienes poderes que copiar que valgan algo.
+
+—Él me copió el Super Saiyajin —protesta Goku.
+
+—Exacto. Algo que valga.
+
+Vegeta se tapa la cara con una mano. Le tiemblan los hombros. Esta vez sí es de risa, aunque no deja que se le escape ningún ruido.
+
+Whis se acerca a ti, con la libretita ya en la mano, y te habla bajito, al costado, sin que Bills lo oiga.
+
+—Si me permite un consejo, Facundo-san: no se las dé todas juntas. Una por día dura ciento cinco días. Y en ciento cinco días Bills-sama no destruye nada por aburrimiento. —Sonríe con los ojos cerrados—. Al universo le haría un gran favor.
+
+Bills, del otro lado, entrecierra los ojos.
+
+—Whis, te estoy escuchando.
+
+—Claro que sí, Bills-sama.
+
+Bills vuelve a mirarte, de brazos cruzados, con la cola moviéndose despacio detrás de él. Espera.
+
+—¿Y? —Levanta el mentón—. ¿Trato?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1610 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Jardín de la pirámide · mediodía             ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 53% · Ojos: bien · cortes cerrados   ║
+║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
+║ (x50.000 · quedan ~38 min) · Velo: ki bajo   ║
+║ Kase: sentado en el pasto                    ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills exige 105 hamburguesas (5 poderes + 100 de "etcétera"). Whis aconseja dárselas una por día. Bills: "¿Trato?" Facundo puede contestar.
