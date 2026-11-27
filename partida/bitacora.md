@@ -1665,3 +1665,4 @@ T1663 · DRAGON BALL · casa de Erasa · "Capaz tardo semanas, pero voy a venir 
 T1664 · DRAGON BALL · casa de Erasa · Le encanta el pollo. La mamá se ablanda, cuenta anécdotas, le da pollo a Kase. "¿Cuántos años tienes?"
 T1665 · DRAGON BALL · casa de Erasa · "Tengo dieciocho." Erasa tiene 22. La mamá se ríe ("¡Si es un nene!"). Erasa: "¿A ti no te molesta que yo sea más grande?"
 T1666 · DRAGON BALL · casa de Erasa · "No me molesta; Videl ya me había dicho tu edad." Erasa: "Esa traidora con panza." Bombones. "¿Qué más te contó Videl de mí?"
+T1667 · DRAGON BALL · casa de Erasa · "No me contó mucho más." La mamá: "Si la haces llorar, te encuentro." Se va a dormir. Erasa: "Le caíste bien."

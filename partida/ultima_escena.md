@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1664)
-
-lo pruebo y le digo que me encanta
-
-## RESPUESTA 1 (T1664)
-
-> lo pruebo y le digo que me encanta
-
-Cortas un pedazo de pechuga y lo pruebas.
-
-La piel cruje. Adentro, la carne está tierna y jugosa, con gusto a romero, a ajo, a limón y a algo más que no terminas de reconocer, algo de otra época, de cocina de abuela. Las papas están doradas por fuera y se deshacen por dentro.
-
-Le dices que te encanta.
-
-La madre de Erasa te mira un segundo más, buscándote la mentira en la cara. No la encuentra.
-
-Se le escapa una sonrisa. No la amable de la puerta: otra, más chica y más verdadera, que se le borra enseguida porque ella misma la borra.
-
-—Hm. —Corta su pollo, por fin, con la nariz un poco levantada—. Claro que te encanta. Es la receta de mi madre. Lo raro sería que no.
-
-—Dijo que le encanta, mamá —dice Erasa, con la boca llena y los ojos brillando—. ¡Le encanta! ¡Y no está mintiendo, se le nota!
-
-—Ya escuché, ya escuché.
-
-Pero te sirve otra papa sin que la pidas. Y después otra.
-
-La cena se afloja. La madre come y habla, y cuando habla ya no pregunta como en la puerta: cuenta. Cuenta que Erasa de chica quería ser azafata para conocer el mundo y que se mareaba en el ascensor. Que una vez, a los ocho, se escapó de la casa con una valija con ruedas y llegó hasta la esquina del buzón del pato, y volvió porque se le había olvidado el oso. Que en la preparatoria estaba enamorada de un chico que después resultó ser Gran Saiyaman. Erasa se tapa la cara con la servilleta y grita "¡Mamá!" cada tres frases. Debajo de la mesa no suelta tu pie.
-
-En la sala, Kase se levanta de la almohadita, entra en la cocina como si nada, pasa entre las patas de las sillas y se sienta al lado de la madre de Erasa. La mira. Ella lo mira. Sin decir una palabra, le corta un pedacito de pollo sin piel, lo sopla y se lo pone en un platito en el piso. Kase lo come con elegancia. Después vuelve a la sala.
-
-—Tiene buenos modales tu gato —dice ella, limpiándose los dedos con la servilleta—. Mejores que los de muchas personas.
-
-Se sirve un poco más de agua. Te mira por encima del vaso, con la cabeza inclinada, como quien acaba de acordarse de algo importante.
-
-—Oye, querido. Una cosa más, y no es fea, te lo prometo. —Deja el vaso—. ¿Cuántos años tienes? Porque con esa cara y ese pelo no te puedo calcular.
-
-Erasa deja de masticar.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1664 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Casa de Erasa, cocina comedor · 20:35        ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en la almohadita junto al sillón       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena en casa de Erasa              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1665)
+## COMANDO 1 (T1665)
 
 tengo 18
 
-## RESPUESTA 2 (T1665)
+## RESPUESTA 1 (T1665)
 
 > tengo 18
 
@@ -111,11 +57,11 @@ Se muerde el labio.
 
 ---
 
-## COMANDO 3 (T1666)
+## COMANDO 2 (T1666)
 
 no, no me molesta, videl ya me habia dicho tu edad
 
-## RESPUESTA 3 (T1666)
+## RESPUESTA 2 (T1666)
 
 > no, no me molesta, videl ya me habia dicho tu edad
 
@@ -163,4 +109,64 @@ Erasa se inclina hacia ti por encima de la mesa, con el bombón redondo en la ma
 
 ---
 
-ESTADO AL CIERRE: martes 20:42, cocina comedor. A Facundo no le molesta; Videl ya le había dicho la edad de Erasa (declarado por el jugador). Erasa aliviada ("Esa traidora con panza"). La mamá suma puntos ("sabías que tenía veintidós y viniste igual"); postre: bombones (Erasa deja el de corazón; la mamá se lo come). La mamá sirve café de espaldas. Erasa, bajito: "¿Y qué más te contó Videl de mí? Dímelo todo. Así sé a quién tengo que matar mañana."
+## COMANDO 3 (T1667)
+
+no me contó mucho más
+
+## RESPUESTA 3 (T1667)
+
+> no me contó mucho más
+
+> —No me contó mucho más.
+
+Erasa entrecierra todavía más los ojos.
+
+—"Mucho más." —Te apunta con el bombón redondo—. No es lo mismo "mucho más" que "nada más". Eso lo sé yo, lo sabe mi mamá y lo sabe cualquiera.
+
+Te estudia la cara un segundo largo, buscando algo. No encuentra nada. Suspira, vencida, y se mete el bombón entero en la boca.
+
+—Bueno —dice, con la boca llena—. Igual la mato. Por las dudas.
+
+La madre vuelve a la mesa con tres tazas de café en una bandeja. Les pone una delante a cada uno, con el azucarero y una jarrita de leche con forma de vaca. Se sienta. Toma un sorbo largo, mirando a uno y después al otro, y deja la taza en el plato con un clic suave.
+
+—Bueno. Ya es tarde y yo me levanto a las seis. —Se acomoda las perlas—. Así que te voy a decir una cosa, Facundo, y después me voy a dormir y los dejo tranquilos.
+
+Erasa se pone tensa en la silla.
+
+La madre apoya los codos en la mesa y entrelaza los dedos. Te mira directo a los ojos, primero al rojo y después al azul, sin parpadear, igual que miró a Kase en la puerta.
+
+—El pollo te gustó de verdad. Eso se nota. No me mentiste en nada, ni con lo de irte. Y sabías la edad de mi hija y viniste igual, con bombones. —Va contando con los dedos, sin soltar las manos—. Eso está bien. Todo eso está bien.
+
+Se inclina un poco hacia adelante.
+
+—Pero si la haces llorar, te encuentro. No me importa en qué isla estés, ni en qué montaña, ni con qué gato. Te encuentro. —Sonríe, amabilísima—. ¿Estamos?
+
+No espera la respuesta. Se levanta, se termina el café de pie, le da un beso a Erasa en la cabeza, entre los rulos, y te pone una mano en el hombro al pasar, un segundo, firme.
+
+—Buenas noches, chicos. Erasa, apaga el horno, que lo dejé prendido.
+
+Sube la escalera. Se oyen sus pasos arriba, una puerta, el agua de un baño. Después, nada.
+
+Erasa y tú se quedan solos en la cocina. Las tres tazas de café. La caja de bombones abierta, con un hueco donde estaba el de corazón. El horno, prendido, haciendo tic tic tic.
+
+Erasa no se mueve. Mira la escalera por donde se fue su madre, con la boca abierta. Después te mira a ti.
+
+—Te amenazó —susurra, entre horrorizada y encantada—. Mi mamá te amenazó. Eso quiere decir que le caíste bien. Nunca amenaza a nadie que le cae mal. Ni lo mira.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1667 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Casa de Erasa, cocina comedor · 21:05        ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en la almohadita junto al sillón       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena en casa de Erasa              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: martes 21:05, cocina comedor de la casa de Erasa. La mamá sirvió café, dio su veredicto (todo bien: pollo, honestidad, edad, bombones) y amenazó con cariño: "si la haces llorar, te encuentro, no me importa en qué isla estés"; se fue a dormir (se levanta a las seis). Facundo y Erasa solos en la cocina; el horno prendido. Erasa: "Te amenazó. Eso quiere decir que le caíste bien."
