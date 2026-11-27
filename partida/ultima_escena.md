@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1499)
-
-no perdon, anduve con muchas cosas mientras viajaba
-
-## RESPUESTA 1 (T1499)
-
-> no perdon, anduve con muchas cosas mientras viajaba
-
-> —No, perdón. Anduve con muchas cosas mientras viajaba.
-
-Milk se queda mirándote con los labios apretados.
-
-—Muchas cosas —repite—. Viajando. —Se da vuelta hacia el claro, donde Goku intenta levantarse del pasto y se vuelve a caer sentado—. ¡Igualito a él! ¡Igualito! "Tenía muchas cosas", "estaba entrenando", "no me di cuenta". ¡Tres años con un libro en el bolsillo y ni una página!
-
-Goku, desde el pasto, levanta la mano.
-
-—Yo no dije nada...
-
-—¡Tú cállate y báñate!
-
-Milk suspira, largo, y te empuja adentro de la casa.
-
-La cocina es la misma de hace tres años: chica, limpia, llena de ollas colgadas, con una mesa redonda en el medio y el olor a arroz recién hecho. En la pared, al lado de la ventana, hay fotos nuevas en marcos: Gohan y Videl vestidos de novios delante de la mansión de Mr. Satán, con Mr. Satán llorando a moco tendido al costado; Goten con un uniforme de escuela que le queda grande; Goku dormido en una hamaca.
-
-Milk te sienta en una silla. Moja un trapo en agua tibia y te limpia la sangre seca de la boca, sin delicadeza pero con cuidado. Después te unta las palmas con una pomada verde que huele a menta y te las venda con dos vueltas de gasa cada una.
-
-—Quédate quieto. —Te aprieta la venda—. Así. Ahora come.
-
-Te pone delante un tazón de arroz enorme, sopa, pescado asado, verduras. Se sienta del otro lado de la mesa, con los brazos cruzados, y te mira comer, como si vigilara que no dejaras nada.
-
-Afuera se oye el agua de la tina del baño, a Goku cantando desafinado, y a Goten que le explica a Kase, muy serio, cómo se pesca en el arroyo.
-
-Cuando vas por la mitad del tazón, Milk descruza los brazos.
-
-—Bueno. Lo del libro te lo perdono. Un poco. —Se acomoda el rodete—. ¿Hasta cuándo te quedas? La fiesta de Bulma es el sábado, en cuatro días. La casita de al lado está como la dejaste. Le cambié las sábanas la semana pasada, por si acaso.
-
-Hace una pausa. Se pone un poco colorada.
-
-—No porque te estuviera esperando. Le cambio las sábanas a todo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1499 · DRAGON BALL · AÑO 777 · 12:40   ║
-║ Monte Paoz · casa de los Son, cocina         ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · Palmas vendadas   ║
-║ Velo: persona común                          ║
-║ Kase: afuera, con Goten junto al arroyo      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Fiesta de Bulma el sábado (Bills)  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1500)
+## COMANDO 1 (T1500)
 
 esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
 
-## RESPUESTA 2 (T1500)
+## RESPUESTA 1 (T1500)
 
 > esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
 
@@ -116,11 +60,11 @@ Goku se da vuelta hacia ti, con la toalla resbalándole de la cabeza y las manos
 
 ---
 
-## COMANDO 3 (T1501)
+## COMANDO 2 (T1501)
 
 esta bien
 
-## RESPUESTA 3 (T1501)
+## RESPUESTA 2 (T1501)
 
 > esta bien
 
@@ -167,4 +111,61 @@ Kase, en el suelo de la cocina, se sacude el agua de las patas, una por una, mir
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 13:00, cocina de los Son. Mañana a las 6, arar con Goku. Goten, empapado, quiere mostrarle sus dibujos de Kase: "¿Kase puede ser Super Saiyajin?" Facundo puede responder.
+## COMANDO 3 (T1502)
+
+no, no puede, que yo sepa
+
+## RESPUESTA 3 (T1502)
+
+> no, no puede, que yo sepa
+
+> —No, no puede. Que yo sepa.
+
+Goten se queda quieto con la boca abierta, todavía agarrado de tu manga.
+
+—¿No? —Mira a Kase. Kase lo mira a él—. ¿Ni un poquito?
+
+Kase bosteza.
+
+Goten se lo piensa un segundo, con la cara muy arrugada. Después se encoge de hombros, y la desilusión se le va de la cara tan rápido como vino.
+
+—Bueno. En el dibujo sí puede.
+
+Y te arrastra por el pasillo.
+
+El cuarto de Goten es chico, desordenado, con una cama deshecha, ropa en el suelo, un uniforme de escuela tirado en una silla y una mochila que parece no haberse abierto nunca. Pero la pared de enfrente de la cama está tapada de dibujos. De punta a punta, del piso hasta donde llega un chico de diez años parado en puntas de pie. Pegados con cinta, uno encima del otro, de colores.
+
+Todos son de Kase.
+
+Kase durmiendo sobre un pastel. Kase con una capa roja, volando por encima de las montañas. Kase comiendo un pescado más grande que la casa. Kase peleando contra Buu, que llora. Kase con el pelo dorado y en punta, con rayos alrededor, rodeado de estrellas, y abajo, en letras torcidas: "KASE SUPER SAIYAJIN 4". Kase al lado de un chico de pelo blanco y azul con un sobretodo negro, los dos de la mano, aunque Kase no tenga manos.
+
+En algunos hay un chico de pelo negro en punta, chiquito, en una esquina, saludando.
+
+Goten se para en el medio del cuarto, con los brazos abiertos, orgulloso.
+
+—¡Son cuarenta y tres! —dice—. Los conté. Mamá dice que son cuarenta, pero son cuarenta y tres.
+
+Kase entra al cuarto detrás de ustedes. Se sienta en el medio del piso. Levanta la cabeza y mira la pared, despacio, de un lado al otro, como un crítico en una exposición.
+
+Goten arranca uno de la pared con cuidado. El de los dos de la mano. Lo alisa contra la rodilla, porque se le dobló una punta, y te lo extiende con las dos manos.
+
+—Este es el mejor. —Lo dice muy serio—. Te lo regalo. Pero tienes que guardarlo bien. Y no lo puedes perder en ninguno de esos lugares a donde vas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1502 · DRAGON BALL · AÑO 777 · 13:05   ║
+║ Monte Paoz · cuarto de Goten                 ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · Palmas vendadas   ║
+║ Velo: persona común                          ║
+║ Kase: sentado mirando los dibujos            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Arar con Goku mañana a las 6 ·     ║
+║ fiesta de Bulma el sábado                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 13:05, cuarto de Goten. Goten le extiende el dibujo de Kase y Facundo de la mano como regalo. Facundo puede responder.

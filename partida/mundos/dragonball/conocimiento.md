@@ -79,3 +79,4 @@
 - Milk, Goten · T1497 · Ven a Facundo aparecer de la nada con Goku en el claro (sangre seca en la boca, palmas rojas).
 - Milk, Goten · T1498 · Por Facundo: Goku estaba en el planeta de Kaio.
 - Milk, Goku · T1500 · Por Facundo: se queda hasta unos días después del cumpleaños de Bulma.
+- Goten · T1502 · Sabe (por Goku/Milk o por lo visto) que Facundo va a "lugares" lejanos.

@@ -30,3 +30,4 @@ ESTADO: bien.
 - T1499 · Le explica a Kase, muy serio, cómo se pesca en el arroyo.
 - (por Milk, T1500) Pregunta por el gato todas las semanas; lo dibujó unas cuarenta veces; dibujos pegados en la pared de su cuarto.
 - T1501 · Entra empapado con un pescado vivo: "¡El gato me ayudó! ¡Se metió al agua!" Lo deja en la mesa junto al tazón de Facundo. Tira de la manga de Facundo para mostrarle sus dibujos de Kase (Kase vs Buu; Kase Super Saiyajin). "¿Kase puede ser Super Saiyajin?"
+- T1502 · Por Facundo: Kase no puede ser Super Saiyajin "que yo sepa". "Bueno. En el dibujo sí puede." Muestra su pared: 43 dibujos de Kase (sobre un pastel, con capa, con un pescado gigante, contra Buu, "KASE SUPER SAIYAJIN 4", Kase y Facundo de la mano; a veces Goten en una esquina saludando). Le regala el de la mano: "Este es el mejor. Te lo regalo. Pero tienes que guardarlo bien. Y no lo puedes perder en ninguno de esos lugares a donde vas."
