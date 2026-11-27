@@ -1467,3 +1467,4 @@ T1465 · ONE PIECE · Moby Dick · Facundo cura a Barbablanca con la Transfigura
 T1466 · ONE PIECE · Moby Dick · "Sigue siendo un Emperador hasta que mi capitán sea Rey de los Piratas." Barbablanca de pie, sano, risa que sacude el mar. Anuncia a la flota que está sano. Brindis: "¡Por el mocoso del gato!"
 T1467 · ONE PIECE · Moby Dick → Baltigo · SIMULACIÓN Días ~121-125: despedida Ace-Sabo; Sabo vuelve a Baltigo; mensaje de Luffy a Robin; días tranquilos en Baltigo (enseña espada, investigación de Robin, paseos, flor seca). Robin: "¿Terminó la historia de ese mundo?"
 T1468 · ONE PIECE · Baltigo, cuarto de Robin · "Terminó. Están todos en paz." Robin: "¿Cuánto de esa paz es culpa tuya?"
+T1469 · ONE PIECE · Baltigo, cuarto de Robin · "Sin mí, la mitad estarían muertos." Robin: "Tú vas por ahí cambiando la historia." Quiere escribirla algún día. "¿Cuánto tiempo te quedas esta vez?"

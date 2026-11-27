@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1466)
-
-un secreto, sigue siendo un emperador del mar Edwars Newgate, hasta que mi capitán sea el rey de los piratas
-
-## RESPUESTA 1 (T1466)
-
-> un secreto, sigue siendo un emperador del mar Edwars Newgate, hasta que mi capitán sea el rey de los piratas
-
-> —Un secreto. Sigue siendo un Emperador del Mar, Edward Newgate. Hasta que mi capitán sea el Rey de los Piratas.
-
-Barbablanca se queda mirándote.
-
-Por un momento no pasa nada. La cubierta entera está callada. Se oye el mar contra el casco, el crujido de los mástiles, una antorcha que chisporrotea.
-
-Después apoya el bisento en las tablas. Apoya la otra mano en el apoyabrazos agrietado.
-
-Y se pone de pie.
-
-No como en Marineford, a fuerza de voluntad. Se levanta de un solo movimiento, limpio, sin apoyarse, sin que le tiemble ni una rodilla. Los piratas que están cerca dan un paso atrás sin querer. Es más alto parado de lo que muchos de ellos recuerdan haberlo visto en años. La jefa de enfermeras se tapa la boca con la tablilla.
-
-Barbablanca respira hondo otra vez, con el pecho lleno de aire limpio de mar. Mira la flota, las velas, las antorchas encendidas en cada barco.
-
-Y se ríe.
-
-—¡GURARARARARARARA!
-
-La risa sale de él como un trueno. El aire alrededor se agrieta apenas, con un crujido de vidrio, y el mar entero tiembla en ondas circulares que se alejan del Moby Dick hacia la flota. En los otros barcos, la gente se asoma a las barandas para ver qué pasó.
-
-—¡El mocoso de goma! ¡Rey de los Piratas! —Golpea el bisento contra la cubierta—. ¡Que venga a buscar la corona cuando quiera! ¡Aquí lo espero! ¡Pero que sepa que este viejo ya no se va a morir solo!
-
-Se da vuelta hacia sus hijos. Doscientas caras que lo miran sin entender del todo, y empiezan a entender.
-
-—¡Ya lo oyeron! ¡El viejo está sano! —Levanta el cuenco vacío—. ¡Y no pienso volver a tomar esas porquerías que me dan las enfermeras!
-
-—¡Capitán! —protesta la jefa de enfermeras, todavía con lágrimas en los ojos.
-
-La cubierta explota.
-
-Es peor que antes. Gritos, sombreros al aire, alguien que llora a moco tendido abrazado a un mástil. Jozu se despierta de golpe y pregunta qué pasó. Marco se queda quieto en medio del ruido, con la boca abierta, y después se tapa los ojos con una mano y se le encienden las llamas azules de los hombros sin querer. Ace corre hasta el pie de la silla y se queda ahí parado, mirando a su padre de pie, sin poder decir nada.
-
-Barbablanca baja la vista hacia ti. Se agacha, apoya una mano enorme en tu cabeza, encima del pelo blanco y azul, y casi te hunde en la cubierta.
-
-—Mocoso. —La voz le sale grave, baja, solo para ti—. No te voy a preguntar cómo. Pero no me voy a olvidar.
-
-Te suelta. Toma el cuenco del tamaño de un barril, lo llena él mismo del barril más cercano y te pone en las manos el tuyo, también lleno hasta el borde.
-
-—¡Por el mocoso del gato! —ruge hacia la flota.
-
-Y la flota entera, cuarenta barcos en medio del Nuevo Mundo, le contesta a los gritos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1466 · ONE PIECE · DÍA ~121 · NOCHE    ║
-║ Nuevo Mundo · Moby Dick · silla de           ║
-║ Barbablanca                                  ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Velo: persona común                          ║
-║ Kase: sobre una caja, comiendo pescado       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1467)
+## COMANDO 1 (T1467)
 
 simula unos dias  pasando el tiempo con robin
 
-## RESPUESTA 2 (T1467)
+## RESPUESTA 1 (T1467)
 
 > simula unos dias  pasando el tiempo con robin
 
@@ -131,11 +64,11 @@ Levanta la cabeza para mirarte. Tiene los ojos tranquilos, pero brillantes, con 
 
 ---
 
-## COMANDO 3 (T1468)
+## COMANDO 2 (T1468)
 
 si, termino, estan todos en paz
 
-## RESPUESTA 3 (T1468)
+## RESPUESTA 2 (T1468)
 
 > si, termino, estan todos en paz
 
@@ -176,4 +109,53 @@ Levanta una ceja.
 
 ---
 
-ESTADO AL CIERRE: ONE PIECE, Día ~125 noche, Baltigo, cuarto de Robin. Robin: "¿Cuánto de esa paz es culpa tuya?" Facundo puede responder.
+## COMANDO 3 (T1469)
+
+digamos que sin mi, estarían la mitad muertos
+
+## RESPUESTA 3 (T1469)
+
+> digamos que sin mi, estarían la mitad muertos
+
+> —Digamos que, sin mí, la mitad estarían muertos.
+
+Robin no dice nada enseguida.
+
+Se queda mirándote, con la barbilla en tu pecho y el pelo negro cayéndole sobre tu hombro. No parece sorprendida. Parece estar haciendo cuentas, como cuando lee una inscripción y le falta una palabra.
+
+—La mitad —dice despacio—. De un mundo entero.
+
+Apoya la mejilla sobre tu corazón. Lo escucha un rato, en silencio.
+
+—Cuando era chica, en Ohara, los que más sabían me enseñaron que la historia no se puede cambiar. Que solo se puede leer. Que lo que pasó, pasó, y que lo único que nos queda es que alguien se acuerde. —Se le escapa una risa muy bajita contra tu piel—. Y tú vas por ahí, de mundo en mundo, cambiándola. Con un gato en el hombro.
+
+Levanta la cabeza. Te besa. Despacio, sin apuro, como si tuviera toda la noche.
+
+Después se acomoda otra vez sobre tu pecho, se tapa con la manta hasta el hombro y te agarra la mano, entrelazando los dedos.
+
+—Algún día me vas a contar todo —murmura, ya con los ojos cerrados—. Desde el principio. Cada mundo. Cada persona. Y yo lo voy a escribir. Alguien tiene que acordarse.
+
+Kase, en el alféizar, abre un ojo, el azul. Los mira. Lo vuelve a cerrar.
+
+La respiración de Robin se va haciendo más lenta, más larga, contra tu pecho. Todavía no se durmió del todo. Te aprieta los dedos una vez, apenas.
+
+—¿Cuánto tiempo te quedas esta vez?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1469 · ONE PIECE · DÍA ~125 · NOCHE    ║
+║ Baltigo · base revolucionaria · cuarto de    ║
+║ Robin                                        ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: dormido en el alféizar                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: ONE PIECE, Día ~125 noche, Baltigo, cuarto de Robin. Robin, medio dormida sobre su pecho: "¿Cuánto tiempo te quedas esta vez?" Facundo puede responder.

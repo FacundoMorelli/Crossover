@@ -297,3 +297,4 @@
 - Revolucionarios de Baltigo · T1467 · Días ~122-125: conviven con Facundo; seis aprenden con él a sostener una espada corta en el patio (ven su manejo de espadas, nada más).
 - Robin · T1467 · Por Facundo: el mensaje de Luffy (la extraña; el capitán más fuerte del mundo en dos años). Por Sabo/Facundo, probablemente: lo del Moby Dick.
 - Robin · T1468 · Por Facundo: el mundo de los titanes (Shingeki) terminó en paz. Sospecha (deducción) que Facundo tuvo mucho que ver.
+- Robin · T1469 · Por Facundo: sin él, la mitad de la gente del mundo de los titanes estaría muerta.
