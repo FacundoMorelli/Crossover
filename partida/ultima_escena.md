@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1513)
-
-mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
-
-## RESPUESTA 1 (T1513)
-
-> mucho gusto bulma, creo que no nos conocimos cuando pasó lo de buu, o si? no me acuerdo, bueno me llamo Facundo Morelli(y fijate que en el repo de dragon ball tendría que estar el canon de super)
-
-> —Mucho gusto, Bulma. Creo que no nos conocimos cuando pasó lo de Buu. ¿O sí? No me acuerdo. Bueno, me llamo Facundo Morelli.
-
-Bulma te estrecha la mano. Firme, rápido, como quien cierra un negocio.
-
-—No, no nos conocimos. Me acordaría. —Te suelta la mano y te señala con la copa—. Pero te vi. En la tele. Medio mundo te vio. El día del torneo, cuando aterrizaste en el ring con ese monstruo rosado y con el gato en el hombro. —Mira a Kase—. Ese mismo gato.
-
-Kase la mira de vuelta, sin parpadear.
-
-—Después pasaron tantas cosas que nadie entendió nada —sigue Bulma—. Buu se volvió bueno, apareció viviendo con Mr. Satán, y tú desapareciste. Vegeta nunca me quiso contar qué pasó. Cada vez que le pregunto, dice "trucos" y se encierra en la cámara de gravedad. —Toma un trago—. Y Goku, que no sabe guardar un secreto ni aunque le paguen, ahora resulta que sí sabe.
-
-Se te acerca un paso. Baja la voz.
-
-—Facundo Morelli. —Lo repite como si lo anotara—. Eso ya es más de lo que sabía hace cinco minutos. —Te guiña un ojo—. Algún día me vas a contar de dónde sacaste ese pelo. Yo hice una cápsula para teñirlo de cualquier color y nunca me salió así.
-
-Antes de que puedas contestar, alguien te tira del sobretodo por detrás.
-
-Es Goten. Tiene la camisa blanca más manchada que hace un rato, una mancha de chocolate en la cara y, al lado, a Trunks: pelo lila, chaleco, cara de chico que sabe que es el más listo de la fiesta y quiere que se note.
-
-—¡Facundo! —susurra Goten, aunque grita—. ¡Trunks no me cree! ¡Le dije que tengo una técnica nueva y dice que es mentira!
-
-Trunks se cruza de brazos.
-
-—Goten no tiene técnicas nuevas. Nunca tiene técnicas nuevas. —Te mira de arriba abajo, con desconfianza—. ¿Y tú quién eres? Tienes menos ki que el señor Krilin.
-
-—¡Es mi amigo! ¡Y me enseñó! —Goten te mira con los ojos enormes y las manos juntas—. ¿Puedo mostrársela ahora? ¿Ahora? ¿Puedo?
-
-Bulma se ríe y levanta la copa, a modo de permiso, o de despedida, o de las dos cosas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1513 · DRAGON BALL · SÁBADO · 12:06    ║
-║ Crucero de Bulma · cubierta principal        ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.249 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
-║ hoy) · técnica de Goten                      ║
-╚══════════════════════════════════════════════╝
-```
-
-Revisé las cuatro ramas del repo y en canon/dragonball/ solo hay hasta el final de Buu (13_kid_buu_final.md). No hay ningún archivo de Super en ninguna rama. La rama nueva, ccr-c851f38e-3rekto, agrega Chainsaw Man, Demon Slayer, Fullmetal y Solo Leveling, pero nada de Dragon Ball Super. Sigo con lo que sé de Super. Si lo subes, lo uso.
-
----
-
-## COMANDO 2 (T1514)
+## COMANDO 1 (T1514)
 
 esta bien goten
 
-## RESPUESTA 2 (T1514)
+## RESPUESTA 1 (T1514)
 
 > esta bien goten
 
@@ -131,11 +76,11 @@ Trunks se da vuelta hacia ti, chorreando agua, con los ojos enormes. Ya no tiene
 
 ---
 
-## COMANDO 3 (T1515)
+## COMANDO 2 (T1515)
 
 hace que haya cubierto a todos para que no se moje nada
 
-## RESPUESTA 3 (T1515)
+## RESPUESTA 2 (T1515)
 
 > hace que haya cubierto a todos para que no se moje nada
 
@@ -192,4 +137,63 @@ Trunks se da vuelta hacia ti, con los ojos enormes. Ya no tiene cara de chico li
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:10, crucero. Corrección: nadie se mojó (techo invisible de Sakaime). Vegeta sabe que no fue Goten. Trunks: "¡Enséñame a mí también! ¡Mejor que a él!" Facundo puede responder.
+## COMANDO 3 (T1516)
+
+no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
+
+## RESPUESTA 3 (T1516)
+
+> no, por ahora no, el me dijo que ya tenes técnicas nuevas y el queria una, si te la enseñó a ti no sería justo
+
+> —No, por ahora no. Él me dijo que tú ya tienes técnicas nuevas, y él quería una. Si te la enseño a ti, no sería justo.
+
+Trunks abre la boca. La cierra. Se pone colorado hasta las orejas.
+
+—¡Eso no es...! —Se da vuelta hacia Goten—. ¡¿Le dijiste eso?!
+
+Goten sonríe de oreja a oreja, con las manos detrás de la nuca.
+
+—Es que es verdad. Tu papá te enseña cosas todo el tiempo.
+
+—¡Mi papá me enseña a que me peguen en la cámara de gravedad! ¡Eso no es una técnica!
+
+—Bueno. —Goten se encoge de hombros—. Ahora yo tengo una y tú no.
+
+Trunks aprieta los puños. Mira a Goten, después a ti, después al mar, donde ya no queda nada del agujero. Se cruza de brazos con fuerza y te mira con los ojos entrecerrados, igual, exactamente igual, que su padre hace un rato.
+
+—"Por ahora" —repite—. Dijiste "por ahora". Eso quiere decir que después sí.
+
+Se da vuelta y se va hacia el buffet, con los hombros duros, pisando fuerte. A los tres pasos se para, se da vuelta y le saca la lengua a Goten. Goten le saca la lengua de vuelta. Después los dos se echan a reír, sin saber por qué, y salen corriendo juntos hacia la mesa de los postres, donde Buu los recibe con una cuchara en cada mano.
+
+Te quedas solo en la baranda, con Kase.
+
+Pero no por mucho.
+
+Unos pasos se acercan por la cubierta. Pesados, rápidos, de alguien que no quiere que lo vean apurado. Vegeta se para a tu lado, en la baranda, sin mirarte. Mira el mar. Tiene los brazos cruzados sobre la camisa rosada y la mandíbula tan apretada que se le marcan los músculos de la cara.
+
+Se queda un rato así, callado.
+
+—Hace tres años —dice al fin, sin darse vuelta— me tuviste en el suelo. A mí. En Super Saiyajin 2. Y hoy te escondes detrás de un ki de insecto, le enseñas trucos a un mocoso, y paras el mar con algo que nadie ve. —Escupe las palabras—. Y Kakarotto silba como un idiota cada vez que te mira.
+
+Por fin te mira. Los ojos negros, encendidos.
+
+—No me importa tu secreto. —Lo dice muy bajo, para que solo lo oigas tú—. Me importa una sola cosa. ¿Kakarotto entrenó contigo estos días?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1516 · DRAGON BALL · SÁBADO · 12:14    ║
+║ Crucero de Bulma · baranda de la cubierta    ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.249 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en la baranda                          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cumpleaños de Bulma (Bills llega   ║
+║ hoy)                                         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año 778, sábado 12:14, crucero. Trunks se fue con Goten. Vegeta, en la baranda: "¿Kakarotto entrenó contigo estos días?" Facundo puede responder.

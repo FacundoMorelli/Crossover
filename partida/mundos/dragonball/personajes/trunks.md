@@ -9,3 +9,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: por Goten, que es su amigo y le enseñó algo; siente su ki muy bajo (Velo).
 ESTADO: activo
 - T1514 · "Eso es una bola de ki. Yo hago bolas de ki desde los cuatro años." Ve la Bola Giratoria (no se moja: T1515). A Facundo: "Tú le enseñaste eso. ¡Enséñame a mí también! ¡Ahora! ¡Mejor que a él!"
+- T1516 · Facundo: "Por ahora no... no sería justo." "¡Mi papá me enseña a que me peguen en la cámara de gravedad! ¡Eso no es una técnica!" "Dijiste por ahora. Eso quiere decir que después sí." Se va furioso, le saca la lengua a Goten y se van juntos riéndose a los postres.
