@@ -30,3 +30,4 @@ DON DE MUNDO: Titán de Ceniza (ver sistema.json).
 - (Días 66-119) · Tramo de Wall Sina abierto en Mitras como camino. Antena de radio en el palacio. Primeros intentos de motor con combustible local.
 - (Días 66-119) Comercio semanal con Marley; puerto en la costa este; contacto con Hizuru; primera radio de Paradis capta transmisiones de Marley. Expedición de la Legión al continente aprobada (Día ~129).
 - (Días 66-119) Libro de medicina copiado en tres copias (una por distrito). Antibióticos usados: una nena de Trost salvada. Invernadero con brotes de semillas de clima frío.
+- T1475 · Día 119 · PRIMER MOTOR FUNCIONANDO EN PARADIS: la moto anda con nafta destilada del aceite de las minas del norte (por la explicación de Facundo a Hange).

@@ -208,3 +208,5 @@
 - Facundo · T1473 · Por Ymir: los cuatro de Marley liberados (Annie, Reiner, Bertholdt a Liberio; Zeke se quedó en Shiganshina); barcos y puerto; Hizuru; Eren al continente en 10 días; la radio de Hange captó música de Marley.
 - Hange, Levi · T1473 · Ven a Facundo con Ymir y el gato en el patio del ala este.
 - Facundo · T1474 · Por Hange: brotes en el invernadero, tres copias del libro de medicina, nena de Trost salvada con antibióticos, aceite destilado 20 veces, la moto no anda.
+- Hange, Levi, Ymir · T1475 · Por Facundo: cómo hacer combustible para el motor (fracción liviana) y que la bujía se ensucia de hollín.
+- Medio palacio (ventanas del ala este) · T1475 · Ven/oyen la moto andando; ven a Facundo en el patio.

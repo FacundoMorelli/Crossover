@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1472)
-
-me acerco a ymir y le doy un beso, como estas amor?
-
-## RESPUESTA 1 (T1472)
-
-> me acerco a ymir y le doy un beso, como estas amor?
-
-Cruzas los diez pasos de grava.
-
-Ymir no se mueve. Te deja llegar. Te deja tomarle la cara con una mano. Y cuando la besas, la canasta se le resbala del brazo y cae al camino, y tres manzanas salen rodando hacia los setos.
-
-No las mira.
-
-Te agarra de la solapa del sobretodo con las dos manos, fuerte, como si quisiera asegurarse de que no te vas a ir por otra puerta en la mitad del beso, y te besa de vuelta. Kase, aplastado entre los dos, suelta un gruñido de protesta y se pasa al otro hombro.
-
-Cuando se separan, Ymir no te suelta la solapa.
-
-> —¿Cómo estás, amor?
-
-Ymir te mira. Las orejas ya están rojas del todo. Las pecas se le pierden en la cara colorada.
-
-—¿Amor? —repite, como si probara la palabra en la boca—. Cincuenta y tres días, lindo. Los conté. Cincuenta y tres días sin una carta, sin una paloma, sin nada, y apareces en el jardín a las siete de la mañana diciéndome "amor" como si te hubieras ido ayer.
-
-Te suelta la solapa. Te da un golpe en el pecho, con el puño, no muy fuerte.
-
-—Estoy bien —dice. Y se le quiebra apenas la voz, y lo disimula con una mueca—. Estoy aburrida. Historia se pasa el día en reuniones, Hange no duerme, el enano está obsesionado con ese caballo de metal tuyo, y yo no tengo a quién molestar.
-
-Se agacha. Junta la canasta del suelo. Junta las tres manzanas que rodaron, una por una, y las vuelve a poner adentro, con cuidado, como si fueran de vidrio.
-
-Después saca una. La más arrugada de todas, la de abajo. Te la pone en la mano.
-
-—Te dije que las iba a guardar —dice, sin mirarte—. Esa es la primera que guardé. La del día que te fuiste. Ya no sirve para nada, está toda arrugada. Pero no la pude tirar.
-
-Levanta la vista. Tiene los ojos brillantes y la boca torcida en esa sonrisa suya, de costado, burlona, que no le alcanza para tapar nada.
-
-—Bueno. —Se cruza de brazos—. ¿Y tú? ¿Salvaste otro mundo mientras yo contaba manzanas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1472 · SHINGEKI · DÍA 119 · 06:42      ║
-║ Mitras · jardines del palacio                ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el otro hombro                      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ver qué hicieron con lo que les    ║
-║ dio · algo de este mundo para Robin          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1473)
+## COMANDO 1 (T1473)
 
 algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
 
-## RESPUESTA 2 (T1473)
+## RESPUESTA 1 (T1473)
 
 > algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
 
@@ -127,11 +72,11 @@ Ymir se pone detrás de ti. Te suelta la mano para taparse los oídos.
 
 ---
 
-## COMANDO 3 (T1474)
+## COMANDO 2 (T1474)
 
 hola hange
 
-## RESPUESTA 3 (T1474)
+## RESPUESTA 2 (T1474)
 
 > hola hange
 
@@ -184,4 +129,83 @@ Se arrodilla al lado del motor y te mira desde abajo, con los ojos enormes detr�
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 07:07, patio del ala este. Hange, arrodillada junto a la moto: "¿Qué estoy haciendo mal?" Facundo puede responder.
+## COMANDO 3 (T1475)
+
+le digo lo que esta haciendo mal
+
+## RESPUESTA 3 (T1475)
+
+> le digo lo que esta haciendo mal
+
+Te agachas al lado de Hange, junto al motor, y le explicas.
+
+Le dices que el problema no es cuántas veces destila el aceite, sino qué parte se queda. Que lo que ella guarda, lo espeso y claro que queda al final, sirve para lámparas pero no para ese motor. Que lo que necesita es justamente lo que se va primero, lo más liviano, lo que se evapora apenas se calienta. Le explicas también que de tanto toser con el combustible equivocado, la pieza chica donde salta la chispa se llenó de hollín negro, y que así tampoco va a arrancar nunca; que hay que limpiarla. Y le muestras cuál es.
+
+Hange no anota. Por primera vez desde que la conoces, no anota. Te escucha con la boca abierta, sin parpadear, con la llave inglesa olvidada en la mano.
+
+Cuando terminas, se queda quieta.
+
+—Lo que se va primero —repite, en voz muy baja.
+
+Después se pone de pie de un salto.
+
+—¡LO QUE SE VA PRIMERO! —Se agarra la cabeza con las dos manos y se deja dos manchas negras en el pelo—. ¡Lo tiraba! ¡Veinte veces lo tiré! ¡Olía horrible, se evaporaba solo, me daba dolor de cabeza, y lo tiraba por la ventana del galpón!
+
+Sale corriendo hacia el galpón. Se oye un estrépito adentro, como de una pila de cosas que se viene abajo. Después, su voz:
+
+—¡No! ¡No, no, no, no! ¡Sí! ¡SÍ! ¡Guardé uno! ¡Uno solo, de la tercera vez, para estudiarlo!
+
+Vuelve corriendo con un frasco de vidrio tapado con un corcho, lleno hasta la mitad de un líquido transparente, casi como agua, que se mueve demasiado liviano. Se arrodilla. Destapa el tanque de la moto. Está a punto de vaciar el frasco adentro cuando Levi le agarra la muñeca.
+
+—Primero la pieza de la chispa —dice Levi—. Ya lo dijo.
+
+Hange lo mira. Mira la moto. Te mira a ti.
+
+—Primero la pieza de la chispa —repite, obediente.
+
+La saca, con las manos temblando. Está negra de hollín, como dijiste. Levi saca un pañuelo blanco, impecable, de un bolsillo interior, y lo mira con dolor un segundo. Después se lo da. Hange la limpia hasta dejarla brillante, la vuelve a poner, y vacía el frasco en el tanque.
+
+Ymir se acerca, con la canasta de manzanas en el brazo. Kase asoma la cabeza del seto.
+
+Levi se sube a la moto. Se acomoda. Pone las manos en el manubrio. Hace exactamente lo que se aprendió de memoria en once intentos.
+
+El motor tose una vez.
+
+Y arranca.
+
+No se ahoga. No se muere. Ruge, parejo, fuerte, llenando el patio entero de un ruido grave y continuo que hace temblar los vidrios de las ventanas del ala este. Se asoman cabezas en todas las ventanas. Una sirvienta grita.
+
+Levi no cambia la cara. Pero aprieta el manubrio.
+
+Y la moto se mueve.
+
+Da una vuelta al patio. Despacio primero, tambaleando, pasando a medio metro de los barriles de aceite. Después, más rápido. Una segunda vuelta, más firme, levantando grava. Hange corre detrás gritando cosas sin sentido, llorando y riéndose a la vez, con los brazos en alto. Ymir se ríe tanto que tiene que apoyarse en tu hombro.
+
+A la tercera vuelta, Levi frena delante de ti. El motor sigue rugiendo debajo de él.
+
+Te mira. Tiene el pelo despeinado por el viento, por primera vez en su vida. Lo sabe. No hace nada por arreglarlo.
+
+—Tch —dice.
+
+Una pausa.
+
+—No está mal.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1475 · SHINGEKI · DÍA 119 · 07:25      ║
+║ Mitras · patio del ala este del palacio      ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: asomado en el seto                     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Ver qué hicieron con lo que les    ║
+║ dio · algo de este mundo para Robin          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 07:25, patio del ala este. La moto anda. Levi frena frente a Facundo, motor en marcha: "Tch. No está mal." Facundo puede actuar.
