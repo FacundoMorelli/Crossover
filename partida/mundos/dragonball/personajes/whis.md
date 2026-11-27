@@ -80,3 +80,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1610 · A Facundo, bajito: "Si me permite un consejo: no se las dé todas juntas. Una por día dura ciento cinco días. Y en ciento cinco días Bills-sama no destruye nada por aburrimiento. Al universo le haría un gran favor."
 - T1611 · Acepta guardar las 105 hamburguesas en el báculo ("Dos años y medio" guardó el pastel de la Tierra): "Pero yo decido cuándo se come cada una." "No, Bills-sama."
 - T1612 · Mirando a Kase: "Bills-sama nunca destruyó un planeta por nadie. Solo por comida."
+- T1613 (4 días) · Guarda 104 hamburguesas en la bola del báculo ("Una por día"). Entrena a Goku (le pega en la frente cuando piensa). Kase le gana la silla de playa; trae otra. Recibe llamada de Bulma. Llevará mañana a Goku, Vegeta y Bills a la Tierra. A Facundo: "¿Viene con nosotros, Facundo-san? ¿O se queda un tiempo más aquí?"

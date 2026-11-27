@@ -27,3 +27,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T1560 · Vegeta sostiene el SSJ Blue tres minutos y Goku uno, al segundo día (canon muy acelerado).
 - T1568 · Goku esquiva por instinto, una vez, sin pensar (primer atisbo del Ultra Instinto, mucho antes que en el canon), peleando contra Facundo en azul.
 - T1603 · Idea del Ultra Ego plantada en Vegeta por Facundo (año 778, muy antes del canon). Vegeta va hacia Bills.
+- T1613 · Llamada de Bulma a Whis: Milk enojada con Goku (5 días fuera); Vegeta prometió a Trunks el parque (sábado). Bills, Whis, Goku y Vegeta vuelven mañana a la Tierra.

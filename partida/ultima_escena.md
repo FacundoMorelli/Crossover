@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1610)
-
-ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
-
-## RESPUESTA 1 (T1610)
-
-> ehh creo que todos, tu estilo de pelea, el ki divino, energía de destrucción, etc
-
-> —Eh... creo que todos. Tu estilo de pelea, el ki divino, la energía de destrucción, etcétera.
-
-Bills va contando con los dedos, muy serio, a medida que hablas.
-
-—Estilo de pelea. —Un dedo—. Ki divino. —Dos—. Energía de destrucción. —Tres—. El Hakai. —Cuatro—. Las esferas. —Cinco—. Y "etcétera".
-
-Se queda mirando la mano abierta.
-
-—"Etcétera" no es un número, muchacho del bolsillo.
-
-—Es una forma de decir "muchas cosas más", Bills-sama —dice Whis, amable.
-
-—Ya sé lo que es. —Bills cierra la mano—. Por eso. Si no sabe cuántas son, son muchas. Y si son muchas, son cien.
-
-Levanta la otra mano también, con los dedos abiertos, como si cien entraran ahí.
-
-—Cinco que dijo, más cien de "etcétera". —Te mira, triunfal—. Ciento cinco hamburguesas dobles con queso. Con papas. Y la malteada.
-
-Goku abre la boca.
-
-—¡¿Ciento cinco?! ¡¿Para usted solo?!
-
-—Para mí solo. Es mi pago. Tú no tienes poderes que copiar que valgan algo.
-
-—Él me copió el Super Saiyajin —protesta Goku.
-
-—Exacto. Algo que valga.
-
-Vegeta se tapa la cara con una mano. Le tiemblan los hombros. Esta vez sí es de risa, aunque no deja que se le escape ningún ruido.
-
-Whis se acerca a ti, con la libretita ya en la mano, y te habla bajito, al costado, sin que Bills lo oiga.
-
-—Si me permite un consejo, Facundo-san: no se las dé todas juntas. Una por día dura ciento cinco días. Y en ciento cinco días Bills-sama no destruye nada por aburrimiento. —Sonríe con los ojos cerrados—. Al universo le haría un gran favor.
-
-Bills, del otro lado, entrecierra los ojos.
-
-—Whis, te estoy escuchando.
-
-—Claro que sí, Bills-sama.
-
-Bills vuelve a mirarte, de brazos cruzados, con la cola moviéndose despacio detrás de él. Espera.
-
-—¿Y? —Levanta el mentón—. ¿Trato?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1610 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.061 · 0 zeni                  ║
-║ Energía 53% · Ojos: bien · cortes cerrados   ║
-║ ULTRA INSTINTO DOMINADO + FORMA CENIT        ║
-║ (x50.000 · quedan ~38 min) · Velo: ki bajo   ║
-║ Kase: sentado en el pasto                    ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1611)
+## COMANDO 1 (T1611)
 
 esta bien, pero acuérdate que soy viajero
 
-## RESPUESTA 2 (T1611)
+## RESPUESTA 1 (T1611)
 
 > esta bien, pero acuérdate que soy viajero
 
@@ -137,11 +68,11 @@ Vegeta, al pie de la escalera, te mira de costado. No dice nada, pero tiene los 
 
 ---
 
-## COMANDO 3 (T1612)
+## COMANDO 2 (T1612)
 
 no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
 
-## RESPUESTA 3 (T1612)
+## RESPUESTA 2 (T1612)
 
 > no se, por ahora no me voy a ir y bills, si algun dia vengo sin mi gato... Significa que destrui un mundo entero por lo que la hayan intentando hacer
 
@@ -192,4 +123,72 @@ Después levanta la vista, y ya es el de siempre: el mentón arriba, los ojos en
 
 ---
 
-ESTADO AL CIERRE: Facundo no se va por ahora. Bills respeta lo del gato. Mano extendida: "La de hoy sí. Me la debes desde que dijiste etcétera." Facundo puede actuar.
+## COMANDO 3 (T1613)
+
+le doy las cosas, simula unos dias
+
+## RESPUESTA 3 (T1613)
+
+> le doy las cosas, simula unos dias
+
+Levantas la mano una última vez.
+
+[Compra: 105 hamburguesas dobles con queso y papas fritas · 105 Fragmentos.]
+
+[Compra: 105 malteadas de chocolate grandes · 105 Fragmentos.]
+
+Las bandejas salen de la nada y llenan media explanada, en filas, humeando. Bills las mira con la boca abierta y los ojos brillantes, como un chico frente a una vidriera. Agarra la primera antes de que termine de aparecer la última.
+
+Whis suspira, levanta el báculo y, con un solo golpecito, las otras ciento cuatro desaparecen adentro de la bola de cristal de la punta. Bills lo mira con desconfianza.
+
+—Están ahí adentro, Bills-sama. Calentitas. Una por día.
+
+—Dos.
+
+—Una.
+
+La discusión dura los siguientes cuatro días.
+
+Pasan rápido.
+
+Al rato de la entrega, la fusión se te apaga sola, como estaba previsto. El plateado y las llamas se van de golpe, y el cansancio te cae encima como una ola: las piernas flojas y un sueño pesado. Duermes casi toda esa tarde en el cuarto de la pirámide, con Kase encima del pecho. A la mañana siguiente ya estás entero otra vez.
+
+Los días en el planeta de Bills tienen su ritmo.
+
+Bills duerme hasta tarde. Se despierta, come su hamburguesa del día, discute con Whis por la segunda, pierde, se enoja, y después se pasa horas parado en el medio de la explanada con los ojos cerrados, "investigando". A veces se queda tan quieto que los pájaros se le paran en las orejas. Una tarde esquiva una piedra que Goku le tira por la espalda sin abrir los ojos, y se pone tan contento que se olvida de destruir a Goku por tirársela.
+
+Goku entrena con Whis desde que sale el sol hasta que se pone. El azul le dura cada vez más. Whis le pega con el báculo en la frente cada vez que piensa demasiado, que es casi siempre.
+
+Vegeta no entrena con Whis. Entrena solo, en una roca flotante lejos de todos, y le pide a Bills, todas las mañanas, después de la hamburguesa, que pelee con él cinco minutos. Bills le dice que no tres días seguidos. Al cuarto le dice que sí, para callarlo, y lo deja tirado en el pasto con un solo golpe. Vegeta se levanta escupiendo sangre y sonriendo de una manera que Goku dice que le da miedo.
+
+Kase se adueña de la silla de playa de Whis. Whis trae otra.
+
+El cuarto día, a media tarde, Whis te encuentra al borde del jardín, mirando las rocas flotantes con Kase en el hombro. Trae el báculo apoyado en el hombro y la libretita en la otra mano. En la bola de cristal de la punta del báculo se ve, chiquita, borrosa, la cara de Bulma, que habla rápido y señala algo fuera de cuadro.
+
+—Facundo-san. —Whis sonríe, como siempre—. Llamó Bulma-san. Dice que Milk-san está muy enojada con Goku-san, porque se fue "un ratito" hace cinco días. Y que Vegeta-san le había prometido a Trunks-kun llevarlo al parque de diversiones el sábado, que es mañana.
+
+Detrás, a lo lejos, Goku se queda congelado en medio de un golpe. Vegeta, en su roca, cierra los ojos y se lleva una mano a la cara.
+
+—Así que mañana los llevo de vuelta a la Tierra. —Whis inclina la cabeza—. Bills-sama dice que él también viene. Por el pudín de Bulma-san, por supuesto. No por nada más.
+
+Te mira con la cabeza ladeada, esperando.
+
+—¿Viene con nosotros, Facundo-san? ¿O se queda un tiempo más aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1613 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde del jardín · tarde (4 días después)    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.851 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien · cortes curados   ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 4 días después, tarde. Whis llevará mañana a Goku, Vegeta y Bills a la Tierra (Milk enojada; parque de Trunks el sábado). "¿Viene con nosotros, Facundo-san? ¿O se queda un tiempo más aquí?" Facundo puede decidir.

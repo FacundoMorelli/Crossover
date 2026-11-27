@@ -1,13 +1,13 @@
 {
-  "turno": 1612,
+  "turno": 1613,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
-  "hora": "año 778, miércoles (hora Tierra), mediodía en el planeta de Bills",
+  "hora": "año 778, viernes (hora Tierra; 4 días después), tarde en el planeta de Bills",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 289061,
+  "fragmentos": 288851,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     "energia": 4001,
     "control": 4000
   },
-  "energia_actual_pct": 53,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2738,5 +2738,5 @@
       "estado": "pareja"
     }
   },
-  "dragonball_nota_T1582": "T1591: Whis rehízo la ropa con el báculo (sobretodo, cordones, camisa). T1592: cortes de mejilla y costillas cerrados (costras)."
+  "dragonball_nota_T1582": "T1591: Whis rehízo la ropa con el báculo (sobretodo, cordones, camisa). T1592: cortes de mejilla y costillas cerrados (costras). T1613: heridas curadas del todo."
 }
