@@ -39,3 +39,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1560 · Enseña: el azul no es fuerza, "es calma con fuego adentro"; el que se enoja lo pierde. Al mediodía Goku y Vegeta en azul lo atacan a la vez; los esquiva con una mano, sin mover los pies, sonriendo; los desvía con un dedo. Nunca se cansa.
 - T1561 · "Qué interesante va a ser la mañana." A Facundo, de reojo: "Le voy a preparar a la explanada un suelo más resistente. Por las dudas."
 - T1562 · Cena (pescado que sabe a fruta, fruta que sabe a carne, postre celeste que se mueve); le sube una bandeja a Vegeta. Refuerza la explanada: suelo con venas de luz celeste, durísimo. Mira el duelo desde su silla de playa con una taza.
+- T1563 · Ve el SSJ Blue de Facundo; tiembla su taza y salta el té; el suelo que reforzó se hunde. Deja la taza en el suelo, se seca los dedos con un pañuelo y, por primera vez, NO SONRÍE. Solo mira.

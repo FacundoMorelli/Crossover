@@ -141,3 +141,4 @@
 - Bills, Whis · T1555 · Por Facundo: no quiere nada a cambio, solo ver una habilidad de dios.
 - Facundo · T1556 · Por Bills: hay doce universos con un dios de la destrucción cada uno; Champa existe (rival de Bills).
 - Whis · T1557 · Por Facundo: "no tengo ningún lugar al que viajar por ahora". Le parece curioso con un ki tan pequeño (sospecha, sin preguntar).
+- Goku, Vegeta, Whis · T1563 · VEN a Facundo transformarse en Super Saiyajin (pelo dorado, ojos verdes) y en Super Saiyajin Blue (pelo azul, ojos celestes) sin ser saiyajin (sin cola; Vegeta "lo sabría"). El ki divino no se siente; ven los efectos (suelo de Whis hundido). Goku cree por un momento que es saiyajin. Vegeta pregunta qué es.

@@ -1561,3 +1561,4 @@ T1559 · DRAGON BALL · Planeta de Bills · Desayuno: sopa de estrellas. Vegeta 
 T1560 · DRAGON BALL · Planeta de Bills · Mira el entrenamiento todo el día (Whis esquiva a Goku y Vegeta en azul con una mano). Goku: 1 min de azul; Vegeta: 3 min. Vegeta: "Mañana. Tú y yo. Yo en azul. Y tú con eso que escondes."
 T1561 · DRAGON BALL · Planeta de Bills · Acepta el duelo con Vegeta: "Al amanecer." Goku quiere el suyo después. Whis prepara un suelo más resistente.
 T1562 · DRAGON BALL · Planeta de Bills · Noche y amanecer. Explanada reforzada por Whis. Goku mira escondido. Vegeta en SSJ Blue: "Hoy no te contengas tanto. Me lo prometiste."
+T1563 · DRAGON BALL · Planeta de Bills · Facundo hace SSJ y SSJ Blue ante Vegeta, Goku y Whis; el suelo de Whis se hunde. Goku: "¿Eres saiyajin?" Vegeta: "No tienes cola. ¿Qué demonios eres?" Whis deja de sonreír.

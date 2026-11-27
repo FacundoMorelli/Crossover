@@ -101,3 +101,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1560 · Pierde el azul por reírse cada vez que le sale. A la tarde: UN MINUTO entero de SSJ Blue; grita de alegría.
 - T1561 · "¡¿Mañana pelean?! ¡Eso no es justo! ¡Yo también quiero! ¡Yo te pedí primero!" De rodillas: "¡Después de Vegeta, conmigo! ¡En azul! ¡Por favor!"
 - T1562 · Repite la cena cinco veces. Al amanecer, escondido (mal) detrás de una roca para mirar el duelo.
+- T1563 · Sale de detrás de la roca al ver el SSJ Blue de Facundo: "¡¿Facundo?! ¡¿Tú también eres saiyajin?!"

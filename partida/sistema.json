@@ -1,5 +1,5 @@
 {
-  "turno": 1562,
+  "turno": 1563,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), amanecer en el planeta de Bills",
@@ -2692,5 +2692,6 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  }
+  },
+  "forma_activa": "Super Saiyajin Blue (x2.000, copia de Goku) desde T1563"
 }

@@ -6,3 +6,4 @@ Planeta pequeño e irregular: rocas flotantes, árboles que crecen hacia los cos
 - T1558 · De día, tres soles chicos blancos; las flores se abren todas a la vez.
 - T1559 · Terraza del desayuno colgada sobre el abismo, mesa larga de piedra, almohadones en el suelo.
 - T1562 · Explanada reforzada por Whis: venas de luz celeste en la piedra; más dura que cualquier cosa.
+- T1563 · El suelo reforzado de la explanada se hunde un palmo bajo el SSJ Blue de Facundo; las venas de luz parpadean.

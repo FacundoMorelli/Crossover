@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1560)
-
-por ahora miro un poco mas
-
-## RESPUESTA 1 (T1560)
-
-> por ahora miro un poco mas
-
-> —Por ahora miro un poco más.
-
-—Como guste. —Whis asiente, sin insistir—. La silla de playa lo espera.
-
-Y la silla de playa te espera, en el mismo lugar, al pie de la pirámide, con la mesita al lado y una jarra de jugo nueva. Kase se sube a la mesita antes que nadie.
-
-El día entero es de Goku y de Vegeta.
-
-Whis los pone uno frente al otro, en una explanada de piedra lisa entre dos montañas que apuntan para los costados. Les dice que no peleen: que se transformen, nada más, y que se queden así. Que el azul no es fuerza. Que es calma con fuego adentro. Que el que se enoja, lo pierde.
-
-Vegeta lo pierde catorce veces en la primera hora.
-
-Goku lo pierde porque se ríe cada vez que le sale.
-
-Al mediodía, Whis se para entre los dos con el báculo en una mano y les dice que lo ataquen. A la vez. Los dos en azul. Y durante un rato largo, mientras los tres soles cruzan el cielo, ves algo que no habías visto nunca: a Goku y a Vegeta, juntos, con todo lo que tienen, tirándole golpes a un ángel que los esquiva con una sola mano, sin dejar de sonreír, sin mover los pies, girando apenas la cabeza, como quien espanta moscas. A veces los desvía con un dedo. A veces les toca la frente y los manda volando cien metros. Nunca les pega de verdad. Nunca se cansa.
-
-Lo observas todo. Cada movimiento de Whis. Cómo no piensa antes de moverse. Cómo el cuerpo le va solo, siempre un instante antes que el golpe.
-
-Kase, en la mesita, mira lo mismo que tú, con los ojos rojo y azul entrecerrados.
-
-A la tarde, Goku aguanta el azul un minuto entero. Grita tan fuerte de alegría que una bandada de pájaros raros sale volando del bosque al revés.
-
-Vegeta no grita. Pero al atardecer, cuando los tres soles se esconden detrás del borde del planeta y el cielo se vuelve violeta otra vez, se queda parado solo en la explanada, en silencio, en azul. Un minuto. Dos. Tres. Más que Goku. Sin moverse. Con los ojos cerrados y la cara tranquila, más tranquila de lo que le viste nunca.
-
-Cuando lo suelta, abre los ojos. Mira a Goku, que lo mira con la boca abierta. No le dice nada. Pero se le escapa media sonrisa.
-
-Después cruza la explanada caminando, sudado, con el traje roto, y se para delante de tu silla de playa. Te mira desde arriba.
-
-—Mañana —dice—. Tú y yo. Yo en azul. —Se cruza de brazos—. Y tú con eso que escondes. Lo que sea que es.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1560 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Pie de la pirámide · atardecer               ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.243 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en la mesita, mirando                  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Vegeta (azul) desafía a duelo      ║
-║ mañana                                       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1561)
+## COMANDO 1 (T1561)
 
 esta bien
 
-## RESPUESTA 2 (T1561)
+## RESPUESTA 1 (T1561)
 
 > esta bien
 
@@ -107,11 +52,11 @@ Kase, en la mesita, se estira, bosteza y te mira, como preguntando si ya es hora
 
 ---
 
-## COMANDO 3 (T1562)
+## COMANDO 2 (T1562)
 
 simula hasta mañana
 
-## RESPUESTA 3 (T1562)
+## RESPUESTA 2 (T1562)
 
 > simula hasta mañana
 
@@ -161,4 +106,69 @@ Vegeta descruza los brazos. Se pone en guardia.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, amanecer en la explanada reforzada. Vegeta en SSJ Blue, en guardia: "Hoy no te contengas tanto. Me lo prometiste." Whis mira; Goku escondido. Facundo puede actuar.
+## COMANDO 3 (T1563)
+
+esta bien, te voy a mostrar nuestra diferencia vegeta y goku, me transformó en blue
+
+## RESPUESTA 3 (T1563)
+
+> esta bien, te voy a mostrar nuestra diferencia vegeta y goku, me transformó en blue
+
+> —Está bien. Te voy a mostrar nuestra diferencia, Vegeta. Y a ti también, Goku.
+
+Detrás de la roca, la mata de pelo negro se queda quieta. Después, muy despacio, Goku asoma la cabeza entera, con los ojos enormes, descubierto.
+
+Cierras los ojos.
+
+Lo buscas adentro: el fuego primero. Lo encuentras enseguida, donde siempre estuvo desde aquella tarde en el desierto, tres años atrás, cuando un saiyajin de pelo en punta te dio todo lo que tenía sin saberlo. Lo dejas subir.
+
+El pelo blanco y azul se te levanta, se te endurece en punta y se vuelve dorado. El aura te estalla alrededor, amarilla, rugiendo. Los ojos se te ponen verdes, el rojo y el azul apagados debajo.
+
+Vegeta da medio paso atrás sin querer.
+
+Y después, el agua encima.
+
+No gritas. Respiras. Y el dorado se te apaga desde la raíz hasta las puntas, como una brasa que se enfría, y en su lugar nace el azul. El mismo azul claro y limpio de Vegeta, de Goku. El aura dorada se calma, se aquieta, se vuelve azul, chispeante, tranquila, sin ruido. Los ojos, celestes.
+
+Super Saiyajin Blue.
+
+Pero no se parece al de ellos.
+
+El suelo que Whis reforzó, ese suelo de venas de luz celeste más duro que cualquier cosa, se hunde un palmo bajo tus botas. Las venas de luz se apagan y se vuelven a encender, como un corazón que se salta un latido. En el borde de la explanada, la taza que Whis tenía entre las manos tiembla, y el té salta por el borde. Los tres soles, que estaban saliendo por el horizonte, parecen quedarse quietos un instante.
+
+Nadie siente nada. Ni Vegeta, ni Goku, ni Whis. El azul no se siente. Pero todos lo ven.
+
+Vegeta está quieto en el centro de la explanada. En azul también. Con los puños todavía levantados.
+
+Ya no está en guardia. Te mira el pelo azul, los ojos celestes, el aura tranquila. Te mira como quien mira un espejo que le devuelve una cara que no es la suya.
+
+—Eso... —dice. Se le quiebra la voz—. Eso es el azul. El nuestro. El que hicimos anoche.
+
+Detrás de la roca, Goku sale del todo, de pie, con la boca abierta.
+
+—¡¿Facundo?! ¡¿Tú también eres saiyajin?!
+
+Vegeta no le contesta. No le saca los ojos de encima a tu aura. Le tiembla la mandíbula.
+
+—No tienes cola —dice, muy bajo—. No tienes sangre saiyajin. Lo sabría. —Aprieta los puños—. ¡¿Qué demonios eres?!
+
+En su silla de playa, Whis deja la taza en el suelo, despacio, al lado de Kase. Se seca los dedos con un pañuelo. Y por primera vez desde que lo conoces, no sonríe. Solo mira.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1563 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada de entrenamiento · amanecer        ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.243 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ SUPER SAIYAJIN BLUE (x2.000)                 ║
+║ Velo: el ki divino no se siente              ║
+║ Kase: junto a la silla de Whis, mirando      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Duelo con Vegeta (SSJ Blue)        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada al amanecer. Facundo en SSJ Blue; el suelo de Whis se hundió. Goku: "¿Tú también eres saiyajin?" Vegeta: "¿Qué demonios eres?" Whis no sonríe. Facundo puede responder.
