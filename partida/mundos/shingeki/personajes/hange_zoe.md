@@ -31,3 +31,5 @@ ESTADO: activo
 - T972 · Recibe de Facundo: linterna eléctrica, radio de manivela, reloj de pulsera, antibióticos con instrucciones, libro de medicina básica, semillas de clima frío. Abraza la radio. Levi la frena. "No preguntar cómo. Lo voy a descubrir sola. Aunque me lleve diez años."
 - T973 · De rodillas junto a la moto: "Esto no es un carruaje. Es el caballo. ¿Qué come?"
 - T974 · "¡Combustible! ¡Las minas del norte, el aceite negro de las grietas!" Saludo de la Legión.
+- (Días 66-119) Desarmó la radio cuarenta veces; hizo otra más grande (alambre, herrería) con antena en una torre; captó una noche música de Marley (una mujer cantando); lloró. Galpón nuevo con barriles de aceite negro; intenta hacer andar la moto (once intentos).
+- T1473 · Día 119 · Negra de hollín, llave inglesa: "¡Esta vez la mezcla es perfecta!" Ve a Facundo; se le cae la llave: "¿Fa...?"

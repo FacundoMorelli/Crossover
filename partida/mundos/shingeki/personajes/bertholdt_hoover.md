@@ -16,3 +16,4 @@ ESTADO (T408): inconsciente, atado, en poder de la Legión.
 - T954 · Por Hange, en su celda de Trost: llora.
 - T957 · Pierde el Colosal en su celda de Trost (Facundo lo siente).
 - T968 · Se entera de que Marcel vive; se sienta en el suelo.
+- (Día ~67-73) Liberado; se fue a Liberio con Reiner.

@@ -15,3 +15,4 @@ ESTADO: inconsciente.
 - T954 · Por Hange, en su celda de Trost: pregunta si los muertos de Shiganshina del primer día también vuelven. Se sienta y no se mueve.
 - T957 · Pierde el Acorazado en su celda de Trost (Facundo lo siente).
 - T968 · Por Hange (carta de Magath): Marcel vivo en Liberio. Se tapa la cara hasta la madrugada.
+- (Día ~67-73) Liberado; se fue a Liberio con Bertholdt a ver a Marcel. Lloró en el muelle (Hange lo anotó).

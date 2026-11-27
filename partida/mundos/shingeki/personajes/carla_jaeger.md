@@ -19,3 +19,4 @@ ESTADO: viva (revivida T958).
 - T966 · Por Facundo: hay países fuera de la isla y paz con ellos. "¿Qué es Marley?" (Grisha no contesta).
 - T967 · Reverencia a Historia ("Majestad"). Invita a Facundo, a Ymir ("su novia") y al gato a desayunar.
 - T968 · Desayuno (panqueques). Les arregla un cuarto arriba a Facundo e Ymir.
+- (Día ~117-119) Lloró dos días por el viaje de Eren y le tejió una bufanda.

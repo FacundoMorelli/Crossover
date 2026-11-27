@@ -38,3 +38,4 @@ ESTADO: sin piernas, en manos de Levi.
 - T834 · Facundo acepta llevarlo a Liberio encadenado a Levi. "Gracias, del gato."
 - T954 · Por Levi, en su celda: pregunta si los eldianos podrán tener hijos sin que nadie les tenga miedo. Levi: sí. Se calla todo el día.
 - T957 · Pierde el Bestia en su celda.
+- (Día ~67-119) Liberado; se quedó en Shiganshina, en una casita a dos calles de los Jaeger. Grisha lo visita todos los días; se sientan en la puerta una hora sin hablar.

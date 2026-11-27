@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: despierta, sin titán, en el sótano de la iglesia de Mitras.
 - T968 · En una habitación del palacio de Mitras bajo guardia. Armin le cuenta; llora mirando la ventana.
+- (Día ~67-73) Liberada; se fue en el primer barco a Liberio a buscar a su padre. Armin la despidió en el puerto.

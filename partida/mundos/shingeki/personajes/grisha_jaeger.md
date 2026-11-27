@@ -19,3 +19,4 @@ ESTADO: vivo (revivido T958), sin titán.
 - T966 · Por Facundo: paz con los países de afuera. "En paz. Con Marley." Se sienta en el escalón y ríe bajito: "Paz." Erwin: "Leí sus diarios. Son la razón por la que esta isla sigue viva."
 - T967 · Se pone los anteojos; decide no preguntar.
 - T968 · Llora en silencio en el desayuno. Reconoce a Frieda Reiss en la calle; se queda en el escalón hasta la noche.
+- (Días ~67-119) Visita a Zeke todos los días; se sientan en silencio una hora.

@@ -35,3 +35,5 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T971 · "El barbudo me debe una conversación larga. Pero no tiene que ser en una celda."
 - T973 · Da una vuelta a la moto, toca el asiento. "Tch." No se aleja.
 - T974 · Saludo de la Legión a Facundo.
+- (Días 66-119) Obsesionado con la moto. Mandó callar a Hange para escuchar la música de Marley por la radio.
+- T1473 · Sentado en la moto: "Dijiste lo mismo las últimas once veces."

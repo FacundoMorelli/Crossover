@@ -19,3 +19,4 @@ ESTADO: activo
 - T935 · Facundo rechaza: "El dinero no me importa. Me gusta viajar." Se ríe sincera: "Es la primera vez que alguien me lo dice y le creo." Le ofrece sin pedir nada la placa de laca negra Azumabito (emblema dorado, cordón rojo). Pide que la visite y le cuente dónde estuvo.
 - T936 · Facundo acepta la placa. "La casa Azumabito tiene un amigo, que vale más que un socio." Ve a Ymir y deduce algo; se va: "Lo dejo en buena compañía, emisario. Señorita."
 - T938 · Día 52 · Zarpa. Abraza a Mikasa. A Facundo: le debe un relato.
+- (Días 66-119) Llegó en un barco de Hizuru a Paradis; regaló un kimono a Mikasa.

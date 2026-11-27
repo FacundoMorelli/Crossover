@@ -205,3 +205,5 @@
 - Erwin, Levi, Hange, Moblit, Historia, Ymir · T973 · Ven a Facundo sacar de la nada una moto moderna.
 - Ymir · T1471 · Ve a Facundo aparecer en los jardines del palacio (Día 119).
 - Facundo · T1472 · Por Ymir: Historia pasa el día en reuniones; Hange no duerme; Levi está obsesionado con la moto.
+- Facundo · T1473 · Por Ymir: los cuatro de Marley liberados (Annie, Reiner, Bertholdt a Liberio; Zeke se quedó en Shiganshina); barcos y puerto; Hizuru; Eren al continente en 10 días; la radio de Hange captó música de Marley.
+- Hange, Levi · T1473 · Ven a Facundo con Ymir y el gato en el patio del ala este.

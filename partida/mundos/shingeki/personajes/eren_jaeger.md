@@ -50,3 +50,4 @@ ENCUENTROS:
 - T966 · Le devuelve los anteojos limpios a su padre.
 - T968 · Hannes lo visita; Eren lo hace pasar.
 - T970 · Oye "son libres de salir al mundo a explorar" y se le transforma la cara.
+- (Día 119) Se va en 10 días (Día ~129) al continente en un barco marleyano, con Mikasa, Armin y medio escuadrón de la Legión (aprobado por Erwin). Carla lloró dos días y le tejió una bufanda.

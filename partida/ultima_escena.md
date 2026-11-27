@@ -3,57 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1470)
-
-unos dias mas, dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di y que no lo iba a reconocer
-
-## RESPUESTA 1 (T1470)
-
-> unos dias mas, dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di y que no lo iba a reconocer
-
-> —Unos días más. Dije que iba a volver a ese mundo para ver lo que consiguieron hacer con las cosas que les di. Y que no lo iba a reconocer.
-
-Robin sonríe con los ojos cerrados.
-
-—Que no lo ibas a reconocer —repite, despacio, saboreando la frase—. Eso es lo que le dice un maestro a sus alumnos antes de irse. O un padre.
-
-Se acomoda un poco más contra ti. La manta se le resbala del hombro y no la levanta.
-
-—Está bien. Unos días más. —Te aprieta los dedos otra vez—. Pero cuando vuelvas de allá, me vas a traer algo. Un libro, una piedra, una hoja de árbol, lo que sea. Algo de ese mundo que esté en paz. Quiero tocarlo.
-
-Se queda callada un rato. Tanto, que piensas que ya se durmió.
-
-—Y me vas a contar si te reconocieron ellos a ti —murmura.
-
-Después sí. La respiración se le vuelve lenta y profunda, la mano se le afloja entre tus dedos sin soltarte, y se queda dormida sobre tu pecho, con el pelo desparramado sobre los dragones tatuados.
-
-La lámpara termina de apagarse sola.
-
-Queda solo la luz de las estrellas por la ventana angosta, el viento suave de Baltigo afuera, y el ronroneo bajo de Kase en el alféizar, que se despierta un momento, se estira, baja sin hacer ruido, cruza el cuarto en la oscuridad y se acuesta a los pies de la cama, sobre tus botas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1470 · ONE PIECE · DÍA ~125 · NOCHE    ║
-║ Baltigo · base revolucionaria · cuarto de    ║
-║ Robin                                        ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: a los pies de la cama                  ║
-║ MISIÓN DE MUNDO: CUMPLIDA (One Piece)        ║
-║ OBJETIVO: Unos días más con Robin; después,  ║
-║ volver a Shingeki                            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1471)
+## COMANDO 1 (T1471)
 
 simula 3 dias mas y me voy a shingeki
 
-## RESPUESTA 2 (T1471)
+## RESPUESTA 1 (T1471)
 
 > simula 3 dias mas y me voy a shingeki
 
@@ -124,11 +78,11 @@ Ymir se te queda mirando. No sonríe. No dice nada. Tiene la boca un poco abiert
 
 ---
 
-## COMANDO 3 (T1472)
+## COMANDO 2 (T1472)
 
 me acerco a ymir y le doy un beso, como estas amor?
 
-## RESPUESTA 3 (T1472)
+## RESPUESTA 2 (T1472)
 
 > me acerco a ymir y le doy un beso, como estas amor?
 
@@ -179,4 +133,73 @@ Levanta la vista. Tiene los ojos brillantes y la boca torcida en esa sonrisa suy
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 06:42, jardines del palacio. Ymir le dio la manzana arrugada (la primera que guardó). "¿Salvaste otro mundo mientras yo contaba manzanas?" Facundo puede responder.
+## COMANDO 3 (T1473)
+
+algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
+
+## RESPUESTA 3 (T1473)
+
+> algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
+
+> —Algo así. Vamos a caminar. Cuéntame lo que pasó mientras no estuve.
+
+Le agarras la mano. Ymir mira los dedos entrelazados un segundo, como si todavía no se acostumbrara, y después se acomoda la canasta en el otro brazo y empieza a caminar a tu lado por el camino de grava, hacia el ala este.
+
+—"Algo así" —repite, burlona—. Eso es un sí. Ya te conozco.
+
+Camina un rato en silencio. Después empieza a hablar, como habla ella: mirando para adelante, sin orden, con la boca torcida.
+
+—A ver. Lo primero. La semana después de que te fuiste, el comandante soltó a los cuatro de Marley, como te prometió. —Patea otra piedrita—. Annie se fue en el primer barco, derecho a Liberio, a buscar a su papá. Armin fue a despedirla al puerto y volvió con una cara que, te juro, daba pena. Reiner y Bertholdt también se fueron, a ver a Marcel. Reiner lloró en el muelle. Hange lo anotó, como dijo que iba a hacer.
+
+—El barbudo, en cambio, se quedó. —Se encoge de hombros—. Nadie lo entiende. Vive en Shiganshina, en una casita a dos calles de la de los Jaeger. Grisha va a verlo todos los días. Se sientan en la puerta y no hablan. Una hora entera, sin decir nada. Y al otro día vuelve.
+
+Pasan junto a una fuente. Ymir le tira una manzana arrugada a un pato. El pato la ignora.
+
+—Hay barcos —sigue—. De Marley, cada semana. Traen cosas, se llevan cosas. Trigo, carbón, telas. En la costa este están construyendo un puerto, donde invocaste al dragón ese. Y llegó un barco de Hizuru, con la señora de los abanicos. Mikasa fue a verla y volvió con un kimono. —Sonríe de costado—. Nunca la vi tan incómoda.
+
+—Y Eren se va. —Lo dice como quien habla del clima—. En diez días. Con Mikasa, con Armin, y con medio escuadrón de la Legión. Un barco marleyano los lleva al continente. Quieren ver el desierto, el hielo, montañas que echan fuego, no sé qué más. El comandante dijo que sí. La madre de Eren lloró dos días seguidos y después le tejió una bufanda.
+
+Doblan una esquina del palacio. El ruido del motor se oye más fuerte, más cerca: tose, ruge, se ahoga.
+
+—Hange casi no duerme desde que te fuiste. Desarmó la radio esa tuya cuarenta veces. Hizo otra, más grande, con alambre y cosas de la herrería. Y la otra noche... —Se le escapa una risa—. La otra noche gritó tan fuerte que despertó a medio palacio. Había agarrado música. De Marley. Del otro lado del mar. Una mujer cantando, entre ruido. Hange lloraba, Levi le decía que se callara para poder escuchar, y Historia bajó en camisón.
+
+Se para. Te tira de la mano para que te pares también.
+
+Delante de ustedes, en el patio de atrás del ala este, hay un galpón de madera nuevo con las puertas abiertas de par en par, barriles de aceite negro apilados contra la pared y manchas oscuras por todo el suelo. En medio del patio, la moto. Brillante, limpia, demasiado limpia, con todas las piezas que no son de metal envueltas en trapos.
+
+Sentado encima, con las manos en el manubrio y la cara de siempre, Levi.
+
+Arrodillada al lado del motor, con una llave inglesa en una mano, los anteojos llenos de grasa y la cara negra de hollín hasta las orejas, Hange.
+
+—¡Una vez más! —grita Hange—. ¡Esta vez la mezcla es perfecta, lo juro!
+
+—Dijiste lo mismo las últimas once veces —dice Levi.
+
+Hange levanta la vista para contestarle. Y te ve.
+
+Se le cae la llave inglesa.
+
+—¿Fa...?
+
+Ymir se pone detrás de ti. Te suelta la mano para taparse los oídos.
+
+—Ahí viene —murmura.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1473 · SHINGEKI · DÍA 119 · 07:05      ║
+║ Mitras · patio del ala este del palacio      ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Ver qué hicieron con lo que les    ║
+║ dio · algo de este mundo para Robin          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 07:05, patio del ala este. Ymir le contó los 53 días. Hange lo ve junto a la moto y se le cae la llave; Levi en la moto; Ymir se tapa los oídos. Facundo puede actuar.

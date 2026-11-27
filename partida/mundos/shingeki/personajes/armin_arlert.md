@@ -21,3 +21,4 @@ ESTADO: activo
 - T963 · Reencuentro con su abuelo junto al canal. A Facundo: "Ve. Él te necesita más que yo ahora."
 - T968 · Visita a Annie en Mitras; le cuenta lo de los titanes.
 - T970 · Le habla a su abuelo con los ojos brillando tras el discurso.
+- (Días ~67-73) Despidió a Annie en el puerto. Se va al continente con Eren en 10 días.
