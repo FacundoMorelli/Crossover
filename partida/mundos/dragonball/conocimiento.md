@@ -165,3 +165,4 @@
 - T1617 · Bulma y Milk VIERON a Facundo cambiarse de ropa al instante (inventario; Bulma no pregunta).
 - T1618 · Erasa y Videl VIERON una foto de Facundo con Kase (Bulma la sacó y la mandó).
 - T1620 · Erasa sabe (por Facundo vía Bulma) su nombre completo, Facundo Morelli, y el de Kase.
+- T1622 · Goku le contó a Goten que Facundo le ganó a Bills (cadena: Goku lo vio → Goten).

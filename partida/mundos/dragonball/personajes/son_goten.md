@@ -42,3 +42,4 @@ ESTADO: bien.
 - T1533 · Se ríe tanto de Trunks que se cae al mar; Gohan lo pesca.
 - T1547 · Cuenta que Trunks intentó la Bola Giratoria cuarenta veces y le explotó siempre en la cara.
 - T1548 · "¡Papá! ¿Otra vez te vas?" Abraza a Facundo por la cintura y le da un beso en la cabeza a Kase.
+- T1622 · Llega con Goku (pelo mojado, espuma detrás de la oreja, toalla de capa). "¡KASE! ¡Facundo! ¡Volviste! ¡Mi papá dice que le ganaste al señor Bills! ¡¿Es verdad?! ¡¿Me enseñas cómo?!" Levanta los brazos para agarrar a Kase. SABE (por Goku): que Facundo le ganó a Bills.

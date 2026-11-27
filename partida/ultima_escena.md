@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1619)
-
-Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
-
-## RESPUESTA 1 (T1619)
-
-> Jajajaja, mis ojos son naturales, mi pelo tambien, y mi gato va conmigo a todos lados
-
-> —¡Ja, ja, ja! Mis ojos son naturales, mi pelo también. Y mi gato va conmigo a todos lados.
-
-—¡"Va conmigo a todos lados"! —Bulma repite mientras escribe, rápido, con los dos pulgares—. Ay, eso es buenísimo, eso lo pongo tal cual... "Ojos naturales, pelo natural, y el gato va a todos lados con él." Enviado.
-
-Milk niega con la cabeza, sonriendo.
-
-—Pelo natural, dice. Blanco y azul. —Te mira el pelo con los ojos entrecerrados—. Bueno, Goku tiene el pelo de punta desde que nació, y cuando se enoja se le pone amarillo, así que no voy a decir nada.
-
-El teléfono vibra casi enseguida. Bulma lo lee y suelta un grito chiquito.
-
-—"¡¿NATURALES?! ¡No puede ser! ¡Videl, si me estás mintiendo te mato!" —Sigue bajando con el dedo—. "Ok. Ok. Me calmo. Voy a ir. A las ocho. Voy a llevar algo para el gato." —Bulma levanta la vista, encantada—. Y otro mensaje: "¿Cómo se llama el gato? ¿Y cómo se llama ÉL? Videl no sabe el apellido, dice que nunca le preguntó."
-
-Milk se ríe detrás del cucharón.
-
-—Esa chica habla más que Bulma.
-
-—¡Oye!
-
-Desde adentro de la casa sale Bills, caminando despacio, con una cucharita en la boca y un vaso de pudín vacío en la mano. Se para en la puerta corrediza, ve el celular, ve la cara de Bulma, te ve a ti con la ropa nueva y entrecierra los ojos.
-
-—¿Qué pasa acá? ¿Por qué el muchacho del bolsillo está vestido de blanco?
-
-—Tiene una cita, señor Bills —dice Milk, muy orgullosa, como si fuera mérito suyo.
-
-Bills se saca la cucharita de la boca. Mira a Kase. Mira a ti.
-
-—¿Una cita? ¿Con comida?
-
-Bulma tiene el pulgar listo sobre la pantalla, esperando, y te mira.
-
-—Bueno, ¿qué le pongo? ¿Cómo se llama el gato, y cómo te llamas tú? —Sonríe—. Nombre completo, que esta chica es de las que buscan todo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1619 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · sábado,   ║
-║ mediodía                                     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.849 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en tu hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1620)
+## COMANDO 1 (T1620)
 
 se llama kase y me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1620)
+## RESPUESTA 1 (T1620)
 
 > se llama kase y me llamo Facundo Morelli
 
@@ -123,11 +66,11 @@ Detrás de Bills, en la puerta corrediza, aparece Whis con una taza de té y la 
 
 ---
 
-## COMANDO 3 (T1621)
+## COMANDO 2 (T1621)
 
 esta bien
 
-## RESPUESTA 3 (T1621)
+## RESPUESTA 2 (T1621)
 
 > esta bien
 
@@ -184,4 +127,61 @@ Sacude un poco el teléfono.
 
 ---
 
-ESTADO AL CIERRE: Bills y Whis irán a la cena. Milk cocina en modo guerra. Bulma: "¿Le aviso [a Erasa] que va a haber invitados especiales? ¿O la dejamos que se encuentre con un gato violeta gigante comiendo torta?" Facundo puede contestar.
+## COMANDO 3 (T1622)
+
+ehh como quieras, si termina pasando algo entre nosotros va a tener que saber igualmente
+
+## RESPUESTA 3 (T1622)
+
+> ehh como quieras, si termina pasando algo entre nosotros va a tener que saber igualmente
+
+> —Eh... como quieras. Si termina pasando algo entre nosotros, igual va a tener que saberlo.
+
+—"Si termina pasando algo entre nosotros." —Bulma te mira con una sonrisa enorme, de oreja a oreja—. Ay, ya estás pensando en el futuro. Qué tierno.
+
+Mira el celular. Lo piensa un segundo. Después escribe, rápido, mordiéndose la lengua.
+
+—Bueno. Le voy a decir algo. No todo. Lo justo. —Lee en voz alta mientras escribe—: "Erasa, querida: esta noche van a venir un par de amigos de la familia que son un poco... especiales. Uno es muy alto, de piel violeta, con orejas grandes, y le gusta mucho la comida. Por favor, no le digas que parece un gato. Ni lo mires mucho cuando come. Es muy importante." —Levanta la vista—. ¿Está bien así?
+
+No espera respuesta. Ya lo mandó.
+
+El teléfono vibra a los dos segundos.
+
+—"¡¡Jajajajaja!! ¡¿Es un disfraz?! ¡¿Es una fiesta de disfraces?! ¡¿Tengo que ir disfrazada?!" —Bulma se ríe—. Esta chica no entiende nada.
+
+Escribe otra vez, rápido: "No es disfraz. No vengas disfrazada. Tú confía."
+
+Vibra otra vez.
+
+—"Ok, confío. Esto es lo más divertido que me pasó en el año. ¡Nos vemos a las ocho!" —Bulma guarda el celular en el bolsillo, satisfecha—. Listo. Lo demás, que lo descubra sola.
+
+En ese momento, una mancha naranja aparece en el cielo y baja en picada hacia el jardín.
+
+Goku aterriza frente a la puerta corrediza con Goten colgado de la espalda. Goten tiene el pelo mojado, todavía con espuma de champú detrás de una oreja, y una toalla atada al cuello como si fuera una capa.
+
+—¡Ya está! ¡Se bañó! —anuncia Goku, orgulloso—. ¡Milk! ¡Se bañó!
+
+Goten se baja de un salto. Mira a su alrededor. Ve a Kase en tu hombro. Se le abren los ojos.
+
+—¡KASE! —Sale corriendo hacia ti, con la toalla flameando—. ¡Facundo! ¡Volviste! ¡Mi papá dice que le ganaste al señor Bills! ¡¿Es verdad?! ¡¿Me enseñas cómo?!
+
+Frena delante de ti, salta dos veces en el lugar y levanta los brazos hacia Kase, para que lo deje agarrarlo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1622 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Jardín de la Corporación Cápsula · sábado,   ║
+║ mediodía                                     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.849 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Cena con Erasa, hoy a las 20:00    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Erasa avisada a medias ("amigos especiales"). Goten llega con Goku, corre hacia Facundo y Kase: "¿Le ganaste al señor Bills? ¿Me enseñas cómo?" Levanta los brazos hacia Kase. Facundo puede actuar.

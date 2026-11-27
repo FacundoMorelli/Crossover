@@ -142,3 +142,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1613 (4 días) · Entrena con Whis de sol a sol; el SSJ Blue le dura cada vez más. Le tira una piedra a Bills por la espalda (la esquiva sin mirar). Milk está muy enojada (se fue "un ratito" hace cinco días).
 - T1614 · Vuelve a la Tierra; se esconde detrás de Whis del cucharón de Milk.
 - T1616 · Milk lo manda a buscar a Goten; quiere ayudar a cocinar (Milk: no).
+- T1622 · Llega con Goten bañado: "¡Ya está! ¡Se bañó! ¡Milk! ¡Se bañó!" Le contó a Goten que Facundo le ganó a Bills.
