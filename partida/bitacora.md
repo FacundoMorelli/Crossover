@@ -1501,3 +1501,4 @@ T1499 · DRAGON BALL · Monte Paoz, cocina · No leyó el libro. Milk: "¡Iguali
 T1500 · DRAGON BALL · Monte Paoz · Se queda hasta unos días después de la fiesta de Bulma. Milk: "Estás flaco." Goku propone que Facundo lo ayude a arar; Milk: dos campos antes del mediodía o no hay entrenamiento. "¿Me ayudas?"
 T1501 · DRAGON BALL · Monte Paoz · Acepta arar con Goku mañana a las seis. Goten entra con un pescado; Kase se metió al arroyo. "¿Kase puede ser Super Saiyajin?"
 T1502 · DRAGON BALL · Cuarto de Goten · Kase no puede ser SSJ "que yo sepa". 43 dibujos de Kase. Goten le regala el de Kase y Facundo de la mano.
+T1503 · DRAGON BALL · Cuarto de Goten · Guarda el dibujo en el inventario. Abrazo de Goten. "¿Mañana me enseñas algo que no sepa mi papá?"

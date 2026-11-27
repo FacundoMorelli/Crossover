@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1500)
-
-esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
-
-## RESPUESTA 1 (T1500)
-
-> esta bien milk, muchas gracias, me voy a quedar hasta unos dias despues del cumple de bulma
-
-> —Está bien, Milk. Muchas gracias. Me voy a quedar hasta unos días después del cumpleaños de Bulma.
-
-Milk asiente, una sola vez, muy seria, como si acabaras de firmar un contrato.
-
-—Bien. —Se levanta. Te saca el tazón vacío de adelante y te pone otro, lleno, sin preguntar—. Entonces comes bien estos días. Estás flaco. Todos los que viajan vuelven flacos.
-
-Se da vuelta hacia la cocina, de espaldas a ti, y revuelve una olla que no necesita revolverse. Desde atrás le ves la oreja un poco colorada.
-
-—Goten va a estar contento —dice, a la olla—. Pregunta por el gato todas las semanas. Le dibujó como cuarenta veces. Los tiene pegados en la pared de su cuarto.
-
-La puerta del baño se abre. Goku sale con una toalla en la cabeza, el pelo goteando, una camiseta limpia puesta al revés, y se asoma a la cocina olfateando.
-
-—¿Facundo se queda? —Se le ilumina la cara—. ¡Bien! ¡Entonces mañana entrenamos otra vez!
-
-—Mañana —dice Milk, sin darse vuelta— tú aras el campo norte. A las seis.
-
-—Pero...
-
-—A las seis.
-
-Goku se queda callado, con la toalla en la cabeza. Después te mira a ti, con los ojos brillantes, y se le arma una idea en la cara, enorme, de esas que se le arman pocas veces.
-
-—Milk —dice, muy despacio—. ¿Y si Facundo me ayuda a arar? Así terminamos más rápido. Y después entrenamos.
-
-Milk se da vuelta con el cucharón en la mano. Te mira a ti. Mira a Goku. Te vuelve a mirar a ti, con los ojos entrecerrados, calculando.
-
-—El campo norte y el campo de abajo —dice—. Los dos. Antes del mediodía. —Señala a Goku con el cucharón—. Si terminan, entrenan. Si no, nada.
-
-Goku se da vuelta hacia ti, con la toalla resbalándole de la cabeza y las manos juntas.
-
-—¿Me ayudas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1500 · DRAGON BALL · AÑO 777 · 12:50   ║
-║ Monte Paoz · casa de los Son, cocina         ║
-║ NIVEL 30 · EXP 337.130/360.000               ║
-║ FRAGMENTOS 139.249 · 0 zeni                  ║
-║ Energía 90% · Ojos: bien · Palmas vendadas   ║
-║ Velo: persona común                          ║
-║ Kase: afuera, con Goten junto al arroyo      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Quedarse hasta después de la       ║
-║ fiesta de Bulma (Bills, sábado)              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1501)
+## COMANDO 1 (T1501)
 
 esta bien
 
-## RESPUESTA 2 (T1501)
+## RESPUESTA 1 (T1501)
 
 > esta bien
 
@@ -111,11 +54,11 @@ Kase, en el suelo de la cocina, se sacude el agua de las patas, una por una, mir
 
 ---
 
-## COMANDO 3 (T1502)
+## COMANDO 2 (T1502)
 
 no, no puede, que yo sepa
 
-## RESPUESTA 3 (T1502)
+## RESPUESTA 2 (T1502)
 
 > no, no puede, que yo sepa
 
@@ -168,4 +111,57 @@ Goten arranca uno de la pared con cuidado. El de los dos de la mano. Lo alisa co
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, año ~777 13:05, cuarto de Goten. Goten le extiende el dibujo de Kase y Facundo de la mano como regalo. Facundo puede responder.
+## COMANDO 3 (T1503)
+
+esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
+
+## RESPUESTA 3 (T1503)
+
+> esta bien, muchas gracias goten lo voy a guardar y nunca lo voy a perder
+
+> —Está bien. Muchas gracias, Goten. Lo voy a guardar y nunca lo voy a perder.
+
+Tomas el dibujo con las dos manos vendadas. Lo miras: el chico de pelo blanco y azul, el gato de dos colores, las dos manos que se tocan aunque una sea una pata. Lo doblas con cuidado, una sola vez, por la mitad, y lo guardas.
+
+Desaparece de tus dedos, hacia ese lugar donde las cosas no se pierden ni se arrugan nunca.
+
+Goten abre los ojos enormes.
+
+—¡¿Dónde se fue?! ¡¿Lo hiciste desaparecer?!
+
+Mira tus manos. Te mira las mangas, por si lo escondiste ahí. Mira debajo de la cama, por si se cayó.
+
+—Está guardado —dice, despacio, como si se lo explicara a sí mismo—. Guardado de verdad. Donde no se pierde.
+
+Se le arma la sonrisa enorme, la de Goku, la que le ocupa toda la cara.
+
+Y se te tira encima. Te abraza por la cintura, fuerte, con los pantalones todavía mojados del arroyo, y te deja dos manchas de agua en el sobretodo. Kase, desde el piso, mira la escena con el mismo desdén con el que miró a Hange.
+
+—¡Goten! —grita Milk desde la cocina—. ¡Ven a cambiarte esos pantalones antes de que te resfríes! ¡Y después la tarea de matemáticas!
+
+—¡Ya voy! —grita Goten, sin soltarte.
+
+No se mueve.
+
+Levanta la cabeza. Te mira desde abajo, con la barbilla apoyada en tu pecho, y baja la voz, como quien cuenta un secreto.
+
+—Oye, Facundo. Mañana, cuando termines de arar con mi papá... ¿me enseñas algo? Algo que no sepa mi papá. —Mira de reojo hacia la puerta—. Trunks dice que su papá le enseñó una técnica nueva. Y yo no tengo ninguna nueva. Ni una.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1503 · DRAGON BALL · AÑO 777 · 13:08   ║
+║ Monte Paoz · cuarto de Goten                 ║
+║ NIVEL 30 · EXP 337.130/360.000               ║
+║ FRAGMENTOS 139.249 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · Palmas vendadas   ║
+║ Velo: persona común                          ║
+║ Kase: en el piso, con desdén                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Arar con Goku mañana a las 6 ·     ║
+║ fiesta de Bulma el sábado                    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, año ~777 13:08, cuarto de Goten. Dibujo guardado en el inventario. Goten pide que mañana, después de arar, le enseñe una técnica que no sepa Goku. Facundo puede responder.
