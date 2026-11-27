@@ -1684,3 +1684,4 @@ T1682 · CHAINSAW MAN · callejón · "Hola." Santa Claus habla por el muñeco: 
 T1683 · CHAINSAW MAN · callejón Mitsukoshi · Esquiva al muñeco. Santa: "Eso fue muy rápido." "Me voy a quedar con los dos." Tres muñecos avanzan.
 T1684 · CHAINSAW MAN · avenida Mitsukoshi · Desmaya a 3 muñecos sin lastimarlos (+3 Frag). Avenida llena de muñecos; motosierra arriba. Un agente de Seguridad Pública le apunta: "¿Muñeco o persona?"
 T1685 · CHAINSAW MAN · avenida Mitsukoshi · "Soy una persona." Manos arriba. El agente mayor nota que los muñecos del callejón están quietos y enteros: "¿Qué les hiciste? ¿Quién eres?"
+T1686 · CHAINSAW MAN · avenida Mitsukoshi · "Soy un viajero. Solo los desmayé." Sato no le cree. Santa: "El joven del gato. Me rompiste tres muñecos." Veinte muñecos avanzan. Sato: "Demuéstramelo."

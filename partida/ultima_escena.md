@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1683)
-
-que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
-
-## RESPUESTA 1 (T1683)
-
-> que interesante, lo esquivo y mientras le pregunto: me puedes decir donde estoy?
-
-> —Qué interesante.
-
-El oficinista llega con los brazos estirados hacia tu cuello.
-
-Te corres medio paso. Nada más. Las manos rígidas pasan a un centímetro de tu cara, y el muñeco sigue de largo con todo el impulso, sin frenar, sin girar, como un juguete a cuerda, y se estrella de frente contra la máquina expendedora del fondo. El vidrio se raja. Caen tres latas de café y ruedan por el piso mojado. La luz de la máquina titila más rápido.
-
-> —¿Me puedes decir dónde estoy?
-
-El muñeco se queda pegado a la máquina un segundo. Después la cabeza gira hacia atrás, sola, ciento ochenta grados, sin que el cuerpo se mueva. Cruje. La sonrisa cosida te mira por encima del hombro.
-
-La voz de la mujer tarda un poco más en llegar esta vez.
-
-—Ah. —Suena sorprendida. Interesada—. Eso fue rápido, joven. Muy rápido.
-
-El cuerpo se da vuelta por fin, para alcanzar a la cabeza. Tiene la frente abollada contra el vidrio y no sangra.
-
-—¿Dónde estás? —La voz se ríe, bajito, con ternura—. En Tokio, querido. Detrás de los almacenes Mitsukoshi. —Una pausa—. En el peor lugar y la peor noche para preguntarlo. ¿No eres de aquí? Con ese pelo, claro que no eres de aquí.
-
-En la boca del callejón aparecen dos más. La señora de la bolsa de compras, con un puerro asomando, y el chico de uniforme escolar, con la mochila colgando de un solo hombro. Se paran uno al lado del otro, tapando la salida a la avenida. Sonríen igual. Detrás de ellos la gente ya no corre: ya no queda nadie corriendo. Solo se oyen la lluvia, la sirena que se acerca y, más lejos, algo que suena como un motor muy fuerte, irregular, que arranca y se ahoga, arranca y se ahoga.
-
-—¿Sabes qué? —dice la voz, ahora desde las tres bocas a la vez, un poco desfasadas, como un eco—. Me gustas. Me gusta ese gato. Me voy a quedar con los dos.
-
-Los tres dan un paso hacia ti al mismo tiempo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1683 · CHAINSAW MAN · DÍA 1 · 19:32    ║
-║ Tokio, otoño de 1997                         ║
-║ Callejón detrás de los almacenes Mitsukoshi  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca, erizado                    ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1684)
+## COMANDO 1 (T1684)
 
 los desmayo a los tres sin lastimarlos y salgo a la avenida
 
-## RESPUESTA 2 (T1684)
+## RESPUESTA 1 (T1684)
 
 > los desmayo a los tres sin lastimarlos y salgo a la avenida
 
@@ -103,11 +54,11 @@ Te apunta.
 
 ---
 
-## COMANDO 3 (T1685)
+## COMANDO 2 (T1685)
 
 soy una persona, tranquilo, levanto las manos
 
-## RESPUESTA 3 (T1685)
+## RESPUESTA 2 (T1685)
 
 > soy una persona, tranquilo, levanto las manos
 
@@ -150,4 +101,55 @@ El agente mayor los ve con el rabillo del ojo. Aprieta la empuñadura.
 
 ---
 
-ESTADO AL CIERRE: Día 1 19:34, avenida frente a Mitsukoshi. Facundo con las manos en alto. El joven sigue apuntando ("Los ojos, Sato... no es normal"). SATO, el agente mayor (~40, canoso al ras, cicatriz en el mentón, katana corta) nota que los tres muñecos del callejón están quietos y enteros ("hay que cortarlos en pedazos para que se queden quietos"). Dos muñecos de la avenida los miran. "Tienes cinco segundos, muchacho. ¿Qué les hiciste? ¿Y quién mierda eres?"
+## COMANDO 3 (T1686)
+
+soy un viajero, solo los desmayé
+
+## RESPUESTA 3 (T1686)
+
+> soy un viajero, solo los desmayé
+
+> —Soy un viajero. Solo los desmayé.
+
+Sato te mira un segundo largo, sin parpadear, con la lluvia goteándole de la punta de la nariz.
+
+—"Solo los desmayé" —repite, despacio, sin ninguna entonación.
+
+Mira el callejón otra vez. Los tres sentados contra la pared. Vuelve a mirarte.
+
+—Llevo dieciséis años en esto, muchacho. A un muñeco le partes la cabeza y sigue caminando. Le cortas las piernas y se arrastra. Lo prendes fuego y te abraza mientras se quema. —Lo dice sin levantar la voz, como quien recita una lista del supermercado—. Nadie "desmaya" a un muñeco.
+
+—Sato —dice el joven, con la voz finita.
+
+—Ya sé.
+
+Los dos muñecos de la avenida ya no caminan hacia Mitsukoshi. Vienen hacia ustedes. Un hombre gordo con delantal de carnicero, con las manos todavía rojas, y una chica de veintipico con un vestido de oficina y un solo zapato, que cojea sin que le importe. Detrás de ellos, otros tres giran la cabeza. Y otros cinco. La avenida entera se va dando vuelta, de a poco, como un campo de girasoles.
+
+Todas las bocas se abren a la vez.
+
+—El joven del gato —dice la voz de la mujer mayor, desde veinte gargantas, desfasadas, en eco—. Ahí estás. Me rompiste tres muñecos, querido. Eso no se hace.
+
+El joven del revólver deja de apuntarte y apunta a la avenida, sin saber a cuál. Le tiemblan tanto las manos que el caño baila.
+
+Sato da un paso adelante, se pone entre ellos y tú, levanta la katana corta con las dos manos. No te mira. Habla de costado, con los ojos fijos en el carnicero que se acerca.
+
+—Viajero. —Escupe la palabra—. Bueno, viajero. Si de verdad los desmayaste sin cortarlos, ahora es un buen momento para que me lo demuestres. —Aprieta la empuñadura—. Porque son veinte, nosotros somos dos y este chico no le da ni a una pared.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1686 · CHAINSAW MAN · DÍA 1 · 19:35    ║
+║ Tokio, otoño de 1997                         ║
+║ Avenida frente a los almacenes Mitsukoshi    ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.842 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, erizado                  ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 19:35, avenida frente a Mitsukoshi. Sato no le cree ("Nadie desmaya a un muñeco", 16 años en el oficio). Santa reconoce a Facundo desde veinte bocas: "El joven del gato. Ahí estás. Me rompiste tres muñecos, querido." ~20 muñecos avanzan (carnicero, chica con un zapato...). Sato se pone delante con la katana: "Si de verdad los desmayaste sin cortarlos, ahora es un buen momento para que me lo demuestres. Son veinte, somos dos y este chico no le da ni a una pared."
