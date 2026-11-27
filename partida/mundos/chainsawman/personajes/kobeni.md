@@ -20,3 +20,4 @@ ENCUENTROS:
 - T1704 · VIO a Facundo desaparecer; temblando con el cuchillo en las dos manos.
 - T1705 · Se pone verde viendo a Denji comer al lado de un asesino dormido.
 - T1706 · "¿Los de verdad? ¿Están... abajo? ¿Acá? ¿En el hotel?"
+- T1708 · "Yo no quiero saber qué se siente de mí. Por favor no me digas."

@@ -23,3 +23,4 @@ ENCUENTROS:
 - T1704 · VIO a Facundo desaparecer. "¿Los sándwiches se pueden comer igual?"
 - T1705 · Come sándwiches de huevo y de jamón con mayonesa junto a los asesinos dormidos ("¡Con mayonesa de verdad!"). Se come igual el que Power babeó.
 - T1706 · Deja el sándwich al saber de los muertos.
+- T1708 · "¡¿Me sentiste a mí?! ¿Qué sentiste? ¿Sentiste algo raro? ¿Algo genial? ¿Sentiste a Pochita?" Sabe (oyó) que Facundo siente a la gente a través de paredes.

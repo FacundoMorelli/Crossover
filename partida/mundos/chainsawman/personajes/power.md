@@ -24,3 +24,4 @@ ENCUENTROS:
 - T1701 · "¡Kase duerme con Power! Está decidido. El humano puede dormir en el piso, pero Kase va en la cama de Power." Se apropia de la cama del medio y de las almohadas.
 - T1704 · VIO a Facundo desaparecer. "¡Power te lo dijo! ¡Power lo dijo! ¡Olía raro! ¡Power siempre tiene razón!"
 - T1705 · Le roba el sándwich a Denji, lo muerde y se lo devuelve. "¡Power se ganó los sándwiches! ¡Porque Power descubrió a los malos! ¡La mitad son de Power!"
+- T1708 · "¡¿Y a Power?! ¡Power seguro que se siente increíble! ¡La más poderosa de todas! ¡Dilo!"

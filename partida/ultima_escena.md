@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1705)
-
-si, se pueden comer
-
-## RESPUESTA 1 (T1705)
-
-> si, se pueden comer
-
-> —Sí, se pueden comer.
-
-Denji no espera ni un segundo más. Se tira de rodillas en la alfombra al lado de la bandeja, agarra dos sándwiches a la vez, uno en cada mano, y muerde los dos.
-
-—¡Son de huevo! —anuncia, con la boca llena—. ¡Y este es de jamón! ¡Con mayonesa! ¡Con mayonesa de verdad!
-
-Power cruza la puerta como un rayo, le arranca el de jamón de la mano, le da un mordisco enorme y se lo devuelve babeado. Denji lo mira, lo piensa, y se lo come igual.
-
-—¡Power se ganó los sándwiches! —dice ella, con la boca llena, apuntándote con un dedo con migas—. ¡Porque Power descubrió a los malos! ¡Así que la mitad son de Power!
-
-—¡Tú solo dijiste que olía raro!
-
-—¡Eso es descubrir!
-
-Kobeni no se mueve de la puerta. Mira a los tres de la pared. Mira los sándwiches. Mira a Denji comiendo al lado de un asesino dormido. Se pone verde.
-
-Aki se levanta despacio. Envaina la katana. Sigue mirando la costura en la mandíbula de Kurose, con la cara de piedra.
-
-—Piel —dice, en voz baja, para nadie—. Les sacaron la piel. A los de Kioto. Y se la pusieron.
-
-Se da vuelta. Va hasta la cómoda de la 604, agarra la radio y la prende. La estática llena el pasillo. Pero antes de apretar el botón para hablar, se detiene. Te mira.
-
-No es la mirada de antes, la de desconfianza. Es otra. La de alguien que hace una cuenta y no le cierra.
-
-—Antes de abrir la puerta, ya sabías. —No lo pregunta—. Sabías que eran ellos. Sabías dónde estaba el tercero, un piso más abajo, sin verlo. —Aprieta la radio en la mano—. Así que te voy a preguntar una sola cosa, y después llamo a la central.
-
-Baja la voz.
-
-—¿Hay más?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1705 · CHAINSAW MAN · DÍA 1 · 20:55    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1706)
+## COMANDO 1 (T1706)
 
 no sentí a nadie mas pero ahi abajo estan los reales kurose y tendo
 
-## RESPUESTA 2 (T1706)
+## RESPUESTA 1 (T1706)
 
 > no sentí a nadie mas pero ahí abajo están los reales kurose y tendo
 
@@ -123,11 +68,11 @@ Aki duda un segundo. Después te tiende la radio. Negra, grande, con la antena t
 
 ---
 
-## COMANDO 3 (T1707)
+## COMANDO 2 (T1707)
 
 lo agarro, hola señorita makima
 
-## RESPUESTA 3 (T1707)
+## RESPUESTA 2 (T1707)
 
 > lo agarro, hola señorita makima
 
@@ -170,4 +115,61 @@ Silencio.
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:58, pasillo del 6.º piso, Facundo con la radio. Makima: "Ya van dos veces esta noche." Le agradece. Mañana a la mañana le manda un auto: desayuno los dos, que diga cuánto quiere cobrar (cualquier número) y que le cuente "algunas cosas". Pregunta: "Antes de abrir, usted ya sabía... Sabía dónde estaban los cuerpos, en un piso que no había pisado. ¿Cómo lo supo, señor Morelli?" Aki, Denji y Power escuchan.
+## COMANDO 3 (T1708)
+
+los senti nada mas
+
+## RESPUESTA 3 (T1708)
+
+> los senti nada mas
+
+> —Los sentí, nada más.
+
+Del otro lado de la radio, silencio. Largo. Tan largo que Aki se despega de la pared y te mira.
+
+—Los sintió —repite Makima, al final. Despacio. Saboreándolo—. Qué interesante.
+
+Otra pausa.
+
+—Yo no puedo sentirlo a usted, señor Morelli. Nada. Se lo dije en la avenida. Y usted, en cambio, siente a todos. A través de las paredes. A través de los pisos. —La voz no cambia de tono, sigue suave, amable, pero algo en ella se inclina hacia adelante, como alguien que se acerca a una vidriera—. Me gusta mucho eso. Me gusta mucho.
+
+La estática vuelve, apenas, y se va.
+
+—Bueno. No le quito más tiempo, que debe estar cansado. Mañana hablamos con calma. —Y después, con una dulzura que no hace falta—: Que descanse. Y cuide a Denji por mí. Es muy importante para mí.
+
+Clic. La radio queda muerta, solo con el siseo de fondo.
+
+Aki te la saca de la mano, sin decir nada, y la apaga. Se queda mirándola un segundo, como si la radio también le debiera una explicación. Después se la cuelga del cinturón.
+
+—Mañana a la mañana —dice, más para él que para nadie—. Desayuno con la señorita Makima. —Te mira—. No le pasa a mucha gente.
+
+Denji, que escuchó todo sentado en la alfombra al lado de la bandeja, se para de un salto, se te planta enfrente y te mira con los ojos enormes, todavía con migas de pan en la comisura.
+
+—¡Oye! ¡Oye, oye, oye! —Se señala el pecho con los dos pulgares—. ¡¿Me sentiste a mí?! ¿Qué sentiste? ¿Sentiste algo raro? ¿Algo genial? —Baja la voz, de golpe, muy serio—. ¿Sentiste a Pochita?
+
+Power aparece detrás de él, empujándolo con el hombro, con la mano llena de mayonesa levantada.
+
+—¡¿Y a Power?! ¡Power seguro que se siente increíble! ¡La más poderosa de todas! ¡Dilo!
+
+Kobeni, en la puerta, se encoge más, abrazándose.
+
+—Yo no quiero saber qué se siente de mí. —Susurra—. Por favor no me digas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1708 · CHAINSAW MAN · DÍA 1 · 21:00    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:00, pasillo del 6.º piso. Makima: "Los sintió. Qué interesante. Yo no puedo sentirlo a usted, y usted siente a todos. Me gusta mucho eso." Cortó: "Que descanse. Y cuide a Denji por mí." Aki apagó la radio: "Desayuno con la señorita Makima. No le pasa a mucha gente." Denji: "¿Me sentiste a mí? ¿Sentiste a Pochita?" Power: "¡¿Y a Power?! ¡Dilo!" Kobeni: "Yo no quiero saber qué se siente de mí."
