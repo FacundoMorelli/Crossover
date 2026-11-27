@@ -207,3 +207,4 @@
 - Facundo · T1472 · Por Ymir: Historia pasa el día en reuniones; Hange no duerme; Levi está obsesionado con la moto.
 - Facundo · T1473 · Por Ymir: los cuatro de Marley liberados (Annie, Reiner, Bertholdt a Liberio; Zeke se quedó en Shiganshina); barcos y puerto; Hizuru; Eren al continente en 10 días; la radio de Hange captó música de Marley.
 - Hange, Levi · T1473 · Ven a Facundo con Ymir y el gato en el patio del ala este.
+- Facundo · T1474 · Por Hange: brotes en el invernadero, tres copias del libro de medicina, nena de Trost salvada con antibióticos, aceite destilado 20 veces, la moto no anda.

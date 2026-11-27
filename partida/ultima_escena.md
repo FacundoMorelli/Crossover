@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1471)
-
-simula 3 dias mas y me voy a shingeki
-
-## RESPUESTA 1 (T1471)
-
-> simula 3 dias mas y me voy a shingeki
-
-Los tres días pasan despacio, como pasan los días buenos.
-
-Robin trabaja por las mañanas, y tú con ella. El patio de Baltigo ya tiene once alumnos de espada corta; el de la pistola es el peor de todos y el que más insiste. Sabo aparece una tarde con dos botellas y se sienta contigo en la muralla a mirar el mar, y te cuenta cosas de Ace y de Luffy de cuando eran chicos, una detrás de otra, como si tuviera miedo de que se le volvieran a ir de la cabeza si no las decía en voz alta. Koala termina los informes atrasados y se los tira a Sabo encima del escritorio. Dragon te cruza dos veces en el pasillo. La segunda, se detiene, te mira, y sigue caminando sin decir nada, que en él es casi un saludo.
-
-Robin te muestra un cuaderno nuevo. Tapas de cuero, hojas en blanco. En la primera página, con su letra chica y prolija, escribió un solo título: "Los mundos de Facundo". Debajo, nada todavía.
-
-—Es para cuando me cuentes —dice, y lo guarda en el cajón.
-
-La tercera noche no duermen mucho.
-
-...
-
-La mañana del cuarto día, Robin te acompaña hasta la torre. Arriba no hay nadie: Dragon salió temprano. El viento entra por las cuatro ventanas.
-
-Te arregla el cuello del sobretodo, aunque no le hace falta. Le pone a Kase la mano en la cabeza, y Kase, por primera vez, la deja.
-
-Te besa. Largo, despacio, sin apuro.
-
-—Acuérdate —dice contra tu boca—. Algo de ese mundo. Y si te reconocieron.
-
-Se aparta un paso. Cruza los brazos sobre el abrigo verde, como para no estirarlos hacia ti.
-
-—Vete tranquilo. Aquí te espero.
-
-Abres la puerta en medio del cuarto redondo, entre la mesa de mapas y la ventana del este. Una línea de luz vertical que se ensancha hasta tener el alto de una persona. Los papeles de la mesa se levantan con el viento que sale de ella.
-
-Robin no se mueve. Te mira cruzar.
-
-Del otro lado hace fresco y huele a pasto mojado, a pan recién horneado y a algo nuevo, que no estaba la última vez: un olor raro, oscuro, como de lámpara mal apagada.
-
-Estás en los jardines del palacio de Mitras, entre los setos recortados, al costado de un camino de grava. Es temprano. El sol recién asoma por encima de los techos, y el rocío brilla sobre todo.
-
-Pero algo cambió.
-
-A lo lejos, más allá de los techos de la capital, donde antes se levantaba entera la línea gris de Wall Sina, se ve un corte. Un tramo de la muralla ya no está: en su lugar hay un camino ancho, de tierra apisonada, que sale de la ciudad hacia el campo, y por él pasan carretas, gente a pie, caballos. Muchas. Sobre una torre del palacio, donde antes solo había una bandera, alguien montó un mástil de metal fino con un alambre que baja por la pared hasta una ventana del segundo piso. Y desde algún lugar detrás del ala este, se oye un ruido que en este mundo no debería existir: un motor, que tose, se ahoga, arranca, y se vuelve a ahogar, seguido de un grito de alegría y una maldición de alguien que suena exactamente como Levi.
-
-Kase, en tu hombro, levanta las orejas hacia el ruido.
-
-Y en el camino de grava, a diez pasos, viniendo hacia los jardines con una canasta de mimbre colgada del brazo, hay una chica alta, de pelo castaño atado atrás, pecas en la cara, con una camisa blanca arremangada y pantalones de montar. Mira el suelo mientras camina, distraída, pateando una piedrita.
-
-En la canasta hay manzanas. Muchas. Algunas ya un poco arrugadas, de tanto guardarlas.
-
-Levanta la vista.
-
-Se frena en seco.
-
-La piedrita sigue rodando sola por la grava hasta tus botas.
-
-Ymir se te queda mirando. No sonríe. No dice nada. Tiene la boca un poco abierta y las orejas, de a poco, se le van poniendo coloradas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1471 · SHINGEKI · DÍA 119 · 06:40      ║
-║ Mitras · jardines del palacio                ║
-║ NIVEL 30 · EXP 331.130/360.000               ║
-║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: persona común                          ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
-║ OBJETIVO: Ver qué hicieron con lo que les    ║
-║ dio · algo de este mundo para Robin          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1472)
+## COMANDO 1 (T1472)
 
 me acerco a ymir y le doy un beso, como estas amor?
 
-## RESPUESTA 2 (T1472)
+## RESPUESTA 1 (T1472)
 
 > me acerco a ymir y le doy un beso, como estas amor?
 
@@ -133,11 +58,11 @@ Levanta la vista. Tiene los ojos brillantes y la boca torcida en esa sonrisa suy
 
 ---
 
-## COMANDO 3 (T1473)
+## COMANDO 2 (T1473)
 
 algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
 
-## RESPUESTA 3 (T1473)
+## RESPUESTA 2 (T1473)
 
 > algo asi, vamos a caminar, le agarro de la msno y me contás lo que paso mientras no estuve
 
@@ -202,4 +127,61 @@ Ymir se pone detrás de ti. Te suelta la mano para taparse los oídos.
 
 ---
 
-ESTADO AL CIERRE: SHINGEKI, Día 119 07:05, patio del ala este. Ymir le contó los 53 días. Hange lo ve junto a la moto y se le cae la llave; Levi en la moto; Ymir se tapa los oídos. Facundo puede actuar.
+## COMANDO 3 (T1474)
+
+hola hange
+
+## RESPUESTA 3 (T1474)
+
+> hola hange
+
+> —Hola, Hange.
+
+—¡¡¡FACUNDOOOOOOOOO!!!
+
+El grito sale del patio, rebota en las paredes del ala este, entra por todas las ventanas abiertas del palacio y asusta a una bandada de palomas del techo. En algún piso de arriba, alguien deja caer algo de vidrio.
+
+Hange ya está corriendo. Salta por encima de un barril, resbala en una mancha de aceite, no se cae de milagro y se te tira encima con los brazos abiertos.
+
+Kase ve venir la grasa y salta de tu hombro a un seto con una velocidad que no le habías visto nunca.
+
+Hange te abraza. Fuerte. Con la cara negra de hollín pegada a tu pecho y las manos llenas de aceite en la espalda de tu sobretodo. Se ríe y habla al mismo tiempo, tan rápido que no se le entiende nada.
+
+—¡Volviste! ¡Volviste, volviste! ¡Ymir decía que ibas a volver y yo le decía que sí, pero en el fondo no sabía, y Levi decía que no importaba, pero todas las noches miraba el patio...!
+
+—No es cierto —dice Levi desde la moto.
+
+—¡Es cierto! —Hange se aparta, te agarra de los hombros con las dos manos y te sacude—. ¡Tengo que mostrarte todo! ¡La radio! ¡Agarré una voz! ¡Del otro lado del mar! ¡Y semillas, las de clima frío, ya hay brotes en el invernadero de atrás! ¡Y el libro de medicina, lo copiamos a mano, tres copias, una para cada distrito, y los antibióticos...! —Se le quiebra la voz—. Una nena en Trost. Fiebre de pulmón. La desahuciaron. Le dimos la mitad del frasco, como decían tus instrucciones. Está corriendo por la calle otra vez.
+
+Se le empañan los anteojos. Se los sube a la frente y se seca los ojos con la manga, y se deja la cara todavía más negra.
+
+Detrás, Levi se baja de la moto. Se acerca despacio, con las manos en los bolsillos, y se para a dos pasos. Te mira de arriba abajo. Mira las manchas de aceite que Hange te dejó en el sobretodo.
+
+—Tch. Llegaste justo para ensuciarte.
+
+Hange ya no lo escucha. Te agarra de la manga y te arrastra hacia la moto, pisando el aceite.
+
+—¡Pero esto! ¡Esto no anda! —Señala el motor con las dos manos, desesperada—. Destilé el aceite de las minas del norte veinte veces, cada vez más claro. A veces arranca. Tose, ruge, ¡y se muere! ¡Once veces! Levi ya se aprendió de memoria cómo se arranca y todavía no dio ni una vuelta al patio.
+
+Se arrodilla al lado del motor y te mira desde abajo, con los ojos enormes detrás de los anteojos sucios.
+
+—¿Qué estoy haciendo mal?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1474 · SHINGEKI · DÍA 119 · 07:07      ║
+║ Mitras · patio del ala este del palacio      ║
+║ NIVEL 30 · EXP 331.130/360.000               ║
+║ FRAGMENTOS 114.249 · 0 monedas de la Corona  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: persona común                          ║
+║ Kase: escondido en un seto                   ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Shingeki)         ║
+║ OBJETIVO: Ver qué hicieron con lo que les    ║
+║ dio · algo de este mundo para Robin          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SHINGEKI, Día 119 07:07, patio del ala este. Hange, arrodillada junto a la moto: "¿Qué estoy haciendo mal?" Facundo puede responder.

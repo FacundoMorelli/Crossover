@@ -37,3 +37,4 @@ QUÉ SABE DE FACUNDO: vio la frontera, lo vio flotar, vio el golpe al Acorazado 
 - T974 · Saludo de la Legión a Facundo.
 - (Días 66-119) Obsesionado con la moto. Mandó callar a Hange para escuchar la música de Marley por la radio.
 - T1473 · Sentado en la moto: "Dijiste lo mismo las últimas once veces."
+- T1474 · Hange dice que miraba el patio todas las noches esperando a Facundo; "No es cierto." A Facundo: "Tch. Llegaste justo para ensuciarte."

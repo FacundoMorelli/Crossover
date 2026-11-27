@@ -33,3 +33,4 @@ ESTADO: activo
 - T974 · "¡Combustible! ¡Las minas del norte, el aceite negro de las grietas!" Saludo de la Legión.
 - (Días 66-119) Desarmó la radio cuarenta veces; hizo otra más grande (alambre, herrería) con antena en una torre; captó una noche música de Marley (una mujer cantando); lloró. Galpón nuevo con barriles de aceite negro; intenta hacer andar la moto (once intentos).
 - T1473 · Día 119 · Negra de hollín, llave inglesa: "¡Esta vez la mezcla es perfecta!" Ve a Facundo; se le cae la llave: "¿Fa...?"
+- T1474 · "¡¡¡FACUNDOOOO!!!" Abrazo con grasa. Resultados: radio con voz de Marley; brotes de las semillas de clima frío en un invernadero; libro de medicina copiado a mano en tres copias (una por distrito); antibióticos: media dosis salvó a una nena con fiebre de pulmón en Trost. Aceite de las minas del norte destilado 20 veces; la moto arranca y se muere (11 veces). "¿Qué estoy haciendo mal?"
