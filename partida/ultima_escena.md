@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1539)
-
-mmmm, viajo a muchos lugares, muy distintos de aca
-
-## RESPUESTA 1 (T1539)
-
-> mmmm, viajo a muchos lugares, muy distintos de aca
-
-> —Mmmm. Viajo a muchos lugares. Muy distintos de aquí.
-
-Bulma se queda con la taza a medio camino de la boca.
-
-—Muy distintos de aquí —repite, despacio. Deja la taza en la mesa. Se le despiertan los ojos de golpe, como si el café le hubiera hecho efecto todo junto—. ¿Distintos cómo? ¿Otros planetas? ¿Como Namek?
-
-Se inclina hacia adelante sobre la mesa, con los codos al lado del plato.
-
-—Fui a Namek, ¿sabes? Hace años. Tres soles, nunca era de noche, todo verde y azul, casas redondas, ranas por todos lados. —Se le escapa una mueca—. Y un tirano espacial que quería matarnos a todos. —Agita la mano—. Pero lo importante es que vi otro planeta. Uno solo.
-
-Te mira las manos, el sobretodo, el bolsillo de donde salieron las cajas de pudín.
-
-—Y tú viajas "a muchos lugares". —Entrecierra los ojos—. Sin nave. Porque te vi llegar con Goku, y no había ninguna nave. Y sacas cosas de un bolsillo que no tiene fondo. —Se ríe por lo bajo—. Yo hice las cápsulas. Las cápsulas Hoi-Poi. Sé cómo se guarda una casa entera en una cosa del tamaño de un dedo. Y eso que haces tú no es una cápsula.
-
-Kase, desde el piso, levanta la cabeza del plato de pescado y la mira.
-
-Bulma se lleva la taza a la boca otra vez. Toma un trago largo. Después la deja, cruza los brazos sobre la bata y te sonríe, con los ojos brillantes, la misma cara de chica de dieciséis años que salió un día de su casa a buscar siete esferas por el mundo.
-
-—Está bien. No me digas cómo. —Levanta un dedo—. Dime una sola cosa. Una. De uno de esos lugares. Algo que yo no haya visto nunca. —Mira el reloj de la pared—. Te quedan dieciocho minutos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1539 · DRAGON BALL · DOMINGO · 05:42   ║
-║ Capsule Corporation · cocina                 ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el piso, mirando a Bulma            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: 6:00 entrenar con Vegeta · cena    ║
-║ en casa de Milk                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1540)
+## COMANDO 1 (T1540)
 
 alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
 
-## RESPUESTA 2 (T1540)
+## RESPUESTA 1 (T1540)
 
 > alguna vez viste a un titan? bueno en uno de esos lugares existían los titanes
 
@@ -93,11 +48,11 @@ Apoya los codos en la mesa. Ya no tiene la sonrisa traviesa. Tiene otra cara: la
 
 ---
 
-## COMANDO 3 (T1541)
+## COMANDO 2 (T1541)
 
 desaparecieron, lo usaban para amenazar a los paises
 
-## RESPUESTA 3 (T1541)
+## RESPUESTA 2 (T1541)
 
 > desaparecieron, lo usaban para amenazar a los paises
 
@@ -150,4 +105,79 @@ Y se va hacia la pileta, tarareando.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 05:55, cocina de Capsule Corp. Bulma: "Me debes el resto de esa historia." Vegeta grita desde el jardín: cinco minutos. Facundo puede actuar.
+## COMANDO 3 (T1542)
+
+le tiro el libro de shingeki a bulma, toma descifralo con esas computadoras, o a mano, lo que te guste y voy a entrenar con vegeta
+
+## RESPUESTA 3 (T1542)
+
+> le tiro el libro de shingeki a bulma, toma descifralo con esas computadoras, o a mano, lo que te guste y voy a entrenar con vegeta
+
+Sacas un libro del bolsillo del sobretodo. Tapas de cuero gastado, gruesas, con las esquinas comidas por el tiempo, y un título grabado en letras que nadie en ese mundo vio nunca.
+
+Se lo tiras a Bulma por encima de la mesa.
+
+Bulma lo ataja con las dos manos, por reflejo, contra el pecho, y casi se le caen los platos.
+
+> —Toma. Descífralo con esas computadoras, o a mano, como te guste. Y voy a entrenar con Vegeta.
+
+Bulma mira el libro. Lo da vuelta. Lo abre por la mitad.
+
+Las páginas están llenas de una escritura apretada, de trazos rectos y ganchos, que no se parece a nada de la Tierra, ni a las letras de Namek, ni a nada que haya visto en ningún archivo. Hay grabados también: tres círculos concéntricos, uno dentro de otro. Murallas. Y unas figuras enormes, desnudas, con caras que sonríen de una forma que da escalofríos, más altas que las murallas.
+
+Bulma se queda mirando un grabado mucho rato.
+
+Después levanta la vista. Tiene los ojos enormes y brillantes, y la cara de alguien a quien le regalaron el rompecabezas más difícil del mundo el día después de su cumpleaños.
+
+—Esto es de ahí —dice, en voz muy baja—. De ese lugar. Los titanes.
+
+No espera respuesta. Abraza el libro contra la bata rosada, como si fuera de vidrio, y se da vuelta hacia la puerta del laboratorio, olvidándose de los platos, del café, de todo.
+
+—¡Lo voy a descifrar! —te grita por encima del hombro—. ¡Con las computadoras, a mano, con lo que haga falta! ¡Aunque me lleve un año! ¡Y cuando lo lea entero, me vas a tener que contar el resto igual!
+
+La puerta del laboratorio se cierra detrás de ella.
+
+El robot chef se queda mirando los platos que quedaron en la pileta. Suspira, con un pitido.
+
+Kase termina el pescado, se lame los bigotes y te salta al hombro.
+
+Sales al jardín.
+
+Amanece. El cielo está naranja y rosa sobre la Ciudad del Oeste, el pasto está mojado de rocío y huele a tierra y a metal. Al fondo del jardín, detrás de los otros hangares, hay una nave redonda, blanca, del tamaño de una casa, apoyada sobre cuatro patas, con una ventanilla redonda encendida por dentro. La cámara de gravedad. Zumba, grave, profundo, como un corazón de metal.
+
+La compuerta está abierta.
+
+Vegeta está parado en la entrada, con los brazos cruzados, el traje azul y los guantes blancos. Mira un reloj que tiene en la muñeca. Las cinco y cincuenta y nueve.
+
+Te ve llegar. No sonríe. Pero algo en la cara se le afloja, apenas, como si una parte de él hubiera esperado que no vinieras.
+
+—Llegaste. —Se da vuelta y entra—. Pasa. Y deja al gato afuera. Ahí adentro lo aplasto.
+
+Se para en el centro de la cámara, junto a la consola. Pone la mano sobre un botón. En la pantalla brilla un número: 1G.
+
+—Trescientas veces la gravedad de la Tierra —dice, sin darse vuelta—. Para empezar.
+
+Gira la cabeza. Te mira por encima del hombro, con los ojos negros encendidos.
+
+—Y apaga ese ki de insecto. Hoy no me lo creo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1542 · DRAGON BALL · DOMINGO · 05:59   ║
+║ Capsule Corporation · cámara de gravedad     ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Entrenar con Vegeta · cena en      ║
+║ casa de Milk                                 ║
+╚══════════════════════════════════════════════╝
+```
+
+El libro que le diste a Bulma lo tomé como otro ejemplar de Paradis. El que tenía Robin sigue con ella en One Piece.
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 05:59, cámara de gravedad de Capsule Corp. Bulma se quedó el libro de Paradis. Vegeta: 300G para empezar; "deja al gato afuera"; "apaga ese ki de insecto". Facundo puede actuar.

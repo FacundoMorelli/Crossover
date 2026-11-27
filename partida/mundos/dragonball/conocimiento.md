@@ -127,3 +127,4 @@
 - Bulma · T1539 · Por Facundo: viaja a muchos lugares muy distintos de la Tierra. Deduce: sin nave; su "bolsillo" no es tecnología de cápsulas. Lo interpreta como otros planetas.
 - Bulma · T1540 · Por Facundo: en uno de los lugares a los que viaja "existían los titanes" (ya no). Nadie más lo oyó (Vegeta en el hangar, Trunks dormido).
 - Bulma · T1541 · Por Facundo: los titanes desaparecieron y los usaban para amenazar países. Sospecha (deducción) que alguien los hizo desaparecer; no lo dice de Facundo.
+- Bulma · T1542 · Por Facundo: un libro del lugar de los titanes; ve los grabados (murallas, titanes). Lo va a descifrar.
