@@ -1583,3 +1583,4 @@ T1581 · DRAGON BALL · Planeta de Bills · "Podríamos probarlo." Whis avisa qu
 T1582 · DRAGON BALL · Planeta de Bills · Recibe el Hakai en serio y lo rompe con el aura Blue (pierde borde del sobretodo, cordones, punta de un mechón). COPIA DEL HAKAI (Bills). +40.000 EXP. NIVEL 32. Bills: "Mañana no me duermo. Ni en cien años."
 T1583 · DRAGON BALL · Planeta de Bills · Pregunta a Bills y Whis si tienen padres. Whis: su padre es el Gran Sacerdote. Bills: "No sé. Hace demasiado tiempo... ¿Tú tienes?"
 T1584 · DRAGON BALL · Planeta de Bills · "No, tampoco. Soy viajero." Bills: "Yo también viajo. Debe ser parecido." Se olvida del tema. Whis rehace la barrera. "Segunda ronda."
+T1585 · DRAGON BALL · Planeta de Bills · Cuenta que es de otro mundo. Bills: "¿Del de Champa?" Whis: "Eso explicaría el punto negro." Bills: "Traes comida de allá. Pero primero, la segunda ronda."

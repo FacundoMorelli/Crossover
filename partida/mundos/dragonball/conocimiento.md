@@ -152,3 +152,4 @@
 - T1579 · Bills y Whis VIERON el Eclipse (punto negro de gravedad) tragarse una esfera de destrucción de Bills. Goku y Vegeta también.
 - T1582 · Bills, Whis, Goku y Vegeta VIERON a Facundo recibir y romper un Hakai en serio de Bills. Nadie sabe que lo copió.
 - T1584 · Bills, Whis (y Goku y Vegeta, que estaban cerca) oyeron a Facundo decir que no tiene padres y que es viajero. Nadie pregunta más.
+- T1585 · QUIÉN SABE QUE VIENE DE OTRO LADO: Bills, Whis, Goku y Vegeta, por Facundo en persona (explanada del planeta de Bills): "Soy de otro mundo, no de otro planeta." Lo interpretan como otro universo (Bills sospechó de Champa; Whis lo descartó). Le creen. No investigan.

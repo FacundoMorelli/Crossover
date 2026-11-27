@@ -3,110 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1582)
-
-listo, lo hago
-
-## RESPUESTA 1 (T1582)
-
-> listo, lo hago
-
-> —Listo, lo hago.
-
-Bills asiente una sola vez.
-
-Y empuja la palma.
-
-No hay rayo ni explosión. El contorno violeta deja su mano y en el mismo instante ya está alrededor tuyo: una línea finísima de luz que te dibuja entero, de los pies al pelo azul, como si alguien hubiera repasado tu silueta con un lápiz de color. Adentro de la línea todo se queda callado.
-
-Lo sientes.
-
-No es dolor. Es algo peor que el dolor y más simple: es una orden. Llega a cada parte de tu cuerpo al mismo tiempo, al último pelo, a la última gota de sangre de la mejilla, y lo único que dice es basta. Deja de ser.
-
-El borde del sobretodo, a la altura de las rodillas, obedece primero. La tela se deshace en partículas violetas, chiquitas, que suben y se apagan como chispas de una fogata. Después los cordones de un borceguí. Después la punta de un mechón de pelo azul.
-
-Afuera, Goku grita tu nombre.
-
-La orden llega a tu piel, empuja, quiere entrar.
-
-Y no entra.
-
-El aura azul se te enciende de golpe, quieta, sin rugido, como siempre, pero ahora está densa, apretada contra el cuerpo, y la línea violeta del Hakai se queda pegada a ella sin poder pasar, como una mano apoyada en un vidrio. Empuja. La orden empuja con todo el peso de un dios que destruyó planetas por aburrimiento.
-
-Tú empujas al revés.
-
-La línea violeta tiembla. Se le aparece una grieta, a la altura de tu pecho, justo donde apuntaba la palma. Después otra en el hombro. Otra en la rodilla. Se llena de grietas blancas, como la barrera de Whis.
-
-Y se rompe.
-
-Hace el mismo ruido mínimo que hizo tu Eclipse al cerrarse: una gota cayendo en un vaso. Los pedazos de luz violeta caen alrededor tuyo, se apagan antes de tocar el suelo, y no queda nada.
-
-Sigues ahí. Con el sobretodo comido hasta las rodillas, un borceguí desatado, un mechón más corto que los demás y la respiración un poco más pesada que antes. Pero entero. Siendo.
-
-[Misión de copia cumplida.]
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Destrucción (Hakai) y poder de un Dios de la ║
-║ Destrucción                                  ║
-║ USUARIO: Bills · Dragon Ball                 ║
-║                                              ║
-║ MISIÓN: Recibir un Hakai de Bills de frente, ║
-║ en serio, y seguir existiendo. CUMPLIDA      ║
-║ DIFICULTAD: EXTREMA                          ║
-║                                              ║
-║ RECIBIDO: Hakai · energía de destrucción ·   ║
-║ esferas de destrucción · ki divino · el      ║
-║ estilo de pelea de Bills · dominio total     ║
-╚══════════════════════════════════════════════╝
-```
-
-[Has obtenido 40.000 EXP.]
-
-Del otro lado de la explanada, Bills todavía tiene la mano estirada.
-
-Está quieto, la boca un poco abierta, mirando el lugar donde se rompió su Hakai. Las orejas no se le mueven. La cola tampoco. Por primera vez desde que lo conoces, no parece un gato. Parece un dios al que acaban de contradecir, y que no sabe todavía si eso lo enfurece o lo enamora.
-
-Afuera, nadie habla. Goku tiene las dos manos aplastadas contra la barrera. Vegeta se bajó de la roca sin darse cuenta. Whis ya no tiene la taza: la dejó caer, y el té se le está derramando en el pasto, y no lo mira.
-
-En el apoyabrazos, Kase se vuelve a sentar. Se lame una pata, una vez, como si no hubiera pasado nada.
-
-Bills baja la mano, muy despacio.
-
-—Whis —dice, sin mirarlo, con una voz que no le conocías—. Lo hice en serio.
-
-—Lo sé, Bills-sama. —La voz de Whis llega desde afuera, suave—. Lo vi.
-
-Bills te mira. Al sobretodo comido, al borceguí desatado, al mechón corto. A tus ojos.
-
-Y la sonrisa vuelve. No la de gato aburrido, ni la de gato curioso. Otra, enorme, temblorosa, casi la de un chico.
-
-—Mañana no me duermo —dice—. Ni pasado. Ni en cien años.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1582 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera muy agrietada) · tarde    ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 72% · Ojos: bien · mejilla abierta   ║
-║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
-║ Kase: sentado en el apoyabrazos de Whis      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills                    ║
-╚══════════════════════════════════════════════╝
-```
-
-[Has subido de nivel.] (Nivel 32: +1 a todos los stats, +5 puntos; 180 sin asignar. Corrección: la ventana mostrada decía NIVEL 31 · EXP 401.130/400.000; el número correcto es NIVEL 32 · EXP 401.130/440.000.)
-
----
-
-## COMANDO 2 (T1583)
+## COMANDO 1 (T1583)
 
 ustedes tienen padres? bills y whis
 
-## RESPUESTA 2 (T1583)
+## RESPUESTA 1 (T1583)
 
 > ustedes tienen padres? bills y whis
 
@@ -162,11 +63,11 @@ Después te mira de reojo, con los ojos entrecerrados.
 
 ---
 
-## COMANDO 3 (T1584)
+## COMANDO 2 (T1584)
 
 no tampoco, soy viajero
 
-## RESPUESTA 3 (T1584)
+## RESPUESTA 2 (T1584)
 
 > no tampoco, soy viajero
 
@@ -210,4 +111,64 @@ Bills se agacha apenas, con los dedos abiertos.
 
 ---
 
-ESTADO AL CIERRE: Bills, en guardia, aura violeta densa: "Segunda ronda, muchacho del bolsillo." Barrera rehecha. Facundo puede actuar.
+## COMANDO 3 (T1585)
+
+tienen razón, no soy el mismo viajero, soy de otro mundo, no de otro planeta
+
+## RESPUESTA 3 (T1585)
+
+> tienen razón, no soy el mismo viajero, soy de otro mundo, no de otro planeta
+
+> —Tienen razón, no soy el mismo tipo de viajero. Soy de otro mundo, no de otro planeta.
+
+Bills se endereza.
+
+El aura violeta se le queda quieta a medio subir. Las orejas se le van hacia adelante.
+
+—¿Otro mundo? —Ladea la cabeza—. ¿Qué, otro universo? ¿Eres del de Champa?
+
+Lo dice con desconfianza de golpe, con los ojos entrecerrados, como si acabara de descubrir que el pudín lo traía su hermano.
+
+—No creo que sea del de Champa, Bills-sama. —Whis se lleva un dedo a la barbilla, pensativo, del otro lado de la barrera—. Champa-sama no tiene a nadie así. Y si lo tuviera, nos lo habría restregado en la cara hace mucho.
+
+—Eso es verdad. —Bills se relaja un poco—. Ese gordo no sabe guardarse nada.
+
+Whis te mira un momento más, con la cabeza inclinada, la misma mirada de cuando se comió tu esfera. Después sonríe y se encoge de hombros.
+
+—Bueno. Eso explicaría por qué no sé qué fue ese punto negro. —Junta las manos sobre el báculo—. Hay cosas que ni siquiera un ángel ha visto. Me alegra saber que todavía quedan.
+
+Afuera, Goku parpadea.
+
+—¿Otro mundo? —Se rasca la cabeza—. ¿Hay más mundos? ¿Hay gente fuerte ahí?
+
+Vegeta lo mira de costado, con cara de "claro que lo primero que preguntas es eso", y no dice nada.
+
+Bills se queda pensando un segundo, con un dedo en la oreja. Después lo deja.
+
+—Me da igual de dónde seas. —Hace un gesto con la mano, como espantando una mosca—. Si de allá vienen el pudín y la carne con la cosa blanca, me cae bien tu mundo.
+
+Te señala.
+
+—Y cuando vuelvas para allá, traes comida de allá. Esa es la condición.
+
+El aura violeta le vuelve a subir, de golpe esta vez, densa, fría.
+
+—Pero primero, la segunda ronda.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1585 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera rehecha) · tarde          ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.239 · 0 zeni                  ║
+║ Energía 72% · Ojos: bien · mejilla abierta   ║
+║ SUPER SAIYAJIN BLUE · Velo: ki muy bajo      ║
+║ Kase: en el apoyabrazos de Whis              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Facundo contó que es de otro mundo. Bills: "Cuando vuelvas, traes comida de allá. Pero primero, la segunda ronda." Aura violeta densa. Facundo puede actuar.

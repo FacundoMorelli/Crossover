@@ -58,3 +58,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1582 · Ve a Facundo romper un Hakai en serio de Bills; deja caer la taza de té y no la mira: "Lo sé, Bills-sama. Lo vi."
 - T1583 · Le cuenta a Facundo que su padre es el Gran Sacerdote (sirve al Rey de Todo; estricto; no le gusta que sus hijos coman tanto postre) y que tiene muchos hermanos ángeles, uno por universo: "Eso es asunto de ángeles." DIÁLOGO CLAVE.
 - T1584 · "No creo que sea parecido, Bills-sama." Rehace la barrera, más gruesa y alta. Sabe (por Facundo, T1584) que dice ser viajero sin padres.
+- T1585 · Por Facundo: es de otro mundo. "Champa-sama no tiene a nadie así." "Eso explicaría por qué no sé qué fue ese punto negro. Hay cosas que ni siquiera un ángel ha visto. Me alegra saber que todavía quedan." Le cree.
