@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1644)
-
-no hay que tener miedo, no creo que haga nada aunque cortes un poco mal la torta
-
-## RESPUESTA 1 (T1644)
-
-> no hay que tener miedo, no creo que haga nada aunque cortes un poco mal la torta
-
-> —No hay que tener miedo. No creo que haga nada, aunque cortes un poco mal la torta.
-
-—Sí haría algo —dice Bills, con la boca llena, sin abrir los ojos.
-
-Erasa se pone pálida.
-
-Whis, a su lado, se ríe detrás de la servilleta.
-
-—Bills-sama está bromeando, señorita.
-
-—No estoy bromeando.
-
-—Está bromeando —repite Whis, con la misma sonrisa.
-
-Erasa mira a Bills. Mira a Whis. Te mira a ti. Y de repente se ríe, una risa corta, nerviosa, que le sale por la nariz y que trata de tapar con la mano libre. Se le escapa igual. Es contagiosa: Goten se ríe sin saber de qué, después Trunks, después Goku, con la boca llena de arroz.
-
-Bills abre un ojo y los mira a todos, ofendido. Después vuelve a la torta.
-
-Erasa suelta el cuchillo, por fin, y con él tu mano. Pero lo hace despacio, como quien suelta algo que le gustaría seguir agarrando.
-
-—Bueno —dice, todavía riéndose, acomodándose el vestido—. Ahora corto yo sola. A ver si aprendí.
-
-—¡Para mí! —Goku levanta el plato—. ¡El que sigue para mí!
-
-—¡No, para mí! —Goten.
-
-—¡Yo llegué primero a la mesa! —Trunks.
-
-Erasa corta. Le sale bien. No perfecto, pero bien. Un pedazo para Goku, que lo devora en dos bocados. Uno para Goten, uno para Trunks, uno para Videl, uno para Gohan. Bulma, Milk. Vegeta, que no dice nada pero levanta el plato. Whis, que hace una reverencia. Cada pedazo le sale un poco más derecho que el anterior, y cada vez se muerde el labio de concentración.
-
-El último lo corta más despacio que todos. Le pone más virutas encima, con los dedos, una por una. Lo pone en un plato limpio.
-
-Te lo da a ti.
-
-—Este te lo corté yo sola. Sin ayuda. —Se sienta a tu lado, otra vez con las mejillas rojas, y apoya la barbilla en las manos, mirándote—. Pruébalo. Y dime la verdad. ¿Te gusta?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1644 · DRAGON BALL · CAPITAL DEL OESTE ║
-║ Jardín de la Corporación Cápsula · 20:55     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.839 · 97.000 zeni             ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: echado sobre el ratón de juguete       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Cena con Erasa                     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1645)
+## COMANDO 1 (T1645)
 
 lo pruebo y le digo que esta muy rico
 
-## RESPUESTA 2 (T1645)
+## RESPUESTA 1 (T1645)
 
 > lo pruebo y le digo que esta muy rico
 
@@ -117,11 +57,11 @@ Erasa te mira, con el teléfono en la mano y los ojos muy abiertos, esperando.
 
 ---
 
-## COMANDO 3 (T1646)
+## COMANDO 2 (T1646)
 
 si, yo la acompaño
 
-## RESPUESTA 3 (T1646)
+## RESPUESTA 2 (T1646)
 
 > si, yo la acompaño
 
@@ -173,4 +113,52 @@ Mira la cápsula en tu mano. Después te mira a ti, con los ojos celestes muy ab
 
 ---
 
-ESTADO AL CIERRE: 22:40, portón de la Corporación Cápsula. Facundo aceptó acompañar a Erasa. Bulma le dio la cápsula 7 (aerodeslizador descapotable, devolver mañana). Erasa pregunta: "¿Tú sabes manejar esas cosas?" Facundo puede responder.
+## COMANDO 3 (T1647)
+
+si, se bien, subo al aerodeslizador
+
+## RESPUESTA 3 (T1647)
+
+> si, se bien, subo al aerodeslizador
+
+> —Sí, sé bien.
+
+Aprietas el botón de la cápsula y la tiras a la calle.
+
+Revienta en una nube blanca con un "¡pop!" seco. Cuando el humo se abre, el aerodeslizador está ahí, flotando a un palmo del asfalto: rojo, bajo, de dos asientos, sin techo, con el logo de la Corporación Cápsula en la puerta y el tablero lleno de lucecitas azules.
+
+Erasa da un saltito para atrás.
+
+—Siempre me asusta eso. Toda la vida viví en esta ciudad y me sigue asustando.
+
+Te subes del lado del conductor. Kase baja de tu hombro, pasa por encima de la palanca y se instala en el hueco de atrás de los asientos, enroscado, con la cola tapándole la nariz.
+
+Erasa rodea el aerodeslizador, abre la puerta del acompañante y se sienta con cuidado, acomodándose el vestido. Se pone la torta envuelta sobre las rodillas, como si fuera un bebé. Te mira de costado, después mira cómo pones las manos en el volante, y algo en su cara se relaja.
+
+—Bueno. Sí sabes. Se nota.
+
+Se pone el cinturón. Le cuesta: lo tira, se traba, lo vuelve a tirar. Al final hace clic.
+
+—Calle de los Tilos, catorce. Del otro lado del parque central, una casa blanca con un buzón con forma de pato. Mi papá lo compró en un aeropuerto. —Hace una mueca—. Obviamente.
+
+Una ráfaga de viento baja desde la colina y le levanta los rulos. Ella se encoge en el asiento y se frota los brazos desnudos. Le castañetean un poco los dientes, aunque trata de que no se note.
+
+—Esto no tiene techo, ¿no? —Se ríe, temblando—. Claro que no tiene. Es de Bulma.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1647 · DRAGON BALL · CAPITAL DEL OESTE ║
+║ Portón de la Corporación Cápsula · 22:43     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.839 · 97.000 zeni             ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: detrás de los asientos                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Acompañar a Erasa a su casa        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: 22:43, aerodeslizador rojo descapotable de Bulma (cápsula 7) frente al portón. Facundo al volante, Erasa de acompañante con la torta en las rodillas, cinturón puesto, temblando de frío. Dirección: Calle de los Tilos 14, del otro lado del parque central, casa blanca con buzón de pato. Kase detrás de los asientos. Erasa: "Esto no tiene techo, ¿no? Claro que no tiene. Es de Bulma."
