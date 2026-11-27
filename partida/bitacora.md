@@ -1639,3 +1639,4 @@ T1637 · DRAGON BALL · Corporación Cápsula · Le dice a Erasa que es linda. E
 T1638 · DRAGON BALL · Corporación Cápsula · "Soy un viajero." Erasa: "Lo más romántico que escuché en mi vida." Nunca salió de la Capital del Oeste. "¿Cuál es el lugar más lindo que conociste?"
 T1639 · DRAGON BALL · Corporación Cápsula · Le cuenta a Erasa de un lugar de islas y barcos. Erasa sueña; Whis: "Algunos son de madera." Le roza el tobillo sin querer. "Sigue. Cuéntame."
 T1640 · DRAGON BALL · Corporación Cápsula · Le roza el pie a Erasa (ella no lo corre). Le cuenta de montañas con hielo, desiertos, una isla mitad hielo y mitad volcán. Erasa: "Te creo." "¿Te vas a ir de acá?"
+T1641 · DRAGON BALL · Corporación Cápsula · "Por ahora no voy a parar de viajar, pero siempre vuelvo." Erasa: "No te voy a pedir que te quedes." "¿Me vas a venir a ver a mí también?"

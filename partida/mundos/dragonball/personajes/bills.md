@@ -87,3 +87,4 @@ PODER VISTO POR FACUNDO (actualizado): Hakai (T1555). QUÉ PODERES DE FACUNDO VI
 - T1637 · Empieza a comer antes de que Milk termine la frase (pescado entero); ojos cerrados tras cada bocado, cola enroscada.
 - T1638 · Mira a Facundo y a Erasa cuando él dice que es viajero; no dice nada.
 - T1640 · Tercer pescado; chupa la espina con los ojos cerrados.
+- T1641 · Termina la última fuente de pescado; mira la torta de chocolate con intensidad peligrosa.
