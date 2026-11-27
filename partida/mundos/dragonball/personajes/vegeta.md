@@ -177,3 +177,4 @@ RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1628 · "Ya van a ver" (sin mirar a nadie, media sonrisa); aprueba con la mirada que Facundo guarde el secreto de la técnica.
 - T1629 · "El gato es el único con sentido común acá." "Es un comentario." Sube al primer carrito con Trunks, gorra calada.
 - T1630 · En la montaña rusa con Trunks, Goten y Facundo: "Esto no me sostendría ni un segundo" (la barra). No grita; brazos cruzados, cara de piedra. En el segundo loop le pone la mano en la cabeza a Trunks sin darse cuenta, hasta que frena. Foto automática: seriísimo con la camiseta BAD MAN; se pone rojo cuando Trunks la quiere.
+- T1631 · Intenta quitarle la foto a Trunks; se frena por la gente: "Ya hablaremos en la cámara de gravedad." A Facundo: "Tú. Me debes una."

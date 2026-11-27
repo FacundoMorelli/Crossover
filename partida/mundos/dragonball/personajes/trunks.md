@@ -20,3 +20,4 @@ ESTADO: activo
 - T1627 · Por Facundo, le va a enseñar una técnica: "¿A mí? ¿A mí también? ¡¿En serio?!" A Goten: "¡Ja! ¡Ahora no eres el único!" "¡Gotenks! ¡Sí!" "¡Dime al menos qué técnica es! ¿Es fuerte? ¿Es un ataque? ¿Es más fuerte que la de Goten?"
 - T1628 · "¡Aaah! ¡Eso es trampa!" "Mi papá no dice eso."
 - T1630 · Montaña rusa en el primer carrito con Vegeta; grito agudo en el segundo loop (Vegeta le protege la cabeza). "¡Otra vez!" Ve la foto: "¡Papá, mira! ¡Saliste re serio!" A Facundo: "¿Me la compras? ¡Es para mostrársela a mamá!"
+- T1631 · Recibe de Facundo la foto impresa de la montaña rusa: "¡Mamá se va a morir de risa! ¡La voy a poner en la heladera!" Huye de Vegeta con la foto: "¡Es mía! ¡Me la compró Facundo!"

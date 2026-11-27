@@ -1,5 +1,5 @@
 {
-  "turno": 1630,
+  "turno": 1631,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, sábado, tarde (Tierra)",
@@ -7,7 +7,7 @@
   "nivel": 33,
   "exp": 441130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 288849,
+  "fragmentos": 288839,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -21,7 +21,7 @@
     },
     "dragonball": {
       "moneda": "zeni",
-      "cantidad": 0,
+      "cantidad": 98500,
       "cambio": "1 Fragmento = 10.000 zeni"
     },
     "onepiece": {
