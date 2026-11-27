@@ -122,3 +122,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1585 · Oye que Facundo es de otro mundo: "¿Hay más mundos? ¿Hay gente fuerte ahí?"
 - T1587 · Ve a Facundo en Ultra Instinto Dominado; callado de verdad por primera vez en el día, manos en la barrera. Oyó a Whis nombrarlo.
 - T1589 · Babea pegado a la barrera: "¡Eso es una hamburguesa! ¡Vegeta, es una hamburguesa doble!"
+- T1590 · "¡Y para mí! ¡Facundo, para mí también! ¡Por favor! ¡Yo no comí nada desde el puré!"

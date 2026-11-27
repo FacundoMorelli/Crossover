@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1587)
-
-esta bien, activo el ultra instinto dominado
-
-## RESPUESTA 1 (T1587)
-
-> esta bien, activo el ultra instinto dominado
-
-> —Está bien.
-
-Bajas los brazos.
-
-El aura azul se apaga de golpe, como una vela que alguien sopla. El pelo azul se te viene abajo, suelto, y por un segundo te quedas ahí, en el medio de la explanada, sin transformación, sin brillo, con el sobretodo comido y la camisa abierta. Como un muchacho cualquiera.
-
-Bills frunce el ceño.
-
-Entonces el pelo se te vuelve plateado.
-
-No sube: flota, liviano, como si de golpe no pesara nada. Los ojos también se te vuelven plata, fríos y quietos, sin pupila que se mueva hacia ningún lado. Alrededor de tu cuerpo aparece un aura que no es fuego ni luz: es como el aire caliente encima de una ruta en verano, transparente, temblando, con chispas blancas y plateadas que suben despacio y se apagan.
-
-Ya no te late el corazón rápido. Ya no piensas en dónde poner los pies. No piensas en nada.
-
-El suelo de la explanada se queda en silencio. Las venas de luz debajo de ti dejan de parpadear y se quedan quietas, encendidas parejo.
-
-Afuera, Whis se pone de pie de un salto. Es la primera vez que lo ves moverse rápido.
-
-—Oh. —Se lleva una mano a la boca—. Oh, oh, oh.
-
-—Whis. —Bills no te saca los ojos de encima. Ya no sonríe—. ¿Eso es lo que creo que es?
-
-—El Ultra Instinto, Bills-sama. —La voz de Whis suena más baja que nunca—. Y no la señal. Dominado. El cuerpo se mueve solo, sin que la mente lo ordene. Ataca y esquiva por su cuenta.
-
-Hace una pausa.
-
-—Usted mismo todavía no lo domina, Bills-sama.
-
-—Ya sé. No hace falta que lo digas en voz alta.
-
-Goku tiene las dos manos en la barrera y la boca abierta. No grita. Por primera vez en todo el día está callado de verdad.
-
-Vegeta te mira. Y después mira a Goku. Y después al suelo. No aprieta los puños. Los tiene abiertos, colgando, como si se le hubiera ido toda la fuerza de los brazos.
-
-En el apoyabrazos, Kase se queda mirándote, con las pupilas finísimas, sin parpadear.
-
-Bills ataca.
-
-No avisa, no grita y no se ríe. Viene con todo: el puño con destrucción a la cara, la cola a las piernas, el codo detrás. Tres golpes al mismo tiempo, cada uno para borrar.
-
-Tu cuerpo se corre.
-
-No lo decides tú. El cuerpo se inclina dos dedos a la izquierda y el puño violeta pasa rozándote el pelo plateado. El pie se levanta solo, lo justo, y la cola pasa por debajo. El codo te llega a la espalda y no te encuentra, porque ya no estás ahí: estás del otro lado, a la derecha de Bills, y tu mano abierta, sola, sin que la mandes, ya le está entrando en las costillas.
-
-Suena seco, como una puerta que se cierra fuerte.
-
-Bills sale despedido de costado, rebota dos veces en el suelo y se queda arrodillado a treinta pasos, con una mano en el costado y la otra apoyada en la tierra. Tose una vez. Respira por la boca.
-
-Levanta la cabeza despacio.
-
-No hay sonrisa ni enojo en su cara. Solo una cosa que no le habías visto nunca: está asombrado.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1587 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada (barrera rehecha) · tarde          ║
-║ NIVEL 32 · EXP 401.130/440.000               ║
-║ FRAGMENTOS 239.239 · 0 zeni                  ║
-║ Energía 58% · Ojos: bien · mejilla abierta · ║
-║ corte fino en las costillas                  ║
-║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
-║ Kase: en el apoyabrazos de Whis              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Pelea con Bills (segunda ronda)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1588)
+## COMANDO 1 (T1588)
 
 asi esta bien señor bills?
 
-## RESPUESTA 2 (T1588)
+## RESPUESTA 1 (T1588)
 
 > asi esta bien señor bills?
 
@@ -149,11 +72,11 @@ Bills cierra los ojos. Suspira largo, por la nariz. Cuando los abre, ya no te mi
 
 ---
 
-## COMANDO 3 (T1589)
+## COMANDO 2 (T1589)
 
 le doy comida nueva a bills rico
 
-## RESPUESTA 3 (T1589)
+## RESPUESTA 2 (T1589)
 
 > le doy comida nueva a bills rico
 
@@ -226,4 +149,71 @@ Lo baja. Te mira. Tiene queso en la barbilla y una mancha de chocolate en el lab
 
 ---
 
-ESTADO AL CIERRE: Bills se comió la hamburguesa doble, las papas y la malteada. "¿Cómo se llama esto?" Whis y Goku quieren. Facundo puede contestar.
+## COMANDO 3 (T1590)
+
+hamburguesa doble con queso y malteada de chocolate
+
+## RESPUESTA 3 (T1590)
+
+> hamburguesa doble con queso y malteada de chocolate
+
+> —Hamburguesa doble con queso, y malteada de chocolate.
+
+—Hamburguesa doble con queso —repite Bills, despacio, como quien aprende una palabra sagrada—. Y malteada de chocolate.
+
+Se queda callado, mirando la bandeja vacía. Le da vueltas al vaso con un dedo.
+
+—Whis.
+
+—¿Sí, Bills-sama?
+
+—Anota eso.
+
+—Ya lo anoté, Bills-sama. —Whis tiene una libretita en la mano, salida de quién sabe dónde, y escribe con una letra prolija—. Hamburguesa doble con queso. Malteada de chocolate. Las papas, ¿también?
+
+—Las papas también. Sobre todo las papas.
+
+Bills se pone de pie, se sacude las migas del pantalón roto y se limpia el queso de la barbilla con el dorso de la mano. La cola sigue moviéndose sola, contenta, aunque él trate de poner cara seria.
+
+Te mira. Al pelo plateado, al aire que tiembla alrededor tuyo. Y después, sin disimular nada, al bolsillo.
+
+—Bueno. —Se cruza de brazos—. Decidí algo.
+
+Levanta un dedo.
+
+—La pelea sigue. No terminó, que quede claro. Yo no dije que terminó. —Mira a Whis de reojo, desafiante, y Whis asiente muy serio—. Pero sigue mañana. Hoy ya no.
+
+Levanta otro dedo, y otro, y otro, hasta tener las dos manos abiertas.
+
+—Hoy quiero diez de esas.
+
+Afuera, Goku golpea la barrera con las dos palmas.
+
+—¡Y para mí! ¡Facundo, para mí también! ¡Por favor! ¡Yo no comí nada desde el puré!
+
+—Kakaroto, compórtate —gruñe Vegeta. Pero no deja de mirar el bolsillo.
+
+Whis se aclara la garganta, con la libretita apretada contra el pecho y la sonrisa más educada del universo.
+
+—Facundo-san. Si fuera tan amable. Una sola, aunque sea. Para un ángel que lleva toda la tarde cuidándole el gato.
+
+Kase, sentado junto a la barrera, te mira a ti. Después a las papas que no están. Y después otra vez a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1590 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Explanada (barrera rehecha) · tarde          ║
+║ NIVEL 32 · EXP 401.130/440.000               ║
+║ FRAGMENTOS 239.237 · 0 zeni                  ║
+║ Energía 58% · Ojos: bien · mejilla abierta · ║
+║ corte fino en las costillas                  ║
+║ ULTRA INSTINTO DOMINADO · Velo: ki muy bajo  ║
+║ Kase: junto a la barrera, mirándote          ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Pelea con Bills sigue mañana       ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Bills: la pelea sigue mañana; "Hoy quiero diez de esas." Goku, Whis (y Vegeta, callado) también quieren hamburguesas. Facundo puede actuar.

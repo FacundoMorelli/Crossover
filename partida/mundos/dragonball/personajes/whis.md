@@ -62,3 +62,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1587 · Se pone de pie de un salto al ver a Facundo en Ultra Instinto: "Oh. Oh, oh, oh." "El Ultra Instinto, Bills-sama. Y no la señal. Dominado. El cuerpo se mueve solo... Usted mismo todavía no lo domina, Bills-sama." VIO: Ultra Instinto Dominado.
 - T1588 · Se ríe abiertamente de la panza de Bills. "No dije nada, Bills-sama."
 - T1589 · Pide a Bills un bocado de la hamburguesa ("Solo un bocado. Para probar."); Bills le dice que no.
+- T1590 · Anota en una libretita: hamburguesa doble con queso, malteada de chocolate, papas. A Facundo: "Una sola, aunque sea. Para un ángel que lleva toda la tarde cuidándole el gato."

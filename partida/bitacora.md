@@ -1588,3 +1588,4 @@ T1586 · DRAGON BALL · Planeta de Bills · Segunda ronda: Bills en serio, puño
 T1587 · DRAGON BALL · Planeta de Bills · Ultra Instinto Dominado. Whis lo nombra ("Usted mismo todavía no lo domina"). El cuerpo esquiva solo el triple ataque de Bills y le entra en las costillas: Bills arrodillado, asombrado.
 T1588 · DRAGON BALL · Planeta de Bills · "¿Así está bien?" Bills: "Así está muy bien... Mejor de lo que esperé de nadie en mucho tiempo." Le suena la panza. "Pelear da hambre. ¿Qué tienes ahí?"
 T1589 · DRAGON BALL · Planeta de Bills · Hamburguesa doble con papas y malteada de chocolate para Bills (2 F). "Oh, no, no, no." No le da a Whis. "¿Cómo se llama esto?"
+T1590 · DRAGON BALL · Planeta de Bills · Nombre de la comida; Whis lo anota. Bills: la pelea sigue mañana. "Hoy quiero diez de esas." Goku, Whis y Vegeta también quieren.
