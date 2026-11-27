@@ -5,13 +5,14 @@
 - AUTORES: Akira Toriyama (historia y diseños; murió en marzo de 2024) y Toyotarou (dibujo; guion desde las sagas originales del manga).
 - PUBLICACIÓN: V-Jump (Shūeisha), desde el 20/06/2015. 24 volúmenes (vol. 24: 04/04/2025).
 - ESTADO: EN PAUSA INDEFINIDA. Último capítulo regular: 103 (V-Jump, 20/03/2024). Cap. 104 ("El nacimiento de Saiyaman X") salió como capítulo especial autoconclusivo a comienzos de 2025. A noviembre de 2026 no hay capítulo 105 ni fecha oficial de regreso.
-- DEJADO AFUERA: anime de Dragon Ball Super (2015–2018; trama distinta en varias sagas), películas (Broly, Super Hero) salvo lo que el manga adapta, Dragon Ball GT, Dragon Ball Daima, Super Dragon Ball Heroes, novelas, juegos, el remake anime "Dragon Ball Super: Beerus" (otoño 2026) y el manga corto de Toyotarou para un libro de figuras (octubre 2026; ver Dudas).
-- NOTA: el manga no adapta "La Resurrección de F" de forma completa (Freezer aparece ya revivido en el Torneo del Poder; ver Dudas en el arco 1). La película "Broly" no se adapta, pero Broly aparece en el manga (cap. 102–103) y se toma como dato del manga.
+- DEJADO AFUERA: anime de Dragon Ball Super (2015–2018; trama distinta en varias sagas) salvo el arco de la Resurrección de Freezer, películas (Broly, Super Hero) salvo lo que el manga adapta, Dragon Ball GT, Dragon Ball Daima, Super Dragon Ball Heroes, novelas, juegos, el remake anime "Dragon Ball Super: Beerus" (otoño 2026) y el manga corto de Toyotarou para un libro de figuras (octubre 2026; ver Dudas).
+- NOTA: el manga no adapta "La Resurrección de F". Por pedido expreso, ese arco se toma del ANIME (ep. 18–27) como única excepción: archivo `01b_resurreccion_de_freezer.md`. Todo lo demás es solo manga. La película "Broly" no se adapta, pero Broly aparece en el manga (cap. 102–103) y se toma como dato del manga.
 
 ## Arcos
 | # | Arco | Capítulos | Resumen | Archivo |
 |---|------|-----------|---------|---------|
 | 1 | Dios de la Destrucción Beerus | 1–4 | Beerus busca al Super Saiyajin Dios; Goku lo alcanza; entrenan con Whis (Blue). | `01_beerus.md` |
+| 1b | La Resurrección de Freezer (ANIME, excepción) | ep. 18–27 del anime | Sorbet revive a Freezer; Golden Freezer; Whis retrocede el tiempo; Goku mata a Freezer. | `01b_resurreccion_de_freezer.md` |
 | 2 | Torneo del Universo 6 | 5–13 | Champa vs Beerus; Frost, Magetta, Cabba, Hit; Zeno-sama aparece. | `02_torneo_universo_6.md` |
 | 3 | Goku Black / Trunks del Futuro | 14–26 | Zamasu y Black; Rosé; Zamasu fusionado; Zeno del futuro borra el universo. | `03_goku_black.md` |
 | 4 | Torneo del Poder | 27–42 | 8 universos en juego; Jiren; Ultra Instinto; gana el Universo 7. | `04_torneo_del_poder.md` |

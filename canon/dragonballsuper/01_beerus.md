@@ -52,6 +52,6 @@ QUÉ CAMBIA DESPUÉS:
 - Beerus y Whis visitan la Tierra por la comida.
 
 DUDAS O CONTRADICCIONES ENTRE FUENTES:
-- La "Resurrección de F" (Freezer revivido, SSJ Blue mostrado contra Freezer Dorado) no se adapta en el manga; en el manga Freezer aparece revivido a partir del Torneo del Poder por otra vía (ver arco 4). Lo que pasó con Freezer entre Z y Super en el manga no está detallado.
+- La "Resurrección de F" no se adapta en el manga; se toma del anime como excepción en `01b_resurreccion_de_freezer.md`.
 - Años de sueño de Beerus: dato de la película; el manga no lo cuantifica de forma clara.
 - Final exacto de la pelea con Beerus: Wikipedia dice "termina sin decidirse".
