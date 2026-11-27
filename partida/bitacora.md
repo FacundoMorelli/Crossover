@@ -1702,3 +1702,4 @@ T1700 · CHAINSAW MAN · refugio, 6.º piso · "Soy viajero." Aki da solo "Facun
 T1701 · CHAINSAW MAN · refugio, 604 · "Puedo dormir en el piso con ellos." Todos en la 604. Aki, bajo: "Tú también lo notaste. Power con la nariz no se equivoca nunca."
 T1702 · CHAINSAW MAN · refugio, 604 · "Sí, lo noté." Aki propone guardia por turnos. Kurose golpea con mantas, sándwiches y té.
 T1703 · CHAINSAW MAN · refugio, 604 · Siente con el ki: los guardias llevan pieles robadas, arma bajo la bandeja, un tercero en el 5.º, los reales muertos bajo el mostrador. Denji va a abrir. "El té se enfría."
+T1704 · CHAINSAW MAN · refugio, 6.º piso · Teletransportación: deja inconscientes a los tres impostores (+15 Frag). Aki: "Desapareciste." Ve la costura de la piel. Power: "¡Power te lo dijo!"

@@ -1,13 +1,13 @@
 {
-  "turno": 1703,
+  "turno": 1704,
   "mundo_actual": "chainsawman",
   "fecha_local": "Chainsaw Man: Día 1, fines de octubre de 1997",
-  "hora": "20:52 (Tokio)",
+  "hora": "20:53 (Tokio)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 288888,
+  "fragmentos": 288903,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -712,6 +712,11 @@
       "objeto": "Chicle aplastado (de Denji)",
       "cantidad": 1,
       "detalle": "T1697, a cambio de una semilla. \"No está masticado. Bueno, casi no.\""
+    },
+    {
+      "objeto": "Escopeta de caño largo (del asesino del 5.º piso)",
+      "cantidad": 1,
+      "detalle": "T1704, Chainsaw Man."
     }
   ],
   "copias": [
@@ -2353,6 +2358,12 @@
       "quien": "46 muñecos de Santa Claus (civiles) en la avenida frente a Mitsukoshi",
       "como": "desmayados sin lastimarlos (T1687)",
       "fragmentos": 46
+    },
+    {
+      "mundo": "chainsawman",
+      "quien": "3 asesinos americanos con pieles robadas (Demonio Piel): \"Kurose\", \"Tendo\" y el del 5.º piso",
+      "como": "inconscientes, sin daño (T1704)",
+      "fragmentos": 15
     }
   ],
   "viaje": {

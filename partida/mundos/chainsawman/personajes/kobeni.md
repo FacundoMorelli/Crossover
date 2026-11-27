@@ -17,3 +17,4 @@ ENCUENTROS:
 - T1696 · Sube al piso 7. "¡Denji! ¡Estás vivo!" A Facundo: "¿Q... quién es él? ¿Es un asesino? ¡Aki, es un asesino, ¿no?! ¡Tiene cara de asesino! ¡Tiene un gato de asesino!" Tasación: reflejos y agilidad excepcionales; amenaza baja.
 - T1697 · Lo mira como a "un oso que de pronto se puso a repartir caramelos". Va al refugio.
 - T1701 · "¿Yo también puedo dormir en el piso? ¿En la de ellos? No quiero dormir sola. No esta noche. Por favor." Se sienta en un rincón de la 604 mirando la puerta.
+- T1704 · VIO a Facundo desaparecer; temblando con el cuchillo en las dos manos.

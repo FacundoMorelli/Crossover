@@ -20,3 +20,4 @@ ENCUENTROS:
 - T1698 · "¡Que no! ¡Te dijo que no! ¡Un gato te dijo que no!" (a Power).
 - T1701 · "¡Una pijamada! ¡Nunca hice una pijamada! ¡Facundo, ven! ¡Trae al gato!" Prende la tele.
 - T1702 · Contesta "¡Australia!" a la capital de Australia. Salta al oír "sándwiches".
+- T1704 · VIO a Facundo desaparecer. "¿Los sándwiches se pueden comer igual?"

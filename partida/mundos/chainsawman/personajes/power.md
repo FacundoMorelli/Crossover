@@ -22,3 +22,4 @@ ENCUENTROS:
 - T1698 · Negocia con Kase ("Yo soy Power. La Gran Power... la mitad de su almohada"); Kase le da la nuca. "¡Eso no es un no! ¡Es un 'lo voy a pensar'!" Ofendida, de espaldas a Kase en el auto.
 - T1699 · Olfatea a "Kurose": "Este huele raro." "Huele como... Raro. Como cuando algo está puesto encima de otra cosa." "¡Power huele a quien quiere!"
 - T1701 · "¡Kase duerme con Power! Está decidido. El humano puede dormir en el piso, pero Kase va en la cama de Power." Se apropia de la cama del medio y de las almohadas.
+- T1704 · VIO a Facundo desaparecer. "¡Power te lo dijo! ¡Power lo dijo! ¡Olía raro! ¡Power siempre tiene razón!"

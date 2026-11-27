@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1701)
-
-no, esta bien, no necesito una cama, puedo dormir en el piso con ellos
-
-## RESPUESTA 1 (T1701)
-
-> no, esta bien, no necesito una cama, puedo dormir en el piso con ellos
-
-> —No, está bien. No necesito una cama. Puedo dormir en el piso con ellos.
-
-La mano de Kurose se queda en el aire, con la llave del llavero verde colgando.
-
-—En el piso. —La sonrisa no se mueve, pero se le estira un poquito en las comisuras, como si alguien tirara de ella—. No es necesario, señor Facundo, de verdad. La 612 es muy cómoda. Tiene ventana.
-
-—¡Una pijamada! —grita Denji desde adentro de la 604, ya tirado boca abajo en la cama del medio con los zapatos puestos—. ¡Nunca hice una pijamada! ¡Facundo, ven! ¡Trae al gato!
-
-Power aparece en la puerta en un segundo, con los brazos abiertos de par en par, tapando la entrada como si fuera suya.
-
-—¡Kase duerme con Power! —Lo dice a los gritos, mirando a Kase, no a ti—. Está decidido. Power lo decidió. El humano puede dormir en el piso, pero Kase va en la cama de Power.
-
-Kase ni la mira.
-
-Kobeni, frente a la 605, con la llave en la mano, mira la puerta de su habitación. Mira la 604. Mira el pasillo largo, oscuro, con la luz que parpadea. Mira la nuca de Tendo, que sigue de pie al lado de la escalera con las manos en los bolsillos.
-
-—Yo... —Traga saliva—. ¿Yo también puedo dormir en el piso? ¿En la de ellos? —Le tiembla la voz—. No quiero dormir sola. No esta noche. Por favor.
-
-Aki suspira, larguísimo. Se pasa una mano por la cara.
-
-—Está bien. Todos en la 604. Es más fácil cuidar una puerta que tres. —Mira a Kurose—. Así ustedes no tienen que vigilar todo el pasillo.
-
-Kurose baja la mano. Se guarda la llave verde en el bolsillo, despacio.
-
-—Como ustedes prefieran, Hayakawa-san. —Reverencia corta—. Les traeremos mantas extra.
-
-Se queda un segundo más mirándote. Después se da vuelta y camina hacia la escalera, donde Tendo lo espera sin moverse.
-
-Entran todos en la 604. Es una habitación de hotel barato: tres camas individuales con colchas de flores desteñidas, un televisor sobre una cómoda, una ventana con la cortina cerrada, un baño chiquito con la luz que zumba. Denji ya está prendiendo el televisor. Power ya está corriendo las almohadas de las tres camas hacia la suya. Kobeni se sienta en un rincón, en el piso, abrazada a sus rodillas, mirando la puerta.
-
-Aki cierra la puerta con llave. Pone la cadena. Se queda un momento con la mano en la manija, de espaldas a todos.
-
-Después se da vuelta, se te acerca, te habla muy bajo, mientras Denji sube el volumen de un programa de preguntas y Power grita que la cama del medio es suya.
-
-—Tú también lo notaste, ¿no? —No te mira: mira la puerta—. Lo del cuarto apartado. Y lo que dijo Power. —Una pausa—. Power miente todo el tiempo. Pero con la nariz no se equivoca nunca.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1701 · CHAINSAW MAN · DÍA 1 · 20:45    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, habitación 604               ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.888 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1702)
+## COMANDO 1 (T1702)
 
 si, lo note
 
-## RESPUESTA 2 (T1702)
+## RESPUESTA 1 (T1702)
 
 > si, lo note
 
@@ -117,11 +56,11 @@ Aki se queda quieto, con la mano a medio camino de la katana. Te mira a ti.
 
 ---
 
-## COMANDO 3 (T1703)
+## COMANDO 2 (T1703)
 
 uso el ki para sentirlos
 
-## RESPUESTA 3 (T1703)
+## RESPUESTA 2 (T1703)
 
 > uso el ki para sentirlos
 
@@ -166,4 +105,71 @@ Del otro lado, Kurose vuelve a golpear. Tres golpes, igual de suaves.
 
 ---
 
-ESTADO AL CIERRE: Día 1 20:52, habitación 604. Facundo sintió con el ki: "Kurose" y "Tendo" son hombres con otra piel encima (impostores, canon: hermanos americanos con el Demonio Piel); Kurose tiene algo metálico pegado con cinta bajo la bandeja; Tendo, pegado a la pared fuera de la mirilla. Intención: el corazón de Denji. Un TERCERO en el descanso del 5.º piso, con algo largo en las rodillas. En el lobby, bajo el mostrador, dos cadáveres sin piel (los Kurose y Tendo reales). Sintió también a Pochita dormido en Denji, la sangre de Power, la agilidad de Kobeni y el Futuro de Aki (que no lo encuentra). Denji va descalzo hacia la puerta por los sándwiches. Kurose golpea otra vez: "¿Hayakawa-san? El té se enfría."
+## COMANDO 3 (T1704)
+
+me teletransporto atras de ellos y los dejo inconscientes y despues al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
+
+## RESPUESTA 3 (T1704)
+
+> me teletransporto atrás de ellos y los dejo inconscientes y después al tercero, me acerco a la puerta y le digo a aki que ya puede abrir
+
+Dos dedos en la frente. La Teletransportación.
+
+Para Aki, para Kobeni, para Denji descalzo a mitad de camino, para Power en su fuerte de almohadas, estás ahí, con el gato en brazos, y de pronto no estás. Ni un ruido. Ni un movimiento de aire. El lugar donde estabas parado queda vacío.
+
+Del otro lado de la puerta, en el pasillo, apareces a la espalda de Kurose.
+
+Él todavía tiene los nudillos levantados para un cuarto golpe. Un toque seco en la nuca, justo donde va. Se le aflojan las rodillas. La bandeja se le cae de las manos: la atajas en el aire con la mano libre, con las tazas, la tetera, la pila de sándwiches y la pila de mantas, sin que se vuelque nada. Pegado con cinta en la parte de abajo hay un revólver corto, de caño recortado.
+
+Tendo alcanza a girar la cabeza. Nada más. Otro toque. Se desliza por la pared hasta quedar sentado en la alfombra bordó, con las piernas estiradas.
+
+Dejas la bandeja en el piso, junto a la puerta.
+
+Bajas la escalera en dos pasos. En el descanso del quinto, el tercero está sentado en un escalón, igual que lo sentiste: traje negro, cara de nadie, una escopeta de caño largo apoyada en las rodillas. Levanta la vista hacia ti justo cuando ya terminó. Lo atajas antes de que ruede escaleras abajo, le sacas la escopeta de las manos y la guardas en el inventario.
+
+Lo subes al hombro, del lado que no ocupa Kase, y vuelves al sexto. Lo dejas sentado al lado de Tendo, contra la pared. Los tres en fila, dormidos, con las cabezas caídas sobre el pecho.
+
+A la luz del pasillo se nota lo que el ki ya te había dicho. En la sien de Kurose, donde tocaste, la piel se arrugó un poco, como un papel mojado, y debajo, en el borde de la mandíbula, hay una costura finísima, casi invisible, donde la cara de alguien termina y empieza otra.
+
+Te paras frente a la 604. Del otro lado de la puerta se oye un silencio absoluto. La tele, con el programa de preguntas, y nada más.
+
+Le dices a Aki, a través de la puerta, que ya puede abrir.
+
+Un segundo. Dos.
+
+Se descorre la cadena. Gira la llave. La puerta se abre apenas, lo que da la cadena puesta, y aparece el ojo de Aki, el normal, y la punta de la katana. Ve el pasillo. Ve la bandeja en el piso. Ve a los tres sentados contra la pared, dormidos. Te ve a ti, con Kase en brazos.
+
+Cierra la puerta. Saca la cadena del todo. La abre entera.
+
+Detrás de él, en fila, todos: Kobeni con el cuchillo en las dos manos, temblando de pies a cabeza. Power, con una almohada levantada como un arma. Denji, descalzo, con la boca abierta de par en par.
+
+—Desapareciste —dice Aki. La voz le sale muy tranquila, demasiado—. Estabas acá. A un paso. Y desapareciste.
+
+Mira a los tres de la pared. Ve el revólver pegado con cinta debajo de la bandeja. Se agacha, despacio, y con la punta de la katana le levanta la barbilla a Kurose. A la luz del pasillo, ve la costura.
+
+Se queda quieto, agachado, mirándola.
+
+—¡Power te lo dijo! —grita Power desde la puerta, triunfal, señalando con la almohada—. ¡Power lo dijo! ¡Olía raro! ¡Power siempre tiene razón!
+
+Denji no mira a los asesinos. Mira la bandeja.
+
+—¿Los sándwiches se pueden comer igual?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1704 · CHAINSAW MAN · DÍA 1 · 20:53    ║
+║ Tokio, otoño de 1997                         ║
+║ Refugio: hotel, pasillo del 6.º piso         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus brazos                          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Refugio con la División 4          ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 20:53, pasillo del 6.º piso. Facundo desapareció de la 604 (Teletransportación, vista por Aki, Kobeni, Denji y Power), dejó inconscientes a "Kurose" y "Tendo" y al tercero del 5.º (escopeta al inventario); los tres sentados contra la pared. Bandeja intacta en el piso (revólver recortado pegado debajo). Costura de piel visible en la mandíbula de Kurose. Aki abrió: "Desapareciste. Estabas acá. A un paso." Levanta la barbilla de Kurose con la katana y ve la costura. Power: "¡Power te lo dijo!" Denji: "¿Los sándwiches se pueden comer igual?" (+15 Frag).
