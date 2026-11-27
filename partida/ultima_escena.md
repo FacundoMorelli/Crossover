@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1547)
-
-simula
-
-## RESPUESTA 1 (T1547)
-
-> simula
-
-Los cuarenta minutos se van en la cámara de gravedad.
-
-Vegeta pelea como pelea siempre: sin pedir nada, sin bajar la guardia, sin bajar la gravedad. Se transforma, se le apaga la transformación, se vuelve a transformar. Te tira todo lo que tiene. Galick Ho. Big Bang Attack. Otro Final Flash, más chico, que guardas igual que el primero. Golpes, cientos, que paras uno por uno. Cada vez que cae, se levanta. Cada vez que se levanta, viene un poco más rápido, un poco más preciso, un poco más cerca. Una vez, a los treinta minutos, te llega un golpe limpio a la mandíbula que te gira la cara. Vegeta se queda quieto, mirando su propio puño, y no dice nada. Pero ataca con otra cara el resto de la mañana.
-
-A las seis y cincuenta y dos se te terminan las llamas. Sueltas la Forma Cenit y el cansancio te cae encima de golpe, a los brazos, a las piernas, a la espalda.
-
-Vegeta lo ve. Te mira el pelo, que se te cae otra vez sobre los hombros. Sonríe, apenas, por primera vez en toda la mañana. Da un paso hacia ti, con el puño levantado.
-
-Y se desmaya. De cara. Contra el piso agrietado de la cámara, a quinientas gravedades.
-
-[Duelo con un compañero vencido: Vegeta.]
-
-[+25.000 Fragmentos.]
-
-[+6.000 EXP.]
-
-Bulma lo encuentra así diez minutos después, cuando entra con una bandeja de café, apaga la gravedad con un golpe en la consola y empieza a gritarle a un hombre inconsciente. Lo arrastran entre los dos hasta la enfermería de Capsule Corp, a una cápsula de regeneración llena de líquido verde. Vegeta flota adentro, dormido, con una máscara de oxígeno y el ceño fruncido incluso dormido.
-
-—Siempre igual —dice Bulma, mirándolo por el vidrio, con los brazos cruzados y una sonrisa chiquita—. Lo único que lo pone contento es que alguien le dé una paliza. Hombres.
-
-El resto del día pasa tranquilo. Trunks se levanta a las ocho y media, te persigue por los pasillos pidiendo la técnica de Goten, y Bulma lo manda a hacer la tarea. La madre de Bulma te da tres pasteles más. El laboratorio de Bulma queda cerrado todo el día, con un cartel en la puerta que dice NO MOLESTAR, LIBRO DE TITANES, y adentro se oyen computadoras, impresoras y, de vez en cuando, un grito de entusiasmo.
-
-A media tarde, Vegeta sale de la cápsula. Pasa a tu lado en el pasillo con la toalla al cuello. No dice nada. Pero al pasar te choca el hombro con el hombro, apenas. Y sigue.
-
-Al atardecer vuelas al Monte Paoz. Como le prometiste a Milk.
-
-Milk cocina como si viniera un ejército. Goku come como un ejército. Goten te cuenta, a los gritos y con la boca llena, que Trunks intentó la Bola Giratoria cuarenta veces y que todas le explotaron en la cara. Gohan y Videl vienen a cenar también, y Videl no come pescado porque le da asco, y Milk le dice que es normal, que a ella le pasaba lo mismo con Goten, y se ponen a hablar de bebés mientras Goku y Gohan se miran sin entender nada.
-
-Están por servir el postre cuando la luz de la cocina cambia.
-
-No se corta. Se pone fría, un poco más blanca, como en el crucero.
-
-En el medio de la cocina de los Son, entre la mesa y la estufa, con el báculo en la mano y la túnica granate, aparece Whis. Sonriendo. Mirando la mesa con los ojos brillantes.
-
-—Ay, buenas noches. Disculpen la interrupción. —Hace una reverencia muy educada a Milk—. Qué aroma tan delicioso. —Mira a Goku—. Goku-san. Bills-sama se quedó dormido otra vez, y yo tengo un poco de tiempo libre. Pensé que quizás le interesaría entrenar. En el planeta de Bills-sama. Conmigo.
-
-Goku se levanta de la silla tan rápido que la tira al suelo.
-
-—¡¿EN SERIO?!
-
-—En serio. Ya pasé a buscar a Vegeta-san. Está esperando afuera. Muy enojado, porque le dije que usted también venía.
-
-Desde afuera de la ventana se oye un "tch" muy claro.
-
-Milk abre la boca para gritar algo. Whis le extiende una mano, con una sonrisa de disculpa, y la deja muda con solo mirarla.
-
-Después Whis gira la cabeza y te mira a ti, al otro lado de la mesa, con Kase sentado en una silla a tu lado. Inclina la cabeza.
-
-—Ah, Facundo-san. Qué casualidad. —Sonríe un poco más—. Bills-sama, antes de dormirse, preguntó si usted vendría a visitar el planeta alguna vez. —Una pausa—. Con pudín, a ser posible. ¿Quiere venir con nosotros?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1547 · DRAGON BALL · DOMINGO · 20:30   ║
-║ Monte Paoz · cocina de los Son               ║
-║ NIVEL 30 · EXP 349.130/360.000               ║
-║ FRAGMENTOS 189.245 · 0 zeni                  ║
-║ Energía 70% · Ojos: bien                     ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en una silla, a tu lado                ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Whis invita a entrenar en el       ║
-║ planeta de Bills                             ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1548)
+## COMANDO 1 (T1548)
 
 esta bien
 
-## RESPUESTA 2 (T1548)
+## RESPUESTA 1 (T1548)
 
 > esta bien
 
@@ -155,11 +80,11 @@ Whis mira hacia adelante, tranquilo, con el báculo en la mano. Después gira un
 
 ---
 
-## COMANDO 3 (T1549)
+## COMANDO 2 (T1549)
 
 le doy un pudin
 
-## RESPUESTA 3 (T1549)
+## RESPUESTA 2 (T1549)
 
 > le doy un pudin
 
@@ -204,4 +129,73 @@ Pero tampoco le saca los ojos de encima al bolsillo de tu sobretodo.
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 20:50, burbuja de Whis. Whis comió un pudín; quedan 5. Goku pide uno; Vegeta mira el bolsillo. Facundo puede responder.
+## COMANDO 3 (T1550)
+
+les doy a los dos
+
+## RESPUESTA 3 (T1550)
+
+> les doy a los dos
+
+Sacas dos pudines más del bolsillo. Uno para cada lado de la espalda de Whis.
+
+Goku agarra el suyo como si fuera un tesoro. No usa la cuchara. Se lo vuelca entero en la boca, de un solo trago, con vasito y todo casi, y se queda quieto con los cachetes inflados y los ojos enormes.
+
+—¡Mmmmmm! —dice, con la boca llena—. ¡MMMMM!
+
+Traga.
+
+—¡Es lo más rico que comí en mi vida! —Se gira hacia ti—. ¡No le digas a Milk!
+
+Vegeta mira el pudín que le pusiste en la mano. Lo mira mucho rato, con el ceño fruncido, como si fuera una trampa.
+
+—Tch.
+
+Lo agarra. Agarra la cucharita. Y se lo come despacio, muy despacio, cucharada por cucharada, mirando hacia las estrellas, sin decir nada, sin cambiar la cara. Cuando termina, raspa el fondo del vasito con la cuchara. Dos veces. Lo deja vacío y lo guarda en un bolsillo del traje de entrenamiento, para no tirarlo al espacio.
+
+—No está mal —dice, sin mirarte.
+
+Whis sonríe, con los ojos cerrados.
+
+Afuera, las líneas de colores se van haciendo más lentas. Las estrellas vuelven a ser puntos. Adelante, en medio de la oscuridad, aparece algo: un planeta pequeño, raro, que no es redondo del todo. Una esfera irregular, de rocas flotantes y árboles que crecen hacia los costados, con montañas que apuntan para todos lados y, arriba de todo, en la punta más alta, una pirámide enorme, de piedra clara, con escalones que suben hasta el cielo.
+
+La burbuja baja, despacio, y se posa al pie de la pirámide.
+
+La luz se apaga.
+
+El aire es tibio, limpio, huele a flores que no conoces y a algo dulce, como fruta madura. El cielo es violeta y naranja, con varias lunas chicas. Hay pájaros de colores rarísimos que cantan en árboles con las hojas al revés. Y un silencio enorme, de lugar donde casi nunca pasa nada.
+
+De la pirámide, muy arriba, en lo alto de los escalones, sale un ruido. Grave, largo, rítmico. Como un motor viejo.
+
+—Bills-sama está roncando —dice Whis, con una sonrisa—. Qué bien. Tenemos tiempo.
+
+Se da vuelta hacia los tres. Apoya el báculo en el suelo.
+
+—Bienvenidos al planeta de Bills-sama. —Inclina la cabeza—. Goku-san, Vegeta-san: van a empezar por algo muy sencillo. Van a correr alrededor del planeta. —Señala con el báculo hacia el horizonte, que está cerca, curvo, raro—. Sin volar. Y llevando esto.
+
+Del aire, sin que nadie vea de dónde salen, aparecen dos caparazones de tortuga enormes, de piedra, del tamaño de una casa cada uno.
+
+Goku abre los ojos enormes. Vegeta aprieta los dientes.
+
+Whis se da vuelta hacia ti. Te mira, con la cabeza ladeada y una sonrisa curiosa.
+
+—Y usted, Facundo-san... —Hace una pausa—. ¿Viene a entrenar? ¿O viene a esperar a que Bills-sama se despierte, con el pudín?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1550 · DRAGON BALL · DOMINGO · NOCHE   ║
+║ Planeta de Bills · pie de la pirámide        ║
+║ NIVEL 30 · EXP 349.130/360.000               ║
+║ FRAGMENTOS 189.244 · 0 zeni                  ║
+║ Energía 70% · Ojos: bien                     ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Planeta de Bills · quedan 3        ║
+║ pudines                                      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, al pie de la pirámide. Bills duerme. Goku y Vegeta, con caparazones gigantes, a punto de correr. Whis pregunta a Facundo si entrena o espera a Bills con el pudín. Quedan 3 pudines. Facundo puede decidir.

@@ -90,3 +90,4 @@ ESTADO: sano; algo más fuerte que antes del duelo (zenkai, T1510).
 - T1547 · Whis lo invita a entrenar en el planeta de Bills: "¡¿EN SERIO?!" (tira la silla).
 - T1548 · Se va con Whis: "¡Solo un ratito, Goten! ¡Vuelvo más fuerte!" "¡Facundo me ayuda cuando vuelva!" "Ah. Cierto." En la burbuja: "¡Guau! ¡Esto es más rápido que la nave de Bulma!"
 - T1549 · Nunca probó el pudín ("estaba dormido cuando lo repartieron"); la panza le gruñe. "Facundo. ¿Tienes otro?"
+- T1550 · Prueba el pudín por fin, de un trago: "¡Es lo más rico que comí en mi vida! ¡No le digas a Milk!" Whis le pone un caparazón de piedra del tamaño de una casa para correr alrededor del planeta de Bills sin volar.
