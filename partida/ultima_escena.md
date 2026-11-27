@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1566)
-
-dejo que me lo pegue
-
-## RESPUESTA 1 (T1566)
-
-> dejo que me lo pegue
-
-Bajas la mano. No levantas la guardia. Te quedas parado en el fondo del cráter, en azul, y lo dejas.
-
-—¡...FLASH!
-
-El Final Flash sale de las manos de Vegeta a un paso de tu pecho.
-
-No es amarillo como en la cámara de gravedad. Es azul. Un río de luz azul, ancho, denso, silencioso, que te llega de lleno y te envuelve entero y sigue de largo detrás de ti, por encima de la explanada, partiendo el aire, hasta chocar contra una de las montañas que apuntan para los costados. La montaña no explota. Se borra, de la mitad para arriba, y el pedazo que queda se queda humeando, con el corte liso como un vidrio.
-
-El suelo de Whis aguanta. Apenas. Las venas de luz de toda la explanada se apagan de golpe, todas a la vez, y tardan un rato en volver a encenderse.
-
-Durante unos segundos no se ve nada. Solo luz azul, y humo, y el silbido del aire que vuelve a llenar el lugar donde estuvo la luz.
-
-El humo se va despacio.
-
-Sigues ahí. De pie. En el mismo lugar del cráter, con los brazos a los costados.
-
-El sobretodo negro está deshecho del pecho para abajo, quemado en tiras que cuelgan, humeando. La camisa, rota en el pecho, deja ver la cicatriz diagonal y los dragones tatuados. Tienes la cara caliente, las manos calientes, el pelo azul todavía en punta.
-
-Y en la mejilla izquierda, debajo de la cicatriz del ojo, un corte. Chiquito. Fino. Del que te cae una sola gota de sangre, despacio, hasta la mandíbula.
-
-Vegeta lo ve.
-
-Tiene las manos todavía adelante, abiertas, humeando. El aura azul se le apaga. El pelo se le cae, negro. Las piernas no le dan más, y se le doblan, y cae de rodillas al borde del cráter, sin aire, empapado de sudor, con los brazos colgando.
-
-Pero no deja de mirarte la mejilla.
-
-La gota de sangre te llega a la mandíbula. Se cae.
-
-Vegeta se ríe.
-
-No es la risa rota de la cámara de gravedad. Es otra. Baja, ronca, cansadísima, y contenta. Se le escapa por la nariz, y después por la boca, y se le sacuden los hombros.
-
-—Sangre —dice—. Te hice sangrar.
-
-Se queda así, de rodillas, riéndose solo, con la cabeza gacha y los puños apoyados en el piso.
-
-—Una gota. —Levanta la cabeza. Tiene los ojos negros brillantes, húmedos—. Una gota, maldito. Pero es mía.
-
-[Duelo con un compañero vencido: Vegeta.]
-
-[+25.000 Fragmentos.]
-
-[+6.000 EXP.]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1566 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Explanada de entrenamiento · amanecer        ║
-║ NIVEL 30 · EXP 355.130/360.000               ║
-║ FRAGMENTOS 214.243 · 0 zeni                  ║
-║ Energía 98% · Ojos: bien · corte en mejilla  ║
-║ SUPER SAIYAJIN BLUE (x2.000)                 ║
-║ Velo: el ki divino no se siente              ║
-║ Kase: junto a la silla de Whis, mirando      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Goku quiere su duelo en azul       ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1567)
+## COMANDO 1 (T1567)
 
 te espero goku
 
-## RESPUESTA 2 (T1567)
+## RESPUESTA 1 (T1567)
 
 > te espero goku
 
@@ -131,11 +62,11 @@ El suelo de Whis se agrieta donde estaba. Y en el aire, a un palmo de tu cara, a
 
 ---
 
-## COMANDO 3 (T1568)
+## COMANDO 2 (T1568)
 
 me defiendo y lo ataco
 
-## RESPUESTA 3 (T1568)
+## RESPUESTA 2 (T1568)
 
 > me defiendo y lo ataco
 
@@ -218,4 +149,64 @@ Whis se levanta de la silla de playa, despacio, con el báculo en la mano. Mira 
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, explanada. Facundo venció a Goku en azul; Goku esquivó solo una vez. Whis: "No fue suerte." NIVEL 31. Facundo sigue en SSJ Blue. Facundo puede actuar.
+## COMANDO 3 (T1569)
+
+me destransformo y vuelvo con kase
+
+## RESPUESTA 3 (T1569)
+
+> me destransformo y vuelvo con kase
+
+Sueltas el azul.
+
+Se te apaga sin ruido, como se apaga una lámpara. El pelo se te cae sobre los hombros, otra vez blanco y azul, desordenado. Los ojos vuelven a ser rojo y azul. El suelo de Whis, bajo tus botas, deja de crujir. Las venas de luz de la explanada se vuelven a encender, de a poco, una por una, como si respiraran aliviadas.
+
+El cansancio te llega suave, a los brazos y a las piernas. Nada más.
+
+Caminas por la explanada, entre el cráter, la zanja que dejó Goku y la montaña rajada, hasta el borde, donde está la silla de playa de Whis.
+
+Kase se levanta cuando te ve llegar. Te mira de arriba abajo: el sobretodo deshecho colgando en tiras, la camisa rota, el corte en la mejilla. Te olfatea la bota. Después la mano. Después salta, de un solo envión, y se te sube al hombro, y se acomoda contra tu cuello, y te pasa la cabeza por la mandíbula, justo debajo del corte, una vez, despacio.
+
+Se le escapa un ronroneo bajito.
+
+Detrás de ti, en el medio de la explanada, Goku y Vegeta siguen sentados en el suelo, uno al lado del otro, sin aire, sucios, golpeados.
+
+—Vegeta —dice Goku—. ¿Viste cómo frenó tu puño con dos dedos?
+
+—Cállate.
+
+—¿Y viste cuando me esquivé solo?
+
+—Cállate, Kakarotto.
+
+—¿Mañana otra vez?
+
+Vegeta tarda en contestar.
+
+—Mañana otra vez.
+
+Whis te mira llegar desde la silla de playa, con la taza de té, que volvió a llenar, entre las manos. Te mira el sobretodo, la mejilla, al gato en tu hombro. Sonríe, amable, como siempre. Pero se le quedó algo en los ojos que antes no estaba.
+
+—Buen trabajo, Facundo-san —dice—. Para ellos, quiero decir. —Toma un trago de té—. En una mañana aprendieron lo que les iba a costar un mes.
+
+Hace aparecer, de la nada, un sobretodo negro igual al tuyo, nuevo, doblado, sobre la mesita. Y un pañuelo blanco al lado.
+
+—Para la mejilla —dice—. Y el abrigo, por cortesía de la casa. Bills-sama se enojaría si su invitado del pudín anduviera en harapos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1569 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde de la explanada · mañana               ║
+║ NIVEL 31 · EXP 361.130/400.000               ║
+║ FRAGMENTOS 239.243 · 0 zeni                  ║
+║ Energía 90% · Ojos: bien · corte en mejilla  ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el hombro, ronroneando              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: Días en el planeta de Bills        ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, planeta de Bills, borde de la explanada. Facundo en estado normal, con Kase en el hombro. Whis le regala un sobretodo nuevo y un pañuelo. Goku y Vegeta: "Mañana otra vez." Facundo puede actuar.

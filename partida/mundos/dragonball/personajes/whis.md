@@ -42,3 +42,4 @@ RELACIÓN CON FACUNDO (T1557): curiosidad creciente, amable; ofrece entrenarlo.
 - T1563 · Ve el SSJ Blue de Facundo; tiembla su taza y salta el té; el suelo que reforzó se hunde. Deja la taza en el suelo, se seca los dedos con un pañuelo y, por primera vez, NO SONRÍE. Solo mira.
 - T1565 · No se mueve; mira con el pañuelo en la mano.
 - T1568 · Se inclina en la silla al ver a Goku esquivar solo. Se levanta: sonrisa distinta, de quien vio algo antes de tiempo. "No, Vegeta-san. No fue suerte."
+- T1569 · "Buen trabajo, Facundo-san. Para ellos, quiero decir. En una mañana aprendieron lo que les iba a costar un mes." Algo nuevo en los ojos. Le regala un sobretodo negro igual al suyo y un pañuelo: "Para la mejilla. Y el abrigo, por cortesía de la casa. Bills-sama se enojaría si su invitado del pudín anduviera en harapos."

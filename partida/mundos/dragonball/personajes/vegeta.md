@@ -134,3 +134,4 @@ RELACIÓN CON FACUNDO (T1546): rival al que quiere alcanzar; respeto a regañadi
 RELACIÓN CON FACUNDO (T1566): orgullo; primer logro contra él.
 - T1567 · De rodillas, le tira una piedrita a Goku: "Cállate, Kakarotto. Te va a destrozar."
 - T1568 · Sentado con las piernas cruzadas al lado de Goku: "Te vi. Fue suerte."
+- T1569 · "Cállate, Kakarotto." Tras una pausa: "Mañana otra vez."

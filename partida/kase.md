@@ -137,3 +137,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1559 · Come con desconfianza un pescado violeta de seis aletas que le sirve Whis.
 - T1560 · Mira desde la mesita, con los ojos entrecerrados, cómo se mueve Whis.
 - T1562 · Escupe con dignidad el postre celeste de Whis. Al amanecer, mira la explanada desde la ventana; se sienta junto a la silla de Whis para ver el duelo.
+- T1569 · Olfatea a Facundo tras el duelo (bota, mano), se le sube al hombro y le frota la cabeza bajo el corte de la mejilla; ronronea.

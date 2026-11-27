@@ -1,5 +1,5 @@
 {
-  "turno": 1568,
+  "turno": 1569,
   "mundo_actual": "dragonball",
   "fecha_local": "Dragon Ball: año 778, domingo (R14 terminado: desde la llegada de Bills el reloj corre normal)",
   "hora": "año 778, martes (hora Tierra), amanecer en el planeta de Bills",
@@ -86,7 +86,7 @@
     "energia": 3999,
     "control": 3998
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 90,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -672,6 +672,11 @@
       "objeto": "Táper de comida de Milk (arroz, carne, verduras)",
       "cantidad": 1,
       "detalle": "T1548, \"para el viaje\". En las manos de Facundo."
+    },
+    {
+      "objeto": "Sobretodo negro nuevo (regalo de Whis)",
+      "cantidad": 1,
+      "detalle": "T1569, igual al suyo, \"por cortesía de la casa\". En la mesita."
     }
   ],
   "copias": [
@@ -2706,6 +2711,5 @@
       "desde": "T824 (primer beso, escalinata del palacio de Mitras)",
       "estado": "pareja"
     }
-  },
-  "forma_activa": "Super Saiyajin Blue (x2.000, copia de Goku) desde T1563"
+  }
 }
