@@ -26,3 +26,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T1558 · Goku sostiene el SSJ Blue 15 s y Vegeta 8 s tras una noche (canon acelerado por la idea de Facundo).
 - T1560 · Vegeta sostiene el SSJ Blue tres minutos y Goku uno, al segundo día (canon muy acelerado).
 - T1568 · Goku esquiva por instinto, una vez, sin pensar (primer atisbo del Ultra Instinto, mucho antes que en el canon), peleando contra Facundo en azul.
+- T1603 · Idea del Ultra Ego plantada en Vegeta por Facundo (año 778, muy antes del canon). Vegeta va hacia Bills.

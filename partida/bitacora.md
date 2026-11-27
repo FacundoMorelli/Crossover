@@ -1601,3 +1601,4 @@ T1599 · DRAGON BALL · Planeta de Bills · Último golpe conteniéndose un poco
 T1600 · DRAGON BALL · Planeta de Bills · Semilla del ermitaño a Bills ("mi Dios de la Destrucción"). Bills curado: "Tu Dios de la Destrucción te agradece. Una vez. No te acostumbres." Pregunta si hay más semillas o hamburguesas.
 T1601 · DRAGON BALL · Planeta de Bills · Semilla a 1 F (R15). 100 semillas para Bills (100 F). "Tu Dios de la Destrucción. A ti te dejo." Goku pide una. Vegeta quiere hablar con Facundo.
 T1602 · DRAGON BALL · Planeta de Bills · Semilla a Goku. Habla con Vegeta: rechaza el Ultra Instinto ("ese no es mi camino"); "El día que esté listo, no quiero que te hayas ido."
+T1603 · DRAGON BALL · Planeta de Bills · "Capaz me voy, pero vuelvo." Sugiere a Vegeta una transformación del ego, lo contrario del UI. Vegeta lo piensa, mira a Bills: "No está mal pensado, para alguien de otro mundo."

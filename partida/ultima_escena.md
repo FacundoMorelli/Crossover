@@ -3,85 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1600)
-
-le doy una semilla, comela señor bills, no quiero que mi dios de la destrucción esté asi
-
-## RESPUESTA 1 (T1600)
-
-> le doy una semilla, comela señor bills, no quiero que mi dios de la destrucción esté asi
-
-> —Cómala, señor Bills. No quiero que mi Dios de la Destrucción esté así.
-
-Cruzas la explanada destrozada, paso a paso, entre los pozos y las venas de luz apagadas. El pelo plateado se te va soltando por el camino. Para cuando llegas al pasto, ya es blanco y azul oscuro otra vez, y los ojos vuelven a ser uno rojo y uno azul.
-
-Te agachas al lado de Bills. Le abres la mano sana y le dejas en la palma una semilla chiquita, verde, arrugada.
-
-Bills abre un ojo. Mira la semilla. Te mira a ti.
-
-—¿Mi? —repite, despacio—. ¿"Mi" Dios de la Destrucción?
-
-Se le mueve una oreja. Le tiembla la comisura de la boca, como si quisiera enojarse y no le saliera.
-
-—Nadie me dijo nunca "mi" nada. —Resopla—. Todos me tienen miedo. Tú me pegas, me tiras contra mi propia casa, me das de comer... y ahora me dices "mi".
-
-—Es una semilla del ermitaño, Bills-sama —dice Whis, mirándola por encima del hombro de Bills, con interés—. Las cultiva el maestro Karin, en la Tierra. Cura cualquier herida y llena el estómago como diez comidas.
-
-—¿Como diez comidas? —Bills mira la semilla otra vez, con otra cara—. ¿Y tiene gusto a algo?
-
-—A nada, me temo.
-
-—Qué desperdicio.
-
-Pero se la mete en la boca igual. Mastica una vez, con cara de asco.
-
-Y el cuerpo le cambia.
-
-El brazo derecho, que colgaba sin fuerza, se le endereza solo. Los raspones de los brazos se le cierran, el labio partido se le cierra, la hinchazón de la mejilla desaparece. Las orejas, torcidas, se le paran derechas. La cola, despeinada, se le alisa entera. Se sienta en el pasto de golpe, mirándose las manos, abriéndolas y cerrándolas.
-
-—Oh.
-
-Se pone de pie. Mueve el brazo derecho en círculos. Salta una vez en el lugar.
-
-—Oh. —Te mira—. Esto es mejor que dormir cuarenta años.
-
-Afuera, Goku se levanta del suelo con una sonrisa enorme. Vegeta deja de mirar el agujero de la pirámide.
-
-Bills se queda frente a ti, curado, con la ropa todavía hecha jirones. Se cruza de brazos. Levanta el mentón. Pero la cola se le mueve sola, de un lado al otro, sin que pueda pararla.
-
-—Bueno. —Carraspea—. Tu Dios de la Destrucción te agradece. Una vez. No te acostumbres.
-
-Mira la pirámide agrietada, con el agujero en forma de gato en la base. Después a Whis.
-
-—Whis, arregla eso.
-
-—Sí, Bills-sama.
-
-Bills te vuelve a mirar, de reojo.
-
-—Y tú —dice—. ¿Tienes más de esas semillas, o solo más hamburguesas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1600 · DRAGON BALL · PLANETA DE BILLS  ║
-║ Jardín de la pirámide · mediodía             ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.161 · 0 zeni                  ║
-║ Energía 55% · Ojos: bien · cortes cerrados   ║
-║ Sin transformar · Velo: ki muy bajo          ║
-║ Kase: en el apoyabrazos de Whis              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1601)
+## COMANDO 1 (T1601)
 
 tengo bastantes mas(hace que valga un fragmento nada mas) y compro 100, y se las doy, señor bills, con respecto a que te dije antes mi Dios de la destrucción es por que eres de mi universo, no intentaba ser ofensivo ni nada de eso
 
-## RESPUESTA 2 (T1601)
+## RESPUESTA 1 (T1601)
 
 > tengo bastantes mas(hace que valga un fragmento nada mas) y compro 100, y se las doy, señor bills, con respecto a que te dije antes mi Dios de la destrucción es por que eres de mi universo, no intentaba ser ofensivo ni nada de eso
 
@@ -143,11 +69,11 @@ Vegeta viene detrás, caminando despacio, con los brazos cruzados. No pide nada.
 
 ---
 
-## COMANDO 3 (T1602)
+## COMANDO 2 (T1602)
 
 le doy una semilla a goku y voy con vege5a
 
-## RESPUESTA 3 (T1602)
+## RESPUESTA 2 (T1602)
 
 > le doy una semilla a goku y voy con vege5a
 
@@ -207,4 +133,72 @@ Corrección: interpreté "vege5a" como Vegeta.
 
 ---
 
-ESTADO AL CIERRE: A solas con Vegeta al borde del jardín. Vegeta rechaza el UI y le pide: "El día que esté listo, no quiero que te hayas ido." Facundo puede contestar.
+## COMANDO 3 (T1603)
+
+esta bien, igual capaz me voy pero vuelvo, aparentemente se volver cuando hay problemas, justo cuando volví apareció bills, asi que no te preocupes, y vegeta, tu transformación tendría que ser algo relacionado con el ego, en vez de ser como el de goku, tendría que ser lo contrario
+
+## RESPUESTA 3 (T1603)
+
+> esta bien, igual capaz me voy pero vuelvo, aparentemente se volver cuando hay problemas, justo cuando volví apareció bills, asi que no te preocupes, y vegeta, tu transformación tendría que ser algo relacionado con el ego, en vez de ser como el de goku, tendría que ser lo contrario
+
+> —Está bien. Igual capaz me voy, pero vuelvo. Aparentemente sé volver cuando hay problemas: justo cuando volví apareció Bills. Así que no te preocupes.
+
+Vegeta resopla por la nariz.
+
+—No me preocupo —dice, enseguida—. El príncipe de los saiyajin no se preocupa por nadie.
+
+Pero los hombros se le aflojan un poco.
+
+> —Y, Vegeta: tu transformación tendría que ser algo relacionado con el ego. En vez de ser como la de Goku, tendría que ser lo contrario.
+
+Vegeta se queda quieto.
+
+—¿El ego?
+
+Lo repite despacio, frunciendo el ceño, como si mordiera la palabra para ver si es dura.
+
+—Lo contrario. —Desvía la mirada hacia el cielo, hacia las rocas flotantes—. El ángel dice que el Ultra Instinto es vaciarse. No pensar. No sentir. Dejar que el cuerpo haga todo solo, tranquilo, como el agua.
+
+Aprieta un puño, despacio, y se lo mira.
+
+—Y lo contrario sería no vaciarse. Llenarse. —Le sale casi en un murmullo—. Pelear con todo el orgullo encima, con toda la rabia, con todo lo que soy. No esquivar. Recibir el golpe y volverme más fuerte por recibirlo. No calmarme nunca.
+
+Se queda callado.
+
+Sin querer, gira la cabeza hacia la pirámide. Allá lejos, al pie de la escalera, Bills está sentado en el pasto con la bolsa de semillas atada a la faja, discutiendo con Goku y haciendo gestos con las manos. La cola se le mueve, enojada. Vegeta lo mira un rato largo, con los ojos entrecerrados.
+
+—Un dios que destruye cuando se enoja —dice, para sí—. Que pelea con el orgullo herido. Que no se calma.
+
+Te mira otra vez, y por primera vez desde que lo conoces la mirada no tiene nada de rival. Es la de alguien que acaba de ver una puerta.
+
+Pero dura un segundo. Enseguida se le endurece la cara, cruza los brazos y levanta el mentón.
+
+—No necesitaba que me lo dijeras —gruñe—. Ya lo iba a descubrir solo.
+
+Se da vuelta. Empieza a caminar hacia la pirámide, hacia Bills, con paso firme.
+
+A los cinco pasos se detiene, de espaldas.
+
+—...Pero no está mal pensado, para alguien de otro mundo.
+
+Y sigue caminando.
+
+Kase, en tu hombro, lo mira irse. Después te mira a ti y parpadea una vez, despacio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1603 · DRAGON BALL · PLANETA DE BILLS  ║
+║ Borde del jardín · mediodía                  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.061 · 0 zeni                  ║
+║ Energía 55% · Ojos: bien · cortes cerrados   ║
+║ Sin transformar · Velo: ki muy bajo          ║
+║ Kase: en tu hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Vegeta se va hacia Bills con la idea del Ego ("no está mal pensado, para alguien de otro mundo"). Facundo solo al borde del jardín con Kase. Facundo puede actuar.
