@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1536)
-
-esta bien
-
-## RESPUESTA 1 (T1536)
-
-> esta bien
-
-> —Está bien.
-
-—¡Perfecto! —Bulma aplaude, con los zapatos en la mano.
-
-Milk se acerca por el muelle a paso rápido, con Goten dormido colgando del hombro de Goku detrás de ella.
-
-—¿Se queda en Capsule Corp? —Mira a Bulma, después a ti—. Bueno. —Se cruza de brazos—. Pero mañana a la noche viene a cenar a casa. Los desayunos de tu cocina son todo comida de cápsula, Bulma, y el muchacho necesita comer de verdad.
-
-—¡Mi cocina tiene un chef!
-
-—Un robot.
-
-—¡Un robot chef!
-
-Se quedan mirándose. Después las dos se ríen, al mismo tiempo, y se dan un abrazo de esos que solo se dan las amigas de toda la vida. Milk te pone un dedo en el pecho antes de irse.
-
-—Mañana a la noche. Y si Vegeta te lastima, me avisas.
-
-Goku te saluda con la mano libre, con Goten dormido en el otro hombro, y se van volando hacia el Monte Paoz, Milk en la nube voladora, una figura con el traje quemado, un chico dormido y una mujer que sigue retándolo en el aire.
-
-Capsule Corporation, de noche, es una cúpula blanca enorme llena de luces en medio de la Ciudad del Oeste, rodeada de jardines y de hangares. Adentro todo es grande, curvo y lleno de cosas raras: robots que barren solos, un dinosaurio chiquito que pasea por el pasillo, gatos negros que te miran desde los sillones. Kase los mira desde tu hombro con un desprecio profundo.
-
-La madre de Bulma te recibe en la puerta con una bandeja de pasteles, una sonrisa enorme y los ojos cerrados, y te dice que eres muy apuesto. Dos veces. El padre de Bulma, bajito, con un cigarrillo y un gato negro en el hombro, te mira, mira a Kase y dice "lindo gato", y se va.
-
-Bulma te deja en un cuarto del tercer piso. Es más grande que la casa entera de los Son. Una cama redonda, una ventana enorme sobre la ciudad iluminada, un baño con más botones que una nave espacial y, en la mesa de luz, un plato con pescado fresco que alguien trajo en los últimos cinco minutos.
-
-—Desayuno a las cinco y media —dice Bulma desde la puerta—. Vegeta se levanta a las cinco. No llegues tarde, viajero. —Se ríe—. Buenas noches.
-
-Cierra la puerta.
-
-El cuarto se queda en silencio. Por la ventana se ven las luces de la Ciudad del Oeste, las calles, los autos voladores que pasan lejos. Abajo, en el jardín, en uno de los hangares, hay una luz encendida y se oye un zumbido grave, constante, como un motor enorme. Alguien entrena. A esta hora.
-
-Kase baja de tu hombro, va derecho al plato de pescado, lo olfatea y empieza a comer. Después se sube a la cama redonda y se echa justo en el medio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1536 · DRAGON BALL · SÁBADO · 21:30    ║
-║ Capsule Corporation · cuarto del 3.er piso   ║
-║ NIVEL 30 · EXP 343.130/360.000               ║
-║ FRAGMENTOS 164.245 · 0 zeni                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Velo: ki muy bajo (por debajo de Krilin)     ║
-║ Kase: en el medio de la cama redonda         ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
-║ OBJETIVO: Mañana 6:00 entrenar con Vegeta ·  ║
-║ cena en casa de Milk                         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1537)
+## COMANDO 1 (T1537)
 
 acaricio a kase y le doy un beso en la cabeza, te amo hijo
 
-## RESPUESTA 2 (T1537)
+## RESPUESTA 1 (T1537)
 
 > acaricio a kase y le doy un beso en la cabeza, te amo hijo
 
@@ -111,11 +52,11 @@ Kase sigue ronroneando.
 
 ---
 
-## COMANDO 3 (T1538)
+## COMANDO 2 (T1538)
 
 me voy a dormir y me despierto para ir a desayunar
 
-## RESPUESTA 3 (T1538)
+## RESPUESTA 2 (T1538)
 
 > me voy a dormir y me despierto para ir a desayunar
 
@@ -166,4 +107,49 @@ Bulma lo mira irse. Después apoya los codos en la mesa, la barbilla en las mano
 
 ---
 
-ESTADO AL CIERRE: DRAGON BALL, domingo 05:38, cocina de Capsule Corp. Vegeta se fue al hangar (entrenamiento a las 6). Bulma pide el "secreto chiquito". Facundo puede responder.
+## COMANDO 3 (T1539)
+
+mmmm, viajo a muchos lugares, muy distintos de aca
+
+## RESPUESTA 3 (T1539)
+
+> mmmm, viajo a muchos lugares, muy distintos de aca
+
+> —Mmmm. Viajo a muchos lugares. Muy distintos de aquí.
+
+Bulma se queda con la taza a medio camino de la boca.
+
+—Muy distintos de aquí —repite, despacio. Deja la taza en la mesa. Se le despiertan los ojos de golpe, como si el café le hubiera hecho efecto todo junto—. ¿Distintos cómo? ¿Otros planetas? ¿Como Namek?
+
+Se inclina hacia adelante sobre la mesa, con los codos al lado del plato.
+
+—Fui a Namek, ¿sabes? Hace años. Tres soles, nunca era de noche, todo verde y azul, casas redondas, ranas por todos lados. —Se le escapa una mueca—. Y un tirano espacial que quería matarnos a todos. —Agita la mano—. Pero lo importante es que vi otro planeta. Uno solo.
+
+Te mira las manos, el sobretodo, el bolsillo de donde salieron las cajas de pudín.
+
+—Y tú viajas "a muchos lugares". —Entrecierra los ojos—. Sin nave. Porque te vi llegar con Goku, y no había ninguna nave. Y sacas cosas de un bolsillo que no tiene fondo. —Se ríe por lo bajo—. Yo hice las cápsulas. Las cápsulas Hoi-Poi. Sé cómo se guarda una casa entera en una cosa del tamaño de un dedo. Y eso que haces tú no es una cápsula.
+
+Kase, desde el piso, levanta la cabeza del plato de pescado y la mira.
+
+Bulma se lleva la taza a la boca otra vez. Toma un trago largo. Después la deja, cruza los brazos sobre la bata y te sonríe, con los ojos brillantes, la misma cara de chica de dieciséis años que salió un día de su casa a buscar siete esferas por el mundo.
+
+—Está bien. No me digas cómo. —Levanta un dedo—. Dime una sola cosa. Una. De uno de esos lugares. Algo que yo no haya visto nunca. —Mira el reloj de la pared—. Te quedan dieciocho minutos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1539 · DRAGON BALL · DOMINGO · 05:42   ║
+║ Capsule Corporation · cocina                 ║
+║ NIVEL 30 · EXP 343.130/360.000               ║
+║ FRAGMENTOS 164.245 · 0 zeni                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Velo: ki muy bajo (por debajo de Krilin)     ║
+║ Kase: en el piso, mirando a Bulma            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Dragon Ball)      ║
+║ OBJETIVO: 6:00 entrenar con Vegeta · cena    ║
+║ en casa de Milk                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: DRAGON BALL, domingo 05:42, cocina de Capsule Corp. Bulma pide "una sola cosa" de uno de los lugares a los que viaja, algo que no haya visto nunca. Quedan 18 minutos para Vegeta. Facundo puede responder.
