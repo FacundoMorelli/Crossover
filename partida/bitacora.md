@@ -1768,3 +1768,4 @@ T1765 · SOLO LEVELING · Gangnam · La saluda. Cha Hae-in se acerca: "¿Eres ca
 T1766 · SOLO LEVELING · Gangnam · "No sé qué son los cazadores. Soy un viajero." Cha Hae-in explica. Choi la llama; Jinwoo mira. "¿Cómo te llamas?"
 T1767 · SOLO LEVELING · Gangnam · "Me llamo Facundo Morelli." "Yo soy Cha Hae-in." Entran a la Puerta. Don pasivo: rango A real, 58 orcos y un chamán.
 T1768 · SOLO LEVELING · Puerta de Gangnam · Entra sin ser visto y observa la incursión. Jinwoo extrae al chamán ("Levántate"). Misiones de copia: Cha, Choi, Jinwoo. Cha a Jinwoo: "Como el chico de afuera." "¿Qué chico?"
+T1769 · SOLO LEVELING · Gangnam · Sale de la Puerta sin ser visto. Cha Hae-in y Jinwoo se le acercan en la cinta. "¿Tú eres el chico de afuera?"
