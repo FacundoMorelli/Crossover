@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1729)
-
-simula hasta que llegue makima
-
-## RESPUESTA 1 (T1729)
-
-> simula hasta que llegue makima
-
-El día pasa despacio.
-
-Aki no dice nada de lo de Kishibe. Cierra la puerta, termina de vestirse, desayuna parado en la cocina, arroz con huevo y té, y se va a la central a las ocho con la katana al hombro y un cigarrillo apagado en la boca. Antes de salir le pone a Power la bufanda, porque hace frío, y Power se la saca apenas cierra la puerta.
-
-Denji duerme hasta las once. Se levanta, se rasca la panza, abre la heladera, encuentra la mermelada de frutilla que compró Aki y se come medio frasco con una cuchara de pie frente a la ventana. Después te enseña a jugar a un juego de cartas que inventó él, con reglas que cambian cada vez que va perdiendo.
-
-Power pasa la mañana entera tratando de que Kase se le suba a la cabeza. Le ofrece pescado, le ofrece leche, le ofrece una media de Denji. Kase no se le sube a la cabeza. Pero a la tarde, cuando ella se queda dormida en el tatami con la boca abierta y Miau sobre la panza, Kase se le acerca, la mira un rato, y se le echa al lado, pegado a su espalda, hasta que se despierta.
-
-A las seis empieza a llover otra vez.
-
-Aki vuelve a las siete y media, empapado, con una bolsa de compras. No habla en toda la cena. Cocina curry, sirve cuatro platos y un platito para cada gato, se sienta, come, lava. Denji le pregunta si pasó algo. Aki dice que no. Power le pregunta si la china es linda. Aki dice que se termine las zanahorias. Power esconde las zanahorias debajo del arroz.
-
-A las nueve, Aki se sienta en el balcón, solo, bajo el alero, a fumar, mirando la lluvia caer sobre los techos. No entra.
-
-A las nueve y cuarenta suena el teléfono del departamento.
-
-Denji atiende, con la boca llena de galletitas. Escucha. Pone cara de no entender. Te mira. Te tiende el tubo, estirando todo el cable.
-
-—Es para ti. El viejo de la petaca. —Se encoge de hombros—. Dice que es urgente. No dice "hola" ni nada.
-
-Del otro lado de la línea se oye una respiración pesada y el ruido de un lugar grande, con eco, como un pasillo de cemento. Un goteo. Pasos lejos.
-
-—Morelli. —La voz de Kishibe. Más baja que nunca, casi un susurro, como si no quisiera que lo oyeran—. Llegó. Hace diez minutos. Ni siquiera fue a su oficina.
-
-Una pausa larga. El goteo.
-
-—Está bajando a las celdas. Sola.
-
-Otra pausa.
-
-—No sé por qué te llamo. —Se le escapa algo que podría ser una risa, sin ganas—. Supongo que pensé que querías saberlo.
-
-Clic.
-
-En el balcón, Aki apaga el cigarrillo contra la baranda, despacio, y no se da vuelta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1729 · CHAINSAW MAN · DÍA 4 · 21:40    ║
-║ Tokio, otoño de 1997                         ║
-║ Departamento de Aki, living                  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: con Power, en el tatami                ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1730)
+## COMANDO 1 (T1730)
 
 me teletransporto a las celdas con makima
 
-## RESPUESTA 2 (T1730)
+## RESPUESTA 1 (T1730)
 
 > me teletransporto a las celdas con makima
 
@@ -131,11 +70,11 @@ Del otro lado de los barrotes, la mujer del parche desvía la mirada de Makima p
 
 ---
 
-## COMANDO 3 (T1731)
+## COMANDO 2 (T1731)
 
 hola
 
-## RESPUESTA 3 (T1731)
+## RESPUESTA 2 (T1731)
 
 > hola
 
@@ -190,4 +129,63 @@ Espera.
 
 ---
 
-ESTADO AL CIERRE: Día 4 21:42, celdas. Quanxi saluda con la cabeza. Cosmo: "¡Halloween!" Makima sigue apuntando con la mano. Deduce que Kishibe le avisó ("demasiado sentimental"). Justifica: Quanxi se entregó, pero vino a arrancarle el corazón a Denji y sus fiends mataron a 3 agentes en Shinjuku hace 4 días. "Voy a hacer lo que se hace. Con cuidado. Sin que duela." "Usted nunca viene a mirar. Siempre viene a hacer algo. ¿Qué vino a pedirme?"
+## COMANDO 3 (T1732)
+
+no la mate
+
+## RESPUESTA 3 (T1732)
+
+> no la mate
+
+> —No la mates.
+
+Makima no se mueve.
+
+La mano sigue en alto, apuntando a los barrotes. Los dedos, quietos. El tubo de arriba zumba. En la celda, la fiend de las orejas de animal contiene la respiración. Cosmo se tapa la boca con las dos manos, con los ojos en espiral enormes. Quanxi no cambia la cara: sigue mirando a Makima, tranquila, como quien mira llover.
+
+Pasan cinco segundos. Diez.
+
+Al fondo del pasillo, la silueta de Kishibe se endereza, apenas.
+
+Makima te mira. No a los ojos: a la cara entera, despacio, como si la leyera. Después baja la vista a tus manos. Después vuelve a la cara.
+
+—"No la mates" —repite, con tu misma voz baja, sin ironía.
+
+Y baja la mano.
+
+Despacio. Los dedos se aflojan, se cierran, la mano vuelve a juntarse con la otra delante del cuerpo, sobre el abrigo negro mojado de lluvia. Así de simple.
+
+En la celda, la de las costuras se larga a llorar, sin ruido, contra el hombro de Quanxi. Quanxi cierra el único ojo un segundo. Solo uno. Cuando lo abre, te mira a ti.
+
+—Usted me trajo a Santa Claus viva —dice Makima, con suavidad—. Despertó a trescientas ochenta y siete personas que yo ya había dado por muertas. Se tragó una mano del Infierno en un sótano. Durmió a cuarenta y seis muñecos y a tres asesinos sin hacer ruido. Y no me pidió nada. Ni dinero, ni un lugar, ni un nombre. —Se le estira un poco la sonrisa—. Es la primera cosa que me pide, señor Morelli.
+
+Da un paso hacia ti. Uno solo.
+
+—Y me la pide para una mujer que vino a matar a uno de los míos.
+
+Lo dice sin enojo. Con curiosidad. Con algo que, en cualquier otra persona, sería ternura.
+
+—Está bien. No la voy a matar. A ninguna de ellas. —Inclina la cabeza—. Pero las cosas no son gratis en este trabajo. Ni siquiera para usted.
+
+Otro paso. Queda a un metro. Huele a lluvia y a algo dulce, como el aire antes de una tormenta.
+
+—Si ella vive, alguien tiene que responder por ella. Por lo que haga mañana, y pasado, y dentro de un año. Si vuelve a tocar a Denji, si sus chicas vuelven a matar a alguien en mi ciudad. —Te mira, y los anillos amarillos no se mueven—. ¿Va a ser usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1732 · CHAINSAW MAN · DÍA 4 · 21:43    ║
+║ Tokio, otoño de 1997                         ║
+║ Central de Seguridad Pública, celdas         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el departamento, con Power          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 21:43, celdas. Facundo: "No la mates." MAKIMA BAJÓ LA MANO: "Está bien. No la voy a matar. A ninguna de ellas." ("Es la primera cosa que me pide... y me la pide para una mujer que vino a matar a uno de los míos.") Condición: "Si ella vive, alguien tiene que responder por ella. Si vuelve a tocar a Denji, si sus chicas vuelven a matar a alguien en mi ciudad. ¿Va a ser usted?" Quanxi cerró el ojo un segundo; la de las costuras llora. Kishibe se enderezó al fondo.

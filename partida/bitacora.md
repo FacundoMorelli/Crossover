@@ -1730,3 +1730,4 @@ T1728 · CHAINSAW MAN · departamento de Aki · SIMULACIÓN hasta el Día 4. Se 
 T1729 · CHAINSAW MAN · departamento de Aki · SIM hasta las 21:40. Kishibe llama: "Makima llegó. Está bajando a las celdas. Sola."
 T1730 · CHAINSAW MAN · celdas de la central · Se teletransporta detrás de Makima, que apunta con la mano a Quanxi. "Me encontró otra vez." Quanxi: "Así que eres tú."
 T1731 · CHAINSAW MAN · celdas · "Hola." Cosmo: "¡Halloween!" Makima: "Voy a hacer lo que se hace. Usted nunca viene a mirar. ¿Qué vino a pedirme?"
+T1732 · CHAINSAW MAN · celdas · "No la mates." Makima baja la mano: "No la voy a matar." Condición: "¿Va a responder usted por ella?"
